@@ -5,36 +5,45 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
-    *   The Curse of La Llorona
-    *   Shazam!
-    *   Breakthrough (2019)
+    *   Avengers: Endgame (2019)
     *   Captain Marvel (2019)
+    *   The Curse of La Llorona
+    *   Breakthrough (2019)
+    *   Shazam!
     *   Little (2019)
     *   Dumbo (2019)
     *   Pet Sematary (2019)
-    *   Missing Link (2019)
     *   Us (2019)
-    *   Hellboy (2019)
-    *   After (2019)
+    *   Penguins (2019)
+    *   Missing Link (2019)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Avengers: Endgame (2019)
-    *   The White Crow
+    *   El Chicano (2019)
+    *   The Intruder (2019)
+    *   UglyDolls
+    *   Long Shot
+    *   Ask Dr. Ruth
+    *   Bolden
+    *   The Convent (2019)
+    *   Meeting Gorbachev
+    *   Non-Fiction
+    *   Savage (2019)
+    *   Shadow (2019)
     *   See All Opening This Week
     
     Coming Soon
     
-    *   El Chicano (2019)
-    *   The Intruder (2019)
-    *   Long Shot
-    *   UglyDolls
     *   Pokémon Detective Pikachu
     *   The Hustle (2019)
     *   Poms
     *   John Wick: Chapter 3 – Parabellum
     *   The Sun Is Also a Star
+    *   A Dog's Journey
+    *   Aladdin (2019)
+    *   Brightburn
+    *   Booksmart
     *   See All Coming Soon
     
     Explore More
@@ -63,8 +72,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   A ‘MIB: International’ Character Guide To Fresh Faces (And Voices) Read More
-    *   ‘MIB: International’ Behind-The-Scenes Fun Facts That Could Answer Some Of Your Burning Questions Read More
-    *   The Week in Movie News: ‘Bond 25’ Cast and Plot Revealed, First ‘Gemini Man’ Trailer and More Read More
+    *   Today in Movie Culture: Everything You Missed in ‘Avengers: Endgame,’ How ‘Blade’ Led to the MCU and More Read More
+    *   Next 3 Marvel Movies We Want to See: 'Spider-Man: Far From Home,' 'Black Widow,' 'Black Panther 2' Read More
     
     Explore Content
     *   Movie Reviews
@@ -367,4 +376,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso AdChoices © 2018 Fandango
