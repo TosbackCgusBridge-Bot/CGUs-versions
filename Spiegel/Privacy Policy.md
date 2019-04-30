@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   29\. April 2019
+*   30\. April 2019
 *   Abo
-*   DAX 12.315,18ǀ
+*   DAX 12.328,02ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -113,8 +113,6 @@ Anmelden
         *   Technik
         *   Weltall
         *   Medizin
-        *   Datenlese
-        *   ÜberMorgen
     *   *   Sudoku
 *   Gesundheit
     
