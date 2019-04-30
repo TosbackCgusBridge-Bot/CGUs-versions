@@ -5,11 +5,11 @@
 *   Products &. Services
     *   *   Wolfram|One
         *   Mathematica
-        *   Development Platform
         *   Programming Lab
-        *   Data Science Platform
         *   Finance Platform
         *   SystemModeler
+        *   Wolfram Player
+        *   WolframScript
         
         *   *   Enterprise Private Cloud
             *   Enterprise Mathematica
@@ -19,13 +19,15 @@
             *   Technical Services
             *   Wolfram|Alpha Business Solutions
         
-        *   Products for Education
+        *   Resource System
+            *   Data Repository
+            *   Neural Net Repository
         *   Wolfram|Alpha
             *   Wolfram|Alpha Pro
             *   Problem Generator
             *   API
         *   Data Drop
-        *   Data Repository
+        *   Products for Education
         
         *   Mobile Apps
             *   Wolfram Player
@@ -286,15 +288,14 @@ Legal
 *   Products
 *   Wolfram|One
 *   Mathematica
-*   Development Platform
 *   Programming Lab
-*   Data Science Platform
 *   Wolfram|Alpha Pro
 *   Mobile Apps
 *   Finance Platform
 *   SystemModeler
-*   Wolfram Workbench
 *   Wolfram Player
+*   WolframScript
+*   Wolfram Workbench
 *   Volume &. Site Licensing
 *   Enterprise Private Cloud
 *   View all...
@@ -328,6 +329,7 @@ Legal
 *   Public Resources
 *   Wolfram|Alpha
 *   Demonstrations Project
+*   Resource System
 *   Connected Devices Project
 *   Wolfram Data Drop
 *   Wolfram + Raspberry Pi
