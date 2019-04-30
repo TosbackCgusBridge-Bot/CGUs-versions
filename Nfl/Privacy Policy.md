@@ -3,7 +3,6 @@
 *   Schedule
 *   Standings
 *   Draft
-*   Free Agency
 *   NFL 100
 *   Fantasy
 *   Tickets
@@ -18,13 +17,14 @@
 *   Ways to Watch
 *   NFL Network
 *   Photos
+*   Free Agency
+*   NFL Films
 
 *   News
 *   Scores
 *   Schedule
 *   Standings
 *   Draft
-*   Free Agency
 *   NFL 100
 
 *   Schedule
@@ -39,6 +39,8 @@
     *   Ways to Watch
     *   NFL Network
     *   Photos
+    *   Free Agency
+    *   NFL Films
 
 *   Fantasy
 *   Tickets
