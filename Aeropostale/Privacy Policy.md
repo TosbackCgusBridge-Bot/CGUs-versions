@@ -63,13 +63,13 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
-*   Flash Sale
 *   Grad Shop
 *   Online Only
 *   Jeans Guide
 *   Tribe Of Tees
 *   Active
 *   Lounge
+*   Basic Essentials
 *   Seriously Soft
 *   Uniform
 
@@ -114,12 +114,12 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
-*   Flash Sale
 *   Grad Shop
 *   Online Only
 *   Denim Guide
 *   Lounge
 *   Active
+*   Back to Basics
 
 Close submenu ( Jeans ) Jeans
 
@@ -259,7 +259,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Take 15% off** Use Code **NOSLEEP**  GIRLS GUYS **+ Free Ship $50**
+**50-70% Off Sitewide + Shop New Arrivals**  GIRLS GUYS **+ Free Ship $50**
 
 *   Select Country
 *   My Account My Account Login Register
@@ -308,13 +308,13 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
-        *   Flash Sale
         *   Grad Shop
         *   Online Only
         *   Jeans Guide
         *   Tribe Of Tees
         *   Active
         *   Lounge
+        *   Basic Essentials
         *   Seriously Soft
         *   Uniform
     
@@ -351,12 +351,12 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
-        *   Flash Sale
         *   Grad Shop
         *   Online Only
         *   Denim Guide
         *   Lounge
         *   Active
+        *   Back to Basics
     
 *   Jeans
     
@@ -481,7 +481,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Promo Ends 4/29 5AM EST Details Girls Flash Sale Shop Guys Flash Sale Shop Shop Girls Tees Shop Guys Tees Shop Dresses Shop Girls Polos Shop Guys Polos Shop Girls Polos Shop Guys Polos Shop Girls Shop Guys Shop Girls Shop Guys -30 -1 : Days 27 : Days 52 Details Shop Girls Shop Guys Shop Girls Bottoms Shop Guys Bottoms Previous Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Next Shop Girls Shop Guys Shop Girls Shop Guys Previous Next Shop The Girls Tribe Shop Dresses Shop Girls Polos Shop Guys Polos Shop Girls Polos Shop Guys Polos Shop Guys Tees Shop Girls Shop Guys Shop Retro Shorts Shop Aero One Shop Girls Accessories Shop Guys Accessories Girls Clearance Guys Clearance Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Details Shop Girls Shop Guys Shop Girls Tees Shop Guys Tees Shop Dresses Shop Girls Polos Shop Guys Polos Shop Girls Polos Shop Guys Polos Shop Girls Shop Guys Shop Girls Shop Guys -31 -1 : Days 28 : Days 14 Details Shop Girls Shop Guys Shop Girls Bottoms Shop Guys Bottoms Previous Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Next Shop Girls Shop Guys Shop Girls Shop Guys Previous Next Shop The Girls Tribe Shop Dresses Shop Girls Polos Shop Guys Polos Shop Girls Polos Shop Guys Polos Shop Guys Tees Shop Girls Shop Guys Shop Retro Shorts Shop Aero One Shop Girls Accessories Shop Guys Accessories Girls Clearance Guys Clearance Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
