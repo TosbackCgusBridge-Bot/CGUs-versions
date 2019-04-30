@@ -22,7 +22,7 @@ New items have been added to sale! SHOP NOW
     *   Login
     *   |
     *   Register
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   MY BAG
 
@@ -234,7 +234,7 @@ New items have been added to sale! SHOP NOW
         *   Performance Stretch
         *   Superior Stretch
         *   All Stretch
-        *   Coolmax®
+        *   COOLMAX®
         *   REPREVE®
         *   Shop All
         
@@ -483,7 +483,6 @@ Returns
 
 Promotions
 
-*   Buckle Credit Card Offer
 *   Store Events
 *   Military Discount
 *   All Promotions
