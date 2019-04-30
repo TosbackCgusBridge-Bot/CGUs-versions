@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off full-price swimwear, water shoes and more. 30% off all other full-price styles!
+Receive free two-day shipping to most U.S. addresses. 40% off 1 full-price item!
 
-code: COLORFUL pin: 4261 DETAILS
+code: BREEZE pin: 6234 DETAILS
 
 Customer Service Menu
 
