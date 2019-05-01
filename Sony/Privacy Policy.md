@@ -111,7 +111,7 @@ In Theaters June 14
 
 Experience a journey of deep friendship in The Last Guardian, $13.99 during PS Store’s Golden Week Sale:  https://play.st/2vqBi1P  pic.twitter.com/7ZaCcZGNEl
 
-1 day ago
+2 days ago
 
 View Tweet
 
