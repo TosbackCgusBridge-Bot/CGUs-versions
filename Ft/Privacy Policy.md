@@ -58,7 +58,7 @@ We only process personal information where we have a lawful basis for doing so, 
 
 How we use your personal information
 
-We collect personal information for eight main reasons:
+We collect personal information for the following main reasons:
 
 1.  **To provide our service –** We require some of your basic personal information so our services work as you would expect, for example, delivering the newspaper to your correct address, providing access to our digital content, notifying you of changes to our services and dealing with customer services queries. We record customer calls for monitoring and training purposes.
 2.  **To improve and maintain performance – In order to provide you with the best possible user experience and value, we need to make sure that our products and services work as they should. Using personal information helps us understand how our readers experience  our Sites and services, so we can make improvements. This includes contacting customers with market research surveys or for telephone interviews, hosting subscriber focus groups and analysing onsite data to test new and existing events, products and developments for the FT group.**
@@ -137,13 +137,13 @@ Our Sites contain links to third party websites which are not subject to this pr
 
 If you have a query in regards to the processing of your personal information, please contact our Data Protection Officer directly at Privacy.Officer@ft.com.
 
-The Financial Times Ltd  
-Registered Office: Number One Southwark Bridge, London SE1 9HL, UK  
-Registered Number: 227590
+The Financial Times Limited  
+Registered Office: Bracken House, 1 Friday Street, London, EC4M 9BT, United Kingdom  
+Registered Number: 00227590
 
 Changes to this Privacy Policy
 
-This policy is effective from 14/05/2018.
+This policy is effective from 14 May 2018.
 
 Any changes we may make to this privacy policy will be posted on this page. If changes are significant, we may choose to notify you by email or to clearly indicate on our home page that the policy has been updated.
 
