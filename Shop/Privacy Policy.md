@@ -153,10 +153,9 @@ Lenovo Explore Close
         
         *   For Home
         *   Lenovo Vantage
+        *   Lenovo Vantage for Gaming
         *   Lenovo App Explorer
         *   Lenovo Migration Assistant
-        *   ThinkShield
-        *   Lenovo Vantage for Gaming
         
         *   For Work
         *   Vantage for SMB
@@ -209,6 +208,7 @@ Lenovo Explore Close
         *   LenovoPRO for Business
         *   Data Center
         *   View All Solutions
+        *   ThinkShield
         
         *   Large Enterprise
         *   Government
