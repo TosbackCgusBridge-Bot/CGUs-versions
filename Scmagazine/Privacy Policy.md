@@ -215,17 +215,17 @@ New York, NY 10001.**
     *   Michigan medical practice folds after ransomware attack
     *   Machines running popular AV software go unresponsive after Microsoft Windows update
     
-    *   GandCrab ransomware strikes Doctors’ Management Services
-    *   New cryptomining worm Beapy targets Asian enterprises while ignoring consumers
-    *   DNSpionage actors adjust tactics, debut new remote administration tool
+    *   Facebook sets aside $3 billion in anticipation of FTC privacy violations fine
+    *   Ransomware ravages municipalities nationwide this week
+    *   Flaw in Columbia, S.C., website search tool exposed database, SMPT server passwords
     *   ShadowHammer code found in several video games
-    *   How to be an ethical hacker
+    *   Fake U.S. State Dept. docs used in European embassy cyberattacks
     
-    *   Apple claims to have removed parental control apps from App Store over privacy concerns
-    *   Amnesty Intl. says cyberattack on Hong Kong office appears linked to known APT group
-    *   Securing Your Supply Chain: Mitigating Supplier and Contractor Risk
-    *   Microsoft set to nix password expiration policies for Windows 10
-    *   Greenville in recovery phase from Robbinhood ransomware attack
+    *   Backdoors found in Huawei-supplied Vodafone equipment
+    *   Slack warns investors of future cybersecurity risks
+    *   Rosenstein to resign, says elections are more secure. Wray says Russia threat to electorate around the clock
+    *   GitHub hosted Magecart skimmer used against e-commerce sites
+    *   Flawed P2P technology threatens millions of IoT devices
 
 Back to Top
 
