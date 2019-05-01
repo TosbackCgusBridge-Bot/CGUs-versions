@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server development summary – 30 April 2019 ›
 *   Canonical consolidates open infrastructure support and security offerings ›
 *   Formatting our code with Prettier ›
 *   An introduction to AppArmor ›
 *   Ubuntu is the #1 for embedded Linux for IoT ›
-*   Visit Canonical at Dell Technologies World ›
