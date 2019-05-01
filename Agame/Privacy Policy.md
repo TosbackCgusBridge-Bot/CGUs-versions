@@ -90,8 +90,8 @@ View more results
     *   Slither.io
     *   Total Front: Army War Game
     *   Stunt Skateboard 3D
-    *   Sniper Team 2
     *   Uphill Rush 7: Waterpark
+    *   Sniper Team 2
     *   Deer Hunter
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Short Life
@@ -189,8 +189,8 @@ View more results
     *   The Princess: Sent to the Future - Dress Up Game
     *   Electricman 2: Stickman Fighting Game
     *   Ella: Hips Surgery
-    *   Princess Rivalry
     *   Get Your Boyfriend
+    *   Princess Rivalry
     *   Fidget Spinner
 *   Top Categories
     
@@ -223,7 +223,7 @@ View more results
     *   Extreme Off-Road Cars 2
     *   Russian Car Driver
     *   Moto X3M: Motorcycle Racing Game
-    *   Neon Biker
+    *   Rally Point 2: Dirt Track Racing Game
 *   Top Categories
     
     *   Athletics
