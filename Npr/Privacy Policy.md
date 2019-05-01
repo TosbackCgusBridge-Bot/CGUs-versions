@@ -61,8 +61,9 @@ Close Navigation Menu
 *   Tiny Desk
 *   All Songs Considered
 *   Music News
-*   Features
+*   Music Features
 *   New Music
+*   Best Music Of 2018
 
 *   About NPR
 *   Overview
