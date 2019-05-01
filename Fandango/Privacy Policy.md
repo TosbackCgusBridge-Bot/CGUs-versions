@@ -71,7 +71,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   A ‘MIB: International’ Character Guide To Fresh Faces (And Voices) Read More
+    *   Watch First, Fun 'Sonic the Hedgehog' Trailer. Here's Everything We Know Read More
     *   Today in Movie Culture: Everything You Missed in ‘Avengers: Endgame,’ How ‘Blade’ Led to the MCU and More Read More
     *   Next 3 Marvel Movies We Want to See: 'Spider-Man: Far From Home,' 'Black Widow,' 'Black Panther 2' Read More
     
