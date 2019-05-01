@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
+*   My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -34,27 +34,27 @@ Near YouFind a StoreBackBEAUTY GIFTS FOR MOMShop AllBEAUTY GIFTS FOR MOMShop All
 
 *   from$27
     
-    Marc Jacobs Fragrances Daisy Love Eau So Sweet(90)Add To Cart
-*   $14
-    
-    SEPHORA COLLECTION Eye Love Eyeshadow Palette(14)Add To Cart
+    Marc Jacobs Fragrances Daisy Love Eau So Sweet(91)Add To Cart
 *   $42
     
     Sol de Janeiro Samba Mama Coco Cabana Trio(10)Add To Cart
+*   $14
+    
+    SEPHORA COLLECTION Eye Love Eyeshadow Palette(14)Add To Cart
 *   $59
     
-    Too Faced Natural Lust Palette(60)Add To Cart
+    Too Faced Natural Lust Palette(63)Add To Cart
 *   from$76
     
-    DOLCE&GABBANA Dolce Peony(8)Add To Cart
+    DOLCE&GABBANA Dolce Peony(9)Add To Cart
 *   $38
     
     boscia Skin Perfecting BB Cream Broad Spectrum SPF 30(42)Add To Cart
 *   $42
     
-    Caudalie Vinosource SOS Deep Hydration Moisturizer(57)Add To Cart
+    Caudalie Vinosource SOS Deep Hydration Moisturizer(59)Add To Cart
 
-BUY 1 GET 2 FREE SANDALSShop Allselect stylesBUY 1 GET 2 FREE SANDALSselect stylesShop All
+ABC Impossible Encounters HP Video BUY 1 GET 2 FREE SANDALSShop Allselect stylesBUY 1 GET 2 FREE SANDALSselect stylesShop All
 
 *   BUY 1 GET 2 FOR FREE
     
@@ -88,16 +88,16 @@ BUY 1 GET 2 FREE SANDALSShop Allselect stylesBUY 1 GET 2 FREE SANDALSselect styl
     
     LIMITED TIME SPECIAL!
     
-    $50
+    $54
     
-    east 5th Womens Evie Heeled Sandals(7)Add To Cart
+    a.n.a Womens Broome Adjustable Strap Flat Sandals(3)Add To Cart
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
     
-    $54
+    $50
     
-    a.n.a Womens Broome Adjustable Strap Flat Sandals(3)Add To Cart
+    east 5th Womens Evie Heeled Sandals(7)Add To Cart
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
@@ -108,28 +108,20 @@ BUY 1 GET 2 FREE SANDALSShop Allselect stylesBUY 1 GET 2 FREE SANDALSselect styl
 
 Hot Sellers
 
-*   from$16after couponwas $40 - $60 Sun Zero™ Emory 2-Pack Room-Darkening Rod-Pocket Curtain Panels(658)
-*   BEST VALUE!
+*   from$1439after couponThe Foundry Big &. Tall Supply Co. Mens Short Sleeve Polo Shirt Big and Tall(4)
+*   $1599after couponwas $40 Arizona Womens Corsico T-Strap Flat Sandals(2)
+*   View Price in Cart
     
-    $19
-    
-    Arizona Womens Maci Slip-on Closed Toe Ballet Flats(4)
-*   from$3899 clearance
-    
-    was $65 | 30 - 40% offSkechers D'Lites Life Saver Womens Sneakers(341)
-*   LIMITED TIME SPECIAL!
-    
-    $25 sale
-    
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Stud Earrings in Sterling Silver(168)
-*   $1759after couponwas $42 Arizona Basic Original Bootcut Jeans(597)
+    was $65 Nike® Tanjun Womens Running Shoes(97)
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
     
     $54
     
-    a.n.a Womens Broome Adjustable Strap Flat Sandals(3)
+    Yuu Phebe Womens Footbed Sandals(4)
+*   from$1999after couponwas $49 - $219 Luxury 600tc Sateen Wrinkle Free Sheet Set - Liz Claiborne(268)
+*   $4079after couponwas $80 Tabletops Unlimited Decal 16-pc. Dinnerware Set
 
 Shop and Save at JCPenney
 
