@@ -1,4 +1,4 @@
-Publicis Groupe Signs Agreement to Acquire Epsilon-Conversant Learn more Interaction Management PLAY VIDEO
+Interaction Management PLAY VIDEO
 
 *   Epsilon Tech
 *   Conversant
