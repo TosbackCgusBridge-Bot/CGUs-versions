@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive free two-day shipping to most U.S. addresses. 40% off 1 full-price item!
+Receive 40% off 1 full-price item!
 
-code: BREEZE pin: 6234 DETAILS
+code: WARM pin: 3426 DETAILS
 
 Customer Service Menu
 
@@ -298,4 +298,4 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-<iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+protected by **reCAPTCHA** Privacy - Terms Privacy - Terms <iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
