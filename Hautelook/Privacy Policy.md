@@ -8,8 +8,33 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Valentino Shoes Up to 65% Off
+    *   Valentino Handbags
+    *   Valentino Men's Clothing, Shoes &. More Up to 75% Off
+    *   Valentino Jewelry &. Accessories
+    *   Designer Shop Up to 70% Off
+    *   Weekend Upgrades: Socialite Starting at $15
+    *   Bright &. Breezy: Jealous Tomato Separates &. More
+    *   Wolford
+    *   Edward Bess Up to 80% Off
+    *   Just for Her: Mother's Day Jewelry
+    *   Champion Men
+    *   Sharp Styles: Pointed-Toe Pumps, Flats &. More
+    *   Skechers Kids Under $35
     *   Celebrate Spring: Le Creuset in Hibiscus &. More
     *   New on HauteLook: Sugarfina
+    *   Pool Party Ready: Beach Towels from $10
+    *   Teami Blends Detox Teas &. Supplements
+    *   Men's Boots Up to 70% Off
+    *   Festive Floats &. Outdoor Speakers from $10
+    *   Timberland Luggage &. More Up to 75% Off
+    *   Instax Mini by Fujifilm
+    *   Kids' Surf and Skate: Volcom, O'Neill &. More
+    *   Free Press Swim &. More
+    *   Roberto Cavalli Watches &. More Up to 55% Off
+    *   Freida Rothman Jewelry Up to 60% Off
+    
+    *   Levi's Incl. Plus
     *   Cuisinart
     *   $40 &. Under: Down-Alternative Comforter Sets
     *   Hudson Jeans
@@ -30,64 +55,55 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Nicole Miller Girls' Shoes Up to 60% Off
     *   Gift Shop ft. Brouk &. Co.
     *   Splendid &. Ella Moss
-    *   Gemstone Jewelry Finds Up to 80% Off
-    *   Levi's Incl. Plus
     *   TUMI
-    
     *   Bony Levy Fine Jewelry
-    *   Johnny Was
-    *   Via Spiga
-    *   Naked Zebra
-    *   Lole Jackets &. More
-    *   French Connection
-    *   Performance Sun
     *   Michael Todd Beauty Soniclear &. More Up to 60% Off
     *   Free Shipping: Organizers for Every Room from $13
+    
     *   Exclusively Ours: Dress Shirts, Ties &. More
-    *   Boots &. Booties Up to 70% Off
-    *   Top It Off: Hats from Brixton &. More
-    *   b.tempt'd by Wacoal &. More
     *   Free Shipping: Rustic-Chic Decor &. More from $13
     *   Jerusalem Sandals
     *   Bring the Outdoors In: Metal Decor &. More
-    *   Summer Wardrobe Essentials: Tees &. Tanks from $16
     *   Z By Zella Girl
-    *   Maternity Essentials
     *   Terre Mere Organic Beauty Up to 75% Off
-    *   Updated Suiting Up to 60% Off
     *   Free Shipping: Professional Garment Steamers
     *   Free Shipping: 1000 Thread Count Sheets &. More
     *   Sparkle On: Ultrasonic Jewelry Cleaners
     *   Keep It Sassy: Fun Pouches, Towels &. Coasters
-    
     *   Free Shipping: Laura Ashley Bedding
     *   Beach Ready: Towels Starting at $20
-    *   Free Shipping: Bright Botanical Wall Art &. More
-    *   Men's Style Steals Up to 70% Off
-    *   Sunday Steals Up to 75% Off
-    *   Lola Made in Italy Up to 70% Off
-    *   Women's Shoe Blowout
+    *   Free Shipping: Kitchen Steals Up to 70% Off
     *   Men's Shoes Up to 65% Off
     *   Free Shipping: Cotton Sheets, Duvets &. More
-    *   Everyday Bags for Men Up to 65% Off
     *   Lacoste Men's Shoes
-    *   Travis Mathew Men Under $50
-    *   Naptime Must-Haves: Footies, Blankets &. More
-    *   14K Gold Jewelry Starting at $25
-    *   Blue Topaz Jewelry &. More Under $80
     *   Free Shipping: New Art to Brighten Your Walls
     *   Luxe Skin Care from $15
     *   Free Shipping: Oliver Gal
-    *   Free Shipping: Luxe Faux Fur Decor
     *   Free Shipping: Bedding Blowout
-    *   Gracia
-    *   Free Shipping: Kitchen Steals Up to 70% Off
-    *   NYDJ Incl. Plus &. Petites
+    *   Johnny Was
+    *   Naked Zebra
+    *   Lole Jackets &. More
 *   WomenShop Sale Events
     
+    *   Valentino Shoes Up to 65% Off
+    *   Valentino Handbags
+    *   Valentino Jewelry &. Accessories
+    *   Designer Shop Up to 70% Off
+    *   Weekend Upgrades: Socialite Starting at $15
+    *   Bright &. Breezy: Jealous Tomato Separates &. More
+    *   Wolford
+    *   Edward Bess Up to 80% Off
+    *   Just for Her: Mother's Day Jewelry
+    *   Sharp Styles: Pointed-Toe Pumps, Flats &. More
+    *   Teami Blends Detox Teas &. Supplements
+    *   Free Press Swim &. More
+    *   Roberto Cavalli Watches &. More Up to 55% Off
+    *   Freida Rothman Jewelry Up to 60% Off
+    *   Levi's Incl. Plus
     *   Hudson Jeans
     *   Kendra Scott Jewelry
     *   Brooks
+    
     *   New on HauteLook: Boden
     *   Spring into Summer: CODEXMODE from $10
     *   Day or Night: Dresses Starting at $20
@@ -97,115 +113,102 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Thale Blanc
     *   CZ by Kenneth Jay Lane Up to 65% Off
     *   Set the Tone: Neutral Shoes for All
-    *   Gemstone Jewelry Finds Up to 80% Off
-    *   Levi's Incl. Plus
     *   TUMI
     *   Bony Levy Fine Jewelry
-    *   Johnny Was
-    *   Via Spiga
-    *   Naked Zebra
-    
-    *   Lole Jackets &. More
-    *   French Connection
-    *   Performance Sun
     *   Michael Todd Beauty Soniclear &. More Up to 60% Off
-    *   Boots &. Booties Up to 70% Off
-    *   Top It Off: Hats from Brixton &. More
-    *   b.tempt'd by Wacoal &. More
-    *   Summer Wardrobe Essentials: Tees &. Tanks from $16
-    *   Maternity Essentials
     *   Terre Mere Organic Beauty Up to 75% Off
-    *   Sunday Steals Up to 75% Off
-    *   Lola Made in Italy Up to 70% Off
-    *   Women's Shoe Blowout
-    *   14K Gold Jewelry Starting at $25
-    *   Blue Topaz Jewelry &. More Under $80
     *   Luxe Skin Care from $15
-    *   Gracia
-    *   NYDJ Incl. Plus &. Petites
+    *   Johnny Was
+    *   Naked Zebra
+    *   Lole Jackets &. More
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Lingerie
-    *   Accessories
     *   Handbags
+    *   Watches
+    *   Accessories
 *   MenShop Sale Events
     
+    *   Valentino Men's Clothing, Shoes &. More Up to 75% Off
+    *   Champion Men
+    *   Teami Blends Detox Teas &. Supplements
+    *   Men's Boots Up to 70% Off
+    *   Timberland Luggage &. More Up to 75% Off
+    *   Roberto Cavalli Watches &. More Up to 55% Off
     *   Hudson Jeans Men Up to 60% Off
+    
     *   Brooks Men
     *   Gift Shop ft. Brouk &. Co.
     *   TUMI
-    *   Performance Sun
     *   Exclusively Ours: Dress Shirts, Ties &. More
     *   Jerusalem Sandals
-    
-    *   Updated Suiting Up to 60% Off
-    *   Men's Style Steals Up to 70% Off
     *   Men's Shoes Up to 65% Off
-    *   Everyday Bags for Men Up to 65% Off
     *   Lacoste Men's Shoes
-    *   Travis Mathew Men Under $50
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Skechers Kids Under $35
+    *   Kids' Surf and Skate: Volcom, O'Neill &. More
     *   Hudson Jeans Kids Up to 60% Off
     *   Nicole Miller Girls' Shoes Up to 60% Off
     *   Splendid &. Ella Moss
     *   Z By Zella Girl
-    *   Maternity Essentials
-    *   Naptime Must-Haves: Footies, Blankets &. More
     
     Shop By Category
-    *   Girls' Sizes 7-16
     *   Girls' Shoes
+    *   Girls' Sizes 7-16
     *   Girls' Sizes 2T-6X
+    *   Boys' Sizes 8-20
+    *   Boys' Sizes 2T-7
     *   Baby Boy
     *   Baby Girl
-    *   Boys' Sizes 2T-7
-    *   Boys' Sizes 8-20
-    *   Baby Gear &. Essentials
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
     *   Celebrate Spring: Le Creuset in Hibiscus &. More
     *   New on HauteLook: Sugarfina
+    *   Pool Party Ready: Beach Towels from $10
+    *   Festive Floats &. Outdoor Speakers from $10
+    *   Instax Mini by Fujifilm
     *   Cuisinart
     *   $40 &. Under: Down-Alternative Comforter Sets
     *   TUMI
     *   Free Shipping: Organizers for Every Room from $13
     *   Free Shipping: Rustic-Chic Decor &. More from $13
     *   Bring the Outdoors In: Metal Decor &. More
+    
     *   Free Shipping: Professional Garment Steamers
     *   Free Shipping: 1000 Thread Count Sheets &. More
     *   Sparkle On: Ultrasonic Jewelry Cleaners
-    
     *   Keep It Sassy: Fun Pouches, Towels &. Coasters
     *   Free Shipping: Laura Ashley Bedding
     *   Beach Ready: Towels Starting at $20
-    *   Free Shipping: Bright Botanical Wall Art &. More
+    *   Free Shipping: Kitchen Steals Up to 70% Off
     *   Free Shipping: Cotton Sheets, Duvets &. More
     *   Free Shipping: New Art to Brighten Your Walls
     *   Free Shipping: Oliver Gal
-    *   Free Shipping: Luxe Faux Fur Decor
     *   Free Shipping: Bedding Blowout
-    *   Free Shipping: Kitchen Steals Up to 70% Off
     
     Shop By Category
-    *   Home Decor
     *   Kitchen &. Tabletop
+    *   Home Decor
     *   Bedding
-    *   Cleaning &. Organization
-    *   Luggage &. Travel
-    *   Rugs &. Doormats
     *   Outdoor Living
+    *   Cleaning &. Organization
     *   Bath
+    *   Luggage &. Travel
+    *   Tech Accessories
 *   BeautyShop Sale Events
     
+    *   Edward Bess Up to 80% Off
+    *   Teami Blends Detox Teas &. Supplements
     *   Face Masks We Love
     *   Michael Todd Beauty Soniclear &. More Up to 60% Off
     *   Terre Mere Organic Beauty Up to 75% Off
@@ -214,9 +217,9 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     Shop By Category
     *   Skin Care
     *   Makeup
+    *   Bath &. Body
     *   Tools &. Accessories
     *   Hair Care
-    *   Bath &. Body
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
