@@ -100,8 +100,6 @@ Autodesk logo
     *   Updates &. service packs
 *   Buy
     *   Buy Online
-    *   Purchase by phone:  
-        1-855-664-8618
     *   Find a reseller
     *   Special offers
     *   Renewal options
