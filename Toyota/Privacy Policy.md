@@ -52,7 +52,7 @@ Skip to main content
 
 *   $36,615 as shown1 2019 Tacoma $25,700 starting1  
     18/22 est MPG3 Build Specials
-*   $45,700 as shown1 2019 Tundra $31,520 starting1  
+*   $45,850 as shown1 2019 Tundra $31,670 starting1  
     15/19 est MPG26 Build Specials
 
 *   $26,550 as shown1 2019 C-HR $20,995 starting1  
@@ -67,7 +67,7 @@ Skip to main content
     30/28 est MPG26 Build Specials
 *   $40,195 as shown1 2019 4Runner $35,110 starting1  
     17/21 est MPG26 Build Specials
-*   $57,195 as shown1 2019 Sequoia $48,850 starting1  
+*   $57,545 as shown1 2019 Sequoia $49,050 starting1  
     13/17 est MPG25 Build Specials
 *   $85,015 as shown1 2019 Land Cruiser $85,015 starting1  
     13/18 est MPG26 Build Specials
@@ -138,14 +138,14 @@ Cars &. Minivan $18,550 as shown1 2019 Yaris $15,450 starting1
 67/67 est. MPGe26 $28,635 as shown1 2019 86 $26,505 starting1  
 21/28 est MPG26 $37,565 as shown1 2020 Sienna $31,415 starting1  
 19/27 est MPG35 Trucks $36,615 as shown1 2019 Tacoma $25,700 starting1  
-18/22 est MPG3 $45,700 as shown1 2019 Tundra $31,520 starting1  
+18/22 est MPG3 $45,850 as shown1 2019 Tundra $31,670 starting1  
 15/19 est MPG26 Crossovers &. SUVs $26,550 as shown1 2019 C-HR $20,995 starting1  
 27/31 est MPG26 Hybrid Available $33,500 as shown1 All-New 2019 RAV4 $25,500 starting1  
 26/35 est MPG37 Hybrid $35,960 as shown1 All-New 2019 RAV4 Hybrid $27,700 starting1  
 41/38 est MPG37 Hybrid Available $42,100 as shown1 2019 Highlander $31,530 starting1  
 21/27 est MPG26 Hybrid $49,225 as shown1 2019 Highlander Hybrid $37,170 starting1  
 30/28 est MPG26 $40,195 as shown1 2019 4Runner $35,110 starting1  
-17/21 est MPG26 $57,195 as shown1 2019 Sequoia $48,850 starting1  
+17/21 est MPG26 $57,545 as shown1 2019 Sequoia $49,050 starting1  
 13/17 est MPG25 $85,015 as shown1 2019 Land Cruiser $85,015 starting1  
 13/18 est MPG26 Hybrids &. Fuel Cell Hybrid $32,825 as shown1 2019 Camry Hybrid $28,250 starting1  
 51/53 est MPG5 Hybrid $23,345 as shown1 First-Ever 2020 Corolla Hybrid $22,950 starting1  
@@ -554,8 +554,6 @@ External Sites
     
 *   Toyota Mobility  
     
-
-Buy Toyota
 
 *   **Toyota Owners**  
     **Buy a Toyota**  
