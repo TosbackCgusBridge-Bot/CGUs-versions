@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu at Internet of Things World 2019 ›
+*   Canonical at Cephalocon Barcelona 2019 ›
+*   Canonical at Kubecon Europe 2019 ›
 *   Ubuntu Server development summary – 30 April 2019 ›
 *   Canonical consolidates open infrastructure support and security offerings ›
-*   Formatting our code with Prettier ›
-*   An introduction to AppArmor ›
-*   Ubuntu is the #1 for embedded Linux for IoT ›
