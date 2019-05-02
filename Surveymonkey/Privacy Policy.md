@@ -35,6 +35,10 @@ SurveyMonkey® ÷
         
         Measure &. increase employee engagement
         
+    *   Usabilla
+        
+        Get in-the-moment feedback across all digital channels
+        
     
     *   TechValidate
         
@@ -861,6 +865,10 @@ Copyright © 1999-2019 SurveyMonkey Email: Contact Us Phone: +353-1-437-6886 You
     *   Engage
         
         Measure &. increase employee engagement
+        
+    *   Usabilla
+        
+        Get in-the-moment feedback across all digital channels
         
     *   TechValidate
         
