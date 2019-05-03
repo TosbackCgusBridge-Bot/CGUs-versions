@@ -209,23 +209,23 @@ New York, NY 10001.**
     *   Emailed
     *   Recent
     
-    *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Georgia Tech stung with 1.3 million-person data breach
-    *   Michigan medical practice folds after ransomware attack
-    *   Microsoft researchers find NSA-style backdoor in Huawei laptops
+    *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Machines running popular AV software go unresponsive after Microsoft Windows update
+    *   Michigan medical practice folds after ransomware attack
+    *   Adblock Plus Exploit allows threat actors to read Gmail and other Google services
     
-    *   Striving for a privacy culture
-    *   Ransomware disables Cleveland airport's email systems, information screens
-    *   Apple claims to have removed parental control apps from App Store over privacy concerns
-    *   GitHub hosted Magecart skimmer used against e-commerce sites
-    *   Flaw in Confluence collaboration products exploited to deliver GandCrab, AESDDoS Botnet malware
+    *   World Password Day: Are we in the Last Days?
+    *   Cybersecurity executive changes
+    *   Small businesses beware: Cyberwar is right around the corner
+    *   ML innovation and compliance
+    *   Docker Hub database access compromises 190,000 accounts
     
-    *   Ponemon Offers Best Practices for Threat Intelligence
-    *   Further details on Wipro phishing attack revealed
-    *   St. Ambrose Catholic Parish BEC scam nets $1.75M
-    *   Privacy legislation: E pluribus unum
-    *   Striving for a privacy culture
+    *   Man-in-the-Middle vulnerabilities in D-Link cameras
+    *   Cybersecurity executive changes
+    *   Google unveils new controls for automatically deleting data after 3 or 18 months
+    *   Cisco tackles critical vulnerability in switch software, 41 other bugs
+    *   Revive Adserver patches vulnerability possibly used to distribute malware
 
 Back to Top
 
@@ -259,6 +259,6 @@ Back to Top
 
 Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
-You can skip this ad in 2 seconds.
+You can skip this ad in 1 seconds.
 
 <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
