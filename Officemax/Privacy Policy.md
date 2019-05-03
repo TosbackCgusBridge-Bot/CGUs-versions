@@ -40,20 +40,20 @@ Stock Quote and Chart
 
 Price
 
-$2.39
+$2.43
 
 Change
 
-\-0.01
++0.04
 
 Percent Change
 
-(-0.42%)
+(+1.67%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Apr 24, 2019 Office Depot to Announce First Quarter 2019 Results Wednesday, May 8, 2019 view more Recent News Apr 24, 2019 Office Depot to Announce First Quarter 2019 Results Wednesday, May 8, 2019 view more Events May 8, 2019 at 9:00 AM EDT Q1 2019 Office Depot Inc Earnings Conference Call view more Events May 8, 2019 at 9:00 AM EDT Q1 2019 Office Depot Inc Earnings Conference Call view more Presentations Feb 27, 2019 Office Depot Fourth Quarter 2018 Earnings Webcast Presentation view more Presentations Feb 27, 2019 Office Depot Fourth Quarter 2018 Earnings Webcast Presentation view more
+Recent News May 02, 2019 Office Depot, Inc. Appoints Richard Haas Senior Vice President and Chief Accounting Officer view more Recent News May 02, 2019 Office Depot, Inc. Appoints Richard Haas Senior Vice President and Chief Accounting Officer view more Events May 8, 2019 at 9:00 AM EDT Q1 2019 Office Depot Inc Earnings Conference Call view more Events May 8, 2019 at 9:00 AM EDT Q1 2019 Office Depot Inc Earnings Conference Call view more Presentations Feb 27, 2019 Office Depot Fourth Quarter 2018 Earnings Webcast Presentation view more Presentations Feb 27, 2019 Office Depot Fourth Quarter 2018 Earnings Webcast Presentation view more
 
 *   Home
 *   News &. Events
