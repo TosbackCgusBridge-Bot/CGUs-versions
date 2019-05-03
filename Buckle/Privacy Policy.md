@@ -459,6 +459,7 @@ Returns
 
 Promotions
 
+*   Buckle Credit Card 2x Points
 *   Store Events
 *   Military Discount
 *   All Promotions
