@@ -349,7 +349,7 @@ We will retain your personal information for as long as necessary to provide the
 
 Contacting WebMD About Your Personal Information or Privacy
 
-Please send us an email by using the Contact Us link at the bottom of every page of the WebMD Sites if you have any questions about this Privacy Policy or the personal information we maintain about you.
+Please send us an email by using the Contact Us link at the bottom of every page of the WebMD Sites if you have any questions about this Privacy Policy or the personal information we maintain about you. We will respond to your request within a reasonable timeframe.
 
 You can also contact WebMD’s Privacy Office at:
 
@@ -378,7 +378,7 @@ To view our certification status click here.
 
 WebMD.com, MedicineNet.com, eMedicineHealth.com, and RxList.com comply with the HONcode standard for trustworthy health information, which can be verified here.
 
-Last updated on April 15, 2019 © 2019 WebMD, LLC. All rights reserved. Today on WebMD Risky Mistakes Pet Owners Make
+Last updated on May 02, 2019 © 2019 WebMD, LLC. All rights reserved. Today on WebMD Risky Mistakes Pet Owners Make
 
 Some of these might surprise you.
 
