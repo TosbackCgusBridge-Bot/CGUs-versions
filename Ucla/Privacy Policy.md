@@ -28,6 +28,34 @@ Personal Information
 
 We also collect personal information that you voluntarily provide to us, such as when you apply for admission, register for an account, participate in a promotion or sweepstakes, request a brochure or other materials, sign up for a tour, locate or make inquiries to specific departments, make a donation, request information or otherwise contact UCLA. Such information may include: contact information (name, address, telephone number, social media username/handle, mobile phone and/or email address, etc.). academic area or interest (biology, anthropology, human studies, medicine, etc.). financial information (financial aid application history, payment history, current and estimated loan payments, donation attribution and amount, etc.). demographic information (age, academic status, marital status, size of household, income, etc.). and marketing profile information (admissions date, graduation date, alumni status, parent, friend, etc.) We may also collect the names and email addresses of your friends and family, if you choose to provide UCLA with this information. Finally, we may obtain information from other sources and combine that with the information we collect directly from you.
 
+Project Welcome SMS Code Terms of Service About UCLA Project Welcome SMS Text Messages
+
+UCLA Project Welcome text messages provide information that informs, educates, guides and motivates students in grades 8-11 (minimum age 13 years for US. minimum age 16 years for EU and Canada) and their life influencers such as parents and guardians on the importance of planning for college, why college matters, how they can afford college, and what it takes to be a highly competitive applicant.
+
+How do I sign up for Project Welcome SMS Text Messages?
+
+Sign up by texting LEARN to the short code 82541. You will receive an SMS text message requesting you to confirm that you consent to receive text messages to Your Mobile Number. By signing up, you will receive approximately four (4) auto text messages per month.
+
+Is it free?
+
+Project Welcome SMS text messages are free but message and data rates may apply. Depending on your text plan, you may be charged by your carrier. By enrolling in the Project Welcome program, you certify that you are 13 or older and that (a) you are the mobile account holder or (b) you have the mobile account holder’s permission to do so.
+
+Opt Out
+
+To stop receiving only Project Welcome SMS Text messages, simply text STOP to the short code 82541. After doing so, you will receive a text message confirmation of your opt-out.
+
+What if I want to opt back in?
+
+You can start receiving Project Welcome SMS text messages by texting START to 82541.
+
+Help
+
+For help, simply text HELP to the short code 82541 or email prepare@admission.ucla.edu
+
+Privacy Policy
+
+The UCLA privacy policy is explained on this web page.
+
 How We Use Your Information Non-Personal Information
 
 Non-personal information is used to generate statistics and to measure site activity in order to improve the usefulness of the site for our visitors.
