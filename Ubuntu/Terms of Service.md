@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Switch life mode to FUN with some cool Linux games ›
 *   Ubuntu at Internet of Things World 2019 ›
 *   Canonical at Cephalocon Barcelona 2019 ›
 *   Canonical at Kubecon Europe 2019 ›
 *   Ubuntu Server development summary – 30 April 2019 ›
-*   Canonical consolidates open infrastructure support and security offerings ›
