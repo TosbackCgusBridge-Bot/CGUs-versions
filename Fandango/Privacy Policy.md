@@ -72,7 +72,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   Watch First, Fun 'Sonic the Hedgehog' Trailer. Here's Everything We Know Read More
-    *   Today in Movie Culture: Everything You Missed in ‘Avengers: Endgame,’ How ‘Blade’ Led to the MCU and More Read More
+    *   Today in Movie Culture: How to Make the MCU’s Avengers-inspired Ice Cream Flavors, Kelly Clarkson’s ‘UglyDolls’ Music Video and More Read More
     *   Next 3 Marvel Movies We Want to See: 'Spider-Man: Far From Home,' 'Black Widow,' 'Black Panther 2' Read More
     
     Explore Content
@@ -296,9 +296,9 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   'John Wick: Chapter 3 - Parabellum' Gift with Purchase
+*   Your Early Access to 'Rocketman'
     
-    Own 'John Wick' and 'John Wick: Chapter Two' for $3.99 each with ticket purchase! BUY TICKETS
+    See it first on May 18th! BUY TICKETS
     
 *   VIP+ World Elite Mastercard®
     
@@ -354,4 +354,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
