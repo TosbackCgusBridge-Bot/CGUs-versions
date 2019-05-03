@@ -140,7 +140,6 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Skinny
 *   Bootcut
 *   Cheeky
-*   Wide Leg
 *   Boyfriend Jeans
 *   Overalls
 *   Flex Effects
@@ -210,7 +209,6 @@ Close submenu ( Girls ) Girls
 *   Festival Ready
 *   Summer Shop
 *   Tie Dye For Stripes
-*   Meadow Florals
 *   Online Only
 *   Swim
 *   Matching Sets
@@ -225,6 +223,7 @@ Close submenu ( Guys ) Guys
 *   Festival Ready
 *   Summer Shop
 *   Tie Dye For Stripes
+*   Americana
 *   Online Only
 *   Swim
 *   Aero One
@@ -259,7 +258,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Daily Deal: Extra 15% off Use Code DAY2 ** GIRLS GUYS **+ Free Ship $50**
+**Extra 15% off Use Code DAY3 ** GIRLS GUYS **+ Free Ship $50**
 
 *   Select Country
 *   My Account My Account Login Register
@@ -372,7 +371,6 @@ Menu Find a Store Aeropostale
         *   Skinny
         *   Bootcut
         *   Cheeky
-        *   Wide Leg
         *   Boyfriend Jeans
         *   Overalls
         *   Flex Effects
@@ -430,7 +428,6 @@ Menu Find a Store Aeropostale
         *   Festival Ready
         *   Summer Shop
         *   Tie Dye For Stripes
-        *   Meadow Florals
         *   Online Only
         *   Swim
         *   Matching Sets
@@ -444,6 +441,7 @@ Menu Find a Store Aeropostale
         *   Festival Ready
         *   Summer Shop
         *   Tie Dye For Stripes
+        *   Americana
         *   Online Only
         *   Swim
         *   Aero One
@@ -481,7 +479,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Details Girls Flash Sale Shop Guys Flash Sale Shop Details 4 DAYS 4 ONLINE ONLY DEALS DAY #2 DAY #2 EXTRA 15% OFF YOUR ENTIRE PURCHASE EXTRA 15% OFF YOUR ENTIRE PURCHASE WHEN YOU BUY TEES Use Code DAY2 Girls Tees Shop Guys Tees Shop Shop Girls Tees Shop Guys Tees Shop Dresses Shop Girls Polos Shop Guys Polos Shop Girls Polos Shop Guys Polos Shop Girls Shop Guys Shop Girls Shop Guys -33 -1 : Days 27 : Days 36 Details Shop Girls Shop Guys Shop Girls Bottoms Shop Guys Bottoms Previous Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Midi Classic Jogger Super Skinny High Rise Jeggings Loose Skinny Jean Low Rise Slim Straight Cheeky Longboard Skinny Cheeky Jeggings Next Shop Girls Shop Guys Shop Girls Shop Guys Previous Next Shop The Girls Tribe Shop Dresses Shop Girls Polos Shop Guys Polos Shop Girls Polos Shop Guys Polos Shop Guys Tees Shop Girls Shop Guys Shop Retro Shorts Shop Aero One Shop Girls Accessories Shop Guys Accessories Girls Clearance Guys Clearance Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Details Girls Flash Sale Shop Guys Flash Sale Shop Details 4 DAYS 4 ONLINE ONLY DEALS DAY #3 DAY #3 EXTRA 15% OFF YOUR ENTIRE PURCHASE EXTRA 15% OFF YOUR ENTIRE PURCHASE WHEN YOU BUY ANY PAIR OF SHORTS Use Code DAY3 Girls Shorts Guys Shorts Shop Girls Tees Shop Guys Tees Shop Dresses Shop Girls Polos Shop Guys Polos Shop Girls Polos Shop Guys Polos Shop Girls Shop Guys Shop Girls Shop Guys -34 -1 : Days 28 : Days -4 Details Shop Girls Shop Guys Shop Girls Shorts Shop Guys Shorts Previous 7.5" Beach Shorts Cheeky Shorts Flat Front Shorts High Waisted Shorts Jogger Shorts Soft Shorts Cargo Shorts Shorty Shorts Super High Waisted Shorts Denim Shorts Midi Shorts 7.5" Beach Shorts Cheeky Shorts Flat Front Shorts High Waisted Shorts Jogger Shorts Soft Shorts Cargo Shorts Shorty Shorts Super High Waisted Shorts Denim Shorts Midi Shorts 7.5" Beach Shorts Cheeky Shorts Flat Front Shorts High Waisted Shorts Jogger Shorts Next Shop Girls Shop Guys Shop Girls Shop Guys Previous Next Shop The Girls Tribe Shop Girls Polos Shop Guys Polos Shop Girls Polos Shop Guys Polos Shop Guys Tees Shop Girls Shop Guys Shop Retro Shorts Shop Aero One Aero Girls Jeans Aero Guys Jeans Aero Girls Jeans Aero Guys Jeans Shop Girls Accessories Shop Guys Accessories Girls Clearance Guys Clearance Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
