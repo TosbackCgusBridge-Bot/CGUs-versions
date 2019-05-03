@@ -146,7 +146,7 @@ I accept Menu
         *   Annual General Meeting
     *   Investor FAQs
     *   Investor contacts
-    *   Investor information in Chinese - 投資者中文資訊 (opens in new window)1Q 2019 EARNINGS RELEASE Get the webcast and conference call details Close Navigation
+    *   Investor information in Chinese - 投資者中文資訊 (opens in new window)1Q 2019 Earnings Release Find the documents and webcast details Close Navigation
 *   Media Skip to Careers Media
     
     Find the latest media releases, key speeches by executives, and details of recent awards.
