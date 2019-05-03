@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   2\. Mai 2019
+*   3\. Mai 2019
 *   Abo
-*   DAX 12.344,08ǀ
+*   DAX 12.345,42ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -51,7 +51,7 @@ Anmelden
         *   Unternehmen &. Märkte
         *   Staat &. Soziales
         *   Young-Money-Blog
-        *   Weltwirtschaftsforum in Davos 2019
+        *   Innovationen
     *   *   Brutto-Netto-Rechner
         *   Jobsuche
 *   Panorama
