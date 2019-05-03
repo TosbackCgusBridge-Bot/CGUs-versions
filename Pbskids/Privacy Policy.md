@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _app_
 
-Fun, educational apps from PBS KIDS. Available on Apple &. Android mobile devices.Fun, educational apps from PBS KIDS. Available on Apple &. Android mobile devices.Go now
+Get real-time updates on what your kids are learning on pbskids.org with PBS KIDS Super Vision.Get real-time updates on what your kids are learning on pbskids.org with PBS KIDS Super Vision.Download the free app now
 
 Toggle message bar
 
