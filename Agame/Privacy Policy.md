@@ -121,8 +121,8 @@ View more results
     *   Short Life
     *   Fireboy and Watergirl 5: Elements
     *   World Craft 2
-    *   Five Nights at Freddy's 4
     *   Troll Face Quest: Video Memes and TV Shows:Part 1
+    *   Five Nights at Freddy's 4
     *   Tom and Jerry: Mouse Maze
     *   FNAF World
     *   Five Nights at Freddy's: Sister Location
@@ -218,8 +218,8 @@ View more results
     *   Madalin Cars Multiplayer
     *   Country Ride: Race Car Game
     *   Bike Racing: Motorcycle Game
-    *   Happy Wheels
     *   Uphill Rush 7: Waterpark
+    *   Happy Wheels
     *   Extreme Off-Road Cars 2
     *   Russian Car Driver
     *   Moto X3M: Motorcycle Racing Game
@@ -254,7 +254,7 @@ View more results
     *   8-Ball
     *   Bouncy Dunk
     *   Archery World Tour
-    *   Billiards Master Pro
+    *   Flip Diving
 *   *   Multiplayer
     *   Action
     *   Adventure
