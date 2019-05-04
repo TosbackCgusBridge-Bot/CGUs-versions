@@ -94,6 +94,7 @@
     
     *   Personal loan rates
     *   Auto loan rates
+    *   Student loan rates
     
     Loan Types
     
