@@ -34,36 +34,38 @@ Near YouFind a StoreBackBEAUTY GIFTS FOR MOMShop AllBEAUTY GIFTS FOR MOMShop All
 
 *   from$27
     
-    Marc Jacobs Fragrances Daisy Love Eau So Sweet(91)Add To Cart
+    Marc Jacobs Fragrances Daisy Love Eau So Sweet(94)Add To Cart
 *   $14
     
-    SEPHORA COLLECTION Eye Love Eyeshadow Palette(16)Add To Cart
+    SEPHORA COLLECTION Eye Love Eyeshadow Palette(17)Add To Cart
+*   $59
+    
+    Too Faced Natural Lust Palette(65)Add To Cart
 *   $42
     
     Sol de Janeiro Samba Mama Coco Cabana Trio(10)Add To Cart
-*   $59
-    
-    Too Faced Natural Lust Palette(64)Add To Cart
 *   from$76
     
     DOLCE&GABBANA Dolce Peony(10)Add To Cart
 *   $42
     
-    Caudalie Vinosource SOS Deep Hydration Moisturizer(62)Add To Cart
-*   $140
+    Caudalie Vinosource SOS Deep Hydration Moisturizer(64)Add To Cart
+*   $34
     
-    tarte Rainforest of the Sea™ complexion vaultAdd To Cart
+    Drunk Elephant Slaai™ Makeup-Melting Butter Cleanser(213)Add To Cart
 
 Hot Sellers
 
-*   from$2799after couponLiz Claiborne Womens Gemma Block Heel Buckle Bootie(100)
-*   $2799after couponwas $60 Liz Claiborne Womens Eastwick Strap Sandals(1)
-*   from$2399after couponYuu Womens Jeanie Strap Sandals
-*   $1599after couponwas $60 Liz Claiborne Phoebe Crossbody Bag
-*   $1599after couponwas $42 Arizona Flex Relaxed-Fit Straight Jeans(550)
-*   View Price in Cart
+*   $1599after couponwas $42 Arizona Basic Original Bootcut Jeans(598)
+*   $1439after couponwas $36 Stafford® Travel Short-Sleeve Easy-Care Broadcloth Dress Shirt(297)
+*   $1599after couponwas $50 Arizona Womens Mase Flat Sandals(1)
+*   from$2399after couponYuu Womens Hilly Strap Sandals
+*   $4999 sale
     
-    was $65 Nike® Tanjun Womens Running Shoes(99)
+    was $140 | 64% offCooks 2.5L Air Fryer(243)
+*   from$45
+    
+    Nike Revolution 4 Womens Lace-up Running Shoes(104)
 
 Shop and Save at JCPenney
 
