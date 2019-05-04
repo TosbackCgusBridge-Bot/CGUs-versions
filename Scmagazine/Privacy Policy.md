@@ -204,28 +204,9 @@ If you have any questions on our Privacy Policy, or questions about our handling
 New York, NY 10001.**
 
 *   MOST POPULAR
-    
     *   Popular
     *   Emailed
-    *   Recent
-    
-    *   Georgia Tech stung with 1.3 million-person data breach
-    *   Article 29 Working Party still not happy with Windows 10 privacy controls
-    *   Machines running popular AV software go unresponsive after Microsoft Windows update
-    *   Michigan medical practice folds after ransomware attack
-    *   Adblock Plus Exploit allows threat actors to read Gmail and other Google services
-    
-    *   World Password Day: Are we in the Last Days?
-    *   Cybersecurity executive changes
-    *   Small businesses beware: Cyberwar is right around the corner
-    *   ML innovation and compliance
-    *   Docker Hub database access compromises 190,000 accounts
-    
-    *   Man-in-the-Middle vulnerabilities in D-Link cameras
-    *   Cybersecurity executive changes
-    *   Google unveils new controls for automatically deleting data after 3 or 18 months
-    *   Cisco tackles critical vulnerability in switch software, 41 other bugs
-    *   Revive Adserver patches vulnerability possibly used to distribute malware
+    *   RecentLoading... Loading... Loading...
 
 Back to Top
 
@@ -259,6 +240,6 @@ Back to Top
 
 Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
-You can skip this ad in 1 seconds.
+You can skip this ad in 2 seconds.
 
 <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
