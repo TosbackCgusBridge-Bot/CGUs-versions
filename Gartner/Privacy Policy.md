@@ -57,7 +57,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 842 4933 1 855 842 4933
+    1 855 652 1581 1 855 652 1581
     
 
 *   Solutions By Function
@@ -113,7 +113,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 842 4933 1 855 842 4933
+    1 855 652 1581 1 855 652 1581
     
 
 GARTNER PRIVACY POLICY Effective Date: April 2019
@@ -130,7 +130,7 @@ Gartner and all its group companies will have access to information on individua
 
 Questions, comments and requests regarding this Privacy Policy should be addressed to our Data Protection Office via email at privacy@gartner.com or regular mail at:
 
-Global Data Protection Officer  
+Global Data Protection Office  
 Legal Department  
 56 Top Gallant Road  
 Stamford, CT 09602  
@@ -257,7 +257,7 @@ We use this information for certain activities, including:**
 *   Information captured in our web logs such as device information (e.g. device brand and model, screen dimensions), unique identification numbers (e.g. IP address and device ID), and browser information (e.g URL, browser type, pages visited, date/time of access), geo-location and other device-specific information, Internet connection information;
 *   Advertising information (such as size/type of ad, ad impressions, location/format of ad, data about interactions with ad);
 *   Behavioral information (such as information on the behavior or presumed interests of individuals which are linked to those individuals and may be used to create a user profile). and
-*   Information captured by our cookies (see our Cookie Policy ).
+*   Information captured by our cookies (see our Cookie Policy).
 
 **We use this information for certain activities, including:**
 
@@ -496,18 +496,14 @@ From time to time, we may change and/or update this Policy. If this Policy chang
 
 How to Contact Us
 
-Questions, comments and requests regarding this Privacy Notice should be addressed to our Data Protection Officer through the following means:  
+Questions, comments and requests regarding this Privacy Notice should be addressed to our Data Protection Office through the following means:  
 
-Global Data Protection Officer  
+Global Data Protection Office  
 Legal Department  
 56 Top Gallant Road  
 Stamford, CT 06902  
 USA  
 Email Address: privacy@gartner.com
-
-Download in other languages
-
-Japanese privacy policy
 
 *   About Gartner
 *   Careers
