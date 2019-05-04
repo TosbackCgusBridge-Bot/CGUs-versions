@@ -493,6 +493,11 @@ Lenovo Explore Close
         *   Motorola Mobile Support
         *   Forums
         *   All Technical Support
+    
+    *   Avoid Downtime
+    *   Increase Productivity
+    *   Unrivaled Expertise
+    
 *   About Lenovo
     *   About Lenovo
     *   Diversity &. Inclusion
