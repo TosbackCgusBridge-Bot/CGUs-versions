@@ -57,8 +57,8 @@ View more results
     *   Backgammon: Board Game Online Multiplayer
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Fireboy and Watergirl: The Forest Temple
-    *   Warbanner
     *   Madalin Cars Multiplayer
+    *   Warbanner
     *   Slither.io
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Total Front: Army War Game
@@ -91,11 +91,11 @@ View more results
     *   Total Front: Army War Game
     *   Stunt Skateboard 3D
     *   Uphill Rush 7: Waterpark
-    *   Sniper Team 2
     *   Deer Hunter
+    *   Sniper Team 2
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
-    *   Short Life
     *   Ultimate Boxing
+    *   Stickman Archer 2
 *   Top Categories
     
     *   Platform Games
@@ -118,11 +118,11 @@ View more results
     Best Games
     *   Five Nights at Freddy's
     *   Five Nights at Freddy's 2
-    *   Short Life
     *   Fireboy and Watergirl 5: Elements
+    *   Short Life
     *   World Craft 2
-    *   Troll Face Quest: Video Memes and TV Shows:Part 1
     *   Five Nights at Freddy's 4
+    *   Troll Face Quest: Video Memes and TV Shows:Part 1
     *   Tom and Jerry: Mouse Maze
     *   FNAF World
     *   Five Nights at Freddy's: Sister Location
@@ -182,8 +182,8 @@ View more results
     Best Games
     *   Pixel Art: Color by Number
     *   Ellie: Get Ready With Me
-    *   Burger Restaurant Express
     *   Love Tester 2.0
+    *   Burger Restaurant Express
     *   Popstar Dentist
     *   Back To School: Princesses Rush
     *   The Princess: Sent to the Future - Dress Up Game
@@ -250,8 +250,8 @@ View more results
     *   Baseball
     *   Ultimate Boxing
     *   Playing Soccer
-    *   Neon Biker
     *   8-Ball
+    *   Neon Biker
     *   Bouncy Dunk
     *   Archery World Tour
     *   Flip Diving
