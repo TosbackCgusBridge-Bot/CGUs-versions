@@ -204,9 +204,28 @@ If you have any questions on our Privacy Policy, or questions about our handling
 New York, NY 10001.**
 
 *   MOST POPULAR
+    
     *   Popular
     *   Emailed
-    *   RecentLoading... Loading... Loading...
+    *   Recent
+    
+    *   Machines running popular AV software go unresponsive after Microsoft Windows update
+    *   Article 29 Working Party still not happy with Windows 10 privacy controls
+    *   Adblock Plus Exploit allows threat actors to read Gmail and other Google services
+    *   Ransomware ravages municipalities nationwide this week
+    *   Ransomware disables Cleveland airport's email systems, information screens
+    
+    *   5 ways hackers use digital channels to launch VIP attacks
+    *   Majority of SMB execs willing to pay in a ransomware situation
+    *   Google unveils new controls for automatically deleting data after 3 or 18 months
+    *   Privacy Statistics
+    *   Flaw in Confluence collaboration products exploited to deliver GandCrab, AESDDoS Botnet malware
+    
+    *   Qakbot upgrade includes new obfuscation technique
+    *   Europol announces takedown of Wall Street Market and Valhalla dark web markets
+    *   Denial of service event impacted U.S. power utility last month
+    *   Majority of SMB execs willing to pay in a ransomware situation
+    *   Retefe Revisited: Banking trojan reemerges, adopts new set of tools
 
 Back to Top
 
@@ -240,6 +259,6 @@ Back to Top
 
 Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
-You can skip this ad in 2 seconds.
+You can skip this ad in 1 seconds.
 
 <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
