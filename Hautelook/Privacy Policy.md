@@ -8,9 +8,33 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Love Stitch
+    *   For Her: Delicate Fine Jewelry Up to 55% Off
+    *   Badgley Mischka
+    *   Spring Go-Tos: Mini, Midi &. Maxi Skirts from $15
+    *   Predire Paris Luxury Skin Care Starting at $20
+    *   Hickey Freeman
+    *   Superga &. More
+    *   Room Service &. More
+    *   All Day Comfort: Wire-Free Bras, Underwear &. More
+    *   Stunning in the Sun: Shoulder-Baring Tops &. More
+    *   Celebrate Spring: Le Creuset in Hibiscus &. More
+    *   Free Shipping: Down &. Memory Foam Essentials
+    *   Michou Gemstone &. Sterling Silver Jewelry
+    *   Trophy Skin Anti-Aging Beauty Tools
+    *   Sovereign Code
+    *   William Rast Incl. Plus
+    *   Luxe Men's Shoes ft. Zanzara
+    *   Timeless Trenches: Raincoats &. More
+    *   Italian Collection Bags Up to 70% Off
+    *   Lacoste Men's Lounge
+    *   Cheers to These: Wine &. Kombucha-Making Kits
+    *   Kids' Toys &. Clothing ft. Toy Story and More
+    *   Kids' Steals Up to 60% Off
     *   Laura Geller New York
     *   Vince Camuto Up to 65% Off Incl. Plus &. Petites
     *   Vince Camuto Shoes Up to 50% Off
+    
     *   Vince Camuto Accessories Up to 50% Off
     *   Tart Dresses
     *   What Mom Really Wants: Sleepwear &. More
@@ -25,68 +49,59 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Hugo Boss Men's Shoes
     *   Robert Talbott Up to 50% Off
     *   ALOR Fine Jewelry: 18K Gold &. More
-    *   Just for Her: Mother's Day Jewelry
-    *   Free Shipping: On-Trend Storage, Decor &. More
     *   The Shoe Shop: Sandals
     *   ALEX AND ANI Jewelry
     *   The Shoe Shop: Comfort Styles
     *   The Shoe Shop: Espadrilles
     *   The Shoe Shop: Heels &. Pumps
     *   The Shoe Shop: Mules &. Slides
-    
     *   The Shoe Shop: Sneakers
     *   Men's Shoe Shop: Sneakers, Loafers &. More
-    *   Abound
-    *   Jeans &. More Under $25 ft. 1822 Denim
-    *   Go Couture Knits
-    *   Set to Sweat: Active Starting at $14
-    *   Alexia Admor &. More
-    *   Guess Jackets &. More
     *   Kids' Shoe Shop: Sandals, Sneakers &. More
-    *   Fragrance Sets for Mother's Day
-    *   Beach Bound: Men's &. Women's Sunnies Under $40
     *   Free Shipping: Storage Must-Haves from $10
-    *   Travel Ready: Lodis Handbags &. More
     *   Free Shipping: Hand-Painted Replicas
     *   Sapanyu Jewelry: Raw Gems, Stacking Rings, &. More
+    
     *   Rest Well: Hypoallergenic Bedding &. More
     *   Scotch &. Soda
     *   Tech Accessories Starting at $17
     *   Travel Essentials Starting at $13
     *   Josie Maran Starting at $10
     *   Edward Bess Up to 80% Off
-    *   Champion Men
-    *   Skechers Kids Under $35
     *   Pool Party Ready: Beach Towels from $10
     *   Teami Blends Detox Teas &. Supplements
-    
     *   Festive Floats &. Outdoor Speakers from $10
     *   Timberland Luggage &. More Up to 75% Off
-    *   Kids' Surf and Skate: Volcom, O'Neill &. More
-    *   Celebrate Spring: Le Creuset in Hibiscus &. More
     *   New on HauteLook: Sugarfina
     *   Cuisinart
     *   $40 &. Under: Down-Alternative Comforter Sets
-    *   Freida Rothman Jewelry Up to 60% Off
-    *   Face Masks We Love
-    *   Michael Todd Beauty Soniclear &. More Up to 60% Off
-    *   Free Shipping: Organizers for Every Room from $13
-    *   Free Shipping: Rustic-Chic Decor &. More from $13
     *   Designer Shop Up to 70% Off
-    *   Weekend Upgrades: Socialite Starting at $15
-    *   Wolford
-    *   Free Shipping: 1000 Thread Count Sheets &. More
-    *   Sparkle On: Ultrasonic Jewelry Cleaners
+    *   Vince Camuto Luggage Up to 75% Off
+    *   Pool Party ft. Lucky Brand Swim
+    *   Free Shipping: On-Trend Storage, Decor &. More
+    *   Face Masks We Love
+    *   Free Shipping: Organizers for Every Room from $13
+    *   Go Couture Knits
+    *   Free Shipping: Rustic-Chic Decor &. More from $13
+    *   Bring the Outdoors In: Metal Decor &. More
     *   Free Shipping: Kitchen Steals Up to 70% Off
     *   Free Shipping: Cotton Sheets, Duvets &. More
     *   Free Shipping: Oliver Gal
-    *   Vince Camuto Luggage Up to 75% Off
-    *   Pool Party ft. Lucky Brand Swim
-    *   Brooks Men
-    *   Bring the Outdoors In: Metal Decor &. More
-    *   Free Shipping: Professional Garment Steamers
 *   WomenShop Sale Events
     
+    *   Love Stitch
+    *   For Her: Delicate Fine Jewelry Up to 55% Off
+    *   Badgley Mischka
+    *   Spring Go-Tos: Mini, Midi &. Maxi Skirts from $15
+    *   Predire Paris Luxury Skin Care Starting at $20
+    *   Superga &. More
+    *   Room Service &. More
+    *   All Day Comfort: Wire-Free Bras, Underwear &. More
+    *   Stunning in the Sun: Shoulder-Baring Tops &. More
+    *   Michou Gemstone &. Sterling Silver Jewelry
+    *   William Rast Incl. Plus
+    *   Timeless Trenches: Raincoats &. More
+    *   Italian Collection Bags Up to 70% Off
     *   Laura Geller New York
     *   Vince Camuto Up to 65% Off Incl. Plus &. Petites
     *   Vince Camuto Shoes Up to 50% Off
@@ -96,11 +111,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Shine On: Metallic &. Glitter Shoes
     *   Helly Hansen Coats &. More
     *   go >. by GoSilk
+    
     *   Tart
     *   Vince Camuto Handbags Up to 50% Off
     *   Australia Luxe Collective
     *   ALOR Fine Jewelry: 18K Gold &. More
-    *   Just for Her: Mother's Day Jewelry
     *   The Shoe Shop: Sandals
     *   ALEX AND ANI Jewelry
     *   The Shoe Shop: Comfort Styles
@@ -108,52 +123,40 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   The Shoe Shop: Heels &. Pumps
     *   The Shoe Shop: Mules &. Slides
     *   The Shoe Shop: Sneakers
-    *   Abound
-    
-    *   Jeans &. More Under $25 ft. 1822 Denim
-    *   Go Couture Knits
-    *   Set to Sweat: Active Starting at $14
-    *   Alexia Admor &. More
-    *   Guess Jackets &. More
-    *   Fragrance Sets for Mother's Day
-    *   Beach Bound: Men's &. Women's Sunnies Under $40
-    *   Travel Ready: Lodis Handbags &. More
     *   Sapanyu Jewelry: Raw Gems, Stacking Rings, &. More
     *   Travel Essentials Starting at $13
     *   Josie Maran Starting at $10
     *   Edward Bess Up to 80% Off
     *   Teami Blends Detox Teas &. Supplements
-    *   Freida Rothman Jewelry Up to 60% Off
-    *   Face Masks We Love
-    *   Michael Todd Beauty Soniclear &. More Up to 60% Off
     *   Designer Shop Up to 70% Off
-    *   Weekend Upgrades: Socialite Starting at $15
-    *   Wolford
     *   Vince Camuto Luggage Up to 75% Off
     *   Pool Party ft. Lucky Brand Swim
+    *   Face Masks We Love
+    *   Go Couture Knits
     
     Shop By Category
     *   Shoes
     *   Clothing
     *   Jewelry
-    *   Handbags
     *   Lingerie
+    *   Handbags
     *   Accessories
+    *   Watches
 *   MenShop Sale Events
     
+    *   Hickey Freeman
+    *   Luxe Men's Shoes ft. Zanzara
+    *   Lacoste Men's Lounge
     *   Men's Clothing ft. Vince Camuto Up to 55% Off
     *   Hugo Boss Men's Shoes
     *   Robert Talbott Up to 50% Off
-    *   Men's Shoe Shop: Sneakers, Loafers &. More
-    *   Beach Bound: Men's &. Women's Sunnies Under $40
-    *   Scotch &. Soda
     
+    *   Men's Shoe Shop: Sneakers, Loafers &. More
+    *   Scotch &. Soda
     *   Travel Essentials Starting at $13
-    *   Champion Men
     *   Teami Blends Detox Teas &. Supplements
     *   Timberland Luggage &. More Up to 75% Off
     *   Vince Camuto Luggage Up to 75% Off
-    *   Brooks Men
     
     Shop By Category
     *   Clothing
@@ -162,21 +165,27 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Sovereign Code
+    *   Kids' Toys &. Clothing ft. Toy Story and More
+    *   Kids' Steals Up to 60% Off
     *   Kids' Shoe Shop: Sandals, Sneakers &. More
-    *   Skechers Kids Under $35
-    *   Kids' Surf and Skate: Volcom, O'Neill &. More
     
     Shop By Category
     *   Girls' Shoes
     *   Boys' Shoes
-    *   Boys' Sizes 8-20
-    *   Girls' Sizes 2T-6X
     *   Boys' Sizes 2T-7
+    *   Boys' Sizes 8-20
+    *   Baby Boy
+    *   Girls' Sizes 2T-6X
     *   Girls' Sizes 7-16
+    *   Baby Girl
+    *   The Toy Shop
 *   HomeShop Sale Events
     
+    *   Celebrate Spring: Le Creuset in Hibiscus &. More
+    *   Free Shipping: Down &. Memory Foam Essentials
+    *   Cheers to These: Wine &. Kombucha-Making Kits
     *   Free Shipping: Melange Bedding
-    *   Free Shipping: On-Trend Storage, Decor &. More
     *   Free Shipping: Storage Must-Haves from $10
     *   Free Shipping: Hand-Painted Replicas
     *   Rest Well: Hypoallergenic Bedding &. More
@@ -184,45 +193,42 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Travel Essentials Starting at $13
     *   Pool Party Ready: Beach Towels from $10
     *   Festive Floats &. Outdoor Speakers from $10
-    *   Celebrate Spring: Le Creuset in Hibiscus &. More
+    
     *   New on HauteLook: Sugarfina
     *   Cuisinart
-    
     *   $40 &. Under: Down-Alternative Comforter Sets
+    *   Vince Camuto Luggage Up to 75% Off
+    *   Free Shipping: On-Trend Storage, Decor &. More
     *   Free Shipping: Organizers for Every Room from $13
     *   Free Shipping: Rustic-Chic Decor &. More from $13
-    *   Free Shipping: 1000 Thread Count Sheets &. More
-    *   Sparkle On: Ultrasonic Jewelry Cleaners
+    *   Bring the Outdoors In: Metal Decor &. More
     *   Free Shipping: Kitchen Steals Up to 70% Off
     *   Free Shipping: Cotton Sheets, Duvets &. More
     *   Free Shipping: Oliver Gal
-    *   Vince Camuto Luggage Up to 75% Off
-    *   Bring the Outdoors In: Metal Decor &. More
-    *   Free Shipping: Professional Garment Steamers
     
     Shop By Category
     *   Home Decor
-    *   Kitchen &. Tabletop
     *   Bedding
-    *   Cleaning &. Organization
+    *   Kitchen &. Tabletop
     *   Outdoor Living
+    *   Cleaning &. Organization
     *   Luggage &. Travel
     *   Bath
     *   Tech Accessories
 *   BeautyShop Sale Events
     
+    *   Predire Paris Luxury Skin Care Starting at $20
+    *   Trophy Skin Anti-Aging Beauty Tools
     *   Laura Geller New York
-    *   Fragrance Sets for Mother's Day
     *   Josie Maran Starting at $10
     *   Edward Bess Up to 80% Off
     *   Teami Blends Detox Teas &. Supplements
     *   Face Masks We Love
-    *   Michael Todd Beauty Soniclear &. More Up to 60% Off
     
     Shop By Category
     *   Skin Care
-    *   Bath &. Body
     *   Makeup
+    *   Bath &. Body
     *   Tools &. Accessories
     *   Fragrance
     *   Hair Care
