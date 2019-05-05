@@ -22,7 +22,7 @@ New items have been added to sale! SHOP NOW
     *   Login
     *   |
     *   Register
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   Women
     *   *   Featured
