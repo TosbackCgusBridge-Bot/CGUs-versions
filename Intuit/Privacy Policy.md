@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
+*   My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -37,35 +37,31 @@ Near YouFind a StoreBackBEAUTY GIFTS FOR MOMShop AllBEAUTY GIFTS FOR MOMShop All
     Marc Jacobs Fragrances Daisy Love Eau So Sweet(94)Add To Cart
 *   $14
     
-    SEPHORA COLLECTION Eye Love Eyeshadow Palette(17)Add To Cart
+    SEPHORA COLLECTION Eye Love Eyeshadow Palette(19)Add To Cart
 *   $59
     
-    Too Faced Natural Lust Palette(65)Add To Cart
-*   $42
-    
-    Sol de Janeiro Samba Mama Coco Cabana Trio(10)Add To Cart
+    Too Faced Natural Lust Palette(66)Add To Cart
 *   from$76
     
     DOLCE&GABBANA Dolce Peony(10)Add To Cart
 *   $42
     
-    Caudalie Vinosource SOS Deep Hydration Moisturizer(64)Add To Cart
-*   $34
+    Caudalie Vinosource SOS Deep Hydration Moisturizer(65)Add To Cart
+*   $110
     
-    Drunk Elephant Slaai™ Makeup-Melting Butter Cleanser(213)Add To Cart
+    SEPHORA COLLECTION ROLL IT UP Brush Set(3)Add To Cart
+*   $50
+    
+    Fresh Rose Deep Hydration Sleeping Mask(822)Add To Cart
 
 Hot Sellers
 
-*   $1599after couponwas $42 Arizona Basic Original Bootcut Jeans(598)
-*   $1439after couponwas $36 Stafford® Travel Short-Sleeve Easy-Care Broadcloth Dress Shirt(297)
-*   $1599after couponwas $50 Arizona Womens Mase Flat Sandals(1)
-*   from$2399after couponYuu Womens Hilly Strap Sandals
-*   $4999 sale
-    
-    was $140 | 64% offCooks 2.5L Air Fryer(243)
-*   from$45
-    
-    Nike Revolution 4 Womens Lace-up Running Shoes(104)
+*   $1439after couponwas $40 Arizona Womens Aurora Ankle Strap Flat Sandals(1)
+*   $1999after couponwas $54 Italiana By Italian Shoemakers Womens Jessa Wedge Sandals(4)
+*   $1439after couponwas $40 Arizona Womens Antigua Adjustable Strap Flat Sandals(3)
+*   $2399after couponwas $60 a.n.a Womens Meadow Wedge Sandals(6)
+*   $1439after couponwas $40 Arizona Womens Corsico T-Strap Flat Sandals(2)
+*   $2799after couponwas $90 Men's JF J. Ferrar® Stretch Gabardine Flat-Front Straight-Leg Slim Fit Suit Pants(255)
 
 Shop and Save at JCPenney
 
