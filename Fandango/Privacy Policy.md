@@ -71,8 +71,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Watch First, Fun 'Sonic the Hedgehog' Trailer. Here's Everything We Know Read More
-    *   Today in Movie Culture: How to Make the MCU’s Avengers-inspired Ice Cream Flavors, Kelly Clarkson’s ‘UglyDolls’ Music Video and More Read More
+    *   Today in Movie Culture: ‘Long Shot’ Director Commentary, the Science of the Marvel Cinematic Universe and More Read More
+    *   The Week in Movie News: ‘The Suicide Squad’ Casts More Super Villains, First ‘Sonic the Hedgehog’ Trailer and more Read More
     *   Next 3 Marvel Movies We Want to See: 'Spider-Man: Far From Home,' 'Black Widow,' 'Black Panther 2' Read More
     
     Explore Content
