@@ -57,9 +57,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, Utah. On the internet, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 3% 
+What is PeekScore? Public Records &. Background Checks 4% 
 
 Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -89,7 +89,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
+4% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -135,7 +135,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
+4% 
 
 Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -165,7 +165,7 @@ Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
+4% 
 
 *   Ms Amy A Persenaire, age 45, Lake Worth, FL View Full Report
     
@@ -588,7 +588,7 @@ Images 3% 
 
 20
 
-8
+7
 
 facebookx
 
