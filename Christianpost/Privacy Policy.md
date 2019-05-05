@@ -55,7 +55,6 @@ Stay Connected
 *   Contact Us
 *   RSS Feed
 *   Advertise With Us
-*   Media Kit
 *   Archives
 *   Corrections
 
