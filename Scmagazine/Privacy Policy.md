@@ -215,11 +215,11 @@ New York, NY 10001.**
     *   Ransomware ravages municipalities nationwide this week
     *   Ransomware disables Cleveland airport's email systems, information screens
     
+    *   St. Ambrose Catholic Parish BEC scam nets $1.75M
+    *   Researcher hacks fleets and can kill engines via GPS tracking app
     *   5 ways hackers use digital channels to launch VIP attacks
-    *   Majority of SMB execs willing to pay in a ransomware situation
-    *   Google unveils new controls for automatically deleting data after 3 or 18 months
-    *   Privacy Statistics
-    *   Flaw in Confluence collaboration products exploited to deliver GandCrab, AESDDoS Botnet malware
+    *   Revive Adserver patches vulnerability possibly used to distribute malware
+    *   Retefe Revisited: Banking trojan reemerges, adopts new set of tools
     
     *   Qakbot upgrade includes new obfuscation technique
     *   Europol announces takedown of Wall Street Market and Valhalla dark web markets
