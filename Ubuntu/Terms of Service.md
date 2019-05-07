@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Canonical announces support for Ubuntu on Windows Subsystem for Linux 2 ›
 *   Switch life mode to FUN with some cool Linux games ›
 *   Ubuntu at Internet of Things World 2019 ›
 *   Canonical at Cephalocon Barcelona 2019 ›
 *   Canonical at Kubecon Europe 2019 ›
-*   Ubuntu Server development summary – 30 April 2019 ›
