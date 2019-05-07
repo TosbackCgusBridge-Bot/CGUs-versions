@@ -461,6 +461,10 @@ Lenovo Explore Close
         *   Healthcare
         *   Education
         *   Small Business
+        
+        *   Avoid Downtime
+        *   Increase Productivity
+        *   Unrivaled Expertise
     *   Data Center Services
         
         *   Explore Services
@@ -473,6 +477,9 @@ Lenovo Explore Close
         
         Accelerate your Digital Transformations
         
+        *   Avoid Downtime
+        *   Increase Productivity
+        *   Unrivaled Expertise
     *   Support
         
         *   Customer Support
@@ -493,11 +500,6 @@ Lenovo Explore Close
         *   Motorola Mobile Support
         *   Forums
         *   All Technical Support
-    
-    *   Avoid Downtime
-    *   Increase Productivity
-    *   Unrivaled Expertise
-    
 *   About Lenovo
     *   About Lenovo
     *   Diversity &. Inclusion
