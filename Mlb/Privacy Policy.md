@@ -109,6 +109,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
 *   Apps Apps Apps
     *   MLB At Bat
     *   MLB Ballpark
+    *   MiLB First Pitch
     *   R.B.I. Baseball 19
     *   MLB Home Run Derby
     *   MLB Beat the Streak
