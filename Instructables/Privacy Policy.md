@@ -58,9 +58,10 @@ Autodesk logo
     *   Online viewer
     *   Solutions
     *   Industry solutions
+        *   Architecture, Engineering and Construction
         *   Building Information Modeling (BIM)
         *   Film &. TV
-        *   Construction
+        *   Construction Management Software
         *   Game design
         *   Manufacturing
         *   Product design
