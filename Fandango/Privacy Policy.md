@@ -6,44 +6,44 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movies Now Playing
     
     *   Avengers: Endgame (2019)
+    *   The Intruder (2019)
+    *   Long Shot
+    *   UglyDolls
     *   Captain Marvel (2019)
-    *   The Curse of La Llorona
     *   Breakthrough (2019)
+    *   The Curse of La Llorona
     *   Shazam!
     *   Little (2019)
+    *   El Chicano (2019)
     *   Dumbo (2019)
-    *   Pet Sematary (2019)
-    *   Us (2019)
-    *   Penguins (2019)
-    *   Missing Link (2019)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   El Chicano (2019)
-    *   The Intruder (2019)
-    *   UglyDolls
-    *   Long Shot
-    *   Ask Dr. Ruth
-    *   Bolden
-    *   The Convent (2019)
-    *   Meeting Gorbachev
-    *   Non-Fiction
-    *   Savage (2019)
-    *   Shadow (2019)
+    *   The Hustle (2019)
+    *   Pokémon Detective Pikachu
+    *   Poms
+    *   Tolkien
+    *   All is True
+    *   The Biggest Little Farm
+    *   Charlie Says
+    *   My Son (2019)
+    *   The Professor and the Madman
+    *   The Silence of Others
+    *   Student of the Year 2
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Pokémon Detective Pikachu
-    *   The Hustle (2019)
-    *   Poms
     *   John Wick: Chapter 3 – Parabellum
     *   The Sun Is Also a Star
     *   A Dog's Journey
     *   Aladdin (2019)
     *   Brightburn
     *   Booksmart
+    *   Rocketman
+    *   Godzilla: King of the Monsters (2019)
+    *   Ma (2019)
     *   See All Coming Soon
     
     Explore More
@@ -71,7 +71,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: ‘Long Shot’ Director Commentary, the Science of the Marvel Cinematic Universe and More Read More
+    *   Today in Movie Culture: The Science of ‘Pokémon: Detective Pikachu,’ Big ‘Avengers: Endgame’ Questions and More Read More
     *   The Week in Movie News: ‘The Suicide Squad’ Casts More Super Villains, First ‘Sonic the Hedgehog’ Trailer and more Read More
     *   Next 3 Marvel Movies We Want to See: 'Spider-Man: Far From Home,' 'Black Widow,' 'Black Panther 2' Read More
     
@@ -296,9 +296,9 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   Your Early Access to 'Rocketman'
+*   Buy one ticket, get one free
     
-    See it first on May 18th! BUY TICKETS
+    At Studio Movie Grill Sunset Walk Florida. Use code SMGSUNSET at checkout! (Terms Apply) BUY TICKETS
     
 *   VIP+ World Elite Mastercard®
     
@@ -307,6 +307,10 @@ Offers
 *   The Perfect Gift For Moms
     
     10% off Gift Card Orders of $50 or More. \*Terms Apply. BUY NOW
+    
+*   Limited Time 'Tolkien' Offer
+    
+    Buy two tickets, get two free\* when you use promo code TOLKIEN at checkout! \*Terms Apply. While Supplies Last BUY TICKETS
     
 
 New + Coming soon
