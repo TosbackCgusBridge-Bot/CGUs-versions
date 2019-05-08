@@ -296,17 +296,17 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   Buy one ticket, get one free
+*   'The Secret Life of Pets 2' Gift with Purchase
     
-    At Studio Movie Grill Sunset Walk Florida. Use code SMGSUNSET at checkout! (Terms Apply) BUY TICKETS
+    Get a free song download from the movie soundtrack with ticket purchase! BUY TICKETS
     
 *   VIP+ World Elite Mastercard®
     
     Get 2x the points pay with World Elite Mastercard®. BUY TICKETS
     
-*   The Perfect Gift For Moms
+*   Your Early Access to 'Rocketman'
     
-    10% off Gift Card Orders of $50 or More. \*Terms Apply. BUY NOW
+    See it first on May 18th! BUY TICKETS
     
 *   Limited Time 'Tolkien' Offer
     
@@ -315,14 +315,14 @@ Offers
 
 New + Coming soon
 
-*   Shazam!
-*   Little (2019)
-*   Penguins (2019)
-*   Breakthrough (2019)
-*   The Curse of La Llorona
 *   Avengers: Endgame (2019)
 *   Pokémon Detective Pikachu
+*   A Dog's Journey
 *   John Wick: Chapter 3 – Parabellum
+*   Fandango Early Access: Rocketman
+*   Aladdin (2019)
+*   Fandango Early Access: The Secret Life of Pets 2
+*   Godzilla: King of the Monsters (2019)
 
 Experience + Explore
 
