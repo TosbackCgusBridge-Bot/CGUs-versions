@@ -4,11 +4,13 @@ When you use our products, we realize you’re trusting us with your information
 
 The Google Privacy Policy applies to all Google services, including the Google Wifi app and Wifi points. This article sheds additional light on your privacy choices specific to Wifi points and the Google Wifi app.
 
-Last modified: December 6, 2016 (view archived versions)
+In addition, you can read more about Google &. Nest’s overall commitment to privacy in the home, which covers Wifi devices made by Google.
+
+Last modified: May 5, 2019 (view archived versions)
 
 Information Wifi points &. the Google Wifi app collect
 
-The information your Wifi points and the Google Wifi app collect helps us deliver the best Wi-Fi experience possible. **Importantly, the Google Wifi app and your Wifi points do not track the websites you visit or collect the content of any traffic on your network.** However, your Wifi points does collect data such as Wi-Fi channel, signal strength, and device types that are relevant to optimize your Wi-Fi performance. Google policies and terms of services apply as normal to any Google services you use (like Gmail or Google search), whether you’re using them on an Google Wifi network or not.
+The information your Wifi points and the Google Wifi app collect helps us deliver the best Wi-Fi experience possible. **Importantly, the Google Wifi app and your Wifi points do not track the websites you visit or collect the content of any traffic on your network.** However, your Wifi points do collect data such as Wi-Fi channel, signal strength, and device types that are relevant to optimize your Wi-Fi performance. Google policies and terms of services apply as normal to any Google services you use (like Gmail or Google search), whether you’re using them on a Google Wifi network or not.
 
 With simple controls in the Google Wifi app's 'Privacy' settings, you can manage three types of data collected -- Cloud services, Wifi point stats, and App stats. Examples of the kinds of data managed by these controls are given below.
 
@@ -87,7 +89,7 @@ Data retention
 
 If you are the Wi-Fi network owner and you factory reset your Wifi point:
 
-*   It will clear settings and data from the Wifi point. If triggered via the app, it will also remove the the Wifi point from your Google Account.
+*   It will clear settings and data from the Wifi point. If triggered via the app, it will also remove the Wifi point from your Google Account.
 *   Any data collected to deliver your Cloud services is no longer linked to your account
 *   All Wifi point and Google Wifi app data related to your Google Account will be deleted in accordance with Google's Privacy Policy
 
@@ -98,7 +100,7 @@ If you are the Wi-Fi network owner and you delete your Google Account, the follo
 
 DNS Settings
 
-While Google Wifi doesn’t track the websites you visit, your DNS provider can associate your web traffic with your public IP address. Google Wifi sets your default DNS provider to Google Public DNS. (This can be changed in the Advanced Networking settings of the Google Wifi app.) Google does not associate Google Public DNS information with your Google Account. Learn more about Google Public DNS.
+While Google Wifi doesn’t track the websites you visit, your DNS provider can associate your web traffic with your public IP address. Google Wifi sets your default DNS provider to Google Public DNS. (This can be changed in the Advanced Networking settings of the Google Wifi app.) Google does not associate Google Public DNS information with your Google Account. Learn more about Google Public DNS and its privacy practices here.
 
 Updates and Changes
 
