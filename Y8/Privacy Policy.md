@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 981 games
-*   Most Popular Games 19125 games
+*   Best of new games 989 games
+*   Most Popular Games 19134 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,028 games
+*   Games for girls 24,031 games
 *   Driving &. Racing Games 6,778 games
 *   Strategy &. RPG Games 2,412 games
-*   Management Games 3,648 games
-*   Thinking Games 12,042 games
-*   Action &. Adventure Games 16,017 games
-*   Sports Games 2,212 games
-*   Shooting Games 8,431 games
+*   Management Games 3,649 games
+*   Thinking Games 12,045 games
+*   Action &. Adventure Games 16,019 games
+*   Sports Games 2,214 games
+*   Shooting Games 8,433 games
 *   Fighting Games 2,088 games
-*   Skill Games 11,005 games
+*   Skill Games 11,012 games
 *   Arcade &. Classic Games 12,812 games
-*   Fun &. Crazy Games 2,506 games
+*   Fun &. Crazy Games 2,507 games
 
 Play with friends  
-Powered by Y8 Account 127 Y8 Multiplayer Games 1,940 Y8 High Score Games 1,140 Y8 Achievements Games 814 Y8 Screenshots Games 1,413 Y8 Online Save Games 2,992 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 127 Y8 Multiplayer Games 1,946 Y8 High Score Games 1,142 Y8 Achievements Games 815 Y8 Screenshots Games 1,414 Y8 Online Save Games 2,999 All Y8 Games Games Last Highscore:
 
-**3** points on Slope Y8 by PlankinDonkey
+**16,251** points on Bartender The Wedding by Anne
 
 Help us improve Bad translation? Social
 
