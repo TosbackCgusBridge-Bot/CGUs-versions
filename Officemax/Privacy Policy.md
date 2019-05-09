@@ -40,20 +40,20 @@ Stock Quote and Chart
 
 Price
 
-$2.24
+$2.21
 
 Change
 
-\-0.12
+\-0.03
 
 Percent Change
 
-(-5.08%)
+(-1.34%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News May 06, 2019 Office Depot, Inc. Announces Stephen M. Mohan as Executive Vice President of the Business Solutions Division view more Recent News May 06, 2019 Office Depot, Inc. Announces Stephen M. Mohan as Executive Vice President of the Business Solutions Division view more Events May 8, 2019 at 9:00 AM EDT Q1 2019 Office Depot Inc Earnings Conference Call view more Events May 8, 2019 at 9:00 AM EDT Q1 2019 Office Depot Inc Earnings Conference Call view more Presentations Feb 27, 2019 Office Depot Fourth Quarter 2018 Earnings Webcast Presentation view more Presentations Feb 27, 2019 Office Depot Fourth Quarter 2018 Earnings Webcast Presentation view more
+Recent News May 08, 2019 Office Depot Declares Quarterly Cash Dividend of $0.025 Per Share view more Recent News May 08, 2019 Office Depot Declares Quarterly Cash Dividend of $0.025 Per Share view more Events May 8, 2019 at 9:00 AM EDT Q1 2019 Office Depot Inc Earnings Conference Call view more Events May 8, 2019 at 9:00 AM EDT Q1 2019 Office Depot Inc Earnings Conference Call view more Presentations May 08, 2019 Office Depot First Quarter 2019 Earnings Webcast Presentation view more Presentations May 08, 2019 Office Depot First Quarter 2019 Earnings Webcast Presentation view more
 
 *   Home
 *   News &. Events
