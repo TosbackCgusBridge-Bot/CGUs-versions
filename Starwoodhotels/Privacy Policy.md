@@ -162,11 +162,11 @@ Marriott Bonvoy
 
 PRIVACY CENTER
 
-Last Updated:  **February 4, 2019**
+Last Updated:  **April 30, 2019**
 
 MARRIOTT GROUP GLOBAL PRIVACY STATEMENT
 
-The Marriott Group (PDF) , which includes Marriott International, Inc., Starwood Hotels &. Resorts Worldwide, LLC (formerly known as Starwood Hotels &. Resorts Worldwide, Inc.) and their affiliates, values you as our guest and recognizes that privacy is important to you. We want you to be familiar with how we collect, use and disclose data. 
+The Marriott Group (PDF) , which includes Marriott International, Inc., Starwood Hotels &. Resorts Worldwide, LLC (formerly known as Starwood Hotels &. Resorts Worldwide, Inc.) and their affiliates, values you as our guest and recognizes that privacy is important to you. We want you to be familiar with how we collect, use and disclose data.
 
 This Privacy Statement describes the privacy practices of the Marriott Group for data that we collect:
 
@@ -174,9 +174,9 @@ This Privacy Statement describes the privacy practices of the Marriott Group for
 *    through the software applications made available by us for use on or through computers and mobile devices (the “**Apps**”)
 *    through our social media pages that we control from which you are accessing this Privacy Statement (collectively, our “**Social Media Pages**”)
 *    through HTML-formatted email messages that we send you that link to this Privacy Statement and through your communications with us
-*    when you visit or stay as a guest at one of our properties, or through other offline interactions
+*    when you visit or stay as a guest at one of our properties, or at homes and villas offered on the Homes and Villas by Marriott International platform (“**Homes and Villas**”), or through other offline interactions (collectively, “**Property Visits and Offline Interactions**”)
 
-Collectively, we refer to the Websites, the Apps and our Social Media Pages, as the “**Online Services**” and, together with offline channels, the “**Services.**”  By using the Services, you agree to the terms and conditions of this Privacy Statement.
+Collectively, we refer to the Websites, the Apps and our Social Media Pages, as the “**Online Services**” and, together with the **Property Visits and Offline Interactions**, the “**Services**.” By using the Services, you agree to the terms and conditions of this Privacy Statement.
 
 Privacy Preferences At Marriott, we respect your privacy and want to provide you with the options, information, and choices below to express your preferences: what and how much you share with us and when and how you hear from us.  
 
@@ -192,7 +192,7 @@ We want to engage with you in a way that is valuable to you, including how often
 
 Other Preferences
 
-If you would like to request to access, change, delete, restrict the use or object to the processing of your Personal Data that you have previously provided to us, or if you would like to receive an electronic copy of your Personal Data for purposes of transmitting it to another company (to the extent these rights are provided to you by law), please complete this form. . If you have any questions about the form or our process, feel free to contact us at privacy@marriott.com or by mail at:
+If you have other preferences, or are looking to exercise your individual rights under the GDPR, please email Privacy@Marriott.com, or mail us at:
 
 Marriott International, Inc.  
 Global Compliance, Privacy  
@@ -200,17 +200,7 @@ Global Compliance, Privacy
 Bethesda, MD 20817  
 United States of America 
 
-EEA Contact Information: :  
-Marriott Hotels Limited  
-Global Compliance  
-Barnard’s Inn  
-86 Fetter Lane  
-London EC4A 1EN  
-United Kingdom
-
-For your protection, we only fulfill requests for the personal data associated with the email address and/or loyalty account number that you identify in your request, and we may need to verify your identity before fulfilling certain requests. When permitted by law, we may charge an appropriate fee to cover the costs of responding to your request.
-
-Marriott acknowledges and respects our guests’ privacy and we will try to comply with your request as soon as reasonably practicable and consistent with applicable law.
+We look forward to providing you with experiences that exceed your expectations both online and at our hotels. For your protection, you may be asked to verify your identity before we respond to your request.
 
 Drawers
 
@@ -278,15 +268,17 @@ We collect Personal Data in a variety of ways:
 
 *   **Online Services.** We collect Personal Data when you make a reservation, purchase goods and services from our Websites or Apps, communicate with us, or otherwise connect with us or post to social media pages, or sign up for a newsletter or participate in a survey, contest or promotional offer.   
     
-*   **Property Visits and Offline Interactions.** We collect Personal Data when you visit our properties or use on-property services and outlets, such as restaurants, concierge services, health clubs, child care services, and spas. We also collect Personal Data when you attend promotional events that we host or in which we participate, or when you provide your Personal Data to facilitate an event.  
+*   **Property Visits and Offline Interactions.** We collect Personal Data when you visit our properties, Homes and Villas, or use on-property services and outlets, such as restaurants, concierge services, health clubs, child care services, and spas. We also collect Personal Data when you attend promotional events that we host or in which we participate, or when you provide your Personal Data to facilitate an event.  
     
 *   **Customer Care Centers.** We collect Personal Data when you make a reservation over the phone, communicate with us by email, fax or via online chat services or contact customer service. These communications may be recorded for purposes of quality assurance and training.  
     
 *   **Owners and Franchisees.** We collect Personal Data from Owners of Marriott Group branded properties that we manage. We also collect Personal Data from Franchisees of Marriott Group branded properties that are independently owned and operated under a franchise agreement with us. Owners and Franchisees are independent from the Marriott Group.  
     
-*   **Authorized Licensees.** We collect Personal Data from companies when we enter into a license or similar agreement to sell goods and services under a Marriott Group brand (“**Authorized Licensees**”). Examples of Authorized Licensees include our time share partners, Marriott Vacations Worldwide Corporation and Vistana Signature Experiences, Inc. Examples of other Authorized Licensees include Cruise Yacht Optco Ltd. d/b/a The Ritz-Carlton Yacht Collection, developers of Marriott Group branded real estate and co-branded credit card partners.  Authorized Licensees are independent from the Marriott Group.  
+*   **Homes and Villas Property Management Companies.** We collect Personal Data from companies and their service providers who manage Homes and Villas properties, your booking of Homes and Villas, and provide additional support to you during your stay at Homes and Villas (“**Homes and Villas Property Management Companies**”). Homes and Villas Property Management Companies are independent from the Marriott Group.  
     
-*   **Strategic Business Partners**. We collect Personal Data from companies with whom we partner to provide you with goods, services or offers based upon your experiences at our properties or that we believe will be of interest to you (“**Strategic Business Partners**”). Examples of Strategic Business Partners include on-property outlets, travel and tour partners, time share partners, rental car providers and travel booking platforms. Strategic Business Partners are independent from the Marriott Group.  
+*   **Authorized Licensees.** We collect Personal Data from companies when we enter into a license or similar agreement to sell goods and services under a Marriott Group brand (“Authorized Licensees”). Examples of Authorized Licensees include our time share partners, Marriott Vacations Worldwide Corporation and Vistana Signature Experiences, Inc. Examples of other Authorized Licensees include Cruise Yacht Optco Ltd. d/b/a The Ritz-Carlton Yacht Collection, developers of Marriott Group branded real estate and co-branded credit card partners. Authorized Licensees are independent from the Marriott Group.  
+    
+*   **Strategic Business Partners**. We collect Personal Data from companies with whom we partner to provide you with goods, services or offers based upon your experiences at our properties or Homes and Villas, or that we believe will be of interest to you (“**Strategic Business Partners**”). Examples of Strategic Business Partners include on-property outlets, travel and tour partners, time share partners, rental car providers and travel booking platforms. Strategic Business Partners are independent from the Marriott Group.  
     
 *   **Other Sources.** We collect Personal Data from other sources, such as public databases, joint marketing partners and other third parties.  
     
@@ -379,15 +371,17 @@ Our goal is to provide you with the highest level of hospitality and Services, a
 
 *   **Marriott Group.** We disclose Personal Data and Other Data to other companies within the Marriott Group  for the purposes described in this Privacy Statement, such as providing and personalizing the Services, communicating with you, facilitating the loyalty programs, and to accomplish our business purposes. Marriott International, Inc. is the party responsible for the management of the jointly-used Personal Data. We share your Personal Data and Other Data used for making a reservation with the applicable property to fulfill and complete your reservation.  
     
-*   **Owners and Franchisees.** We disclose Personal Data and Other Data to Owners and Franchisees of Marriott Group branded properties for the purposes described in this Privacy Statement, such as providing and personalizing the Services and facilitating the loyalty programs.    
+*   **Owners and Franchisees.** We disclose Personal Data and Other Data to Owners and Franchisees of Marriott Group branded properties for the purposes described in this Privacy Statement, such as providing, facilitating and personalizing the Services and facilitating the loyalty programs.  
+    
+*   **Homes and Villas Property Management Companies.** We disclose Personal Data and Other Data to Homes and Villas Property Management Companies and their service providers for the purpose described in this Privacy Statement, such as providing, facilitating and personalizing the Services and facilitating the loyalty programs.  
     
 *   **Authorized Licensees.** We disclose Personal Data and Other Data to our Authorized Licensees for the purposes described in this Privacy Statement, such as providing and personalizing the Services and fulfilling your requests. For example, this sharing enables you to purchase Marriott branded goods and services, including time share properties.  
     
-*   **Strategic Business Partners.** We disclose Personal Data and Other Data with select Strategic Business Partners who provide goods, services and offers that enhance your experience at our properties or that we believe will be of interest to you. By sharing data with these Strategic Business Partners, we are able to make personalized services and unique travel experiences available to you. For example, this sharing enables spa, restaurant, health club, concierge and other outlets at our properties to provide you with services. This sharing also enables us to provide you with a single source for purchasing packages that include travel-related services, such as airline tickets, rental cars and vacation packages.  
+*   **Strategic Business Partners.** We disclose Personal Data and Other Data with select Strategic Business Partners who provide goods, services and offers that enhance your experience at our properties or Homes and Villas, or that we believe will be of interest to you. By sharing data with these Strategic Business Partners, we are able to make personalized services and unique travel experiences available to you. For example, this sharing enables spa, restaurant, health club, concierge and other outlets at our properties to provide you with services. This sharing also enables us to provide you with a single source for purchasing packages that include travel-related services, such as airline tickets, rental cars and vacation packages.  
     
 *   **Service Providers.** We disclose Personal Data and Other Data to third-party service providers for the purposes described in this Privacy Statement. Examples of service providers include companies that provide website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, marketing, auditing and other services.   
     
-*   **Linked Accounts and Promotional Activity.** We partner with certain third parties that allow you to enroll in their services or participate in their promotions. For example, certain companies allow you to use your loyalty program number or Online Services login to receive or register for their services. These companies include airlines and rental car providers, as well as sponsors of sweepstakes and contests.  Additionally, your social media account provider allows you to connect your social media account to your Online Services account or log into your Online Services account from your social media account. When you enroll in those services, we disclose your Personal Data and Other Data to those third parties. If you do not want us to share your Personal Data or Other Data in this way, do not provide your loyalty program number to third parties, do not use your Online Services login to register for third-party promotions and do not connect your Online Services account with accounts on third-party services. Data shared in this way will be governed by the third party’s privacy policy and not this Privacy Statement.   
+*   **Linked Accounts and Promotional Activity.** We partner with certain third parties that allow you to enroll in their services or participate in their promotions. For example, certain companies allow you to use your loyalty programme number or Online Services login to receive or register for their services. These companies include airlines and rental car providers, as well as sponsors of sweepstakes and contests.  Additionally, your social media account provider allows you to connect your social media account to your Online Services account or log into your Online Services account from your social media account. When you enroll in those services, we disclose your Personal Data and Other Data to those third parties. If you do not want us to share your Personal Data or Other Data in this way, do not provide your loyalty programme number to third parties, do not use your Online Services login to register for third-party promotions and do not connect your Online Services account with accounts on third-party services. Data shared in this way will be governed by the third party’s privacy policy and not this Privacy Statement.   
     
 *   **eFolio Program.** If you are an employee of a company that participates in the Marriott Group eFolio Program and book your room using a company corporate code or pay for your expenses using a corporate credit card, an extract of your folio detailing the goods and services provided to you may be sent to your company and to the credit card company. This Privacy Statement does not apply to the handling of your Personal Data by your employer, and any credit card company or bank, and we are not responsible for their practices.  
     
@@ -402,7 +396,7 @@ We may use and disclose Other Data for any purpose, except where we are not allo
 
 Non-Marriott Group Entities
 
-This Privacy Statement does not address, and we are not responsible for the privacy, data or other practices of any entities outside of the Marriott Group, including Franchisees, Owners, Authorized Licensees, Strategic Business Partners or any third party operating any site or service to which the Services link, payment service, loyalty program, or website that is the landing page of the high-speed Internet providers at our properties. The inclusion of a link on the Online Services does not imply endorsement of the linked site or service by us. We have no control over, and are not responsible for, any third party’s collection, use and disclosure of your Personal Data.
+This Privacy Statement does not address, and we are not responsible for the privacy, data or other practices of any entities outside of the Marriott Group, including Franchisees, Owners, Homes and Villas Property Management Companies, Authorized Licensees, Strategic Business Partners or any third party operating any site or service to which the Services link, payment service, loyalty programme, or website that is the landing page of the high-speed Internet providers at our properties. The inclusion of a link on the Online Services does not imply endorsement of the linked site or service by us. We have no control over, and are not responsible for, any third party’s collection, use and disclosure of your Personal Data.
 
 In addition, we are not responsible for the data collection, use, disclosure or security policies or practices of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including with respect to any Personal Data you disclose to other organizations through or the Apps or our Social Media Pages.
 
@@ -436,9 +430,9 @@ Bethesda, MD 20817
   
 We will provide a list of the categories of Personal Data disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. We reserve our right not to respond to requests submitted to addresses other than the addresses specified in this paragraph.
 
-How You Can Request to Access, Change, Delete, Restrict the Use or Object to the Processing of Your Personal Data
+How You Can Request to Access, Change, Delete, or Restrict the Use of Your Personal Data
 
-If you would like to request to access, change, delete, restrict the use or object to the processing of your Personal Data that you have previously provided to us, or if you would like to receive an electronic copy of your Personal Data for purposes of transmitting it to another company (to the extent these rights are provided to you by law), please complete this form . If you have any questions about the form or our process, feel free to contact us at privacy@marriott.com, or by mail at:
+If you would like to request to access, change, delete, or restrict the use of your Personal Data that you have previously provided to us, or if you would like to receive an electronic copy of your Personal Data for purposes of transmitting it to another company (to the extent these rights are provided to you by law), please complete this form . If you have any questions about the form or our process, feel free to contact us at privacy@marriott.com, or by mail at:
 
 Marriott International, Inc.  
 Global Compliance, Privacy  
@@ -446,15 +440,8 @@ Global Compliance, Privacy
 Bethesda, MD 20817  
 United States of America
 
-EEA Contact Information:  
-Marriott Hotels Limited  
-Global Compliance  
-Barnard’s Inn  
-86 Fetter Lane  
-London EC4A 1EN  
-United Kingdom
-
 For your protection, we may need to verify your identity before fulfilling your request. We will try to comply with your request as soon as reasonably practicable and consistent with applicable law.  
+  
 Please note that we often need to retain certain data for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase or reservation, or enter a promotion, you may not be able to change or delete the Personal Data provided until after the completion of such purchase, reservation, or promotion). There may also be residual data that will remain within our databases and other records, which will not be removed. In addition, there may be certain data that we may not allow you to review for legal, security, or other reasons.
 
 Retention
