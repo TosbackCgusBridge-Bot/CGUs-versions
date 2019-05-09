@@ -62,7 +62,7 @@ Close MENU **IS**
 **LS HYBRID**
 
 *   Starting at $79,8104\*
-*   354-HP3, 5\* 3.5L V6
+*   354 TOTAL SYSTEM HP3\*
 
 *   BUILD
 *   CURRENT OFFERS
@@ -204,7 +204,7 @@ COMPARE **UX HYBRID**
 **LS HYBRID**
 
 *   Starting at $79,8104\*
-*   354-HP3, 5\* 3.5L V6
+*   354 TOTAL SYSTEM HP3\*
 
 *   BUILD
 *   CURRENT OFFERS
