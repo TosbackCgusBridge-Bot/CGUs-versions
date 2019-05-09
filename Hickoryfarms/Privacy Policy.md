@@ -15,7 +15,7 @@
     *   Birthday Gifts
     *   Thank You Gifts
     *   Sympathy Gifts
-    *   Graduation GiftsMost Popular Easter Gifts Birthday Gifts
+    *   Graduation GiftsMost Popular Mother's Day Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -74,7 +74,7 @@
 *   Business Gifts
 *   Sale
 
-1.800.753.8558 Business Gifts 2 Day Shipping for Mother's day delivery ends tomorrow! Order by 3pm EST\* Search Catalog Find a Store Skip to content My Account
+1.800.753.8558 Business Gifts Next Day shipping for Mother's Day delivery ends tomorrow! Order by 3pm EST\* Search Catalog Find a Store Skip to content My Account
 
 *   Welcome!
 *   Log In
@@ -99,7 +99,7 @@
     *   Birthday Gifts
     *   Thank You Gifts
     *   Sympathy Gifts
-    *   Graduation GiftsMost Popular Easter Gifts Birthday Gifts
+    *   Graduation GiftsMost Popular Mother's Day Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -178,6 +178,15 @@ Customer Mailing List
 We sometimes make our customer list available to carefully screened companies whose products or services we think you might enjoy. However, your e-mail address will NEVER be sold or given to any other companies. If you prefer not to receive other mailings, copy your mailing label exactly and mail to us at:  
 Mail Preference Service, P.O. Box 75 Maumee, OH 43537
 
+Your Access to and Control over Information
+
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
+
+*   See what data we have about you, if any
+*   Change/correct any data we have about you
+*   Have us delete any data we have about you
+*   Express any concern you have about our use of your data
+
 Notice of Changes
 
 Hickory Farms' Privacy Policy is subject to change without notice. At any time, you may visit our website to view the current policy.
@@ -211,4 +220,4 @@ Contact Us
 *   1.800.753.8558
 *   Employment
 
-Find A Store © 2019 ALL RIGHTS RESERVED. PRIVACY POLICY TERMS OF USE SITE MAP
+Find A Store © 2019 ALL RIGHTS RESERVED. PRIVACY POLICY TERMS OF USE SITE MAP Play IconFeedback
