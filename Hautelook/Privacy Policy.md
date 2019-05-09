@@ -8,218 +8,210 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Athletic Shop ft. adidas, Champion &. PUMA
+    *   NARS
+    *   Miraclesuit, Athena &. More
+    *   Desigual
+    *   Ted Baker London Shoes
+    *   TARA Pearls: Tahitian &. Akoya Jewelry
+    *   Summer-Ready Style: Do + Be from $20
+    *   Ones to Watch: Bodysuits
+    *   Dr. Scholl's from $40
+    *   Valentino by Mario Valentino
+    *   Savvy Cie Jewelry Up to 80% Off
+    *   Athletic Shop: Shoes ft. adidas &. New Balance
+    *   Men's Athletic Shop: Shoes ft. adidas &. New Balance
+    *   Men's Athletic Shop ft. adidas, Champion &. PUMA
+    *   Peter Millar Up to 65% Off
+    *   Carlos by Carlos Santana &. More
+    *   Must-Have Textiles: Rugs, Bath Towels &. More
+    *   Coccoli
+    *   Kids' Athletic Shop ft. adidas, Champion &. PUMA
+    *   Stride Rite
+    *   Ted Baker London Men's Shoes
     *   Kate Spade New York Handbags
-    *   Kate Spade New York Jewelry &. More Up to 60% Off
     *   Kate Spade New York Shoes Starting at $40
     *   Kate Spade New York Coats
-    *   TOV
-    *   Steve Madden &. Madden Girl from $30
+    
+    *   Kate Spade New York Jewelry &. More Up to 60% Off
     *   Kate Spade New York Girls Up to 50% Off
-    *   Kate Spade New York Home Starting at $10
+    *   Perennially Perfect: Floral Dresses &. More
+    *   Polished Perfection: Adrianna Papell &. More
+    *   Steve Madden &. Madden Girl from $30
+    *   True Religion Starting at $60
+    *   True Religion Men Up to 60% Off
+    *   True Religion Kids Up to 60% Off
     *   Jonathan Adler Up to 40% Off
+    *   TOV
+    *   Teva Up to 50% Off
     *   Free Shipping: Comforters &. More Up to 70% Off
     *   Color of the Year: Coral-Accented Wall Art
     *   Everyday Kitchen Essentials Starting at $10
-    *   Polished Perfection: Adrianna Papell &. More
-    *   Perennially Perfect: Floral Dresses &. More
-    *   To Prom &. Beyond: Celebration Suiting Under $250
-    *   Teva Up to 50% Off
-    *   Perricone MD Starting at $20
+    *   Kate Spade New York Home Starting at $10
     *   ghd: good hair day
     *   Teva Men Up to 50% Off
     *   French Connection Men's Shoes
     *   Gifts For Dads &. Grads
     *   Play Dress Up: Girls' Shoes ft. Zaxy
-    *   True Religion Starting at $60
-    *   True Religion Kids Up to 60% Off
-    *   True Religion Men Up to 60% Off
-    
     *   Allen Edmonds
     *   All Set: Mix and Match Looks Incl. Plus &. Petites
-    *   Louise et Cie Up to 50% Off
     *   Leather Jackets &. More ft. Andrew Marc
-    *   MCM Sunglasses Up to 80% Off
+    *   Vertigo Up to 75% Off
+    
     *   Snow Teeth Whitening Starting at $10
-    *   Thacker New York &. More
     *   Keep It Cool: Men's Styles from Brands We Love
-    *   Vince
-    *   On-Trend Sterling Rings &. More Up to 70% Off
-    *   Women's Shoe Blowout
     *   Free Shipping: Spring Bedding Blowout
-    *   Vintage Addiction Up to 80% Off
     *   Men's Shoes Up to 65% Off
     *   Free Shipping: Pillow &. Throw Blowout
-    *   Robert Graham
-    *   Splendid Starting at $20
-    *   Vertigo Up to 75% Off
-    *   Men's Summer Shirts Under $30
+    *   New on HauteLook: ECOVACS Up to $150 Off
+    *   Vintage Foundry Up to 80% Off
     *   Chargers, Headphones &. More
-    *   Gear Up for Baby: Essentials Starting at $8
     *   SIBU Sea Berry Therapy Skin Care &. Supplements
     *   Predire Paris Luxury Skin Care Starting at $20
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Trophy Skin Anti-Aging Beauty Tools
-    
     *   Cheers to These: Wine &. Kombucha-Making Kits
-    *   Luxe Men's Shoes ft. Zanzara
-    *   Laura Geller New York
     *   Free Shipping: Melange Bedding
     *   Free Shipping: Storage Must-Haves from $10
     *   Free Shipping: Hand-Painted Replicas
     *   Rest Well: Hypoallergenic Bedding &. More
     *   Tech Accessories Starting at $17
-    *   Pool Party Ready: Beach Towels from $10
-    *   Festive Floats &. Outdoor Speakers from $10
     *   Free Shipping: Art Deco to Superhero Wall Art
-    *   Kick Off Wedding Season: Dress Sandals &. More
-    *   Marc Jacobs Up to 50% Off
-    *   Jump to It: Rompers &. More
     *   Crown Brush
+    *   Perricone MD Starting at $20
     *   Make a Statement: Ace Beaute Cosmetics from $10
-    *   Devata Handmade Sterling &. 18K Jewelry Under $100
-    *   PUMA Men's Active Under $60
-    *   Maternity Must-Haves
-    *   Sunday Steals Up to 70% Off
-    *   New on HauteLook: ECOVACS Up to $150 Off
-    *   Vintage Foundry Up to 80% Off
     *   Free Shipping: On-Trend Storage, Decor &. More
 *   WomenShop Sale Events
     
+    *   Athletic Shop ft. adidas, Champion &. PUMA
+    *   NARS
+    *   Miraclesuit, Athena &. More
+    *   Desigual
+    *   Ted Baker London Shoes
+    *   TARA Pearls: Tahitian &. Akoya Jewelry
+    *   Summer-Ready Style: Do + Be from $20
+    *   Ones to Watch: Bodysuits
+    *   Dr. Scholl's from $40
+    *   Valentino by Mario Valentino
+    *   Savvy Cie Jewelry Up to 80% Off
+    *   Athletic Shop: Shoes ft. adidas &. New Balance
+    *   Carlos by Carlos Santana &. More
     *   Kate Spade New York Handbags
-    *   Kate Spade New York Jewelry &. More Up to 60% Off
     *   Kate Spade New York Shoes Starting at $40
     *   Kate Spade New York Coats
-    *   TOV
-    *   Steve Madden &. Madden Girl from $30
-    *   Polished Perfection: Adrianna Papell &. More
+    *   Kate Spade New York Jewelry &. More Up to 60% Off
+    
     *   Perennially Perfect: Floral Dresses &. More
+    *   Polished Perfection: Adrianna Papell &. More
+    *   Steve Madden &. Madden Girl from $30
+    *   True Religion Starting at $60
+    *   TOV
     *   Teva Up to 50% Off
-    *   Perricone MD Starting at $20
     *   ghd: good hair day
     *   Teva Men Up to 50% Off
-    *   True Religion Starting at $60
     *   All Set: Mix and Match Looks Incl. Plus &. Petites
-    *   Louise et Cie Up to 50% Off
     *   Leather Jackets &. More ft. Andrew Marc
-    *   MCM Sunglasses Up to 80% Off
-    *   Snow Teeth Whitening Starting at $10
-    
-    *   Thacker New York &. More
-    *   Vince
-    *   On-Trend Sterling Rings &. More Up to 70% Off
-    *   Women's Shoe Blowout
-    *   Vintage Addiction Up to 80% Off
-    *   Splendid Starting at $20
     *   Vertigo Up to 75% Off
+    *   Snow Teeth Whitening Starting at $10
     *   SIBU Sea Berry Therapy Skin Care &. Supplements
     *   Predire Paris Luxury Skin Care Starting at $20
-    *   Laura Geller New York
-    *   Kick Off Wedding Season: Dress Sandals &. More
-    *   Marc Jacobs Up to 50% Off
-    *   Jump to It: Rompers &. More
     *   Crown Brush
+    *   Perricone MD Starting at $20
     *   Make a Statement: Ace Beaute Cosmetics from $10
-    *   Devata Handmade Sterling &. 18K Jewelry Under $100
-    *   Maternity Must-Haves
-    *   Sunday Steals Up to 70% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
+    *   Lingerie
     *   Handbags
     *   Accessories
     *   Watches
 *   MenShop Sale Events
     
-    *   To Prom &. Beyond: Celebration Suiting Under $250
-    *   French Connection Men's Shoes
-    *   Gifts For Dads &. Grads
+    *   Men's Athletic Shop: Shoes ft. adidas &. New Balance
+    *   Men's Athletic Shop ft. adidas, Champion &. PUMA
+    *   Peter Millar Up to 65% Off
+    *   Ted Baker London Men's Shoes
     *   True Religion Men Up to 60% Off
-    *   Allen Edmonds
-    *   MCM Sunglasses Up to 80% Off
-    *   Snow Teeth Whitening Starting at $10
+    *   French Connection Men's Shoes
     
+    *   Gifts For Dads &. Grads
+    *   Allen Edmonds
+    *   Snow Teeth Whitening Starting at $10
     *   Keep It Cool: Men's Styles from Brands We Love
     *   Men's Shoes Up to 65% Off
-    *   Robert Graham
-    *   Men's Summer Shirts Under $30
-    *   Luxe Men's Shoes ft. Zanzara
-    *   PUMA Men's Active Under $60
     *   Vintage Foundry Up to 80% Off
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Coccoli
+    *   Kids' Athletic Shop ft. adidas, Champion &. PUMA
+    *   Stride Rite
     *   Kate Spade New York Girls Up to 50% Off
-    *   Play Dress Up: Girls' Shoes ft. Zaxy
     *   True Religion Kids Up to 60% Off
-    *   Gear Up for Baby: Essentials Starting at $8
-    *   Maternity Must-Haves
+    *   Play Dress Up: Girls' Shoes ft. Zaxy
     
     Shop By Category
-    *   Girls' Sizes 2T-6X
     *   Girls' Shoes
     *   Boys' Sizes 2T-7
+    *   Girls' Sizes 2T-6X
     *   Girls' Sizes 7-16
     *   Boys' Sizes 8-20
     *   Baby Boy
     *   Baby Girl
-    *   Baby Gear &. Essentials
     *   Boys' Shoes
-    *   The Toy Shop
 *   HomeShop Sale Events
     
-    *   Kate Spade New York Home Starting at $10
+    *   Must-Have Textiles: Rugs, Bath Towels &. More
     *   Jonathan Adler Up to 40% Off
     *   Free Shipping: Comforters &. More Up to 70% Off
     *   Color of the Year: Coral-Accented Wall Art
     *   Everyday Kitchen Essentials Starting at $10
+    *   Kate Spade New York Home Starting at $10
     *   Free Shipping: Spring Bedding Blowout
     *   Free Shipping: Pillow &. Throw Blowout
+    *   New on HauteLook: ECOVACS Up to $150 Off
     *   Chargers, Headphones &. More
+    
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Cheers to These: Wine &. Kombucha-Making Kits
-    
     *   Free Shipping: Melange Bedding
     *   Free Shipping: Storage Must-Haves from $10
     *   Free Shipping: Hand-Painted Replicas
     *   Rest Well: Hypoallergenic Bedding &. More
     *   Tech Accessories Starting at $17
-    *   Pool Party Ready: Beach Towels from $10
-    *   Festive Floats &. Outdoor Speakers from $10
     *   Free Shipping: Art Deco to Superhero Wall Art
-    *   New on HauteLook: ECOVACS Up to $150 Off
     *   Free Shipping: On-Trend Storage, Decor &. More
     
     Shop By Category
     *   Home Decor
     *   Bedding
-    *   Outdoor Living
     *   Kitchen &. Tabletop
-    *   Bath
     *   Tech Accessories
     *   Cleaning &. Organization
+    *   Bath
     *   Luggage &. Travel
     *   Holiday Decorations
 *   BeautyShop Sale Events
     
-    *   Perricone MD Starting at $20
+    *   NARS
     *   ghd: good hair day
     *   Snow Teeth Whitening Starting at $10
     *   SIBU Sea Berry Therapy Skin Care &. Supplements
     *   Predire Paris Luxury Skin Care Starting at $20
     *   Trophy Skin Anti-Aging Beauty Tools
-    *   Laura Geller New York
     *   Crown Brush
+    *   Perricone MD Starting at $20
     *   Make a Statement: Ace Beaute Cosmetics from $10
     
     Shop By Category
-    *   Makeup
     *   Skin Care
+    *   Makeup
     *   Bath &. Body
     *   Tools &. Accessories
     *   Hair Care
