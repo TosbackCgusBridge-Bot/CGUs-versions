@@ -58,8 +58,8 @@ View more results
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Fireboy and Watergirl: The Forest Temple
     *   Warbanner
-    *   Slither.io
     *   Madalin Cars Multiplayer
+    *   Slither.io
     *   Total Front: Army War Game
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Klondike - the lost expedition
@@ -89,8 +89,8 @@ View more results
     *   Warbanner
     *   Slither.io
     *   Total Front: Army War Game
-    *   Uphill Rush 7: Waterpark
     *   Stunt Skateboard 3D
+    *   Uphill Rush 7: Waterpark
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Sniper Team 2
     *   Deer Hunter
@@ -191,7 +191,7 @@ View more results
     *   Electricman 2: Stickman Fighting Game
     *   Get Your Boyfriend
     *   Princess Rivalry
-    *   Fidget Spinner
+    *   Extreme Dental Emergency
 *   Top Categories
     
     *   BMX Games
@@ -267,8 +267,8 @@ View more results
     Recommended Games
     
     *   Roblox
-    *   PopTropica
     *   Wizard 101
+    *   PopTropica
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
     *   Fireboy &. Watergirl 4: Crystal Temple
