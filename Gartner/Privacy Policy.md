@@ -57,7 +57,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 645 8120 1 855 645 8120
+    1 855 754 4611 1 855 754 4611
     
 
 *   Solutions By Function
@@ -113,7 +113,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 645 8120 1 855 645 8120
+    1 855 754 4611 1 855 754 4611
     
 
 GARTNER PRIVACY POLICY Effective Date: April 2019
