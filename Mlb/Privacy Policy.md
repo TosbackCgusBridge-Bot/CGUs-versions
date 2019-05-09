@@ -21,7 +21,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Sections Scores News Video
     *   Pipeline
     *   MLB Photos
     *   Jackie Robinson Day
-    *   Fantasy Rankings
+    *   Rare Feats
     *   Reporter's Inbox
     *   This Date in History
     *   Glossary
