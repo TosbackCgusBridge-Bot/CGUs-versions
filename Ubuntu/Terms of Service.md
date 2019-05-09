@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Shared values of Travis CI and snaps enhance integration confidence for developers ›
 *   Ubuntu 14.04 LTS has transitioned to ESM support ›
 *   19.04 ‘Disco Dingo’ now available as optimised desktop image for Hyper-V ›
 *   Web and Design team summary – 7 May 2019 ›
 *   Canonical announces support for Ubuntu on Windows Subsystem for Linux 2 ›
-*   Switch life mode to FUN with some cool Linux games ›
