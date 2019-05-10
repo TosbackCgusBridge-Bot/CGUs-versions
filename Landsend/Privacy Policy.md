@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off 1 full-price item!
+Receive 50% off full-price swimwear, water shoes and more. 40% off all other full-price styles!
 
-code: FLOWER pin: 7243 DETAILS
+code: POOL pin: 2461 DETAILS
 
 Customer Service Menu
 
