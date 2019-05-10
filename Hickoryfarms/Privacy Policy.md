@@ -70,11 +70,11 @@
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Mother's Day Gifts
+    *   Graduation &. CongratulationsMost Popular Mother's Day
 *   Business Gifts
 *   Sale
 
-1.800.753.8558 Business Gifts Next Day shipping for Mother's Day delivery ends tomorrow! Order by 3pm EST\* Search Catalog Find a Store Skip to content My Account
+1.800.753.8558 Business Gifts $5 Flat-Rate Standard Shipping - No Minimum!\* Search Catalog Find a Store Skip to content My Account
 
 *   Welcome!
 *   Log In
@@ -154,7 +154,7 @@
     *   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Mother's Day Gifts
+    *   Graduation &. CongratulationsMost Popular Mother's Day
 *   Business Gifts
 *   Sale
 
