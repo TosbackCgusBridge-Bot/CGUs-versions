@@ -36,7 +36,7 @@ Close Navigation Menu
     *   Music News
     *   Music Features
     *   New Music
-    *   Best Music Of 2018
+    *   Best Music Of 2019
 *   Shows &. Podcasts Expand/collapse submenu for Shows &. Podcasts Daily
     
     *   Morning Edition
@@ -63,7 +63,7 @@ Close Navigation Menu
 *   Music News
 *   Music Features
 *   New Music
-*   Best Music Of 2018
+*   Best Music Of 2019
 
 *   About NPR
 *   Overview
