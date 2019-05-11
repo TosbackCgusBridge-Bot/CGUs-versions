@@ -1,4 +1,4 @@
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswy For more information on the Starwood guest reservation database security incident, please click here . X Skip Main Navigation
+For more information on the Starwood guest reservation database security incident, please click here . X Skip Main Navigation
 
 expand
 
@@ -344,8 +344,8 @@ We will use Personal Data and Other Data to provide personalized Services accord
 
 We will use Personal Data and Other Data to communicate with you with your consent, to manage our contractual relationship with you and/or because we have a legitimate interest to do so.
 
-*    **Loyalty Programmes.** We use Personal Data and Other Data to:
-    *    Offer and manage your participation in our global loyalty programmes, as well as others that are specific to certain properties or tailored to your interests
+*    **Loyalty Programs.** We use Personal Data and Other Data to:
+    *    Offer and manage your participation in our global loyalty programs, as well as others that are specific to certain properties or tailored to your interests
     *    Send you offers, promotions and information about your account status and activities
     *    Assess your benefits
     *    Administer points earned through co-branded credit cards
@@ -381,7 +381,7 @@ Our goal is to provide you with the highest level of hospitality and Services, a
     
 *   **Service Providers.** We disclose Personal Data and Other Data to third-party service providers for the purposes described in this Privacy Statement. Examples of service providers include companies that provide website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, marketing, auditing and other services.   
     
-*   **Linked Accounts and Promotional Activity.** We partner with certain third parties that allow you to enroll in their services or participate in their promotions. For example, certain companies allow you to use your loyalty programme number or Online Services login to receive or register for their services. These companies include airlines and rental car providers, as well as sponsors of sweepstakes and contests.  Additionally, your social media account provider allows you to connect your social media account to your Online Services account or log into your Online Services account from your social media account. When you enroll in those services, we disclose your Personal Data and Other Data to those third parties. If you do not want us to share your Personal Data or Other Data in this way, do not provide your loyalty programme number to third parties, do not use your Online Services login to register for third-party promotions and do not connect your Online Services account with accounts on third-party services. Data shared in this way will be governed by the third party’s privacy policy and not this Privacy Statement.   
+*   **Linked Accounts and Promotional Activity.** We partner with certain third parties that allow you to enroll in their services or participate in their promotions. For example, certain companies allow you to use your loyalty program number or Online Services login to receive or register for their services. These companies include airlines and rental car providers, as well as sponsors of sweepstakes and contests.  Additionally, your social media account provider allows you to connect your social media account to your Online Services account or log into your Online Services account from your social media account. When you enroll in those services, we disclose your Personal Data and Other Data to those third parties. If you do not want us to share your Personal Data or Other Data in this way, do not provide your loyalty program number to third parties, do not use your Online Services login to register for third-party promotions and do not connect your Online Services account with accounts on third-party services. Data shared in this way will be governed by the third party’s privacy policy and not this Privacy Statement.   
     
 *   **eFolio Program.** If you are an employee of a company that participates in the Marriott Group eFolio Program and book your room using a company corporate code or pay for your expenses using a corporate credit card, an extract of your folio detailing the goods and services provided to you may be sent to your company and to the credit card company. This Privacy Statement does not apply to the handling of your Personal Data by your employer, and any credit card company or bank, and we are not responsible for their practices.  
     
@@ -396,7 +396,7 @@ We may use and disclose Other Data for any purpose, except where we are not allo
 
 Non-Marriott Group Entities
 
-This Privacy Statement does not address, and we are not responsible for the privacy, data or other practices of any entities outside of the Marriott Group, including Franchisees, Owners, Homes and Villas Property Management Companies, Authorized Licensees, Strategic Business Partners or any third party operating any site or service to which the Services link, payment service, loyalty programme, or website that is the landing page of the high-speed Internet providers at our properties. The inclusion of a link on the Online Services does not imply endorsement of the linked site or service by us. We have no control over, and are not responsible for, any third party’s collection, use and disclosure of your Personal Data.
+This Privacy Statement does not address, and we are not responsible for the privacy, data or other practices of any entities outside of the Marriott Group, including Franchisees, Owners, Homes and Villas Property Management Companies, Authorized Licensees, Strategic Business Partners or any third party operating any site or service to which the Services link, payment service, loyalty program, or website that is the landing page of the high-speed Internet providers at our properties. The inclusion of a link on the Online Services does not imply endorsement of the linked site or service by us. We have no control over, and are not responsible for, any third party’s collection, use and disclosure of your Personal Data.
 
 In addition, we are not responsible for the data collection, use, disclosure or security policies or practices of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including with respect to any Personal Data you disclose to other organizations through or the Apps or our Social Media Pages.
 
@@ -417,7 +417,7 @@ You have choices when it comes to how we use your data and we want to ensure you
 If you no longer want to receive marketing-related emails, you may opt out by visiting our unsubscribe page at https://www.marriott.com/profile/email/  
 unsubscribeChallenge.mi or by following the instructions in any such email you receive from us.
 
-In addition, members of our loyalty programmes can opt out from marketing-related emails through their programme account, or by sending a letter to: Internet Customer Care – Unsubscribe, 1818 North 90 Street, Omaha, Nebraska 68114-1315 USA.
+In addition, members of our loyalty programs can opt out from marketing-related emails through their program account, or by sending a letter to: Internet Customer Care – Unsubscribe, 1818 North 90 Street, Omaha, Nebraska 68114-1315 USA.
 
 We will try to comply with your request as soon as reasonably practicable. If you opt out of receiving marketing emails from us, we may still send you important administrative messages, from which you cannot opt out.
 
@@ -546,3 +546,5 @@ Marriott For:
 *   Tracking Preferences
 
 © 1996 - 2019 Marriott International, Inc. All rights reserved. Marriott proprietary information
+
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
