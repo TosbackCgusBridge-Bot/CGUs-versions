@@ -57,9 +57,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, UT. Online, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, Utah. Online, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 7% 
+What is PeekScore? Public Records &. Background Checks 2% 
 
 Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -89,7 +89,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-7% 
+2% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -135,7 +135,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-7% 
+2% 
 
 Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -165,7 +165,7 @@ Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-7% 
+2% 
 
 *   Ms Amy A Persenaire, age 45, Lake Worth, FL View Full Report
     
@@ -250,7 +250,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 7% 
+Facebook 2% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -310,7 +310,7 @@ Facebook 7% 
     
 *   Show Less ...
 
-Twitter 7% 
+Twitter 2% 
 
 *   Mental Health NIMH - NIMHgov
     
@@ -356,7 +356,7 @@ Twitter 7% 
     
 *   Show Less ...
 
-Instagram 7% 
+Instagram 2% 
 
 *   \_\_privacypolicy - \_\_privacypolicy
     
@@ -402,7 +402,7 @@ Instagram 7% 
     
 *   Show Less ...
 
-Myspace 7% 
+Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -426,7 +426,7 @@ Myspace 7% 
     
 *   Show Less ...
 
-Social Profiles 7% 
+Social Profiles 2% 
 
 *   Lauren Weinstein
     
@@ -468,7 +468,7 @@ Social Profiles 7% 
     
 *   Show Less ...
 
-Pinterest 6% 
+Pinterest 2% 
 
 *   Alishachawla2730 Privacypolicy - alishachawla273
     
@@ -477,7 +477,7 @@ Pinterest 6% 
 *   Policy Privacy - policyp
     
 
-Wikipedia 6% 
+Wikipedia 2% 
 
 *   Privacy policy
     
@@ -492,7 +492,7 @@ Wikipedia 6% 
     Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
     
 
-Music 6% 
+Music 2% 
 
 *   Pandora
     
@@ -534,7 +534,7 @@ Music 6% 
     
 *   Show Less ...
 
-Web Search 6% 
+Web Search 2% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -580,15 +580,15 @@ Web Search 6% 
     
 *   Show Less ...
 
-Images 6% 
+Images 2% 
 
-9
-
-20
+8
 
 20
 
-9
+20
+
+8
 
 facebookx
 
@@ -599,8 +599,6 @@ instagramx
 myspacex
 
 10
-
-1
 
 facebookx
 
