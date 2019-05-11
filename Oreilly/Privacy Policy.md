@@ -381,6 +381,7 @@ The O'Reilly Approach
 *   Our Company
 *   Teach/Speak/Write
 *   Careers
+*   Community Partners
 
 Solutions
 
