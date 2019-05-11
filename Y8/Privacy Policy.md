@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1012 games
-*   Most Popular Games 19141 games
+*   Best of new games 1022 games
+*   Most Popular Games 19143 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,036 games
-*   Driving &. Racing Games 6,777 games
-*   Strategy &. RPG Games 2,412 games
-*   Management Games 3,650 games
+*   Games for girls 24,040 games
+*   Driving &. Racing Games 6,775 games
+*   Strategy &. RPG Games 2,413 games
+*   Management Games 3,651 games
 *   Thinking Games 12,050 games
-*   Action &. Adventure Games 16,023 games
+*   Action &. Adventure Games 16,025 games
 *   Sports Games 2,220 games
-*   Shooting Games 8,434 games
+*   Shooting Games 8,433 games
 *   Fighting Games 2,088 games
-*   Skill Games 11,021 games
-*   Arcade &. Classic Games 12,820 games
+*   Skill Games 11,029 games
+*   Arcade &. Classic Games 12,829 games
 *   Fun &. Crazy Games 2,506 games
 
 Play with friends  
-Powered by Y8 Account 125 Y8 Multiplayer Games 1,947 Y8 High Score Games 1,138 Y8 Achievements Games 815 Y8 Screenshots Games 1,411 Y8 Online Save Games 3,003 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 124 Y8 Multiplayer Games 1,956 Y8 High Score Games 1,138 Y8 Achievements Games 815 Y8 Screenshots Games 1,411 Y8 Online Save Games 3,011 All Y8 Games Games Last Highscore:
 
-**1,044** points on Strike Solitaire by Artem\_mc37
+**299** points on Death Run 3D by Wanhasbee
 
 Help us improve Bad translation? Social
 
