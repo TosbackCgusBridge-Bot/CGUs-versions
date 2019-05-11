@@ -29,138 +29,132 @@ Let mom treat herself this Mother’s Day with a gift card – SHOP NOW!
         
         *   SHOP ALL WOMEN'S
         *   New Arrivals
-        *   Shop by Outfit
-        *   Buckle Exclusives
         *   Brill Boutique
-        *   Promotions
+        *   Buckle Exclusives
         *   buckle SELECT
+        *   Gift Cards
+        *   May's Top Picks
+        *   Special Offers
+        *   Shop by Outfit
+        *   Women's Brands
         *   Vacation Shop
-        *   2 for $35 Tops
-        *   Black Jeans
-        *   Billabong X Sincerely Jules
         
         *   Clothing
         
-        *   Coats, Jackets &. Blazers
-        *   Sweaters &. Cardigans
-        *   Sweatshirts
-        *   Tops
+        *   Bottoms
+        *   Bralettes &. Bramis
+        *   Coats &. Jackets
         *   Dresses
         *   Jeans
-        *   Bottoms
         *   Rompers &. Jumpsuits
-        *   Swimwear
-        *   Shorts
-        *   Bralettes
+        *   Sweaters &. Cardigans
+        *   Swim
+        *   Tops
         *   Plus Sizes
+        *   Shop All
+        
+        *   Jeans
+        
+        *   Ankle Skinny
+        *   Bootcut
+        *   Flare
+        *   Skinny
+        *   Straight
+        *   Crops &. Capris
+        *   Shorts
+        *   Curvy Jeans
+        *   Jeans Under $75
         *   Shop All
         
         *   Shoes
         
-        *   Sneakers
-        *   Flips &. Slides
-        *   Sandals
-        *   Wedges
-        *   Heels
-        *   Boots
         *   Booties
-        *   Western Boots
+        *   Boots
+        *   Flips &. Slides
+        *   Heels
+        *   Sandals
+        *   Sneakers
+        *   Wedges
         *   Shop All
         
         *   Accessories
         
-        *   Hats
+        *   Bags &. Wallets
         *   Belts
+        *   Fragrance
         *   Hair Accessories
+        *   Hats
         *   Jewelry
-        *   Watches
         *   Scarves
         *   Socks
         *   Sunglasses
-        *   Fragrance
-        *   Bags
-        *   Shop All
-        
-        *   Shop By Brand
-        
-        *   BKE
-        *   Buckle Black
-        *   Daytrip
-        *   Gimmicks
-        *   Willow &. Root
-        *   American Fighter
-        *   KanCan
-        *   Miss Me
-        *   Rock Revival
-        *   RVCA
+        *   Watches
+        *   Other
         *   Shop AllGive a Buckle Gift card
 *   Men
     *   *   Featured
         
         *   SHOP ALL MEN'S
         *   New Arrivals
-        *   Shop by Outfit
         *   Buckle Exclusives
-        *   Promotions
         *   buckle SELECT
+        *   Gift Cards
+        *   May's Top Picks
+        *   Men's Brands
+        *   Special Offers
+        *   Shop by Outfit
         *   Vacation Shop
-        *   2 for $35 Shirts
-        *   Black Jeans
         
         *   Clothing
         
+        *   Bottoms
         *   Coats &. Jackets
+        *   Jeans
+        *   Shorts
         *   Sweaters
         *   Sweatshirts
-        *   Shirts
-        *   Polos
-        *   T-Shirts
-        *   Tanks
-        *   Jeans
-        *   Bottoms
-        *   Shorts
-        *   Boardshorts
+        *   Swim
+        *   Tops
         *   Big &. Tall
+        *   Shop All
+        
+        *   Jeans
+        
+        *   Slim Fit
+        *   Regular Fit
+        *   Relaxed Fit
+        *   Loose Fit
+        *   Skinny
+        *   Tapered
+        *   Straight
+        *   Bootcut
+        *   Denim Shorts
+        *   Jeans Under $75
         *   Shop All
         
         *   Shoes
         
+        *   Boots
         *   Casuals
-        *   Sneakers
+        *   Dress Shoes
         *   Flips
         *   Slides
-        *   Dress Shoes
-        *   Boots
+        *   Sneakers
         *   Shop All
         
         *   Accessories
         
-        *   Hats
-        *   Boxers
-        *   Socks
-        *   Belts
-        *   Watches
-        *   Cologne
-        *   Wallets
         *   Bags
-        *   Sunglasses
+        *   Belts
+        *   Boxers
+        *   Cologne
+        *   Hats
         *   Jewelry
-        *   Shop All
-        
-        *   Shop By Brand
-        
-        *   BKE
-        *   Buckle Black
-        *   Departwest
-        *   Outpost Makers
-        *   Veece
-        *   Affliction
-        *   American Fighter
-        *   Fox
-        *   Oakley
-        *   Rock Revival
-        *   RVCA
-        *   Salvage
+        *   Socks
+        *   Sunglasses
+        *   Wallets
+        *   Watches
+        *   Other
         *   Shop AllGive a Buckle Gift card
 *   Kids
     *   *   Featured
