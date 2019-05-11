@@ -215,17 +215,17 @@ New York, NY 10001.**
     *   Ransomware ravages municipalities nationwide this week
     *   Ransomware disables Cleveland airport's email systems, information screens
     
-    *   Leveraging the power of packet capture for machine learning in cybersecurity
-    *   Privacy sheriffs - CPOs saddle up to protect information assets
-    *   RiskSec 2019: Israel strike on Hamas hackers did not 'cross the rubicon'
-    *   Federal bill to curtail CBP PII reveals, Illinois tackles digital assistant eavesdropping
-    *   Europol announces takedown of Wall Street Market and Valhalla dark web markets
+    *   Retefe Revisited: Banking trojan reemerges, adopts new set of tools
+    *   Baltimore will not pay ransomware demand: Mayor Young
+    *   Majority of SMB execs willing to pay in a ransomware situation
+    *   Scammers phish promising 'Avengers: Endgame' download
+    *   Buena Vista Horace Mann student data compromised
     
-    *   DHS warns against 'password spray' brute force attacks
-    *   Wolters Kluwer still down from May 6 cyberattack
-    *   Verizon Breach Report: Attacks on top executives and cloud-based email services increased in 2018
-    *   Amazon hackers stole funds from merchant accounts
-    *   Samsung leaked SmartThings app source code and secret keys
+    *   Microsoft SharePoint vulnerability spotted in the wild
+    *   Researcher uncovered passwordless database used for SMS bombing
+    *   Report: Hackers claim compromise of four AV firms, offer source code for sale
+    *   Members of China-based hacking firms indicted for Anthem breach, among other breaches
+    *   Risk analytics on upswing, LaSala says
 
 Back to Top
 
