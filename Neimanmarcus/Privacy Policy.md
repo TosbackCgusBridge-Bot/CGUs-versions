@@ -203,6 +203,8 @@ Privacy Policy &. Terms of Use
     
     Last Updated January 23, 2019
     
+    Close
+    
 *   Website Accessibility Policy
     
     The Neiman Marcus Group LLC ("NMG") is committed to diversity, inclusion and accessibility in all we do, including our websites. This Accessibility Policy serves to document the scope, standards and best practices that we use to ensure our websites benefit from the principles defined in the Web Content Accessibility Guidelines (WCAG 2.0) of the World Wide Web Consortium. This Accessibility Policy applies to all websites owned and operated by NMG in the U.S.
@@ -219,6 +221,8 @@ Privacy Policy &. Terms of Use
     
     Last Updated January 23, 2019
     
+    Close
+    
 *   Warranty Information
     
     Some items on our website have a manufacturer's warranty. this is noted in the product description. To obtain a written warranty for any of these items, send a specific written request to:
@@ -228,6 +232,8 @@ Privacy Policy &. Terms of Use
     *   Dallas, TX 75265-0589
     
     Last Updated January 23, 2019
+    
+    Close
     
 *   Conditions of Use
     
@@ -286,6 +292,8 @@ Privacy Policy &. Terms of Use
     
     Last Updated January 23, 2019
     
+    Close
+    
 *   Security Against Fraud
     
     It should come as no surprise that one of our highest priorities at The Neiman Marcus Group is keeping your personal information secure and confidential. To that end, we would like to share some of the most common types of internet scams and suggestions on how you can be aware of and help protect yourself against identity theft.
@@ -325,6 +333,8 @@ Privacy Policy &. Terms of Use
     *   Consider filing a report with the Federal Trade Commission and/or state attorney general's consumer protection office, or the FBI. Online complaints may be filed with the FTC at www.ftccomplaintassistant.gov, and white collar crimes may be reported to the FBI at www.ic3.gov/complaint/default.aspx.
     
     Last Updated January 23, 2019
+    
+    Close
     
 *   Mobile Terms of Use NEIMAN MARCUS MOBILE APPLICATION TERMS OF USE
     
@@ -520,4 +530,7 @@ Privacy Policy &. Terms of Use
     All terms and conditions in these Terms of Use that by their nature are continuing will survive the termination of these Terms of Use.  
     For questions or concerns about your use of the NM App or Services, you may contact us at 888-888-4757 or by email at neimanmarcus@customercare.neimanmarcus.com.
     
-    Mobile Terms of Use Last Update 7-14-16.
+    Mobile Terms of Use Last Update 7-14-16.  
+      
+    
+    Close
