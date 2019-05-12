@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Publish Your Unity Games in the Snap Store ›
 *   Fresh snaps for April 2019 ›
 *   Shared values of Travis CI and snaps enhance integration confidence for developers ›
 *   Ubuntu 14.04 LTS has transitioned to ESM support ›
 *   19.04 ‘Disco Dingo’ now available as optimised desktop image for Hyper-V ›
-*   Web and Design team summary – 7 May 2019 ›
