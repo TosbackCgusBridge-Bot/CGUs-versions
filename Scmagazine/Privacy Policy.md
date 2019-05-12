@@ -215,11 +215,11 @@ New York, NY 10001.**
     *   Ransomware ravages municipalities nationwide this week
     *   Ransomware disables Cleveland airport's email systems, information screens
     
-    *   Retefe Revisited: Banking trojan reemerges, adopts new set of tools
-    *   Baltimore will not pay ransomware demand: Mayor Young
-    *   Majority of SMB execs willing to pay in a ransomware situation
-    *   Scammers phish promising 'Avengers: Endgame' download
-    *   Buena Vista Horace Mann student data compromised
+    *   Cisco tackles critical vulnerability in switch software, 41 other bugs
+    *   Uptick in IoT related data breaches as unsecured devices increase
+    *   Trump issues executive order to help grow the U.S. cybersecurity workforce
+    *   Leveraging the power of packet capture for machine learning in cybersecurity
+    *   Three serious vulnerabilities found in PrinterLogic software
     
     *   Microsoft SharePoint vulnerability spotted in the wild
     *   Researcher uncovered passwordless database used for SMS bombing
