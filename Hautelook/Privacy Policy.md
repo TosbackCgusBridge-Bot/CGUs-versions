@@ -8,51 +8,54 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Equipment
+    *   Go Couture Dresses
+    *   Welcome to the Weekend: The Fifth Label &. More
+    *   Supplies by Union Bay Incl. Plus &. Petites
+    *   Surf, Sand &. Sun: Billabong and More
+    *   Algenist Skin Care Starting at $10
+    *   PAIGE Up to 50% Off
+    *   ECCO Men
+    *   Made in Italy: Meshmerise Jewelry Starting at $20
+    *   ECCO
+    *   Summer Whites: Denim Shorts, Jeans &. More
+    *   Parker
+    *   Anthropologie Home Starting at $15
+    *   Barse Sterling Silver &. Gemstone Jewelry from $15
+    *   KORKS from $40
+    *   Josie &. Skarlett Blue Sleep &. Lingerie
+    *   Tech It Out: Laptop Cases, Chargers &. More
+    *   Oakley Starting at $15
+    *   Elevated Luggage Up to 65% Off
+    *   Standout Suiting ft. Paisley &. Gray
+    *   Time to Upgrade: Bands for Apple Watches
+    
+    *   Athletic Shop ft. adidas, Champion &. PUMA
     *   ASICS Starting at $40
     *   ASICS Men's Shoes &. Active Starting at $40
-    *   Parker
+    *   Free People Starting at $15
+    *   Free People Lingerie Starting at $10
     *   Spring Casual: Frye Clothing &. More
     *   BCBGeneration
     *   Schutz Up to 65% Off
     *   ASICS Kids Starting at $30
     *   Wusthof Cutlery Up to 45% Off
     *   After Hours: Evening Clutches Starting at $20
-    *   Free People Starting at $15
     *   Free Shipping: Wall Murals &. More
-    *   Anthropologie Home Starting at $15
     *   M by Bruno Magli
-    *   Panty Packs Starting at $8
-    *   Best of Face &. Hair Tools from $10
     *   Weekend Wear ft. Unsimply Stitched
-    *   Boys' Camp Looks Up to 60% Off
-    *   Flower Girl &. Ring Bearer Styles ft. Isaac Mizrahi
-    *   Free People Lingerie Starting at $10
-    *   Athletic Shop ft. adidas, Champion &. PUMA
-    *   Amanda &. Chelsea Incl. Plus and Petites
-    
-    *   Relaxed Classics: Knits, Shirts &. More from $10
-    *   On Trend: Straw Bags &. Espadrilles Up to 55% Off
     *   Free People Shoes
-    *   Naturalizer Up to 50% Off
-    *   Dolce Vita Swim
     *   Korean Beauty: Leaders Cosmetics from $10
     *   Work Evolution: Sport Coats Under $150
     *   Men's Denim Under $50
-    *   Rachel Zoe
     *   Surf Shop: Men's Styles Starting at $13
     *   Maison Forte
-    *   Men's Suede Shoes Up to 60% Off
+    *   Flower Girl &. Ring Bearer Styles ft. Isaac Mizrahi
+    
     *   NARS
-    *   TARA Pearls: Tahitian &. Akoya Jewelry
-    *   Savvy Cie Jewelry Up to 80% Off
     *   Athletic Shop: Shoes ft. adidas &. New Balance
-    *   Men's Athletic Shop ft. adidas, Champion &. PUMA
-    *   Peter Millar Up to 65% Off
     *   Men's Athletic Shop: Shoes ft. adidas &. New Balance
     *   Must-Have Textiles: Rugs, Bath Towels &. More
-    *   Coccoli
-    
-    *   Stride Rite
     *   Ted Baker London Men's Shoes
     *   Free Shipping: Comforters &. More Up to 70% Off
     *   Jonathan Adler Up to 40% Off
@@ -60,50 +63,50 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Everyday Kitchen Essentials Starting at $10
     *   Kate Spade New York Home Starting at $10
     *   ghd: good hair day
-    *   Teva Men Up to 50% Off
-    *   French Connection Men's Shoes
-    *   Snow Teeth Whitening Starting at $10
     *   Free Shipping: Spring Bedding Blowout
     *   Free Shipping: Pillow &. Throw Blowout
     *   Chargers, Headphones &. More
-    *   Free Shipping: Down &. Memory Foam Essentials
-    *   Cheers to These: Wine &. Kombucha-Making Kits
     *   Free Shipping: Art Deco to Superhero Wall Art
-    *   Crown Brush
     *   Kids' Athletic Shop ft. adidas, Champion &. PUMA
     *   Perricone MD Starting at $20
+    *   Panty Packs Starting at $8
+    *   Best of Face &. Hair Tools from $10
+    *   Boys' Camp Looks Up to 60% Off
 *   WomenShop Sale Events
     
-    *   ASICS Starting at $40
+    *   Equipment
+    *   Go Couture Dresses
+    *   Welcome to the Weekend: The Fifth Label &. More
+    *   Supplies by Union Bay Incl. Plus &. Petites
+    *   Surf, Sand &. Sun: Billabong and More
+    *   Algenist Skin Care Starting at $10
+    *   PAIGE Up to 50% Off
+    *   Made in Italy: Meshmerise Jewelry Starting at $20
+    *   ECCO
+    *   Summer Whites: Denim Shorts, Jeans &. More
     *   Parker
+    *   Barse Sterling Silver &. Gemstone Jewelry from $15
+    *   KORKS from $40
+    *   Josie &. Skarlett Blue Sleep &. Lingerie
+    *   Elevated Luggage Up to 65% Off
+    *   Athletic Shop ft. adidas, Champion &. PUMA
+    
+    *   ASICS Starting at $40
+    *   Free People Starting at $15
+    *   Free People Lingerie Starting at $10
     *   Spring Casual: Frye Clothing &. More
     *   BCBGeneration
     *   Schutz Up to 65% Off
     *   After Hours: Evening Clutches Starting at $20
-    *   Free People Starting at $15
     *   M by Bruno Magli
-    *   Panty Packs Starting at $8
-    *   Best of Face &. Hair Tools from $10
-    *   Free People Lingerie Starting at $10
-    *   Athletic Shop ft. adidas, Champion &. PUMA
-    *   Amanda &. Chelsea Incl. Plus and Petites
-    *   Relaxed Classics: Knits, Shirts &. More from $10
-    *   On Trend: Straw Bags &. Espadrilles Up to 55% Off
-    
     *   Free People Shoes
-    *   Naturalizer Up to 50% Off
-    *   Dolce Vita Swim
     *   Korean Beauty: Leaders Cosmetics from $10
-    *   Rachel Zoe
     *   NARS
-    *   TARA Pearls: Tahitian &. Akoya Jewelry
-    *   Savvy Cie Jewelry Up to 80% Off
     *   Athletic Shop: Shoes ft. adidas &. New Balance
     *   ghd: good hair day
-    *   Teva Men Up to 50% Off
-    *   Snow Teeth Whitening Starting at $10
-    *   Crown Brush
     *   Perricone MD Starting at $20
+    *   Panty Packs Starting at $8
+    *   Best of Face &. Hair Tools from $10
     
     Shop By Category
     *   Clothing
@@ -113,20 +116,19 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Handbags
 *   MenShop Sale Events
     
+    *   ECCO Men
+    *   Oakley Starting at $15
+    *   Elevated Luggage Up to 65% Off
+    *   Standout Suiting ft. Paisley &. Gray
     *   ASICS Men's Shoes &. Active Starting at $40
     *   Weekend Wear ft. Unsimply Stitched
+    
     *   Work Evolution: Sport Coats Under $150
     *   Men's Denim Under $50
     *   Surf Shop: Men's Styles Starting at $13
     *   Maison Forte
-    *   Men's Suede Shoes Up to 60% Off
-    
-    *   Men's Athletic Shop ft. adidas, Champion &. PUMA
-    *   Peter Millar Up to 65% Off
     *   Men's Athletic Shop: Shoes ft. adidas &. New Balance
     *   Ted Baker London Men's Shoes
-    *   French Connection Men's Shoes
-    *   Snow Teeth Whitening Starting at $10
     
     Shop By Category
     *   Clothing
@@ -135,61 +137,56 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 *   KidsShop Sale Events
     
     *   ASICS Kids Starting at $30
-    *   Boys' Camp Looks Up to 60% Off
     *   Flower Girl &. Ring Bearer Styles ft. Isaac Mizrahi
-    *   Coccoli
-    *   Stride Rite
     *   Kids' Athletic Shop ft. adidas, Champion &. PUMA
+    *   Boys' Camp Looks Up to 60% Off
     
     Shop By Category
     *   Boys' Sizes 2T-7
     *   Boys' Sizes 8-20
     *   Girls' Shoes
-    *   Boys' Shoes
     *   Girls' Sizes 7-16
     *   Girls' Sizes 2T-6X
+    *   Boys' Shoes
     *   Baby Boy
     *   Baby Girl
 *   HomeShop Sale Events
     
+    *   Anthropologie Home Starting at $15
+    *   Tech It Out: Laptop Cases, Chargers &. More
     *   Wusthof Cutlery Up to 45% Off
     *   Free Shipping: Wall Murals &. More
-    *   Anthropologie Home Starting at $15
     *   Must-Have Textiles: Rugs, Bath Towels &. More
     *   Free Shipping: Comforters &. More Up to 70% Off
     *   Jonathan Adler Up to 40% Off
+    
     *   Color of the Year: Coral-Accented Wall Art
     *   Everyday Kitchen Essentials Starting at $10
-    
     *   Kate Spade New York Home Starting at $10
     *   Free Shipping: Spring Bedding Blowout
     *   Free Shipping: Pillow &. Throw Blowout
     *   Chargers, Headphones &. More
-    *   Free Shipping: Down &. Memory Foam Essentials
-    *   Cheers to These: Wine &. Kombucha-Making Kits
     *   Free Shipping: Art Deco to Superhero Wall Art
     
     Shop By Category
     *   Home Decor
     *   Bedding
     *   Kitchen &. Tabletop
-    *   Bath
     *   Tech Accessories
+    *   Bath
     *   Holiday Decorations
-    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
-    *   Best of Face &. Hair Tools from $10
+    *   Algenist Skin Care Starting at $10
     *   Korean Beauty: Leaders Cosmetics from $10
     *   NARS
     *   ghd: good hair day
-    *   Snow Teeth Whitening Starting at $10
-    *   Crown Brush
     *   Perricone MD Starting at $20
+    *   Best of Face &. Hair Tools from $10
     
     Shop By Category
-    *   Makeup
     *   Skin Care
+    *   Makeup
     *   Hair Care
     *   Tools &. Accessories
     *   Fragrance
