@@ -52,8 +52,8 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Let's Fish!: Multiplayer Fishing Game Online
     *   Family Barn
+    *   Let's Fish!: Multiplayer Fishing Game Online
     *   Backgammon: Board Game Online Multiplayer
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Fireboy and Watergirl: The Forest Temple
@@ -90,12 +90,12 @@ View more results
     *   Warbanner
     *   Total Front: Army War Game
     *   Stunt Skateboard 3D
-    *   Uphill Rush 7: Waterpark
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
+    *   Uphill Rush 7: Waterpark
     *   Short Life
-    *   Sniper Team 2
-    *   Deer Hunter
     *   Pixel Apocalypse
+    *   Deer Hunter
+    *   Sniper Team 2
 *   Top Categories
     
     *   Platform Games
@@ -123,8 +123,8 @@ View more results
     *   Fireboy and Watergirl 5: Elements
     *   Five Nights at Freddy's 4
     *   Troll Face Quest: Video Memes and TV Shows:Part 1
-    *   FNAF World
     *   Tom and Jerry: Mouse Maze
+    *   FNAF World
     *   Fire Balls
     *   Dumb Ways to Die 2
     *   Five Nights at Freddy's: Sister Location
