@@ -229,11 +229,9 @@ Print | Citation &. Date | Reprint
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksMushroom Burial Suit Creates Life After Death1STEarly Humans Mated With Inbred Neanderthals — at a Cost2NDThis U.S. Power Plant Shows Why Coal Is Dying, Won't Make a Comeback3RDWhat if mosquitoes went extinct?4THdiscoverytheword.com | SponsoredParis Canal Drained For The First Time. The Finds Are Unrealdiscoverytheword.com | SponsoredVikings: Free Online Game | SponsoredPlay this for 1 min and see why everyone is addicted!Vikings: Free Online Game | SponsoredMoneyPop | Sponsored50 Of The Most Useless Cars Ever MadeMoneyPop | SponsoredMentertained | Sponsored21 Hilarious Semi-TrucksMentertained | Sponsored entertainmentThe Electric Guitar Made for Women RockersBY Chris OpferscienceWhere do bullets go when guns are fired straight up into the air?
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksMushroom Burial Suit Creates Life After Death1STEarly Humans Mated With Inbred Neanderthals — at a Cost2NDWhat if mosquitoes went extinct?3RDThe Electric Guitar Made for Women Rockers4THKelley Blue Book | Sponsored2019 Mercedes-Benz Smart Models Worth ConsideringKelley Blue Book | SponsoredDirectExpose | Sponsored25 Upcoming Sequels You Didn't Know Were Being MadeDirectExpose | SponsoredVikings: Free Online Game | SponsoredPlay this for 1 min and see why everyone is addicted!Vikings: Free Online Game | SponsoredMentertained | Sponsored21 Hilarious Semi-TrucksMentertained | Sponsored scienceWhere do bullets go when guns are fired straight up into the air?
 
-Nile Crocodiles – in Florida | HowStuffWorks NOW: Nile Crocodiles – in Florida
-
-Mentertained | SponsoredThat's What They Get! 50 Parking Revenge PhotosMentertained | Sponsoredeasyvoyage | SponsoredFound after 68 years in the jungle, but when they look inside...easyvoyage | Sponsored Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff WorksHow to Find Out If You Have a WarrantWhat is an IP address?Are There Limits to Freedom of the Press in the U.S.?How to Scan for and Remove SpywareIs the sound on vinyl records better than on CDs or DVDs?Do You Really Stay Conscious After Being Decapitated?by Taboolaby Taboola
+moneyHow to Find Out If You Have a WarrantBY Nathan ChandlertechCan You Really Delete Your Internet History?BY Diana BrownHistory101 | SponsoredThe Last Photos Of Patrick Swayze And Others From History Are HeartbreakingHistory101 | SponsoredTopixblackbeat | SponsoredAlmost Nobody Aces This Basic Biblical QuizTopixblackbeat | Sponsored Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Stuff WorksHow to Scan for and Remove SpywareWhat causes 'old person' smell?History of Women's Bathing SuitsDo You Really Stay Conscious After Being Decapitated?Is the sound on vinyl records better than on CDs or DVDs?How Spontaneous Human Combustion Worksby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -263,4 +261,4 @@ Sign Up Now!
 
 Newsletter Policy &. Terms
 
-Testing this long verbose error message to check the behaviour <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. BESbswyBESbswyBESbswy<img src="https://soflopxl.com/px?partner\_id=31210">
+Testing this long verbose error message to check the behaviour <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. <img src="https://soflopxl.com/px?partner\_id=31210">
