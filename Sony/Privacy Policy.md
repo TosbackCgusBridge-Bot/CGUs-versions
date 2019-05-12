@@ -111,7 +111,7 @@ L.A.’s Finest Premieres May 13
 
 The clan's all here. See what our cast and crew have been up to on the set of #Outlander Season 5. pic.twitter.com/TwylwK7Yfp
 
-4 days ago
+5 days ago
 
 View Tweet
 
