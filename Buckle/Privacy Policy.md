@@ -22,7 +22,7 @@ Let mom treat herself this Mother’s Day with a gift card – SHOP NOW!
     *   Login
     *   |
     *   Register
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   Women
     *   *   Featured
