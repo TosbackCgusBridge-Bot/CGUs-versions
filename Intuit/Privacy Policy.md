@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   My AccountSign InSign InNew Customer? Register Here
+*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -30,28 +30,18 @@ Shop Departments
     *   Pajamas &. Robes
     *   View all Gifts
 
-Near YouFind a StoreBack FREE SAME-DAY PICKUP FOR MOTHER’S DAY ENDS IN
-
-*   days
-*   15
-    
-    Hours
-    
-    Hrs
-    
-*   41Mins
-*   07Secs
+Near YouFind a StoreBack
 
 X
 
 Hot Sellers
 
-*   from$2799after couponLiz Claiborne Womens Gemma Block Heel Buckle Bootie(100)
-*   $1439after couponwas $40 Arizona Womens Grape Slide Sandals(2)
-*   $1439after couponwas $30 The Foundry Big &. Tall Supply Co. Mens Short Sleeve Polo Shirt Big and Tall(22)
-*   from$2399after couponYuu Womens Hilly Strap Sandals
-*   $1439after couponwas $36 Stafford® Travel Short-Sleeve Easy-Care Broadcloth Dress Shirt(297)
-*   from$2399after couponYuu Womens Jeanie Strap Sandals
+*   $2799after couponwas $70 Yuu Womens Drew Strap Sandals(7)
+*   $1999after couponwas $54 Arizona Womens Tavari Gladiator Sandals(1)
+*   $1599after couponwas $50 St. John's Bay Womens Zandora T-Strap Flat Sandals(8)
+*   $1359after couponwas $34 Arizona Classic Flat Front Short(6)
+*   $1999after couponwas $54 Italiana By Italian Shoemakers Womens Jessa Wedge Sandals(5)
+*   $2399after couponwas $55 Worthington Womens Bristol Pumps Strap Open Toe Stiletto Heel(30)
 
 Shop and Save at JCPenney
 
