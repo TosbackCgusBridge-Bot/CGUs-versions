@@ -48,12 +48,12 @@ Change
 
 Percent Change
 
-(+3.35%)
+(0.00%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News May 08, 2019 Office Depot Announces First Quarter 2019 Results view more Recent News May 08, 2019 Office Depot Announces First Quarter 2019 Results view more Events May 8, 2019 at 9:00 AM EDT Q1 2019 Office Depot Inc Earnings Conference Call view more Events May 8, 2019 at 9:00 AM EDT Q1 2019 Office Depot Inc Earnings Conference Call view more Presentations May 08, 2019 Office Depot First Quarter 2019 Earnings Webcast Presentation view more Presentations May 08, 2019 Office Depot First Quarter 2019 Earnings Webcast Presentation view more
+Recent News May 08, 2019 Office Depot Declares Quarterly Cash Dividend of $0.025 Per Share view more Recent News May 08, 2019 Office Depot Declares Quarterly Cash Dividend of $0.025 Per Share view more Events May 8, 2019 at 9:00 AM EDT Q1 2019 Office Depot Inc Earnings Conference Call view more Events May 8, 2019 at 9:00 AM EDT Q1 2019 Office Depot Inc Earnings Conference Call view more Presentations May 08, 2019 Office Depot First Quarter 2019 Earnings Webcast Presentation view more Presentations May 08, 2019 Office Depot First Quarter 2019 Earnings Webcast Presentation view more
 
 *   Home
 *   News &. Events
