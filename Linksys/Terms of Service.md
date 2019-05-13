@@ -272,7 +272,7 @@ BELKIN, LINKSYS, WEMO and many product names and logos are trademarks of the Bel
 
 Updated 30 November 2014
 
-linksys\_hybris4 CONNECT WITH LINKSYS This is a required field. Email id is invalid. SIGN UP
+linksys\_hybris5 CONNECT WITH LINKSYS This is a required field. Email id is invalid. SIGN UP
 
 × Thank You
 
