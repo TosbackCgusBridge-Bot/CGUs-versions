@@ -308,10 +308,6 @@ Offers
     
     See it first on May 18th! BUY TICKETS
     
-*   Limited Time 'Tolkien' Offer
-    
-    Buy two tickets, get two free\* when you use promo code TOLKIEN at checkout! \*Terms Apply. While Supplies Last BUY TICKETS
-    
 
 New + Coming soon
 
