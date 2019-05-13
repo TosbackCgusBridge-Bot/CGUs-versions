@@ -90,11 +90,11 @@ View more results
     *   Warbanner
     *   Total Front: Army War Game
     *   Stunt Skateboard 3D
-    *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Uphill Rush 7: Waterpark
+    *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Short Life
-    *   Pixel Apocalypse
     *   Deer Hunter
+    *   Pixel Apocalypse
     *   Sniper Team 2
 *   Top Categories
     
@@ -122,8 +122,8 @@ View more results
     *   World Craft 2
     *   Fireboy and Watergirl 5: Elements
     *   Five Nights at Freddy's 4
-    *   Troll Face Quest: Video Memes and TV Shows:Part 1
     *   Tom and Jerry: Mouse Maze
+    *   Troll Face Quest: Video Memes and TV Shows:Part 1
     *   FNAF World
     *   Fire Balls
     *   Dumb Ways to Die 2
@@ -184,12 +184,12 @@ View more results
     *   Ellie: Get Ready With Me
     *   Love Tester 2.0
     *   Burger Restaurant Express
-    *   Popstar Dentist
     *   Back To School: Princesses Rush
+    *   Popstar Dentist
     *   The Princess: Sent to the Future - Dress Up Game
     *   Ella: Hips Surgery
-    *   Electricman 2: Stickman Fighting Game
     *   Get Your Boyfriend
+    *   Electricman 2: Stickman Fighting Game
     *   Princess Rivalry
     *   Extreme Dental Emergency
 *   Top Categories
