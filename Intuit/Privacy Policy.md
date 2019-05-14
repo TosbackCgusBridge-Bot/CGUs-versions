@@ -22,32 +22,38 @@ Shop Departments
     *   Home
     *   More Categories
 *   Coupons
-*   Mother's Day Gifts
+*   Father's Day Gifts
     *   Gifts under $15
     *   Gifts under $25
+    *   Backyard bash
     *   Unique Gifts
-    *   Mommy &. Me
-    *   Pajamas &. Robes
+    *   Watches
     *   View all Gifts
 
-Near YouFind a StoreBack FINAL HOURS OF COUPON CODESUNDAY12ENDS IN00HOURS 41MINS 05SECS See Details\*Extra 30% off select apparel, shoes, accessories, fine jewelry and home purchases of $100 or more. Extra 25% off select purchases under $100. Extra 15% off select furniture, mattresses, housewares, fitness equipment and accessories, custom blinds and shades, watches and salon products. Each offer good at jcp.com only, excluding taxes and shipping charges, 5/12/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Best Value, Daily Deals, Special Deals, Limited Time Specials, Levi's, Denizen from Levi’s, Disney Collection, Disney Tsum Tsum, French Toast, Fisher-Price, Licensed Team Sports Merchandise, Columbia, Carhartt, Nike, adidas, Reebok, Puma, Champion, Converse, Clarks, Skechers Women's Shoes, Athletic Shoes, Goddess Lingerie, Dreamgirl, Jewelry Trunk Shows, Modern Bride Design Your Dream Ring, Pre-Owned Watches, Smartwatches, Garmin, Fitbit, Sephora, Food, Penney Lane, S'ip by S'well, Electronics, Small Electrics, Floor Care, In-Home Custom Design, Tempur-Pedic, Neato Robotics, iRobot, Sporting Goods/Outdoor Gear, Toys, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Personalized Jewelry, Wigs and Extensions, Purchase with Purchase Items, In-Store Services, Service Plans, Gift Cards, Closing Store purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code SUNDAY12 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. Details
+Near YouFind a StoreBack
 
 X
 
 Hot Sellers
 
-*   $51 sale
+*   BUY MORE AND SAVE WITH CODE: SAVE4YOU
     
-    was $94 | 45% offClarks Womens Leisa Vine Strap Sandals(47)
-*   $1499after couponwas $40 St. John's Bay Mens Cargo Short(15)
-*   $2249after couponwas $60 St. John's Bay Womens Sjb Luna Wedge Sandals(5)
-*   $2024after couponwas $54 Jojo Siwa Girls Lightweight Bomber Jacket Preschool / Big Kid(3)
-*   LIMITED TIME SPECIAL!
+    $2520after couponArizona Basic Original Bootcut Jeans(600)
+*   BUY MORE AND SAVE WITH CODE: SAVE4YOU
     
-    $25 sale
+    $24after couponArizona Womens Alma Strap Sandals(4)
+*   BUY MORE AND SAVE WITH CODE: SAVE4YOU
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Stud Earrings in Sterling Silver(173)
-*   $1874after couponwas $50 Stafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(21)
+    $30after couponSt. John's Bay Womens Innis Wedge Sandals(6)
+*   BUY MORE AND SAVE WITH CODE: SAVE4YOU
+    
+    $126after couponSkyway Chesapeake 2.0 28" Hardside Spinner Luggage(1)
+*   BUY MORE AND SAVE WITH CODE: SAVE4YOU
+    
+    $24after couponThe Foundry Big &. Tall Supply Co. Mens Chino Short-Big and Tall(13)
+*   BUY MORE AND SAVE WITH CODE: SAVE4YOU
+    
+    from$42after couponLiz Claiborne Mini Tuxedo Satchel(122)
 
 Shop and Save at JCPenney
 
