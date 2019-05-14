@@ -58,8 +58,8 @@ View more results
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Fireboy and Watergirl: The Forest Temple
     *   Madalin Cars Multiplayer
-    *   Slither.io
     *   Warbanner
+    *   Slither.io
     *   Total Front: Army War Game
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Klondike - the lost expedition
@@ -86,8 +86,8 @@ View more results
     Best Games
     *   Plants vs Zombies
     *   Apple Shooter: Arrow Game
-    *   Slither.io
     *   Warbanner
+    *   Slither.io
     *   Total Front: Army War Game
     *   Stunt Skateboard 3D
     *   Uphill Rush 7: Waterpark
@@ -124,8 +124,8 @@ View more results
     *   Five Nights at Freddy's 4
     *   Tom and Jerry: Mouse Maze
     *   Troll Face Quest: Video Memes and TV Shows:Part 1
-    *   FNAF World
     *   Fire Balls
+    *   FNAF World
     *   Dumb Ways to Die 2
     *   Five Nights at Freddy's: Sister Location
 *   Top Categories
@@ -249,8 +249,8 @@ View more results
     *   Table Tennis World Tour
     *   Baseball
     *   Ultimate Boxing
-    *   Playing Soccer
     *   Archery World Tour
+    *   Playing Soccer
     *   8-Ball
     *   Neon Biker
     *   Bouncy Dunk
