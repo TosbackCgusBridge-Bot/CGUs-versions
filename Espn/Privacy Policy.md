@@ -51,7 +51,7 @@ Learn More
 
 ONLINE TRACKING TECHNOLOGIES AND ADVERTISING Children’s Privacy Policy
 
-The Walt Disney Family of Companies (“TWDC”), including for example Club Penguin and MarvelKids, is committed to protecting the privacy of children who use our sites and applications.
+The Walt Disney Family of Companies (“TWDC”) is committed to protecting the privacy of children who use our sites and applications.
 
 Learn More
 
