@@ -1,6 +1,17 @@
-Toggle navigation Omniscope _from Visokio_
+*   Home
+*   Try
+*   Download
+*   Classic
+*   Support
+*   Partners
+*   Contact Us
 
 *   Home
+*   Try
+*   Download
+*   Classic
+*   Support
+*   Partners
 *   Contact Us
 
 Visokio Privacy Policy Statement What we do with data about you, and data you may send to us
@@ -11,10 +22,35 @@ The security of information transmitted through the Internet can never be guaran
 
 Access to, and use of, password-protected and/or secured areas of any Visokio site is restricted to authorised users only. Unauthorised access to such areas is prohibited and may lead to a civil action and/or criminal prosecution.
 
-For each visitor to our public web site, our Web server automatically recognises only our visitor's domain name, but not the email address (where possible).
+For each visitor to our public web site, our Web server automatically recognises only our visitor’s domain name, but not the email address (where possible).
 
 We collect only the domain names of visitors, the email addresses of those who communicate with us via email, and aggregate information on which pages users access or visit. User-specific information is collected only from pages where information is volunteered by the visitor, such as Forum registration, enquiry forms, surveys and file download/free trial registrations. The information we collect is for internal use only, for improving client service and the content of our Web Sites, and may be used by us to contact visitors for marketing purposes. We do not sell or allow third parties to use the names or other information we collect.
 
 If you do not want to receive email from us in the future, click on the unsubscribe link to the bottom of the email.
+
+Visokio Ltd
+
+17 The Esplanade, St Helier,  
+Jersey, JE1 1WT, UK
+
+Visokio (UK) Ltd
+
+50 Sloane Avenue,  
+London, SW3 3DD, UK  
++44 20 7351 4646
+
+Tweets by @Visokio Resources
+
+Try now Download
+
+Download Classic  
+Forum – help &. feedback
+
+Contact Us
+
+info@visokio.com  
+support@visokio.com
+
+Enquiry form
 
 © Visokio    |   Terms of use   |   Privacy Policy
