@@ -9,13 +9,13 @@
     *   Corporate Gift Baskets
     *   New!
     
-    Occasions*   Mother's Day
+    Occasions*   Father's Day
     *   Gifts for Him
     *   Gifts for Her
     *   Birthday Gifts
     *   Thank You Gifts
     *   Sympathy Gifts
-    *   Graduation GiftsMost Popular Mother's Day Birthday Gifts
+    *   Graduation GiftsMost Popular Father's Day Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -63,18 +63,16 @@
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Mother's Day Gifts
-    *   Father's Day Gifts
+    View All Categories Shop by Category*   Father's Day Gifts
     
-    Occasions*   Spring
-    *   Birthday Gifts
+    Occasions*   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Mother's Day
+    *   Graduation &. CongratulationsMost Popular Father's Day
 *   Business Gifts
 *   Sale
 
-1.800.753.8558 Business Gifts $5 Flat-Rate Standard Shipping - No Minimum!\* Search Catalog Find a Store Skip to content My Account
+1.800.753.8558 Business Gifts Search Catalog Find a Store Skip to content My Account
 
 *   Welcome!
 *   Log In
@@ -93,13 +91,13 @@
     *   Corporate Gift Baskets
     *   New!
     
-    Occasions*   Mother's Day
+    Occasions*   Father's Day
     *   Gifts for Him
     *   Gifts for Her
     *   Birthday Gifts
     *   Thank You Gifts
     *   Sympathy Gifts
-    *   Graduation GiftsMost Popular Mother's Day Birthday Gifts
+    *   Graduation GiftsMost Popular Father's Day Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -147,14 +145,12 @@
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Mother's Day Gifts
-    *   Father's Day Gifts
+    View All Categories Shop by Category*   Father's Day Gifts
     
-    Occasions*   Spring
-    *   Birthday Gifts
+    Occasions*   Birthday Gifts
     *   Weddings &. Showers
     *   Thank You
-    *   Graduation &. CongratulationsMost Popular Mother's Day
+    *   Graduation &. CongratulationsMost Popular Father's Day
 *   Business Gifts
 *   Sale
 
