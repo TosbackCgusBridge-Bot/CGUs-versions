@@ -1,13 +1,11 @@
-*   Global directoryGlobal directory
+*   Global directory Global directory
 
-*   Product loginsProduct logins
-*   Contact usContact us
-*   Log inLog in
-*   Cart (0)
+*   Product logins Product logins
+*   Contact us Contact us
 
 Thomson Reuters Legal
 
-*   ProductsProducts Top products
+*   Products Products Top products
     
     *   Westlaw
     *   Westlaw Edge
@@ -20,7 +18,7 @@ Thomson Reuters Legal
     Featured
     
     **Westlaw Edge** Introducing the most intelligent legal research service ever. Learn more
-*   SolutionsSolutions Solutions
+*   Solutions Solutions Solutions
     
     *   Streamline legal research
     *   Maximize legal know-how
@@ -34,7 +32,7 @@ Thomson Reuters Legal
     Featured
     
     **Small law firm software and solutions** Practice law, manage your law firm, and grow your practice with our complete suite of products. Learn more
-*   InsightsInsights Insights
+*   Insights Insights Insights
     
     *   Latest stories
     *   Case studies
@@ -45,14 +43,14 @@ Thomson Reuters Legal
     *   Big data
     *   Data privacy
     *   FinTech
-*   SupportSupport Support
+*   Support Support Support
     *   Contact us
     *   Billing, returns &. refunds
     *   Reference attorneys
     *   Support by product
     *   Product logins
     *   See all support
-*   Try and buyTry and buy
+*   Try and buy Try and buy
 
 1.  Legal Technology, Products and Services
 2.  Products
