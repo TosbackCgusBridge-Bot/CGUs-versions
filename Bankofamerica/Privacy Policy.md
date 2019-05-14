@@ -17,141 +17,97 @@ Search Term
 
 Bank of America Privacy and Security Get information about privacy and security at Bank of America. Learn how we can help you protect your accounts and what you can do to help stay secure. bank of america security, bank of america privacy notice, bank of america privacy and security Bank of America Security Center Here’s what you need to know (and do) to stay as safe as possible
 
-You can add layers of security to your Online Banking and Mobile Banking app. See how to manage enhanced authentication
+**Your security is our top priority!  
+**We’ll never ask you to provide personal information such as an account, Social Security or Tax ID number via text, email or online. (In some instances, your debit PIN may be required to authenticate you when you sign in to Online Banking or our mobile app.)  
+
+*   We will take immediate steps to work with you if you (or we) suspect fraud has taken place.
+*   Every partner, colleague and vendor is held to strict privacy and information security rules.
+
+**The best way to avoid getting tricked by scammers is to know the tricks they use – and the red flags that signal scams.**
+
+**Know the red flags  
+**The most common types of scams will target you through fake emails (a technique known as phishing), text messages (SMSishing or smishing) voice calls (vishing), letters or even someone who shows up at your front door unexpectedly. No matter which technique the scammer uses, you may be:
+
+*   Pressured to send money
+*   Threatened with law enforcement action
+*   Told to purchase gift cards and provide codes as a form of payment
+*   Asked to cash a check for a stranger or send money via wire transfer
+*   Instructed to make a cash deposit for a sweepstakes
+*   Offered more than you’re asking for something you’re selling, with a request to send the overpayment elsewhere
+
+Remember: Zelle® transactions should be considered the same as cash. Zelle® should only be used to send money to friends, family or others you trust and not to buy goods or services from people you don’t know.\*
+
+**The best ways to avoid getting scammed**
+
+*   **Don’t respond:** If you’re not 100% certain of the source of the call, email or text, then hang up the phone, don’t click on the link in the email and don’t reply to the text message.
+*   **Don’t trust caller ID or answer phone calls from unknown numbers:** If you recognize the caller ID but the call seems suspicious, hang up the phone. Phone numbers can be easily spoofed to appear to be from a legitimate caller.
+*   **Don’t give out your information:** Do not give out any personal identifiable information unless you’re absolutely certain the person and reason are legitimate. Remember: Bank of America will never ask you to send us personal information such as an account number, Social Security or Tax ID over text, email or online.
+*   **Research and validate:** If the individual or organization seems suspicious, make sure the request being made is legitimate by calling the organization through an official number from their website or consulting with a trusted family member or friend.
+
+Contact us immediately if you feel you may have been a victim of a scam.  
+  
+**Common types of scams**
 
 Show all Answers  |  Hide all Answers
 
-*   Hide How we protect your accounts and identity
+*   Hide Imposter: "I'm with the IRS and a lawsuit is being filed against you for back taxes"
     
-    **What you need to know:**
+    Red flags include: You receive a request from a government agency asking you for a payment and/or to verify your personal information
     
-    *   Client security is our top priority, and every partner and colleague is held to strict privacy and information security rules
-    *   Our global information security team monitors 24/7 for potential threats
-    *   We’ll never ask you to send us personal information such as an account number, card PIN or Social Security or Tax ID over text or email. If you do receive a request like this or any other suspicious phishing email, please forward it to us at abuse@bankofamerica.com. We will only reply to your message if we require additional information.
+*   Show Tech support: "We've detected malware on your computer, let's go ahead and get this fixed for you"
     
-    **What you need to do:**
+    Red flags include: You receive a request from tech support claiming your computer has malware and requesting payment to fix the defects or access your computer
     
-    *   Be sure to keep your contact information, especially your cell phone number and email address, current
-    *   Verify your card: Verify Your Visa Card is With You layer allows us to approve transactions when you travel
-    *   If you use the Bank of America Mobile Banking app, allow push alerts, and be sure to review and respond to alerts promptly
-    *   When using your mobile device, turn on location services when making a purchase or signing in to add location-based anti-fraud and security permissions
-    *   Request your free credit report(s) annually and review them for inaccuracies. You can get complete information about obtaining your report(s) at AnnualCreditReport.com.
-    *   Review the recommendations on the **What you can do** tab of our account and card security page
-*   Show How we protect your privacy
+*   Show Business email compromise: "Process a wire for $x and send to the account in the email attached?"
     
-    **What you need to know:**
+    Red flags include: You receive a request to change fund transfer details unexpectedly
     
-    *   Privacy notices explain how we collect, use and share information. You can manage your marketing preferences and limit the sharing of certain information by updating your individual Bank of America privacy choices.
-    *   Review the U.S. Online Privacy Notice and the U.S. Consumer Privacy Notice on the bottom of this page
-    *   You can set your privacy choices (it’s easy, and it only takes a few minutes)
-*   Show How you can help protect your accounts
+*   Show Email account compromise: "There's been a change in the transfer for closing, please now send the money to?"
     
-    **What you need to know:**
+    Red flags include: You receive a request to redirect funds for a legitimate purpose such as a home or auto purchase
     
-    *   We’ll never ask you to send us personal information (like your Social Security number or ATM PIN) over text or email. If you do receive a request like this, please forward it to us at abuse@bankofamerica.com. Our team reviews all submissions. we will only reply to your message if we require additional information.
-    *   We fully authenticate all of our emails. Make sure the email address we have on file for you is not a forwarded email (for example, you might forward mail from your college.edu address to your gmail.com account).
+*   Show Grandparent: "Grandma I'm in trouble, I need your help, I need some money really fast"
     
-    **What you need to do:**
+    Red flags include: You receive a call from someone claiming to be a grandchild or loved one asking for money to help with an emergency and instructions on where to send the funds
     
-    *   If you receive an email that appears to be from Bank of America and ends up in a junk folder, leave it there
-    *   Use a strong, unique password for each of your accounts. Memorize them and use multi-factor authentication, like fingerprint or one-time authorization code, where available. Learn more about creating strong passwords
-    *   Review our fraud prevention checklist for steps you can take to help establish a strong defense against fraud
-    *   If you’re a victim of fraud, we're here to help. We'll cancel your card and issue a replacement immediately, and you won’t be liable for any fraudulent activity.Footnote1 See What to do if you think your identity has been stolen
-    *   Avoid sending confidential information through unsecured email, fax or texts to reduce the risk of it being improperly accessed.
-*   Show How you can help protect your identity
+*   Show Romance: "I'd love to come to see you but I don't have the money to travel right now, can you help me out?"
     
-    **What you need to know:**
+    Red flags include: You receive a request for financial support from a partner in an exclusively online relationship
     
-    *   Identity theft occurs when someone uses your personal information to commit fraudulent acts (like withdrawing money from your account, opening new credit cards or applying for loans or employment)
-    *   Common signs of identity theft include:
-        *   Unauthorized withdrawals from your account
-        *   Bills for unfamiliar debt or failure to receive bills
-        *   Suspicious charges on your account
-        *   New accounts or loans you didn’t apply for
-        *   Being denied credit unexpectedly
-        *   The IRS notifying you that more than 1 tax return was filed in your name, or that you have income from an employer you don't work for
+*   Show Lottery and sweepstakes: "Your email address was randomly picked to participate in a drawing, send us your details"
     
-    **What you need to do:**
+    Red flags include: You receive a request to prepay fees or taxes in order to receive a large prize you supposedly won
     
-    *   Review your statements for unusual transactions or suspicious charges
-    *   Be sure to keep your contact information (especially your cell phone number and email address) current.
-    *   Enroll in Verify Your Visa Card is With You layer to allow us to approve transactions when you travel.
-    *   If you use the Bank of America Mobile Banking app, allow push alerts and be sure to review and respond to alerts promptly
-    *   Review our fraud prevention checklist for steps you can take to help establish a strong defense against fraud
-    *   Learn more about online security and privacy
-    *   Make the default ID for your internet router unique to you. change the password to make it more difficult for hackers to access your network
-*   Show How you can help protect your computer
+*   Show Investment: "Glad I got you!  Sometime back you responded to one of our programs for information, are you ready to invest?"
     
-    **What you need to know:**
+    Red flags include: You receive a request to invest in a business opportunity with promises of high returns to getting rich quick
     
-    Taking proper precautions helps to make sure your personal and financial information — as well as your identity — remains safe.
+*   Show Charity: "Hi, the reason for my call is to see if you would donate to help preserve our local park"
     
-    **What you need to do:**
+    Red flags include: You receive a request to donate to a charity that you've never heard of and for which you can’t find an official website
     
-    *   Use a strong, unique password for each of your accounts. Memorize them and use multi-factor authentication where available. Learn more about creating strong passwords
-    *   Only download software or applications from well-known or reputable sources, such as Apple, Google Play or Microsoft. Check the logos, developer names and reviews to spot fake applications. Scammers count on users being too busy to see differences that can make fake software easier to spot.
-    *   Install any operating system and software updates (sometimes called patches or service packs)
-    *   Turn off Wi-Fi and Bluetooth services when you're not using them, and avoid using public Wi-Fi for financial transactions unless you use a secure, private connection, like VPN software.
-    *   Back up your data regularly. If you use online or cloud storage, be sure you understand your provider's privacy and security policies and keep your access codes safe.
-    *   Use the administrator log in on your home computer only for creating new users and installing software. If you use administrator accounts when browsing the internet, banking or reading email, the risk of malicious code entering your computer without detection is much greater. Create standard user accounts for yourself and everyone in your family to limit your exposure.
-    *   Review our fraud prevention checklist for steps you can take to help establish a strong defense against fraud
-*   Show How you can help protect your smartphone
+*   Show Overpayment for goods or service: "Deposit the check and wire the difference to the account number attached"
     
-    **What you need to know:**
+    Red flags include: You receive an overpayment for an item you are selling and a request to deposit the check and then send money via a wire or gift card
     
-    Our Mobile Banking service incorporates the convenience you want with industry-leading safety and security features that help provide peace of mind.
+*   Show Fake goods: "Please transfer money to my account and I will ship you the items"
     
-    **What you need to do:**
+    Red flags include: You receive a request to send a money transfer to pay for an online purchase. Never transfer money for example by using Zelle® for a product or merchandise that you have not received yet 
     
-    *   Be sure to keep your contact information (especially your cell number and email address) current
-    *   If you use the Bank of America Mobile Banking app, allow push alerts, and be sure to review and respond to alerts promptly
-    *   Set a security code/PIN or fingerprint sign-in and enable remote wipe and find my phone features to make sure you're covered if your phone is lost
-    *   Only download software or applications from well-known or trusted sources–and never click a link from an unknown source or sender
-    *   Install system and software updates (sometimes called patches or service packs)
-    *   Turn off Wi-Fi and Bluetooth services when you’re not using them, and avoid using public Wi-Fi for financial transactions unless you use a secure, private connection, like VPN software.
-    *   Never root or jailbreak your own mobile device to gain access to unofficial applications. This practice may lead to security vulnerabilities and the inability to apply future software updates from the vendor.
-    *   Review our fraud prevention checklist for more helpful steps
-*   Show How you can identify and avoid scams
+*   Show Debt relief: "I can help you reduce or eliminate your debt"
     
-    **What you need to know:**
+    Red flags include: You receive a request for payment in order to establish a service relationship to pay, settle or get rid of debt
     
-    *   We work hard to ensure that any Bank of America content you’re receiving is really from Bank of America
-    *   We’ll never ask you to send us personal information such as an account number, card PIN or Social Security or Tax ID over text or email. If you do receive a request like this or any other suspicious phishing email, please forward it to us at abuse@bankofamerica.com. We will only reply to your message if we require additional information.
-    *   Scammers use a variety of techniques – here are a few examples.
-        *   Using compromised business email addresses and impersonating executives, real estate agents, attorneys or others to insist that you redirect planned wire transfers to fraudulent accounts. Learn about business email compromise on the FBI website
-        *   Sending mailers to older adults that request the payment of a small fee in order to receive a big sweepstakes prize.
-        *   Posing as government officials, security officers, tax collectors, tech support or even as Bank of America. The scammer may say they’re helping you resolve an issue, can assist with a software license renewal or that there’s fraud on your account.
+*   Show Assistance cashing a check: "Excuse me, I just realized I left my wallet at home, can you cash this check for me?"
     
-    See how to spot email scams
+    Red flags include: You are approached outside branch and asked to cash a check for someone who claims they don’t have an account or their ID with them. The bad check will be held against your account when it doesn’t clear. 
     
-    **What you need to do:**
+*   Show Fake house/apt rental: "Hi, I see you received my rental deposit and wanted to follow up about the move in date"
     
-    *   If you receive a suspicious call, text or email from someone claiming to be from Bank of America, do not respond, click links or open attachments. If this has happened to you, contact us right away at 800.432.1000.
-    *   If you’re being asked to send money or provide information as the result of a call, text or email, here are some questions you need to consider:
-        *   Is the requestor rushing or pressuring you?
-        *   Is the person asking for money someone you’ve never met?
-        *   If a business is requesting that you wire money or send funds online, is it to a new account number or different from what was described on initial paperwork?
-        *   Is the phone number that’s calling you (from, for example, your title company, contractor or attorney) different than usual?
-        *   Are you being pressured to send money to claim lottery funds or some other form of prize?
+    Red flags include: Your house is legitimately listed for sale on multi-listing service (MLS) web sites, however scammers set up a fake website and list your house as a rental. You then receive inquiries from prospective renters about deposit checks they sent you (which they really sent to the scammer).
     
-    If you can answer yes to any of these, think carefully about the request to send money. It may be a scam.
-    
-    *   If you believe you may have been the victim of a scam, report your experience to the FTC and/or to the FBI’s Internet Crime Complaint Center. Provide as many specific details as you can and be as descriptive about your experience as possible.
-*   Show How you can help protect your business
-    
-    **What you need to know:**
-    
-    *   There’s a growing type of fraud called business email compromise. Learn about business email compromise on the FBI website
-    *   Business identity fraud has become surprisingly common because of the easy accessibility of business information, including website data, company name and staff rosters
-    
-    **What you need to do:**
-    
-    *   Minimize the risks by using your work computer for business, checking your domain name regularly and reviewing your business credit report
-    *   Know your customers’ habits, including their payment amounts, reasons and details. Look out for any significant changes to those habits – they might signal a fraud issue.
-    *   Ensure all business data is securely and regularly backed up. Test the recovery function of your backup procedures regularly to make sure your data is always retrievable.
-    *   Develop a plan for cybersecurity and fraud disaster recovery. For more fraud prevention best practices for small businesses, check out our Small Business Online Community.
-    *   For resources for larger businesses, explore information from our Bank of America Merrill Lynch Global Banking and Markets fraud page
-    *   Engage a trusted advisor to review your security controls and policies on at least an annual basis
+
+\*Zelle and the Zelle related marks are wholly owned by Early Warning Services, LLC and are used herein under license.
 
 Privacy notices explain how we collect, use and share information. You can easily manage your marketing preferences (direct mail, telephone and email) and limit certain information-sharing practices – it’s easy, and it takes just a few minutes.
 
@@ -426,20 +382,6 @@ Bank of America U.S. legal entities that utilize the names: Bank of America, Ban
 
 Rev. 01/2018
 
-Secure transactions while you travel
-
-**Verify Your Visa Card is With You**
-
-When you make a purchase, we use your phone’s location services capability to compare where the purchase is made to where your phone is located. The feature works with both cellular and Wi-Fi, meaning that if you’re overseas and prefer to avoid using cell service, **Verify Your Visa Card is With You** will still work when you’re on Wi-Fi.
-
-Here's how to enroll in **Verify Your Visa Card is With You**:
-
-1.  Sign in to the Bank of America mobile app.
-2.  Select **Menu** from the **Accounts** screen. (You may need to scroll to the right to locate the **Menu** button.) 
-3.  Select **Profile and settings**.
-4.  Turn on **Verify your Visa Card is With You**.
-5.  Make sure your location services is set to **always** for the Bank of America mobile. This option can usually be located in your phone’s settings.
-
 Update your privacy choices
 
 You can review and revise your marketing and information-sharing choices online.  
@@ -482,7 +424,7 @@ show FAQs
 
 *   Review our FAQs
 
-  1. The $0 Liability Guarantee covers fraudulent transactions made by others using your Bank of America consumer credit cards and consumer and small business debit and ATM cards. To be covered, report transactions made by others promptly, and don't share personal or account information with anyone. Access to funds next business day in most cases, pending resolution of claim. Consult customer and account agreements for full details. Home Accessible Banking Privacy &. Security Careers Site Map Advertising Practices layer Advertising Practices
+  Home Accessible Banking Privacy &. Security Careers Site Map Advertising Practices layer Advertising Practices
 
 We strive to provide you with information about products and services you might find interesting and useful. Relationship-based ads and online behavioral advertising help us do that.
 
