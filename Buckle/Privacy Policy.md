@@ -1,10 +1,10 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main contentLet mom treat herself this Mother’s Day with a gift card – SHOP NOW!
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main contentSale on Sale – Get an extra 20% off select styles. SHOP NOW!
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-Let mom treat herself this Mother’s Day with a gift card – SHOP NOW!
+Sale on Sale – Get an extra 20% off select styles. SHOP NOW!
 
 *   Women
 *   Men
@@ -22,7 +22,7 @@ Let mom treat herself this Mother’s Day with a gift card – SHOP NOW!
     *   Login
     *   |
     *   Register
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   Women
     *   *   Featured
