@@ -204,28 +204,9 @@ If you have any questions on our Privacy Policy, or questions about our handling
 New York, NY 10001.**
 
 *   MOST POPULAR
-    
     *   Popular
     *   Emailed
-    *   Recent
-    
-    *   Machines running popular AV software go unresponsive after Microsoft Windows update
-    *   Article 29 Working Party still not happy with Windows 10 privacy controls
-    *   Adblock Plus Exploit allows threat actors to read Gmail and other Google services
-    *   Ransomware ravages municipalities nationwide this week
-    *   Ransomware disables Cleveland airport's email systems, information screens
-    
-    *   Controversy over which DMARC setting will best protect the 2020 presidential campaigns
-    *   Microsoft SharePoint vulnerability spotted in the wild
-    *   Google unveils new controls for automatically deleting data after 3 or 18 months
-    *   Canada’s Freedom Mobile Elasticsearch database exposed
-    *   Members of China-based hacking firms indicted for Anthem breach, among other breaches
-    
-    *   Microsoft SharePoint vulnerability spotted in the wild
-    *   Researcher uncovered passwordless database used for SMS bombing
-    *   Report: Hackers claim compromise of four AV firms, offer source code for sale
-    *   Members of China-based hacking firms indicted for Anthem breach, among other breaches
-    *   Risk analytics on upswing, LaSala says
+    *   RecentLoading... Loading... Loading...
 
 Back to Top
 
@@ -257,8 +238,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of Haymarket Media’s Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
-
-You can skip this ad in 1 seconds.
-
-<img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
