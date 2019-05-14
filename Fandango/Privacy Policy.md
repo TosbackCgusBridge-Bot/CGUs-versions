@@ -6,44 +6,44 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movies Now Playing
     
     *   Avengers: Endgame (2019)
+    *   Pokémon Detective Pikachu
+    *   The Hustle (2019)
     *   The Intruder (2019)
     *   Long Shot
+    *   Poms
     *   UglyDolls
-    *   Captain Marvel (2019)
     *   Breakthrough (2019)
+    *   Tolkien
+    *   Captain Marvel (2019)
     *   The Curse of La Llorona
-    *   Shazam!
-    *   Little (2019)
-    *   El Chicano (2019)
-    *   Dumbo (2019)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   The Hustle (2019)
-    *   Pokémon Detective Pikachu
-    *   Poms
-    *   Tolkien
-    *   All is True
-    *   The Biggest Little Farm
-    *   Charlie Says
-    *   My Son (2019)
-    *   The Professor and the Madman
-    *   The Silence of Others
-    *   Student of the Year 2
+    *   A Dog's Journey
+    *   John Wick: Chapter 3 – Parabellum
+    *   Fandango Early Access: Rocketman
+    *   The Sun Is Also a Star
+    *   Aniara
+    *   Ask for Jane
+    *   The Meanest Man in Texas
+    *   The Souvenir
+    *   The Third Wife
+    *   Trial by Fire (2019)
+    *   The Wandering Soap Opera
     *   See All Opening This Week
     
     Coming Soon
     
-    *   John Wick: Chapter 3 – Parabellum
-    *   The Sun Is Also a Star
-    *   A Dog's Journey
     *   Aladdin (2019)
     *   Brightburn
     *   Booksmart
     *   Rocketman
     *   Godzilla: King of the Monsters (2019)
     *   Ma (2019)
+    *   Dark Phoenix
+    *   The Secret Life of Pets 2
+    *   Men in Black: International
     *   See All Coming Soon
     
     Explore More
@@ -72,8 +72,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   The Stars Of ‘Child’s Play’ Share Their Five Favorite Horror Movie Moms Read More
-    *   Pokémon Detective Pikachu: Exclusive Interview Read More
-    *   10 Cool Things We Learned From the Set of ‘Spider-Man: Far From Home’ Read More
+    *   Next 3 Major Family Movies: 'Aladdin,' 'The Secret Life of Pets 2,' 'Toy Story 4' Read More
+    *   Today in Movie Culture: ‘Detective Pikachu’ Easter Eggs, the Legacy of the ‘X-Men’ Movie Franchise and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -307,6 +307,10 @@ Offers
 *   Your Early Access to 'Rocketman'
     
     See it first on May 18th! BUY TICKETS
+    
+*   $3 Off Avengers: Endgame
+    
+    Be the first to own the biggest movie of the year. Use code ENDGAMEPRE and save $3. It will hit your Library as soon as it's available. PRE-ORDER NOW
     
 
 New + Coming soon
