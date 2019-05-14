@@ -14,11 +14,11 @@ Lenovo Explore Close
         
         *   By Brand
         *   ThinkPad
+        *   ThinkBook
         *   IdeaPad
         *   Yoga
         *   Legion
         *   Lenovo
-        *   Flex
         
         *   Quick Links
         *   Sale
