@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1053 games
-*   Most Popular Games 19154 games
+*   Best of new games 1110 games
+*   Most Popular Games 19159 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,054 games
-*   Driving &. Racing Games 6,779 games
+*   Games for girls 24,065 games
+*   Driving &. Racing Games 6,782 games
 *   Strategy &. RPG Games 2,413 games
-*   Management Games 3,650 games
-*   Thinking Games 12,054 games
-*   Action &. Adventure Games 16,040 games
-*   Sports Games 2,222 games
-*   Shooting Games 8,435 games
+*   Management Games 3,651 games
+*   Thinking Games 12,064 games
+*   Action &. Adventure Games 16,051 games
+*   Sports Games 2,225 games
+*   Shooting Games 8,437 games
 *   Fighting Games 2,088 games
-*   Skill Games 11,037 games
-*   Arcade &. Classic Games 12,841 games
-*   Fun &. Crazy Games 2,509 games
+*   Skill Games 11,057 games
+*   Arcade &. Classic Games 12,856 games
+*   Fun &. Crazy Games 2,516 games
 
 Play with friends  
-Powered by Y8 Account 125 Y8 Multiplayer Games 1,969 Y8 High Score Games 1,138 Y8 Achievements Games 815 Y8 Screenshots Games 1,413 Y8 Online Save Games 3,023 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 125 Y8 Multiplayer Games 1,981 Y8 High Score Games 1,138 Y8 Achievements Games 815 Y8 Screenshots Games 1,414 Y8 Online Save Games 3,035 All Y8 Games Games Last Highscore:
 
-**41,531** points on The Ultimate Clicker Squad by bug007
+**2,108,084,582** points on Battle Royale Gangs by Gorn
 
 Help us improve Bad translation? Social
 
