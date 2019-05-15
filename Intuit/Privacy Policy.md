@@ -36,24 +36,28 @@ X
 
 Hot Sellers
 
+*   $4999 sale
+    
+    was $59.50 | 16% offLevi's® 505™ Regular Fit Jeans(2493)
 *   BUY MORE AND SAVE WITH CODE: SAVE4YOU
     
-    $2520after couponArizona Basic Original Bootcut Jeans(600)
+    $30after couponeast 5th Womens Evie Heeled Sandals(10)
 *   BUY MORE AND SAVE WITH CODE: SAVE4YOU
     
-    $24after couponArizona Womens Alma Strap Sandals(4)
+    from$32
+    
+    Arizona Denim Bermuda - Girls' 4-16 &. Plus(5)
 *   BUY MORE AND SAVE WITH CODE: SAVE4YOU
     
-    $30after couponSt. John's Bay Womens Innis Wedge Sandals(6)
+    $1650after couponXersion Basketball Shorts -Boys 4-20(15)
 *   BUY MORE AND SAVE WITH CODE: SAVE4YOU
     
-    $126after couponSkyway Chesapeake 2.0 28" Hardside Spinner Luggage(1)
+    from$32
+    
+    Arizona Boys Stretch Adjustable Waist Cargo Short Preschool / Big Kid(4)
 *   BUY MORE AND SAVE WITH CODE: SAVE4YOU
     
-    $24after couponThe Foundry Big &. Tall Supply Co. Mens Chino Short-Big and Tall(13)
-*   BUY MORE AND SAVE WITH CODE: SAVE4YOU
-    
-    from$42after couponLiz Claiborne Mini Tuxedo Satchel(122)
+    $4125after couponClarks Womens Brinkley Jazz Flip-Flops(206)
 
 Shop and Save at JCPenney
 
