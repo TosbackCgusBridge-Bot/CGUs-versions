@@ -430,6 +430,7 @@ Brand &. Lifestyle
 *   Lexus Merchandise
 *   Lexus International
 *   Sponsored Athletes
+*   INTERSECT BY LEXUS – NYC
 
 *   About
 *   Contact Us
@@ -489,6 +490,7 @@ Brand &. Lifestyle
     *   Lexus Merchandise
     *   Lexus International
     *   Sponsored Athletes
+    *   INTERSECT BY LEXUS – NYC
 
 Safety Recalls &. Service Campaigns  
 
