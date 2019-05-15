@@ -43,6 +43,7 @@ Thomson Reuters Legal
     *   Big data
     *   Data privacy
     *   FinTech
+    *   Law firm management
 *   Support Support Support
     *   Contact us
     *   Billing, returns &. refunds
