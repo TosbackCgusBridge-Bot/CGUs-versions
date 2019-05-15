@@ -204,9 +204,28 @@ If you have any questions on our Privacy Policy, or questions about our handling
 New York, NY 10001.**
 
 *   MOST POPULAR
+    
     *   Popular
     *   Emailed
-    *   RecentLoading... Loading... Loading...
+    *   Recent
+    
+    *   Machines running popular AV software go unresponsive after Microsoft Windows update
+    *   Article 29 Working Party still not happy with Windows 10 privacy controls
+    *   Adblock Plus Exploit allows threat actors to read Gmail and other Google services
+    *   Wolters Kluwer still down from May 6 cyberattack
+    *   Ransomware ravages municipalities nationwide this week
+    
+    *   May Patch Tuesday: Adobe posts updates covering 85 vulnerabilities
+    *   Hackers hold 275M records on Indian citizens for ransom after removing them from open database
+    *   Google ups commitment to privacy
+    *   Federal bill to curtail CBP PII reveals, Illinois tackles digital assistant eavesdropping
+    *   RiskSec 2019: Israel strike on Hamas hackers did not 'cross the rubicon'
+    
+    *   Indiana Pacers basketball team falls for phishing attack
+    *   Intel, industry scramble to mitigate ZombieLoad side-channel processor vulnerability
+    *   'Thrangrycat' flaw in millions of Cisco devices could enable 'Secure Boot' bypass
+    *   DHS reduces deadline for agencies to fix vulnerabilities in their systems
+    *   WhatsApp patches flaw allowing easy installation of Pegasus spyware
 
 Back to Top
 
