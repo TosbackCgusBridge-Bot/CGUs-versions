@@ -576,7 +576,6 @@ Create a free website Google Plus Facebook Twitter
 *   Terms
 *   Help &. Contact
 *   Report a Site
-*   Affiliates
 
 With a powerful free website builder and professional website templates, Webs can help you easily create the website you’ve always wanted to promote your small business, sell something online, or simply showcase your creativity.  
   
