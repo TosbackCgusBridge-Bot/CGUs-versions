@@ -2,6 +2,7 @@ Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
+*   Find A Dentist
 *   Find Lowest Drug Prices
 
 *   Health  
