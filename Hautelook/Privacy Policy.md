@@ -8,171 +8,166 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
+    *   Makeup Geek Starting at $10
+    *   Bobeau Incl. Plus &. Petites
+    *   Beach to Bar: Loveappella Under $50
+    *   Splendid Up to 60% Off
+    *   Full-Fit Bras ft. Elomi
+    *   14K Gold Jewelry Steals
+    *   Free Shipping: Decals for Every Wall &. More
+    *   CALPAK Luggage
+    *   English Laundry Men
+    *   Breeze into Summer: Cutout Shoes &. More from $25
+    *   LOVE Moschino Handbags
+    *   LOVE Moschino Up to 50% Off
+    *   Casual to Cozy: Styles ft. Alternative from $10
+    *   Men's Jewelry Under $50
+    *   Free Shipping: Canvas Wall Art Up to 80% Off
+    *   Make Waves: Kids' Surf Styles
+    *   English Laundry Men's Shoes Up to 60% Off
+    *   All Under $25: SPROX
+    *   Spring Cleaning ft. Dyson
+    
+    *   Free Shipping: Great Gifts for Dad
+    *   Free Shipping: BergHOFF Kitchen &. BBQ Essentials
     *   Rebecca Minkoff
     *   Rebecca Minkoff Shoes Up to 50% Off
-    *   Bruno Magli Men
-    *   Spring Cleaning ft. Dyson
-    *   Free Shipping: BergHOFF Kitchen &. BBQ Essentials
-    *   Free Shipping: Bedding Essentials Up to 70% Off
-    *   Free Shipping: Great Gifts for Dad
-    *   Casual to Cozy: Styles ft. Alternative from $10
-    *   Swim ft. The Bikini Lab, ViX &. More
     *   Rebecca Minkoff Watches &. Accessories
     *   Taylor &. Gabby Skye Dresses Incl. Plus &. Petites
-    *   Anne Klein from $40
+    *   7 For All Mankind
+    *   Swim ft. The Bikini Lab, ViX &. More
+    *   Prep It Up: Vineyard Vines &. More from $8
+    *   7 For All Mankind Kids Up to 50% Off
+    *   Bruno Magli Men
     *   Bye, Jeans: Denim Shorts &. Capris for Summer
     *   Just Ours: 14th &. Union and Abound
-    *   Prep It Up: Vineyard Vines &. More from $8
     *   Luseta Beauty Hair Care from $10
     *   Sterling Jewelry Up to 70% Off
     *   Mr. Swim Up to 70% Off
     *   Basic Tees Starting at $13
     *   Bottoms Up: Kids' Shorts &. More Under $20
-    *   7 For All Mankind
-    
+    *   Anne Klein from $40
     *   7 For All Mankind Men Starting at $30
-    *   Vitamin A Swim &. More
-    *   Trend Report ft. AFRM
-    *   Mini to Maxi: Summer Dress Must-Haves
-    *   Marc Fisher from $40
-    *   7 For All Mankind Kids Up to 50% Off
-    *   Kristin Cavallari by Chinese Laundry &. More from $20
+    
     *   Graphic Tees Under $30
     *   Fresh Sneakers Under $50
     *   Kids' Casual Shoes ft. GEOX
     *   Dazzlepro Teeth Whitening Up to 85% Off
-    *   Americana Faves: Red, White &. Blue Accessories
     *   Skin Care ft. Origins &. Kate Somerville from $10
-    *   Olivia Welles Jewelry Up to 75% Off
-    *   Sandals, Mules &. More Up to 65% Off
     *   Free Shipping: Solid Sheet Sets Up to 75% Off
     *   Free Shipping: Storage Up to 65% Off
-    *   Men's Style Blowout
     *   Men's Shoes Up to 65% Off
-    *   Wacoal &. b.tempt'd by Wacoal
-    *   Gemstone Jewelry Finds Up to 80% Off
-    
     *   Celebrity Strands
-    *   Save Khaki Starting at $20
-    *   Traditional Fit Dress Shirts
-    *   Slim Fit Dress Shirts
     *   Pet Approved: Accessories &. More
-    *   Baby Basics ft. Joe Fresh
-    *   Maternity Essentials ft. LAmade
     *   Algenist Skin Care Starting at $10
-    *   ECCO Men
+    *   Find Your Shade: Foundation &. Concealer from $10
+    *   Maggy London &. London Times Incl. Plus &. Petites
+    *   Free Shipping: Bedding Essentials Up to 70% Off
+    *   Mini to Maxi: Summer Dress Must-Haves
+    *   Anthropologie Home Starting at $15
     *   Time to Upgrade: Bands for Apple Watches
     *   Wusthof Cutlery Up to 45% Off
     *   Free Shipping: Wall Murals &. More
-    *   Must-Have Textiles: Rugs, Bath Towels &. More
     *   Free Shipping: Faux Plants &. Planters
-    *   Step into Comfort: Clarks &. More
-    *   Summer Essentials Under $40 ft. Elodie
-    *   Denim Under $50
-    *   Summer Cool ft. Lovers + Friends Up to 60% Off
-    *   Find Your Shade: Foundation &. Concealer from $10
-    *   Maggy London &. London Times Incl. Plus &. Petites
-    *   Anthropologie Home Starting at $15
 *   WomenShop Sale Events
     
+    *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
+    *   Makeup Geek Starting at $10
+    *   Bobeau Incl. Plus &. Petites
+    *   Beach to Bar: Loveappella Under $50
+    *   Splendid Up to 60% Off
+    *   Full-Fit Bras ft. Elomi
+    *   14K Gold Jewelry Steals
+    *   CALPAK Luggage
+    *   Breeze into Summer: Cutout Shoes &. More from $25
+    *   LOVE Moschino Handbags
+    *   LOVE Moschino Up to 50% Off
+    *   Casual to Cozy: Styles ft. Alternative from $10
     *   Rebecca Minkoff
     *   Rebecca Minkoff Shoes Up to 50% Off
-    *   Casual to Cozy: Styles ft. Alternative from $10
-    *   Swim ft. The Bikini Lab, ViX &. More
     *   Rebecca Minkoff Watches &. Accessories
+    
     *   Taylor &. Gabby Skye Dresses Incl. Plus &. Petites
-    *   Anne Klein from $40
+    *   7 For All Mankind
+    *   Swim ft. The Bikini Lab, ViX &. More
     *   Bye, Jeans: Denim Shorts &. Capris for Summer
     *   Just Ours: 14th &. Union and Abound
     *   Luseta Beauty Hair Care from $10
     *   Sterling Jewelry Up to 70% Off
-    *   7 For All Mankind
-    *   Vitamin A Swim &. More
-    *   Trend Report ft. AFRM
-    *   Mini to Maxi: Summer Dress Must-Haves
-    *   Marc Fisher from $40
-    *   Kristin Cavallari by Chinese Laundry &. More from $20
-    
+    *   Anne Klein from $40
     *   Dazzlepro Teeth Whitening Up to 85% Off
-    *   Americana Faves: Red, White &. Blue Accessories
     *   Skin Care ft. Origins &. Kate Somerville from $10
-    *   Olivia Welles Jewelry Up to 75% Off
-    *   Sandals, Mules &. More Up to 65% Off
-    *   Wacoal &. b.tempt'd by Wacoal
-    *   Gemstone Jewelry Finds Up to 80% Off
     *   Celebrity Strands
-    *   Maternity Essentials ft. LAmade
     *   Algenist Skin Care Starting at $10
-    *   Step into Comfort: Clarks &. More
-    *   Summer Essentials Under $40 ft. Elodie
-    *   Denim Under $50
-    *   Summer Cool ft. Lovers + Friends Up to 60% Off
     *   Find Your Shade: Foundation &. Concealer from $10
     *   Maggy London &. London Times Incl. Plus &. Petites
+    *   Mini to Maxi: Summer Dress Must-Haves
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie
     *   Handbags
+    *   Lingerie
     *   Jewelry
-    *   Accessories
     *   Watches
+    *   Accessories
 *   MenShop Sale Events
     
+    *   CALPAK Luggage
+    *   English Laundry Men
+    *   Men's Jewelry Under $50
+    *   English Laundry Men's Shoes Up to 60% Off
     *   Bruno Magli Men
     *   Mr. Swim Up to 70% Off
+    
     *   Basic Tees Starting at $13
     *   7 For All Mankind Men Starting at $30
     *   Graphic Tees Under $30
     *   Fresh Sneakers Under $50
-    
-    *   Men's Style Blowout
     *   Men's Shoes Up to 65% Off
-    *   Save Khaki Starting at $20
-    *   Traditional Fit Dress Shirts
-    *   Slim Fit Dress Shirts
-    *   ECCO Men
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Watches
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Make Waves: Kids' Surf Styles
+    *   All Under $25: SPROX
     *   Prep It Up: Vineyard Vines &. More from $8
-    *   Bottoms Up: Kids' Shorts &. More Under $20
     *   7 For All Mankind Kids Up to 50% Off
+    *   Bottoms Up: Kids' Shorts &. More Under $20
     *   Kids' Casual Shoes ft. GEOX
-    *   Baby Basics ft. Joe Fresh
-    *   Maternity Essentials ft. LAmade
     
     Shop By Category
     *   Boys' Sizes 2T-7
-    *   Baby Girl
-    *   Boys' Sizes 8-20
-    *   Baby Boy
     *   Girls' Sizes 7-16
+    *   Boys' Sizes 8-20
     *   Girls' Sizes 2T-6X
+    *   Baby Girl
+    *   Baby Boy
     *   Boys' Shoes
     *   Girls' Shoes
 *   HomeShop Sale Events
     
+    *   Free Shipping: Decals for Every Wall &. More
+    *   CALPAK Luggage
+    *   Free Shipping: Canvas Wall Art Up to 80% Off
     *   Spring Cleaning ft. Dyson
-    *   Free Shipping: BergHOFF Kitchen &. BBQ Essentials
-    *   Free Shipping: Bedding Essentials Up to 70% Off
     *   Free Shipping: Great Gifts for Dad
+    *   Free Shipping: BergHOFF Kitchen &. BBQ Essentials
     *   Free Shipping: Solid Sheet Sets Up to 75% Off
     *   Free Shipping: Storage Up to 65% Off
-    *   Pet Approved: Accessories &. More
     
+    *   Pet Approved: Accessories &. More
+    *   Free Shipping: Bedding Essentials Up to 70% Off
+    *   Anthropologie Home Starting at $15
     *   Time to Upgrade: Bands for Apple Watches
     *   Wusthof Cutlery Up to 45% Off
     *   Free Shipping: Wall Murals &. More
-    *   Must-Have Textiles: Rugs, Bath Towels &. More
     *   Free Shipping: Faux Plants &. Planters
-    *   Anthropologie Home Starting at $15
     
     Shop By Category
     *   Home Decor
@@ -182,10 +177,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Pet Accessories
     *   Tech Accessories
     *   Luggage &. Travel
-    *   Bath
     *   Outdoor Living
+    *   Bath
 *   BeautyShop Sale Events
     
+    *   Makeup Geek Starting at $10
     *   Luseta Beauty Hair Care from $10
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Skin Care ft. Origins &. Kate Somerville from $10
