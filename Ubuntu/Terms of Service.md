@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server development summary – 15 May 2019 ›
 *   Ubuntu updates to mitigate new Microarchitectural Data Sampling (MDS) vulnerabilities ›
 *   Publish Your Unity Games in the Snap Store ›
 *   Fresh snaps for April 2019 ›
 *   Shared values of Travis CI and snaps enhance integration confidence for developers ›
-*   Ubuntu 14.04 LTS has transitioned to ESM support ›
