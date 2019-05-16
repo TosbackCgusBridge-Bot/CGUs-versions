@@ -211,21 +211,21 @@ New York, NY 10001.**
     
     *   Machines running popular AV software go unresponsive after Microsoft Windows update
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
-    *   Adblock Plus Exploit allows threat actors to read Gmail and other Google services
     *   Wolters Kluwer still down from May 6 cyberattack
+    *   Adblock Plus Exploit allows threat actors to read Gmail and other Google services
     *   Ransomware ravages municipalities nationwide this week
     
-    *   May Patch Tuesday: Adobe posts updates covering 85 vulnerabilities
-    *   Hackers hold 275M records on Indian citizens for ransom after removing them from open database
-    *   Google ups commitment to privacy
-    *   Federal bill to curtail CBP PII reveals, Illinois tackles digital assistant eavesdropping
-    *   RiskSec 2019: Israel strike on Hamas hackers did not 'cross the rubicon'
-    
-    *   Indiana Pacers basketball team falls for phishing attack
-    *   Intel, industry scramble to mitigate ZombieLoad side-channel processor vulnerability
-    *   'Thrangrycat' flaw in millions of Cisco devices could enable 'Secure Boot' bypass
     *   DHS reduces deadline for agencies to fix vulnerabilities in their systems
-    *   WhatsApp patches flaw allowing easy installation of Pegasus spyware
+    *   Spike in Bots using ‘Cipher Stunting’ to avoid threat detection
+    *   Boost Mobile breached
+    *   ScarCruft ATP campaign leverages 'rare' data-harvesting tool for Bluetooth devices
+    *   Report: G7 institutions to simulate cyberattack on financial sector
+    
+    *   ScarCruft ATP campaign leverages 'rare' data-harvesting tool for Bluetooth devices
+    *   Spike in Bots using ‘Cipher Stunting’ to avoid threat detection
+    *   Boost Mobile breached
+    *   Microsoft's May Patch Tuesday covers ZombieLoad, WER vulnerabilities
+    *   Supreme Court OKs Apple Store antitrust lawsuit. case raises security questions
 
 Back to Top
 
