@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   My AccountSign InSign InNew Customer? Register Here
+*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -14,6 +14,10 @@ Shop Departments
 *   Same Day Pickup
 *   Store Ads
 *   Deals
+    *   Special Deals
+    *   Deals Under $10 \*\*
+    *   Deals Under $15
+    *   Shop All Deals
 *   Clearance
     *   Women
     *   Shoes
@@ -30,34 +34,36 @@ Shop Departments
     *   Watches
     *   View all Gifts
 
-Near YouFind a StoreBack
+Near YouFind a StoreBack FINAL HOURS OF COUPON CODESAVE4YOUENDS IN00HOURS 41MINS 09SECS See Details\*60% off $100 or more select original &. regular-priced apparel, accessories, fine &. fashion jewelry &. home with any method of payment Excluded Categories: Juniors’ prom dresses, shoes, handbags, window coverings, kitchen and dining, luggage, furniture, mattresses Excluded Brand: Liz Claiborne See additional exclusions below. \*40% off $40 or more select original &. regular-priced apparel, accessories, fine &. fashion jewelry, home &. shoes with any method of payment \*25% off select original &. regular-priced apparel with any method of payment (Haggar, Lee, Gloria Vanderbilt, intimate apparel &. women’s dresses). accessories (belts &. wallets). fine &. fashion jewelry (watches). home (Stearns &. Foster, Handy Living, Fiesta, small appliances/electrics, storage and organization, bath accessories, fitness equipment &. accessories, floor care). shoes (men's shoes, kids' shoes, Andrew Geller, Clarks, Easy Spirit). salon products \*EXTRA 25% off select SALE &. CLEARANCE-priced apparel, accessories, fine &. fashion jewelry, home &. shoes with any method of payment \*EXTRA 15% off select SALE &. CLEARANCE-priced furniture &. mattresses with any method of payment \*OFFER DISCLAIMER &. EXCLUSIONS: Offer good at jcp.com, excluding taxes and shipping charges, 5/13/19-5/15/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Full amount of purchase must be on the JCPenney Credit Card to get the 10% off discount. Subject to credit approval. Excluded Categories: Athletic Shoes, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Branded Athletic Apparel, Electronics, Food, Home Décor, Licensed Team Sports Merchandise, Men’s Underwear and Socks, Select National Brand Shoes, Penney Lane, Personalized Jewelry, Pet Care, Smart Home, Smartwatches, Sporting Goods &. Outdoor Gear, Toys, Travel Accessories, Wigs &. Extensions, Workwear &. Scrubs Excluded Brands: adidas, Alfred Dunner, As Seen On TV, Carhartt, Citizen Quartz, City Streets, Columbia, Champion, Converse, Crocs, Cubavera, Denizen from Levi's, Disney Collection, Disney Tsum Tsum, Dockers Apparel, Dreamgirl, Fisher-Price, Fitbit, Flexus, Garmin, Goddess Lingerie, Hunter Douglas, Jezebel, Journee Collection, Keds/Grasshoppers, Levi’s, Modern Bride Design Your Dream Ring, Nike, Nursemates, Propet, Sephora, Skechers Women's Shoes, Smoky Mountain, Spring Step, Tempur-Pedic, Tervis, Tracee Ellis Ross Additionally, original and regular-priced offers do not apply to BOGO’s, 2 Or More, sale or clearance-priced items. all offers do not apply to Best Value, Daily Deals, Special Deals, Limited Time Specials, Purchase with Purchase items, Service Plans, Gift Cards, current orders and prior purchases, or in combination with other coupon(s). Can be combined with earned JCPenney Rewards. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code SAVE4YOU when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. Details
 
 X
 
 Hot Sellers
 
-*   $4999 sale
+*   BUY 1 GET 1 50% OFF
     
-    was $59.50 | 16% offLevi's® 505™ Regular Fit Jeans(2493)
+    $25
+    
+    Nike® Benassi JDI Womens Athletic Sandals(25)
 *   BUY MORE AND SAVE WITH CODE: SAVE4YOU
     
-    $30after couponeast 5th Womens Evie Heeled Sandals(10)
+    $36
+    
+    Stafford® Travel Short-Sleeve Easy-Care Broadcloth Dress Shirt(297)
 *   BUY MORE AND SAVE WITH CODE: SAVE4YOU
     
-    from$32
+    $54after couponMen's JF J. Ferrar® Stretch Gabardine Flat-Front Straight-Leg Slim Fit Suit Pants(257)
+*   BUY 1 GET 1 50% OFF
     
-    Arizona Denim Bermuda - Girls' 4-16 &. Plus(5)
+    from$40
+    
+    Stafford® 4-pk. Heavyweight Crewneck T-Shirts–Big &. Tall(633)
 *   BUY MORE AND SAVE WITH CODE: SAVE4YOU
     
-    $1650after couponXersion Basketball Shorts -Boys 4-20(15)
+    $30after couponStafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(22)
 *   BUY MORE AND SAVE WITH CODE: SAVE4YOU
     
-    from$32
-    
-    Arizona Boys Stretch Adjustable Waist Cargo Short Preschool / Big Kid(4)
-*   BUY MORE AND SAVE WITH CODE: SAVE4YOU
-    
-    $4125after couponClarks Womens Brinkley Jazz Flip-Flops(206)
+    from$2940after couponLuxury 600tc Sateen Wrinkle Free Sheet Set - Liz Claiborne(274)
 
 Shop and Save at JCPenney
 
@@ -133,7 +139,7 @@ Connect with us
 *   Youtube
 *   JCPenney Blog
 
-JCPenney Credit
+Check Out Our AppsJCPenney Credit
 
 *   Pay Bill
 *   Check Balance
