@@ -8,7 +8,6 @@ Thomson Reuters Legal
 *   Products Products Top products
     
     *   Westlaw
-    *   Westlaw Edge
     *   Practical Law
     *   Panoramic
     *   CLEAR
@@ -55,20 +54,19 @@ Thomson Reuters Legal
 
 1.  Legal Technology, Products and Services
 2.  Products
-3.  Westlaw Legal Research
+3.  Westlaw - Online Legal Research
 4.  Legal Current Events | Westlaw Practitioner Insights
 
 Legal research
 
 **Westlaw** Practitioner Insights  
 Start your day in the know with up-to-the-minute legal developments in your practice area  
-Free trial Westlaw
+Free trial Overview
 
-1.  Westlaw
-2.  Westlaw Edge
-3.  Features
-4.  Plans and pricing
-5.  Success stories
+1.  Overview
+2.  Features
+3.  Plans and pricing
+4.  Success stories
 
 Comprehensive information and expert analysis
 
