@@ -27,25 +27,25 @@ Skip to main content
     31/38 est MPG34 Build Specials
 *   Hybrid $23,345 as shown1 First-Ever 2020 Corolla Hybrid $22,950 starting1  
     53/52 est MPG33 Build Specials
-*   $24,090 as shown1 All-New 2019 Corolla Hatchback $19,990 starting1  
+*   $24,240 as shown1 All-New 2019 Corolla Hatchback $20,140 starting1  
     30/38 est MPG27 Build Specials
 *   Hybrid $27,820 as shown1 2019 Prius $23,770 starting1  
     54/50 est MPG36 Build Specials
 *   Hybrid $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
     48/43 est MPG26 Build Specials
-*   Hybrid Available $35,095 as shown1 2019 Camry $23,945 starting1  
+*   Hybrid Available $35,245 as shown1 2019 Camry $24,095 starting1  
     29/41 est MPG5 Build Specials
-*   Hybrid $32,825 as shown1 2019 Camry Hybrid $28,250 starting1  
+*   Hybrid $32,975 as shown1 2019 Camry Hybrid $28,400 starting1  
     51/53 est MPG5 Build Specials
 *   Plug-In Hybrid $33,350 as shown1 2019 Prius Prime $27,350 starting1  
     54/133 est. MPG17/MPGe18 Build Specials
-*   Hybrid Available $42,250 as shown1 All-New 2019 Avalon $35,550 starting1  
+*   Hybrid Available $42,350 as shown1 2019 Avalon $35,650 starting1  
     22/32 est MPG26 Build Specials
-*   Hybrid $42,850 as shown1 All-New 2019 Avalon Hybrid $36,550 starting1  
+*   Hybrid $42,950 as shown1 2019 Avalon Hybrid $36,650 starting1  
     43/44 est MPG26 Build Specials
 *   Fuel Cell Electric Vehicle $58,500 as shown1 2019 Mirai $58,500 starting1  
     67/67 est. MPGe26 Specials
-*   $28,635 as shown1 2019 86 $26,505 starting1  
+*   $28,785 as shown1 2019 86 $26,655 starting1  
     21/28 est MPG26 Build Specials
 *   $37,565 as shown1 2020 Sienna $31,415 starting1  
     19/27 est MPG35 Build Specials
@@ -55,7 +55,7 @@ Skip to main content
 *   $45,850 as shown1 2019 Tundra $31,670 starting1  
     15/19 est MPG26 Build Specials
 
-*   $26,550 as shown1 2019 C-HR $20,995 starting1  
+*   $26,700 as shown1 2019 C-HR $21,145 starting1  
     27/31 est MPG26 Build Specials
 *   Hybrid Available $33,500 as shown1 All-New 2019 RAV4 $25,500 starting1  
     26/35 est MPG37 Build Specials
@@ -65,18 +65,18 @@ Skip to main content
     21/27 est MPG26 Build Specials
 *   Hybrid $49,375 as shown1 2019 Highlander Hybrid $37,320 starting1  
     30/28 est MPG26 Build Specials
-*   $40,195 as shown1 2019 4Runner $35,110 starting1  
+*   $40,395 as shown1 2019 4Runner $35,310 starting1  
     17/21 est MPG26 Build Specials
 *   $57,545 as shown1 2019 Sequoia $49,050 starting1  
     13/17 est MPG25 Build Specials
-*   $85,015 as shown1 2019 Land Cruiser $85,015 starting1  
+*   $85,165 as shown1 2019 Land Cruiser $85,165 starting1  
     13/18 est MPG26 Build Specials
 
-*   Hybrid $32,825 as shown1 2019 Camry Hybrid $28,250 starting1  
+*   Hybrid $32,975 as shown1 2019 Camry Hybrid $28,400 starting1  
     51/53 est MPG5 Build Specials
 *   Hybrid $23,345 as shown1 First-Ever 2020 Corolla Hybrid $22,950 starting1  
     53/52 est MPG33 Build Specials
-*   Hybrid $42,850 as shown1 All-New 2019 Avalon Hybrid $36,550 starting1  
+*   Hybrid $42,950 as shown1 2019 Avalon Hybrid $36,650 starting1  
     43/44 est MPG26 Build Specials
 *   Hybrid $35,960 as shown1 All-New 2019 RAV4 Hybrid $27,700 starting1  
     41/38 est MPG37 Build Specials
@@ -126,30 +126,30 @@ View All Vehicles
 Cars &. Minivan $18,700 as shown1 2019 Yaris $15,600 starting1  
 32/40 est MPG30 Hybrid Available $25,450 as shown1 All-New 2020 Corolla $19,500 starting1  
 31/38 est MPG34 Hybrid $23,345 as shown1 First-Ever 2020 Corolla Hybrid $22,950 starting1  
-53/52 est MPG33 $24,090 as shown1 All-New 2019 Corolla Hatchback $19,990 starting1  
+53/52 est MPG33 $24,240 as shown1 All-New 2019 Corolla Hatchback $20,140 starting1  
 30/38 est MPG27 Hybrid $27,820 as shown1 2019 Prius $23,770 starting1  
 54/50 est MPG36 Hybrid $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
-48/43 est MPG26 Hybrid Available $35,095 as shown1 2019 Camry $23,945 starting1  
-29/41 est MPG5 Hybrid $32,825 as shown1 2019 Camry Hybrid $28,250 starting1  
+48/43 est MPG26 Hybrid Available $35,245 as shown1 2019 Camry $24,095 starting1  
+29/41 est MPG5 Hybrid $32,975 as shown1 2019 Camry Hybrid $28,400 starting1  
 51/53 est MPG5 Plug-In Hybrid $33,350 as shown1 2019 Prius Prime $27,350 starting1  
-54/133 est. MPG17/MPGe18 Hybrid Available $42,250 as shown1 All-New 2019 Avalon $35,550 starting1  
-22/32 est MPG26 Hybrid $42,850 as shown1 All-New 2019 Avalon Hybrid $36,550 starting1  
+54/133 est. MPG17/MPGe18 Hybrid Available $42,350 as shown1 2019 Avalon $35,650 starting1  
+22/32 est MPG26 Hybrid $42,950 as shown1 2019 Avalon Hybrid $36,650 starting1  
 43/44 est MPG26 Fuel Cell Electric Vehicle $58,500 as shown1 2019 Mirai $58,500 starting1  
-67/67 est. MPGe26 $28,635 as shown1 2019 86 $26,505 starting1  
+67/67 est. MPGe26 $28,785 as shown1 2019 86 $26,655 starting1  
 21/28 est MPG26 $37,565 as shown1 2020 Sienna $31,415 starting1  
 19/27 est MPG35 Trucks $36,765 as shown1 2019 Tacoma $25,850 starting1  
 18/22 est MPG3 $45,850 as shown1 2019 Tundra $31,670 starting1  
-15/19 est MPG26 Crossovers &. SUVs $26,550 as shown1 2019 C-HR $20,995 starting1  
+15/19 est MPG26 Crossovers &. SUVs $26,700 as shown1 2019 C-HR $21,145 starting1  
 27/31 est MPG26 Hybrid Available $33,500 as shown1 All-New 2019 RAV4 $25,500 starting1  
 26/35 est MPG37 Hybrid $35,960 as shown1 All-New 2019 RAV4 Hybrid $27,700 starting1  
 41/38 est MPG37 Hybrid Available $42,250 as shown1 2019 Highlander $31,680 starting1  
 21/27 est MPG26 Hybrid $49,375 as shown1 2019 Highlander Hybrid $37,320 starting1  
-30/28 est MPG26 $40,195 as shown1 2019 4Runner $35,110 starting1  
+30/28 est MPG26 $40,395 as shown1 2019 4Runner $35,310 starting1  
 17/21 est MPG26 $57,545 as shown1 2019 Sequoia $49,050 starting1  
-13/17 est MPG25 $85,015 as shown1 2019 Land Cruiser $85,015 starting1  
-13/18 est MPG26 Hybrids &. Fuel Cell Hybrid $32,825 as shown1 2019 Camry Hybrid $28,250 starting1  
+13/17 est MPG25 $85,165 as shown1 2019 Land Cruiser $85,165 starting1  
+13/18 est MPG26 Hybrids &. Fuel Cell Hybrid $32,975 as shown1 2019 Camry Hybrid $28,400 starting1  
 51/53 est MPG5 Hybrid $23,345 as shown1 First-Ever 2020 Corolla Hybrid $22,950 starting1  
-53/52 est MPG33 Hybrid $42,850 as shown1 All-New 2019 Avalon Hybrid $36,550 starting1  
+53/52 est MPG33 Hybrid $42,950 as shown1 2019 Avalon Hybrid $36,650 starting1  
 43/44 est MPG26 Hybrid $35,960 as shown1 All-New 2019 RAV4 Hybrid $27,700 starting1  
 41/38 est MPG37 Hybrid $49,375 as shown1 2019 Highlander Hybrid $37,320 starting1  
 30/28 est MPG26 Plug-In Hybrid $33,350 as shown1 2019 Prius Prime $27,350 starting1  
@@ -395,6 +395,8 @@ Hybrids
     
 *   Camry Hybrid  
     
+*   Corolla Hybrid  
+    
 *   Highlander Hybrid  
     
 *   Mirai  
@@ -405,22 +407,20 @@ Hybrids
     
 *   Prius Prime  
     
-*   Prius _v_  
-    
 *   RAV4 Hybrid  
     
 
 Discontinued Vehicles
 
+*   FJ Cruiser  
+    
 *   Matrix  
     
-*   FJ Cruiser  
+*   Prius _v_  
     
 *   RAV4 EV  
     
 *   Venza  
-    
-*   All Discontinued Toyota Vehicles  
     
 
 Compare Toyota vs. the Competition
@@ -1189,7 +1189,7 @@ About Toyota
 
 Language
 
-*   Espanol
+*   Español
 
 Help
 
@@ -1245,16 +1245,3 @@ Help
 *   35\. 2020 Sienna AWD preliminary 18 city/24 hwy/20 combined mpg estimates and Sienna FWD preliminary 19 city/27 hwy/22 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
 *   36\. 2019 EPA-estimated 54 city/50 hwy/52 combined mpg estimates for Prius LE, XLE and Limited. Actual mileage will vary.
 *   37\. 2019 EPA-estimated 26 city/35 hwy/30 combined mpg for RAV4 LE FWD, XLE FWD, XLE Premium FWD and Limited FWD. 27 city/34 hwy/30 combined mpg for LE AWD. 25 city/33 hwy/28 combined mpg for XLE AWD, XLE Premium AWD, Adventure and Limited AWD. and 41 city/38 hwy/40 combined mpg for RAV4 LE Hybrid, XLE Hybrid, XSE Hybrid and Limited Hybrid. Actual mileage will vary.
-
-YOUR GARAGE NONE Log In
-
-*   SEARCHES (0)
-*   INVENTORY (0)
-*   OFFERS (0)
-*   BUILDS (0)
-
-OWNERS ✕ Your Vehicles Easily access your Toyota, Lexus and Scion vehicles directly from your garage. Toyota Owners Lexus Drivers SEARCHES ✕ Easily save Searches Look through and edit searches you’ve saved and save new ones right here. Click to save.  
-Click to remove. Start Your Search INVENTORY ✕ Find your Toyota Search inventory and save your favorite vehicles here. Click to save.  
-Click to remove. Search Inventory OFFERS ✕ Keep an eye on Offers Find local specials and save them here. We’ll even notify you when they’re about to expire. Click to save.  
-Click to remove. See Offers BUILDS ✕ Build and Save Customize your Toyota, and save the details to your garage. We’ll help you find local inventory from there. Click to save.  
-Click to remove. Start Building CLOSE   ✕ ✕ ✕
