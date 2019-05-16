@@ -21,7 +21,7 @@ Close MENU **IS**
 
 **ES**
 
-*   Starting at $39,6001\*
+*   Starting at $39,7501\*
 *   302-HP 3.5L V6
 
 *   Build
@@ -29,7 +29,7 @@ Close MENU **IS**
 
 **ES HYBRID**
 
-*   Starting at $41,4101\*
+*   Starting at $41,5601\*
 *   44-MPG combined rating2\*
 
 *   Build
@@ -103,7 +103,7 @@ COMPARE **UX**
 
 **RX**
 
-*   Starting at $43,6701\*
+*   Starting at $43,8201\*
 *   3 ROW SEATING UP TO 710\*
 
 *   Build
@@ -111,7 +111,7 @@ COMPARE **UX**
 
 **RX HYBRID**
 
-*   Starting at $46,0951\*
+*   Starting at $46,2451\*
 *   30-MPG COMBINED RATING11\*
 
 *   Build
@@ -187,7 +187,7 @@ COMPARE **UX HYBRID**
 
 **RX HYBRID**
 
-*   Starting at $46,0951\*
+*   Starting at $46,2451\*
 *   30-MPG COMBINED RATING11\*
 
 *   Build
@@ -195,7 +195,7 @@ COMPARE **UX HYBRID**
 
 **ES HYBRID**
 
-*   Starting at $41,4101\*
+*   Starting at $41,5601\*
 *   44-MPG COMBINED RATING2\*
 
 *   Build
