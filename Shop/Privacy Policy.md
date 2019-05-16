@@ -132,13 +132,9 @@ Lenovo Explore Close
         *   Sale
         *   Monitor Accessories
         
-        Y25 Gaming Monitor
+        ThinkVision P24h-10
         
-        Immersive gaming for eSports.
-        
-        P27h QHD USB-C Monitor
-        
-        Shop this month's top rated spotlight deal!
+        Shop this month's top rated spotlight deal
         
         *   Always Free Shipping
         *   Easy Returns
