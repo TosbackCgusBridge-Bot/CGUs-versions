@@ -110,7 +110,7 @@ The content included on your individual profile should be relevant to the intend
 
 Your individual profile will be visible to other people around the world, so be sure that you are comfortable sharing Your Content before you post. You acknowledge and agree that Your Content may be viewed by other users, and, notwithstanding these Terms, other users may share Your Content with third parties. By uploading Your Content, you represent and warrant to us that you have all necessary rights and licenses to do so and automatically grant us a license to use Your Content as provided under Section 7 below.
 
-You understand and agree that we may monitor or review Your Content, and we have the right to remove, delete, edit, limit, or block or prevent access to any of Your Content at any time in our sole discretion. Furthermore, you understand agree that we have no obligation to display or review Your Content.
+You understand and agree that we may monitor or review Your Content, and we have the right to remove, delete, edit, limit, or block or prevent access to any of Your Content at any time in our sole discretion. Furthermore, you understand and agree that we have no obligation to display or review Your Content.
 
 3b. MEMBER CONTENT
 
