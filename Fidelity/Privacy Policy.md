@@ -60,7 +60,10 @@ Search fidelity.com or get a quote
     *   Options
     *   Markets &. Sectors
     *   IPOs
+    *   Annuities
     *   Learning Center
+    *   Notebook
+    *   Notebook
 *   Investment Products
     *   Mutual Funds
     *   Retirement &. IRAs
@@ -69,9 +72,10 @@ Search fidelity.com or get a quote
     *   Fixed Income, Bonds &. CDs
     *   ETFs
     *   Options
+    *   Sector Investing
     *   Cash Management &. Credit Cards
     *   Managed Accounts
-    *   Robo Advisor
+    *   Fidelity Go
     *   529 College Savings
     *   Annuities
     *   Life Insurance &. Long Term Care
@@ -306,13 +310,14 @@ View the Fidelity Investments and the Fidelity Funds Privacy Notice (PDF)
 *   Annuities
 *   Life Insurance &. Long Term Care
 *   Small Business Retirement Plans
+*   529 Plans
 *   FAQs
 
 *   IRAs
 *   Retirement Products
 *   Retirement Planning
-*   529 Plans
 *   Charitable Giving
+*   FidSafe
 *   FINRA's BrokerCheck
 *   Guest Access
 
