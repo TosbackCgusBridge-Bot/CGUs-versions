@@ -72,8 +72,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   Angelina Jolie Returns as ‘Maleficent: Mistress of Evil’ in First Trailer. Here’s Everything We Know Read More
-    *   Next 3 Major Family Movies: 'Aladdin,' 'The Secret Life of Pets 2,' 'Toy Story 4' Read More
-    *   Today in Movie Culture: ‘Detective Pikachu’ Easter Eggs, the Legacy of the ‘X-Men’ Movie Franchise and More Read More
+    *   How the New Child’s Play Is Different Read More
+    *   Today in Movie Culture: ‘John Wick’ Recap, the Probability of the Plot of ‘Avengers: Endgame’ and More Read More
     
     Explore Content
     *   Movie Reviews
