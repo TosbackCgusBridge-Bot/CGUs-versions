@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off full-price pants, shorts and skirts. 40% off all other full-price styles!
+Receive up to 70% off sale and clearance styles. 40% off 1 full-price item!
 
-code: DAISY pin: 9726 DETAILS
+code: RAINY pin: 7428 DETAILS
 
 Customer Service Menu
 
