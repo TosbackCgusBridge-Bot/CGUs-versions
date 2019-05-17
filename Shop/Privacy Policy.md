@@ -20,13 +20,13 @@ Lenovo Explore Close
         *   Legion
         *   Lenovo
         
-        *   Quick Links
-        *   Sale
         *   Best Selling Laptops
-        *   Top Rated Laptops
-        *   Trade-In Program
-        *   Accessories
-        *   Trending Laptops
+        *   X1 Carbon (6th Gen)
+        *   X1 Extreme
+        *   ThinkPad T490
+        *   Yoga C930
+        *   Legion Y740
+        *   Chromebooks
         
         Sale
         
@@ -50,13 +50,12 @@ Lenovo Explore Close
         *   Legion
         *   ThinkStation
         
-        *   Quick Links
-        *   Sale
         *   Best Selling Desktops
-        *   Top Rated Desktops
-        *   Monitors
-        *   Accessories
-        *   Trending Desktops
+        *   ThinkCentre M720 SFF
+        *   ThinkStation P330 Tower
+        *   ThinkCentre M720 Tiny
+        *   P Series Workstations
+        *   IdeaCentre A340 AIO 24"
         
         SALE
         
@@ -295,7 +294,6 @@ Lenovo Explore Close
         *   Explore Storage
         *   Storage-Area Network
         *   Direct-Attached Storage
-        *   Software Defined Storage
         *   Tape Storage
         *   View All Storage
         
@@ -443,6 +441,7 @@ Lenovo Explore Close
         *   PremiumCare
         *   Lifecycle Warranty &. Protection
         *   Replacement Parts Store
+        *   Legion Ultimate Support
         
         *   Deployment Services
         *   Planning &. Optimization
@@ -514,7 +513,7 @@ Lenovo Explore Close
     *   Help placing an order855-253-6686 option #2
     *   Existing order help855-253-6686 option #1
     *   Business Order Help866-426-0911
-    *   HoursMon-Fri 9AM-9PM ET
+    *   HoursMon-Fri 9AM-9PM ETSat 10AM-6PM ET
     *   24/7 CHAT NOW >
 *   Contact Us
     *   Help placing an order855-253-6686 option #2Monday-Friday 9am-9pm EST
@@ -1034,7 +1033,7 @@ Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBel
 
 How can we help you today?
 
-SALES CHATSALES CHAT BUSINESS SALESBUSINESS SALES EXISTING ORDER HELPEXISTING ORDER HELP
+SALES CHATSALES CHAT BUSINESS SALESBUSINESS SALES EXISTING ORDER HELPEXISTING ORDER HELP Call us: 1-855-253-6686
 
 Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being least favorable, how likely is it that you would recommend Lenovo to a friend or colleague?
 
