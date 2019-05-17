@@ -96,7 +96,7 @@
         *   Joel Kotkin
         
     *   Articles
-    *   RCOR
+    *   Research
     *   Newsletters
     *   Multimedia
         *   Changing Lanes
