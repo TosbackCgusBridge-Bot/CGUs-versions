@@ -1,6 +1,6 @@
-Free Shipping Over $99See DetailsAccessible View
+Free Shipping Over $75See DetailsAccessible View
 
-*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
+*   My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -15,7 +15,7 @@ Shop Departments
 *   Store Ads
 *   Deals
     *   Special Deals
-    *   Deals Under $10 \*\*
+    *   Deals Under $10
     *   Deals Under $15
     *   Shop All Deals
 *   Clearance
@@ -34,36 +34,68 @@ Shop Departments
     *   Watches
     *   View all Gifts
 
-Near YouFind a StoreBack FINAL HOURS OF COUPON CODESAVE4YOUENDS IN00HOURS 41MINS 09SECS See Details\*60% off $100 or more select original &. regular-priced apparel, accessories, fine &. fashion jewelry &. home with any method of payment Excluded Categories: Juniors’ prom dresses, shoes, handbags, window coverings, kitchen and dining, luggage, furniture, mattresses Excluded Brand: Liz Claiborne See additional exclusions below. \*40% off $40 or more select original &. regular-priced apparel, accessories, fine &. fashion jewelry, home &. shoes with any method of payment \*25% off select original &. regular-priced apparel with any method of payment (Haggar, Lee, Gloria Vanderbilt, intimate apparel &. women’s dresses). accessories (belts &. wallets). fine &. fashion jewelry (watches). home (Stearns &. Foster, Handy Living, Fiesta, small appliances/electrics, storage and organization, bath accessories, fitness equipment &. accessories, floor care). shoes (men's shoes, kids' shoes, Andrew Geller, Clarks, Easy Spirit). salon products \*EXTRA 25% off select SALE &. CLEARANCE-priced apparel, accessories, fine &. fashion jewelry, home &. shoes with any method of payment \*EXTRA 15% off select SALE &. CLEARANCE-priced furniture &. mattresses with any method of payment \*OFFER DISCLAIMER &. EXCLUSIONS: Offer good at jcp.com, excluding taxes and shipping charges, 5/13/19-5/15/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Full amount of purchase must be on the JCPenney Credit Card to get the 10% off discount. Subject to credit approval. Excluded Categories: Athletic Shoes, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Branded Athletic Apparel, Electronics, Food, Home Décor, Licensed Team Sports Merchandise, Men’s Underwear and Socks, Select National Brand Shoes, Penney Lane, Personalized Jewelry, Pet Care, Smart Home, Smartwatches, Sporting Goods &. Outdoor Gear, Toys, Travel Accessories, Wigs &. Extensions, Workwear &. Scrubs Excluded Brands: adidas, Alfred Dunner, As Seen On TV, Carhartt, Citizen Quartz, City Streets, Columbia, Champion, Converse, Crocs, Cubavera, Denizen from Levi's, Disney Collection, Disney Tsum Tsum, Dockers Apparel, Dreamgirl, Fisher-Price, Fitbit, Flexus, Garmin, Goddess Lingerie, Hunter Douglas, Jezebel, Journee Collection, Keds/Grasshoppers, Levi’s, Modern Bride Design Your Dream Ring, Nike, Nursemates, Propet, Sephora, Skechers Women's Shoes, Smoky Mountain, Spring Step, Tempur-Pedic, Tervis, Tracee Ellis Ross Additionally, original and regular-priced offers do not apply to BOGO’s, 2 Or More, sale or clearance-priced items. all offers do not apply to Best Value, Daily Deals, Special Deals, Limited Time Specials, Purchase with Purchase items, Service Plans, Gift Cards, current orders and prior purchases, or in combination with other coupon(s). Can be combined with earned JCPenney Rewards. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code SAVE4YOU when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. Details
+Near YouFind a StoreBack
 
 X
 
+UP TO 70% OF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OF WOMEN'S APPARELSELECT STYLESSHOP ALL
+
+*   SPECIAL DEAL!
+    
+    $1499 sale
+    
+    was $34 Worthington Womens Short Sleeve Knit Polo ShirtAdd To Cart
+*   SPECIAL DEAL!
+    
+    $1599 sale
+    
+    was $37 Liz Claiborne Womens Crew Neck Sleeveless Lace BlouseAdd To Cart
+*   SPECIAL DEAL!
+    
+    $899 sale
+    
+    was $22 Worthington Womens Round Neck Short Sleeve T-ShirtAdd To Cart
+*   SPECIAL DEAL!
+    
+    $2499 sale
+    
+    was $60 Worthington Womens Long Sleeve BlouseAdd To Cart
+*   SPECIAL DEAL!
+    
+    $1480 sale
+    
+    was $37 Liz Claiborne 3/4 Tie Sleeve Knit Top(24)Add To Cart
+*   SPECIAL DEAL!
+    
+    $999 sale
+    
+    was $27 St. John's Bay Womens Short Sleeve Embroidered Blouse(8)Add To Cart
+*   SPECIAL DEAL!
+    
+    $1760 sale
+    
+    was $44 Liz Claiborne Womens Long Sleeve Open Front Cardigan(2)Add To Cart
+
 Hot Sellers
 
-*   BUY 1 GET 1 50% OFF
+*   $2999 sale
     
-    $25
+    was $50 | 40% offThe Foundry Big &. Tall Supply Co.™ Flex Denim Jeans(140)
+*   $1999 sale
     
-    Nike® Benassi JDI Womens Athletic Sandals(25)
-*   BUY MORE AND SAVE WITH CODE: SAVE4YOU
+    was $24 | 16% offNike® Celso Womens Flip Flops(404)
+*   $4499 sale
     
-    $36
+    was $90 | 50% offJF J.Ferrar Slim Fit Stretch Suit Pants(17)
+*   $5499 sale
     
-    Stafford® Travel Short-Sleeve Easy-Care Broadcloth Dress Shirt(297)
-*   BUY MORE AND SAVE WITH CODE: SAVE4YOU
+    was $65 | 15% offNike® Air Monarch IV Mens Training Shoes(509)
+*   $4999 sale
     
-    $54after couponMen's JF J. Ferrar® Stretch Gabardine Flat-Front Straight-Leg Slim Fit Suit Pants(257)
-*   BUY 1 GET 1 50% OFF
+    was $55 | 9% offConverse Chuck Taylor All Star Sneakers - Unisex Sizing(919)
+*   $95 sale
     
-    from$40
-    
-    Stafford® 4-pk. Heavyweight Crewneck T-Shirts–Big &. Tall(633)
-*   BUY MORE AND SAVE WITH CODE: SAVE4YOU
-    
-    $30after couponStafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(22)
-*   BUY MORE AND SAVE WITH CODE: SAVE4YOU
-    
-    from$2940after couponLuxury 600tc Sateen Wrinkle Free Sheet Set - Liz Claiborne(274)
+    was $190 | 50% offJF J. Ferrar® Stretch Gabardine Suit Jacket - Slim Fit(322)
 
 Shop and Save at JCPenney
 
