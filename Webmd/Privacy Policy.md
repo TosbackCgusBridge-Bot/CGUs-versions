@@ -1,4 +1,4 @@
-Skip to main content
+Want to live your best life? Get the WebMD Daily newsletter for health tips, wellness updates and more. Subscribe By clicking "Subscribe," I agree to the WebMD Terms and Conditions and Privacy Policy. I also agree to receive emails from WebMD and I understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -112,11 +112,11 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Do Adults Need a Measles Booster Shot?
+    *   Salmonella Outbreak Linked to Backyard Chickens
+    *   LED Blue Light a Risk to Eyes, Sleep
+    *   Diets High in Processed Foods Tied to Obesity
+    *   Survey Reveals Dirty Pool Habits
     *   Diabetes Drugs Carry Risk of Gangrene of Genitals
-    *   Appendix Removal Linked to Parkinson's Risk?
-    *   Loss of Smell May Be a Sign Death Is Close
-    *   Is Taking Vitamin D Helpful, or 'Wishful Thinking'?
     
     Experts &. Community
     
