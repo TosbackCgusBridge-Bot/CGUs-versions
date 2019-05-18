@@ -71,9 +71,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Angelina Jolie Returns as ‘Maleficent: Mistress of Evil’ in First Trailer. Here’s Everything We Know Read More
+    *   The Week in Movie News: Robert Pattinson Might Be the New Batman, Chris Rock is Rebooting ‘Saw’ and more Read More
     *   How the New Child’s Play Is Different Read More
-    *   Today in Movie Culture: ‘John Wick’ Recap, the Probability of the Plot of ‘Avengers: Endgame’ and More Read More
+    *   Today in Movie Culture: Taron Egerton and Elton John ‘Rocketman’ Duet at Cannes, ‘John Wick: Chapter 3’ Director Commentary and More Read More
     
     Explore Content
     *   Movie Reviews
