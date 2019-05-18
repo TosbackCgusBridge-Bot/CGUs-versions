@@ -261,6 +261,8 @@ Partners
 
 *   TaskRabbit
 
+  
+  
 Follow IKEA on social media © Inter IKEA Systems B.V. 1999-2019 Feedback Help us improve by sharing your feedback. We love your feedback! Please note that if you have a concern you need handled immediately, please contact our Customer Services
 
 How are we doing? Please rate your experience with our website today.
