@@ -7,7 +7,7 @@
 
 Sign In Sign Up Post Jobs <div class='bg-grey'>. <div class='container np center red b u'>This site requires JavaScript to work correctly. Please, activate it in the options of your browser.</div>. </div>. Shorter commute. More money. Job-happy. Work can work™ Job Title Commute Time US
 
-Find Jobs What job do you want? Post a Job Make your search easy. Let jobs find you Build or upload a resume Add your resume don't know where to start? Trending Searches Sales Customer Service Accounting Entry Level Administrative Assistant Retail Registered Nurse Travel Specialist Entry Level Caregiver .NET Developer View more job titles over 100 million jobs Top 20 Hiring Companies View More Top Companies making your job search easy How Careerbuilder can help Salary Tools
+Find Jobs What job do you want? Post a Job Make your search easy. Let jobs find you Build or upload a resume Add your resume don't know where to start? Trending Searches Sales Customer Service Accounting Entry Level Administrative Assistant Retail Registered Nurse Travel Specialist Entry Level Caregiver .NET Developer View more job titles over 100 million jobs Top 20 Hiring Companies View More Top Companies making your job search easy How CareerBuilder can help Salary Tools
 
 See how your salary compares to others with the same job title in your area. Not only can you compare your salary, but you can also see what skills you are missing to earn more money.
 
@@ -31,7 +31,7 @@ Instant Notifications
 
 You'll receive push notifications when your resume is viewed, or when new jobs appear in your most recent search. Making it easy for you to jump right back into your job search.
 
-see how you can up your career status Career Development &. Learning Who's Hiring Companies hiring this month Read Article Who's Hiring Companies hiring this week Read Article Job Trends 3 things to know about the April 2019 jobs report Read Article Read More Articles employers Looking to Post a Job?
+see how you can up your career status Career Development &. Learning Who's Hiring Companies hiring this month Read Article How to Search 7 job search productivity hacks Read Article Who's Hiring Companies hiring this week Read Article Read More Articles employers Looking to Post a Job?
 
 We have end-to-end solutions that can keep up with you and your standards.
 
