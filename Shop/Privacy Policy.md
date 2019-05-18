@@ -59,7 +59,7 @@ Lenovo Explore Close
         
         SALE
         
-        Save on tablets, smart home products, and more!
+        Save on desktops and all-in-ones for gaming, work and more!
         
         *   Always Free Shipping
         *   Easy Returns
