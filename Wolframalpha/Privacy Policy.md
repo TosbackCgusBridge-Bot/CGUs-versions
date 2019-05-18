@@ -9,6 +9,7 @@
         *   Finance Platform
         *   SystemModeler
         *   Wolfram Player
+        *   Wolfram Engine
         *   WolframScript
         
         *   *   Enterprise Private Cloud
@@ -72,10 +73,10 @@
             *   High-Performance Computing
             *   Hackathons
         
-        *   Web &. Software
+        *   Software &. Web
+            *   Software Development
             *   Authoring &. Publishing
             *   Interface Development
-            *   Software Engineering
             *   Web Development
         *   Sciences
             *   Astronomy
@@ -242,6 +243,7 @@ Legal
     *   Wolfram|Alpha Pro
     *   Wolfram|Alpha API
     *   Wolfram ID
+    *   Wolfram Engine
     *   Wolfram Cloud
     *   Wolfram Enterprise Private Cloud
     *   Wolfram Programming Lab
@@ -294,6 +296,7 @@ Legal
 *   Finance Platform
 *   SystemModeler
 *   Wolfram Player
+*   Wolfram Engine
 *   WolframScript
 *   Wolfram Workbench
 *   Volume &. Site Licensing
