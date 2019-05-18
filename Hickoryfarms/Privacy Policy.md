@@ -72,7 +72,7 @@
 *   Business Gifts
 *   Sale
 
-1.800.753.8558 Business Gifts Search Catalog Find a Store Skip to content My Account
+1.800.753.8558 Business Gifts Free shipping on over 150 gifts!\* Search Catalog Find a Store Skip to content My Account
 
 *   Welcome!
 *   Log In
@@ -216,4 +216,4 @@ Contact Us
 *   1.800.753.8558
 *   Employment
 
-Find A Store © 2019 ALL RIGHTS RESERVED. PRIVACY POLICY TERMS OF USE SITE MAP
+Find A Store © 2019 ALL RIGHTS RESERVED. PRIVACY POLICY TERMS OF USE SITE MAP Play IconFeedback
