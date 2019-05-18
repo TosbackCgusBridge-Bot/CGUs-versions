@@ -808,7 +808,7 @@ Helpful Links
 Follow Mattel
 
 *   Terms &. Conditions
-
+*   ADCHOICES
 *   © 2019 Mattel. All Rights Reserved
 
 Do you want to continue? You are about to visit a website that operates under a separate privacy policy and other terms.  
