@@ -14,7 +14,7 @@ The GroupSpaces Platform is not directed to children younger than 13 and is offe
   
 You represent that you are fully able and competent to enter into the terms, conditions, obligations, representations and warranties set forth in these Terms of Service. If you are using or creating a Group on the GroupSpaces Platform as a representative of a company or legal entity, (i) you represent that you have the authority to enter into this Agreement on behalf of that company or entity, and (ii) you agree that the terms "you" and "your" in this Agreement refers to your company or legal entity.  
   
-GroupSpaces.com is a site operated by GroupSpaces Limited. We are registered in England and Wales under company number 6427791 and have our registered office at Suite 17861, Lower Ground Floor, 145-157 St John Street, London EC1V 4PW.
+GroupSpaces.com is a site operated by GroupSpaces Limited. We are registered in England and Wales under company number 6427791 and have our registered office at Suite LP17861, 20-22 Wenlock Road, London N1 7GU, United Kingdom.
 
 1\. Definitions
 
@@ -379,8 +379,7 @@ You may contact GroupSpaces in the following ways:
   
 **Post:  
 **GroupSpaces Ltd  
-Suite 17861  
-Lower Ground Floor  
-145-157 St John Street  
-London EC1V 4PW  
-UK
+Suite LP17861  
+20-22 Wenlock Road  
+London N1 7GU  
+United Kingdom
