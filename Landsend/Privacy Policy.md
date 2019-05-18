@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive up to 70% off sale and clearance styles. 40% off 1 full-price item!
+Receive 50% off all swimwear, water shoes and more. 40% off all other full-price styles!
 
-code: RAINY pin: 7428 DETAILS
+code: SEASHELL pin: 2479 DETAILS
 
 Customer Service Menu
 
