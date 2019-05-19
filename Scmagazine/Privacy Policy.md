@@ -204,9 +204,28 @@ If you have any questions on our Privacy Policy, or questions about our handling
 New York, NY 10001.**
 
 *   MOST POPULAR
+    
     *   Popular
     *   Emailed
-    *   RecentLoading... Loading... Loading...
+    *   Recent
+    
+    *   Machines running popular AV software go unresponsive after Microsoft Windows update
+    *   Anti-virus vendors named in Fxmsp's alleged source code breach respond
+    *   Wolters Kluwer still down from May 6 cyberattack
+    *   Article 29 Working Party still not happy with Windows 10 privacy controls
+    *   Ransomware ravages municipalities nationwide this week
+    
+    *   May Patch Tuesday: Adobe posts updates covering 85 vulnerabilities
+    *   Sites infected as open source Alpaca Forms and analytics service Picreel compromised
+    *   Wargaming cannot take the place of real cyber protection
+    *   What cybersecurity can learn from bananas
+    *   Spike in Bots using ‘Cipher Stunting’ to avoid threat detection
+    
+    *   UNESCO gives gender equality recommendations for AI
+    *   Slack patches flaw that could allow attackers to hijack downloaded documents
+    *   Open database, poor decision making exposes PII of 8 million
+    *   New Jersey amends data breach law, expanding definition of personal info
+    *   Legislators block California data protection expansion
 
 Back to Top
 
