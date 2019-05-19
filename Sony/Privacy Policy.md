@@ -113,7 +113,7 @@ Watch the Latest “Spider-Man: Far From Home” Trailer
   
 Watch the full FF7 Remake trailer from #StateOfPlay:  https://play.st/2HalDtd  pic.twitter.com/YVZaO7E5s5
 
-5 days ago
+6 days ago
 
 View Tweet
 
