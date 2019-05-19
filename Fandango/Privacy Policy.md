@@ -304,10 +304,6 @@ Offers
     
     Get 2x the points pay with World Elite Mastercard®. BUY TICKETS
     
-*   Your Early Access to 'Rocketman'
-    
-    See it first on May 18th! BUY TICKETS
-    
 *   $3 Off Avengers: Endgame
     
     Be the first to own the biggest movie of the year. Use code ENDGAMEPRE and save $3. It will hit your Library as soon as it's available. PRE-ORDER NOW
