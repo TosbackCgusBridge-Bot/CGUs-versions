@@ -34,18 +34,18 @@ Shop Departments
     *   Watches
     *   View all Gifts
 
-Near YouFind a StoreBack UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLES UP TO 70% OFF WOMEN'S APPARELSELECT STYLESSHOP ALL
+Near YouFind a StoreBackUP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELSELECT STYLESSHOP ALL
 
-*   SPECIAL DEAL!
-    
-    $1499 sale
-    
-    was $34 Worthington Womens Short Sleeve Knit Polo ShirtAdd To Cart
 *   SPECIAL DEAL!
     
     $1599 sale
     
     was $37 Liz Claiborne Womens Crew Neck Sleeveless Lace Blouse(1)Add To Cart
+*   SPECIAL DEAL!
+    
+    $1499 sale
+    
+    was $34 Worthington Womens Short Sleeve Knit Polo ShirtAdd To Cart
 *   SPECIAL DEAL!
     
     $899 sale
@@ -60,7 +60,7 @@ Near YouFind a StoreBack UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLES UP T
     
     $1480 sale
     
-    was $37 Liz Claiborne 3/4 Tie Sleeve Knit Top(25)Add To Cart
+    was $37 Liz Claiborne 3/4 Tie Sleeve Knit Top(26)Add To Cart
 *   SPECIAL DEAL!
     
     $1760 sale
@@ -74,24 +74,28 @@ Near YouFind a StoreBack UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLES UP T
 
 Hot Sellers
 
-*   $3499 sale
+*   $1799 sale
     
-    was $60 | 41% offLiz Claiborne Womens Eastwick Strap Sandals(2)
-*   from$4499 sale
+    was $40 | 55% offSt. John's Bay Hiking Shorts(14)
+*   2 Or More $15.00 Each
     
-    was $89 - $159 | 49% offLiz Claiborne Ultimate Luxury Loft Mattress Pad(55)
+    $1799 sale
+    
+    was $40 | 55% offArizona Womens Seymour Adjustable Strap Flat Sandals(4)
 *   from$2499 sale
     
     was $50 | 30 - 50% offPop Highbar Womens Sneakers Slip-on(266)
-*   $2999 sale
+*   2 Or More $15.00 Each
     
-    was $60 | 50% offLiz Claiborne Womens Hardie Wedge Sandals(20)
-*   $3499 sale
+    $1799 sale
     
-    was $60 | 41% offLiz Claiborne Womens Gloria Heeled Sandals(6)
-*   from$1999 sale
+    was $36 | 50% offSt. John's Bay Men's Chino Short(16)
+*   from$1799 sale
     
-    was $25 - $35 | 14 - 20% offNike Benassi JDI Mens Slide Sandals(61)
+    was $54 | 53 - 66% offArizona Womens Tavari Gladiator Sandals(1)
+*   $2199 sale
+    
+    was $42 | 47% offArizona Basic Original Bootcut Jeans(602)
 
 Shop and Save at JCPenney
 
