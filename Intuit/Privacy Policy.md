@@ -34,7 +34,11 @@ Shop Departments
     *   Watches
     *   View all Gifts
 
-Near YouFind a StoreBackUP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELSELECT STYLESSHOP ALL
+Near YouFind a StoreBack
+
+X
+
+UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELSELECT STYLESSHOP ALL
 
 *   SPECIAL DEAL!
     
@@ -68,34 +72,36 @@ Near YouFind a StoreBackUP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 
     was $44 Liz Claiborne Womens Long Sleeve Open Front Cardigan(2)Add To Cart
 *   SPECIAL DEAL!
     
-    $1480 sale
+    $1199 sale
     
-    was $37 Liz Claiborne Womens Keyhole Neck 3/4 Sleeve Knit BlouseAdd To Cart
+    was $29 Worthington Womens Round Neck Short Sleeve Blouse(3)Add To Cart
 
 Hot Sellers
 
-*   $1799 sale
+*   $1999 sale
     
-    was $40 | 55% offSt. John's Bay Hiking Shorts(14)
+    was $60 | 66% offa.n.a Womens Meadow Wedge Sandals(9)
 *   2 Or More $15.00 Each
     
     $1799 sale
     
-    was $40 | 55% offArizona Womens Seymour Adjustable Strap Flat Sandals(4)
-*   from$2499 sale
-    
-    was $50 | 30 - 50% offPop Highbar Womens Sneakers Slip-on(266)
+    was $40 | 55% offArizona Womens Alma Strap Sandals(4)
 *   2 Or More $15.00 Each
     
     $1799 sale
     
-    was $36 | 50% offSt. John's Bay Men's Chino Short(16)
-*   from$1799 sale
+    was $40 | 55% offArizona Womens Antigua Adjustable Strap Flat Sandals(3)
+*   $3999 sale
     
-    was $54 | 53 - 66% offArizona Womens Tavari Gladiator Sandals(1)
-*   $2199 sale
+    was $55 | 27% offClarks Womens Brinkley Jazz Flip-Flops(208)
+*   BIG BUY!
     
-    was $42 | 47% offArizona Basic Original Bootcut Jeans(602)
+    from$1750 sale
+    
+    was $70 - $120 | 75% offJCPenney Home Plaza Embroidery Blackout Grommet-Top Curtain Panel(220)
+*   $1999 sale
+    
+    was $50 | 60% offArizona Forum Womens Footbed Sandals(8)
 
 Shop and Save at JCPenney
 
