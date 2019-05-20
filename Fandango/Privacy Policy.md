@@ -315,9 +315,9 @@ New + Coming soon
 *   Pokémon Detective Pikachu
 *   A Dog's Journey
 *   John Wick: Chapter 3 – Parabellum
-*   Fandango Early Access: Rocketman
 *   Aladdin (2019)
 *   Fandango Early Access: The Secret Life of Pets 2
+*   Rocketman
 *   Godzilla: King of the Monsters (2019)
 
 Experience + Explore
