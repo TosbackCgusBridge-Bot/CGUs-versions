@@ -93,6 +93,7 @@
 *   Loans Compare Lenders
     
     *   Personal loan rates
+    *   Personal loan reviews
     *   Auto loan rates
     *   Student loan rates
     
