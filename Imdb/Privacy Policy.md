@@ -65,9 +65,7 @@ If you have any concern about privacy at IMDb, please send us a thorough descrip
 
 Our business changes constantly. This Notice and the Terms and Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account.  We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
-**Examples of Information Collected**
-
-Information You Give Us:
+**Examples of Information Collected** Information You Give Us:
 
 You provide most such information when you register, search, post, participate in a contest or questionnaire, or communicate with us. For example, you provide information when you search for a movie, actor or director. provide information in our registration form. communicate with us by phone, e-mail, or otherwise. complete a questionnaire or a contest entry form. vote in a poll. provide movie reviews or information related to movies. participate in a discussion board. and employ our notification services. As a result of those actions, you might supply us with such information as your name, e-mail address, physical address, zip code, and phone number. your age and gender. the movies and actors you like or dislike. and your general movie preferences.
 
