@@ -28,9 +28,9 @@ Lenovo Explore Close
         *   Legion Y740
         *   Chromebooks
         
-        Sale
+        Memorial Day Sale
         
-        Deals on laptops, 2-in-1s, and more!
+        Enjoy amazing savings on laptops and 2-in-1's for school, gaming, home and more!
         
         *   Always Free Shipping
         *   Easy Returns
@@ -57,9 +57,9 @@ Lenovo Explore Close
         *   P Series Workstations
         *   IdeaCentre A340 AIO 24"
         
-        SALE
+        Memorial Day Sale
         
-        Save on desktops and all-in-ones for gaming, work and more!
+        Shop our assortment of desktops for home, gaming and more!
         
         *   Always Free Shipping
         *   Easy Returns
@@ -82,9 +82,9 @@ Lenovo Explore Close
         
         Take advantage of this multi-purpose tablet!
         
-        SALE
+        Memorial Day Sale
         
-        Save on tablets, smart home products, and more!
+        Save on tablets, smart home products and more!
         
         *   Always Free Shipping
         *   Easy Returns
@@ -112,9 +112,9 @@ Lenovo Explore Close
         *   Compatibility Finder
         *   Trending Accessories
         
-        SALE
+        Memorial Day Sale
         
-        Save on our wide assortment of accessories and electronics!
+        Enjoy deep savings on electronics for gaming, work and more!
         
         *   Always Free Shipping
         *   Easy Returns
@@ -134,6 +134,10 @@ Lenovo Explore Close
         ThinkVision P24h-10
         
         Shop this month's top rated spotlight deal
+        
+        Memorial Day Sale
+        
+        Shop this season's best deals on monitors for home, work and more!
         
         *   Always Free Shipping
         *   Easy Returns
@@ -189,9 +193,9 @@ Lenovo Explore Close
         *   Trade In Program
         *   Outlet
         
-        SALE
+        Memorial Day Sale
         
-        Shop the best deals on laptops, accessories and more!
+        This Memorial Day shop amazing deals on laptops, accessories and more!
         
         *   Always Free Shipping
         *   Easy Returns
