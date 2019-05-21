@@ -1,6 +1,6 @@
-Free Shipping Over $75See DetailsAccessible View
+Free Shipping Over $99See DetailsAccessible View
 
-*   My AccountSign InSign InNew Customer? Register Here
+*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -38,13 +38,58 @@ Near YouFind a StoreBack
 
 X
 
+BUY 1 GET 2 FREE WOMEN'S SHORTSSHOP ALLSELECT STYLESBUY 1 GET 2 FREE WOMEN'S SHORTSSELECT STYLESSHOP ALL
+
+*   BUY 1 GET 2 FOR FREE
+    
+    $32
+    
+    St. John's Bay Womens Mid Rise Bermuda ShortAdd To Cart
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $32
+    
+    a.n.a 5" Chino Short(14)Add To Cart
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $32
+    
+    St. John's Bay Womens Mid Rise 11" Bermuda Short(11)Add To Cart
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $32
+    
+    a.n.a 3.5" Chino Short(13)Add To Cart
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $32
+    
+    a.n.a 7" Chino Short(6)Add To Cart
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $32
+    
+    a.n.a Knit Waist Short(12)Add To Cart
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $37
+    
+    St. John's Bay Womens Mid Rise Bermuda Short(16)Add To Cart
+
 UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELSELECT STYLESSHOP ALL
 
-*   SPECIAL DEAL!
-    
-    $1599 sale
-    
-    was $37 Liz Claiborne Womens Crew Neck Sleeveless Lace Blouse(1)Add To Cart
 *   SPECIAL DEAL!
     
     $1499 sale
@@ -62,14 +107,19 @@ UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELS
     was $60 Worthington Womens Long Sleeve BlouseAdd To Cart
 *   SPECIAL DEAL!
     
-    $1480 sale
+    from$1319
     
-    was $37 Liz Claiborne 3/4 Tie Sleeve Knit Top(26)Add To Cart
+    Worthington Womens Round Neck Short Sleeve Knit Blouse(13)Add To Cart
 *   SPECIAL DEAL!
     
-    $1760 sale
+    $1799 sale
     
-    was $44 Liz Claiborne Womens Long Sleeve Open Front Cardigan(2)Add To Cart
+    was $44 St. John's Bay Belted Petite Capris(10)Add To Cart
+*   SPECIAL DEAL!
+    
+    $999 sale
+    
+    was $27 St. John's Bay Womens Short Sleeve Embroidered Blouse(9)Add To Cart
 *   SPECIAL DEAL!
     
     $1199 sale
@@ -78,30 +128,28 @@ UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELS
 
 Hot Sellers
 
-*   $1999 sale
+*   BUY MORE AND SAVE WITH CODE: VALUE7
     
-    was $60 | 66% offa.n.a Womens Meadow Wedge Sandals(9)
-*   2 Or More $15.00 Each
+    $36
     
-    $1799 sale
+    St. John's Bay Men's Chino Short(17)
+*   BUY MORE AND SAVE WITH CODE: VALUE7
     
-    was $40 | 55% offArizona Womens Alma Strap Sandals(4)
-*   2 Or More $15.00 Each
+    from$36after couponJCPenney Home Plaza Grommet-Top Lined Blackout Curtain Panel(1818)
+*   BUY MORE AND SAVE WITH CODE: VALUE7
     
-    $1799 sale
+    $30after couponSt. John's Bay Womens Irma Wedge Sandals(12)
+*   BUY MORE AND SAVE WITH CODE: VALUE7
     
-    was $40 | 55% offArizona Womens Antigua Adjustable Strap Flat Sandals(3)
-*   $3999 sale
+    $24after couponArizona Womens Tokyo Flat Sandals(1)
+*   BUY MORE AND SAVE WITH CODE: VALUE7
     
-    was $55 | 27% offClarks Womens Brinkley Jazz Flip-Flops(208)
-*   BIG BUY!
+    $37
     
-    from$1750 sale
+    Liz Claiborne S19 Ss Ruffle Woven Top Womens SplitvCrew Neck Short Sleeve Blouse(9)
+*   $4999 sale
     
-    was $70 - $120 | 75% offJCPenney Home Plaza Embroidery Blackout Grommet-Top Curtain Panel(220)
-*   $1999 sale
-    
-    was $50 | 60% offArizona Forum Womens Footbed Sandals(8)
+    was $59.50 | 16% offLevi's® 501® Original Fit Jeans(4124)
 
 Shop and Save at JCPenney
 
