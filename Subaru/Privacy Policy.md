@@ -389,6 +389,7 @@ About Subaru
 *   Our Company
 *   Love Promise
 *   Subaru of America Foundation
+*   Partnerships
 *   Diversity, Equity, and Inclusion
 *   News
 *   Join Our Team
