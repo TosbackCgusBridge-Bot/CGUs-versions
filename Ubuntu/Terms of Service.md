@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Kubeflow at KubeCon Europe 2019 in Barcelona ›
 *   Design and Web team summary – 10 May 2019 ›
 *   Introduction to snapcraft ›
 *   Ubuntu Server development summary – 15 May 2019 ›
 *   Ubuntu updates to mitigate new Microarchitectural Data Sampling (MDS) vulnerabilities ›
-*   Publish Your Unity Games in the Snap Store ›
