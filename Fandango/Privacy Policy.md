@@ -5,45 +5,44 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   John Wick: Chapter 3 – Parabellum
     *   Avengers: Endgame (2019)
     *   Pokémon Detective Pikachu
+    *   A Dog's Journey
     *   The Hustle (2019)
     *   The Intruder (2019)
     *   Long Shot
+    *   The Sun Is Also a Star
     *   Poms
     *   UglyDolls
     *   Breakthrough (2019)
-    *   Tolkien
-    *   Captain Marvel (2019)
-    *   The Curse of La Llorona
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   A Dog's Journey
-    *   John Wick: Chapter 3 – Parabellum
-    *   Fandango Early Access: Rocketman
-    *   The Sun Is Also a Star
-    *   Aniara
-    *   Ask for Jane
-    *   The Meanest Man in Texas
-    *   The Souvenir
-    *   The Third Wife
-    *   Trial by Fire (2019)
-    *   The Wandering Soap Opera
+    *   Aladdin (2019)
+    *   Booksmart
+    *   Brightburn
+    *   Fandango Early Access: The Secret Life of Pets 2
+    *   Echo in the Canyon
+    *   Funny Story
+    *   Halston (2019)
+    *   India's Most Wanted
+    *   The Proposal (2019)
+    *   The Tomorrow Man
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Aladdin (2019)
-    *   Brightburn
-    *   Booksmart
     *   Rocketman
     *   Godzilla: King of the Monsters (2019)
     *   Ma (2019)
     *   Dark Phoenix
+    *   Late Night (2019)
     *   The Secret Life of Pets 2
     *   Men in Black: International
+    *   Shaft (2019)
+    *   Toy Story 4
     *   See All Coming Soon
     
     Explore More
@@ -72,12 +71,12 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   The Week in Movie News: Robert Pattinson Might Be the New Batman, Chris Rock is Rebooting ‘Saw’ and more Read More
-    *   How the New Child’s Play Is Different Read More
-    *   Today in Movie Culture: Taron Egerton and Elton John ‘Rocketman’ Duet at Cannes, ‘John Wick: Chapter 3’ Director Commentary and More Read More
+    *   Next 3 Action Thrillers for Adults: 'Shaft,' 'Anna,' 'The Kitchen' Read More
+    *   Today in Movie Culture: How to Write a ‘John Wick’ Movie, the Secrets of Dog Acting and More Read More
     
     Explore Content
     *   Movie Reviews
-    *   Awards Watch
+    *   Summer Movie GUide
     *   Indie Movie Guide
     *   Family Guide
     *   House Of Screams
@@ -308,6 +307,10 @@ Offers
     
     Be the first to own the biggest movie of the year. Use code ENDGAMEPRE and save $3. It will hit your Library as soon as it's available. PRE-ORDER NOW
     
+*   Buy one ticket, get one free
+    
+    At Studio Movie Grill Sunset Walk Florida. Use code SMGSUNSET at checkout! (Terms Apply) BUY TICKETS
+    
 
 New + Coming soon
 
@@ -331,7 +334,7 @@ Experience + Explore
 
 Editorial Features
 
-*   Awards Watch
+*   Summer Movie Guide
 *   Indie Movie Guide
 *   Family Guide
 *   House Of Screams
