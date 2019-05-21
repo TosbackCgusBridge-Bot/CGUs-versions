@@ -84,7 +84,6 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Plants vs Zombies
     *   Apple Shooter: Arrow Game
     *   Slither.io
     *   Warbanner
@@ -96,6 +95,7 @@ View more results
     *   Short Life
     *   Ultimate Boxing
     *   Deer Hunter
+    *   Stickman Archer 2
 *   Top Categories
     
     *   Platform Games
@@ -153,8 +153,8 @@ View more results
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Fireboy and Watergirl: The Forest Temple
     *   The Impossible Quiz: World's Hardest Quiz
-    *   TenTrix
     *   Deal or No Deal
+    *   TenTrix
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Cut the Rope
     *   1001 Arabian Nights
