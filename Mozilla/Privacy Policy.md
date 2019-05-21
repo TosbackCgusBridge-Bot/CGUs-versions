@@ -128,7 +128,6 @@ Check out the Benefits
         
         *   Web Assembly
         *   Rust
-        *   Gaming
         *   Mixed Reality
     *   Resources
         
