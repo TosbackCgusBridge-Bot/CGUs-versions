@@ -204,28 +204,9 @@ If you have any questions on our Privacy Policy, or questions about our handling
 New York, NY 10001.**
 
 *   MOST POPULAR
-    
     *   Popular
     *   Emailed
-    *   Recent
-    
-    *   Machines running popular AV software go unresponsive after Microsoft Windows update
-    *   Anti-virus vendors named in Fxmsp's alleged source code breach respond
-    *   Wolters Kluwer still down from May 6 cyberattack
-    *   Article 29 Working Party still not happy with Windows 10 privacy controls
-    *   Ransomware ravages municipalities nationwide this week
-    
-    *   Researcher uncovered passwordless database used for SMS bombing
-    *   SC Media Reboot Leadership Awards announces its call for nominations
-    *   Slack patches flaw that could allow attackers to hijack downloaded documents
-    *   What cybersecurity can learn from bananas
-    *   Wargaming cannot take the place of real cyber protection
-    
-    *   Hackers add bogus scores to Trump's U.S. Golf Association account
-    *   UNESCO gives gender equality recommendations for AI
-    *   Slack patches flaw that could allow attackers to hijack downloaded documents
-    *   Open database, poor decision making exposes PII of 8 million
-    *   New Jersey amends data breach law, expanding definition of personal info
+    *   RecentLoading... Loading... Loading...
 
 Back to Top
 
@@ -257,8 +238,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of Haymarket Media’s Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
