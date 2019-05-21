@@ -7,34 +7,47 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   24 Hours Only: Epic Summer Steals Up to 80% Off
+    *   JOE'S Jeans Starting at $50 Incl. Sleep
+    *   JOE'S Jeans Men Up to 60% Off
+    *   Next-Level Staples ft. Lush
+    *   Luxe Swiss Watches ft. Mido
+    *   Trend Alert: Tie-Dye Styles &. More
+    *   Say It in Style: Graphic Tees &. Tanks
+    *   RapidLash
+    *   Stand Out for Summer: Sandals &. More
+    *   JOE'S Jeans Kids Up to 50% Off
+    *   Free Shipping: Down &. Memory Foam Essentials
+    *   Osmotics Cosmeceuticals Skin Care
+    *   Charles David
+    *   Travel Accessories Starting at $10
+    *   JOE'S Jeans &. More: Sun Up to 80% Off
+    *   $20 &. Under: Havaianas Men
+    *   Free Shipping: Art That Pops
+    *   Johnny Was
     *   Designer Sun Under $100 ft. Dolce &. Gabbana
+    *   Eliza J Dresses Incl. Plus &. Petites
+    *   Vacay All Day: Breezy Styles ft. Angie
     *   On-Trend Sterling Silver &. More Under $60
     *   Free Shipping: Kitchen Blowout
     *   Summer Hair Care Essentials Starting at $10
-    *   24 Hours Only: Men's Summer Steals Up to 80% Off
-    *   Kids' Style Blowout
-    *   Johnny Was
     *   Designer Bags, Shoes &. Accessories Up to 55% Off
-    *   Vacay All Day: Breezy Styles ft. Angie
+    
     *   philosophy: Bath, Body &. Fragrance
-    *   Eliza J Dresses Incl. Plus &. Petites
     *   Weekend Workout: Marika &. More
     *   Original Penguin
     *   Free Shipping: Solid Sheets &. More Up to 70% Off
     *   Bulova Watches Up to 70% Off
     *   Tommy Hilfiger Shoes
+    *   DR2 by Daniel Rainn &. Pleione Incl. Plus &. Petites
+    *   Honeydew Lingerie &. Sleep
     *   Free Shipping: Storage Must-Haves from $10
+    *   Spring Sweaters: 7 Seasons &. More
     *   Original Penguin Shoes Up to 70% Off
     *   Slam Dunk: NBA &. NCAA Clothing &. More
     *   Sparkle &. Shine: Sneakers ft. JoJo Siwa
     *   Best for Baby: Footies, Sets &. More
     *   Maternity Must-Haves
-    *   Honeydew Lingerie &. Sleep
-    *   DR2 by Daniel Rainn &. Pleione Incl. Plus &. Petites
     *   Samuel B Jewelry Starting at $20
-    *   Spring Sweaters: 7 Seasons &. More
-    
     *   Catherine Catherine Malandrino Up to 50% Off
     *   Enhance Your Natural Beauty: bareMinerals &. More
     *   Casually Chic: Tops, Shorts &. More ft. Heartloom
@@ -43,96 +56,73 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   K-Swiss &. More from $20
     *   Tahitian &. Akoya Pearl Jewelry &. More Under $80
     *   MIA &. MIA Amore from $20
+    
     *   K-Swiss Men &. More Up to 60% Off
+    *   Super-Soft Styles from WILDFOX Starting at $40
     *   Jessica Simpson Girls
     *   Kick Off Summer: Girls' Dresses
     *   K-Swiss Kids &. More Under $40
     *   Finishing Touches: Pillows, Rugs &. More
     *   Modern to Boho: Decor for Every Home
     *   Just Add Water: Swim &. Cover-Ups Up to 60% Off
-    *   Habitual Up to 60% Off
-    *   Trending Now: Summer Styles ft. Endless Rose
-    *   Franco Sarto from $40
-    *   Summer Mix: Scotch &. Soda Starting at $20
-    *   14K Gold Jewelry &. More Under $80
-    *   Short Stories: Styles Under $30
-    *   Kenneth Cole New York
     *   Kenneth Cole New York Shoes Up to 60% Off
-    *   Soludos from $40
     *   Vanity Planet Up to 75% Off
     *   Face Oils, Healing Mists &. More
-    *   Mules &. Slides from $20
-    
     *   Beach Ready: Towels Starting at $10
-    *   Sport These: Active Socks
     *   Free Shipping: Getaway-Inspired Art Up to 65% Off
-    *   Tween Scene: Habitual Kids &. More
-    *   Sleep Tight: Kids' Pajamas
-    *   Summer Active Steals Up to 65% Off
     *   Free Shipping: Chic Vanity Organizers &. More
-    *   Desk to Dinner: Men's Shoes ft. Johnston &. Murphy
     *   Free Shipping: Modern Outdoor Party Faves &. More
-    *   Joe Fresh Kids' Shoes
-    *   Ready, Set, Summer: Kids' Sets Under $25
-    *   Makeup Geek Starting at $10
-    *   Free Shipping: Bedding Essentials Up to 70% Off
     *   Free Shipping: Decals for Every Wall &. More
-    *   Free Shipping: Canvas Wall Art Up to 80% Off
-    *   Patio Upgrades: Pillows, Chair Covers &. More
-    *   Free Shipping: BergHOFF Kitchen &. BBQ Essentials
-    *   Free Shipping: Faux Plants &. Planters
-    *   Super-Soft Styles from WILDFOX Starting at $40
     *   David Donahue Suits &. More Up to 70% Off
     *   Dive In: Men's Swim Trunks &. More
     *   BCBGirls
-    *   Petit Lem Starting at $10
-    *   Kids' Denim Shop ft. True Religion
-    *   Men's Premium Denim
     *   Free Shipping: Luxury Bedding Essentials
+    *   Free Shipping: Bedding Essentials Up to 70% Off
+    *   Free Shipping: Canvas Wall Art Up to 80% Off
     *   Free Shipping: Great Gifts for Dad
+    *   Free Shipping: BergHOFF Kitchen &. BBQ Essentials
 *   WomenShop Sale Events
     
-    *   24 Hours Only: Epic Summer Steals Up to 80% Off
+    *   JOE'S Jeans Starting at $50 Incl. Sleep
+    *   Next-Level Staples ft. Lush
+    *   Luxe Swiss Watches ft. Mido
+    *   Trend Alert: Tie-Dye Styles &. More
+    *   Say It in Style: Graphic Tees &. Tanks
+    *   RapidLash
+    *   Stand Out for Summer: Sandals &. More
+    *   Osmotics Cosmeceuticals Skin Care
+    *   Charles David
+    *   Travel Accessories Starting at $10
+    *   JOE'S Jeans &. More: Sun Up to 80% Off
+    *   Johnny Was
     *   Designer Sun Under $100 ft. Dolce &. Gabbana
+    *   Eliza J Dresses Incl. Plus &. Petites
+    *   Vacay All Day: Breezy Styles ft. Angie
     *   On-Trend Sterling Silver &. More Under $60
     *   Summer Hair Care Essentials Starting at $10
-    *   Johnny Was
     *   Designer Bags, Shoes &. Accessories Up to 55% Off
-    *   Vacay All Day: Breezy Styles ft. Angie
     *   philosophy: Bath, Body &. Fragrance
-    *   Eliza J Dresses Incl. Plus &. Petites
     *   Weekend Workout: Marika &. More
+    
     *   Bulova Watches Up to 70% Off
     *   Tommy Hilfiger Shoes
-    *   Maternity Must-Haves
-    *   Honeydew Lingerie &. Sleep
     *   DR2 by Daniel Rainn &. Pleione Incl. Plus &. Petites
-    *   Samuel B Jewelry Starting at $20
+    *   Honeydew Lingerie &. Sleep
     *   Spring Sweaters: 7 Seasons &. More
+    *   Maternity Must-Haves
+    *   Samuel B Jewelry Starting at $20
     *   Catherine Catherine Malandrino Up to 50% Off
     *   Enhance Your Natural Beauty: bareMinerals &. More
     *   Casually Chic: Tops, Shorts &. More ft. Heartloom
-    
     *   Shape Up: Yummie by Heather Thomson
     *   Hot for Summer: Shoes Up to 70% Off
     *   K-Swiss &. More from $20
     *   Tahitian &. Akoya Pearl Jewelry &. More Under $80
     *   MIA &. MIA Amore from $20
+    *   Super-Soft Styles from WILDFOX Starting at $40
     *   Just Add Water: Swim &. Cover-Ups Up to 60% Off
-    *   Habitual Up to 60% Off
-    *   Trending Now: Summer Styles ft. Endless Rose
-    *   Franco Sarto from $40
-    *   Summer Mix: Scotch &. Soda Starting at $20
-    *   14K Gold Jewelry &. More Under $80
-    *   Short Stories: Styles Under $30
-    *   Soludos from $40
     *   Vanity Planet Up to 75% Off
     *   Face Oils, Healing Mists &. More
-    *   Mules &. Slides from $20
-    *   Sport These: Active Socks
-    *   Summer Active Steals Up to 65% Off
-    *   Makeup Geek Starting at $10
-    *   Super-Soft Styles from WILDFOX Starting at $40
     
     Shop By Category
     *   Clothing
@@ -140,57 +130,54 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Jewelry
     *   Lingerie
     *   Accessories
-    *   Watches
     *   Handbags
+    *   Watches
 *   MenShop Sale Events
     
-    *   24 Hours Only: Men's Summer Steals Up to 80% Off
+    *   JOE'S Jeans Men Up to 60% Off
+    *   Luxe Swiss Watches ft. Mido
+    *   Travel Accessories Starting at $10
+    *   JOE'S Jeans &. More: Sun Up to 80% Off
+    *   $20 &. Under: Havaianas Men
     *   Original Penguin
     *   Bulova Watches Up to 70% Off
+    
     *   Original Penguin Shoes Up to 70% Off
     *   Slam Dunk: NBA &. NCAA Clothing &. More
     *   K-Swiss Men &. More Up to 60% Off
-    
-    *   Kenneth Cole New York
     *   Kenneth Cole New York Shoes Up to 60% Off
-    *   Desk to Dinner: Men's Shoes ft. Johnston &. Murphy
     *   David Donahue Suits &. More Up to 70% Off
     *   Dive In: Men's Swim Trunks &. More
-    *   Men's Premium Denim
     
     Shop By Category
-    *   Shoes
     *   Clothing
-    *   Watches
+    *   Shoes
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
-    *   Kids' Style Blowout
+    *   JOE'S Jeans Kids Up to 50% Off
     *   Sparkle &. Shine: Sneakers ft. JoJo Siwa
     *   Best for Baby: Footies, Sets &. More
+    *   Maternity Must-Haves
     *   Jessica Simpson Girls
     *   Kick Off Summer: Girls' Dresses
     *   K-Swiss Kids &. More Under $40
-    *   Tween Scene: Habitual Kids &. More
-    
-    *   Sleep Tight: Kids' Pajamas
-    *   Joe Fresh Kids' Shoes
-    *   Ready, Set, Summer: Kids' Sets Under $25
     *   BCBGirls
-    *   Petit Lem Starting at $10
-    *   Kids' Denim Shop ft. True Religion
     
     Shop By Category
-    *   Girls' Sizes 7-16
     *   Girls' Sizes 2T-6X
     *   Girls' Shoes
-    *   Boys' Sizes 2T-7
-    *   Boys' Sizes 8-20
-    *   Boys' Shoes
+    *   Girls' Sizes 7-16
     *   Baby Girl
     *   Baby Boy
+    *   Boys' Shoes
+    *   Boys' Sizes 2T-7
+    *   Boys' Sizes 8-20
 *   HomeShop Sale Events
     
+    *   Free Shipping: Down &. Memory Foam Essentials
+    *   Free Shipping: Art That Pops
     *   Free Shipping: Kitchen Blowout
     *   Free Shipping: Solid Sheets &. More Up to 70% Off
     *   Free Shipping: Storage Must-Haves from $10
@@ -198,40 +185,39 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Modern to Boho: Decor for Every Home
     *   Beach Ready: Towels Starting at $10
     *   Free Shipping: Getaway-Inspired Art Up to 65% Off
+    
     *   Free Shipping: Chic Vanity Organizers &. More
     *   Free Shipping: Modern Outdoor Party Faves &. More
-    
-    *   Free Shipping: Bedding Essentials Up to 70% Off
     *   Free Shipping: Decals for Every Wall &. More
-    *   Free Shipping: Canvas Wall Art Up to 80% Off
-    *   Patio Upgrades: Pillows, Chair Covers &. More
-    *   Free Shipping: BergHOFF Kitchen &. BBQ Essentials
-    *   Free Shipping: Faux Plants &. Planters
     *   Free Shipping: Luxury Bedding Essentials
+    *   Free Shipping: Bedding Essentials Up to 70% Off
+    *   Free Shipping: Canvas Wall Art Up to 80% Off
     *   Free Shipping: Great Gifts for Dad
+    *   Free Shipping: BergHOFF Kitchen &. BBQ Essentials
     
     Shop By Category
     *   Home Decor
-    *   Kitchen &. Tabletop
     *   Bedding
-    *   Outdoor Living
-    *   Cleaning &. Organization
-    *   Bath
+    *   Kitchen &. Tabletop
     *   Luggage &. Travel
+    *   Cleaning &. Organization
+    *   Outdoor Living
+    *   Bath
     *   Rugs &. Doormats
 *   BeautyShop Sale Events
     
+    *   RapidLash
+    *   Osmotics Cosmeceuticals Skin Care
     *   Summer Hair Care Essentials Starting at $10
     *   philosophy: Bath, Body &. Fragrance
     *   Enhance Your Natural Beauty: bareMinerals &. More
     *   Vanity Planet Up to 75% Off
     *   Face Oils, Healing Mists &. More
-    *   Makeup Geek Starting at $10
     
     Shop By Category
-    *   Makeup
     *   Skin Care
     *   Hair Care
+    *   Makeup
     *   Bath &. Body
     *   Fragrance
     *   Nails
