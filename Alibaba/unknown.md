@@ -1,87 +1,43 @@
-<. Back to list Terms and Conditions Governing Request for Quotation
+<. Back to list Updated Rules for Preventing Duplicate Product Postings
 
-(Last Updated:  15 January 2020)
+Alibaba.com is been committed to building a commercial platform characterized fairness, openness and ease-of-use. We are therefore updating our rules for duplicate product postings. Please review these new posting rules carefully and take action accordingly.
 
-By using the Request for Quotation (“**RFQ**”) service, you agree that you have read, understood, and agreed to be bound by the Terms of Use, Privacy Policy, and Product Listing Policy of Alibaba.com (“**Alibaba Rules**”) , Alibaba Business Trust System service agreement as well as the following terms with regards to your submission of any buying request (“**Buying Request**”)RFQ: 
+Rules for avoiding duplicate product postings are intended to guarantee the quality of product posts on our platform. The number of duplicate postings, especially low-quality posts have a negative and direct effect on the ease of finding quality listings. After conducting thorough investigation into this issue, including consulting with a wide range of buyers and sellers, we have made the following changes to the product posting rules on Alibaba.com:
 
-1\. Prior to submitting any Buying Request, you must have activated your registered email with Alibaba.com in accordance with the requirements as prescribed by Alibaba.com.
+**Definition of duplicate product posting:**
 
-2\. Your Buying Request should be specific and clear. You should not post any request or information irrelevant to the RFQ service.
+This refers to the practice by some sellers to display the same commodity as several different items for sale. The unique features of each commodity should be clearly understandable from the product title, description, pictures etc. – if not, it will be regarded as a duplicate posting.
 
-3\. You shall not post any materials that are untrue, inaccurate, unlawful, invalid, or in violation of the Product Listing Policy of Alibaba.com.
+**Identifying duplicate product postings (include but not limited to the following conditions):**
 
-4\. To avoid causing any confusion, you should not post repeated Buying Requests.
+1\. In the case that the same seller sells the same products with same pictures, a highly similar title and attributes, it is regarded as a duplicate product post. All duplicate product postings will be treated a severe violation of the posting rules.
 
-5\. System generated emails will be sent to you to facilitate notifications of the Buying Request status and quotation updates under the RFQ service. If you no longer wish to receive these emails, you may directly go to your account and turn off the service by closing out your previous request.
+**Consequences of duplicate product postings**
 
-6\. You represent and warrant that all information and materials provided and/or uploaded by you shall be true, accurate and not misleading.
+If you are repeatedly found to be in violation of the posting rules by posting duplicate products, you will receive a number of warnings. If you fail to comply with the rules, your case will be escalated accordingly.
 
-7\. You undertake that you shall not publish any information or conduct any act whatsoever that infringe the rights of any third party, including but not limited to any intellectual property rights, rights of publicity, rights of personality, rights of privacy, and any other rights of third parties not specifically identified in this clause.
+1\. Our system will run regular checks to identify repeat posts. When discovered, these posts will be removed leaving only the highest quality unique post live.
 
-8\. In the event that you have violated any of the terms stated above, Alibaba.com shall have the right to take any enforcement actions reasonably necessary. Examples of such enforcement actions include but not limited to deleting your posted Buying Request, restricting your rights to post the Buying Request, issuing warnings to you, or terminating your membership agreement with Alibaba.com, and etc.
+2\. Multiple duplicate post instances will cause your minisite shop ranking to be lowered. In serious cases, shops will be suspended or closed.  ;
 
-9\. You shall not submit any information or materials, in particular during your use of the audio and video submission services of the Alibaba.com mobile app, that is/are unlawful in any relevant country or jurisdiction and/or are in breach of any website rules adopted by Alibaba.com. In addition, you shall not submit any material that may not be restricted or prohibited by law but are nonetheless controversial, including but not limited to:
+**Advice for operators:**
 
-      a. Information that encourages illegal activities;
+1\. Make sure repeat post are edited or deleted in a timely manner (the seller may conduct self-check and optimization with the Commodity Diagnosing and Optimizing Tool in the Search &. Diagnosis Center)
 
-      b. Items that are racially, religiously or ethnically derogatory, or that promote hatred, violence, racial or religious intolerance;
+2\. When posting new products, make sure to differentiate the products you display
 
-      c. Giveaways, lotteries, raffles, or contests;
+**A product posting is a duplicate if:**
 
-      d. Stocks, bonds, investment interest and other securities. and
+1\. The same product is displayed multiple times, without any meaningful differentiation in term of product title, description and picture(s)
 
-      e. Pornographic materials/items that are sexual in nature.
+2\. The same product is displayed multiple times in the form of different sizes, specifications and colors for
 
-10\. The process of matching any Buying Request will be conducted by an algorithm for managing search results and the algorithm will match the Buying Request based on amongst others keywords and description entered into by suppliers on Alibaba.com platform. For the avoidance of doubt, Alibaba.com does not play any active role and will not intervene in the matching process of any Buying Request. Alibaba.com does not guarantee any accuracy and/or correctness of the search results of any Buying Request, and shall not be held liable in respect thereof.   
+3\. The same product is displayed multiple times in the form of different pictures
 
-11\. Typically, a high quality Buying Request will likely to receive quotations from sellers of higher standard. Some of the criteria used to determine the quality of a Buying Request shall include but not limited to the degree of completion of the information in the Buying Request, the order quantity in the Buying Request, whether you as a buyer who submitted the Buying Request has completed third party verification process, the activeness of your account on Alibaba.com.
+4\. The same product is displayed multiple times with the same specifications defined by sellers
 
-12\. Notwithstanding the above, Alibaba.com reserves the right to refuse any Buying Request that does not meet any criteria that are regarded as appropriate and/or required by Alibaba.com, in its sole discretion. Examples of such Buying Request include, but not limited to, Buying Request for products that do not belong to supplier’s designated category of products on Alibaba.com, Buying Request that does not correspond to the products, Buying Request with missing information, Buying Request for banned and/or restricted products, Buying Request that infringes any terms and conditions for the use of RFQ service or any other website rules adopted by Alibaba.com, and etc.
+5\. The same product is displayed multiple times with only differentiation being for various non-critical properties
 
-13\. You acknowledge and agree that Alibaba.com may collect your information, including but not limited your company name, office address, contact name, email address, telephone, mobile phone and fax. In providing the aforementioned information to Alibaba.com, you hereby agree that Alibaba.com may use, process, transfer your information to any third party agent, supplier, contractor and/or service provider (“**External Third-Party**”) for the purposes of (a) processing the Buying Request. (b) sending administrative, marketing and/or promotional materials to you. (c) contacting you for satisfaction surveys or market research. (d) conducting data cleansing, verification, validation and supplementation. and/or (e) any other purposes relating to legal, safety and/or security purposes. You hereby agree that the External Third-Party may contact you for any purpose as contemplated hereunder.
+6\. The same product is displayed multiple times without significant differentiation between specifications
 
-14\. You acknowledge and agree that Alibaba.com may use your membership information, including but not limited to your company profile, profile pictures, transaction history, contact person information, and etc., to market and promote the RFQ and the Alibaba International Website (URL:  http://www.alibaba.com) and also to support and operate the various programs and the RFQ service offered to members from time to time.    
-
-15\. You acknowledge and agree that Alibaba.com may use information submitted by you pursuant to any Buying Request including, but not limited to, any related product information, product pictures, product specifications therein, and etc., to support and operate various programs, services, marketing initiatives, and other services offered by the RFQ service to members from time to time. 
-
-16\. Alibaba.com reserves the right to amend, vary and/or modify these rules upon notice. In the event of disputes, the decision of Alibaba.com shall be final and binding.
-
-17\. You agree that these terms are governed, interpreted and enforced by the laws of Hong Kong, without regard to its conflict of laws principles. Any and all legal actions, claims or proceedings arising out of, or in connection herewith must be brought in a court of competent jurisdiction in Hong Kong.
-
-**Terms and Conditions Governing Request for Quotation**
-
-(Last Updated:  September 2014)
-
-By using the Request for Quotation service, you agree that you have read, understood, and agreed to be bound by the Terms of Use, Privacy Policy, and Product Listing Policy of Alibaba.com (“Alibaba Rules”) , Alibaba Business Trust System service agreement as well as the following terms with regards to your Buying Request: 
-
-1\. Your Buying Request should be specific and clear. You should not post any request or information irrelevant to the Request for Quotation service.
-
-2\. You shall not post any materials that are untrue, inaccurate, unlawful, invalid, or in violation of the Product Listing Policy of Alibaba.com.
-
-3\. To avoid causing any confusion, you should not post repeated Buying Requests.
-
-4\. System generated emails will be sent to you to facilitate notifications of Buying Request status and quotation updates pursuant to your request under the Request for Quotation service.  If you no longer wish to receive these emails, you may directly go to your account and cancel the service by closing out your previous request.
-
-5\. You undertake that you shall not publish any information or conduct any act whatsoever that infringe the rights of any third party, including but not limited to any intellectual property rights, rights of publicity, rights of personality, rights of privacy, and any other rights of third parties not specifically identified in this clause.
-
-6\. In the event that you have violated any of the terms stated above, Alibaba.com shall have the right to take any enforcement actions reasonably necessary. Examples of such enforcement actions include but not limited to deleting your posted Buying Request, restricting your rights to post the Buying Request, issuing warnings to you, or terminating your membership agreement with Alibaba.com, and etc.
-
-7.  You shall not submit any information or materials, in particular during your use of the audio and video submission services of the Alibaba.com mobile app, that is/are unlawful in any relevant country or jurisdiction and/or are in breach of any website rules adopted by Alibaba.com.  In addition, you shall not submit any material that may not be restricted or prohibited by law but are nonetheless controversial, including but not limited to:
-
-     1).Information that encourage illegal activities;
-
-     2).Items that are racially, religiously or ethnically derogatory, or that promote hatred, violence, racial or religious intolerance;
-
-     3).Giveaways, lotteries, raffles, or contests;
-
-     4).Stocks, bonds, investment interest and other securities. and
-
-     5). Pornographic materials/items that are sexual in nature.
-
-8\.  Alibaba.com reserves the right to match any Request for Quotation (“RFQ”) only with quotations that are deemed to be suitable for the RFQ.  Alibaba.com also reserves the right to refuse to match any RFQ with quotations that do not meet any criteria as deemed appropriate and required by Alibaba.com in its sole discretion.  Examples of such quotations include, but are not limited to, quotations for products that do not belong to the supplier’s designated category of products on Alibaba.com, quotations that do not correspond to the products, quotations with missing information, quotations for banned and/or restricted products, quotations that infringe any terms and conditions for the use of Request for Quotation or any other website rules adopted by Alibaba.com, and etc.
-
-9.  You acknowledge and agree that Alibaba.com may provide your contact information, including but not limited your contact name,email address, telephone, mobile phone and fax,to suppliers for them to contact you for further business opportunities. 
-
-10.  You acknowledge and agree that Alibaba.com may use your membership information, including but not limited to your company profile, profile pictures, transaction history, contact person information, and etc., to market and promote Request for Quotation and the Alibaba International Website (URL:  http://www.alibaba.com) and also to support and operate the various programs and services of Request for Quotation offered to members from time to time.    
-
-11.  You acknowledge and agree that Alibaba.com may use your product listings and related information, including but not limited to your product pictures, product listings, product specifications, and etc., to support and operate various programs, services, marketing initiatives, and other services offered by Request for Quotation to members from time to time.
+It is our hope that these updated rules will help all of our users conduct safe, fair and equitable trade on our world-leading platform.
