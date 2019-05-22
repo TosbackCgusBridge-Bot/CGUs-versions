@@ -1,12 +1,3 @@
-Terms of Use Notice Privacy Policy Privacy Policy
-
-*   Terms of Use Notice
-*   Privacy Policy
-
-Terms of Use Notice
-
-Privacy Policy
-
 ASUS Privacy Policy  
   
 
