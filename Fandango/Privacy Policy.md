@@ -307,9 +307,9 @@ Offers
     
     Be the first to own the biggest movie of the year. Use code ENDGAMEPRE and save $3. It will hit your Library as soon as it's available. PRE-ORDER NOW
     
-*   Buy one ticket, get one free
+*   Opening Night Fan Event
     
-    At Studio Movie Grill Sunset Walk Florida. Use code SMGSUNSET at checkout! (Terms Apply) BUY TICKETS
+    You could be first to experience Disney’s Aladdin! PLUS, receive a digital download of the film’s soundtrack &. more! BUY TICKETS
     
 
 New + Coming soon
