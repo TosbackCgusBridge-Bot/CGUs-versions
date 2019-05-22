@@ -95,7 +95,7 @@ View more results
     *   Short Life
     *   Ultimate Boxing
     *   Deer Hunter
-    *   Stickman Archer 2
+    *   Special Squad Vs Zombies: Killing Game
 *   Top Categories
     
     *   Platform Games
@@ -126,8 +126,8 @@ View more results
     *   Fireboy and Watergirl 5: Elements
     *   FNAF World
     *   Five Nights at Freddy's 5
-    *   Troll Face Quest: Video Memes and TV Shows:Part 1
     *   Dumb Ways to Die 2
+    *   Troll Face Quest: Video Memes and TV Shows:Part 1
 *   Top Categories
     
     *   Bubble Shooter
@@ -159,7 +159,7 @@ View more results
     *   Cut the Rope
     *   1001 Arabian Nights
     *   Bubble Machine: 2 Player Game
-    *   Burger Restaurant Express
+    *   Google Feud
 *   Top Categories
     
     *   Dress Up
@@ -250,8 +250,8 @@ View more results
     *   Table Tennis World Tour
     *   Ultimate Boxing
     *   Archery World Tour
-    *   8-Ball
     *   Bouncy Dunk
+    *   8-Ball
     *   Playing Soccer
     *   Neon Biker
     *   Billiards Master Pro
