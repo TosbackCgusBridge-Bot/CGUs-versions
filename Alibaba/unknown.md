@@ -1,59 +1,37 @@
-<. Back to list Rules for Handling Unauthorized Use of A Third Party's Information
+<. Back to list Terms and Conditions Governing Request for Quotation
 
-Version No.: June 7, 2017                                        Effective Date: July 3, 2017
+(Last Updated:  September 2014)
 
-Alibaba.com has been committed to acting in good faith and actively maintaining a good market order of the platform. In order to curb unauthorized use of others’ information and enhance user experience, these Rules are hereby formulated in accordance with the Rules for Transactions on Alibaba.com.
+By using the Request for Quotation service, you agree that you have read, understood, and agreed to be bound by the Terms of Use, Privacy Policy, and Product Listing Policy of Alibaba.com (“Alibaba Rules”) , Alibaba Business Trust System service agreement as well as the following terms with regards to your Buying Request: 
 
-**Article 1. Definition of Unauthorized Use of** **A Third Party** **’s Information**
+1\. Your Buying Request should be specific and clear. You should not post any request or information irrelevant to the Request for Quotation service.
 
-Users of Alibaba.com (“Alibaba.com”) shall not use the services provided on the website to engage in any acts using a third party’s information without the authorization of information owner, which include but are not limited to:
+2\. You shall not post any materials that are untrue, inaccurate, unlawful, invalid, or in violation of the Product Listing Policy of Alibaba.com.
 
-1\. Unauthorized use of a third party’s name
+3\. To avoid causing any confusion, you should not post repeated Buying Requests.
 
-2\. Unauthorized use of a third party’s contact information
+4\. System generated emails will be sent to you to facilitate notifications of Buying Request status and quotation updates pursuant to your request under the Request for Quotation service.  If you no longer wish to receive these emails, you may directly go to your account and cancel the service by closing out your previous request.
 
-3\. Unauthorized use of a third party’s certificate
+5\. You undertake that you shall not publish any information or conduct any act whatsoever that infringe the rights of any third party, including but not limited to any intellectual property rights, rights of publicity, rights of personality, rights of privacy, and any other rights of third parties not specifically identified in this clause.
 
-4\. Unauthorized publishing of a third party’s office photo
+6\. In the event that you have violated any of the terms stated above, Alibaba.com shall have the right to take any enforcement actions reasonably necessary. Examples of such enforcement actions include but not limited to deleting your posted Buying Request, restricting your rights to post the Buying Request, issuing warnings to you, or terminating your membership agreement with Alibaba.com, and etc.
 
-5\. Others
+7.  You shall not submit any information or materials, in particular during your use of the audio and video submission services of the Alibaba.com mobile app, that is/are unlawful in any relevant country or jurisdiction and/or are in breach of any website rules adopted by Alibaba.com.  In addition, you shall not submit any material that may not be restricted or prohibited by law but are nonetheless controversial, including but not limited to:
 
-The principle for handling complaint is that the complainant should be the information owner and no complaint from a third party will be accepted.
+     1).Information that encourage illegal activities;
 
-**Article 2.     Rules for Punishment of Unauthorized Use of A Third Party’s Information**
+     2).Items that are racially, religiously or ethnically derogatory, or that promote hatred, violence, racial or religious intolerance;
 
-**Unauthorized Use of A Third Party’s Information**
+     3).Giveaways, lotteries, raffles, or contests;
 
-**Response to Complaint**
+     4).Stocks, bonds, investment interest and other securities. and
 
-**Punishment**
+     5). Pornographic materials/items that are sexual in nature.
 
-The first complaint is verified and the complainee deletes the improper information during the response period
+8\.  Alibaba.com reserves the right to match any Request for Quotation (“RFQ”) only with quotations that are deemed to be suitable for the RFQ.  Alibaba.com also reserves the right to refuse to match any RFQ with quotations that do not meet any criteria as deemed appropriate and required by Alibaba.com in its sole discretion.  Examples of such quotations include, but are not limited to, quotations for products that do not belong to the supplier’s designated category of products on Alibaba.com, quotations that do not correspond to the products, quotations with missing information, quotations for banned and/or restricted products, quotations that infringe any terms and conditions for the use of Request for Quotation or any other website rules adopted by Alibaba.com, and etc.
 
-Serious warning without deducting points
+9.  You acknowledge and agree that Alibaba.com may provide your contact information, including but not limited your contact name,email address, telephone, mobile phone and fax,to suppliers for them to contact you for further business opportunities. 
 
-The first complaint is verified and the complainee fails to respond within the required response period
+10.  You acknowledge and agree that Alibaba.com may use your membership information, including but not limited to your company profile, profile pictures, transaction history, contact person information, and etc., to market and promote Request for Quotation and the Alibaba International Website (URL:  http://www.alibaba.com) and also to support and operate the various programs and services of Request for Quotation offered to members from time to time.    
 
-Deducting 2 points and deleting the improper information that includes a third party’s information
-
-The second or subsequent complaint is verified
-
-Deducting 6 points and deleting the improper information that includes a third party’s information
-
-Notes: 1. The response period is three working days. If there is no response within such period, it shall be deemed as the complaint has been verified.
-
-      2. There is a protection period of 5 calendar days for the complaints about unauthorized use of a third party’s information, i.e., if several complaints are verified in 5 calendar days, the points will be deducted only once. Such protection period is subject to the date on which the complaint is settled.
-
-      3. Where any company uses a third party’s information without authorization, causing material adverse effects, and refuses to cooperate, Alibaba reserves the right to delete the information from the complainee’s account.
-
-Refer to Rules for Enforcement Action against Non-compliance on Alibaba.com  for the standards for handling the corresponding accounts (unless otherwise specified, the penalty points are cumulative on the whole site of Alibaba.com)
-
-**Article 3. Process for Handling Complaints Against Unauthorized Use of A Third Party’s Information**
-
-**Article 4. Miscellaneous**
-
-1\. Alibaba shall have the right to promptly amend these Rules based on the amendments to laws and regulations, changes in business environment or other reasons and to announce the same. The amended version of these Rules will come into force as of the date specified in the announcement.
-
-2\. These Rules are an integral part of the Rules for Transactions on Alibaba.com. In case of any inconsistency between these Rules and the Rules for Transactions on Alibaba.com, these Rules shall prevail. For any matters not covered herein, the  Rules for Transactions on Alibaba.com shall apply.
-
-3. In the event of inconsistency, ambiguity or conflict between the Chinese and the non-Chinese version of these Rules, the Chinese version shall prevail.
+11.  You acknowledge and agree that Alibaba.com may use your product listings and related information, including but not limited to your product pictures, product listings, product specifications, and etc., to support and operate various programs, services, marketing initiatives, and other services offered by Request for Quotation to members from time to time.
