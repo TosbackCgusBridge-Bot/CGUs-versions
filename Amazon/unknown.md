@@ -1,17 +1,59 @@
-Amazon Advertising Preferences
+Amazon Device Support  › Amazon Fire TV Devices Help› Amazon Services Terms of Use
 
-Interest-based ads are sometimes referred to as personalized or targeted ads. We show interest-based ads to display features, products, and services that might be of interest to you. For more information see our Interest-Based-Ads notice.
+**Last updated: 16 May, 2017**
 
-Submit Your Preference Show me interest-based ads provided by Amazon Do not show me interest-based ads provided by AmazonSubmit
+This is an agreement between you and Amazon Digital Services LLC (with its affiliates, “Amazon” or “we”). Please read these Amazon Services Terms of Use, the Amazon.com Privacy Notice, the Amazon.com Conditions of Use, and the other applicable rules, policies, and terms available at the Amazon.com website, or on or through the Amazon Software (collectively, this “Agreement”) before using the Amazon Services on a Product. By using the Amazon Services, you agree to be bound by the terms of this Agreement. If you do not accept the terms of this Agreement, then you may not use the Amazon Services and you may return your Product in accordance with any applicable return policy. Your use of any of the Amazon Services is subject to any additional rules, policies, and terms that apply to those Amazon Services.
 
-If you choose not to be shown interest-based ads above, we will no longer show interest-based ads to you. Even if you choose not to see interest-based ads, you may still see personalized product recommendations and other similar features on Amazon and its affiliated sites unless you've adjusted Your Recommendations in your Account Settings or Your Browsing History. You may also see ads provided by Amazon, they just will not be based on your interests. For more general information, please see our Privacy Notice.
+For the purpose of these Amazon Services Terms of Use:
 
-Choosing not to see interest-based ads will not affect other services that use cookies and information may still be collected for other purposes. You can manage cookies in the privacy settings of the web browser you are using. Further details on how we use cookies and how you can manage cookies are contained in our Cookies notice.
+“Amazon Services” means the provision of Amazon Software, Digital Content, and support and other services that we provide Product users.
 
-We use cookies to manage your choice to not receive interest-based ads. If you delete these cookies or use a different browser, you will have to choose not to receive interest-based ads again. Similarly, if your browser restricts or does not support cookies, we may not be able to remember your choice not to see interest-based ads on that browser. To help avoid having to repeat your choice you can login with your Amazon account and make the selection above to enable us to honor your choice whenever we recognize your Amazon account.
+“Amazon Software” means all software we make available to you for use on a Product, but excludes third-party Digital Content.
 
-Amazon participates in the Digital Advertising Alliance (DAA). You can obtain further information on interest-based ads and opt-out of receiving interest-based ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the DAA’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt out pages on the NAI website and DAA website.
+“Digital Content” means digitized content (including third-party content), such as videos, music, apps, games, skills, photos, audio, books, newspapers, magazines, and related features and functionality.
 
-Share your feedback
+“Product” means a Fire TV Edition television that is developed and manufactured by a third party and enables access to Amazon Services.
 
-Tell us what you think about ads from Amazon by sending an e-mail to ad-feedback@amazon.com
+**1\. Amazon Services, Amazon Software**
+
+**a. Use of Amazon Services on a Product.** To use certain Amazon Services on a Product, you must have your own Amazon.com account, be logged in to your account on the Product, and have a valid payment method associated with your account.
+
+**b. Use of the Amazon Software.** Except as provided in this section, you may use the Amazon Software only on your Product. For additional terms that apply to the Amazon Software, see the Additional Amazon Software Terms contained in the Amazon.com Conditions of Use and the terms contained in the Legal section of the Settings menu of the Amazon Services on your Product or the Amazon Fire TV Remote App. Amazon Software licensed under an open source license is governed solely by the terms of that open source license.
+
+**c. Voice Services.** Your Product may have features that allow you to access Alexa voice services or perform certain tasks, such as control your Product, perform a search, check the weather, or operate other connected products. When you use voice services, we process your voice input and other information (such as location) in the cloud to respond to your requests and to improve your experience and our services. Your use of Alexa is subject to the Alexa Terms of Use (www.amazon.com/alexa/terms). Learn more about Alexa voice services and how it works at www.amazon.com/alexa/voice, including how to delete voice recordings associated with your account.
+
+**2\. Connectivity and Availability**
+
+**a. Internet Connectivity.** Amazon Services may require an Internet connection from a third-party provider in order to use some features. In such cases, your Internet connection is subject to the fees, restrictions, terms and limitations imposed by your provider.
+
+**b. Availability.** Some Amazon Services may be unavailable, vary (by product or geography, for example), be offered for a limited time, or require separate subscriptions.
+
+**3\. General**
+
+**a. Information Received.** The Amazon Software may provide us with information about your Product, use of the Product, and use of Digital Content, other content, and the Amazon Services (such as search queries, installed applications, viewing and usage data, available memory, log files, network diagnostics, voice information, and connectivity). Manufacturers of your Product may also provide us with similar information. Information provided to Amazon may be processed in the cloud to improve your experience and our services, and may be stored on servers outside the country in which you live. We will handle any information we receive in accordance with the Amazon.com Privacy Notice. Please visit the Settings menu of your Product if you prefer to opt out of providing certain information.
+
+**b. Information Provided To Others.** You are responsible for any information you provide to others, including third-party Digital Content providers. Use of information you provide to these third parties will be subject to any privacy notice or other terms that they may provide to you.
+
+**c. Changes to Amazon Services. Amendments.** We may change, suspend, or discontinue the Amazon Services, or any part of them, at any time without notice. We may amend any of this Agreement's terms at our sole discretion by posting the revised terms on the Amazon.com website. Your continued use of Amazon Services after the effective date of the revised Agreement constitutes your acceptance of the terms.
+
+**d. Termination.** Your rights under this Agreement will automatically terminate without notice if you fail to comply with any of its terms. In case of such termination, Amazon may immediately revoke your access to the Amazon Services. Amazon's failure to insist upon or enforce your strict compliance with this Agreement will not constitute a waiver of any of its rights.
+
+**e. Disputes/Binding Arbitration. Any dispute or claim arising from or relating to this Agreement, a Product, the Amazon Software, or the Amazon Services is subject to the binding arbitration, governing law, disclaimer of warranties, limitation of liability, and all other terms in the Amazon.com Conditions of Use. You agree to those terms by entering into this Agreement, or using a Product or the Amazon Services.**
+
+**f. Disclaimer of Warranties and Limitation of Liability. Products are developed and manufactured by third parties, and we have no responsibility or liability for any aspect of Products except the Amazon Services. Without limiting the Disclaimer of Warranties and Limitation of Liability terms in the Amazon.com Conditions of Use, unless otherwise required by applicable law, in no event will our or our licensors' aggregate liability with respect to any claim arising from or related to this Agreement or your use of the Amazon Services exceed fifty dollars ($50.00).**
+
+**g. Contact Information.** For help with the Amazon Services, Digital Content, Amazon Software or resolving other related issues, please contact Customer Service at www.amazon.com/contact-us/.
+
+Was this information helpful?
+
+Yes No
+
+Thank you for your feedback.
+
+Please select what best describes the information:
+
+This information is confusing or wrong This isn't the information I was looking for I don't like this policy Submit
+
+Thanks! While we're unable to respond directly to your feedback, we'll use this information to improve our online Help.
+
+Go
