@@ -57,9 +57,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, Utah. Online, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, UT. On the internet, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 2% 
+What is PeekScore? Public Records &. Background Checks
 
 Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -88,8 +88,6 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     Known Locations: Lusby MD, 20657, New Bern NC 28562, Cleveland OH 44134 Possible Relatives: Brenda Sue Policy, Nancy L Roeland
     
 *   Show Less ...
-
-2% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -135,8 +133,6 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-2% 
-
 Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
     Known Cities: Casselberry FL, 32707, Pueblo CO 81004, Winter Park FL 32792
@@ -164,8 +160,6 @@ Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 3270
     Known Cities: Lusby MD, 20657, New Bern NC 28562, Cleveland OH 44134 Possible Relatives: Brenda Sue Policy, Nancy L Roeland
     
 *   Show Less ...
-
-2% 
 
 *   Ms Amy A Persenaire, age 45, Lake Worth, FL View Full Report
     
@@ -250,7 +244,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 2% 
+Facebook
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -310,7 +304,7 @@ Facebook 2% 
     
 *   Show Less ...
 
-Twitter 2% 
+Twitter
 
 *   Mental Health NIMH - NIMHgov
     
@@ -356,23 +350,23 @@ Twitter 2% 
     
 *   Show Less ...
 
-Instagram 2% 
+Instagram
 
+*   Wettest Windex - privacy\_policy\_update
+    
+*   Social Media Privacy policy - socialmediaprivacypolicy
+    
 *   \_\_privacypolicy - \_\_privacypolicy
     
 *   Privacy policy - lailakammarh
     
-*   Privacy Policy. - privacypolicy.6974
-    
-*   Wettest Windex - privacy\_policy\_update
-    
 *   Show More ...
 
-*   Social Media Privacy policy - socialmediaprivacypolicy
-    
 *   Konstantin - \_privacy.\_.policy\_
     
 *   INSTAGRAM PRIVACY POLICY - insta\_help\_privacy
+    
+*   Privacy Policy. - privacypolicy.6974
     
 *   TidePod Eater - childrens.privacy.policy
     
@@ -402,7 +396,7 @@ Instagram 2% 
     
 *   Show Less ...
 
-Myspace 2% 
+Myspace
 
 *   Privacy Policy - 49086242
     
@@ -426,7 +420,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Social Profiles 2% 
+Social Profiles
 
 *   Lauren Weinstein
     
@@ -468,7 +462,7 @@ Social Profiles 2% 
     
 *   Show Less ...
 
-Pinterest 2% 
+Pinterest
 
 *   Alishachawla2730 Privacypolicy - alishachawla273
     
@@ -477,7 +471,7 @@ Pinterest 2% 
 *   Policy Privacy - policyp
     
 
-Wikipedia 2% 
+Wikipedia
 
 *   Privacy policy
     
@@ -492,7 +486,7 @@ Wikipedia 2% 
     Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
     
 
-Music 2% 
+Music
 
 *   Pandora
     
@@ -534,7 +528,7 @@ Music 2% 
     
 *   Show Less ...
 
-Web Search 2% 
+Web Search
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -579,38 +573,6 @@ Web Search 2% 
     yahoo.com
     
 *   Show Less ...
-
-Images 2% 
-
-3
-
-20
-
-20
-
-7
-
-facebookx
-
-twitterx
-
-instagramx
-
-myspacex
-
-10
-
-facebookx
-
-twitterx
-
-instagramx
-
-myspacex
-
-googleplusx
-
-pinterestx
 
 *   About PeekYou
 *   Privacy Policy
