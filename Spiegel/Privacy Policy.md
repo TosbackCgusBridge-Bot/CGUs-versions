@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   21\. Mai 2019
+*   22\. Mai 2019
 *   Abo
-*   DAX 12.041,29ǀ
+*   DAX 12.143,47ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
