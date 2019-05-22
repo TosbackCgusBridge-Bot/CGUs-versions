@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1179 games
-*   Most Popular Games 19193 games
+*   Best of new games 1188 games
+*   Most Popular Games 19196 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,086 games
-*   Driving &. Racing Games 6,792 games
+*   Games for girls 24,088 games
+*   Driving &. Racing Games 6,794 games
 *   Strategy &. RPG Games 2,416 games
 *   Management Games 3,651 games
-*   Thinking Games 12,076 games
-*   Action &. Adventure Games 16,070 games
-*   Sports Games 2,228 games
-*   Shooting Games 8,445 games
+*   Thinking Games 12,079 games
+*   Action &. Adventure Games 16,076 games
+*   Sports Games 2,229 games
+*   Shooting Games 8,446 games
 *   Fighting Games 2,088 games
-*   Skill Games 11,090 games
-*   Arcade &. Classic Games 12,882 games
-*   Fun &. Crazy Games 2,521 games
+*   Skill Games 11,092 games
+*   Arcade &. Classic Games 12,885 games
+*   Fun &. Crazy Games 2,522 games
 
 Play with friends  
-Powered by Y8 Account 126 Y8 Multiplayer Games 1,985 Y8 High Score Games 1,140 Y8 Achievements Games 815 Y8 Screenshots Games 1,416 Y8 Online Save Games 3,038 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 126 Y8 Multiplayer Games 1,986 Y8 High Score Games 1,141 Y8 Achievements Games 815 Y8 Screenshots Games 1,417 Y8 Online Save Games 3,039 All Y8 Games Games Last Highscore:
 
-**3,714** points on Mega Mechs 2 by CrowCorvus
+**10,900** points on Hockey Legends by SkyM\_TP
 
 Help us improve Bad translation? Social
 
