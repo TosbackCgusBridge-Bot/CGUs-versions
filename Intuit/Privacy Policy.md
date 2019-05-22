@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
+*   My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -77,16 +77,16 @@ BUY 1 GET 2 FREE WOMEN'S SHORTSSHOP ALLSELECT STYLESBUY 1 GET 2 FREE WOMEN'S SHO
     
     LIMITED TIME SPECIAL!
     
-    $32
+    $37
     
-    a.n.a Knit Waist Short(12)Add To Cart
+    St. John's Bay Womens Mid Rise Bermuda Short(16)Add To Cart
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
     
-    $37
+    $32
     
-    St. John's Bay Womens Mid Rise Bermuda Short(16)Add To Cart
+    a.n.a 9" Chino Bermuda Short(7)Add To Cart
 
 UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELSELECT STYLESSHOP ALL
 
@@ -97,24 +97,19 @@ UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELS
     was $34 Worthington Womens Short Sleeve Knit Polo ShirtAdd To Cart
 *   SPECIAL DEAL!
     
-    $899 sale
-    
-    was $22 Worthington Womens Round Neck Short Sleeve T-ShirtAdd To Cart
-*   SPECIAL DEAL!
-    
     $2499 sale
     
     was $60 Worthington Womens Long Sleeve BlouseAdd To Cart
 *   SPECIAL DEAL!
     
+    $1799 sale
+    
+    was $44 St. John's Bay Belted Petite Capris(11)Add To Cart
+*   SPECIAL DEAL!
+    
     from$1319
     
     Worthington Womens Round Neck Short Sleeve Knit Blouse(13)Add To Cart
-*   SPECIAL DEAL!
-    
-    $1799 sale
-    
-    was $44 St. John's Bay Belted Petite Capris(10)Add To Cart
 *   SPECIAL DEAL!
     
     $999 sale
@@ -125,31 +120,44 @@ UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELS
     $1199 sale
     
     was $29 Worthington Womens Round Neck Short Sleeve Blouse(3)Add To Cart
+*   SPECIAL DEAL!
+    
+    $999 sale
+    
+    was $32 St. John's Bay Womens Round Neck Elbow Sleeve Embroidered Peasant TopAdd To Cart
 
 Hot Sellers
 
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $32
+    
+    A.N.A Soft Shorts - Tall Inseam 4.5"
 *   BUY MORE AND SAVE WITH CODE: VALUE7
     
-    $36
-    
-    St. John's Bay Men's Chino Short(17)
+    $24after couponArizona Womens Alma Strap Sandals(4)
 *   BUY MORE AND SAVE WITH CODE: VALUE7
     
-    from$36after couponJCPenney Home Plaza Grommet-Top Lined Blackout Curtain Panel(1818)
+    from$16
+    
+    Liz Claiborne Luxury Egyptian Cotton Bath Towel(998)
 *   BUY MORE AND SAVE WITH CODE: VALUE7
     
-    $30after couponSt. John's Bay Womens Irma Wedge Sandals(12)
+    from$60
+    
+    JCPenney Home™ Blackout Cordless Cellular Shade(237)
 *   BUY MORE AND SAVE WITH CODE: VALUE7
     
-    $24after couponArizona Womens Tokyo Flat Sandals(1)
+    $30
+    
+    Liz Claiborne Womens Crew Neck Short Sleeve Knit Blouse
 *   BUY MORE AND SAVE WITH CODE: VALUE7
     
-    $37
+    from$40
     
-    Liz Claiborne S19 Ss Ruffle Woven Top Womens SplitvCrew Neck Short Sleeve Blouse(9)
-*   $4999 sale
-    
-    was $59.50 | 16% offLevi's® 501® Original Fit Jeans(4124)
+    JCPenney Home Cordless Light-Filtering Cellular Shade(272)
 
 Shop and Save at JCPenney
 
