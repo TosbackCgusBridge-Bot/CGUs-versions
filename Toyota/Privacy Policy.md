@@ -412,39 +412,41 @@ Hybrids
 
 Discontinued Vehicles
 
-*   FJ Cruiser  
-    
 *   Matrix  
     
-*   Prius _v_  
+*   FJ Cruiser  
     
 *   RAV4 EV  
     
 *   Venza  
+    
+*   Prius _v_  
     
 
 Compare Toyota vs. the Competition
 
 *   Toyota Tacoma vs. Ford Ranger  
     
-*   Toyota Prius vs. Kia Niro  
-    
-*   Toyota Prius vs. Hyundai Ioniq  
-    
 *   Toyota Corolla vs. Honda Civic  
+    
+*   Toyota Camry vs. Honda Accord  
+    
+*   Toyota Prius vs. Kia Niro  
     
 *   Toyota Highlander vs. Honda Pilot  
     
+*   Toyota Prius vs. Hyundai Ioniq  
+    
 *   Toyota C-HR vs. Honda HR-V  
     
-*   Toyota Camry vs. Honda Accord  
+*   Toyota Sienna vs. Honda Odyssey  
     
 
 Features
 
-*   Entune™  
+*   Audio Multimedia  
     
-*   Safety Connect®  
+*   Toyota Connected Services  
     
 *   ToyotaCare  
     
@@ -1245,3 +1247,4 @@ Help
 *   35\. 2020 Sienna AWD preliminary 18 city/24 hwy/20 combined mpg estimates and Sienna FWD preliminary 19 city/27 hwy/22 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
 *   36\. 2019 EPA-estimated 54 city/50 hwy/52 combined mpg estimates for Prius LE, XLE and Limited. Actual mileage will vary.
 *   37\. 2019 EPA-estimated 26 city/35 hwy/30 combined mpg for RAV4 LE FWD, XLE FWD, XLE Premium FWD and Limited FWD. 27 city/34 hwy/30 combined mpg for LE AWD. 25 city/33 hwy/28 combined mpg for XLE AWD, XLE Premium AWD, Adventure and Limited AWD. and 41 city/38 hwy/40 combined mpg for RAV4 LE Hybrid, XLE Hybrid, XSE Hybrid and Limited Hybrid. Actual mileage will vary.
+*   38\. 2019 EPA-estimated 41 city/38 hwy/40 combined mpg estimates for RAV4 Hybrid AWD. Actual mileage will vary. Based on 2019 RAV4 Hybrid vs. 2019 competitors. Information from www.fueleconomy.gov as of March 4, 2019.
