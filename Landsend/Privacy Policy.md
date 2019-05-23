@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off all swimwear, water shoes and more. Plus, free two-day shipping to most U.S. addresses!
+Receive 50% off all swimwear, water shoes and more. 40% off all other full-price styles!
 
-code: SPLASH pin: 6428 DETAILS
+code: STRIPES pin: 6423 DETAILS
 
 Customer Service Menu
 
