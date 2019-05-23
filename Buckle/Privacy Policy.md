@@ -453,7 +453,7 @@ Returns
 
 Promotions
 
-*   Buckle Credit Card 2x Points
+*   Free Solar Power Bank
 *   Store Events
 *   Military Discount
 *   All Promotions
