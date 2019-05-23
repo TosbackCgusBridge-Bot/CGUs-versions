@@ -94,12 +94,12 @@ I accept Menu
         *   Corporate governance codes
         *   Board responsibilities
         *   Remuneration
-    *   Measuring our impact
+    *   ESG information
         *   Back
-        *   Measuring our impact
+        *   ESG information
         *   Overview
         *   ESG reporting and policies
-        *   Sustainability membershipsMEASURING OUR IMPACT Read our latest ESG report and policies Close Navigation
+        *   Sustainability membershipsESG INFORMATION Read our latest ESG report and policies Close Navigation
 *   Investors Skip to Media Investors
     
     Find information about our performance, dividends,  
