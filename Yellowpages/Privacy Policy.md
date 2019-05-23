@@ -6,10 +6,12 @@ Skip Navigation
     *   AT&T Communications
         *   AT&T Communications Profile
         *   Leadership
-        *   5G
-        *   Mobility &. Entertainment
         *   Business
-        *   Technology
+        *   Devices &. Entertainment
+        *   5G
+        *   Innovation &. Technology
+        *   AT&T Believes℠
+        *   Major Events
     *   WarnerMedia
         *   WarnerMedia Profile
         *   HBO
