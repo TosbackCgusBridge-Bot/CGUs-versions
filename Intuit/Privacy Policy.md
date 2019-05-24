@@ -34,120 +34,64 @@ Shop Departments
     *   Watches
     *   View all Gifts
 
-Near YouFind a StoreBack FINAL HOURS OF COUPON CODEVALUE7ENDS IN00HOURS 41MINS 19SECS See Details\*60% off $100 or more select original &. regular-priced apparel, accessories, fine &. fashion jewelry &. home Excluded Categories: Juniors’ prom dresses, shoes, handbags, window coverings, kitchen and dining, luggage, furniture, mattresses Excluded Brand: Liz Claiborne See additional exclusions below. \*40% off $40 or more select original &. regular-priced apparel, accessories, fine &. fashion jewelry, home &. shoes \*25% off select original &. regular-priced apparel (Haggar, Lee, Gloria Vanderbilt, intimate apparel &. women’s dresses). accessories (belts &. wallets). fine &. fashion jewelry (watches). home (Stearns &. Foster, Handy Living, Fiesta, small appliances/electrics, storage and organization, bath accessories, fitness equipment &. accessories, floor care). shoes (men's shoes, kids' shoes, Andrew Geller, Clarks, Easy Spirit). salon products \*EXTRA 25% off select SALE &. CLEARANCE-priced apparel, accessories, fine &. fashion jewelry, home &. shoes \*EXTRA 15% off select SALE &. CLEARANCE-priced furniture &. mattresses OFFER DISCLAIMER &. EXCLUSIONS: \*Each offer good at jcp.com only, excluding taxes and shipping charges, 5/20/19-5/22/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Excluded Categories: Athletic Shoes, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Branded Athletic Apparel, Electronics, Food, Home Décor, Licensed Team Sports Merchandise, Men’s Underwear and Socks, Select National Brand Shoes, Penney Lane, Personalized Jewelry, Pet Care, Smart Home, Smartwatches, Sporting Goods &. Outdoor Gear, Toys, Travel Accessories, Wigs &. Extensions, Workwear &. Scrubs Excluded Brands: adidas, Alfred Dunner, As Seen On TV, Carhartt, Citizen Quartz, City Streets, Columbia, Champion, Converse, Crocs, Cubavera, Denizen from Levi's, Disney Collection, Disney Tsum Tsum, Dockers Apparel, Dreamgirl, Fisher-Price, Fitbit, Flexus, Garmin, Goddess Lingerie, Hunter Douglas, Jezebel, Journee Collection, Keds/Grasshoppers, Levi’s, Modern Bride Design Your Dream Ring, Nike, Nursemates, Propet, Sephora, Skechers Women's Shoes, Smoky Mountain, Spring Step, Tempur-Pedic, Tervis, Tracee Ellis Ross Additionally, original and regular-priced offers do not apply to BOGO’s, 2 Or More, sale or clearance-priced items. all offers do not apply to Best Value, Daily Deals, Special Deals, Limited Time Specials, Purchase with Purchase items, Service Plans, Gift Cards, current orders and prior purchases, or in combination with other coupon(s). Can be combined with earned JCPenney Rewards. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code VALUE7 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. Details
+Near YouFind a StoreBack
 
 X
-
-BUY 1 GET 2 FREE WOMEN'S SHORTSSHOP ALLSELECT STYLESBUY 1 GET 2 FREE WOMEN'S SHORTSSELECT STYLESSHOP ALL
-
-*   BUY 1 GET 2 FOR FREE
-    
-    $32
-    
-    St. John's Bay Womens Mid Rise Bermuda ShortAdd To Cart
-*   BUY 1 GET 2 FOR FREE
-    
-    LIMITED TIME SPECIAL!
-    
-    $32
-    
-    a.n.a 5" Chino Short(14)Add To Cart
-*   BUY 1 GET 2 FOR FREE
-    
-    LIMITED TIME SPECIAL!
-    
-    $32
-    
-    St. John's Bay Womens Mid Rise 11" Bermuda Short(13)Add To Cart
-*   BUY 1 GET 2 FOR FREE
-    
-    LIMITED TIME SPECIAL!
-    
-    $32
-    
-    a.n.a 3.5" Chino Short(14)Add To Cart
-*   BUY 1 GET 2 FOR FREE
-    
-    LIMITED TIME SPECIAL!
-    
-    $32
-    
-    a.n.a 7" Chino Short(7)Add To Cart
-*   BUY 1 GET 2 FOR FREE
-    
-    LIMITED TIME SPECIAL!
-    
-    $32
-    
-    a.n.a Knit Waist Short(12)Add To Cart
-*   BUY 1 GET 2 FOR FREE
-    
-    LIMITED TIME SPECIAL!
-    
-    $37
-    
-    St. John's Bay Womens Mid Rise Bermuda Short(16)Add To Cart
 
 UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELSELECT STYLESSHOP ALL
 
 *   SPECIAL DEAL!
     
-    $1499 sale
+    $1599 sale
     
-    was $34 Worthington Womens Short Sleeve Knit Polo ShirtAdd To Cart
+    was $37 Liz Claiborne Womens Crew Neck Sleeveless Lace Blouse(1)Add To Cart
 *   SPECIAL DEAL!
     
-    $2499 sale
+    $1099 sale
     
-    was $60 Worthington Womens Long Sleeve BlouseAdd To Cart
+    was $27 Liz Claiborne Womens Crew Neck Short Sleeve Graphic T-ShirtAdd To Cart
 *   SPECIAL DEAL!
     
-    $1799 sale
+    $1760 sale
     
-    was $44 St. John's Bay Belted Petite Capris(11)Add To Cart
+    was $44 Liz Claiborne Womens Long Sleeve Open Front Cardigan(2)Add To Cart
 *   SPECIAL DEAL!
     
-    from$1319
+    $1480 sale
     
-    Worthington Womens Round Neck Short Sleeve Knit Blouse(13)Add To Cart
-*   SPECIAL DEAL!
-    
-    $999 sale
-    
-    was $27 St. John's Bay Womens Short Sleeve Embroidered Blouse(9)Add To Cart
-*   SPECIAL DEAL!
-    
-    $1199 sale
-    
-    was $29 Worthington Womens Round Neck Short Sleeve Blouse(3)Add To Cart
+    was $37 Liz Claiborne 3/4 Tie Sleeve Knit Top(27)Add To Cart
 *   SPECIAL DEAL!
     
     $999 sale
     
     was $32 St. John's Bay Womens Round Neck Elbow Sleeve Embroidered Peasant TopAdd To Cart
+*   SPECIAL DEAL!
+    
+    $1799 sale
+    
+    was $54 St. John's Bay Womens Long Sleeve Open Front Cardigan(4)Add To Cart
+*   SPECIAL DEAL!
+    
+    $3999 sale
+    
+    was $99 Azul by Maxine of Hollywood Abstract Swim DressAdd To Cart
 
 Hot Sellers
 
-*   BUY MORE AND SAVE WITH CODE: VALUE7
+*   $2549after couponwas $50 The Foundry Big &. Tall Supply Co. Mens Short Sleeve Polo Shirt Big and Tall(5)
+*   BUY 1 GET 2 FOR FREE
     
-    $36after couponLiz Claiborne Womens Eastwick Strap Sandals(2)
-*   $24 sale
+    LIMITED TIME SPECIAL!
     
-    was $30 | 20% offStafford® 4-pk. Heavyweight Crewneck T-Shirts(681)
-*   BUY MORE AND SAVE WITH CODE: VALUE7
+    $50
     
-    $30after couponStafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(23)
-*   $4999 sale
+    St. John's Bay Womens Irma Wedge Sandals(14)
+*   $1869after couponwas $44 The Foundry Big &. Tall Supply Co. Mens Short Sleeve Plaid Button-Front Shirt Big and Tall(3)
+*   $1529after couponwas $30 The Foundry Big &. Tall Supply Co. Mens Short Sleeve Polo Shirt Big and Tall(7)
+*   $2124after couponwas $42 Arizona Basic Original Straight Jeans(1827)
+*   $5499 sale
     
-    was $59.50 | 16% offLevi's® 501® Original Fit Jeans(4124)
-*   BEST VALUE!
-    
-    $19
-    
-    Arizona Womens Maci Slip-on Closed Toe Ballet Flats(7)
-*   BUY MORE AND SAVE WITH CODE: VALUE7
-    
-    from$27after couponVan Heusen Flex Boy Suit Pants 8-20 - Regular &. Husky(4)
+    was $65 | 15% offNike® Air Monarch IV Mens Training Shoes(509)
 
 Shop and Save at JCPenney
 
