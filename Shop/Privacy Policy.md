@@ -247,6 +247,10 @@ Lenovo Explore Close
         *   Forums
         *   Contact Us
         
+        Laptop Buying Guide
+        
+        Things to consider when choosing a laptop
+        
         *   Always Free Shipping
         *   Easy Returns
         *   Financing Available
