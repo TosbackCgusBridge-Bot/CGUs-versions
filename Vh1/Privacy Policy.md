@@ -3,12 +3,12 @@
     *   Full Episodes
     *   Shows A-Z
     *   TV Schedule
+    *   Basketball Wives
     *   Black Ink Crew
     *   Black Ink Crew Chicago
     *   Dear Mama: A Love Letter to Mom
     *   Love &. Hip Hop Atlanta
     *   Love &. Hip Hop Miami
-    *   Love &. Hip Hop New York
     *   Martha &. Snoop's Potluck Party Challenge
     *   RuPaul's Drag Race
     *   T.I. &. Tiny: Friends &. Family HustleSee all Shows
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleBlack Ink CrewBlack Ink Crew ChicagoDear Mama: A Love Letter to MomLove &. Hip Hop AtlantaLove &. Hip Hop MiamiLove &. Hip Hop New YorkMartha &. Snoop's Potluck Party ChallengeRuPaul's Drag RaceT.I. &. Tiny: Friends &. Family Hustlesee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleBasketball WivesBlack Ink CrewBlack Ink Crew ChicagoDear Mama: A Love Letter to MomLove &. Hip Hop AtlantaLove &. Hip Hop MiamiMartha &. Snoop's Potluck Party ChallengeRuPaul's Drag RaceT.I. &. Tiny: Friends &. Family Hustlesee all Shows
 *   News
 *   App
 *   Watch Live TV
