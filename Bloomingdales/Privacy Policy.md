@@ -1,4 +1,10 @@
-Skip Navigation Skip to Content Stores &. Events My Account USD Have an Account? SIGN IN
+Skip Navigation Skip to Content
+
+*   Life is good on the List! Get rewards when you shop, free shipping every day &. many more exclusive perks. BECOME A LOYALLIST—It's easy. It's free!
+*   Need it ASAP? Buy Online, Pick Up In Store to Get Your Order Today. LEARN MORE
+*   Hey, Loyallists! Have you picked your Triple Points days yet? Schedule them now. Not a Loyallist? Sign up for free
+
+Stores &. Events My Account USD Have an Account? SIGN IN
 
 *   Women
 *   Shoes
