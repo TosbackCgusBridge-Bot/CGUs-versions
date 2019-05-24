@@ -70,9 +70,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie News: Robert Pattinson Might Be the New Batman, Chris Rock is Rebooting ‘Saw’ and more Read More
+    *   Sarah Connor Returns in First ‘Terminator: Dark Fate’ Trailer. Here’s Everything We Know Read More
     *   Next 3 Action Thrillers for Adults: 'Shaft,' 'Anna,' 'The Kitchen' Read More
-    *   Today in Movie Culture: How to Write a ‘John Wick’ Movie, the Secrets of Dog Acting and More Read More
+    *   Today in Movie Culture: ‘Brightburn’ Motion Comic, ‘Aladdin’ Music Video for New Song “Speechless” and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -307,9 +307,9 @@ Offers
     
     Be the first to own the biggest movie of the year. Use code ENDGAMEPRE and save $3. It will hit your Library as soon as it's available. PRE-ORDER NOW
     
-*   Opening Night Fan Event
+*   Buy one ticket, get one free
     
-    You could be first to experience Disney’s Aladdin! PLUS, receive a digital download of the film’s soundtrack &. more! BUY TICKETS
+    At Studio Movie Grill Sunset Walk Florida. Use code SMGSUNSET at checkout! (Terms Apply) BUY TICKETS
     
 
 New + Coming soon
@@ -357,4 +357,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
