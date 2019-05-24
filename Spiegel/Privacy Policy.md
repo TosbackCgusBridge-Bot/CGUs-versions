@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   23\. Mai 2019
+*   24\. Mai 2019
 *   Abo
-*   DAX 12.168,74ǀ
+*   DAX 11.952,41ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -78,7 +78,7 @@ Anmelden
         *   Fußball-Tippspiel
         *   Formel 1
         *   Formel-1-Liveticker
-        *   Wintersport
+        *   French Open
     *   *   Sportwetten
 *   Kultur
     
