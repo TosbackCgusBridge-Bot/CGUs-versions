@@ -50,9 +50,8 @@ Date Range Date Range content loading
     
     View Account Requests
     
-    Account Requests by Year - Worldwide 7k6k5k4k3k2k1k0k81%201775%201667%201560%201454%2013
-    *   Requests Received
-    *   Requests where Data Provided
+    Account Requests by Year - Worldwide
+    
 *   Account Preservation
     
     Account Preservation requests are based on account identifiers such as an Apple ID or email address.   
@@ -83,9 +82,8 @@ Date Range Date Range content loading
     
     View Emergency Requests
     
-    Emergency Requests by Year - Worldwide 600500400300200100082%2017N/A2016N/A2015N/A2014N/A2013
-    *   Requests Received
-    *   Requests where Data Provided
+    Emergency Requests by Year - Worldwide
+    
 *   United States National Security
     
     U.S. National Security requests seek customer data in response to national security related investigations. National Security requests include orders received under the Foreign Intelligence Surveillance Act (“FISA”) and National Security Letters (“NSLs”). To date, Apple has not received any orders for bulk data.
