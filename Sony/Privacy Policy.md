@@ -115,7 +115,7 @@ Look Out for More Info Coming Next Month
 
 Free-to-play co-op action RPG Dauntless arrives tomorrow on PS4! Here's what to expect when you set out to slay your first Behemoth:  https://play.st/2LUhYFp  pic.twitter.com/y0F5D0Fgm0
 
-2 days ago
+3 days ago
 
 View Tweet
 
