@@ -148,4 +148,8 @@ Last updated: 2018-04-03
 
  
 
-<img src="https://geo.yahoo.com/b?s=792600607" height="1" width="1" style="position: absolute;" />.
+<img src="https://geo.yahoo.com/b?s=792600607" height="1" width="1" style="position: absolute;" />. We’re back online
+
+We just finished re-engineering Flickr’s underlying infrastructure. You may come across a few parts of the site that aren’t working perfectly, but we will be addressing them soon. You can always share your feedback with us on the Help Forum or at the Flickr Help Center.
+
+OK
