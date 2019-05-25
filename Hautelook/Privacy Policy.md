@@ -7,8 +7,31 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Longchamp
-    *   Longchamp Shoes
+    *   NxN Beauty: Cleansers, Serums &. More
+    *   FOREO Face Cleansing Device
+    *   Ramy Brook Up to 65% Off
+    *   New Arrivals: Naked Zebra Starting at $15
+    *   Vince Camuto
+    *   Trending Now: Karen Walker Sun &. More Under $100
+    *   Siwy Denim Up to 65% Off
+    *   Maxi Dresses &. More Under $50 ft. West Kei
+    *   Fashion Forward: Bags &. Shoes Up to 50% Off
+    *   Kenneth Cole Reaction Men
+    *   Levi's Men Starting at $20
+    *   Gifts for Dads &. Grads ft. Victorinox Watches
+    *   On-Trend Jewelry from Gabi Rielle Under $80
+    *   Summer Solutions: Bralettes &. More from $12
+    *   Be Bold: Lipsticks &. More from $10
+    *   Kenneth Cole Reaction Men's Shoes from $20
+    *   Jessica Simpson &. More Up to 55% Off
+    *   Free Shipping: Kitchen Organization from $10
+    *   Free Shipping: Marmont Hill Wall Art
+    *   Crocs Men from $15
+    *   Keep It Cute: Decor for You &. Your Pets
+    *   Joe Fresh Kids Under $10
+    *   In Bloom: Girls' Floral Dresses &. More
+    *   Kids' Dress Shoes from $20
+    
     *   Love Stitch
     *   On Trend: High-Waist Bottoms, Jumpsuits &. More
     *   Shahida Parides
@@ -22,203 +45,180 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Find Your Length: Active Bottoms from $20
     *   1.STATE
     *   Zeus Men's Grooming
-    *   Always in Style: Planters, Bowls &. More
-    *   Longchamp &. More: Sun Under $60
     *   Soy Candles Under $25
     *   Hudson London Up to 60% Off
-    *   On-Trend Sneakers for Him from Creative Recreation
     *   adidas Kids' Active
-    *   Hudson Jeans Kids
+    *   On-Trend Sneakers for Him from Creative Recreation
     *   Lancome Starting at $10
-    *   Work Dresses ft. Donna Morgan
-    *   Levi's from $20 Incl. Plus
-    
-    *   Melissa
-    *   Linen Shop ft. Caslon Incl. Plus &. Petites
-    *   14th &. Union and SUSINA Incl. Plus &. Petites
     *   LaFonn Simulated Diamond Jewelry Up to 70% Off
-    *   Merrell
     *   Merrell Men
-    *   Hottest Sun Brands Under $100 ft. Oliver Peoples
     *   Sweet Dreams: Sheet Sets, Duvets &. More
-    *   Luli Fama
     *   Camp Ready: Kids' Character PJs Under $20
-    *   Season's Best: Jackets &. Coats Up to 60% Off
-    *   Trend Forecast: Sandals ft. KENDALL + KYLIE
-    *   Desk to Dinner: Transitional Shoes
     *   Free Shipping: Bold &. Daring Wall Art
     *   Trending Now: Summer Polos
+    
     *   Leather Accessories ft. Frye
-    *   Made in Italy: Carla Mancini Handbags
-    *   Pretend-Play Toys ft. Mattel &. Fisher-Price
     *   Pool Party Essentials Starting at $10
-    *   Anthropologie Home, Lilly Pulitzer &. More from $10
     *   Keep It Sassy: Fun Pouches, Towels &. Coasters
     *   Perfect Wedding Gifts: Kitchen Essentials &. More
-    *   Converse Starting at $30
-    *   Converse Men Starting at $30
-    *   Converse Kids Starting at $20
-    
-    *   Suzy Levian Jewelry
     *   ORA Derma Roller &. Microdermabrasion Tools
-    *   Designer Fragrances ft. Marc Jacobs &. Gucci
-    *   Psycho Bunny Under $70
-    *   Bling Sterling Jewelry Starting at $15
-    *   Converse Kids' Clothing Starting at $10
-    *   Upgrade His Look: On-Trend Styles for Him
-    *   Nordstrom Rack Exclusives: Suits &. More
     *   RapidLash
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Osmotics Cosmeceuticals Skin Care
-    *   $20 &. Under: Havaianas Men
-    *   Free Shipping: Art That Pops
     *   Great Gifts: Kosta Boda Barware &. More
-    *   Make a Statement: Kids' Graphic Tops
+    *   Free Shipping: Kitchen Blowout
     *   Free Shipping: Solid Sheets &. More Up to 70% Off
     *   Free Shipping: Storage Must-Haves from $10
     *   Modern to Boho: Decor for Every Home
-    *   Beach Ready: Towels Starting at $10
-    *   Free Shipping: Getaway-Inspired Art Up to 65% Off
     *   Rodial Skin Care
-    *   Free Shipping: Kitchen Blowout
     *   Free Shipping: Luxury Bedding Essentials
+    *   Always in Style: Planters, Bowls &. More
+    *   Hudson Jeans Kids
+    *   Pretend-Play Toys ft. Mattel &. Fisher-Price
+    *   Free Shipping: Art That Pops
     *   Brooks Brothers Under $50
+    *   Work Dresses ft. Donna Morgan
+    *   Levi's from $20 Incl. Plus
+    *   Linen Shop ft. Caslon Incl. Plus &. Petites
+    *   14th &. Union and SUSINA Incl. Plus &. Petites
 *   WomenShop Sale Events
     
-    *   Longchamp
-    *   Longchamp Shoes
+    *   NxN Beauty: Cleansers, Serums &. More
+    *   FOREO Face Cleansing Device
+    *   Ramy Brook Up to 65% Off
+    *   New Arrivals: Naked Zebra Starting at $15
+    *   Vince Camuto
+    *   Trending Now: Karen Walker Sun &. More Under $100
+    *   Siwy Denim Up to 65% Off
+    *   Maxi Dresses &. More Under $50 ft. West Kei
+    *   Fashion Forward: Bags &. Shoes Up to 50% Off
+    *   Gifts for Dads &. Grads ft. Victorinox Watches
+    *   On-Trend Jewelry from Gabi Rielle Under $80
+    *   Summer Solutions: Bralettes &. More from $12
+    *   Be Bold: Lipsticks &. More from $10
+    *   Jessica Simpson &. More Up to 55% Off
     *   Love Stitch
     *   On Trend: High-Waist Bottoms, Jumpsuits &. More
     *   Shahida Parides
+    
     *   Bridal Lingerie &. Sleep
     *   Face Masks We Love
     *   Keds &. More
     *   Find Your Length: Active Bottoms from $20
     *   1.STATE
     *   Zeus Men's Grooming
-    *   Longchamp &. More: Sun Under $60
     *   Lancome Starting at $10
-    *   Work Dresses ft. Donna Morgan
-    *   Levi's from $20 Incl. Plus
-    *   Melissa
-    *   Linen Shop ft. Caslon Incl. Plus &. Petites
-    
-    *   14th &. Union and SUSINA Incl. Plus &. Petites
     *   LaFonn Simulated Diamond Jewelry Up to 70% Off
-    *   Merrell
-    *   Hottest Sun Brands Under $100 ft. Oliver Peoples
-    *   Luli Fama
-    *   Season's Best: Jackets &. Coats Up to 60% Off
-    *   Trend Forecast: Sandals ft. KENDALL + KYLIE
-    *   Desk to Dinner: Transitional Shoes
-    *   Made in Italy: Carla Mancini Handbags
-    *   Converse Starting at $30
-    *   Suzy Levian Jewelry
     *   ORA Derma Roller &. Microdermabrasion Tools
-    *   Designer Fragrances ft. Marc Jacobs &. Gucci
-    *   Bling Sterling Jewelry Starting at $15
     *   RapidLash
     *   Osmotics Cosmeceuticals Skin Care
     *   Rodial Skin Care
+    *   Work Dresses ft. Donna Morgan
+    *   Levi's from $20 Incl. Plus
+    *   Linen Shop ft. Caslon Incl. Plus &. Petites
+    *   14th &. Union and SUSINA Incl. Plus &. Petites
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
-    *   Accessories
     *   Lingerie
+    *   Jewelry
     *   Handbags
+    *   Accessories
+    *   Watches
 *   MenShop Sale Events
     
+    *   Kenneth Cole Reaction Men
+    *   Levi's Men Starting at $20
+    *   Gifts for Dads &. Grads ft. Victorinox Watches
+    *   Kenneth Cole Reaction Men's Shoes from $20
+    *   Crocs Men from $15
     *   John Varvatos Collection
     *   Great Gifts for Father's Day: Oakley &. More
+    
     *   Reebok Men's Active Under $50
     *   Hudson London Up to 60% Off
     *   On-Trend Sneakers for Him from Creative Recreation
     *   Merrell Men
-    *   Hottest Sun Brands Under $100 ft. Oliver Peoples
     *   Trending Now: Summer Polos
-    
     *   Leather Accessories ft. Frye
-    *   Converse Men Starting at $30
-    *   Psycho Bunny Under $70
-    *   Upgrade His Look: On-Trend Styles for Him
-    *   Nordstrom Rack Exclusives: Suits &. More
-    *   $20 &. Under: Havaianas Men
     *   Brooks Brothers Under $50
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Joe Fresh Kids Under $10
+    *   In Bloom: Girls' Floral Dresses &. More
+    *   Kids' Dress Shoes from $20
     *   adidas Kids' Active
-    *   Hudson Jeans Kids
     *   Camp Ready: Kids' Character PJs Under $20
+    *   Hudson Jeans Kids
     *   Pretend-Play Toys ft. Mattel &. Fisher-Price
-    *   Converse Kids Starting at $20
-    *   Converse Kids' Clothing Starting at $10
-    *   Make a Statement: Kids' Graphic Tops
     
     Shop By Category
-    *   Boys' Sizes 2T-7
-    *   Boys' Shoes
-    *   Boys' Sizes 8-20
-    *   Girls' Sizes 7-16
     *   Girls' Sizes 2T-6X
+    *   Boys' Sizes 2T-7
+    *   Girls' Sizes 7-16
+    *   Boys' Sizes 8-20
     *   Girls' Shoes
     *   The Toy Shop
     *   Baby Girl
+    *   Boys' Shoes
     *   Baby Boy
 *   HomeShop Sale Events
     
+    *   Free Shipping: Kitchen Organization from $10
+    *   Free Shipping: Marmont Hill Wall Art
+    *   Keep It Cute: Decor for You &. Your Pets
     *   Free Shipping: Amrapur Towels Up to 70% Off
-    *   Always in Style: Planters, Bowls &. More
     *   Soy Candles Under $25
     *   Sweet Dreams: Sheet Sets, Duvets &. More
     *   Free Shipping: Bold &. Daring Wall Art
     *   Pool Party Essentials Starting at $10
-    *   Anthropologie Home, Lilly Pulitzer &. More from $10
     *   Keep It Sassy: Fun Pouches, Towels &. Coasters
     *   Perfect Wedding Gifts: Kitchen Essentials &. More
-    *   Free Shipping: Down &. Memory Foam Essentials
     
-    *   Free Shipping: Art That Pops
+    *   Free Shipping: Down &. Memory Foam Essentials
     *   Great Gifts: Kosta Boda Barware &. More
+    *   Free Shipping: Kitchen Blowout
     *   Free Shipping: Solid Sheets &. More Up to 70% Off
     *   Free Shipping: Storage Must-Haves from $10
     *   Modern to Boho: Decor for Every Home
-    *   Beach Ready: Towels Starting at $10
-    *   Free Shipping: Getaway-Inspired Art Up to 65% Off
-    *   Free Shipping: Kitchen Blowout
     *   Free Shipping: Luxury Bedding Essentials
+    *   Always in Style: Planters, Bowls &. More
+    *   Free Shipping: Art That Pops
     
     Shop By Category
-    *   Home Decor
     *   Bedding
+    *   Home Decor
     *   Kitchen &. Tabletop
     *   Outdoor Living
-    *   Bath
     *   Cleaning &. Organization
+    *   Bath
     *   Luggage &. Travel
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   NxN Beauty: Cleansers, Serums &. More
+    *   FOREO Face Cleansing Device
+    *   Be Bold: Lipsticks &. More from $10
     *   Face Masks We Love
     *   Zeus Men's Grooming
     *   Lancome Starting at $10
     *   ORA Derma Roller &. Microdermabrasion Tools
-    *   Designer Fragrances ft. Marc Jacobs &. Gucci
     *   RapidLash
     *   Osmotics Cosmeceuticals Skin Care
     *   Rodial Skin Care
     
     Shop By Category
-    *   Makeup
     *   Skin Care
-    *   Fragrance
+    *   Makeup
     *   Tools &. Accessories
+    *   Fragrance
     *   Bath &. Body
     *   Hair Care
 
