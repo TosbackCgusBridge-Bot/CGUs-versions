@@ -42,9 +42,6 @@ Find Anyone:
 *   Z
 
 *   Company
-*   About Us
-*   Testimonials
-*   Press
 *   Careers
 *   Contact Us
 *   Blog
@@ -69,7 +66,7 @@ Copyright ©2019 MyLife.com®, Inc. | User Agreement | Privacy Policy
 
 U.S. Patent No. 6,701,348 and 6,694,353
 
-About Us | People Search | Contact Us
+People Search | Contact Us
 
 *   Stay Connected
 
