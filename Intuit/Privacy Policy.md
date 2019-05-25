@@ -78,20 +78,28 @@ UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELS
 
 Hot Sellers
 
-*   $2549after couponwas $50 The Foundry Big &. Tall Supply Co. Mens Short Sleeve Polo Shirt Big and Tall(5)
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $60
+    
+    a.n.a Womens Taci Wedge Sandals(9)
+*   $1999 sale
+    
+    was $25 | 20% offNike® Benassi JDI Womens Athletic Sandals(26)
+*   $4165 sale
+    
+    was $59.50 | 30% offLevi's® 505™ Regular Fit Jeans(2493)
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
     
     $50
     
-    St. John's Bay Womens Irma Wedge Sandals(14)
-*   $1869after couponwas $44 The Foundry Big &. Tall Supply Co. Mens Short Sleeve Plaid Button-Front Shirt Big and Tall(3)
-*   $1529after couponwas $30 The Foundry Big &. Tall Supply Co. Mens Short Sleeve Polo Shirt Big and Tall(7)
-*   $2124after couponwas $42 Arizona Basic Original Straight Jeans(1827)
-*   $5499 sale
-    
-    was $65 | 15% offNike® Air Monarch IV Mens Training Shoes(509)
+    St. John's Bay Womens Irma Wedge Sandals(18)
+*   $2124after couponwas $42 Arizona Basic Original Bootcut Jeans(602)
+*   $1699after couponwas $40 Arizona Mens Flex Cargo Short(13)
 
 Shop and Save at JCPenney
 
