@@ -54,12 +54,7 @@ Monday - Friday
 
 **ThinkGeek, Inc.** 625 Westport Pkwy  
 Grapevine, TX 76051  
-508-970-2002
-
-Need a map?  
-Sorry locals, we don't have a walk-in store. Just our offices. If you need to come by for an interview, please call first. Thanks!
-
-It's an internets party!
+508-970-2002 It's an internets party!
 
 *   Facebook
     
