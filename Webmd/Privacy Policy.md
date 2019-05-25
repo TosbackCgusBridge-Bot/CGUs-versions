@@ -1,4 +1,4 @@
-Want to live your best life? Get the WebMD Daily newsletter for health tips, wellness updates and more. Subscribe By clicking "Subscribe," I agree to the WebMD Terms and Conditions and Privacy Policy. I also agree to receive emails from WebMD and I understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
+Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -112,11 +112,11 @@ Want to live your best life? Get the WebMD Daily newsletter for health tips, wel
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Salmonella Outbreak Linked to Backyard Chickens
-    *   LED Blue Light a Risk to Eyes, Sleep
-    *   Diets High in Processed Foods Tied to Obesity
-    *   Survey Reveals Dirty Pool Habits
-    *   Diabetes Drugs Carry Risk of Gangrene of Genitals
+    *   Room Temperature Affects Women Differently Than Men
+    *   Don't Risk Your Life Trying to Take the Perfect Selfie
+    *   Neck Cracking and Stroke: How Risky Is It?
+    *   Half-Price Version of Insulin Available
+    *   Are There Health Benefits from Burning Sage?
     
     Experts &. Community
     
