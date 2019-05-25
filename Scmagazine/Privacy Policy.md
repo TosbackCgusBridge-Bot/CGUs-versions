@@ -215,17 +215,17 @@ New York, NY 10001.**
     *   Ransomware disables Cleveland airport's email systems, information screens
     *   Report: Hackers claim compromise of four AV firms, offer source code for sale
     
-    *   HCL employee, customer files found open to public
-    *   UNESCO gives gender equality recommendations for AI
-    *   Trump national emergency on info security allows ban on Huawei
-    *   Attempted cyberattacks using EternalBlue exploit soar in recent months
+    *   Beefing Up Your Next Generation Security Tool Set
     *   Google to replace Titan security keys due to a misconfiguration
+    *   UNESCO gives gender equality recommendations for AI
+    *   Linux variant of Winnti malware spotted in wild
+    *   Magecart POS skimmer adds iframe injection technique
     
-    *   HCL employee, customer files found open to public
-    *   NCIS Cyber: USAF investigating USN for planting email tracking malware
-    *   Great White North bombarded with malicious email campaigns, report
-    *   Windows 10 zero-day vulnerability released, Microsoft in the dark
-    *   In a first, Moody's downgrades Equifax's rating outlook due to cyberattack
+    *   Facebook took action against 2.19B fake accounts in first three months of 2019
+    *   Netanyahu among millions exposed on open travel company data base
+    *   Shubert theater company organization shines spotlight on customer data breach
+    *   Assange indicted on 17 counts under Espionage Act
+    *   Unlucky 13: Mirai variant uses baker's dozen of exploits to compromise IoT devices
 
 Back to Top
 
@@ -259,6 +259,6 @@ Back to Top
 
 Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
-You can skip this ad in 2 seconds.
+You can skip this ad in 1 seconds.
 
 x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
