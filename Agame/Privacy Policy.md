@@ -88,8 +88,8 @@ View more results
     *   Slither.io
     *   Warbanner
     *   Total Front: Army War Game
-    *   Uphill Rush 7: Waterpark
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
+    *   Uphill Rush 7: Waterpark
     *   Stunt Skateboard 3D
     *   Pixel Apocalypse
     *   Short Life
@@ -267,7 +267,7 @@ View more results
     Recommended Games
     
     *   League of Angels 3
-    *   Trove
+    *   Roblox
     *   PopTropica
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
