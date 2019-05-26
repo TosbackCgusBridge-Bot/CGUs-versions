@@ -57,9 +57,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, UT. On the internet, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 3% 
+What is PeekScore? Public Records &. Background Checks 2% 
 
 Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -89,7 +89,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
+2% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -135,7 +135,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
+2% 
 
 Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -165,7 +165,7 @@ Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
+2% 
 
 *   Ms Amy Annette Policy, age 46, Lake Worth, FL View Full Report
     
@@ -358,47 +358,47 @@ Twitter 2% 
 
 Instagram 2% 
 
-*   \_\_privacypolicy - \_\_privacypolicy
+*   ~PRIVACY POLICY~ - lmaorosh
+    
+*   privacy policy - privacypolice1
     
 *   Privacy policy - lailakammarh
     
-*   Privacy Policy. - privacypolicy.6974
-    
-*   Wettest Windex - privacy\_policy\_update
+*   #PrivacyPolicy - saidhorzum
     
 *   Show More ...
 
-*   Social Media Privacy policy - socialmediaprivacypolicy
+*   IG POLICY PRIVACY - ig\_user\_verified
     
-*   Konstantin - \_privacy.\_.policy\_
-    
-*   INSTAGRAM PRIVACY POLICY - insta\_help\_privacy
-    
-*   TidePod Eater - childrens.privacy.policy
-    
-*   Void - childrens\_privacy\_policy
-    
-*   instagram\_service-iran - privacy\_policy\_insta\_iran
-    
-*   3rd || follow —— @rufsalistas - terms.privacy.policy
-    
-*   aidan miles - we\_updated\_our\_privacy\_policy
-    
-*   Instagram privacy Policy - privacy.policy.security
-    
-*   Djavid - \_privacy\_policy
-    
-*   InstagramRep. - privacy\_policy\_direct\_
+*   Chunky Blunt Assailants - \_policy\_privacy
     
 *   privacy\_policy\_4 - privacy\_policy\_4
     
-*   Instagram privacy Policy - privacy\_intellectual\_policy
+*   Social Media Privacy policy - socialmediaprivacypolicy
     
-*   seá - seamusprivacypolicy
+*   3rd || follow —— @rufsalistas - terms.privacy.policy
     
-*   Karen McDowall - privacy\_\_\_policy
+*   InstagramRep. - privacy\_policy\_direct\_
     
-*   Ray - terms\_privacy\_\_policy\_\_
+*   Void - childrens\_privacy\_policy
+    
+*   privacypolicycvb - privacypolicycvb
+    
+*   Christian Granada - childrens.privacy.policy
+    
+*   Djavid - \_privacy\_policy
+    
+*   instagram\_service-iran - privacy\_policy\_insta\_iran
+    
+*   Konstantin - \_privacy.\_.policy\_
+    
+*   Seá - seamusprivacypolicy
+    
+*   ߘⰟ菰ߘ� privacy\_policyxx
+    
+*   I (Un)Follow Back ߑ privacy.policy.girls
+    
+*   Bryan Russo - terms\_n\_privacy\_policy
     
 *   Show Less ...
 
@@ -586,13 +586,13 @@ Web Search 2% 
 
 Images 2% 
 
-8
+9
 
 20
 
 20
 
-8
+9
 
 facebookx
 
@@ -603,6 +603,8 @@ instagramx
 myspacex
 
 10
+
+1
 
 facebookx
 
