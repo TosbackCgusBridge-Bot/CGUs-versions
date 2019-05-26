@@ -212,14 +212,14 @@ New York, NY 10001.**
     *   Anti-virus vendors named in Fxmsp's alleged source code breach respond
     *   Wolters Kluwer still down from May 6 cyberattack
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
-    *   Ransomware disables Cleveland airport's email systems, information screens
     *   Report: Hackers claim compromise of four AV firms, offer source code for sale
+    *   Ransomware disables Cleveland airport's email systems, information screens
     
-    *   Beefing Up Your Next Generation Security Tool Set
-    *   Google to replace Titan security keys due to a misconfiguration
-    *   UNESCO gives gender equality recommendations for AI
-    *   Linux variant of Winnti malware spotted in wild
-    *   Magecart POS skimmer adds iframe injection technique
+    *   Great White North bombarded with malicious email campaigns, report
+    *   Huawei given 90-day reprieve from Entity List
+    *   NCIS Cyber: USAF investigating USN for planting email tracking malware
+    *   Report finds ransomware recovery firms simply paying attackers
+    *   WordPress patches XSS vulnerability in WP Live Chat Support
     
     *   Facebook took action against 2.19B fake accounts in first three months of 2019
     *   Netanyahu among millions exposed on open travel company data base
