@@ -60,7 +60,10 @@ Search fidelity.com or get a quote
     *   Options
     *   Markets &. Sectors
     *   IPOs
+    *   Annuities
     *   Learning Center
+    *   Notebook
+    *   Notebook
 *   Investment Products
     *   Mutual Funds
     *   Retirement &. IRAs
@@ -69,9 +72,10 @@ Search fidelity.com or get a quote
     *   Fixed Income, Bonds &. CDs
     *   ETFs
     *   Options
+    *   Sector Investing
     *   Cash Management &. Credit Cards
     *   Managed Accounts
-    *   Robo Advisor
+    *   Fidelity Go
     *   529 College Savings
     *   Annuities
     *   Life Insurance &. Long Term Care
