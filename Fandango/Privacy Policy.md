@@ -295,9 +295,9 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   'The Secret Life of Pets 2' Gift with Purchase
+*   'John Wick: Chapter 3 - Parabellum' Gift with Purchase
     
-    Get a free song download from the movie soundtrack with ticket purchase! BUY TICKETS
+    Own 'John Wick' and 'John Wick: Chapter Two' for $3.99 each with ticket purchase! BUY TICKETS
     
 *   VIP+ World Elite Mastercard®
     
@@ -319,9 +319,9 @@ New + Coming soon
 *   A Dog's Journey
 *   John Wick: Chapter 3 – Parabellum
 *   Aladdin (2019)
-*   Fandango Early Access: The Secret Life of Pets 2
 *   Rocketman
 *   Godzilla: King of the Monsters (2019)
+*   The Secret Life of Pets 2
 
 Experience + Explore
 
@@ -357,4 +357,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
