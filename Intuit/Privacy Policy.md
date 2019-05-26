@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   My AccountSign InSign InNew Customer? Register Here
+*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -59,7 +59,7 @@ UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELS
     
     $1480 sale
     
-    was $37 Liz Claiborne 3/4 Tie Sleeve Knit Top(27)Add To Cart
+    was $37 Liz Claiborne 3/4 Tie Sleeve Knit Top(29)Add To Cart
 *   SPECIAL DEAL!
     
     $999 sale
@@ -78,28 +78,26 @@ UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELS
 
 Hot Sellers
 
+*   LIMITED TIME SPECIAL!
+    
+    $1999 sale
+    
+    was $75 | 73% offLIMITED TIME SPECIAL! Q7 Black Smartwatch(109)
+*   $2999 sale
+    
+    was $55 | 45% offClarks Womens Brinkley Jazz Flip-Flops(212)
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
     
-    $60
+    $54
     
-    a.n.a Womens Taci Wedge Sandals(9)
+    a.n.a Womens Broome Adjustable Strap Flat Sandals(8)
 *   $1999 sale
     
-    was $25 | 20% offNike® Benassi JDI Womens Athletic Sandals(26)
-*   $4165 sale
-    
-    was $59.50 | 30% offLevi's® 505™ Regular Fit Jeans(2493)
-*   BUY 1 GET 2 FOR FREE
-    
-    LIMITED TIME SPECIAL!
-    
-    $50
-    
-    St. John's Bay Womens Irma Wedge Sandals(18)
-*   $2124after couponwas $42 Arizona Basic Original Bootcut Jeans(602)
-*   $1699after couponwas $40 Arizona Mens Flex Cargo Short(13)
+    was $24 | 16% offNike® Celso Womens Flip Flops(404)
+*   $2379after couponwas $40 Matrix Biolage Colorlast 2-pc. Value Set
+*   from$1699after couponWorthington Womens Long Sleeve Modern Fit Button-Front Shirt(144)
 
 Shop and Save at JCPenney
 
