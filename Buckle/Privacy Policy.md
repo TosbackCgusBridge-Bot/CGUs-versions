@@ -1,4 +1,4 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main contentMemorial Day Sale up to 75% off select styles – SHOP NOW!
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main contentMemorial Day Sale up to 75% off select styles – SHOP NOW!
 
 *   United States
 *   FIND A STORE
@@ -22,7 +22,7 @@ Memorial Day Sale up to 75% off select styles – SHOP NOW!
     *   Login
     *   |
     *   Register
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   Women
     *   *   Featured
@@ -630,4 +630,4 @@ Sign Up for Buckle EmailsClose Email Capture Modal×**Hey You!**
 Want to stay updated on our latest styles and promotions?  
 Sign up for email and let’s make things official.
 
-Email Address Submit EmailFavorite Product Quick ShopClose Quick Shop×<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.
+Email Address Submit EmailFavorite Product Quick ShopClose Quick Shop×
