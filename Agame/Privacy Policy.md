@@ -127,7 +127,7 @@ View more results
     *   Dumb Ways to Die 2
     *   FNAF World
     *   Fireboy and Watergirl 5: Elements
-    *   Troll Face Quest: Video Memes and TV Shows:Part 1
+    *   Color Bump 3D
 *   Top Categories
     
     *   Bubble Shooter
@@ -158,8 +158,8 @@ View more results
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Cut the Rope
     *   1001 Arabian Nights
-    *   Bubble Machine: 2 Player Game
     *   Google Feud
+    *   Bubble Machine: 2 Player Game
 *   Top Categories
     
     *   Dress Up
@@ -191,7 +191,7 @@ View more results
     *   Get Your Boyfriend
     *   Electricman 2: Stickman Fighting Game
     *   Princess Rivalry
-    *   Extreme Dental Emergency
+    *   Beauty's Transformation: Fashion Game
 *   Top Categories
     
     *   BMX Games
@@ -254,7 +254,7 @@ View more results
     *   8-Ball
     *   Playing Soccer
     *   Neon Biker
-    *   Pinch Hitter 3
+    *   Billiards Master Pro
 *   *   Multiplayer
     *   Action
     *   Adventure
@@ -266,9 +266,9 @@ View more results
     
     Recommended Games
     
-    *   League of Angels 3
-    *   Roblox
     *   PopTropica
+    *   Roblox
+    *   League of Angels 3
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
     *   Fireboy &. Watergirl 4: Crystal Temple
