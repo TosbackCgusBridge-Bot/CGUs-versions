@@ -213,13 +213,13 @@ New York, NY 10001.**
     *   Wolters Kluwer still down from May 6 cyberattack
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Report: Hackers claim compromise of four AV firms, offer source code for sale
-    *   Ransomware disables Cleveland airport's email systems, information screens
+    *   Windows 10 zero-day vulnerability released, Microsoft in the dark
     
-    *   Great White North bombarded with malicious email campaigns, report
-    *   Huawei given 90-day reprieve from Entity List
+    *   Netanyahu among millions exposed on open travel company data base
+    *   Hackers add bogus scores to Trump's U.S. Golf Association account
+    *   AppSec attack and defense: The password domino effect
+    *   Mozilla fires up another Firefox update, patching 24 vulnerabilities
     *   NCIS Cyber: USAF investigating USN for planting email tracking malware
-    *   Report finds ransomware recovery firms simply paying attackers
-    *   WordPress patches XSS vulnerability in WP Live Chat Support
     
     *   Facebook took action against 2.19B fake accounts in first three months of 2019
     *   Netanyahu among millions exposed on open travel company data base
