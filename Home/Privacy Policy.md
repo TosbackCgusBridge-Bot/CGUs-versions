@@ -1,3 +1,3 @@
-SearchEnhanced by
+12:31amSearch
 
-© 2019 Mindspark InteractiveSettingsHelpTerms Of ServicePrivacy
+Mindspark InteractiveHelpEULAPrivacy
