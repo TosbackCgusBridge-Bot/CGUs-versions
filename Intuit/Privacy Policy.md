@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
+*   My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -52,9 +52,19 @@ UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELS
     was $27 Liz Claiborne Womens Crew Neck Short Sleeve Graphic T-ShirtAdd To Cart
 *   SPECIAL DEAL!
     
+    $1799 sale
+    
+    was $44 St. John's Bay Belted Petite Capris(14)Add To Cart
+*   SPECIAL DEAL!
+    
     $1760 sale
     
     was $44 Liz Claiborne Womens Long Sleeve Open Front Cardigan(2)Add To Cart
+*   SPECIAL DEAL!
+    
+    $999 sale
+    
+    was $27 St. John's Bay Womens Short Sleeve Embroidered Blouse(9)Add To Cart
 *   SPECIAL DEAL!
     
     $1480 sale
@@ -65,39 +75,29 @@ UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELS
     $999 sale
     
     was $32 St. John's Bay Womens Round Neck Elbow Sleeve Embroidered Peasant TopAdd To Cart
-*   SPECIAL DEAL!
-    
-    $1799 sale
-    
-    was $54 St. John's Bay Womens Long Sleeve Open Front Cardigan(4)Add To Cart
-*   SPECIAL DEAL!
-    
-    $3999 sale
-    
-    was $99 Azul by Maxine of Hollywood Abstract Swim DressAdd To Cart
 
 Hot Sellers
 
-*   LIMITED TIME SPECIAL!
+*   BUY 1 GET 2 FOR FREE
     
-    $1999 sale
+    LIMITED TIME SPECIAL!
     
-    was $75 | 73% offLIMITED TIME SPECIAL! Q7 Black Smartwatch(109)
-*   $2999 sale
+    $50
     
-    was $55 | 45% offClarks Womens Brinkley Jazz Flip-Flops(212)
+    east 5th Womens Evie Heeled Sandals(15)
+*   $2379after couponwas $50 The Foundry Big &. Tall Supply Co. Mens Cargo Short Big and Tall(8)
+*   $1444after couponwas $34 Arizona Flex Flat Front Short(7)
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
     
     $54
     
-    a.n.a Womens Broome Adjustable Strap Flat Sandals(8)
+    St. John's Bay Womens Nixon Wedge Sandals(4)
 *   $1999 sale
     
-    was $24 | 16% offNike® Celso Womens Flip Flops(404)
-*   $2379after couponwas $40 Matrix Biolage Colorlast 2-pc. Value Set
-*   from$1699after couponWorthington Womens Long Sleeve Modern Fit Button-Front Shirt(144)
+    was $25 | 20% offNike® Benassi JDI Womens Athletic Sandals(26)
+*   $1699after couponwas $40 Stafford Travel Easy-Care Broadcloth Mens Point Collar Long Sleeve Stretch Dress Shirt(71)
 
 Shop and Save at JCPenney
 
