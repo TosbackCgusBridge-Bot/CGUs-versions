@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1221 games
-*   Most Popular Games 19222 games
+*   Best of new games 1231 games
+*   Most Popular Games 19229 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,106 games
-*   Driving &. Racing Games 6,798 games
+*   Games for girls 24,109 games
+*   Driving &. Racing Games 6,799 games
 *   Strategy &. RPG Games 2,417 games
 *   Management Games 3,651 games
-*   Thinking Games 12,087 games
-*   Action &. Adventure Games 16,085 games
-*   Sports Games 2,230 games
-*   Shooting Games 8,448 games
-*   Fighting Games 2,089 games
-*   Skill Games 11,108 games
-*   Arcade &. Classic Games 12,898 games
-*   Fun &. Crazy Games 2,527 games
+*   Thinking Games 12,090 games
+*   Action &. Adventure Games 16,089 games
+*   Sports Games 2,231 games
+*   Shooting Games 8,449 games
+*   Fighting Games 2,090 games
+*   Skill Games 11,111 games
+*   Arcade &. Classic Games 12,904 games
+*   Fun &. Crazy Games 2,528 games
 
 Play with friends  
 Powered by Y8 Account 126 Y8 Multiplayer Games 1,988 Y8 High Score Games 1,144 Y8 Achievements Games 816 Y8 Screenshots Games 1,420 Y8 Online Save Games 3,042 All Y8 Games Games Last Highscore:
 
-**5,510** points on Clicker Troops by Tasy
+**549** points on Clicker Troops by sua
 
 Help us improve Bad translation? Social
 
