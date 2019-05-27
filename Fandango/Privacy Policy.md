@@ -295,10 +295,6 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   'John Wick: Chapter 3 - Parabellum' Gift with Purchase
-    
-    Own 'John Wick' and 'John Wick: Chapter Two' for $3.99 each with ticket purchase! BUY TICKETS
-    
 *   VIP+ World Elite Mastercard®
     
     Get 2x the points pay with World Elite Mastercard®. BUY TICKETS
