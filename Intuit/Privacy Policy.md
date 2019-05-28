@@ -34,7 +34,7 @@ Shop Departments
     *   Watches
     *   View all Gifts
 
-Near YouFind a StoreBack
+Near YouFind a StoreBack FINAL HOURS OF COUPON CODEHURRY27ENDS IN00HOURS 41MINS 18SECS See Details\*Extra 30% off select apparel, shoes, accessories, fine jewelry and home purchases of $100 or more. Extra 25% off select purchases under $100. Extra 15% off select furniture, mattresses, housewares, fitness equipment and accessories, custom blinds and shades, watches and salon products. Each offer good at jcp.com only, excluding taxes and shipping charges, 5/27/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Best Value, Daily Deals, Special Deals, Limited Time Specials, Levi's, Denizen from Levi’s, Disney Collection, Disney Tsum Tsum, French Toast, Fisher-Price, Fanatics, Licensed Team Sports Merchandise, Columbia, Carhartt, Nike, adidas, Reebok, Puma, Champion, Converse, Clarks, Skechers Women's Shoes, Skechers Athletic Shoes, Bobs from Skechers, Athletic Shoes, Goddess Lingerie, Dreamgirl, Jewelry Trunk Shows, Modern Bride Design Your Dream Ring, Pre-Owned Watches, Smartwatches, Garmin, Fitbit, Sephora, Food, Penney Lane, S'ip by S'well, Electronics, Small Electrics, Floor Care, In-Home Custom Design, Tempur-Pedic, Neato Robotics, iRobot, Sporting Goods/Outdoor Gear, Toys, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Personalized Jewelry, Wigs and Extensions, Purchase with Purchase Items, In-Store Services, Service Plans, Gift Cards, Closing Store purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code HURRY27 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. Details
 
 X
 
@@ -54,17 +54,17 @@ UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELS
     
     $1799 sale
     
-    was $44 St. John's Bay Belted Petite Capris(14)Add To Cart
-*   SPECIAL DEAL!
-    
-    $1760 sale
-    
-    was $44 Liz Claiborne Womens Long Sleeve Open Front Cardigan(2)Add To Cart
+    was $44 St. John's Bay Belted Petite Capris(15)Add To Cart
 *   SPECIAL DEAL!
     
     $999 sale
     
     was $27 St. John's Bay Womens Short Sleeve Embroidered Blouse(9)Add To Cart
+*   SPECIAL DEAL!
+    
+    $1760 sale
+    
+    was $44 Liz Claiborne Womens Long Sleeve Open Front Cardigan(3)Add To Cart
 *   SPECIAL DEAL!
     
     $1480 sale
@@ -78,6 +78,22 @@ UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELS
 
 Hot Sellers
 
+*   LIMITED TIME SPECIAL!
+    
+    $1999 sale
+    
+    was $75 | 73% offLIMITED TIME SPECIAL! Q7 Black Smartwatch(109)
+*   $5499 sale
+    
+    was $65 | 15% offNike® Air Monarch IV Mens Training Shoes(509)
+*   BUY 1 GET 2 FOR FREE
+    
+    LIMITED TIME SPECIAL!
+    
+    $70
+    
+    Yuu Womens Drew Strap Sandals(13)
+*   $1349after couponwas $36 St. John's Bay Men's Chino Short(18)
 *   BUY 1 GET 2 FOR FREE
     
     LIMITED TIME SPECIAL!
@@ -85,19 +101,7 @@ Hot Sellers
     $50
     
     east 5th Womens Evie Heeled Sandals(15)
-*   $2379after couponwas $50 The Foundry Big &. Tall Supply Co. Mens Cargo Short Big and Tall(8)
-*   $1444after couponwas $34 Arizona Flex Flat Front Short(7)
-*   BUY 1 GET 2 FOR FREE
-    
-    LIMITED TIME SPECIAL!
-    
-    $54
-    
-    St. John's Bay Womens Nixon Wedge Sandals(4)
-*   $1999 sale
-    
-    was $25 | 20% offNike® Benassi JDI Womens Athletic Sandals(26)
-*   $1699after couponwas $40 Stafford Travel Easy-Care Broadcloth Mens Point Collar Long Sleeve Stretch Dress Shirt(71)
+*   $1874after couponwas $54 Arizona Sandra Womens Footbed Sandals(12)
 
 Shop and Save at JCPenney
 
