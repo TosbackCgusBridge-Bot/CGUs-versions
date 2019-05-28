@@ -5,44 +5,38 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Aladdin (2019)
     *   John Wick: Chapter 3 – Parabellum
     *   Avengers: Endgame (2019)
     *   Pokémon Detective Pikachu
+    *   Brightburn
+    *   Booksmart
     *   A Dog's Journey
     *   The Hustle (2019)
     *   The Intruder (2019)
     *   Long Shot
-    *   The Sun Is Also a Star
-    *   Poms
-    *   UglyDolls
-    *   Breakthrough (2019)
+    *   Dumbo (2019)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Aladdin (2019)
-    *   Booksmart
-    *   Brightburn
-    *   Fandango Early Access: The Secret Life of Pets 2
-    *   Echo in the Canyon
-    *   Funny Story
-    *   Halston (2019)
-    *   India's Most Wanted
-    *   The Proposal (2019)
-    *   The Tomorrow Man
+    *   Godzilla: King of the Monsters (2019)
+    *   Rocketman
+    *   Ma (2019)
+    *   Leaving Home, Coming Home: A Portrait of Robert Frank
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Rocketman
-    *   Godzilla: King of the Monsters (2019)
-    *   Ma (2019)
     *   Dark Phoenix
     *   Late Night (2019)
     *   The Secret Life of Pets 2
     *   Men in Black: International
     *   Shaft (2019)
     *   Toy Story 4
+    *   Child's Play (2019)
+    *   Anna (2019)
+    *   Wild Rose (2019)
     *   See All Coming Soon
     
     Explore More
