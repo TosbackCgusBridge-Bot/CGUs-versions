@@ -204,28 +204,9 @@ If you have any questions on our Privacy Policy, or questions about our handling
 New York, NY 10001.**
 
 *   MOST POPULAR
-    
     *   Popular
     *   Emailed
-    *   Recent
-    
-    *   Anti-virus vendors named in Fxmsp's alleged source code breach respond
-    *   Wolters Kluwer still down from May 6 cyberattack
-    *   Article 29 Working Party still not happy with Windows 10 privacy controls
-    *   Report: Hackers claim compromise of four AV firms, offer source code for sale
-    *   Windows 10 zero-day vulnerability released, Microsoft in the dark
-    
-    *   Netanyahu among millions exposed on open travel company data base
-    *   Hackers add bogus scores to Trump's U.S. Golf Association account
-    *   AppSec attack and defense: The password domino effect
-    *   Mozilla fires up another Firefox update, patching 24 vulnerabilities
-    *   NCIS Cyber: USAF investigating USN for planting email tracking malware
-    
-    *   Facebook took action against 2.19B fake accounts in first three months of 2019
-    *   Netanyahu among millions exposed on open travel company data base
-    *   Shubert theater company organization shines spotlight on customer data breach
-    *   Assange indicted on 17 counts under Espionage Act
-    *   Unlucky 13: Mirai variant uses baker's dozen of exploits to compromise IoT devices
+    *   RecentLoading... Loading... Loading...
 
 Back to Top
 
@@ -257,8 +238,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of Haymarket Media’s Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
