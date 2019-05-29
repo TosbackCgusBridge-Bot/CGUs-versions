@@ -125,8 +125,8 @@ View more results
     *   Five Nights at Freddy's 5
     *   Five Nights at Freddy's 4
     *   FNAF World
-    *   Dumb Ways to Die 2
     *   Fireboy and Watergirl 5: Elements
+    *   Dumb Ways to Die 2
     *   Color Bump 3D
 *   Top Categories
     
@@ -153,8 +153,8 @@ View more results
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Fireboy and Watergirl: The Forest Temple
     *   The Impossible Quiz: World's Hardest Quiz
-    *   Deal or No Deal
     *   TenTrix
+    *   Deal or No Deal
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Cut the Rope
     *   Google Feud
@@ -191,7 +191,7 @@ View more results
     *   Get Your Boyfriend
     *   Electricman 2: Stickman Fighting Game
     *   Princess Rivalry
-    *   My Fresh Start Makeover
+    *   Extreme Dental Emergency
 *   Top Categories
     
     *   BMX Games
@@ -248,12 +248,12 @@ View more results
     *   Stunt Skateboard 3D
     *   Baseball
     *   Table Tennis World Tour
-    *   Ultimate Boxing
     *   Archery World Tour
+    *   Ultimate Boxing
     *   Bouncy Dunk
     *   8-Ball
-    *   Playing Soccer
     *   Neon Biker
+    *   Playing Soccer
     *   Billiards Master Pro
 *   *   Multiplayer
     *   Action
@@ -267,7 +267,7 @@ View more results
     Recommended Games
     
     *   Trove
-    *   Roblox
+    *   Vikings: War of Clans
     *   League of Angels 3
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
