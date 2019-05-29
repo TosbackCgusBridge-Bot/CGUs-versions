@@ -65,8 +65,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   Sarah Connor Returns in First ‘Terminator: Dark Fate’ Trailer. Here’s Everything We Know Read More
-    *   Next 3 Action Thrillers for Adults: 'Shaft,' 'Anna,' 'The Kitchen' Read More
-    *   Today in Movie Culture: ‘Brightburn’ Motion Comic, ‘Aladdin’ Music Video for New Song “Speechless” and More Read More
+    *   The Week in Movie News: Lucasfilm Adapting ‘Star Wars’ Video Game, ’John Wick: Chapter 4’ in the Works and More Read More
+    *   Today in Movie Culture: Olivia Wilde’s ‘Booksmart’ Director Commentary, Fan-Made ‘John Wick’ Video Game and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -304,14 +304,14 @@ Offers
 
 New + Coming soon
 
-*   Avengers: Endgame (2019)
-*   Pokémon Detective Pikachu
-*   A Dog's Journey
-*   John Wick: Chapter 3 – Parabellum
 *   Aladdin (2019)
-*   Rocketman
 *   Godzilla: King of the Monsters (2019)
+*   Ma (2019)
+*   Rocketman
+*   Late Night (2019)
+*   Dark Phoenix
 *   The Secret Life of Pets 2
+*   Men in Black: International
 
 Experience + Explore
 
