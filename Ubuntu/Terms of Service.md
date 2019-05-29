@@ -48,8 +48,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server development summary – 28 May 2019 ›
+*   Introducing the Ubuntu security podcast ›
 *   Snapcraft parts &. plugins ›
 *   Kubeflow at KubeCon Europe 2019 in Barcelona ›
 *   Design and Web team summary – 10 May 2019 ›
-*   Introduction to snapcraft ›
-*   Ubuntu Server development summary – 15 May 2019 ›
