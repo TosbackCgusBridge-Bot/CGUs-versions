@@ -16,11 +16,11 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Scores News Video Standing
     
     Featured
     *   Cut4
+    *   Google MLB All-Star Ballot
     *   Play Ball
     *   London Series
     *   Pipeline
     *   MLB Photos
-    *   Jackie Robinson Day
     *   Rare Feats
     *   Reporter's Inbox
     *   This Date in History
