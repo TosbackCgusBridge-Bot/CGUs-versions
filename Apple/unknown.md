@@ -8,15 +8,971 @@ Select date range and country/region.
 
 Date Range
 
+January - June 2018
+
 Date Range
 
-Country / Region
+*   January - June 2018
+    
+*   July - December 2017
+    
+*   January - June 2017
+    
+*   July - December 2016
+    
+*   January - June 2016
+    
+*   July - December 2015
+    
+*   January - June 2015
+    
+*   July - December 2014
+    
+*   January - June 2014
+    
+*   July - December 2013
+    
+*   January - June 2013
+    
 
 Country / Region
+
+Andorra
+
+Country / Region
+
+*   Andorra
+    
+*   Argentina
+    
+*   Australia
+    
+*   Austria
+    
+*   Belarus
+    
+*   Belgium
+    
+*   Brazil
+    
+*   Canada
+    
+*   Chile
+    
+*   China
+    
+*   Costa Rica
+    
+*   Czech Republic
+    
+*   Denmark
+    
+*   Dominican Republic
+    
+*   Estonia
+    
+*   Finland
+    
+*   France
+    
+*   Germany
+    
+*   Greece
+    
+*   Hong Kong
+    
+*   Hungary
+    
+*   Iceland
+    
+*   India
+    
+*   Ireland
+    
+*   Israel
+    
+*   Italy
+    
+*   Japan
+    
+*   Kazakhstan
+    
+*   Liechtenstein
+    
+*   Luxembourg
+    
+*   Macau
+    
+*   Mexico
+    
+*   Moldova
+    
+*   Mozambique
+    
+*   Netherlands
+    
+*   New Zealand
+    
+*   Norway
+    
+*   Paraguay
+    
+*   Poland
+    
+*   Portugal
+    
+*   Romania
+    
+*   Russia
+    
+*   Serbia
+    
+*   Singapore
+    
+*   Slovakia
+    
+*   Slovenia
+    
+*   South Africa
+    
+*   South Korea
+    
+*   Spain
+    
+*   Sweden
+    
+*   Switzerland
+    
+*   Taiwan
+    
+*   Thailand
+    
+*   Turkey
+    
+*   Ukraine
+    
+*   United Arab Emirates
+    
+*   United Kingdom
+    
+*   United States of America
+    
 
 Globe Image Credit: DigitalGlobe, NASA/NOAA
 
-Date Range Date Range content loading
+Date Range January - June 2018July - December 2017January - June 2017July - December 2016January - June 2016July - December 2015January - June 2015July - December 2014January - June 2014July - December 2013January - June 2013 Date Range Andorra
+
+*   13Device
+*   0Financial Identifier
+*   0Account
+*   0Emergency
+
+View Report for AndorraArgentina
+
+*   7Device
+*   2Financial Identifier
+*   2Account
+*   0Emergency
+
+View Report for ArgentinaAustralia
+
+*   2,357Device
+*   113Financial Identifier
+*   120Account
+*   2Emergency
+
+View Report for AustraliaAustria
+
+*   502Device
+*   25Financial Identifier
+*   8Account
+*   0Emergency
+
+View Report for AustriaBelarus
+
+*   0Device
+*   0Financial Identifier
+*   1Account
+*   0Emergency
+
+View Report for BelarusBelgium
+
+*   216Device
+*   14Financial Identifier
+*   11Account
+*   0Emergency
+
+View Report for BelgiumBrazil
+
+*   407Device
+*   2Financial Identifier
+*   200Account
+*   3Emergency
+
+View Report for BrazilCanada
+
+*   15Device
+*   18Financial Identifier
+*   15Account
+*   24Emergency
+
+View Report for CanadaChile
+
+*   36Device
+*   1Financial Identifier
+*   3Account
+*   0Emergency
+
+View Report for ChileChina
+
+*   751Device
+*   47Financial Identifier
+*   33Account
+*   0Emergency
+
+View Report for ChinaCosta Rica
+
+*   0Device
+*   0Financial Identifier
+*   2Account
+*   0Emergency
+
+View Report for Costa RicaCzech Republic
+
+*   30Device
+*   7Financial Identifier
+*   3Account
+*   1Emergency
+
+View Report for Czech RepublicDenmark
+
+*   84Device
+*   2Financial Identifier
+*   1Account
+*   0Emergency
+
+View Report for DenmarkDominican Republic
+
+*   0Device
+*   0Financial Identifier
+*   0Account
+*   1Emergency
+
+View Report for Dominican RepublicEstonia
+
+*   2Device
+*   1Financial Identifier
+*   1Account
+*   0Emergency
+
+View Report for EstoniaFinland
+
+*   8Device
+*   1Financial Identifier
+*   2Account
+*   0Emergency
+
+View Report for FinlandFrance
+
+*   1,179Device
+*   238Financial Identifier
+*   120Account
+*   9Emergency
+
+View Report for FranceGermany
+
+*   13,704Device
+*   1,229Financial Identifier
+*   292Account
+*   9Emergency
+
+View Report for GermanyGreece
+
+*   34Device
+*   0Financial Identifier
+*   10Account
+*   0Emergency
+
+View Report for GreeceHong Kong
+
+*   567Device
+*   91Financial Identifier
+*   5Account
+*   0Emergency
+
+View Report for Hong KongHungary
+
+*   18Device
+*   5Financial Identifier
+*   4Account
+*   0Emergency
+
+View Report for HungaryIceland
+
+*   0Device
+*   0Financial Identifier
+*   0Account
+*   1Emergency
+
+View Report for IcelandIndia
+
+*   27Device
+*   34Financial Identifier
+*   18Account
+*   3Emergency
+
+View Report for IndiaIreland
+
+*   160Device
+*   10Financial Identifier
+*   5Account
+*   1Emergency
+
+View Report for IrelandIsrael
+
+*   0Device
+*   0Financial Identifier
+*   0Account
+*   1Emergency
+
+View Report for IsraelItaly
+
+*   595Device
+*   129Financial Identifier
+*   76Account
+*   4Emergency
+
+View Report for ItalyJapan
+
+*   446Device
+*   73Financial Identifier
+*   166Account
+*   0Emergency
+
+View Report for JapanKazakhstan
+
+*   1Device
+*   0Financial Identifier
+*   0Account
+*   0Emergency
+
+View Report for KazakhstanLiechtenstein
+
+*   6Device
+*   0Financial Identifier
+*   0Account
+*   0Emergency
+
+View Report for LiechtensteinLuxembourg
+
+*   9Device
+*   1Financial Identifier
+*   0Account
+*   0Emergency
+
+View Report for LuxembourgMacau
+
+*   0Device
+*   3Financial Identifier
+*   0Account
+*   0Emergency
+
+View Report for MacauMexico
+
+*   2Device
+*   1Financial Identifier
+*   2Account
+*   9Emergency
+
+View Report for MexicoMoldova
+
+*   0Device
+*   2Financial Identifier
+*   0Account
+*   0Emergency
+
+View Report for MoldovaMozambique
+
+*   0Device
+*   0Financial Identifier
+*   1Account
+*   0Emergency
+
+View Report for MozambiqueNetherlands
+
+*   32Device
+*   1Financial Identifier
+*   10Account
+*   2Emergency
+
+View Report for NetherlandsNew Zealand
+
+*   315Device
+*   12Financial Identifier
+*   2Account
+*   0Emergency
+
+View Report for New ZealandNorway
+
+*   37Device
+*   9Financial Identifier
+*   6Account
+*   3Emergency
+
+View Report for NorwayParaguay
+
+*   1Device
+*   0Financial Identifier
+*   1Account
+*   0Emergency
+
+View Report for ParaguayPoland
+
+*   32Device
+*   10Financial Identifier
+*   8Account
+*   2Emergency
+
+View Report for PolandPortugal
+
+*   175Device
+*   8Financial Identifier
+*   2Account
+*   0Emergency
+
+View Report for PortugalRomania
+
+*   13Device
+*   3Financial Identifier
+*   0Account
+*   0Emergency
+
+View Report for RomaniaRussia
+
+*   702Device
+*   5Financial Identifier
+*   3Account
+*   0Emergency
+
+View Report for RussiaSerbia
+
+*   1Device
+*   0Financial Identifier
+*   0Account
+*   0Emergency
+
+View Report for SerbiaSingapore
+
+*   1,689Device
+*   35Financial Identifier
+*   46Account
+*   0Emergency
+
+View Report for SingaporeSlovakia
+
+*   1Device
+*   0Financial Identifier
+*   0Account
+*   1Emergency
+
+View Report for SlovakiaSlovenia
+
+*   18Device
+*   0Financial Identifier
+*   0Account
+*   0Emergency
+
+View Report for SloveniaSouth Africa
+
+*   23Device
+*   0Financial Identifier
+*   1Account
+*   0Emergency
+
+View Report for South AfricaSouth Korea
+
+*   92Device
+*   15Financial Identifier
+*   10Account
+*   1Emergency
+
+View Report for South KoreaSpain
+
+*   2,276Device
+*   388Financial Identifier
+*   43Account
+*   1Emergency
+
+View Report for SpainSweden
+
+*   136Device
+*   8Financial Identifier
+*   7Account
+*   1Emergency
+
+View Report for SwedenSwitzerland
+
+*   344Device
+*   139Financial Identifier
+*   12Account
+*   9Emergency
+
+View Report for SwitzerlandTaiwan
+
+*   71Device
+*   185Financial Identifier
+*   241Account
+*   1Emergency
+
+View Report for TaiwanThailand
+
+*   4Device
+*   0Financial Identifier
+*   0Account
+*   0Emergency
+
+View Report for ThailandTurkey
+
+*   60Device
+*   85Financial Identifier
+*   21Account
+*   0Emergency
+
+View Report for TurkeyUkraine
+
+*   2Device
+*   0Financial Identifier
+*   2Account
+*   0Emergency
+
+View Report for UkraineUnited Arab Emirates
+
+*   0Device
+*   2Financial Identifier
+*   1Account
+*   1Emergency
+
+View Report for United Arab EmiratesUnited Kingdom
+
+*   572Device
+*   101Financial Identifier
+*   263Account
+*   172Emergency
+
+View Report for United KingdomUnited States of America
+
+*   4,570Device
+*   918Financial Identifier
+*   2,397Account
+*   145Emergency
+
+View Report for United States of America Andorra
+
+*   13Device
+*   0Financial Identifier
+*   0Account
+*   0Emergency
+
+View Report for AndorraArgentina
+
+*   7Device
+*   2Financial Identifier
+*   2Account
+*   0Emergency
+
+View Report for ArgentinaAustralia
+
+*   2,357Device
+*   113Financial Identifier
+*   120Account
+*   2Emergency
+
+View Report for AustraliaAustria
+
+*   502Device
+*   25Financial Identifier
+*   8Account
+*   0Emergency
+
+View Report for AustriaBelarus
+
+*   0Device
+*   0Financial Identifier
+*   1Account
+*   0Emergency
+
+View Report for BelarusBelgium
+
+*   216Device
+*   14Financial Identifier
+*   11Account
+*   0Emergency
+
+View Report for BelgiumBrazil
+
+*   407Device
+*   2Financial Identifier
+*   200Account
+*   3Emergency
+
+View Report for BrazilCanada
+
+*   15Device
+*   18Financial Identifier
+*   15Account
+*   24Emergency
+
+View Report for CanadaChile
+
+*   36Device
+*   1Financial Identifier
+*   3Account
+*   0Emergency
+
+View Report for ChileChina
+
+*   751Device
+*   47Financial Identifier
+*   33Account
+*   0Emergency
+
+View Report for ChinaCosta Rica
+
+*   0Device
+*   0Financial Identifier
+*   2Account
+*   0Emergency
+
+View Report for Costa RicaCzech Republic
+
+*   30Device
+*   7Financial Identifier
+*   3Account
+*   1Emergency
+
+View Report for Czech RepublicDenmark
+
+*   84Device
+*   2Financial Identifier
+*   1Account
+*   0Emergency
+
+View Report for DenmarkDominican Republic
+
+*   0Device
+*   0Financial Identifier
+*   0Account
+*   1Emergency
+
+View Report for Dominican RepublicEstonia
+
+*   2Device
+*   1Financial Identifier
+*   1Account
+*   0Emergency
+
+View Report for EstoniaFinland
+
+*   8Device
+*   1Financial Identifier
+*   2Account
+*   0Emergency
+
+View Report for FinlandFrance
+
+*   1,179Device
+*   238Financial Identifier
+*   120Account
+*   9Emergency
+
+View Report for FranceGermany
+
+*   13,704Device
+*   1,229Financial Identifier
+*   292Account
+*   9Emergency
+
+View Report for GermanyGreece
+
+*   34Device
+*   0Financial Identifier
+*   10Account
+*   0Emergency
+
+View Report for GreeceHong Kong
+
+*   567Device
+*   91Financial Identifier
+*   5Account
+*   0Emergency
+
+View Report for Hong KongHungary
+
+*   18Device
+*   5Financial Identifier
+*   4Account
+*   0Emergency
+
+View Report for HungaryIceland
+
+*   0Device
+*   0Financial Identifier
+*   0Account
+*   1Emergency
+
+View Report for IcelandIndia
+
+*   27Device
+*   34Financial Identifier
+*   18Account
+*   3Emergency
+
+View Report for IndiaIreland
+
+*   160Device
+*   10Financial Identifier
+*   5Account
+*   1Emergency
+
+View Report for IrelandIsrael
+
+*   0Device
+*   0Financial Identifier
+*   0Account
+*   1Emergency
+
+View Report for IsraelItaly
+
+*   595Device
+*   129Financial Identifier
+*   76Account
+*   4Emergency
+
+View Report for ItalyJapan
+
+*   446Device
+*   73Financial Identifier
+*   166Account
+*   0Emergency
+
+View Report for JapanKazakhstan
+
+*   1Device
+*   0Financial Identifier
+*   0Account
+*   0Emergency
+
+View Report for KazakhstanLiechtenstein
+
+*   6Device
+*   0Financial Identifier
+*   0Account
+*   0Emergency
+
+View Report for LiechtensteinLuxembourg
+
+*   9Device
+*   1Financial Identifier
+*   0Account
+*   0Emergency
+
+View Report for LuxembourgMacau
+
+*   0Device
+*   3Financial Identifier
+*   0Account
+*   0Emergency
+
+View Report for MacauMexico
+
+*   2Device
+*   1Financial Identifier
+*   2Account
+*   9Emergency
+
+View Report for MexicoMoldova
+
+*   0Device
+*   2Financial Identifier
+*   0Account
+*   0Emergency
+
+View Report for MoldovaMozambique
+
+*   0Device
+*   0Financial Identifier
+*   1Account
+*   0Emergency
+
+View Report for MozambiqueNetherlands
+
+*   32Device
+*   1Financial Identifier
+*   10Account
+*   2Emergency
+
+View Report for NetherlandsNew Zealand
+
+*   315Device
+*   12Financial Identifier
+*   2Account
+*   0Emergency
+
+View Report for New ZealandNorway
+
+*   37Device
+*   9Financial Identifier
+*   6Account
+*   3Emergency
+
+View Report for NorwayParaguay
+
+*   1Device
+*   0Financial Identifier
+*   1Account
+*   0Emergency
+
+View Report for ParaguayPoland
+
+*   32Device
+*   10Financial Identifier
+*   8Account
+*   2Emergency
+
+View Report for PolandPortugal
+
+*   175Device
+*   8Financial Identifier
+*   2Account
+*   0Emergency
+
+View Report for PortugalRomania
+
+*   13Device
+*   3Financial Identifier
+*   0Account
+*   0Emergency
+
+View Report for RomaniaRussia
+
+*   702Device
+*   5Financial Identifier
+*   3Account
+*   0Emergency
+
+View Report for RussiaSerbia
+
+*   1Device
+*   0Financial Identifier
+*   0Account
+*   0Emergency
+
+View Report for SerbiaSingapore
+
+*   1,689Device
+*   35Financial Identifier
+*   46Account
+*   0Emergency
+
+View Report for SingaporeSlovakia
+
+*   1Device
+*   0Financial Identifier
+*   0Account
+*   1Emergency
+
+View Report for SlovakiaSlovenia
+
+*   18Device
+*   0Financial Identifier
+*   0Account
+*   0Emergency
+
+View Report for SloveniaSouth Africa
+
+*   23Device
+*   0Financial Identifier
+*   1Account
+*   0Emergency
+
+View Report for South AfricaSouth Korea
+
+*   92Device
+*   15Financial Identifier
+*   10Account
+*   1Emergency
+
+View Report for South KoreaSpain
+
+*   2,276Device
+*   388Financial Identifier
+*   43Account
+*   1Emergency
+
+View Report for SpainSweden
+
+*   136Device
+*   8Financial Identifier
+*   7Account
+*   1Emergency
+
+View Report for SwedenSwitzerland
+
+*   344Device
+*   139Financial Identifier
+*   12Account
+*   9Emergency
+
+View Report for SwitzerlandTaiwan
+
+*   71Device
+*   185Financial Identifier
+*   241Account
+*   1Emergency
+
+View Report for TaiwanThailand
+
+*   4Device
+*   0Financial Identifier
+*   0Account
+*   0Emergency
+
+View Report for ThailandTurkey
+
+*   60Device
+*   85Financial Identifier
+*   21Account
+*   0Emergency
+
+View Report for TurkeyUkraine
+
+*   2Device
+*   0Financial Identifier
+*   2Account
+*   0Emergency
+
+View Report for UkraineUnited Arab Emirates
+
+*   0Device
+*   2Financial Identifier
+*   1Account
+*   1Emergency
+
+View Report for United Arab EmiratesUnited Kingdom
+
+*   572Device
+*   101Financial Identifier
+*   263Account
+*   172Emergency
+
+View Report for United KingdomUnited States of America
+
+*   4,570Device
+*   918Financial Identifier
+*   2,397Account
+*   145Emergency
+
+View Report for United States of America
 
 *   Device
     
@@ -50,8 +1006,9 @@ Date Range Date Range content loading
     
     View Account Requests
     
-    Account Requests by Year - Worldwide
-    
+    Account Requests by Year - Worldwide 7k6k5k4k3k2k1k0k81%201775%201667%201560%201454%2013
+    *   Requests Received
+    *   Requests where Data Provided
 *   Account Preservation
     
     Account Preservation requests are based on account identifiers such as an Apple ID or email address.   
@@ -82,8 +1039,9 @@ Date Range Date Range content loading
     
     View Emergency Requests
     
-    Emergency Requests by Year - Worldwide
-    
+    Emergency Requests by Year - Worldwide 600500400300200100082%2017N/A2016N/A2015N/A2014N/A2013
+    *   Requests Received
+    *   Requests where Data Provided
 *   United States National Security
     
     U.S. National Security requests seek customer data in response to national security related investigations. National Security requests include orders received under the Foreign Intelligence Surveillance Act (“FISA”) and National Security Letters (“NSLs”). To date, Apple has not received any orders for bulk data.
