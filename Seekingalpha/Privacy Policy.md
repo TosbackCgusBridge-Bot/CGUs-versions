@@ -33,7 +33,7 @@ MarketplaceSeeking AlphaSUBSCRIBE
     *   Today's Market
     *   Dividend Strategy
     *   ETF Screener
-    *   All Investing Podcasts
+    *   Investing Podcasts
 
 Sign in / Join Now
 
