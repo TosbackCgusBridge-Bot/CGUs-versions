@@ -39,7 +39,7 @@ Visokio (UK) Ltd
 London, SW3 3DD, UK  
 +44 20 7351 4646
 
-Resources
+Tweets by @Visokio Resources
 
 Try now Download
 
