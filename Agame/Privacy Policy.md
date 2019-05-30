@@ -121,8 +121,8 @@ View more results
     *   Short Life
     *   Fire Balls
     *   World Craft 2
-    *   Tom and Jerry: Mouse Maze
     *   Five Nights at Freddy's 5
+    *   Tom and Jerry: Mouse Maze
     *   Five Nights at Freddy's 4
     *   FNAF World
     *   Fireboy and Watergirl 5: Elements
@@ -156,8 +156,8 @@ View more results
     *   TenTrix
     *   Deal or No Deal
     *   Fireboy &. Watergirl 4: Crystal Temple
-    *   Cut the Rope
     *   Google Feud
+    *   Cut the Rope
     *   1001 Arabian Nights
     *   Bubble Machine: 2 Player Game
 *   Top Categories
@@ -219,11 +219,11 @@ View more results
     *   Country Ride: Race Car Game
     *   Bike Racing: Motorcycle Game
     *   Uphill Rush 7: Waterpark
-    *   Happy Wheels
     *   Extreme Off-Road Cars 2
     *   Moto X3M: Motorcycle Racing Game
     *   Russian Car Driver
     *   Rally Point 2: Dirt Track Racing Game
+    *   Agame Stunt Cars
 *   Top Categories
     
     *   Athletics
