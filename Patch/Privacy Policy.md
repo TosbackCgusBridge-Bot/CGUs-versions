@@ -1,6 +1,6 @@
-Toggle navigation **Advertise** **Sign up** Log in
+Toggle navigation **Advertise** **Log in** Sign up
 
-*   Home
+*   Log in
 
 *   Post
 *   Advertise
@@ -283,9 +283,9 @@ Patches Across Our Network
 *   Middletown, NJ
 *   Ocean City, NJ
 *   Toms River, NJ
-*   Sachem, NY
 *   Doylestown, PA
 *   Marple Newtown, PA
+*   View All Patches
 
 Weather Across Patch
 
@@ -315,7 +315,7 @@ Support
 
 *   FAQs
 *   Contact Patch
-*   View All Patches
+*   Community Guidelines
 
 *   Patch Network
 *   Terms of Use
