@@ -397,11 +397,11 @@ Support
 
 facebook-logo linkedin-logo youtube-logo email-logo Download the O'Reilly App
 
-Take O'Reilly online learning with you—learn anywhere, anytime on your phone or tablet. Don’t wait! Download the app today and:
+Take O’Reilly online learning with you and learn anywhere, anytime on your phone or tablet. Download the app today and:
 
-*   Get unlimited access to O'Reilly online learning content
-*   Never lose your place—all your devices are automatically synced.
-*   Read when you can focus—make good use of your commute time.
+*   Get unlimited access to books, videos, live training sessions, and courses
+*   Never lose your place—all your devices are automatically synced
+*   Learn during your commute with online and offline access
 
 © 2019, O’Reilly Media, Inc. All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
 
