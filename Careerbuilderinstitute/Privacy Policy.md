@@ -5,9 +5,9 @@
     *   Career Advice
     *   Explore Careers
 
-Sign In Sign Up Post Jobs <div class='bg-grey'>. <div class='container np center red b u'>This site requires JavaScript to work correctly. Please, activate it in the options of your browser.</div>. </div>. Shorter commute. More money. Job-happy. Work can work™ Job Title Commute Time US
+Sign In Sign Up Post Jobs <div class='bg-grey'>. <div class='container np center red b u'>This site requires JavaScript to work correctly. Please, activate it in the options of your browser.</div>. </div>. Like what you do. Where you do it. And get paid more. Job Title Commute Time US
 
-Find Jobs What job do you want? Post a Job Make your search easy. Let jobs find you Build or upload a resume Add your resume don't know where to start? Trending Searches Sales Customer Service Accounting Entry Level Administrative Assistant Retail Registered Nurse Travel Specialist Entry Level Caregiver .NET Developer View more job titles over 100 million jobs Top 20 Hiring Companies View More Top Companies making your job search easy How CareerBuilder can help Salary Tools
+Search Jobs What job do you want? Post a Job Make your search easy. Upload Your Resume Don't have a resume? Build one in 3 steps. Upload/Build Resume don't know where to start? Trending Searches Sales Customer Service Accounting Entry Level Administrative Assistant Retail Registered Nurse Travel Specialist Entry Level Caregiver .NET Developer View more job titles over 100 million jobs Top 20 Hiring Companies View More Top Companies making your job search easy How CareerBuilder can help Salary Tools
 
 See how your salary compares to others with the same job title in your area. Not only can you compare your salary, but you can also see what skills you are missing to earn more money.
 
