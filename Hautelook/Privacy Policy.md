@@ -7,16 +7,39 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Cole Haan Starting at $60
+    *   Cole Haan Men Starting at $60
+    *   Exclusively Ours: Abound
+    *   Cole Haan Coats Up to 70% Off
+    *   Cole Haan Men's Accessories Up to 70% Off
+    *   Cole Haan Handbags &. Accessories Up to 50% Off
+    *   Brands We Love ft. ALLISON New York
+    *   Meghan LA
+    *   14K Gold Steals &. More
+    *   Summer Essentials: Aratta &. More from $25
+    *   Bruno Magli Watches Up to 65% Off
+    *   Saucony
+    *   Betsey Johnson Active
+    *   Gemstones &. More Under $90
+    *   Eddie Bauer Bedding
+    *   Luxe Skin Care: D24K by D'or
+    *   Summer Ties Under $25
+    *   Butter Super Soft
+    *   Amaxy Hair Tools &. More Starting at $10
+    *   Pillows &. Throws Up to 65% Off
+    *   Cheers to Dad: Barware &. More
+    *   Button-Downs &. Beyond: Dress Shirts Under $40
+    *   Sovereign Code
     *   Joie Up to 70% Off
     *   CURRENT/ELLIOTT Up to 65% Off
     *   Joie Shoes Up to 55% Off
-    *   go >. by GoSilk
-    *   Cuisinart
-    *   Free Shipping: On-Trend Storage, Decor &. More
-    *   New on HauteLook: BODUM Coffee Makers &. More
+    
     *   Spring-to-Summer Styles ft. Ooberswank
     *   Party On: Dresses &. More From $30
     *   Saachi Gemstone &. Leather Jewelry from $15
+    *   go >. by GoSilk
+    *   Lucky Swim &. More
+    *   X by Gottex
     *   Slip into Summer: Loafers, Mules &. More from $20
     *   Onia Up to 70% Off
     *   Summer-Style Trend: Cargos Starting at $20
@@ -24,143 +47,113 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Zoe Ayla Cosmetics
     *   Lazerfuzion Lip Plumping System Starting at $10
     *   Get Out &. Play: Kids' Activewear
-    *   Lucky Swim &. More
     *   On Trend: Summer Vacation Jewelry from $18
-    *   X by Gottex
     *   For Graduation &. Beyond: Suits Under $250
     *   Men's Slip-Ons &. More ft. Swims
     *   Aldo Men Starting at $30
     *   For Little Loungers: Champion &. More
     *   Summer Steals: Kids' Sandals &. More Up to 50% Off
-    *   Tissot Watches
-    *   Summer Checklist: Tops, Bottoms &. More from $10
-    
-    *   Seven7 from $25 Incl. Plus &. Petites
-    *   Wrap Dresses Under $45 Incl. Plus &. Petites
-    *   Jumpsuits &. Rompers from $20 Incl. Plus &. Petites
     *   Free Shipping: Textured &. Printed Bedding
-    *   Via Spiga Up to 60% Off
     *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
-    *   LifeStride Under $50
     *   Free Shipping: Hand-Painted Replicas
-    *   Fun in the Sun: Wedges, Flat Sandals &. More
     *   skinChemists Up to 85% Off
-    *   Trending Now: Clear Handbags &. More
-    *   On-Trend Plus Styles Starting at $15
-    *   Jessica Simpson Lingerie &. Sleep Starting at $15
-    *   $100 &. Under: Men's Dress Shoes
     *   J.Crew Men &. More Starting at $20
-    *   Gifts for Dads &. Grads: Accessories &. More
-    *   Pretty on the Fly: Luggage Up to 75% Off
     *   To the Beach: Kids' Swim &. Surf
     *   Nicole Miller Girls Up to 60% Off
+    
     *   Tommy Hilfiger Men's Shoes from $20
     *   Girls' Brands Under $25
     *   Boys' Brands Under $25
-    *   Joe Fresh Under $40 Incl. Plus
     *   Best of Makeup ft. Urban Decay &. Stila from $10
-    *   Gemstone Jewelry Finds Up to 80% Off
-    *   Lola Made in Italy Up to 70% Off
-    *   Women's Shoe Blowout
-    
     *   Free Shipping: Kitchen &. Grilling Blowouts
     *   Free Shipping: Pet Beds &. Covers Up to 60% Off
     *   Men's Shoes Up to 65% Off
-    *   Designer Styles Up to 75% Off
-    *   Men's Designer Shoes &. Accessories Up to 65% Off
-    *   Men's Designer Styles Up to 60% Off ft. Moschino
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
-    *   Men's Summer Button-Downs: Linen &. More
-    *   Baby Shop: Premium Styles Under $25
-    *   The Maternity Shop ft. LAmade
     *   Hera Hair Tools Up to 85% Off
     *   Say It with Love: Gifts for Dads &. More
     *   Rouge Bunny Rouge Starting at $15
     *   Free Shipping: Professional Garment Steamers
     *   Speakers, Headphones &. More Starting at $12
-    *   FOREO Face Cleansing Device
     *   Free Shipping: Kitchen Organization from $10
     *   Free Shipping: Marmont Hill Wall Art
     *   Free Shipping: Amrapur Towels Up to 70% Off
     *   Soy Candles Under $25
-    *   Sweet Dreams: Sheet Sets, Duvets &. More
-    *   Free Shipping: Bold &. Daring Wall Art
     *   Make It Modern: Lighting, Decor &. More
-    *   Ray-Ban Sun &. More
-    *   NxN Beauty: Cleansers, Serums &. More
     *   Always in Style: Planters, Bowls &. More
+    *   Pretty on the Fly: Luggage Up to 75% Off
+    *   New on HauteLook: BODUM Coffee Makers &. More
+    *   Free Shipping: On-Trend Storage, Decor &. More
+    *   Cuisinart
+    *   Wrap Dresses Under $45 Incl. Plus &. Petites
+    *   Jumpsuits &. Rompers from $20 Incl. Plus &. Petites
+    *   Designer Styles Up to 75% Off
 *   WomenShop Sale Events
     
+    *   Cole Haan Starting at $60
+    *   Exclusively Ours: Abound
+    *   Cole Haan Coats Up to 70% Off
+    *   Cole Haan Handbags &. Accessories Up to 50% Off
+    *   Brands We Love ft. ALLISON New York
+    *   Meghan LA
+    *   14K Gold Steals &. More
+    *   Summer Essentials: Aratta &. More from $25
+    *   Bruno Magli Watches Up to 65% Off
+    *   Saucony
+    *   Betsey Johnson Active
+    *   Gemstones &. More Under $90
+    *   Luxe Skin Care: D24K by D'or
+    *   Amaxy Hair Tools &. More Starting at $10
     *   Joie Up to 70% Off
     *   CURRENT/ELLIOTT Up to 65% Off
     *   Joie Shoes Up to 55% Off
-    *   go >. by GoSilk
     *   Spring-to-Summer Styles ft. Ooberswank
     *   Party On: Dresses &. More From $30
+    
     *   Saachi Gemstone &. Leather Jewelry from $15
+    *   go >. by GoSilk
+    *   Lucky Swim &. More
+    *   X by Gottex
     *   Slip into Summer: Loafers, Mules &. More from $20
     *   Sandals Under $40
     *   Zoe Ayla Cosmetics
     *   Lazerfuzion Lip Plumping System Starting at $10
-    *   Lucky Swim &. More
     *   On Trend: Summer Vacation Jewelry from $18
-    *   X by Gottex
-    *   Tissot Watches
-    *   Summer Checklist: Tops, Bottoms &. More from $10
-    *   Seven7 from $25 Incl. Plus &. Petites
-    *   Wrap Dresses Under $45 Incl. Plus &. Petites
-    *   Jumpsuits &. Rompers from $20 Incl. Plus &. Petites
-    *   Via Spiga Up to 60% Off
     *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
-    
-    *   LifeStride Under $50
-    *   Fun in the Sun: Wedges, Flat Sandals &. More
     *   skinChemists Up to 85% Off
-    *   Trending Now: Clear Handbags &. More
-    *   On-Trend Plus Styles Starting at $15
-    *   Jessica Simpson Lingerie &. Sleep Starting at $15
-    *   Pretty on the Fly: Luggage Up to 75% Off
-    *   Joe Fresh Under $40 Incl. Plus
     *   Best of Makeup ft. Urban Decay &. Stila from $10
-    *   Gemstone Jewelry Finds Up to 80% Off
-    *   Lola Made in Italy Up to 70% Off
-    *   Women's Shoe Blowout
-    *   Designer Styles Up to 75% Off
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
-    *   The Maternity Shop ft. LAmade
     *   Hera Hair Tools Up to 85% Off
     *   Rouge Bunny Rouge Starting at $15
-    *   FOREO Face Cleansing Device
-    *   Ray-Ban Sun &. More
-    *   NxN Beauty: Cleansers, Serums &. More
+    *   Pretty on the Fly: Luggage Up to 75% Off
+    *   Wrap Dresses Under $45 Incl. Plus &. Petites
+    *   Jumpsuits &. Rompers from $20 Incl. Plus &. Petites
+    *   Designer Styles Up to 75% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Lingerie
     *   Watches
     *   Handbags
+    *   Lingerie
     *   Accessories
 *   MenShop Sale Events
     
+    *   Cole Haan Men Starting at $60
+    *   Cole Haan Men's Accessories Up to 70% Off
+    *   Bruno Magli Watches Up to 65% Off
+    *   Summer Ties Under $25
+    *   Button-Downs &. Beyond: Dress Shirts Under $40
     *   Onia Up to 70% Off
     *   Summer-Style Trend: Cargos Starting at $20
+    
     *   For Graduation &. Beyond: Suits Under $250
     *   Men's Slip-Ons &. More ft. Swims
     *   Aldo Men Starting at $30
-    *   Tissot Watches
-    *   $100 &. Under: Men's Dress Shoes
     *   J.Crew Men &. More Starting at $20
-    
-    *   Gifts for Dads &. Grads: Accessories &. More
-    *   Pretty on the Fly: Luggage Up to 75% Off
     *   Tommy Hilfiger Men's Shoes from $20
     *   Men's Shoes Up to 65% Off
-    *   Men's Designer Shoes &. Accessories Up to 65% Off
-    *   Men's Designer Styles Up to 60% Off ft. Moschino
-    *   Men's Summer Button-Downs: Linen &. More
-    *   Ray-Ban Sun &. More
+    *   Pretty on the Fly: Luggage Up to 75% Off
     
     Shop By Category
     *   Shoes
@@ -169,6 +162,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Butter Super Soft
+    *   Sovereign Code
     *   Get Out &. Play: Kids' Activewear
     *   For Little Loungers: Champion &. More
     *   Summer Steals: Kids' Sandals &. More Up to 50% Off
@@ -176,40 +171,39 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Nicole Miller Girls Up to 60% Off
     *   Girls' Brands Under $25
     *   Boys' Brands Under $25
-    *   Baby Shop: Premium Styles Under $25
-    *   The Maternity Shop ft. LAmade
     
     Shop By Category
     *   Girls' Shoes
     *   Girls' Sizes 7-16
     *   Girls' Sizes 2T-6X
-    *   Baby Girl
-    *   Baby Boy
     *   Boys' Sizes 2T-7
+    *   Baby Boy
     *   Boys' Sizes 8-20
+    *   Baby Girl
     *   Boys' Shoes
 *   HomeShop Sale Events
     
-    *   Cuisinart
-    *   Free Shipping: On-Trend Storage, Decor &. More
-    *   New on HauteLook: BODUM Coffee Makers &. More
+    *   Eddie Bauer Bedding
+    *   Pillows &. Throws Up to 65% Off
+    *   Cheers to Dad: Barware &. More
     *   Free Shipping: Textured &. Printed Bedding
     *   Free Shipping: Hand-Painted Replicas
-    *   Pretty on the Fly: Luggage Up to 75% Off
     *   Free Shipping: Kitchen &. Grilling Blowouts
     *   Free Shipping: Pet Beds &. Covers Up to 60% Off
     *   Say It with Love: Gifts for Dads &. More
     *   Free Shipping: Professional Garment Steamers
-    
     *   Speakers, Headphones &. More Starting at $12
+    
     *   Free Shipping: Kitchen Organization from $10
     *   Free Shipping: Marmont Hill Wall Art
     *   Free Shipping: Amrapur Towels Up to 70% Off
     *   Soy Candles Under $25
-    *   Sweet Dreams: Sheet Sets, Duvets &. More
-    *   Free Shipping: Bold &. Daring Wall Art
     *   Make It Modern: Lighting, Decor &. More
     *   Always in Style: Planters, Bowls &. More
+    *   Pretty on the Fly: Luggage Up to 75% Off
+    *   New on HauteLook: BODUM Coffee Makers &. More
+    *   Free Shipping: On-Trend Storage, Decor &. More
+    *   Cuisinart
     
     Shop By Category
     *   Home Decor
@@ -224,6 +218,8 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Luxe Skin Care: D24K by D'or
+    *   Amaxy Hair Tools &. More Starting at $10
     *   Zoe Ayla Cosmetics
     *   Lazerfuzion Lip Plumping System Starting at $10
     *   skinChemists Up to 85% Off
@@ -231,14 +227,12 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   Hera Hair Tools Up to 85% Off
     *   Rouge Bunny Rouge Starting at $15
-    *   FOREO Face Cleansing Device
-    *   NxN Beauty: Cleansers, Serums &. More
     
     Shop By Category
-    *   Makeup
     *   Skin Care
-    *   Tools &. Accessories
+    *   Makeup
     *   Hair Care
+    *   Tools &. Accessories
     *   Fragrance
     *   Bath &. Body
     *   Makeup Bags
