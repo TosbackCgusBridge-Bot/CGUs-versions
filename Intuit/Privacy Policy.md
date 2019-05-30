@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   My AccountSign InSign InNew Customer? Register Here
+*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -62,14 +62,14 @@ UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELS
     was $27 St. John's Bay Womens Short Sleeve Embroidered Blouse(9)Add To Cart
 *   SPECIAL DEAL!
     
-    $1760 sale
-    
-    was $44 Liz Claiborne Womens Long Sleeve Open Front Cardigan(3)Add To Cart
-*   SPECIAL DEAL!
-    
     $1480 sale
     
     was $37 Liz Claiborne 3/4 Tie Sleeve Knit Top(29)Add To Cart
+*   SPECIAL DEAL!
+    
+    $1760 sale
+    
+    was $44 Liz Claiborne Womens Long Sleeve Open Front Cardigan(3)Add To Cart
 *   SPECIAL DEAL!
     
     $999 sale
@@ -78,12 +78,16 @@ UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELS
 
 Hot Sellers
 
-*   $1439after couponwas $30 The Foundry Big &. Tall Supply Co. Mens Short Sleeve Polo Shirt Big and Tall(4)
-*   $1920after couponwas $30 Stafford® 4-pk. Heavyweight Crewneck T-Shirts(681)
-*   $1599after couponwas $48 Haggar Mens Short Sleeve Plaid Button-Front Shirt(7)
-*   from$32after couponwas $80 - $150 Liz Claiborne Quinn Leaf Grommet-Top Curtain Panel(808)
-*   $1439after couponwas $40 Arizona Womens Alma Strap Sandals(5)
-*   from$1599after couponwas $50 - $159 550tc UltraFit Solid Performance Sheet Set - Studio™(1673)
+*   $1599after couponwas $50 St. John's Bay Easy Care Mens Straight Fit Flat Front Pant(1)
+*   $1599after couponwas $40 Stafford® Travel Performance Pinpoint Oxford Dress Shirt(665)
+*   $2999 sale
+    
+    was $44 | 31% offLee® Regular-Fit Straight-Leg Jeans(1519)
+*   $2239after couponwas $50 The Foundry Big &. Tall Supply Co. Mens Cargo Short Big and Tall(2)
+*   $2399after couponwas $60 Yuu Womens Josephine Strap Sandals(8)
+*   $1999 sale
+    
+    was $25 | 20% offNike® Benassi JDI Womens Athletic Sandals(26)
 
 Shop and Save at JCPenney
 
