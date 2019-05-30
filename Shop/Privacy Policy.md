@@ -108,6 +108,7 @@ Lenovo Explore Close
         
         *   Quick Links
         *   Sale
+        *   Business Bundles
         *   Best Selling Accessories
         *   Compatibility Finder
         *   Trending Accessories
@@ -205,20 +206,20 @@ Lenovo Explore Close
         *   Small Business
         *   Homepage
         *   LenovoPRO for Business
+        *   Business Bundles
         *   Data Center
         *   View All Solutions
-        *   ThinkShield
         
         *   Large Enterprise
         *   Government
         *   Health
         *   Higher Education
         *   K-12 Education
+        *   ThinkShield
         
         *   Lenovo Partner Network
         *   Device as a Service (DaaS)
         *   Services
-        *   ThinkShield
         
         Business Shopping, Simplified.
         
@@ -521,7 +522,7 @@ Lenovo Explore Close
     *   Help placing an order855-253-6686 option #2
     *   Existing order help855-253-6686 option #1
     *   Business Order Help866-426-0911
-    *   HoursMon 9AM-6PM ETTue-Fri 9AM-9PM ETSat 10AM-6PM ET
+    *   HoursMon-Fri 9AM-9PM ET
     *   24/7 CHAT NOW >
 *   Contact Us
     *   Help placing an order855-253-6686 option #2Monday-Friday 9am-9pm EST
