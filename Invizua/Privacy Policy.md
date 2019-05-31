@@ -54,3 +54,5 @@ support@visokio.com
 Enquiry form
 
 © Visokio    |   Terms of use   |   Privacy Policy
+
+We use cookies to ensure you the best experience on our website. If you continue to use this site we will assume that you are happy with it.OK
