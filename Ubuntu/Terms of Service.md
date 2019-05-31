@@ -22,17 +22,13 @@ Ubuntu Advantage terms ›
 
 A legal description of the services included in the Ubuntu Advantage support package.
 
-Managed Services terms ›
+Modern slavery statement
 
-A legal description of the services included in Bootstack.
+This is Canonical’s modern slavery statement.
 
 Service terms ›
 
 This agreement sets out Canonical’s standard service terms for both Ubuntu Advantage and Managed Services customers.
-
-Modern slavery statement
-
-This is Canonical’s modern slavery statement.
 
 Want a fully managed private cloud?
 
