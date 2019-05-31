@@ -111,7 +111,7 @@ Lights, camera, 💥
   
 Blood &. Truth is now live for PlayStation VR:  https://play.st/BloodAndTruth  pic.twitter.com/TyN27Qba8i
 
-2 days ago
+3 days ago
 
 View Tweet
 
