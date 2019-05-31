@@ -64,9 +64,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Sarah Connor Returns in First ‘Terminator: Dark Fate’ Trailer. Here’s Everything We Know Read More
+    *   'The Lion King' Set Visit Read More
     *   The Week in Movie News: Lucasfilm Adapting ‘Star Wars’ Video Game, ’John Wick: Chapter 4’ in the Works and More Read More
-    *   Today in Movie Culture: Olivia Wilde’s ‘Booksmart’ Director Commentary, Fan-Made ‘John Wick’ Video Game and More Read More
+    *   Today in Movie Culture: The History of the ‘Godzilla’ Franchise, the New York City of ‘John Wick’ Movies and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -297,9 +297,9 @@ Offers
     
     Be the first to own the biggest movie of the year. Use code ENDGAMEPRE and save $3. It will hit your Library as soon as it's available. PRE-ORDER NOW
     
-*   Buy one ticket, get one free
+*   AMC Stubs® Members Save Big with Discount Tuesdays
     
-    At Studio Movie Grill Sunset Walk Florida. Use code SMGSUNSET at checkout! (Terms Apply) BUY TICKETS
+    Save on tickets to Tuesday showtimes with your AMC Stubs® membership. \*Terms apply. BUY TICKETS
     
 
 New + Coming soon
