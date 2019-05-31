@@ -395,12 +395,12 @@ Support
 *   Customer Service
 *   Contact Us
 
-facebook-logo linkedin-logo youtube-logo email-logo Download the O'Reilly App
+facebook-logo linkedin-logo youtube-logo email-logo Download the O’Reilly App
 
 Take O’Reilly online learning with you and learn anywhere, anytime on your phone or tablet. Download the app today and:
 
-*   Get unlimited access to books, videos, live training sessions, and courses
-*   Never lose your place—all your devices are automatically synced
+*   Get unlimited access to books, videos, and live training
+*   Never lose your place—all your devices are synced
 *   Learn during your commute with online and offline access
 
 © 2019, O’Reilly Media, Inc. All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
