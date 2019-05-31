@@ -204,9 +204,28 @@ If you have any questions on our Privacy Policy, or questions about our handling
 New York, NY 10001.**
 
 *   MOST POPULAR
+    
     *   Popular
     *   Emailed
-    *   RecentLoading... Loading... Loading...
+    *   Recent
+    
+    *   Anti-virus vendors named in Fxmsp's alleged source code breach respond
+    *   Wolters Kluwer still down from May 6 cyberattack
+    *   Article 29 Working Party still not happy with Windows 10 privacy controls
+    *   Windows 10 zero-day vulnerability released, Microsoft in the dark
+    *   Report: Hackers claim compromise of four AV firms, offer source code for sale
+    
+    *   Events planning company database exposes more than 200,000 records
+    *   HawkEye malware campaign upticks on business users
+    *   Magecart POS skimmer adds iframe injection technique
+    *   XSS vulnerability in Slimstat WordPress plugin
+    *   Unsecure Chtrbox AWS database exposes data on 49 million Instagram influencers, accounts
+    
+    *   POS malware swipes payment info from Checkers and Rally's restaurants
+    *   xHamster offers help contain Iggy Azalea nude photo leak
+    *   Facebook removes fraudulent Iranian accounts
+    *   Nansh0u cryptomining cryptomining hit 50,000 servers
+    *   Prolonged Flipboard breach incident could make some users flip their lids
 
 Back to Top
 
@@ -223,7 +242,6 @@ Back to Top
     *   FAQ
 
 *   User Center
-    *   Editorial Calendar
     *   Videos
     *   Executive Insight Guidelines
     *   Subscribe
