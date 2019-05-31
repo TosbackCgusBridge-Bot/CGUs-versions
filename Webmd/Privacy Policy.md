@@ -112,11 +112,11 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
+    *   Flying With CBD Oil? What You Should Know
+    *   Being Transgender Is Not a Mental Disorder
     *   Room Temperature Affects Women Differently Than Men
     *   Don't Risk Your Life Trying to Take the Perfect Selfie
     *   Neck Cracking and Stroke: How Risky Is It?
-    *   Half-Price Version of Insulin Available
-    *   Are There Health Benefits from Burning Sage?
     
     Experts &. Community
     
