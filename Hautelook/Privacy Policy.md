@@ -7,10 +7,32 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   NYDJ Under $60 Incl. Plus &. Petites
+    *   UGG &. Koolaburra by UGG Up to 60% Off
+    *   Alo Yoga
+    *   UGG Kids Up to 50% Off
+    *   Armenta Fine Jewelry
+    *   Hale Bob
+    *   Summer Dress Steals Under $30
+    *   Cool for Summer: Socialite Under $40
+    *   UGG Men Up to 50% Off
+    *   TR Premium Up to 85% Off
+    *   Skinn Cosmetics Up to 60% Off
+    *   CZ by Kenneth Jay Lane Jewelry
+    *   Controlbody: Firm Shapers &. More
+    *   Beach Bound: Bikinis, Cover-Ups &. More Incl. Plus
+    *   Trending Now: Kitten &. Low Heels for Summer
+    *   Lacoste Men's Shoes &. Lounge
+    *   Warm-Weather Necessities: Pool Floats &. More
+    *   Gifts for Him: Beer-Making Kits &. More
+    *   Business Casual: Sport Coats Under $150
+    *   Chargers for Apple Watches, Smartphones &. More
+    *   Our Exclusive Brands for Girls ft. Harper Canyon
     *   Cole Haan Starting at $60
     *   Cole Haan Men Starting at $60
     *   Exclusively Ours: Abound
     *   Cole Haan Coats Up to 70% Off
+    
     *   Cole Haan Men's Accessories Up to 70% Off
     *   Cole Haan Handbags &. Accessories Up to 50% Off
     *   Brands We Love ft. ALLISON New York
@@ -23,7 +45,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Gemstones &. More Under $90
     *   Eddie Bauer Bedding
     *   Luxe Skin Care: D24K by D'or
-    *   Summer Ties Under $25
     *   Butter Super Soft
     *   Amaxy Hair Tools &. More Starting at $10
     *   Pillows &. Throws Up to 65% Off
@@ -33,18 +54,11 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Joie Up to 70% Off
     *   CURRENT/ELLIOTT Up to 65% Off
     *   Joie Shoes Up to 55% Off
-    
-    *   Spring-to-Summer Styles ft. Ooberswank
-    *   Party On: Dresses &. More From $30
     *   Saachi Gemstone &. Leather Jewelry from $15
-    *   go >. by GoSilk
-    *   Lucky Swim &. More
-    *   X by Gottex
-    *   Slip into Summer: Loafers, Mules &. More from $20
     *   Onia Up to 70% Off
     *   Summer-Style Trend: Cargos Starting at $20
-    *   Sandals Under $40
     *   Zoe Ayla Cosmetics
+    
     *   Lazerfuzion Lip Plumping System Starting at $10
     *   Get Out &. Play: Kids' Activewear
     *   On Trend: Summer Vacation Jewelry from $18
@@ -54,47 +68,43 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   For Little Loungers: Champion &. More
     *   Summer Steals: Kids' Sandals &. More Up to 50% Off
     *   Free Shipping: Textured &. Printed Bedding
-    *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
     *   Free Shipping: Hand-Painted Replicas
     *   skinChemists Up to 85% Off
-    *   J.Crew Men &. More Starting at $20
-    *   To the Beach: Kids' Swim &. Surf
-    *   Nicole Miller Girls Up to 60% Off
-    
     *   Tommy Hilfiger Men's Shoes from $20
-    *   Girls' Brands Under $25
-    *   Boys' Brands Under $25
-    *   Best of Makeup ft. Urban Decay &. Stila from $10
     *   Free Shipping: Kitchen &. Grilling Blowouts
     *   Free Shipping: Pet Beds &. Covers Up to 60% Off
-    *   Men's Shoes Up to 65% Off
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
-    *   Hera Hair Tools Up to 85% Off
     *   Say It with Love: Gifts for Dads &. More
-    *   Rouge Bunny Rouge Starting at $15
     *   Free Shipping: Professional Garment Steamers
     *   Speakers, Headphones &. More Starting at $12
     *   Free Shipping: Kitchen Organization from $10
     *   Free Shipping: Marmont Hill Wall Art
-    *   Free Shipping: Amrapur Towels Up to 70% Off
-    *   Soy Candles Under $25
     *   Make It Modern: Lighting, Decor &. More
-    *   Always in Style: Planters, Bowls &. More
-    *   Pretty on the Fly: Luggage Up to 75% Off
+    *   Summer Ties Under $25
     *   New on HauteLook: BODUM Coffee Makers &. More
     *   Free Shipping: On-Trend Storage, Decor &. More
     *   Cuisinart
-    *   Wrap Dresses Under $45 Incl. Plus &. Petites
-    *   Jumpsuits &. Rompers from $20 Incl. Plus &. Petites
-    *   Designer Styles Up to 75% Off
 *   WomenShop Sale Events
     
+    *   NYDJ Under $60 Incl. Plus &. Petites
+    *   UGG &. Koolaburra by UGG Up to 60% Off
+    *   Alo Yoga
+    *   Armenta Fine Jewelry
+    *   Hale Bob
+    *   Summer Dress Steals Under $30
+    *   Cool for Summer: Socialite Under $40
+    *   Skinn Cosmetics Up to 60% Off
+    *   CZ by Kenneth Jay Lane Jewelry
+    *   Controlbody: Firm Shapers &. More
+    *   Beach Bound: Bikinis, Cover-Ups &. More Incl. Plus
+    *   Trending Now: Kitten &. Low Heels for Summer
     *   Cole Haan Starting at $60
     *   Exclusively Ours: Abound
     *   Cole Haan Coats Up to 70% Off
     *   Cole Haan Handbags &. Accessories Up to 50% Off
     *   Brands We Love ft. ALLISON New York
     *   Meghan LA
+    
     *   14K Gold Steals &. More
     *   Summer Essentials: Aratta &. More from $25
     *   Bruno Magli Watches Up to 65% Off
@@ -106,83 +116,69 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Joie Up to 70% Off
     *   CURRENT/ELLIOTT Up to 65% Off
     *   Joie Shoes Up to 55% Off
-    *   Spring-to-Summer Styles ft. Ooberswank
-    *   Party On: Dresses &. More From $30
-    
     *   Saachi Gemstone &. Leather Jewelry from $15
-    *   go >. by GoSilk
-    *   Lucky Swim &. More
-    *   X by Gottex
-    *   Slip into Summer: Loafers, Mules &. More from $20
-    *   Sandals Under $40
     *   Zoe Ayla Cosmetics
     *   Lazerfuzion Lip Plumping System Starting at $10
     *   On Trend: Summer Vacation Jewelry from $18
-    *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
     *   skinChemists Up to 85% Off
-    *   Best of Makeup ft. Urban Decay &. Stila from $10
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
-    *   Hera Hair Tools Up to 85% Off
-    *   Rouge Bunny Rouge Starting at $15
-    *   Pretty on the Fly: Luggage Up to 75% Off
-    *   Wrap Dresses Under $45 Incl. Plus &. Petites
-    *   Jumpsuits &. Rompers from $20 Incl. Plus &. Petites
-    *   Designer Styles Up to 75% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
+    *   Lingerie
     *   Watches
     *   Handbags
-    *   Lingerie
     *   Accessories
 *   MenShop Sale Events
     
+    *   UGG Men Up to 50% Off
+    *   TR Premium Up to 85% Off
+    *   Lacoste Men's Shoes &. Lounge
+    *   Business Casual: Sport Coats Under $150
     *   Cole Haan Men Starting at $60
     *   Cole Haan Men's Accessories Up to 70% Off
     *   Bruno Magli Watches Up to 65% Off
-    *   Summer Ties Under $25
     *   Button-Downs &. Beyond: Dress Shirts Under $40
+    
     *   Onia Up to 70% Off
     *   Summer-Style Trend: Cargos Starting at $20
-    
     *   For Graduation &. Beyond: Suits Under $250
     *   Men's Slip-Ons &. More ft. Swims
     *   Aldo Men Starting at $30
-    *   J.Crew Men &. More Starting at $20
     *   Tommy Hilfiger Men's Shoes from $20
-    *   Men's Shoes Up to 65% Off
-    *   Pretty on the Fly: Luggage Up to 75% Off
+    *   Summer Ties Under $25
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Accessories
     *   Watches
 *   KidsShop Sale Events
     
+    *   UGG Kids Up to 50% Off
+    *   Our Exclusive Brands for Girls ft. Harper Canyon
     *   Butter Super Soft
     *   Sovereign Code
     *   Get Out &. Play: Kids' Activewear
     *   For Little Loungers: Champion &. More
     *   Summer Steals: Kids' Sandals &. More Up to 50% Off
-    *   To the Beach: Kids' Swim &. Surf
-    *   Nicole Miller Girls Up to 60% Off
-    *   Girls' Brands Under $25
-    *   Boys' Brands Under $25
     
     Shop By Category
-    *   Girls' Shoes
     *   Girls' Sizes 7-16
+    *   Girls' Shoes
     *   Girls' Sizes 2T-6X
     *   Boys' Sizes 2T-7
-    *   Baby Boy
     *   Boys' Sizes 8-20
+    *   Baby Boy
     *   Baby Girl
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Warm-Weather Necessities: Pool Floats &. More
+    *   Gifts for Him: Beer-Making Kits &. More
+    *   Chargers for Apple Watches, Smartphones &. More
     *   Eddie Bauer Bedding
     *   Pillows &. Throws Up to 65% Off
     *   Cheers to Dad: Barware &. More
@@ -190,17 +186,13 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Kitchen &. Grilling Blowouts
     *   Free Shipping: Pet Beds &. Covers Up to 60% Off
+    
     *   Say It with Love: Gifts for Dads &. More
     *   Free Shipping: Professional Garment Steamers
     *   Speakers, Headphones &. More Starting at $12
-    
     *   Free Shipping: Kitchen Organization from $10
     *   Free Shipping: Marmont Hill Wall Art
-    *   Free Shipping: Amrapur Towels Up to 70% Off
-    *   Soy Candles Under $25
     *   Make It Modern: Lighting, Decor &. More
-    *   Always in Style: Planters, Bowls &. More
-    *   Pretty on the Fly: Luggage Up to 75% Off
     *   New on HauteLook: BODUM Coffee Makers &. More
     *   Free Shipping: On-Trend Storage, Decor &. More
     *   Cuisinart
@@ -209,31 +201,27 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
-    *   Luggage &. Travel
     *   Pet Accessories
-    *   Bath
     *   Tech Accessories
-    *   Cleaning &. Organization
-    *   Accent Furniture
     *   Outdoor Living
+    *   Cleaning &. Organization
+    *   Luggage &. Travel
+    *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Skinn Cosmetics Up to 60% Off
     *   Luxe Skin Care: D24K by D'or
     *   Amaxy Hair Tools &. More Starting at $10
     *   Zoe Ayla Cosmetics
     *   Lazerfuzion Lip Plumping System Starting at $10
     *   skinChemists Up to 85% Off
-    *   Best of Makeup ft. Urban Decay &. Stila from $10
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
-    *   Hera Hair Tools Up to 85% Off
-    *   Rouge Bunny Rouge Starting at $15
     
     Shop By Category
     *   Skin Care
     *   Makeup
-    *   Hair Care
     *   Tools &. Accessories
-    *   Fragrance
+    *   Hair Care
     *   Bath &. Body
     *   Makeup Bags
 
