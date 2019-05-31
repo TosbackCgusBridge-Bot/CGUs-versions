@@ -42,16 +42,6 @@ UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELS
 
 *   SPECIAL DEAL!
     
-    $1599 sale
-    
-    was $37 Liz Claiborne Womens Crew Neck Sleeveless Lace Blouse(1)Add To Cart
-*   SPECIAL DEAL!
-    
-    $1099 sale
-    
-    was $27 Liz Claiborne Womens Crew Neck Short Sleeve Graphic T-ShirtAdd To Cart
-*   SPECIAL DEAL!
-    
     $1999 sale
     
     was $44 St. John's Bay Belted Petite Capris(15)Add To Cart
@@ -67,6 +57,11 @@ UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELS
     was $37 Liz Claiborne 3/4 Tie Sleeve Knit Top(29)Add To Cart
 *   SPECIAL DEAL!
     
+    $999 sale
+    
+    was $32 St. John's Bay Womens Round Neck Elbow Sleeve Embroidered Peasant TopAdd To Cart
+*   SPECIAL DEAL!
+    
     $1760 sale
     
     was $44 Liz Claiborne Womens Long Sleeve Open Front Cardigan(3)Add To Cart
@@ -74,20 +69,27 @@ UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELS
     
     $999 sale
     
-    was $32 St. John's Bay Womens Round Neck Elbow Sleeve Embroidered Peasant TopAdd To Cart
+    was $32 St. John's Bay Womens Short Sleeve Peasant Top(3)Add To Cart
+*   SPECIAL DEAL!
+    
+    $1480 sale
+    
+    was $37 Liz Claiborne Womens Keyhole Neck 3/4 Sleeve Knit Blouse(1)Add To Cart
 
 Hot Sellers
 
-*   $1599after couponwas $50 St. John's Bay Easy Care Mens Straight Fit Flat Front Pant(1)
-*   $1599after couponwas $40 Stafford® Travel Performance Pinpoint Oxford Dress Shirt(665)
-*   $2999 sale
-    
-    was $44 | 31% offLee® Regular-Fit Straight-Leg Jeans(1519)
-*   $2239after couponwas $50 The Foundry Big &. Tall Supply Co. Mens Cargo Short Big and Tall(2)
-*   $2399after couponwas $60 Yuu Womens Josephine Strap Sandals(8)
+*   $1999after couponwas $42 Arizona Flex Relaxed-Fit Straight Jeans(553)
+*   $1599after couponwas $50 St. John's Bay Womens Zandora T-Strap Flat Sandals(14)
 *   $1999 sale
     
-    was $25 | 20% offNike® Benassi JDI Womens Athletic Sandals(26)
+    was $25 | 20% offNike® Benassi JDI Womens Athletic Sandals(27)
+*   $1599after couponwas $42 U.S. Polo Assn.® Short-Sleeve Solid Interlock Polo(90)
+*   $2799after couponwas $50 Pop Highbar Womens Sneakers Slip-on(270)
+*   LIMITED TIME SPECIAL!
+    
+    $1999 sale
+    
+    was $75 | 73% offLIMITED TIME SPECIAL! Q7 Black Smartwatch(109)
 
 Shop and Save at JCPenney
 
