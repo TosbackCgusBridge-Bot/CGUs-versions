@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   29\. Mai 2019
+*   31\. Mai 2019
 *   Abo
-*   DAX 12.027,05ǀ
+*   DAX 11.902,08ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -73,6 +73,7 @@ Anmelden
         *   Bundesliga
         *   Fußball-Liveticker
         *   Spielerindex SPIX
+        *   Fußball-Tippspiel
         *   Champions League
         *   Fußball-News
         *   Formel 1
