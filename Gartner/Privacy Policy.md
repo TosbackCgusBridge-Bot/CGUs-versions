@@ -57,7 +57,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 842 4933 1 855 842 4933
+    1 855 592 8469 1 855 592 8469
     
 
 *   Solutions By Function
@@ -113,7 +113,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 842 4933 1 855 842 4933
+    1 855 592 8469 1 855 592 8469
     
 
 GARTNER PRIVACY POLICY Effective Date: April 2019
