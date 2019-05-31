@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off all swimwear, water shoes and more. 40% off all other full-price styles!
+Receive 40% off full-price styles. Up to 70% off sale and clearance styles!
 
-code: STRIPES pin: 6423 DETAILS
+code: YELLOW pin: 5462 DETAILS
 
 Customer Service Menu
 
