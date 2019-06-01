@@ -49,13 +49,19 @@ skip to main content We use cookies to make sure you get the best experience on 
     *   Kitchens
     *   Winter holidays
 
-Privacy Policy \[As of 5/13/2019\] **About this Privacy Policy**  
+Privacy Policy 1.2 Updated May 2019  
+  
+We recently updated our Privacy Policy.  
+  
+**About this Privacy Policy**  
   
 We know how important it is for you to understand how we use your personal information. This Privacy Policy sets out how and why IKEA North America Services, LLC (“IKEA”, “we,” “our,” or “us”) collect, store, process and share your personal information. We strive to be transparent with you about what we do with your personal information.  
   
-This Privacy Policy covers our U.S. stores and online experiences, including our websites and mobile apps. This Privacy Policy also describes the choices you can make about how we collect and use your personal information.  
+This Privacy Policy covers our U.S. stores, online experiences (including our websites and mobile apps), and other locations where you may interact with us. This Privacy Policy also describes the choices you can make about how we collect and use your personal information.  
   
-This Privacy Policy is incorporated into, and is subject to, the Terms of Use. By using our websites and mobile applications, you accept and consent to the practices described in the Privacy Policy and Terms of Use. If you do not agree to the Terms of Use or this Privacy Policy, please do not use our websites or mobile applications.
+This Privacy Policy is incorporated into, and is subject to, the Terms of Use. By using our websites and mobile applications, you accept and consent to the practices described in the Privacy Policy and Terms of Use. If you do not agree to the Terms of Use or this Privacy Policy, please do not use our websites or mobile applications.  
+  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **1\. What personal information do we collect?**  
   
@@ -88,11 +94,13 @@ We may use automated technology such as cookies and other tracking software to c
   
 \*We use this information on an anonymous basis and do not use it to identify any particular user. We do not link this data to any other data that we hold about you.  
   
-Third parties may also provide us with additional publicly available information about you.
+Third parties may also provide us with additional publicly available information about you.  
+  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **2\. When do we collect your personal information?**  
   
-You share personal information with us in various ways in our stores and online. For example, we receive personal information when you:  
+You share personal information with us in various ways. For example, we receive personal information when you:  
   
 • Purchase products and services from us in store, online, or over the phone  
 • Make a return or exchange  
@@ -113,7 +121,9 @@ You share personal information with us in various ways in our stores and online.
 • Apply for an IKEA Visa® Credit Card  
 • Sign up for mobile notifications regarding updates at your local IKEA store  
   
-At this time, we do not track our users’ personal information over time and across third-party websites. We therefore do not respond to browser Do Not Track signals.
+At this time, we do not track our users’ personal information over time and across third-party websites. We therefore do not respond to browser Do Not Track signals.  
+  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **3\. How do we use your personal information?**  
   
@@ -133,41 +143,49 @@ Some examples of how we use your personal information include:
 • Ensuring that our websites are presented in the most effective and relevant manner for you and your device, including setting default options for you such as language and store location  
 • Conducting checks for fraud or other illegal activity  
 • Protecting our rights or property (or those of others)  
-• Fulfilling our legal and compliance-related obligations (such as if we receive a legitimate request from a law enforcement agency)
+• Fulfilling our legal and compliance-related obligations (such as if we receive a legitimate request from a law enforcement agency)  
+  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **4\. With whom do we share your personal information?**  
   
 We do not sell personal information to third parties.  
   
-In order for us to provide our products and services to you, we share some of your personal information with trusted third-party service providers, with other members of the IKEA-brand corporate family, or with public authorities, as detailed below.  
+In order for us to provide our products and services to you, we share some of your personal information with trusted third-party service providers, with other members of the IKEA-brand corporate family, or with public authorities. For example:  
   
-• We use third party service providers to help with delivery, product assembly and installation, waste removal and processing payments. Your personal information may be stored and processed by our vendors and service providers in the United States or other locations where the service providers or IKEA have facilities.  
+• We use third party service providers to help with delivery, product assembly and installation, waste removal, processing payments, and other services. Your personal information may be stored and processed by our vendors and service providers in the United States or other locations where the service providers or IKEA have facilities.  
 • We may share your financial information including your credit, debit card or other payment information with third parties to ensure that your payment is safe and that your details are not being used fraudulently  
 • We may disclose your personal information to our insurers where we believe that it is required by law or contract  
 • We use pixels and cookies in our work with customer database hosting providers, marketing agencies and advertising partners to place relevant content and advertisements for you on our own websites and apps, as well as other websites, online media channels and apps (see Cookie Policy)  
 • We may share data with other members of the IKEA-brand corporate family to facilitate operations and business  
-• We may share or disclose your personal information with law enforcement agencies or public authorities in order to prevent or detect crime or fraudulent activities, as well as in order to fulfil any legal or regulatory obligations  
+• We may share or disclose your personal information with law enforcement agencies or public authorities in order to prevent or detect crime or fraudulent activities, as well as in order to fulfill any legal or regulatory obligations  
 • We may share your personal information to comply with court orders and to exercise and/or defend our legal rights  
 • We may share your personal information in the event we sell or transfer all or a portion of our business or assets  
 • We may use your personal information with your consent or as otherwise permitted or required by law  
   
-We also disclose non-private, deidentified, aggregate or otherwise non-personal information with third parties, including social media companies like Facebook and Twitter, and online advertising companies like Google, to deliver targeted advertising about other products and services for marketing purposes. You may opt-out of receiving marketing messages by using the opt-out mechanisms and links provided in each message.
+We also disclose non-private, deidentified, aggregate or otherwise non-personal information with third parties, including social media companies like Facebook and Twitter, and online advertising companies like Google, to deliver targeted advertising about other products and services for marketing purposes. You may opt-out of receiving marketing messages by using the opt-out mechanisms and links provided in each message.  
+  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **5\. How do we protect the privacy of children?**  
   
-IKEA does not knowingly collect or use any personal information from children younger than 13 on IKEA websites or mobile applications. We do not knowingly allow children to order our products, communicate with us, or use any of our online services. If you are a parent and become aware that your child has provided us with information, please contact us using one of the methods specified below, and we will work with you to address this issue.
+IKEA does not knowingly collect or use any personal information from children younger than 13 on IKEA websites or mobile applications. We do not knowingly allow children to order our products, communicate with us, or use any of our online services. If you are a parent and become aware that your child has provided us with information, please contact us using one of the methods specified below, and we will work with you to address this issue.  
+  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **6\. What are your rights with respect to your personal information?**  
   
 Depending on your jurisdiction, you may have certain rights with respect to your personal information. If you would like to speak to us about any of your rights, please contact us.  
   
-**International Users**  
+**International Transfers**  
   
-By using our websites or mobile apps, you agree to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Privacy Policy. While certain products may be sold outside the United States, including in the European Union, our websites and mobile apps are not marketed to or intended to be used by any non-United States resident.  
+We may share information about you with our affiliates and transfer it to countries in the world where we do business in connection with the uses identified above. Any international transfers of personal information will be in accordance with this Privacy Policy and in compliance with applicable laws. By using our websites or mobile apps or otherwise providing personal information to us, you agree to the international transfer and processing of your information.. While certain products may be sold outside the United States, including in the European Union, our websites and mobile apps are not marketed to or intended to be used by any non-United States resident.  
   
 **Your California Privacy Rights**  
   
-If you are a California resident, California Civil Code Section 1798.83 permits you to request a list of all third parties to which we, during the immediately preceding calendar year, have disclosed certain personally identifiable information for direct marketing purposes. IKEA does not share personal information about its consumers with any third parties outside the IKEA corporate family for their own marketing purposes. We are only required to respond to a customer request once during any calendar year. To make such a request you should send a letter to IKEA North America Services, LLC, Attn: California Privacy Rights. 420 Alan Wood Road, Conshohocken, PA 19428. Please be aware that not all information sharing is covered by the California privacy rights requirements and only information sharing that is covered will be included in our response.
+If you are a California resident, California Civil Code Section 1798.83 permits you to request a list of all third parties to which we, during the immediately preceding calendar year, have disclosed certain personally identifiable information for direct marketing purposes. IKEA does not share personal information about its consumers with any third parties outside the IKEA corporate family for their own marketing purposes. We are only required to respond to a customer request once during any calendar year. To make such a request you should send a letter to IKEA North America Services, LLC, Attn: California Privacy Rights. 420 Alan Wood Road, Conshohocken, PA 19428. Please be aware that not all information sharing is covered by the California privacy rights requirements and only information sharing that is covered will be included in our response.  
+  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **7\. How may you indicate your privacy preferences?**  
   
@@ -177,21 +195,29 @@ If you no longer wish to receive our marketing materials, you can unsubscribe th
   
 We want to ensure that all the information we have about our customers is correct and up to date. If you find that the personal information we have about you is inaccurate or needs updating (for instance, you may have changed your name or address) please update your profile.  
   
-For your mobile device, you may opt out of precise location tracking and/or push notifications by changing your settings. (Note that opting out may affect your ability to fully use the application.) To avoid collection of your MAC address and location data while you are within the IKEA store, turn off the WiFi capability on your phone or other electronic device within your device settings.
+For your mobile device, you may opt out of precise location tracking and/or push notifications by changing your settings. (Note that opting out may affect your ability to fully use the application.) To avoid collection of your MAC address and location data while you are within the IKEA store, turn off the WiFi capability on your phone or other electronic device within your device settings.  
+  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **8\. How do we keep your information safe?**  
   
-We take the security of your personal information very seriously. We have implemented various strategies, controls, policies and measures to keep your information secure and keep these measures under close review. We use encryption techniques and other safeguards such as firewalls and password protection. This means that your information is protected and only accessible by personnel who need it to carry out their job responsibilities, or shared with third parties as described above. We implement physical controls in our buildings that restrict access to your personal information.
+We take the security of your personal information very seriously. We have implemented various strategies, controls, policies and measures to keep your information secure and keep these measures under close review. We use encryption techniques and other safeguards such as firewalls and password protection. This means that your information is protected and only accessible by personnel who need it to carry out their job responsibilities, or shared with third parties as described above. We implement physical controls in our buildings that restrict access to your personal information.  
+  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **9\. How long do we retain your information?**  
   
-In general, we will only retain your personal information for as long as is necessary for the purposes described in this Privacy Policy. This means that the retention periods will vary according to the type of the information and the reason that we have the information.
+In general, we will only retain your personal information for as long as is necessary for the purposes described in this Privacy Policy. This means that the retention periods will vary according to the type of the information and the reason that we have the information.  
+  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **10\. Links to Third-Party Websites and Additional Terms**  
   
 Our websites may contain links to third-party sites that are not governed by this Privacy Policy. If you click on a link to a third-party site, you will be taken to a site we do not control. We are not responsible for the privacy practices used by third-party sites. We suggest that you read the privacy policies of those sites carefully.  
   
-In addition, IKEA may from time to time offer special programs, events, promotions or services that have additional terms or privacy policies. We suggest that you review the applicable terms before participating.
+In addition, IKEA may from time to time offer special programs, events, promotions or services that have additional terms or privacy policies. We suggest that you review the applicable terms before participating.  
+  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **11\. IKEA’s Privacy Contacts**  
   
@@ -205,11 +231,15 @@ Conshohocken PA 19428
   
 **Telephone:** 1-888-888-4532  
   
-**E-mail:** infosec.dataprivacy.us@ikea.com
+**E-mail:** infosec.dataprivacy.us@ikea.com  
+  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **12\. Changes to this Privacy Policy**  
   
-We may update this Privacy Policy from time to time. Please regularly check for updates. You can tell if the Privacy Policy has changed by checking the revision date that appears above. If we change this Privacy Policy in a material way, we will provide appropriate notice to you. By using our websites or mobile apps, you agree to accept the terms of this Privacy Policy as stated at the time you use them.
+We may update this Privacy Policy from time to time. Please regularly check for updates. You can tell if the Privacy Policy has changed by checking the revision date that appears above. If we change this Privacy Policy in a material way, we will provide appropriate notice to you. By using our websites or mobile apps, you agree to accept the terms of this Privacy Policy as stated at the time you use them.  
+  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Catalog &. Brochures
 
