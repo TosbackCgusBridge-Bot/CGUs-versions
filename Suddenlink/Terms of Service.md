@@ -209,6 +209,7 @@ Questions? Call 844.790.7475 My Suddenlink Contact Us FAQ
     *   Privacy
     *   Areas We Serve
     *   Law Enforcement
+    *   Accessibility
 
 *   About Altice USA
 *   Contact Us
