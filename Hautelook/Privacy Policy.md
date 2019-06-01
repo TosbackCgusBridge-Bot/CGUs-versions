@@ -7,22 +7,45 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
+    *   Designer Sun Up to 70% Off ft. Tom Ford &. More
+    *   Catherine Catherine Malandrino Incl. Plus &. Petites
+    *   Sharagano Dresses Incl. Plus &. Petites
+    *   Date Nights to Day Trips: Skirts Under $30
+    *   Free Shipping: Cooling Pillows &. More
+    *   Electric Yoga Up to 65% Off
+    *   Sharp Style: Pointed-Toe Flats, Heels &. More
+    *   Mirenesse Australia Starting at $10
+    *   Summer Classics: Ankle Strap Sandals &. More
+    *   Free Shipping: Wall Art &. More for Every Style
+    *   Kitchen Appliances Starting at $10
+    *   Home Office Improvements: Risers &. More from $10
+    *   PJ Couture Sleep &. More Incl. Plus
+    *   Cute Summer Sneakers Up to 50% Off
+    *   Lacoste Men's Shoes &. Lounge
+    *   Ben Sherman Up to 60% Off
+    *   Ben Sherman Shoes Up to 65% Off
+    *   Quiksilver Under $30
+    *   Ben Sherman &. More Luggage Up to 75% Off
+    *   Fergalicious &. Carlos Santana
+    *   Kitchen Gadgets &. Storage Starting at $10
+    *   Fun Boho Looks from mymichelle
+    *   Exclusively Ours: Abound
     *   NYDJ Under $60 Incl. Plus &. Petites
     *   UGG &. Koolaburra by UGG Up to 60% Off
     *   Alo Yoga
+    
     *   UGG Kids Up to 50% Off
     *   Armenta Fine Jewelry
     *   Hale Bob
     *   Summer Dress Steals Under $30
     *   Cool for Summer: Socialite Under $40
     *   UGG Men Up to 50% Off
-    *   TR Premium Up to 85% Off
     *   Skinn Cosmetics Up to 60% Off
     *   CZ by Kenneth Jay Lane Jewelry
     *   Controlbody: Firm Shapers &. More
     *   Beach Bound: Bikinis, Cover-Ups &. More Incl. Plus
     *   Trending Now: Kitten &. Low Heels for Summer
-    *   Lacoste Men's Shoes &. Lounge
+    *   Pillows &. Throws Up to 65% Off
     *   Warm-Weather Necessities: Pool Floats &. More
     *   Gifts for Him: Beer-Making Kits &. More
     *   Business Casual: Sport Coats Under $150
@@ -30,68 +53,60 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Our Exclusive Brands for Girls ft. Harper Canyon
     *   Cole Haan Starting at $60
     *   Cole Haan Men Starting at $60
-    *   Exclusively Ours: Abound
     *   Cole Haan Coats Up to 70% Off
-    
     *   Cole Haan Men's Accessories Up to 70% Off
     *   Cole Haan Handbags &. Accessories Up to 50% Off
-    *   Brands We Love ft. ALLISON New York
-    *   Meghan LA
     *   14K Gold Steals &. More
-    *   Summer Essentials: Aratta &. More from $25
-    *   Bruno Magli Watches Up to 65% Off
-    *   Saucony
-    *   Betsey Johnson Active
     *   Gemstones &. More Under $90
     *   Eddie Bauer Bedding
     *   Luxe Skin Care: D24K by D'or
+    
     *   Butter Super Soft
     *   Amaxy Hair Tools &. More Starting at $10
-    *   Pillows &. Throws Up to 65% Off
     *   Cheers to Dad: Barware &. More
     *   Button-Downs &. Beyond: Dress Shirts Under $40
     *   Sovereign Code
-    *   Joie Up to 70% Off
-    *   CURRENT/ELLIOTT Up to 65% Off
-    *   Joie Shoes Up to 55% Off
-    *   Saachi Gemstone &. Leather Jewelry from $15
-    *   Onia Up to 70% Off
-    *   Summer-Style Trend: Cargos Starting at $20
     *   Zoe Ayla Cosmetics
-    
     *   Lazerfuzion Lip Plumping System Starting at $10
-    *   Get Out &. Play: Kids' Activewear
-    *   On Trend: Summer Vacation Jewelry from $18
-    *   For Graduation &. Beyond: Suits Under $250
     *   Men's Slip-Ons &. More ft. Swims
     *   Aldo Men Starting at $30
-    *   For Little Loungers: Champion &. More
-    *   Summer Steals: Kids' Sandals &. More Up to 50% Off
     *   Free Shipping: Textured &. Printed Bedding
     *   Free Shipping: Hand-Painted Replicas
     *   skinChemists Up to 85% Off
-    *   Tommy Hilfiger Men's Shoes from $20
     *   Free Shipping: Kitchen &. Grilling Blowouts
     *   Free Shipping: Pet Beds &. Covers Up to 60% Off
-    *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   Say It with Love: Gifts for Dads &. More
-    *   Free Shipping: Professional Garment Steamers
-    *   Speakers, Headphones &. More Starting at $12
-    *   Free Shipping: Kitchen Organization from $10
-    *   Free Shipping: Marmont Hill Wall Art
-    *   Make It Modern: Lighting, Decor &. More
     *   Summer Ties Under $25
+    *   Speakers, Headphones &. More Starting at $12
+    *   Make It Modern: Lighting, Decor &. More
+    *   TR Premium Up to 85% Off
+    *   Brands We Love ft. ALLISON New York
+    *   Summer Essentials: Aratta &. More from $25
+    *   Free Shipping: Professional Garment Steamers
     *   New on HauteLook: BODUM Coffee Makers &. More
     *   Free Shipping: On-Trend Storage, Decor &. More
     *   Cuisinart
 *   WomenShop Sale Events
     
+    *   Designer Sun Up to 70% Off ft. Tom Ford &. More
+    *   Catherine Catherine Malandrino Incl. Plus &. Petites
+    *   Sharagano Dresses Incl. Plus &. Petites
+    *   Date Nights to Day Trips: Skirts Under $30
+    *   Electric Yoga Up to 65% Off
+    *   Sharp Style: Pointed-Toe Flats, Heels &. More
+    *   Mirenesse Australia Starting at $10
+    *   Summer Classics: Ankle Strap Sandals &. More
+    *   PJ Couture Sleep &. More Incl. Plus
+    *   Cute Summer Sneakers Up to 50% Off
+    *   Fergalicious &. Carlos Santana
+    *   Exclusively Ours: Abound
     *   NYDJ Under $60 Incl. Plus &. Petites
     *   UGG &. Koolaburra by UGG Up to 60% Off
     *   Alo Yoga
     *   Armenta Fine Jewelry
     *   Hale Bob
     *   Summer Dress Steals Under $30
+    
     *   Cool for Summer: Socialite Under $40
     *   Skinn Cosmetics Up to 60% Off
     *   CZ by Kenneth Jay Lane Jewelry
@@ -99,123 +114,111 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Beach Bound: Bikinis, Cover-Ups &. More Incl. Plus
     *   Trending Now: Kitten &. Low Heels for Summer
     *   Cole Haan Starting at $60
-    *   Exclusively Ours: Abound
     *   Cole Haan Coats Up to 70% Off
     *   Cole Haan Handbags &. Accessories Up to 50% Off
-    *   Brands We Love ft. ALLISON New York
-    *   Meghan LA
-    
     *   14K Gold Steals &. More
-    *   Summer Essentials: Aratta &. More from $25
-    *   Bruno Magli Watches Up to 65% Off
-    *   Saucony
-    *   Betsey Johnson Active
     *   Gemstones &. More Under $90
     *   Luxe Skin Care: D24K by D'or
     *   Amaxy Hair Tools &. More Starting at $10
-    *   Joie Up to 70% Off
-    *   CURRENT/ELLIOTT Up to 65% Off
-    *   Joie Shoes Up to 55% Off
-    *   Saachi Gemstone &. Leather Jewelry from $15
     *   Zoe Ayla Cosmetics
     *   Lazerfuzion Lip Plumping System Starting at $10
-    *   On Trend: Summer Vacation Jewelry from $18
     *   skinChemists Up to 85% Off
-    *   Terre Mere Organic Vegan Beauty Up to 75% Off
+    *   Brands We Love ft. ALLISON New York
+    *   Summer Essentials: Aratta &. More from $25
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
     *   Lingerie
-    *   Watches
-    *   Handbags
     *   Accessories
+    *   Handbags
 *   MenShop Sale Events
     
-    *   UGG Men Up to 50% Off
-    *   TR Premium Up to 85% Off
+    *   Designer Sun Up to 70% Off ft. Tom Ford &. More
     *   Lacoste Men's Shoes &. Lounge
+    *   Ben Sherman Up to 60% Off
+    *   Ben Sherman Shoes Up to 65% Off
+    *   Quiksilver Under $30
+    *   Ben Sherman &. More Luggage Up to 75% Off
+    *   UGG Men Up to 50% Off
     *   Business Casual: Sport Coats Under $150
+    
     *   Cole Haan Men Starting at $60
     *   Cole Haan Men's Accessories Up to 70% Off
-    *   Bruno Magli Watches Up to 65% Off
     *   Button-Downs &. Beyond: Dress Shirts Under $40
-    
-    *   Onia Up to 70% Off
-    *   Summer-Style Trend: Cargos Starting at $20
-    *   For Graduation &. Beyond: Suits Under $250
     *   Men's Slip-Ons &. More ft. Swims
     *   Aldo Men Starting at $30
-    *   Tommy Hilfiger Men's Shoes from $20
     *   Summer Ties Under $25
+    *   TR Premium Up to 85% Off
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
+    *   Fun Boho Looks from mymichelle
     *   UGG Kids Up to 50% Off
     *   Our Exclusive Brands for Girls ft. Harper Canyon
     *   Butter Super Soft
     *   Sovereign Code
-    *   Get Out &. Play: Kids' Activewear
-    *   For Little Loungers: Champion &. More
-    *   Summer Steals: Kids' Sandals &. More Up to 50% Off
     
     Shop By Category
+    *   Girls' Sizes 2T-6X
     *   Girls' Sizes 7-16
     *   Girls' Shoes
-    *   Girls' Sizes 2T-6X
     *   Boys' Sizes 2T-7
     *   Boys' Sizes 8-20
-    *   Baby Boy
     *   Baby Girl
+    *   Baby Boy
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Free Shipping: Cooling Pillows &. More
+    *   Free Shipping: Wall Art &. More for Every Style
+    *   Kitchen Appliances Starting at $10
+    *   Home Office Improvements: Risers &. More from $10
+    *   Ben Sherman &. More Luggage Up to 75% Off
+    *   Kitchen Gadgets &. Storage Starting at $10
+    *   Pillows &. Throws Up to 65% Off
     *   Warm-Weather Necessities: Pool Floats &. More
     *   Gifts for Him: Beer-Making Kits &. More
     *   Chargers for Apple Watches, Smartphones &. More
     *   Eddie Bauer Bedding
-    *   Pillows &. Throws Up to 65% Off
     *   Cheers to Dad: Barware &. More
+    
     *   Free Shipping: Textured &. Printed Bedding
     *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Kitchen &. Grilling Blowouts
     *   Free Shipping: Pet Beds &. Covers Up to 60% Off
-    
     *   Say It with Love: Gifts for Dads &. More
-    *   Free Shipping: Professional Garment Steamers
     *   Speakers, Headphones &. More Starting at $12
-    *   Free Shipping: Kitchen Organization from $10
-    *   Free Shipping: Marmont Hill Wall Art
     *   Make It Modern: Lighting, Decor &. More
+    *   Free Shipping: Professional Garment Steamers
     *   New on HauteLook: BODUM Coffee Makers &. More
     *   Free Shipping: On-Trend Storage, Decor &. More
     *   Cuisinart
     
     Shop By Category
-    *   Home Decor
     *   Kitchen &. Tabletop
+    *   Home Decor
     *   Bedding
     *   Pet Accessories
     *   Tech Accessories
-    *   Outdoor Living
     *   Cleaning &. Organization
+    *   Outdoor Living
     *   Luggage &. Travel
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Mirenesse Australia Starting at $10
     *   Skinn Cosmetics Up to 60% Off
     *   Luxe Skin Care: D24K by D'or
     *   Amaxy Hair Tools &. More Starting at $10
     *   Zoe Ayla Cosmetics
     *   Lazerfuzion Lip Plumping System Starting at $10
     *   skinChemists Up to 85% Off
-    *   Terre Mere Organic Vegan Beauty Up to 75% Off
     
     Shop By Category
     *   Skin Care
