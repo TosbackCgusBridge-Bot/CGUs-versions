@@ -215,17 +215,17 @@ New York, NY 10001.**
     *   Windows 10 zero-day vulnerability released, Microsoft in the dark
     *   Report: Hackers claim compromise of four AV firms, offer source code for sale
     
-    *   Events planning company database exposes more than 200,000 records
-    *   HawkEye malware campaign upticks on business users
-    *   Magecart POS skimmer adds iframe injection technique
     *   XSS vulnerability in Slimstat WordPress plugin
-    *   Unsecure Chtrbox AWS database exposes data on 49 million Instagram influencers, accounts
+    *   Researchers: Pyramid Hotel Group stored security info on openly accessible server
+    *   License plate reader firm breached, data leaked
+    *   Undetectable HiddenWasp Linux malware linked to Winnti Umbrella
+    *   Recorded Future, Palo Alto and FireEye in mergers and acquisitions mode
     
-    *   POS malware swipes payment info from Checkers and Rally's restaurants
-    *   xHamster offers help contain Iggy Azalea nude photo leak
-    *   Facebook removes fraudulent Iranian accounts
-    *   Nansh0u cryptomining cryptomining hit 50,000 servers
-    *   Prolonged Flipboard breach incident could make some users flip their lids
+    *   Reports: Hacking accusations debunked after leak of New Zealand budget plan
+    *   Apple patches AirPort Base Station Firmware
+    *   Recorded Future, Palo Alto and FireEye in mergers and acquisitions mode
+    *   Researchers: Pyramid Hotel Group stored security info on openly accessible server
+    *   Theta360 leak exposes 11 million photos, user data
 
 Back to Top
 
