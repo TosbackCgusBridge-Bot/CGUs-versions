@@ -65,8 +65,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   'The Lion King' Set Visit Read More
-    *   The Week in Movie News: Lucasfilm Adapting ‘Star Wars’ Video Game, ’John Wick: Chapter 4’ in the Works and More Read More
-    *   Today in Movie Culture: The History of the ‘Godzilla’ Franchise, the New York City of ‘John Wick’ Movies and More Read More
+    *   Today in Movie Culture: Pixar Easter Eggs in ‘Toy Story 4,’ ’Godzilla’ Franchise Recap and More Read More
+    *   The Week in Movie News: Marc Webb to Direct Disney’s ‘Snow White’ Remake, First ‘Rambo: Last Blood’ Trailer and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -289,6 +289,10 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
+*   'Rocketman' Gift with Purchase
+    
+    Get a digital song download of "Crocodile Rock" performed by Taron Egerton with ticket purchase! BUY TICKETS
+    
 *   VIP+ World Elite Mastercard®
     
     Get 2x the points pay with World Elite Mastercard®. BUY TICKETS
@@ -347,4 +351,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
