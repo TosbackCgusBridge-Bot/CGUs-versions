@@ -14,8 +14,7 @@
     *   Gifts for Her
     *   Birthday Gifts
     *   Thank You Gifts
-    *   Sympathy Gifts
-    *   Graduation GiftsMost Popular Father's Day Birthday Gifts
+    *   Sympathy GiftsMost Popular Father's Day Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -67,8 +66,7 @@
     
     Occasions*   Birthday Gifts
     *   Weddings &. Showers
-    *   Thank You
-    *   Graduation &. CongratulationsMost Popular Father's Day
+    *   Thank YouMost Popular Father's Day
 *   Business Gifts
 *   Sale
 
@@ -96,8 +94,7 @@
     *   Gifts for Her
     *   Birthday Gifts
     *   Thank You Gifts
-    *   Sympathy Gifts
-    *   Graduation GiftsMost Popular Father's Day Birthday Gifts
+    *   Sympathy GiftsMost Popular Father's Day Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -149,8 +146,7 @@
     
     Occasions*   Birthday Gifts
     *   Weddings &. Showers
-    *   Thank You
-    *   Graduation &. CongratulationsMost Popular Father's Day
+    *   Thank YouMost Popular Father's Day
 *   Business Gifts
 *   Sale
 
