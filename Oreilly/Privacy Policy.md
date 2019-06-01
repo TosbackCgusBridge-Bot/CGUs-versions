@@ -394,6 +394,7 @@ Support
 
 *   Customer Service
 *   Contact Us
+*   Privacy Policy
 
 facebook-logo linkedin-logo youtube-logo email-logo Download the O’Reilly App
 
