@@ -1,4 +1,4 @@
-For more information on the Starwood guest reservation database security incident, please click here . X Skip Main Navigation
+Skip Main Navigation
 
 expand
 
@@ -53,7 +53,7 @@ Marriott Bonvoy
     
     Check-in
     
-    May2019 SunMonTueWedThuFriSat2829301234567891011121314151617181920212223242526272829303112345678ClearDone
+    June2019 SunMonTueWedThuFriSat262728293031123456789101112131415161718192021222324252627282930123456ClearDone
     
     Nights 123456789
     
