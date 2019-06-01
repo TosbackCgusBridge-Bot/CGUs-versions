@@ -1,3 +1,12 @@
+Our Privacy Statement &. Cookie Policy
+
+All Thomson Reuters websites use cookies to improve your online experience. They were placed on your computer when you launched this website. You can change your cookie settings through your browser.
+
+*   Privacy Statement
+*   Cookie Policy
+
+Ok to continue
+
 *   Global directory Global directory
 
 *   Product logins Product logins
@@ -20,8 +29,7 @@ Thomson Reuters Legal
 *   Solutions Solutions Solutions
     
     *   Streamline legal research
-    *   Maximize legal know-how
-    *   Manage and grow your organization
+    *   Legal guidance
     *   Investigate and mitigate risk
     *   Simplify litigation
     *   Fast-track drafting and contracts
