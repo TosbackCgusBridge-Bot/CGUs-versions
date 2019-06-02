@@ -211,15 +211,15 @@ New York, NY 10001.**
     
     *   Anti-virus vendors named in Fxmsp's alleged source code breach respond
     *   Wolters Kluwer still down from May 6 cyberattack
-    *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Windows 10 zero-day vulnerability released, Microsoft in the dark
+    *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Report: Hackers claim compromise of four AV firms, offer source code for sale
     
+    *   Winning the cybercrime arms race with AI
+    *   Automation and the existential opportunity
+    *   Critical vulnerability found in WordPress plugin Convert Plus
     *   XSS vulnerability in Slimstat WordPress plugin
-    *   Researchers: Pyramid Hotel Group stored security info on openly accessible server
-    *   License plate reader firm breached, data leaked
-    *   Undetectable HiddenWasp Linux malware linked to Winnti Umbrella
-    *   Recorded Future, Palo Alto and FireEye in mergers and acquisitions mode
+    *   Automation and the existential opportunity
     
     *   Reports: Hacking accusations debunked after leak of New Zealand budget plan
     *   Apple patches AirPort Base Station Firmware
