@@ -289,10 +289,6 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   'Rocketman' Gift with Purchase
-    
-    Get a digital song download of "Crocodile Rock" performed by Taron Egerton with ticket purchase! BUY TICKETS
-    
 *   VIP+ World Elite Mastercard®
     
     Get 2x the points pay with World Elite Mastercard®. BUY TICKETS
@@ -344,7 +340,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   May Celebrity Birthdays
+*   June Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Privacy Policy Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App
