@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
+*   My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -63,37 +63,35 @@ UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELS
     was $47 Worthington Pintuck Ankle Pant - TallAdd To Cart
 *   SPECIAL DEAL!
     
-    $2899 sale
-    
-    was $59 Speechless Sleeveless Party Dress-JuniorsAdd To Cart
-*   SPECIAL DEAL!
-    
     $1999 sale
     
     was $44 St. John's Bay Belted Petite Capris(15)Add To Cart
 *   SPECIAL DEAL!
     
+    $999 sale
+    
+    was $27 St. John's Bay Womens Short Sleeve Embroidered Blouse(9)Add To Cart
+*   SPECIAL DEAL!
+    
     $1480 sale
     
-    was $37 Liz Claiborne 3/4 Tie Sleeve Knit Top(29)Add To Cart
+    was $37 Liz Claiborne 3/4 Tie Sleeve Knit Top(30)Add To Cart
 *   SPECIAL DEAL!
     
     $999 sale
     
-    was $27 St. John's Bay Womens Short Sleeve Embroidered Blouse(9)Add To Cart
+    was $32 St. John's Bay Womens Round Neck Elbow Sleeve Embroidered Peasant TopAdd To Cart
 
 Hot Sellers
 
-*   $1439after couponwas $30 The Foundry Big &. Tall Supply Co. Mens Short Sleeve Polo Shirt Big and Tall(26)
-*   from$1999 sale
+*   $2399after couponwas $50 The Foundry Big &. Tall Supply Co. Mens Short Sleeve Polo Shirt Big and Tall(5)
+*   $1599after couponwas $50 St. John's Bay Womens Innis Wedge Sandals(14)
+*   $1599after couponwas $50 St. John's Bay Womens Zandora T-Strap Flat Sandals(15)
+*   from$28after couponwas $70 - $140 Liz Claiborne Quinn Basketweave Room Darkening Grommet-Top Curtain Panel(593)
+*   $2399after couponwas $70 Yuu Womens Drew Strap Sandals(13)
+*   $3999 sale
     
-    was $25 - $35 | 14 - 20% offNike Benassi JDI Mens Slide Sandals(63)
-*   from$1599after couponWorthington Womens Long Sleeve Modern Fit Button-Front Shirt(146)
-*   $1599after couponwas $40 Arizona Mens Flex Cargo Short(16)
-*   $1439after couponwas $36 St. John's Bay Men's Chino Short(20)
-*   from$24 sale
-    
-    was $40 - $108 | 40% offJCPenney Home Cordless Light-Filtering Cellular Shade(272)
+    was $55 | 27% offClarks Womens Brinkley Jazz Flip-Flops(215)
 
 Shop and Save at JCPenney
 
