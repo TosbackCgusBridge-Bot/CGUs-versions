@@ -34,64 +34,28 @@ Shop Departments
     *   Watches
     *   View all Gifts
 
-Near YouFind a StoreBack12.99 ST. JOHN'S BAY POLOSShop AllSELECT STYLES12.99 ST. JOHN'S BAY POLOSSELECT STYLESShop All
+Near YouFind a StoreBack FINAL HOURS OF COUPON CODEQUICK9ENDS IN00HOURS 41MINS 13SECS See Details\*Extra 30% off select apparel, shoes, accessories, fine jewelry and home purchases of $100 or more. Extra 25% off select purchases under $100. Extra 15% off select furniture, mattresses, housewares, fitness equipment and accessories, custom blinds and shades, watches and salon products. Each offer good at jcp.com only, excluding taxes and shipping charges, 6/2/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Best Value, Daily Deals, Special Deals, Limited Time Specials, Levi's, Denizen from Levi’s, Disney Collection, Disney Tsum Tsum, French Toast, Fisher-Price, Fanatics, Licensed Team Sports Merchandise, Columbia, Carhartt, Nike, adidas, Reebok, Puma, Champion, Converse, Clarks, Skechers Women's Shoes, Skechers Athletic Shoes, Bobs from Skechers, Athletic Shoes, Goddess Lingerie, Dreamgirl, Jewelry Trunk Shows, Modern Bride Design Your Dream Ring, Pre-Owned Watches, Smartwatches, Garmin, Fitbit, Sephora, Food, Penney Lane, S'ip by S'well, Electronics, Small Electrics, Floor Care, In-Home Custom Design, Tempur-Pedic, Neato Robotics, iRobot, Sporting Goods/Outdoor Gear, Toys, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Personalized Jewelry, Wigs and Extensions, Purchase with Purchase Items, In-Store Services, Service Plans, Gift Cards, Closing Store purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code QUICK9 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. Details
 
-*   $1039after couponwas $26 St. John's Bay Legacy Piqué Polo Shirt(560)Add To Cart
-*   $1039after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(7)Add To Cart
-*   $1039after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(7)Add To Cart
-*   from$1039after couponwas $30 St. John's Bay Mens Short Sleeve Polo Shirt(3)Add To Cart
-*   $1039after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(4)Add To Cart
-*   $1039after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(7)Add To Cart
-*   $1039after couponwas $26 St. John's Bay Mens Short Sleeve Polo ShirtAdd To Cart
+X
 
-UP TO 70% OFF WOMEN'S APPARELSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S APPARELSELECT STYLESSHOP ALL
+12.99 ST. JOHN'S BAY POLOSShop AllSELECT STYLES12.99 ST. JOHN'S BAY POLOSSELECT STYLESShop All
 
-*   SPECIAL DEAL!
-    
-    $1299 sale
-    
-    was $30 Liz Claiborne Womens 3/4 Sleeve BlouseAdd To Cart
-*   SPECIAL DEAL!
-    
-    $1299 sale
-    
-    was $37 Miken Crochet Swimsuit Cover-Up Dress-JuniorsAdd To Cart
-*   SPECIAL DEAL!
-    
-    $1999 sale
-    
-    was $47 Worthington Pintuck Ankle Pant - TallAdd To Cart
-*   SPECIAL DEAL!
-    
-    $1999 sale
-    
-    was $44 St. John's Bay Belted Petite Capris(15)Add To Cart
-*   SPECIAL DEAL!
-    
-    $999 sale
-    
-    was $27 St. John's Bay Womens Short Sleeve Embroidered Blouse(9)Add To Cart
-*   SPECIAL DEAL!
-    
-    $1480 sale
-    
-    was $37 Liz Claiborne 3/4 Tie Sleeve Knit Top(30)Add To Cart
-*   SPECIAL DEAL!
-    
-    $999 sale
-    
-    was $32 St. John's Bay Womens Round Neck Elbow Sleeve Embroidered Peasant TopAdd To Cart
+*   $974after couponwas $26 St. John's Bay Legacy Piqué Polo Shirt(560)Add To Cart
+*   $974after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(2)Add To Cart
+*   $974after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(7)Add To Cart
+*   from$974after couponwas $30 St. John's Bay Mens Short Sleeve Polo Shirt(3)Add To Cart
+*   $974after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(4)Add To Cart
+*   $974after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(1)Add To Cart
+*   $974after couponwas $26 St. John's Bay Mens Short Sleeve Polo ShirtAdd To Cart
 
 Hot Sellers
 
-*   $2399after couponwas $50 The Foundry Big &. Tall Supply Co. Mens Short Sleeve Polo Shirt Big and Tall(5)
-*   $1599after couponwas $50 St. John's Bay Womens Innis Wedge Sandals(14)
-*   $1599after couponwas $50 St. John's Bay Womens Zandora T-Strap Flat Sandals(15)
-*   from$28after couponwas $70 - $140 Liz Claiborne Quinn Basketweave Room Darkening Grommet-Top Curtain Panel(593)
-*   $2399after couponwas $70 Yuu Womens Drew Strap Sandals(13)
-*   $3999 sale
-    
-    was $55 | 27% offClarks Womens Brinkley Jazz Flip-Flops(215)
+*   from$24after couponwas $40 - $44 Stafford® 4-pk. Heavyweight Crewneck T-Shirts–Big &. Tall(634)
+*   $2249after couponwas $50 The Foundry Big &. Tall Supply Co. Mens Short Sleeve Polo Shirt Big and Tall(5)
+*   $1499after couponwas $40 Stafford Travel Easy-Care Broadcloth Mens Point Collar Long Sleeve Stretch Dress Shirt(71)
+*   from$1499after couponwas $50 PGA TOUR® Airflux Polo Shirt(181)
+*   $1499after couponwas $60 a.n.a Womens Meadow Wedge Sandals(18)
+*   $1349after couponwas $29 Worthington Womens Sleeveless Blouse
 
 Shop and Save at JCPenney
 
