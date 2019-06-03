@@ -1,4 +1,4 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1676078032639904&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=429775174175430&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N979W7" height="0" width="0" style="display:none. visibility:hidden;">. </iframe>. Turn on more accessible mode Turn off more accessible mode
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N979W7" height="0" width="0" style="display:none. visibility:hidden;">. </iframe>. Turn on more accessible mode Turn off more accessible mode
 
 Feedback Skip to main content
 
@@ -110,4 +110,4 @@ Search Search Type Residential Business Support
 
 Facebook Twitter Instagram YouTube LinkedIn Copyright 2019, Cable ONE Inc ., All Rights Reserved.
 
-BESbswy
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1676078032639904&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=429775174175430&amp;ev=PageView&amp;noscript=1">. BESbswy
