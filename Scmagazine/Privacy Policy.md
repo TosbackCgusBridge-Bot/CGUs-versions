@@ -215,11 +215,11 @@ New York, NY 10001.**
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Report: Hackers claim compromise of four AV firms, offer source code for sale
     
-    *   Winning the cybercrime arms race with AI
-    *   Automation and the existential opportunity
-    *   Critical vulnerability found in WordPress plugin Convert Plus
+    *   Assange indicted on 17 counts under Espionage Act
+    *   First American Financial website leaked 885 million documents
+    *   POS malware swipes payment info from Checkers and Rally's restaurants
+    *   APT10 campaign debuts two new loaders for distributing PlugX and Quasar RATs
     *   XSS vulnerability in Slimstat WordPress plugin
-    *   Automation and the existential opportunity
     
     *   Reports: Hacking accusations debunked after leak of New Zealand budget plan
     *   Apple patches AirPort Base Station Firmware
