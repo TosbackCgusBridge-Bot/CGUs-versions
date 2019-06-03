@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1277 games
-*   Most Popular Games 19258 games
+*   Best of new games 1288 games
+*   Most Popular Games 19265 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,123 games
-*   Driving &. Racing Games 6,804 games
+*   Games for girls 24,122 games
+*   Driving &. Racing Games 6,805 games
 *   Strategy &. RPG Games 2,417 games
-*   Management Games 3,654 games
-*   Thinking Games 12,095 games
-*   Action &. Adventure Games 16,112 games
-*   Sports Games 2,235 games
-*   Shooting Games 8,456 games
+*   Management Games 3,655 games
+*   Thinking Games 12,098 games
+*   Action &. Adventure Games 16,116 games
+*   Sports Games 2,239 games
+*   Shooting Games 8,457 games
 *   Fighting Games 2,093 games
-*   Skill Games 11,134 games
-*   Arcade &. Classic Games 12,928 games
-*   Fun &. Crazy Games 2,528 games
+*   Skill Games 11,138 games
+*   Arcade &. Classic Games 12,930 games
+*   Fun &. Crazy Games 2,529 games
 
 Play with friends  
 Powered by Y8 Account 126 Y8 Multiplayer Games 1,990 Y8 High Score Games 1,148 Y8 Achievements Games 819 Y8 Screenshots Games 1,424 Y8 Online Save Games 3,046 All Y8 Games Games Last Highscore:
 
-**3,656** points on The Ultimate Clicker Squad by minhnghia13
+**8,450** points on Bartender The Celebs Mix by quyet2k6
 
 Help us improve Bad translation? Social
 
