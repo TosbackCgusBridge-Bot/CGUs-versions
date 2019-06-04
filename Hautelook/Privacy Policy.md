@@ -7,17 +7,23 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   Insight Up to 75% Off
-    *   Gemstone Jewelry Finds Up to 80% Off
-    *   Free Shipping: Bedding Blowout
-    *   Season's Best Jackets Up to 65% Off
-    *   Leather Handbags &. More Up to 65% Off
-    *   Wardrobe Refresh: Summer Styles Under $25
-    *   Women's Shoe Blowout
-    *   StriVectin Skin Care Starting at $10
-    *   For Every Office: Men's Styles Up to 75% Off
-    *   Men's Shoes Up to 75% Off
+    *   Donald Pliner Up to 55% Off
+    *   Elie Tahari
+    *   Summer Tops Under $30 Incl. Plus &. Petites
+    *   Donald Pliner Men Up to 60% Off
+    *   Hot Eyewear Under $100 ft. Garrett Leight
+    *   Make a Statement: Rainbow &. Graphic Tees
+    *   Champion Active
+    *   Kristin Cavallari by Chinese Laundry Up to 60% Off
+    *   Beauty Tools We Love Starting at $10
+    *   Power Walk: Block Heel Sandals &. More
     *   SPANX
+    *   Free Shipping: Modern Bath Accents &. More
+    *   Champion Men Starting at $10
+    *   Travel Essentials ft. Flight 001
+    *   Jessica Simpson Baby &. Girls
+    *   Micros Men
+    *   StriVectin Skin Care Starting at $10
     *   Get the Skinny: Denim ft. Hudson Jeans
     *   Stila Cosmetics Up to 65% Off
     *   Summer Dresses Under $45 Incl. Plus &. Petites
@@ -29,6 +35,7 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Calvin Klein Shoes
     *   Men's Summer Edit
     *   Hybrid Green Label Up to 75% Off
+    
     *   Flip-Flops &. More Starting at $10
     *   Glow On: Neon Light Decor &. More
     *   Dr. Scholl's
@@ -38,7 +45,6 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Maaji Swim Up to 55% Off
     *   Be Bold: Statement Styles from TOV
     *   Hudson Jeans Men Up to 70% Off
-    
     *   New Balance
     *   Gifts for Dads &. Grads ft. Nixon Watches
     *   Dressed-Up Casual: Wild Honey Tops &. More
@@ -56,60 +62,50 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   New Balance Kids
     *   Finishing Touches: Men's Accessories
     *   Betsey Johnson Girls
-    *   Designer Sun Up to 70% Off ft. Tom Ford &. More
-    *   Catherine Catherine Malandrino Incl. Plus &. Petites
-    *   Sharagano Dresses Incl. Plus &. Petites
-    *   Date Nights to Day Trips: Skirts Under $30
     *   Free Shipping: Cooling Pillows &. More
-    *   Electric Yoga Up to 65% Off
-    *   Sharp Style: Pointed-Toe Flats, Heels &. More
     *   Mirenesse Australia Starting at $10
-    *   Summer Classics: Ankle Strap Sandals &. More
+    
     *   Free Shipping: Wall Art &. More for Every Style
     *   Kitchen Appliances Starting at $10
     *   Home Office Improvements: Risers &. More from $10
-    *   PJ Couture Sleep &. More Incl. Plus
-    *   Cute Summer Sneakers Up to 50% Off
-    
-    *   Ben Sherman &. More Luggage Up to 75% Off
-    *   Ben Sherman Up to 60% Off
-    *   Ben Sherman Shoes Up to 65% Off
-    *   Fergalicious &. Carlos Santana
-    *   Quiksilver Under $30
     *   Kitchen Gadgets &. Storage Starting at $10
-    *   Fun Boho Looks from mymichelle
-    *   UGG Kids Up to 50% Off
-    *   UGG Men Up to 50% Off
     *   Skinn Cosmetics Up to 60% Off
     *   Warm-Weather Necessities: Pool Floats &. More
     *   Gifts for Him: Beer-Making Kits &. More
-    *   Dress the Population
-    *   Lacoste Men's Shoes &. Lounge
-    *   Our Exclusive Brands for Girls ft. Harper Canyon
-    *   Eddie Bauer Bedding
-    *   Luxe Skin Care: D24K by D'or
-    *   Amaxy Hair Tools &. More Starting at $10
-    *   Cheers to Dad: Barware &. More
-    *   Free Shipping: Textured &. Printed Bedding
-    *   Summer School Backpacks ft. JanSport
-    *   PJs All Day: Sleep Sets &. More
     *   Chargers for Apple Watches, Smartphones &. More
-    *   Pillows &. Throws Up to 65% Off
-    *   Free Shipping: Hand-Painted Replicas
+    *   Eddie Bauer Bedding
+    *   Cheers to Dad: Barware &. More
     *   New on HauteLook: BODUM Coffee Makers &. More
     *   Free Shipping: On-Trend Storage, Decor &. More
     *   Cuisinart
+    *   For Every Office: Men's Styles Up to 75% Off
+    *   Wardrobe Refresh: Summer Styles Under $25
+    *   Season's Best Jackets Up to 65% Off
+    *   Men's Shoes Up to 75% Off
+    *   Women's Shoe Blowout
+    *   Free Shipping: Bedding Blowout
+    *   Polished Perfection: Insight
+    *   Leather Handbags &. More Up to 65% Off
+    *   Summer School Backpacks ft. JanSport
+    *   PJs All Day: Sleep Sets &. More
+    *   Pillows &. Throws Up to 65% Off
+    *   Gemstone Jewelry Finds Up to 80% Off
     *   Wear-to-Work Shoes ft. SUSINA
+    *   Dress the Population
 *   WomenShop Sale Events
     
-    *   Insight Up to 75% Off
-    *   Gemstone Jewelry Finds Up to 80% Off
-    *   Season's Best Jackets Up to 65% Off
-    *   Leather Handbags &. More Up to 65% Off
-    *   Wardrobe Refresh: Summer Styles Under $25
-    *   Women's Shoe Blowout
-    *   StriVectin Skin Care Starting at $10
+    *   Donald Pliner Up to 55% Off
+    *   Elie Tahari
+    *   Summer Tops Under $30 Incl. Plus &. Petites
+    *   Hot Eyewear Under $100 ft. Garrett Leight
+    *   Make a Statement: Rainbow &. Graphic Tees
+    *   Champion Active
+    *   Kristin Cavallari by Chinese Laundry Up to 60% Off
+    *   Beauty Tools We Love Starting at $10
+    *   Power Walk: Block Heel Sandals &. More
     *   SPANX
+    *   Travel Essentials ft. Flight 001
+    *   StriVectin Skin Care Starting at $10
     *   Get the Skinny: Denim ft. Hudson Jeans
     *   Stila Cosmetics Up to 65% Off
     *   Summer Dresses Under $45 Incl. Plus &. Petites
@@ -121,12 +117,12 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Calvin Klein Shoes
     *   Flip-Flops &. More Starting at $10
     *   Dr. Scholl's
+    
     *   Maternity Must-Haves
     *   Maaji Swim Up to 55% Off
     *   Be Bold: Statement Styles from TOV
     *   New Balance
     *   Gifts for Dads &. Grads ft. Nixon Watches
-    
     *   Dressed-Up Casual: Wild Honey Tops &. More
     *   Down to the Details: Rock Revival &. Miss Me
     *   Handcrafted in Spain: UNOde50 Jewelry
@@ -135,49 +131,42 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Rivka Friedman Jewelry
     *   Vince Camuto Handbags
     *   Utilize These: Trench Coats, Rain Jackets &. More
-    *   Designer Sun Up to 70% Off ft. Tom Ford &. More
-    *   Catherine Catherine Malandrino Incl. Plus &. Petites
-    *   Sharagano Dresses Incl. Plus &. Petites
-    *   Date Nights to Day Trips: Skirts Under $30
-    *   Electric Yoga Up to 65% Off
-    *   Sharp Style: Pointed-Toe Flats, Heels &. More
     *   Mirenesse Australia Starting at $10
-    *   Summer Classics: Ankle Strap Sandals &. More
-    *   PJ Couture Sleep &. More Incl. Plus
-    *   Cute Summer Sneakers Up to 50% Off
-    *   Fergalicious &. Carlos Santana
     *   Skinn Cosmetics Up to 60% Off
+    *   Wardrobe Refresh: Summer Styles Under $25
+    *   Season's Best Jackets Up to 65% Off
+    *   Women's Shoe Blowout
+    *   Polished Perfection: Insight
+    *   Leather Handbags &. More Up to 65% Off
+    *   Gemstone Jewelry Finds Up to 80% Off
     *   Dress the Population
-    *   Luxe Skin Care: D24K by D'or
-    *   Amaxy Hair Tools &. More Starting at $10
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Jewelry
-    *   Accessories
     *   Handbags
     *   Lingerie
+    *   Accessories
+    *   Watches
 *   MenShop Sale Events
     
-    *   For Every Office: Men's Styles Up to 75% Off
-    *   Men's Shoes Up to 75% Off
+    *   Donald Pliner Men Up to 60% Off
+    *   Hot Eyewear Under $100 ft. Garrett Leight
+    *   Champion Men Starting at $10
+    *   Travel Essentials ft. Flight 001
+    *   Micros Men
     *   Bulova &. Citizen Watches
     *   Men's Summer Edit
     *   Hybrid Green Label Up to 75% Off
+    
     *   Men's Summer Hats ft. Fedoras &. More
     *   Hudson Jeans Men Up to 70% Off
     *   Gifts for Dads &. Grads ft. Nixon Watches
     *   New Balance Men
-    
     *   Finishing Touches: Men's Accessories
-    *   Designer Sun Up to 70% Off ft. Tom Ford &. More
-    *   Ben Sherman &. More Luggage Up to 75% Off
-    *   Ben Sherman Up to 60% Off
-    *   Ben Sherman Shoes Up to 65% Off
-    *   Quiksilver Under $30
-    *   UGG Men Up to 50% Off
-    *   Lacoste Men's Shoes &. Lounge
+    *   For Every Office: Men's Styles Up to 75% Off
+    *   Men's Shoes Up to 75% Off
     
     Shop By Category
     *   Shoes
@@ -186,28 +175,27 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Watches
 *   KidsShop Sale Events
     
+    *   Jessica Simpson Baby &. Girls
     *   Great Gear for Baby
     *   New Balance Kids
     *   Betsey Johnson Girls
-    *   Fun Boho Looks from mymichelle
-    *   UGG Kids Up to 50% Off
-    *   Our Exclusive Brands for Girls ft. Harper Canyon
     *   Summer School Backpacks ft. JanSport
     *   PJs All Day: Sleep Sets &. More
     
     Shop By Category
     *   Girls' Shoes
+    *   Boys' Shoes
     *   Girls' Sizes 2T-6X
     *   Girls' Sizes 7-16
-    *   Boys' Shoes
     *   Baby Girl
     *   Boys' Sizes 8-20
     *   Boys' Sizes 2T-7
-    *   Baby Boy
     *   Baby Gear &. Essentials
+    *   Baby Boy
+    *   The Toy Shop
 *   HomeShop Sale Events
     
-    *   Free Shipping: Bedding Blowout
+    *   Free Shipping: Modern Bath Accents &. More
     *   Glow On: Neon Light Decor &. More
     *   Free Shipping: Home Organization Essentials
     *   Free Shipping: Finishing Touches For Your Home
@@ -215,48 +203,48 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Free Shipping: Wall Art &. More for Every Style
     *   Kitchen Appliances Starting at $10
     *   Home Office Improvements: Risers &. More from $10
-    *   Ben Sherman &. More Luggage Up to 75% Off
     *   Kitchen Gadgets &. Storage Starting at $10
     *   Warm-Weather Necessities: Pool Floats &. More
     
     *   Gifts for Him: Beer-Making Kits &. More
+    *   Chargers for Apple Watches, Smartphones &. More
     *   Eddie Bauer Bedding
     *   Cheers to Dad: Barware &. More
-    *   Free Shipping: Textured &. Printed Bedding
-    *   Summer School Backpacks ft. JanSport
-    *   Chargers for Apple Watches, Smartphones &. More
-    *   Pillows &. Throws Up to 65% Off
-    *   Free Shipping: Hand-Painted Replicas
     *   New on HauteLook: BODUM Coffee Makers &. More
     *   Free Shipping: On-Trend Storage, Decor &. More
     *   Cuisinart
+    *   Free Shipping: Bedding Blowout
+    *   Summer School Backpacks ft. JanSport
+    *   Pillows &. Throws Up to 65% Off
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
     *   Cleaning &. Organization
-    *   Tech Accessories
     *   Luggage &. Travel
+    *   Tech Accessories
     *   Outdoor Living
+    *   Bath
     *   Accent Furniture
+    *   Rugs &. Doormats
 *   BeautyShop Sale Events
     
+    *   Beauty Tools We Love Starting at $10
     *   StriVectin Skin Care Starting at $10
     *   Stila Cosmetics Up to 65% Off
     *   Teami Blends
     *   Predire Paris Luxury Skin Care
     *   Mirenesse Australia Starting at $10
     *   Skinn Cosmetics Up to 60% Off
-    *   Luxe Skin Care: D24K by D'or
-    *   Amaxy Hair Tools &. More Starting at $10
     
     Shop By Category
-    *   Skin Care
     *   Makeup
+    *   Skin Care
     *   Bath &. Body
     *   Tools &. Accessories
     *   Hair Care
+    *   Fragrance
     *   Nails
     *   Makeup Bags
 
