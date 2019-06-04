@@ -204,28 +204,9 @@ If you have any questions on our Privacy Policy, or questions about our handling
 New York, NY 10001.**
 
 *   MOST POPULAR
-    
     *   Popular
     *   Emailed
-    *   Recent
-    
-    *   Anti-virus vendors named in Fxmsp's alleged source code breach respond
-    *   Wolters Kluwer still down from May 6 cyberattack
-    *   Windows 10 zero-day vulnerability released, Microsoft in the dark
-    *   Article 29 Working Party still not happy with Windows 10 privacy controls
-    *   Report: Hackers claim compromise of four AV firms, offer source code for sale
-    
-    *   Assange indicted on 17 counts under Espionage Act
-    *   First American Financial website leaked 885 million documents
-    *   POS malware swipes payment info from Checkers and Rally's restaurants
-    *   APT10 campaign debuts two new loaders for distributing PlugX and Quasar RATs
-    *   XSS vulnerability in Slimstat WordPress plugin
-    
-    *   Reports: Hacking accusations debunked after leak of New Zealand budget plan
-    *   Apple patches AirPort Base Station Firmware
-    *   Recorded Future, Palo Alto and FireEye in mergers and acquisitions mode
-    *   Researchers: Pyramid Hotel Group stored security info on openly accessible server
-    *   Theta360 leak exposes 11 million photos, user data
+    *   RecentLoading... Loading... Loading...
 
 Back to Top
 
