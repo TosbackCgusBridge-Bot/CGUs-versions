@@ -5,38 +5,42 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Godzilla: King of the Monsters (2019)
     *   Aladdin (2019)
+    *   Rocketman
+    *   Ma (2019)
     *   John Wick: Chapter 3 – Parabellum
     *   Avengers: Endgame (2019)
     *   Pokémon Detective Pikachu
-    *   Brightburn
     *   Booksmart
-    *   A Dog's Journey
+    *   Brightburn
     *   The Hustle (2019)
-    *   The Intruder (2019)
-    *   Long Shot
-    *   Dumbo (2019)
+    *   A Dog's Journey
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Godzilla: King of the Monsters (2019)
-    *   Rocketman
-    *   Ma (2019)
-    *   Leaving Home, Coming Home: A Portrait of Robert Frank
+    *   Dark Phoenix
+    *   The Secret Life of Pets 2
+    *   Chasing the Dragon 2: Wild Wild Bunch
+    *   The Gangster, the Cop, the Devil
+    *   The Last Black Man in San Francisco
+    *   Late Night (2019)
+    *   Papi Chulo (2019)
+    *   This One's for the Ladies
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Dark Phoenix
-    *   Late Night (2019)
-    *   The Secret Life of Pets 2
     *   Men in Black: International
     *   Shaft (2019)
     *   Toy Story 4
     *   Child's Play (2019)
     *   Anna (2019)
     *   Wild Rose (2019)
+    *   Annabelle Comes Home
+    *   Yesterday (2019)
+    *   Spider-Man: Far From Home (2019)
     *   See All Coming Soon
     
     Explore More
@@ -65,8 +69,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   'The Lion King' Set Visit Read More
-    *   Today in Movie Culture: Pixar Easter Eggs in ‘Toy Story 4,’ ’Godzilla’ Franchise Recap and More Read More
-    *   The Week in Movie News: Marc Webb to Direct Disney’s ‘Snow White’ Remake, First ‘Rambo: Last Blood’ Trailer and More Read More
+    *   Today in Movie Culture: ‘X-Men’ Recap, ‘Ma’ Director Commentary, ’Detective Pikachu’ VFX Breakdown and More Read More
+    *   Next 3 Vera Farmiga Movies: 'Annabelle Comes Home,' 'The Conjuring 3,' 'The Many Saints of Newark' Read More
     
     Explore Content
     *   Movie Reviews
@@ -347,4 +351,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
