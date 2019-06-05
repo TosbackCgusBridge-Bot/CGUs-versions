@@ -1,167 +1,191 @@
-Skip to main content Online Trust Alliance
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5LKZWMW" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Member Login
 
-*   Home
-*   Member Login
-    *   Request New Login
-*   Privacy Policy
-*   Contact Us
-
-     _▼_
-
-*   Home
-    
-    _▼_
-*   Initiatives
-    
-    *   Cyber Incident &. Breach Readiness
-    *   Online Trust Audit &. Honor Roll
-    *   Email Marketing &. Security
-    *   Internet of Things
-    *   Privacy
-    *   Public Policy
-    
-    _▼_
+*   The Internet
+    *   About the Internet
+        *   History of the Internet
+        *   Facts &. Figures
+        *   Who Makes the Internet Work
+        *   Glossary of Internet Terms
+*   What we’re doing
+    *   Focus Areas
+        *   Connecting the World
+        *   Building Trust
+        *   Improving Technical Security
+        *   Shaping the Internet’s Future
+    *   Other Issues
+*   What you can do
+    *   Take Action
+        *   Attend an event
+        *   Become an individual member
+        *   Fellowships
+        *   Grants and awards
+        *   Find a chapter
+        *   Become an organization member
+        *   Donate
+    *   Education
+        *   Watch a tutorial
+        *   Take an online course
 *   Resources
-    
-    *   Report Archive
-    *   IoT Resources
-    *   Data Breach &. Protection
-    *   Email Practices &. Reports
-    *   Vision for Trust
-    *   Advertising Integrity &. Fraud
-    
-    _▼_
-*   Best Practices
-    
-    *   Archive
-    
-    _▼_
-*   Committees
-*   Newsroom
-    
-    *   Press Releases
-    *   OTA In The News
-    *   Upcoming Events
-    
-    _▼_
-*   Membership
-    
-    *   Member Portal
-    
-    _▼_
+    *   Resource library
+        *   All resources
+        *   Policy Briefs
+    *   Publications
+        *   Global Internet Report
+        *   IETF Journal
+    *   Programs
+        *   Deploy360
+        *   IXP Toolkit
+        *   MANRS
+        *   Online Trust Alliance (OTA)
 *   About Us
-    
-    *   History &. Overview
-    *   Staff
-    *   Report a Site Vulnerability
-    
-    _▼_
-*   Blog
-
-*   Print
-*   Twitter
-*   Linkedin
-*   Facebook
-*   Youtube
-
-Facebook Twitter LinkedIn Email AddThis Home › Privacy Statement Privacy Statement
-
-The Online Trust Alliance is now part of the Internet Society (ISOC) and governed by ISOC's Privacy Statement. As a combined organization, we are mutually committed to responsible and ethical data privacy practices.  To review the new ISOC privacy statement click here. Questions please email privacy@isoc.org.   
-
-Previous OTA privacy policies are posted below
-
-*   OTA Privacy Policy  Revised August 1, 2016 and effective through August 21, 2017
-*   OTA Privacy Policy - July 13, 2016 ("redlined", replacing policy dated March 1, 2016)
-
-*   Upcoming Events
+    *   About Internet Society
+        *   Mission
+        *   Board of Trustees
+        *   Chapters
+        *   Organization Members
+        *   Affiliates and Partners
+        *   Team
+        *   Action Plan: 2019
+        *   Organization Reports &. Policies
+        *   About the Internet Society Foundation
+    *   Regions
+        *   Africa
+        *   Asia Pacific
+        *   Europe
+        *   Latin America &. Caribbean
+        *   Middle East
+        *   North America
+    *   Events
+        *   All Events
+        *   African Peering and Interconnection Forum (AfPIF)
+        *   IETF Meetings
+        *   InterCommunity
+        *   NDSS Symposium
 *   News
+    *   News
+        *   Press Releases
+        *   Internet Society in the news
+        *   Blog
+        *   Statements
+        *   Speeches
+    *   For journalists:
+        *   Media center
 
-*   OTA Blog(active tab)
-*   Newsletters
+2019 Action Plan 2019 Action Plan
 
-Tue, Apr 16, 2019 Announcing the Online Trust Audit &. Honor Roll Results
+**Connecting the World, Improving Technical Security, and Building Trust**  
+  
+Read the Internet Society’s roadmap for our work in the year ahead.
 
-_\[Editor's Note: This post originally appeared on the Internet Society blog at https://www.internetsociety.org/blog/2019/04/online-trust-audit-finds-better-email-authentication-and-encryption-worse-privacy-statement-scores/.\]_
+Consolidation in the Internet Economy Consolidation in the Internet Economy
 
-Wed, Nov 28, 2018 New Report: Major Online Retailers Increase Email Marketing Trustworthiness and Follow Unsubscribe Best Practices
+Is the Internet economy consolidating? What does this mean for society? Read our 2019 Global Internet Report for a glimpse of the positive and negative impacts for the future.
 
-Today, the Internet Society’s Online Trust Alliance released its fifth annual **Email Marketing &. Unsubscribe Audit.** OTA researchers analyzed the email marketing practices of 200 of North America’s top online retailers and, based on this analysis, offered prescriptive advice to help marketers provide consumers with choice and control over when and what messages they receive.
+Fact or Fiction? With IoT It’s Not Always Clear Fact or Fiction? With IoT It’s Not Always Clear
 
-Thu, Oct 4, 2018 National Cybersecurity Awareness Month = International IoT Security and Privacy Month
+From smart shoes to an intelligent toilet, IoT devices sound like science fiction! But, these are real devices, that can have real vulnerabilities. Find out how to stay one step ahead and secure yourself against threats.
 
-October is National Cybersecurity Awareness Month, and as part of our work with the Internet Society and Internet of Things (IoT) campaign, we think October also deserves another label… _International IoT Security and Privacy Month_. There are a number of significant activities and developments related to security and privacy.
+Learn More Learn More
 
-Thu, Aug 23, 2018 Announcing the Online Trust Audit &. Honor Roll Methodology for 2018
+Did you know that the open standards that power the Internet are created by the Internet Engineering Task Force (IETF)?
 
-Later this year, we’ll publish the 10th annual Online Trust Audit &. Honor Roll, which promotes responsible online privacy and data security practices and recognizes leaders in the public and private sectors who have embraced them. This morning, we released the methodology we’ll use for this year’s audit.
+Our CEO Keynote Speech Our CEO Keynote Speech
 
-More >>. Main menu
+"Nobody Internets alone," said Andrew Sullivan at APRICOT 2019 in South Korea. "You can only build the Internet with all the other networks: together."
 
-*   Initiatives
-    *   Cyber Incident &. Breach Readiness
-    *   Online Trust Audit &. Honor Roll
-    *   Email Marketing &. Security
-    *   Internet of Things
-    *   Privacy
-    *   Public Policy
-*   Resources
-    *   Report Archive
-    *   IoT Resources
-    *   Data Breach &. Protection
-    *   Email Practices &. Reports
-    *   Vision for Trust
-    *   Advertising Integrity &. Fraud
-*   Best Practices
-    *   Archive
-*   Committees
-*   Newsroom
-    *   Press Releases
-    *   OTA In The News
-    *   Upcoming Events
-*   Membership
-    *   Member Portal
-*   About Us
-    *   History &. Overview
-    *   Staff
-    *   Report a Site Vulnerability
-*   Blog
+Connecting The Unconnected Connecting The Unconnected
 
-Initiatives
+How can the Internet change lives in rural and remote regions? Read the stories about community networks in Zimbabwe, the Republic of Georgia, and South Africa.
 
-*   Cyber Incident &. Breach Readiness
-*   Online Trust Audit &. Honor Roll
-*   Email Marketing &. Security
-*   Internet of Things
-*   Privacy
-*   Public Policy
+Member Login en
 
-Best Practices
+*   en
+*   fr
+*   es
+*   More languages
 
-*   Archive
+Donate ×search  Donate Online Trust Alliance (OTA) OTA Home Publications Resources IoT Best Practices Committees
 
-Newsroom
+The Internet Society’s Online Trust Alliance (OTA) identifies and promotes security and privacy best practices that build consumer confidence in the Internet. Leading public and private organizations, vendors, researchers, and policymakers contribute to and follow OTA’s guidance to help make online transactions safer and better protect users’ data. **OTA Goals:**
 
-*   Press Releases
-*   OTA In The News
-*   Upcoming Events
+*   Through independent research and benchmark reporting, educate stakeholders on Internet issues impacting user trust and brand reputation;
+*   Drive multistakeholder initiatives to develop and advance best practices to protect users’ security, privacy, and identity;
+*   Via working groups and committees,  develop industry leadership and harness the power of collaboration, meaningful self-regulation, and data stewardship;
+*   Establish and foster partnerships and collaborative learning opportunities. and
+*   Empower users to act in their own privacy and security interests.
 
-Membership
+Some examples of OTA’s work products include: Online Trust Audit and Honor Roll
 
-*   Member Portal
+The Online Trust Audit &. Honor Roll assesses nearly 1,200 organizations, recognizing excellence in online consumer protection, data security, and responsible privacy practices. This 10th annual audit of more than 1,200 predominantly consumer-facing websites is the largest undertaken by OTA, and was expanded this year to include payment services, video streaming, sports sites, and healthcare.
 
-About Us
+Latest Report See All Publications Cyber Incident &. Breach Readiness Guide
 
-*   History &. Overview
-*   Staff
-*   Report a Site Vulnerability
+This year marks the Online Trust Alliance’s tenth annual publication related to cyber incidents and breach readiness. Now an initiative of the Internet Society, OTA reviews cyber incident and breach events to extract key learnings and provide guidance to help organizations of all sizes around the world raise the bar on trust through enhanced data protection and increased defense against evolving threats. This Cyber Incident &. Breach Trends Report builds on last year’s expanded recognition of threats beyond just data breaches to include ransomware, business email compromise (BEC), distributed denial-of-service (DDoS) attacks and connected device vulnerability.
 
- 
+Latest Report See All Publications Email Marketing &. Security
 
-© 2018   Online Trust Alliance
+The 2018 Audit found that the vast majority of audited online retailers have embraced unsubscribe best practices, going beyond mere compliance, and have shown continued improvement since 2014 despite expanded and more stringent criteria. This year’s Audit examines the entire email engagement process, from signup to receiving email to the unsubscribe user experience and results.
 
-*   Home
-*   Member Login
-*   Privacy Policy
+Latest Report See All Publications Best Practices
+
+OTA provides best practices, resources, and guidance to help enhance online safety, data security, privacy, and brand protection. To maintain online trust, industry needs to move from a compliance mindset to one of stewardship, while promoting the value exchange consumers receive. Organizations should apply these efforts, following a review of their respective legal, regulatory, and compliance requirements.
+
+See All Best Practices OTA Internet of Things (IoT) Initiative &. Trust Framework
+
+The IoT Trust Framework® includes a set of strategic principles necessary to help secure IoT devices and their data when shipped and throughout their entire life-cycle. Through a consensus driven multi-stakeholder process, criteria have been identified for connected home, office and wearable technologies including toys, activity trackers and fitness devices.
+
+Visit our IoT Trust Framework page and download the full version or Framework Overview.
+
+Read the Framework Learn more about IoT OTA News 10 Years of Auditing Online Trust – What’s Changed? Building Trust 22 April 2019 10 Years of Auditing Online Trust – What’s Changed?
+
+Last week we released the 10th Online Trust Audit &. Honor Roll, which is a comprehensive evaluation of an...
+
+Announcing the Online Trust Audit &. Honor Roll Results Building Trust 16 April 2019 Announcing the Online Trust Audit &. Honor Roll Results
+
+Do you know how – or even if – your favorite retailer, or your bank, or your ISP is...
+
+OTA’s Online Trust Audit Scores Consumer-facing U.S. Government Websites Highest in Security and Privacy. Healthcare Comes in Last Press Releases 16 April 2019 OTA’s Online Trust Audit Scores Consumer-facing U.S. Government Websites Highest in Security and Privacy. Healthcare Comes in Last
+
+Internet Society’s broadest audit yet sees dramatic increases in overall website security driven by improvements in email authentication and...
+
+Privacy First for Security Companies Privacy 15 April 2019 Privacy First for Security Companies
+
+Privacy has become a major issue around the world. Hopeful presidential candidates, such as Elizabeth Warren, have proposed privacy...
+
+Phishing: Think like a cybercrook In the News 15 December 2018 Phishing: Think like a cybercrook SC Media Webinar: Can Consumers Trust Retailers’ Email? Findings from OTA’s Email Marketing &. Unsubscribe Audit Building Trust 13 December 2018 Webinar: Can Consumers Trust Retailers’ Email? Findings from OTA’s Email Marketing &. Unsubscribe Audit
+
+Next Tuesday, 18 December, at 2PM ET (1900 UTC), we’ll be holding a webinar to discuss the results of...
+
+Load More Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team Megan Kruse photo Megan Kruse
+
+Business Director, Online Trust Alliance
+
+Kenneth Olmstead photo Kenneth Olmstead
+
+Internet Privacy &. Security Analyst
+
+Jeff Wilbur photo Jeff Wilbur
+
+Technical Director, Online Trust Alliance
+
+*   About the Internet Society
+*   About the IETF
+*   Careers
 *   Contact Us
+*   Follow Us
+*   Sharing Our Content
+*   Affiliated Sites
+*   Privacy Policy
 
-Printer-friendly version
+**USA**  
+11710 Plaza America Drive, Suite 400  
+Reston, VA 20190  
++1-703-439-2120  
+**Switzerland**  
+Quai de l’île 13  
+CH-1204 Geneva  
+  
+****Other offices****  
+  
+  
+Follow Internet Society on Facebook Follow Internet Society on Twitter Follow Internet Society on RSS Follow Internet Society on Instagram Follow Internet Society on youTube Copyright © 2019 Internet Society We care about your privacy and strive to limit our use of cookies to those that help improve our site and keep it relevant. By continuing to use this site, you agree to the use of cookies. To learn more about how you can control use of cookies see our Cookie Policy
