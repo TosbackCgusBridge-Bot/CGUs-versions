@@ -176,9 +176,7 @@ Click here
 
 Belgium
 
-N/A
-
-Click here
+For P&G Healthcare:  P&G Health Belgium BVBA, Temselaan 100,  1853 Strombeek-Bever
 
 Netherlands
 
@@ -279,7 +277,7 @@ Procter and Gamble DS Polska sp z o.o.
 
 Belgium
 
-Procter &. Gamble Distribution Company (Europe) BVBA
+For P&G Healthcare:  P&G Health Belgium BVBA, Temselaan 100,  1853 Strombeek-Bever
 
 Czech Republic
 
@@ -299,11 +297,11 @@ Procter &. Gamble d.o.o. za trgovinu
 
 France
 
-Procter &. Gamble France SAS/Procter &. Gamble Pharmaceuticals France SAS”
+For P&G HealthCare as of 1 July ‘19 : P&G Health France S.A.S.,   163 Quai Aulagnier, 92600 Asnières-sur-Seine
 
 Germany
 
-Procter &. Gamble Service GmbH
+For P&G HealthCare: P&G Consumer Health Germany GmbH,  Sulzbacher Strasse 40, 65824 Schwalbach am Taunus
 
 Greece
 
@@ -329,13 +327,13 @@ Spain
 
 Procter &. Gamble España, S.A.
 
-United Kingdom
-
-Procter &. Gamble UK
-
 EU Countries Not Listed
 
 Procter &. Gamble International Operations SA
+
+United Kingdom
+
+Seven Seas Limited, The Heights, Brooklands, Weybridge, Surrey KT13 0XP
 
 **processing and retention.** As a general rule, we keep your data for only as long as it is needed to complete the purpose for which it was collected or as required by law. We may need to keep your data for longer than our specified retention periods to honor your requests, including to continue keeping you opted out of marketing emails, or to comply with legal or other obligations. This chart tells you the type of data we collect, the purposes for which we use it, why such uses comply with the law (legal basis), and how long we usually keep it (retention period).
 
