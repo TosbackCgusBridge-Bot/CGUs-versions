@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Debug ACPI Tables with Firmware Test Suite (FWTS) ›
 *   Ubuntu Server development summary – 28 May 2019 ›
 *   Introducing the Ubuntu security podcast ›
 *   Snapcraft parts &. plugins ›
 *   Kubeflow at KubeCon Europe 2019 in Barcelona ›
-*   Design and Web team summary – 10 May 2019 ›
