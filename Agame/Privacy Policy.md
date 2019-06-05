@@ -126,8 +126,8 @@ View more results
     *   World Craft 2
     *   FNAF World
     *   Fireboy and Watergirl 5: Elements
-    *   Dumb Ways to Die 2
     *   Vex 4
+    *   Dumb Ways to Die 2
 *   Top Categories
     
     *   Bubble Shooter
@@ -221,8 +221,8 @@ View more results
     *   Uphill Rush 7: Waterpark
     *   Happy Wheels
     *   Moto X3M: Motorcycle Racing Game
-    *   Extreme Off-Road Cars 2
     *   Rally Point 2: Dirt Track Racing Game
+    *   Extreme Off-Road Cars 2
     *   Agame Stunt Cars Multiplayer
 *   Top Categories
     
@@ -249,8 +249,8 @@ View more results
     *   Baseball
     *   Table Tennis World Tour
     *   Archery World Tour
-    *   Ultimate Boxing
     *   Bouncy Dunk
+    *   Ultimate Boxing
     *   8-Ball
     *   Neon Biker
     *   Pinch Hitter 3
@@ -462,4 +462,16 @@ Copyright © 2019 SPIL GAMES All rights reserved.
 *   Cookie Consent
 
 Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
-Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere
+Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere Feedback Help us improve by sharing your feedback. Thank you for sharing your feedback with us!
+
+How would you rate your experience?
+
+Hate Dislike Neutral Like Love Select an element on the page.
+
+false
+
+Thank you for sharing your feedback with us!
+
+Connecting your feedback with data related to your visits (device-specific, usage data, cookies, behavior and interactions) will help us improve faster. Do you give us your consent to do so for your previous and future visits? More information
+
+Not using Hotjar yet? Skip Send Select an element on the page.
