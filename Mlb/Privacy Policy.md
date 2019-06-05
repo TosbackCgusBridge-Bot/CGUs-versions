@@ -164,8 +164,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Scores News Video Standing
     *   Injury Report
     *   WGT Baseball: MLB
     *   Prospect Watch
-    *   MLB Champions
-    *   Follow @Fantasy4112019 Beat the Streak Yahoo Fantasy MLB Champions
+    *   MLB Champions2019 Beat the Streak Yahoo Fantasy MLB Champions
 *   Play Ball Play Ball Play Ball
     *   PlayBall.org
     *   Hank Aaron Invitational
