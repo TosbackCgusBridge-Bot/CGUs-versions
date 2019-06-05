@@ -1,10 +1,10 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main contentMemorial Day Sale EXTENDED! Save up to 75% off select styles. SHOP NOW!
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main contentSale on Sale – Get an extra 20% off select styles. SHOP NOW!
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-Memorial Day Sale EXTENDED! Save up to 75% off select styles. SHOP NOW!
+Sale on Sale – Get an extra 20% off select styles. SHOP NOW!
 
 *   Women
 *   Men
