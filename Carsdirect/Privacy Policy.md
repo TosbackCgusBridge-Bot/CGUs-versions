@@ -45,4 +45,4 @@ MH Sub I, LLC dba Internet Brands and its affiliates operate websites, provide p
 *   Work With Us
 *   Contact Us
 
-Copyright © 2014-2018 MH Sub I, LLC dba Internet Brands. All rights reserved.
+Copyright © 2019 MH Sub I, LLC dba Internet Brands. All rights reserved. Privacy Policy | Terms of Use | Cookie Policy
