@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off full-price styles. Up to 70% off sale and clearance styles!
+Receive Supima towels from $11, Plus free shipping, no minimum, on all orders!
 
-code: YELLOW pin: 5462 DETAILS
+code: WARM pin: 7242 DETAILS
 
 Customer Service Menu
 
