@@ -35,8 +35,9 @@ Jersey, JE1 1WT, UK
 
 Visokio (UK) Ltd
 
-50 Sloane Avenue,  
-London, SW3 3DD, UK  
+New Kings Beam House  
+22 Upper Ground  
+SE1 9PD, London, UK  
 +44 20 7351 4646
 
 Tweets by @Visokio Resources
