@@ -63,7 +63,7 @@ View more results
     *   Total Front: Army War Game
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Klondike - the lost expedition
-    *   Bubble Machine: 2 Player Game
+    *   Pixel Apocalypse
 *   Top Categories
     
     *   Boy Games
@@ -188,8 +188,8 @@ View more results
     *   The Princess: Sent to the Future - Dress Up Game
     *   Popstar Dentist
     *   Get Your Boyfriend
-    *   Ella: Hips Surgery
     *   Vincy Lip Care
+    *   Ella: Hips Surgery
     *   Princess Rivalry
     *   Electricman 2: Stickman Fighting Game
 *   Top Categories
@@ -254,7 +254,7 @@ View more results
     *   8-Ball
     *   Neon Biker
     *   Pinch Hitter 3
-    *   Billiards Master Pro
+    *   Penalty Shooters
 *   *   Multiplayer
     *   Action
     *   Adventure
@@ -462,16 +462,4 @@ Copyright © 2019 SPIL GAMES All rights reserved.
 *   Cookie Consent
 
 Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
-Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere Feedback Help us improve by sharing your feedback. Thank you for sharing your feedback with us!
-
-How would you rate your experience?
-
-Hate Dislike Neutral Like Love Select an element on the page.
-
-false
-
-Thank you for sharing your feedback with us!
-
-Connecting your feedback with data related to your visits (device-specific, usage data, cookies, behavior and interactions) will help us improve faster. Do you give us your consent to do so for your previous and future visits? More information
-
-Not using Hotjar yet? Skip Send Select an element on the page.
+Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere
