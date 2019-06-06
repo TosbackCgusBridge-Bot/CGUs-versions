@@ -13,7 +13,7 @@ Menu PayPal
     *   Payments _Take payments online and in-person_
     *   Credit for Your Customers _Promote financing to help sell more_
     *   Online Business Services _Solutions to build, run, and expand_
-    *   PayPal Commerce Platform _Marketplaces &. ecommerce providers_
+    *   Business in a Box _Easy, all-in-one ecommerce tool_
     *   *   Help
         *   Fees
         *   Business Resource Center
@@ -109,4 +109,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&pgst=Unknown&calc=3eb75219b82a5&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&ccpg=us&csci=42f7d98d322f46308f6db8927f14839c&comp=mppnodeweb&tsrce=mppnodeweb&cu=0&pgld=Unknown&bzsr=main&bchn=mktg&tmpl=home.dust&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&pgst=Unknown&calc=c86a31a3ab00c&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&ccpg=us&csci=f37d2dc95d2a45e8a6a4b533a790f73b&comp=mppnodeweb&tsrce=mppnodeweb&cu=0&pgld=Unknown&bzsr=main&bchn=mktg&tmpl=home.dust&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
