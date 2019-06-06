@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1305 games
-*   Most Popular Games 19270 games
+*   Best of new games 1349 games
+*   Most Popular Games 19274 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,125 games
+*   Games for girls 24,159 games
 *   Driving &. Racing Games 6,806 games
 *   Strategy &. RPG Games 2,417 games
-*   Management Games 3,654 games
-*   Thinking Games 12,102 games
-*   Action &. Adventure Games 16,130 games
+*   Management Games 3,655 games
+*   Thinking Games 12,103 games
+*   Action &. Adventure Games 16,133 games
 *   Sports Games 2,240 games
-*   Shooting Games 8,457 games
+*   Shooting Games 8,460 games
 *   Fighting Games 2,093 games
-*   Skill Games 11,155 games
-*   Arcade &. Classic Games 12,935 games
-*   Fun &. Crazy Games 2,530 games
+*   Skill Games 11,162 games
+*   Arcade &. Classic Games 12,941 games
+*   Fun &. Crazy Games 2,532 games
 
 Play with friends  
-Powered by Y8 Account 126 Y8 Multiplayer Games 1,990 Y8 High Score Games 1,148 Y8 Achievements Games 819 Y8 Screenshots Games 1,424 Y8 Online Save Games 3,047 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 126 Y8 Multiplayer Games 1,994 Y8 High Score Games 1,149 Y8 Achievements Games 820 Y8 Screenshots Games 1,425 Y8 Online Save Games 3,050 All Y8 Games Games Last Highscore:
 
-**7,879** points on Grandpa Run 3D by hungvinh
+**5** points on Slope Y8 by msms1234
 
 Help us improve Bad translation? Social
 
