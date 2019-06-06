@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive Supima towels from $11, Plus free shipping, no minimum, on all orders!
+Receive 50% off 1 full-price item. 20% off all dresses!
 
-code: WARM pin: 7242 DETAILS
+code: FLOWERS pin: 7424 DETAILS
 
 Customer Service Menu
 
