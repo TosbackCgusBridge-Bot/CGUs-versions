@@ -109,7 +109,7 @@ See More From “Once Upon a Time…in Hollywood”
 
 Behold Shang Tsung's killer shape-shifting tactics in the new #MK11 Kombat Pack trailer:  http://play.st/2HO3UJy  Available on PS4 June 18 pic.twitter.com/xy0ytpYgaC
 
-2 days ago
+3 days ago
 
 View Tweet
 
