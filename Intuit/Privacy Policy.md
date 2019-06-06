@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   My AccountSign InSign InNew Customer? Register Here
+*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -41,25 +41,25 @@ X
 9.99 ST. JOHN'S BAY POLOSShop AllSELECT STYLES9.99 ST. JOHN'S BAY POLOSSELECT STYLESShop All
 
 *   $799after couponwas $26 St. John's Bay Legacy Piqué Polo Shirt(560)Add To Cart
-*   from$799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(7)Add To Cart
 *   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(7)Add To Cart
+*   from$799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(7)Add To Cart
 *   from$799after couponwas $30 St. John's Bay Mens Short Sleeve Polo Shirt(3)Add To Cart
 *   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(4)Add To Cart
-*   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(7)Add To Cart
 *   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo ShirtAdd To Cart
+*   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(7)Add To Cart
 
 Hot Sellers
 
-*   $1999after couponwas $54 Arizona Sandra Womens Footbed Sandals(13)
-*   from$1439after couponwas $29 - $59 Home Expressions Classic Plus Mattress Pad(61)
-*   $4165 sale
+*   $1599after couponwas $50 PGA TOUR® Airflux Polo Shirt(181)
+*   $1999after couponwas $42 Arizona Flex Relaxed-Fit Straight Jeans(553)
+*   $1599after couponwas $50 St. John's Bay Womens Zandora T-Strap Flat Sandals(15)
+*   ADVERTISED DEAL!
     
-    was $59.50 | 30% offLevi's® 505™ Regular Fit Jeans(2494)
-*   $1599after couponwas $50 Arizona French Womens T-Strap Footbed Sandals(9)
-*   $5499 sale
+    $2999 sale
     
-    was $65 | 15% offNike® Air Monarch IV Mens Training Shoes(509)
-*   from$16after couponwas $40 - $80 JCPenney Home Sullivan Grommet-Top Curtain Panel(45)
+    was $55 | 45% offSkechers Womens Brilliancy Strap Sandals(111)
+*   from$1999after couponwas $49 - $219 Luxury 600tc Sateen Wrinkle Free Sheet Set - Liz Claiborne(282)
+*   $1599after couponwas $40 Stafford Travel Easy-Care Broadcloth Mens Point Collar Long Sleeve Stretch Dress Shirt(71)
 
 Shop and Save at JCPenney
 
