@@ -57,9 +57,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, UT. Online, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 3% 
+What is PeekScore? Public Records &. Background Checks 2% 
 
 Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -89,7 +89,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
+2% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -135,7 +135,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
+2% 
 
 Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -314,45 +314,45 @@ Twitter 2% 
 
 *   Mental Health NIMH - NIMHgov
     
+*   U.S. FDA - US\_FDA
+    
 *   U.S. FDA - FDArecalls
     
-*   HealthCare.gov - HealthCareGov
-    
-*   U.S. Census Bureau - uscensusbureau
+*   Secretary Alex Azar - SecAzar
     
 *   Show More ...
 
 *   Free Privacy Policy - FreePrivacy1
     
-*   U.S. FDA - US\_FDA
-    
-*   HIV.gov - HIVGov
-    
-*   CDC - CDCgov
+*   IRS - IRSnews
     
 *   Dr. Robert R. Redfield - CDCDirector
     
-*   CDC\_eHealth - CDC\_eHealth
+*   NIH - NIH
     
-*   FTC - FTC
+*   Francis S. Collins - NIHDirector
     
 *   Federal Reserve - federalreserve
     
-*   NIH - NIH
-    
 *   Royal Caribbean - RoyalCaribbean
+    
+*   CDC\_eHealth - CDC\_eHealth
+    
+*   HealthCare.gov - HealthCareGov
+    
+*   CDC - CDCgov
+    
+*   FTC - FTC
     
 *   HHS.gov - HHSGov
     
-*   Mabuhay Miles - PALMabuhayMiles
-    
-*   OAIC - OAICgov
-    
-*   Updated Privacy Policy - EAEO
+*   U.S. Census Bureau - uscensusbureau
     
 *   Justice Department - TheJusticeDept
     
 *   Cristiano Ronaldo - Cristiano
+    
+*   Updated Privacy Policy - EAEO
     
 *   Show Less ...
 
@@ -592,7 +592,7 @@ Images 2% 
 
 20
 
-9
+8
 
 facebookx
 
@@ -603,8 +603,6 @@ instagramx
 myspacex
 
 10
-
-1
 
 facebookx
 
