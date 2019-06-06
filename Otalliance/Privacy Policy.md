@@ -104,7 +104,7 @@ Member Login en
 *   es
 *   More languages
 
-Donate ×search  Donate Online Trust Alliance (OTA) OTA Home Publications Resources IoT Best Practices Committees
+Donate ×search  Donate Online Trust Alliance (OTA) OTA Home Publications Best Practices IoT Committees All Resources
 
 The Internet Society’s Online Trust Alliance (OTA) identifies and promotes security and privacy best practices that build consumer confidence in the Internet. Leading public and private organizations, vendors, researchers, and policymakers contribute to and follow OTA’s guidance to help make online transactions safer and better protect users’ data. **OTA Goals:**
 
@@ -146,7 +146,7 @@ Do you know how – or even if – your favorite retailer, or your bank, or your
 
 OTA’s Online Trust Audit Scores Consumer-facing U.S. Government Websites Highest in Security and Privacy. Healthcare Comes in Last Press Releases 16 April 2019 OTA’s Online Trust Audit Scores Consumer-facing U.S. Government Websites Highest in Security and Privacy. Healthcare Comes in Last
 
-Internet Society’s broadest audit yet sees dramatic increases in overall website security driven by improvements in email authentication and...
+“From the global economy to daily individual interactions, more and more of our lives are conducted online. Yet every...
 
 Privacy First for Security Companies Privacy 15 April 2019 Privacy First for Security Companies
 
