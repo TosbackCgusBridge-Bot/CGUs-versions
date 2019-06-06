@@ -13,7 +13,7 @@ Lexus.com
 
 Close MENU **IS**
 
-*   Starting at $38,4101\*
+*   Starting at $38,5601\*
 *   2.0L I-4 or 3.5L V6
 
 *   Build
@@ -37,7 +37,7 @@ Close MENU **IS**
 
 **GS**
 
-*   Starting at $46,7101\*
+*   Starting at $46,8601\*
 *   2.0L I-4 or 3.5L V6
 
 *   Build
@@ -45,7 +45,7 @@ Close MENU **IS**
 
 **GS F**
 
-*   Starting at $84,4501\*
+*   Starting at $84,6001\*
 *   467-HP3\* 5.0L V8
 
 *   Build
@@ -53,7 +53,7 @@ Close MENU **IS**
 
 **LS**
 
-*   Starting at $75,3004\*
+*   Starting at $75,4504\*
 *   416-HP3, 5\* 3.5L V6
 
 *   Build
@@ -61,7 +61,7 @@ Close MENU **IS**
 
 **LS HYBRID**
 
-*   Starting at $79,8104\*
+*   Starting at $79,9604\*
 *   354 TOTAL SYSTEM HP3\*
 
 *   BUILD
@@ -71,7 +71,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **UX**
 
-*   Starting at $32,0004\*
+*   Starting at $32,1504\*
 *   169-HP6\* 2.0L I-4
 
 *   Build
@@ -79,7 +79,7 @@ COMPARE **UX**
 
 **UX HYBRID**
 
-*   Starting at $34,0001, 7\*
+*   Starting at $34,1501, 7\*
 *   39-MPG COMBINED RATING8\*
 
 *   Build
@@ -119,7 +119,7 @@ COMPARE **UX**
 
 **GX**
 
-*   Starting at $52,3551\*
+*   Starting at $52,5051\*
 *   301-HP3\* V8, FULL-TIME 4WD
 
 *   Build
@@ -127,7 +127,7 @@ COMPARE **UX**
 
 **LX**
 
-*   Starting at $86,08012\*
+*   Starting at $86,23012\*
 *   383-HP3\* V8, FULL-TIME 4WD
 
 *   Build
@@ -171,7 +171,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **UX HYBRID**
 
-*   Starting at $34,0001, 7\*
+*   Starting at $34,1501, 7\*
 *   39-MPG COMBINED RATING8\*
 
 *   Build
@@ -203,7 +203,7 @@ COMPARE **UX HYBRID**
 
 **LS HYBRID**
 
-*   Starting at $79,8104\*
+*   Starting at $79,9604\*
 *   354 TOTAL SYSTEM HP3\*
 
 *   BUILD
@@ -229,7 +229,7 @@ COMPARE **RC F**
 
 **GS F**
 
-*   Starting at $84,4501\*
+*   Starting at $84,6001\*
 *   467-HP3\* 5.0L V8
 
 *   Build
