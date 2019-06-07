@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1349 games
-*   Most Popular Games 19274 games
+*   Best of new games 1361 games
+*   Most Popular Games 19279 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,159 games
-*   Driving &. Racing Games 6,806 games
+*   Games for girls 24,157 games
+*   Driving &. Racing Games 6,807 games
 *   Strategy &. RPG Games 2,417 games
 *   Management Games 3,655 games
-*   Thinking Games 12,103 games
-*   Action &. Adventure Games 16,133 games
+*   Thinking Games 12,107 games
+*   Action &. Adventure Games 16,140 games
 *   Sports Games 2,240 games
 *   Shooting Games 8,460 games
 *   Fighting Games 2,093 games
-*   Skill Games 11,162 games
-*   Arcade &. Classic Games 12,941 games
-*   Fun &. Crazy Games 2,532 games
+*   Skill Games 11,171 games
+*   Arcade &. Classic Games 12,946 games
+*   Fun &. Crazy Games 2,534 games
 
 Play with friends  
 Powered by Y8 Account 126 Y8 Multiplayer Games 1,994 Y8 High Score Games 1,149 Y8 Achievements Games 820 Y8 Screenshots Games 1,425 Y8 Online Save Games 3,050 All Y8 Games Games Last Highscore:
 
-**5** points on Slope Y8 by msms1234
+**12** points on Pizza Party by westley
 
 Help us improve Bad translation? Social
 
