@@ -160,21 +160,23 @@ Attn: Legal Department
 
 11095 Torreyana Road  
 San Diego, CA 92121  
-Main: +1 (858) 779-1344  
+Main: +1 (858) 779-1344
 
-*   Tealium Universal Data Hub
-*   Tealium iQ
-*   Tealium EventStream
-*   Tealium AudienceStream
-*   Tealium DataAccess
+Tealium Universal Data Hub  
+Tealium iQ  
+Tealium EventStream  
+Tealium AudienceStream  
+Tealium DataAccess
 
-*   Contact
-*   Site Map
-*   Privacy at Tealium
-*   Terms of Use
-*   Trust and Privacy
+Contact  
+Site Map  
+Privacy at Tealium  
+Terms of Use  
+Trust and Privacy
 
 Get a Demo
+
++1 (858) 779-1344
 
 Copyright All Rights Reserved © 2008-2019
 
