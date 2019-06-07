@@ -23,7 +23,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Scores News Video Standing
     *   MLB Photos
     *   Rare Feats
     *   Reporter's Inbox
-    *   This Date in History
+    *   Trade Talk and Rumors
     *   Glossary
 *   Video Video In This Section
     
