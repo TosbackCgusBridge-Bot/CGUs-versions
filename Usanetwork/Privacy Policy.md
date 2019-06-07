@@ -144,7 +144,7 @@ Privacy
 
 Privacy PolicyChineseslovenskýEspañol (Americas)ItalianoPortuguês (Portugal)Português(Brasil)NederlandsEnglishPolskiSwedishJapaneseHrvatskiMagyarDanishCрпскиEspañol (Spain)RomânDeutschPусскийSlovenščinaFrançaisCeštinaEnglish
 
-Last Updated: 4 June 2019
+Last Updated: 6 June 2019
 
 This Privacy Policy explains how NBCUniversal and its affiliates collect, use, and share information from or about you when you use our websites, downloadable applications such as games, interactive TV mobile applications, and voice-activated assistants, and other services that link to this policy, as well as connected devices such as theme park devices (“NBCUniversal Services”).
 
@@ -348,4 +348,4 @@ For any questions or complaints about this Privacy Policy or our privacy practic
 *   Supply Chain Values
 *   Terms of Service
 
-© 2019 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/9609641" height="1" width="1" alt="" /></a></div>.
+© 2019 NBCUniversal, Inc. All Rights Reserved. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/3563458" height="1" width="1" alt="" /></a></div>.
