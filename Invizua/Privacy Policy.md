@@ -2,16 +2,18 @@
 *   Try
 *   Download
 *   Classic
-*   Support
 *   Partners
+*   Support
+*   Blog
 *   Contact Us
 
 *   Home
 *   Try
 *   Download
 *   Classic
-*   Support
 *   Partners
+*   Support
+*   Blog
 *   Contact Us
 
 Visokio Privacy Policy Statement What we do with data about you, and data you may send to us
