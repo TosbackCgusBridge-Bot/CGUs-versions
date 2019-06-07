@@ -1,4 +1,53 @@
-skip to main content We use cookies to make sure you get the best experience on our website. If you continue without changing your settings, you're agreeing to receive all cookies on the IKEA website.Privacy policy | Read more about cookies Search    <div class="buttonContainer"><a href="javascript:void(0);"><span class="buttonLeft">&nbsp;</span><span class="buttonCaption"><input id="lnkSearchBtnHeader" type="submit" value="Search" /></span><span class="buttonRight">&nbsp;</span></a></div>. Welcome! FAQ
+skip to main content IKEA FAMILYIKEA for BusinessCustomer ServicesCredit CardJoin our email listMy preferred store:  
+**WI, Oak Creek**Choose Your Store Choose Your Store **Find an IKEA Store**AZ, Tempe  
+CA, Burbank  
+CA, Carson  
+CA, Costa Mesa  
+CA, Covina  
+CA, East Palo Alto  
+CA, Emeryville  
+CA, San Diego  
+CA, West Sacramento  
+CO, Centennial  
+CT, New Haven  
+FL, Jacksonville  
+FL, Miami  
+FL, Orlando  
+FL, Sunrise  
+FL, Tampa  
+GA, Atlanta  
+IL, Bolingbrook  
+IL, Schaumburg  
+IN, Fishers  
+KS, Merriam  
+MD, Baltimore  
+MD, College Park  
+MA, Stoughton  
+MI, Canton  
+MN, Twin Cities  
+MO, St. Louis  
+NV, Las Vegas  
+NJ, Elizabeth  
+NJ, Paramus  
+NY, Brooklyn  
+NY, Long Island  
+NC, Charlotte  
+OH, Columbus  
+OH, West Chester  
+OR, Portland  
+PA, Conshohocken  
+PA, South Philadelphia  
+PA, Pittsburgh  
+TN, Memphis  
+TX, Grand Prairie  
+TX, Frisco  
+TX, Houston  
+TX, Round Rock  
+UT, Draper  
+VA, Woodbridge  
+WA, Renton  
+WI, Oak Creek  
+**Find an IKEA Store**Log In/Sign Up Products Products All productsAppliancesBathroomBedroomChildrensCookingDecorationDiningEatingFoodHallwayHome ElectronicsHome ImprovementKitchensLaundryLeisure &. SafetyLightingLiving RoomMattressesOffice FurnitureOutdoor FurniturePetsSecondary StorageSmall StorageTextiles and RugsWireless chargingSummerBusinessCollectionsBack to CollegeLast ChanceNew Lower PriceNew LocationsInspirationNewOffersServicesBack to College Welcome! 0 FAQ
 
 *   Log In or Sign Up
 *   My shopping cart
@@ -8,48 +57,7 @@ skip to main content We use cookies to make sure you get the best experience on 
 *   Join our email list
 *   Información en español
 
-*   Offers
-*   New
-*   IDEAS
-*   Living room
-*   Bedroom
-*   Bath
-*   Kitchens
-*   Dining
-*   Textiles
-*   Business
-*   Children's
-*   Outdoor
-*   Back to college
-*   All Departments
-    *   Bathroom
-    *   Laundry
-    *   Bedroom
-    *   Lighting
-    *   Children’s
-    *   Living room
-    *   Cooking
-    *   Office furniture
-    *   Decoration
-    *   Outdoor Furniture
-    *   Dining
-    *   Pets
-    *   Eating
-    *   Secondary storage
-    *   Food
-    *   Small storage
-    *   Hallway
-    *   Textiles &. Rugs
-    *   Home electronics
-    *   Leisure &. Safety
-    *   Home improvement
-    *   For business
-    *   Kitchen &. appliances
-    *   Summer
-    *   Kitchens
-    *   Winter holidays
-
-Privacy Policy 1.2 Updated May 2019  
+XIKEA uses cookies to give you the best online shopping experience.By continuing to use our services we will assume that you agree to use of such cookies.To find out more about cookies and to view our revised privacy policy click "Privacy policy".Privacy policy | Read more about cookies Click and Collect - buy online, pick up in storeDelivery starting at $9.99TaskRabbit - furniture assembly Privacy Policy 1.2 Updated May 2019  
   
 We recently updated our Privacy Policy.  
   
@@ -285,7 +293,7 @@ This is IKEA
 *   Read Our Materials
 *   IKEA Foundation
 
-Jobs at IKEA
+Jobs at IKEA New Locations
 
 Partners
 
