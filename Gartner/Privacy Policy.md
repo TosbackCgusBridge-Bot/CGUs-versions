@@ -57,7 +57,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 595 3770 1 855 595 3770
+    1 855 635 8961 1 855 635 8961
     
 
 *   Solutions By Function
@@ -113,10 +113,10 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 595 3770 1 855 595 3770
+    1 855 635 8961 1 855 635 8961
     
 
-GARTNER PRIVACY POLICY Effective Date: April 2019
+GARTNER PRIVACY POLICY Effective Date: June 2019
 
 Gartner and its affiliates are committed to protecting your information. Please read this Privacy Policy ("**the Policy**") carefully as it sets out important information relating to how we handle your personal information.
 
@@ -134,7 +134,7 @@ Global Data Protection Office
 Legal Department  
 56 Top Gallant Road  
 Stamford, CT 09602  
-USA  
+USA
 
 Introduction
 
@@ -146,7 +146,7 @@ This Policy describes our practices when using your information when you: 
 2.  attend a Gartner conference. or
 3.  visit our websites (including our public and/or member-based websites) or social media sites.
 
-This Policy also applies to information we collect from you via our survey or diagnostic tools as outlined in more detail below. You may be shown an additional confidentiality notice before participating in a survey or diagnostic. Please note that in cases where the terms of any such survey- or diagnostic-specific confidentiality notice conflict with any terms in this Policy, the terms of that notice will take precedence over the terms in this Policy. We will not use information we collect via our survey our diagnostic tools to contact you for marketing purposes.
+This Policy also applies to information we collect from you via our survey or diagnostic tools as outlined in more detail below. You may be shown an additional confidentiality notice before participating in a survey or diagnostic. Please note that in cases where the terms of any such survey- or diagnostic-specific confidentiality notice conflict with any terms in this Policy, the terms of that notice will take precedence over the terms in this Policy. We will not use information we collect via our survey or diagnostic tools to contact you for marketing purposes.
 
 If you participate in the Shared Services Leadership Council, please refer to the information in the section below for Shared Services-specific terms.  
 
@@ -189,7 +189,7 @@ This Policy will apply whether you have provided the information directly to us 
 **Categories of information we collect about you include:**
 
 *   Information you provide during registration, such as name, business email address, profile photograph, job title, professional interests, and requested accommodation;
-*   Geo-location information at the conference (if you attend a conference where we are using RFID-enabled badges and you do not request  a non-RFID-enabled badge);
+*   Geo-location information at the conference (if you attend a conference where we are using RFID-enabled badges and you do not request a non-RFID-enabled badge);
 *   Information collected when we record one of our conferences.    
 
 **We use this information for certain activities, including:**
@@ -202,13 +202,13 @@ This Policy will apply whether you have provided the information directly to us 
 
 **We use this information because:**
 
-*   It is necessary for performing our obligations, or exercising our rights, under our contracts with clients;
-*   It is necessary for compliance with any legal or regulatory obligations;
+*   It is necessary to perform our obligations or exercise our contractual rights;
+*   It is necessary to comply with applicable laws or regulations;
 *   We have a legitimate business interest to:
     *   Manage and promote our business and brand;
-    *   Operate our events business;
+    *   Operate our conferences business;
     *   Provide and improve our services;
-    *   Collect relevant information for hospitality and health and safety purposes
+    *   Collect relevant information for hospitality and health and safety purposes.    
 
 **Information we collect from users of:**
 
@@ -216,8 +216,7 @@ This Policy will apply whether you have provided the information directly to us 
 *   **Our apps and Gartner Everywhere browser extension. and**
 *   **Gartner social media sites such as Facebook or Twitter.**
 
-**  
-Categories of information we collect about you include:**  
+**Categories of information we collect about you include:**  
 
 *   Information you provide when you enter information on our website, such as when you provide contact details, answer online questionnaires, or feedback forms;
 *   Information you provide when you subscribe to email newsletters such as name, email address, job title;
@@ -226,10 +225,7 @@ Categories of information we collect about you include:**
 *   When you link your Gartner account with your LinkedIn profile, we collect information from your profile, including your profile photograph;
 *   URLs of webpages visited when you use Gartner Everywhere. 
 
-**  
-  
-  
-We use this information for certain activities, including:**  
+**We use this information for certain activities, including:**  
 
 *   Enabling you to access your Gartner accounts across devices;
 *   Personalizing your experience of our website, extension and apps;
@@ -239,7 +235,7 @@ We use this information for certain activities, including:**
 *   Investigating complaints;
 *   Monitoring social media content to manage relations with our clients and promote our business and brand.    
 
-**We use this information because:**
+**We use this information because:**  
 
 *   It is necessary to perform our obligations or exercise our contractual rights;
 *   It is necessary to comply with applicable laws or regulations;
@@ -285,8 +281,8 @@ We use this information for certain activities, including:**
 
 **We use this information for certain activities, including:**
 
-*   Validating and analysing survey and diagnostics;
-*   Conducting general research, including creating or updating aggregate
+*   Validating and analyzing survey and diagnostics;
+*   Conducting general research, including creating or updating aggregate benchmark data sets and reports;
 *   Providing our services. and
 *   Developing new products and services.
     
@@ -320,7 +316,7 @@ Certain types of personal information are more sensitive than others. This inclu
 
 Where we collect and use information for our legitimate interests as mentioned above, a legitimate interest will only apply when we consider that your interests or rights requiring protection of your personal information do not override our legitimate interests. For more information regarding our legitimate interests as applied to your personal information, please contact us.
 
-Our websites and online services are for individuals who are at least 18 years of age. Our online services are not designed to be used by individuals under the age of 18.
+Our websites and online services are for individuals who are at least 18 years old. Our online services are not designed to be used by individuals under the age of 18.
 
 In certain circumstances, if you do not provide personal information which is required (for example, in relation to activating your Gartner license), we will not be able to perform our contractual obligations or provide you with products and services. When this is the case, we will make it clear. 
 
@@ -340,14 +336,18 @@ The My Favorites feature of the member websites allows clients to save content a
 
 If you access the Restricted Areas of any of our sites (via browser or a Gartner app), we may collect information about your access to and use of research materials, decision-support tools, and other online and offline resources we offer.
 
-2\. WHEN WE DISCLOSE YOUR INFORMATION
+**General Benchmarking and Research Purposes**
+
+Gartner and its affiliates may use information disclosed through surveys or diagnostics or otherwise provided to or generated by Gartner or its Affiliates (collectively “Research Data”) for validation, research and benchmarking purposes and product development. Unless otherwise specified prior to collection, Research Data will be disclosed in the aggregate and presented in anonymous form and will not include (directly or by inference) any information identifying participating organizations or any identifiable individual as the source of such data. Access to Research Data will be restricted to those individuals who need such access to deliver Gartner products and/or services.
+
+2\. WHEN WE DISCLOSE YOUR PERSONAL INFORMATION
 
 We may disclose your personal information to third parties as follows:
 
 *   To Gartner group companies in order to process the data for the above mentioned purposes;
 *   When we have your consent to do so, e.g., when you have allowed a conference exhibitor to scan your attendee badge;
-*   To third parties who work on our behalf to service or maintain business contact databases and other IT systems, e.g.,  suppliers of the IT systems which we use to process personal information, or who provide other technical services, such as printing;
-*   To third parties providing services to us or on our behalf who have a need to access your information, e.g.,  our professional advisors (e.g. auditors and lawyers) or venues for our conferences;
+*   To third parties who work on our behalf to service or maintain business contact databases and other IT systems, e.g., suppliers of the IT systems which we use to process personal information, or who provide other technical services, such as printing;
+*   To third parties providing services to us or on our behalf who have a need to access your information, e.g., our professional advisors (e.g. auditors and lawyers) or venues for our conferences;
 *   To comply with applicable laws, protect rights, safety and property, and respond to lawful requests from public authorities (e.g., disclosing data in appropriate situations for national security or law enforcement purposes);
 *   Subject to applicable law, in the event that Gartner is merged, sold, or in the event of a transfer of some or all of our assets (including in bankruptcy), or in the event of another corporate change, in connection with such a transaction, or for pre-transaction review in relation to such transactions.
 
@@ -357,61 +357,9 @@ Your personal information may be shared if we anonymize and/or aggregate it, as 
 
 We may share information with our organizational clients about how their employees use the sites and the resources available to them through the sites (e.g., how employees used certain features of the sites, utilization trends, which features were most popular with the client’s employees).
 
-3\. INTERNATIONAL TRANSFERS
+3\. DATA SUBJECT RIGHTS
 
-Gartner is a global company and we may transfer personal information to other Gartner group companies or suppliers outside your country. Gartner will take reasonable steps to ensure that personal information is protected and any such transfers comply with applicable law.
-
-Gartner may transfer and maintain the personal information of individuals covered by this Policy on servers or databases outside the European Economic Area (“EEA”). Some of these countries may not have the equivalent level of protection under their data protection laws as in the EEA.
-
-The countries to which we transfer data outside of the EEA may include any of the countries in which Gartner does business. A list of Gartner office locations can be found here.
-
-All Gartner entities have signed an Intragroup Agreement containing the European Union (“EU”) Commission Approved Standard Contractual Clauses for the transfer of data outside the European Economic Area. All Gartner entities have the same technical, physical, and administrative security controls and are required to comply with our data protection policies and procedures, applicable laws, and the terms of our client and member contracts governing the collection and use of information.
-
-**Privacy Shield.**  Gartner complies with the EU-US and US-Swiss Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of information from European Union member countries, and is subject to the investigatory and enforcement powers of the United States Federal Trade Commission. Gartner adheres to the Privacy Shield Principles of Policy, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. 
-
-Gartner’s accountability for information that we receive under the Privacy Shield and subsequently transfer to a third party is described in the Privacy Shield Principles. In particular, we remain responsible and liable under the Privacy Shield Principles if third-party agents that we engage to process the information on our behalf do so in a manner inconsistent with the Principles, unless we prove that we are not responsible for the event giving rise to the damage.
-
-More information about the Privacy Shield program can be found at https://www.privacyshield.gov/.
-
-4\. RETENTION PERIODS
-
-We will retain your personal information for as long as required to perform the purposes for which the data was collected, depending on the legal basis for which that data was obtained and/or whether additional legal/regulatory obligations require us to retain it.  
-
-In general terms, this will mean that your personal information will be kept for the duration of our relationship with you and:
-
-*   the period required by tax and company laws and regulations. and
-*   as long as it is necessary for you to be able to bring a claim against us and for us to be able to defend ourselves against any legal claims. This will generally be the length of the relationship plus the length of any applicable statutory limitation period under local laws. 
-
-5\. CHOICES ABOUT YOUR INFORMATION
-
-We believe it is important to give you choices about the use of your information. We will use your information as described in this Policy (or any other conference- or service-specific Privacy Policy). If we want to use your information for a purpose not described in this Policy, we will first get your consent to do so.
-
-**Marketing Communications**
-
-We will respect your wishes not to receive marketing communications. You can change your marketing preferences by contacting us at the address here. If you gave us your email address to receive marketing communications, you can opt out at any time by using the unsubscribe links or instructions included at the bottom of our emails. Please note that we will continue to send you service-related communications regardless of any opt-out request. We will not sell or share your information or information with third parties (other than our subsidiaries or affiliates) for their own promotional or marketing purposes unless you give us consent to do so and where permitted by applicable law.
-
-**Gartner Everywhere**
-
-Gartner Everywhere is an extension for Google Chrome that allows clients to customize their Gartner experience by providing them with Gartner research applicable to the websites they are browsing in real-time via an easy to access pop-up in their browser. You can easily disable the extension and its collection of URLs by doing the following:
-
-1.  Click the extension Gartner Everywhere button on the top of the browser window.
-2.  Click the green toggle button to switch off.
-3.  Select the duration that you would like to switch off the extension for.
-4.  The extension will be automatically activated after the selected time period.
-
-**Conferences**
-
-When you attend one of our conferences, you may be issued a conference badge with an RFID chip, which has a unique identifier that can be scanned from various distances. We may use the RFID information to administer and improve the conference experience and solicit feedback and/or interest in Gartner products and services. We will not sell or share RFID information with third parties (other than our subsidiaries and affiliates) for their own marketing and promotional purposes.  You may request a non-RFID enabled badge by asking conferences staff at the registration desk.
-
-We allow Exhibitors to scan attendee badges at our conferences. If you choose to allow an Exhibitor to scan your badge at the Exhibitor’s booth or when entering an Exhibitor session or function, you are giving us your consent to provide your contact details to that Exhibitor. Our Exhibitors’ use of any information you choose to share with them in this way is governed by each Exhibitor’s Privacy Policy. Badge scanning is **optional** and you may refuse to have your badge scanned by the Exhibitor.
-
-**California Online Privacy Protection Act Notice Concerning Do Not Track Signals**
-
-Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. We do not recognize or respond to browser-related DNT signals, as the industry is currently working toward a common approach to responding to DNT. To learn more about Do Not Track, please click here.
-
-6\. DATA SUBJECT RIGHTS
-
-You have certain rights, in certain circumstances, in relation to your personal information. A summary of each right and how you can exercise it is set out below. To exercise any of these rights, please contact us. Such requests should include information to allow us to verify your identity(e.g., your name, address, email address or other information reasonably required).
+In certain circumstances, you have certain rights regarding your personal information. A summary of each right and how you can exercise it is set out below. To exercise any of these rights, please contact us. Such requests should include information to allow us to verify your identity(e.g., your name, address, email address or other information reasonably required).
 
 Where we receive your request to exercise one of these rights, we will respond without undue delay and in any event within one month of receipt of the request. This may be extended by a further two months in certain circumstances, e.g., where requests are complex or numerous.
 
@@ -446,7 +394,7 @@ There are also certain exceptions where we may refuse a request for erasure, for
 
 You may object to our use of your personal information for marketing purposes.
 
-You may also object to processing of your personal information in cases where we have used legitimate interests as the basis for processing. In such cases, we will stop processing your personal information until we verify that we have compelling legitimate grounds for processing that outweigh your interests, rights, and freedoms in asking us to stop processing the data, or in limited cases where we need to continue processing the data for the establishment, exercise, or defence of legal claims.
+You may also object to processing of your personal information in cases where we have used legitimate interests as the basis for processing. In such cases, we will stop processing your personal information until we verify that we have compelling legitimate grounds for processing that outweigh your interests, rights, and freedoms in asking us to stop processing the data, or in limited cases where we need to continue processing the data for the establishment, exercise, or defense of legal claims.
 
 **Right to data portability**   
 
@@ -460,6 +408,58 @@ We agree that any disputes regarding our privacy policies and related actions re
 
 In certain circumstances after they have first tried to resolve the dispute directly with us and with the DPA, data subjects in the EU may be able to invoke binding arbitration of disputes by the Privacy Shield arbitration panel.
 
+4\. INTERNATIONAL TRANSFERS
+
+Gartner is a global company and we may transfer personal information to other Gartner group companies or suppliers outside your country. Gartner will take reasonable steps to ensure that personal information is protected and any such transfers comply with applicable law.
+
+Gartner may transfer and maintain the personal information of individuals covered by this Policy on servers or databases outside the European Economic Area (“EEA”). Some of these countries may not have the equivalent level of protection under their data protection laws as in the EEA.
+
+The countries to which we transfer data outside of the EEA may include any of the countries in which Gartner does business. A list of Gartner office locations can be found here.
+
+All Gartner entities have signed an Intragroup Agreement containing the European Union (“EU”) Commission Approved Standard Contractual Clauses for the transfer of data outside the European Economic Area. All Gartner entities have the same technical, physical, and administrative security controls and are required to comply with our data protection policies and procedures, applicable laws, and the terms of our client and member contracts governing the collection and use of information.
+
+**Privacy Shield.**  Gartner complies with the EU-US and US-Swiss Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of information from European Union member countries, and is subject to the investigatory and enforcement powers of the United States Federal Trade Commission. Gartner adheres to the Privacy Shield Principles of Policy, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. 
+
+Gartner’s accountability for information that we receive under the Privacy Shield and subsequently transfer to a third party is described in the Privacy Shield Principles. In particular, we remain responsible and liable under the Privacy Shield Principles if third-party agents that we engage to process the information on our behalf do so in a manner inconsistent with the Principles, unless we prove that we are not responsible for the event giving rise to the damage.
+
+More information about the Privacy Shield program can be found at https://www.privacyshield.gov/.
+
+5\. RETENTION PERIODS
+
+We will retain your personal information for as long as required to perform the purposes for which the data was collected, depending on the legal basis for which that data was obtained and/or whether additional legal/regulatory obligations require us to retain it.  
+
+In general terms, this will mean that your personal information will be kept for the duration of our relationship with you and:
+
+*   the period required by tax and company laws and regulations. and
+*   as long as it is necessary for you to be able to bring a claim against us and for us to be able to defend ourselves against any legal claims. This will generally be the length of the relationship plus the length of any applicable statutory limitation period under local laws. 
+
+6\. CHOICES ABOUT YOUR INFORMATION
+
+We believe it is important to give you choices about the use of your information. We will use your information as described in this Policy (or any other conference- or service-specific Privacy Policy). If we want to use your information for a purpose not described in this Policy, we will first get your consent to do so.
+
+**Marketing Communications**
+
+We will respect your wishes not to receive marketing communications. You can change your marketing preferences by contacting us at the address here. If you gave us your email address to receive marketing communications, you can opt out at any time by using the unsubscribe links or instructions included at the bottom of our emails. Please note that we will continue to send you service-related communications regardless of any opt-out request. We will not sell or share your information or information with third parties (other than our subsidiaries or affiliates) for their own promotional or marketing purposes unless you give us consent to do so and where permitted by applicable law.
+
+**Gartner Everywhere**
+
+Gartner Everywhere is an extension for Google Chrome that allows clients to customize their Gartner experience by providing them with Gartner research applicable to the websites they are browsing in real-time via an easy to access pop-up in their browser. You can easily disable the extension and its collection of URLs by doing the following:
+
+1.  Click the extension Gartner Everywhere button on the top of the browser window.
+2.  Click the green toggle button to switch off.
+3.  Select the duration that you would like to switch off the extension for.
+4.  The extension will be automatically activated after the selected time period.
+
+**Conferences**
+
+When you attend one of our conferences, you may be issued a conference badge with an RFID chip, which has a unique identifier that can be scanned from various distances. We may use the RFID information to administer and improve the conference experience and solicit feedback and/or interest in Gartner products and services. We will not sell or share RFID information with third parties (other than our subsidiaries and affiliates) for their own marketing and promotional purposes.  You may request a non-RFID enabled badge by asking conferences staff at the registration desk.
+
+We allow Exhibitors to scan attendee badges at our conferences. If you choose to allow an Exhibitor to scan your badge at the Exhibitor’s booth or when entering an Exhibitor session or function, you are giving us your consent to provide your contact details to that Exhibitor. Our Exhibitors’ use of any information you choose to share with them in this way is governed by each Exhibitor’s Privacy Policy. Badge scanning is **optional** and you may refuse to have your badge scanned by the Exhibitor.
+
+**California Online Privacy Protection Act Notice Concerning Do Not Track Signals**
+
+Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. We do not recognize or respond to browser-related DNT signals, as the industry is currently working toward a common approach to responding to DNT. To learn more about Do Not Track, please click here.
+
 7\. SECURITY
 
 We have implemented administrative, technical, and physical security measures to help prevent unauthorized access. Despite these measures, no data transmission over the Internet can be entirely secure, and we cannot guarantee or warrant the security of any information you transmit via our websites or apps. Please note that you are responsible for maintaining the security of your credentials used to access any Gartner service or account, and you must report suspected unauthorized activity to us.
@@ -472,9 +472,9 @@ A cookie is a small text file which includes a unique identifier that is sent by
 
 Some of our website pages may contain electronic images known as web beacons (also known as clear gifs, tags or pixels) that allow us to count users who have visited our pages. Web beacons collect only limited information, e.g. a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any information that could directly identify you.
 
-More detailed information on how we use cookies and other web technologies can be found here.
+We also include web beacons in e-mail messages or newsletters to track whether you open the messages. We use this information to customize our services and measure the overall effectiveness of our online content, advertising campaigns, and products and services we offer through the Site. Flash cookies operate differently than browser cookies, and cookie management tools available in a web browser will not remove flash cookies. To learn more about how to manage flash cookies, you can visit the Adobe website and make changes at the Global Privacy Settings Panel.
 
-We also use standard Internet technologies, such as web beacons (also called clear GIFs or pixel tags), locally stored objects (often referred to as “flash cookies”) and other similar technologies, to deliver or communicate with cookies and track your use of our Site. We also include web beacons in e-mail messages or newsletters to track whether you open the messages. We use this information to customize our services and measure the overall effectiveness of our online content, advertising campaigns, and products and services we offer through the Site. Flash cookies operate differently than browser cookies, and cookie management tools available in a web browser will not remove flash cookies. To learn more about how to manage flash cookies, you can visit the Adobe website and make changes at the Global Privacy Settings Panel.
+More detailed information on how we use cookies and other web technologies can be found here.
 
 9\. SHARED SERVICES
 
