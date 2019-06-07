@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off 1 full-price item. 20% off all dresses!
+Receive 50% off full-price polos. 40% off all other full-price styles!
 
-code: FLOWERS pin: 7424 DETAILS
+code: SHINE pin: 2456 DETAILS
 
 Customer Service Menu
 
