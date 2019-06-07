@@ -1,4 +1,4 @@
-*   Largest Text SizeLarger Text SizeRegular Text Size
+*   Larger text sizeLarge text sizeRegular text size
 *   Print
 
 Privacy Policy/Legal Terms and Conditions for Use of This Site
