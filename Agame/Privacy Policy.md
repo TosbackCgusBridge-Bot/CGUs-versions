@@ -118,8 +118,8 @@ View more results
     Best Games
     *   Five Nights at Freddy's
     *   Five Nights at Freddy's 2
-    *   Short Life
     *   Fire Balls
+    *   Short Life
     *   Five Nights at Freddy's 5
     *   Tom and Jerry: Mouse Maze
     *   Five Nights at Freddy's 4
@@ -127,7 +127,7 @@ View more results
     *   FNAF World
     *   Fireboy and Watergirl 5: Elements
     *   Vex 4
-    *   Dumb Ways to Die 2
+    *   Color Bump 3D
 *   Top Categories
     
     *   Bubble Shooter
@@ -247,14 +247,14 @@ View more results
     *   Apple Shooter: Arrow Game
     *   Stunt Skateboard 3D
     *   Baseball
-    *   Table Tennis World Tour
     *   Archery World Tour
-    *   Bouncy Dunk
+    *   Table Tennis World Tour
     *   Ultimate Boxing
-    *   8-Ball
+    *   Bouncy Dunk
     *   Neon Biker
+    *   8-Ball
     *   Pinch Hitter 3
-    *   Penalty Shooters
+    *   Billiards Master Pro
 *   *   Multiplayer
     *   Action
     *   Adventure
