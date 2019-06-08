@@ -370,7 +370,7 @@ You need to complete your basic info on the mobile app before you can use the de
 *   Support
 *   Blog
 *   Tech Blog
-*   Liberal Dating
+*   Chicago Dating
 *   Privacy Policy
 *   Cookie Policy
 *   Terms and Conditions
