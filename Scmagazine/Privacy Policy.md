@@ -215,17 +215,17 @@ New York, NY 10001.**
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Report: Hackers claim compromise of four AV firms, offer source code for sale
     
-    *   Break Up With Your Insecure VPN
-    *   Reports: Hacking accusations debunked after leak of New Zealand budget plan
-    *   Google Chrome 75 rolls out with 42 security fixes
-    *   Breach of bill collection agency may affect 11.9 million Quest Diagnostics patients
-    *   Merger trend continues with Cisco and Elastic making moves
-    
-    *   Russia's 2016 election interference was highly organized, but fixes for 2020 are possible: reports
+    *   Google reveals actors behind Triada trojan
+    *   7.7 million LabCorp patients affected by same breach that impacted Quest Diagnostics
     *   Cisco updates include fixes for 'high' rated RCE, DoS flaws
-    *   Medical data breaches gain lawmakers' attention
-    *   500 million email servers running vulnerable Exim software
-    *   Researchers exploit crypto wallet bug before hackers to save customer funds
+    *   Calif. Assembly passes CCPA amendment that would exclude employee data from protections
+    *   Automation and the existential opportunity
+    
+    *   New Hawkball backdoor attacks government sector in Central Asia
+    *   Court unseals indictment against alleged Darkode hacking forum members
+    *   Google reveals actors behind Triada trojan
+    *   Rapper Dave East nudes reportedly leaked
+    *   Russia's 2016 election interference was highly organized, but fixes for 2020 are possible: reports
 
 Back to Top
 
