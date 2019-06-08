@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off full-price polos. 40% off all other full-price styles!
+Receive 60% off full-price beach towels. 40% off all other full-price styles!
 
-code: SHINE pin: 2456 DETAILS
+code: SAND pin: 6248 DETAILS
 
 Customer Service Menu
 
