@@ -69,8 +69,7 @@ How You Can Access Your InformationDell wants to help you keep your Personal Inf
 *   When you save a cart while shopping online, you can choose to receive email reminders.
 *   Any marketing by Dell, or any third parties on behalf of Dell, will be conducted in accordance with applicable laws and include where applicable methods to allow you to express your preferences (including the possibility of being removed from our advertising and marketing lists as set forth above).
 
-Please allow up to 10 business days for your email preferences to take effect. Because some promotions, such as direct mail catalogs, are developed in advance, you may sometimes receive solicitations after we receive your preference request.  
-**How We Secure Your Personal Information**Dell takes all reasonable steps to protect your Personal Information from misuse, interference and loss, as well as unauthorized access, modification or disclosure. The ways we do this include:
+Please allow up to 10 business days for your email preferences to take effect. Because some promotions, such as direct mail catalogs, are developed in advance, you may sometimes receive solicitations after we receive your preference request. **How We Secure Your Personal Information**Dell takes all reasonable steps to protect your Personal Information from misuse, interference and loss, as well as unauthorized access, modification or disclosure. The ways we do this include:
 
 *   using encryption when collecting or transferring sensitive information, such as credit card details.
 *   limiting physical access to our premises.
