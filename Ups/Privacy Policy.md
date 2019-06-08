@@ -1,8 +1,28 @@
 1/1
 
-*   Severe Flooding Continues to Impact Areas of Iowa...More
+*   Flooding Continues to Impact Areas of Iowa...More
 
-Close Skip To Main ContentUPSQuick Start Hello. Get Started with UPS.
+Close Skip To Main Content
+
+*   Log In
+*   Sign Up
+*   Locations
+*   United States - English
+    *   Estados Unidos - Español
+    *   United States - EnglishSelect Another Country or Territory
+*   My Profile
+    
+    *   Sign Up
+    *   Log In
+    
+    *   Profile Overview
+    *   My Information
+    *   Addresses
+    *   Payment Options
+    *   Preferences
+    *   View &. Pay Bill
+
+Search GoQuick Start Hello. Get Started with UPS.
 
 *   Track Tracking Numbers Go
 *   Ship Close
@@ -11,7 +31,7 @@ Close Skip To Main ContentUPSQuick Start Hello. Get Started with UPS.
 *   Locations Close
 *   View &. Pay Bill Close
 
-MenuSearch Close
+SearchMenu Close
 
 *   Tracking Tracking Track Shipments
     
@@ -26,11 +46,11 @@ MenuSearch Close
         _Quantum View_
     *   Brokerage &. Compliance
     
-    Explore All Tracking Find peace of mind with the details.
+    Explore All Tracking Simplicity found at a glance
     
-    UPS tracking solutions show the progress of your shipment every step of the way, across town or around the world.
+    A new look for UPS tracking solutions makes it easier for you to stay updated on your shipments.
     
-    Learn More
+    Track Now
     
 *   Shipping Shipping New Shipments
     
@@ -57,11 +77,11 @@ MenuSearch Close
         _UPS TradeAbility_
     *   Order Supplies
     
-    Explore All Shipping Convenient locations near you.
+    Explore All Shipping New multi-channel fulfillment made easy
     
-    With shipping locations around the globe and around the corner, UPS makes it easier to find reliable shipping.
+    UPS eFulfillment can help you centrally store and ship the products you sell on more than 21 platforms. Start your 60-day trial today.
     
-    Find the Nearest Location
+    Learn More to Sign Up
     
 *   Services Services By Type
     
@@ -96,27 +116,7 @@ MenuSearch Close
     *   Expanding Globally
     *   ResourcesExplore All Articles
 
-Customer Service
-
-*   Log In
-*   Sign Up
-*   Locations
-*   United States - English
-    *   Estados Unidos - Español
-    *   United States - EnglishSelect Another Country or Territory
-*   My Profile
-    
-    *   Sign Up
-    *   Log In
-    
-    *   Profile Overview
-    *   My Information
-    *   Addresses
-    *   Payment Options
-    *   Preferences
-    *   View &. Pay Bill
-
-Search Go SearchGo Page Not Found
+Customer Service SearchGo Page Not Found
 
 The ups.com page you requested cannot be found. It may have been moved or deleted.
 
