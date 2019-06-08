@@ -22,9 +22,8 @@
         *   Find a chapter
         *   Become an organization member
         *   Donate
-    *   Education
+    *   Online learning
         *   Watch a tutorial
-        *   Take an online course
 *   Resources
     *   Resource library
         *   All resources
