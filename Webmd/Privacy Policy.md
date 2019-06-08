@@ -1,4 +1,4 @@
-Skip to main content
+Want to live your best life? Get the WebMD Daily newsletter for health tips, wellness updates and more. Subscribe By clicking "Subscribe," I agree to the WebMD Terms and Conditions and Privacy Policy. I also agree to receive emails from WebMD and I understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -112,11 +112,11 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Flying With CBD Oil? What You Should Know
-    *   Being Transgender Is Not a Mental Disorder
-    *   Room Temperature Affects Women Differently Than Men
-    *   Don't Risk Your Life Trying to Take the Perfect Selfie
-    *   Neck Cracking and Stroke: How Risky Is It?
+    *   Heartburn Drugs Again Tied to Fatal Risks
+    *   Do You Really Need 10,000 Steps a Day?
+    *   Deaths From Falls Increasing Among the Elderly
+    *   FDA Finds Toxic Chemicals in Many Foods
+    *   We Eat, Drink, Breathe 70,000 Plastic Bits a Year
     
     Experts &. Community
     
