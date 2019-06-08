@@ -3,7 +3,7 @@ Accessibility links
 *   Skip to main content
 *   Keyboard shortcuts for audio player
 
-****Listen To NPR News In 5 Minutes**** Toggle more player options
+Toggle more player options
 
 *   Sign In
 *   NPR Shop
@@ -368,20 +368,20 @@ NPR's Up First is the news you need to start your day.
 
 The biggest stories and ideas — from politics to pop culture — in 10 minutes
 
-Thursday, June 6th, 2019 ******Listen** **· 13:18****** 13:18 ****Playlist**** **Toggle more options**
+Friday, June 7th, 2019 ******Listen** **· 13:28****** 13:28 ****Playlist**** **Toggle more options**
 
 *   **Download**
-*   ****Embed**** **Embed** **`**<**iframe src="https://www.npr.org/player/embed/730212455/730216255" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player">`**
+*   ****Embed**** **Embed** **`**<**iframe src="https://www.npr.org/player/embed/730564544/730570155" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player">`**
 
 *   **Facebook**
 *   **Twitter**
 *   **Flipboard**
 *   **Email**
 
-Thursday, June 6th, 2019 ******Listen** **· 13:18****** 13:18 ****Playlist**** **Toggle more options**
+Friday, June 7th, 2019 ******Listen** **· 13:28****** 13:28 ****Playlist**** **Toggle more options**
 
 *   **Download**
-*   ****Embed**** **Embed** **`**<**iframe src="https://www.npr.org/player/embed/730212455/730216255" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player">`**
+*   ****Embed**** **Embed** **`**<**iframe src="https://www.npr.org/player/embed/730564544/730570155" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player">`**
 
 Up First NPR's Up First is the news you need to start your day.
 
