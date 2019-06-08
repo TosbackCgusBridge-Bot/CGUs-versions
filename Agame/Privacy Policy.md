@@ -60,10 +60,10 @@ View more results
     *   Slither.io
     *   Madalin Cars Multiplayer
     *   Warbanner
-    *   Total Front: Army War Game
     *   Fireboy &. Watergirl 4: Crystal Temple
+    *   Total Front: Army War Game
     *   Klondike - the lost expedition
-    *   Pixel Apocalypse
+    *   Bubble Machine: 2 Player Game
 *   Top Categories
     
     *   Boy Games
@@ -127,7 +127,7 @@ View more results
     *   FNAF World
     *   Fireboy and Watergirl 5: Elements
     *   Vex 4
-    *   Color Bump 3D
+    *   Clean Bathroom Escape
 *   Top Categories
     
     *   Bubble Shooter
@@ -157,8 +157,8 @@ View more results
     *   Deal or No Deal
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Google Feud
-    *   Cut the Rope
     *   1001 Arabian Nights
+    *   Cut the Rope
     *   Bubble Machine: 2 Player Game
 *   Top Categories
     
@@ -186,8 +186,8 @@ View more results
     *   Burger Restaurant Express
     *   Back To School: Princesses Rush
     *   The Princess: Sent to the Future - Dress Up Game
-    *   Popstar Dentist
     *   Get Your Boyfriend
+    *   Popstar Dentist
     *   Vincy Lip Care
     *   Ella: Hips Surgery
     *   Princess Rivalry
@@ -221,9 +221,9 @@ View more results
     *   Uphill Rush 7: Waterpark
     *   Happy Wheels
     *   Moto X3M: Motorcycle Racing Game
+    *   Agame Stunt Cars
     *   Rally Point 2: Dirt Track Racing Game
     *   Extreme Off-Road Cars 2
-    *   Agame Stunt Cars Multiplayer
 *   Top Categories
     
     *   Athletics
@@ -247,14 +247,14 @@ View more results
     *   Apple Shooter: Arrow Game
     *   Stunt Skateboard 3D
     *   Baseball
-    *   Archery World Tour
     *   Table Tennis World Tour
-    *   Ultimate Boxing
+    *   Archery World Tour
     *   Bouncy Dunk
+    *   Ultimate Boxing
     *   Neon Biker
     *   8-Ball
     *   Pinch Hitter 3
-    *   Billiards Master Pro
+    *   Flip Master
 *   *   Multiplayer
     *   Action
     *   Adventure
@@ -460,6 +460,3 @@ Copyright © 2019 SPIL GAMES All rights reserved.
 *   Help &. Contact
 *   Cookies
 *   Cookie Consent
-
-Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
-Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere
