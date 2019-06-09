@@ -40,24 +40,26 @@ X
 
 9.99 ST. JOHN'S BAY POLOSShop AllSELECT STYLES9.99 ST. JOHN'S BAY POLOSSELECT STYLESShop All
 
-*   $799after couponwas $26 St. John's Bay Legacy Piqué Polo Shirt(560)Add To Cart
+*   $799after couponwas $26 St. John's Bay Legacy Piqué Polo Shirt(561)Add To Cart
 *   from$799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(7)Add To Cart
 *   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(8)Add To Cart
 *   from$799after couponwas $30 St. John's Bay Mens Short Sleeve Polo Shirt(3)Add To Cart
-*   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(4)Add To Cart
+*   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(5)Add To Cart
 *   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo ShirtAdd To Cart
 *   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(7)Add To Cart
 
 Hot Sellers
 
-*   $1599after couponwas $50 Italiana By Italian Shoemakers Womens Sheila Flip-Flops(13)
-*   $1680after couponwas $30 Liz Claiborne Womens Crew Neck Short Sleeve Knit Blouse(5)
-*   $3199after couponwas $50 Pop Highbar Womens Sneakers Slip-on(271)
-*   $1439after couponwas $29 a.n.a Womens V Neck Sleeveless Tank Top(16)
-*   $1999after couponwas $50 U.S. Polo Assn. Mens Short Sleeve Polo Shirt Big and Tall
-*   View Price in Cart
+*   $1296after couponwas $27 Liz Claiborne Sleeveless Pleated Neck Knit Blouse(44)
+*   $1919after couponwas $60 PGA TOUR® Flat-Front Expandable Waist Shorts(58)
+*   $1599after couponwas $50 The Foundry Big &. Tall Supply Co. Mens Denim Short - Big and Tall(1)
+*   $3570 sale
     
-    was $25 - $35 Nike Benassi JDI Mens Slide Sandals(63)
+    was $59.50 | 40% offLevi's® 505™ Regular Fit Jeans(2495)
+*   $1439after couponwas $36 Stafford Travel Short Sleeve Oxford Dress Shirt(4)
+*   $2199 sale
+    
+    was $45 | 51% offLevi's® 569™ Loose Fit Denim Shorts(1)
 
 Shop and Save at JCPenney
 
