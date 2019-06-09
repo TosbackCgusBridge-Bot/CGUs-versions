@@ -215,11 +215,11 @@ New York, NY 10001.**
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Report: Hackers claim compromise of four AV firms, offer source code for sale
     
-    *   Google reveals actors behind Triada trojan
-    *   7.7 million LabCorp patients affected by same breach that impacted Quest Diagnostics
-    *   Cisco updates include fixes for 'high' rated RCE, DoS flaws
-    *   Calif. Assembly passes CCPA amendment that would exclude employee data from protections
-    *   Automation and the existential opportunity
+    *   Zero trust: Trust no one, verify everything
+    *   Apple adds security measures for app, website developers
+    *   Court unseals indictment against alleged Darkode hacking forum members
+    *   Premera Blue Cross reaches proposed $72M settlement with 2014 breach victims
+    *   Merger trend continues with Cisco and Elastic making moves
     
     *   New Hawkball backdoor attacks government sector in Central Asia
     *   Court unseals indictment against alleged Darkode hacking forum members
