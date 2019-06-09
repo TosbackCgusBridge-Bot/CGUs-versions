@@ -91,8 +91,8 @@ View more results
     *   Stunt Skateboard 3D
     *   Uphill Rush 7: Waterpark
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
-    *   Pixel Apocalypse
     *   Special Squad Vs Zombies: Killing Game
+    *   Pixel Apocalypse
     *   Short Life
     *   Ultimate Boxing
     *   Stickman Archer 2
@@ -122,12 +122,12 @@ View more results
     *   Short Life
     *   Five Nights at Freddy's 5
     *   Tom and Jerry: Mouse Maze
-    *   Five Nights at Freddy's 4
     *   World Craft 2
+    *   Five Nights at Freddy's 4
     *   FNAF World
     *   Fireboy and Watergirl 5: Elements
     *   Vex 4
-    *   Clean Bathroom Escape
+    *   Color Bump 3D
 *   Top Categories
     
     *   Bubble Shooter
@@ -156,9 +156,9 @@ View more results
     *   TenTrix
     *   Deal or No Deal
     *   Fireboy &. Watergirl 4: Crystal Temple
-    *   Google Feud
-    *   1001 Arabian Nights
     *   Cut the Rope
+    *   1001 Arabian Nights
+    *   Google Feud
     *   Bubble Machine: 2 Player Game
 *   Top Categories
     
@@ -249,10 +249,10 @@ View more results
     *   Baseball
     *   Table Tennis World Tour
     *   Archery World Tour
-    *   Bouncy Dunk
     *   Ultimate Boxing
-    *   Neon Biker
+    *   Bouncy Dunk
     *   8-Ball
+    *   Neon Biker
     *   Pinch Hitter 3
     *   Flip Master
 *   *   Multiplayer
