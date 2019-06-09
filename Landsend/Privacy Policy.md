@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 60% off full-price beach towels. 40% off all other full-price styles!
+Receive 50% off full-price pants, shorts and skirts. 40% off all other full-price styles!
 
-code: SAND pin: 6248 DETAILS
+code: BREEZE pin: 4371 DETAILS
 
 Customer Service Menu
 
