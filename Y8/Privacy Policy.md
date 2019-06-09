@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1375 games
-*   Most Popular Games 19288 games
+*   Best of new games 1382 games
+*   Most Popular Games 19298 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,165 games
+*   Games for girls 24,161 games
 *   Driving &. Racing Games 6,808 games
 *   Strategy &. RPG Games 2,418 games
 *   Management Games 3,655 games
-*   Thinking Games 12,109 games
-*   Action &. Adventure Games 16,141 games
-*   Sports Games 2,241 games
-*   Shooting Games 8,462 games
+*   Thinking Games 12,112 games
+*   Action &. Adventure Games 16,143 games
+*   Sports Games 2,242 games
+*   Shooting Games 8,463 games
 *   Fighting Games 2,093 games
-*   Skill Games 11,173 games
-*   Arcade &. Classic Games 12,954 games
+*   Skill Games 11,181 games
+*   Arcade &. Classic Games 12,962 games
 *   Fun &. Crazy Games 2,534 games
 
 Play with friends  
 Powered by Y8 Account 126 Y8 Multiplayer Games 1,994 Y8 High Score Games 1,149 Y8 Achievements Games 820 Y8 Screenshots Games 1,425 Y8 Online Save Games 3,051 All Y8 Games Games Last Highscore:
 
-**109** points on Orion Sandbox Enhanced by penpalhal
+**44** points on Snake And Blocks by EK1112
 
 Help us improve Bad translation? Social
 
