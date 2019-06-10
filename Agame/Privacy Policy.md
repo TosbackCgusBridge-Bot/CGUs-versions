@@ -90,8 +90,8 @@ View more results
     *   Total Front: Army War Game
     *   Stunt Skateboard 3D
     *   Uphill Rush 7: Waterpark
-    *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Special Squad Vs Zombies: Killing Game
+    *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Pixel Apocalypse
     *   Short Life
     *   Ultimate Boxing
@@ -119,8 +119,8 @@ View more results
     *   Five Nights at Freddy's
     *   Five Nights at Freddy's 2
     *   Fire Balls
-    *   Short Life
     *   Five Nights at Freddy's 5
+    *   Short Life
     *   Tom and Jerry: Mouse Maze
     *   World Craft 2
     *   Five Nights at Freddy's 4
@@ -182,13 +182,13 @@ View more results
     Best Games
     *   Ellie: Get Ready With Me
     *   Pixel Art: Color by Number
-    *   Love Tester 2.0
     *   Burger Restaurant Express
+    *   Love Tester 2.0
     *   Back To School: Princesses Rush
     *   The Princess: Sent to the Future - Dress Up Game
     *   Get Your Boyfriend
-    *   Popstar Dentist
     *   Vincy Lip Care
+    *   Popstar Dentist
     *   Ella: Hips Surgery
     *   Princess Rivalry
     *   Electricman 2: Stickman Fighting Game
@@ -217,8 +217,8 @@ View more results
     *   Highway Rider Extreme: Motorbike Game 3D
     *   Madalin Cars Multiplayer
     *   Country Ride: Race Car Game
-    *   Bike Racing: Motorcycle Game
     *   Uphill Rush 7: Waterpark
+    *   Bike Racing: Motorcycle Game
     *   Happy Wheels
     *   Moto X3M: Motorcycle Racing Game
     *   Agame Stunt Cars
@@ -247,8 +247,8 @@ View more results
     *   Apple Shooter: Arrow Game
     *   Stunt Skateboard 3D
     *   Baseball
-    *   Table Tennis World Tour
     *   Archery World Tour
+    *   Table Tennis World Tour
     *   Ultimate Boxing
     *   Bouncy Dunk
     *   8-Ball
@@ -266,9 +266,9 @@ View more results
     
     Recommended Games
     
-    *   Game of Thrones
-    *   League of Angels 3
+    *   Animal Jam
     *   Roblox
+    *   PopTropica
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
     *   Fireboy &. Watergirl 4: Crystal Temple
@@ -460,3 +460,6 @@ Copyright © 2019 SPIL GAMES All rights reserved.
 *   Help &. Contact
 *   Cookies
 *   Cookie Consent
+
+Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
+Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere
