@@ -212,14 +212,14 @@ New York, NY 10001.**
     *   Anti-virus vendors named in Fxmsp's alleged source code breach respond
     *   Wolters Kluwer still down from May 6 cyberattack
     *   Windows 10 zero-day vulnerability released, Microsoft in the dark
-    *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Report: Hackers claim compromise of four AV firms, offer source code for sale
+    *   Article 29 Working Party still not happy with Windows 10 privacy controls
     
-    *   Zero trust: Trust no one, verify everything
-    *   Apple adds security measures for app, website developers
-    *   Court unseals indictment against alleged Darkode hacking forum members
-    *   Premera Blue Cross reaches proposed $72M settlement with 2014 breach victims
-    *   Merger trend continues with Cisco and Elastic making moves
+    *   Breach of bill collection agency may affect 11.9 million Quest Diagnostics patients
+    *   Reports: Hacking accusations debunked after leak of New Zealand budget plan
+    *   Researchers exploit crypto wallet bug before hackers to save customer funds
+    *   Nansh0u cryptomining cryptomining hit 50,000 servers
+    *   Recorded Future, Palo Alto and FireEye in mergers and acquisitions mode
     
     *   New Hawkball backdoor attacks government sector in Central Asia
     *   Court unseals indictment against alleged Darkode hacking forum members
