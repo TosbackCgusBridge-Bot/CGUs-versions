@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1382 games
-*   Most Popular Games 19298 games
+*   Best of new games 1383 games
+*   Most Popular Games 19310 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,161 games
-*   Driving &. Racing Games 6,808 games
+*   Games for girls 24,165 games
+*   Driving &. Racing Games 6,809 games
 *   Strategy &. RPG Games 2,418 games
 *   Management Games 3,655 games
 *   Thinking Games 12,112 games
-*   Action &. Adventure Games 16,143 games
-*   Sports Games 2,242 games
-*   Shooting Games 8,463 games
+*   Action &. Adventure Games 16,146 games
+*   Sports Games 2,243 games
+*   Shooting Games 8,464 games
 *   Fighting Games 2,093 games
-*   Skill Games 11,181 games
-*   Arcade &. Classic Games 12,962 games
+*   Skill Games 11,192 games
+*   Arcade &. Classic Games 12,965 games
 *   Fun &. Crazy Games 2,534 games
 
 Play with friends  
-Powered by Y8 Account 126 Y8 Multiplayer Games 1,994 Y8 High Score Games 1,149 Y8 Achievements Games 820 Y8 Screenshots Games 1,425 Y8 Online Save Games 3,051 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 126 Y8 Multiplayer Games 1,995 Y8 High Score Games 1,149 Y8 Achievements Games 820 Y8 Screenshots Games 1,425 Y8 Online Save Games 3,052 All Y8 Games Games Last Highscore:
 
-**44** points on Snake And Blocks by EK1112
+**3** points on Box Tower by 982936
 
 Help us improve Bad translation? Social
 
