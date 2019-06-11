@@ -12,8 +12,7 @@ I accept Menu
 
 *   Who we are Skip to Our approach Who we are
     
-    Founded in 1865, HSBC is one of the world’s  
-    leading international banks.
+    Founded in 1865, HSBC is one of the world’s leading international banks.
     
     Go to this section
     *   Main menu
