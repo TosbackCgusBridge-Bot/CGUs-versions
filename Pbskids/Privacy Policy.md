@@ -1,6 +1,6 @@
 Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
 
-Help your little engineer create a DIY carousel toy that moves! Help your little engineer create a DIY carousel toy that moves! Get the free template
+Find fun, hands-on educational activities to do with your child. Find fun, hands-on educational activities to do with your child. Go now
 
 Toggle message bar
 
@@ -14,9 +14,6 @@ Toggle message bar
     Choose your station for TV schedules and local features
     
     Select your local station
-    
-    *   Rocky Mountain PBS
-    *   Colorado Public Television / KBDI 12
     
     Results for 80202. Try another zip code.What is your zip code?PBS KIDS uses your zip code to find our stations in your area.Find your stationBackPBS KIDS Super Vision
     
