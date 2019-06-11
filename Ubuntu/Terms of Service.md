@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Design and Web team summary – 10 June 2019 ›
 *   Small Robot Company sows the seeds for autonomous and more profitable farming ›
 *   Snapcraft confinement &. interfaces ›
 *   Need to set up servers in remote locations? ›
 *   Debug ACPI Tables with Firmware Test Suite (FWTS) ›
-*   Ubuntu Server development summary – 28 May 2019 ›
