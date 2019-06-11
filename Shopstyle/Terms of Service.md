@@ -1,6 +1,6 @@
 POPSUGAR Terms of Service
 
-Effective: July 25, 2017
+Effective: June 10, 2019
 
 POPSUGAR Inc., its subsidiaries and affiliates ("POPSUGAR," "we," "us," "our") owns and operates POPSUGAR and its network of websites including https://www.popsugar.com, mobile applications, and any other linked and related pages, content, features, products, software, video player and tools offered by POPSUGAR (the "Services").
 
@@ -155,7 +155,7 @@ POPSUGAR Inc., its subsidiaries and affiliates ("POPSUGAR," "we," "us," "our") o
     
 *   RELEASE OF CLAIMS
     
-    You hereby release POPSUGAR, its officers, employees, agents and successors in rights from claims, demands and damages (actual and consequential) of every kind or nature, known or unknown, suspected or unsuspected, disclosed or undisclosed, arising out of (i) having acquired or not acquired any Content through the Services, or (ii) any disputes with any third party and our Services. IF YOU ARE A CALIFORNIA RESIDENT, YOU SHALL AND HEREBY DO WAIVE CALIFORNIA CIVIL CODE SECTION 1542, WHICH SAYS: "A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH, IF KNOWN BY HIM MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR."
+    You hereby release POPSUGAR, its officers, employees, agents and successors in rights from claims, demands and damages (actual and consequential) of every kind or nature, known or unknown, suspected or unsuspected, disclosed or undisclosed, arising out of (i) having acquired or not acquired any Content through the Services, or (ii) any disputes with any third party and our Services. IF YOU ARE A CALIFORNIA RESIDENT, YOU SHALL AND HEREBY DO WAIVE CALIFORNIA CIVIL CODE SECTION 1542, WHICH SAYS: "A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS THAT THE CREDITOR OR RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE AND THAT, IF KNOWN BY HIM OR HER, WOULD HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR OR RELEASED PARTY."
     
 *   MODIFICATION AND TERMINATION
     
