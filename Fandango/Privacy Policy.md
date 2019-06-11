@@ -5,35 +5,32 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
-    *   Godzilla: King of the Monsters (2019)
+    *   The Secret Life of Pets 2
+    *   Dark Phoenix
     *   Aladdin (2019)
+    *   Godzilla: King of the Monsters (2019)
     *   Rocketman
     *   Ma (2019)
     *   John Wick: Chapter 3 – Parabellum
     *   Avengers: Endgame (2019)
     *   Pokémon Detective Pikachu
     *   Booksmart
-    *   Brightburn
-    *   The Hustle (2019)
     *   A Dog's Journey
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Dark Phoenix
-    *   The Secret Life of Pets 2
-    *   Chasing the Dragon 2: Wild Wild Bunch
-    *   The Gangster, the Cop, the Devil
-    *   The Last Black Man in San Francisco
+    *   Men in Black: International
+    *   Shaft (2019)
+    *   5B
+    *   American Woman (2019)
+    *   The Dead Don't Die
+    *   In the Aisles (2019)
     *   Late Night (2019)
-    *   Papi Chulo (2019)
-    *   This One's for the Ladies
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Men in Black: International
-    *   Shaft (2019)
     *   Toy Story 4
     *   Child's Play (2019)
     *   Anna (2019)
@@ -41,6 +38,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Annabelle Comes Home
     *   Yesterday (2019)
     *   Spider-Man: Far From Home (2019)
+    *   Midsommar
+    *   Crawl (2019)
+    *   Stuber
     *   See All Coming Soon
     
     Explore More
@@ -68,9 +68,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   'The Lion King' Set Visit Read More
+    *   Next 3 Movies With 'Dark Phoenix' Stars James McAvoy, Michael Fassbender and Jennifer Lawrence Read More
     *   Today in Movie Culture: ‘X-Men’ Recap, ‘Ma’ Director Commentary, ’Detective Pikachu’ VFX Breakdown and More Read More
-    *   Next 3 Vera Farmiga Movies: 'Annabelle Comes Home,' 'The Conjuring 3,' 'The Many Saints of Newark' Read More
+    *   The Week in Movie News: Marc Webb to Direct Disney’s ‘Snow White’ Remake, First ‘Rambo: Last Blood’ Trailer and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -293,9 +293,9 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   VIP+ World Elite Mastercard®
+*   Limited Time 'Late Night' Offer
     
-    Get 2x the points pay with World Elite Mastercard®. BUY TICKETS
+    Get $5 off\* two or more tickets when you use promo code LATENIGHT at checkout! \*Terms Apply. While Supplies Last BUY TICKETS
     
 *   $3 Off Avengers: Endgame
     
