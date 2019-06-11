@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   My AccountSign InSign InNew Customer? Register Here
+*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -34,32 +34,28 @@ Shop Departments
     *   Watches
     *   View all Gifts
 
-Near YouFind a StoreBack FINAL HOURS OF COUPON CODEFORYOU6ENDS IN00HOURS 41MINS 16SECS See Details\*Extra 25% off select apparel, shoes, accessories, fine jewelry and home purchases of $100 or more. Extra 20% off select purchases under $100. Extra 15% off select furniture, mattresses, housewares, fitness equipment and accessories, custom blinds and shades, watches and salon products. Each offer good at jcp.com only, excluding taxes and shipping charges, 6/7/19-6/9/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Best Value, Daily Deals, Special Deals, Limited Time Specials, Levi's, Denizen from Levi’s, Disney Collection, Disney Tsum Tsum, French Toast, Fisher-Price, Fanatics, Licensed Team Sports Merchandise, Columbia, Carhartt, Nike, adidas, Reebok, Puma, Champion, Converse, Clarks, Skechers Women's Shoes, Skechers Athletic Shoes, Bobs from Skechers, Athletic Shoes, Goddess Lingerie, Dreamgirl, Jewelry Trunk Shows, Modern Bride Design Your Dream Ring, Pre-Owned Watches, Smartwatches, Garmin, Fitbit, Sephora, Food, Penney Lane, S'ip by S'well, Electronics, Small Electrics, Floor Care, In-Home Custom Design, Tempur-Pedic, Neato Robotics, iRobot, Sporting Goods/Outdoor Gear, Toys, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Personalized Jewelry, Wigs and Extensions, Purchase with Purchase Items, In-Store Services, Service Plans, Gift Cards, Closing Store purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code FORYOU6 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. Details9.99 ST. JOHN'S BAY POLOSShop AllSELECT STYLES9.99 ST. JOHN'S BAY POLOSSELECT STYLESShop All
+Near YouFind a StoreBack60% OFF GROOMING select stylesTECH GIFTS FOR HIM50% OFF LUGGAGE select styles25% OFF NIKE select styles20% OFF COFFEE MAKERS select styles$25 SMARTWATCHSHOP NOWSHOP NOW_\*Nike, Smartwatch excluded from coupon. Additional exclusions and exceptions may apply._29.99 A.N.A DRESSES select styles | reg. $64UP TO 50% OFF HOME select styles17.99 WOMEN'S ARIZONA SANDALS select styles | reg. $409.99 ST. JOHN'S BAY POLOShop AllSELECT STYLES9.99 ST. JOHN'S BAY POLOSELECT STYLESShop All
 
 *   $799after couponwas $26 St. John's Bay Legacy Piqué Polo Shirt(561)Add To Cart
 *   from$799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(7)Add To Cart
 *   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(8)Add To Cart
-*   from$799after couponwas $30 St. John's Bay Mens Short Sleeve Polo Shirt(3)Add To Cart
+*   from$799after couponwas $30 St. John's Bay Mens Short Sleeve Polo Shirt(4)Add To Cart
 *   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(5)Add To Cart
 *   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo ShirtAdd To Cart
 *   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(7)Add To Cart
 
 Hot Sellers
 
+*   $1999after couponwas $42 Arizona Flex Relaxed-Fit Straight Jeans(554)
+*   $1599after couponwas $48 Haggar Mens Short Sleeve Plaid Button-Front Shirt(12)
+*   $1599after couponwas $50 east 5th Womens Evie Heeled Sandals(16)
+*   $2199 sale
+    
+    was $45 | 51% offLevi's® 505™ Regular Fit Shorts(42)
+*   $1999after couponwas $50 St. John’s Bay® Bryce Mens Lace-Up Shoes(238)
 *   $2199 sale
     
     was $45 | 51% offLevi's® 569™ Loose Fit Denim Shorts(1)
-*   $18 sale
-    
-    was $24 | 25% offNike® Celso Womens Flip Flops(404)
-*   from$1280after couponwas $40 - $80 JCPenney Home Sullivan Blackout Grommet-Top Curtain Panel(45)
-*   $1875 sale
-    
-    was $25 | 25% offNike Mens Dri-Fit T-Shirt(7)
-*   $4875 sale
-    
-    was $65 | 25% offNike® Air Monarch IV Mens Training Shoes(509)
-*   $1680after couponwas $30 Liz Claiborne Womens Crew Neck Short Sleeve Knit Blouse(5)
 
 Shop and Save at JCPenney
 
