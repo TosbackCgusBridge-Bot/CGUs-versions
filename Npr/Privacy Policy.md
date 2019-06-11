@@ -3,7 +3,7 @@ Accessibility links
 *   Skip to main content
 *   Keyboard shortcuts for audio player
 
-****Listen To NPR News In 5 Minutes**** Toggle more player options
+Toggle more player options
 
 *   Sign In
 *   NPR Shop
@@ -364,24 +364,15 @@ NOTICE TO EU RESIDENTS: Our handling of information about EU residents is govern
 
 California residents can request and obtain from us once a year and free of charge a list of all third parties to which NPR has disclosed certain information during the preceding calendar year for the third parties' direct marketing purposes. If you are a California resident and want such a list, please contact us. For all requests, you must put the statement "Your California Privacy Rights" in the message field of your request, as well as your name, street address, city, state, and zip code. Please note that we will not accept these requests by telephone, mail or fax, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
 
-NPR's Up First is the news you need to start your day.
-
-The biggest stories and ideas — from politics to pop culture — in 10 minutes
-
-BONUS: Mitch Part 1: 'Win This Thing' ******Listen** **· 36:20****** 36:20 ****Playlist**** **Toggle more options**
-
-*   **Download**
-*   ****Embed**** **Embed** **`**<**iframe src="https://www.npr.org/player/embed/730633641/730635848" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player">`**
-
 *   **Facebook**
 *   **Twitter**
 *   **Flipboard**
 *   **Email**
 
-BONUS: Mitch Part 1: 'Win This Thing' ******Listen** **· 36:20****** 36:20 ****Playlist**** **Toggle more options**
+Monday, June 10th, 2019 ******Listen** **· 16:05****** 16:05 ****Playlist**** **Toggle more options**
 
 *   **Download**
-*   ****Embed**** **Embed** **`**<**iframe src="https://www.npr.org/player/embed/730633641/730635848" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player">`**
+*   ****Embed**** **Embed** **`**<**iframe src="https://www.npr.org/player/embed/731197711/731204281" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player">`**
 
 Up First NPR's Up First is the news you need to start your day.
 
