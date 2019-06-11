@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1383 games
-*   Most Popular Games 19310 games
+*   Best of new games 1390 games
+*   Most Popular Games 19317 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,165 games
-*   Driving &. Racing Games 6,809 games
+*   Games for girls 24,182 games
+*   Driving &. Racing Games 6,812 games
 *   Strategy &. RPG Games 2,418 games
 *   Management Games 3,655 games
-*   Thinking Games 12,112 games
-*   Action &. Adventure Games 16,146 games
-*   Sports Games 2,243 games
-*   Shooting Games 8,464 games
+*   Thinking Games 12,114 games
+*   Action &. Adventure Games 16,147 games
+*   Sports Games 2,244 games
+*   Shooting Games 8,465 games
 *   Fighting Games 2,093 games
-*   Skill Games 11,192 games
-*   Arcade &. Classic Games 12,965 games
+*   Skill Games 11,196 games
+*   Arcade &. Classic Games 12,968 games
 *   Fun &. Crazy Games 2,534 games
 
 Play with friends  
-Powered by Y8 Account 126 Y8 Multiplayer Games 1,995 Y8 High Score Games 1,149 Y8 Achievements Games 820 Y8 Screenshots Games 1,425 Y8 Online Save Games 3,052 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 126 Y8 Multiplayer Games 1,998 Y8 High Score Games 1,151 Y8 Achievements Games 820 Y8 Screenshots Games 1,428 Y8 Online Save Games 3,055 All Y8 Games Games Last Highscore:
 
-**3** points on Box Tower by 982936
+**4,230** points on Crime City 3D by HUGIE
 
 Help us improve Bad translation? Social
 
