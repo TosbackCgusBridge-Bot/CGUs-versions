@@ -210,16 +210,16 @@ New York, NY 10001.**
     *   Recent
     
     *   Anti-virus vendors named in Fxmsp's alleged source code breach respond
-    *   Wolters Kluwer still down from May 6 cyberattack
     *   Windows 10 zero-day vulnerability released, Microsoft in the dark
     *   Report: Hackers claim compromise of four AV firms, offer source code for sale
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
+    *   Report: Hacking group wipes content from over 12,000 open MongoDB databases
     
-    *   Breach of bill collection agency may affect 11.9 million Quest Diagnostics patients
-    *   Reports: Hacking accusations debunked after leak of New Zealand budget plan
-    *   Researchers exploit crypto wallet bug before hackers to save customer funds
-    *   Nansh0u cryptomining cryptomining hit 50,000 servers
-    *   Recorded Future, Palo Alto and FireEye in mergers and acquisitions mode
+    *   xHamster offers help contain Iggy Azalea nude photo leak
+    *   Zero trust plus microsegmentation equals provable security
+    *   Firefox announces Enhanced Tracking protection
+    *   Calif. Assembly passes CCPA amendment that would exclude employee data from protections
+    *   Baltimore hackers taunt mayor, EternalBlue not used in attack
     
     *   New Hawkball backdoor attacks government sector in Central Asia
     *   Court unseals indictment against alleged Darkode hacking forum members
