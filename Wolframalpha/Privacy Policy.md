@@ -23,13 +23,14 @@
         *   Resource System
             *   Data Repository
             *   Neural Net Repository
+            *   Function Repository
         *   Wolfram|Alpha
             *   Wolfram|Alpha Pro
             *   Problem Generator
             *   API
         *   Data Drop
-        *   Products for Education
         
+        *   Products for Education
         *   Mobile Apps
             *   Wolfram Player
             *   Wolfram Cloud App
@@ -92,7 +93,7 @@
             *   Videos &. Screencasts
         *    
             *   Wolfram Language Introductory Book
-            *   Virtual Workshops
+            *   Webinars &. Training
             *   Summer Programs
             *   Books
         
