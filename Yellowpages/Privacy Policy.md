@@ -6,11 +6,12 @@ Skip Navigation
     *   AT&T Communications
         *   AT&T Communications Profile
         *   Leadership
+        *   5G
+        *   AT&T Believes℠
         *   Business
         *   Devices &. Entertainment
-        *   5G
         *   Innovation &. Technology
-        *   AT&T Believes℠
+        *   Disaster Relief News
         *   Major Events
     *   WarnerMedia
         *   WarnerMedia Profile
