@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
+*   My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -34,28 +34,28 @@ Shop Departments
     *   Watches
     *   View all Gifts
 
-Near YouFind a StoreBack60% OFF GROOMING select stylesTECH GIFTS FOR HIM50% OFF LUGGAGE select styles25% OFF NIKE select styles20% OFF COFFEE MAKERS select styles$25 SMARTWATCHSHOP NOWSHOP NOW_\*Nike, Smartwatch excluded from coupon. Additional exclusions and exceptions may apply._29.99 A.N.A DRESSES select styles | reg. $64UP TO 50% OFF HOME select styles17.99 WOMEN'S ARIZONA SANDALS select styles | reg. $409.99 ST. JOHN'S BAY POLOShop AllSELECT STYLES9.99 ST. JOHN'S BAY POLOSELECT STYLESShop All
+Near YouFind a StoreBack60% OFF GROOMING select stylesTECH GIFTS FOR HIM50% OFF LUGGAGE select styles25% OFF NIKE select styles20% OFF COFFEE MAKERS select styles$25 SMARTWATCHSHOP NOWSHOP NOW_\*Nike, Smartwatch excluded from coupon. Additional exclusions and exceptions may apply._29.99 A.N.A DRESSES select styles | reg. $64UP TO 50% OFF HOME select styles17.99 WOMEN'S ARIZONA SANDALS select styles | reg. $409.99 ST. JOHN'S BAY POLOS Shop AllSELECT STYLES9.99 ST. JOHN'S BAY POLOS SELECT STYLESShop All
 
 *   $799after couponwas $26 St. John's Bay Legacy Piqué Polo Shirt(561)Add To Cart
 *   from$799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(7)Add To Cart
-*   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(8)Add To Cart
 *   from$799after couponwas $30 St. John's Bay Mens Short Sleeve Polo Shirt(4)Add To Cart
+*   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(8)Add To Cart
 *   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(5)Add To Cart
 *   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo ShirtAdd To Cart
 *   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(7)Add To Cart
 
 Hot Sellers
 
-*   $1999after couponwas $42 Arizona Flex Relaxed-Fit Straight Jeans(554)
-*   $1599after couponwas $48 Haggar Mens Short Sleeve Plaid Button-Front Shirt(12)
+*   $1999after couponwas $50 Stafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(24)
 *   $1599after couponwas $50 east 5th Womens Evie Heeled Sandals(16)
-*   $2199 sale
+*   from$15 sale
     
-    was $45 | 51% offLevi's® 505™ Regular Fit Shorts(42)
+    was $50 - $120 | 70% offJCPenney Home™ Kathryn Room-Darkening Grommet-Top Curtain Panel(654)
 *   $1999after couponwas $50 St. John’s Bay® Bryce Mens Lace-Up Shoes(238)
-*   $2199 sale
+*   $3375 sale
     
-    was $45 | 51% offLevi's® 569™ Loose Fit Denim Shorts(1)
+    was $45 | 25% offNike Womens Tanjun Slide Sandals(9)
+*   from$2560after couponwas $70 - $140 Liz Claiborne Quinn Basketweave Room Darkening Grommet-Top Curtain Panel(596)
 
 Shop and Save at JCPenney
 
