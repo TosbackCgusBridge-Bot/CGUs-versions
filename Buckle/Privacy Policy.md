@@ -22,7 +22,7 @@ Sale on Sale – Get an extra 25% off select styles. SHOP NOW!
     *   Login
     *   |
     *   Register
-*   MY BAGThere are no items in your bag!
+*   MY BAG
 
 *   Women
     *   *   Featured
