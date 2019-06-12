@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1390 games
-*   Most Popular Games 19317 games
+*   Best of new games 1382 games
+*   Most Popular Games 19325 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,182 games
+*   Games for girls 24,174 games
 *   Driving &. Racing Games 6,812 games
 *   Strategy &. RPG Games 2,418 games
 *   Management Games 3,655 games
-*   Thinking Games 12,114 games
-*   Action &. Adventure Games 16,147 games
+*   Thinking Games 12,116 games
+*   Action &. Adventure Games 16,157 games
 *   Sports Games 2,244 games
-*   Shooting Games 8,465 games
+*   Shooting Games 8,467 games
 *   Fighting Games 2,093 games
-*   Skill Games 11,196 games
-*   Arcade &. Classic Games 12,968 games
-*   Fun &. Crazy Games 2,534 games
+*   Skill Games 11,199 games
+*   Arcade &. Classic Games 12,972 games
+*   Fun &. Crazy Games 2,533 games
 
 Play with friends  
-Powered by Y8 Account 126 Y8 Multiplayer Games 1,998 Y8 High Score Games 1,151 Y8 Achievements Games 820 Y8 Screenshots Games 1,428 Y8 Online Save Games 3,055 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 126 Y8 Multiplayer Games 1,998 Y8 High Score Games 1,151 Y8 Achievements Games 821 Y8 Screenshots Games 1,428 Y8 Online Save Games 3,056 All Y8 Games Games Last Highscore:
 
-**4,230** points on Crime City 3D by HUGIE
+**5,879** points on Orion Sandbox Enhanced by 1851499931
 
 Help us improve Bad translation? Social
 
