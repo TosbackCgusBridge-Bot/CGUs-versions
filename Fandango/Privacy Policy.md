@@ -101,7 +101,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Already a Fandango VIP? Sign In
 
-Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Promo Code Policy Fandango Gift Card Terms MovieTickets.com Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy FanShop Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseTicket PolicyPromo Code PolicyFandango Gift Card TermsMovieTickets.com Gift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyFanShop PolicyVIP+ Program Terms en Español | en Français | auf Deutsch
+Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Promo Code Policy Fandango Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseTicket PolicyPromo Code PolicyFandango Gift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyVIP+ Program Terms en Español | en Français | auf Deutsch
 
 Last updated: April 30, 2019
 
@@ -355,4 +355,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
