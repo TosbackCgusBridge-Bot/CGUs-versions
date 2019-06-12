@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off full-price styles. Up to 70% off sale and clearance styles including swimwear!
+Receive 50% off full-price tees, tanks and polos. 40% off all other full-price styles!
 
-code: SHELL pin: 6342 DETAILS
+code: SPRINKLE pin: 3641 DETAILS
 
 Customer Service Menu
 
@@ -61,7 +61,11 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Privacy Policy Last Updated: May 21, 2018
+Find an answer fast
+
+Search the Lands' End Help Center.
+
+Search the Lands' End Help Center. Go Privacy Policy Last Updated: May 21, 2018
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
@@ -235,7 +239,7 @@ Addendum to Privacy Policy Page Text Message Terms of Use
 9.  If you have any questions, email us at talkback@landsend.com. You can also text the word HELP to 77344 to get additional information about the service. We do not charge for help or info messages. however, your normal carrier rates apply.
 10.  Terms are subject to change.
 
-sign up**Get exclusive Offers and News**Privacy Policy &. Contact Info sign up U.S. Customers only. No purchase necessary. Automated marketing messages will be sent to the phone number provided. Msg &. data rates may apply. Up to 8 messages per month. Privacy Policy Customer Service Chat
+Join our mailing list sign up**Get exclusive Offers and News**Privacy Policy &. Contact Info sign up U.S. Customers only. No purchase necessary. Automated marketing messages will be sent to the phone number provided. Msg &. data rates may apply. Up to 8 messages per month. Privacy Policy Customer Service Chat
 
 *   Call Text Chat Email
 *   **Call or text us 1-800-963-4816**
