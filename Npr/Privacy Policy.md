@@ -369,10 +369,10 @@ California residents can request and obtain from us once a year and free of char
 *   **Flipboard**
 *   **Email**
 
-Monday, June 10th, 2019 ******Listen** **· 16:05****** 16:05 ****Playlist**** **Toggle more options**
+Tuesday, June 11th, 2019 ******Listen** **· 13:18****** 13:18 ****Playlist**** **Toggle more options**
 
 *   **Download**
-*   ****Embed**** **Embed** **`**<**iframe src="https://www.npr.org/player/embed/731197711/731204281" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player">`**
+*   ****Embed**** **Embed** **`**<**iframe src="https://www.npr.org/player/embed/731545443/731548267" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player">`**
 
 Up First NPR's Up First is the news you need to start your day.
 
