@@ -143,7 +143,7 @@ Blog More*   Our Brands
 *   Investors
 *   Contact
 *   Blog
-Privacy Policy This Privacy Policy was last updated May 15, 2019. Introduction
+Privacy Policy This Privacy Policy was last updated June 11, 2019. Introduction
 
 MOVE TAKES MATTERS OF PRIVACY AND INFORMATION SERIOUSLY. Please read the following to learn more about our privacy policy (“Privacy Policy”). This Privacy Policy applies to the use of the Sites (as defined below), including by both consumers and Professionals. “Professional(s)” means individuals, companies and other organizations or persons acting as real estate professionals or otherwise engaged in a business relevant to the Sites, including, without limitation, REALTORS®, agents, providers of moving-related services, products or information, homebuilders, lenders, brokers, real estate professionals, re-modelers, seniors-related housing, product or service providers, home service professionals and other service professionals. Except as otherwise indicated, Professionals, consumers and other persons using the Sites are individually and collectively referred to as “you,” and Move, Inc., a subsidiary of News Corp, together with Move, Inc.’s subsidiaries and affiliates (some of which affiliates are listed here), is referred to as, “Move”, “we”, “us” and “our.” “Consumer” (or “consumer”) shall have its ordinary meaning but generally includes any visitor to or user of the Sites other than Professionals. We use the Sites to provide you with information, resources, tools, products and services specific to the real estate industry and related markets, and to provide you with information about us and our advertisers, and our respective products and services.
 
@@ -159,9 +159,6 @@ http://www.topproducer.com/
 http://www.fivestreet.com/  
 http://www.listhub.com  
 http://www.homefair.com/  
-https://www.remodelista.com/  
-https://www.gardenista.com/  
-https://www.organized-home.com/  
 https://www.opcity.com/  
   
 
@@ -213,6 +210,13 @@ National Association of REALTORS® (“NAR”). We may share Personal Informatio
 Careers. If you submit an application for employment on our Careers page, we will use the information you provide about yourself to process your application. We may also use such information for Move’s recruitment, management and planning programs. Your provision of information to us is voluntary. however, if you fail to provide sufficient information, Move may reject or decline to consider your application. We may also obtain information about you from your references, a background check (as permitted by applicable law) or through automated means based on your use of our Sites. We may share information about you with our affiliates and with third-party service providers in connection with human resources functions (including technical support.)
 
 Special Messaging Consent. By submitting a request or inquiry about (or a request or inquiry for information about), or a request or authorization to be contacted about, real estate-, moving-, neighborhood-, mortgage-, credit-, care- or home-related products, services, offerings, procedures, details or matters you are providing to Move’s associated advertisers, lead customers (e.g., lead or referral service customers), subscribers and Professionals (each, a “Provider”), and to Move, your consent to be contacted for marketing, informational and related purposes in connection with such request, authorization or inquiry by one or more Providers and by Move by telephone device (including, but not limited to, being contacted on a recorded line and potentially by use of automated dialing systems and artificial or prerecorded voice messaging), email, mail or otherwise, based on the phone number, email address and/or other data you have provided. This consent applies even if your phone number, email address or other data is on a corporate, federal, state, local or other do-not-contact type of list or directory (such as the U.S. National Do Not Call Registry). You are not required to consent to receiving autodialer calls, or to otherwise provide this consent, as a condition of purchasing any products or services from Providers or Move. You agree that your submitted request, authorization or inquiry (as described above) acts as your electronic signature for this consent. You acknowledge that for text, SMS, calls and other electronic messages that message and data rates may apply (for example, from your network provider).
+
+Additional Limits on Our Use of Your Google User Data: This section applies only if (i) you are a Professional who subscribes to our Connections PlusSM product and/or our Top Producer® CRM product and (ii) you have opted to link a Google account to the Connections Plus product and/or Top Producer CRM product. Notwithstanding anything else in this Privacy Policy, if you provide us access to the Google data types described below in connection with the Connections Plus product, the realtor.com® dashboard for professionals, and/or the Top Producer CRM product (collectively, the “Integrations”), our use of that data will be subject to these additional restrictions:
+
+*   The Integrations will only use access to (i) read, process, and send Gmail message bodies (including attachments), metadata, headers, and settings to provide the Integrations with the ability to read, process, and send emails and (ii) read, process, and create Google Calendar events to provide the Integrations with the ability to read, process, and create Google Calendar events. The Integrations will not transfer this Gmail data or Google Calendar data to third parties unless doing so is necessary or advisable to provide or improve these features, comply with applicable law, or as part of a merger, acquisition, or sale of assets.
+  
+*   The Integrations will not use this Gmail data or Google Calendar data for serving advertisements.
+  
 
 When sharing Personal Information in accordance with this Privacy Policy, we may also share your computer’s Internet Protocol (IP) address, identification number or location.
 
