@@ -213,19 +213,19 @@ New York, NY 10001.**
     *   Windows 10 zero-day vulnerability released, Microsoft in the dark
     *   Report: Hackers claim compromise of four AV firms, offer source code for sale
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
-    *   Report: Hacking group wipes content from over 12,000 open MongoDB databases
-    
-    *   xHamster offers help contain Iggy Azalea nude photo leak
-    *   Zero trust plus microsegmentation equals provable security
-    *   Firefox announces Enhanced Tracking protection
-    *   Calif. Assembly passes CCPA amendment that would exclude employee data from protections
-    *   Baltimore hackers taunt mayor, EternalBlue not used in attack
-    
-    *   New Hawkball backdoor attacks government sector in Central Asia
-    *   Court unseals indictment against alleged Darkode hacking forum members
-    *   Google reveals actors behind Triada trojan
     *   Rapper Dave East nudes reportedly leaked
-    *   Russia's 2016 election interference was highly organized, but fixes for 2020 are possible: reports
+    
+    *   June 2019 Product Reviews – Vulnerability Management
+    *   Shanghai Jiao Tong University exposed 8.4 TB of email data
+    *   Exterro picks up privacy firm Jordan Lawrence
+    *   Firefox announces Enhanced Tracking protection
+    *   BlackSquid malware wants to wrap its tentacles around web servers and drives
+    
+    *   Radiohead sells recordings to public after 'Creep' hacker threatens to leak them
+    *   Microsoft patches 22 critical flaws, four zero days on June Patch Tuesday
+    *   U.S. House passes bill that would require DHS to maintain cyber hunt, IR teams
+    *   Exterro picks up privacy firm Jordan Lawrence
+    *   Ransomware attack hobbles Washington food bank
 
 Back to Top
 
