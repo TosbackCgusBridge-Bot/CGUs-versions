@@ -70,7 +70,7 @@
 *   Business Gifts
 *   Sale
 
-1.800.753.8558 Business Gifts 2 Day Shipping for Father's day delivery ends tomorrow! Order by 3pm EST\* Search Catalog Find a Store Skip to content My Account
+1.800.753.8558 Business Gifts Overnight shipping for Father's Day delivery ends tomorrow! Order by 3pm EST\* Search Catalog Find a Store Skip to content My Account
 
 *   Welcome!
 *   Log In
@@ -212,4 +212,4 @@ Contact Us
 *   1.800.753.8558
 *   Employment
 
-Find A Store © 2019 ALL RIGHTS RESERVED. PRIVACY POLICY TERMS OF USE SITE MAP Play IconFeedback
+Find A Store © 2019 ALL RIGHTS RESERVED. PRIVACY POLICY TERMS OF USE SITE MAP
