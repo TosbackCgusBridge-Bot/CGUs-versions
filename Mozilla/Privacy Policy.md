@@ -42,7 +42,7 @@ Check out the Benefits
 
 *   Firefox Close Firefox menu
     
-    *   Firefox Quantum Desktop Browser
+    *   Firefox Desktop Browser
         
         Get the browser that gives more power to you on Windows, macOS or Linux.
         
