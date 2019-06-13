@@ -7,200 +7,182 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
 
 *   All EventsShop Sale Events
     
-    *   TOMS Starting at $30
-    *   Linen Shop Incl. Plus &. Petites
-    *   TOMS Men Starting at $30
+    *   Gal Meets Glam
+    *   AG Up to 60% Off
+    *   AG Men Up to 60% Off
+    *   Desk-to-Dinner Styles ft. Tash + Sophie
+    *   All Under $10: Edward Bess
+    *   Brands We Love: Let Me Be &. More
+    *   Steve Madden Men
+    *   Gold &. Sterling Silver Jewelry ft. Anna Beck
+    *   Born
+    *   Pair Up: AG Kids &. More
+    *   Mules &. Slides Up to 60% Off
+    *   Bagatelle Coats &. More
     *   New Hue: Meringue from Le Creuset
-    *   Backyard Rustic: Recycled Metal Decor &. More
-    *   Soak Up the Sun: Beach Towels Starting at $10
-    *   Vacation Vibes: Beach House Decor &. More
-    *   TOMS Sun Under $50
-    *   TOMS Kids Starting at $20
-    *   Tart Collection
-    *   Spense
-    *   Free Press &. Shimera
-    *   Bridal Jewelry ft. Nadri
-    *   Make It Modern: Handbags &. More Up to 60% Off
-    *   Cleansers, Toners &. Collagen Serums from $15
-    *   Add Height: Wedges Under $75
-    *   Summer Luggage ft. Vince Camuto
-    *   Vince Camuto Men Up to 70% Off
-    *   Play All Day: Toys ft. Melissa &. Doug
-    *   Diane von Furstenberg Up to 60% Off
-    *   Z By Zella
+    *   Free Shipping: Beachy-Keen Wall Art &. More
+    *   Free Shipping: Pillows with Personality Under $25
+    *   Jewel Badgley Mischka
+    *   Accessories for Girls ft. Curls &. Pearls
     *   Hoops Starting at $15
-    *   Skirts, Pants &. More from $20 Incl. Plus &. Petites
-    
     *   7 For All Mankind Men Starting at $30
-    *   Southwestern Chic: Boho Prints ft. RAGA
-    *   Wardrobe Essentials: Tops Under $30
     *   Rush by Gordon Rush Up to 50% Off
     *   John Varvatos Star
-    *   Doucce Starting at $10
-    *   SOLUDOS
-    *   Imagine Vince Camuto
+    
+    *   Diane von Furstenberg Up to 60% Off
+    *   Z By Zella
     *   Golf Shop ft. Callaway
-    *   Your Call: 100+ Phone Cases &. More from $10
+    *   Skirts, Pants &. More from $20 Incl. Plus &. Petites
     *   Sea Worthy: Nautica Kids &. More
-    *   Designer Sun Up to 75% Off
-    *   Vertigo Up to 80% Off
-    *   Women's Shoes Up to 70% Off
-    *   Vintage Addiction Handbags Up to 80% Off
-    *   Barse Sterling Silver &. Gemstone Jewelry from $15
     *   Celebrity Strands Hair Extensions Up to 65% Off
-    *   Men's Shoes Up to 65% Off
+    *   Wardrobe Essentials: Tops Under $30
     *   Free Shipping: Storage Blowout
     *   The Swim Shop
-    *   Men's Swim Shop
-    *   On-Trend Sterling Silver &. More Up to 65% Off
-    *   Kids' Swim Shop
-    
     *   Free Shipping: Amrapur Towels Up to 70% Off
-    *   Good Man Brand Starting at $25
-    *   Baby Shop: Footies, Sets &. More
-    *   Maternity Essentials ft. LAmade
     *   Cosmetic Tools &. Bags We Love from $10
     *   Pool Party: Floats &. More from $10
+    *   Tech Essentials for iPhone Users &. More
     *   Beach Ready: Towels Starting at $20
-    *   Chukkas, Oxfords &. More ft. Hudson London
-    *   OFRA Cosmetics
     *   Modern Art: Metal Wall Decor
     *   Refresh Your Couch: Bold Decorative Pillows
     *   Free Shipping: Wall Murals &. More
     *   Wanderlust for Life: Travel-Inspired Art
-    *   Work Ready: T Tahari &. More Incl. Plus &. Petites
-    *   Designers We Love: Derek Lam 10 Crosby &. More
-    *   Kids' Steals Up to 65% Off
-    *   Summer Vacation Luggage
-    *   Vince Camuto Incl. Plus &. Petites
-    *   Poolside Style: Dresses Under $35
-    *   Pool Party Prep: Fun Floats, Towels &. More
-    *   Tech Essentials for iPhone Users &. More
-    *   Road Trip: Storage &. Organization for Your Car
-*   WomenShop Sale Events
+    *   Soak Up the Sun: Beach Towels Starting at $10
+    *   Backyard Rustic: Recycled Metal Decor &. More
+    *   Vacation Vibes: Beach House Decor &. More
     
-    *   TOMS Starting at $30
-    *   Linen Shop Incl. Plus &. Petites
     *   TOMS Sun Under $50
-    *   Tart Collection
-    *   Spense
-    *   Free Press &. Shimera
     *   Bridal Jewelry ft. Nadri
-    *   Make It Modern: Handbags &. More Up to 60% Off
+    *   TOMS Starting at $30
     *   Cleansers, Toners &. Collagen Serums from $15
+    *   Spense
+    *   TOMS Men Starting at $30
+    *   Play All Day: Toys ft. Melissa &. Doug
+    *   TOMS Kids Starting at $20
+    *   Vince Camuto Men Up to 70% Off
+    *   Linen Shop Incl. Plus &. Petites
+    *   Make It Modern: Handbags &. More Up to 60% Off
+    *   Free Press &. Shimera
+    *   Tart Collection
     *   Add Height: Wedges Under $75
     *   Summer Luggage ft. Vince Camuto
+    *   Kids' Swim Shop
+    *   Doucce Starting at $10
+    *   Your Call: 100+ Phone Cases &. More from $10
+    *   Men's Shoes Up to 65% Off
+*   WomenShop Sale Events
+    
+    *   Gal Meets Glam
+    *   AG Up to 60% Off
+    *   Desk-to-Dinner Styles ft. Tash + Sophie
+    *   All Under $10: Edward Bess
+    *   Brands We Love: Let Me Be &. More
+    *   Gold &. Sterling Silver Jewelry ft. Anna Beck
+    *   Born
+    *   Mules &. Slides Up to 60% Off
+    *   Bagatelle Coats &. More
+    *   Jewel Badgley Mischka
+    *   Hoops Starting at $15
     *   Diane von Furstenberg Up to 60% Off
     *   Z By Zella
-    *   Hoops Starting at $15
     *   Skirts, Pants &. More from $20 Incl. Plus &. Petites
-    *   Southwestern Chic: Boho Prints ft. RAGA
-    *   Wardrobe Essentials: Tops Under $30
-    *   Doucce Starting at $10
-    
-    *   SOLUDOS
-    *   Imagine Vince Camuto
-    *   Designer Sun Up to 75% Off
-    *   Vertigo Up to 80% Off
-    *   Women's Shoes Up to 70% Off
-    *   Vintage Addiction Handbags Up to 80% Off
-    *   Barse Sterling Silver &. Gemstone Jewelry from $15
     *   Celebrity Strands Hair Extensions Up to 65% Off
+    
+    *   Wardrobe Essentials: Tops Under $30
     *   The Swim Shop
-    *   On-Trend Sterling Silver &. More Up to 65% Off
-    *   Maternity Essentials ft. LAmade
     *   Cosmetic Tools &. Bags We Love from $10
-    *   OFRA Cosmetics
-    *   Work Ready: T Tahari &. More Incl. Plus &. Petites
-    *   Designers We Love: Derek Lam 10 Crosby &. More
-    *   Summer Vacation Luggage
-    *   Vince Camuto Incl. Plus &. Petites
-    *   Poolside Style: Dresses Under $35
+    *   TOMS Sun Under $50
+    *   Bridal Jewelry ft. Nadri
+    *   TOMS Starting at $30
+    *   Cleansers, Toners &. Collagen Serums from $15
+    *   Spense
+    *   Linen Shop Incl. Plus &. Petites
+    *   Make It Modern: Handbags &. More Up to 60% Off
+    *   Free Press &. Shimera
+    *   Tart Collection
+    *   Add Height: Wedges Under $75
+    *   Summer Luggage ft. Vince Camuto
+    *   Doucce Starting at $10
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
     *   Lingerie
+    *   Jewelry
     *   Handbags
     *   Accessories
 *   MenShop Sale Events
     
-    *   TOMS Men Starting at $30
-    *   TOMS Sun Under $50
-    *   Vince Camuto Men Up to 70% Off
+    *   AG Men Up to 60% Off
+    *   Steve Madden Men
     *   7 For All Mankind Men Starting at $30
     *   Rush by Gordon Rush Up to 50% Off
     *   John Varvatos Star
-    
     *   Golf Shop ft. Callaway
+    *   TOMS Sun Under $50
+    *   TOMS Men Starting at $30
+    *   Vince Camuto Men Up to 70% Off
     *   Men's Shoes Up to 65% Off
-    *   Men's Swim Shop
-    *   Good Man Brand Starting at $25
-    *   Chukkas, Oxfords &. More ft. Hudson London
-    *   Summer Vacation Luggage
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
 *   KidsShop Sale Events
     
-    *   TOMS Kids Starting at $20
-    *   Play All Day: Toys ft. Melissa &. Doug
+    *   Pair Up: AG Kids &. More
+    *   Accessories for Girls ft. Curls &. Pearls
     *   Sea Worthy: Nautica Kids &. More
+    *   Play All Day: Toys ft. Melissa &. Doug
+    *   TOMS Kids Starting at $20
     *   Kids' Swim Shop
-    *   Baby Shop: Footies, Sets &. More
-    *   Maternity Essentials ft. LAmade
-    *   Kids' Steals Up to 65% Off
     
     Shop By Category
-    *   Girls' Sizes 2T-6X
-    *   Baby Girl
     *   Girls' Shoes
-    *   Baby Boy
+    *   Girls' Sizes 2T-6X
+    *   Boys' Shoes
     *   Girls' Sizes 7-16
     *   Boys' Sizes 2T-7
+    *   Baby Boy
+    *   Baby Girl
     *   Boys' Sizes 8-20
-    *   Boys' Shoes
     *   The Toy Shop
     *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
     *   New Hue: Meringue from Le Creuset
-    *   Backyard Rustic: Recycled Metal Decor &. More
-    *   Soak Up the Sun: Beach Towels Starting at $10
-    *   Summer Luggage ft. Vince Camuto
-    *   Your Call: 100+ Phone Cases &. More from $10
+    *   Free Shipping: Beachy-Keen Wall Art &. More
+    *   Free Shipping: Pillows with Personality Under $25
     *   Free Shipping: Storage Blowout
     *   Free Shipping: Amrapur Towels Up to 70% Off
     *   Pool Party: Floats &. More from $10
+    *   Tech Essentials for iPhone Users &. More
     *   Beach Ready: Towels Starting at $20
     
     *   Modern Art: Metal Wall Decor
     *   Refresh Your Couch: Bold Decorative Pillows
     *   Free Shipping: Wall Murals &. More
     *   Wanderlust for Life: Travel-Inspired Art
-    *   Summer Vacation Luggage
-    *   Pool Party Prep: Fun Floats, Towels &. More
-    *   Tech Essentials for iPhone Users &. More
-    *   Road Trip: Storage &. Organization for Your Car
+    *   Soak Up the Sun: Beach Towels Starting at $10
+    *   Backyard Rustic: Recycled Metal Decor &. More
+    *   Summer Luggage ft. Vince Camuto
+    *   Your Call: 100+ Phone Cases &. More from $10
     
     Shop By Category
     *   Home Decor
     *   Outdoor Living
-    *   Luggage &. Travel
     *   Kitchen &. Tabletop
     *   Bath
     *   Cleaning &. Organization
     *   Tech Accessories
+    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
-    *   Cleansers, Toners &. Collagen Serums from $15
-    *   Doucce Starting at $10
+    *   All Under $10: Edward Bess
     *   Celebrity Strands Hair Extensions Up to 65% Off
     *   Cosmetic Tools &. Bags We Love from $10
-    *   OFRA Cosmetics
+    *   Cleansers, Toners &. Collagen Serums from $15
+    *   Doucce Starting at $10
     
     Shop By Category
     *   Makeup
