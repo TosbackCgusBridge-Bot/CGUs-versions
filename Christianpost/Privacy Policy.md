@@ -35,6 +35,7 @@ SECTIONS
 *   Voices
 *   Video
 *   Podcast
+*   News Service
 
 About Us
 
