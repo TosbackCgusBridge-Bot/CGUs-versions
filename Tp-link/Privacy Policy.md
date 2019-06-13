@@ -208,15 +208,6 @@ If you believe that any content appearing on the Services infringes your copyrig
 5.  Your electronic or physical signature or the electronic or physical signature of the person authorized to act on your behalf. and
 6.  A statement by you made under penalty of perjury, that the information in your notice is accurate, that you are the copyright owner or authorized to act on the copyright owner's behalf.
 
-**Copyright Agent**  
-Ginny Tong, Legal Department  
-TP-Link USA Corporation  
-145 South State College Boulevard  
-Suite 400  
-Brea, CA 92821  
-Phone: 626-333-0234  
-Email: ginny.tong@tp-link.com 
-
 This shall confirm that TP-Link seeks to preserve any and all exemptions from liability that may be available under the copyright law, but does not necessarily stipulate that it is a service provider as defined in USC section 512(c) or elsewhere.
 
 **Restrictions on Use**
