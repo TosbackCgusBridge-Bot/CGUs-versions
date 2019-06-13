@@ -93,8 +93,8 @@ View more results
     *   Special Squad Vs Zombies: Killing Game
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Pixel Apocalypse
-    *   Short Life
     *   Ultimate Boxing
+    *   Short Life
     *   Stickman Archer 2
 *   Top Categories
     
@@ -186,8 +186,8 @@ View more results
     *   Love Tester 2.0
     *   Back To School: Princesses Rush
     *   Vincy Lip Care
-    *   The Princess: Sent to the Future - Dress Up Game
     *   Get Your Boyfriend
+    *   The Princess: Sent to the Future - Dress Up Game
     *   Popstar Dentist
     *   Ella: Hips Surgery
     *   Princess Rivalry
@@ -254,7 +254,7 @@ View more results
     *   8-Ball
     *   Neon Biker
     *   Pinch Hitter 3
-    *   Flip Diving
+    *   Flip Master
 *   *   Multiplayer
     *   Action
     *   Adventure
@@ -266,9 +266,9 @@ View more results
     
     Recommended Games
     
-    *   Animal Jam
+    *   Game of Thrones
+    *   League of Angels 3
     *   Roblox
-    *   PopTropica
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
     *   Fireboy &. Watergirl 4: Crystal Temple
