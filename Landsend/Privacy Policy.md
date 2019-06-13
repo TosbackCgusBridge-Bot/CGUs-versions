@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off full-price tees, tanks and polos. 40% off all other full-price styles!
+Receive 50% off full-price swimwear, water shoes and more. 40% off all other full-price styles!
 
-code: SPRINKLE pin: 3641 DETAILS
+code: TROPICAL pin: 6489 DETAILS
 
 Customer Service Menu
 
