@@ -1,4 +1,4 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main contentSale on Sale – Get an extra 25% off select styles. SHOP NOW!
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main contentSale on Sale – Get an extra 25% off select styles. SHOP NOW!
 
 *   United States
 *   FIND A STORE
@@ -22,7 +22,7 @@ Sale on Sale – Get an extra 25% off select styles. SHOP NOW!
     *   Login
     *   |
     *   Register
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   Women
     *   *   Featured
@@ -533,7 +533,7 @@ The Buckle, Inc.
 Kearney, NE 68845  
 Phone: 800.626.1255
 
-Receive The Latest From BuckleEmail AddressPlease enter your email address. The input is not a valid email address. GIFT CARD
+Receive The Latest From BucklePlease enter your email address. The input is not a valid email address. GIFT CARD
 
 *   Buy Now
 *   Check Balance
@@ -630,4 +630,4 @@ Sign Up for Buckle EmailsClose Email Capture Modal×**Hey You!**
 Want to stay updated on our latest styles and promotions?  
 Sign up for email and let’s make things official.
 
-Email Address Submit EmailFavorite Product Quick ShopClose Quick Shop×<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.
+Email Address Submit EmailFavorite Product Quick ShopClose Quick Shop×
