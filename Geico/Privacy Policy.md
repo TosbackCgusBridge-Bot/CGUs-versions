@@ -16,6 +16,7 @@ The Information We Collect
 The Information We Disclose  
 Confidentiality and Security  
 Additional Information for Our Internet Users  
+Additional Information for Usage-based Insurance Program Users  
 Changes to This Privacy Policy  
 What to Do If You Have Privacy or Security Concerns
 
@@ -116,6 +117,10 @@ Geico.com may place small pieces of computer code (embedded objects) on our page
 
 We also provide some links to third-party websites that are not owned by GEICO. GEICO has no control over their privacy practices and assumes no responsibility in connection with your use of their websites. We recommend that you check the privacy policy of any website before you provide any personally identifiable information.
 
+ADDITIONAL INFORMATION FOR USAGE-BASED INSURANCE PROGRAM USERS
+
+Additional information for policyholders enrolled in our usage-based insurance program is included in the agreement provided upon enrollment in the program.
+
 CHANGES TO THIS PRIVACY POLICY
 
 We may modify our privacy policy from time to time. The most recent version is always posted at geico.com. Each of our policyholders receives a copy of our privacy policy at least once per year if required by law. In addition, in the event that we make a significant change to our privacy practices, we will send a revised copy of our privacy policy to each of our current policyholders.
@@ -145,4 +150,4 @@ This Privacy Policy applies to all of the following GEICO companies:
 *   GEICO County Mutual Insurance Company
 *   GEICO Insurance Agency, Inc.
 
-The Effective Date of the revised Privacy Policy is May 4, 2017.
+The Effective Date of the revised Privacy Policy is June 13, 2019.
