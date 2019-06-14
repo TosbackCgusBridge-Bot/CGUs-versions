@@ -3,14 +3,32 @@ Nordstrom RackHauteLook
 *   Invite a Friend, Get $20
 *   Log In / Sign Up
 
-CartYou have no items in your cartStart shopping now to take advantage of prices up to 75% off.HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
+CartYour Cart is empty.  
+Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*  
+**Easy Returns** to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Gal Meets Glam
+    *   Free People Starting at $15
+    *   Lush Under $50
+    *   Out of Office: Summer Dresses ft. Robbie Bee
+    *   Sock &. Panty Packs Under $20
+    *   14K Gold &. More Under $80
+    *   Travis Mathew Starting at $20
+    *   Lovely to Lounge In: Bras Starting at $10
+    *   Coconut Oil, Rose Sleep Masks &. More
+    *   Elchim Hair Dryers Under $100
+    *   Sandals Under $50
+    *   Comforters &. Toppers
+    *   New Hue: Meringue from Le Creuset
+    *   Betsey Johnson Up to 60% Off
+    *   Dress Shirts Under $35
+    *   Calvin Klein Jeans Footwear
+    *   Summer Play: Kids' Sets &. Separates
     *   AG Up to 60% Off
     *   AG Men Up to 60% Off
     *   Desk-to-Dinner Styles ft. Tash + Sophie
+    
     *   All Under $10: Edward Bess
     *   Brands We Love: Let Me Be &. More
     *   Steve Madden Men
@@ -19,154 +37,125 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Pair Up: AG Kids &. More
     *   Mules &. Slides Up to 60% Off
     *   Bagatelle Coats &. More
-    *   New Hue: Meringue from Le Creuset
     *   Free Shipping: Beachy-Keen Wall Art &. More
     *   Free Shipping: Pillows with Personality Under $25
     *   Jewel Badgley Mischka
     *   Accessories for Girls ft. Curls &. Pearls
-    *   Hoops Starting at $15
-    *   7 For All Mankind Men Starting at $30
     *   Rush by Gordon Rush Up to 50% Off
-    *   John Varvatos Star
-    
-    *   Diane von Furstenberg Up to 60% Off
-    *   Z By Zella
-    *   Golf Shop ft. Callaway
-    *   Skirts, Pants &. More from $20 Incl. Plus &. Petites
-    *   Sea Worthy: Nautica Kids &. More
+    *   Doucce Starting at $10
     *   Celebrity Strands Hair Extensions Up to 65% Off
-    *   Wardrobe Essentials: Tops Under $30
     *   Free Shipping: Storage Blowout
     *   The Swim Shop
     *   Free Shipping: Amrapur Towels Up to 70% Off
-    *   Cosmetic Tools &. Bags We Love from $10
     *   Pool Party: Floats &. More from $10
+    
     *   Tech Essentials for iPhone Users &. More
     *   Beach Ready: Towels Starting at $20
     *   Modern Art: Metal Wall Decor
     *   Refresh Your Couch: Bold Decorative Pillows
-    *   Free Shipping: Wall Murals &. More
-    *   Wanderlust for Life: Travel-Inspired Art
     *   Soak Up the Sun: Beach Towels Starting at $10
     *   Backyard Rustic: Recycled Metal Decor &. More
     *   Vacation Vibes: Beach House Decor &. More
-    
     *   TOMS Sun Under $50
     *   Bridal Jewelry ft. Nadri
     *   TOMS Starting at $30
     *   Cleansers, Toners &. Collagen Serums from $15
-    *   Spense
     *   TOMS Men Starting at $30
     *   Play All Day: Toys ft. Melissa &. Doug
     *   TOMS Kids Starting at $20
     *   Vince Camuto Men Up to 70% Off
-    *   Linen Shop Incl. Plus &. Petites
-    *   Make It Modern: Handbags &. More Up to 60% Off
-    *   Free Press &. Shimera
-    *   Tart Collection
-    *   Add Height: Wedges Under $75
     *   Summer Luggage ft. Vince Camuto
-    *   Kids' Swim Shop
-    *   Doucce Starting at $10
-    *   Your Call: 100+ Phone Cases &. More from $10
-    *   Men's Shoes Up to 65% Off
+    *   Gal Meets Glam
 *   WomenShop Sale Events
     
-    *   Gal Meets Glam
+    *   Free People Starting at $15
+    *   Lush Under $50
+    *   Out of Office: Summer Dresses ft. Robbie Bee
+    *   Sock &. Panty Packs Under $20
+    *   14K Gold &. More Under $80
+    *   Lovely to Lounge In: Bras Starting at $10
+    *   Coconut Oil, Rose Sleep Masks &. More
+    *   Elchim Hair Dryers Under $100
+    *   Sandals Under $50
+    *   Betsey Johnson Up to 60% Off
     *   AG Up to 60% Off
     *   Desk-to-Dinner Styles ft. Tash + Sophie
     *   All Under $10: Edward Bess
     *   Brands We Love: Let Me Be &. More
+    
     *   Gold &. Sterling Silver Jewelry ft. Anna Beck
     *   Born
     *   Mules &. Slides Up to 60% Off
     *   Bagatelle Coats &. More
     *   Jewel Badgley Mischka
-    *   Hoops Starting at $15
-    *   Diane von Furstenberg Up to 60% Off
-    *   Z By Zella
-    *   Skirts, Pants &. More from $20 Incl. Plus &. Petites
+    *   Doucce Starting at $10
     *   Celebrity Strands Hair Extensions Up to 65% Off
-    
-    *   Wardrobe Essentials: Tops Under $30
     *   The Swim Shop
-    *   Cosmetic Tools &. Bags We Love from $10
     *   TOMS Sun Under $50
     *   Bridal Jewelry ft. Nadri
     *   TOMS Starting at $30
     *   Cleansers, Toners &. Collagen Serums from $15
-    *   Spense
-    *   Linen Shop Incl. Plus &. Petites
-    *   Make It Modern: Handbags &. More Up to 60% Off
-    *   Free Press &. Shimera
-    *   Tart Collection
-    *   Add Height: Wedges Under $75
     *   Summer Luggage ft. Vince Camuto
-    *   Doucce Starting at $10
+    *   Gal Meets Glam
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie
     *   Jewelry
-    *   Handbags
+    *   Lingerie
     *   Accessories
+    *   Handbags
 *   MenShop Sale Events
     
+    *   Travis Mathew Starting at $20
+    *   Dress Shirts Under $35
+    *   Calvin Klein Jeans Footwear
     *   AG Men Up to 60% Off
     *   Steve Madden Men
-    *   7 For All Mankind Men Starting at $30
     *   Rush by Gordon Rush Up to 50% Off
-    *   John Varvatos Star
-    *   Golf Shop ft. Callaway
     *   TOMS Sun Under $50
     *   TOMS Men Starting at $30
     *   Vince Camuto Men Up to 70% Off
-    *   Men's Shoes Up to 65% Off
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Summer Play: Kids' Sets &. Separates
     *   Pair Up: AG Kids &. More
     *   Accessories for Girls ft. Curls &. Pearls
-    *   Sea Worthy: Nautica Kids &. More
     *   Play All Day: Toys ft. Melissa &. Doug
     *   TOMS Kids Starting at $20
-    *   Kids' Swim Shop
     
     Shop By Category
     *   Girls' Shoes
-    *   Girls' Sizes 2T-6X
-    *   Boys' Shoes
     *   Girls' Sizes 7-16
+    *   Boys' Shoes
+    *   Girls' Sizes 2T-6X
     *   Boys' Sizes 2T-7
+    *   The Toy Shop
+    *   Boys' Sizes 8-20
     *   Baby Boy
     *   Baby Girl
-    *   Boys' Sizes 8-20
-    *   The Toy Shop
-    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Comforters &. Toppers
     *   New Hue: Meringue from Le Creuset
     *   Free Shipping: Beachy-Keen Wall Art &. More
     *   Free Shipping: Pillows with Personality Under $25
     *   Free Shipping: Storage Blowout
     *   Free Shipping: Amrapur Towels Up to 70% Off
     *   Pool Party: Floats &. More from $10
+    
     *   Tech Essentials for iPhone Users &. More
     *   Beach Ready: Towels Starting at $20
-    
     *   Modern Art: Metal Wall Decor
     *   Refresh Your Couch: Bold Decorative Pillows
-    *   Free Shipping: Wall Murals &. More
-    *   Wanderlust for Life: Travel-Inspired Art
     *   Soak Up the Sun: Beach Towels Starting at $10
     *   Backyard Rustic: Recycled Metal Decor &. More
     *   Summer Luggage ft. Vince Camuto
-    *   Your Call: 100+ Phone Cases &. More from $10
     
     Shop By Category
     *   Home Decor
@@ -174,23 +163,24 @@ CartYou have no items in your cartStart shopping now to take advantage of prices
     *   Kitchen &. Tabletop
     *   Bath
     *   Cleaning &. Organization
-    *   Tech Accessories
     *   Luggage &. Travel
+    *   Tech Accessories
+    *   Bedding
 *   BeautyShop Sale Events
     
+    *   Coconut Oil, Rose Sleep Masks &. More
+    *   Elchim Hair Dryers Under $100
     *   All Under $10: Edward Bess
-    *   Celebrity Strands Hair Extensions Up to 65% Off
-    *   Cosmetic Tools &. Bags We Love from $10
-    *   Cleansers, Toners &. Collagen Serums from $15
     *   Doucce Starting at $10
+    *   Celebrity Strands Hair Extensions Up to 65% Off
+    *   Cleansers, Toners &. Collagen Serums from $15
     
     Shop By Category
     *   Makeup
     *   Hair Care
     *   Skin Care
-    *   Tools &. Accessories
-    *   Makeup Bags
     *   Bath &. Body
+    *   Tools &. Accessories
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
