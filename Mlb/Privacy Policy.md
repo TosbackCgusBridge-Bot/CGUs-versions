@@ -73,8 +73,6 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Scores News Video Standing
     *   2019 Regular Season
     *   2019 Spring Training
     *   Important Dates
-    *   2018 Regular Season
-    *   2018 Postseason
     *   Team by Team Schedule
     *   National Broadcasts
     *   Sunday Night Broadcasts
