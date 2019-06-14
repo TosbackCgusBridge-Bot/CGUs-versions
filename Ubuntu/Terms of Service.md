@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   New release: Vanilla framework 2.0 ›
+*   Customisable for the enterprise: the next-generation of drones ›
 *   Ubuntu Server development summary – 11 June 2019 ›
 *   Get to know these 5 Ubuntu community resources ›
 *   Design and Web team summary – 10 June 2019 ›
-*   Small Robot Company sows the seeds for autonomous and more profitable farming ›
-*   Snapcraft confinement &. interfaces ›
