@@ -89,8 +89,8 @@ View more results
     *   Warbanner
     *   Total Front: Army War Game
     *   Uphill Rush 7: Waterpark
-    *   Stunt Skateboard 3D
     *   Special Squad Vs Zombies: Killing Game
+    *   Stunt Skateboard 3D
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Pixel Apocalypse
     *   Ultimate Boxing
@@ -156,8 +156,8 @@ View more results
     *   The Impossible Quiz: World's Hardest Quiz
     *   Deal or No Deal
     *   Fireboy &. Watergirl 4: Crystal Temple
-    *   Cut the Rope
     *   1001 Arabian Nights
+    *   Cut the Rope
     *   Bubble Machine: 2 Player Game
     *   Google Feud
 *   Top Categories
