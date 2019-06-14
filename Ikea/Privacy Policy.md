@@ -48,7 +48,7 @@ UT, Draper
 VA, Woodbridge  
 WA, Renton  
 WI, Oak Creek  
-**Find an IKEA Store**Log In/Sign Up Products Products All productsAppliancesBathroomBedroomChildrensCookingDecorationDiningEatingFoodHallwayHome ElectronicsHome ImprovementKitchensLaundryLightingLiving RoomMattressesOffice FurnitureOutdoor FurniturePetsSecondary StorageSmall StorageTextiles and RugsWireless chargingSummerBusinessCollectionsBack to CollegeLast ChanceNew Lower PriceNew LocationsInspirationNewOffersServicesBack to College Welcome! 0 FAQ
+**Find an IKEA Store**Log In/Sign Up Products Products All productsAppliancesBaby &. KidsBathroomBedroomCookingDecorationDiningEatingFoodHallwayHome ElectronicsHome ImprovementKitchensLaundryLightingLiving RoomMattressesOffice FurnitureOutdoor FurniturePetsSecondary StorageSmall StorageTextiles and RugsWireless chargingSummerBusinessCollectionsBack to CollegeLast ChanceNew Lower PriceNew LocationsInspirationNewOffersServicesBack to College Welcome! 0 FAQ
 
 *   Log In or Sign Up
 *   My shopping cart
