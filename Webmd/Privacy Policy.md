@@ -1,4 +1,4 @@
-Want to live your best life? Get the WebMD Daily newsletter for health tips, wellness updates and more. Subscribe By clicking "Subscribe," I agree to the WebMD Terms and Conditions and Privacy Policy. I also agree to receive emails from WebMD and I understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
+Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -112,11 +112,11 @@ Want to live your best life? Get the WebMD Daily newsletter for health tips, wel
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Heartburn Drugs Again Tied to Fatal Risks
-    *   Do You Really Need 10,000 Steps a Day?
-    *   Deaths From Falls Increasing Among the Elderly
+    *   Bats, Not Dogs, Are the Biggest Rabies Threat
     *   FDA Finds Toxic Chemicals in Many Foods
-    *   We Eat, Drink, Breathe 70,000 Plastic Bits a Year
+    *   Why Switch From Beef to Chicken?
+    *   Survey: 'Dad Shaming' Is Real
+    *   Heartburn Drugs Again Tied to Fatal Risks
     
     Experts &. Community
     
