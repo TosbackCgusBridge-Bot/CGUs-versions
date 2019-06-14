@@ -324,7 +324,7 @@ Legal
 *   Wolfram Language Introductory Book
 *   Fast Introduction for Programmers
 *   Fast Introduction for Math Students
-*   Virtual Workshops
+*   Webinars &. Training
 *   Wolfram U
 *   Summer Programs
 *   Videos
