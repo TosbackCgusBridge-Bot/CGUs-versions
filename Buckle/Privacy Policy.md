@@ -1,10 +1,10 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main contentSale on Sale – Get an extra 25% off select styles. SHOP NOW!
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main contentSale on Sale! Get an extra 25% off, 33% off, or 50% off.
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-Sale on Sale – Get an extra 25% off select styles. SHOP NOW!
+Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
 
 *   Women
 *   Men
