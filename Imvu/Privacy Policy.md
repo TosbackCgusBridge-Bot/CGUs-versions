@@ -171,14 +171,14 @@ We may use social plugins on our Services and may include icons that allow you t
 
 Third Party Advertisements
 
-Certain advertisements that appear on the Services are sometimes delivered (or "served") directly to users by third party advertisers. Some of these third party advertisers automatically receive certain of your personal data through your interaction with an advertisement. If you elect to participate in the "Earn Credits" functionality and you opt-in, such third parties may also track performance and use data relating to the ads as well as how you use the Services
+Certain advertisements that appear on the Services are sometimes delivered (or "served") directly to users by third party advertisers. Some of these third party advertisers automatically receive certain of your personal data through your interaction with an advertisement. If you elect to participate in the "Free Credits" or "Earn Credits" functionality and you opt-in, such third parties may also track performance and use data relating to the ads as well as how you use the Services
 
 Additionally, they may collect information about your device, operating system, the wireless carrier providing service to such device, and the geographical location of the device. These third party advertisers may also download non-personally identifiable cookies to your computer, or use other technologies such as "web beacons" to measure the effectiveness of their ads and to personalize advertising content. Their use of your personal data will be governed by the terms of their privacy policies and their privacy policies may explain the way in which you can "opt-out" of certain tracking by their advertisements.
 
 Some of our advertising partners are members of the Network Advertising Initiative or the Digital Advertising Alliance, which you can learn more about at these links:
 
 *   http://www.networkadvertising.org
-*   http://www.networkadvertising.org/choices
+*   https://www.networkadvertising.org/understanding-online-advertising/what-are-my-options/
 *   http://www.aboutads.info
 
 If you do not wish to receive our personalized ads, please visit their opt-out pages at the above links to learn about how you may opt out of receiving personalized ads from member companies. On the App, you can change your privacy settings in your device settings and implement Apple iOS Limit Ad Tracking.
