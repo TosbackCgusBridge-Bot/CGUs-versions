@@ -11,6 +11,12 @@
         *   Features
         *   Pricing
     *   Conferences
+        *   Artificial Intelligence Conference
+        *   Open Source Software Conference
+        *   Software Architecture Conference
+        *   Strata Data Conference
+        *   TensorFlow World
+        *   Velocity Conference
     *   Ideas
     *   Our Approach
 
@@ -368,12 +374,12 @@ Click here for version 3.3
 
 Upcoming Conferences
 
-*   Velocity Jun 11–13, San Jose
-*   Software Architecture Jun 11–13, San Jose
 *   Artificial Intelligence Jun 19–21, Beijing
 *   OSCON Jul 15–18, Portland
 *   Artificial Intelligence Sep 10–12, San Jose
 *   Strata Sep 24–26, New York
+*   Artificial Intelligence Oct 15–17, London
+*   TensorFlow Oct 28–31, Santa Clara
 
 The O'Reilly Approach
 
