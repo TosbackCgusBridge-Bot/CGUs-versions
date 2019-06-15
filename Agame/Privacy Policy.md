@@ -186,8 +186,8 @@ View more results
     *   Love Tester 2.0
     *   Back To School: Princesses Rush
     *   Vincy Lip Care
-    *   Get Your Boyfriend
     *   The Princess: Sent to the Future - Dress Up Game
+    *   Get Your Boyfriend
     *   Popstar Dentist
     *   Ella: Hips Surgery
     *   Princess Rivalry
