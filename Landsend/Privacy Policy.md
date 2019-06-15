@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off full-price swimwear, water shoes and more. 40% off all other full-price styles!
+Receive 40% off full-price styles. Up to 70% off sale and clearance styles!
 
-code: TROPICAL pin: 6489 DETAILS
+code: SIZZLE pin: 2631 DETAILS
 
 Customer Service Menu
 
