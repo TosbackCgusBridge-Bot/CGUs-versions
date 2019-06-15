@@ -69,8 +69,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   Next 3 Movies With 'Dark Phoenix' Stars James McAvoy, Michael Fassbender and Jennifer Lawrence Read More
-    *   Today in Movie Culture: ‘X-Men’ Recap, ‘Ma’ Director Commentary, ’Detective Pikachu’ VFX Breakdown and More Read More
-    *   The Week in Movie News: Marc Webb to Direct Disney’s ‘Snow White’ Remake, First ‘Rambo: Last Blood’ Trailer and More Read More
+    *   The Week in Movie News: Blumhouse to Remake ‘Black Christmas,’ First ‘Doctor Sleep’ Trailer and More Read More
+    *   Today in Movie Culture: ‘Men in Black: International’ Promotional Prank, ‘Late Night’ Director Commentary and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -293,9 +293,9 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   Limited Time 'Late Night' Offer
+*   Fandango's Summer Sweepstakes
     
-    Get $5 off\* two or more tickets when you use promo code LATENIGHT at checkout! \*Terms Apply. While Supplies Last BUY TICKETS
+    Enter now for a chance to win a trip to experience epic new adventures at Universal Parks &. Resorts in Orlando or Hollywood! ENTER NOW
     
 *   $3 Off Avengers: Endgame
     
