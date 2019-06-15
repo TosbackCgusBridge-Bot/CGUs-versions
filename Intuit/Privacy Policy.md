@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   My AccountSign InSign InNew Customer? Register Here
+*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -34,40 +34,48 @@ Shop Departments
     *   Watches
     *   View all Gifts
 
-Near YouFind a StoreBack50-60% OFF MEN'S APPAREL select styles$25 SMARTWATCH50% OFF LUGGAGE select styles25% OFF NIKE select styles60% OFF GROOMING select stylesTECH GIFTS FOR HIMSHOP NOWSHOP NOW_\*Nike, Smartwatch excluded from coupon. Additional exclusions and exceptions may apply._9.99 ST. JOHN'S BAY POLOSShop AllSELECT STYLES9.99 ST. JOHN'S BAY POLOSSELECT STYLESShop All
+Near YouFind a StoreBack FREE SAME-DAY PICKUP FOR FATHER’S DAY ENDS IN
+
+*   days
+*   15
+    
+    Hours
+    
+    Hrs
+    
+*   41Mins
+*   13Secs
+
+50-60% OFF MEN'S APPAREL select styles$25 SMARTWATCH50% OFF LUGGAGE select styles25% OFF NIKE select styles60% OFF GROOMING select stylesTECH GIFTS FOR HIMSHOP NOWSHOP NOW_\*Nike, Smartwatch excluded from coupon. Additional exclusions and exceptions may apply._9.99 ST. JOHN'S BAY POLOSShop AllSELECT STYLES9.99 ST. JOHN'S BAY POLOSSELECT STYLESShop All
 
 *   from$799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(7)Add To Cart
 *   $799after couponwas $26 St. John's Bay Legacy Piqué Polo Shirt(561)Add To Cart
-*   from$799after couponwas $30 St. John's Bay Mens Short Sleeve Polo Shirt(4)Add To Cart
 *   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(8)Add To Cart
+*   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo ShirtAdd To Cart
 *   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(5)Add To Cart
 *   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo ShirtAdd To Cart
-*   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(7)Add To Cart
+*   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo ShirtAdd To Cart
 
-50% OFF STAFFORD MEN'S DRESS SHIRTSShop AllSELECT STYLES50% OFF STAFFORD MEN'S DRESS SHIRTSSELECT STYLESShop All
+50% OFF STAFFORD MEN'S STRETCH COMFORT DRESS SHIRTSShop AllSELECT STYLES50% OFF STAFFORD MEN'S STRETCH COMFORT DRESS SHIRTSSELECT STYLESShop All
 
-*   $1999after couponwas $50 Stafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress ShirtAdd To Cart
-*   $2159after couponwas $54 Stafford Travel Wrinkle Free Stretch Oxford Big And Tall Mens Button Down Collar Long Sleeve Wrinkle Free Stretch Dress ShirtAdd To Cart
-*   $1999after couponwas $50 Stafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress ShirtAdd To Cart
+*   from$1999after couponwas $50 Stafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress ShirtAdd To Cart
+*   from$2159after couponwas $54 Stafford Travel Wrinkle Free Stretch Oxford Big And Tall Mens Button Down Collar Long Sleeve Wrinkle Free Stretch Dress ShirtAdd To Cart
+*   from$1999after couponwas $50 Stafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress ShirtAdd To Cart
 *   $1199after couponwas $40 Stafford Travel Easy-Care Stretch Broadcloth Mens Spread Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(1)Add To Cart
-*   $1199after couponwas $40 Stafford Travel Easy-Care Broadcloth Mens Point Collar Long Sleeve Stretch Dress Shirt(72)Add To Cart
-*   $1759after couponwas $44 Stafford Travel Oxford Mens Button Down Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(178)Add To Cart
-*   $1999after couponwas $50 Stafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(24)Add To Cart
+*   $1199after couponwas $40 Stafford Travel Easy-Care Broadcloth Mens Point Collar Long Sleeve Stretch Dress Shirt(73)Add To Cart
+*   from$1759after couponwas $44 Stafford Travel Oxford Mens Button Down Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(178)Add To Cart
+*   from$1999after couponwas $50 Stafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(24)Add To Cart
 
 27.99 A.N.A DRESSES select styles | reg. $64UP TO 50% OFF HOME select styles17.99 WOMEN'S ARIZONA SANDALS select styles | reg. $40Hot Sellers
 
-*   $2999 sale
+*   $2250 sale
     
-    was $55 | 45% offClarks Womens Brinkley Jazz Flip-Flops(224)
-*   $1999after couponwas $60 Yuu Womens Josephine Strap Sandals(10)
-*   $3570 sale
-    
-    was $59.50 | 40% offLevi's® 505™ Regular Fit Stretch Jeans(1338)
-*   $4165 sale
-    
-    was $59.50 | 30% offLevi's® 550™ Relaxed Fit Jeans(1457)
-*   $2399after couponwas $46 Lee® Wyoming Belted Cargo Shorts(215)
-*   from$1439after couponWorthington Womens Long Sleeve Modern Fit Button-Front Shirt(147)
+    was $30 | 25% offNike Mens Moisture Wicking Basketball Short Big and Tall
+*   $1439after couponwas $44 The Foundry Big &. Tall Supply Co. Mens Short Sleeve Button-Front Shirt Big and Tall(5)
+*   $1599after couponwas $54 St. John's Bay Womens Noreen Wedge Sandals(7)
+*   from$1599after couponwas $60 a.n.a Womens Taci Wedge Sandals(10)
+*   from$2399after couponwas $46 Lee® Wyoming Belted Cargo Shorts(215)
+*   $1519after couponwas $50 St. John's Bay Easy Care Mens Classic Fit Flat Front Pant(3)
 
 Shop and Save at JCPenney
 
