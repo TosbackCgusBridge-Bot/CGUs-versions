@@ -39,11 +39,10 @@ Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price S
     *   Children's Privacy Statement
     *   Parental Access Form
     *   Child-Directed Website Request Form
+*   Hot Wheels™ id FAQ
 *   Your Choices
     *   Mattel Communications Preferences
     *   American Girl Communications Preferences
-    *   Third-Party Technology List
-    *   Mobile Third-Party Technology List
 *   GDPR Choices
     *   Mattel GDPR Choice Portal
     *   American Girl GDPR Choice Portal
@@ -89,11 +88,10 @@ Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price S
         *   Children's Privacy Statement
         *   Parental Access Form
         *   Child-Directed Website Request Form
+    *   Hot Wheels™ id FAQ
     *   Your Choices
         *   Mattel Communications Preferences
         *   American Girl Communications Preferences
-        *   Third-Party Technology List
-        *   Mobile Third-Party Technology List
     *   GDPR Choices
         *   Mattel GDPR Choice Portal
         *   American Girl GDPR Choice Portal
