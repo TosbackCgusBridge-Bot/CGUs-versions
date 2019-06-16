@@ -9,12 +9,30 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
-    *   PUMA
-    *   Vacay Vibes: Show Me Your Mumu Up to 65% Off
-    *   PUMA Men
-    *   LeSportsac Starting at $20
+    *   Samuel B Jewelry
+    *   Naked Zebra
+    *   Summer Chic: Work Essentials Incl. Plus &. Petites
+    *   Denim Under $50 Incl. Plus &. Petites
+    *   Merrell
+    *   Pretty in Prints: Dresses Incl. Plus &. Petites
+    *   14K Gold Jewelry Steals
+    *   Cover-Ups and Swim ft. Boho Me, Dolce Vita &. More
+    *   Shine On: Evening Clutches &. More from $20
+    *   Exuviance Skin Care: Anti-Aging Treatments &. More
+    *   Merrell Men
+    *   Effortless Travel: Samsonite Luggage &. More
+    *   New Hue: Meringue from Le Creuset
+    *   Tailor Vintage Up to 70% Off
+    *   Hottest Summer Shoes: Heeled Sandals &. More
+    *   Make Your Eyes Pop: BIJOU Lashes
+    *   Get into Character: Kids' PJs ft. Intimo
     *   Vionic Up to 50% Off
+    *   LeSportsac Starting at $20
+    
     *   High Voltage: Summer Brights ft. endless rose
+    *   PUMA
+    *   PUMA Men
+    *   Vacay Vibes: Show Me Your Mumu Up to 65% Off
     *   Summer Tops We Love from $20 ft. Plus &. Petites
     *   PUMA Kids' Shoes &. Active
     *   PUMA Active
@@ -28,51 +46,48 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   ZIGIny Up to 55% Off
     *   Get the Look: Bright &. Bold Art Prints
     *   Red, White &. Blue: Kids' Styles Under $20
-    
-    *   Desk-to-Dinner Styles ft. Tash + Sophie
-    *   AG Up to 60% Off
-    *   AG Men Up to 60% Off
     *   All Under $10: Edward Bess
-    *   Gold &. Sterling Silver Jewelry ft. Anna Beck
-    *   Pair Up: AG Kids &. More
     *   Free Shipping: Beachy-Keen Wall Art &. More
+    
     *   Free Shipping: Pillows with Personality Under $25
-    *   Accessories for Girls ft. Curls &. Pearls
-    *   Doucce Starting at $10
     *   Free Shipping: Storage Blowout
     *   Free Shipping: Amrapur Towels Up to 70% Off
-    *   Pool Party: Floats &. More from $10
-    *   Beach Ready: Towels Starting at $20
     *   Soak Up the Sun: Beach Towels Starting at $10
     *   Backyard Rustic: Recycled Metal Decor &. More
     *   Vacation Vibes: Beach House Decor &. More
-    *   New Hue: Meringue from Le Creuset
     *   Cleansers, Toners &. Collagen Serums from $15
-    
-    *   Calvin Klein Jeans Footwear
+    *   Lush Under $50
     *   14K Gold &. More Under $80
-    *   Travis Mathew Starting at $20
+    *   Out of Office: Summer Dresses ft. Robbie Bee
     *   Dress Shirts Under $35
-    *   Lovely to Lounge In: Bras Starting at $10
-    *   Sock &. Panty Packs Under $20
     *   Summer Play: Kids' Sets &. Separates
     *   Coconut Oil, Rose Sleep Masks &. More
     *   Elchim Hair Dryers Under $100
-    *   Lush Under $50
-    *   Free People Starting at $15
-    *   Out of Office: Summer Dresses ft. Robbie Bee
-    *   Sandals Under $50
-    *   Betsey Johnson Up to 60% Off
     *   Comforters &. Toppers
     *   Gal Meets Glam
-    *   Brands We Love: Let Me Be &. More
+    *   Travis Mathew Starting at $20
+    *   Calvin Klein Jeans Footwear
 *   WomenShop Sale Events
     
-    *   PUMA
-    *   Vacay Vibes: Show Me Your Mumu Up to 65% Off
-    *   LeSportsac Starting at $20
+    *   Samuel B Jewelry
+    *   Naked Zebra
+    *   Summer Chic: Work Essentials Incl. Plus &. Petites
+    *   Denim Under $50 Incl. Plus &. Petites
+    *   Merrell
+    *   Pretty in Prints: Dresses Incl. Plus &. Petites
+    *   14K Gold Jewelry Steals
+    *   Cover-Ups and Swim ft. Boho Me, Dolce Vita &. More
+    *   Shine On: Evening Clutches &. More from $20
+    *   Exuviance Skin Care: Anti-Aging Treatments &. More
+    *   Effortless Travel: Samsonite Luggage &. More
+    *   Hottest Summer Shoes: Heeled Sandals &. More
+    *   Make Your Eyes Pop: BIJOU Lashes
     *   Vionic Up to 50% Off
+    *   LeSportsac Starting at $20
     *   High Voltage: Summer Brights ft. endless rose
+    *   PUMA
+    
+    *   Vacay Vibes: Show Me Your Mumu Up to 65% Off
     *   Summer Tops We Love from $20 ft. Plus &. Petites
     *   PUMA Active
     *   Suzy Levian Jewelry
@@ -81,42 +96,33 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Liza Schwartz Jewelry
     *   Gerard Cosmetics
     *   ZIGIny Up to 55% Off
-    *   Desk-to-Dinner Styles ft. Tash + Sophie
-    *   AG Up to 60% Off
     *   All Under $10: Edward Bess
-    
-    *   Gold &. Sterling Silver Jewelry ft. Anna Beck
-    *   Doucce Starting at $10
     *   Cleansers, Toners &. Collagen Serums from $15
+    *   Lush Under $50
     *   14K Gold &. More Under $80
-    *   Lovely to Lounge In: Bras Starting at $10
-    *   Sock &. Panty Packs Under $20
+    *   Out of Office: Summer Dresses ft. Robbie Bee
     *   Coconut Oil, Rose Sleep Masks &. More
     *   Elchim Hair Dryers Under $100
-    *   Lush Under $50
-    *   Free People Starting at $15
-    *   Out of Office: Summer Dresses ft. Robbie Bee
-    *   Sandals Under $50
-    *   Betsey Johnson Up to 60% Off
     *   Gal Meets Glam
-    *   Brands We Love: Let Me Be &. More
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
+    *   Accessories
     *   Lingerie
     *   Handbags
-    *   Accessories
 *   MenShop Sale Events
     
+    *   Merrell Men
+    *   Effortless Travel: Samsonite Luggage &. More
+    *   Tailor Vintage Up to 70% Off
     *   PUMA Men
     *   PUMA Men's Active Under $50
     *   Summer Friday Style: Men's Office Looks
-    *   AG Men Up to 60% Off
-    *   Calvin Klein Jeans Footwear
-    *   Travis Mathew Starting at $20
     *   Dress Shirts Under $35
+    *   Travis Mathew Starting at $20
+    *   Calvin Klein Jeans Footwear
     
     Shop By Category
     *   Clothing
@@ -124,49 +130,46 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Get into Character: Kids' PJs ft. Intimo
     *   PUMA Kids' Shoes &. Active
     *   Red, White &. Blue: Kids' Styles Under $20
-    *   Pair Up: AG Kids &. More
-    *   Accessories for Girls ft. Curls &. Pearls
     *   Summer Play: Kids' Sets &. Separates
     
     Shop By Category
-    *   Girls' Sizes 7-16
-    *   Girls' Sizes 2T-6X
     *   Girls' Shoes
+    *   Girls' Sizes 7-16
     *   Boys' Shoes
+    *   Girls' Sizes 2T-6X
     *   Boys' Sizes 2T-7
-    *   Baby Boy
     *   Boys' Sizes 8-20
+    *   Baby Boy
     *   Baby Girl
 *   HomeShop Sale Events
     
+    *   New Hue: Meringue from Le Creuset
     *   Get the Look: Bright &. Bold Art Prints
     *   Free Shipping: Beachy-Keen Wall Art &. More
     *   Free Shipping: Pillows with Personality Under $25
     *   Free Shipping: Storage Blowout
     *   Free Shipping: Amrapur Towels Up to 70% Off
-    *   Pool Party: Floats &. More from $10
-    
-    *   Beach Ready: Towels Starting at $20
     *   Soak Up the Sun: Beach Towels Starting at $10
     *   Backyard Rustic: Recycled Metal Decor &. More
-    *   New Hue: Meringue from Le Creuset
     *   Comforters &. Toppers
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Outdoor Living
     *   Bath
     *   Cleaning &. Organization
+    *   Outdoor Living
     *   Bedding
     *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   Exuviance Skin Care: Anti-Aging Treatments &. More
+    *   Make Your Eyes Pop: BIJOU Lashes
     *   Gerard Cosmetics
     *   All Under $10: Edward Bess
-    *   Doucce Starting at $10
     *   Cleansers, Toners &. Collagen Serums from $15
     *   Coconut Oil, Rose Sleep Masks &. More
     *   Elchim Hair Dryers Under $100
