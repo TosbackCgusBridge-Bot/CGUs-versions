@@ -1,3 +1,1 @@
-12:31amSearch
-
-Mindspark InteractiveHelpEULAPrivacy
+Search
