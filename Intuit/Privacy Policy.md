@@ -34,19 +34,7 @@ Shop Departments
     *   Watches
     *   View all Gifts
 
-Near YouFind a StoreBack FREE SAME-DAY PICKUP FOR FATHER’S DAY ENDS IN
-
-*   days
-*   15
-    
-    Hours
-    
-    Hrs
-    
-*   41Mins
-*   13Secs
-
-50-60% OFF MEN'S APPAREL select styles$25 SMARTWATCH50% OFF LUGGAGE select styles25% OFF NIKE select styles60% OFF GROOMING select stylesTECH GIFTS FOR HIMSHOP NOWSHOP NOW_\*Nike, Smartwatch excluded from coupon. Additional exclusions and exceptions may apply._9.99 ST. JOHN'S BAY POLOSShop AllSELECT STYLES9.99 ST. JOHN'S BAY POLOSSELECT STYLESShop All
+Near YouFind a StoreBack50-60% OFF MEN'S APPAREL select styles$25 SMARTWATCH50% OFF LUGGAGE select styles25% OFF NIKE select styles60% OFF GROOMING select stylesTECH GIFTS FOR HIMSHOP NOWSHOP NOW_\*Nike, Smartwatch excluded from coupon. Additional exclusions and exceptions may apply._9.99 ST. JOHN'S BAY POLOSShop AllSELECT STYLES9.99 ST. JOHN'S BAY POLOSSELECT STYLESShop All
 
 *   from$799after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(7)Add To Cart
 *   $799after couponwas $26 St. John's Bay Legacy Piqué Polo Shirt(561)Add To Cart
@@ -56,26 +44,26 @@ Near YouFind a StoreBack FREE SAME-DAY PICKUP FOR FATHER’S DAY ENDS IN
 *   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo ShirtAdd To Cart
 *   $799after couponwas $26 St. John's Bay Mens Short Sleeve Polo ShirtAdd To Cart
 
-50% OFF STAFFORD MEN'S STRETCH COMFORT DRESS SHIRTSShop AllSELECT STYLES50% OFF STAFFORD MEN'S STRETCH COMFORT DRESS SHIRTSSELECT STYLESShop All
+50% OFF STAFFORD MEN'S STRETCH COMFORT DRESS SHIRTSShop AllSELECT STYLES 50% OFF STAFFORD MEN'S STRETCH COMFORT DRESS SHIRTSSELECT STYLES Shop All
 
-*   from$1999after couponwas $50 Stafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress ShirtAdd To Cart
-*   from$2159after couponwas $54 Stafford Travel Wrinkle Free Stretch Oxford Big And Tall Mens Button Down Collar Long Sleeve Wrinkle Free Stretch Dress ShirtAdd To Cart
-*   from$1999after couponwas $50 Stafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress ShirtAdd To Cart
 *   $1199after couponwas $40 Stafford Travel Easy-Care Stretch Broadcloth Mens Spread Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(1)Add To Cart
 *   $1199after couponwas $40 Stafford Travel Easy-Care Broadcloth Mens Point Collar Long Sleeve Stretch Dress Shirt(73)Add To Cart
-*   from$1759after couponwas $44 Stafford Travel Oxford Mens Button Down Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(178)Add To Cart
-*   from$1999after couponwas $50 Stafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(24)Add To Cart
+*   $1199after couponwas $40 Stafford Travel Easy-Care Stretch Broadcloth Mens Spread Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(3)Add To Cart
+*   $1199after couponwas $40 Stafford Travel Easy-Care Stretch Broadcloth Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(1)Add To Cart
+*   $1199after couponwas $40 Stafford Travel Easy-Care Stretch Broadcloth Mens Spread Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(2)Add To Cart
+*   $1199after couponwas $40 Stafford Travel Easy-Care Stretch Broadcloth Mens Point Collar Long Sleeve Wrinkle Free Dress Shirt(3)Add To Cart
+*   $1199after couponwas $50 Stafford Long Sleeve Woven Dress Shirt(8)Add To Cart
 
 27.99 A.N.A DRESSES select styles | reg. $64UP TO 50% OFF HOME select styles17.99 WOMEN'S ARIZONA SANDALS select styles | reg. $40Hot Sellers
 
-*   $2250 sale
+*   $1439after couponwas $40 Arizona Mens Flex Cargo Short(19)
+*   $1792after couponwas $28 Stafford® 6-pk. Cotton Full-Cut Briefs(870)
+*   from$899after couponwas $2,000 - $3,200 Sealy® Pershing Plush - Mattress + Box Spring
+*   from$1999after couponwas $50 Stafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(24)
+*   $1920after couponwas $30 Stafford® 4-pk. Heavyweight Crewneck T-Shirts(681)
+*   $4165 sale
     
-    was $30 | 25% offNike Mens Moisture Wicking Basketball Short Big and Tall
-*   $1439after couponwas $44 The Foundry Big &. Tall Supply Co. Mens Short Sleeve Button-Front Shirt Big and Tall(5)
-*   $1599after couponwas $54 St. John's Bay Womens Noreen Wedge Sandals(7)
-*   from$1599after couponwas $60 a.n.a Womens Taci Wedge Sandals(10)
-*   from$2399after couponwas $46 Lee® Wyoming Belted Cargo Shorts(215)
-*   $1519after couponwas $50 St. John's Bay Easy Care Mens Classic Fit Flat Front Pant(3)
+    was $59.50 | 30% offLevi's® 501® Original Fit Jeans(4163)
 
 Shop and Save at JCPenney
 
