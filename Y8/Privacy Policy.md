@@ -13,30 +13,30 @@ Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of d
 
 *   New Games Next in xx:xx
 *   Best of new games 1391 games
-*   Most Popular Games 19337 games
+*   Most Popular Games 19350 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,186 games
+*   Games for girls 24,188 games
 *   Driving &. Racing Games 6,814 games
 *   Strategy &. RPG Games 2,418 games
 *   Management Games 3,655 games
-*   Thinking Games 12,132 games
-*   Action &. Adventure Games 16,169 games
-*   Sports Games 2,245 games
-*   Shooting Games 8,470 games
+*   Thinking Games 12,135 games
+*   Action &. Adventure Games 16,174 games
+*   Sports Games 2,246 games
+*   Shooting Games 8,471 games
 *   Fighting Games 2,093 games
-*   Skill Games 11,220 games
-*   Arcade &. Classic Games 12,984 games
-*   Fun &. Crazy Games 2,534 games
+*   Skill Games 11,226 games
+*   Arcade &. Classic Games 12,989 games
+*   Fun &. Crazy Games 2,535 games
 
 Play with friends  
 Powered by Y8 Account 126 Y8 Multiplayer Games 2,018 Y8 High Score Games 1,151 Y8 Achievements Games 821 Y8 Screenshots Games 1,445 Y8 Online Save Games 3,076 All Y8 Games Games Last Highscore:
 
-**460** points on Pixel Road Taxi Depot by kevinviano
+**24** points on Slope Y8 by el\_mejor
 
 Help us improve Bad translation? Social
 
