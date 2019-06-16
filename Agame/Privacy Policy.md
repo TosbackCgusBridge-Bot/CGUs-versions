@@ -58,8 +58,8 @@ View more results
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Fireboy and Watergirl: The Forest Temple
     *   Slither.io
-    *   Madalin Cars Multiplayer
     *   Warbanner
+    *   Madalin Cars Multiplayer
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Total Front: Army War Game
     *   Klondike - the lost expedition
@@ -121,13 +121,13 @@ View more results
     *   Fire Balls
     *   Short Life
     *   Five Nights at Freddy's 5
-    *   Tom and Jerry: Mouse Maze
     *   World Craft 2
+    *   Tom and Jerry: Mouse Maze
     *   Five Nights at Freddy's 4
     *   Fireboy and Watergirl 5: Elements
     *   FNAF World
-    *   Vex 4
     *   Color Bump 3D
+    *   Vex 4
 *   Top Categories
     
     *   Bubble Shooter
@@ -220,8 +220,8 @@ View more results
     *   Uphill Rush 7: Waterpark
     *   Bike Racing: Motorcycle Game
     *   Happy Wheels
-    *   Moto X3M: Motorcycle Racing Game
     *   Agame Stunt Cars
+    *   Moto X3M: Motorcycle Racing Game
     *   Rally Point 2: Dirt Track Racing Game
     *   Extreme Off-Road Cars 2
 *   Top Categories
