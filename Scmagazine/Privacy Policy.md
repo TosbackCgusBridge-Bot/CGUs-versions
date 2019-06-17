@@ -211,15 +211,15 @@ New York, NY 10001.**
     
     *   Radiohead sells recordings to public after 'Creep' hacker threatens to leak them
     *   Windows 10 zero-day vulnerability released, Microsoft in the dark
-    *   Anti-virus vendors named in Fxmsp's alleged source code breach respond
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Rapper Dave East nudes reportedly leaked
+    *   Anti-virus vendors named in Fxmsp's alleged source code breach respond
     
-    *   Ransomware attack hobbles Washington food bank
-    *   Why vendors who achieve ISO 27001 are important for audio/video buyers
-    *   Securing multi-cloud environments: assurance through consistency
-    *   Microsoft patches 22 critical flaws, four zero days on June Patch Tuesday
-    *   Lake City recovering from ransomware attack
+    *   Venture capital investments
+    *   Spirit AeroSystems confirms ASCO Industries cyberattack
+    *   MuddyWater, Fin8 and Platinum threat actors back in action
+    *   Congratulations, cyber graduates!
+    *   U.S. House passes bill that would require DHS to maintain cyber hunt, IR teams
     
     *   Mirai malware family variants rack up exploit totals
     *   AESDDoS botnet malware target Docker containers
