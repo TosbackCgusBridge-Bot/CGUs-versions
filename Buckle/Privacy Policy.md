@@ -47,6 +47,7 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
         *   Dresses
         *   Jeans
         *   Rompers &. Jumpsuits
+        *   Shorts
         *   Sweaters &. Cardigans
         *   Swim
         *   Tops
