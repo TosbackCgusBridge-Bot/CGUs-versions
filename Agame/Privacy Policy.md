@@ -52,8 +52,8 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Let's Fish!: Multiplayer Fishing Game Online
     *   Family Barn
+    *   Let's Fish!: Multiplayer Fishing Game Online
     *   Backgammon: Board Game Online Multiplayer
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Fireboy and Watergirl: The Forest Temple
@@ -90,10 +90,10 @@ View more results
     *   Total Front: Army War Game
     *   Uphill Rush 7: Waterpark
     *   Stunt Skateboard 3D
-    *   Special Squad Vs Zombies: Killing Game
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
-    *   Pixel Apocalypse
+    *   Special Squad Vs Zombies: Killing Game
     *   Ultimate Boxing
+    *   Pixel Apocalypse
     *   Short Life
     *   Stickman Archer 2
 *   Top Categories
@@ -120,14 +120,14 @@ View more results
     *   Five Nights at Freddy's 2
     *   Fire Balls
     *   Short Life
-    *   Five Nights at Freddy's 5
     *   World Craft 2
+    *   Five Nights at Freddy's 5
     *   Tom and Jerry: Mouse Maze
-    *   Five Nights at Freddy's 4
     *   Fireboy and Watergirl 5: Elements
+    *   Five Nights at Freddy's 4
     *   FNAF World
-    *   Color Bump 3D
     *   Vex 4
+    *   Color Bump 3D
 *   Top Categories
     
     *   Bubble Shooter
@@ -183,8 +183,8 @@ View more results
     *   Ellie: Get Ready With Me
     *   Pixel Art: Color by Number
     *   Burger Restaurant Express
-    *   Love Tester 2.0
     *   Back To School: Princesses Rush
+    *   Love Tester 2.0
     *   Vincy Lip Care
     *   The Princess: Sent to the Future - Dress Up Game
     *   Get Your Boyfriend
@@ -460,6 +460,3 @@ Copyright © 2019 SPIL GAMES All rights reserved.
 *   Help &. Contact
 *   Cookies
 *   Cookie Consent
-
-Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
-Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere
