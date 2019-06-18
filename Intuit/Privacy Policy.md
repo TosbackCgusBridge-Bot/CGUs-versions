@@ -26,30 +26,50 @@ Shop Departments
     *   Home
     *   More Categories
 *   Coupons
-*   Father's Day Gifts
-    *   Gifts under $15
-    *   Gifts under $25
-    *   Backyard bash
-    *   Unique Gifts
-    *   Watches
-    *   View all Gifts
 
-Near YouFind a StoreBack FINAL HOURS OF COUPON CODEACTNOW16ENDS IN00HOURS 40MINS 49SECS See Details\*Extra 30% off select apparel, shoes, accessories, fine jewelry and home purchases of $100 or more. Extra 25% off select purchases under $100. Extra 10% off select furniture, mattresses, housewares, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches and salon products. Each offer good at jcp.com only, excluding taxes and shipping charges, 6/16/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Best Value, Daily Deals, Special Deals, Limited Time Specials, Levi's, Denizen from Levi’s, Disney Collection, Disney Tsum Tsum, French Toast, Fisher-Price, Fanatics, Licensed Team Sports Merchandise, Columbia, Carhartt, Nike, adidas, Reebok, Puma, Champion, Converse, Clarks, Skechers Women's Shoes, Skechers Athletic Shoes, Bobs from Skechers, Athletic Shoes, Goddess Lingerie, Dreamgirl, Jewelry Trunk Shows, Modern Bride Design Your Dream Ring, Pre-Owned Watches, Smartwatches, Garmin, Fitbit, Sephora, Food, Penney Lane, S'ip by S'well, Electronics, In-Home Custom Design, Tempur-Pedic, Neato Robotics, iRobot, Sporting Goods/Outdoor Gear, Toys, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Personalized Jewelry, Wigs and Extensions, Purchase with Purchase Items, In-Store Services, Service Plans, Gift Cards, Closing Store purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code ACTNOW16 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. DetailsUP TO 50% OFF HOME SALE select stylesUP TO 60% OFF SEMI-ANNUAL LUGGAGE SALE select styles | Shown: Samsonite Soar DLXHot Sellers
+Near YouFind a StoreBackSPLASH-WORTHY SWIMWEAR FOR THE FAMILYSummertime means family time. Shop splash-worthy swimwear for everyone you love.Shop Now
 
-*   $1999 sale
+*   WOMEN
+*   MEN
+*   BOYS
+*   GIRLS
+*   SHOP ALL
+
+DORM 101 Little spaces, lofty ideas. The 2019 dorm collection offers design inspiration to make far away feel like home.$10 OFF $50 OR MORE KIDS’ UNIFORMS, APPAREL &. ACCESSORIES WITH CODE: UNIFORM7 | get details60% OFF HOME WITH PURCHASES OF $100+ WITH CODE | select stylesUP TO 60% OFF SEMI-ANNUAL LUGGAGE SALE select styles | Shown: Samsonite Soar DLXTUNE IN TO THE BASKETBALL DRAFTThursday, 6/20 on ESPN to check out the draftees as they reveal their custom suits from JF J. Ferrar. Plus, shop similar styles now!
+
+*   MEN'S SUITS
+*   BIG &. TALL SUITS
+
+Hot Sellers
+
+*   BUY 1 GET 1 50% OFF
     
-    was $25 | 20% offNike® Benassi JDI Womens Athletic Sandals(31)
-*   LIMITED TIME SPECIAL!
+    $24
     
-    $25 sale
+    Nike® Celso Womens Flip Flops(404)
+*   BUY MORE AND SAVE WITH CODE: 20STYLE
     
-    was $75 | 66% offLIMITED TIME SPECIAL! Q7 Sport Black Smart Watch-Q7s3557b64c-003(12)
-*   $1499after couponwas $50 St. John's Bay Mens Cash Strap Sandals(6)
-*   $2199 sale
+    from$2940after couponLuxury 600tc Sateen Wrinkle Free Sheet Set - Liz Claiborne(286)
+*   $4999 sale
     
-    was $45 | 51% offLevi's® 569™ Loose Fit Denim Shorts(2)
-*   $1499after couponwas $50 St. John’s Bay® Bryce Mens Lace-Up Shoes(238)
-*   $1349after couponwas $40 Arizona Womens Seymour Adjustable Strap Flat Sandals(10)
+    was $59.50 | 16% offLevi's® 550™ Relaxed Fit Jeans(1458)
+*   BUY 1 GET 1 40% OFF
+    
+    $34
+    
+    Arizona Flex Flat Front Short(9)
+*   BUY 1 GET 1 40% OFF
+    
+    BUY MORE AND SAVE WITH CODE: 20STYLE
+    
+    from$589
+    
+    Xersion Basketball Shorts -Boys 4-20(22)
+*   BUY MORE AND SAVE WITH CODE: 20STYLE
+    
+    $30
+    
+    The Foundry Big &. Tall Supply Co. Mens Short Sleeve Polo Shirt Big and Tall
 
 Shop and Save at JCPenney
 
