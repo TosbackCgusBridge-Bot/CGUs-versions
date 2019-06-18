@@ -9,12 +9,12 @@
     *   Corporate Gift Baskets
     *   New!
     
-    Occasions*   Father's Day
+    Occasions*   Taste of Summer
     *   Gifts for Him
     *   Gifts for Her
     *   Birthday Gifts
     *   Thank You Gifts
-    *   Sympathy GiftsMost Popular Father's Day Birthday Gifts
+    *   Sympathy GiftsMost Popular Fourth of July Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -62,11 +62,12 @@
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Father's Day Gifts
+    View All Categories Shop by Category*   Fourth of July
     
-    Occasions*   Birthday Gifts
+    Occasions*   Taste of Summer
+    *   Birthday Gifts
     *   Weddings &. Showers
-    *   Thank YouMost Popular Father's Day
+    *   Thank YouMost Popular Fourth of July
 *   Business Gifts
 *   Sale
 
@@ -89,12 +90,12 @@
     *   Corporate Gift Baskets
     *   New!
     
-    Occasions*   Father's Day
+    Occasions*   Taste of Summer
     *   Gifts for Him
     *   Gifts for Her
     *   Birthday Gifts
     *   Thank You Gifts
-    *   Sympathy GiftsMost Popular Father's Day Birthday Gifts
+    *   Sympathy GiftsMost Popular Fourth of July Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -142,11 +143,12 @@
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Father's Day Gifts
+    View All Categories Shop by Category*   Fourth of July
     
-    Occasions*   Birthday Gifts
+    Occasions*   Taste of Summer
+    *   Birthday Gifts
     *   Weddings &. Showers
-    *   Thank YouMost Popular Father's Day
+    *   Thank YouMost Popular Fourth of July
 *   Business Gifts
 *   Sale
 
