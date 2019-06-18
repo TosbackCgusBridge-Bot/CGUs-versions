@@ -211,21 +211,21 @@ New York, NY 10001.**
     
     *   Radiohead sells recordings to public after 'Creep' hacker threatens to leak them
     *   Windows 10 zero-day vulnerability released, Microsoft in the dark
-    *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Rapper Dave East nudes reportedly leaked
-    *   Anti-virus vendors named in Fxmsp's alleged source code breach respond
+    *   Article 29 Working Party still not happy with Windows 10 privacy controls
+    *   Report: Hacking group wipes content from over 12,000 open MongoDB databases
     
+    *   What can be done about the growing threat of spoofing?
+    *   June 2019 Product Reviews – Vulnerability Management
     *   Venture capital investments
-    *   Spirit AeroSystems confirms ASCO Industries cyberattack
-    *   MuddyWater, Fin8 and Platinum threat actors back in action
-    *   Congratulations, cyber graduates!
-    *   U.S. House passes bill that would require DHS to maintain cyber hunt, IR teams
+    *   Vim and Neovim developers fix RCE flaw caused by failed sandbox check
+    *   Philly Courts shut down by unspecified malware
     
-    *   Mirai malware family variants rack up exploit totals
-    *   AESDDoS botnet malware target Docker containers
-    *   Flaw in Alaris medical devices exposes infusion pumps to possible sabotage
-    *   Exim vulnerability being exploited in the wild
-    *   ACLU warns security cameras could lead to surveillance
+    *   TKTKTKTTKTKTK Federal agencies still using insecure knowledge-based verification for online services
+    *   Venmo transaction scraped in privacy warning to consumers
+    *   Instagram testing simpler method to retrieve hacked accounts
+    *   Twitter takes down thousands of state-affiliated malicious accounts
+    *   ASCO Industries confirms ransomware attack
 
 Back to Top
 
