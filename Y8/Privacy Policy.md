@@ -12,8 +12,8 @@ New Games Next in  xx:xx
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1389 games
-*   Most Popular Games 19355 games
+*   Best of new games 1390 games
+*   Most Popular Games 19361 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -21,22 +21,22 @@ Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of d
 CATEGORIES
 
 *   Games for girls 24,189 games
-*   Driving &. Racing Games 6,815 games
-*   Strategy &. RPG Games 2,418 games
+*   Driving &. Racing Games 6,814 games
+*   Strategy &. RPG Games 2,419 games
 *   Management Games 3,655 games
-*   Thinking Games 12,137 games
-*   Action &. Adventure Games 16,181 games
+*   Thinking Games 12,140 games
+*   Action &. Adventure Games 16,183 games
 *   Sports Games 2,246 games
 *   Shooting Games 8,472 games
 *   Fighting Games 2,093 games
-*   Skill Games 11,231 games
-*   Arcade &. Classic Games 12,995 games
-*   Fun &. Crazy Games 2,535 games
+*   Skill Games 11,240 games
+*   Arcade &. Classic Games 13,001 games
+*   Fun &. Crazy Games 2,537 games
 
 Play with friends  
-Powered by Y8 Account 126 Y8 Multiplayer Games 2,018 Y8 High Score Games 1,151 Y8 Achievements Games 821 Y8 Screenshots Games 1,445 Y8 Online Save Games 3,076 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 126 Y8 Multiplayer Games 2,022 Y8 High Score Games 1,151 Y8 Achievements Games 821 Y8 Screenshots Games 1,450 Y8 Online Save Games 3,082 All Y8 Games Games Last Highscore:
 
-**12** points on Knife Break by leng
+**22** points on Subway Clash 3D by elsiumfire
 
 Help us improve Bad translation? Social
 
