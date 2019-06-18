@@ -5,42 +5,41 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Men in Black: International
     *   The Secret Life of Pets 2
-    *   Dark Phoenix
     *   Aladdin (2019)
-    *   Godzilla: King of the Monsters (2019)
+    *   Dark Phoenix
     *   Rocketman
-    *   Ma (2019)
+    *   Shaft (2019)
+    *   Godzilla: King of the Monsters (2019)
     *   John Wick: Chapter 3 – Parabellum
+    *   Late Night (2019)
+    *   Ma (2019)
     *   Avengers: Endgame (2019)
-    *   Pokémon Detective Pikachu
-    *   Booksmart
-    *   A Dog's Journey
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Men in Black: International
-    *   Shaft (2019)
-    *   5B
-    *   American Woman (2019)
-    *   The Dead Don't Die
-    *   In the Aisles (2019)
-    *   Late Night (2019)
+    *   Anna (2019)
+    *   Child's Play (2019)
+    *   Toy Story 4
+    *   Wild Rose (2019)
+    *   Burn Your Maps
+    *   Round of Your Life
+    *   Swinging Safari
+    *   Toni Morrison: The Pieces I Am
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Toy Story 4
-    *   Child's Play (2019)
-    *   Anna (2019)
-    *   Wild Rose (2019)
     *   Annabelle Comes Home
     *   Yesterday (2019)
     *   Spider-Man: Far From Home (2019)
     *   Midsommar
     *   Crawl (2019)
     *   Stuber
+    *   The Lion King (2019)
+    *   Once Upon a Time in Hollywood
     *   See All Coming Soon
     
     Explore More
@@ -68,9 +67,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Next 3 Movies With 'Dark Phoenix' Stars James McAvoy, Michael Fassbender and Jennifer Lawrence Read More
+    *   Next 3 Alien-Future Movies: 'Ad Astra,' 'Terminator: Dark Fate,' 'Gemini Man' Read More
     *   The Week in Movie News: Blumhouse to Remake ‘Black Christmas,’ First ‘Doctor Sleep’ Trailer and More Read More
-    *   Today in Movie Culture: ‘Men in Black: International’ Promotional Prank, ‘Late Night’ Director Commentary and More Read More
+    *   Today in Movie Culture: The Practical Effects of ‘Child’s Play,’ ‘Toy Story’ Franchise Recap and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -355,4 +354,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
