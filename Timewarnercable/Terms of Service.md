@@ -69,7 +69,7 @@ Shop Spectrum +
 *   Spectrum TV
 *   Spectrum Voice
 *   Mi Plan Latino
-*   Spectrum Mobile
+
 *   Spectrum Sports Networks
 *   Spectrum Premium Channels
 
