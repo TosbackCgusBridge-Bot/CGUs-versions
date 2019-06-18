@@ -36,9 +36,11 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off full-price styles. Up to 70% off sale and clearance styles!
+Receive free 2-day shipping. 40% off full-price styles!
 
-code: SIZZLE pin: 2631 DETAILS
+Only 0 HR 10 MIN 44 SEC Left!
+
+code: FIREFLY pin: 2343 DETAILS
 
 Customer Service Menu
 
