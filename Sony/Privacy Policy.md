@@ -39,7 +39,7 @@ Main menuSONY
     *   Lenses
     *   Compact Cameras
     
-    View AllMobile, Accessories &. Smart Devices
+    View AllMobile &. Accessories
     
     *   All Mobile, Tablets &. Smart Devices products
     *   Cell Phones
@@ -105,7 +105,7 @@ See “MIB: International” In Theaters Now
 
 Kung-fu ban be damned - Ryo Hazuki must deal justice in rural China. Shenmue III arrives on PS4 November 19. pic.twitter.com/gyaqlO7rvM
 
-1 day ago
+2 days ago
 
 View Tweet
 
@@ -132,7 +132,7 @@ Watch the Brand-New Trailer
 
 Crafted with Pulse Insights <img class="bg-img" data-linkname="en:set\_b:position\_3|\_2x2-1:poll:mobile:XperiaPoll-June-17-2019:mob:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name=" Thank you for taking our poll Xperia-Poll" data-img1x="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg" data-img2x="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg" src="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg" alt="Thank you for taking our poll"/>. <img class="bg-img" data-linkname="en:set\_b:position\_3|\_2x2-1:poll:mobile:XperiaPoll-June-17-2019:mob:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name=" Thank you for taking our poll Xperia-Poll" data-img1x="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg" data-img2x="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg" src="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg" alt="Thank you for taking our poll"/>. Celebrate Pride Month With Our Playlist
 
-<img class="bg-img" data-linkname="en:set\_b:position\_3|\_3x2-2:image:music:PridePartyPlaylist-June-17-2019:sme:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Celebrate Pride Month Pride-Party-Playlist" data-img1x="/content/dam/sony/homepage/2019-june/6-10/PrideParty\_Lovely\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-june/6-10/PrideParty\_Lovely\_600x600.jpg" src="/content/dam/sony/homepage/2019-june/6-10/PrideParty\_Lovely\_600x600.jpg" alt="Pride Party Playlist"/>. <img class="bg-img" data-linkname="en:set\_b:position\_3|\_3x2-2:image:music:PridePartyPlaylist-June-17-2019:sme:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Celebrate Pride Month Pride-Party-Playlist" data-img1x="/content/dam/sony/homepage/2019-june/6-10/PrideParty\_Lovely\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-june/6-10/PrideParty\_Lovely\_600x600.jpg" src="/content/dam/sony/homepage/2019-june/6-10/PrideParty\_Lovely\_600x600.jpg" alt="Pride Party Playlist"/>. Bring Home the Sleek and Stylish Smartphone That’s Perfect for Your Every Need
+<img class="bg-img" data-linkname="en:set\_b:position\_3|\_3x2-2:image:music:PridePartyPlaylist-June-17-2019:sme:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Celebrate Pride Month Pride-Party-Playlist" data-img1x="/content/dam/sony/homepage/2019-june/6-17/PrideParty\_MT\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-june/6-17/PrideParty\_MT\_600x600.jpg" src="/content/dam/sony/homepage/2019-june/6-17/PrideParty\_MT\_600x600.jpg" alt="Pride Party Playlist"/>. <img class="bg-img" data-linkname="en:set\_b:position\_3|\_3x2-2:image:music:PridePartyPlaylist-June-17-2019:sme:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Celebrate Pride Month Pride-Party-Playlist" data-img1x="/content/dam/sony/homepage/2019-june/6-17/PrideParty\_MT\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-june/6-17/PrideParty\_MT\_600x600.jpg" src="/content/dam/sony/homepage/2019-june/6-17/PrideParty\_MT\_600x600.jpg" alt="Pride Party Playlist"/>. Bring Home the Sleek and Stylish Smartphone That’s Perfect for Your Every Need
 
 Xperia 1 Coming Soon
 
