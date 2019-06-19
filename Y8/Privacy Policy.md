@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1390 games
-*   Most Popular Games 19361 games
+*   Best of new games 1391 games
+*   Most Popular Games 19366 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,189 games
+*   Games for girls 24,190 games
 *   Driving &. Racing Games 6,814 games
 *   Strategy &. RPG Games 2,419 games
 *   Management Games 3,655 games
-*   Thinking Games 12,140 games
-*   Action &. Adventure Games 16,183 games
+*   Thinking Games 12,148 games
+*   Action &. Adventure Games 16,187 games
 *   Sports Games 2,246 games
-*   Shooting Games 8,472 games
+*   Shooting Games 8,473 games
 *   Fighting Games 2,093 games
-*   Skill Games 11,240 games
-*   Arcade &. Classic Games 13,001 games
+*   Skill Games 11,244 games
+*   Arcade &. Classic Games 13,008 games
 *   Fun &. Crazy Games 2,537 games
 
 Play with friends  
-Powered by Y8 Account 126 Y8 Multiplayer Games 2,022 Y8 High Score Games 1,151 Y8 Achievements Games 821 Y8 Screenshots Games 1,450 Y8 Online Save Games 3,082 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 126 Y8 Multiplayer Games 2,029 Y8 High Score Games 1,150 Y8 Achievements Games 821 Y8 Screenshots Games 1,454 Y8 Online Save Games 3,087 All Y8 Games Games Last Highscore:
 
-**22** points on Subway Clash 3D by elsiumfire
+**479,118,217** points on Harvest Story by DestinyInCap
 
 Help us improve Bad translation? Social
 
