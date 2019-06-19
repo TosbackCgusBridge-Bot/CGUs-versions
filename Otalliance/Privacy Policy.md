@@ -135,7 +135,11 @@ The IoT Trust Framework® includes a set of strategic principles necessary to he
 
 Visit our IoT Trust Framework page and download the full version or Framework Overview.
 
-Read the Framework Learn more about IoT OTA News 10 Years of Auditing Online Trust – What’s Changed? Building Trust 22 April 2019 10 Years of Auditing Online Trust – What’s Changed?
+Read the Framework Learn more about IoT OTA News Online Trust Audit Updates &. Translations Now Available Building Trust 18 June 2019 Online Trust Audit Updates &. Translations Now Available
+
+A slightly updated version of the Online Trust Audit &. Honor Roll is now available in English, French, and...
+
+10 Years of Auditing Online Trust – What’s Changed? Building Trust 22 April 2019 10 Years of Auditing Online Trust – What’s Changed?
 
 Last week we released the 10th Online Trust Audit &. Honor Roll, which is a comprehensive evaluation of an...
 
@@ -151,11 +155,7 @@ Privacy First for Security Companies Privacy 15 April 2019 Privacy First for Sec
 
 Privacy has become a major issue around the world. Hopeful presidential candidates, such as Elizabeth Warren, have proposed privacy...
 
-Phishing: Think like a cybercrook In the News 15 December 2018 Phishing: Think like a cybercrook SC Media Webinar: Can Consumers Trust Retailers’ Email? Findings from OTA’s Email Marketing &. Unsubscribe Audit Building Trust 13 December 2018 Webinar: Can Consumers Trust Retailers’ Email? Findings from OTA’s Email Marketing &. Unsubscribe Audit
-
-Next Tuesday, 18 December, at 2PM ET (1900 UTC), we’ll be holding a webinar to discuss the results of...
-
-Load More Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team Megan Kruse photo Megan Kruse
+Phishing: Think like a cybercrook In the News 15 December 2018 Phishing: Think like a cybercrook SC Media Load More Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team Megan Kruse photo Megan Kruse
 
 Business Director, Online Trust Alliance
 
