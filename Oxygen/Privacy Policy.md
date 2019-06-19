@@ -1,60 +1,51 @@
-Skip to main content Verticals
-
-*   Crime Time
-*   Martinis &. Murder
-*   Podcasts
-*   Shop Oxygen
-
-Toggle menu Main menu
+Skip to main content Main menu
 
 *   Shows
-    *   See All Shows
-    *   Chicago P.D.
-    *   Cold Justice
-    *   Dateline: Secrets Uncovered
-    *   Deadly Cults
-    *   In Ice Cold Blood
-    *   Killer Couples
-    *   Mark of a Killer
-    *   Martinis &. Murder
-    *   Seduced By Evil
-    *   Smiley Face Killers: The Hunt For Justice
-    *   Snapped
-*   Full Episodes
-*   Videos
+*   Episodes &. Videos
+*   News
+*   Podcasts
+*   Detective's Den
 *   Schedule
-*   Channel Finder
-*   AR App
-*   Home
 
-Get Updates Facebook Twitter Newsletter Close menu Oxygen.com Main menu
+Toggle menu
+
+*   Apps
+*   Shop
+
+Main menu
 
 *   Shows
-    *   See All Shows
-    *   Chicago P.D.
-    *   Cold Justice
-    *   Dateline: Secrets Uncovered
-    *   Deadly Cults
-    *   In Ice Cold Blood
-    *   Killer Couples
-    *   Mark of a Killer
-    *   Martinis &. Murder
-    *   Seduced By Evil
-    *   Smiley Face Killers: The Hunt For Justice
-    *   Snapped
-*   Full Episodes
-*   Videos
-*   Schedule
-*   Channel Finder
-*   AR App
-*   Home
-
-Get Updates Facebook Twitter Instagram YouTube Newsletter Sites Verticals
-
-*   Crime Time
-*   Martinis &. Murder
+    *   All Shows
+        *   A Lie to Die For
+        *   Buried in the Backyard
+        *   Chicago P.D.
+        *   Dark Web Exposed
+        *   Dateline: Secrets Uncovered
+        *   Death At The Mansion: Rebecca Zahau
+        *   In Ice Cold Blood
+        *   Injustice with Nancy Grace
+        *   Killer Motive
+        *   License to Kill
+        *   Martinis &. Murder
+        *   Murder and Justice: The Case of Martha Moxley
+        *   Murder For Hire
+        *   Snapped
+    *   Channel Finder
+*   Episodes &. Videos
+    *   Full Episodes
+    *   Trending Videos
+    *   Watch Live TV02:45 Kemper on Kemper: Inside The Mind of a Serial Killer Kemper on Kemper: Ed Kemper Describes How He Killed His Mother 01:39 Crime Time 3 Teacher/Student Sex Scandals 12:07 Nancy Grace on Her New Oxygen Series ‘Injustice,’ the Chris Watts Case, and More | CrimeCon
+*   News
+    *   Crime Time
+    *   Martinis &. MurderRyan Lindquist Photo: Nassau County Police Department Crime Time Man Allegedly Stabs Lover More Than 100 Times Brandyn Lloyd Paonessa Photo: Facebook Crime Time ‘Unstable’ Wife Accused Of Killing Her Army Husband Cynthia Hoffman Photo: Facebook Crime Time Fake Millionaire Allegedly Convinced Teens To Kill Friend
 *   Podcasts
-*   Shop Oxygen
+*   Detective's Den
+*   Schedule
+
+Get More Oxygen
+
+*   Apps
+*   Shop
 
 Page Not Found
 
@@ -69,6 +60,8 @@ Oxygen
 *   iPhone
 *   Android
 *   Apple TV
+*   Roku
+*   Amazon Fire TV
 
 Buy episodes:
 
@@ -81,7 +74,7 @@ About Oxygen
 
 *   About Us
 *   FAQ
-*   Privacy Policy - New
+*   Privacy Policy
 *   Terms of Service
 *   Closed Captioning
 *   HTML Sitemap
@@ -95,9 +88,4 @@ Get Involved
 *   Corporate Info
 *   AdChoices
 
-Stay Connected Facebook Twitter Instagram YouTube Newsletter Stay Connected Facebook Twitter Instagram YouTube Newsletter ©2019 Oxygen Media LLC. A Division of NBCUniversal AddThis SharingPinterestFacebookEmailCopy LinkAddThis Sharing
-
-*   Facebook
-*   Twitter
-*   Email
-*   Pinterest
+Stay Connected Facebook Twitter Instagram YouTube Newsletter Stay Connected Facebook Twitter Instagram YouTube Newsletter ©2019 Oxygen Media LLC. A Division of NBCUniversal
