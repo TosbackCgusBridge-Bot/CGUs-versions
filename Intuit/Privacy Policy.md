@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   My AccountSign InSign InNew Customer? Register Here
+*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -42,34 +42,30 @@ DORM 101 Little spaces, lofty ideas. The 2019 dorm collection offers design insp
 
 Hot Sellers
 
-*   BUY 1 GET 1 50% OFF
+*   $2199 sale
     
-    $24
-    
-    Nike® Celso Womens Flip Flops(404)
-*   BUY MORE AND SAVE WITH CODE: 20STYLE
-    
-    from$2940after couponLuxury 600tc Sateen Wrinkle Free Sheet Set - Liz Claiborne(286)
-*   $4999 sale
-    
-    was $59.50 | 16% offLevi's® 550™ Relaxed Fit Jeans(1458)
+    was $45 | 51% offLevi's® 505™ Regular Fit Shorts(42)
 *   BUY 1 GET 1 40% OFF
+    
+    $70
+    
+    Haggar® Premium No Iron Classic-Fit Flat-Front Khakis(694)
+*   BUY MORE AND SAVE WITH CODE: 20STYLE
     
     $34
     
     Arizona Flex Flat Front Short(9)
-*   BUY 1 GET 1 40% OFF
-    
-    BUY MORE AND SAVE WITH CODE: 20STYLE
-    
-    from$589
-    
-    Xersion Basketball Shorts -Boys 4-20(22)
 *   BUY MORE AND SAVE WITH CODE: 20STYLE
     
-    $30
+    $30after couponStafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(24)
+*   BUY MORE AND SAVE WITH CODE: 20STYLE
     
-    The Foundry Big &. Tall Supply Co. Mens Short Sleeve Polo Shirt Big and Tall
+    from$16
+    
+    Liz Claiborne Luxury Egyptian Cotton Bath Towel(1013)
+*   $4999 sale
+    
+    was $59.50 | 16% offLevi's® 505™ Regular Fit Jeans(2495)
 
 Shop and Save at JCPenney
 
