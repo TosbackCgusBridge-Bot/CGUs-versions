@@ -57,7 +57,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 511 6969 1 855 511 6969
+    1 855 655 1383 1 855 655 1383
     
 
 *   Solutions By Function
@@ -113,7 +113,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 511 6969 1 855 511 6969
+    1 855 655 1383 1 855 655 1383
     
 
 GARTNER PRIVACY POLICY Effective Date: June 2019
