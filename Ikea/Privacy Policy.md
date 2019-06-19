@@ -45,6 +45,7 @@ TX, Houston
 TX, Live Oak  
 TX, Round Rock  
 UT, Draper  
+VA, Norfolk  
 VA, Woodbridge  
 WA, Renton  
 WI, Oak Creek  
