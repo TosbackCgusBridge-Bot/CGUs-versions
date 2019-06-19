@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   18\. Juni 2019
+*   19\. Juni 2019
 *   Abo
-*   DAX 12.085,82ǀ
+*   DAX 12.331,75ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -74,7 +74,6 @@ Anmelden
         *   Bundesliga
         *   Fußball-Liveticker
         *   Spielerindex SPIX
-        *   Fußball-Tippspiel
         *   Champions League
         *   Fußball-News
         *   Formel 1
@@ -371,6 +370,3 @@ SPIEGEL GRUPPE
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
-
-  
-BESbswyBESbswyBESbswy
