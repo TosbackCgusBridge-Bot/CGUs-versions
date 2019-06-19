@@ -36,11 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive free 2-day shipping. 40% off full-price styles!
+Receive 40% off full-price styles. up to 70% off swimwear!
 
-Only 0 HR 10 MIN 44 SEC Left!
-
-code: FIREFLY pin: 2343 DETAILS
+code: OCEAN pin: 2645 DETAILS
 
 Customer Service Menu
 
