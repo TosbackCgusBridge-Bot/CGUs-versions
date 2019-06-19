@@ -213,19 +213,19 @@ New York, NY 10001.**
     *   Windows 10 zero-day vulnerability released, Microsoft in the dark
     *   Rapper Dave East nudes reportedly leaked
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
-    *   Report: Hacking group wipes content from over 12,000 open MongoDB databases
+    *   Spirit AeroSystems confirms ASCO Industries cyberattack
     
-    *   What can be done about the growing threat of spoofing?
-    *   June 2019 Product Reviews – Vulnerability Management
-    *   Venture capital investments
-    *   Vim and Neovim developers fix RCE flaw caused by failed sandbox check
-    *   Philly Courts shut down by unspecified malware
-    
-    *   TKTKTKTTKTKTK Federal agencies still using insecure knowledge-based verification for online services
-    *   Venmo transaction scraped in privacy warning to consumers
-    *   Instagram testing simpler method to retrieve hacked accounts
+    *   Spirit AeroSystems confirms ASCO Industries cyberattack
+    *   U.S. defense, intel ramp up efforts to insert malware in Russia's grid
+    *   Telegram blames China for DDoS disruptions during Hong Kong unrest
+    *   Facebook’s xSocialMedia ad agency exposes 150K medical histories
     *   Twitter takes down thousands of state-affiliated malicious accounts
-    *   ASCO Industries confirms ransomware attack
+    
+    *   Chrome updates improve security, privacy for extensions
+    *   Netflix patches Linux SACK vulnerability
+    *   Bouncing Golf campaign takes swing at Android users with info-stealing malware
+    *   Facebook’s xSocialMedia ad agency exposes 150K medical histories
+    *   As GandCrab gang prepares to retire, decryptor for v5.2 of ransomware released
 
 Back to Top
 
