@@ -61,8 +61,8 @@ View more results
     *   Warbanner
     *   Madalin Cars Multiplayer
     *   Fireboy &. Watergirl 4: Crystal Temple
-    *   Total Front: Army War Game
     *   Klondike - the lost expedition
+    *   Total Front: Army War Game
     *   Bubble Machine: 2 Player Game
 *   Top Categories
     
@@ -91,10 +91,10 @@ View more results
     *   Uphill Rush 7: Waterpark
     *   Stunt Skateboard 3D
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
-    *   Special Squad Vs Zombies: Killing Game
     *   Ultimate Boxing
     *   Pixel Apocalypse
     *   Short Life
+    *   Special Squad Vs Zombies: Killing Game
     *   Stickman Archer 2
 *   Top Categories
     
@@ -127,7 +127,7 @@ View more results
     *   Five Nights at Freddy's 4
     *   FNAF World
     *   Vex 4
-    *   Color Bump 3D
+    *   Five Nights at Freddy's: Sister Location
 *   Top Categories
     
     *   Bubble Shooter
@@ -154,8 +154,8 @@ View more results
     *   Fireboy and Watergirl: The Forest Temple
     *   TenTrix
     *   The Impossible Quiz: World's Hardest Quiz
-    *   Deal or No Deal
     *   Fireboy &. Watergirl 4: Crystal Temple
+    *   Deal or No Deal
     *   1001 Arabian Nights
     *   Cut the Rope
     *   Bubble Machine: 2 Player Game
@@ -221,9 +221,9 @@ View more results
     *   Bike Racing: Motorcycle Game
     *   Happy Wheels
     *   Agame Stunt Cars
-    *   Moto X3M: Motorcycle Racing Game
     *   Rally Point 2: Dirt Track Racing Game
-    *   Extreme Off-Road Cars 2
+    *   Moto X3M: Motorcycle Racing Game
+    *   Agame Stunt Cars Multiplayer
 *   Top Categories
     
     *   Athletics
@@ -460,3 +460,6 @@ Copyright © 2019 SPIL GAMES All rights reserved.
 *   Help &. Contact
 *   Cookies
 *   Cookie Consent
+
+Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
+Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere
