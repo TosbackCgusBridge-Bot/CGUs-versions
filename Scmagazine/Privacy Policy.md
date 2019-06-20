@@ -204,28 +204,9 @@ If you have any questions on our Privacy Policy, or questions about our handling
 New York, NY 10001.**
 
 *   MOST POPULAR
-    
     *   Popular
     *   Emailed
-    *   Recent
-    
-    *   Radiohead sells recordings to public after 'Creep' hacker threatens to leak them
-    *   Windows 10 zero-day vulnerability released, Microsoft in the dark
-    *   Rapper Dave East nudes reportedly leaked
-    *   Article 29 Working Party still not happy with Windows 10 privacy controls
-    *   Spirit AeroSystems confirms ASCO Industries cyberattack
-    
-    *   Spirit AeroSystems confirms ASCO Industries cyberattack
-    *   U.S. defense, intel ramp up efforts to insert malware in Russia's grid
-    *   Telegram blames China for DDoS disruptions during Hong Kong unrest
-    *   Facebook’s xSocialMedia ad agency exposes 150K medical histories
-    *   Twitter takes down thousands of state-affiliated malicious accounts
-    
-    *   Chrome updates improve security, privacy for extensions
-    *   Netflix patches Linux SACK vulnerability
-    *   Bouncing Golf campaign takes swing at Android users with info-stealing malware
-    *   Facebook’s xSocialMedia ad agency exposes 150K medical histories
-    *   As GandCrab gang prepares to retire, decryptor for v5.2 of ransomware released
+    *   RecentLoading... Loading... Loading...
 
 Back to Top
 
