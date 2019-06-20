@@ -30,11 +30,11 @@ Service terms ›
 
 This agreement sets out Canonical’s standard service terms for both Ubuntu Advantage and Managed Services customers.
 
-Want a fully managed private cloud?
+Want fully-managed private Kubernetes clusters?
 
-BootStack is your Kubernetes private cloud with our experts responsible for design, deployment and availability.
+Our skilled in-house experts can set up and operate a Kubernetes cluster for you.
 
-Get BootStack ›
+Contact us
 
 Get Ubuntu
 
@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Kubernetes 1.15 now available from Canonical ›
+*   Fresh snaps for May 2019 ›
 *   Your first robotic arm with Ubuntu Core, coming from Niryo ›
 *   New release: Vanilla framework 2.0 ›
 *   Customisable for the enterprise: the next-generation of drones ›
-*   Ubuntu Server development summary – 11 June 2019 ›
-*   Get to know these 5 Ubuntu community resources ›
