@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
+*   My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -42,30 +42,22 @@ DORM 101 Little spaces, lofty ideas. The 2019 dorm collection offers design insp
 
 Hot Sellers
 
-*   $2199 sale
-    
-    was $45 | 51% offLevi's® 505™ Regular Fit Shorts(42)
-*   BUY 1 GET 1 40% OFF
-    
-    $70
-    
-    Haggar® Premium No Iron Classic-Fit Flat-Front Khakis(694)
 *   BUY MORE AND SAVE WITH CODE: 20STYLE
     
-    $34
+    from$44after couponHome Expressions Olivia Medallion Complete Bedding Set with Sheets
+*   $1874after couponwas $60 Yuu Womens Hype Strap Sandals(16)
+*   $2499 sale
     
-    Arizona Flex Flat Front Short(9)
+    was $50 | 50% offLevi's® Carrier Cargo Ripstop Shorts(59)
+*   from$4250 sale
+    
+    was $94 | 50 - 54% offClarks Womens Leisa Vine Strap Sandals(61)
 *   BUY MORE AND SAVE WITH CODE: 20STYLE
     
-    $30after couponStafford Travel Stretch Performance Super Shirt Mens Point Collar Long Sleeve Wrinkle Free Stretch Dress Shirt(24)
+    from$5340after couponLiz Claiborne Ultimate Luxury Loft Mattress Pad(61)
 *   BUY MORE AND SAVE WITH CODE: 20STYLE
     
-    from$16
-    
-    Liz Claiborne Luxury Egyptian Cotton Bath Towel(1013)
-*   $4999 sale
-    
-    was $59.50 | 16% offLevi's® 505™ Regular Fit Jeans(2495)
+    $2520after couponArizona Flex Relaxed-Fit Straight Jeans(554)
 
 Shop and Save at JCPenney
 
