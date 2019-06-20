@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   19\. Juni 2019
+*   20\. Juni 2019
 *   Abo
-*   DAX 12.331,75ǀ
+*   DAX 12.308,53ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -336,7 +336,6 @@ SPIEGEL GRUPPE
 *   \-buchreport
 *   \-Werbung
 *   \-Jobs
-*   \-Planestream
 
 *   LITERATUR SPIEGEL
 *   EDITION GESCHICHTE
@@ -370,3 +369,6 @@ SPIEGEL GRUPPE
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
+
+  
+BESbswyBESbswyBESbswy
