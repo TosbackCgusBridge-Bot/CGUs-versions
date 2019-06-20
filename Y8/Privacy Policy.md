@@ -12,8 +12,8 @@ New Games Next in  xx:xx
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1391 games
-*   Most Popular Games 19366 games
+*   Best of new games 1390 games
+*   Most Popular Games 19369 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -25,18 +25,18 @@ CATEGORIES
 *   Strategy &. RPG Games 2,419 games
 *   Management Games 3,655 games
 *   Thinking Games 12,148 games
-*   Action &. Adventure Games 16,187 games
-*   Sports Games 2,246 games
-*   Shooting Games 8,473 games
+*   Action &. Adventure Games 16,192 games
+*   Sports Games 2,248 games
+*   Shooting Games 8,474 games
 *   Fighting Games 2,093 games
-*   Skill Games 11,244 games
-*   Arcade &. Classic Games 13,008 games
-*   Fun &. Crazy Games 2,537 games
+*   Skill Games 11,250 games
+*   Arcade &. Classic Games 13,015 games
+*   Fun &. Crazy Games 2,538 games
 
 Play with friends  
 Powered by Y8 Account 126 Y8 Multiplayer Games 2,029 Y8 High Score Games 1,150 Y8 Achievements Games 821 Y8 Screenshots Games 1,454 Y8 Online Save Games 3,087 All Y8 Games Games Last Highscore:
 
-**479,118,217** points on Harvest Story by DestinyInCap
+**2,145** points on Orion Sandbox Enhanced by dgrulervkl
 
 Help us improve Bad translation? Social
 
