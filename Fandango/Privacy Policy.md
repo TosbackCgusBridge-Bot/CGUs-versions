@@ -292,9 +292,9 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   Fandango's Summer Sweepstakes
+*   'Yesterday' Gift With Purchase
     
-    Enter now for a chance to win a trip to experience epic new adventures at Universal Parks &. Resorts in Orlando or Hollywood! ENTER NOW
+    Get a free\* song download of "Yesterday" with ticket purchase! (\*Terms Apply) BUY TICKETS
     
 *   $3 Off Avengers: Endgame
     
