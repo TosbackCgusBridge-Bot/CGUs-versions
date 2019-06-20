@@ -44,16 +44,16 @@ $1.91
 
 Change
 
-+0.04
+0
 
 Percent Change
 
-(+2.14%)
+(0.00%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Jun 05, 2019 Office Depot to Present at Baird’s 2019 Global Consumer, Technology &. Services Conference Wednesday, June 5, 2019 view more Recent News Jun 05, 2019 Office Depot to Present at Baird’s 2019 Global Consumer, Technology &. Services Conference Wednesday, June 5, 2019 view more Events Jun 5, 2019 at 4:55 PM EDT Office Depot Presents at Baird’s Global Consumer, Technology &. Services Conference view more Events Jun 5, 2019 at 4:55 PM EDT Office Depot Presents at Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 05, 2019 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 05, 2019 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more
+Recent News Jun 19, 2019 Office Depot, Inc. Releases Sustainability Report Announcing New Sustainability Goals view more Recent News Jun 19, 2019 Office Depot, Inc. Releases Sustainability Report Announcing New Sustainability Goals view more Events Jun 5, 2019 at 4:55 PM EDT Office Depot Presents at Baird’s Global Consumer, Technology &. Services Conference view more Events Jun 5, 2019 at 4:55 PM EDT Office Depot Presents at Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 05, 2019 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 05, 2019 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more
 
 *   Home
 *   News &. Events
