@@ -15,7 +15,7 @@ This policy outlines what personally identifiable and non-personally identifiabl
 
 Read MoreRead Less ><.
 
-Last updated as of: May 24, 2018
+Last updated as of: June 14, 2019
 
 IMVU, Inc. Privacy Policy
 
