@@ -221,6 +221,48 @@ Contact InformationWho do I contact if I am concerned, or have questions, about 
 *   White Pages
 
 *   FEATURES
+*   Popular Categories
+*   Enlighten Me
+*   Lottery Results
+*   Weather Forecasts
+
+*   ABOUT
+*   About Superpages
+*   Advertise With Us
+*   Contact Us
+*   Patents
+*   Site Map
+
+DIRECTORY*   Free Advertising
+*   Delivery Opt-Out
+*   Maps &. Directions
+*   State Directory
+*   White Pages
+FEATURES*   Popular Categories
+*   Enlighten Me
+*   Lottery Results
+*   Weather Forecasts
+ABOUT*   About Superpages
+*   Advertise With Us
+*   Contact Us
+*   Patents
+*   Site Map
+Free Listing
+
+Claim your free business listing
+
+The more information you provide about your business, the easier it will be for customers to find you online.
+
+Claim Your Business© 2019 DexYP. All rights reserved. Terms of Use. Privacy Policy.Connect with us on
+
+*   DIRECTORY
+*   Free Advertising
+*   Delivery Opt-Out
+*   Maps &. Directions
+*   State Directory
+*   White Pages
+
+*   FEATURES
 *   City Guides
 *   Featured Businesses
 *   Popular Categories
