@@ -88,14 +88,14 @@ View more results
     *   Slither.io
     *   Warbanner
     *   Total Front: Army War Game
-    *   Uphill Rush 7: Waterpark
     *   Stunt Skateboard 3D
+    *   Uphill Rush 7: Waterpark
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Ultimate Boxing
     *   Pixel Apocalypse
     *   Short Life
-    *   Special Squad Vs Zombies: Killing Game
     *   Stickman Archer 2
+    *   Special Squad Vs Zombies: Killing Game
 *   Top Categories
     
     *   Platform Games
@@ -118,13 +118,13 @@ View more results
     Best Games
     *   Five Nights at Freddy's
     *   Five Nights at Freddy's 2
-    *   Fire Balls
     *   Short Life
+    *   Fire Balls
     *   World Craft 2
     *   Five Nights at Freddy's 5
     *   Tom and Jerry: Mouse Maze
-    *   Fireboy and Watergirl 5: Elements
     *   Five Nights at Freddy's 4
+    *   Fireboy and Watergirl 5: Elements
     *   FNAF World
     *   Vex 4
     *   Five Nights at Freddy's: Sister Location
@@ -190,8 +190,8 @@ View more results
     *   Get Your Boyfriend
     *   Popstar Dentist
     *   Ella: Hips Surgery
-    *   My Fresh Start Makeover
     *   Princess Rivalry
+    *   My Fresh Start Makeover
 *   Top Categories
     
     *   BMX Games
@@ -251,8 +251,8 @@ View more results
     *   Table Tennis World Tour
     *   Ultimate Boxing
     *   Bouncy Dunk
-    *   8-Ball
     *   Neon Biker
+    *   8-Ball
     *   Pinch Hitter 3
     *   Flip Master
 *   *   Multiplayer
