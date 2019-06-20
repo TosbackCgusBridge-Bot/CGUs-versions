@@ -153,7 +153,7 @@ COMPARE **RC**
 
 **LC**
 
-*   Starting at $92,3001\*
+*   Starting at $92,9501\*
 *   471-HP3\* 5.0L V8
 
 *   Build
@@ -161,7 +161,7 @@ COMPARE **RC**
 
 **LC HYBRID**
 
-*   Starting at $96,8101\*
+*   Starting at $97,4601\*
 *   354 TOTAL SYSTEM HP3\*
 
 *   Build
@@ -211,7 +211,7 @@ COMPARE **UX HYBRID**
 
 **LC HYBRID**
 
-*   Starting at $96,8101\*
+*   Starting at $97,4601\*
 *   354 TOTAL SYSTEM HP3\*
 
 *   Build
@@ -237,7 +237,7 @@ COMPARE **RC F**
 
 **LC**
 
-*   Starting at $92,3001\*
+*   Starting at $92,9501\*
 *   471-HP3\* 5.0L V8
 
 *   Build
@@ -245,7 +245,7 @@ COMPARE **RC F**
 
 **LC HYBRID**
 
-*   Starting at $96,8101\*
+*   Starting at $97,4601\*
 *   354 TOTAL SYSTEM HP3\*
 
 *   Build
