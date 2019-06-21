@@ -57,9 +57,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, UT. Online, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 3% 
+What is PeekScore? Public Records &. Background Checks 6% 
 
 Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -89,7 +89,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
+6% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -135,7 +135,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
+6% 
 
 Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 32707 View Full Report
     
@@ -165,7 +165,7 @@ Sponsored by **PeopleLooker***   Patricia A Policy, age 56, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
+6% 
 
 *   Ms Amy Annette Policy, age 46, Lake Worth, FL View Full Report
     
@@ -250,7 +250,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 3% 
+Facebook 6% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -310,7 +310,7 @@ Facebook 3% 
     
 *   Show Less ...
 
-Twitter 3% 
+Twitter 6% 
 
 *   Mental Health NIMH - NIMHgov
     
@@ -356,7 +356,7 @@ Twitter 3% 
     
 *   Show Less ...
 
-Instagram 3% 
+Instagram 6% 
 
 *   ~PRIVACY POLICY~ - lmaorosh
     
@@ -402,7 +402,7 @@ Instagram 3% 
     
 *   Show Less ...
 
-Myspace 3% 
+Myspace 6% 
 
 *   Privacy Policy - 49086242
     
@@ -426,7 +426,7 @@ Myspace 3% 
     
 *   Show Less ...
 
-Social Profiles 3% 
+Social Profiles 6% 
 
 *   Lauren Weinstein
     
@@ -468,7 +468,7 @@ Social Profiles 3% 
     
 *   Show Less ...
 
-Pinterest 3% 
+Pinterest 6% 
 
 *   Alishachawla2730 Privacypolicy - alishachawla273
     
@@ -477,7 +477,7 @@ Pinterest 3% 
 *   Policy Privacy - policyp
     
 
-Wikipedia 3% 
+Wikipedia 6% 
 
 *   Privacy policy
     
@@ -496,7 +496,7 @@ Wikipedia 3% 
     2019 Copyright. All Rights Reserved. The Sponsored Listings displayed above are served automatically by a third party. Neither Parkingcrew nor the domain owner ...
     
 
-Music 2% 
+Music 6% 
 
 *   Pandora
     
@@ -538,7 +538,7 @@ Music 2% 
     
 *   Show Less ...
 
-Web Search 2% 
+Web Search 6% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -584,15 +584,15 @@ Web Search 2% 
     
 *   Show Less ...
 
-Images 2% 
+Images 6% 
 
-8
-
-20
+9
 
 20
 
-7
+20
+
+9
 
 facebookx
 
