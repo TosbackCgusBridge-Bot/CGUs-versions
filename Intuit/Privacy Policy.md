@@ -27,7 +27,7 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackSPLASH-WORTHY SWIMWEAR FOR THE FAMILYSummertime means family time. Shop splash-worthy swimwear for everyone you love.Shop Now
+Near YouFind a StoreBack FINAL HOURS OF COUPON CODE20STYLEENDS IN00HOURS 41MINS 06SECS See Details\*60% off $100 or more select original &. regular-priced apparel, accessories, fine &. fashion jewelry &. home Excluded Categories: Juniors’ prom dresses, swimwear, shoes, handbags, window coverings, kitchen and dining, luggage, furniture, mattresses Excluded Brand: Liz Claiborne See additional exclusions below. \*40% off $40 or more select original &. regular-priced apparel, shoes, accessories, fine &. fashion jewelry &. home \*25% off select original &. regular-priced apparel (Haggar, Lee, Gloria Vanderbilt, intimate apparel &. women’s dresses). accessories (belts &. wallets). fine &. fashion jewelry (watches). home (Stearns &. Foster, Handy Living, Fiesta, small appliances/electrics, storage and organization, bath accessories, fitness equipment &. accessories, floor care). shoes (men's shoes, kids' shoes, Andrew Geller, Clarks, Easy Spirit). salon products \*EXTRA 25% off select SALE &. CLEARANCE-priced apparel, shoes, accessories, fine &. fashion jewelry &. home \*EXTRA 10% off select SALE &. CLEARANCE-priced furniture, mattresses, small electrics &. floor care OFFER DISCLAIMER &. EXCLUSIONS: \*Each offer good at jcp.com only, excluding taxes and shipping charges, 6/17/19-6/20/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Excluded Categories: Athletic Shoes, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Branded Athletic Apparel, Electronics, Food, Home Décor, In-Home Custom Design, Licensed Team Sports Merchandise, Men’s Underwear and Socks, Select National Brand Shoes, Penney Lane, Personalized Jewelry, Pet Care, Smart Home, Smartwatches, Sporting Goods &. Outdoor Gear, Toys, Travel Accessories, Wigs &. Extensions, Workwear &. Scrubs Excluded Brands: adidas, Alfred Dunner, As Seen On TV, Carhartt, Citizen Quartz, City Streets, Columbia, Champion, Converse, Crocs, Cubavera, Denizen from Levi's, Disney Collection, Disney Tsum Tsum, Dockers Apparel, Dreamgirl, Fisher-Price, Fitbit, Flexus, Garmin, Goddess Lingerie, Hunter Douglas, iRobot, Jezebel, Journee Collection, Keurig, Levi’s, Modern Bride Design Your Dream Ring, Neato Robotics, Nike, Nursemates, Propet, Puma, Reebok, Sephora, Skechers Women's Shoes, Smoky Mountain, Spring Step, Tempur-Pedic, Tervis, Tracee Ellis Ross Additionally, original and regular-priced offers do not apply to BOGO’s, 2 Or More, sale or clearance-priced items. all offers do not apply to Best Value, Daily Deals, Special Deals, Limited Time Specials, Purchase with Purchase items, Service Plans, Gift Cards, current orders and prior purchases, or in combination with other coupon(s). Can be combined with earned JCPenney Rewards. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code 20STYLE when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. DetailsSPLASH-WORTHY SWIMWEAR FOR THE FAMILYSummertime means family time. Shop splash-worthy swimwear for everyone you love.Shop Now
 
 *   WOMEN
 *   MEN
@@ -40,24 +40,32 @@ DORM 101 Little spaces, lofty ideas. The 2019 dorm collection offers design insp
 *   MEN'S SUITS
 *   BIG &. TALL SUITS
 
-Hot Sellers
+Recommended for You
 
 *   BUY MORE AND SAVE WITH CODE: 20STYLE
     
-    from$44after couponHome Expressions Olivia Medallion Complete Bedding Set with Sheets
-*   $1874after couponwas $60 Yuu Womens Hype Strap Sandals(16)
-*   $2499 sale
+    from$16
     
-    was $50 | 50% offLevi's® Carrier Cargo Ripstop Shorts(59)
-*   from$4250 sale
-    
-    was $94 | 50 - 54% offClarks Womens Leisa Vine Strap Sandals(61)
+    Liz Claiborne Luxury Egyptian Cotton Bath Towel(1015)
 *   BUY MORE AND SAVE WITH CODE: 20STYLE
     
-    from$5340after couponLiz Claiborne Ultimate Luxury Loft Mattress Pad(61)
+    from$30after coupon550tc UltraFit Performance Sheet Set - Studio™(1694)
+*   BUY 1 GET 1 50% OFF
+    
+    $45
+    
+    Nike Womens Tanjun Slide Sandals(11)
+*   from$519
+    
+    Xersion-Womens Performance Tee(1360)
+*   from$999
+    
+    St. John's Bay-Womens Boat Neck Short Sleeve T-Shirt(10)
 *   BUY MORE AND SAVE WITH CODE: 20STYLE
     
-    $2520after couponArizona Flex Relaxed-Fit Straight Jeans(554)
+    from$10
+    
+    JCPenney Home Performance Bath Towel Collection(136)
 
 Shop and Save at JCPenney
 
