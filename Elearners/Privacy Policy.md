@@ -252,4 +252,6 @@ Copyright eLearners.com 1999 - 2019
 
 EducationDynamics maintains business relationships with the schools it features
 
+This is an offer for educational opportunities that may lead to employment and not an offer for nor a guarantee of employment. Students should consult with a representative from the school they select to learn more about career opportunities in that field. Program outcomes vary according to each institution’s specific program curriculum.
+
 Find Schools
