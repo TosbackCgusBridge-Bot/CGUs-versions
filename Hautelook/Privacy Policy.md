@@ -9,133 +9,134 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
-    *   Lucky Brand Incl. Plus
-    *   Breezy Summer Styles ft. Blu Pepper Incl. Plus
-    *   Dolce Vita
-    *   Abound Starting at $10
-    *   14K Gold &. More Under $80
-    *   Summer Style: Dresses, Jumpsuits &. More Under $50
-    *   NuFACE Facial Toning Devices Up to 45% Off
-    *   Peter Millar
-    *   Men's Polarized Sun Under $100
-    *   Fit for Summer: Cropped Jeans Starting at $25
-    *   Dansko
-    *   Wear with Pride: Colorful Makeup from $10
-    *   Bluetooth Solutions: Headphones &. More
-    *   Free Shipping: Summer Bedding Up to 50% Off
-    *   Free Shipping: Wall Art &. More
-    *   Men's Summer Hats ft. Oakley Under $20
-    *   Marc Fisher
-    *   Aldo
-    *   Nicole Miller Swim &. More
-    *   Badgley Mischka Men &. More Up to 65% Off
-    *   Summer Sleepover: Kids' PJs Under $25
-    *   Lucky Brand Shoes
+    *   Alexis Bittar
+    *   J Brand Up to 60% Off
+    *   Tees &. Tanks Under $25 ft. Project Social T
+    *   ECCO Men
+    *   ECCO
+    *   Date Night: Dresses from bebe &. More
+    *   Trending Now: Bodysuits
+    *   Outdoor Shoes ft. Chaco
+    *   Red, White &. Blue Sleep Starting at $15
+    *   Persaman New York Handbags
+    *   Levi's Men Starting at $20
+    *   Vegan &. Cruelty-Free Skin Care
+    *   The Lyfestyle Co: Crystal-Infused Perfumes &. More
+    *   Free Shipping: Comforters &. More Up to 50% Off
+    *   Koral Active &. More
+    *   Playtime Starts Here: Toy Story &. More
+    *   Summer Backpacks ft. Eastpak
+    *   Walk Ready: Dog Accessories from $19
+    *   Tee Shop Under $15
+    *   Men's Outdoor Shoes ft. Chaco
+    *   bebe Shoes
+    *   TARA Pearls: Tahitian &. Akoya Jewelry
     
-    *   Dooney &. Bourke
-    *   Theory Men
-    *   Made in Italy: Meshmerise Jewelry from $20
+    *   True Religion Men Up to 65% Off
+    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
+    *   PUR: Palettes, Brushes &. Lip Kits from $10
+    *   Summer Fit Kit Essentials: Men's Active &. Swim
+    *   Zanzara Up to 70% Off
+    *   Kids' Active Shop ft. Champion
+    *   Zaxy Starting at $15
     *   Fragrances by Margot Elena Starting at $10
     *   Free Shipping: Quirky Decorative Accents
-    *   Psycho Bunny Lounge
     *   Free Shipping: Luxe Faux Fur Decor
     *   Luxe Bedding Essentials ft. Pillow Guy
-    *   Kids' Footwear ft. Naturino
-    *   Men's Shoes Up to 65% Off
     *   Free Shipping: Outdoor, BBQ &. Cutlery Blowout
     *   Wrinkles Schminkles: Smooth &. Renew Your Skin
-    *   Camper Men
     *   Free Shipping: Beds &. More for Your Fur Baby
     *   Vera Bradley Phone Cases Starting at $13
-    *   Exuviance Skin Care: Anti-Aging Treatments &. More
-    *   Make Your Eyes Pop: BIJOU Lashes
     *   Get the Look: Bright &. Bold Art Prints
-    *   Comforters &. Toppers
-    *   Cuisinart Cooking Essentials
-    *   Anthropologie Home: Bedding, Dinnerware &. Decor
-    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
+    *   Abound Starting at $10
+    *   Dolce Vita
+    *   Wear with Pride: Colorful Makeup from $10
+    *   Summer Style: Dresses, Jumpsuits &. More Under $50
+    *   Badgley Mischka Men &. More Up to 65% Off
+    *   Marc Fisher
     
-    *   Zanzara Up to 70% Off
-    *   PJ Salvage Incl. Plus
-    *   Trending Now: Quay, Le Specs &. More Under $40
-    *   Tart Dresses
-    *   Summer Fit Kit Essentials: Men's Active &. Swim
-    *   TARA Pearls: Tahitian &. Akoya Jewelry
-    *   True Religion Men Up to 65% Off
-    *   Kids' Active Shop ft. Champion
-    *   Summer Sneakers Up to 60% Off
-    *   Flip-Flops Up to 50% Off
-    *   Sea &. Grass Handbags and More
-    *   Report
+    *   Men's Polarized Sun Under $100
+    *   Fit for Summer: Cropped Jeans Starting at $25
+    *   14K Gold &. More Under $80
+    *   Men's Summer Hats ft. Oakley Under $20
+    *   Peter Millar
+    *   Dansko
+    *   Free Shipping: Summer Bedding Up to 50% Off
+    *   Nicole Miller Swim &. More
+    *   Aldo
+    *   Free Shipping: Wall Art &. More
+    *   Breezy Summer Styles ft. Blu Pepper Incl. Plus
+    *   Summer Sleepover: Kids' PJs Under $25
+    *   Bluetooth Solutions: Headphones &. More
     *   Trina Turk Up to 65% Off
-    *   Jeffrey Campbell
-    *   Zaxy Starting at $15
+    *   Lucky Brand Incl. Plus
+    *   Lucky Brand Shoes
+    *   NuFACE Facial Toning Devices Up to 45% Off
+    *   Cuisinart Cooking Essentials
+    *   Tart Dresses
     *   Retro Relaxation: Flying Tomato &. More Under $40
-    *   Keep It Simple: Modern Styles ft. Cotton On &. Co.
-    *   PUR: Palettes, Brushes &. Lip Kits from $10
-    *   Road Trip Essentials for Kids
-    *   Sandals &. More from Abound Under $50
 *   WomenShop Sale Events
     
-    *   Lucky Brand Incl. Plus
-    *   Breezy Summer Styles ft. Blu Pepper Incl. Plus
-    *   Dolce Vita
-    *   Abound Starting at $10
-    *   14K Gold &. More Under $80
-    *   Summer Style: Dresses, Jumpsuits &. More Under $50
-    *   NuFACE Facial Toning Devices Up to 45% Off
-    *   Fit for Summer: Cropped Jeans Starting at $25
-    *   Dansko
-    *   Wear with Pride: Colorful Makeup from $10
-    *   Marc Fisher
-    *   Aldo
-    *   Nicole Miller Swim &. More
-    *   Lucky Brand Shoes
-    *   Dooney &. Bourke
-    *   Made in Italy: Meshmerise Jewelry from $20
-    *   Fragrances by Margot Elena Starting at $10
-    *   Wrinkles Schminkles: Smooth &. Renew Your Skin
-    
-    *   Exuviance Skin Care: Anti-Aging Treatments &. More
-    *   Make Your Eyes Pop: BIJOU Lashes
-    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    *   PJ Salvage Incl. Plus
-    *   Trending Now: Quay, Le Specs &. More Under $40
-    *   Tart Dresses
+    *   Alexis Bittar
+    *   J Brand Up to 60% Off
+    *   Tees &. Tanks Under $25 ft. Project Social T
+    *   ECCO
+    *   Date Night: Dresses from bebe &. More
+    *   Trending Now: Bodysuits
+    *   Outdoor Shoes ft. Chaco
+    *   Red, White &. Blue Sleep Starting at $15
+    *   Persaman New York Handbags
+    *   Vegan &. Cruelty-Free Skin Care
+    *   The Lyfestyle Co: Crystal-Infused Perfumes &. More
+    *   Koral Active &. More
+    *   Summer Backpacks ft. Eastpak
+    *   bebe Shoes
     *   TARA Pearls: Tahitian &. Akoya Jewelry
-    *   Summer Sneakers Up to 60% Off
-    *   Flip-Flops Up to 50% Off
-    *   Sea &. Grass Handbags and More
-    *   Report
-    *   Trina Turk Up to 65% Off
-    *   Jeffrey Campbell
-    *   Retro Relaxation: Flying Tomato &. More Under $40
-    *   Keep It Simple: Modern Styles ft. Cotton On &. Co.
+    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   PUR: Palettes, Brushes &. Lip Kits from $10
-    *   Sandals &. More from Abound Under $50
+    *   Fragrances by Margot Elena Starting at $10
+    
+    *   Wrinkles Schminkles: Smooth &. Renew Your Skin
+    *   Abound Starting at $10
+    *   Dolce Vita
+    *   Wear with Pride: Colorful Makeup from $10
+    *   Summer Style: Dresses, Jumpsuits &. More Under $50
+    *   Marc Fisher
+    *   Fit for Summer: Cropped Jeans Starting at $25
+    *   14K Gold &. More Under $80
+    *   Dansko
+    *   Nicole Miller Swim &. More
+    *   Aldo
+    *   Breezy Summer Styles ft. Blu Pepper Incl. Plus
+    *   Trina Turk Up to 65% Off
+    *   Lucky Brand Incl. Plus
+    *   Lucky Brand Shoes
+    *   NuFACE Facial Toning Devices Up to 45% Off
+    *   Tart Dresses
+    *   Retro Relaxation: Flying Tomato &. More Under $40
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Handbags
     *   Jewelry
-    *   Accessories
     *   Lingerie
+    *   Handbags
+    *   Accessories
 *   MenShop Sale Events
     
-    *   Peter Millar
+    *   ECCO Men
+    *   Levi's Men Starting at $20
+    *   Summer Backpacks ft. Eastpak
+    *   Tee Shop Under $15
+    *   Men's Outdoor Shoes ft. Chaco
+    *   True Religion Men Up to 65% Off
+    
+    *   Summer Fit Kit Essentials: Men's Active &. Swim
+    *   Zanzara Up to 70% Off
+    *   Badgley Mischka Men &. More Up to 65% Off
     *   Men's Polarized Sun Under $100
     *   Men's Summer Hats ft. Oakley Under $20
-    *   Badgley Mischka Men &. More Up to 65% Off
-    *   Theory Men
-    *   Psycho Bunny Lounge
-    
-    *   Men's Shoes Up to 65% Off
-    *   Camper Men
-    *   Zanzara Up to 70% Off
-    *   Trending Now: Quay, Le Specs &. More Under $40
-    *   Summer Fit Kit Essentials: Men's Active &. Swim
-    *   True Religion Men Up to 65% Off
+    *   Peter Millar
     
     Shop By Category
     *   Clothing
@@ -143,68 +144,64 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Accessories
 *   KidsShop Sale Events
     
-    *   Summer Sleepover: Kids' PJs Under $25
-    *   Kids' Footwear ft. Naturino
+    *   Playtime Starts Here: Toy Story &. More
+    *   Summer Backpacks ft. Eastpak
     *   Kids' Active Shop ft. Champion
     *   Zaxy Starting at $15
-    *   Road Trip Essentials for Kids
+    *   Summer Sleepover: Kids' PJs Under $25
     
     Shop By Category
     *   Girls' Sizes 7-16
-    *   Girls' Shoes
     *   Girls' Sizes 2T-6X
     *   Boys' Sizes 8-20
     *   Boys' Sizes 2T-7
-    *   The Toy Shop
+    *   Girls' Shoes
     *   Baby Boy
     *   Baby Girl
-    *   Boys' Shoes
-    *   Baby Gear &. Essentials
+    *   The Toy Shop
 *   HomeShop Sale Events
     
-    *   Bluetooth Solutions: Headphones &. More
-    *   Free Shipping: Summer Bedding Up to 50% Off
-    *   Free Shipping: Wall Art &. More
+    *   Free Shipping: Comforters &. More Up to 50% Off
+    *   Walk Ready: Dog Accessories from $19
     *   Free Shipping: Quirky Decorative Accents
     *   Free Shipping: Luxe Faux Fur Decor
     *   Luxe Bedding Essentials ft. Pillow Guy
     *   Free Shipping: Outdoor, BBQ &. Cutlery Blowout
-    
     *   Free Shipping: Beds &. More for Your Fur Baby
+    
     *   Vera Bradley Phone Cases Starting at $13
     *   Get the Look: Bright &. Bold Art Prints
-    *   Comforters &. Toppers
+    *   Free Shipping: Summer Bedding Up to 50% Off
+    *   Free Shipping: Wall Art &. More
+    *   Bluetooth Solutions: Headphones &. More
     *   Cuisinart Cooking Essentials
-    *   Anthropologie Home: Bedding, Dinnerware &. Decor
     
     Shop By Category
-    *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
-    *   Pet Accessories
+    *   Home Decor
     *   Tech Accessories
-    *   Rugs &. Doormats
+    *   Pet Accessories
     *   Outdoor Living
     *   Bath
     *   Luggage &. Travel
-    *   Cleaning &. Organization
 *   BeautyShop Sale Events
     
-    *   NuFACE Facial Toning Devices Up to 45% Off
-    *   Wear with Pride: Colorful Makeup from $10
-    *   Fragrances by Margot Elena Starting at $10
-    *   Wrinkles Schminkles: Smooth &. Renew Your Skin
-    *   Exuviance Skin Care: Anti-Aging Treatments &. More
-    *   Make Your Eyes Pop: BIJOU Lashes
+    *   Vegan &. Cruelty-Free Skin Care
+    *   The Lyfestyle Co: Crystal-Infused Perfumes &. More
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   PUR: Palettes, Brushes &. Lip Kits from $10
+    *   Fragrances by Margot Elena Starting at $10
+    *   Wrinkles Schminkles: Smooth &. Renew Your Skin
+    *   Wear with Pride: Colorful Makeup from $10
+    *   NuFACE Facial Toning Devices Up to 45% Off
     
     Shop By Category
     *   Makeup
     *   Hair Care
     *   Skin Care
-    *   Bath &. Body
     *   Fragrance
+    *   Bath &. Body
     *   Tools &. Accessories
     *   Makeup Bags
 
@@ -389,6 +386,7 @@ FacebookTwitterPinterestInstagramSnapchatiPhoneiPadAndroid
 *   FAQ
 *   Contact Us
 *   Live Chat
+*   Give Us Feedback
 
 Terms &. ConditionsYour Privacy RightsInterest Based AdsCalifornia Supply Chains Act© 2019 HauteLook | A Nordstrom CompanyNordstromNordstrom RackHauteLookInvite a Friend, Get $20
 
