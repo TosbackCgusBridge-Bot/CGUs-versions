@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Kubernetes on Mac: how to set up ›
+*   Vanilla Framework 2.0 upgrade guide ›
+*   Parallel installs – test and run multiple instances of snaps ›
 *   Kubernetes 1.15 now available from Canonical ›
 *   Fresh snaps for May 2019 ›
-*   Your first robotic arm with Ubuntu Core, coming from Niryo ›
-*   New release: Vanilla framework 2.0 ›
-*   Customisable for the enterprise: the next-generation of drones ›
