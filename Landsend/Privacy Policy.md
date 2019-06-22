@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off full-price styles. Up to 70% off sale and clearance styles. Totes from $15!
+Receive 40% off full-price styles. Up to 70% off sale and clearance styles. 50% off full-price towels!
 
-code: ROSE pin: 2548 DETAILS
+code: FLOPS pin: 4689 DETAILS
 
 Customer Service Menu
 
