@@ -407,6 +407,7 @@ Download all Remove all
 *   Cookie policy
 *   Accessibility
 *   Online security
+*   Sitemap
 
 Search (auto-suggestions will appear below field) Clear text Submit search
 
