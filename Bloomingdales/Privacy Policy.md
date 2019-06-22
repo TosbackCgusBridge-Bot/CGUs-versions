@@ -420,11 +420,11 @@ Email this page Recipient Email \* Your Email \* Your Name \* Print Share
 
 Does this answer your question? Yes No s
 
+*   Highlights of Bloomingdale’s Notice of Privacy Practices
 *   What is the return and exchange policy?
 *   Terms of Use
-*   Highlights of Bloomingdale’s Notice of Privacy Practices
 *   What is the shipping policy?
-*   How do I return an item purchased at a Bloomingdale's store?
+*   CA Privacy Rights
 
 SAVE 10%: Sign Up for Emails or Texts! FREE SHIPPING EVERY DAY! PLUS, FREE RETURNS Loyallists: No Minimum. Everyone Else: $150+ Info/Exclusions CUSTOMER SERVICE
 
