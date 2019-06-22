@@ -3,7 +3,7 @@ Privacy Statement Regarding Customer and Online User Information
 *   Print
 *   Check out this page on Dell.com! Email
 
-﻿ This Privacy Statement Regarding Customer and Online User Information (“Privacy Statement”) applies to Dell Inc. and its worldwide subsidiaries (“Dell,” "we" or "our"), but not to those Dell subsidiaries that have published their own privacy and security statements. This Privacy Statement also does not apply to the websites of our business partners or to any other third parties, even if their websites are linked to our website. We recommend you review the privacy statements of the other parties with which you interact.  
+Privacy Statement This Privacy Statement Regarding Customer and Online User Information (“Privacy Statement”) applies to Dell Inc. and its worldwide subsidiaries (“Dell,” "we" or "our"), but not to those Dell subsidiaries that have published their own privacy and security statements. This Privacy Statement also does not apply to the websites of our business partners or to any other third parties, even if their websites are linked to our website. We recommend you review the privacy statements of the other parties with which you interact.  
   
 This Privacy Statement governs Personal Information we collect from our customers and online users ("you"), as well as information we automatically collect from your online visits (e.g. data collected via cookies). Please refer to your warranty statements and Dell's Return Policy for policies that apply to information contained on hard drives returned to Dell.  
   
