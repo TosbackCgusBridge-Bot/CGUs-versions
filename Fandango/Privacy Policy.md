@@ -68,8 +68,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   Next 3 Alien-Future Movies: 'Ad Astra,' 'Terminator: Dark Fate,' 'Gemini Man' Read More
-    *   The Week in Movie News: Blumhouse to Remake ‘Black Christmas,’ First ‘Doctor Sleep’ Trailer and More Read More
-    *   Today in Movie Culture: The Evolution of Animation in the ‘Toy Story’ Movies, Aubrey Plaza’s Guide to Creepy Doll Movies and More Read More
+    *   Today in Movie Culture: What Makes Pixar Movies So Special, ‘The Dead Don’t Die’ Director Commentary and More Read More
+    *   The Week in Movie News: Pixar Announces New Movie ‘Soul,’ ‘Hunger Games’ Prequel in the Works and More Read More
     
     Explore Content
     *   Movie Reviews
