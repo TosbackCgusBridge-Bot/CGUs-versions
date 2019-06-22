@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   ROS 2 Command Line Interface ›
 *   Kubernetes on Mac: how to set up ›
 *   Vanilla Framework 2.0 upgrade guide ›
 *   Parallel installs – test and run multiple instances of snaps ›
 *   Kubernetes 1.15 now available from Canonical ›
-*   Fresh snaps for May 2019 ›
