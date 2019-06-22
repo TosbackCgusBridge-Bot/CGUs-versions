@@ -212,20 +212,20 @@ New York, NY 10001.**
     *   Radiohead sells recordings to public after 'Creep' hacker threatens to leak them
     *   Windows 10 zero-day vulnerability released, Microsoft in the dark
     *   Rapper Dave East nudes reportedly leaked
-    *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
+    *   Article 29 Working Party still not happy with Windows 10 privacy controls
     
-    *   VPN complexity cripples innovation
-    *   Maryland governor goes on a cybersecurity rampage
-    *   Cisco announced 26 vulnerabilities in over the last two days, three critical
+    *   Flaw in Alaris medical devices exposes infusion pumps to possible sabotage
+    *   Apache advisory addresses incomplete Tomcat update
+    *   ACLU tells Ga. Supreme Court Fourth Amendment should apply to personal data stored by cars
+    *   Firefox updates address takeover vulnerability
     *   Ransomware attack on software company ResiDex may have exposed data on assisted-living residents, workers
-    *   Should companies based in authoritarian countries be permitted to invest in sensitive areas of another country’s economy?
     
-    *   ISC released BIND security update concerning race condition flaw
-    *   Oracle releases second WebLogic Server patch in two months
-    *   Cisco announced 26 vulnerabilities in over the last two days, three critical
-    *   Phishing campaign impersonates email alerts from DHS
-    *   Making a racket: LoudMiner malware cryptojacks VMs, comes bundled with pirated VST software
+    *   Apple releases eight updates for AirPort Base Station bugs
+    *   Apache advisory addresses incomplete Tomcat update
+    *   Palo Alto’s Unit 42 discovered 10 'Important' Microsoft bugs
+    *   Insider exposes PII of 2.9 million Desjardins customers
+    *   Plurox backdoor opens up networks to cryptominers and protocol exploits
 
 Back to Top
 
