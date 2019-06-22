@@ -3,7 +3,7 @@ Accessibility links
 *   Skip to main content
 *   Keyboard shortcuts for audio player
 
-Toggle more player options
+****Listen To NPR News In 5 Minutes**** Toggle more player options
 
 *   Sign In
 *   NPR Shop
@@ -369,10 +369,10 @@ California residents can request and obtain from us once a year and free of char
 *   **Flipboard**
 *   **Email**
 
-Thursday, June 20th, 2019 ******Listen** **· 13:05****** 13:05 ****Playlist**** **Toggle more options**
+Friday, June 21st, 2019 ******Listen** **· 13:41****** 13:41 ****Playlist**** **Toggle more options**
 
 *   **Download**
-*   ****Embed**** **Embed** **`**<**iframe src="https://www.npr.org/player/embed/734273856/734309961" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player">`**
+*   ****Embed**** **Embed** **`**<**iframe src="https://www.npr.org/player/embed/734657247/734670458" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player">`**
 
 Up First NPR's Up First is the news you need to start your day.
 
