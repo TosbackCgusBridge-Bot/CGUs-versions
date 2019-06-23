@@ -213,13 +213,13 @@ New York, NY 10001.**
     *   Windows 10 zero-day vulnerability released, Microsoft in the dark
     *   Rapper Dave East nudes reportedly leaked
     *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
-    *   Article 29 Working Party still not happy with Windows 10 privacy controls
+    *   Spirit AeroSystems confirms ASCO Industries cyberattack
     
-    *   Flaw in Alaris medical devices exposes infusion pumps to possible sabotage
-    *   Apache advisory addresses incomplete Tomcat update
-    *   ACLU tells Ga. Supreme Court Fourth Amendment should apply to personal data stored by cars
-    *   Firefox updates address takeover vulnerability
-    *   Ransomware attack on software company ResiDex may have exposed data on assisted-living residents, workers
+    *   ASCO Industries confirms ransomware attack
+    *   EatStreet data breach affecting diners, restaurants and delivery firms
+    *   The picture of threat intelligence
+    *   Phishing campaign impersonates email alerts from DHS
+    *   Hoax PC cleaner software on the rise, report
     
     *   Apple releases eight updates for AirPort Base Station bugs
     *   Apache advisory addresses incomplete Tomcat update
