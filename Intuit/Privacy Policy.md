@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
+*   My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -29,20 +29,26 @@ Shop Departments
 
 Near YouFind a StoreBackRecommended for You
 
-*   $1999 sale
-    
-    was $60 | 66% offa.n.a Womens Meadow Wedge Sandals(33)
-*   from$799 sale
-    
-    was $17 - $19 | 47 - 58% offa.n.a Womens Scoop Neck Short Sleeve T-Shirt(228)
-*   from$519
-    
-    Xersion-Womens Performance Tee(1360)
-*   from$169after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(185)
 *   POWER PENNEY DEAL!
     
-    $8after couponwas $40 Stafford Men's Regular-Fit Easy-Care Stretch Dress Shirt(76)
-*   from$339after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1270)
+    $5 sale
+    
+    was $19 | 73% offa.n.a Womens Round Neck Sleeveless Tank Top(12)
+*   from$1299 sale
+    
+    was $32 | 54 - 59% offSt. John's Bay Secretly Slender Mid Rise Capris(135)
+*   from$1350 sale
+    
+    was $27 | 46 - 50% offLiz Claiborne-Womens Round Neck Short Sleeve T-Shirt(34)
+*   $1999 sale
+    
+    was $50 | 60% offArizona Forum Womens Footbed Sandals(18)
+*   from$699 sale
+    
+    was $17 - $19 | 47 - 58% offa.n.a Womens Scoop Neck Short Sleeve T-Shirt(228)
+*   POWER PENNEY DEAL!
+    
+    from$765after couponwas $26 - $60 Home Expressions Microfiber Plus Easy Care Wrinkle Resistant Sheet Set(1529)
 
 Shop and Save at JCPenney
 
