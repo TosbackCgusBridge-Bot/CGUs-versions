@@ -27,7 +27,7 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
     *   Login
     *   |
     *   Register
-*   MY BAG
+*   MY BAGThere are no items in your bag!
 
 *   Women
     *   *   Featured
