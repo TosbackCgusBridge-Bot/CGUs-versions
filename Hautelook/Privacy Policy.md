@@ -9,28 +9,36 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
-    *   J.Crew
-    *   Weekend-Ready Essentials ft. GOOD LUCK GEM
-    *   Summer Wrap Dresses Under $35
-    *   CG Sport &. More Incl. Plus and Petites
-    *   Live-In Lounge: Sleep &. More Starting at $15
-    *   FitFlop
-    *   On-Trend Plus Styles Up to 60% Off
-    *   Seychelles Up to 50% Off
-    *   BH Cosmetics: Eyeshadow Palettes Under $20
-    *   Besfren K-Beauty: Face Masks &. More
-    *   Next Swim &. More
-    *   Fresh Finds: Shoes Starting at $30
-    *   Tahitian &. Akoya Pearl Jewelry and More Under $80
-    *   Brooks Brothers
-    *   Born Men
-    *   Men's Underwear Shop
-    *   Free Shipping: Planters Starting at $25
-    *   Living the Dream: Calming Wall Art
-    *   NutriChef Kitchen Electrics Up to 55% Off
-    *   LAmade Maternity
-    *   Summer Weddings: Isaac Mizrahi Kids &. More
+    *   Lola Made in Italy Up to 70% Off
+    *   Miu Miu &. More: Sun Under $100
+    *   Keep It Casual: Styles Up to 75% Off
+    *   Terre Mere Organic Beauty Up to 75% Off
+    *   Sandals &. More Up to 65% Off
+    *   Rodial Skin Care Up to 80% Off
+    *   Men's Shoes Up to 70% Off
+    *   Men's Accessories Up to 80% Off ft. Cole Haan
+    *   Storage Steals Up to 65% Off
+    *   Pet Accessories Blowout
+    *   Kids' Style Blowout
+    *   Sam Edelman Up to 60% Off
+    *   Max Studio
+    *   Wacoal
+    *   Sam Edelman Clothing
+    *   Laura Mercier Up to 55% Off
+    *   Velvet by Graham &. Spencer Starting at $20
+    *   Sapanyu Jewelry: Raw Gems, Stacking Rings, &. More
+    *   Sam Edelman Handbags
+    *   Vanity Room
+    *   Gemstones &. More Under $80
+    *   Raymond Weil Luxury Swiss Watches
+    *   Sofft &. Isola Up to 60% Off
+    *   Mix &. Match: Suit Separates and More
+    *   Rock &. Candy Under $30
+    *   Hit Snooze: Bedding Essentials Up to 75% Off
+    *   Summer BBQ Ready: Men's Styles
+    *   Swims &. More Up to 50% Off
     
+    *   Tummy Time Style: Bunnies by the Bay &. More
     *   Vince Up to 65% Off
     *   Vince Shoes Up to 60% Off
     *   Vince Men Up to 60% Off
@@ -52,49 +60,68 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   NuFACE Facial Toning Devices Up to 45% Off
     *   Bluetooth Solutions: Headphones &. More
     *   Free Shipping: Summer Bedding Up to 50% Off
-    
     *   Free Shipping: Wall Art &. More
-    *   Badgley Mischka Men &. More Up to 65% Off
     *   Free Shipping: Quirky Decorative Accents
     *   Free Shipping: Luxe Faux Fur Decor
     *   Luxe Bedding Essentials ft. Pillow Guy
-    *   Free Shipping: Outdoor, BBQ &. Cutlery Blowout
-    *   Free Shipping: Beds &. More for Your Fur Baby
-    *   Vera Bradley Phone Cases Starting at $13
     *   Cuisinart Cooking Essentials
-    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    *   PUR: Palettes, Brushes &. Lip Kits from $10
     *   ECCO Men
+    
     *   Playtime Starts Here: Toy Story &. More
-    *   Levi's Men Starting at $20
-    *   Tee Shop Under $15
     *   Walk Ready: Dog Accessories from $19
     *   Kappa Active
-    *   Free Shipping: Comforters &. More Up to 50% Off
     *   Vegan &. Cruelty-Free Skin Care
     *   The Lyfestyle Co: Crystal-Infused Perfumes &. More
     *   Men's Outdoor Shoes ft. Chaco
+    *   Free Shipping: Planters Starting at $25
+    *   On-Trend Plus Styles Up to 60% Off
+    *   LAmade Maternity
+    *   Fresh Finds: Shoes Starting at $30
+    *   Seychelles Up to 50% Off
+    *   CG Sport &. More Incl. Plus and Petites
+    *   Weekend-Ready Essentials ft. GOOD LUCK GEM
+    *   Tahitian &. Akoya Pearl Jewelry and More Under $80
+    *   Next Swim &. More
+    *   Summer Wrap Dresses Under $35
+    *   Living the Dream: Calming Wall Art
+    *   BH Cosmetics: Eyeshadow Palettes Under $20
+    *   FitFlop
+    *   Born Men
+    *   Men's Underwear Shop
+    *   Besfren K-Beauty: Face Masks &. More
+    *   NutriChef Kitchen Electrics Up to 55% Off
+    *   Free Shipping: Comforters &. More Up to 50% Off
+    *   Brooks Brothers
+    *   Live-In Lounge: Sleep &. More Starting at $15
+    *   J.Crew
+    *   Summer Weddings: Isaac Mizrahi Kids &. More
 *   WomenShop Sale Events
     
-    *   J.Crew
-    *   Weekend-Ready Essentials ft. GOOD LUCK GEM
-    *   Summer Wrap Dresses Under $35
-    *   CG Sport &. More Incl. Plus and Petites
-    *   Live-In Lounge: Sleep &. More Starting at $15
-    *   FitFlop
-    *   On-Trend Plus Styles Up to 60% Off
-    *   Seychelles Up to 50% Off
-    *   BH Cosmetics: Eyeshadow Palettes Under $20
-    *   Besfren K-Beauty: Face Masks &. More
-    *   Next Swim &. More
-    *   Fresh Finds: Shoes Starting at $30
-    *   Tahitian &. Akoya Pearl Jewelry and More Under $80
+    *   Lola Made in Italy Up to 70% Off
+    *   Miu Miu &. More: Sun Under $100
+    *   Keep It Casual: Styles Up to 75% Off
+    *   Terre Mere Organic Beauty Up to 75% Off
+    *   Sandals &. More Up to 65% Off
+    *   Rodial Skin Care Up to 80% Off
+    *   Sam Edelman Up to 60% Off
+    *   Max Studio
+    *   Wacoal
+    *   Sam Edelman Clothing
+    *   Laura Mercier Up to 55% Off
+    *   Velvet by Graham &. Spencer Starting at $20
+    *   Sapanyu Jewelry: Raw Gems, Stacking Rings, &. More
+    *   Sam Edelman Handbags
+    *   Vanity Room
+    *   Gemstones &. More Under $80
+    *   Raymond Weil Luxury Swiss Watches
+    *   Sofft &. Isola Up to 60% Off
+    *   Rock &. Candy Under $30
     *   Vince Up to 65% Off
     *   Vince Shoes Up to 60% Off
-    
     *   BeachLunchLounge
     *   Bright &. Bold: Summer Dresses That Pop
     *   Handmade in Bali: Devata Sterling &. 18K Jewelry
+    
     *   Most-Wanted Handbags
     *   The Art of Clean: Sonic Brushes Up to 60% Off
     *   PHYTO Hair Essentials
@@ -102,106 +129,127 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Summer Slides Up to 60% Off
     *   Luggage Under $200
     *   NuFACE Facial Toning Devices Up to 45% Off
-    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    *   PUR: Palettes, Brushes &. Lip Kits from $10
     *   Kappa Active
     *   Vegan &. Cruelty-Free Skin Care
     *   The Lyfestyle Co: Crystal-Infused Perfumes &. More
+    *   On-Trend Plus Styles Up to 60% Off
+    *   Fresh Finds: Shoes Starting at $30
+    *   Seychelles Up to 50% Off
+    *   CG Sport &. More Incl. Plus and Petites
+    *   Weekend-Ready Essentials ft. GOOD LUCK GEM
+    *   Tahitian &. Akoya Pearl Jewelry and More Under $80
+    *   Next Swim &. More
+    *   Summer Wrap Dresses Under $35
+    *   BH Cosmetics: Eyeshadow Palettes Under $20
+    *   FitFlop
+    *   Besfren K-Beauty: Face Masks &. More
+    *   Live-In Lounge: Sleep &. More Starting at $15
+    *   J.Crew
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Handbags
     *   Lingerie
+    *   Handbags
+    *   Accessories
+    *   Watches
 *   MenShop Sale Events
     
-    *   Brooks Brothers
-    *   Born Men
-    *   Men's Underwear Shop
+    *   Men's Shoes Up to 70% Off
+    *   Men's Accessories Up to 80% Off ft. Cole Haan
+    *   Raymond Weil Luxury Swiss Watches
+    *   Mix &. Match: Suit Separates and More
+    *   Summer BBQ Ready: Men's Styles
+    *   Swims &. More Up to 50% Off
     *   Vince Men Up to 60% Off
+    
     *   Surf's Up: Men's Styles ft. Billabong
     *   Luggage Under $200
-    
-    *   Badgley Mischka Men &. More Up to 65% Off
     *   ECCO Men
-    *   Levi's Men Starting at $20
-    *   Tee Shop Under $15
     *   Men's Outdoor Shoes ft. Chaco
+    *   Born Men
+    *   Men's Underwear Shop
+    *   Brooks Brothers
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
-    *   LAmade Maternity
-    *   Summer Weddings: Isaac Mizrahi Kids &. More
+    *   Kids' Style Blowout
+    *   Tummy Time Style: Bunnies by the Bay &. More
     *   ADEN + ANAIS
     *   Carter's Up to 50% Off
     *   Fun &. Fancy: Girls' Dresses
     *   Playtime Starts Here: Toy Story &. More
+    *   LAmade Maternity
+    *   Summer Weddings: Isaac Mizrahi Kids &. More
     
     Shop By Category
-    *   Girls' Shoes
-    *   Girls' Sizes 2T-6X
     *   Boys' Shoes
+    *   Girls' Sizes 2T-6X
+    *   Girls' Shoes
     *   Girls' Sizes 7-16
-    *   The Toy Shop
     *   Baby Girl
-    *   Baby Gear &. Essentials
     *   Boys' Sizes 2T-7
     *   Baby Boy
+    *   The Toy Shop
     *   Boys' Sizes 8-20
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
-    *   Free Shipping: Planters Starting at $25
-    *   Living the Dream: Calming Wall Art
+    *   Storage Steals Up to 65% Off
+    *   Pet Accessories Blowout
+    *   Hit Snooze: Bedding Essentials Up to 75% Off
     *   Free Shipping: Shelves, Storage &. More from $10
     *   1-Up Your Tech: Gaming Accessories from $16
     *   Bluetooth Solutions: Headphones &. More
     *   Free Shipping: Summer Bedding Up to 50% Off
     *   Free Shipping: Wall Art &. More
-    *   Free Shipping: Quirky Decorative Accents
     
+    *   Free Shipping: Quirky Decorative Accents
     *   Free Shipping: Luxe Faux Fur Decor
     *   Luxe Bedding Essentials ft. Pillow Guy
-    *   Free Shipping: Outdoor, BBQ &. Cutlery Blowout
-    *   Free Shipping: Beds &. More for Your Fur Baby
-    *   Vera Bradley Phone Cases Starting at $13
     *   Cuisinart Cooking Essentials
     *   Walk Ready: Dog Accessories from $19
+    *   Free Shipping: Planters Starting at $25
+    *   Living the Dream: Calming Wall Art
     *   Free Shipping: Comforters &. More Up to 50% Off
     
     Shop By Category
     *   Home Decor
-    *   Kitchen &. Tabletop
     *   Bedding
+    *   Kitchen &. Tabletop
+    *   Luggage &. Travel
     *   Pet Accessories
     *   Cleaning &. Organization
-    *   Luggage &. Travel
     *   Tech Accessories
     *   Outdoor Living
-    *   Rugs &. Doormats
     *   Bath
+    *   Rugs &. Doormats
+    *   Accent Furniture
 *   BeautyShop Sale Events
     
-    *   BH Cosmetics: Eyeshadow Palettes Under $20
-    *   Besfren K-Beauty: Face Masks &. More
+    *   Terre Mere Organic Beauty Up to 75% Off
+    *   Rodial Skin Care Up to 80% Off
+    *   Laura Mercier Up to 55% Off
     *   The Art of Clean: Sonic Brushes Up to 60% Off
     *   PHYTO Hair Essentials
     *   NuFACE Facial Toning Devices Up to 45% Off
-    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    *   PUR: Palettes, Brushes &. Lip Kits from $10
     *   Vegan &. Cruelty-Free Skin Care
     *   The Lyfestyle Co: Crystal-Infused Perfumes &. More
+    *   BH Cosmetics: Eyeshadow Palettes Under $20
+    *   Besfren K-Beauty: Face Masks &. More
     
     Shop By Category
     *   Makeup
     *   Skin Care
-    *   Hair Care
     *   Fragrance
     *   Bath &. Body
+    *   Hair Care
     *   Tools &. Accessories
     *   Makeup Bags
 
