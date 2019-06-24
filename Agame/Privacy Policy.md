@@ -90,10 +90,10 @@ View more results
     *   Total Front: Army War Game
     *   Stunt Skateboard 3D
     *   Uphill Rush 7: Waterpark
-    *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Ultimate Boxing
-    *   Pixel Apocalypse
+    *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Short Life
+    *   Pixel Apocalypse
     *   Stickman Archer 2
     *   Combat Strike 2: 3D Shooting Game Online Multiplayer
 *   Top Categories
@@ -127,7 +127,7 @@ View more results
     *   Five Nights at Freddy's 4
     *   FNAF World
     *   Vex 4
-    *   Five Nights at Freddy's: Sister Location
+    *   Clean Bathroom Escape
 *   Top Categories
     
     *   Bubble Shooter
@@ -184,14 +184,14 @@ View more results
     *   Pixel Art: Color by Number
     *   Burger Restaurant Express
     *   Back To School: Princesses Rush
-    *   Love Tester 2.0
     *   Vincy Lip Care
+    *   Love Tester 2.0
     *   The Princess: Sent to the Future - Dress Up Game
     *   Get Your Boyfriend
     *   Popstar Dentist
     *   Ella: Hips Surgery
-    *   Extreme Dental Emergency
     *   Princess Rivalry
+    *   Extreme Dental Emergency
 *   Top Categories
     
     *   BMX Games
@@ -219,8 +219,8 @@ View more results
     *   Country Ride: Race Car Game
     *   Uphill Rush 7: Waterpark
     *   Bike Racing: Motorcycle Game
-    *   Happy Wheels
     *   Agame Stunt Cars
+    *   Happy Wheels
     *   Rally Point 2: Dirt Track Racing Game
     *   Moto X3M: Motorcycle Racing Game
     *   Neon Biker
