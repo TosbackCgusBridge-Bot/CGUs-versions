@@ -210,16 +210,16 @@ New York, NY 10001.**
     *   Recent
     
     *   Radiohead sells recordings to public after 'Creep' hacker threatens to leak them
-    *   Windows 10 zero-day vulnerability released, Microsoft in the dark
     *   Rapper Dave East nudes reportedly leaked
     *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
     *   Spirit AeroSystems confirms ASCO Industries cyberattack
+    *   Article 29 Working Party still not happy with Windows 10 privacy controls
     
-    *   ASCO Industries confirms ransomware attack
-    *   EatStreet data breach affecting diners, restaurants and delivery firms
-    *   The picture of threat intelligence
-    *   Phishing campaign impersonates email alerts from DHS
-    *   Hoax PC cleaner software on the rise, report
+    *   Mirai malware family variants rack up exploit totals
+    *   Who goes there?
+    *   Instagram testing simpler method to retrieve hacked accounts
+    *   Black Hat withdraws Hurd as speaker one day after naming him keynoter
+    *   Plurox backdoor opens up networks to cryptominers and protocol exploits
     
     *   Apple releases eight updates for AirPort Base Station bugs
     *   Apache advisory addresses incomplete Tomcat update
