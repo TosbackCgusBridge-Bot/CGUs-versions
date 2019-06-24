@@ -29,26 +29,20 @@ Shop Departments
 
 Near YouFind a StoreBackRecommended for You
 
-*   POWER PENNEY DEAL!
-    
-    $5 sale
-    
-    was $19 | 73% offa.n.a Womens Round Neck Sleeveless Tank Top(12)
 *   from$1299 sale
     
-    was $32 | 54 - 59% offSt. John's Bay Secretly Slender Mid Rise Capris(135)
-*   from$1350 sale
+    was $32 | 54 - 59% offSt. John's Bay Secretly Slender Mid Rise Capris(136)
+*   $699 sale
     
-    was $27 | 46 - 50% offLiz Claiborne-Womens Round Neck Short Sleeve T-Shirt(34)
+    was $17 | 58% offa.n.a Womens V Neck Sleeveless Tank Top(56)
 *   $1999 sale
     
     was $50 | 60% offArizona Forum Womens Footbed Sandals(18)
-*   from$699 sale
-    
-    was $17 - $19 | 47 - 58% offa.n.a Womens Scoop Neck Short Sleeve T-Shirt(228)
+*   from$1444after couponwas $22 - $90 JCPenney Home™ Ultima Bath Rug Collection(699)
 *   POWER PENNEY DEAL!
     
-    from$765after couponwas $26 - $60 Home Expressions Microfiber Plus Easy Care Wrinkle Resistant Sheet Set(1529)
+    $8after couponwas $40 Stafford Men's Regular-Fit Easy-Care Stretch Dress Shirt(76)
+*   from$169after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(185)
 
 Shop and Save at JCPenney
 
