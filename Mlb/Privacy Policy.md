@@ -95,6 +95,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Scores News Video Standing
     *   Buy MLB.TV Gift Cards
     *   MLB.TV Supported Devices
     *   MLB.TV with Extra Innings
+    *   MLB.TV with Amazon Prime
     *   MLB.TV Help Center/FAQs
     *   MLB.TV Blackouts FAQ
     *   MLB.TV National Blackout Schedule
