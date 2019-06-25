@@ -40,20 +40,20 @@ Stock Quote and Chart
 
 Price
 
-$2.01
+$1.88
 
 Change
 
-+0.05
+\-0.13
 
 Percent Change
 
-(0.00%)
+(-6.47%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Jun 19, 2019 Office Depot, Inc. Releases Sustainability Report Announcing New Sustainability Goals view more Recent News Jun 19, 2019 Office Depot, Inc. Releases Sustainability Report Announcing New Sustainability Goals view more Events Jun 5, 2019 at 4:55 PM EDT Office Depot Presents at Baird’s Global Consumer, Technology &. Services Conference view more Events Jun 5, 2019 at 4:55 PM EDT Office Depot Presents at Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 05, 2019 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 05, 2019 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more
+Recent News Jun 24, 2019 Office Depot, Inc. Announces Mick Slattery as President of CompuCom view more Recent News Jun 24, 2019 Office Depot, Inc. Announces Mick Slattery as President of CompuCom view more Events Jun 5, 2019 at 4:55 PM EDT Office Depot Presents at Baird’s Global Consumer, Technology &. Services Conference view more Events Jun 5, 2019 at 4:55 PM EDT Office Depot Presents at Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 05, 2019 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 05, 2019 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more
 
 *   Home
 *   News &. Events
