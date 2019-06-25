@@ -89,7 +89,6 @@ Yes, I’d like to receive news and marketing communications from MetrixLab by e
 *   Client login
     *   Insights
     *   Portal
-    *   Survey manager
 
 *   Careers
     *   About us
