@@ -5,41 +5,41 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Toy Story 4
+    *   Child's Play (2019)
+    *   Aladdin (2019)
     *   Men in Black: International
     *   The Secret Life of Pets 2
-    *   Aladdin (2019)
-    *   Dark Phoenix
     *   Rocketman
-    *   Shaft (2019)
-    *   Godzilla: King of the Monsters (2019)
     *   John Wick: Chapter 3 – Parabellum
-    *   Late Night (2019)
-    *   Ma (2019)
-    *   Avengers: Endgame (2019)
+    *   Godzilla: King of the Monsters (2019)
+    *   Dark Phoenix
+    *   Shaft (2019)
+    *   Anna (2019)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Anna (2019)
-    *   Child's Play (2019)
-    *   Toy Story 4
-    *   Wild Rose (2019)
-    *   Burn Your Maps
-    *   Round of Your Life
-    *   Swinging Safari
-    *   Toni Morrison: The Pieces I Am
+    *   Annabelle Comes Home
+    *   Yesterday (2019)
+    *   The Last Whistle
+    *   Maiden
+    *   Ophelia
+    *   The Other Side of Heaven 2: Fire of Faith
+    *   Three Peaks
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Annabelle Comes Home
-    *   Yesterday (2019)
     *   Spider-Man: Far From Home (2019)
     *   Midsommar
     *   Crawl (2019)
     *   Stuber
     *   The Lion King (2019)
     *   Once Upon a Time in Hollywood
+    *   Hobbs and Shaw
+    *   Dora and the Lost City of Gold
+    *   Scary Stories to Tell in the Dark
     *   See All Coming Soon
     
     Explore More
@@ -67,7 +67,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Next 3 Alien-Future Movies: 'Ad Astra,' 'Terminator: Dark Fate,' 'Gemini Man' Read More
+    *   Today in Movie Culture: ‘Toy Story 4’ Easter Eggs, the Difference Between Disney and Pixar Villains and More Read More
     *   Today in Movie Culture: What Makes Pixar Movies So Special, ‘The Dead Don’t Die’ Director Commentary and More Read More
     *   The Week in Movie News: Pixar Announces New Movie ‘Soul,’ ‘Hunger Games’ Prequel in the Works and More Read More
     
