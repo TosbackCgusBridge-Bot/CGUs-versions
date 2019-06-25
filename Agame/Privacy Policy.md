@@ -93,8 +93,8 @@ View more results
     *   Ultimate Boxing
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Short Life
-    *   Pixel Apocalypse
     *   Stickman Archer 2
+    *   Pixel Apocalypse
     *   Combat Strike 2: 3D Shooting Game Online Multiplayer
 *   Top Categories
     
@@ -127,7 +127,7 @@ View more results
     *   Five Nights at Freddy's 4
     *   FNAF World
     *   Vex 4
-    *   Clean Bathroom Escape
+    *   Five Nights at Freddy's: Sister Location
 *   Top Categories
     
     *   Bubble Shooter
@@ -254,7 +254,7 @@ View more results
     *   8-Ball
     *   Bouncy Dunk
     *   Pinch Hitter 3
-    *   Flip Master
+    *   Flip Diving
 *   *   Multiplayer
     *   Action
     *   Adventure
