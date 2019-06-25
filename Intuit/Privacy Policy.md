@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   My AccountSign InSign InNew Customer? Register Here
+*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -27,22 +27,18 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackRecommended for You
+Near YouFind a StoreBack40 TO 60% OFF HOME SALE select stylesUP TO 60% OFF FURNITURE &. MATTRESSES select stylesUP TO 70% OFF OUTDOOR OASIS select styles | EXPLORE THE BUYING GUIDEDORM 101 Little spaces, lofty ideas. The 2019 dorm collection offers design inspiration to make far away feel like home.$10 OFF $50 OR MORE KIDS’ UNIFORMS, APPAREL &. ACCESSORIES WITH CODE: UNIFORM7 | get detailsRecommended for You
 
-*   from$1299 sale
+*   $375after couponwas $19 a.n.a Womens Round Neck Sleeveless Tank Top(13)
+*   from$486after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(693)
+*   BIG BUY!
     
-    was $32 | 54 - 59% offSt. John's Bay Secretly Slender Mid Rise Capris(136)
-*   $699 sale
+    from$1124after couponwas $50 - $159 550tc UltraFit Performance Sheet Set - Studio™(1697)
+*   from$149after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(185)
+*   BIG BUY!
     
-    was $17 | 58% offa.n.a Womens V Neck Sleeveless Tank Top(56)
-*   $1999 sale
-    
-    was $50 | 60% offArizona Forum Womens Footbed Sandals(18)
-*   from$1444after couponwas $22 - $90 JCPenney Home™ Ultima Bath Rug Collection(699)
-*   POWER PENNEY DEAL!
-    
-    $8after couponwas $40 Stafford Men's Regular-Fit Easy-Care Stretch Dress Shirt(76)
-*   from$169after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(185)
+    from$150after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(140)
+*   $749after couponwas $17 a.n.a Womens V Neck Sleeveless Tank Top(56)
 
 Shop and Save at JCPenney
 
