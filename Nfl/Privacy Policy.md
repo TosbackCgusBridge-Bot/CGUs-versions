@@ -28,7 +28,7 @@
 *   NFL 100
 
 *   NFL 100
-*   Shop
+*   Draft
 
 *   *   Game Pass
     *   Super Bowl
