@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1386 games
-*   Most Popular Games 19396 games
+*   Best of new games 1390 games
+*   Most Popular Games 19407 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,197 games
-*   Driving &. Racing Games 6,817 games
+*   Games for girls 24,198 games
+*   Driving &. Racing Games 6,820 games
 *   Strategy &. RPG Games 2,420 games
 *   Management Games 3,655 games
-*   Thinking Games 12,162 games
-*   Action &. Adventure Games 16,214 games
-*   Sports Games 2,253 games
-*   Shooting Games 8,479 games
+*   Thinking Games 12,165 games
+*   Action &. Adventure Games 16,217 games
+*   Sports Games 2,254 games
+*   Shooting Games 8,480 games
 *   Fighting Games 2,093 games
-*   Skill Games 11,267 games
-*   Arcade &. Classic Games 13,043 games
+*   Skill Games 11,276 games
+*   Arcade &. Classic Games 13,047 games
 *   Fun &. Crazy Games 2,543 games
 
 Play with friends  
-Powered by Y8 Account 128 Y8 Multiplayer Games 2,039 Y8 High Score Games 1,155 Y8 Achievements Games 821 Y8 Screenshots Games 1,462 Y8 Online Save Games 3,095 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 128 Y8 Multiplayer Games 2,039 Y8 High Score Games 1,155 Y8 Achievements Games 821 Y8 Screenshots Games 1,463 Y8 Online Save Games 3,095 All Y8 Games Games Last Highscore:
 
-**85** points on Pizza Party by NINJA
+**4,564,999** points on Throne Defender by Outpost
 
 Help us improve Bad translation? Social
 
