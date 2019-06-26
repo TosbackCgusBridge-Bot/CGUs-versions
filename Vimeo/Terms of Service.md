@@ -1,6 +1,6 @@
 Vimeo Terms of Service Agreement
 
-Last Updated: March 27, 2019
+Last Updated: June 26, 2019
 
 This **Vimeo Terms of Service Agreement** (the “**Agreement**” or “**Terms of Service**”) is made between Vimeo, Inc. (“**Vimeo**,” “**we**,” “**us**,” or “**our**”) and you, our customer (“**you**” or “**your**”). Vimeo provides online video hosting and sharing services through our owned-and-operated websites, applications, and embeddable video players (collectively, the “**Services**”). This Agreement governs your use of our Services.
 
@@ -37,11 +37,11 @@ This Agreement includes our Privacy Policy and the addenda listed in **Section 1
 *   Embed our embeddable video player on third-party websites. and
 *   Use all related functionality that we may provide.
 
-The features available to you will depend on your plan. We may change features from time to time. If you have a paid account, we commit to providing the core video hosting and streaming features of your plan (including the bandwidth and storage capabilities stated at the time of purchase) during your current service period. We reserve the right to charge for excessive use of bandwidth where plays occur on third-party sites and applications outside our embeddable video player or Apps.
+The features available to you will depend on your plan. We may change features from time to time. If you have a paid account, we commit to providing the core video hosting and streaming features of your plan (including the bandwidth and storage capabilities stated at the time of purchase) during your current service period. We may charge for excessive bandwidth use when: (1) plays occur on third-party sites without using our embeddable video player. (2) plays occur within third-party apps (e.g., mobile or connected TV apps). (3) you monetize Vimeo-hosted videos using a third-party payment solution. or (4) you use our video player with a third-party advertising solution.
 
 **Transactions:** We may offer digital goods for sale. Purchases of Vimeo On Demand videos are governed by our Vimeo On Demand Viewer Agreement. Purchases of Vimeo Stock footage and licenses are governed by our Vimeo Stock License Agreement.
 
-**Monetization:** We may allow you to sell digital goods or earn money through advertising. Your sales of videos are governed by our Seller Addendum. If you directly monetize any video we host through a third-party payment solution, you will be deemed to be using an “application” governed by our API License Addendum.
+**Monetization:** We may allow you to sell digital goods or earn money through advertising. Your sales of videos are governed by our Seller Addendum.
 
 **Downloadable Software:** We may offer applications for devices (“**Apps**”) directly or through third-party stores. Apps are governed by our App Addendum.
 
@@ -114,6 +114,9 @@ You may not submit any content that:
 *   Depicts animal cruelty or extreme violence towards animals;
 *   Promotes fraudulent or dubious business schemes or proposes an unlawful transaction. or
 *   Violates any applicable law.
+*   Makes false or misleading claims about vaccination safety
+*   Claims that mass tragedies are hoaxes or false flag operations
+*   Depicts or encourages self-harm
 
 Please see the Vimeo Guidelines for guidance on how we interpret these terms.
 
