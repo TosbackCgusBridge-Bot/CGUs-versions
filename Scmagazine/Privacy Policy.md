@@ -216,22 +216,22 @@ Attention: Chief Digital Officer
     *   Recent
     
     *   Radiohead sells recordings to public after 'Creep' hacker threatens to leak them
+    *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
     *   Rapper Dave East nudes reportedly leaked
-    *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
+    *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
     *   Spirit AeroSystems confirms ASCO Industries cyberattack
-    *   Article 29 Working Party still not happy with Windows 10 privacy controls
     
-    *   Chrome updates improve security, privacy for extensions
-    *   Cisco announced 26 vulnerabilities in over the last two days, three critical
-    *   Ransomware: Make it stop!
+    *   Cybersecurity executive changes
+    *   Maryland governor goes on a cybersecurity rampage
+    *   Oracle releases second WebLogic Server patch in two months
+    *   Netflix patches Linux SACK vulnerability
     *   The picture of threat intelligence
-    *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
     
-    *   Bird Miner cryptominer targets Macs, emulates Linux
-    *   Construction industry staffers most vulnerable to phishing scams, report
-    *   Dell SupportAssist bug leaves millions of PCs vulnerable
-    *   Social Engineered hacked, user data leaked, dumped on rival site
-    *   Jury awards Minneapolis officer punitive damages for illegal searches of her DMV records
+    *   GOP senators nix vote on Election Security Act, similar bills wend their way through Congress
+    *   Mueller will testify publicly before House Intelligence, Judiciary Committees after subpoenas
+    *   Microsoft's familiar refrain: Disable macros to avoid malware campaign running FlawedAmmyy trojan
+    *   Riltok banking trojan begins targeting Europe
+    *   Sodinokibi ransomware campaigns span growing array of attack vectors
 
 Back to Top
 
