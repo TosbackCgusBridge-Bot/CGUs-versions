@@ -107,7 +107,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Scores News Video Standing
     *   Big League Tours
     *   Autism Awareness
     *   Fan Value
-    *   StubHub.comBig League Tours Bank of America
+    *   StubHub.comBig League Tours
 *   Apps Apps Apps
     *   MLB At Bat
     *   MLB Ballpark
