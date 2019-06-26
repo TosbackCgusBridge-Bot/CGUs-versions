@@ -59,7 +59,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    \+ 1 800 213 4848 + 1 800 213 4848
+    1 855 660 9592 1 855 660 9592
     
 
 *   Solutions By Function
@@ -117,7 +117,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    \+ 1 800 213 4848 + 1 800 213 4848
+    1 855 660 9592 1 855 660 9592
     
 
 GARTNER PRIVACY POLICY Effective Date: June 2019
