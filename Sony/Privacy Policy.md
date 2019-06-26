@@ -101,7 +101,7 @@ Search Sony Ready to Suit Up? Tom Holland Introduces Us to Peter Parker’s Newe
 
 “Spider-Man™: Far From Home” Swings into Theaters Next Week
 
-<img class="bg-img" data-linkname="en:set\_a:position\_1|\_3x2-1:video:movies:SpiderManFarFromHomeClip-June-24-2019:sp:image:LkSH\_BBqow4" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Ready to Suit Up? Tom Holland Introduces Us to Peter Parker’s Newest Spidey Suits LkSH\_BBqow4 Spider-Man-Far-From-Home-Clip" data-img1x="/content/dam/sony/homepage/2019-june/6-24/spider-man-far-from-home-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-june/6-24/spider-man-far-from-home-745x500.jpg" src="/content/dam/sony/homepage/2019-june/6-24/spider-man-far-from-home-745x500.jpg" alt="Spider-Man: Far From Home"/>. <img class="bg-img" data-linkname="en:set\_a:position\_1|\_3x2-1:video:movies:SpiderManFarFromHomeClip-June-24-2019:sp:image-mobile:LkSH\_BBqow4" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Ready to Suit Up? Tom Holland Introduces Us to Peter Parker’s Newest Spidey Suits LkSH\_BBqow4 Spider-Man-Far-From-Home-Clip" data-img1x="/content/dam/sony/homepage/2019-june/6-24/spider-man-far-from-home-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-june/6-24/spider-man-far-from-home-745x500.jpg" src="/content/dam/sony/homepage/2019-june/6-24/spider-man-far-from-home-600x600.jpg" alt="Spider-Man: Far From Home"/>. Sun, Sand, and Survival – Let the “Days of Summer” Begin
+<img class="bg-img" data-linkname="en:set\_a:position\_1|\_3x2-1:video:movies:SpiderManFarFromHomeClip-June-24-2019:sp:image:Cqtfm\_1iCV0" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Ready to Suit Up? Tom Holland Introduces Us to Peter Parker’s Newest Spidey Suits Cqtfm\_1iCV0 Spider-Man-Far-From-Home-Clip" data-img1x="/content/dam/sony/homepage/2019-june/6-24/spider-man-far-from-home-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-june/6-24/spider-man-far-from-home-745x500.jpg" src="/content/dam/sony/homepage/2019-june/6-24/spider-man-far-from-home-745x500.jpg" alt="Spider-Man: Far From Home"/>. <img class="bg-img" data-linkname="en:set\_a:position\_1|\_3x2-1:video:movies:SpiderManFarFromHomeClip-June-24-2019:sp:image-mobile:Cqtfm\_1iCV0" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Ready to Suit Up? Tom Holland Introduces Us to Peter Parker’s Newest Spidey Suits Cqtfm\_1iCV0 Spider-Man-Far-From-Home-Clip" data-img1x="/content/dam/sony/homepage/2019-june/6-24/spider-man-far-from-home-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-june/6-24/spider-man-far-from-home-745x500.jpg" src="/content/dam/sony/homepage/2019-june/6-24/spider-man-far-from-home-600x600.jpg" alt="Spider-Man: Far From Home"/>. Sun, Sand, and Survival – Let the “Days of Summer” Begin
 
 Play “Call of Duty: Days of Summer” on PS4™
 
@@ -109,7 +109,7 @@ Play “Call of Duty: Days of Summer” on PS4™
 
 In The Sinking City, sanity is a precious commodity. Here are 5 things to watch out for when it hits PS4 tomorrow:  https://play.st/2Ldj8tF  pic.twitter.com/TbQa3Y5u4f
 
-15 hours ago
+1 day ago
 
 View Tweet
 
