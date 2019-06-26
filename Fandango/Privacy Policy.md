@@ -68,8 +68,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   Today in Movie Culture: ‘Toy Story 4’ Easter Eggs, the Difference Between Disney and Pixar Villains and More Read More
-    *   Today in Movie Culture: What Makes Pixar Movies So Special, ‘The Dead Don’t Die’ Director Commentary and More Read More
-    *   The Week in Movie News: Pixar Announces New Movie ‘Soul,’ ‘Hunger Games’ Prequel in the Works and More Read More
+    *   See 'Avengers: Endgame,' the year's number one movie on the big screen one more time before it leaves theaters, now with new bonus material! Read More
+    *   Next 3 Pixar Movies: 'Onward,' 'Soul,' ??? Read More
     
     Explore Content
     *   Movie Reviews
@@ -354,4 +354,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
