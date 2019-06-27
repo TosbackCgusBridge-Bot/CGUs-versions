@@ -221,17 +221,17 @@ Attention: Chief Digital Officer
     *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
     *   Spirit AeroSystems confirms ASCO Industries cyberattack
     
-    *   Cybersecurity executive changes
-    *   Maryland governor goes on a cybersecurity rampage
-    *   Oracle releases second WebLogic Server patch in two months
-    *   Netflix patches Linux SACK vulnerability
-    *   The picture of threat intelligence
-    
-    *   GOP senators nix vote on Election Security Act, similar bills wend their way through Congress
-    *   Mueller will testify publicly before House Intelligence, Judiciary Committees after subpoenas
-    *   Microsoft's familiar refrain: Disable macros to avoid malware campaign running FlawedAmmyy trojan
-    *   Riltok banking trojan begins targeting Europe
+    *   Second Florida city burned by ransomware and pays attackers
+    *   Huawei products riddled with backdoors, zero days and critical vulnerabilities
+    *   Pair of vulnerabilities could have enabled takeover of EA gamer accounts
+    *   Ransomware: There are no easy answers
     *   Sodinokibi ransomware campaigns span growing array of attack vectors
+    
+    *   Sun Prairie, Wisc. warns of data breach after intruder accesses employee email accounts
+    *   Silex bricks 2,000 plus IoT devices, 14 year-old author has bigger plans for botnet
+    *   Huawei products riddled with backdoors, zero days and critical vulnerabilities
+    *   Pair of vulnerabilities could have enabled takeover of EA gamer accounts
+    *   Six arrested in European heist that netted $27.3M in cryptocurrency
 
 Back to Top
 
