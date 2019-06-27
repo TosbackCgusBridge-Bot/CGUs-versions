@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   26\. Juni 2019
+*   27\. Juni 2019
 *   Abo
-*   DAX 12.228,44ǀ
+*   DAX 12.245,32ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
