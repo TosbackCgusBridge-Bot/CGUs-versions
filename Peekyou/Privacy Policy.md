@@ -250,7 +250,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 4% 
+Facebook 3% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -310,7 +310,7 @@ Facebook 4% 
     
 *   Show Less ...
 
-Twitter 4% 
+Twitter 3% 
 
 *   Mental Health NIMH - NIMHgov
     
@@ -356,7 +356,7 @@ Twitter 4% 
     
 *   Show Less ...
 
-Instagram 4% 
+Instagram 3% 
 
 *   \_\_privacy.policy\_\_\_ - \_\_privacy.policy\_\_\_
     
@@ -402,7 +402,7 @@ Instagram 4% 
     
 *   Show Less ...
 
-Myspace 4% 
+Myspace 3% 
 
 *   Privacy Policy - 49086242
     
@@ -426,7 +426,7 @@ Myspace 4% 
     
 *   Show Less ...
 
-Social Profiles 4% 
+Social Profiles 3% 
 
 *   Lauren Weinstein
     
@@ -468,7 +468,7 @@ Social Profiles 4% 
     
 *   Show Less ...
 
-Pinterest 4% 
+Pinterest 3% 
 
 *   Alishachawla2730 Privacypolicy - alishachawla273
     
@@ -477,7 +477,7 @@ Pinterest 4% 
 *   Policy Privacy - policyp
     
 
-Wikipedia 4% 
+Wikipedia 3% 
 
 *   Privacy policy
     
@@ -496,7 +496,7 @@ Wikipedia 4% 
     2019 Copyright. All Rights Reserved. The Sponsored Listings displayed above are served automatically by a third party. Neither Parkingcrew nor the domain owner ...
     
 
-Music 4% 
+Music 3% 
 
 *   Pandora
     
@@ -538,7 +538,7 @@ Music 4% 
     
 *   Show Less ...
 
-Web Search 4% 
+Web Search 3% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -584,15 +584,15 @@ Web Search 4% 
     
 *   Show Less ...
 
-Images 4% 
+Images 3% 
 
-9
-
-20
+3
 
 20
 
-8
+20
+
+7
 
 facebookx
 
