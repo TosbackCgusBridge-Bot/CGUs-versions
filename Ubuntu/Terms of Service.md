@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server development summary – 26 June 2019 ›
 *   The future of mobile connectivity ›
 *   Design and Web team summary – 25 June 2019 ›
 *   Statement on 32-bit i386 packages for Ubuntu 19.10 and 20.04 LTS ›
 *   ROS 2 Command Line Interface ›
-*   Kubernetes on Mac: how to set up ›
