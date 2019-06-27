@@ -22,74 +22,74 @@ Skip to main content
 *   Upcoming Vehicles
 
 *   $18,700 as shown1 2019 Yaris $15,600 starting1  
-    32/40 est MPG30 Build Specials
+    32/40 est MPG32 Build Specials
 *   Hybrid Available $25,450 as shown1 All-New 2020 Corolla $19,500 starting1  
-    31/38 est MPG34 Build Specials
+    31/38 est MPG36 Build Specials
 *   Hybrid $23,345 as shown1 First-Ever 2020 Corolla Hybrid $22,950 starting1  
-    53/52 est MPG33 Build Specials
+    53/52 est MPG35 Build Specials
 *   $24,240 as shown1 2019 Corolla Hatchback $20,140 starting1  
-    30/38 est MPG27 Build Specials
+    30/38 est MPG29 Build Specials
 *   Hybrid $27,820 as shown1 2019 Prius $23,770 starting1  
-    54/50 est MPG36 Build Specials
+    54/50 est MPG38 Build Specials
 *   Hybrid $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
-    48/43 est MPG26 Build Specials
+    48/43 est MPG28 Build Specials
 *   Hybrid Available $35,245 as shown1 2019 Camry $24,095 starting1  
     29/41 est MPG5 Build Specials
 *   Hybrid $32,975 as shown1 2019 Camry Hybrid $28,400 starting1  
     51/53 est MPG5 Build Specials
-*   Plug-In Hybrid $33,350 as shown1 2019 Prius Prime $27,350 starting1  
-    54/133 est. MPG17/MPGe18 Build Specials
+*   Plug-In Hybrid $33,895 as shown1 2020 Prius Prime $27,600 starting1  
+    54/133 est. MPG8/MPGe9 Build Specials
 *   Hybrid Available $42,350 as shown1 2019 Avalon $35,650 starting1  
-    22/32 est MPG26 Build Specials
+    22/32 est MPG28 Build Specials
 *   Hybrid $42,950 as shown1 2019 Avalon Hybrid $36,650 starting1  
-    43/44 est MPG26 Build Specials
+    43/44 est MPG28 Build Specials
 *   Fuel Cell Electric Vehicle $58,500 as shown1 2019 Mirai $58,500 starting1  
-    67/67 est. MPGe26 Specials
+    67/67 est. MPGe28 Specials
 *   $28,785 as shown1 2019 86 $26,655 starting1  
-    21/28 est MPG26 Build Specials
+    21/28 est MPG28 Build Specials
 *   $37,565 as shown1 2020 Sienna $31,415 starting1  
-    19/27 est MPG35 Build Specials
+    19/27 est MPG37 Build Specials
 
 *   $36,765 as shown1 2019 Tacoma $25,850 starting1  
     18/22 est MPG3 Build Specials
 *   $45,850 as shown1 2019 Tundra $31,670 starting1  
-    15/19 est MPG26 Build Specials
+    15/19 est MPG28 Build Specials
 
 *   $26,700 as shown1 2019 C-HR $21,145 starting1  
-    27/31 est MPG26 Build Specials
+    27/31 est MPG28 Build Specials
 *   Hybrid Available $33,650 as shown1 All-New 2019 RAV4 $25,650 starting1  
-    26/35 est MPG37 Build Specials
+    26/35 est MPG39 Build Specials
 *   Hybrid $36,110 as shown1 All-New 2019 RAV4 Hybrid $27,850 starting1  
-    41/38 est MPG37 Build Specials
+    41/38 est MPG39 Build Specials
 *   Hybrid Available $42,250 as shown1 2019 Highlander $31,680 starting1  
-    21/27 est MPG26 Build Specials
+    21/27 est MPG28 Build Specials
 *   Hybrid $49,375 as shown1 2019 Highlander Hybrid $37,320 starting1  
-    30/28 est MPG26 Build Specials
+    30/28 est MPG28 Build Specials
 *   $40,395 as shown1 2019 4Runner $35,310 starting1  
-    17/21 est MPG26 Build Specials
+    17/21 est MPG28 Build Specials
 *   $57,545 as shown1 2019 Sequoia $49,050 starting1  
-    13/17 est MPG25 Build Specials
+    13/17 est MPG27 Build Specials
 *   $85,165 as shown1 2019 Land Cruiser $85,165 starting1  
-    13/18 est MPG26 Build Specials
+    13/18 est MPG28 Build Specials
 
 *   Hybrid $32,975 as shown1 2019 Camry Hybrid $28,400 starting1  
     51/53 est MPG5 Build Specials
 *   Hybrid $23,345 as shown1 First-Ever 2020 Corolla Hybrid $22,950 starting1  
-    53/52 est MPG33 Build Specials
+    53/52 est MPG35 Build Specials
 *   Hybrid $42,950 as shown1 2019 Avalon Hybrid $36,650 starting1  
-    43/44 est MPG26 Build Specials
+    43/44 est MPG28 Build Specials
 *   Hybrid $36,110 as shown1 All-New 2019 RAV4 Hybrid $27,850 starting1  
-    41/38 est MPG37 Build Specials
+    41/38 est MPG39 Build Specials
 *   Hybrid $49,375 as shown1 2019 Highlander Hybrid $37,320 starting1  
-    30/28 est MPG26 Build Specials
-*   Plug-In Hybrid $33,350 as shown1 2019 Prius Prime $27,350 starting1  
-    54/133 est. MPG17/MPGe18 Build Specials
+    30/28 est MPG28 Build Specials
+*   Plug-In Hybrid $33,895 as shown1 2020 Prius Prime $27,600 starting1  
+    54/133 est. MPG8/MPGe9 Build Specials
 *   Hybrid $27,820 as shown1 2019 Prius $23,770 starting1  
-    54/50 est MPG36 Build Specials
+    54/50 est MPG38 Build Specials
 *   Hybrid $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
-    48/43 est MPG26 Build Specials
+    48/43 est MPG28 Build Specials
 *   Fuel Cell Electric Vehicle $58,500 as shown1 2019 Mirai $58,500 starting1  
-    67/67 est. MPGe26 Specials
+    67/67 est. MPGe28 Specials
 
 *   All-New 2020 GR Supra View More Info
 *   2020 Tacoma View More Info
@@ -124,39 +124,39 @@ View All Vehicles
 *   Shopping Tools
 
 Cars &. Minivan $18,700 as shown1 2019 Yaris $15,600 starting1  
-32/40 est MPG30 Hybrid Available $25,450 as shown1 All-New 2020 Corolla $19,500 starting1  
-31/38 est MPG34 Hybrid $23,345 as shown1 First-Ever 2020 Corolla Hybrid $22,950 starting1  
-53/52 est MPG33 $24,240 as shown1 2019 Corolla Hatchback $20,140 starting1  
-30/38 est MPG27 Hybrid $27,820 as shown1 2019 Prius $23,770 starting1  
-54/50 est MPG36 Hybrid $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
-48/43 est MPG26 Hybrid Available $35,245 as shown1 2019 Camry $24,095 starting1  
+32/40 est MPG32 Hybrid Available $25,450 as shown1 All-New 2020 Corolla $19,500 starting1  
+31/38 est MPG36 Hybrid $23,345 as shown1 First-Ever 2020 Corolla Hybrid $22,950 starting1  
+53/52 est MPG35 $24,240 as shown1 2019 Corolla Hatchback $20,140 starting1  
+30/38 est MPG29 Hybrid $27,820 as shown1 2019 Prius $23,770 starting1  
+54/50 est MPG38 Hybrid $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
+48/43 est MPG28 Hybrid Available $35,245 as shown1 2019 Camry $24,095 starting1  
 29/41 est MPG5 Hybrid $32,975 as shown1 2019 Camry Hybrid $28,400 starting1  
-51/53 est MPG5 Plug-In Hybrid $33,350 as shown1 2019 Prius Prime $27,350 starting1  
-54/133 est. MPG17/MPGe18 Hybrid Available $42,350 as shown1 2019 Avalon $35,650 starting1  
-22/32 est MPG26 Hybrid $42,950 as shown1 2019 Avalon Hybrid $36,650 starting1  
-43/44 est MPG26 Fuel Cell Electric Vehicle $58,500 as shown1 2019 Mirai $58,500 starting1  
-67/67 est. MPGe26 $28,785 as shown1 2019 86 $26,655 starting1  
-21/28 est MPG26 $37,565 as shown1 2020 Sienna $31,415 starting1  
-19/27 est MPG35 Trucks $36,765 as shown1 2019 Tacoma $25,850 starting1  
+51/53 est MPG5 Plug-In Hybrid $33,895 as shown1 2020 Prius Prime $27,600 starting1  
+54/133 est. MPG8/MPGe9 Hybrid Available $42,350 as shown1 2019 Avalon $35,650 starting1  
+22/32 est MPG28 Hybrid $42,950 as shown1 2019 Avalon Hybrid $36,650 starting1  
+43/44 est MPG28 Fuel Cell Electric Vehicle $58,500 as shown1 2019 Mirai $58,500 starting1  
+67/67 est. MPGe28 $28,785 as shown1 2019 86 $26,655 starting1  
+21/28 est MPG28 $37,565 as shown1 2020 Sienna $31,415 starting1  
+19/27 est MPG37 Trucks $36,765 as shown1 2019 Tacoma $25,850 starting1  
 18/22 est MPG3 $45,850 as shown1 2019 Tundra $31,670 starting1  
-15/19 est MPG26 Crossovers &. SUVs $26,700 as shown1 2019 C-HR $21,145 starting1  
-27/31 est MPG26 Hybrid Available $33,650 as shown1 All-New 2019 RAV4 $25,650 starting1  
-26/35 est MPG37 Hybrid $36,110 as shown1 All-New 2019 RAV4 Hybrid $27,850 starting1  
-41/38 est MPG37 Hybrid Available $42,250 as shown1 2019 Highlander $31,680 starting1  
-21/27 est MPG26 Hybrid $49,375 as shown1 2019 Highlander Hybrid $37,320 starting1  
-30/28 est MPG26 $40,395 as shown1 2019 4Runner $35,310 starting1  
-17/21 est MPG26 $57,545 as shown1 2019 Sequoia $49,050 starting1  
-13/17 est MPG25 $85,165 as shown1 2019 Land Cruiser $85,165 starting1  
-13/18 est MPG26 Hybrids &. Fuel Cell Hybrid $32,975 as shown1 2019 Camry Hybrid $28,400 starting1  
+15/19 est MPG28 Crossovers &. SUVs $26,700 as shown1 2019 C-HR $21,145 starting1  
+27/31 est MPG28 Hybrid Available $33,650 as shown1 All-New 2019 RAV4 $25,650 starting1  
+26/35 est MPG39 Hybrid $36,110 as shown1 All-New 2019 RAV4 Hybrid $27,850 starting1  
+41/38 est MPG39 Hybrid Available $42,250 as shown1 2019 Highlander $31,680 starting1  
+21/27 est MPG28 Hybrid $49,375 as shown1 2019 Highlander Hybrid $37,320 starting1  
+30/28 est MPG28 $40,395 as shown1 2019 4Runner $35,310 starting1  
+17/21 est MPG28 $57,545 as shown1 2019 Sequoia $49,050 starting1  
+13/17 est MPG27 $85,165 as shown1 2019 Land Cruiser $85,165 starting1  
+13/18 est MPG28 Hybrids &. Fuel Cell Hybrid $32,975 as shown1 2019 Camry Hybrid $28,400 starting1  
 51/53 est MPG5 Hybrid $23,345 as shown1 First-Ever 2020 Corolla Hybrid $22,950 starting1  
-53/52 est MPG33 Hybrid $42,950 as shown1 2019 Avalon Hybrid $36,650 starting1  
-43/44 est MPG26 Hybrid $36,110 as shown1 All-New 2019 RAV4 Hybrid $27,850 starting1  
-41/38 est MPG37 Hybrid $49,375 as shown1 2019 Highlander Hybrid $37,320 starting1  
-30/28 est MPG26 Plug-In Hybrid $33,350 as shown1 2019 Prius Prime $27,350 starting1  
-54/133 est. MPG17/MPGe18 Hybrid $27,820 as shown1 2019 Prius $23,770 starting1  
-54/50 est MPG36 Hybrid $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
-48/43 est MPG26 Fuel Cell Electric Vehicle $58,500 as shown1 2019 Mirai $58,500 starting1  
-67/67 est. MPGe26 Upcoming Vehicles All-New 2020 GR Supra 2020 Tacoma Hybrid Available 2020 Highlander 2020 RAV4 TRD Off-Road 2020 Yaris Hatchback 2020 Sequoia TRD Pro 2020 Land Cruiser Heritage Edition 2020 Camry TRD and Avalon TRD 2019 Supra Xfinity Series Race Car GR Supra Racing Concept All Vehicles
+53/52 est MPG35 Hybrid $42,950 as shown1 2019 Avalon Hybrid $36,650 starting1  
+43/44 est MPG28 Hybrid $36,110 as shown1 All-New 2019 RAV4 Hybrid $27,850 starting1  
+41/38 est MPG39 Hybrid $49,375 as shown1 2019 Highlander Hybrid $37,320 starting1  
+30/28 est MPG28 Plug-In Hybrid $33,895 as shown1 2020 Prius Prime $27,600 starting1  
+54/133 est. MPG8/MPGe9 Hybrid $27,820 as shown1 2019 Prius $23,770 starting1  
+54/50 est MPG38 Hybrid $23,350 as shown1 2019 Prius _c_ $21,530 starting1  
+48/43 est MPG28 Fuel Cell Electric Vehicle $58,500 as shown1 2019 Mirai $58,500 starting1  
+67/67 est. MPGe28 Upcoming Vehicles All-New 2020 GR Supra 2020 Tacoma Hybrid Available 2020 Highlander 2020 RAV4 TRD Off-Road 2020 Yaris Hatchback 2020 Sequoia TRD Pro 2020 Land Cruiser Heritage Edition 2020 Camry TRD and Avalon TRD 2019 Supra Xfinity Series Race Car GR Supra Racing Concept All Vehicles
 
 *   FAQ
 *   Careers
@@ -467,6 +467,8 @@ Discontinued Vehicles
 
 Compare Toyota vs. the Competition
 
+*   Toyota Sienna vs. Chrysler Pacifica  
+    
 *   Toyota Tacoma vs. Ford Ranger  
     
 *   Toyota Corolla vs. Honda Civic  
@@ -492,7 +494,7 @@ Features
 
 *   Audio Multimedia  
     
-*   Toyota Connected Services  
+*   Connected Services  
     
 *   ToyotaCare  
     
@@ -1231,7 +1233,7 @@ Helpful Links
 *   Toyota Safety Sense™
 *   Audio Multimedia
 *   Mobile Phone Compatibility
-*   Toyota Connected Services
+*   Connected Services
 *   Toyota Certified Collision Centers
 *   Toyota Mobility Feature
 *   Toyota Fleet
@@ -1277,34 +1279,36 @@ Help
 *   5\. 2019 EPA-estimated 29 city/41 hwy/34 combined mpg for Camry L. 28 city/39 hwy/32 combined mpg for LE, SE, XLE 4-Cylinder and XSE 4-Cylinder. 22 city/33 hwy/26 combined mpg for XLE V6. 22 city/32 hwy/26 combined mpg for XSE V6. 51 city/53 hwy/52 combined mpg for Hybrid LE. and 44 city/47 hwy/46 combined mpg for Hybrid SE and Hybrid XLE. Actual mileage will vary.
 *   6\. 2018 EPA-estimated 29 city/41 highway/34 combined mpg for Camry L. Actual mileage will vary.
 *   7\. 2018 EPA-estimated 29 city/41 hwy/34 combined mpg for Camry L. 28 city/39 hwy/32 combined mpg for LE, SE, XLE 4-Cylinder and XSE 4-Cylinder. 22 city/33 hwy/26 combined mpg for XLE V6. 22 city/32 hwy/26 combined mpg for XSE V6. 51 city/53 hwy/52 combined mpg for Hybrid LE. and 44 city/47 hwy/46 combined mpg for Hybrid SE and Hybrid XLE. Actual mileage will vary.
-*   8\. 2017 EPA-estimated mileage. Actual mileage will vary.
-*   9\. 2017 EPA-estimated 19 city/27 highway/22 combined mpg for Sienna FWD. Actual mileage will vary.
-*   10\. 2017 EPA-estimated 54 city/50 highway/52 combined mpg for Prius. Actual mileage will vary.
-*   11\. 2017 Prius Prime EPA-estimated combined mpg. Actual mpg will vary based on driving habits, weather, temperature and road/traffic conditions. For more information on mpg, please see www.fueleconomy.gov.
-*   12\. 2018 Prius Prime EPA-estimated combined mpg. Actual mpg will vary based on driving habits, weather, temperature and road/traffic conditions. For more information on mpg, please see www.fueleconomy.gov.
-*   13\. 2017 Prius Prime EPA-estimated combined MPGe. Actual MPGe will vary depending upon driving conditions, how you drive and maintain your vehicle, and other factors. Battery capacity will decrease with time and use. For more information, see www.fueleconomy.gov.
-*   14\. 2018 Prius Prime EPA-estimated combined MPGe. Actual MPGe will vary depending upon driving conditions, how you drive and maintain your vehicle, and other factors. Battery capacity will decrease with time and use. For more information, see www.fueleconomy.gov.
-*   15\. 2019 Prius Prime 55 city/53 hwy/54 combined mpg estimates determined by Toyota. EPA estimates not available at time of posting. Actual mileage will vary. Actual mpg will vary based on driving habits, weather, temperature and road/traffic conditions. For more information on mpg, please see www.fueleconomy.gov.
-*   16\. 2019 Prius Prime 133 combined MPGe estimate determined by Toyota. EPA estimates not available at time of posting. Actual mileage will vary. Actual MPGe will vary for many reasons including driving conditions, and how you drive and maintain/charge your vehicle. Battery capacity will decrease with time and use. See www.fueleconomy.gov
-*   17\. 2019 Prius Prime EPA-estimated 55 city/53 hwy/54 combined mpg. Actual mpg will vary based on driving habits, weather, temperature and road/traffic conditions. For more information on mpg, please see www.fueleconomy.gov.
-*   18\. 2019 Prius Prime EPA-estimated 133 combined MPGe. Actual MPGe will vary. Battery capacity will decrease with time and use. See www.fueleconomy.gov.
-*   19\. 2017 EPA-estimated 67 city/67 highway/67 combined MPGe for Mirai and 312-mile driving range. Actual mileage will vary. Range measurement pursuant to SAE J2601 standards (ambient temperature: 20°C. hydrogen tank pressure when fueled: 70 MPa). Fueling time varies with hydrogen fueling pressure and ambient temperature.
-*   20\. 2018 EPA-estimated 67 city/67 highway/67 combined MPGe for Mirai and 312-mile driving range. Actual mileage will vary. Range measurement pursuant to SAE J2601 standards (ambient temperature: 20°C. hydrogen tank pressure when fueled: 70 MPa). Fueling time varies with hydrogen fueling pressure and ambient temperature.
-*   21\. 2018 C-HR preliminary 27 city/31 highway/29 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
-*   22\. 2018 EPA-estimated 19 city/27 highway/22 combined mpg for Sienna FWD. Actual mileage will vary.
-*   23\. 2018 EPA-estimated 54 city/50 highway/52 combined mpg for Prius. Actual mileage will vary.
-*   24\. 2019 Toyota Avalon XLE preliminary 22 city/32 hwy/26 combined mpg estimates determined by Toyota. EPA estimates not available at time of posting. Actual mileage will vary.
-*   25\. 2019 preliminary mpg estimates determined by Toyota. EPA estimates not available at time of posting. Actual mileage will vary.
-*   26\. 2019 EPA-estimated mileage. Actual mileage will vary.
-*   27\. 2019 Corolla Hatchback XSE with automatic transmission preliminary 30 city/38 hwy/33 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
-*   28\. 2019 Prius LE, XLE and Limited preliminary 54 city/50 hwy/52 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
-*   29\. 2019 Sienna preliminary 19 city/27 hwy/22 combined mpg estimates determined by Toyota. EPA ratings not available at time of printing. Actual mileage will vary.
-*   30\. 2019 EPA-estimated 32 city/40 highway/35 combined mpg for Yaris with automatic transmission. Actual mileage will vary.
-*   31\. 2020 preliminary mpg estimates determined by Toyota. EPA estimates not available at time of posting. Actual mileage will vary.
-*   32\. 2020 EPA-estimated 30 city/38 highway/33 combined mpg for Corolla L and LE. Actual mileage will vary.
-*   33\. 2020 EPA-estimated 53 city/52 highway/52 combined mpg for Corolla LE Hybrid. Actual mileage will vary.
-*   34\. 2020 EPA-estimated 31 city/38 highway/34 combined mpg for Corolla XSE. Actual mileage will vary.
-*   35\. 2020 Sienna AWD preliminary 18 city/24 hwy/20 combined mpg estimates and Sienna FWD preliminary 19 city/27 hwy/22 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
-*   36\. 2019 EPA-estimated 54 city/50 hwy/52 combined mpg estimates for Prius LE, XLE and Limited. Actual mileage will vary.
-*   37\. 2019 EPA-estimated 26 city/35 hwy/30 combined mpg for RAV4 LE FWD, XLE FWD, XLE Premium FWD and Limited FWD. 27 city/34 hwy/30 combined mpg for LE AWD. 25 city/33 hwy/28 combined mpg for XLE AWD, XLE Premium AWD, Adventure and Limited AWD. and 41 city/38 hwy/40 combined mpg for RAV4 LE Hybrid, XLE Hybrid, XSE Hybrid and Limited Hybrid. Actual mileage will vary.
-*   38\. 2019 EPA-estimated 41 city/38 hwy/40 combined mpg estimates for RAV4 Hybrid AWD. Actual mileage will vary. Based on 2019 RAV4 Hybrid vs. 2019 competitors. Information from www.fueleconomy.gov as of March 4, 2019.
+*   8\. 2020 Prius Prime EPA-estimated 55 city/53 hwy/54 combined mpg. Actual mpg will vary based on driving habits, weather, temperature and road/traffic conditions. For more information on mpg, please see www.fueleconomy.gov.
+*   9\. 2020 Prius Prime EPA-estimated 133 combined MPGe. Actual MPGe will vary. Battery capacity will decrease with time and use. See www.fueleconomy.gov.
+*   10\. 2017 EPA-estimated mileage. Actual mileage will vary.
+*   11\. 2017 EPA-estimated 19 city/27 highway/22 combined mpg for Sienna FWD. Actual mileage will vary.
+*   12\. 2017 EPA-estimated 54 city/50 highway/52 combined mpg for Prius. Actual mileage will vary.
+*   13\. 2017 Prius Prime EPA-estimated combined mpg. Actual mpg will vary based on driving habits, weather, temperature and road/traffic conditions. For more information on mpg, please see www.fueleconomy.gov.
+*   14\. 2018 Prius Prime EPA-estimated combined mpg. Actual mpg will vary based on driving habits, weather, temperature and road/traffic conditions. For more information on mpg, please see www.fueleconomy.gov.
+*   15\. 2017 Prius Prime EPA-estimated combined MPGe. Actual MPGe will vary depending upon driving conditions, how you drive and maintain your vehicle, and other factors. Battery capacity will decrease with time and use. For more information, see www.fueleconomy.gov.
+*   16\. 2018 Prius Prime EPA-estimated combined MPGe. Actual MPGe will vary depending upon driving conditions, how you drive and maintain your vehicle, and other factors. Battery capacity will decrease with time and use. For more information, see www.fueleconomy.gov.
+*   17\. 2019 Prius Prime 55 city/53 hwy/54 combined mpg estimates determined by Toyota. EPA estimates not available at time of posting. Actual mileage will vary. Actual mpg will vary based on driving habits, weather, temperature and road/traffic conditions. For more information on mpg, please see www.fueleconomy.gov.
+*   18\. 2019 Prius Prime 133 combined MPGe estimate determined by Toyota. EPA estimates not available at time of posting. Actual mileage will vary. Actual MPGe will vary for many reasons including driving conditions, and how you drive and maintain/charge your vehicle. Battery capacity will decrease with time and use. See www.fueleconomy.gov
+*   19\. 2019 Prius Prime EPA-estimated 55 city/53 hwy/54 combined mpg. Actual mpg will vary based on driving habits, weather, temperature and road/traffic conditions. For more information on mpg, please see www.fueleconomy.gov.
+*   20\. 2019 Prius Prime EPA-estimated 133 combined MPGe. Actual MPGe will vary. Battery capacity will decrease with time and use. See www.fueleconomy.gov.
+*   21\. 2017 EPA-estimated 67 city/67 highway/67 combined MPGe for Mirai and 312-mile driving range. Actual mileage will vary. Range measurement pursuant to SAE J2601 standards (ambient temperature: 20°C. hydrogen tank pressure when fueled: 70 MPa). Fueling time varies with hydrogen fueling pressure and ambient temperature.
+*   22\. 2018 EPA-estimated 67 city/67 highway/67 combined MPGe for Mirai and 312-mile driving range. Actual mileage will vary. Range measurement pursuant to SAE J2601 standards (ambient temperature: 20°C. hydrogen tank pressure when fueled: 70 MPa). Fueling time varies with hydrogen fueling pressure and ambient temperature.
+*   23\. 2018 C-HR preliminary 27 city/31 highway/29 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
+*   24\. 2018 EPA-estimated 19 city/27 highway/22 combined mpg for Sienna FWD. Actual mileage will vary.
+*   25\. 2018 EPA-estimated 54 city/50 highway/52 combined mpg for Prius. Actual mileage will vary.
+*   26\. 2019 Toyota Avalon XLE preliminary 22 city/32 hwy/26 combined mpg estimates determined by Toyota. EPA estimates not available at time of posting. Actual mileage will vary.
+*   27\. 2019 preliminary mpg estimates determined by Toyota. EPA estimates not available at time of posting. Actual mileage will vary.
+*   28\. 2019 EPA-estimated mileage. Actual mileage will vary.
+*   29\. 2019 Corolla Hatchback XSE with automatic transmission preliminary 30 city/38 hwy/33 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
+*   30\. 2019 Prius LE, XLE and Limited preliminary 54 city/50 hwy/52 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
+*   31\. 2019 Sienna preliminary 19 city/27 hwy/22 combined mpg estimates determined by Toyota. EPA ratings not available at time of printing. Actual mileage will vary.
+*   32\. 2019 EPA-estimated 32 city/40 highway/35 combined mpg for Yaris with automatic transmission. Actual mileage will vary.
+*   33\. 2020 preliminary mpg estimates determined by Toyota. EPA estimates not available at time of posting. Actual mileage will vary.
+*   34\. 2020 EPA-estimated 30 city/38 highway/33 combined mpg for Corolla L and LE. Actual mileage will vary.
+*   35\. 2020 EPA-estimated 53 city/52 highway/52 combined mpg for Corolla LE Hybrid. Actual mileage will vary.
+*   36\. 2020 EPA-estimated 31 city/38 highway/34 combined mpg for Corolla XSE. Actual mileage will vary.
+*   37\. 2020 Sienna AWD preliminary 18 city/24 hwy/20 combined mpg estimates and Sienna FWD preliminary 19 city/27 hwy/22 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
+*   38\. 2019 EPA-estimated 54 city/50 hwy/52 combined mpg estimates for Prius LE, XLE and Limited. Actual mileage will vary.
+*   39\. 2019 EPA-estimated 26 city/35 hwy/30 combined mpg for RAV4 LE FWD, XLE FWD, XLE Premium FWD and Limited FWD. 27 city/34 hwy/30 combined mpg for LE AWD. 25 city/33 hwy/28 combined mpg for XLE AWD, XLE Premium AWD, Adventure and Limited AWD. and 41 city/38 hwy/40 combined mpg for RAV4 LE Hybrid, XLE Hybrid, XSE Hybrid and Limited Hybrid. Actual mileage will vary.
+*   40\. 2019 EPA-estimated 41 city/38 hwy/40 combined mpg estimates for RAV4 Hybrid AWD. Actual mileage will vary. Based on 2019 RAV4 Hybrid vs. 2019 competitors. Information from www.fueleconomy.gov as of March 4, 2019.
