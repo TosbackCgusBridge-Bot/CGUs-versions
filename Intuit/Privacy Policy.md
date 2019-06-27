@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
+*   My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -27,26 +27,26 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackUP TO 50% OFF SHORTS FOR THE FAMILY select styles30-50% OFF SWIM FOR THE FAMILY select stylesUP TO 40% OFF TEES &. TANKS FOR THE FAMILY select stylesUP TO 50% OFF HOME SALE select stylesUP TO 60% OFF FURNITURE AND MATTRESSES select stylesUP TO 70% OFF OUTDOOR OASIS select stylesDORM 101 Little spaces, lofty ideas. The 2019 dorm collection offers design inspiration to make far away feel like home.$10 OFF $50 OR MORE KIDS’ UNIFORMS, APPAREL &. ACCESSORIES WITH CODE: UNIFORM7 | get detailsRecommended for You
+Near YouFind a StoreBack FINAL HOURS OF COUPON CODEGETNOW21ENDS IN00HOURS 41MINS 15SECS See Details\*60% off $100 or more select original &. regular-priced apparel, accessories, fine &. fashion jewelry Excluded Categories: Juniors’ prom dresses, swimwear, shoes and handbags Excluded Brand: Liz Claiborne See additional exclusions below. \*40% off $40 or more select original &. regular-priced apparel, shoes, accessories, fine &. fashion jewelry \*25% off select original &. regular-priced apparel (Haggar, Lee, Gloria Vanderbilt, intimate apparel &. women’s dresses). accessories (belts &. wallets). fine &. fashion jewelry (watches). shoes (men's shoes, kids' shoes, Andrew Geller, Clarks, Easy Spirit). salon products \*EXTRA 25% off select SALE &. CLEARANCE-priced apparel, shoes, accessories, fine &. fashion jewelry &. home \*EXTRA 10% off select SALE &. CLEARANCE- priced furniture, mattresses, small electrics &. floor care OFFER DISCLAIMER &. EXCLUSIONS: \*Each offer good at jcp.com only, excluding taxes and shipping charges, 6/24/19-6/26/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Excluded Categories: Athletic Shoes, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Branded Athletic Apparel, Electronics, Food, Home Décor, In-Home Custom Design, Licensed Team Sports Merchandise, Men’s Underwear and Socks, Select National Brand Shoes, Penney Lane, Personalized Jewelry, Pet Care, Smart Home, Smartwatches, Sporting Goods &. Outdoor Gear, Toys, Travel Accessories, Wigs &. Extensions, Workwear &. Scrubs Excluded Brands: adidas, Alfred Dunner, As Seen On TV, Carhartt, Citizen Quartz, City Streets, Columbia, Champion, Converse, Crocs, Cubavera, Denizen from Levi's, Disney Collection, Disney Tsum Tsum, Dockers Apparel, Dreamgirl, Fisher-Price, Fitbit, Flexus, Garmin, Goddess Lingerie, Hunter Douglas, iRobot, Jezebel, Journee Collection, Keurig, Levi’s, Modern Bride Design Your Dream Ring, Neato Robotics, Nike, Nursemates, Propet, Puma, Reebok, Sephora, Skechers Women's Shoes, Smoky Mountain, Spring Step, Tempur-Pedic, Tervis, Tracee Ellis Ross Additionally, original and regular-priced offers do not apply to BOGO’s, 2 Or More, sale or clearance-priced items. all offers do not apply to Best Value, Daily Deals, Limited Time Specials, Purchase with Purchase items, Service Plans, Gift Cards, current orders and prior purchases, or in combination with other coupon(s). Can be combined with earned JCPenney Rewards. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code GETNOW21 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. DetailsUP TO 50% OFF SHORTS FOR THE FAMILY select styles30-50% OFF SWIM FOR THE FAMILY select stylesUP TO 40% OFF TEES &. TANKS FOR THE FAMILY select stylesUP TO 50% OFF HOME SALE select stylesUP TO 60% OFF FURNITURE AND MATTRESSES select stylesUP TO 70% OFF OUTDOOR OASIS select stylesDORM 101 Little spaces, lofty ideas. The 2019 dorm collection offers design inspiration to make far away feel like home.$10 OFF $50 OR MORE KIDS’ UNIFORMS, APPAREL &. ACCESSORIES WITH CODE: UNIFORM7 | get detailsRecommended for You
 
-*   from$149after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(187)
-*   $45
-    
-    Nike Womens Tanjun Slide Sandals(11)
 *   BIG BUY!
     
     from$150after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(141)
+*   $7
+    
+    Xersion-Womens Performance Tee(1360)
 *   BIG BUY!
     
-    from$1124after couponwas $50 - $159 550tc UltraFit Performance Sheet Set - Studio™(1697)
+    from$1124after couponwas $50 - $159 550tc UltraFit Performance Sheet Set - Studio™(1698)
+*   from$486after couponwas $26 St. John's Bay Mens Short Sleeve Polo Shirt(695)
+*   BIG BUY!
+    
+    from$150after couponwas $10 - $76 JCPenney Home Mix And Match Stripe or Leaf Bath Towel(4)
 *   BUY MORE AND SAVE WITH CODE: GETNOW21
     
     $32
     
     St. John's Bay Secretly Slender Mid Rise Capris(138)
-*   BIG BUY!
-    
-    from$150after couponwas $10 - $76 JCPenney Home Mix And Match Stripe or Leaf Bath Towel(4)
 
 Shop and Save at JCPenney
 
