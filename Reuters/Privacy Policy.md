@@ -74,7 +74,6 @@ Free trial Overview
 1.  Overview
 2.  Features
 3.  Plans and pricing
-4.  Success stories
 
 Comprehensive information and expert analysis
 
