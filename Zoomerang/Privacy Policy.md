@@ -22,7 +22,17 @@ How well do you understand your campaign performance? Follow our flowchart!
 
 Whitepaper: What makes a great ad?
 
-Our solutions Advertising &. brand Product innovation Customer value Point-of-purchase influencers Pre-testing Packaging design Social insights Case stories Edgewell measurement program Facebook video ads Amstel Bock pack design Philips concept test Yahoo ad testing Our latest research and insights Emotions sell brands: How to capture the emotional resonance of your brands, ads and products
+Our solutions Advertising &. brand Product innovation Customer value Point-of-purchase influencers Pre-testing Packaging design Social insights Case stories Co-creating with Philips Edgewell measurement program Facebook video ads Amstel Bock pack design Philips concept test Yahoo ad testing Our latest research and insights Video: How Nestlé applied best practice pack design principles for an on-shelf win
+
+Webinar: Accelerating insights with artificial intelligence and new technologies
+
+Quiz: How much do you know about the influence of the bartender?
+
+Ditch the focus group for our faster, cheaper and more agile digital alternative
+
+Video: How to maximize your Facebook and Instagram video advertising
+
+Emotions sell brands: How to capture the emotional resonance of your brands, ads and products
 
 Sell more products in store: Optimize all your sales conversion tactics
 
@@ -35,10 +45,6 @@ Broad vs narrow audiences: How to maximize the impact of your investment in mobi
 Webinar: Groundbreaking tips on DTC digital advertising
 
 Your questions about social influencers answered
-
-Whitepaper: 9 best practices for creating powerful packaging designs
-
-Click for more research, insights and news
 
 Our story
 
