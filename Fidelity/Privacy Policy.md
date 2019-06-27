@@ -79,6 +79,7 @@ Search fidelity.com or get a quote
     *   529 College Savings
     *   Annuities
     *   Life Insurance &. Long Term Care
+    *   Charitable Giving
 *   Why Fidelity
     *   The Fidelity Advantage
     *   Planning &. Advice
