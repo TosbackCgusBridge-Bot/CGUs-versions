@@ -9,38 +9,33 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
-    *   MICHELE Watches
-    *   Work Dresses ft. Tahari
-    *   Vacay Vibes: Love + Harmony
-    *   Top Hits of the Summer: Mustard Seed &. More
-    *   Badgley Mischka Shoes Up to 55% Off
-    *   CZ by Kenneth Jay Lane Jewelry
-    *   Felina Lingerie &. Sleep Incl. Full-Fit Bras
-    *   X by Gottex Up to 60% Off
-    *   Free Shipping: Sheet Sets Up to 75% Off
-    *   Espadrille Shop: Wedges &. More Up to 60% Off
-    *   T3 Luxury Hair Tools Under $100
-    *   Skinny &. Co: Five Ingredients or Less
-    *   Space Savers: Closet Organizers &. More from $10
-    *   Lucky Brand Men
-    *   Kenneth Cole Men Up to 65% Off
-    *   Casual &. Cool: Ella Moss &. More
-    *   Pink Haley Handbags
-    *   Juicy Couture Girls
-    *   Stephen Joseph
-    *   Jerusalem Sandals &. More Up to 50% Off
-    *   TUMI
+    *   adidas
+    *   adidas Active
+    *   adidas Men's Shoes
+    *   adidas Men's Active
+    *   adidas Kids
+    *   adidas Kids' Active
+    *   Tommy Bahama Men's Clothing, Shoes &. More
+    *   Tommy Bahama Clothing &. Swim
+    *   Tommy Bahama Handbags &. Luggage
+    *   Fit to Print: Summery Styles from Angie
+    *   Jumpsuits &. Rompers Under $30
+    *   Step into Comfort: Clarks, Born &. More
+    *   Planet Gold Incl. Plus
+    *   Rivka Friedman Jewelry Up to 70% Off
+    *   Lorac Starting at $10
+    *   Thalgo Anti-Aging Skin Care
+    *   Summer Suede Shoes
+    *   Tommy Bahama Kids
+    *   Tommy Bahama Bedding
+    *   Confetti
+    *   Flip-Flops ft. Rainbow
+    *   Kids' Slip-Ons from $20 ft. Native
+    *   Quiksilver Starting at $13
     *   Love Stitch
-    *   go >. by GoSilk
-    *   Prints Charming: Honey Punch &. More
-    *   Blouses Starting at $20
     
-    *   Mini Melissa
-    *   Charles by Charles David Up to 60% Off
-    *   Forgotten Grace Under $30
-    *   Open-Toe Sandals &. More Up to 60% Off
+    *   TUMI
     *   Argan Oil Hair Products from Moroccan Gold Series
-    *   Loafers &. Flats Up to 60% Off
     *   Nest Jewelry Up to 70% Off
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Volcom Men
@@ -48,87 +43,81 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Trending Now: Photographic Art &. More
     *   BH Cosmetics: Eyeshadow Palettes Under $20
     *   Besfren K-Beauty: Face Masks &. More
-    *   Born Men
     *   Free Shipping: Planters Starting at $25
     *   Living the Dream: Calming Wall Art
-    *   The Art of Clean: Sonic Brushes Up to 60% Off
-    *   PHYTO Hair Essentials
     *   Free Shipping: Shelves, Storage &. More from $10
     *   1-Up Your Tech: Gaming Accessories from $16
-    *   Bluetooth Solutions: Headphones &. More
-    *   Free Shipping: Summer Bedding Up to 50% Off
-    *   Free Shipping: Wall Art &. More
     *   Walk Ready: Dog Accessories from $19
     *   Free Shipping: Comforters &. More Up to 50% Off
-    
-    *   Men's Accessories Up to 80% Off ft. Cole Haan
-    *   Keep It Casual: Styles Up to 75% Off
-    *   Miu Miu &. More: Sun Under $100
-    *   Kids' Style Blowout
+    *   Pet Accessories Blowout
     *   Storage Steals Up to 65% Off
     *   Men's Shoes Up to 70% Off
     *   Terre Mere Organic Beauty Up to 75% Off
     *   Rodial Skin Care Up to 80% Off
-    *   Sandals &. More Up to 65% Off
-    *   Gemstones &. More Under $80
-    *   Sam Edelman Up to 60% Off
-    *   Sapanyu Jewelry: Raw Gems, Stacking Rings, &. More
-    *   Tummy Time Style: Bunnies by the Bay &. More
-    *   Summer BBQ Ready: Men's Styles
-    *   Mix &. Match: Suit Separates and More
-    *   Laura Mercier Up to 55% Off
     *   Hit Snooze: Bedding Essentials Up to 75% Off
     *   Swims &. More Up to 50% Off
-    *   Wacoal
-    *   Max Studio
-    *   Sheet Sets Up to 70% Off
-    *   Lole Active
-    *   Lola Made in Italy Up to 70% Off
-    *   Pet Accessories Blowout
     *   NutriChef Kitchen Electrics Up to 55% Off
-*   WomenShop Sale Events
+    *   Pink Haley Handbags
     
-    *   MICHELE Watches
-    *   Work Dresses ft. Tahari
-    *   Vacay Vibes: Love + Harmony
-    *   Top Hits of the Summer: Mustard Seed &. More
-    *   Badgley Mischka Shoes Up to 55% Off
-    *   CZ by Kenneth Jay Lane Jewelry
+    *   Space Savers: Closet Organizers &. More from $10
     *   Felina Lingerie &. Sleep Incl. Full-Fit Bras
     *   X by Gottex Up to 60% Off
-    *   Espadrille Shop: Wedges &. More Up to 60% Off
+    *   Jerusalem Sandals &. More Up to 50% Off
+    *   Kenneth Cole Men Up to 65% Off
     *   T3 Luxury Hair Tools Under $100
-    *   Skinny &. Co: Five Ingredients or Less
+    *   Lucky Brand Men
+    *   Stephen Joseph
     *   Casual &. Cool: Ella Moss &. More
-    *   Pink Haley Handbags
-    *   TUMI
-    *   Love Stitch
-    *   go >. by GoSilk
-    *   Prints Charming: Honey Punch &. More
-    *   Blouses Starting at $20
-    *   Charles by Charles David Up to 60% Off
-    *   Forgotten Grace Under $30
-    *   Open-Toe Sandals &. More Up to 60% Off
+    *   Badgley Mischka Shoes Up to 55% Off
+    *   Skinny &. Co: Five Ingredients or Less
+    *   MICHELE Watches
+    *   Vacay Vibes: Love + Harmony
+    *   Top Hits of the Summer: Mustard Seed &. More
+    *   Work Dresses ft. Tahari
+    *   Free Shipping: Sheet Sets Up to 75% Off
+    *   Espadrille Shop: Wedges &. More Up to 60% Off
+    *   CZ by Kenneth Jay Lane Jewelry
+    *   Sheet Sets Up to 70% Off
+    *   Lola Made in Italy Up to 70% Off
+    *   Juicy Couture Girls
+    *   Mini Melissa
+*   WomenShop Sale Events
     
+    *   adidas
+    *   adidas Active
+    *   Tommy Bahama Clothing &. Swim
+    *   Tommy Bahama Handbags &. Luggage
+    *   Fit to Print: Summery Styles from Angie
+    *   Jumpsuits &. Rompers Under $30
+    *   Step into Comfort: Clarks, Born &. More
+    *   Planet Gold Incl. Plus
+    *   Rivka Friedman Jewelry Up to 70% Off
+    *   Lorac Starting at $10
+    *   Thalgo Anti-Aging Skin Care
+    *   Summer Suede Shoes
+    *   Flip-Flops ft. Rainbow
+    *   Love Stitch
+    *   TUMI
     *   Argan Oil Hair Products from Moroccan Gold Series
-    *   Loafers &. Flats Up to 60% Off
     *   Nest Jewelry Up to 70% Off
     *   BH Cosmetics: Eyeshadow Palettes Under $20
+    
     *   Besfren K-Beauty: Face Masks &. More
-    *   The Art of Clean: Sonic Brushes Up to 60% Off
-    *   PHYTO Hair Essentials
-    *   Keep It Casual: Styles Up to 75% Off
-    *   Miu Miu &. More: Sun Under $100
     *   Terre Mere Organic Beauty Up to 75% Off
     *   Rodial Skin Care Up to 80% Off
-    *   Sandals &. More Up to 65% Off
-    *   Gemstones &. More Under $80
-    *   Sam Edelman Up to 60% Off
-    *   Sapanyu Jewelry: Raw Gems, Stacking Rings, &. More
-    *   Laura Mercier Up to 55% Off
-    *   Wacoal
-    *   Max Studio
-    *   Lole Active
+    *   Pink Haley Handbags
+    *   Felina Lingerie &. Sleep Incl. Full-Fit Bras
+    *   X by Gottex Up to 60% Off
+    *   T3 Luxury Hair Tools Under $100
+    *   Casual &. Cool: Ella Moss &. More
+    *   Badgley Mischka Shoes Up to 55% Off
+    *   Skinny &. Co: Five Ingredients or Less
+    *   MICHELE Watches
+    *   Vacay Vibes: Love + Harmony
+    *   Top Hits of the Summer: Mustard Seed &. More
+    *   Work Dresses ft. Tahari
+    *   Espadrille Shop: Wedges &. More Up to 60% Off
+    *   CZ by Kenneth Jay Lane Jewelry
     *   Lola Made in Italy Up to 70% Off
     
     Shop By Category
@@ -136,23 +125,23 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Shoes
     *   Lingerie
     *   Jewelry
-    *   Accessories
     *   Handbags
     *   Watches
+    *   Accessories
 *   MenShop Sale Events
     
-    *   Lucky Brand Men
-    *   Kenneth Cole Men Up to 65% Off
-    *   Jerusalem Sandals &. More Up to 50% Off
+    *   adidas Men's Shoes
+    *   adidas Men's Active
+    *   Tommy Bahama Men's Clothing, Shoes &. More
+    *   Quiksilver Starting at $13
     *   TUMI
     *   Volcom Men
-    *   Born Men
     
-    *   Men's Accessories Up to 80% Off ft. Cole Haan
     *   Men's Shoes Up to 70% Off
-    *   Summer BBQ Ready: Men's Styles
-    *   Mix &. Match: Suit Separates and More
     *   Swims &. More Up to 50% Off
+    *   Jerusalem Sandals &. More Up to 50% Off
+    *   Kenneth Cole Men Up to 65% Off
+    *   Lucky Brand Men
     
     Shop By Category
     *   Clothing
@@ -160,27 +149,30 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Accessories
 *   KidsShop Sale Events
     
-    *   Juicy Couture Girls
-    *   Stephen Joseph
-    *   Mini Melissa
+    *   adidas Kids
+    *   adidas Kids' Active
+    *   Tommy Bahama Kids
+    *   Confetti
+    *   Kids' Slip-Ons from $20 ft. Native
     *   Layette ft. Little Me
-    *   Kids' Style Blowout
-    *   Tummy Time Style: Bunnies by the Bay &. More
+    *   Stephen Joseph
+    *   Juicy Couture Girls
+    *   Mini Melissa
     
     Shop By Category
     *   Baby Girl
     *   Girls' Shoes
-    *   Baby Boy
     *   Girls' Sizes 2T-6X
     *   Girls' Sizes 7-16
+    *   Baby Boy
     *   The Toy Shop
+    *   Boys' Shoes
     *   Boys' Sizes 2T-7
-    *   Baby Gear &. Essentials
     *   Boys' Sizes 8-20
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
-    *   Free Shipping: Sheet Sets Up to 75% Off
-    *   Space Savers: Closet Organizers &. More from $10
+    *   Tommy Bahama Bedding
     *   TUMI
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Trending Now: Photographic Art &. More
@@ -189,15 +181,14 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Free Shipping: Shelves, Storage &. More from $10
     *   1-Up Your Tech: Gaming Accessories from $16
     
-    *   Bluetooth Solutions: Headphones &. More
-    *   Free Shipping: Summer Bedding Up to 50% Off
-    *   Free Shipping: Wall Art &. More
     *   Walk Ready: Dog Accessories from $19
     *   Free Shipping: Comforters &. More Up to 50% Off
+    *   Pet Accessories Blowout
     *   Storage Steals Up to 65% Off
     *   Hit Snooze: Bedding Essentials Up to 75% Off
+    *   Space Savers: Closet Organizers &. More from $10
+    *   Free Shipping: Sheet Sets Up to 75% Off
     *   Sheet Sets Up to 70% Off
-    *   Pet Accessories Blowout
     
     Shop By Category
     *   Bedding
@@ -206,23 +197,22 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Pet Accessories
     *   Kitchen &. Tabletop
     *   Luggage &. Travel
-    *   Tech Accessories
     *   Outdoor Living
     *   Bath
+    *   Tech Accessories
     *   Rugs &. Doormats
     *   Accent Furniture
 *   BeautyShop Sale Events
     
-    *   T3 Luxury Hair Tools Under $100
-    *   Skinny &. Co: Five Ingredients or Less
+    *   Lorac Starting at $10
+    *   Thalgo Anti-Aging Skin Care
     *   Argan Oil Hair Products from Moroccan Gold Series
     *   BH Cosmetics: Eyeshadow Palettes Under $20
     *   Besfren K-Beauty: Face Masks &. More
-    *   The Art of Clean: Sonic Brushes Up to 60% Off
-    *   PHYTO Hair Essentials
     *   Terre Mere Organic Beauty Up to 75% Off
     *   Rodial Skin Care Up to 80% Off
-    *   Laura Mercier Up to 55% Off
+    *   T3 Luxury Hair Tools Under $100
+    *   Skinny &. Co: Five Ingredients or Less
     
     Shop By Category
     *   Makeup
