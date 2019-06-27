@@ -112,11 +112,11 @@ You may not submit any content that:
 *   Depicts unlawful acts or extreme violence;
 *   Provides instructions on how to assemble explosive/incendiary devices or homemade/improvised firearms;
 *   Depicts animal cruelty or extreme violence towards animals;
-*   Promotes fraudulent or dubious business schemes or proposes an unlawful transaction. or
+*   Promotes fraudulent or dubious business schemes or proposes an unlawful transaction;
+*   Makes false or misleading claims about vaccination safety;
+*   Claims that mass tragedies are hoaxes or false flag operations;
+*   Depicts or encourages self-harm. or
 *   Violates any applicable law.
-*   Makes false or misleading claims about vaccination safety
-*   Claims that mass tragedies are hoaxes or false flag operations
-*   Depicts or encourages self-harm
 
 Please see the Vimeo Guidelines for guidance on how we interpret these terms.
 
