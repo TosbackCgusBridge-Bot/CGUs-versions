@@ -7,361 +7,178 @@
 
   TERMS OF SERVICE Jump to Privacy Policy Terms of Service
 
-Updated as of March 22, 2018
+Updated as of June 26, 2019
 
-WE DO NOT CONDUCT CRIMINAL BACKGROUND CHECKS. PLEASE BE SAFE WHEN INTERACTING WITH USERS. Read our Online Safety tips.
+WE DO NOT CONDUCT CRIMINAL BACKGROUND CHECKS. PLEASE BE SAFE WHEN INTERACTING WITH USERS.
 
-1 This Terms of Service Agreement (the "Agreement") controls your access and use of any of the various services (the "Services") made available to you (the "Member") by The Meet Group, Inc. (“Company”) through our sites and applications, including, Tagged http://www.tagged.com, hi5 http://www.hi5.com, and any corresponding mobile applications or otherwise (“Site(s)”). 2 ONLY USERS WHO ARE 18 YEARS OF AGE OR OLDER MAY REGISTER FOR THE SITES. By accessing the services and/or completing the registration process for one of our Sites, 3 you represent that you are 18 years of age or older, and can and will be legally bound by this Agreement. By registering for one of our Sites, you represent and warrant that you are not required to register as a sex offender with any government entity. 4 No Member may participate where doing so would be prohibited by any applicable law or regulation. We have created side summaries to help you easily locate specific terms within this Agreement. These summaries are for reference only and in the event that there is a discrepancy between this Agreement and the language of the side summaries, the Agreement will prevail.
+California subscribers: You may cancel your subscription, without penalty or obligation, at any time prior to midnight of the third business day following the date you subscribed. If you subscribed using an External Service (e.g., Apple ID, Google Play), you must cancel through your External Service. If you subscribed through your Apple ID, refunds are handled by Apple, not Tagged. You can request a refund from Apple through your Apple ID account on your phone or at https://getsupport.apple.com. All other users may request a refund by contacting Tagged Member Services at support@themeetgroup.com, or by mailing or delivering a signed and dated notice that states that you, the buyer, are canceling this agreement, or words of similar effect. Please also include your name and the email address, phone number, or other unique identifier you used to sign up for your account. This notice shall be sent to: The Meet Group, Attn: Cancellations, 100 Union Square Drive, New Hope, PA 18938, USA. The Company's business is conducted, in part, at 100 Union Square Drive, New Hope, PA 18938, USA. You may have these terms of use e-mailed to you by sending a letter to Tagged Terms Inquiries, 100 Union Square Drive, New Hope, PA 18938, USA. In accordance with Cal. Civ. Code §1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting them in writing at Consumer Information Division, 1625 North Market Blvd., Suite N112 Sacramento, CA 95834, or by telephone at (800) 952-5210.
+
+This Terms of Service Agreement (the "Agreement") controls your access and use of Tagged and hi5 (collectively, the "Services") made available to you (the "Member") by The Meet Group, Inc. (“Company”). By downloading or using Tagged or hi5 you agree to this Agreement, our Privacy Policy, and our Content and Conduct Policy. The Privacy Policy and the Content and Conduct Policy are each part of this Agreement. ONLY USERS WHO ARE 18 YEARS OF AGE OR OLDER MAY REGISTER FOR THE SERVICES. By accessing the services and/or completing the registration process for one of our Services, you represent that you are 18 years of age or older, and can and will be legally bound by this Agreement. By registering for one of our Services, you represent and warrant that you are not required to register as a sex offender with any government entity. No Member may participate where doing so would be prohibited by any applicable law or regulation. We have created side summaries to help you easily locate specific terms within this Agreement. These summaries are for reference only and in the event that there is a discrepancy between this Agreement and the language of the side summaries, the Agreement will prevail.
 
 A) Changes to the Terms
 
-5 The Company reserves the right to change or amend this Agreement at any time, for any reason, or for no reason at all, at the Company’s sole discretion. The most recent version of this Agreement will be posted on the Site. 6 Although the Company will provide notice of material changes to this Agreement on the Sites, as a Member it is your sole responsibility to keep yourself informed of any such changes or amendments. 7 Should a Member object to any terms and conditions of the Agreement or any subsequent changes to the Agreement or become dissatisfied with the Company in any way, Member's only solution is to immediately: (1) discontinue use of the Site. (2) terminate their Site registration. and 8 (3) notify the Company of termination.
+The Company reserves the right to change or amend this Agreement at any time, for any reason, or for no reason at all, at the Company’s sole discretion. The most recent version of this Agreement will be posted on the Services. Although the Company will provide notice of material changes to this Agreement on the Services, as a Member it is your sole responsibility to keep yourself informed of any such changes or amendments. Should a Member object to any terms and conditions of the Agreement or any subsequent changes to the Agreement or become dissatisfied with the Company in any way, Member's only solution is to immediately: (1) discontinue use of the Services. (2) terminate their Services registration. and (3) notify the Company of termination.
 
 B) Description of Services
 
-9 As a Member, you will be provided with a variety of Services, as described on the Sites. Members may also use certain additional services offered from time to time such as shopping and e-commerce offerings and various informational services. The Company reserves the right to enhance, change, or discontinue the Services, 10 in whole or in part, at any time, for any reason, or for no reason at all, at the Company’s sole discretion, with or without notice to Members, and with no obligation to Members.
+As a Member, you will be provided with a variety of Services, as described on the Services. Members may also use certain additional services offered from time to time such as shopping and e-commerce offerings and various informational services. The Company reserves the right to enhance, change, or discontinue the Services, in whole or in part, at any time, for any reason, or for no reason at all, at the Company’s sole discretion, with or without notice to Members, and with no obligation to Members.
 
 C) Member Conduct
 
-11 Use of the Services by you, as a Member, is subject to all applicable local, state, national and international laws and regulations. The Company reserves the right, but does not assume any obligation, to monitor the Services to enforce this Agreement. 12 Nor does the Company guarantee that any monitoring it does perform will be to the Member's satisfaction. Upon learning of any violation of this Agreement, the Company, at its sole discretion, may terminate your access to and use of the Services, require you to correct such violation, and/or take any other actions that the Company deems appropriate to enforce its rights and pursue all available remedies. Without limitation, 13 the Company reserves the right to terminate your access to and use of the Services if, in our view, your conduct fails to meet any of the following guidelines:
+You must use the Services in accordance with the Content and Conduct Policy.
 
-1.  14 Members shall not engage in any harassment, including, but not limited to, excessive repetition when listing a person as a referral, repeated unwanted contact, interfering with a Member's use of site or stalking.
-2.  15 Members shall not list the email addresses of people unknown to them.
-3.  16 Members shall not list as referrals any email addresses that are fake, fictitious, or made up.
-4.  Members shall not list as referrals any email addresses which are owned by or belong to that member.
-5.  Members shall not attempt to interfere with any other person's use of the Services.
-6.  Members shall not misrepresent their identity or impersonate any person or entity, including, but not limited to, a Company employee, forum leader, guide or host.
-7.  17 Members shall not falsely represent that they are sponsored by, endorsed by, or affiliated with a Company website.
-8.  18 Members shall not use any portion of the Company Site or the Services to post, upload, email, transmit or otherwise make available junk mail, commercial advertisements, or any other form of commercial solicitation.
-9.  19 Members shall not use any portion of the Company Site or Services to post, upload, email, transmit or otherwise make available content, including user names and friend list names, that is harmful, threatening, abusive, vulgar, obscene, profane, defamatory, libelous, hateful, or racially, ethnically or otherwise objectionable.
-10.  20 Members shall not engage in any activity that is clearly offensive or promote or otherwise encourage racism, bigotry, hatred or physical harm of any kind against any group or individual.
-11.  Members shall not use any portion of Sites or Services to post, share, promote, depict, encourage, solicit or exchange Content Harmful to Minors.
-12.  Members shall not upload photos, graphics or other content that contain or promote illegal substances or activities, including, but not limited to, underage drinking or smoking, substance abuse, weapon use, or gang affiliation.
-13.  21 Members shall not post content that displays pornographic or sexually explicit material of any kind.
-14.  Members shall not provide material that exploits people under the age of 18 in a sexual or violent manner, or solicits personal information from anyone under 18.
-15.  22 Members shall not provide instructional information about illegal activities such as making or buying illegal weapons, violating someone's privacy, or providing or creating computer viruses.
-16.  23 Members shall not attempt to gain unauthorized access to the Company’s database or other computer systems.
-17.  Members shall not attempt to change, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by Company in connection with the Sites or Services.
-18.  24 Members shall not engage in any activity that disrupts, diminishes the quality of, interferes with the performance of, or impairs the functionality of, the Sites or Services.
-19.  25 Members shall not collect or store personal data about other Members in connection with the prohibited conduct and activities set forth in paragraphs #1 through #18 above.
-20.  Members shall not use any portion of the Sites or Services for any unlawful purpose.
-21.  26 Members shall not engage in any activity that solicits or is designed to solicit password or personal identifying information for commercial or unlawful purposes from other Members.
-22.  Members shall not use the account, username, or password of another Member at any time or disclose their password to any third party or permit any third party to access their account.
-23.  Members shall not post any contact information on Profile pages, Groups or Newsfeed. Contact information includes email addresses, instant messenger IDs, phone numbers and physical addresses.
-24.  Members shall not publicly post information that poses or creates a privacy or security risk to another person.
-25.  27 Members shall not attempt to buy Gold outside of the Tagged.com website
-26.  Members shall not attempt to sell Tagged Gold
-27.  Members shall not attempt to sell a user account associated with one of the Company Sites.
+Use of the Services by you, as a Member, is subject to all applicable local, state, national and international laws and regulations. The Company reserves the right, but does not assume any obligation, to monitor the Services to enforce this Agreement. Nor does the Company guarantee that any monitoring it does perform will be to the Member's satisfaction. Upon learning of any violation of this Agreement, the Company, at its sole discretion, may terminate your access to and use of the Services, require you to correct such violation, and/or take any other actions that the Company deems appropriate to enforce its rights and pursue all available remedies. Without limitation, the Company reserves the right to terminate your access to and use of the Services if, in our view, your conduct fails to meet any of the following guidelines:
 
-28 All decisions concerning the applicability of these guidelines shall be at the sole and exclusive discretion of the Company and its designees. The Company has the right in its sole discretion to pre-screen, refuse or remove any content that is available via the Sites and Services. The Company and its designees shall have the right to remove any Content that violates this Agreement or is otherwise objectionable. An account may be terminated at any time, without notice, depending on the severity of the offense, which is determined exclusively at the discretion of the Company. The Company is not obligated to provide a Member with a warning prior to removal.
+1.  Members shall not attempt to gain unauthorized access to the Company’s database or other computer systems.
+2.  Members shall not attempt to change, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by Company in connection with the Services.
+3.  Members shall not engage in any activity that disrupts, diminishes the quality of, interferes with the performance of, or impairs the functionality of, the Services.
+4.  Members shall not use the account, username, or password of another Member at any time or disclose their password to any third party or permit any third party to access their account.
+5.  Members shall not attempt to buy Gold outside of the Tagged.com website.
+6.  Members shall not attempt to sell Tagged Gold.
+7.  Members shall not attempt to sell a user account associated with one of the Services.
+
+All decisions concerning the applicability of these guidelines shall be at the sole and exclusive discretion of the Company and its designees. The Company has the right in its sole discretion to pre-screen, refuse or remove any content that is available via the Services. The Company and its designees shall have the right to remove any Content that violates this Agreement or is otherwise objectionable. An account may be terminated at any time, without notice, depending on the severity of the offense, which is determined exclusively at the discretion of the Company. The Company is not obligated to provide a Member with a warning prior to removal.
 
 D) Privacy
 
-29 The Company has established a Privacy Policy to explain to Members how their information is collected and used, which Member can read by clicking http://www.Tagged.com/terms\_of\_service.html?priv=y#privacy\_policy. The policy explains how and when the Company may use Member information and content. Member's use of the Sites or Services signifies acknowledgment of and agreement to the Company’s Privacy Policy.
+The Company has established a Privacy Policy to explain to Members how their information is collected and used. The policy explains how and when the Company may use Member information and content. Member's use of the Services signifies acknowledgment of and agreement to the Company’s Privacy Policy.
 
 E) Document Retention Schedule
 
-30 All personal information collected by the Company in connection with your use of our Sites, including, without limitation, your name, location, email address, pictures, friend connections, messages, comments, login information, IP addresses and other data, may be stored by the Company indefinitely and will be stored in a safe and secure manner.
+All personal information collected by the Company in connection with your use of the Services, including, without limitation, your name, location, email address, pictures, friend connections, messages, comments, login information, IP addresses and other data, may be stored by the Company indefinitely and will be stored in a safe and secure manner.
 
 F) Notice Regarding Commercial Email
 
-31 MEMBERS CONSENT TO RECEIVE COMMERCIAL E-MAIL MESSAGES FROM THE COMPANY, AND ACKNOWLEDGE AND AGREE THAT THEIR EMAIL ADDRESSES AND OTHER PERSONAL INFORMATION MAY BE USED BY THE COMPANY FOR THE PURPOSE OF INITIATING COMMERCIAL E-MAIL MESSAGES.
+MEMBERS CONSENT TO RECEIVE COMMERCIAL E-MAIL MESSAGES FROM THE COMPANY, AND ACKNOWLEDGE AND AGREE THAT THEIR EMAIL ADDRESSES AND OTHER PERSONAL INFORMATION MAY BE USED BY THE COMPANY FOR THE PURPOSE OF INITIATING COMMERCIAL E-MAIL MESSAGES.
 
 G) Member Account and Password
 
-32 Once Member registers for a Site, Member will have a password and an account with the Site. Member is responsible for keeping the Member's password and account confidential. Furthermore, Member is entirely responsible for any and all activities that occur under Member's account. Member agrees to immediately notify the Company of any unauthorized use of Member's account or any other breach of security known to Member.
+Once Member registers for the Services, Member will have a password and an account with the Services. Member is responsible for keeping the Member's password and account confidential. Furthermore, Member is entirely responsible for any and all activities that occur under Member's account. Member agrees to immediately notify the Company of any unauthorized use of Member's account or any other breach of security known to Member.
 
 H) Gold
 
-33 You may purchase virtual currency for use solely on the Tagged site ("Gold"). Purchases or other acquisitions of Gold provide only a limited, non-transferable, non-sublicensable, fully-revocable license to use such Gold to access Services that 34 we expressly make available for use with such Gold for your personal non-commercial use. Gold is redeemable only on the Tagged site for Tagged digital merchandise and content. Gold does not expire. Gold is non-refundable. 35 Gold has no monetary value and does not constitute currency or property of any type. Gold is not transferable or assignable. 36 You will not be entitled to a refund, money or any other compensation for unused Gold and virtual items when an account is closed, whether such closure was voluntary or involuntary.
+You may purchase virtual currency for use solely on the Tagged site ("Gold"). Purchases or other acquisitions of Gold provide only a limited, non-transferable, non-sublicensable, fully-revocable license to use such Gold to access Services that we expressly make available for use with such Gold for your personal non-commercial use. Gold is redeemable only on the Tagged site for Tagged digital merchandise and content. Gold does not expire. Gold is non-refundable. Gold has no monetary value and does not constitute currency or property of any type. Gold is not transferable or assignable. You will not be entitled to a refund, money or any other compensation for unused Gold and virtual items when an account is closed, whether such closure was voluntary or involuntary.
 
 You may use Gold to purchase Gifts for other users. The price for each Gift will be displayed at the point of purchase. Gifts constitute a limited license to access a certain feature on the Tagged platform when, as, and if allowed by Tagged. All sales of Gifts are final and Tagged does not offer refunds for any purchased Gifts. Tagged is not responsible for repairing or replacing Gifts, or providing you with any credit or refund in the event that Tagged modifies, suspends, or terminates the Gift program, or for loss or damage due to any service error, or any other reason.
 
 Gifts purchased or received by any user do not constitute property and are not transferable.
 
-I) Diamonds and Rewards
+I) VIP Membership
 
-Each user who receives a Gift from another user during a video broadcast will get a number of Diamonds as determined by Company. Company intends to offer rewards with respect to Diamonds. When Company enables said feature, users will be able to redeem Diamonds for cash, provided that a user must redeem at least two hundred dollars ($200) worth of Diamonds for each request, and may redeem rewards only once per day. Company may change the minimum increments and frequency from rewards from time to time, and it reserves the right to do so. Company will also determine the rate of redemption in its sole discretion and it may change the rate from time to time. The rate will be displayed at the point of redemption. You agree that Company has the absolute right to manage, modify, and/or eliminate such redemption feature in its sole discretion. The cost of the Gifts that you give to another user may not correlate to the revenue such user is entitled to receive from Company.
+You may decide to upgrade your membership to VIP status for an additional monthly cost. If you choose to become a Tagged VIP, your membership will automatically renew on a monthly basis. If, at any point, you wish to discontinue your VIP membership, you may do so at your convenience. If your VIP membership account is billed through our website, you must visit http://www.tagged.com/account\_info.html, click the Subscriptions and Payments tab, select 'cancel your subscription' and click 'Cancel VIP' at least three days prior to your next scheduled automatic payment so that we can process your cancellation properly. If your VIP membership account is billed through iTunes, you must cancel at least 24 hours prior to your next scheduled automatic payment, by following the process outlined here. If your VIP membership account is billed through GooglePlay, you must cancel within seven days from the start of your billing cycle, by following the process outlined here.
 
-Users wishing to redeem Diamonds must 1) have a valid PayPal account, 2) must agree to PayPal’s terms of service, as well as its policies and procedures, and 3) bear any charges that PayPal may impose. User understands that Company has no control over PayPal’s practices and user releases Company from any and all liability associated with information submitted to PayPal, including, without limitation, liability related to the unauthorized release or use of user’s information. Company reserves the right to verify your identity and eligibility to receive cash redemptions prior to payment.
+J) Mobile
 
-All Diamonds in your account are forfeited if you delete your account or your account is terminated for any reason.
+The Company may offer Services through a mobile website and/or mobile applications (collectively, the "Mobile Applications"). This Agreement governs all Services that are accessible on or through the Mobile Applications. If you use the Services on a mobile device, you agree that information about your use of the Services through your mobile device and carrier may be communicated to us, including but not limited to the identities of your mobile carrier or your mobile device, or your physical location. Although we provide our Services through the mobile websites free of charge, your mobile carrier's standard fees and rates will still apply. You accept responsibility for all charges.
 
-All users who redeem Diamonds are solely responsible for the reporting and payment of any taxes due on the amounts redeemed.
+K) Copyrights, Trademarks, Patents and Intellectual Property Rights
 
-J) VIP Membership
+“Content” means all data, text, software, music, sound, photographs, graphics, artwork, video, pictures, images, posts, broadcasts, messages or other materials of any kind, whether publicly posted or privately transmitted. Your Content is your sole responsibility. You represent and warrant that you own or have the necessary licenses, rights, consents and permissions to publish all of your Content. Except as set forth in our Privacy Policy, we are not responsible for any Content that you upload or transmit on the Services. We do not control the posted Content and, as such, we do not control its accuracy, integrity, quality or any other aspect. Under no circumstances are we liable in any way for any Content, including but not limited to any errors or omissions in any Content, or for any loss or damage of any kind incurred as a result of the use of any Content.
 
-37 You may decide to upgrade your membership to VIP status for an additional monthly cost. If you choose to become a Tagged VIP, your membership will automatically renew on a monthly basis. If, at any point, you wish to discontinue your VIP membership, you may do so at your convenience. If your VIP membership account is billed through our website, you must visit http://www.tagged.com/account\_info.html, click the Subscriptions and Payments tab, select 'cancel your subscription' and click 'Cancel VIP'' at least 3 days prior to your next scheduled automatic payment so that we can process your cancellation properly. If your VIP membership account is billed through iTunes, you must cancel at least 24 hours prior to your next scheduled automatic payment, by following the process outlined here. If your VIP membership account is billed through GooglePlay, you must cancel within 7 days from the start of your billing cycle, by following the process outlined here.
+You hereby grant the Company a perpetual, assignable, world-wide, royalty free, sub-licensable and non-exclusive license to use, distribute, reproduce, record, modify, adapt, process, combine, synchronize, create derivative works from, publish, publicly perform and publicly display such Content (including your user name and likeness) on the Services and elsewhere in any and all media or distribution methods (now known or later developed) for any promotional and other commercial purpose, whether by us, our partners or other third parties, in our sole discretion.
 
-K) Mobile
+This license authorizes the Company to make your Content available to the rest of the world and to let others do the same. You agree that this license includes the right for the Company to provide, promote, and improve the Services and to make Content submitted to or through the Services available to other companies, organizations or individuals for the syndication, broadcast, distribution, promotion or publication of such Content on other media and services, subject to the Company’s terms and conditions for such Content use. Such additional uses by the Company, or other companies, organizations or individuals, may be made with no compensation paid to you with respect to the Content that you submit, post, transmit or otherwise make available through the Services.
 
-38 The Company may offer Sites and Services through a mobile website and/or mobile applications (collectively, the "Mobile Applications"). This Agreement governs all Sites and Services that are accessible on or through the Mobile Applications. If you use the Sites and Services on a mobile device, you agree that information about your use of the Sites and Services through your mobile device and carrier may be communicated to us, including but not limited to the identities of your mobile carrier or your mobile device, or your physical location. 39 Although we provide our Sites and Services through the Mobile Websites free of charge, your mobile carrier's standard fees and rates will still apply. You accept responsibility for all charges.
+The Company may use your feedback, comments and suggestions without any obligation to compensate you for them. The Company may continue to use and make available any and all Content and the Company will continue to have all of these rights even if your account is terminated.
 
-L) Copyrights, Trademarks, Patents and Intellectual Property Rights
+You acknowledge and agree that the Company does not promise to screen Content, but that it has the right to do so. The Company has the right to remove any Content that violates this Agreement or that it finds objectionable. You accept liability associated with the use of any Content, including but not limited to your reliance on the accuracy, completeness, or usefulness of such Content. You may not reproduce, republish, further distribute or publicly exhibit any Content on the Services that is not yours.
 
-40 Member acknowledges that messages, files or other materials ("Content") contained on the Sites and within the Site email messages, and third party advertisements on the Sites and distributed via email, of a commercial nature and presented to Member by the Company and the Sites and Services, are protected by copyrights, trademarks, service marks, patents or other proprietary rights and laws. 41 Member is permitted to use the Company Content or third party Content only as expressly authorized by the Company or the third party advertiser. Member may not copy, reproduce, distribute, or create derivative works from the Site Content or third party Content without expressly being authorized to do so by the Company or the third party advertiser. 42 Member may make a copy of the Site Content or third party Content for Member's personal, noncommercial use only, provided that Member keeps all copyright or other proprietary notices intact. Although the Company does not claim ownership of content that its Members may provide to the Company, by providing content to the Company, Members automatically grant, and represent and warrant that they have the right to grant, 43 to the Company a worldwide, irrevocable, perpetual, non-exclusive, and fully sublicensable, license to use, copy, perform, display, and distribute said content.
+The Company respects copyright law and expects Members to do the same. Illegal or unauthorized copying, distribution, modification, public display, or public performance of copyrighted works is an infringement of the copyright holders' rights. If you believe that your work has been copied in a way that constitutes copyright infringement, or your intellectual property rights have been otherwise violated, please notify the Company’s Agent for Notice of claims of copyright or other intellectual property infringement ("Agent"), at:
 
-44 The Company respects copyright law and expects Members to do the same. Illegal or unauthorized copying, distribution, modification, public display, or public performance of copyrighted works is an infringement of the copyright holders' rights. If you believe that your work has been copied in a way that constitutes copyright infringement, or your intellectual property rights have been otherwise violated, please notify the Company’s Agent for Notice of claims of copyright or other intellectual property infringement ("Agent"), at:
-
-45 The Meet Group Copyright Agent 100 Union Square Drive, New Hope, PA 18938 (215) 862-1162 copyright@themeetgroup.com(mailto:copyright@themeetgroup.com)
+The Meet Group Copyright Agent 100 Union Square Drive, New Hope, PA 18938 (215) 862-1162 copyright@themeetgroup.com(mailto:copyright@themeetgroup.com)
 
 Please provide our Agent with the following Notice:
 
 1.  Identify the copyrighted work or other intellectual property that you claim has been infringed;
-2.  Identify the material on the Site that you claim is infringing, with enough detail so that we may locate it on the website;
+2.  Identify the material on the Services that you claim is infringing, with enough detail so that we may locate it on the website;
 3.  A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
 4.  A statement by you declaring under penalty of perjury that (a) the above information in your Notice is accurate, and (b) that you are the owner of the copyright interest involved or that you are authorized to act on behalf of that owner;
-5.  46 Your address, telephone number, and email address. and
+5.  Your address, telephone number, and email address. and
 6.  Your physical or electronic signature.
 
 The Company’s Agent will forward this information to the alleged infringer. It is Company’s policy to terminate the accounts of repeat infringers.
 
-M) Disputes
+L) Disputes
 
-47 PLEASE READ THIS SECTION CAREFULLY AS IT LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF. You and the Company agree that, except as otherwise specifically provided in this Agreement, you and the Company shall seek to resolve any and all disputes between the Company and you, respectively, including, without limitation, all claims, counter-claims and cross-claims (collectively, "Claims"), whether in law, equity or otherwise, solely through individual arbitration in accordance with the policies and procedures set forth in this Agreement. Such disputes shall include without limitation:
+PLEASE READ THIS SECTION CAREFULLY AS IT LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF. You and the Company agree that, except as otherwise specifically provided in this Agreement, you and the Company shall seek to resolve any and all disputes between the Company and you, respectively, including, without limitation, all claims, counter-claims and cross-claims (collectively, "Claims"), whether in law, equity or otherwise, solely through individual arbitration in accordance with the policies and procedures set forth in this Agreement. Such disputes shall include without limitation:
 
-*   disputes arising out of and/or otherwise relating to Company’s Terms of Service and/or Privacy Policy;
-*   disputes arising out of and/or otherwise relating to any Services and/or any content on our Sites;
-*   disputes arising out of and/or otherwise relating to any information, communications and/or other material that you and/or any other person and/or entity provide to and/or through the Site;
+*   disputes arising out of and/or otherwise relating to Company’s Terms of Service, Content and Conduct Policy, and/or Privacy Policy;
+*   disputes arising out of and/or otherwise relating to any Services and/or any content on our Services;
+*   disputes arising out of and/or otherwise relating to any information, communications and/or other material that you and/or any other person and/or entity provide to and/or through the Services;
 *   disputes arising out of and/or otherwise relating to any information and/or other material that is collected, stored and/or disseminated by, on behalf of and/or with the approval of the Company;
-*   disputes arising out of and/or otherwise relating to any advertising and/or other communications by the Company in connection with our Sites;
+*   disputes arising out of and/or otherwise relating to any advertising and/or other communications by the Company in connection with the Services;
 *   disputes that are the subject of purported class action litigation in which you are not a member of a certified class;
 *   disputes that arose before you entered into this Agreement and/or any prior version of this Agreement;
-*   disputes that may arise after you terminate your registration with our Sites. and
+*   disputes that may arise after you terminate your registration with the Services. and
 *   disputes arising out of or relating to any aspect of the relationship between us, whether based in contract, tort, statute, fraud, misrepresentation or any other legal theory.
 
-48 Despite the language agreed to above and as an alternative to arbitration, either you and/or the Company may bring an individual action against the other in small claims court. Additionally, you and/or the Company may bring any Claim against the other to the attention of a federal, state and/or local government entity, which may elect to seek relief against the Company on your behalf, and/or against you on the Company’s behalf.
+Despite the language agreed to above and as an alternative to arbitration, either you and/or the Company may bring an individual action against the other in small claims court. Additionally, you and/or the Company may bring any Claim against the other to the attention of a federal, state and/or local government entity, which may elect to seek relief against the Company on your behalf, and/or against you on the Company’s behalf.
 
-You agree that you and the Company have voluntarily and intentionally waived any and all right to a trial by jury, and (except as otherwise specifically provided in this Agreement) any and all right to participate in a class action. 49 The Federal Arbitration Act governs the interpretation and enforcement of this Dispute provision. This Dispute provision shall survive termination of this Agreement.
+You agree that you and the Company have voluntarily and intentionally waived any and all right to a trial by jury, and (except as otherwise specifically provided in this Agreement) any and all right to participate in a class action. The Federal Arbitration Act governs the interpretation and enforcement of this Dispute provision. This Dispute provision shall survive termination of this Agreement.
 
-For you or the Company to initiate arbitration against the other party it must first send by certified mail to the other party a written Notice of Dispute ("Notice"). 50 The Notice must identify and detail the nature of the party's Claim, the basis for that Claim, and the specific relief being sought for that Claim, including, without limitation, any Claim for injunctive relief. For the parties' convenience, a form for providing Notice is available at http://www.tagged.com/disputeresolution\_forms.html to download and complete. 51 A Notice being sent to the Company must be addressed to: Dispute Resolution Department, The Meet Group, Inc., Attention: General Counsel, 100 Union Square Drive, New Hope, PA 18938 (“Company Notice Address"). A Notice being sent to you shall be sent to the e-mail address associated with your Site account and to any other e-mail address provided in your registration (collectively, "Member Notice Address"). You may also opt to receive a copy of any Notice via mail by sending a written request to the Company Notice Address including your name, postal address, Member Notice Address and Site User ID number (UID).
+For you or the Company to initiate arbitration against the other party it must first send by certified mail to the other party a written Notice of Dispute ("Notice"). The Notice must identify and detail the nature of the party's Claim, the basis for that Claim, and the specific relief being sought for that Claim, including, without limitation, any Claim for injunctive relief. For the parties' convenience, a form for providing Notice is available at http://www.tagged.com/disputeresolution\_forms.html to download and complete. A Notice being sent to the Company must be addressed to: Dispute Resolution Department, The Meet Group, Inc., Attention: General Counsel, 100 Union Square Drive, New Hope, PA 18938 (“Company Notice Address"). A Notice being sent to you shall be sent to the e-mail address associated with your Services account and to any other e-mail address provided in your registration (collectively, "Member Notice Address"). You may also opt to receive a copy of any Notice via mail by sending a written request to the Company Notice Address including your name, postal address, Member Notice Address and Services User ID number (UID).
 
-52 After receipt of the Notice you and the Company must attempt in good faith to resolve the dispute set forth in the Notice. If you and the Company are not able to resolve the dispute within 30 days after the Notice is received, then you or the Company may initiate an arbitration proceeding 53 against the other by downloading and completing the "American Arbitration Association ("AAA") Consumer-Related-Disputes Form-California (For Use Only In California)" demand for arbitration form available at Demand for Arbitration ("Demand"), and sending a copy of the Demand to the AAA, together with a copy of the Site Terms of Service and a check or money order payable to the AAA in the amount of the appropriate filing fee, and sending a copy of the Demand to the other party. 54 The copy of the Demand being sent to the AAA must be addressed as stated on the Demand. A copy of the Demand being sent to the Company must be addressed to the Company Notice Address. A copy of the Demand being sent to you shall be addressed to the Member Notice Address.
+After receipt of the Notice you and the Company must attempt in good faith to resolve the dispute set forth in the Notice. If you and the Company are not able to resolve the dispute within 30 days after the Notice is received, then you or the Company may initiate an arbitration proceeding against the other by downloading and completing the "American Arbitration Association ("AAA") Consumer-Related-Disputes Form-California (For Use Only In California)" demand for arbitration form available at Demand for Arbitration ("Demand"), and sending a copy of the Demand to the AAA, together with a copy of the Terms of Service and a check or money order payable to the AAA in the amount of the appropriate filing fee, and sending a copy of the Demand to the other party. The copy of the Demand being sent to the AAA must be addressed as stated on the Demand. A copy of the Demand being sent to the Company must be addressed to the Company Notice Address. A copy of the Demand being sent to you shall be addressed to the Member Notice Address.
 
-55 Please note AAA does not provide the Company customer support and is only able to provide information regarding initiating an arbitration proceeding against the Company. All concerns regarding your account should be addressed to the Company by submitting a Ticket. 56 The Company will try to resolve your concern, and in the case that you are not satisfied with the resolution you may choose to follow the process outlined on the Dispute Resolution Page.
+Please note AAA does not provide the Company customer support and is only able to provide information regarding initiating an arbitration proceeding against the Company. All concerns regarding your account should be addressed to the Company by submitting a Ticket. The Company will try to resolve your concern, and in the case that you are not satisfied with the resolution you may choose to follow the process outlined on the Dispute Resolution Page.
 
 Information regarding the appropriate filing fee to send with the Demand to the AAA (including the possible waiver of all or part of that fee) is available at AAA Consumer Arbitration Rules and https://www.adr.org/aaa/ShowPDF?doc=ADRSTAGE2026862, or by calling AAA Customer Service at (800) 778-7879 or AAA Case Filing Services at (877) 495-4185. If you initiate an arbitration proceeding against the Company and are not able to pay all or part of the AAA filing fee (and do not receive a waiver of the unpayable amount), and so long as the total amount of the relief you are seeking in the Demand is $10,000 or less, then you may send a written request for payment of the unpayable amount to the Company at the Company Notice Address. The Company shall consider your request and will, in its own discretion, either (1) pay the unpayable amount to the AAA directly or (2) send notice to you of its denial of your request within 10 business days of the receipt thereof. Further, if you initiate an arbitration proceeding against the Company, and so long as the total amount of the relief you are seeking in the Demand is $10,000 or less, then you may send proof of your payment of all or part of the AAA filing fee to the Company at the Company Notice Address, and the Company shall reimburse you for that actually paid amount.
 
-57 The arbitration shall be administered by the AAA and shall be governed by the AAA Commercial Arbitration Rules and Mediation Procedures and the AAA Supplementary Procedures for Consumer-Related Disputes (collectively, "AAA Rules"), as modified by this Agreement. The AAA Rules are available online at AAA Consumer Arbitration and Consumer Arbitration Rules, or by calling AAA Customer Service at (800) 778-7879. (Additional information about the arbitration process, presented in a simplified FAQ format, is available at http://www.tagged.com/disputeresolution.html. The arbitrator selected to resolve the dispute between you and the Company shall bound by the terms of this Agreement. All arbitration hearings shall take place exclusively in 58 San Francisco County, California. Except, however, that if the total amount of the relief you are seeking in the arbitration is $10,000 or less you may choose whether the arbitration shall be conducted solely on the basis of documents submitted to the arbitrator, through a telephone hearing, or by an in-person hearing, as established by the AAA Rules. 59 If the total amount you are seeking is greater than $10,000 then your and the Company’s respective rights to an arbitration hearing shall be determined by the AAA Rules. Regardless of the manner in which the arbitration is conducted the arbitrator shall issue a reasoned written decision sufficient to explain the essential findings and conclusions on which any award is based.
+The arbitration shall be administered by the AAA and shall be governed by the AAA Commercial Arbitration Rules and Mediation Procedures and the AAA Supplementary Procedures for Consumer-Related Disputes (collectively, "AAA Rules"), as modified by this Agreement. The AAA Rules are available online at AAA Consumer Arbitration and Consumer Arbitration Rules, or by calling AAA Customer Service at (800) 778-7879. (Additional information about the arbitration process, presented in a simplified FAQ format, is available at http://www.tagged.com/disputeresolution.html. The arbitrator selected to resolve the dispute between you and the Company shall bound by the terms of this Agreement. All arbitration hearings shall take place exclusively in San Francisco County, California. Except, however, that if the total amount of the relief you are seeking in the arbitration is $10,000 or less you may choose whether the arbitration shall be conducted solely on the basis of documents submitted to the arbitrator, through a telephone hearing, or by an in-person hearing, as established by the AAA Rules. If the total amount you are seeking is greater than $10,000 then your and the Company’s respective rights to an arbitration hearing shall be determined by the AAA Rules. Regardless of the manner in which the arbitration is conducted the arbitrator shall issue a reasoned written decision sufficient to explain the essential findings and conclusions on which any award is based.
 
-In addition to any reimbursement of AAA filing fees as detailed above, and so long as the total amount of the relief you are seeking in the arbitration is $10,000 or less, the Company shall pay all other AAA administration fees and all arbitrator fees for the arbitration. Except, however, that if the arbitrator in such action finds that either the substance of your dispute against the Company or the relief you are seeking in the arbitration is frivolous or brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)), then the payment of all AAA filing, administration and arbitrator fees in such action shall be governed by the AAA Rules. In said event, you hereby agree to reimburse the Company for all monies paid by the Company that are your obligation to pay under the AAA Rules. 60 Additionally, if the total amount of the relief you are seeking in the arbitration is greater than $10,000 then the payment of all AAA filing, administration and arbitrator fees shall be governed by the AAA Rules.
+In addition to any reimbursement of AAA filing fees as detailed above, and so long as the total amount of the relief you are seeking in the arbitration is $10,000 or less, the Company shall pay all other AAA administration fees and all arbitrator fees for the arbitration. Except, however, that if the arbitrator in such action finds that either the substance of your dispute against the Company or the relief you are seeking in the arbitration is frivolous or brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)), then the payment of all AAA filing, administration and arbitrator fees in such action shall be governed by the AAA Rules. In said event, you hereby agree to reimburse the Company for all monies paid by the Company that are your obligation to pay under the AAA Rules. Additionally, if the total amount of the relief you are seeking in the arbitration is greater than $10,000 then the payment of all AAA filing, administration and arbitrator fees shall be governed by the AAA Rules.
 
-61 You and the Company agree that unless and until the arbitrator determines the monetary and/or other relief, if any, to which you and/or the Company is entitled in connection with the dispute being arbitrated, neither you nor the Company shall disclose to the arbitrator the amount of any settlement offer(s) that you and/or the Company previously made to the other in connection with said dispute. In any individual arbitration between you and the Company, 62 if the arbitrator issues you an award that is greater than the value of the Company’s last written settlement offer to you then the Company shall:
+You and the Company agree that unless and until the arbitrator determines the monetary and/or other relief, if any, to which you and/or the Company is entitled in connection with the dispute being arbitrated, neither you nor the Company shall disclose to the arbitrator the amount of any settlement offer(s) that you and/or the Company previously made to the other in connection with said dispute. In any individual arbitration between you and the Company, if the arbitrator issues you an award that is greater than the value of the Company’s last written settlement offer to you then the Company shall:
 
 *   pay you the amount of the award or $2,500 (the "Member Incentive"), whichever is greater. and
 *   pay your attorney, if any, twice the amount of any fees, and reimburse said attorney any expenses (including expert witness fees and costs), that said attorney reasonably and actually accrues in investigating, preparing and pursuing your Claim against the Company in the arbitration (collectively, the "Attorney Incentive").
 
-63 However, if the Company did not make any written settlement offer to you prior to the arbitrator in said individual arbitration issuing you an award, then so long as the arbitrator awards you any monetary relief on the merits of your Claim against the Company, you and your attorney (if any) shall be entitled to receive the Member Incentive and the Attorney Incentive, respectively. The arbitrator may make rulings and resolve disputes as to the payment and reimbursement of any fees and/or expenses, the Member Incentive and/or the Attorney Incentive at any time during the individual arbitration and/or upon request by you and/or the Company made within 14 days of the arbitrator's ruling on the merits of said individual arbitration. The Attorney Incentive supplements and does not supersede any right you may have under applicable law to receive attorneys' fees and/or expenses in connection with the individual arbitration (including as may be awarded to you by the arbitrator), but in no event may you recover a duplicative award of attorneys' fees and/or expenses. If the Company prevails in an individual arbitration against you and is entitled under applicable law to receive attorneys' fees and/or expenses, the Company hereby agrees that it shall not seek and shall refuse to receive such an award.
+However, if the Company did not make any written settlement offer to you prior to the arbitrator in said individual arbitration issuing you an award, then so long as the arbitrator awards you any monetary relief on the merits of your Claim against the Company, you and your attorney (if any) shall be entitled to receive the Member Incentive and the Attorney Incentive, respectively. The arbitrator may make rulings and resolve disputes as to the payment and reimbursement of any fees and/or expenses, the Member Incentive and/or the Attorney Incentive at any time during the individual arbitration and/or upon request by you and/or the Company made within 14 days of the arbitrator's ruling on the merits of said individual arbitration. The Attorney Incentive supplements and does not supersede any right you may have under applicable law to receive attorneys' fees and/or expenses in connection with the individual arbitration (including as may be awarded to you by the arbitrator), but in no event may you recover a duplicative award of attorneys' fees and/or expenses. If the Company prevails in an individual arbitration against you and is entitled under applicable law to receive attorneys' fees and/or expenses, the Company hereby agrees that it shall not seek and shall refuse to receive such an award.
 
-The arbitrator may award any form of individual relief in your favor, but solely to the extent warranted by your individual Claim. You and the Company agree that, except as otherwise specifically provided in this Agreement, 64 you and the Company may bring a Claim against the other solely in your or the Company’s individual capacity, and not as a plaintiff or class member in any purported class or representative proceeding, and, except as otherwise set forth herein, no arbitrator may consolidate more than one person's Claim and/or otherwise preside over any form of a representative or class proceeding. If all or part of this specific paragraph is found by a court of competent jurisdiction to be unenforceable after final appeal, then the entirety of this Dispute provision shall be deemed null and void.
+The arbitrator may award any form of individual relief in your favor, but solely to the extent warranted by your individual Claim. You and the Company agree that, except as otherwise specifically provided in this Agreement, you and the Company may bring a Claim against the other solely in your or the Company’s individual capacity, and not as a plaintiff or class member in any purported class or representative proceeding, and, except as otherwise set forth herein, no arbitrator may consolidate more than one person's Claim and/or otherwise preside over any form of a representative or class proceeding. If all or part of this specific paragraph is found by a court of competent jurisdiction to be unenforceable after final appeal, then the entirety of this Dispute provision shall be deemed null and void.
 
-65 AT ANY TIME AND IN ITS SOLE DISCRETION THE COMPANY MAY DIRECT THE AAA TO CONSOLIDATE ANY AND ALL PENDING INDIVIDUAL ARBITRATION CLAIMS THAT (i) ARISE IN SUBSTANTIAL PART FROM THE SAME AND/OR RELATED TRANSACTIONS, EVENTS AND/OR OCCURRENCES, AND (ii) INVOLVE A COMMON QUESTION OF LAW AND/OR FACT WHICH, IF RESOLVED IN MULTIPLE INDIVIDUAL AND NON-CONSOLIDATED ARBITRATION PROCEEDINGS, MAY RESULT IN CONFLICTING AND/OR INCONSISTENT RESULTS. IN SAID EVENT, YOU HEREBY CONSENT TO CONSOLIDATED ARBITRATION, IN LIEU OF INDIVIDUAL ARBITRATION, OF ANY AND ALL CLAIMS YOU MAY HAVE AGAINST THE COMPANY AND THE AAA RULES SET FORTH HEREIN SHALL GOVERN ALL PARTIES. Additionally, in said event, if the arbitrator issues you an award that is greater than the value of Company’s last written settlement offer to you then the Company shall:
+AT ANY TIME AND IN ITS SOLE DISCRETION THE COMPANY MAY DIRECT THE AAA TO CONSOLIDATE ANY AND ALL PENDING INDIVIDUAL ARBITRATION CLAIMS THAT (i) ARISE IN SUBSTANTIAL PART FROM THE SAME AND/OR RELATED TRANSACTIONS, EVENTS AND/OR OCCURRENCES, AND (ii) INVOLVE A COMMON QUESTION OF LAW AND/OR FACT WHICH, IF RESOLVED IN MULTIPLE INDIVIDUAL AND NON-CONSOLIDATED ARBITRATION PROCEEDINGS, MAY RESULT IN CONFLICTING AND/OR INCONSISTENT RESULTS. IN SAID EVENT, YOU HEREBY CONSENT TO CONSOLIDATED ARBITRATION, IN LIEU OF INDIVIDUAL ARBITRATION, OF ANY AND ALL CLAIMS YOU MAY HAVE AGAINST THE COMPANY AND THE AAA RULES SET FORTH HEREIN SHALL GOVERN ALL PARTIES. Additionally, in said event, if the arbitrator issues you an award that is greater than the value of Company’s last written settlement offer to you then the Company shall:
 
-*   66 pay you the amount of the award or three times the amount of the Company’s last written settlement offer to you (the "Member Incentive"), whichever is greater. and
+*   pay you the amount of the award or three times the amount of the Company’s last written settlement offer to you (the "Member Incentive"), whichever is greater. and
 *   pay your attorney, if any, twice the amount of any fees, and reimburse said attorney any expenses (including expert witness fees and costs), that said attorney reasonably and actually accrues in investigating, preparing and pursuing your Claim against the Company in the arbitration (collectively, the "Attorney Incentive").
 
-67 However, if the Company did not make any written settlement offer to you prior to the arbitrator in said consolidated arbitration issuing you an award, then so long as the arbitrator awards you any monetary relief on the merits of your Claim against the Company, then you shall be entitled to receive the award and/or $500, whichever is greater, and your attorney (if any) shall be entitled to receive the Attorney Incentive. As also noted above, the arbitrator may make rulings and resolve disputes as to the payment and reimbursement of any fees and/or expenses, the Member Incentive and/or the Attorney Incentive at any time during the consolidated arbitration and/or upon request by you and/or the Company made within 14 days of the arbitrator's ruling on the merits of said arbitration. Similarly, the Attorney Incentive supplements and does not supersede any right you may have under applicable law to receive attorneys' fees and/or expenses in connection with the consolidated arbitration (including as may be awarded to you by the arbitrator), but in no event may you recover a duplicative award of attorneys' fees and/or expenses. If the Company prevails in a consolidated arbitration against you and is entitled under applicable law to receive attorneys' fees and/or expenses, the Company hereby agrees that it shall not seek and shall refuse to receive such an award. If all or part of this specific paragraph is found by a court of competent jurisdiction to be unenforceable after final appeal, then the entirety of this Dispute provision shall be deemed null and void.
+However, if the Company did not make any written settlement offer to you prior to the arbitrator in said consolidated arbitration issuing you an award, then so long as the arbitrator awards you any monetary relief on the merits of your Claim against the Company, then you shall be entitled to receive the award and/or $500, whichever is greater, and your attorney (if any) shall be entitled to receive the Attorney Incentive. As also noted above, the arbitrator may make rulings and resolve disputes as to the payment and reimbursement of any fees and/or expenses, the Member Incentive and/or the Attorney Incentive at any time during the consolidated arbitration and/or upon request by you and/or the Company made within 14 days of the arbitrator's ruling on the merits of said arbitration. Similarly, the Attorney Incentive supplements and does not supersede any right you may have under applicable law to receive attorneys' fees and/or expenses in connection with the consolidated arbitration (including as may be awarded to you by the arbitrator), but in no event may you recover a duplicative award of attorneys' fees and/or expenses. If the Company prevails in a consolidated arbitration against you and is entitled under applicable law to receive attorneys' fees and/or expenses, the Company hereby agrees that it shall not seek and shall refuse to receive such an award. If all or part of this specific paragraph is found by a court of competent jurisdiction to be unenforceable after final appeal, then the entirety of this Dispute provision shall be deemed null and void.
 
-68 Notwithstanding any provision in this Agreement to the contrary, you agree that if the Company changes this Disputes provision in the future (other than a change to the Company Notice Address and/or any Internet address, telephone number and/or document title set forth in this provision) you may reject that change by sending written notice within 30 days of the change to the Company at the Company Notice Address. By rejecting said change you reaffirm that you shall seek to resolve all disputes between you and the Company solely through arbitration in accordance with this Agreement.
+Notwithstanding any provision in this Agreement to the contrary, you agree that if the Company changes this Disputes provision in the future (other than a change to the Company Notice Address and/or any Internet address, telephone number and/or document title set forth in this provision) you may reject that change by sending written notice within 30 days of the change to the Company at the Company Notice Address. By rejecting said change you reaffirm that you shall seek to resolve all disputes between you and the Company solely through arbitration in accordance with this Agreement.
 
-If there is a dispute between participants on this site, or any third party, the Company is under no obligation to become involved. In the event that Member has a dispute with one or more members, 69 Member hereby releases the Company and its directors, officers, employees, agents, independent contractors, representatives, parents, subsidiaries, affiliates, successors, assigns and licensees from all claims, actions, losses, liabilities, judgments, damages, costs and expenses of every kind or nature (regardless of whether actual or consequential, known or unknown, suspected or unsuspected, disclosed or undisclosed), arising out of or in any way related to such disputes and/or any the Services. 70 If Member is a California resident, Member hereby waives California Civil Code Section 1542, which says "A general release does not extend to claims which the creditor does not know or suspect to exist in his or her favor at the time of executing the release, which if known by him or her must have materially affected his settlement with the debtor."
+If there is a dispute between participants on the Services, or any third party, the Company is under no obligation to become involved. In the event that Member has a dispute with one or more members, Member hereby releases the Company and its directors, officers, employees, agents, independent contractors, representatives, parents, subsidiaries, affiliates, successors, assigns and licensees from all claims, actions, losses, liabilities, judgments, damages, costs and expenses of every kind or nature (regardless of whether actual or consequential, known or unknown, suspected or unsuspected, disclosed or undisclosed), arising out of or in any way related to such disputes and/or any the Services. If Member is a California resident, Member hereby waives California Civil Code Section 1542, which says "A general release does not extend to claims which the creditor does not know or suspect to exist in his or her favor at the time of executing the release, which if known by him or her must have materially affected his settlement with the debtor."
 
 N) Termination
 
-Either party may terminate use of the Company website or the Services with or without cause at any time and effective immediately upon written notice to the other party. 71 The Company may terminate with or without cause at any time and effective immediately, at the Company’s sole discretion, including but not limited to Member's failure to conform with these terms and conditions of the Agreement. 72 the Company shall not be liable to Member or any third party for termination of use of our Sites or Services. Member's right to use the Sites or the Services shall cease immediately. Member shall have no right and the Company will have no obligation thereafter to forward any unread or unsent messages to Member or any third party. Sections G-N shall survive termination of the Agreement.
+Either party may terminate use of the Services with or without cause at any time and effective immediately upon written notice to the other party. The Company may terminate with or without cause at any time and effective immediately, at the Company’s sole discretion, including but not limited to Member's failure to conform with these terms and conditions of the Agreement. the Company shall not be liable to Member or any third party for termination of use of the Services or Services. Member's right to use the Services shall cease immediately. Member shall have no right and the Company will have no obligation thereafter to forward any unread or unsent messages to Member or any third party. Sections G-N shall survive termination of the Agreement.
 
 O) DISCLAIMERS OF WARRANTIES
 
-73 MEMBER AGREES THAT USE OF THE COMPANY SITES AND SERVICES IS ENTIRELY AT MEMBER'S OWN RISK. THE COMPANY SITES AND SERVICES ARE PROVIDED ON AN "AS IS" BASIS, WITHOUT ANY WARRANTIES OF ANY KIND. ALL EXPRESS AND IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF PROPRIETARY RIGHTS ARE EXPRESSLY DISCLAIMED TO THE FULLEST EXTENT PERMITTED BY LAW. TO THE FULLEST EXTENT PERMITTED BY LAW, 74 THE COMPANY DISCLAIMS ANY WARRANTIES FOR THE SECURITY, RELIABILITY, TIMELINESS, ACCURACY, AND PERFORMANCE OF THE COMPANY SITES AND SERVICES. TO THE FULLEST EXTENT PERMITTED BY LAW, THE COMPANY DISCLAIMS ANY WARRANTIES FOR OTHER SERVICES OR GOODS RECEIVED THROUGH OR ADVERTISED ON THE COMPANY SITES OR SERVICES ACCESSED THROUGH ANY LINKS ON THE SITES. TO THE FULLEST EXTENT PERMITTED BY LAW, THE COMPANY DISCLAIMS ANY WARRANTIES FOR VIRUSES OR OTHER HARMFUL COMPONENTS IN CONNECTION WITH THE THE COMPANY SITES OR SERVICES. Some jurisdictions do not allow the disclaimer of implied warranties. In such jurisdictions, the foregoing disclaimers may not apply to you insofar as they relate to implied warranties.
+MEMBER AGREES THAT USE OF THE COMPANY SERVICES IS ENTIRELY AT MEMBER'S OWN RISK. THE COMPANY SERVICES ARE PROVIDED ON AN "AS IS" BASIS, WITHOUT ANY WARRANTIES OF ANY KIND. ALL EXPRESS AND IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF PROPRIETARY RIGHTS ARE EXPRESSLY DISCLAIMED TO THE FULLEST EXTENT PERMITTED BY LAW. TO THE FULLEST EXTENT PERMITTED BY LAW, THE COMPANY DISCLAIMS ANY WARRANTIES FOR THE SECURITY, RELIABILITY, TIMELINESS, ACCURACY, AND PERFORMANCE OF THE COMPANY SERVICES. TO THE FULLEST EXTENT PERMITTED BY LAW, THE COMPANY DISCLAIMS ANY WARRANTIES FOR OTHER SERVICES OR GOODS RECEIVED THROUGH OR ADVERTISED ON THE COMPANY SERVICES ACCESSED THROUGH ANY LINKS ON THE SERVICES. TO THE FULLEST EXTENT PERMITTED BY LAW, THE COMPANY DISCLAIMS ANY WARRANTIES FOR VIRUSES OR OTHER HARMFUL COMPONENTS IN CONNECTION WITH THE THE COMPANY SERVICES. Some jurisdictions do not allow the disclaimer of implied warranties. In such jurisdictions, the foregoing disclaimers may not apply to you insofar as they relate to implied warranties.
 
 P) LIMITATION OF LIABILITY
 
-75 UNDER NO CIRCUMSTANCES SHALL THE COMPANY BE LIABLE AS A RESULT OF MEMBER'S USE OR MISUSE OF THE COMPANY SITES OR SERVICES, WHETHER THE DAMAGES ARISE FROM USE OR MISUSE OF THE COMPANY SITES OR SERVICES, FROM INABILITY TO USE THE COMPANY SITES OR SERVICES, OR THE INTERRUPTION, SUSPENSION, MODIFICATION, ALTERATION, OR TERMINATION OF THE COMPANY SITES OR SERVICES. SUCH LIMITATION SHALL ALSO APPLY WITH RESPECT TO DAMAGES INCURRED BY REASON OF OTHER SERVICES OR PRODUCTS RECEIVED THROUGH OR ADVERTISED IN CONNECTION WITH THE THE COMPANY SITES OR SERVICES OR ANY LINKS ON THE COMPANY SITES, 76 AS WELL AS BY REASON OF ANY INFORMATION OR ADVICE RECEIVED THROUGH OR ADVERTISED IN CONNECTION WITH THE THE COMPANY SITES OR SERVICES OR ANY LINKS ON THE COMPANY SITES. THESE LIMITATIONS SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW. In some jurisdiction, limitations of liability are not permitted. In such jurisdictions, the foregoing limitation may not apply to you.
+UNDER NO CIRCUMSTANCES SHALL THE COMPANY BE LIABLE AS A RESULT OF MEMBER'S USE OR MISUSE OF THE COMPANY SERVICES, WHETHER THE DAMAGES ARISE FROM USE OR MISUSE OF THE COMPANY SERVICES, FROM INABILITY TO USE THE COMPANY SERVICES, OR THE INTERRUPTION, SUSPENSION, MODIFICATION, ALTERATION, OR TERMINATION OF THE COMPANY SERVICES. SUCH LIMITATION SHALL ALSO APPLY WITH RESPECT TO DAMAGES INCURRED BY REASON OF OTHER SERVICES OR PRODUCTS RECEIVED THROUGH OR ADVERTISED IN CONNECTION WITH THE THE COMPANY SERVICES OR ANY LINKS ON THE COMPANY SERVICES, AS WELL AS BY REASON OF ANY INFORMATION OR ADVICE RECEIVED THROUGH OR ADVERTISED IN CONNECTION WITH THE THE COMPANY SERVICES OR ANY LINKS ON THE COMPANY SERVICES. THESE LIMITATIONS SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW. In some jurisdiction, limitations of liability are not permitted. In such jurisdictions, the foregoing limitation may not apply to you.
 
 Q) Indemnification
 
-77 Member agrees to indemnify and hold the Company, its subsidiaries, affiliates, successors, assigns, directors, officers, agents, employees, service providers, and suppliers harmless from any dispute which may arise from a breach of terms of this Agreement or use of the Services. Member agrees to hold the Company harmless from any claims and expenses, including reasonable attorney's fees and court costs, related to Member's violation of this Agreement.
+Member agrees to indemnify and hold the Company, its subsidiaries, affiliates, successors, assigns, directors, officers, agents, employees, service providers, and suppliers harmless from any dispute which may arise from a breach of terms of this Agreement or use of the Services. Member agrees to hold the Company harmless from any claims and expenses, including reasonable attorney's fees and court costs, related to Member's violation of this Agreement.
 
 R) Governing Law
 
-78 The Agreement and the relationship between Member and the Company shall be governed by and interpreted in accordance with the laws of the State of California, without regard to any conflict of law principles to the contrary. If any provision of this Agreement is found by a court of competent jurisdiction to be invalid, you and the Company nevertheless agree that the court should strive to give effect to your and the Company’s intentions as reflected in the provision, and the other provisions of the Agreement shall remain unaffected and in full force and effect. 79 You agree that regardless of any law to the contrary, any claim or cause of action arising out of or related to the Company Sites, the Services and/or this Agreement must be filed within one (1) year after such claim or cause of action arose or be forever barred. The Company makes no representation that any material and/or other content on this website is appropriate and/or available for use in other locations, and accessing such material and/or content from territories where it is illegal is prohibited. Any persons who choose to access this website from other locations do so on their own initiative and at their own risk, and are solely responsible for compliance with all applicable laws.
+The Agreement and the relationship between Member and the Company shall be governed by and interpreted in accordance with the laws of the State of California, without regard to any conflict of law principles to the contrary. If any provision of this Agreement is found by a court of competent jurisdiction to be invalid, you and the Company nevertheless agree that the court should strive to give effect to your and the Company’s intentions as reflected in the provision, and the other provisions of the Agreement shall remain unaffected and in full force and effect. You agree that regardless of any law to the contrary, any claim or cause of action arising out of or related to the Company Services and/or this Agreement must be filed within one (1) year after such claim or cause of action arose or be forever barred. The Company makes no representation that any material and/or other content on the Services is appropriate and/or available for use in other locations, and accessing such material and/or content from territories where it is illegal is prohibited. Any persons who choose to access the Services from other locations do so on their own initiative and at their own risk, and are solely responsible for compliance with all applicable laws.
 
 S) Agreement
 
-80 The Agreement makes up the entire agreement between Member and the Company and governs your use of Sites and the Services, superseding any prior agreements between Member and the Company. 81 You also may be subject to additional terms and conditions that may apply when you use affiliate services, third-party content or third-party software. The failure of the Company to exercise or enforce any right or provision of the Agreement shall not result in a waiver of such right or provision. The section titles in the Agreement are for convenience only and have no legal or contractual effect. 82 In the event there is a discrepancy between this English language version and any translated copies of the Site Terms and Conditions, the English version shall prevail. The side summaries within this Agreement are for reference only. In the event that there is a discrepancy between the full terms of this Agreement and the language contained within the side summaries the full version of the Agreement shall prevail.
+The Agreement makes up the entire agreement between Member and the Company and governs your use of the Services, superseding any prior agreements between Member and the Company. You also may be subject to additional terms and conditions that may apply when you use affiliate services, third-party content or third-party software. The failure of the Company to exercise or enforce any right or provision of the Agreement shall not result in a waiver of such right or provision. The section titles in the Agreement are for convenience only and have no legal or contractual effect. In the event there is a discrepancy between this English language version and any translated copies of the Agreement, the English version shall prevail. The side summaries within this Agreement are for reference only. In the event that there is a discrepancy between the full terms of this Agreement and the language contained within the side summaries the full version of the Agreement shall prevail.
 
 Contacting Us
 
-Users with questions about these Terms of Service and any of the above statements may contact the Company by writing to: The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938.
-
-1.  In order to access or register for our Sites you have to agree to the rules in this Agreement. ↩︎
-    
-2.  You have to be at least 18 years old to use the Services. ↩︎
-    
-3.  These side summaries are for your reference, so that you can easily find information within the Agreement. ↩︎
-    
-4.  Please read the entire Agreement to your left for all details governing the use of the Services. ↩︎
-    
-5.  We can change the terms of this Agreement at any time. ↩︎
-    
-6.  We will provide a notice on the site if there is a major change. ↩︎
-    
-7.  It is your responsibility to ensure that you are aware of any changes. ↩︎
-    
-8.  If you disagree with the current rules or any changes to the rules you should cancel your account. ↩︎
-    
-9.  You can view our Services and features on the website. ↩︎
-    
-10.  We can change or discontinue the Services and features offered on the site at any time. ↩︎
-    
-11.  If you engage in prohibited behavior we may suspend or cancel your account. ↩︎
-    
-12.  We have the right to monitor your account and any of your content, communication or behavior associated with that account to ensure that you are following the rules. ↩︎
-    
-13.  We may terminate your account if we find that you are in violation of any of our rules or if we find that you are engaged in prohibited behavior. ↩︎
-    
-14.  You shall not engage in harassment or stalking. ↩︎
-    
-15.  You shall not provide any information that is false or belongs to another person. ↩︎
-    
-16.  You shall not pretend to be someone that you are not. ↩︎
-    
-17.  You shall not use this site to sell or advertise anything without written permission from us. ↩︎
-    
-18.  You shall not send spam or junk mail. ↩︎
-    
-19.  You shall not use any abusive language. ↩︎
-    
-20.  You shall not post any illegal content or participate in any illegal activity. ↩︎
-    
-21.  You shall not post pornographic or other inappropriate material. ↩︎
-    
-22.  You shall not provide information instructing others on how to commit illegal acts. ↩︎
-    
-23.  You shall not attempt to access an account or information that does not belong to you. ↩︎
-    
-24.  You shall not attempt to impair the Services. ↩︎
-    
-25.  You shall not collect personal data about other Members. ↩︎
-    
-26.  You shall not try to gain access to another user’s account. ↩︎
-    
-27.  You shall not attempt buy or sell Gold or user accounts. ↩︎
-    
-28.  We will solely decide whether you violate any guideline and may prevent you from uploading content, may delete your content and your entire account. ↩︎
-    
-29.  See our Privacy Policy for details on what information we collect and use. We can choose to store certain data for an infinite amount of time. ↩︎
-    
-30.  We can choose to store certain data for an infinite amount of time. ↩︎
-    
-31.  You agree to receive commercial messages from us. ↩︎
-    
-32.  Don’t share your password or login information. ↩︎
-    
-33.  Gold is virtual currency that can only be used on the Tagged site for Tagged Services. ↩︎
-    
-34.  You are not allowed to buy Gold outside of the Tagged website. ↩︎
-    
-35.  You are not allowed to sell or give away Gold. ↩︎
-    
-36.  Purchases of Gold are not refundable, even if your account is cancelled. ↩︎
-    
-37.  We offer a VIP membership at a monthly cost. ↩︎
-    
-38.  If you access our Services through your mobile phone, your mobile phone company may charge you for use of data. You are responsible for these charges. ↩︎
-    
-39.  When you use your mobile phone we may collect additional information, including your location. ↩︎
-    
-40.  Our content is protected by certain rights, including copyrights, trademarks, service marks, patents, etc. ↩︎
-    
-41.  You may not use our content outside what is allowed by these terms. ↩︎
-    
-42.  We do not allow infringement of a copyright holder's rights. Any known infringement should be reported to us. ↩︎
-    
-43.  You may not post content unless they have the right to grant us rights to the content. ↩︎
-    
-44.  We do not allow infringement of a copyright holder's rights. Any known infringement should be reported to us. ↩︎
-    
-45.  Please notify us of any copyright infringement by contacting us directly. ↩︎
-    
-46.  Please provide the requested information so that we can take necessary action and remove the infringing content. ↩︎
-    
-47.  You agree to resolve all disputes with us through arbitration. ↩︎
-    
-48.  In addition to arbitration, you or the Company may file a claim in small claims court or bring a claim to the attention of the federal, state or local government. ↩︎
-    
-49.  You and the Company waive any rights to trial by jury and all rights to participate in a class action. ↩︎
-    
-50.  Before beginning the arbitration process either you or the Company has to provide a notice to the other party. ↩︎
-    
-51.  You must mail the notice to the Company. The Company may send the notice to your email address. ↩︎
-    
-52.  After receiving notice we will both try to resolve the dispute. ↩︎
-    
-53.  If we cannot reach an agreement within 30 days, then you or the Company can start the Arbitration process. ↩︎
-    
-54.  Arbitration will be conducted by the American Arbitration Association (AAA). ↩︎
-    
-55.  You may submit a request for payment assistance to the Company. ↩︎
-    
-56.  The Company will provide assistance with payment of arbitration fee if you are unable to pay and otherwise qualify for the assistance. ↩︎
-    
-57.  The arbitration will be conducted by the AAA, under their rules. ↩︎
-    
-58.  All arbitrations will take place in San Francisco, California. ↩︎
-    
-59.  If the amount in dispute is less than $10,000, you may choose to conduct the arbitration by phone or through document submission. ↩︎
-    
-60.  If your claim is for $10,000 or less you may be entitled to have us pay for all the arbitration fees. ↩︎
-    
-61.  Until the arbitrator issues a monetary award neither you nor the Company will disclose any settlement offers to the arbitrator. ↩︎
-    
-62.  If an arbitration results in an award to you that is greater than our last written offer, you may be entitled to receive additional fees from us. ↩︎
-    
-63.  If we did not make any written offer and an arbitrator issues an award you and your attorney may be entitled to receive additional awards. ↩︎
-    
-64.  You and and the Company agree that any claims brought will be solely on behalf of you or the Company and not as part of a class action. ↩︎
-    
-65.  We may request the AAA to combine related arbitration claims from members when such claims are related. ↩︎
-    
-66.  If the AAA grants you an award that is higher than the last written settlement offer from us, if any, you may be entitled to additional fees from us above the amount of the award granted by the AAA. ↩︎
-    
-67.  If we did not make any written settlement offer prior to arbitration you may also be entitled to receive additional fees. ↩︎
-    
-68.  If we change this Dispute provision you may reject the change by a written notice to us and reaffirm that you and the Company will only resolve disputes through arbitration. ↩︎
-    
-69.  We are not required to become involved with disputes between you and any other participant on the site. ↩︎
-    
-70.  We will not be responsible for any disputes between you and another participant on the site. ↩︎
-    
-71.  We have the right to cancel your account for any reason or without a reason. ↩︎
-    
-72.  We will not be required to provide you with copies of your account content once your account is cancelled. This may include photos, videos and messages. ↩︎
-    
-73.  We are providing services on an "as is" basis and makes no promises that the site or its services are intended to fulfill a particular purpose. ↩︎
-    
-74.  We are not responsible for any goods or services received through, advertised or otherwise displayed on the site. ↩︎
-    
-75.  We will not be responsible for any damages resulting from your use or misuse of the site. ↩︎
-    
-76.  We will not be responsible for any damages resulting from services or products advertised or displayed on the site. ↩︎
-    
-77.  If your breach of this Agreement results in a dispute involving the Company and related parties, you will be responsible for any attorney's fees, court costs, penalties, monetary payments due and any other required action that is required to correct the injury resulting from your breach. ↩︎
-    
-78.  If there are any disputes between you and the Company, they will be governed by California law and this Agreement will be interpreted under California Law. ↩︎
-    
-79.  Any claims filed by you related to this Agreement must be filed within 1 year of the incident. ↩︎
-    
-80.  This Agreement governs your use of the Site. ↩︎
-    
-81.  You may also be subject to additional rules from our affiliate services that may apply to third-party content or software. ↩︎
-    
-82.  These side summaries are for your reference only. Please read the entire agreement to your left for all details governing your use of our Sites. ↩︎
-    
+Users with questions about this Agreement and any of the above statements may contact the Company by writing to: The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938.
 
 PRIVACY POLICY
 
-Updated as of September 28, 2018
+Updated as of June 26, 2019
 
 TAGGED and HI5 (collectively, the "Services") are owned and operated by The Meet Group, Inc. If you have any questions or comments about this Privacy Policy, please contact us at support@themeetgroup.com or here. This Privacy Policy is applicable to all of our Services unless otherwise noted.
 
@@ -391,7 +208,7 @@ II. Controlling and Protecting Your Privacy
     
 5.  **Location Information**. We collect your location when you first register with our Services and each time you log in on a mobile device. You can control whether other users see your location after initial log in through your operating system's settings. We may still use your location (such as for security or advertising purposes) even if you choose not to display it to other users.
     
-    We do not "track" your location, but we do collect location information from your device or browser when you log in or use our Services, such as when you visit a particular feature that uses location. In addition, as with most location-enabled applications, we and our third-party partners may access your location any time your device is on, whether or not you are logged-in to our Services. But we do not share your precise location with other users. if you are under the age of 18, we do not describe your location more specifically than your city and state and "within one mile" of other users.
+    We do not "track" your location, but we do collect location information from your device or browser when you log in or use our Services, such as when you visit a particular feature that uses location. In addition, as with most location-enabled applications, we and our third-party partners may access your location any time your device is on, whether or not you are logged-in to our Services. But we do not share your precise location with other users.
     
 6.  **Password**. Store your password in a safe place, and do not share it with anyone. If you think someone has your password, change it immediately.
     
@@ -552,4 +369,4 @@ Web: www.themeetgroup.com
 
 Email: support@themeetgroup.com
 
-© 2019 Ifwe Inc. Mobile Company Jobs Advertise Privacy Terms Safety Support English English Bahasa Melayu Basa Jawa Español - América Latina Español - España Español - México Deutsch Français Italiano Magyar Nederlands Português - Brasil Português Русский Română Türkçe বাংলা 中文 (简体) 中文 (繁軆) हिन्दी 日本語 मराठी ਪੰਜਾਬੀ ไทย <img src="//pixel.quantserve.com/pixel/p-96ZHBHvG56-qg.gif" style="display:none" height="1" width="1" alt="Quantcast"/>. <img src="http://b.scorecardresearch.com/p?c1=2&c2=7198000&c3=&c4=www.tagged.com/terms\_of\_service.html&c5=&c6=&c15=da39a3ee5e6b4b0d3255bfef95601890afd80709&cj=1" />.
+© 2019 Ifwe Inc. Mobile Company Jobs Privacy Terms Safety Safety Practices Support English English Bahasa Melayu Basa Jawa Español - América Latina Español - España Español - México Deutsch Français Italiano Magyar Nederlands Português - Brasil Português Русский Română Türkçe বাংলা 中文 (简体) 中文 (繁軆) हिन्दी 日本語 मराठी ਪੰਜਾਬੀ ไทย <img src="//pixel.quantserve.com/pixel/p-96ZHBHvG56-qg.gif" style="display:none" height="1" width="1" alt="Quantcast"/>. <img src="http://b.scorecardresearch.com/p?c1=2&c2=7198000&c3=&c4=www.tagged.com/terms\_of\_service.html&c5=&c6=&c15=da39a3ee5e6b4b0d3255bfef95601890afd80709&cj=1" />.
