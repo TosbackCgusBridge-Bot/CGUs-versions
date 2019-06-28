@@ -37,7 +37,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Stuber
     *   The Lion King (2019)
     *   Once Upon a Time in Hollywood
-    *   Hobbs and Shaw
+    *   Fast &. Furious Presents: Hobbs &. Shaw
     *   Dora and the Lost City of Gold
     *   Scary Stories to Tell in the Dark
     *   See All Coming Soon
@@ -67,7 +67,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: ‘Toy Story 4’ Easter Eggs, the Difference Between Disney and Pixar Villains and More Read More
+    *   Today in Movie Culture: ‘Annabelle Comes Home’ Director Commentary, ‘Child’s Play’ Easter Eggs and More Read More
     *   See 'Avengers: Endgame,' the year's number one movie on the big screen one more time before it leaves theaters, now with new bonus material! Read More
     *   Next 3 Pixar Movies: 'Onward,' 'Soul,' ??? Read More
     
