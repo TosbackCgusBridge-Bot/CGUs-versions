@@ -460,10 +460,9 @@ Returns
 
 Promotions
 
-*   Free Solar Power Bank
 *   Store Events
 *   Military Discount
-*   All Promotions
+*   All Special Offers
 
 Sweepstakes Official Rules/Winners
 
