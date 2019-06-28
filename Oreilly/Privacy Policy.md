@@ -9,6 +9,7 @@
         *   Government
         *   Academic
         *   Features
+        *   Custom Services
         *   Pricing
     *   Conferences
         *   Artificial Intelligence Conference
