@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   27\. Juni 2019
+*   28\. Juni 2019
 *   Abo
-*   DAX 12.245,32ǀ
+*   DAX 12.271,03ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -369,6 +369,3 @@ SPIEGEL GRUPPE
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
-
-  
-BESbswyBESbswyBESbswy
