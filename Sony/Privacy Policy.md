@@ -109,7 +109,7 @@ Play “Call of Duty: Days of Summer” on PS4™
 
 In The Sinking City, sanity is a precious commodity. Here are 5 things to watch out for when it hits PS4 tomorrow:  https://play.st/2Ldj8tF  pic.twitter.com/TbQa3Y5u4f
 
-2 days ago
+3 days ago
 
 View Tweet
 
@@ -200,6 +200,6 @@ View on Instagram
 
 Follow us on Tumblr
 
-Visit us on TumblrFacebookTwitterInstagramTumblr© 2018 SONY CORPORATION OF AMERICA
+Visit us on TumblrFacebookTwitterInstagramTumblr© 2019 SONY CORPORATION OF AMERICA
 
 Terms and ConditionsPrivacy Policy/Your California Privacy Rights
