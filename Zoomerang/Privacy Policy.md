@@ -62,6 +62,10 @@ Our clients’ stories
 “MetrixLab is not an agency of status-quo, you know there is always something brewing that might benefit you at some stage in terms of innovation.”  
 **– Francky David | Global HCP &. Consumer Insights | Nestlé**
 
+“Based upon earlier experiences I was aware of the international competences of MetrixLab. This cooperation was one-country, more local level. I was really surprised with the willingness to help. In addition, MetrixLab contributed great insights and discussions. With a mutual goal: what’s the most cost-efficient communication strategy for Westwing to really stand out”.
+
+**– Itai Gross | Managing Director | Westwing Home and Living NL**
+
 “We shared the report with our Marketing head and the Brand team and had a very good discussion on the next steps.  
 We are moving forward to airing the copy with more confidence than before armed with the results.”
 
