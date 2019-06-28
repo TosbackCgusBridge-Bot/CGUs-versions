@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  xx:xx
+New Games Next in  13:28
 
-*   By Date Next addition in xx:xx
+*   By Date Next addition in 13:28
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
-*   New Games Next in xx:xx
-*   Best of new games 1390 games
-*   Most Popular Games 19416 games
+*   New Games Next in 13:28
+*   Best of new games 1384 games
+*   Most Popular Games 19422 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,208 games
-*   Driving &. Racing Games 6,821 games
+*   Games for girls 24,213 games
+*   Driving &. Racing Games 6,824 games
 *   Strategy &. RPG Games 2,420 games
 *   Management Games 3,656 games
 *   Thinking Games 12,168 games
-*   Action &. Adventure Games 16,221 games
+*   Action &. Adventure Games 16,222 games
 *   Sports Games 2,254 games
 *   Shooting Games 8,483 games
 *   Fighting Games 2,093 games
-*   Skill Games 11,276 games
-*   Arcade &. Classic Games 13,050 games
+*   Skill Games 11,281 games
+*   Arcade &. Classic Games 13,053 games
 *   Fun &. Crazy Games 2,544 games
 
 Play with friends  
-Powered by Y8 Account 128 Y8 Multiplayer Games 2,039 Y8 High Score Games 1,155 Y8 Achievements Games 821 Y8 Screenshots Games 1,463 Y8 Online Save Games 3,095 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 128 Y8 Multiplayer Games 2,038 Y8 High Score Games 1,154 Y8 Achievements Games 821 Y8 Screenshots Games 1,462 Y8 Online Save Games 3,094 All Y8 Games Games Last Highscore:
 
-**4,767** points on Disaster Will Strike 7 by Laino
+**4,454** points on Crime City 3D by GAY
 
 Help us improve Bad translation? Social
 
