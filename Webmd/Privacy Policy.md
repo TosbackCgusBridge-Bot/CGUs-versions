@@ -28,7 +28,7 @@ Skip to main content
     Resources
     
     *   Symptom Checker
-    *   Expert Blogs and Interviews
+    *   WebMD Blogs
     *   Podcasts
     *   Message Boards
     *   Questions &. Answers
@@ -121,7 +121,7 @@ Skip to main content
     Experts &. Community
     
     *   Message Boards
-    *   Expert Blogs
+    *   WebMD Blogs
     *   News Center
     
     Featured Topics*   WebMD Investigates Why Can't We Sleep?
