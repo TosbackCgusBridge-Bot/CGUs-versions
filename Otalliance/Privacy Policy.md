@@ -135,27 +135,31 @@ The IoT Trust Framework® includes a set of strategic principles necessary to he
 
 Visit our IoT Trust Framework page and download the full version or Framework Overview.
 
-Read the Framework Learn more about IoT OTA News Online Trust Audit Updates &. Translations Now Available Building Trust 18 June 2019 Online Trust Audit Updates &. Translations Now Available
+Read the Framework Learn more about IoT OTA News Department of Homeland Security Selects Online Trust Alliance to Provide Training to Government Employees in Support of the National Cybersecurity Initiative Press Releases 16 November 2011 Department of Homeland Security Selects Online Trust Alliance to Provide Training to Government Employees in Support of the National Cybersecurity Initiative
 
-A slightly updated version of the Online Trust Audit &. Honor Roll is now available in English, French, and...
+OTA to Share Expert Intelligence on Email Authentication and Best Practices to Protect Agencies and Citizens From Targeted Email...
 
-10 Years of Auditing Online Trust – What’s Changed? Building Trust 22 April 2019 10 Years of Auditing Online Trust – What’s Changed?
+OTA Joins White House in National Effort to Stamp Out Botnets Press Releases 8 June 2012 OTA Joins White House in National Effort to Stamp Out Botnets
 
-Last week we released the 10th Online Trust Audit &. Honor Roll, which is a comprehensive evaluation of an...
+Washington, DC – Joining Howard Schmidt, White House Cybersecurity Coordinator, Secretary of Homeland Security Janet Napolitano and FCC Chairman...
 
-Announcing the Online Trust Audit &. Honor Roll Results Building Trust 16 April 2019 Announcing the Online Trust Audit &. Honor Roll Results
+Online Trust Alliance Embraces National Cyber Security Awareness Month Press Releases 1 October 2013 Online Trust Alliance Embraces National Cyber Security Awareness Month
 
-Do you know how – or even if – your favorite retailer, or your bank, or your ISP is...
+Releases guidelines to fight spam, malvertising &. botnets and the impact to consumer privacy and security   Bellevue, WA...
 
-OTA’s Online Trust Audit Scores Consumer-facing U.S. Government Websites Highest in Security and Privacy. Healthcare Comes in Last Press Releases 16 April 2019 OTA’s Online Trust Audit Scores Consumer-facing U.S. Government Websites Highest in Security and Privacy. Healthcare Comes in Last
+Businesses and Government Failing Fight Against Spear Phishing and Deceptive Emails Press Releases 6 August 2014 Businesses and Government Failing Fight Against Spear Phishing and Deceptive Emails
 
-“From the global economy to daily individual interactions, more and more of our lives are conducted online. Yet every...
+SEATTLE—August 6, 2014—The Online Trust Alliance (OTA), the non-profit with the mission to enhance online trust, announced today the...
 
-Privacy First for Security Companies Privacy 15 April 2019 Privacy First for Security Companies
+Industry Support of Email Integrity Best Practices Press Releases 6 August 2014 Industry Support of Email Integrity Best Practices
 
-Privacy has become a major issue around the world. Hopeful presidential candidates, such as Elizabeth Warren, have proposed privacy...
+Industry support &. testimonies of email authentication best practices to help protect consumer’s data, privacy and identity. Press Release          ...
 
-Phishing: Think like a cybercrook In the News 15 December 2018 Phishing: Think like a cybercrook SC Media Load More Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team Megan Kruse photo Megan Kruse
+Unsubscribe Best Practices – Moving To Stewardship Press Releases 15 September 2014 Unsubscribe Best Practices – Moving To Stewardship
+
+  Industry Leaders Join OTA In Support of User Centric Email Unsubscribe Best Practices Businesses, industry and trade industry...
+
+Load More Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team Megan Kruse photo Megan Kruse
 
 Business Director, Online Trust Alliance
 
