@@ -9,143 +9,157 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
-    *   Gucci Sun &. More Up to 65% Off
-    *   Ray-Ban
-    *   DIFF Eyewear Under $40
-    *   Fits for All: Denim ft. 7 For All Mankind
-    *   Sleek Simplicity: Michael Stars Tops &. More
-    *   Betsey Johnson &. Love...Ady Dresses
-    *   Refined Ruffles &. More: Styles from 1.STATE
-    *   Christopher Kon Handbags Up to 65% Off
-    *   Snuggle Up: Cozy Pajamas Incl. Plus
-    *   Halston Heritage
-    *   From $10: Sphynx Portable Razor
-    *   ROCKINBEAUTY: Hydrating Lip Plumpers &. More
-    *   Block Heel Sandals, Mules &. More Up to 60% Off
-    *   Marc Fisher LTD
-    *   Workout Warrior: Sports Bras Under $20
-    *   Weekend Warrior: Men's Active Under $25
-    *   Supra Sneakers Up to 55% Off
-    *   1.STATE Shoes Up to 60% Off
-    *   True Religion
-    *   Tommy Bahama Bedding
-    *   Power Up: Chargers for Smart Phones &. Watches
-    *   Tea Collection
-    *   CZ by Kenneth Jay Lane Jewelry
-    *   Free Shipping: Sheet Sets Up to 75% Off
+    *   Sanctuary Up to 75% Off Incl. Plus &. Petites
+    *   Desigual
+    *   Standout Summer Dresses ft. Meghan LA
+    *   Bedding Brands We Love: Vera Wang, UGG &. More
+    *   adidas Phone Cases Starting at $20
+    *   New on HauteLook: Simplicity Vacuums
+    *   Free Shipping: BergHOFF Kitchen Essentials
+    *   Dine in Style: Flatware &. More
+    *   Hydrapeak Insulated Water Bottles Under $15
+    *   14K Gold Jewelry Steals
+    *   Rebecca Minkoff Up to 50% Off
+    *   Joules Raincoats
+    *   Bumkins
+    *   Men's Leather Accessories ft. Frye
+    *   JBW Watches
+    *   SUVA Beauty: Hydra Liners &. More
+    *   Erborian Korean Skin Therapy
+    *   Kenneth Cole Reaction From $30
+    *   In Bloom Lingerie &. Sleep Under $30
+    *   Thorogood &. More Up to 65% Off
+    *   Men's Summer Button-Downs ft. TailorByrd
+    *   UR Bath &. Body Co. Starting at $12
+    *   Sweet Summer Shoes Up to 60% Off
+    *   Keep It Casual: Men's Loafers Up to 65% Off
+    *   Calvin Klein Accessories
+    *   Summer Polish ft. Rebecca Minkoff from $25
+    *   Tommy Bahama Men's Clothing, Shoes &. More
     
-    *   Skinny &. Co: Five Ingredients or Less
-    *   Space Savers: Closet Organizers &. More from $10
-    *   Lucky Brand Men
-    *   Kenneth Cole Men Up to 65% Off
-    *   Juicy Couture Girls
-    *   Stephen Joseph
-    *   Jerusalem Sandals &. More Up to 50% Off
+    *   Tommy Bahama Handbags &. Luggage
+    *   Rivka Friedman Jewelry Up to 70% Off
+    *   Lorac Starting at $10
+    *   Thalgo Anti-Aging Skin Care
+    *   Tommy Bahama Kids
+    *   Tommy Bahama Bedding
+    *   Confetti
+    *   Kids' Slip-Ons from $20 ft. Native
+    *   Quiksilver Starting at $13
     *   Argan Oil Hair Products from Moroccan Gold Series
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Trending Now: Photographic Art &. More
     *   Free Shipping: Planters Starting at $25
     *   Living the Dream: Calming Wall Art
-    *   Free Shipping: Shelves, Storage &. More from $10
-    *   1-Up Your Tech: Gaming Accessories from $16
     *   Pet Accessories Blowout
     *   Storage Steals Up to 65% Off
-    *   Terre Mere Organic Beauty Up to 75% Off
-    *   Rodial Skin Care Up to 80% Off
     *   Hit Snooze: Bedding Essentials Up to 75% Off
     *   NutriChef Kitchen Electrics Up to 55% Off
+    *   Space Savers: Closet Organizers &. More from $10
+    *   Jerusalem Sandals &. More Up to 50% Off
+    *   Skinny &. Co: Five Ingredients or Less
+    *   Free Shipping: Sheet Sets Up to 75% Off
     *   Sheet Sets Up to 70% Off
-    *   adidas Kids
-    *   adidas
-    *   adidas Active
-    
-    *   adidas Kids' Active
-    *   adidas Men's Shoes
-    *   adidas Men's Active
-    *   Kids' Slip-Ons from $20 ft. Native
-    *   Tommy Bahama Handbags &. Luggage
-    *   Rivka Friedman Jewelry Up to 70% Off
-    *   Tommy Bahama Men's Clothing, Shoes &. More
-    *   Quiksilver Starting at $13
-    *   Tommy Bahama Kids
-    *   Confetti
-    *   Step into Comfort: Clarks, Born &. More
-    *   Flip-Flops ft. Rainbow
-    *   Jumpsuits &. Rompers Under $30
-    *   Thalgo Anti-Aging Skin Care
-    *   Lorac Starting at $10
-    *   Tommy Bahama Clothing &. Swim
-    *   Planet Gold Incl. Plus
-    *   T3 Luxury Hair Tools Under $100
-    *   Fit to Print: Summery Styles from Angie
-    *   Summer Suede Shoes
-    *   Work Dresses ft. Tahari
-    *   Casual &. Cool: Ella Moss &. More
-    *   Love Stitch
-*   WomenShop Sale Events
-    
-    *   Gucci Sun &. More Up to 65% Off
-    *   Ray-Ban
-    *   DIFF Eyewear Under $40
-    *   Fits for All: Denim ft. 7 For All Mankind
-    *   Sleek Simplicity: Michael Stars Tops &. More
-    *   Betsey Johnson &. Love...Ady Dresses
     *   Refined Ruffles &. More: Styles from 1.STATE
+    *   True Religion
+    *   Marc Fisher LTD
     *   Christopher Kon Handbags Up to 65% Off
+    
+    *   Ray-Ban
+    *   Gucci Sun &. More Up to 65% Off
     *   Snuggle Up: Cozy Pajamas Incl. Plus
-    *   Halston Heritage
-    *   From $10: Sphynx Portable Razor
+    *   DIFF Eyewear Under $40
+    *   1.STATE Shoes Up to 60% Off
+    *   Workout Warrior: Sports Bras Under $20
+    *   Betsey Johnson &. Love...Ady Dresses
+    *   Weekend Warrior: Men's Active Under $25
+    *   Supra Sneakers Up to 55% Off
     *   ROCKINBEAUTY: Hydrating Lip Plumpers &. More
     *   Block Heel Sandals, Mules &. More Up to 60% Off
-    *   Marc Fisher LTD
-    *   Workout Warrior: Sports Bras Under $20
-    *   1.STATE Shoes Up to 60% Off
-    *   CZ by Kenneth Jay Lane Jewelry
-    *   Skinny &. Co: Five Ingredients or Less
-    *   Argan Oil Hair Products from Moroccan Gold Series
-    
-    *   Terre Mere Organic Beauty Up to 75% Off
-    *   Rodial Skin Care Up to 80% Off
-    *   adidas
+    *   From $10: Sphynx Portable Razor
+    *   Halston Heritage
+    *   Fits for All: Denim ft. 7 For All Mankind
+    *   Sleek Simplicity: Michael Stars Tops &. More
+    *   adidas Kids
+    *   adidas Men's Active
+    *   adidas Men's Shoes
     *   adidas Active
+    *   adidas Kids' Active
+    *   adidas
+    *   Power Up: Chargers for Smart Phones &. Watches
+    *   Tea Collection
+    *   Tommy Bahama Clothing &. Swim
+    *   T3 Luxury Hair Tools Under $100
+*   WomenShop Sale Events
+    
+    *   Sanctuary Up to 75% Off Incl. Plus &. Petites
+    *   Desigual
+    *   Standout Summer Dresses ft. Meghan LA
+    *   14K Gold Jewelry Steals
+    *   Rebecca Minkoff Up to 50% Off
+    *   Joules Raincoats
+    *   JBW Watches
+    *   SUVA Beauty: Hydra Liners &. More
+    *   Erborian Korean Skin Therapy
+    *   Kenneth Cole Reaction From $30
+    *   In Bloom Lingerie &. Sleep Under $30
+    *   UR Bath &. Body Co. Starting at $12
+    *   Sweet Summer Shoes Up to 60% Off
+    *   Calvin Klein Accessories
+    *   Summer Polish ft. Rebecca Minkoff from $25
     *   Tommy Bahama Handbags &. Luggage
     *   Rivka Friedman Jewelry Up to 70% Off
-    *   Step into Comfort: Clarks, Born &. More
-    *   Flip-Flops ft. Rainbow
-    *   Jumpsuits &. Rompers Under $30
-    *   Thalgo Anti-Aging Skin Care
     *   Lorac Starting at $10
+    *   Thalgo Anti-Aging Skin Care
+    *   Argan Oil Hair Products from Moroccan Gold Series
+    *   Skinny &. Co: Five Ingredients or Less
+    
+    *   Refined Ruffles &. More: Styles from 1.STATE
+    *   Marc Fisher LTD
+    *   Christopher Kon Handbags Up to 65% Off
+    *   Ray-Ban
+    *   Gucci Sun &. More Up to 65% Off
+    *   Snuggle Up: Cozy Pajamas Incl. Plus
+    *   DIFF Eyewear Under $40
+    *   1.STATE Shoes Up to 60% Off
+    *   Workout Warrior: Sports Bras Under $20
+    *   Betsey Johnson &. Love...Ady Dresses
+    *   ROCKINBEAUTY: Hydrating Lip Plumpers &. More
+    *   Block Heel Sandals, Mules &. More Up to 60% Off
+    *   From $10: Sphynx Portable Razor
+    *   Halston Heritage
+    *   Fits for All: Denim ft. 7 For All Mankind
+    *   Sleek Simplicity: Michael Stars Tops &. More
+    *   adidas Active
+    *   adidas
     *   Tommy Bahama Clothing &. Swim
-    *   Planet Gold Incl. Plus
     *   T3 Luxury Hair Tools Under $100
-    *   Fit to Print: Summery Styles from Angie
-    *   Summer Suede Shoes
-    *   Work Dresses ft. Tahari
-    *   Casual &. Cool: Ella Moss &. More
-    *   Love Stitch
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
-    *   Lingerie
     *   Accessories
+    *   Lingerie
+    *   Jewelry
     *   Handbags
     *   Watches
 *   MenShop Sale Events
     
-    *   Gucci Sun &. More Up to 65% Off
-    *   Ray-Ban
-    *   Weekend Warrior: Men's Active Under $25
-    *   Supra Sneakers Up to 55% Off
-    *   Lucky Brand Men
-    *   Kenneth Cole Men Up to 65% Off
-    
-    *   Jerusalem Sandals &. More Up to 50% Off
-    *   adidas Men's Shoes
-    *   adidas Men's Active
+    *   Men's Leather Accessories ft. Frye
+    *   JBW Watches
+    *   Thorogood &. More Up to 65% Off
+    *   Men's Summer Button-Downs ft. TailorByrd
+    *   Keep It Casual: Men's Loafers Up to 65% Off
     *   Tommy Bahama Men's Clothing, Shoes &. More
     *   Quiksilver Starting at $13
+    
+    *   Jerusalem Sandals &. More Up to 50% Off
+    *   Ray-Ban
+    *   Gucci Sun &. More Up to 65% Off
+    *   Weekend Warrior: Men's Active Under $25
+    *   Supra Sneakers Up to 55% Off
+    *   adidas Men's Active
+    *   adidas Men's Shoes
     
     Shop By Category
     *   Clothing
@@ -154,74 +168,75 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Watches
 *   KidsShop Sale Events
     
-    *   True Religion
-    *   Tea Collection
-    *   Juicy Couture Girls
-    *   Stephen Joseph
-    *   adidas Kids
-    *   adidas Kids' Active
-    *   Kids' Slip-Ons from $20 ft. Native
+    *   Bumkins
     *   Tommy Bahama Kids
     *   Confetti
+    *   Kids' Slip-Ons from $20 ft. Native
+    *   True Religion
+    *   adidas Kids
+    *   adidas Kids' Active
+    *   Tea Collection
     
     Shop By Category
+    *   Boys' Sizes 2T-7
     *   Girls' Shoes
     *   Girls' Sizes 2T-6X
     *   Boys' Shoes
-    *   Baby Girl
-    *   Boys' Sizes 2T-7
     *   Girls' Sizes 7-16
-    *   Baby Boy
+    *   Baby Girl
     *   Boys' Sizes 8-20
-    *   The Toy Shop
+    *   Baby Boy
     *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Bedding Brands We Love: Vera Wang, UGG &. More
+    *   adidas Phone Cases Starting at $20
+    *   New on HauteLook: Simplicity Vacuums
+    *   Free Shipping: BergHOFF Kitchen Essentials
+    *   Dine in Style: Flatware &. More
+    *   Hydrapeak Insulated Water Bottles Under $15
     *   Tommy Bahama Bedding
-    *   Power Up: Chargers for Smart Phones &. Watches
-    *   Free Shipping: Sheet Sets Up to 75% Off
-    *   Space Savers: Closet Organizers &. More from $10
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Trending Now: Photographic Art &. More
-    *   Free Shipping: Planters Starting at $25
     
+    *   Free Shipping: Planters Starting at $25
     *   Living the Dream: Calming Wall Art
-    *   Free Shipping: Shelves, Storage &. More from $10
-    *   1-Up Your Tech: Gaming Accessories from $16
     *   Pet Accessories Blowout
     *   Storage Steals Up to 65% Off
     *   Hit Snooze: Bedding Essentials Up to 75% Off
+    *   Space Savers: Closet Organizers &. More from $10
+    *   Free Shipping: Sheet Sets Up to 75% Off
     *   Sheet Sets Up to 70% Off
+    *   Power Up: Chargers for Smart Phones &. Watches
     
     Shop By Category
     *   Bedding
     *   Home Decor
-    *   Cleaning &. Organization
-    *   Pet Accessories
     *   Kitchen &. Tabletop
-    *   Luggage &. Travel
-    *   Outdoor Living
+    *   Pet Accessories
+    *   Cleaning &. Organization
     *   Tech Accessories
+    *   Outdoor Living
     *   Bath
-    *   Rugs &. Doormats
-    *   Accent Furniture
+    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
-    *   From $10: Sphynx Portable Razor
-    *   ROCKINBEAUTY: Hydrating Lip Plumpers &. More
-    *   Skinny &. Co: Five Ingredients or Less
-    *   Argan Oil Hair Products from Moroccan Gold Series
-    *   Terre Mere Organic Beauty Up to 75% Off
-    *   Rodial Skin Care Up to 80% Off
-    *   Thalgo Anti-Aging Skin Care
+    *   SUVA Beauty: Hydra Liners &. More
+    *   Erborian Korean Skin Therapy
+    *   UR Bath &. Body Co. Starting at $12
     *   Lorac Starting at $10
+    *   Thalgo Anti-Aging Skin Care
+    *   Argan Oil Hair Products from Moroccan Gold Series
+    *   Skinny &. Co: Five Ingredients or Less
+    *   ROCKINBEAUTY: Hydrating Lip Plumpers &. More
+    *   From $10: Sphynx Portable Razor
     *   T3 Luxury Hair Tools Under $100
     
     Shop By Category
     *   Makeup
+    *   Bath &. Body
     *   Skin Care
     *   Hair Care
-    *   Bath &. Body
     *   Tools &. Accessories
     *   Fragrance
 
