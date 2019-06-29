@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive up to 70% off swimwear, water shoes and more. 40% off full-price styles!
+Receive 50% off full-price pants, shorts and skirts. 40% off full-price styles!
 
-code: SALTY pin: 2364 DETAILS
+code: SAND pin: 2645 DETAILS
 
 Customer Service Menu
 
