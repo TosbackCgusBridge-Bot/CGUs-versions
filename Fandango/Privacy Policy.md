@@ -67,9 +67,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: ‘Annabelle Comes Home’ Director Commentary, ‘Child’s Play’ Easter Eggs and More Read More
+    *   The Week in Movie News: ‘Thor: Ragnarok’ Director Takes on ‘Flash Gordon,’ Paul Rudd Joins ‘Ghostbusters 2020 and More Read More
     *   See 'Avengers: Endgame,' the year's number one movie on the big screen one more time before it leaves theaters, now with new bonus material! Read More
-    *   Next 3 Pixar Movies: 'Onward,' 'Soul,' ??? Read More
+    *   13 Of Your Biggest ‘Charlie’s Angels’ Questions, Answered Read More
     
     Explore Content
     *   Movie Reviews
