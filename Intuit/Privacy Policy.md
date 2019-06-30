@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   My AccountSign InSign InNew Customer? Register Here
+*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -29,22 +29,22 @@ Shop Departments
 
 Near YouFind a StoreBack$5St. John’s Bay or A.N.A tees includes petites | reg. $14-$22 ea.$7Women’s St. John’s Bay novelty tees | reg. $27 ea.$12St. John’s Bay or A.N.A shorts includes petites | reg. $32 ea.2 FOR $30Women's sandals | sale $17.99 ea. | reg. $407.99Men’s St. John’s Bay tees | reg. $16 ea.14.99Men’s St. John’s Bay flat-front shorts | reg. $36 ea.9.99Men’s St. John’s Bay polos | reg. $26-$3019.99Men’s The Foundry Big &. Tall flat-front shorts | reg. $406.99Girls’ Arizona tanks and shorts &. Boys’ Arizona tanks | reg. $17 ea.9.99Kids’ Xersion shorts | reg. $22 ea.6.99Kids’ Xersion tees | reg. $14 ea.60% OFFCarter’s rompers &. creepers | reg. $14-$18 ea.2 FOR $7Home Expressions 100% cotton ombre stripe or solid bath towel | reg. $10 ea.39.99 EA.JCPenney Home or Home Expressions Classic down-alt twin/twin XL comforter | reg. $79 ea.$20Sun Zero Emory 2-pk. curtains | reg. $40 | 50% off all other 2-pk. curtains2 FOR $18Liz Claiborne 30x58" luxury Egyptian cotton solid bath towel | reg. $26DORM 101Little spaces, lofty ideas. The 2019 dorm collection offers design inspiration to make far away feel like home.$10 OFF $50 OR MORE KIDS’ UNIFORMS, APPAREL &. ACCESSORIES WITH CODE: UNIFORM7 | get detailsRecommended for You
 
-*   from$1104after couponwas $26 - $60 Home Expressions Microfiber Plus Easy Care Wrinkle Resistant Sheet Set(1531)
-*   $3999 sale
+*   from$339after couponwas $10 - $76 JCPenney Home Mix And Match Stripe or Leaf Bath Towel(5)
+*   2 Or More $15.00 Each
     
-    was $45 | 11% offNike Womens Tanjun Slide Sandals(11)
-*   from$599 sale
+    $1799 sale
     
-    was $16 - $124 | 56 - 63% offLiz Claiborne Luxury Egyptian Solid Bath Towel Set(1020)
+    was $50 | 64% offArizona Forum Womens Footbed Sandals(18)
+*   from$299 sale
+    
+    was $6 - $48 | 50 - 64% offHome Expressions Solid or Stripe Bath Towel Collection(193)
 *   $5 sale
     
-    was $6 | 16% offSt. John's Bay Active Quick Dry-Womens V Neck Short Sleeve T-Shirt(20)
-*   from$12 sale
+    was $6 | 16% offSt. John's Bay Active Quick Dry-Womens V Neck Short Sleeve T-Shirt(21)
+*   $7
     
-    was $32 | 56 - 62% offSt. John's Bay Secretly Slender Mid Rise Capris(144)
-*   $5 sale
-    
-    was $19 | 73% offa.n.a Womens Round Neck Sleeveless Tank Top(14)
+    Xersion-Womens Performance Tee(1364)
+*   from$1444after couponwas $22 - $90 JCPenney Home™ Ultima Bath Rug Collection(700)
 
 Shop and Save at JCPenney
 
