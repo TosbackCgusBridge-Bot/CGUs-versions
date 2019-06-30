@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off full-price pants, shorts and skirts. 40% off full-price styles!
+Receive 40% off full-price styles!
 
-code: SAND pin: 2645 DETAILS
+code: WAVES pin: 1942 DETAILS
 
 Customer Service Menu
 
