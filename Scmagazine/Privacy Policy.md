@@ -216,22 +216,22 @@ Attention: Chief Digital Officer
     *   Recent
     
     *   Radiohead sells recordings to public after 'Creep' hacker threatens to leak them
-    *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
     *   Huawei products riddled with backdoors, zero days and critical vulnerabilities
+    *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
     *   Rapper Dave East nudes reportedly leaked
     *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
     
-    *   Dell SupportAssist bug leaves millions of PCs vulnerable
+    *   5M records exposed by misconfigured MedicareSupplement.com MongoDB
     *   Mueller will testify publicly before House Intelligence, Judiciary Committees after subpoenas
-    *   Dominion National announces nearly decade long breach
-    *   Palo Alto’s Unit 42 discovered 10 'Important' Microsoft bugs
-    *   Riltok banking trojan begins targeting Europe
+    *   Huawei products riddled with backdoors, zero days and critical vulnerabilities
+    *   Data management firm exposed client info on open Amazon S3 buckets: researchers
+    *   Rolling the Dice on AI
     
+    *   Data management firm exposed client info on open Amazon S3 buckets: researchers
+    *   Cellebrite claims it can crack any iPhone or Android, Trump admins weigh encryption ban
+    *   Medtronic recalls insulin pumps due to potential of hacker sabotage
     *   Baltimore approves $10M for ransomware relief, expects $18M in damages
     *   Cloud provider PCM hacked, customer info likely stolen for gift card scam
-    *   Cisco releases security updates for Data Center Network Manager
-    *   Researches: Wipro breach part of much larger gift card fraud operation
-    *   ShadowGate malvertising group serves up SEON ransomware via Greenflash Sundown exploit kit
 
 Back to Top
 
