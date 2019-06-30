@@ -57,8 +57,8 @@ View more results
     *   Backgammon: Board Game Online Multiplayer
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Fireboy and Watergirl: The Forest Temple
-    *   Slither.io
     *   Warbanner
+    *   Slither.io
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Madalin Cars Multiplayer
     *   Klondike - the lost expedition
@@ -85,8 +85,8 @@ View more results
     
     Best Games
     *   Apple Shooter: Arrow Game
-    *   Slither.io
     *   Warbanner
+    *   Slither.io
     *   Total Front: Army War Game
     *   Stunt Skateboard 3D
     *   Uphill Rush 7: Waterpark
@@ -219,8 +219,8 @@ View more results
     *   Country Ride: Race Car Game
     *   Uphill Rush 7: Waterpark
     *   Bike Racing: Motorcycle Game
-    *   Happy Wheels
     *   Agame Stunt Cars
+    *   Happy Wheels
     *   Rally Point 2: Dirt Track Racing Game
     *   Moto X3M: Motorcycle Racing Game
     *   Neon Biker
