@@ -60,8 +60,8 @@ View more results
     *   Warbanner
     *   Slither.io
     *   Fireboy &. Watergirl 4: Crystal Temple
-    *   Madalin Cars Multiplayer
     *   Klondike - the lost expedition
+    *   Madalin Cars Multiplayer
     *   Total Front: Army War Game
     *   Bubble Machine: 2 Player Game
 *   Top Categories
@@ -94,8 +94,8 @@ View more results
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Short Life
     *   Stickman Archer 2
-    *   Pixel Apocalypse
     *   Combat Strike 2: 3D Shooting Game Online Multiplayer
+    *   Pixel Apocalypse
 *   Top Categories
     
     *   Platform Games
@@ -120,8 +120,8 @@ View more results
     *   Five Nights at Freddy's 2
     *   World Craft 2
     *   Short Life
-    *   Fire Balls
     *   Tom and Jerry: Mouse Maze
+    *   Fire Balls
     *   Five Nights at Freddy's 5
     *   Fireboy and Watergirl 5: Elements
     *   Five Nights at Freddy's 4
@@ -187,8 +187,8 @@ View more results
     *   Vincy Lip Care
     *   Love Tester 2.0
     *   The Princess: Sent to the Future - Dress Up Game
-    *   Get Your Boyfriend
     *   Popstar Dentist
+    *   Get Your Boyfriend
     *   Ella: Hips Surgery
     *   Princess Rivalry
     *   Extreme Dental Emergency
@@ -219,8 +219,8 @@ View more results
     *   Country Ride: Race Car Game
     *   Uphill Rush 7: Waterpark
     *   Bike Racing: Motorcycle Game
-    *   Agame Stunt Cars
     *   Happy Wheels
+    *   Agame Stunt Cars
     *   Rally Point 2: Dirt Track Racing Game
     *   Moto X3M: Motorcycle Racing Game
     *   Neon Biker
@@ -247,8 +247,8 @@ View more results
     *   Apple Shooter: Arrow Game
     *   Stunt Skateboard 3D
     *   Archery World Tour
-    *   Baseball
     *   Ultimate Boxing
+    *   Baseball
     *   Table Tennis World Tour
     *   8-Ball
     *   Neon Biker
@@ -266,8 +266,8 @@ View more results
     
     Recommended Games
     
-    *   Game of Thrones
-    *   League of Angels 3
+    *   Wizard 101
+    *   Dauntless
     *   PopTropica
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
