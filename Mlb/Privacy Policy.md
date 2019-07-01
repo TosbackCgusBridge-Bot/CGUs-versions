@@ -16,9 +16,8 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Scores News Video Standing
     
     Featured
     *   Cut4
-    *   Google MLB All-Star Ballot
+    *   All-Star Game rosters
     *   Play Ball
-    *   London Series
     *   Pipeline
     *   MLB Photos
     *   Rare Feats
