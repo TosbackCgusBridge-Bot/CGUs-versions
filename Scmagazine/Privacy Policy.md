@@ -221,11 +221,11 @@ Attention: Chief Digital Officer
     *   Rapper Dave East nudes reportedly leaked
     *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
     
-    *   5M records exposed by misconfigured MedicareSupplement.com MongoDB
-    *   Mueller will testify publicly before House Intelligence, Judiciary Committees after subpoenas
-    *   Huawei products riddled with backdoors, zero days and critical vulnerabilities
-    *   Data management firm exposed client info on open Amazon S3 buckets: researchers
-    *   Rolling the Dice on AI
+    *   The picture of threat intelligence
+    *   Four attributes that make for a valuable pen tester
+    *   Construction industry staffers most vulnerable to phishing scams, report
+    *   Cloud provider PCM hacked, customer info likely stolen for gift card scam
+    *   U.S. launched cyberattacks on Iranian intel targets, report
     
     *   Data management firm exposed client info on open Amazon S3 buckets: researchers
     *   Cellebrite claims it can crack any iPhone or Android, Trump admins weigh encryption ban
