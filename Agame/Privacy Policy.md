@@ -121,13 +121,13 @@ View more results
     *   World Craft 2
     *   Short Life
     *   Tom and Jerry: Mouse Maze
-    *   Fire Balls
     *   Five Nights at Freddy's 5
+    *   Fire Balls
     *   Fireboy and Watergirl 5: Elements
-    *   Five Nights at Freddy's 4
     *   FNAF World
+    *   Five Nights at Freddy's 4
     *   Five Nights at Freddy's: Sister Location
-    *   Vex 4
+    *   Five Nights at Freddy's: Ultimate
 *   Top Categories
     
     *   Bubble Shooter
@@ -191,7 +191,7 @@ View more results
     *   Get Your Boyfriend
     *   Ella: Hips Surgery
     *   Princess Rivalry
-    *   Extreme Dental Emergency
+    *   Beauty's Transformation: Fashion Game
 *   Top Categories
     
     *   BMX Games
