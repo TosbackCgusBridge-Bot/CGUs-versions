@@ -466,7 +466,6 @@ Promotions
 
 Sweepstakes Official Rules/Winners
 
-*   Ratings and Reviews Giveaway Official Rules
 *   Social Giveaway Official Rules
 *   Sweepstakes Winners
 
