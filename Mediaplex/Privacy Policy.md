@@ -1,8 +1,4 @@
-Cookies help us keep internet content free. By continuing to use our website or by clicking "Got It", you agree to the use of cookies. **Learn More**
-
-If you decline, your information won’t be tracked when you visit this website. A single cookie will be used in your browser to remember your preference not to be tracked.
-
-AcceptDecline Publicis Groupe Signs Agreement to Acquire Epsilon-Conversant Learn more
+Publicis Groupe Signs Agreement to Acquire Epsilon-Conversant
 
 *   Careers
 *   Ad Quality
