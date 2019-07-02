@@ -6,33 +6,27 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movies Now Playing
     
     *   Toy Story 4
-    *   Child's Play (2019)
+    *   Annabelle Comes Home
+    *   Yesterday (2019)
     *   Aladdin (2019)
-    *   Men in Black: International
     *   The Secret Life of Pets 2
+    *   Men in Black: International
+    *   Avengers: Endgame (2019)
+    *   Child's Play (2019)
     *   Rocketman
     *   John Wick: Chapter 3 – Parabellum
     *   Godzilla: King of the Monsters (2019)
-    *   Dark Phoenix
-    *   Shaft (2019)
-    *   Anna (2019)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Annabelle Comes Home
-    *   Yesterday (2019)
-    *   The Last Whistle
-    *   Maiden
-    *   Ophelia
-    *   The Other Side of Heaven 2: Fire of Faith
-    *   Three Peaks
+    *   Spider-Man: Far From Home (2019)
+    *   Midsommar
+    *   Marianne &. Leonard: Words of Love
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Spider-Man: Far From Home (2019)
-    *   Midsommar
     *   Crawl (2019)
     *   Stuber
     *   The Lion King (2019)
@@ -40,6 +34,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Fast &. Furious Presents: Hobbs &. Shaw
     *   Dora and the Lost City of Gold
     *   Scary Stories to Tell in the Dark
+    *   The Kitchen (2019)
+    *   The Art of Racing in the Rain
     *   See All Coming Soon
     
     Explore More
@@ -68,8 +64,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   The Week in Movie News: ‘Thor: Ragnarok’ Director Takes on ‘Flash Gordon,’ Paul Rudd Joins ‘Ghostbusters 2020 and More Read More
-    *   See 'Avengers: Endgame,' the year's number one movie on the big screen one more time before it leaves theaters, now with new bonus material! Read More
-    *   13 Of Your Biggest ‘Charlie’s Angels’ Questions, Answered Read More
+    *   Next 3 Music-Driven Movies: 'The Lion King,' 'Blinded by the Light,' 'Cats' Read More
+    *   Today in Movie Culture: What You Need to Know Before Seeing ‘Spider-Man: Far From Home,’ An Intro to Folk Horror and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -292,9 +288,9 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   'Yesterday' Gift With Purchase
+*   Fandango's Summer Sweepstakes
     
-    Get a free\* song download of "Yesterday" with ticket purchase! (\*Terms Apply) BUY TICKETS
+    Enter now for a chance to win a trip to experience epic new adventures at Universal Parks &. Resorts in Orlando or Hollywood! ENTER NOW
     
 *   $3 Off Avengers: Endgame
     
@@ -347,7 +343,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   June Celebrity Birthdays
+*   July Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Privacy Policy Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App
