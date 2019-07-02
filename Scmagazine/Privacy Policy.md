@@ -218,20 +218,20 @@ Attention: Chief Digital Officer
     *   Radiohead sells recordings to public after 'Creep' hacker threatens to leak them
     *   Huawei products riddled with backdoors, zero days and critical vulnerabilities
     *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
-    *   Rapper Dave East nudes reportedly leaked
     *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
+    *   Rapper Dave East nudes reportedly leaked
     
-    *   The picture of threat intelligence
-    *   Four attributes that make for a valuable pen tester
-    *   Construction industry staffers most vulnerable to phishing scams, report
-    *   Cloud provider PCM hacked, customer info likely stolen for gift card scam
-    *   U.S. launched cyberattacks on Iranian intel targets, report
+    *   Second Florida city burned by ransomware and pays attackers
+    *   Operation Soft Cell campaign targets cellular telecom providers, points to China's APT10
+    *   Why infosec vendors can’t sell to most CISOs
+    *   Russian cyber spies likely hijacked Iranian APT group's infrastructure to deliver backdoor
+    *   Apple releases eight updates for AirPort Base Station bugs
     
-    *   Data management firm exposed client info on open Amazon S3 buckets: researchers
-    *   Cellebrite claims it can crack any iPhone or Android, Trump admins weigh encryption ban
-    *   Medtronic recalls insulin pumps due to potential of hacker sabotage
-    *   Baltimore approves $10M for ransomware relief, expects $18M in damages
-    *   Cloud provider PCM hacked, customer info likely stolen for gift card scam
+    *   The company you keep
+    *   A cautious embrace of Pollyanna
+    *   More women in the pipeline
+    *   Women in Security: PowerPlayers
+    *   Women in Security: Women to Watch
 
 Back to Top
 
