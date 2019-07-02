@@ -1,4 +1,5 @@
-Skip to main content Free Standard U.S. Shipping Every Day on Orders $99+\*1-800-REPLACE (1-800-737-5223)1-800-737-5223 Free Standard U.S. Shipping Orders $99+\*1-800-737-5223 Sign In / Create Account Home China - Dinnerware
+Skip to main content Free Standard U.S. Shipping on Orders $99 $59+ with code 59JU4\*\*1-800-REPLACE (1-800-737-5223)1-800-737-5223 Free Standard U.S. Shipping On Orders $59+  
+WITH CODE 59JU4\*\*1-800-737-5223 Sign In / Create Account Home China - Dinnerware
 
 *   Brands A-Z
 *   Register Your Pattern
@@ -27,8 +28,9 @@ Collectibles
 *   Identification Help
 *   Annual Ornaments &. Giftware
 
-Estate Jewelry
+Jewelry &. Watches
 
+*   Watches
 *   Rings
 *   Earrings
 *   Bracelets
@@ -67,8 +69,8 @@ Get Inspired
 My Account Contact Us Shopping Cart Cart0 China  
 Dinnerware Crystal  
 Glassware Silver  
-Flatware Estate  
-Jewelry
+Flatware Jewelry  
+&. Watches
 
 *   Cart0
 *   My Account
@@ -151,25 +153,29 @@ Jewelry
     
     *   Tabletop Resources
     *   Display Your TreasuresShop top collectibles >.
-*   Estate Jewelry
+*   Estate Jewelry & Watches
     
+    *   Estate Jewelry
     *   Rings
     *   Earrings
     *   Bracelets
     *   Necklaces
-    
     *   Pendants
     *   Pins &. Brooches
     *   Gentleman's Jewelry
-    *   Premium BrandsExplore Estate Jewelry >.
+    *   Premium Brands
+    
+    *   Watches
+    *   Men's Watches
+    *   Women's WatchesExplore Estate Jewelry >.
 *   Specials
     
     *   Weekly Features
-    *   Save Up to 50%
+    *   Great Ways to Save
     *   Yard Sale
     
     *   Dinnerware Sets &. More
-    *   Warehouse Sale
+    *   Overstocks
     *   LookbooksShop dinnerware, gifts &. more >.
 
 *   Our Story
