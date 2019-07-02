@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off full-price swimwear, water shoes and more. 40% off full-price styles!
+Receive 50% off full-price women's and men's polos. 40% off full-price styles!
 
-code: BERRIES pin: 2745 DETAILS
+code: CHERRY pin: 4268 DETAILS
 
 Customer Service Menu
 
