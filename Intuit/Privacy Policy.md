@@ -1,4 +1,4 @@
-Free Shipping Over $99See DetailsAccessible View
+Free Shipping over $99See DetailsAccessible View
 
 *   My AccountSign InSign InNew Customer? Register Here
     *   My Account
@@ -27,24 +27,20 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackDORM 101Little spaces, lofty ideas. The 2019 dorm collection offers design inspiration to make far away feel like home.$10 OFF $50 OR MORE KIDS’ UNIFORMS, APPAREL &. ACCESSORIES WITH CODE: UNIFORM7 | get detailsRecommended for You
+Near YouFind a StoreBack20 - 50% OFF HOME SALE select stylesUP TO 60% OFF FURNITURE &. MATTRESSES+ EXTRA 15% OFF with coupon | select stylesUP TO 70% OFF OUTDOOR OASIS select styles | EXPLORE THE BUYING GUIDEDORM 101 Little spaces, lofty ideas. The 2019 dorm collection offers design inspiration to make far away feel like home.$10 OFF $50 OR MORE KIDS’ UNIFORMS, APPAREL &. ACCESSORIES WITH CODE: UNIFORM7 | get detailsRecommended for You
 
-*   $7
+*   $1699after couponwas $60 a.n.a Womens Meadow Wedge Sandals(42)
+*   LIMITED TIME SPECIAL!
     
-    Xersion-Womens Performance Tee(1366)
-*   $5 sale
+    $2999 sale
     
-    was $17 | 70% offa.n.a Womens V Neck Sleeveless Tank Top(59)
-*   from$299 sale
+    was $75 | 60% offLIMITED TIME SPECIAL! Q7 Sport Black Smart Watch-Q7s3556b64c-003(36)
+*   $425after couponwas $17 a.n.a Womens V Neck Sleeveless Tank Top(59)
+*   from$747after couponwas $44 Worthington Perfect Trouser(288)
+*   from$254after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1272)
+*   $3999 sale
     
-    was $6 - $48 | 50 - 64% offHome Expressions Solid or Stripe Bath Towel Collection(194)
-*   ADVERTISED DEAL!
-    
-    from$1699after couponwas $50 - $159 550tc UltraFit Performance Sheet Set - Studio™(1700)
-*   from$1899 sale
-    
-    was $44 | 43 - 56% offWorthington Perfect Trouser(288)
-*   from$1104after couponwas $26 - $60 Home Expressions Microfiber Plus Easy Care Wrinkle Resistant Sheet Set(1532)
+    was $45 | 11% offNike Womens Tanjun Slide Sandals(12)
 
 Shop and Save at JCPenney
 
