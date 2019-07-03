@@ -1,4 +1,4 @@
-Jul 2 Menutimeanddate.comSearch ×Site / ArticlesCity / CountrySocial ×Share this page / Follow us on:FacebookTweetFollowTwitterVisit us on:FacebookTwitter
+Menutimeanddate.comSearch ×Site / ArticlesCity / CountrySocial ×Share this page / Follow us on:FacebookTweetFollowTwitterVisit us on:FacebookTwitter
 
 *   BackMy account
     *   My Location
@@ -271,6 +271,4 @@ Cookies
 
 Copyright © Time and Date AS 1995–2019. All rights reserved.
 
-Feedback | Short URL | <a id=LRFL href="/information/feedback.html">Feedback</a>. | About Us | Advertising | Disclaimer | Privacy | Sitemap x
-
-**LIVE TOTAL SOLAR ECLIPSE** – Watch the eclipse as it happens
+Feedback | Short URL | <a id=LRFL href="/information/feedback.html">Feedback</a>. | About Us | Advertising | Disclaimer | Privacy | Sitemap
