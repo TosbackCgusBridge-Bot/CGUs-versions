@@ -59,7 +59,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 403 7022 1 855 403 7022
+    \+ 1 800 213 4848 + 1 800 213 4848
     
 
 *   Solutions By Function
@@ -117,7 +117,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 403 7022 1 855 403 7022
+    \+ 1 800 213 4848 + 1 800 213 4848
     
 
 GARTNER PRIVACY POLICY Effective Date: June 2019
@@ -422,7 +422,7 @@ The countries to which we transfer data outside of the EEA may include any of th
 
 All Gartner entities have signed an Intragroup Agreement containing the European Union (“EU”) Commission Approved Standard Contractual Clauses for the transfer of data outside the European Economic Area. All Gartner entities have the same technical, physical, and administrative security controls and are required to comply with our data protection policies and procedures, applicable laws, and the terms of our client and member contracts governing the collection and use of information.
 
-**Privacy Shield.**  Gartner complies with the EU-US and US-Swiss Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of information from European Union member countries, and is subject to the investigatory and enforcement powers of the United States Federal Trade Commission. Gartner adheres to the Privacy Shield Principles of Policy, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. 
+**Privacy Shield.**  Gartner complies with the EU-US and US-Swiss Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of information from European Union member countries, and is subject to the investigatory and enforcement powers of the United States Federal Trade Commission. Gartner adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. 
 
 Gartner’s accountability for information that we receive under the Privacy Shield and subsequently transfer to a third party is described in the Privacy Shield Principles. In particular, we remain responsible and liable under the Privacy Shield Principles if third-party agents that we engage to process the information on our behalf do so in a manner inconsistent with the Principles, unless we prove that we are not responsible for the event giving rise to the damage.
 
