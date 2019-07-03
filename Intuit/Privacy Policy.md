@@ -1,6 +1,6 @@
 Free Shipping over $99See DetailsAccessible View
 
-*   My AccountSign InSign InNew Customer? Register Here
+*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -27,20 +27,18 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBack20 - 50% OFF HOME SALE select stylesUP TO 60% OFF FURNITURE &. MATTRESSES+ EXTRA 15% OFF with coupon | select stylesUP TO 70% OFF OUTDOOR OASIS select styles | EXPLORE THE BUYING GUIDEDORM 101 Little spaces, lofty ideas. The 2019 dorm collection offers design inspiration to make far away feel like home.$10 OFF $50 OR MORE KIDS’ UNIFORMS, APPAREL &. ACCESSORIES WITH CODE: UNIFORM7 | get detailsRecommended for You
+Near YouFind a StoreBackUP TO 50% OFF HOME SALE select stylesUP TO 60% OFF FURNITURE &. MATTRESSES+ EXTRA 15% OFF with coupon | select stylesUP TO 70% OFF OUTDOOR OASIS select styles | EXPLORE THE BUYING GUIDEDORM 101 Little spaces, lofty ideas. The 2019 dorm collection offers design inspiration to make far away feel like home.$10 OFF $50 OR MORE KIDS’ UNIFORMS, APPAREL &. ACCESSORIES WITH CODE: UNIFORM7 | get detailsRecommended for You
 
-*   $1699after couponwas $60 a.n.a Womens Meadow Wedge Sandals(42)
-*   LIMITED TIME SPECIAL!
-    
-    $2999 sale
-    
-    was $75 | 60% offLIMITED TIME SPECIAL! Q7 Sport Black Smart Watch-Q7s3556b64c-003(36)
-*   $425after couponwas $17 a.n.a Womens V Neck Sleeveless Tank Top(59)
-*   from$747after couponwas $44 Worthington Perfect Trouser(288)
-*   from$254after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1272)
 *   $3999 sale
     
     was $45 | 11% offNike Womens Tanjun Slide Sandals(12)
+*   from$254after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(143)
+*   $1699after couponwas $40 Stafford Men's Regular-Fit Easy-Care Stretch Dress Shirt(79)
+*   $425after couponwas $19 a.n.a Womens Round Neck Sleeveless Tank Top(15)
+*   from$1274after couponwas $50 - $159 550tc UltraFit Performance Sheet Set - Studio™(1700)
+*   $7
+    
+    Xersion-Womens Performance Tee(1368)
 
 Shop and Save at JCPenney
 
