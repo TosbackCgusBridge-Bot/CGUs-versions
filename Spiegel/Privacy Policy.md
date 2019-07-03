@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   2\. Juli 2019
+*   3\. Juli 2019
 *   Abo
-*   DAX 12.521,38ǀ
+*   DAX 12.526,72ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -113,6 +113,7 @@ Anmelden
         *   Technik
         *   Weltall
         *   Medizin
+        *   Mondlandung
     *   *   Sudoku
 *   Gesundheit
     
