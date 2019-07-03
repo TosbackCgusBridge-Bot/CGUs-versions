@@ -288,9 +288,9 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   Fandango's Summer Sweepstakes
+*   VIP+ World Elite Mastercard®
     
-    Enter now for a chance to win a trip to experience epic new adventures at Universal Parks &. Resorts in Orlando or Hollywood! ENTER NOW
+    Get 2x the points pay with World Elite Mastercard®. BUY TICKETS
     
 *   $3 Off Avengers: Endgame
     
@@ -350,4 +350,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
