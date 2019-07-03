@@ -221,17 +221,17 @@ Attention: Chief Digital Officer
     *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
     *   Rapper Dave East nudes reportedly leaked
     
-    *   Second Florida city burned by ransomware and pays attackers
-    *   Operation Soft Cell campaign targets cellular telecom providers, points to China's APT10
-    *   Why infosec vendors can’t sell to most CISOs
-    *   Russian cyber spies likely hijacked Iranian APT group's infrastructure to deliver backdoor
-    *   Apple releases eight updates for AirPort Base Station bugs
+    *   Cybersecurity executive changes
+    *   Pair of vulnerabilities could have enabled takeover of EA gamer accounts
+    *   GOP senators nix vote on Election Security Act, similar bills wend their way through Congress
+    *   Stegoware-3PC marks new high in adware sophistication
+    *   Women in Security - Advocates
     
-    *   The company you keep
-    *   A cautious embrace of Pollyanna
-    *   More women in the pipeline
-    *   Women in Security: PowerPlayers
-    *   Women in Security: Women to Watch
+    *   Hong Kong protesters fear gov't use of facial recognition, surveillance tech
+    *   Fake Facebook political pages tricked Libyans into downloading RATs
+    *   Encryption is ‘key’ for CEOs to avoid potential prison time
+    *   Exposed Orvibo database leaks two billion records
+    *   Mac OSX/CrescentCore malware designed to evade antivirus
 
 Back to Top
 
