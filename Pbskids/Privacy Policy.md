@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _tip_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
 
-How to raise an emotionally resilient child. How to raise an emotionally resilient child. Read more.
+Forget the store-bought stuff. Create kinetic sand using 3 household ingredients! Forget the store-bought stuff. Create kinetic sand using 3 household ingredients! Get instructions
 
 Toggle message bar
 
