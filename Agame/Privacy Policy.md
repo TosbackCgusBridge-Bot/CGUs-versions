@@ -124,8 +124,8 @@ View more results
     *   Five Nights at Freddy's 5
     *   Fire Balls
     *   Fireboy and Watergirl 5: Elements
-    *   FNAF World
     *   Five Nights at Freddy's 4
+    *   FNAF World
     *   Five Nights at Freddy's: Sister Location
     *   Five Nights at Freddy's: Ultimate
 *   Top Categories
@@ -187,8 +187,8 @@ View more results
     *   Vincy Lip Care
     *   Love Tester 2.0
     *   The Princess: Sent to the Future - Dress Up Game
-    *   Popstar Dentist
     *   Get Your Boyfriend
+    *   Popstar Dentist
     *   Ella: Hips Surgery
     *   Princess Rivalry
     *   Beauty's Transformation: Fashion Game
@@ -219,8 +219,8 @@ View more results
     *   Country Ride: Race Car Game
     *   Uphill Rush 7: Waterpark
     *   Bike Racing: Motorcycle Game
-    *   Happy Wheels
     *   Agame Stunt Cars
+    *   Happy Wheels
     *   Rally Point 2: Dirt Track Racing Game
     *   Moto X3M: Motorcycle Racing Game
     *   Neon Biker
