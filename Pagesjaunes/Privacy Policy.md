@@ -1,6 +1,6 @@
 Pages Blanches Annuaire Inversé Se référencer Conditions Générales d’Utilisation du site PagesJaunes
 
-Version du 18/03/2019
+Version du 27/05/2019
 
 Mentions légales
 
