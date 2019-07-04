@@ -378,3 +378,43 @@ Does this answer your question? Yes No s
 *   Terms of Use
 *   What is the shipping policy?
 *   CA Privacy Rights
+
+SAVE 10%: Sign Up for Emails or Texts! FREE SHIPPING EVERY DAY! PLUS, FREE RETURNS Loyallists: No Minimum. Everyone Else: $150+ Info/Exclusions CUSTOMER SERVICE
+
+*   1-800-777-0000
+*   FAQs &. Help
+*   Shipping policy
+*   Returns &. Exchanges
+
+MY ACCOUNT
+
+*   Pay My Bill
+*   Order Status
+*   Loyallist Rewards
+*   Bloomingdale's Credit Card
+
+ABOUT BLOOMINGDALE'S
+
+*   About Us
+*   b.Cause
+*   Careers
+
+SHOPPING SERVICES
+
+*   Personal Shopping
+*   Corporate Gifts
+*   Pick Up In Store
+
+FOLLOW US
+
+*   Terms of Use
+*   Privacy
+*   CA Privacy Rights
+*   CA Transparency in Supply Chains Act
+*   Interest Based Ads
+*   Customers' Bill of Rights
+*   Product Recall
+*   Visually Impaired Customers
+*   Essential Accessibility
+
+© 2018 Bloomingdale's. 1000 Third Avenue New York, NY 10022. Request our corporate name and address.
