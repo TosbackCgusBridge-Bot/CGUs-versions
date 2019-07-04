@@ -126,10 +126,10 @@ PeopleSmart is very sensitive to the issue of children's privacy. The Site, as w
 
 Contacting the Site
 
-If you have any questions about this Privacy Policy, the data practices of the Site, or your dealings with the Site, please feel free to contact us at 1-888-579-5910, at privacy@peoplesmart.com, or at:
+If you have any questions about this Privacy Policy, the data practices of the Site, or your dealings with the Site, please feel free to contact us at 1-877-339-7750, at privacy@peoplesmart.com, or at:
 
 PeopleSmart  
-MSC -- 217730  
+MSC -- 211005  
 P.O. Box 105168  
 Atlanta, GA 30348-5168
 
