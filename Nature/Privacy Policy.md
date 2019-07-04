@@ -39,7 +39,6 @@
         *   Perspectives
         *   Reports
         *   Data &. Tools
-        *   Insights from Mark Tercek
     *   Global Insights
         
         Explore the latest thinking from our experts on some of the most significant challenges we face today, including climate change, food and water security, and city growth.
