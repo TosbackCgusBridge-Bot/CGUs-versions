@@ -212,7 +212,7 @@ II. Controlling and Protecting Your Privacy
     
 6.  **Password**. Store your password in a safe place, and do not share it with anyone. If you think someone has your password, change it immediately.
     
-7.  **Posting Information**. Posting personal information on public areas of our Services will make it publicly available. The personal information you post or share with others may in turn be shared by them with still other users and it may also show up when someone uses a public search engine (even if that person is not a user of our Services). \[Do not post personal information in public areas of our Services that you want to keep private\]{.underline}.
+7.  **Posting Information**. Posting personal information on public areas of our Services will make it publicly available. The personal information you post or share with others may in turn be shared by them with still other users and it may also show up when someone uses a public search engine (even if that person is not a user of our Services). **Do not post personal information in public areas of our Services that you want to keep private**.
     
 8.  **Third Parties**. We are not responsible for (and don't have any control over) the privacy policies of third party websites, apps and ad servers. We encourage you to read the privacy policies of each and every website and app you visit.
     
