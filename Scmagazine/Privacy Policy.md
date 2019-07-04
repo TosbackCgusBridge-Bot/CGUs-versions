@@ -218,20 +218,20 @@ Attention: Chief Digital Officer
     *   Radiohead sells recordings to public after 'Creep' hacker threatens to leak them
     *   Huawei products riddled with backdoors, zero days and critical vulnerabilities
     *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
+    *   Why infosec vendors can’t sell to most CISOs
     *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
-    *   Rapper Dave East nudes reportedly leaked
     
-    *   Cybersecurity executive changes
-    *   Pair of vulnerabilities could have enabled takeover of EA gamer accounts
-    *   GOP senators nix vote on Election Security Act, similar bills wend their way through Congress
-    *   Stegoware-3PC marks new high in adware sophistication
-    *   Women in Security - Advocates
-    
-    *   Hong Kong protesters fear gov't use of facial recognition, surveillance tech
-    *   Fake Facebook political pages tricked Libyans into downloading RATs
+    *   The company you keep
+    *   Lake City, Fla. IT manager pays the price for ransomware attack
     *   Encryption is ‘key’ for CEOs to avoid potential prison time
-    *   Exposed Orvibo database leaks two billion records
-    *   Mac OSX/CrescentCore malware designed to evade antivirus
+    *   Cybersecurity executive changes
+    *   U.S. Virgin Islands hit with ransomware and BEC attack
+    
+    *   Cyber Command warns hackers exploiting Outlook vulnerability to attack gov't agencies
+    *   WannaLocker ransomware found combined with RAT and banking trojan
+    *   Heaven’s Gate exploit still defiled ten years later to deliver RATs and stealers
+    *   New York Legislature passes bill that toughens breach notification standards
+    *   U.S. Virgin Islands hit with ransomware and BEC attack
 
 Back to Top
 
