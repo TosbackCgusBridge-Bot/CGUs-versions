@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off full-price pants, shorts and skirts. 40% off full-price styles!
+Receive 50% off full-price tees, tanks and polos. 40% off full-price styles!
 
-code: WHITE pin: 4369 DETAILS
+code: STRIPES pin: 4747 DETAILS
 
 Customer Service Menu
 
