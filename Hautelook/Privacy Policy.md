@@ -9,13 +9,35 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
-    *   Shiseido Ginza Tokyo Up to 60% Off
-    *   AllSaints from $25
-    *   CeCe by Cynthia Steffe from $25
-    *   24 Hours Only: Solid Sheet Sets Up to 65% Off
+    *   Johnny Was Up to 60% Off Incl. Plus
+    *   LPA, L'Academie &. Majorelle Up to 65% Off
+    *   Tiffany &. Fred Handbags
+    *   4th of July Steals: Shoes Up to 70% Off
+    *   4th of July Steals: Kids' Clothing &. Shoe Blowout
+    *   4th of July Steals: Men's Shoes Up to 70% Off
+    *   4th of July Steals: Men's Style Blowout
+    *   Go Long: Maxi Dresses Under $40
+    *   Totally On Trend: 90s-Inspired Styles from $10
+    *   Trending Now: Gorjana Jewelry &. More from $10
+    *   Taryn Rose Up to 70% Off
+    *   D24K: Luxury Skin Care
+    *   Streak-Free &. Sun-Kissed: Self Tanner
+    *   Perfect Prints Under $40 Incl. Plus &. Petites
+    *   Rachel Roy &. Nanette Lepore Swim Up to 55% Off
+    *   John Varvatos Collection
+    *   Rip Curl Starting at $13
+    *   Dr. Martens Men Up to 50% Off
+    *   Free Shipping: Fine Art &. More
+    *   Petit Lem
+    *   Beach Bound: Kids' Sandals Up to 55% Off
     *   Time to Upgrade: Bands for Smart Watches
     *   Home Best Sellers ft. Dyson, Vitamix &. KitchenAid
     *   Free Shipping: Storage Must-Haves from $10
+    *   Best of Makeup Under $30 ft. Urban Decay &. Lancome
+    
+    *   Shiseido Ginza Tokyo Up to 60% Off
+    *   AllSaints from $25
+    *   CeCe by Cynthia Steffe from $25
     *   cupcakes and cashmere
     *   Wear to Work: Pumps, Sandals &. More
     *   Mirenesse Australia Starting at $10
@@ -30,44 +52,23 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Ben Sherman Luggage
     *   Kick Back: Tops Under $30 Incl. Plus &. Petites
     *   Ted Baker London
-    *   Ted Baker London Handbags
     *   Ted Baker London Men
     *   Ted Baker London Watches &. Accessories
     *   Ted Baker London Shoes
     *   Ted Baker London Men's Shoes
-    *   Best of Makeup Under $30 ft. Urban Decay &. Lancome
-    
     *   Starting at $10: Murad, Perricone MD &. More
-    *   Effortlessly Chic: ASTR &. More from $20
-    *   14th &. Union and SUSINA Incl. Plus &. Petites
     *   On-Trend Earrings &. More Starting at $15
-    *   Shape Up: Yummie by Heather Thomson &. More
-    *   Kensie from $25
-    *   Lingerie &. Sleep Finds Under $20 Incl. Plus
     *   Michael Todd Soniclear Cleansing Brush
-    *   Ted Baker London Men's Bags
-    *   Free Shipping: Fine Art &. More
     *   Keep Cool: Linen Styles for Him
-    *   Nordstrom Rack Exclusives: 14th &. Union Shoes
+    
     *   Home Appliances Starting at $20
     *   Exclusive Brands for Girls ft. Harper Canyon
     *   Fun Footwear from Harper Canyon
     *   Make Some Waves: Quiksilver &. Roxy
     *   Free Shipping: Contemporary Decor &. More
     *   Sperry Men
-    *   On-Trend Sterling Silver &. More Up to 65% Off
     *   Orlando Pita Play Up to 60% Off
-    *   Men's Graphic Summer Tees &. More
-    *   Developmental &. Plush Toys ft. Fisher-Price
-    *   English Laundry Starting at $20
-    *   SUVA Beauty: Hydra Liners &. More
-    *   Erborian Korean Skin Therapy
-    *   UR Bath &. Body Co. Starting at $12
-    *   Tommy Bahama Bedding
-    
     *   Great Greenery: Faux Succulents Starting at $10
-    *   Maceoo Up to 65% Off
-    *   Tommy Hilfiger Shoes Up to 50% Off
     *   Free Shipping: Home Organization Essentials
     *   Teami Blends Detox Teas &. Supplements
     *   LM &. CO: Rosehip Oil, Crystal-Infused Toner &. More
@@ -75,29 +76,37 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   New on HauteLook: Simplicity Vacuums
     *   Dine in Style: Flatware &. More
     *   Hydrapeak Insulated Water Bottles Under $15
-    *   Go Couture Dresses Up to 80% Off
-    *   Shoes Up to 70% Off
-    *   Kids' Style Blowout
     *   Free Shipping: Pillow &. Throw Blowout
-    *   Men's Boots Up to 70% Off
-    *   MedPeel Skin Care Up to 60% Off
-    *   Eileen Fisher Shoes Up to 50% Off
+    *   Ted Baker London Handbags
+    *   Ted Baker London Men's Bags
     *   Stationery We Love Under $15
-    *   Boot Steals: Ankle, Peep-Toe &. More Up to 65% Off
+    *   MedPeel Skin Care Up to 60% Off
+    *   Men's Boots Up to 70% Off
     *   Men's Shoe Steals Up to 65% Off
     *   Free Shipping: BergHOFF Kitchen Essentials
-    *   Final Few: Styles Up to 80% Off
-    *   Vintage Addiction Up to 80% Off
-    *   Luxe Luggage Under $200
     *   Power Up: Chargers for Smart Phones &. Watches
 *   WomenShop Sale Events
     
+    *   Johnny Was Up to 60% Off Incl. Plus
+    *   LPA, L'Academie &. Majorelle Up to 65% Off
+    *   Tiffany &. Fred Handbags
+    *   4th of July Steals: Shoes Up to 70% Off
+    *   Go Long: Maxi Dresses Under $40
+    *   Totally On Trend: 90s-Inspired Styles from $10
+    *   Trending Now: Gorjana Jewelry &. More from $10
+    *   Taryn Rose Up to 70% Off
+    *   D24K: Luxury Skin Care
+    *   Streak-Free &. Sun-Kissed: Self Tanner
+    *   Perfect Prints Under $40 Incl. Plus &. Petites
+    *   Rachel Roy &. Nanette Lepore Swim Up to 55% Off
+    *   Best of Makeup Under $30 ft. Urban Decay &. Lancome
     *   Shiseido Ginza Tokyo Up to 60% Off
     *   AllSaints from $25
     *   CeCe by Cynthia Steffe from $25
     *   cupcakes and cashmere
     *   Wear to Work: Pumps, Sandals &. More
     *   Mirenesse Australia Starting at $10
+    
     *   Josie &. Skarlett Blue Sleep &. Lingerie
     *   AllSaints Shoes Up to 50% Off
     *   Wedges That Wow: Sandals &. More Up to 60% Off
@@ -105,65 +114,46 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Ben Sherman Luggage
     *   Kick Back: Tops Under $30 Incl. Plus &. Petites
     *   Ted Baker London
-    *   Ted Baker London Handbags
     *   Ted Baker London Watches &. Accessories
     *   Ted Baker London Shoes
-    *   Best of Makeup Under $30 ft. Urban Decay &. Lancome
     *   Starting at $10: Murad, Perricone MD &. More
-    *   Effortlessly Chic: ASTR &. More from $20
-    *   14th &. Union and SUSINA Incl. Plus &. Petites
     *   On-Trend Earrings &. More Starting at $15
-    
-    *   Shape Up: Yummie by Heather Thomson &. More
-    *   Kensie from $25
-    *   Lingerie &. Sleep Finds Under $20 Incl. Plus
     *   Michael Todd Soniclear Cleansing Brush
-    *   Ted Baker London Men's Bags
-    *   Nordstrom Rack Exclusives: 14th &. Union Shoes
-    *   On-Trend Sterling Silver &. More Up to 65% Off
     *   Orlando Pita Play Up to 60% Off
-    *   SUVA Beauty: Hydra Liners &. More
-    *   Erborian Korean Skin Therapy
-    *   UR Bath &. Body Co. Starting at $12
     *   Teami Blends Detox Teas &. Supplements
     *   LM &. CO: Rosehip Oil, Crystal-Infused Toner &. More
-    *   Go Couture Dresses Up to 80% Off
-    *   Shoes Up to 70% Off
+    *   Ted Baker London Handbags
+    *   Ted Baker London Men's Bags
     *   MedPeel Skin Care Up to 60% Off
-    *   Eileen Fisher Shoes Up to 50% Off
-    *   Boot Steals: Ankle, Peep-Toe &. More Up to 65% Off
-    *   Final Few: Styles Up to 80% Off
-    *   Vintage Addiction Up to 80% Off
-    *   Luxe Luggage Under $200
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie
     *   Jewelry
     *   Handbags
+    *   Lingerie
     *   Watches
     *   Accessories
 *   MenShop Sale Events
     
+    *   4th of July Steals: Men's Shoes Up to 70% Off
+    *   4th of July Steals: Men's Style Blowout
+    *   John Varvatos Collection
+    *   Rip Curl Starting at $13
+    *   Dr. Martens Men Up to 50% Off
     *   Ben Sherman Up to 65% Off
     *   Lacoste Men's Shoes
     *   Slim-Fit Dress Shirts Starting at $30
     *   Ben Sherman Luggage
+    
     *   Ted Baker London Men
     *   Ted Baker London Watches &. Accessories
     *   Ted Baker London Men's Shoes
-    *   Ted Baker London Men's Bags
     *   Keep Cool: Linen Styles for Him
-    
     *   Sperry Men
-    *   Men's Graphic Summer Tees &. More
-    *   English Laundry Starting at $20
-    *   Maceoo Up to 65% Off
-    *   Tommy Hilfiger Shoes Up to 50% Off
+    *   Ted Baker London Men's Bags
     *   Men's Boots Up to 70% Off
     *   Men's Shoe Steals Up to 65% Off
-    *   Luxe Luggage Under $200
     
     Shop By Category
     *   Shoes
@@ -172,12 +162,13 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Watches
 *   KidsShop Sale Events
     
+    *   4th of July Steals: Kids' Clothing &. Shoe Blowout
+    *   Petit Lem
+    *   Beach Bound: Kids' Sandals Up to 55% Off
     *   Tween Scene ft. Beautees
     *   Exclusive Brands for Girls ft. Harper Canyon
     *   Fun Footwear from Harper Canyon
     *   Make Some Waves: Quiksilver &. Roxy
-    *   Developmental &. Plush Toys ft. Fisher-Price
-    *   Kids' Style Blowout
     
     Shop By Category
     *   Girls' Sizes 7-16
@@ -185,23 +176,20 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Girls' Shoes
     *   Boys' Sizes 2T-7
     *   Baby Girl
-    *   The Toy Shop
     *   Boys' Sizes 8-20
     *   Boys' Shoes
     *   Baby Boy
 *   HomeShop Sale Events
     
-    *   24 Hours Only: Solid Sheet Sets Up to 65% Off
+    *   Free Shipping: Fine Art &. More
     *   Time to Upgrade: Bands for Smart Watches
     *   Home Best Sellers ft. Dyson, Vitamix &. KitchenAid
     *   Free Shipping: Storage Must-Haves from $10
-    *   Free Shipping: Fine Art &. More
     *   Home Appliances Starting at $20
     *   Free Shipping: Contemporary Decor &. More
-    *   Tommy Bahama Bedding
     *   Great Greenery: Faux Succulents Starting at $10
-    
     *   Free Shipping: Home Organization Essentials
+    
     *   adidas Phone Cases Starting at $20
     *   New on HauteLook: Simplicity Vacuums
     *   Dine in Style: Flatware &. More
@@ -216,23 +204,20 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Kitchen &. Tabletop
     *   Cleaning &. Organization
     *   Tech Accessories
-    *   Bedding
     *   Luggage &. Travel
-    *   Bath
     *   Rugs &. Doormats
-    *   Outdoor Living
+    *   Bedding
 *   BeautyShop Sale Events
     
+    *   D24K: Luxury Skin Care
+    *   Streak-Free &. Sun-Kissed: Self Tanner
+    *   Best of Makeup Under $30 ft. Urban Decay &. Lancome
     *   Shiseido Ginza Tokyo Up to 60% Off
     *   Mirenesse Australia Starting at $10
-    *   Best of Makeup Under $30 ft. Urban Decay &. Lancome
     *   Starting at $10: Murad, Perricone MD &. More
+    
     *   Michael Todd Soniclear Cleansing Brush
     *   Orlando Pita Play Up to 60% Off
-    
-    *   SUVA Beauty: Hydra Liners &. More
-    *   Erborian Korean Skin Therapy
-    *   UR Bath &. Body Co. Starting at $12
     *   Teami Blends Detox Teas &. Supplements
     *   LM &. CO: Rosehip Oil, Crystal-Infused Toner &. More
     *   MedPeel Skin Care Up to 60% Off
@@ -240,8 +225,8 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     Shop By Category
     *   Makeup
     *   Skin Care
-    *   Bath &. Body
     *   Tools &. Accessories
+    *   Bath &. Body
     *   Hair Care
     *   Makeup Bags
 
