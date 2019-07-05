@@ -1,6 +1,6 @@
 Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
 
-Forget the store-bought stuff. Create kinetic sand using 3 household ingredients! Forget the store-bought stuff. Create kinetic sand using 3 household ingredients! Get instructions
+What parents should know about Common Core math. What parents should know about Common Core math. Learn more
 
 Toggle message bar
 
@@ -14,6 +14,9 @@ Toggle message bar
     Choose your station for TV schedules and local features
     
     Select your local station
+    
+    *   Rocky Mountain PBS
+    *   Colorado Public Television / KBDI 12
     
     Results for 80202. Try another zip code.What is your zip code?PBS KIDS uses your zip code to find our stations in your area.Find your stationBackPBS KIDS Super Vision
     
