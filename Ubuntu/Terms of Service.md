@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Faster snap development – additional tips and tricks ›
 *   Cloud Instance Initialisation with cloud-init ›
 *   Development tips and tricks – snap try and snapcraft pack ›
 *   Ubuntu Server development summary – 26 June 2019 ›
 *   The future of mobile connectivity ›
-*   Design and Web team summary – 25 June 2019 ›
