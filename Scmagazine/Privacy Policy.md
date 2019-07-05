@@ -221,17 +221,17 @@ Attention: Chief Digital Officer
     *   Why infosec vendors can’t sell to most CISOs
     *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
     
-    *   The company you keep
-    *   Lake City, Fla. IT manager pays the price for ransomware attack
-    *   Encryption is ‘key’ for CEOs to avoid potential prison time
-    *   Cybersecurity executive changes
-    *   U.S. Virgin Islands hit with ransomware and BEC attack
+    *   Endpoint security
+    *   Hong Kong protesters fear gov't use of facial recognition, surveillance tech
+    *   Florida state worker steals resident’s PII
+    *   Where do we go from here?
+    *   Cirque du Soleil app was an insecure high-wire act for show-goers, researcher says
     
-    *   Cyber Command warns hackers exploiting Outlook vulnerability to attack gov't agencies
-    *   WannaLocker ransomware found combined with RAT and banking trojan
-    *   Heaven’s Gate exploit still defiled ten years later to deliver RATs and stealers
-    *   New York Legislature passes bill that toughens breach notification standards
-    *   U.S. Virgin Islands hit with ransomware and BEC attack
+    *   D-Link agrees to overhaul security in FTC settlement
+    *   TA505 cybergang debuts 'AndroMut" downloader to deliver FlawedAmmyy RAT globally
+    *   Border-surveillance subcontractor suspended after cyberattack
+    *   Uber pays out $375K in bug bounties during challenge in London
+    *   VMware begins patching process for Linux SACK vulnerabilities
 
 Back to Top
 
