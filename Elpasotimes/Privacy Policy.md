@@ -1,4 +1,4 @@
-SUBSCRIBE NOWOnly $1 for 3 months. Save 97%.
+SUBSCRIBE NOWOnly $3 for 3 months. Save 90%.
 
 *   Home
 *   News
@@ -9,10 +9,10 @@ SUBSCRIBE NOWOnly $1 for 3 months. Save 97%.
 *   Opinion
 *   Homes
 *   Obituaries
-*   Insider
 *   USA TODAY
 *   Photo &. Video
 *   Advertise with Us
+*   Business Directory
 *   Public Notices
 *   More
     *   Home
@@ -24,24 +24,24 @@ SUBSCRIBE NOWOnly $1 for 3 months. Save 97%.
     *   Opinion
     *   Homes
     *   Obituaries
-    *   Insider
     *   USA TODAY
     *   Photo &. Video
     *   Advertise with Us
+    *   Business Directory
     *   Public Notices
 *   search
 
 *   Subscribe
 *   Sign In
     
-    *   View Your Account
-    *   Today's e-Edition
+    *   Manage Account
+    *   Access e-Edition
     *   Newsletters
-    *   Pay Your Bill
+    *   Pay Bill
     *   Report Delivery Issues
-    *   Temporary Stop/Restart
-    *   Member Guide
-    *   Help and Support
+    *   Pause Delivery
+    *   Subscriber Guide
+    *   Help Center
     *   Sign Out
     
     Have an existing account?
@@ -58,7 +58,7 @@ SUBSCRIBE NOWOnly $1 for 3 months. Save 97%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowGabriel Iglesias to make El Paso laugh FridayEntertainmentSnow gets its 15 minutes Tuesday in El PasoWeatherThousands of 'zombie' deer are eaten each year, expert warnsHealthRecords raise questions about Hatch's residenceEducationMan allegedly abused by priest sues DioceseCrimeBorder Patrol museum protest sparks controversyCrimeMan killed in Upper Valley bar shootingCrimeMan killed after car crashes onto freeway rampTrafficHave you seen El Paso's most wanted fugitives?CrimeShots fired during Horizon City police chaseCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowWoman killed in SWAT standoff had pellet gunCrimeCory Booker escorts asylum-seekers into El PasoNewsWoman with gun shot by police at health buildingCrimeHow area towns got their names: Trish LongNewsFort Bliss soldier dies after used-car lot crashLocalEscobar: Protesters' insults don't represent cityNewsFabens man dies in accident near Fort StocktonCrimeBiker arrested in shotgun incident in Northeast El PasoCrimeLicon Dairy adds Outlaw Saloon &. Grill restaurantEntertainmentDoctors want access to migrant detention facilitiesNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -67,7 +67,6 @@ The page you're looking for isn't here.Either someone gave you a bad link or the
 *   Connect With Us
 *   RSS
 *   Apps
-*   Insider
 *   Chat Support
 *   Support
 
@@ -100,7 +99,7 @@ LifestyleOpinion
 *   Columnists
 *   Letters to the Editor
 
-HomesObituariesUSA TODAYPhoto &. VideoPublic Notices
+HomesObituariesUSA TODAYPhoto &. VideoBusiness DirectoryPublic Notices
 
 © 2019 elpasotimes.com, All rights reserved.
 
@@ -113,7 +112,7 @@ Services
 *   Community Rules
 *   Ad Choices
 *   Privacy Notice/Your California Privacy Rights
-*   Member Guide
+*   Subscriber Guide
 *   Our Ethical Principles
 *   Accessibility Support
 
@@ -130,5 +129,3 @@ Our Partners
 *   The Job Network
 *   Thanksgiving.com
 *   Grateful
-
-close dialogLast Chance!tomorrow$1 for 3 monthsLocal StoriesLocal SportsLocal NewsSubscribe TodayNo thanksLast Chance!tomorrowclose dialog
