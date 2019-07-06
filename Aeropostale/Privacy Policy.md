@@ -221,7 +221,6 @@ Close submenu ( Girls ) Girls
 *   Best Sellers
 *   Destroyed Denim
 *   Tie Dye For Stripes
-*   Americana
 *   Online Only
 *   Swim
 *   Matching Sets
@@ -236,7 +235,6 @@ Close submenu ( Guys ) Guys
 *   Best Sellers
 *   Destroyed Denim
 *   Tie Dye For Stripes
-*   Americana
 *   Online Only
 *   Swim
 *   Aero One
@@ -453,7 +451,6 @@ Menu Find a Store Aeropostale
         *   Best Sellers
         *   Destroyed Denim
         *   Tie Dye For Stripes
-        *   Americana
         *   Online Only
         *   Swim
         *   Matching Sets
@@ -467,7 +464,6 @@ Menu Find a Store Aeropostale
         *   Best Sellers
         *   Destroyed Denim
         *   Tie Dye For Stripes
-        *   Americana
         *   Online Only
         *   Swim
         *   Aero One
@@ -504,7 +500,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search FREE SHIPPING OVER $50 FREE SHIPPING OVER $50 FREE SHIPPING OVER $50 FREE SHIPPING OVER $50 FREE SHIPPING OVER $50 FREE SHIPPING OVER $50 FREE SHIPPING OVER $50 FREE SHIPPING OVER $50 FREE SHIPPING OVER $50 FREE SHIPPING OVER $50 FREE SHIPPING OVER $50 FREE SHIPPING OVER $50 FREE SHIPPING OVER $50 FREE SHIPPING OVER $50 FREE SHIPPING OVER $50 FREE SHIPPING OVER $50 FREE SHIPPING OVER $50 FREE SHIPPING OVER $50 Excludes Clearance Details Shop Girls Shop Guys Find Your Closest Store Details 4 DAYS 4 ONLINE ONLY DEALS DAY #4 DAY #4 EXTRA 15% OFF YOUR ENTIRE PURCHASE EXTRA 15% OFF YOUR ENTIRE PURCHASE WHEN YOU BUY ANY NEW ARRIVAL FROM OUR JUST IN COLLECTION Use Code DAY4 Shop Girls Shop Guys Details Shop Girls Shop Guys Aero Girls Tees Aero Guys Tees Shop Girls Shop Guys Shop Girls Shop Guys Shop Dresses Shop Girls Polos Shop Guys Polos Shop Girls Polos Shop Guys Polos Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys -97 -1 : Days 27 : Days 33 Details Shop Girls Shop Guys Shop Girls Shorts Shop Guys Shorts Previous 7.5" Beach Shorts Cheeky Shorts Flat Front Shorts High Waisted Shorts Jogger Shorts Soft Shorts Cargo Shorts Shorty Shorts Super High Waisted Shorts Denim Shorts Midi Shorts 7.5" Beach Shorts Cheeky Shorts Flat Front Shorts High Waisted Shorts Jogger Shorts Soft Shorts Cargo Shorts Shorty Shorts Super High Waisted Shorts Denim Shorts Midi Shorts 7.5" Beach Shorts Cheeky Shorts Flat Front Shorts High Waisted Shorts Jogger Shorts Next Shop Girls Shop Guys Shop Girls Shop Guys Previous Next Shop The Girls Tribe Aero Girls Camis Aero Girls Camis Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shop Guys Aero Girls Jeans Aero Guys Jeans Aero Girls Jeans Aero Guys Jeans Shop Guys Tees Shop Girls Shop Guys Aero Matching Sets Shop Aero One Shop Girls Shop Guys Details Girls New To Clearance Guys New To Clearance Girls $9.99 Guys $9.99 Girls $4.99 Tees Guys $4.99 Tees Girls New Guys New Girls $9.99 Guys $9.99 Girls $4.99 Tees Guys $4.99 Tees Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
+ON ORDERS OVER $50 Search Catalog Search Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Free Shipping Over $50 Excludes Clearance Details Shop Girls Shop Guys Details 4 DAYS 4 ONLINE ONLY DEALS DAY #4 DAY #4 EXTRA 15% OFF YOUR ENTIRE PURCHASE EXTRA 15% OFF YOUR ENTIRE PURCHASE WHEN YOU BUY ANY NEW ARRIVAL FROM OUR JUST IN COLLECTION Use Code DAY4 Shop Girls Shop Guys Details Shop Girls Shop Guys Shop Girls Tees Shop Guys Tees Shop Dresses Shop Girls Polos Shop Guys Polos Shop Girls Polos Shop Guys Polos Shop Girls Shop Guys Shop Girls Shop Guys -98 -1 : Days 27 : Days 28 Details Shop Girls Shop Guys Shop Girls Shorts Shop Guys Shorts Previous 7.5" Beach Shorts Cheeky Shorts Flat Front Shorts High Waisted Shorts Jogger Shorts Soft Shorts Cargo Shorts Shorty Shorts Super High Waisted Shorts Denim Shorts Midi Shorts 7.5" Beach Shorts Cheeky Shorts Flat Front Shorts High Waisted Shorts Jogger Shorts Soft Shorts Cargo Shorts Shorty Shorts Super High Waisted Shorts Denim Shorts Midi Shorts 7.5" Beach Shorts Cheeky Shorts Flat Front Shorts High Waisted Shorts Jogger Shorts Next Shop Girls Shop Guys Shop Girls Shop Guys Previous Next Shop The Girls Tribe Aero Girls Camis Aero Girls Camis Shop Girls Shop Guys Shop Girls Shop Guys Shop Guys Tees Shop Girls Shop Guys Shop Retro Shorts Girls Jeans Guys Jeans Girls Jeans Guys Jeans Shop Aero One Shop Girls Shop Guys Shop Girls Shop Guys Start Shopping <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
