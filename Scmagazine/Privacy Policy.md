@@ -217,15 +217,15 @@ Attention: Chief Digital Officer
     
     *   Radiohead sells recordings to public after 'Creep' hacker threatens to leak them
     *   Huawei products riddled with backdoors, zero days and critical vulnerabilities
-    *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
     *   Why infosec vendors can’t sell to most CISOs
+    *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
     *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
     
-    *   Endpoint security
-    *   Hong Kong protesters fear gov't use of facial recognition, surveillance tech
-    *   Florida state worker steals resident’s PII
-    *   Where do we go from here?
-    *   Cirque du Soleil app was an insecure high-wire act for show-goers, researcher says
+    *   Cellebrite claims it can crack any iPhone or Android, Trump admins weigh encryption ban
+    *   Uber pays out $375K in bug bounties during challenge in London
+    *   Encryption is ‘key’ for CEOs to avoid potential prison time
+    *   Fake Facebook political pages tricked Libyans into downloading RATs
+    *   Cybersecurity executive changes
     
     *   D-Link agrees to overhaul security in FTC settlement
     *   TA505 cybergang debuts 'AndroMut" downloader to deliver FlawedAmmyy RAT globally
