@@ -254,7 +254,7 @@ View more results
     *   Neon Biker
     *   Bouncy Dunk
     *   Pinch Hitter 3
-    *   Penalty Shooters
+    *   Billiards Master Pro
 *   *   Multiplayer
     *   Action
     *   Adventure
@@ -266,8 +266,8 @@ View more results
     
     Recommended Games
     
-    *   Wizard 101
-    *   Dauntless
+    *   Animal Jam
+    *   Roblox
     *   PopTropica
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
