@@ -107,7 +107,7 @@ Search Sony Let’s Find Out Which Spider-Man Star Is the Most Responsible 🕷 
 
 Everything you know about Jumanji is about to change… 🎮 Watch the trailer for #JUMANJI: The Next Level now and see it in theaters this Christmas! 🐒🎉 pic.twitter.com/iKserUBDbM
 
-3 days ago
+4 days ago
 
 View Tweet
 
