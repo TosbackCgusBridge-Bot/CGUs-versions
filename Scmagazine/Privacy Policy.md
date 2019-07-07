@@ -221,11 +221,11 @@ Attention: Chief Digital Officer
     *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
     *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
     
-    *   Cellebrite claims it can crack any iPhone or Android, Trump admins weigh encryption ban
-    *   Uber pays out $375K in bug bounties during challenge in London
-    *   Encryption is ‘key’ for CEOs to avoid potential prison time
-    *   Fake Facebook political pages tricked Libyans into downloading RATs
-    *   Cybersecurity executive changes
+    *   Women in Security: Honorable Mention
+    *   Exposed Orvibo database leaks two billion records
+    *   Data management firm exposed client info on open Amazon S3 buckets: researchers
+    *   Cloudflare CEO blames massive CPU usage for outage
+    *   The company you keep
     
     *   D-Link agrees to overhaul security in FTC settlement
     *   TA505 cybergang debuts 'AndroMut" downloader to deliver FlawedAmmyy RAT globally
