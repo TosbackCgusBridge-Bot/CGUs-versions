@@ -38,12 +38,12 @@ Near YouFind a StoreBackUP TO 50% OFF HOME SALE select stylesUP TO 60% OFF FURNI
 *   SPECIAL DEAL!
     
     $510after couponwas $14 - $19 Arizona Girls Round Neck Short Sleeve Glitter Graphic T-ShirtAdd To Cart
+*   $510after couponwas $14 - $19 Xersion Girls Crew Neck Short Sleeve Graphic T-Shirt Preschool / Big KidAdd To Cart
 *   SPECIAL DEAL!
     
     $510after couponwas $14 Xersion Boys Crew Neck Short Sleeve Graphic T-ShirtAdd To Cart
-*   $510after couponwas $14 - $19 Xersion Girls Crew Neck Short Sleeve Graphic T-Shirt Preschool / Big KidAdd To Cart
-*   $510after couponwas $17 - $22 Arizona Boys Round Neck Tank Top(1)Add To Cart
 *   $510after couponwas $14 - $19 Xersion Graphic Tee - Girls' 4-16 &. PlusAdd To Cart
+*   $510after couponwas $17 - $22 Arizona Boys Round Neck Tank Top(1)Add To Cart
 
 $10 Kids ShortsShop All$10 Kids ShortsShop All
 
@@ -51,10 +51,10 @@ $10 Kids ShortsShop All$10 Kids ShortsShop All
 *   SPECIAL DEAL!
     
     $850after couponwas $32 - $37 Arizona Girls Bermuda Short(13)Add To Cart
-*   $850after couponwas $30 - $35 Arizona Stretch Chino Shorts Boys 4-20, Slim &. Husky(14)Add To Cart
 *   SPECIAL DEAL!
     
     $850after couponwas $32 - $37 Arizona Girls Midi Short(9)Add To Cart
+*   $850after couponwas $30 - $35 Arizona Stretch Chino Shorts Boys 4-20, Slim &. Husky(14)Add To Cart
 *   $850after couponwas $32 - $37 Arizona Boys Stretch Pull-On Short Preschool / Big Kid(6)Add To Cart
 *   SPECIAL DEAL!
     
@@ -65,18 +65,18 @@ $10 Kids ShortsShop All$10 Kids ShortsShop All
 
 Recommended for You
 
-*   from$149after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(201)
+*   $425after couponwas $17 a.n.a Womens V Neck Sleeveless Tank Top(60)
+*   BIG BUY!
+    
+    from$254after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(152)
+*   from$169after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(201)
 *   $7
     
     Xersion-Womens Performance Tee(1371)
-*   $375after couponwas $19 a.n.a Womens Round Neck Sleeveless Tank Top(15)
+*   from$425after couponwas $14 St. John's Bay-Womens V Neck Short Sleeve T-Shirt(79)
 *   BIG BUY!
     
-    from$224after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(150)
-*   BIG BUY!
-    
-    from$299after couponwas $16 - $124 Liz Claiborne Luxury Egyptian Solid Bath Towel Set(1023)
-*   $1499after couponwas $60 a.n.a Womens Meadow Wedge Sandals(46)
+    from$339after couponwas $16 - $124 Liz Claiborne Luxury Egyptian Solid Bath Towel Set(1023)
 
 Shop and Save at JCPenney
 
