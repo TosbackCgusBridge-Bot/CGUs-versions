@@ -13,7 +13,7 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   6\. Juli 2019
+*   7\. Juli 2019
 *   Abo
 *   DAX 12.568,53ǀ
 *   Schlagzeilenǀ
@@ -370,3 +370,6 @@ SPIEGEL GRUPPE
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
+
+  
+BESbswyBESbswyBESbswy
