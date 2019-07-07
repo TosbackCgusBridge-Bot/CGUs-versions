@@ -91,8 +91,8 @@ View more results
     *   Stunt Skateboard 3D
     *   Uphill Rush 7: Waterpark
     *   Ultimate Boxing
-    *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Short Life
+    *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Stickman Archer 2
     *   Combat Strike 2: 3D Shooting Game Online Multiplayer
     *   Pixel Apocalypse
@@ -153,8 +153,8 @@ View more results
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Fireboy and Watergirl: The Forest Temple
     *   TenTrix
-    *   The Impossible Quiz: World's Hardest Quiz
     *   Fireboy &. Watergirl 4: Crystal Temple
+    *   The Impossible Quiz: World's Hardest Quiz
     *   Deal or No Deal
     *   1001 Arabian Nights
     *   Bubble Machine: 2 Player Game
@@ -254,7 +254,7 @@ View more results
     *   Neon Biker
     *   Bouncy Dunk
     *   Pinch Hitter 3
-    *   Billiards Master Pro
+    *   Cricket CPL Tournament
 *   *   Multiplayer
     *   Action
     *   Adventure
