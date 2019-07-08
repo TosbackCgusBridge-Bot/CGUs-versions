@@ -538,55 +538,9 @@ Music 2% 
     
 *   Show Less ...
 
-Web Search 2% 
+Web Search 12%  Images 2% 
 
-*   Privacy Policy – Privacy &. Terms – Google
-    
-    google.com
-    
-*   Privacy policy - Wikipedia
-    
-    wikipedia.org
-    
-*   Free Privacy Policy Generator - Template
-    
-    freeprivacypolicy.com
-    
-*   Legal - Privacy Policy - Apple
-    
-    apple.com
-    
-*   Show More ...
-
-*   Privacy Policy - U.S. Department of State | Home Page
-    
-    state.gov
-    
-*   Privacy Policy | Consumer Information
-    
-    ftc.gov
-    
-*   Privacy Policy — Automattic
-    
-    automattic.com
-    
-*   Privacy Policy - National Weather Service
-    
-    weather.gov
-    
-*   Data Policy - Facebook
-    
-    facebook.com
-    
-*   Yahoo Privacy Center
-    
-    yahoo.com
-    
-*   Show Less ...
-
-Images 2% 
-
-3
+6
 
 20
 
