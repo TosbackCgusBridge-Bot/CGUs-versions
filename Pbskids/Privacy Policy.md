@@ -1,6 +1,6 @@
 Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
 
-Find fun, hands-on educational activities to do with your child. Find fun, hands-on educational activities to do with your child. Go now
+Get parenting tips, kid-friendly recipes, cool crafts and more on PBS Parents! Get parenting tips, kid-friendly recipes, cool crafts and more on PBS Parents! Visit the site
 
 Toggle message bar
 
@@ -14,6 +14,9 @@ Toggle message bar
     Choose your station for TV schedules and local features
     
     Select your local station
+    
+    *   Rocky Mountain PBS
+    *   Colorado Public Television / KBDI 12
     
     Results for 80202. Try another zip code.What is your zip code?PBS KIDS uses your zip code to find our stations in your area.Find your stationBackPBS KIDS Super Vision
     
