@@ -59,7 +59,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 456 8037 1 855 456 8037
+    1 855 460 1935 1 855 460 1935
     
 
 *   Solutions By Function
@@ -117,7 +117,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 456 8037 1 855 456 8037
+    1 855 460 1935 1 855 460 1935
     
 
 GARTNER PRIVACY POLICY Effective Date: June 2019
