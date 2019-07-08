@@ -221,11 +221,11 @@ Attention: Chief Digital Officer
     *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
     *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
     
-    *   Women in Security: Honorable Mention
-    *   Exposed Orvibo database leaks two billion records
-    *   Data management firm exposed client info on open Amazon S3 buckets: researchers
-    *   Cloudflare CEO blames massive CPU usage for outage
-    *   The company you keep
+    *   Baltimore approves $10M for ransomware relief, expects $18M in damages
+    *   Fake Facebook political pages tricked Libyans into downloading RATs
+    *   Deception pointe
+    *   Florida state worker steals resident’s PII
+    *   New York Legislature passes bill that toughens breach notification standards
     
     *   D-Link agrees to overhaul security in FTC settlement
     *   TA505 cybergang debuts 'AndroMut" downloader to deliver FlawedAmmyy RAT globally
