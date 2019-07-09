@@ -14,7 +14,7 @@
     *   Gifts for Her
     *   Birthday Gifts
     *   Thank You Gifts
-    *   Sympathy GiftsMost Popular Fourth of July Birthday Gifts
+    *   Sympathy GiftsMost Popular Taste of Summer Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -62,12 +62,11 @@
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Fourth of July
+    View All Categories Shop by Category*   Taste of Summer
     
-    Occasions*   Taste of Summer
-    *   Birthday Gifts
+    Occasions*   Birthday Gifts
     *   Weddings &. Showers
-    *   Thank YouMost Popular Fourth of July
+    *   Thank YouMost Popular Taste of Summer
 *   Business Gifts
 *   Sale
 
@@ -95,7 +94,7 @@
     *   Gifts for Her
     *   Birthday Gifts
     *   Thank You Gifts
-    *   Sympathy GiftsMost Popular Fourth of July Birthday Gifts
+    *   Sympathy GiftsMost Popular Taste of Summer Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -143,12 +142,11 @@
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Fourth of July
+    View All Categories Shop by Category*   Taste of Summer
     
-    Occasions*   Taste of Summer
-    *   Birthday Gifts
+    Occasions*   Birthday Gifts
     *   Weddings &. Showers
-    *   Thank YouMost Popular Fourth of July
+    *   Thank YouMost Popular Taste of Summer
 *   Business Gifts
 *   Sale
 
