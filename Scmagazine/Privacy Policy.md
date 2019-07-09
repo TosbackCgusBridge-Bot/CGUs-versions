@@ -221,17 +221,17 @@ Attention: Chief Digital Officer
     *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
     *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
     
+    *   The value of passwordless technology: Learning from the American prohibition era
+    *   British Airways hit with record £183 million GDPR fine for last year’s breach
+    *   BianLian banking trojan adds screen recorder to face off against Android users
     *   Baltimore approves $10M for ransomware relief, expects $18M in damages
-    *   Fake Facebook political pages tricked Libyans into downloading RATs
-    *   Deception pointe
-    *   Florida state worker steals resident’s PII
-    *   New York Legislature passes bill that toughens breach notification standards
+    *   Endpoint security
     
+    *   Inconvenience stores: Thieves steal $500K from users of 7-Eleven Japan's new payment app
+    *   Cisco releases updates for 10 high-rated vulnerabilities
+    *   Cyberattack shuts down La Porte County (Indiana) government
+    *   The value of passwordless technology: Learning from the American prohibition era
     *   D-Link agrees to overhaul security in FTC settlement
-    *   TA505 cybergang debuts 'AndroMut" downloader to deliver FlawedAmmyy RAT globally
-    *   Border-surveillance subcontractor suspended after cyberattack
-    *   Uber pays out $375K in bug bounties during challenge in London
-    *   VMware begins patching process for Linux SACK vulnerabilities
 
 Back to Top
 
