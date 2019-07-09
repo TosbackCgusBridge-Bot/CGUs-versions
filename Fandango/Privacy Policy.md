@@ -5,30 +5,33 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Spider-Man: Far From Home (2019)
     *   Toy Story 4
-    *   Annabelle Comes Home
     *   Yesterday (2019)
+    *   Annabelle Comes Home
     *   Aladdin (2019)
+    *   Midsommar
     *   The Secret Life of Pets 2
     *   Men in Black: International
     *   Avengers: Endgame (2019)
-    *   Child's Play (2019)
     *   Rocketman
     *   John Wick: Chapter 3 – Parabellum
-    *   Godzilla: King of the Monsters (2019)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Spider-Man: Far From Home (2019)
-    *   Midsommar
-    *   Marianne &. Leonard: Words of Love
+    *   Crawl (2019)
+    *   Stuber
+    *   The Art Of Self-Defense
+    *   Bethany Hamilton: Unstoppable
+    *   The Cure: Anniversary 1978-2018 Live in Hyde Park London
+    *   The Farewell (2019)
+    *   Sword of Trust
+    *   Trespassers (2019)
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Crawl (2019)
-    *   Stuber
     *   The Lion King (2019)
     *   Once Upon a Time in Hollywood
     *   Fast &. Furious Presents: Hobbs &. Shaw
@@ -36,6 +39,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Scary Stories to Tell in the Dark
     *   The Kitchen (2019)
     *   The Art of Racing in the Rain
+    *   47 Meters Down: Uncaged
+    *   Good Boys (2019)
     *   See All Coming Soon
     
     Explore More
@@ -63,9 +68,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie News: ‘Thor: Ragnarok’ Director Takes on ‘Flash Gordon,’ Paul Rudd Joins ‘Ghostbusters 2020 and More Read More
-    *   Next 3 Music-Driven Movies: 'The Lion King,' 'Blinded by the Light,' 'Cats' Read More
-    *   Today in Movie Culture: What You Need to Know Before Seeing ‘Spider-Man: Far From Home,’ An Intro to Folk Horror and More Read More
+    *   Today in Movie Culture: ‘Spider-Man: Far From Home’ Easter Eggs, ‘Midsommar’ Director Commentary and More Read More
+    *   First Look at Disney's Live-Action 'Mulan'. Here's Everything We Know Read More
+    *   Marvel's Kevin Feige on the MCU Multiverse, 'Far From Home' Post-Credits Scenes and The Future of Spider-Man Read More
     
     Explore Content
     *   Movie Reviews
