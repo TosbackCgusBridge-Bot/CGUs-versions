@@ -1,4 +1,4 @@
-SUBSCRIBE NOWOnly $3 for 3 months. Save 90%.
+SUBSCRIBE NOW99¢ per month. Save 90%.
 
 *   Home
 *   News
@@ -58,7 +58,7 @@ SUBSCRIBE NOWOnly $3 for 3 months. Save 90%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowWoman killed in SWAT standoff had pellet gunCrimeCory Booker escorts asylum-seekers into El PasoNewsWoman with gun shot by police at health buildingCrimeHow area towns got their names: Trish LongNewsFort Bliss soldier dies after used-car lot crashLocalEscobar: Protesters' insults don't represent cityNewsFabens man dies in accident near Fort StocktonCrimeBiker arrested in shotgun incident in Northeast El PasoCrimeLicon Dairy adds Outlaw Saloon &. Grill restaurantEntertainmentDoctors want access to migrant detention facilitiesNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowPolice find 12 pounds of cocaine in Ford BroncoCrime10 years later: Chico's kiss, LGBT rightsLocalFormer Chihuahua Decker returns as director of BYAABaseballEl Paso Times stands by reporting in Clint: EditorNewsTexas deputy, Burges grad to be buried at Fort BlissCrimeDisney Channel star Cameron Boyce dies at 20PeopleFounder of El Paso's community banks retiringBusinessInside the Migrant Detention Center in Clint, TexasImmigrationFeds seek $12.6 billion from 'El Chapo' GuzmanCrimeMost wanted fugitives for the week of July 8CrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
