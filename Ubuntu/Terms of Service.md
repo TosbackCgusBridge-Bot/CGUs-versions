@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Design and Web team summary – 8 July 2019 ›
+*   Analyze ACPI Tables in a Text File with FWTS ›
 *   Ubuntu updates for TCP SACK Panic vulnerabilities ›
 *   Faster snap development – additional tips and tricks ›
 *   Cloud Instance Initialisation with cloud-init ›
-*   Development tips and tricks – snap try and snapcraft pack ›
-*   Ubuntu Server development summary – 26 June 2019 ›
