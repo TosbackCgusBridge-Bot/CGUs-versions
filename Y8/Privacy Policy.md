@@ -3,17 +3,17 @@
 *   games
 *   videos
 
-New Games Next in  xx:xx
+New Games Next in  17:10
 
-*   By Date Next addition in xx:xx
+*   By Date Next addition in 17:10
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
-*   New Games Next in xx:xx
-*   Best of new games 1376 games
-*   Most Popular Games 19473 games
+*   New Games Next in 17:10
+*   Best of new games 1378 games
+*   Most Popular Games 19476 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -24,19 +24,19 @@ CATEGORIES
 *   Driving &. Racing Games 6,832 games
 *   Strategy &. RPG Games 2,425 games
 *   Management Games 3,657 games
-*   Thinking Games 12,194 games
-*   Action &. Adventure Games 16,255 games
-*   Sports Games 2,254 games
+*   Thinking Games 12,196 games
+*   Action &. Adventure Games 16,261 games
+*   Sports Games 2,255 games
 *   Shooting Games 8,494 games
 *   Fighting Games 2,092 games
-*   Skill Games 11,325 games
-*   Arcade &. Classic Games 13,120 games
+*   Skill Games 11,331 games
+*   Arcade &. Classic Games 13,128 games
 *   Fun &. Crazy Games 2,551 games
 
 Play with friends  
-Powered by Y8 Account 128 Y8 Multiplayer Games 2,043 Y8 High Score Games 1,158 Y8 Achievements Games 822 Y8 Screenshots Games 1,466 Y8 Online Save Games 3,100 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 128 Y8 Multiplayer Games 2,044 Y8 High Score Games 1,158 Y8 Achievements Games 822 Y8 Screenshots Games 1,466 Y8 Online Save Games 3,100 All Y8 Games Games Last Highscore:
 
-**129** points on Military Wars 3D Multiplayer by cuongvn123
+**6,224** points on Mutant Rampage by assasincredrogue
 
 Help us improve Bad translation? Social
 
