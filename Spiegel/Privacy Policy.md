@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   8\. Juli 2019
+*   9\. Juli 2019
 *   Abo
-*   DAX 12.568,53ǀ
+*   DAX 12.543,51ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -78,7 +78,7 @@ Anmelden
         *   Fußball-News
         *   Formel 1
         *   Formel-1-Liveticker
-        *   French Open
+        *   Wimbledon 2019
     *   *   Sportwetten
 *   Kultur
     
