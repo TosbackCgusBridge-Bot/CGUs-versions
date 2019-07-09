@@ -145,7 +145,3 @@ Last updated: 2018-04-03
 *   Privacy
 *   Terms
 *   Help
-
- 
-
-<img src="https://geo.yahoo.com/b?s=792600607" height="1" width="1" style="position: absolute;" />.
