@@ -40,20 +40,14 @@ Stock Quote and Chart
 
 Price
 
-$2.17
-
 Change
 
-+0.05
-
 Percent Change
-
-(0.00%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Jun 27, 2019 Office Depot Opens Five New Workonomy™ Hub Coworking Spaces view more Recent News Jun 27, 2019 Office Depot Opens Five New Workonomy™ Hub Coworking Spaces view more Events Jun 5, 2019 at 4:55 PM EDT Office Depot Presents at Baird’s Global Consumer, Technology &. Services Conference view more Events Jun 5, 2019 at 4:55 PM EDT Office Depot Presents at Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 05, 2019 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 05, 2019 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more
+Recent News Jul 08, 2019 Office Depot Launches ‘Back to School Proud’ Campaign to Give Students the Advantage They Need to Succeed With Must-Have Supplies, Tech and Furniture view more Recent News Jul 08, 2019 Office Depot Launches ‘Back to School Proud’ Campaign to Give Students the Advantage They Need to Succeed With Must-Have Supplies, Tech and Furniture view more Events Jun 5, 2019 at 4:55 PM EDT Office Depot Presents at Baird’s Global Consumer, Technology &. Services Conference view more Events Jun 5, 2019 at 4:55 PM EDT Office Depot Presents at Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 05, 2019 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 05, 2019 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more
 
 *   Home
 *   News &. Events
