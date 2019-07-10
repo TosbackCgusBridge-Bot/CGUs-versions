@@ -109,7 +109,7 @@ Get Your “Spider-Man™: Far From Home” Movie Tickets
 
 Elegance and power. Hunt Legiana to obtain this magnificent armor set in Monster Hunter World: Iceborne. Coming to PS4 September 6:  http://play.st/Iceborne  pic.twitter.com/7PcUFxE4ii
 
-1 day ago
+2 days ago
 
 View Tweet
 
