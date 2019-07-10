@@ -3,17 +3,17 @@
 *   games
 *   videos
 
-New Games Next in  17:10
+New Games Next in  xx:xx
 
-*   By Date Next addition in 17:10
+*   By Date Next addition in xx:xx
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
-*   New Games Next in 17:10
+*   New Games Next in xx:xx
 *   Best of new games 1378 games
-*   Most Popular Games 19476 games
+*   Most Popular Games 19486 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -21,22 +21,22 @@ Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of d
 CATEGORIES
 
 *   Games for girls 24,234 games
-*   Driving &. Racing Games 6,832 games
+*   Driving &. Racing Games 6,833 games
 *   Strategy &. RPG Games 2,425 games
-*   Management Games 3,657 games
-*   Thinking Games 12,196 games
-*   Action &. Adventure Games 16,261 games
+*   Management Games 3,658 games
+*   Thinking Games 12,200 games
+*   Action &. Adventure Games 16,263 games
 *   Sports Games 2,255 games
-*   Shooting Games 8,494 games
+*   Shooting Games 8,495 games
 *   Fighting Games 2,092 games
-*   Skill Games 11,331 games
-*   Arcade &. Classic Games 13,128 games
-*   Fun &. Crazy Games 2,551 games
+*   Skill Games 11,334 games
+*   Arcade &. Classic Games 13,137 games
+*   Fun &. Crazy Games 2,552 games
 
 Play with friends  
-Powered by Y8 Account 128 Y8 Multiplayer Games 2,044 Y8 High Score Games 1,158 Y8 Achievements Games 822 Y8 Screenshots Games 1,466 Y8 Online Save Games 3,100 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 128 Y8 Multiplayer Games 2,045 Y8 High Score Games 1,158 Y8 Achievements Games 822 Y8 Screenshots Games 1,468 Y8 Online Save Games 3,102 All Y8 Games Games Last Highscore:
 
-**6,224** points on Mutant Rampage by assasincredrogue
+**292** points on Death Run 3D by Adi
 
 Help us improve Bad translation? Social
 
