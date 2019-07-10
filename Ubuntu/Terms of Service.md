@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   MAAS 2.6 – ESXi storage, multiple gateways, HTTP boot and more ›
+*   The DevOps guide to IoT projects ›
 *   Design and Web team summary – 8 July 2019 ›
+*   Machine Learning: serving models with Kubeflow on Ubuntu, Part 1 ›
 *   Analyze ACPI Tables in a Text File with FWTS ›
-*   Ubuntu updates for TCP SACK Panic vulnerabilities ›
-*   Faster snap development – additional tips and tricks ›
-*   Cloud Instance Initialisation with cloud-init ›
