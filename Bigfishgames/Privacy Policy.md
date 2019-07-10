@@ -8,11 +8,11 @@
 
 Big Fish Games, Inc. Privacy Policy
 
-Last modified: March 28, 2019
+Last modified: July 9, 2019
 
 We at Big Fish have created this Privacy Policy to describe how information is collected, used, and disclosed when you visit or use a Big Fish Offering. By accessing and/or using this Big Fish website or any Big Fish Offering, you are accepting the practices described in this Privacy Policy. **If you reside in the European Union the SECTION FOR USERS RESIDING IN THE EUROPEAN UNION applies to you and has specific rules on consent and details of our EU representative, as required by European Union data protection requirements.**
 
-You must be at least thirteen (13) years of age, or sixteen (16) years of age if you are located in the European Union, to create a Big Fish account or to access or use most Big Fish Offerings.  You must be at least eighteen (18) years of age to access or use Big Fish Offerings involving social casino-style game play (“Restricted Offerings,” which include but are not limited to the video games Big Fish Casino and Jackpot Magic Slots).  If you are younger than eighteen (18) (or the age of legal majority where you live): (1) you may not access or use Restricted Offerings, and (2) you may use the Big Fish Offerings (other than Restricted Offerings) only under the supervision of a parent or legal guardian who agrees to be bound by these Terms of Use. If you are a parent or legal guardian of a user under the age of eighteen (18), you agree to be fully responsible for the acts or omissions of such user in relation to any Big Fish Offering.
+You must be at least thirteen (13) years of age, or sixteen (16) years of age if you are located in the European Union, to create a Big Fish account or to access or use most Big Fish Offerings.  You must be at least eighteen (18) years of age to access or use Big Fish Offerings involving social casino-style game play (“Restricted Offerings,” which include but are not limited to the video games Big Fish Casino and Jackpot Magic Slots).  If you are younger than eighteen (18) (or the age of legal majority where you live): (1) you may not access or use Restricted Offerings, and (2) you may use the Big Fish Offerings (other than Restricted Offerings) only under the supervision of a parent or legal guardian who agrees to be bound by these Terms of Use. If you are a parent or legal guardian of a user under the age of eighteen (18), you agree to be fully responsible for the acts or omissions of such user in relation to any Big Fish Offering. For additional policies pertaining to children, please see the section on CHILDREN below.
 
 The term "Big Fish" means Big Fish Games, Inc. and/or its Affiliates. The term "Affiliate" means, with respect to any party, any person or entity which controls, is controlled by, or is under common control with, such party. The term "Big Fish Offering" means the websites of Big Fish, including www.bigfishgames.com, any other sites on which this Privacy Policy is posted, and any other Big Fish application, service or product licensed, downloaded or otherwise accessed by you through third party sites or sources, including the products and services available through any of the foregoing.
 
@@ -92,7 +92,7 @@ As Big Fish (and the Aristocrat Group) continues to grow, we might sell or buy c
 
 Protection of Big Fish and Others:
 
-We may also disclose your information if there is a violation of the Terms of Use or other agreements. if we have a good faith belief that the law requires it. or if needed to protect the rights, property or safety of Big Fish, our customers or others. This includes exchanging information with entities for fraud detection and protection, and credit risk reduction.
+We may also disclose your information if there is a violation of the Terms of Use or other agreements. if we have a good faith belief that the law requires it. or if needed to protect the rights, property or safety of Big Fish, our customers or others. This includes exchanging information with entities for fraud detection and protection, and credit risk reduction as well as in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 ACCESSING YOUR INFORMATION AND YOUR CHOICES
 
@@ -124,13 +124,15 @@ Big Fish Offerings may operate message boards and/or chat areas where users can 
 
 CHILDREN
 
-Big Fish Offerings are designed to avoid the collection and use of "personal information" as defined in the Children’s Online Privacy Protection Act ("COPPA") from children under 13 other than for support of internal operations. We do not knowingly collect personal information from children. If you are under 13 (16 in the EU) years old, you may not register for an account or otherwise provide any personal information to us.
+Big Fish Offerings are generally designed for users who are at least 13 years of age and older and therefore such Offerings generally do not knowingly collect or make use of "personal information" as defined in the Children’s Online Privacy Protection Act ("COPPA") from children under 13, except as consistent with applicable law.
+
+Some Big Fish Offerings may allow children under 13 to participate in certain activities or gain access to limited gameplay or features within an application, but these offerings are designed to collect only certain device identifiers from children under 13 and use those identifiers solely for purposes that support the internal operations of those offerings or as otherwise permitted by law. We do not knowingly allow children under 13 (16 in the EU) years old to register for an account or otherwise provide any personal information to us, and we do not collect or use personal information from children under 13 for targeted advertising purposes.
 
 Big Fish respects the privacy of parents and children and is committed to complying with COPPA. If a parent believes that his or her child has submitted personal information to Big Fish, he or she can contact us via email at privacy@bigfishgames.com or postal mail at: Big Fish Privacy Policy Department, 906 Alaskan Way, Suite 700, Seattle, WA 98104 USA. We will take steps to promptly delete the information upon learning that it relates to a child under the age of 13 (16 in the EU). We recognize the importance of safeguarding the privacy of children and encourage parents to check and monitor their children's use of online activities regularly.
 
 CHANGES TO PRIVACY POLICY
 
-We may modify this Privacy Policy from time to time. When we post changes to this Privacy Policy, we will revise the "last modified" date at the top of this page. We encourage you to periodically review this Privacy Policy to be informed of how Big Fish protects your information.
+We may modify this Privacy Policy from time to time. When we post changes to this Privacy Policy, we will revise the "last modified" date at the top of this page. We encourage you to periodically review this Privacy Policy to be informed of how Big Fish protects your information. If we make a change that we deem material, we may provide you additional notice.
 
 FOR USERS IN THE EU
 
@@ -158,7 +160,7 @@ To the extent you provide information about friends and family members, you will
 
 CHILDREN (EU Users)
 
-We do not accept personal data of children under the age of 13 (16 in the EU).
+Other than in the limited instances noted above, we do not accept personal data of children under the age of 13 (16 in the EU).
 
 If you become aware of an account belonging to someone under 13 (16 in the EU), please contact us at the contact details provided at the end of this Privacy Policy.
 
@@ -189,13 +191,13 @@ PROMOTIONAL EMAIL COMMUNICATIONS (EU Users)
 
 When you create a customer account or provide access to your email address via a Big Fish Offering, you will be asked to register to receive one or more of our promotional e- newsletters. If you select to do so, please note that you have the right to opt out at any time by contacting Big Fish customer service.
 
-EU-US PRIVACY SHIELD PROGRAM (EU Users)
+PRIVACY SHIELD PROGRAM
 
-We may transfer, store and/or process personal information in the U.S. or in other countries. Big Fish complies with the EU-US Privacy Shield Framework Principles (the "Framework") as set forth by the US Department of Commerce regarding the processing of personal information from the European Union (EU) member countries. For more information about the Framework, please visit the Department of Commerce's Privacy Shield website. To contact Big Fish directly about the Framework, please email us at privacyshield@bigfishgames.com. If we do not resolve your concern, you may contact JAMS, Big Fish’s designated Privacy Shield dispute resolution provider. Under certain conditions specified by the Framework, you may also be able to invoke binding arbitration to resolve your complaint. Big Fish is subject to the investigatory and enforcement powers of the FTC. If we share personal information of EU customers with a third party service provider that processes the data solely on our behalf, then Big Fish will be liable for that third party's processing of the information in violation of the Framework, unless Big Fish can prove that it is not responsible for the event giving rise to the damage. When we share your personal information with third party service providers, we will enter into onward transfer agreements or other data processing agreements with those third parties. You may request information on and a copy of those agreements by contacting us at privacy@bigfishgames.com.
+We may transfer, store and/or process personal information in the U.S. or in other countries. Big Fish Games, Inc. (along with its subsidiaries 3 Minute Games LLC, BFG Holding LLC, BFG Washington, Inc., Big Fish Premium LLC, Liftoff Labs LLC, and Slots, Slot Machines and Slot Tournaments LLC,) complies with the EU-U.S. and Swiss-U.S. Privacy Shield Framework Principles (collectively, the "Framework") as set forth by the U.S. Department of Commerce regarding the processing of personal information from the European Union (EU) member countries, Switzerland and the United Kingdom (UK). For more information about the Framework, please visit the Department of Commerce's Privacy Shield website. To contact Big Fish directly about the Framework, please email us at privacyshield@bigfishgames.com. If we do not resolve your concern, you may contact JAMS, Big Fish’s designated Privacy Shield dispute resolution provider. Under certain conditions specified by the Framework, you may also be able to invoke binding arbitration to resolve your complaint. Big Fish is subject to the investigatory and enforcement powers of the FTC. If we share personal information of EU, Swiss or UK customers with a third-party service provider that processes the data solely on our behalf, then Big Fish will be liable for that third party's processing of the information in violation of the Framework, unless Big Fish can prove that it is not responsible for the event giving rise to the damage. When we share your personal information with third-party service providers, we will enter into onward transfer agreements or other data processing agreements with those third parties. You may request information on and a copy of those agreements by contacting us at privacy@bigfishgames.com.
 
-Please note that if you are located in the E.U. or other region with laws governing data collection and use that may differ from U.S. law, you are transferring information to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.
+Please note that if you are located in the EU or other region with laws governing data collection and use that may differ from U.S. law, you are transferring information to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.
 
-Please see section (I) on “Sharing Information” to find more about how we share your personal information with Big Fish Affiliates, other companies of the Aristocrat Group (to which Big Fish belongs), and third party service providers.
+Please see section (I) on “Sharing Information” to find more about how we share your personal information with Big Fish Affiliates, other companies of the Aristocrat Group (to which Big Fish belongs), and third-party service providers.
 
 ADDITIONAL QUESTIONS
 
