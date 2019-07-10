@@ -2,7 +2,7 @@
 
 We use cookies to ensure you get the best experience on our website. By continuing to browse our website, you consent to the use of cookies, as described in our Cookie Policy.
 
-<div class="noscript-message">In order to view this page correctly, you must have a JavaScript-enabled browser and have JavaScript turned on. We apologize for any inconvenience. <a href="//support.google.com/adsense/bin/answer.py?hl=en&answer=12654">Learn how to enable it</a>.</div>.
+I ACCEPT <div class="noscript-message">In order to view this page correctly, you must have a JavaScript-enabled browser and have JavaScript turned on. We apologize for any inconvenience. <a href="//support.google.com/adsense/bin/answer.py?hl=en&answer=12654">Learn how to enable it</a>.</div>.
 
 *   Download
 *   Price Plans
