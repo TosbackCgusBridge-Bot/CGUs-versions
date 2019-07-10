@@ -460,6 +460,8 @@ Returns
 
 Promotions
 
+*   3x Points - ONE DAY ONLY
+*   2x Points
 *   Store Events
 *   Military Discount
 *   All Special Offers
