@@ -9,6 +9,23 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
+    *   Vince Camuto Shoes Up to 60% Off
+    *   Vince Camuto Up to 75% Off Incl. Plus &. Petites
+    *   Vince Camuto Men Up to 70% Off
+    *   Vince Camuto Jewelry &. Accessories Up to 55% Off
+    *   Vince Camuto Handbags
+    *   Parisian-Inspired Style: Summer Looks from FRNCH
+    *   Trending Tops: Ruffled Styles &. More
+    *   Gym Bound: Fit Faves Up to 60% Off
+    *   Vince Camuto Fragrance
+    *   ghd: good hair day
+    *   Diesel Men's Shoes Up to 65% Off
+    *   Tommy Hilfiger Shoes Up to 55% Off
+    *   Poo-Pourri Bathroom Scents
+    *   Flapdoodles
+    *   Outfit Makers: Sandals Up to 60% Off
+    *   Stride Rite
+    *   Sovereign Code Kids
     *   Contemporary Designers Up to 75% Off
     *   Fabulously Flirty: Do + Be Under $40
     *   Via Spiga Up to 60% Off
@@ -21,6 +38,7 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Great for Gifting: Moon and Jai Crystals &. Ritual Kits
     *   Karl Lagerfeld Shoes Up to 70% Off
+    
     *   One-Piece Wonders: Bodysuits Starting at $15
     *   Camper
     *   Lorenzo Uomo Up to 60% Off
@@ -31,68 +49,66 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Heelys: All Under $35
     *   Prep It Up: johnnie-O &. More
     *   Dive into Summer: Kids' Swim Starting at $10
-    *   BOSS Men Up to 60% Off
-    *   BOSS Up to 60% Off
-    *   Trail Tech: Jackets ft. Helly Hansen from $40
-    *   BOSS Men's Watches &. Accessories Up to 60% Off
-    *   Denim Under $40
-    
-    *   Vertigo Up to 85% Off
-    *   BOSS Women's Shoes
     *   Laura Geller New York, bareMinerals &. More
     *   Karen Walker &. More: Sunnies Up to 80% Off
+    *   Denim Under $40
     *   Sandals &. More Up to 70% Off
     *   Bralettes Under $25
-    *   KENDALL + KYLIE Clothing &. Swim from $15
-    *   GRLFRND Starting at $50
     *   Boot Steals Up to 60% Off
     *   Our Exclusive Brands: Handbags Starting at $25
-    *   BOSS Men's Shoes
     *   Men's Shoes Up to 60% Off
     *   Men's Boots Up to 70% Off
     *   Free Shipping: Chef-Worthy Kitchen Faves from $12
     *   Free Shipping: Bold Duvet Sets &. More Up to 70% Off
-    *   Maggy London &. More Under $50 Incl. Plus &. Petites
-    *   Summer Trends from $20 ft. Vintage Havana
-    *   Circus by Sam Edelman Up to 55% Off
+    *   BOSS Men Up to 60% Off
+    *   BOSS Up to 60% Off
+    *   BOSS Women's Shoes
+    *   BOSS Men's Watches &. Accessories Up to 60% Off
+    *   BOSS Men's Shoes
     *   Korean Beauty: Leaders Cosmetics from $10
     *   Poolside Playtime: Sunnylife Floats &. More
     *   Beach Towels Starting at $10
+    
     *   Baby Gear
     *   Maternity Must-Haves
-    *   Fight Frizz &. Split Ends: Hair &. Scalp Faves
-    *   Bathroom Necessities Starting at $10
-    *   Fun &. Functional: Tea Towel Sets Under $20
-    *   Time to Upgrade: Bands for Smart Watches
-    
-    *   Home Best Sellers ft. Dyson, Vitamix &. KitchenAid
-    *   Free Shipping: Storage Must-Haves from $10
-    *   Camp to Camping: Backpacks For Summer
-    *   Free Shipping: Decor for Every Style
-    *   Fresh Finds: Shoes Up to 60% Off
-    *   BCBGeneration
-    *   Summer Hiking: Outdoor Shoes ft. KEEN
     *   Day-to-Night Styles: Naked Zebra Under $40
     *   Valentino by Mario Valentino
     *   Gemstones, Diamonds &. Sterling Silver from $18
     *   Pastel Palette: Rings &. More Starting at $15
     *   White Leggings &. More from HUE Incl. Plus
     *   Dresses We Love Under $100 Incl. Plus &. Petites
-    *   Play Time: Kids' Sneakers ft. Saucony
-    *   Heritage Active Brands We Love Up to 55% Off
-    *   Surf's Up: Rip Curl Boys &. More
-    *   Original Penguin Lounge Up to 65% Off
     *   For the Outdoorsman: Sneakers &. More ft. KEEN
-    *   Moira Cosmetics
-    *   Papillon Up to 80% Off
+    *   Heritage Active Brands We Love Up to 55% Off
     *   Predire Paris Luxury Skin Care
     *   Designer Fragrances ft. Burberry, Prada &. Gucci
     *   Style in Color: Aria Hair Tools Up to 65% Off
     *   Free Shipping: Boho-Chic Decor Up to 80% Off
-    *   Mr. Swim Starting at $15
     *   Bedding Sets Up to 65% Off
+    *   Vertigo Up to 85% Off
+    *   KENDALL + KYLIE Clothing &. Swim from $15
+    *   Trail Tech: Jackets ft. Helly Hansen from $40
+    *   Maggy London &. More Under $50 Incl. Plus &. Petites
+    *   Summer Trends from $20 ft. Vintage Havana
+    *   GRLFRND Starting at $50
+    *   Moira Cosmetics
+    *   BCBGeneration
+    *   Free Shipping: Decor for Every Style
+    *   Play Time: Kids' Sneakers ft. Saucony
+    *   Bathroom Necessities Starting at $10
+    *   Fun &. Functional: Tea Towel Sets Under $20
 *   WomenShop Sale Events
     
+    *   Vince Camuto Shoes Up to 60% Off
+    *   Vince Camuto Up to 75% Off Incl. Plus &. Petites
+    *   Vince Camuto Jewelry &. Accessories Up to 55% Off
+    *   Vince Camuto Handbags
+    *   Parisian-Inspired Style: Summer Looks from FRNCH
+    *   Trending Tops: Ruffled Styles &. More
+    *   Gym Bound: Fit Faves Up to 60% Off
+    *   Vince Camuto Fragrance
+    *   ghd: good hair day
+    *   Tommy Hilfiger Shoes Up to 55% Off
+    *   Outfit Makers: Sandals Up to 60% Off
     *   Contemporary Designers Up to 75% Off
     *   Fabulously Flirty: Do + Be Under $40
     *   Via Spiga Up to 60% Off
@@ -106,29 +122,17 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Great for Gifting: Moon and Jai Crystals &. Ritual Kits
     *   One-Piece Wonders: Bodysuits Starting at $15
     *   Camper
-    *   BOSS Up to 60% Off
-    *   Trail Tech: Jackets ft. Helly Hansen from $40
-    *   Denim Under $40
-    *   Vertigo Up to 85% Off
-    *   BOSS Women's Shoes
     *   Laura Geller New York, bareMinerals &. More
     *   Karen Walker &. More: Sunnies Up to 80% Off
+    
+    *   Denim Under $40
     *   Sandals &. More Up to 70% Off
     *   Bralettes Under $25
-    *   KENDALL + KYLIE Clothing &. Swim from $15
-    *   GRLFRND Starting at $50
-    
     *   Boot Steals Up to 60% Off
     *   Our Exclusive Brands: Handbags Starting at $25
-    *   Maggy London &. More Under $50 Incl. Plus &. Petites
-    *   Summer Trends from $20 ft. Vintage Havana
-    *   Circus by Sam Edelman Up to 55% Off
+    *   BOSS Up to 60% Off
+    *   BOSS Women's Shoes
     *   Korean Beauty: Leaders Cosmetics from $10
-    *   Fight Frizz &. Split Ends: Hair &. Scalp Faves
-    *   Camp to Camping: Backpacks For Summer
-    *   Fresh Finds: Shoes Up to 60% Off
-    *   BCBGeneration
-    *   Summer Hiking: Outdoor Shoes ft. KEEN
     *   Day-to-Night Styles: Naked Zebra Under $40
     *   Valentino by Mario Valentino
     *   Gemstones, Diamonds &. Sterling Silver from $18
@@ -136,34 +140,39 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   White Leggings &. More from HUE Incl. Plus
     *   Dresses We Love Under $100 Incl. Plus &. Petites
     *   Heritage Active Brands We Love Up to 55% Off
-    *   Moira Cosmetics
-    *   Papillon Up to 80% Off
     *   Predire Paris Luxury Skin Care
     *   Designer Fragrances ft. Burberry, Prada &. Gucci
     *   Style in Color: Aria Hair Tools Up to 65% Off
+    *   Vertigo Up to 85% Off
+    *   KENDALL + KYLIE Clothing &. Swim from $15
+    *   Trail Tech: Jackets ft. Helly Hansen from $40
+    *   Maggy London &. More Under $50 Incl. Plus &. Petites
+    *   Summer Trends from $20 ft. Vintage Havana
+    *   GRLFRND Starting at $50
+    *   Moira Cosmetics
+    *   BCBGeneration
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Lingerie
     *   Jewelry
-    *   Handbags
     *   Accessories
+    *   Handbags
 *   MenShop Sale Events
     
+    *   Vince Camuto Men Up to 70% Off
+    *   Diesel Men's Shoes Up to 65% Off
     *   Karl Lagerfeld Shoes Up to 70% Off
     *   Lorenzo Uomo Up to 60% Off
     *   Bacco Bucci Up to 50% Off
+    *   Men's Shoes Up to 60% Off
+    
+    *   Men's Boots Up to 70% Off
     *   BOSS Men Up to 60% Off
     *   BOSS Men's Watches &. Accessories Up to 60% Off
     *   BOSS Men's Shoes
-    
-    *   Men's Shoes Up to 60% Off
-    *   Men's Boots Up to 70% Off
-    *   Camp to Camping: Backpacks For Summer
-    *   Original Penguin Lounge Up to 65% Off
     *   For the Outdoorsman: Sneakers &. More ft. KEEN
-    *   Mr. Swim Starting at $15
     
     Shop By Category
     *   Shoes
@@ -172,66 +181,66 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Watches
 *   KidsShop Sale Events
     
+    *   Flapdoodles
+    *   Stride Rite
+    *   Sovereign Code Kids
     *   Heelys: All Under $35
     *   Prep It Up: johnnie-O &. More
     *   Dive into Summer: Kids' Swim Starting at $10
     *   Baby Gear
     *   Maternity Must-Haves
-    *   Camp to Camping: Backpacks For Summer
     *   Play Time: Kids' Sneakers ft. Saucony
-    *   Surf's Up: Rip Curl Boys &. More
     
     Shop By Category
     *   Boys' Sizes 2T-7
-    *   Boys' Sizes 8-20
     *   Girls' Sizes 2T-6X
-    *   Girls' Shoes
-    *   Boys' Shoes
+    *   Boys' Sizes 8-20
     *   Girls' Sizes 7-16
     *   Baby Girl
-    *   Baby Gear &. Essentials
+    *   Girls' Shoes
+    *   Boys' Shoes
     *   Baby Boy
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Poo-Pourri Bathroom Scents
     *   Patio Upgrades: Pillows, Chair Covers &. More
     *   Travel Faves: Chargers, Headphones &. More
     *   Road Trip: Storage &. Organization for Your Car
     *   Free Shipping: Chef-Worthy Kitchen Faves from $12
     *   Free Shipping: Bold Duvet Sets &. More Up to 70% Off
     *   Poolside Playtime: Sunnylife Floats &. More
-    *   Beach Towels Starting at $10
-    *   Bathroom Necessities Starting at $10
     
-    *   Fun &. Functional: Tea Towel Sets Under $20
-    *   Time to Upgrade: Bands for Smart Watches
-    *   Home Best Sellers ft. Dyson, Vitamix &. KitchenAid
-    *   Free Shipping: Storage Must-Haves from $10
-    *   Free Shipping: Decor for Every Style
+    *   Beach Towels Starting at $10
     *   Free Shipping: Boho-Chic Decor Up to 80% Off
     *   Bedding Sets Up to 65% Off
+    *   Free Shipping: Decor for Every Style
+    *   Bathroom Necessities Starting at $10
+    *   Fun &. Functional: Tea Towel Sets Under $20
     
     Shop By Category
     *   Home Decor
-    *   Kitchen &. Tabletop
     *   Bedding
+    *   Kitchen &. Tabletop
     *   Bath
-    *   Tech Accessories
     *   Outdoor Living
-    *   Cleaning &. Organization
     *   Luggage &. Travel
+    *   Tech Accessories
     *   Accent Furniture
+    *   Cleaning &. Organization
     *   Rugs &. Doormats
 *   BeautyShop Sale Events
     
+    *   Vince Camuto Fragrance
+    *   ghd: good hair day
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Great for Gifting: Moon and Jai Crystals &. Ritual Kits
     *   Laura Geller New York, bareMinerals &. More
     *   Korean Beauty: Leaders Cosmetics from $10
-    *   Fight Frizz &. Split Ends: Hair &. Scalp Faves
-    *   Moira Cosmetics
     *   Predire Paris Luxury Skin Care
     *   Designer Fragrances ft. Burberry, Prada &. Gucci
     *   Style in Color: Aria Hair Tools Up to 65% Off
+    *   Moira Cosmetics
     
     Shop By Category
     *   Skin Care
