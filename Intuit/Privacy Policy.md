@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
+*   My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -53,10 +53,10 @@ YOUR ONE-STOP SCHOOL SHOP FOR BACK TO SCHOOL9.99 KIDS' IZOD UNIFORM POLO REG. $2
     $450after couponwas $14 Xersion Boys Crew Neck Short Sleeve Graphic T-ShirtAdd To Cart
 *   SPECIAL DEAL!
     
-    $450after couponwas $14 - $19 Xersion Graphic Tee - Girls' 4-16 &. PlusAdd To Cart
+    $450after couponwas $17 - $22 Arizona Girls Round Neck Glitter Tank Top(2)Add To Cart
 *   SPECIAL DEAL!
     
-    $450after couponwas $17 - $22 Arizona Girls Round Neck Glitter Tank Top(2)Add To Cart
+    $450after couponwas $14 - $19 Xersion Graphic Tee - Girls' 4-16 &. PlusAdd To Cart
 
 $10 Kids ShortsShop All$10 Kids ShortsShop All
 
@@ -84,20 +84,24 @@ $10 Kids ShortsShop All$10 Kids ShortsShop All
 
 Recommended for You
 
-*   $45
+*   $974after couponwas $32 St. John's Bay Secretly Slender Mid Rise Capris(157)
+*   BUY MORE AND SAVE WITH CODE: FORYOU24
     
-    Nike Womens Tanjun Slide Sandals(12)
-*   from$471after couponwas $14 St. John's Bay-Womens V Neck Short Sleeve T-Shirt(80)
+    from$6
+    
+    Home Expressions Solid or Stripe Bath Towel Collection(203)
+*   from$17
+    
+    a.n.a Womens Scoop Neck Short Sleeve T-Shirt(231)
 *   BUY MORE AND SAVE WITH CODE: FORYOU24
     
     from$10
     
-    JCPenney Home Mix And Match Stripe or Leaf Bath Towel(9)
-*   $375after couponwas $6 St. John's Bay Active Quick Dry-Womens V Neck Short Sleeve T-Shirt(29)
-*   $974after couponwas $32 St. John's Bay Secretly Slender Mid Rise Capris(156)
-*   $40
+    JCPenney Home Performance Bath Towel Collection(157)
+*   from$471after couponwas $14 St. John's Bay-Womens V Neck Short Sleeve T-Shirt(80)
+*   $17
     
-    Stafford Men's Regular-Fit Easy-Care Stretch Dress Shirt(83)
+    a.n.a-Womens Round Neck Short Sleeve T-Shirt(96)
 
 Shop and Save at JCPenney
 
