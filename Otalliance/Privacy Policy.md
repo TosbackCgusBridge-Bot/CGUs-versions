@@ -135,7 +135,15 @@ The IoT Trust Framework® includes a set of strategic principles necessary to he
 
 Visit our IoT Trust Framework page and download the full version or Framework Overview.
 
-Read the Framework Learn more about IoT OTA News Online Trust Audit Updates &. Translations Now Available Building Trust 18 June 2019 Online Trust Audit Updates &. Translations Now Available
+Read the Framework Learn more about IoT OTA News Internet Society’s Online Trust Alliance 2018 Cyber Incidents &. Breach Trends Report Building Trust 9 July 2019 Internet Society’s Online Trust Alliance 2018 Cyber Incidents &. Breach Trends Report
+
+On Tuesday July 9, 2019 the Internet Society’s Online Trust Alliance (OTA) released its 11th Cyber Incident &. Breach...
+
+Internet Society’s Online Trust Alliance Reports Cyber Incidents Cost $45B in 2018 Press Releases 9 July 2019 Internet Society’s Online Trust Alliance Reports Cyber Incidents Cost $45B in 2018
+
+Reston, VA – July 9, 2019 – The Internet Society’s Online Trust Alliance (OTA), which identifies and promotes security and privacy...
+
+Online Trust Audit Updates &. Translations Now Available Building Trust 18 June 2019 Online Trust Audit Updates &. Translations Now Available
 
 A slightly updated version of the Online Trust Audit &. Honor Roll is now available in English, French, and...
 
@@ -151,11 +159,7 @@ OTA’s Online Trust Audit Scores Consumer-facing U.S. Government Websites Highe
 
 “From the global economy to daily individual interactions, more and more of our lives are conducted online. Yet every...
 
-Privacy First for Security Companies Privacy 15 April 2019 Privacy First for Security Companies
-
-Privacy has become a major issue around the world. Hopeful presidential candidates, such as Elizabeth Warren, have proposed privacy...
-
-Phishing: Think like a cybercrook In the News 15 December 2018 Phishing: Think like a cybercrook SC Media Load More Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team Megan Kruse photo Megan Kruse
+Load More Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team Megan Kruse photo Megan Kruse
 
 Business Director, Online Trust Alliance
 
