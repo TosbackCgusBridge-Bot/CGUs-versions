@@ -221,17 +221,17 @@ Attention: Chief Digital Officer
     *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
     *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
     
-    *   The value of passwordless technology: Learning from the American prohibition era
-    *   British Airways hit with record £183 million GDPR fine for last year’s breach
-    *   BianLian banking trojan adds screen recorder to face off against Android users
-    *   Baltimore approves $10M for ransomware relief, expects $18M in damages
-    *   Endpoint security
+    *   DHS election lead warns state secretaries of phishing threat leading up to 2020
+    *   Florida state worker steals resident’s PII
+    *   Database management: The security checklist for every data-driven deployment
+    *   Marriott hit with $124 million fine for 2018 data breach
+    *   Women in Security: PowerPlayers
     
-    *   Inconvenience stores: Thieves steal $500K from users of 7-Eleven Japan's new payment app
-    *   Cisco releases updates for 10 high-rated vulnerabilities
-    *   Cyberattack shuts down La Porte County (Indiana) government
-    *   The value of passwordless technology: Learning from the American prohibition era
-    *   D-Link agrees to overhaul security in FTC settlement
+    *   Database management: The security checklist for every data-driven deployment
+    *   BianLian banking trojan adds screen recorder to face off against Android users
+    *   British Airways hit with record £183 million GDPR fine for last year’s breach
+    *   Cyber-industry veteran Michael Assante passes away
+    *   ICE, FBI using driver's license photos, without permission, for facial recognition searches
 
 Back to Top
 
