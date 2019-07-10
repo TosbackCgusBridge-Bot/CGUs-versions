@@ -1,6 +1,6 @@
 Compare <img src="https://images.homedepot-static.com/productImages/b9e6d312-48e1-4efc-8d65-af580992f871/svn/noble-oak-home-decorators-collection-vinyl-plank-flooring-446128-64\_400\_compressed.jpg" alt="Noble Oak 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/3e/3efe5f78-984f-4bb9-822a-474b7d2aa911\_400\_compressed.jpg" alt="Noble Oak 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
 
-More Options Available Exclusive Home Decorators Collection Noble Oak 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case) Model#  446128 (399) $239 /sq. ft. ( $59.10  /case) $239 /sq. ft. ( $59.10  /case) Standard delivery
+More Options Available Exclusive Home Decorators Collection Noble Oak 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case) Model#  446128 (400) $239 /sq. ft. ( $59.10  /case) $239 /sq. ft. ( $59.10  /case) Standard delivery
 
 Set your store to see local  
 availability
@@ -26,7 +26,7 @@ availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/31a27bec-59ba-484b-bd2c-3f7b92a8d19c/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-yg493od-bn-64\_400\_compressed.jpg" alt="Kensgrove 72 in. Integrated LED Indoor/Outdoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control" />.
 
-More Options Available Exclusive Home Decorators Collection Kensgrove 72 in. Integrated LED Indoor/Outdoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control Model#  YG493OD-BN (1133) $30900 $30900 Free delivery
+More Options Available Exclusive Home Decorators Collection Kensgrove 72 in. Integrated LED Indoor/Outdoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control Model#  YG493OD-BN (1134) $30900 $30900 Free delivery
 
 Set your store to see local  
 availability
@@ -47,7 +47,7 @@ availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/053d230c-6b14-4593-9b5e-4e28e5206c9b/svn/brown-high-gloss-home-decorators-collection-laminate-wood-flooring-hl84-64\_400\_compressed.jpg" alt="High Gloss Perry Hickory 8 mm Thick x 5 in. Wide x 47-3/4 in. Length Laminate Flooring (13.26 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/0a/0a39478e-d124-47a8-8a78-023cad630918\_400\_compressed.jpg" alt="High Gloss Perry Hickory 8 mm Thick x 5 in. Wide x 47-3/4 in. Length Laminate Flooring (13.26 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
 
-More Options Available Exclusive Home Decorators Collection High Gloss Perry Hickory 8 mm Thick x 5 in. Wide x 47-3/4 in. Length Laminate Flooring (13.26 sq. ft. / case) Model#  HL84 (805) $188 /sq. ft. ( $24.92  /case) $188 /sq. ft. ( $24.92  /case) Standard delivery
+More Options Available Exclusive Home Decorators Collection High Gloss Perry Hickory 8 mm Thick x 5 in. Wide x 47-3/4 in. Length Laminate Flooring (13.26 sq. ft. / case) Model#  HL84 (806) $188 /sq. ft. ( $24.92  /case) $188 /sq. ft. ( $24.92  /case) Standard delivery
 
 Set your store to see local  
 availability
@@ -104,13 +104,6 @@ Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/415c3345-83e6-443d-81b8-3c6b0f177d5f/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-yg493a-bn-64\_400\_compressed.jpg" alt="Kensgrove 54 in. Integrated LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/3f/3faa0f94-3a49-490c-a3e9-597ed085eeee\_400\_compressed.jpg" alt="Kensgrove 54 in. Integrated LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control" class="secondary-image has-secondary-image"/>.
-
-More Options Available Exclusive Home Decorators Collection Kensgrove 54 in. Integrated LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control Model#  YG493A-BN (355) $17900 $17900 Free delivery
-
-Set your store to see local  
-availability
-
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/c31f3112-3a04-45e6-80b2-2849f1428fd0/svn/home-decorators-collection-bathroom-vanities-with-tops-15101-vs61c-wt-64\_400\_compressed.jpg" alt="Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/0a/0ac508cc-6bdf-4b81-932d-1338ae45e9a2\_400\_compressed.jpg" alt="Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink" class="secondary-image has-secondary-image"/>. Exclusive Home Decorators Collection Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink Model#  15101-VS61C-WT View the Windlowe Collection (103) $1,19920 $1,499.00 Save $299.80 (20%) $1,19920 $1,499.00 Save $299.80 (20%) Free delivery
 
 Set your store to see local  
@@ -119,6 +112,13 @@ availability
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/3a7bc3a6-4f70-47f4-9caf-1c4f61973e12/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-yg493b-bn-64\_400\_compressed.jpg" alt="Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/ad/adb1e618-e39f-4a13-a05b-0058b5076980\_400\_compressed.jpg" alt="Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control" class="secondary-image has-secondary-image"/>.
 
 More Options Available Exclusive Home Decorators Collection Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control Model#  YG493B-BN (150) $24900 $24900 Limit 5 per order Free delivery
+
+Set your store to see local  
+availability
+
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/415c3345-83e6-443d-81b8-3c6b0f177d5f/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-yg493a-bn-64\_400\_compressed.jpg" alt="Kensgrove 54 in. Integrated LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/3f/3faa0f94-3a49-490c-a3e9-597ed085eeee\_400\_compressed.jpg" alt="Kensgrove 54 in. Integrated LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control" class="secondary-image has-secondary-image"/>.
+
+More Options Available Exclusive Home Decorators Collection Kensgrove 54 in. Integrated LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control Model#  YG493A-BN (357) $17900 $17900 Free delivery
 
 Set your store to see local  
 availability
