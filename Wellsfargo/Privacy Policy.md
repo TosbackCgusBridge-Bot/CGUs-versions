@@ -62,7 +62,6 @@ Search Enter search term, then press down arrow to navigate suggestions
     
     Your Financial Goals
     
-    *   Home Lending
     *   Going to College
     *   Borrowing and Credit
     *   Security Center
