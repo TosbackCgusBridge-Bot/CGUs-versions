@@ -45,6 +45,7 @@ Search fidelity.com or get a quote
     *   My Goals
     *   Financial Basics
     *   Building Savings
+    *   Digital Investing &. Advice
     *   Wealth Management
     *   Retirement
     *   Life Events
@@ -75,7 +76,6 @@ Search fidelity.com or get a quote
     *   Sector Investing
     *   Cash Management &. Credit Cards
     *   Managed Accounts
-    *   Fidelity Go
     *   529 College Savings
     *   Annuities
     *   Life Insurance &. Long Term Care
