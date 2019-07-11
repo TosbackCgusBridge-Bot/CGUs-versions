@@ -215,8 +215,8 @@ View more results
     *   Madalin Stunt Cars 2
     *   Hill Racing Challenge
     *   Highway Rider Extreme: Motorbike Game 3D
-    *   Uphill Rush 7: Waterpark
     *   Madalin Cars Multiplayer
+    *   Uphill Rush 7: Waterpark
     *   Country Ride: Race Car Game
     *   Agame Stunt Cars
     *   Happy Wheels
