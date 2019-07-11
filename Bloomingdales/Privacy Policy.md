@@ -426,7 +426,11 @@ Does this answer your question? Yes No s
 *   What is the shipping policy?
 *   CA Privacy Rights
 
-SAVE 10%: Sign Up for Emails or Texts! FREE SHIPPING EVERY DAY! PLUS, FREE RETURNS Loyallists: No Minimum. Everyone Else: $150+ Info/Exclusions CUSTOMER SERVICE
+SAVE 10%: Sign Up for Emails or Texts! FREE SHIPPING EVERY DAY! PLUS, FREE RETURNS
+
+Loyallists: No Minimum. Everyone Else: $150+
+
+Info/Exclusions CUSTOMER SERVICE
 
 *   1-800-777-0000
 *   FAQs &. Help
