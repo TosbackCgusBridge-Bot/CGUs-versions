@@ -190,6 +190,7 @@ Questions? Call 844.790.7475 My Suddenlink Contact Us FAQ
     *   Investor Relations
     *   Network Information
     *   Altice Connects
+    *   Articles
 *   Services
     *   Find Offers
     *   Moving?
