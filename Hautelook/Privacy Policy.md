@@ -3,25 +3,45 @@ Nordstrom RackHauteLook
 *   Invite a Friend, Get $20
 *   Log In / Sign Up
 
-CartYour Cart is empty.  
+Your Cart is empty.  
 Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*  
 **Easy Returns** to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Christmas in July: Cashmere Up to 75% Off
-    *   BLANKNYC
-    *   Franco Sarto Up to 50% Off
-    *   Graphic Tees ft. Chaser
+    *   Natori Up to 60% Off
+    *   Gracia
+    *   Designer Sun: Fendi &. More Up to 70% Off
+    *   Josie Maran Starting at $10
+    *   Aratta Up to 70% Off
+    *   Summer Bottoms Under $50 Incl. Plus &. Petites
+    *   All in One: Dresses, Jumpsuits &. Rompers
+    *   Fabulous Finds: Diamonds, Gems &. More Up to 80% Off
+    *   Neutrals for Summer: Tops, Bottoms &. More
+    *   Born Up to 50% Off
+    *   Violet Ray Handbags &. More
+    *   French Connection Coats &. More Incl. Plus
+    *   Kristin Cavallari by Chinese Laundry Up to 60% Off
+    *   Gear Up for Baby: Bumkins &. More
+    *   Travelpro Luggage Up to 70% Off
+    *   Trunks Surf and Swim Co.
+    *   Born Men
+    *   Free Shipping: Pop Art Pillows from $25
+    *   The Cool List: Top Picks for Kids
     *   Christmas in July: Mark Roberts
+    *   Christmas in July: Anthropologie Home &. More
+    *   Christmas in July: Cashmere Up to 75% Off
     *   Christmas in July: Accessories ft. The North Face
     *   Christmas in July: Cashmere Accessories from $35
     *   Christmas in July: Our Best Coats Up to 70% Off
     *   Christmas in July: Chic &. Cozy Sleep from $15
-    *   Christmas in July: Anthropologie Home &. More
+    
     *   Christmas in July: Holiday Organization &. More
     *   Christmas in July: Gnomes &. More Holiday Decor
+    *   BLANKNYC
+    *   Graphic Tees ft. Chaser
     *   Handcrafted in Spain: UNOde50 Jewelry
+    *   Franco Sarto Up to 50% Off
     *   Summer Style: Florals, Stripes &. More
     *   Turn Heads: BLVD from $20
     *   Hey Honey Skin Care
@@ -34,67 +54,65 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Cocobelle
     *   Dr. Scholl's Up to 50% Off
     *   Sweet Dreams: Reversible Quilt Sets &. More
-    
     *   JoJo Siwa Sneakers Up to 60% Off
     *   Base London Up to 55% Off
-    *   Fabulously Flirty: Do + Be Under $40
     *   Vince Camuto Shoes Up to 60% Off
     *   Vince Camuto Up to 75% Off Incl. Plus &. Petites
     *   Vince Camuto Men Up to 70% Off
     *   Vince Camuto Jewelry &. Accessories Up to 55% Off
     *   Vince Camuto Handbags
-    *   Parisian-Inspired Style: Summer Looks from FRNCH
-    *   Trending Tops: Ruffled Styles &. More
-    *   Gym Bound: Fit Faves Up to 60% Off
     *   Vince Camuto Fragrance
+    
     *   ghd: good hair day
     *   Diesel Men's Shoes Up to 65% Off
-    *   Tommy Hilfiger Shoes Up to 55% Off
     *   Flapdoodles
-    *   Outfit Makers: Sandals Up to 60% Off
     *   Poo-Pourri Bathroom Scents
     *   Stride Rite
     *   Sovereign Code Kids
-    *   Contemporary Designers Up to 75% Off
-    *   Trend Jewelry from Olivia Welles Up to 75% Off
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Great for Gifting: Moon and Jai Crystals &. Ritual Kits
     *   Karl Lagerfeld Shoes Up to 70% Off
-    
-    *   Lorenzo Uomo Up to 60% Off
     *   Bacco Bucci Up to 50% Off
     *   Patio Upgrades: Pillows, Chair Covers &. More
     *   Travel Faves: Chargers, Headphones &. More
     *   Road Trip: Storage &. Organization for Your Car
-    *   Heelys: All Under $35
-    *   Prep It Up: johnnie-O &. More
-    *   Dive into Summer: Kids' Swim Starting at $10
     *   Laura Geller New York, bareMinerals &. More
-    *   Men's Shoes Up to 60% Off
-    *   Men's Boots Up to 70% Off
     *   Free Shipping: Chef-Worthy Kitchen Faves from $12
     *   Free Shipping: Bold Duvet Sets &. More Up to 70% Off
     *   Korean Beauty: Leaders Cosmetics from $10
     *   Poolside Playtime: Sunnylife Floats &. More
     *   Beach Towels Starting at $10
-    *   Bathroom Necessities Starting at $10
-    *   Fun &. Functional: Tea Towel Sets Under $20
     *   Free Shipping: Decor for Every Style
-    *   Moira Cosmetics
-    *   Predire Paris Luxury Skin Care
     *   Free Shipping: Boho-Chic Decor Up to 80% Off
+    *   Parisian-Inspired Style: Summer Looks from FRNCH
+    *   Trending Tops: Ruffled Styles &. More
     *   Bedding Sets Up to 65% Off
 *   WomenShop Sale Events
     
+    *   Natori Up to 60% Off
+    *   Gracia
+    *   Designer Sun: Fendi &. More Up to 70% Off
+    *   Josie Maran Starting at $10
+    *   Aratta Up to 70% Off
+    *   Summer Bottoms Under $50 Incl. Plus &. Petites
+    *   All in One: Dresses, Jumpsuits &. Rompers
+    *   Fabulous Finds: Diamonds, Gems &. More Up to 80% Off
+    *   Neutrals for Summer: Tops, Bottoms &. More
+    *   Born Up to 50% Off
+    *   Violet Ray Handbags &. More
+    *   French Connection Coats &. More Incl. Plus
+    *   Kristin Cavallari by Chinese Laundry Up to 60% Off
+    *   Travelpro Luggage Up to 70% Off
     *   Christmas in July: Cashmere Up to 75% Off
-    *   BLANKNYC
-    *   Franco Sarto Up to 50% Off
-    *   Graphic Tees ft. Chaser
     *   Christmas in July: Accessories ft. The North Face
     *   Christmas in July: Cashmere Accessories from $35
     *   Christmas in July: Our Best Coats Up to 70% Off
     *   Christmas in July: Chic &. Cozy Sleep from $15
+    *   BLANKNYC
+    *   Graphic Tees ft. Chaser
+    
     *   Handcrafted in Spain: UNOde50 Jewelry
+    *   Franco Sarto Up to 50% Off
     *   Summer Style: Florals, Stripes &. More
     *   Turn Heads: BLVD from $20
     *   Hey Honey Skin Care
@@ -102,49 +120,42 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Kenneth Cole Reaction Luggage
     *   Cocobelle
     *   Dr. Scholl's Up to 50% Off
-    *   Fabulously Flirty: Do + Be Under $40
     *   Vince Camuto Shoes Up to 60% Off
-    
     *   Vince Camuto Up to 75% Off Incl. Plus &. Petites
     *   Vince Camuto Jewelry &. Accessories Up to 55% Off
     *   Vince Camuto Handbags
-    *   Parisian-Inspired Style: Summer Looks from FRNCH
-    *   Trending Tops: Ruffled Styles &. More
-    *   Gym Bound: Fit Faves Up to 60% Off
     *   Vince Camuto Fragrance
     *   ghd: good hair day
-    *   Tommy Hilfiger Shoes Up to 55% Off
-    *   Outfit Makers: Sandals Up to 60% Off
-    *   Contemporary Designers Up to 75% Off
-    *   Trend Jewelry from Olivia Welles Up to 75% Off
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Great for Gifting: Moon and Jai Crystals &. Ritual Kits
     *   Laura Geller New York, bareMinerals &. More
     *   Korean Beauty: Leaders Cosmetics from $10
-    *   Moira Cosmetics
-    *   Predire Paris Luxury Skin Care
+    *   Parisian-Inspired Style: Summer Looks from FRNCH
+    *   Trending Tops: Ruffled Styles &. More
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Lingerie
-    *   Jewelry
     *   Accessories
+    *   Jewelry
     *   Handbags
+    *   Watches
 *   MenShop Sale Events
     
+    *   Designer Sun: Fendi &. More Up to 70% Off
+    *   Travelpro Luggage Up to 70% Off
+    *   Trunks Surf and Swim Co.
+    *   Born Men
     *   Kenneth Cole Reaction
     *   Kenneth Cole Reaction Men
+    
     *   Kenneth Cole Reaction Luggage
     *   Base London Up to 55% Off
     *   Vince Camuto Men Up to 70% Off
     *   Diesel Men's Shoes Up to 65% Off
-    
     *   Karl Lagerfeld Shoes Up to 70% Off
-    *   Lorenzo Uomo Up to 60% Off
     *   Bacco Bucci Up to 50% Off
-    *   Men's Shoes Up to 60% Off
-    *   Men's Boots Up to 70% Off
     
     Shop By Category
     *   Shoes
@@ -153,27 +164,29 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Watches
 *   KidsShop Sale Events
     
+    *   Gear Up for Baby: Bumkins &. More
+    *   The Cool List: Top Picks for Kids
     *   True Religion Baby Sets Under $25
     *   Btween
     *   JoJo Siwa Sneakers Up to 60% Off
     *   Flapdoodles
     *   Stride Rite
     *   Sovereign Code Kids
-    *   Heelys: All Under $35
-    *   Prep It Up: johnnie-O &. More
-    *   Dive into Summer: Kids' Swim Starting at $10
     
     Shop By Category
     *   Boys' Sizes 2T-7
-    *   Girls' Sizes 2T-6X
-    *   Boys' Sizes 8-20
-    *   Girls' Sizes 7-16
     *   Girls' Shoes
-    *   Baby Girl
+    *   Boys' Sizes 8-20
     *   Baby Boy
+    *   Girls' Sizes 7-16
     *   Boys' Shoes
+    *   Girls' Sizes 2T-6X
+    *   Baby Girl
+    *   Baby Gear &. Essentials
+    *   The Toy Shop
 *   HomeShop Sale Events
     
+    *   Free Shipping: Pop Art Pillows from $25
     *   Christmas in July: Mark Roberts
     *   Christmas in July: Anthropologie Home &. More
     *   Christmas in July: Holiday Organization &. More
@@ -182,15 +195,13 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Sweet Dreams: Reversible Quilt Sets &. More
     *   Poo-Pourri Bathroom Scents
     *   Patio Upgrades: Pillows, Chair Covers &. More
+    
     *   Travel Faves: Chargers, Headphones &. More
     *   Road Trip: Storage &. Organization for Your Car
-    
     *   Free Shipping: Chef-Worthy Kitchen Faves from $12
     *   Free Shipping: Bold Duvet Sets &. More Up to 70% Off
     *   Poolside Playtime: Sunnylife Floats &. More
     *   Beach Towels Starting at $10
-    *   Bathroom Necessities Starting at $10
-    *   Fun &. Functional: Tea Towel Sets Under $20
     *   Free Shipping: Decor for Every Style
     *   Free Shipping: Boho-Chic Decor Up to 80% Off
     *   Bedding Sets Up to 65% Off
@@ -199,8 +210,8 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Home Decor
     *   Bedding
     *   Kitchen &. Tabletop
-    *   Bath
     *   Outdoor Living
+    *   Bath
     *   Luggage &. Travel
     *   Holiday Decorations
     *   Tech Accessories
@@ -209,6 +220,7 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Rugs &. Doormats
 *   BeautyShop Sale Events
     
+    *   Josie Maran Starting at $10
     *   Hey Honey Skin Care
     *   Vince Camuto Fragrance
     *   ghd: good hair day
@@ -216,17 +228,14 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Great for Gifting: Moon and Jai Crystals &. Ritual Kits
     *   Laura Geller New York, bareMinerals &. More
     *   Korean Beauty: Leaders Cosmetics from $10
-    *   Moira Cosmetics
-    *   Predire Paris Luxury Skin Care
     
     Shop By Category
     *   Skin Care
     *   Makeup
     *   Tools &. Accessories
-    *   Bath &. Body
-    *   Hair Care
     *   Fragrance
-    *   Nails
+    *   Hair Care
+    *   Bath &. Body
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
