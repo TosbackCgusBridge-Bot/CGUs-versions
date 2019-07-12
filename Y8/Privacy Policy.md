@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1376 games
-*   Most Popular Games 19490 games
+*   Best of new games 1374 games
+*   Most Popular Games 19496 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,240 games
+*   Games for girls 24,245 games
 *   Driving &. Racing Games 6,836 games
 *   Strategy &. RPG Games 2,425 games
-*   Management Games 3,659 games
-*   Thinking Games 12,201 games
-*   Action &. Adventure Games 16,262 games
-*   Sports Games 2,257 games
+*   Management Games 3,660 games
+*   Thinking Games 12,206 games
+*   Action &. Adventure Games 16,263 games
+*   Sports Games 2,259 games
 *   Shooting Games 8,496 games
 *   Fighting Games 2,092 games
-*   Skill Games 11,337 games
-*   Arcade &. Classic Games 13,144 games
+*   Skill Games 11,339 games
+*   Arcade &. Classic Games 13,148 games
 *   Fun &. Crazy Games 2,552 games
 
 Play with friends  
 Powered by Y8 Account 128 Y8 Multiplayer Games 2,048 Y8 High Score Games 1,159 Y8 Achievements Games 823 Y8 Screenshots Games 1,472 Y8 Online Save Games 3,108 All Y8 Games Games Last Highscore:
 
-**138** points on Gods Of Arena Battles by PhongHunterGaming
+**1,806** points on Military Wars 3D Multiplayer by Naota
 
 Help us improve Bad translation? Social
 
