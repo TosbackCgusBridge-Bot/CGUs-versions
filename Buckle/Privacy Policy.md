@@ -42,7 +42,7 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
         *   Special Offers
         *   Shop by Outfit
         *   Women's Brands
-        *   Vacation Shop
+        *   Loyalty Event
         
         *   Clothing
         
@@ -109,7 +109,7 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
         *   Men's Brands
         *   Special Offers
         *   Shop by Outfit
-        *   Vacation Shop
+        *   Loyalty Event
         
         *   Clothing
         
@@ -460,7 +460,6 @@ Returns
 
 Promotions
 
-*   3x Points - ONE DAY ONLY
 *   2x Points
 *   Store Events
 *   Military Discount
