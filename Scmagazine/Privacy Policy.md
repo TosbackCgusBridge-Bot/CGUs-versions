@@ -221,17 +221,17 @@ Attention: Chief Digital Officer
     *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
     *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
     
-    *   DHS election lead warns state secretaries of phishing threat leading up to 2020
-    *   Florida state worker steals resident’s PII
+    *   What fresh hell is this? Fileless malware campaign spread Astaroth backdoor last spring
     *   Database management: The security checklist for every data-driven deployment
-    *   Marriott hit with $124 million fine for 2018 data breach
-    *   Women in Security: PowerPlayers
-    
-    *   Database management: The security checklist for every data-driven deployment
-    *   BianLian banking trojan adds screen recorder to face off against Android users
-    *   British Airways hit with record £183 million GDPR fine for last year’s breach
-    *   Cyber-industry veteran Michael Assante passes away
+    *   Zoom finally patches video vulnerability months after discovery
     *   ICE, FBI using driver's license photos, without permission, for facial recognition searches
+    *   Heaven’s Gate exploit still defiled ten years later to deliver RATs and stealers
+    
+    *   Magecart group compromises 17,000 domains by overwriting Amazon S3 buckets
+    *   Zoom finally patches video vulnerability months after discovery
+    *   Intezer successfully shuts down QNAPCrypt ransomware campaigns
+    *   Juniper Networks patches dozens of vulnerabilities
+    *   Cisco releases updates for DoS vulnerability
 
 Back to Top
 
