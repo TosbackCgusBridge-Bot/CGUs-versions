@@ -3,7 +3,7 @@ Accessibility links
 *   Skip to main content
 *   Keyboard shortcuts for audio player
 
-Toggle more player options
+****Listen To NPR News In 5 Minutes**** Toggle more player options
 
 *   Sign In
 *   NPR Shop
@@ -369,10 +369,10 @@ California residents can request and obtain from us once a year and free of char
 *   **Flipboard**
 *   **Email**
 
-Wednesday, July 10th, 2019 ******Listen** **· 13:48****** 13:48 ****Playlist**** **Toggle more options**
+Thursday, July 11th, 2019 ******Listen** **· 12:43****** 12:43 ****Playlist**** **Toggle more options**
 
 *   **Download**
-*   ****Embed**** **Embed** **`**<**iframe src="https://www.npr.org/player/embed/740154959/740169640" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player">`**
+*   ****Embed**** **Embed** **`**<**iframe src="https://www.npr.org/player/embed/740596127/740619376" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player">`**
 
 Up First NPR's Up First is the news you need to start your day.
 
