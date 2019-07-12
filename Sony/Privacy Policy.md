@@ -125,7 +125,7 @@ Play video: The Cast Reveals Which Co-Star They’d Want to Travel With Close vi
 
 Elegance and power. Hunt Legiana to obtain this magnificent armor set in Monster Hunter World: Iceborne. Coming to PS4 September 6:  http://play.st/Iceborne  pic.twitter.com/7PcUFxE4ii
 
-3 days ago View Tweet WF-1000XM3 Wireless Noise Canceling Earbuds BzihZw6DDWl
+4 days ago View Tweet WF-1000XM3 Wireless Noise Canceling Earbuds BzihZw6DDWl
 
 “Spider-Man™: Into the Spider-Verse”
 
