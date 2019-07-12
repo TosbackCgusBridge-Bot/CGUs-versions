@@ -1,51 +1,4 @@
-Skip Navigation Skip to Content
-
-*   Life is good on the List! Get rewards when you shop, free shipping every day &. many more exclusive perks. BECOME A LOYALLIST—It's easy. It's free!
-*   Need it ASAP? Buy Online, Pick Up In Store to Get Your Order Today. LEARN MORE
-*   Hey, Loyallists! Have you picked your Triple Points days yet? Schedule them now. Not a Loyallist? Sign up for free
-
-Stores &. Events My Account USD Have an Account? SIGN IN
-
-*   Women
-*   Shoes
-*   Handbags
-*   Jewelry &. Accessories
-*   Beauty
-*   Men
-*   Kids
-*   Home
-*   Gifts
-*   EDITORIAL
-
-*   THE REGISTRY
-*   Stores &. Events
-*   Promotions
-*   My Account
-    *   Account Overview
-    *   Bloomingdale’s Credit Card
-    *   bWallet
-    *   Loyallist
-        *   Already a Loyallist
-        *   Become a Loyallist
-        *   My Perks
-    *   Wish Lists
-
-USD Change Recent Searches
-
-*   Recent Searches Clear
-
-*   Women
-*   Shoes
-*   Handbags
-*   Jewelry &. Accessories
-*   Beauty
-*   Men
-*   Kids
-*   Home
-*   Gifts
-*   EDITORIAL
-
-Live Chat CALL US **ANY TIME**:1.800.777.0000  
+Skip Navigation Live Chat CALL US **ANY TIME**:1.800.777.0000  
   
 We're available 24 hours, 7 days a week. menu
 
@@ -67,9 +20,11 @@ We're available 24 hours, 7 days a week. menu
 *   International
 *   Contact Us
 
-Search WHAT'S NEW My bWallet In-Store Pickup Wish List HELP TOPICS Credit Card Returns / Exchanges Order Status Loyallist Shipping &. Delivery Furniture &. Mattresses Stores Wedding &. Gift Registry Gifts &. Gift Cards My Account &. Profile Products &. Pricing Customer Protection Center International Contact Us Bloomingdale's and bloomingdales.com Notice of Privacy Practices Published 04/25/2011 01:50 PM   |    Updated 03/19/2019 12:06 PM
+Search WHAT'S NEW My bWallet In-Store Pickup Wish List HELP TOPICS Credit Card Returns / Exchanges Order Status Loyallist Shipping &. Delivery Furniture &. Mattresses Stores Wedding &. Gift Registry Gifts &. Gift Cards My Account &. Profile Products &. Pricing Customer Protection Center International Contact Us Bloomingdale's and bloomingdales.com Notice of Privacy Practices Published 04/25/2011 01:50 PM   |    Updated 07/11/2019 09:44 AM
 
-This Notice of Privacy Practices was updated on March 18, 2019.
+  
+
+This Notice of Privacy Practices was updated on July 11, 2019.
 
 This Notice of Privacy Practices (“Notice”) applies to information collected, processed or stored by  Bloomingdale’s and Bloomingdale’s Outlet, online at bloomingdales.com, and via Bloomingdale’s mobile applications (e.g., Bloomingdale’s Big Brown Bag app or bloomingdales.com accessed through your mobile device) (Collectively, “Services”). This Notice describes the extent of data collection and use for these Bloomingdale’s Services.
 
@@ -86,7 +41,7 @@ This Notice of Privacy Practices explains:
 *   Additional Disclosures (including COPPA, California Privacy Rights, International)
 *   Safeguarding Information -Based Advertising
 
- 
+  
 
 Your access to and use of our Services means you agree to the terms in this Notice and our Terms of Use. We encourage you to refer to this Notice periodically so that you understand our current privacy practices.  
   
@@ -120,7 +75,7 @@ We may combine information collected from different sources (see section on What
 *   To provide personal services such as b-connected (clienteling) or The Registry at Bloomingdale’s. and
 *   To administer loyalty programs (e.g., Loyallist).
 
- 
+  
 
 2\. Marketing, Promotions &. Advertising (ADV)
 
@@ -238,7 +193,7 @@ Radio Frequency Identification (RFID) tags consist of a small chip and antenna t
 Video Cameras (FUL, OPS, SEC)  
 We use cameras in our stores for security purposes, loss prevention, and asset protection. We also use cameras in our stores for operational purposes, such as traffic pattern analysis. Cameras may include technology to capture demographic information, such as age, gender and dwell time.   
 
-We will not use cameras to personally identify you, without your consent, except when the identification is for security or law enforcement purposes.
+We will not use cameras to personally identify you, without your consent, except when the identification is for security, anti-theft, or law enforcement purposes.
 
 Voice-Enabled Services (FUL, OPS)  
 We may use voice-enabled services (VES) to provide you greater functionality and easier shopping experiences with services such as voice search for products (for e.g., “Show me Style &. Company Handbags”). VES will only be used to facilitate specific requests. Voice files are not used to personally identify an individual and will not be associated within any individual Macy's account. Voice files will be retained by Macy's and any third party voice-enabled service providers.
@@ -320,6 +275,8 @@ To opt-out of receiving direct mail or telemarketing calls, you may contact us:
         *   "NO MAIL OR PHONE OFFERS" (if you don't want to receive either)
 
 *   Note on Opting-Out of Direct Mail: Because direct mailings are often prepared well in advance (12-16 weeks, in some cases) you may, for a period of time, continue to receive some physical mail after you send us your request.
+*     
+    
 
 Website &. Online Services Preferences
 
@@ -425,47 +382,3 @@ Does this answer your question? Yes No s
 *   Terms of Use
 *   What is the shipping policy?
 *   CA Privacy Rights
-
-SAVE 10%: Sign Up for Emails or Texts! FREE SHIPPING EVERY DAY! PLUS, FREE RETURNS
-
-Loyallists: No Minimum. Everyone Else: $150+
-
-Info/Exclusions CUSTOMER SERVICE
-
-*   1-800-777-0000
-*   FAQs &. Help
-*   Shipping policy
-*   Returns &. Exchanges
-
-MY ACCOUNT
-
-*   Pay My Bill
-*   Order Status
-*   Loyallist Rewards
-*   Bloomingdale's Credit Card
-
-ABOUT BLOOMINGDALE'S
-
-*   About Us
-*   b.Cause
-*   Careers
-
-SHOPPING SERVICES
-
-*   Personal Shopping
-*   Corporate Gifts
-*   Pick Up In Store
-
-FOLLOW US
-
-*   Terms of Use
-*   Privacy
-*   CA Privacy Rights
-*   CA Transparency in Supply Chains Act
-*   Interest Based Ads
-*   Customers' Bill of Rights
-*   Product Recall
-*   Visually Impaired Customers
-*   Essential Accessibility
-
-© 2018 Bloomingdale's. 1000 Third Avenue New York, NY 10022. Request our corporate name and address.
