@@ -40,20 +40,20 @@ Stock Quote and Chart
 
 Price
 
-$2.10
+$2.09
 
 Change
 
-\-0.02
+\-0.01
 
 Percent Change
 
-(-0.94%)
+(-0.48%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Jul 08, 2019 Office Depot Launches ‘Back to School Proud’ Campaign to Give Students the Advantage They Need to Succeed With Must-Have Supplies, Tech and Furniture view more Recent News Jul 08, 2019 Office Depot Launches ‘Back to School Proud’ Campaign to Give Students the Advantage They Need to Succeed With Must-Have Supplies, Tech and Furniture view more Events Jun 5, 2019 at 4:55 PM EDT Office Depot Presents at Baird’s Global Consumer, Technology &. Services Conference view more Events Jun 5, 2019 at 4:55 PM EDT Office Depot Presents at Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 05, 2019 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 05, 2019 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more
+Recent News Jul 11, 2019 Office Depot Launches Programs to Help Teachers, Schools and Students Go ‘Back to School Proud’ view more Recent News Jul 11, 2019 Office Depot Launches Programs to Help Teachers, Schools and Students Go ‘Back to School Proud’ view more Events Jun 5, 2019 at 4:55 PM EDT Office Depot Presents at Baird’s Global Consumer, Technology &. Services Conference view more Events Jun 5, 2019 at 4:55 PM EDT Office Depot Presents at Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 05, 2019 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 05, 2019 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more
 
 *   Home
 *   News &. Events
