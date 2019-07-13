@@ -221,17 +221,17 @@ Attention: Chief Digital Officer
     *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
     *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
     
-    *   What fresh hell is this? Fileless malware campaign spread Astaroth backdoor last spring
-    *   Database management: The security checklist for every data-driven deployment
-    *   Zoom finally patches video vulnerability months after discovery
-    *   ICE, FBI using driver's license photos, without permission, for facial recognition searches
-    *   Heaven’s Gate exploit still defiled ten years later to deliver RATs and stealers
+    *   U.S. mayors resolve to no longer pay ransomware attackers
+    *   Sea Turtle DNS hijackers linked to breach of Greece's ccTLD organization
+    *   DHS election lead warns state secretaries of phishing threat leading up to 2020
+    *   Uber pays out $375K in bug bounties during challenge in London
+    *   L.A. County Health Services Department contractor breach leaks patient data
     
-    *   Magecart group compromises 17,000 domains by overwriting Amazon S3 buckets
-    *   Zoom finally patches video vulnerability months after discovery
-    *   Intezer successfully shuts down QNAPCrypt ransomware campaigns
-    *   Juniper Networks patches dozens of vulnerabilities
-    *   Cisco releases updates for DoS vulnerability
+    *   Facebook to pony up $5 billion in FTC settlement
+    *   FEC ruling allows political campaign to accept discounted services from security firms
+    *   Premera Blue Cross to cough up $10 million to 30 states over data breach
+    *   Amazon Prime Day cybersecurity preparations
+    *   Congress’ new cybersecurity bill falls short, again
 
 Back to Top
 
