@@ -9,8 +9,32 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
+    *   ASICS Starting at $40
+    *   ASICS Men Starting at $40
+    *   Lola Made in Italy Up to 80% Off
+    *   Levi's Up to 60% Off
+    *   Nicole Miller One-Pieces at $24.97
+    *   Find Your Fit: Shoes in Sizes 5 to 12
+    *   Fit for You: Shoes Incl. Narrow &. Wide Widths
+    *   Big &. Tall Styles for Him
+    *   Extended Sizes: Men's Shoes Over 14 &. Under 7
+    *   ASICS Kids Starting at $30
+    *   Bright Outlook: Printed Day Dresses &. More
+    *   Bestselling Brands: Must-Have Tees from $10
+    *   Suzy Levian Jewelry
+    *   Champion Active Under $45
+    *   Levi's Men Up to 60% Off
+    *   brasi&brasi Handbags &. More
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   New Arrivals for Summer ft. Ooberswank
+    *   Zoe Ayla: Crystal Face Rollers &. More
+    *   ViX Swim &. More Up to 70% Off
+    *   Little Me
+    *   Pool Party Ready: Summer Sun Starting at $15
+    *   Kids' Active Shop ft. adidas
     *   Natori Up to 60% Off
     *   Gracia
+    
     *   Designer Sun: Fendi &. More Up to 70% Off
     *   Josie Maran Starting at $10
     *   Aratta Up to 70% Off
@@ -28,72 +52,64 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Born Men
     *   Free Shipping: Pop Art Pillows from $25
     *   The Cool List: Top Picks for Kids
-    *   Christmas in July: Mark Roberts
-    *   Christmas in July: Anthropologie Home &. More
     *   Christmas in July: Cashmere Up to 75% Off
     *   Christmas in July: Accessories ft. The North Face
     *   Christmas in July: Cashmere Accessories from $35
+    *   Christmas in July: Anthropologie Home &. More
     *   Christmas in July: Our Best Coats Up to 70% Off
     *   Christmas in July: Chic &. Cozy Sleep from $15
-    
     *   Christmas in July: Holiday Organization &. More
     *   Christmas in July: Gnomes &. More Holiday Decor
-    *   BLANKNYC
-    *   Graphic Tees ft. Chaser
+    
+    *   Christmas in July: Mark Roberts
     *   Handcrafted in Spain: UNOde50 Jewelry
-    *   Franco Sarto Up to 50% Off
-    *   Summer Style: Florals, Stripes &. More
-    *   Turn Heads: BLVD from $20
     *   Hey Honey Skin Care
-    *   Ashley Graham Intimates &. More Incl. Full-Fit Bras
     *   Kenneth Cole Reaction
     *   Kenneth Cole Reaction Men
     *   True Religion Baby Sets Under $25
     *   Btween
-    *   Kenneth Cole Reaction Luggage
-    *   Cocobelle
-    *   Dr. Scholl's Up to 50% Off
     *   Sweet Dreams: Reversible Quilt Sets &. More
     *   JoJo Siwa Sneakers Up to 60% Off
     *   Base London Up to 55% Off
-    *   Vince Camuto Shoes Up to 60% Off
-    *   Vince Camuto Up to 75% Off Incl. Plus &. Petites
-    *   Vince Camuto Men Up to 70% Off
-    *   Vince Camuto Jewelry &. Accessories Up to 55% Off
-    *   Vince Camuto Handbags
     *   Vince Camuto Fragrance
-    
     *   ghd: good hair day
     *   Diesel Men's Shoes Up to 65% Off
-    *   Flapdoodles
     *   Poo-Pourri Bathroom Scents
-    *   Stride Rite
-    *   Sovereign Code Kids
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Great for Gifting: Moon and Jai Crystals &. Ritual Kits
-    *   Karl Lagerfeld Shoes Up to 70% Off
-    *   Bacco Bucci Up to 50% Off
     *   Patio Upgrades: Pillows, Chair Covers &. More
     *   Travel Faves: Chargers, Headphones &. More
     *   Road Trip: Storage &. Organization for Your Car
-    *   Laura Geller New York, bareMinerals &. More
     *   Free Shipping: Chef-Worthy Kitchen Faves from $12
     *   Free Shipping: Bold Duvet Sets &. More Up to 70% Off
-    *   Korean Beauty: Leaders Cosmetics from $10
     *   Poolside Playtime: Sunnylife Floats &. More
     *   Beach Towels Starting at $10
     *   Free Shipping: Decor for Every Style
-    *   Free Shipping: Boho-Chic Decor Up to 80% Off
-    *   Parisian-Inspired Style: Summer Looks from FRNCH
-    *   Trending Tops: Ruffled Styles &. More
-    *   Bedding Sets Up to 65% Off
+    *   BLANKNYC
 *   WomenShop Sale Events
     
+    *   ASICS Starting at $40
+    *   Lola Made in Italy Up to 80% Off
+    *   Levi's Up to 60% Off
+    *   Nicole Miller One-Pieces at $24.97
+    *   Find Your Fit: Shoes in Sizes 5 to 12
+    *   Fit for You: Shoes Incl. Narrow &. Wide Widths
+    *   Bright Outlook: Printed Day Dresses &. More
+    *   Bestselling Brands: Must-Have Tees from $10
+    *   Suzy Levian Jewelry
+    *   Champion Active Under $45
+    *   brasi&brasi Handbags &. More
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   New Arrivals for Summer ft. Ooberswank
+    *   Zoe Ayla: Crystal Face Rollers &. More
+    *   ViX Swim &. More Up to 70% Off
+    *   Pool Party Ready: Summer Sun Starting at $15
     *   Natori Up to 60% Off
     *   Gracia
     *   Designer Sun: Fendi &. More Up to 70% Off
     *   Josie Maran Starting at $10
     *   Aratta Up to 70% Off
+    
     *   Summer Bottoms Under $50 Incl. Plus &. Petites
     *   All in One: Dresses, Jumpsuits &. Rompers
     *   Fabulous Finds: Diamonds, Gems &. More Up to 80% Off
@@ -108,54 +124,38 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Christmas in July: Cashmere Accessories from $35
     *   Christmas in July: Our Best Coats Up to 70% Off
     *   Christmas in July: Chic &. Cozy Sleep from $15
-    *   BLANKNYC
-    *   Graphic Tees ft. Chaser
-    
     *   Handcrafted in Spain: UNOde50 Jewelry
-    *   Franco Sarto Up to 50% Off
-    *   Summer Style: Florals, Stripes &. More
-    *   Turn Heads: BLVD from $20
     *   Hey Honey Skin Care
-    *   Ashley Graham Intimates &. More Incl. Full-Fit Bras
-    *   Kenneth Cole Reaction Luggage
-    *   Cocobelle
-    *   Dr. Scholl's Up to 50% Off
-    *   Vince Camuto Shoes Up to 60% Off
-    *   Vince Camuto Up to 75% Off Incl. Plus &. Petites
-    *   Vince Camuto Jewelry &. Accessories Up to 55% Off
-    *   Vince Camuto Handbags
     *   Vince Camuto Fragrance
     *   ghd: good hair day
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Great for Gifting: Moon and Jai Crystals &. Ritual Kits
-    *   Laura Geller New York, bareMinerals &. More
-    *   Korean Beauty: Leaders Cosmetics from $10
-    *   Parisian-Inspired Style: Summer Looks from FRNCH
-    *   Trending Tops: Ruffled Styles &. More
+    *   BLANKNYC
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie
-    *   Accessories
     *   Jewelry
+    *   Accessories
+    *   Lingerie
     *   Handbags
     *   Watches
 *   MenShop Sale Events
     
+    *   ASICS Men Starting at $40
+    *   Big &. Tall Styles for Him
+    *   Extended Sizes: Men's Shoes Over 14 &. Under 7
+    *   Levi's Men Up to 60% Off
+    *   Bulova &. Citizen Watches Up to 60% Off
     *   Designer Sun: Fendi &. More Up to 70% Off
     *   Travelpro Luggage Up to 70% Off
+    
     *   Trunks Surf and Swim Co.
     *   Born Men
     *   Kenneth Cole Reaction
     *   Kenneth Cole Reaction Men
-    
-    *   Kenneth Cole Reaction Luggage
     *   Base London Up to 55% Off
-    *   Vince Camuto Men Up to 70% Off
     *   Diesel Men's Shoes Up to 65% Off
-    *   Karl Lagerfeld Shoes Up to 70% Off
-    *   Bacco Bucci Up to 50% Off
     
     Shop By Category
     *   Shoes
@@ -164,34 +164,33 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Watches
 *   KidsShop Sale Events
     
+    *   ASICS Kids Starting at $30
+    *   Little Me
+    *   Kids' Active Shop ft. adidas
     *   Gear Up for Baby: Bumkins &. More
     *   The Cool List: Top Picks for Kids
     *   True Religion Baby Sets Under $25
     *   Btween
     *   JoJo Siwa Sneakers Up to 60% Off
-    *   Flapdoodles
-    *   Stride Rite
-    *   Sovereign Code Kids
     
     Shop By Category
+    *   Girls' Sizes 7-16
+    *   Boys' Sizes 8-20
+    *   Girls' Sizes 2T-6X
     *   Boys' Sizes 2T-7
     *   Girls' Shoes
-    *   Boys' Sizes 8-20
-    *   Baby Boy
-    *   Girls' Sizes 7-16
     *   Boys' Shoes
-    *   Girls' Sizes 2T-6X
+    *   Baby Boy
     *   Baby Girl
     *   Baby Gear &. Essentials
     *   The Toy Shop
 *   HomeShop Sale Events
     
     *   Free Shipping: Pop Art Pillows from $25
-    *   Christmas in July: Mark Roberts
     *   Christmas in July: Anthropologie Home &. More
     *   Christmas in July: Holiday Organization &. More
     *   Christmas in July: Gnomes &. More Holiday Decor
-    *   Kenneth Cole Reaction Luggage
+    *   Christmas in July: Mark Roberts
     *   Sweet Dreams: Reversible Quilt Sets &. More
     *   Poo-Pourri Bathroom Scents
     *   Patio Upgrades: Pillows, Chair Covers &. More
@@ -203,39 +202,36 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Poolside Playtime: Sunnylife Floats &. More
     *   Beach Towels Starting at $10
     *   Free Shipping: Decor for Every Style
-    *   Free Shipping: Boho-Chic Decor Up to 80% Off
-    *   Bedding Sets Up to 65% Off
     
     Shop By Category
     *   Home Decor
     *   Bedding
-    *   Kitchen &. Tabletop
     *   Outdoor Living
+    *   Kitchen &. Tabletop
     *   Bath
-    *   Luggage &. Travel
     *   Holiday Decorations
+    *   Luggage &. Travel
     *   Tech Accessories
     *   Cleaning &. Organization
     *   Accent Furniture
-    *   Rugs &. Doormats
 *   BeautyShop Sale Events
     
+    *   Zoe Ayla: Crystal Face Rollers &. More
     *   Josie Maran Starting at $10
     *   Hey Honey Skin Care
     *   Vince Camuto Fragrance
     *   ghd: good hair day
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Great for Gifting: Moon and Jai Crystals &. Ritual Kits
-    *   Laura Geller New York, bareMinerals &. More
-    *   Korean Beauty: Leaders Cosmetics from $10
     
     Shop By Category
+    *   Tools &. Accessories
     *   Skin Care
     *   Makeup
-    *   Tools &. Accessories
     *   Fragrance
     *   Hair Care
     *   Bath &. Body
+    *   Makeup Bags
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
