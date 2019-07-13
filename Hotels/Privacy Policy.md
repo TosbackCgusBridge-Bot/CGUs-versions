@@ -10,7 +10,6 @@ Skip to main content.English (United States)USD
 *   Sign in
 
 *   Deals
-*   Things to do
 *   Packages &. Flights
 *   Groups &. Meetings
 *   Gift Cards
@@ -150,7 +149,7 @@ Join now! Collect 10 nights, get 1 free\*
 *   For Suppliers, Affiliates, and the Media
     *   Affiliate with us
     *   Expedia Partner Solutions
-    *   Promote with Us
+    *   Promote with us
     *   Travel Agents
     *   Press Office
 *   User Terms and Privacy Policy
