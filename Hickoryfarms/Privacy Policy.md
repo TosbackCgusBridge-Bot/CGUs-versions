@@ -191,7 +191,7 @@ Security
 
 Hickory Farms is committed to maintaining safety and security for our web site users. Please refer to our security page for additional details.
 
-Sign up &. get 10% off your first purchase! Sign Up
+Sign up &. get 10% off your first purchase Sign Up
 
 Customer Service
 
@@ -212,4 +212,8 @@ Contact Us
 *   1.800.753.8558
 *   Employment
 
-Find A Store © 2019 ALL RIGHTS RESERVED. PRIVACY POLICY TERMS OF USE SITE MAP
+Find A Store
+
+*   Find A Store
+
+Find A Store © 2019 All Rights Reserved. Privacy Policy Terms Of Use Site Map Play IconFeedback
