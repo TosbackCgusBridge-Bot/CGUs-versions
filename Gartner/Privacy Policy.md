@@ -59,7 +59,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 524 7629 1 855 524 7629
+    1 855 750 6034 1 855 750 6034
     
 
 *   Solutions By Function
@@ -117,7 +117,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 524 7629 1 855 524 7629
+    1 855 750 6034 1 855 750 6034
     
 
 GARTNER PRIVACY POLICY Effective Date: June 2019
