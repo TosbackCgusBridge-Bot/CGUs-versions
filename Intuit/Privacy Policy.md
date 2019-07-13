@@ -27,18 +27,18 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBack5.99 WOMEN'S ST. JOHN'S BAY TEE select styles50-60% OFF SHORTS FOR THE FAMILY select styles50% OFF SWIM FOR THE FAMILY select styles17.99 WOMEN'S SANDALS select styles | reg. $4030-50% OFF SHEETSselect stylesUP TO 50% OFF PILLOWS, MATTRESS PADS &. TOPPERSselect styles30-50% OFF BATH TOWELSselect stylesYOUR ONE-STOP SCHOOL SHOP FOR BACK TO SCHOOLSTARTING AT 9.99 KIDS' IZOD UNIFORM POLO REG. $20 | Available in plus &. husky at similar savings.DORM 101 Little spaces, lofty ideas. The 2019 dorm collection makes far away feel like home.$6 Kids TopsShop All$6 Kids TopsShop All
+Near YouFind a StoreBack5.99 WOMEN'S ST. JOHN'S BAY TEE select styles50-60% OFF SHORTS FOR THE FAMILY select styles50% OFF SWIM FOR THE FAMILY select styles17.99 WOMEN'S SANDALS select styles | reg. $4030-50% OFF SHEETSselect stylesUP TO 50% OFF PILLOWS, MATTRESS PADS &. TOPPERSselect styles30-50% OFF BATH TOWELSselect stylesYOUR ONE-STOP SCHOOL SHOP FOR BACK TO SCHOOL7.99 KIDS' IZOD UNIFORM POLO REG. $20 | Available in plus &. husky at similar savings.DORM 101 Little spaces, lofty ideas. The 2019 dorm collection makes far away feel like home.$6 Kids TopsShop All$6 Kids TopsShop All
 
 *   SPECIAL DEAL!
     
     from$6 sale
     
-    was $14 - $19 Arizona Girls Crew Neck Short Sleeve Graphic T-Shirt(4)Add To Cart
+    was $17 - $22 Arizona Boys Crew Neck Short Sleeve T-Shirt(1)Add To Cart
 *   SPECIAL DEAL!
     
     from$6 sale
     
-    was $17 - $22 Arizona Boys Crew Neck Short Sleeve T-ShirtAdd To Cart
+    was $14 - $19 Arizona Girls Crew Neck Short Sleeve Graphic T-Shirt(4)Add To Cart
 *   SPECIAL DEAL!
     
     from$6 sale
@@ -56,58 +56,20 @@ Near YouFind a StoreBack5.99 WOMEN'S ST. JOHN'S BAY TEE select styles50-60% OFF 
     was $17 - $22 Arizona Boys Crew Neck Short Sleeve T-Shirt(1)Add To Cart
 *   SPECIAL DEAL!
     
-    from$6 sale
-    
-    was $14 - $19 Xersion Graphic Tee - Girls' 4-16 &. PlusAdd To Cart
-*   SPECIAL DEAL!
-    
     $6 sale
     
     was $14 Xersion Boys Crew Neck Short Sleeve Graphic T-ShirtAdd To Cart
-
-$10 Kids ShortsShop All$10 Kids ShortsShop All
-
 *   SPECIAL DEAL!
     
-    from$10 sale
+    from$6 sale
     
-    was $32 - $37 Arizona Girls Bermuda Short(14)Add To Cart
-*   SPECIAL DEAL!
-    
-    from$10 sale
-    
-    was $32 - $37 Arizona Boys Stretch Adjustable Waist Cargo Short Preschool / Big Kid(6)Add To Cart
-*   SPECIAL DEAL!
-    
-    from$10 sale
-    
-    was $32 - $37 Arizona Girls Midi Short(10)Add To Cart
-*   SPECIAL DEAL!
-    
-    from$10 sale
-    
-    was $30 - $35 Arizona Stretch Chino Shorts Boys 4-20, Slim &. Husky(15)Add To Cart
-*   SPECIAL DEAL!
-    
-    from$10 sale
-    
-    was $32 - $37 Arizona Boys Stretch Pull-On Short Preschool / Big Kid(6)Add To Cart
-*   SPECIAL DEAL!
-    
-    from$10 sale
-    
-    was $32 - $37 Arizona Girls Midi Short Preschool / Big Kid(3)Add To Cart
-*   SPECIAL DEAL!
-    
-    from$10 sale
-    
-    was $32 - $37 Freestyle Girls Midi Short Preschool / Big Kid(1)Add To Cart
+    was $14 - $19 Xersion Graphic Tee - Girls' 4-16 &. PlusAdd To Cart
 
 Recommended for You
 
 *   from$12 sale
     
-    was $32 | 59 - 62% offSt. John's Bay Secretly Slender Mid Rise Capris(163)
+    was $32 | 59 - 62% offSt. John's Bay Secretly Slender Mid Rise Capris(165)
 *   from$199 sale
     
     was $6 - $48 | 60 - 66% offHome Expressions Solid or Stripe Bath Towel Collection(204)
@@ -116,13 +78,13 @@ Recommended for You
     was $10 - $76 | 50 - 54% offJCPenney Home Performance Bath Towel Collection(159)
 *   from$799 sale
     
-    was $17 - $19 | 53 - 58% offa.n.a Womens Scoop Neck Short Sleeve T-Shirt(233)
+    was $17 - $19 | 53 - 58% offa.n.a Womens Scoop Neck Short Sleeve T-Shirt(234)
 *   from$599 sale
     
-    was $14 | 55 - 57% offSt. John's Bay-Womens V Neck Short Sleeve T-Shirt(80)
+    was $14 | 55 - 57% offSt. John's Bay-Womens V Neck Short Sleeve T-Shirt(81)
 *   $799 sale
     
-    was $17 | 53% offa.n.a-Womens Round Neck Short Sleeve T-Shirt(96)
+    was $17 | 53% offa.n.a-Womens Round Neck Short Sleeve T-Shirt(97)
 
 Shop and Save at JCPenney
 
