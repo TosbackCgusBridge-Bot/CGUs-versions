@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off full-price kids' styles. 40% off full-price adult styles!
+Receive 40% off full-price styles!
 
-code: COAST pin: 4825 DETAILS
+code: SANDALS pin: 8651 DETAILS
 
 Customer Service Menu
 
