@@ -77,7 +77,7 @@ We keep your personal data for as long as is necessary to provide our services t
 
 If you would like us to cease all of the described uses of your personal data, you may delete your account at any time from the Account Settings section from the Mailgun Dashboard. This will delete your personal data from our records, and we will make no further use of it. We may, however, retain copies of your personal data in backups. Please note that we may be required to retain certain information by law and/or for own legitimate business purposes.
 
-5\. How do we transfer your personal data?
+9\. How do we transfer your personal data?
 
 Mailgun participates in and has certified to the EU-U.S. Privacy Shield Framework. Mailgun is committed to subjecting all personal data received from the EU, in accordance to the Privacy Shield Framework. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List.
 
