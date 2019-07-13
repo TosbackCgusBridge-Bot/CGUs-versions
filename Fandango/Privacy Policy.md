@@ -68,8 +68,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: ‘Spider-Man: Far From Home’ Easter Eggs, ‘Midsommar’ Director Commentary and More Read More
-    *   First Look at Disney's Live-Action 'Mulan'. Here's Everything We Know Read More
+    *   Today in Movie Culture: ‘Toy Story 4’ VFX Breakdown, ‘Midsommar’ Toys, Overthinking ‘The Lion King’ and More Read More
+    *   The Week in Movie News: ‘Sherlock Holmes 3’ Director Identified, ‘Look Who’s Talking’ Reboot in the Works and More Read More
     *   Marvel's Kevin Feige on the MCU Multiverse, 'Far From Home' Post-Credits Scenes and The Future of Spider-Man Read More
     
     Explore Content
@@ -355,4 +355,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
