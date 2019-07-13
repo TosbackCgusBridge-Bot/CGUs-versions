@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Friday, July 12, 2019  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Saturday, July 13, 2019  
 
 DEBKAfile
 
@@ -46,6 +46,26 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   House denies Trump endorsement for attacking Iran
+    
+    Jul 12, 2019 @ 22:41
+    
+*   Nasrallah boasts: Our rockets can reach all of Israel, then rules out war
+    
+    Jul 12, 2019 @ 22:30
+    
+*   Two rockets fired from Gaza land on open ground
+    
+    Jul 12, 2019 @ 22:23
+    
+*   IDF adds Iron Dome batteries in South after Hamas revenge threat
+    
+    Jul 12, 2019 @ 19:12
+    
+*   First shipment of Russian S-400s arrives in Turkey
+    
+    Jul 12, 2019 @ 11:32
+    
 *   Netanyahu: A Gaza operation under preparation will “surprise everyone”
     
     Jul 11, 2019 @ 19:47
@@ -57,43 +77,11 @@ Breaking news
 *   Netanyahu and Trump talk by phone on Iran
     
     Jul 11, 2019 @ 19:25
-    
-*   The Iranian Guards deny attempting to seize a British tanker
-    
-    Jul 11, 2019 @ 10:01
-    
-*   An Iraqi asylum-seeker sentenced to life for rape-murder of Jewish teen
-    
-    Jul 10, 2019 @ 19:17
-    
-*   British ambassador to US resigns after calling Trump “inept”
-    
-    Jul 10, 2019 @ 14:25
-    
-*   US urges Turkey to stop energy drilling off Cyprus coast
-    
-    Jul 10, 2019 @ 08:18
-    
-*   UK PM contender Johnson says he is a “passionate Zionist”
-    
-    Jul 10, 2019 @ 07:53
     
 
-*   An Iraqi asylum-seeker sentenced to life for rape-murder of Jewish teen
+*   First shipment of Russian S-400s arrives in Turkey
     
-    Jul 10, 2019 @ 19:17
-    
-*   British ambassador to US resigns after calling Trump “inept”
-    
-    Jul 10, 2019 @ 14:25
-    
-*   US urges Turkey to stop energy drilling off Cyprus coast
-    
-    Jul 10, 2019 @ 08:18
-    
-*   UK PM contender Johnson says he is a “passionate Zionist”
-    
-    Jul 10, 2019 @ 07:53
+    Jul 12, 2019 @ 11:32
     
 *   Netanyahu: A Gaza operation under preparation will “surprise everyone”
     
@@ -107,25 +95,25 @@ Breaking news
     
     Jul 11, 2019 @ 19:25
     
-*   The Iranian Guards deny attempting to seize a British tanker
+*   House denies Trump endorsement for attacking Iran
     
-    Jul 11, 2019 @ 10:01
+    Jul 12, 2019 @ 22:41
     
-*   An Iraqi asylum-seeker sentenced to life for rape-murder of Jewish teen
+*   Nasrallah boasts: Our rockets can reach all of Israel, then rules out war
     
-    Jul 10, 2019 @ 19:17
+    Jul 12, 2019 @ 22:30
     
-*   British ambassador to US resigns after calling Trump “inept”
+*   Two rockets fired from Gaza land on open ground
     
-    Jul 10, 2019 @ 14:25
+    Jul 12, 2019 @ 22:23
     
-*   US urges Turkey to stop energy drilling off Cyprus coast
+*   IDF adds Iron Dome batteries in South after Hamas revenge threat
     
-    Jul 10, 2019 @ 08:18
+    Jul 12, 2019 @ 19:12
     
-*   UK PM contender Johnson says he is a “passionate Zionist”
+*   First shipment of Russian S-400s arrives in Turkey
     
-    Jul 10, 2019 @ 07:53
+    Jul 12, 2019 @ 11:32
     
 *   Netanyahu: A Gaza operation under preparation will “surprise everyone”
     
@@ -139,9 +127,21 @@ Breaking news
     
     Jul 11, 2019 @ 19:25
     
-*   The Iranian Guards deny attempting to seize a British tanker
+*   House denies Trump endorsement for attacking Iran
     
-    Jul 11, 2019 @ 10:01
+    Jul 12, 2019 @ 22:41
+    
+*   Nasrallah boasts: Our rockets can reach all of Israel, then rules out war
+    
+    Jul 12, 2019 @ 22:30
+    
+*   Two rockets fired from Gaza land on open ground
+    
+    Jul 12, 2019 @ 22:23
+    
+*   IDF adds Iron Dome batteries in South after Hamas revenge threat
+    
+    Jul 12, 2019 @ 19:12
     
 
 12PrevNext
