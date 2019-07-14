@@ -60,8 +60,8 @@ View more results
     *   Warbanner
     *   Slither.io
     *   Fireboy &. Watergirl 4: Crystal Temple
-    *   Klondike - the lost expedition
     *   Total Front: Army War Game
+    *   Klondike - the lost expedition
     *   Bubble Machine: 2 Player Game
     *   Madalin Cars Multiplayer
 *   Top Categories
@@ -120,13 +120,13 @@ View more results
     *   Five Nights at Freddy's 2
     *   Short Life
     *   World Craft 2
-    *   Fire Balls
     *   Tom and Jerry: Mouse Maze
+    *   Fire Balls
     *   FNAF World
     *   Five Nights at Freddy's 5
     *   Five Nights at Freddy's 4
-    *   Fireboy and Watergirl 5: Elements
     *   Five Nights at Freddy's: Ultimate
+    *   Fireboy and Watergirl 5: Elements
     *   Miami Crime Simulator 3D
 *   Top Categories
     
@@ -159,7 +159,7 @@ View more results
     *   1001 Arabian Nights
     *   Bubble Machine: 2 Player Game
     *   Crystical: 2 Player Puzzle Game
-    *   Cut the Rope
+    *   Happy Glass
 *   Top Categories
     
     *   Dress Up
@@ -190,8 +190,8 @@ View more results
     *   Popstar Dentist
     *   Get Your Boyfriend
     *   Princess Rivalry
-    *   Ella: Hips Surgery
     *   Beauty's Transformation: Fashion Game
+    *   Ella: Hips Surgery
 *   Top Categories
     
     *   BMX Games
@@ -216,8 +216,8 @@ View more results
     *   Hill Racing Challenge
     *   Highway Rider Extreme: Motorbike Game 3D
     *   Uphill Rush 7: Waterpark
-    *   Madalin Cars Multiplayer
     *   Country Ride: Race Car Game
+    *   Madalin Cars Multiplayer
     *   Agame Stunt Cars
     *   Happy Wheels
     *   Rally Point 2: Dirt Track Racing Game
