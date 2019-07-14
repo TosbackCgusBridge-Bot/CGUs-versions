@@ -9,16 +9,38 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
-    *   ASICS Starting at $40
-    *   ASICS Men Starting at $40
-    *   Lola Made in Italy Up to 80% Off
-    *   Levi's Up to 60% Off
-    *   Nicole Miller One-Pieces at $24.97
+    *   Wardrobe Essentials: Habitual &. Frank + Eileen
+    *   Algenist Skin Care Starting at $10
+    *   West Kei Incl. Plus
+    *   Easy Summer Style: Cotton On &. Co. from $15
+    *   Splendid Up to 60% Off
+    *   Staycation Style: Emory Park &. More
+    *   Thacker New York Handbags &. More
+    *   Free Shipping: Sheets Up to 70% Off
+    *   Oscar Blandi Prestige Hair Care Products
+    *   Fresh Finds: Shoes Up to 70% Off
+    *   Skechers from $30
+    *   Men's Lounge ft. Lacoste
+    *   Helly Hansen
+    *   Lift &. Support: Push-Up Bras Under $30 Incl. Plus
+    *   Splendid Kids Up to 55% Off
+    *   Joe-Ella
+    *   Helly Hansen Men
+    *   Bed|Stu Men Up to 60% Off
+    *   For Your Fur Baby: Pet Accessories &. More
+    *   Boho Babe: Dresses from $25
+    *   Summer Travel Accessories ft. Brouk &. Co
+    *   Christmas in July: Mark Roberts
+    *   Christmas in July: Anthropologie Home &. More
     *   Find Your Fit: Shoes in Sizes 5 to 12
+    
     *   Fit for You: Shoes Incl. Narrow &. Wide Widths
     *   Big &. Tall Styles for Him
     *   Extended Sizes: Men's Shoes Over 14 &. Under 7
+    *   ASICS Starting at $40
+    *   ASICS Men Starting at $40
     *   ASICS Kids Starting at $30
+    *   Levi's Up to 60% Off
     *   Bright Outlook: Printed Day Dresses &. More
     *   Bestselling Brands: Must-Have Tees from $10
     *   Suzy Levian Jewelry
@@ -30,53 +52,28 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Zoe Ayla: Crystal Face Rollers &. More
     *   ViX Swim &. More Up to 70% Off
     *   Little Me
+    *   Travelpro Luggage Up to 70% Off
     *   Pool Party Ready: Summer Sun Starting at $15
     *   Kids' Active Shop ft. adidas
+    *   Lola Made in Italy Up to 80% Off
     *   Natori Up to 60% Off
-    *   Gracia
-    
-    *   Designer Sun: Fendi &. More Up to 70% Off
     *   Josie Maran Starting at $10
-    *   Aratta Up to 70% Off
-    *   Summer Bottoms Under $50 Incl. Plus &. Petites
-    *   All in One: Dresses, Jumpsuits &. Rompers
+    
     *   Fabulous Finds: Diamonds, Gems &. More Up to 80% Off
-    *   Neutrals for Summer: Tops, Bottoms &. More
-    *   Born Up to 50% Off
-    *   Violet Ray Handbags &. More
-    *   French Connection Coats &. More Incl. Plus
-    *   Kristin Cavallari by Chinese Laundry Up to 60% Off
     *   Gear Up for Baby: Bumkins &. More
-    *   Travelpro Luggage Up to 70% Off
     *   Trunks Surf and Swim Co.
     *   Born Men
     *   Free Shipping: Pop Art Pillows from $25
     *   The Cool List: Top Picks for Kids
-    *   Christmas in July: Cashmere Up to 75% Off
-    *   Christmas in July: Accessories ft. The North Face
-    *   Christmas in July: Cashmere Accessories from $35
-    *   Christmas in July: Anthropologie Home &. More
-    *   Christmas in July: Our Best Coats Up to 70% Off
-    *   Christmas in July: Chic &. Cozy Sleep from $15
     *   Christmas in July: Holiday Organization &. More
     *   Christmas in July: Gnomes &. More Holiday Decor
-    
-    *   Christmas in July: Mark Roberts
-    *   Handcrafted in Spain: UNOde50 Jewelry
     *   Hey Honey Skin Care
-    *   Kenneth Cole Reaction
     *   Kenneth Cole Reaction Men
-    *   True Religion Baby Sets Under $25
-    *   Btween
     *   Sweet Dreams: Reversible Quilt Sets &. More
-    *   JoJo Siwa Sneakers Up to 60% Off
     *   Base London Up to 55% Off
     *   Vince Camuto Fragrance
     *   ghd: good hair day
-    *   Diesel Men's Shoes Up to 65% Off
     *   Poo-Pourri Bathroom Scents
-    *   Dazzlepro Teeth Whitening Up to 85% Off
-    *   Great for Gifting: Moon and Jai Crystals &. Ritual Kits
     *   Patio Upgrades: Pillows, Chair Covers &. More
     *   Travel Faves: Chargers, Headphones &. More
     *   Road Trip: Storage &. Organization for Your Car
@@ -84,16 +81,27 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Free Shipping: Bold Duvet Sets &. More Up to 70% Off
     *   Poolside Playtime: Sunnylife Floats &. More
     *   Beach Towels Starting at $10
-    *   Free Shipping: Decor for Every Style
-    *   BLANKNYC
 *   WomenShop Sale Events
     
-    *   ASICS Starting at $40
-    *   Lola Made in Italy Up to 80% Off
-    *   Levi's Up to 60% Off
-    *   Nicole Miller One-Pieces at $24.97
+    *   Wardrobe Essentials: Habitual &. Frank + Eileen
+    *   Algenist Skin Care Starting at $10
+    *   West Kei Incl. Plus
+    *   Easy Summer Style: Cotton On &. Co. from $15
+    *   Splendid Up to 60% Off
+    *   Staycation Style: Emory Park &. More
+    *   Thacker New York Handbags &. More
+    *   Oscar Blandi Prestige Hair Care Products
+    *   Fresh Finds: Shoes Up to 70% Off
+    *   Skechers from $30
+    *   Helly Hansen
+    *   Lift &. Support: Push-Up Bras Under $30 Incl. Plus
+    *   Boho Babe: Dresses from $25
+    *   Summer Travel Accessories ft. Brouk &. Co
     *   Find Your Fit: Shoes in Sizes 5 to 12
     *   Fit for You: Shoes Incl. Narrow &. Wide Widths
+    *   ASICS Starting at $40
+    *   Levi's Up to 60% Off
+    
     *   Bright Outlook: Printed Day Dresses &. More
     *   Bestselling Brands: Must-Have Tees from $10
     *   Suzy Levian Jewelry
@@ -103,59 +111,41 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   New Arrivals for Summer ft. Ooberswank
     *   Zoe Ayla: Crystal Face Rollers &. More
     *   ViX Swim &. More Up to 70% Off
-    *   Pool Party Ready: Summer Sun Starting at $15
-    *   Natori Up to 60% Off
-    *   Gracia
-    *   Designer Sun: Fendi &. More Up to 70% Off
-    *   Josie Maran Starting at $10
-    *   Aratta Up to 70% Off
-    
-    *   Summer Bottoms Under $50 Incl. Plus &. Petites
-    *   All in One: Dresses, Jumpsuits &. Rompers
-    *   Fabulous Finds: Diamonds, Gems &. More Up to 80% Off
-    *   Neutrals for Summer: Tops, Bottoms &. More
-    *   Born Up to 50% Off
-    *   Violet Ray Handbags &. More
-    *   French Connection Coats &. More Incl. Plus
-    *   Kristin Cavallari by Chinese Laundry Up to 60% Off
     *   Travelpro Luggage Up to 70% Off
-    *   Christmas in July: Cashmere Up to 75% Off
-    *   Christmas in July: Accessories ft. The North Face
-    *   Christmas in July: Cashmere Accessories from $35
-    *   Christmas in July: Our Best Coats Up to 70% Off
-    *   Christmas in July: Chic &. Cozy Sleep from $15
-    *   Handcrafted in Spain: UNOde50 Jewelry
+    *   Pool Party Ready: Summer Sun Starting at $15
+    *   Lola Made in Italy Up to 80% Off
+    *   Natori Up to 60% Off
+    *   Josie Maran Starting at $10
+    *   Fabulous Finds: Diamonds, Gems &. More Up to 80% Off
     *   Hey Honey Skin Care
     *   Vince Camuto Fragrance
     *   ghd: good hair day
-    *   Dazzlepro Teeth Whitening Up to 85% Off
-    *   Great for Gifting: Moon and Jai Crystals &. Ritual Kits
-    *   BLANKNYC
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Accessories
     *   Lingerie
     *   Handbags
+    *   Accessories
     *   Watches
 *   MenShop Sale Events
     
-    *   ASICS Men Starting at $40
+    *   Men's Lounge ft. Lacoste
+    *   Helly Hansen Men
+    *   Bed|Stu Men Up to 60% Off
+    *   Summer Travel Accessories ft. Brouk &. Co
     *   Big &. Tall Styles for Him
     *   Extended Sizes: Men's Shoes Over 14 &. Under 7
+    *   ASICS Men Starting at $40
+    
     *   Levi's Men Up to 60% Off
     *   Bulova &. Citizen Watches Up to 60% Off
-    *   Designer Sun: Fendi &. More Up to 70% Off
     *   Travelpro Luggage Up to 70% Off
-    
     *   Trunks Surf and Swim Co.
     *   Born Men
-    *   Kenneth Cole Reaction
     *   Kenneth Cole Reaction Men
     *   Base London Up to 55% Off
-    *   Diesel Men's Shoes Up to 65% Off
     
     Shop By Category
     *   Shoes
@@ -164,72 +154,72 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Watches
 *   KidsShop Sale Events
     
+    *   Splendid Kids Up to 55% Off
+    *   Joe-Ella
     *   ASICS Kids Starting at $30
     *   Little Me
     *   Kids' Active Shop ft. adidas
     *   Gear Up for Baby: Bumkins &. More
     *   The Cool List: Top Picks for Kids
-    *   True Religion Baby Sets Under $25
-    *   Btween
-    *   JoJo Siwa Sneakers Up to 60% Off
     
     Shop By Category
     *   Girls' Sizes 7-16
     *   Boys' Sizes 8-20
     *   Girls' Sizes 2T-6X
     *   Boys' Sizes 2T-7
-    *   Girls' Shoes
     *   Boys' Shoes
-    *   Baby Boy
+    *   Girls' Shoes
     *   Baby Girl
+    *   Baby Boy
     *   Baby Gear &. Essentials
     *   The Toy Shop
 *   HomeShop Sale Events
     
-    *   Free Shipping: Pop Art Pillows from $25
+    *   Free Shipping: Sheets Up to 70% Off
+    *   For Your Fur Baby: Pet Accessories &. More
+    *   Christmas in July: Mark Roberts
     *   Christmas in July: Anthropologie Home &. More
+    *   Free Shipping: Pop Art Pillows from $25
     *   Christmas in July: Holiday Organization &. More
     *   Christmas in July: Gnomes &. More Holiday Decor
-    *   Christmas in July: Mark Roberts
     *   Sweet Dreams: Reversible Quilt Sets &. More
+    
     *   Poo-Pourri Bathroom Scents
     *   Patio Upgrades: Pillows, Chair Covers &. More
-    
     *   Travel Faves: Chargers, Headphones &. More
     *   Road Trip: Storage &. Organization for Your Car
     *   Free Shipping: Chef-Worthy Kitchen Faves from $12
     *   Free Shipping: Bold Duvet Sets &. More Up to 70% Off
     *   Poolside Playtime: Sunnylife Floats &. More
     *   Beach Towels Starting at $10
-    *   Free Shipping: Decor for Every Style
     
     Shop By Category
-    *   Home Decor
     *   Bedding
+    *   Home Decor
     *   Outdoor Living
     *   Kitchen &. Tabletop
     *   Bath
-    *   Holiday Decorations
+    *   Pet Accessories
     *   Luggage &. Travel
+    *   Holiday Decorations
     *   Tech Accessories
     *   Cleaning &. Organization
-    *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Algenist Skin Care Starting at $10
+    *   Oscar Blandi Prestige Hair Care Products
     *   Zoe Ayla: Crystal Face Rollers &. More
     *   Josie Maran Starting at $10
     *   Hey Honey Skin Care
     *   Vince Camuto Fragrance
     *   ghd: good hair day
-    *   Dazzlepro Teeth Whitening Up to 85% Off
-    *   Great for Gifting: Moon and Jai Crystals &. Ritual Kits
     
     Shop By Category
-    *   Tools &. Accessories
     *   Skin Care
     *   Makeup
-    *   Fragrance
     *   Hair Care
+    *   Tools &. Accessories
+    *   Fragrance
     *   Bath &. Body
     *   Makeup Bags
 
