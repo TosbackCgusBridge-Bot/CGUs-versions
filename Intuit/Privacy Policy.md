@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   My AccountSign InSign InNew Customer? Register Here
+*   Start Earning Rewards!Sign In create account My AccountSign InSign InNew Customer? Register Here
     *   My Account
     *   Track Order
     *   JCPenney Credit Card
@@ -48,12 +48,12 @@ Near YouFind a StoreBack5.99 WOMEN'S ST. JOHN'S BAY TEE select styles50-60% OFF 
     
     from$6 sale
     
-    was $14 - $19 Xersion Girls Crew Neck Short Sleeve Graphic T-Shirt Preschool / Big KidAdd To Cart
+    was $17 - $22 Arizona Boys Crew Neck Short Sleeve T-Shirt(1)Add To Cart
 *   SPECIAL DEAL!
     
     from$6 sale
     
-    was $17 - $22 Arizona Boys Crew Neck Short Sleeve T-Shirt(1)Add To Cart
+    was $14 - $19 Xersion Girls Crew Neck Short Sleeve Graphic T-Shirt Preschool / Big KidAdd To Cart
 *   SPECIAL DEAL!
     
     $6 sale
@@ -69,22 +69,22 @@ Recommended for You
 
 *   from$12 sale
     
-    was $32 | 59 - 62% offSt. John's Bay Secretly Slender Mid Rise Capris(165)
+    was $32 | 59 - 62% offSt. John's Bay Secretly Slender Mid Rise Capris(166)
 *   from$199 sale
     
-    was $6 - $48 | 60 - 66% offHome Expressions Solid or Stripe Bath Towel Collection(204)
+    was $6 - $48 | 60 - 66% offHome Expressions Solid or Stripe Bath Towel Collection(205)
 *   from$499 sale
     
     was $10 - $76 | 50 - 54% offJCPenney Home Performance Bath Towel Collection(159)
-*   from$799 sale
+*   from$5 sale
     
-    was $17 - $19 | 53 - 58% offa.n.a Womens Scoop Neck Short Sleeve T-Shirt(234)
+    was $17 - $19 | 53 - 73% offa.n.a Womens Scoop Neck Short Sleeve T-Shirt(235)
 *   from$599 sale
     
-    was $14 | 55 - 57% offSt. John's Bay-Womens V Neck Short Sleeve T-Shirt(81)
-*   $799 sale
+    was $14 | 55 - 57% offSt. John's Bay-Womens V Neck Short Sleeve T-Shirt(82)
+*   from$1299 sale
     
-    was $17 | 53% offa.n.a-Womens Round Neck Short Sleeve T-Shirt(97)
+    was $26 - $60 | 50% offHome Expressions Microfiber Plus Easy Care Wrinkle Resistant Sheet Set(1539)
 
 Shop and Save at JCPenney
 
