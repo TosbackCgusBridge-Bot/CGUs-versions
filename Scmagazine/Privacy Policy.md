@@ -221,11 +221,11 @@ Attention: Chief Digital Officer
     *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
     *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
     
-    *   U.S. mayors resolve to no longer pay ransomware attackers
-    *   Sea Turtle DNS hijackers linked to breach of Greece's ccTLD organization
-    *   DHS election lead warns state secretaries of phishing threat leading up to 2020
-    *   Uber pays out $375K in bug bounties during challenge in London
-    *   L.A. County Health Services Department contractor breach leaks patient data
+    *   Zoom finally patches video vulnerability months after discovery
+    *   British Airways hit with record £183 million GDPR fine for last year’s breach
+    *   Rep. Blackburn: China using Huawei to build spy network, warns against access to U.S. 5G
+    *   Border-surveillance subcontractor suspended after cyberattack
+    *   Facebook to pony up $5 billion in FTC settlement
     
     *   Facebook to pony up $5 billion in FTC settlement
     *   FEC ruling allows political campaign to accept discounted services from security firms
