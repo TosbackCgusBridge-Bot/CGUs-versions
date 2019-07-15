@@ -33,26 +33,26 @@ availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/0f/0fbec567-3af9-4832-a9ea-4bf32c6586e6\_400\_compressed.jpg" alt="2 in. Cordless Faux Wood" />.
 
-More Options Available Home Decorators Collection 2 in. Cordless Faux Wood (6355) $2397 - $9294 Free delivery
+More Options Available Home Decorators Collection 2 in. Cordless Faux Wood (6359) $2397 - $9294 Free delivery
 
 Set your store to see local  
 availability
 
-Choose Your Options Compare <img src="https://images.homedepot-static.com/productImages/3026095f-ca13-4dd7-86e4-61b7e570b201/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-54725-64\_400\_compressed.jpg" alt="Mercer 52 in. LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control" />.
-
-More Options Available Home Decorators Collection Mercer 52 in. LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control Model#  54725 View the Mercer Collection (885) $14900 $14900 Free delivery
+Choose Your Options Compare <img src="https://images.homedepot-static.com/productImages/bbb79aff-8a3d-46d7-9a62-db87822aa09e/svn/winterton-oak-light-brown-low-gloss-textured-finish-home-decorators-collection-laminate-wood-flooring-hc01-64\_400\_compressed.jpg" alt="Winterton Oak 12 mm Thick x 7-7/16 in. Wide x 50-5/8 in. Length Laminate Flooring (18.2 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/f8/f84d1c17-635d-4056-a4a9-c1f5ad7fb743\_400\_compressed.jpg" alt="Winterton Oak 12 mm Thick x 7-7/16 in. Wide x 50-5/8 in. Length Laminate Flooring (18.2 sq. ft. / case)" class="secondary-image has-secondary-image"/>. Home Decorators Collection Winterton Oak 12 mm Thick x 7-7/16 in. Wide x 50-5/8 in. Length Laminate Flooring (18.2 sq. ft. / case) Model#  HC01 (186) $199 /sq. ft. ( $36.22  /case) $199 /sq. ft. ( $36.22  /case) Standard delivery
 
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/bbb79aff-8a3d-46d7-9a62-db87822aa09e/svn/winterton-oak-light-brown-low-gloss-textured-finish-home-decorators-collection-laminate-wood-flooring-hc01-64\_400\_compressed.jpg" alt="Winterton Oak 12 mm Thick x 7-7/16 in. Wide x 50-5/8 in. Length Laminate Flooring (18.2 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/f8/f84d1c17-635d-4056-a4a9-c1f5ad7fb743\_400\_compressed.jpg" alt="Winterton Oak 12 mm Thick x 7-7/16 in. Wide x 50-5/8 in. Length Laminate Flooring (18.2 sq. ft. / case)" class="secondary-image has-secondary-image"/>. Home Decorators Collection Winterton Oak 12 mm Thick x 7-7/16 in. Wide x 50-5/8 in. Length Laminate Flooring (18.2 sq. ft. / case) Model#  HC01 (186) $199 /sq. ft. ( $36.22  /case) $199 /sq. ft. ( $36.22  /case) Free delivery with $45 order
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/3026095f-ca13-4dd7-86e4-61b7e570b201/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-54725-64\_400\_compressed.jpg" alt="Mercer 52 in. LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control" />.
+
+More Options Available Home Decorators Collection Mercer 52 in. LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control Model#  54725 View the Mercer Collection (886) $14900 $14900 Free delivery
 
 Set your store to see local  
 availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/053d230c-6b14-4593-9b5e-4e28e5206c9b/svn/brown-high-gloss-home-decorators-collection-laminate-wood-flooring-hl84-64\_400\_compressed.jpg" alt="High Gloss Perry Hickory 8 mm Thick x 5 in. Wide x 47-3/4 in. Length Laminate Flooring (13.26 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/0a/0a39478e-d124-47a8-8a78-023cad630918\_400\_compressed.jpg" alt="High Gloss Perry Hickory 8 mm Thick x 5 in. Wide x 47-3/4 in. Length Laminate Flooring (13.26 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
 
-More Options Available Home Decorators Collection High Gloss Perry Hickory 8 mm Thick x 5 in. Wide x 47-3/4 in. Length Laminate Flooring (13.26 sq. ft. / case) Model#  HL84 (807) $188 /sq. ft. ( $24.92  /case) $188 /sq. ft. ( $24.92  /case) Standard delivery
+More Options Available Home Decorators Collection High Gloss Perry Hickory 8 mm Thick x 5 in. Wide x 47-3/4 in. Length Laminate Flooring (13.26 sq. ft. / case) Model#  HL84 (808) $188 /sq. ft. ( $24.92  /case) $188 /sq. ft. ( $24.92  /case) Standard delivery
 
 Set your store to see local  
 availability
@@ -94,17 +94,17 @@ availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/60d89270-797a-4f5a-b78e-b27afdcfd402/svn/matte-black-home-decorators-collection-ceiling-fans-with-lights-sw1422mbk-64\_400\_compressed.jpg" alt="Merwry 52 in. Integrated LED Indoor Matte Black Ceiling Fan with Light Kit and Remote Control" />.
 
-More Options Available Home Decorators Collection Merwry 52 in. Integrated LED Indoor Matte Black Ceiling Fan with Light Kit and Remote Control Model#  SW1422MBK View the Merwry Collection (1584) $11900 $11900 Free delivery
-
-Set your store to see local  
-availability
-
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/c31f3112-3a04-45e6-80b2-2849f1428fd0/svn/home-decorators-collection-bathroom-vanities-with-tops-15101-vs61c-wt-64\_400\_compressed.jpg" alt="Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/0a/0ac508cc-6bdf-4b81-932d-1338ae45e9a2\_400\_compressed.jpg" alt="Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink" class="secondary-image has-secondary-image"/>. Home Decorators Collection Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink Model#  15101-VS61C-WT View the Windlowe Collection (103) $1,12425 $1,499.00 Save $374.75 (25%) $1,12425 $1,499.00 Save $374.75 (25%) Free delivery
+More Options Available Home Decorators Collection Merwry 52 in. Integrated LED Indoor Matte Black Ceiling Fan with Light Kit and Remote Control Model#  SW1422MBK View the Merwry Collection (1585) $11900 $11900 Free delivery
 
 Set your store to see local  
 availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/42462f50-3604-41b0-acee-406595e32cf2/svn/natural-embossed-home-decorators-collection-laminate-wood-flooring-hl1337-64\_400\_compressed.jpg" alt="Embossed Greystone Oak 12 mm Thick x 6.5 in. Wide x 47.80 in. Length Laminate Flooring (17.25 sq. ft. / case)" />. New Home Decorators Collection Embossed Greystone Oak 12 mm Thick x 6.5 in. Wide x 47.80 in. Length Laminate Flooring (17.25 sq. ft. / case) Model#  HL1337 (1) $149 /sq. ft. ( $25.70  /case) $149 /sq. ft. ( $25.70  /case) Standard delivery
+
+Set your store to see local  
+availability
+
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/c31f3112-3a04-45e6-80b2-2849f1428fd0/svn/home-decorators-collection-bathroom-vanities-with-tops-15101-vs61c-wt-64\_400\_compressed.jpg" alt="Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/0a/0ac508cc-6bdf-4b81-932d-1338ae45e9a2\_400\_compressed.jpg" alt="Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink" class="secondary-image has-secondary-image"/>. Home Decorators Collection Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink Model#  15101-VS61C-WT View the Windlowe Collection (103) $1,12425 $1,499.00 Save $374.75 (25%) $1,12425 $1,499.00 Save $374.75 (25%) Free delivery
 
 Set your store to see local  
 availability
@@ -116,7 +116,7 @@ availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/3a7bc3a6-4f70-47f4-9caf-1c4f61973e12/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-yg493b-bn-64\_400\_compressed.jpg" alt="Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/ad/adb1e618-e39f-4a13-a05b-0058b5076980\_400\_compressed.jpg" alt="Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control" class="secondary-image has-secondary-image"/>.
 
-More Options Available Home Decorators Collection Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control Model#  YG493B-BN (156) $24900 $24900 Limit 5 per order Free delivery
+More Options Available Home Decorators Collection Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control Model#  YG493B-BN (157) $24900 $24900 Limit 5 per order Free delivery
 
 Set your store to see local  
 availability
@@ -142,16 +142,14 @@ Home Decorators Collection Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/97cfab57-6876-43f7-baf1-7e2ab00f3014/svn/bronze-home-decorators-collection-ceiling-fans-with-lights-59201-64\_400\_compressed.jpg" alt="Shanahan 52 in. LED Indoor/Outdoor Bronze Ceiling Fan with Light Kit" />.
-
-More Options Available Home Decorators Collection Shanahan 52 in. LED Indoor/Outdoor Bronze Ceiling Fan with Light Kit Model#  59201 (60) $14900 $14900 Free delivery
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/f0780d70-31c6-4886-af23-50578368e377/svn/marble-gray-eir-home-decorators-collection-laminate-wood-flooring-hl1336-64\_400\_compressed.jpg" alt="EIR Park Rapids Oak 12 mm Thick x 4.92 in. Wide x 47.80 in. Length Laminate Flooring (16.33 sq. ft. / case)" />. Home Decorators Collection EIR Park Rapids Oak 12 mm Thick x 4.92 in. Wide x 47.80 in. Length Laminate Flooring (16.33 sq. ft. / case) Model#  HL1336 (5) $199 /sq. ft. ( $32.50  /case) $199 /sq. ft. ( $32.50  /case) Standard delivery
 
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/04d5c8c3-e531-4e4c-88f3-3a22bb5b57a1/svn/cherry-high-gloss-home-decorators-collection-laminate-wood-flooring-hl82-64\_400\_compressed.jpg" alt="High Gloss Keller Cherry 8 mm Thick x 5 in. Wide x 47-3/4 in. Length Laminate Flooring (13.26 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/7a/7a5edcbf-f06e-4f0c-850e-85aa0f6ff1f2\_400\_compressed.jpg" alt="High Gloss Keller Cherry 8 mm Thick x 5 in. Wide x 47-3/4 in. Length Laminate Flooring (13.26 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/97cfab57-6876-43f7-baf1-7e2ab00f3014/svn/bronze-home-decorators-collection-ceiling-fans-with-lights-59201-64\_400\_compressed.jpg" alt="Shanahan 52 in. LED Indoor/Outdoor Bronze Ceiling Fan with Light Kit" />.
 
-More Options Available Home Decorators Collection High Gloss Keller Cherry 8 mm Thick x 5 in. Wide x 47-3/4 in. Length Laminate Flooring (13.26 sq. ft. / case) Model#  HL82 (807) $188 /sq. ft. ( $24.92  /case) $188 /sq. ft. ( $24.92  /case) Standard delivery
+More Options Available Home Decorators Collection Shanahan 52 in. LED Indoor/Outdoor Bronze Ceiling Fan with Light Kit Model#  59201 (61) $14900 $14900 Free delivery
 
 Set your store to see local  
 availability
