@@ -215,17 +215,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Radiohead sells recordings to public after 'Creep' hacker threatens to leak them
     *   Huawei products riddled with backdoors, zero days and critical vulnerabilities
     *   Why infosec vendors can’t sell to most CISOs
     *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
     *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
+    *   Spirit AeroSystems confirms ASCO Industries cyberattack
     
-    *   Zoom finally patches video vulnerability months after discovery
-    *   British Airways hit with record £183 million GDPR fine for last year’s breach
-    *   Rep. Blackburn: China using Huawei to build spy network, warns against access to U.S. 5G
-    *   Border-surveillance subcontractor suspended after cyberattack
+    *   Congress’ new cybersecurity bill falls short, again
     *   Facebook to pony up $5 billion in FTC settlement
+    *   Real estate group ALTA warns members of possible data breach
+    *   What fresh hell is this? Fileless malware campaign spread Astaroth backdoor last spring
+    *   What is workforce's biggest cyber knowledge gap? ID'ing phishing threats, says study
     
     *   Facebook to pony up $5 billion in FTC settlement
     *   FEC ruling allows political campaign to accept discounted services from security firms
