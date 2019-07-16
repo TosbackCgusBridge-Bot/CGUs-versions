@@ -7,37 +7,34 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   Spider-Man: Far From Home (2019)
     *   Toy Story 4
+    *   Crawl (2019)
+    *   Stuber
     *   Yesterday (2019)
-    *   Annabelle Comes Home
     *   Aladdin (2019)
+    *   Annabelle Comes Home
     *   Midsommar
     *   The Secret Life of Pets 2
     *   Men in Black: International
-    *   Avengers: Endgame (2019)
     *   Rocketman
-    *   John Wick: Chapter 3 – Parabellum
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Crawl (2019)
-    *   Stuber
-    *   The Art Of Self-Defense
-    *   Bethany Hamilton: Unstoppable
-    *   The Cure: Anniversary 1978-2018 Live in Hyde Park London
-    *   The Farewell (2019)
-    *   Sword of Trust
-    *   Trespassers (2019)
+    *   The Lion King (2019)
+    *   At War
+    *   Between Me and My Mind
+    *   David Crosby: Remember My Name
+    *   Rosie (2019)
     *   See All Opening This Week
     
     Coming Soon
     
-    *   The Lion King (2019)
     *   Once Upon a Time in Hollywood
     *   Fast &. Furious Presents: Hobbs &. Shaw
     *   Dora and the Lost City of Gold
     *   Scary Stories to Tell in the Dark
     *   The Kitchen (2019)
+    *   Brian Banks
     *   The Art of Racing in the Rain
     *   47 Meters Down: Uncaged
     *   Good Boys (2019)
@@ -68,7 +65,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: ‘Toy Story 4’ VFX Breakdown, ‘Midsommar’ Toys, Overthinking ‘The Lion King’ and More Read More
+    *   Today in Movie Culture: Alligator Experts Discuss ‘Crawl,’ The Hidden Message of ‘Spider-Man: Far From Home’ and More Read More
     *   The Week in Movie News: ‘Sherlock Holmes 3’ Director Identified, ‘Look Who’s Talking’ Reboot in the Works and More Read More
     *   Marvel's Kevin Feige on the MCU Multiverse, 'Far From Home' Post-Credits Scenes and The Future of Spider-Man Read More
     
@@ -355,4 +352,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
