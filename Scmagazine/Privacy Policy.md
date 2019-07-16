@@ -219,19 +219,19 @@ Attention: Chief Digital Officer
     *   Why infosec vendors can’t sell to most CISOs
     *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
     *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
-    *   Spirit AeroSystems confirms ASCO Industries cyberattack
+    *   Data management firm exposed client info on open Amazon S3 buckets: researchers
     
-    *   Congress’ new cybersecurity bill falls short, again
-    *   Facebook to pony up $5 billion in FTC settlement
-    *   Real estate group ALTA warns members of possible data breach
-    *   What fresh hell is this? Fileless malware campaign spread Astaroth backdoor last spring
-    *   What is workforce's biggest cyber knowledge gap? ID'ing phishing threats, says study
-    
-    *   Facebook to pony up $5 billion in FTC settlement
-    *   FEC ruling allows political campaign to accept discounted services from security firms
+    *   Intezer successfully shuts down QNAPCrypt ransomware campaigns
+    *   Juniper Networks patches dozens of vulnerabilities
     *   Premera Blue Cross to cough up $10 million to 30 states over data breach
-    *   Amazon Prime Day cybersecurity preparations
-    *   Congress’ new cybersecurity bill falls short, again
+    *   What is workforce's biggest cyber knowledge gap? ID'ing phishing threats, says study
+    *   Hackers breach Canonical GitHub account, create repositories, leave source code untouched
+    
+    *   TrickBot adds new spam module, harvests 250M email addresses
+    *   Assange ran election interference out of Ecuadorian Embassy, surveillance docs show
+    *   Triple cyberattacks hit New Bedford, Gila and Syracuse schools
+    *   Computer password inventor Fernando Corbató dies at 93
+    *   Train your SOC team – Now!
 
 Back to Top
 
