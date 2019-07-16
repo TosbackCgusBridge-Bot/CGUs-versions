@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Octave turns to snaps to reduce dependency on Linux distribution maintainers ›
 *   Deploying Kubernetes at the edge – Part I: building blocks ›
 *   MAAS 2.6 – ESXi storage, multiple gateways, HTTP boot and more ›
 *   The DevOps guide to IoT projects ›
 *   Design and Web team summary – 8 July 2019 ›
-*   Machine Learning: serving models with Kubeflow on Ubuntu, Part 1 ›
