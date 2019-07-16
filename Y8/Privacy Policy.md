@@ -12,36 +12,36 @@ New Games Next in  xx:xx
 Categories &. more Hey! Join us on Y8 discord chat! Yes, you may find a lot of discussions related to most of Y8 games. So, don’t hesitate and jump into Y8 Discord! Go to Y8 Discord Hide LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1371 games
-*   Most Popular Games 19513 games
+*   Best of new games 1368 games
+*   Most Popular Games 19515 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,245 games
-*   Driving &. Racing Games 6,838 games
+*   Games for girls 24,247 games
+*   Driving &. Racing Games 6,839 games
 *   Strategy &. RPG Games 2,425 games
 *   Management Games 3,660 games
-*   Thinking Games 12,214 games
-*   Action &. Adventure Games 16,281 games
-*   Sports Games 2,259 games
-*   Shooting Games 8,502 games
+*   Thinking Games 12,216 games
+*   Action &. Adventure Games 16,284 games
+*   Sports Games 2,258 games
+*   Shooting Games 8,504 games
 *   Fighting Games 2,092 games
-*   Skill Games 11,352 games
-*   Arcade &. Classic Games 13,166 games
+*   Skill Games 11,355 games
+*   Arcade &. Classic Games 13,169 games
 *   Fun &. Crazy Games 2,552 games
 
 Play with friends  
-Powered by Y8 Account 128 Y8 Multiplayer Games 2,048 Y8 High Score Games 1,159 Y8 Achievements Games 823 Y8 Screenshots Games 1,472 Y8 Online Save Games 3,108 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 128 Y8 Multiplayer Games 2,049 Y8 High Score Games 1,159 Y8 Achievements Games 823 Y8 Screenshots Games 1,473 Y8 Online Save Games 3,109 All Y8 Games Games Last Highscore:
 
-**10,757** points on Orion Sandbox Enhanced by MikawaAi
+**101** points on Military Wars 3D Multiplayer by raven
 
 Help us improve Bad translation? Social
 
 *   Contact Form
-*   Submit a Game or Video
+*   Upload
 *   Games for Your Website
 *   Privacy Policy
 *   Cookie Policy
@@ -267,7 +267,7 @@ IX. Contacting Us
 If You have any questions, queries, comments, or requests, We are happy to receive and answer them. Please feel free to contact Us by sending an email at privacy@y8.com.
 
 *   Contact Form
-*   Submit a Game or Video
+*   Upload
 *   Games for Your Website
 *   Terms of Use
 *   Privacy Policy
