@@ -95,7 +95,7 @@ Please review the “Last Updated” legend at the top of the Cookie Policy to d
 
 Privacy Policy
 
-Last Updated: July 15, 2019
+Last Updated: July 16, 2019
 
 **1\. Introduction**
 
@@ -372,14 +372,6 @@ Indeed or an Indeed affiliate will be able to recommend an Indeed Job Seeker (an
 **_– Better Security for Users_**
 
 Such data sharing will allow Indeed and Indeed affiliates to process your Personal Data for the purpose of improving user security and internal operations, troubleshooting, and detecting and preventing fraud and spam.
-
-**_– Processing Grounds_**
-
-We will share your information with Indeed affiliates where we believe it is necessary for the purposes of a legitimate interest, and where such purposes are aligned with those for which you provided your Personal Data to us. But some additional features and processing activities will only be made available to you if you select or separately authorize them. For example, if you wish to open an account with an Indeed affiliate you will need to initiate that step.
-
-Any information shared by you with Indeed may be shared with or transferred to any Indeed affiliated entity (including Indeed Hire, Inc.), no matter where located, for the purpose of providing you services and improving the Site, and other purposes as described in this Policy. This includes Indeed affiliated entities located outside the European Union (“EU”) or Switzerland.
-
-Such transfers are performed in full compliance with applicable data protection rules and subject to appropriate safeguards, primarily through the use of extensive data protection agreements, in order to ensure adequate protection of users’ Personal Data. The services provided to you and the functionality of the Site could not be provided without such a transfer. If you do not wish your information to be transferred in this way you should not use this Site.
 
 **4.13 Transfer of Information to Employers**
 
@@ -1272,4 +1264,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2019 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Find Certifications - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1dfsldkdq276n000&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2019 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Find Certifications - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1" />. <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1dfv7va65278o000&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
