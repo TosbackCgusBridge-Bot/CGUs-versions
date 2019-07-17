@@ -275,8 +275,6 @@ Staying in Control of Your information: Your Rights
 
 We respect the fact that your personal information is your information, and we'll make it easy for you to manage and update your personal details or marketing permissions. With respect to all of the rights listed below, please click in order to exercise your rights.
 
-Your right to rectification
-
 You have a right to rectify, update or complete any inaccurate personal data, pending verification of your identification. Most of this can be accomplished by going to your "Account Settings" and making any changes there. For instance, if your contact details change, or if you spot any errors in the information we hold about you, we recommend starting with your "Account Settings". If, after visiting your "Account Settings", you are still unable to rectify the information, please contact us directly here
 
 Your right of access
