@@ -221,17 +221,17 @@ Attention: Chief Digital Officer
     *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
     *   Data management firm exposed client info on open Amazon S3 buckets: researchers
     
-    *   Intezer successfully shuts down QNAPCrypt ransomware campaigns
+    *   Intel releases updates for Processor Diagnostic tool and SSD DC S4500/S4600 Series
     *   Juniper Networks patches dozens of vulnerabilities
-    *   Premera Blue Cross to cough up $10 million to 30 states over data breach
-    *   What is workforce's biggest cyber knowledge gap? ID'ing phishing threats, says study
-    *   Hackers breach Canonical GitHub account, create repositories, leave source code untouched
+    *   Eurofins Scientific forensics firm pays after hit with ransomware
+    *   BianLian banking trojan adds screen recorder to face off against Android users
+    *   What fresh hell is this? Fileless malware campaign spread Astaroth backdoor last spring
     
-    *   TrickBot adds new spam module, harvests 250M email addresses
-    *   Assange ran election interference out of Ecuadorian Embassy, surveillance docs show
-    *   Triple cyberattacks hit New Bedford, Gila and Syracuse schools
-    *   Computer password inventor Fernando Corbató dies at 93
-    *   Train your SOC team – Now!
+    *   Unofficial Telegram app secretly loads malicious sites
+    *   Malicious actor Sweed puts new spins on its attacks
+    *   Report suggests GandCrab's developers may have created Sodinokibi ransomware
+    *   Lucky break: Cracked windshield helps hacker find bug in Tesla
+    *   Critical WordPress plugin flaw leaves 200,000 sites at risk
 
 Back to Top
 
