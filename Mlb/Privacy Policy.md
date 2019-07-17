@@ -36,7 +36,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Scores News Video Standing
     *   MLB Network
     *   Podcasts
     *   Business of Baseball
-    *   Players of the Week
+    *   Must C
     
     Featured
     *   Most Popular
@@ -47,7 +47,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Scores News Video Standing
     *   Best of Statcast
     *   Extra Inning Moments
     *   Chatting Cage
-    *   Players of the Week
+    *   Must C
     *   Carry The Freight
 *   Standings Standings Standings
     *   2019 Regular Season Standings
