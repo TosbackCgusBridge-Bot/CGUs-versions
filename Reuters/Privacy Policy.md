@@ -1,4 +1,4 @@
-emcm-banner-close Our Privacy Statement &. Cookie Policy
+Our Privacy Statement &. Cookie Policy
 
 All Thomson Reuters websites use cookies to improve your online experience. They were placed on your computer when you launched this website. You can change your cookie settings through your browser.
 
@@ -7,14 +7,16 @@ All Thomson Reuters websites use cookies to improve your online experience. They
 
 Ok to continue
 
-*   Global directory Global directory
+*   Global directoryGlobal directory
 
-*   Product logins Product logins
-*   Contact us Contact us
+*   Product loginsProduct logins
+*   Contact usContact us
+*   Log inLog in
+*   Cart (0)
 
 Thomson Reuters Legal
 
-*   Products Products Top products
+*   ProductsProducts Top products
     
     *   Westlaw
     *   Practical Law
@@ -26,7 +28,7 @@ Thomson Reuters Legal
     Featured
     
     **Quick Check on Westlaw Edge ** Discover the transformative power of intelligent document analysis. Learn more
-*   Solutions Solutions Solutions
+*   SolutionsSolutions Solutions
     
     *   Streamline legal research
     *   Legal guidance
@@ -39,7 +41,7 @@ Thomson Reuters Legal
     Featured
     
     **Small law firm software and solutions** Practice law, manage your law firm, and grow your practice with our complete suite of products. Learn more
-*   Insights Insights Insights
+*   InsightsInsights Insights
     
     *   Latest stories
     *   Case studies
@@ -51,14 +53,14 @@ Thomson Reuters Legal
     *   Data privacy
     *   FinTech
     *   Law firm management
-*   Support Support Support
+*   SupportSupport Support
     *   Contact us
     *   Billing, returns &. refunds
     *   Reference attorneys
     *   Support by product
     *   Product logins
     *   See all support
-*   Try and buy Try and buy
+*   Try and buyTry and buy
 
 1.  Legal Technology, Products and Services
 2.  Products
