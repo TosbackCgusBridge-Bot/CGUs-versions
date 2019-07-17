@@ -339,7 +339,6 @@ Videos
 
 *   Movie Trailers
 *   Weekend Ticket
-*   Frontrunners
 *   Mom's Movie Minute
 
 Photos
