@@ -18,7 +18,6 @@ Show Menu Hide Menu
     *   Cruises
     *   Activities
     *   Deals
-    *   Discover
     *   Mobile
     *   Rewards
     *   Travel Blog
@@ -59,7 +58,6 @@ For customer service, call us toll-free at 1-800-397-3342. For customers outside
 *   Cruises
 *   Activities
 *   Deals
-*   Discover
 *   Mobile
 *   Rewards
 *   Travel Blog
