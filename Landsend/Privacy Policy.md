@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off full-price styles!
+Receive 53% off kids' backpacks, plus free shipping to most U.S. addresses. 40% off all other full-price styles!
 
-code: SANDALS pin: 8651 DETAILS
+code: BOOKBAG pin: 9619 DETAILS
 
 Customer Service Menu
 
