@@ -5,21 +5,7 @@ More Options Available Home Decorators Collection Noble Oak 7.5 in. x 47.6 in. L
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/36a1ddf2-89c0-442e-b851-f1eaa7b279ee/svn/distressed-grey-oak-home-decorators-collection-vinyl-plank-flooring-60198-64\_400\_compressed.jpg" alt="Stony Oak Grey 6 in. x 36 in. Luxury Vinyl Plank (20.34 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/3c/3c9a9e59-a9d8-4d60-9549-c725cf472aba\_400\_compressed.jpg" alt="Stony Oak Grey 6 in. x 36 in. Luxury Vinyl Plank (20.34 sq. ft. / case)" class="secondary-image has-secondary-image"/>. Home Decorators Collection Stony Oak Grey 6 in. x 36 in. Luxury Vinyl Plank (20.34 sq. ft. / case) Model#  60198 (642) $239 /sq. ft. ( $48.60  /case) $239 /sq. ft. ( $48.60  /case) Standard delivery
-
-Set your store to see local  
-availability
-
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/31a27bec-59ba-484b-bd2c-3f7b92a8d19c/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-yg493od-bn-64\_400\_compressed.jpg" alt="Kensgrove 72 in. Integrated LED Indoor/Outdoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control" />.
-
-More Options Available Home Decorators Collection Kensgrove 72 in. Integrated LED Indoor/Outdoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control Model#  YG493OD-BN (1155) $30900 $30900 Free delivery
-
-Set your store to see local  
-availability
-
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/b6deeb2a-7ca6-4350-af66-835956a7e26c/svn/coastal-oak-home-decorators-collection-vinyl-plank-flooring-03918-64\_400\_compressed.jpg" alt="Coastal Oak 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/f7/f7612926-dcf2-4a7b-b0be-a484c91251a9\_400\_compressed.jpg" alt="Coastal Oak 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
-
-More Options Available Home Decorators Collection Coastal Oak 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case) Model#  03918 (601) $239 /sq. ft. ( $59.10  /case) $239 /sq. ft. ( $59.10  /case) Standard delivery
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/36a1ddf2-89c0-442e-b851-f1eaa7b279ee/svn/distressed-grey-oak-home-decorators-collection-vinyl-plank-flooring-60198-64\_400\_compressed.jpg" alt="Stony Oak Grey 6 in. x 36 in. Luxury Vinyl Plank (20.34 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/3c/3c9a9e59-a9d8-4d60-9549-c725cf472aba\_400\_compressed.jpg" alt="Stony Oak Grey 6 in. x 36 in. Luxury Vinyl Plank (20.34 sq. ft. / case)" class="secondary-image has-secondary-image"/>. Home Decorators Collection Stony Oak Grey 6 in. x 36 in. Luxury Vinyl Plank (20.34 sq. ft. / case) Model#  60198 (641) $239 /sq. ft. ( $48.60  /case) $239 /sq. ft. ( $48.60  /case) Standard delivery
 
 Set your store to see local  
 availability
@@ -31,9 +17,23 @@ More Options Available Home Decorators Collection Warm Cherry 7.5 in. x 47.6 in.
 Set your store to see local  
 availability
 
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/b6deeb2a-7ca6-4350-af66-835956a7e26c/svn/coastal-oak-home-decorators-collection-vinyl-plank-flooring-03918-64\_400\_compressed.jpg" alt="Coastal Oak 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/f7/f7612926-dcf2-4a7b-b0be-a484c91251a9\_400\_compressed.jpg" alt="Coastal Oak 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
+
+More Options Available Home Decorators Collection Coastal Oak 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case) Model#  03918 (601) $239 /sq. ft. ( $59.10  /case) $239 /sq. ft. ( $59.10  /case) Standard delivery
+
+Set your store to see local  
+availability
+
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/31a27bec-59ba-484b-bd2c-3f7b92a8d19c/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-yg493od-bn-64\_400\_compressed.jpg" alt="Kensgrove 72 in. Integrated LED Indoor/Outdoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control" />.
+
+More Options Available Home Decorators Collection Kensgrove 72 in. Integrated LED Indoor/Outdoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control Model#  YG493OD-BN (1156) $30900 $30900 Free delivery
+
+Set your store to see local  
+availability
+
 Add to Cart Compare <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/0f/0fbec567-3af9-4832-a9ea-4bf32c6586e6\_400\_compressed.jpg" alt="2 in. Cordless Faux Wood" />.
 
-More Options Available Home Decorators Collection 2 in. Cordless Faux Wood (6362) $2397 - $9294 Free delivery
+More Options Available Home Decorators Collection 2 in. Cordless Faux Wood (6364) $2397 - $9294 Free delivery
 
 Set your store to see local  
 availability
@@ -64,16 +64,16 @@ More Options Available Home Decorators Collection Ellard 52 in. LED Matte Black 
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/659eea8c-1647-4c64-9ae6-d4e0b01b4045/svn/brushed-grey-oak-home-decorators-collection-vinyl-plank-flooring-60019-64\_400\_compressed.jpg" alt="Antique Brushed Oak 6 in. x 48 in. Resilient Luxury vinyl plank flooring (19.39 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/bf/bfcccc7c-0bf0-4f5e-9163-a84eb9e3d998\_400\_compressed.jpg" alt="Antique Brushed Oak 6 in. x 48 in. Resilient Luxury vinyl plank flooring (19.39 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/11a11b36-d0eb-4a58-8887-4d198a9cf21a/svn/sawcut-classic-home-decorators-collection-vinyl-plank-flooring-441115-64\_400\_compressed.jpg" alt="Sawcut Classic 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/8e/8e08ce1c-e717-4b7b-baec-f5b94878ab12\_400\_compressed.jpg" alt="Sawcut Classic 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
 
-More Options Available Home Decorators Collection Antique Brushed Oak 6 in. x 48 in. Resilient Luxury vinyl plank flooring (19.39 sq. ft. / case) Model#  60019 (196) $219 /sq. ft. ( $42.47  /case) $219 /sq. ft. ( $42.47  /case) Standard delivery
+More Options Available Home Decorators Collection Sawcut Classic 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case) Model#  441115 (315) $239 /sq. ft. ( $59.10  /case) $239 /sq. ft. ( $59.10  /case) Standard delivery
 
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/11a11b36-d0eb-4a58-8887-4d198a9cf21a/svn/sawcut-classic-home-decorators-collection-vinyl-plank-flooring-441115-64\_400\_compressed.jpg" alt="Sawcut Classic 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/8e/8e08ce1c-e717-4b7b-baec-f5b94878ab12\_400\_compressed.jpg" alt="Sawcut Classic 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/659eea8c-1647-4c64-9ae6-d4e0b01b4045/svn/brushed-grey-oak-home-decorators-collection-vinyl-plank-flooring-60019-64\_400\_compressed.jpg" alt="Antique Brushed Oak 6 in. x 48 in. Resilient Luxury vinyl plank flooring (19.39 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/bf/bfcccc7c-0bf0-4f5e-9163-a84eb9e3d998\_400\_compressed.jpg" alt="Antique Brushed Oak 6 in. x 48 in. Resilient Luxury vinyl plank flooring (19.39 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
 
-More Options Available Home Decorators Collection Sawcut Classic 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case) Model#  441115 (315) $239 /sq. ft. ( $59.10  /case) $239 /sq. ft. ( $59.10  /case) Standard delivery
+More Options Available Home Decorators Collection Antique Brushed Oak 6 in. x 48 in. Resilient Luxury vinyl plank flooring (19.39 sq. ft. / case) Model#  60019 (196) $219 /sq. ft. ( $42.47  /case) $219 /sq. ft. ( $42.47  /case) Standard delivery
 
 Set your store to see local  
 availability
@@ -85,16 +85,16 @@ More Options Available Home Decorators Collection True Cherry 7.5 in. x 47.6 in.
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/60d89270-797a-4f5a-b78e-b27afdcfd402/svn/matte-black-home-decorators-collection-ceiling-fans-with-lights-sw1422mbk-64\_400\_compressed.jpg" alt="Merwry 52 in. Integrated LED Indoor Matte Black Ceiling Fan with Light Kit and Remote Control" />.
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/556a1536-e205-4a9d-841b-7ea16729a707/svn/home-decorators-collection-bamboo-flooring-hd13004a-64\_400\_compressed.jpg" alt="Strand Woven Distressed Dark Honey 1/2 in. T x Multi Width x 72 in. L Engineered Click Bamboo Flooring" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/ab/aba0d04d-49b5-4b39-89a4-cc5d0893bf66\_400\_compressed.jpg" alt="Strand Woven Distressed Dark Honey 1/2 in. T x Multi Width x 72 in. L Engineered Click Bamboo Flooring" class="secondary-image has-secondary-image"/>.
 
-More Options Available Home Decorators Collection Merwry 52 in. Integrated LED Indoor Matte Black Ceiling Fan with Light Kit and Remote Control Model#  SW1422MBK View the Merwry Collection (1586) $11900 $11900 Free delivery
+Home Decorators Collection Strand Woven Distressed Dark Honey 1/2 in. T x Multi Width x 72 in. L Engineered Click Bamboo Flooring Model#  HD13004A (232) $259 /sq. ft. ( $56.61  /case) $259 /sq. ft. ( $56.61  /case) Standard delivery
 
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/556a1536-e205-4a9d-841b-7ea16729a707/svn/home-decorators-collection-bamboo-flooring-hd13004a-64\_400\_compressed.jpg" alt="Strand Woven Distressed Dark Honey 1/2 in. T x Multi Width x 72 in. L Engineered Click Bamboo Flooring" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/ab/aba0d04d-49b5-4b39-89a4-cc5d0893bf66\_400\_compressed.jpg" alt="Strand Woven Distressed Dark Honey 1/2 in. T x Multi Width x 72 in. L Engineered Click Bamboo Flooring" class="secondary-image has-secondary-image"/>.
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/60d89270-797a-4f5a-b78e-b27afdcfd402/svn/matte-black-home-decorators-collection-ceiling-fans-with-lights-sw1422mbk-64\_400\_compressed.jpg" alt="Merwry 52 in. Integrated LED Indoor Matte Black Ceiling Fan with Light Kit and Remote Control" />.
 
-Home Decorators Collection Strand Woven Distressed Dark Honey 1/2 in. T x Multi Width x 72 in. L Engineered Click Bamboo Flooring Model#  HD13004A (232) $259 /sq. ft. ( $56.61  /case) $259 /sq. ft. ( $56.61  /case) Standard delivery
+More Options Available Home Decorators Collection Merwry 52 in. Integrated LED Indoor Matte Black Ceiling Fan with Light Kit and Remote Control Model#  SW1422MBK View the Merwry Collection (1587) $11900 $11900 Free delivery
 
 Set your store to see local  
 availability
@@ -116,7 +116,12 @@ availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/3a7bc3a6-4f70-47f4-9caf-1c4f61973e12/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-yg493b-bn-64\_400\_compressed.jpg" alt="Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/ad/adb1e618-e39f-4a13-a05b-0058b5076980\_400\_compressed.jpg" alt="Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control" class="secondary-image has-secondary-image"/>.
 
-More Options Available Home Decorators Collection Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control Model#  YG493B-BN (158) $17400 $249.00 Save $75.00 (30%) $17400 $249.00 Save $75.00 (30%) Limit 5 per order Free delivery
+More Options Available Home Decorators Collection Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control Model#  YG493B-BN (159) $17400 $249.00 Save $75.00 (30%) $17400 $249.00 Save $75.00 (30%) Limit 5 per order Free delivery
+
+Set your store to see local  
+availability
+
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/f0780d70-31c6-4886-af23-50578368e377/svn/marble-gray-eir-home-decorators-collection-laminate-wood-flooring-hl1336-64\_400\_compressed.jpg" alt="EIR Park Rapids Oak 12 mm Thick x 4.92 in. Wide x 47.80 in. Length Laminate Flooring (16.33 sq. ft. / case)" />. Home Decorators Collection EIR Park Rapids Oak 12 mm Thick x 4.92 in. Wide x 47.80 in. Length Laminate Flooring (16.33 sq. ft. / case) Model#  HL1336 (5) $199 /sq. ft. ( $32.50  /case) $199 /sq. ft. ( $32.50  /case) Standard delivery
 
 Set your store to see local  
 availability
@@ -131,11 +136,6 @@ availability
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/2a6cbf8b-18f4-4105-9f93-a95ec529ad53/svn/hickory-textured-home-decorators-collection-laminate-wood-flooring-34074sq-64\_400\_compressed.jpg" alt="Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide x 50-25/32 in. Length Laminate Flooring (15.45 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/ba/ba3a14bb-bd8b-4a67-bed7-e56c34aa2c6e\_400\_compressed.jpg" alt="Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide x 50-25/32 in. Length Laminate Flooring (15.45 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
 
 Home Decorators Collection Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide x 50-25/32 in. Length Laminate Flooring (15.45 sq. ft. / case) Model#  34074SQ (301) $134 /sq. ft. ( $20.67  /case) $134 /sq. ft. ( $20.67  /case) Standard delivery
-
-Set your store to see local  
-availability
-
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/f0780d70-31c6-4886-af23-50578368e377/svn/marble-gray-eir-home-decorators-collection-laminate-wood-flooring-hl1336-64\_400\_compressed.jpg" alt="EIR Park Rapids Oak 12 mm Thick x 4.92 in. Wide x 47.80 in. Length Laminate Flooring (16.33 sq. ft. / case)" />. Home Decorators Collection EIR Park Rapids Oak 12 mm Thick x 4.92 in. Wide x 47.80 in. Length Laminate Flooring (16.33 sq. ft. / case) Model#  HL1336 (5) $199 /sq. ft. ( $32.50  /case) $199 /sq. ft. ( $32.50  /case) Standard delivery
 
 Set your store to see local  
 availability
