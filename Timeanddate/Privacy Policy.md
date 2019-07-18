@@ -1,4 +1,4 @@
-Jul 16-17 Menutimeanddate.comSearch ×Site / ArticlesCity / CountrySocial ×Share this page / Follow us on:FacebookTweetFollowTwitterVisit us on:FacebookTwitter
+Menutimeanddate.comSearch ×Site / ArticlesCity / CountrySocial ×Share this page / Follow us on:FacebookTweetFollowTwitterVisit us on:FacebookTwitter
 
 *   BackMy account
     *   My Location
