@@ -117,8 +117,8 @@ View more results
     
     Best Games
     *   Five Nights at Freddy's
-    *   Five Nights at Freddy's 2
     *   Short Life
+    *   Five Nights at Freddy's 2
     *   World Craft 2
     *   Tom and Jerry: Mouse Maze
     *   Fire Balls
@@ -190,8 +190,8 @@ View more results
     *   Love Tester 2.0
     *   Get Your Boyfriend
     *   Princess Rivalry
-    *   Beauty's Transformation: Fashion Game
     *   Ella: Hips Surgery
+    *   True Love Calculator
 *   Top Categories
     
     *   BMX Games
