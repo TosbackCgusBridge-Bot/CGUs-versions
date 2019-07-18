@@ -358,7 +358,7 @@ Legal
 
 © 2019 Wolfram. All rights reserved.
 
-*   Legal
+*   Legal &. Privacy Policy
 *   Site Map
 *   WolframAlpha.com
 *   WolframCloud.com
