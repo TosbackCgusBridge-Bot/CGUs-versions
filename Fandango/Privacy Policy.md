@@ -290,9 +290,9 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   VIP+ World Elite Mastercard®
+*   'Hustlers' Sweepstakes
     
-    Get 2x the points pay with World Elite Mastercard®. BUY TICKETS
+    Sign up for a 'Hustlers' FanAlert™ and you could win $500! \*Terms apply. ENTER NOW
     
 *   $3 Off Avengers: Endgame
     
