@@ -221,17 +221,17 @@ Attention: Chief Digital Officer
     *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
     *   Data management firm exposed client info on open Amazon S3 buckets: researchers
     
-    *   Intel releases updates for Processor Diagnostic tool and SSD DC S4500/S4600 Series
-    *   Juniper Networks patches dozens of vulnerabilities
-    *   Eurofins Scientific forensics firm pays after hit with ransomware
-    *   BianLian banking trojan adds screen recorder to face off against Android users
-    *   What fresh hell is this? Fileless malware campaign spread Astaroth backdoor last spring
-    
-    *   Unofficial Telegram app secretly loads malicious sites
+    *   2.2 million Clinical Pathology Laboratories patients exposed in AMCA breach
+    *   No ID? Get off my cloud
+    *   Premera Blue Cross to cough up $10 million to 30 states over data breach
     *   Malicious actor Sweed puts new spins on its attacks
-    *   Report suggests GandCrab's developers may have created Sodinokibi ransomware
-    *   Lucky break: Cracked windshield helps hacker find bug in Tesla
-    *   Critical WordPress plugin flaw leaves 200,000 sites at risk
+    *   Congress’ new cybersecurity bill falls short, again
+    
+    *   JetBlue flight evacuated after photo of suicide vest sent to crew, passengers via AirDrop
+    *   Malware framework generates 1B fake ad impressions in 3 months
+    *   Dutch police, McAfee nail macro toolkit-builder, 'Rubella'
+    *   2.2 million Clinical Pathology Laboratories patients exposed in AMCA breach
+    *   Sprint customer data breached via Samsung website flaw
 
 Back to Top
 
