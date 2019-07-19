@@ -2,7 +2,7 @@
 *   Scores
 *   Schedule
 *   Standings
-*   Draft
+*   Training Camp
 *   NFL 100
 *   Fantasy
 *   Tickets
@@ -11,20 +11,20 @@
 *   Game Pass
 *   Super Bowl
 *   Combine
+*   Draft
 *   Highlights
 *   Stats
 *   Next Gen Stats
 *   Ways to Watch
 *   NFL Network
 *   Photos
-*   Free Agency
 *   NFL Films
 
 *   News
 *   Scores
 *   Schedule
 *   Standings
-*   Draft
+*   Training Camp
 *   NFL 100
 
 *   NFL 100
@@ -33,13 +33,13 @@
 *   *   Game Pass
     *   Super Bowl
     *   Combine
+    *   Draft
     *   Highlights
     *   Stats
     *   Next Gen Stats
     *   Ways to Watch
     *   NFL Network
     *   Photos
-    *   Free Agency
     *   NFL Films
 
 *   Fantasy
