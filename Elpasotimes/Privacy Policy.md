@@ -14,6 +14,7 @@ SUBSCRIBE NOW99¢ per month. Save 90%.
 *   Advertise with Us
 *   Business Directory
 *   Public Notices
+*   Corrections
 *   More
     *   Home
     *   News
@@ -29,6 +30,7 @@ SUBSCRIBE NOW99¢ per month. Save 90%.
     *   Advertise with Us
     *   Business Directory
     *   Public Notices
+    *   Corrections
 *   search
 
 *   Subscribe
@@ -58,7 +60,7 @@ SUBSCRIBE NOW99¢ per month. Save 90%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowTwo cases of measles found in El PasoNews1 dies in murder-suicide shooting on West SideCrimePolice: Dogs ate man, including bones, clothesNewsHanks High coach helps separate fight at Toon TownNewsKidnapping suspect jailed in El Paso after return from JuárezCrimeYsleta Mission Festival: What you need to knowEntertainmentWest El Paso shooting investigated as murder-suicideCrimeVeronica Escobar: Article false, led to death threatsNewsDanny Trejo to headline Hispanic Chamber eventLocalEl Paso mom arrested in death of baby in bathtubCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowTexas teen busted for spitting in tea bottleNewsJuárez hit squad suspected in 22 murdersLocalEPISD police chief on paid administrative leaveEducationFourth case of measles confirmed in El PasoNewsExtended families separated at US-Mexico borderNewsNotorious drug lord 'El Chapo' sentenced to life in prisonNewsRep. Joe Moody seeks reelection to Texas HousePolitics5 teens arrested in stabbing near middle schoolCrimeDeputies find fugitives hiding in El Paso homeCrimeNew Trump rule blocks asylum seekers at borderNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -99,7 +101,7 @@ LifestyleOpinion
 *   Columnists
 *   Letters to the Editor
 
-HomesObituariesUSA TODAYPhoto &. VideoBusiness DirectoryPublic Notices
+HomesObituariesUSA TODAYPhoto &. VideoBusiness DirectoryPublic NoticesCorrections
 
 © 2019 elpasotimes.com, All rights reserved.
 
