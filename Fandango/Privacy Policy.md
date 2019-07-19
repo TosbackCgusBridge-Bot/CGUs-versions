@@ -37,7 +37,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Brian Banks
     *   The Art of Racing in the Rain
     *   47 Meters Down: Uncaged
-    *   Good Boys (2019)
+    *   Good Boys
     *   See All Coming Soon
     
     Explore More
@@ -65,7 +65,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: Alligator Experts Discuss ‘Crawl,’ The Hidden Message of ‘Spider-Man: Far From Home’ and More Read More
+    *   Today in Movie Culture: Beyoncé’s ‘Lion King’ Music Video for “Spirit,” How to Make a Marvel Movie and More Read More
     *   The Week in Movie News: ‘Sherlock Holmes 3’ Director Identified, ‘Look Who’s Talking’ Reboot in the Works and More Read More
     *   Marvel's Kevin Feige on the MCU Multiverse, 'Far From Home' Post-Credits Scenes and The Future of Spider-Man Read More
     
@@ -290,9 +290,9 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   'Hustlers' Sweepstakes
+*   'Cats' Sweepstakes
     
-    Sign up for a 'Hustlers' FanAlert™ and you could win $500! \*Terms apply. ENTER NOW
+    Sign up for a 'Cats' FanAlert™ for your chance to win a trip to the premiere in London! \*Terms apply. ENTER NOW
     
 *   $3 Off Avengers: Endgame
     
@@ -309,14 +309,14 @@ Offers
 
 New + Coming soon
 
-*   Aladdin (2019)
-*   Godzilla: King of the Monsters (2019)
-*   Ma (2019)
-*   Rocketman
-*   Late Night (2019)
-*   Dark Phoenix
-*   The Secret Life of Pets 2
-*   Men in Black: International
+*   Toy Story 4
+*   Spider-Man: Far From Home (2019)
+*   Stuber
+*   Crawl (2019)
+*   The Lion King (2019)
+*   Once Upon a Time in Hollywood
+*   Fast &. Furious Presents: Hobbs &. Shaw
+*   Dora and the Lost City of Gold
 
 Experience + Explore
 
