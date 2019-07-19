@@ -219,19 +219,19 @@ Attention: Chief Digital Officer
     *   Why infosec vendors can’t sell to most CISOs
     *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
     *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
-    *   Data management firm exposed client info on open Amazon S3 buckets: researchers
+    *   Article 29 Working Party still not happy with Windows 10 privacy controls
     
-    *   2.2 million Clinical Pathology Laboratories patients exposed in AMCA breach
-    *   No ID? Get off my cloud
-    *   Premera Blue Cross to cough up $10 million to 30 states over data breach
-    *   Malicious actor Sweed puts new spins on its attacks
-    *   Congress’ new cybersecurity bill falls short, again
+    *   Thinking outside the inbox
+    *   Facebook to pony up $5 billion in FTC settlement
+    *   Dire straights: Glamoriser smart hair straighteners susceptible to hacking, warn researchers
+    *   Over and out: Apple temporarily disables Walkie Talkie app after bug discovery
+    *   Cryptojacking: The growing malware menace
     
-    *   JetBlue flight evacuated after photo of suicide vest sent to crew, passengers via AirDrop
-    *   Malware framework generates 1B fake ad impressions in 3 months
-    *   Dutch police, McAfee nail macro toolkit-builder, 'Rubella'
-    *   2.2 million Clinical Pathology Laboratories patients exposed in AMCA breach
-    *   Sprint customer data breached via Samsung website flaw
+    *   Researchers devise method to track Bluetooth devices, despite built-in protections
+    *   Cisco releases updates, one ‘Critical,’ two ‘High’ severity ratings
+    *   Drupal patches access bypass vulnerability
+    *   Mirai malware sets sights on enterprise IoT devices ripe for picking
+    *   Microsoft demos vote verification tool, warns of ongoing foreign meddling
 
 Back to Top
 
