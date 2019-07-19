@@ -58,12 +58,12 @@ View more results
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Fireboy and Watergirl: The Forest Temple
     *   Warbanner
-    *   Slither.io
     *   Fireboy &. Watergirl 4: Crystal Temple
+    *   Slither.io
     *   Total Front: Army War Game
     *   Klondike - the lost expedition
     *   Bubble Machine: 2 Player Game
-    *   Madalin Cars Multiplayer
+    *   Crystical: 2 Player Puzzle Game
 *   Top Categories
     
     *   Boy Games
@@ -220,8 +220,8 @@ View more results
     *   Madalin Cars Multiplayer
     *   Agame Stunt Cars
     *   Happy Wheels
-    *   Bike Racing: Motorcycle Game
     *   Rally Point 2: Dirt Track Racing Game
+    *   Bike Racing: Motorcycle Game
     *   Moto X3M: Motorcycle Racing Game
     *   Neon Biker
 *   Top Categories
@@ -266,7 +266,7 @@ View more results
     
     Recommended Games
     
-    *   Vikings: War of Clans
+    *   League of Angels 3
     *   Roblox
     *   PopTropica
     *   Madalin Stunt Cars 2
