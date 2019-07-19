@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   CMake leverages the Snapcraft Summit with Travis CI to build snaps ›
+*   Handy snapcraft features: Remote build ›
+*   How to build a lightweight system container cluster ›
 *   Octave turns to snaps to reduce dependency on Linux distribution maintainers ›
 *   Deploying Kubernetes at the edge – Part I: building blocks ›
-*   MAAS 2.6 – ESXi storage, multiple gateways, HTTP boot and more ›
-*   The DevOps guide to IoT projects ›
-*   Design and Web team summary – 8 July 2019 ›
