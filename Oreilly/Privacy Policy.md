@@ -375,12 +375,12 @@ Click here for version 3.3
 
 Upcoming Conferences
 
-*   OSCON Jul 15–18, Portland
 *   Artificial Intelligence Sep 10–12, San Jose
 *   Strata Sep 24–26, New York
 *   Artificial Intelligence Oct 15–17, London
 *   TensorFlow Oct 28–31, Santa Clara
 *   Software Architecture Nov 5–7, Berlin
+*   Velocity Nov 5–7, Berlin
 
 The O'Reilly Approach
 
