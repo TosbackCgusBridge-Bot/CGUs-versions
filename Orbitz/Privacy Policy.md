@@ -16,7 +16,6 @@ Show Menu Hide Menu
     *   Cars
     *   Vacation Rentals
     *   Cruises
-    *   Event Tickets
     *   Activities
     *   Deals
     *   Mobile
@@ -57,7 +56,6 @@ For customer service, call us toll-free at 1-800-397-3342. For customers outside
 *   Cars
 *   Vacation Rentals
 *   Cruises
-*   Event Tickets
 *   Activities
 *   Deals
 *   Mobile
