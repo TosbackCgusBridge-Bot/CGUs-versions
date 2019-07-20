@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off full-price styles, plus Supima bath towels starting at $9.99!
+Receive 40% off full-price styles. additional 10% off sale and clearance styles!
 
-code: ACORN pin: 3168 DETAILS
+code: SIZZLE pin: 6220 DETAILS
 
 Customer Service Menu
 
