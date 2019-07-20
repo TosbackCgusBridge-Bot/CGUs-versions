@@ -65,9 +65,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: Beyoncé’s ‘Lion King’ Music Video for “Spirit,” How to Make a Marvel Movie and More Read More
-    *   The Week in Movie News: ‘Sherlock Holmes 3’ Director Identified, ‘Look Who’s Talking’ Reboot in the Works and More Read More
-    *   Marvel's Kevin Feige on the MCU Multiverse, 'Far From Home' Post-Credits Scenes and The Future of Spider-Man Read More
+    *   Today in Movie Culture: How ‘The Lion King’ Should Have Ended, How It Would End in Real Life and More Read More
+    *   The Week in Movie News: Taika Waititi to Direct ‘Thor 4,’ First ‘Top Gun: Maverick’ Trailer and More Read More
+    *   Exclusive: 'It Chapter Two' Director Andy Muschietti Breaks Down The New Trailer Read More
     
     Explore Content
     *   Movie Reviews
