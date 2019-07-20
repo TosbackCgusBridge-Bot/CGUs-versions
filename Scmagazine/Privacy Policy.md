@@ -217,21 +217,21 @@ Attention: Chief Digital Officer
     
     *   Huawei products riddled with backdoors, zero days and critical vulnerabilities
     *   Why infosec vendors can’t sell to most CISOs
-    *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
     *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
-    *   Article 29 Working Party still not happy with Windows 10 privacy controls
+    *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
+    *   Data management firm exposed client info on open Amazon S3 buckets: researchers
     
-    *   Thinking outside the inbox
-    *   Facebook to pony up $5 billion in FTC settlement
-    *   Dire straights: Glamoriser smart hair straighteners susceptible to hacking, warn researchers
-    *   Over and out: Apple temporarily disables Walkie Talkie app after bug discovery
-    *   Cryptojacking: The growing malware menace
+    *   Computer password inventor Fernando Corbató dies at 93
+    *   Sprint customer data breached via Samsung website flaw
+    *   Critical WordPress plugin flaw leaves 200,000 sites at risk
+    *   Flaw allows attackers to alter media files sent via WhatsApp, Telegram, say researchers
+    *   Microsoft, Oracle release security updates
     
+    *   Flaw allows attackers to alter media files sent via WhatsApp, Telegram, say researchers
+    *   Securing Energy Infrastructure Act passes House
+    *   Ke3chang APT group linked to Okrum backdoor
     *   Researchers devise method to track Bluetooth devices, despite built-in protections
     *   Cisco releases updates, one ‘Critical,’ two ‘High’ severity ratings
-    *   Drupal patches access bypass vulnerability
-    *   Mirai malware sets sights on enterprise IoT devices ripe for picking
-    *   Microsoft demos vote verification tool, warns of ongoing foreign meddling
 
 Back to Top
 
