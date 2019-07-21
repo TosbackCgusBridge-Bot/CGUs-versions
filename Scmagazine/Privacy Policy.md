@@ -218,14 +218,14 @@ Attention: Chief Digital Officer
     *   Huawei products riddled with backdoors, zero days and critical vulnerabilities
     *   Why infosec vendors can’t sell to most CISOs
     *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
-    *   Data breach forces AMCA’s parent firm to file Chapter 11 bankruptcy
     *   Data management firm exposed client info on open Amazon S3 buckets: researchers
+    *   Article 29 Working Party still not happy with Windows 10 privacy controls
     
-    *   Computer password inventor Fernando Corbató dies at 93
-    *   Sprint customer data breached via Samsung website flaw
-    *   Critical WordPress plugin flaw leaves 200,000 sites at risk
-    *   Flaw allows attackers to alter media files sent via WhatsApp, Telegram, say researchers
-    *   Microsoft, Oracle release security updates
+    *   Thinking outside the inbox
+    *   Atlassian issues critical alert for Jira Server
+    *   Amazon Prime Day cybersecurity preparations
+    *   Mirai malware sets sights on enterprise IoT devices ripe for picking
+    *   The mighty microservice
     
     *   Flaw allows attackers to alter media files sent via WhatsApp, Telegram, say researchers
     *   Securing Energy Infrastructure Act passes House
