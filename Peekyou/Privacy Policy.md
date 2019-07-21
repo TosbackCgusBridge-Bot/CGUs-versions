@@ -59,7 +59,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 3% 
+What is PeekScore? Public Records &. Background Checks 4% 
 
 Sponsored by **BeenVerified***   Patricia A Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -89,7 +89,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 57, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
+4% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -135,7 +135,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 57, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
+4% 
 
 Sponsored by **PeopleLooker***   Patricia A Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -165,7 +165,7 @@ Sponsored by **PeopleLooker***   Patricia A Policy, age 57, Casselberry, FL 3270
     
 *   Show Less ...
 
-8%  Arrest Records &. Driving Infractions
+10%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -206,7 +206,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 3% 
+Facebook 4% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -266,7 +266,7 @@ Facebook 3% 
     
 *   Show Less ...
 
-Twitter 3% 
+Twitter 4% 
 
 *   CDC - CDCgov
     
@@ -312,7 +312,7 @@ Twitter 3% 
     
 *   Show Less ...
 
-Instagram 3% 
+Instagram 4% 
 
 *   privacy policy - lemikeal
     
@@ -358,7 +358,7 @@ Instagram 3% 
     
 *   Show Less ...
 
-Myspace 3% 
+Myspace 4% 
 
 *   Privacy Policy - 49086242
     
@@ -382,7 +382,7 @@ Myspace 3% 
     
 *   Show Less ...
 
-Google+ 3% 
+Google+ 4% 
 
 *   Lauren Weinstein
     
@@ -424,7 +424,7 @@ Google+ 3% 
     
 *   Show Less ...
 
-Pinterest 3% 
+Pinterest 4% 
 
 *   Diane Braiden - privacypolicy1
     
@@ -433,7 +433,7 @@ Pinterest 3% 
 *   Nancy Clark - privacypolicy12
     
 
-Wikipedia 3% 
+Wikipedia 4% 
 
 *   Privacy policy
     
@@ -452,7 +452,7 @@ Wikipedia 3% 
     2019 Copyright. All Rights Reserved. The Sponsored Listings displayed above are served automatically by a third party. Neither Parkingcrew nor the domain owner ...
     
 
-Music 3% 
+Music 4% 
 
 *   Pandora
     
@@ -553,7 +553,7 @@ Web Search 3% 
 
 Images 3% 
 
-9
+8
 
 20
 
