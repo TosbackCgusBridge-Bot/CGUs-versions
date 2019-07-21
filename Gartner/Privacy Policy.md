@@ -59,7 +59,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 343 6105 1 855 343 6105
+    1 855 522 8677 1 855 522 8677
     
 
 *   Solutions By Function
@@ -117,7 +117,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 343 6105 1 855 343 6105
+    1 855 522 8677 1 855 522 8677
     
 
 GARTNER PRIVACY POLICY Effective Date: June 2019
