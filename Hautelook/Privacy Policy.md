@@ -9,9 +9,36 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
+    *   Ferragamo &. More: Italian Eyewear from $80
+    *   Stila: Best Sellers Under $30
+    *   Work It: Office-Ready Dresses Up to 65% Off
+    *   Last Call for Summer: Styles Starting at $10
+    *   Savvy Cie Jewelry Up to 80% Off
+    *   Free Shipping: Amrapur Towels Up to 75% Off
+    *   Men's Shoe Steals Up to 70% Off
+    *   Boots &. Booties Up to 65% Off
+    *   Sandals &. More Up to 65% Off
+    *   NYDJ Up to 65% Off Incl. Plus &. Petites
+    *   Converse Men Starting at $40
+    *   Converse Starting at $25
+    *   Breezy Boho Looks &. More ft. endless rose
+    *   Samuel B Jewelry Under $85
+    *   Designer Shoe Steals Up to 60% Off
+    *   Weekend Casual: Pants, Jumpsuits &. More ft. Elan
+    *   7 For All Mankind Men
+    *   Converse Kids Starting at $20
+    *   Neon &. Co. Hair Masks, Treatments &. More
+    *   Converse Kids' Clothing
+    *   Free Shipping: Decals for Every Wall &. More
+    *   Kitchen Essentials Starting at $10
+    *   Great for Gifting: Layette Faves ft. Focus
+    *   Maternity Essentials: Camis, PJs &. More
+    *   Body Glove and More ft. Active &. Swim
+    *   Robin Piccone Swim &. More
     *   Young Fabulous &. Broke
     *   Sweet Summer Styles: Honey Punch &. More
     *   Z By Zella Starting at $10
+    
     *   Papillon Up to 70% Off
     *   Gemstones, Diamonds &. Sterling Silver from $20
     *   Casual &. Cool: Styles Incl. Plus and Petites
@@ -22,18 +49,16 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Double Dare: Face Masks Starting at $10
     *   MIA Up to 55% Off
     *   Fresh Finds: Shoes Up to 65% Off
-    *   Luana Italy Handbags &. More
     *   Skinnygirl Smoothers &. Shapers &. More
     *   Espadrille Wedges, Sandals &. More Up to 55% Off
-    *   Travel Smart: IT Luggage Up to 60% Off
     *   Men's Sandals ft. Rainbow &. Flojos
     *   Kate Spade New York Home
     *   Free Shipping: Chic Planters &. More from $10
     *   Free Shipping: Pop Culture Art &. More Up to 50% Off
     *   Back to School: Jessica Simpson Sets &. More
     *   Kids' Sandals ft. Harper Canyon
-    
     *   Z by Zella Girl
+    *   Travel Smart: IT Luggage Up to 60% Off
     *   Frye Up to 50% Off
     *   Frye Handbags Up to 50% Off
     *   Frye Men Up to 50% Off
@@ -43,6 +68,7 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Miraclesuit, Athena &. More
     *   Made in Italy: Meshmerise Jewelry Up to 80% Off
     *   Frye Men's Accessories &. Clothing Up to 65% Off
+    
     *   Wrap Dresses Under $40
     *   Sofft &. Isola
     *   90 Degree by Reflex &. More Under $25
@@ -55,32 +81,39 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Kitchen Gadgets &. Storage Starting at $10
     *   Keep It Sassy: Fun Pouches, Towels &. Coasters
     *   Nordstrom Rack Exclusives: Harper Canyon &. More
-    *   Lucky Brand Up to 65% Off Incl. Plus
-    
-    *   Lucky Brand Men Under $50
     *   Donald Pliner Men Up to 60% Off
-    *   14K Gold, Gemstones &. More Under $80
+    *   OXO Kitchen Gadgets &. More
     *   Knours: Skin Care for Every Life Cycle
     *   Saucony Men
     *   Down &. Memory Foam Essentials
     *   Hunter Kids &. More
     *   Let's Go Camping: Lucky Brand Kids &. More
-    *   Lucky Brand Shoes Up to 55% Off
+    *   Luana Italy Handbags &. More
+    *   Hickey Freeman Up to 60% Off
     *   K-Beauty: MISSHA &. A'pieu
-    *   Summer Trend: Men's Camp Shirts from $20
-    *   Rush by Gordon Rush Up to 75% Off
-    *   Keep It Casual: Men's Sneakers Up to 55% off
+    *   Top Trends to Wear: Elodie from $20
+    *   Quilt Sets for Every Bed
     *   Free Shipping: Dorm Organization Essentials
     *   On or Off Campus: Bed-in-a-Bag Sets
-    *   Hickey Freeman Up to 60% Off
-    *   Quilt Sets for Every Bed
-    *   OXO Kitchen Gadgets &. More
     *   Free Shipping: Professional Garment Steamers
-    *   Free Shipping: Kitchen Blowout
-    *   Space Savers: Closet Organizers &. More from $10
-    *   Top Trends to Wear: Elodie from $20
 *   WomenShop Sale Events
     
+    *   Ferragamo &. More: Italian Eyewear from $80
+    *   Stila: Best Sellers Under $30
+    *   Work It: Office-Ready Dresses Up to 65% Off
+    *   Last Call for Summer: Styles Starting at $10
+    *   Savvy Cie Jewelry Up to 80% Off
+    *   Boots &. Booties Up to 65% Off
+    *   Sandals &. More Up to 65% Off
+    *   NYDJ Up to 65% Off Incl. Plus &. Petites
+    *   Converse Starting at $25
+    *   Breezy Boho Looks &. More ft. endless rose
+    *   Samuel B Jewelry Under $85
+    *   Designer Shoe Steals Up to 60% Off
+    *   Weekend Casual: Pants, Jumpsuits &. More ft. Elan
+    *   Neon &. Co. Hair Masks, Treatments &. More
+    *   Body Glove and More ft. Active &. Swim
+    *   Robin Piccone Swim &. More
     *   Young Fabulous &. Broke
     *   Sweet Summer Styles: Honey Punch &. More
     *   Z By Zella Starting at $10
@@ -90,9 +123,9 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Brands We Love: Longchamp &. More Under $60
     *   Snow Teeth Whitening Starting at $10
     *   Naturalizer &. SOUL Naturalizer Up to 50% Off
+    
     *   Double Dare: Face Masks Starting at $10
     *   MIA Up to 55% Off
-    *   Luana Italy Handbags &. More
     *   Skinnygirl Smoothers &. Shapers &. More
     *   Espadrille Wedges, Sandals &. More Up to 55% Off
     *   Travel Smart: IT Luggage Up to 60% Off
@@ -100,7 +133,6 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Frye Handbags Up to 50% Off
     *   Premium Denim: Hudson Jeans &. More Up to 60% Off
     *   Petit Pois By Viviana G
-    
     *   BCBGMAXAZRIA
     *   Miraclesuit, Athena &. More
     *   Made in Italy: Meshmerise Jewelry Up to 80% Off
@@ -113,34 +145,32 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Flip-Flops Under $30 ft. REEF &. Sanuk
     *   Shampoo, Conditioner &. Treatments from $10
     *   Best of Face &. Hair Tools ft. Conair and FOREO
-    *   Lucky Brand Up to 65% Off Incl. Plus
-    *   14K Gold, Gemstones &. More Under $80
     *   Knours: Skin Care for Every Life Cycle
-    *   Lucky Brand Shoes Up to 55% Off
+    *   Luana Italy Handbags &. More
     *   K-Beauty: MISSHA &. A'pieu
     *   Top Trends to Wear: Elodie from $20
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Jewelry
-    *   Handbags
     *   Lingerie
+    *   Handbags
     *   Accessories
 *   MenShop Sale Events
     
+    *   Ferragamo &. More: Italian Eyewear from $80
+    *   Men's Shoe Steals Up to 70% Off
+    *   Converse Men Starting at $40
+    *   7 For All Mankind Men
     *   Men's Designer Shoes Up to 70% Off
-    *   Travel Smart: IT Luggage Up to 60% Off
     *   Men's Sandals ft. Rainbow &. Flojos
+    
+    *   Travel Smart: IT Luggage Up to 60% Off
     *   Frye Men Up to 50% Off
     *   Frye Men's Accessories &. Clothing Up to 65% Off
-    *   Lucky Brand Men Under $50
-    
     *   Donald Pliner Men Up to 60% Off
     *   Saucony Men
-    *   Summer Trend: Men's Camp Shirts from $20
-    *   Rush by Gordon Rush Up to 75% Off
-    *   Keep It Casual: Men's Sneakers Up to 55% off
     *   Hickey Freeman Up to 60% Off
     
     Shop By Category
@@ -149,6 +179,10 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Converse Kids Starting at $20
+    *   Converse Kids' Clothing
+    *   Great for Gifting: Layette Faves ft. Focus
+    *   Maternity Essentials: Camis, PJs &. More
     *   Back to School: Jessica Simpson Sets &. More
     *   Kids' Sandals ft. Harper Canyon
     *   Z by Zella Girl
@@ -160,41 +194,44 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Girls' Sizes 7-16
     *   Girls' Sizes 2T-6X
     *   Girls' Shoes
-    *   Baby Girl
-    *   Boys' Sizes 2T-7
     *   Boys' Sizes 8-20
-    *   Baby Boy
+    *   Boys' Sizes 2T-7
+    *   Baby Girl
     *   Boys' Shoes
+    *   Baby Boy
     *   The Toy Shop
 *   HomeShop Sale Events
     
+    *   Free Shipping: Amrapur Towels Up to 75% Off
+    *   Free Shipping: Decals for Every Wall &. More
     *   Kate Spade New York Home
     *   Free Shipping: Chic Planters &. More from $10
     *   Free Shipping: Pop Culture Art &. More Up to 50% Off
     *   Kitchen Gadgets &. Storage Starting at $10
     *   Keep It Sassy: Fun Pouches, Towels &. Coasters
-    *   Down &. Memory Foam Essentials
-    *   Free Shipping: Dorm Organization Essentials
     
-    *   On or Off Campus: Bed-in-a-Bag Sets
-    *   Quilt Sets for Every Bed
     *   OXO Kitchen Gadgets &. More
+    *   Down &. Memory Foam Essentials
+    *   Quilt Sets for Every Bed
+    *   Free Shipping: Dorm Organization Essentials
+    *   On or Off Campus: Bed-in-a-Bag Sets
     *   Free Shipping: Professional Garment Steamers
-    *   Free Shipping: Kitchen Blowout
-    *   Space Savers: Closet Organizers &. More from $10
     
     Shop By Category
+    *   Home Decor
     *   Bedding
     *   Kitchen &. Tabletop
-    *   Home Decor
     *   Cleaning &. Organization
-    *   Tech Accessories
-    *   Outdoor Living
-    *   Holiday Decorations
     *   Luggage &. Travel
+    *   Bath
+    *   Tech Accessories
+    *   Holiday Decorations
+    *   Outdoor Living
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Stila: Best Sellers Under $30
+    *   Neon &. Co. Hair Masks, Treatments &. More
     *   Snow Teeth Whitening Starting at $10
     *   Double Dare: Face Masks Starting at $10
     *   Royale Hair Tools
