@@ -92,9 +92,9 @@ View more results
     *   Uphill Rush 7: Waterpark
     *   Ultimate Boxing
     *   Short Life
-    *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
-    *   Combat Strike 2: 3D Shooting Game Online Multiplayer
     *   Stickman Archer 2
+    *   Combat Strike 2: 3D Shooting Game Online Multiplayer
+    *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Goodgame Gangster
 *   Top Categories
     
@@ -156,8 +156,8 @@ View more results
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Deal or No Deal
     *   1001 Arabian Nights
-    *   The Impossible Quiz: World's Hardest Quiz
     *   Bubble Machine: 2 Player Game
+    *   The Impossible Quiz: World's Hardest Quiz
     *   Crystical: 2 Player Puzzle Game
     *   Happy Glass
 *   Top Categories
@@ -190,8 +190,8 @@ View more results
     *   Love Tester 2.0
     *   Get Your Boyfriend
     *   Princess Rivalry
-    *   Ella: Hips Surgery
     *   True Love Calculator
+    *   Ella: Hips Surgery
 *   Top Categories
     
     *   BMX Games
@@ -251,8 +251,8 @@ View more results
     *   Baseball
     *   Table Tennis World Tour
     *   8-Ball
-    *   Neon Biker
     *   Cricket CPL Tournament
+    *   Neon Biker
     *   Bouncy Dunk
     *   Billiards Master Pro
 *   *   Multiplayer
@@ -266,7 +266,7 @@ View more results
     
     Recommended Games
     
-    *   League of Angels 3
+    *   Dauntless
     *   Roblox
     *   PopTropica
     *   Madalin Stunt Cars 2
