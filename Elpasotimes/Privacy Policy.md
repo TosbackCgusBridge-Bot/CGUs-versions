@@ -60,7 +60,7 @@ SUBSCRIBE NOW99¢ per month. Save 90%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowTexas teen busted for spitting in tea bottleNewsJuárez hit squad suspected in 22 murdersLocalEPISD police chief on paid administrative leaveEducationFourth case of measles confirmed in El PasoNewsExtended families separated at US-Mexico borderNewsNotorious drug lord 'El Chapo' sentenced to life in prisonNewsRep. Joe Moody seeks reelection to Texas HousePolitics5 teens arrested in stabbing near middle schoolCrimeDeputies find fugitives hiding in El Paso homeCrimeNew Trump rule blocks asylum seekers at borderNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowInmates in prison guard attack have violent historyLocalSeen El Paso’s most wanted fugitives of the week?CrimeTrainer Crawford, jockey Smith team up for winSportsEl Paso protest tells Puerto Rico governor to quitLocalUTEP expands tuition guarantee to more studentsEducationTrainer Muela, jockey Becerra team up for winSportsYISD chief head-butted SISD leader, records showEducationLawyer: El Chapo heads to supermax facilityNewsMissing El Paso woman believed to be in dangerCrimeMan breaks into Family Dollar, steals headphonesNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
