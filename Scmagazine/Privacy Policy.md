@@ -217,21 +217,21 @@ Attention: Chief Digital Officer
     
     *   Huawei products riddled with backdoors, zero days and critical vulnerabilities
     *   Why infosec vendors can’t sell to most CISOs
-    *   A. Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed
     *   Data management firm exposed client info on open Amazon S3 buckets: researchers
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
+    *   Career advice for current and future CISOs
     
-    *   Thinking outside the inbox
+    *   Report suggests GandCrab's developers may have created Sodinokibi ransomware
+    *   Juniper Networks patches dozens of vulnerabilities
+    *   Microsoft demos vote verification tool, warns of ongoing foreign meddling
+    *   Facebook to pony up $5 billion in FTC settlement
     *   Atlassian issues critical alert for Jira Server
-    *   Amazon Prime Day cybersecurity preparations
-    *   Mirai malware sets sights on enterprise IoT devices ripe for picking
-    *   The mighty microservice
     
+    *   Researchers bypass Cylance's AI-based AV solution by masking malware with video game code
+    *   Coats taps 2018 midterms crisis manager for new election threats exec position
     *   Flaw allows attackers to alter media files sent via WhatsApp, Telegram, say researchers
     *   Securing Energy Infrastructure Act passes House
     *   Ke3chang APT group linked to Okrum backdoor
-    *   Researchers devise method to track Bluetooth devices, despite built-in protections
-    *   Cisco releases updates, one ‘Critical,’ two ‘High’ severity ratings
 
 Back to Top
 
