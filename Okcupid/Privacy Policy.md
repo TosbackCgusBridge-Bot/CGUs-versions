@@ -383,7 +383,7 @@ You need to complete your basic info on the mobile app before you can use the de
 *   Support
 *   Blog
 *   Tech Blog
-*   Conservative Dating
+*   Spiritual Singles
 *   Privacy Policy
 *   Cookie Policy
 *   Terms and Conditions
