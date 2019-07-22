@@ -10,6 +10,7 @@ Skip to main content.English (United States)USD
 *   Sign in
 
 *   Deals
+*   Things to do
 *   Packages &. Flights
 *   Groups &. Meetings
 *   Gift Cards
