@@ -1,6 +1,6 @@
 <. Back to list Enforcement Actions for Intellectual Property Rights Infringements Claims on Alibaba.com
 
-Updated on November 1, 2017                                   Effective Date: November 1, 2017
+Updated on November 1, 2017                  Effective Date: November 1, 2017           Overdue Date：July，15，2019
 
 **A. Intellectual Property Rights Infringements**
 
