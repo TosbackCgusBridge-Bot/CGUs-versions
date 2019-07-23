@@ -533,4 +533,4 @@ Stay Connected
 *   Use Student Discount
 *   Store FAQs
 
-© 2019 Aeropostale. All Rights Reserved.
+© 2019 Aeropostale. All Rights Reserved. CHAT
