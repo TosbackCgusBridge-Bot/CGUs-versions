@@ -6,11 +6,11 @@
     *   Basketball Wives
     *   Black Ink Crew Chicago
     *   Girls Cruise
+    *   Hip Hop Squares
     *   Love &. Hip Hop Atlanta
     *   Love &. Hip Hop Hollywood
+    *   Love &. Listings
     *   Martha &. Snoop's Potluck Party Challenge
-    *   Scream
-    *   T.I. &. Tiny: Friends &. Family Hustle
     *   Wild 'N OutSee all Shows
 *   News
 *   App
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleBasketball WivesBlack Ink Crew ChicagoGirls CruiseLove &. Hip Hop AtlantaLove &. Hip Hop HollywoodMartha &. Snoop's Potluck Party ChallengeScreamT.I. &. Tiny: Friends &. Family HustleWild 'N Outsee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleBasketball WivesBlack Ink Crew ChicagoGirls CruiseHip Hop SquaresLove &. Hip Hop AtlantaLove &. Hip Hop HollywoodLove &. ListingsMartha &. Snoop's Potluck Party ChallengeWild 'N Outsee all Shows
 *   News
 *   App
 *   Watch Live TV
