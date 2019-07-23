@@ -221,11 +221,11 @@ Attention: Chief Digital Officer
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Career advice for current and future CISOs
     
-    *   Report suggests GandCrab's developers may have created Sodinokibi ransomware
-    *   Juniper Networks patches dozens of vulnerabilities
-    *   Microsoft demos vote verification tool, warns of ongoing foreign meddling
+    *   Data dump suggests that Evite data breach affected 100M accounts
     *   Facebook to pony up $5 billion in FTC settlement
-    *   Atlassian issues critical alert for Jira Server
+    *   Comparing 5G to Wi-Fi 6 from a security perspective
+    *   Microsoft, Oracle release security updates
+    *   Ke3chang APT group linked to Okrum backdoor
     
     *   Researchers bypass Cylance's AI-based AV solution by masking malware with video game code
     *   Coats taps 2018 midterms crisis manager for new election threats exec position
@@ -262,4 +262,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of Haymarket Media’s Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
