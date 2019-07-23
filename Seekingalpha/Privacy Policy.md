@@ -1,12 +1,5 @@
-MarketplaceSubscribe
+MarketplaceSeeking AlphaSUBSCRIBE
 
-Sign in / Join Now
-
-*   Help
-*   Knowledge Base
-*   Feedback Forum
-
-*   Trending
 *   Portfolio
 *   People
 *   News
@@ -41,13 +34,12 @@ Sign in / Join Now
     *   Dividend Strategy
     *   ETF Screener
     *   Investing Podcasts
-*   On the Move
-*   Stock Ideas
-*   Dividend Analysis
-*   Market Outlook
-*   Podcasts
-*   ETF Screener
-*   Retirement
+
+Sign in / Join Now
+
+*   Help
+*   Knowledge Base
+*   Feedback Forum
 
 Privacy
 
