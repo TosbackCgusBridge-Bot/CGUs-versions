@@ -37,7 +37,7 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
         *   Brill Boutique
         *   Buckle Exclusives
         *   buckle SELECT
-        *   Buckle's Top 5
+        *   Now Trending
         *   Gift Cards
         *   Special Offers
         *   Shop by Outfit
@@ -105,7 +105,7 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
         *   New Arrivals
         *   Buckle Exclusives
         *   buckle SELECT
-        *   Buckle's Top 5
+        *   Now Trending
         *   Gift Cards
         *   Men's Brands
         *   Special Offers
