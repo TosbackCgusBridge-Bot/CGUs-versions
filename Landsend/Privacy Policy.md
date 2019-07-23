@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off full-price styles. 50% off full-price backpacks, totes and bags!
+Receive free 2-day shipping. 40% off full-price styles!
 
-code: RELAX pin: 8712 DETAILS
+code: LEMON pin: 5722 DETAILS
 
 Customer Service Menu
 
