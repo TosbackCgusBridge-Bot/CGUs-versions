@@ -5,31 +5,31 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   The Lion King (2019)
     *   Spider-Man: Far From Home (2019)
     *   Toy Story 4
     *   Crawl (2019)
-    *   Stuber
     *   Yesterday (2019)
+    *   Stuber
     *   Aladdin (2019)
     *   Annabelle Comes Home
     *   Midsommar
     *   The Secret Life of Pets 2
-    *   Men in Black: International
-    *   Rocketman
+    *   Avengers: Endgame (2019)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   The Lion King (2019)
-    *   At War
-    *   Between Me and My Mind
-    *   David Crosby: Remember My Name
-    *   Rosie (2019)
+    *   Once Upon a Time in Hollywood
+    *   The Ground Beneath My Feet
+    *   Honeyland
+    *   Mike Wallace Is Here
+    *   See You Soon (2019)
+    *   Tel Aviv on Fire
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Once Upon a Time in Hollywood
     *   Fast &. Furious Presents: Hobbs &. Shaw
     *   Dora and the Lost City of Gold
     *   Scary Stories to Tell in the Dark
@@ -38,6 +38,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   The Art of Racing in the Rain
     *   47 Meters Down: Uncaged
     *   Good Boys
+    *   Blinded by the Light
     *   See All Coming Soon
     
     Explore More
@@ -65,7 +66,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: How ‘The Lion King’ Should Have Ended, How It Would End in Real Life and More Read More
+    *   Today in Movie Culture: What Makes ‘The Lion King’ So Popular, ‘Avatar’ Yields to ‘Avenger: Endgame’ and More Read More
     *   The Week in Movie News: Taika Waititi to Direct ‘Thor 4,’ First ‘Top Gun: Maverick’ Trailer and More Read More
     *   Exclusive: 'It Chapter Two' Director Andy Muschietti Breaks Down The New Trailer Read More
     
@@ -351,4 +352,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
