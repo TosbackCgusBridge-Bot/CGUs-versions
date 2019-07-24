@@ -14,7 +14,7 @@ For the Americas:
 
 Mel Farber.
 
-For Eurpoe and the Middle East:
+For Europe and the Middle East:
 
 Jan Urbanc.
 
