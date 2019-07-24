@@ -64,7 +64,7 @@ TABLE OF CONTENTS
     
 3.  Information Provided to Us by Third Parties  
       
-    **PlayStation®3 &. PlayStation®4 Computer Entertainment Systems.** By signing up to play our products on a PlayStation®3 or PlayStation®4 computer entertainment system, you agree your Sony Entertainment Network account information will be provided to EA so we can establish an EA Account for you. You need an EA Account to play EA's products online. From Sony, we receive information including your name, email address, Online ID, your country, state or province, language and date of birth. We do not receive your credit card number or other financial information.  
+    **PlayStation®3 &. PlayStation®4 Computer Entertainment Systems.** By signing up to play our products on a PlayStation®3 or PlayStation®4 computer entertainment system, you agree your Account of PlayStation™Network information will be provided to EA so we can establish an EA Account for you. You need an EA Account to play EA's products online. From Sony, we receive information including your name, email address, Online ID, your country, state or province, language and date of birth. We do not receive your credit card number or other financial information.  
       
     **Xbox Live.** By signing up to play our products on Microsoft's Xbox Live Service, you agree that Microsoft may provide us with your Microsoft user account information so we can establish an EA Account for you. You need an EA Account to play EA's products online. From Microsoft, we receive information including your Gamertag, email address, state or province, country, language and age. We do not receive your credit card number or other financial information.  
       
