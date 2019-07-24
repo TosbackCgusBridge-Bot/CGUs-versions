@@ -221,17 +221,17 @@ Attention: Chief Digital Officer
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Career advice for current and future CISOs
     
-    *   Data dump suggests that Evite data breach affected 100M accounts
-    *   Facebook to pony up $5 billion in FTC settlement
-    *   Comparing 5G to Wi-Fi 6 from a security perspective
+    *   Encryption everywhere
+    *   No ID? Get off my cloud
+    *   Thinking outside the inbox
+    *   Drupal patches access bypass vulnerability
     *   Microsoft, Oracle release security updates
-    *   Ke3chang APT group linked to Okrum backdoor
     
-    *   Researchers bypass Cylance's AI-based AV solution by masking malware with video game code
-    *   Coats taps 2018 midterms crisis manager for new election threats exec position
-    *   Flaw allows attackers to alter media files sent via WhatsApp, Telegram, say researchers
-    *   Securing Energy Infrastructure Act passes House
-    *   Ke3chang APT group linked to Okrum backdoor
+    *   Equifax to pay up to $425 million for breach in FTC settlement
+    *   Man arrested for hacking Bulgaria’s tax agency released with reduced charges
+    *   Cloud-hosting firm iNSYNQ shut down by MegaCortex ransomware
+    *   Hackers leak documents stolen from contractor for Russian intel agency
+    *   Comparing 5G to Wi-Fi 6 from a security perspective
 
 Back to Top
 
