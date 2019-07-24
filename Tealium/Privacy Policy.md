@@ -14,7 +14,6 @@
     *   EDW or Data Lake + Tealium
     *   Preparing for GDPR
     *   Trust and Privacy
-    *   Martech Challenge
     *   InfoSec
     *   Adobe + Tealium
 *   Integrations
@@ -22,7 +21,6 @@
     *   Resource Library (hub)
     *   Videos
     *   ROI Calculator
-    *   MarTech Challenge
     *   Tealium Learning Center
     *   Education
 *   Company
@@ -57,7 +55,6 @@
     *   EDW or Data Lake + Tealium
     *   Preparing for GDPR
     *   Trust and Privacy
-    *   Martech Challenge
     *   InfoSec
     *   Adobe + Tealium
 *   Integrations
@@ -65,7 +62,6 @@
     *   Resource Library (hub)
     *   Videos
     *   ROI Calculator
-    *   MarTech Challenge
     *   Tealium Learning Center
     *   Education
 *   Company
