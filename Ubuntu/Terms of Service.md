@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Getting started with Ubuntu Core – streaming video from a Raspberry Pi ›
+*   Community Snapcrafter on MicroK8s, summits and the evolving nature of snaps ›
 *   Robot lifecycle management with Ubuntu ›
 *   CMake leverages the Snapcraft Summit with Travis CI to build snaps ›
 *   Handy snapcraft features: Remote build ›
-*   How to build a lightweight system container cluster ›
-*   Octave turns to snaps to reduce dependency on Linux distribution maintainers ›
