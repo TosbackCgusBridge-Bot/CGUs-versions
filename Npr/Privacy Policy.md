@@ -369,15 +369,6 @@ California residents can request and obtain from us once a year and free of char
 *   **Flipboard**
 *   **Email**
 
-Monday, July 22nd, 2019 ******Listen** **· 14:31****** 14:31 ****Playlist**** **Toggle more options**
-
-*   **Download**
-*   ****Embed**** **Embed** **`**<**iframe src="https://www.npr.org/player/embed/744028786/744032135" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player">`**
-
-Up First NPR's Up First is the news you need to start your day.
-
-The biggest stories and ideas — from politics to pop culture — in 10 minutes.
-
 Read &. Listen
 
 *   Home
