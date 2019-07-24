@@ -9,9 +9,32 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
+    *   24 Hours Only: Luxe Pillows at 60% Off
+    *   Time to Upgrade: Bands for Fitbit Up to 75% Off
+    *   Automatic Robot Vacuums &. More Up to 65% Off
+    *   Free Shipping: Bedding Essentials Up to 75% Off
+    *   Free People Up to 60% Off
+    *   Free People Lingerie
+    *   All That's Fit to Print: Dress Forum from $20
+    *   Summer Wonders: Dresses &. Rompers Under $35
+    *   Jenny Bird Jewelry Up to 75% Off
+    *   Pre-Fall Finds: Boots &. Booties
+    *   Original Penguin Clothing Up to 60% Off
+    *   Original Penguin Suiting Up to 60% Off
+    *   14K Gold &. More Under $80
+    *   Havaianas Up to 50% Off
+    *   Pastourelle by Pippa &. Julie
+    *   Cover Roots &. Grays: TRUHAIR
+    *   Original Penguin Shoes Up to 65% Off
+    *   Original Penguin Luggage Up to 70% Off
+    *   Kenneth Cole New York Men
+    *   See Kai Run
+    *   Joe Fresh Kids Under $10
+    *   Kelsi Dagger Brooklyn &. Band of Gypsies
     *   New Balance Starting at $50
     *   New Balance Men Starting at $50
     *   Scotch &. Soda
+    
     *   Everyday Chic: 1.STATE &. More Incl. Plus
     *   n:PHILANTHROPY
     *   Dressed to the '90s: Neon, Mesh &. More
@@ -26,74 +49,56 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   From the Hive: Manuka Honey Skin Care
     *   Terre Mere Organic Beauty Up to 75% Off
     *   Summer Swim Under $30
-    *   Free Shipping: Amrapur Towels Up to 75% Off
     *   Kitchen Prep ft. Cuisinart, Vitamix &. More
     *   Kids' Active Essentials
-    *   Body Glove and More ft. Active &. Swim
-    *   Robin Piccone Swim &. More
-    *   Keep It Quirky: Quotable Accents for Every Room
-    *   Ferragamo &. More: Italian Eyewear from $80
     *   Stila: Best Sellers Under $30
     *   Last Call for Summer: Styles Starting at $10
-    *   Savvy Cie Jewelry Up to 80% Off
-    
     *   Men's Shoe Steals Up to 70% Off
     *   Boots &. Booties Up to 65% Off
     *   Sandals &. More Up to 65% Off
     *   NYDJ Up to 65% Off Incl. Plus &. Petites
     *   Converse Men Starting at $40
     *   Converse Starting at $25
-    *   Breezy Boho Looks &. More ft. endless rose
-    *   Samuel B Jewelry Under $85
-    *   Designer Shoe Steals Up to 60% Off
-    *   Weekend Casual: Pants, Jumpsuits &. More ft. Elan
     *   7 For All Mankind Men
+    
     *   Converse Kids Starting at $20
     *   Neon &. Co. Hair Masks, Treatments &. More
     *   Converse Kids' Clothing
     *   Kitchen Essentials Starting at $10
     *   Great for Gifting: Layette Faves ft. Focus
     *   Maternity Essentials: Camis, PJs &. More
-    *   Young Fabulous &. Broke
-    *   Sweet Summer Styles: Honey Punch &. More
-    *   Z By Zella Starting at $10
-    *   Papillon Up to 70% Off
-    *   Gemstones, Diamonds &. Sterling Silver from $20
-    *   Casual &. Cool: Styles Incl. Plus and Petites
-    *   Brands We Love: Longchamp &. More Under $60
     *   Men's Designer Shoes Up to 70% Off
     *   Snow Teeth Whitening Starting at $10
-    *   Naturalizer &. SOUL Naturalizer Up to 50% Off
-    
     *   Double Dare: Face Masks Starting at $10
-    *   MIA Up to 55% Off
-    *   Fresh Finds: Shoes Up to 65% Off
-    *   Skinnygirl Smoothers &. Shapers &. More
-    *   Espadrille Wedges, Sandals &. More Up to 55% Off
     *   Men's Sandals ft. Rainbow &. Flojos
     *   Free Shipping: Chic Planters &. More from $10
     *   Free Shipping: Pop Culture Art &. More Up to 50% Off
-    *   Back to School: Jessica Simpson Sets &. More
-    *   Kids' Sandals ft. Harper Canyon
-    *   Z by Zella Girl
-    *   Travel Smart: IT Luggage Up to 60% Off
     *   Royale Hair Tools
-    *   OXO Kitchen Gadgets &. More
     *   Shampoo, Conditioner &. Treatments from $10
     *   Best of Face &. Hair Tools ft. Conair and FOREO
     *   Kitchen Gadgets &. Storage Starting at $10
     *   Work It: Office-Ready Dresses Up to 65% Off
+    *   Free Shipping: Amrapur Towels Up to 75% Off
+    *   Keep It Quirky: Quotable Accents for Every Room
+    *   Savvy Cie Jewelry Up to 80% Off
+    *   Samuel B Jewelry Under $85
     *   Free Shipping: Decals for Every Wall &. More
-    *   Luana Italy Handbags &. More
-    *   Hickey Freeman Up to 60% Off
     *   Keep It Sassy: Fun Pouches, Towels &. Coasters
-    *   Knours: Skin Care for Every Life Cycle
     *   Down &. Memory Foam Essentials
     *   Quilt Sets for Every Bed
-    *   Free Shipping: Dorm Organization Essentials
-    *   On or Off Campus: Bed-in-a-Bag Sets
 *   WomenShop Sale Events
     
+    *   Free People Up to 60% Off
+    *   Free People Lingerie
+    *   All That's Fit to Print: Dress Forum from $20
+    *   Summer Wonders: Dresses &. Rompers Under $35
+    *   Jenny Bird Jewelry Up to 75% Off
+    *   Pre-Fall Finds: Boots &. Booties
+    *   14K Gold &. More Under $80
+    *   Havaianas Up to 50% Off
+    *   Cover Roots &. Grays: TRUHAIR
+    *   Original Penguin Luggage Up to 70% Off
+    *   Kelsi Dagger Brooklyn &. Band of Gypsies
     *   New Balance Starting at $50
     *   Scotch &. Soda
     *   Everyday Chic: 1.STATE &. More Incl. Plus
@@ -102,69 +107,50 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Aldo Sandals &. More from $30
     *   New Balance Active
     *   ZIGIny and Rock &. Candy Up to 60% Off
+    
     *   Vicenzo Leather Satchels, Belt Bags &. More
     *   Full-Fit Bras ft. Panache
     *   From the Hive: Manuka Honey Skin Care
     *   Terre Mere Organic Beauty Up to 75% Off
-    *   Body Glove and More ft. Active &. Swim
-    *   Robin Piccone Swim &. More
-    *   Ferragamo &. More: Italian Eyewear from $80
     *   Stila: Best Sellers Under $30
     *   Last Call for Summer: Styles Starting at $10
-    *   Savvy Cie Jewelry Up to 80% Off
     *   Boots &. Booties Up to 65% Off
     *   Sandals &. More Up to 65% Off
     *   NYDJ Up to 65% Off Incl. Plus &. Petites
     *   Converse Starting at $25
-    *   Breezy Boho Looks &. More ft. endless rose
-    *   Samuel B Jewelry Under $85
-    
-    *   Designer Shoe Steals Up to 60% Off
-    *   Weekend Casual: Pants, Jumpsuits &. More ft. Elan
     *   Neon &. Co. Hair Masks, Treatments &. More
-    *   Young Fabulous &. Broke
-    *   Sweet Summer Styles: Honey Punch &. More
-    *   Z By Zella Starting at $10
-    *   Papillon Up to 70% Off
-    *   Gemstones, Diamonds &. Sterling Silver from $20
-    *   Casual &. Cool: Styles Incl. Plus and Petites
-    *   Brands We Love: Longchamp &. More Under $60
     *   Snow Teeth Whitening Starting at $10
-    *   Naturalizer &. SOUL Naturalizer Up to 50% Off
     *   Double Dare: Face Masks Starting at $10
-    *   MIA Up to 55% Off
-    *   Skinnygirl Smoothers &. Shapers &. More
-    *   Espadrille Wedges, Sandals &. More Up to 55% Off
-    *   Travel Smart: IT Luggage Up to 60% Off
     *   Royale Hair Tools
     *   Shampoo, Conditioner &. Treatments from $10
     *   Best of Face &. Hair Tools ft. Conair and FOREO
     *   Work It: Office-Ready Dresses Up to 65% Off
-    *   Luana Italy Handbags &. More
-    *   Knours: Skin Care for Every Life Cycle
+    *   Savvy Cie Jewelry Up to 80% Off
+    *   Samuel B Jewelry Under $85
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Jewelry
     *   Lingerie
-    *   Accessories
     *   Handbags
 *   MenShop Sale Events
     
+    *   Original Penguin Clothing Up to 60% Off
+    *   Original Penguin Suiting Up to 60% Off
+    *   Original Penguin Shoes Up to 65% Off
+    *   Original Penguin Luggage Up to 70% Off
+    *   Kenneth Cole New York Men
     *   New Balance Men Starting at $50
     *   New Balance Men's Active Under $35
+    
     *   Aldo Men
     *   Summer Swim Under $30
-    *   Ferragamo &. More: Italian Eyewear from $80
     *   Men's Shoe Steals Up to 70% Off
-    
     *   Converse Men Starting at $40
     *   7 For All Mankind Men
     *   Men's Designer Shoes Up to 70% Off
     *   Men's Sandals ft. Rainbow &. Flojos
-    *   Travel Smart: IT Luggage Up to 60% Off
-    *   Hickey Freeman Up to 60% Off
     
     Shop By Category
     *   Shoes
@@ -172,53 +158,55 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Pastourelle by Pippa &. Julie
+    *   See Kai Run
+    *   Joe Fresh Kids Under $10
     *   New Balance Kids Starting at $30
     *   Kids' Active Essentials
     *   Converse Kids Starting at $20
     *   Converse Kids' Clothing
     *   Great for Gifting: Layette Faves ft. Focus
     *   Maternity Essentials: Camis, PJs &. More
-    *   Back to School: Jessica Simpson Sets &. More
-    *   Kids' Sandals ft. Harper Canyon
-    *   Z by Zella Girl
     
     Shop By Category
-    *   Girls' Shoes
     *   Boys' Shoes
+    *   Girls' Shoes
     *   Girls' Sizes 7-16
+    *   Baby Girl
     *   Girls' Sizes 2T-6X
     *   Boys' Sizes 8-20
-    *   Baby Girl
     *   Boys' Sizes 2T-7
     *   Baby Boy
 *   HomeShop Sale Events
     
-    *   Free Shipping: Amrapur Towels Up to 75% Off
+    *   24 Hours Only: Luxe Pillows at 60% Off
+    *   Time to Upgrade: Bands for Fitbit Up to 75% Off
+    *   Automatic Robot Vacuums &. More Up to 65% Off
+    *   Free Shipping: Bedding Essentials Up to 75% Off
+    *   Original Penguin Luggage Up to 70% Off
     *   Kitchen Prep ft. Cuisinart, Vitamix &. More
-    *   Keep It Quirky: Quotable Accents for Every Room
     *   Free Shipping: Chic Planters &. More from $10
     *   Free Shipping: Pop Culture Art &. More Up to 50% Off
-    *   OXO Kitchen Gadgets &. More
-    *   Kitchen Gadgets &. Storage Starting at $10
     
+    *   Kitchen Gadgets &. Storage Starting at $10
+    *   Free Shipping: Amrapur Towels Up to 75% Off
+    *   Keep It Quirky: Quotable Accents for Every Room
     *   Free Shipping: Decals for Every Wall &. More
     *   Keep It Sassy: Fun Pouches, Towels &. Coasters
     *   Down &. Memory Foam Essentials
     *   Quilt Sets for Every Bed
-    *   Free Shipping: Dorm Organization Essentials
-    *   On or Off Campus: Bed-in-a-Bag Sets
     
     Shop By Category
     *   Home Decor
     *   Bedding
     *   Kitchen &. Tabletop
-    *   Cleaning &. Organization
-    *   Luggage &. Travel
     *   Bath
+    *   Tech Accessories
+    *   Cleaning &. Organization
     *   Outdoor Living
-    *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Cover Roots &. Grays: TRUHAIR
     *   From the Hive: Manuka Honey Skin Care
     *   Terre Mere Organic Beauty Up to 75% Off
     *   Stila: Best Sellers Under $30
@@ -228,11 +216,10 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Royale Hair Tools
     *   Shampoo, Conditioner &. Treatments from $10
     *   Best of Face &. Hair Tools ft. Conair and FOREO
-    *   Knours: Skin Care for Every Life Cycle
     
     Shop By Category
-    *   Makeup
     *   Hair Care
+    *   Makeup
     *   Skin Care
     *   Tools &. Accessories
     *   Bath &. Body
