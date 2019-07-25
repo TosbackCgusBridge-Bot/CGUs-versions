@@ -14,7 +14,7 @@ Back
     
     Loading...
     
-    CLOSE
+    CLOSE      
 *   Deals &. Packages
     
     Loading...
@@ -221,6 +221,14 @@ Our goal is to provide you with the highest level of hospitality and Services, a
 
 **Corporate Reorganization.** We may disclose or transfer your Personal Data and Other Data to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of the Marriott Group business, assets or stock (including any bankruptcy or similar proceedings).
 
+Other Uses and Disclosures
+
+Open
+
+We will use and disclose Personal Data as we believe to be necessary or appropriate: (a) to comply with applicable law, including laws outside your country of residence. (b) to comply with legal process. (c) to respond to requests from public and government authorities, including authorities outside your country of residence and to meet national security or law enforcement requirements. (d) to enforce our terms and conditions. (e) to protect our operations. (f) to protect the rights, privacy, safety or property of the Marriott Group, you or others. and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+
+We may use and disclose Other Data for any purpose, except where we are not allowed to under applicable law. In some instances, we may combine Other Data with Personal Data (such as combining your name with your location). If we do, we will treat the combined data as Personal Data as long as it is combined.
+
 Non-Marriott Group Entities
 
 Open
@@ -406,6 +414,31 @@ For your protection, we only fulfill requests for the personal data associated w
 
 Marriott acknowledges and respects our guests’ privacy and we will try to comply with your request as soon as reasonably practicable and consistent with applicable law.
 
+Languages
+
+Open
+
+*   English
+*   Arabic
+*   Canadian French
+*   Dutch/Netherlands
+*   French
+*   Georgian
+*   German
+*   Indonesian
+*   Italian
+*   Japanese
+*   Korean
+*   Malaysian
+*   Polish
+*   Portuguese
+*   Russian
+*   Simplified Chinese
+*   Spanish
+*   Thai
+*   Traditional Chinese
+*   Turkish
+
 Loading...
 
 Loading...
@@ -418,8 +451,8 @@ Loading...
 
 © 1996 – 2019 Marriott International, Inc. All rights reserved. Marriott Proprietary Information
 
-Terms of Use Program Terms &. Conditions Privacy Center Site Map Help
+Tracking Preferences Terms of Use Program Terms &. Conditions Privacy Center Site Map Help
 
-prod13,CD2F0AED-2B32-5ECA-901B-26C820ED35A4
+prod13,9A9EB76A-DFD2-541B-A28D-6566CA81E915
 
 *   Loading...
