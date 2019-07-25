@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Getting Started with Knative on Ubuntu ›
+*   Mir support for Wayland ›
+*   BT turns to Canonical Ubuntu to enable next generation 5G Cloud Core ›
 *   Getting started with Ubuntu Core – streaming video from a Raspberry Pi ›
 *   Community Snapcrafter on MicroK8s, summits and the evolving nature of snaps ›
-*   Robot lifecycle management with Ubuntu ›
-*   CMake leverages the Snapcraft Summit with Travis CI to build snaps ›
-*   Handy snapcraft features: Remote build ›
