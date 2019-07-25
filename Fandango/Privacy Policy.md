@@ -3,43 +3,13 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Fandango
 *   Go
 
-*   Movies Now Playing
+*   Movies
     
-    *   The Lion King (2019)
-    *   Spider-Man: Far From Home (2019)
-    *   Toy Story 4
-    *   Crawl (2019)
-    *   Yesterday (2019)
-    *   Stuber
-    *   Aladdin (2019)
-    *   Annabelle Comes Home
-    *   Midsommar
-    *   The Secret Life of Pets 2
-    *   Avengers: Endgame (2019)
     *   See All Now Playing
     
-    Opening This Week = Limited Release
+    \= Limited Release
     
-    *   Once Upon a Time in Hollywood
-    *   The Ground Beneath My Feet
-    *   Honeyland
-    *   Mike Wallace Is Here
-    *   See You Soon (2019)
-    *   Tel Aviv on Fire
     *   See All Opening This Week
-    
-    Coming Soon
-    
-    *   Fast &. Furious Presents: Hobbs &. Shaw
-    *   Dora and the Lost City of Gold
-    *   Scary Stories to Tell in the Dark
-    *   The Kitchen (2019)
-    *   Brian Banks
-    *   The Art of Racing in the Rain
-    *   47 Meters Down: Uncaged
-    *   Good Boys
-    *   Blinded by the Light
-    *   See All Coming Soon
     
     Explore More
     *   Watch Trailers on MovieClips
