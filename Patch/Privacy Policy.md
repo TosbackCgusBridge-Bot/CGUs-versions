@@ -1,8 +1,22 @@
-Toggle navigation **Advertise** **Log in** Sign up
-
-*   Log in
+Toggle navigation {{ user.display\_name }}
 
 *   Post
+*   Manage posts
+*   Membership
+*   View profile
+*   Edit profile
+*   Email settings
+*   Invite a friend
+*   Help
+*   Contact
+*   Log out
+
+**Advertise** **Log in** Sign up
+
+*   Home Log in
+
+*   Post
+*   Advertise
 *   Advertise
 *   See All Places
 
@@ -321,9 +335,7 @@ Support
 *   Terms of Use
 *   Privacy Policy
 
-© 2019 Patch Media. All Rights Reserved. Log in Sign up Log in to get started Show Log in Forgot your password?
-
-New to Patch? Sign up now
+© 2019 Patch Media. All Rights Reserved.
 
 Swipe for more from Patch »
 
