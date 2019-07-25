@@ -3,7 +3,7 @@
 *   Certified Used Vehicles
 *   Owners
 *   Espaňol
-*   Your Location:08301
+*   Your Location:67301
 
 *   toyota\_vis\_horiz\_large\_usoc\_paralympics\_mm\_rgb
 *   Select Vehicle
@@ -12,7 +12,7 @@
 *   Build &. Price
 *   Local Specials
 
-ZIP08301
+ZIP67301
 
 Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Need help? Have a question? Get instant answers 24/7.
 
@@ -1137,3 +1137,5 @@ Help
 *   40\. 2019 EPA-estimated 26 city/35 hwy/30 combined mpg for RAV4 LE FWD, XLE FWD, XLE Premium FWD and Limited FWD. 27 city/34 hwy/30 combined mpg for LE AWD. 25 city/33 hwy/28 combined mpg for XLE AWD, XLE Premium AWD, Adventure and Limited AWD. and 41 city/38 hwy/40 combined mpg for RAV4 LE Hybrid, XLE Hybrid, XSE Hybrid and Limited Hybrid. Actual mileage will vary.
 *   41\. 2019 EPA-estimated 41 city/38 hwy/40 combined mpg estimates for RAV4 Hybrid AWD. Actual mileage will vary. Based on 2019 RAV4 Hybrid vs. 2019 competitors. Information from www.fueleconomy.gov as of March 4, 2019.
 *   42\. 2020 EPA-estimated 24 city/31 highway/26 combined mpg for GR Supra 3.0, 3.0 Premium and Launch Edition. Actual mileage will vary.
+
+✕
