@@ -28,8 +28,8 @@ Skip to main navigation
     *   Investor Alerts
 *   Contact Us
 
-Latest Quarterly Earnings Q1 May 8, 2019 at 9:00 AM EST Q1 2019 Office Depot Inc Earnings  
-Click here for webcast view more Latest Quarterly Earnings Q1 May 8, 2019 at 9:00 AM EST Q1 2019 Office Depot Inc Earnings  
+Latest Quarterly Earnings Q2 August 7, 2019 at 9:00 AM EST Q2 2019 Office Depot Inc Earnings  
+Click here for webcast view more Latest Quarterly Earnings Q2 August 7, 2019 at 9:00 AM EST Q2 2019 Office Depot Inc Earnings  
 Click here for webcast view more Investor Relations Company Profile
 
 Office Depot, Inc. (NASDAQ:ODP) is a leading B2B integrated distribution company providing business services and supplies, products and technology solutions through its fully integrated omni-channel platform of approximately 1,350 stores, online presence, and dedicated sales professionals and technicians to small, medium and enterprise businesses. Through its banner brands Office Depot®, OfficeMax®, CompuCom® and Grand&Toy®, the company offers its customers the tools and resources they need to focus on their passion of starting, growing and running their business. For more information, visit news.officedepot.com and follow @officedepot on Facebook, Twitter and Instagram.
@@ -40,20 +40,20 @@ Stock Quote and Chart
 
 Price
 
-$1.96
+$2.05
 
 Change
 
-+0.03
++0.09
 
 Percent Change
 
-(+1.55%)
+(+4.59%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Jul 11, 2019 Office Depot Launches Programs to Help Teachers, Schools and Students Go ‘Back to School Proud’ view more Recent News Jul 11, 2019 Office Depot Launches Programs to Help Teachers, Schools and Students Go ‘Back to School Proud’ view more Events Jun 5, 2019 at 4:55 PM EDT Office Depot Presents at Baird’s Global Consumer, Technology &. Services Conference view more Events Jun 5, 2019 at 4:55 PM EDT Office Depot Presents at Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 05, 2019 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 05, 2019 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more
+Recent News Jul 24, 2019 Office Depot to Announce Second Quarter 2019 Results Wednesday, August 7, 2019 view more Recent News Jul 24, 2019 Office Depot to Announce Second Quarter 2019 Results Wednesday, August 7, 2019 view more Events Aug 7, 2019 at 9:00 AM EDT Q2 2019 Office Depot Inc Earnings Conference Call view more Events Aug 7, 2019 at 9:00 AM EDT Q2 2019 Office Depot Inc Earnings Conference Call view more Presentations Jun 05, 2019 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 05, 2019 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more
 
 *   Home
 *   News &. Events
