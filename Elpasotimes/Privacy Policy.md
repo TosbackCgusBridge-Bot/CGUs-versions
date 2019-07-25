@@ -1,4 +1,4 @@
-SUBSCRIBE NOW99¢ per month. Save 90%.
+SUBSCRIBE NOWfor full access
 
 *   Home
 *   News
@@ -34,7 +34,7 @@ SUBSCRIBE NOW99¢ per month. Save 90%.
 *   search
 
 *   Subscribe
-*   Sign In
+*   salutation
     
     *   Manage Account
     *   Access e-Edition
@@ -60,7 +60,7 @@ SUBSCRIBE NOW99¢ per month. Save 90%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowInmates in prison guard attack have violent historyLocalSeen El Paso’s most wanted fugitives of the week?CrimeTrainer Crawford, jockey Smith team up for winSportsEl Paso protest tells Puerto Rico governor to quitLocalUTEP expands tuition guarantee to more studentsEducationTrainer Muela, jockey Becerra team up for winSportsYISD chief head-butted SISD leader, records showEducationLawyer: El Chapo heads to supermax facilityNewsMissing El Paso woman believed to be in dangerCrimeMan breaks into Family Dollar, steals headphonesNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowThere is no El Paso serial killer, police sayCrimeDomino's Pizza note leads to kidnapped woman's rescueCrimeBody of missing woman, Angelica Vega, found in East El Paso desertCrimeYISD's De La Torre denies head-butting SISD chiefEducationFloor &. Decor chain opens El Paso storeBusinessMissing El Paso mom investigation continuesCrimeBody found in desert east of El PasoCrimeSheriff's Office: Pipe bomb found in drug raidCrimeBoxing suffers another tragic loss from battleBoxingEl Paso police arrest 6 in Facebook 'party' robberyCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
