@@ -219,19 +219,19 @@ Attention: Chief Digital Officer
     *   Why infosec vendors can’t sell to most CISOs
     *   Data management firm exposed client info on open Amazon S3 buckets: researchers
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
-    *   Career advice for current and future CISOs
+    *   Researchers bypass Cylance's AI-based AV solution by masking malware with video game code
     
-    *   Encryption everywhere
-    *   No ID? Get off my cloud
-    *   Thinking outside the inbox
-    *   Drupal patches access bypass vulnerability
-    *   Microsoft, Oracle release security updates
-    
+    *   Democrats press McConnell to bring election security bills to vote
+    *   Cybersecurity executive changes
     *   Equifax to pay up to $425 million for breach in FTC settlement
-    *   Man arrested for hacking Bulgaria’s tax agency released with reduced charges
-    *   Cloud-hosting firm iNSYNQ shut down by MegaCortex ransomware
-    *   Hackers leak documents stolen from contractor for Russian intel agency
-    *   Comparing 5G to Wi-Fi 6 from a security perspective
+    *   Microsoft demos vote verification tool, warns of ongoing foreign meddling
+    *   Coats taps 2018 midterms crisis manager for new election threats exec position
+    
+    *   Data breach cost rises to $4 million per incident. U.S. victims hit even harder
+    *   Banner vulnerability allows remote access to records of more than 60 colleges
+    *   ICCS 2019: AG Barr criticizes strong encryption, European experiment offers teen hackers second chance
+    *   Sophisticated Android spyware toolset 'Monokle' linked to sanctioned Russian defense contractor
+    *   13 vulnerabilities disclosed in U-Boot loader
 
 Back to Top
 
