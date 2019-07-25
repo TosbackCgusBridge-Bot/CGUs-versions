@@ -100,7 +100,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 6%  Twitter 6%  Instagram 6%  Myspace 6%  Google+ 6%  Pinterest 6%  Wikipedia 6%  Music 6%  Photo Albums 6%  Web Search 6%  Images 5% 
+Facebook 5%  Twitter 5%  Instagram 5%  Myspace 5%  Google+ 5%  Pinterest 5%  Wikipedia 5%  Music 5%  Photo Albums 5%  Web Search 5%  Images 5% 
 
 *   About PeekYou
 *   Privacy Policy
