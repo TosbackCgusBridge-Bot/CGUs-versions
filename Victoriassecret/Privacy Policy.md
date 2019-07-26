@@ -8,6 +8,6 @@
 *   BEAUTY
 *   ACCESSORIES
 *   SWIM
-*   SEMI-ANNUAL SALE
+*   SALE
 
 Online Privacy Policy
