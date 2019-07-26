@@ -266,6 +266,7 @@ Need Help
 *   Children's Product Registration
 *   Product Recalls
 *   Privacy Policy
+*   Terms of Use
 
 Delivery Information
 
