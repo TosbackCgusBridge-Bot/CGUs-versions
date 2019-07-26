@@ -1,4 +1,4 @@
-OUR PRIVACY POLICY_Last Updated:_ July 2, 2018
+OUR PRIVACY POLICY_Effective:_ May 25, 2018 _Last Updated:_ July 19, 2019
 
 This privacy policy _(“Privacy Policy”)_ describes how information and data is collected from you when you use this online website, mobile website, application, digital service, or any related products, services, sites, features or functionality (each a _“Service”_, collectively the _“Services”_) and how Leaf Group Ltd., including its subsidiaries/affiliates Society 6, LLC, Saatchi Online, Inc., and Well+Good, LLC (_“Leaf Group”_, _“we”_, _“us”_, _or_ _“our”_), uses, shares and manages your information and data. By using any of the Services, you consent to the collection, use, processing, and sharing of your information as described in this Privacy Policy.
 
@@ -6,7 +6,7 @@ This privacy policy _(“Privacy Policy”)_ describes how information and data 
 
 > We are committed to recognizing and respecting your privacy rights by keeping you informed and processing and protecting your personal data in compliance with applicable data protection laws and regulations _(“Data Protection Laws”)_.
 > 
-> Effective May 25th, 2018, if you are subject to European Union Data Protection Laws _(“EU Users”)_, our processing of your personal data will comply with the Regulations (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016, known as the General Data Protection Regulation _(“GDPR”)_.
+> If you are located outside of the United States and you choose to use the Services or provide your information to us, your data may be transferred to, processed and maintained on servers, databases or cloud storage facilities located in the United States. Your use of the Services represents your consent and agreement to these practices. If you do not want your data transferred to or processed or maintained in the United States, you should not use the Services.
 
 2\. Information that We Collect from You
 
@@ -22,17 +22,17 @@ This privacy policy _(“Privacy Policy”)_ describes how information and data 
 > *   _User Name_
 > *   _Password_
 > *   _Other Registration Information_
-> *   _Customer Support or Technical Information you provide when you contact us with questions about your use of the Services and a record of such correspondence_
+> *   _Customer Support or Technical Information you provide when you contact us with questions about your use of the Services_
 > *   _Details of transactions you carry out through the Services, your purchases, and the fulfillment of orders we provide to you_
 > *   _Other information you may provide to us through promotions or surveys_
 > 
 > _User Profile Data_
 > 
-> We may also offer you the option to create a user profile that may be visible to other users of the Services. If you are a registered user you may also be able to adjust your account settings through your user account. We note that, even if you adjust your settings so that your user profile remains private, we will still be able to access and view the information you provide as part of your user profile.
+> In addition to the data listed above, we may offer you the option to create a user profile to describe yourself that may be visible to other users of the Services. If you are a registered user you may also be able to adjust your account settings through your user account. We note that, even if you adjust your settings so that your user profile remains private, we will still be able to access and view the information you provide as part of your user profile.
 > 
 > _Public Data You Post Through the Services_
 > 
-> If you post information on public areas of the Services, that data may be collected and used by us, other users of the Services, and the public generally, such as reviews, comments, and user content. We strongly recommend that you do not post any information through the Services that allows strangers to identify or locate you or that you otherwise do not want to share with the public.
+> If you post information on public areas of the Services, such as reviews, comments, and user content, that data may be collected and used by us, other users of the Services, and the public generally. We strongly recommend that you do not post any information through the Services that allows strangers to identify or locate you or that you otherwise do not want to share with the public.
 > 
 > _Usage Data We Automatically Collect from You_
 > 
@@ -59,8 +59,6 @@ This privacy policy _(“Privacy Policy”)_ describes how information and data 
 > _Providing Marketing and Promotion Materials_
 > 
 > We and our service providers may use the data you provide or that is collected through the Services to provide you with updates, offers, and promotions, where you have chosen to receive these. We may also use your information for marketing our own and our selected business partners’ products and services to you by email and, where required by law, we will ask for your consent at the time we collect your data to conduct any of these types of marketing. If you wish to unsubscribe from receiving marketing communications from us by email, please follow the instructions contained in each email you receive from us describing how you can unsubscribe from receiving further marketing communications from us.
-> 
-> _Legal Bases:_ consent, legitimate interest where consent is not required (to keep you updated with news in relation to our products and services)
 > 
 > _Advertising and Third Party Content and Links_
 > 
@@ -138,6 +136,8 @@ This privacy policy _(“Privacy Policy”)_ describes how information and data 
 
 > We acknowledge your right to access and control your personal data in accordance with applicable Data Protection Laws.
 > 
+> Effective May 25th, 2018, if you are subject to European Union Data Protection Laws (_“EU Users”_), our processing of your personal data will comply with the Regulations (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016, known as the General Data Protection Regulation (_“GDPR”_).
+> 
 > _Accessing, Correcting or Deleting Your Information_
 > 
 > For EU Users, to request access to or correction of your personal data in accordance with applicable Data Protection Laws, you may send an e-mail to _Privacy.GDPR@leafgroup.com_ or a letter to:
@@ -151,53 +151,49 @@ This privacy policy _(“Privacy Policy”)_ describes how information and data 
 > 
 > For EU Users, if you'd like us to delete information that you have provided through the Services, please contact us at _Privacy.GDPR@leafgroup.com_ and we will respond in a reasonable time in accordance with applicable Data Protection Laws. Please note that some or all of the information you provided may be required in order for the Services to function properly or may be automatically retained in backup storage or records retention archival storage.
 > 
-> _EU Users - Portability of Your Personal Data_
+> _Portability of Your Personal Data_
 > 
-> Data portability is the ability to obtain some of your information in a format you can move from one service provider to another in accordance with applicable Data Protection Laws. Depending on the context and applicable Data Protection Laws, this applies to some of your information, but not to all of your information. For EU Users, should you request it, we will provide you with an electronic file of your basic account information and the information under your sole control in accordance with applicable Data Protection Laws.
+> For EU Users, should you request it, we will provide you with an electronic file of your basic account information and the information under your sole control in accordance with applicable Data Protection Laws.
 > 
-> _California Residents_
+> Data portability is the ability to obtain some of your information in a format you can move from one service provider to another in accordance with applicable Data Protection Laws. Depending on the context and applicable Data Protection Laws, this applies to some of your information, but not to all of your information.
+
+6\. EU Users and Swiss Users - Privacy Shield (For EU and Swiss Data Transferred Into the US)
+
+> We comply with the _EU-US Privacy Shield Framework_ and the _Swiss-US Privacy Shield Framework_ as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles with respect to such data.
 > 
+> If there is any conflict between the terms of this this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles will govern. To learn more about the Privacy Shield program, and to view our certification page, please visit _https://www.privacyshield.gov/_.
+> 
+> Pursuant to the EU-US and Swiss-US Privacy Shield Frameworks, the following statements apply:
+> 
+> *   _\-_ We are subject to the jurisdiction and enforcement authority of the U.S. Federal Trade Commission (FTC);
+> *   _\-_ We are liable for the onward transfer of personal data to third parties acting as our agents unless we can prove we were not a party giving rise to the damages. and
+> *   _\-_ We may be required to release EU and Swiss personal data in response to lawful requests by public authorities including to meet national security and law enforcement requirements
+> 
+> In compliance with the EU-US and Swiss-US Privacy Shield Principles, we are committed to resolving complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact us at _legal@leafgroup.com_.
+> 
+> We have further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the _BBB EU PRIVACY SHIELD_, a non-profit alternative dispute resolution provider located in the United States and operated by BBB National Programs, Inc. (BBB NP). If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit _http://www.bbb.org/EU-privacy-shield/for-eu-consumers/_ for more information and to file a complaint. This service is provided free of charge to you.
+> 
+> If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms.  See Privacy Shield Annex 1 at https://www.privacyshield.gov/article?id=ANNEX-I-introduction
+
+7\. California Residents
+
 > If you are a California resident under the age of 18 and are a registered user of the Services, you may request that we remove content or information about you that you posted on the Services by: (a) submitting a request in writing to _legal@leafgroup.com_. and (b) clearly identifying the content or information you wish to have removed and providing sufficient information to allow us to locate the content or information to be removed. However, please note that we are not required to, and may not be able to, erase or otherwise eliminate content or information if: (i) other state or federal laws require us or a third party to maintain the content or information. (ii) the content or information was posted, stored, or republished by another user. (iii) the content or information is anonymized so that you cannot be individually identified. (iv) you do not follow the instructions posted in this Privacy Policy on how to request removal of your content or information. or (v) you have received compensation or other consideration for providing the content. Further, nothing in this provision shall be construed to limit the authority of a law enforcement agency to obtain the applicable content or information.
 
-6\. Transfer of Data Outside Your Country of Residence
-
-> If you are located outside of the United States and you choose to use the Services or provide your information to us, your data may be transferred to, processed and maintained on servers, databases or cloud storage facilities located in the United States. Your use of the Services represents your consent and agreement to these practices. If you do not want your data transferred to or processed or maintained in the United States, you should not use the Services.
-> 
-> _EU Users and Swiss Users - Privacy Shield_
-> 
-> We comply with the _EU-US Privacy Shield Framework_ and the _Swiss-US Privacy Shield Framework_ as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles of:
-> 
-> *   _Notice_
-> *   _Choice_
-> *   _Accountability for Onward Transfer_
-> *   _Security_
-> *   _Data Integrity and Purpose Limitation_
-> *   _Access_
-> *   _Recourse, Enforcement, and Liability_
-> 
-> If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles will govern. To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/.
-> 
-> In compliance with the EU-US and Swiss-US Privacy Shield Principles, we are committed to resolving complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact us at _legal@leafgroup.com_.
-> 
-> We have further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the _BBB EU PRIVACY SHIELD_, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit http://www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint.
-> 
-> Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
-
-7\. The Privacy of Children
+8\. The Privacy of Children
 
 > The Services are not intended for children under age 16. We do not knowingly collect or distribute personal information from or about children under the age of 16. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at _legal@leafgroup.com_.
 
-8\. Security Measures and Storage Limits
+9\. Security Measures and Storage Limits
 
 > We provide industry-standard physical, electronic, and procedural safeguards to protect personal data we process and maintain. For example, we take reasonable measures to limit access to this data to authorized employees and contractors who need to know that information in order to operate, develop or improve our Services. Please be aware that, although we endeavor to provide reasonable security for data we process and maintain, no security system can prevent all potential security breaches. As a result, we cannot guarantee or warrant the security of any information you transmit on or through the Services and you do so at your own risk.
 > 
 > Our retention periods for personal data are based on our business needs and legal requirements. We retain personal data for as long as is necessary for the processing purpose(s) for which the information was collected, and any other permissible, related purpose. For example, we may retain certain transaction details and correspondence until the time limit for claims arising from the transaction has expired, or to comply with regulatory requirements regarding the retention of such data. When personal data is no longer needed, we either irreversibly anonymize the data (and we may further retain and use the anonymized information) or securely destroy the data.
 
-9\. Updates to this Privacy Policy
+10\. Updates to this Privacy Policy
 
 > We will notify you of material changes to this Privacy Policy by at least thirty (30) days before the effective date of the changes. If you do not agree to such changes following such notice, you should discontinue your use of the Services prior to the time the modified privacy policy takes effect. If you continue using the Services after the modified privacy policy takes effect, you will be bound by the modified privacy policy
 
-10\. Contact Us
+11\. Contact Us
 
 > If you have questions about this Privacy Policy, you may contact us at legal@leafgroup.com or send a letter to:
 > 
