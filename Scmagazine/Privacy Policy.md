@@ -216,22 +216,22 @@ Attention: Chief Digital Officer
     *   Recent
     
     *   Huawei products riddled with backdoors, zero days and critical vulnerabilities
+    *   APT34 spread malware via LinkedIn invites
     *   Why infosec vendors can’t sell to most CISOs
-    *   Data management firm exposed client info on open Amazon S3 buckets: researchers
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
-    *   Researchers bypass Cylance's AI-based AV solution by masking malware with video game code
+    *   Data management firm exposed client info on open Amazon S3 buckets: researchers
     
-    *   Democrats press McConnell to bring election security bills to vote
-    *   Cybersecurity executive changes
-    *   Equifax to pay up to $425 million for breach in FTC settlement
-    *   Microsoft demos vote verification tool, warns of ongoing foreign meddling
-    *   Coats taps 2018 midterms crisis manager for new election threats exec position
+    *   Automated security services essential for cloud security
+    *   APT34 spread malware via LinkedIn invites
+    *   Sprint customer data breached via Samsung website flaw
+    *   GAO office audit finds more vulnerabilities at IRS
+    *   Cryptojacking: The growing malware menace
     
+    *   FTC levies historic fine on Facebook for privacy violations
+    *   Why is election security a partisan issue?
     *   Data breach cost rises to $4 million per incident. U.S. victims hit even harder
     *   Banner vulnerability allows remote access to records of more than 60 colleges
     *   ICCS 2019: AG Barr criticizes strong encryption, European experiment offers teen hackers second chance
-    *   Sophisticated Android spyware toolset 'Monokle' linked to sanctioned Russian defense contractor
-    *   13 vulnerabilities disclosed in U-Boot loader
 
 Back to Top
 
