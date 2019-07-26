@@ -34,16 +34,16 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
         
         *   SHOP ALL WOMEN'S
         *   New Arrivals
+        *   Billabong X Summer McKeen
         *   Brill Boutique
         *   Buckle Exclusives
         *   buckle SELECT
-        *   Now Trending
         *   Gift Cards
-        *   Special Offers
-        *   Shop by Outfit
-        *   Women's Brands
         *   Loyalty Event
-        *   Billabong X Summer McKeen
+        *   Now Trending
+        *   Shop by Outfit
+        *   Special Offers
+        *   Women's Brands
         
         *   Clothing
         
@@ -70,6 +70,7 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
         *   Crops &. Capris
         *   Shorts
         *   Curvy Jeans
+        *   KanCan Kurvy
         *   Jeans Under $75
         *   Shop All
         
@@ -105,12 +106,12 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
         *   New Arrivals
         *   Buckle Exclusives
         *   buckle SELECT
-        *   Now Trending
         *   Gift Cards
-        *   Men's Brands
-        *   Special Offers
-        *   Shop by Outfit
         *   Loyalty Event
+        *   Men's Brands
+        *   Now Trending
+        *   Shop by Outfit
+        *   Special Offers
         
         *   Clothing
         
@@ -199,8 +200,9 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
         *   Bootcut
         *   Flare
         *   High Waisted
-        *   Cropped
         *   Black Jeans
+        *   High Waisted
+        *   KanCan Kurvy
         *   Women's Denim Guide
         *   Shop All
         
