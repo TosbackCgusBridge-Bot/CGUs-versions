@@ -3,13 +3,42 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Fandango
 *   Go
 
-*   Movies
+*   Movies Now Playing
     
+    *   The Lion King (2019)
+    *   Spider-Man: Far From Home (2019)
+    *   Toy Story 4
+    *   Crawl (2019)
+    *   Yesterday (2019)
+    *   Stuber
+    *   Aladdin (2019)
+    *   Annabelle Comes Home
+    *   Midsommar
+    *   The Secret Life of Pets 2
+    *   Avengers: Endgame (2019)
     *   See All Now Playing
     
-    \= Limited Release
+    Opening This Week = Limited Release
     
+    *   Once Upon a Time in Hollywood
+    *   The Ground Beneath My Feet
+    *   Honeyland
+    *   Mike Wallace Is Here
+    *   See You Soon (2019)
     *   See All Opening This Week
+    
+    Coming Soon
+    
+    *   Fast &. Furious Presents: Hobbs &. Shaw
+    *   Dora and the Lost City of Gold
+    *   Scary Stories to Tell in the Dark
+    *   The Kitchen (2019)
+    *   Brian Banks
+    *   The Art of Racing in the Rain
+    *   47 Meters Down: Uncaged
+    *   Good Boys
+    *   Blinded by the Light
+    *   See All Coming Soon
     
     Explore More
     *   Watch Trailers on MovieClips
@@ -71,7 +100,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Promo Code Policy Fandango Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseTicket PolicyPromo Code PolicyFandango Gift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyVIP+ Program Terms en Español | en Français | auf Deutsch
 
-Last updated: April 30, 2019
+Last updated: July 25, 2019
 
 This Privacy Policy describes the privacy practices of Fandango Media, LLC and its subsidiary companies, including the businesses operating under the Fandango, FandangoNOW, Rotten Tomatoes, Flixster, Movieclips, Movies.com, Activaterewards.com, Fandango FanShop, MovieTickets.com, or M-GO brands ("Fandango", "we", "our" or "us"), with respect to how we collect, use, disclose and transfer the information you provide when you interact with us via those of our websites, applications, emails and other communications that link to or reference this policy (the "Services"). For European users of Rotten Tomatoes, please see additional provisions in Section 14.
 
@@ -105,7 +134,7 @@ When the Services receive or collect information, that information is being rece
 
 There are two main types of information we collect about users of the Services:
 
-*   **"Personally Identifiable Information"** is information that identifies you and may include, for example, your full (i.e., first and last) name, phone number, email address, postal address, credit or other payment card number, and photos of you or other individuals.
+*   **"Personally Identifiable Information"** is information that on its own identifies you and may include, for example, your full (i.e., first and last) name, phone number, email address, postal address, credit or other payment card number, and photos of you or other individuals.
 *   **"Non-Personally Identifiable Information"** is information that relates to you or the computer or device you use to access the online Services, but does not on its own identify you personally. This information may include (for example), information about your use of the Services, including web pages you have visited, apps you have downloaded, parts or functions of the Services you have used or viewed, gameplay data, content you have accessed or viewed, advertising sent to you or that you have viewed, transaction history, IP address and device identifiers, information about your Internet connection, information about the equipment or software you use to access the Services, and information you provide to or post on message boards or chat rooms that are part of the Services.
 
 2\. HOW WE COLLECT INFORMATION FROM YOU
@@ -139,7 +168,7 @@ We (and our service providers) may use the information we collect about you for 
 
 4\. HOW WE SHARE INFORMATION ABOUT YOU
 
-We may share Non-Personally Identifiable Information, such as aggregate data and information about your use of the Services with third parties. We may also share information about you as disclosed at the time you provide that information, as set forth in this Privacy Policy, and in the following circumstances:
+We may share Non-Personally Identifiable Information, such as aggregate data and information about your use of the Services with third parties. When we reference third parties (or providing third parties information) in this privacy policy, we also mean any companies receiving data from such third parties. We may also share information about you as disclosed at the time you provide that information, as set forth in this Privacy Policy, and in the following circumstances:
 
 *   **_Fandango's Owners and Subsidiaries:_** As stated at the beginning of this Privacy Policy, when the Services receive or collect information from you, that information is being received and collected by Fandango under this Privacy Policy, as well as by each of Fandango's Owners, each under its own respective privacy policy. Fandango's Owners are currently NBC/Universal and Warner Bros. If you want to learn more about the privacy practices of NBC/Universal and Warner Bros., we encourage you to review their policies (linked below):
     *   NBC/Universal Privacy Policy
@@ -322,4 +351,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
