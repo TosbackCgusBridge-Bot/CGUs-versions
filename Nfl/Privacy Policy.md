@@ -4,28 +4,6 @@
 *   Standings
 *   Training Camp
 *   NFL 100
-*   Fantasy
-*   Tickets
-*   Shop
-*   Teams
-*   Game Pass
-*   Super Bowl
-*   Combine
-*   Draft
-*   Highlights
-*   Stats
-*   Next Gen Stats
-*   Ways to Watch
-*   NFL Network
-*   Photos
-*   NFL Films
-
-*   News
-*   Scores
-*   Schedule
-*   Standings
-*   Training Camp
-*   NFL 100
 
 *   NFL 100
 *   Fantasy
@@ -41,11 +19,6 @@
     *   NFL Network
     *   Photos
     *   NFL Films
-
-*   Fantasy
-*   Tickets
-*   Shop
-*   Teams
 
 NFL.com - Privacy Policy English
 
