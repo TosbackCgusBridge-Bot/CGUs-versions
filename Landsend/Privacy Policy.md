@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off 1 full-price item!
+Receive 40% off full-price styles. additional 10% off sale and clearance styles!
 
-code: DAISY pin: 2874 DETAILS
+code: EXTRA pin: 2001 DETAILS
 
 Customer Service Menu
 
