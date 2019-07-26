@@ -7,7 +7,7 @@ Skip Navigation
         *   AT&T Communications Profile
         *   Leadership
         *   5G
-        *   AT&T Believes℠
+        *   AT&T BelievesSM
         *   Business
         *   Devices &. Entertainment
         *   Innovation &. Technology
@@ -36,19 +36,17 @@ Skip Navigation
 *   Values
     *   Our Values
     *   Social Responsibility
-        *   It Can Wait
-        *   Education Initiatives
-        *   Community Investment
-        *   People
-        *   Planet
+        *   Environment
+        *   Society
+        *   Governance
+        *   Workforce
         *   WarnerMedia CSR
         *   AT&T Mexico CSR
         *   Vrio CSR
-        *   CSR Reporting
-        *   Site Map
+        *   Reporting
     *   Diversity &. Inclusion
     *   Ethics &. Compliance
-    *   AT&T Believes
+    *   AT&T BelievesSM
 *   Careers
 *   News
     *   All News
