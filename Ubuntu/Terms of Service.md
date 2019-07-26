@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Getting started with AI ›
+*   Handy productivity software for your home and office ›
+*   The 10 new rules of open source infrastructure ›
 *   Getting Started with Knative on Ubuntu ›
 *   Mir support for Wayland ›
-*   BT turns to Canonical Ubuntu to enable next generation 5G Cloud Core ›
-*   Getting started with Ubuntu Core – streaming video from a Raspberry Pi ›
-*   Community Snapcrafter on MicroK8s, summits and the evolving nature of snaps ›
