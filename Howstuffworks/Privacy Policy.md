@@ -229,11 +229,13 @@ Print | Citation &. Date | Reprint
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksRidiculous History: 3 Times Society Refused to Accept Books on New Science1STEarly Humans Mated With Inbred Neanderthals — at a Cost2NDHowStuffWorks NOW: The Shocking Way To Make Chocolate Taste Better3RDHow much should your child get for allowance?4THAuto Overload | Sponsored34 Vintage Photos Not Suitable For Audiences TodayAuto Overload | Sponsoredpostfun.com | SponsoredThese Twins Were Named "Most Beautiful In The World," Wait Till You See Them Todaypostfun.com | SponsoredAuto Overload | Sponsored20 Times Google Street View Captured Some Ridiculous MomentsAuto Overload | SponsoredLivestly | SponsoredRare Photos Not Appropriate For History BooksLivestly | Sponsored -HowStuffWorks NOW: Meet Graham, the Car-proof Man
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksWhen College-bound Kids Have Their Acceptances Revoked1STHowStuffWorks NOW: The Shocking Way To Make Chocolate Taste Better2NDHow much should your child get for allowance?3RDEarly Humans Mated With Inbred Neanderthals — at a Cost4THAuto Overload | Sponsored34 Vintage Photos Not Suitable For Audiences TodayAuto Overload | SponsoredSoGoodly | SponsoredThese Ridiculous Airport Photos Will Make You Cry LaughingSoGoodly | SponsoredAuto Overload | Sponsored20 Times Google Street View Captured Some Ridiculous MomentsAuto Overload | SponsoredLivestly | SponsoredRare Photos Not Appropriate For History BooksLivestly | Sponsored -Visitor Agreement
 
-people-educationWhen College-bound Kids Have Their Acceptances RevokedBY Julia Layton-HowStuffWorks NOW: Airplane Foolery: Stacking Passengers
+\-HowStuffWorks NOW: Airplane Foolery: Stacking Passengers
 
-scienceglory.com | SponsoredNew Evidence on Eerie Easter Island is Changing What We Knewscienceglory.com | SponsoredGreeningz | SponsoredThis Photo Is Not Edited, Look CloserGreeningz | Sponsored Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksHow to Post an Ad on CraigslistWhere do bullets go when guns are fired straight up into the air?Does Social Security continue after a spouse dies?How to Write an Acceptance Letter for a New JobWhy do most zippers say "YKK" on the pull-tab?Family Tree of Homo Sapiens Continues to Evolveby Taboolaby Taboola
+scienceWhere do bullets go when guns are fired straight up into the air?
+
+Far &amp. Wide | Sponsored45 Amazing World MapsFar &. Wide | Sponsoredpostfun.com | SponsoredThese Twins Were Named "Most Beautiful In The World," Wait Till You See Them Todaypostfun.com | Sponsored Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksRidiculous History: 3 Times Society Refused to Accept Books on New ScienceHow to Write an Acceptance Letter for a New JobWhat is withholding tax allowance?Why do most zippers say "YKK" on the pull-tab?How Billy the Kid Really DiedWhat causes 'old person' smell?by Taboolaby Taboola
 
 *   About
 *   Podcasts
