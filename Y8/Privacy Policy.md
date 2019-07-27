@@ -9,34 +9,34 @@ New Games Next in  xx:xx
 
 *   Most Liked Best games from last 2 months
 
-Categories &. more Hey, join us on the Y8 Discord chat! Find discussions related to Y8's top games. Don’t hesitate to join the Y8 Discord! Go to Y8 Discord Hide LIBRARY
+Categories &. more LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1384 games
-*   Most Popular Games 19577 games
+*   Best of new games 1380 games
+*   Most Popular Games 19582 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,291 games
+*   Games for girls 24,295 games
 *   Driving &. Racing Games 6,850 games
 *   Strategy &. RPG Games 2,428 games
-*   Management Games 3,664 games
-*   Thinking Games 12,240 games
-*   Action &. Adventure Games 16,308 games
-*   Sports Games 2,274 games
-*   Shooting Games 8,507 games
+*   Management Games 3,663 games
+*   Thinking Games 12,241 games
+*   Action &. Adventure Games 16,311 games
+*   Sports Games 2,275 games
+*   Shooting Games 8,508 games
 *   Fighting Games 2,094 games
-*   Skill Games 11,395 games
-*   Arcade &. Classic Games 13,248 games
+*   Skill Games 11,399 games
+*   Arcade &. Classic Games 13,253 games
 *   Fun &. Crazy Games 2,555 games
 
 Play with friends  
 Powered by Y8 Account 128 Y8 Multiplayer Games 2,052 Y8 High Score Games 1,159 Y8 Achievements Games 823 Y8 Screenshots Games 1,475 Y8 Online Save Games 3,113 All Y8 Games Games Last Highscore:
 
-**1,164** points on Orion Sandbox by Jacker
+**3,263,500** points on Idle Choco Tycoon by discobeardie
 
 Help us improve Bad translation? Social
 
