@@ -72,7 +72,6 @@ Main menuSONY
     *   Companion Robots
     *   Digital Paper
     *   Future Experience Program
-    *   Life Space UX
     *   Engagement App Development
     *   Robotics KitsView AllAll ElectronicsSee Professional Products<img src="//www.sony.com/image/73af50e8d496b98be27c316fba0cb511?fmt=jpeg&amp;wid=218" alt="" class="iq-img">Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up<img src="//www.sony.com/image/7c02f7a959732e31b9d2127dadf58ee2?fmt=jpeg&amp;wid=218" alt="" class="iq-img">A smarter home for a smarter lifeSony’s suite of voice assistant enabled and compatible products works together seamlessly to make life easier 
 *   PlayStation
@@ -141,7 +140,7 @@ With a New Full-Frame Lens
 *   Share on Twitter: Take Your Best Shot
 *   Copy URL to Share: Take Your Best Shot
 
-<img class="bg-img" data-linkname="en:set\_a:position\_2|\_1x1-5:image:professional:FullFrameLens-July-22-2019:pro:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Take Your Best Shot Full-Frame-Lens" data-img1x="/content/dam/sony/homepage/2019-july/july-22/SEL35F18F-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-22/SEL35F18F-600x600.jpg" src="/content/dam/sony/homepage/2019-july/july-22/SEL35F18F-600x600.jpg" alt="Full-Frame 35mm f/1.8 Prime Lens"/>. <img class="bg-img" data-linkname="en:set\_a:position\_2|\_1x1-5:image:professional:FullFrameLens-July-22-2019:pro:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Take Your Best Shot Full-Frame-Lens" data-img1x="/content/dam/sony/homepage/2019-july/july-22/SEL35F18F-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-22/SEL35F18F-600x600.jpg" src="/content/dam/sony/homepage/2019-july/july-22/SEL35F18F-600x600.jpg" alt="Full-Frame 35mm f/1.8 Prime Lens Mobile"/>. ×Ready to see “Once Upon a Time in…Hollywood” this weekend? 🎬
+<img class="bg-img" data-linkname="en:set\_a:position\_2|\_1x1-5:image:professional:FullFrameLens-July-22-2019:pro:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Take Your Best Shot Full-Frame-Lens" data-img1x="/content/dam/sony/homepage/2019-july/july-22/SEL35F18F-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-22/SEL35F18F-600x600.jpg" src="/content/dam/sony/homepage/2019-july/july-22/SEL35F18F-600x600.jpg" alt="Full-Frame 35mm f/1.8 Prime Lens"/>. <img class="bg-img" data-linkname="en:set\_a:position\_2|\_1x1-5:image:professional:FullFrameLens-July-22-2019:pro:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Take Your Best Shot Full-Frame-Lens" data-img1x="/content/dam/sony/homepage/2019-july/july-22/SEL35F18F-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-22/SEL35F18F-600x600.jpg" src="/content/dam/sony/homepage/2019-july/july-22/SEL35F18F-600x600.jpg" alt="Full-Frame 35mm f/1.8 Prime Lens Mobile"/>. ×Ready to see “Once Upon a Time in…Hollywood” 🎬
 
 *   Can't wait
 *   Maybe later
@@ -184,7 +183,7 @@ With Authentic Sound
 
 Your chance to attend the red carpet premiere of The #AngryBirdsMovie2 in Los Angeles is here. Use your points &. bid now on this #ShowStopper:  https://go.sony.com/2M7b2TF  pic.twitter.com/SsOuqyEsCf
 
-3 days ago View Tweet
+4 days ago View Tweet
 
 Kirsten Dunst Returns to the ’90s in “On Becoming a God in Central Florida”
 
