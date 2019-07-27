@@ -1,5 +1,10 @@
 × Contact Us
 
+1.  NPS.gov
+2.  Home
+3.  Notices
+4.  Privacy Policy
+
 Privacy Policy
 
 We collect no personal information about you when you visit our website unless you choose to provide this information to us. However, we collect and store certain information automatically. Here is how we handle information about your visit to our website. (Read the mobile application privacy policy for information about how your data is handled in NPS apps.)
