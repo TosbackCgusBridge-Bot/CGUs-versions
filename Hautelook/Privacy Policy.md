@@ -9,8 +9,32 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
+    *   Topshop Starting at $15
+    *   LAGOS Jewelry
+    *   Dolce Vita Up to 55% Off
+    *   Meghan LA
+    *   Hale Bob
+    *   Brands We Love: French Connection &. More
+    *   Oliver Peoples &. More: Sun Up to 75% Off
+    *   Sweet Rain: Florals, Stripes &. More
+    *   Reebok Men
+    *   ASH
+    *   Luxe Skin Care ft. D24K
+    *   Palettes, Blushes &. Sets We Love
+    *   b.tempt'd by Wacoal Under $25
+    *   Chic Coats ft. DKNY Incl. Plus
+    *   Reebok
+    *   Reebok Kids &. More
+    *   Stock Up: Sandals Under $30
+    *   Reebok Men's Active &. Swim Under $30
+    *   Miniclasix
+    *   Nordstrom Rack Dress Shirts &. Ties
+    *   Exclusive Pairs: Men's Shoes ft. Public Opinion
+    *   Free Shipping: Barware, Dinnerware &. More
+    *   Free Shipping: Art for Every Room at $40
     *   Gucci Accessories &. More
     *   Schutz Up to 60% Off
+    
     *   Set Style to Party: ASTR the Label
     *   Marina Incl. Plus &. Petites
     *   Denim Under $40 Incl. Plus &. Petites
@@ -20,11 +44,9 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Men's Premium Denim Shop ft. Hudson Jeans &. More
     *   Rugged Footwear for Men ft. adidas
     *   Trask &. Antelope Up to 65% Off
-    *   Pair Up: Panty Packs Under $20
     *   Demeter Fragrance Library
     *   Summer Suede Shoes Up to 60% Off
     *   adidas Outdoor Shoes
-    *   Shinola at 75% Off
     *   Ayesha Curry Cookware &. More
     *   Free Shipping: Storage Must-Haves from $10
     *   Pretty on the Fly: Luggage Up to 75% Off
@@ -34,70 +56,62 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Wear to Work: Calvin Klein Shoes &. Franco Sarto
     *   Dress for the Occasion: Vacation-Ready Styles
     *   Dress for the Occasion: Wear-to-Work Styles
-    
     *   Dress for the Occasion: Night Out Styles
-    *   CeCe by Cynthia Steffe Up to 75% Off Incl. Petites
-    *   Lush
-    *   Make It Fun: Pam &. Gela and More
     *   Handcrafted in Spain: UNOde50 Jewelry
-    *   Flynn Skye
-    *   Cosabella Lingerie &. Sleep
-    *   Fall Outerwear Sneak Peek ft. Save the Duck
     *   Gold Jewelry &. More Starting at $15
     *   Spa-Like Luxury Beauty Devices
+    
     *   Onia Men Up to 70% Off
-    *   Sigerson Morrison Up to 55% Off
     *   Commuter Bags ft. Solo New York
-    *   Animal Print Shoes Up to 55% Off
-    *   Back to Cool: Sneakers &. Slip-Ons Up to 60% Off
-    *   Crocs Men Starting at $15
+    *   Pair Up: Panty Packs Under $20
     *   Hybrid Green Label Up to 75% Off
     *   Pool Party: Floats, Games, Towels &. More from $10
     *   Back-to-School Ready: 7 For All Mankind Kids
     *   Fun Tech Finds Under $40
     *   Automatic Robot Vacuums &. More Up to 65% Off
     *   Free Shipping: Bedding Essentials Up to 75% Off
-    *   Free People Up to 60% Off
-    *   Jenny Bird Jewelry Up to 75% Off
-    *   Original Penguin Suiting Up to 60% Off
-    
-    *   Pastourelle by Pippa &. Julie
     *   Cover Roots &. Grays: TRUHAIR
-    *   Original Penguin Clothing Up to 60% Off
+    *   Crocs Men Starting at $15
+    *   Shinola at 75% Off
+    *   Time to Upgrade: Bands for Fitbit Up to 75% Off
+    *   Keep It Quirky: Quotable Accents for Every Room
     *   Original Penguin Shoes Up to 65% Off
     *   Kenneth Cole New York Men
-    *   See Kai Run
-    *   Joe Fresh Kids Under $10
-    *   Aldo Men
     *   From the Hive: Manuka Honey Skin Care
-    *   Time to Upgrade: Bands for Fitbit Up to 75% Off
+    *   Terre Mere Organic Beauty Up to 75% Off
     *   Kitchen Prep ft. Cuisinart, Vitamix &. More
-    *   Stila: Best Sellers Under $30
-    *   Neon &. Co. Hair Masks, Treatments &. More
     *   Kitchen Essentials Starting at $10
     *   Free Shipping: Chic Planters &. More from $10
-    *   Free People Lingerie
-    *   14K Gold &. More Under $80
-    *   Original Penguin Luggage Up to 70% Off
-    *   Terre Mere Organic Beauty Up to 75% Off
-    *   Keep It Quirky: Quotable Accents for Every Room
     *   Free Shipping: Pop Culture Art &. More Up to 50% Off
-    *   Kitchen Gadgets &. Storage Starting at $10
     *   Free Shipping: Amrapur Towels Up to 75% Off
     *   Free Shipping: Decals for Every Wall &. More
-    *   Keep It Sassy: Fun Pouches, Towels &. Coasters
 *   WomenShop Sale Events
     
+    *   Topshop Starting at $15
+    *   LAGOS Jewelry
+    *   Dolce Vita Up to 55% Off
+    *   Meghan LA
+    *   Hale Bob
+    *   Brands We Love: French Connection &. More
+    *   Oliver Peoples &. More: Sun Up to 75% Off
+    *   Sweet Rain: Florals, Stripes &. More
+    *   ASH
+    *   Luxe Skin Care ft. D24K
+    *   Palettes, Blushes &. Sets We Love
+    *   b.tempt'd by Wacoal Under $25
+    *   Chic Coats ft. DKNY Incl. Plus
+    *   Reebok
+    *   Stock Up: Sandals Under $30
     *   Gucci Accessories &. More
     *   Schutz Up to 60% Off
     *   Set Style to Party: ASTR the Label
     *   Marina Incl. Plus &. Petites
     *   Denim Under $40 Incl. Plus &. Petites
     *   Velvet Torch
+    
     *   On-Trend: Leather Bracelets &. More from $15
     *   Free Press &. Shimera
     *   Trask &. Antelope Up to 65% Off
-    *   Pair Up: Panty Packs Under $20
     *   Demeter Fragrance Library
     *   Summer Suede Shoes Up to 60% Off
     *   adidas Outdoor Shoes
@@ -108,53 +122,38 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Dress for the Occasion: Vacation-Ready Styles
     *   Dress for the Occasion: Wear-to-Work Styles
     *   Dress for the Occasion: Night Out Styles
-    *   CeCe by Cynthia Steffe Up to 75% Off Incl. Petites
-    
-    *   Lush
-    *   Make It Fun: Pam &. Gela and More
     *   Handcrafted in Spain: UNOde50 Jewelry
-    *   Flynn Skye
-    *   Cosabella Lingerie &. Sleep
-    *   Fall Outerwear Sneak Peek ft. Save the Duck
     *   Gold Jewelry &. More Starting at $15
     *   Spa-Like Luxury Beauty Devices
-    *   Sigerson Morrison Up to 55% Off
-    *   Animal Print Shoes Up to 55% Off
-    *   Back to Cool: Sneakers &. Slip-Ons Up to 60% Off
-    *   Free People Up to 60% Off
-    *   Jenny Bird Jewelry Up to 75% Off
+    *   Pair Up: Panty Packs Under $20
     *   Cover Roots &. Grays: TRUHAIR
     *   From the Hive: Manuka Honey Skin Care
-    *   Stila: Best Sellers Under $30
-    *   Neon &. Co. Hair Masks, Treatments &. More
-    *   Free People Lingerie
-    *   14K Gold &. More Under $80
-    *   Original Penguin Luggage Up to 70% Off
     *   Terre Mere Organic Beauty Up to 75% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
     *   Lingerie
+    *   Jewelry
     *   Accessories
     *   Watches
 *   MenShop Sale Events
     
+    *   Oliver Peoples &. More: Sun Up to 75% Off
+    *   Reebok Men
+    *   Reebok Men's Active &. Swim Under $30
+    *   Nordstrom Rack Dress Shirts &. Ties
+    *   Exclusive Pairs: Men's Shoes ft. Public Opinion
     *   Gucci Accessories &. More
     *   Men's Premium Denim Shop ft. Hudson Jeans &. More
+    
     *   Rugged Footwear for Men ft. adidas
     *   Onia Men Up to 70% Off
     *   Commuter Bags ft. Solo New York
-    *   Crocs Men Starting at $15
     *   Hybrid Green Label Up to 75% Off
-    
-    *   Original Penguin Suiting Up to 60% Off
-    *   Original Penguin Clothing Up to 60% Off
+    *   Crocs Men Starting at $15
     *   Original Penguin Shoes Up to 65% Off
     *   Kenneth Cole New York Men
-    *   Aldo Men
-    *   Original Penguin Luggage Up to 70% Off
     
     Shop By Category
     *   Shoes
@@ -163,25 +162,25 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Watches
 *   KidsShop Sale Events
     
+    *   Reebok Kids &. More
+    *   Miniclasix
     *   End-of-Summer Toys ft. Stephen Joseph
     *   Back-to-School Ready: 7 For All Mankind Kids
-    *   Pastourelle by Pippa &. Julie
-    *   See Kai Run
-    *   Joe Fresh Kids Under $10
     
     Shop By Category
-    *   Baby Girl
-    *   Baby Boy
     *   The Toy Shop
-    *   Boys' Sizes 2T-7
-    *   Girls' Sizes 2T-6X
-    *   Boys' Sizes 8-20
+    *   Baby Boy
+    *   Baby Girl
     *   Girls' Shoes
-    *   Girls' Sizes 7-16
     *   Boys' Shoes
+    *   Boys' Sizes 2T-7
+    *   Boys' Sizes 8-20
+    *   Girls' Sizes 7-16
+    *   Girls' Sizes 2T-6X
 *   HomeShop Sale Events
     
-    *   Shinola at 75% Off
+    *   Free Shipping: Barware, Dinnerware &. More
+    *   Free Shipping: Art for Every Room at $40
     *   Ayesha Curry Cookware &. More
     *   Free Shipping: Storage Must-Haves from $10
     *   Pretty on the Fly: Luggage Up to 75% Off
@@ -189,42 +188,41 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Fun Tech Finds Under $40
     *   Automatic Robot Vacuums &. More Up to 65% Off
     *   Free Shipping: Bedding Essentials Up to 75% Off
-    *   Time to Upgrade: Bands for Fitbit Up to 75% Off
     
+    *   Shinola at 75% Off
+    *   Time to Upgrade: Bands for Fitbit Up to 75% Off
+    *   Keep It Quirky: Quotable Accents for Every Room
     *   Kitchen Prep ft. Cuisinart, Vitamix &. More
     *   Free Shipping: Chic Planters &. More from $10
-    *   Original Penguin Luggage Up to 70% Off
-    *   Keep It Quirky: Quotable Accents for Every Room
     *   Free Shipping: Pop Culture Art &. More Up to 50% Off
-    *   Kitchen Gadgets &. Storage Starting at $10
     *   Free Shipping: Amrapur Towels Up to 75% Off
     *   Free Shipping: Decals for Every Wall &. More
-    *   Keep It Sassy: Fun Pouches, Towels &. Coasters
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Cleaning &. Organization
     *   Tech Accessories
-    *   Bath
     *   Luggage &. Travel
-    *   Outdoor Living
+    *   Cleaning &. Organization
+    *   Bath
     *   Bedding
+    *   Outdoor Living
+    *   Rugs &. Doormats
 *   BeautyShop Sale Events
     
+    *   Luxe Skin Care ft. D24K
+    *   Palettes, Blushes &. Sets We Love
     *   Demeter Fragrance Library
     *   Korean Beauty: Huangjisoo
     *   Spa-Like Luxury Beauty Devices
     *   Cover Roots &. Grays: TRUHAIR
     *   From the Hive: Manuka Honey Skin Care
-    *   Stila: Best Sellers Under $30
-    *   Neon &. Co. Hair Masks, Treatments &. More
     *   Terre Mere Organic Beauty Up to 75% Off
     
     Shop By Category
-    *   Makeup
     *   Skin Care
     *   Fragrance
+    *   Makeup
     *   Hair Care
     *   Bath &. Body
     *   Tools &. Accessories
