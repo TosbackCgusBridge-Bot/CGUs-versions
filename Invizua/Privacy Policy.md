@@ -1,20 +1,26 @@
 *   Home
-*   Try
-*   Download
-*   Classic
+*   Products
+    *   Omniscope Classic
+    *   Omniscope Evo
+    *   Compare
+    *   Pricing
 *   Partners
 *   Support
 *   Blog
 *   Contact Us
+*   Try now
 
 *   Home
-*   Try
-*   Download
-*   Classic
+*   Products
+    *   Omniscope Classic
+    *   Omniscope Evo
+    *   Compare
+    *   Pricing
 *   Partners
 *   Support
 *   Blog
 *   Contact Us
+*   Try now
 
 Visokio Privacy Policy Statement What we do with data about you, and data you may send to us
 
