@@ -120,13 +120,13 @@ View more results
     *   Short Life
     *   World Craft 2
     *   Five Nights at Freddy's 2
-    *   Tom and Jerry: Mouse Maze
     *   Fire Balls
+    *   Tom and Jerry: Mouse Maze
     *   Five Nights at Freddy's 5
     *   Five Nights at Freddy's: Ultimate
     *   FNAF World
-    *   Fireboy and Watergirl 5: Elements
     *   Miami Crime Simulator 3D
+    *   Fireboy and Watergirl 5: Elements
     *   Five Nights at Freddy's 4
 *   Top Categories
     
@@ -159,7 +159,7 @@ View more results
     *   Bubble Machine: 2 Player Game
     *   Crystical: 2 Player Puzzle Game
     *   Happy Glass
-    *   The Impossible Quiz: World's Hardest Quiz
+    *   Mahjong Connect Classic
 *   Top Categories
     
     *   Dress Up
@@ -184,8 +184,8 @@ View more results
     *   Pixel Art: Color by Number
     *   Back To School: Princesses Rush
     *   Burger Restaurant Express
-    *   Vincy Lip Care
     *   Popstar Dentist
+    *   Vincy Lip Care
     *   The Princess: Sent to the Future - Dress Up Game
     *   Love Tester 2.0
     *   Get Your Boyfriend
@@ -221,8 +221,8 @@ View more results
     *   Madalin Cars Multiplayer
     *   Rally Point 2: Dirt Track Racing Game
     *   Bike Racing: Motorcycle Game
-    *   Happy Wheels
     *   Moto X3M: Motorcycle Racing Game
+    *   Happy Wheels
     *   Neon Biker
 *   Top Categories
     
@@ -254,7 +254,7 @@ View more results
     *   Cricket CPL Tournament
     *   Neon Biker
     *   Bouncy Dunk
-    *   Billiards Master Pro
+    *   Basketball Stars 2019
 *   *   Multiplayer
     *   Action
     *   Adventure
