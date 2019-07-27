@@ -68,6 +68,8 @@ This Privacy Policy covers information collected through the following websites 
 *   DemandShore, Technology Signals
 *   Ziff Davis Data
 *   Best Black Friday
+*   Deals of America
+*   The Black Friday
 
 Applications:
 
@@ -80,6 +82,8 @@ Applications:
 *   IGN App For Dead Space 3
 *   PC Magazine
 *   TechBargains
+*   Deals of America
+*   The Black Friday
 
 *   **What Categories of Information We May Process**
 
