@@ -42,7 +42,7 @@ Skip to navigation Skip to main content Login Register Menu Close
     *   Events Back
         *   SC Media's 30th Anniversary Celebration
         *   RiskSec 2019
-        *   SC Awards 2019
+        *   SC Awards 2020
         *   Webcasts
         *   Virtual Conferences
 *   TechScapeOpen Submenu
@@ -218,20 +218,20 @@ Attention: Chief Digital Officer
     *   Huawei products riddled with backdoors, zero days and critical vulnerabilities
     *   APT34 spread malware via LinkedIn invites
     *   Why infosec vendors can’t sell to most CISOs
-    *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Data management firm exposed client info on open Amazon S3 buckets: researchers
+    *   Article 29 Working Party still not happy with Windows 10 privacy controls
     
+    *   Data on 300K QuickBit crypto exchange customers exposed
+    *   Democrats press McConnell to bring election security bills to vote
+    *   Scams use false alerts to target Office 365 users, admins
     *   Automated security services essential for cloud security
-    *   APT34 spread malware via LinkedIn invites
-    *   Sprint customer data breached via Samsung website flaw
-    *   GAO office audit finds more vulnerabilities at IRS
-    *   Cryptojacking: The growing malware menace
+    *   Hackers leak documents stolen from contractor for Russian intel agency
     
-    *   FTC levies historic fine on Facebook for privacy violations
-    *   Why is election security a partisan issue?
-    *   Data breach cost rises to $4 million per incident. U.S. victims hit even harder
-    *   Banner vulnerability allows remote access to records of more than 60 colleges
-    *   ICCS 2019: AG Barr criticizes strong encryption, European experiment offers teen hackers second chance
+    *   No More Ransom saves ransomware victims $108 million
+    *   Researchers disclose five unpatched bugs in Comodo Antivirus
+    *   Johannesburg’s power company hit by ransomware attack
+    *   Brazilian President Bolsonaro's cellphones targeted in cyberattacks
+    *   Study: Ransomware generates most interest among underground forum users
 
 Back to Top
 
