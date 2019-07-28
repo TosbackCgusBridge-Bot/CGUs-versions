@@ -183,7 +183,7 @@ With Authentic Sound
 
 Your chance to attend the red carpet premiere of The #AngryBirdsMovie2 in Los Angeles is here. Use your points &. bid now on this #ShowStopper:  https://go.sony.com/2M7b2TF  pic.twitter.com/SsOuqyEsCf
 
-4 days ago View Tweet
+5 days ago View Tweet
 
 Kirsten Dunst Returns to the ’90s in “On Becoming a God in Central Florida”
 
