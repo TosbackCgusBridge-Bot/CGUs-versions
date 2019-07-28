@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Huawei products riddled with backdoors, zero days and critical vulnerabilities
     *   APT34 spread malware via LinkedIn invites
+    *   Huawei products riddled with backdoors, zero days and critical vulnerabilities
     *   Why infosec vendors can’t sell to most CISOs
     *   Data management firm exposed client info on open Amazon S3 buckets: researchers
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     
-    *   Data on 300K QuickBit crypto exchange customers exposed
-    *   Democrats press McConnell to bring election security bills to vote
-    *   Scams use false alerts to target Office 365 users, admins
     *   Automated security services essential for cloud security
-    *   Hackers leak documents stolen from contractor for Russian intel agency
+    *   Georgia man sentenced to prison for hacking iClouds of athletes and musicians
+    *   Democrats press McConnell to bring election security bills to vote
+    *   Researchers disclose five unpatched bugs in Comodo Antivirus
+    *   Banner vulnerability allows remote access to records of more than 60 colleges
     
+    *   Report: Russian-sponsored hackers could have modified U.S. voter data, but didn't
     *   No More Ransom saves ransomware victims $108 million
     *   Researchers disclose five unpatched bugs in Comodo Antivirus
     *   Johannesburg’s power company hit by ransomware attack
     *   Brazilian President Bolsonaro's cellphones targeted in cyberattacks
-    *   Study: Ransomware generates most interest among underground forum users
 
 Back to Top
 
