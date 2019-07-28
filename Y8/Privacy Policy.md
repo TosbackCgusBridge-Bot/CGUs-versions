@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1380 games
-*   Most Popular Games 19582 games
+*   Best of new games 1379 games
+*   Most Popular Games 19583 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,295 games
+*   Games for girls 24,292 games
 *   Driving &. Racing Games 6,850 games
 *   Strategy &. RPG Games 2,428 games
 *   Management Games 3,663 games
-*   Thinking Games 12,241 games
-*   Action &. Adventure Games 16,311 games
+*   Thinking Games 12,242 games
+*   Action &. Adventure Games 16,316 games
 *   Sports Games 2,275 games
 *   Shooting Games 8,508 games
-*   Fighting Games 2,094 games
-*   Skill Games 11,399 games
-*   Arcade &. Classic Games 13,253 games
-*   Fun &. Crazy Games 2,555 games
+*   Fighting Games 2,095 games
+*   Skill Games 11,406 games
+*   Arcade &. Classic Games 13,261 games
+*   Fun &. Crazy Games 2,556 games
 
 Play with friends  
 Powered by Y8 Account 128 Y8 Multiplayer Games 2,052 Y8 High Score Games 1,159 Y8 Achievements Games 823 Y8 Screenshots Games 1,475 Y8 Online Save Games 3,113 All Y8 Games Games Last Highscore:
 
-**3,263,500** points on Idle Choco Tycoon by discobeardie
+**5** points on EvoWars.Y8 by taviquang123
 
 Help us improve Bad translation? Social
 
