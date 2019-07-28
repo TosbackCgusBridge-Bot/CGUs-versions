@@ -1,4 +1,4 @@
-SUBSCRIBE NOWfor full access
+SUBSCRIBE NOW99¢ per month. Save 90%.
 
 *   Home
 *   News
@@ -34,7 +34,7 @@ SUBSCRIBE NOWfor full access
 *   search
 
 *   Subscribe
-*   salutation
+*   Sign In
     
     *   Manage Account
     *   Access e-Edition
@@ -60,7 +60,7 @@ SUBSCRIBE NOWfor full access
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowThere is no El Paso serial killer, police sayCrimeDomino's Pizza note leads to kidnapped woman's rescueCrimeBody of missing woman, Angelica Vega, found in East El Paso desertCrimeYISD's De La Torre denies head-butting SISD chiefEducationFloor &. Decor chain opens El Paso storeBusinessMissing El Paso mom investigation continuesCrimeBody found in desert east of El PasoCrimeSheriff's Office: Pipe bomb found in drug raidCrimeBoxing suffers another tragic loss from battleBoxingEl Paso police arrest 6 in Facebook 'party' robberyCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowPurse snatcher dragged woman with car at mallCrimeYISD superintendent recorded SISD trusteeEducationDonald Trump Jr. speaks at Sunland Park symposiumImmigrationAt least one dead in accident involving military vehicleNewsThe head-butt heard across TexasOpinionTrump Jr. speaks at GoFundMe border wallNewsTeen gets probation in death of 13-year-old girlNewsEl Paso Border Patrol chief assigned to DetroitImmigrationMan arrested in thefts from back of parked trucksCrimeDeath row inmate convicted of killing 3 teens diesCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
