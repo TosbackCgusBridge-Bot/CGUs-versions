@@ -1,10 +1,18 @@
 Connexity
 
-*   Hitwise
-*   Connexity Commerce
-*   Shop Your Likes
+*   Retailers
+*   Publishers
+*   About Us
 *   Careers
-*   Press
+*   Shop Your Likes
+
+*   *   US
+        *   UK
+        *   FR
+        *   DE
+        *   IT
+    *   Login
+*   Contact
 
 Toggle navigationblog navsite nav
 
