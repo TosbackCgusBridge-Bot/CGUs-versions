@@ -229,13 +229,11 @@ Print | Citation &. Date | Reprint
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksWhen College-bound Kids Have Their Acceptances Revoked1STHowStuffWorks NOW: The Shocking Way To Make Chocolate Taste Better2NDHow much should your child get for allowance?3RDEarly Humans Mated With Inbred Neanderthals — at a Cost4THAuto Overload | Sponsored34 Vintage Photos Not Suitable For Audiences TodayAuto Overload | SponsoredSoGoodly | SponsoredThese Ridiculous Airport Photos Will Make You Cry LaughingSoGoodly | SponsoredAuto Overload | Sponsored20 Times Google Street View Captured Some Ridiculous MomentsAuto Overload | SponsoredLivestly | SponsoredRare Photos Not Appropriate For History BooksLivestly | Sponsored -Visitor Agreement
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksHoney Badgers Don't Care Because They're Ferocious1STThere's More to Cannibalism Than Just People Eating People2NDWhy do most zippers say "YKK" on the pull-tab?3RD6 Big Cats Still Found Wild in the U.S.4THKelley Blue Book | SponsoredThe 10 Most Comfortable Cars Under $30,000Kelley Blue Book | SponsoredAuto Overload | Sponsored34 Vintage Photos Not Suitable For Audiences TodayAuto Overload | SponsoredLuxury Crossover SUV I Search Ads | SponsoredThese SUVs Are The Cream Of The Crop. Search For 2019 Luxury Crossover SUV DealsLuxury Crossover SUV I Search Ads | SponsoredHomeAdvisor | SponsoredHire a Handyman in Buffalo Creek TodayHomeAdvisor | Sponsored wild animals-mammalsWhy Do Monk Seals Get Eels Up Their Noses?BY Jesslyn ShieldsscienceWhere do bullets go when guns are fired straight up into the air?
 
-\-HowStuffWorks NOW: Airplane Foolery: Stacking Passengers
+\-HowStuffWorks NOW: Meet Graham, the Car-proof Man
 
-scienceWhere do bullets go when guns are fired straight up into the air?
-
-Far &amp. Wide | Sponsored45 Amazing World MapsFar &. Wide | Sponsoredpostfun.com | SponsoredThese Twins Were Named "Most Beautiful In The World," Wait Till You See Them Todaypostfun.com | Sponsored Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksRidiculous History: 3 Times Society Refused to Accept Books on New ScienceHow to Write an Acceptance Letter for a New JobWhat is withholding tax allowance?Why do most zippers say "YKK" on the pull-tab?How Billy the Kid Really DiedWhat causes 'old person' smell?by Taboolaby Taboola
+postfun.com | SponsoredThese Twins Were Named "Most Beautiful In The World," Wait Till You See Them Todaypostfun.com | SponsoredDental Implants | Search Ads | SponsoredDental Plans for Seniors: Reduce Dental Care CostsDental Implants | Search Ads | Sponsored Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksEarly Humans Mated With Inbred Neanderthals — at a CostHow Coconut Oil Went From Superfood to 'Pure Poison'This Is Why Humans Don't Have a Mating Season10 Real Animals That Seem Make-believeWhat If You Eat Moldy Bread?Underwater 'Lost City' Wasn't Built by Humans, Study Showsby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -265,4 +263,4 @@ Sign Up Now!
 
 Newsletter Policy &. Terms
 
-Testing this long verbose error message to check the behaviour BESbswyBESbswyBESbswy <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. BESbswyBESbswyBESbswy
+Testing this long verbose error message to check the behaviour <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">.
