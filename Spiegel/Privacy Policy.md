@@ -13,7 +13,7 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   28\. Juli 2019
+*   29\. Juli 2019
 *   Abo
 *   DAX 12.419,90ǀ
 *   Schlagzeilenǀ
