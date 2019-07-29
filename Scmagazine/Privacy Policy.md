@@ -216,16 +216,16 @@ Attention: Chief Digital Officer
     *   Recent
     
     *   APT34 spread malware via LinkedIn invites
-    *   Huawei products riddled with backdoors, zero days and critical vulnerabilities
     *   Why infosec vendors can’t sell to most CISOs
     *   Data management firm exposed client info on open Amazon S3 buckets: researchers
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
+    *   Researchers bypass Cylance's AI-based AV solution by masking malware with video game code
     
-    *   Automated security services essential for cloud security
-    *   Georgia man sentenced to prison for hacking iClouds of athletes and musicians
-    *   Democrats press McConnell to bring election security bills to vote
     *   Researchers disclose five unpatched bugs in Comodo Antivirus
-    *   Banner vulnerability allows remote access to records of more than 60 colleges
+    *   Comparing 5G to Wi-Fi 6 from a security perspective
+    *   Equifax to pay up to $425 million for breach in FTC settlement
+    *   Automated security services essential for cloud security
+    *   Securing Energy Infrastructure Act passes House
     
     *   Report: Russian-sponsored hackers could have modified U.S. voter data, but didn't
     *   No More Ransom saves ransomware victims $108 million
