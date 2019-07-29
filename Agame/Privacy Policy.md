@@ -92,8 +92,8 @@ View more results
     *   Uphill Rush 7: Waterpark
     *   Ultimate Boxing
     *   Short Life
-    *   Stickman Archer 2
     *   Combat Strike 2: 3D Shooting Game Online Multiplayer
+    *   Stickman Archer 2
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Goodgame Gangster
 *   Top Categories
@@ -124,8 +124,8 @@ View more results
     *   Tom and Jerry: Mouse Maze
     *   Five Nights at Freddy's: Ultimate
     *   Five Nights at Freddy's 5
-    *   FNAF World
     *   Miami Crime Simulator 3D
+    *   FNAF World
     *   Fireboy and Watergirl 5: Elements
     *   Five Nights at Freddy's 4
 *   Top Categories
@@ -157,8 +157,8 @@ View more results
     *   Deal or No Deal
     *   1001 Arabian Nights
     *   Bubble Machine: 2 Player Game
-    *   Crystical: 2 Player Puzzle Game
     *   Happy Glass
+    *   Crystical: 2 Player Puzzle Game
     *   Mahjong Connect Classic
 *   Top Categories
     
