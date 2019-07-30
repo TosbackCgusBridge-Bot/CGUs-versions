@@ -36,7 +36,6 @@ SECTIONS
 *   Video
 *   Podcast
 *   News Service
-*   Job Board
 
 About Us
 
@@ -49,7 +48,6 @@ About Us
 *   Privacy Policy
 *   Disclaimer
 *   Email Whitelisting
-*   Employment Opportunities
 
 Stay Connected
 
