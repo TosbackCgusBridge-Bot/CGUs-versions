@@ -201,7 +201,6 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
         *   Flare
         *   High Waisted
         *   Black Jeans
-        *   High Waisted
         *   KanCan Kurvy
         *   Women's Denim Guide
         *   Shop All
