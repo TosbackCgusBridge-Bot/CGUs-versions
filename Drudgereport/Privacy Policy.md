@@ -182,7 +182,7 @@ About 11 months ago
 
 ICYMI: Publishers Turn to White-Glove Services for Ad Buying and Management Needs econtentmag.com/Arti…
 
-About 11 months ago
+Last year
 
   
   
