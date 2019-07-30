@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Manjaro, snaps and the spirit of collaboration ›
+*   Monitoring at the edge with MicroK8s ›
 *   Getting started with AI ›
 *   Handy productivity software for your home and office ›
 *   The 10 new rules of open source infrastructure ›
-*   Getting Started with Knative on Ubuntu ›
-*   Mir support for Wayland ›
