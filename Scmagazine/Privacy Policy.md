@@ -216,22 +216,22 @@ Attention: Chief Digital Officer
     *   Recent
     
     *   APT34 spread malware via LinkedIn invites
-    *   Why infosec vendors can’t sell to most CISOs
     *   Data management firm exposed client info on open Amazon S3 buckets: researchers
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Researchers bypass Cylance's AI-based AV solution by masking malware with video game code
-    
-    *   Researchers disclose five unpatched bugs in Comodo Antivirus
-    *   Comparing 5G to Wi-Fi 6 from a security perspective
-    *   Equifax to pay up to $425 million for breach in FTC settlement
-    *   Automated security services essential for cloud security
-    *   Securing Energy Infrastructure Act passes House
+    *   Why infosec vendors can’t sell to most CISOs
     
     *   Report: Russian-sponsored hackers could have modified U.S. voter data, but didn't
-    *   No More Ransom saves ransomware victims $108 million
-    *   Researchers disclose five unpatched bugs in Comodo Antivirus
-    *   Johannesburg’s power company hit by ransomware attack
-    *   Brazilian President Bolsonaro's cellphones targeted in cyberattacks
+    *   13 vulnerabilities disclosed in U-Boot loader
+    *   ICCS 2019: AG Barr criticizes strong encryption, European experiment offers teen hackers second chance
+    *   Cloud-hosting firm iNSYNQ shut down by MegaCortex ransomware
+    *   Scams use false alerts to target Office 365 users, admins
+    
+    *   Georgia State Patrol agency infected with ransomware
+    *   Hutchins receives no jail time for Kronos banking trojan
+    *   Lessons learned: Can education solve cybersecurity’s “people” problem?
+    *   Coats to leave, Trump will name Ratcliffe as DNI
+    *   Report: Russian-sponsored hackers could have modified U.S. voter data, but didn't
 
 Back to Top
 
@@ -262,4 +262,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of Haymarket Media’s Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. X
+
+You can skip this ad in 1 seconds.
