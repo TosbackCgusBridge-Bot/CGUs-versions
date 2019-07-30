@@ -64,7 +64,6 @@ Close submenu ( Bottoms ) Bottoms
 Close submenu ( Collections ) Collections
 
 *   View All
-*   Essentials Sale
 *   New Arrivals
 *   Jeans Guide
 *   Uniform
@@ -116,7 +115,6 @@ Close submenu ( Bottoms ) Bottoms
 Close submenu ( Collections ) Collections
 
 *   View All
-*   Essentials Sale
 *   New Arrivals
 *   Jeans Guide
 *   Uniform
@@ -265,7 +263,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**15% Off 5+ Essentials Code: TAKE15 + Free Ship When You Buy Jeans**
+**Buy 1 Get 1 Jeans FREE + Free Ship When You Buy Jeans**
 
 *   Select Country
 *   My Account My Account Login Register
@@ -315,7 +313,6 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
-        *   Essentials Sale
         *   New Arrivals
         *   Jeans Guide
         *   Uniform
@@ -359,7 +356,6 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
-        *   Essentials Sale
         *   New Arrivals
         *   Jeans Guide
         *   Uniform
@@ -492,7 +488,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-OVER $50 Search Catalog Search 2 Days &. Online Only TAKE 15% OFF 5 OR MORE ITEMS FROM OUR ESSENTIALS SHOP Use Code **Take15** Details Shop Girls Shop Guys In Stores &. Online AERO JEANS BUY ONE GET ONE FREE BUY ONE GET ONE FREE + FREE SHIPPING Free shipping on your entire purchase when you buy Aero Jeans Details Shop Girls Jeans Shop Guys Jeans GET REAL NEW AERO. REAL DENIM. REAL DENIM Old School Fits &. Washes. New School Comfort. Shop Girls Shop Guys GET REAL NEW AERO. REAL DENIM. REAL DENIM Old School Fits &. Washes. New School Comfort. Shop Girls Shop Guys Previous Next Shop Girls Jeans Shop Guys Jeans NEW! SLIM &. THICK CURVY JEAN NEW! SLIM &. THICK CURVY JEAN Booty-enhancing jean with a magic gap-proof waistband that highlights your curves. Now Available In: Get Ahead of the Curve #INAEROJEANS 21 Fits &. 94 Washes REAL DENIM Old School Fits &. Washes. New School Comfort FLEX EFFECTS Our innovative 4-way, 360 stretch denim. SERIOUSLY STRETCHY 2-way seriously stretchy denim. MAX STRETCH FOR GUYS 2-way seriously stretchy denim. REAL DENIM Old School Fits &. Washes. New School Comfort FLEX EFFECTS Our innovative 4-way, 360 stretch denim.
+OVER $50 Search Catalog Search 2 Days &. Online Only TAKE 15% OFF 5 OR MORE ITEMS FROM OUR ESSENTIALS SHOP Use Code **TAKE15** Details Shop Girls Shop Guys In Stores &. Online AERO JEANS BUY ONE GET ONE FREE BUY ONE GET ONE FREE + FREE SHIPPING Free shipping on your entire purchase when you buy Aero Jeans Details Shop Girls Jeans Shop Guys Jeans GET REAL NEW AERO. REAL DENIM. REAL DENIM Old School Fits &. Washes. New School Comfort. Shop Girls Shop Guys GET REAL NEW AERO. REAL DENIM. REAL DENIM Old School Fits &. Washes. New School Comfort. Shop Girls Shop Guys Previous Next Shop Girls Jeans Shop Guys Jeans NEW! SLIM &. THICK CURVY JEAN NEW! SLIM &. THICK CURVY JEAN Booty-enhancing jean with a magic gap-proof waistband that highlights your curves. Now Available In: Get Ahead of the Curve #INAEROJEANS 21 Fits &. 94 Washes REAL DENIM Old School Fits &. Washes. New School Comfort FLEX EFFECTS Our innovative 4-way, 360 stretch denim. SERIOUSLY STRETCHY 2-way seriously stretchy denim. MAX STRETCH FOR GUYS 2-way seriously stretchy denim. REAL DENIM Old School Fits &. Washes. New School Comfort FLEX EFFECTS Our innovative 4-way, 360 stretch denim.
 
 *   1
 *   2
