@@ -1,8 +1,4 @@
-1/1
-
-*   Flooding Continues to Impact Areas of Iowa...More
-
-Close Skip To Main Content
+Skip To Main Content
 
 *   Log In
 *   Sign Up
@@ -35,16 +31,18 @@ SearchMenu Close
 
 *   Tracking Tracking Track Shipments
     
-    *   Track &. Tracking History
-    *   Manage Home Deliveries:  
-        _UPS My Choice_
+    *   Track &. Track History
     *   Change Delivery
-    
-    More Tracking Options
-    
     *   Manage Inbound/Outbound Shipments:  
         _Quantum View_
     *   Brokerage &. Compliance
+    
+    UPS My Choice
+    
+    *   Manage Home Deliveries:  
+        _UPS My Choice for home_
+    *   Manage Business Shipments:  
+        _UPS My Choice for business_
     
     Explore All Tracking Simplicity found at a glance
     
@@ -114,6 +112,7 @@ SearchMenu Close
     *   Adopting Innovation
     *   Growing Business
     *   Expanding Globally
+    *   UPS Blog: _Longitudes_
     *   ResourcesExplore All Articles
 
 Customer Service SearchGo Page Not Found
@@ -126,7 +125,7 @@ To continue you can:
 *   Search ups.com using the **Search box** in the upper right corner of this page
 *   Follow one of the popular links below
 
-Were you trying to... Track a Package or Freight Ship a Package Get a Quote Find a UPS Location Go to the ups.com Home Page Go to ups.com for another Country or Territory Customer Service
+Were you trying to... Track a Package or Freight View UPS holiday shipping information Ship a Package Get a Quote Find a UPS Location Go to the ups.com Home Page Go to ups.com for another Country or Territory Customer Service
 
 *   Help and Support Center
 *   Get Started with UPS
@@ -166,8 +165,7 @@ Connect with Us
 *   TwitterOpen the link in a new window
 *   LinkedInOpen the link in a new window
 *   YouTubeOpen the link in a new window
-*   LongitudesOpen the link in a new window
-*   UPS CompassOpen the link in a new window
+*   UPS Blog: _Longitudes_
 
 Legal
 
