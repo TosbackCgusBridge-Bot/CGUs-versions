@@ -6,30 +6,32 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movies Now Playing
     
     *   The Lion King (2019)
+    *   Once Upon a Time in Hollywood
     *   Spider-Man: Far From Home (2019)
     *   Toy Story 4
     *   Crawl (2019)
     *   Yesterday (2019)
-    *   Stuber
     *   Aladdin (2019)
+    *   Stuber
     *   Annabelle Comes Home
-    *   Midsommar
+    *   The Farewell (2019)
     *   The Secret Life of Pets 2
-    *   Avengers: Endgame (2019)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Once Upon a Time in Hollywood
-    *   The Ground Beneath My Feet
-    *   Honeyland
-    *   Mike Wallace Is Here
-    *   See You Soon (2019)
+    *   Fast &. Furious Presents: Hobbs &. Shaw
+    *   Jay Myself
+    *   Leo Da Vinci: Mission Mona Lisa
+    *   Luce
+    *   The Nightingale (2019)
+    *   Piranhas (2019)
+    *   Tel Aviv on Fire
+    *   Them That Follow
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Fast &. Furious Presents: Hobbs &. Shaw
     *   Dora and the Lost City of Gold
     *   Scary Stories to Tell in the Dark
     *   The Kitchen (2019)
@@ -38,6 +40,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   47 Meters Down: Uncaged
     *   Good Boys (2019)
     *   Blinded by the Light
+    *   Where'd You Go, Bernadette
+    *   The Angry Birds Movie 2
     *   See All Coming Soon
     
     Explore More
@@ -65,9 +69,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: Quentin Tarantino’s Style, Keanu Reeves in ‘Scarface,’ a More Faithful ‘Lion King’ and More Read More
-    *   The Week in Movie News: Marvel Reveals Phase Four Slate and ‘Blade,’ ‘Halloween’ Sequels Announced and More Read More
-    *   Exclusive: 'It Chapter Two' Director Andy Muschietti Breaks Down The New Trailer Read More
+    *   Today in Movie Culture: ‘Once Upon a Time in Hollywood’ Easter Eggs, Quentin Tarantino Filmmaking Tips and More Read More
+    *   Interview: Caleb Deschanel on 'The Lion King' and Its Visuals Read More
+    *   Next 3 Leonardo DiCaprio and Brad Pitt Movies: 'Ad Astra,' 'Killers of the Flower Moon,' Then Maybe 'Babylon' Read More
     
     Explore Content
     *   Movie Reviews
@@ -293,10 +297,6 @@ Offers
 *   'Cats' Sweepstakes
     
     Sign up for a 'Cats' FanAlert™ for your chance to win a trip to the premiere in London! \*Terms apply. ENTER NOW
-    
-*   $3 Off Avengers: Endgame
-    
-    Be the first to own the biggest movie of the year. Use code ENDGAMEPRE and save $3. It will hit your Library as soon as it's available. PRE-ORDER NOW
     
 *   AMC Stubs® Members Save Big with Discount Tuesdays
     
