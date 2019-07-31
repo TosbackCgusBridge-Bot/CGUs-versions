@@ -175,7 +175,7 @@ Flatware Jewelry
     
     *   Dinnerware Sets &. More
     *   Overstocks
-    *   LookbooksShop dinnerware, gifts &. more >.
+    *   LookbooksShop dinnerware overstocks &. more >.
 
 *   Our Story
 *   Services
