@@ -24,6 +24,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Scores News Video Standing
     *   Reporter's Inbox
     *   Trade Talk and Rumors
     *   Glossary
+    *   Extra Innings
 *   Video Video In This Section
     
     *   Watch Live Games
