@@ -49,7 +49,7 @@ VA, Norfolk
 VA, Woodbridge  
 WA, Renton  
 WI, Oak Creek  
-**Find an IKEA Store**Log In/Sign Up Products Products All productsAppliancesBaby &. KidsBathroomBedroomCookingDecorationDiningEatingFoodHallwayHome ElectronicsHome ImprovementKitchensLaundryLightingLiving RoomMattressesOffice FurnitureOutdoor FurniturePetsSecondary StorageSmall StorageTextiles and RugsWireless chargingSummerBusinessCollectionsBack to CollegeLast ChanceNew LocationsInspirationNewOffersServicesBack to College Welcome! 0 FAQ
+**Find an IKEA Store**Log In/Sign Up Products Products All productsAppliancesBaby &. KidsBathroomBedroomCookingDecorationDiningEatingFoodHallwayHome ElectronicsHome ImprovementKitchensLaundryLightingLiving RoomMattressesOffice FurnitureOutdoor FurniturePetsSecondary StorageSmall StorageTextiles and RugsWireless chargingSummerBusinessCollectionsBack to CollegeLast ChanceNew Lower PriceNew LocationsInspirationNewOffersServicesBack to College Welcome! 0 FAQ
 
 *   Log In or Sign Up
 *   My shopping cart
@@ -59,7 +59,7 @@ WI, Oak Creek
 *   Join our email list
 *   Información en español
 
-We use cookies to make sure you get the best experience on our website. If you continue without changing your settings, you're agreeing to receive all cookies on the IKEA website.Privacy policy | Read more about cookies Click and Collect - buy online, pick up in storeDelivery starting at $9.99TaskRabbit - furniture assembly Privacy Policy 1.2 Updated May 2019  
+XIKEA uses cookies to give you the best online shopping experience.By continuing to use our services we will assume that you agree to use of such cookies.To find out more about cookies and to view our revised privacy policy click "Privacy policy".Privacy policy | Read more about cookies Click and Collect - buy online, pick up in storeDelivery starting at $9.99TaskRabbit - furniture assembly Privacy Policy 1.2 Updated May 2019  
   
 We recently updated our Privacy Policy.  
   
