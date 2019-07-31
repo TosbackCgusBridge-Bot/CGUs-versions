@@ -125,6 +125,7 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
         *   Tops
         *   T-Shirts
         *   Big &. Tall
+        *   School Uniforms
         *   Shop All
         
         *   Jeans
