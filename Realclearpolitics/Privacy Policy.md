@@ -32,6 +32,7 @@
     *   Senate Polls
     *   Governor Polls
     *   Latest Election 2020 Polls
+*   Video
 *   Writers
     *   Staff Writers
     *   Tom Bevan
