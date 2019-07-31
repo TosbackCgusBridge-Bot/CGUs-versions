@@ -1,66 +1,3 @@
-Skip Navigation
-
-*   Company
-    *   AT&T Profile
-    *   Leadership Team
-    *   AT&T Communications
-        *   AT&T Communications Profile
-        *   Leadership
-        *   5G
-        *   AT&T BelievesSM
-        *   Business
-        *   Devices &. Entertainment
-        *   Innovation &. Technology
-        *   Disaster Relief News
-        *   Major Events
-    *   WarnerMedia
-        *   WarnerMedia Profile
-        *   HBO
-        *   TBS &. TNT
-        *   Warner Bros.
-        *   Otter Media
-    *   AT&T Latin America
-        *   AT&T Latin America Profile
-        *   Mexico
-        *   Vrio
-    *   Xandr
-        *   Xandr Profile
-*   Investors
-    *   Investor Profile
-    *   News &. Events
-    *   Financial Reports
-    *   Stock Information
-    *   Stockholder Services
-    *   Corporate Governance
-    *   Resources
-*   Values
-    *   Our Values
-    *   Social Responsibility
-        *   Environment
-        *   Society
-        *   Governance
-        *   Workforce
-        *   WarnerMedia CSR
-        *   AT&T Mexico CSR
-        *   Vrio CSR
-        *   Reporting
-    *   Diversity &. Inclusion
-    *   Ethics &. Compliance
-    *   AT&T BelievesSM
-*   Careers
-*   News
-    *   All News
-    *   AT&T Communications News
-    *   WarnerMedia News
-    *   Xandr News
-    *   AT&T Latin America News
-    *   Public Policy
-    *   Blogs
-        *   Technology Blog
-        *   Inside Connections Blog
-    *   Brand Assets
-    *   Contacts
-
 AT&T Privacy Policy  
 
 **En Español**  **En Français**
@@ -255,10 +192,3 @@ AT&T will never contact you by e-mail to ask for your personal information. If y
 Lost or stolen phone?
 
 For help on what to do, visit att.com/stolenphone.
-
-*   Privacy Policy
-*   Terms of Use
-*   Accessibility
-*   Contact Us
-
-© 2019 AT&T Intellectual Property. All rights reserved.
