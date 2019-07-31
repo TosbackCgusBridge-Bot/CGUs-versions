@@ -309,14 +309,14 @@ Offers
 
 New + Coming soon
 
-*   Toy Story 4
-*   Spider-Man: Far From Home (2019)
-*   Stuber
-*   Crawl (2019)
-*   The Lion King (2019)
-*   Once Upon a Time in Hollywood
 *   Fast &. Furious Presents: Hobbs &. Shaw
+*   Scary Stories to Tell in the Dark
 *   Dora and the Lost City of Gold
+*   The Angry Birds Movie 2
+*   Blinded by the Light
+*   Where'd You Go, Bernadette
+*   Good Boys (2019)
+*   It Chapter Two (2019)
 
 Experience + Explore
 
@@ -351,4 +351,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
