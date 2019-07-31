@@ -10,13 +10,7 @@ At wikiHow, our mission is to empower every person on the planet to learn how to
 6.  If you would like to have your wikiHow account and all personal data deleted from our site, we will he happy to do so. Just email wiki@wikiHow.com with the subject line "Account deletion request" and provide your wikiHow user name.
 7.  If you have a question, concern or just want to offer a note of thanks, you can email us at wiki@wikiHow.com.
 
-Please see below for our official Terms of Use. We encourage you to read them carefully. Thank you for using and contributing to wikiHow. We appreciate your support in promoting our goal of sharing information freely around the world.  
-
-  
-
-  
-
-  
+Please see below for our official Terms of Use. We encourage you to read them carefully. Thank you for using and contributing to wikiHow. We appreciate your support in promoting our goal of sharing information freely around the world.
 
 Introduction
 
