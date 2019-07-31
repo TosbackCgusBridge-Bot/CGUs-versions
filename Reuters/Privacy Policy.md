@@ -1,3 +1,5 @@
+Close
+
 Our Privacy Statement &. Cookie Policy
 
 All Thomson Reuters websites use cookies to improve your online experience. They were placed on your computer when you launched this website. You can change your cookie settings through your browser.
