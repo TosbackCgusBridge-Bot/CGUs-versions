@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Amazon EC2 On-Demand Hibernation for Ubuntu 18.04 LTS now available ›
+*   A shift to the Linux app store experience ›
 *   Manjaro, snaps and the spirit of collaboration ›
-*   Monitoring at the edge with MicroK8s ›
+*   Remote monitoring at the edge with MicroK8s ›
 *   Getting started with AI ›
-*   Handy productivity software for your home and office ›
-*   The 10 new rules of open source infrastructure ›
