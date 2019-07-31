@@ -122,7 +122,7 @@ Learn More
 
 Nothing gets the blood pumping like taking down a horde in Days Gone 🏃‍♂️ Quick tips for success in the new Keep Them Safer challenge pic.twitter.com/TwjRlRNhTC
 
-1 day ago View Tweet
+2 days ago View Tweet
 
 Meet the RX100 VII
 
@@ -156,7 +156,7 @@ Play video: These Four Zombie Slayers Return to the Big Screen A Decade After th
 *   Share on Twitter: These Four Zombie Slayers Return to the Big Screen A Decade After the Cult Classic Hit Theaters
 *   Copy URL to Share: These Four Zombie Slayers Return to the Big Screen A Decade After the Cult Classic Hit Theaters
 
-<img class="bg-img video-ZlW9yhUKlkQ" data-linkname="en:set\_e:position\_2|\_5x2-1:video:movies:Zombieland2Trailer-July-29-2019:sp:image:ZlW9yhUKlkQ" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="These Four Zombie Slayers Return to the Big Screen A Decade After the Cult Classic Hit Theaters ZlW9yhUKlkQ Zombieland-2-Trailer" data-img1x="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-1276x500.jpg" src="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-1276x500.jpg" alt="Zombieland 2 trailer"/>. <img class="bg-img video-ZlW9yhUKlkQ" alt="Zombieland 2 trailer Mobile" data-linkname="en:set\_e:position\_2|\_5x2-1:video:movies:Zombieland2Trailer-July-29-2019:sp:image-mobile:ZlW9yhUKlkQ" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="These Four Zombie Slayers Return to the Big Screen A Decade After the Cult Classic Hit Theaters ZlW9yhUKlkQ Zombieland-2-Trailer" data-img1x="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-1276x500.jpg" src="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-600x600.jpg"/>. ×Ready to see “Once Upon a Time in…Hollywood” 🎬
+<img class="bg-img video-ZlW9yhUKlkQ" data-linkname="en:set\_e:position\_2|\_5x2-1:video:movies:Zombieland2Trailer-July-29-2019:sp:image:ZlW9yhUKlkQ" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="These Four Zombie Slayers Return to the Big Screen A Decade After the Cult Classic Hit Theaters ZlW9yhUKlkQ Zombieland-2-Trailer" data-img1x="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-1276x500.jpg" src="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-1276x500.jpg" alt="Zombieland 2 trailer"/>. <img class="bg-img video-ZlW9yhUKlkQ" alt="Zombieland 2 trailer Mobile" data-linkname="en:set\_e:position\_2|\_5x2-1:video:movies:Zombieland2Trailer-July-29-2019:sp:image-mobile:ZlW9yhUKlkQ" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="These Four Zombie Slayers Return to the Big Screen A Decade After the Cult Classic Hit Theaters ZlW9yhUKlkQ Zombieland-2-Trailer" data-img1x="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-1276x500.jpg" src="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-600x600.jpg"/>. ×Ready to see “Once Upon a Time in…Hollywood”? 🎬
 
 *   Can't wait
 *   Maybe later
