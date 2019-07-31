@@ -1,7 +1,13 @@
-MarketplaceSeeking AlphaSUBSCRIBE
+MarketplaceSubscribe
 
-*   Portfolio
-*   People
+Sign in / Join Now
+
+*   Help
+*   Knowledge Base
+*   Feedback Forum
+
+*   My Portfolio
+*   My Authors
 *   News
     
     *   Most Used
@@ -34,12 +40,13 @@ MarketplaceSeeking AlphaSUBSCRIBE
     *   Dividend Strategy
     *   ETF Screener
     *   Investing Podcasts
-
-Sign in / Join Now
-
-*   Help
-*   Knowledge Base
-*   Feedback Forum
+*   On the Move
+*   Stock Ideas
+*   Dividends
+*   Market Outlook
+*   Podcasts
+*   ETF Screener
+*   Retirement
 
 Privacy
 
