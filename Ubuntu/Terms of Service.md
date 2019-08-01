@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Digital signage platform Xibo launches as a snap ›
 *   Amazon EC2 On-Demand Hibernation for Ubuntu 18.04 LTS now available ›
 *   A shift to the Linux app store experience ›
 *   Manjaro, snaps and the spirit of collaboration ›
 *   Remote monitoring at the edge with MicroK8s ›
-*   Getting started with AI ›
