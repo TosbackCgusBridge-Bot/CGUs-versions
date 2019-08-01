@@ -1,52 +1,15 @@
-MarketplaceSubscribe
+MarketplaceSeeking AlphaSUBSCRIBE
+
+*   Portfolio
+*   People
+*   News
+*   Analysis
 
 Sign in / Join Now
 
 *   Help
 *   Knowledge Base
 *   Feedback Forum
-
-*   My Portfolio
-*   My Authors
-*   News
-    
-    *   Most Used
-    *   Market News (by date)
-    *   Top News
-    *   Wall Street Breakfast
-    *   Dividend News
-    *   Earnings Calendar
-    *   See All Sections
-    
-    *   Recommended
-    *   Energy News
-    *   Healthcare News
-    *   Tech News
-    *   On The Move
-    *   Latest StockTalks
-*   Analysis
-    
-    *   Most Used
-    *   Dividends
-    *   Dividend Ideas
-    *   Market Outlook
-    *   Stock Ideas
-    *   REITs
-    *   See All Sections
-    
-    *   Recommended
-    *   Closed End Funds
-    *   Today's Market
-    *   Dividend Strategy
-    *   ETF Screener
-    *   Investing Podcasts
-*   On the Move
-*   Stock Ideas
-*   Dividends
-*   Market Outlook
-*   Podcasts
-*   ETF Screener
-*   Retirement
 
 Privacy
 
