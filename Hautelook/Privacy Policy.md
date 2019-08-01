@@ -9,13 +9,36 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
-    *   UGG
-    *   UGG Kids
-    *   Designer Sun Under $100 ft. Dolce &. Gabbana
-    *   Free Shipping: Sensor Trash Cans at $35
+    *   Cole Haan Up to 50% Off
+    *   Cole Haan Men Up to 50% Off
+    *   Cole Haan Coats Up to 70% Off
+    *   Johnny Was Incl. Plus &. Petites
+    *   Sneak Peek: Fall Finds Incl. Plus &. Petites
+    *   Sneak Peek: Fall Outerwear Finds
+    *   Sneak Peek: New Fall Finds for Him Up to 70% Off
+    *   Sneak Peek: Transitional Fall Shoes Up to 60% Off
+    *   Sneak Peek: Men's Boots Up to 70% Off
+    *   Cole Haan Handbags &. Accessories Up to 50% Off
+    *   Cole Haan Men's Coats, Bags &. More Up to 75% Off
+    *   Resort Ready: Tiare Hawaii &. More
+    *   Love...Ady Dresses
+    *   Diesel
+    *   SUSINA
+    *   Rivka Friedman Jewelry Up to 70% Off
+    *   Lancome
+    *   Finishing Touches for the Home from $10
+    *   Diesel Lounge
+    *   Coccoli
+    *   Bio Ionic Hair Tools
+    *   Free Shipping: Movie &. Pop Culture Art and More
+    *   Sneak Peek: Kids' Fall Finds Under $20
     *   Free Shipping: Kitchen Blowout
     *   Gifts They'll Love: Wedding Presents &. More
     *   Bedding Faves ft. DKNY, Nautica &. Vera Wang
+    *   UGG
+    *   Designer Sun Under $100 ft. Dolce &. Gabbana
+    
+    *   UGG Kids
     *   UGG Coats
     *   UGG Sleep &. Lounge
     *   UGG Men
@@ -37,64 +60,54 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Trendy Tots: Summer Looks for Girls &. Boys
     *   Mia Belle Girls
     *   rag &. bone Up to 65% Off
-    
     *   rag &. bone Handbags Up to 55% Off
     *   rag &. bone Shoes Up to 60% Off
     *   rag &. bone Men's Clothing, Shoes &. More Up to 60% Off
-    *   rag &. bone Sun &. Accessories Up to 65% Off
-    *   Naked Zebra Under $50
-    *   Ladies Night Out: WAYF &. More Up to 55% Off
-    *   SUSINA and 14th &. Union Incl. Plus &. Petites
     *   RapidLash
-    *   Surf Session: Billabong &. More
     *   Blue Topaz Jewelry &. More Starting at $15
     *   National Lipstick Day: Shiseido, Lorac &. More
-    *   The FLEXX Up to 60% Off
+    
     *   Tea Collection
-    *   14th &. Union
     *   Merrell Men
     *   24K Gold &. Rose Gold Face Masks from $10
-    *   Summer Sheers: Hosiery Under $30
     *   Free Shipping: Bedding Sets Up to 60% Off
     *   Free Shipping: Hand-Painted Replicas
     *   Retro Glassware, Modern Dinnerware &. More
     *   $20 &. Under: Nicole Miller Girls
-    *   Lola Made in Italy Up to 70% Off
-    *   Sterling Forever Jewelry Under $55
     *   Makeup We Love Starting at $10
     *   Free Shipping: Storage Blowout
-    *   Necessary Knits from $15 ft. Project Social T
-    *   Women's Shoe Blowout
-    *   Summer Swim Faves Up to 70% Off
-    
     *   Men's Shoes Up to 65% Off
     *   Teami Blends
-    *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
-    *   Hair Tools ft. Conair, T3 &. More
-    *   Bulova Watches Up to 75% Off
+    *   Mr. Swim Up to 65% Off
     *   Lacoste Men's Shoes
     *   Free Shipping: Comforters, Sheet Sets &. More
-    *   Get Comfy: Butter Super Soft &. More
     *   Laura Mercier
     *   Skin Care Must-Haves Starting at $10
     *   Free Shipping: Decor to Upgrade Your Walls
-    *   Dr. Martens Men
-    *   Swims &. More Up to 65% Off
-    *   Palettes, Blushes &. Sets We Love
-    *   Luxe Skin Care ft. D24K
     *   Free Shipping: Barware, Dinnerware &. More
     *   Free Shipping: Art for Every Room at $40
     *   Ayesha Curry Cookware &. More
     *   Free Shipping: Storage Must-Haves from $10
-    *   Pool Party: Floats, Games, Towels &. More from $10
-    *   Fun Tech Finds Under $40
     *   Pick Your Pair: Men's Shorts Starting at $20
-    *   Mr. Swim Up to 65% Off
-    *   Psycho Bunny Lounge Under $30
     *   Free Shipping: Storage Solutions Up to 50% Off
-    *   Shinola at 75% Off
+    *   rag &. bone Sun &. Accessories Up to 65% Off
+    *   Hair Tools ft. Conair, T3 &. More
+    *   Psycho Bunny Lounge Under $30
 *   WomenShop Sale Events
     
+    *   Cole Haan Up to 50% Off
+    *   Cole Haan Coats Up to 70% Off
+    *   Johnny Was Incl. Plus &. Petites
+    *   Sneak Peek: Fall Finds Incl. Plus &. Petites
+    *   Sneak Peek: Fall Outerwear Finds
+    *   Sneak Peek: Transitional Fall Shoes Up to 60% Off
+    *   Cole Haan Handbags &. Accessories Up to 50% Off
+    *   Resort Ready: Tiare Hawaii &. More
+    *   Love...Ady Dresses
+    *   SUSINA
+    *   Rivka Friedman Jewelry Up to 70% Off
+    *   Lancome
+    *   Bio Ionic Hair Tools
     *   UGG
     *   Designer Sun Under $100 ft. Dolce &. Gabbana
     *   UGG Coats
@@ -103,6 +116,7 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   UGG Accessories
     *   Socialite Under $50
     *   Laid-Back Layers: Alternative &. More Under $35
+    
     *   Designers We Love: Love Sam &. More
     *   Hair Must-Haves ft. Macadamia Natural Oil &. More
     *   Mally Beauty &. Cargo Cosmetics
@@ -113,33 +127,16 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   rag &. bone Up to 65% Off
     *   rag &. bone Handbags Up to 55% Off
     *   rag &. bone Shoes Up to 60% Off
-    *   rag &. bone Sun &. Accessories Up to 65% Off
-    *   Naked Zebra Under $50
-    *   Ladies Night Out: WAYF &. More Up to 55% Off
-    *   SUSINA and 14th &. Union Incl. Plus &. Petites
-    
     *   RapidLash
-    *   Surf Session: Billabong &. More
     *   Blue Topaz Jewelry &. More Starting at $15
     *   National Lipstick Day: Shiseido, Lorac &. More
-    *   The FLEXX Up to 60% Off
-    *   14th &. Union
     *   24K Gold &. Rose Gold Face Masks from $10
-    *   Summer Sheers: Hosiery Under $30
-    *   Lola Made in Italy Up to 70% Off
-    *   Sterling Forever Jewelry Under $55
     *   Makeup We Love Starting at $10
-    *   Necessary Knits from $15 ft. Project Social T
-    *   Women's Shoe Blowout
-    *   Summer Swim Faves Up to 70% Off
     *   Teami Blends
-    *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
-    *   Hair Tools ft. Conair, T3 &. More
-    *   Bulova Watches Up to 75% Off
     *   Laura Mercier
     *   Skin Care Must-Haves Starting at $10
-    *   Palettes, Blushes &. Sets We Love
-    *   Luxe Skin Care ft. D24K
+    *   rag &. bone Sun &. Accessories Up to 65% Off
+    *   Hair Tools ft. Conair, T3 &. More
     
     Shop By Category
     *   Clothing
@@ -147,52 +144,55 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Jewelry
     *   Accessories
     *   Handbags
-    *   Watches
     *   Lingerie
 *   MenShop Sale Events
     
+    *   Cole Haan Men Up to 50% Off
+    *   Sneak Peek: New Fall Finds for Him Up to 70% Off
+    *   Sneak Peek: Men's Boots Up to 70% Off
+    *   Cole Haan Men's Coats, Bags &. More Up to 75% Off
+    *   Diesel
+    *   Diesel Lounge
     *   UGG Men
     *   UGG Men's Clothing
+    
     *   John Varvatos Collection
     *   rag &. bone Men's Clothing, Shoes &. More Up to 60% Off
     *   Merrell Men
     *   Men's Shoes Up to 65% Off
-    *   Bulova Watches Up to 75% Off
-    
-    *   Lacoste Men's Shoes
-    *   Dr. Martens Men
-    *   Swims &. More Up to 65% Off
-    *   Pick Your Pair: Men's Shorts Starting at $20
     *   Mr. Swim Up to 65% Off
+    *   Lacoste Men's Shoes
+    *   Pick Your Pair: Men's Shorts Starting at $20
     *   Psycho Bunny Lounge Under $30
     
     Shop By Category
     *   Shoes
     *   Clothing
-    *   Watches
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Coccoli
+    *   Sneak Peek: Kids' Fall Finds Under $20
     *   UGG Kids
     *   Jessica Simpson
     *   Trendy Tots: Summer Looks for Girls &. Boys
     *   Mia Belle Girls
     *   Tea Collection
     *   $20 &. Under: Nicole Miller Girls
-    *   Get Comfy: Butter Super Soft &. More
     
     Shop By Category
     *   Girls' Sizes 2T-6X
-    *   Baby Girl
     *   Girls' Sizes 7-16
+    *   Baby Girl
     *   Boys' Sizes 2T-7
-    *   Girls' Shoes
     *   Baby Boy
     *   Boys' Sizes 8-20
+    *   Girls' Shoes
     *   Boys' Shoes
 *   HomeShop Sale Events
     
-    *   Free Shipping: Sensor Trash Cans at $35
+    *   Finishing Touches for the Home from $10
+    *   Free Shipping: Movie &. Pop Culture Art and More
     *   Free Shipping: Kitchen Blowout
     *   Gifts They'll Love: Wedding Presents &. More
     *   Bedding Faves ft. DKNY, Nautica &. Vera Wang
@@ -200,52 +200,49 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Free Shipping: Bedding Sets Up to 60% Off
     *   Free Shipping: Hand-Painted Replicas
     *   Retro Glassware, Modern Dinnerware &. More
+    
     *   Free Shipping: Storage Blowout
     *   Free Shipping: Comforters, Sheet Sets &. More
-    
     *   Free Shipping: Decor to Upgrade Your Walls
     *   Free Shipping: Barware, Dinnerware &. More
     *   Free Shipping: Art for Every Room at $40
     *   Ayesha Curry Cookware &. More
     *   Free Shipping: Storage Must-Haves from $10
-    *   Pool Party: Floats, Games, Towels &. More from $10
-    *   Fun Tech Finds Under $40
     *   Free Shipping: Storage Solutions Up to 50% Off
-    *   Shinola at 75% Off
     
     Shop By Category
     *   Home Decor
-    *   Cleaning &. Organization
     *   Kitchen &. Tabletop
+    *   Cleaning &. Organization
     *   Bedding
-    *   Outdoor Living
-    *   Tech Accessories
     *   Bath
+    *   Outdoor Living
+    *   Luggage &. Travel
     *   Accent Furniture
     *   Rugs &. Doormats
-    *   Luggage &. Travel
+    *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   Lancome
+    *   Bio Ionic Hair Tools
     *   Hair Must-Haves ft. Macadamia Natural Oil &. More
     *   Mally Beauty &. Cargo Cosmetics
     *   CLE Cosmetics
     *   RapidLash
     *   National Lipstick Day: Shiseido, Lorac &. More
+    
     *   24K Gold &. Rose Gold Face Masks from $10
     *   Makeup We Love Starting at $10
-    
     *   Teami Blends
-    *   Hair Tools ft. Conair, T3 &. More
     *   Laura Mercier
     *   Skin Care Must-Haves Starting at $10
-    *   Palettes, Blushes &. Sets We Love
-    *   Luxe Skin Care ft. D24K
+    *   Hair Tools ft. Conair, T3 &. More
     
     Shop By Category
     *   Makeup
+    *   Hair Care
     *   Skin Care
     *   Bath &. Body
-    *   Hair Care
     *   Tools &. Accessories
     *   Fragrance
 
