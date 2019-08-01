@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
+    *   Multiple advisories for various VPN providers
     *   APT34 spread malware via LinkedIn invites
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Researchers bypass Cylance's AI-based AV solution by masking malware with video game code
-    *   Data management firm exposed client info on open Amazon S3 buckets: researchers
     *   Rickygate: Puerto Rican governor's private chat group messages leaked on Telegram
     
-    *   Coats to leave, Trump will name Ratcliffe as DNI
     *   Researchers disclose five unpatched bugs in Comodo Antivirus
-    *   No More Ransom saves ransomware victims $108 million
-    *   Hutchins receives no jail time for Kronos banking trojan
-    *   Flawed, but promising, Android ransomware uncovered
+    *   APT-hunting group claims China’s Security Ministry is behind APT17
+    *   Study: Ransomware generates most interest among underground forum users
+    *   Sephora reports data breach, but few details
+    *   Mueller's testimony clear: Russian election meddling ongoing
     
-    *   Personal info on 2500 LAPD members, 17.5K applicants stolen
-    *   Capital One hacker who stole personal info on 100M arrested
-    *   Over 200M devices affected by critical flaws found in real-time operating system
-    *   Flawed, but promising, Android ransomware uncovered
-    *   Multiple advisories for various VPN providers
+    *   BlueKeep built into exploitation tool, sparks fear of Wannacry style infections
+    *   Sephora reports data breach, but few details
+    *   Capital One breach exposes not just data, but dangers of cloud misconfigurations
+    *   Cyberattack strikes Watertown schools
+    *   Google researchers discover six iPhone vulnerabilities, one unpatched
 
 Back to Top
 
@@ -264,6 +264,6 @@ Back to Top
 
 Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
-You can skip this ad in 1 seconds.
+You can skip this ad in 2 seconds.
 
 x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
