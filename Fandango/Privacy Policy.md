@@ -298,13 +298,13 @@ Offers
     
     Sign up for a 'Cats' FanAlert™ for your chance to win a trip to the premiere in London! \*Terms apply. ENTER NOW
     
-*   AMC Stubs® Members Save Big with Discount Tuesdays
-    
-    Save on tickets to Tuesday showtimes with your AMC Stubs® membership. \*Terms apply. BUY TICKETS
-    
 *   FandangoNOW Binge Bundles
     
     Rent multiple movies for one low price. Starting as low as $1.50 per movie. Many bundles available in stunning 4K Ultra HD. START BINGING
+    
+*   'Hustlers' Sweepstakes
+    
+    Sign up for a 'Hustlers' FanAlert™ and you could win $500! \*Terms apply. ENTER NOW
     
 
 New + Coming soon
@@ -351,4 +351,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
