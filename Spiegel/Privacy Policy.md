@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   31\. Juli 2019
+*   1\. August 2019
 *   Abo
-*   DAX 12.147,24ǀ
+*   DAX 12.189,04ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -337,6 +337,7 @@ SPIEGEL GRUPPE
 *   \-buchreport
 *   \-Werbung
 *   \-Jobs
+*   \-SPIEGEL Akademie
 
 *   SPIEGEL COACHING
 *   LITERATUR SPIEGEL
