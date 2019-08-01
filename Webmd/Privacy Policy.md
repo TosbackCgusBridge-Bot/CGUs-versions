@@ -80,7 +80,6 @@ Skip to main content
     *   Aging Well
     *   Healthy Sleep
     *   Healthy Teens
-    *   Fit Kids
     
     Featured Topics*   Slideshow Which Food Has More Saturated Fat?
     *   Quiz Do You Know the Benefits of Walking?
@@ -107,8 +106,8 @@ Skip to main content
     *   Healthy Dogs
     *   View All
     
-    Featured Topics*   Expert Blog Dangers After Childbirth -- What to Watch For
-    *   Quiz Tips for Success ... Things Every Teen Should Know
+    Featured Topics*   Slideshow Smart Snacks When You're Pregnant
+    *   Quiz How Can You Avoid Homework Stress?
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
