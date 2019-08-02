@@ -221,17 +221,17 @@ Attention: Chief Digital Officer
     *   Researchers bypass Cylance's AI-based AV solution by masking malware with video game code
     *   Rickygate: Puerto Rican governor's private chat group messages leaked on Telegram
     
-    *   Researchers disclose five unpatched bugs in Comodo Antivirus
-    *   APT-hunting group claims China’s Security Ministry is behind APT17
-    *   Study: Ransomware generates most interest among underground forum users
-    *   Sephora reports data breach, but few details
-    *   Mueller's testimony clear: Russian election meddling ongoing
-    
-    *   BlueKeep built into exploitation tool, sparks fear of Wannacry style infections
-    *   Sephora reports data breach, but few details
-    *   Capital One breach exposes not just data, but dangers of cloud misconfigurations
+    *   Lessons learned: Can education solve cybersecurity’s “people” problem?
     *   Cyberattack strikes Watertown schools
-    *   Google researchers discover six iPhone vulnerabilities, one unpatched
+    *   APT34 spread malware via LinkedIn invites
+    *   Part 2 - Cooperative cybersecurity protection for large-scale infrastructure
+    *   Personal info on 2,500 LAPD members, 17.5K applicants stolen
+    
+    *   Flaws in Visa contactless cards allow for bypass of anti-fraud checks, researchers warn
+    *   DHS warns small aircraft are vulnerable to cyberattacks from those with physical access
+    *   Jamf acquires Mac endpoint solutions firm Digita Security
+    *   Part 2 - Cooperative cybersecurity protection for large-scale infrastructure
+    *   BlueKeep built into exploitation tool, sparks fear of Wannacry style infections
 
 Back to Top
 
@@ -262,8 +262,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of Haymarket Media’s Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. X
 
-You can skip this ad in 2 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+You can skip this ad in 1 seconds.
