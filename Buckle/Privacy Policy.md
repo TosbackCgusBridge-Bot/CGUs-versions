@@ -463,6 +463,7 @@ Returns
 
 Promotions
 
+*   First Buckle Credit Card Purchase
 *   Store Events
 *   Military Discount
 *   All Special Offers
