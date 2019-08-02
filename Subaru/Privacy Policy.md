@@ -99,22 +99,22 @@ Up to
 
 Forester Limited Shown
 
-Outback $26,345\* starting price 2019 Outback
+Outback $26,645\* starting price 2020 Outback
 
 Starting at
 
-$26,345 MSRP
+$26,645 MSRP
 
 Up to
 
-32/25 MPG Hwy/City
+33/25 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
 *   Compare
 *   Build &. Price
 
-Outback 3.6R Limited shown
+Outback Onyx Edition XT shown
 
 Ascent $31,995\* starting price 2020 Ascent
 
