@@ -272,6 +272,7 @@ Legal
     *   MathLink
     *   J/Link
     *   Wolfram|Alpha Toolbar
+    *   Wolfram Application Pack
     *   Other
 
 *   Publishing and Submissions
