@@ -69,7 +69,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: ‘Once Upon a Time in Hollywood’ Easter Eggs, Quentin Tarantino Filmmaking Tips and More Read More
+    *   Today in Movie Culture: ‘Fast &. Furious’ Franchise Recap, ’Once Upon a Time in Hollywood’ Director and Actor Commentary and More Read More
     *   Interview: Caleb Deschanel on 'The Lion King' and Its Visuals Read More
     *   Next 3 Leonardo DiCaprio and Brad Pitt Movies: 'Ad Astra,' 'Killers of the Flower Moon,' Then Maybe 'Babylon' Read More
     
@@ -298,13 +298,13 @@ Offers
     
     Sign up for a 'Cats' FanAlert™ for your chance to win a trip to the premiere in London! \*Terms apply. ENTER NOW
     
+*   AMC Stubs® Members Save Big with Discount Tuesdays
+    
+    Save on tickets to Tuesday showtimes with your AMC Stubs® membership. \*Terms apply. BUY TICKETS
+    
 *   FandangoNOW Binge Bundles
     
     Rent multiple movies for one low price. Starting as low as $1.50 per movie. Many bundles available in stunning 4K Ultra HD. START BINGING
-    
-*   'Hustlers' Sweepstakes
-    
-    Sign up for a 'Hustlers' FanAlert™ and you could win $500! \*Terms apply. ENTER NOW
     
 
 New + Coming soon
