@@ -1,15 +1,52 @@
-MarketplaceSeeking AlphaSUBSCRIBE
-
-*   Portfolio
-*   People
-*   News
-*   Analysis
+MarketplaceSubscribe
 
 Sign in / Join Now
 
 *   Help
 *   Knowledge Base
 *   Feedback Forum
+
+*   My Portfolio
+*   My Authors
+*   News
+    
+    *   Most Used
+    *   Market News (by date)
+    *   Top News
+    *   Wall Street Breakfast
+    *   Dividend News
+    *   Earnings Calendar
+    *   See All Sections
+    
+    *   Recommended
+    *   Energy News
+    *   Healthcare News
+    *   Tech News
+    *   On The Move
+    *   Latest StockTalks
+*   Analysis
+    
+    *   Most Used
+    *   Dividends
+    *   Dividend Ideas
+    *   Market Outlook
+    *   Stock Ideas
+    *   REITs
+    *   See All Sections
+    
+    *   Recommended
+    *   Closed End Funds
+    *   Today's Market
+    *   Dividend Strategy
+    *   ETF Screener
+    *   Investing Podcasts
+*   On the Move
+*   Stock Ideas
+*   Dividends
+*   Market Outlook
+*   Podcasts
+*   ETF Screener
+*   Retirement
 
 Privacy
 
@@ -97,4 +134,4 @@ Seeking Alpha's Privacy Policy is to share personal information only with the ow
 
 _Updated: August 9, 2017_
 
-Top Authors|RSS Feeds|Sitemap|About Us|Feedback|Contact UsTerms of Use|Privacy|Market Data Disclaimer|© 2019 Seeking Alpha <img src="https://sb.scorecardresearch.com/p?c1=2&c2=8500672&cv=2.0&cj=1" width="0" height="0" />. <div style="position:fixed. top:0. left:0. display:none" width="1" height="1">. <img src="/xgCxM9By/xhr/api/v1/collector/noScript.gif?appId=PXxgCxM9By">. </div>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=228550053985270&amp;ev=PageView&amp;noscript=1">BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+Top Authors|RSS Feeds|Sitemap|About Us|Feedback|Contact UsTerms of Use|Privacy|Market Data Disclaimer|© 2019 Seeking Alpha <img src="https://sb.scorecardresearch.com/p?c1=2&c2=8500672&cv=2.0&cj=1" width="0" height="0" />. <div style="position:fixed. top:0. left:0. display:none" width="1" height="1">. <img src="/xgCxM9By/xhr/api/v1/collector/noScript.gif?appId=PXxgCxM9By">. </div>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=228550053985270&amp;ev=PageView&amp;noscript=1">. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
