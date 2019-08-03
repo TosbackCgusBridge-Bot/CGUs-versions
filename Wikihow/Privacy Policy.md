@@ -216,19 +216,19 @@ If you believe that your copyrighted work has been copied in a way that constitu
 
   
 
-1\. An electronic or physical signature of a person authorized to act on behalf of the copyright owner;
+1\. An electronic or physical signature of a person authorized to act on behalf of the copyright owner.
 
   
 
-2\. Identification of the copyrighted work that you claim has been infringed;
+2\. Identification of the copyrighted work that you claim has been infringed.
 
   
 
-3\. Identification of the material that is claimed to be infringing and where it is located on the Service;
+3\. Identification of the material that is claimed to be infringing and where it is located on the Service.
 
   
 
-4\. Information reasonably sufficient to permit wikiHow to contact you, such as your address, telephone number, and, e-mail address;
+4\. Information reasonably sufficient to permit wikiHow to contact you, such as your address, telephone number, and, e-mail address.
 
   
 
