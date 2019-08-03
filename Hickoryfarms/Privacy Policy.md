@@ -63,6 +63,7 @@
 *   Holiday
     
     View All Categories Shop by Category*   Taste of Summer
+    *   Labor Day Gifts
     
     Occasions*   Birthday Gifts
     *   College Student Gifts
@@ -71,7 +72,7 @@
 *   Business Gifts
 *   Sale
 
-1.800.753.8558 Business Gifts Last chance! 20% off sitewide + free shipping on select gifts ends today!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
+1.800.753.8558 Business Gifts Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
 
 *   Gifts
     
@@ -138,6 +139,7 @@
 *   Holiday
     
     View All Categories Shop by Category*   Taste of Summer
+    *   Labor Day Gifts
     
     Occasions*   Birthday Gifts
     *   College Student Gifts
