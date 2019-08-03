@@ -9,8 +9,37 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
+    *   Madewell Incl. Plus
+    *   Oakley Sun &. More Starting at $50
+    *   Madewell Men Up to 60% Off
+    *   Madewell Shoes &. Accessories
+    *   Cougar Waterproof Shoes Up to 50% Off
+    *   Lumiere: Dresses &. More Under $30
+    *   Mirenesse Australia Starting at $10
+    *   Ron Hami Jewelry &. More
+    *   Make an Entrance: TOV Dresses &. More
+    *   One &. Done: Rompers &. Jumpsuits Under $40
+    *   Travel-Ready Handbags ft. Lodis
+    *   Cole Haan Men Up to 50% Off
+    *   Men's Active Shoes ft. Saucony
+    *   Island Vibes: On-Trend Jewelry Under $55
+    *   Vestige Up to 60% Off
+    *   Shoes ft. BC Footwear
+    *   Sleep In: Cozy Styles Starting at $14
+    *   Active Capris &. Tech Jackets Starting at $20
+    *   Londontown Gel Nail Polish
+    *   Free Shipping: Bedding Essentials
+    *   Agendas, Journals &. More
+    *   Summer Sleepover: PJs for Babies &. Kids
+    *   Samsonite Luggage Up to 70% Off
+    *   Joe-Ella Girls' Dresses Up to 60% Off
+    *   Summer Swimsuits &. Cover-Ups for Kids Under $20
+    *   $35 &. Under: Kids' Water Shoes &. Sandals
+    *   Back to School: Boys' Hudson Jeans &. More
+    *   Anne Klein Up to 50% Off
     *   Rebecca Minkoff Up to 50% Off
     *   Splendid
+    
     *   Rebecca Minkoff Shoes Up to 50% Off
     *   Office Style Upgrades: Styles from $20
     *   Swarovski Jewelry &. Watches
@@ -32,26 +61,17 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Roxy
     *   SeaVees Sneakers &. More Up to 55% Off
     *   Quiksilver Boys
-    *   Free Shipping: Kitchen Blowout
-    *   UGG Home
     *   Free Shipping: Candles, Tabletop Decor &. More
     *   Skechers Kids
     *   Sneak Peek: Fall Finds Incl. Plus &. Petites
-    
     *   Sneak Peek: Fall Outerwear Finds
     *   Sneak Peek: New Fall Finds for Him Up to 70% Off
     *   Sneak Peek: Transitional Fall Shoes Up to 60% Off
     *   Sneak Peek: Men's Boots Up to 70% Off
     *   Cole Haan Up to 50% Off
-    *   Cole Haan Men Up to 50% Off
-    *   Cole Haan Handbags &. Accessories Up to 50% Off
     *   Cole Haan Men's Coats, Bags &. More Up to 75% Off
-    *   Cole Haan Coats Up to 70% Off
-    *   Johnny Was Incl. Plus &. Petites
-    *   Resort Ready: Tiare Hawaii &. More
-    *   Love...Ady Dresses
+    
     *   Diesel
-    *   SUSINA
     *   Rivka Friedman Jewelry Up to 70% Off
     *   Lancome
     *   Finishing Touches for the Home from $10
@@ -60,43 +80,44 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Bio Ionic Hair Tools
     *   Free Shipping: Movie &. Pop Culture Art and More
     *   Sneak Peek: Kids' Fall Finds Under $20
+    *   Free Shipping: Kitchen Blowout
     *   Gifts They'll Love: Wedding Presents &. More
     *   Bedding Faves ft. DKNY, Nautica &. Vera Wang
-    *   UGG
-    *   UGG Kids
-    *   UGG Men
-    *   UGG Accessories
-    
-    *   UGG Men's Clothing
+    *   UGG Home
     *   Hair Must-Haves ft. Macadamia Natural Oil &. More
     *   Mally Beauty &. Cargo Cosmetics
-    *   John Varvatos Collection
-    *   14K Gold Jewelry Steals
     *   CLE Cosmetics
-    *   Jessica Simpson
-    *   Trendy Tots: Summer Looks for Girls &. Boys
-    *   Mia Belle Girls
     *   RapidLash
     *   National Lipstick Day: Shiseido, Lorac &. More
-    *   Merrell Men
     *   24K Gold &. Rose Gold Face Masks from $10
     *   Free Shipping: Bedding Sets Up to 60% Off
     *   Free Shipping: Hand-Painted Replicas
     *   Retro Glassware, Modern Dinnerware &. More
-    *   Makeup We Love Starting at $10
     *   Free Shipping: Storage Blowout
-    *   Teami Blends
-    *   Hair Tools ft. Conair, T3 &. More
     *   Free Shipping: Comforters, Sheet Sets &. More
     *   Free Shipping: Decor to Upgrade Your Walls
-    *   Free Shipping: Barware, Dinnerware &. More
-    *   Free Shipping: Art for Every Room at $40
     *   Free Shipping: Storage Solutions Up to 50% Off
-    *   UGG Coats
-    *   UGG Sleep &. Lounge
-    *   Mr. Swim Up to 65% Off
+    *   Cole Haan Coats Up to 70% Off
+    *   Cole Haan Handbags &. Accessories Up to 50% Off
 *   WomenShop Sale Events
     
+    *   Madewell Incl. Plus
+    *   Oakley Sun &. More Starting at $50
+    *   Madewell Shoes &. Accessories
+    *   Cougar Waterproof Shoes Up to 50% Off
+    *   Lumiere: Dresses &. More Under $30
+    *   Mirenesse Australia Starting at $10
+    *   Ron Hami Jewelry &. More
+    *   Make an Entrance: TOV Dresses &. More
+    *   One &. Done: Rompers &. Jumpsuits Under $40
+    *   Travel-Ready Handbags ft. Lodis
+    *   Island Vibes: On-Trend Jewelry Under $55
+    *   Shoes ft. BC Footwear
+    *   Sleep In: Cozy Styles Starting at $14
+    *   Active Capris &. Tech Jackets Starting at $20
+    *   Londontown Gel Nail Polish
+    *   Samsonite Luggage Up to 70% Off
+    *   Anne Klein Up to 50% Off
     *   Rebecca Minkoff Up to 50% Off
     *   Splendid
     *   Rebecca Minkoff Shoes Up to 50% Off
@@ -104,12 +125,12 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Swarovski Jewelry &. Watches
     *   Linea Paolo Up to 50% Off
     *   Day-to-Night Casual: Love, Fire Under $30
+    
     *   Bath &. Body: philosophy and Kiehl's Since 1851
     *   Flora Nikrooz Lingerie &. More
     *   BCBGeneration Swim &. More Up to 65% Off
     *   CZ by Kenneth Jay Lane Up to 75% Off
     *   Skin Care Sets Starting at $10
-    *   skinChemists Up to 85% Off
     *   Top It Off: Hats from Brixton &. More
     *   Uri Minkoff Up to 60% Off
     *   Back-to-School Shoes: Sneakers, Mules &. More
@@ -118,102 +139,91 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Sneak Peek: Fall Outerwear Finds
     *   Sneak Peek: Transitional Fall Shoes Up to 60% Off
     *   Cole Haan Up to 50% Off
-    *   Cole Haan Handbags &. Accessories Up to 50% Off
-    
-    *   Cole Haan Coats Up to 70% Off
-    *   Johnny Was Incl. Plus &. Petites
-    *   Resort Ready: Tiare Hawaii &. More
-    *   Love...Ady Dresses
-    *   SUSINA
     *   Rivka Friedman Jewelry Up to 70% Off
     *   Lancome
     *   Bio Ionic Hair Tools
-    *   UGG
-    *   UGG Accessories
     *   Hair Must-Haves ft. Macadamia Natural Oil &. More
     *   Mally Beauty &. Cargo Cosmetics
-    *   14K Gold Jewelry Steals
     *   CLE Cosmetics
     *   RapidLash
     *   National Lipstick Day: Shiseido, Lorac &. More
     *   24K Gold &. Rose Gold Face Masks from $10
-    *   Makeup We Love Starting at $10
-    *   Teami Blends
-    *   Hair Tools ft. Conair, T3 &. More
-    *   UGG Coats
-    *   UGG Sleep &. Lounge
+    *   Cole Haan Coats Up to 70% Off
+    *   Cole Haan Handbags &. Accessories Up to 50% Off
     
     Shop By Category
-    *   Shoes
     *   Clothing
-    *   Jewelry
+    *   Shoes
     *   Handbags
-    *   Accessories
     *   Lingerie
+    *   Jewelry
+    *   Accessories
     *   Watches
 *   MenShop Sale Events
     
+    *   Oakley Sun &. More Starting at $50
+    *   Madewell Men Up to 60% Off
+    *   Cole Haan Men Up to 50% Off
+    *   Men's Active Shoes ft. Saucony
+    *   Vestige Up to 60% Off
+    *   Samsonite Luggage Up to 70% Off
     *   Uri Minkoff Up to 60% Off
     *   Brooks Brothers Under $55
+    
     *   Rock Out: Jeans &. Graphic Tees Under $60
     *   SeaVees Sneakers &. More Up to 55% Off
     *   Sneak Peek: New Fall Finds for Him Up to 70% Off
     *   Sneak Peek: Men's Boots Up to 70% Off
-    *   Cole Haan Men Up to 50% Off
     *   Cole Haan Men's Coats, Bags &. More Up to 75% Off
-    
     *   Diesel
     *   Diesel Lounge
-    *   UGG Men
-    *   UGG Men's Clothing
-    *   John Varvatos Collection
-    *   Merrell Men
-    *   Mr. Swim Up to 65% Off
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Summer Sleepover: PJs for Babies &. Kids
+    *   Joe-Ella Girls' Dresses Up to 60% Off
+    *   Summer Swimsuits &. Cover-Ups for Kids Under $20
+    *   $35 &. Under: Kids' Water Shoes &. Sandals
+    *   Back to School: Boys' Hudson Jeans &. More
     *   Roxy
     *   Quiksilver Boys
     *   Skechers Kids
     *   Coccoli
     *   Sneak Peek: Kids' Fall Finds Under $20
-    *   UGG Kids
-    *   Jessica Simpson
-    *   Trendy Tots: Summer Looks for Girls &. Boys
-    *   Mia Belle Girls
     
     Shop By Category
-    *   Girls' Sizes 2T-6X
-    *   Girls' Sizes 7-16
     *   Boys' Sizes 2T-7
-    *   Girls' Shoes
-    *   Baby Girl
     *   Boys' Sizes 8-20
+    *   Girls' Sizes 7-16
+    *   Girls' Sizes 2T-6X
+    *   Girls' Shoes
     *   Baby Boy
+    *   Baby Girl
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Free Shipping: Bedding Essentials
+    *   Agendas, Journals &. More
+    *   Samsonite Luggage Up to 70% Off
     *   Eddie Bauer Bedding
-    *   Free Shipping: Kitchen Blowout
-    *   UGG Home
     *   Free Shipping: Candles, Tabletop Decor &. More
     *   Finishing Touches for the Home from $10
     *   Free Shipping: Movie &. Pop Culture Art and More
+    *   Free Shipping: Kitchen Blowout
     *   Gifts They'll Love: Wedding Presents &. More
-    *   Bedding Faves ft. DKNY, Nautica &. Vera Wang
-    *   Free Shipping: Bedding Sets Up to 60% Off
     
+    *   Bedding Faves ft. DKNY, Nautica &. Vera Wang
+    *   UGG Home
+    *   Free Shipping: Bedding Sets Up to 60% Off
     *   Free Shipping: Hand-Painted Replicas
     *   Retro Glassware, Modern Dinnerware &. More
     *   Free Shipping: Storage Blowout
     *   Free Shipping: Comforters, Sheet Sets &. More
     *   Free Shipping: Decor to Upgrade Your Walls
-    *   Free Shipping: Barware, Dinnerware &. More
-    *   Free Shipping: Art for Every Room at $40
     *   Free Shipping: Storage Solutions Up to 50% Off
     
     Shop By Category
@@ -221,33 +231,32 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Bedding
     *   Kitchen &. Tabletop
     *   Cleaning &. Organization
+    *   Luggage &. Travel
     *   Bath
     *   Outdoor Living
-    *   Luggage &. Travel
-    *   Rugs &. Doormats
     *   Accent Furniture
     *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   Mirenesse Australia Starting at $10
+    *   Londontown Gel Nail Polish
     *   Bath &. Body: philosophy and Kiehl's Since 1851
     *   Skin Care Sets Starting at $10
     *   skinChemists Up to 85% Off
     *   Lancome
     *   Bio Ionic Hair Tools
+    
     *   Hair Must-Haves ft. Macadamia Natural Oil &. More
     *   Mally Beauty &. Cargo Cosmetics
-    
     *   CLE Cosmetics
     *   RapidLash
     *   National Lipstick Day: Shiseido, Lorac &. More
     *   24K Gold &. Rose Gold Face Masks from $10
-    *   Makeup We Love Starting at $10
-    *   Teami Blends
-    *   Hair Tools ft. Conair, T3 &. More
     
     Shop By Category
     *   Makeup
     *   Skin Care
+    *   Nails
     *   Hair Care
     *   Bath &. Body
     *   Tools &. Accessories
