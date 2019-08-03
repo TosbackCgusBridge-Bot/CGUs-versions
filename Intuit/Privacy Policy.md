@@ -27,20 +27,85 @@ Shop Departments
     *   Backpacks
     *   Shop All Back To School
 
-Near YouFind a StoreBackFinal Hours Of COUPON CODE HOTDEALSENDS IN00HOURS 41MINS 07SECS See Details\*Extra 25% off select apparel, shoes, accessories, fine jewelry, home purchases of $100 or more any way you pay. Extra 20% off select apparel, shoes, accessories, fine jewelry, and home purchases with your JCPenney Credit Card or extra 15% off any other way you pay. Extra 10% off select furniture, mattresses, housewares, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches, and salon products any way you pay. Each offer good in store and at jcp.com, excluding taxes and shipping charges, 7/29/19-8/1/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Full amount of purchase must be on the JCPenney Credit Card to get the 20% off discount. Subject to credit approval. Does not apply to Best Value, Daily Deals, Limited Time Specials, Levi's, Denizen from Levi’s, Disney Collection, Disney Tsum Tsum, French Toast, Fisher-Price, Fanatics, Licensed Team Sports Merchandise, Columbia, Carhartt, Nike, adidas, Reebok, Puma, Champion, Converse, Clarks, Skechers Women's Shoes, Skechers Athletic Shoes, Bobs from Skechers, Keds, Grasshoppers, Athletic Shoes, Goddess Lingerie, Dreamgirl, Jewelry Trunk Shows, Modern Bride Design Your Dream Ring, Pre-Owned Watches, Smartwatches, Garmin, Fitbit, Sephora, Food, Penney Lane, S'ip by S'well, Electronics, In-Home Custom Design, Tempur-Pedic, Neato Robotics, iRobot, Sporting Goods/Outdoor Gear, Toys, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Personalized Jewelry, Wigs and Extensions, Purchase with Purchase Items, In-Store Services, Service Plans, Gift Cards, Closing Store purchases, current orders and prior purchases, or in combination with other coupon(s). Extra % off furniture, mattresses, custom blinds and shades offer does not apply to stores in Puerto Rico. Additionally, in Puerto Rico, does not apply to Diesel, Fossil, Kenneth Cole, Michael Kors, Rado and Skagen Watches, Cosmetics, Bassett, Gift Wrap &. More, Optical, and Universal Sunglasses. Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code HOTDEALS when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. Details50% OFF XERSION ACTIVEWEARFOR THE FAMILY select styles includes women's plus sizes | sale $6-$26.99 | reg. $14-$54Shop Now
-
-*   Women
-*   Men
-*   Kids
-*   Shop all
-
-YOUR ONE-STOP SCHOOL SHOPDORM 101Little spaces, lofty ideas. The 2019 dorm collection makes far away feel like home. BUY 1 GET 1 FREEKids' Izod uniforms| reg. $18-$44Available in plus &. husky sizesMAKE IT EASY: GET 'EM A GIFT CARD!UP TO 50% OFFSEMI-ANNUAL HOME SALEselect stylesShop Now
+Near YouFind a StoreBack HURRY! NIGHT TO DAY DOORBUSTERSENDS IN13HOURS 41MINS 04SECS JUNIORS' ARIZONA DENIMselect styles | reg. $42-$49GUYS' ARIZONA BOTTOMSselect styles | reg. $40-$56KIDS' ARIZONA JEANS, JOGGERS &. JEGGINGSselect styles | reg. $10-$40MEN'Sselect styles | sale $18.75-$48.75 | reg. $25-$65Nike excluded from couponKIDS'select styles | sale $15-$37.50 | reg. $20-$50Nike excluded from couponSHOESselect styles | sale $18-$75 | msrp $24-$100Nike excluded from couponWOMEN'Sselect styles | sale $12.99-$59.99 | msrp $18-$80Nike excluded from couponYOUR ONE-STOP SCHOOL SHOPDORM 101Little spaces, lofty ideas. The 2019 dorm collection makes far away feel like home. $6 KIDS’ IZOD UNIFORM POLOSselect styles | reg. $18-$26 | available in plus &. husky at similar savingsMAKE IT EASY: GET 'EM A GIFT CARD!UP TO 50% OFFSEMI-ANNUAL HOME SALEselect stylesShop Now
 
 *   Bedding
 *   Bath
 *   Window
 *   Kitchen
 *   Shop All
+
+UP TO 70% OFF WOMEN'S SANDALSSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S SANDALSSELECT STYLESSHOP ALL
+
+*   SPECIAL DEAL!
+    
+    $1599after couponwas $54 St. John's Bay Womens Noreen Wedge Sandals(14)Add To Cart
+*   SPECIAL DEAL!
+    
+    $2399after couponwas $64 Pop Womens Lilly Wedge Sandals(10)Add To Cart
+*   SPECIAL DEAL!
+    
+    $1439after couponwas $40 Arizona Womens Seymour Adjustable Strap Flat Sandals(18)Add To Cart
+*   SPECIAL DEAL!
+    
+    $3199after couponwas $60 Liz Claiborne Womens Kadin Heeled Sandals(6)Add To Cart
+*   SPECIAL DEAL!
+    
+    $3199after couponwas $60 Liz Claiborne Womens Eastwick Strap Sandals(12)Add To Cart
+*   SPECIAL DEAL!
+    
+    $1439after couponwas $40 Arizona Womens Torres Slide Sandals(10)Add To Cart
+*   SPECIAL DEAL!
+    
+    $1599after couponwas $60 a.n.a Womens Taci Wedge Sandals(20)Add To Cart
+
+UP TO 70% OFF SWIM FOR THE FAMILYSHOP ALLSELECT STYLESUP TO 70% OFF SWIM FOR THE FAMILYSELECT STYLESSHOP ALL
+
+*   SPECIAL DEAL!
+    
+    $3999after couponwas $99 Azul by Maxine of Hollywood Leaf Swim Dress(13)Add To Cart
+*   SPECIAL DEAL!
+    
+    $4399after couponwas $109 Azul by Maxine of Hollywood Leaf Swim Dress Plus(7)Add To Cart
+*   SPECIAL DEAL!
+    
+    $3999after couponwas $99 Azul by Maxine of Hollywood Abstract Swim Dress(3)Add To Cart
+*   SPECIAL DEAL!
+    
+    $4239after couponwas $89 Azul by Maxine of Hollywood Leaf One Piece Swimsuit(9)Add To Cart
+*   SPECIAL DEAL!
+    
+    $1999after couponwas $49 St. John's Bay High Waist Swimsuit Bottom(3)Add To Cart
+*   SPECIAL DEAL!
+    
+    $4719after couponwas $99 St. John's Bay Dots Swim Dress(12)Add To Cart
+*   SPECIAL DEAL!
+    
+    $1999after couponwas $49 St. John's Bay Swim Skirt(9)Add To Cart
+
+UP TO 70% OFF SHORTS FOR THE FAMILYSHOP ALLSELECT STYLESUP TO 70% OFF SHORTS FOR THE FAMILYSELECT STYLESSHOP ALL
+
+*   SPECIAL DEAL!
+    
+    from$399after couponwas $12 - $14 Okie Dokie Hoodie-Toddler BOy
+*   SPECIAL DEAL!
+    
+    from$559after couponwas $16 - $44 St. John's Bay T-shirt and Button-Front Shirt with Chino Shorts
+*   SPECIAL DEAL!
+    
+    from$559after couponwas $17 - $22 Okie Dokie Boys Button Down Shirt and Shorts
+*   SPECIAL DEAL!
+    
+    from$1199after couponwas $30 - $37 Liz Claiborne Casual June Key Items
+*   SPECIAL DEAL!
+    
+    $799after couponwas $36 St. John's Bay Men's Stretch Chino Short(66)Add To Cart
+*   SPECIAL DEAL!
+    
+    $8after couponwas $32 - $37 Arizona Boys Stretch Adjustable Waist Cargo Short Preschool / Big Kid(8)Add To Cart
+*   SPECIAL DEAL!
+    
+    $8after couponwas $30 - $35 Arizona Boys Stretch Adjustable Waist Chino Short Preschool / Big Kid(18)Add To Cart
 
 BUY 1 GET 1 FREE ATHLETIC SHOESSHOP ALLSELECT STYLESBUY 1 GET 1 FREE ATHLETIC SHOESSELECT STYLESSHOP ALL
 
@@ -90,22 +155,34 @@ BUY 1 GET 1 FREE ATHLETIC SHOESSHOP ALLSELECT STYLESBUY 1 GET 1 FREE ATHLETIC SH
     
     LIMITED TIME SPECIAL!
     
-    $65
+    $90
     
-    adidas Lite Racer Adapt Mens Pull-on SneakersAdd To Cart
+    Asics Gt-1000 7 Womens Lace-up Running Shoes(37)Add To Cart
 
 Recommended for You
 
-*   from$254after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(223)
-*   $1104after couponwas $32 St. John's Bay Secretly Slender Mid Rise Capris(203)
-*   from$1104after couponwas $26 - $60 Home Expressions Microfiber Plus Easy Care Wrinkle Resistant Sheet Set(1544)
-*   from$339after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(171)
+*   BUY 1 GET 1 FOR FREE
+    
+    from$6
+    
+    Home Expressions Solid or Stripe Bath Towel Collection(232)
+*   from$1039after couponwas $32 St. John's Bay Secretly Slender Mid Rise Capris(209)
+*   from$1039after couponwas $26 - $60 Home Expressions Microfiber Plus Easy Care Wrinkle Resistant Sheet Set(1545)
+*   BUY 1 GET 1 FOR FREE
+    
+    from$10
+    
+    JCPenney Home Performance Bath Towel Collection(173)
 *   BUY 1 GET 1 FOR FREE
     
     from$20
     
     Izod Exclusive Girls Spread Collar Short Sleeve Stretch Polo Shirt(29)
-*   from$339after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1307)
+*   BUY 1 GET 1 FOR FREE
+    
+    from$10
+    
+    JCPenney Home™ Quick Dri Textured Solid Bath Towels(1310)
 
 Shop and Save at JCPenney
 
