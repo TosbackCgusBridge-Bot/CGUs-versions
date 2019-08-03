@@ -3,13 +3,13 @@
 *   Schedule
 *   Standings
 *   Training Camp
+*   Watch Games
 *   NFL 100
 
 *   NFL 100
 *   Fantasy
 
-*   *   Game Pass
-    *   Super Bowl
+*   *   Super Bowl
     *   Combine
     *   Draft
     *   Highlights
