@@ -69,8 +69,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: ‘Fast &. Furious’ Franchise Recap, ’Once Upon a Time in Hollywood’ Director and Actor Commentary and More Read More
-    *   Interview: Caleb Deschanel on 'The Lion King' and Its Visuals Read More
+    *   Today in Movie Culture: ‘Hobbs &. Shaw’ Director Commentary, Tommy Wiseau Joins the Avengers and More Read More
+    *   The Week in Movie News: Guillermo del Toro Casts Cate Blanchett for Next Project, First ‘1917’ Trailer and More Read More
     *   Next 3 Leonardo DiCaprio and Brad Pitt Movies: 'Ad Astra,' 'Killers of the Flower Moon,' Then Maybe 'Babylon' Read More
     
     Explore Content
@@ -351,4 +351,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
