@@ -219,19 +219,19 @@ Attention: Chief Digital Officer
     *   APT34 spread malware via LinkedIn invites
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Researchers bypass Cylance's AI-based AV solution by masking malware with video game code
-    *   Rickygate: Puerto Rican governor's private chat group messages leaked on Telegram
-    
-    *   Mueller's testimony clear: Russian election meddling ongoing
     *   Flaws in Visa contactless cards allow for bypass of anti-fraud checks, researchers warn
-    *   Cyberattack forces Houston County schools to postpone opening day
-    *   No More Ransom saves ransomware victims $108 million
-    *   RIG, Fallout EKs used to deliver new SystemBC malware
     
+    *   Inside-out analytics: Solving the enigmatic insider threat
+    *   CEO fraud: It's human nature
     *   Fiendish Amavaldo banking trojan strikes in Mexico after targeting Brazilians
-    *   RIG, Fallout EKs used to deliver new SystemBC malware
-    *   U.S. indicts three over alleged phishing campaign targeting universities, businesses
-    *   Two Deer Valley Resort restaurants hit with POS data breach
-    *   Honda Motors Company databases leaked 40GB of employee data
+    *   Proposed MICROCHIPS Act would require protections for technology supply chain
+    *   Johannesburg’s power company hit by ransomware attack
+    
+    *   Apple halts contractors listening to Siri recordings, will offer opt-out
+    *   House Republicans ask Capitol One and Amazon for briefing on data breach
+    *   Pearson data breach impacts thousands of university accounts
+    *   Cisco pays $8.6 million to settle False Claims Act litigation
+    *   Fiendish Amavaldo banking trojan strikes in Mexico after targeting Brazilians
 
 Back to Top
 
