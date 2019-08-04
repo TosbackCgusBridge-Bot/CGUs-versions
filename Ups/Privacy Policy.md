@@ -38,10 +38,18 @@ SearchMenu Close
     *   Brokerage &. Compliance
     
     UPS My Choice
+    
     *   Manage Home Deliveries:  
         _UPS My Choice for home_
     *   Manage Business Shipments:  
-        _UPS My Choice for business_Explore All Tracking
+        _UPS My Choice for business_
+    
+    Explore All Tracking Simplicity found at a glance
+    
+    A new look for UPS tracking solutions makes it easier for you to stay updated on your shipments.
+    
+    Track Now
+    
 *   Shipping Shipping New Shipments
     
     *   Create a Shipment:  
@@ -67,11 +75,11 @@ SearchMenu Close
         _UPS TradeAbility_
     *   Order Supplies
     
-    Explore All Shipping Convenient locations near you.
+    Explore All Shipping New multi-channel fulfillment made easy
     
-    With shipping locations around the globe and around the corner, UPS makes it easier to find reliable shipping.
+    UPS eFulfillment can help you centrally store and ship the products you sell on more than 21 platforms. Start your 60-day trial today.
     
-    Find the Nearest Location
+    Learn More to Sign Up
     
 *   Services Services By Type
     
