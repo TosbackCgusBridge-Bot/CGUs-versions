@@ -200,6 +200,7 @@ Customer Service
 
 About Us
 
+*   About Us
 *   In The News
 *   Our Blog
 *   No Kid Hungry®
