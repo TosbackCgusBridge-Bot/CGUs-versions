@@ -122,7 +122,7 @@ Learn More
 
 Nothing gets the blood pumping like taking down a horde in Days Gone 🏃‍♂️ Quick tips for success in the new Keep Them Safer challenge pic.twitter.com/TwjRlRNhTC
 
-6 days ago View Tweet
+7 days ago View Tweet
 
 Meet the RX100 VII
 
