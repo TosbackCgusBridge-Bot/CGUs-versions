@@ -221,11 +221,11 @@ Attention: Chief Digital Officer
     *   Researchers bypass Cylance's AI-based AV solution by masking malware with video game code
     *   Flaws in Visa contactless cards allow for bypass of anti-fraud checks, researchers warn
     
-    *   Inside-out analytics: Solving the enigmatic insider threat
-    *   CEO fraud: It's human nature
-    *   Fiendish Amavaldo banking trojan strikes in Mexico after targeting Brazilians
-    *   Proposed MICROCHIPS Act would require protections for technology supply chain
     *   Johannesburg’s power company hit by ransomware attack
+    *   Louisiana declares state of emergency after cyberattacks hit three school districts
+    *   Autonomous vehicle sensors tricked by “invisible” drone projections of road signs
+    *   Flawed, but promising, Android ransomware uncovered
+    *   Hutchins receives no jail time for Kronos banking trojan
     
     *   Apple halts contractors listening to Siri recordings, will offer opt-out
     *   House Republicans ask Capitol One and Amazon for briefing on data breach
