@@ -217,21 +217,21 @@ Attention: Chief Digital Officer
     
     *   Multiple advisories for various VPN providers
     *   APT34 spread malware via LinkedIn invites
-    *   Article 29 Working Party still not happy with Windows 10 privacy controls
     *   Researchers bypass Cylance's AI-based AV solution by masking malware with video game code
-    *   Flaws in Visa contactless cards allow for bypass of anti-fraud checks, researchers warn
+    *   Article 29 Working Party still not happy with Windows 10 privacy controls
+    *   Honda Motors Company databases leaked 40GB of employee data
     
-    *   Johannesburg’s power company hit by ransomware attack
-    *   Louisiana declares state of emergency after cyberattacks hit three school districts
-    *   Autonomous vehicle sensors tricked by “invisible” drone projections of road signs
-    *   Flawed, but promising, Android ransomware uncovered
-    *   Hutchins receives no jail time for Kronos banking trojan
+    *   Capital One hacker who stole personal info on 100M arrested
+    *   CEO fraud: It's human nature
+    *   Cyberattack forces Houston County schools to postpone opening day
+    *   Part 2 - Cooperative cybersecurity protection for large-scale infrastructure
+    *   Capital One breach exposes not just data, but dangers of cloud misconfigurations
     
+    *   Trump withdraws Ratcliffe nomination for DNI
+    *   Hurd's exit leaves cybersecurity gap in Congress
+    *   Part 4 - Cooperative cybersecurity protection for large-scale infrastructure
     *   Apple halts contractors listening to Siri recordings, will offer opt-out
     *   House Republicans ask Capitol One and Amazon for briefing on data breach
-    *   Pearson data breach impacts thousands of university accounts
-    *   Cisco pays $8.6 million to settle False Claims Act litigation
-    *   Fiendish Amavaldo banking trojan strikes in Mexico after targeting Brazilians
 
 Back to Top
 
