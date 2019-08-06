@@ -10,7 +10,7 @@ Games
 
 View more results
 
-*   Apps
+*   New
     
 *   Multiplayer
     
@@ -43,7 +43,7 @@ View more results
     
     *   Most popular
     *   Most played
-    *   Recently Added
+    *   New
     *   Alphabetical Order
     
     Best Games
@@ -75,7 +75,7 @@ View more results
     
     *   Most popular
     *   Most played
-    *   Recently Added
+    *   New
     *   Alphabetical Order
     
     Best Games
@@ -107,7 +107,7 @@ View more results
     
     *   Most popular
     *   Most played
-    *   Recently Added
+    *   New
     *   Alphabetical Order
     
     Best Games
@@ -139,7 +139,7 @@ View more results
     
     *   Most popular
     *   Most played
-    *   Recently Added
+    *   New
     *   Alphabetical Order
     
     Best Games
@@ -171,7 +171,7 @@ View more results
     
     *   Most popular
     *   Most played
-    *   Recently Added
+    *   New
     *   Alphabetical Order
     
     Best Games
@@ -180,8 +180,8 @@ View more results
     *   Back To School: Princesses Rush
     *   Burger Restaurant Express
     *   Popstar Dentist
-    *   Vincy Lip Care
     *   The Princess: Sent to the Future - Dress Up Game
+    *   Vincy Lip Care
     *   Get Your Boyfriend
     *   Love Tester 2.0
     *   Princess Rivalry
@@ -203,7 +203,7 @@ View more results
     
     *   Most popular
     *   Most played
-    *   Recently Added
+    *   New
     *   Alphabetical Order
     
     Best Games
@@ -234,7 +234,7 @@ View more results
     
     *   Most popular
     *   Most played
-    *   Recently Added
+    *   New
     *   Alphabetical Order
     
     Best Games
