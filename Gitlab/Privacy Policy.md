@@ -50,6 +50,8 @@ GitLab does not intentionally collect sensitive personal information, such as so
 
 If you're a child under the age of 13, you may not have an account on the Website. GitLab does not knowingly collect information from or direct any of our Website or content specifically to children under 13. If we learn or have reason to suspect that a user is under the age of 13, we will close the child’s account.
 
+Other countries may have different minimum age limits. If you are below the minimum age for providing consent for data collection in your country, you may not use GitLab.
+
 Basis for Processing Your Information
 
 Performance of a contract. The use of your information may be necessary to perform the contract that you have with us. For example, if you use our Websites to purchase GitLab product subscriptions or services, contribute to a project, create a profile, post and comment through our Websites, or request information through our Websites, we will use your information to carry out our obligation to complete and administer that contract or request.
