@@ -39,7 +39,6 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
         *   Buckle Exclusives
         *   buckle SELECT
         *   Gift Cards
-        *   Loyalty Event
         *   Now Trending
         *   Shop by Outfit
         *   Special Offers
@@ -58,6 +57,7 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
         *   Swim
         *   Tops
         *   Plus Sizes
+        *   School Uniforms
         *   Shop All
         
         *   Jeans
@@ -107,7 +107,6 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
         *   Buckle Exclusives
         *   buckle SELECT
         *   Gift Cards
-        *   Loyalty Event
         *   Men's Brands
         *   Now Trending
         *   Shop by Outfit
