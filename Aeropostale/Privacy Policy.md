@@ -529,6 +529,6 @@ Stay Connected
 
 *   Visit A Store
 *   Find Store Coupons
-*   Live Chat (9am - 10pm EST) Call Us
+*   Live Chat (9am - 12am EST) Call Us
 *   Use Student Discount
 *   Store FAQs
