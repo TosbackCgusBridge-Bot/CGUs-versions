@@ -5,43 +5,46 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Fast &. Furious Presents: Hobbs &. Shaw
     *   The Lion King (2019)
     *   Once Upon a Time in Hollywood
     *   Spider-Man: Far From Home (2019)
     *   Toy Story 4
-    *   Crawl (2019)
     *   Yesterday (2019)
-    *   Aladdin (2019)
-    *   Stuber
-    *   Annabelle Comes Home
     *   The Farewell (2019)
+    *   Crawl (2019)
+    *   Aladdin (2019)
+    *   Annabelle Comes Home
     *   The Secret Life of Pets 2
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Fast &. Furious Presents: Hobbs &. Shaw
-    *   Jay Myself
-    *   Leo Da Vinci: Mission Mona Lisa
-    *   Luce
-    *   The Nightingale (2019)
-    *   Piranhas (2019)
-    *   Tel Aviv on Fire
-    *   Them That Follow
+    *   The Art of Racing in the Rain
+    *   Brian Banks
+    *   Dora and the Lost City of Gold
+    *   The Kitchen (2019)
+    *   Scary Stories to Tell in the Dark
+    *   After the Wedding (2019)
+    *   Dying to Survive
+    *   ECCO (2019)
+    *   Ode to Joy (2019)
+    *   One Child Nation
+    *   The Peanut Butter Falcon
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Dora and the Lost City of Gold
-    *   Scary Stories to Tell in the Dark
-    *   The Kitchen (2019)
-    *   Brian Banks
-    *   The Art of Racing in the Rain
     *   47 Meters Down: Uncaged
     *   Good Boys (2019)
     *   Blinded by the Light
     *   Where'd You Go, Bernadette
     *   The Angry Birds Movie 2
+    *   Angel Has Fallen
+    *   Overcomer
+    *   Ready or Not
+    *   Saaho (2019)
+    *   It Chapter Two (2019)
     *   See All Coming Soon
     
     Explore More
@@ -69,9 +72,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: ‘Hobbs &. Shaw’ Director Commentary, Tommy Wiseau Joins the Avengers and More Read More
+    *   Today in Movie Culture: Movies That Almost Starred Dwayne Johnson, Alternate ‘Spider-Man: Far From Home’ Ending and More Read More
     *   The Week in Movie News: Guillermo del Toro Casts Cate Blanchett for Next Project, First ‘1917’ Trailer and More Read More
-    *   Next 3 Leonardo DiCaprio and Brad Pitt Movies: 'Ad Astra,' 'Killers of the Flower Moon,' Then Maybe 'Babylon' Read More
+    *   Next 3 Dwayne Johnson Movies: 'Jumanji: The Next Level,' 'Jungle Cruise,' 'Black Adam' Read More
     
     Explore Content
     *   Movie Reviews
@@ -351,4 +354,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
+Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW FanShop MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
