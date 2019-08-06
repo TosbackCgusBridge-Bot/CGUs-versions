@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Charmed Kubernetes update for upstream API server vulnerability ›
 *   Design and Web team summary – 2 August 2019 ›
 *   Digital signage platform Xibo launches as a snap ›
 *   Amazon EC2 On-Demand Hibernation for Ubuntu 18.04 LTS now available ›
 *   A shift to the Linux app store experience ›
-*   Manjaro, snaps and the spirit of collaboration ›
