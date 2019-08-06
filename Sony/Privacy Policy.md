@@ -98,134 +98,141 @@ Main menuSONY
 
 Search Sony
 
-Go Behind-the-Scenes With the Cast of “Once Upon a Time in…Hollywood”
+Gather Your Flock to See the Flightless Birds Back in Action
 
-Now Playing in Theaters
+“The Angry Birds Movie 2” Hits Theaters August 14
 
-Play video: Go Behind-the-Scenes With the Cast of “Once Upon a Time in…Hollywood” Close video: Go Behind-the-Scenes With the Cast of “Once Upon a Time in…Hollywood”
+Play video: Gather Your Flock to See the Flightless Birds Back in Action Close video: Gather Your Flock to See the Flightless Birds Back in Action
 
-*   Share on Facebook: Go Behind-the-Scenes With the Cast of “Once Upon a Time in…Hollywood”
-*   Share on Twitter: Go Behind-the-Scenes With the Cast of “Once Upon a Time in…Hollywood”
-*   Copy URL to Share: Go Behind-the-Scenes With the Cast of “Once Upon a Time in…Hollywood”
+*   Share on Facebook: Gather Your Flock to See the Flightless Birds Back in Action
+*   Share on Twitter: Gather Your Flock to See the Flightless Birds Back in Action
+*   Copy URL to Share: Gather Your Flock to See the Flightless Birds Back in Action
 
-<img class="bg-img video-dkK6ZWrPW0M" data-linkname="en:set\_a:\_3x2-1:video:movies:OnceUponaTimeinHollywoodSpotlightVideo-July-29-2019:sp:image:dkK6ZWrPW0M" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Go Behind-the-Scenes With the Cast of “Once Upon a Time in…Hollywood” dkK6ZWrPW0M Once-Upon-a-Time-in-Hollywood-Spotlight-Video" data-img1x="/content/dam/sony/homepage/2019-july/july-29/OnceUponATimeInHollywood-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/OnceUponATimeInHollywood-745x500.jpg" src="/content/dam/sony/homepage/2019-july/july-29/OnceUponATimeInHollywood-745x500.jpg" alt="Once Upon a Time in Hollywood video"/>. <img class="bg-img video-dkK6ZWrPW0M" alt="Once Upon a Time in Hollywood video Mobile" data-linkname="en:set\_a:\_3x2-1:video:movies:OnceUponaTimeinHollywoodSpotlightVideo-July-29-2019:sp:image-mobile:dkK6ZWrPW0M" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Go Behind-the-Scenes With the Cast of “Once Upon a Time in…Hollywood” dkK6ZWrPW0M Once-Upon-a-Time-in-Hollywood-Spotlight-Video" data-img1x="/content/dam/sony/homepage/2019-july/july-29/OnceUponATimeInHollywood-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/OnceUponATimeInHollywood-745x500.jpg" src="/content/dam/sony/homepage/2019-july/july-29/OnceUponATimeInHollywood-600x600.jpg"/>.
+<img class="bg-img video-RDj8Y2K0ODA" data-linkname="en:set\_a:\_3x2-1:video:movies:AngryBirds2MovieTrailer-August-05-2019:sp:image:RDj8Y2K0ODA" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Gather Your Flock to See the Flightless Birds Back in Action RDj8Y2K0ODA Angry-Birds-2-Movie-Trailer" data-img1x="/content/dam/sony/homepage/2019-august/august-5/angry-birds-2-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/angry-birds-2-745x500.jpg" src="/content/dam/sony/homepage/2019-august/august-5/angry-birds-2-745x500.jpg" alt="The Angry Birds Movie 2"/>. <img class="bg-img video-RDj8Y2K0ODA" alt="The Angry Birds Movie 2 Mobile" data-linkname="en:set\_a:\_3x2-1:video:movies:AngryBirds2MovieTrailer-August-05-2019:sp:image-mobile:RDj8Y2K0ODA" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Gather Your Flock to See the Flightless Birds Back in Action RDj8Y2K0ODA Angry-Birds-2-Movie-Trailer" data-img1x="/content/dam/sony/homepage/2019-august/august-5/angry-birds-2-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/angry-birds-2-745x500.jpg" src="/content/dam/sony/homepage/2019-august/august-5/angry-birds-2-600x600.jpg"/>.
 
-Find the Right Lens for Your Photography Style
+Join the Cast of Superstars On the Red Carpet
+
+See “Once Upon a Time in…Hollywood”
+
+Play video: Join the Cast of Superstars On the Red Carpet Close video: Join the Cast of Superstars On the Red Carpet
+
+*   Share on Facebook: Join the Cast of Superstars On the Red Carpet
+*   Share on Twitter: Join the Cast of Superstars On the Red Carpet
+*   Copy URL to Share: Join the Cast of Superstars On the Red Carpet
+
+<img class="bg-img video-vZyogBO4c0U" data-linkname="en:set\_a:\_2x1-2:video:movies:OnceUponaTimeinHollywoodRedCarpet-August-05-2019:sp:image:vZyogBO4c0U" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Join the Cast of Superstars On the Red Carpet vZyogBO4c0U Once-Upon-a-Time-in-Hollywood-Red-Carpet" data-img1x="/content/dam/sony/homepage/2019-august/august-5/ONCE\_UPON\_A\_TIME\_PREMIERE\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/ONCE\_UPON\_A\_TIME\_PREMIERE\_500x246.jpg" src="/content/dam/sony/homepage/2019-august/august-5/ONCE\_UPON\_A\_TIME\_PREMIERE\_500x246.jpg" alt="Brad Pitt on the red carpet "/>. <img class="bg-img video-vZyogBO4c0U" alt="Brad Pitt on the red carpet Mobile" data-linkname="en:set\_a:\_2x1-2:video:movies:OnceUponaTimeinHollywoodRedCarpet-August-05-2019:sp:image-mobile:vZyogBO4c0U" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Join the Cast of Superstars On the Red Carpet vZyogBO4c0U Once-Upon-a-Time-in-Hollywood-Red-Carpet" data-img1x="/content/dam/sony/homepage/2019-august/august-5/ONCE\_UPON\_A\_TIME\_PREMIERE\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/ONCE\_UPON\_A\_TIME\_PREMIERE\_500x246.jpg" src="/content/dam/sony/homepage/2019-august/august-5/ONCE\_UPON\_A\_TIME\_PREMIERE\_600x600.jpg"/>.
+
+A stampede of anticipated games is coming  
+  
+Dive into PlayStation's most-wanted upcoming PS4 games of 2019:  http://play.st/2MDYjs1  pic.twitter.com/gdkkflc58i
+
+16 hours ago View Tweet X850G HDR 4K TV ByYQ8tJF0SI
+
+Tom Hank’s Next Role
 
 Learn More
 
-*   Share on Facebook: Find the Right Lens for Your Photography Style
-*   Share on Twitter: Find the Right Lens for Your Photography Style
-*   Copy URL to Share: Find the Right Lens for Your Photography Style
+*   Share on Facebook: Tom Hank’s Next Role
+*   Share on Twitter: Tom Hank’s Next Role
+*   Copy URL to Share: Tom Hank’s Next Role
 
-<img class="bg-img" data-linkname="en:set\_a:\_2x1-2:image:electronics:CameraLensesImage-July-29-2019:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Find the Right Lens for Your Photography Style Camera-Lenses-Image" data-img1x="/content/dam/sony/homepage/2019-july/july-29/LensGroup-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/LensGroup-500x246.jpg" src="/content/dam/sony/homepage/2019-july/july-29/LensGroup-500x246.jpg" alt="Camera Lenses"/>. <img class="bg-img" data-linkname="en:set\_a:\_2x1-2:image:electronics:CameraLensesImage-July-29-2019:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Find the Right Lens for Your Photography Style Camera-Lenses-Image" data-img1x="/content/dam/sony/homepage/2019-july/july-29/LensGroup-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/LensGroup-500x246.jpg" src="/content/dam/sony/homepage/2019-july/july-29/LensGroup-600x600.jpg" alt="Camera Lenses Mobile"/>.
+<img class="bg-img" data-linkname="en:set\_a:\_1x1-5:image:movies:ABeautifulDayintheNeighborhoodTrailer-August-05-2019:sp:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Tom Hank’s Next Role A-Beautiful-Day-in-the-Neighborhood-Trailer" data-img1x="/content/dam/sony/homepage/2019-august/august-5/a-beautiful-day-in-the-neighborhood-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/a-beautiful-day-in-the-neighborhood-600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-5/a-beautiful-day-in-the-neighborhood-600x600.jpg" alt="A9G MASTER Series BRAVIA OLED 4K HDR TV"/>. <img class="bg-img" data-linkname="en:set\_a:\_1x1-5:image:movies:ABeautifulDayintheNeighborhoodTrailer-August-05-2019:sp:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Tom Hank’s Next Role A-Beautiful-Day-in-the-Neighborhood-Trailer" data-img1x="/content/dam/sony/homepage/2019-august/august-5/a-beautiful-day-in-the-neighborhood-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/a-beautiful-day-in-the-neighborhood-600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-5/a-beautiful-day-in-the-neighborhood-600x600.jpg" alt="A9G MASTER Series BRAVIA OLED 4K HDR TV Mobile"/>.
 
-Nothing gets the blood pumping like taking down a horde in Days Gone 🏃‍♂️ Quick tips for success in the new Keep Them Safer challenge pic.twitter.com/TwjRlRNhTC
+Pro Capabilities That Fit Perfectly in Your Pocket
 
-7 days ago View Tweet
+Explore the RX100 VII Key Features
 
-Meet the RX100 VII
+*   Share on Facebook: Pro Capabilities That Fit Perfectly in Your Pocket
+*   Share on Twitter: Pro Capabilities That Fit Perfectly in Your Pocket
+*   Copy URL to Share: Pro Capabilities That Fit Perfectly in Your Pocket
 
-Our New Compact Camera
+<img class="bg-img" data-linkname="en:set\_a:\_2x2-6:image:electronics:RX100VIICamera-August-05-2019:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Pro Capabilities That Fit Perfectly in Your Pocket RX100-VII-Camera" data-img1x="/content/dam/sony/homepage/2019-august/august-5/DSCRX100M7-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/DSCRX100M7-600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-5/DSCRX100M7-600x600.jpg" alt="RX100 VII Camera"/>. <img class="bg-img" data-linkname="en:set\_a:\_2x2-6:image:electronics:RX100VIICamera-August-05-2019:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Pro Capabilities That Fit Perfectly in Your Pocket RX100-VII-Camera" data-img1x="/content/dam/sony/homepage/2019-august/august-5/DSCRX100M7-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/DSCRX100M7-600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-5/DSCRX100M7-600x600.jpg" alt="RX100 VII Camera Mobile"/>.
 
-*   Share on Facebook: Meet the RX100 VII
-*   Share on Twitter: Meet the RX100 VII
-*   Copy URL to Share: Meet the RX100 VII
+Experience What It’s Like to Go From College Football Champ to Pro
 
-<img class="bg-img" data-linkname="en:set\_a:\_1x1-4:image:electronics:RX100VIICamera-July-29-2019:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Meet the RX100 VII RX100-VII-Camera" data-img1x="/content/dam/sony/homepage/2019-july/july-29/RX100VII-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/RX100VII-600x600.jpg" src="/content/dam/sony/homepage/2019-july/july-29/RX100VII-600x600.jpg" alt="RX100 VII Camera"/>. <img class="bg-img" data-linkname="en:set\_a:\_1x1-4:image:electronics:RX100VIICamera-July-29-2019:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Meet the RX100 VII RX100-VII-Camera" data-img1x="/content/dam/sony/homepage/2019-july/july-29/RX100VII-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/RX100VII-600x600.jpg" src="/content/dam/sony/homepage/2019-july/july-29/RX100VII-600x600.jpg" alt="RX100 VII Camera Mobile"/>. A9G MASTER Series BRAVIA OLED 4K HDR TV Bz0pskaldh4
+Play “Madden NFL 20” on PS4™
 
-Discover Plating Techniques That Turn Up the Volume
+Play video: Experience What It’s Like to Go From College Football Champ to Pro Close video: Experience What It’s Like to Go From College Football Champ to Pro
 
-Listen to More of Your Favorite Artists
+*   Share on Facebook: Experience What It’s Like to Go From College Football Champ to Pro
+*   Share on Twitter: Experience What It’s Like to Go From College Football Champ to Pro
+*   Copy URL to Share: Experience What It’s Like to Go From College Football Champ to Pro
 
-Play video: Discover Plating Techniques That Turn Up the Volume Close video: Discover Plating Techniques That Turn Up the Volume
+<img class="bg-img video-H9Jgla7SvYg" data-linkname="en:set\_e:position\_2|\_5x2-1:video:playstation:MaddenNFL20-August-05-2019:ps:image:H9Jgla7SvYg" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Experience What It’s Like to Go From College Football Champ to Pro H9Jgla7SvYg Madden-NFL-20" data-img1x="/content/dam/sony/homepage/2019-july/july-22/madden-nfl-20-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-22/madden-nfl-20-1276x500.jpg" src="/content/dam/sony/homepage/2019-july/july-22/madden-nfl-20-1276x500.jpg" alt="Madden NFL 20 trailer"/>. <img class="bg-img video-H9Jgla7SvYg" alt="Madden NFL 20 trailer Mobile" data-linkname="en:set\_e:position\_2|\_5x2-1:video:playstation:MaddenNFL20-August-05-2019:ps:image-mobile:H9Jgla7SvYg" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Experience What It’s Like to Go From College Football Champ to Pro H9Jgla7SvYg Madden-NFL-20" data-img1x="/content/dam/sony/homepage/2019-july/july-22/madden-nfl-20-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-22/madden-nfl-20-1276x500.jpg" src="/content/dam/sony/homepage/2019-july/july-22/madden-nfl-20-600x600.jpg"/>.
 
-*   Share on Facebook: Discover Plating Techniques That Turn Up the Volume
-*   Share on Twitter: Discover Plating Techniques That Turn Up the Volume
-*   Copy URL to Share: Discover Plating Techniques That Turn Up the Volume
+Turn Up the Volume On Your Next Outdoor Cookout
 
-<img class="bg-img video-zL0ATaKsGOI" data-linkname="en:set\_a:\_2x2-6:video:music:SoYummyVideo-July-29-2019:sme:image:zL0ATaKsGOI" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Discover Plating Techniques That Turn Up the Volume zL0ATaKsGOI So-Yummy-Video" data-img1x="/content/dam/sony/homepage/2019-july/july-29/SoYummyxSony-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/SoYummyxSony-600x600.jpg" src="/content/dam/sony/homepage/2019-july/july-29/SoYummyxSony-600x600.jpg" alt="Sony x So Yummy video"/>. <img class="bg-img video-zL0ATaKsGOI" alt="Sony x So Yummy video Mobile" data-linkname="en:set\_a:\_2x2-6:video:music:SoYummyVideo-July-29-2019:sme:image-mobile:zL0ATaKsGOI" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Discover Plating Techniques That Turn Up the Volume zL0ATaKsGOI So-Yummy-Video" data-img1x="/content/dam/sony/homepage/2019-july/july-29/SoYummyxSony-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/SoYummyxSony-600x600.jpg" src="/content/dam/sony/homepage/2019-july/july-29/SoYummyxSony-600x600.jpg"/>.
+Try Our Latest Portable Speaker
 
-These Four Zombie Slayers Return to the Big Screen A Decade After the Cult Classic Hit Theaters
+*   Share on Facebook: Turn Up the Volume On Your Next Outdoor Cookout
+*   Share on Twitter: Turn Up the Volume On Your Next Outdoor Cookout
+*   Copy URL to Share: Turn Up the Volume On Your Next Outdoor Cookout
+
+<img class="bg-img" data-linkname="en:set\_b:position\_3|\_2x2-1:image:electronics:GTKPG10Speakers-August-05-2019:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Turn Up the Volume On Your Next Outdoor Cookout GTK-PG10-Speakers" data-img1x="/content/dam/sony/homepage/2019-august/august-5/GTK-PG10\_600x600-2.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/GTK-PG10\_600x600-2.jpg" src="/content/dam/sony/homepage/2019-august/august-5/GTK-PG10\_600x600-2.jpg" alt="GTK-PG10 Portable Speaker"/>. <img class="bg-img" data-linkname="en:set\_b:position\_3|\_2x2-1:image:electronics:GTKPG10Speakers-August-05-2019:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Turn Up the Volume On Your Next Outdoor Cookout GTK-PG10-Speakers" data-img1x="/content/dam/sony/homepage/2019-august/august-5/GTK-PG10\_600x600-2.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/GTK-PG10\_600x600-2.jpg" src="/content/dam/sony/homepage/2019-august/august-5/GTK-PG10\_600x600-2.jpg" alt="GTK-PG10 Portable Speaker Mobile"/>.
+
+New Music From Beyoncé
+
+Listen Now
+
+*   Share on Facebook: New Music From Beyoncé
+*   Share on Twitter: New Music From Beyoncé
+*   Copy URL to Share: New Music From Beyoncé
+
+<img class="bg-img" data-linkname="en:set\_b:position\_3|\_3x2-2:image:music:BeyonceLionKing-August-05-2019:sme:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="New Music From Beyoncé Beyonce-Lion-King" data-img1x="/content/dam/sony/homepage/2019-august/august-5/LionKing-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/LionKing-600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-5/LionKing-600x600.jpg" alt="The Lion King: The Gift"/>. <img class="bg-img" data-linkname="en:set\_b:position\_3|\_3x2-2:image:music:BeyonceLionKing-August-05-2019:sme:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="New Music From Beyoncé Beyonce-Lion-King" data-img1x="/content/dam/sony/homepage/2019-august/august-5/LionKing-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/LionKing-600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-5/LionKing-600x600.jpg" alt="The Lion King: The Gift Mobile"/>. Xperia 1 B0F-8zblVns
+
+Go Behind-the-Scenes of the New Series With Kirsten Dunst
+
+“On Becoming a God in Central Florida” Premieres 8/25
+
+Play video: Go Behind-the-Scenes of the New Series With Kirsten Dunst Close video: Go Behind-the-Scenes of the New Series With Kirsten Dunst
+
+*   Share on Facebook: Go Behind-the-Scenes of the New Series With Kirsten Dunst
+*   Share on Twitter: Go Behind-the-Scenes of the New Series With Kirsten Dunst
+*   Copy URL to Share: Go Behind-the-Scenes of the New Series With Kirsten Dunst
+
+<img class="bg-img video-sIUYf4AGyqs" data-linkname="en:set\_b:position\_3|\_1x1-4:video:tv:OnBecomingaGodinCentralFloridaBTS-August-05-2019:sptv:image:sIUYf4AGyqs" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Go Behind-the-Scenes of the New Series With Kirsten Dunst sIUYf4AGyqs On-Becoming-a-God-in-Central-Florida-BTS" data-img1x="/content/dam/sony/homepage/2019-august/august-5/OBAG\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/OBAG\_745x500.jpg" src="/content/dam/sony/homepage/2019-august/august-5/OBAG\_745x500.jpg" alt="Kirsten Dunst in Becoming a God in Central Florida"/>. <img class="bg-img video-sIUYf4AGyqs" alt="Kirsten Dunst in Becoming a God in Central Florida Mobile" data-linkname="en:set\_b:position\_3|\_1x1-4:video:tv:OnBecomingaGodinCentralFloridaBTS-August-05-2019:sptv:image-mobile:sIUYf4AGyqs" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Go Behind-the-Scenes of the New Series With Kirsten Dunst sIUYf4AGyqs On-Becoming-a-God-in-Central-Florida-BTS" data-img1x="/content/dam/sony/homepage/2019-august/august-5/OBAG\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/OBAG\_745x500.jpg" src="/content/dam/sony/homepage/2019-august/august-5/OBAG\_600x600.jpg"/>. Mortal Kombat 11 Kombat Pack B0n0ylzlAYr
+
+Beat the Heat With New Gear From PlayStation™
+
+See the Summer Lineup
+
+<img class="bg-img" data-linkname="en:set\_b:position\_3|\_1x1-6:image:playstation:PSGearArticle-August-05-2019:ps:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Beat the Heat With New Gear From PlayStation™ PS-Gear-Article" data-img1x="/content/dam/sony/homepage/2019-august/august-5/PSControllerPatch-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/PSControllerPatch-500x246.jpg" src="/content/dam/sony/homepage/2019-august/august-5/PSControllerPatch-500x246.jpg" alt="PlayStation Controller Patch"/>. <img class="bg-img" data-linkname="en:set\_b:position\_3|\_1x1-6:image:playstation:PSGearArticle-August-05-2019:ps:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Beat the Heat With New Gear From PlayStation™ PS-Gear-Article" data-img1x="/content/dam/sony/homepage/2019-august/august-5/PSControllerPatch-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/PSControllerPatch-500x246.jpg" src="/content/dam/sony/homepage/2019-august/august-5/PSControllerPatch-600x600.jpg" alt="PlayStation Controller Patch Mobile"/>.
+
+Four Zombie Slayers Return to the Big Screen A Decade After the Cult Classic Hit Theaters
 
 See “Zombieland: Double Tap” October 18
 
-Play video: These Four Zombie Slayers Return to the Big Screen A Decade After the Cult Classic Hit Theaters Close video: These Four Zombie Slayers Return to the Big Screen A Decade After the Cult Classic Hit Theaters
+Play video: Four Zombie Slayers Return to the Big Screen A Decade After the Cult Classic Hit Theaters Close video: Four Zombie Slayers Return to the Big Screen A Decade After the Cult Classic Hit Theaters
 
-*   Share on Facebook: These Four Zombie Slayers Return to the Big Screen A Decade After the Cult Classic Hit Theaters
-*   Share on Twitter: These Four Zombie Slayers Return to the Big Screen A Decade After the Cult Classic Hit Theaters
-*   Copy URL to Share: These Four Zombie Slayers Return to the Big Screen A Decade After the Cult Classic Hit Theaters
+*   Share on Facebook: Four Zombie Slayers Return to the Big Screen A Decade After the Cult Classic Hit Theaters
+*   Share on Twitter: Four Zombie Slayers Return to the Big Screen A Decade After the Cult Classic Hit Theaters
+*   Copy URL to Share: Four Zombie Slayers Return to the Big Screen A Decade After the Cult Classic Hit Theaters
 
-<img class="bg-img video-ZlW9yhUKlkQ" data-linkname="en:set\_e:position\_2|\_5x2-1:video:movies:Zombieland2Trailer-July-29-2019:sp:image:ZlW9yhUKlkQ" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="These Four Zombie Slayers Return to the Big Screen A Decade After the Cult Classic Hit Theaters ZlW9yhUKlkQ Zombieland-2-Trailer" data-img1x="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-1276x500.jpg" src="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-1276x500.jpg" alt="Zombieland 2 trailer"/>. <img class="bg-img video-ZlW9yhUKlkQ" alt="Zombieland 2 trailer Mobile" data-linkname="en:set\_e:position\_2|\_5x2-1:video:movies:Zombieland2Trailer-July-29-2019:sp:image-mobile:ZlW9yhUKlkQ" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="These Four Zombie Slayers Return to the Big Screen A Decade After the Cult Classic Hit Theaters ZlW9yhUKlkQ Zombieland-2-Trailer" data-img1x="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-1276x500.jpg" src="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-600x600.jpg"/>. ×Ready to see “Once Upon a Time in…Hollywood”? 🎬
+<img class="bg-img video-ZlW9yhUKlkQ" data-linkname="en:set\_e:position\_4|\_5x2-1:video:movies:Zombieland2Trailer-August-05-2019:sp:image:ZlW9yhUKlkQ" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Four Zombie Slayers Return to the Big Screen A Decade After the Cult Classic Hit Theaters ZlW9yhUKlkQ Zombieland-2-Trailer" data-img1x="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-1276x500.jpg" src="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-1276x500.jpg" alt="The cast of Zombieland: Double Tap"/>. <img class="bg-img video-ZlW9yhUKlkQ" alt="The cast of Zombieland: Double Tap Mobile" data-linkname="en:set\_e:position\_4|\_5x2-1:video:movies:Zombieland2Trailer-August-05-2019:sp:image-mobile:ZlW9yhUKlkQ" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Four Zombie Slayers Return to the Big Screen A Decade After the Cult Classic Hit Theaters ZlW9yhUKlkQ Zombieland-2-Trailer" data-img1x="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-1276x500.jpg" src="/content/dam/sony/homepage/2019-july/july-29/Zombieland2-600x600.jpg"/>.
 
-*   Can't wait
-*   Maybe later
+Get Ready to Take Back “Control” as the New Director of the Bureau
 
-Crafted with Pulse Insights <img class="bg-img" data-linkname="en:set\_b:position\_3|\_2x2-1:poll:movies:OnceUponaTimeinHollywoodPoll-July-29-2019:sp:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name=" Thank you for taking our poll Once-Upon-a-Time-in-Hollywood-Poll" data-img1x="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg" data-img2x="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg" src="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg" alt="Thank you for taking our poll"/>. <img class="bg-img" data-linkname="en:set\_b:position\_3|\_2x2-1:poll:movies:OnceUponaTimeinHollywoodPoll-July-29-2019:sp:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name=" Thank you for taking our poll Once-Upon-a-Time-in-Hollywood-Poll" data-img1x="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg" data-img2x="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg" src="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg" alt="Thank you for taking our poll"/>. The GTK-PG10 Outdoor Wireless Speaker BzQ0LZSFe8A
+Coming August 27 on PS4™
 
-Experience 360 Reality Audio
+Play video: Get Ready to Take Back “Control” as the New Director of the Bureau Close video: Get Ready to Take Back “Control” as the New Director of the Bureau
 
-At Sony Square NYC
+*   Share on Facebook: Get Ready to Take Back “Control” as the New Director of the Bureau
+*   Share on Twitter: Get Ready to Take Back “Control” as the New Director of the Bureau
+*   Copy URL to Share: Get Ready to Take Back “Control” as the New Director of the Bureau
 
-*   Share on Facebook: Experience 360 Reality Audio
-*   Share on Twitter: Experience 360 Reality Audio
-*   Copy URL to Share: Experience 360 Reality Audio
+<img class="bg-img video--oXCMFX9H8g" data-linkname="en:set\_a:position\_5|\_3x2-1:video:playstation:ControlTrailer-August-05-2019:ps:image:-oXCMFX9H8g" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Get Ready to Take Back “Control” as the New Director of the Bureau -oXCMFX9H8g Control-Trailer" data-img1x="/content/dam/sony/homepage/2019-august/august-5/Control-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/control-745x500.jpg" src="/content/dam/sony/homepage/2019-august/august-5/control-745x500.jpg" alt="Control"/>. <img class="bg-img video--oXCMFX9H8g" alt="Control Mobile" data-linkname="en:set\_a:position\_5|\_3x2-1:video:playstation:ControlTrailer-August-05-2019:ps:image-mobile:-oXCMFX9H8g" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Get Ready to Take Back “Control” as the New Director of the Bureau -oXCMFX9H8g Control-Trailer" data-img1x="/content/dam/sony/homepage/2019-august/august-5/Control-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/control-745x500.jpg" src="/content/dam/sony/homepage/2019-august/august-5/Control-600x600.jpg"/>.
 
-<img class="bg-img" data-linkname="en:set\_b:position\_3|\_2x1-3:image:music:SSNYC360RealityAudio-July-29-2019:sca:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Experience 360 Reality Audio SSNYC-360-Reality-Audio" data-img1x="/content/dam/sony/homepage/2019-july/july-29/360RealityAudio-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/360RealityAudio-600x600.jpg" src="/content/dam/sony/homepage/2019-july/july-29/360RealityAudio-600x600.jpg" alt="360 Reality Audio at Sony Square NYC"/>. <img class="bg-img" data-linkname="en:set\_b:position\_3|\_2x1-3:image:music:SSNYC360RealityAudio-July-29-2019:sca:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Experience 360 Reality Audio SSNYC-360-Reality-Audio" data-img1x="/content/dam/sony/homepage/2019-july/july-29/360RealityAudio-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/360RealityAudio-600x600.jpg" src="/content/dam/sony/homepage/2019-july/july-29/360RealityAudio-600x600.jpg" alt="360 Reality Audio at Sony Square NYC Mobile"/>.
+The Final Season of “Preacher” Is Here
 
-Paint Away Your Troubles in “Concrete Genie”
+Watch on AMC
 
-Coming This Fall Only on PlayStation™
+Play video: The Final Season of “Preacher” Is Here Close video: The Final Season of “Preacher” Is Here
 
-Play video: Paint Away Your Troubles in “Concrete Genie” Close video: Paint Away Your Troubles in “Concrete Genie”
+*   Share on Facebook: The Final Season of “Preacher” Is Here
+*   Share on Twitter: The Final Season of “Preacher” Is Here
+*   Copy URL to Share: The Final Season of “Preacher” Is Here
 
-*   Share on Facebook: Paint Away Your Troubles in “Concrete Genie”
-*   Share on Twitter: Paint Away Your Troubles in “Concrete Genie”
-*   Copy URL to Share: Paint Away Your Troubles in “Concrete Genie”
-
-<img class="bg-img video-SoIf3HNI-DQ" data-linkname="en:set\_b:position\_3|\_1x1-4:video:playstation:ConcreteGenieTrailer-July-29-2019:ps:image:SoIf3HNI-DQ" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Paint Away Your Troubles in “Concrete Genie” SoIf3HNI-DQ Concrete-Genie-Trailer" data-img1x="/content/dam/sony/homepage/2019-july/july-29/concrete-genie-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/concrete-genie-745x500.jpg" src="/content/dam/sony/homepage/2019-july/july-29/concrete-genie-745x500.jpg" alt="Concrete Genie trailer"/>. <img class="bg-img video-SoIf3HNI-DQ" alt="Concrete Genie trailer Mobile" data-linkname="en:set\_b:position\_3|\_1x1-4:video:playstation:ConcreteGenieTrailer-July-29-2019:ps:image-mobile:SoIf3HNI-DQ" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Paint Away Your Troubles in “Concrete Genie” SoIf3HNI-DQ Concrete-Genie-Trailer" data-img1x="/content/dam/sony/homepage/2019-july/july-29/concrete-genie-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/concrete-genie-745x500.jpg" src="/content/dam/sony/homepage/2019-july/july-29/concrete-genie-600x600.jpg"/>. The Alpine Green DualShock 4 ByKsBYQFise
-
-“The Boys” Has Been Renewed for a 2nd Season
-
-Stream Season 1 on Amazon Prime Video
-
-Play video: “The Boys” Has Been Renewed for a 2nd Season Close video: “The Boys” Has Been Renewed for a 2nd Season <img class="bg-img video-tcrNsIaQkb4" data-linkname="en:set\_b:position\_3|\_1x1-6:video:tv:TheBoysTrailer-July-29-2019:sptv:image:tcrNsIaQkb4" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="“The Boys” Has Been Renewed for a 2nd Season tcrNsIaQkb4 The-Boys-Trailer" data-img1x="/content/dam/sony/homepage/2019-july/july-29/Boys\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/Boys\_500x246.jpg" src="/content/dam/sony/homepage/2019-july/july-29/Boys\_500x246.jpg" alt="The Boys trailer"/>. <img class="bg-img video-tcrNsIaQkb4" alt="The Boys trailer Mobile" data-linkname="en:set\_b:position\_3|\_1x1-6:video:tv:TheBoysTrailer-July-29-2019:sptv:image-mobile:tcrNsIaQkb4" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="“The Boys” Has Been Renewed for a 2nd Season tcrNsIaQkb4 The-Boys-Trailer" data-img1x="/content/dam/sony/homepage/2019-july/july-29/Boys\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/Boys\_500x246.jpg" src="/content/dam/sony/homepage/2019-july/july-29/Boys\_600x600.jpg"/>.
-
-Tom Hanks Stars As the Beloved Children’s TV Show Host Fred Rogers
-
-Watch the New Trailer for “A Beautiful Day in the Neighborhood”
-
-Play video: Tom Hanks Stars As the Beloved Children’s TV Show Host Fred Rogers Close video: Tom Hanks Stars As the Beloved Children’s TV Show Host Fred Rogers
-
-*   Share on Facebook: Tom Hanks Stars As the Beloved Children’s TV Show Host Fred Rogers
-*   Share on Twitter: Tom Hanks Stars As the Beloved Children’s TV Show Host Fred Rogers
-*   Copy URL to Share: Tom Hanks Stars As the Beloved Children’s TV Show Host Fred Rogers
-
-<img class="bg-img video--VLEPhfEN2M" data-linkname="en:set\_e:position\_4|\_5x2-1:video:movies:ABeautifulDayintheNeighborhoodTrailer-July-29-2019:sp:image:-VLEPhfEN2M" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Tom Hanks Stars As the Beloved Children’s TV Show Host Fred Rogers -VLEPhfEN2M A-Beautiful-Day-in-the-Neighborhood-Trailer" data-img1x="/content/dam/sony/homepage/2019-july/july-29/a-beautiful-day-in-the-neighborhood-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/a-beautiful-day-in-the-neighborhood-1276x500.jpg" src="/content/dam/sony/homepage/2019-july/july-29/a-beautiful-day-in-the-neighborhood-1276x500.jpg" alt="A Beautiful Day in the Neighborhood Trailer"/>. <img class="bg-img video--VLEPhfEN2M" alt="A Beautiful Day in the Neighborhood Trailer Mobile" data-linkname="en:set\_e:position\_4|\_5x2-1:video:movies:ABeautifulDayintheNeighborhoodTrailer-July-29-2019:sp:image-mobile:-VLEPhfEN2M" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Tom Hanks Stars As the Beloved Children’s TV Show Host Fred Rogers -VLEPhfEN2M A-Beautiful-Day-in-the-Neighborhood-Trailer" data-img1x="/content/dam/sony/homepage/2019-july/july-29/a-beautiful-day-in-the-neighborhood-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/a-beautiful-day-in-the-neighborhood-1276x500.jpg" src="/content/dam/sony/homepage/2019-july/july-29/a-beautiful-day-in-the-neighborhood-600x600.jpg"/>.
-
-Vault Hunters: Get Ready for New Loot and More Mayhem
-
-Play “Borderlands 3” September 13 on PS4™
-
-Play video: Vault Hunters: Get Ready for New Loot and More Mayhem Close video: Vault Hunters: Get Ready for New Loot and More Mayhem
-
-*   Share on Facebook: Vault Hunters: Get Ready for New Loot and More Mayhem
-*   Share on Twitter: Vault Hunters: Get Ready for New Loot and More Mayhem
-*   Copy URL to Share: Vault Hunters: Get Ready for New Loot and More Mayhem
-
-<img class="bg-img video-n7mUwX5IPRs" data-linkname="en:set\_a:position\_5|\_3x2-1:video:playstation:Borderlands3Trailer-July-29-2019:ps:image:n7mUwX5IPRs" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Vault Hunters: Get Ready for New Loot and More Mayhem n7mUwX5IPRs Borderlands-3-Trailer" data-img1x="/content/dam/sony/homepage/2019-july/july-29/borderlands-3-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/borderlands-3-745x500.jpg" src="/content/dam/sony/homepage/2019-july/july-29/borderlands-3-745x500.jpg" alt="Borderlands 3 trailer"/>. <img class="bg-img video-n7mUwX5IPRs" alt="Borderlands 3 trailer Mobile" data-linkname="en:set\_a:position\_5|\_3x2-1:video:playstation:Borderlands3Trailer-July-29-2019:ps:image-mobile:n7mUwX5IPRs" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Vault Hunters: Get Ready for New Loot and More Mayhem n7mUwX5IPRs Borderlands-3-Trailer" data-img1x="/content/dam/sony/homepage/2019-july/july-29/borderlands-3-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/borderlands-3-745x500.jpg" src="/content/dam/sony/homepage/2019-july/july-29/borderlands-3-600x600.jpg"/>.
-
-"Old Town Road” Was Just Nominated For a VMA
-
-Listen to His Latest Remix With BTS
-
-Play video: "Old Town Road” Was Just Nominated For a VMA Close video: "Old Town Road” Was Just Nominated For a VMA
-
-*   Share on Facebook: "Old Town Road” Was Just Nominated For a VMA
-*   Share on Twitter: "Old Town Road” Was Just Nominated For a VMA
-*   Copy URL to Share: "Old Town Road” Was Just Nominated For a VMA
-
-<img class="bg-img video-w2Ov5jzm3j8" data-linkname="en:set\_a:position\_5|\_2x1-2:video:music:LilNasXOldTownRoadRemix-July-29-2019:sme:image:w2Ov5jzm3j8" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="&#34;Old Town Road” Was Just Nominated For a VMA w2Ov5jzm3j8 Lil-Nas-X-Old-Town-Road-Remix" data-img1x="/content/dam/sony/homepage/2019-may/5-20/LilNasX-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-22/lil-nas-x-500x246.jpg" src="/content/dam/sony/homepage/2019-july/july-22/lil-nas-x-500x246.jpg" alt="Lil Nas X"/>. <img class="bg-img video-w2Ov5jzm3j8" alt="Lil Nas X Mobile" data-linkname="en:set\_a:position\_5|\_2x1-2:video:music:LilNasXOldTownRoadRemix-July-29-2019:sme:image-mobile:w2Ov5jzm3j8" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="&#34;Old Town Road” Was Just Nominated For a VMA w2Ov5jzm3j8 Lil-Nas-X-Old-Town-Road-Remix" data-img1x="/content/dam/sony/homepage/2019-may/5-20/LilNasX-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-22/lil-nas-x-500x246.jpg" src="/content/dam/sony/homepage/2019-may/5-20/LilNasX-600x600.jpg"/>. ST5000 Dolby Atmos Soundbar B0UANKJhRTb
+<img class="bg-img video-SN9CUll\_Heg" data-linkname="en:set\_a:position\_5|\_2x1-2:video:tv:PreacherSeason4Trailer-August-05-2019:sptv:image:SN9CUll\_Heg" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="The Final Season of “Preacher” Is Here SN9CUll\_Heg Preacher-Season-4-Trailer" data-img1x="/content/dam/sony/homepage/2019-august/august-5/PRE\_310\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/PRE\_310\_500x246.jpg" src="/content/dam/sony/homepage/2019-august/august-5/PRE\_310\_500x246.jpg" alt="Preacher Season 4 trailer"/>. <img class="bg-img video-SN9CUll\_Heg" alt="Preacher Season 4 trailer Mobile" data-linkname="en:set\_a:position\_5|\_2x1-2:video:tv:PreacherSeason4Trailer-August-05-2019:sptv:image-mobile:SN9CUll\_Heg" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="The Final Season of “Preacher” Is Here SN9CUll\_Heg Preacher-Season-4-Trailer" data-img1x="/content/dam/sony/homepage/2019-august/august-5/PRE\_310\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/PRE\_310\_500x246.jpg" src="/content/dam/sony/homepage/2019-august/august-5/PRE\_310\_600x600.jpg"/>. The Boys B0YqmoBnskQ
 
 4K OLED Display
 
@@ -235,19 +242,17 @@ At Your Fingertips
 *   Share on Twitter: 4K OLED Display
 *   Copy URL to Share: 4K OLED Display
 
-<img class="bg-img" data-linkname="en:set\_a:position\_5|\_1x1-4:image:mobile:Xperia1-July-29-2019:mob:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="4K OLED Display Xperia-1" data-img1x="/content/dam/sony/homepage/2019-july/july-29/Xperia1-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/Xperia1-600x600.jpg" src="/content/dam/sony/homepage/2019-july/july-29/Xperia1-600x600.jpg" alt="Xperia 1"/>. <img class="bg-img" data-linkname="en:set\_a:position\_5|\_1x1-4:image:mobile:Xperia1-July-29-2019:mob:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="4K OLED Display Xperia-1" data-img1x="/content/dam/sony/homepage/2019-july/july-29/Xperia1-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/Xperia1-600x600.jpg" src="/content/dam/sony/homepage/2019-july/july-29/Xperia1-600x600.jpg" alt="Xperia 1 Mobile"/>. Once Upon a Time in Hollywood B0JP6Jdgzpo
+<img class="bg-img" data-linkname="en:set\_a:position\_5|\_1x1-4:image:mobile:Xperia1-August-05-2019:mob:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="4K OLED Display Xperia-1" data-img1x="/content/dam/sony/homepage/2019-august/august-5/Xperia1-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/Xperia1-600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-5/Xperia1-600x600.jpg" alt="Xperia 1"/>. <img class="bg-img" data-linkname="en:set\_a:position\_5|\_1x1-4:image:mobile:Xperia1-August-05-2019:mob:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="4K OLED Display Xperia-1" data-img1x="/content/dam/sony/homepage/2019-august/august-5/Xperia1-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/Xperia1-600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-5/Xperia1-600x600.jpg" alt="Xperia 1 Mobile"/>. Leonardo DiCaprio in Once Upon a Time in Hollywood B0jdfVqAg6r
 
 No Noise, No Wires, No Distractions
 
 See Our New In-Ear Headphones
 
-Play video: No Noise, No Wires, No Distractions Close video: No Noise, No Wires, No Distractions
-
 *   Share on Facebook: No Noise, No Wires, No Distractions
 *   Share on Twitter: No Noise, No Wires, No Distractions
 *   Copy URL to Share: No Noise, No Wires, No Distractions
 
-<img class="bg-img video-Vu36eoC50i0" data-linkname="en:set\_a:position\_5|\_2x2-6:video:electronics:WF1000xM3Earbuds-July-29-2019:gwt:image:Vu36eoC50i0" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="No Noise, No Wires, No Distractions Vu36eoC50i0 WF-1000xM3-Earbuds" data-img1x="/content/dam/sony/homepage/2019-july/july-29/WF-1000XM3-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/WF-1000XM3-600x600.jpg" src="/content/dam/sony/homepage/2019-july/july-29/WF-1000XM3-600x600.jpg" alt="WF-1000XM3 Wireless Noise Canceling Earbuds"/>. <img class="bg-img video-Vu36eoC50i0" alt="WF-1000XM3 Wireless Noise Canceling Earbuds Mobile" data-linkname="en:set\_a:position\_5|\_2x2-6:video:electronics:WF1000xM3Earbuds-July-29-2019:gwt:image-mobile:Vu36eoC50i0" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="No Noise, No Wires, No Distractions Vu36eoC50i0 WF-1000xM3-Earbuds" data-img1x="/content/dam/sony/homepage/2019-july/july-29/WF-1000XM3-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-july/july-29/WF-1000XM3-600x600.jpg" src="/content/dam/sony/homepage/2019-july/july-29/WF-1000XM3-600x600.jpg"/>.
+<img class="bg-img" data-linkname="en:set\_a:position\_5|\_2x2-6:image:electronics:WF1000xM3EarbudsVideo-August-05-2019:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="No Noise, No Wires, No Distractions WF-1000xM3-Earbuds-Video" data-img1x="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg" alt="WF-1000XM3 Wireless Noise Canceling Earbuds"/>. <img class="bg-img" data-linkname="en:set\_a:position\_5|\_2x2-6:image:electronics:WF1000xM3EarbudsVideo-August-05-2019:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="No Noise, No Wires, No Distractions WF-1000xM3-Earbuds-Video" data-img1x="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg" alt="WF-1000XM3 Wireless Noise Canceling Earbuds Mobile"/>.
 
 Load More
 
