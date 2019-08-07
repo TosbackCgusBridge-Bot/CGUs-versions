@@ -9,10 +9,29 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
-    *   The North Face
+    *   Trina Turk Up to 65% Off
+    *   Donald Pliner Up to 60% Off
+    *   Travis Mathew
+    *   Donald Pliner Men Up to 60% Off
+    *   S'well Barware Sets at $49.97
+    *   Free Shipping: BergHOFF Up to 55% Off
+    *   Free Shipping: Organizers for Every Room
+    *   Party On: Dresses ft. MAX &. ASH Under $60
+    *   Amanda &. Chelsea Incl. Plus and Petites
+    *   Top-to-Bottom Chic: Hazel &. More Under $30
+    *   Bright &. Bold: Flying Tomato Under $45
+    *   Trina Turk Jewelry &. More
+    *   Kiehl's Since 1851
+    *   Sun &. Sand: Swim Favorites Up to 55% Off
+    *   Wellness Teas &. More from Teasane
+    *   Dressed to Impress: Love...Ady Girls &. More
+    *   Fancy &. Fun: Girls' Flats and More
+    *   Gym Bound: Bags &. Backpacks Under $50
     *   The North Face Men
+    *   The North Face
     *   The North Face Kids
     *   Fit for You: Denim Under $50 Incl. Plus &. Petites
+    
     *   Franco Sarto Up to 50% Off
     *   Designer Spotlight: Badgley Mischka &. More
     *   Boots Up to 65% Off
@@ -28,13 +47,6 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Men's Outdoor Shoes Starting at $40
     *   CAMPER Men Up to 55% Off
     *   Bottoms Up: Tractr Girls' Jeans &. More
-    *   Relaxed Looks ft. Romeo &. Juliet Couture from $25
-    *   KUT from the Kloth &. Democracy Incl. Plus and Petites
-    *   Wolford
-    *   Campus Ready: Fall Styles for Her
-    *   On-Trend Sneakers ft. Superga
-    *   First Day Looks for Preschoolers
-    
     *   Fab Finds: Diamonds, Gems &. More Up to 80% Off
     *   Gemstone Jewelry Under $80
     *   Sunday Swim Steals Up to 70% Off
@@ -42,181 +54,152 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Free Shipping: NMK Bedding Blowout
     *   Sandals &. More Up to 60% Off
     *   Men's Shoes Up to 65% Off
-    *   Summer Wrap-Up: Dresses Under $40
+    
     *   Ben Sherman Clothing &. More Up to 60% Off
-    *   Ben Sherman Luggage Up to 60% Off
-    *   Flip-Flops ft. Havaianas &. Reef
     *   Vanity Planet Up to 75% Off
     *   Deer Stags Starting at $35
+    *   First Day Looks for Preschoolers
     *   Best for Baby: Footies, Sets &. More Under $15
     *   Maternity Must-Haves ft. LAmade
     *   Urban Decay Starting at $10
-    *   True Religion Men Starting at $30
-    *   Diamonds, Gemstones and Silver Up to 80% Off
     *   Predire Paris Luxury Skin Care
-    *   Turn Up the Heat: Oh La La Cherie &. More Incl. Plus
-    *   Luxe Brands: Anna Sui &. More
-    *   Sugarlips
-    *   Back To School Style: Quiksilver Under $30
-    *   Fresh Finds: Shoes Up to 50% Off
-    *   Valentino by Mario Valentino
-    
-    *   Raymond Weil Luxury Swiss Watches
-    *   Pelle Moda Up to 80% Off
     *   Free Shipping: Decor for Every Style
     *   Modern Fiction Up to 50% Off
     *   Free Shipping: Pastel Artwork
-    *   Sport These: Active Socks
-    *   Kids' Sneakers ft. PUMA
     *   Mirenesse Australia Starting at $10
     *   Londontown Nail Polish
     *   Agendas, Journals &. More
-    *   Bath &. Body: philosophy and Kiehl's Since 1851
-    *   Skin Care Sets Starting at $10
-    *   skinChemists Up to 85% Off
     *   Eddie Bauer Bedding
     *   Free Shipping: Candles, Tabletop Decor &. More
     *   Finishing Touches for the Home from $10
     *   Free Shipping: Movie &. Pop Culture Art and More
-    *   Free Shipping: Kitchen Blowout
-    *   Free Shipping: Bedding Essentials
+    *   Relaxed Looks ft. Romeo &. Juliet Couture from $25
     *   Dive In: Men's Swim Blowout
-    *   Gifts They'll Love: Wedding Presents &. More
-    *   Bedding Faves ft. DKNY, Nautica &. Vera Wang
-    *   UGG Home
+    *   Free Shipping: Bedding Essentials
+    *   Ben Sherman Luggage Up to 60% Off
 *   WomenShop Sale Events
     
+    *   Trina Turk Up to 65% Off
+    *   Donald Pliner Up to 60% Off
+    *   Party On: Dresses ft. MAX &. ASH Under $60
+    *   Amanda &. Chelsea Incl. Plus and Petites
+    *   Top-to-Bottom Chic: Hazel &. More Under $30
+    *   Bright &. Bold: Flying Tomato Under $45
+    *   Trina Turk Jewelry &. More
+    *   Kiehl's Since 1851
+    *   Sun &. Sand: Swim Favorites Up to 55% Off
+    *   Wellness Teas &. More from Teasane
+    *   Gym Bound: Bags &. Backpacks Under $50
     *   The North Face
     *   Fit for You: Denim Under $50 Incl. Plus &. Petites
     *   Franco Sarto Up to 50% Off
     *   Designer Spotlight: Badgley Mischka &. More
     *   Boots Up to 65% Off
     *   Live Life to the Maxi: Dresses Under $40
+    
     *   Night Out: Playful Tops &. More
     *   Summer's Best: Intimates Under $20
     *   On Trend: Olivia Welles Jewelry Up to 75% Off
     *   Back-to-School Sneakers for Her Up to 60% Off
     *   PUR Cosmetics
-    *   Relaxed Looks ft. Romeo &. Juliet Couture from $25
-    *   KUT from the Kloth &. Democracy Incl. Plus and Petites
-    *   Wolford
-    *   Campus Ready: Fall Styles for Her
-    *   On-Trend Sneakers ft. Superga
     *   Fab Finds: Diamonds, Gems &. More Up to 80% Off
     *   Gemstone Jewelry Under $80
     *   Sunday Swim Steals Up to 70% Off
     *   Summer Steals: Dresses Up to 75% Off
-    
     *   Sandals &. More Up to 60% Off
-    *   Summer Wrap-Up: Dresses Under $40
-    *   Flip-Flops ft. Havaianas &. Reef
     *   Vanity Planet Up to 75% Off
     *   Urban Decay Starting at $10
-    *   Diamonds, Gemstones and Silver Up to 80% Off
     *   Predire Paris Luxury Skin Care
-    *   Turn Up the Heat: Oh La La Cherie &. More Incl. Plus
-    *   Luxe Brands: Anna Sui &. More
-    *   Sugarlips
-    *   Fresh Finds: Shoes Up to 50% Off
-    *   Valentino by Mario Valentino
-    *   Raymond Weil Luxury Swiss Watches
-    *   Pelle Moda Up to 80% Off
-    *   Sport These: Active Socks
     *   Mirenesse Australia Starting at $10
     *   Londontown Nail Polish
-    *   Bath &. Body: philosophy and Kiehl's Since 1851
-    *   Skin Care Sets Starting at $10
+    *   Relaxed Looks ft. Romeo &. Juliet Couture from $25
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie
     *   Jewelry
-    *   Handbags
+    *   Lingerie
     *   Accessories
-    *   Watches
+    *   Handbags
 *   MenShop Sale Events
     
+    *   Travis Mathew
+    *   Donald Pliner Men Up to 60% Off
+    *   Gym Bound: Bags &. Backpacks Under $50
     *   The North Face Men
     *   JOE'S Jeans Men &. More
     *   Men's Outdoor Shoes Starting at $40
     *   CAMPER Men Up to 55% Off
+    
     *   Men's Shoes Up to 65% Off
     *   Ben Sherman Clothing &. More Up to 60% Off
-    *   Ben Sherman Luggage Up to 60% Off
-    
     *   Vanity Planet Up to 75% Off
     *   Deer Stags Starting at $35
-    *   True Religion Men Starting at $30
-    *   Back To School Style: Quiksilver Under $30
-    *   Raymond Weil Luxury Swiss Watches
     *   Modern Fiction Up to 50% Off
     *   Dive In: Men's Swim Blowout
+    *   Ben Sherman Luggage Up to 60% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
+    *   Dressed to Impress: Love...Ady Girls &. More
+    *   Fancy &. Fun: Girls' Flats and More
     *   The North Face Kids
     *   Bottoms Up: Tractr Girls' Jeans &. More
     *   First Day Looks for Preschoolers
     *   Best for Baby: Footies, Sets &. More Under $15
     *   Maternity Must-Haves ft. LAmade
-    *   Kids' Sneakers ft. PUMA
     
     Shop By Category
     *   Girls' Sizes 2T-6X
+    *   Girls' Sizes 7-16
+    *   Girls' Shoes
     *   Boys' Sizes 2T-7
     *   Baby Girl
-    *   Girls' Shoes
-    *   Girls' Sizes 7-16
     *   Baby Boy
     *   Boys' Sizes 8-20
-    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   S'well Barware Sets at $49.97
+    *   Free Shipping: BergHOFF Up to 55% Off
+    *   Free Shipping: Organizers for Every Room
     *   Healthy Choices: Meal Prep Storage, Tech &. More
     *   Retro Metal &. Wooden Decor Starting at $12
     *   Free Shipping: NMK Bedding Blowout
-    *   Ben Sherman Luggage Up to 60% Off
     *   Free Shipping: Decor for Every Style
     *   Free Shipping: Pastel Artwork
+    
     *   Agendas, Journals &. More
     *   Eddie Bauer Bedding
-    
     *   Free Shipping: Candles, Tabletop Decor &. More
     *   Finishing Touches for the Home from $10
     *   Free Shipping: Movie &. Pop Culture Art and More
-    *   Free Shipping: Kitchen Blowout
     *   Free Shipping: Bedding Essentials
-    *   Gifts They'll Love: Wedding Presents &. More
-    *   Bedding Faves ft. DKNY, Nautica &. Vera Wang
-    *   UGG Home
+    *   Ben Sherman Luggage Up to 60% Off
     
     Shop By Category
     *   Home Decor
     *   Bedding
     *   Kitchen &. Tabletop
+    *   Cleaning &. Organization
     *   Luggage &. Travel
     *   Tech Accessories
-    *   Bath
+    *   Rugs &. Doormats
     *   Outdoor Living
-    *   Cleaning &. Organization
-    *   Holiday Decorations
+    *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Kiehl's Since 1851
+    *   Wellness Teas &. More from Teasane
     *   PUR Cosmetics
     *   Vanity Planet Up to 75% Off
     *   Urban Decay Starting at $10
     *   Predire Paris Luxury Skin Care
     *   Mirenesse Australia Starting at $10
     *   Londontown Nail Polish
-    *   Bath &. Body: philosophy and Kiehl's Since 1851
-    *   Skin Care Sets Starting at $10
-    *   skinChemists Up to 85% Off
     
     Shop By Category
     *   Makeup
