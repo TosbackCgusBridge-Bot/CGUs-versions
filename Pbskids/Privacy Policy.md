@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _tip_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _app_
 
-How to raise an emotionally resilient child. How to raise an emotionally resilient child. Read more.
+The Cat in the Hat Builds That app wins the People's Voice webby!The Cat in the Hat Builds That app wins the People's Voice webby!Get it today!
 
 Toggle message bar
 
