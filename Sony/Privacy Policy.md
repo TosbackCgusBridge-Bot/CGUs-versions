@@ -126,7 +126,7 @@ A stampede of anticipated games is coming
   
 Dive into PlayStation's most-wanted upcoming PS4 games of 2019:  http://play.st/2MDYjs1  pic.twitter.com/gdkkflc58i
 
-16 hours ago View Tweet X850G HDR 4K TV ByYQ8tJF0SI
+1 day ago View Tweet X850G HDR 4K TV ByYQ8tJF0SI
 
 Tom Hank’s Next Role
 
@@ -248,11 +248,13 @@ No Noise, No Wires, No Distractions
 
 See Our New In-Ear Headphones
 
+Play video: No Noise, No Wires, No Distractions Close video: No Noise, No Wires, No Distractions
+
 *   Share on Facebook: No Noise, No Wires, No Distractions
 *   Share on Twitter: No Noise, No Wires, No Distractions
 *   Copy URL to Share: No Noise, No Wires, No Distractions
 
-<img class="bg-img" data-linkname="en:set\_a:position\_5|\_2x2-6:image:electronics:WF1000xM3EarbudsVideo-August-05-2019:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="No Noise, No Wires, No Distractions WF-1000xM3-Earbuds-Video" data-img1x="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg" alt="WF-1000XM3 Wireless Noise Canceling Earbuds"/>. <img class="bg-img" data-linkname="en:set\_a:position\_5|\_2x2-6:image:electronics:WF1000xM3EarbudsVideo-August-05-2019:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="No Noise, No Wires, No Distractions WF-1000xM3-Earbuds-Video" data-img1x="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg" alt="WF-1000XM3 Wireless Noise Canceling Earbuds Mobile"/>.
+<img class="bg-img video-Vu36eoC50i0" data-linkname="en:set\_a:position\_5|\_2x2-6:video:electronics:WF1000xM3EarbudsVideo-August-05-2019:gwt:image:Vu36eoC50i0" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="No Noise, No Wires, No Distractions Vu36eoC50i0 WF-1000xM3-Earbuds-Video" data-img1x="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg" alt="WF-1000XM3 Wireless Noise Canceling Earbuds"/>. <img class="bg-img video-Vu36eoC50i0" alt="WF-1000XM3 Wireless Noise Canceling Earbuds Mobile" data-linkname="en:set\_a:position\_5|\_2x2-6:video:electronics:WF1000xM3EarbudsVideo-August-05-2019:gwt:image-mobile:Vu36eoC50i0" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="No Noise, No Wires, No Distractions Vu36eoC50i0 WF-1000xM3-Earbuds-Video" data-img1x="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg"/>.
 
 Load More
 
