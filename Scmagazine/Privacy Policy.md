@@ -217,21 +217,21 @@ Attention: Chief Digital Officer
     
     *   Multiple advisories for various VPN providers
     *   APT34 spread malware via LinkedIn invites
+    *   Honda Motors Company databases leaked 40GB of employee data
     *   Researchers bypass Cylance's AI-based AV solution by masking malware with video game code
     *   Article 29 Working Party still not happy with Windows 10 privacy controls
-    *   Honda Motors Company databases leaked 40GB of employee data
     
-    *   Capital One hacker who stole personal info on 100M arrested
-    *   CEO fraud: It's human nature
-    *   Cyberattack forces Houston County schools to postpone opening day
-    *   Part 2 - Cooperative cybersecurity protection for large-scale infrastructure
-    *   Capital One breach exposes not just data, but dangers of cloud misconfigurations
+    *   Johannesburg’s power company hit by ransomware attack
+    *   Over 200M devices affected by critical flaws found in real-time operating system
+    *   Jamf acquires Mac endpoint solutions firm Digita Security
+    *   RIG, Fallout EKs used to deliver new SystemBC malware
+    *   Part 4 - Cooperative cybersecurity protection for large-scale infrastructure
     
+    *   Cylance Protect AV vulnerability patched
+    *   Monzo updates apps after incorrectly storing banking customer PINs
+    *   LookBack malware targeting utility sector
     *   Trump withdraws Ratcliffe nomination for DNI
     *   Hurd's exit leaves cybersecurity gap in Congress
-    *   Part 4 - Cooperative cybersecurity protection for large-scale infrastructure
-    *   Apple halts contractors listening to Siri recordings, will offer opt-out
-    *   House Republicans ask Capitol One and Amazon for briefing on data breach
 
 Back to Top
 
