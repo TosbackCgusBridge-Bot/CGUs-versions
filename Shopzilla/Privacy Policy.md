@@ -17,19 +17,11 @@ Connexity
 Toggle navigationblog navsite nav
 
 *   Solutions
-    *   Hitwise
-        *   Overview
-        *   AudienceView
-        *   Online Intelligence
-        *   Custom Research
     *   CPC Listings
         *   Retailer Listings
         *   Publisher Monetization
         *   Google Shopping Ads
-*   About
-    *   Open Positions
-    *   Benefits
-    *   Team
+*   About Us
 
 CONTACT Privacy Policy
 
