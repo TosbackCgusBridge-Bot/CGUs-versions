@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Creating a ROS 2 CLI command and verb ›
+*   Enhancing our ZFS support on Ubuntu 19.10 – an introduction ›
 *   Ubuntu Server development summary – 06 August 2019 ›
 *   Declarative vs Imperative: DevOps done right ›
 *   Charmed Kubernetes update for upstream API server vulnerability ›
-*   Design and Web team summary – 2 August 2019 ›
-*   Digital signage platform Xibo launches as a snap ›
