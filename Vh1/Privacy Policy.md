@@ -4,13 +4,12 @@
     *   Shows A-Z
     *   TV Schedule
     *   Basketball Wives
-    *   Black Ink Crew Chicago
+    *   Black Ink Crew Compton
     *   Girls Cruise
     *   Hip Hop Squares
     *   Love &. Hip Hop Atlanta
     *   Love &. Hip Hop Hollywood
     *   Love &. Listings
-    *   Martha &. Snoop's Potluck Party Challenge
     *   Wild 'N OutSee all Shows
 *   News
 *   App
@@ -19,7 +18,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleBasketball WivesBlack Ink Crew ChicagoGirls CruiseHip Hop SquaresLove &. Hip Hop AtlantaLove &. Hip Hop HollywoodLove &. ListingsMartha &. Snoop's Potluck Party ChallengeWild 'N Outsee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleBasketball WivesBlack Ink Crew ComptonGirls CruiseHip Hop SquaresLove &. Hip Hop AtlantaLove &. Hip Hop HollywoodLove &. ListingsWild 'N Outsee all Shows
 *   News
 *   App
 *   Watch Live TV
