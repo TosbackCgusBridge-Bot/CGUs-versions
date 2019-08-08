@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Free shipping, no minimum on all orders
+20% off your order
 
-code: SHIPALL pin: 1960 DETAILS
+code: LETTUCE pin: 1409 DETAILS
 
 Customer Service Menu
 
