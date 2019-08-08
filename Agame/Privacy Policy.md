@@ -84,8 +84,8 @@ View more results
     *   Total Front: Army War Game
     *   Stunt Skateboard 3D
     *   Slither.io
-    *   Uphill Rush 7: Waterpark
     *   Ultimate Boxing
+    *   Uphill Rush 7: Waterpark
     *   Short Life
     *   Combat Strike 2: 3D Shooting Game Online Multiplayer
     *   Stickman Archer 2
@@ -153,8 +153,8 @@ View more results
     *   1001 Arabian Nights
     *   Bubble Machine: 2 Player Game
     *   Happy Glass
-    *   Crystical: 2 Player Puzzle Game
     *   Mahjong Connect Classic
+    *   Crystical: 2 Player Puzzle Game
 *   Top Categories
     
     *   Dress Up
@@ -183,8 +183,8 @@ View more results
     *   The Princess: Sent to the Future - Dress Up Game
     *   Vincy Lip Care
     *   Get Your Boyfriend
-    *   Love Tester 2.0
     *   Princess Rivalry
+    *   Love Tester 2.0
     *   Ella: Hips Surgery
     *   Beauty's Transformation: Fashion Game
 *   Top Categories
@@ -215,8 +215,8 @@ View more results
     *   Agame Stunt Cars
     *   Madalin Cars Multiplayer
     *   Rally Point 2: Dirt Track Racing Game
-    *   Bike Racing: Motorcycle Game
     *   Moto X3M: Motorcycle Racing Game
+    *   Bike Racing: Motorcycle Game
     *   Neon Biker
     *   Russian Car Driver
 *   Top Categories
@@ -427,11 +427,24 @@ If you are not satisfied with our responses and/or support to resolve your conce
 
 If you have any additional questions or requests, you may send an email to info@spilgames.com.
 
-Play tons of free online games at Agame.com!
+COMPANY INFO
 
-Look no further. Agame.com is your trusted partner for the best, online html5 games. Continuously updated with new, free games to play, this infinite source of games will without a doubt have you coming back for more gaming fun. Enjoy a myriad of games from action-packed shooters, speed-of-light defying racing games, bridge-dangling adventures, to head-scratching puzzles. Come on in and join the frenzy!
+*   Terms of Use
+*   Privacy Policy
+*   Privacy Policy, Kids &. Parents
+*   Information for Parents
+*   Cookies
+*   Cookie Consent
+*   About Us
 
-Welcome to Agame.com, your zone to play free online games. Stocked each day with new free games, including action games, adventure games, board &. card games, multiplayer games, puzzle games, racing games, skill games, sports games, and more addicting games.
+RESOURCES
+
+*   Advertise with Us
+*   Submit a Game
+
+SUPPORT
+
+*   Help
 
 Languages
 
@@ -443,18 +456,6 @@ Languages
 *   Nederlands
 
 Copyright © 2019 SPIL GAMES All rights reserved.
-
-*   Terms of Use
-*   Privacy Policy
-*   Privacy Policy, Kids &. Parents
-*   Information for Parents
-*   About Us
-*   Advertise with Us
-*   Submit a Game
-*   Get Free Games
-*   Help &. Contact
-*   Cookies
-*   Cookie Consent
 
 Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
 Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere
