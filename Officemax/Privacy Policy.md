@@ -40,20 +40,20 @@ Stock Quote and Chart
 
 Price
 
-$1.75
+$1.76
 
 Change
 
-\-0.02
++0.01
 
 Percent Change
 
-(-1.13%)
+(+0.57%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Aug 06, 2019 Office Depot, Inc. Creates Alliance to Offer Identification and Background Check Services view more Recent News Aug 06, 2019 Office Depot, Inc. Creates Alliance to Offer Identification and Background Check Services view more Events Aug 7, 2019 at 9:00 AM EDT Q2 2019 Office Depot Inc Earnings Conference Call view more Events Aug 7, 2019 at 9:00 AM EDT Q2 2019 Office Depot Inc Earnings Conference Call view more Presentations Jun 05, 2019 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 05, 2019 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more
+Recent News Aug 07, 2019 Office Depot Announces Second Quarter 2019 Results view more Recent News Aug 07, 2019 Office Depot Announces Second Quarter 2019 Results view more Events Aug 7, 2019 at 9:00 AM EDT Q2 2019 Office Depot Inc Earnings Conference Call view more Events Aug 7, 2019 at 9:00 AM EDT Q2 2019 Office Depot Inc Earnings Conference Call view more Presentations Aug 07, 2019 Office Depot Second Quarter 2019 Earnings Webcast Presentation view more Presentations Aug 07, 2019 Office Depot Second Quarter 2019 Earnings Webcast Presentation view more
 
 *   Home
 *   News &. Events
