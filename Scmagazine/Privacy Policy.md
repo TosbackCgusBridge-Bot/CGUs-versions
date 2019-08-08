@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Multiple advisories for various VPN providers
-    *   APT34 spread malware via LinkedIn invites
-    *   Honda Motors Company databases leaked 40GB of employee data
-    *   Researchers bypass Cylance's AI-based AV solution by masking malware with video game code
-    *   Article 29 Working Party still not happy with Windows 10 privacy controls
+    *   Cooperative Cybersecurity protection for large-scale infrastructure
+    *   Flaws in Visa contactless cards allow for bypass of anti-fraud checks, researchers warn
+    *   CEO fraud: It's human nature
+    *   Apple halts contractors listening to Siri recordings, will offer opt-out
+    *   SC Media opens nominations for the 2020 SC Awards
     
-    *   Johannesburg’s power company hit by ransomware attack
-    *   Over 200M devices affected by critical flaws found in real-time operating system
-    *   Jamf acquires Mac endpoint solutions firm Digita Security
-    *   RIG, Fallout EKs used to deliver new SystemBC malware
+    *   Online daters targeted, FBI alert warns
     *   Part 4 - Cooperative cybersecurity protection for large-scale infrastructure
-    
     *   Cylance Protect AV vulnerability patched
-    *   Monzo updates apps after incorrectly storing banking customer PINs
-    *   LookBack malware targeting utility sector
-    *   Trump withdraws Ratcliffe nomination for DNI
-    *   Hurd's exit leaves cybersecurity gap in Congress
+    *   Inside-out analytics: Solving the enigmatic insider threat
+    *   Over 200M devices affected by critical flaws found in real-time operating system
+    
+    *   Report: North Korea funded WMD programs with $2B stolen via cyberattacks
+    *   MegaCortex variant redesigned a self-executing, incorporates features of previous version
+    *   Online daters targeted, FBI alert warns
+    *   Part 5 - Cooperative cybersecurity protection for large-scale infrastructure
+    *   Cylance Protect AV vulnerability patched
 
 Back to Top
 
