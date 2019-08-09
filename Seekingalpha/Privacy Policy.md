@@ -1,7 +1,13 @@
-MarketplaceSeeking AlphaSUBSCRIBE
+MarketplaceSubscribe
 
-*   Portfolio
-*   People
+Sign in / Join Now
+
+*   Help
+*   Knowledge Base
+*   Feedback Forum
+
+*   My Portfolio
+*   My Authors
 *   News
     
     *   Most Used
@@ -34,12 +40,13 @@ MarketplaceSeeking AlphaSUBSCRIBE
     *   Dividend Strategy
     *   ETF Screener
     *   Investing Podcasts
-
-Sign in / Join Now
-
-*   Help
-*   Knowledge Base
-*   Feedback Forum
+*   On the Move
+*   Stock Ideas
+*   Dividends
+*   Market Outlook
+*   Podcasts
+*   ETF Screener
+*   Retirement
 
 Privacy
 
@@ -127,18 +134,17 @@ Seeking Alpha's Privacy Policy is to share personal information only with the ow
 
 _Updated: August 9, 2017_
 
-Top Authors|RSS Feeds|Sitemap|About Us|Feedback|Contact UsTerms of Use|Privacy|Market Data Disclaimer|© 2019 Seeking Alpha <img src="https://sb.scorecardresearch.com/p?c1=2&c2=8500672&cv=2.0&cj=1" width="0" height="0" />. <div style="position:fixed. top:0. left:0. display:none" width="1" height="1">. <img src="/xgCxM9By/xhr/api/v1/collector/noScript.gif?appId=PXxgCxM9By">. </div>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=228550053985270&amp;ev=PageView&amp;noscript=1">. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy Thank you for registering!A confirmation email has been sent to you!  
+Top Authors|RSS Feeds|Sitemap|About Us|Feedback|Contact UsTerms of Use|Privacy|Market Data Disclaimer|© 2019 Seeking Alpha <img src="https://sb.scorecardresearch.com/p?c1=2&c2=8500672&cv=2.0&cj=1" width="0" height="0" />. <div style="position:fixed. top:0. left:0. display:none" width="1" height="1">. <img src="/xgCxM9By/xhr/api/v1/collector/noScript.gif?appId=PXxgCxM9By">. </div>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=228550053985270&amp;ev=PageView&amp;noscript=1">. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy There is already a registration  
+in progress for this email,  
+if you did not receive the confirmation email,  
+please ask your IT department or email provider to  
+place seekingalpha.com in the whitelist and try to register again Thank you for registering!A confirmation email has been sent to you!  
 Confirm registration and enjoy Seeking Alpha  
 After confirming registration, please log in  
-We noticed you didn't complete the registration to Essential  
+Success in the stock market is not easy.  Learn how to become a better investor.Label text sign in with Google  Already have an account?Sign in here Join Seeking Alpha Label text Get email alerts on   
+**Dividends ideas ** sign in with Google  Already have an account?Sign in hereGet Alerts We noticed you didn't complete the registration to Essential  
 START FREE TRIAL**Good to see you back**  
 SAVE  
 $120Welcome back  
 GET STARTEDChoose your Marketplace and   
-Start Your Free Trial today!  
-There is already a registration  
-in progress for this email,  
-if you did not receive the confirmation email,  
-please ask your IT department or email provider to  
-place seekingalpha.com in the whitelist and try to register again Label text Get email alerts on   
-**Dividends ideas ** sign in with Google  Already have an account?Sign in hereGet Alerts Find profitable investing opportunities GET STARTED sign in with Google  Already have an account?Sign in here
+Start Your Free Trial today!
