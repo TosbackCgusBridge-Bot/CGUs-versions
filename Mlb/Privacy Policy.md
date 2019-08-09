@@ -16,7 +16,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Scores News Video Standing
     
     Featured
     *   Cut4
-    *   All-Star Game rosters
+    *   Field of Dreams
     *   Play Ball
     *   Pipeline
     *   MLB Photos
