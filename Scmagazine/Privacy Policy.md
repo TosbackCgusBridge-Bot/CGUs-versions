@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Cooperative Cybersecurity protection for large-scale infrastructure
-    *   Flaws in Visa contactless cards allow for bypass of anti-fraud checks, researchers warn
-    *   CEO fraud: It's human nature
-    *   Apple halts contractors listening to Siri recordings, will offer opt-out
-    *   SC Media opens nominations for the 2020 SC Awards
+    *   Cyberattack strikes Watertown schools
+    *   Two Deer Valley Resort restaurants hit with POS data breach
+    *   'Know thyself:' To combat external ATP threats, first look inward
+    *   Part 3 - Cooperative cybersecurity protection for large-scale infrastructure
+    *   Capital One hacker who stole personal info on 100M arrested
     
-    *   Online daters targeted, FBI alert warns
-    *   Part 4 - Cooperative cybersecurity protection for large-scale infrastructure
-    *   Cylance Protect AV vulnerability patched
-    *   Inside-out analytics: Solving the enigmatic insider threat
-    *   Over 200M devices affected by critical flaws found in real-time operating system
-    
+    *   Appeals court rejects Google privacy settlement over tracking cookies
+    *   Cisco pays $8.6 million to settle False Claims Act litigation
+    *   Proposed MICROCHIPS Act would require protections for technology supply chain
+    *   Honda Motors Company databases leaked 40GB of employee data
     *   Report: North Korea funded WMD programs with $2B stolen via cyberattacks
-    *   MegaCortex variant redesigned a self-executing, incorporates features of previous version
-    *   Online daters targeted, FBI alert warns
-    *   Part 5 - Cooperative cybersecurity protection for large-scale infrastructure
-    *   Cylance Protect AV vulnerability patched
+    
+    *   'Know thyself:' To combat external ATP threats, first look inward
+    *   Cybersecurity staffers needed, no experience required
+    *   Black Hat 2019 keynote: Transformative change needed to improve cybersecurity
+    *   Russian hacking group STRONTIUM attacking corporate IoT devices, Microsoft says
+    *   Appeals court rejects Google privacy settlement over tracking cookies
 
 Back to Top
 
