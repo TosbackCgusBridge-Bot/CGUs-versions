@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   My AccountSign InTrack MyOrders
+*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -27,132 +27,133 @@ Shop Departments
     *   Backpacks
     *   Shop All Back To School
 
-Near YouFind a StoreBackFinal Hours Of COUPON CODE 19SUMMERENDS IN00HOURS 41MINS 09SECS See Details\*Extra 25% off select apparel, shoes, accessories, fine jewelry, home purchases of $100 or more any way you pay. Extra 20% off select apparel, shoes, accessories, fine jewelry, and home purchases with your JCPenney Credit Card or extra 15% off any other way you pay. Extra 10% off select furniture, mattresses, housewares, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches, and salon products any way you pay. Each offer good in store and at jcp.com, excluding taxes and shipping charges, 8/5/19-8/7/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Full amount of purchase must be on the JCPenney Credit Card to get the 20% off discount. Subject to credit approval. Does not apply to Best Value, Daily Deals, Limited Time Specials, Levi's, Denizen from Levi’s, Disney Collection, Disney Tsum Tsum, French Toast, Fisher-Price, Fanatics, Licensed Team Sports Merchandise, Columbia, Carhartt, Nike, adidas, Reebok, Puma, Champion, Converse, Clarks, Skechers Women's Shoes, Skechers Athletic Shoes, Bobs from Skechers, Keds, Grasshoppers, Athletic Shoes, Goddess Lingerie, Dreamgirl, Jewelry Trunk Shows, Modern Bride Design Your Dream Ring, Pre-Owned Watches, Smartwatches, Garmin, Fitbit, Sephora, Food, Penney Lane, S'ip by S'well, Electronics, In-Home Custom Design, Tempur-Pedic, Neato Robotics, iRobot, Sporting Goods/Outdoor Gear, Toys, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Personalized Jewelry, Wigs and Extensions, Purchase with Purchase Items, In-Store Services, Service Plans, Gift Cards, Closing Store purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code 19SUMMER when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. DetailsINSTA-READY STYLE FOR BACK TO SCHOOLFrom distressed denim to sporty activewear, shop back-to-school styles before the bell rings!
+Near YouFind a StoreBackFinal Hours Of COUPON CODE BUYMORE6ENDS IN00HOURS 41MINS 04SECS See Details\*Extra 30% off select apparel, shoes, accessories, fine jewelry and home purchases of $100 or more. Extra 25% off select purchases under $100. Extra 10% off select furniture, mattresses, housewares, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches and salon products. Each offer good at jcp.com only, excluding taxes and shipping charges, 8/8/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Best Value, Daily Deals, Limited Time Specials, Levi's, Denizen from Levi’s, Disney Collection, Disney Tsum Tsum, French Toast, Fisher-Price, Fanatics, Licensed Team Sports Merchandise, Columbia, Carhartt, Nike, adidas, Reebok, Puma, Champion, Converse, Clarks, Skechers Women's Shoes, Skechers Athletic Shoes, Bobs from Skechers, Keds, Grasshoppers, Athletic Shoes, Goddess Lingerie, Dreamgirl, Jewelry Trunk Shows, Modern Bride Design Your Dream Ring, Pre-Owned Watches, Smartwatches, Garmin, Fitbit, Sephora, Food, Penney Lane, S'ip by S'well, Electronics, In-Home Custom Design, Tempur-Pedic, Neato Robotics, iRobot, Sporting Goods/Outdoor Gear, Toys, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Personalized Jewelry, Wigs and Extensions, Purchase with Purchase Items, In-Store Services, Service Plans, Gift Cards, Closing Store purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. $ off savings applied to all qualifying items on prorated basis. any refunds will be given in the prorated amount. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code BUYMORE6 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. DetailsINSTA-READY STYLE FOR BACK TO SCHOOLFrom distressed denim to sporty activewear, shop back-to-school styles before the bell rings!
 
-*   GUYS
-*   JUNIORS
+*   SHOP ALL
 
-BACK-TO-SCHOOL ARIZONA DENIM FOR EVERYONEBUY 1 GET 1 FREE\*select styles | reg. $30-$56 | \*Buy one item at regular price, get the second item of equal or lesser value for free, while supplies last.
+ARIZONA DENIM FOR THE FAMILY**BUY 1 GET 1 FREE\*** JUNIORS' ARIZONA DENIM  
+select styles | reg. $30-$56 | \*Buy one item at regular price, get the second item of equal or lesser value for free, while supplies last.  
 
 *   JUNIORS
 *   GUYS
 *   BOYS
 *   GIRLS
-*   Shop All
-
-BOYS' ARIZONA ADVANCE FLEX 360° JEANS OR GIRLS' ARIZONA SUPERFLEX JEGGINGS  
-select styles | reg. $37-$40 GUYS' ARIZONA ADVANCE FLEX 360° SKINNY, SLIM &. STRAIGHT JEANS  
-select styles | reg. $50-5625% OFF SHOES &. APPARELselect stylesAdidas, Nike, Skechers, Champion &. athletic shoes excluded from coupons.  
-Shop Now
-
-*   ADIDAS
-*   NIKE
-*   SKECHERS
-*   CHAMPION
 *   SHOP ALL
 
-BUY 1 GET 1 50% OFF\*\* BRASselect styles | reg. $32-$44 | \*Buy one item at regular price, get a second item of equal or lesser value for 50% off, while supplies last.
+19.99 BOYS' ARIZONA ADVANCE FLEX 360° JEANS OR 14.99 GIRLS' ARIZONA SUPERFLEX JEGGINGS  
+select styles | reg. $37-$4024.99 GUYS' ARIZONA ADVANCE FLEX 360° SKINNY, SLIM &. STRAIGHT JEANS  
+select styles | reg. $5030% OFF\* NIKE SHOESselect styles\*Nike excluded from coupons. 
 
-*   SHOP ALL BRAS
+*   SHOP NOW
 
-*   Full figure
+50% OFF XERSION ACTIVEWEAR FOR THE FAMILYselect styles | sale $5.99-$26.99 | reg. $14-$54  
+
+*   WOMEN
+*   MEN
+*   KIDS
+
+MEN'S XERSION ACTIVEWEARKIDS' XERSION ACTIVEWEARBUY 1 GET 1 FREE\*  BRASselect styles | reg. $32-$44 | \*Buy one regular priced item, get the second regular priced item of equal or lesser value for free. While supplies last. Conditions and exclusions apply.   
+
+*   Shop All
+
+*   Full Figure
     
 *   Comfort
     
 *   Wireless
     
-*   T-shirt
+*   T-Shirt
     
 *   Pushup
     
 *   Multi-way
     
 
-SHOP ALL BRASYOUR ONE-STOP SCHOOL SHOPDORM 101Little spaces, lofty ideas. The 2019 dorm collection makes far away feel like home. $5 EACH KIDS' IZOD UNIFORM POLO WHEN YOU BUY 3 OR MOREselect styles | reg. $20-$22available in plus &. husky at similar savings  
+Shop AllYOUR ONE-STOP SCHOOL SHOPDORM 101Little spaces, lofty ideas. The 2019 dorm collection makes far away feel like home. SCHOOL UNIFORMSavailable in plus &. husky  
 MAKE IT EASY: GET 'EM A GIFT CARD! SEE IT. SHOP IT. #AllAtJCPMedia CarouselSlide 1 of 4. UP TO 70% OFF WOMEN'S SANDALSSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S SANDALSSELECT STYLESSHOP ALL
 
 *   SPECIAL DEAL!
     
-    $1699after couponwas $54 St. John's Bay Womens Noreen Wedge Sandals(14)Add To Cart
+    $1499after couponwas $54 St. John's Bay Womens Noreen Wedge Sandals(15)Add To Cart
 *   SPECIAL DEAL!
     
-    $2124after couponwas $60 Yuu Womens Yuujosephine Strap Sandals(21)Add To Cart
+    $1874after couponwas $60 Yuu Womens Yuujosephine Strap Sandals(21)Add To Cart
 *   SPECIAL DEAL!
     
-    $3399after couponwas $60 Liz Claiborne Womens Eastwick Strap Sandals(12)Add To Cart
+    $2999after couponwas $60 Liz Claiborne Womens Eastwick Strap Sandals(12)Add To Cart
 *   SPECIAL DEAL!
     
-    $1529after couponwas $40 Arizona Womens Seymour Adjustable Strap Flat Sandals(18)Add To Cart
+    $2249after couponwas $60 Liz Claiborne Womens Kadin Heeled Sandals(6)Add To Cart
 *   SPECIAL DEAL!
     
-    $2549after couponwas $60 Liz Claiborne Womens Kadin Heeled Sandals(6)Add To Cart
+    $1499after couponwas $54 Yuu Phebe Womens Footbed Sandals(28)Add To Cart
 *   SPECIAL DEAL!
     
-    $1699after couponwas $54 Yuu Phebe Womens Footbed Sandals(28)Add To Cart
+    $2249after couponwas $60 Liz Claiborne Womens Gloria Heeled Sandals(9)Add To Cart
 *   SPECIAL DEAL!
     
-    $2974after couponwas $50 Arizona Womens Marion Wedge Sandals(5)Add To Cart
+    $2624after couponwas $50 Arizona Womens Marion Wedge Sandals(5)Add To Cart
 
 UP TO 70% OFF SWIM FOR THE FAMILYSHOP ALLSELECT STYLESUP TO 70% OFF SWIM FOR THE FAMILYSELECT STYLESSHOP ALL
 
 *   SPECIAL DEAL!
     
-    $4249after couponwas $99 Azul by Maxine of Hollywood Leaf Swim Dress(13)Add To Cart
+    $3749after couponwas $99 Azul by Maxine of Hollywood Leaf Swim Dress(13)Add To Cart
 *   SPECIAL DEAL!
     
-    $4674after couponwas $109 Azul by Maxine of Hollywood Leaf Swim Dress Plus(7)Add To Cart
+    $4124after couponwas $109 Azul by Maxine of Hollywood Leaf Swim Dress Plus(8)Add To Cart
 *   SPECIAL DEAL!
     
-    $5014after couponwas $99 St. John's Bay Dots Swim Dress(14)Add To Cart
+    $974after couponwas $40 St. John's Bay Solid Cargo Swim Trunks(14)Add To Cart
 *   SPECIAL DEAL!
     
-    $4249after couponwas $99 Azul by Maxine of Hollywood Swim Dress(1)Add To Cart
+    $4424after couponwas $99 St. John's Bay Dots Swim Dress(14)Add To Cart
 *   SPECIAL DEAL!
     
-    $4249after couponwas $99 Azul by Maxine of Hollywood Abstract Swim Dress(7)Add To Cart
+    $3749after couponwas $99 Azul by Maxine of Hollywood Abstract Swim Dress(7)Add To Cart
 *   SPECIAL DEAL!
     
-    $1104after couponwas $40 St. John's Bay Solid Cargo Swim Trunks(14)Add To Cart
+    $3749after couponwas $99 Azul by Maxine of Hollywood Swim Dress(2)Add To Cart
 *   SPECIAL DEAL!
     
-    $4249after couponwas $99 Azul by Maxine of Hollywood Abstract Swim Dress(3)Add To Cart
+    $1874after couponwas $49 St. John's Bay High Waist Swimsuit Bottom(4)Add To Cart
 
 UP TO 70% OFF SHORTS FOR THE FAMILYSHOP ALLSELECT STYLESUP TO 70% OFF SHORTS FOR THE FAMILYSELECT STYLESSHOP ALL
 
 *   SPECIAL DEAL!
     
-    $850after couponwas $32 - $37 Arizona Boys Stretch Adjustable Waist Cargo Short Preschool / Big Kid(8)Add To Cart
+    $749after couponwas $36 St. John's Bay Men's Stretch Chino Short(75)Add To Cart
 *   SPECIAL DEAL!
     
-    $850after couponwas $32 - $37 Arizona Boys Stretch Pull-On Short Preschool / Big Kid(6)Add To Cart
+    $750after couponwas $32 - $37 Arizona Boys Stretch Adjustable Waist Cargo Short Preschool / Big Kid(10)Add To Cart
 *   SPECIAL DEAL!
     
-    $850after couponwas $30 - $35 Arizona Boys Stretch Adjustable Waist Chino Short Preschool / Big Kid(20)Add To Cart
+    $750after couponwas $32 - $37 Arizona Boys Stretch Pull-On Short Preschool / Big Kid(6)Add To Cart
 *   SPECIAL DEAL!
     
-    $850after couponwas $27 - $32 Arizona Boys Stretch Jogger Short Preschool / Big Kid(5)Add To Cart
+    $750after couponwas $30 - $35 Arizona Boys Stretch Adjustable Waist Chino Short Preschool / Big Kid(22)Add To Cart
 *   SPECIAL DEAL!
     
-    $1104after couponwas $34 Arizona Womens Low Rise 2 1/2" Denim Short-Juniors(6)Add To Cart
+    $750after couponwas $27 - $32 Arizona Boys Stretch Jogger Short Preschool / Big Kid(5)Add To Cart
 *   SPECIAL DEAL!
     
-    $1104after couponwas $34 Arizona Womens Low Rise 2 1/2" Denim Short-Juniors(7)Add To Cart
+    $750after couponwas $32 - $37 Arizona Boys Stretch Hybrid Short Preschool / Big KidAdd To Cart
 *   SPECIAL DEAL!
     
-    $850after couponwas $32 - $37 Arizona Boys Stretch Hybrid ShortAdd To Cart
+    from$1199after couponwas $55 - $60 IZOD Mens Mid Rise Stretch Chino Short(63)Add To Cart
 
 Recommended for You
 
-*   from$254after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(246)
-*   $1189after couponwas $32 St. John's Bay Secretly Slender Mid Rise Capris(221)
-*   from$849after couponwas $26 - $60 Home Expressions Microfiber Plus Easy Care Wrinkle Resistant Sheet Set(1547)
-*   from$339after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(177)
+*   from$224after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(246)
+*   from$1049after couponwas $32 St. John's Bay Secretly Slender Mid Rise Capris(223)
+*   from$974after couponwas $26 - $60 Home Expressions Microfiber Plus Easy Care Wrinkle Resistant Sheet Set(1549)
+*   from$299after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(178)
 *   3 Or More $5.00 Each
     
     from$6 sale
     
     was $20 - $22 | 70 - 72% offIzod Exclusive Girls Spread Collar Short Sleeve Stretch Polo Shirt(32)
-*   from$339after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1325)
+*   from$299after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1327)
 
 Shop and Save at JCPenney
 
