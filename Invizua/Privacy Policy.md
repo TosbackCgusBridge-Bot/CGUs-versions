@@ -5,8 +5,14 @@
     *   Compare
     *   Pricing
 *   Partners
+*   Community
+    *   Forums
+    *   Blog
+    *   Custom Views
+    *   Custom Blocks
 *   Support
-*   Blog
+    *   Help Center
+    *   Knowledge Base
 *   Contact Us
 *   Try now
 
@@ -17,8 +23,14 @@
     *   Compare
     *   Pricing
 *   Partners
+*   Community
+    *   Forums
+    *   Blog
+    *   Custom Views
+    *   Custom Blocks
 *   Support
-*   Blog
+    *   Help Center
+    *   Knowledge Base
 *   Contact Us
 *   Try now
 
