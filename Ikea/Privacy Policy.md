@@ -1,5 +1,5 @@
 skip to main content IKEA FAMILYIKEA for BusinessCustomer ServicesCredit CardJoin our email listMy preferred store:  
-**WI, Oak Creek**Choose Your Store Choose Your Store **Find an IKEA Store**AZ, Tempe  
+**WI, Oak Creek**Choose Your Store Choose Your Store **Find an IKEA Store** **New Locations**AZ, Tempe  
 CA, Burbank  
 CA, Carson  
 CA, Costa Mesa  
@@ -49,7 +49,7 @@ VA, Norfolk
 VA, Woodbridge  
 WA, Renton  
 WI, Oak Creek  
-**Find an IKEA Store**Log In/Sign Up Products Products All productsAppliancesBaby &. KidsBathroomBedroomCookingDecorationDiningEatingFoodHallwayHome ElectronicsHome ImprovementKitchensLaundryLightingLiving RoomMattressesOffice FurnitureOutdoor FurniturePetsSecondary StorageSmall StorageTextiles and RugsWireless chargingSummerBusinessCollectionsBack to CollegeLast ChanceNew Lower PriceNew LocationsInspirationNewOffersServicesIKEA Sets Welcome! 0 FAQ
+**Find an IKEA Store** **New Locations**Log In/Sign Up Products Products All productsAppliancesBaby &. KidsBathroomBedroomBusinessCookingDecorationDiningEatingFoodHallwayHome ElectronicsHome ImprovementKitchensLaundryLightingLiving RoomMattressesOffice FurnitureOutdoor FurniturePetsSecondary StorageSmall StorageTextiles and RugsWireless chargingSeasonalSummerCollectionsBack to CollegeDeals &. StealsLast ChanceNew Lower PriceIKEA Sets$10 and UnderInspirationNewOffersServicesIKEA Sets Welcome! 0 FAQ
 
 *   Log In or Sign Up
 *   My shopping cart
