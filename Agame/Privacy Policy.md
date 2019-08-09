@@ -217,8 +217,8 @@ View more results
     *   Rally Point 2: Dirt Track Racing Game
     *   Moto X3M: Motorcycle Racing Game
     *   Bike Racing: Motorcycle Game
-    *   Neon Biker
     *   Russian Car Driver
+    *   Neon Biker
 *   Top Categories
     
     *   Athletics
@@ -244,8 +244,8 @@ View more results
     *   Archery World Tour
     *   Ultimate Boxing
     *   Table Tennis World Tour
-    *   Baseball
     *   8-Ball
+    *   Baseball
     *   Cricket CPL Tournament
     *   Basketball Stars 2019
     *   Neon Biker
