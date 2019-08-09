@@ -149,17 +149,17 @@ MOVE TAKES MATTERS OF PRIVACY AND INFORMATION SERIOUSLY. Please read the followi
 
 The Move family of websites, and mobile apps, mobile-optimized websites and other applications and/or electronic media (such as emails Move sends), linking to or bearing this Privacy Policy and operated by or on behalf of Move (collectively, the “Sites,” and each, a “Site”) are committed to implementing policies and procedures designed to provide for privacy and security and deliver the best possible online experience. To that end, we want you to understand what kinds of information we gather about you, how this information, particularly Personal Information (defined below), is used and safeguarded, and how you can control its use. The Move family of websites includes, but is not necessarily limited to:
 
-http://www.move.com  
+https://www.move.com  
 https://www.realtor.com  
-http://newhomes.move.com/  
-http://www.moving.com/  
-http://www.relocation.com/  
-http://www.doorsteps.com/  
-http://www.topproducer.com/  
-http://www.fivestreet.com/  
-http://www.listhub.com  
-http://www.homefair.com/  
-https://www.opcity.com/  
+https://www.realtor.com/newhomes  
+https://www.moving.com  
+https://www.relocation.com  
+https://www.doorsteps.com  
+https://www.topproducer.com  
+https://www.fivestreet.com  
+https://www.listhub.com/home.html  
+https://www.homefair.com  
+https://www.opcity.com  
   
 
 In conjunction with this Privacy Policy, you should also review our Terms of Use for a more complete understanding of the rules governing our Sites. Click here for information on Internet safety and security from the Federal Trade Commission.
