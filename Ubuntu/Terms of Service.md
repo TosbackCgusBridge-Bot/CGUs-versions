@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Slow snap? Trace-exec to the rescue! ›
 *   Creating a ROS 2 CLI command and verb ›
 *   Enhancing our ZFS support on Ubuntu 19.10 – an introduction ›
 *   Ubuntu Server development summary – 06 August 2019 ›
 *   Declarative vs Imperative: DevOps done right ›
-*   Charmed Kubernetes update for upstream API server vulnerability ›
