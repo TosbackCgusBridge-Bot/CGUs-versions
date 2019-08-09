@@ -38,7 +38,7 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 
 20% off your order
 
-code: LETTUCE pin: 1409 DETAILS
+code: LETTUCE pin: 1409PROMOTION DETAILS
 
 Customer Service Menu
 
