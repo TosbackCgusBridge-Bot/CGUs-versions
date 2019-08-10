@@ -126,7 +126,7 @@ A stampede of anticipated games is coming
   
 Dive into PlayStation's most-wanted upcoming PS4 games of 2019:  http://play.st/2MDYjs1  pic.twitter.com/gdkkflc58i
 
-3 days ago View Tweet X850G HDR 4K TV ByYQ8tJF0SI
+4 days ago View Tweet X850G HDR 4K TV ByYQ8tJF0SI
 
 Tom Hank’s Next Role
 
