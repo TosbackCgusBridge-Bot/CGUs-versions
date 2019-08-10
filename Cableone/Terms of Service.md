@@ -1,4 +1,6 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1676078032639904&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=429775174175430&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=655713804869086&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N979W7" height="0" width="0" style="display:none. visibility:hidden;">. </iframe>. Turn on more accessible mode Turn off more accessible mode
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N979W7" height="0" width="0" style="display:none. visibility:hidden;">. </iframe>. Turn on more accessible mode Turn off more accessible mode
+
+This site will be unavailable due to maintenance each night 8/11/2019 through 8/16/2019 between 11:30 pm and 5:00 am MST. We appreciate your patience!
 
 Feedback Skip to main content
 
@@ -198,11 +200,9 @@ Services Residential
 
 Business
 
-*   CableONE Business Internet
-*   CableONE Business Phone
-*   CableONE Business Cable TV
-*   CableONE Business Networking
-*   CableONE Business Carrier &. Wholesale
+*   CableONE Small Business Solutions
+*   CableONE Large Business Solutions
+*   CableONE Business Carrier &. Wholesale Solutions
 
 Advertising
 
@@ -245,6 +245,6 @@ Search Search Type Residential Business Support
 *   CableONE Site Map
 *   CableONE Remote Connect
 
-Facebook Twitter Instagram YouTube LinkedIn Copyright 2019, Cable ONE Inc ., All Rights Reserved.
+Facebook Twitter Instagram YouTube LinkedIn Copyright 2019, Cable ONE Inc ., All Rights Reserved. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1676078032639904&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=429775174175430&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=655713804869086&amp;ev=PageView&amp;noscript=1">.
 
 BESbswy
