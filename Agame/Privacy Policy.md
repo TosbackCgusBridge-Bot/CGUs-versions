@@ -55,8 +55,8 @@ View more results
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Warbanner
     *   Total Front: Army War Game
-    *   Slither.io
     *   Klondike - the lost expedition
+    *   Slither.io
     *   Bubble Machine: 2 Player Game
     *   Crystical: 2 Player Puzzle Game
 *   Top Categories
