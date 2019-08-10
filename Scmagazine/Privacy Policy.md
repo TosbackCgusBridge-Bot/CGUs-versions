@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Cyberattack strikes Watertown schools
-    *   Two Deer Valley Resort restaurants hit with POS data breach
-    *   'Know thyself:' To combat external ATP threats, first look inward
-    *   Part 3 - Cooperative cybersecurity protection for large-scale infrastructure
-    *   Capital One hacker who stole personal info on 100M arrested
-    
-    *   Appeals court rejects Google privacy settlement over tracking cookies
+    *   BlueKeep built into exploitation tool, sparks fear of Wannacry style infections
+    *   Cooperative Cybersecurity protection for large-scale infrastructure
+    *   House Republicans ask Capitol One and Amazon for briefing on data breach
     *   Cisco pays $8.6 million to settle False Claims Act litigation
-    *   Proposed MICROCHIPS Act would require protections for technology supply chain
-    *   Honda Motors Company databases leaked 40GB of employee data
-    *   Report: North Korea funded WMD programs with $2B stolen via cyberattacks
+    *   Flaws in Visa contactless cards allow for bypass of anti-fraud checks, researchers warn
     
-    *   'Know thyself:' To combat external ATP threats, first look inward
+    *   Part 4 - Cooperative cybersecurity protection for large-scale infrastructure
+    *   Cooperative Cybersecurity protection for large-scale infrastructure
+    *   Apple halts contractors listening to Siri recordings, will offer opt-out
+    *   Honda Motors Company databases leaked 40GB of employee data
     *   Cybersecurity staffers needed, no experience required
-    *   Black Hat 2019 keynote: Transformative change needed to improve cybersecurity
-    *   Russian hacking group STRONTIUM attacking corporate IoT devices, Microsoft says
-    *   Appeals court rejects Google privacy settlement over tracking cookies
+    
+    *   Destructive malware attacks double as attackers pair ransomware with disk wipers
+    *   Consumers feel privacy is no safer under GDPR
+    *   State Farm hit with credential stuffing attack, data not compromised
+    *   Bug Bounty program set up 101, don’t be afraid it’s all good
+    *   Selling zero-days to governments takes some business savvy, says former bug broker
 
 Back to Top
 
