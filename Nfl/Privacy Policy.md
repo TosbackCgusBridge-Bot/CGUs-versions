@@ -2,7 +2,7 @@
 *   Scores
 *   Schedule
 *   Standings
-*   Training Camp
+*   Highlights
 *   Watch Games
 *   NFL 100
 
@@ -12,7 +12,7 @@
 *   *   Super Bowl
     *   Combine
     *   Draft
-    *   Highlights
+    *   Training Camp
     *   Stats
     *   Next Gen Stats
     *   Ways to Watch
