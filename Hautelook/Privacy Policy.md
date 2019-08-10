@@ -9,6 +9,28 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
+    *   Joie &. CURRENT/ELLIOTT Up to 70% Off
+    *   Barbour Outerwear
+    *   New on HauteLook: Fitbit
+    *   Last Call: Summer Steals Up to 80% Off
+    *   Steve Madden &. Madden Girl Up to 50% Off
+    *   Joie Shoes Up to 50% Off
+    *   Ready for Fall: Love Token &. More
+    *   On-Trend Essentials: Elodie Under $40
+    *   Summer-to-Fall Knits: Dresses Under $100
+    *   Back to School: Sleepwear Under $30 Incl. Plus
+    *   Thomas Pink Up to 70% Off
+    *   Simona Jewelry
+    *   Made in Italy: Grey Labelz Handbags
+    *   AME Kids' Character PJs
+    *   Travel Accessories ft. LEWIS N. CLARK
+    *   Save Khaki Up to 60% Off
+    *   D24K by D'or
+    *   Steven Land Up to 60% Off
+    *   Ready for School: Kids' Skater Looks ft. TONY HAWK
+    *   Back to School: Girls' Outerwear Up to 60% Off
+    
+    *   Ready for Fall: Lovers + Friends Up to 60% Off
     *   Ray-Ban
     *   MAC Cosmetics Up to 50% Off
     *   LOVE Moschino
@@ -16,7 +38,6 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Denim Essentials: Jackets, Cropped Jeans &. More
     *   Step into Comfort: Sandals ft. Sofft &. Isola
     *   Pre-Fall Dress Shop: THML &. More
-    *   GOOD AMERICAN Activewear &. More
     *   Roberto Cavalli Handbags Up to 70% Off
     *   Seychelles Up to 50% Off
     *   DKNY Lingerie &. Sleep
@@ -25,152 +46,128 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Report Up to 50% Off
     *   Men's Sandals Up to 50% Off
     *   Supply Lab Up to 60% Off
-    *   NFL Preseason Kickoff: Everyday Team Gear &. More
     *   Kids' NFL Kickoff: Active, Team Shirts &. More
-    *   Back to School: Boys' Outerwear Up to 60% Off
-    *   Back to School: Girls' Outerwear Up to 60% Off
     *   Kids' Puddle Jumpers ft. Lilly of New York
-    
-    *   Alo Yoga
-    *   Trina Turk Up to 65% Off
-    *   Ready for Fall: Lovers + Friends Up to 60% Off
     *   AG Denim Men Up to 60% Off
-    *   Equipment
-    *   Sperry
     *   Sperry Men
-    *   On-Trend Dresses Under $40 Incl. Plus &. Petites
-    *   Jessica Simpson Lingerie &. Sleep Starting at $15
-    *   Desk to Dinner: Dresses Under $85
-    *   Suzy Levian Jewelry
+    
     *   Edward Bess
-    *   End-of-Season Steals: Shoes Up to 60% Off
     *   Sperry Kids
-    *   Travel Protection: Hardside Luggage Up to 75% Off
-    *   Style Calling: On-Trend Phone Cases from $10
-    *   Donald Pliner Up to 60% Off
-    *   Donald Pliner Men Up to 60% Off
-    *   Trina Turk Jewelry &. More
     *   Kiehl's Since 1851
     *   Wellness Teas &. More from Teasane
-    
-    *   Dressed to Impress: Love...Ady Girls &. More
-    *   Travis Mathew
-    *   Fancy &. Fun: Girls' Flats and More
     *   PUR Cosmetics
     *   Retro Metal &. Wooden Decor Starting at $12
-    *   Men's Outdoor Shoes Starting at $40
-    *   CAMPER Men Up to 55% Off
     *   Free Shipping: NMK Bedding Blowout
-    *   Vanity Planet Up to 75% Off
     *   Free Shipping: Decor for Every Style
-    *   Free Shipping: Pastel Artwork
-    *   Agendas, Journals &. More
-    *   Free Shipping: Bedding Essentials
+    *   GOOD AMERICAN Activewear &. More
     *   Free Shipping: BergHOFF Up to 55% Off
+    *   Free Shipping: Pastel Artwork
     *   Free Shipping: Organizers for Every Room
     *   Elevate Your Look: Low &. Kitten Heels
     *   Elevate Your Look: Mid-Height Heels
-    *   Gym Bound: Bags &. Backpacks Under $50
-    *   True Religion Kids Up to 65% Off
     *   Elevate Your Look: High Heels
+    *   True Religion Kids Up to 65% Off
+    *   NFL Preseason Kickoff: Everyday Team Gear &. More
+    *   Back to School: Boys' Outerwear Up to 60% Off
+    *   On-Trend Dresses Under $40 Incl. Plus &. Petites
+    *   Desk to Dinner: Dresses Under $85
 *   WomenShop Sale Events
     
+    *   Joie &. CURRENT/ELLIOTT Up to 70% Off
+    *   Barbour Outerwear
+    *   New on HauteLook: Fitbit
+    *   Last Call: Summer Steals Up to 80% Off
+    *   Steve Madden &. Madden Girl Up to 50% Off
+    *   Joie Shoes Up to 50% Off
+    *   Ready for Fall: Love Token &. More
+    *   On-Trend Essentials: Elodie Under $40
+    *   Summer-to-Fall Knits: Dresses Under $100
+    *   Back to School: Sleepwear Under $30 Incl. Plus
+    *   Simona Jewelry
+    *   Made in Italy: Grey Labelz Handbags
+    *   Travel Accessories ft. LEWIS N. CLARK
+    *   D24K by D'or
+    *   Ready for Fall: Lovers + Friends Up to 60% Off
     *   Ray-Ban
     *   MAC Cosmetics Up to 50% Off
     *   LOVE Moschino
     *   Must-Have Styles from ONE ONE SIX &. More
+    
     *   Denim Essentials: Jackets, Cropped Jeans &. More
     *   Step into Comfort: Sandals ft. Sofft &. Isola
     *   Pre-Fall Dress Shop: THML &. More
-    *   GOOD AMERICAN Activewear &. More
     *   Roberto Cavalli Handbags Up to 70% Off
     *   Seychelles Up to 50% Off
     *   DKNY Lingerie &. Sleep
     *   Cool for Summer: Casual Styles Under $35
     *   Report Up to 50% Off
-    *   Alo Yoga
-    *   Trina Turk Up to 65% Off
-    *   Ready for Fall: Lovers + Friends Up to 60% Off
-    *   Equipment
-    *   Sperry
-    
-    *   On-Trend Dresses Under $40 Incl. Plus &. Petites
-    *   Jessica Simpson Lingerie &. Sleep Starting at $15
-    *   Desk to Dinner: Dresses Under $85
-    *   Suzy Levian Jewelry
     *   Edward Bess
-    *   End-of-Season Steals: Shoes Up to 60% Off
-    *   Travel Protection: Hardside Luggage Up to 75% Off
-    *   Donald Pliner Up to 60% Off
-    *   Trina Turk Jewelry &. More
     *   Kiehl's Since 1851
     *   Wellness Teas &. More from Teasane
     *   PUR Cosmetics
-    *   Vanity Planet Up to 75% Off
+    *   GOOD AMERICAN Activewear &. More
     *   Elevate Your Look: Low &. Kitten Heels
     *   Elevate Your Look: Mid-Height Heels
-    *   Gym Bound: Bags &. Backpacks Under $50
     *   Elevate Your Look: High Heels
+    *   On-Trend Dresses Under $40 Incl. Plus &. Petites
+    *   Desk to Dinner: Dresses Under $85
     
     Shop By Category
-    *   Shoes
     *   Clothing
-    *   Jewelry
+    *   Shoes
     *   Lingerie
-    *   Accessories
+    *   Jewelry
     *   Handbags
+    *   Accessories
+    *   Watches
 *   MenShop Sale Events
     
+    *   New on HauteLook: Fitbit
+    *   Thomas Pink Up to 70% Off
+    *   Travel Accessories ft. LEWIS N. CLARK
+    *   Save Khaki Up to 60% Off
+    *   Steven Land Up to 60% Off
     *   Ray-Ban
+    
     *   Men's Sandals Up to 50% Off
     *   Supply Lab Up to 60% Off
-    *   NFL Preseason Kickoff: Everyday Team Gear &. More
     *   AG Denim Men Up to 60% Off
     *   Sperry Men
-    *   Travel Protection: Hardside Luggage Up to 75% Off
-    
-    *   Donald Pliner Men Up to 60% Off
-    *   Travis Mathew
-    *   Men's Outdoor Shoes Starting at $40
-    *   CAMPER Men Up to 55% Off
-    *   Vanity Planet Up to 75% Off
-    *   Gym Bound: Bags &. Backpacks Under $50
+    *   NFL Preseason Kickoff: Everyday Team Gear &. More
     
     Shop By Category
     *   Shoes
     *   Clothing
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
-    *   Kids' NFL Kickoff: Active, Team Shirts &. More
-    *   Back to School: Boys' Outerwear Up to 60% Off
+    *   AME Kids' Character PJs
+    *   Ready for School: Kids' Skater Looks ft. TONY HAWK
     *   Back to School: Girls' Outerwear Up to 60% Off
+    *   Kids' NFL Kickoff: Active, Team Shirts &. More
     *   Kids' Puddle Jumpers ft. Lilly of New York
     *   Sperry Kids
-    *   Dressed to Impress: Love...Ady Girls &. More
-    *   Fancy &. Fun: Girls' Flats and More
     *   True Religion Kids Up to 65% Off
+    *   Back to School: Boys' Outerwear Up to 60% Off
     
     Shop By Category
-    *   Girls' Shoes
     *   Boys' Sizes 2T-7
-    *   Girls' Sizes 7-16
     *   Boys' Sizes 8-20
-    *   Girls' Sizes 2T-6X
+    *   Girls' Sizes 7-16
+    *   Girls' Shoes
     *   Boys' Shoes
+    *   Girls' Sizes 2T-6X
     *   Baby Boy
     *   Baby Girl
 *   HomeShop Sale Events
     
     *   Prep for Success: Kitchen Storage &. Gadgets
-    *   Style Calling: On-Trend Phone Cases from $10
     *   Retro Metal &. Wooden Decor Starting at $12
     *   Free Shipping: NMK Bedding Blowout
     *   Free Shipping: Decor for Every Style
-    *   Free Shipping: Pastel Artwork
-    *   Agendas, Journals &. More
-    *   Free Shipping: Bedding Essentials
     *   Free Shipping: BergHOFF Up to 55% Off
+    *   Free Shipping: Pastel Artwork
     *   Free Shipping: Organizers for Every Room
     
     Shop By Category
@@ -178,27 +175,27 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Kitchen &. Tabletop
     *   Bedding
     *   Cleaning &. Organization
-    *   Luggage &. Travel
-    *   Tech Accessories
     *   Rugs &. Doormats
+    *   Luggage &. Travel
     *   Outdoor Living
+    *   Tech Accessories
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   D24K by D'or
     *   MAC Cosmetics Up to 50% Off
     *   Edward Bess
     *   Kiehl's Since 1851
     *   Wellness Teas &. More from Teasane
     *   PUR Cosmetics
-    *   Vanity Planet Up to 75% Off
     
     Shop By Category
     *   Makeup
-    *   Bath &. Body
     *   Skin Care
-    *   Hair Care
+    *   Bath &. Body
     *   Tools &. Accessories
     *   Makeup Bags
+    *   Hair Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
