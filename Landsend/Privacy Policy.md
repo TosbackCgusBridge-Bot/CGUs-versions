@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-20% off your order
+Receive up to 50% off full-price kids' styles. up to 40% off other full-price styles!
 
-code: LETTUCE pin: 1409PROMOTION DETAILS
+code: DUNES pin: 1000PROMOTION DETAILS
 
 Customer Service Menu
 
@@ -257,7 +257,6 @@ Company
 *   Newsroom
 *   Lands' End Business
 *   International Sites
-*   The Journal
 
 Services
 
