@@ -76,25 +76,25 @@
   
 Read the Internet Society’s roadmap for our work in the year ahead.
 
+Connecting The Unconnected Connecting The Unconnected
+
+Far from the large urban centers, the people of El Cuy have adapted to the difficulties of accessing different services and technologies. The Internet is no exception, thanks to a new community network.
+
 Consolidation in the Internet Economy Consolidation in the Internet Economy
 
 Is the Internet economy consolidating? What does this mean for society? Read our 2019 Global Internet Report for a glimpse of the positive and negative impacts for the future.
-
-Fact or Fiction? With IoT It’s Not Always Clear Fact or Fiction? With IoT It’s Not Always Clear
-
-From smart shoes to an intelligent toilet, IoT devices sound like science fiction! But, these are real devices, that can have real vulnerabilities. Find out how to stay one step ahead and secure yourself against threats.
 
 Learn More Learn More
 
 Did you know that the open standards that power the Internet are created by the Internet Engineering Task Force (IETF)?
 
-Our CEO Keynote Speech Our CEO Keynote Speech
+Internet Society’s Online Trust Alliance 2018 Cyber Incidents &. Breach Trends Report Internet Society’s Online Trust Alliance 2018 Cyber Incidents &. Breach Trends Report
 
-"Nobody Internets alone," said Andrew Sullivan at APRICOT 2019 in South Korea. "You can only build the Internet with all the other networks: together."
+On July 9, 2019 the Internet Society’s Online Trust Alliance (OTA) released its 11th Cyber Incident &. Breach Trends report, which provides an overview of cyber incidents.
 
-Connecting The Unconnected Connecting The Unconnected
+Accessible, Clear, and Appropriate: An Open Letter to Amazon on Privacy Policies Accessible, Clear, and Appropriate: An Open Letter to Amazon on Privacy Policies
 
-How can the Internet change lives in rural and remote regions? Read the stories about community networks in Zimbabwe, the Republic of Georgia, and South Africa.
+On Amazon Prime Day, the Internet Society partnered with Mozilla and other organizations to publish An Open Letter to Amazon about Privacy.
 
 Member Login en
 
