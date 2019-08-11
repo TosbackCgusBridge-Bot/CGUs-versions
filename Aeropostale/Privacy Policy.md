@@ -37,7 +37,7 @@ Close submenu ( Girls ) Girls
 Close submenu ( Tops ) Tops
 
 *   View All
-*   $7 Tees
+*   Buy 1 Get 2 Free Tees
 *   Tees
 *   Graphic Tees
 *   Polos
@@ -95,7 +95,6 @@ Close submenu ( Guys ) Guys
 Close submenu ( Tops ) Tops
 
 *   View All
-*   $7 Tees
 *   Buy 1 Get 2 Free Tees
 *   Tees
 *   Graphic Tees
@@ -264,7 +263,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Ends Today $7 Graphic Tees + Free Ship With Jeans Purchase**
+**Buy 1 Get 1 Jeans FREE + Free Ship When You Buy Jeans**
 
 *   Select Country
 *   My Account My Account Login Register
@@ -276,7 +275,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Tops
         *   View All
-        *   $7 Tees
+        *   Buy 1 Get 2 Free Tees
         *   Tees
         *   Graphic Tees
         *   Polos
@@ -330,7 +329,6 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Tops
         *   View All
-        *   $7 Tees
         *   Buy 1 Get 2 Free Tees
         *   Tees
         *   Graphic Tees
