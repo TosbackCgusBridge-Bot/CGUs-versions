@@ -9,12 +9,34 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
+    *   Designer Shop: Fresh Fall Styles
+    *   Keep It Breezy: Love Stitch Under $50
+    *   Maggy London &. London Times Incl. Plus &. Petites
+    *   Clarks Up to 50% Off
+    *   Made in Italy: Meshmerise Jewelry from $15
+    *   Thacker New York Handbags
+    *   Clearly Trending: Shoes &. Bags
+    *   '90s Revival: Clothing &. Shoes
+    *   Ted Baker London Men's Shoes Up to 50% Off
+    *   Casual to Cocktails: Honey Punch
+    *   Marc New York Coats Up to 70% Off
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   Glow On: Neon Activewear from Electric Yoga
+    *   Season's Best: Swim ft. Athena, Next &. Nicole Miller
+    *   361 Degrees Active for Men &. Women
+    *   Not So Basic: Men's Socks &. Underwear Under $30
+    *   Maceoo Up to 65% Off
+    *   SIBU Sea Berry Therapy Skin Care &. Supplements
+    *   Fresh Finds: Shoes Up to 60% Off
+    *   Last Chance: Pool Party Essentials
+    *   Fun in the Sun: Kids' Toys ft. Toysmith
+    
+    *   Own Your Spotlight: JOI Mirrors
+    *   Luxe Leisure: Oversized Pool Floats &. More
     *   Joie &. CURRENT/ELLIOTT Up to 70% Off
     *   Barbour Outerwear
-    *   New on HauteLook: Fitbit
-    *   Last Call: Summer Steals Up to 80% Off
-    *   Steve Madden &. Madden Girl Up to 50% Off
     *   Joie Shoes Up to 50% Off
+    *   Steve Madden &. Madden Girl Up to 50% Off
     *   Ready for Fall: Love Token &. More
     *   On-Trend Essentials: Elodie Under $40
     *   Summer-to-Fall Knits: Dresses Under $100
@@ -28,57 +50,54 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   D24K by D'or
     *   Steven Land Up to 60% Off
     *   Ready for School: Kids' Skater Looks ft. TONY HAWK
-    *   Back to School: Girls' Outerwear Up to 60% Off
-    
-    *   Ready for Fall: Lovers + Friends Up to 60% Off
     *   Ray-Ban
     *   MAC Cosmetics Up to 50% Off
-    *   LOVE Moschino
-    *   Must-Have Styles from ONE ONE SIX &. More
-    *   Denim Essentials: Jackets, Cropped Jeans &. More
-    *   Step into Comfort: Sandals ft. Sofft &. Isola
-    *   Pre-Fall Dress Shop: THML &. More
-    *   Roberto Cavalli Handbags Up to 70% Off
-    *   Seychelles Up to 50% Off
-    *   DKNY Lingerie &. Sleep
-    *   Cool for Summer: Casual Styles Under $35
+    
     *   Prep for Success: Kitchen Storage &. Gadgets
-    *   Report Up to 50% Off
     *   Men's Sandals Up to 50% Off
     *   Supply Lab Up to 60% Off
     *   Kids' NFL Kickoff: Active, Team Shirts &. More
     *   Kids' Puddle Jumpers ft. Lilly of New York
     *   AG Denim Men Up to 60% Off
     *   Sperry Men
-    
     *   Edward Bess
-    *   Sperry Kids
     *   Kiehl's Since 1851
     *   Wellness Teas &. More from Teasane
-    *   PUR Cosmetics
     *   Retro Metal &. Wooden Decor Starting at $12
     *   Free Shipping: NMK Bedding Blowout
-    *   Free Shipping: Decor for Every Style
-    *   GOOD AMERICAN Activewear &. More
     *   Free Shipping: BergHOFF Up to 55% Off
-    *   Free Shipping: Pastel Artwork
     *   Free Shipping: Organizers for Every Room
-    *   Elevate Your Look: Low &. Kitten Heels
-    *   Elevate Your Look: Mid-Height Heels
-    *   Elevate Your Look: High Heels
-    *   True Religion Kids Up to 65% Off
+    *   Last Call: Summer Steals Up to 80% Off
+    *   Back to School: Girls' Outerwear Up to 60% Off
     *   NFL Preseason Kickoff: Everyday Team Gear &. More
     *   Back to School: Boys' Outerwear Up to 60% Off
-    *   On-Trend Dresses Under $40 Incl. Plus &. Petites
-    *   Desk to Dinner: Dresses Under $85
+    *   New on HauteLook: Fitbit
+    *   LOVE Moschino
+    *   Denim Essentials: Jackets, Cropped Jeans &. More
 *   WomenShop Sale Events
     
+    *   Designer Shop: Fresh Fall Styles
+    *   Keep It Breezy: Love Stitch Under $50
+    *   Maggy London &. London Times Incl. Plus &. Petites
+    *   Clarks Up to 50% Off
+    *   Made in Italy: Meshmerise Jewelry from $15
+    *   Thacker New York Handbags
+    *   Clearly Trending: Shoes &. Bags
+    *   '90s Revival: Clothing &. Shoes
+    *   Casual to Cocktails: Honey Punch
+    *   Marc New York Coats Up to 70% Off
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   Glow On: Neon Activewear from Electric Yoga
+    *   Season's Best: Swim ft. Athena, Next &. Nicole Miller
+    *   361 Degrees Active for Men &. Women
+    *   SIBU Sea Berry Therapy Skin Care &. Supplements
+    *   Fresh Finds: Shoes Up to 60% Off
+    *   Own Your Spotlight: JOI Mirrors
     *   Joie &. CURRENT/ELLIOTT Up to 70% Off
     *   Barbour Outerwear
-    *   New on HauteLook: Fitbit
-    *   Last Call: Summer Steals Up to 80% Off
-    *   Steve Madden &. Madden Girl Up to 50% Off
+    
     *   Joie Shoes Up to 50% Off
+    *   Steve Madden &. Madden Girl Up to 50% Off
     *   Ready for Fall: Love Token &. More
     *   On-Trend Essentials: Elodie Under $40
     *   Summer-to-Fall Knits: Dresses Under $100
@@ -87,53 +106,43 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Made in Italy: Grey Labelz Handbags
     *   Travel Accessories ft. LEWIS N. CLARK
     *   D24K by D'or
-    *   Ready for Fall: Lovers + Friends Up to 60% Off
     *   Ray-Ban
     *   MAC Cosmetics Up to 50% Off
-    *   LOVE Moschino
-    *   Must-Have Styles from ONE ONE SIX &. More
-    
-    *   Denim Essentials: Jackets, Cropped Jeans &. More
-    *   Step into Comfort: Sandals ft. Sofft &. Isola
-    *   Pre-Fall Dress Shop: THML &. More
-    *   Roberto Cavalli Handbags Up to 70% Off
-    *   Seychelles Up to 50% Off
-    *   DKNY Lingerie &. Sleep
-    *   Cool for Summer: Casual Styles Under $35
-    *   Report Up to 50% Off
     *   Edward Bess
     *   Kiehl's Since 1851
     *   Wellness Teas &. More from Teasane
-    *   PUR Cosmetics
-    *   GOOD AMERICAN Activewear &. More
-    *   Elevate Your Look: Low &. Kitten Heels
-    *   Elevate Your Look: Mid-Height Heels
-    *   Elevate Your Look: High Heels
-    *   On-Trend Dresses Under $40 Incl. Plus &. Petites
-    *   Desk to Dinner: Dresses Under $85
+    *   Last Call: Summer Steals Up to 80% Off
+    *   New on HauteLook: Fitbit
+    *   LOVE Moschino
+    *   Denim Essentials: Jackets, Cropped Jeans &. More
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie
     *   Jewelry
     *   Handbags
     *   Accessories
+    *   Lingerie
     *   Watches
 *   MenShop Sale Events
     
-    *   New on HauteLook: Fitbit
+    *   Ted Baker London Men's Shoes Up to 50% Off
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   361 Degrees Active for Men &. Women
+    *   Not So Basic: Men's Socks &. Underwear Under $30
+    *   Maceoo Up to 65% Off
     *   Thomas Pink Up to 70% Off
     *   Travel Accessories ft. LEWIS N. CLARK
     *   Save Khaki Up to 60% Off
+    
     *   Steven Land Up to 60% Off
     *   Ray-Ban
-    
     *   Men's Sandals Up to 50% Off
     *   Supply Lab Up to 60% Off
     *   AG Denim Men Up to 60% Off
     *   Sperry Men
     *   NFL Preseason Kickoff: Everyday Team Gear &. More
+    *   New on HauteLook: Fitbit
     
     Shop By Category
     *   Shoes
@@ -142,52 +151,52 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Watches
 *   KidsShop Sale Events
     
+    *   Fun in the Sun: Kids' Toys ft. Toysmith
     *   AME Kids' Character PJs
     *   Ready for School: Kids' Skater Looks ft. TONY HAWK
-    *   Back to School: Girls' Outerwear Up to 60% Off
     *   Kids' NFL Kickoff: Active, Team Shirts &. More
     *   Kids' Puddle Jumpers ft. Lilly of New York
-    *   Sperry Kids
-    *   True Religion Kids Up to 65% Off
+    *   Back to School: Girls' Outerwear Up to 60% Off
     *   Back to School: Boys' Outerwear Up to 60% Off
     
     Shop By Category
-    *   Boys' Sizes 2T-7
     *   Boys' Sizes 8-20
     *   Girls' Sizes 7-16
-    *   Girls' Shoes
-    *   Boys' Shoes
+    *   Boys' Sizes 2T-7
     *   Girls' Sizes 2T-6X
+    *   Girls' Shoes
     *   Baby Boy
+    *   Boys' Shoes
     *   Baby Girl
 *   HomeShop Sale Events
     
+    *   Last Chance: Pool Party Essentials
+    *   Luxe Leisure: Oversized Pool Floats &. More
     *   Prep for Success: Kitchen Storage &. Gadgets
     *   Retro Metal &. Wooden Decor Starting at $12
     *   Free Shipping: NMK Bedding Blowout
-    *   Free Shipping: Decor for Every Style
     *   Free Shipping: BergHOFF Up to 55% Off
-    *   Free Shipping: Pastel Artwork
     *   Free Shipping: Organizers for Every Room
     
     Shop By Category
-    *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
+    *   Home Decor
     *   Cleaning &. Organization
-    *   Rugs &. Doormats
     *   Luggage &. Travel
-    *   Outdoor Living
     *   Tech Accessories
+    *   Rugs &. Doormats
+    *   Outdoor Living
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   SIBU Sea Berry Therapy Skin Care &. Supplements
+    *   Own Your Spotlight: JOI Mirrors
     *   D24K by D'or
     *   MAC Cosmetics Up to 50% Off
     *   Edward Bess
     *   Kiehl's Since 1851
     *   Wellness Teas &. More from Teasane
-    *   PUR Cosmetics
     
     Shop By Category
     *   Makeup
