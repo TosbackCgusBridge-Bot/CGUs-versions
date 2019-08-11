@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   BlueKeep built into exploitation tool, sparks fear of Wannacry style infections
-    *   Cooperative Cybersecurity protection for large-scale infrastructure
-    *   House Republicans ask Capitol One and Amazon for briefing on data breach
-    *   Cisco pays $8.6 million to settle False Claims Act litigation
-    *   Flaws in Visa contactless cards allow for bypass of anti-fraud checks, researchers warn
-    
-    *   Part 4 - Cooperative cybersecurity protection for large-scale infrastructure
-    *   Cooperative Cybersecurity protection for large-scale infrastructure
+    *   Part 3 - Cooperative cybersecurity protection for large-scale infrastructure
+    *   Part 2 - Cooperative cybersecurity protection for large-scale infrastructure
     *   Apple halts contractors listening to Siri recordings, will offer opt-out
-    *   Honda Motors Company databases leaked 40GB of employee data
-    *   Cybersecurity staffers needed, no experience required
+    *   Sephora reports data breach, but few details
+    *   State Farm hit with credential stuffing attack, data not compromised
     
+    *   Jamf acquires Mac endpoint solutions firm Digita Security
+    *   CyberRisk Alliance Acquires SC Media
+    *   Capital One breach exposes not just data, but dangers of cloud misconfigurations
+    *   Monzo updates apps after incorrectly storing banking customer PINs
+    *   Part 3 - Cooperative cybersecurity protection for large-scale infrastructure
+    
+    *   Researcher: GDPR's Right of Access policy can be abused to steal others' personal info
+    *   Election systems by leading vendor connected to internet in some states, researchers find
+    *   Federal court says Facebook users can sue over use of facial recognition technology
     *   Destructive malware attacks double as attackers pair ransomware with disk wipers
     *   Consumers feel privacy is no safer under GDPR
-    *   State Farm hit with credential stuffing attack, data not compromised
-    *   Bug Bounty program set up 101, don’t be afraid it’s all good
-    *   Selling zero-days to governments takes some business savvy, says former bug broker
 
 Back to Top
 
