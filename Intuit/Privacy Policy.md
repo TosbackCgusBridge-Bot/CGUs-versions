@@ -77,7 +77,7 @@ MAKE IT EASY: GET 'EM A GIFT CARD!UP TO 70% OFF WOMEN'S SANDALSSHOP ALLSELECT ST
     $1499after couponwas $54 St. John's Bay Womens Noreen Wedge Sandals(16)Add To Cart
 *   SPECIAL DEAL!
     
-    $1874after couponwas $60 Yuu Womens Yuujosephine Strap Sandals(24)Add To Cart
+    $1874after couponwas $60 Yuu Womens Yuujosephine Strap Sandals(25)Add To Cart
 *   SPECIAL DEAL!
     
     $2999after couponwas $60 Liz Claiborne Womens Eastwick Strap Sandals(12)Add To Cart
@@ -89,10 +89,10 @@ MAKE IT EASY: GET 'EM A GIFT CARD!UP TO 70% OFF WOMEN'S SANDALSSHOP ALLSELECT ST
     $1499after couponwas $54 Yuu Phebe Womens Footbed Sandals(28)Add To Cart
 *   SPECIAL DEAL!
     
-    $2249after couponwas $60 Liz Claiborne Womens Gloria Heeled Sandals(9)Add To Cart
+    $2624after couponwas $50 Arizona Womens Marion Wedge Sandals(5)Add To Cart
 *   SPECIAL DEAL!
     
-    $1499after couponwas $60 a.n.a Womens Horizon Wedge Sandals(4)Add To Cart
+    $2249after couponwas $60 Liz Claiborne Womens Gloria Heeled Sandals(9)Add To Cart
 
 UP TO 70% OFF SWIM FOR THE FAMILYSHOP ALLSELECT STYLESUP TO 70% OFF SWIM FOR THE FAMILYSELECT STYLESSHOP ALL
 
@@ -108,15 +108,13 @@ UP TO 70% OFF SWIM FOR THE FAMILYSHOP ALLSELECT STYLESUP TO 70% OFF SWIM FOR THE
 *   SPECIAL DEAL!
     
     $1199after couponwas $40 The Foundry Big &. Tall Supply Co. Swim Trunks Big and Tall(2)Add To Cart
-*   SPECIAL DEAL!
-    
-    $1874after couponwas $49 Splashletics Tankini Swimsuit Top(3)Add To Cart
+*   $1874after couponwas $49 Splashletics Tankini Swimsuit Top(3)Add To Cart
 *   SPECIAL DEAL!
     
     $1199after couponwas $40 The Foundry Big &. Tall Supply Co. Swim Trunks Big and Tall(3)Add To Cart
 *   SPECIAL DEAL!
     
-    $974after couponwas $40 St. John's Bay Printed Microfiber E-Board Shorts(1)Add To Cart
+    $974after couponwas $42 Arizona Printed 6.5" Vollley TrunksAdd To Cart
 
 UP TO 70% OFF SHORTS FOR THE FAMILYSHOP ALLSELECT STYLESUP TO 70% OFF SHORTS FOR THE FAMILYSELECT STYLESSHOP ALL
 
@@ -144,16 +142,16 @@ UP TO 70% OFF SHORTS FOR THE FAMILYSHOP ALLSELECT STYLESUP TO 70% OFF SHORTS FOR
 
 Recommended for You
 
-*   from$224after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(248)
-*   from$1049after couponwas $32 St. John's Bay Secretly Slender Mid Rise Capris(225)
-*   from$974after couponwas $26 - $60 Home Expressions Microfiber Plus Easy Care Wrinkle Resistant Sheet Set(1550)
+*   from$224after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(250)
+*   from$1049after couponwas $32 St. John's Bay Secretly Slender Mid Rise Capris(230)
+*   from$974after couponwas $26 - $60 Home Expressions Microfiber Plus Easy Care Wrinkle Resistant Sheet Set(1551)
 *   3 Or More $5.00 Each
     
     from$6 sale
     
-    was $20 - $22 | 70 - 72% offIzod Exclusive Girls Spread Collar Short Sleeve Stretch Polo Shirt(32)
+    was $20 - $22 | 70 - 72% offIzod Exclusive Girls Spread Collar Short Sleeve Stretch Polo Shirt(34)
 *   from$299after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(178)
-*   from$299after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1330)
+*   from$299after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1333)
 
 Shop and Save at JCPenney
 
