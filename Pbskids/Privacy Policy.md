@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _app_
 
-Get parenting tips, kid-friendly recipes, cool crafts and more on PBS Parents! Get parenting tips, kid-friendly recipes, cool crafts and more on PBS Parents! Visit the site
+The Cat in the Hat Builds That app wins the People's Voice webby!The Cat in the Hat Builds That app wins the People's Voice webby!Get it today!
 
 Toggle message bar
 
