@@ -215,17 +215,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Part 3 - Cooperative cybersecurity protection for large-scale infrastructure
-    *   Part 2 - Cooperative cybersecurity protection for large-scale infrastructure
-    *   Apple halts contractors listening to Siri recordings, will offer opt-out
-    *   Sephora reports data breach, but few details
-    *   State Farm hit with credential stuffing attack, data not compromised
-    
-    *   Jamf acquires Mac endpoint solutions firm Digita Security
-    *   CyberRisk Alliance Acquires SC Media
+    *   Bug Bounty program set up 101, don’t be afraid it’s all good
+    *   Appeals court rejects Google privacy settlement over tracking cookies
+    *   Cyberattack strikes Watertown schools
     *   Capital One breach exposes not just data, but dangers of cloud misconfigurations
-    *   Monzo updates apps after incorrectly storing banking customer PINs
-    *   Part 3 - Cooperative cybersecurity protection for large-scale infrastructure
+    *   Part 2 - Cooperative cybersecurity protection for large-scale infrastructure
+    
+    *   Fiendish Amavaldo banking trojan strikes in Mexico after targeting Brazilians
+    *   MegaCortex variant redesigned a self-executing, incorporates features of previous version
+    *   Sephora reports data breach, but few details
+    *   Endpoints: Same as they ever were, but different too
+    *   How to craft a U.S. privacy law fit for a tech company
     
     *   Researcher: GDPR's Right of Access policy can be abused to steal others' personal info
     *   Election systems by leading vendor connected to internet in some states, researchers find
