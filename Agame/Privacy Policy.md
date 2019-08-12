@@ -86,8 +86,8 @@ View more results
     *   Slither.io
     *   Ultimate Boxing
     *   Uphill Rush 7: Waterpark
-    *   Short Life
     *   Combat Strike 2: 3D Shooting Game Online Multiplayer
+    *   Short Life
     *   Stickman Archer 2
     *   Miami Crime Simulator 3D
     *   Goodgame Gangster
@@ -148,8 +148,8 @@ View more results
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Fireboy and Watergirl: The Forest Temple
     *   TenTrix
-    *   Deal or No Deal
     *   Fireboy &. Watergirl 4: Crystal Temple
+    *   Deal or No Deal
     *   1001 Arabian Nights
     *   Bubble Machine: 2 Player Game
     *   Happy Glass
