@@ -122,7 +122,7 @@ View more results
     *   Five Nights at Freddy's 5
     *   FNAF World
     *   Fireboy and Watergirl 5: Elements
-    *   Five Nights at Freddy's 4
+    *   Trap Adventure 2
 *   Top Categories
     
     *   Bubble Shooter
@@ -213,8 +213,8 @@ View more results
     *   Uphill Rush 7: Waterpark
     *   Country Ride: Race Car Game
     *   Agame Stunt Cars
-    *   Madalin Cars Multiplayer
     *   Rally Point 2: Dirt Track Racing Game
+    *   Madalin Cars Multiplayer
     *   Moto X3M: Motorcycle Racing Game
     *   Bike Racing: Motorcycle Game
     *   Russian Car Driver
@@ -245,8 +245,8 @@ View more results
     *   Ultimate Boxing
     *   Table Tennis World Tour
     *   8-Ball
-    *   Baseball
     *   Cricket CPL Tournament
+    *   Baseball
     *   Basketball Stars 2019
     *   Neon Biker
     *   Billiards Master Pro
