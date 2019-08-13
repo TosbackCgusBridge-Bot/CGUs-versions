@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  xx:xx
+New Games Next in  14:08
 
-*   By Date Next addition in xx:xx
+*   By Date Next addition in 14:08
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more LIBRARY
 
-*   New Games Next in xx:xx
-*   Best of new games 1357 games
-*   Most Popular Games 19663 games
+*   New Games Next in 14:08
+*   Best of new games 1360 games
+*   Most Popular Games 19666 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,298 games
+*   Games for girls 24,304 games
 *   Driving &. Racing Games 6,856 games
-*   Strategy &. RPG Games 2,431 games
-*   Management Games 3,665 games
-*   Thinking Games 12,272 games
-*   Action &. Adventure Games 16,383 games
+*   Strategy &. RPG Games 2,432 games
+*   Management Games 3,664 games
+*   Thinking Games 12,275 games
+*   Action &. Adventure Games 16,388 games
 *   Sports Games 2,285 games
-*   Shooting Games 8,522 games
+*   Shooting Games 8,523 games
 *   Fighting Games 2,102 games
-*   Skill Games 11,495 games
-*   Arcade &. Classic Games 13,346 games
+*   Skill Games 11,500 games
+*   Arcade &. Classic Games 13,353 games
 *   Fun &. Crazy Games 2,562 games
 
 Play with friends  
 Powered by Y8 Account 129 Y8 Multiplayer Games 2,058 Y8 High Score Games 1,162 Y8 Achievements Games 825 Y8 Screenshots Games 1,479 Y8 Online Save Games 3,123 All Y8 Games Games Last Highscore:
 
-**16,746,285** points on Paragon World by Hero123
+**16** points on Farm Clash 3D by NormanGaming
 
 Help us improve Bad translation? Social
 
