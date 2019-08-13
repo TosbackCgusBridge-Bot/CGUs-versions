@@ -1,7 +1,11 @@
-*   Mortgages Compare Lenders
+*   Mortgages Get the Best Rates
     
     *   Mortgage rates
     *   Refinance rates
+    *   30-year mortgage rates
+    *   15-year mortgage rates
+    *   20-year mortgage rates
+    *   10-year mortgage rates
     *   Mortgage lender reviews
     
     Use Calculators
@@ -18,7 +22,7 @@
     *   Home buying guide
     *   Refinance your mortgage
     *   First-time homebuyer grants and programs
-    *   First-time homebuyer tips
+    *   Prepaying your mortgage
     *   FHA loans
     *   VA loans
 *   Banking Compare Accounts
@@ -177,21 +181,21 @@
     *   Home equity loans with bad credit
 *   Insurance Insurance Types
     
-    *   Auto insurance
+    *   Car insurance
     *   Homeowner's insurance
     *   Health insurance
     *   Life insurance
     
     Insurance Carrier Reviews
     
-    *   Geico (Auto Policies)
+    *   Geico (Car Policies)
     *   State Farm
     *   Progressive
     
     Get Advice
-    *   Auto insurance savings
-    *   Auto insurance quotes
-    *   Auto insurance carriers
+    *   Car insurance savings
+    *   Car insurance quotes
+    *   Car insurance carriers
 *   Personal Finance Compare
     
     *   Current interest rates
