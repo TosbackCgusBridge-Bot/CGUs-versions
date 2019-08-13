@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Provisioning ESXi with MAAS: An overview ›
+*   Julia and Jeff discover the ease of snaps at the Snapcraft Summit ›
 *   Enhanced Livepatch desktop integration available with Ubuntu 18.04.3 LTS ›
 *   Slow snap? Trace-exec to the rescue! ›
 *   Creating a ROS 2 CLI command and verb ›
-*   Enhancing our ZFS support on Ubuntu 19.10 – an introduction ›
-*   Ubuntu Server development summary – 06 August 2019 ›
