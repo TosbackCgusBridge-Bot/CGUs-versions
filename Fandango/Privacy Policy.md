@@ -6,45 +6,45 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movies Now Playing
     
     *   Fast &. Furious Presents: Hobbs &. Shaw
+    *   Scary Stories to Tell in the Dark
     *   The Lion King (2019)
+    *   Dora and the Lost City of Gold
     *   Once Upon a Time in Hollywood
+    *   The Art of Racing in the Rain
+    *   The Kitchen (2019)
     *   Spider-Man: Far From Home (2019)
     *   Toy Story 4
-    *   Yesterday (2019)
+    *   Bring the Soul: The Movie
     *   The Farewell (2019)
-    *   Crawl (2019)
-    *   Aladdin (2019)
-    *   Annabelle Comes Home
-    *   The Secret Life of Pets 2
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   The Art of Racing in the Rain
-    *   Brian Banks (2019)
-    *   Dora and the Lost City of Gold
-    *   The Kitchen (2019)
-    *   Scary Stories to Tell in the Dark
-    *   After the Wedding (2019)
-    *   Dying to Survive
-    *   ECCO (2019)
-    *   Ode to Joy (2019)
-    *   One Child Nation
-    *   The Peanut Butter Falcon
+    *   47 Meters Down: Uncaged
+    *   The Angry Birds Movie 2
+    *   Blinded by the Light
+    *   Good Boys (2019)
+    *   Where'd You Go, Bernadette
+    *   Aquarela
+    *   Cold Case Hammarskjöld
+    *   The Divine Fury (2019)
+    *   Line Walker 2: Invisible Spy
+    *   Mission Mangal
+    *   The Second Sun
     *   See All Opening This Week
     
     Coming Soon
     
-    *   47 Meters Down: Uncaged
-    *   Good Boys (2019)
-    *   Blinded by the Light
-    *   Where'd You Go, Bernadette
-    *   The Angry Birds Movie 2
     *   Angel Has Fallen
     *   Overcomer
     *   Ready or Not
+    *   Don't Let Go
     *   Saaho (2019)
     *   It Chapter Two (2019)
+    *   The Goldfinch
+    *   Hustlers
+    *   Ad Astra
+    *   Rambo: Last Blood
     *   See All Coming Soon
     
     Explore More
@@ -72,9 +72,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: ‘Scary Stories to Tell in the Dark’ VFX Breakdown, the ‘Good Boys’ Kids Try to See Their Movie and More Read More
-    *   The Week in Movie News: Andy Serkis Directing ‘Venom 2,’ James Earl Jones Returns for ‘Coming 2 America’ and More Read More
-    *   Next 3 Dwayne Johnson Movies: 'Jumanji: The Next Level,' 'Jungle Cruise,' 'Black Adam' Read More
+    *   Today in Movie Culture: ‘Scary Stories to Tell in the Dark’ Easter Eggs, Characters Margot Robbie Almost Played and More Read More
+    *   The Week in Movie News: Guillermo del Toro Casts Cate Blanchett for Next Project, First ‘1917’ Trailer and More Read More
+    *   Next 3 Major Horror Movies: 'It Chapter Two,' 'Doctor Sleep,' 'Black Christmas' Read More
     
     Explore Content
     *   Movie Reviews
@@ -305,9 +305,13 @@ Offers
     
     Sign up for a 'Cats' FanAlert™ for your chance to win a trip to the premiere in London! \*Terms apply. ENTER NOW
     
-*   FandangoNOW Binge Bundles
+*   AMC Stubs® Members Save Big with Discount Tuesdays
     
-    Rent multiple movies for one low price. Starting as low as $1.50 per movie. Many bundles available in stunning 4K Ultra HD. START BINGING
+    Save on tickets to Tuesday showtimes with your AMC Stubs® membership. \*Terms apply. BUY TICKETS
+    
+*   Enjoy movies all summer long
+    
+    Get a free movie ticket\* with Gift Card orders $75+ BUY GIFT CARDS
     
 
 New + Coming soon
