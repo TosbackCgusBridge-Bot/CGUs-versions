@@ -369,7 +369,6 @@ New York, NY 10011
 *   OFFICIAL INFORMATION
     *   Official Info
     *   About MLB
-    *   About MLB.com
     *   Team Information
     *   Official Rules
     *   Replay Review Regulations
@@ -384,7 +383,6 @@ New York, NY 10011
     *   Shop Help
     *   Ticket Information
     *   At Bat FAQs
-    *   MLB.com Download FAQs
     *   MLB.com Account Information
 *   MORE MLB SITES &. AFFILIATES
     *   MLB Players Alumni Association
@@ -406,7 +404,7 @@ New York, NY 10011
     *   AllStarGame.com
     *   mlb.com/DR
     *   mlb.com/kids
-    *   MLB Photostore
+    *   MLB Photo Store
     *   Offseason Leagues
     *   PlayBall.Org
     *   Player Resource Center
