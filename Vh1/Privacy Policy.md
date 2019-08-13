@@ -4,10 +4,10 @@
     *   Shows A-Z
     *   TV Schedule
     *   Basketball Wives
+    *   Black Ink Crew
     *   Black Ink Crew Compton
     *   Girls Cruise
     *   Hip Hop Squares
-    *   Love &. Hip Hop Atlanta
     *   Love &. Hip Hop Hollywood
     *   Love &. Listings
     *   Wild 'N OutSee all Shows
@@ -18,7 +18,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleBasketball WivesBlack Ink Crew ComptonGirls CruiseHip Hop SquaresLove &. Hip Hop AtlantaLove &. Hip Hop HollywoodLove &. ListingsWild 'N Outsee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleBasketball WivesBlack Ink CrewBlack Ink Crew ComptonGirls CruiseHip Hop SquaresLove &. Hip Hop HollywoodLove &. ListingsWild 'N Outsee all Shows
 *   News
 *   App
 *   Watch Live TV
