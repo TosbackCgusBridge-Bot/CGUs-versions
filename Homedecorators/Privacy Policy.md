@@ -1,6 +1,6 @@
 Compare <img src="https://images.homedepot-static.com/productImages/8a4a97e9-0442-4209-8e83-20a618514334/svn/espresso-bronze-home-decorators-collection-ceiling-fans-with-lights-yg493od-eb-64\_400\_compressed.jpg" alt="Kensgrove 72 in. LED Indoor/Outdoor Espresso Bronze Ceiling Fan with Remote Control" />.
 
-More Options Available Home Decorators Collection Kensgrove 72 in. LED Indoor/Outdoor Espresso Bronze Ceiling Fan with Remote Control Model#  YG493OD-EB (1244) $29900 $29900 Free delivery
+More Options Available Home Decorators Collection Kensgrove 72 in. LED Indoor/Outdoor Espresso Bronze Ceiling Fan with Remote Control Model#  YG493OD-EB (1245) $29900 $29900 Free delivery
 
 Set your store to see local  
 availability
@@ -24,6 +24,13 @@ More Options Available Home Decorators Collection Coastal Oak 7.5 in. x 47.6 in.
 Set your store to see local  
 availability
 
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/46246eba-716a-4dfb-96ed-e86df1b9e01a/svn/warm-cherry-home-decorators-collection-vinyl-plank-flooring-44415-64\_400\_compressed.jpg" alt="Warm Cherry 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/f2/f2507b38-0d99-4fa0-9f02-48f25bab41a6\_400\_compressed.jpg" alt="Warm Cherry 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
+
+More Options Available Home Decorators Collection Warm Cherry 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case) Model#  44415 (552) $239 /sq. ft. ( $59.12  /case) $239 /sq. ft. ( $59.12  /case) Standard delivery
+
+Set your store to see local  
+availability
+
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/c31f3112-3a04-45e6-80b2-2849f1428fd0/svn/home-decorators-collection-bathroom-vanities-with-tops-15101-vs61c-wt-64\_400\_compressed.jpg" alt="Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/0a/0ac508cc-6bdf-4b81-932d-1338ae45e9a2\_400\_compressed.jpg" alt="Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink" class="secondary-image has-secondary-image"/>. Home Decorators Collection Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink Model#  15101-VS61C-WT View the Windlowe Collection (109) $97900 $1,499.00 Save $520.00 (35%) $97900 $1,499.00 Save $520.00 (35%) Free delivery
 
 Set your store to see local  
@@ -33,7 +40,7 @@ Add to Cart Compare <img src="https://images.homedepot-static.com/catalog/produc
 
 More Options Available
 
-Home Decorators Collection 2 in. Cordless Faux Wood (6578) $2297 - $7997 Free delivery
+Home Decorators Collection 2 in. Cordless Faux Wood (6580) $2297 - $7997 Free delivery
 
 Set your store to see local  
 availability
@@ -80,7 +87,7 @@ availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/60d89270-797a-4f5a-b78e-b27afdcfd402/svn/matte-black-home-decorators-collection-ceiling-fans-with-lights-sw1422mbk-64\_400\_compressed.jpg" alt="Merwry 52 in. Integrated LED Indoor Matte Black Ceiling Fan with Light Kit and Remote Control" />.
 
-More Options Available Home Decorators Collection Merwry 52 in. Integrated LED Indoor Matte Black Ceiling Fan with Light Kit and Remote Control Model#  SW1422MBK View the Merwry Collection (1630) $11900 $11900 Free delivery
+More Options Available Home Decorators Collection Merwry 52 in. Integrated LED Indoor Matte Black Ceiling Fan with Light Kit and Remote Control Model#  SW1422MBK View the Merwry Collection (1632) $11900 $11900 Free delivery
 
 Set your store to see local  
 availability
@@ -92,6 +99,13 @@ More Options Available Home Decorators Collection Ellard 52 in. LED Matte Black 
 Set your store to see local  
 availability
 
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/556a1536-e205-4a9d-841b-7ea16729a707/svn/home-decorators-collection-bamboo-flooring-hd13004a-64\_400\_compressed.jpg" alt="Strand Woven Distressed Dark Honey 1/2 in. T x Multi Width x 72 in. L Engineered Click Bamboo Flooring" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/ab/aba0d04d-49b5-4b39-89a4-cc5d0893bf66\_400\_compressed.jpg" alt="Strand Woven Distressed Dark Honey 1/2 in. T x Multi Width x 72 in. L Engineered Click Bamboo Flooring" class="secondary-image has-secondary-image"/>.
+
+Home Decorators Collection Strand Woven Distressed Dark Honey 1/2 in. T x Multi Width x 72 in. L Engineered Click Bamboo Flooring Model#  HD13004A (235) $259 /sq. ft. ( $56.61  /case) $259 /sq. ft. ( $56.61  /case) Standard delivery
+
+Set your store to see local  
+availability
+
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/4ca85dba-9792-4438-b892-0aeb67208667/svn/handscraped-dark-hickory-home-decorators-collection-vinyl-plank-flooring-60199-64\_400\_compressed.jpg" alt="Java Hickory 6 in. x 36 in. Luxury vinyl plank flooring (20.34 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/b0/b0a4b08f-7456-4a21-ba0d-ec0ae66f26a1\_400\_compressed.jpg" alt="Java Hickory 6 in. x 36 in. Luxury vinyl plank flooring (20.34 sq. ft. / case)" class="secondary-image has-secondary-image"/>. Home Decorators Collection Java Hickory 6 in. x 36 in. Luxury vinyl plank flooring (20.34 sq. ft. / case) Model#  60199 (229) $239 /sq. ft. ( $48.61  /case) $239 /sq. ft. ( $48.61  /case) Standard delivery
 
 Set your store to see local  
@@ -99,14 +113,7 @@ availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/3a7bc3a6-4f70-47f4-9caf-1c4f61973e12/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-yg493b-bn-64\_400\_compressed.jpg" alt="Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/ad/adb1e618-e39f-4a13-a05b-0058b5076980\_400\_compressed.jpg" alt="Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control" class="secondary-image has-secondary-image"/>.
 
-More Options Available Home Decorators Collection Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control Model#  YG493B-BN (181) $24900 $24900 Limit 5 per order Free delivery
-
-Set your store to see local  
-availability
-
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/556a1536-e205-4a9d-841b-7ea16729a707/svn/home-decorators-collection-bamboo-flooring-hd13004a-64\_400\_compressed.jpg" alt="Strand Woven Distressed Dark Honey 1/2 in. T x Multi Width x 72 in. L Engineered Click Bamboo Flooring" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/ab/aba0d04d-49b5-4b39-89a4-cc5d0893bf66\_400\_compressed.jpg" alt="Strand Woven Distressed Dark Honey 1/2 in. T x Multi Width x 72 in. L Engineered Click Bamboo Flooring" class="secondary-image has-secondary-image"/>.
-
-Home Decorators Collection Strand Woven Distressed Dark Honey 1/2 in. T x Multi Width x 72 in. L Engineered Click Bamboo Flooring Model#  HD13004A (234) $259 /sq. ft. ( $56.61  /case) $259 /sq. ft. ( $56.61  /case) Standard delivery
+More Options Available Home Decorators Collection Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control Model#  YG493B-BN (182) $24900 $24900 Limit 5 per order Free delivery
 
 Set your store to see local  
 availability
@@ -118,7 +125,7 @@ availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/415c3345-83e6-443d-81b8-3c6b0f177d5f/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-yg493a-bn-64\_400\_compressed.jpg" alt="Kensgrove 54 in. Integrated LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/3f/3faa0f94-3a49-490c-a3e9-597ed085eeee\_400\_compressed.jpg" alt="Kensgrove 54 in. Integrated LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control" class="secondary-image has-secondary-image"/>.
 
-More Options Available Home Decorators Collection Kensgrove 54 in. Integrated LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control Model#  YG493A-BN (417) $17900 $17900 Free delivery
+More Options Available Home Decorators Collection Kensgrove 54 in. Integrated LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control Model#  YG493A-BN (418) $17900 $17900 Free delivery
 
 Set your store to see local  
 availability
@@ -149,13 +156,6 @@ availability
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/2a6cbf8b-18f4-4105-9f93-a95ec529ad53/svn/hickory-textured-home-decorators-collection-laminate-wood-flooring-34074sq-64\_400\_compressed.jpg" alt="Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide x 50-25/32 in. Length Laminate Flooring (15.45 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/ba/ba3a14bb-bd8b-4a67-bed7-e56c34aa2c6e\_400\_compressed.jpg" alt="Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide x 50-25/32 in. Length Laminate Flooring (15.45 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
 
 Home Decorators Collection Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide x 50-25/32 in. Length Laminate Flooring (15.45 sq. ft. / case) Model#  34074SQ (312) $149 /sq. ft. ( $23.02  /case) $149 /sq. ft. ( $23.02  /case) Standard delivery
-
-Set your store to see local  
-availability
-
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/97cfab57-6876-43f7-baf1-7e2ab00f3014/svn/bronze-home-decorators-collection-ceiling-fans-with-lights-59201-64\_400\_compressed.jpg" alt="Shanahan 52 in. LED Indoor/Outdoor Bronze Ceiling Fan with Light Kit" />.
-
-More Options Available Home Decorators Collection Shanahan 52 in. LED Indoor/Outdoor Bronze Ceiling Fan with Light Kit Model#  59201 (74) $14900 $14900 Free delivery
 
 Set your store to see local  
 availability
