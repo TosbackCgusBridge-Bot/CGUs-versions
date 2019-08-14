@@ -1,4 +1,4 @@
-SUBSCRIBE NOW99¢ per month. Save 90%.
+SUBSCRIBE NOW$3 for 3 months. Save 90%
 
 *   Home
 *   News
@@ -60,7 +60,7 @@ SUBSCRIBE NOW99¢ per month. Save 90%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowA manager, a father, grateful survivors: Inside the El Paso shootingNewsCouple moved to El Paso for safety, found violenceCrimeAffidavit: Walmart suspect said 'I'm the shooter'CrimeLady Gaga to fund classrooms in El Paso, DaytonLocalWalmart shooting suspect drove long road to terrorCrimeWho isn't allowed to own a gun in Texas?CrimeFamily and friends gathered to mourn El Paso shooting victim Leonardo CamposNews5 of 8 survivors decline to meet Trump in El PasoNewsWalmart store manager vows to return after attackNewsJordan Anchondo's family says goodbyeNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowBorder Patrol fires pepper balls at Rio Grande swimmersLocal$4.7M raised for families impacted by shootingNewsEmotional goodbye for decorated Army veteranLocalHere's how to get Khalid benefit concert ticketsEntertainmentEl Paso shooter being separated from other inmatesCrimeFamily remembers shooting victim David JohnsonNewsCouple's spat leads to phony El Paso airport firearm callCrime2 shooting victims still in critical condition, UMC saysLocalCommunity Memorial Service: What to knowNewsMan arrested on suspicion of sexual assaultCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
