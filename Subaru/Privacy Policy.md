@@ -48,22 +48,22 @@ Up to
 
 2.0i Sport Sedan shown
 
-Legacy $22,545\* starting price 2019 Legacy
+Legacy $22,745\* starting price 2020 Legacy
 
 Starting at
 
-$22,545 MSRP
+$22,745 MSRP
 
 Up to
 
-34/25 MPG Hwy/City
+35/27 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
 *   Compare
 *   Build &. Price
 
-Legacy 3.6R Limited shown
+Legacy Limited shown
 
 Crosstrek $21,895\* starting price 2019 Crosstrek
 
@@ -107,7 +107,7 @@ $26,645 MSRP
 
 Up to
 
-33/25 MPG Hwy/City
+33/26 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
@@ -419,8 +419,8 @@ Connect with Subaru Get Email Updates Customer Support
 *   Ad Choices
   
   
-*   SUBARU STARLINK™ Terms and Conditions
-*   SUBARU STARLINK™ Privacy Policy
+*   SUBARU STARLINK® Terms and Conditions
+*   SUBARU STARLINK® Privacy Policy
 
 *   English
 *   Español
