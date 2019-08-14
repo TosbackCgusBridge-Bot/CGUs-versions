@@ -32,7 +32,7 @@ Latest Quarterly Earnings Q2 August 7, 2019 at 9:00 AM EST Q2 2019 Office Depot 
 Click here for webcast view more Latest Quarterly Earnings Q2 August 7, 2019 at 9:00 AM EST Q2 2019 Office Depot Inc Earnings  
 Click here for webcast view more Investor Relations Company Profile
 
-Office Depot, Inc. (NASDAQ:ODP) is a leading B2B integrated distribution company providing business services and supplies, products and technology solutions through its fully integrated omni-channel platform of approximately 1,350 stores, online presence, and dedicated sales professionals and technicians to small, medium and enterprise businesses. Through its banner brands Office Depot®, OfficeMax®, CompuCom® and Grand&Toy®, the company offers its customers the tools and resources they need to focus on their passion of starting, growing and running their business. For more information, visit news.officedepot.com and follow @officedepot on Facebook, Twitter and Instagram.
+Office Depot, Inc. (NASDAQ:ODP) is a leading provider of business services and supplies, products and technology solutions to small, medium and enterprise businesses, through a fully integrated B2B distribution platform of approximately 1,300 stores, online presence, and dedicated sales professionals and technicians. Through its banner brands Office Depot®, OfficeMax®, CompuCom® and Grand&Toy®, as well as others, the Company offers its customers the tools and resources they need to focus on their passion of starting, growing and running their business. For more information, visit news.officedepot.com and follow @officedepot on Facebook, Twitter and Instagram.
 
 Office Depot is a trademark of The Office Club, Inc. OfficeMax is a trademark of OMX, Inc. CompuCom is a trademark of CompuComSystems, Inc. Grand&Toy is a trademark of Grand &. Toy, LLC in Canada. ©2019 Office Depot, Inc. All rights reserved. Any other product or company names mentioned herein are the trademarks of their respective owners.
 
@@ -40,20 +40,20 @@ Stock Quote and Chart
 
 Price
 
-$1.59
+$1.56
 
 Change
 
-\-0.065
++0.06
 
 Percent Change
 
-(0.00%)
+(+4.00%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Aug 07, 2019 Office Depot Declares Quarterly Cash Dividend of $0.025 Per Share view more Recent News Aug 07, 2019 Office Depot Declares Quarterly Cash Dividend of $0.025 Per Share view more Events Aug 7, 2019 at 9:00 AM EDT Q2 2019 Office Depot Inc Earnings Conference Call view more Events Aug 7, 2019 at 9:00 AM EDT Q2 2019 Office Depot Inc Earnings Conference Call view more Presentations Aug 07, 2019 Office Depot Second Quarter 2019 Earnings Webcast Presentation view more Presentations Aug 07, 2019 Office Depot Second Quarter 2019 Earnings Webcast Presentation view more
+Recent News Aug 07, 2019 Office Depot Announces Second Quarter 2019 Results view more Recent News Aug 07, 2019 Office Depot Announces Second Quarter 2019 Results view more Events Aug 7, 2019 at 9:00 AM EDT Q2 2019 Office Depot Inc Earnings Conference Call view more Events Aug 7, 2019 at 9:00 AM EDT Q2 2019 Office Depot Inc Earnings Conference Call view more Presentations Aug 07, 2019 Office Depot Second Quarter 2019 Earnings Webcast Presentation view more Presentations Aug 07, 2019 Office Depot Second Quarter 2019 Earnings Webcast Presentation view more
 
 *   Home
 *   News &. Events
