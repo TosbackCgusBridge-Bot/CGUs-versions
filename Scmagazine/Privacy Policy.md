@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Microsoft-certified software drivers found to be security risks
-    *   Flaws in Visa contactless cards allow for bypass of anti-fraud checks, researchers warn
-    *   Honda Motors Company databases leaked 40GB of employee data
-    *   State Farm hit with credential stuffing attack, data not compromised
-    *   Autonomous vehicle sensors tricked by “invisible” drone projections of road signs
+    *   Russian hacking group STRONTIUM attacking corporate IoT devices, Microsoft says
+    *   Cybersecurity staffers needed, no experience required
+    *   Historic hacking group members dish on Julian Assange, Beto O'Rourke
+    *   MegaCortex variant redesigned a self-executing, incorporates features of previous version
+    *   Clipsa cryptostealer targeting Word Press sites
     
-    *   Flaws in Visa contactless cards allow for bypass of anti-fraud checks, researchers warn
-    *   Microsoft-certified software drivers found to be security risks
-    *   Symantec sells off enterprise business for $10.7 billion
-    *   Fiendish Amavaldo banking trojan strikes in Mexico after targeting Brazilians
-    *   Consumers feel privacy is no safer under GDPR
+    *   Part 5 - Cooperative cybersecurity protection for large-scale infrastructure
+    *   Black Hat 2019 keynote: Transformative change needed to improve cybersecurity
+    *   NSA program trains high school students in work study program
+    *   Online daters targeted, FBI alert warns
+    *   Reducing SIEM fatigue: Finding a signal in all the noise
     
+    *   Executive order seeks to give FCC, FTC authority over social media content
     *   Apple to expand bug bounty program, offer researchers access to iOS, iPhones
     *   Saefko RAT peeks at browser histories to help adversaries form optimal attack plan
     *   Microsoft-certified software drivers found to be security risks
     *   Def Con: Lieu, Langevin call on security community to help fed gov't bolster cyber, harden election security
-    *   Symantec sells off enterprise business for $10.7 billion
 
 Back to Top
 
