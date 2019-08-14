@@ -84,9 +84,9 @@ View more results
     *   Total Front: Army War Game
     *   Stunt Skateboard 3D
     *   Slither.io
+    *   Combat Strike 2: 3D Shooting Game Online Multiplayer
     *   Ultimate Boxing
     *   Uphill Rush 7: Waterpark
-    *   Combat Strike 2: 3D Shooting Game Online Multiplayer
     *   Short Life
     *   Stickman Archer 2
     *   Miami Crime Simulator 3D
