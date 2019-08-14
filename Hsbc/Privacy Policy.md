@@ -438,7 +438,6 @@ Location selector (auto-suggestions will appear below field) 36 results are avai
 *   Bangladesh
 *   Bermuda
 *   Canada
-*   China
 *   Egypt
 *   France
 *   Greece
@@ -449,6 +448,7 @@ Location selector (auto-suggestions will appear below field) 36 results are avai
 *   Indonesia
 *   Isle of Man
 *   Jersey
+*   Mainland China
 *   Malaysia
 *   Malta
 *   Mauritius
