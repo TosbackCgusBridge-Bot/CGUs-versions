@@ -72,7 +72,7 @@ Globe iconLogin iconRecap iconSearch iconTickets icon Scores News Video Standing
 *   Schedule Schedule Schedule
     *   2019 Regular Season
     *   2019 Postseason Schedule
-    *   2019 Spring Training
+    *   2020 Regular Season
     *   Important Dates
     *   Team by Team Schedule
     *   National Broadcasts
