@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  14:08
+New Games Next in  xx:xx
 
-*   By Date Next addition in 14:08
+*   By Date Next addition in xx:xx
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more LIBRARY
 
-*   New Games Next in 14:08
-*   Best of new games 1360 games
-*   Most Popular Games 19666 games
+*   New Games Next in xx:xx
+*   Best of new games 1372 games
+*   Most Popular Games 19674 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,304 games
-*   Driving &. Racing Games 6,856 games
+*   Games for girls 24,324 games
+*   Driving &. Racing Games 6,857 games
 *   Strategy &. RPG Games 2,432 games
-*   Management Games 3,664 games
-*   Thinking Games 12,275 games
+*   Management Games 3,663 games
+*   Thinking Games 12,277 games
 *   Action &. Adventure Games 16,388 games
-*   Sports Games 2,285 games
+*   Sports Games 2,286 games
 *   Shooting Games 8,523 games
 *   Fighting Games 2,102 games
-*   Skill Games 11,500 games
-*   Arcade &. Classic Games 13,353 games
+*   Skill Games 11,505 games
+*   Arcade &. Classic Games 13,358 games
 *   Fun &. Crazy Games 2,562 games
 
 Play with friends  
 Powered by Y8 Account 129 Y8 Multiplayer Games 2,058 Y8 High Score Games 1,162 Y8 Achievements Games 825 Y8 Screenshots Games 1,479 Y8 Online Save Games 3,123 All Y8 Games Games Last Highscore:
 
-**16** points on Farm Clash 3D by NormanGaming
+**7,683** points on Pixel Road Taxi Depot by congzkie
 
 Help us improve Bad translation? Social
 
