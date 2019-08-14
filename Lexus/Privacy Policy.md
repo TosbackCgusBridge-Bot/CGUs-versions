@@ -423,7 +423,6 @@ Brand &. Lifestyle
 *   TUNED CARS
 *   Safety Technology
 *   Lexus Plus
-*   L Studio Films
 *   Lexus Hybrids
 *   Lexus Merchandise
 *   Lexus International
@@ -446,7 +445,6 @@ Brand &. Lifestyle
 *   Youtube.com/LexusVehicles
 *   Instagram.com/lexususa
 *   Pinterest.com/lexususa
-*   Sendthemasignal.tumblr.com
 
 *   Leasing &. Finance
     *   Apply For Credit
@@ -483,7 +481,6 @@ Brand &. Lifestyle
     *   TUNED CARS
     *   Safety Technology
     *   Lexus Plus
-    *   L Studio Films
     *   Lexus Hybrids
     *   Lexus Merchandise
     *   Lexus International
