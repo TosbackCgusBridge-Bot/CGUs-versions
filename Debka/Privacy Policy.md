@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Tuesday, August 13, 2019  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Wednesday, August 14, 2019  
 
 DEBKAfile
 
@@ -46,78 +46,78 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
-*   Mystery blasts at Shiite militia missile depot near Baghdad
+*   Trump: China moving troops to Hong Kong border
     
-    Aug 12, 2019 @ 20:57
+    Aug 13, 2019 @ 21:19
     
-*   Instead of firing Smotrich, Netanyahu accepts a public apolog
+*   Iran says UK may free seized tanker Tuesday night
     
-    Aug 12, 2019 @ 19:42
+    Aug 13, 2019 @ 15:24
     
-*   German diplomat loses INSTEX post over anti-Israel remark
+*   One woman dead, second stable from Sydney stabbing
     
-    Aug 12, 2019 @ 19:19
+    Aug 13, 2019 @ 11:02
     
-*   More than 90 US army men in S. Turkey to set up Syria safe zone
+*    Yemeni separatists seize control of Aden
     
-    Aug 12, 2019 @ 18:14
+    Aug 13, 2019 @ 10:49
     
-*   A rare gold and silver ornament found in Jerusalem among ashes of Babylonian destruction
+*   Man arrested in Sydney amid stabbing rampage. One woman injured
     
-    Aug 12, 2019 @ 10:29
+    Aug 13, 2019 @ 10:31
     
 
-*   Instead of firing Smotrich, Netanyahu accepts a public apolog
+*   Iran says UK may free seized tanker Tuesday night
     
-    Aug 12, 2019 @ 19:42
+    Aug 13, 2019 @ 15:24
     
-*   German diplomat loses INSTEX post over anti-Israel remark
+*   One woman dead, second stable from Sydney stabbing
     
-    Aug 12, 2019 @ 19:19
+    Aug 13, 2019 @ 11:02
     
-*   More than 90 US army men in S. Turkey to set up Syria safe zone
+*    Yemeni separatists seize control of Aden
     
-    Aug 12, 2019 @ 18:14
+    Aug 13, 2019 @ 10:49
     
-*   A rare gold and silver ornament found in Jerusalem among ashes of Babylonian destruction
+*   Man arrested in Sydney amid stabbing rampage. One woman injured
     
-    Aug 12, 2019 @ 10:29
+    Aug 13, 2019 @ 10:31
     
-*   Mystery blasts at Shiite militia missile depot near Baghdad
+*   Trump: China moving troops to Hong Kong border
     
-    Aug 12, 2019 @ 20:57
+    Aug 13, 2019 @ 21:19
     
-*   Instead of firing Smotrich, Netanyahu accepts a public apolog
+*   Iran says UK may free seized tanker Tuesday night
     
-    Aug 12, 2019 @ 19:42
+    Aug 13, 2019 @ 15:24
     
-*   German diplomat loses INSTEX post over anti-Israel remark
+*   One woman dead, second stable from Sydney stabbing
     
-    Aug 12, 2019 @ 19:19
+    Aug 13, 2019 @ 11:02
     
-*   More than 90 US army men in S. Turkey to set up Syria safe zone
+*    Yemeni separatists seize control of Aden
     
-    Aug 12, 2019 @ 18:14
+    Aug 13, 2019 @ 10:49
     
-*   A rare gold and silver ornament found in Jerusalem among ashes of Babylonian destruction
+*   Man arrested in Sydney amid stabbing rampage. One woman injured
     
-    Aug 12, 2019 @ 10:29
+    Aug 13, 2019 @ 10:31
     
-*   Mystery blasts at Shiite militia missile depot near Baghdad
+*   Trump: China moving troops to Hong Kong border
     
-    Aug 12, 2019 @ 20:57
+    Aug 13, 2019 @ 21:19
     
-*   Instead of firing Smotrich, Netanyahu accepts a public apolog
+*   Iran says UK may free seized tanker Tuesday night
     
-    Aug 12, 2019 @ 19:42
+    Aug 13, 2019 @ 15:24
     
-*   German diplomat loses INSTEX post over anti-Israel remark
+*   One woman dead, second stable from Sydney stabbing
     
-    Aug 12, 2019 @ 19:19
+    Aug 13, 2019 @ 11:02
     
-*   More than 90 US army men in S. Turkey to set up Syria safe zone
+*    Yemeni separatists seize control of Aden
     
-    Aug 12, 2019 @ 18:14
+    Aug 13, 2019 @ 10:49
     
 
 12PrevNext
