@@ -21,7 +21,7 @@ Close MENU **IS**
 
 **ES**
 
-*   Starting at $39,7501\*
+*   Starting at $39,9001\*
 *   302-HP 3.5L V6
 
 *   Build
@@ -29,7 +29,7 @@ Close MENU **IS**
 
 **ES HYBRID**
 
-*   Starting at $41,5601\*
+*   Starting at $41,7601\*
 *   44-MPG combined rating2\*
 
 *   Build
@@ -127,7 +127,7 @@ COMPARE **UX**
 
 **LX**
 
-*   Starting at $86,23012\*
+*   Starting at $86,38012\*
 *   383-HP3\* V8, FULL-TIME 4WD
 
 *   Build
@@ -195,7 +195,7 @@ COMPARE **UX HYBRID**
 
 **ES HYBRID**
 
-*   Starting at $41,5601\*
+*   Starting at $41,7601\*
 *   44-MPG COMBINED RATING2\*
 
 *   Build
