@@ -79,8 +79,6 @@ If we do not resolve your question or concern satisfactorily, then please contac
 
 For O’Reilly inquiries:
 
-For Safari inquiries:
-
 Our EU Representative: As we, O'Reilly Media, Inc. and Safari Books Online, LLC, are not established in the EU, we have appointed O'Reilly UK Limited as our EU representative whom you may contact if you are located in the EU to raise any issues or queries you have relating to our processing of your personal information and/or this Privacy Policy more generally. Our EU representative's contact details are:
 
 FAO
