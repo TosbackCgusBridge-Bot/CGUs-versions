@@ -1,4 +1,4 @@
-Skip to Content Close<img src="//www.sony.com/assets/images/close-btn-x.png?fa48f775a334600f47f403ffb303d1e7&amp;wid=12" alt="" class="u-nav-close-btn-img">
+Skip to Main Content Close<img src="//www.sony.com/assets/images/close-btn-x.png?fa48f775a334600f47f403ffb303d1e7&amp;wid=12" alt="" class="u-nav-close-btn-img">
 
 Sony Sites
 
@@ -122,7 +122,7 @@ Learn More
 
 Book a discounted trip to the beautiful and deadly Farewell, Oregon. Days Gone is 40% off at PS Store:  https://play.st/2MPFQZG  pic.twitter.com/fBv4VwHG6f
 
-2 days ago View Tweet WF-1000XM3 Wireless Noise Cancelling Earbud B08loOgh7-9
+3 days ago View Tweet WF-1000XM3 Wireless Noise Cancelling Earbud B08loOgh7-9
 
 Bring the Party
 
