@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Russian hacking group STRONTIUM attacking corporate IoT devices, Microsoft says
-    *   Cybersecurity staffers needed, no experience required
+    *   State Farm hit with credential stuffing attack, data not compromised
+    *   Pearson data breach impacts thousands of university accounts
     *   Historic hacking group members dish on Julian Assange, Beto O'Rourke
-    *   MegaCortex variant redesigned a self-executing, incorporates features of previous version
-    *   Clipsa cryptostealer targeting Word Press sites
+    *   'Know thyself:' To combat external ATP threats, first look inward
+    *   Destructive malware attacks double as attackers pair ransomware with disk wipers
     
-    *   Part 5 - Cooperative cybersecurity protection for large-scale infrastructure
+    *   House Republicans ask Capitol One and Amazon for briefing on data breach
+    *   'Know thyself:' To combat external ATP threats, first look inward
+    *   State Farm hit with credential stuffing attack, data not compromised
     *   Black Hat 2019 keynote: Transformative change needed to improve cybersecurity
-    *   NSA program trains high school students in work study program
-    *   Online daters targeted, FBI alert warns
-    *   Reducing SIEM fatigue: Finding a signal in all the noise
+    *   Hurd's exit leaves cybersecurity gap in Congress
     
-    *   Executive order seeks to give FCC, FTC authority over social media content
-    *   Apple to expand bug bounty program, offer researchers access to iOS, iPhones
-    *   Saefko RAT peeks at browser histories to help adversaries form optimal attack plan
-    *   Microsoft-certified software drivers found to be security risks
-    *   Def Con: Lieu, Langevin call on security community to help fed gov't bolster cyber, harden election security
+    *   Cisco issues multiple product updates, fixes critical flaws in small business switches
+    *   BioStar 2 database leaked one million fingerprints, facial recognition data
+    *   Creating a next-gen cybersecurity roadmap
+    *   BlueKeep-like RCE flaws in RDP among 93 vulnerabilities patched by Microsoft
+    *   Adapting the classical art of penetration testing to the cubist world of cloud
 
 Back to Top
 
@@ -258,8 +258,8 @@ Back to Top
     *   SC Online Events
     *   SC Awards
 
-*   Copyright © 2019 Haymarket Media, Inc. All Rights Reserved  
+*   Copyright © 2019 CyberRisk Alliance, LLC All Rights Reserved  
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
-    Your use of this website constitutes acceptance of Haymarket Media’s Privacy Policy and Terms &. Conditions.
+    Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
 Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
