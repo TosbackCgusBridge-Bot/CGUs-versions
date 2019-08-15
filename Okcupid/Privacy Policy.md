@@ -383,7 +383,7 @@ You need to complete your basic info on the mobile app before you can use the de
 *   Support
 *   Blog
 *   Tech Blog
-*   NYC Dating
+*   Philadelphia Dating
 *   Privacy Policy
 *   Cookie Policy
 *   Terms and Conditions
@@ -397,4 +397,12 @@ Still there?
 
 *   Resume dating
 
-Placeholder <div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/829392633/?guid=ON&amp;script=0"/>. </div>.
+Placeholder <div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/829392633/?guid=ON&amp;script=0"/>. </div>. Step into the spotlight
+
+We’ve supercharged Boost so you get more likes faster.
+
+Save yourself (a lot) of time
+
+Get a day’s worth of attention in one 30-minute Boost.
+
+Boost nowNo thanks
