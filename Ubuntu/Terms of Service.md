@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   OpenStack Charms 19.07 – Percona Cluster Cold Start, DVR SNAT and more ›
 *   Provisioning ESXi with MAAS: An overview ›
 *   Julia and Jeff discover the ease of snaps at the Snapcraft Summit ›
 *   Enhanced Livepatch desktop integration available with Ubuntu 18.04.3 LTS ›
 *   Slow snap? Trace-exec to the rescue! ›
-*   Creating a ROS 2 CLI command and verb ›
