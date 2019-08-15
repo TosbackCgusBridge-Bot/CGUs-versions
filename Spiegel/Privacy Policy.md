@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   14\. August 2019
+*   15\. August 2019
 *   Abo
-*   DAX 11.750,13ǀ
+*   DAX 11.492,66ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
