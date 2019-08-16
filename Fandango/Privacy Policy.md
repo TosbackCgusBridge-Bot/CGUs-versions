@@ -297,10 +297,6 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   Limited time 'The Angry Birds Movie 2' Offer
-    
-    Take your flock &. get $5 off\* when you use promo code ANGRYBIRDS2 at checkout. \*Terms apply. While supplies last. BUY TICKETS
-    
 *   'Cats' Sweepstakes
     
     Sign up for a 'Cats' FanAlert™ for your chance to win a trip to the premiere in London! \*Terms apply. ENTER NOW
