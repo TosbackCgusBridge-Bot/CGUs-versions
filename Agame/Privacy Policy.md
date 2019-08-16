@@ -121,8 +121,8 @@ View more results
     *   Five Nights at Freddy's: Ultimate
     *   Five Nights at Freddy's 5
     *   FNAF World
-    *   Fireboy and Watergirl 5: Elements
     *   Trap Adventure 2
+    *   Fireboy and Watergirl 5: Elements
 *   Top Categories
     
     *   Bubble Shooter
@@ -246,8 +246,8 @@ View more results
     *   Table Tennis World Tour
     *   8-Ball
     *   Cricket CPL Tournament
-    *   Baseball
     *   Basketball Stars 2019
+    *   Baseball
     *   Neon Biker
     *   Billiards Master Pro
 *   *   Multiplayer
