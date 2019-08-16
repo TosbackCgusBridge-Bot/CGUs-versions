@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   State Farm hit with credential stuffing attack, data not compromised
-    *   Pearson data breach impacts thousands of university accounts
-    *   Historic hacking group members dish on Julian Assange, Beto O'Rourke
-    *   'Know thyself:' To combat external ATP threats, first look inward
-    *   Destructive malware attacks double as attackers pair ransomware with disk wipers
+    *   Online daters targeted, FBI alert warns
+    *   Executive order seeks to give FCC, FTC authority over social media content
+    *   Intel rolls out security updates for seven products
+    *   Mirai, Neko and Bashlite variants unleashed
+    *   Game on: Why hackers hack
     
-    *   House Republicans ask Capitol One and Amazon for briefing on data breach
-    *   'Know thyself:' To combat external ATP threats, first look inward
-    *   State Farm hit with credential stuffing attack, data not compromised
-    *   Black Hat 2019 keynote: Transformative change needed to improve cybersecurity
-    *   Hurd's exit leaves cybersecurity gap in Congress
-    
-    *   Cisco issues multiple product updates, fixes critical flaws in small business switches
+    *   Election systems by leading vendor connected to internet in some states, researchers find
+    *   Bug Bounty program set up 101, don’t be afraid it’s all good
+    *   Researcher: GDPR's Right of Access policy can be abused to steal others' personal info
     *   BioStar 2 database leaked one million fingerprints, facial recognition data
-    *   Creating a next-gen cybersecurity roadmap
-    *   BlueKeep-like RCE flaws in RDP among 93 vulnerabilities patched by Microsoft
-    *   Adapting the classical art of penetration testing to the cubist world of cloud
+    *   Online daters targeted, FBI alert warns
+    
+    *   Cyber leaders must take ownership of cyber skills gap
+    *   Researcher details decades-old design flaws in Microsoft's CTF protocol
+    *   Varenyky malware records porn on screen, distributes sextortion spam
+    *   Intel rolls out security updates for seven products
+    *   August product reviews: Deception network tools
 
 Back to Top
 
