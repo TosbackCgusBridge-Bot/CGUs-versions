@@ -42,7 +42,6 @@ Sencha.com
 
 *   日本語
 *   Support
-*   Forum
 *   Docs
 *   Blog
 *   SenchaDevs
@@ -260,7 +259,6 @@ info@sencha.com
 
 *   Support
     *   Documentation
-    *   Forum
 
 *   Company
     *   Overview
