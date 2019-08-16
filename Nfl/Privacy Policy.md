@@ -1,59 +1,3 @@
-*   PHI0-1JAX0-1Thu, 7:00 pm ET
-*   NYJ0-1ATL0-2Thu, 7:30 pm ET
-*   GB1-0BAL1-0Thu, 7:30 pm ET
-*   CIN0-1WAS0-1Thu, 7:30 pm ET
-*   OAK1-0ARI1-0Thu, 8:00 pm ET
-*   BUF1-0CAR1-0Fri, 7:00 pm ET
-*   CHI0-1NYG1-0Fri, 7:30 pm ET
-*   MIA1-0TB0-1Fri, 7:30 pm ET
-*   CLE1-0IND0-1Sat, 4:00 pm ET
-*   NE1-0TEN1-0Sat, 7:00 pm ET
-*   KC1-0PIT1-0Sat, 7:30 pm ET
-*   DET0-1HOU0-1Sat, 8:00 pm ET
-*   DAL0-1LA0-1Sat, 10:00 pm ET
-*   NO0-1LAC0-1Sun, 4:00 pm ET
-*   SEA1-0MIN1-0Sun, 8:00 pm ET
-*   SF1-0DEN1-1Mon, 8:00 pm ET
-
-*   News
-*   Scores
-*   Schedule
-*   Standings
-*   Highlights
-*   Watch Games
-*   NFL 100
-*   Fantasy
-*   Tickets
-*   Shop
-*   Teams
-*   Super Bowl
-*   Combine
-*   Draft
-*   Training Camp
-*   Stats
-*   Next Gen Stats
-*   Ways to Watch
-*   NFL Network
-*   Photos
-*   NFL Films
-
-*   PHI0-1JAX0-1Thu, 7:00 pm ET
-*   NYJ0-1ATL0-2Thu, 7:30 pm ET
-*   GB1-0BAL1-0Thu, 7:30 pm ET
-*   CIN0-1WAS0-1Thu, 7:30 pm ET
-*   OAK1-0ARI1-0Thu, 8:00 pm ET
-*   BUF1-0CAR1-0Fri, 7:00 pm ET
-*   CHI0-1NYG1-0Fri, 7:30 pm ET
-*   MIA1-0TB0-1Fri, 7:30 pm ET
-*   CLE1-0IND0-1Sat, 4:00 pm ET
-*   NE1-0TEN1-0Sat, 7:00 pm ET
-*   KC1-0PIT1-0Sat, 7:30 pm ET
-*   DET0-1HOU0-1Sat, 8:00 pm ET
-*   DAL0-1LA0-1Sat, 10:00 pm ET
-*   NO0-1LAC0-1Sun, 4:00 pm ET
-*   SEA1-0MIN1-0Sun, 8:00 pm ET
-*   SF1-0DEN1-1Mon, 8:00 pm ET
-
 *   News
 *   Scores
 *   Schedule
@@ -75,11 +19,6 @@
     *   NFL Network
     *   Photos
     *   NFL Films
-
-*   Fantasy
-*   Tickets
-*   Shop
-*   Teams
 
 NFL.com - Privacy Policy English
 
