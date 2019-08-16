@@ -416,7 +416,7 @@ We thank you for your kind attention.
 
 **Note:**
 
-1\. Prohibited items: any and all items banned by the laws of Hong Kong and the People’s Republic of China, and under international laws, together with any and all items banned in accordance with Alibaba.com’s policies.  
+1\. Prohibited items: any and all items banned by the laws of Hong Kong S.A.R. and the People’s Republic of China, and under international laws, together with any and all items banned in accordance with Alibaba.com’s policies.  
 （http://www.alibaba.com/help/safety\_security/policies\_rules/product\_listing/003.html）
 
 2\. Brand Authorization – any and all branded products can be manufactured or offered for sale only if authorizations are given by the relevant brand owners.
