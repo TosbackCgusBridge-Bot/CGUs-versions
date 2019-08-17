@@ -23,7 +23,7 @@
 
 Privacy Policy
 
-This version (Version 4.3) is effective as of November 21, 2018.
+This version (Version 4.4) is effective as of August 15, 2019.
 
 *   Overview
 *   About Us
@@ -118,6 +118,7 @@ We gather information that you provide to us when you:
 *   sign up for job alerts on our websites, submit a job application, a CV, cover letter, or social media profile to a job vacancy, attend an interview, assessment, or meeting
 *   contact other users on the websites, e.g. on the O'Reilly Community website
 *   'follow', 'like', post to, or interact with, our social media accounts, including Facebook, LinkedIn, Twitter, Pinterest, Instagram, Google+, and SnapChat.
+*   contribute content and information about yourself in the course of your use of social and sharing features in our websites, services or products that make users’ content and information available to the public or to specific groups, such as others who use those features
 
 The information you provide to us will include (depending on the circumstances):
 
@@ -191,6 +192,7 @@ We use your information for the following purposes:
 *   **To monitor your account and use of services** to ensure compliance with our end-user agreements and prevent and identify unlawful content use and violations (on the basis of our legitimate interests to operate a safe and lawful business, or where we have a legal obligation to do so).
 *   **To enable you to communicate with other website users and clients** (on the basis of your consent where we have requested it, or on the basis of performing our contract with you).
 *   **To manage our relationship with you**, which will include notifying you about changes to our terms of service or privacy policy, and asking you to leave a review or take a survey (on the basis of performing our contract with you, to comply with our legal obligations, and our legitimate interest in keeping our records updated and study how our website and services are used).
+*   **To enable and support your participation and sharing** in connection with those social features of our websites, products, services, and online communities in which you choose to participate.
 *   **To conduct business with you or your employer**, including to contact you and manage and facilitate our business relationship with you and your employer (on the basis of performing our contract with you, and our legitimate interest in running our business).
 *   **To provide customer service and support**, like dealing with inquiries or complaints about the website, which may include sharing your information with our website developer, IT support provider, and payment services provider as necessary (on the basis of performing our contract with you, our legitimate interest in providing the correct products and services to our website users, and to comply with our legal obligations).
 *   **To enable you to take part in prize drawings, competitions, and surveys** (on the basis of performing our contract with you, and our legitimate interest in studying how our website and services are used, to develop them, and to grow our business).
@@ -344,6 +346,8 @@ California law requires us to let you know how we respond to web browser Do Not 
 Please note that this Policy may change from time to time. We will not reduce your rights under this Policy without your consent. If we make any material changes we will notify you by email or by means of a notice on this website prior to the change becoming effective. You can also view prior versions of the Policy by viewing the links in section 11 below.
 
 11\. Previous Versions of the Privacy Policy 11.1 O'Reilly and Safari privacy policies
+
+Click here for version 4.3
 
 Click here for version 4.2
 
