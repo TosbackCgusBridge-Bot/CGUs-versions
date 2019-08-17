@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Online daters targeted, FBI alert warns
-    *   Executive order seeks to give FCC, FTC authority over social media content
-    *   Intel rolls out security updates for seven products
+    *   Federal court says Facebook users can sue over use of facial recognition technology
     *   Mirai, Neko and Bashlite variants unleashed
-    *   Game on: Why hackers hack
+    *   'Know thyself:' To combat external ATP threats, first look inward
+    *   Cisco issues multiple product updates, fixes critical flaws in small business switches
+    *   Symantec sells off enterprise business for $10.7 billion
     
-    *   Election systems by leading vendor connected to internet in some states, researchers find
     *   Bug Bounty program set up 101, don’t be afraid it’s all good
-    *   Researcher: GDPR's Right of Access policy can be abused to steal others' personal info
-    *   BioStar 2 database leaked one million fingerprints, facial recognition data
-    *   Online daters targeted, FBI alert warns
+    *   Destructive malware attacks double as attackers pair ransomware with disk wipers
+    *   Cisco issues multiple product updates, fixes critical flaws in small business switches
+    *   Reducing SIEM fatigue: Finding a signal in all the noise
+    *   Creating a next-gen cybersecurity roadmap
     
-    *   Cyber leaders must take ownership of cyber skills gap
-    *   Researcher details decades-old design flaws in Microsoft's CTF protocol
-    *   Varenyky malware records porn on screen, distributes sextortion spam
-    *   Intel rolls out security updates for seven products
-    *   August product reviews: Deception network tools
+    *   The Freakonomics of malware: What security leaders can learn by studying incentives
+    *   Red/Blue team exercises show defensive shortfalls: Survey
+    *   Remcos RAT campaign delivers new variant using AutoIt wrapper
+    *   SC Media's 30 on 30 podcast with the ISF's Steve Durbin
+    *   Adobe Patch Tuesday tackles Reader, Acrobat flaws
 
 Back to Top
 
