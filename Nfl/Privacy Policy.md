@@ -1,3 +1,59 @@
+*   BUF2-027CAR1-114Final
+*   CHI0-213NYG2-032Final
+*   MIA1-114TB1-116Final
+*   CLE1-0IND0-1Sat, 4:00 pm ET
+*   NE1-0TEN1-0Sat, 7:00 pm ET
+*   KC1-0PIT1-0Sat, 7:30 pm ET
+*   DET0-1HOU0-1Sat, 8:00 pm ET
+*   DAL0-1LA0-1Sat, 10:00 pm ET
+*   NO0-1LAC0-1Sun, 4:00 pm ET
+*   SEA1-0MIN1-0Sun, 8:00 pm ET
+*   SF1-0DEN1-1Mon, 8:00 pm ET
+*   PHI1-124JAX0-210Final
+*   NYJ1-122ATL0-310Final
+*   GB1-113BAL2-026Final
+*   CIN1-123WAS0-213Final
+*   OAK2-033ARI1-126Final
+
+*   News
+*   Scores
+*   Schedule
+*   Standings
+*   Highlights
+*   Watch Games
+*   NFL 100
+*   Fantasy
+*   Tickets
+*   Shop
+*   Teams
+*   Super Bowl
+*   Combine
+*   Draft
+*   Training Camp
+*   Stats
+*   Next Gen Stats
+*   Ways to Watch
+*   NFL Network
+*   Photos
+*   NFL Films
+
+*   BUF27CAR14Final
+*   CHI13NYG32Final
+*   MIA14TB16Final
+*   CLE1-0IND0-1Sat, 4:00 pm ET
+*   NE1-0TEN1-0Sat, 7:00 pm ET
+*   KC1-0PIT1-0Sat, 7:30 pm ET
+*   DET0-1HOU0-1Sat, 8:00 pm ET
+*   DAL0-1LA0-1Sat, 10:00 pm ET
+*   NO0-1LAC0-1Sun, 4:00 pm ET
+*   SEA1-0MIN1-0Sun, 8:00 pm ET
+*   SF1-0DEN1-1Mon, 8:00 pm ET
+*   PHI24JAX10Final
+*   NYJ22ATL10Final
+*   GB13BAL26Final
+*   CIN23WAS13Final
+*   OAK33ARI26Final
+
 *   News
 *   Scores
 *   Schedule
@@ -19,6 +75,11 @@
     *   NFL Network
     *   Photos
     *   NFL Films
+
+*   Fantasy
+*   Tickets
+*   Shop
+*   Teams
 
 NFL.com - Privacy Policy English
 
