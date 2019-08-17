@@ -295,11 +295,11 @@ Close Upload ★TRY VIP!
     *   ass fuck
     *   granny
     *   massage
-    *   blonde
     *   cumshot
+    *   blonde
     *   masturbation
-    *   japanese mature
     *   gangbang
+    *   japanese mature
     *   big ass
     *   babe
     *   doggy style
@@ -321,11 +321,11 @@ Close Upload ★TRY VIP!
     *   ass fuck
     *   granny
     *   massage
-    *   blonde
     *   cumshot
+    *   blonde
     *   masturbation
-    *   japanese mature
     *   gangbang
+    *   japanese mature
     *   big ass
     *   babe
     *   doggy style
@@ -493,7 +493,7 @@ Close Upload ★TRY VIP!
 
 **Recent Searches** Clear
 
-**EXCLUSIVE - 7 DAYS FULL ACCESS TO** **TUBE8VIP** **FOR ONLY $1!**
+**EXCLUSIVE! 7 DAYS FULL ACCESS TO** **TUBE8VIP** **FOR ONLY $1**
 
 You have Adblock enabled. Adblock has been known to cause issues with site functionality. If you experience any difficulties, please try disabling Adblock. Close
 
