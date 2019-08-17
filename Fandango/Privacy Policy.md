@@ -297,17 +297,17 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   'Cats' Sweepstakes
+*   Earn Double VIP+ Points
     
-    Sign up for a 'Cats' FanAlert™ for your chance to win a trip to the premiere in London! \*Terms apply. ENTER NOW
+    when you purchase tickets to see 'Hustlers' (Yep, every 2 tickets = $5 reward on us!) BUY TICKETS
     
 *   AMC Stubs® Members Save Big with Discount Tuesdays
     
     Save on tickets to Tuesday showtimes with your AMC Stubs® membership. \*Terms apply. BUY TICKETS
     
-*   Enjoy movies all summer long
+*   'Cats' Sweepstakes
     
-    Get a free movie ticket\* with Gift Card orders $75+ BUY GIFT CARDS
+    Sign up for a 'Cats' FanAlert™ for your chance to win a trip to the premiere in London! \*Terms apply. ENTER NOW
     
 
 New + Coming soon
