@@ -170,7 +170,7 @@ If you have any further question about this Privacy Policy, please contact us at
 *   Religion
 *   Future
 *   Education
-*   Sports
+*   Foundation
 *   History
 *   Books
 *   Life
