@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  xx:xx
+New Games Next in  12:16
 
-*   By Date Next addition in xx:xx
+*   By Date Next addition in 12:16
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more LIBRARY
 
-*   New Games Next in xx:xx
-*   Best of new games 1380 games
-*   Most Popular Games 19693 games
+*   New Games Next in 12:16
+*   Best of new games 1381 games
+*   Most Popular Games 19699 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,340 games
-*   Driving &. Racing Games 6,865 games
-*   Strategy &. RPG Games 2,433 games
-*   Management Games 3,663 games
+*   Games for girls 24,339 games
+*   Driving &. Racing Games 6,867 games
+*   Strategy &. RPG Games 2,434 games
+*   Management Games 3,664 games
 *   Thinking Games 12,281 games
-*   Action &. Adventure Games 16,397 games
-*   Sports Games 2,289 games
-*   Shooting Games 8,527 games
-*   Fighting Games 2,102 games
-*   Skill Games 11,514 games
-*   Arcade &. Classic Games 13,379 games
-*   Fun &. Crazy Games 2,565 games
+*   Action &. Adventure Games 16,403 games
+*   Sports Games 2,290 games
+*   Shooting Games 8,528 games
+*   Fighting Games 2,104 games
+*   Skill Games 11,517 games
+*   Arcade &. Classic Games 13,387 games
+*   Fun &. Crazy Games 2,566 games
 
 Play with friends  
-Powered by Y8 Account 130 Y8 Multiplayer Games 2,059 Y8 High Score Games 1,165 Y8 Achievements Games 829 Y8 Screenshots Games 1,483 Y8 Online Save Games 3,130 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 130 Y8 Multiplayer Games 2,061 Y8 High Score Games 1,167 Y8 Achievements Games 829 Y8 Screenshots Games 1,485 Y8 Online Save Games 3,133 All Y8 Games Games Last Highscore:
 
-**37,127** points on Military Wars 3D Multiplayer by VAJB
+**25,485** points on Farm Frenzy 2 by vloko
 
 Help us improve Bad translation? Social
 
