@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
+*   My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -52,29 +52,29 @@ MEN'S XERSION ACTIVEWEARKIDS' XERSION ACTIVEWEAR30% OFF NIKE SHOESselect stylesN
 *   SHOP NOW
 
 YOUR ONE-STOP SCHOOL SHOPDORM 101Little spaces, lofty ideas. The 2019 dorm collection makes far away feel like home. SCHOOL UNIFORMSalso available in plus &. husky  
-UP TO 70% OFF WOMEN'S SANDALSSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S SANDALSSELECT STYLESSHOP ALL
+SEE IT. SHOP IT. #AllAtJCPMedia CarouselSlide 1 of 4. UP TO 70% OFF WOMEN'S SANDALSSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S SANDALSSELECT STYLESSHOP ALL
 
-*   SPECIAL DEAL!
-    
-    $1499after couponwas $54 St. John's Bay Womens Noreen Wedge Sandals(16)Add To Cart
 *   SPECIAL DEAL!
     
     $2249after couponwas $60 Liz Claiborne Womens Kadin Heeled Sandals(6)Add To Cart
 *   SPECIAL DEAL!
     
-    $1349after couponwas $40 Arizona Womens Seymour Adjustable Strap Flat Sandals(18)Add To Cart
+    $1874after couponwas $60 Yuu Womens Yuujosephine Strap Sandals(26)Add To Cart
+*   SPECIAL DEAL!
+    
+    $1499after couponwas $54 St. John's Bay Womens Noreen Wedge Sandals(16)Add To Cart
+*   SPECIAL DEAL!
+    
+    $1499after couponwas $54 Yuu Phebe Womens Footbed Sandals(28)Add To Cart
 *   SPECIAL DEAL!
     
     from$2249after couponwas $60 Liz Claiborne Womens Gloria Heeled Sandals(9)Add To Cart
 *   SPECIAL DEAL!
     
-    $1874after couponwas $60 Yuu Womens Yuujosephine Strap Sandals(26)Add To Cart
-*   SPECIAL DEAL!
-    
     $3374after couponwas $60 Liz Claiborne Womens Eastwick Strap Sandals(12)Add To Cart
 *   SPECIAL DEAL!
     
-    $1499after couponwas $54 Yuu Phebe Womens Footbed Sandals(28)Add To Cart
+    $1349after couponwas $40 Arizona Womens Seymour Adjustable Strap Flat Sandals(18)Add To Cart
 
 UP TO 70% OFF SWIM FOR THE FAMILYSHOP ALLSELECT STYLESUP TO 70% OFF SWIM FOR THE FAMILYSELECT STYLESSHOP ALL
 
@@ -88,20 +88,20 @@ UP TO 70% OFF SWIM FOR THE FAMILYSHOP ALLSELECT STYLESUP TO 70% OFF SWIM FOR THE
     
     $1099 sale
     
+    was $24 Disney Minnie Mouse One Piece Swimsuit Girls(2)Add To Cart
+*   SPECIAL DEAL!
+    
+    $1099 sale
+    
     was $24 Disney Moana One Piece Swimsuit Girls(2)Add To Cart
+*   SPECIAL DEAL!
+    
+    $974after couponwas $40 The Foundry Big &. Tall Supply Co. Swim Trunks Big(1)Add To Cart
 *   SPECIAL DEAL!
     
     $899 sale
     
     was $20 Disney Boys Mickey Mouse Rash Guard(1)Add To Cart
-*   SPECIAL DEAL!
-    
-    $1099 sale
-    
-    was $24 Disney Minnie Mouse One Piece Swimsuit Girls(2)Add To Cart
-*   SPECIAL DEAL!
-    
-    $974after couponwas $40 The Foundry Big &. Tall Supply Co. Swim Trunks Big(1)Add To Cart
 *   SPECIAL DEAL!
     
     $1099 sale
@@ -118,13 +118,13 @@ UP TO 70% OFF SHORTS FOR THE FAMILYSHOP ALLSELECT STYLESUP TO 70% OFF SHORTS FOR
     $749after couponwas $36 St. John's Bay Men's Stretch Chino Short(82)Add To Cart
 *   SPECIAL DEAL!
     
-    from$749after couponwas $32 - $37 Arizona Boys Stretch Adjustable Waist Cargo Short Preschool / Big Kid(13)Add To Cart
+    from$749after couponwas $32 - $37 Arizona Boys Stretch Adjustable Waist Cargo Short Preschool / Big Kid(14)Add To Cart
 *   SPECIAL DEAL!
     
     $750after couponwas $32 - $37 Arizona Boys Stretch Pull-On Short Preschool / Big Kid(7)Add To Cart
 *   SPECIAL DEAL!
     
-    $750after couponwas $30 - $35 Arizona Boys Stretch Adjustable Waist Chino Short Preschool / Big Kid(24)Add To Cart
+    $750after couponwas $30 - $35 Arizona Boys Stretch Adjustable Waist Chino Short Preschool / Big Kid(25)Add To Cart
 *   SPECIAL DEAL!
     
     $1124after couponwas $40 St John's Bay Performance Shorts(3)Add To Cart
