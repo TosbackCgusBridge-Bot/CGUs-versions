@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Federal court says Facebook users can sue over use of facial recognition technology
-    *   Mirai, Neko and Bashlite variants unleashed
-    *   'Know thyself:' To combat external ATP threats, first look inward
-    *   Cisco issues multiple product updates, fixes critical flaws in small business switches
-    *   Symantec sells off enterprise business for $10.7 billion
-    
     *   Bug Bounty program set up 101, don’t be afraid it’s all good
-    *   Destructive malware attacks double as attackers pair ransomware with disk wipers
-    *   Cisco issues multiple product updates, fixes critical flaws in small business switches
     *   Reducing SIEM fatigue: Finding a signal in all the noise
-    *   Creating a next-gen cybersecurity roadmap
+    *   Federal court says Facebook users can sue over use of facial recognition technology
+    *   Cyberattacks hit NCH Healthcare System and Grays Harbor Community Hospital
+    *   Executive order seeks to give FCC, FTC authority over social media content
     
-    *   The Freakonomics of malware: What security leaders can learn by studying incentives
     *   Red/Blue team exercises show defensive shortfalls: Survey
-    *   Remcos RAT campaign delivers new variant using AutoIt wrapper
+    *   Hy-Vee supermarkets report POS cyber incident
+    *   Executive order seeks to give FCC, FTC authority over social media content
+    *   Bug Bounty program set up 101, don’t be afraid it’s all good
+    *   Apple to expand bug bounty program, offer researchers access to iOS, iPhones
+    
+    *   European Central Bank confirms BIRD site hacked, contact info stolen
+    *   Threat hunting with next-generation tools
     *   SC Media's 30 on 30 podcast with the ISF's Steve Durbin
-    *   Adobe Patch Tuesday tackles Reader, Acrobat flaws
+    *   Hy-Vee supermarkets report POS cyber incident
+    *   Court orders Georgia to replace DRE voting machines with paper ballot systems by 2020 presidential primary
 
 Back to Top
 
