@@ -1,11 +1,8 @@
-*   BUF2-027CAR1-114Final
-*   CHI0-213NYG2-032Final
-*   MIA1-114TB1-116Final
-*   CLE1-0IND0-1Sat, 4:00 pm ET
-*   NE1-0TEN1-0Sat, 7:00 pm ET
-*   KC1-0PIT1-0Sat, 7:30 pm ET
-*   DET0-1HOU0-1Sat, 8:00 pm ET
-*   DAL0-1LA0-1Sat, 10:00 pm ET
+*   DAL14LA•103rd • 01:50
+*   KC1-17PIT2-017Final
+*   DET0-223HOU1-130Final
+*   CLE2-021IND0-218Final
+*   NE2-022TEN1-117Final
 *   NO0-1LAC0-1Sun, 4:00 pm ET
 *   SEA1-0MIN1-0Sun, 8:00 pm ET
 *   SF1-0DEN1-1Mon, 8:00 pm ET
@@ -14,6 +11,9 @@
 *   GB1-113BAL2-026Final
 *   CIN1-123WAS0-213Final
 *   OAK2-033ARI1-126Final
+*   BUF2-027CAR1-114Final
+*   CHI0-213NYG2-032Final
+*   MIA1-114TB1-116Final
 
 *   News
 *   Scores
@@ -37,14 +37,11 @@
 *   Photos
 *   NFL Films
 
-*   BUF27CAR14Final
-*   CHI13NYG32Final
-*   MIA14TB16Final
-*   CLE1-0IND0-1Sat, 4:00 pm ET
-*   NE1-0TEN1-0Sat, 7:00 pm ET
-*   KC1-0PIT1-0Sat, 7:30 pm ET
-*   DET0-1HOU0-1Sat, 8:00 pm ET
-*   DAL0-1LA0-1Sat, 10:00 pm ET
+*   DAL14LA•103rd • 01:50
+*   KC7PIT17Final
+*   DET23HOU30Final
+*   CLE21IND18Final
+*   NE22TEN17Final
 *   NO0-1LAC0-1Sun, 4:00 pm ET
 *   SEA1-0MIN1-0Sun, 8:00 pm ET
 *   SF1-0DEN1-1Mon, 8:00 pm ET
@@ -53,6 +50,9 @@
 *   GB13BAL26Final
 *   CIN23WAS13Final
 *   OAK33ARI26Final
+*   BUF27CAR14Final
+*   CHI13NYG32Final
+*   MIA14TB16Final
 
 *   News
 *   Scores
