@@ -86,8 +86,8 @@ View more results
     *   Slither.io
     *   Combat Strike 2: 3D Shooting Game Online Multiplayer
     *   Ultimate Boxing
-    *   Uphill Rush 7: Waterpark
     *   Short Life
+    *   Uphill Rush 7: Waterpark
     *   Stickman Archer 2
     *   Miami Crime Simulator 3D
     *   Goodgame Gangster
@@ -114,8 +114,8 @@ View more results
     *   Five Nights at Freddy's
     *   World Craft 2
     *   Short Life
-    *   Five Nights at Freddy's 2
     *   Miami Crime Simulator 3D
+    *   Five Nights at Freddy's 2
     *   Tom and Jerry: Mouse Maze
     *   Fire Balls
     *   Five Nights at Freddy's: Ultimate
@@ -249,7 +249,7 @@ View more results
     *   Basketball Stars 2019
     *   Baseball
     *   Neon Biker
-    *   Billiards Master Pro
+    *   Table Tennis Challenge
 *   *   Multiplayer
     *   Action
     *   Adventure
