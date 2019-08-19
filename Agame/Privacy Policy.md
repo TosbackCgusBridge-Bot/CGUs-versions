@@ -85,11 +85,11 @@ View more results
     *   Stunt Skateboard 3D
     *   Slither.io
     *   Combat Strike 2: 3D Shooting Game Online Multiplayer
-    *   Ultimate Boxing
     *   Short Life
+    *   Ultimate Boxing
     *   Uphill Rush 7: Waterpark
-    *   Stickman Archer 2
     *   Miami Crime Simulator 3D
+    *   Stickman Archer 2
     *   Goodgame Gangster
 *   Top Categories
     
@@ -262,8 +262,8 @@ View more results
     Recommended Games
     
     *   Dauntless
-    *   Roblox
     *   PopTropica
+    *   Wizard 101
     *   Madalin Stunt Cars 2
     *   Geometry Neon Dash
     *   Fireboy &. Watergirl 4: Crystal Temple
