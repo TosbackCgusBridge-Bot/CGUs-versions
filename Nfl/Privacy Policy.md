@@ -1,10 +1,5 @@
-*   DAL14LA•103rd • 01:50
-*   KC1-17PIT2-017Final
-*   DET0-223HOU1-130Final
-*   CLE2-021IND0-218Final
-*   NE2-022TEN1-117Final
-*   NO0-1LAC0-1Sun, 4:00 pm ET
-*   SEA1-0MIN1-0Sun, 8:00 pm ET
+*   SEA1-119MIN2-025Final
+*   NO1-119LAC0-217Final
 *   SF1-0DEN1-1Mon, 8:00 pm ET
 *   PHI1-124JAX0-210Final
 *   NYJ1-122ATL0-310Final
@@ -14,6 +9,11 @@
 *   BUF2-027CAR1-114Final
 *   CHI0-213NYG2-032Final
 *   MIA1-114TB1-116Final
+*   CLE2-021IND0-218Final
+*   NE2-022TEN1-117Final
+*   KC1-17PIT2-017Final
+*   DET0-223HOU1-130Final
+*   DAL1-114LA0-210Final
 
 *   News
 *   Scores
@@ -37,13 +37,8 @@
 *   Photos
 *   NFL Films
 
-*   DAL14LA•103rd • 01:50
-*   KC7PIT17Final
-*   DET23HOU30Final
-*   CLE21IND18Final
-*   NE22TEN17Final
-*   NO0-1LAC0-1Sun, 4:00 pm ET
-*   SEA1-0MIN1-0Sun, 8:00 pm ET
+*   SEA19MIN25Final
+*   NO19LAC17Final
 *   SF1-0DEN1-1Mon, 8:00 pm ET
 *   PHI24JAX10Final
 *   NYJ22ATL10Final
@@ -53,6 +48,11 @@
 *   BUF27CAR14Final
 *   CHI13NYG32Final
 *   MIA14TB16Final
+*   CLE21IND18Final
+*   NE22TEN17Final
+*   KC7PIT17Final
+*   DET23HOU30Final
+*   DAL14LA10Final
 
 *   News
 *   Scores
