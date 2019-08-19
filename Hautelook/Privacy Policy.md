@@ -9,13 +9,43 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
+    *   Insight Up to 70% Off
+    *   Free Shipping: Kitchen Faves Blowout
+    *   Roberto Cavalli Bags &. More Up to 70% Off
+    *   Savvy Cie Italian Jewelry &. More Up to 80% Off
+    *   Swims Up to 65% Off
+    *   Last Call: Dresses Up to 70% Off
+    *   Booties, Pumps &. More Up to 60% Off
+    *   Men's Shoes Up to 65% Off
+    *   Cailyn Cosmetics Starting at $10
+    *   SOREL Up to 50% Off
+    *   SOREL Men Up to 50% Off
+    *   Levi's Men's Outerwear &. More Starting at $20
+    *   Cashmere ft. Kier &. J
+    *   Best of Skin Care Under $30
+    *   French Connection Up to 60% Off
+    *   French Connection Coats Up to 65% Off
+    *   Great Lengths: Midi Dresses Under $40
+    *   Top It Off for Fall: Jackets, Sweaters &. More
+    *   Back-to-School Prep: Panty Packs
+    *   LaFonn Simulated Diamond Jewelry Up to 70% Off
+    *   Bulova Watches Up to 65% Off
+    *   Duvets &. More Up to 70% Off
+    *   Levi's Kids
+    *   Campus Cool: Backpacks ft. JanSport
+    *   The Original Makeup Eraser
+    *   Imagine Vince Camuto Up to 50% Off
+    *   TR Premium Up to 80% Off
+    *   Now Playing: Wireless Earbud Charger Cases
+    *   The Maternity Shop: Dresses, Leggings &. More
+    *   Oh, Baby: Biscotti &. More
     *   Cashmere ft. Magaschoni Incl. Plus &. Petites
     *   Velvet by Graham &. Spencer Up to 65% Off
+    
     *   Maaji Active &. Swim Up to 55% Off
     *   Standout Styles ft. Blu Pepper from $17
     *   Robert Graham Up to 60% Off
     *   Mario Badescu
-    *   Kenneth Cole New York Coats &. More
     *   Born
     *   Gemstones, Diamonds &. Sterling Silver from $20
     *   Campus Ready: Men's Jackets, Tees &. More from $13
@@ -23,48 +53,31 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   14K Gold Jewelry &. More Under $100
     *   Terre Mere Organic Beauty Up to 75% Off
     *   Intimates &. Sleep We Love ft. Lucky Brand
-    *   Leather Totes, Hobos &. Crossbodies ft. Lucky Brand
     *   Tees to Button-Fronts: Shirt Dresses &. More
-    *   Leather Accessories Under $80
-    *   HauteLook Exclusive: Le Creuset Ombre Collection
     *   Free Shipping: Home Organization Essentials
     *   PURA D'OR Hair Care Up to 50% Off
     *   Free Shipping: Luxe Faux Fur Accents Up to 80% Off
     *   Fresh Finds: Shoes Up to 55% Off
     *   Free Shipping: Eye-Catching Wall Art &. Decor
+    *   Leather Totes, Hobos &. Crossbodies ft. Lucky Brand
     *   Creative Recreation Up to 65% Off
     *   Play Smart: Kids' Toys for Every Age &. More
-    *   Back-to-School Shoes from Olivia Miller
     *   Pajama Party: Petit Lem &. More
-    
-    *   On-Trend Tween Style ft. mymichelle
-    *   Work Dresses ft. Donna Morgan Incl. Plus &. Petites
-    *   T Tahari &. More Incl. Plus &. Petites
-    *   Aquatalia Up to 50% Off
     *   Murad
-    *   Men's Designer Shoes ft. Aquatalia Up to 65% Off
-    *   Gold &. Sterling Silver Jewelry
     *   Free Shipping: Colorful &. Fun Decor Up to 75% Off
-    *   David Donahue Up to 60% Off
-    *   nANA jUDY
     *   Luxe Sleep Accessories: Silk Pillowcases &. More
-    *   GEOX Kids
     *   My Magic Mud Oral Care
     *   Tech Solutions Starting at $10
     *   Free Shipping: Luxe Bedding Essentials Under $60
+    *   Back-to-School Cool: Psycho Bunny Kids &. More
     *   Listen Up: Wireless Earbuds &. Cases
     *   Free Shipping: Orthopedic Pet Beds &. More
-    *   Your Best Light: simplehuman Mirrors
     *   Free Shipping: Cooling Pillows &. More
-    *   Free Shipping: Faux Plants &. Planters
-    *   Free Shipping: Chic Neutral Bedding &. Towels
-    *   Last Chance: Beach Towels at 60% Off
-    *   Tech Accessory Blowout
-    *   Score These: NFL Signs, Insulated Bags &. More
-    *   Quirky Kitchen Towels
-    *   Free Shipping: Hand-Painted Replicas Up to 70% Off
-    *   Crevo
+    *   Trina Turk Swim
     
+    *   Converse
+    *   Last Chance: Beach Towels at 60% Off
+    *   Free Shipping: Hand-Painted Replicas Up to 70% Off
     *   K-Beauty Face Masks &. More
     *   Salon-Quality Hair Tools &. Accessories
     *   Perfect Pout: Lipsticks &. More Starting at $10
@@ -73,71 +86,86 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Bugatchi Men's Clothing &. Shoes Up to 60% Off
     *   Handcrafted in Spain: UNOde50 Jewelry
     *   Must-Have Mules Up to 60% Off
-    *   Great Lengths: Mini to Maxi Dresses Incl. Plus
-    *   J Brand
+    *   Kenneth Cole New York Coats &. More
+    *   Leather Accessories Under $80
     *   WILDFOX
+    *   Quiksilver Boys
     *   Liza Schwartz Jewelry
     *   Cover FX
     *   Free Shipping: Lamps to Brighten Up Any Room
     *   Fits for All: Shoes in Sizes 5 to 11
     *   Trendsetting Sweaters ft. Woven Hearts
     *   Roberto Cavalli Watches &. More Up to 70% Off
+    *   Back-to-School Shoes from Olivia Miller
+    *   On-Trend Tween Style ft. mymichelle
+    *   J Brand
+    *   Great Lengths: Mini to Maxi Dresses Incl. Plus
+    *   Men's Weekend Wardrobe ft. Unsimply Stitched
+    *   HauteLook Exclusive: Le Creuset Ombre Collection
+    *   Free Shipping: Faux Plants &. Planters
+    *   Free Shipping: Chic Neutral Bedding &. Towels
     *   See Kai Run
     *   Trending for Fall: Booties &. More Up to 55% Off
-    *   Back-to-School Cool: Psycho Bunny Kids &. More
-    *   Trina Turk Swim
-    *   Converse
-    *   Quiksilver Boys
-    *   Men's Weekend Wardrobe ft. Unsimply Stitched
-    *   Designer Spotlight: Cinq a Sept &. More
-    *   Luxe Coats ft. Derek Lam 10 Crosby
     *   Teddy Coats, Quilted Jackets &. More ft. GUESS
 *   WomenShop Sale Events
     
+    *   Insight Up to 70% Off
+    *   Roberto Cavalli Bags &. More Up to 70% Off
+    *   Savvy Cie Italian Jewelry &. More Up to 80% Off
+    *   Swims Up to 65% Off
+    *   Last Call: Dresses Up to 70% Off
+    *   Booties, Pumps &. More Up to 60% Off
+    *   Cailyn Cosmetics Starting at $10
+    *   SOREL Up to 50% Off
+    *   Cashmere ft. Kier &. J
+    *   Best of Skin Care Under $30
+    *   French Connection Up to 60% Off
+    *   French Connection Coats Up to 65% Off
+    *   Great Lengths: Midi Dresses Under $40
+    *   Top It Off for Fall: Jackets, Sweaters &. More
+    *   Back-to-School Prep: Panty Packs
+    *   LaFonn Simulated Diamond Jewelry Up to 70% Off
+    *   Bulova Watches Up to 65% Off
+    *   Campus Cool: Backpacks ft. JanSport
+    *   The Original Makeup Eraser
+    *   Imagine Vince Camuto Up to 50% Off
     *   Cashmere ft. Magaschoni Incl. Plus &. Petites
     *   Velvet by Graham &. Spencer Up to 65% Off
     *   Maaji Active &. Swim Up to 55% Off
     *   Standout Styles ft. Blu Pepper from $17
     *   Mario Badescu
-    *   Kenneth Cole New York Coats &. More
     *   Born
     *   Gemstones, Diamonds &. Sterling Silver from $20
     *   Abound Shoes from $30
     *   14K Gold Jewelry &. More Under $100
+    
     *   Terre Mere Organic Beauty Up to 75% Off
     *   Intimates &. Sleep We Love ft. Lucky Brand
-    *   Leather Totes, Hobos &. Crossbodies ft. Lucky Brand
     *   Tees to Button-Fronts: Shirt Dresses &. More
-    *   Leather Accessories Under $80
     *   PURA D'OR Hair Care Up to 50% Off
     *   Fresh Finds: Shoes Up to 55% Off
-    *   Work Dresses ft. Donna Morgan Incl. Plus &. Petites
-    *   T Tahari &. More Incl. Plus &. Petites
-    *   Aquatalia Up to 50% Off
+    *   Leather Totes, Hobos &. Crossbodies ft. Lucky Brand
     *   Murad
-    *   Gold &. Sterling Silver Jewelry
-    
     *   Luxe Sleep Accessories: Silk Pillowcases &. More
     *   My Magic Mud Oral Care
-    *   Your Best Light: simplehuman Mirrors
+    *   Trina Turk Swim
     *   K-Beauty Face Masks &. More
     *   Salon-Quality Hair Tools &. Accessories
     *   Perfect Pout: Lipsticks &. More Starting at $10
     *   HOKA ONE ONE
     *   Handcrafted in Spain: UNOde50 Jewelry
     *   Must-Have Mules Up to 60% Off
-    *   Great Lengths: Mini to Maxi Dresses Incl. Plus
-    *   J Brand
+    *   Kenneth Cole New York Coats &. More
+    *   Leather Accessories Under $80
     *   WILDFOX
     *   Liza Schwartz Jewelry
     *   Cover FX
     *   Fits for All: Shoes in Sizes 5 to 11
     *   Trendsetting Sweaters ft. Woven Hearts
     *   Roberto Cavalli Watches &. More Up to 70% Off
+    *   J Brand
+    *   Great Lengths: Mini to Maxi Dresses Incl. Plus
     *   Trending for Fall: Booties &. More Up to 55% Off
-    *   Trina Turk Swim
-    *   Designer Spotlight: Cinq a Sept &. More
-    *   Luxe Coats ft. Derek Lam 10 Crosby
     *   Teddy Coats, Quilted Jackets &. More ft. GUESS
     
     Shop By Category
@@ -149,76 +177,82 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Handbags
 *   MenShop Sale Events
     
+    *   Men's Shoes Up to 65% Off
+    *   SOREL Men Up to 50% Off
+    *   Levi's Men's Outerwear &. More Starting at $20
+    *   Bulova Watches Up to 65% Off
+    *   Campus Cool: Backpacks ft. JanSport
+    *   TR Premium Up to 80% Off
     *   Robert Graham Up to 60% Off
-    *   Campus Ready: Men's Jackets, Tees &. More from $13
-    *   Leather Accessories Under $80
-    *   Creative Recreation Up to 65% Off
-    *   Men's Designer Shoes ft. Aquatalia Up to 65% Off
-    *   David Donahue Up to 60% Off
     
-    *   nANA jUDY
-    *   Crevo
+    *   Campus Ready: Men's Jackets, Tees &. More from $13
+    *   Creative Recreation Up to 65% Off
     *   HOKA ONE ONE Men
     *   Bugatchi Men's Clothing &. Shoes Up to 60% Off
+    *   Leather Accessories Under $80
     *   Roberto Cavalli Watches &. More Up to 70% Off
     *   Men's Weekend Wardrobe ft. Unsimply Stitched
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Accessories
     *   Watches
 *   KidsShop Sale Events
     
+    *   Levi's Kids
+    *   Campus Cool: Backpacks ft. JanSport
+    *   The Maternity Shop: Dresses, Leggings &. More
+    *   Oh, Baby: Biscotti &. More
     *   Play Smart: Kids' Toys for Every Age &. More
-    *   Back-to-School Shoes from Olivia Miller
     *   Pajama Party: Petit Lem &. More
-    *   On-Trend Tween Style ft. mymichelle
-    *   GEOX Kids
-    *   See Kai Run
+    
     *   Back-to-School Cool: Psycho Bunny Kids &. More
     *   Converse
     *   Quiksilver Boys
+    *   Back-to-School Shoes from Olivia Miller
+    *   On-Trend Tween Style ft. mymichelle
+    *   See Kai Run
     
     Shop By Category
+    *   Girls' Sizes 7-16
     *   Boys' Sizes 2T-7
     *   Boys' Sizes 8-20
-    *   Girls' Shoes
-    *   Girls' Sizes 7-16
-    *   Boys' Shoes
     *   Girls' Sizes 2T-6X
     *   Baby Girl
+    *   Girls' Shoes
     *   The Toy Shop
+    *   Boys' Shoes
     *   Baby Boy
 *   HomeShop Sale Events
     
-    *   HauteLook Exclusive: Le Creuset Ombre Collection
+    *   Free Shipping: Kitchen Faves Blowout
+    *   Duvets &. More Up to 70% Off
+    *   Now Playing: Wireless Earbud Charger Cases
     *   Free Shipping: Home Organization Essentials
     *   Free Shipping: Luxe Faux Fur Accents Up to 80% Off
     *   Free Shipping: Eye-Catching Wall Art &. Decor
     *   Free Shipping: Colorful &. Fun Decor Up to 75% Off
     *   Tech Solutions Starting at $10
     *   Free Shipping: Luxe Bedding Essentials Under $60
+    
     *   Listen Up: Wireless Earbuds &. Cases
     *   Free Shipping: Orthopedic Pet Beds &. More
-    
     *   Free Shipping: Cooling Pillows &. More
-    *   Free Shipping: Faux Plants &. Planters
-    *   Free Shipping: Chic Neutral Bedding &. Towels
     *   Last Chance: Beach Towels at 60% Off
-    *   Tech Accessory Blowout
-    *   Score These: NFL Signs, Insulated Bags &. More
-    *   Quirky Kitchen Towels
     *   Free Shipping: Hand-Painted Replicas Up to 70% Off
     *   Free Shipping: Lamps to Brighten Up Any Room
+    *   HauteLook Exclusive: Le Creuset Ombre Collection
+    *   Free Shipping: Faux Plants &. Planters
+    *   Free Shipping: Chic Neutral Bedding &. Towels
     
     Shop By Category
     *   Home Decor
     *   Bedding
     *   Kitchen &. Tabletop
     *   Pet Accessories
-    *   Tech Accessories
     *   Cleaning &. Organization
+    *   Tech Accessories
     *   Outdoor Living
     *   Bath
     *   Rugs &. Doormats
@@ -226,22 +260,24 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Cailyn Cosmetics Starting at $10
+    *   Best of Skin Care Under $30
+    *   The Original Makeup Eraser
     *   Mario Badescu
     *   Terre Mere Organic Beauty Up to 75% Off
     *   PURA D'OR Hair Care Up to 50% Off
     *   Murad
+    
     *   Luxe Sleep Accessories: Silk Pillowcases &. More
     *   My Magic Mud Oral Care
-    
-    *   Your Best Light: simplehuman Mirrors
     *   K-Beauty Face Masks &. More
     *   Salon-Quality Hair Tools &. Accessories
     *   Perfect Pout: Lipsticks &. More Starting at $10
     *   Cover FX
     
     Shop By Category
-    *   Skin Care
     *   Makeup
+    *   Skin Care
     *   Hair Care
     *   Tools &. Accessories
     *   Bath &. Body
