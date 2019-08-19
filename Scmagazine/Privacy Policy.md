@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Bug Bounty program set up 101, don’t be afraid it’s all good
-    *   Reducing SIEM fatigue: Finding a signal in all the noise
+    *   BioStar 2 database leaked one million fingerprints, facial recognition data
+    *   Black Hat 2019 keynote: Transformative change needed to improve cybersecurity
+    *   Cisco issues multiple product updates, fixes critical flaws in small business switches
+    *   Destructive malware attacks double as attackers pair ransomware with disk wipers
+    *   700,000 Choice Hotels customer records compromised
+    
+    *   Desjardins breach cost $53 million in Q2
+    *   Cybersecurity staffers needed, no experience required
+    *   700,000 Choice Hotels customer records compromised
+    *   Destructive malware attacks double as attackers pair ransomware with disk wipers
     *   Federal court says Facebook users can sue over use of facial recognition technology
-    *   Cyberattacks hit NCH Healthcare System and Grays Harbor Community Hospital
-    *   Executive order seeks to give FCC, FTC authority over social media content
     
-    *   Red/Blue team exercises show defensive shortfalls: Survey
-    *   Hy-Vee supermarkets report POS cyber incident
-    *   Executive order seeks to give FCC, FTC authority over social media content
-    *   Bug Bounty program set up 101, don’t be afraid it’s all good
-    *   Apple to expand bug bounty program, offer researchers access to iOS, iPhones
-    
+    *   Ransomware attack hits mostly small, local Texas government orgs
     *   European Central Bank confirms BIRD site hacked, contact info stolen
     *   Threat hunting with next-generation tools
     *   SC Media's 30 on 30 podcast with the ISF's Steve Durbin
     *   Hy-Vee supermarkets report POS cyber incident
-    *   Court orders Georgia to replace DRE voting machines with paper ballot systems by 2020 presidential primary
 
 Back to Top
 
