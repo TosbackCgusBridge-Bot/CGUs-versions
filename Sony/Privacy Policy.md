@@ -122,7 +122,7 @@ Learn More
 
 Book a discounted trip to the beautiful and deadly Farewell, Oregon. Days Gone is 40% off at PS Store:  https://play.st/2MPFQZG  pic.twitter.com/fBv4VwHG6f
 
-6 days ago View Tweet WF-1000XM3 Wireless Noise Cancelling Earbud B08loOgh7-9
+7 days ago View Tweet WF-1000XM3 Wireless Noise Cancelling Earbud B08loOgh7-9
 
 Bring the Party
 
