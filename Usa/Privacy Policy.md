@@ -161,7 +161,9 @@ Free trial
 
 Subscribe
 
-$1,610.00/year
+$1,288.00/year
+
+$1,610.00
 
 Software for Building Information Modeling
 
@@ -181,9 +183,9 @@ Free trial
 
 Subscribe
 
-$400.00/year
+$320.00/year
 
-Try, buy, or learn more about Autodesk products See all products The Future of Making Granta disrupts medical-device manufacturing with digital fabrication
+$400.00 Try, buy, or learn more about Autodesk products See all products The Future of Making Granta disrupts medical-device manufacturing with digital fabrication
 
 Find out how this start-up team uses expertise in automotive engineering and digital manufacturing to innovate the design and fabrication of custom skull implants.
 
