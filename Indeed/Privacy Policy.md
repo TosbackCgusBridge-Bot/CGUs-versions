@@ -97,7 +97,7 @@ Please review the “Last Updated” legend at the top of the Cookie Policy to d
 
 Privacy Policy
 
-Last Updated: July 31, 2019
+Last Updated: August 16th, 2019
 
 **1\. Introduction**
 
@@ -182,6 +182,18 @@ To use Indeed Embox after installing it on a particular device, you must first s
 If you use Indeed Embox, Indeed may collect your email address and information that you save or update in Embox while you use the extension or add-on, including your notes and information about a candidate or candidate’s statuses that you save or update.  Indeed may use this information to provide and improve the Embox product offering and to communicate with you about Embox.
 
 Some versions of Embox will prompt you to sign in to your Gmail account, in Embox, in order to use the extension or add-on.  If you sign in to Gmail in Embox, Indeed may also collect information about your activity in Gmail as it relates to Indeed Embox or to help improve Indeed Embox offerings. For example, Indeed may identify that you have not responded to an email from a candidate and send you a notification reminder. Indeed may use this information to add labels to candidates in your inbox (which you may remove, if you so wish), to detect if you receive an email through Indeed’s email relay service, and to automatically launch the extension or add-on. Indeed may also use information obtained from Gmail to provide and improve the Embox product offering and to communicate with you about Embox. This information will not be used to market other Indeed products and services to you.
+
+  **– _When You Use Indeed Text2Apply_**
+
+Indeed Text2Apply is an autodialed text messaging service that Indeed developed to allow you to apply to certain jobs entirely from your mobile device by answering a series of questions presented to you via text messages.  You initiate the application process by texting a specific keyword to the telephone number that appears on a Job Ad on our Site or on advertising materials, such as a sign or flyer at an Employer’s place of business. Your application will not be complete and we will not share it with the Employer unless you answer all questions in the correct format. 
+
+Your use of Indeed Text2Apply is subject to this Privacy Policy and Indeed’s Text2Apply Beta Terms of Service.
+
+If you use Indeed Text2Apply, Indeed may collect your name, telephone number, email address, and any other information you choose to provide, such as your answers to the screening questions associated with the particular Job Ad that we present to you via text message during the application process.  Indeed may use and disclose this information for all of the purposes outlined in Sections 4, 5, and 9 of this Privacy Policy, including but not limited to for the purpose of assembling your application to the Job Ad, sharing your application with the Employer identified in the Job Ad, providing and improving the Text2Apply service offering, communicating with you about the Text2Apply service offering and your use of it, and enhancing your Indeed profile if you have an Indeed account (please note that your Text2Apply application will not be displayed in your Indeed profile at this time, but future development may add this feature).  
+
+**You may unsubscribe from the Text2Apply service at any time by texting the word “STOP” to the telephone number provided in the Job Ad.**  Doing this will unsubscribe you from the service and pause any incomplete application.  Indeed will send you one additional text message to confirm you are unsubscribed from the service.  **Unsubscribing from the Text2Apply service after you have completed your application will not stop Indeed from sharing your application with the Employer listed in the Job Ad.**  You may resume the Text2Apply service and any incomplete application at any time by texting the word “START” to the telephone number provided in the Job Ad.  You may also text “HELP” at any point to receive a text message with instructions on how to receive more information about the Text2Apply service and on how to unsubscribe.
+
+**PLEASE NOTE THAT DUE TO THE CONVERSATIONAL NATURE OF THIS SERVICE AND THE UNRESTRICTED FORMAT OF SMS TEXT MESSAGES,** **INDEED CANNOT GUARANTEE IT WILL HONOR AN UNSUBSCRIBE REQUEST MADE BY TEXT MESSAGE UNLESS IT IS LIMITED TO THE SINGLE-WORD “STOP”** **. INDEED EXPRESSLY MAKES NO REPRESENTATION AND DOES NOT GUARANTEE THAT IT WILL RESPOND TO ANY OTHER FORM OF REQUEST BY TEXT MESSAGE TO UNSUBSCRIBE FROM THIS SERVICE. YOU MAY ALSO CONTACT US AT TEXT2APPLY@INDEED.COM OR SUPPORT.INDEED.COM FOR MORE INFORMATION AND TO UNSUBSCRIBE.**
 
 **2.3 Any Other Personal Data Indeed May Receive from Third Parties**
 
@@ -1281,4 +1293,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2019 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Find Certifications - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1dik6unekhpic800&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2019 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Find Certifications - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1dimpaahohl4o800&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
