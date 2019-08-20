@@ -3,17 +3,17 @@
 *   games
 *   videos
 
-New Games Next in  14:29
+New Games Next in  xx:xx
 
-*   By Date Next addition in 14:29
+*   By Date Next addition in xx:xx
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more LIBRARY
 
-*   New Games Next in 14:29
-*   Best of new games 1382 games
-*   Most Popular Games 19706 games
+*   New Games Next in xx:xx
+*   Best of new games 1381 games
+*   Most Popular Games 19711 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -21,22 +21,22 @@ Categories &. more LIBRARY
 CATEGORIES
 
 *   Games for girls 24,340 games
-*   Driving &. Racing Games 6,868 games
+*   Driving &. Racing Games 6,870 games
 *   Strategy &. RPG Games 2,434 games
 *   Management Games 3,664 games
 *   Thinking Games 12,282 games
-*   Action &. Adventure Games 16,406 games
+*   Action &. Adventure Games 16,414 games
 *   Sports Games 2,290 games
-*   Shooting Games 8,531 games
-*   Fighting Games 2,105 games
-*   Skill Games 11,520 games
-*   Arcade &. Classic Games 13,395 games
+*   Shooting Games 8,534 games
+*   Fighting Games 2,104 games
+*   Skill Games 11,522 games
+*   Arcade &. Classic Games 13,405 games
 *   Fun &. Crazy Games 2,567 games
 
 Play with friends  
-Powered by Y8 Account 130 Y8 Multiplayer Games 2,061 Y8 High Score Games 1,167 Y8 Achievements Games 829 Y8 Screenshots Games 1,485 Y8 Online Save Games 3,133 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 130 Y8 Multiplayer Games 2,061 Y8 High Score Games 1,167 Y8 Achievements Games 829 Y8 Screenshots Games 1,486 Y8 Online Save Games 3,133 All Y8 Games Games Last Highscore:
 
-**2,842** points on Orion Sandbox Enhanced by panpipes
+**9** points on Slope Y8 by CrazyXDude
 
 Help us improve Bad translation? Social
 
