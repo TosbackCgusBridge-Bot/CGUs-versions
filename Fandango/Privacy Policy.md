@@ -5,39 +5,36 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Good Boys (2019)
     *   Fast &. Furious Presents: Hobbs &. Shaw
-    *   Scary Stories to Tell in the Dark
     *   The Lion King (2019)
+    *   The Angry Birds Movie 2
+    *   Scary Stories to Tell in the Dark
+    *   47 Meters Down: Uncaged
     *   Dora and the Lost City of Gold
     *   Once Upon a Time in Hollywood
+    *   Blinded by the Light
     *   The Art of Racing in the Rain
-    *   The Kitchen (2019)
-    *   Spider-Man: Far From Home (2019)
-    *   Toy Story 4
-    *   Bring the Soul: The Movie
-    *   The Farewell (2019)
+    *   Where'd You Go, Bernadette
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   47 Meters Down: Uncaged
-    *   The Angry Birds Movie 2
-    *   Blinded by the Light
-    *   Good Boys (2019)
-    *   Where'd You Go, Bernadette
-    *   Aquarela
-    *   Cold Case Hammarskjöld
-    *   The Divine Fury (2019)
-    *   Line Walker 2: Invisible Spy
-    *   Mission Mangal
-    *   The Second Sun
+    *   Angel Has Fallen
+    *   Overcomer
+    *   Ready or Not
+    *   Becoming Burlesque
+    *   Brittany Runs a Marathon
+    *   Fiddler: A Miracle of Miracles
+    *   Give Me Liberty (2019)
+    *   Miles Davis: Birth of the Cool
+    *   RUSH: Cinema Strangiato 2019
+    *   Tigers Are Not Afraid
+    *   Vita &. Virginia
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Angel Has Fallen
-    *   Overcomer
-    *   Ready or Not
     *   Don't Let Go
     *   Saaho (2019)
     *   It Chapter Two (2019)
@@ -45,6 +42,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Hustlers
     *   Ad Astra
     *   Rambo: Last Blood
+    *   Abominable (2019)
+    *   War (2019)
+    *   Joker (2019)
     *   See All Coming Soon
     
     Explore More
@@ -309,17 +309,21 @@ Offers
     
     Sign up for a 'Cats' FanAlert™ for your chance to win a trip to the premiere in London! \*Terms apply. ENTER NOW
     
+*   'Kingdom' Gift With Purchase
+    
+    Get a free 1-month trial to FunimationNow when you buy tickets to 'Kingdom'! \*Terms apply. BUY TICKETS
+    
 
 New + Coming soon
 
-*   Fast &. Furious Presents: Hobbs &. Shaw
-*   Scary Stories to Tell in the Dark
-*   Dora and the Lost City of Gold
-*   The Angry Birds Movie 2
-*   Blinded by the Light
-*   Where'd You Go, Bernadette
-*   Good Boys (2019)
 *   It Chapter Two (2019)
+*   Hustlers
+*   The Goldfinch
+*   Ad Astra
+*   Abominable (2019)
+*   Gemini Man
+*   Joker (2019)
+*   The Addams Family (2019)
 
 Experience + Explore
 
@@ -354,4 +358,8 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango **Help Us Make Fandango Better!** You have been selected to take part in a brief customer satisfaction survey to let us know how we can improve your experience.    
+  
+This survey is designed to measure your overall Fandango experience, please look for it at the conclusion of your visit.  
+Thank you – your feedback is important to us!  
+ Yes, I'll leave feedback
