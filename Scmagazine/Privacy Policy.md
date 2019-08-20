@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   BioStar 2 database leaked one million fingerprints, facial recognition data
-    *   Black Hat 2019 keynote: Transformative change needed to improve cybersecurity
-    *   Cisco issues multiple product updates, fixes critical flaws in small business switches
-    *   Destructive malware attacks double as attackers pair ransomware with disk wipers
-    *   700,000 Choice Hotels customer records compromised
+    *   Creating a next-gen cybersecurity roadmap
+    *   Trojanized apps containing ad fraud malware downloaded 102M times
+    *   Microsoft-certified software drivers found to be security risks
+    *   Symantec sells off enterprise business for $10.7 billion
+    *   Def Con: Lieu, Langevin call on security community to help fed gov't bolster cyber, harden election security
     
-    *   Desjardins breach cost $53 million in Q2
-    *   Cybersecurity staffers needed, no experience required
     *   700,000 Choice Hotels customer records compromised
-    *   Destructive malware attacks double as attackers pair ransomware with disk wipers
-    *   Federal court says Facebook users can sue over use of facial recognition technology
-    
-    *   Ransomware attack hits mostly small, local Texas government orgs
-    *   European Central Bank confirms BIRD site hacked, contact info stolen
-    *   Threat hunting with next-generation tools
-    *   SC Media's 30 on 30 podcast with the ISF's Steve Durbin
+    *   Def Con: Lieu, Langevin call on security community to help fed gov't bolster cyber, harden election security
+    *   SC Media opens nominations for the 2020 SC Awards
     *   Hy-Vee supermarkets report POS cyber incident
+    *   European Central Bank confirms BIRD site hacked, contact info stolen
+    
+    *   U.S. renews temporary license allowing companies to sell to Huawei, adds 45 to blacklist
+    *   Delta sues AI vendor over 2017 breach exposing info on 825K
+    *   Virginia State Police recoup $300K stolen in BEC scam
+    *   CyberRisk Alliance acquires Cybersecurity Collaborative establishing its Peer Council Business Platform
+    *   First Look: Corelight Sensor
 
 Back to Top
 
