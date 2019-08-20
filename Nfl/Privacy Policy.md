@@ -1,6 +1,4 @@
-*   SEA1-119MIN2-025Final
-*   NO1-119LAC0-217Final
-*   SF1-0DEN1-1Mon, 8:00 pm ET
+*   SF2-024DEN1-215Final
 *   PHI1-124JAX0-210Final
 *   NYJ1-122ATL0-310Final
 *   GB1-113BAL2-026Final
@@ -14,6 +12,8 @@
 *   KC1-17PIT2-017Final
 *   DET0-223HOU1-130Final
 *   DAL1-114LA0-210Final
+*   NO1-119LAC0-217Final
+*   SEA1-119MIN2-025Final
 
 *   News
 *   Scores
@@ -37,9 +37,7 @@
 *   Photos
 *   NFL Films
 
-*   SEA19MIN25Final
-*   NO19LAC17Final
-*   SF1-0DEN1-1Mon, 8:00 pm ET
+*   SF24DEN15Final
 *   PHI24JAX10Final
 *   NYJ22ATL10Final
 *   GB13BAL26Final
@@ -53,6 +51,8 @@
 *   KC7PIT17Final
 *   DET23HOU30Final
 *   DAL14LA10Final
+*   NO19LAC17Final
+*   SEA19MIN25Final
 
 *   News
 *   Scores
