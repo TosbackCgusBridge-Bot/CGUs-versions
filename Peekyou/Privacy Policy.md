@@ -57,9 +57,9 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, UT. Online, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 5% 
+What is PeekScore? Public Records &. Background Checks 2% 
 
 Sponsored by **BeenVerified***   Patricia A Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -89,7 +89,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 57, Casselberry, FL 3270
     
 *   Show Less ...
 
-5% 
+2% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -135,7 +135,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 57, Casselberry, FL 3270
     
 *   Show Less ...
 
-5% 
+2% 
 
 Sponsored by **PeopleLooker***   Patricia A Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -165,7 +165,7 @@ Sponsored by **PeopleLooker***   Patricia A Policy, age 57, Casselberry, FL 3270
     
 *   Show Less ...
 
-7%  Arrest Records &. Driving Infractions
+22%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -206,7 +206,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 5% 
+Facebook 2% 
 
 *   Prıvacy Polıcy (vicky haryanto) - vicky.haryanto.100
     
@@ -266,7 +266,7 @@ Facebook 5% 
     
 *   Show Less ...
 
-Twitter 5% 
+Twitter 2% 
 
 *   U.S. FDA - US\_FDA
     
@@ -312,7 +312,7 @@ Twitter 5% 
     
 *   Show Less ...
 
-Instagram 5% 
+Instagram 2% 
 
 *   Privacy policy - privacydoor7
     
@@ -358,7 +358,7 @@ Instagram 5% 
     
 *   Show Less ...
 
-Myspace 5% 
+Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -382,7 +382,7 @@ Myspace 5% 
     
 *   Show Less ...
 
-Social Profiles 5% 
+Social Profiles 2% 
 
 *   Lauren Weinstein
     
@@ -424,7 +424,7 @@ Social Profiles 5% 
     
 *   Show Less ...
 
-Pinterest 5% 
+Pinterest 2% 
 
 *   Alishachawla2730 Privacypolicy - alishachawla273
     
@@ -433,7 +433,7 @@ Pinterest 5% 
 *   Nancy Clark - privacypolicy12
     
 
-Wikipedia 5% 
+Wikipedia 2% 
 
 *   Privacy policy
     
@@ -452,7 +452,7 @@ Wikipedia 5% 
     2019 Copyright. All Rights Reserved. The Sponsored Listings displayed above are served automatically by a third party. Neither Parkingcrew nor the domain owner ...
     
 
-Music 5% 
+Music 2% 
 
 *   Pandora
     
@@ -494,7 +494,7 @@ Music 5% 
     
 *   Show Less ...
 
-Photo Albums 5% 
+Photo Albums 2% 
 
 *   Flickriver
     
@@ -505,7 +505,7 @@ Photo Albums 5% 
     Feb 07, 2019 · Flickr announced in November it would be changing its generous photo storage allotment for free users, restricting them to a 1,000-photo limit, and threatening to …
     
 
-Web Search 5% 
+Web Search 2% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -551,15 +551,15 @@ Web Search 5% 
     
 *   Show Less ...
 
-Images 5% 
+Images 2% 
 
-9
-
-20
+3
 
 20
 
-9
+20
+
+7
 
 facebookx
 
