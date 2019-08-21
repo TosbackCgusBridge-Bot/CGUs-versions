@@ -128,9 +128,9 @@ I accept Menu
         *   Fixed income investors
         *   Overview
         *   Fixed income securities
+        *   Issuance programmes
         *   Covered bonds
         *   Green and sustainability bonds
-        *   Issuance programmes
         *   Regulatory capital securities
         *   Credit ratings
     *   Shareholder information
