@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 30% off full-price styles!
+Free shipping, no minimum on all orders
 
-code: CARDINAL pin: 1023PROMOTION DETAILS
+code: SHIPNOW pin: 1099PROMOTION DETAILS
 
 Customer Service Menu
 
@@ -290,7 +290,6 @@ Stores
 *   Sitemap
 *   Index
 
-  
 If you are using a screen reader and are having problems using this website, please call 1-800-963-4816 for assistance.
 
 Sustainability
