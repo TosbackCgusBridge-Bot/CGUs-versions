@@ -295,20 +295,6 @@ For your protection, we may need to verify your identity before fulfilling your 
 
 Please note that we often need to retain certain data for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase or reservation, or enter a promotion, you may not be able to change or delete the Personal Data provided until after the completion of such purchase, reservation, or promotion). There may also be residual data that will remain within our databases and other records, which will not be removed. In addition, there may be certain data that we may not allow you to review for legal, security, or other reasons.
 
-Retention
-
-Open
-
-We will retain your Personal Data for the period necessary to fulfill the purposes outlined in this Privacy Statement unless a longer retention period is required or permitted by law.  
-  
-The criteria used to determine our retention periods include:  
-  
-•The length of time we have an ongoing relationship with you and provide the Services to you (for example, for as long as you have an account with us or keep using the Services)  
-  
-•Whether there is a legal obligation to which we are subject (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them)  
-  
-•Whether retention is advisable considering our legal position (such as, for statutes of limitations, litigation or regulatory investigations)
-
 Sensitive Data
 
 Open
@@ -500,4 +486,4 @@ Loading...
 
 Tracking Preferences Terms of Use Program Terms &. Conditions Privacy Center Digital Accessibility Site Map Help*   Loading...
     
-prod8,40E6BA7C-C558-5EBA-BBF6-C3243EE8895C
+prod13,1E1CF8C2-FC68-5814-A4D2-B7766B0B303B
