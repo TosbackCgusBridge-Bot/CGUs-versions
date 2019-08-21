@@ -297,9 +297,9 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   Earn Double VIP+ Points
+*   'Downton Abbey' Sweepstakes
     
-    when you purchase tickets to see 'Hustlers' (Yep, every 2 tickets = $5 reward on us!) BUY TICKETS
+    Enter for your chance to win a script of the movie signed by the cast! \*Terms apply. ENTER NOW
     
 *   AMC Stubs® Members Save Big with Discount Tuesdays
     
@@ -358,8 +358,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango **Help Us Make Fandango Better!** You have been selected to take part in a brief customer satisfaction survey to let us know how we can improve your experience.    
-  
-This survey is designed to measure your overall Fandango experience, please look for it at the conclusion of your visit.  
-Thank you – your feedback is important to us!  
- Yes, I'll leave feedback
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
