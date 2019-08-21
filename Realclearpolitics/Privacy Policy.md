@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -111,6 +113,58 @@
     *   About
     *   Media Kit
 
+*   _Russell Berman_: Electability Voters Are the Reason Biden Is Leading
+    
+*   _Daniel McCarthy_: Why Joe Biden Won't Win
+    
+*   _Alex Seitz-Wald_: Why Bernie Sanders Can't Stand the Media
+    
+*   _Ted Johnson_: Obamas' 1st Netflix Documentary Is an Anti-Trump Statement
+    
+*   _Miranda Devine_: Why So Many Come Together to Hear Trump Speak
+    
+*   _Emily Stewart_: How China Used Social Media to Spread Disinformation
+    
+*   _Tony Coelho_: Guns Are Killing Us, Not Mental Illness
+    
+*   _Charles Hurt_: Blame the Shooter, Not Law-Abiding Gun Owners
+    
+*   _Reihan Salam_: Governors Are Losing the Space to Govern
+    
+*   _Ashley Feinberg_: The 1619 Project Made Conservatives Tell on Themselves
+    
+*   _John Davidson_: The NYT's 1619 Project Is Garbage History
+    
+*   _Heather Mac Donald_: Trump Isn't the One Dividing Us by Race
+    
+*   _Matt Taibbi_: Trump 2020: Be Very Afraid
+    
+*   _Jonathan Easley_: Soft Levels of Support Mark This Year's Dem Primary
+    
+*   _Andrew McCarthy_: 'Ball of Collusion': Obama's Anti-Trump Loyalists
+    
+*   _Hal Brands_: Trump's True Foreign Policy: Chaos
+    
+*   _James Piereson_: Despite Media Propaganda, Data Points to Economic Growth
+    
+*   _Frida Ghitis_: Hong Kong Protests Send a Loud and Clear Message
+    
+*   _Nick Taber_: The Tactical Brilliance of Hong Kong's Protesters
+    
+*   _Warren Henry_: Tlaib, Omar's Israel Trip Planned by Pro-Terrorist Group
+    
+*   _Aaron Freedman_: Why Dems Shouldn't Be Afraid to Talk About Socialism
+    
+*   _Anthony Scaramucci_: I Was Wrong About Trump. Here's Why.
+    
+*   _David Catron_: Why Trump's Approval Is Up Among Minorities
+    
+*   _Ibram Kendi_: The Hopefulness and Hopelessness of 1619
+    
+
+*   Previous
+*   Next
+
 Privacy Policy
 
 Thank you for visiting this website, a digital service presented to you by RealClearPolitics, LLC. ("RCP", "we" or "us"). Your privacy is important to us. As such, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used by this digital service and among RealClearPolitics network of affiliated and operated digital services ("RealClear Media Group"), which includes any online or mobile websites, applications or digital services owned, operated or offered by, on behalf of, or in conjunction with RCP or its Affiliates, including any online or mobile website, application or digital service installation through which this Privacy Policy appears (each a "Service," collectively the "Services"). "Users" are persons that use the Services.
@@ -158,6 +212,94 @@ If you have any further question about this Privacy Policy, please contact us at
 
   
   
+RecommendedPolitics
+
+*   Politics
+*   Markets
+*   World
+*   Science
+*   History
+*   Future
+*   Energy
+*   Health
+*   Policy
+*   Religion
+*   Defense
+*   Sports
+*   Education
+*   Books
+*   Investigations
+
+*   Will '80s Stance on 'Ethnocide' Harm Sanders With Native Americans?
+*   'Ball of Collusion' Excerpt: All Obama's Anti-Trump Loyalists
+*   Ilhan Omar: Israel's Actions "Not Consistent" With Being An Ally
+*   U.S. Prisons Chief Removed From Position After Epstein's Death
+*   As Rivals Head to California, Biden Chooses New Hampshire
+*   Presidential Job Approval
+*   Cartoons of the Week
+
+Latest PollsAll Polls
+
+*   All Polls
+*   All Elections
+*   Senate 2018
+*   Governors 2018
+*   House 2018
+*   State of the Union
+
+*   2020 Democratic Presidential NominationCNN
+    *   Biden29
+    *   Warren14
+    *   Sanders15
+    *   Harris5
+    *   Buttigieg5
+    *   O'Rourke3
+    *   Booker2
+    *   Yang1
+    *   Gabbard2
+    *   Castro2
+    *   Klobuchar1
+    *   Steyer1
+    *   Williamson0Biden +14
+*   Nevada Democratic Presidential CaucusGravis
+    *   Biden25
+    *   Warren15
+    *   Sanders10
+    *   Harris9
+    *   Buttigieg5
+    *   Steyer6
+    *   Booker3
+    *   Yang2
+    *   O'Rourke0
+    *   Klobuchar2
+    *   Castro1
+    *   Gabbard2
+    *   de Blasio2Biden +10
+*   Colorado Democratic PrimaryEmerson
+    *   Sanders26
+    *   Biden25
+    *   Warren20
+    *   Harris13
+    *   Buttigieg5
+    *   Yang4
+    *   Booker2
+    *   O'Rourke1
+    *   Gabbard1
+    *   Williamson1
+    *   Ryan1
+    *   Bennet1
+    *   de Blasio1Sanders +1
+*   Colorado: Trump vs. BidenEmerson
+    *   Biden55
+    *   Trump45Biden +10
+
+More Latest Polls In The News
+
+*   Spike Lee: Why Are We Still Asking If Trump Is A White Supremacist? It's Not Even A Question Anymore
+*   Piers Morgan: "Populism Is Rising Because Liberals Have Become Unbearable," "People Are Fed Up With PC Culture"
+*   Biden Touts Polls, Obama In First TV Ad: "We Have To Beat Trump And All The Polls Agree"
+*   Tucker Carlson: In The End, Obama Will Not Be There For Biden. "Eternal Friendship Has Already Ended"
+*   Peter Beinart vs. Rich Lowry on Miftah: "Palestinians Don't Have To Be Saints In Order To Have Basic Human Rights"
 
 *   Politics
 *   Policy
