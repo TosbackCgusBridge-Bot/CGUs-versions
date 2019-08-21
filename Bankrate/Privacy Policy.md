@@ -30,6 +30,9 @@
     *   CD rates
     *   Savings accounts
     *   Money market accounts
+    *   1-Year CD rates
+    *   3-Year CD rates
+    *   5-Year CD rates
     *   Checking accounts
     *   Bank ratings
     
@@ -47,7 +50,6 @@
     *   What is a money market account?
     *   Which certificate of deposit account is best?
     *   How to open a savings account
-    *   Credit union basics
     
     Bank Reviews
     *   Capital One Bank
