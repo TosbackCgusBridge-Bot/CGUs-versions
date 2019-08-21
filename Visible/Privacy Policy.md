@@ -1,4 +1,4 @@
-Privacy Policy Effective Date: April 23, 2018
+Privacy Policy Effective Date: July 22, 2019
 
 Visible values your business and is committed to protecting your privacy. This Privacy Policy sets forth our policies and practices for the collection, use and sharing of your information. Visible is a member of the Verizon family of companies.
 
@@ -8,11 +8,11 @@ We collect information when you visit our websites, use our apps, contact us, an
 
 **We collect information you provide directly to us.** This includes personal information (such as your name, email address, phone number, postal address, Social Security number, and date of birth), a username and password, payment information, and communications you send to us.
 
-**We collect information when you use our service.** This includes information about the calls you make and receive, text messages you send and receive, websites you visit, mobile applications you use, and wireless network and device information, including location, Internet protocol (IP) address and connection speed, mobile telephone number, device and advertising identifiers, browser type, and operating system.
+**We collect information when you use our service.** This includes information about the calls you make and receive, text messages you send and receive, websites you visit, mobile applications you use, and wireless network and device information, including location, Internet protocol (IP) address and connection speed, mobile telephone number, device and advertising identifiers, browser type, and operating system. Some Visible devices include Verizon-provided system applications that collect information about network and device conditions, which is used to secure and improve our network and services.
 
-**We also collect information when you visit our sites and use our apps, including through cookies and similar technology.** This includes your IP address, device and advertising identifiers, browser type, operating system, pages that you visit before and after visiting our sites, the date and time of your visit, information about the links you click and pages you view within the sites, and other standard server log information.
+**We also collect information when you visit our sites and use our apps, including through cookies and similar technology.** This includes your IP address, mobile number, device and advertising identifiers. browser and platform type, operating system, connection speed and other attributes. pages that you visit before and after visiting our sites. the date and time of your visit. information about the links you click and pages you view within the sites and screen records.
 
-We may use cookies, pixel tags, and similar technologies to automatically collect this information. Cookies are small bits of information that are stored by your computer’s web browser. Pixel tags are very small ../images or small pieces of data embedded in ../images, also known as “web beacons” or “clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device. By using our websites and applications, you consent to our use of cookies and similar technologies.
+We may use cookies, pixel tags, and similar technologies to automatically collect this information. Cookies are small bits of information that are stored by your computer’s web browser. Pixel tags are very small images or small pieces of data embedded in images, also known as “web beacons” or “clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device. By using our websites and applications, you consent to our use of cookies and similar technologies.
 
 **We collect info when you contact us.** When you contact us or we contact you, we may monitor or record that communication for quality assurance, training and security purposes.
 
@@ -29,7 +29,8 @@ We use the information we collect to deliver service, to market to you, and for 
 *   Research and develop new products and services;
 *   Authenticate you;
 *   Customize the content you see when you use our sites and apps.
-*   Prevent potentially prohibited or illegal activities and otherwise in accordance with our Terms of Use. and
+*   Secure and improve our network and services.
+*   Detect and prevent potentially prohibited, fraudulent or illegal activities and otherwise in accordance with our Terms of Use. and
 *   For any other purposes disclosed to you at the time we collect your information or with your consent.
 
 III. DISCLOSURE OF INFORMATION
@@ -47,8 +48,6 @@ We share information about you with vendors and partners who do work on our beha
 If you access third-party services, such as Facebook, Google, or Twitter, through our sites or apps, to log in or to share information about your experience with others, these third-party services may be able to collect information about you and they may notify your connections on the third-party services about your use of the site or app, in accordance with their own privacy policies.
 
 IV.    SECURITY
-
-We use reasonable measures to help protect information from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. You should understand that no data storage system or transmission of data over the Internet or any other public network can be guaranteed to be 100 percent secure.
 
 We use reasonable measures to help protect information from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. You should understand that no data storage system or transmission of data over the Internet or any other public network can be guaranteed to be 100 percent secure.
 
