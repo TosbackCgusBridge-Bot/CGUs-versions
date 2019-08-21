@@ -2,7 +2,7 @@ Electronic Arts Inc.
 Privacy and Cookie Policy **Last Updated: March 29, 2019  
 Effective Date: March 29, 2019  
 **  
-Your privacy is important to us, and we take our responsibility of caring for it seriously. This policy describes what information EA collects when you use the mobile, online and downloadable products and services offered by EA and its subsidiaries and/or attend live events hosted by or in connection with EA ("**products**"). For a list of our subsidiaries, visit https://www.sec.gov/Archives/edgar/data/712515/000071251518000024/ex-211subsidiariesofthereg.htm.  
+Your privacy is important to us, and we take our responsibility of caring for it seriously. This policy describes what information EA collects when you use the mobile, online and downloadable products and services offered by EA and its subsidiaries and/or attend live events hosted by or in connection with EA ("**products**"). For a list of our subsidiaries, visit https://www.sec.gov/Archives/edgar/data/712515/000071251519000019/ex-211subsidiariesofthereg.htm.  
   
 EA participates in the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. To learn more visit https://tos.ea.com/legalapp/WEBPRIVACYSHIELD/US/en/PC/.  
   
@@ -33,7 +33,7 @@ TABLE OF CONTENTS
     *   Your EA Account information, including email address, username, country, date of birth, telephone number and password;
     *   Security questions and answers;
     *   Details you provide in response to surveys about our products;
-    *   Information you provide when seeking help from us such as your name, telephone number and records of the issues you experience. and
+    *   Information you provide when seeking help from us such as your name, telephone number and records (including call recordings) of the issues you experience. and
     *   Billing information, such as your name, payment card number and payment account details;  
           
         
@@ -86,7 +86,7 @@ TABLE OF CONTENTS
     If you are a resident of the European Union, we rely on a number of legal grounds to process information about you. For example, we will process information about you where we have your consent, where we have a legitimate interest to do so, where the processing is necessary for the performance of a contract with you, and where we have a legal obligation to process your information. For example, we rely on our legitimate interests to serve targeted marketing and on contractual necessity to process information when you create an EA Account. To learn more about the legal grounds on which we rely to process your information for any particular purpose, please contact us via the options in Section 11 below.  
     
 
-2\. How We Collect Information We collect some information from you when you provide it to us directly, such as via an online form or when you talk with our customer experience team. We and third parties also use certain technologies described below to collect information to deliver excellent experiences.  
+2\. How We Collect Information We collect some information from you when you provide it to us directly, such as via an online form or when you talk with our customer experience team via chat, email and telephone. We and third parties also use certain technologies described below to collect information to deliver excellent experiences.  
   
 
 1.  Cookies and Similar Technologies  
@@ -215,17 +215,6 @@ The controller of the personal information processed under this policy is Electr
 13\. Further Information For more information and updates to this policy, visit privacy.ea.com.  
   
   
+  
 
-Previous Privacy and Cookie Policy:  
-Last Updated: January 11, 2019  
-Last Updated: January 8, 2019  
-Last Updated: November 15, 2018  
-Last Updated: August 31, 2018  
-Last Updated: May 25, 2018  
-Last Updated: January 18, 2018  
-Last Updated: July 31, 2017  
-Last Updated: October 28, 2016  
-Last Updated: May 9, 2016  
-Last Updated: January 20, 2016  
-Last Updated: June 28, 2013  
-Last Updated: July 31, 2012
+Previous Privacy and Cookie Policy
