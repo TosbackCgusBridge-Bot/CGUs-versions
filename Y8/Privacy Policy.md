@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1381 games
-*   Most Popular Games 19711 games
+*   Best of new games 1383 games
+*   Most Popular Games 19718 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,340 games
-*   Driving &. Racing Games 6,870 games
+*   Games for girls 24,341 games
+*   Driving &. Racing Games 6,871 games
 *   Strategy &. RPG Games 2,434 games
 *   Management Games 3,664 games
-*   Thinking Games 12,282 games
-*   Action &. Adventure Games 16,414 games
-*   Sports Games 2,290 games
+*   Thinking Games 12,286 games
+*   Action &. Adventure Games 16,418 games
+*   Sports Games 2,291 games
 *   Shooting Games 8,534 games
 *   Fighting Games 2,104 games
-*   Skill Games 11,522 games
-*   Arcade &. Classic Games 13,405 games
-*   Fun &. Crazy Games 2,567 games
+*   Skill Games 11,527 games
+*   Arcade &. Classic Games 13,412 games
+*   Fun &. Crazy Games 2,568 games
 
 Play with friends  
 Powered by Y8 Account 130 Y8 Multiplayer Games 2,061 Y8 High Score Games 1,167 Y8 Achievements Games 829 Y8 Screenshots Games 1,486 Y8 Online Save Games 3,133 All Y8 Games Games Last Highscore:
 
-**9** points on Slope Y8 by CrazyXDude
+**6,600** points on Plumber Duck by mrs.green
 
 Help us improve Bad translation? Social
 
