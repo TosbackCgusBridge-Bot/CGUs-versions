@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   My AccountSign InTrack MyOrders
+*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -64,7 +64,7 @@ UP TO 60% OFF HOME SALEselect styles
 *   SHOP ALL
 
 YOUR ONE-STOP SCHOOL SHOPDORM 101Little spaces, lofty ideas. The 2019 dorm collection makes far away feel like home. SCHOOL UNIFORMSalso available in plus &. husky  
-UP TO 70% OFF WOMEN'S SANDALSSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S SANDALSSELECT STYLESSHOP ALL
+SEE IT. SHOP IT. #AllAtJCPMedia CarouselSlide 1 of 4. UP TO 70% OFF WOMEN'S SANDALSSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S SANDALSSELECT STYLESSHOP ALL
 
 *   SPECIAL DEAL!
     
@@ -86,7 +86,7 @@ UP TO 70% OFF WOMEN'S SANDALSSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S SANDALSS
     $2974after couponwas $55 east 5th Womens Vane Wedge Sandals(3)Add To Cart
 *   SPECIAL DEAL!
     
-    $2974after couponwas $50 Arizona Womens Marion Wedge Sandals(5)Add To Cart
+    $2549after couponwas $60 Liz Claiborne Womens Lambert Heeled Sandals(4)Add To Cart
 
 UP TO 70% OFF SHORTS FOR THE FAMILYSHOP ALLSELECT STYLESUP TO 70% OFF SHORTS FOR THE FAMILYSELECT STYLESSHOP ALL
 
@@ -110,11 +110,11 @@ UP TO 70% OFF SHORTS FOR THE FAMILYSHOP ALLSELECT STYLESUP TO 70% OFF SHORTS FOR
     $850after couponwas $32 - $37 Arizona Boys Stretch Hybrid Short Preschool / Big KidAdd To Cart
 *   SPECIAL DEAL!
     
-    $1699after couponwas $50 Msx By Michael Strahan Mens Pull-On Short-Big and TallAdd To Cart
+    $849after couponwas $27 St. John's Bay Active Womens Mid Rise Drawstring Waist 9 1/2" Bermuda Short(6)Add To Cart
 
 Recommended for You
 
-*   $749after couponwas $19 St. John's Bay 3/4 Sleeve V-Neck Tee - Plus(2)
+*   $849after couponwas $19 St. John's Bay 3/4 Sleeve V-Neck Tee - Plus(2)
 *   from$3999 sale
     
     was $60 | 15 - 33% offNike Revolution 4 Womens Lace-up Running Shoes(119)
@@ -122,14 +122,14 @@ Recommended for You
     
     from$7 sale
     
-    was $20 - $22 | 65 - 68% offIzod Exclusive Girls Spread Collar Short Sleeve Stretch Polo Shirt(38)
-*   $4099 sale
+    was $20 - $22 | 65 - 68% offIzod Exclusive Girls Spread Collar Short Sleeve Stretch Polo Shirt(39)
+*   $4399 sale
     
-    was $55 | 25% offNike Hayward 2.0 Backpack(2)
-*   from$224after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(273)
-*   View Price in Cart
+    was $55 | 20% offNike Hayward 2.0 Backpack(2)
+*   from$254after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(275)
+*   from$6369
     
-    was $85 Nike Air Max Motion 2 Womens Lace-up Running Shoes(5)
+    Nike Air Max Motion 2 Womens Lace-up Running Shoes(5)
 
 Shop and Save at JCPenney
 
