@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Creating a next-gen cybersecurity roadmap
-    *   Trojanized apps containing ad fraud malware downloaded 102M times
-    *   Microsoft-certified software drivers found to be security risks
-    *   Symantec sells off enterprise business for $10.7 billion
-    *   Def Con: Lieu, Langevin call on security community to help fed gov't bolster cyber, harden election security
-    
-    *   700,000 Choice Hotels customer records compromised
-    *   Def Con: Lieu, Langevin call on security community to help fed gov't bolster cyber, harden election security
-    *   SC Media opens nominations for the 2020 SC Awards
     *   Hy-Vee supermarkets report POS cyber incident
-    *   European Central Bank confirms BIRD site hacked, contact info stolen
+    *   BioStar 2 database leaked one million fingerprints, facial recognition data
+    *   Mobile Device Security for Blue Collar Workers
+    *   Coats, Gordon exit DNI, Maguire to step in
+    *   Fake VPN and office software websites spread Bolij.2 banking trojan
     
-    *   U.S. renews temporary license allowing companies to sell to Huawei, adds 45 to blacklist
-    *   Delta sues AI vendor over 2017 breach exposing info on 825K
-    *   Virginia State Police recoup $300K stolen in BEC scam
-    *   CyberRisk Alliance acquires Cybersecurity Collaborative establishing its Peer Council Business Platform
-    *   First Look: Corelight Sensor
+    *   Trojanized apps containing ad fraud malware downloaded 102M times
+    *   Cyberattacks hit NCH Healthcare System and Grays Harbor Community Hospital
+    *   NSA program trains high school students in work study program
+    *   Remcos RAT campaign delivers new variant using AutoIt wrapper
+    *   Creating a next-gen cybersecurity roadmap
+    
+    *   iOS 12.4 update reintroduced old bug, enabling jailbreak for current devices
+    *   Fake VPN and office software websites spread Bolij.2 banking trojan
+    *   One million Luscious porn site accounts compromised
+    *   Vulnerabilities seen on Google Nest Cam IQ Indoor camera
+    *   Mobile Device Security for Blue Collar Workers
 
 Back to Top
 
