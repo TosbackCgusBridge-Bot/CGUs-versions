@@ -135,7 +135,11 @@ The IoT Trust Framework® includes a set of strategic principles necessary to he
 
 Visit our IoT Trust Framework page and download the full version or Framework Overview.
 
-Read the Framework Learn more about IoT OTA News Internet Society’s Online Trust Alliance 2018 Cyber Incidents &. Breach Trends Report Building Trust 9 July 2019 Internet Society’s Online Trust Alliance 2018 Cyber Incidents &. Breach Trends Report
+Read the Framework Learn more about IoT OTA News Deep Dive: How Healthcare Organizations Practice Privacy and Security Building Trust 20 August 2019 Deep Dive: How Healthcare Organizations Practice Privacy and Security
+
+In April, the Online Trust Alliance published the 11th annual Online Trust Audit assessing the security and privacy of...
+
+Internet Society’s Online Trust Alliance 2018 Cyber Incidents &. Breach Trends Report Building Trust 9 July 2019 Internet Society’s Online Trust Alliance 2018 Cyber Incidents &. Breach Trends Report
 
 On Tuesday July 9, 2019 the Internet Society’s Online Trust Alliance (OTA) released its 11th Cyber Incident &. Breach...
 
@@ -154,10 +158,6 @@ Last week we released the 10th Online Trust Audit &. Honor Roll, which is a comp
 Announcing the Online Trust Audit &. Honor Roll Results Building Trust 16 April 2019 Announcing the Online Trust Audit &. Honor Roll Results
 
 Do you know how – or even if – your favorite retailer, or your bank, or your ISP is...
-
-OTA’s Online Trust Audit Scores Consumer-facing U.S. Government Websites Highest in Security and Privacy. Healthcare Comes in Last Press Releases 16 April 2019 OTA’s Online Trust Audit Scores Consumer-facing U.S. Government Websites Highest in Security and Privacy. Healthcare Comes in Last
-
-“From the global economy to daily individual interactions, more and more of our lives are conducted online. Yet every...
 
 Load More Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team Megan Kruse photo Megan Kruse
 
