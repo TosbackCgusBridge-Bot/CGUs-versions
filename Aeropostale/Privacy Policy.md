@@ -166,6 +166,7 @@ Close submenu ( Guys Jeans ) Guys Jeans
 *   Carpenter Jeans
 *   Real Denim
 *   Flex Effects
+*   Max Stretch
 
 Close submenu ( Shorts ) Shorts
 
@@ -400,6 +401,7 @@ Menu Find a Store Aeropostale
         *   Carpenter Jeans
         *   Real Denim
         *   Flex Effects
+        *   Max Stretch
     
 *   Shorts
     
