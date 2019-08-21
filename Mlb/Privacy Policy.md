@@ -1,249 +1,4 @@
-Globe iconLogin iconRecap iconSearch iconTickets icon Scores News Video Standings Stats Schedule Players MLB.TV Tickets Apps Shop Auction Fantasy Play Ball Teams EN
-
-*   Scores
-*   News News In This Section
-    
-    *   Probable Pitchers
-    *   Top Prospects
-    *   Injury Updates
-    *   Transactions
-    *   Starting Lineups
-    *   Hall of Fame
-    *   Postseason history
-    *   Awards
-    *   MLB Draft
-    *   All-Star Game
-    
-    Featured
-    *   Cut4
-    *   Field of Dreams
-    *   Play Ball
-    *   Pipeline
-    *   MLB Photos
-    *   Rare Feats
-    *   Reporter's Inbox
-    *   Trade Talk and Rumors
-    *   Glossary
-    *   Extra Innings
-*   Video Video In This Section
-    
-    *   Watch Live Games
-    *   Condensed Games
-    *   Game Recaps
-    *   MLB in 60 Seconds
-    *   Daily FastCast
-    *   Instant Replay
-    *   10,000s of GIFs
-    *   MLB Network
-    *   Podcasts
-    *   Business of Baseball
-    *   Must C
-    
-    Featured
-    *   Most Popular
-    *   Home Runs
-    *   Walk-Offs
-    *   Top Defensive Plays
-    *   Grand Slams
-    *   Best of Statcast
-    *   Extra Inning Moments
-    *   Chatting Cage
-    *   Must C
-    *   Carry The Freight
-*   Standings Standings Standings
-    *   2019 Regular Season Standings
-    *   2019 Spring Training Standings
-    *   2018 Postseason Bracket
-    *   2018 Regular Season Standings
-    *   2017 Wild Card Standings
-    *   2017 Regular Season Standings
-    *   2016 Regular Season Standings
-*   Stats Stats Stats
-    *   2019 Regular Season Stats
-    *   2019 Regular Season League Leaders
-    *   2019 Sortable Team Stats
-    *   Spring Training Sortable Stats
-    *   Postseason Sortable Stats
-    *   Statcast Leaders
-    *   Milestone Tracker
-    *   Offseason Leagues
-    *   Scoring Changes
-    *   Glossary
-*   Schedule Schedule Schedule
-    *   2019 Regular Season
-    *   2019 Postseason Schedule
-    *   2020 Regular Season
-    *   Important Dates
-    *   Team by Team Schedule
-    *   National Broadcasts
-    *   Sunday Night Broadcasts
-    *   Probable Pitchers
-*   Players Players Players
-    *   Player Search
-    *   Injury Updates
-    *   Depth Charts
-    *   Transactions
-    *   Starting Lineups
-    *   Top Prospects
-    *   Mobile Player Alerts
-    *   MLB Players Association
-    *   Probable Pitchers
-*   MLB.TV MLB.TV MLB.TV
-    *   Buy MLB.TV
-    *   Watch MLB.TV
-    *   Buy Gameday Audio
-    *   Buy Follow Your Team
-    *   Buy MLB.TV Gift Cards
-    *   MLB.TV Supported Devices
-    *   MLB.TV with Extra Innings
-    *   MLB.TV with Amazon Prime
-    *   MLB.TV Help Center/FAQs
-    *   MLB.TV Blackouts FAQ
-    *   MLB.TV National Blackout Schedule
-    *   Contact Us
-    *   Forgot Password?
-*   Tickets Tickets Tickets
-    *   General Ticket Information
-    *   Season Tickets
-    *   Big League Tours
-    *   Autism Awareness
-    *   Fan Value
-    *   StubHub.comBig League Tours
-*   Apps Apps Apps
-    *   MLB At Bat
-    *   MLB Ballpark
-    *   MiLB First Pitch
-    *   R.B.I. Baseball 19
-    *   MLB Home Run Derby
-    *   MLB Beat the Streak
-    *   MLB Line Drive
-    *   MLB At Bat FAQs
-    *   MLB Ballpark FAQs
-*   Shop Shop US Shop
-    
-    *   Jerseys
-    *   Caps
-    *   Men's
-    *   Women's
-    *   Kids
-    *   Big &. Tall
-    *   Collectibles &. Memorabilia
-    *   Home &. Office
-    *   Clearance
-    *   Gift Certificates
-    *   Wine
-    *   Photo Store
-    
-    European Shop
-    
-    *   Home
-    *   Jerseys
-    *   Caps
-    *   Men's
-    *   Women's
-    
-    Auctions - Bid or Buy Now
-    *   Authentication
-    *   Autographed
-    *   Baseball Cards
-    *   Baseballs
-    *   Bats
-    *   Caps
-    *   Experiences
-    *   Game-Used
-    *   Jerseys
-    *   PhotosAuctions
-*   Auction
-*   Fantasy Fantasy Fantasy
-    *   MLB Beat the Streak
-    *   R.B.I. Baseball 19
-    *   MLB Home Run Derby
-    *   MLB Line Drive
-    *   Player News &. Updates
-    *   Closer Report
-    *   Injury Report
-    *   WGT Baseball: MLB
-    *   Prospect Watch
-    *   MLB Champions2019 Beat the Streak Yahoo Fantasy MLB Champions
-*   Play Ball Play Ball Play Ball
-    *   PlayBall.org
-    *   Hank Aaron Invitational
-    *   Videos
-    *   Photos
-    *   News
-    *   Pitch Smart
-    *   Play Ball Near You
-    *   States Play
-    *   Parent/Coach Education
-    *   RBI
-    *   Pitch, Hit &. Run
-    *   Jr. Home Run Derby
-    *   MLB Pipeline
-    *   Youth Academies
-    *   Breakthrough Series
-    *   Elite Development Invitational
-    *   USA Baseball
-    *   USA Softball
-    *   Dream Series
-    *   Trailblazer SeriesRBI Trailblazer Series
-*   Teams Teams
-    *   American League
-        *   AL East
-            *   Baltimore
-            *   Boston
-            *   NY Yankees
-            *   Tampa Bay
-            *   Toronto
-        *   AL Central
-            *   Chi White Sox
-            *   Cleveland
-            *   Detroit
-            *   Kansas City
-            *   Minnesota
-        *   AL West
-            *   Houston
-            *   LA Angels
-            *   Oakland
-            *   Seattle
-            *   Texas
-    *   National League
-        *   NL East
-            *   Atlanta
-            *   Miami
-            *   NY Mets
-            *   Philadelphia
-            *   Washington
-        *   NL Central
-            *   Chi Cubs
-            *   Cincinnati
-            *   Milwaukee
-            *   Pittsburgh
-            *   St. Louis
-        *   NL West
-            *   Arizona
-            *   Colorado
-            *   LA Dodgers
-            *   San Diego
-            *   San Francisco
-*   EN Languages Languages
-    *   English
-        
-        Welcome to MLB.com, the official site of Major League Baseball
-        
-    *   Español
-        
-        Bienvenido a LasMayores.com, el sitio oficial de Las Grandes Ligas de Béisbol.
-        
-    *   日本語
-        
-        Major League Baseball オフィシャルサイト、MLB.comへようこそ
-        
-    *   한국어
-        
-        Major League Baseball 의 공식 사이트, MLB.com에 오신 것을 환영합니다
-        
-
-MLB Privacy Policy Privacy Policy
+Globe iconLogin iconRecap iconSearch iconTickets icon Standings2019 Regular Season Standings2019 Spring Training Standings2018 Postseason Bracket2018 Regular Season Standings2018 Wild Card Standings2017 Regular Season StandingsScoresSchedule2019 Regular Season2019 PostseasonImportant Dates2020 Regular Season2020 Spring TrainingProbable PitchersTeam by Team ScheduleNational BroadcastsSunday Night BroadcastsStats2019 Regular Season Stats2019 Regular Season League Leaders2019 Sortable Team StatsSpring Training Sortable StatsPostseason Sortable StatsStatcast LeadersMilestone TrackerOffseason LeaguesScoring ChangesGlossaryPlayersPlayer SearchInjury UpdatesDepth ChartsTransactionsStarting LineupsTop ProspectsMobile Player AlertsMLB Players AssociationProbable PitchersVideoIn this sectionWatch Live GamesCondensed GamesGame RecapsMLB in 60 SecondsDaily FastCastInstant Replay10,000's of GIFsMLB NetworkPodcastsBusiness of BaseballFeaturedMost PopularHome RunsWalk-OffsTop Defensive PlaysGrand SlamsBest of StatcastExtra Inning MomentsChatting CagePlayers of the WeekCarry the FreightNewsIn this sectionProbable PitchersTop ProspectsInjury UpdatesTransactionsStarting LineupsHall of FamePostseason HistoryAwardsMLB DraftAll-Star GameFeaturedPipelineCut4Play BallField of DreamsMLB Photos2020 Free AgentsGlossaryRare FeatsNicknamesExtra InningsPlay BallPlayBall.orgHank Aaron InvitationalVideosPhotosNewsPitch SmartPlay Ball Near YouStates PlayParent/Coach EducationRBIPitch, Hit &. RunJr. Home Run DerbyMLB PipelineYouth AcademiesBreakthrough SeriesElite Development InvitationalUSA BaseballUSA SoftballDream SeriesTrailblazer SeriesFantasyMLB Beat the StreakR.B.I. Baseball 19MLB Home Run DerbyMLB Line DriveCloser ReportInjury ReportProspect WatchMLB ChampionsFollow @Fantasy411AppsMLB At BatMLB BallparkMiLB First PitchR.B.I. Baseball 19MLB Home Run DerbyMLB Beat the StreakMLB Line DriveMLB At Bat FAQsMLB Ballpark FAQsTicketsGeneral Ticket InformationSeason TicketsBig League ToursFan ValueStubHub.comMLB.TVBuy MLB.TVWatch MLB.TVBuy Gameday AudioBuy Follow Your TeamBuy MLB.TV Gift CardsMLB.TV Supported DevicesMLB.TV with Extra InningsMLB.TV Help Center/FAQMLB.TV Blackouts FAQMLB.TV National Blackout ScheduleContact UsForgot Password?ShopAuctionAuthenticationAutographedJerseysCapsMen'sWomen'sKidsCollectibles &. MemorabiliaHome &. OfficeGift CertificatesEuropean ShopWinePhoto StoreTeamsAL EastBaltimore OriolesBaltimoreBoston Red SoxBostonNew York YankeesNY YankeesTampa Bay RaysTampa BayToronto Blue JaysTorontoAL CentralChicago White SoxChi White SoxCleveland IndiansClevelandDetroit TigersDetroitKansas City RoyalsKansas CityMinnesota TwinsMinnesotaAL WestHouston AstrosHoustonLos Angeles AngelsLA AngelsOakland AthleticsOaklandSeattle MarinersSeattleTexas RangersTexasNL EastAtlanta BravesAtlantaMiami MarlinsMiamiNew York MetsNY MetsPhiladelphia PhilliesPhiladelphiaWashington NationalsWashingtonNL CentralChicago CubsChi CubsCincinnati RedsCincinnatiMilwaukee BrewersMilwaukeePittsburgh PiratesPittsburghSt. Louis CardinalsSt. LouisNL WestArizona DiamondbacksArizonaColorado RockiesColoradoLos Angeles DodgersLA DodgersSan Diego PadresSan DiegoSan Francisco GiantsSan FranciscoENENES日本語한국어Log InTicketsTickets HomeGeneral Ticket InformationSeason TicketsBig League ToursFan ValueStubHub.comMLB.TVMLB.TV HomeBuy MLB.TVWatch MLB.TVBuy Gameday AudioBuy Follow Your TeamBuy MLB.TV Gift CardsMLB.TV Supported DevicesMLB.TV with Extra InningsMLB.TV Help Center/FAQMLB.TV Blackouts FAQMLB.TV National Blackout ScheduleContact UsForgot Password?ShopShop HomeAuctionAuthenticationAutographedJerseysCapsMen'sWomen'sKidsCollectibles &. MemorabiliaHome &. OfficeGift CertificatesEuropean ShopWinePhoto StoreStandingsStandings Home2019 Regular Season Standings2019 Spring Training Standings2018 Postseason Bracket2018 Regular Season Standings2018 Wild Card Standings2017 Regular Season StandingsScoresScheduleSchedule Home2019 Regular Season2019 PostseasonImportant Dates2020 Regular Season2020 Spring TrainingProbable PitchersTeam by Team ScheduleNational BroadcastsSunday Night BroadcastsStatsStats Home2019 Regular Season Stats2019 Regular Season League Leaders2019 Sortable Team StatsSpring Training Sortable StatsPostseason Sortable StatsStatcast LeadersMilestone TrackerOffseason LeaguesScoring ChangesGlossaryPlayersPlayers HomePlayer SearchInjury UpdatesDepth ChartsTransactionsStarting LineupsTop ProspectsMobile Player AlertsMLB Players AssociationProbable PitchersVideoIn this sectionVideo HomeWatch Live GamesCondensed GamesGame RecapsMLB in 60 SecondsDaily FastCastInstant Replay10,000's of GIFsMLB NetworkPodcastsBusiness of BaseballFeaturedMost PopularHome RunsWalk-OffsTop Defensive PlaysGrand SlamsBest of StatcastExtra Inning MomentsChatting CagePlayers of the WeekCarry the FreightNewsIn this sectionNews HomeProbable PitchersTop ProspectsInjury UpdatesTransactionsStarting LineupsHall of FamePostseason HistoryAwardsMLB DraftAll-Star GameFeaturedPipelineCut4Play BallField of DreamsMLB Photos2020 Free AgentsGlossaryRare FeatsNicknamesExtra InningsPlay BallPlay Ball HomePlayBall.orgHank Aaron InvitationalVideosPhotosNewsPitch SmartPlay Ball Near YouStates PlayParent/Coach EducationRBIPitch, Hit &. RunJr. Home Run DerbyMLB PipelineYouth AcademiesBreakthrough SeriesElite Development InvitationalUSA BaseballUSA SoftballDream SeriesTrailblazer SeriesFantasyFantasy HomeMLB Beat the StreakR.B.I. Baseball 19MLB Home Run DerbyMLB Line DriveCloser ReportInjury ReportProspect WatchMLB ChampionsFollow @Fantasy411AppsApps HomeMLB At BatMLB BallparkMiLB First PitchR.B.I. Baseball 19MLB Home Run DerbyMLB Beat the StreakMLB Line DriveMLB At Bat FAQsMLB Ballpark FAQsTeamsAL EastBaltimore OriolesBaltimoreBoston Red SoxBostonNew York YankeesNY YankeesTampa Bay RaysTampa BayToronto Blue JaysTorontoAL CentralChicago White SoxChi White SoxCleveland IndiansClevelandDetroit TigersDetroitKansas City RoyalsKansas CityMinnesota TwinsMinnesotaAL WestHouston AstrosHoustonLos Angeles AngelsLA AngelsOakland AthleticsOaklandSeattle MarinersSeattleTexas RangersTexasNL EastAtlanta BravesAtlantaMiami MarlinsMiamiNew York MetsNY MetsPhiladelphia PhilliesPhiladelphiaWashington NationalsWashingtonNL CentralChicago CubsChi CubsCincinnati RedsCincinnatiMilwaukee BrewersMilwaukeePittsburgh PiratesPittsburghSt. Louis CardinalsSt. LouisNL WestArizona DiamondbacksArizonaColorado RockiesColoradoLos Angeles DodgersLA DodgersSan Diego PadresSan DiegoSan Francisco GiantsSan FranciscoTeams HomeTeams HomeENEN HomeENES日本語한국어 MLB Privacy Policy Privacy Policy
 
 **PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING THIS WEBSITE, APPLICATION OR ANY OTHER MLB ADVANCED MEDIA, L.P. PRODUCT OR SERVICE.**
 
@@ -377,6 +132,7 @@ New York, NY 10011
     *   Press Releases
 *   HELP/CONTACT US
     *   Contact MLB Customer Support
+    *   Help/Contact Us
     *   MLB.TV Help Center
     *   Accessibility Information
     *   Auctions Customer Service
@@ -402,12 +158,11 @@ New York, NY 10011
     *   LasMayores.com
     *   MLBCommunity.org
     *   AllStarGame.com
-    *   mlb.com/DR
-    *   mlb.com/kids
+    *   MLB.com/DR
+    *   MLB.com/Kids
     *   MLB Photo Store
     *   Offseason Leagues
-    *   PlayBall.Org
-    *   Player Resource Center
+    *   PlayBall.org
 *   CAREERS
     *   Careers with MLB.com
     *   Careers with the Commissioner's Office
@@ -416,7 +171,7 @@ New York, NY 10011
 Connect with MLB
 
 *   Terms of Use
-*   Privacy Policy (Updated May 24, 2018)
+*   Privacy Policy (updated May 24, 2018)
 *   Legal Notices
 *   Contact Us
 *   Cookie Preferences
