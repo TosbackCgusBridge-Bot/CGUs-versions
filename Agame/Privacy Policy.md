@@ -119,8 +119,8 @@ View more results
     *   Tom and Jerry: Mouse Maze
     *   Fire Balls
     *   Five Nights at Freddy's 5
-    *   Five Nights at Freddy's: Ultimate
     *   Trap Adventure 2
+    *   Five Nights at Freddy's: Ultimate
     *   FNAF World
     *   Fireboy and Watergirl 5: Elements
 *   Top Categories
@@ -214,8 +214,8 @@ View more results
     *   Country Ride: Race Car Game
     *   Agame Stunt Cars
     *   Rally Point 2: Dirt Track Racing Game
-    *   Madalin Cars Multiplayer
     *   Moto X3M: Motorcycle Racing Game
+    *   Madalin Cars Multiplayer
     *   Bike Racing: Motorcycle Game
     *   Russian Car Driver
     *   Neon Biker
