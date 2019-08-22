@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
+*   My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -27,7 +27,7 @@ Shop Departments
     *   Backpacks
     *   Shop All Back To School
 
-Near YouFind a StoreBackTIME TO HIT REFRESHChange is in the air. Get into what’s new! Fall in love with cool, stylish picks from a.n.a or suit up for a new adventure with versatile looks from St. John’s Bay. 
+Near YouFind a StoreBackFinal Hours Of COUPON CODE ACTNOW21ENDS IN00HOURS 40MINS 37SECS See Details\*Extra 30% off select apparel, shoes, accessories, fine jewelry and home purchases of $100 or more. Extra 25% off select purchases under $100. Extra 10% off select furniture, mattresses, housewares, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches and salon products. Each offer good at jcp.com only, excluding taxes and shipping charges, 8/21/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Best Value, Daily Deals, Limited Time Specials, Levi's, Denizen from Levi’s, Disney Collection, Disney Tsum Tsum, French Toast, Fisher-Price, Fanatics, Licensed Team Sports Merchandise, Columbia, Carhartt, Nike, adidas, Reebok, Puma, Champion, Converse, Clarks, Skechers Women's Shoes, Skechers Athletic Shoes, Bobs from Skechers, Keds, Grasshoppers, Athletic Shoes, Goddess Lingerie, Dreamgirl, Jewelry Trunk Shows, Modern Bride Design Your Dream Ring, Pre-Owned Watches, Smartwatches, Garmin, Fitbit, Sephora, Food, Penney Lane, S'ip by S'well, Electronics, In-Home Custom Design, Tempur-Pedic, Neato Robotics, iRobot, Sporting Goods/Outdoor Gear, Toys, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Personalized Jewelry, Wigs and Extensions, Purchase with Purchase Items, In-Store Services, Service Plans, Gift Cards, Closing Store purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. $ off savings applied to all qualifying items on prorated basis. any refunds will be given in the prorated amount. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code ACTNOW21 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. DetailsTIME TO HIT REFRESHChange is in the air. Get into what’s new! Fall in love with cool, stylish picks from a.n.a or suit up for a new adventure with versatile looks from St. John’s Bay. 
 
 *   SHOP ALL
 
@@ -40,7 +40,7 @@ Near YouFind a StoreBackTIME TO HIT REFRESHChange is in the air. Get into what�
 *   St. John’s Bay pants
     
 
-SHOP ALLARIZONA DENIM FOR THE FAMILY**BUY 1 GET 1 FREE\* BOYS' OR GIRLS' JEANS** select style | reg. $30-$42 | \*Buy one item at regular price, get the second item of equal or lesser value for free, while supplies last.
+SHOP ALLARIZONA DENIM FOR THE FAMILY**BUY 1 GET 1 FREE\* BOYS' OR GIRLS' JEANS**select style | reg. $30-$42 | \*Buy one item at regular price, get the second item of equal or lesser value for free, while supplies last.  
 
 *   BOYS
 *   GIRLS
@@ -68,53 +68,85 @@ SEE IT. SHOP IT. #AllAtJCPMedia CarouselSlide 1 of 4. UP TO 70% OFF WOMEN'S SAND
 
 *   SPECIAL DEAL!
     
-    $3824after couponwas $60 Liz Claiborne Womens Kadin Heeled Sandals(6)Add To Cart
+    $2249after couponwas $60 Liz Claiborne Womens Gloria Heeled Sandals(9)Add To Cart
 *   SPECIAL DEAL!
     
-    $2549after couponwas $60 Liz Claiborne Womens Gloria Heeled Sandals(9)Add To Cart
+    $3374after couponwas $60 Liz Claiborne Womens Kadin Heeled Sandals(7)Add To Cart
 *   SPECIAL DEAL!
     
-    $3824after couponwas $60 Liz Claiborne Womens Eastwick Strap Sandals(13)Add To Cart
+    $2249after couponwas $70 Liz Claiborne Womens Bahati Heeled Sandals(4)Add To Cart
 *   SPECIAL DEAL!
     
-    $2549after couponwas $70 Liz Claiborne Womens Bahati Heeled Sandals(4)Add To Cart
+    $3374after couponwas $60 Liz Claiborne Womens Eastwick Strap Sandals(13)Add To Cart
 *   SPECIAL DEAL!
     
-    $2549after couponwas $60 Liz Claiborne Womens Ivalyn Wedge Sandals(6)Add To Cart
+    $2249after couponwas $60 Liz Claiborne Womens Ivalyn Wedge Sandals(6)Add To Cart
 *   SPECIAL DEAL!
     
-    $2974after couponwas $55 east 5th Womens Vane Wedge Sandals(3)Add To Cart
+    $2624after couponwas $55 east 5th Womens Vane Wedge Sandals(3)Add To Cart
 *   SPECIAL DEAL!
     
-    $2549after couponwas $60 Liz Claiborne Womens Lambert Heeled Sandals(4)Add To Cart
+    $2249after couponwas $60 Liz Claiborne Womens Lambert Heeled Sandals(4)Add To Cart
+
+UP TO 70% OFF SWIM FOR THE FAMILYSHOP ALLSELECT STYLESUP TO 70% OFF SWIM FOR THE FAMILYSELECT STYLESSHOP ALL
+
+*   SPECIAL DEAL!
+    
+    $1199after couponwas $40 The Foundry Big &. Tall Supply Co. Swim Trunks Big and Tall(3)Add To Cart
+*   SPECIAL DEAL!
+    
+    $1099 sale
+    
+    was $24 Disney Moana One Piece Swimsuit Girls(2)Add To Cart
+*   SPECIAL DEAL!
+    
+    $899 sale
+    
+    was $20 Disney Boys Mickey Mouse Rash Guard(1)Add To Cart
+*   SPECIAL DEAL!
+    
+    $974after couponwas $40 The Foundry Big &. Tall Supply Co. Swim Trunks Big(1)Add To Cart
+*   SPECIAL DEAL!
+    
+    $1099 sale
+    
+    was $24 Disney Minnie Mouse One Piece Swimsuit Girls(2)Add To Cart
+*   SPECIAL DEAL!
+    
+    $1099 sale
+    
+    was $24 Disney Girls Moana Cover-Up(1)Add To Cart
+*   SPECIAL DEAL!
+    
+    $9after couponwas $40 Carter's 3-Pc. Girls Tankini Set - Baby(6)Add To Cart
 
 UP TO 70% OFF SHORTS FOR THE FAMILYSHOP ALLSELECT STYLESUP TO 70% OFF SHORTS FOR THE FAMILYSELECT STYLESSHOP ALL
 
 *   SPECIAL DEAL!
     
-    $849after couponwas $36 St. John's Bay Men's Stretch Chino Short(82)Add To Cart
+    from$749after couponwas $32 - $37 Arizona Boys Stretch Adjustable Waist Cargo Short Preschool / Big Kid(15)Add To Cart
 *   SPECIAL DEAL!
     
-    from$849after couponwas $32 - $37 Arizona Boys Stretch Adjustable Waist Cargo Short Preschool / Big Kid(15)Add To Cart
+    from$749after couponwas $32 - $37 Arizona Boys Stretch Pull-On Short Preschool / Big Kid(7)Add To Cart
 *   SPECIAL DEAL!
     
-    from$849after couponwas $32 - $37 Arizona Boys Stretch Pull-On Short Preschool / Big Kid(7)Add To Cart
+    from$749after couponwas $30 - $35 Arizona Boys Stretch Adjustable Waist Chino Short Preschool / Big Kid(25)Add To Cart
 *   SPECIAL DEAL!
     
-    from$849after couponwas $30 - $35 Arizona Boys Stretch Adjustable Waist Chino Short Preschool / Big Kid(25)Add To Cart
+    from$749after couponwas $27 - $32 Arizona Boys Stretch Jogger Short Preschool / Big Kid(7)Add To Cart
 *   SPECIAL DEAL!
     
-    from$849after couponwas $27 - $32 Arizona Boys Stretch Jogger Short Preschool / Big Kid(7)Add To Cart
+    $750after couponwas $32 - $37 Arizona Boys Stretch Hybrid Short Preschool / Big KidAdd To Cart
 *   SPECIAL DEAL!
     
-    $850after couponwas $32 - $37 Arizona Boys Stretch Hybrid Short Preschool / Big KidAdd To Cart
+    from$749after couponwas $27 - $32 Arizona Boys Stretch Pull-On Short Preschool / Big KidAdd To Cart
 *   SPECIAL DEAL!
     
-    $849after couponwas $27 St. John's Bay Active Womens Mid Rise Drawstring Waist 9 1/2" Bermuda Short(6)Add To Cart
+    $449after couponwas $17 Okie Dokie Boys Pull-On Short Toddler(2)Add To Cart
 
 Recommended for You
 
-*   $849after couponwas $19 St. John's Bay 3/4 Sleeve V-Neck Tee - Plus(2)
+*   $849after couponwas $19 St. John's Bay 3/4 Sleeve V-Neck Tee - Plus(3)
 *   from$3999 sale
     
     was $60 | 15 - 33% offNike Revolution 4 Womens Lace-up Running Shoes(119)
@@ -122,11 +154,11 @@ Recommended for You
     
     from$7 sale
     
-    was $20 - $22 | 65 - 68% offIzod Exclusive Girls Spread Collar Short Sleeve Stretch Polo Shirt(39)
+    was $20 - $22 | 65 - 68% offIzod Exclusive Girls Spread Collar Short Sleeve Stretch Polo Shirt(40)
 *   $4399 sale
     
-    was $55 | 20% offNike Hayward 2.0 Backpack(2)
-*   from$254after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(275)
+    was $55 | 20% offNike Hayward 2.0 Backpack(3)
+*   from$254after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(276)
 *   from$6369
     
     Nike Air Max Motion 2 Womens Lace-up Running Shoes(5)
