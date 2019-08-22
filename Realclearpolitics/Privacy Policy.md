@@ -113,53 +113,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Russell Berman_: Electability Voters Are the Reason Biden Is Leading
+*   _David Graham_: Donald Trump's Economic Anxiety
     
-*   _Daniel McCarthy_: Why Joe Biden Won't Win
+*   _Liz Peek_: 2020 Dems Have More to Fear From a Recession Than Trump Does
     
-*   _Alex Seitz-Wald_: Why Bernie Sanders Can't Stand the Media
+*   _Ted Johnson_: The Obamas' First Big Anti-Trump Statement of 2020
     
-*   _Ted Johnson_: Obamas' 1st Netflix Documentary Is an Anti-Trump Statement
+*   _John Solomon_: 10 Russia Collusion Revelations That Could Soon Rock D.C.
     
-*   _Miranda Devine_: Why So Many Come Together to Hear Trump Speak
+*   _Daniel Cox_: Is Trump Driving Young White Evangelicals Away From the GOP?
     
-*   _Emily Stewart_: How China Used Social Media to Spread Disinformation
+*   _John McCormack_: Why Kamala Harris Is Fading in the Democratic Primary
     
-*   _Tony Coelho_: Guns Are Killing Us, Not Mental Illness
+*   _James Hasson_: Many Journalists on 2020 Beat Coordinated With Clinton Camp
     
-*   _Charles Hurt_: Blame the Shooter, Not Law-Abiding Gun Owners
+*   _Brian Rosenwald_: How Talk Radio Ended Up Remaking the GOP
     
-*   _Reihan Salam_: Governors Are Losing the Space to Govern
+*   _Piers Morgan_: Populism Rises Because Left Has Become Unbearable
     
-*   _Ashley Feinberg_: The 1619 Project Made Conservatives Tell on Themselves
+*   _Alireza Naraghi_: McDonald's: Where Distressed America Takes Refuge
     
-*   _John Davidson_: The NYT's 1619 Project Is Garbage History
+*   _Carl Cannon_: Boos and Beer: Baseball Fans' Pitch to End Prohibition
     
-*   _Heather Mac Donald_: Trump Isn't the One Dividing Us by Race
+*   _John Kass_: Mueller Crushed Their Dreams, So Dems Pivot to Race
     
-*   _Matt Taibbi_: Trump 2020: Be Very Afraid
+*   _David Faris_: Rudderless Trump Administration Is Drifting Toward Disaster
     
-*   _Jonathan Easley_: Soft Levels of Support Mark This Year's Dem Primary
+*   _Byron York_: What We Need to Know From IG Report on Russia Probe
     
-*   _Andrew McCarthy_: 'Ball of Collusion': Obama's Anti-Trump Loyalists
+*   _Joe Lockhart_: Biden's Lead Confirms 2020 as a Battle for America's Soul
     
-*   _Hal Brands_: Trump's True Foreign Policy: Chaos
+*   _Victor Davis Hanson_: Progressive 2020 Dems Renounce Their Former Selves
     
-*   _James Piereson_: Despite Media Propaganda, Data Points to Economic Growth
+*   _Julia Ioffe_: The Summer of Elizabeth Warren
     
-*   _Frida Ghitis_: Hong Kong Protests Send a Loud and Clear Message
+*   _Andy Puzder_: Warren Is the Real Threat to Thriving Economy
     
-*   _Nick Taber_: The Tactical Brilliance of Hong Kong's Protesters
+*   _Jonathan Chait_: In a Case of Projection, GOP Suspects Economic Sabotage
     
-*   _Warren Henry_: Tlaib, Omar's Israel Trip Planned by Pro-Terrorist Group
+*   _Michael Tracey_: DNC Appears to Be Rigging Dem Primary Again in 2020
     
-*   _Aaron Freedman_: Why Dems Shouldn't Be Afraid to Talk About Socialism
+*   _Stuart Rothenberg_: Do Democrats Need a Backup Plan?
     
-*   _Anthony Scaramucci_: I Was Wrong About Trump. Here's Why.
+*   _Dennis Prager_: Criticism of Israel Is Not Anti-Semitism. Anti-Zionism Is
     
-*   _David Catron_: Why Trump's Approval Is Up Among Minorities
+*   _Dahlia Lithwick_: Donald Trump Is Bad for the Jews
     
-*   _Ibram Kendi_: The Hopefulness and Hopelessness of 1619
+*   _Tammy Bruce_: China Paying Attention to Trump's Greenland Idea
     
 
 *   Previous
@@ -230,11 +230,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Leaving Afghanistan: Hawks and Doves Weigh Risks
 *   Will '80s Stance on 'Ethnocide' Harm Sanders With Native Americans?
-*   'Ball of Collusion' Excerpt: All Obama's Anti-Trump Loyalists
-*   Ilhan Omar: Israel's Actions "Not Consistent" With Being An Ally
-*   U.S. Prisons Chief Removed From Position After Epstein's Death
-*   As Rivals Head to California, Biden Chooses New Hampshire
+*   Morgan: Populism Is Rising Because Liberals Have Become Unbearable
+*   Trump Cancels Denmark Visit Because Greenland Isn’t for Sale
+*   Outside Money Flows Into Race for Susan Collins’ Senate Seat
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,59 +247,37 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationCNN
-    *   Biden29
-    *   Warren14
-    *   Sanders15
-    *   Harris5
-    *   Buttigieg5
+*   2020 Democratic Presidential NominationEconomist/YouGov
+    *   Biden22
+    *   Sanders19
+    *   Warren18
+    *   Harris8
+    *   Buttigieg8
     *   O'Rourke3
     *   Booker2
     *   Yang1
     *   Gabbard2
-    *   Castro2
-    *   Klobuchar1
-    *   Steyer1
-    *   Williamson0Biden +14
-*   Nevada Democratic Presidential CaucusGravis
-    *   Biden25
-    *   Warren15
-    *   Sanders10
-    *   Harris9
-    *   Buttigieg5
-    *   Steyer6
-    *   Booker3
-    *   Yang2
-    *   O'Rourke0
-    *   Klobuchar2
     *   Castro1
-    *   Gabbard2
-    *   de Blasio2Biden +10
-*   Colorado Democratic PrimaryEmerson
-    *   Sanders26
-    *   Biden25
-    *   Warren20
-    *   Harris13
-    *   Buttigieg5
-    *   Yang4
-    *   Booker2
-    *   O'Rourke1
-    *   Gabbard1
-    *   Williamson1
-    *   Ryan1
-    *   Bennet1
-    *   de Blasio1Sanders +1
-*   Colorado: Trump vs. BidenEmerson
-    *   Biden55
-    *   Trump45Biden +10
+    *   Klobuchar0
+    *   Steyer0
+    *   Williamson0Biden +3
+*   President Trump Job ApprovalCNN
+    *   Approve41
+    *   Disapprove54Disapprove +13
+*   President Trump Job ApprovalPolitico/Morning Consult
+    *   Approve42
+    *   Disapprove55Disapprove +13
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve42
+    *   Disapprove54Disapprove +12
 
 More Latest Polls In The News
 
-*   Spike Lee: Why Are We Still Asking If Trump Is A White Supremacist? It's Not Even A Question Anymore
+*   Friedman: Trump Has No Idea Why The World Works, There's The United States Of America and United States Of Europe
+*   O'Rouke: Trump "Depraved" For Visiting El Paso Victims, "He Was In Large Part To Blame For The Shooting"
+*   Tim Ryan: Harry Reid Is Right, 2020 Contenders Have Plans Too Progressive To Win General Election
+*   Trump: American Jews Who Vote For Democrats Are "Disloyal To Israel And The Jewish People"
 *   Piers Morgan: "Populism Is Rising Because Liberals Have Become Unbearable," "People Are Fed Up With PC Culture"
-*   Biden Touts Polls, Obama In First TV Ad: "We Have To Beat Trump And All The Polls Agree"
-*   Tucker Carlson: In The End, Obama Will Not Be There For Biden. "Eternal Friendship Has Already Ended"
-*   Peter Beinart vs. Rich Lowry on Miftah: "Palestinians Don't Have To Be Saints In Order To Have Basic Human Rights"
 
 *   Politics
 *   Policy
