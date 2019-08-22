@@ -1138,3 +1138,5 @@ Help
 *   41\. 2019 EPA-estimated 41 city/38 hwy/40 combined mpg estimates for RAV4 Hybrid AWD. Actual mileage will vary. Based on 2019 RAV4 Hybrid vs. 2019 competitors. Information from www.fueleconomy.gov as of March 4, 2019.
 *   42\. 2020 EPA-estimated 24 city/31 highway/26 combined mpg for GR Supra 3.0, 3.0 Premium and Launch Edition. Actual mileage will vary.
 *   43\. 2020 preliminary mpg estimates determined by Toyota. EPA estimates not available at time of posting. Actual mileage will vary.
+*   44\. 2020 Avalon Hybrid XLE preliminary 43 city/44 highway/44 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
+*   45\. 2020 Avalon XLE preliminary 22 city/32 highway/26 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
