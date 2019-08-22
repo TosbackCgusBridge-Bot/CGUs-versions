@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Free shipping, no minimum on all orders
+Receive 20% off your order
 
-code: SHIPNOW pin: 1099PROMOTION DETAILS
+code: BREEZE pin: 1616PROMOTION DETAILS
 
 Customer Service Menu
 
