@@ -47,8 +47,8 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Let's Fish!: Multiplayer Fishing Game Online
     *   Family Barn
+    *   Let's Fish!: Multiplayer Fishing Game Online
     *   Backgammon: Board Game Online Multiplayer
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Fireboy and Watergirl: The Forest Temple
@@ -177,8 +177,8 @@ View more results
     Best Games
     *   Ellie: Get Ready With Me
     *   Pixel Art: Color by Number
-    *   Back To School: Princesses Rush
     *   Burger Restaurant Express
+    *   Back To School: Princesses Rush
     *   Popstar Dentist
     *   The Princess: Sent to the Future - Dress Up Game
     *   Vincy Lip Care
@@ -458,4 +458,5 @@ Languages
 Copyright © 2019 SPIL GAMES All rights reserved.
 
 Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
-Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.AcceptSettingsA reminder you can control your user privacy preferenceshere
+Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.  
+You can change your mind and change your consent choices at any time by returning to this site.AcceptSettingsA reminder you can control your user privacy preferenceshere
