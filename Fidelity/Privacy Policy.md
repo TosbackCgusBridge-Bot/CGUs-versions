@@ -23,6 +23,7 @@ Search fidelity.com or get a quote
     *   Trade Log In Required
     *   Trade
     *   Active Trader Pro
+    *   Transfer Log In Required
     *   Transfer
     *   Cash Management Log In Required
     *   Cash Management
