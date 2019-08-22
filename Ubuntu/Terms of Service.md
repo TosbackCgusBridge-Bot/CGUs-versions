@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Jupyter looks to distro-agnostic packaging for the democratisation of installation ›
+*   How to add a linter to ROS 2 ›
 *   How to integrate Ubuntu with Active Directory ›
 *   Design and Web team summary – 16 August 2019 ›
 *   Linting ROS 2 Packages with mypy ›
-*   8 Ways Snaps are Different ›
-*   Why multi-cloud has become a must-have for enterprises: six experts weigh in ›
