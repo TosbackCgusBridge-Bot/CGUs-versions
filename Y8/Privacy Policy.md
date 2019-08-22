@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1383 games
-*   Most Popular Games 19718 games
+*   Best of new games 1376 games
+*   Most Popular Games 19726 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,341 games
+*   Games for girls 24,342 games
 *   Driving &. Racing Games 6,871 games
 *   Strategy &. RPG Games 2,434 games
 *   Management Games 3,664 games
-*   Thinking Games 12,286 games
-*   Action &. Adventure Games 16,418 games
-*   Sports Games 2,291 games
-*   Shooting Games 8,534 games
+*   Thinking Games 12,285 games
+*   Action &. Adventure Games 16,420 games
+*   Sports Games 2,292 games
+*   Shooting Games 8,535 games
 *   Fighting Games 2,104 games
-*   Skill Games 11,527 games
-*   Arcade &. Classic Games 13,412 games
-*   Fun &. Crazy Games 2,568 games
+*   Skill Games 11,526 games
+*   Arcade &. Classic Games 13,414 games
+*   Fun &. Crazy Games 2,570 games
 
 Play with friends  
 Powered by Y8 Account 130 Y8 Multiplayer Games 2,061 Y8 High Score Games 1,167 Y8 Achievements Games 829 Y8 Screenshots Games 1,486 Y8 Online Save Games 3,133 All Y8 Games Games Last Highscore:
 
-**6,600** points on Plumber Duck by mrs.green
+**8,270** points on Taz Mechanic Simulator by 09115599996
 
 Help us improve Bad translation? Social
 
@@ -274,3 +274,5 @@ If You have any questions, queries, comments, or requests, We are happy to recei
 *   Cookie Policy
 
 We use cookies for advertising, content recommendations, and traffic measurement. By using this website, you consent to the Privacy Policy and Cookie Policy. Got it
+
+Flash games are blocked by default in Chrome browser. In order to play them, we suggest you to use Firefox.
