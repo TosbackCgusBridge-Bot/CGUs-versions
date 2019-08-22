@@ -9,14 +9,34 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
-    *   Vince
-    *   Vince Shoes
-    *   Vince Men's Clothing &. Shoes
-    *   bObsweep PetHair Plus Robotic Vacuums at 78% Off
+    *   Gym to Street: Active ft. Z By Zella &. More
+    *   Footwear from Fabletics
+    *   Men's Active Sneakers from New Balance &. More
+    *   Z by Zella &. More: Men's Active Under $30
+    *   P.E. Style: Z By Zella Girls &. More
+    *   Gym Bags &. Backpacks Starting at $15
     *   KitchenAid
-    *   Free Shipping: Storage Solutions for Every Room
-    *   Free Shipping: NMK Bedding Up to 70% Off
+    *   Bony Levy
+    *   Gracia
+    *   Sharagano Incl. Plus &. Petites
+    *   Work Ready: Nine West, Calvin Klein Shoes &. More
+    *   Lace, Florals &. More: Styles Incl. Plus &. Petites
+    *   Knit Picks: Sweaters Under $50
+    *   Reebok Swim &. More
+    *   Bold Decor Updates
+    *   Stay Cozy: Girls' Hoodies, Joggers &. More
+    *   Free Shipping: Best Selling Bold Wall Art
+    *   Thorogood Rugged Boots &. More
+    *   Kids' Kickoff to Fall ft. Urban Republic Jackets
+    *   Back-to-School Shoes ft. Keds Up to 50% Off
+    *   Summer Suiting Under $250
+    *   IT Luggage Up to 60% Off
+    *   K-Beauty Makeup
+    *   Vince
+    *   Vince Men's Clothing &. Shoes
+    *   Vince Shoes
     *   Frye Handbags
+    
     *   Sun Brands We Love Under $60
     *   Magnanni Shoes &. Belts
     *   Andrew Marc Coats &. More Incl. Plus
@@ -27,78 +47,65 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Tahitian Pearl Jewelry &. More Under $80
     *   Carole Hochman &. More
     *   Date Night Styles ft. ASTR the Label
-    *   Stride Rite
     *   MIA &. MIA Amore from $25
     *   Sky Organics: Essential Oils, Bath Bombs &. More
     *   Supra Sneakers Up to 60% Off
     *   Habitual Kids
     *   Kids' School Uniforms ft. Nautica
-    *   Fit Favorites: Active Up to 65% Off
     *   adidas
     *   adidas Active Starting at $15
     *   adidas Men
     *   adidas Kids
-    
     *   adidas Men's Active Starting at $15
     *   T3 Hair Tools
     *   adidas Kids' Active
     *   adidas Tech
-    *   Must-Have Coats Up to 70% Off
-    *   Nation LTD Up to 65% Off
-    *   Flirty Finds: Dresses from WAYF &. More
-    *   Seven7 Incl. Plus
-    *   Stay in Summer Mode: Shorts Up to 60% Off
-    *   Rock Band Tees &. More Starting at $15
     *   Saachi Leather &. Gemstone Jewelry from $15
-    *   Sneakers ft. Converse &. Superga Shoes
     *   K Beauty: Asamo &. More
-    *   LOVE Moschino Up to 50% Off
     *   Men's Streetwear Styles ft. Obey &. More
-    *   Smart Luggage ft. Travelpro
     *   Kitchen Storage Starting at $10
+    
     *   LA Splash Starting at $10
     *   Kids' Fall Preview ft. Beautees &. More
     *   Playground Playwear Sets
-    *   Graphic Socks ft. Happy Socks &. Sof Sole
-    *   Insight Up to 70% Off
     *   Free Shipping: Kitchen Faves Blowout
-    *   Savvy Cie Italian Jewelry &. More Up to 80% Off
-    *   Swims Up to 65% Off
-    *   Booties, Pumps &. More Up to 60% Off
     *   Men's Shoes Up to 65% Off
     *   Cailyn Cosmetics Starting at $10
-    *   Roberto Cavalli Bags &. More Up to 70% Off
-    
-    *   SOREL Up to 50% Off
-    *   SOREL Men Up to 50% Off
-    *   Levi's Men's Outerwear &. More Starting at $20
     *   Best of Skin Care Under $30
-    *   LaFonn Simulated Diamond Jewelry Up to 70% Off
-    *   Bulova Watches Up to 65% Off
     *   Duvets &. More Up to 70% Off
     *   The Original Makeup Eraser
-    *   TR Premium Up to 80% Off
-    *   Levi's Kids
     *   Now Playing: Wireless Earbud Charger Cases
-    *   The Maternity Shop: Dresses, Leggings &. More
     *   Mario Badescu
     *   Terre Mere Organic Beauty Up to 75% Off
     *   Free Shipping: Home Organization Essentials
     *   PURA D'OR Hair Care Up to 50% Off
     *   Free Shipping: Luxe Faux Fur Accents Up to 80% Off
     *   Free Shipping: Eye-Catching Wall Art &. Decor
-    *   Last Call: Dresses Up to 70% Off
     *   Free Shipping: Colorful &. Fun Decor Up to 75% Off
     *   Tech Solutions Starting at $10
     *   Free Shipping: Luxe Bedding Essentials Under $60
-    *   Free Shipping: Hand-Painted Replicas Up to 70% Off
-    *   Cover FX
+    *   Must-Have Coats Up to 70% Off
+    *   Fit Favorites: Active Up to 65% Off
+    *   Stride Rite
+    *   Smart Luggage ft. Travelpro
     *   Free Shipping: Lamps to Brighten Up Any Room
-    *   Lancaster Paris Bags Starting at $45
-    *   Oh, Baby: Biscotti &. More
-    *   Creative Recreation Up to 65% Off
+    *   Free Shipping: Storage Solutions for Every Room
+    *   Free Shipping: NMK Bedding Up to 70% Off
 *   WomenShop Sale Events
     
+    *   Gym to Street: Active ft. Z By Zella &. More
+    *   Footwear from Fabletics
+    *   Gym Bags &. Backpacks Starting at $15
+    *   Bony Levy
+    *   Gracia
+    *   Sharagano Incl. Plus &. Petites
+    *   Work Ready: Nine West, Calvin Klein Shoes &. More
+    *   Lace, Florals &. More: Styles Incl. Plus &. Petites
+    *   Knit Picks: Sweaters Under $50
+    *   Reebok Swim &. More
+    *   Back-to-School Shoes ft. Keds Up to 50% Off
+    *   IT Luggage Up to 60% Off
+    *   K-Beauty Makeup
     *   Vince
     *   Vince Shoes
     *   Frye Handbags
@@ -107,147 +114,127 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Desk to Dinner: Fall Dresses Incl. Plus &. Petites
     *   Velvet Torch
     *   1.STATE Up to 65% Off
+    
     *   K-Beauty Hair Care: Daeng Gi Meo Ri
     *   Tahitian Pearl Jewelry &. More Under $80
     *   Carole Hochman &. More
     *   Date Night Styles ft. ASTR the Label
     *   MIA &. MIA Amore from $25
     *   Sky Organics: Essential Oils, Bath Bombs &. More
-    *   Fit Favorites: Active Up to 65% Off
     *   adidas
     *   adidas Active Starting at $15
     *   T3 Hair Tools
-    *   Must-Have Coats Up to 70% Off
-    *   Nation LTD Up to 65% Off
-    *   Flirty Finds: Dresses from WAYF &. More
-    *   Seven7 Incl. Plus
-    *   Stay in Summer Mode: Shorts Up to 60% Off
-    *   Rock Band Tees &. More Starting at $15
-    
     *   Saachi Leather &. Gemstone Jewelry from $15
-    *   Sneakers ft. Converse &. Superga Shoes
     *   K Beauty: Asamo &. More
-    *   LOVE Moschino Up to 50% Off
-    *   Smart Luggage ft. Travelpro
     *   LA Splash Starting at $10
-    *   Graphic Socks ft. Happy Socks &. Sof Sole
-    *   Insight Up to 70% Off
-    *   Savvy Cie Italian Jewelry &. More Up to 80% Off
-    *   Swims Up to 65% Off
-    *   Booties, Pumps &. More Up to 60% Off
     *   Cailyn Cosmetics Starting at $10
-    *   Roberto Cavalli Bags &. More Up to 70% Off
-    *   SOREL Up to 50% Off
     *   Best of Skin Care Under $30
-    *   LaFonn Simulated Diamond Jewelry Up to 70% Off
-    *   Bulova Watches Up to 65% Off
     *   The Original Makeup Eraser
     *   Mario Badescu
     *   Terre Mere Organic Beauty Up to 75% Off
     *   PURA D'OR Hair Care Up to 50% Off
-    *   Last Call: Dresses Up to 70% Off
-    *   Cover FX
-    *   Lancaster Paris Bags Starting at $45
+    *   Must-Have Coats Up to 70% Off
+    *   Fit Favorites: Active Up to 65% Off
+    *   Smart Luggage ft. Travelpro
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Handbags
     *   Lingerie
     *   Accessories
-    *   Watches
+    *   Handbags
 *   MenShop Sale Events
     
+    *   Men's Active Sneakers from New Balance &. More
+    *   Z by Zella &. More: Men's Active Under $30
+    *   Gym Bags &. Backpacks Starting at $15
+    *   Thorogood Rugged Boots &. More
+    *   Summer Suiting Under $250
+    *   IT Luggage Up to 60% Off
     *   Vince Men's Clothing &. Shoes
+    
     *   Magnanni Shoes &. Belts
     *   Supra Sneakers Up to 60% Off
     *   adidas Men
     *   adidas Men's Active Starting at $15
     *   Men's Streetwear Styles ft. Obey &. More
-    *   Smart Luggage ft. Travelpro
-    
     *   Men's Shoes Up to 65% Off
-    *   SOREL Men Up to 50% Off
-    *   Levi's Men's Outerwear &. More Starting at $20
-    *   Bulova Watches Up to 65% Off
-    *   TR Premium Up to 80% Off
-    *   Creative Recreation Up to 65% Off
+    *   Smart Luggage ft. Travelpro
     
     Shop By Category
     *   Shoes
     *   Clothing
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
-    *   Stride Rite
+    *   P.E. Style: Z By Zella Girls &. More
+    *   Stay Cozy: Girls' Hoodies, Joggers &. More
+    *   Kids' Kickoff to Fall ft. Urban Republic Jackets
     *   Habitual Kids
     *   Kids' School Uniforms ft. Nautica
     *   adidas Kids
     *   adidas Kids' Active
     *   Kids' Fall Preview ft. Beautees &. More
     *   Playground Playwear Sets
-    *   Levi's Kids
-    *   The Maternity Shop: Dresses, Leggings &. More
-    *   Oh, Baby: Biscotti &. More
+    *   Stride Rite
     
     Shop By Category
     *   Girls' Sizes 7-16
-    *   Baby Girl
     *   Boys' Shoes
-    *   Girls' Shoes
     *   Girls' Sizes 2T-6X
-    *   Boys' Sizes 2T-7
+    *   Girls' Shoes
     *   Boys' Sizes 8-20
+    *   Boys' Sizes 2T-7
+    *   Baby Girl
     *   Baby Boy
 *   HomeShop Sale Events
     
-    *   bObsweep PetHair Plus Robotic Vacuums at 78% Off
     *   KitchenAid
-    *   Free Shipping: Storage Solutions for Every Room
-    *   Free Shipping: NMK Bedding Up to 70% Off
+    *   Bold Decor Updates
+    *   Free Shipping: Best Selling Bold Wall Art
     *   adidas Tech
-    *   Smart Luggage ft. Travelpro
     *   Kitchen Storage Starting at $10
     *   Free Shipping: Kitchen Faves Blowout
     *   Duvets &. More Up to 70% Off
-    
     *   Now Playing: Wireless Earbud Charger Cases
     *   Free Shipping: Home Organization Essentials
+    
     *   Free Shipping: Luxe Faux Fur Accents Up to 80% Off
     *   Free Shipping: Eye-Catching Wall Art &. Decor
     *   Free Shipping: Colorful &. Fun Decor Up to 75% Off
     *   Tech Solutions Starting at $10
     *   Free Shipping: Luxe Bedding Essentials Under $60
-    *   Free Shipping: Hand-Painted Replicas Up to 70% Off
+    *   Smart Luggage ft. Travelpro
     *   Free Shipping: Lamps to Brighten Up Any Room
+    *   Free Shipping: Storage Solutions for Every Room
+    *   Free Shipping: NMK Bedding Up to 70% Off
     
     Shop By Category
     *   Home Decor
     *   Bedding
     *   Kitchen &. Tabletop
-    *   Tech Accessories
     *   Cleaning &. Organization
+    *   Tech Accessories
     *   Luggage &. Travel
     *   Outdoor Living
     *   Rugs &. Doormats
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   K-Beauty Makeup
     *   K-Beauty Hair Care: Daeng Gi Meo Ri
     *   Sky Organics: Essential Oils, Bath Bombs &. More
     *   T3 Hair Tools
     *   K Beauty: Asamo &. More
     *   LA Splash Starting at $10
-    *   Cailyn Cosmetics Starting at $10
     
+    *   Cailyn Cosmetics Starting at $10
     *   Best of Skin Care Under $30
     *   The Original Makeup Eraser
     *   Mario Badescu
     *   Terre Mere Organic Beauty Up to 75% Off
     *   PURA D'OR Hair Care Up to 50% Off
-    *   Cover FX
     
     Shop By Category
     *   Makeup
