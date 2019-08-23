@@ -72,6 +72,7 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
         *   Curvy Jeans
         *   KanCan Kurvy
         *   Jeans Under $75
+        *   Denim Style Guide
         *   Shop All
         
         *   Shoes
@@ -140,6 +141,7 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
         *   Bootcut
         *   Denim Shorts
         *   Jeans Under $75
+        *   Denim Style Guide
         *   Shop All
         
         *   Shoes
@@ -195,6 +197,7 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
 *   Jeans
     *   *   Women's Jeans
         
+        *   Find Your Fit
         *   Ankle Skinny
         *   Skinny
         *   Straight
@@ -203,11 +206,12 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
         *   High Waisted
         *   Black Jeans
         *   KanCan Kurvy
-        *   Women's Denim Guide
+        *   Women's Denim Style Guide
         *   Shop All
         
         *   Men's Jeans
         
+        *   Find Your Fit
         *   Slim Fit
         *   Regular Fit
         *   Relaxed Fit
@@ -216,7 +220,7 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
         *   Straight
         *   Bootcut
         *   Black Jeans
-        *   Men's Denim Guide
+        *   Men's Denim Style Guide
         *   Shop All
         
         *   Stretch &. Tech Jeans
@@ -353,7 +357,7 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
         *   Men’s Factory Seconds
         *   Shop All Factory SecondsGive a Buckle Gift card
 
-SubmitSubmitPRIVACY &. SECURITY  
+SubmitSubmitPrivacy &. Security  
 
 **Buckle Privacy &. Security Policy**
 
@@ -463,6 +467,7 @@ Returns
 
 Promotions
 
+*   10% Off Buckle Credit Card Purchases
 *   First Buckle Credit Card Purchase
 *   Store Events
 *   Military Discount
