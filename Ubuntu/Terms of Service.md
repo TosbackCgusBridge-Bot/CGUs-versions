@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Useful security software from the Snap Store ›
 *   Jupyter looks to distro-agnostic packaging for the democratisation of installation ›
 *   How to add a linter to ROS 2 ›
 *   How to integrate Ubuntu with Active Directory ›
 *   Design and Web team summary – 16 August 2019 ›
-*   Linting ROS 2 Packages with mypy ›
