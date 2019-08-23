@@ -113,53 +113,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _David Graham_: Donald Trump's Economic Anxiety
+*   _Dominic Green_: Why American Jews Are 'Disloyal'
     
-*   _Liz Peek_: 2020 Dems Have More to Fear From a Recession Than Trump Does
+*   _Peter Beinart_: Disloyal to What?
     
-*   _Ted Johnson_: The Obamas' First Big Anti-Trump Statement of 2020
+*   _Debra Heine_: Trump Roils the Usual Suspects at Impromptu Presser
     
-*   _John Solomon_: 10 Russia Collusion Revelations That Could Soon Rock D.C.
+*   _Dahlia Lithwick_: The Demoralizing Reality of Life Under Trump
     
-*   _Daniel Cox_: Is Trump Driving Young White Evangelicals Away From the GOP?
+*   _Sen. Mitch McConnell_: The Filibuster Plays a Crucial Role in Our Republic
     
-*   _John McCormack_: Why Kamala Harris Is Fading in the Democratic Primary
+*   _Ronald Brownstein_: Abolishing the Filibuster Is Unavoidable for Democrats
     
-*   _James Hasson_: Many Journalists on 2020 Beat Coordinated With Clinton Camp
+*   _Harmeet Dhillon_: Stacey Abrams Has the Wrong Message for America
     
-*   _Brian Rosenwald_: How Talk Radio Ended Up Remaking the GOP
+*   _Moira Donegan_: Planned Parenthood Was Right to Refuse Federal Funding
     
-*   _Piers Morgan_: Populism Rises Because Left Has Become Unbearable
+*   _David DesRosiers_: The Return of Jackpot Justice
     
-*   _Alireza Naraghi_: McDonald's: Where Distressed America Takes Refuge
+*   _Sheila McClear_: What's the Future for Labor?
     
-*   _Carl Cannon_: Boos and Beer: Baseball Fans' Pitch to End Prohibition
+*   _Miranda Devine_: The War on Cops Imperils Us All
     
-*   _John Kass_: Mueller Crushed Their Dreams, So Dems Pivot to Race
+*   _Carl Cannon_: Where Lincoln Stood on Slavery
     
-*   _David Faris_: Rudderless Trump Administration Is Drifting Toward Disaster
+*   _Matt Ford_: Donald Trump's Tax on the National Psyche
     
-*   _Byron York_: What We Need to Know From IG Report on Russia Probe
+*   _Gary Abernathy_: Trump's the Product of a Narcissistic Media Age
     
-*   _Joe Lockhart_: Biden's Lead Confirms 2020 as a Battle for America's Soul
+*   _Peter Nicholas_: President Trump's Riskiest Bet
     
-*   _Victor Davis Hanson_: Progressive 2020 Dems Renounce Their Former Selves
+*   _Scott Rasmussen_: Economic Reality Matters More Than Spin
     
-*   _Julia Ioffe_: The Summer of Elizabeth Warren
+*   _Gene Schaerr_: John Durham Must Investigate 'Unmasking'
     
-*   _Andy Puzder_: Warren Is the Real Threat to Thriving Economy
+*   _Lloyd Green_: Jew-Baiting Is Part of the Trump Playbook
     
-*   _Jonathan Chait_: In a Case of Projection, GOP Suspects Economic Sabotage
+*   _Marc Thiessen_: Why Won't Dems Slam Their Anti-Semitic Colleagues?
     
-*   _Michael Tracey_: DNC Appears to Be Rigging Dem Primary Again in 2020
+*   _David Shribman_: Biden Should Prepare for Granite-State Test
     
-*   _Stuart Rothenberg_: Do Democrats Need a Backup Plan?
+*   _Matt Purple_: The Two-Faced Elizabeth Warren
     
-*   _Dennis Prager_: Criticism of Israel Is Not Anti-Semitism. Anti-Zionism Is
+*   _Michael Kruse_: Maybe You Haven't Noticed, But Andrew Yang Is...Surging?
     
-*   _Dahlia Lithwick_: Donald Trump Is Bad for the Jews
+*   _Kalev Leetaru_: Ranking 2020 Dem Candidates by Media Coverage
     
-*   _Tammy Bruce_: China Paying Attention to Trump's Greenland Idea
+*   _Froma Harrop_: On Setting Vehicle Efficiency, California Will Win
     
 
 *   Previous
@@ -230,11 +230,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Leaving Afghanistan: Hawks and Doves Weigh Risks
+*   Ranking the 2020 Democratic Candidates by Media Coverage
 *   Will '80s Stance on 'Ethnocide' Harm Sanders With Native Americans?
-*   Morgan: Populism Is Rising Because Liberals Have Become Unbearable
-*   Trump Cancels Denmark Visit Because Greenland Isn’t for Sale
-*   Outside Money Flows Into Race for Susan Collins’ Senate Seat
+*   Trump: I Am The "Chosen One" To "Economically Take On China"
+*   Trump Moves to End Limits on Detention of Migrant Children
+*   Leaving Afghanistan: Hawks and Doves Weigh Risks
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,37 +247,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationEconomist/YouGov
-    *   Biden22
-    *   Sanders19
-    *   Warren18
-    *   Harris8
-    *   Buttigieg8
-    *   O'Rourke3
-    *   Booker2
-    *   Yang1
-    *   Gabbard2
-    *   Castro1
-    *   Klobuchar0
-    *   Steyer0
-    *   Williamson0Biden +3
-*   President Trump Job ApprovalCNN
-    *   Approve41
-    *   Disapprove54Disapprove +13
-*   President Trump Job ApprovalPolitico/Morning Consult
-    *   Approve42
-    *   Disapprove55Disapprove +13
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve42
-    *   Disapprove54Disapprove +12
+*   Arizona: Trump vs. BidenOH Predictive Insights
+    *   Biden45
+    *   Trump43Biden +2
+*   Arizona: Trump vs. SandersOH Predictive Insights
+    *   Trump44
+    *   Sanders34Trump +10
+*   Arizona: Trump vs. WarrenOH Predictive Insights
+    *   Trump44
+    *   Warren43Trump +1
+*   Arizona: Trump vs. HarrisOH Predictive Insights
+    *   Trump44
+    *   Harris36Trump +8
 
 More Latest Polls In The News
 
-*   Friedman: Trump Has No Idea Why The World Works, There's The United States Of America and United States Of Europe
-*   O'Rouke: Trump "Depraved" For Visiting El Paso Victims, "He Was In Large Part To Blame For The Shooting"
-*   Tim Ryan: Harry Reid Is Right, 2020 Contenders Have Plans Too Progressive To Win General Election
-*   Trump: American Jews Who Vote For Democrats Are "Disloyal To Israel And The Jewish People"
-*   Piers Morgan: "Populism Is Rising Because Liberals Have Become Unbearable," "People Are Fed Up With PC Culture"
+*   Overstock CEO Patrick Byrne: "National Security State Was Weaponized," Comey Involved In Conspiracy
+*   Brooks: "Growing Influence Of The Islamic Religion In Democratic Party" Fuels Anti-Israel, Anti-Jewish Views
+*   Cenk Uygur: Evangelicals Who Accept Trump Comparing Himself To Messiah Must Not Really Care About Christianity
+*   Friedman: Trump Has No Idea How World Works, There's The United States Of America and United States Of Europe
+*   AOC: Electoral College Has A "Racial Injustice Breakdown," White Votes Count More Than People Of Color
 
 *   Politics
 *   Policy
