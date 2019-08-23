@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Instagram asks security researchers to check out 'Checkout' feature
-    *   iOS 12.4 update reintroduced old bug, enabling jailbreak for current devices
+    *   Delta sues AI vendor over 2017 breach exposing info on 825K
+    *   AhMyth –based malicious app found in Google Play
+    *   CyberRisk Alliance acquires Cybersecurity Collaborative establishing its Peer Council Business Platform
+    *   MoviePass database exposes 161 million records
+    *   Creating a next-gen cybersecurity roadmap
+    
     *   Threat hunting with next-generation tools
-    *   Red/Blue team exercises show defensive shortfalls: Survey
-    *   SC Media's 30 on 30 podcast with the ISF's Steve Durbin
-    
-    *   Historic hacking group members dish on Julian Assange, Beto O'Rourke
-    *   How to build a successful offensive security research team
-    *   700,000 Choice Hotels customer records compromised
-    *   Mobile Device Security for Blue Collar Workers
-    *   Virginia State Police recoup $300K stolen in BEC scam
-    
-    *   Nowhere to turn for middle market companies decimated by cybercrime
-    *   iOS 12.4 update reintroduced old bug, enabling jailbreak for current devices
-    *   Fake VPN and office software websites spread Bolij.2 banking trojan
-    *   One million Luscious porn site accounts compromised
+    *   New way to lose at poker? Card game domains infected with Magecart skimmer
     *   Vulnerabilities seen on Google Nest Cam IQ Indoor camera
+    *   MoviePass database exposes 161 million records
+    *   First half 2019 sees 4,000 data breaches exposing 4B records
+    
+    *   Lack of cyber investment could spell trouble for smart cities: report
+    *   Vast majority of newly registered domains are malicious
+    *   MoviePass database exposes 161 million records
+    *   Capital One hacker to ask for release on bail
+    *   Instagram asks security researchers to check out 'Checkout' feature
 
 Back to Top
 
@@ -262,4 +262,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
