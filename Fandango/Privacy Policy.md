@@ -22,7 +22,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   Angel Has Fallen
     *   Overcomer
-    *   Ready or Not
+    *   Ready or Not (2019)
     *   Becoming Burlesque
     *   Brittany Runs a Marathon
     *   Fiddler: A Miracle of Miracles
@@ -351,7 +351,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   July Celebrity Birthdays
+*   August Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Privacy Policy Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App
