@@ -1,9 +1,9 @@
-*   NYG2-0CIN1-1Thu, 7:00 pm ET
-*   WAS0-2ATL0-3Thu, 7:30 pm ET
-*   CAR1-1NE2-0Thu, 7:30 pm ET
-*   BAL2-0PHI1-1Thu, 7:30 pm ET
-*   GB1-1OAK2-0Thu, 8:00 pm ET
-*   JAX0-2MIA1-1Thu, 8:00 pm ET
+*   NYG3-025CIN1-223Final
+*   WAS1-219ATL0-47Final
+*   CAR1-23NE3-010Final
+*   BAL3-026PHI1-215Final
+*   GB1-221OAK3-022Final
+*   JAX0-37MIA2-122Final
 *   CLE2-0TB1-1Fri, 7:30 pm ET
 *   BUF2-0DET0-2Fri, 8:00 pm ET
 *   ARI1-1MIN2-0Sat, 1:00 pm ET
@@ -37,12 +37,12 @@
 *   Photos
 *   NFL Films
 
-*   NYG2-0CIN1-1Thu, 7:00 pm ET
-*   WAS0-2ATL0-3Thu, 7:30 pm ET
-*   CAR1-1NE2-0Thu, 7:30 pm ET
-*   BAL2-0PHI1-1Thu, 7:30 pm ET
-*   GB1-1OAK2-0Thu, 8:00 pm ET
-*   JAX0-2MIA1-1Thu, 8:00 pm ET
+*   NYG25CIN23Final
+*   WAS19ATL7Final
+*   CAR3NE10Final
+*   BAL26PHI15Final
+*   GB21OAK22Final
+*   JAX7MIA22Final
 *   CLE2-0TB1-1Fri, 7:30 pm ET
 *   BUF2-0DET0-2Fri, 8:00 pm ET
 *   ARI1-1MIN2-0Sat, 1:00 pm ET
