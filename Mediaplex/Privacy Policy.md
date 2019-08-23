@@ -1,4 +1,8 @@
-Publicis Groupe Completes Acquisition of Epsilon-Conversant
+Cookies help us keep internet content free. By continuing to use our website or by clicking "Got It", you agree to the use of cookies. **Learn More**
+
+If you decline, your information won’t be tracked when you visit this website. A single cookie will be used in your browser to remember your preference not to be tracked.
+
+AcceptDecline Publicis Groupe Completes Acquisition of Epsilon-Conversant
 
 *   Careers
 *   Ad Quality
@@ -104,20 +108,20 @@ See how to manage each interaction to drive better results >.
 
 The Latest News
 
-*   Conversant Launches Mesobase  
-    Realize the promise of people-based marketing  
+*   Navigating New Privacy Laws  
+    10 companies helping brands with privacy  
     
-*   Drive Measurable TV Tune-In  
-    Learn how to connect with TV viewers as individuals, not demos  
+*   Starcom/Epsilon Win Novartis  
+    Starcom and Epsilon retain Novartis business  
     
-*   Attain One View of Consumers  
-    5 questions for evaluating identity partners  
+*   Publicis Groupe Wins Novartis  
+    Publicis Groupe named global partner for media buying and planning, data and analytics  
     
-*   Using AI in Digital Advertising  
-    Learn how AI enables personalization  
+*   Best Workplaces for Innovators  
+    Epsilon-Conversant recognized for innovation  
     
-*   Conversant Creates GDPR Tool  
-    Gain consumer consent and compliance
+*   Epsilon Joins Publicis Groupe  
+    Company to turbocharge creative, media and tech
 
 ←
 
