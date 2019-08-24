@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Delta sues AI vendor over 2017 breach exposing info on 825K
-    *   AhMyth –based malicious app found in Google Play
-    *   CyberRisk Alliance acquires Cybersecurity Collaborative establishing its Peer Council Business Platform
-    *   MoviePass database exposes 161 million records
-    *   Creating a next-gen cybersecurity roadmap
+    *   European Central Bank confirms BIRD site hacked, contact info stolen
+    *   Cyberattacks hit NCH Healthcare System and Grays Harbor Community Hospital
+    *   Varenyky malware records porn on screen, distributes sextortion spam
+    *   Nowhere to turn for middle market companies decimated by cybercrime
+    *   Adobe Patch Tuesday tackles Reader, Acrobat flaws
     
+    *   European Central Bank confirms BIRD site hacked, contact info stolen
     *   Threat hunting with next-generation tools
-    *   New way to lose at poker? Card game domains infected with Magecart skimmer
-    *   Vulnerabilities seen on Google Nest Cam IQ Indoor camera
-    *   MoviePass database exposes 161 million records
-    *   First half 2019 sees 4,000 data breaches exposing 4B records
+    *   Mobile Device Security for Blue Collar Workers
+    *   SC Media's 30th Anniversary Then and Now: RSA
+    *   Mass. General breach exposes private info on 9,900 in research programs
     
-    *   Lack of cyber investment could spell trouble for smart cities: report
-    *   Vast majority of newly registered domains are malicious
-    *   MoviePass database exposes 161 million records
-    *   Capital One hacker to ask for release on bail
-    *   Instagram asks security researchers to check out 'Checkout' feature
+    *   Texas municipalities struggle to recover from ransomware attacks
+    *   New way to lose at poker? Card game domains infected with Magecart skimmer
+    *   AhMyth –based malicious app found in Google Play
+    *   SC Media's 30th anniversary Q&A with Catherine Allen
+    *   BitDefender Antivirus Free 2020 found vulnerable
 
 Back to Top
 
