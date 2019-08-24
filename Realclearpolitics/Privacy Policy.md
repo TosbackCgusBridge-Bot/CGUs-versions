@@ -113,53 +113,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Dominic Green_: Why American Jews Are 'Disloyal'
+*   _Fred Kaplan_: This Is What a World Without American Leadership Looks Like
     
-*   _Peter Beinart_: Disloyal to What?
+*   _Michael Barone_: The End of America's 30-Year Engagement With China?
     
-*   _Debra Heine_: Trump Roils the Usual Suspects at Impromptu Presser
+*   _Paul Krugman_: From Voodoo Economics to Evil-Eye Economics
     
-*   _Dahlia Lithwick_: The Demoralizing Reality of Life Under Trump
+*   _Alfredo Ortiz_: Dems' Recession Obsession Is Unwarranted
     
-*   _Sen. Mitch McConnell_: The Filibuster Plays a Crucial Role in Our Republic
+*   _Bhaskar Sunkara_: No, Biden Isn't the Inevitable 2020 Dem Candidate
     
-*   _Ronald Brownstein_: Abolishing the Filibuster Is Unavoidable for Democrats
+*   _Rafael Mangual_: Sanders's Criminal-Justice Plan Is Wrong in So Many Ways
     
-*   _Harmeet Dhillon_: Stacey Abrams Has the Wrong Message for America
+*   _Eric Levitz_: The 1619 Project Is Anti-White Identity Politics
     
-*   _Moira Donegan_: Planned Parenthood Was Right to Refuse Federal Funding
+*   _James Veltmeyer_: The Cultural Marxist Attack on Western Society
     
-*   _David DesRosiers_: The Return of Jackpot Justice
+*   _Frida Ghitis_: Why Trump Is So Obsessed With Scandinavia
     
-*   _Sheila McClear_: What's the Future for Labor?
+*   _Sarah Palin_: Trump Can See Greenland From His House
     
-*   _Miranda Devine_: The War on Cops Imperils Us All
+*   _W. James Antle III_: David Koch's Misunderstood Legacy
     
-*   _Carl Cannon_: Where Lincoln Stood on Slavery
+*   _Conrad Black_: Trump's Enemies Are the Masters of Unreality
     
-*   _Matt Ford_: Donald Trump's Tax on the National Psyche
+*   _Eugene Robinson_: President Trump Is Increasingly Untethered to Reality
     
-*   _Gary Abernathy_: Trump's the Product of a Narcissistic Media Age
+*   _Victor Davis Hanson_: What Could Sink Trump's Chances in 2020?
     
-*   _Peter Nicholas_: President Trump's Riskiest Bet
+*   _Ed Kilgore_: What If Obama Had Dropped Biden in 2012?
     
-*   _Scott Rasmussen_: Economic Reality Matters More Than Spin
+*   _Liel Leibovitz_: The Democratic Party's Very Deep Anti-Semitism Problem
     
-*   _Gene Schaerr_: John Durham Must Investigate 'Unmasking'
+*   _David Schanzer_: Why Most Jews Don't Vote for Trump
     
-*   _Lloyd Green_: Jew-Baiting Is Part of the Trump Playbook
+*   _David Catron_: Dems' Hypocrisy on Family Separation at the Border
     
-*   _Marc Thiessen_: Why Won't Dems Slam Their Anti-Semitic Colleagues?
+*   _Jonathan Blitzer_: Trump's Attack on the Rights of Immigrant Children
     
-*   _David Shribman_: Biden Should Prepare for Granite-State Test
+*   _Liz Harrington_: Trump Won't Control Your Thermostat -- But Bernie Would
     
-*   _Matt Purple_: The Two-Faced Elizabeth Warren
+*   _Robinson Meyer_: For Voters, Does Climate Actually Even Matter?
     
-*   _Michael Kruse_: Maybe You Haven't Noticed, But Andrew Yang Is...Surging?
+*   _John Solomon_: Another FBI Failure Involving the Clintons Surfaces
     
-*   _Kalev Leetaru_: Ranking 2020 Dem Candidates by Media Coverage
+*   _Ben Mathis-Lilley_: Where Is the White House Press Secretary?
     
-*   _Froma Harrop_: On Setting Vehicle Efficiency, California Will Win
+*   _Myron Magnet_: America's Safety at Stake in Battle With China
     
 
 *   Previous
@@ -231,9 +231,9 @@ RecommendedPolitics
 *   Investigations
 
 *   Ranking the 2020 Democratic Candidates by Media Coverage
+*   Making a Case to Women: Trump Female Defenders Go on Offense
+*   Former Overstock CEO: "Men in Black" Pushed Me to Contact Butina
 *   Will '80s Stance on 'Ethnocide' Harm Sanders With Native Americans?
-*   Trump: I Am The "Chosen One" To "Economically Take On China"
-*   Trump Moves to End Limits on Detention of Migrant Children
 *   Leaving Afghanistan: Hawks and Doves Weigh Risks
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -247,6 +247,9 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve50
+    *   Disapprove48Approve +2
 *   Arizona: Trump vs. BidenOH Predictive Insights
     *   Biden45
     *   Trump43Biden +2
@@ -256,17 +259,14 @@ Latest PollsAll Polls
 *   Arizona: Trump vs. WarrenOH Predictive Insights
     *   Trump44
     *   Warren43Trump +1
-*   Arizona: Trump vs. HarrisOH Predictive Insights
-    *   Trump44
-    *   Harris36Trump +8
 
 More Latest Polls In The News
 
-*   Overstock CEO Patrick Byrne: "National Security State Was Weaponized," Comey Involved In Conspiracy
+*   Wallace: Most Americans Don't Want The President To Be Able To Order Private Companies Around On Twitter
+*   Tucker Carlson: Those Who Control Your Words Control Your Mind, Make It Impossible To See The Obvious
+*   Sanders Announces $16 Trillion Green Energy Plan: "You Can't Nibble Around The Edges" On Climate Change
+*   Fmr. Overstock CEO Patrick Byrne: "National Security State Was Weaponized," Comey Involved In Conspiracy
 *   Brooks: "Growing Influence Of The Islamic Religion In Democratic Party" Fuels Anti-Israel, Anti-Jewish Views
-*   Cenk Uygur: Evangelicals Who Accept Trump Comparing Himself To Messiah Must Not Really Care About Christianity
-*   Friedman: Trump Has No Idea How World Works, There's The United States Of America and United States Of Europe
-*   AOC: Electoral College Has A "Racial Injustice Breakdown," White Votes Count More Than People Of Color
 
 *   Politics
 *   Policy
