@@ -9,127 +9,127 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
-    *   Dyson Up to 55% Off
-    *   Joules Up to 50% Off
-    *   Melissa Up to 50% Off
-    *   ZAC Zac Posen Up to 50% Off
-    *   Tart Collection Up to 65% Off
-    *   Denim Under $40 ft. Rising Sun
-    *   Print Party: Striped Dresses &. More Under $35
-    *   Mini Melissa
-    *   Frye Men
-    *   Bony Levy
-    *   Work or Play: Skirts from $20
-    *   Studio Time: Koral Active &. ARX LAB
-    *   14K Gold &. More Under $80
-    *   Porsamo Bleu Watches
-    *   Our Exclusive Shoes: SUSINA &. More
-    *   Sleep Sets Under $30 Incl. Plus
-    *   Plus &. Petite Coats Up to 60% Off
-    *   Lorenzo Uomo Up to 60% Off
-    *   Free Shipping: Luxe Bedding ft. Pillow Guy
-    *   StriVectin Skin Care
-    *   Tea Collection
-    *   Aldo Men Starting at $40
-    *   Isaac Mizrahi Boys &. More
-    *   Joe Fresh Kids
+    *   Tommy Bahama Men's Clothing, Shoes &. More
+    *   Tommy Bahama Clothing &. Swim Up to 60% Off
+    *   Via Spiga Up to 60% Off
+    *   Add Some Edge: KENDALL + KYLIE Up to 75% Off
+    *   Tommy Bahama Luggage
+    *   UGG Home &. Sleepwear Starting at $30
+    *   Sterling Silver Jewelry Starting at $25
+    *   Mirenesse Australia Up to 40% Off
+    *   Pelle Moda Up to 80% Off
+    *   Chic Fall Finds from Heartloom &. More
+    *   London Fog &. More ft. Trenches &. Raincoats
+    *   Free Shipping: Down &. Memory Foam Essentials
+    *   Denim Under $50 ft. Jen7
+    *   Under $60: Homecoming Pumps &. Sandals
+    *   Free Shipping: Storage Must-Haves from $10
+    *   Fake Bake: Instant Self Tanning Lotion
+    *   Make a Statement: LeSportsac Bags
+    *   Champion Men Incl. Big &. Tall Styles
+    *   Champion Men's Slides &. Sneakers
+    *   Hair Care That Gives Back: Soapbox
+    *   Boys' Street Style ft. Volcom
+    *   PUMA Kids' Activewear
+    *   Sleek Sneakers for Kids ft. Superga
+    *   Tommy Bahama Kids' Swim &. More
     *   P.E. Style: Z By Zella Girls &. More
-    
     *   Footwear from Fabletics
-    *   Men's Active Sneakers from New Balance &. More
+    
     *   Z by Zella &. More: Men's Active Under $30
     *   Gym to Street: Active ft. Z By Zella &. More
-    *   Gym Bags &. Backpacks Starting at $15
-    *   Gracia
-    *   Sharagano Incl. Plus &. Petites
-    *   Work Ready: Nine West, Calvin Klein Shoes &. More
-    *   Lace, Florals &. More: Styles Incl. Plus &. Petites
-    *   Knit Picks: Sweaters Under $50
-    *   Reebok Swim &. More
+    *   Bony Levy
     *   Bold Decor Updates
     *   Stay Cozy: Girls' Hoodies, Joggers &. More
     *   Free Shipping: Best Selling Bold Wall Art
     *   Thorogood Rugged Boots &. More
     *   Kids' Kickoff to Fall ft. Urban Republic Jackets
-    *   Back-to-School Shoes ft. Keds Up to 50% Off
-    *   Vince
-    *   Vince Men's Clothing &. Shoes
-    *   Vince Shoes
-    *   Frye Handbags
     *   Magnanni Shoes &. Belts
-    *   K-Beauty Makeup
     *   K-Beauty Hair Care: Daeng Gi Meo Ri
-    *   Tahitian Pearl Jewelry &. More Under $80
-    
     *   Sky Organics: Essential Oils, Bath Bombs &. More
     *   Supra Sneakers Up to 60% Off
-    *   Habitual Kids
-    *   Kids' School Uniforms ft. Nautica
     *   T3 Hair Tools
     *   K Beauty: Asamo &. More
     *   Kitchen Storage Starting at $10
     *   LA Splash Starting at $10
     *   Free Shipping: Kitchen Faves Blowout
-    *   Cailyn Cosmetics Starting at $10
-    *   Best of Skin Care Under $30
     *   Duvets &. More Up to 70% Off
-    *   The Original Makeup Eraser
     *   Now Playing: Wireless Earbud Charger Cases
-    *   Summer Suiting Under $250
-    *   IT Luggage Up to 60% Off
-    *   Stride Rite
     *   Free Shipping: Home Organization Essentials
-    *   Andrew Marc Coats &. More Incl. Plus
     *   Free Shipping: Luxe Faux Fur Accents Up to 80% Off
     *   Free Shipping: Eye-Catching Wall Art &. Decor
-    *   Free Shipping: Lamps to Brighten Up Any Room
     *   Free Shipping: Storage Solutions for Every Room
     *   Free Shipping: NMK Bedding Up to 70% Off
     *   KitchenAid
+    *   Mini Melissa
+    
+    *   Joules Up to 50% Off
+    *   Denim Under $40 ft. Rising Sun
+    *   Studio Time: Koral Active &. ARX LAB
+    *   Tea Collection
+    *   Dyson Up to 55% Off
+    *   Plus &. Petite Coats Up to 60% Off
+    *   Porsamo Bleu Watches
+    *   14K Gold &. More Under $80
+    *   Free Shipping: Luxe Bedding ft. Pillow Guy
+    *   Isaac Mizrahi Boys &. More
+    *   Aldo Men Starting at $40
+    *   StriVectin Skin Care
+    *   Melissa Up to 50% Off
+    *   Frye Men
+    *   Sleep Sets Under $30 Incl. Plus
+    *   IT Luggage Up to 60% Off
+    *   Lorenzo Uomo Up to 60% Off
+    *   Joe Fresh Kids
+    *   Summer Suiting Under $250
+    *   K-Beauty Makeup
+    *   Tart Collection Up to 65% Off
+    *   Work or Play: Skirts from $20
+    *   Print Party: Striped Dresses &. More Under $35
+    *   Our Exclusive Shoes: SUSINA &. More
+    *   ZAC Zac Posen Up to 50% Off
 *   WomenShop Sale Events
     
-    *   Dyson Up to 55% Off
-    *   Joules Up to 50% Off
-    *   Melissa Up to 50% Off
-    *   ZAC Zac Posen Up to 50% Off
-    *   Tart Collection Up to 65% Off
-    *   Denim Under $40 ft. Rising Sun
-    *   Print Party: Striped Dresses &. More Under $35
-    *   Bony Levy
-    *   Work or Play: Skirts from $20
-    *   Studio Time: Koral Active &. ARX LAB
-    *   14K Gold &. More Under $80
-    *   Porsamo Bleu Watches
-    *   Our Exclusive Shoes: SUSINA &. More
-    *   Sleep Sets Under $30 Incl. Plus
-    *   Plus &. Petite Coats Up to 60% Off
-    *   StriVectin Skin Care
+    *   Tommy Bahama Clothing &. Swim Up to 60% Off
+    *   Via Spiga Up to 60% Off
+    *   Add Some Edge: KENDALL + KYLIE Up to 75% Off
+    *   Tommy Bahama Luggage
+    *   Sterling Silver Jewelry Starting at $25
+    *   Mirenesse Australia Up to 40% Off
+    *   Pelle Moda Up to 80% Off
+    *   Chic Fall Finds from Heartloom &. More
+    *   London Fog &. More ft. Trenches &. Raincoats
+    *   Denim Under $50 ft. Jen7
+    *   Under $60: Homecoming Pumps &. Sandals
+    *   Fake Bake: Instant Self Tanning Lotion
+    *   Make a Statement: LeSportsac Bags
+    *   Hair Care That Gives Back: Soapbox
     *   Footwear from Fabletics
     *   Gym to Street: Active ft. Z By Zella &. More
-    *   Gym Bags &. Backpacks Starting at $15
-    *   Gracia
-    *   Sharagano Incl. Plus &. Petites
-    
-    *   Work Ready: Nine West, Calvin Klein Shoes &. More
-    *   Lace, Florals &. More: Styles Incl. Plus &. Petites
-    *   Knit Picks: Sweaters Under $50
-    *   Reebok Swim &. More
-    *   Back-to-School Shoes ft. Keds Up to 50% Off
-    *   Vince
-    *   Vince Shoes
-    *   Frye Handbags
-    *   K-Beauty Makeup
+    *   Bony Levy
     *   K-Beauty Hair Care: Daeng Gi Meo Ri
-    *   Tahitian Pearl Jewelry &. More Under $80
     *   Sky Organics: Essential Oils, Bath Bombs &. More
     *   T3 Hair Tools
+    
     *   K Beauty: Asamo &. More
     *   LA Splash Starting at $10
-    *   Cailyn Cosmetics Starting at $10
-    *   Best of Skin Care Under $30
-    *   The Original Makeup Eraser
+    *   Joules Up to 50% Off
+    *   Denim Under $40 ft. Rising Sun
+    *   Studio Time: Koral Active &. ARX LAB
+    *   Dyson Up to 55% Off
+    *   Plus &. Petite Coats Up to 60% Off
+    *   Porsamo Bleu Watches
+    *   14K Gold &. More Under $80
+    *   StriVectin Skin Care
+    *   Melissa Up to 50% Off
+    *   Sleep Sets Under $30 Incl. Plus
     *   IT Luggage Up to 60% Off
-    *   Andrew Marc Coats &. More Incl. Plus
+    *   K-Beauty Makeup
+    *   Tart Collection Up to 65% Off
+    *   Work or Play: Skirts from $20
+    *   Print Party: Striped Dresses &. More Under $35
+    *   Our Exclusive Shoes: SUSINA &. More
+    *   ZAC Zac Posen Up to 50% Off
     
     Shop By Category
     *   Clothing
@@ -137,56 +137,61 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Jewelry
     *   Lingerie
     *   Handbags
+    *   Accessories
     *   Watches
 *   MenShop Sale Events
     
-    *   Dyson Up to 55% Off
-    *   Frye Men
-    *   Porsamo Bleu Watches
-    *   Lorenzo Uomo Up to 60% Off
-    *   Aldo Men Starting at $40
-    *   Men's Active Sneakers from New Balance &. More
+    *   Tommy Bahama Men's Clothing, Shoes &. More
+    *   Tommy Bahama Luggage
+    *   Champion Men Incl. Big &. Tall Styles
+    *   Champion Men's Slides &. Sneakers
     *   Z by Zella &. More: Men's Active Under $30
-    
-    *   Gym Bags &. Backpacks Starting at $15
     *   Thorogood Rugged Boots &. More
-    *   Vince Men's Clothing &. Shoes
     *   Magnanni Shoes &. Belts
     *   Supra Sneakers Up to 60% Off
-    *   Summer Suiting Under $250
+    
+    *   Dyson Up to 55% Off
+    *   Porsamo Bleu Watches
+    *   Aldo Men Starting at $40
+    *   Frye Men
     *   IT Luggage Up to 60% Off
+    *   Lorenzo Uomo Up to 60% Off
+    *   Summer Suiting Under $250
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Accessories
     *   Watches
 *   KidsShop Sale Events
     
+    *   Boys' Street Style ft. Volcom
+    *   PUMA Kids' Activewear
+    *   Sleek Sneakers for Kids ft. Superga
+    *   Tommy Bahama Kids' Swim &. More
+    *   P.E. Style: Z By Zella Girls &. More
+    *   Stay Cozy: Girls' Hoodies, Joggers &. More
+    
+    *   Kids' Kickoff to Fall ft. Urban Republic Jackets
     *   Mini Melissa
     *   Tea Collection
     *   Isaac Mizrahi Boys &. More
     *   Joe Fresh Kids
-    *   P.E. Style: Z By Zella Girls &. More
-    *   Stay Cozy: Girls' Hoodies, Joggers &. More
-    *   Kids' Kickoff to Fall ft. Urban Republic Jackets
-    *   Habitual Kids
-    *   Kids' School Uniforms ft. Nautica
-    *   Stride Rite
     
     Shop By Category
-    *   Girls' Sizes 7-16
-    *   Girls' Shoes
-    *   Girls' Sizes 2T-6X
-    *   Boys' Sizes 8-20
     *   Boys' Sizes 2T-7
-    *   Boys' Shoes
+    *   Girls' Sizes 7-16
+    *   Girls' Sizes 2T-6X
     *   Baby Girl
+    *   Boys' Sizes 8-20
+    *   Girls' Shoes
     *   Baby Boy
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
-    *   Dyson Up to 55% Off
-    *   Free Shipping: Luxe Bedding ft. Pillow Guy
+    *   UGG Home &. Sleepwear Starting at $30
+    *   Free Shipping: Down &. Memory Foam Essentials
+    *   Free Shipping: Storage Must-Haves from $10
     *   Bold Decor Updates
     *   Free Shipping: Best Selling Bold Wall Art
     *   Kitchen Storage Starting at $10
@@ -197,10 +202,11 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Free Shipping: Home Organization Essentials
     *   Free Shipping: Luxe Faux Fur Accents Up to 80% Off
     *   Free Shipping: Eye-Catching Wall Art &. Decor
-    *   Free Shipping: Lamps to Brighten Up Any Room
     *   Free Shipping: Storage Solutions for Every Room
     *   Free Shipping: NMK Bedding Up to 70% Off
     *   KitchenAid
+    *   Dyson Up to 55% Off
+    *   Free Shipping: Luxe Bedding ft. Pillow Guy
     
     Shop By Category
     *   Home Decor
@@ -211,29 +217,31 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Tech Accessories
     *   Rugs &. Doormats
     *   Outdoor Living
+    *   Bath
 *   BeautyShop Sale Events
     
-    *   Dyson Up to 55% Off
-    *   StriVectin Skin Care
-    *   K-Beauty Makeup
+    *   Mirenesse Australia Up to 40% Off
+    *   Fake Bake: Instant Self Tanning Lotion
+    *   Hair Care That Gives Back: Soapbox
     *   K-Beauty Hair Care: Daeng Gi Meo Ri
     *   Sky Organics: Essential Oils, Bath Bombs &. More
     *   T3 Hair Tools
     
     *   K Beauty: Asamo &. More
     *   LA Splash Starting at $10
-    *   Cailyn Cosmetics Starting at $10
-    *   Best of Skin Care Under $30
-    *   The Original Makeup Eraser
+    *   Dyson Up to 55% Off
+    *   StriVectin Skin Care
+    *   K-Beauty Makeup
     
     Shop By Category
     *   Makeup
     *   Skin Care
     *   Hair Care
     *   Bath &. Body
-    *   Tools &. Accessories
     *   Fragrance
+    *   Tools &. Accessories
     *   Nails
+    *   Makeup Bags
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
