@@ -1,11 +1,5 @@
-*   NYG3-025CIN1-223Final
-*   WAS1-219ATL0-47Final
-*   CAR1-23NE3-010Final
-*   BAL3-026PHI1-215Final
-*   GB1-221OAK3-022Final
-*   JAX0-37MIA2-122Final
-*   CLE2-0TB1-1Fri, 7:30 pm ET
-*   BUF2-0DET0-2Fri, 8:00 pm ET
+*   CLE2-112TB2-113Final
+*   BUF3-024DET0-320Final
 *   ARI1-1MIN2-0Sat, 1:00 pm ET
 *   HOU1-1DAL1-1Sat, 7:00 pm ET
 *   CHI0-2IND0-2Sat, 7:00 pm ET
@@ -14,6 +8,12 @@
 *   DEN1-2LA0-2Sat, 9:00 pm ET
 *   SEA1-1LAC0-2Sat, 10:00 pm ET
 *   PIT2-0TEN1-1Sun, 8:00 pm ET
+*   NYG3-025CIN1-223Final
+*   WAS1-219ATL0-47Final
+*   CAR1-23NE3-010Final
+*   BAL3-026PHI1-215Final
+*   GB1-221OAK3-022Final
+*   JAX0-37MIA2-122Final
 
 *   News
 *   Scores
@@ -37,14 +37,8 @@
 *   Photos
 *   NFL Films
 
-*   NYG25CIN23Final
-*   WAS19ATL7Final
-*   CAR3NE10Final
-*   BAL26PHI15Final
-*   GB21OAK22Final
-*   JAX7MIA22Final
-*   CLE2-0TB1-1Fri, 7:30 pm ET
-*   BUF2-0DET0-2Fri, 8:00 pm ET
+*   CLE12TB13Final
+*   BUF24DET20Final
 *   ARI1-1MIN2-0Sat, 1:00 pm ET
 *   HOU1-1DAL1-1Sat, 7:00 pm ET
 *   CHI0-2IND0-2Sat, 7:00 pm ET
@@ -53,6 +47,12 @@
 *   DEN1-2LA0-2Sat, 9:00 pm ET
 *   SEA1-1LAC0-2Sat, 10:00 pm ET
 *   PIT2-0TEN1-1Sun, 8:00 pm ET
+*   NYG25CIN23Final
+*   WAS19ATL7Final
+*   CAR3NE10Final
+*   BAL26PHI15Final
+*   GB21OAK22Final
+*   JAX7MIA22Final
 
 *   News
 *   Scores
