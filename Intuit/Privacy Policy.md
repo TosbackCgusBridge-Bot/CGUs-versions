@@ -64,7 +64,7 @@ UP TO 50% OFF HOME SALEselect styles
 *   SHOP ALL
 
 YOUR ONE-STOP SCHOOL SHOPDORM 101Little spaces, lofty ideas. The 2019 dorm collection makes far away feel like home. SCHOOL UNIFORMSalso available in plus &. husky  
-SEE IT. SHOP IT. #AllAtJCPMedia CarouselSlide 1 of 4. UP TO 70% OFF WOMEN'S SANDALSSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S SANDALSSELECT STYLESSHOP ALL
+Disney Frozen 2 Trailer SEE IT. SHOP IT. #AllAtJCPMedia CarouselSlide 1 of 4. UP TO 70% OFF WOMEN'S SANDALSSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S SANDALSSELECT STYLESSHOP ALL
 
 *   SPECIAL DEAL!
     
@@ -74,25 +74,25 @@ SEE IT. SHOP IT. #AllAtJCPMedia CarouselSlide 1 of 4. UP TO 70% OFF WOMEN'S SAND
     $2399after couponwas $60 Liz Claiborne Womens Gloria Heeled Sandals(9)Add To Cart
 *   SPECIAL DEAL!
     
-    $3599after couponwas $60 Liz Claiborne Womens Kadin Heeled Sandals(7)Add To Cart
+    $3599after couponwas $60 Liz Claiborne Womens Eastwick Strap Sandals(13)Add To Cart
 *   SPECIAL DEAL!
     
-    $3599after couponwas $60 Liz Claiborne Womens Eastwick Strap Sandals(13)Add To Cart
+    $3599after couponwas $60 Liz Claiborne Womens Kadin Heeled Sandals(8)Add To Cart
 *   SPECIAL DEAL!
     
     $2399after couponwas $60 Liz Claiborne Womens Ivalyn Wedge Sandals(6)Add To Cart
 *   SPECIAL DEAL!
     
-    $2799after couponwas $55 east 5th Womens Vane Wedge Sandals(3)Add To Cart
+    $2399after couponwas $60 Liz Claiborne Womens Lambert Heeled Sandals(4)Add To Cart
 *   SPECIAL DEAL!
     
-    $2399after couponwas $60 Liz Claiborne Womens Lambert Heeled Sandals(4)Add To Cart
+    $2799after couponwas $55 east 5th Womens Vane Wedge Sandals(3)Add To Cart
 
 UP TO 70% OFF SHORTS FOR THE FAMILYSHOP ALLSELECT STYLESUP TO 70% OFF SHORTS FOR THE FAMILYSELECT STYLESSHOP ALL
 
 *   SPECIAL DEAL!
     
-    from$799after couponwas $32 - $37 Arizona Boys Stretch Adjustable Waist Cargo Short Preschool / Big Kid(15)Add To Cart
+    from$799after couponwas $32 - $37 Arizona Boys Stretch Adjustable Waist Cargo Short Preschool / Big Kid(16)Add To Cart
 *   SPECIAL DEAL!
     
     from$799after couponwas $32 - $37 Arizona Boys Stretch Pull-On Short Preschool / Big Kid(7)Add To Cart
@@ -110,26 +110,24 @@ UP TO 70% OFF SHORTS FOR THE FAMILYSHOP ALLSELECT STYLESUP TO 70% OFF SHORTS FOR
     $1599after couponwas $50 Msx By Michael Strahan Mens Pull-On Short-Big and TallAdd To Cart
 *   SPECIAL DEAL!
     
-    $8after couponwas $32 - $37 Arizona Boys Stretch Hybrid Short Preschool / Big KidAdd To Cart
+    $799after couponwas $27 St. John's Bay Active Womens Mid Rise Drawstring Waist 9 1/2" Bermuda Short(6)Add To Cart
 
 Recommended for You
 
-*   from$3999 sale
+*   ADVERTISED DEAL!
+    
+    from$3999 sale
     
     was $60 | 15 - 33% offNike Revolution 4 Womens Lace-up Running Shoes(119)
-*   $749after couponwas $19 St. John's Bay 3/4 Sleeve V-Neck Tee - Plus(3)
-*   3 Or More $6.00 Each
+*   BIG BUY!
     
-    from$7 sale
-    
-    was $20 - $22 | 65 - 68% offIzod Exclusive Girls Spread Collar Short Sleeve Stretch Polo Shirt(40)
-*   from$224after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(277)
+    from$079after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(277)
+*   $759after couponwas $19 St. John's Bay 3/4 Sleeve V-Neck Tee - Plus(5)
 *   from$6369
     
     Nike Air Max Motion 2 Womens Lace-up Running Shoes(6)
-*   $4399 sale
-    
-    was $55 | 20% offNike Hayward 2.0 Backpack(3)
+*   from$239after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(187)
+*   from$319after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1359)
 
 Shop and Save at JCPenney
 
