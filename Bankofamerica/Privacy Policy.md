@@ -404,6 +404,9 @@ Review requirements
 
 Security tools
 
+*   **Digital Wallets**  
+    It's time to try a faster, easier and secure way to pay.  
+    Learn more about Digital Wallets
 *   **Trusteer Rapport®**  
     Free fraud protection while signed in to Online Banking  
     Learn more about Trusteer Rapport®
