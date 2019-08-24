@@ -1,6 +1,6 @@
 Privacy Policy
 
-_Last revised and updated 08/31/2018. To review a changelog and see the previous version, click here._
+_Last revised and updated 08/23/2019. To review a changelog and see the previous version, click here._
 
 Your privacy is important to us. We describe in this notice how we collect and use information about you in your use of the Mailgun services, including the Mailgun platform and the website at mailgun.com (made available by Mailgun Technologies, Inc.). If you are one of our customers, you should read this notice in conjunction with our Terms of Service.
 
@@ -52,15 +52,16 @@ Except for the limited circumstances we described here or in applicable agreemen
 
 We host the website and operate the platform using third parties, including AWS®, SoftLayer® and Rackspace®. Your platform will be hosted from their data centers throughout the United States and/or Europe, based on where you have selected to deploy Mailgun services.
 
-We use a Stripe®, to process subscription payments, and therefore provide them with the personal data required to charge your credit card.
+We use a Stripe® and Chargify, to process subscription payments, and therefore provide them with the personal data required to charge your credit card.
 
-We may use third-party services either embedded into our website (such as Disqus®, Drift, Mixpanel™, VWO®, KISSMetrics™, Moz™, Segment™ and Google® Analytics) or outside of it (such as GitHub® and Twitter®) to communicate with you or to enhance the function of the website and the services.
+We may use third-party services either embedded into our website (such as Disqus®, Drift, Optimizely, Segment™ and Google® Analytics) or outside of it (such as GitHub® and Twitter®) to communicate with you or to enhance the function of the website and the services.
 
-We use third-party service providers and platforms (such as Pendo, Customer.io, Hubspot, and Zendesk) for customer engagement, customer chat, product feedback and customer support ticketing.
+We use third-party service providers and platforms (such as Pendo, Customer.io, Hubspot, Salesforce, Uservoice, Zapier, and Zendesk) for customer engagement, customer chat, product feedback and customer support ticketing.
 
 We may share your contact information with ARIN (American Registry for Internet Numbers) for the purposes of fulfilling your request to re-assign the dedicated IP address to the customer.
 
-While we provide these third parties with no more information than what is necessary to enable them to provide the services to us, any information that you provide these services providers independently is subject to their respective privacy policies and practices.  
+While we provide these third parties with no more information than what is necessary to enable them to provide the services to us, any information that you provide these services providers independently is subject to their respective privacy policies and practices.
+
 In certain situations, Mailgun may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 Additionally, we will provide information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
@@ -79,9 +80,11 @@ If you would like us to cease all of the described uses of your personal data, y
 
 9\. How do we transfer your personal data?
 
-Mailgun participates in and has certified to the EU-U.S. Privacy Shield Framework. Mailgun is committed to subjecting all personal data received from the EU, in accordance to the Privacy Shield Framework. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List.
+Mailgun participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework (“Privacy Shield Framework”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union (EU) and European Economic Area (EEA) to the United States. Mailgun is committed to subjecting all personal data received from the EU and EEA member countries in reliance on the Privacy Shield Framework, to the Framework’s applicable principles (“Privacy Shield Principles”). If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Framework, and to view our certification, please visit U.S. Department of Commerce’s Privacy Shield List.
 
-To enhance security of your personal data, we also entered into Standard Contractual Clauses with our processors or controllers. If you would like to request a copy, you can contact us at privacy@mailgun.com.
+Mailgun is responsible for the processing of personal data it receives, under the Privacy Shield Frameworks, or subsequently transfers to a third party acting as an agent on its behalf. Mailgun complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and EEA, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Mailgun is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Mailgun may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 10\. What are your rights in connection with personal data?
 
@@ -123,4 +126,4 @@ If you are located in the EU, you also have the right to lodge a complaint to a 
 
 The information provided in this notice may be modified to address new issues or changes to our policies. We will post changes here. If we make significant changes, we may notify you by other means (for instance, by email or with a banner on the website) prior to the change becoming effective. Any changes we make will take effect 30 days after the update date noted \[below\]. If you object to the changes, email us at privacy@mailgun.com before the new effective date to delete your information from our records, and we will do so.
 
-**31 August 2018**
+**23 August 2019**
