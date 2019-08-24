@@ -22,7 +22,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   Angel Has Fallen
     *   Overcomer
-    *   Ready or Not (2019)
+    *   Ready or Not
     *   Becoming Burlesque
     *   Brittany Runs a Marathon
     *   Fiddler: A Miracle of Miracles
@@ -297,9 +297,9 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   'Downton Abbey' Sweepstakes
+*   Get your ShowPlace ICON tickets for $9.99 Each
     
-    Enter for your chance to win a script of the movie signed by the cast! \*Terms apply. ENTER NOW
+    at Boston, Mountain View, and San Jose theaters featuring ICONX Dolby® ATMOS™ and heated recliners! \*Terms apply. BUY TICKETS
     
 *   AMC Stubs® Members Save Big with Discount Tuesdays
     
