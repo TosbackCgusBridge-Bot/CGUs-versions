@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 20% off your order
+Receive 50% off full-price kids' styles. 30% off other full-price styles!
 
-code: BREEZE pin: 1616PROMOTION DETAILS
+code: TRAVEL pin: 1066PROMOTION DETAILS
 
 Customer Service Menu
 
