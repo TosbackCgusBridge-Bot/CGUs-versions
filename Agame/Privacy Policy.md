@@ -82,8 +82,8 @@ View more results
     *   Apple Shooter: Arrow Game
     *   Warbanner
     *   Total Front: Army War Game
-    *   Stunt Skateboard 3D
     *   Combat Strike 2: 3D Shooting Game Online Multiplayer
+    *   Stunt Skateboard 3D
     *   Slither.io
     *   Short Life
     *   Uphill Rush 7: Waterpark
