@@ -6,6 +6,8 @@ Change country/language X
 
 Autodesk logo
 
+*   0
+
 *   Sign In
     
     Autodesk Account
@@ -151,7 +153,7 @@ ENTERTAINMENT COLLECTION
 
 Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Promo Data: FY20 Q3 - August Flash
 
-4 days only
+Last day
 
 20% off AutoCAD, AutoCAD LT &. Revit LT Suite.
 
@@ -165,7 +167,9 @@ Free trial
 
 Subscribe
 
-—/year
+$1,288.00/year
+
+$1,610.00
 
 Cost-effective 2D CAD
 
@@ -175,7 +179,9 @@ Free trial
 
 Subscribe
 
-—/year
+$320.00/year
+
+$400.00
 
 Get Revit LT and AutoCAD LT together at a great value
 
@@ -185,9 +191,9 @@ Free trial
 
 Subscribe
 
-—/year
+$420.00/year
 
-Try, buy, or learn more about Autodesk products See all products The Future of Making Granta disrupts medical-device manufacturing with digital fabrication
+$525.00 Try, buy, or learn more about Autodesk products See all products The Future of Making Granta disrupts medical-device manufacturing with digital fabrication
 
 Find out how this start-up team uses expertise in automotive engineering and digital manufacturing to innovate the design and fabrication of custom skull implants.
 
@@ -202,7 +208,7 @@ See what's included
 
 Product details
 
-\---/year
+$2,825.00/year
 
 Subscribe
 
@@ -212,7 +218,7 @@ See what's included
 
 Product details
 
-\---/year
+$2,590.00/year
 
 Subscribe FEEDBACK FOLLOW AUTODESK
 
