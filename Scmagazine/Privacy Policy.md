@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   European Central Bank confirms BIRD site hacked, contact info stolen
-    *   Cyberattacks hit NCH Healthcare System and Grays Harbor Community Hospital
-    *   Varenyky malware records porn on screen, distributes sextortion spam
-    *   Nowhere to turn for middle market companies decimated by cybercrime
+    *   VMware to acquire Carbon Black
+    *   SC Media's 30 on 30 podcast with the ISF's Steve Durbin
+    *   Red/Blue team exercises show defensive shortfalls: Survey
+    *   August product reviews: Deception network tools
+    *   CyberRisk Alliance acquires Cybersecurity Collaborative establishing its Peer Council Business Platform
+    
+    *   Red/Blue team exercises show defensive shortfalls: Survey
+    *   Fake VPN and office software websites spread Bolij.2 banking trojan
+    *   Intel rolls out security updates for seven products
+    *   Caught in a bad romance: Feds indict 80 alleged members of romance/BEC scam ring
     *   Adobe Patch Tuesday tackles Reader, Acrobat flaws
     
-    *   European Central Bank confirms BIRD site hacked, contact info stolen
-    *   Threat hunting with next-generation tools
-    *   Mobile Device Security for Blue Collar Workers
-    *   SC Media's 30th Anniversary Then and Now: RSA
+    *   Caught in a bad romance: Feds indict 80 alleged members of romance/BEC scam ring
+    *   VMware to acquire Carbon Black
     *   Mass. General breach exposes private info on 9,900 in research programs
-    
+    *   Syrk ransomware comes disguised as Fortnite cheat tool to ambush gamers
     *   Texas municipalities struggle to recover from ransomware attacks
-    *   New way to lose at poker? Card game domains infected with Magecart skimmer
-    *   AhMyth –based malicious app found in Google Play
-    *   SC Media's 30th anniversary Q&A with Catherine Allen
-    *   BitDefender Antivirus Free 2020 found vulnerable
 
 Back to Top
 
