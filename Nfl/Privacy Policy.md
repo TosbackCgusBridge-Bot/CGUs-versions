@@ -1,12 +1,10 @@
-*   CLE2-112TB2-113Final
-*   BUF3-024DET0-320Final
-*   ARI1-1MIN2-0Sat, 1:00 pm ET
-*   HOU1-1DAL1-1Sat, 7:00 pm ET
-*   CHI0-2IND0-2Sat, 7:00 pm ET
-*   NO1-1NYJ1-1Sat, 7:30 pm ET
-*   SF2-0KC1-1Sat, 8:00 pm ET
-*   DEN1-2LA0-2Sat, 9:00 pm ET
-*   SEA1-1LAC0-2Sat, 10:00 pm ET
+*   SEA•23LAC94th • 08:09
+*   NO2-128NYJ1-213Final
+*   SF3-027KC1-217Final
+*   DEN1-36LA1-210Final
+*   ARI1-29MIN3-020Final
+*   HOU1-20DAL2-134Final
+*   CHI1-227IND0-317Final
 *   PIT2-0TEN1-1Sun, 8:00 pm ET
 *   NYG3-025CIN1-223Final
 *   WAS1-219ATL0-47Final
@@ -14,6 +12,8 @@
 *   BAL3-026PHI1-215Final
 *   GB1-221OAK3-022Final
 *   JAX0-37MIA2-122Final
+*   CLE2-112TB2-113Final
+*   BUF3-024DET0-320Final
 
 *   News
 *   Scores
@@ -37,15 +37,13 @@
 *   Photos
 *   NFL Films
 
-*   CLE12TB13Final
-*   BUF24DET20Final
-*   ARI1-1MIN2-0Sat, 1:00 pm ET
-*   HOU1-1DAL1-1Sat, 7:00 pm ET
-*   CHI0-2IND0-2Sat, 7:00 pm ET
-*   NO1-1NYJ1-1Sat, 7:30 pm ET
-*   SF2-0KC1-1Sat, 8:00 pm ET
-*   DEN1-2LA0-2Sat, 9:00 pm ET
-*   SEA1-1LAC0-2Sat, 10:00 pm ET
+*   Big Play HighlightG.Smith 8-yard TD runWatch NowSEA•23LAC94th • 08:09
+*   NO28NYJ13Final
+*   SF27KC17Final
+*   DEN6LA10Final
+*   ARI9MIN20Final
+*   HOU0DAL34Final
+*   CHI27IND17Final
 *   PIT2-0TEN1-1Sun, 8:00 pm ET
 *   NYG25CIN23Final
 *   WAS19ATL7Final
@@ -53,6 +51,8 @@
 *   BAL26PHI15Final
 *   GB21OAK22Final
 *   JAX7MIA22Final
+*   CLE12TB13Final
+*   BUF24DET20Final
 
 *   News
 *   Scores
