@@ -3,7 +3,7 @@ Accessibility links
 *   Skip to main content
 *   Keyboard shortcuts for audio player
 
-****Listen To NPR News In 5 Minutes**** Toggle more player options
+Toggle more player options
 
 *   Sign In
 *   NPR Shop
