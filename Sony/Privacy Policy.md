@@ -124,7 +124,7 @@ Play video: Head to Eagle Island With Your Flock Close video: Head to Eagle Isla
 
 Today, we celebrate you. Watch the full #BeAlpha film now 👉  http://bit.ly/SonyBeAlpha  #WorldPhotographyDay pic.twitter.com/HFvW4YICBE
 
-4 days ago View Tweet The Boys B0YqmoBnskQ
+5 days ago View Tweet The Boys B0YqmoBnskQ
 
 Charge on the Go
 
