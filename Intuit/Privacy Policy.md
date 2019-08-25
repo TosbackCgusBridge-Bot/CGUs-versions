@@ -86,7 +86,7 @@ Disney Frozen 2 Trailer SEE IT. SHOP IT. #AllAtJCPMedia CarouselSlide 1 of 4. UP
     $2399after couponwas $60 Liz Claiborne Womens Lambert Heeled Sandals(4)Add To Cart
 *   SPECIAL DEAL!
     
-    $2799after couponwas $55 east 5th Womens Vane Wedge Sandals(3)Add To Cart
+    $2799after couponwas $50 Arizona Womens Marion Wedge Sandals(5)Add To Cart
 
 UP TO 70% OFF SHORTS FOR THE FAMILYSHOP ALLSELECT STYLESUP TO 70% OFF SHORTS FOR THE FAMILYSELECT STYLESSHOP ALL
 
@@ -114,20 +114,24 @@ UP TO 70% OFF SHORTS FOR THE FAMILYSHOP ALLSELECT STYLESUP TO 70% OFF SHORTS FOR
 
 Recommended for You
 
+*   BIG BUY!
+    
+    from$079after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(277)
 *   ADVERTISED DEAL!
     
     from$3999 sale
     
     was $60 | 15 - 33% offNike Revolution 4 Womens Lace-up Running Shoes(119)
-*   BIG BUY!
-    
-    from$079after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(277)
-*   $759after couponwas $19 St. John's Bay 3/4 Sleeve V-Neck Tee - Plus(5)
+*   from$239after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(187)
 *   from$6369
     
     Nike Air Max Motion 2 Womens Lace-up Running Shoes(6)
-*   from$239after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(187)
 *   from$319after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1359)
+*   BIG BUY!
+    
+    $3799 sale
+    
+    was $55 | 31% offNike Hayward 2.0 Backpack(3)
 
 Shop and Save at JCPenney
 
