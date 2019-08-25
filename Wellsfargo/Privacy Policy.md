@@ -5,7 +5,7 @@ Skip to content
 *   ATMs/Locations
 *   Español
 
-Search Enter search term, then press down arrow to navigate suggestions
+Search  Opens a dialog.
 
 *   selected Personal
 *   Small BusinessSmall Business. Serving businesses with up to $5 million in annual revenue.
@@ -14,7 +14,7 @@ Search Enter search term, then press down arrow to navigate suggestions
 *   Financial Education
 *   About Wells Fargo
 
-*   Banking and Cards Banking Accounts and Services
+*   Banking and Credit Cards Banking Accounts and Services
     
     *   Checking Accounts
     *   Savings Accounts and CDs
