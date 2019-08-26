@@ -22,7 +22,7 @@ Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Orde
 
 Call or Text 1-800-963-4816
 
-Refer a Friend for 40% OFF Full Price Items! Bag
+Refer a Friend for 40% OFF Full Price Items! Bag 0
 
 *   Women
 *   Men
@@ -36,7 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag
 *   Sale
 *   Live chat
 
-code: pin: PROMOTION DETAILS
+Receive 50% off full-price kids' styles. 30% off other full-price styles!
+
+code: TRAVEL pin: 1066PROMOTION DETAILS
 
 Customer Service Menu
 
