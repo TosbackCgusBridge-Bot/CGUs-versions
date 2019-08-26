@@ -2,7 +2,7 @@ Search
 
 MyVanco Login
 
-Sales: **855.707.6910**   Support: **800.675.7430**
+Sales: **855.247.0067**   Support: **800.675.7430**
 
 SearchUse up and down arrows to select available result. Press enter to go to selected search result. Touch devices users can use touch and swipe gestures.  
 
@@ -179,7 +179,7 @@ Bloomington, MN 55431
 
 **CALL US**
 
-**Sales:** 855.707.6910
+**Sales:** 855.247.0067
 
 **Support:** 800.675.7430
 
@@ -221,7 +221,7 @@ CALL US
 
 **Support:** (800) 675-7430
 
-**Sales:** (855) 707-6910
+**Sales:** (855) 247-0067
 
 Copyright © 2019 Vanco. All rights reserved.  
 Vanco is a registered ISO of Wells Fargo Bank, N.A., Concord, CA Privacy Policy | Terms and Conditions PCI Certified <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCFS6FD" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1833255713665121&amp;ev=PageView&amp;noscript=1">.
