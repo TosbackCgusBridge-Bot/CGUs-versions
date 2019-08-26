@@ -215,17 +215,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   VMware to acquire Carbon Black
-    *   SC Media's 30 on 30 podcast with the ISF's Steve Durbin
-    *   Red/Blue team exercises show defensive shortfalls: Survey
-    *   August product reviews: Deception network tools
-    *   CyberRisk Alliance acquires Cybersecurity Collaborative establishing its Peer Council Business Platform
+    *   European Central Bank confirms BIRD site hacked, contact info stolen
+    *   Virginia State Police recoup $300K stolen in BEC scam
+    *   Cyberattacks hit NCH Healthcare System and Grays Harbor Community Hospital
+    *   Court orders Georgia to replace DRE voting machines with paper ballot systems by 2020 presidential primary
+    *   Mobile Device Security for Blue Collar Workers
     
-    *   Red/Blue team exercises show defensive shortfalls: Survey
-    *   Fake VPN and office software websites spread Bolij.2 banking trojan
-    *   Intel rolls out security updates for seven products
-    *   Caught in a bad romance: Feds indict 80 alleged members of romance/BEC scam ring
-    *   Adobe Patch Tuesday tackles Reader, Acrobat flaws
+    *   U.S. renews temporary license allowing companies to sell to Huawei, adds 45 to blacklist
+    *   AhMyth –based malicious app found in Google Play
+    *   How to build a successful offensive security research team
+    *   First Look: Corelight Sensor
+    *   Syrk ransomware comes disguised as Fortnite cheat tool to ambush gamers
     
     *   Caught in a bad romance: Feds indict 80 alleged members of romance/BEC scam ring
     *   VMware to acquire Carbon Black
