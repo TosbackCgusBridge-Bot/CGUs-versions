@@ -37,7 +37,7 @@ Expand your payment options with our credit, debit, prepaid cards &. PayPal Cred
 
 Check out faster, at any of the millions of sites PayPal is accepted.
 
-Sign Up for Free
+Get Started
 
 \*Sending &. receiving funds requires a PayPal account.  
 \*\*Subject to credit approval.
@@ -109,4 +109,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&pgst=Unknown&calc=24678634c593a&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&ccpg=us&csci=eff34fa9c12d486c9ac198b574985fe5&comp=mppnodeweb&tsrce=mppnodeweb&cu=0&pxpguid=c721b86e16cac1200016d200fff9e595&xe=100883&xt=102538&pgld=Unknown&bzsr=main&bchn=mktg&tmpl=home.dust&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&pgst=Unknown&calc=4c51c3e9bce6d&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&ccpg=us&csci=8573e2f3739e4a18bb1806f896b5caef&comp=mppnodeweb&tsrce=mppnodeweb&cu=0&pxpguid=cc4760b816cac1200017d9defff26336&xe=100883&xt=102539&pgld=Unknown&bzsr=main&bchn=mktg&tmpl=home.dust&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
