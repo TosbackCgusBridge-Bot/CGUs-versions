@@ -44,7 +44,7 @@ Download Ubuntu ›
 
 Further reading
 
-*   MicroK8s Gets Powerful Add-ons ›
+*   MicroK8s gets powerful add-ons ›
 *   Useful security software from the Snap Store ›
 *   Jupyter looks to distro-agnostic packaging for the democratisation of installation ›
 *   How to add a linter to ROS 2 ›
