@@ -467,8 +467,6 @@ Returns
 
 Promotions
 
-*   10% Off Buckle Credit Card Purchases
-*   First Buckle Credit Card Purchase
 *   Store Events
 *   Military Discount
 *   All Special Offers
