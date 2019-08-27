@@ -71,7 +71,7 @@ Last name
 
 Email address
 
-Please enter a valid email address This email has already been used to sign up with CONNECTED\_THIRD\_PARTY\_NAMES. Try signing in with CONNECTED\_THIRD\_PARTY\_NAMES or use another email address. Create a password
+Please enter a valid email address Please check you have entered your email address correctly. Please check you have entered your email address correctly before continuing. This email has already been used to sign up with CONNECTED\_THIRD\_PARTY\_NAMES. Try signing in with CONNECTED\_THIRD\_PARTY\_NAMES or use another email address. Create a password
 
 Earn free travel rewards with Orbitz Rewards. opens in a new window By joining Orbitz Rewards, I accept all Terms and Conditions. opens in a new window Send me emails with travel deals, special offers, and other information. Sign Up By creating an account, I agree to the Terms of Use opens in a new window and the Privacy Policy opens in a new window.
 
