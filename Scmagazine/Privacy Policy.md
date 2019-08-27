@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   European Central Bank confirms BIRD site hacked, contact info stolen
+    *   Mastercard says German Priceless Specials loyalty program breached
+    *   SC Media's 30th Anniversary Then and Now: RSA
+    *   Data breach of Hostinger exposes 14 million users
     *   Virginia State Police recoup $300K stolen in BEC scam
-    *   Cyberattacks hit NCH Healthcare System and Grays Harbor Community Hospital
-    *   Court orders Georgia to replace DRE voting machines with paper ballot systems by 2020 presidential primary
-    *   Mobile Device Security for Blue Collar Workers
+    *   The Freakonomics of malware: What security leaders can learn by studying incentives
     
-    *   U.S. renews temporary license allowing companies to sell to Huawei, adds 45 to blacklist
-    *   AhMyth –based malicious app found in Google Play
-    *   How to build a successful offensive security research team
-    *   First Look: Corelight Sensor
-    *   Syrk ransomware comes disguised as Fortnite cheat tool to ambush gamers
+    *   Astronaut accused of identity theft, accessing estranged wife's bank account, from International Space Station
+    *   Delta sues AI vendor over 2017 breach exposing info on 825K
+    *   Rockville Center School District pays $88,000 ransom
+    *   Nowhere to turn for middle market companies decimated by cybercrime
+    *   Capital One hacker to ask for release on bail
     
-    *   Caught in a bad romance: Feds indict 80 alleged members of romance/BEC scam ring
-    *   VMware to acquire Carbon Black
-    *   Mass. General breach exposes private info on 9,900 in research programs
-    *   Syrk ransomware comes disguised as Fortnite cheat tool to ambush gamers
-    *   Texas municipalities struggle to recover from ransomware attacks
+    *   Facebook publicly releases emails related to data scraping, Cambridge Analytica
+    *   Research: Hacktivism activity and chatter has markedly dropped since 2016
+    *   Data breach of Hostinger exposes 14 million users
+    *   Rockville Center School District pays $88,000 ransom
+    *   SC Media's 30th Anniversary - Then and Now: Malware
 
 Back to Top
 
