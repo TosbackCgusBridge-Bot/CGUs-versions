@@ -2,7 +2,7 @@ Cookies help us keep internet content free. By continuing to use our website or 
 
 If you decline, your information won’t be tracked when you visit this website. A single cookie will be used in your browser to remember your preference not to be tracked.
 
-AcceptDecline Publicis Groupe Completes Acquisition of Epsilon-Conversant Learn more
+AcceptDecline Publicis Groupe Completes Acquisition of Epsilon-Conversant
 
 *   Careers
 *   Ad Quality
