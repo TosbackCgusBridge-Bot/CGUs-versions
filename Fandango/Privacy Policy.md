@@ -5,46 +5,43 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Angel Has Fallen
     *   Good Boys (2019)
-    *   Fast &. Furious Presents: Hobbs &. Shaw
+    *   Overcomer
     *   The Lion King (2019)
+    *   Fast &. Furious Presents: Hobbs &. Shaw
+    *   Ready or Not
     *   The Angry Birds Movie 2
     *   Scary Stories to Tell in the Dark
-    *   47 Meters Down: Uncaged
     *   Dora and the Lost City of Gold
     *   Once Upon a Time in Hollywood
-    *   Blinded by the Light
-    *   The Art of Racing in the Rain
-    *   Where'd You Go, Bernadette
+    *   47 Meters Down: Uncaged
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Angel Has Fallen
-    *   Overcomer
-    *   Ready or Not
-    *   Becoming Burlesque
-    *   Brittany Runs a Marathon
-    *   Fiddler: A Miracle of Miracles
-    *   Give Me Liberty (2019)
-    *   Miles Davis: Birth of the Cool
-    *   RUSH: Cinema Strangiato 2019
-    *   Tigers Are Not Afraid
-    *   Vita &. Virginia
+    *   Don't Let Go
+    *   Saaho (2019)
+    *   Spider-Man: Far From Home – Extended Cut
+    *   Before You Know It (2019)
+    *   Bennett's War
+    *   Killerman
+    *   Ne Zha
+    *   Tod@s Caen
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Don't Let Go
-    *   Saaho (2019)
     *   It Chapter Two (2019)
     *   The Goldfinch
     *   Hustlers
     *   Ad Astra
+    *   Downton Abbey (2019)
     *   Rambo: Last Blood
     *   Abominable (2019)
     *   War (2019)
     *   Joker (2019)
+    *   The Addams Family (2019)
     *   See All Coming Soon
     
     Explore More
@@ -309,9 +306,9 @@ Offers
     
     Sign up for a 'Cats' FanAlert™ for your chance to win a trip to the premiere in London! \*Terms apply. ENTER NOW
     
-*   'Kingdom' Gift With Purchase
+*   Enjoy movies all summer long
     
-    Get a free 1-month trial to FunimationNow when you buy tickets to 'Kingdom'! \*Terms apply. BUY TICKETS
+    Get a free movie ticket\* with Gift Card orders $75+ BUY GIFT CARDS
     
 
 New + Coming soon
