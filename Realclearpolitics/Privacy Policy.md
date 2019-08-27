@@ -113,53 +113,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Clemence Michallon_: I'm Ashamed of How France Protects Woody Allen
+*   _Victor Davis Hanson_: The Mythical Trump Hydra
     
-*   _Christian Toto_: Taylor Swift Is Everything That's Wrong with Celebrity Culture
+*   _Joel Mathis_: G-7 Summit Reveals Donald Trump Is a Bad Friend
     
-*   _Susan Crabtree_: Could California Be Warren's Golden Ticket?
+*   _Sen. Tom Cotton_: We Should Buy Greenland
     
-*   _Melinda Henneberger_: Joe Biden Really Is My Favorite 2020 Democrat
+*   _Mark Penn_: Hey, President Trump: Push China, But Lay Off Twitter
     
-*   _Roger L. Simon_: Bernie and the Dems: How Anger Makes You Stupid
+*   _Byron York_: Why Don't Democratic Also-Rans Quit the Race?
     
-*   _Steve Lopez_: Michelle Obama Is the Only One Who Can Beat Trump
+*   _Edward-Isaac Dovere_: How Warren Is Wooing the Democratic Establishment
     
-*   _Michael Goodwin_: Bias Has Killed the 'Gray Lady' &. Baquet Fired the Fatal Shot
+*   _Rich Logis_: Republicans Have a Huge Opportunity With Minority Voters
     
-*   _David Remnick_: Trump Clarification Syndrome
+*   _Roger Kimball_: Emmanuel Macron's Climate Change Virtue Signaling
     
-*   _Andrew McCarthy_: McCabe and Papadopoulos: Two-Tiered Justice
+*   _Salazar-Lopez &. Allen_: We Are Facing a Global Emergency in the Amazon
     
-*   _Josh Barro_: How Trump Will Tank the Economy &. His Presidency
+*   _Ronald Bailey_: Amazon Burning Is Mostly Farms, Not Forests
     
-*   _J.T. Young_: Recession? Headlines in Search of a Story
+*   _Mozaffarian &. Glickman_: Our Food Is Killing Too Many of Us
     
-*   _Yasmeen Serhan_: Boris Johnson's G7 Balancing Act
+*   _Robert Samuelson_: The Great Deficit Gamble
     
-*   _Freddy Gray_: Trump's Yin &. Yang Game With China
+*   _Maria Bartiromo_: Does the Media Have the Power to Crash the Economy?
     
-*   _Tammy Tam_: When Will Calm Return to Protest-Stricken Hong Kong?
+*   _Nesrine Malik_: To Beat Trump, Dems Will Need to Get Down &. Dirty
     
-*   _Bridget Read_: Amazon Fires: The Case for Climate Grief
+*   _Frank Miele_: President Trump Is No Safe Bet. He's a Leader
     
-*   _Michaels &. Rossiter_: The Great Failure of the Climate Models
+*   _Miranda Devine_: Trump Took a Page Out of the WWE's Playbook
     
-*   _Mary Schmich_: Be Curious. Be Uncomfortable. Learn About Slavery
+*   _Caputo &. Thompson_: Rock Star vs Rock: Warren, Biden Headed for Collision
     
-*   _Newt Gingrich_: NY Times Launches Propaganda Campaign on Race
+*   _Bill Scher_: How Sanders' Climate Plan Could Divide Progressives
     
-*   _Neil Paine_: Few QBs as Good as Andrew Luck Have Left So Early
+*   _David Catron_: Trump Would Beat Michelle Obama Badly
     
-*   _Peter Baker_: Trump's Volatile Approach to Gyrating Economy Raises Alarms
+*   _Mike Giglio_: China's Spies Are on the Offensive
     
-*   _Doug Bandow_: The G7 Should Pressure China But Find a Solution With Russia
+*   _Harry Kazianis_: Trump Right to Reverse Obama's Appeasement of China
     
-*   _Justin Fox_: At the G7, Trump Is One of the Popular Ones
+*   _Scott Gilmore_: When the World Stopped Listening to America
     
-*   _Andy Puzder &. Jim Talent_: Trump Is Playing a Long Game With China
+*   _Patrick Buchanan_: Greenland: Trump's MAGA Idea!
     
-*   _Andrew Sullivan_: This Presidency Never Gets Any Less Absurd
+*   _Astra Taylor &. Leah Hunt-Hendrix_: Only Solidarity Can Save the Planet
     
 
 *   Previous
@@ -230,11 +230,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Could California Be Warren's Golden Ticket?
 *   Climate Change Divides Dems as DNC Plots 2020 Strategy
+*   Page: FBI Wanted Me to Make False Testimony About Russians
 *   Ranking the 2020 Democratic Candidates by Media Coverage
-*   Former Overstock CEO: "Men in Black" Pushed Me to Contact Butina
 *   Making a Case to Women: Trump Female Defenders Go on Offense
-*   Will '80s Stance on 'Ethnocide' Harm Sanders With Native Americans?
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,26 +247,48 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalThe Hill/HarrisX
-    *   Approve46
-    *   Disapprove54Disapprove +8
+*   2020 Democratic Presidential NominationPolitico/Morning Consult
+    *   Biden33
+    *   Sanders20
+    *   Warren15
+    *   Harris8
+    *   Buttigieg5
+    *   O'Rourke3
+    *   Booker3
+    *   Yang2
+    *   Castro1
+    *   Gabbard1
+    *   Klobuchar1
+    *   Williamson1
+    *   Steyer1Biden +13
+*   2020 Democratic Presidential NominationMonmouth
+    *   Biden19
+    *   Sanders20
+    *   Warren20
+    *   Harris8
+    *   Buttigieg4
+    *   O'Rourke2
+    *   Booker4
+    *   Yang3
+    *   Castro2
+    *   Gabbard1
+    *   Klobuchar1
+    *   Williamson2
+    *   Steyer0Tie
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve50
-    *   Disapprove48Approve +2
-*   Arizona: Trump vs. BidenOH Predictive Insights
-    *   Biden45
-    *   Trump43Biden +2
-*   Arizona: Trump vs. SandersOH Predictive Insights
-    *   Trump44
-    *   Sanders34Trump +10
+    *   Approve48
+    *   Disapprove50Disapprove +2
+*   Direction of CountryRasmussen Reports
+    *   Right Direction41
+    *   Wrong Track53Wrong Track +12
 
 More Latest Polls In The News
 
-*   Graham On Trade War: At Point Where Prices Go Up At Walmart, China Trying To "Wait Trump Out"
+*   Ana Kasparian: Democrats Want Someone Who's "Going To Make The Republican Party Bend to Our Will"
+*   Trump: Obama Outsmarted By Putin When Russia Annexed Crimea, "It Was Very Embarrassing To Him"
 *   Psychiatrist On CNN: Trump May Be Responsible For Millions More Deaths Than Hitler, Stalin, And Mao
+*   Graham On Trade War: At Point Where Prices Go Up At Walmart, China Trying To "Wait Trump Out"
 *   Wallace Presses Mnuchin: Does Trump Really Believe He Can Stop Companies From Doing Business In China?
-*   Joe Walsh Announces Primary Challenge Against Trump: Republicans Are Tired Of The "Drama" And "BS"
-*   Pete Buttigieg: "Back To Normal Is Not Good Enough," "Getting Rid" Of Trump Is "Not Enough"
 
 *   Politics
 *   Policy
