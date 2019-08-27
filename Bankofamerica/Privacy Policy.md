@@ -44,7 +44,9 @@ Remember: Zelle® transactions should be considered the same as cash. Zelle® sh
 *   **Don’t give out your information:** Do not give out any personal identifiable information unless you’re absolutely certain the person and reason are legitimate. Remember: Bank of America will never ask you to send us personal information such as an account number, Social Security or Tax ID over text, email or online.
 *   **Research and validate:** If the individual or organization seems suspicious, make sure the request being made is legitimate by calling the organization through an official number from their website or consulting with a trusted family member or friend.
 
-Contact us immediately if you feel you may have been a victim of a scam.  
+Contact us immediately if you feel you may have been a victim of a scam.
+
+**AARP has assembled a variety of resources about security and scams that we think you will find helpful: AARP Page on Scams and Fraud**  
   
 **Common types of scams**
 
