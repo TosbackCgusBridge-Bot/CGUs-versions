@@ -61,200 +61,137 @@ Skip Navigation
     *   Brand Assets
     *   Contacts
 
-AT&T Privacy Policy  
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-P3VL32" height="0" width="0" style="display:none;visibility:hidden"></iframe>. People | Planet | Possibilities AT&T Corporate Citizenship &. Sustainability Your Privacy Center
 
-**En Español**  **En Français**
+*   Your Privacy Center
+*   _check icon_ Your Choices, Tips &. Tune- Ups
+    *   Privacy Choices
+    *   Tips &. Tune-Ups
+    *   Contact Us
+*   _report icon_ AT&T Privacy Policy
+    *   Introduction
+    *   The Information We Collect
+    *   How We Collect Your Information
+    *   How We Use Your Information
+    *   How We Share Your Information
+    *   Your Choices and Controls
+    *   Security and Data Storage/Retention
+    *   Other Privacy Information
+    *   Contact Us
+*   _globe icon_ Global Approach
+    *   Website User GDPR Privacy Notice
+    *   ATT Business Customer GDPR Privacy Notice
+*   _stats icon_ Transparency Report
+    *   View on the web
+    *   Download the English PDF
+    *   Download the Spanish PDF
+*   English Español Français
 
-*   Overview &. Summary
-*   Your Rights &. Choices
-*   Frequently Asked Questions
-*   Full Privacy Policy
+ A person is swiping through content on their smartphone as a wireless signal transmits from the phone to a radio tower. Our Privacy Approach
 
+You count on us to deliver the best entertainment and communication experiences in the world. You also count on us to protect your personal information. Privacy is fundamental to our business and we’re committed to:
+
+*   Transparency - We’re open and honest about how we use your data.  
+    
+*   Choice and Control - We give you choices about how we use your data.  
+    
+*   Security - We use strong safeguards to keep your data confidential and secure.
+*   Integrity - We do what we say.
+
+We work hard to protect your information, to earn and maintain your trust, and to provide you with products and services that have privacy at the forefront. Your Privacy Center is designed to be a one-stop-shop for your privacy needs. Here, we explain our approach to privacy and data use – in simple language. You will also find helpful links to privacy choices, security tips, and much more.
+
+Thank you for choosing us,
+
+Tom Moore
+
+Chief Privacy Officer
+
+ A computer, email, and phone icon take turns appearing and connecting to a green check mark. Data helps us create better, more reliable products, services and experiences.
+
+Data helps us mobilize your world by creating dependable services and experiences. For example, data helps us with the planning and optimization of our smart network. It also helps us prevent bad customer experiences like dropped calls.
+
+ A floating shield featuring a lock emblem moves up and down on screen and pulses outward. Data helps improve security and prevent fraud.
+
+Data helps us and our third-party service partners strengthen network and device security and detect fraud, identity theft, and other ways that the bad guys try to hurt you and us.
+
+ A series of data lines grow from the outside of a heart icon while a city animates inside of it. Data helps improve programs for social good.
+
+By using our resources, we make the world a better place. For example, data has helped us raise awareness of the risks of texting while driving. And data can help us make cities smarter by reducing traffic, pollution, and much more.
+
+ A spinning wheel slows down and lands on a section which grows from the center, revealing a media icon. Data helps us customize offers for our products and services that may interest you.
+
+Your information helps us not only power your products and services, it helps us communicate service updates and offers. Data allows us to offer you our best products and services.
+
+For more information on how you can control your privacy, please see Your choices, tips &. tune-ups. _icon button_ ×A message from our Chief Privacy Officer
+
+Over the years, our business has changed dramatically. We’ve expanded beyond our traditional carrier services to add mobile applications, IPTV, satellite TV, advertising, and the Internet of Things. What has not changed is our fundamental commitment to privacy.
+
+Our privacy mission is to protect customers, respect their privacy, use data in an ethical way, and earn our customers’ trust. We strive to be as transparent as possible and to provide you with appropriate choices about how your information can be used.
+
+We incorporate privacy protections into our products, services and technologies from the ideation stage and throughout the product lifecycle. Our advanced privacy protections in many cases have been reviewed by AT&T Labs or top experts on our Data Advisory Board. We safeguard your data using a variety of approaches such as encryption, anonymization, and other security controls. We also secure our network and limit access to customer information within the company to those that have a business need.
+
+We want to hear from you. Send us your questions or feedback here.
+
+Thank you,
+
+Tom Moore
+
+Chief Privacy Officer
+
+×Looking for the old Privacy Policy?
+
+You can access our old PDF download here .
+
+×Updates to the AT&T Privacy Policy  
+
+We made some updates and clarifications to our Policy effective February 15, 2019. Here is a summary:
+
+*   We've added Xandr to our list of examples of the various AT&T companies. That's the name of the advertising company we formed last year.
+*   We've clarified that the policy's definition of Anonymous Information includes advertising IDs when they can't be used to identify you.
+*   We note that advertising IDs are used and shared to deliver ads to you and help advertisers assess the effectiveness of their ad campaigns. You have the choice to opt in to some advertising programs, or say no to others. You can make your choices at att.com/cmpchoice.
+
+Looking for the full Privacy Policy?
+
+We’ve done our best to give you the high-level points in an easy-to-understand format on this site, but we understand that sometimes you want the full policy.
+
+View the full Privacy Policy
+
+Have questions about the Privacy Policy?
+
+We encourage you to contact us directly for any questions about this Privacy Policy.  
   
 
-Our Privacy Commitments
-
-**Our privacy commitments are fundamental to the way we do business every day. These apply to everyone who has a relationship with us - including customers (wireless, Internet, digital TV, and telephone) and Web site visitors.**
-
-*   We will protect your privacy and keep your personal information safe. We use encryption and other security safeguards to protect customer data.
-*   We will not sell your personal information to anyone, for any purpose. Period.
-*   We will fully disclose our privacy policy in plain language, and make our policy easily accessible to you.
-*   We will notify you of revisions to our privacy policy, in advance. No surprises.
-*   You have choices about how AT&T uses your information for marketing purposes. Customers are in control.
-*   We want to hear from you. You can send us questions or feedback on our privacy policy.
-
-About Our Privacy Policy
-
-Whenever you do something like buy one of our products, watch a show or download an app, information is created. Because we know your privacy is important, we have a Privacy Policy to explain how we collect, use and protect that information. There’s a quick summary below, and the actual policy is written in an easy to understand “Frequently Asked Questions” (FAQ) format. We want to simplify this explanation, so you can make informed choices about your privacy, and then spend the rest of your time enjoying our products and services.  
-
-  
-**Revised February 15, 2019**
-
-View Full Privacy Policy
-
-A Quick Summary of Our Privacy Policy
-
-Our Privacy Policy applies to your use of all products, services and websites offered by AT&T and our AT&T affiliates, such as DIRECTV, unless they have a different privacy policy. Because some apps, including some AT&T and DTV branded apps, require additional information, or use information in different ways, they may have their own privacy policies and/or terms and conditions. These apps may also offer you additional choices for managing your personal information.
-
-Back to Top
-
-**Our privacy commitments**  
-
-*   We don’t sell your Personal Information to anyone for any purpose. Period.
-*   We keep your Personal Information in our business records while you are a customer, or until it is no longer needed for business, tax or legal purposes.
-*   We will keep your information safe using encryption or other appropriate security controls.
-
-Back to Top
-
-**Here’s some of the information we collect:**
-
-*   **Account Information** includes your name, address, telephone number, e-mail address, service-related details such as payment data, security codes, service history and other information like that;
-*   **Network Performance &. Usage Information** tells us how you use our networks, our products and our services, and how well our equipment and networks are performing;
-*   **Web Browsing &. Wireless Application Information** tells us about the websites you visit and the mobile applications you use on our networks;
-*   **Location Information** tells us where your wireless device is located, as well as your ZIP-code and street address;
-*   **TV Viewing Information** tells us about which programs you watch and record and similar information about how you use our video services and applications.
-
-Back to Top
-
-**Here are the three basic ways we collect it:**
-
-*   We get information from you when you do things like make a purchase from us;
-*   We collect it from how you use our products and services;
-*   We obtain information from other sources, like credit agencies, marketing companies, and other service providers.
-
-Back to Top
-
-**Here are just some of the ways we use it. To:**
-
-*   Provide services and improve your customer experience;
-*   Send you bills for your services;
-*   Respond to your questions;
-*   Address network integrity, help in fraud prevention and network and device security issues;
-*   Do research and analysis to maintain, protect, develop and improve our networks and services;
-*   Let you know about service updates, content, offers and promotions that may be of interest to you;
-*   Improve entertainment options;
-*   Deliver Relevant Advertising;
-*   Create External Marketing &. Analytics Reports;
-*   Assist in the prevention and investigation of illegal activities and violations of our Terms of Service or Acceptable Use Policies.
-
-Back to Top
-
-**Some examples of who we share your Personal Information with:**
-
-*   **Across our companies** to give you the best customer experience and to help you get everything we have to offer.
-*   **Other, non-AT&T companies that perform services on our behalf** only as needed for them to perform those services. We require them to protect your information consistent with our Policy.
-*   **With other companies and entities, to:**
-    *   Respond to 911 requests and other emergencies or exigencies;
-    *   Comply with court orders and other legal process;
-    *   Assist with identity verification, and preventing fraud and identity theft;
-    *   Enforce our agreements and property rights;
-    *   and Obtain payment for products and services including the transfer or sale of delinquent accounts to third parties for collection
-
-Back to Top
-
-**Understanding Personal, Anonymous &. Aggregate Information**
-
-*   What is Personal Information? Information that identifies or reasonably can be used to identify you.
-*   What is Anonymous Information? This is information that doesn’t identify you and can't reasonably be used to identify you specifically.
-*   What is Aggregate Information? We take a whole bunch of people’s data and combine it into anonymous groups or categories.
-*   How do we use this information? We use and share this information in many ways including research, analysis, retail marketing, and advertising. This data is also included in External Marketing &. Analytics Reports.
-*   Want to learn more? Go here.
-
-Back to Top
-
-**Our Online Privacy Policy for Children**
-
-*   We want you to know that we don't knowingly collect personally identifying information from anyone under the age of 13 unless we first obtain permission from the child's parent or legal guardian.
-
-Back to Top
-
-**Your Choices &. Controls**
-
-*   For information about children’s safety and parental controls, view our AT&T Smart Controls and DIRECTV Parental Controls.
-*   You have choices about certain types of advertising you get from us;
-*   You can control whether your Anonymous Information is used in our External Marketing &. Analytics Reports;
-*   You can choose whether to receive marketing calls, e-mails or text messages or certain other communications from us;
-*   You have a choice about how we use your Customer Proprietary Network Information.
-
-Back to Top.
-
-Visit our Privacy Policy for more information.
-
-*   Definitions
-*   Scope of this Policy
-*   The Information We Collect, How We Collect It, And How We Use It
-*   Information Sharing
-*   Online Activity Tracking and Advertising
-*   Location Information
-*   Aggregate and Anonymous Information
-*   External Marketing &. Analytics Reports
-*   Online Privacy Policy for Children
-*   Data Protection &. Security
-*   Changes
-*   Choices &. Controls
-*   How to Contact Us
-
-  
-**Your California Privacy Rights**  
-California Civil Code Section 1798.83 entitles California customers to request information concerning whether a business has disclosed Personal Information to any third parties for their direct marketing purposes. As stated in this Privacy Policy, we will not sell your Personal Information to other companies and we will not share it with other companies for them to use for their own marketing purposes without your consent.
-
-**California Web Site Data Collection &. "Do Not Track" Notices**
-
-**Web Site Data Collection:** We do not knowingly allow other parties to collect personally identifiable information about your online activities over time and across third-party web sites when you use our websites and services. We provide information about the opt-out choices available to customers, and the opt-out choices provided by certain third-party website and mobile application analytics companies we use here.
-
-**"Do Not Track" Notice:** Because the providers of "do not track" and similar signals do not yet operate according to common, industry-accepted standards, we currently do not respond to those signals. For more information on Do Not Track, please visit www.allaboutdnt.com.
-
-California customers who wish to request further information about our compliance with these requirements, or have questions or concerns about our privacy practices and policies may contact us at privacypolicy@att.com, or write to us at AT&T Privacy Policy, Chief Privacy Office, 208 S. Akard, Room 1033, Dallas, TX 75202.
-
-Back to top
-
-Definitions
-
-Scope of this Policy
-
-The Information We Collect, How We Collect It, And How We Use It
-
-Information Sharing
-
-Online Activity Tracking and Advertising
-
-Location Information
-
-Aggregate and Anonymous Information
-
-External Marketing &. Analytics Reports
-
-Online Privacy Policy for Children
-
-Data Protection &. Security
-
-Future Changes
-
-Choices &. Controls
-
-How to Contact Us
-
-Recent Updates
-
-We Want to Hear from You
-
-Thanks for your feedback on our updated Privacy Policy. We heard you and, as a result, we're adding additional information on how you can exercise your privacy choices. We appreciate you as a customer and we value your thoughts. Please continue to share your feedback through our privacy mailbox.
-
-For Users of AT&T Business Services in Europe
-
-AT&T is committed to providing global service in compliance with all applicable law. For users of AT&T Business Services in the European Union, AT&T has published a Privacy Notice to provide transparency on our data processing activities, the types of personal data we process, and the legal rights of individuals under the General Data Protection Regulation (GDPR).
-
-Welcome DIRECTV Customers
-
-DIRECTV is now part of the AT&T family. For convenience, all AT&T products and services are covered under a single, easy-to-read Privacy Policy. The policy lays out our commitments to privacy and describes our policies for helping to protect personal information. We invite you to learn more about our commitments, safeguards and customer choices by reviewing our AT&T Policy, and we welcome your feedback.
-
-Please Be Aware
-
-AT&T will never contact you by e-mail to ask for your personal information. If you receive such an e-mail, do not reply. Learn more about how to protect yourself from phishing attacks.
-
-Lost or stolen phone?
-
-For help on what to do, visit att.com/stolenphone.
+Email us
+
+Sitemap
+
+*   Your Choices, Tips &. Tune-Ups
+*   Privacy Choices
+*   Tips &. Tune-Ups
+*   Contact Us
+
+*   AT&T Privacy Policy
+*   Introduction
+*   The Information We Collect
+*   How We Collect Your Information
+*   How We Use Your Information
+*   How We Share Your Information
+*   Your Choices and Controls
+*   Security
+*   Data Storage and Retention
+*   Other Privacy Information
+*   Recent Updates
+
+*   Global Approach
+*   Website User GDPR Privacy Notice
+*   ATT Business Customer GDPR Privacy Notice
+
+*   Transparency Report
+*   View on the web
+*   Download the English PDF
+*   Download the Spanish PDF
+
+×
 
 *   Privacy Policy
 *   Terms of Use
