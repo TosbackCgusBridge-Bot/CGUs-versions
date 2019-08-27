@@ -21,7 +21,7 @@ Close submenu ( Girls ) Girls
 *   Open submenu ( Bottoms ) Bottoms
 
 *   $6 + Under Shop
-*   Jackets
+*   Jackets + Vests
 *   Dresses + Rompers
 *   Matching Sets
 *   Accessories
@@ -86,10 +86,8 @@ Close submenu ( Guys ) Guys
 *   Accessories
 *   Underwear
 *   Cologne
-*   Shoes
 *   Extended Sizes
 *   Clearance
-
 *   Open submenu ( Collections ) Collections
 
 Close submenu ( Tops ) Tops
@@ -300,7 +298,7 @@ Menu Find a Store Aeropostale
         
     
     *   $6 + Under Shop
-    *   Jackets
+    *   Jackets + Vests
     *   Dresses + Rompers
     *   Matching Sets
     *   Accessories
@@ -350,10 +348,8 @@ Menu Find a Store Aeropostale
     *   Accessories
     *   Underwear
     *   Cologne
-    *   Shoes
     *   Extended Sizes
     *   Clearance
-    
     *   Collections
         *   View All
         *   New Arrivals
