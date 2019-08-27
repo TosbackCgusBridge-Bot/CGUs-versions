@@ -188,16 +188,40 @@
     *   Health insurance
     *   Life insurance
     
-    Insurance Carrier Reviews
+    Best of
     
-    *   Geico (Car Policies)
-    *   State Farm
-    *   Progressive
+    *   Best Car Insurance Companies
+    *   Best Home Insurance Companies
+    *   Best Cheap Car Insurance
+    *   Top Car Insurance Comparison
     
-    Get Advice
-    *   Car insurance savings
-    *   Car insurance quotes
-    *   Car insurance carriers
+    Company Reviews
+    
+    *   Geico Insurance
+    *   State Farm Insurance
+    *   Progressive Insurance
+    *   Allstate Insurance
+    *   Liberty Mutual Insurance
+    *   Nationwide Insurance
+    *   The General Insurance
+    *   Farmers Insurance
+    *   American Family Insurance
+    *   Erie Insurance
+    *   Amica Insurance
+    *   Travelers Insurance
+    
+    Insurance by State
+    *   Car Insurance California
+    *   Car Insurance Florida
+    *   Car Insurance Georgia
+    *   Car Insurance Michigan
+    *   Car Insurance New Jersey
+    *   Car Insurance New York
+    *   Car Insurance North Carolina
+    *   Car Insurance Pennsylvania
+    *   Car Insurance Texas
+    *   Home Insurance Florida
+    *   Home Insurance Texas
 *   Personal Finance Compare
     
     *   Current interest rates
@@ -487,4 +511,4 @@ Bankrate, LLC NMLS ID# 1427381 | NMLS Consumer Access
 BR Tech Services, Inc NMLS ID# 1743443 | NMLS Consumer Access  
 © 2019 Bankrate, LLC All Rights Reserved.
 
-United States United Kingdom <iframe src="//www.googletagmanager.com/ns.html?id=GTM-N74D8C" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="//bat.bing.com/action/0?ti=4064189&amp;Ver=2" height="0" width="0" style="display:none. visibility: hidden;">. <img height="1" width="1" src="https://www.facebook.com/tr?id=2085058148404940&amp;ev=PageView &amp;noscript=1">. <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2618953619387&amp;pd\[em\]=&lt;hashed\_email\_address&gt;&amp;noscript=1">.
+United States United Kingdom <iframe src="//www.googletagmanager.com/ns.html?id=GTM-N74D8C" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="//bat.bing.com/action/0?ti=4064189&amp;Ver=2" height="0" width="0" style="display:none. visibility: hidden;">. <img height="1" width="1" src="https://www.facebook.com/tr?id=2085058148404940&amp;ev=PageView &amp;noscript=1">. <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2618953619387&amp;pd\[em\]=&lt;hashed\_email\_address&gt;&amp;noscript=1">. <img src="//trc.taboola.com/1014189/log/3/unip?en=page\_view" width="0" height="0" style="display:none">.
