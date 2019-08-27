@@ -1,4 +1,3 @@
-*   PIT3-018TEN1-26Final
 *   NYG3-025CIN1-223Final
 *   WAS1-219ATL0-47Final
 *   CAR1-23NE3-010Final
@@ -14,12 +13,14 @@
 *   SF3-027KC1-217Final
 *   DEN1-36LA1-210Final
 *   SEA2-123LAC0-315Final
+*   PIT3-018TEN1-26Final
 
 *   News
 *   Scores
 *   Schedule
 *   Standings
 *   Highlights
+*   KICKOFF
 *   Watch Games
 *   NFL 100
 *   Fantasy
@@ -37,7 +38,6 @@
 *   Photos
 *   NFL Films
 
-*   PIT18TEN6Final
 *   NYG25CIN23Final
 *   WAS19ATL7Final
 *   CAR3NE10Final
@@ -53,12 +53,14 @@
 *   SF27KC17Final
 *   DEN6LA10Final
 *   SEA23LAC15Final
+*   PIT18TEN6Final
 
 *   News
 *   Scores
 *   Schedule
 *   Standings
 *   Highlights
+*   KICKOFF
 *   Watch Games
 *   NFL 100
 
