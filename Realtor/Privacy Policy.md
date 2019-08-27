@@ -115,7 +115,6 @@ Toggle navigation
     *   First Time Home Buyer Resource Center
     *   Mortgage Guide
     *   Veterans Home Buying Guide
-    *   Septic Survival Guide
     *   Real Estate Videos
     *   Housing Resources
 
