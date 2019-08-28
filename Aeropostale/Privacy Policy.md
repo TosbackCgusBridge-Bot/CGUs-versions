@@ -88,6 +88,7 @@ Close submenu ( Guys ) Guys
 *   Cologne
 *   Extended Sizes
 *   Clearance
+
 *   Open submenu ( Collections ) Collections
 
 Close submenu ( Tops ) Tops
@@ -350,6 +351,7 @@ Menu Find a Store Aeropostale
     *   Cologne
     *   Extended Sizes
     *   Clearance
+    
     *   Collections
         *   View All
         *   New Arrivals
