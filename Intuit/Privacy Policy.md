@@ -62,13 +62,13 @@ Disney Frozen 2 Trailer SEE IT. SHOP IT. #AllAtJCPMedia CarouselSlide 1 of 4. UP
 
 *   SPECIAL DEAL!
     
-    $849after couponwas $36 St. John's Bay Men's Stretch Chino Short(87)Add To Cart
+    $849after couponwas $36 St. John's Bay Men's Stretch Chino Short(88)Add To Cart
 *   SPECIAL DEAL!
     
     $1274after couponwas $40 St. John's Bay Mens Cargo Short(123)Add To Cart
 *   SPECIAL DEAL!
     
-    from$849after couponwas $32 - $37 Arizona Boys Stretch Adjustable Waist Cargo Short Preschool / Big Kid(16)Add To Cart
+    from$849after couponwas $32 - $37 Arizona Boys Stretch Adjustable Waist Cargo Short Preschool / Big Kid(17)Add To Cart
 *   SPECIAL DEAL!
     
     $1274after couponwas $40 St John's Bay Performance Shorts(3)Add To Cart
@@ -84,20 +84,16 @@ Disney Frozen 2 Trailer SEE IT. SHOP IT. #AllAtJCPMedia CarouselSlide 1 of 4. UP
 
 Recommended for You
 
-*   BIG BUY!
+*   from$254after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(278)
+*   from$3999 sale
     
-    from$079after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(277)
-*   ADVERTISED DEAL!
-    
-    from$3999 sale
-    
-    was $60 | 15 - 33% offNike Revolution 4 Womens Lace-up Running Shoes(119)
-*   from$239after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(188)
-*   from$319after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1359)
+    was $60 | 15 - 33% offNike Revolution 4 Womens Lace-up Running Shoes(120)
+*   from$254after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(188)
+*   from$339after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1360)
 *   from$6369
     
     Nike Air Max Motion 2 Womens Lace-up Running Shoes(6)
-*   $1039after couponwas $32 St. John's Bay Secretly Slender Mid Rise Capris(262)
+*   $1104after couponwas $32 St. John's Bay Secretly Slender Mid Rise Capris(264)
 
 Shop and Save at JCPenney
 
