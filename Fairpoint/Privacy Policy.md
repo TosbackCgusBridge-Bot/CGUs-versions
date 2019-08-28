@@ -47,8 +47,8 @@
         *   Managed &. IT Services
             *   Managed Router
             *   Managed Desktop &. Server Service
-            *   Microsoft Productivity Tools
-            *   Domain Services
+            *   Microsoft Productivity Suite
+            *   Website &. Email Management
             *   Mobile Device Management
             *   Professional Services
         *   Cloud Services
