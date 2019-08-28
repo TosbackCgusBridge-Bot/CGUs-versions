@@ -480,7 +480,7 @@ Our Merchandise
 
 *   Availability
 *   Pricing Policy
-*   Alterations
+*   Hemming
 *   Layaway
 
 Buckle Credit Card
