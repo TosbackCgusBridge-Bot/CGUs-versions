@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Components vs. Plugins in ROS 2 ›
+*   A guide to developing Android apps on Ubuntu ›
+*   Snaps help Xibo rekindle its relationship with Linux ›
 *   MicroK8s Version 1.16.0 Beta Released! ›
 *   Kubernetes 1.16 beta now available, with support from Canonical ›
-*   MicroK8s gets powerful add-ons ›
-*   Useful security software from the Snap Store ›
-*   Jupyter looks to distro-agnostic packaging for the democratisation of installation ›
