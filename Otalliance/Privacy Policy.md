@@ -135,7 +135,11 @@ The IoT Trust Framework® includes a set of strategic principles necessary to he
 
 Visit our IoT Trust Framework page and download the full version or Framework Overview.
 
-Read the Framework Learn more about IoT OTA News Deep Dive: How Healthcare Organizations Practice Privacy and Security Building Trust 20 August 2019 Deep Dive: How Healthcare Organizations Practice Privacy and Security
+Read the Framework Learn more about IoT OTA News How “Fresh” is That Privacy Statement? Privacy 27 August 2019 How “Fresh” is That Privacy Statement?
+
+One of the best practices we advocate and measure in our Online Trust Audit is that privacy statements should...
+
+Deep Dive: How Healthcare Organizations Practice Privacy and Security Building Trust 20 August 2019 Deep Dive: How Healthcare Organizations Practice Privacy and Security
 
 In April, the Online Trust Alliance published the 11th annual Online Trust Audit assessing the security and privacy of...
 
@@ -154,10 +158,6 @@ A slightly updated version of the Online Trust Audit &. Honor Roll is now availa
 10 Years of Auditing Online Trust – What’s Changed? Building Trust 22 April 2019 10 Years of Auditing Online Trust – What’s Changed?
 
 Last week we released the 10th Online Trust Audit &. Honor Roll, which is a comprehensive evaluation of an...
-
-Announcing the Online Trust Audit &. Honor Roll Results Building Trust 16 April 2019 Announcing the Online Trust Audit &. Honor Roll Results
-
-Do you know how – or even if – your favorite retailer, or your bank, or your ISP is...
 
 Load More Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team Megan Kruse photo Megan Kruse
 
