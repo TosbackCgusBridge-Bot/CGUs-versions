@@ -178,7 +178,7 @@ Users with questions about this Agreement and any of the above statements may co
 
 PRIVACY POLICY
 
-Updated as of June 26, 2019
+Updated as of August 20, 2019
 
 TAGGED and HI5 (collectively, the "Services") are owned and operated by The Meet Group, Inc. If you have any questions or comments about this Privacy Policy, please contact us at support@themeetgroup.com or here. This Privacy Policy is applicable to all of our Services unless otherwise noted.
 
@@ -233,7 +233,7 @@ We collect different types of personal information about you and your activities
     
 *   **Profile Information You Provide.** We collect the personal information that you provide to create your profile on our Services, including any metadata (such as location where a photo you upload was taken).
     
-*   **Automatically Collected Information.** We receive and record information from your device or browser, including your mobile device identification (AdID (Google), IDFA (Apple), device ID, etc.), IP address, cookie and beacon information, and geographic location. Unless you have disabled location collection at the device level, we will continue to collect location information even if you have opted out of sharing location information on your profile.
+*   **Automatically Collected Device Information.** We receive and record information from your device or browser, including your mobile device identification (AdID (Google), IDFA (Apple), device ID, etc.), IP address, cookie and beacon information, and geographic location. We collect information from and about the computers, phones, and other web-connected devices you use that integrate with our Services, and we combine this information across different devices you use. Unless you have disabled location collection at the device level, we will continue to collect location information even if you have opted out of sharing location information on your profile.
     
 *   **Activity and Usage Information Including Your Content.** We collect information about the features you use, the pages and screens you visit, and your transactions with us and with our partners and vendors, including information about your use of products or features offered through our Services. We and certain third-party partners may access your private chats and postings in order to improve your experience on our Services, for content moderation, for safety and for legal process purposes.
     
@@ -256,7 +256,7 @@ Specifically, we use and disclose your information in the following ways:
     
 *   **For marketing purposes.** We share information with companies we do not own, including information collected from cookies, such as your location, IP address, AdID or IDFA and certain demographic information, in order to allow our marketing partners to optimize our ad campaigns.
     
-*   **For advertising purposes.** We share information with companies we do not own, including information collected from cookies, such as your location, IP address, AdID or IDFA and certain demographic information (such as age, gender, parental status, relationship status, religion, education, and ethnicity), in order to allow these companies to deliver relevant ads.
+*   **For advertising purposes.** We share information with companies we do not own, including information collected from cookies and across the devices used to access the Service, such as your location, IP address, AdID or IDFA and certain demographic information (such as age, gender, parental status, relationship status, religion, education, and ethnicity), in order to allow these companies to deliver relevant ads.
     
 *   **For research.** To conduct research, including the numbers and types of visitors, and analyze traffic on our Services. We share some user data with companies we do not own to conduct this research.
     
@@ -368,5 +368,11 @@ Attn: Legal Department
 Web: www.themeetgroup.com
 
 Email: support@themeetgroup.com
+
+Advertising Partners
+
+Updated as of August 20, 2019
+
+33Across, AdColony, Adview, Amazon, AppLovin, AppNexus, Beachfront Media, Chartboost, Cheetah Mobile, Cox Media, DistrictM, EMX Digital, Exponential, Facebook Audience, Network, Freestar, Fyber, Google, Groundtruth, HyperMX, Index Exchange, InMobi, ironSource, Liftoff, Live Intent, LKQD, MobFox, Mobile Fuse, Mobvista, MoPub, OpenX, PubMatic, PubNative, PulsePoint, RhythmOne, Rubicon, Smaato, Sonobi, Sovrn, StartApp, Streamkey, Sublime Skinz, Taboola, TapJoy, TheoremReach, TripleLift, Unity, Verizon Media Group, Verve, Viant, Vungle, Woobi, YouAppi, Zedo, zPlay
 
 © 2019 Ifwe Inc. Mobile Company Jobs Privacy Terms Safety Support English English Bahasa Melayu Basa Jawa Español - América Latina Español - España Español - México Deutsch Français Italiano Magyar Nederlands Português - Brasil Português Русский Română Türkçe বাংলা 中文 (简体) 中文 (繁軆) हिन्दी 日本語 मराठी ਪੰਜਾਬੀ ไทย <img src="//pixel.quantserve.com/pixel/p-96ZHBHvG56-qg.gif" style="display:none" height="1" width="1" alt="Quantcast"/>. <img src="http://b.scorecardresearch.com/p?c1=2&c2=7198000&c3=&c4=www.tagged.com/terms\_of\_service.html&c5=&c6=&c15=da39a3ee5e6b4b0d3255bfef95601890afd80709&cj=1" />.
