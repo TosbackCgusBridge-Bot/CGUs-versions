@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off full-price kids' styles. 30% off other full-price styles!
+Free shipping, no minimum on all orders
 
-code: TRAVEL pin: 1066PROMOTION DETAILS
+code: SHIPNOW1 pin: PROMOTION DETAILS
 
 Customer Service Menu
 
@@ -61,7 +61,11 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Privacy Policy Last Updated: May 21, 2018
+Find an answer fast
+
+Search the Lands' End Help Center.
+
+Search the Lands' End Help Center. Go Privacy Policy Last Updated: May 21, 2018
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
