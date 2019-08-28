@@ -124,7 +124,7 @@ Play video: Head to Eagle Island With Your Flock Close video: Head to Eagle Isla
 
 We love when Sony properties get a second life. The Legend lives on this October! El Camino. A #BreakingBad Movie. 10.11.19 on @netflix pic.twitter.com/P1Wku6gv1w
 
-13 hours ago View Tweet The Boys B0YqmoBnskQ
+1 day ago View Tweet The Boys B0YqmoBnskQ
 
 Charge on the Go
 
