@@ -74,7 +74,7 @@
 *   Business Gifts
 *   Sale
 
-1.800.753.8558 Business Gifts Free box of milk chocolate sea salt caramels w/ any 8 oz filet purchase\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
+1.800.753.8558 Business Gifts Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
 
 *   Gifts
     
