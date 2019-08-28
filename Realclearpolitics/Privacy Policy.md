@@ -113,53 +113,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Victor Davis Hanson_: The Mythical Trump Hydra
+*   _Michael Shellenberger_: Why Everything They Say About the Amazon Is Wrong
     
-*   _Joel Mathis_: G-7 Summit Reveals Donald Trump Is a Bad Friend
+*   _David Wallace-Wells_: The Glimmer of a Climate New World Order
     
-*   _Sen. Tom Cotton_: We Should Buy Greenland
+*   _David Harsanyi_: How Media Enables Destructive Climate Change Hysteria
     
-*   _Mark Penn_: Hey, President Trump: Push China, But Lay Off Twitter
+*   _Dana Milbank_: Is Trump a President or a Timeshare Salesman?
     
-*   _Byron York_: Why Don't Democratic Also-Rans Quit the Race?
+*   _George Friedman_: The Geopolitical Logic of U.S.-China Trade War
     
-*   _Edward-Isaac Dovere_: How Warren Is Wooing the Democratic Establishment
+*   _Michael Schuman_: Angering China Can Now Get You Fired
     
-*   _Rich Logis_: Republicans Have a Huge Opportunity With Minority Voters
+*   _Andrew Prokop_: The State of the 2020 Democratic Primary Polls, Explained
     
-*   _Roger Kimball_: Emmanuel Macron's Climate Change Virtue Signaling
+*   _Sen. Bernie Sanders_: How Real Journalism Is Different From Today's News
     
-*   _Salazar-Lopez &. Allen_: We Are Facing a Global Emergency in the Amazon
+*   _Kurt Schlichter_: Get Ready for Apocalypse Ruth
     
-*   _Ronald Bailey_: Amazon Burning Is Mostly Farms, Not Forests
+*   _Annie Lowery_: The Next Recession Will Destroy Millennials
     
-*   _Mozaffarian &. Glickman_: Our Food Is Killing Too Many of Us
+*   _Nicole Neily_: The Comedy Police Hold Campuses Hostage
     
-*   _Robert Samuelson_: The Great Deficit Gamble
+*   _Josh Dawsey_: 68 Minutes in Biarritz: A Glimpse Into Trump's Unorthodox Mind
     
-*   _Maria Bartiromo_: Does the Media Have the Power to Crash the Economy?
+*   _Robert Bryce_: 'Climate Action' Flops at the G-7
     
-*   _Nesrine Malik_: To Beat Trump, Dems Will Need to Get Down &. Dirty
+*   _Samantha Vinograd_: Where Trump Failed, Macron May Have Succeeded
     
-*   _Frank Miele_: President Trump Is No Safe Bet. He's a Leader
+*   _Charles Lipson_: Trump Pushes Transformation, Biden Stresses Stability
     
-*   _Miranda Devine_: Trump Took a Page Out of the WWE's Playbook
+*   _Moira Donegan_: What Warren Is Up Against: Sexism by Proxy
     
-*   _Caputo &. Thompson_: Rock Star vs Rock: Warren, Biden Headed for Collision
+*   _Bill Scher_: 'Pocahontas' Could Still Be Warren's Biggest Vulnerability
     
-*   _Bill Scher_: How Sanders' Climate Plan Could Divide Progressives
+*   _Piereson &. Schaefer Riley_: Smears About David Koch Won't Erase His Legacy
     
-*   _David Catron_: Trump Would Beat Michelle Obama Badly
+*   _Eugene Robinson_: Trump's Obama Envy Is Getting Even Worse
     
-*   _Mike Giglio_: China's Spies Are on the Offensive
+*   _Carol Roth_: Unlike Trump, Obamas Earn Big Money After Time in the WH
     
-*   _Harry Kazianis_: Trump Right to Reverse Obama's Appeasement of China
+*   _Philip Wegmann_: Pence Targets Freshman Dems to Press Pelosi on USMCA
     
-*   _Scott Gilmore_: When the World Stopped Listening to America
+*   _Chris Cillizza_: Why House Republicans Keep Abandoning Ship
     
-*   _Patrick Buchanan_: Greenland: Trump's MAGA Idea!
+*   _Timothy Sandefur_: NYT Revives False History About the American Founding
     
-*   _Astra Taylor &. Leah Hunt-Hendrix_: Only Solidarity Can Save the Planet
+*   _Ed Kilgore_: Supreme Court Vacancy in 2020 Would Change Everything
     
 
 *   Previous
@@ -230,11 +230,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Pence Targets Freshman Dems to Press Pelosi on USMCA
+*   Biden's Media-Coverage Lead Narrows in the Dem Primary
+*   Trump: Obama Was Outsmarted by Putin, It Was Very Embarrassing
 *   Could California Be Warren's Golden Ticket?
 *   Climate Change Divides Dems as DNC Plots 2020 Strategy
-*   Page: FBI Wanted Me to Make False Testimony About Russians
-*   Ranking the 2020 Democratic Candidates by Media Coverage
-*   Making a Case to Women: Trump Female Defenders Go on Offense
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,6 +247,20 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   2020 Democratic Presidential NominationEmerson
+    *   Biden31
+    *   Sanders24
+    *   Warren15
+    *   Harris10
+    *   Buttigieg3
+    *   O'Rourke3
+    *   Booker3
+    *   Yang4
+    *   Gabbard3
+    *   Castro1
+    *   Klobuchar1
+    *   Bullock0
+    *   Williamson0Biden +7
 *   2020 Democratic Presidential NominationPolitico/Morning Consult
     *   Biden33
     *   Sanders20
@@ -256,39 +270,36 @@ Latest PollsAll Polls
     *   O'Rourke3
     *   Booker3
     *   Yang2
+    *   Gabbard1
     *   Castro1
-    *   Gabbard1
     *   Klobuchar1
-    *   Williamson1
-    *   Steyer1Biden +13
-*   2020 Democratic Presidential NominationMonmouth
-    *   Biden19
-    *   Sanders20
-    *   Warren20
-    *   Harris8
+    *   Bullock1
+    *   Williamson1Biden +13
+*   2020 Democratic Presidential NominationThe Hill/HarrisX
+    *   Biden30
+    *   Sanders17
+    *   Warren14
+    *   Harris4
     *   Buttigieg4
-    *   O'Rourke2
-    *   Booker4
-    *   Yang3
-    *   Castro2
+    *   O'Rourke3
+    *   Booker2
+    *   Yang2
     *   Gabbard1
+    *   Castro1
     *   Klobuchar1
-    *   Williamson2
-    *   Steyer0Tie
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove50Disapprove +2
-*   Direction of CountryRasmussen Reports
-    *   Right Direction41
-    *   Wrong Track53Wrong Track +12
+    *   Bullock2
+    *   Williamson1Biden +13
+*   General Election: Trump vs. BidenEmerson
+    *   Biden54
+    *   Trump46Biden +8
 
 More Latest Polls In The News
 
+*   Lindsey Graham Warns Trump: "There Will Be Another 9/11" If U.S. Troops Leave Afghanistan
+*   Don Lemon: Every Single Study Shows People Voted For Trump Due To "Fear Of Losing Place In Society"
+*   Jennifer Rubin: Only Way To Purge GOP Of Trump Is To "Burn Down The Republican Party" With "No Survivors"
 *   Ana Kasparian: Democrats Want Someone Who's "Going To Make The Republican Party Bend to Our Will"
 *   Trump: Obama Outsmarted By Putin When Russia Annexed Crimea, "It Was Very Embarrassing To Him"
-*   Psychiatrist On CNN: Trump May Be Responsible For Millions More Deaths Than Hitler, Stalin, And Mao
-*   Graham On Trade War: At Point Where Prices Go Up At Walmart, China Trying To "Wait Trump Out"
-*   Wallace Presses Mnuchin: Does Trump Really Believe He Can Stop Companies From Doing Business In China?
 
 *   Politics
 *   Policy
