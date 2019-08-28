@@ -111,10 +111,10 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
+    *   Vaping a Common Thread in Many Lung Injuries
+    *   J&J Ordered to Pay $572 Million in Opioid Case
+    *   Optimism May Help You Live Longer
     *   Ticks: Unexpected Facts You Need to Know
-    *   Are Stem Cell Clinics a Good Idea?
-    *   Severe Lung Injuries After Vaping Reported
-    *   Blood Test May Help Guide Breast Cancer Treatment
     *   Toxic Pollution in a Small Town
     
     Experts &. Community
