@@ -9,9 +9,36 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
+    *   TUMI
+    *   Work It: Dresses ft. Tahari Incl. Plus &. Petites
+    *   Street-Chic Coats: Puffers &. Parkas ft. NOIZE
+    *   S'well Water Bottles Up to 30% Off
+    *   Nambe Up to 50% Off
+    *   Free Shipping: Shun Cutlery Classic Collection
+    *   Power Docks, Smartphone Charger Cases &. More
+    *   Free Shipping: Bedding Essentials Up to 70% Off
+    *   Workweek Chic: Separates Incl. Plus &. Petites
+    *   Urban Decay Starting at $10
+    *   Splendid Up to 65% Off
+    *   Papillon Up to 70% Off
+    *   Green Amethyst Jewelry &. More Under $90
+    *   90 Degrees by Reflex Under $40 Incl. Plus
+    *   Dance the Night Away: Chic Heels &. More
+    *   14th &. Union and SUSINA Incl. Plus &. Petites
+    *   Fall Trend Report: Plaid, Animal Prints &. More
+    *   Golf Shop ft. Callaway
+    *   Gordon Rush Up to 60% Off
+    *   Raymond Weil Luxury Watches
+    *   Heighten the Mood: Block Heels Up to 60% Off
+    *   Merrell
+    *   Koolaburra by UGG Kids
+    *   Mia Belle Girls
+    *   FRE Skin Care
+    *   Fall Finds: Kids' Styles Up to 60% Off
     *   Dr. Martens
     *   Dr. Martens Men
     *   James Perse Up to 60% Off
+    
     *   Marina Incl. Plus
     *   Nine West Shoes Under $60
     *   Graceful to Glam: Do + Be Under $50
@@ -19,15 +46,14 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Perfect Third Pieces: Blazers &. More for Her
     *   Fall Denim Trends ft. Flared Styles Up to 60% Off
     *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
-    *   Anya Hindmarch &. Kurt Geiger London Bags
     *   Lucky Brand Men Starting at $15
     *   Wild Style: Animal Print Shoes &. More
     *   Dr. Martens Kids
     *   Rivka Friedman Jewelry Up to 70% Off
     *   Swim Essentials: Chic One-Pieces
     *   Free Press &. Shimera
+    *   Anya Hindmarch &. Kurt Geiger London Bags
     *   Ready for Fall: Casual &. Cool Men's Styles
-    *   KitchenAid
     *   Prints Charming: Colorful Bedding &. More
     *   Homecoming Ready: Men's Dress Shoes Under $100
     *   John Varvatos Star USA Up to 65% Off
@@ -35,78 +61,59 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   K-Beauty Hair Care &. More Starting at $10
     *   Best in Class: Lucky Brand Kids &. More
     *   Free Shipping: Gallery Wall Art Sets
-    *   Vince Camuto Incl. Plus &. Petites
-    *   Vince Camuto Shoes Up to 50% Off
-    *   Flirty &. Fun: Dresses Under $100
-    *   Handmade in Bali: Devata Sterling &. 18K Jewelry
-    *   Fall Preview: Plus Shop Starting at $25
     *   Dynamic Innovation Labs Skin Care from $20
-    
-    *   1.STATE Up to 75% Off Incl. Plus
-    *   Colors to Fall For: Mustard Seed from $20
-    *   Kappa Active
-    *   Kenneth Cole Reaction Shoes
-    *   Boots &. Booties Under $70
-    *   Body Faves ft. Skinnygirl Smoothers &. Shapers
-    *   On Trend: Leather Satchels &. Shoulder Bags
-    *   Bruno Magli Watches
-    *   Lacoste Men's Shoes
-    *   Fresh Finds: Shoes from $40
     *   Teami Blends Detox Teas &. Supplements
+    *   Lacoste Men's Shoes
     *   PYT Hair Tools &. More Up to 90% Off
-    *   Stock Up: Men's Underwear &. Socks Under $15
     *   Men's Loafers &. Slip-Ons Up to 60% Off
     *   Free Shipping: Wall Decor &. More
     *   Fun Tech Finds Under $40
-    *   Back to School: Boys' Shoes ft. Ben Sherman
-    *   Pajama Party: Kids' Character PJs
+    
     *   Mirenesse Australia Up to 40% Off
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Free Shipping: Storage Must-Haves from $10
     *   Fake Bake: Instant Self Tanning Lotion
-    *   Champion Men's Slides &. Sneakers
     *   Hair Care That Gives Back: Soapbox
-    *   Lancome Up to 45% Off
     *   Bold Decor Updates
     *   Free Shipping: Best Selling Bold Wall Art
-    *   Free Shipping: Storage Solutions for Every Room
-    *   Free Shipping: NMK Bedding Up to 70% Off
     *   Free Shipping: Luxe Bedding ft. Pillow Guy
-    *   StriVectin Skin Care
     *   The Final Few: Women's Shoes Up to 70% Off
-    
     *   The Final Few: Men's Shoes Up to 65% Off
     *   Last Chance: Clothing, Active &. Accessory Blowout
-    *   Vince Camuto Luggage
     *   Lola Made in Italy Up to 70% Off
     *   The Final Few: Men's Clothing &. More Up to 65% Off
     *   Free Shipping: Sterling Forever Jewelry Up to 65% Off
     *   Free Shipping: Kitchen Necessities Up to 65% Off
     *   Vintage Addiction Handbags Up To 80% Off
     *   Get into Gear: Must-Haves ft. Baby Tula
-    *   Dopp Kits for Him Under $40
-    *   Toys ft. Mattel &. Fisher-Price
-    *   Sam Edelman Denim, Dresses &. More
-    *   K-Swiss Kids &. More from $25
-    *   Vionic Up to 55% Off
-    *   Nordstrom Rack Exclusives: Harper Canyon &. More
-    *   K-Swiss &. More Up to 50% Off
-    *   Vanity Room
-    *   Free Shipping: Decals for Every Wall &. More
     *   Last Call: Go Couture Dresses Up to 80% Off
-    *   Pick Your Pair: Pants to Suit Every Style
-    *   NANETTE nanette lepore Shoes Under $70
-    *   End-of-Summer Swim Steals
-    *   Made in Italy: Sphera Milano Jewelry
-    *   Vince Camuto Men
-    *   Weekend Essentials: Girls' Loungewear &. More
-    *   Treat Yourself: Too Cool For School Beauty &. More
     *   Wacoal &. b.tempt'd by Wacoal
+    *   Nordstrom Rack Exclusives: Harper Canyon &. More
+    *   Free Shipping: Decals for Every Wall &. More
+    *   Made in Italy: Sphera Milano Jewelry
+    *   Toys ft. Mattel &. Fisher-Price
+    *   K-Swiss Kids &. More from $25
+    *   Treat Yourself: Too Cool For School Beauty &. More
     *   K-Swiss &. FILA Men Up to 60% Off
-    *   Sanctuary Incl. Plus &. Petites
     *   Dockers Up to 60% Off
 *   WomenShop Sale Events
     
+    *   TUMI
+    *   Work It: Dresses ft. Tahari Incl. Plus &. Petites
+    *   Street-Chic Coats: Puffers &. Parkas ft. NOIZE
+    *   Workweek Chic: Separates Incl. Plus &. Petites
+    *   Urban Decay Starting at $10
+    *   Splendid Up to 65% Off
+    *   Papillon Up to 70% Off
+    *   Green Amethyst Jewelry &. More Under $90
+    *   90 Degrees by Reflex Under $40 Incl. Plus
+    *   Dance the Night Away: Chic Heels &. More
+    *   14th &. Union and SUSINA Incl. Plus &. Petites
+    *   Fall Trend Report: Plaid, Animal Prints &. More
+    *   Raymond Weil Luxury Watches
+    *   Heighten the Mood: Block Heels Up to 60% Off
+    *   Merrell
+    *   FRE Skin Care
     *   Dr. Martens
     *   James Perse Up to 60% Off
     *   Marina Incl. Plus
@@ -114,56 +121,30 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Graceful to Glam: Do + Be Under $50
     *   X by Gottex Active
     *   Perfect Third Pieces: Blazers &. More for Her
+    
     *   Fall Denim Trends ft. Flared Styles Up to 60% Off
     *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
-    *   Anya Hindmarch &. Kurt Geiger London Bags
     *   Wild Style: Animal Print Shoes &. More
     *   Rivka Friedman Jewelry Up to 70% Off
     *   Swim Essentials: Chic One-Pieces
     *   Free Press &. Shimera
+    *   Anya Hindmarch &. Kurt Geiger London Bags
     *   K-Beauty Hair Care &. More Starting at $10
-    *   Vince Camuto Incl. Plus &. Petites
-    *   Vince Camuto Shoes Up to 50% Off
-    *   Flirty &. Fun: Dresses Under $100
-    *   Handmade in Bali: Devata Sterling &. 18K Jewelry
-    *   Fall Preview: Plus Shop Starting at $25
     *   Dynamic Innovation Labs Skin Care from $20
-    *   1.STATE Up to 75% Off Incl. Plus
-    *   Colors to Fall For: Mustard Seed from $20
-    *   Kappa Active
-    *   Kenneth Cole Reaction Shoes
-    *   Boots &. Booties Under $70
-    *   Body Faves ft. Skinnygirl Smoothers &. Shapers
-    *   On Trend: Leather Satchels &. Shoulder Bags
-    
-    *   Bruno Magli Watches
-    *   Fresh Finds: Shoes from $40
     *   Teami Blends Detox Teas &. Supplements
     *   PYT Hair Tools &. More Up to 90% Off
     *   Mirenesse Australia Up to 40% Off
     *   Fake Bake: Instant Self Tanning Lotion
     *   Hair Care That Gives Back: Soapbox
-    *   Lancome Up to 45% Off
-    *   StriVectin Skin Care
     *   The Final Few: Women's Shoes Up to 70% Off
     *   Last Chance: Clothing, Active &. Accessory Blowout
-    *   Vince Camuto Luggage
     *   Lola Made in Italy Up to 70% Off
     *   Free Shipping: Sterling Forever Jewelry Up to 65% Off
     *   Vintage Addiction Handbags Up To 80% Off
-    *   Dopp Kits for Him Under $40
-    *   Sam Edelman Denim, Dresses &. More
-    *   Vionic Up to 55% Off
-    *   K-Swiss &. More Up to 50% Off
-    *   Vanity Room
     *   Last Call: Go Couture Dresses Up to 80% Off
-    *   Pick Your Pair: Pants to Suit Every Style
-    *   NANETTE nanette lepore Shoes Under $70
-    *   End-of-Summer Swim Steals
+    *   Wacoal &. b.tempt'd by Wacoal
     *   Made in Italy: Sphera Milano Jewelry
     *   Treat Yourself: Too Cool For School Beauty &. More
-    *   Wacoal &. b.tempt'd by Wacoal
-    *   Sanctuary Incl. Plus &. Petites
     
     Shop By Category
     *   Clothing
@@ -174,21 +155,20 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Watches
 *   MenShop Sale Events
     
+    *   TUMI
+    *   Golf Shop ft. Callaway
+    *   Gordon Rush Up to 60% Off
+    *   Raymond Weil Luxury Watches
     *   Dr. Martens Men
     *   Lucky Brand Men Starting at $15
     *   Ready for Fall: Casual &. Cool Men's Styles
     *   Homecoming Ready: Men's Dress Shoes Under $100
-    *   John Varvatos Star USA Up to 65% Off
-    *   Bruno Magli Watches
-    *   Lacoste Men's Shoes
-    *   Stock Up: Men's Underwear &. Socks Under $15
     
+    *   John Varvatos Star USA Up to 65% Off
+    *   Lacoste Men's Shoes
     *   Men's Loafers &. Slip-Ons Up to 60% Off
-    *   Champion Men's Slides &. Sneakers
     *   The Final Few: Men's Shoes Up to 65% Off
     *   The Final Few: Men's Clothing &. More Up to 65% Off
-    *   Dopp Kits for Him Under $40
-    *   Vince Camuto Men
     *   K-Swiss &. FILA Men Up to 60% Off
     *   Dockers Up to 60% Off
     
@@ -199,44 +179,46 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Watches
 *   KidsShop Sale Events
     
+    *   Koolaburra by UGG Kids
+    *   Mia Belle Girls
+    *   Fall Finds: Kids' Styles Up to 60% Off
     *   Dr. Martens Kids
     *   Coccoli
     *   Best in Class: Lucky Brand Kids &. More
-    *   Back to School: Boys' Shoes ft. Ben Sherman
-    *   Pajama Party: Kids' Character PJs
     *   Get into Gear: Must-Haves ft. Baby Tula
+    *   Nordstrom Rack Exclusives: Harper Canyon &. More
     *   Toys ft. Mattel &. Fisher-Price
     *   K-Swiss Kids &. More from $25
-    *   Nordstrom Rack Exclusives: Harper Canyon &. More
-    *   Weekend Essentials: Girls' Loungewear &. More
     
     Shop By Category
-    *   Girls' Sizes 2T-6X
     *   Girls' Sizes 7-16
-    *   Boys' Shoes
+    *   Girls' Sizes 2T-6X
     *   Girls' Shoes
     *   Baby Girl
+    *   Baby Boy
     *   Boys' Sizes 2T-7
+    *   Boys' Shoes
+    *   Baby Gear &. Essentials
     *   Boys' Sizes 8-20
     *   The Toy Shop
-    *   Baby Boy
-    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
-    *   KitchenAid
+    *   TUMI
+    *   S'well Water Bottles Up to 30% Off
+    *   Nambe Up to 50% Off
+    *   Free Shipping: Shun Cutlery Classic Collection
+    *   Power Docks, Smartphone Charger Cases &. More
+    *   Free Shipping: Bedding Essentials Up to 70% Off
     *   Prints Charming: Colorful Bedding &. More
     *   Free Shipping: Gallery Wall Art Sets
     *   Free Shipping: Wall Decor &. More
+    
     *   Fun Tech Finds Under $40
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Free Shipping: Storage Must-Haves from $10
     *   Bold Decor Updates
-    
     *   Free Shipping: Best Selling Bold Wall Art
-    *   Free Shipping: Storage Solutions for Every Room
-    *   Free Shipping: NMK Bedding Up to 70% Off
     *   Free Shipping: Luxe Bedding ft. Pillow Guy
-    *   Vince Camuto Luggage
     *   Free Shipping: Kitchen Necessities Up to 65% Off
     *   Free Shipping: Decals for Every Wall &. More
     
@@ -244,13 +226,15 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Home Decor
     *   Bedding
     *   Kitchen &. Tabletop
-    *   Cleaning &. Organization
-    *   Luggage &. Travel
     *   Tech Accessories
+    *   Luggage &. Travel
+    *   Cleaning &. Organization
     *   Outdoor Living
     *   Bath
 *   BeautyShop Sale Events
     
+    *   Urban Decay Starting at $10
+    *   FRE Skin Care
     *   K-Beauty Hair Care &. More Starting at $10
     *   Dynamic Innovation Labs Skin Care from $20
     *   Teami Blends Detox Teas &. Supplements
@@ -258,13 +242,11 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Mirenesse Australia Up to 40% Off
     *   Fake Bake: Instant Self Tanning Lotion
     *   Hair Care That Gives Back: Soapbox
-    *   Lancome Up to 45% Off
-    *   StriVectin Skin Care
     *   Treat Yourself: Too Cool For School Beauty &. More
     
     Shop By Category
-    *   Makeup
     *   Skin Care
+    *   Makeup
     *   Hair Care
     *   Bath &. Body
     *   Tools &. Accessories
