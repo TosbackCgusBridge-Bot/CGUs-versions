@@ -10,13 +10,6 @@ Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/8a4a97e9-0442-4209-8e83-20a618514334/svn/espresso-bronze-home-decorators-collection-ceiling-fans-with-lights-yg493od-eb-64\_400\_compressed.jpg" alt="Kensgrove 72 in. LED Indoor/Outdoor Espresso Bronze Ceiling Fan with Remote Control" />.
-
-More Options Available Home Decorators Collection Kensgrove 72 in. LED Indoor/Outdoor Espresso Bronze Ceiling Fan with Remote Control Model#  YG493OD-EB (1255) $29900 $29900 Free delivery
-
-Set your store to see local  
-availability
-
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/b6deeb2a-7ca6-4350-af66-835956a7e26c/svn/coastal-oak-home-decorators-collection-vinyl-plank-flooring-03918-64\_400\_compressed.jpg" alt="Coastal Oak 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/f7/f7612926-dcf2-4a7b-b0be-a484c91251a9\_400\_compressed.jpg" alt="Coastal Oak 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
 
 More Options Available Home Decorators Collection Coastal Oak 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case) Model#  03918 (626) $239 /sq. ft. ( $59.12  /case) $239 /sq. ft. ( $59.12  /case) Standard delivery
@@ -36,11 +29,18 @@ More Options Available Home Decorators Collection Warm Cherry 7.5 in. x 47.6 in.
 Set your store to see local  
 availability
 
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/31a27bec-59ba-484b-bd2c-3f7b92a8d19c/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-yg493od-bn-64\_400\_compressed.jpg" alt="Kensgrove 72 in. Integrated LED Indoor/Outdoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control" />.
+
+More Options Available Home Decorators Collection Kensgrove 72 in. Integrated LED Indoor/Outdoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control Model#  YG493OD-BN (1247) $30900 $30900 Free delivery
+
+Set your store to see local  
+availability
+
 Add to Cart Compare <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/0f/0fbec567-3af9-4832-a9ea-4bf32c6586e6\_400\_compressed.jpg" alt="2 in. Cordless Faux Wood" />.
 
 More Options Available
 
-Home Decorators Collection 2 in. Cordless Faux Wood (6727) $2297 - $7997 Free delivery
+Home Decorators Collection 2 in. Cordless Faux Wood (6729) $2297 - $7997 Free delivery
 
 Set your store to see local  
 availability
@@ -85,14 +85,14 @@ More Options Available Home Decorators Collection Antique Brushed Oak 6 in. x 48
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/4ca85dba-9792-4438-b892-0aeb67208667/svn/handscraped-dark-hickory-home-decorators-collection-vinyl-plank-flooring-60199-64\_400\_compressed.jpg" alt="Java Hickory 6 in. x 36 in. Luxury vinyl plank flooring (20.34 sq. ft. / case)" />. Home Decorators Collection Java Hickory 6 in. x 36 in. Luxury vinyl plank flooring (20.34 sq. ft. / case) Model#  60199 (231) $239 /sq. ft. ( $48.61  /case) $239 /sq. ft. ( $48.61  /case) Standard delivery
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/60d89270-797a-4f5a-b78e-b27afdcfd402/svn/matte-black-home-decorators-collection-ceiling-fans-with-lights-sw1422mbk-64\_400\_compressed.jpg" alt="Merwry 52 in. Integrated LED Indoor Matte Black Ceiling Fan with Light Kit and Remote Control" />.
+
+More Options Available Home Decorators Collection Merwry 52 in. Integrated LED Indoor Matte Black Ceiling Fan with Light Kit and Remote Control Model#  SW1422MBK View the Merwry Collection (1656) $11900 $11900 Free delivery
 
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/60d89270-797a-4f5a-b78e-b27afdcfd402/svn/matte-black-home-decorators-collection-ceiling-fans-with-lights-sw1422mbk-64\_400\_compressed.jpg" alt="Merwry 52 in. Integrated LED Indoor Matte Black Ceiling Fan with Light Kit and Remote Control" />.
-
-More Options Available Home Decorators Collection Merwry 52 in. Integrated LED Indoor Matte Black Ceiling Fan with Light Kit and Remote Control Model#  SW1422MBK View the Merwry Collection (1653) $11900 $11900 Free delivery
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/4ca85dba-9792-4438-b892-0aeb67208667/svn/handscraped-dark-hickory-home-decorators-collection-vinyl-plank-flooring-60199-64\_400\_compressed.jpg" alt="Java Hickory 6 in. x 36 in. Luxury vinyl plank flooring (20.34 sq. ft. / case)" />. Home Decorators Collection Java Hickory 6 in. x 36 in. Luxury vinyl plank flooring (20.34 sq. ft. / case) Model#  60199 (231) $239 /sq. ft. ( $48.61  /case) $239 /sq. ft. ( $48.61  /case) Standard delivery
 
 Set your store to see local  
 availability
@@ -132,7 +132,7 @@ availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/2a6cbf8b-18f4-4105-9f93-a95ec529ad53/svn/hickory-textured-home-decorators-collection-laminate-wood-flooring-34074sq-64\_400\_compressed.jpg" alt="Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide x 50-25/32 in. Length Laminate Flooring (15.45 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/ba/ba3a14bb-bd8b-4a67-bed7-e56c34aa2c6e\_400\_compressed.jpg" alt="Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide x 50-25/32 in. Length Laminate Flooring (15.45 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
 
-Home Decorators Collection Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide x 50-25/32 in. Length Laminate Flooring (15.45 sq. ft. / case) Model#  34074SQ (317) $149 /sq. ft. ( $23.02  /case) $149 /sq. ft. ( $23.02  /case) Standard delivery
+Home Decorators Collection Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide x 50-25/32 in. Length Laminate Flooring (15.45 sq. ft. / case) Model#  34074SQ (318) $149 /sq. ft. ( $23.02  /case) $149 /sq. ft. ( $23.02  /case) Standard delivery
 
 Set your store to see local  
 availability
