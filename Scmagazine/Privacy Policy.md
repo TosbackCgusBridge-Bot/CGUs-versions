@@ -227,11 +227,11 @@ Attention: Chief Digital Officer
     *   Nowhere to turn for middle market companies decimated by cybercrime
     *   Capital One hacker to ask for release on bail
     
+    *   Our shared industry mission to close the cybersecurity workforce gap
     *   Facebook publicly releases emails related to data scraping, Cambridge Analytica
     *   Research: Hacktivism activity and chatter has markedly dropped since 2016
     *   Data breach of Hostinger exposes 14 million users
     *   Rockville Center School District pays $88,000 ransom
-    *   SC Media's 30th Anniversary - Then and Now: Malware
 
 Back to Top
 
