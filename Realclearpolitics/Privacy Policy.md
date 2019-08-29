@@ -113,53 +113,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Michael Shellenberger_: Why Everything They Say About the Amazon Is Wrong
+*   _Frank Bruni_: Donald Trump Has Worn Us All Out
     
-*   _David Wallace-Wells_: The Glimmer of a Climate New World Order
+*   _Victor Davis Hanson_: Trump — or What, Exactly?
     
-*   _David Harsanyi_: How Media Enables Destructive Climate Change Hysteria
+*   _Julian Zelizer_: Deficit Balloons Under Trump, Exploding a Republican Myth
     
-*   _Dana Milbank_: Is Trump a President or a Timeshare Salesman?
+*   _Peter Navarro_: How the Thriving Trump Economy Can Get Even Stronger
     
-*   _George Friedman_: The Geopolitical Logic of U.S.-China Trade War
+*   _Hanna Trudo_: Dems Fear Trump Outplaying Them in Key Battlegrounds
     
-*   _Michael Schuman_: Angering China Can Now Get You Fired
+*   _Aimee Delach_: New Trump Rules Abet Loss of Climate-Threatened Species
     
-*   _Andrew Prokop_: The State of the 2020 Democratic Primary Polls, Explained
+*   _Juan Williams_: The Real Story Behind Trump's Attack on Me
     
-*   _Sen. Bernie Sanders_: How Real Journalism Is Different From Today's News
+*   _Julie Kelly_: McCabe, CNN and Our Tawdry, Untrustworthy 4th Estate
     
-*   _Kurt Schlichter_: Get Ready for Apocalypse Ruth
+*   _Anna North_: Why Are #MeToo's Latest Critics Shaming Women?
     
-*   _Annie Lowery_: The Next Recession Will Destroy Millennials
+*   _Mary Eberstadt_: Identity Panic Took Root in Void Once Occupied by Family
     
-*   _Nicole Neily_: The Comedy Police Hold Campuses Hostage
+*   _Alex Castellanos_: The Pundit's Guide to Handicapping the 2020 Dems
     
-*   _Josh Dawsey_: 68 Minutes in Biarritz: A Glimpse Into Trump's Unorthodox Mind
+*   _Peter Hamby_: Biden Outrage Porn Is Hurting Readers &. Elevating Trump
     
-*   _Robert Bryce_: 'Climate Action' Flops at the G-7
+*   _Joseph Curl_: Not Even Biden's Wife Inspired by Sputtering Campaign
     
-*   _Samantha Vinograd_: Where Trump Failed, Macron May Have Succeeded
+*   _Leonard Pitts_: Trump's Anti-Journalism Hit Squad
     
-*   _Charles Lipson_: Trump Pushes Transformation, Biden Stresses Stability
+*   _Greg Gutfeld_: Media Outraged at Being Held to Its Own Standards
     
-*   _Moira Donegan_: What Warren Is Up Against: Sexism by Proxy
+*   _Paul Krugman_: Donald Trump and the Art of the Flail
     
-*   _Bill Scher_: 'Pocahontas' Could Still Be Warren's Biggest Vulnerability
+*   _Ben Shapiro_: Trump Is Right on the China Threat
     
-*   _Piereson &. Schaefer Riley_: Smears About David Koch Won't Erase His Legacy
+*   _William Hoagland_: Trump's Trade War Is Hurting Farmers. Will It Ever End?
     
-*   _Eugene Robinson_: Trump's Obama Envy Is Getting Even Worse
+*   _Paul Sperry_: Insiders: Intel Gatekeeper Dragging Feet on Trump-Russia Files
     
-*   _Carol Roth_: Unlike Trump, Obamas Earn Big Money After Time in the WH
+*   _John Solomon_: How Trump Can Avoid a Fumble on Healthcare in 2020
     
-*   _Philip Wegmann_: Pence Targets Freshman Dems to Press Pelosi on USMCA
+*   _Donald Kochan_: Landmark Liability Case &. Common Law's Lament
     
-*   _Chris Cillizza_: Why House Republicans Keep Abandoning Ship
+*   _Roger L. Simon_: You Can't Go Home Again, Ilhan Omar
     
-*   _Timothy Sandefur_: NYT Revives False History About the American Founding
+*   _Jill Filipovic_: Taylor Swift's Imperfect Activism
     
-*   _Ed Kilgore_: Supreme Court Vacancy in 2020 Would Change Everything
+*   _Christian Toto_: Is Dave Chappelle's New Netflix Special the Woke Tipping Point?
     
 
 *   Previous
@@ -230,11 +230,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   U.S. Intel Gatekeeper Dragging Feet on Trump-Russia Files, Insiders Say
 *   Pence Targets Freshman Dems to Press Pelosi on USMCA
+*   Haass: Under Trump, U.S. Has Become "Principal Disruptor" of World Order
 *   Biden's Media-Coverage Lead Narrows in the Dem Primary
-*   Trump: Obama Was Outsmarted by Putin, It Was Very Embarrassing
 *   Could California Be Warren's Golden Ticket?
-*   Climate Change Divides Dems as DNC Plots 2020 Strategy
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,59 +247,59 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationEmerson
-    *   Biden31
-    *   Sanders24
-    *   Warren15
-    *   Harris10
-    *   Buttigieg3
-    *   O'Rourke3
-    *   Booker3
-    *   Yang4
-    *   Gabbard3
-    *   Castro1
-    *   Klobuchar1
-    *   Bullock0
-    *   Williamson0Biden +7
-*   2020 Democratic Presidential NominationPolitico/Morning Consult
-    *   Biden33
-    *   Sanders20
-    *   Warren15
-    *   Harris8
+*   2020 Democratic Presidential NominationQuinnipiac
+    *   Biden32
+    *   Sanders15
+    *   Warren19
+    *   Harris7
     *   Buttigieg5
-    *   O'Rourke3
-    *   Booker3
-    *   Yang2
+    *   Yang3
+    *   Booker1
+    *   O'Rourke1
     *   Gabbard1
-    *   Castro1
+    *   Castro0
     *   Klobuchar1
     *   Bullock1
     *   Williamson1Biden +13
-*   2020 Democratic Presidential NominationThe Hill/HarrisX
-    *   Biden30
-    *   Sanders17
+*   2020 Democratic Presidential NominationUSA Today/Suffolk
+    *   Biden32
+    *   Sanders12
     *   Warren14
-    *   Harris4
-    *   Buttigieg4
-    *   O'Rourke3
+    *   Harris6
+    *   Buttigieg6
+    *   Yang3
     *   Booker2
+    *   O'Rourke2
+    *   Gabbard0
+    *   Castro1
+    *   Klobuchar0
+    *   Bullock0
+    *   Williamson0Biden +18
+*   2020 Democratic Presidential NominationEconomist/YouGov
+    *   Biden25
+    *   Sanders14
+    *   Warren21
+    *   Harris8
+    *   Buttigieg5
     *   Yang2
-    *   Gabbard1
+    *   Booker2
+    *   O'Rourke2
+    *   Gabbard2
     *   Castro1
     *   Klobuchar1
-    *   Bullock2
-    *   Williamson1Biden +13
-*   General Election: Trump vs. BidenEmerson
+    *   Bullock1
+    *   Williamson1Biden +4
+*   General Election: Trump vs. BidenQuinnipiac
     *   Biden54
-    *   Trump46Biden +8
+    *   Trump38Biden +16
 
 More Latest Polls In The News
 
+*   AOC: Millennials &. Gen Z "Understand Our History," Are "More Informed" Than Previous Generations
+*   CNN's Oliver Darcy: Trump Is "Typical FOX News Viewer". Doesn't Know Difference Between Hannity &. Shep
+*   MSNBC's O'Donnell: "Single Source" Says Russian Oligarchs Co-Signed Deutsche Bank Loans To Trump (UPDATE)
 *   Lindsey Graham Warns Trump: "There Will Be Another 9/11" If U.S. Troops Leave Afghanistan
 *   Don Lemon: Every Single Study Shows People Voted For Trump Due To "Fear Of Losing Place In Society"
-*   Jennifer Rubin: Only Way To Purge GOP Of Trump Is To "Burn Down The Republican Party" With "No Survivors"
-*   Ana Kasparian: Democrats Want Someone Who's "Going To Make The Republican Party Bend to Our Will"
-*   Trump: Obama Outsmarted By Putin When Russia Annexed Crimea, "It Was Very Embarrassing To Him"
 
 *   Politics
 *   Policy
