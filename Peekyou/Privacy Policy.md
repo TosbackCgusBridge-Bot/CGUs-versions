@@ -59,7 +59,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, Utah. Online, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 2% 
+What is PeekScore? Public Records &. Background Checks 3% 
 
 Sponsored by **BeenVerified***   Patricia A Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -89,7 +89,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 57, Casselberry, FL 3270
     
 *   Show Less ...
 
-2% 
+3% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -135,7 +135,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 57, Casselberry, FL 3270
     
 *   Show Less ...
 
-2% 
+3% 
 
 Sponsored by **PeopleLooker***   Patricia A Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -165,7 +165,7 @@ Sponsored by **PeopleLooker***   Patricia A Policy, age 57, Casselberry, FL 3270
     
 *   Show Less ...
 
-21%  Arrest Records &. Driving Infractions
+7%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -266,7 +266,7 @@ Facebook 2% 
     
 *   Show Less ...
 
-Twitter 1% 
+Twitter 2% 
 
 *   U.S. FDA - US\_FDA
     
@@ -312,7 +312,7 @@ Twitter 1% 
     
 *   Show Less ...
 
-Instagram 1% 
+Instagram 2% 
 
 *   Privacy policy - privacydoor7
     
@@ -358,7 +358,7 @@ Instagram 1% 
     
 *   Show Less ...
 
-Myspace 1% 
+Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -382,7 +382,7 @@ Myspace 1% 
     
 *   Show Less ...
 
-Social Profiles 1% 
+Social Profiles 2% 
 
 *   Lauren Weinstein
     
@@ -424,7 +424,7 @@ Social Profiles 1% 
     
 *   Show Less ...
 
-Pinterest 1% 
+Pinterest 2% 
 
 *   Alishachawla2730 Privacypolicy - alishachawla273
     
@@ -433,7 +433,7 @@ Pinterest 1% 
 *   Nancy Clark - privacypolicy12
     
 
-Wikipedia 1% 
+Wikipedia 2% 
 
 *   Privacy policy
     
@@ -452,7 +452,7 @@ Wikipedia 1% 
     2019 Copyright. All Rights Reserved. The Sponsored Listings displayed above are served automatically by a third party. Neither Parkingcrew nor the domain owner ...
     
 
-Music 1% 
+Music 2% 
 
 *   Pandora
     
@@ -494,7 +494,7 @@ Music 1% 
     
 *   Show Less ...
 
-Photo Albums 1% 
+Photo Albums 2% 
 
 *   Flickriver
     
@@ -505,7 +505,7 @@ Photo Albums 1% 
     Feb 07, 2019 · Flickr announced in November it would be changing its generous photo storage allotment for free users, restricting them to a 1,000-photo limit, and threatening to …
     
 
-Web Search 1% 
+Web Search 2% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -551,15 +551,15 @@ Web Search 1% 
     
 *   Show Less ...
 
-Images 1% 
+Images 2% 
 
-3
-
-20
+8
 
 20
 
-7
+20
+
+9
 
 facebookx
 
