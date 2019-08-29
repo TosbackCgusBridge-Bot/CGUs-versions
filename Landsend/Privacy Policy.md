@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Free shipping, no minimum on all orders
+Receive 20% off your order, plus free shipping to most U.S. and Canadian addresses!
 
-code: SHIPNOW1 pin: PROMOTION DETAILS
+code: SAVING20 pin: PROMOTION DETAILS
 
 Customer Service Menu
 
