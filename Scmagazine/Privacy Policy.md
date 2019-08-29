@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Mastercard says German Priceless Specials loyalty program breached
-    *   SC Media's 30th Anniversary Then and Now: RSA
-    *   Data breach of Hostinger exposes 14 million users
-    *   Virginia State Police recoup $300K stolen in BEC scam
-    *   The Freakonomics of malware: What security leaders can learn by studying incentives
-    
-    *   Astronaut accused of identity theft, accessing estranged wife's bank account, from International Space Station
-    *   Delta sues AI vendor over 2017 breach exposing info on 825K
-    *   Rockville Center School District pays $88,000 ransom
-    *   Nowhere to turn for middle market companies decimated by cybercrime
     *   Capital One hacker to ask for release on bail
+    *   Apple issues supplemental security updates
+    *   First half 2019 sees 4,000 data breaches exposing 4B records
+    *   BitDefender Antivirus Free 2020 found vulnerable
+    *   Massively popular Phone PDF app contains malicious dropper
     
-    *   Our shared industry mission to close the cybersecurity workforce gap
-    *   Facebook publicly releases emails related to data scraping, Cambridge Analytica
-    *   Research: Hacktivism activity and chatter has markedly dropped since 2016
-    *   Data breach of Hostinger exposes 14 million users
-    *   Rockville Center School District pays $88,000 ransom
+    *   SC Media's 30th Anniversary - Then and Now: Malware
+    *   Apple issues supplemental security updates
+    *   Vast majority of newly registered domains are malicious
+    *   Instagram asks security researchers to check out 'Checkout' feature
+    *   U.S. renews temporary license allowing companies to sell to Huawei, adds 45 to blacklist
+    
+    *   Seven best practices for an effective phishing simulation program
+    *   LYCEUM threat group targets oil and gas, critical infrastructure orgs in MidEast
+    *   Breach exposes data associated with customers of Imperva's Cloud WAF product
+    *   Massively popular Phone PDF app contains malicious dropper
+    *   Almost 200K affected by Presbyterian Healthcare Services data breach
 
 Back to Top
 
