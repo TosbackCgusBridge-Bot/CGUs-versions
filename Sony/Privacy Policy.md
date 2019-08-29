@@ -124,7 +124,7 @@ Play video: Head to Eagle Island With Your Flock Close video: Head to Eagle Isla
 
 We love when Sony properties get a second life. The Legend lives on this October! El Camino. A #BreakingBad Movie. 10.11.19 on @netflix pic.twitter.com/P1Wku6gv1w
 
-1 day ago View Tweet The Boys B0YqmoBnskQ
+2 days ago View Tweet The Boys B0dhk3ppTaZ
 
 Charge on the Go
 
@@ -136,17 +136,17 @@ To Keep Listening
 
 <img class="bg-img" data-linkname="en:set\_a:\_1x1-5:image:electronics:WF1000xM3Earbuds-August-26-2019:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Charge on the Go WF-1000xM3-Earbuds" data-img1x="/content/dam/sony/homepage/2019-august/august-19/WF-1000XM3-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-19/WF-1000XM3-600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-19/WF-1000XM3-600x600.jpg" alt="WF-1000XM3 Wireless Noise Canceling Earbuds"/>. <img class="bg-img" data-linkname="en:set\_a:\_1x1-5:image:electronics:WF1000xM3Earbuds-August-26-2019:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Charge on the Go WF-1000xM3-Earbuds" data-img1x="/content/dam/sony/homepage/2019-august/august-19/WF-1000XM3-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-19/WF-1000XM3-600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-19/WF-1000XM3-600x600.jpg" alt="WF-1000XM3 Wireless Noise Canceling Earbuds Mobile"/>.
 
-Go Behind-the-Scenes of Seth Rogan’s New Show
+A Camera Made to Capture Every Special Moment
 
-Stream “The Boys” on Amazon Prime Video
+Introducing the a6100
 
-Play video: Go Behind-the-Scenes of Seth Rogan’s New Show Close video: Go Behind-the-Scenes of Seth Rogan’s New Show
+Play video: A Camera Made to Capture Every Special Moment Close video: A Camera Made to Capture Every Special Moment
 
-*   Share on Facebook: Go Behind-the-Scenes of Seth Rogan’s New Show
-*   Share on Twitter: Go Behind-the-Scenes of Seth Rogan’s New Show
-*   Copy URL to Share: Go Behind-the-Scenes of Seth Rogan’s New Show
+*   Share on Facebook: A Camera Made to Capture Every Special Moment
+*   Share on Twitter: A Camera Made to Capture Every Special Moment
+*   Copy URL to Share: A Camera Made to Capture Every Special Moment
 
-<img class="bg-img video-PnWEyGnC4cg" data-linkname="en:set\_a:\_2x2-6:video:tv:TheBoysBehindtheScenesVideo-August-26-2019:sptv:image:PnWEyGnC4cg" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Go Behind-the-Scenes of Seth Rogan’s New Show PnWEyGnC4cg The-Boys-Behind-the-Scenes-Video" data-img1x="/content/dam/sony/homepage/2019-august/august-26/TheBoys-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-26/TheBoys-600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-26/TheBoys-600x600.jpg" alt="The Boys Behind-the-Scenes Video"/>. <img class="bg-img video-PnWEyGnC4cg" alt="The Boys Behind-the-Scenes Video Mobile" data-linkname="en:set\_a:\_2x2-6:video:tv:TheBoysBehindtheScenesVideo-August-26-2019:sptv:image-mobile:PnWEyGnC4cg" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Go Behind-the-Scenes of Seth Rogan’s New Show PnWEyGnC4cg The-Boys-Behind-the-Scenes-Video" data-img1x="/content/dam/sony/homepage/2019-august/august-26/TheBoys-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-26/TheBoys-600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-26/TheBoys-600x600.jpg"/>.
+<img class="bg-img video-t2dOkoGdh64" data-linkname="en:set\_a:\_2x2-6:video:electronics:a6100Camera-August-26-2019:gwt:image:t2dOkoGdh64" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="A Camera Made to Capture Every Special Moment t2dOkoGdh64 a6100-Camera" data-img1x="/content/dam/sony/homepage/2019-august/august-26/a7\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-26/a7\_600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-26/a7\_600x600.jpg" alt="a6100 Camera"/>. <img class="bg-img video-t2dOkoGdh64" alt="a6100 Camera Mobile" data-linkname="en:set\_a:\_2x2-6:video:electronics:a6100Camera-August-26-2019:gwt:image-mobile:t2dOkoGdh64" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="A Camera Made to Capture Every Special Moment t2dOkoGdh64 a6100-Camera" data-img1x="/content/dam/sony/homepage/2019-august/august-26/a7\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-26/a7\_600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-26/a7\_600x600.jpg"/>.
 
 Get Together With Your Friends for a New Kind of Co-op Mode
 
@@ -192,15 +192,15 @@ With Michelle Chu
 
 <img class="bg-img" data-linkname="en:set\_b:position\_3|\_1x1-5:image:professional:AlphaUniverseSummerTravel-August-26-2019:pro:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Summer Travel Inspo Alpha-Universe-Summer-Travel" data-img1x="/content/dam/sony/homepage/2019-august/august-19/Greece-MichelleChu-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-19/Greece-MichelleChu-600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-19/Greece-MichelleChu-600x600.jpg" alt="Greece photo by Michelle Chu"/>. <img class="bg-img" data-linkname="en:set\_b:position\_3|\_1x1-5:image:professional:AlphaUniverseSummerTravel-August-26-2019:pro:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Summer Travel Inspo Alpha-Universe-Summer-Travel" data-img1x="/content/dam/sony/homepage/2019-august/august-19/Greece-MichelleChu-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-19/Greece-MichelleChu-600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-19/Greece-MichelleChu-600x600.jpg" alt="Greece photo by Michelle Chu Mobile"/>.
 
-Full-Frame Features That Are Easy to Take With You
+We’re Expanding Our Line-Up of Mirrorless Cameras
 
-Meet Our Latest Compact Camera
+Learn About the New a6600
 
-*   Share on Facebook: Full-Frame Features That Are Easy to Take With You
-*   Share on Twitter: Full-Frame Features That Are Easy to Take With You
-*   Copy URL to Share: Full-Frame Features That Are Easy to Take With You
+*   Share on Facebook: We’re Expanding Our Line-Up of Mirrorless Cameras
+*   Share on Twitter: We’re Expanding Our Line-Up of Mirrorless Cameras
+*   Copy URL to Share: We’re Expanding Our Line-Up of Mirrorless Cameras
 
-<img class="bg-img" data-linkname="en:set\_b:position\_3|\_1x1-6:image:electronics:RX100VIICamera-August-26-2019:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Full-Frame Features That Are Easy to Take With You RX100-VII-Camera" data-img1x="/content/dam/sony/homepage/2019-august/august-5/DSCRX100M7-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-19/DSCRX100M7\_500x246-2.jpg" src="/content/dam/sony/homepage/2019-august/august-19/DSCRX100M7\_500x246-2.jpg" alt="RX100 VII Camera"/>. <img class="bg-img" data-linkname="en:set\_b:position\_3|\_1x1-6:image:electronics:RX100VIICamera-August-26-2019:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Full-Frame Features That Are Easy to Take With You RX100-VII-Camera" data-img1x="/content/dam/sony/homepage/2019-august/august-5/DSCRX100M7-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-19/DSCRX100M7\_500x246-2.jpg" src="/content/dam/sony/homepage/2019-august/august-5/DSCRX100M7-600x600.jpg" alt="RX100 VII Camera Mobile"/>.
+<img class="bg-img" data-linkname="en:set\_b:position\_3|\_1x1-6:image:professional:a6600Camera-August-26-2019:pro:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="We’re Expanding Our Line-Up of Mirrorless Cameras a6600-Camera" data-img1x="/content/dam/sony/homepage/2019-august/august-26/a6600-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-26/A6600-500x246.jpg" src="/content/dam/sony/homepage/2019-august/august-26/A6600-500x246.jpg" alt="a6600 Camera"/>. <img class="bg-img" data-linkname="en:set\_b:position\_3|\_1x1-6:image:professional:a6600Camera-August-26-2019:pro:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="We’re Expanding Our Line-Up of Mirrorless Cameras a6600-Camera" data-img1x="/content/dam/sony/homepage/2019-august/august-26/a6600-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-26/A6600-500x246.jpg" src="/content/dam/sony/homepage/2019-august/august-26/a6600-600x600.jpg" alt="a6600 Camera Mobile"/>.
 
 Get Ready for More Undead Action With the Return of “Zombieland: Double Tap”
 
