@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Canonical joins the ROS 2 Technical Steering Committee ›
+*   Multi-tenancy in MAAS ›
 *   Components vs. Plugins in ROS 2 ›
 *   A guide to developing Android apps on Ubuntu ›
 *   Snaps help Xibo rekindle its relationship with Linux ›
-*   MicroK8s Version 1.16.0 Beta Released! ›
-*   Kubernetes 1.16 beta now available, with support from Canonical ›
