@@ -9,18 +9,44 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
+    *   Hudson Jeans
+    *   Timberland for Her
+    *   Hudson Jeans Men Up to 70% Off
+    *   NANETTE nanette lepore Dresses at $34.97
+    *   COSRX Starting at $10
+    *   Timberland for Him
+    *   Weekend Casual: New Arrivals ft. Chaser
+    *   Honey Punch
+    *   14K Gold Jewelry Steals
+    *   Boho-Chic Bags from Ten79LA
+    *   Grande Cosmetics Up to 45% Off
+    *   Trending Now: Bodysuits We Love
+    *   Yoga Retreat: Active Styles ft. Marika
+    *   On Trend: French Connection Bags
+    *   NOGU Jewelry
+    *   Helly Hansen Men's Outerwear
+    *   Hudson Jeans Kids Up to 55% Off
+    *   Free Shipping: Decor for Every Style
+    *   Helly Hansen Men's Waterproof Sneakers &. More
+    *   Coat Check: Kids' Outerwear ft. Free Country
+    *   Helly Hansen Boots &. Sneakers Up to 50% Off
+    *   Free Shipping: Animation Art Up to 85% Off
+    *   Dolce Vita Girls
+    *   Glam with an Edge: Decor by Interior Illusions
+    *   NVLT Outerwear &. More Up to 70% Off
     *   TUMI
-    *   Work It: Dresses ft. Tahari Incl. Plus &. Petites
-    *   Street-Chic Coats: Puffers &. Parkas ft. NOIZE
+    
     *   S'well Water Bottles Up to 30% Off
     *   Nambe Up to 50% Off
     *   Free Shipping: Shun Cutlery Classic Collection
     *   Power Docks, Smartphone Charger Cases &. More
     *   Free Shipping: Bedding Essentials Up to 70% Off
+    *   Work It: Dresses ft. Tahari Incl. Plus &. Petites
     *   Workweek Chic: Separates Incl. Plus &. Petites
     *   Urban Decay Starting at $10
     *   Splendid Up to 65% Off
     *   Papillon Up to 70% Off
+    *   Street-Chic Coats: Puffers &. Parkas ft. NOIZE
     *   Green Amethyst Jewelry &. More Under $90
     *   90 Degrees by Reflex Under $40 Incl. Plus
     *   Dance the Night Away: Chic Heels &. More
@@ -36,75 +62,58 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   FRE Skin Care
     *   Fall Finds: Kids' Styles Up to 60% Off
     *   Dr. Martens
-    *   Dr. Martens Men
-    *   James Perse Up to 60% Off
     
-    *   Marina Incl. Plus
-    *   Nine West Shoes Under $60
-    *   Graceful to Glam: Do + Be Under $50
-    *   X by Gottex Active
-    *   Perfect Third Pieces: Blazers &. More for Her
-    *   Fall Denim Trends ft. Flared Styles Up to 60% Off
+    *   Dr. Martens Men
     *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
     *   Lucky Brand Men Starting at $15
-    *   Wild Style: Animal Print Shoes &. More
     *   Dr. Martens Kids
     *   Rivka Friedman Jewelry Up to 70% Off
-    *   Swim Essentials: Chic One-Pieces
-    *   Free Press &. Shimera
-    *   Anya Hindmarch &. Kurt Geiger London Bags
     *   Ready for Fall: Casual &. Cool Men's Styles
     *   Prints Charming: Colorful Bedding &. More
     *   Homecoming Ready: Men's Dress Shoes Under $100
-    *   John Varvatos Star USA Up to 65% Off
     *   Coccoli
     *   K-Beauty Hair Care &. More Starting at $10
     *   Best in Class: Lucky Brand Kids &. More
     *   Free Shipping: Gallery Wall Art Sets
-    *   Dynamic Innovation Labs Skin Care from $20
     *   Teami Blends Detox Teas &. Supplements
-    *   Lacoste Men's Shoes
     *   PYT Hair Tools &. More Up to 90% Off
-    *   Men's Loafers &. Slip-Ons Up to 60% Off
     *   Free Shipping: Wall Decor &. More
     *   Fun Tech Finds Under $40
-    
-    *   Mirenesse Australia Up to 40% Off
     *   Free Shipping: Down &. Memory Foam Essentials
-    *   Free Shipping: Storage Must-Haves from $10
-    *   Fake Bake: Instant Self Tanning Lotion
-    *   Hair Care That Gives Back: Soapbox
-    *   Bold Decor Updates
-    *   Free Shipping: Best Selling Bold Wall Art
+    *   James Perse Up to 60% Off
     *   Free Shipping: Luxe Bedding ft. Pillow Guy
-    *   The Final Few: Women's Shoes Up to 70% Off
     *   The Final Few: Men's Shoes Up to 65% Off
-    *   Last Chance: Clothing, Active &. Accessory Blowout
-    *   Lola Made in Italy Up to 70% Off
-    *   The Final Few: Men's Clothing &. More Up to 65% Off
-    *   Free Shipping: Sterling Forever Jewelry Up to 65% Off
+    *   Dynamic Innovation Labs Skin Care from $20
     *   Free Shipping: Kitchen Necessities Up to 65% Off
-    *   Vintage Addiction Handbags Up To 80% Off
-    *   Get into Gear: Must-Haves ft. Baby Tula
-    *   Last Call: Go Couture Dresses Up to 80% Off
-    *   Wacoal &. b.tempt'd by Wacoal
-    *   Nordstrom Rack Exclusives: Harper Canyon &. More
+    *   Free Shipping: Storage Must-Haves from $10
     *   Free Shipping: Decals for Every Wall &. More
-    *   Made in Italy: Sphera Milano Jewelry
-    *   Toys ft. Mattel &. Fisher-Price
-    *   K-Swiss Kids &. More from $25
     *   Treat Yourself: Too Cool For School Beauty &. More
     *   K-Swiss &. FILA Men Up to 60% Off
-    *   Dockers Up to 60% Off
 *   WomenShop Sale Events
     
+    *   Hudson Jeans
+    *   Timberland for Her
+    *   NANETTE nanette lepore Dresses at $34.97
+    *   COSRX Starting at $10
+    *   Weekend Casual: New Arrivals ft. Chaser
+    *   Honey Punch
+    *   14K Gold Jewelry Steals
+    *   Boho-Chic Bags from Ten79LA
+    *   Grande Cosmetics Up to 45% Off
+    *   Trending Now: Bodysuits We Love
+    *   Yoga Retreat: Active Styles ft. Marika
+    *   On Trend: French Connection Bags
+    *   NOGU Jewelry
+    *   Helly Hansen Boots &. Sneakers Up to 50% Off
+    *   NVLT Outerwear &. More Up to 70% Off
     *   TUMI
     *   Work It: Dresses ft. Tahari Incl. Plus &. Petites
-    *   Street-Chic Coats: Puffers &. Parkas ft. NOIZE
     *   Workweek Chic: Separates Incl. Plus &. Petites
     *   Urban Decay Starting at $10
     *   Splendid Up to 65% Off
+    
     *   Papillon Up to 70% Off
+    *   Street-Chic Coats: Puffers &. Parkas ft. NOIZE
     *   Green Amethyst Jewelry &. More Under $90
     *   90 Degrees by Reflex Under $40 Incl. Plus
     *   Dance the Night Away: Chic Heels &. More
@@ -115,35 +124,13 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Merrell
     *   FRE Skin Care
     *   Dr. Martens
-    *   James Perse Up to 60% Off
-    *   Marina Incl. Plus
-    *   Nine West Shoes Under $60
-    *   Graceful to Glam: Do + Be Under $50
-    *   X by Gottex Active
-    *   Perfect Third Pieces: Blazers &. More for Her
-    
-    *   Fall Denim Trends ft. Flared Styles Up to 60% Off
     *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
-    *   Wild Style: Animal Print Shoes &. More
     *   Rivka Friedman Jewelry Up to 70% Off
-    *   Swim Essentials: Chic One-Pieces
-    *   Free Press &. Shimera
-    *   Anya Hindmarch &. Kurt Geiger London Bags
     *   K-Beauty Hair Care &. More Starting at $10
-    *   Dynamic Innovation Labs Skin Care from $20
     *   Teami Blends Detox Teas &. Supplements
     *   PYT Hair Tools &. More Up to 90% Off
-    *   Mirenesse Australia Up to 40% Off
-    *   Fake Bake: Instant Self Tanning Lotion
-    *   Hair Care That Gives Back: Soapbox
-    *   The Final Few: Women's Shoes Up to 70% Off
-    *   Last Chance: Clothing, Active &. Accessory Blowout
-    *   Lola Made in Italy Up to 70% Off
-    *   Free Shipping: Sterling Forever Jewelry Up to 65% Off
-    *   Vintage Addiction Handbags Up To 80% Off
-    *   Last Call: Go Couture Dresses Up to 80% Off
-    *   Wacoal &. b.tempt'd by Wacoal
-    *   Made in Italy: Sphera Milano Jewelry
+    *   James Perse Up to 60% Off
+    *   Dynamic Innovation Labs Skin Care from $20
     *   Treat Yourself: Too Cool For School Beauty &. More
     
     Shop By Category
@@ -155,22 +142,21 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Watches
 *   MenShop Sale Events
     
+    *   Hudson Jeans Men Up to 70% Off
+    *   Timberland for Him
+    *   Helly Hansen Men's Outerwear
+    *   Helly Hansen Men's Waterproof Sneakers &. More
     *   TUMI
     *   Golf Shop ft. Callaway
     *   Gordon Rush Up to 60% Off
+    
     *   Raymond Weil Luxury Watches
     *   Dr. Martens Men
     *   Lucky Brand Men Starting at $15
     *   Ready for Fall: Casual &. Cool Men's Styles
     *   Homecoming Ready: Men's Dress Shoes Under $100
-    
-    *   John Varvatos Star USA Up to 65% Off
-    *   Lacoste Men's Shoes
-    *   Men's Loafers &. Slip-Ons Up to 60% Off
     *   The Final Few: Men's Shoes Up to 65% Off
-    *   The Final Few: Men's Clothing &. More Up to 65% Off
     *   K-Swiss &. FILA Men Up to 60% Off
-    *   Dockers Up to 60% Off
     
     Shop By Category
     *   Shoes
@@ -179,47 +165,45 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Watches
 *   KidsShop Sale Events
     
+    *   Hudson Jeans Kids Up to 55% Off
+    *   Coat Check: Kids' Outerwear ft. Free Country
+    *   Dolce Vita Girls
     *   Koolaburra by UGG Kids
     *   Mia Belle Girls
     *   Fall Finds: Kids' Styles Up to 60% Off
     *   Dr. Martens Kids
     *   Coccoli
     *   Best in Class: Lucky Brand Kids &. More
-    *   Get into Gear: Must-Haves ft. Baby Tula
-    *   Nordstrom Rack Exclusives: Harper Canyon &. More
-    *   Toys ft. Mattel &. Fisher-Price
-    *   K-Swiss Kids &. More from $25
     
     Shop By Category
     *   Girls' Sizes 7-16
     *   Girls' Sizes 2T-6X
-    *   Girls' Shoes
     *   Baby Girl
-    *   Baby Boy
     *   Boys' Sizes 2T-7
-    *   Boys' Shoes
-    *   Baby Gear &. Essentials
+    *   Baby Boy
+    *   Girls' Shoes
     *   Boys' Sizes 8-20
-    *   The Toy Shop
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Free Shipping: Decor for Every Style
+    *   Free Shipping: Animation Art Up to 85% Off
+    *   Glam with an Edge: Decor by Interior Illusions
     *   TUMI
     *   S'well Water Bottles Up to 30% Off
     *   Nambe Up to 50% Off
     *   Free Shipping: Shun Cutlery Classic Collection
     *   Power Docks, Smartphone Charger Cases &. More
     *   Free Shipping: Bedding Essentials Up to 70% Off
+    
     *   Prints Charming: Colorful Bedding &. More
     *   Free Shipping: Gallery Wall Art Sets
     *   Free Shipping: Wall Decor &. More
-    
     *   Fun Tech Finds Under $40
     *   Free Shipping: Down &. Memory Foam Essentials
-    *   Free Shipping: Storage Must-Haves from $10
-    *   Bold Decor Updates
-    *   Free Shipping: Best Selling Bold Wall Art
     *   Free Shipping: Luxe Bedding ft. Pillow Guy
     *   Free Shipping: Kitchen Necessities Up to 65% Off
+    *   Free Shipping: Storage Must-Haves from $10
     *   Free Shipping: Decals for Every Wall &. More
     
     Shop By Category
@@ -227,28 +211,28 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Bedding
     *   Kitchen &. Tabletop
     *   Tech Accessories
-    *   Luggage &. Travel
     *   Cleaning &. Organization
+    *   Luggage &. Travel
+    *   Accent Furniture
     *   Outdoor Living
     *   Bath
 *   BeautyShop Sale Events
     
+    *   COSRX Starting at $10
+    *   Grande Cosmetics Up to 45% Off
     *   Urban Decay Starting at $10
     *   FRE Skin Care
     *   K-Beauty Hair Care &. More Starting at $10
-    *   Dynamic Innovation Labs Skin Care from $20
     *   Teami Blends Detox Teas &. Supplements
     *   PYT Hair Tools &. More Up to 90% Off
-    *   Mirenesse Australia Up to 40% Off
-    *   Fake Bake: Instant Self Tanning Lotion
-    *   Hair Care That Gives Back: Soapbox
+    *   Dynamic Innovation Labs Skin Care from $20
     *   Treat Yourself: Too Cool For School Beauty &. More
     
     Shop By Category
-    *   Skin Care
     *   Makeup
-    *   Hair Care
+    *   Skin Care
     *   Bath &. Body
+    *   Hair Care
     *   Tools &. Accessories
     *   Fragrance
     *   Makeup Bags
