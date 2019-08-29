@@ -1,6 +1,7 @@
 *   Products
     *   *   SMARTWATCHES
-            *   Versa Family
+            *   Versa 2
+            *   Versa Lite Edition
             *   Ionic
         *   FITNESS TRACKERS
             *   Charge 3
@@ -10,8 +11,7 @@
             *   Aria 2  
                 Smart Scale
             *   Accessories
-            *   Fitbit Coach  
-                Training App
+            *   Fitbit Premium
     *   Not sure which product is right for you? COMPARE PRODUCTS
 *   Why Fitbit
     *   Why Fitbit
@@ -256,6 +256,8 @@ Archive of Previous Privacy Policies
 Get the low-down on all things Fitbit legal.
 
 See all our legal policies
+
+Get the skinny on all things FitbitPlease enter an email address
 
 *   BLOG
 
