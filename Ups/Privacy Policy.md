@@ -115,7 +115,15 @@ SearchMenu Close
     *   UPS Blog: _Longitudes_
     *   ResourcesExplore All Articles
 
-Customer Service SearchGo Page Not Found
+Customer Service Customer Service Need help now?
+
+Ask Our Virtual Assistant
+
+*   Help and Support Center
+*   Get Started with UPS
+*   Change Delivery
+
+SearchGo Page Not Found
 
 The ups.com page you requested cannot be found. It may have been moved or deleted.
 
