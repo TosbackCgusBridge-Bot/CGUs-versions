@@ -1,4 +1,4 @@
-Privacy Policy Effective Date: July 22, 2019
+Privacy Policy Effective Date: August 28, 2019
 
 Visible values your business and is committed to protecting your privacy. This Privacy Policy sets forth our policies and practices for the collection, use and sharing of your information. Visible is a member of the Verizon family of companies.
 
@@ -10,7 +10,7 @@ We collect information when you visit our websites, use our apps, contact us, an
 
 **We collect information when you use our service.** This includes information about the calls you make and receive, text messages you send and receive, websites you visit, mobile applications you use, and wireless network and device information, including location, Internet protocol (IP) address and connection speed, mobile telephone number, device and advertising identifiers, browser type, and operating system. Some Visible devices include Verizon-provided system applications that collect information about network and device conditions, which is used to secure and improve our network and services.
 
-**We also collect information when you visit our sites and use our apps, including through cookies and similar technology.** This includes your IP address, mobile number, device and advertising identifiers. browser and platform type, operating system, connection speed and other attributes. pages that you visit before and after visiting our sites. the date and time of your visit. information about the links you click and pages you view within the sites and screen records.
+**We also collect information when you visit our sites and use our apps, including through cookies and similar technology.** This includes your IP address, mobile number, device and advertising identifiers. browser and platform type, operating system, connection speed and other attributes. pages that you visit before and after visiting our sites. the date and time of your visit. information about the links you click and pages you view within the sites. and screen records.
 
 We may use cookies, pixel tags, and similar technologies to automatically collect this information. Cookies are small bits of information that are stored by your computer’s web browser. Pixel tags are very small images or small pieces of data embedded in images, also known as “web beacons” or “clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device. By using our websites and applications, you consent to our use of cookies and similar technologies.
 
