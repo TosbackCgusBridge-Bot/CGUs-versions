@@ -166,11 +166,11 @@ Up to
 
 BRZ Premium shown
 
-WRX $27,195\* starting price 2019 WRX
+WRX $27,495\* starting price 2020 WRX
 
 Starting at
 
-$27,195 MSRP
+$27,495 MSRP
 
 Up to
 
