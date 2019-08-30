@@ -65,13 +65,13 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
         *   Ankle Skinny
         *   Bootcut
         *   Flare
-        *   Skinny
         *   Straight
         *   Crops &. Capris
+        *   Skinny
         *   Shorts
         *   Curvy Jeans
         *   KanCan Kurvy
-        *   Jeans Under $75
+        *   Vintage Jeans
         *   Denim Style Guide
         *   Shop All
         
@@ -206,6 +206,7 @@ Sale on Sale! Get an extra 25% off, 33% off, or 50% off.
         *   High Waisted
         *   Black Jeans
         *   KanCan Kurvy
+        *   Vintage Jeans
         *   Women's Denim Style Guide
         *   Shop All
         
@@ -473,8 +474,9 @@ Promotions
 
 Sweepstakes Official Rules/Winners
 
-*   Social Giveaway Official Rules
+*   Urban Cowboy Official Rules
 *   Sweepstakes Winners
+*   Social Giveaway Official Rules
 
 Our Merchandise
 
