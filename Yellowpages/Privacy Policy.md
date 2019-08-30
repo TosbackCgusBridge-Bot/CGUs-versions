@@ -122,23 +122,7 @@ By using our resources, we make the world a better place. For example, data has 
 
 Your information helps us not only power your products and services, it helps us communicate service updates and offers. Data allows us to offer you our best products and services.
 
-For more information on how you can control your privacy, please see Your choices, tips &. tune-ups. _icon button_ ×A message from our Chief Privacy Officer
-
-Over the years, our business has changed dramatically. We’ve expanded beyond our traditional carrier services to add mobile applications, IPTV, satellite TV, advertising, and the Internet of Things. What has not changed is our fundamental commitment to privacy.
-
-Our privacy mission is to protect customers, respect their privacy, use data in an ethical way, and earn our customers’ trust. We strive to be as transparent as possible and to provide you with appropriate choices about how your information can be used.
-
-We incorporate privacy protections into our products, services and technologies from the ideation stage and throughout the product lifecycle. Our advanced privacy protections in many cases have been reviewed by AT&T Labs or top experts on our Data Advisory Board. We safeguard your data using a variety of approaches such as encryption, anonymization, and other security controls. We also secure our network and limit access to customer information within the company to those that have a business need.
-
-We want to hear from you. Send us your questions or feedback here.
-
-Thank you,
-
-Tom Moore
-
-Chief Privacy Officer
-
-×Looking for the old Privacy Policy?
+For more information on how you can control your privacy, please see Your choices, tips &. tune-ups. _icon button_ ×Looking for the old Privacy Policy?
 
 You can access our old PDF download here .
 
