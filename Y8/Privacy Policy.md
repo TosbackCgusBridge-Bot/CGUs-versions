@@ -12,8 +12,8 @@ New Games Next in  xx:xx
 Categories &. more LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1299 games
-*   Most Popular Games 19755 games
+*   Best of new games 1284 games
+*   Most Popular Games 19768 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -21,22 +21,22 @@ Categories &. more LIBRARY
 CATEGORIES
 
 *   Games for girls 24,344 games
-*   Driving &. Racing Games 6,866 games
+*   Driving &. Racing Games 6,868 games
 *   Strategy &. RPG Games 2,433 games
 *   Management Games 3,665 games
-*   Thinking Games 12,295 games
-*   Action &. Adventure Games 16,425 games
-*   Sports Games 2,296 games
+*   Thinking Games 12,297 games
+*   Action &. Adventure Games 16,429 games
+*   Sports Games 2,297 games
 *   Shooting Games 8,541 games
-*   Fighting Games 2,106 games
-*   Skill Games 11,538 games
+*   Fighting Games 2,105 games
+*   Skill Games 11,541 games
 *   Arcade &. Classic Games 13,431 games
 *   Fun &. Crazy Games 2,573 games
 
 Play with friends  
-Powered by Y8 Account 130 Y8 Multiplayer Games 2,067 Y8 High Score Games 1,170 Y8 Achievements Games 832 Y8 Screenshots Games 1,490 Y8 Online Save Games 3,141 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 130 Y8 Multiplayer Games 2,069 Y8 High Score Games 1,170 Y8 Achievements Games 832 Y8 Screenshots Games 1,491 Y8 Online Save Games 3,144 All Y8 Games Games Last Highscore:
 
-**1,896** points on Military Wars 3D Multiplayer by omega
+**3** points on Pick a Lock by Zyak
 
 Help us improve Bad translation? Social
 
@@ -53,7 +53,7 @@ Register Log in My Profile 0 points
 
 *   My Profile
 *   Edit Profile
-*   My games ()
+*   Favorites ()
 
 *   Log out
 
