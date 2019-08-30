@@ -14,7 +14,7 @@
     *   Gifts for Her
     *   Birthday Gifts
     *   Thank You Gifts
-    *   Sympathy GiftsMost Popular Taste of Summer Birthday Gifts
+    *   Sympathy GiftsMost Popular Taste of California Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
@@ -92,7 +92,7 @@
     *   Gifts for Her
     *   Birthday Gifts
     *   Thank You Gifts
-    *   Sympathy GiftsMost Popular Taste of Summer Birthday Gifts
+    *   Sympathy GiftsMost Popular Taste of California Birthday Gifts
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Sausage
