@@ -1,19 +1,19 @@
-*   MIN3-0BUF3-0Thu, 7:00 pm ET
-*   PIT3-0CAR1-2Thu, 7:00 pm ET
-*   IND0-3CIN1-2Thu, 7:00 pm ET
-*   ATL0-4JAX0-3Thu, 7:00 pm ET
-*   PHI1-2NYJ1-2Thu, 7:00 pm ET
-*   DET0-3CLE2-1Thu, 7:30 pm ET
-*   NYG3-0NE3-0Thu, 7:30 pm ET
-*   BAL3-0WAS1-2Thu, 7:30 pm ET
-*   TEN1-2CHI1-2Thu, 8:00 pm ET
-*   TB2-1DAL2-1Thu, 8:00 pm ET
-*   KC1-2GB1-2Thu, 8:00 pm ET
-*   LA1-2HOU1-2Thu, 8:00 pm ET
-*   MIA2-1NO2-1Thu, 8:00 pm ET
-*   ARI1-2DEN1-3Thu, 9:00 pm ET
-*   LAC0-3SF3-0Thu, 10:00 pm ET
-*   OAK3-0SEA2-1Thu, 10:00 pm ET
+*   LAC•20SF174th • 13:23
+*   OAK9SEA•174th • 13:21
+*   DET0-416CLE3-120Final
+*   NYG4-031NE3-129Final
+*   BAL4-020WAS1-37Final
+*   TEN2-219CHI1-315Final
+*   TB3-117DAL2-215Final
+*   KC1-320GB2-227Final
+*   LA2-222HOU1-310Final
+*   MIA3-116NO2-213Final
+*   ARI1-37DEN2-320Final
+*   MIN3-123BUF4-027Final
+*   PIT3-119CAR2-225Final
+*   IND1-313CIN1-36Final
+*   ATL1-431JAX0-412Final
+*   PHI1-30NYJ2-26Final
 
 *   News
 *   Scores
@@ -38,22 +38,22 @@
 *   Photos
 *   NFL Films
 
-*   MIN3-0BUF3-0Thu, 7:00 pm ET
-*   PIT3-0CAR1-2Thu, 7:00 pm ET
-*   IND0-3CIN1-2Thu, 7:00 pm ET
-*   ATL0-4JAX0-3Thu, 7:00 pm ET
-*   PHI1-2NYJ1-2Thu, 7:00 pm ET
-*   DET0-3CLE2-1Thu, 7:30 pm ET
-*   NYG3-0NE3-0Thu, 7:30 pm ET
-*   BAL3-0WAS1-2Thu, 7:30 pm ET
-*   TEN1-2CHI1-2Thu, 8:00 pm ET
-*   TB2-1DAL2-1Thu, 8:00 pm ET
-*   KC1-2GB1-2Thu, 8:00 pm ET
-*   LA1-2HOU1-2Thu, 8:00 pm ET
-*   MIA2-1NO2-1Thu, 8:00 pm ET
-*   ARI1-2DEN1-3Thu, 9:00 pm ET
-*   LAC0-3SF3-0Thu, 10:00 pm ET
-*   OAK3-0SEA2-1Thu, 10:00 pm ET
+*   Big Play HighlightD.Flannigan-Fowles 15-yard INT returnWatch NowLAC•20SF174th • 13:23
+*   OAK9SEA•174th • 13:21
+*   DET16CLE20Final
+*   NYG31NE29Final
+*   BAL20WAS7Final
+*   TEN19CHI15Final
+*   TB17DAL15Final
+*   KC20GB27Final
+*   LA22HOU10Final
+*   MIA16NO13Final
+*   ARI7DEN20Final
+*   MIN23BUF27Final
+*   PIT19CAR25Final
+*   IND13CIN6Final
+*   ATL31JAX12Final
+*   PHI0NYJ6Final
 
 *   News
 *   Scores
@@ -64,7 +64,7 @@
 *   Watch Games
 *   NFL 100
 
-*   NFL 100
+*   LIVE GAMES
 *   Fantasy
 
 *   *   Super Bowl
