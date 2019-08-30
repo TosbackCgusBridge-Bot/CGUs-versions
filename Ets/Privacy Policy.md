@@ -281,12 +281,7 @@ Navigation for Legal Home Navigation for Legal HomeTerms of UsePrivacy and Secur
 
 *   Trademarks Owned by ETS
 
-Follow ETS:
-
-*   ETS on Twitter
-*   ETS on LinkedIn
-
-ETS Corporate Links
+ETS
 
 *   About ETS
 *   Careers
@@ -296,11 +291,10 @@ ETS Corporate Links
 *   News: Open Notes
 *   Research
 
-Solutions
+Learning Solutions
 
 *   Educator Licensure
 *   English Language Learning
-*   ETS Accelerate
 *   Higher Education
 *   K–12 Student Programs
 *   Workplace &. Training
@@ -312,9 +306,7 @@ Products
 *   Praxis Tests
 *   TOEFL Tests
 *   TOEIC Tests
-*   View All Full product list
-
-To advance quality and equity in education by providing fair and valid assessments, research and related services. Our products and services measure knowledge and skills, promote learning and performance, and support education and professional development for all people worldwide.
+*   View All
 
 *   Send Feedback
 
