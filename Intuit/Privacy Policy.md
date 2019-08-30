@@ -1,6 +1,6 @@
-Free Shipping Over $99See DetailsAccessible View
+Labor Day Sale!Shop the adAccessible View
 
-*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
+*   My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -27,81 +27,72 @@ Shop Departments
     *   Backpacks
     *   Shop All Back To School
 
-Near YouFind a StoreBackFinal Hours Of COUPON CODE SALE30ENDS IN00HOURS 40MINS 54SECS See Details\*Extra 25% off select apparel, shoes, accessories, fine jewelry, home purchases of $100 or more any way you pay. Extra 20% off select apparel, shoes, accessories, fine jewelry, and home purchases with your JCPenney Credit Card or extra 15% off any other way you pay. Extra 10% off select furniture, mattresses, housewares, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches, and salon products any way you pay. Each offer good in store and at jcp.com, excluding taxes and shipping charges, 8/26/19-8/28/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Full amount of purchase must be on the JCPenney Credit Card to get the 20% off discount. Subject to credit approval. Does not apply to Best Value, Daily Deals, Limited Time Specials, Levi's, Denizen from Levi’s, Disney Collection, Disney Tsum Tsum, French Toast, Fisher-Price, Fanatics, Licensed Team Sports Merchandise, Columbia, Carhartt, Nike, adidas, Reebok, Puma, Champion, Converse, Clarks, Skechers Women's Shoes, Skechers Athletic Shoes, Bobs from Skechers, Keds, Grasshoppers, Athletic Shoes, Goddess Lingerie, Dreamgirl, Jewelry Trunk Shows, Modern Bride Design Your Dream Ring, Pre-Owned Watches, Smartwatches, Garmin, Fitbit, Sephora, Food, Penney Lane, S'ip by S'well, Electronics, In-Home Custom Design, Tempur-Pedic, Neato Robotics, iRobot, Sporting Goods/Outdoor Gear, Toys, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Personalized Jewelry, Wigs and Extensions, Purchase with Purchase Items, In-Store Services, Service Plans, Gift Cards, Closing Store purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code SALE30 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. Details40-50% OFF MEN’S &. WOMEN’S ST. JOHN’S BAY APPAREL  
-select styles including petites’ sizes    
-**sale $6.99-$34.99** | reg. $14-$60 
+Near YouFind a StoreBack40% OFF MEN’S &. WOMEN’S LEVI’S® JEANS   
+select styles | **sale $35.70-$41.70** | reg. $59.50-$69.50   
+Additional offers &. coupons do not apply to Levi's®.  
+
+*   WOMENS
+*   MENS
+*   BOYS
+*   SHOP ALL
+
+UP TO 60% OFFFURNITURE &. MATTRESSES+ EXTRA 15% off with coupon | select styles
 
 *   SHOP ALL
 
-*   Women’s St. John’s Bay tops
+*   UP TO 50% OFF BEDDING
     
-*   Women’s St. John’s Bay jeans
+*   UP TO 50% OFF BATH
     
-*   Men's St. John’s Bay shirts
+*   UP TO 50% OFF WINDOW
     
-*   Men's St. John’s Bay jeans
+*   UP TO 50% OFF SMALL ELECTRICS
     
 
-SHOP ALL40% OFF MEN’S &. WOMEN’S LEVI’S® JEANS select styles | **sale $35.70-$41.70** | reg. $59.50-$69.50    
-Additional offers &. coupons do not apply to Levi’s®.  
+SHOP ALL50% OFF XERSION ACTIVEWEARFOR THE FAMILYselect styles | **sale $6.99-$29.99 |** reg. $14-$60
 
-*   WOMEN
+*   KIDS
 *   MEN
-*   BOYS
-*   SHOP ALL
+*   WOMEN
 
-ARIZONA DENIM FOR THE FAMILY50% OFF BOYS’ &. GIRLS’ DENIM select styles | reg. $30-$40   
-
-*   BOYS
-*   GIRLS
-*   JUNIORS
-*   GUYS
-*   SHOP ALL
-
-40-50% OFF JUNIORS’ DENIM  
-select styles | **sale $14.99-$27.99** | reg. $30-$49 BUY 1 GET 1 FREE\* GUYS’ DENIM  
-select styles | reg. $40-$60 | \*Buy one item at regular price, get the  second item of equal or lesser value for free, while supplies last. 30-50% OFF BEDDINGUP TO 50% OFF BATHUP TO 50% OFF WINDOWUP TO 60% OFF FURNITURE &. MATTRESSES + EXTRA 15% off with coupon | select styles  
-**• EARN UP TO $100 IN JCP REWARDS ** **• UP TO $300 GIFT CARD ** **• FREE DELIVERY ON MATTRESSES $599 &. ABOVE**   
-
-*   FURNITURE
-*   MATTRESSES
-
-Disney Frozen 2 Trailer SEE IT. SHOP IT. #AllAtJCPMedia CarouselSlide 1 of 4. UP TO 70% OFF SHORTS FOR THE FAMILYSHOP ALLSELECT STYLESUP TO 70% OFF SHORTS FOR THE FAMILYSELECT STYLESSHOP ALL
+Disney Frozen 2 Trailer SEE IT. SHOP IT. #AllAtJCPMedia CarouselSlide 1 of 4. UP TO 70% OFF WOMEN'S SANDALSSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S SANDALSSELECT STYLESSHOP ALL
 
 *   SPECIAL DEAL!
     
-    $1274after couponwas $40 St. John's Bay Mens Cargo Short(123)Add To Cart
+    $1699after couponwas $60 a.n.a Womens Meadow Wedge Sandals(71)Add To Cart
 *   SPECIAL DEAL!
     
-    $849after couponwas $36 St. John's Bay Men's Stretch Chino Short(88)Add To Cart
+    $2549after couponwas $50 Arizona Womens Halden Strap Sandals(7)Add To Cart
 *   SPECIAL DEAL!
     
-    from$849after couponwas $32 - $37 Arizona Boys Stretch Adjustable Waist Cargo Short Preschool / Big Kid(17)Add To Cart
+    $2549after couponwas $50 Arizona Forum Womens Footbed Sandals(22)Add To Cart
 *   SPECIAL DEAL!
     
-    $1274after couponwas $40 St John's Bay Performance Shorts(3)Add To Cart
+    $2124after couponwas $60 a.n.a Womens Vista Heeled Sandals(2)Add To Cart
 *   SPECIAL DEAL!
     
-    from$849after couponwas $32 - $37 Arizona Boys Stretch Pull-On Short Preschool / Big Kid(8)Add To Cart
+    $1699after couponwas $60 a.n.a Womens Taci Wedge Sandals(22)Add To Cart
 *   SPECIAL DEAL!
     
-    from$849after couponwas $30 - $35 Arizona Boys Stretch Adjustable Waist Chino Short Preschool / Big Kid(25)Add To Cart
+    $1529after couponwas $50 east 5th Womens Olson Heeled Sandals(6)Add To Cart
 *   SPECIAL DEAL!
     
-    from$849after couponwas $27 - $32 Arizona Boys Stretch Pull-On Short Preschool / Big KidAdd To Cart
+    $1699after couponwas $54 Liz Claiborne Womens Fairfield Adjustable Strap Flat Sandals(9)Add To Cart
 
 Recommended for You
 
 *   from$254after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(278)
-*   from$3999 sale
+*   ADVERTISED DEAL!
     
-    was $60 | 15 - 33% offNike Revolution 4 Womens Lace-up Running Shoes(120)
-*   from$254after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(188)
-*   from$339after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1360)
+    from$3999 sale
+    
+    was $60 | 15 - 33% offNike Revolution 4 Womens Lace-up Running Shoes(121)
+*   from$254after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(190)
+*   from$339after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1362)
 *   from$6369
     
     Nike Air Max Motion 2 Womens Lace-up Running Shoes(6)
-*   $1104after couponwas $32 St. John's Bay Secretly Slender Mid Rise Capris(264)
+*   $1104after couponwas $32 St. John's Bay Secretly Slender Mid Rise Capris(268)
 
 Shop and Save at JCPenney
 
