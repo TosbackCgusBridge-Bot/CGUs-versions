@@ -125,6 +125,12 @@ Lenovo Explore Close
         *   Financing Available
         
         *   Accessories
+        *   Docks
+        *   Chargers &. Batteries
+        *   Mice &. Keyboard
+        *   Cases &. Bags
+        *   Cables &. Adapters
+        *   View All Accessories
         
         *   Software
         *   MS Office
@@ -154,6 +160,10 @@ Lenovo Explore Close
         *   Financing Available
         
         *   Explore Monitors
+        *   Monitors for Work
+        *   Monitors for Home
+        *   High-Resolution Monitors
+        *   View All Monitors
         
         *   Best Selling Monitors
         *   L22e-20 Monitor
@@ -182,6 +192,10 @@ Lenovo Explore Close
         *   Accessories
         
         *   Featured
+        *   Accessory Deals
+        *   Gamestore
+        *   Gaming PC Deals
+        *   Nintendo
         
         *   New in Gaming
         *   H500 Headset
@@ -209,6 +223,12 @@ Lenovo Explore Close
         *   View all Solutions
         
         *   Vertical Solutions
+        *   Government
+        *   Health
+        *   Higher Education
+        *   K-12 Education
+        *   Large Enterprise
+        *   Solutions Resources
         
         *   Best Sellers for Business
         *   Business Laptops
@@ -270,6 +290,11 @@ Lenovo Explore Close
         *   Electronic Deals
         
         *   Additional Offers
+        *   Clearance
+        *   Financing Options
+        *   Discount Programs
+        *   Trade In Program
+        *   Outlet
         
         Labor Day Savings
         
@@ -504,7 +529,7 @@ Lenovo Explore Close
     *   HELP PLACING AN ORDER ${contactNumber}
     *   BUSINESS ORDER HELP 866-426-0911
     *   EXISTING ORDER HELP 855-253-6686 option #1
-    *   Hours Mon-Fri 8AM-9PM ETSat 10AM-6PM ET\*\*Sales only
+    *   Hours Mon-Fri 8AM-9PM ETSat 10AM-6PM ET\*Sun 12PM-5PM ET\*Sales only
     *   CHAT NOW >.
 *   Account
     *   Sign In
