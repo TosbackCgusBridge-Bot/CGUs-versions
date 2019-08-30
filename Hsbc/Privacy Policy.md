@@ -141,7 +141,6 @@ I accept Menu
         *   Dividend calculator
         *   Dividend history and timetable
         *   Scrip dividend
-        *   Share analytics
         *   Annual General Meeting
     *   Investor FAQs
     *   Investor contacts
