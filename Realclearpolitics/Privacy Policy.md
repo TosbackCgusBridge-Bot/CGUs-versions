@@ -113,53 +113,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Frank Bruni_: Donald Trump Has Worn Us All Out
+*   _David Harsanyi_: Comey Is Proof the 'Deep State' Is Something to Fear
     
-*   _Victor Davis Hanson_: Trump — or What, Exactly?
+*   _Trudy Rubin_: Trump to Fellow Democracies at G-7: You're on Your Own
     
-*   _Julian Zelizer_: Deficit Balloons Under Trump, Exploding a Republican Myth
+*   _Daniel Jupp_: Trump's Bold Defiance of Macron's Hate Speech Charter
     
-*   _Peter Navarro_: How the Thriving Trump Economy Can Get Even Stronger
+*   _Therese Raphael_: Boris Johnson's Brutal Game of Truth or Dare
     
-*   _Hanna Trudo_: Dems Fear Trump Outplaying Them in Key Battlegrounds
+*   _Nikki Haley_: Chinese Attack on Hong Kong Would Pose Grave Danger
     
-*   _Aimee Delach_: New Trump Rules Abet Loss of Climate-Threatened Species
+*   _Clive Irving_: 'Moscow Mitch' McConnell Still Doesn't Get It
     
-*   _Juan Williams_: The Real Story Behind Trump's Attack on Me
+*   _John Solomon_: Trump Can Change History by Declassifying 3 Obama-Era Docs
     
-*   _Julie Kelly_: McCabe, CNN and Our Tawdry, Untrustworthy 4th Estate
+*   _Richard Porter_: Who Will Chicago Tax If the Rich Say 'Enough'?
     
-*   _Anna North_: Why Are #MeToo's Latest Critics Shaming Women?
+*   _Inkoo Kang_: Dave Chappelle Fights for the Rights of the Already-Powerful
     
-*   _Mary Eberstadt_: Identity Panic Took Root in Void Once Occupied by Family
+*   _Larry Elder_: Instagram: Innocent Mistake or Viewpoint Discrimination?
     
-*   _Alex Castellanos_: The Pundit's Guide to Handicapping the 2020 Dems
+*   _Carl Cannon_: Twain Out West: The Birth of a Literary Icon
     
-*   _Peter Hamby_: Biden Outrage Porn Is Hurting Readers &. Elevating Trump
+*   _Martha Gill_: Did Boris Johnson Just Break Parliament?
     
-*   _Joseph Curl_: Not Even Biden's Wife Inspired by Sputtering Campaign
+*   _James Forsyth_: Johnson's Brexit Strategy Offers MPs an Ultimatum
     
-*   _Leonard Pitts_: Trump's Anti-Journalism Hit Squad
+*   _Conrad Black_: Amid Reports of Chaos, Prudent U.S. Strategy Emerges
     
-*   _Greg Gutfeld_: Media Outraged at Being Held to Its Own Standards
+*   _Gail Collins_: Is Trump, Um, Slipping? Even More?
     
-*   _Paul Krugman_: Donald Trump and the Art of the Flail
+*   _Jim Mattis_: Duty, Democracy and the Threat of Tribalism
     
-*   _Ben Shapiro_: Trump Is Right on the China Threat
+*   _Susan Crabtree_: N.Y. Donations in N.C. Primary Fuel Charges of Meddling
     
-*   _William Hoagland_: Trump's Trade War Is Hurting Farmers. Will It Ever End?
+*   _James Arkin_: Surprise Georgia Resignation Jolts Battle for the Senate
     
-*   _Paul Sperry_: Insiders: Intel Gatekeeper Dragging Feet on Trump-Russia Files
+*   _Abraham Socher_: O Oberlin, My Oberlin
     
-*   _John Solomon_: How Trump Can Avoid a Fumble on Healthcare in 2020
+*   _Hannah Giorgis_: The Fear in Dave Chappelle's New Special
     
-*   _Donald Kochan_: Landmark Liability Case &. Common Law's Lament
+*   _John Ellis_: Chappelle's Netflix Special Is PC Culture's Worst Nightmare
     
-*   _Roger L. Simon_: You Can't Go Home Again, Ilhan Omar
+*   _Adam Candeub_: Mike Lee, Google, and a Curious Antitrust Flip-Flop
     
-*   _Jill Filipovic_: Taylor Swift's Imperfect Activism
+*   _Nathan Robinson_: Kochs Tried to Build Plutocracy in the Name of Freedom
     
-*   _Christian Toto_: Is Dave Chappelle's New Netflix Special the Woke Tipping Point?
+*   _Byron York_: Justice IG Has Done a Separate Report on Comey
     
 
 *   Previous
@@ -230,11 +230,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   N.Y. Donations in N.C. Primary Fuel Charges of Meddling
+*   From Trumpism to Trump Challenger: Joe Walsh on His 2020 Run
+*   Gabbard: DNC Debate Process Lacks Transparency, Creates Lack of Trust
 *   U.S. Intel Gatekeeper Dragging Feet on Trump-Russia Files, Insiders Say
 *   Pence Targets Freshman Dems to Press Pelosi on USMCA
-*   Haass: Under Trump, U.S. Has Become "Principal Disruptor" of World Order
-*   Biden's Media-Coverage Lead Narrows in the Dem Primary
-*   Could California Be Warren's Golden Ticket?
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,6 +247,9 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve47
+    *   Disapprove51Disapprove +4
 *   2020 Democratic Presidential NominationQuinnipiac
     *   Biden32
     *   Sanders15
@@ -289,17 +292,14 @@ Latest PollsAll Polls
     *   Klobuchar1
     *   Bullock1
     *   Williamson1Biden +4
-*   General Election: Trump vs. BidenQuinnipiac
-    *   Biden54
-    *   Trump38Biden +16
 
 More Latest Polls In The News
 
+*   Trump: CNN Is "Begging Me" To Do An Interview, But I Think It Would Be "Very Disloyal" To "Trump Fans"
+*   Pompeo: U.S. Will Give Israel Diplomatic, Legal, And Military Resupply Support In War With Iran, However Long
+*   Lawrence O'Donnell Retracts Trump-Russia Loan Story: Saying "If True" Is Simply Not Good Enough
 *   AOC: Millennials &. Gen Z "Understand Our History," Are "More Informed" Than Previous Generations
 *   CNN's Oliver Darcy: Trump Is "Typical FOX News Viewer". Doesn't Know Difference Between Hannity &. Shep
-*   MSNBC's O'Donnell: "Single Source" Says Russian Oligarchs Co-Signed Deutsche Bank Loans To Trump (UPDATE)
-*   Lindsey Graham Warns Trump: "There Will Be Another 9/11" If U.S. Troops Leave Afghanistan
-*   Don Lemon: Every Single Study Shows People Voted For Trump Due To "Fear Of Losing Place In Society"
 
 *   Politics
 *   Policy
