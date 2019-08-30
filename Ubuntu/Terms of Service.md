@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   LXD in 4 Easy Steps ›
+*   A technical comparison between snaps and debs ›
 *   Canonical joins the ROS 2 Technical Steering Committee ›
 *   Multi-tenancy in MAAS ›
 *   Components vs. Plugins in ROS 2 ›
-*   A guide to developing Android apps on Ubuntu ›
-*   Snaps help Xibo rekindle its relationship with Linux ›
