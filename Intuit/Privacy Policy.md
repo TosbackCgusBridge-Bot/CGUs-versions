@@ -1,4 +1,4 @@
-Labor Day Sale!Shop the adAccessible View
+Free Shipping Over $99See DetailsAccessible View
 
 *   My AccountSign InTrack MyOrders
 
@@ -19,13 +19,6 @@ Shop Departments
     *   Home
     *   More Categories
 *   Coupons
-*   Back To School
-    *   Uniforms
-    *   Jeans
-    *   Activewear
-    *   Shoes
-    *   Backpacks
-    *   Shop All Back To School
 
 Near YouFind a StoreBack40% OFF MEN’S &. WOMEN’S LEVI’S® JEANS   
 select styles | **sale $35.70-$41.70** | reg. $59.50-$69.50   
@@ -55,44 +48,20 @@ SHOP ALL50% OFF XERSION ACTIVEWEARFOR THE FAMILYselect styles | **sale $6.99-$29
 *   MEN
 *   WOMEN
 
-Disney Frozen 2 Trailer SEE IT. SHOP IT. #AllAtJCPMedia CarouselSlide 1 of 4. UP TO 70% OFF WOMEN'S SANDALSSHOP ALLSELECT STYLESUP TO 70% OFF WOMEN'S SANDALSSELECT STYLESSHOP ALL
+Disney Frozen 2 Trailer SEE IT. SHOP IT. #AllAtJCPMedia CarouselSlide 1 of 4. Recommended for You
 
-*   SPECIAL DEAL!
-    
-    $1699after couponwas $60 a.n.a Womens Meadow Wedge Sandals(71)Add To Cart
-*   SPECIAL DEAL!
-    
-    $2549after couponwas $50 Arizona Womens Halden Strap Sandals(7)Add To Cart
-*   SPECIAL DEAL!
-    
-    $2549after couponwas $50 Arizona Forum Womens Footbed Sandals(22)Add To Cart
-*   SPECIAL DEAL!
-    
-    $2124after couponwas $60 a.n.a Womens Vista Heeled Sandals(2)Add To Cart
-*   SPECIAL DEAL!
-    
-    $1699after couponwas $60 a.n.a Womens Taci Wedge Sandals(22)Add To Cart
-*   SPECIAL DEAL!
-    
-    $1529after couponwas $50 east 5th Womens Olson Heeled Sandals(6)Add To Cart
-*   SPECIAL DEAL!
-    
-    $1699after couponwas $54 Liz Claiborne Womens Fairfield Adjustable Strap Flat Sandals(9)Add To Cart
-
-Recommended for You
-
-*   from$254after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(278)
+*   from$254after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(288)
 *   ADVERTISED DEAL!
     
     from$3999 sale
     
-    was $60 | 15 - 33% offNike Revolution 4 Womens Lace-up Running Shoes(121)
-*   from$254after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(190)
-*   from$339after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1362)
+    was $60 | 15 - 33% offNike Revolution 4 Womens Lace-up Running Shoes(122)
+*   from$254after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(191)
+*   from$339after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1363)
 *   from$6369
     
     Nike Air Max Motion 2 Womens Lace-up Running Shoes(6)
-*   $1104after couponwas $32 St. John's Bay Secretly Slender Mid Rise Capris(268)
+*   from$951after couponwas $32 St. John's Bay Secretly Slender Mid Rise Capris(272)
 
 Shop and Save at JCPenney
 
