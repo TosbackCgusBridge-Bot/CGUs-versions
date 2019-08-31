@@ -1009,81 +1009,72 @@ How may I contact Lenovo's Privacy Program?
 
 If you have any questions about this privacy statement, you can contact Lenovo via privacy@lenovo.com or via U.S. postal mail at Lenovo, Attn: Privacy Program, 1009 Think Place, Morrisville, NC, USA 27560.
 
-Laptops Desktops Tablets Servers Deals STAY CONNECTED
+STAY CONNECTED Wrong Input × FacebookInstragramYouTubeTwitterFlickrForums Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium - DutchBelgium - FrançaisBelizeBoliviaBotswanaBrazilBulgariaCanada - EnglishCanada - FrançaisChileChinaColombiaCosta RicaCote d'IvoireCroatiaCzech RepublicDenmarkDominican RepublicEcuadorEgypt - EnglishEgypt - العربيةEl SalvadorEstoniaFinlandFranceGermanyGhanaGreeceGuatemalaHondurasHong Kong S.A.R. of China - EnglishHong Kong S.A.R. of China - 繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNicaraguaNigeriaNorwayOmanPakistanPanamaParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia - EnglishSaudi Arabia - العربيةSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland - EnglishSwitzerland - FrenchSwitzerland - GermanTaiwan RegionTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates - EnglishUnited Arab Emirates - العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe ABOUT LENOVO
 
-*   Facebook
-*   Twitter
-*   Instagram
-*   YouTube
-*   Pinterest
-*   Flickr
-*   Lenovo Forums
+*   Our Company
+*   News
+*   Investors Relations
+*   Compliance
+*   Social Responsibility
+*   Product Security
+*   Product Recalls
+*   Customer Center
+*   DCG Customer Center
+*   Lenovo Cares
+*   Careers
 
-Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium-FrançaisBelgium-DutchBelizeBoliviaBotswanaBrazilBulgariaCanada-FrançaisCanada-EnglishChileChinaColombiaCosta RicaCote d'IvoireCroatiaCzech RepublicDenmarkDominican RepublicEcuadorEgypt-EnglishEgypt-العربيةEl SalvadorEstoniaFinlandFranceGermanyGhanaGreeceGuatemalaHondurasHong Kong S.A.R. of China-繁體中文Hong Kong S.A.R. of China-EnglishHungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNicaraguaNigeriaNorwayOmanPakistanPanamaParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia-العربيةSaudi Arabia-EnglishSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland-GermanSwitzerland-FrenchSwitzerland-EnglishTaiwan RegionTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates-EnglishUnited Arab Emirates-العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe
+PRODUCTS &. SERVICE
 
-*   ABOUT LENOVO
-    *   Our Company
-    *   News
-    *   Blog
-    *   Investor Relations
-    *   Compliance
-    *   Sustainability
-    *   Product Security
-    *   Customer Center
-    *   DCG Briefing Centers
-    *   Lenovo Cares
-    *   Careers
-    Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
-*   PRODUCTS &. SERVICES
-    *   Laptops &. 2-in-1s
-    *   Desktops
-    *   Workstations
-    *   Gaming &. AR/VR
-    *   Tablets &. Smart Devices
-    *   Accessories &. Software
-    *   Servers, Storage, &. Networking
-    *   Services &. Warranty
-    *   Outlet
-    *   Deals
-    Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
-*   SHOP BY INDUSTRY
-    *   Small Business
-    *   Large Enterprise
-    *   Government
-    *   Health
-    *   K-12 Education
-    *   Higher Education
-    *   Students &. Teachers
-    *   Military
-    *   50 Plus
-    
-    *   Data Center Solutions
-    Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
-*   RESOURCES
-    *   Resource Center
-    *   Where to Buy
-    *   Partner Portal
-    *   LenovoPro
-    *   Financing Options
-    *   Trade-In Program
-    *   Customer Discounts
-    *   Affiliate Program
-    *   Affinity Program
-    *   Forums
-    Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
-*   CUSTOMER SUPPORT
-    *   Contact Us
-    *   Shopping Help
-    *   Return Policy
-    *   Order Tracking
-    *   Product Registration
-    *   Product Recalls
-    *   Replacement Parts
-    *   Technical Support
-    *   FAQs
-    Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
+*   Laptops &. Ultrabooks
+*   Desktop Computers
+*   Workstations
+*   Gaming &. AR/VR
+*   Tablets &. Smart Devices
+*   Servers, Storage, &. Networking
+*   Accessories &. Software
+*   Services &. Warranty
+*   Outlet
+*   Deals
 
-© 2019   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and ConditionsAnti-Slavery and Human Trafficking Statement Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+SHOP BY INDUSTRY
+
+*   Small Business
+*   Large Enterprise
+*   Data Center
+*   Government
+*   Healthcare
+*   K-12 Education
+*   Higher Education
+*   Students &. Teachers
+*   Military
+*   Seniors
+
+RESOURCES
+
+*   Resource Center
+*   Partner Portal
+*   LenovoPRO
+*   Financing Options
+*   Trade-in Program
+*   Customer Discounts
+*   Affiiliate Program
+*   Affinity Program
+*   Laptop Buying Guide
+*   Where to Buy
+
+CUSTOMER SUPPORT
+
+*   Contact Us
+*   Shopping Help
+*   Return Policy
+*   Track my Order
+*   Register a Product
+*   Replacement Parts
+*   Technical Support
+*   Forums
+*   FAQs
+
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicyQASales terms and conditionsAnti-Slavery and Human Trafficking Statement LAPTOPS Desktops Tablets Accessories Deals Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
 
 How can we help you today?
 
