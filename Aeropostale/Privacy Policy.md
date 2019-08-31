@@ -28,7 +28,6 @@ Close submenu ( Girls ) Girls
 *   Shoes
 *   Fragrance
 *   Bras + Undies
-*   Swimwear
 *   Extended Sizes
 *   Clearance
 
@@ -41,9 +40,9 @@ Close submenu ( Tops ) Tops
 *   Tees
 *   Graphic Tees
 *   Polos
+*   Hoodies + Sweatshirts
 *   Camis
 *   Tanks
-*   Hoodies + Sweatshirts
 *   Long Sleeve
 *   Shirts + Blouses
 *   Sweaters
@@ -196,12 +195,8 @@ Close submenu ( Guys ) Guys
 
 *   View All
 *   Denim Shorts
-*   7.5" Beach Shorts
-*   Flat Front Shorts
-*   Jogger Shorts
 *   Cargo Shorts
 *   Athletic
-*   Swim
 
 Close submenu ( New Arrivals ) New Arrivals
 
@@ -278,9 +273,9 @@ Menu Find a Store Aeropostale
         *   Tees
         *   Graphic Tees
         *   Polos
+        *   Hoodies + Sweatshirts
         *   Camis
         *   Tanks
-        *   Hoodies + Sweatshirts
         *   Long Sleeve
         *   Shirts + Blouses
         *   Sweaters
@@ -306,7 +301,6 @@ Menu Find a Store Aeropostale
     *   Shoes
     *   Fragrance
     *   Bras + Undies
-    *   Swimwear
     *   Extended Sizes
     *   Clearance
     
@@ -424,12 +418,8 @@ Menu Find a Store Aeropostale
     *   Guys
         *   View All
         *   Denim Shorts
-        *   7.5" Beach Shorts
-        *   Flat Front Shorts
-        *   Jogger Shorts
         *   Cargo Shorts
         *   Athletic
-        *   Swim
     
 *   New Arrivals
     
@@ -506,7 +496,7 @@ _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 *   Help
 *   Coupon Page
 *   My Account
-*   ADA Accessibility
+*   ADA
 *   Buy Online, Pick Up In Store
 
 Gift Cards
