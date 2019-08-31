@@ -468,6 +468,7 @@ Returns
 
 Promotions
 
+*   2x Points
 *   Store Events
 *   Military Discount
 *   All Special Offers
