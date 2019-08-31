@@ -1,5 +1,8 @@
-*   LAC•20SF174th • 13:23
-*   OAK9SEA•174th • 13:21
+*   MIN3-123BUF4-027Final
+*   PIT3-119CAR2-225Final
+*   IND1-313CIN1-36Final
+*   ATL1-431JAX0-412Final
+*   PHI1-30NYJ2-26Final
 *   DET0-416CLE3-120Final
 *   NYG4-031NE3-129Final
 *   BAL4-020WAS1-37Final
@@ -9,11 +12,8 @@
 *   LA2-222HOU1-310Final
 *   MIA3-116NO2-213Final
 *   ARI1-37DEN2-320Final
-*   MIN3-123BUF4-027Final
-*   PIT3-119CAR2-225Final
-*   IND1-313CIN1-36Final
-*   ATL1-431JAX0-412Final
-*   PHI1-30NYJ2-26Final
+*   LAC1-327SF3-124Final
+*   OAK3-115SEA3-117Final
 
 *   News
 *   Scores
@@ -38,8 +38,11 @@
 *   Photos
 *   NFL Films
 
-*   Big Play HighlightD.Flannigan-Fowles 15-yard INT returnWatch NowLAC•20SF174th • 13:23
-*   OAK9SEA•174th • 13:21
+*   MIN23BUF27Final
+*   PIT19CAR25Final
+*   IND13CIN6Final
+*   ATL31JAX12Final
+*   PHI0NYJ6Final
 *   DET16CLE20Final
 *   NYG31NE29Final
 *   BAL20WAS7Final
@@ -49,11 +52,8 @@
 *   LA22HOU10Final
 *   MIA16NO13Final
 *   ARI7DEN20Final
-*   MIN23BUF27Final
-*   PIT19CAR25Final
-*   IND13CIN6Final
-*   ATL31JAX12Final
-*   PHI0NYJ6Final
+*   LAC27SF24Final
+*   OAK15SEA17Final
 
 *   News
 *   Scores
@@ -64,7 +64,7 @@
 *   Watch Games
 *   NFL 100
 
-*   LIVE GAMES
+*   NFL 100
 *   Fantasy
 
 *   *   Super Bowl
