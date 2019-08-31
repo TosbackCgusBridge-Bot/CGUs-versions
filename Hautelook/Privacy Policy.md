@@ -9,8 +9,33 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
+    *   Disney Accessories Up to 70% Off
+    *   Johnny Was Up to 60% Off
+    *   Schutz Up to 60% Off
+    *   On Trend: Sweaters from $25 Incl. Plus &. Petites
+    *   Every Fit &. Wash: Denim Starting at $25
+    *   BCBGeneration Under $70
+    *   Freida Rothman Jewelry
+    *   Make an Entrance: TOV &. More from $25
+    *   Catherine Catherine Malandrino Shoes from $30
+    *   Surf, Sand &. Sun: Billabong and More
+    *   Clean Makeup: bareMinerals Up to 50% Off
+    *   Avec Les Filles Outerwear &. More Up to 60% Off
+    *   Luseta Beauty Hair Care from $10
+    *   Mix &. Match: Suit Separates Under $150
+    *   Volcom Starting at $13
+    *   Back to School: Skechers Under $50
+    *   Chase &. Chloe Under $30
+    *   Rush by Gordon Rush Up to 75% Off
+    *   Free Shipping: Bold Wall Art
+    *   Phone Cases Starting at $15
+    *   Bath &. Body ft. Honestly Margo
+    *   Decked Out for Class: Skater Looks ft. Tony Hawk
+    *   Kids' Weekend Workout Styles Under $20
+    *   Ready, Set, Go: Kids' Active Sneakers Under $50
     *   Dooney &. Bourke
     *   Hanky Panky
+    
     *   Dolce Vita Up to 55% Off
     *   Meghan LA Up to 75% Off
     *   Catherine Catherine Malandrino from $20 Incl. Plus
@@ -34,63 +59,58 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   NANETTE nanette lepore Dresses at $34.97
     *   COSRX Starting at $10
     *   Hudson Jeans
-    
     *   Hudson Jeans Men Up to 70% Off
-    *   Timberland for Her
     *   Timberland for Him
-    *   Weekend Casual: New Arrivals ft. Chaser
-    *   Honey Punch
     *   14K Gold Jewelry Steals
-    *   Boho-Chic Bags from Ten79LA
+    
     *   Grande Cosmetics Up to 45% Off
-    *   Trending Now: Bodysuits We Love
-    *   Yoga Retreat: Active Styles ft. Marika
-    *   On Trend: French Connection Bags
     *   NOGU Jewelry
     *   Helly Hansen Men's Outerwear
     *   Hudson Jeans Kids Up to 55% Off
     *   Free Shipping: Decor for Every Style
     *   Helly Hansen Men's Waterproof Sneakers &. More
     *   Coat Check: Kids' Outerwear ft. Free Country
-    *   Helly Hansen Boots &. Sneakers Up to 50% Off
     *   Free Shipping: Animation Art Up to 85% Off
     *   Dolce Vita Girls
     *   Glam with an Edge: Decor by Interior Illusions
-    *   TUMI
     *   S'well Water Bottles Up to 30% Off
     *   Nambe Up to 50% Off
     *   Free Shipping: Shun Cutlery Classic Collection
-    
     *   Power Docks, Smartphone Charger Cases &. More
     *   Free Shipping: Bedding Essentials Up to 70% Off
     *   Urban Decay Starting at $10
-    *   Green Amethyst Jewelry &. More Under $90
-    *   Golf Shop ft. Callaway
     *   Gordon Rush Up to 60% Off
-    *   Raymond Weil Luxury Watches
-    *   Koolaburra by UGG Kids
-    *   Mia Belle Girls
     *   FRE Skin Care
-    *   Fall Finds: Kids' Styles Up to 60% Off
     *   Prints Charming: Colorful Bedding &. More
-    *   Homecoming Ready: Men's Dress Shoes Under $100
     *   K-Beauty Hair Care &. More Starting at $10
     *   Free Shipping: Gallery Wall Art Sets
     *   Free Shipping: Wall Decor &. More
     *   Fun Tech Finds Under $40
-    *   Free Shipping: Down &. Memory Foam Essentials
-    *   Free Shipping: Storage Must-Haves from $10
-    *   Dynamic Innovation Labs Skin Care from $20
     *   Free Shipping: Kitchen Necessities Up to 65% Off
     *   Free Shipping: Decals for Every Wall &. More
-    *   Treat Yourself: Too Cool For School Beauty &. More
-    *   NVLT Outerwear &. More Up to 70% Off
 *   WomenShop Sale Events
     
+    *   Disney Accessories Up to 70% Off
+    *   Johnny Was Up to 60% Off
+    *   Schutz Up to 60% Off
+    *   On Trend: Sweaters from $25 Incl. Plus &. Petites
+    *   Every Fit &. Wash: Denim Starting at $25
+    *   BCBGeneration Under $70
+    *   Freida Rothman Jewelry
+    *   Make an Entrance: TOV &. More from $25
+    *   Catherine Catherine Malandrino Shoes from $30
+    *   Surf, Sand &. Sun: Billabong and More
+    *   Clean Makeup: bareMinerals Up to 50% Off
+    *   Avec Les Filles Outerwear &. More Up to 60% Off
+    *   Luseta Beauty Hair Care from $10
+    *   Back to School: Skechers Under $50
+    *   Chase &. Chloe Under $30
+    *   Bath &. Body ft. Honestly Margo
     *   Dooney &. Bourke
     *   Hanky Panky
     *   Dolce Vita Up to 55% Off
     *   Meghan LA Up to 75% Off
+    
     *   Catherine Catherine Malandrino from $20 Incl. Plus
     *   Socialite Starting at $20
     *   Luxe Essentials: Styles Up to 65% Off
@@ -104,27 +124,12 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   NANETTE nanette lepore Dresses at $34.97
     *   COSRX Starting at $10
     *   Hudson Jeans
-    *   Timberland for Her
-    *   Weekend Casual: New Arrivals ft. Chaser
-    
-    *   Honey Punch
     *   14K Gold Jewelry Steals
-    *   Boho-Chic Bags from Ten79LA
     *   Grande Cosmetics Up to 45% Off
-    *   Trending Now: Bodysuits We Love
-    *   Yoga Retreat: Active Styles ft. Marika
-    *   On Trend: French Connection Bags
     *   NOGU Jewelry
-    *   Helly Hansen Boots &. Sneakers Up to 50% Off
-    *   TUMI
     *   Urban Decay Starting at $10
-    *   Green Amethyst Jewelry &. More Under $90
-    *   Raymond Weil Luxury Watches
     *   FRE Skin Care
     *   K-Beauty Hair Care &. More Starting at $10
-    *   Dynamic Innovation Labs Skin Care from $20
-    *   Treat Yourself: Too Cool For School Beauty &. More
-    *   NVLT Outerwear &. More Up to 70% Off
     
     Shop By Category
     *   Clothing
@@ -135,19 +140,18 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Watches
 *   MenShop Sale Events
     
+    *   Mix &. Match: Suit Separates Under $150
+    *   Volcom Starting at $13
+    *   Rush by Gordon Rush Up to 75% Off
     *   Kenneth Cole Reaction &. More
     *   Saucony Men Starting at $35
     *   Kenneth Cole Reaction Men
+    
     *   Hudson Jeans Men Up to 70% Off
     *   Timberland for Him
     *   Helly Hansen Men's Outerwear
-    
     *   Helly Hansen Men's Waterproof Sneakers &. More
-    *   TUMI
-    *   Golf Shop ft. Callaway
     *   Gordon Rush Up to 60% Off
-    *   Raymond Weil Luxury Watches
-    *   Homecoming Ready: Men's Dress Shoes Under $100
     
     Shop By Category
     *   Shoes
@@ -156,59 +160,61 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Watches
 *   KidsShop Sale Events
     
+    *   Decked Out for Class: Skater Looks ft. Tony Hawk
+    *   Kids' Weekend Workout Styles Under $20
+    *   Ready, Set, Go: Kids' Active Sneakers Under $50
     *   Joe Fresh Kids' Shoes
     *   Jessica Simpson Girls
     *   Hudson Jeans Kids Up to 55% Off
     *   Coat Check: Kids' Outerwear ft. Free Country
     *   Dolce Vita Girls
-    *   Koolaburra by UGG Kids
-    *   Mia Belle Girls
-    *   Fall Finds: Kids' Styles Up to 60% Off
     
     Shop By Category
     *   Girls' Sizes 7-16
     *   Girls' Sizes 2T-6X
-    *   Girls' Shoes
-    *   Boys' Sizes 2T-7
     *   Boys' Sizes 8-20
+    *   Boys' Sizes 2T-7
+    *   Girls' Shoes
+    *   Boys' Shoes
     *   Baby Girl
     *   Baby Boy
-    *   Boys' Shoes
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: Bold Wall Art
+    *   Phone Cases Starting at $15
     *   Kitchen Gadgets &. Storage Starting at $13
     *   Pillows Starting at $17
     *   Free Shipping: Decor for Every Style
     *   Free Shipping: Animation Art Up to 85% Off
     *   Glam with an Edge: Decor by Interior Illusions
-    *   TUMI
     *   S'well Water Bottles Up to 30% Off
     *   Nambe Up to 50% Off
+    
     *   Free Shipping: Shun Cutlery Classic Collection
     *   Power Docks, Smartphone Charger Cases &. More
-    
     *   Free Shipping: Bedding Essentials Up to 70% Off
     *   Prints Charming: Colorful Bedding &. More
     *   Free Shipping: Gallery Wall Art Sets
     *   Free Shipping: Wall Decor &. More
     *   Fun Tech Finds Under $40
-    *   Free Shipping: Down &. Memory Foam Essentials
-    *   Free Shipping: Storage Must-Haves from $10
     *   Free Shipping: Kitchen Necessities Up to 65% Off
     *   Free Shipping: Decals for Every Wall &. More
     
     Shop By Category
     *   Home Decor
-    *   Bedding
     *   Kitchen &. Tabletop
-    *   Cleaning &. Organization
+    *   Bedding
     *   Tech Accessories
     *   Luggage &. Travel
+    *   Cleaning &. Organization
     *   Accent Furniture
     *   Outdoor Living
-    *   Bath
 *   BeautyShop Sale Events
     
+    *   Clean Makeup: bareMinerals Up to 50% Off
+    *   Luseta Beauty Hair Care from $10
+    *   Bath &. Body ft. Honestly Margo
     *   Skinn Cosmetics Skincare &. Makeup Up to 60% Off
     *   NIU BODY Natural Skin Care Starting at $10
     *   COSRX Starting at $10
@@ -216,16 +222,13 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Urban Decay Starting at $10
     *   FRE Skin Care
     *   K-Beauty Hair Care &. More Starting at $10
-    *   Dynamic Innovation Labs Skin Care from $20
-    *   Treat Yourself: Too Cool For School Beauty &. More
     
     Shop By Category
-    *   Skin Care
     *   Makeup
     *   Hair Care
     *   Bath &. Body
+    *   Skin Care
     *   Fragrance
-    *   Tools &. Accessories
     *   Nails
     *   Makeup Bags
 
