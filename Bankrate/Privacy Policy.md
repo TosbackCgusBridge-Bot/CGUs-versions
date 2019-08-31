@@ -102,6 +102,7 @@
     *   Personal loan reviews
     *   Auto loan rates
     *   Student loan rates
+    *   Student loan reviews
     
     Loan Types
     
@@ -167,6 +168,7 @@
     
     *   Home equity loan rates
     *   Home equity line of credit rates
+    *   Home equity lender reviews
     
     Use Calculators
     
