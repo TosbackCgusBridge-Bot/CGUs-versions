@@ -81,14 +81,14 @@ View more results
     Best Games
     *   Apple Shooter: Arrow Game
     *   Warbanner
-    *   Total Front: Army War Game
     *   Combat Strike 2: 3D Shooting Game Online Multiplayer
+    *   Total Front: Army War Game
     *   Stunt Skateboard 3D
     *   Slither.io
     *   Short Life
     *   Uphill Rush 7: Waterpark
-    *   Ultimate Boxing
     *   Miami Crime Simulator 3D
+    *   Ultimate Boxing
     *   Stickman Archer 2
     *   Goodgame Gangster
 *   Top Categories
@@ -122,7 +122,7 @@ View more results
     *   Five Nights at Freddy's 5
     *   FNAF World
     *   Five Nights at Freddy's: Ultimate
-    *   Fireboy and Watergirl 5: Elements
+    *   Five Nights at Freddy's 4
 *   Top Categories
     
     *   Bubble Shooter
@@ -181,8 +181,8 @@ View more results
     *   Back To School: Princesses Rush
     *   Popstar Dentist
     *   The Princess: Sent to the Future - Dress Up Game
-    *   Vincy Lip Care
     *   Get Your Boyfriend
+    *   Vincy Lip Care
     *   Princess Rivalry
     *   Love Tester 2.0
     *   Ella: Hips Surgery
@@ -213,8 +213,8 @@ View more results
     *   Uphill Rush 7: Waterpark
     *   Country Ride: Race Car Game
     *   Agame Stunt Cars
-    *   Rally Point 2: Dirt Track Racing Game
     *   Moto X3M: Motorcycle Racing Game
+    *   Rally Point 2: Dirt Track Racing Game
     *   Madalin Cars Multiplayer
     *   Russian Car Driver
     *   Bike Racing: Motorcycle Game
