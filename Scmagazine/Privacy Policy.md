@@ -365,23 +365,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Mastercard says German Priceless Specials loyalty program breached
-    *   Research: Hacktivism activity and chatter has markedly dropped since 2016
-    *   Facebook releases more election security changes
-    *   Apple issues supplemental security updates
-    *   Data breach of Hostinger exposes 14 million users
+    *   Massively popular Phone PDF app contains malicious dropper
+    *   LYCEUM threat group targets oil and gas, critical infrastructure orgs in MidEast
+    *   One million Luscious porn site accounts compromised
+    *   Almost 200K affected by Presbyterian Healthcare Services data breach
+    *   Woman accused of hacking Capital One indicted for alleged cyber intrusions, cryptojacking
     
-    *   Data breach of Hostinger exposes 14 million users
-    *   Submit your SC Award nominations now!
-    *   SC Media's 30th Anniversary - Then and Now: Malware
-    *   Instagram phishing scam uses fake 2FA code to appear trustworthy
-    *   Research: Hacktivism activity and chatter has markedly dropped since 2016
+    *   Breach exposes data associated with customers of Imperva's Cloud WAF product
+    *   WordPress plugins vulnerable to redirects
+    *   Texas municipalities struggle to recover from ransomware attacks
+    *   Dentist offices nationwide hit with REvil ransomware attacks
+    *   Capital One hacker to ask for release on bail
     
-    *   Three steps for meeting consumers’ contradictory expectations
-    *   U.S. cyberattack crippled Iran's efforts to attack ships in Persian Gulf
-    *   Authorities free 850,000 machines from grasp of Retadup worm
-    *   Facebook releases more election security changes
-    *   Apple issues supplemental security updates
+    *   Despite concerns over breaches, 40% of cardholders have provided Social Security numbers online
+    *   Bug bounty hunters cash in
+    *   Dentist offices nationwide hit with REvil ransomware attacks
+    *   Data breaches expected to cost $5 trillion by 2024
+    *   Woman accused of hacking Capital One indicted for alleged cyber intrusions, cryptojacking
 
 Back to Top
 
