@@ -48,20 +48,30 @@ SHOP ALL50% OFF XERSION ACTIVEWEARFOR THE FAMILYselect styles | **sale $6.99-$29
 *   MEN
 *   WOMEN
 
-Disney Frozen 2 Trailer SEE IT. SHOP IT. #AllAtJCPMedia CarouselSlide 1 of 4. Recommended for You
+Disney Frozen 2 Trailer SEE IT. SHOP IT. #AllAtJCPMedia CarouselSlide 1 of 4. UP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCE SHOP ALLSELECT STYLESUP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCE SELECT STYLESSHOP ALL
 
-*   from$254after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(288)
+*   $611after couponwas $24 Carter's 2-pc. Short Set Baby BoysAdd To Cart
+*   $1911after couponwas $45 Carter's Toddler Boys Brand Booties Flat Heel(31)Add To Cart
+*   $415after couponwas $14 Carter's Boys Round Neck Short Sleeve Graphic T-Shirt - Baby(22)Add To Cart
+*   $1019after couponwas $24 Carter's Blanket - BoysAdd To Cart
+*   $1019after couponwas $24 Carter's Blanket - GirlsAdd To Cart
+*   $356after couponwas $14 Carter's Boys Round Neck Short Sleeve Graphic T-Shirt - Baby(7)Add To Cart
+*   $1129after couponwas $38 Carter's 2-pc. Bodysuit Set-Baby Boys(51)Add To Cart
+
+Recommended for You
+
+*   from$254after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(297)
 *   ADVERTISED DEAL!
     
     from$3999 sale
     
-    was $60 | 15 - 33% offNike Revolution 4 Womens Lace-up Running Shoes(122)
-*   from$254after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(191)
+    was $60 | 15 - 33% offNike Revolution 4 Womens Lace-up Running Shoes(123)
+*   from$254after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(192)
 *   from$339after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1363)
 *   from$6369
     
     Nike Air Max Motion 2 Womens Lace-up Running Shoes(6)
-*   from$951after couponwas $32 St. John's Bay Secretly Slender Mid Rise Capris(272)
+*   from$951after couponwas $32 St. John's Bay Secretly Slender Mid Rise Capris(275)
 
 Shop and Save at JCPenney
 
