@@ -298,17 +298,13 @@ Offers
     
     at Boston, Mountain View, and San Jose theaters featuring ICONX Dolby® ATMOS™ and heated recliners! \*Terms apply. BUY TICKETS
     
-*   AMC Stubs® Members Save Big with Discount Tuesdays
-    
-    Save on tickets to Tuesday showtimes with your AMC Stubs® membership. \*Terms apply. BUY TICKETS
-    
 *   'Cats' Sweepstakes
     
     Sign up for a 'Cats' FanAlert™ for your chance to win a trip to the premiere in London! \*Terms apply. ENTER NOW
     
-*   Enjoy movies all summer long
+*   FandangoNOW Binge Bundles
     
-    Get a free movie ticket\* with Gift Card orders $75+ BUY GIFT CARDS
+    Rent multiple movies for one low price. Starting as low as $1.50 per movie. Many bundles available in stunning 4K Ultra HD. START BINGING
     
 
 New + Coming soon
@@ -355,8 +351,4 @@ Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango **Help Us Make Fandango Better!** You have been selected to take part in a brief customer satisfaction survey to let us know how we can improve your experience.    
-  
-This survey is designed to measure your overall Fandango experience, please look for it at the conclusion of your visit.  
-Thank you – your feedback is important to us!  
- Yes, I'll leave feedback
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
