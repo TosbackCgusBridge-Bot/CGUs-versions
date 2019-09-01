@@ -9,7 +9,34 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
+    *   Desigual
+    *   Designer Spotlight ft. Elie Tahari Up to 70% Off
+    *   Designer Shoes Up to 70% Off
+    *   Men's Designer Shoes Up to 70% Off ft. Bally
+    *   Gemstones, Diamonds &. More Starting at $20
+    *   Lush &. More Under $40
+    *   Naked Zebra Starting at $20
+    *   PJ Couture Sleep &. More Incl. Plus
+    *   Rain Boots &. Waterproof Shoes ft. Hunter
+    *   Predire Paris Luxury Skin Care Starting at $10
+    *   Peyote Bird Designs Jewelry &. Watches
+    *   Topshop &. More Starting at $15
+    *   Free Shipping: Wall Murals &. More
+    *   Back-to-School Jackets &. More ft. Sam Edelman
+    *   Robert Barakett
+    *   Active Fleece &. More Starting at $25
+    *   Frenchie Mini Couture
+    *   Fresh Finds: Shoes Up to 60% Off
+    *   Free Shipping: Comforters, Sheets Sets &. More
+    *   Kensie Up to 50% Off
+    *   Crown Brush Up to 40% Off
+    *   Psycho Bunny Lounge Under $30
+    *   Slumber Party: Kids' Pajamas Under $20
+    *   School Essentials: Raincoats, Backpacks &. More
+    *   Trendy Tots: Kids' Essentials Up to 60% Off
+    *   Step into Fall: Kids' Boots Up to 50% Off
     *   Disney Accessories Up to 70% Off
+    
     *   Johnny Was Up to 60% Off
     *   Schutz Up to 60% Off
     *   On Trend: Sweaters from $25 Incl. Plus &. Petites
@@ -35,43 +62,23 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Ready, Set, Go: Kids' Active Sneakers Under $50
     *   Dooney &. Bourke
     *   Hanky Panky
-    
-    *   Dolce Vita Up to 55% Off
-    *   Meghan LA Up to 75% Off
-    *   Catherine Catherine Malandrino from $20 Incl. Plus
-    *   Socialite Starting at $20
-    *   Luxe Essentials: Styles Up to 65% Off
     *   Kenneth Cole Reaction &. More
     *   Joe Fresh Kids' Shoes
+    
     *   Skinn Cosmetics Skincare &. Makeup Up to 60% Off
-    *   Sleeveless Steals: Tanks &. More from $10
-    *   Casual Kicks: Lifestyle Sneakers
-    *   Tommy Hilfiger Active Under $40
     *   CZ by Kenneth Jay Lane Up to 65% Off
-    *   For the Athlete: Mizuno &. More
     *   Saucony Men Starting at $35
-    *   Tommy Hilfiger Shoes
     *   NIU BODY Natural Skin Care Starting at $10
     *   Kitchen Gadgets &. Storage Starting at $13
     *   Pillows Starting at $17
     *   Kenneth Cole Reaction Men
     *   Jessica Simpson Girls
-    *   NANETTE nanette lepore Dresses at $34.97
     *   COSRX Starting at $10
-    *   Hudson Jeans
-    *   Hudson Jeans Men Up to 70% Off
     *   Timberland for Him
-    *   14K Gold Jewelry Steals
-    
     *   Grande Cosmetics Up to 45% Off
-    *   NOGU Jewelry
-    *   Helly Hansen Men's Outerwear
-    *   Hudson Jeans Kids Up to 55% Off
     *   Free Shipping: Decor for Every Style
     *   Helly Hansen Men's Waterproof Sneakers &. More
-    *   Coat Check: Kids' Outerwear ft. Free Country
     *   Free Shipping: Animation Art Up to 85% Off
-    *   Dolce Vita Girls
     *   Glam with an Edge: Decor by Interior Illusions
     *   S'well Water Bottles Up to 30% Off
     *   Nambe Up to 50% Off
@@ -79,22 +86,34 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Power Docks, Smartphone Charger Cases &. More
     *   Free Shipping: Bedding Essentials Up to 70% Off
     *   Urban Decay Starting at $10
-    *   Gordon Rush Up to 60% Off
     *   FRE Skin Care
     *   Prints Charming: Colorful Bedding &. More
-    *   K-Beauty Hair Care &. More Starting at $10
     *   Free Shipping: Gallery Wall Art Sets
-    *   Free Shipping: Wall Decor &. More
-    *   Fun Tech Finds Under $40
     *   Free Shipping: Kitchen Necessities Up to 65% Off
     *   Free Shipping: Decals for Every Wall &. More
 *   WomenShop Sale Events
     
+    *   Desigual
+    *   Designer Spotlight ft. Elie Tahari Up to 70% Off
+    *   Designer Shoes Up to 70% Off
+    *   Gemstones, Diamonds &. More Starting at $20
+    *   Lush &. More Under $40
+    *   Naked Zebra Starting at $20
+    *   PJ Couture Sleep &. More Incl. Plus
+    *   Rain Boots &. Waterproof Shoes ft. Hunter
+    *   Peyote Bird Designs Jewelry &. Watches
+    *   Topshop &. More Starting at $15
+    *   Back-to-School Jackets &. More ft. Sam Edelman
+    *   Active Fleece &. More Starting at $25
+    *   Fresh Finds: Shoes Up to 60% Off
+    *   Kensie Up to 50% Off
+    *   Crown Brush Up to 40% Off
     *   Disney Accessories Up to 70% Off
     *   Johnny Was Up to 60% Off
     *   Schutz Up to 60% Off
     *   On Trend: Sweaters from $25 Incl. Plus &. Petites
     *   Every Fit &. Wash: Denim Starting at $25
+    
     *   BCBGeneration Under $70
     *   Freida Rothman Jewelry
     *   Make an Entrance: TOV &. More from $25
@@ -108,79 +127,67 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Bath &. Body ft. Honestly Margo
     *   Dooney &. Bourke
     *   Hanky Panky
-    *   Dolce Vita Up to 55% Off
-    *   Meghan LA Up to 75% Off
-    
-    *   Catherine Catherine Malandrino from $20 Incl. Plus
-    *   Socialite Starting at $20
-    *   Luxe Essentials: Styles Up to 65% Off
-    *   Sleeveless Steals: Tanks &. More from $10
-    *   Casual Kicks: Lifestyle Sneakers
-    *   Tommy Hilfiger Active Under $40
     *   CZ by Kenneth Jay Lane Up to 65% Off
-    *   For the Athlete: Mizuno &. More
-    *   Tommy Hilfiger Shoes
     *   NIU BODY Natural Skin Care Starting at $10
-    *   NANETTE nanette lepore Dresses at $34.97
     *   COSRX Starting at $10
-    *   Hudson Jeans
-    *   14K Gold Jewelry Steals
     *   Grande Cosmetics Up to 45% Off
-    *   NOGU Jewelry
     *   Urban Decay Starting at $10
     *   FRE Skin Care
-    *   K-Beauty Hair Care &. More Starting at $10
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
     *   Handbags
+    *   Jewelry
     *   Lingerie
     *   Watches
 *   MenShop Sale Events
     
+    *   Men's Designer Shoes Up to 70% Off ft. Bally
+    *   Robert Barakett
+    *   Psycho Bunny Lounge Under $30
     *   Mix &. Match: Suit Separates Under $150
     *   Volcom Starting at $13
     *   Rush by Gordon Rush Up to 75% Off
+    
     *   Kenneth Cole Reaction &. More
     *   Saucony Men Starting at $35
     *   Kenneth Cole Reaction Men
-    
-    *   Hudson Jeans Men Up to 70% Off
     *   Timberland for Him
-    *   Helly Hansen Men's Outerwear
     *   Helly Hansen Men's Waterproof Sneakers &. More
-    *   Gordon Rush Up to 60% Off
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Accessories
     *   Watches
 *   KidsShop Sale Events
     
+    *   Frenchie Mini Couture
+    *   Slumber Party: Kids' Pajamas Under $20
+    *   School Essentials: Raincoats, Backpacks &. More
+    *   Trendy Tots: Kids' Essentials Up to 60% Off
+    *   Step into Fall: Kids' Boots Up to 50% Off
     *   Decked Out for Class: Skater Looks ft. Tony Hawk
     *   Kids' Weekend Workout Styles Under $20
     *   Ready, Set, Go: Kids' Active Sneakers Under $50
     *   Joe Fresh Kids' Shoes
     *   Jessica Simpson Girls
-    *   Hudson Jeans Kids Up to 55% Off
-    *   Coat Check: Kids' Outerwear ft. Free Country
-    *   Dolce Vita Girls
     
     Shop By Category
     *   Girls' Sizes 7-16
     *   Girls' Sizes 2T-6X
     *   Boys' Sizes 8-20
-    *   Boys' Sizes 2T-7
     *   Girls' Shoes
+    *   Boys' Sizes 2T-7
     *   Boys' Shoes
     *   Baby Girl
-    *   Baby Boy
     *   Baby Gear &. Essentials
+    *   Baby Boy
 *   HomeShop Sale Events
     
+    *   Free Shipping: Wall Murals &. More
+    *   Free Shipping: Comforters, Sheets Sets &. More
     *   Free Shipping: Bold Wall Art
     *   Phone Cases Starting at $15
     *   Kitchen Gadgets &. Storage Starting at $13
@@ -188,16 +195,14 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Free Shipping: Decor for Every Style
     *   Free Shipping: Animation Art Up to 85% Off
     *   Glam with an Edge: Decor by Interior Illusions
+    
     *   S'well Water Bottles Up to 30% Off
     *   Nambe Up to 50% Off
-    
     *   Free Shipping: Shun Cutlery Classic Collection
     *   Power Docks, Smartphone Charger Cases &. More
     *   Free Shipping: Bedding Essentials Up to 70% Off
     *   Prints Charming: Colorful Bedding &. More
     *   Free Shipping: Gallery Wall Art Sets
-    *   Free Shipping: Wall Decor &. More
-    *   Fun Tech Finds Under $40
     *   Free Shipping: Kitchen Necessities Up to 65% Off
     *   Free Shipping: Decals for Every Wall &. More
     
@@ -212,22 +217,24 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Predire Paris Luxury Skin Care Starting at $10
+    *   Crown Brush Up to 40% Off
     *   Clean Makeup: bareMinerals Up to 50% Off
     *   Luseta Beauty Hair Care from $10
     *   Bath &. Body ft. Honestly Margo
     *   Skinn Cosmetics Skincare &. Makeup Up to 60% Off
+    
     *   NIU BODY Natural Skin Care Starting at $10
     *   COSRX Starting at $10
     *   Grande Cosmetics Up to 45% Off
     *   Urban Decay Starting at $10
     *   FRE Skin Care
-    *   K-Beauty Hair Care &. More Starting at $10
     
     Shop By Category
     *   Makeup
-    *   Hair Care
-    *   Bath &. Body
     *   Skin Care
+    *   Bath &. Body
+    *   Hair Care
     *   Fragrance
     *   Nails
     *   Makeup Bags
