@@ -365,23 +365,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Massively popular Phone PDF app contains malicious dropper
-    *   LYCEUM threat group targets oil and gas, critical infrastructure orgs in MidEast
-    *   One million Luscious porn site accounts compromised
-    *   Almost 200K affected by Presbyterian Healthcare Services data breach
-    *   Woman accused of hacking Capital One indicted for alleged cyber intrusions, cryptojacking
-    
-    *   Breach exposes data associated with customers of Imperva's Cloud WAF product
-    *   WordPress plugins vulnerable to redirects
     *   Texas municipalities struggle to recover from ransomware attacks
-    *   Dentist offices nationwide hit with REvil ransomware attacks
-    *   Capital One hacker to ask for release on bail
+    *   Three steps for meeting consumers’ contradictory expectations
+    *   TrickBot updated to target mobile carrier customers' PIN codes
+    *   Submit your SC Award nominations now!
+    *   IG: Comey violated FBI policy by leaking memos of Trump meetings
     
+    *   Lack of cyber investment could spell trouble for smart cities: report
+    *   Mastercard says German Priceless Specials loyalty program breached
+    *   Woman accused of hacking Capital One indicted for alleged cyber intrusions, cryptojacking
+    *   SC Media's 30th anniversary Q&A with Catherine Allen
+    *   BitDefender Antivirus Free 2020 found vulnerable
+    
+    *   Watering-hole attack campaign designed to infect iOS users via exploit chains
+    *   TrickBot updated to target mobile carrier customers' PIN codes
     *   Despite concerns over breaches, 40% of cardholders have provided Social Security numbers online
     *   Bug bounty hunters cash in
     *   Dentist offices nationwide hit with REvil ransomware attacks
-    *   Data breaches expected to cost $5 trillion by 2024
-    *   Woman accused of hacking Capital One indicted for alleged cyber intrusions, cryptojacking
 
 Back to Top
 
