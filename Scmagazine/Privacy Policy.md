@@ -365,17 +365,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Texas municipalities struggle to recover from ransomware attacks
-    *   Three steps for meeting consumers’ contradictory expectations
-    *   TrickBot updated to target mobile carrier customers' PIN codes
-    *   Submit your SC Award nominations now!
-    *   IG: Comey violated FBI policy by leaking memos of Trump meetings
+    *   Our shared industry mission to close the cybersecurity workforce gap
+    *   Nowhere to turn for middle market companies decimated by cybercrime
+    *   Capital One hacker to ask for release on bail
+    *   Five strategies to stop Magecart
+    *   Almost 200K affected by Presbyterian Healthcare Services data breach
     
-    *   Lack of cyber investment could spell trouble for smart cities: report
-    *   Mastercard says German Priceless Specials loyalty program breached
-    *   Woman accused of hacking Capital One indicted for alleged cyber intrusions, cryptojacking
+    *   iOS 12.4 update reintroduced old bug, enabling jailbreak for current devices
+    *   Researcher finds exposed Starbucks subdomain subject to takeover
     *   SC Media's 30th anniversary Q&A with Catherine Allen
-    *   BitDefender Antivirus Free 2020 found vulnerable
+    *   Apple issues supplemental security updates
+    *   Fake VPN and office software websites spread Bolij.2 banking trojan
     
     *   Watering-hole attack campaign designed to infect iOS users via exploit chains
     *   TrickBot updated to target mobile carrier customers' PIN codes
