@@ -9,6 +9,25 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
+    *   Designer Coats Up to 65% Off
+    *   Summer Wrap Up: Dresses Up to 80% Off
+    *   Long Weekend Steals: Shoes Up to 70% Off
+    *   Cozy Comforts: Sweaters Under $35
+    *   Sunday Steals: Men's Shoes Up to 65% Off
+    *   Steve Madden Up to 55% Off
+    *   Steve Madden Men Up to 55% Off
+    *   Steve Madden Handbags &. Accessories Up to 50% Off
+    *   Brands We Love ft. Blu Pepper from $25
+    *   Cashmere from Kier &. J and More
+    *   Transitional Styles ft. Dress Forum
+    *   Honeydew Lingerie &. Sleep Under $30
+    *   Fall Favorites: Sweatshirts, Tees &. More
+    *   Steve Madden Kids Up to 55% Off
+    *   RSVP Yes to These: Wedding Guest Shoes
+    *   Reebok Kids from $30
+    *   Jewel Badgley Mischka Up to 60% Off
+    *   Free Shipping: Nutrichef Kitchen Electrics
+    *   Gear Up for Baby: Diaper Bags, Blankets &. More
     *   Desigual
     *   Designer Spotlight ft. Elie Tahari Up to 70% Off
     *   Designer Shoes Up to 70% Off
@@ -21,11 +40,11 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Predire Paris Luxury Skin Care Starting at $10
     *   Peyote Bird Designs Jewelry &. Watches
     *   Topshop &. More Starting at $15
+    
     *   Free Shipping: Wall Murals &. More
     *   Back-to-School Jackets &. More ft. Sam Edelman
     *   Robert Barakett
     *   Active Fleece &. More Starting at $25
-    *   Frenchie Mini Couture
     *   Fresh Finds: Shoes Up to 60% Off
     *   Free Shipping: Comforters, Sheets Sets &. More
     *   Kensie Up to 50% Off
@@ -33,10 +52,8 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Psycho Bunny Lounge Under $30
     *   Slumber Party: Kids' Pajamas Under $20
     *   School Essentials: Raincoats, Backpacks &. More
-    *   Trendy Tots: Kids' Essentials Up to 60% Off
     *   Step into Fall: Kids' Boots Up to 50% Off
     *   Disney Accessories Up to 70% Off
-    
     *   Johnny Was Up to 60% Off
     *   Schutz Up to 60% Off
     *   On Trend: Sweaters from $25 Incl. Plus &. Petites
@@ -55,29 +72,21 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Chase &. Chloe Under $30
     *   Rush by Gordon Rush Up to 75% Off
     *   Free Shipping: Bold Wall Art
+    
     *   Phone Cases Starting at $15
     *   Bath &. Body ft. Honestly Margo
     *   Decked Out for Class: Skater Looks ft. Tony Hawk
     *   Kids' Weekend Workout Styles Under $20
     *   Ready, Set, Go: Kids' Active Sneakers Under $50
-    *   Dooney &. Bourke
-    *   Hanky Panky
-    *   Kenneth Cole Reaction &. More
-    *   Joe Fresh Kids' Shoes
-    
     *   Skinn Cosmetics Skincare &. Makeup Up to 60% Off
-    *   CZ by Kenneth Jay Lane Up to 65% Off
     *   Saucony Men Starting at $35
     *   NIU BODY Natural Skin Care Starting at $10
     *   Kitchen Gadgets &. Storage Starting at $13
     *   Pillows Starting at $17
     *   Kenneth Cole Reaction Men
-    *   Jessica Simpson Girls
     *   COSRX Starting at $10
-    *   Timberland for Him
     *   Grande Cosmetics Up to 45% Off
     *   Free Shipping: Decor for Every Style
-    *   Helly Hansen Men's Waterproof Sneakers &. More
     *   Free Shipping: Animation Art Up to 85% Off
     *   Glam with an Edge: Decor by Interior Illusions
     *   S'well Water Bottles Up to 30% Off
@@ -85,14 +94,30 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Free Shipping: Shun Cutlery Classic Collection
     *   Power Docks, Smartphone Charger Cases &. More
     *   Free Shipping: Bedding Essentials Up to 70% Off
-    *   Urban Decay Starting at $10
-    *   FRE Skin Care
     *   Prints Charming: Colorful Bedding &. More
     *   Free Shipping: Gallery Wall Art Sets
-    *   Free Shipping: Kitchen Necessities Up to 65% Off
-    *   Free Shipping: Decals for Every Wall &. More
+    *   Liverpool Under $50
+    *   Rodial Skin Care &. Makeup Up to 80% Off
+    *   All Under $100: Reebok Men's Shoes &. Activewear
+    *   Reebok Starting at $45
+    *   Wardrobe Essentials: Men's Polos
+    *   Frenchie Mini Couture
+    *   Trendy Tots: Kids' Essentials Up to 60% Off
 *   WomenShop Sale Events
     
+    *   Designer Coats Up to 65% Off
+    *   Summer Wrap Up: Dresses Up to 80% Off
+    *   Long Weekend Steals: Shoes Up to 70% Off
+    *   Cozy Comforts: Sweaters Under $35
+    *   Steve Madden Up to 55% Off
+    *   Steve Madden Handbags &. Accessories Up to 50% Off
+    *   Brands We Love ft. Blu Pepper from $25
+    *   Cashmere from Kier &. J and More
+    *   Transitional Styles ft. Dress Forum
+    *   Honeydew Lingerie &. Sleep Under $30
+    *   Fall Favorites: Sweatshirts, Tees &. More
+    *   RSVP Yes to These: Wedding Guest Shoes
+    *   Jewel Badgley Mischka Up to 60% Off
     *   Desigual
     *   Designer Spotlight ft. Elie Tahari Up to 70% Off
     *   Designer Shoes Up to 70% Off
@@ -105,6 +130,7 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Topshop &. More Starting at $15
     *   Back-to-School Jackets &. More ft. Sam Edelman
     *   Active Fleece &. More Starting at $25
+    
     *   Fresh Finds: Shoes Up to 60% Off
     *   Kensie Up to 50% Off
     *   Crown Brush Up to 40% Off
@@ -113,7 +139,6 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Schutz Up to 60% Off
     *   On Trend: Sweaters from $25 Incl. Plus &. Petites
     *   Every Fit &. Wash: Denim Starting at $25
-    
     *   BCBGeneration Under $70
     *   Freida Rothman Jewelry
     *   Make an Entrance: TOV &. More from $25
@@ -125,67 +150,68 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Back to School: Skechers Under $50
     *   Chase &. Chloe Under $30
     *   Bath &. Body ft. Honestly Margo
-    *   Dooney &. Bourke
-    *   Hanky Panky
-    *   CZ by Kenneth Jay Lane Up to 65% Off
     *   NIU BODY Natural Skin Care Starting at $10
     *   COSRX Starting at $10
     *   Grande Cosmetics Up to 45% Off
-    *   Urban Decay Starting at $10
-    *   FRE Skin Care
+    *   Liverpool Under $50
+    *   Reebok Starting at $45
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Handbags
     *   Jewelry
     *   Lingerie
     *   Watches
+    *   Handbags
 *   MenShop Sale Events
     
+    *   Sunday Steals: Men's Shoes Up to 65% Off
+    *   Steve Madden Men Up to 55% Off
     *   Men's Designer Shoes Up to 70% Off ft. Bally
     *   Robert Barakett
     *   Psycho Bunny Lounge Under $30
     *   Mix &. Match: Suit Separates Under $150
+    
     *   Volcom Starting at $13
     *   Rush by Gordon Rush Up to 75% Off
-    
-    *   Kenneth Cole Reaction &. More
     *   Saucony Men Starting at $35
     *   Kenneth Cole Reaction Men
-    *   Timberland for Him
-    *   Helly Hansen Men's Waterproof Sneakers &. More
+    *   All Under $100: Reebok Men's Shoes &. Activewear
+    *   Wardrobe Essentials: Men's Polos
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
     *   Watches
 *   KidsShop Sale Events
     
-    *   Frenchie Mini Couture
+    *   Steve Madden Kids Up to 55% Off
+    *   Reebok Kids from $30
+    *   Gear Up for Baby: Diaper Bags, Blankets &. More
     *   Slumber Party: Kids' Pajamas Under $20
     *   School Essentials: Raincoats, Backpacks &. More
-    *   Trendy Tots: Kids' Essentials Up to 60% Off
     *   Step into Fall: Kids' Boots Up to 50% Off
+    
     *   Decked Out for Class: Skater Looks ft. Tony Hawk
     *   Kids' Weekend Workout Styles Under $20
     *   Ready, Set, Go: Kids' Active Sneakers Under $50
-    *   Joe Fresh Kids' Shoes
-    *   Jessica Simpson Girls
+    *   Frenchie Mini Couture
+    *   Trendy Tots: Kids' Essentials Up to 60% Off
     
     Shop By Category
     *   Girls' Sizes 7-16
     *   Girls' Sizes 2T-6X
-    *   Boys' Sizes 8-20
-    *   Girls' Shoes
     *   Boys' Sizes 2T-7
+    *   Boys' Sizes 8-20
     *   Boys' Shoes
+    *   Girls' Shoes
     *   Baby Girl
-    *   Baby Gear &. Essentials
     *   Baby Boy
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: Nutrichef Kitchen Electrics
     *   Free Shipping: Wall Murals &. More
     *   Free Shipping: Comforters, Sheets Sets &. More
     *   Free Shipping: Bold Wall Art
@@ -194,8 +220,8 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Pillows Starting at $17
     *   Free Shipping: Decor for Every Style
     *   Free Shipping: Animation Art Up to 85% Off
-    *   Glam with an Edge: Decor by Interior Illusions
     
+    *   Glam with an Edge: Decor by Interior Illusions
     *   S'well Water Bottles Up to 30% Off
     *   Nambe Up to 50% Off
     *   Free Shipping: Shun Cutlery Classic Collection
@@ -203,17 +229,15 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Free Shipping: Bedding Essentials Up to 70% Off
     *   Prints Charming: Colorful Bedding &. More
     *   Free Shipping: Gallery Wall Art Sets
-    *   Free Shipping: Kitchen Necessities Up to 65% Off
-    *   Free Shipping: Decals for Every Wall &. More
     
     Shop By Category
     *   Home Decor
-    *   Kitchen &. Tabletop
     *   Bedding
+    *   Kitchen &. Tabletop
     *   Tech Accessories
-    *   Luggage &. Travel
     *   Cleaning &. Organization
     *   Accent Furniture
+    *   Luggage &. Travel
     *   Outdoor Living
 *   BeautyShop Sale Events
     
@@ -223,12 +247,10 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Luseta Beauty Hair Care from $10
     *   Bath &. Body ft. Honestly Margo
     *   Skinn Cosmetics Skincare &. Makeup Up to 60% Off
-    
     *   NIU BODY Natural Skin Care Starting at $10
     *   COSRX Starting at $10
     *   Grande Cosmetics Up to 45% Off
-    *   Urban Decay Starting at $10
-    *   FRE Skin Care
+    *   Rodial Skin Care &. Makeup Up to 80% Off
     
     Shop By Category
     *   Makeup
@@ -237,7 +259,6 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Hair Care
     *   Fragrance
     *   Nails
-    *   Makeup Bags
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
