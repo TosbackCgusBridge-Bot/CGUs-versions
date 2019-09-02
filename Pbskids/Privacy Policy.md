@@ -1,6 +1,6 @@
 Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
 
-Fun, educational apps from PBS KIDS. Available on Apple &. Android mobile devices.Fun, educational apps from PBS KIDS. Available on Apple &. Android mobile devices.Go now
+Help your little engineer create a DIY carousel toy that moves! Help your little engineer create a DIY carousel toy that moves! Get the free template
 
 Toggle message bar
 
