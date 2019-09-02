@@ -174,5 +174,6 @@ Connect with MLB
 *   Privacy Policy (updated May 24, 2018)
 *   Legal Notices
 *   Contact Us
+*   Cookie Preferences
 
 © 2019 MLB Advanced Media, LP. All rights reserved. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TGJ9RZ" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MD6MQQP" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
