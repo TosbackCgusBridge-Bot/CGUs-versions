@@ -30,7 +30,6 @@
         *   Policy Briefs
     *   Publications
         *   Global Internet Report
-        *   IETF Journal
     *   Programs
         *   Deploy360
         *   IXP Toolkit
