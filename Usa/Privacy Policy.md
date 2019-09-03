@@ -161,7 +161,7 @@ Free trial
 
 Subscribe
 
-—/year
+$1,610.00/year
 
 Software for Building Information Modeling
 
@@ -171,7 +171,7 @@ Free trial
 
 Subscribe
 
-—/year
+$2,310.00/year
 
 Cost-effective 2D CAD
 
@@ -181,7 +181,7 @@ Free trial
 
 Subscribe
 
-—/year
+$400.00/year
 
 Try, buy, or learn more about Autodesk products See all products The Future of Making Granta disrupts medical-device manufacturing with digital fabrication
 
@@ -198,7 +198,7 @@ See what's included
 
 Product details
 
-\---/year
+$2,825.00/year
 
 Subscribe
 
@@ -208,7 +208,7 @@ See what's included
 
 Product details
 
-\---/year
+$2,590.00/year
 
 Subscribe FEEDBACK FOLLOW AUTODESK
 
