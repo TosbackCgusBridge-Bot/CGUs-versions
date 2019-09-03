@@ -24,7 +24,6 @@ Toggle navigation
     *   Canada
         ABBCMBNBNLNSNTNUONPEQCSKYT
     *   Canada
-    *   UK Properties
     *   Building Permits Filed
     *   City Guides
     *   Tourist Attractions Articles
