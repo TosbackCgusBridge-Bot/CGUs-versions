@@ -365,23 +365,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Our shared industry mission to close the cybersecurity workforce gap
-    *   Nowhere to turn for middle market companies decimated by cybercrime
-    *   Capital One hacker to ask for release on bail
-    *   Five strategies to stop Magecart
     *   Almost 200K affected by Presbyterian Healthcare Services data breach
-    
-    *   iOS 12.4 update reintroduced old bug, enabling jailbreak for current devices
+    *   Twitter CEO's account hacked in SIM-swapping scheme
+    *   Breach exposes data associated with customers of Imperva's Cloud WAF product
     *   Researcher finds exposed Starbucks subdomain subject to takeover
-    *   SC Media's 30th anniversary Q&A with Catherine Allen
-    *   Apple issues supplemental security updates
-    *   Fake VPN and office software websites spread Bolij.2 banking trojan
+    *   MoviePass database exposes 161 million records
     
+    *   U.S. cyberattack crippled Iran's efforts to attack ships in Persian Gulf
+    *   SC Media's 30th anniversary Q&A with Catherine Allen
+    *   DHS program to fight ransomware attacks on 2020 elections
+    *   Massively popular Phone PDF app contains malicious dropper
+    *   Syrk ransomware comes disguised as Fortnite cheat tool to ambush gamers
+    
+    *   Twitter CEO's account hacked in SIM-swapping scheme
     *   Watering-hole attack campaign designed to infect iOS users via exploit chains
     *   TrickBot updated to target mobile carrier customers' PIN codes
     *   Despite concerns over breaches, 40% of cardholders have provided Social Security numbers online
     *   Bug bounty hunters cash in
-    *   Dentist offices nationwide hit with REvil ransomware attacks
 
 Back to Top
 
