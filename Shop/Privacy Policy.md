@@ -82,11 +82,12 @@ Lenovo Explore Close
         *   Thinkstation
         
         *   Best Selling Workstations
-        *   ThinkPad P52
-        *   ThinkPad P1
-        *   ThinkPad P52s
+        *   ThinkPad P53
+        *   ThinkPad P1 Gen 2
+        *   ThinkPad P53s
+        *   ThinkPad P73
         *   ThinkStation P330 Tiny
-        *   ThinkStation P520c Tower
+        *   ThinkStation P330 Tower
         
         Labor Day Savings
         
@@ -166,9 +167,9 @@ Lenovo Explore Close
         *   View All Monitors
         
         *   Best Selling Monitors
-        *   L22e-20 Monitor
         *   L23i-18 Monitor
         *   P24q Monitor
+        *   ThinkVision X1
         
         *   Quick Links
         *   Sale
@@ -465,6 +466,7 @@ Lenovo Explore Close
         *   Premium Care
         *   Lifecycle Warranty &. Protection
         *   Replacement Parts Store
+        *   Legion Ultimate Support
         
         *   Deployment Services
         *   Planning &. Optimization
