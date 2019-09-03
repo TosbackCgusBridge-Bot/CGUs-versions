@@ -1,3 +1,88 @@
+*   MIN3-123BUF4-027Final
+*   PIT3-119CAR2-225Final
+*   IND1-313CIN1-36Final
+*   ATL1-431JAX0-412Final
+*   PHI1-30NYJ2-26Final
+*   DET0-416CLE3-120Final
+*   NYG4-031NE3-129Final
+*   BAL4-020WAS1-37Final
+*   TEN2-219CHI1-315Final
+*   TB3-117DAL2-215Final
+*   KC1-320GB2-227Final
+*   LA2-222HOU1-310Final
+*   MIA3-116NO2-213Final
+*   ARI1-37DEN2-320Final
+*   LAC1-327SF3-124Final
+*   OAK3-115SEA3-117Final
+
+*   News
+*   Scores
+*   Schedule
+*   Standings
+*   Highlights
+*   KICKOFF
+*   Watch Games
+*   NFL 100
+*   Fantasy
+*   Tickets
+*   Shop
+*   Teams
+*   Super Bowl
+*   Combine
+*   Draft
+*   Training Camp
+*   Stats
+*   Next Gen Stats
+*   Ways to Watch
+*   NFL Network
+*   Photos
+*   NFL Films
+
+*   MIN23BUF27Final
+*   PIT19CAR25Final
+*   IND13CIN6Final
+*   ATL31JAX12Final
+*   PHI0NYJ6Final
+*   DET16CLE20Final
+*   NYG31NE29Final
+*   BAL20WAS7Final
+*   TEN19CHI15Final
+*   TB17DAL15Final
+*   KC20GB27Final
+*   LA22HOU10Final
+*   MIA16NO13Final
+*   ARI7DEN20Final
+*   LAC27SF24Final
+*   OAK15SEA17Final
+
+*   News
+*   Scores
+*   Schedule
+*   Standings
+*   Highlights
+*   KICKOFF
+*   Watch Games
+*   NFL 100
+
+*   NFL 100
+*   Fantasy
+
+*   *   Super Bowl
+    *   Combine
+    *   Draft
+    *   Training Camp
+    *   Stats
+    *   Next Gen Stats
+    *   Ways to Watch
+    *   NFL Network
+    *   Photos
+    *   NFL Films
+
+*   Fantasy
+*   Tickets
+*   Shop
+*   Teams
+
 NFL.com - Privacy Policy English
 
 **Effective Date: August 16, 2001  
