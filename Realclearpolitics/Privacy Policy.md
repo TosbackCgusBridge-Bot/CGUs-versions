@@ -113,53 +113,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Peter Beaumont_: 80 Yrs On, World Still Haunted By a Catastrophe Foretold
+*   _Dana Milbank_: An All-Hands-on-Deck Moment for Our Democracy
     
-*   _Harry Kazianis_: WWII Started 80 Years Ago. Is WWIII On the Way?
+*   _Cal Thomas_: Unequal Justice for James Comey
     
-*   _Josh Rogin_: The G-7 Summit Failed, and the G-7 Is Failing
+*   _Ed Rendell_: No One Cares About Biden's Gaffes Except Media and Politicos
     
-*   _Byron York_: Yes, Comey Did Leak Classified Information
+*   _Kevin Williamson_: Joe Biden Is Unfit for the Presidency
     
-*   _Josh Marshall_: Of Course Comey Was Right to Share the Memos
+*   _Firmin DeBrabander_: Should Work Be Passion, or Duty?
     
-*   _Andrew McCarthy_: Trump Was Always the Target of the Russia Investigation
+*   _Mark Mix_: Union Membership Should Never Be Compulsory
     
-*   _John Kenneth White_: Only a President Biden Would Rid Us of the Trump Era
+*   _Harry Reid_: Time Is Running Out to Act on Climate Change
     
-*   _Kurt Schlichter_: Joe Biden Needs An Intervention
+*   _Ross Clark_: It's Lazy to Say Dorian Is Caused by Climate Change
     
-*   _Leonard Pitts_: At This Point, Returning to 'Normal' Isn't Good Enough
+*   _Suzanne Sataline_: How Hong Kong Police Lost the City's Trust
     
-*   _Stephen Moore_: President Trump Continues to Lead a Main Street Revival
+*   _Christian Toto_: Media Can't Spin Away Hollywood's New Blacklist
     
-*   _David Andelman_: Trump Is Taking Us Back to Depression-Era Trade Policy
+*   _Frank Bruni_: Dogs Will Fix Our Broken Democracy
     
-*   _Alessandra Bocchi_: The Fate of Hong Kong's Christians
+*   _Joel Kotkin_: The American Working Class Dilemma
     
-*   _Kelly Ayotte_: Clean Energy a Win for America's Armed Forces, Vets
+*   _Pete Buttigieg_: What Working Americans Deserve
     
-*   _Jeffrey Goldberg_: Mattis: The Man Who Couldn't Take It Anymore
+*   _Andy Puzder_: Good News for America--Economy Is Going Strong
     
-*   _Emily Esfahani Smith_: The Provocations of Camille Paglia
+*   _Robert Samuelson_: Have We Lost Our Economic Dynamism?
     
-*   _Mike Lupica_: A Reminder Colin Kaepernick Is Not Welcome in the NFL
+*   _Jed Babbin_: The Comey-Brennan Conspiracy Against Trump
     
-*   _Christopher Buskirk_: Fathers, Tell Your Sons To Emulate J.D. Vance
+*   _Barbara McQuade_: IG Report Misses the Big Picture About Comey
     
-*   _James Bovard_: Comey Was a Reckless and Untrustworthy FBI Director
+*   _Frank Miele_: Best Liberal Analysis of Trump Still Falls Short
     
-*   _Heather Parton_: Comey's Cleared (Mostly)--Republican Power Grab Continues
+*   _Julian Zelizer_: Dems Forgive Biden's Flaws Because Trump Is the Liar-in-Chief
     
-*   _Newt Gingrich_: Dems, Media Allies Should Brace for a Repeat of 1972
+*   _Roger L. Simon_: Election 2020: Will America Be the New China?
     
-*   _Robert Shiller_: Trump's Narrative Won't Survive an Economic Downturn
+*   _Amy Davidson Sorkin_: The Urgency of the 2020 Senate Race for Dems
     
-*   _Sen. Cruz &. Norquist_: To Keep Economy Growing, Index Capital Gains
+*   _Scott Barbour_: Trump Is Our Last Chance to Save Healthcare
     
-*   _Amy Sorkin_: Boris Johnson's Parliamentary Runaround
+*   _Samantha Vinograd_: Leaving Bolton Out of Key Trump Meetings Is Dangerous
     
-*   _Conrad Black_: Europe Learns It Must Take Boris Johnson Seriously
+*   _Madeline Fry_: Why Do All the Lonely People Embrace Identity Politics?
     
 
 *   Previous
@@ -230,11 +230,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Hemingway: 24 Hours of Media Malpractice
+*   Latest Trump Tariffs Could Hit Consumers With Higher Prices
 *   Tom Steyer's $12 Million Failure to Launch
-*   Fox News' Cavuto Rips Trump: "We Don't Work for You"
+*   Chappelle Skewers Cancel Culture, Jussie Smollett in Netflix Special
+*   Hemingway: 24 Hours of Media Malpractice
 *   N.Y. Donations in N.C. Primary Fuel Charges of Meddling
-*   From Trumpism to Trump Challenger: Joe Walsh on His 2020 Run
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -248,8 +248,11 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove51Disapprove +4
+    *   Approve45
+    *   Disapprove54Disapprove +9
+*   Direction of CountryRasmussen Reports
+    *   Right Direction37
+    *   Wrong Track56Wrong Track +19
 *   2020 Democratic Presidential NominationQuinnipiac
     *   Biden32
     *   Sanders15
@@ -278,20 +281,6 @@ Latest PollsAll Polls
     *   Klobuchar0
     *   Bullock0
     *   Williamson0Biden +18
-*   2020 Democratic Presidential NominationEconomist/YouGov
-    *   Biden25
-    *   Sanders14
-    *   Warren21
-    *   Harris8
-    *   Buttigieg5
-    *   Yang2
-    *   Booker2
-    *   O'Rourke2
-    *   Gabbard2
-    *   Castro1
-    *   Klobuchar1
-    *   Bullock1
-    *   Williamson1Biden +4
 
 More Latest Polls In The News
 
