@@ -1,4 +1,4 @@
-Categories
+\_\_\_ Categories
 
 *   {text} ({games\_number})
     
