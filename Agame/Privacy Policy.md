@@ -1,4 +1,4 @@
-\_\_\_ Categories
+Categories
 
 *   {text} ({games\_number})
     
@@ -86,8 +86,8 @@ View more results
     *   Stunt Skateboard 3D
     *   Slither.io
     *   Short Life
-    *   Uphill Rush 7: Waterpark
     *   Miami Crime Simulator 3D
+    *   Uphill Rush 7: Waterpark
     *   Ultimate Boxing
     *   Stickman Archer 2
     *   Goodgame Gangster
@@ -118,8 +118,8 @@ View more results
     *   Five Nights at Freddy's 2
     *   Tom and Jerry: Mouse Maze
     *   Trap Adventure 2
-    *   Fire Balls
     *   Five Nights at Freddy's 5
+    *   Fire Balls
     *   FNAF World
     *   Five Nights at Freddy's: Ultimate
     *   Five Nights at Freddy's 4
@@ -153,8 +153,8 @@ View more results
     *   1001 Arabian Nights
     *   Bubble Machine: 2 Player Game
     *   Mahjong Connect Classic
-    *   Happy Glass
     *   Crystical: 2 Player Puzzle Game
+    *   Happy Glass
 *   Top Categories
     
     *   Dress Up
@@ -216,8 +216,8 @@ View more results
     *   Moto X3M: Motorcycle Racing Game
     *   Rally Point 2: Dirt Track Racing Game
     *   Madalin Cars Multiplayer
-    *   Bike Racing: Motorcycle Game
     *   Russian Car Driver
+    *   Bike Racing: Motorcycle Game
     *   Neon Biker
 *   Top Categories
     
@@ -244,8 +244,8 @@ View more results
     *   Archery World Tour
     *   Ultimate Boxing
     *   Table Tennis World Tour
-    *   Cricket CPL Tournament
     *   Basketball Stars 2019
+    *   Cricket CPL Tournament
     *   8-Ball
     *   Neon Biker
     *   Baseball
@@ -457,4 +457,6 @@ Languages
 
 Copyright © 2019 SPIL GAMES All rights reserved.
 
-Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. (e.g IP Address) To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them. Your data may be stored by us and our service providers. In case the applicable data protection laws provide so, you may access, rectify, and erase the data or you may restrict or object to our processing of your data. Please contact us in such event. Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click "ACCEPT" to agree with the above mentioned. You can change your mind and change your consent choices at any time by returning to this site.AcceptSettingsVendor List | Privacy policyA reminder you can control your user privacy preferenceshere
+Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
+Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.  
+You can change your mind and change your consent choices at any time by returning to this site.AcceptSettingsA reminder you can control your user privacy preferenceshere
