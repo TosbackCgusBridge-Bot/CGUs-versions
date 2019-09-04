@@ -365,23 +365,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Almost 200K affected by Presbyterian Healthcare Services data breach
-    *   Twitter CEO's account hacked in SIM-swapping scheme
+    *   Three steps for meeting consumers’ contradictory expectations
+    *   Our shared industry mission to close the cybersecurity workforce gap
+    *   U.S. cyberattack crippled Iran's efforts to attack ships in Persian Gulf
+    *   SC Media's 30th Anniversary - Then and Now: Malware
     *   Breach exposes data associated with customers of Imperva's Cloud WAF product
-    *   Researcher finds exposed Starbucks subdomain subject to takeover
-    *   MoviePass database exposes 161 million records
     
     *   U.S. cyberattack crippled Iran's efforts to attack ships in Persian Gulf
-    *   SC Media's 30th anniversary Q&A with Catherine Allen
-    *   DHS program to fight ransomware attacks on 2020 elections
-    *   Massively popular Phone PDF app contains malicious dropper
-    *   Syrk ransomware comes disguised as Fortnite cheat tool to ambush gamers
+    *   Despite concerns over breaches, 40% of cardholders have provided Social Security numbers online
+    *   Data breaches expected to cost $5 trillion by 2024
+    *   AhMyth –based malicious app found in Google Play
+    *   Lack of cyber investment could spell trouble for smart cities: report
     
+    *   How artificial intelligence is enhancing enterprise security
     *   Twitter CEO's account hacked in SIM-swapping scheme
     *   Watering-hole attack campaign designed to infect iOS users via exploit chains
     *   TrickBot updated to target mobile carrier customers' PIN codes
     *   Despite concerns over breaches, 40% of cardholders have provided Social Security numbers online
-    *   Bug bounty hunters cash in
 
 Back to Top
 
