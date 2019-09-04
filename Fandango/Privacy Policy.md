@@ -7,32 +7,31 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   Angel Has Fallen
     *   Good Boys (2019)
-    *   Overcomer
     *   The Lion King (2019)
     *   Fast &. Furious Presents: Hobbs &. Shaw
+    *   Overcomer
     *   Ready or Not
-    *   The Angry Birds Movie 2
     *   Scary Stories to Tell in the Dark
     *   Dora and the Lost City of Gold
+    *   The Angry Birds Movie 2
+    *   Spider-Man: Far From Home (2019)
     *   Once Upon a Time in Hollywood
-    *   47 Meters Down: Uncaged
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Don't Let Go
-    *   Saaho (2019)
-    *   Spider-Man: Far From Home – Extended Cut
-    *   Before You Know It (2019)
-    *   Bennett's War
-    *   Killerman
+    *   It Chapter Two (2019)
+    *   Blink of an Eye (2019)
+    *   Chhichhore
+    *   Edie
+    *   Linda Ronstadt: The Sound of My Voice
+    *   Ms. Purple
     *   Ne Zha
-    *   Tod@s Caen
+    *   Rapid Response
     *   See All Opening This Week
     
     Coming Soon
     
-    *   It Chapter Two (2019)
     *   The Goldfinch
     *   Hustlers
     *   Ad Astra
@@ -42,6 +41,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   War (2019)
     *   Joker (2019)
     *   The Addams Family (2019)
+    *   Jexi
     *   See All Coming Soon
     
     Explore More
