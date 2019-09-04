@@ -567,19 +567,19 @@ COMPANY
 *   Jobs &. Careers
 *   Investors
 
-ORDERS
+SERVICES
 
-*   Track Your Order
-*   Shipping Rates
-*   Easy Returns
+*   Ship to Store
+*   Personal Shopping
+*   Military Discount
 
 GUEST SERVICES
 
-*   FAQs
-*   Military Discount
+*   Help Center
 *   Contact Us
-*   Store Feedback
-*   Ship To Store
+*   Track Your Order
+*   Shipping Rates
+*   Easy Returns
 
 GIFT CARD
 
@@ -601,19 +601,19 @@ COMPANY
 *   Jobs &. Careers
 *   Investors
 
-ORDERS
+SERVICES
 
-*   Track Your Order
-*   Shipping Rates
-*   Easy Returns
+*   Ship to Store
+*   Personal Shopping
+*   Military Discount
 
 GUEST SERVICES
 
-*   FAQs
-*   Military Discount
+*   Help Center
 *   Contact Us
-*   Store Feedback
-*   Ship To Store
+*   Track Your Order
+*   Shipping Rates
+*   Easy Returns
 
 STAY CONNECTED
 
