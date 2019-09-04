@@ -6,8 +6,6 @@ Change country/language X
 
 Autodesk logo
 
-*   0
-
 *   Sign In
     
     Autodesk Account
@@ -97,6 +95,7 @@ Autodesk logo
     *   Partner apps
     *   Autodesk Services Marketplace
 *   Downloads
+    *   Download your software
     *   Free product trials
     *   Free student software
     *   File viewers
