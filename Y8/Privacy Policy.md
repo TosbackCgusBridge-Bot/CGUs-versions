@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1255 games
-*   Most Popular Games 19805 games
+*   Best of new games 1254 games
+*   Most Popular Games 19806 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,341 games
+*   Games for girls 24,351 games
 *   Driving &. Racing Games 6,873 games
 *   Strategy &. RPG Games 2,433 games
 *   Management Games 3,664 games
-*   Thinking Games 12,302 games
-*   Action &. Adventure Games 16,441 games
-*   Sports Games 2,297 games
-*   Shooting Games 8,545 games
-*   Fighting Games 2,105 games
-*   Skill Games 11,548 games
-*   Arcade &. Classic Games 13,443 games
-*   Fun &. Crazy Games 2,574 games
+*   Thinking Games 12,304 games
+*   Action &. Adventure Games 16,443 games
+*   Sports Games 2,299 games
+*   Shooting Games 8,547 games
+*   Fighting Games 2,106 games
+*   Skill Games 11,551 games
+*   Arcade &. Classic Games 13,448 games
+*   Fun &. Crazy Games 2,575 games
 
 Play with friends  
-Powered by Y8 Account 130 Y8 Multiplayer Games 2,072 Y8 High Score Games 1,170 Y8 Achievements Games 833 Y8 Screenshots Games 1,492 Y8 Online Save Games 3,149 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 130 Y8 Multiplayer Games 2,078 Y8 High Score Games 1,170 Y8 Achievements Games 833 Y8 Screenshots Games 1,492 Y8 Online Save Games 3,155 All Y8 Games Games Last Highscore:
 
-**1,750** points on Backstreet Sniper by ken
+**570** points on Y8 Football League by GamerWay
 
 Help us improve Bad translation? Social
 
