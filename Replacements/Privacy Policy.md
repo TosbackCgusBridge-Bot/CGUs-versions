@@ -1,5 +1,5 @@
 Skip to main content Free Standard U.S. Shipping on Orders $99 $59+ with Code 59LABOR\*\* 1-800-REPLACE (1-800-737-5223)1-800-737-5223 Free Standard U.S. Shipping on Orders $59+  
-with Code 59LABOR\*\* 1-800-737-5223 Sign In / Create Account Home China - Dinnerware
+with Code 59LABOR\*\* 1-800-737-5223 MENU Open main menu Shopping Cart 0 CART Close main menu Sign In / Create Account Home My Account China - Dinnerware
 
 *   Brands A-Z
 *   Register Your Pattern
@@ -66,7 +66,7 @@ Get Inspired
 *   The Dish - Blog
 *   Top Styles
 
-My Account Contact Us Shopping Cart Cart0 China  
+My Account Contact Us Shopping Cart Sign Out China  
 Dinnerware Crystal  
 Glassware Silver  
 Flatware Jewelry  
