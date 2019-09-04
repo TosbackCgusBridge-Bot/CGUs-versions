@@ -1140,3 +1140,4 @@ Help
 *   43\. 2020 preliminary mpg estimates determined by Toyota. EPA estimates not available at time of posting. Actual mileage will vary.
 *   44\. 2020 Avalon Hybrid XLE preliminary 43 city/44 highway/44 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
 *   45\. 2020 Avalon XLE preliminary 22 city/32 highway/26 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
+*   46\. 2020 Prius LE, XLE and Limited EPA 54 city/50 hwy/52 combined mpg estimates. Actual mileage will vary.
