@@ -98,17 +98,17 @@ Main menuSONY
 
 Search Sony
 
-Meet the Sisters Determined to Live Life on Their Own Terms
+Will Smith and Martin Lawrence Are Back At It For One Last Time
 
-“Little Women” Premieres This Christmas
+“Bad Boys For Life” Hits Theaters January 17
 
-Play video: Meet the Sisters Determined to Live Life on Their Own Terms Close video: Meet the Sisters Determined to Live Life on Their Own Terms
+Play video: Will Smith and Martin Lawrence Are Back At It For One Last Time Close video: Will Smith and Martin Lawrence Are Back At It For One Last Time
 
-*   Share on Facebook: Meet the Sisters Determined to Live Life on Their Own Terms
-*   Share on Twitter: Meet the Sisters Determined to Live Life on Their Own Terms
-*   Copy URL to Share: Meet the Sisters Determined to Live Life on Their Own Terms
+*   Share on Facebook: Will Smith and Martin Lawrence Are Back At It For One Last Time
+*   Share on Twitter: Will Smith and Martin Lawrence Are Back At It For One Last Time
+*   Copy URL to Share: Will Smith and Martin Lawrence Are Back At It For One Last Time
 
-<img class="bg-img video-AST2-4db4ic" data-linkname="en:set\_a:\_3x2-1:video:movies:LittleWomenTrailer-September-03-2019:sp:image:AST2-4db4ic" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Meet the Sisters Determined to Live Life on Their Own Terms AST2-4db4ic Little-Women-Trailer" data-img1x="/content/dam/sony/homepage/2019-august/august-19/little-women-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-19/little-women-745x400.jpg" src="/content/dam/sony/homepage/2019-august/august-19/little-women-745x400.jpg" alt="Little Women trailer"/>. <img class="bg-img video-AST2-4db4ic" alt="Little Women trailer Mobile" data-linkname="en:set\_a:\_3x2-1:video:movies:LittleWomenTrailer-September-03-2019:sp:image-mobile:AST2-4db4ic" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Meet the Sisters Determined to Live Life on Their Own Terms AST2-4db4ic Little-Women-Trailer" data-img1x="/content/dam/sony/homepage/2019-august/august-19/little-women-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-19/little-women-745x400.jpg" src="/content/dam/sony/homepage/2019-august/august-19/little-women-600x600.jpg"/>.
+<img class="bg-img video-jKCj3XuPG8M" data-linkname="en:set\_a:\_3x2-1:video:movies:BadBoysTrailer-September-03-2019:sp:image:jKCj3XuPG8M" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Will Smith and Martin Lawrence Are Back At It For One Last Time jKCj3XuPG8M Bad-Boys-Trailer" data-img1x="/content/dam/sony/homepage/2019-september/9-3/BadBoys-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-september/9-3/BadBoys-745x500.jpg" src="/content/dam/sony/homepage/2019-september/9-3/BadBoys-745x500.jpg" alt="Will Smith and Martin Lawrence "/>. <img class="bg-img video-jKCj3XuPG8M" alt="Will Smith and Martin Lawrence Mobile" data-linkname="en:set\_a:\_3x2-1:video:movies:BadBoysTrailer-September-03-2019:sp:image-mobile:jKCj3XuPG8M" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Will Smith and Martin Lawrence Are Back At It For One Last Time jKCj3XuPG8M Bad-Boys-Trailer" data-img1x="/content/dam/sony/homepage/2019-september/9-3/BadBoys-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-september/9-3/BadBoys-745x500.jpg" src="/content/dam/sony/homepage/2019-september/9-3/BadBoys-600x600.jpg"/>.
 
 A Winning Combo: Rose Gold Headset &. Controller
 
@@ -124,7 +124,7 @@ Play video: A Winning Combo: Rose Gold Headset &. Controller Close video: A Winn
 
 Marvel’s Spider-Man features more than 40 unique suit designs. @insomniacgames details the references that inspired them all:  http://play.st/2zPo6FS  pic.twitter.com/AulDmZp1qn
 
-16 hours ago View Tweet Camila Cabello B1ppYVAnUcc
+1 day ago View Tweet Camila Cabello B1ppYVAnUcc
 
 Never Miss a Moment
 
