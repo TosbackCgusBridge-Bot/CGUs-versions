@@ -31,7 +31,7 @@ Instant Notifications
 
 You'll receive push notifications when your resume is viewed, or when new jobs appear in your most recent search. Making it easy for you to jump right back into your job search.
 
-see how you can up your career status Career Development &. Learning Interviews Do’s and don’ts for successfully negotiating your salary Read Article Who's Hiring Companies hiring this week Read Article Interviews What to research before a job interview Read Article Read More Articles employers Looking to Post a Job?
+see how you can up your career status Career Development &. Learning Who's Hiring Companies hiring this month Read Article Interviews Do’s and don’ts for successfully negotiating your salary Read Article Who's Hiring Companies hiring this week Read Article Read More Articles employers Looking to Post a Job?
 
 We have end-to-end solutions that can keep up with you and your standards.
 
