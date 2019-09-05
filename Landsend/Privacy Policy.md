@@ -36,9 +36,9 @@ Refer a Friend for 40% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off full-price styles!
+Free shipping, no minimum on all orders
 
-code: PARTY pin: PROMOTION DETAILS
+code: SHIPNOW2 pin: PROMOTION DETAILS
 
 Customer Service Menu
 
