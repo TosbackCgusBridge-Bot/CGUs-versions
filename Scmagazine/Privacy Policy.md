@@ -365,23 +365,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Three steps for meeting consumers’ contradictory expectations
-    *   Our shared industry mission to close the cybersecurity workforce gap
-    *   U.S. cyberattack crippled Iran's efforts to attack ships in Persian Gulf
+    *   Domen toolkit customizes fake web page overlays to bolster infection odds
+    *   Astronaut accused of identity theft, accessing estranged wife's bank account, from International Space Station
+    *   Facebook releases more election security changes
+    *   Facebook publicly releases emails related to data scraping, Cambridge Analytica
     *   SC Media's 30th Anniversary - Then and Now: Malware
-    *   Breach exposes data associated with customers of Imperva's Cloud WAF product
     
-    *   U.S. cyberattack crippled Iran's efforts to attack ships in Persian Gulf
-    *   Despite concerns over breaches, 40% of cardholders have provided Social Security numbers online
-    *   Data breaches expected to cost $5 trillion by 2024
-    *   AhMyth –based malicious app found in Google Play
-    *   Lack of cyber investment could spell trouble for smart cities: report
-    
-    *   How artificial intelligence is enhancing enterprise security
-    *   Twitter CEO's account hacked in SIM-swapping scheme
+    *   Today’s threat trend: The rise of file-less attacks
+    *   Webcomic XKCD forum user data exposed
     *   Watering-hole attack campaign designed to infect iOS users via exploit chains
-    *   TrickBot updated to target mobile carrier customers' PIN codes
-    *   Despite concerns over breaches, 40% of cardholders have provided Social Security numbers online
+    *   Authorities free 850,000 machines from grasp of Retadup worm
+    *   Research: Hacktivism activity and chatter has markedly dropped since 2016
+    
+    *   Millions of Android phones vulnerable to phishing attacks
+    *   Webcomic XKCD forum user data exposed
+    *   Half a million Teletext Holidays files unsecured
+    *   Report: Dutch agency recruited Iranian mole to help U.S. and Israel plant Stuxnet virus
+    *   Google expands and adds new bug bounty service
 
 Back to Top
 
