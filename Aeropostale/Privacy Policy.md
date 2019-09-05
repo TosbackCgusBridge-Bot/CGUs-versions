@@ -257,7 +257,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Clearance Up To 80% OFF GIRLS GUYS + Free Ship With Jeans**
+**Clearance Up To 80% OFF GIRLS GUYS + Free Ship $50**
 
 *   Select Country
 *   My Account My Account Login Register
