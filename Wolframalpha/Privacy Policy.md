@@ -264,6 +264,7 @@ Legal
     *   Wolfram SystemModeler
     *   Wolfram SystemModeler Library
     *   Wolfram Finance Platform
+    *   Wolfram|Alpha Notebook Edition
     *   Wolfram Raspberry Pi Bundle
     *   Wolfram Player
     *   webMathematica Professional
