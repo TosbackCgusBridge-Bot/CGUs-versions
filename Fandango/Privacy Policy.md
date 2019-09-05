@@ -298,13 +298,13 @@ Offers
     
     at Boston, Mountain View, and San Jose theaters featuring ICONX Dolby® ATMOS™ and heated recliners! \*Terms apply. BUY TICKETS
     
-*   'Cats' Sweepstakes
+*   'Downton Abbey' Sweepstakes
     
-    Sign up for a 'Cats' FanAlert™ for your chance to win a trip to the premiere in London! \*Terms apply. ENTER NOW
+    Enter for your chance to win a script of the movie signed by the cast! \*Terms apply. ENTER NOW
     
-*   FandangoNOW Binge Bundles
+*   Earn Double VIP+ Points
     
-    Rent multiple movies for one low price. Starting as low as $1.50 per movie. Many bundles available in stunning 4K Ultra HD. START BINGING
+    when you purchase tickets to see 'Hustlers' (Yep, every 2 tickets = $5 reward on us!) BUY TICKETS
     
 
 New + Coming soon
