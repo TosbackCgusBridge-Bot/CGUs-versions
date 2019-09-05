@@ -1,6 +1,6 @@
 Amazon Device Support  › Amazon Fire TV Devices Help› Amazon Services Terms of Use
 
-**Last updated: 16 May, 2017**
+**Last updated: 4 September, 2019**
 
 This is an agreement between you and Amazon Digital Services LLC (with its affiliates, “Amazon” or “we”). Please read these Amazon Services Terms of Use, the Amazon.com Privacy Notice, the Amazon.com Conditions of Use, and the other applicable rules, policies, and terms available at the Amazon.com website, or on or through the Amazon Software (collectively, this “Agreement”) before using the Amazon Services on a Product. By using the Amazon Services, you agree to be bound by the terms of this Agreement. If you do not accept the terms of this Agreement, then you may not use the Amazon Services and you may return your Product in accordance with any applicable return policy. Your use of any of the Amazon Services is subject to any additional rules, policies, and terms that apply to those Amazon Services.
 
@@ -12,7 +12,7 @@ For the purpose of these Amazon Services Terms of Use:
 
 “Digital Content” means digitized content (including third-party content), such as videos, music, apps, games, skills, photos, audio, books, newspapers, magazines, and related features and functionality.
 
-“Product” means a Fire TV Edition television that is developed and manufactured by a third party and enables access to Amazon Services.
+“Product” means a Fire TV Edition device that is developed and manufactured by a third party and enables access to Amazon Services.
 
 **1\. Amazon Services, Amazon Software**
 
