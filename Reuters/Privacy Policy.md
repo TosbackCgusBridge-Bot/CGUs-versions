@@ -24,12 +24,12 @@ Thomson Reuters Legal
     *   Practical Law
     *   Panoramic
     *   CLEAR
-    *   Law books
+    *   Sale on law books
     *   All products
     
     Featured
     
-    **Quick Check on Westlaw Edge ** Discover the transformative power of intelligent document analysis. Learn more
+    **Save up to 35% on law books this Labor Day** Take up to 35% off your order with monthly pricing, now through Friday. Shop now
 *   SolutionsSolutions Solutions
     
     *   Streamline legal research
