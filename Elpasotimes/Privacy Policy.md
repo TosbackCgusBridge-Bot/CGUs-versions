@@ -1,4 +1,4 @@
-SUBSCRIBE NOWOnly $1 for 3 months. Save 97%.
+SUBSCRIBE NOWfor full access
 
 *   Home
 *   News
@@ -60,7 +60,7 @@ SUBSCRIBE NOWOnly $1 for 3 months. Save 97%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowEl Paso truck driver shot in Odessa loved his kids, jobNewsFormer Eastwood High football standout, dies in NMCrimeEl Paso City Council passes special election for city rep.NewsPolice ID man killed in East El Paso shootingCrimeFriends team up to win All American FuturitySportsPolice, city IDs El Pasoan as victim in Odessa shootingNewsWho are the victims of the Odessa shooting?NewsEx-Montwood HS band treasurer sought by El Paso policeCrimeOne killed, one injured in East El Paso shootingNewsKhalid concert brings wounded city togetherNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowSuspect ID'd in fatal East El Paso shootingCrimeEl Paso truck driver shot in Odessa loved his kids, jobNewsEl Paso shooting survivors file lawsuit against WalmartCrimeDenver lawyer to represent El Paso shooterNewsFormer Eastwood High football standout, dies in NMCrimePolice ID man killed in East El Paso shootingCrimeEx-Montwood HS band treasurer sought by El Paso policeCrimeEl Paso City Council passes special election for city rep.NewsFBI investigates kidnapping of El Paso man in MexicoLocalWho are the victims of the Odessa shooting?NewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
