@@ -151,8 +151,8 @@ View more results
     *   Deal or No Deal
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   1001 Arabian Nights
-    *   Bubble Machine: 2 Player Game
     *   Mahjong Connect Classic
+    *   Bubble Machine: 2 Player Game
     *   Crystical: 2 Player Puzzle Game
     *   Happy Glass
 *   Top Categories
@@ -457,6 +457,4 @@ Languages
 
 Copyright © 2019 SPIL GAMES All rights reserved.
 
-Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them.  
-Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click “ACCEPT” to agree with the above mentioned.  
-You can change your mind and change your consent choices at any time by returning to this site.AcceptSettingsA reminder you can control your user privacy preferenceshere
+Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. (e.g IP Address) To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them. Your data may be stored by us and our service providers. In case the applicable data protection laws provide so, you may access, rectify, and erase the data or you may restrict or object to our processing of your data. Please contact us in such event. Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click "ACCEPT" to agree with the above mentioned. You can change your mind and change your consent choices at any time by returning to this site.AcceptSettingsVendor List | Privacy policy | FeaturesA reminder you can control your user privacy preferenceshere
