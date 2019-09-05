@@ -1,5 +1,4 @@
-Skip to main content Free Standard U.S. Shipping on Orders $99 $59+ with Code 59LABOR\*\* 1-800-REPLACE (1-800-737-5223)1-800-737-5223 Free Standard U.S. Shipping on Orders $59+  
-with Code 59LABOR\*\* 1-800-737-5223 MENU Open main menu Shopping Cart 0 CART Close main menu Sign In / Create Account Home My Account China - Dinnerware
+Skip to main content Free Standard U.S. Shipping Every Day on Orders $99+\* 1-800-REPLACE (1-800-737-5223)1-800-737-5223 Free Standard U.S. Shipping Orders $99+\* 1-800-737-5223 MENU Open main menu Shopping Cart 0 CART Close main menu Sign In / Create Account Home My Account China - Dinnerware
 
 *   Brands A-Z
 *   Register Your Pattern
