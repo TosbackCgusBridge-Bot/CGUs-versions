@@ -43,9 +43,3 @@ The open source software platform that runs everywhere from the smartphone, the 
 Download Ubuntu ›
 
 Further reading
-
-*   Design and Web team summary – 03 September 2019 ›
-*   Building a better TurtleBot3 ›
-*   LXD in 4 Easy Steps ›
-*   A technical comparison between snaps and debs ›
-*   Canonical joins the ROS 2 Technical Steering Committee ›
