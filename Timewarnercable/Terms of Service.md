@@ -1,4 +1,4 @@
-fd9360bd-cba6-42de-b56a-ed9979f2537a
+c6855437-4cb0-4482-9a9b-7c9c484072ef
 
 *   Search Search
 *   Contact Us
@@ -70,8 +70,7 @@ Shop Spectrum +
 *   Spectrum Internet
 *   Spectrum TV
 *   Spectrum Voice
-*   Mi Plan Latino
-*   Spectrum Mobile
+
 *   Spectrum Sports Networks
 *   Spectrum Premium Channels
 
