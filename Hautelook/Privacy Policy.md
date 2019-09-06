@@ -9,9 +9,27 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
+    *   Tissot Watches
+    *   Luxe for Life: Cashmere Sweaters &. More
+    *   Teddy Coats, Sweaters &. More ft. Sweet Rain
+    *   Liza Schwartz Jewelry Up to 60% Off
+    *   Mad for Moto: Jackets &. More Up to 60% Off
+    *   Dressed to Frill: Dresses Under $45
+    *   alice + olivia by Stacey Bendet Shoes
+    *   Eton Dress Shirts Up to 50% Off
+    *   Charles by Charles David Up to 55% Off
+    *   Roberto Cavalli Handbags Up to 70% Off
+    *   Hair Care Essentials Starting at $10
+    *   So Fetch: Pet Toys, Bowls, Decor &. Beds
+    *   Mezlan Up to 50% Off
+    *   Apartment Refresh: Great Finds Under $100
+    *   Fall Finds: Baby &. Kids' Sets Up to 65% Off
+    *   Native Kids Up to 60% Off
+    *   Betsey Johnson Girls
     *   Fall Shoe Shop: Casual Boots &. Booties
     *   Fall Shoe Shop: Dress Boots &. Booties
     *   Fall Shoe Shop: Sneakers
+    
     *   Fall Shoe Shop: Comfort Styles
     *   LOVE Moschino
     *   Sofia Cashmere &. More
@@ -30,56 +48,48 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Fall Preview: Flannels, Outerwear, Denim &. More
     *   Surf Report: Billabong &. More
     *   Sleek'e Hair Tools Up to 50% Off
-    
     *   Home Office Updates: Lighting to Desks
-    *   Splendid Starting at $20
-    *   Fit for Every Occasion: Dresses Under $100
     *   Free Shipping: BergHOFF Up to 60% Off
-    *   Fall into Cozy: Accent Pillows &. Throws
+    
     *   Fall Harvest: Charming Autumn Decor
     *   7 For All Mankind Up to 60% Off
     *   7 For All Mankind Men Up to 60% Off
-    *   Love Token
-    *   Franco Sarto Up to 50% Off
-    *   Graphic Tees ft. Chaser
     *   Argento Vivo Jewelry &. More
     *   7 For All Mankind Kids Up to 60% Off
-    *   Pounce on These: Animal Print Styles
     *   Sugar Me Smooth ft. Body Scrubs &. Hair Removal
-    *   Warm &. Chic: Wool Coats and More
-    *   Chic Sun Hats Under $40
     *   Jump New York
     *   End-of-Summer Steals: Kids' Toys
     *   Bath, Body &. Skin Care Tools Starting at $20
-    *   Hickey Freeman Up to 60% Off
-    
-    *   Fun Character Shoes ft. Batman
     *   Florsheim: All Under $80
+    *   Free Shipping: Nutrichef Kitchen Electrics
+    *   Saturdays NYC
     *   Doll 10 Beauty: Palettes &. More Up to 50% Off
-    *   Sunday Steals: Men's Shoes Up to 65% Off
-    *   Predire Paris Luxury Skin Care Starting at $10
     *   Free Shipping: Wall Murals &. More
     *   Free Shipping: Comforters, Sheets Sets &. More
-    *   Crown Brush Up to 40% Off
     *   Free Shipping: Bold Wall Art
-    *   Anne Klein Under $60
-    *   Saturdays NYC
-    *   Free Shipping: Nutrichef Kitchen Electrics
     *   Phone Cases Starting at $15
-    *   Kitchen Gadgets &. Storage Starting at $13
-    *   Pillows Starting at $17
-    *   Girls' Fall Favorites: Sweatshirts, Leggings &. More
     *   Rodial Skin Care &. Makeup Up to 80% Off
-    *   Active Outerwear ft. Hawke &. Co.
-    *   Designer Coats Up to 65% Off
+    *   Designer Shop Up to 65% Off
 *   WomenShop Sale Events
     
+    *   Tissot Watches
+    *   Luxe for Life: Cashmere Sweaters &. More
+    *   Teddy Coats, Sweaters &. More ft. Sweet Rain
+    *   Liza Schwartz Jewelry Up to 60% Off
+    *   Liza Schwartz Jewelry Up to 60% Off
+    *   Mad for Moto: Jackets &. More Up to 60% Off
+    *   Dressed to Frill: Dresses Under $45
+    *   alice + olivia by Stacey Bendet Shoes
+    *   Charles by Charles David Up to 55% Off
+    *   Roberto Cavalli Handbags Up to 70% Off
+    *   Hair Care Essentials Starting at $10
     *   Fall Shoe Shop: Casual Boots &. Booties
     *   Fall Shoe Shop: Dress Boots &. Booties
     *   Fall Shoe Shop: Sneakers
     *   Fall Shoe Shop: Comfort Styles
     *   LOVE Moschino
     *   Sofia Cashmere &. More
+    
     *   Fall Shoe Shop: Weather &. Waterproof Boots
     *   Fall Shoe Shop: Loafers &. Flats
     *   Fall Shoe Shop: Heels &. Pumps
@@ -90,106 +100,96 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Fit Favorites: Active Up to 65% Off Incl. Plus
     *   Trending Now: Gold Jewelry &. More from $18
     *   Sleek'e Hair Tools Up to 50% Off
-    
-    *   Splendid Starting at $20
-    *   Fit for Every Occasion: Dresses Under $100
     *   7 For All Mankind Up to 60% Off
-    *   Love Token
-    *   Franco Sarto Up to 50% Off
-    *   Graphic Tees ft. Chaser
     *   Argento Vivo Jewelry &. More
-    *   Pounce on These: Animal Print Styles
     *   Sugar Me Smooth ft. Body Scrubs &. Hair Removal
-    *   Warm &. Chic: Wool Coats and More
-    *   Chic Sun Hats Under $40
     *   Bath, Body &. Skin Care Tools Starting at $20
     *   Doll 10 Beauty: Palettes &. More Up to 50% Off
-    *   Crown Brush Up to 40% Off
-    *   Anne Klein Under $60
-    *   Designer Coats Up to 65% Off
+    *   Designer Shop Up to 65% Off
     
     Shop By Category
     *   Shoes
     *   Clothing
     *   Jewelry
-    *   Accessories
     *   Lingerie
+    *   Watches
 *   MenShop Sale Events
     
+    *   Tissot Watches
+    *   Eton Dress Shirts Up to 50% Off
+    *   Mezlan Up to 50% Off
     *   Fall Shoe Shop: Men's Boots
     *   Fall Shoe Shop: Men's Sneakers
     *   Fall Preview: Flannels, Outerwear, Denim &. More
     *   7 For All Mankind Men Up to 60% Off
     *   Jump New York
-    *   Hickey Freeman Up to 60% Off
     *   Florsheim: All Under $80
-    *   Sunday Steals: Men's Shoes Up to 65% Off
     *   Saturdays NYC
-    *   Active Outerwear ft. Hawke &. Co.
     
     Shop By Category
     *   Shoes
     *   Clothing
+    *   Watches
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Fall Finds: Baby &. Kids' Sets Up to 65% Off
+    *   Native Kids Up to 60% Off
+    *   Betsey Johnson Girls
     *   Fall Shoe Shop: Kids' Boots, Sneakers &. More
     *   Surf Report: Billabong &. More
     *   7 For All Mankind Kids Up to 60% Off
     *   End-of-Summer Steals: Kids' Toys
-    *   Fun Character Shoes ft. Batman
-    *   Girls' Fall Favorites: Sweatshirts, Leggings &. More
     
     Shop By Category
     *   Girls' Shoes
     *   Girls' Sizes 7-16
     *   Boys' Shoes
+    *   Boys' Sizes 2T-7
     *   Girls' Sizes 2T-6X
+    *   Boys' Sizes 8-20
     *   Baby Girl
     *   Baby Boy
-    *   Boys' Sizes 2T-7
     *   The Toy Shop
-    *   Boys' Sizes 8-20
 *   HomeShop Sale Events
     
+    *   So Fetch: Pet Toys, Bowls, Decor &. Beds
+    *   Apartment Refresh: Great Finds Under $100
     *   Home Office Updates: Lighting to Desks
     *   Free Shipping: BergHOFF Up to 60% Off
-    *   Fall into Cozy: Accent Pillows &. Throws
     *   Fall Harvest: Charming Autumn Decor
+    *   Free Shipping: Nutrichef Kitchen Electrics
     *   Free Shipping: Wall Murals &. More
     *   Free Shipping: Comforters, Sheets Sets &. More
-    
     *   Free Shipping: Bold Wall Art
-    *   Free Shipping: Nutrichef Kitchen Electrics
     *   Phone Cases Starting at $15
-    *   Kitchen Gadgets &. Storage Starting at $13
-    *   Pillows Starting at $17
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
     *   Electronic &. Tech Accessories
+    *   Pet Accessories
     *   Cleaning &. Organization
     *   Outdoor Living
-    *   Holiday Decorations
+    *   Luggage &. Travel
+    *   Bath
+    *   Rugs &. Doormats
 *   BeautyShop Sale Events
     
+    *   Hair Care Essentials Starting at $10
     *   Sleek'e Hair Tools Up to 50% Off
     *   Sugar Me Smooth ft. Body Scrubs &. Hair Removal
     *   Bath, Body &. Skin Care Tools Starting at $20
     *   Doll 10 Beauty: Palettes &. More Up to 50% Off
-    *   Predire Paris Luxury Skin Care Starting at $10
-    *   Crown Brush Up to 40% Off
     *   Rodial Skin Care &. Makeup Up to 80% Off
     
     Shop By Category
     *   Skin Care
-    *   Makeup
     *   Bath &. Body
+    *   Makeup
     *   Tools &. Accessories
     *   Hair Care
-    *   Nails
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
@@ -380,4 +380,4 @@ Get a $20 credit each time a friend you invite makes their first purchase. Limit
 
 Or you can use your personal referral link to invite
 
-Shipping &. ReturnsFree shipping is applied to orders over $100 before tax. International orders and all items over 5lbs excluded.Easy ReturnsReturn to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US and $10.95 for Canada. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.
+Shipping &. ReturnsFree shipping is applied to orders over $100 before tax. International orders and all items over 5lbs excluded.Easy ReturnsReturn to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US and $10.95 for Canada. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.Unlock Your Exclusive RewardsTake a minute to complete your profile to view your Nordy Club status and available points.Complete My ProfileSkip for now
