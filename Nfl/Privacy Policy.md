@@ -1,4 +1,4 @@
-*   GB0-0CHI0-0Thu, 8:20 pm ET
+*   GB1-010CHI0-13Final
 *   LA0-0CAR0-0Sun, 1:00 pm ET
 *   TEN0-0CLE0-0Sun, 1:00 pm ET
 *   KC0-0JAX0-0Sun, 1:00 pm ET
@@ -38,7 +38,7 @@
 *   Photos
 *   NFL Films
 
-*   GB0-0CHI0-0Thu, 8:20 pm ET
+*   GB10CHI3Final
 *   LA0-0CAR0-0Sun, 1:00 pm ET
 *   TEN0-0CLE0-0Sun, 1:00 pm ET
 *   KC0-0JAX0-0Sun, 1:00 pm ET
@@ -65,7 +65,7 @@
 *   NFL 100
 
 *   NFL 100
-*   Fantasy
+*   Scores
 
 *   *   Super Bowl
     *   Combine
