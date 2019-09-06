@@ -113,53 +113,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Wang Chaohua_: Standing Up to Beijing, 30 Years Apart
+*   _Andy Beckett_: Johnson Should Beware--Forcing a Crisis Rarely Ends Well
     
-*   _Christopher Caldwell_: Why Hasn't Brexit Happened?
+*   _Michael Barone_: Elites Have Lost Their Way on Both Sides of Atlantic
     
-*   _James Butler_: Boris Johnson Loses to Democracy
+*   _Matthew Walther_: The Hope and Futility of Hong Kong's Protest Movement
     
-*   _Sumantra Maitra_: Parliament Gives a Full-Fledged Finger to British People
+*   _Madeleine Albright_: Peace Mustn't Return Afghan Women to Dark Ages
     
-*   _Mann &. Dessler_: Global Heating Made Dorian Bigger, Wetter &. More Deadly
+*   _Mollie Hemingway_: Nunes Sues Fusion GPS Over Bogus Ethics Claims
     
-*   _John Steele Gordon_: Global Warming or Bad Data? Garbage in...
+*   _David Faris_: Why the Sanders Campaign Is Stalled
     
-*   _Sen. Elizabeth Warren_: A Climate Plan That Works for the Most Vulnerable
+*   _Amanda Marcotte_: Joe Biden Looks Less Electable Every Day
     
-*   _Ben Shapiro_: How the Quest for Power Corrupted Elizabeth Warren
+*   _John Podhoretz_: Trump Must Shift Course or He Will Suffer in 2020
     
-*   _Carl Cannon_: When Harsh Truths Call for Blunt Words
+*   _Michael Grunwald_: Climate Change Could Be a Problem for Dems in 2020
     
-*   _Bill Dudley_: What I Meant When I Said Fed Shouldn't 'Enable Trump'
+*   _Michael Tomasky_: NRA Can Be Beaten--and Here's How It Will Happen
     
-*   _Gordan Chang_: What It Will Take to 'Win' a Trade War With China
+*   _Ken Blackwell_: Why the Religious Bigotry From Abortion Proponents?
     
-*   _Phillip Elliott_: Biden Teeters Atop the Democratic Field
+*   _James Carafano_: Hong Kong Protests, Trade Dispute Rattle China's Leader
     
-*   _Conrad Black_: The 2 Ticking Time Bombs of the Coming Election
+*   _Nicholas Kristof_: This Is How a War With China Could Begin
     
-*   _Max Boot_: 14 Reasons I'll Vote for Any Democrat Over Trump
+*   _Ian Buruma_: Boris Johnson: Britain's Enemy of the People?
     
-*   _Sahil Kapur_: Why Harris Hasn't Caught Fire in the Democratic 2020 Race
+*   _William Shawcross_: Brexit Has Risks. But Staying in the EU Is Unthinkable
     
-*   _Salena Zito_: Cancel Culture Isn't Real Life--Yet
+*   _Susan Crabtree_: Activists Gird for Kavanaugh Redux, Next High Court Fight
     
-*   _Hua Hsu_: Student Debt Is Transforming the American Family
+*   _Max Burns_: Biden's Problem Is His Record, Not His Gaffes
     
-*   _Hess &. Addison_: Busting the College-Industrial Complex
+*   _Froma Harrop_: Curb Your Enthusiasms--Biden's the One
     
-*   _David Harsanyi_: Dems Propose 1st Gun Grab Since Lexington and Concord
+*   _Newt Gingrich_: Why 2020 Will Become Another Trap for the Democrats
     
-*   _Jonathan Freedland_: Johnson's Gamble Risks Wrecking the Tory Party
+*   _Trudo &. Suebsaeng_: Trumpworld Anxiety Grows Over a Rising Warren
     
-*   _Harvey Mansfield_: Trump, Tocqueville and Greatness in America
+*   _Eric Felten_: Why Was the FBI Incurious About a Hot Collusion Tip?
     
-*   _Douglas Schoen_: Why the Trade War Will Hurt Trump in 2020
+*   _Mark Stern_: Justice Kagan's Blueprint to End Partisan Gerrymandering
     
-*   _Curtis Ellis_: What Doing Business With China Actually Costs
+*   _Neil Gorsuch_: Disregarding Separation of Powers Has Real-Life Consequences
     
-*   _Terry Bowman_: United Auto Workers Should Endorse USMCA
+*   _Shalabh Kumar_: Seven Steps to Curb China's 'Seven Deadly Sins'
     
 
 *   Previous
@@ -230,11 +230,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Activists Gird for Kavanaugh Redux, Next Court Fight
 *   Hong Kong Withdraws Extradition Bill That Sparked Protests
+*   Yang: Nominating Biden Is a Move, Literally, Backwards in Time
 *   Biden Leapfrogs Warren, Leads Media Coverage Once Again
-*   Nunes: How Did Comey, FBI Get to Decide What Was Classified?
 *   Latest Trump Tariffs Could Hit Consumers With Higher Prices
-*   Tom Steyer's $12 Million Failure to Launch
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,6 +247,20 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   Texas Democratic PrimaryTexas Lyceum
+    *   Biden24
+    *   O'Rourke18
+    *   Warren15
+    *   Sanders13
+    *   Harris4
+    *   Buttigieg3
+    *   Castro4
+    *   Yang2
+    *   Klobuchar3
+    *   Booker2
+    *   Gabbard1
+    *   Ryan1
+    *   Delaney0Biden +6
 *   2020 Democratic Presidential NominationEconomist/YouGov
     *   Biden26
     *   Warren22
@@ -287,17 +301,14 @@ Latest PollsAll Polls
     *   Gabbard1
     *   Klobuchar1
     *   Steyer1Biden +8
-*   Wisconsin: Trump vs. BidenMarquette
-    *   Biden51
-    *   Trump42Biden +9
 
 More Latest Polls In The News
 
+*   Shepard Smith: Trump "Decries Fake News That Isn't And Disseminates Fake News That Is"
+*   Buttigieg on #SharpieGate: "I'm Really Worried About" And "Pity" Trump, He Is "Literally Pathetic"
+*   Bernie Sanders: Abortion And Population Control Are Important Parts Of Addressing Climate Change
+*   Andrew Yang: You Know What's More Expensive Than Replacing Lead Pipes? Poisoning Our Kids
 *   Eleanor Clift: "Horrifying" That Trump Will Get Away With Using Pentagon Funds For "War On Immigration"
-*   Trump Quotes Lou Dobbs Comments About James Comey: Americans Are "Disgusted With The FBI"
-*   Trump Quotes Sam Zell On China Trade War: "U.S. Has Been Subject To Tariff Terrorism For 50 Years"
-*   Taibbi On Trump Polls: "People Who Disapproved Of Trump Were One Of His Biggest Constituencies"
-*   Nunes: How Did Comey, FBI Trump Probe Team Get To Decide What Was And Was Not Classified?
 
 *   Politics
 *   Policy
