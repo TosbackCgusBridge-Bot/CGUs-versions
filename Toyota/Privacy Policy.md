@@ -3,7 +3,7 @@
 *   Certified Used Vehicles
 *   Owners
 *   Espaňol
-*   Your Location:67160
+*   Set Location
 
 *   toyota\_vis\_horiz\_large\_usoc\_paralympics\_mm\_rgb
 *   Select Vehicle
@@ -12,7 +12,7 @@
 *   Build &. Price
 *   Local Specials
 
-ZIP67160
+ZIP
 
 Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Contact Us Site Map Accessibility Your Privacy Rights Legal Terms Need help? Have a question? Get instant answers 24/7.
 
