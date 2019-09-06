@@ -102,7 +102,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Already a Fandango VIP? Sign In
 
-Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Promo Code Policy Fandango Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseTicket PolicyPromo Code PolicyFandango Gift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyVIP+ Program Terms en Español | en Français | auf Deutsch
+Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Promo Code Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseTicket PolicyPromo Code PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyVIP+ Program Terms en Español | en Français | auf Deutsch
 
 Last updated: July 25, 2019
 
@@ -298,6 +298,10 @@ Offers
     
     at Boston, Mountain View, and San Jose theaters featuring ICONX Dolby® ATMOS™ and heated recliners! \*Terms apply. BUY TICKETS
     
+*   AMC Stubs® Members Save Big with Discount Tuesdays
+    
+    Save on tickets to Tuesday showtimes with your AMC Stubs® membership. \*Terms apply. BUY TICKETS
+    
 *   'Downton Abbey' Sweepstakes
     
     Enter for your chance to win a script of the movie signed by the cast! \*Terms apply. ENTER NOW
@@ -344,11 +348,14 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   August Celebrity Birthdays
+*   September Celebrity Birthdays
 *   Award Shows Red Carpets
 
-Get Updates On All Things Movies: Sign up for FanMail: Submit Thanks for signing up! Privacy Policy Follow Us Fandango on Facebook Fandango on Twitter Fandango on Instagram Fandango on Google+ Fandango on Tumblr Fandango on Youtube Get Fandango Apps Fandango iOS App Fandango Android App
+Follow Us
 
-Guarantee the perfect movie night with tickets from Fandango. Find theater showtimes, watch trailers, read reviews and buy movie tickets in advance.
+*   Fandango on Facebook
+*   Fandango on Twitter
+*   Fandango on Instagram
+*   Fandango on Youtube
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
+Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
