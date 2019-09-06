@@ -1,4 +1,4 @@
-Want to live your best life? Get the WebMD Daily newsletter for health tips, wellness updates and more. Subscribe By clicking "Subscribe," I agree to the WebMD Terms and Conditions and Privacy Policy. I also agree to receive emails from WebMD and I understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
+Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -112,9 +112,9 @@ Want to live your best life? Get the WebMD Daily newsletter for health tips, wel
     Experts News &. Experts News &. Experts Health News
     
     *   Vaping a Common Thread in Many Lung Injuries
-    *   J&J Ordered to Pay $572 Million in Opioid Case
-    *   Optimism May Help You Live Longer
-    *   Ticks: Unexpected Facts You Need to Know
+    *   Vegetarians May Face Higher Stroke Risk
+    *   Airlines Making Travel Easier for Hearing-Impaired
+    *   Salmonella Outbreak From Backyard Poultry
     *   Toxic Pollution in a Small Town
     
     Experts &. Community
