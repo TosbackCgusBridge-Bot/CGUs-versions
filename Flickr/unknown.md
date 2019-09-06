@@ -138,10 +138,21 @@ Last updated: 2018-04-03
 *   Blog
 *   Developers
 *   Guidelines
+*   Help
+*   Report abuse
+*   Help forum
+*   English
+
+*   About
+*   Jobs
+*   Blog
+*   Developers
+*   Guidelines
 *   Report abuse
 *   Help forum
 *   English
 
 *   Privacy
 *   Terms
-*   Help
+
+SmugMug+Flickr. Connecting people through photography.
