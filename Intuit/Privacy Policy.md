@@ -20,7 +20,7 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackWOMEN'S &. MEN'SST. JOHN'S BAY APPAREL40% OFF when you spend $40 or more with code select styles | including women’s plus &. petites’ sizes reg. $14-$64   
+Near YouFind a StoreBackFinal Hours Of COUPON CODE SHOP79ENDS IN00HOURS 41MINS 12SECS See Details\*60% off $100 or more select original &. regular-priced apparel, accessories, fine &. fashion jewelry &. home Excluded Categories: Juniors’ prom dresses, swimwear, shoes, handbags, window coverings, kitchen and dining, luggage, furniture, mattresses Excluded Brand: Liz Claiborne See additional exclusions below. \*40% off $40 or more select original &. regular-priced apparel, shoes, accessories, fine &. fashion jewelry &. home \*25% off select original &. regular-priced apparel (Haggar, Lee, Gloria Vanderbilt, intimate apparel &. women’s dresses). accessories (belts &. wallets). fine &. fashion jewelry (watches). home (Stearns &. Foster, Handy Living, Fiesta, small electrics, storage and organization, bath accessories, fitness equipment &. accessories, floor care). shoes (men's shoes, kids' shoes, Andrew Geller, Clarks, Easy Spirit). salon products \*EXTRA 25% off select SALE- &. CLEARANCE-priced apparel, shoes, accessories, fine &. fashion jewelry &. home \*EXTRA 10% off select SALE- &. CLEARANCE- priced furniture, mattresses, small electrics &. floor care OFFER DISCLAIMER &. EXCLUSIONS: \*Each offer good at jcp.com only, excluding taxes and shipping charges, 9/3/19-9/5/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Excluded Categories: Athletic Shoes, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Branded Athletic Apparel, Electronics, Food, Home Décor, In-Home Custom Design, Licensed Team Sports Merchandise, Men’s Underwear and Socks, Select National Brand Shoes, Penney Lane, Personalized Jewelry, Pet Care, Smart Home, Smartwatches, Sporting Goods &. Outdoor Gear, Toys, Travel Accessories, Wigs &. Extensions, Workwear &. Scrubs Excluded Brands: adidas, Alfred Dunner, As Seen On TV, Carhartt, Citizen Quartz, City Streets, Columbia, Champion, Converse, Crocs, Denizen from Levi's, Disney Collection, Disney Tsum Tsum, Dockers Apparel, Dreamgirl, Fisher-Price, Fitbit, Flexus, Garmin, Goddess Lingerie, Hunter Douglas, iRobot, Jezebel, Journee Collection, Levi’s, Modern Bride Design Your Dream Ring, Neato Robotics, Nike, Nursemates, Propet, Puma, Reebok, Sephora, Skechers Women's Shoes, Smoky Mountain, Spring Step, Tempur-Pedic, Tervis, Tracee Ellis Ross Additionally, original and regular-priced offers do not apply to BOGOs, 2 Or More, sale or clearance-priced items. all offers do not apply to Best Value, Daily Deals, Limited Time Specials, Purchase with Purchase items, Service Plans, Gift Cards, current orders and prior purchases, or in combination with other coupon(s). Can be combined with earned JCPenney Rewards. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code SHOP79 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. DetailsWOMEN'S &. MEN'SST. JOHN'S BAY APPAREL40% OFF when you spend $40 or more with code select styles | including women’s plus &. petites’ sizes reg. $14-$64   
 
 *   SHOP ALL
 
@@ -52,12 +52,12 @@ Disney Frozen 2 Trailer SEE IT. SHOP IT. #AllAtJCPMedia CarouselSlide 1 of 4. UP
 Recommended for You
 
 *   from$1320after coupon on orders $40+JCPenney Home™ Ultima Bath Rug Collection(701)
+*   from$6after coupon on orders $40+JCPenney Home Performance Bath Towel Collection(197)
+*   from$360after coupon on orders $40+Home Expressions Solid or Stripe Bath Towel Collection(300)
 *   $7
     
-    Xersion-Womens Performance Tee(1420)
-*   from$360after coupon on orders $40+Home Expressions Solid or Stripe Bath Towel Collection(298)
-*   from$960after coupon on orders $40+Liz Claiborne Luxury Egyptian Solid Bath Towel Set(1073)
-*   from$6after coupon on orders $40+JCPenney Home Performance Bath Towel Collection(194)
+    Xersion-Womens Performance Tee(1422)
+*   from$201after couponwas $6 St. John's Bay Active Quick Dry-Womens V Neck Short Sleeve T-Shirt(96)
 *   $85
     
     Nike Air Max Motion 2 Womens Lace-up Running Shoes(6)
