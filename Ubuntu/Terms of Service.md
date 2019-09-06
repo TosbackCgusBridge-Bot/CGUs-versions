@@ -43,3 +43,9 @@ The open source software platform that runs everywhere from the smartphone, the 
 Download Ubuntu ›
 
 Further reading
+
+*   The teleop\_tools arrive in ROS 2 Dashing! ›
+*   Design and Web team summary – 03 September 2019 ›
+*   Building a better TurtleBot3 ›
+*   LXD in 4 Easy Steps ›
+*   A technical comparison between snaps and debs ›
