@@ -365,23 +365,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Domen toolkit customizes fake web page overlays to bolster infection odds
-    *   Astronaut accused of identity theft, accessing estranged wife's bank account, from International Space Station
-    *   Facebook releases more election security changes
-    *   Facebook publicly releases emails related to data scraping, Cambridge Analytica
-    *   SC Media's 30th Anniversary - Then and Now: Malware
+    *   Apple issues supplemental security updates
+    *   Webcomic XKCD forum user data exposed
+    *   Aliznet exposed database leaks data on 2.5 million Yves Rocher customers
+    *   Three steps for meeting consumers’ contradictory expectations
+    *   Seven best practices for an effective phishing simulation program
     
+    *   Foxit forcing customer password resets after data breach
+    *   Supermicro fixes BMC software flaws that expose servers to virtual USB attacks
+    *   Aliznet exposed database leaks data on 2.5 million Yves Rocher customers
     *   Today’s threat trend: The rise of file-less attacks
-    *   Webcomic XKCD forum user data exposed
-    *   Watering-hole attack campaign designed to infect iOS users via exploit chains
-    *   Authorities free 850,000 machines from grasp of Retadup worm
-    *   Research: Hacktivism activity and chatter has markedly dropped since 2016
-    
-    *   Millions of Android phones vulnerable to phishing attacks
-    *   Webcomic XKCD forum user data exposed
-    *   Half a million Teletext Holidays files unsecured
-    *   Report: Dutch agency recruited Iranian mole to help U.S. and Israel plant Stuxnet virus
     *   Google expands and adds new bug bounty service
+    
+    *   Facebook hosts election security meeting between tech companies, intel officials
+    *   Taxpayers stand strong against paying ransoms
+    *   Vulnerability round-up: Mozilla, Cisco and Samba issue security updates
+    *   Supermicro fixes BMC software flaws that expose servers to virtual USB attacks
+    *   Two charged with hacking, doxing NJ police officers
 
 Back to Top
 
