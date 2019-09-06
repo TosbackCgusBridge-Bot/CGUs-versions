@@ -1,1 +1,1 @@
-click here
+502 Bad Gateway nginx
