@@ -2,7 +2,7 @@ Skip to main content <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGG2
 
 Free installation specials when you order online.
 
-Home Television Internet Phone Start Shopping
+Home Television Internet Altice Mobile Start Shopping
 
 *   Current Customers
     *   My Services
@@ -37,6 +37,7 @@ Home Television Internet Phone Start Shopping
 *   Television
 *   Internet
 *   Phone
+*   Altice Mobile
 
 Free installation specials when you order online.
 
