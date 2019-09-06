@@ -8,12 +8,12 @@ Invalid Zip Code. To connect with Subaru of Hawaii, please click here.
 
 or Use my current location Your Subaru Retailer Subaru Retailers Near You More Subaru Retailers
 
-*   Schomp Subaru (7 Miles)
-*   Groove Subaru (8 Miles)
-*   Mike Shaw Subaru (9 Miles)
-*   AutoNation Subaru West (10 Miles)
-*   AutoNation Subaru Arapahoe (12 Miles)
-*   Flatirons Subaru (21 Miles)
+*   Money Subaru (89 Miles)
+*   DuTeau Subaru (116 Miles)
+*   Baxter Subaru (158 Miles)
+*   Briggs Subaru of Topeka (164 Miles)
+*   Beardmore Subaru (165 Miles)
+*   Subaru of Wichita (167 Miles)
 
 Submit
 
@@ -82,11 +82,11 @@ Up to
 
 Crosstrek 2.0i Limited shown
 
-Forester $24,295\* starting price 2019 Forester
+Forester $24,495\* starting price 2020 Forester
 
 Starting at
 
-$24,295 MSRP
+$24,495 MSRP
 
 Up to
 
@@ -97,7 +97,7 @@ Up to
 *   Compare
 *   Build &. Price
 
-Forester Limited Shown
+Forester Sport shown
 
 Outback $26,645\* starting price 2020 Outback
 
