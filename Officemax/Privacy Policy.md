@@ -40,20 +40,20 @@ Stock Quote and Chart
 
 Price
 
-$1.28
+$1.43
 
 Change
 
-+0.04
++0.15
 
 Percent Change
 
-(+3.23%)
+(+11.72%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Aug 07, 2019 Office Depot Declares Quarterly Cash Dividend of $0.025 Per Share view more Recent News Aug 07, 2019 Office Depot Declares Quarterly Cash Dividend of $0.025 Per Share view more Events Aug 7, 2019 at 9:00 AM EDT Q2 2019 Office Depot Inc Earnings Conference Call view more Events Aug 7, 2019 at 9:00 AM EDT Q2 2019 Office Depot Inc Earnings Conference Call view more Presentations Aug 07, 2019 Office Depot Second Quarter 2019 Earnings Webcast Presentation view more Presentations Aug 07, 2019 Office Depot Second Quarter 2019 Earnings Webcast Presentation view more
+Recent News Sep 05, 2019 Office Depot to Present at Goldman Sachs Global Retailing Conference Thursday, September 5, 2019 view more Recent News Sep 05, 2019 Office Depot to Present at Goldman Sachs Global Retailing Conference Thursday, September 5, 2019 view more Events Sep 5, 2019 at 2:25 PM EDT Office Depot Presents at Goldman Sachs 26th Annual Global Retailing Conference view more Events Sep 5, 2019 at 2:25 PM EDT Office Depot Presents at Goldman Sachs 26th Annual Global Retailing Conference view more Presentations Sep 05, 2019 Goldman Sachs 26th Annual Global Retailing Conference view more Presentations Sep 05, 2019 Goldman Sachs 26th Annual Global Retailing Conference view more
 
 *   Home
 *   News &. Events
