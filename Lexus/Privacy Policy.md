@@ -103,7 +103,7 @@ COMPARE **UX**
 
 **RX**
 
-*   Starting at $43,8201\*
+*   Starting at $44,1501\*
 *   3 ROW SEATING UP TO 710\*
 
 *   Build
@@ -111,7 +111,7 @@ COMPARE **UX**
 
 **RX HYBRID**
 
-*   Starting at $46,2451\*
+*   Starting at $46,7501\*
 *   30-MPG COMBINED RATING11\*
 
 *   Build
@@ -145,7 +145,7 @@ COMPARE **RC**
 
 **RC F**
 
-*   Starting at $64,7501\*
+*   Starting at $64,9001\*
 *   472-HP3\* 5.0L V8
 
 *   Build
@@ -187,7 +187,7 @@ COMPARE **UX HYBRID**
 
 **RX HYBRID**
 
-*   Starting at $46,2451\*
+*   Starting at $46,7501\*
 *   30-MPG COMBINED RATING11\*
 
 *   Build
@@ -221,7 +221,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **RC F**
 
-*   Starting at $64,7501\*
+*   Starting at $64,9001\*
 *   472-HP3\* 5.0L V8
 
 *   Build
