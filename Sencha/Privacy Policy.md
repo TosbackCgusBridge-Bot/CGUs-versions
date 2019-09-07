@@ -7,7 +7,7 @@ Sencha.com
         *   Ext JS
         *   ExtAngular
         *   ExtReact
-        *   Sencha ExtWebComponents
+        *   ExtWebComponents
         *   GXT
         *   Sencha Test
     *   Special Editions
@@ -249,6 +249,7 @@ info@sencha.com
     *   Ext JS
     *   ExtAngular
     *   ExtReact
+    *   ExtWebComponents
     *   GXT
     *   Sencha Test
     *   Stencils
