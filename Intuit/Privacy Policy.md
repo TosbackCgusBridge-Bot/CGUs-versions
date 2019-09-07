@@ -1,6 +1,6 @@
-Free Shipping Over $99See DetailsAccessible View
+Free Shipping Over $99See Details Accessible View
 
-*   My AccountSign InTrack MyOrders
+*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -20,7 +20,7 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackFinal Hours Of COUPON CODE SHOP79ENDS IN00HOURS 41MINS 12SECS See Details\*60% off $100 or more select original &. regular-priced apparel, accessories, fine &. fashion jewelry &. home Excluded Categories: Juniors’ prom dresses, swimwear, shoes, handbags, window coverings, kitchen and dining, luggage, furniture, mattresses Excluded Brand: Liz Claiborne See additional exclusions below. \*40% off $40 or more select original &. regular-priced apparel, shoes, accessories, fine &. fashion jewelry &. home \*25% off select original &. regular-priced apparel (Haggar, Lee, Gloria Vanderbilt, intimate apparel &. women’s dresses). accessories (belts &. wallets). fine &. fashion jewelry (watches). home (Stearns &. Foster, Handy Living, Fiesta, small electrics, storage and organization, bath accessories, fitness equipment &. accessories, floor care). shoes (men's shoes, kids' shoes, Andrew Geller, Clarks, Easy Spirit). salon products \*EXTRA 25% off select SALE- &. CLEARANCE-priced apparel, shoes, accessories, fine &. fashion jewelry &. home \*EXTRA 10% off select SALE- &. CLEARANCE- priced furniture, mattresses, small electrics &. floor care OFFER DISCLAIMER &. EXCLUSIONS: \*Each offer good at jcp.com only, excluding taxes and shipping charges, 9/3/19-9/5/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Excluded Categories: Athletic Shoes, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Branded Athletic Apparel, Electronics, Food, Home Décor, In-Home Custom Design, Licensed Team Sports Merchandise, Men’s Underwear and Socks, Select National Brand Shoes, Penney Lane, Personalized Jewelry, Pet Care, Smart Home, Smartwatches, Sporting Goods &. Outdoor Gear, Toys, Travel Accessories, Wigs &. Extensions, Workwear &. Scrubs Excluded Brands: adidas, Alfred Dunner, As Seen On TV, Carhartt, Citizen Quartz, City Streets, Columbia, Champion, Converse, Crocs, Denizen from Levi's, Disney Collection, Disney Tsum Tsum, Dockers Apparel, Dreamgirl, Fisher-Price, Fitbit, Flexus, Garmin, Goddess Lingerie, Hunter Douglas, iRobot, Jezebel, Journee Collection, Levi’s, Modern Bride Design Your Dream Ring, Neato Robotics, Nike, Nursemates, Propet, Puma, Reebok, Sephora, Skechers Women's Shoes, Smoky Mountain, Spring Step, Tempur-Pedic, Tervis, Tracee Ellis Ross Additionally, original and regular-priced offers do not apply to BOGOs, 2 Or More, sale or clearance-priced items. all offers do not apply to Best Value, Daily Deals, Limited Time Specials, Purchase with Purchase items, Service Plans, Gift Cards, current orders and prior purchases, or in combination with other coupon(s). Can be combined with earned JCPenney Rewards. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code SHOP79 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. DetailsWOMEN'S &. MEN'SST. JOHN'S BAY APPAREL40% OFF when you spend $40 or more with code select styles | including women’s plus &. petites’ sizes reg. $14-$64   
+Near YouFind a StoreBackWOMEN'S &. MEN'S ST. JOHN'S BAY APPAREL40-50% OFF + EXTRA 25% OFF with JCPenney Credit Card\* select styles | including women’s plus &. petites’ sizes **sale $7.99-$29.99** | reg. $17-64
 
 *   SHOP ALL
 
@@ -33,34 +33,69 @@ Near YouFind a StoreBackFinal Hours Of COUPON CODE SHOP79ENDS IN00HOURS 41MINS 1
 *   MEN'S BOTTOMS
     
 
-SHOP ALLSHEETSBEDDINGBATHUP TO 60% OFFFURNITURE &. MATTRESSES+ EXTRA 15% off with coupon\*select styles  
-**• EARN UP TO $100 IN JCP REWARDS ** **• UP TO $300 GIFT CARD ** **• FREE DELIVERY ON MATTRESSES ** **$599 &. ABOVE**   
+SHOP ALLXERSION FOR THE FAMILY50% OFF + EXTRA 25% OFF with JCPenney Credit Card\* | select styles | **sale $6.99-$29.99** | reg. $14-$60 
 
-*   FURNITURE
+*   SHOP ALL
+
+*   WOMEN’S TOPS
+    
+*   WOMEN’S BOTTOMS
+    
+*   MEN’S SHIRTS
+    
+*   MEN’S BOTTOMS
+    
+*   KIDS’ TOPS
+    
+*   KIDS’ BOTTOMS
+    
+
+SHOP ALLLOVE, LIZ40% OFF LIZ CLAIBORNE APPAREL select styles | including women’s plus, tall &. petites’ sizes **sale $10.20-$53.40** | reg. $17-$89 
+
+*   WOMEN
+*   PETITE
+*   TALL
+*   WOMEN'S PLUS
+
+UP TO 60% OFF HOME SALEselect styles
+
 *   MATTRESSES
 
-Disney Frozen 2 Trailer SEE IT. SHOP IT. #AllAtJCPMedia CarouselSlide 1 of 4. UP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESHOP ALLSELECT STYLESUP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESELECT STYLESSHOP ALL
+*   BEDDING
+    
+*   BATH
+    
+*   WINDOW
+    
+*   KITCHEN &. DINING
+    
+*   RUGS
+    
+*   LUGGAGE
+    
+*   FURNITURE
+    
 
-*   $539after couponwas $24 Carter's 2-pc. Short Set Baby BoysAdd To Cart
-*   $1686after couponwas $45 Carter's Toddler Boys Brand Booties Flat Heel(31)Add To Cart
-*   $366after couponwas $14 Carter's Boys Round Neck Short Sleeve Graphic T-Shirt - Baby(22)Add To Cart
-*   $419after couponwas $16 Carter's Short Sleeve and Sleeveless Tops-Baby Girls(34)Add To Cart
-*   $524after couponwas $14 Carter's Boys Round Neck Short Sleeve Graphic T-Shirt - Baby(12)Add To Cart
-*   $471after couponwas $14 Carter's Boys Round Neck Short Sleeve Graphic T-Shirt - Baby(28)Add To Cart
-*   $494after couponwas $22 Carter's Boys Pull-On Short Baby(7)Add To Cart
+MATTRESSES Disney Frozen 2 Trailer SEE IT. SHOP IT. #AllAtJCPMedia CarouselSlide 1 of 4. **\*Coupon required. Credit offer subject to credit approval.** Some restrictions &. exclusions apply. UP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESHOP ALLSELECT STYLESUP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESELECT STYLESSHOP ALL
+
+*   $575after couponwas $24 Carter's 2-pc. Short Set Baby BoysAdd To Cart
+*   $1799after couponwas $45 Carter's Toddler Boys Brand Booties Flat Heel(31)Add To Cart
+*   $391after couponwas $14 Carter's Boys Round Neck Short Sleeve Graphic T-Shirt - Baby(22)Add To Cart
+*   $559after couponwas $14 Carter's Boys Round Neck Short Sleeve Graphic T-Shirt - Baby(12)Add To Cart
+*   $503after couponwas $14 Carter's Boys Round Neck Short Sleeve Graphic T-Shirt - Baby(28)Add To Cart
+*   $447after couponwas $16 Carter's Short Sleeve and Sleeveless Tops-Baby Girls(34)Add To Cart
+*   $527after couponwas $22 Carter's Boys Pull-On Short Baby(7)Add To Cart
 
 Recommended for You
 
-*   from$1320after coupon on orders $40+JCPenney Home™ Ultima Bath Rug Collection(701)
-*   from$6after coupon on orders $40+JCPenney Home Performance Bath Towel Collection(197)
-*   from$360after coupon on orders $40+Home Expressions Solid or Stripe Bath Towel Collection(300)
-*   $7
+*   from$1359after couponwas $22 - $90 JCPenney Home™ Ultima Bath Rug Collection(701)
+*   from$319after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(200)
+*   from$239after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(301)
+*   from$215after couponwas $6 St. John's Bay Active Quick Dry-Womens V Neck Short Sleeve T-Shirt(97)
+*   $560after couponXersion-Womens Performance Tee(1422)
+*   $2099 clearance
     
-    Xersion-Womens Performance Tee(1422)
-*   from$201after couponwas $6 St. John's Bay Active Quick Dry-Womens V Neck Short Sleeve T-Shirt(96)
-*   $85
-    
-    Nike Air Max Motion 2 Womens Lace-up Running Shoes(6)
+    was $60 | 65% offColumbia Fleece Jacket(366)
 
 Shop and Save at JCPenney
 
