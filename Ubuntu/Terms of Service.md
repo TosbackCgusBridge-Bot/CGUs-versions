@@ -44,8 +44,8 @@ Download Ubuntu ›
 
 Further reading
 
+*   Management of snaps in a controlled, enterprise environment ›
 *   The teleop\_tools arrive in ROS 2 Dashing! ›
 *   Design and Web team summary – 03 September 2019 ›
 *   Building a better TurtleBot3 ›
 *   LXD in 4 Easy Steps ›
-*   A technical comparison between snaps and debs ›
