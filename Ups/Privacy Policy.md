@@ -1,6 +1,6 @@
 1/1
 
-*   Hurricane Dorian Impacting Service in Florida, Georgia, and the Carolinas ...More
+*   Hurricane Dorian Impacting Service in Georgia, Virginia, and the Carolinas ...More
 
 Close Skip To Main Content
 
