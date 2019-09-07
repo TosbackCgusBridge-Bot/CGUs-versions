@@ -5,7 +5,7 @@ Lenovo Explore Close
     *   Laptops
         
         *   Always Free Shipping
-        *   Easy returns
+        *   Earn Rewards on All Purchases
         *   Financing Available
         
         *   Explore Laptops
@@ -39,7 +39,7 @@ Lenovo Explore Close
     *   Desktops
         
         *   Always Free Shipping
-        *   Easy Returns
+        *   Earn Rewards on All Purchases
         *   Financing Available
         
         *   Explore Desktops
@@ -69,7 +69,7 @@ Lenovo Explore Close
     *   Workstations
         
         *   Always Free Shipping
-        *   Easy Returns
+        *   Earn Rewards on All Purchases
         *   Financing Available
         
         *   Explore Workstations
@@ -96,7 +96,7 @@ Lenovo Explore Close
     *   Tablets
         
         *   Always Free Shipping
-        *   Easy Returns
+        *   Earn Rewards on All Purchases
         *   Financing Available
         
         *   Explore Tablets
@@ -122,7 +122,7 @@ Lenovo Explore Close
     *   Accessories &. Software
         
         *   Always Free Shipping
-        *   Easy Returns
+        *   Earn Rewards on All Purchases
         *   Financing Available
         
         *   Accessories
@@ -157,7 +157,7 @@ Lenovo Explore Close
     *   Monitors
         
         *   Always Free Shipping
-        *   Easy Returns
+        *   Earn Rewards on All Purchases
         *   Financing Available
         
         *   Explore Monitors
@@ -182,7 +182,7 @@ Lenovo Explore Close
     *   Gaming
         
         *   Always Free Shipping
-        *   Easy Returns
+        *   Earn Rewards on All Purchases
         *   Financing Available
         
         *   Explore Gaming
@@ -245,7 +245,7 @@ Lenovo Explore Close
     *   Support
         
         *   Always Free Shipping
-        *   Easy Returns
+        *   Earn Rewards on All Purchases
         *   Financing Available
         
         *   Customer Support
@@ -274,7 +274,7 @@ Lenovo Explore Close
     *   Sale
         
         *   Always Free Shipping
-        *   Easy Returns
+        *   Earn Rewards on All Purchases
         *   Financing Available
         
         *   Weekly Laptop Deals
@@ -333,12 +333,12 @@ Lenovo Explore Close
         
         *   Explore Servers
         *   Blade Servers
+        *   Edge Servers
         *   High-Density Servers
         *   Mission Critical Servers
-        *   Rack Servers
         
         *   ‏‏‎
-        *   Edge Servers
+        *   Rack Servers
         *   Server Options
         *   Tower Servers
         *   View All Servers
