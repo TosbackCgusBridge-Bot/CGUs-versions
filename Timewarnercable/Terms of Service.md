@@ -1,4 +1,4 @@
-c2a3dcd9-066e-43ea-88bd-577f7e6c6fe8
+70f8cde4-a151-4425-b584-11d87ba7eaa2
 
 *   Search Search
 *   Contact Us
@@ -36,7 +36,7 @@ Toggle Navigation
 *   Cable TV
 *   Home Phone
 *   Mobile
-
+*   Latino
 *   Business
 
 Check Availability &. Offers \* Street Address Enter your street address Apartment \* Zip Code Enter your 5-digit ZIP code Go Why do I need to enter my exact address?
@@ -71,7 +71,7 @@ Shop Spectrum +
 *   Spectrum TV
 *   Spectrum Voice
 *   Mi Plan Latino
-*   Spectrum Mobile
+
 *   Spectrum Sports Networks
 *   Spectrum Premium Channels
 
@@ -96,49 +96,7 @@ Customer Service +
 *   Contact Us
 *   Find a Store Location
 
-Search Services by State+ Search for Services in Your Area
-
-*   Alabama
-*   Arizona
-*   California
-*   Colorado
-*   Connecticut
-*   Florida
-*   Georgia
-*   Hawaii
-*   Idaho
-*   Illinois
-*   Indiana
-*   Kansas
-*   Kentucky
-*   Louisiana
-*   Maine
-*   Massachusetts
-*   Michigan
-*   Minnesota
-*   Missouri
-*   Montana
-*   Nebraska
-*   Nevada
-*   New Hampshire
-*   New Jersey
-*   New Mexico
-*   New York
-*   North Carolina
-*   Ohio
-*   Oregon
-*   Pennsylvania
-*   Rhode Island
-*   South Carolina
-*   South Dakota
-*   Tennessee
-*   Texas
-*   Utah
-*   Vermont
-*   Virginia
-*   Washington
-*   Wisconsin
-*   Wyoming
+Search Services by State+ Search for Services in Your Area      Select StateAlabama Arizona California Colorado Connecticut Florida Georgia Hawaii Idaho Illinois Indiana Kansas Kentucky Louisiana Maine Massachusetts Michigan Minnesota Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina Ohio Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington Wisconsin Wyoming
 
 *   About Charter
 *   Investor Relations
