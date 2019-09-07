@@ -365,23 +365,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
+    *   How artificial intelligence is enhancing enterprise security
+    *   Despite concerns over breaches, 40% of cardholders have provided Social Security numbers online
+    *   Monster.com job applicants info exposed on unprotected server
+    *   Reports say China devised iPhone malware campaign to track Muslims. Android and Windows devices also targeted
+    *   Authorities free 850,000 machines from grasp of Retadup worm
+    
+    *   DHS program to fight ransomware attacks on 2020 elections
+    *   Watering-hole attack campaign designed to infect iOS users via exploit chains
     *   Apple issues supplemental security updates
-    *   Webcomic XKCD forum user data exposed
-    *   Aliznet exposed database leaks data on 2.5 million Yves Rocher customers
-    *   Three steps for meeting consumers’ contradictory expectations
-    *   Seven best practices for an effective phishing simulation program
+    *   Facebook releases more election security changes
+    *   Massively popular Phone PDF app contains malicious dropper
     
-    *   Foxit forcing customer password resets after data breach
-    *   Supermicro fixes BMC software flaws that expose servers to virtual USB attacks
-    *   Aliznet exposed database leaks data on 2.5 million Yves Rocher customers
-    *   Today’s threat trend: The rise of file-less attacks
-    *   Google expands and adds new bug bounty service
-    
-    *   Facebook hosts election security meeting between tech companies, intel officials
-    *   Taxpayers stand strong against paying ransoms
-    *   Vulnerability round-up: Mozilla, Cisco and Samba issue security updates
-    *   Supermicro fixes BMC software flaws that expose servers to virtual USB attacks
-    *   Two charged with hacking, doxing NJ police officers
+    *   Holy cybercrime, Batman! Joker malware commits ad fraud, data theft
+    *   Glupteba malware exploits Bitcoin transactions to keep C2 servers updated
+    *   CirclCI data breach exposed customer GitHub and Bitbucket logins
+    *   Monster.com job applicants info exposed on unprotected server
+    *   Bad bid: Malicious actors target government contractors
 
 Back to Top
 
