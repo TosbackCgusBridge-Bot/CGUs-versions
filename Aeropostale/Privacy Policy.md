@@ -183,6 +183,7 @@ Close submenu ( Girls ) Girls
 *   Repreve Denim
 *   The OG Collection
 *   Matching Sets
+*   Layer Up
 *   Aero One
 
 Close submenu ( Guys ) Guys
@@ -377,6 +378,7 @@ Menu Find a Store Aeropostale
         *   Repreve Denim
         *   The OG Collection
         *   Matching Sets
+        *   Layer Up
         *   Aero One
     
     *   Guys
