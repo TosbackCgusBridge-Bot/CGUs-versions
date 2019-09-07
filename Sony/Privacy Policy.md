@@ -124,7 +124,7 @@ Play video: A Winning Combo: Rose Gold Headset &. Controller Close video: A Winn
 
 Marvel’s Spider-Man features more than 40 unique suit designs. @insomniacgames details the references that inspired them all:  http://play.st/2zPo6FS  pic.twitter.com/AulDmZp1qn
 
-2 days ago View Tweet Camila Cabello B1ppYVAnUcc
+3 days ago View Tweet Camila Cabello B1ppYVAnUcc
 
 Never Miss a Moment
 
