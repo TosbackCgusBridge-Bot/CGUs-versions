@@ -497,6 +497,3 @@ OK
 **Revision #**:
 
 **Build Date**:
-
-Screen reader users: Please switch to forms mode for this link.FeedbackClick here to  
-rate this page
