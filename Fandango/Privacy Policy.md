@@ -333,7 +333,6 @@ Experience + Explore
 
 Editorial Features
 
-*   Summer Movie Guide
 *   Indie Movie Guide
 *   Family Guide
 *   House Of Screams
