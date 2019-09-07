@@ -54,10 +54,10 @@ Win the ultimate Nashville experience! Enroll &. Enter.
         *   Rompers &. Jumpsuits
         *   Shorts
         *   Sweaters &. Cardigans
+        *   Sweatshirts
         *   Swim
         *   Tops
         *   Plus Sizes
-        *   School Uniforms
         *   Shop All
         
         *   Jeans
@@ -126,7 +126,6 @@ Win the ultimate Nashville experience! Enroll &. Enter.
         *   Tops
         *   T-Shirts
         *   Big &. Tall
-        *   School Uniforms
         *   Shop All
         
         *   Jeans
@@ -182,6 +181,7 @@ Win the ultimate Nashville experience! Enroll &. Enter.
         *   Jeans
         *   Bottoms
         *   Shirts &. Blouses
+        *   Shoes
         *   T-Shirts
         *   Shop All
         
@@ -193,6 +193,7 @@ Win the ultimate Nashville experience! Enroll &. Enter.
         *   Shirts
         *   Sweatshirts
         *   T-Shirts
+        *   Shoes
         *   Shop AllGive a Buckle Gift card
 *   Jeans
     *   *   Women's Jeans
