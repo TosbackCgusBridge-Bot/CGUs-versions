@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Friday, September 6, 2019  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Saturday, September 7, 2019  
 
 DEBKAfile
 
@@ -46,6 +46,26 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   The US opens peace talks with Yemen’s Houthi rebels
+    
+    Sep 06, 2019 @ 10:07
+    
+*   Iranian Guards harass British frigate in 115 incidents
+    
+    Sep 06, 2019 @ 10:02
+    
+*   Turkish sources: Russian officers and troops killed in Idlib ambush
+    
+    Sep 06, 2019 @ 09:50
+    
+*   An armored ambulance targeted by Hizballah disobeyed orders
+    
+    Sep 06, 2019 @ 09:44
+    
+*   No immediate US plans to seize Iranian tanker
+    
+    Sep 06, 2019 @ 09:31
+    
 *   Netanyahu to meet UK PM and US Defense chief in London
     
     Sep 04, 2019 @ 20:45
@@ -57,43 +77,11 @@ Breaking news
 *   UK PM Johnson ready to call an Oct.14 snap election
     
     Sep 04, 2019 @ 08:53
-    
-*   France’s $15bn loan offer to Tehran is subject to US nod
-    
-    Sep 04, 2019 @ 08:41
-    
-*   Hamas detains 12 Islamic Jihad members suspected of Gaza suicide attacks
-    
-    Sep 03, 2019 @ 21:42
-    
-*   Rouhani again rules out talks with the US
-    
-    Sep 03, 2019 @ 10:39
-    
-*   Up to 16 killed in Taliban suicide attack. Deal "in principle” in peace talks
-    
-    Sep 03, 2019 @ 10:30
-    
-*   Nasrallah: Israel’s UAVs are Hizballah’s next target
-    
-    Sep 02, 2019 @ 21:56
     
 
-*   Hamas detains 12 Islamic Jihad members suspected of Gaza suicide attacks
+*   No immediate US plans to seize Iranian tanker
     
-    Sep 03, 2019 @ 21:42
-    
-*   Rouhani again rules out talks with the US
-    
-    Sep 03, 2019 @ 10:39
-    
-*   Up to 16 killed in Taliban suicide attack. Deal "in principle” in peace talks
-    
-    Sep 03, 2019 @ 10:30
-    
-*   Nasrallah: Israel’s UAVs are Hizballah’s next target
-    
-    Sep 02, 2019 @ 21:56
+    Sep 06, 2019 @ 09:31
     
 *   Netanyahu to meet UK PM and US Defense chief in London
     
@@ -107,25 +95,25 @@ Breaking news
     
     Sep 04, 2019 @ 08:53
     
-*   France’s $15bn loan offer to Tehran is subject to US nod
+*   The US opens peace talks with Yemen’s Houthi rebels
     
-    Sep 04, 2019 @ 08:41
+    Sep 06, 2019 @ 10:07
     
-*   Hamas detains 12 Islamic Jihad members suspected of Gaza suicide attacks
+*   Iranian Guards harass British frigate in 115 incidents
     
-    Sep 03, 2019 @ 21:42
+    Sep 06, 2019 @ 10:02
     
-*   Rouhani again rules out talks with the US
+*   Turkish sources: Russian officers and troops killed in Idlib ambush
     
-    Sep 03, 2019 @ 10:39
+    Sep 06, 2019 @ 09:50
     
-*   Up to 16 killed in Taliban suicide attack. Deal "in principle” in peace talks
+*   An armored ambulance targeted by Hizballah disobeyed orders
     
-    Sep 03, 2019 @ 10:30
+    Sep 06, 2019 @ 09:44
     
-*   Nasrallah: Israel’s UAVs are Hizballah’s next target
+*   No immediate US plans to seize Iranian tanker
     
-    Sep 02, 2019 @ 21:56
+    Sep 06, 2019 @ 09:31
     
 *   Netanyahu to meet UK PM and US Defense chief in London
     
@@ -139,9 +127,21 @@ Breaking news
     
     Sep 04, 2019 @ 08:53
     
-*   France’s $15bn loan offer to Tehran is subject to US nod
+*   The US opens peace talks with Yemen’s Houthi rebels
     
-    Sep 04, 2019 @ 08:41
+    Sep 06, 2019 @ 10:07
+    
+*   Iranian Guards harass British frigate in 115 incidents
+    
+    Sep 06, 2019 @ 10:02
+    
+*   Turkish sources: Russian officers and troops killed in Idlib ambush
+    
+    Sep 06, 2019 @ 09:50
+    
+*   An armored ambulance targeted by Hizballah disobeyed orders
+    
+    Sep 06, 2019 @ 09:44
     
 
 12PrevNext
