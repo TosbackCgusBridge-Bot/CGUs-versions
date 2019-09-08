@@ -1,3 +1,1 @@
-12:33amSearch
-
-Ask ApplicationsHelpEULAPrivacy
+12:33amSearchAsk ApplicationsHelpEULAPrivacy
