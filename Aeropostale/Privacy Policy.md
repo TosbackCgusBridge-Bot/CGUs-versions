@@ -195,6 +195,7 @@ Close submenu ( Guys ) Guys
 *   Real Denim
 *   Destroyed Denim
 *   Everyday Tees
+*   Layer Up
 *   Aero One
 
 Close submenu ( Clearance ) Clearance
@@ -389,6 +390,7 @@ Menu Find a Store Aeropostale
         *   Real Denim
         *   Destroyed Denim
         *   Everyday Tees
+        *   Layer Up
         *   Aero One
     
 *   Clearance
