@@ -365,17 +365,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   How artificial intelligence is enhancing enterprise security
-    *   Despite concerns over breaches, 40% of cardholders have provided Social Security numbers online
-    *   Monster.com job applicants info exposed on unprotected server
-    *   Reports say China devised iPhone malware campaign to track Muslims. Android and Windows devices also targeted
-    *   Authorities free 850,000 machines from grasp of Retadup worm
-    
     *   DHS program to fight ransomware attacks on 2020 elections
-    *   Watering-hole attack campaign designed to infect iOS users via exploit chains
-    *   Apple issues supplemental security updates
-    *   Facebook releases more election security changes
-    *   Massively popular Phone PDF app contains malicious dropper
+    *   Taxpayers stand strong against paying ransoms
+    *   Huawei accuses U.S. of cyberattacks, pressing employees to spy
+    *   Woman accused of hacking Capital One indicted for alleged cyber intrusions, cryptojacking
+    *   Dentist offices nationwide hit with REvil ransomware attacks
+    
+    *   Malicious ad clicking apps with 1.5M downloads found on Google Play
+    *   Holy cybercrime, Batman! Joker malware commits ad fraud, data theft
+    *   Bug bounty hunters cash in
+    *   Despite concerns over breaches, 40% of cardholders have provided Social Security numbers online
+    *   Breach exposes data associated with customers of Imperva's Cloud WAF product
     
     *   Holy cybercrime, Batman! Joker malware commits ad fraud, data theft
     *   Glupteba malware exploits Bitcoin transactions to keep C2 servers updated
