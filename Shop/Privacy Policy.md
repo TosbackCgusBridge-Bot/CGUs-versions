@@ -550,7 +550,7 @@ Lenovo Explore Close
 1-855-253-6686
 
 *   Search
-*   icon-compare0 Compare Compare (0)
+
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
@@ -613,13 +613,7 @@ Lenovo Explore Close
 
 Top Suggestions
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
-
-Please add atleast 2 products for compare
-
-Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
-
-Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
 
 protects better"/>.
 
@@ -1118,16 +1112,4 @@ Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBel
     *   FAQs
     Leaving lenovo.com You are going to open an external link and will leave lenovo.com.Are you sure to leave? OK CANCEL
 
-© 2019   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and ConditionsAnti-Slavery and Human Trafficking Statement Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
-
-How can we help you today?
-
-SALES CHATSALES CHAT BUSINESS SALESBUSINESS SALES EXISTING ORDER HELPEXISTING ORDER HELP Call us: 1-855-253-6686
-
-Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being least favorable, how likely is it that you would recommend Lenovo to a friend or colleague?
-
-1 2 3 4 5 6 7 8 9 10
-
-Please tell us how we can improve your experience:
-
-SUBMIT CHATHIDEFeedback Will open a new windowFeedbackLaunches comment card in new window
+© 2019   Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and ConditionsAnti-Slavery and Human Trafficking Statement
