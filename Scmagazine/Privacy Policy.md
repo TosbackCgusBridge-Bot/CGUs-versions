@@ -365,17 +365,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   DHS program to fight ransomware attacks on 2020 elections
-    *   Taxpayers stand strong against paying ransoms
-    *   Huawei accuses U.S. of cyberattacks, pressing employees to spy
-    *   Woman accused of hacking Capital One indicted for alleged cyber intrusions, cryptojacking
-    *   Dentist offices nationwide hit with REvil ransomware attacks
+    *   Google fined $170M for allegedly improper collection of kids' data from YouTube channels
+    *   Bad bid: Malicious actors target government contractors
+    *   Domen toolkit customizes fake web page overlays to bolster infection odds
+    *   Foxit forcing customer password resets after data breach
+    *   Facebook releases more election security changes
     
-    *   Malicious ad clicking apps with 1.5M downloads found on Google Play
-    *   Holy cybercrime, Batman! Joker malware commits ad fraud, data theft
-    *   Bug bounty hunters cash in
-    *   Despite concerns over breaches, 40% of cardholders have provided Social Security numbers online
-    *   Breach exposes data associated with customers of Imperva's Cloud WAF product
+    *   Webcomic XKCD forum user data exposed
+    *   Instagram phishing scam uses fake 2FA code to appear trustworthy
+    *   Facebook releases more election security changes
+    *   Bad bid: Malicious actors target government contractors
+    *   How artificial intelligence is enhancing enterprise security
     
     *   Holy cybercrime, Batman! Joker malware commits ad fraud, data theft
     *   Glupteba malware exploits Bitcoin transactions to keep C2 servers updated
