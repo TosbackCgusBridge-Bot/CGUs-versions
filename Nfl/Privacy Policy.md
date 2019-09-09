@@ -1,19 +1,19 @@
-*   GB1-010CHI0-13Final
-*   LA0-0CAR0-0Sun, 1:00 pm ET
-*   TEN0-0CLE0-0Sun, 1:00 pm ET
-*   KC0-0JAX0-0Sun, 1:00 pm ET
-*   BAL0-0MIA0-0Sun, 1:00 pm ET
-*   ATL0-0MIN0-0Sun, 1:00 pm ET
-*   BUF0-0NYJ0-0Sun, 1:00 pm ET
-*   WAS0-0PHI0-0Sun, 1:00 pm ET
-*   IND0-0LAC0-0Sun, 4:05 pm ET
-*   CIN0-0SEA0-0Sun, 4:05 pm ET
-*   DET0-0ARI0-0Sun, 4:25 pm ET
-*   NYG0-0DAL0-0Sun, 4:25 pm ET
-*   SF0-0TB0-0Sun, 4:25 pm ET
-*   PIT0-0NE0-0Sun, 8:20 pm ET
+*   PIT•0NE172nd ? 02:00
+*   LA1-030CAR0-127Final
+*   TEN1-043CLE0-113Final
+*   KC1-040JAX0-126Final
+*   BAL1-059MIA0-110Final
+*   ATL0-112MIN1-028Final
+*   BUF1-017NYJ0-116Final
+*   WAS0-127PHI1-032Final
+*   IND0-124LAC1-030Final (OT)
+*   CIN0-120SEA1-021Final
+*   DET0-0-127ARI0-0-127Final (OT)
+*   NYG0-117DAL1-035Final
+*   SF1-031TB0-117Final
 *   HOU0-0NO0-0Mon, 7:10 pm ET
 *   DEN0-0OAK0-0Mon, 10:20 pm ET
+*   GB1-010CHI0-13Final
 
 *   News
 *   Scores
@@ -21,7 +21,6 @@
 *   Standings
 *   Highlights
 *   KICKOFF
-*   Watch Games
 *   NFL 100
 *   Fantasy
 *   Tickets
@@ -37,23 +36,24 @@
 *   NFL Network
 *   Photos
 *   NFL Films
+*   Game Pass
 
-*   GB10CHI3Final
-*   LA0-0CAR0-0Sun, 1:00 pm ET
-*   TEN0-0CLE0-0Sun, 1:00 pm ET
-*   KC0-0JAX0-0Sun, 1:00 pm ET
-*   BAL0-0MIA0-0Sun, 1:00 pm ET
-*   ATL0-0MIN0-0Sun, 1:00 pm ET
-*   BUF0-0NYJ0-0Sun, 1:00 pm ET
-*   WAS0-0PHI0-0Sun, 1:00 pm ET
-*   IND0-0LAC0-0Sun, 4:05 pm ET
-*   CIN0-0SEA0-0Sun, 4:05 pm ET
-*   DET0-0ARI0-0Sun, 4:25 pm ET
-*   NYG0-0DAL0-0Sun, 4:25 pm ET
-*   SF0-0TB0-0Sun, 4:25 pm ET
-*   PIT0-0NE0-0Sun, 8:20 pm ET
+*   PIT•0NE172nd ? 02:00
+*   LA30CAR27Final
+*   TEN43CLE13Final
+*   KC40JAX26Final
+*   BAL59MIA10Final
+*   ATL12MIN28Final
+*   BUF17NYJ16Final
+*   WAS27PHI32Final
+*   IND24LAC30Final (OT)
+*   CIN20SEA21Final
+*   DET27ARI27Final (OT)
+*   NYG17DAL35Final
+*   SF31TB17Final
 *   HOU0-0NO0-0Mon, 7:10 pm ET
 *   DEN0-0OAK0-0Mon, 10:20 pm ET
+*   GB10CHI3Final
 
 *   News
 *   Scores
@@ -61,7 +61,6 @@
 *   Standings
 *   Highlights
 *   KICKOFF
-*   Watch Games
 *   NFL 100
 
 *   NFL 100
@@ -77,6 +76,7 @@
     *   NFL Network
     *   Photos
     *   NFL Films
+    *   Game Pass
 
 *   Fantasy
 *   Tickets
