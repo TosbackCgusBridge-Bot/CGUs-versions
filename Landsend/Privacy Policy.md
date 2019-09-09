@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 30% off your order!
+Receive 30% off your order, plus free shipping with no minimum purchase!
 
-code: SQUASH pin: PROMOTION DETAILS
+code: SAVING30 pin: PROMOTION DETAILS
 
 Customer Service Menu
 
