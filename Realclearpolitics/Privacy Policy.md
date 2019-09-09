@@ -113,53 +113,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Camilla Cavendish_: Boris Johnson's Bullying Fails to Cow Opponents
+*   _Andy Puzder_: August Jobs Report Is Very Bad News for Democrats
     
-*   _Joanna Williams_: How Can Brexit Be a Coup If People Voted for It?
+*   _Sylvan Lane_: Slowing Job Growth Raises 2020 Stakes for Trump
     
-*   _Gingrich &. Whiton_: How Trump Can Support Hong Kong Freedom Fighters
+*   _Michael Brendan Dougherty_: The Aspirational Asceticism of the Progressive Elite
     
-*   _Raghuram Rajan_: The True Toll of the Trade War With China
+*   _Jonathan Franzen_: Don't Pretend the Climate Apocalypse Can Be Stopped
     
-*   _Christine Flowers_: Dems' Kavanaugh Witch Hunt Still Offers Warning
+*   _David Byler_: Conservatives Have Already Won the Culture War
     
-*   _Michelle Goldberg_: Dare We Dream of the End of Republican Party?
+*   _Chad Felix Greene_: LGBT Activists: Brees Promoting the Bible Is Homophobic
     
-*   _Tim Kane_: The Values That Economics Cannot Measure
+*   _James Poniewozik_: The Real Donald Trump Is a Character on TV
     
-*   _Monica Showalter_: Mugabe Was a Socialist Curse on Humanity
+*   _Scott Walker_: Is Biden a Liar or an Idiot? It Might Be Both
     
-*   _Lawrence Pintak_: What Mugabe Told Me in the Late 1970s Still Haunts Me
+*   _David Ignatius_: China, the Challenge of Our Time
     
-*   _Bjorn Lomborg_: What Dems Get Horribly Wrong on Dorian &. Climate Change
+*   _Daniel Sobieski_: Is Chicago a Gun Crime Sanctuary City?
     
-*   _Margaret Carlson_: Pence Was Always Irrelevant--Now He's Corrupt, Too
+*   _Pardo_: Tackle Fentanyl Like a Poisoning Outbreak
     
-*   _Swift &. Cheney_: Why Education Credentialing Needs Greater Transparency
+*   _Keith Naughton_: Where the 2020 Race Stands: Biden's Strange Advantage
     
-*   _Robert Woodson_: How to Take Politics Beyond Charges of Racism
+*   _Michael Goodwin_: Warren Smartly Sneaking Up on Biden From the Left
     
-*   _Stereo Williams_: Kevin Hart &. Dave Chappelle's Privileged LGBTQ Blind Spots
+*   _Matt Ford_: We're Trapped in the Dystopian Aftermath of 9/11
     
-*   _Eddie Scarry_: Chappelle Special Is a Giant Middle Finger to Social Justice
+*   _Andrew McCarthy_: The Turn Toward a Pre-9/11 Mindset
     
-*   _Paul Sperry_: Jail Where Epstein Died Has Egregious History of Breaches
+*   _Lili Loofbourow_: Trump Lost #Sharpiegate the Moment He Took It Seriously
     
-*   _James Piereson_: An Overblown Hypothesis: On Hurricanes &. Climate Change
+*   _Matt Vespa_: Media Embarrasses Itself Again Over Trump's Hurricane Map
     
-*   _Romero &. Jones_: Seven Reasons for Hope From Dems' Climate Town Hall
+*   _Jemele Hill_: It's Time for Black Athletes to Leave White Colleges
     
-*   _Daniel Turner_: Trump Won CNN's Climate Change Forum--Science Lost
+*   _Steve Klinsky_: As NY Charters Turn 20, Let Good Schools Flourish
     
-*   _Eugene Robinson_: Trump's Sharpie-Doctored Map Embodies the Man
+*   _Kate Aronoff_: Democrats Must Go to War With Fossil Fuel Industry
     
-*   _Neil Gorsuch_: Why Originalism Is the Best Approach to the Constitution
+*   _Stephen Moore_: Natural Gas, America's Wonder Fuel
     
-*   _Paul Taylor_: Has Europe Reached Peak Populism?
+*   _Libby Watson_: Breitbart News Is the Real Mustering of Digital Jacobins
     
-*   _Dan Hannan_: There Will Be an Election, and Brexit Will Happen
+*   _Andrew Stiles_: What Is the Point of CNN?
     
-*   _Sharyl Attkisson_: Europe's Immigration Crisis: Greece as Storage Facility
+*   _Alexander Sammon_: The Republican War on the Capital Gains Tax
     
 
 *   Previous
@@ -247,50 +247,69 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Massachusetts Democratic Presidential PrimaryBoston Globe/Suffolk
-    *   Biden26
-    *   Warren24
-    *   Sanders8
-    *   Buttigieg5
-    *   Harris3
-    *   O'Rourke1
-    *   Gabbard2
+*   2020 Democratic Presidential NominationABC News/Wash Post
+    *   Biden29
+    *   Warren18
+    *   Sanders19
+    *   Harris7
+    *   Buttigieg4
+    *   Yang3
     *   Booker1
-    *   Yang1
-    *   Klobuchar0
-    *   Bullock1
-    *   Bennet1Biden +2
-*   Massachusetts Senate - Democratic PrimaryBoston Globe/Suffolk
-    *   Kennedy35
-    *   Markey26
-    *   Pemberton1
-    *   Liss-Riordan1
-    *   Waters0Kennedy +9
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove52Disapprove +6
-*   Texas Democratic PrimaryTexas Lyceum
-    *   Biden24
-    *   O'Rourke18
-    *   Warren15
-    *   Sanders13
-    *   Harris4
-    *   Buttigieg3
-    *   Castro4
-    *   Yang2
-    *   Klobuchar3
+    *   O'Rourke3
+    *   Gabbard2
+    *   Klobuchar2
+    *   Castro0
+    *   de Blasio1
+    *   Steyer1Biden +10
+*   Iowa Democratic Presidential CaucusCBS News/YouGov
+    *   Biden29
+    *   Warren17
+    *   Sanders26
+    *   Harris6
+    *   Buttigieg7
+    *   Klobuchar2
+    *   Steyer2
     *   Booker2
+    *   Yang1
+    *   O'Rourke2
     *   Gabbard1
-    *   Ryan1
-    *   Delaney0Biden +6
+    *   Delaney1
+    *   Castro1Biden +3
+*   New Hampshire Democratic Presidential PrimaryCBS News/YouGov
+    *   Sanders25
+    *   Biden26
+    *   Warren27
+    *   Buttigieg8
+    *   Harris7
+    *   Gabbard1
+    *   Yang1
+    *   Klobuchar1
+    *   Steyer1
+    *   O'Rourke1
+    *   Booker2
+    *   Castro0Warren +1
+*   Nevada Democratic Presidential CaucusCBS News/YouGov
+    *   Biden27
+    *   Sanders29
+    *   Warren18
+    *   Harris6
+    *   Buttigieg4
+    *   Steyer2
+    *   Booker1
+    *   O'Rourke3
+    *   Yang1
+    *   Castro2
+    *   de Blasio1
+    *   Gabbard1
+    *   Ryan1Sanders +2
 
 More Latest Polls In The News
 
+*   CNN's Brian Stelter: Don't Let Trump Distract You With A Sharpie, It Should Be Called "Lying-About-A-Hurricane-Gate"
+*   Wallace Grills Pompeo: "Who Thought It Was a Good Idea" To Host Peace Talks With Taliban Days Before 9/11?
+*   Mark Sanford Announces Primary Challenge Against "King Of Debt" Donald Trump
 *   Christina Hoff Sommers: New Feminism Teaches Women They Need Not Equality But Protection From Men
-*   Napolitano: DOJ Could Investigate Christine Blasey Ford's Attorney For Kavanaugh Remarks, Perjury
-*   Cornel West vs. Michael Meyers: Should Black Student Athletes Ignore Majority White Schools, Go To HBCUs?
-*   Shepard Smith: Trump "Decries Fake News That Isn't And Disseminates Fake News That Is"
-*   Bernie Sanders: Abortion And Population Control Are Important Parts Of Addressing Climate Change
+*   Mollie Hemingway: Bernie's Population Control Plan Affects Black &. Brown People Most, Supports Eugenics
 
 *   Politics
 *   Policy
