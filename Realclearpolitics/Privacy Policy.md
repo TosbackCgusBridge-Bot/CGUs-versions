@@ -113,53 +113,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Andy Puzder_: August Jobs Report Is Very Bad News for Democrats
+*   _Aaron David Miller_: Taliban to Camp David? What Was Trump Thinking?
     
-*   _Sylvan Lane_: Slowing Job Growth Raises 2020 Stakes for Trump
+*   _Harry Kazianis_: Trump Is Using Reagan's Playboook to Defeat China
     
-*   _Michael Brendan Dougherty_: The Aspirational Asceticism of the Progressive Elite
+*   _Ryan Cooper_: A Joe Biden Presidency Would Be a Climate Catastrophe
     
-*   _Jonathan Franzen_: Don't Pretend the Climate Apocalypse Can Be Stopped
+*   _Charles Lipson_: CNN's Climate Debate Hurts the Democrats It Tried to Help
     
-*   _David Byler_: Conservatives Have Already Won the Culture War
+*   _Brad Miller_: Barr’s Long War Against Congressional Oversight
     
-*   _Chad Felix Greene_: LGBT Activists: Brees Promoting the Bible Is Homophobic
+*   _Jerry Dunleavy_: Comey Not Off the Hook in FISA Investigation
     
-*   _James Poniewozik_: The Real Donald Trump Is a Character on TV
+*   _Gabriel DeBenedetti_: Beto O'Rourke Tries on Urgency for Size
     
-*   _Scott Walker_: Is Biden a Liar or an Idiot? It Might Be Both
+*   _Ron Paul_: Government Price-Fixing Will Put Health Care on Life Support
     
-*   _David Ignatius_: China, the Challenge of Our Time
+*   _Robert Reich_: America Is Poised to Bounce Back After the Trump Years
     
-*   _Daniel Sobieski_: Is Chicago a Gun Crime Sanctuary City?
+*   _Jen Kerns_: Trump's Economy Still Delivering to Women and Minorities
     
-*   _Pardo_: Tackle Fentanyl Like a Poisoning Outbreak
+*   _Justin Peters_: Jeffrey Epstein and the Moral Rot of the MIT Media Lab
     
-*   _Keith Naughton_: Where the 2020 Race Stands: Biden's Strange Advantage
+*   _Victor Davis Hanson_: For Dem Establishment, Its Biden or Bust
     
-*   _Michael Goodwin_: Warren Smartly Sneaking Up on Biden From the Left
+*   _Anis Shivani_: Dear Bernie: Here's How You Can Still Win - Before It's Too Late
     
-*   _Matt Ford_: We're Trapped in the Dystopian Aftermath of 9/11
+*   _Frank Miele_: In Media War, It's Trump vs. the Black Knight
     
-*   _Andrew McCarthy_: The Turn Toward a Pre-9/11 Mindset
+*   _Michael Walsh_: 'Trump Trauma' Could Hand the Dems a Victory in 2020
     
-*   _Lili Loofbourow_: Trump Lost #Sharpiegate the Moment He Took It Seriously
+*   _Brian Bennett_: Inside Trump's Plan to Flip Blue States in 2020
     
-*   _Matt Vespa_: Media Embarrasses Itself Again Over Trump's Hurricane Map
+*   _Mark Hemingway_: Trump-Russia &. Clinton-Libya: A Story of 2 Probes &. the FBI
     
-*   _Jemele Hill_: It's Time for Black Athletes to Leave White Colleges
+*   _Gary Younge_: U.S. 'Broken as Hell' Over the Politics of Race &. Class
     
-*   _Steve Klinsky_: As NY Charters Turn 20, Let Good Schools Flourish
+*   _David Marcus_: America's Hidden Racial Harmony
     
-*   _Kate Aronoff_: Democrats Must Go to War With Fossil Fuel Industry
+*   _Rebecca Onion_: How Greta Thunberg Captured Our Attention on Climate
     
-*   _Stephen Moore_: Natural Gas, America's Wonder Fuel
+*   _Miranda Devine_: The Truth About Democrats' Climate Chamber
     
-*   _Libby Watson_: Breitbart News Is the Real Mustering of Digital Jacobins
+*   _Bill Scher_: Why Can't Republicans Deal With Hurricanes?
     
-*   _Andrew Stiles_: What Is the Point of CNN?
+*   _Tom Rogan_: Trump Right to Invite Taliban to Camp David &. Right to Cancel
     
-*   _Alexander Sammon_: The Republican War on the Capital Gains Tax
+*   _Joel Mathis_: Trump Gives Peace a Chance - and Then Bungles It Badly
     
 
 *   Previous
@@ -230,11 +230,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Minnesota Oil Pipeline Fight Highlights Democratic Dilemmas
+*   North Carolina Rally to Be a Test for Trump's Clout, Republicans
+*   Huckabee Sanders: Comey Is Lucky He's Not Already in Prison
 *   Why Was the FBI Incurious About a Hot Collusion Tip?
-*   Defense Chief Esper Cautions Europe to Be Wary of China
-*   Kudlow: Household Survey Shows People Reentering Labor Force
 *   Activists Gird for Kavanaugh Redux, Next Court Fight
-*   "Climate Crisis": The Media's New Catchphrase for Climate Change
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,6 +247,12 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve46
+    *   Disapprove53Disapprove +7
+*   Direction of CountryRasmussen Reports
+    *   Right Direction39
+    *   Wrong Track54Wrong Track +15
 *   2020 Democratic Presidential NominationABC News/Wash Post
     *   Biden29
     *   Warren18
@@ -275,41 +281,14 @@ Latest PollsAll Polls
     *   Gabbard1
     *   Delaney1
     *   Castro1Biden +3
-*   New Hampshire Democratic Presidential PrimaryCBS News/YouGov
-    *   Sanders25
-    *   Biden26
-    *   Warren27
-    *   Buttigieg8
-    *   Harris7
-    *   Gabbard1
-    *   Yang1
-    *   Klobuchar1
-    *   Steyer1
-    *   O'Rourke1
-    *   Booker2
-    *   Castro0Warren +1
-*   Nevada Democratic Presidential CaucusCBS News/YouGov
-    *   Biden27
-    *   Sanders29
-    *   Warren18
-    *   Harris6
-    *   Buttigieg4
-    *   Steyer2
-    *   Booker1
-    *   O'Rourke3
-    *   Yang1
-    *   Castro2
-    *   de Blasio1
-    *   Gabbard1
-    *   Ryan1Sanders +2
 
 More Latest Polls In The News
 
-*   CNN's Brian Stelter: Don't Let Trump Distract You With A Sharpie, It Should Be Called "Lying-About-A-Hurricane-Gate"
+*   Janet Napolitano: Global Warming Has Left Areas "Ripe For The Rise Of Terrorism, Terrorist Recruitment"
+*   Limbaugh: DC Establishment And Media Only Function Peacefully When GOP Agrees To Be The Loser
+*   Jim Jordan: People Want To Know When Someone Is Going To Jail For Trump-Russia Probe Wrongdoing
+*   Mnuchin: Trade War With China Has Not Impacted U.S. Economy, "No Signs Of A Recession"
 *   Wallace Grills Pompeo: "Who Thought It Was a Good Idea" To Host Peace Talks With Taliban Days Before 9/11?
-*   Mark Sanford Announces Primary Challenge Against "King Of Debt" Donald Trump
-*   Christina Hoff Sommers: New Feminism Teaches Women They Need Not Equality But Protection From Men
-*   Mollie Hemingway: Bernie's Population Control Plan Affects Black &. Brown People Most, Supports Eugenics
 
 *   Politics
 *   Policy
