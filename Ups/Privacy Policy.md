@@ -1,8 +1,4 @@
-1/1
-
-*   Hurricane Dorian Impacting Service in Virginia and the Carolinas ...More
-
-Close Skip To Main Content
+Skip To Main Content
 
 *   Log In
 *   Sign Up
