@@ -5,43 +5,46 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   It Chapter Two (2019)
     *   Angel Has Fallen
     *   Good Boys (2019)
     *   The Lion King (2019)
-    *   Fast &. Furious Presents: Hobbs &. Shaw
     *   Overcomer
-    *   Ready or Not
+    *   Fast &. Furious Presents: Hobbs &. Shaw
+    *   The Peanut Butter Falcon
     *   Scary Stories to Tell in the Dark
+    *   Ready or Not
     *   Dora and the Lost City of Gold
-    *   The Angry Birds Movie 2
-    *   Spider-Man: Far From Home (2019)
     *   Once Upon a Time in Hollywood
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   It Chapter Two (2019)
-    *   Blink of an Eye (2019)
-    *   Chhichhore
-    *   Edie
-    *   Linda Ronstadt: The Sound of My Voice
-    *   Ms. Purple
-    *   Ne Zha
-    *   Rapid Response
+    *   The Goldfinch
+    *   Hustlers
+    *   Chasing Einstein
+    *   Depraved
+    *   Desolation Center
+    *   Freaks (2019)
+    *   Imprisoned
+    *   Liam Gallagher: As It Was
+    *   Monos
+    *   Out of Liberty
+    *   Section 375
     *   See All Opening This Week
     
     Coming Soon
     
-    *   The Goldfinch
-    *   Hustlers
     *   Ad Astra
     *   Downton Abbey (2019)
     *   Rambo: Last Blood
     *   Abominable (2019)
-    *   War (2019)
     *   Joker (2019)
     *   The Addams Family (2019)
+    *   Gemini Man
     *   Jexi
+    *   Maleficent: Mistress of Evil
+    *   Zombieland: Double Tap
     *   See All Coming Soon
     
     Explore More
@@ -294,9 +297,9 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   Get your ShowPlace ICON tickets for $9.99 Each
+*   Limited Time 'Hustlers' Offer
     
-    at Boston, Mountain View, and San Jose theaters featuring ICONX Dolby® ATMOS™ and heated recliners! \*Terms apply. BUY TICKETS
+    Take your crew &. get $5 off\* when you use promo code 'HUSTLERS' at checkout. \*Terms apply. BUY TICKETS
     
 *   AMC Stubs® Members Save Big with Discount Tuesdays
     
@@ -306,9 +309,9 @@ Offers
     
     Enter for your chance to win a script of the movie signed by the cast! \*Terms apply. ENTER NOW
     
-*   Earn Double VIP+ Points
+*   FandangoNOW Binge Bundles
     
-    when you purchase tickets to see 'Hustlers' (Yep, every 2 tickets = $5 reward on us!) BUY TICKETS
+    Rent multiple movies for one low price. Starting as low as $1.50 per movie. Many bundles available in stunning 4K Ultra HD. START BINGING
     
 
 New + Coming soon
