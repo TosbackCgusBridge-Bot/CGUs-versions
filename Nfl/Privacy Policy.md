@@ -1,4 +1,6 @@
-*   PIT•0NE172nd ? 02:00
+*   DEN6OAK•143rd • 01:25
+*   HOU0-128NO1-030Final
+*   GB1-010CHI0-13Final
 *   LA1-030CAR0-127Final
 *   TEN1-043CLE0-113Final
 *   KC1-040JAX0-126Final
@@ -11,9 +13,7 @@
 *   DET0-0-127ARI0-0-127Final (OT)
 *   NYG0-117DAL1-035Final
 *   SF1-031TB0-117Final
-*   HOU0-0NO0-0Mon, 7:10 pm ET
-*   DEN0-0OAK0-0Mon, 10:20 pm ET
-*   GB1-010CHI0-13Final
+*   PIT0-13NE1-033Final
 
 *   News
 *   Scores
@@ -38,7 +38,9 @@
 *   NFL Films
 *   Game Pass
 
-*   PIT•0NE172nd ? 02:00
+*   Big Play HighlightR.Freeman 26-yard runWatch NowDEN6OAK•143rd • 01:25
+*   HOU28NO30Final
+*   GB10CHI3Final
 *   LA30CAR27Final
 *   TEN43CLE13Final
 *   KC40JAX26Final
@@ -51,9 +53,7 @@
 *   DET27ARI27Final (OT)
 *   NYG17DAL35Final
 *   SF31TB17Final
-*   HOU0-0NO0-0Mon, 7:10 pm ET
-*   DEN0-0OAK0-0Mon, 10:20 pm ET
-*   GB10CHI3Final
+*   PIT3NE33Final
 
 *   News
 *   Scores
