@@ -365,23 +365,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Google fined $170M for allegedly improper collection of kids' data from YouTube channels
-    *   Bad bid: Malicious actors target government contractors
-    *   Domen toolkit customizes fake web page overlays to bolster infection odds
-    *   Foxit forcing customer password resets after data breach
-    *   Facebook releases more election security changes
-    
-    *   Webcomic XKCD forum user data exposed
-    *   Instagram phishing scam uses fake 2FA code to appear trustworthy
-    *   Facebook releases more election security changes
-    *   Bad bid: Malicious actors target government contractors
-    *   How artificial intelligence is enhancing enterprise security
-    
-    *   Holy cybercrime, Batman! Joker malware commits ad fraud, data theft
-    *   Glupteba malware exploits Bitcoin transactions to keep C2 servers updated
-    *   CirclCI data breach exposed customer GitHub and Bitbucket logins
+    *   Report: Dutch agency recruited Iranian mole to help U.S. and Israel plant Stuxnet virus
+    *   Facebook hosts election security meeting between tech companies, intel officials
     *   Monster.com job applicants info exposed on unprotected server
-    *   Bad bid: Malicious actors target government contractors
+    *   Data breaches expected to cost $5 trillion by 2024
+    *   WordPress update fixes assortment of XSS flaws
+    
+    *   Seven best practices for an effective phishing simulation program
+    *   BRATA malware targeting Brazilian Android devices
+    *   Researcher finds exposed Starbucks subdomain subject to takeover
+    *   Holy cybercrime, Batman! Joker malware commits ad fraud, data theft
+    *   Google expands and adds new bug bounty service
+    
+    *   Metasploit Project publishes exploit for Bluekeep bug
+    *   StealthFalcon backdoor using Windows BITS to hide action
+    *   Wikipedia knocked offline by DDoS attack
+    *   North Carolina Boy Scouts PII compromised
+    *   WordPress update fixes assortment of XSS flaws
 
 Back to Top
 
