@@ -136,9 +136,9 @@ Oodle complies with the US-EU Safe Harbor Framework as set forth by the US Depar
 
 Privacy Complaints from European Union Citizens. in compliance with the Safe Harbor Principles, Oodle commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Oodle at abuse@oodle.com.  
 
-More Questions? If you have any questions about this Privacy Policy or want to report abuse, please contact us at abuse@oodle.com.
+More Questions? If you have any questions about this Privacy Policy or want to report abuse, please contact us at abuse@oodle.com, leave a voicemail at 619 663 5368, or write to us at Oodle Holdings, LLC, 340 S Lemon Ave #3604, Walnut, CA 91789.
 
-Last update August 15, 2015
+Last update Sep 8, 2019
 
 *   About Oodle
 *   Press
