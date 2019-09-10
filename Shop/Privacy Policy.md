@@ -5,7 +5,7 @@ Lenovo Explore Close
     *   Laptops
         
         *   Always Free Shipping
-        *   Earn Rewards on All Purchases
+        *   Easy Returns
         *   Financing Available
         
         *   Explore Laptops
@@ -32,14 +32,14 @@ Lenovo Explore Close
         *   Yoga C930
         *   Chromebook
         
-        Labor Day Savings
+        Laptop Sale
         
-        Enjoy doorbuster prices for a limited time on your favorite Lenovo laptops!
+        Shop special deals on laptops for work, home, school and gaming!
         
     *   Desktops
         
         *   Always Free Shipping
-        *   Earn Rewards on All Purchases
+        *   Easy Returns
         *   Financing Available
         
         *   Explore Desktops
@@ -62,14 +62,14 @@ Lenovo Explore Close
         *   P Series Workstations
         *   IdeaCentre A340
         
-        Labor Day Savings
+        Desktop Sale
         
-        Enjoy doorbuster prices for a limited time on your favorite Lenovo desktops!
+        Shop &. save on our assortments of towers, desktops &. more!
         
     *   Workstations
         
         *   Always Free Shipping
-        *   Earn Rewards on All Purchases
+        *   Easy Returns
         *   Financing Available
         
         *   Explore Workstations
@@ -89,14 +89,14 @@ Lenovo Explore Close
         *   ThinkStation P330 Tiny
         *   ThinkStation P330 Tower
         
-        Labor Day Savings
+        P Series Mobile Workstations
         
-        Enjoy doorbuster prices for a limited time on your favorite Lenovo workstations!
+        ThinkPad’s most powerful 15” mobile workstations. See what’s new.
         
     *   Tablets
         
         *   Always Free Shipping
-        *   Earn Rewards on All Purchases
+        *   Easy Returns
         *   Financing Available
         
         *   Explore Tablets
@@ -115,14 +115,14 @@ Lenovo Explore Close
         
         Take advantage of this multi-purpose tablet!
         
-        Labor Day Savings
+        Tablet Sale
         
-        Enjoy doorbuster prices for a limited time on your favorite Lenovo tablets!
+        Shop today's deals on tablets &. smart home devices!
         
     *   Accessories &. Software
         
         *   Always Free Shipping
-        *   Earn Rewards on All Purchases
+        *   Easy Returns
         *   Financing Available
         
         *   Accessories
@@ -157,7 +157,7 @@ Lenovo Explore Close
     *   Monitors
         
         *   Always Free Shipping
-        *   Earn Rewards on All Purchases
+        *   Easy Returns
         *   Financing Available
         
         *   Explore Monitors
@@ -175,14 +175,14 @@ Lenovo Explore Close
         *   Sale
         *   Monitor Accessories
         
-        Labor Day Savings
+        Monitor Sale
         
-        Enjoy doorbuster prices for a limited time on monitors for home, work and gaming!
+        Shop today's deals on monitors for work, home, gaming &. more!
         
     *   Gaming
         
         *   Always Free Shipping
-        *   Earn Rewards on All Purchases
+        *   Easy Returns
         *   Financing Available
         
         *   Explore Gaming
@@ -206,9 +206,9 @@ Lenovo Explore Close
         *   Oculus Rift S
         *   Playstation 4
         
-        Labor Day Savings
+        Everything Gaming
         
-        Enjoy doorbuster prices for a limited time on gaming systems &. accessories!
+        Shop Gaming / Shop &. save on everything gaming from laptops to consoles &. more!
         
     *   Business
         
@@ -245,7 +245,7 @@ Lenovo Explore Close
     *   Support
         
         *   Always Free Shipping
-        *   Earn Rewards on All Purchases
+        *   Easy Returns
         *   Financing Available
         
         *   Customer Support
@@ -274,7 +274,7 @@ Lenovo Explore Close
     *   Sale
         
         *   Always Free Shipping
-        *   Earn Rewards on All Purchases
+        *   Easy Returns
         *   Financing Available
         
         *   Weekly Laptop Deals
@@ -297,9 +297,9 @@ Lenovo Explore Close
         *   Trade In Program
         *   Outlet
         
-        Labor Day Savings
+        Sale
         
-        CLICK HERE to enjoy doorbuster prices for a limited time!
+        Shop special deals on laptops, desktops, monitors, accessories &. more!
         
 *   Phones
 *   Data Center
@@ -550,7 +550,7 @@ Lenovo Explore Close
 1-855-253-6686
 
 *   Search
-
+*   icon-compare0 Compare Compare (0)
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
@@ -613,7 +613,13 @@ Lenovo Explore Close
 
 Top Suggestions
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
+
+Please add atleast 2 products for compare
+
+Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
+
+Lenovo Privacy Statement Top
 
 protects better"/>.
 
