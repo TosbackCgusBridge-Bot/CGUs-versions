@@ -18,13 +18,13 @@
     *   All mortgage calculators
     
     Get Advice
-    *   Reverse mortgages
+    *   What to know about reverse mortgages
     *   Home buying guide
     *   Refinance your mortgage
     *   First-time homebuyer grants and programs
     *   Prepaying your mortgage
-    *   FHA loans
-    *   VA loans
+    *   Your guide to FHA loans
+    *   Everything to know about VA loans
 *   Banking Compare Accounts
     
     *   CD rates
