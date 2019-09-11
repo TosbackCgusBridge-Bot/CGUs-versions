@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 30% off your order, plus free shipping with no minimum purchase!
+Receive 40% off 1 full-price item!
 
-code: SAVING30 pin: PROMOTION DETAILS
+code: ACORN pin: 2199PROMOTION DETAILS
 
 Customer Service Menu
 
