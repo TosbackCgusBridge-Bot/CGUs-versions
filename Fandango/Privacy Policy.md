@@ -78,7 +78,6 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Explore Content
     *   Movie Reviews
-    *   Summer Movie GUide
     *   Indie Movie Guide
     *   Family Guide
     *   House Of Screams
@@ -299,7 +298,7 @@ Offers
 
 *   Limited Time 'Hustlers' Offer
     
-    Take your crew &. get $5 off\* when you use promo code 'HUSTLERS' at checkout. \*Terms apply. BUY TICKETS
+    Take your crew &. get $5 off\* when you use promo code 'HUSTLERSMOVIE' at checkout. \*Terms apply. BUY TICKETS
     
 *   AMC Stubs® Members Save Big with Discount Tuesdays
     
