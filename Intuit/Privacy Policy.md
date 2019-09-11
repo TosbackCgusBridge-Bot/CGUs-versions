@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsAccessible View
 
-*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
+*   My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -42,13 +42,13 @@ SHOP HOMEUP TO 50% OFFBABY &. TODDLER APPAREL
 *   BABY
 *   TODDLER
 
-SEE IT. SHOP IT. #AllAtJCPMedia CarouselSlide 1 of 4. UP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESHOP ALLSELECT STYLESUP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESELECT STYLESSHOP ALL
+Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 28 total items loaded in Media GalleryFollow @jcpenney UP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESHOP ALLSELECT STYLESUP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESELECT STYLESSHOP ALL
 
 *   $539after couponwas $24 Carter's 2-pc. Short Set Baby BoysAdd To Cart
 *   $1686after couponwas $45 Carter's Toddler Boys Brand Booties Flat Heel(31)Add To Cart
 *   $366after couponwas $14 Carter's Boys Round Neck Short Sleeve Graphic T-Shirt - Baby(22)Add To Cart
-*   $471after couponwas $14 Carter's Boys Round Neck Short Sleeve Graphic T-Shirt - Baby(28)Add To Cart
 *   $419after couponwas $16 Carter's Short Sleeve and Sleeveless Tops-Baby Girls(34)Add To Cart
+*   $471after couponwas $14 Carter's Boys Round Neck Short Sleeve Graphic T-Shirt - Baby(28)Add To Cart
 *   $494after couponwas $22 Carter's Boys Pull-On Short Baby(7)Add To Cart
 *   $629after couponwas $24 Carter's Boys Pull-On Short Baby(12)Add To Cart
 
@@ -57,8 +57,8 @@ Recommended for You
 *   from$1320after coupon on orders $40+JCPenney Home™ Ultima Bath Rug Collection(701)
 *   from$6after coupon on orders $40+JCPenney Home Performance Bath Towel Collection(201)
 *   from$360after coupon on orders $40+Home Expressions Solid or Stripe Bath Towel Collection(302)
-*   from$1484after couponSt. John's Bay® Secretly Slender Straight-Leg Jeans(1765)
 *   from$201after couponwas $6 St. John's Bay Active Quick Dry-Womens V Neck Short Sleeve T-Shirt(97)
+*   from$1484after couponSt. John's Bay® Secretly Slender Straight-Leg Jeans(1765)
 *   from$1814after couponwas $44 Worthington Perfect Trouser(317)
 
 Shop and Save at JCPenney
