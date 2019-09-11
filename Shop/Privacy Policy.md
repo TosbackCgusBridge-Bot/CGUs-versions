@@ -555,7 +555,7 @@ Lenovo Explore Close
     *   Sign In To LenovoPro
     *   Learn more
 *   Contact
-    *   HELP PLACING AN ORDER ${contactNumber}
+    *   HELP PLACING AN ORDER 855-253-6686
     *   BUSINESS ORDER HELP 866-426-0911
     *   EXISTING ORDER HELP 855-253-6686 option #1
     *   Hours Mon-Fri 8AM-9PM ETSat 10AM-6PM ET\*Sun 12PM-5PM ET\*Sales only
@@ -1099,6 +1099,7 @@ Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBel
     *   Where to Buy
     *   Partner Portal
     *   LenovoPro
+    *   MyLenovo Rewards
     *   Financing Options
     *   Trade-In Program
     *   Customer Discounts
