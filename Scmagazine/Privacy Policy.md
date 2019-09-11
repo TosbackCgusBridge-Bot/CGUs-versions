@@ -365,23 +365,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Report: Dutch agency recruited Iranian mole to help U.S. and Israel plant Stuxnet virus
-    *   Facebook hosts election security meeting between tech companies, intel officials
-    *   Monster.com job applicants info exposed on unprotected server
-    *   Data breaches expected to cost $5 trillion by 2024
-    *   WordPress update fixes assortment of XSS flaws
+    *   Two charged with hacking, doxing NJ police officers
+    *   Reports say China devised iPhone malware campaign to track Muslims. Android and Windows devices also targeted
+    *   CirclCI data breach exposed customer GitHub and Bitbucket logins
+    *   Bad bid: Malicious actors target government contractors
+    *   Webcomic XKCD forum user data exposed
     
-    *   Seven best practices for an effective phishing simulation program
-    *   BRATA malware targeting Brazilian Android devices
-    *   Researcher finds exposed Starbucks subdomain subject to takeover
-    *   Holy cybercrime, Batman! Joker malware commits ad fraud, data theft
+    *   Foxit forcing customer password resets after data breach
     *   Google expands and adds new bug bounty service
+    *   Domen toolkit customizes fake web page overlays to bolster infection odds
+    *   Taxpayers stand strong against paying ransoms
+    *   How artificial intelligence is enhancing enterprise security
     
+    *   How to engage continuous oversight in the cloud
     *   Metasploit Project publishes exploit for Bluekeep bug
     *   StealthFalcon backdoor using Windows BITS to hide action
     *   Wikipedia knocked offline by DDoS attack
     *   North Carolina Boy Scouts PII compromised
-    *   WordPress update fixes assortment of XSS flaws
 
 Back to Top
 
