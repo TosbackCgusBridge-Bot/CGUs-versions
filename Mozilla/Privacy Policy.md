@@ -191,6 +191,7 @@ Mozilla Privacy
 *   Firefox Reality
 *   Firefox OS
 *   Firefox Focus
+*   Firefox Private Network
 *   Thunderbird
 
 Websites, Communications &. Cookies Privacy Notice March 15, 2019
