@@ -12,31 +12,31 @@ New Games Next in  xx:xx
 Categories &. more LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1198 games
-*   Most Popular Games 19829 games
+*   Best of new games 1186 games
+*   Most Popular Games 19836 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,370 games
+*   Games for girls 24,373 games
 *   Driving &. Racing Games 6,874 games
 *   Strategy &. RPG Games 2,433 games
 *   Management Games 3,667 games
-*   Thinking Games 12,320 games
-*   Action &. Adventure Games 16,457 games
+*   Thinking Games 12,323 games
+*   Action &. Adventure Games 16,458 games
 *   Sports Games 2,300 games
 *   Shooting Games 8,550 games
 *   Fighting Games 2,112 games
-*   Skill Games 11,573 games
-*   Arcade &. Classic Games 13,461 games
+*   Skill Games 11,579 games
+*   Arcade &. Classic Games 13,462 games
 *   Fun &. Crazy Games 2,576 games
 
 Play with friends  
 Powered by Y8 Account 130 Y8 Multiplayer Games 2,102 Y8 High Score Games 1,171 Y8 Achievements Games 833 Y8 Screenshots Games 1,502 Y8 Online Save Games 3,182 All Y8 Games Games Last Highscore:
 
-**1,921** points on Tunnel Rush by x\_x
+**47,603** points on Punch Boxing Championship by Nazran
 
 Help us improve Bad translation? Social
 
