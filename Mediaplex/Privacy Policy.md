@@ -1,5 +1,3 @@
-Publicis Groupe Completes Acquisition of Epsilon-Conversant
-
 *   Careers
 *   Ad Quality
 *   Login
