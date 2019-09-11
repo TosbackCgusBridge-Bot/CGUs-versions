@@ -1,5 +1,5 @@
-*   DEN6OAK•143rd • 01:25
 *   HOU0-128NO1-030Final
+*   DEN0-116OAK1-024Final
 *   GB1-010CHI0-13Final
 *   LA1-030CAR0-127Final
 *   TEN1-043CLE0-113Final
@@ -38,8 +38,8 @@
 *   NFL Films
 *   Game Pass
 
-*   Big Play HighlightR.Freeman 26-yard runWatch NowDEN6OAK•143rd • 01:25
 *   HOU28NO30Final
+*   DEN16OAK24Final
 *   GB10CHI3Final
 *   LA30CAR27Final
 *   TEN43CLE13Final
