@@ -331,7 +331,7 @@ Last Updated: 05/24/2018
 
 Help &. Info Contact Us Return Policy Shipping &. Handling Gift Cards Our Company Our Story Frequently Asked Questions In the News Careers Our Blog Designer Program Services Pattern Identification Help Find This For Me Restoration and Repair Other Services 1-800-REPLACE | My Account Follow Us 1-800-REPLACE Our Blog Designer Program Terms &. Conditions | Site Map | Privacy Policy © 2019 Replacements, Ltd. All rights reserved. 1089 Knox Road McLeansville, NC 27301, USA <iframe src='//www.googletagmanager.com/ns.html?id=GTM-PR6WVR' height='0' width='0' style='display:none;visibility:hidden'></iframe>. × Search China Dinnerware by Image Take a picture Choose an image or drag it into the box For best results:
 
-*   Photograph a plate
+*   Photograph a plate front
 *   Center the piece
 *   Use a solid background
 
