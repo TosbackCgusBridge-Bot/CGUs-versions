@@ -44,8 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
-*   Machine Learning Operations (MLOps): Deploy at Scale ›
-*   Management of snaps in a controlled, enterprise environment ›
-*   The teleop\_tools arrive in ROS 2 Dashing! ›
-*   Design and Web team summary – 03 September 2019 ›
-*   Building a better TurtleBot3 ›
+*   Machine Learning Operations (MLOps): Deploy at Scale
+*   Management of snaps in a controlled, enterprise environment
+*   The teleop\_tools arrive in ROS 2 Dashing!
+*   Design and Web team summary – 03 September 2019
+*   Building a better TurtleBot3
+
+*    ›
