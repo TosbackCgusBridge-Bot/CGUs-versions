@@ -1,4 +1,4 @@
-50e4cccc-447b-436c-8c86-7464ec1086e4
+f186c5be-f615-49c7-b557-cca898530d74
 
 *   Search Search
 *   Contact Us
@@ -67,8 +67,8 @@ Shop Spectrum +
 *   Spectrum Select
 *   Spectrum Silver
 *   Spectrum Gold
-*   Spectrum Internet
 *   Spectrum TV
+*   Spectrum Internet
 *   Spectrum Voice
 *   Mi Plan Latino
 *   Spectrum Mobile
@@ -85,6 +85,7 @@ Explore Spectrum +
 *   Security Suite
 *   Test Your Internet Speed
 *   Spectrum Contract Buyout
+*   Spectrum Originals
 
 Customer Service +
 
