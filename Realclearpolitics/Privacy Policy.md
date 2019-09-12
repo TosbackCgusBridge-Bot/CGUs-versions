@@ -113,53 +113,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Liz Peek_: Democrats Race Down the Climate Change Rabbit Hole
+*   _Bill Sternberg_: Flight 93, and One of 9/11's Enduring Mysteries
     
-*   _Stanley Greenberg_: The Republican Party Is Doomed
+*   _John Solomon_: 2 Names That Would Give Trump a Top Team After Bolton
     
-*   _Jacobs & Wadhams_: Trump Ousts Bolton After Disagreements on Strategy
+*   _David Rothkopf_: Trump-Bolton Marriage Was Doomed From the Start
     
-*   _Hugh Hewitt_: Playing the 'Long Game' With China
+*   _Becket Adams_: Looks Like CNN Botched Another Major Russia 'Scoop'
     
-*   _Max Sawicky_: How Dems Can Best Compete With Trump on Trade
+*   _Joe Lockhart_: Republicans' Narrow NC Victory Is Bad News for Trump
     
-*   _Rush Limbaugh_: Democrats Will Pay Price for Failed Coup
+*   _Michelle Malkin_: 7 Dem Debate Questions Jorge Ramos Won't Ask
     
-*   _Jonathan Alter_: Why House Democrats Are Right to Impeach Trump
+*   _Elaine Godfrey_: Can Democrats Make 2020 About Guns?
     
-*   _Jim Newell_: What Will the N.C. Special Election Tell Us About 2020?
+*   _Nathan Harden_: How Oberlin's Bias &. Bloat Fueled a $33 Million Blunder
     
-*   _Conrad Black_: The Roots of Brexit
+*   _Michael Roth_: Free Speech Wars Miss the Point of College
     
-*   _Gideon Rachman_: Johnson's UK Is a Test Case for Strongman Politics
+*   _Thomas Friedman_: Huawei Has a Plan to Help End Its War With Trump
     
-*   _Derek Thompson_: Why Are America's Three Biggest Metros Shrinking?
+*   _Jim Treacher_: New York Times: 'Airplanes Took Aim' on 9/11
     
-*   _Matt Stoller_: The Great Break-Up of Big Tech Is Finally Beginning
+*   _Peter Bergen_: How Bolton Got Himself Fired
     
-*   _Ned Ryun_: Tolerating Ourselves to Death With Google and China
+*   _James Carafano_: Why Bolton's Exit Won't Change Trump's Foreign Policy
     
-*   _E.J. Dionne_: Thursday's Democratic Debate Is About Electability
+*   _Alex Ward_: John Bolton Left Because Trump Wouldn't Let Him Start a War
     
-*   _Krystal Ball_: Why the Media Dislike Yang, Gabbard, Sanders &. Williamson
+*   _Crowley &. Jakes_: A President as His Own National Security Adviser
     
-*   _Sen. Rob Portman_: USMCA Is a Needed Upgrade From NAFTA. Get It Passed.
+*   _Kimberly Guilfoyle_: Dems Divide by Race While Trump Expands Economic Pie
     
-*   _James Stavridis_: There's Still a Path Forward With the Taliban
+*   _Karl Smith_: A Stalling Economy Would All But Doom Trump's Re-Election
     
-*   _Colin Dueck_: The End of the Wilsonian Century?
+*   _Joel Kotkin_: Common Sense vs. Climate Change Hysteria
     
-*   _Eden &. Pollack_: Parkland Dad: How District Enabled Deranged Shooter
+*   _Michael Tracey_: Joe Biden's Jumbled Iraq War Revisionism
     
-*   _Dylan Scott_: The 2 Big Health Care Fights Coming Up This Fall
+*   _Goldie Taylor_: Why Rank-and-File Democrats Will Keep Ridin' With Biden
     
-*   _Susan Crabtree_: 'Dark Money'-Fueled Ads Heat Up Maine Senate Battle
+*   _Julie Hollar_: Dem Debates Shouldn't Be in Hands of Corporate Media
     
-*   _Michelle Malkin_: 'Open Borders, Inc: Who's Funding America's Destruction?'
+*   _Charles Hurt_: The Difference Between Trump &. the Fake Politicians
     
-*   _Jill Filipovic_: Donald Trump Craves Chrissy Teigen's Approval
+*   _Frank Bruni_: We Will Never, Ever Be Rid of Donald Trump
     
-*   _Byron York_: Is Military Money Really Propping Up a Trump Resort?
+*   _James Henry_: The Unsung Tale of 9/11's Maritime Rescuers
     
 
 *   Previous
@@ -230,10 +230,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Republicans Hold On to North Carolina's 9th District in Redo Election
+*   Trump Ousts Bolton After Disagreements on Foreign Policy
+*   Gabbard: If Google Can Censor My Campaign, They Can Censor Anyone
 *   "Dark Money"-Fueled Ads Heat Up Maine Senate Battle
-*   Big Tech Faces a New Set of Foes: Nearly All 50 States
-*   Full Replay: Trump Holds 2020 Campaign Rally in Fayetteville, NC
-*   NC Special Election Tests Trump, 2020 Republican Prospects
 *   Why Was the FBI Incurious About a Hot Collusion Tip?
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -247,48 +247,70 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationPolitico/Morning Consult
-    *   Biden33
-    *   Warren16
-    *   Sanders21
-    *   Harris7
-    *   Buttigieg5
-    *   Yang3
-    *   Booker3
-    *   O'Rourke3
+*   2020 Democratic Presidential NominationEconomist/YouGov
+    *   Biden26
+    *   Warren26
+    *   Sanders16
+    *   Harris6
+    *   Buttigieg6
+    *   O'Rourke1
+    *   Booker2
+    *   Yang2
     *   Gabbard1
     *   Klobuchar1
     *   Castro1
-    *   de Blasio1
-    *   Steyer1Biden +12
-*   New Hampshire Democratic Presidential PrimaryEmerson
+    *   Steyer0
+    *   Bennet1Tie
+*   2020 Democratic Presidential NominationCNN
     *   Biden24
-    *   Sanders13
-    *   Warren21
-    *   Buttigieg11
+    *   Warren18
+    *   Sanders17
     *   Harris8
-    *   Gabbard6
-    *   Yang3
-    *   Booker4
+    *   Buttigieg6
+    *   O'Rourke5
+    *   Booker2
+    *   Yang2
+    *   Gabbard2
     *   Klobuchar1
+    *   Castro1
     *   Steyer1
-    *   Delaney3
-    *   O'Rourke1
-    *   Williamson1Biden +3
-*   New Hampshire: Trump vs. BidenEmerson
-    *   Biden55
-    *   Trump45Biden +10
-*   New Hampshire: Trump vs. SandersEmerson
-    *   Sanders53
-    *   Trump48Sanders +5
+    *   Bennet1Biden +6
+*   2020 Democratic Presidential NominationReuters/Ipsos
+    *   Biden22
+    *   Warren11
+    *   Sanders16
+    *   Harris4
+    *   Buttigieg4
+    *   O'Rourke2
+    *   Booker3
+    *   Yang3
+    *   Gabbard1
+    *   Klobuchar1
+    *   Castro1
+    *   Steyer1
+    *   Bennet0Biden +6
+*   New Hampshire Democratic Presidential PrimaryBoston Herald/FPU
+    *   Biden21
+    *   Sanders29
+    *   Warren17
+    *   Buttigieg5
+    *   Harris6
+    *   Gabbard3
+    *   Yang5
+    *   Booker1
+    *   Klobuchar1
+    *   Steyer0
+    *   O'Rourke2
+    *   Delaney
+    *   Castro1Sanders +8
 
 More Latest Polls In The News
 
+*   Fmr. ICE Acting Director Homan to AOC: I've Never Seen Such Hate Toward A Law Enforcement Agency
+*   Victim's Son Blasts Omar At 9/11 Ceremony: "Some People Did Something?" "Why Your Confusion?"
+*   Trump: "Mr. Tough Guy" John Bolton Made "Some Very Big Mistakes," Wasn't Getting Along With People
+*   CNN Reports: Since 9/11, Right Wing Terrorists Have Killed More People In U.S. Than Jihadist Terrorists
 *   Gabbard: If Google Can Censor A Member Of Congress Running For Pres, They Can Censor Anyone
-*   Warren: Under Trump, We Have A Secretary Of Defense Who Spent Seven Years As Head Lobbyist For Raytheon
-*   Meghan McCain vs. Pam Anderson: Snowden And Assange Are "Heroes," How Many Has U.S. Killed?
-*   Teen Climate Activist Greta Thunberg: Shame "Those Who Need Shaming," Get "Out Of Your Comfort Zone"
-*   Marianne Williamson on "FOX &. Friends": The System Is Even More Corrupt Than I Knew
 
 *   Politics
 *   Policy
