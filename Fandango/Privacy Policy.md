@@ -72,9 +72,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: ‘Scary Stories to Tell in the Dark’ Easter Eggs, Characters Margot Robbie Almost Played and More Read More
-    *   The Week in Movie News: Guillermo del Toro Casts Cate Blanchett for Next Project, First ‘1917’ Trailer and More Read More
-    *   Next 3 Major Horror Movies: 'It Chapter Two,' 'Doctor Sleep,' 'Black Christmas' Read More
+    *   Today in Movie Culture: ‘It Chapter Two’ Easter Eggs, the Sequel’s Changes From Stephen King’s Novel and More Read More
+    *   The Week in Movie News: ‘Tomb Raider 2’ in the Works, First ‘Bad Boys for Life’ Trailer and More Read More
+    *   Next 3 Major Movie Chapters: 'Terminator: Dark Fate,' 'Doctor Sleep,' 'The Invisible Man' Read More
     
     Explore Content
     *   Movie Reviews
