@@ -11,7 +11,7 @@ Toggle navigation {{ user.display\_name }}
 *   Contact
 *   Log out
 
-**Advertise** **Log in** Sign up
+**Advertise** **Log in** Sign up Your news and your neighbors, together.
 
 *   Home Log in
 
