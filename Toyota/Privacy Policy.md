@@ -290,9 +290,17 @@ Compare Toyota vs. the Competition
 
 *   Toyota Tacoma vs. Ford Ranger  
     
+*   Toyota Tacoma vs. GMC Canyon  
+    
+*   Toyota Tacoma vs. Chevy Colorado  
+    
+*   Toyota Tacoma vs. Honda Ridgeline  
+    
 *   Toyota Corolla vs. Honda Civic  
     
 *   Toyota Camry vs. Honda Accord  
+    
+*   Toyota Camry vs. Nissan Altima  
     
 *   Toyota Prius vs. Kia Niro  
     
@@ -309,6 +317,14 @@ Compare Toyota vs. the Competition
 *   Toyota 4Runner vs. Jeep Grand Cherokee  
     
 *   Toyota Tundra vs. Chevrolet Silverado  
+    
+*   Toyota RAV4 vs. Honda CR-V  
+    
+*   Toyota RAV4 vs. Subaru Forester  
+    
+*   Toyota RAV4 vs. Nissan Rogue  
+    
+*   Toyota Avalon vs. Buick LaCrosse  
     
 *   Compare Vehicles  
     
