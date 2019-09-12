@@ -9,163 +9,152 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
-    *   SPANX
-    *   Sam Edelman
-    *   Top It Off for Fall: Must-Have Coats &. Jackets
+    *   Lafayette 148 New York Incl. Plus &. Petites
+    *   UGG Bandara Knee-High Boots at $139.97
+    *   London Times &. Maggy London Incl. Plus and Petites
+    *   Splendid Up to 70% Off
+    *   Sweet Styles: Sugarlips &. More
+    *   The Third Piece: Blazers, Vests &. More
+    *   KORKS Up to 50% Off
+    *   Maaji Active Up to 55% Off
+    *   Fine Jewelry ft. EF Collection Up to 55% Off
+    *   Sleep &. Lingerie ft. French Connection
+    *   Brooks Brothers Sportswear
+    *   Brooks Brothers Suiting &. More
+    *   Suzy Levian Jewelry
+    *   Further Food Supplements
+    *   Work Ready: Men's Dress Shoes Up to 60% Off
+    *   Joe-Ella Up to 70% Off
+    *   On-Trend Boys' Outerwear Up to 65% Off
+    *   On-Trend Girls' Outerwear Up to 65% Off
     *   Le Creuset Up to 30% Off
+    
     *   Get Yours Now: bObsweep at 70% Off
+    *   Free Shipping: Storage Faves Up to 50% Off
+    *   Freshen Up Your Space: Candles &. More
+    *   Clarks Men
+    *   philosophy Starting at $15
+    *   SPANX
     *   World of Lacoste: Bedding, Bath &. Decor
+    *   Sam Edelman
     *   Sam Edelman Handbags Up to 50% Off
     *   Show Me Your Mumu Up to 65% Off
-    *   Sam Edelman Clothing &. Coats
     *   Handcrafted in Spain: UNOde50 Jewelry
     *   bebe Sport Under $30
     *   Men's Sneakers ft. Mizuno
-    *   Dress for It: Styles for Every Occasion
-    *   philosophy Starting at $15
-    *   Men's Dress Shirts Under $35
     *   Skechers Kids
     *   Jessica Simpson Girls
+    *   Men's Dress Shirts Under $35
     *   World of Boconi: Bags, Belts &. More
     *   True Religion Up to 65% Off
     *   True Religion Kids Up to 60% Off
     
     *   True Religion Men Up to 65% Off
-    *   LOVE Moschino
-    *   Desk-to-Dinner Coat Styles ft. Fleurette Incl. Plus
-    *   New on HauteLook: UGG Women's Clothing
-    *   Date Night Dresses: Love by Design &. More
-    *   Lucky Brand Shoes Up to 55% Off
-    *   Date Night Done Right: OOBERSWANK
     *   GEOX Kids
     *   Dogeared Jewelry Up to 55% Off
     *   skinChemists Up to 80% Off
-    *   Pretty on the Fly: Luggage Up to 70% Off
-    *   Crocs for Her Under $35
-    *   Sneakers &. More ft. Ash &. Vintage Havana
     *   Maceoo Up to 65% Off
     *   Crevo
     *   Free Shipping: Hand-Painted Replicas
-    *   Sun Under $60 ft. Longchamp &. More
-    *   NFL Kickoff: Tees, Hats &. More from $13
-    *   Sandals, Boots &. More Up to 70% Off
-    *   Free Shipping: On-Trend Jewelry Up to 60% Off
-    
     *   Men's Shoe Steals Up to 65% Off
     *   Free Shipping: Sheet Sets Blowout
-    *   Converse Up to 55% Off
-    *   Converse Men Up to 55% Off
-    *   Converse Kids Under $45
-    *   Gevril Watches Up to 85% Off
     *   Fragrance for Him ft. BOSS, Creed &. More
-    *   Converse Kids' Clothing Starting at $11
-    *   Graphic Tees Under $20
-    *   Oh, Baby: Little Me &. More
-    *   Free Shipping: Pop Art Pillows from $25
-    *   English Laundry Up to 70% Off
-    *   Free Shipping: Christopher Knight Bedding &. More
-    *   Skin Care Must-Haves from $10
+    *   Sam Edelman Clothing &. Coats
+    *   Dress for It: Styles for Every Occasion
     *   Free Shipping: Faux Plants &. Planters
+    *   Pretty on the Fly: Luggage Up to 70% Off
+    *   Free Shipping: Pop Art Pillows from $25
+    *   Free Shipping: Christopher Knight Bedding &. More
     *   So Fetch: Pet Toys, Bowls, Decor &. Beds
-    *   Add to Your Fall Mix: Tops Under $30
-    *   Luxe Sweaters from Naadam &. More
-    *   Designer Dress Labels We Love
     *   Free Shipping: Decor for Your Home from $20
 *   WomenShop Sale Events
     
+    *   Lafayette 148 New York Incl. Plus &. Petites
+    *   UGG Bandara Knee-High Boots at $139.97
+    *   London Times &. Maggy London Incl. Plus and Petites
+    *   Splendid Up to 70% Off
+    *   Sweet Styles: Sugarlips &. More
+    *   The Third Piece: Blazers, Vests &. More
+    *   KORKS Up to 50% Off
+    *   Maaji Active Up to 55% Off
+    *   Fine Jewelry ft. EF Collection Up to 55% Off
+    *   Sleep &. Lingerie ft. French Connection
+    *   Suzy Levian Jewelry
+    *   Further Food Supplements
+    *   philosophy Starting at $15
+    
     *   SPANX
     *   Sam Edelman
-    *   Top It Off for Fall: Must-Have Coats &. Jackets
     *   Sam Edelman Handbags Up to 50% Off
     *   Show Me Your Mumu Up to 65% Off
-    *   Sam Edelman Clothing &. Coats
     *   Handcrafted in Spain: UNOde50 Jewelry
     *   bebe Sport Under $30
-    *   Dress for It: Styles for Every Occasion
-    *   philosophy Starting at $15
     *   True Religion Up to 65% Off
-    *   LOVE Moschino
-    *   Desk-to-Dinner Coat Styles ft. Fleurette Incl. Plus
-    *   New on HauteLook: UGG Women's Clothing
-    *   Date Night Dresses: Love by Design &. More
-    *   Lucky Brand Shoes Up to 55% Off
-    
-    *   Date Night Done Right: OOBERSWANK
     *   Dogeared Jewelry Up to 55% Off
     *   skinChemists Up to 80% Off
-    *   Pretty on the Fly: Luggage Up to 70% Off
-    *   Crocs for Her Under $35
-    *   Sneakers &. More ft. Ash &. Vintage Havana
-    *   Sun Under $60 ft. Longchamp &. More
-    *   Sandals, Boots &. More Up to 70% Off
-    *   Free Shipping: On-Trend Jewelry Up to 60% Off
-    *   Converse Up to 55% Off
-    *   Gevril Watches Up to 85% Off
     *   Fragrance for Him ft. BOSS, Creed &. More
-    *   Skin Care Must-Haves from $10
-    *   Add to Your Fall Mix: Tops Under $30
-    *   Luxe Sweaters from Naadam &. More
-    *   Designer Dress Labels We Love
+    *   Sam Edelman Clothing &. Coats
+    *   Dress for It: Styles for Every Occasion
+    *   Pretty on the Fly: Luggage Up to 70% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Handbags
     *   Lingerie
-    *   Accessories
-    *   Watches
+    *   Handbags
 *   MenShop Sale Events
     
+    *   Brooks Brothers Sportswear
+    *   Brooks Brothers Suiting &. More
+    *   Work Ready: Men's Dress Shoes Up to 60% Off
+    *   Clarks Men
     *   Men's Sneakers ft. Mizuno
     *   Men's Dress Shirts Under $35
+    
     *   World of Boconi: Bags, Belts &. More
     *   True Religion Men Up to 65% Off
     *   Maceoo Up to 65% Off
     *   Crevo
-    *   NFL Kickoff: Tees, Hats &. More from $13
-    
     *   Men's Shoe Steals Up to 65% Off
-    *   Converse Men Up to 55% Off
-    *   Gevril Watches Up to 85% Off
     *   Fragrance for Him ft. BOSS, Creed &. More
-    *   Graphic Tees Under $20
-    *   English Laundry Up to 70% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
+    *   Joe-Ella Up to 70% Off
+    *   On-Trend Boys' Outerwear Up to 65% Off
+    *   On-Trend Girls' Outerwear Up to 65% Off
     *   Skechers Kids
     *   Jessica Simpson Girls
     *   True Religion Kids Up to 60% Off
     *   GEOX Kids
-    *   Converse Kids Under $45
-    *   Converse Kids' Clothing Starting at $11
-    *   Oh, Baby: Little Me &. More
     
     Shop By Category
-    *   Boys' Shoes
-    *   Girls' Shoes
-    *   Baby Girl
-    *   Baby Boy
-    *   Girls' Sizes 7-16
     *   Girls' Sizes 2T-6X
+    *   Girls' Shoes
+    *   Boys' Shoes
+    *   Baby Girl
+    *   Girls' Sizes 7-16
     *   Boys' Sizes 2T-7
     *   Boys' Sizes 8-20
+    *   Baby Boy
 *   HomeShop Sale Events
     
     *   Le Creuset Up to 30% Off
     *   Get Yours Now: bObsweep at 70% Off
+    *   Free Shipping: Storage Faves Up to 50% Off
+    *   Freshen Up Your Space: Candles &. More
     *   World of Lacoste: Bedding, Bath &. Decor
     *   Free Shipping: Hand-Painted Replicas
+    
     *   Free Shipping: Sheet Sets Blowout
+    *   Free Shipping: Faux Plants &. Planters
     *   Free Shipping: Pop Art Pillows from $25
     *   Free Shipping: Christopher Knight Bedding &. More
-    *   Free Shipping: Faux Plants &. Planters
     *   So Fetch: Pet Toys, Bowls, Decor &. Beds
     *   Free Shipping: Decor for Your Home from $20
     
@@ -174,16 +163,17 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Bedding
     *   Luggage &. Travel
     *   Kitchen &. Tabletop
-    *   Pet Accessories
     *   Cleaning &. Organization
+    *   Pet Accessories
+    *   Bath
     *   Electronic &. Tech Accessories
     *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Further Food Supplements
     *   philosophy Starting at $15
     *   skinChemists Up to 80% Off
     *   Fragrance for Him ft. BOSS, Creed &. More
-    *   Skin Care Must-Haves from $10
     
     Shop By Category
     *   Skin Care
