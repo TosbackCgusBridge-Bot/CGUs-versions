@@ -1,26 +1,25 @@
-*   HOU0-128NO1-030Final
-*   DEN0-116OAK1-024Final
-*   GB1-010CHI0-13Final
-*   LA1-030CAR0-127Final
-*   TEN1-043CLE0-113Final
-*   KC1-040JAX0-126Final
-*   BAL1-059MIA0-110Final
-*   ATL0-112MIN1-028Final
-*   BUF1-017NYJ0-116Final
-*   WAS0-127PHI1-032Final
-*   IND0-124LAC1-030Final (OT)
-*   CIN0-120SEA1-021Final
-*   DET0-0-127ARI0-0-127Final (OT)
-*   NYG0-117DAL1-035Final
-*   SF1-031TB0-117Final
-*   PIT0-13NE1-033Final
+*   TB0-1CAR0-1Thu, 8:20 pm ET
+*   ARI0-0-1BAL1-0Sun, 1:00 pm ET
+*   SF1-0CIN0-1Sun, 1:00 pm ET
+*   LAC1-0DET0-0-1Sun, 1:00 pm ET
+*   MIN1-0GB1-0Sun, 1:00 pm ET
+*   JAX0-1HOU0-1Sun, 1:00 pm ET
+*   NE1-0MIA0-1Sun, 1:00 pm ET
+*   BUF1-0NYG0-1Sun, 1:00 pm ET
+*   SEA1-0PIT0-1Sun, 1:00 pm ET
+*   IND0-1TEN1-0Sun, 1:00 pm ET
+*   DAL1-0WAS0-1Sun, 1:00 pm ET
+*   KC1-0OAK1-0Sun, 4:05 pm ET
+*   CHI0-1DEN0-1Sun, 4:25 pm ET
+*   NO1-0LA1-0Sun, 4:25 pm ET
+*   PHI1-0ATL0-1Sun, 8:20 pm ET
+*   CLE0-1NYJ0-1Mon, 8:15 pm ET
 
 *   News
 *   Scores
 *   Schedule
 *   Standings
 *   Highlights
-*   KICKOFF
 *   NFL 100
 *   Fantasy
 *   Tickets
@@ -38,29 +37,28 @@
 *   NFL Films
 *   Game Pass
 
-*   HOU28NO30Final
-*   DEN16OAK24Final
-*   GB10CHI3Final
-*   LA30CAR27Final
-*   TEN43CLE13Final
-*   KC40JAX26Final
-*   BAL59MIA10Final
-*   ATL12MIN28Final
-*   BUF17NYJ16Final
-*   WAS27PHI32Final
-*   IND24LAC30Final (OT)
-*   CIN20SEA21Final
-*   DET27ARI27Final (OT)
-*   NYG17DAL35Final
-*   SF31TB17Final
-*   PIT3NE33Final
+*   TB0-1CAR0-1Thu, 8:20 pm ET
+*   ARI0-0-1BAL1-0Sun, 1:00 pm ET
+*   SF1-0CIN0-1Sun, 1:00 pm ET
+*   LAC1-0DET0-0-1Sun, 1:00 pm ET
+*   MIN1-0GB1-0Sun, 1:00 pm ET
+*   JAX0-1HOU0-1Sun, 1:00 pm ET
+*   NE1-0MIA0-1Sun, 1:00 pm ET
+*   BUF1-0NYG0-1Sun, 1:00 pm ET
+*   SEA1-0PIT0-1Sun, 1:00 pm ET
+*   IND0-1TEN1-0Sun, 1:00 pm ET
+*   DAL1-0WAS0-1Sun, 1:00 pm ET
+*   KC1-0OAK1-0Sun, 4:05 pm ET
+*   CHI0-1DEN0-1Sun, 4:25 pm ET
+*   NO1-0LA1-0Sun, 4:25 pm ET
+*   PHI1-0ATL0-1Sun, 8:20 pm ET
+*   CLE0-1NYJ0-1Mon, 8:15 pm ET
 
 *   News
 *   Scores
 *   Schedule
 *   Standings
 *   Highlights
-*   KICKOFF
 *   NFL 100
 
 *   NFL 100
