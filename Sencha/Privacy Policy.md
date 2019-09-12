@@ -1,3 +1,5 @@
+Cookie PolicySencha uses cookies (required, functionality, and advertising cookies) to improve user experience. By using our website you consent to all cookies in accordance with our Cookie policyNo, thanksYes, I consent IDERA, Inc.About Idera, Inc.Developer ToolsDatabase ToolsTesting Tools US: 1 (800) 212-2802
+
 Sencha.com
 
 *   Buy Now
@@ -21,7 +23,10 @@ Sencha.com
         *   Sencha Stencils
     *   Plugins
         *   IDE and Code Editor Plugins
-    
+    *   New! Ext JS Community Edition  
+        
+        JavaScript framework that enables developers to build web apps for any modern device. _Learn more_
+        
 *   Services
     *   Services
         *   Professional Services
@@ -35,6 +40,11 @@ Sencha.com
         *   Ext JS for Open Source
         *   Ext JS for OEM
     *   Why Develop with Sencha?
+        
+        Sencha is a leader in the web application development space with over 400 man-years of expertise in modern web technologies including ES6, HTML5, JavaScript, and CSS.
+        
+        Our products enable enterprises to rapidly design, develop, and test web applications across any modern device. Our enterprise-class Java and JavaScript frameworks leverage progressive modern standards to deliver data-rich applications for desktops, smartphones, and tablets. They provide developers with 140+ professionally built and supported JavaScript components, including top-notch grids, delivering unmatched productivity. Our testing solutions seamlessly support these tool-sets to significantly accelerate multi-platform development lifecycles.
+        
 *   Resources
     *   Resources
         *   Resource Center
@@ -48,7 +58,7 @@ Sencha.com
 *   SenchaDevs
 *   Search
 
-Sencha Home / Sencha Licensing / Privacy PolicyPrivacy Policy _Originally Published on January 24, 2004 | Modified and Effective on April 1, 2019_
+Sencha Home / Sencha Licensing / Privacy Policy_Originally Published on January 24, 2004 | Modified and Effective on April 1, 2019_
 
 Idera Inc., together with its United States subsidiaries, Assembla, Inc., AquaFold, Inc., CodeGear LLC, Embarcadero Technologies, Inc., Lansa, Inc., Precise Software Solutions, Inc., Ranorex, Inc., Sencha, Inc., Travis CI Corporation, Uptime Software, Inc., Webyog, Inc. and Whole Tomato Software, LLC (collectively, the “Company”), is committed to respecting and protecting the privacy of our customers, partners, webinars attendees and website visitors. Specifically, we do not sell, rent or trade email lists with other companies for marketing purposes. In this Privacy Statement we describe the Company’s privacy practices in relation to the use of the Company’s Websites (as defined below) and the related applications, services, products and programs offered by the Company (collectively, “Services”), as well as individuals’ choices regarding use, access and correction of personal information.
 
@@ -315,6 +325,6 @@ info@sencha.com
     You can always update your communications preferences later.  
       
     Sencha, Inc. may share your information with its parent company, Idera, Inc., its affiliates globally and its partners. For further details on how your data is used and stored, please review our Sencha Privacy Policy.
-*   EmailThis field is for validation purposes and should be left unchanged.
+*   NameThis field is for validation purposes and should be left unchanged.
 
 This iframe contains the logic required to handle Ajax powered Gravity Forms. <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K6P32Q9" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1882987898627194&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=52303&amp;fmt=gif">.
