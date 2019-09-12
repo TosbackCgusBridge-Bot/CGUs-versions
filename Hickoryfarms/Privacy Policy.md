@@ -1,5 +1,3 @@
-close dialogEnd of Summer Clearance!Save up to 65% on select giftsShop SaleView Cartclose dialog
-
 *   Gifts
     
     View All Categories Shop by Category*   Gift Boxes
@@ -222,4 +220,4 @@ Find A Store
 
 *   Find A Store
 
-© 2019 All Rights Reserved. Privacy Policy Terms Of Use Site Map Play IconFeedback close dialogEnd of Summer Clearance!Save up to 65% on select giftsShop SaleView Cartclose dialog
+© 2019 All Rights Reserved. Privacy Policy Terms Of Use Site Map Play IconFeedback
