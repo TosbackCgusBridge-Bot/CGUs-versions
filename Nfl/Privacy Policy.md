@@ -1,4 +1,4 @@
-*   TB0-1CAR0-1Thu, 8:20 pm ET
+*   TB1-120CAR0-214Final
 *   ARI0-0-1BAL1-0Sun, 1:00 pm ET
 *   SF1-0CIN0-1Sun, 1:00 pm ET
 *   LAC1-0DET0-0-1Sun, 1:00 pm ET
@@ -37,7 +37,7 @@
 *   NFL Films
 *   Game Pass
 
-*   TB0-1CAR0-1Thu, 8:20 pm ET
+*   TB20CAR14Final
 *   ARI0-0-1BAL1-0Sun, 1:00 pm ET
 *   SF1-0CIN0-1Sun, 1:00 pm ET
 *   LAC1-0DET0-0-1Sun, 1:00 pm ET
