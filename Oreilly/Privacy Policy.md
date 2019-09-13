@@ -18,7 +18,13 @@
         *   Strata Data Conference
         *   TensorFlow World
         *   Velocity Conference
-    *   Ideas
+    *   Radar
+        *   AI/ML
+        *   Future of the Firm
+        *   Innovation &. Disruption
+        *   Next Architecture
+        *   Next Economy
+        *   All Articles
     *   Our Approach
 
 Privacy Policy
