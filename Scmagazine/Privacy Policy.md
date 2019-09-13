@@ -365,23 +365,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   StealthFalcon backdoor using Windows BITS to hide action
-    *   Google expands and adds new bug bounty service
     *   419 million Facebook users info exposed, phone numbers and unique IDs
-    *   Foxit forcing customer password resets after data breach
-    *   Half a million Teletext Holidays files unsecured
+    *   Holy cybercrime, Batman! Joker malware commits ad fraud, data theft
+    *   Ransomware attack on Premier Family Medical reportedly impacts records of 320K patients
+    *   Intel releases medium and low-rated security advisories
+    *   Fin7 operator pleads guilty to two counts
     
-    *   Flight booking site Option Way exposed personal info on customers
-    *   Half a million Teletext Holidays files unsecured
-    *   SC Media’s 30th anniversary Q&A with Digital Shadow's Becky Pinkard
-    *   Millions of Android phones vulnerable to phishing attacks
-    *   Flaws in Imperial, Dabman web radios could lead to full compromise
+    *   What’s in your cloud?
+    *   Facebook hosts election security meeting between tech companies, intel officials
+    *   Google fined $170M for allegedly improper collection of kids' data from YouTube channels
+    *   Apps vulnerable to SQL injection by way of virtual assistant verbal commands
+    *   Fin7 operator pleads guilty to two counts
     
+    *   Maryland gov't promises funds for Baltimore surveillance initiative
+    *   Fin7 operator pleads guilty to two counts
+    *   M&A gone bad: The brutal truths about insider threat
     *   Authorities arrest 281 alleged BEC scammers in 'Operation reWired' campaign
     *   Bitcoin’s Lightning Network vulnerabilities spotted in the wild
-    *   SC Media’s 30th anniversary Q&A with Digital Shadow's Becky Pinkard
-    *   Intel releases medium and low-rated security advisories
-    *   Ransomware attack on Premier Family Medical reportedly impacts records of 320K patients
 
 Back to Top
 
