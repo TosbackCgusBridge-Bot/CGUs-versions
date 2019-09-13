@@ -6,6 +6,7 @@ Shop Departments
 
 *   Same Day Pickup
 *   Weekly Ad
+*   Fall Fashion
 *   Deals
     *   Special Deals
     *   Deals Under $10
@@ -20,46 +21,94 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackFinal Hours Of COUPON CODE YOUSAVE9ENDS IN00HOURS 41MINS 13SECS See Details\*60% off $100 or more select original &. regular-priced apparel, accessories, fine &. fashion jewelry &. home Excluded Categories: Juniors’ prom dresses, swimwear, shoes, handbags, window coverings, kitchen and dining, luggage, furniture, mattresses Excluded Brand: Liz Claiborne See additional exclusions below. \*40% off $40 or more select original &. regular-priced apparel, shoes, accessories, fine &. fashion jewelry &. home \*25% off select original &. regular-priced apparel (Haggar, Lee, Gloria Vanderbilt, intimate apparel &. women’s dresses). accessories (belts &. wallets). fine &. fashion jewelry (watches). home (Stearns &. Foster, Handy Living, Fiesta, small electrics, storage and organization, bath accessories, fitness equipment &. accessories, floor care). shoes (men's shoes, kids' shoes, Andrew Geller, Clarks, Easy Spirit). salon products \*EXTRA 25% off select SALE- &. CLEARANCE-priced apparel, shoes, accessories, fine &. fashion jewelry &. home \*EXTRA 10% off select SALE- &. CLEARANCE- priced furniture, mattresses, small electrics &. floor care OFFER DISCLAIMER &. EXCLUSIONS: \*Each offer good at jcp.com only, excluding taxes and shipping charges, 9/9/19-9/11/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Excluded Categories: Athletic Shoes, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Branded Athletic Apparel, Electronics, Food, Home Décor, In-Home Custom Design, Licensed Team Sports Merchandise, Men’s Underwear and Socks, Select National Brand Shoes, Penney Lane, Personalized Jewelry, Pet Care, Smart Home, Smartwatches, Sporting Goods &. Outdoor Gear, Toys, Travel Accessories, Wigs &. Extensions, Workwear &. Scrubs Excluded Brands: adidas, Alfred Dunner, As Seen On TV, Carhartt, Citizen Quartz, City Streets, Columbia, Champion, Converse, Crocs, Denizen from Levi's, Disney Collection, Disney Tsum Tsum, Dockers Apparel, Dreamgirl, Fisher-Price, Fitbit, Flexus, Garmin, Goddess Lingerie, Hunter Douglas, iRobot, Jezebel, Journee Collection, Levi’s, Modern Bride Design Your Dream Ring, Neato Robotics, Nike, Nursemates, Propet, Puma, Reebok, Sephora, Skechers Women's Shoes, Smoky Mountain, Spring Step, Tempur-Pedic, Tervis, Tracee Ellis Ross Additionally, original and regular-priced offers do not apply to BOGOs, 2 Or More, sale or clearance-priced items. all offers do not apply to Best Value, Daily Deals, Limited Time Specials, Purchase with Purchase items, Service Plans, Gift Cards, current orders and prior purchases, or in combination with other coupon(s). Can be combined with earned JCPenney Rewards. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code YOUSAVE9 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. Details60% OFF $100+ WITH CODEselect styles
+Near YouFind a StoreBack  select styles
 
-*   SHOP HOME
+*   SHOP MEN
 
-*   Bedding
+*   SUIT SEPARATES
     
-*   Sheets
+*   SPORT COATS
     
-*   Bath
+*   DRESS SHIRTS
     
-*   Pillows
+*   BIG &. TALL
     
-*   Comforters
+*   SHOES
     
-*   Mattress pads
+*   PANTS
     
 
-SHOP HOMEUP TO 50% OFFBABY &. TODDLER APPAREL
+SHOP MEN$24.99 A.N.A JEANSselect styles | reg. $49
+
+*   WOMEN
+*   PETITES
+
+50% OFF MEN'S JEANSselect styles I New season, new jeans. The brand &. quality that always have your back.
+
+*   SHOP ALL
+
+UP TO 50% OFF HOME SALEselect styles
+
+*   SHOP ALL
+
+*   SHEETS
+    
+*   WINDOW
+    
+*   BATH
+    
+*   SMALL APPLIANCES
+    
+*   COOKWARE
+    
+*   HOME DECOR
+    
+*   BEDDING
+    
+
+SHOP ALLUP TO 50% OFF BABY &. TODDLER APPARELselect styles
 
 *   BABY
 *   TODDLER
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 28 total items loaded in Media GalleryFollow @jcpenney UP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESHOP ALLSELECT STYLESUP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESELECT STYLESSHOP ALL
 
-*   $539after couponwas $24 Carter's 2-pc. Short Set Baby BoysAdd To Cart
-*   $366after couponwas $14 Carter's Boys Round Neck Short Sleeve Graphic T-Shirt - Baby(22)Add To Cart
-*   $419after couponwas $16 Carter's Short Sleeve and Sleeveless Tops-Baby Girls(34)Add To Cart
-*   $494after couponwas $22 Carter's Boys Pull-On Short Baby(7)Add To Cart
-*   $629after couponwas $24 Carter's Boys Pull-On Short Baby(12)Add To Cart
-*   $629after couponwas $24 Carter's Boys Pull-On Short Baby(12)Add To Cart
-*   $524after couponwas $20 Carter's Girls Jumpsuit - Baby(112)Add To Cart
+*   $719 clearance
+    
+    was $24 Carter's 2-pc. Short Set Baby BoysAdd To Cart
+*   $489 clearance
+    
+    was $14 Carter's Boys Round Neck Short Sleeve Graphic T-Shirt - Baby(22)Add To Cart
+*   $559 clearance
+    
+    was $16 Carter's Short Sleeve and Sleeveless Tops-Baby Girls(34)Add To Cart
+*   $839 clearance
+    
+    was $24 Carter's Boys Pull-On Short Baby(12)Add To Cart
+*   $839 clearance
+    
+    was $24 Carter's Boys Pull-On Short Baby(12)Add To Cart
+*   $559 clearance
+    
+    was $16 Carter's Girls Round Neck Short Sleeve Graphic T-Shirt - Baby(7)Add To Cart
+*   $559 clearance
+    
+    was $16 Carter's Girls Round Neck Short Sleeve Graphic T-Shirt - Baby(40)Add To Cart
 
 Recommended for You
 
-*   $1320 - $54after coupon on orders $40+JCPenney Home™ Ultima Bath Rug Collection(701)
-*   $6 - $4560after coupon on orders $40+JCPenney Home Performance Bath Towel Collection(201)
-*   $360 - $2880after coupon on orders $40+Home Expressions Solid or Stripe Bath Towel Collection(302)
-*   $659 - $1874after couponwas $44 Worthington Perfect Trouser(317)
-*   $966 - $2220after coupon on orders $40+Worthington Essential Soft Blouse(166)
-*   $201 - $375after couponwas $6 St. John's Bay Active Quick Dry-Womens V Neck Short Sleeve T-Shirt(97)
+*   $1699 - $5999 sale
+    
+    was $22 - $90 | 22 - 41% offJCPenney Home™ Ultima Bath Rug Collection(702)
+*   $499 - $3499 sale
+    
+    was $10 - $76 | 50 - 54% offJCPenney Home Performance Bath Towel Collection(206)
+*   $299 - $1999 sale
+    
+    was $6 - $48 | 50 - 58% offHome Expressions Solid or Stripe Bath Towel Collection(311)
+*   $1935 - $1999after couponwas $44 Worthington Perfect Trouser(319)
+*   $1031 - $2960after couponWorthington Essential Soft Blouse(166)
+*   $215 - $4after couponwas $6 St. John's Bay Active Quick Dry-Womens V Neck Short Sleeve T-Shirt(99)
 
 Shop and Save at JCPenney
 
