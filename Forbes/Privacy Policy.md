@@ -223,4 +223,5 @@
 *   Forbes Quote of the Day
 *   Advertise
 
-Forbes.com Privacy Statementfalse <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1494993704116832&amp;ev=PageView&amp;noscript=1">.
+Forbes.com Privacy Statementfalse <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1494993704116832&amp;ev=PageView&amp;noscript=1">. We’ve updated our Privacy Statement to make it easier to navigate and understand.  
+Click here to learn more.
