@@ -20,7 +20,7 @@ Close submenu ( Girls ) Girls
 *   Open submenu ( Bottoms ) Bottoms
 
 *   $6 + Under Shop
-*   Jackets + Vests
+*   Jackets + Coats
 *   Dresses + Rompers
 *   Matching Sets
 *   Accessories
@@ -80,7 +80,7 @@ Close submenu ( Guys ) Guys
 
 *   Open submenu ( Bottoms ) Bottoms
 
-*   Jackets
+*   Jackets + Coats
 *   Accessories
 *   Underwear
 *   Cologne
@@ -117,6 +117,7 @@ Close submenu ( Collections ) Collections
 *   Uniform
 *   Online Only
 *   Back to Basics
+*   Music + Pop Culture
 *   Active
 *   Lounge
 
@@ -182,6 +183,7 @@ Close submenu ( Girls ) Girls
 *   Destroyed Denim
 *   Repreve Denim
 *   The OG Collection
+*   Music + Pop Culture
 *   Matching Sets
 *   Layer Up
 *   Aero One
@@ -196,6 +198,7 @@ Close submenu ( Guys ) Guys
 *   Destroyed Denim
 *   Everyday Tees
 *   Layer Up
+*   Music + Pop Culture
 *   Aero One
 
 Close submenu ( Clearance ) Clearance
@@ -265,7 +268,7 @@ Menu Find a Store Aeropostale
         
     
     *   $6 + Under Shop
-    *   Jackets + Vests
+    *   Jackets + Coats
     *   Dresses + Rompers
     *   Matching Sets
     *   Accessories
@@ -310,7 +313,7 @@ Menu Find a Store Aeropostale
         *   Joggers + Sweats
         
     
-    *   Jackets
+    *   Jackets + Coats
     *   Accessories
     *   Underwear
     *   Cologne
@@ -324,6 +327,7 @@ Menu Find a Store Aeropostale
         *   Uniform
         *   Online Only
         *   Back to Basics
+        *   Music + Pop Culture
         *   Active
         *   Lounge
     
@@ -378,6 +382,7 @@ Menu Find a Store Aeropostale
         *   Destroyed Denim
         *   Repreve Denim
         *   The OG Collection
+        *   Music + Pop Culture
         *   Matching Sets
         *   Layer Up
         *   Aero One
@@ -391,6 +396,7 @@ Menu Find a Store Aeropostale
         *   Destroyed Denim
         *   Everyday Tees
         *   Layer Up
+        *   Music + Pop Culture
         *   Aero One
     
 *   Clearance
