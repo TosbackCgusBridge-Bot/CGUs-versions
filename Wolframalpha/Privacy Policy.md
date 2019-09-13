@@ -5,6 +5,7 @@
 *   Products &. Services
     *   *   Wolfram|One
         *   Mathematica
+        *   Wolfram|Alpha Notebook Edition
         *   Programming Lab
         *   Finance Platform
         *   SystemModeler
@@ -85,7 +86,7 @@
             *   Chemistry
             *   _More..._
     *   All Solutions »
-*   Support &. Learning
+*   Learning &. Support
     *   *   Learning
             *   Wolfram Language Documentation
             *   Fast Introduction for Programmers
@@ -105,7 +106,7 @@
         *   Premium Support
             *   Premier Service
             *   Technical Services
-    *   All Support &. Learning »
+    *   All Learning &. Support »
 *   Company
     *   *   About
             *   Company Background
@@ -293,6 +294,7 @@ Legal
 *   Products
 *   Wolfram|One
 *   Mathematica
+*   Wolfram|Alpha Notebook Edition
 *   Programming Lab
 *   Wolfram|Alpha Pro
 *   Mobile Apps
@@ -315,6 +317,8 @@ Legal
 *   Product Registration
 *   Product Downloads
 *   Service Plans Benefits
+*   User Portal
+*   Your Account
 
 *   Support
 *   Support FAQ
