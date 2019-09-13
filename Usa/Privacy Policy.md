@@ -154,7 +154,7 @@ ENTERTAINMENT COLLECTION
 
 Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Promo Data: FY20 Q3 - September Flash
 
-Flash sale
+Last day
 
 20% off AutoCAD, AutoCAD LT &. Revit LT Suite.
 
