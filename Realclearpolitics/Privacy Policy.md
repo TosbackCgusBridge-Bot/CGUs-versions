@@ -113,53 +113,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Bill Sternberg_: Flight 93, and One of 9/11's Enduring Mysteries
+*   _Andrew Prokop_: What to Expect at Tonight's Democratic Debate
     
-*   _John Solomon_: 2 Names That Would Give Trump a Top Team After Bolton
+*   _Peter Van Buren_: 5 Questions the Moderators Won't Ask Biden
     
-*   _David Rothkopf_: Trump-Bolton Marriage Was Doomed From the Start
+*   _Ben Mathis-Lilley_: It's Time to Realize Sanders Could Be the Next President
     
-*   _Becket Adams_: Looks Like CNN Botched Another Major Russia 'Scoop'
+*   _Roger Simon_: Dem Nomination Is Warren's to Lose — and That's Dangerous
     
-*   _Joe Lockhart_: Republicans' Narrow NC Victory Is Bad News for Trump
+*   _Melissa Grant_: What Christine Blasey Ford Said
     
-*   _Michelle Malkin_: 7 Dem Debate Questions Jorge Ramos Won't Ask
+*   _Hemingway &. Severino_: Blasey Ford's Father Supported Kavanaugh
     
-*   _Elaine Godfrey_: Can Democrats Make 2020 About Guns?
+*   _Eric Holder_: Criticizing Obama a Big Mistake for 2020 Democrats
     
-*   _Nathan Harden_: How Oberlin's Bias &. Bloat Fueled a $33 Million Blunder
+*   _Rob Smith_: Dems Pander for Black Votes With Talk About Reparations
     
-*   _Michael Roth_: Free Speech Wars Miss the Point of College
+*   _Bill Scher_: The Buttigieg Money Pit
     
-*   _Thomas Friedman_: Huawei Has a Plan to Help End Its War With Trump
+*   _Kalev Leetaru_: Fact-Checkers Rely Heavily on Media Reports for 'Truth'
     
-*   _Jim Treacher_: New York Times: 'Airplanes Took Aim' on 9/11
+*   _Scott Rosenberg_: California Plays by Its Own Rules
     
-*   _Peter Bergen_: How Bolton Got Himself Fired
+*   _Steven Greenhut_: Progressivism Without Guard Rails
     
-*   _James Carafano_: Why Bolton's Exit Won't Change Trump's Foreign Policy
+*   _Susan Page_: Five Questions the Democratic Debate May Answer
     
-*   _Alex Ward_: John Bolton Left Because Trump Wouldn't Let Him Start a War
+*   _Corey Lewandowski_: A Slightly Overcrowded One-Night Train Wreck
     
-*   _Crowley &. Jakes_: A President as His Own National Security Adviser
+*   _Jen Psaki_: The Biden-Warren Confrontation We've Been Waiting For
     
-*   _Kimberly Guilfoyle_: Dems Divide by Race While Trump Expands Economic Pie
+*   _Greg Orman_: Debate Field Reflects Dems' Disdain for Business Success
     
-*   _Karl Smith_: A Stalling Economy Would All But Doom Trump's Re-Election
+*   _Holly Baxter_: Andrew Yang Is the One to Watch Tonight
     
-*   _Joel Kotkin_: Common Sense vs. Climate Change Hysteria
+*   _Sean Trende_: 2020 Dem Race: Buy, Sell, Hold (September Edition)
     
-*   _Michael Tracey_: Joe Biden's Jumbled Iraq War Revisionism
+*   _Lloyd Green_: Biden Is Leading Because Electability Is a Real Thing
     
-*   _Goldie Taylor_: Why Rank-and-File Democrats Will Keep Ridin' With Biden
+*   _Maureen Callahan_: Joe Biden Shaping Up to Be an Uninspiring Hillary 2.0
     
-*   _Julie Hollar_: Dem Debates Shouldn't Be in Hands of Corporate Media
+*   _David Axelrod_: Let Trump Destroy Trump
     
-*   _Charles Hurt_: The Difference Between Trump &. the Fake Politicians
+*   _Conrad Black_: Trump's Only Real Weakness Is His Style
     
-*   _Frank Bruni_: We Will Never, Ever Be Rid of Donald Trump
+*   _E.J. Dionne_: In North Carolina, a Portrait of a Deeply Torn Nation
     
-*   _James Henry_: The Unsung Tale of 9/11's Maritime Rescuers
+*   _David Catron_: Why NC-9 Should Frighten the Democrats
     
 
 *   Previous
@@ -230,11 +230,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   2020 Dem Race: Buy, Sell, Hold (September Edition)
+*   Supreme Court Allows Trump Asylum Restrictions to Take Effect
+*   Trump: Bolton Made Big Mistakes, Wasn't Getting Along With People
 *   Republicans Hold On to North Carolina's 9th District in Redo Election
-*   Trump Ousts Bolton After Disagreements on Foreign Policy
-*   Gabbard: If Google Can Censor My Campaign, They Can Censor Anyone
 *   "Dark Money"-Fueled Ads Heat Up Maine Senate Battle
-*   Why Was the FBI Incurious About a Hot Collusion Tip?
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,70 +247,37 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve48
+    *   Disapprove51Disapprove +3
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve44
+    *   Disapprove53Disapprove +9
+*   Direction of CountryReuters/Ipsos
+    *   Right Direction34
+    *   Wrong Track57Wrong Track +23
 *   2020 Democratic Presidential NominationEconomist/YouGov
     *   Biden26
-    *   Warren26
     *   Sanders16
+    *   Warren26
     *   Harris6
     *   Buttigieg6
+    *   Yang2
     *   O'Rourke1
     *   Booker2
-    *   Yang2
     *   Gabbard1
     *   Klobuchar1
     *   Castro1
     *   Steyer0
     *   Bennet1Tie
-*   2020 Democratic Presidential NominationCNN
-    *   Biden24
-    *   Warren18
-    *   Sanders17
-    *   Harris8
-    *   Buttigieg6
-    *   O'Rourke5
-    *   Booker2
-    *   Yang2
-    *   Gabbard2
-    *   Klobuchar1
-    *   Castro1
-    *   Steyer1
-    *   Bennet1Biden +6
-*   2020 Democratic Presidential NominationReuters/Ipsos
-    *   Biden22
-    *   Warren11
-    *   Sanders16
-    *   Harris4
-    *   Buttigieg4
-    *   O'Rourke2
-    *   Booker3
-    *   Yang3
-    *   Gabbard1
-    *   Klobuchar1
-    *   Castro1
-    *   Steyer1
-    *   Bennet0Biden +6
-*   New Hampshire Democratic Presidential PrimaryBoston Herald/FPU
-    *   Biden21
-    *   Sanders29
-    *   Warren17
-    *   Buttigieg5
-    *   Harris6
-    *   Gabbard3
-    *   Yang5
-    *   Booker1
-    *   Klobuchar1
-    *   Steyer0
-    *   O'Rourke2
-    *   Delaney
-    *   Castro1Sanders +8
 
 More Latest Polls In The News
 
+*   Julian Castro vs. Biden on Medicare For All: I'm Fulfilling The Legacy of Barack Obama, You're Not
+*   Biden to Bernie: "For A Socialist, You've Got A Lot More Confidence In Corporate America Than I Do"
+*   Biden vs. Jorge Ramos: Comparing Trump To Obama Is Outrageous, "We Didn't Lock People In Cages"
+*   Marianne Williamson On Hot Mic: "What Does It Say That FOX News Is Nicer To Me Than The Lefties Are?"
 *   Fmr. ICE Acting Director Homan to AOC: I've Never Seen Such Hate Toward A Law Enforcement Agency
-*   Victim's Son Blasts Omar At 9/11 Ceremony: "Some People Did Something?" "Why Your Confusion?"
-*   Trump: "Mr. Tough Guy" John Bolton Made "Some Very Big Mistakes," Wasn't Getting Along With People
-*   CNN Reports: Since 9/11, Right Wing Terrorists Have Killed More People In U.S. Than Jihadist Terrorists
-*   Gabbard: If Google Can Censor A Member Of Congress Running For Pres, They Can Censor Anyone
 
 *   Politics
 *   Policy
