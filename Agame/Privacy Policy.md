@@ -120,8 +120,8 @@ View more results
     *   Five Nights at Freddy's 5
     *   Fire Balls
     *   Trap Adventure 2
-    *   FNAF World
     *   Five Nights at Freddy's 4
+    *   FNAF World
     *   Five Nights at Freddy's: Ultimate
 *   Top Categories
     
@@ -149,8 +149,8 @@ View more results
     *   Fireboy and Watergirl: The Forest Temple
     *   TenTrix
     *   Deal or No Deal
-    *   Fireboy &. Watergirl 4: Crystal Temple
     *   1001 Arabian Nights
+    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Mahjong Connect Classic
     *   Bubble Machine: 2 Player Game
     *   Crystical: 2 Player Puzzle Game
@@ -181,8 +181,8 @@ View more results
     *   Back To School: Princesses Rush
     *   Popstar Dentist
     *   Get Your Boyfriend
-    *   The Princess: Sent to the Future - Dress Up Game
     *   Love Tester 2.0
+    *   The Princess: Sent to the Future - Dress Up Game
     *   Vincy Lip Care
     *   Princess Rivalry
     *   Ella: Hips Surgery
