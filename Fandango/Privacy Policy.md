@@ -72,7 +72,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: ‘It Chapter Two’ Easter Eggs, the Sequel’s Changes From Stephen King’s Novel and More Read More
+    *   Today in Movie Culture: The Complete History of Pennywise the Clown, a Special ‘Aladdin’ Reunion and More Read More
     *   The Week in Movie News: ‘Tomb Raider 2’ in the Works, First ‘Bad Boys for Life’ Trailer and More Read More
     *   Next 3 Major Movie Chapters: 'Terminator: Dark Fate,' 'Doctor Sleep,' 'The Invisible Man' Read More
     
@@ -296,9 +296,9 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   Limited Time 'Hustlers' Offer
+*   Get your ShowPlace ICON tickets for $9.99 Each
     
-    Take your crew &. get $5 off\* when you use promo code 'HUSTLERSMOVIE' at checkout. \*Terms apply. BUY TICKETS
+    at Boston, Mountain View, and San Jose theaters featuring ICONX Dolby® ATMOS™ and heated recliners! \*Terms apply. BUY TICKETS
     
 *   AMC Stubs® Members Save Big with Discount Tuesdays
     
