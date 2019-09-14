@@ -1,10 +1,10 @@
 **Privacy Policy**
 
-_Last Updated: 2019-09-12_
+_Last Updated: 2019-09-13_
 
 Care2.com ("Care2″) takes seriously the issue of safeguarding your privacy online. This privacy policy applies to the two websites owned and operated by Care2: Care2.com and ThePetitionSite.com. This privacy policy describes how Care2 collects and uses the personal information you provide on both websites.
 
-Residents of the EU can see the Care2 GDPR privacy policy and the Care2 EU-US Privacy Shield policy.
+Residents of the EU should see the Care2 GDPR privacy policy and the Care2 EU-US Privacy Shield policy.
 
 When visiting our website, you will be notified of what personally identifiable information of yours is collected:
 
@@ -31,7 +31,7 @@ _How Does Care2 use my personal information?_
 
 Personal and Demographic Information:
 
-Care2 asks for personal information, such as your name, email address, date of birth, street address, zip code and sometimes phone number. Your personal information is used to set up your Care2 account and to allow you to use many Care2 member services. Members may also supply additional information for special site services such as My Care2. Care2 may also ask for demographic information, such as your education level, occupation and industry. Care2 does not knowingly collect information from children under 13. if Care2 later learns that a child under 13 is registered, steps will be taken to remove the child's information from the database. We also reserve the right to collect publicly available data about you, either obtained directly by us or through a 3rd party.
+Care2 asks for personal information, such as your name, email address, date of birth, street address, zip code and sometimes phone number. Your personal information is used to set up your Care2 account and to allow you to use Care2 member services. Care2 may also ask for demographic information, such as your education level, occupation and industry. Care2 does not knowingly collect information from children under 13. if Care2 later learns that a child under 13 is registered, steps will be taken to remove the child's information from the database. We also reserve the right to collect publicly available data about you, either obtained directly by us or through a 3rd party.
 
 ThePetitionSite:
 
@@ -61,15 +61,13 @@ Care2 will share your personal information with third parties only in the ways t
 
 _How do I change or delete my personal information?_
 
-Upon request, Care2 will provide you with information about whether we hold any of your personal information. To make changes to your name, password, address, subscriptions and other account information, simply visit the My Settings page. Select the appropriate function(s) there to make your desired change(s). For other changes, or to request deletion of your information, please contact us using our Help Request Form. We will respond to your request within a reasonable time.
+Please contact Care2 using the Help Request Form.
 
 _Will Care2 use my information for direct e-mailings?_
 
-Care2 offers a variety of direct e-mail subscriptions describing our petition success stories, new site features, healthy living tips, activist alerts, and announcements, including commercial and non-commercial offers. If you do not want to receive any of our optional mailings, simply opt out of them when registering to become a member or during other subscription opportunities.
+Care2 offers e-mail subscriptions describing action alerts, petition success stories, new site features, and more, including commercial and non-commercial offers. If you do not want to receive any of our optional mailings, simply opt out of them when registering to become a member or during other subscription opportunities, or click the "unsubscribe" link at the bottom of any Care2 email that you receive.
 
 If you sign a petition on ThePetitionSite.com, you will automatically receive emailed news updates about the petition and other important causes.
-
-If you elect to receive any of our newsletters but later change your mind, go to your My Settings page. from there you can edit both your "Subscriptions" and your "Notifications." Our emailed newsletters and notifications contain an "unsubscribe" link to allow you to easily remove your address from that mail stream.
 
 Regardless of the above, Care2 may send occasional emailed messages, such as critical service announcements or other correspondence, to all registered members. To stop all such announcements, you must delete your account. You may do so by following this link.
 
@@ -86,21 +84,21 @@ _Does Care2 sell e-mail addresses to advertisers?_
 
 We would only provide user email addresses to nonprofit or advertising partners with the user's direct permission. We respect your privacy and despise spam.
 
-As mentioned above, in some cases you may opt to receive nonprofit partner newsletters or other commercial offers. When you opt to receive such an offer via Care2, we will send your email address and other necessary contact information to the newsletter publisher. Depending on the newsletter, this may result in a fee paid to Care2 in exchange for a new customer. Care2 will never offer newsletter subscriptions from, or reveal your address information to, organizations known to be spammers, casinos, or adult-content providers.
+As mentioned above, in some cases you may opt to receive nonprofit partner newsletters or other commercial offers. When you opt to receive such an offer via Care2, we will send your email address and other necessary contact information to the newsletter publisher. Depending on the newsletter, this may result in a fee paid to Care2. Care2 will never offer newsletter subscriptions from, or reveal your address information to, organizations known to be spammers, casinos, or adult-content providers.
 
-Why then do some people receive spam at an account they have only used on Care2? In many cases, spammers create a "dictionary attack" by combining common names and initials to create a list of email addresses that might or might not work. In many cases, Care2 members send email from a Care2 account's email address to a friend or family member whose computer gets a virus or whose email account is hacked, resulting in private email addresses being revealed to the spammer. In other cases, two people have similar addresses, perhaps differing by only 1-2 characters, and one user makes a typographic mistake that results in the other user's address. The bottom line is that if you receive spam, we had nothing to do with it. We despise spam, and we would never associate ourselves with spammers.
+Why then do some people receive spam at an email address they have only used on Care2? In many cases, spammers create a "dictionary attack" by combining common names and initials to create a list of email addresses that might or might not work. In many cases, Care2 members send email from a Care2 account's email address to a friend or family member whose computer gets a virus or whose email account is hacked, resulting in private email addresses being revealed to the spammer. In other cases, two people have similar addresses, perhaps differing by only 1-2 characters, and one user makes a typographic mistake that results in the other user's address. The bottom line is that if you receive spam, it did not come from or through Care2. We despise spam, and we do not associate ourselves with spammers.
 
 With regards to e-mail communication with us, we read every message sent to us and do our best to respond quickly. We do save messages that might be needed if the sender contacts us again, but we absolutely do not sell, rent, give, or share e-mail addresses to other companies, unless you have specifically opted to receive such communications.
 
 _How does Care2 secure your information and its data storage?_
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. Care2′s servers are located at a world-class co-location facility in California, USA. The facility has some of the most powerful physical security systems in the business, from advanced smoke detection and fire suppression systems to 24/7 secured access with motion sensors, video camera surveillance, and security breach alarms. Only qualified Care2 engineers are given access to the building.
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. Care2's servers are located at a world-class co-location facility in California, USA. The facility has some of the most powerful physical security systems in the business, from advanced smoke detection and fire suppression systems to 24/7 secured access with motion sensors, video camera surveillance, and security breach alarms. Only qualified Care2 engineers are given access to the building.
 
 Access to the database is restricted. All servers are protected by a firewall and secure data lines. Server access is restricted to qualified Care2 employees, on an as-needed basis to maintain the operation of the website.
 
 Although we maintain strict policies and procedures to safeguard our servers and our customers' data, it is not possible to guarantee security due to the inherent risks of transmitting data over the Internet.
 
-_What is Care2′s data retention policy?_
+_What is Care2's data retention policy?_
 
 We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements.
 
