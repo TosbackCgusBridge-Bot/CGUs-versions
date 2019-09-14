@@ -152,13 +152,7 @@ Integrated BIM tools, including Revit, AutoCAD, and Civil 3D Learn more Free tri
 MEDIA &.  
 ENTERTAINMENT COLLECTION
 
-Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Promo Data: FY20 Q3 - September Flash
-
-Last day
-
-20% off AutoCAD, AutoCAD LT &. Revit LT Suite.
-
-Buy now Try, buy, or learn more about Autodesk products See all products
+Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Promo Data: FY20 Multi-Year Offer Try, buy, or learn more about Autodesk products See all products
 
 Software for 2D and 3D CAD. Subscription includes AutoCAD, specialized toolsets, and apps.
 
@@ -168,9 +162,17 @@ Free trial
 
 Subscribe
 
-$1,288.00/year
+$1,610.00/year
 
-$1,610.00
+Software for Building Information Modeling
+
+Learn more
+
+Free trial
+
+Subscribe
+
+$2,310.00/year
 
 Cost-effective 2D CAD
 
@@ -180,21 +182,9 @@ Free trial
 
 Subscribe
 
-$320.00/year
+$400.00/year
 
-$400.00
-
-Get Revit LT and AutoCAD LT together at a great value
-
-Learn more
-
-Free trial
-
-Subscribe
-
-$420.00/year
-
-$525.00 Try, buy, or learn more about Autodesk products See all products The Future of Making Granta disrupts medical-device manufacturing with digital fabrication
+Try, buy, or learn more about Autodesk products See all products The Future of Making Granta disrupts medical-device manufacturing with digital fabrication
 
 Find out how this start-up team uses expertise in automotive engineering and digital manufacturing to innovate the design and fabrication of custom skull implants.
 
@@ -221,7 +211,7 @@ Product details
 
 $2,590.00/year
 
-Subscribe Feedback FOLLOW AUTODESK
+Subscribe FEEDBACK FOLLOW AUTODESK
 
 *   Facebook
 *   Instagram
