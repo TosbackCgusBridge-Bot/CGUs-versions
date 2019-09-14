@@ -365,23 +365,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   419 million Facebook users info exposed, phone numbers and unique IDs
-    *   Holy cybercrime, Batman! Joker malware commits ad fraud, data theft
-    *   Ransomware attack on Premier Family Medical reportedly impacts records of 320K patients
-    *   Intel releases medium and low-rated security advisories
-    *   Fin7 operator pleads guilty to two counts
-    
-    *   What’s in your cloud?
-    *   Facebook hosts election security meeting between tech companies, intel officials
-    *   Google fined $170M for allegedly improper collection of kids' data from YouTube channels
     *   Apps vulnerable to SQL injection by way of virtual assistant verbal commands
-    *   Fin7 operator pleads guilty to two counts
+    *   Google expands and adds new bug bounty service
+    *   The zero trust model explained
+    *   Millions of Android phones vulnerable to phishing attacks
+    *   Webcomic XKCD forum user data exposed
     
-    *   Maryland gov't promises funds for Baltimore surveillance initiative
-    *   Fin7 operator pleads guilty to two counts
     *   M&A gone bad: The brutal truths about insider threat
-    *   Authorities arrest 281 alleged BEC scammers in 'Operation reWired' campaign
-    *   Bitcoin’s Lightning Network vulnerabilities spotted in the wild
+    *   Glupteba malware exploits Bitcoin transactions to keep C2 servers updated
+    *   Taxpayers stand strong against paying ransoms
+    *   A Perpetual Problem: Tackling the Cybersecurity Skills Shortage
+    *   Vulnerability round-up: Mozilla, Cisco and Samba issue security updates
+    
+    *   Managing your cloud in the face of the California Consumer Privacy Act
+    *   Facebook, YouTube used in Brazilian phishing scheme
+    *   Intel releases medium and low-rated security advisories
+    *   Researchers: Iranian phishing campaign targets universities with fake library emails
+    *   Israel reportedly behind spying devices found near White House, other sensitive areas
 
 Back to Top
 
@@ -401,6 +401,7 @@ Back to Top
     *   Videos
     *   Executive Insight Guidelines
     *   Subscribe
+    *   Editorial Calendar
 
 *   Other SC Sites
     *   RiskSec Conference
