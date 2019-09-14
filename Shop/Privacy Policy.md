@@ -448,6 +448,9 @@ Lenovo Explore Close
     *   AR/VR
         
         *   Explore AR/VR
+        *   Mirage Solo
+        *   Mirage Camera
+        *   Oculus
         
         Star Wars: Jedi Challenges
         
