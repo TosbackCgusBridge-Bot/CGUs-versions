@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsEnable Accessibility
 
-*   My AccountSign InTrack MyOrders
+*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -71,7 +71,7 @@ SHOP ALLUP TO 50% OFF BABY &. TODDLER APPARELselect styles
 *   BABY
 *   TODDLER
 
-Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 28 total items loaded in Media GalleryFollow @jcpenney UP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESHOP ALLSELECT STYLESUP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESELECT STYLESSHOP ALL
+Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 32 total items loaded in Media GalleryFollow @jcpenney UP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESHOP ALLSELECT STYLESUP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESELECT STYLESSHOP ALL
 
 *   $719 clearance
     
@@ -103,12 +103,12 @@ Recommended for You
 *   $499 - $3499 sale
     
     was $10 - $76 | 50 - 54% offJCPenney Home Performance Bath Towel Collection(206)
+*   $1935 - $1999after couponwas $44 Worthington Perfect Trouser(319)
 *   $299 - $1999 sale
     
     was $6 - $48 | 50 - 58% offHome Expressions Solid or Stripe Bath Towel Collection(311)
-*   $1935 - $1999after couponwas $44 Worthington Perfect Trouser(319)
-*   $1031 - $2960after couponWorthington Essential Soft Blouse(166)
-*   $215 - $4after couponwas $6 St. John's Bay Active Quick Dry-Womens V Neck Short Sleeve T-Shirt(99)
+*   $591 - $2960after couponWorthington Essential Soft Blouse(166)
+*   $639 - $1999after couponwas $44 St. John's Bay® Secretly Slender Straight-Leg Jeans(1767)
 
 Shop and Save at JCPenney
 
