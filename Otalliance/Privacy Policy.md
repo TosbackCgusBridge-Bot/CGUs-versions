@@ -26,8 +26,9 @@
         *   Watch a tutorial
 *   Resources
     *   Resource library
-        *   All resources
+        *   All Resources
         *   Policy Briefs
+        *   OTA Resources
     *   Publications
         *   Global Internet Report
     *   Programs
@@ -66,8 +67,8 @@
         *   Blog
         *   Statements
         *   Speeches
-    *   For journalists:
-        *   Media center
+    *   For Journalists:
+        *   Media Center
 
 2019 Action Plan 2019 Action Plan
 
