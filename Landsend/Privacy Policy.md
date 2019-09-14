@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 30% off full-price styles. plus an additional 20% off sale &. clearance styles!
+Receive 30% off full-price styles!
 
-code: THIRTY20 pin: PROMOTION DETAILS
+code: WALNUT pin: PROMOTION DETAILS
 
 Customer Service Menu
 
