@@ -113,53 +113,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Andrew Prokop_: What to Expect at Tonight's Democratic Debate
+*   _E.J. Dionne_: Democrats Finally Realize Who Their Real Opponent Is
     
-*   _Peter Van Buren_: 5 Questions the Moderators Won't Ask Biden
+*   _John Podhoretz_: The Democratic Debate Was Pure Torture
     
-*   _Ben Mathis-Lilley_: It's Time to Realize Sanders Could Be the Next President
+*   _Matthew Yglesias_: Joe Biden Keeps On Winning
     
-*   _Roger Simon_: Dem Nomination Is Warren's to Lose — and That's Dangerous
+*   _Eric Levitz_: If a Debate Makes Him Tired, How Can Biden Hold Up vs. Trump?
     
-*   _Melissa Grant_: What Christine Blasey Ford Said
+*   _Gregg Jarrett_: Malevolent McCabe's Appointment With Justice Is Imminent
     
-*   _Hemingway &. Severino_: Blasey Ford's Father Supported Kavanaugh
+*   _Greg Sargent_: Sotomayor Dissent Unmasks Ugly Truth About Trump
     
-*   _Eric Holder_: Criticizing Obama a Big Mistake for 2020 Democrats
+*   _Sen. Marco Rubio_: A Strong Bipartisan Path to Tackle Gun Violence
     
-*   _Rob Smith_: Dems Pander for Black Votes With Talk About Reparations
+*   _Richard Porter_: Bankruptcy: Pain With Gain for Chicago
     
-*   _Bill Scher_: The Buttigieg Money Pit
+*   _Rosenberg &. Nather_: Conservative Media and the Age of Misinformation
     
-*   _Kalev Leetaru_: Fact-Checkers Rely Heavily on Media Reports for 'Truth'
+*   _John Hirschauer_: Rachel Maddow's Turnberry Tale
     
-*   _Scott Rosenberg_: California Plays by Its Own Rules
+*   _Brad Rodu_: Vaping Scare: Unhealthy Actions From Health Officials
     
-*   _Steven Greenhut_: Progressivism Without Guard Rails
+*   _Byron York_: In Third Debate, Democrats Steer Clear of Economy
     
-*   _Susan Page_: Five Questions the Democratic Debate May Answer
+*   _Jeff Greenfield_: How Warren Won 3rd Debate Without Having a Big Moment
     
-*   _Corey Lewandowski_: A Slightly Overcrowded One-Night Train Wreck
+*   _Wegmann &. Crabtree_: 10 Candidates, 10 Strategies on Display in Dem Debate
     
-*   _Jen Psaki_: The Biden-Warren Confrontation We've Been Waiting For
+*   _Dan Balz_: Biden Delivered the Debate Performance He Needed
     
-*   _Greg Orman_: Debate Field Reflects Dems' Disdain for Business Success
+*   _Michael Goodwin_: President Trump Was the Real Winner of Dem Debate
     
-*   _Holly Baxter_: Andrew Yang Is the One to Watch Tonight
+*   _Frida Ghitis_: A President Who Threatens National Security
     
-*   _Sean Trende_: 2020 Dem Race: Buy, Sell, Hold (September Edition)
+*   _Margot Cleveland_: Powell's Latest Motion in Flynn Case Is a Bombshell
     
-*   _Lloyd Green_: Biden Is Leading Because Electability Is a Real Thing
+*   _A.B. Stoddard_: Did Mitch McConnell Recruit His Opponent?
     
-*   _Maureen Callahan_: Joe Biden Shaping Up to Be an Uninspiring Hillary 2.0
+*   _Bob Maistros_: Trump Is Called a Racist Murderer. Moderators Yawn
     
-*   _David Axelrod_: Let Trump Destroy Trump
+*   _Damon Linker_: Glimpses of the Coming Warren-Sanders Smackdown
     
-*   _Conrad Black_: Trump's Only Real Weakness Is His Style
+*   _David Daley_: Ranked-Choice Voting Could Help Dems -- and the Nation
     
-*   _E.J. Dionne_: In North Carolina, a Portrait of a Deeply Torn Nation
+*   _Fiona Harvey_: We've Got to Throw Everything at the Climate Crisis
     
-*   _David Catron_: Why NC-9 Should Frighten the Democrats
+*   _Benjamin Zycher_: The Destructive Climate Change Litigation Game
     
 
 *   Previous
@@ -230,11 +230,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   2020 Dem Race: Buy, Sell, Hold (September Edition)
+*   Debate Snapshots: 10 Candidates, 10 Strategies on Display
+*   Poll: Republicans Could Rebound in Orange County and New Mexico
+*   Harris: When You Pull Back the Curtain on Trump, It's a "Really Small Dude"
 *   Supreme Court Allows Trump Asylum Restrictions to Take Effect
-*   Trump: Bolton Made Big Mistakes, Wasn't Getting Along With People
-*   Republicans Hold On to North Carolina's 9th District in Redo Election
-*   "Dark Money"-Fueled Ads Heat Up Maine Senate Battle
+*   2020 Dem Race: Buy, Sell, Hold (September Edition)
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -248,8 +248,8 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove51Disapprove +3
+    *   Approve47
+    *   Disapprove52Disapprove +5
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve44
     *   Disapprove53Disapprove +9
@@ -276,8 +276,8 @@ More Latest Polls In The News
 *   Julian Castro vs. Biden on Medicare For All: I'm Fulfilling The Legacy of Barack Obama, You're Not
 *   Biden to Bernie: "For A Socialist, You've Got A Lot More Confidence In Corporate America Than I Do"
 *   Biden vs. Jorge Ramos: Comparing Trump To Obama Is Outrageous, "We Didn't Lock People In Cages"
+*   Andrew Yang Announces $1,000 Month To 10 Families For A Year At Dem Debate, Laughed At
 *   Marianne Williamson On Hot Mic: "What Does It Say That FOX News Is Nicer To Me Than The Lefties Are?"
-*   Fmr. ICE Acting Director Homan to AOC: I've Never Seen Such Hate Toward A Law Enforcement Agency
 
 *   Politics
 *   Policy
