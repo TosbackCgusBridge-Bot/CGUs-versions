@@ -72,8 +72,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: The Complete History of Pennywise the Clown, a Special ‘Aladdin’ Reunion and More Read More
-    *   The Week in Movie News: ‘Tomb Raider 2’ in the Works, First ‘Bad Boys for Life’ Trailer and More Read More
+    *   Today in Movie Culture: How Jennifer Lopez Trained for ‘Hustlers,’ ‘The Goldfinch’ Director Commentary and More Read More
+    *   The Week in Movie News: ‘Face/Off’ Remake in the Works, First ‘Midway’ Trailer and More Read More
     *   Next 3 Major Movie Chapters: 'Terminator: Dark Fate,' 'Doctor Sleep,' 'The Invisible Man' Read More
     
     Explore Content
