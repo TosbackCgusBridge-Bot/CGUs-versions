@@ -1,5 +1,3 @@
-close dialogEnd of Summer Clearance!Save up to 65% on select giftsShop SaleView Cartclose dialog
-
 *   Gifts
     
     View All Categories Shop by Category*   Gift Boxes
@@ -76,7 +74,7 @@ close dialogEnd of Summer Clearance!Save up to 65% on select giftsShop SaleView 
 *   Business Gifts
 *   Sale
 
-1.800.753.8558 Business Gifts Don't Miss Out! End of Summer Clearance up to 65% off\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
+1.800.753.8558 Business Gifts Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
 
 *   Gifts
     
@@ -222,4 +220,4 @@ Find A Store
 
 *   Find A Store
 
-© 2019 All Rights Reserved. Privacy Policy Terms Of Use Site Map Play IconFeedback close dialogEnd of Summer Clearance!Save up to 65% on select giftsShop SaleView Cartclose dialog
+© 2019 All Rights Reserved. Privacy Policy Terms Of Use Site Map Play IconFeedback
