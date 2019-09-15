@@ -45,7 +45,7 @@ Specials
 *   Dinnerware Sets &. More
 *   Save Up to 50%
 *   Yard Sale
-*   Warehouse Sale
+*   Overstocks
 *   Lookbooks
 
 Specialty Shops
