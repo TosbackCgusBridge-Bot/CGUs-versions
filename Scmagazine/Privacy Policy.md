@@ -365,23 +365,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Apps vulnerable to SQL injection by way of virtual assistant verbal commands
-    *   Google expands and adds new bug bounty service
-    *   The zero trust model explained
-    *   Millions of Android phones vulnerable to phishing attacks
-    *   Webcomic XKCD forum user data exposed
+    *   How to engage continuous oversight in the cloud
+    *   Authorities arrest 281 alleged BEC scammers in 'Operation reWired' campaign
+    *   Ransomware attack on Premier Family Medical reportedly impacts records of 320K patients
+    *   Wikipedia knocked offline by DDoS attack
+    *   Two charged with hacking, doxing NJ police officers
     
+    *   Bitcoin’s Lightning Network vulnerabilities spotted in the wild
+    *   Facebook hosts election security meeting between tech companies, intel officials
     *   M&A gone bad: The brutal truths about insider threat
-    *   Glupteba malware exploits Bitcoin transactions to keep C2 servers updated
-    *   Taxpayers stand strong against paying ransoms
-    *   A Perpetual Problem: Tackling the Cybersecurity Skills Shortage
-    *   Vulnerability round-up: Mozilla, Cisco and Samba issue security updates
+    *   Avast places flashlight apps' permission requests in the spotlight
+    *   Secret Service probing breach at federal IT contractor
     
-    *   Managing your cloud in the face of the California Consumer Privacy Act
-    *   Facebook, YouTube used in Brazilian phishing scheme
-    *   Intel releases medium and low-rated security advisories
-    *   Researchers: Iranian phishing campaign targets universities with fake library emails
-    *   Israel reportedly behind spying devices found near White House, other sensitive areas
+    *   InnfiRAT malware hunts for cryptocurrency info, browser cookie data
+    *   Misconfigured database exposes 198M records on prospective auto buyers
+    *   Pen test gone awry? Coalfire staffers arrested for burglary
+    *   U.S. sanctions North Korea hacking groups, says attacks funded missile program
+    *   Ryuk-like malware targeting law, military and finance groups
 
 Back to Top
 
