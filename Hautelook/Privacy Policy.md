@@ -9,129 +9,142 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
+    *   Lucky Brand Incl. Plus
+    *   Aquatalia Up to 50% Off
+    *   In Cashmere
+    *   Live Fabulously: Faux Fur Coats &. More
+    *   Casual Upgrades: Know One Cares &. More
+    *   Thacker New York Handbags
+    *   Gemstones, Diamonds &. Sterling Silver from $20
+    *   Knitty by Nature: Sweater Dresses
+    *   His &. Her Cozy Toes: SmartWool &. More
+    *   Aquatalia Men
+    *   Countdown to Halloween: Disguise Costumes
+    *   Sharp Style: Pointy-Toe Shoes from $35
+    *   Dr. Scholl's Comfort Shoes Under $60
+    *   Fresh Finds: Shoes Up to 60% Off
+    *   Diamonds, Precious Gems &. More Up to 80% Off
+    *   Fromm: Tools Starting at $10
+    *   Nostalgia Kitchen Faves Starting at $20
+    *   Ovadia &. Sons
+    *   Free Shipping: Sheet Sets, Duvets &. More
+    *   Travel Accessories ft. LEWIS N. CLARK
+    *   Dr. Scholl's Men
+    *   Comfy Weekend Wear for Him
+    
+    *   Leveret Kids' Pajamas Under $12
     *   360 + Skull Cashmere Up to 65% Off
-    *   Kendra Scott Jewelry &. Home Up to 50% Off
     *   Socialite x Destiny Thompson
+    *   360 + Skull Cashmere Accessories Up to 60% Off
+    *   Kendra Scott Jewelry &. Home Up to 50% Off
     *   Vince
     *   RACHEL Rachel Roy Incl. Plus
     *   Parisian Style: Looks from FRNCH
-    *   360 + Skull Cashmere Accessories Up to 60% Off
+    *   Cole Haan Coats Up to 70% Off
     *   Christian Siriano Handbags &. More Up to 60% Off
-    *   Luxe Sweaters for Him ft. Autumn Cashmere
     *   Spiritual Gangster
     *   Roberto Cavalli Watches &. More Up to 50% Off
+    *   Korean Beauty: rootree, Dr. Frog &. More
+    *   Laura Mercier Up to 50% Off
     *   Weather Tech Jackets ft. K-Way
     *   LOVE Moschino Up to 60% Off
     *   MIA &. MIA Amore from $30
-    *   Le Creuset Up to 30% Off
-    *   Fujifilm Cameras &. More Starting at $10
-    *   Cole Haan Men's Shoes Up to 50% Off
+    *   Luxe Sweaters for Him ft. Autumn Cashmere
     *   Men's Cold-Weather Sneak Peek
-    *   Korean Beauty: rootree, Dr. Frog &. More
-    *   Laura Mercier Up to 50% Off
-    
     *   MIA Girls
     *   Tommy Hilfiger Men's Shoes Up to 50% Off
-    *   Leveret Kids' Pajamas Under $12
     *   Top Toy Brands: Mattel, Fisher-Price &. LEGO
-    *   London Times &. Maggy London Incl. Plus and Petites
-    *   The Third Piece: Blazers, Vests &. More
+    
+    *   Fujifilm Cameras &. More Starting at $10
     *   Cole Haan Shoes Up to 50% Off
-    *   Cole Haan Coats Up to 70% Off
+    *   Cole Haan Men's Shoes Up to 50% Off
     *   Cole Haan Men's Accessories &. More Up to 70% Off
     *   Cole Haan Handbags &. Sun Up to 50% Off
     *   Algenist Skin Care Starting at $10
-    *   Rebecca Minkoff
-    *   Playful Prints from Hale Bob &. More
-    *   New Arrivals: Sweaters from Keniston &. More
-    *   Fresh for Fall: Styles Starting at $20
     *   Free Shipping: Luxe Bedding for Every Style
     *   Men's Premium Denim ft. Hudson Jeans
     *   14K Gold, Gemstones &. More Under $80
-    *   Felina Intimates &. Lounge Under $30
-    *   Transition into Fall: Booties Up to 60% Off
-    
     *   NuvaLash Natural Lash &. Brow-Enhancing Serum
     *   Rockabye
     *   Organization Essentials Starting at $10
-    *   Fine Jewelry ft. EF Collection Up to 55% Off
-    *   Brooks Brothers Sportswear
-    *   Brooks Brothers Suiting &. More
-    *   Suzy Levian Jewelry
-    *   Further Food Supplements
-    *   Work Ready: Men's Dress Shoes Up to 60% Off
-    *   Joe-Ella Up to 70% Off
-    *   On-Trend Boys' Outerwear Up to 65% Off
-    *   On-Trend Girls' Outerwear Up to 65% Off
-    *   Clarks Men
-    *   Men's Sneakers ft. Mizuno
-    *   skinChemists Up to 80% Off
-    *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Storage Faves Up to 50% Off
     *   philosophy Starting at $15
+    *   Further Food Supplements
+    *   Work Ready: Men's Dress Shoes Up to 60% Off
+    *   Clarks Men
+    *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Sheet Sets Blowout
-    *   Free Shipping: Pop Art Pillows from $25
+    *   Rebecca Minkoff
+    *   Fresh for Fall: Styles Starting at $20
 *   WomenShop Sale Events
     
+    *   Lucky Brand Incl. Plus
+    *   Aquatalia Up to 50% Off
+    *   In Cashmere
+    *   Live Fabulously: Faux Fur Coats &. More
+    *   Casual Upgrades: Know One Cares &. More
+    *   Thacker New York Handbags
+    *   Gemstones, Diamonds &. Sterling Silver from $20
+    *   Knitty by Nature: Sweater Dresses
+    *   His &. Her Cozy Toes: SmartWool &. More
+    *   Sharp Style: Pointy-Toe Shoes from $35
+    *   Dr. Scholl's Comfort Shoes Under $60
+    *   Fresh Finds: Shoes Up to 60% Off
+    *   Diamonds, Precious Gems &. More Up to 80% Off
+    *   Fromm: Tools Starting at $10
+    *   Travel Accessories ft. LEWIS N. CLARK
     *   360 + Skull Cashmere Up to 65% Off
-    *   Kendra Scott Jewelry &. Home Up to 50% Off
     *   Socialite x Destiny Thompson
+    *   360 + Skull Cashmere Accessories Up to 60% Off
+    *   Kendra Scott Jewelry &. Home Up to 50% Off
     *   Vince
+    
     *   RACHEL Rachel Roy Incl. Plus
     *   Parisian Style: Looks from FRNCH
-    *   360 + Skull Cashmere Accessories Up to 60% Off
+    *   Cole Haan Coats Up to 70% Off
     *   Christian Siriano Handbags &. More Up to 60% Off
     *   Spiritual Gangster
     *   Roberto Cavalli Watches &. More Up to 50% Off
+    *   Korean Beauty: rootree, Dr. Frog &. More
+    *   Laura Mercier Up to 50% Off
     *   Weather Tech Jackets ft. K-Way
     *   LOVE Moschino Up to 60% Off
     *   MIA &. MIA Amore from $30
-    *   Korean Beauty: rootree, Dr. Frog &. More
-    *   Laura Mercier Up to 50% Off
-    *   London Times &. Maggy London Incl. Plus and Petites
-    *   The Third Piece: Blazers, Vests &. More
-    
     *   Cole Haan Shoes Up to 50% Off
-    *   Cole Haan Coats Up to 70% Off
     *   Cole Haan Handbags &. Sun Up to 50% Off
     *   Algenist Skin Care Starting at $10
-    *   Rebecca Minkoff
-    *   Playful Prints from Hale Bob &. More
-    *   New Arrivals: Sweaters from Keniston &. More
-    *   Fresh for Fall: Styles Starting at $20
     *   14K Gold, Gemstones &. More Under $80
-    *   Felina Intimates &. Lounge Under $30
-    *   Transition into Fall: Booties Up to 60% Off
     *   NuvaLash Natural Lash &. Brow-Enhancing Serum
-    *   Fine Jewelry ft. EF Collection Up to 55% Off
-    *   Suzy Levian Jewelry
-    *   Further Food Supplements
-    *   skinChemists Up to 80% Off
     *   philosophy Starting at $15
+    *   Further Food Supplements
+    *   Rebecca Minkoff
+    *   Fresh for Fall: Styles Starting at $20
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Lingerie
     *   Handbags
     *   Watches
     *   Accessories
+    *   Lingerie
 *   MenShop Sale Events
     
-    *   Luxe Sweaters for Him ft. Autumn Cashmere
+    *   Aquatalia Men
+    *   Ovadia &. Sons
+    *   Travel Accessories ft. LEWIS N. CLARK
+    *   Dr. Scholl's Men
+    *   Comfy Weekend Wear for Him
     *   Roberto Cavalli Watches &. More Up to 50% Off
-    *   Cole Haan Men's Shoes Up to 50% Off
+    *   Luxe Sweaters for Him ft. Autumn Cashmere
+    
     *   Men's Cold-Weather Sneak Peek
     *   Tommy Hilfiger Men's Shoes Up to 50% Off
+    *   Cole Haan Men's Shoes Up to 50% Off
     *   Cole Haan Men's Accessories &. More Up to 70% Off
-    
     *   Men's Premium Denim ft. Hudson Jeans
-    *   Brooks Brothers Sportswear
-    *   Brooks Brothers Suiting &. More
     *   Work Ready: Men's Dress Shoes Up to 60% Off
     *   Clarks Men
-    *   Men's Sneakers ft. Mizuno
     
     Shop By Category
     *   Shoes
@@ -140,57 +153,57 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Watches
 *   KidsShop Sale Events
     
-    *   MIA Girls
+    *   Countdown to Halloween: Disguise Costumes
     *   Leveret Kids' Pajamas Under $12
+    *   MIA Girls
     *   Top Toy Brands: Mattel, Fisher-Price &. LEGO
     *   Rockabye
-    *   Joe-Ella Up to 70% Off
-    *   On-Trend Boys' Outerwear Up to 65% Off
-    *   On-Trend Girls' Outerwear Up to 65% Off
     
     Shop By Category
-    *   Girls' Sizes 2T-6X
-    *   Girls' Sizes 7-16
     *   The Toy Shop
-    *   Baby Girl
-    *   Boys' Sizes 2T-7
-    *   Boys' Sizes 8-20
     *   Girls' Shoes
+    *   Baby Girl
     *   Baby Boy
     *   Baby Gear &. Essentials
+    *   Boys' Sizes 8-20
+    *   Boys' Sizes 2T-7
+    *   Girls' Sizes 7-16
+    *   Girls' Sizes 2T-6X
 *   HomeShop Sale Events
     
-    *   Le Creuset Up to 30% Off
+    *   Nostalgia Kitchen Faves Starting at $20
+    *   Free Shipping: Sheet Sets, Duvets &. More
+    *   Travel Accessories ft. LEWIS N. CLARK
     *   Fujifilm Cameras &. More Starting at $10
     *   Free Shipping: Luxe Bedding for Every Style
     *   Organization Essentials Starting at $10
-    *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Storage Faves Up to 50% Off
+    *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Sheet Sets Blowout
-    *   Free Shipping: Pop Art Pillows from $25
     
     Shop By Category
-    *   Home Decor
-    *   Cleaning &. Organization
     *   Bedding
+    *   Cleaning &. Organization
+    *   Home Decor
     *   Kitchen &. Tabletop
     *   Electronic &. Tech Accessories
     *   Outdoor Living
-    *   Bath
     *   Luggage &. Travel
+    *   Bath
 *   BeautyShop Sale Events
     
+    *   Fromm: Tools Starting at $10
     *   Korean Beauty: rootree, Dr. Frog &. More
     *   Laura Mercier Up to 50% Off
     *   Algenist Skin Care Starting at $10
     *   NuvaLash Natural Lash &. Brow-Enhancing Serum
-    *   Further Food Supplements
-    *   skinChemists Up to 80% Off
     *   philosophy Starting at $15
+    *   Further Food Supplements
     
     Shop By Category
     *   Skin Care
     *   Makeup
+    *   Hair Care
     *   Bath &. Body
     *   Tools &. Accessories
     *   Fragrance
