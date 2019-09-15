@@ -59,7 +59,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 638 1048 1 855 638 1048
+    1 855 528 4348 1 855 528 4348
     
 
 *   Solutions By Function
@@ -117,7 +117,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 638 1048 1 855 638 1048
+    1 855 528 4348 1 855 528 4348
     
 
 GARTNER PRIVACY POLICY Effective Date: June 2019
