@@ -365,17 +365,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   How to engage continuous oversight in the cloud
-    *   Authorities arrest 281 alleged BEC scammers in 'Operation reWired' campaign
-    *   Ransomware attack on Premier Family Medical reportedly impacts records of 320K patients
-    *   Wikipedia knocked offline by DDoS attack
-    *   Two charged with hacking, doxing NJ police officers
+    *   Google fined $170M for allegedly improper collection of kids' data from YouTube channels
+    *   StealthFalcon backdoor using Windows BITS to hide action
+    *   Flaws in Imperial, Dabman web radios could lead to full compromise
+    *   North Carolina Boy Scouts PII compromised
+    *   Facebook, YouTube used in Brazilian phishing scheme
     
-    *   Bitcoin’s Lightning Network vulnerabilities spotted in the wild
-    *   Facebook hosts election security meeting between tech companies, intel officials
-    *   M&A gone bad: The brutal truths about insider threat
-    *   Avast places flashlight apps' permission requests in the spotlight
-    *   Secret Service probing breach at federal IT contractor
+    *   North Carolina Boy Scouts PII compromised
+    *   Israel reportedly behind spying devices found near White House, other sensitive areas
+    *   Vulnerability round-up: Mozilla, Cisco and Samba issue security updates
+    *   Maryland gov't promises funds for Baltimore surveillance initiative
+    *   StealthFalcon backdoor using Windows BITS to hide action
     
     *   InnfiRAT malware hunts for cryptocurrency info, browser cookie data
     *   Misconfigured database exposes 198M records on prospective auto buyers
