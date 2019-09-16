@@ -36,27 +36,29 @@ Start accepting all kinds of payments with one PayPal business account.
 
 Get Started
 
-Send money to friends and family.
+Send, shop and pay your way with one account. Send money
 
-It's free to send money to friends and family in the U.S. when you use your bank account or PayPal Cash or PayPal Cash Plus balance.\*
+Send, request and collect money from PayPal friends and family
 
-Send Money Now
+Shop effortlessly
 
-\*If you don't have an account, you can sign up for PayPal for free. Must have a PayPal Cash or PayPal Cash Plus account to maintain and use a balance with PayPal.
+Check out fast using your stored cards or bank account
 
-You might be surprised with how many online stores accept PayPal. Shop 19 million online stores and counting. Shop your favorite brands.
+Pay your way
 
-PayPal is accepted where you shop – on over 75% of online merchants, from big brands to boutique sites.
+Shop with our credit, debit, prepaid cards or digital credit line
 
-Who shops the world? You.
+Secure payments
 
-With PayPal, you can shop online stores in 200+ markets around the world so it's all right at your fingertips.
+We keep your financial details private and transactions secure from fraud 24/7.
 
-Buy with confidence.
+Simple and convenient
 
-There's a reason why over 200 million people trust PayPal: it's easy and secure with benefits like Return Shipping on Us1 and Purchase Protection.2
+Skip entering and updating your card details every time you check out.
 
-Shop now with PayPal at your favorite stores.
+Be rewarded
+
+Continue to earn reward points on cards added to your PayPal wallet.\*
 
 Make the most of your money.
 
@@ -64,7 +66,9 @@ Sign Up for Free
 
 1Limitations apply. This program is open only to eligible U.S. PayPal account owners. Once the service is activated, participants may receive up to 12 refunds (up to $30 per refund request) per calendar year (January 1 – December 31) on qualifying returns of tangible items returned in accordance with seller’s return policy. Other limitations apply.  
   
-2See more about Purchase Protection terms and limitations.
+2See more about Purchase Protection terms and limitations.  
+  
+\*Subject to issuer's reward program terms and conditions.
 
 *   Help
 *   Contact
@@ -89,4 +93,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&pgst=Unknown&calc=bb43e95eed47&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&ccpg=us&csci=03318d379dfd4f11b35fa2632249b7da&comp=mppnodeweb&tsrce=mppnodeweb&cu=0&pxpguid=3347b36716dac1200015d767fff0d051&xe=100979%2C100883%2C100971&xt=102836%2C102538%2C102817&pgld=Unknown&bzsr=main&bchn=mktg&tmpl=home.dust&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&pgst=Unknown&calc=f5366af542e0d&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&ccpg=us&csci=db9fde046fe948c798547b6f919f8300&comp=mppnodeweb&tsrce=mppnodeweb&cu=0&pxpguid=386e3e8c16d0a1e3e2158409ffeaa1e8&xe=100979%2C100883%2C100971&xt=102836%2C102539%2C102818&pgld=Unknown&bzsr=main&bchn=mktg&tmpl=home.dust&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
