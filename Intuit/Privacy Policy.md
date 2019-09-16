@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsEnable Accessibility
 
-*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
+*   My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -79,40 +79,36 @@ Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 32 total items loaded
 *   $1199 clearance
     
     was $40 Carter's Rash Guard Set - BabyAdd To Cart
-*   $1139 clearance
-    
-    was $38 Carter's Rash Guard Set - BabyAdd To Cart
-*   $1839 clearance
-    
-    was $46 Carter's 2-pc. Bodysuit Set-Baby Boys(42)Add To Cart
 *   $489 clearance
     
     was $14 Carter's Boys Round Neck Short Sleeve Graphic T-Shirt - Baby(22)Add To Cart
-*   $559 clearance
-    
-    was $16 Carter's Short Sleeve and Sleeveless Tops-Baby Girls(34)Add To Cart
 *   $839 clearance
     
     was $24 Carter's Boys Pull-On Short Baby(12)Add To Cart
+*   $839 clearance
+    
+    was $24 Carter's Boys Pull-On Short Baby(12)Add To Cart
+*   $559 clearance
+    
+    was $16 Carter's Girls Round Neck Short Sleeve Graphic T-Shirt - Baby(7)Add To Cart
+*   $419 clearance
+    
+    was $14 Carter's Boys Round Neck Short Sleeve T-Shirt-BabyAdd To Cart
 
 Recommended for You
 
 *   $1699 - $5999 sale
     
-    was $22 - $90 | 22 - 41% offJCPenney Home™ Ultima Bath Rug Collection(702)
+    was $22 - $90 | 22 - 41% offJCPenney Home™ Ultima Bath Rug Collection(703)
 *   $499 - $3499 sale
     
-    was $10 - $76 | 50 - 54% offJCPenney Home Performance Bath Towel Collection(206)
+    was $10 - $76 | 50 - 54% offJCPenney Home Performance Bath Towel Collection(207)
 *   $1935 - $1999after couponwas $44 Worthington Perfect Trouser(319)
 *   $299 - $1999 sale
     
     was $6 - $48 | 50 - 58% offHome Expressions Solid or Stripe Bath Towel Collection(312)
+*   $1599after couponwas $60 a.n.a Womens Meadow Wedge Sandals(79)
 *   $591 - $2960after couponWorthington Essential Soft Blouse(168)
-*   LIMITED TIME SPECIAL!
-    
-    $10 sale
-    
-    was $49.98 | 80% offLIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver(185)
 
 Shop and Save at JCPenney
 
