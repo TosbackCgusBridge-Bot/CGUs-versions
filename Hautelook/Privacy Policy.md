@@ -9,21 +9,45 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
+    *   Papillon Up to 85% Off
+    *   ALEX AND ANI Starting at $15
+    *   Sandals &. More Up to 70% Off
+    *   Free Shipping: BergHOFF Blowout
+    *   Last Chance: Men's Swim Blowout
+    *   Free Shipping: Bedding Steals Up to 75% Off
+    *   Men's Shoes Up to 70% Off
+    *   Last Chance: Swim Blowout
+    *   Fall Jackets, Coats &. Sweaters Up to 75% Off
+    *   BOSS Men's Clothing &. Accessories Up to 60% Off
+    *   HUGO BOSS Women Up 60% Off
+    *   BOSS Men's Shoes
+    *   BOSS Women's Shoes
+    *   CALPAK Luggage
+    *   Cashmere ft. Knyt &. Lynk
+    *   Swipe Right: Date Night Styles from $20
+    *   Keep It Casual: Denim &. More Under $30
+    *   Lafonn Simulated Diamond Jewelry Up to 70% Off
+    *   Champion Active Incl. Plus
+    *   Levi's Jackets &. More Incl. Plus
+    *   Find It Here: SUSINA Shoes &. More
+    *   Korean Beauty: Leaders Cosmetics from $10
+    *   On-Trend Bags Starting at $15
+    *   14K Gold Jewelry &. More Starting at $20
+    *   Isaac Mizrahi
+    *   Born from $40
+    
     *   Lucky Brand Incl. Plus
     *   Aquatalia Up to 50% Off
     *   In Cashmere
-    *   Live Fabulously: Faux Fur Coats &. More
     *   Casual Upgrades: Know One Cares &. More
     *   Thacker New York Handbags
     *   Gemstones, Diamonds &. Sterling Silver from $20
     *   Knitty by Nature: Sweater Dresses
-    *   His &. Her Cozy Toes: SmartWool &. More
     *   Aquatalia Men
     *   Countdown to Halloween: Disguise Costumes
     *   Sharp Style: Pointy-Toe Shoes from $35
     *   Dr. Scholl's Comfort Shoes Under $60
     *   Fresh Finds: Shoes Up to 60% Off
-    *   Diamonds, Precious Gems &. More Up to 80% Off
     *   Fromm: Tools Starting at $10
     *   Nostalgia Kitchen Faves Starting at $20
     *   Ovadia &. Sons
@@ -31,94 +55,95 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Travel Accessories ft. LEWIS N. CLARK
     *   Dr. Scholl's Men
     *   Comfy Weekend Wear for Him
-    
-    *   Leveret Kids' Pajamas Under $12
-    *   360 + Skull Cashmere Up to 65% Off
-    *   Socialite x Destiny Thompson
-    *   360 + Skull Cashmere Accessories Up to 60% Off
+    *   His &. Her Cozy Toes: SmartWool &. More
     *   Kendra Scott Jewelry &. Home Up to 50% Off
+    *   360 + Skull Cashmere Up to 65% Off
     *   Vince
+    *   Socialite x Destiny Thompson
     *   RACHEL Rachel Roy Incl. Plus
     *   Parisian Style: Looks from FRNCH
-    *   Cole Haan Coats Up to 70% Off
+    
+    *   360 + Skull Cashmere Accessories Up to 60% Off
     *   Christian Siriano Handbags &. More Up to 60% Off
     *   Spiritual Gangster
     *   Roberto Cavalli Watches &. More Up to 50% Off
-    *   Korean Beauty: rootree, Dr. Frog &. More
     *   Laura Mercier Up to 50% Off
     *   Weather Tech Jackets ft. K-Way
     *   LOVE Moschino Up to 60% Off
     *   MIA &. MIA Amore from $30
     *   Luxe Sweaters for Him ft. Autumn Cashmere
     *   Men's Cold-Weather Sneak Peek
+    *   Korean Beauty: rootree, Dr. Frog &. More
     *   MIA Girls
-    *   Tommy Hilfiger Men's Shoes Up to 50% Off
-    *   Top Toy Brands: Mattel, Fisher-Price &. LEGO
-    
+    *   Live Fabulously: Faux Fur Coats &. More
+    *   Diamonds, Precious Gems &. More Up to 80% Off
+    *   Free Shipping: Storage Faves Up to 50% Off
     *   Fujifilm Cameras &. More Starting at $10
-    *   Cole Haan Shoes Up to 50% Off
-    *   Cole Haan Men's Shoes Up to 50% Off
-    *   Cole Haan Men's Accessories &. More Up to 70% Off
-    *   Cole Haan Handbags &. Sun Up to 50% Off
     *   Algenist Skin Care Starting at $10
     *   Free Shipping: Luxe Bedding for Every Style
-    *   Men's Premium Denim ft. Hudson Jeans
-    *   14K Gold, Gemstones &. More Under $80
     *   NuvaLash Natural Lash &. Brow-Enhancing Serum
     *   Rockabye
     *   Organization Essentials Starting at $10
-    *   Free Shipping: Storage Faves Up to 50% Off
-    *   philosophy Starting at $15
     *   Further Food Supplements
-    *   Work Ready: Men's Dress Shoes Up to 60% Off
-    *   Clarks Men
     *   Free Shipping: Hand-Painted Replicas
-    *   Free Shipping: Sheet Sets Blowout
-    *   Rebecca Minkoff
-    *   Fresh for Fall: Styles Starting at $20
+    *   Tommy Hilfiger Men's Shoes Up to 50% Off
+    *   Leveret Kids' Pajamas Under $12
+    *   Top Toy Brands: Mattel, Fisher-Price &. LEGO
 *   WomenShop Sale Events
     
+    *   Papillon Up to 85% Off
+    *   ALEX AND ANI Starting at $15
+    *   Sandals &. More Up to 70% Off
+    *   Last Chance: Swim Blowout
+    *   Fall Jackets, Coats &. Sweaters Up to 75% Off
+    *   HUGO BOSS Women Up 60% Off
+    *   BOSS Women's Shoes
+    *   CALPAK Luggage
+    *   Cashmere ft. Knyt &. Lynk
+    *   Swipe Right: Date Night Styles from $20
+    *   Keep It Casual: Denim &. More Under $30
+    *   Lafonn Simulated Diamond Jewelry Up to 70% Off
+    *   Champion Active Incl. Plus
+    *   Levi's Jackets &. More Incl. Plus
+    *   Find It Here: SUSINA Shoes &. More
+    *   Korean Beauty: Leaders Cosmetics from $10
+    *   On-Trend Bags Starting at $15
+    *   14K Gold Jewelry &. More Starting at $20
+    *   Born from $40
     *   Lucky Brand Incl. Plus
     *   Aquatalia Up to 50% Off
     *   In Cashmere
-    *   Live Fabulously: Faux Fur Coats &. More
     *   Casual Upgrades: Know One Cares &. More
     *   Thacker New York Handbags
     *   Gemstones, Diamonds &. Sterling Silver from $20
     *   Knitty by Nature: Sweater Dresses
-    *   His &. Her Cozy Toes: SmartWool &. More
+    
     *   Sharp Style: Pointy-Toe Shoes from $35
     *   Dr. Scholl's Comfort Shoes Under $60
     *   Fresh Finds: Shoes Up to 60% Off
-    *   Diamonds, Precious Gems &. More Up to 80% Off
     *   Fromm: Tools Starting at $10
     *   Travel Accessories ft. LEWIS N. CLARK
-    *   360 + Skull Cashmere Up to 65% Off
-    *   Socialite x Destiny Thompson
-    *   360 + Skull Cashmere Accessories Up to 60% Off
+    *   His &. Her Cozy Toes: SmartWool &. More
     *   Kendra Scott Jewelry &. Home Up to 50% Off
+    *   360 + Skull Cashmere Up to 65% Off
     *   Vince
-    
+    *   Socialite x Destiny Thompson
     *   RACHEL Rachel Roy Incl. Plus
     *   Parisian Style: Looks from FRNCH
-    *   Cole Haan Coats Up to 70% Off
+    *   360 + Skull Cashmere Accessories Up to 60% Off
     *   Christian Siriano Handbags &. More Up to 60% Off
     *   Spiritual Gangster
     *   Roberto Cavalli Watches &. More Up to 50% Off
-    *   Korean Beauty: rootree, Dr. Frog &. More
     *   Laura Mercier Up to 50% Off
     *   Weather Tech Jackets ft. K-Way
     *   LOVE Moschino Up to 60% Off
     *   MIA &. MIA Amore from $30
-    *   Cole Haan Shoes Up to 50% Off
-    *   Cole Haan Handbags &. Sun Up to 50% Off
+    *   Korean Beauty: rootree, Dr. Frog &. More
+    *   Live Fabulously: Faux Fur Coats &. More
+    *   Diamonds, Precious Gems &. More Up to 80% Off
     *   Algenist Skin Care Starting at $10
-    *   14K Gold, Gemstones &. More Under $80
     *   NuvaLash Natural Lash &. Brow-Enhancing Serum
-    *   philosophy Starting at $15
     *   Further Food Supplements
-    *   Rebecca Minkoff
-    *   Fresh for Fall: Styles Starting at $20
     
     Shop By Category
     *   Clothing
@@ -126,25 +151,25 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Jewelry
     *   Handbags
     *   Watches
-    *   Accessories
     *   Lingerie
+    *   Accessories
 *   MenShop Sale Events
     
+    *   Last Chance: Men's Swim Blowout
+    *   Men's Shoes Up to 70% Off
+    *   BOSS Men's Clothing &. Accessories Up to 60% Off
+    *   BOSS Men's Shoes
+    *   CALPAK Luggage
     *   Aquatalia Men
     *   Ovadia &. Sons
+    
     *   Travel Accessories ft. LEWIS N. CLARK
     *   Dr. Scholl's Men
     *   Comfy Weekend Wear for Him
     *   Roberto Cavalli Watches &. More Up to 50% Off
     *   Luxe Sweaters for Him ft. Autumn Cashmere
-    
     *   Men's Cold-Weather Sneak Peek
     *   Tommy Hilfiger Men's Shoes Up to 50% Off
-    *   Cole Haan Men's Shoes Up to 50% Off
-    *   Cole Haan Men's Accessories &. More Up to 70% Off
-    *   Men's Premium Denim ft. Hudson Jeans
-    *   Work Ready: Men's Dress Shoes Up to 60% Off
-    *   Clarks Men
     
     Shop By Category
     *   Shoes
@@ -153,51 +178,55 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Watches
 *   KidsShop Sale Events
     
+    *   Isaac Mizrahi
     *   Countdown to Halloween: Disguise Costumes
-    *   Leveret Kids' Pajamas Under $12
     *   MIA Girls
-    *   Top Toy Brands: Mattel, Fisher-Price &. LEGO
     *   Rockabye
+    *   Leveret Kids' Pajamas Under $12
+    *   Top Toy Brands: Mattel, Fisher-Price &. LEGO
     
     Shop By Category
+    *   Boys' Sizes 2T-7
     *   The Toy Shop
+    *   Boys' Sizes 8-20
     *   Girls' Shoes
     *   Baby Girl
     *   Baby Boy
     *   Baby Gear &. Essentials
-    *   Boys' Sizes 8-20
-    *   Boys' Sizes 2T-7
     *   Girls' Sizes 7-16
     *   Girls' Sizes 2T-6X
 *   HomeShop Sale Events
     
+    *   Free Shipping: BergHOFF Blowout
+    *   Free Shipping: Bedding Steals Up to 75% Off
+    *   CALPAK Luggage
     *   Nostalgia Kitchen Faves Starting at $20
     *   Free Shipping: Sheet Sets, Duvets &. More
     *   Travel Accessories ft. LEWIS N. CLARK
+    
+    *   Free Shipping: Storage Faves Up to 50% Off
     *   Fujifilm Cameras &. More Starting at $10
     *   Free Shipping: Luxe Bedding for Every Style
     *   Organization Essentials Starting at $10
-    *   Free Shipping: Storage Faves Up to 50% Off
     *   Free Shipping: Hand-Painted Replicas
-    *   Free Shipping: Sheet Sets Blowout
     
     Shop By Category
     *   Bedding
-    *   Cleaning &. Organization
     *   Home Decor
+    *   Cleaning &. Organization
     *   Kitchen &. Tabletop
+    *   Luggage &. Travel
     *   Electronic &. Tech Accessories
     *   Outdoor Living
-    *   Luggage &. Travel
     *   Bath
 *   BeautyShop Sale Events
     
+    *   Korean Beauty: Leaders Cosmetics from $10
     *   Fromm: Tools Starting at $10
-    *   Korean Beauty: rootree, Dr. Frog &. More
     *   Laura Mercier Up to 50% Off
+    *   Korean Beauty: rootree, Dr. Frog &. More
     *   Algenist Skin Care Starting at $10
     *   NuvaLash Natural Lash &. Brow-Enhancing Serum
-    *   philosophy Starting at $15
     *   Further Food Supplements
     
     Shop By Category
