@@ -1,35 +1,35 @@
-Top definition privacysexprivacy is slang for poontang aka vagina.i like it when you touch my privacy. (from a da brat song)#coochie#coo#snatch#pussy#poonanny#va61na#crotchby blissee December 31, 2005 372 129 Get a privacy mug for your dad Jerry.2 privacyunknownA thing that doesn't exist anymore.The government is always trying to find new ways to invade our privacy to the point where it is impossible to not be watched.by Dubiks October 29, 2018 28 9 Get a privacy mug for your brother-in-law Jerry.3 privacynameSomething George W. Bush brutally raped.Wow, George W. Bush really fucked everyones privacy with the Patriot Act.#private#douche bag#bush#republican#fuckedby Fuck W February 04, 2006 167 80 Get a privacy mug for your friend Georges.4 privacyunknownspace to your self with out your annoying siblings.I wanted to have privacy so I went to go into my room with noone and be alone without my annoying siblings because I had enough of them#i will become calmby jimiu December 07, 2017 13 4 Get a privacy mug for your daughter Sarah.5 privacyunknownWhat was violated by the Patriot Act, and is now going to be violated in the near future by the National ID... that's right folks, you won't be able to hop on a plane without getting red lights shoved in your eye.Read it and weep. America is becoming the place for advertisements, pornography, and a complete lack of privacy.by ~The Nameless One~ June 03, 2005 109 67 Get a privacy mug for your barber Beatrix.6 privacyunknownsomething that Tokio Hotel don't have.They need privacy.#tokio hotel#privacy#celeb#private#lifeby zimmer483 October 12, 2011 24 13 Get a privacy mug for your dad Abdul.7 PrivacyunknownCode word for "masturbation space"Mom! leave me alone I need some privacy!#room#private#mom#masturbation#secretive#teenager#space#distance#separationby toadweilder January 12, 2019 6 2 Get a Privacy mug for your coworker James.Trending RN - September 14, 2019
+Top definition privacysexprivacy is slang for poontang aka vagina.i like it when you touch my privacy. (from a da brat song)#coochie#coo#snatch#pussy#poonanny#va61na#crotchby blissee December 31, 2005 372 129 Get a privacy mug for your papa Manley.2 privacyunknownA thing that doesn't exist anymore.The government is always trying to find new ways to invade our privacy to the point where it is impossible to not be watched.by Dubiks October 29, 2018 28 9 Get a privacy mug for your father-in-law Abdul.3 privacynameSomething George W. Bush brutally raped.Wow, George W. Bush really fucked everyones privacy with the Patriot Act.#private#douche bag#bush#republican#fuckedby Fuck W February 04, 2006 167 80 Get a privacy mug for your mother-in-law Jovana.4 privacyunknownspace to your self with out your annoying siblings.I wanted to have privacy so I went to go into my room with noone and be alone without my annoying siblings because I had enough of them#i will become calmby jimiu December 07, 2017 13 4 Get a privacy mug for your grandma Zora.5 privacyunknownWhat was violated by the Patriot Act, and is now going to be violated in the near future by the National ID... that's right folks, you won't be able to hop on a plane without getting red lights shoved in your eye.Read it and weep. America is becoming the place for advertisements, pornography, and a complete lack of privacy.by ~The Nameless One~ June 03, 2005 109 67 Get a privacy mug for your mate Jovana.6 privacyunknownsomething that Tokio Hotel don't have.They need privacy.#tokio hotel#privacy#celeb#private#lifeby zimmer483 October 12, 2011 24 13 Get a privacy mug for your sister Yasemin.7 PrivacyunknownCode word for "masturbation space"Mom! leave me alone I need some privacy!#room#private#mom#masturbation#secretive#teenager#space#distance#separationby toadweilder January 12, 2019 6 2 Get a Privacy mug for your mama Nathalie.Trending RN - September 15, 2019
 
-*     1.  Urban Dictionary
-*     2.  boffing
-*     3.  Talcum X
-*     4.  Sperm Sharking
-*     5.  sootikin
-*     6.  Drop a brick
-*     7.  gnoming
-*     8.  Mentos
-*     9.  Deetsing
-*   10.  The President
-*   11.  nooders
-*   12.  The Gouch
-*   13.  Twat
-*   14.  Marzia
-*   15.  spaffed
-*   16.  snow blow
-*   17.  cardio bunny
-*   18.  snap-off
-*   19.  Spaffing
-*   20.  Zoe Laverne
-*   21.  Schrödinger's Douchebag
-*   22.  snow blowing
-*   23.  flying squirrel
-*   24.  11/9
-*   25.  why is there a dead pakistani on my couch
-*   26.  #HAGS
-*   27.  12345678910
-*   28.  RAOBJ
-*   29.  Spastic Eagle
-*   30.  standgebläse
+*     1.  snow blow
+*     2.  snow blowing
+*     3.  Vaska
+*     4.  why is there a dead pakistani on my couch
+*     5.  double twisty gawk gawk
+*     6.  Gawk Gawk
+*     7.  12345678910
+*     8.  Spastic Eagle
+*     9.  Twat
+*   10.  11/9
+*   11.  cardio bunny
+*   12.  Spaffing
+*   13.  Naturday
+*   14.  Bawk-Bawk
+*   15.  Rabiosexual
+*   16.  moon on a stick
+*   17.  Gawk
+*   18.  Urban Dictionary
+*   19.  Wce
+*   20.  flying squirrel
+*   21.  nooders
+*   22.  The Machine Gun
+*   23.  the drip
+*   24.  Drop a brick
+*   25.  fit bird
+*   26.  Greek Kiss
+*   27.  yawp
+*   28.  FNL
+*   29.  The R-word
+*   30.  ikea
 
 *   1
 *   2
