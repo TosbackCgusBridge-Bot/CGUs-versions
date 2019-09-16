@@ -124,7 +124,7 @@ The new #CharliesAngels single from @ArianaGrande, @MileyCyrus, and @LanaDelRey 
   
 Pre-save it now:  http://charliesangels.lnk.to/DCMAPRESAVE  pic.twitter.com/AhJ1eVdyXG
 
-5 days ago View Tweet Instagram Post B2BzCMTlFW6
+6 days ago View Tweet Instagram Post B2BzCMTlFW6
 
 New Single From Camila
 
