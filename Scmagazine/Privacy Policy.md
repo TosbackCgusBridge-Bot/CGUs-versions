@@ -365,23 +365,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Google fined $170M for allegedly improper collection of kids' data from YouTube channels
-    *   StealthFalcon backdoor using Windows BITS to hide action
-    *   Flaws in Imperial, Dabman web radios could lead to full compromise
-    *   North Carolina Boy Scouts PII compromised
-    *   Facebook, YouTube used in Brazilian phishing scheme
-    
-    *   North Carolina Boy Scouts PII compromised
-    *   Israel reportedly behind spying devices found near White House, other sensitive areas
-    *   Vulnerability round-up: Mozilla, Cisco and Samba issue security updates
     *   Maryland gov't promises funds for Baltimore surveillance initiative
-    *   StealthFalcon backdoor using Windows BITS to hide action
+    *   What’s in your cloud?
+    *   Microsoft Patch Tuesday: Two zero days and 17 critical vulnerabilities addressed
+    *   U.K. man arrested for allegedly hacking musicians, selling their songs
+    *   Monster.com job applicants info exposed on unprotected server
     
+    *   Facebook hosts election security meeting between tech companies, intel officials
+    *   What you don’t, but need to, know about AI
+    *   What’s in your cloud?
+    *   Taxpayers stand strong against paying ransoms
+    *   Researchers: Iranian phishing campaign targets universities with fake library emails
+    
+    *   Making the case for IT/OT security integration
     *   InnfiRAT malware hunts for cryptocurrency info, browser cookie data
     *   Misconfigured database exposes 198M records on prospective auto buyers
     *   Pen test gone awry? Coalfire staffers arrested for burglary
     *   U.S. sanctions North Korea hacking groups, says attacks funded missile program
-    *   Ryuk-like malware targeting law, military and finance groups
 
 Back to Top
 
