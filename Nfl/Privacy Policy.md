@@ -1,4 +1,5 @@
-*   PHI1-120ATL1-124Final
+*   CLE1-123NYJ0-23Final
+*   TB1-120CAR0-214Final
 *   ARI0-1-117BAL2-023Final
 *   SF2-041CIN0-217Final
 *   LAC1-110DET1-0-113Final
@@ -12,8 +13,7 @@
 *   KC2-028OAK1-110Final
 *   CHI1-116DEN0-214Final
 *   NO1-19LA2-027Final
-*   CLE0-1NYJ0-1Mon, 8:15 pm ET
-*   TB1-120CAR0-214Final
+*   PHI1-120ATL1-124Final
 
 *   News
 *   Scores
@@ -37,7 +37,8 @@
 *   NFL Films
 *   Game Pass
 
-*   PHI20ATL24Final
+*   CLE23NYJ3Final
+*   TB20CAR14Final
 *   ARI17BAL23Final
 *   SF41CIN17Final
 *   LAC10DET13Final
@@ -51,8 +52,7 @@
 *   KC28OAK10Final
 *   CHI16DEN14Final
 *   NO9LA27Final
-*   CLE0-1NYJ0-1Mon, 8:15 pm ET
-*   TB20CAR14Final
+*   PHI20ATL24Final
 
 *   News
 *   Scores
