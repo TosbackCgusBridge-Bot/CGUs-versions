@@ -83,24 +83,22 @@ Autodesk logo
     *   By product
     *   System requirements
     *   Updates, hotfixes &. service packs
-    *   Customer service
-    *   All customer service
     *   Installation, activation, licensing
     *   Account management
-    *   Events &. Training
-    *   Classes on demand
-    *   Events
-    *   Training &. certification
-    *   Community resources
-    *   All communities
-    *   Blogs
-    *   Developer network
-    *   Forums
-    *   Students &. educators
+    *   Learn
+    *   Training
+    *   Certification
+    *   Conferences &. events
     *   Services
-    *   Consulting
-    *   Partner apps
+    *   App store
     *   Autodesk Services Marketplace
+    *   Community
+    *   All communities
+    *   Forums
+    *   Autodesk University
+    *   Blogs
+    *   Autodesk Developer Network
+    *   Students &. educators
 *   Downloads
     *   Download your software
     *   Free product trials
@@ -250,8 +248,9 @@ Support &. Learning
 *   System requirements
 *   Students &. educators
 *   Autodesk University
-*   Events &. training
-*   Training &. certification
+*   Conferences &. events
+*   Training
+*   Certification
 *   Autodesk Services Marketplace
 
 Autodesk
