@@ -1,23 +1,22 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P4J5LNG" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Close
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P4J5LNG" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
 
 We use cookies to ensure you get the best experience on our website. By continuing to browse our website, you consent to the use of cookies, as described in our Cookie Policy.
 
-I ACCEPT <div class="noscript-message">In order to view this page correctly, you must have a JavaScript-enabled browser and have JavaScript turned on. We apologize for any inconvenience. <a href="//support.google.com/adsense/bin/answer.py?hl=en&answer=12654">Learn how to enable it</a>.</div>.
+I ACCEPT Close <div class="noscript-message">In order to view this page correctly, you must have a JavaScript-enabled browser and have JavaScript turned on. We apologize for any inconvenience. <a href="//support.google.com/adsense/bin/answer.py?hl=en&answer=12654">Learn how to enable it</a>.</div>.
 
-*   Download
+*   Features
 *   Price Plans
 *   Business
 *   Tools
+    *   **Web Proxy**
+        *   Need some emergency privacy? Our free web proxy will give you one tab’s worth of secure browsing.
     *   **IP Checker**
         *   There’s a lot that websites can learn about you using your IP address. Our tool will help you see what they know.
     *   **DNS Leak Test**
         *   A DNS leak happens when you're using a bad VPN. So see if yours is up to snuff.
     *   **WebRTC Test**
         *   If your browser has a WebRTC leak, even a VPN can’t hide your location. We’ll tell you how to fix it.
-    *   **Web Proxy**
-        *   Need some emergency privacy? Our free web proxy will give you one tab’s worth of secure browsing.More about HMA privacy tools
-*   **What is a VPN?**
-*   Blog
+*   Learn about VPN
     *   **Privacy**
         *   Encryption
         *   Online Banking
@@ -34,6 +33,7 @@ I ACCEPT <div class="noscript-message">In order to view this page correctly, you
         *   What's new in HMA 4.0?
         *   New Kill Switch
         *   Stonger streamingSee all articles
+*   Download
 *   Help
 *   My account
 *   Get the app
@@ -200,4 +200,4 @@ ASIA &. PACIFIC
 
 *   Worldwide (English)
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=497969107041437&amp;ev=PageView&amp;noscript=1">. HMA logoIcon HamburgerIcon HamburgerIcon closeSearchExpand / collapseIcon FacebookIcon TwiterIcon Google PlusIcon YoutubeWindows iconWindows icon fillAndroid iconAndroid icon fillMac iconMac icon fillIos iconiOS icon fillLinux iconLinux icon fillMultiDeviceMultiPlatformUnlimitedSuperspeedyBiggestNetworkEasy2useGuaranteedCareHideShieldReferringWebsite ownersMarketersDownload helpInstall helpBeginner’s guideWin guideLinux guideRouter setupCrossTechnologyBandwidth &. speedLimitsOnline privacyStreamingStreamingAccessAdvertsPublic WiFiResearchLocationsCheck MarkCheck MarkIcon checkmark tableEmail iconGmail iconShield iconDNS LeakIcon dashIcon info
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=497969107041437&amp;ev=PageView&amp;noscript=1">. HMA logoIcon HamburgerIcon HamburgerIcon closeSearchExpand / collapseIcon FacebookIcon TwiterIcon Google PlusIcon YoutubeWindows iconWindows icon fillAndroid iconAndroid icon fillMac iconMac icon fillIos iconiOS icon fillLinux iconLinux icon fillMultiDeviceMultiPlatformUnlimitedSuperspeedyBiggestNetworkEasy2useGuaranteedCareHideShieldReferringWebsite ownersMarketersDownload helpInstall helpBeginner’s guideWin guideLinux guideRouter setupCrossTechnologyBandwidth &. speedLimitsOnline privacyStreamingStreamingAccessAdvertsPublic WiFiResearchLocationsCheck MarkCheck MarkIcon checkmark tableEmail iconGmail iconShield iconDNS LeakIcon dashIcon infoDouble quotes
