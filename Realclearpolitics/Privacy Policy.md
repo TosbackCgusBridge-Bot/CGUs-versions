@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -111,53 +113,53 @@
     *   About
     *   Media Kit
 
-*   _Peggy Noonan_: The Center Is Getting Ignored This Election Cycle
+*   _Jeet Heer_: How Dems Can Fight Brett Kavanaugh
     
-*   _Doug Schoen_: Why Populism Is Back in Full Force
+*   _Miranda Devine_: Democrats' Fresh Kavanaugh Smear Doesn't Hold Up
     
-*   _John McCormack_: The New York Times Anti-Kavanaugh Bombshell Is a Dud
+*   _Margot Cleveland_: Sen. Graham, Start Fighting for Justice for Kavanaugh
     
-*   _Andrew Sullivan_: The New York Times Abandons Liberalism for Activism
+*   _Cass Sunstein_: What If Donald Trump Just Happened by Accident?
     
-*   _Mitch Albom_: Jabs at Joe Biden Mask Our Growing Ageism Issue
+*   _Maureen Dowd_: Let's Debate: Are Democrats Doomed?
     
-*   _Jamil Smith_: Why It's Time for Joe to Go
+*   _Byron York_: How Much of Big Trump-Russia Report Will Stay Secret?
     
-*   _Daniel Sobieski_: Will McCabe Bring the FBI Down With Him?
+*   _Simon Henderson_: Iran's Strength and Strategy Show With Oilfield Attacks
     
-*   _Matt Ford_: Sanders and Warren Plot Their End Run Around the Senate
+*   _Dan Feferman_: Israel's Elections: What Has Changed?
     
-*   _Derek Hunter_: What Will Dems Destroy First: Themselves or the Country?
+*   _Emily Atkin_: Climate Change Poised to Alter the Face of Global Conflict
     
-*   _Jen Kirby_: Dems Hate Trump's Trade War. They Don't Have Any Better Ideas.
+*   _Jon Gabriel_: Climate Alarmists' Years-Long Fear Campaign Has Failed
     
-*   _Daniel Krygier_: Trump's Carrot-and-Stick Middle East Policy
+*   _Kalev Leetaru_: Warren, Sanders Trim Biden's Lead in Media &. Online Mentions
     
-*   _Frank Bruni_: Elizabeth Warren’s Formidable Stride
+*   _Victor Davis Hanson_: Only Trump Could Have Survived All the Attacks
     
-*   _Newt Gingrich_: 2020 Dems Showing Voters Why Trump Should Be Reelected
+*   _Jonathan Blitzer_: The Fight for the Latino Vote in Florida
     
-*   _Robert Reich_: Increasingly Irrational Trump Is Putting the World in Danger
+*   _Frank Miele_: Why Trump Will Win: 'The Evidence of Things Unseen'
     
-*   _Kevin Williamson National Review_: Resist? Grow Up, Democrats
+*   _Lloyd Green_: RIP GOP: How Dems Can Usher Fall of House of Trump
     
-*   _Neil Baron_: President Trump Is Failing on Trade Policy
+*   _Roger Kimball_: A Fresh Assassination of Kavanaugh's Character
     
-*   _Spencer Morrison_: America Needs Jobs, Not Chinese Imports
+*   _E.J. Dionne_: New Kavanaugh Claims Show How GOP Broke the Court
     
-*   _Aaron Cantu_: Inside Trump's Border Chaos
+*   _Mollie Hemingway_: Alleged Victim in NYT Story Denies Any Recollection
     
-*   _Jonathan Tobin_: Trump's Starting to Win Big on Controlling Southern Border
+*   _Chas Danner_: Kavanaugh's Impeachment Just Became a 2020 Issue
     
-*   _Peter Berkowitz_: Criticisms Illustrate Need for State Dept. Human Rights Panel
+*   _Philip Wegmann_: What Past Also-Rans Can Teach GOP Challengers to Trump
     
-*   _Amy Walter_: The Suburban Vote Isn't as Blue as It Looks
+*   _Eli Lake_: Yes, Iran Was Behind the Saudi Oil Attack. Now What?
     
-*   _James Pinkerton_: How to Beat Trump: Dem Strategist Visits Trump Country
+*   _James Adams_: How Drones Are Dramatically Changing Warfare
     
-*   _Bonnie Kristian_: Why Aren't More Celebrities Running for President?
+*   _Dahlia Lithwick_: Voting Rights the Most Important Issue Facing Us Today
     
-*   _Hugh Hewitt_: Biden Won't Recover From His ‘Record Player’ Line
+*   _Jason Chaffetz_: Ballot Harvesting: California's Model to Steal 2020
     
 
 *   Previous
@@ -228,11 +230,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Says U.S. Locked and Loaded in Response to Drone Attack
+*   What Past Also-Rans Can Teach Republican Challengers to Trump
+*   Hemingway: New Accusation Against Kavanaugh Is Denied by Alleged Victim
 *   Debate Snapshots: 10 Candidates, 10 Strategies on Display
 *   Poll: Republicans Could Rebound in Orange County and New Mexico
-*   Harris: When You Pull Back the Curtain on Trump, It's a "Really Small Dude"
-*   Supreme Court Allows Trump Asylum Restrictions to Take Effect
-*   2020 Dem Race: Buy, Sell, Hold (September Edition)
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -245,26 +247,37 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   2020 Democratic Presidential NominationPolitico/Morning Consult
+    *   Biden32
+    *   Warren18
+    *   Sanders20
+    *   Harris6
+    *   Buttigieg5
+    *   O'Rourke4
+    *   Yang3
+    *   Booker3
+    *   Klobuchar2
+    *   Gabbard1
+    *   Castro1
+    *   Steyer1
+    *   Bullock1Biden +12
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve50
+    *   Disapprove49Approve +1
+*   Direction of CountryRasmussen Reports
+    *   Right Direction42
+    *   Wrong Track53Wrong Track +11
 *   President Trump Job ApprovalThe Hill/HarrisX
     *   Approve47
     *   Disapprove53Disapprove +6
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove52Disapprove +5
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve44
-    *   Disapprove53Disapprove +9
-*   Direction of CountryReuters/Ipsos
-    *   Right Direction34
-    *   Wrong Track57Wrong Track +23
 
 More Latest Polls In The News
 
-*   Cruz: Dems Want To Impeach Trump, Kavanaugh, Everyone. "At Some Point They Have To Let Anger Go, Move On"
+*   Kavanaugh Book Authors: New York Times Editors Removed Part That Victim Did Not Remember Assault
+*   Grassley: Who Will Watch The Watchmen On New Kavanaugh Allegations?. NYT Withheld Crucial Facts
+*   Coons: Saudi Oil Attacks "May Well Be The Thing That Calls For Military Action Against Iran" If Intel Supports
+*   Biden Recalls Terrifying 1960s Pool Confrontation With Razor-Wielding Gangster Named "Corn Pop"
 *   Julian Castro Calls For Kavanaugh Impeachment: Mitch McConnell Has Stolen Two Supreme Court Seats
-*   Beto O'Rourke On Gun Ban: "I Refuse To Acknowledge The Polls Or The Politics Or The Fear Of The NRA"
-*   CNN's Aisha Moodie-Mills: Biden Is "A White Man Of A Certain Era," Shows "Racial Paternalism"
-*   Kellyanne Conway: Trump Keeping "Many Options On The Table" With Iran, Including Meetings
 
 *   Politics
 *   Policy
@@ -289,4 +302,4 @@ More Latest Polls In The News
 *   RSS
 *   View Mobile Site
 
-Copyright © 2019 RealClearHoldings, LLC. ©2019 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=null&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>. sponsoredsponsoredsponsored
+Copyright © 2019 RealClearHoldings, LLC. ©2019 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=null&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
