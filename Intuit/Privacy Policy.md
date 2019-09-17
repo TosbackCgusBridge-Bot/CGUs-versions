@@ -91,9 +91,9 @@ Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 32 total items loaded
 *   $559 clearance
     
     was $16 Carter's Girls Round Neck Short Sleeve Graphic T-Shirt - Baby(7)Add To Cart
-*   $419 clearance
+*   $1399 clearance
     
-    was $14 Carter's Boys Round Neck Short Sleeve T-Shirt-BabyAdd To Cart
+    was $40 Carter's 2-pc. Girls Sleeveless A-Line Dress - BabyAdd To Cart
 
 Recommended for You
 
@@ -103,12 +103,16 @@ Recommended for You
 *   $499 - $3499 sale
     
     was $10 - $76 | 50 - 54% offJCPenney Home Performance Bath Towel Collection(207)
-*   $1935 - $1999after couponwas $44 Worthington Perfect Trouser(319)
+*   $639 - $1999after couponwas $44 Worthington Perfect Trouser(319)
+*   LIMITED TIME SPECIAL!
+    
+    $10 sale
+    
+    was $49.98 | 80% offLIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver(185)
+*   $1031 - $2960after couponWorthington Essential Soft Blouse(168)
 *   $299 - $1999 sale
     
     was $6 - $48 | 50 - 58% offHome Expressions Solid or Stripe Bath Towel Collection(312)
-*   $1599after couponwas $60 a.n.a Womens Meadow Wedge Sandals(79)
-*   $591 - $2960after couponWorthington Essential Soft Blouse(168)
 
 Shop and Save at JCPenney
 
