@@ -25,18 +25,38 @@ Menu PayPal
 
 Log In Sign Up Personal
 
-Send money, pay on your  
-terms and shop easily all with PayPal.
+Learn how PayPal makes it easy to shop and send money to family and friends.
+
+\+ Personal + Personal
+
+Send money, pay on your terms and shop easily all with PayPal.
+
+Send money to friends and family or move funds from one account to another.\*
+
+Expand your payment options with our credit, debit, prepaid cards &. PayPal Credit.\*\*
+
+Check out faster, at any of the millions of sites PayPal is accepted.
 
 Sign Up for Free
+
+\*Sending &. receiving funds requires a PayPal account.  
+\*\*Subject to credit approval.
 
 Business
 
 Start accepting all kinds of payments with one PayPal business account.
 
-Get Started
+\+ Business + Business
 
-Send, shop and pay your way with one account. Send money
+Get paid on your website or app, in your store or on-the-go, and by email or phone
+
+Accept cards, PayPal, Apple Pay, PayPal Credit and much more.
+
+Borrow for your business with affordable business loans. Learn more
+
+Get live support and seller protection.
+
+Get Started Send, shop and pay your way with one account. Send money
 
 Send, request and collect money from PayPal friends and family
 
@@ -93,4 +113,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&pgst=Unknown&calc=f5366af542e0d&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&ccpg=us&csci=db9fde046fe948c798547b6f919f8300&comp=mppnodeweb&tsrce=mppnodeweb&cu=0&pxpguid=386e3e8c16d0a1e3e2158409ffeaa1e8&xe=100979%2C100883%2C100971&xt=102836%2C102539%2C102818&pgld=Unknown&bzsr=main&bchn=mktg&tmpl=home.dust&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&pgst=Unknown&calc=47f677d47557c&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&ccpg=us&csci=026a0c55c30947fc9fc766cfa3b20f2b&comp=mppnodeweb&tsrce=mppnodeweb&cu=0&pxpguid=3d95917d16d0a1e1731df027fff20e96&xe=100979%2C100883%2C100971&xt=102835%2C102538%2C102818&pgld=Unknown&bzsr=main&bchn=mktg&tmpl=home.dust&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
