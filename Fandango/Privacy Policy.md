@@ -6,38 +6,33 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movies Now Playing
     
     *   It Chapter Two (2019)
+    *   Hustlers
     *   Angel Has Fallen
     *   Good Boys (2019)
     *   The Lion King (2019)
-    *   Overcomer
     *   Fast &. Furious Presents: Hobbs &. Shaw
+    *   Overcomer
+    *   The Goldfinch
     *   The Peanut Butter Falcon
-    *   Scary Stories to Tell in the Dark
-    *   Ready or Not
     *   Dora and the Lost City of Gold
-    *   Once Upon a Time in Hollywood
+    *   Scary Stories to Tell in the Dark
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   The Goldfinch
-    *   Hustlers
-    *   Chasing Einstein
-    *   Depraved
-    *   Desolation Center
-    *   Freaks (2019)
-    *   Imprisoned
-    *   Liam Gallagher: As It Was
-    *   Monos
-    *   Out of Liberty
-    *   Section 375
+    *   Ad Astra
+    *   Downton Abbey (2019)
+    *   Rambo: Last Blood
+    *   Britt-Marie Was Here
+    *   Midnight Diner (2019)
+    *   Midnight Traveler
+    *   Tazza: One Eyed Jack
+    *   Where's My Roy Cohn?
+    *   The Zoya Factor
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Ad Astra
-    *   Downton Abbey (2019)
-    *   Rambo: Last Blood
     *   Abominable (2019)
     *   Joker (2019)
     *   The Addams Family (2019)
@@ -45,6 +40,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Jexi
     *   Maleficent: Mistress of Evil
     *   Zombieland: Double Tap
+    *   Black and Blue (2019)
+    *   Countdown (2019)
+    *   The Current War
     *   See All Coming Soon
     
     Explore More
@@ -72,9 +70,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: How Jennifer Lopez Trained for ‘Hustlers,’ ‘The Goldfinch’ Director Commentary and More Read More
+    *   Today in Movie Culture: ‘Downton Abbey’ Recap, the Real Science Behind ‘Ad Astra’ and More Read More
     *   The Week in Movie News: ‘Face/Off’ Remake in the Works, First ‘Midway’ Trailer and More Read More
-    *   Next 3 Major Movie Chapters: 'Terminator: Dark Fate,' 'Doctor Sleep,' 'The Invisible Man' Read More
+    *   Next 3 Strong Female-Driven Films: 'Downton Abbey,' 'Maleficent: Mistress of Evil,' 'Harriet' Read More
     
     Explore Content
     *   Movie Reviews
