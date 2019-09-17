@@ -315,8 +315,8 @@ Close Upload ★TRY VIP!
     *   big boobs
     *   homemade
     *   mother
-    *   brunette
     *   cumshot
+    *   brunette
     *   big cock
     *   blonde
     *   ass fuck
@@ -358,7 +358,7 @@ Close Upload ★TRY VIP!
     *   Lesbian
     *   Threesome
     *   Indian
-    *   Exclusive VIP VIP
+    *   Hardcore
     *   Ebony
 *   Channels
     
@@ -1240,7 +1240,7 @@ Send Pornstars Results For: More Top Pornstars » Video Results For: Sort by: Re
 *   Relevance
 *   Views
 *   Votes
-*   VIP Exclusive
+*   Votes
 
 Sorry, we couldn't find any pages containing
 
