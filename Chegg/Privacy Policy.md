@@ -173,9 +173,9 @@ If you use the Services through a mobile device or one of our mobile application
 
 We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.
 
-Text messages: You may be able to opt-in to receiving text messages from Chegg. You may opt-out by replying "STOP" to one of the text messages received.
+**Text messages:** You may be able to opt-in to receiving text messages from Chegg. You may opt-out by replying "STOP" to one of the text messages received.
 
-Push Notification: We will send you push notifications if you agree to receive them to announce special deals and to send you your itinerary. You may opt-out of receiving these at any time by going to the phone settings and turning them off.
+**Push Notification:** We will send you push notifications if you agree to receive them to announce special deals and to send you your itinerary. You may opt-out of receiving these at any time by going to the phone settings and turning them off.
 
   
 
