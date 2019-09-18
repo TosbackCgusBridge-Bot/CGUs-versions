@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   Design and Web team summary – 17 September 2019
 *   Introduction to MicroK8s &#8211. Part 1/2
 *   Hardware discovery and kernel auto-configuration in MAAS
 *   Machine Learning Operations (MLOps): Deploy at Scale
 *   Management of snaps in a controlled, enterprise environment
-*   The teleop\_tools arrive in ROS 2 Dashing!
 
 *    ›
