@@ -365,23 +365,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
+    *   Apps vulnerable to SQL injection by way of virtual assistant verbal commands
+    *   Authorities arrest 281 alleged BEC scammers in 'Operation reWired' campaign
+    *   A Perpetual Problem: Tackling the Cybersecurity Skills Shortage
+    *   CirclCI data breach exposed customer GitHub and Bitbucket logins
+    *   Instagram fixed after researcher finds way to link account info to PII
+    
     *   Maryland gov't promises funds for Baltimore surveillance initiative
-    *   What’s in your cloud?
-    *   Microsoft Patch Tuesday: Two zero days and 17 critical vulnerabilities addressed
+    *   Fake résumé emails attempt to spread Ordinypt Wiper to German recipients
+    *   WordPress update fixes assortment of XSS flaws
+    *   A Perpetual Problem: Tackling the Cybersecurity Skills Shortage
     *   U.K. man arrested for allegedly hacking musicians, selling their songs
-    *   Monster.com job applicants info exposed on unprotected server
     
-    *   Facebook hosts election security meeting between tech companies, intel officials
-    *   What you don’t, but need to, know about AI
-    *   What’s in your cloud?
-    *   Taxpayers stand strong against paying ransoms
-    *   Researchers: Iranian phishing campaign targets universities with fake library emails
-    
-    *   Making the case for IT/OT security integration
-    *   InnfiRAT malware hunts for cryptocurrency info, browser cookie data
-    *   Misconfigured database exposes 198M records on prospective auto buyers
-    *   Pen test gone awry? Coalfire staffers arrested for burglary
-    *   U.S. sanctions North Korea hacking groups, says attacks funded missile program
+    *   Gamification: A winning strategy for cybersecurity training
+    *   Exposed server leaks PII on all 16.6 million Ecuador citizens
+    *   Fake résumé emails attempt to spread Ordinypt Wiper to German recipients
+    *   Skidmap malware drops LKMs on Linux machines to enable cryptojacking, backdoor access
+    *   Warner presses CBP on security best practices for third-party contractors
 
 Back to Top
 
