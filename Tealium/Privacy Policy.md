@@ -5,6 +5,7 @@
     *   Tealium AudienceStream CDP
     *   Tealium DataAccess
     *   Tealium For Mobile
+    *   Tealium Predict Machine Learning
 *   Solutions
     *   Mobile
     *   Identity Resolution
@@ -46,6 +47,7 @@
     *   Tealium AudienceStream CDP
     *   Tealium DataAccess
     *   Tealium For Mobile
+    *   Tealium Predict Machine Learning
 *   Solutions
     *   Mobile
     *   Identity Resolution
