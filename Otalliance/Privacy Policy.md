@@ -135,7 +135,11 @@ The IoT Trust Framework® includes a set of strategic principles necessary to he
 
 Visit our IoT Trust Framework page and download the full version or Framework Overview.
 
-Read the Framework Learn more about IoT OTA News How “Fresh” is That Privacy Statement? Privacy 27 August 2019 How “Fresh” is That Privacy Statement?
+Read the Framework Learn more about IoT OTA News OTA Analysis Finds Most Organizations Not Ready For New Privacy Regulations Press Releases 17 September 2019 OTA Analysis Finds Most Organizations Not Ready For New Privacy Regulations
+
+Reston, VA. – September 17, 2019 – The Internet Society’s Online Trust Alliance (OTA), which identifies and promotes security...
+
+How “Fresh” is That Privacy Statement? Privacy 27 August 2019 How “Fresh” is That Privacy Statement?
 
 One of the best practices we advocate and measure in our Online Trust Audit is that privacy statements should...
 
@@ -154,10 +158,6 @@ Reston, VA – July 9, 2019 – The Internet Society’s Online Trust Alliance 
 Online Trust Audit Updates &. Translations Now Available Building Trust 18 June 2019 Online Trust Audit Updates &. Translations Now Available
 
 A slightly updated version of the Online Trust Audit &. Honor Roll is now available in English, French, and...
-
-10 Years of Auditing Online Trust – What’s Changed? Building Trust 22 April 2019 10 Years of Auditing Online Trust – What’s Changed?
-
-Last week we released the 10th Online Trust Audit &. Honor Roll, which is a comprehensive evaluation of an...
 
 Load More Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team Megan Kruse photo Megan Kruse
 
