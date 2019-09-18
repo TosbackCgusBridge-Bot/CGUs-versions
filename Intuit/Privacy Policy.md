@@ -43,11 +43,7 @@ SHOP MEN$24.99 A.N.A JEANSselect styles | reg. $49
 *   WOMEN
 *   PETITES
 
-50% OFF MEN'S JEANSselect styles I New season, new jeans. The brand &. quality that always have your back.
-
-*   SHOP ALL
-
-UP TO 50% OFF HOME SALEselect styles
+50% OFF MEN'S JEANSselect stylesNew season, new jeans. The brand &. quality that always  have your back.BUY 1 GET 1 FREE\* GUYS’ ARIZONA JEANS select styles | reg. $42-$56UP TO 50% OFF HOME SALEselect styles
 
 *   SHOP ALL
 
@@ -71,7 +67,7 @@ SHOP ALLUP TO 50% OFF BABY &. TODDLER APPARELselect styles
 *   BABY
 *   TODDLER
 
-Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 32 total items loaded in Media GalleryFollow @jcpenney UP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESHOP ALLSELECT STYLESUP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESELECT STYLESSHOP ALL
+Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 32 total items loaded in Media GalleryFollow @jcpenney **\*Buy one item at regular price get a second item of equal or lesser value for free, while supplies last.** UP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESHOP ALLSELECT STYLESUP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESELECT STYLESSHOP ALL
 
 *   $719 clearance
     
@@ -109,10 +105,8 @@ Recommended for You
     $10 sale
     
     was $49.98 | 80% offLIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver(185)
+*   $639after couponwas $17 - $19 a.n.a Womens Scoop Neck Short Sleeve T-Shirt(279)
 *   $1031 - $2960after couponWorthington Essential Soft Blouse(168)
-*   $299 - $1999 sale
-    
-    was $6 - $48 | 50 - 58% offHome Expressions Solid or Stripe Bath Towel Collection(312)
 
 Shop and Save at JCPenney
 
