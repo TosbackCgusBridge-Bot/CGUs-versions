@@ -142,6 +142,7 @@ I accept Menu
         *   Dividend history and timetable
         *   Scrip dividend
         *   Annual General Meeting
+        *   Share analytics
     *   Investor FAQs
     *   Investor contacts
     *   Investor information in Chinese - 投資者中文資訊 (opens in new window)INTERIM RESULTS 2019 Find the documents and webcast details Close Navigation
@@ -423,7 +424,7 @@ Select banking type. Personal banking selected.Banking selector (auto-suggestion
 
 Account in
 
-Location selector (auto-suggestions will appear below field) 36 results are availableToggle Account in dropdown
+Location selector (auto-suggestions will appear below field) 37 results are availableToggle Account in dropdown
 
 *   Most popular
 *   Hong Kong
@@ -447,6 +448,7 @@ Location selector (auto-suggestions will appear below field) 36 results are avai
 *   Indonesia
 *   Isle of Man
 *   Jersey
+*   Macau
 *   Mainland China
 *   Malaysia
 *   Malta
