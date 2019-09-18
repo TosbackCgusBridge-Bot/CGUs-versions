@@ -29,6 +29,8 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   Election 2020
     *   Democratic Nomination
     *   General Election Polls
+    *   Election Calendar
+    *   Democratic Betting Odds
     *   Generic Congressional Ballot
     *   Presidential Primary Polls
     *   Senate Polls
@@ -70,6 +72,8 @@ We use cookies to offer you a better experience and to help us understand how yo
         *   Election 2020
         *   Democratic Nomination
         *   General Election Polls
+        *   Election Calendar
+        *   Democratic Betting Odds
         *   Generic Congressional Ballot
         *   Presidential Primary Polls
         *   Senate Polls
@@ -113,53 +117,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Jeet Heer_: How Dems Can Fight Brett Kavanaugh
+*   _Kim Wehle_: Gorsuch Is Wrong--'Originalist' Judges Make Stuff Up Too
     
-*   _Miranda Devine_: Democrats' Fresh Kavanaugh Smear Doesn't Hold Up
+*   _Margot Cleveland_: Democrats Will Regret Their Latest Kavanaugh Smear
     
-*   _Margot Cleveland_: Sen. Graham, Start Fighting for Justice for Kavanaugh
+*   _Dahlia Lithwick_: The Other Sin Unearthed by New Kavanaugh Accusations
     
-*   _Cass Sunstein_: What If Donald Trump Just Happened by Accident?
+*   _Mollie Hemingway_: NYT Reporters Also Omitted Kavanaugh Detail on NPR
     
-*   _Maureen Dowd_: Let's Debate: Are Democrats Doomed?
+*   _Carl Cannon_: The Constitution and the Enterprise: It's Been Quite a Trek
     
-*   _Byron York_: How Much of Big Trump-Russia Report Will Stay Secret?
+*   _Samantha Vinograd_: What a Successful Trump Strategy on Iran Must Include
     
-*   _Simon Henderson_: Iran's Strength and Strategy Show With Oilfield Attacks
+*   _Paul Mulshine_: Trump Should Stay Out of Mideast's Pointless Wars
     
-*   _Dan Feferman_: Israel's Elections: What Has Changed?
+*   _Kelly Sadler_: Saudi Oil Attacks Underscore Need for U.S. Energy Dominance
     
-*   _Emily Atkin_: Climate Change Poised to Alter the Face of Global Conflict
+*   _David Wallace-Wells_: It's Greta Thunberg's World--But It's Still Burning
     
-*   _Jon Gabriel_: Climate Alarmists' Years-Long Fear Campaign Has Failed
+*   _Helen Raleigh_: Mugabe Isn't the Only Charming Socialist to Ruin a Country
     
-*   _Kalev Leetaru_: Warren, Sanders Trim Biden's Lead in Media &. Online Mentions
+*   _Jeffrey Sutton_: Constitution Day Is Also About State-Level Protections
     
-*   _Victor Davis Hanson_: Only Trump Could Have Survived All the Attacks
+*   _Kyle Smith_: The Media Is Beclowning Itself Trying to End Trump
     
-*   _Jonathan Blitzer_: The Fight for the Latino Vote in Florida
+*   _Amanda Marcotte_: It's Clear That Brett Kavanaugh Lied Under Oath
     
-*   _Frank Miele_: Why Trump Will Win: 'The Evidence of Things Unseen'
+*   _Julie Kelly_: No Evidence? Not a Problem for Democrats
     
-*   _Lloyd Green_: RIP GOP: How Dems Can Usher Fall of House of Trump
+*   _Mimi Rocah_: How Kavanaugh Confirmation Process Silenced Women
     
-*   _Roger Kimball_: A Fresh Assassination of Kavanaugh's Character
+*   _John Murawski_: Woke History Is Making Big Inroads in High Schools
     
-*   _E.J. Dionne_: New Kavanaugh Claims Show How GOP Broke the Court
+*   _Anne Gearan_: Trump's Dual Instincts on Iran: Big Threats vs. Eagerness to Deal
     
-*   _Mollie Hemingway_: Alleged Victim in NYT Story Denies Any Recollection
+*   _Andrew Bacevich_: Iran May Be an Enemy, But Saudi Arabia Is No Friend
     
-*   _Chas Danner_: Kavanaugh's Impeachment Just Became a 2020 Issue
+*   _Richard Tafel_: Understanding America's Cultural and Political Realignment
     
-*   _Philip Wegmann_: What Past Also-Rans Can Teach GOP Challengers to Trump
+*   _Ezra Klein_: Joe Biden Is Not Barack Obama
     
-*   _Eli Lake_: Yes, Iran Was Behind the Saudi Oil Attack. Now What?
+*   _Brandon Judd_: Daunted by Trump's Success, Dems Want Border Crisis Back
     
-*   _James Adams_: How Drones Are Dramatically Changing Warfare
+*   _Juan Williams_: Why Does Trump Fear Republican Voters?
     
-*   _Dahlia Lithwick_: Voting Rights the Most Important Issue Facing Us Today
+*   _George Parry_: Michael Flynn Graymails the Government
     
-*   _Jason Chaffetz_: Ballot Harvesting: California's Model to Steal 2020
+*   _Susan Crabtree_: 2020 Dems Assail Kavanaugh Despite NYT Story Correction
     
 
 *   Previous
@@ -230,11 +234,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Says U.S. Locked and Loaded in Response to Drone Attack
+*   2020 Dems Assail Kavanaugh Despite NYT Story Correction
+*   WH Calls for Investigation of Ind. Abortionist. Buttigieg Silent
+*   Trump: Everybody at NYT Involved in Kavanaugh Story Must Resign
 *   What Past Also-Rans Can Teach Republican Challengers to Trump
-*   Hemingway: New Accusation Against Kavanaugh Is Denied by Alleged Victim
 *   Debate Snapshots: 10 Candidates, 10 Strategies on Display
-*   Poll: Republicans Could Rebound in Orange County and New Mexico
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -247,37 +251,54 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationPolitico/Morning Consult
-    *   Biden32
-    *   Warren18
-    *   Sanders20
-    *   Harris6
-    *   Buttigieg5
-    *   O'Rourke4
-    *   Yang3
-    *   Booker3
+*   2020 Democratic Presidential NominationNBC News/Wall St. Jrnl
+    *   Biden31
+    *   Warren25
+    *   Sanders14
+    *   Harris5
+    *   Buttigieg7
+    *   Yang4
+    *   O'Rourke1
+    *   Booker2
     *   Klobuchar2
     *   Gabbard1
     *   Castro1
     *   Steyer1
-    *   Bullock1Biden +12
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve50
-    *   Disapprove49Approve +1
-*   Direction of CountryRasmussen Reports
-    *   Right Direction42
-    *   Wrong Track53Wrong Track +11
-*   President Trump Job ApprovalThe Hill/HarrisX
-    *   Approve47
-    *   Disapprove53Disapprove +6
+    *   Bennet1Biden +6
+*   California Democratic PrimaryEmerson
+    *   Biden26
+    *   Sanders26
+    *   Warren20
+    *   Harris6
+    *   Buttigieg4
+    *   Yang7
+    *   O'Rourke5
+    *   Gabbard2
+    *   Booker1
+    *   Castro1
+    *   Steyer1
+    *   Klobuchar0
+    *   Williamson0Tie
+*   New York Democratic Presidential PrimarySiena
+    *   Biden22
+    *   Warren17
+    *   Sanders15
+    *   Harris4
+    *   Buttigieg3
+    *   Yang1
+    *   Klobuchar1
+    *   Gabbard1Biden +5
+*   California: Trump vs. BidenEmerson
+    *   Biden64
+    *   Trump36Biden +28
 
 More Latest Polls In The News
 
-*   Kavanaugh Book Authors: New York Times Editors Removed Part That Victim Did Not Remember Assault
-*   Grassley: Who Will Watch The Watchmen On New Kavanaugh Allegations?. NYT Withheld Crucial Facts
-*   Coons: Saudi Oil Attacks "May Well Be The Thing That Calls For Military Action Against Iran" If Intel Supports
-*   Biden Recalls Terrifying 1960s Pool Confrontation With Razor-Wielding Gangster Named "Corn Pop"
-*   Julian Castro Calls For Kavanaugh Impeachment: Mitch McConnell Has Stolen Two Supreme Court Seats
+*   Carrie Severino: NYT Report A Shameful Attempt To Reignite Controversy And Smears Around Kavanaugh
+*   NYT Kavanaugh Authors on "Oversight" In Alleged Assault Story: "We're Very Sorry That It Happened"
+*   Lewandowski Opening: Dems Are "Going Down Rabbit Holes" And "Focusing On Petty And Personal Politics"
+*   Nadler Accuses Lewandowski Of "Filibustering," Refusing To Answer Questions In Heated Testimony
+*   Trump: Everybody Involved In Kavanaugh Story At NYT Must Resign, Destroyed Old Gray Lady's "Virtue"
 
 *   Politics
 *   Policy
