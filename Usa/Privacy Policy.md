@@ -6,8 +6,6 @@ Change country/language X
 
 Autodesk logo
 
-*   0
-
 *   Sign In
     
     Autodesk Account
@@ -134,23 +132,23 @@ READY TO MAKE ANYTHING
 
 We've combined our most powerful software and services to create one simple package, for one great price—Autodesk industry collections.
 
-learn more   _BAM Ireland is using AI to make construction smarter, safer, and more sustainable._  
-_Read story_
-
-PRODUCT DESIGN &  
-MANUFACTURING COLLECTION
-
-Professional CAD/CAM tools built on Inventor and AutoCAD Learn more Free trial Subscribe
+learn more   _Volkswagen uses generative design to help reimagine the classic VW bus._  
+_Watch video_
 
 ARCHITECTURE, ENGINEERING &.  
 CONSTRUCTION COLLECTION
 
 Integrated BIM tools, including Revit, AutoCAD, and Civil 3D Learn more Free trial Subscribe
 
+PRODUCT DESIGN &  
+MANUFACTURING COLLECTION
+
+Professional CAD/CAM tools built on Inventor and AutoCAD Learn more Free trial Subscribe
+
 MEDIA &.  
 ENTERTAINMENT COLLECTION
 
-Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Promo Data: FY20 Multi-Year Offer Try, buy, or learn more about Autodesk products See all products
+Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Image courtesy of Volkswagen Promo Data: FY20 Multi-Year Offer Try, buy, or learn more about Autodesk products See all products
 
 Software for 2D and 3D CAD. Subscription includes AutoCAD, specialized toolsets, and apps.
 
@@ -182,11 +180,11 @@ Subscribe
 
 $400.00/year
 
-Try, buy, or learn more about Autodesk products See all products The Future of Making Granta disrupts medical-device manufacturing with digital fabrication
+Try, buy, or learn more about Autodesk products See all products The Future of Making Connect information across the construction-project lifecycle
 
-Find out how this start-up team uses expertise in automotive engineering and digital manufacturing to innovate the design and fabrication of custom skull implants.
+Work smarter with Autodesk software solutions for construction management—connecting technologies, people, and processes across the entire project lifecycle.
 
-Read story
+LEARN MORE
 
 Make anything.   Autodesk makes software for  
 people who make things Across the manufacturing, architecture, building, construction, media, and entertainment industries, Autodesk gives you the power to make anything. Learn more about Autodesk   Resources FREE SOFTWARE FOR STUDENTS file viewers Support Autodesk Community
@@ -209,7 +207,7 @@ Product details
 
 $2,590.00/year
 
-Subscribe Feedback FOLLOW AUTODESK
+Subscribe FEEDBACK FOLLOW AUTODESK
 
 *   Facebook
 *   Instagram
