@@ -9,85 +9,97 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
 
 *   All EventsShop Sale Events
     
-    *   Splendid Bedding Sets: All Sizes at $99.97
+    *   Cashmere Up to 70% Off Incl. Plus &. Petites
+    *   Pullovers Under $40 Incl. Plus &. Petites
+    *   Cardigans Under $40 Incl. Plus &. Petites
+    *   Sweater Dresses Starting at $25
+    *   Via Spiga Up to 60% Off
+    *   Botkier Shoes &. Bags Up to 50% Off
+    *   Perfect Pairs for Every Look: Pants Under $40
+    *   Kenneth Cole New York Coats &. More Under $80
+    *   Fergalicious &. Carlos by Carlos Santana Boots
+    *   14K Gold Jewelry Steals
+    *   Men's Sweaters Starting at $20
+    *   See Kai Run
+    *   JBW Watches Up to 80% Off
+    *   Lorenzo Uomo Up to 60% Off
+    *   Kids' Sweater Styles Starting at $15
+    *   Italeau Up to 55% Off
+    *   Korean Beauty Skin Care &. Makeup ft. It's Skin
+    *   Great Gifts ft. Dyson, Smeg &. Nambe
+    *   Free Shipping: Storage Must-Haves from $10
+    *   Robert Wayne Up to 55% Off
+    *   Isaac Mizrahi
+    *   Kids' Activewear Up to 65% Off
+    
+    *   Must-Have Palettes &. Lipsticks ft. Mavie Cosmetics
+    *   Free Shipping: BergHOFF Cookware Spectacular
+    *   Free Shipping: Statement-Making Canvas Wall Art
     *   Free Shipping: Storage for Every Room
-    *   Technically Necessary: Cases, Cords &. More
     *   Gucci Sun &. More Up to 70% Off
-    *   Marc Jacobs
+    *   Eileen Fisher Up to 55% Off Incl. Plus
     *   Designer Spotlight: GREY Jason Wu &. More
+    *   Glam Galore: Jump Dresses &. More
+    *   Technically Necessary: Cases, Cords &. More
+    *   Marc Jacobs
     *   LORAC Starting at $10
     *   Men's Designer Shoes Up to 65% Off ft. Bally
     *   Our Top Brands: Fall Sweaters from $25
-    *   Glam Galore: Jump Dresses &. More
     *   Designer Shoes Up to 50% Off ft. Marc Jacobs
     *   Casually Chic: On The Road &. More
     *   Muk Luks From $20
+    *   Juicy Couture Girls
     *   Dainty Details: Meira T Fine Jewelry
     *   In Bloom Intimates &. Midnight Bakery
     *   Rock &. Candy and ZIGIny
     *   Save Khaki
     *   Boots &. More ft. Cecelia New York and Marc Fisher
+    
     *   Chan Luu: Layering Necklaces &. Bracelets
     *   Hair Tools 101: Flat Irons, Brushes &. More
-    *   Juicy Couture Girls
-    *   Eileen Fisher Up to 55% Off Incl. Plus
     *   Eileen Fisher Shoes Up to 50% Off
-    
     *   Burberry Fragrance
-    *   Be Bold This Fall: Styles ft. Jealous Tomato
-    *   Cotton On Starting at $15
     *   Vineyard Vines Men Starting at $35
     *   G-Star RAW Men Up to 60% Off
-    *   Ron White Up to 55% Off
-    *   Lancaster Paris Bucket Bags &. More
-    *   Bed|Stu &. Roan Up to 55% Off
-    *   Fall Mix: Styles ft. Mustard Seed
-    *   La Blanca Swimwear
     *   Vineyard Vines for Kids &. Women
     *   Tahitian Pearl Jewelry &. More Starting at $15
     *   Base London
-    *   Linen Closet Refresh: Bedding &. Bath Under $100
-    *   Free Shipping: Statement-Making Canvas Wall Art
     *   ORA Derma Roller &. Microdermabrasion Tools
     *   DIY Face Mask Kits &. More
     *   Freestyle by Danskin &. More
-    *   Papillon Up to 85% Off
-    *   ALEX AND ANI Starting at $15
-    *   Sandals &. More Up to 70% Off
-    *   Free Shipping: BergHOFF Cookware Spectacular
-    *   Last Chance: Men's Swim Blowout
-    
     *   Free Shipping: Bedding Steals Up to 75% Off
     *   Men's Shoes Up to 70% Off
-    *   Last Chance: Swim Blowout
-    *   BOSS Men's Clothing &. Accessories Up to 60% Off
-    *   HUGO BOSS Women Up 60% Off
-    *   BOSS Men's Shoes
-    *   BOSS Women's Shoes
-    *   Lafonn Simulated Diamond Jewelry Up to 70% Off
     *   Korean Beauty: Leaders Cosmetics from $10
-    *   14K Gold Jewelry &. More Starting at $20
-    *   Isaac Mizrahi
-    *   Aquatalia Men
     *   Fromm: Tools Starting at $10
     *   Nostalgia Kitchen Faves Starting at $20
     *   Free Shipping: Sheet Sets, Duvets &. More
-    *   Dr. Scholl's Men
-    *   CALPAK Luggage
-    *   Laura Mercier Up to 50% Off
-    *   Korean Beauty: rootree, Dr. Frog &. More
     *   Fujifilm Cameras &. More Starting at $10
     *   Free Shipping: Luxe Bedding for Every Style
     *   Organization Essentials Starting at $10
-    *   Free Shipping: Storage Faves Up to 50% Off
 *   WomenShop Sale Events
     
+    *   Cashmere Up to 70% Off Incl. Plus &. Petites
+    *   Pullovers Under $40 Incl. Plus &. Petites
+    *   Cardigans Under $40 Incl. Plus &. Petites
+    *   Sweater Dresses Starting at $25
+    *   Via Spiga Up to 60% Off
+    *   Botkier Shoes &. Bags Up to 50% Off
+    *   Perfect Pairs for Every Look: Pants Under $40
+    *   Kenneth Cole New York Coats &. More Under $80
+    *   Fergalicious &. Carlos by Carlos Santana Boots
+    *   14K Gold Jewelry Steals
+    *   JBW Watches Up to 80% Off
+    *   Italeau Up to 55% Off
+    *   Korean Beauty Skin Care &. Makeup ft. It's Skin
+    *   Must-Have Palettes &. Lipsticks ft. Mavie Cosmetics
     *   Gucci Sun &. More Up to 70% Off
-    *   Marc Jacobs
+    *   Eileen Fisher Up to 55% Off Incl. Plus
     *   Designer Spotlight: GREY Jason Wu &. More
+    *   Glam Galore: Jump Dresses &. More
+    *   Marc Jacobs
+    
     *   LORAC Starting at $10
     *   Our Top Brands: Fall Sweaters from $25
-    *   Glam Galore: Jump Dresses &. More
     *   Designer Shoes Up to 50% Off ft. Marc Jacobs
     *   Casually Chic: On The Road &. More
     *   Muk Luks From $20
@@ -97,108 +109,91 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   Boots &. More ft. Cecelia New York and Marc Fisher
     *   Chan Luu: Layering Necklaces &. Bracelets
     *   Hair Tools 101: Flat Irons, Brushes &. More
-    *   Eileen Fisher Up to 55% Off Incl. Plus
     *   Eileen Fisher Shoes Up to 50% Off
     *   Burberry Fragrance
-    *   Be Bold This Fall: Styles ft. Jealous Tomato
-    *   Cotton On Starting at $15
-    *   Ron White Up to 55% Off
-    
-    *   Lancaster Paris Bucket Bags &. More
-    *   Bed|Stu &. Roan Up to 55% Off
-    *   Fall Mix: Styles ft. Mustard Seed
-    *   La Blanca Swimwear
     *   Tahitian Pearl Jewelry &. More Starting at $15
     *   ORA Derma Roller &. Microdermabrasion Tools
     *   DIY Face Mask Kits &. More
-    *   Papillon Up to 85% Off
-    *   ALEX AND ANI Starting at $15
-    *   Sandals &. More Up to 70% Off
-    *   Last Chance: Swim Blowout
-    *   HUGO BOSS Women Up 60% Off
-    *   BOSS Women's Shoes
-    *   Lafonn Simulated Diamond Jewelry Up to 70% Off
     *   Korean Beauty: Leaders Cosmetics from $10
-    *   14K Gold Jewelry &. More Starting at $20
     *   Fromm: Tools Starting at $10
-    *   CALPAK Luggage
-    *   Laura Mercier Up to 50% Off
-    *   Korean Beauty: rootree, Dr. Frog &. More
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Handbags
     *   Accessories
+    *   Handbags
     *   Lingerie
     *   Watches
 *   MenShop Sale Events
     
+    *   Men's Sweaters Starting at $20
+    *   JBW Watches Up to 80% Off
+    *   Lorenzo Uomo Up to 60% Off
+    *   Robert Wayne Up to 55% Off
     *   Gucci Sun &. More Up to 70% Off
     *   Men's Designer Shoes Up to 65% Off ft. Bally
+    
     *   Save Khaki
     *   Vineyard Vines Men Starting at $35
     *   G-Star RAW Men Up to 60% Off
     *   Base London
-    *   Last Chance: Men's Swim Blowout
-    
     *   Men's Shoes Up to 70% Off
-    *   BOSS Men's Clothing &. Accessories Up to 60% Off
-    *   BOSS Men's Shoes
-    *   Aquatalia Men
-    *   Dr. Scholl's Men
-    *   CALPAK Luggage
     
     Shop By Category
     *   Shoes
     *   Clothing
-    *   Accessories
     *   Watches
+    *   Accessories
 *   KidsShop Sale Events
     
+    *   See Kai Run
+    *   Kids' Sweater Styles Starting at $15
+    *   Isaac Mizrahi
+    *   Kids' Activewear Up to 65% Off
     *   Juicy Couture Girls
     *   Vineyard Vines for Kids &. Women
     *   Freestyle by Danskin &. More
-    *   Isaac Mizrahi
     
     Shop By Category
-    *   Boys' Sizes 2T-7
-    *   Boys' Sizes 8-20
-    *   Girls' Sizes 2T-6X
     *   Girls' Sizes 7-16
+    *   Boys' Sizes 2T-7
+    *   Girls' Sizes 2T-6X
+    *   Boys' Sizes 8-20
     *   Baby Girl
+    *   Girls' Shoes
     *   Baby Boy
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
-    *   Splendid Bedding Sets: All Sizes at $99.97
+    *   Great Gifts ft. Dyson, Smeg &. Nambe
+    *   Free Shipping: Storage Must-Haves from $10
+    *   Free Shipping: BergHOFF Cookware Spectacular
+    *   Free Shipping: Statement-Making Canvas Wall Art
     *   Free Shipping: Storage for Every Room
     *   Technically Necessary: Cases, Cords &. More
-    *   Linen Closet Refresh: Bedding &. Bath Under $100
-    *   Free Shipping: Statement-Making Canvas Wall Art
-    *   Free Shipping: BergHOFF Cookware Spectacular
-    *   Free Shipping: Bedding Steals Up to 75% Off
     
+    *   Free Shipping: Bedding Steals Up to 75% Off
     *   Nostalgia Kitchen Faves Starting at $20
     *   Free Shipping: Sheet Sets, Duvets &. More
-    *   CALPAK Luggage
     *   Fujifilm Cameras &. More Starting at $10
     *   Free Shipping: Luxe Bedding for Every Style
     *   Organization Essentials Starting at $10
-    *   Free Shipping: Storage Faves Up to 50% Off
     
     Shop By Category
-    *   Bedding
     *   Cleaning &. Organization
+    *   Bedding
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Electronic &. Tech Accessories
-    *   Bath
     *   Luggage &. Travel
     *   Outdoor Living
+    *   Bath
     *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   Korean Beauty Skin Care &. Makeup ft. It's Skin
+    *   Must-Have Palettes &. Lipsticks ft. Mavie Cosmetics
     *   LORAC Starting at $10
     *   Hair Tools 101: Flat Irons, Brushes &. More
     *   Burberry Fragrance
@@ -206,14 +201,13 @@ Let's fix that!Shop New Arrivals**Free Shipping** on Orders Over $100\*
     *   DIY Face Mask Kits &. More
     *   Korean Beauty: Leaders Cosmetics from $10
     *   Fromm: Tools Starting at $10
-    *   Laura Mercier Up to 50% Off
-    *   Korean Beauty: rootree, Dr. Frog &. More
     
     Shop By Category
     *   Skin Care
     *   Hair Care
     *   Makeup
     *   Fragrance
+    *   Bath &. Body
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
