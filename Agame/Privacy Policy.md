@@ -186,7 +186,7 @@ View more results
     *   Vincy Lip Care
     *   Ella: Hips Surgery
     *   Princess Rivalry
-    *   Beauty's Transformation: Fashion Game
+    *   Slope: Neon Ball Rolling Game
 *   Top Categories
     
     *   BMX Games
@@ -247,8 +247,8 @@ View more results
     *   Basketball Stars 2019
     *   8-Ball
     *   Table Tennis Challenge
-    *   Cricket CPL Tournament
     *   Neon Biker
+    *   Cricket CPL Tournament
     *   Baseball
 *   *   Multiplayer
     *   Action
