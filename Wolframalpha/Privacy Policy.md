@@ -281,6 +281,7 @@ Legal
 
 *   Publishing and Submissions
 *   *   Wolfram Challenges
+    *   Wolfram Competitions
     *   Wolfram Data Repository
     *   Wolfram Demonstrations
     *   Wolfram Resource System
