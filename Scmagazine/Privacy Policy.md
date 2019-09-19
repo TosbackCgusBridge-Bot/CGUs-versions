@@ -365,23 +365,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Apps vulnerable to SQL injection by way of virtual assistant verbal commands
-    *   Authorities arrest 281 alleged BEC scammers in 'Operation reWired' campaign
-    *   A Perpetual Problem: Tackling the Cybersecurity Skills Shortage
-    *   CirclCI data breach exposed customer GitHub and Bitbucket logins
-    *   Instagram fixed after researcher finds way to link account info to PII
-    
     *   Maryland gov't promises funds for Baltimore surveillance initiative
-    *   Fake résumé emails attempt to spread Ordinypt Wiper to German recipients
-    *   WordPress update fixes assortment of XSS flaws
-    *   A Perpetual Problem: Tackling the Cybersecurity Skills Shortage
-    *   U.K. man arrested for allegedly hacking musicians, selling their songs
-    
-    *   Gamification: A winning strategy for cybersecurity training
+    *   The Rockford files: Ransomware disrupts Illinois school district's systems
+    *   In cybersecurity speed kills, but faster saves
+    *   Facebook boots multiple inauthentic accounts created in Iraq and Ukraine
     *   Exposed server leaks PII on all 16.6 million Ecuador citizens
+    
     *   Fake résumé emails attempt to spread Ordinypt Wiper to German recipients
-    *   Skidmap malware drops LKMs on Linux machines to enable cryptojacking, backdoor access
-    *   Warner presses CBP on security best practices for third-party contractors
+    *   Metasploit Project publishes exploit for Bluekeep bug
+    *   Maryland gov't promises funds for Baltimore surveillance initiative
+    *   The Rockford files: Ransomware disrupts Illinois school district's systems
+    *   U.S. sanctions North Korea hacking groups, says attacks funded missile program
+    
+    *   In cybersecurity speed kills, but faster saves
+    *   Justice Dept. sues Snowden over book release
+    *   Emotet back in action
+    *   Facebook boots multiple inauthentic accounts created in Iraq and Ukraine
+    *   Def Con 2020: A space odyssey, hacking an orbiting satellite
 
 Back to Top
 
