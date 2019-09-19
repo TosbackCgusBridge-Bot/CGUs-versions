@@ -37,15 +37,15 @@ Close MENU **IS**
 
 **GS**
 
-*   Starting at $46,8601\*
-*   2.0L I-4 or 3.5L V6
+*   Starting at $51,0651\*
+*   311-HP3\* 3.5L V6
 
 *   Build
 *   Current Offers
 
 **GS F**
 
-*   Starting at $84,6001\*
+*   Starting at $85,0101\*
 *   467-HP3\* 5.0L V8
 
 *   Build
@@ -53,15 +53,15 @@ Close MENU **IS**
 
 **LS**
 
-*   Starting at $75,4504\*
-*   416-HP3, 5\* 3.5L V6
+*   Starting at $75,4501\*
+*   416-HP3, 4\* 3.5L V6
 
 *   Build
 *   Current Offers
 
 **LS HYBRID**
 
-*   Starting at $79,9604\*
+*   Starting at $79,9601\*
 *   354 TOTAL SYSTEM HP3\*
 
 *   BUILD
@@ -71,7 +71,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **UX**
 
-*   Starting at $32,1504\*
+*   Starting at $32,1505\*
 *   169-HP6\* 2.0L I-4
 
 *   Build
@@ -203,7 +203,7 @@ COMPARE **UX HYBRID**
 
 **LS HYBRID**
 
-*   Starting at $79,9604\*
+*   Starting at $79,9601\*
 *   354 TOTAL SYSTEM HP3\*
 
 *   BUILD
@@ -229,7 +229,7 @@ COMPARE **RC F**
 
 **GS F**
 
-*   Starting at $84,6001\*
+*   Starting at $85,0101\*
 *   467-HP3\* 5.0L V8
 
 *   Build
@@ -361,9 +361,9 @@ click here Important Info Important Info
 
 \[3\] Ratings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
 
-\[4\] MSRP excludes delivery, processing and handling fee of $1,025, which may be subject to change at any time. Excludes taxes, title, license and optional equipment. Dealer price will vary.
+\[4\] Specs for RWD model shown.
 
-\[5\] Specs for RWD model shown.
+\[5\] MSRP excludes delivery, processing and handling fee of $1,025, which may be subject to change at any time. Excludes taxes, title, license and optional equipment. Dealer price will vary.
 
 \[6\] Ratings achieved using premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
 
