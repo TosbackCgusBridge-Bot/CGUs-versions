@@ -83,7 +83,7 @@ Skip Navigation
     *   View on the web
     *   Download the English PDF
     *   Download the Spanish PDF
-*   English Español Français
+*   English Français Español
 
   Our Privacy Approach
 
