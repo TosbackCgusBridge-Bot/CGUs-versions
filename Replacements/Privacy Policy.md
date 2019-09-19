@@ -166,7 +166,7 @@ Flatware Jewelry
     
     *   Watches
     *   Men's Watches
-    *   Women's WatchesSave Additional 25% on Select Estate Jewelry >.
+    *   Women's WatchesExplore Watches >.
 *   Specials
     
     *   Weekly Features
