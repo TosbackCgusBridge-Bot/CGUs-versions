@@ -117,53 +117,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Kim Wehle_: Gorsuch Is Wrong--'Originalist' Judges Make Stuff Up Too
+*   _Byron York_: Dems, Stuck on Watergate, Bungle Lewandowski Hearing
     
-*   _Margot Cleveland_: Democrats Will Regret Their Latest Kavanaugh Smear
+*   _Dana Milbank_: Nasty Lewandowski Debuts Senate Campaign Theme
     
-*   _Dahlia Lithwick_: The Other Sin Unearthed by New Kavanaugh Accusations
+*   _Kyle Smith_: Architect of Kavanaugh Smear Gives Self-Damning Interview
     
-*   _Mollie Hemingway_: NYT Reporters Also Omitted Kavanaugh Detail on NPR
+*   _Rekha Basu_: Grassley Put Politics First in Kavanaugh Hearings
     
-*   _Carl Cannon_: The Constitution and the Enterprise: It's Been Quite a Trek
+*   _John Kass_: Kavanaugh Smears Have Always Been About Abortion
     
-*   _Samantha Vinograd_: What a Successful Trump Strategy on Iran Must Include
+*   _Andy Puzder_: Labor Shortage May Imperil Economic Growth
     
-*   _Paul Mulshine_: Trump Should Stay Out of Mideast's Pointless Wars
+*   _Thomas Hibbs_: Teens Leaving Labor Force Will Hurt Them Down the Road
     
-*   _Kelly Sadler_: Saudi Oil Attacks Underscore Need for U.S. Energy Dominance
+*   _Megan Specia_: Bibi's In Trouble &. Other Takeaways From the Israeli Election
     
-*   _David Wallace-Wells_: It's Greta Thunberg's World--But It's Still Burning
+*   _Dominic Green_: Netanyahu Wins Again, Eventually
     
-*   _Helen Raleigh_: Mugabe Isn't the Only Charming Socialist to Ruin a Country
+*   _Jesse Jackson_: Can America Break Its Gun Addiction?
     
-*   _Jeffrey Sutton_: Constitution Day Is Also About State-Level Protections
+*   _Christopher Roach_: Why Soft-on-Crime Democrats Are Tough on 'Gun Violence'
     
-*   _Kyle Smith_: The Media Is Beclowning Itself Trying to End Trump
+*   _Kathleen Parker_: The NY Times's Travesty of Journalistic Ethics
     
-*   _Amanda Marcotte_: It's Clear That Brett Kavanaugh Lied Under Oath
+*   _Lili Loofbourow_: The GOP May One Day Regret Brett Kavanaugh
     
-*   _Julie Kelly_: No Evidence? Not a Problem for Democrats
+*   _Joseph Curl_: NYT Has Become a Dangerous Misinformation Tool of the Left
     
-*   _Mimi Rocah_: How Kavanaugh Confirmation Process Silenced Women
+*   _Elie Honig_: The Lewandowski Hearing Was a Disaster
     
-*   _John Murawski_: Woke History Is Making Big Inroads in High Schools
+*   _Reed Galen_: Just Admit It, Dems: You Want to Lose Next Year
     
-*   _Anne Gearan_: Trump's Dual Instincts on Iran: Big Threats vs. Eagerness to Deal
+*   _Robert Reich_: Donald Trump Is Dangerously Unstable
     
-*   _Andrew Bacevich_: Iran May Be an Enemy, But Saudi Arabia Is No Friend
+*   _Ben Shapiro_: The Alternative History of the United States
     
-*   _Richard Tafel_: Understanding America's Cultural and Political Realignment
+*   _Brett Bruen_: Trump Deserves Credit - For Making the Middle East Worse
     
-*   _Ezra Klein_: Joe Biden Is Not Barack Obama
+*   _Doug Schoen_: Netanyahu &. Gantz in Tight Race to Lead Israel
     
-*   _Brandon Judd_: Daunted by Trump's Success, Dems Want Border Crisis Back
+*   _Basil Smikle_: Does Joe Biden Have a Race Problem?
     
-*   _Juan Williams_: Why Does Trump Fear Republican Voters?
+*   _Richard Porter_: Money From Nothing: Dems' Socialism for Free
     
-*   _George Parry_: Michael Flynn Graymails the Government
+*   _Natasha Korecki_: Trump's Uphill Battle to Hold Wisconsin
     
-*   _Susan Crabtree_: 2020 Dems Assail Kavanaugh Despite NYT Story Correction
+*   _E.J. Montini_: Arizona Dems Would Be Idiots to Censure Sinema
     
 
 *   Previous
@@ -234,10 +234,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Strains to Balance Diplomacy, Military Threat to Iran
 *   2020 Dems Assail Kavanaugh Despite NYT Story Correction
+*   Grassley: Who Will Watch the Watchmen on Kavanaugh Allegations?
 *   WH Calls for Investigation of Ind. Abortionist. Buttigieg Silent
-*   Trump: Everybody at NYT Involved in Kavanaugh Story Must Resign
-*   What Past Also-Rans Can Teach Republican Challengers to Trump
 *   Debate Snapshots: 10 Candidates, 10 Strategies on Display
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -251,54 +251,37 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationNBC News/Wall St. Jrnl
-    *   Biden31
-    *   Warren25
-    *   Sanders14
-    *   Harris5
-    *   Buttigieg7
-    *   Yang4
-    *   O'Rourke1
-    *   Booker2
+*   2020 Democratic Presidential NominationFOX News
+    *   Biden29
+    *   Warren16
+    *   Sanders18
+    *   Harris7
+    *   Buttigieg5
+    *   O'Rourke4
+    *   Yang2
+    *   Booker3
     *   Klobuchar2
-    *   Gabbard1
-    *   Castro1
+    *   Gabbard0
+    *   Castro0
     *   Steyer1
-    *   Bennet1Biden +6
-*   California Democratic PrimaryEmerson
-    *   Biden26
-    *   Sanders26
-    *   Warren20
-    *   Harris6
-    *   Buttigieg4
-    *   Yang7
-    *   O'Rourke5
-    *   Gabbard2
-    *   Booker1
-    *   Castro1
-    *   Steyer1
-    *   Klobuchar0
-    *   Williamson0Tie
-*   New York Democratic Presidential PrimarySiena
-    *   Biden22
-    *   Warren17
-    *   Sanders15
-    *   Harris4
-    *   Buttigieg3
-    *   Yang1
-    *   Klobuchar1
-    *   Gabbard1Biden +5
-*   California: Trump vs. BidenEmerson
-    *   Biden64
-    *   Trump36Biden +28
+    *   Bennet1Biden +11
+*   General Election: Trump vs. BidenFOX News
+    *   Biden52
+    *   Trump38Biden +14
+*   General Election: Trump vs. SandersFOX News
+    *   Sanders48
+    *   Trump40Sanders +8
+*   General Election: Trump vs. WarrenFOX News
+    *   Warren46
+    *   Trump40Warren +6
 
 More Latest Polls In The News
 
+*   Student Activist At "Global Climate Crisis" Hearing: Why Study When The World Is Ending? What's The Point?
+*   Jimmy Carter: "I Hope There's An Age Limit" On The Presidency, I Couldn't Do It At Age 80
+*   Andrew McCabe: "I Never Intentionally Misled Anyone And Certainly Have Not Committed A Crime"
 *   Carrie Severino: NYT Report A Shameful Attempt To Reignite Controversy And Smears Around Kavanaugh
-*   NYT Kavanaugh Authors on "Oversight" In Alleged Assault Story: "We're Very Sorry That It Happened"
 *   Lewandowski Opening: Dems Are "Going Down Rabbit Holes" And "Focusing On Petty And Personal Politics"
-*   Nadler Accuses Lewandowski Of "Filibustering," Refusing To Answer Questions In Heated Testimony
-*   Trump: Everybody Involved In Kavanaugh Story At NYT Must Resign, Destroyed Old Gray Lady's "Virtue"
 
 *   Politics
 *   Policy
