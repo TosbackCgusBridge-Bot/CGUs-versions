@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 30% off your order!
+Receive 40% off 1 full-price item!
 
-code: ALMOND pin: PROMOTION DETAILS
+code: CHIPMUNK pin: PROMOTION DETAILS
 
 Customer Service Menu
 
