@@ -116,8 +116,8 @@ View more results
     *   Short Life
     *   Miami Crime Simulator 3D
     *   Five Nights at Freddy's 2
-    *   Tom and Jerry: Mouse Maze
     *   Five Nights at Freddy's 5
+    *   Tom and Jerry: Mouse Maze
     *   Fire Balls
     *   Five Nights at Freddy's 4
     *   FNAF World
@@ -213,11 +213,11 @@ View more results
     *   Agame Stunt Cars
     *   Uphill Rush 7: Waterpark
     *   Country Ride: Race Car Game
-    *   Moto X3M: Motorcycle Racing Game
     *   Madalin Cars Multiplayer
+    *   Moto X3M: Motorcycle Racing Game
     *   Murder
-    *   Rally Point 2: Dirt Track Racing Game
     *   Russian Car Driver
+    *   Rally Point 2: Dirt Track Racing Game
     *   Neon Biker
 *   Top Categories
     
@@ -241,8 +241,8 @@ View more results
     *   Highway Rider Extreme: Motorbike Game 3D
     *   Apple Shooter: Arrow Game
     *   Stunt Skateboard 3D
-    *   Archery World Tour
     *   Table Tennis World Tour
+    *   Archery World Tour
     *   Ultimate Boxing
     *   Basketball Stars 2019
     *   8-Ball
