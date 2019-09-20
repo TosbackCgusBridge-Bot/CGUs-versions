@@ -8,20 +8,29 @@
 
 Search Term
 
-*   Overview
+*   Security
 *   Privacy
-*   Account &. Card Security
-*   Online &. Mobile Security
 *   Report a Problem
 *   Resources link and menu. Press enter to navigate to this link. Press control + space to open submenu. To move through submenu items press tab and then press up or down arrow. FAQs Fraud Prevention Checklist Understand Merchant Compromise Glossary End of submenu
 
 Bank of America Privacy and Security Get information about privacy and security at Bank of America. Learn how we can help you protect your accounts and what you can do to help stay secure. bank of america security, bank of america privacy notice, bank of america privacy and security Bank of America Security Center Here’s what you need to know (and do) to stay as safe as possible
 
-**Your security is our top priority!  
-**We’ll never ask you to provide personal information such as an account, Social Security or Tax ID number via text, email or online. (In some instances, your debit PIN may be required to authenticate you when you sign in to Online Banking or our mobile app.)  
+**Your security is our top priority! Here are the ways we protect you:  
+**
 
-*   We will take immediate steps to work with you if you (or we) suspect fraud has taken place.
-*   Every partner, colleague and vendor is held to strict privacy and information security rules.
+*   Protecting against threats with an award-winning cybersecurity team that delivers comprehensive security 24/7
+*   Continuously monitoring transactions for suspicious activity
+*   Alerting you to potential fraud through the mobile app, text alerts layer1, email, or phone
+*   Keeping your personal and financial information protected and secure through responsible information collection, processing and privacy policies
+
+**Here is what you can do now to help fight fraud:  
+**
+
+Use our Mobile Banking app layer  
+Check your contact information layer  
+Create strong, unique passwords layer  
+Protect your devices layer  
+Keep your account information secure layer
 
 **The best way to avoid getting tricked by scammers is to know the tricks they use – and the red flags that signal scams.**
 
@@ -31,83 +40,44 @@ Bank of America Privacy and Security Get information about privacy and security 
 *   Pressured to send money
 *   Threatened with law enforcement action
 *   Told to purchase gift cards and provide codes as a form of payment
-*   Asked to cash a check for a stranger or send money via wire transfer
-*   Instructed to make a cash deposit for a sweepstakes
-*   Offered more than you’re asking for something you’re selling, with a request to send the overpayment elsewhere
+*   Asked to cash a check for a stranger or send money via wire transfer or _Zelle_ ®
+*   Asked to deposit a check that overpays for something you're selling, and then send the difference elsewhere
 
-Remember: Zelle® transactions should be considered the same as cash. Zelle® should only be used to send money to friends, family or others you trust and not to buy goods or services from people you don’t know.\*
+**  
+The best way to avoid getting scammed**  
+If you provide your information or send money to a scammer, there is often little we can do to help get your money back.
 
-**The best ways to avoid getting scammed**
-
-*   **Don’t respond:** If you’re not 100% certain of the source of the call, email or text, then hang up the phone, don’t click on the link in the email and don’t reply to the text message.
-*   **Don’t trust caller ID or answer phone calls from unknown numbers:** If you recognize the caller ID but the call seems suspicious, hang up the phone. Phone numbers can be easily spoofed to appear to be from a legitimate caller.
-*   **Don’t give out your information:** Do not give out any personal identifiable information unless you’re absolutely certain the person and reason are legitimate. Remember: Bank of America will never ask you to send us personal information such as an account number, Social Security or Tax ID over text, email or online.
-*   **Research and validate:** If the individual or organization seems suspicious, make sure the request being made is legitimate by calling the organization through an official number from their website or consulting with a trusted family member or friend.
+Don't send gift cards as payment or buy gift cards for someone you don’t know layer  
+Don't cash checks for strangers or return funds for overpayment layer  
+Don't provide account or personal information via email or text layer  
+Never Trust Caller ID layer  
+Don't give an unsolicited caller or solicitor your personal information or codes layer  
+Don't pay upfront for a promise layer  
+Don't click on unsolicited links or attachments sent via email or text layer  
+Never give an unsolicited caller remote access to your computer layer  
+Don't wire money without verifying instructions layer  
+Don't feel pressured to act immediately layer
 
 Contact us immediately if you feel you may have been a victim of a scam.
 
-**AARP has assembled a variety of resources about security and scams that we think you will find helpful: AARP Page on Scams and Fraud**  
+**AARP has assembled a variety of resources about security and scames that we think you will find helpful: AARP Page on Scams and Fraud**  
   
 **Common types of scams**
 
-Show all Answers  |  Hide all Answers
-
-*   Hide Imposter: "I'm with the IRS and a lawsuit is being filed against you for back taxes"
-    
-    Red flags include: You receive a request from a government agency asking you for a payment and/or to verify your personal information
-    
-*   Show Tech support: "We've detected malware on your computer, let's go ahead and get this fixed for you"
-    
-    Red flags include: You receive a request from tech support claiming your computer has malware and requesting payment to fix the defects or access your computer
-    
-*   Show Business email compromise: "Process a wire for $x and send to the account in the email attached?"
-    
-    Red flags include: You receive a request to change fund transfer details unexpectedly
-    
-*   Show Email account compromise: "There's been a change in the transfer for closing, please now send the money to?"
-    
-    Red flags include: You receive a request to redirect funds for a legitimate purpose such as a home or auto purchase
-    
-*   Show Grandparent: "Grandma I'm in trouble, I need your help, I need some money really fast"
-    
-    Red flags include: You receive a call from someone claiming to be a grandchild or loved one asking for money to help with an emergency and instructions on where to send the funds
-    
-*   Show Romance: "I'd love to come to see you but I don't have the money to travel right now, can you help me out?"
-    
-    Red flags include: You receive a request for financial support from a partner in an exclusively online relationship
-    
-*   Show Lottery and sweepstakes: "Your email address was randomly picked to participate in a drawing, send us your details"
-    
-    Red flags include: You receive a request to prepay fees or taxes in order to receive a large prize you supposedly won
-    
-*   Show Investment: "Glad I got you!  Sometime back you responded to one of our programs for information, are you ready to invest?"
-    
-    Red flags include: You receive a request to invest in a business opportunity with promises of high returns to getting rich quick
-    
-*   Show Charity: "Hi, the reason for my call is to see if you would donate to help preserve our local park"
-    
-    Red flags include: You receive a request to donate to a charity that you've never heard of and for which you can’t find an official website
-    
-*   Show Overpayment for goods or service: "Deposit the check and wire the difference to the account number attached"
-    
-    Red flags include: You receive an overpayment for an item you are selling and a request to deposit the check and then send money via a wire or gift card
-    
-*   Show Fake goods: "Please transfer money to my account and I will ship you the items"
-    
-    Red flags include: You receive a request to send a money transfer to pay for an online purchase. Never transfer money for example by using Zelle® for a product or merchandise that you have not received yet 
-    
-*   Show Debt relief: "I can help you reduce or eliminate your debt"
-    
-    Red flags include: You receive a request for payment in order to establish a service relationship to pay, settle or get rid of debt
-    
-*   Show Assistance cashing a check: "Excuse me, I just realized I left my wallet at home, can you cash this check for me?"
-    
-    Red flags include: You are approached outside branch and asked to cash a check for someone who claims they don’t have an account or their ID with them. The bad check will be held against your account when it doesn’t clear. 
-    
-*   Show Fake house/apt rental: "Hi, I see you received my rental deposit and wanted to follow up about the move in date"
-    
-    Red flags include: Your house is legitimately listed for sale on multi-listing service (MLS) web sites, however scammers set up a fake website and list your house as a rental. You then receive inquiries from prospective renters about deposit checks they sent you (which they really sent to the scammer).
-    
+Imposter: "I'm with the IRS and a lawsuit is being filed against you for back taxes" layer  
+Tech support: "We've detected malware on your computer, let's go ahead and get this fixed for you" layer  
+Business email compromise: "Process a wire for $x and send to the account in the email attached?" layer  
+Email account compromise: "There's been a change in the transfer for closing, please now send the money to?" layer  
+Grandparent: "Grandma I'm in trouble, I need your help, I need some money really fast" layer  
+Romance: "I'd love to come to see you but I don't have the money to travel right now, can you help me out?" layer  
+Lottery and sweepstakes: "Your email address was randomly picked to participate in a drawing, send us your details" layer  
+Investment: "Glad I got you! Sometime back you responded to one of our programs for information, are you ready to invest?" layer  
+Charity: "Hi, the reason for my call is to see if you would donate to help preserve our local park" layer  
+Overpayment for goods or service: "Deposit the check and wire the difference to the account number attached" layer  
+Fake goods: "Please transfer money to my account and I will ship you the items" layer  
+Debt relief: "I can help you reduce or eliminate your debt" layer  
+Assistance cashing a check: "Excuse me, I just realized I left my wallet at home, can you cash this check for me?" layer  
+Fake house/apt rental: "Hi, I see you received my rental deposit and wanted to follow up about the move in date" layer
 
 \*Zelle and the Zelle related marks are wholly owned by Early Warning Services, LLC and are used herein under license.
 
@@ -383,6 +353,130 @@ Bank of America U.S. legal entities
 Bank of America U.S. legal entities that utilize the names: Bank of America, Banc of America, U.S. Trust or Merrill Lynch, as well as the following entities: BACAP Alternative Advisors, Inc., General Fidelity Life Insurance Company, Managed Account Advisors LLC, NationsCredit Financial Services Corporation.
 
 Rev. 01/2018
+
+Investment: "Glad I got you! Sometime back you responded to one of our programs for information, are you ready to invest?"
+
+Red flags include: You receive a request to invest in a business opportunity with promises of high returns to getting rich quick
+
+Don't feel pressured to act immediately
+
+Scammers typically demand immediate responses and payment. Sometimes they even threaten law enforcement or legal action.  If you feel threatened or are asked not to provide details to others or your bank about the reason for transaction, it could be a scam.  Always ask us for help.
+
+Tech support: "We've detected malware on your computer, let's go ahead and get this fixed for you"
+
+Red flags include: You receive a request from tech support claiming your computer has malware and requesting payment to fix the defects or access your computer
+
+Grandparent: "Grandma I'm in trouble, I need your help, I need some money really fast"
+
+Red flags include: You receive a call from someone claiming to be a grandchild or loved one asking for money to help with an emergency and instructions on where to send the funds
+
+Don't provide account or personal information via email or text
+
+We will never email or text you requesting you to call or respond with your account number, PIN or access code.
+
+Use our mobile app
+
+Our mobile app is the best way for you to stay on top of any suspicious account activity
+
+Don't cash checks for strangers or return funds for overpayment
+
+If someone you don’t know wants to pay you by check and asks you to wire some of the money back or give them cash, beware! It could be a scam that could cost you thousands of dollars. When making a check deposit, remember that Bank of America may give you immediate access to the funds, but the check can still be returned unpaid.
+
+Never give an unsolicited caller remote access to your computer
+
+Scammers may pose as an employee of a large telecommunications company or a technical support provider to tell you that your computer is experiencing technical problems.  They will ask for remote access to solve the problem before demanding that you buy software or pay a fee to fix the computer.
+
+Protect your devices
+
+Keep your phone, tablet and computer up to date with the latest browsers, operating systems and antivirus software
+
+Don't give an unsolicited caller or solicitor your personal information or codes
+
+Bank of America will never call you or visit your home asking you to verify your account numbers, password or access code.  If you receive a call, text or email, or someone comes to your home asking for this information, don’t give it out. Consider installing an app to block robocalls to your phone.    
+
+Create strong, unique passwords
+
+*   Strong passwords are 8 or more characters long and include a combination of numbers, symbols and upper- and lowercase letters
+*   Use multifactor authentication when possible
+
+Don't pay upfront for a promise
+
+Scammers may ask you to pay in advance for things like debt relief, credit and loan offers, mortgage assistance or a job.  They may say you've won a prize, but first you need to pay taxes or fees.  If you do, they will probably take the money and disappear.
+
+Fake house/apt rental: "Hi, I see you received my rental deposit and wanted to follow up about the move in date"
+
+Red flags include: Your house is legitimately listed for sale on multi-listing service (MLS) web sites, however scammers set up a fake website and list your house as a rental. You then receive inquiries from prospective renters about deposit checks they sent you (which they really sent to the scammer).
+
+Overpayment for goods or service: "Deposit the check and wire the difference to the account number attached"
+
+Red flags include: You receive an overpayment for an item you are selling and a request to deposit the check and then send money via a wire or gift card
+
+Assistance cashing a check: "Excuse me, I just realized I left my wallet at home, can you cash this check for me?"
+
+Red flags include: You are approached outside branch and asked to cash a check for someone who claims they don’t have an account or their ID with them. The bad check will be held against your account when it doesn’t clear.
+
+Imposter: "I'm with the IRS and a lawsuit is being filed against you for back taxes"
+
+Red flags include: You receive a request from a government agency asking you for a payment and/or to verify your personal information
+
+Debt relief: "I can help you reduce or eliminate your debt"
+
+Red flags include: You receive a request for payment in order to establish a service relationship to pay, settle or get rid of debt
+
+Business email compromise: "Process a wire for $x and send to the account in the email attached?"
+
+Red flags include: You receive a request to change fund transfer details unexpectedly
+
+Text alert
+
+1If we suspect fraud, we may send a text to your mobile number on file from 322632, 35422, 86006, 96264, 56433, 55983, and 85594. 
+
+Check your contact information
+
+*   You're not the only one protecting your account.  If we spot an issue, we want to get in touch with you the quickest way possible.
+*   Provide your mobile number, so we can alert you to potential fraud
+
+Romance: "I'd love to come to see you but I don't have the money to travel right now, can you help me out?"
+
+Red flags include: You receive a request for financial support from a partner in an exclusively online relationship
+
+Don't send gift cards as payment or buy gift cards for someone you don't know
+
+Whether masquerading as IRS agents, tech-support personnel or the attorney for the grandchild who’s supposedly in jail, criminals pressure their targets to buy gift cards for iTunes, Google Play, Best Buy and other popular retailers — and ask them to provide the code numbers, or PINs, on the back of the cards so they can be redeemed.
+
+Charity: "Hi, the reason for my call is to see if you would donate to help preserve our local park"
+
+Red flags include: You receive a request to donate to a charity that you've never heard of and for which you can’t find an official website
+
+Keep your account information secure
+
+*   Go paperless
+*   Never write your PIN on the back of your card
+*   Use trusted online payment methods, such as Bill Pay or _Zelle_ ® instead of writing checks
+
+Don't click on unsolicited links or attachments sent via email or text
+
+Scammers use email or text messages to trick you into giving them your personal information. These messages seem identical to official correspondence.  Check it out first by calling a phone number you trust and talk with someone about the notification.  Don't call phone numbers mentioned in the questionable message.
+
+Email account compromise: "There's been a change in the transfer for closing, please now send the money to?"
+
+Red flags include: You receive a request to redirect funds for a legitimate purpose such as a home or auto purchase
+
+Fake goods: "Please transfer money to my account and I will ship you the items"
+
+Red flags include: You receive a request to send a money transfer to pay for an online purchase. Never transfer money for example by using Zelle® for a product or merchandise that you have not received yet
+
+Never Trust Caller ID
+
+Scammers may pose as government officials, law enforcement or even Bank of America employees to steal your personal information.  Always validate a person’s organization by calling them back through an official phone number.
+
+Don't wire money without verifying instructions
+
+Use caution when wiring funds to unknown people or businesses. Scammers posing as a government official, relative, closing agent or some other trusted source often modify wiring instructions to route your money to the wrong account.
+
+Lottery and sweepstakes: "Your email address was randomly picked to participate in a drawing, send us your details"
+
+Red flags include: You receive a request to prepay fees or taxes in order to receive a large prize you supposedly won
 
 Update your privacy choices
 
