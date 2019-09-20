@@ -42,7 +42,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Zombieland: Double Tap
     *   Black and Blue (2019)
     *   Countdown (2019)
-    *   The Current War
+    *   The Current War: Director's Cut
     *   See All Coming Soon
     
     Explore More
@@ -70,7 +70,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: ‘Downton Abbey’ Recap, the Real Science Behind ‘Ad Astra’ and More Read More
+    *   Today in Movie Culture: Spotlight on the Best ‘Downton Abbey’ Character, ‘Rambo’ Franchise Recap and More Read More
     *   The Week in Movie News: ‘Face/Off’ Remake in the Works, First ‘Midway’ Trailer and More Read More
     *   Next 3 Strong Female-Driven Films: 'Downton Abbey,' 'Maleficent: Mistress of Evil,' 'Harriet' Read More
     
