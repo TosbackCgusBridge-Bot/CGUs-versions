@@ -2,7 +2,7 @@ POLITIQUE DE CONFIDENTIALITÉ
 
 Soucieuse de la protection de votre vie privée, la Redoute s’engage à assurer le meilleur niveau de protection de vos données à caractère personnel.
 
-Dans le cadre de ses activités, la Redoute mets à disposition de ses clients un service de e-commerce accessible depuis le site internet www.laredoute.fr, un site mobile m.laredoute.fr et depuis une application compatible pour smartphone et tablette sur iOS et Android.
+Dans le cadre de ses activités, la Redoute met à disposition de ses clients un service de e-commerce accessible depuis le site internet www.laredoute.fr, un site mobile m.laredoute.fr et depuis une application compatible pour smartphone et tablette sur iOS et Android.
 
 Pour délivrer son service, la Redoute collecte des données à caractère personnel sur les individus. La collecte de données s’effectue sur le site internet de la Redoute, sur les applications mobiles, par téléphone, en magasin ou lors de la réception de commande papier.
 
@@ -260,7 +260,7 @@ L’Utilisateur peut formuler ses directives anticipées en cliquant ici.
 
 Vous êtes informé que des données à caractère personnel vous concernant peuvent être transmises pour les besoins des finalités définies ci-dessus à des sociétés situées dans des pays hors de l’Union Européenne et ne présentant pas un niveau de protection adéquat en ce qui concerne la protection des données personnelles.
 
-Préalablement au transfert hors Union Européenne, et conformément à la règlementation en vigueur,La Redoute mets en œuvre toutes les procédures requises pour obtenir les garanties nécessaires à la sécurisation de tels transferts.
+Préalablement au transfert hors Union Européenne, et conformément à la règlementation en vigueur, La Redoute met en œuvre toutes les procédures requises pour obtenir les garanties nécessaires à la sécurisation de tels transferts.
 
 Des transferts hors Union Européenne peuvent être réalisés notamment dans le cadre des activités suivantes :
 
@@ -363,7 +363,7 @@ Lors de la création d’un compte, l’utilisateur a la faculté de communiquer
 
 11\. VAIS-JE RECEVOIR DES SOLLICITATIONS COMMERCIALES ? 11.1. Principes applicables à La Redoute
 
-La Redoute utilise vos coordonnées pour vous adresser des publicités ciblées notamment par email, courrier postal, sms,notification mobile, sur les réseaux sociau ou des sites internet tiers.
+La Redoute utilise vos coordonnées pour vous adresser des publicités ciblées notamment par email, courrier postal, sms,notification mobile, sur les réseaux sociaux ou des sites internet tiers.
 
 Dans ce cadre, la société Redoute s’engage à respecter les règles applicables à chaque canal de prospection.
 
