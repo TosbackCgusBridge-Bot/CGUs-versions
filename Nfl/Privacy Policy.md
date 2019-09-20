@@ -1,4 +1,4 @@
-*   TEN1-1JAX0-2Thu, 8:20 pm ET
+*   TEN1-17JAX0-220Final
 *   CIN0-2BUF2-0Sun, 1:00 pm ET
 *   MIA0-2DAL2-0Sun, 1:00 pm ET
 *   DEN0-2GB2-0Sun, 1:00 pm ET
@@ -37,7 +37,7 @@
 *   NFL Films
 *   Game Pass
 
-*   TEN1-1JAX0-2Thu, 8:20 pm ET
+*   TEN7JAX20Final
 *   CIN0-2BUF2-0Sun, 1:00 pm ET
 *   MIA0-2DAL2-0Sun, 1:00 pm ET
 *   DEN0-2GB2-0Sun, 1:00 pm ET
