@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off 1 full-price item!
+Receive 40% off full-price styles!
 
-code: CHIPMUNK pin: PROMOTION DETAILS
+code: FAMILY pin: 1122PROMOTION DETAILS
 
 Customer Service Menu
 
