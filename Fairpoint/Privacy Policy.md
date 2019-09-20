@@ -157,20 +157,24 @@
         *   Privacy Policy
         *   Website Terms of Use
 *   About Us
-    *   Investor Relations
-    *   News
-    *   Leadership
+    *   Company
+        *   News
+        *   Leadership
+        *   Values
+    *   Locations
     *   Careers
+    *   Investor Relations
     *   Community Matters
         *   Company Giving
-        *   Foundation &. Community Fund
+        *   Foundation &. Funds
             *   California Foundation
             *   Kansas Foundation
             *   Minnesota Community Fund
-        *   Employee Volunteerism
+        *   Employee Volunteers
         *   Special Olympics Family Festival
-        *   Environmental Responsibility
-    *   Locations
+    *   Social Responsibility
+        *   Environment
+        *   Diversity &. Inclusion
 *   Contact Us
 *   Careers
     *   Career Opportunities
@@ -188,12 +192,12 @@
 *   My Account   
 
 *   About Us
-    *   Investor Relations
-    *   News
-    *   Leadership
-    *   Careers
-    *   Community Matters
+    *   Company
     *   Locations
+    *   Careers
+    *   Investor Relations
+    *   Community Matters
+    *   Social Responsibility
 *   Contact Us
 
 Search × Information Varies By Location Please enter your service ZIP code to proceed.  
