@@ -76,25 +76,25 @@
   
 Read the Internet Society’s roadmap for our work in the year ahead.
 
-Connecting The Unconnected Connecting The Unconnected
+Local action. Global change. Local action. Global change.
 
-Far from the large urban centers, the people of El Cuy have adapted to the difficulties of accessing different services and technologies. The Internet is no exception, thanks to a new community network.
+Learn what it takes to build and sustain your own community network at a local Community Network Summit.
 
-Consolidation in the Internet Economy Consolidation in the Internet Economy
+MANRS Observatory: Monitoring the State of Internet Routing Security MANRS Observatory: Monitoring the State of Internet Routing Security
 
-Is the Internet economy consolidating? What does this mean for society? Read our 2019 Global Internet Report for a glimpse of the positive and negative impacts for the future.
+We launched a new online tool that measures the level of networks’ compliance to MANRS.
 
 Learn More Learn More
 
 Did you know that the open standards that power the Internet are created by the Internet Engineering Task Force (IETF)?
 
-Internet Society’s Online Trust Alliance 2018 Cyber Incidents &. Breach Trends Report Internet Society’s Online Trust Alliance 2018 Cyber Incidents &. Breach Trends Report
+Join the team Join the team
 
-On July 9, 2019 the Internet Society’s Online Trust Alliance (OTA) released its 11th Cyber Incident &. Breach Trends report, which provides an overview of cyber incidents.
+Do you want to join us in building a bigger, stronger Internet? Read our open job descriptions.
 
-Accessible, Clear, and Appropriate: An Open Letter to Amazon on Privacy Policies Accessible, Clear, and Appropriate: An Open Letter to Amazon on Privacy Policies
+Are Organizations Ready for New Privacy Regulations? Are Organizations Ready for New Privacy Regulations?
 
-On Amazon Prime Day, the Internet Society partnered with Mozilla and other organizations to publish An Open Letter to Amazon about Privacy.
+Privacy regulations around the world are evolving. We looked at 1,200 privacy statements to see if organizations are ready.
 
 Member Login en
 
