@@ -387,5 +387,3 @@ This Privacy Policy was last modified on the date indicated above and is effecti
 © 2019 Viacom International Inc. All Rights Reserved. VH1 and all related titles and logos are trademarks of Viacom International Inc.
 
 closeAll ResultsShowsEpisodesVideosNewsEventsTrending
-
-By using this site, you agree to its Privacy Policy and Terms of Use.
