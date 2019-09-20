@@ -117,53 +117,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Byron York_: Dems, Stuck on Watergate, Bungle Lewandowski Hearing
+*   _Katie Pavlich_: Delusion, Denial and House Dems' Endless Investigations
     
-*   _Dana Milbank_: Nasty Lewandowski Debuts Senate Campaign Theme
+*   _Jonathan Stevenson_: Trump's National Security Yes Man In for Bumpy Ride
     
-*   _Kyle Smith_: Architect of Kavanaugh Smear Gives Self-Damning Interview
+*   _Joseph Duggan_: Quagmires Won't Make America Great Again
     
-*   _Rekha Basu_: Grassley Put Politics First in Kavanaugh Hearings
+*   _Gruber &. Johnson_: To Counter China, Out-Invent It
     
-*   _John Kass_: Kavanaugh Smears Have Always Been About Abortion
+*   _George Will_: Hong Kong Refuses to Be Absorbed by Increasingly Nasty Regime
     
-*   _Andy Puzder_: Labor Shortage May Imperil Economic Growth
+*   _Farhad Manjoo_: Obama's Policy Ideas Were an Economic &. Political Failure
     
-*   _Thomas Hibbs_: Teens Leaving Labor Force Will Hurt Them Down the Road
+*   _Michael Strain_: The Populist Threat Will Probably Go Away Soon
     
-*   _Megan Specia_: Bibi's In Trouble &. Other Takeaways From the Israeli Election
+*   _J.T. Young_: Trump's Economic Advantage Within the Democratic Base
     
-*   _Dominic Green_: Netanyahu Wins Again, Eventually
+*   _Dana Milbank_: Trump Never Said Those Things You Heard Him Say
     
-*   _Jesse Jackson_: Can America Break Its Gun Addiction?
+*   _Peter Wallison_: The Mueller Probe Should've Never Been Launched
     
-*   _Christopher Roach_: Why Soft-on-Crime Democrats Are Tough on 'Gun Violence'
+*   _Nina Totenberg_: Cokie Roberts: The Personification of Human Decency
     
-*   _Kathleen Parker_: The NY Times's Travesty of Journalistic Ethics
+*   _Nancy Cook_: Unshackled Trump Gets the Presidency He Always Wanted
     
-*   _Lili Loofbourow_: The GOP May One Day Regret Brett Kavanaugh
+*   _Christian Whiton_: Robert O'Brien Will Help Build on Trump's Successes
     
-*   _Joseph Curl_: NYT Has Become a Dangerous Misinformation Tool of the Left
+*   _Max Boot_: In His Showdown With Iran, Trump Blinks
     
-*   _Elie Honig_: The Lewandowski Hearing Was a Disaster
+*   _Park MacDougald_: Is Tucker Carlson the Most Important Pundit in U.S.?
     
-*   _Reed Galen_: Just Admit It, Dems: You Want to Lose Next Year
+*   _Buck Sexton_: Kavanaugh Is Innocent--Dems' Smear Fails on Every Level
     
-*   _Robert Reich_: Donald Trump Is Dangerously Unstable
+*   _Jill Filipovic_: Kavanaugh Stories Spotlight a Dark Reality for American Girls
     
-*   _Ben Shapiro_: The Alternative History of the United States
+*   _Tiana Lowe_: The Deborah Ramirez 'Corroboration' That Wasn't
     
-*   _Brett Bruen_: Trump Deserves Credit - For Making the Middle East Worse
+*   _Marcia Brown_: Why Sotomayor Fears for Judiciary--and for Justice
     
-*   _Doug Schoen_: Netanyahu &. Gantz in Tight Race to Lead Israel
+*   _Sharyl Attkisson_: What Should Be Done About Comey and McCabe?
     
-*   _Basil Smikle_: Does Joe Biden Have a Race Problem?
+*   _Amy Sorkin_: Trump Tries to Explain What He Thinks 'the Hispanics' Want
     
-*   _Richard Porter_: Money From Nothing: Dems' Socialism for Free
+*   _John Davidson_: How 'Remain in Mexico' Is Ruining the Smugglers' Trade
     
-*   _Natasha Korecki_: Trump's Uphill Battle to Hold Wisconsin
+*   _Sen. Marco Rubio_: The Necessity of Economic Decision
     
-*   _E.J. Montini_: Arizona Dems Would Be Idiots to Censure Sinema
+*   _Jeff Spross_: How Dems Can Raise Taxes Without Technically Raising Taxes
     
 
 *   Previous
@@ -234,10 +234,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Strains to Balance Diplomacy, Military Threat to Iran
+*   Trump's Choice for Broadcasting Chief on Senate Hot Seat
+*   McSally's Republican Senate Challenger Wants to...Annex Mexico
+*   Trump Names Robert O'Brien as New National Security Adviser
 *   2020 Dems Assail Kavanaugh Despite NYT Story Correction
-*   Grassley: Who Will Watch the Watchmen on Kavanaugh Allegations?
-*   WH Calls for Investigation of Ind. Abortionist. Buttigieg Silent
 *   Debate Snapshots: 10 Candidates, 10 Strategies on Display
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -251,37 +251,45 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalFOX News
+    *   Approve45
+    *   Disapprove54Disapprove +9
 *   2020 Democratic Presidential NominationFOX News
     *   Biden29
     *   Warren16
     *   Sanders18
-    *   Harris7
     *   Buttigieg5
+    *   Harris7
     *   O'Rourke4
     *   Yang2
     *   Booker3
     *   Klobuchar2
     *   Gabbard0
-    *   Castro0
     *   Steyer1
-    *   Bennet1Biden +11
+    *   Castro0
+    *   Delaney1Biden +11
+*   New Jersey Democratic Presidential PrimaryMonmouth
+    *   Biden26
+    *   Warren20
+    *   Sanders18
+    *   Booker9
+    *   Buttigieg6
+    *   Harris6
+    *   Gabbard2
+    *   Yang1
+    *   Klobuchar1
+    *   Blasio1Biden +6
 *   General Election: Trump vs. BidenFOX News
     *   Biden52
     *   Trump38Biden +14
-*   General Election: Trump vs. SandersFOX News
-    *   Sanders48
-    *   Trump40Sanders +8
-*   General Election: Trump vs. WarrenFOX News
-    *   Warren46
-    *   Trump40Warren +6
 
 More Latest Polls In The News
 
-*   Student Activist At "Global Climate Crisis" Hearing: Why Study When The World Is Ending? What's The Point?
-*   Jimmy Carter: "I Hope There's An Age Limit" On The Presidency, I Couldn't Do It At Age 80
-*   Andrew McCabe: "I Never Intentionally Misled Anyone And Certainly Have Not Committed A Crime"
-*   Carrie Severino: NYT Report A Shameful Attempt To Reignite Controversy And Smears Around Kavanaugh
-*   Lewandowski Opening: Dems Are "Going Down Rabbit Holes" And "Focusing On Petty And Personal Politics"
+*   Giuliani Freaks Out On CNN Cuomo After Admitting Asking Ukraine To Probe Biden Moments After Denying
+*   Tulsi Gabbard: Attack On Saudi Arabia A "Retaliation Against The Extreme Sanctions That Are On Iran"
+*   Rep. Gaetz Grills Al Sharpton: Have You Ever Called Jews "White Interlopers Or Diamond Merchants?"
+*   Bannon: Warren-Trump Election Would Be Populist "Nationalism vs. Socialism," Warren Is "Trump-Lite"
+*   Don Lemon to Dem Rep. Jaime Raskin: You "Got Played" By Lewandowski And Team Trump, "This Was Bad"
 
 *   Politics
 *   Policy
