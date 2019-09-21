@@ -122,7 +122,7 @@ With Our Latest Truly Wireless Headphones
 
 What's your weirdest loadout in Borderlands 3?  https://play.st/Borderlands3  pic.twitter.com/4gi8yjpmFI
 
-4 days ago View Tweet Instagram Post B2el7wHH4Bh
+5 days ago View Tweet Instagram Post B2el7wHH4Bh
 
 “Spider-Man: Far From Home”
 
