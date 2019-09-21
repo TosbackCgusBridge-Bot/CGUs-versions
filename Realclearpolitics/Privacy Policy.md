@@ -18,7 +18,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   Polls
     *   Latest Polls
     *   Trump Job Approval
-    *   Pelosi Job Approval
     *   Democratic Primary Polls
     *   Republican Primary Polls
     *   General Election Polls
@@ -60,7 +59,6 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   Polls
         *   Latest Polls
         *   Trump Job Approval
-        *   Pelosi Job Approval
         *   Democratic Primary Polls
         *   Republican Primary Polls
         *   General Election Polls
@@ -117,53 +115,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Katie Pavlich_: Delusion, Denial and House Dems' Endless Investigations
+*   _John Cassidy_: New Polls Offer Encouragement to Biden, Warren, Sanders
     
-*   _Jonathan Stevenson_: Trump's National Security Yes Man In for Bumpy Ride
+*   _Chris Cillizza_: The Democrats' Top Tier Is Just Two Candidates Now
     
-*   _Joseph Duggan_: Quagmires Won't Make America Great Again
+*   _Peggy Noonan_: Dems Keep Targeting Kavanaugh--Will Anyone Belive Them?
     
-*   _Gruber &. Johnson_: To Counter China, Out-Invent It
+*   _Franklin Foer_: Greta Thunberg Is Right to Panic
     
-*   _George Will_: Hong Kong Refuses to Be Absorbed by Increasingly Nasty Regime
+*   _Ross Clark_: A Homework Assignment for the Climate Strikers
     
-*   _Farhad Manjoo_: Obama's Policy Ideas Were an Economic &. Political Failure
+*   _Daniel Gardner_: 'What About China?' Is Bad Response to Climate Crisis
     
-*   _Michael Strain_: The Populist Threat Will Probably Go Away Soon
+*   _Karl Zinsmeister_: Online Monopoly + Liberal Orthodoxy = Big Tech Trouble
     
-*   _J.T. Young_: Trump's Economic Advantage Within the Democratic Base
+*   _Mark Ridley-Thomas_: Homelessness Reaching Emergency Level in Los Angeles
     
-*   _Dana Milbank_: Trump Never Said Those Things You Heard Him Say
+*   _James Warren_: How U.S. and Iran Got Locked in a Toxic Dance of Death
     
-*   _Peter Wallison_: The Mueller Probe Should've Never Been Launched
+*   _Allison &. Herzog_: 5 Reasons Why Saudi Oil Attacks Won't Lead to War With Iran
     
-*   _Nina Totenberg_: Cokie Roberts: The Personification of Human Decency
+*   _Philip Wegmann_: Despite High Hopes, de Blasio Gone in a NY Minute
     
-*   _Nancy Cook_: Unshackled Trump Gets the Presidency He Always Wanted
+*   _Conrad Black_: As Democrats Thrash, Trump Rises Above It All
     
-*   _Christian Whiton_: Robert O'Brien Will Help Build on Trump's Successes
+*   _Sarah Jones_: Elizabeth Warren Makes Her Bid for History
     
-*   _Max Boot_: In His Showdown With Iran, Trump Blinks
+*   _Steve Cortes_: Trump &. Me: Latinos Want Results, Not Fine Talk
     
-*   _Park MacDougald_: Is Tucker Carlson the Most Important Pundit in U.S.?
+*   _Frida Ghitis_: Whistleblower Files Complaint -- What's Trump Hiding?
     
-*   _Buck Sexton_: Kavanaugh Is Innocent--Dems' Smear Fails on Every Level
+*   _Charles Hurt_: Trump Will Need More Flexibility After 2020
     
-*   _Jill Filipovic_: Kavanaugh Stories Spotlight a Dark Reality for American Girls
+*   _Jonathan Kay_: Don't Unleash Cancel-Culture Insanity on Trudeau
     
-*   _Tiana Lowe_: The Deborah Ramirez 'Corroboration' That Wasn't
+*   _Piers Morgan_: Trudeau Should Demand His Own Racist Head on a Plate
     
-*   _Marcia Brown_: Why Sotomayor Fears for Judiciary--and for Justice
+*   _David Ignatius_: Crisis With Iran Is Trump’s Self-Inflicted Wound
     
-*   _Sharyl Attkisson_: What Should Be Done About Comey and McCabe?
+*   _Sen. Rick Scott_: The U.S. Must Not Tolerate Iranian Aggression
     
-*   _Amy Sorkin_: Trump Tries to Explain What He Thinks 'the Hispanics' Want
+*   _Michael Caputo_: Will Hurricane Maria Defeat Donald Trump?
     
-*   _John Davidson_: How 'Remain in Mexico' Is Ruining the Smugglers' Trade
+*   _David Catron_: Why Trump Will Trounce Biden or Warren
     
-*   _Sen. Marco Rubio_: The Necessity of Economic Decision
+*   _Paul Krugman_: Trump Declares War on California
     
-*   _Jeff Spross_: How Dems Can Raise Taxes Without Technically Raising Taxes
+*   _Bill Whalen_: Why Not a Presidential Debate in California?
     
 
 *   Previous
@@ -234,11 +232,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump's Choice for Broadcasting Chief on Senate Hot Seat
+*   Democrats Seek to Recalibrate as Kavanaugh Bombshell Fizzles
+*   Despite High Hopes, de Blasio Was Gone in a New York Minute
+*   Buttigieg: Warren Is Extremely Evasive Over Funding for Health Plan
+*   Trump Camp: 2020 Dems' Silence on Abortionist Is "Deafening"
 *   McSally's Republican Senate Challenger Wants to...Annex Mexico
-*   Trump Names Robert O'Brien as New National Security Adviser
-*   2020 Dems Assail Kavanaugh Despite NYT Story Correction
-*   Debate Snapshots: 10 Candidates, 10 Strategies on Display
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -254,6 +252,9 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalFOX News
     *   Approve45
     *   Disapprove54Disapprove +9
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve52
+    *   Disapprove47Approve +5
 *   2020 Democratic Presidential NominationFOX News
     *   Biden29
     *   Warren16
@@ -279,17 +280,14 @@ Latest PollsAll Polls
     *   Yang1
     *   Klobuchar1
     *   Blasio1Biden +6
-*   General Election: Trump vs. BidenFOX News
-    *   Biden52
-    *   Trump38Biden +14
 
 More Latest Polls In The News
 
-*   Giuliani Freaks Out On CNN Cuomo After Admitting Asking Ukraine To Probe Biden Moments After Denying
+*   McCarthy on Whistleblower: "We Have Watched This Pattern Before Going After This President"
+*   Trump on ISIS Prisoners: Europeans Need To Take Them Back "Or We're Going To Let Them Go At Your Border"
 *   Tulsi Gabbard: Attack On Saudi Arabia A "Retaliation Against The Extreme Sanctions That Are On Iran"
+*   Giuliani Freaks Out On CNN Cuomo After Admitting Asking Ukraine To Probe Biden Moments After Denying
 *   Rep. Gaetz Grills Al Sharpton: Have You Ever Called Jews "White Interlopers Or Diamond Merchants?"
-*   Bannon: Warren-Trump Election Would Be Populist "Nationalism vs. Socialism," Warren Is "Trump-Lite"
-*   Don Lemon to Dem Rep. Jaime Raskin: You "Got Played" By Lewandowski And Team Trump, "This Was Bad"
 
 *   Politics
 *   Policy
