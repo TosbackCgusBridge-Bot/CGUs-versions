@@ -365,23 +365,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Hotel websites infected with skimmer via supply chain attack
-    *   Gamification: A winning strategy for cybersecurity training
-    *   U.K. man arrested for allegedly hacking musicians, selling their songs
-    *   Def Con 2020: A space odyssey, hacking an orbiting satellite
-    *   Patches issued for VMware’s vSphere ESXi, VMware vCenter Server
-    
+    *   Justice Dept. sues Snowden over book release
+    *   FEMA offers free credit monitoring after mishandling disaster survivors' data
+    *   Maryland gov't promises funds for Baltimore surveillance initiative
+    *   Misconfigured database exposes 198M records on prospective auto buyers
     *   Skidmap malware drops LKMs on Linux machines to enable cryptojacking, backdoor access
-    *   Millions of medical records exposed online
-    *   Fake résumé emails attempt to spread Ordinypt Wiper to German recipients
-    *   Medical records for 24.3 million left exposed
-    *   GootKit actors leave open databases, exposing data they stole
     
-    *   Hotel websites infected with skimmer via supply chain attack
-    *   Bad bot, bad bot whatcha gonna do…damage e-commerce sites
-    *   CFPB probes fake credit card accounts at Bank of America
-    *   Rep. Thompson asks O'Brien to revive cyber coordinator position
-    *   Restaurant Depot customers targets of phishing emails
+    *   Emotet back in action
+    *   Bitcoin’s Lightning Network vulnerabilities spotted in the wild
+    *   Justice Dept. sues Snowden over book release
+    *   Flaws in Imperial, Dabman web radios could lead to full compromise
+    *   Making the case for IT/OT security integration
+    
+    *   Thinkful confirms breach
+    *   WeWork unsecured WiFi exposes documents
+    *   Report: Scotiabank exposed source code and credentials on GitHub repositories
+    *   Cyber insurance premium costs rise 5 percent for 2019, despite increased attacks
+    *   Attackers leveraging WS-Discovery protocol to amplify attacks
 
 Back to Top
 
