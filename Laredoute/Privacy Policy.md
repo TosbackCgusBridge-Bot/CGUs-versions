@@ -64,7 +64,7 @@ La Redoute, Société par Actions Simplifié au capital de 353 490 250 Euros, im
 La vie privée des utilisateurs est protégée par la règlementation. En vertu de la règlementation sur la protection des données, La Redoute n'est autorisée à utiliser les données personnelles de ses utilisateurs que si elle dispose d'une base juridique valable. La Redoute doit s'assurer de disposer d'une ou de plusieurs des bases juridiques suivantes :
 
 *   l'exécution d'un contrat (par exemple pour traiter et exécuter une commande de biens ou pour ouvrir et gérer un compte La Redoute), ou ;
-*   l’exécution d’une obligatoi légale (ex : conservation de factures), ou ;
+*   l’exécution d’une obligation légale (ex : conservation de factures), ou ;
 *   lorsque cela est dans l’intérêt légitime de la Redoute, ou ;
 *   Lorsque l’utilisateur a donné son consentement.
 
@@ -143,7 +143,7 @@ La société Redoute est amenée à collecter et à enregistrer des données à 
 
 *   Intérêt légitime de la Redoute
 
-*   Mise à disposition d’un outil d’accessibilité permettant aux personnes atteintes de sourdité de commander sur le site.
+*   Mise à disposition d’un outil d’accessibilité permettant aux personnes atteintes de surdité de commander sur le site.
 
 *   Consentement du Client
 
@@ -151,7 +151,7 @@ Pour les traitements nécessitant le recueil du consentement, la personne concer
 
 Les opérations de luttre contre la fraude et d’évaluation du risque de fraude ont fait l’objet d’une autorisation de la CNIL comme explicité au point 8.3.
 
-Les opérations de mise en relation des personnes ayant des problèmes de sourdité reposent sur le consentement express de la personne concernée. La personne concernée à la faculté de retirer son consentement en effectuant une demande en cliquant ici
+Les opérations de mise en relation des personnes ayant des problèmes de surdité reposent sur le consentement express de la personne concernée. La personne concernée à la faculté de retirer son consentement en effectuant une demande en cliquant ici
 
     3. A QUI VOS DONNÉES SONT ELLES TRANSMISES ?
 
@@ -228,7 +228,7 @@ Enfin, lorsque la Redoute détecte une violation de données à caractère perso
 
 4.2. Comment les exercer ?
 
-Ces droits peuvent être exercés auprès de la société Redoute qui a collecté les données à caractère personne de la manière suivante :
+Ces droits peuvent être exercés auprès de la société Redoute qui a collecté les données à caractère personnel de la manière suivante :
 
 Par voie postale, en nous écrivant à l’adresse suivante :
 
@@ -246,7 +246,7 @@ En cas de l’exercice d’un droit d’opposition au profilage marketing, l’u
 
 4.4. Que faire ensuite ?
 
-En cas de non réponse ou de réponse non satisfaisante, la personne concernée à la faculté de saisir l’autorité de contrôle de son pays de résidence :
+En cas de non réponse ou de réponse non satisfaisante, la personne concernée a la faculté de saisir l’autorité de contrôle de son pays de résidence :
 
 *   En France, la CNIL : https://www.cnil.fr/
 
@@ -305,7 +305,7 @@ La Redoute a déterminé des règles précises concernant la durée de conservat
 Pour calculer la durée de conservation la plus pertinente, la Redoute distingue :
 
 *   les personnes dites « prospect » et n’ayant jamais effectué d’achat auprès de la Redoute et de ses partenaires
-*   les personnes dites « clients » ayant effectuées au moins 1 achat (y compris achat marketplace )
+*   les personnes dites « clients » ayant effectué au moins 1 achat (y compris achat marketplace )
 
 Une durée de conservation distincte sera appliquée aux prospects et aux clients.
 
@@ -313,7 +313,7 @@ Concernant les prospects, le point de départ de la durée de conservation est l
 
 Concernant les clients, le point de départ de la durée de conservation constitue le dernier achat de celui-ci chez la Redoute. La durée de conservation des données d’un client sera différente selon que ce dernier adhère ou non à un programme de fidélité.
 
-7.2. Règles spécfiques concernant certains traitements de données :
+7.2. Règles spécifiques concernant certains traitements de données :
 
 Pour certains types de traitement, la conservation des données fait l’objet de durées de conservation spécifiques.  
   
