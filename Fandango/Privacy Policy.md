@@ -70,8 +70,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Today in Movie Culture: Spotlight on the Best ‘Downton Abbey’ Character, ‘Rambo’ Franchise Recap and More Read More
-    *   The Week in Movie News: ‘Face/Off’ Remake in the Works, First ‘Midway’ Trailer and More Read More
+    *   The Week in Movie News: ‘Ghostbusters 2020’ Confirms Original Stars, Michael Fassbender Joins Taika Waititi Movie and More Read More
+    *   Today in Movie Culture: Brad Pitt Interviews an Astronaut for ‘Ad Astra,’ the ‘Downton Abbey’ Experience and More Read More
     *   Next 3 Strong Female-Driven Films: 'Downton Abbey,' 'Maleficent: Mistress of Evil,' 'Harriet' Read More
     
     Explore Content
@@ -357,4 +357,4 @@ Follow Us
 *   Fandango on Instagram
 *   Fandango on Youtube
 
-Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
+Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
