@@ -4,8 +4,8 @@
     *   Shows A-Z
     *   TV Schedule
     *   Basketball Wives
-    *   Black Ink Crew New York
     *   Black Ink Crew Compton
+    *   Black Ink Crew New York
     *   Cartel Crew
     *   Girls Cruise
     *   Hip Hop Squares
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleBasketball WivesBlack Ink Crew New YorkBlack Ink Crew ComptonCartel CrewGirls CruiseHip Hop SquaresLove &. Hip Hop HollywoodLove &. ListingsWild 'N Outsee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleBasketball WivesBlack Ink Crew ComptonBlack Ink Crew New YorkCartel CrewGirls CruiseHip Hop SquaresLove &. Hip Hop HollywoodLove &. ListingsWild 'N Outsee all Shows
 *   News
 *   App
 *   Watch Live TV
@@ -387,3 +387,5 @@ This Privacy Policy was last modified on the date indicated above and is effecti
 © 2019 Viacom International Inc. All Rights Reserved. VH1 and all related titles and logos are trademarks of Viacom International Inc.
 
 closeAll ResultsShowsEpisodesVideosNewsEventsTrending
+
+By using this site, you agree to its Privacy Policy and Terms of Use.
