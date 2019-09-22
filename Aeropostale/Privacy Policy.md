@@ -112,6 +112,7 @@ Close submenu ( Bottoms ) Bottoms
 Close submenu ( Collections ) Collections
 
 *   View All
+*   1 Day Shop
 *   New Arrivals
 *   Jeans Guide
 *   Uniform
@@ -322,6 +323,7 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
+        *   1 Day Shop
         *   New Arrivals
         *   Jeans Guide
         *   Uniform
