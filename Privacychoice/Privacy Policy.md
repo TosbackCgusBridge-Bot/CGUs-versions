@@ -98,18 +98,19 @@ Try our free proxy Learn more about VPNs with Jack’s Guides
 
 Need to talk to someone? Contact us United States (English) Sign in to my account Services
 
-*   HMA! Pro VPN
+*   HMA VPN Features
 *   Price Plans
 *   Business Plans
 *   Free Web Proxy
 
-Free Trial
+Download
 
 *   VPN for Windows
 *   VPN for Mac
 *   VPN for iOS
 *   VPN for Android
 *   VPN for Linux
+*   VPN for Router
 
 Learn about VPN
 
