@@ -365,23 +365,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Justice Dept. sues Snowden over book release
-    *   FEMA offers free credit monitoring after mishandling disaster survivors' data
-    *   Maryland gov't promises funds for Baltimore surveillance initiative
+    *   Medical records for 24.3 million left exposed
     *   Misconfigured database exposes 198M records on prospective auto buyers
-    *   Skidmap malware drops LKMs on Linux machines to enable cryptojacking, backdoor access
+    *   Facebook boots multiple inauthentic accounts created in Iraq and Ukraine
+    *   In cybersecurity speed kills, but faster saves
+    *   Restaurant Depot customers targets of phishing emails
     
-    *   Emotet back in action
-    *   Bitcoin’s Lightning Network vulnerabilities spotted in the wild
-    *   Justice Dept. sues Snowden over book release
-    *   Flaws in Imperial, Dabman web radios could lead to full compromise
-    *   Making the case for IT/OT security integration
-    
-    *   Thinkful confirms breach
-    *   WeWork unsecured WiFi exposes documents
+    *   Exposed server leaks PII on all 16.6 million Ecuador citizens
+    *   What does the SharePoint 2010 end of life mean for users?
     *   Report: Scotiabank exposed source code and credentials on GitHub repositories
-    *   Cyber insurance premium costs rise 5 percent for 2019, despite increased attacks
-    *   Attackers leveraging WS-Discovery protocol to amplify attacks
+    *   Facebook, YouTube used in Brazilian phishing scheme
+    *   Medical records for 24.3 million left exposed
+    
+    *   Chrome security issues addressed with Stable channel update
+    *   Tricks of the trade: Mac malware impersonates trading app
+    *   Sleeping on the job? Verlo Mattress Factory exposes database
+    *   Wakulla County school board elects to negotiate with ransomware hackers
+    *   HP picks up Bromium
 
 Back to Top
 
