@@ -115,11 +115,45 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Dawsey_: Trump Pressed Ukraine Leader on Inquiry Into Joe Biden
+    
+*   _Peter Schweizer_: Biden Dealings With Ukraine Raise Troubling Questions
+    
+*   _Chris Cillizza_: Trump's Pushback on Whistleblower Makes Literally Zero Sense
+    
+*   _Carlson &. Patel_: Democrats' Kavanaugh Smear Implodes--Again
+    
+*   _Sen. Sheldon Whitehouse_: Why We Must Investigate Kavanaugh Cover-Up
+    
+*   _Sen. Ted Cruz_: Time for Trump to Trigger the UN Snapback on Iran
+    
+*   _Gergen &. Piltch_: Young People Offer Urgent Moral Clarity on Climate Change
+    
+*   _Myron Ebell_: Apocalyptic Predictions Have Failed for Half a Century
+    
+*   _Al Gore_: The Climate Crisis Is the Battle of Our Time, and We Can Win
+    
+*   _Tristan Justice_: What's Happening Inside the Fight to Break Up Big Tech
+    
+*   _Minxin Pei_: The Coming Crisis of China's One-Party Regime
+    
+*   _Ezra Klein_: Congress, Not Policy Ideas, Hamstrung Obama's Presidency
+    
+*   _Newt Gingrich_: House Republicans: Real Story Is Recruits, Not Retirement
+    
+*   _Susan Crabtree_: Can Democrats Recalibrate on Kavanaugh Attacks?
+    
+*   _Aaron Blake_: Ukraine as Focus of Complaint Is Ominous for Trump
+    
+*   _Thomas Lifson_: Is Trump Tricking the Media Into Covering Ukraine?
+    
+*   _Kalev Leetaru_: How TV News, Online Coverage of Dorian Differed
+    
 *   _John Cassidy_: New Polls Offer Encouragement to Biden, Warren, Sanders
     
 *   _Chris Cillizza_: The Democrats' Top Tier Is Just Two Candidates Now
     
-*   _Peggy Noonan_: Dems Keep Targeting Kavanaugh--Will Anyone Belive Them?
+*   _Peggy Noonan_: Dems Keep Targeting Kavanaugh--Will Anyone Believe Them?
     
 *   _Franklin Foer_: Greta Thunberg Is Right to Panic
     
@@ -128,40 +162,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Daniel Gardner_: 'What About China?' Is Bad Response to Climate Crisis
     
 *   _Karl Zinsmeister_: Online Monopoly + Liberal Orthodoxy = Big Tech Trouble
-    
-*   _Mark Ridley-Thomas_: Homelessness Reaching Emergency Level in Los Angeles
-    
-*   _James Warren_: How U.S. and Iran Got Locked in a Toxic Dance of Death
-    
-*   _Allison &. Herzog_: 5 Reasons Why Saudi Oil Attacks Won't Lead to War With Iran
-    
-*   _Philip Wegmann_: Despite High Hopes, de Blasio Gone in a NY Minute
-    
-*   _Conrad Black_: As Democrats Thrash, Trump Rises Above It All
-    
-*   _Sarah Jones_: Elizabeth Warren Makes Her Bid for History
-    
-*   _Steve Cortes_: Trump &. Me: Latinos Want Results, Not Fine Talk
-    
-*   _Frida Ghitis_: Whistleblower Files Complaint -- What's Trump Hiding?
-    
-*   _Charles Hurt_: Trump Will Need More Flexibility After 2020
-    
-*   _Jonathan Kay_: Don't Unleash Cancel-Culture Insanity on Trudeau
-    
-*   _Piers Morgan_: Trudeau Should Demand His Own Racist Head on a Plate
-    
-*   _David Ignatius_: Crisis With Iran Is Trump’s Self-Inflicted Wound
-    
-*   _Sen. Rick Scott_: The U.S. Must Not Tolerate Iranian Aggression
-    
-*   _Michael Caputo_: Will Hurricane Maria Defeat Donald Trump?
-    
-*   _David Catron_: Why Trump Will Trounce Biden or Warren
-    
-*   _Paul Krugman_: Trump Declares War on California
-    
-*   _Bill Whalen_: Why Not a Presidential Debate in California?
     
 
 *   Previous
@@ -249,6 +249,20 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   Iowa Democratic Presidential CaucusDM Register/CNN
+    *   Biden20
+    *   Warren22
+    *   Sanders11
+    *   Buttigieg9
+    *   Harris6
+    *   Klobuchar3
+    *   Steyer2
+    *   Booker3
+    *   Yang2
+    *   Gabbard2
+    *   O'Rourke2
+    *   Delaney1
+    *   Castro1Warren +2
 *   President Trump Job ApprovalFOX News
     *   Approve45
     *   Disapprove54Disapprove +9
@@ -268,26 +282,15 @@ Latest PollsAll Polls
     *   Gabbard0
     *   Steyer1
     *   Castro0
-    *   Delaney1Biden +11
-*   New Jersey Democratic Presidential PrimaryMonmouth
-    *   Biden26
-    *   Warren20
-    *   Sanders18
-    *   Booker9
-    *   Buttigieg6
-    *   Harris6
-    *   Gabbard2
-    *   Yang1
-    *   Klobuchar1
-    *   Blasio1Biden +6
+    *   Bennet1Biden +11
 
 More Latest Polls In The News
 
+*   Candace Owens to Congress: White Supremacy Not A Major Problem Or Threat Facing Black America
 *   McCarthy on Whistleblower: "We Have Watched This Pattern Before Going After This President"
 *   Trump on ISIS Prisoners: Europeans Need To Take Them Back "Or We're Going To Let Them Go At Your Border"
-*   Tulsi Gabbard: Attack On Saudi Arabia A "Retaliation Against The Extreme Sanctions That Are On Iran"
-*   Giuliani Freaks Out On CNN Cuomo After Admitting Asking Ukraine To Probe Biden Moments After Denying
 *   Rep. Gaetz Grills Al Sharpton: Have You Ever Called Jews "White Interlopers Or Diamond Merchants?"
+*   Giuliani Freaks Out On CNN Cuomo After Admitting Asking Ukraine To Probe Biden Moments After Denying
 
 *   Politics
 *   Policy
