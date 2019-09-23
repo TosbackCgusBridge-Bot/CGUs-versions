@@ -298,10 +298,6 @@ Offers
     
     at Boston, Mountain View, and San Jose theaters featuring ICONX Dolby® ATMOS™ and heated recliners! \*Terms apply. BUY TICKETS
     
-*   AMC Stubs® Members Save Big with Discount Tuesdays
-    
-    Save on tickets to Tuesday showtimes with your AMC Stubs® membership. \*Terms apply. BUY TICKETS
-    
 *   'Downton Abbey' Sweepstakes
     
     Enter for your chance to win a script of the movie signed by the cast! \*Terms apply. ENTER NOW
@@ -357,4 +353,8 @@ Follow Us
 *   Fandango on Instagram
 *   Fandango on Youtube
 
-Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
+Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango Got a minute?
+
+Help us improve Fandango by taking a short survey!
+
+Take the surveyNo Thanks
