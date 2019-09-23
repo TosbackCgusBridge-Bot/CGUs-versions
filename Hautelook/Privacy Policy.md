@@ -9,39 +9,54 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
+    *   Lola Made in Italy Up to 75% Off
+    *   1.STATE Up to 75% Off Incl. Plus
+    *   Women's Shoe Blowout
+    *   Free Shipping: Duvet Sets &. More Up to 70% Off
+    *   Men's Shoe Steals Up to 70% Off
+    *   Diamonds, Precious Gems &. More Up to 80% Off
+    *   Free Shipping: Pillow &. Throw Blowout
+    *   MICHAEL Michael Kors Outerwear Up to 65% Off
+    *   Natori Up to 65% Off
+    *   French Connection Up to 60% Off
+    *   Michael Kors Men's Outerwear &. More
+    *   Naturalizer &. SOUL Naturalizer Up to 50% Off
+    *   Amanda &. Chelsea Incl. Plus and Petites
+    *   CZ by Kenneth Jay Lane Up to 65% Off
+    *   Volcom
+    *   1.STATE &. Vince Camuto Shoes Up to 60% Off
+    *   Fall Freshness: Dresses Under $100
+    *   Lacoste Men's Shoes
+    *   Baby Essentials: aden + anais &. More
+    *   Volcom Boys Starting at $10
+    *   Keds from $30
+    *   Organic to Green Skin Care Starting at $10
     *   Designers We Love: Helmut Lang &. More
     *   ASICS
     *   ASICS Men
     *   All Week Wardrobe: Blouses &. More ft. Do + Be
     *   Made in Italy: Meshmerise Jewelry from $30
+    
     *   Clarks Up to 50% Off
     *   On-Trend Exclusives ft. Abound
     *   Men's Denim Under $50
     *   Prepare to Party: MINKPINK &. More Up to 70% Off
-    *   Outdoor Voices
     *   All the Small Things: Men's Accessories from $10
     *   Bettye Muller Up to 60% Off
     *   Like a Pro: NuMe Hair Tools &. More
     *   Teami Blends Detox Teas &. Supplements
     *   Free Shipping: Comforter Sets &. More from $35
     *   ASICS Kids
-    *   Fall Looks for Girls ft. Habitual Kids
-    *   Best Selling Toys ft. Spin Master
     *   Fresh Finds: Shoes from $30
     *   Charles David &. Donald Pliner Up to 60% Off
     *   Free Shipping: Professional Garment Steamers
     *   Clean Beauty: Luscious Cosmetics from $10
+    *   Best Selling Toys ft. Spin Master
+    *   Fall Looks for Girls ft. Habitual Kids
+    *   Outdoor Voices
     *   Hunter
-    *   Kids' Rainboots ft. Hunter
-    
-    *   JOE'S Jeans Up to 60% Off
-    *   JOE'S Jeans Men Up to 60% Off
     *   Sparkle &. Shine: Dress The Population and More
-    *   Cashmere Up to 70% Off Incl. Plus &. Petites
-    *   Pullovers Under $40 Incl. Plus &. Petites
-    *   Cardigans Under $40 Incl. Plus &. Petites
-    *   Sweater Dresses Starting at $25
-    *   JOE'S Jeans Kids Up to 60% Off
+    *   Kids' Rainboots ft. Hunter
     *   Handmade in Bali: Devata Sterling &. 18K Jewelry
     *   Rock into Fall: Skinny Jeans &. More
     *   All in the Details: Mock Neck &. Smocked Dresses
@@ -49,6 +64,7 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Zoe Ayla: Crystal Face Rollers &. More
     *   Cozy into Fall: Slippers from $25
+    
     *   Lauren Lorraine Under $60
     *   Leather Bags ft. David King &. Co.
     *   Men's Chukka &. Chelsea Boots Up to 65% Off
@@ -56,35 +72,42 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Gadgets, Cookware &. More for the At-Home Chef
     *   RVCA Starting at $15
     *   Bring on Bedtime: Baby &. Kids' PJs Up to 60% Off
-    *   Coat Check: Kids' Outerwear Up to 60% Off
+    *   Cardigans Under $40 Incl. Plus &. Petites
     *   On Trend: ZAC Zac Posen Satchel Bags
-    
-    *   JOE'S Jeans Sleep &. Lingerie Under $30
-    *   14K Gold &. More Under $80
-    *   Koolaburra by UGG Kids
-    *   Stay Cool: Bomber Jackets Up to 65% Off
+    *   BCBGeneration Under $65
     *   ECCO Men
     *   Free Shipping: On-Trend Decor
     *   Decorative Pillows &. Throws
-    *   Celebrity Strands Hair Extensions Up to 70% Off
+    *   Luxe Style Essentials ft. Frank &. Eileen
     *   Premier Luxury Skincare
+    *   Celebrity Strands Hair Extensions Up to 70% Off
+    *   Men's Sweaters Starting at $20
+    *   Cashmere Up to 70% Off Incl. Plus &. Petites
+    *   Pullovers Under $40 Incl. Plus &. Petites
+    *   Sweater Dresses Starting at $25
     *   Wolverine Men Up to 55% Off
     *   Korean Beauty Skin Care &. Makeup ft. It's Skin
-    *   Robert Wayne Up to 55% Off
+    *   Free Shipping: Storage Must-Haves from $10
     *   Must-Have Palettes &. Lipsticks ft. Mavie Cosmetics
     *   Free Shipping: Storage for Every Room
     *   Technically Necessary: Cases, Cords &. More
-    *   LORAC Starting at $10
-    *   Luxe Style Essentials ft. Frank &. Eileen
-    *   BCBGeneration Under $65
-    *   Men's Sweaters Starting at $20
-    *   Free Shipping: Storage Must-Haves from $10
-    *   Hair Tools 101: Flat Irons, Brushes &. More
     *   Free Shipping: Statement-Making Canvas Wall Art
-    *   Free Shipping: BergHOFF Cookware Spectacular
-    *   Free Shipping: Bedding Steals Up to 75% Off
 *   WomenShop Sale Events
     
+    *   Lola Made in Italy Up to 75% Off
+    *   1.STATE Up to 75% Off Incl. Plus
+    *   Women's Shoe Blowout
+    *   Diamonds, Precious Gems &. More Up to 80% Off
+    *   MICHAEL Michael Kors Outerwear Up to 65% Off
+    *   Natori Up to 65% Off
+    *   French Connection Up to 60% Off
+    *   Naturalizer &. SOUL Naturalizer Up to 50% Off
+    *   Amanda &. Chelsea Incl. Plus and Petites
+    *   CZ by Kenneth Jay Lane Up to 65% Off
+    *   1.STATE &. Vince Camuto Shoes Up to 60% Off
+    *   Fall Freshness: Dresses Under $100
+    *   Keds from $30
+    *   Organic to Green Skin Care Starting at $10
     *   Designers We Love: Helmut Lang &. More
     *   ASICS
     *   All Week Wardrobe: Blouses &. More ft. Do + Be
@@ -92,21 +115,16 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Clarks Up to 50% Off
     *   On-Trend Exclusives ft. Abound
     *   Prepare to Party: MINKPINK &. More Up to 70% Off
-    *   Outdoor Voices
     *   Bettye Muller Up to 60% Off
     *   Like a Pro: NuMe Hair Tools &. More
     *   Teami Blends Detox Teas &. Supplements
     *   Fresh Finds: Shoes from $30
+    
     *   Charles David &. Donald Pliner Up to 60% Off
     *   Clean Beauty: Luscious Cosmetics from $10
+    *   Outdoor Voices
     *   Hunter
-    *   JOE'S Jeans Up to 60% Off
     *   Sparkle &. Shine: Dress The Population and More
-    *   Cashmere Up to 70% Off Incl. Plus &. Petites
-    *   Pullovers Under $40 Incl. Plus &. Petites
-    *   Cardigans Under $40 Incl. Plus &. Petites
-    *   Sweater Dresses Starting at $25
-    
     *   Handmade in Bali: Devata Sterling &. 18K Jewelry
     *   Handmade in Bali: Devata Sterling &. 18K Jewelry
     *   Rock into Fall: Skinny Jeans &. More
@@ -116,41 +134,42 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Lauren Lorraine Under $60
     *   Leather Bags ft. David King &. Co.
     *   GoldynGlow Superfood Blends
+    *   Cardigans Under $40 Incl. Plus &. Petites
     *   On Trend: ZAC Zac Posen Satchel Bags
-    *   JOE'S Jeans Sleep &. Lingerie Under $30
-    *   14K Gold &. More Under $80
-    *   Celebrity Strands Hair Extensions Up to 70% Off
+    *   BCBGeneration Under $65
+    *   Luxe Style Essentials ft. Frank &. Eileen
     *   Premier Luxury Skincare
+    *   Celebrity Strands Hair Extensions Up to 70% Off
+    *   Cashmere Up to 70% Off Incl. Plus &. Petites
+    *   Pullovers Under $40 Incl. Plus &. Petites
+    *   Sweater Dresses Starting at $25
     *   Korean Beauty Skin Care &. Makeup ft. It's Skin
     *   Must-Have Palettes &. Lipsticks ft. Mavie Cosmetics
-    *   LORAC Starting at $10
-    *   Luxe Style Essentials ft. Frank &. Eileen
-    *   BCBGeneration Under $65
-    *   Hair Tools 101: Flat Irons, Brushes &. More
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Handbags
     *   Lingerie
+    *   Handbags
     *   Accessories
 *   MenShop Sale Events
     
+    *   Men's Shoe Steals Up to 70% Off
+    *   Michael Kors Men's Outerwear &. More
+    *   Volcom
+    *   Lacoste Men's Shoes
     *   ASICS Men
     *   Men's Denim Under $50
     *   All the Small Things: Men's Accessories from $10
-    *   JOE'S Jeans Men Up to 60% Off
+    
     *   Diesel
     *   Leather Bags ft. David King &. Co.
     *   Men's Chukka &. Chelsea Boots Up to 65% Off
-    
     *   RVCA Starting at $15
-    *   Stay Cool: Bomber Jackets Up to 65% Off
     *   ECCO Men
-    *   Wolverine Men Up to 55% Off
-    *   Robert Wayne Up to 55% Off
     *   Men's Sweaters Starting at $20
+    *   Wolverine Men Up to 55% Off
     
     Shop By Category
     *   Clothing
@@ -158,68 +177,67 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Baby Essentials: aden + anais &. More
+    *   Volcom Boys Starting at $10
     *   ASICS Kids
-    *   Fall Looks for Girls ft. Habitual Kids
     *   Best Selling Toys ft. Spin Master
+    *   Fall Looks for Girls ft. Habitual Kids
     *   Kids' Rainboots ft. Hunter
-    *   JOE'S Jeans Kids Up to 60% Off
     *   Bring on Bedtime: Baby &. Kids' PJs Up to 60% Off
-    *   Coat Check: Kids' Outerwear Up to 60% Off
-    *   Koolaburra by UGG Kids
     
     Shop By Category
     *   Girls' Sizes 7-16
-    *   Girls' Sizes 2T-6X
     *   The Toy Shop
+    *   Girls' Sizes 2T-6X
     *   Girls' Shoes
-    *   Boys' Sizes 8-20
     *   Boys' Sizes 2T-7
+    *   Boys' Sizes 8-20
     *   Boys' Shoes
     *   Baby Girl
     *   Baby Boy
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: Duvet Sets &. More Up to 70% Off
+    *   Free Shipping: Pillow &. Throw Blowout
     *   Free Shipping: Comforter Sets &. More from $35
     *   Free Shipping: Professional Garment Steamers
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Gadgets, Cookware &. More for the At-Home Chef
+    
     *   Free Shipping: On-Trend Decor
     *   Decorative Pillows &. Throws
-    
+    *   Free Shipping: Storage Must-Haves from $10
     *   Free Shipping: Storage for Every Room
     *   Technically Necessary: Cases, Cords &. More
-    *   Free Shipping: Storage Must-Haves from $10
     *   Free Shipping: Statement-Making Canvas Wall Art
-    *   Free Shipping: BergHOFF Cookware Spectacular
-    *   Free Shipping: Bedding Steals Up to 75% Off
     
     Shop By Category
     *   Home Decor
     *   Bedding
-    *   Kitchen &. Tabletop
     *   Cleaning &. Organization
+    *   Kitchen &. Tabletop
     *   Electronic &. Tech Accessories
     *   Luggage &. Travel
+    *   Rugs &. Doormats
     *   Bath
     *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   Organic to Green Skin Care Starting at $10
     *   Like a Pro: NuMe Hair Tools &. More
     *   Teami Blends Detox Teas &. Supplements
     *   Clean Beauty: Luscious Cosmetics from $10
     *   Zoe Ayla: Crystal Face Rollers &. More
     *   GoldynGlow Superfood Blends
-    *   Celebrity Strands Hair Extensions Up to 70% Off
-    
     *   Premier Luxury Skincare
+    *   Celebrity Strands Hair Extensions Up to 70% Off
     *   Korean Beauty Skin Care &. Makeup ft. It's Skin
     *   Must-Have Palettes &. Lipsticks ft. Mavie Cosmetics
-    *   LORAC Starting at $10
-    *   Hair Tools 101: Flat Irons, Brushes &. More
     
     Shop By Category
-    *   Hair Care
     *   Skin Care
+    *   Hair Care
     *   Makeup
     *   Bath &. Body
     *   Tools &. Accessories
