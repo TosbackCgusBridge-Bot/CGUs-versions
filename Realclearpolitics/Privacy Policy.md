@@ -115,53 +115,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Dawsey_: Trump Pressed Ukraine Leader on Inquiry Into Joe Biden
+*   _Robert Reich_: Trump Is No Hero of the Working Class
     
-*   _Peter Schweizer_: Biden Dealings With Ukraine Raise Troubling Questions
+*   _Greg Autry_: President Trump's China Policy Is Working
     
-*   _Chris Cillizza_: Trump's Pushback on Whistleblower Makes Literally Zero Sense
+*   _Chris Smith_: How Elizabeth Warren Is Eating Bernie Sanders' Left Lunch
     
-*   _Carlson &. Patel_: Democrats' Kavanaugh Smear Implodes--Again
+*   _J.T. Young_: Dem Midterm Wins Don't Guarantee 2020 Victories
     
-*   _Sen. Sheldon Whitehouse_: Why We Must Investigate Kavanaugh Cover-Up
+*   _Renato Mariotti_: Trump Didn't Bribe Ukraine. It's Actually Worse Than That.
     
-*   _Sen. Ted Cruz_: Time for Trump to Trigger the UN Snapback on Iran
+*   _Matt Margolis_: Whistleblower Story Looks Like Another Phony Scandal
     
-*   _Gergen &. Piltch_: Young People Offer Urgent Moral Clarity on Climate Change
+*   _Albert Hunt_: America's Newest Comedy Troupe: House Republicans
     
-*   _Myron Ebell_: Apocalyptic Predictions Have Failed for Half a Century
+*   _Thomas Jipping_: Dems Have Weaponzied the Judicial Confirmation Process
     
-*   _Al Gore_: The Climate Crisis Is the Battle of Our Time, and We Can Win
+*   _Libby Watson_: Democrats' Drug Price Bill May Be Dead on Arrival
     
-*   _Tristan Justice_: What's Happening Inside the Fight to Break Up Big Tech
+*   _Rich Lowry_: The Ridiculous Anti-Vaping Crusade
     
-*   _Minxin Pei_: The Coming Crisis of China's One-Party Regime
+*   _Andrew O'Hehir_: Is the Democratic Party Built to Lose?
     
-*   _Ezra Klein_: Congress, Not Policy Ideas, Hamstrung Obama's Presidency
+*   _Michael Goodwin_: The Nonstop Anti-Trump Feeding Frenzy
     
-*   _Newt Gingrich_: House Republicans: Real Story Is Recruits, Not Retirement
+*   _Maureen Dowd_: Has Trump Finally Gone Too Far?
     
-*   _Susan Crabtree_: Can Democrats Recalibrate on Kavanaugh Attacks?
+*   _Roger Kimball_: Another Week, Another Pseudo-Scandal
     
-*   _Aaron Blake_: Ukraine as Focus of Complaint Is Ominous for Trump
+*   _Jonathan Turley_: Ukraine Could Badly Damage Both Trump and the Dems
     
-*   _Thomas Lifson_: Is Trump Tricking the Media Into Covering Ukraine?
+*   _Shepard &. Siders_: Warren on Pace With Biden in Iowa
     
-*   _Kalev Leetaru_: How TV News, Online Coverage of Dorian Differed
+*   _Amy Walter_: Challenges Ahead for Warren?
     
-*   _John Cassidy_: New Polls Offer Encouragement to Biden, Warren, Sanders
+*   _Laurie Roberts_: Revolt Against Moderate Dems Helps Trump
     
-*   _Chris Cillizza_: The Democrats' Top Tier Is Just Two Candidates Now
+*   _Andrew Sullivan_: When the Ideologues Come for the Kids
     
-*   _Peggy Noonan_: Dems Keep Targeting Kavanaugh--Will Anyone Believe Them?
+*   _Victor Davis Hanson_: Trump's Nonstop War Against Liberal Culture
     
-*   _Franklin Foer_: Greta Thunberg Is Right to Panic
+*   _Michelle Singletary_: Americans Agree on One Thing. Unions Matter.
     
-*   _Ross Clark_: A Homework Assignment for the Climate Strikers
+*   _James Pinkerton_: GM Strike--Which Party Is Best for Workers in 2020?
     
-*   _Daniel Gardner_: 'What About China?' Is Bad Response to Climate Crisis
+*   _Moustafa Bayoumi_: Voting Trudeau Out Isn't the Solution
     
-*   _Karl Zinsmeister_: Online Monopoly + Liberal Orthodoxy = Big Tech Trouble
+*   _Matt Walsh_: There Should Be No Double Standards for Trudeau
     
 
 *   Previous
@@ -250,47 +250,36 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   Iowa Democratic Presidential CaucusDM Register/CNN
-    *   Biden20
     *   Warren22
+    *   Biden20
     *   Sanders11
     *   Buttigieg9
     *   Harris6
     *   Klobuchar3
-    *   Steyer2
+    *   Gabbard2
     *   Booker3
     *   Yang2
-    *   Gabbard2
+    *   Steyer2
     *   O'Rourke2
-    *   Delaney1
+    *   Bullock1
     *   Castro1Warren +2
+*   President Trump Job ApprovalNBC News/Wall St. Jrnl
+    *   Approve45
+    *   Disapprove53Disapprove +8
 *   President Trump Job ApprovalFOX News
     *   Approve45
     *   Disapprove54Disapprove +9
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve52
     *   Disapprove47Approve +5
-*   2020 Democratic Presidential NominationFOX News
-    *   Biden29
-    *   Warren16
-    *   Sanders18
-    *   Buttigieg5
-    *   Harris7
-    *   O'Rourke4
-    *   Yang2
-    *   Booker3
-    *   Klobuchar2
-    *   Gabbard0
-    *   Steyer1
-    *   Castro0
-    *   Bennet1Biden +11
 
 More Latest Polls In The News
 
+*   Nunes: Whistleblower Claim Has "Hallmarks Of Russia Hoax". Ukraine Scandal Likely End Of Biden's Campaign
+*   Murphy: Trump's Relationship With Ukraine Is "Incredibly Suspicious," Whistleblower Must Go Public
+*   Giuliani On Biden/Ukraine: "Ladies And Gentleman, Go Look At What The Press Has Been Covering Up On You"
+*   Schiff on Whistleblower Allegation: Impeachment "May Be The Only Remedy" Equal To "Evil" Of Trump
 *   Candace Owens to Congress: White Supremacy Not A Major Problem Or Threat Facing Black America
-*   McCarthy on Whistleblower: "We Have Watched This Pattern Before Going After This President"
-*   Trump on ISIS Prisoners: Europeans Need To Take Them Back "Or We're Going To Let Them Go At Your Border"
-*   Rep. Gaetz Grills Al Sharpton: Have You Ever Called Jews "White Interlopers Or Diamond Merchants?"
-*   Giuliani Freaks Out On CNN Cuomo After Admitting Asking Ukraine To Probe Biden Moments After Denying
 
 *   Politics
 *   Policy
