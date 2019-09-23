@@ -365,17 +365,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Medical records for 24.3 million left exposed
-    *   Misconfigured database exposes 198M records on prospective auto buyers
-    *   Facebook boots multiple inauthentic accounts created in Iraq and Ukraine
-    *   In cybersecurity speed kills, but faster saves
-    *   Restaurant Depot customers targets of phishing emails
+    *   Maryland gov't promises funds for Baltimore surveillance initiative
+    *   Pen test gone awry? Coalfire staffers arrested for burglary
+    *   Researchers: Iranian phishing campaign targets universities with fake library emails
+    *   Gamification: A winning strategy for cybersecurity training
+    *   Intel releases medium and low-rated security advisories
     
-    *   Exposed server leaks PII on all 16.6 million Ecuador citizens
     *   What does the SharePoint 2010 end of life mean for users?
-    *   Report: Scotiabank exposed source code and credentials on GitHub repositories
-    *   Facebook, YouTube used in Brazilian phishing scheme
-    *   Medical records for 24.3 million left exposed
+    *   Managing your cloud in the face of the California Consumer Privacy Act
+    *   Ryuk-like malware targeting law, military and finance groups
+    *   U.K. man arrested for allegedly hacking musicians, selling their songs
+    *   The Advanced Threat Potential of Deep Learning
     
     *   Chrome security issues addressed with Stable channel update
     *   Tricks of the trade: Mac malware impersonates trading app
@@ -413,4 +413,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
