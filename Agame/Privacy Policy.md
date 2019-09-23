@@ -154,7 +154,7 @@ View more results
     *   Mahjong Connect Classic
     *   Bubble Machine: 2 Player Game
     *   Crystical: 2 Player Puzzle Game
-    *   Happy Glass
+    *   The Impossible Quiz: World's Hardest Quiz
 *   Top Categories
     
     *   Dress Up
