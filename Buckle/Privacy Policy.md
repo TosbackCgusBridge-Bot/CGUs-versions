@@ -1,10 +1,10 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main contentFree shipping with any Buckle Black jean purchase! SHOP NOW.
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main contentClick here for an exclusive offer from Buckle Credit Card. See details.
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-Free shipping with any Buckle Black jean purchase! SHOP NOW.
+Click here for an exclusive offer from Buckle Credit Card. See details.
 
 *   Women
 *   Men
