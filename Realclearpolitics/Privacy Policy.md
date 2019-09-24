@@ -115,53 +115,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Robert Reich_: Trump Is No Hero of the Working Class
+*   _Mollie Hemingway_: Media Corruption on Perfect Display in One Paragraph
     
-*   _Greg Autry_: President Trump's China Policy Is Working
+*   _David Leonhardt_: Donald Trump vs. the United States of America
     
-*   _Chris Smith_: How Elizabeth Warren Is Eating Bernie Sanders' Left Lunch
+*   _Jerry Dunleavy_: Graham Calls for Investigation Into Biden-Ukraine Dealings
     
-*   _J.T. Young_: Dem Midterm Wins Don't Guarantee 2020 Victories
+*   _Leonid Bershidsky_: Why Ukraine Won't Help Trump Get Dirt on Biden
     
-*   _Renato Mariotti_: Trump Didn't Bribe Ukraine. It's Actually Worse Than That.
+*   _Helen Raleigh_: China Has Already Lost the Trade War. Here's Why.
     
-*   _Matt Margolis_: Whistleblower Story Looks Like Another Phony Scandal
+*   _Aamer Madhani_: Warren Is On the Rise--and So Is Dem Criticism of Her
     
-*   _Albert Hunt_: America's Newest Comedy Troupe: House Republicans
+*   _Matthew Yglesias_: The Case for Looking Beyond the Top 3 Dem Candidates
     
-*   _Thomas Jipping_: Dems Have Weaponzied the Judicial Confirmation Process
+*   _Roger Simon_: Why Liberals and Progressives Lie to Blacks
     
-*   _Libby Watson_: Democrats' Drug Price Bill May Be Dead on Arrival
+*   _Osita Nwanevu_: The 'Cancel Culture' Con
     
-*   _Rich Lowry_: The Ridiculous Anti-Vaping Crusade
+*   _Miranda Devine_: Donald and Melania Trump Have a Genuine Love
     
-*   _Andrew O'Hehir_: Is the Democratic Party Built to Lose?
+*   _Timothy McLaughlin_: The Anger of Hong Kong's Youth
     
-*   _Michael Goodwin_: The Nonstop Anti-Trump Feeding Frenzy
+*   _Korte &. Pager_: Ukraine Row Pits Trump vs. Biden in Election Narrative
     
-*   _Maureen Dowd_: Has Trump Finally Gone Too Far?
+*   _David Catron_: Ukraine 'Bombshell' Will Explode in Dem Faces
     
-*   _Roger Kimball_: Another Week, Another Pseudo-Scandal
+*   _Barbara McQuade_: Trump May Have Committed Extortion and Bribery
     
-*   _Jonathan Turley_: Ukraine Could Badly Damage Both Trump and the Dems
+*   _Harry Kazianis_: Trump Is Wise to Avoid a Devastating War With Iran
     
-*   _Shepard &. Siders_: Warren on Pace With Biden in Iowa
+*   _Aaron Miller_: Netanyahu's Fate Hangs in the Balance After Israel Vote
     
-*   _Amy Walter_: Challenges Ahead for Warren?
+*   _Conrad Black_: Trudeau's Not a Racist, Just a Hypocrite and Bad Leader
     
-*   _Laurie Roberts_: Revolt Against Moderate Dems Helps Trump
+*   _Raul Reyes_: Phony Amigo: Trump's New Mexico Rally Was an Abject Failure
     
-*   _Andrew Sullivan_: When the Ideologues Come for the Kids
+*   _Liz Peek_: Trump Is Gaining Among Hispanics (Yes, Dems Are Shocked)
     
-*   _Victor Davis Hanson_: Trump's Nonstop War Against Liberal Culture
+*   _David Dayen_: The Day One Agenda for the Next Dem President
     
-*   _Michelle Singletary_: Americans Agree on One Thing. Unions Matter.
+*   _Kevin Daley_: Taming the 9th Circuit: Trump Has Made Real Progress
     
-*   _James Pinkerton_: GM Strike--Which Party Is Best for Workers in 2020?
+*   _Frank Miele_: Come Back, Never Trumpers. All Is Forgiven!
     
-*   _Moustafa Bayoumi_: Voting Trudeau Out Isn't the Solution
+*   _Dean Obeidallah_: Elizabeth Warren Is Becoming Trump's Greatest Threat
     
-*   _Matt Walsh_: There Should Be No Double Standards for Trudeau
+*   _Ned Ryun_: A Precedent for Ending Big Tech's Monopoly
     
 
 *   Previous
@@ -232,11 +232,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Online Monopoly + Liberal Orthodoxy = Tech Trouble
 *   Democrats Seek to Recalibrate as Kavanaugh Bombshell Fizzles
+*   Nunes: Ukraine Will Sink Biden's Campaign, Not Trump's Presidency
 *   Despite High Hopes, de Blasio Was Gone in a New York Minute
-*   Buttigieg: Warren Is Extremely Evasive Over Funding for Health Plan
 *   Trump Camp: 2020 Dems' Silence on Abortionist Is "Deafening"
-*   McSally's Republican Senate Challenger Wants to...Annex Mexico
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -249,37 +249,48 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Iowa Democratic Presidential CaucusDM Register/CNN
-    *   Warren22
-    *   Biden20
-    *   Sanders11
-    *   Buttigieg9
+*   2020 Democratic Presidential NominationPolitico/Morning Consult
+    *   Biden32
+    *   Warren20
+    *   Sanders19
+    *   Buttigieg5
     *   Harris6
-    *   Klobuchar3
-    *   Gabbard2
+    *   O'Rourke3
+    *   Yang3
     *   Booker3
+    *   Klobuchar2
+    *   Castro1
+    *   Gabbard1
+    *   Bennet1
+    *   Steyer1Biden +12
+*   2020 Democratic Presidential NominationThe Hill/HarrisX
+    *   Biden31
+    *   Warren14
+    *   Sanders16
+    *   Buttigieg5
+    *   Harris5
+    *   O'Rourke4
     *   Yang2
-    *   Steyer2
-    *   O'Rourke2
-    *   Bullock1
-    *   Castro1Warren +2
-*   President Trump Job ApprovalNBC News/Wall St. Jrnl
-    *   Approve45
-    *   Disapprove53Disapprove +8
-*   President Trump Job ApprovalFOX News
-    *   Approve45
-    *   Disapprove54Disapprove +9
+    *   Booker2
+    *   Klobuchar2
+    *   Castro3
+    *   Gabbard1
+    *   Bennet1
+    *   Steyer1Biden +15
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve52
-    *   Disapprove47Approve +5
+    *   Disapprove46Approve +6
+*   Direction of CountryRasmussen Reports
+    *   Right Direction43
+    *   Wrong Track51Wrong Track +8
 
 More Latest Polls In The News
 
+*   Bill Kristol: Mitt Romney Has Helped Reassure Pelosi There Is Republican Support For Impeachment in Senate
+*   Jon Karl on Hunter Biden &. Ukraine: "If His Name Was Hunter Smith He Probably Wouldn't Be Getting Paid"
+*   Greta Thunberg To UN Climate Summit: If You Really Understand The Situation And Still Do Nothing, "You Are Evil"
+*   WH Press Secretary Grisham: No More Press Briefings Because Reporters Used Platform To "Get Famous"
 *   Nunes: Whistleblower Claim Has "Hallmarks Of Russia Hoax". Ukraine Scandal Likely End Of Biden's Campaign
-*   Murphy: Trump's Relationship With Ukraine Is "Incredibly Suspicious," Whistleblower Must Go Public
-*   Giuliani On Biden/Ukraine: "Ladies And Gentleman, Go Look At What The Press Has Been Covering Up On You"
-*   Schiff on Whistleblower Allegation: Impeachment "May Be The Only Remedy" Equal To "Evil" Of Trump
-*   Candace Owens to Congress: White Supremacy Not A Major Problem Or Threat Facing Black America
 
 *   Politics
 *   Policy
