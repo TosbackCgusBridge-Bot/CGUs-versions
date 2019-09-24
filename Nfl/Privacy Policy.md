@@ -1,4 +1,5 @@
-*   LA3-020CLE1-213Final
+*   CHI2-131WAS0-315Final
+*   TEN1-27JAX1-220Final
 *   CIN0-317BUF3-021Final
 *   MIA0-36DAL3-031Final
 *   DEN0-316GB3-027Final
@@ -12,8 +13,7 @@
 *   HOU2-127LAC1-220Final
 *   NO2-133SEA2-127Final
 *   PIT0-320SF3-024Final
-*   CHI1-1WAS0-2Mon, 8:15 pm ET
-*   TEN1-27JAX1-220Final
+*   LA3-020CLE1-213Final
 
 *   News
 *   Scores
@@ -37,7 +37,8 @@
 *   NFL Films
 *   Game Pass
 
-*   LA20CLE13Final
+*   CHI31WAS15Final
+*   TEN7JAX20Final
 *   CIN17BUF21Final
 *   MIA6DAL31Final
 *   DEN16GB27Final
@@ -51,8 +52,7 @@
 *   HOU27LAC20Final
 *   NO33SEA27Final
 *   PIT20SF24Final
-*   CHI1-1WAS0-2Mon, 8:15 pm ET
-*   TEN7JAX20Final
+*   LA20CLE13Final
 
 *   News
 *   Scores
