@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   23\. September 2019
+*   24\. September 2019
 *   Abo
-*   DAX 12.468,01ǀ
+*   DAX 12.342,33ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -78,7 +78,6 @@ Anmelden
         *   Fußball-News
         *   Formel 1
         *   Formel-1-Liveticker
-        *   Wimbledon 2019
     *   *   Sportwetten
 *   Kultur
     
@@ -159,7 +158,6 @@ Anmelden
     *   *   Übersicht
         *   Tests
         *   Fahrkultur
-        *   IAA 2019
 *   Stil
     
     *   *   Übersicht
