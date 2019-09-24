@@ -122,8 +122,8 @@ Written notice should be sent by mail or by PDF attached to an email to DeviantA
 DMCA Complaints  
 DeviantArt, Inc.  
 attn. Daniel Sowers Jr  
-7095 Hollywood Blvd #788  
-Hollywood, CA 90028 Fax: 323.645.6001  
+7111 Santa Monica Blvd, Ste B, PO Box 230  
+West Hollywood, CA 90046 Fax: 323.645.6001  
 Email: violations@deviantart.com
 
 Under Section 512(f) of the Copyright Act any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability. Consult your legal counsel or see Section 512(c)(3) of 17 U.S.C. to clarify or confirm the requirements of the notice.
