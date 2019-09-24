@@ -8,8 +8,7 @@
             *   Inspire Family
             *   Ace 2
         *   MORE PRODUCTS
-            *   Aria 2  
-                Smart Scale
+            *   Aria Family Smart Scales
             *   Accessories
             *   Fitbit Premium
     *   Not sure which product is right for you? COMPARE PRODUCTS
