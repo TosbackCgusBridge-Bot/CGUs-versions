@@ -13,7 +13,7 @@ Lenovo Explore Close
         *   Business Laptops
         *   Gaming Laptops
         *   Student Laptops
-        *   Mobile Workstations
+        *   Workstation Laptops
         *   View All Laptops
         
         *   By Brand
@@ -73,9 +73,9 @@ Lenovo Explore Close
         *   Financing Available
         
         *   Explore Workstations
-        *   Desktop Workstations
-        *   Mobile Workstations
-        *   Shop all Workstations
+        *   Shop All Workstations
+        *   Workstation Computers
+        *   Workstation Laptops
         
         *   By Brand
         *   ThinkPad
@@ -170,6 +170,7 @@ Lenovo Explore Close
         *   ThinkVision X1
         *   On-the-go M14
         *   P24q Monitor
+        *   L22e-20 Monitor
         
         *   Quick Links
         *   Sale
