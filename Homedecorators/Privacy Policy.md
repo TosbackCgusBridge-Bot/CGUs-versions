@@ -69,16 +69,16 @@ More Options Available Home Decorators Collection True Cherry 7.5 in. x 47.6 in.
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/053d230c-6b14-4593-9b5e-4e28e5206c9b/svn/brown-high-gloss-home-decorators-collection-laminate-wood-flooring-hl84-64\_400\_compressed.jpg" alt="High Gloss Perry Hickory 8 mm Thick x 5 in. Wide x 47-3/4 in. Length Laminate Flooring (13.26 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/0a/0a39478e-d124-47a8-8a78-023cad630918\_400\_compressed.jpg" alt="High Gloss Perry Hickory 8 mm Thick x 5 in. Wide x 47-3/4 in. Length Laminate Flooring (13.26 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/11a11b36-d0eb-4a58-8887-4d198a9cf21a/svn/sawcut-classic-home-decorators-collection-vinyl-plank-flooring-441115-64\_400\_compressed.jpg" alt="Sawcut Classic 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/8e/8e08ce1c-e717-4b7b-baec-f5b94878ab12\_400\_compressed.jpg" alt="Sawcut Classic 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
 
-More Options Available Home Decorators Collection High Gloss Perry Hickory 8 mm Thick x 5 in. Wide x 47-3/4 in. Length Laminate Flooring (13.26 sq. ft. / case) Model#  HL84 (832) $188 /sq. ft. ( $24.92  /case) $188 /sq. ft. ( $24.92  /case) Standard delivery
+More Options Available Home Decorators Collection Sawcut Classic 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case) Model#  441115 (334) $239 /sq. ft. ( $59.12  /case) $239 /sq. ft. ( $59.12  /case) Standard delivery
 
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/11a11b36-d0eb-4a58-8887-4d198a9cf21a/svn/sawcut-classic-home-decorators-collection-vinyl-plank-flooring-441115-64\_400\_compressed.jpg" alt="Sawcut Classic 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/8e/8e08ce1c-e717-4b7b-baec-f5b94878ab12\_400\_compressed.jpg" alt="Sawcut Classic 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/053d230c-6b14-4593-9b5e-4e28e5206c9b/svn/brown-high-gloss-home-decorators-collection-laminate-wood-flooring-hl84-64\_400\_compressed.jpg" alt="High Gloss Perry Hickory 8 mm Thick x 5 in. Wide x 47-3/4 in. Length Laminate Flooring (13.26 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/0a/0a39478e-d124-47a8-8a78-023cad630918\_400\_compressed.jpg" alt="High Gloss Perry Hickory 8 mm Thick x 5 in. Wide x 47-3/4 in. Length Laminate Flooring (13.26 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
 
-More Options Available Home Decorators Collection Sawcut Classic 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case) Model#  441115 (334) $239 /sq. ft. ( $59.12  /case) $239 /sq. ft. ( $59.12  /case) Standard delivery
+More Options Available Home Decorators Collection High Gloss Perry Hickory 8 mm Thick x 5 in. Wide x 47-3/4 in. Length Laminate Flooring (13.26 sq. ft. / case) Model#  HL84 (832) $188 /sq. ft. ( $24.92  /case) $188 /sq. ft. ( $24.92  /case) Standard delivery
 
 Set your store to see local  
 availability
