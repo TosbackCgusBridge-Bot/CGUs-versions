@@ -6,7 +6,7 @@ Shop Departments
 
 *   Same Day Pickup
 *   Weekly Ad
-*   Fall Fashion
+*   Halloween Shop
 *   Deals
     *   Special Deals
     *   Deals Under $10
@@ -21,7 +21,32 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackFinal Hours Of COUPON CODE SUNDAY ENDS IN00HOURS 41MINS 17SECS See Details\*Extra 30% off select apparel, shoes, accessories, fine jewelry and home purchases of $100 or more. Extra 25% off select purchases under $100. Extra 10% off furniture, mattresses, housewares, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches and salon products. Each offer good at jcp.com only, excluding taxes and shipping charges, from 3pm CDT, 9/22/19 to 12am CDT, 9/23/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Best Value, Daily Deals, Limited Time Specials, Levi's, Denizen from Levi’s, Disney Collection, Disney Tsum Tsum, French Toast, Fisher-Price, Fanatics, Licensed Team Sports Merchandise, Columbia, Carhartt, Nike, adidas, Reebok, Puma, Champion, Converse, Clarks, Skechers Women's Shoes, Skechers Athletic Shoes, Bobs from Skechers, Keds, Grasshoppers, Athletic Shoes, Goddess Lingerie, Dreamgirl, Jewelry Trunk Shows, Modern Bride Design Your Dream Ring, Pre-Owned Watches, Smartwatches, Garmin, Fitbit, Sephora, Food, Penney Lane, S'ip by S'well, Electronics, In-Home Custom Design, Tempur-Pedic, Neato Robotics, iRobot, Sporting Goods/Outdoor Gear, Toys, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Personalized Jewelry, Wigs and Extensions, Purchase with Purchase Items, In-Store Services, Service Plans, Gift Cards, Closing Store purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. $ off savings applied to all qualifying items on prorated basis. any refunds will be given in the prorated amount. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code SUNDAY when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. Details Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 33 total items loaded in Media GalleryFollow @jcpenney UP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESHOP ALLSELECT STYLSEUP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESELECT STYLSESHOP ALL
+Near YouFind a StoreBack40% OFF $40+ WITH CODEGUYS' ARIZONA JEANSselect styles | reg. $42-$5040% OFF $40+ WITH CODEKIDS' ARIZONA FLEX JEANSselect styles | reg. $30-$4040% OFF $40+ WITH CODE OUTDOOR SHOPselect styles | reg. $40-$89
+
+*   SHOP NOW
+
+40% OFF $40+ WITH CODEWOMEN'S BOOTSselect styles | reg. $60-$90
+
+*   SHOP NOW
+
+60% OFF $100+ WITH CODEHOMEselect styles
+
+*   SHOP HOME
+
+*   BEDDING
+    
+*   SHEETS
+    
+*   BATH
+    
+*   PILLOWS
+    
+*   COMFORTERS
+    
+*   MATTRESS PADS
+    
+
+SHOP HOME Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 28 total items loaded in Media GalleryFollow @jcpenney UP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESHOP ALLSELECT STYLESUP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESELECT STYLESSHOP ALL
 
 *   $539after couponwas $24 Carter's Boys 2-pc. Short Set BabyAdd To Cart
 *   $1686after couponwas $45 Carter's Toddler Boys Brand Booties Flat Heel(31)Add To Cart
@@ -29,64 +54,20 @@ Near YouFind a StoreBackFinal Hours Of COUPON CODE SUNDAY ENDS IN00HOURS 41MINS
 *   $629after couponwas $24 Carter's Girls 2-pc. Short Set Baby(22)Add To Cart
 *   $1079after couponwas $32 Carter's Short Sleeve Cap Sleeve Fit &. Flare Dress - Baby GirlsAdd To Cart
 *   $1049after couponwas $40 Carter's Girls Sleeveless A-Line Dress - Baby(7)Add To Cart
-*   $1484after couponwas $44 Carter's Rash Guard Set - ToddlerAdd To Cart
-
-BUY ONE, GET ONE 50% OFF BRASSHOP ALLSELECT STYLESBUY ONE, GET ONE 50% OFF BRASSELECT STYLESSHOP ALL
-
-*   BUY 1 GET 1 50% OFF
-    
-    $42
-    
-    Vanity Fair® Beauty Back™ Full-Figure Back-Smoothing Underwire Bra - 76380(453)Add To Cart
-*   BUY 1 GET 1 50% OFF
-    
-    $40
-    
-    Bali Double Support Comfort Wireless Full Coverage Bra-3820(1599)Add To Cart
-*   BUY 1 GET 1 50% OFF
-    
-    $42
-    
-    Vanity Fair® Beauty Back™ Full-Figure Back Smoothing Wireless Bra - 71380(568)Add To Cart
-*   BUY 1 GET 1 50% OFF
-    
-    $44
-    
-    Bali One Smooth U® Smoothing &. Concealing Underwire T-Shirt Full Coverage Bra-3w11(476)Add To Cart
-*   BUY 1 GET 1 50% OFF
-    
-    $40
-    
-    Bali Flower Bali Comfort-U Underwire Unlined Full Coverage Bra-0180(1195)Add To Cart
-*   BUY 1 GET 1 50% OFF
-    
-    $2399 - $40
-    
-    Warner's This Is Not A Bra® Full-Coverage Tailored Underwire Contour Bra 1593(252)Add To Cart
-*   BUY 1 GET 1 50% OFF
-    
-    $40
-    
-    Warner’s No Side Effects® Full-Coverage Underwire Contour Bra 1356(542)Add To Cart
+*   $419after couponwas $16 Carter's Girls Round Neck Short Sleeve Graphic T-Shirt-Toddler(30)Add To Cart
 
 Recommended for You
 
-*   DOORBUSTER!
-    
-    $239 - $1999after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(211)
-*   $1359 - $4799after couponwas $22 - $90 JCPenney Home™ Ultima Bath Rug Collection(704)
-*   $639after couponwas $17 - $19 a.n.a Womens Scoop Neck Short Sleeve T-Shirt(284)
-*   $639 - $1999after couponwas $44 Worthington Perfect Trouser(319)
+*   $6 - $4560after coupon on orders $40+JCPenney Home Performance Bath Towel Collection(211)
+*   $1020 - $1140after coupon on orders $40+a.n.a Womens Scoop Neck Short Sleeve T-Shirt(284)
+*   $1320 - $54after coupon on orders $40+JCPenney Home™ Ultima Bath Rug Collection(704)
+*   $599 - $2640after couponWorthington Perfect Trouser(319)
 *   LIMITED TIME SPECIAL!
     
     $10 sale
     
     was $49.98 | 80% offLIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver(185)
-*   LIMITED TIME SPECIAL!
-    
-    $15 sale
-    
-    was $74.98 | 80% offLIMITED TIME SPECIAL! Lab Created White Sapphire 20mm Hoop Earrings in Sterling Silver(43)
+*   $4498after couponLIMITED TIME SPECIAL! Lab Created White Sapphire 20mm Hoop Earrings in Sterling Silver(44)
 
 Shop and Save at JCPenney
 
