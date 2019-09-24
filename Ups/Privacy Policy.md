@@ -79,11 +79,11 @@ SearchMenu Close
         _UPS TradeAbility_
     *   Order Supplies
     
-    Explore All Shipping New multi-channel fulfillment made easy
+    Explore All Shipping Introducing UPS® Flat Rate Shipping
     
-    UPS eFulfillment can help you centrally store and ship the products you sell on more than 21 platforms. Start your 60-day trial today.
+    Choose from 5 flat rate options and 3 shipping speeds to ship anywhere in the U.S.
     
-    Learn More to Sign Up
+    Learn More
     
 *   Services Services By Type
     
