@@ -365,17 +365,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Maryland gov't promises funds for Baltimore surveillance initiative
-    *   Pen test gone awry? Coalfire staffers arrested for burglary
-    *   Researchers: Iranian phishing campaign targets universities with fake library emails
-    *   Gamification: A winning strategy for cybersecurity training
-    *   Intel releases medium and low-rated security advisories
+    *   Facebook boots multiple inauthentic accounts created in Iraq and Ukraine
+    *   Rep. Thompson asks O'Brien to revive cyber coordinator position
+    *   Exposed server leaks PII on all 16.6 million Ecuador citizens
+    *   Chrome security issues addressed with Stable channel update
+    *   Sleeping on the job? Verlo Mattress Factory exposes database
     
-    *   What does the SharePoint 2010 end of life mean for users?
-    *   Managing your cloud in the face of the California Consumer Privacy Act
-    *   Ryuk-like malware targeting law, military and finance groups
-    *   U.K. man arrested for allegedly hacking musicians, selling their songs
+    *   WeWork unsecured WiFi exposes documents
     *   The Advanced Threat Potential of Deep Learning
+    *   Facebook boots multiple inauthentic accounts created in Iraq and Ukraine
+    *   Tricks of the trade: Mac malware impersonates trading app
+    *   Report: Russian man to plead guilty to financial firm hacks
     
     *   Chrome security issues addressed with Stable channel update
     *   Tricks of the trade: Mac malware impersonates trading app
@@ -413,4 +413,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
