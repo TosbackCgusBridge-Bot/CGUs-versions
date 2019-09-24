@@ -40,20 +40,20 @@ Stock Quote and Chart
 
 Price
 
-$1.63
+$1.67
 
 Change
 
-+0.15
++0.04
 
 Percent Change
 
-(0.00%)
+(+2.45%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Sep 05, 2019 Office Depot to Present at Goldman Sachs Global Retailing Conference Thursday, September 5, 2019 view more Recent News Sep 05, 2019 Office Depot to Present at Goldman Sachs Global Retailing Conference Thursday, September 5, 2019 view more Events Sep 5, 2019 at 2:25 PM EDT Office Depot Presents at Goldman Sachs 26th Annual Global Retailing Conference view more Events Sep 5, 2019 at 2:25 PM EDT Office Depot Presents at Goldman Sachs 26th Annual Global Retailing Conference view more Presentations Sep 05, 2019 Goldman Sachs 26th Annual Global Retailing Conference view more Presentations Sep 05, 2019 Goldman Sachs 26th Annual Global Retailing Conference view more
+Recent News Sep 23, 2019 Office Depot, Inc. Rolls Out Virtual Line Queuing System for Print and Copy Services view more Recent News Sep 23, 2019 Office Depot, Inc. Rolls Out Virtual Line Queuing System for Print and Copy Services view more Events Sep 5, 2019 at 2:25 PM EDT Office Depot Presents at Goldman Sachs 26th Annual Global Retailing Conference view more Events Sep 5, 2019 at 2:25 PM EDT Office Depot Presents at Goldman Sachs 26th Annual Global Retailing Conference view more Presentations Sep 05, 2019 Goldman Sachs 26th Annual Global Retailing Conference view more Presentations Sep 05, 2019 Goldman Sachs 26th Annual Global Retailing Conference view more
 
 *   Home
 *   News &. Events
