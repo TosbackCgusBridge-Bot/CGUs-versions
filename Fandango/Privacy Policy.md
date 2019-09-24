@@ -5,38 +5,37 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Downton Abbey (2019)
+    *   Ad Astra
+    *   Rambo: Last Blood
     *   It Chapter Two (2019)
     *   Hustlers
-    *   Angel Has Fallen
-    *   Good Boys (2019)
     *   The Lion King (2019)
-    *   Fast &. Furious Presents: Hobbs &. Shaw
+    *   Good Boys (2019)
+    *   Angel Has Fallen
     *   Overcomer
-    *   The Goldfinch
-    *   The Peanut Butter Falcon
+    *   Fast &. Furious Presents: Hobbs &. Shaw
     *   Dora and the Lost City of Gold
-    *   Scary Stories to Tell in the Dark
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Ad Astra
-    *   Downton Abbey (2019)
-    *   Rambo: Last Blood
-    *   Britt-Marie Was Here
-    *   Midnight Diner (2019)
-    *   Midnight Traveler
-    *   Tazza: One Eyed Jack
-    *   Where's My Roy Cohn?
-    *   The Zoya Factor
+    *   Abominable (2019)
+    *   The Curse of Buckout Road
+    *   The Day Shall Come
+    *   First Love (2019)
+    *   The Golden Glove
+    *   Judy (2019)
+    *   Prey (2019)
+    *   Serie Noire
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Abominable (2019)
     *   Joker (2019)
     *   The Addams Family (2019)
     *   Gemini Man
+    *   High Strung Free Dance
     *   Jexi
     *   Maleficent: Mistress of Evil
     *   Zombieland: Double Tap
@@ -71,8 +70,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   The Week in Movie News: ‘Ghostbusters 2020’ Confirms Original Stars, Michael Fassbender Joins Taika Waititi Movie and More Read More
-    *   Today in Movie Culture: Brad Pitt Interviews an Astronaut for ‘Ad Astra,’ the ‘Downton Abbey’ Experience and More Read More
-    *   Next 3 Strong Female-Driven Films: 'Downton Abbey,' 'Maleficent: Mistress of Evil,' 'Harriet' Read More
+    *   Today in Movie Culture: ‘Downton Abbey’ Stars Pay Tribute to Maggie Smith, The Best ‘Rambo’ Copycats and More Read More
+    *   Next 3 Major Sci-Fi Movies: 'Gemini Man,' 'Terminator: Dark Fate,' 'Star Wars: The Rise of Skywalker' Read More
     
     Explore Content
     *   Movie Reviews
@@ -298,13 +297,13 @@ Offers
     
     at Boston, Mountain View, and San Jose theaters featuring ICONX Dolby® ATMOS™ and heated recliners! \*Terms apply. BUY TICKETS
     
+*   'Cats' Sweepstakes
+    
+    Sign up for a 'Cats' FanAlert™ for your chance to win a trip to the premiere in London! \*Terms apply. ENTER NOW
+    
 *   'Downton Abbey' Sweepstakes
     
     Enter for your chance to win a script of the movie signed by the cast! \*Terms apply. ENTER NOW
-    
-*   FandangoNOW Binge Bundles
-    
-    Rent multiple movies for one low price. Starting as low as $1.50 per movie. Many bundles available in stunning 4K Ultra HD. START BINGING
     
 
 New + Coming soon
@@ -353,8 +352,4 @@ Follow Us
 *   Fandango on Instagram
 *   Fandango on Youtube
 
-Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango Got a minute?
-
-Help us improve Fandango by taking a short survey!
-
-Take the surveyNo Thanks
+Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
