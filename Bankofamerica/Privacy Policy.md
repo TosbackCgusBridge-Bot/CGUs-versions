@@ -60,7 +60,7 @@ Don't feel pressured to act immediately layer
 
 Contact us immediately if you feel you may have been a victim of a scam.
 
-**AARP has assembled a variety of resources about security and scames that we think you will find helpful: AARP Page on Scams and Fraud**  
+**AARP has assembled a variety of resources about security and scams that we think you will find helpful: AARP Page on Scams and Fraud**  
   
 **Common types of scams**
 
