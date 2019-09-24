@@ -160,9 +160,8 @@ Questions
 If you have questions about this Privacy Policy or our policies or wish to exercise any of your rights as described, please contact our DPO team at:
 
 DeviantArt, Inc.  
-7095 Hollywood Blvd #788  
-Hollywood, CA 90028  
-Phone: 888-4DEVART (888-433-8278)  
+7111 Santa Monica Blvd, Ste B, PO Box 230  
+West Hollywood, CA 90046  
 Email: help@deviantart.com
 
 For the purposes of GDPR (Article 27), you may contact our EU representative at:
