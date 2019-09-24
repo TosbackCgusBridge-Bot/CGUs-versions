@@ -13,7 +13,6 @@ Feedback Skip to main content
     *   Order Now
 
 *   Get Support
-*   Business
 *   Location × Please enter your Zip Code Locations Channel Line Up Local Information
     
     To display accurate prices and offers in your area, we need to know your service area. Please enter your zipcode:
@@ -33,6 +32,7 @@ Skip to main content
 *   TV
 *   Phone
 *   Packages
+*   Business
 
 Internet Acceptable Use Policy Acceptable Use Policy
 
@@ -206,7 +206,7 @@ Business
 
 Advertising
 
-*   CableONE Digital Services
+*   CableONE Digital Marketing
 *   CableONE Creative Services
 *   CableONE Business TV Advertising
 
@@ -236,8 +236,6 @@ Legal
 *   CableONE Cable Service Guard
 *   CableONE Copyright Notice
 *   CableONE Annual Notice
-
-Search Search Type Residential Business Support
 
 *   CableONE Locations
 *   Contact Us
