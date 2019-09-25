@@ -112,7 +112,6 @@ Miami, FL 33131
 
 *   Facebook
 *   Twitter
-*   Google
 *   RSS
 
 Whos theme My Theme | Powered by MyPress | Designed by Your Design Agency
