@@ -365,23 +365,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Facebook boots multiple inauthentic accounts created in Iraq and Ukraine
-    *   Rep. Thompson asks O'Brien to revive cyber coordinator position
-    *   Exposed server leaks PII on all 16.6 million Ecuador citizens
-    *   Chrome security issues addressed with Stable channel update
-    *   Sleeping on the job? Verlo Mattress Factory exposes database
+    *   Erez Yalon - Checkmarx
+    *   Kevin Gosschalk - Arkose Labs
+    *   Kabir Barday - OneTrust
+    *   Kevin von Keyserling - Keyfactor
+    *   Elisa Costante - Forescout Technologies
     
-    *   WeWork unsecured WiFi exposes documents
-    *   The Advanced Threat Potential of Deep Learning
-    *   Facebook boots multiple inauthentic accounts created in Iraq and Ukraine
-    *   Tricks of the trade: Mac malware impersonates trading app
-    *   Report: Russian man to plead guilty to financial firm hacks
+    *   Greg Lesnewich - Recorded Future
+    *   Yatia Hopkins - eSentire
+    *   Steve Grobman - McAfee
+    *   Ellison Anne Williams - Enveil
+    *   Dani Martínez - IOActive
     
-    *   Chrome security issues addressed with Stable channel update
-    *   Tricks of the trade: Mac malware impersonates trading app
-    *   Sleeping on the job? Verlo Mattress Factory exposes database
-    *   Wakulla County school board elects to negotiate with ransomware hackers
-    *   HP picks up Bromium
+    *   Apple iOS 13.1 will fix location privacy bug, lockscreen bypass exploit
+    *   Voting equipment vendors seek info on vulnerability disclosure program
+    *   Eight cities' payment records impacted in Click2Gov portal breach
+    *   Defense Dept. unveils counter-insider threat program
+    *   Senate committee election security funding encouraging
 
 Back to Top
 
