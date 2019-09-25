@@ -476,7 +476,6 @@ Promotions
 
 Sweepstakes Official Rules/Winners
 
-*   Urban Cowboy Official Rules
 *   Sweepstakes Winners
 *   Social Giveaway Official Rules
 
