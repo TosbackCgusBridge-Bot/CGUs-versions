@@ -115,53 +115,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Mollie Hemingway_: Media Corruption on Perfect Display in One Paragraph
+*   _Korte &. Sink_: Trump Hears Clinton Echo in Biden Case--But It's Not 2016
     
-*   _David Leonhardt_: Donald Trump vs. the United States of America
+*   _Sean Davis_: Ukraine Hysteria Is Pure Projection by Media and Dems
     
-*   _Jerry Dunleavy_: Graham Calls for Investigation Into Biden-Ukraine Dealings
+*   _Leah Litman_: Trump's Call Would Be Tantamount to Bribery If Proved
     
-*   _Leonid Bershidsky_: Why Ukraine Won't Help Trump Get Dirt on Biden
+*   _President Donald Trump_: The Future Belongs to Patriots, Not Globalists
     
-*   _Helen Raleigh_: China Has Already Lost the Trade War. Here's Why.
+*   _David Roberts_: Youth Strike: Can Climate Movement Shake Politics Loose?
     
-*   _Aamer Madhani_: Warren Is On the Rise--and So Is Dem Criticism of Her
+*   _Nick Gillespie_: Thunberg's Future--&. That of the Planet--Hasn't Been 'Stolen'
     
-*   _Matthew Yglesias_: The Case for Looking Beyond the Top 3 Dem Candidates
+*   _Charles Day_: British Supreme Court's Decision Is a Constitutional Outrage
     
-*   _Roger Simon_: Why Liberals and Progressives Lie to Blacks
+*   _Martin Kettle_: Judgment Is a Devastating Blow for a Failed Prime Minister
     
-*   _Osita Nwanevu_: The 'Cancel Culture' Con
+*   _Hutchinson &. Laxalt_: Lawrence VanDyke a Stellar Choice for 9th Circuit
     
-*   _Miranda Devine_: Donald and Melania Trump Have a Genuine Love
+*   _Jonathan Chait_: Why House Dems Will Impeach Trump Over Ukraine
     
-*   _Timothy McLaughlin_: The Anger of Hong Kong's Youth
+*   _Rush Limbaugh_: Democrats Know They Can't Beat Trump in the Voting Booth
     
-*   _Korte &. Pager_: Ukraine Row Pits Trump vs. Biden in Election Narrative
+*   _John Solomon_: Democrats Were First to Enlist Ukraine in U.S. Elections
     
-*   _David Catron_: Ukraine 'Bombshell' Will Explode in Dem Faces
+*   _Chris Cillizza_: What We Know on Ukraine Looks Really, Really Bad for Trump
     
-*   _Barbara McQuade_: Trump May Have Committed Extortion and Bribery
+*   _Charles Hurt_: American News Media Is In a Free-Fall Death Spiral
     
-*   _Harry Kazianis_: Trump Is Wise to Avoid a Devastating War With Iran
+*   _Sean Collins_: Trump's Bogus Accusations About Biden and Ukraine
     
-*   _Aaron Miller_: Netanyahu's Fate Hangs in the Balance After Israel Vote
+*   _Eric Felten_: How Many Were Surveilled on Trump Team? 1...or 4?
     
-*   _Conrad Black_: Trudeau's Not a Racist, Just a Hypocrite and Bad Leader
+*   _Daniel Drezner_: Impeaching Trump Is Good Strategy for House Dems
     
-*   _Raul Reyes_: Phony Amigo: Trump's New Mexico Rally Was an Abject Failure
+*   _David Harsanyi_: The Tragedy of Greta Thunberg, Our Lady of Sorrows
     
-*   _Liz Peek_: Trump Is Gaining Among Hispanics (Yes, Dems Are Shocked)
+*   _Jen Psaki_: Greta Thunberg's Unforgettable Message Strikes a Nerve
     
-*   _David Dayen_: The Day One Agenda for the Next Dem President
+*   _Emma Roberts_: Socialism, Not Climate Change, Is the Real Threat
     
-*   _Kevin Daley_: Taming the 9th Circuit: Trump Has Made Real Progress
+*   _Courtney Subramanian_: 'Howdy, Modi!': Behind the Trump-Modi Bromance
     
-*   _Frank Miele_: Come Back, Never Trumpers. All Is Forgiven!
+*   _Richard Fontaine_: Trump's Mild Response Won't Stop Iranian Aggression
     
-*   _Dean Obeidallah_: Elizabeth Warren Is Becoming Trump's Greatest Threat
+*   _Andrew Bacevich_: Yes Trump, Please End U.S. Era in Mideast
     
-*   _Ned Ryun_: A Precedent for Ending Big Tech's Monopoly
+*   _Brady &. Parker_: Poll: Dem Voters Span Diverse Views, Benefiting Biden
     
 
 *   Previous
@@ -232,11 +232,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Poll: Dem Voters Span Diverse Views, Benefiting Biden
 *   Online Monopoly + Liberal Orthodoxy = Tech Trouble
+*   Trump: What Biden Did Is a Disgrace. What His Son Did Is a Disgrace
 *   Democrats Seek to Recalibrate as Kavanaugh Bombshell Fizzles
-*   Nunes: Ukraine Will Sink Biden's Campaign, Not Trump's Presidency
 *   Despite High Hopes, de Blasio Was Gone in a New York Minute
-*   Trump Camp: 2020 Dems' Silence on Abortionist Is "Deafening"
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -249,48 +249,70 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   2020 Democratic Presidential NominationEmerson
+    *   Biden25
+    *   Warren23
+    *   Sanders22
+    *   Buttigieg6
+    *   Harris4
+    *   Yang8
+    *   O'Rourke1
+    *   Booker2
+    *   Klobuchar0
+    *   Castro2
+    *   Gabbard1
+    *   Bennet0
+    *   Steyer0Biden +2
 *   2020 Democratic Presidential NominationPolitico/Morning Consult
     *   Biden32
     *   Warren20
     *   Sanders19
     *   Buttigieg5
     *   Harris6
-    *   O'Rourke3
     *   Yang3
+    *   O'Rourke3
     *   Booker3
     *   Klobuchar2
     *   Castro1
     *   Gabbard1
     *   Bennet1
     *   Steyer1Biden +12
-*   2020 Democratic Presidential NominationThe Hill/HarrisX
-    *   Biden31
-    *   Warren14
-    *   Sanders16
-    *   Buttigieg5
-    *   Harris5
-    *   O'Rourke4
+*   New Hampshire Democratic Presidential PrimaryMonmouth
+    *   Biden25
+    *   Warren27
+    *   Sanders12
+    *   Buttigieg10
+    *   Harris3
+    *   Gabbard2
     *   Yang2
     *   Booker2
     *   Klobuchar2
-    *   Castro3
+    *   Steyer2
+    *   O'Rourke1
+    *   Delaney0
+    *   Williamson1Warren +2
+*   Nevada Democratic Presidential CaucusUSA Today/Suffolk
+    *   Biden23
+    *   Sanders14
+    *   Warren19
+    *   Harris4
+    *   Buttigieg3
+    *   Steyer3
+    *   Yang3
+    *   Booker2
+    *   O'Rourke1
+    *   Castro1
     *   Gabbard1
     *   Bennet1
-    *   Steyer1Biden +15
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve52
-    *   Disapprove46Approve +6
-*   Direction of CountryRasmussen Reports
-    *   Right Direction43
-    *   Wrong Track51Wrong Track +8
+    *   Bullock1Biden +4
 
 More Latest Polls In The News
 
-*   Bill Kristol: Mitt Romney Has Helped Reassure Pelosi There Is Republican Support For Impeachment in Senate
-*   Jon Karl on Hunter Biden &. Ukraine: "If His Name Was Hunter Smith He Probably Wouldn't Be Getting Paid"
-*   Greta Thunberg To UN Climate Summit: If You Really Understand The Situation And Still Do Nothing, "You Are Evil"
-*   WH Press Secretary Grisham: No More Press Briefings Because Reporters Used Platform To "Get Famous"
-*   Nunes: Whistleblower Claim Has "Hallmarks Of Russia Hoax". Ukraine Scandal Likely End Of Biden's Campaign
+*   Chuck Todd: Biden Was Already Probed. Sen. Kennedy: Who Investigated Biden And Cleared Him?
+*   Trump On Impeachment Inquiry: "They Think They're Going To Win," "It's Actually Working The Other Way"
+*   Schumer And McConnell Debate Trump Whistleblower Report, Impeachment Inquiry On Senate Floor
+*   Joe Biden: Impeachment Of Donald Trump "Would Be A Tragedy Of His Own Making"
+*   Trump To UN: The Future Belongs to Patriots And Sovereign Independent Nations, Not To Globalists
 
 *   Politics
 *   Policy
