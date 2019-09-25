@@ -46,15 +46,15 @@ Near YouFind a StoreBack40% OFF $40+ WITH CODEGUYS' ARIZONA JEANSselect styles |
 *   MATTRESS PADS
     
 
-SHOP HOME Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 28 total items loaded in Media GalleryFollow @jcpenney UP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESHOP ALLSELECT STYLESUP TO 70% OFF CARTER'S BABY &. TODDLER CLEARANCESELECT STYLESSHOP ALL
+SHOP HOME Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 25 total items loaded in Media GalleryFollow @jcpenney UP TO 80% OFF CARTER'S BABY &. TODDLER CLEARANCESHOP ALLSELECT STYLESUP TO 80% OFF CARTER'S BABY &. TODDLER CLEARANCESELECT STYLESSHOP ALL
 
 *   $539after couponwas $24 Carter's Boys 2-pc. Short Set BabyAdd To Cart
-*   $1686after couponwas $45 Carter's Toddler Boys Brand Booties Flat Heel(31)Add To Cart
-*   $471after couponwas $18 Carter's Boys Round Neck Short Sleeve Graphic T-Shirt - Baby(9)Add To Cart
+*   $269after couponwas $18 Carter's Boys Crew Neck Short Sleeve Graphic T-Shirt-Toddler(24)Add To Cart
 *   $629after couponwas $24 Carter's Girls 2-pc. Short Set Baby(22)Add To Cart
-*   $1079after couponwas $32 Carter's Short Sleeve Cap Sleeve Fit &. Flare Dress - Baby GirlsAdd To Cart
 *   $1049after couponwas $40 Carter's Girls Sleeveless A-Line Dress - Baby(7)Add To Cart
-*   $419after couponwas $16 Carter's Girls Round Neck Short Sleeve Graphic T-Shirt-Toddler(30)Add To Cart
+*   $674after couponwas $30 Carter's One Piece Swimsuit Toddler Girls(27)Add To Cart
+*   $479after couponwas $32 Carter's Swimsuit Cover-Up Dress Baby(6)Add To Cart
+*   $681after couponwas $26 Carter's Tbd 3-pc. Bodysuit-Baby Girls(1)Add To Cart
 
 Recommended for You
 
@@ -62,12 +62,8 @@ Recommended for You
 *   $1020 - $1140after coupon on orders $40+a.n.a Womens Scoop Neck Short Sleeve T-Shirt(284)
 *   $1320 - $54after coupon on orders $40+JCPenney Home™ Ultima Bath Rug Collection(704)
 *   $599 - $2640after couponWorthington Perfect Trouser(319)
-*   LIMITED TIME SPECIAL!
-    
-    $10 sale
-    
-    was $49.98 | 80% offLIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver(185)
-*   $4498after couponLIMITED TIME SPECIAL! Lab Created White Sapphire 20mm Hoop Earrings in Sterling Silver(44)
+*   $2998after couponLIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver(185)
+*   $554 - $2640after coupon on orders $40+Worthington Essential Soft Blouse(172)
 
 Shop and Save at JCPenney
 
