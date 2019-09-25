@@ -100,7 +100,8 @@ Seeking AlphaTop Authors|RSS Feeds|Sitemap|About Us|Feedback|Contact UsTerms of 
 in progress for this email,  
 if you did not receive the confirmation email,  
 please ask your IT department or email provider to  
-place seekingalpha.com in the whitelist and try to register again Label text Get email alerts on   
-**Dividends ideas** Already have an account?Sign in hereGet Alerts sign in with Google  Thank you for registering!A confirmation email has been sent to you!  
+place seekingalpha.com in the whitelist and try to register again Thank you for registering!A confirmation email has been sent to you!  
 Confirm registration and enjoy Seeking Alpha  
-After confirming registration, please log in
+After confirming registration, please log in  
+Label text Get email alerts on   
+**Dividends ideas** Already have an account?Sign in hereGet Alerts sign in with Google
