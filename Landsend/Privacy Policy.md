@@ -38,7 +38,7 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 
 Receive 40% off full-price styles!
 
-code: FAMILY pin: 1122PROMOTION DETAILS
+code: FAMILY pin: PROMOTION DETAILS
 
 Customer Service Menu
 
