@@ -31,11 +31,6 @@ Lenovo Explore Close
         *   Legion Y740
         *   Yoga C930
         *   Chromebook
-        
-        Laptop Sale
-        
-        Shop special deals on laptops for work, home, school and gaming!
-        
     *   Desktops
         
         *   Always Free Shipping
@@ -61,11 +56,6 @@ Lenovo Explore Close
         *   ThinkCentre M720 Tiny
         *   P Series Workstations
         *   IdeaCentre A340
-        
-        Desktop Sale
-        
-        Shop &. save on our assortments of towers, desktops &. more!
-        
     *   Workstations
         
         *   Always Free Shipping
@@ -88,11 +78,6 @@ Lenovo Explore Close
         *   ThinkPad P73
         *   ThinkStation P330 Tiny
         *   ThinkStation P330 Tower
-        
-        P Series Mobile Workstations
-        
-        ThinkPad’s most powerful 15” mobile workstations. See what’s new.
-        
     *   Tablets
         
         *   Always Free Shipping
@@ -110,15 +95,6 @@ Lenovo Explore Close
         *   Top Rated Tablets
         *   Accessories
         *   Trending Tablets
-        
-        Tab 4 10" Plus
-        
-        Take advantage of this multi-purpose tablet!
-        
-        Tablet Sale
-        
-        Shop today's deals on tablets &. smart home devices!
-        
     *   Accessories &. Software
         
         *   Always Free Shipping
@@ -175,11 +151,6 @@ Lenovo Explore Close
         *   Quick Links
         *   Sale
         *   Monitor Accessories
-        
-        Monitor Sale
-        
-        Shop today's deals on monitors for work, home, gaming &. more!
-        
     *   Gaming
         
         *   Always Free Shipping
@@ -206,11 +177,6 @@ Lenovo Explore Close
         *   Legion Y540 Laptop
         *   Oculus Rift S
         *   Playstation 4
-        
-        Everything Gaming
-        
-        Shop Gaming / Shop &. save on everything gaming from laptops to consoles &. more!
-        
     *   Business
         
         *   Always Free Shipping
@@ -239,11 +205,6 @@ Lenovo Explore Close
         *   Logitech Accessories
         *   Server Deals
         *   ThinkBook
-        
-        JOIN FOR FREE
-        
-        Save an extra 5% off Think and get Lenovo's best business pricing
-        
     *   Support
         
         *   Always Free Shipping
@@ -268,11 +229,6 @@ Lenovo Explore Close
         *   Check Service Order Status
         *   Forums
         *   Contact Us
-        
-        Laptop Buying Guide
-        
-        Things to consider when choosing a laptop
-        
     *   Sale
         
         *   Always Free Shipping
@@ -298,11 +254,6 @@ Lenovo Explore Close
         *   Discount Programs
         *   Trade In Program
         *   Outlet
-        
-        Sale
-        
-        Shop special deals on laptops, desktops, monitors, accessories &. more!
-        
 *   Phones
 *   Data Center
     *   Data Center
@@ -328,8 +279,6 @@ Lenovo Explore Close
         *   OEM
         *   View All Solutions
         
-        Small and Medium Business Solutions
-        
         *   Why Lenovo in the Data Center
     *   Servers
         
@@ -344,27 +293,13 @@ Lenovo Explore Close
         *   Server Options
         *   Tower Servers
         *   View All Servers
-        
-        Servers
-        
-        The Heart of the Data Center
-        
     *   Storage
-        
         *   Explore Storage
         *   Storage-Area Network
         *   Direct-Attached Storage
         *   Tape Storage
         *   View All Storage
-        
-        Future-Proof Your Enterprise Storage
-        
-        Storage
-        
-        Easy to Manage, Simple to Scale
-        
     *   Networking
-        
         *   Explore Networking
         *   Ethernet RackSwitch
         *   Ethernet Switches for Flex (Embedded)
@@ -372,9 +307,6 @@ Lenovo Explore Close
         *   Open Networking
         *   Campus Switches
         *   View All Networking
-        
-        Future-Proof Your Cloud
-        
     *   Software-Defined Infrastructure
         
         *   Cloud Solutions
@@ -387,11 +319,6 @@ Lenovo Explore Close
         *   ThinkAgile HX Series (with Nutanix)
         *   ThinkAgile MX Certified Node (with Microsoft)
         *   ThinkAgile VX Series (with VMware)
-        
-        Own Your Cloud Experience
-        
-        Simplify IT and Accelerate Time-To-Value
-        
     *   Services
         *   Explore Services
         *   Solution Services
@@ -399,16 +326,12 @@ Lenovo Explore Close
         *   Support Services
         *   TruScale Infrastructure Services
     *   Software
-        
         *   Explore Software
         *   Infrastructure as a Service
         *   Operating Systems
         *   Security
         *   XClarity Systems Management
         *   View All Software
-        
-        Market-Leading Software for the Dynamic Business
-        
     *   Support
         
         *   Customer Support
@@ -446,27 +369,17 @@ Lenovo Explore Close
         *   Financing Available
     *   Smart Office
     *   AR/VR
-        
         *   Explore AR/VR
         *   Mirage Solo
         *   Mirage Camera
         *   Oculus
-        
-        Star Wars: Jedi Challenges
-        
-        Master the ways of the force!
-        
-        Mirage Solo &. Camera
-        
-        An evolved way to see reality.
-        
-        Oculus Rift S
-        
-        Blast, slash and soar your way through our incredible VR gaming library.
-        
     *   Support
         
         *   Customer Support
+        *   Help Placing An Order
+        *   Warranty Extensions
+        *   Order Replacement Parts
+        *   Shopping Help
         
         *   Order Support
         *   Check Order Status
@@ -555,6 +468,7 @@ Lenovo Explore Close
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
+*   Rewards
 *   Contact
     *   HELP PLACING AN ORDER 855-253-6686
     *   BUSINESS ORDER HELP 866-426-0911
@@ -597,6 +511,10 @@ Lenovo Explore Close
     *   Sign In To LenovoPro
     *   Learn more
 *   Contact
+    *   HELP PLACING AN ORDER 855-253-6686
+    *   EXISTING ORDER HELP
+    *   Hours
+    *   24/7 CHAT NOW >.
 *   Account
     *   Sign In
     *   My Account
@@ -616,7 +534,7 @@ Top Suggestions
 
 Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
 
-Please add atleast 2 products for compare
+Please add at least 2 products for compare
 
 Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
 
