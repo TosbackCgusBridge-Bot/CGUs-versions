@@ -9,205 +9,203 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
-    *   Stuart Weitzman
-    *   Philosophy Apparel Incl. Plus &. Petites
-    *   Chic Work Separates ft. Adrianna Papell
-    *   Cozy Knits ft. Must-Have Brands from $20
-    *   Kappa Men
-    *   Le Creuset Flower Cocotte 3-Piece Set at $179.97
+    *   AllSaints
+    *   AllSaints Handbags
+    *   AllSaints Shoes
+    *   AllSaints Men
+    *   New Fall Arrivals: Midi Dresses, Florals &. More
+    *   Skin Care Must-Haves ft. Murad, philosophy &. More
+    *   Chic Dresses ft. Sharagano Incl. Plus &. Petites
+    *   Cool for Fall: Love, Fire
+    *   On-Trend Pants &. Jeans ft. Black Orchid
+    *   HUE Incl. Plus Under $30
+    *   Joules Outerwear
+    *   Sofft from $40
+    *   David Donahue Up to 60% Off
+    *   Traveler's Choice Up to 70% Off
+    *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
+    *   Kitchen Gadgets &. Storage Starting at $13
+    *   Sleek Men's Sneakers Up to 60% Off
+    *   Mules ft. Report Up to 60% Off
+    *   Glamlite Cosmetics Starting at $10
+    *   Gifts with Flair: Water Bottles, Candles &. More
+    *   Mia Belle Girls
+    *   Olivia Miller Up to 50% Off
+    *   Tween Scene: Love, Fire &. More
+    *   Broken Homme
+    *   Best of Italy: Fall Handbags
+    
     *   Free Shipping: Kitchen Essentials Up to 55% Off
     *   Pendleton Home Up to 45% Off
+    *   Stuart Weitzman
+    *   Chic Work Separates ft. Adrianna Papell
+    *   Cozy Knits ft. Must-Have Brands from $20
     *   Ready for Fall: Poof &. More from $15
     *   Catherine Catherine Malandrino Up to 60% Off
     *   Kenneth Cole Reaction Up to 70% Off
     *   Sultry Styles Incl. Full-Fit Bras ft. Le Mystere
     *   Aldo &. Call It Spring From $30
-    *   Heritage Active Brands We Love
-    *   Best of Italy: Fall Handbags
     *   Kenneth Cole Reaction Men Up to 60% Off
+    *   Kappa Men
     *   Carlos by Carlos Santana Men Up to 65% Off
     *   Georgette Klinger Skin Care
-    *   Pastourelle by Pippa and Julie &. More
     *   $30 &. Under: Harper Canyon Shoes
+    *   Pastourelle by Pippa and Julie &. More
+    *   Heritage Active Brands We Love
     *   Free People Clothing &. Shoes Up to 55% Off
     *   tarte Cosmetics
     *   Free People Movement Starting at $25
-    *   Camper Up to 55% Off
     *   Free People Lingerie Starting at $15
-    
-    *   Fall for These: Elodie ft. Sweaters &. Bottoms
-    *   Wrap Dresses Under $40
-    *   Gomelsky Watches &. More Up to 60% Off
-    *   Layerable Warmth: Long Sleeve Tees
     *   Lucky Brand Men Up to 60% Off
-    *   Buckled, Braided, Moto &. Studded Boots
     *   Korean Beauty: JayJun Skin Care
     *   Saachi Leather &. Gemstone Jewelry from $15
-    *   Taryn Rose Up to 70% Off
     *   Free Shipping: Decor Starting at $17
+    
     *   Color Pop: Wall Murals &. Decals
     *   Hawke &. Co. Up to 75% Off
     *   Casually Cool: Boys' Footwear ft. Ben Sherman
     *   Hudson Jeans Kids Up to 50% Off
     *   Cool to Lounge: Kids' Hoodies, Joggers &. More
     *   Ben Sherman Kids &. More
-    *   Lola Made in Italy Up to 75% Off
-    *   Women's Shoe Blowout
     *   Free Shipping: Duvet Sets &. More Up to 70% Off
     *   Men's Shoe Steals Up to 70% Off
-    *   Diamonds, Precious Gems &. More Up to 80% Off
     *   Free Shipping: Pillow &. Throw Blowout
-    *   CZ by Kenneth Jay Lane Up to 65% Off
-    *   Volcom
     *   Lacoste Men's Shoes
-    
-    *   Baby Essentials: aden + anais &. More
-    *   Volcom Boys Starting at $10
     *   Organic to Green Skin Care Starting at $10
-    *   ASICS Men
     *   Like a Pro: NuMe Hair Tools &. More
     *   Teami Blends Detox Teas &. Supplements
     *   Free Shipping: Comforter Sets &. More from $35
     *   Free Shipping: Professional Garment Steamers
-    *   Clean Beauty: Luscious Cosmetics from $10
+    *   Bobeau Incl. Plus &. Petites
     *   Free Shipping: Down &. Memory Foam Essentials
-    *   Zoe Ayla: Crystal Face Rollers &. More
-    *   GoldynGlow Superfood Blends
     *   Gadgets, Cookware &. More for the At-Home Chef
     *   Free Shipping: On-Trend Decor
     *   Decorative Pillows &. Throws
-    *   Free Shipping: Storage Must-Haves from $10
-    *   1.STATE Up to 75% Off Incl. Plus
+    *   Clean Beauty: Luscious Cosmetics from $10
     *   Ben Sherman Men's Clothing, Luggage &. More
-    *   Michael Kors Men's Outerwear &. More
-    *   Bobeau Incl. Plus &. Petites
-    *   Natori Up to 65% Off
-    *   French Connection Up to 60% Off
-    *   Designers We Love: Helmut Lang &. More
+    *   Philosophy Apparel Incl. Plus &. Petites
 *   WomenShop Sale Events
     
+    *   AllSaints
+    *   AllSaints Handbags
+    *   AllSaints Shoes
+    *   New Fall Arrivals: Midi Dresses, Florals &. More
+    *   Skin Care Must-Haves ft. Murad, philosophy &. More
+    *   Chic Dresses ft. Sharagano Incl. Plus &. Petites
+    *   Cool for Fall: Love, Fire
+    *   On-Trend Pants &. Jeans ft. Black Orchid
+    *   HUE Incl. Plus Under $30
+    *   Joules Outerwear
+    *   Sofft from $40
+    *   Traveler's Choice Up to 70% Off
+    *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
+    *   Mules ft. Report Up to 60% Off
+    *   Glamlite Cosmetics Starting at $10
+    *   Best of Italy: Fall Handbags
     *   Stuart Weitzman
-    *   Philosophy Apparel Incl. Plus &. Petites
     *   Chic Work Separates ft. Adrianna Papell
     *   Cozy Knits ft. Must-Have Brands from $20
+    
     *   Ready for Fall: Poof &. More from $15
     *   Catherine Catherine Malandrino Up to 60% Off
     *   Sultry Styles Incl. Full-Fit Bras ft. Le Mystere
     *   Aldo &. Call It Spring From $30
-    *   Heritage Active Brands We Love
-    *   Best of Italy: Fall Handbags
     *   Georgette Klinger Skin Care
+    *   Heritage Active Brands We Love
     *   Free People Clothing &. Shoes Up to 55% Off
     *   tarte Cosmetics
     *   Free People Movement Starting at $25
-    *   Camper Up to 55% Off
     *   Free People Lingerie Starting at $15
-    *   Fall for These: Elodie ft. Sweaters &. Bottoms
-    *   Wrap Dresses Under $40
-    *   Gomelsky Watches &. More Up to 60% Off
-    *   Layerable Warmth: Long Sleeve Tees
-    
-    *   Buckled, Braided, Moto &. Studded Boots
     *   Korean Beauty: JayJun Skin Care
     *   Saachi Leather &. Gemstone Jewelry from $15
-    *   Taryn Rose Up to 70% Off
-    *   Lola Made in Italy Up to 75% Off
-    *   Women's Shoe Blowout
-    *   Diamonds, Precious Gems &. More Up to 80% Off
-    *   CZ by Kenneth Jay Lane Up to 65% Off
     *   Organic to Green Skin Care Starting at $10
     *   Like a Pro: NuMe Hair Tools &. More
     *   Teami Blends Detox Teas &. Supplements
-    *   Clean Beauty: Luscious Cosmetics from $10
-    *   Zoe Ayla: Crystal Face Rollers &. More
-    *   GoldynGlow Superfood Blends
-    *   1.STATE Up to 75% Off Incl. Plus
     *   Bobeau Incl. Plus &. Petites
-    *   Natori Up to 65% Off
-    *   French Connection Up to 60% Off
-    *   Designers We Love: Helmut Lang &. More
+    *   Clean Beauty: Luscious Cosmetics from $10
+    *   Philosophy Apparel Incl. Plus &. Petites
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie
-    *   Jewelry
     *   Handbags
-    *   Watches
+    *   Jewelry
+    *   Lingerie
     *   Accessories
 *   MenShop Sale Events
     
-    *   Kappa Men
+    *   AllSaints Men
+    *   David Donahue Up to 60% Off
+    *   Traveler's Choice Up to 70% Off
+    *   Sleek Men's Sneakers Up to 60% Off
+    *   Broken Homme
     *   Kenneth Cole Reaction Up to 70% Off
     *   Kenneth Cole Reaction Men Up to 60% Off
+    
+    *   Kappa Men
     *   Carlos by Carlos Santana Men Up to 65% Off
-    *   Gomelsky Watches &. More Up to 60% Off
     *   Lucky Brand Men Up to 60% Off
     *   Hawke &. Co. Up to 75% Off
-    
     *   Men's Shoe Steals Up to 70% Off
-    *   Volcom
     *   Lacoste Men's Shoes
-    *   ASICS Men
     *   Ben Sherman Men's Clothing, Luggage &. More
-    *   Michael Kors Men's Outerwear &. More
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
-    *   Pastourelle by Pippa and Julie &. More
+    *   Mia Belle Girls
+    *   Olivia Miller Up to 50% Off
+    *   Tween Scene: Love, Fire &. More
     *   $30 &. Under: Harper Canyon Shoes
+    *   Pastourelle by Pippa and Julie &. More
     *   Casually Cool: Boys' Footwear ft. Ben Sherman
     *   Hudson Jeans Kids Up to 50% Off
     *   Cool to Lounge: Kids' Hoodies, Joggers &. More
     *   Ben Sherman Kids &. More
-    *   Baby Essentials: aden + anais &. More
-    *   Volcom Boys Starting at $10
     
     Shop By Category
-    *   Boys' Sizes 2T-7
-    *   Girls' Sizes 2T-6X
-    *   Boys' Sizes 8-20
-    *   Baby Gear &. Essentials
     *   Girls' Sizes 7-16
+    *   Girls' Sizes 2T-6X
+    *   Boys' Sizes 2T-7
     *   Girls' Shoes
+    *   Boys' Sizes 8-20
     *   Baby Girl
     *   Boys' Shoes
     *   Baby Boy
 *   HomeShop Sale Events
     
-    *   Le Creuset Flower Cocotte 3-Piece Set at $179.97
+    *   Kitchen Gadgets &. Storage Starting at $13
+    *   Gifts with Flair: Water Bottles, Candles &. More
     *   Free Shipping: Kitchen Essentials Up to 55% Off
     *   Pendleton Home Up to 45% Off
     *   Free Shipping: Decor Starting at $17
     *   Color Pop: Wall Murals &. Decals
     *   Free Shipping: Duvet Sets &. More Up to 70% Off
-    *   Free Shipping: Pillow &. Throw Blowout
     
+    *   Free Shipping: Pillow &. Throw Blowout
     *   Free Shipping: Comforter Sets &. More from $35
     *   Free Shipping: Professional Garment Steamers
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Gadgets, Cookware &. More for the At-Home Chef
     *   Free Shipping: On-Trend Decor
     *   Decorative Pillows &. Throws
-    *   Free Shipping: Storage Must-Haves from $10
     
     Shop By Category
     *   Home Decor
-    *   Bedding
     *   Kitchen &. Tabletop
+    *   Bedding
     *   Cleaning &. Organization
     *   Luggage &. Travel
     *   Bath
     *   Rugs &. Doormats
     *   Outdoor Living
-    *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
+    *   Skin Care Must-Haves ft. Murad, philosophy &. More
+    *   Glamlite Cosmetics Starting at $10
     *   Georgette Klinger Skin Care
     *   tarte Cosmetics
     *   Korean Beauty: JayJun Skin Care
@@ -215,12 +213,10 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Like a Pro: NuMe Hair Tools &. More
     *   Teami Blends Detox Teas &. Supplements
     *   Clean Beauty: Luscious Cosmetics from $10
-    *   Zoe Ayla: Crystal Face Rollers &. More
-    *   GoldynGlow Superfood Blends
     
     Shop By Category
-    *   Skin Care
     *   Makeup
+    *   Skin Care
     *   Bath &. Body
     *   Hair Care
     *   Tools &. Accessories
