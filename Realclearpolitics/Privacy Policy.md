@@ -115,53 +115,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Korte &. Sink_: Trump Hears Clinton Echo in Biden Case--But It's Not 2016
+*   _Julian Zelizer_: A Historic Moment for the House Democrats
     
-*   _Sean Davis_: Ukraine Hysteria Is Pure Projection by Media and Dems
+*   _Kim Strassel_: The Real Story: Just Another Bogus Attempt to Take Out Trump
     
-*   _Leah Litman_: Trump's Call Would Be Tantamount to Bribery If Proved
+*   _Paul Brandus_: Pelosi's Strategy Paying Off--U.S. Will Turn Against Trump
     
-*   _President Donald Trump_: The Future Belongs to Patriots, Not Globalists
+*   _Mollie Hemingway_: Trump Was Actually Asking for Help on '16 DOJ Probe
     
-*   _David Roberts_: Youth Strike: Can Climate Movement Shake Politics Loose?
+*   _Elizabeth Holtzman_: I Voted to Impeach Nixon. I’d Do the Same for Trump.
     
-*   _Nick Gillespie_: Thunberg's Future--&. That of the Planet--Hasn't Been 'Stolen'
+*   _Peder Zane_: The Folly of Doomsday Climate Fears
     
-*   _Charles Day_: British Supreme Court's Decision Is a Constitutional Outrage
+*   _Robinson Meyer_: The Oceans We Know Won't Survive Climate Change
     
-*   _Martin Kettle_: Judgment Is a Devastating Blow for a Failed Prime Minister
+*   _Sen. Marco Rubio_: GM-UAW Strike a Lesson in National Strength, Industry
     
-*   _Hutchinson &. Laxalt_: Lawrence VanDyke a Stellar Choice for 9th Circuit
+*   _Alfredo Ortiz_: Don't Let a Worthy Immigration Reform Hurt U.S. Health Care
     
-*   _Jonathan Chait_: Why House Dems Will Impeach Trump Over Ukraine
+*   _Kent Harrington_: When America's President Can't Be Trusted
     
-*   _Rush Limbaugh_: Democrats Know They Can't Beat Trump in the Voting Booth
+*   _Andrew McCarthy_: Genuine Collusion: Obama, Clinton and Ukraine in 2016
     
-*   _John Solomon_: Democrats Were First to Enlist Ukraine in U.S. Elections
+*   _Peter Baker_: Trump Makes Clear He's Ready for Fight He Has Long Anticipated
     
-*   _Chris Cillizza_: What We Know on Ukraine Looks Really, Really Bad for Trump
+*   _Freddy Gray_: The Media and Dems' Anti-Trump Show Must Go On
     
-*   _Charles Hurt_: American News Media Is In a Free-Fall Death Spiral
+*   _Frida Ghitis_: Did Trump Betray His Country?
     
-*   _Sean Collins_: Trump's Bogus Accusations About Biden and Ukraine
+*   _Michael Goodwin_: Will Biden Be 1st Casualty of Dems' Impeachment Jihad?
     
-*   _Eric Felten_: How Many Were Surveilled on Trump Team? 1...or 4?
+*   _Lanny Davis_: No Facts Showing Biden Wrong Doing--Only Lies, Innuendo
     
-*   _Daniel Drezner_: Impeaching Trump Is Good Strategy for House Dems
+*   _James Pinkerton_: Trump and Modi: Score One for the 'Nationalist International'
     
-*   _David Harsanyi_: The Tragedy of Greta Thunberg, Our Lady of Sorrows
+*   _Jill Filipovic_: First Trump Insulted Greta Thunberg. Then, the World
     
-*   _Jen Psaki_: Greta Thunberg's Unforgettable Message Strikes a Nerve
+*   _Tony Thomas_: 'Unproven Hypothesis': A Climate Modeller Spills the Beans
     
-*   _Emma Roberts_: Socialism, Not Climate Change, Is the Real Threat
+*   _James Delingpole_: Drive to Stop Brexit Is Now Completely Anti-Democratic
     
-*   _Courtney Subramanian_: 'Howdy, Modi!': Behind the Trump-Modi Bromance
+*   _Anthony Bradley_: Supreme Court Has Laid Bare Boris Johnson's Ruse
     
-*   _Richard Fontaine_: Trump's Mild Response Won't Stop Iranian Aggression
+*   _Kathleen Parker_: Leland Keyser Is the True Hero of Kavanaugh Saga
     
-*   _Andrew Bacevich_: Yes Trump, Please End U.S. Era in Mideast
+*   _Ilya Shapiro_: Time for Trump to Update His Supreme Court Short List
     
-*   _Brady &. Parker_: Poll: Dem Voters Span Diverse Views, Benefiting Biden
+*   _Robert Creamer_: 5 Reasons Warren Has the Best Chance to Beat Trump
     
 
 *   Previous
@@ -232,11 +232,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump: Ukraine Hoax Was All Planned, the Witch Hunt Continues
+*   Senate Republicans Start Assembling Phalanx Against House Dems
 *   Poll: Dem Voters Span Diverse Views, Benefiting Biden
-*   Online Monopoly + Liberal Orthodoxy = Tech Trouble
-*   Trump: What Biden Did Is a Disgrace. What His Son Did Is a Disgrace
-*   Democrats Seek to Recalibrate as Kavanaugh Bombshell Fizzles
-*   Despite High Hopes, de Blasio Was Gone in a New York Minute
+*   Todd: Biden Was Already Probed. Kennedy: Who Investigated Him?
+*   Trump Attacks Globalism and Urges Action on Iran at UN
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -249,70 +249,69 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationEmerson
-    *   Biden25
-    *   Warren23
-    *   Sanders22
-    *   Buttigieg6
-    *   Harris4
-    *   Yang8
-    *   O'Rourke1
-    *   Booker2
-    *   Klobuchar0
-    *   Castro2
-    *   Gabbard1
-    *   Bennet0
-    *   Steyer0Biden +2
-*   2020 Democratic Presidential NominationPolitico/Morning Consult
-    *   Biden32
-    *   Warren20
-    *   Sanders19
-    *   Buttigieg5
-    *   Harris6
-    *   Yang3
-    *   O'Rourke3
-    *   Booker3
-    *   Klobuchar2
-    *   Castro1
-    *   Gabbard1
-    *   Bennet1
-    *   Steyer1Biden +12
-*   New Hampshire Democratic Presidential PrimaryMonmouth
+*   2020 Democratic Presidential NominationQuinnipiac
     *   Biden25
     *   Warren27
-    *   Sanders12
-    *   Buttigieg10
+    *   Sanders16
+    *   Buttigieg7
     *   Harris3
-    *   Gabbard2
     *   Yang2
-    *   Booker2
+    *   O'Rourke2
+    *   Booker0
     *   Klobuchar2
-    *   Steyer2
-    *   O'Rourke1
-    *   Delaney0
-    *   Williamson1Warren +2
-*   Nevada Democratic Presidential CaucusUSA Today/Suffolk
-    *   Biden23
-    *   Sanders14
-    *   Warren19
-    *   Harris4
-    *   Buttigieg3
-    *   Steyer3
-    *   Yang3
-    *   Booker2
-    *   O'Rourke1
-    *   Castro1
+    *   Castro2
     *   Gabbard1
     *   Bennet1
-    *   Bullock1Biden +4
+    *   Delaney0Warren +2
+*   2020 Democratic Presidential NominationEconomist/YouGov
+    *   Biden26
+    *   Warren27
+    *   Sanders16
+    *   Buttigieg6
+    *   Harris4
+    *   Yang2
+    *   O'Rourke2
+    *   Booker0
+    *   Klobuchar1
+    *   Castro0
+    *   Gabbard1
+    *   Bennet1
+    *   Delaney1Warren +1
+*   California Democratic PrimaryLA Times/Berkeley
+    *   Biden20
+    *   Warren29
+    *   Sanders19
+    *   Harris8
+    *   Yang2
+    *   Buttigieg6
+    *   O'Rourke3
+    *   Gabbard1
+    *   Booker1
+    *   Castro1
+    *   Klobuchar2
+    *   Bennet1
+    *   Steyer0Warren +9
+*   Georgia Democratic PrimaryLandmark Communications
+    *   Biden41
+    *   Warren17
+    *   Sanders8
+    *   Harris6
+    *   Buttigieg5
+    *   Yang2
+    *   Booker2
+    *   O'Rourke1
+    *   Klobuchar1
+    *   Gabbard1
+    *   Steyer1
+    *   Williamson1Biden +24
 
 More Latest Polls In The News
 
-*   Chuck Todd: Biden Was Already Probed. Sen. Kennedy: Who Investigated Biden And Cleared Him?
-*   Trump On Impeachment Inquiry: "They Think They're Going To Win," "It's Actually Working The Other Way"
-*   Schumer And McConnell Debate Trump Whistleblower Report, Impeachment Inquiry On Senate Floor
-*   Joe Biden: Impeachment Of Donald Trump "Would Be A Tragedy Of His Own Making"
-*   Trump To UN: The Future Belongs to Patriots And Sovereign Independent Nations, Not To Globalists
+*   AOC on Impeachment: We Have The Ability To Stop "An Intervention In Democracy Before It Happens"
+*   Reporter to Trump: Why Is It Appropriate For A President To Ask A Foreign Leader For Info On Political Rival?
+*   Ukrainian President Zelensky: "Nobody Pushed Me" To Investigate Biden, "I Don't Want To Be Involved"
+*   Mitt Romney: Ukraine Transcript "Extremely Troubling," At This Stage We Are "Gathering Facts"
+*   Matt Gaetz: Speaker Pelosi Has Been "Catfished" Into Impeachment By Rumors And "Bloodlust For The President"
 
 *   Politics
 *   Policy
