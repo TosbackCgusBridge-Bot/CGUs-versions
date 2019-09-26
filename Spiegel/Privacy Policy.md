@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   25\. September 2019
+*   26\. September 2019
 *   Abo
-*   DAX 12.307,15ǀ
+*   DAX 12.234,18ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -344,6 +344,7 @@ SPIEGEL GRUPPE
 *   SPIEGEL EXPEDITION
 *   SPIEGEL BIOGRAFIE
 *   DER SPIEGEL
+*   SPIEGEL SPEZIAL
 *   SPIEGEL GESCHICHTE
 *   SPIEGEL WISSEN
 *   Dein SPIEGEL
@@ -354,12 +355,12 @@ SPIEGEL GRUPPE
 *   SPIEGEL EXPEDITION
 *   SPIEGEL BIOGRAFIE
 *   DER SPIEGEL
+*   SPIEGEL SPEZIAL
 *   SPIEGEL GESCHICHTE
 *   SPIEGEL WISSEN
 *   Dein SPIEGEL
-*   UNI SPIEGEL
 
-12
+123
 
 *   Twitter
 *   Facebook
