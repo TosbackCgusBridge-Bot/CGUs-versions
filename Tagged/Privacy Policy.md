@@ -63,9 +63,9 @@ You may use Gold to purchase Gifts for other users. The price for each Gift will
 
 Gifts purchased or received by any user do not constitute property and are not transferable.
 
-I) VIP Membership
+I) Premium Membership
 
-You may decide to upgrade your membership to VIP status for an additional monthly cost. If you choose to become a Tagged VIP, your membership will automatically renew on a monthly basis. If, at any point, you wish to discontinue your VIP membership, you may do so at your convenience. If your VIP membership account is billed through our website, you must visit http://www.tagged.com/account\_info.html, click the Subscriptions and Payments tab, select 'cancel your subscription' and click 'Cancel VIP' at least three days prior to your next scheduled automatic payment so that we can process your cancellation properly. If your VIP membership account is billed through iTunes, you must cancel at least 24 hours prior to your next scheduled automatic payment, by following the process outlined here. If your VIP membership account is billed through GooglePlay, you must cancel within seven days from the start of your billing cycle, by following the process outlined here.
+You may decide to upgrade your membership to Premium status for an additional monthly cost. If you choose to become a Tagged Premium member, your membership will automatically renew on a monthly basis. If, at any point, you wish to discontinue your Premium membership, you may do so at your convenience. If your Premium membership account is billed through our website, you must visit http://www.tagged.com/account\_info.html, click the Subscriptions and Payments tab, select 'cancel your subscription' and click 'Cancel Premium' at least three days prior to your next scheduled automatic payment so that we can process your cancellation properly. If your Premium membership account is billed through iTunes, you must cancel at least 24 hours prior to your next scheduled automatic payment, by following the process outlined here. If your Premium membership account is billed through GooglePlay, you must cancel within seven days from the start of your billing cycle, by following the process outlined here.
 
 J) Mobile
 
