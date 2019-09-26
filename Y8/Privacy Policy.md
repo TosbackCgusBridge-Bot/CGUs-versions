@@ -12,7 +12,7 @@ New Games Next in  xx:xx
 Categories &. more LIBRARY
 
 *   New Games Next in xx:xx
-*   Best of new games 1031 games
+*   Best of new games 1021 games
 *   Most Popular Games 19877 games
 *   Played Games 0 games
 *   Liked Games 0 games
@@ -20,23 +20,23 @@ Categories &. more LIBRARY
 
 CATEGORIES
 
-*   Games for girls 24,374 games
-*   Driving &. Racing Games 6,888 games
-*   Strategy &. RPG Games 2,433 games
+*   Games for girls 24,377 games
+*   Driving &. Racing Games 6,889 games
+*   Strategy &. RPG Games 2,432 games
 *   Management Games 3,665 games
 *   Thinking Games 12,333 games
-*   Action &. Adventure Games 16,478 games
-*   Sports Games 2,307 games
-*   Shooting Games 8,557 games
+*   Action &. Adventure Games 16,483 games
+*   Sports Games 2,309 games
+*   Shooting Games 8,556 games
 *   Fighting Games 2,117 games
 *   Skill Games 11,612 games
 *   Arcade &. Classic Games 13,493 games
-*   Fun &. Crazy Games 2,580 games
+*   Fun &. Crazy Games 2,581 games
 
 Play with friends  
-Powered by Y8 Account 130 Y8 Multiplayer Games 2,109 Y8 High Score Games 1,181 Y8 Achievements Games 834 Y8 Screenshots Games 1,511 Y8 Online Save Games 3,194 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 130 Y8 Multiplayer Games 2,109 Y8 High Score Games 1,182 Y8 Achievements Games 833 Y8 Screenshots Games 1,510 Y8 Online Save Games 3,194 All Y8 Games Games Last Highscore:
 
-**17** points on Ultimate Tic Tac Toe by Za1
+**7,974** points on Ball Fall 3D by acebamex23
 
 Help us improve Bad translation? Social
 
