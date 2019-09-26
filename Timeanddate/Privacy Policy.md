@@ -234,7 +234,7 @@ NO-4033 Stavanger
 Norway  
 webmaster@timeanddate.comBecome a Supporter
 
-Help us develop our services. More
+Help us keep up the good work. More
 
 timeanddate.com
 
