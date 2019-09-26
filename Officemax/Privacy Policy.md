@@ -44,16 +44,16 @@ $1.68
 
 Change
 
-+0.01
+0
 
 Percent Change
 
-(+0.60%)
+(0.00%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Sep 23, 2019 Office Depot, Inc. Rolls Out Virtual Line Queuing System for Print and Copy Services view more Recent News Sep 23, 2019 Office Depot, Inc. Rolls Out Virtual Line Queuing System for Print and Copy Services view more Events Sep 5, 2019 at 2:25 PM EDT Office Depot Presents at Goldman Sachs 26th Annual Global Retailing Conference view more Events Sep 5, 2019 at 2:25 PM EDT Office Depot Presents at Goldman Sachs 26th Annual Global Retailing Conference view more Presentations Sep 05, 2019 Goldman Sachs 26th Annual Global Retailing Conference view more Presentations Sep 05, 2019 Goldman Sachs 26th Annual Global Retailing Conference view more
+Recent News Sep 25, 2019 Office Depot to Present at the Sidoti &. Company Fall Investor Conference Wednesday, September 25, 2019 view more Recent News Sep 25, 2019 Office Depot to Present at the Sidoti &. Company Fall Investor Conference Wednesday, September 25, 2019 view more Events Sep 26, 2019 Office Depot Presents at Sidoti &. Company’s Fall 2019 Investor Conference view more Events Sep 26, 2019 Office Depot Presents at Sidoti &. Company’s Fall 2019 Investor Conference view more Presentations Sep 25, 2019 Sidoti &. Company Fall Investor Conference view more Presentations Sep 25, 2019 Sidoti &. Company Fall Investor Conference view more
 
 *   Home
 *   News &. Events
