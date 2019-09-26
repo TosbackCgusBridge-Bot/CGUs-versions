@@ -135,7 +135,11 @@ The IoT Trust Framework® includes a set of strategic principles necessary to he
 
 Visit our IoT Trust Framework page and download the full version or Framework Overview.
 
-Read the Framework Learn more about IoT OTA News Privacy Regulations Are Evolving: Are Organizations Ready? Building Trust 20 September 2019 Privacy Regulations Are Evolving: Are Organizations Ready?
+Read the Framework Learn more about IoT OTA News The Internet Society’s Online Trust Alliance Announces Methodology for Eleventh Online Trust Audit and Honor Roll Press Releases 25 September 2019 The Internet Society’s Online Trust Alliance Announces Methodology for Eleventh Online Trust Audit and Honor Roll
+
+Criteria updated to include increased focus on encryption and global privacy regulations. international retail segments added
+
+Privacy Regulations Are Evolving: Are Organizations Ready? Building Trust 20 September 2019 Privacy Regulations Are Evolving: Are Organizations Ready?
 
 Privacy statements are both a point of contact to inform users about their data and a way to show...
 
@@ -154,10 +158,6 @@ In April, the Online Trust Alliance published the 11th annual Online Trust Audit
 Internet Society’s Online Trust Alliance 2018 Cyber Incidents &. Breach Trends Report Building Trust 9 July 2019 Internet Society’s Online Trust Alliance 2018 Cyber Incidents &. Breach Trends Report
 
 On Tuesday July 9, 2019 the Internet Society’s Online Trust Alliance (OTA) released its 11th Cyber Incident &. Breach...
-
-Internet Society’s Online Trust Alliance Reports Cyber Incidents Cost $45B in 2018 Press Releases 9 July 2019 Internet Society’s Online Trust Alliance Reports Cyber Incidents Cost $45B in 2018
-
-Reston, VA – July 9, 2019 – The Internet Society’s Online Trust Alliance (OTA), which identifies and promotes security and privacy...
 
 Load More Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team Megan Kruse photo Megan Kruse
 
