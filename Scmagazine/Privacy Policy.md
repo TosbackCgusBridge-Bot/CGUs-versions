@@ -365,23 +365,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Erez Yalon - Checkmarx
-    *   Kevin Gosschalk - Arkose Labs
+    *   Maintaining data security while processing data in the cloud
+    *   Jennifer Steffens - IOActive
+    *   Second phishing campaign featuring LookBack malware targets U.S. utilities
+    *   Laura Lee - Circadence Corporation
+    *   Dan Cornell - Denim Group
+    
     *   Kabir Barday - OneTrust
-    *   Kevin von Keyserling - Keyfactor
-    *   Elisa Costante - Forescout Technologies
-    
-    *   Greg Lesnewich - Recorded Future
-    *   Yatia Hopkins - eSentire
-    *   Steve Grobman - McAfee
-    *   Ellison Anne Williams - Enveil
-    *   Dani Martínez - IOActive
-    
-    *   Apple iOS 13.1 will fix location privacy bug, lockscreen bypass exploit
-    *   Voting equipment vendors seek info on vulnerability disclosure program
-    *   Eight cities' payment records impacted in Click2Gov portal breach
+    *   Poison Carp cyberespionage group targeting Tibetan officials with mobile malware
+    *   Ben Seri - Armis Security
+    *   Ben Herzberg - Imperva
     *   Defense Dept. unveils counter-insider threat program
-    *   Senate committee election security funding encouraging
+    
+    *   Poison Carp cyberespionage group targeting Tibetan officials with mobile malware
+    *   Adobe patches two critical issues with Cold Fusion
+    *   Microsoft patches flaws in IE, Defender
+    *   Second phishing campaign featuring LookBack malware targets U.S. utilities
+    *   Ransomware attack disrupts Campbell County Health
 
 Back to Top
 
@@ -413,4 +413,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
