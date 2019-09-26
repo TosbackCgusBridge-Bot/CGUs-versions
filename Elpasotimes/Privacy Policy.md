@@ -60,7 +60,7 @@ SUBSCRIBE NOWOnly $39 for one year.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowRocker Nikki Sixx seeks El Paso childhood friendEntertainmentJoel Garcia's sentence hangs on judge's decisionCrimeGroomer arrested, charged with animal crueltyNewsJury to decide punishment for Joel Garcia Jr.NewsEl Paso Applebee's sold to Peter Piper operatorBusinessSheriff's Office employee killed in Sunday car crashNewsFormer Fort Bliss soldier allegedly planned attacksNewsFour killed in Juárez restaurant shootingLocalIndian hunger strikers to be released by ICENewsEx-El Pasoan finds success after tough early lifeLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowAlbertsons, Cinemark go to new El Paso centersBusinessJoel Garcia Jr. gets 33 years in deadly crashNewsRocker Nikki Sixx seeks El Paso childhood friendEntertainmentJoel Garcia's sentence hangs on judge's decisionCrimeGroomer arrested, charged with animal crueltyNewsJury to decide punishment for Joel Garcia Jr.NewsEl Paso Applebee's sold to Peter Piper operatorBusinessSheriff's Office employee killed in Sunday car crashNewsFormer Fort Bliss soldier allegedly planned attacksNewsFour killed in Juárez restaurant shootingLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
