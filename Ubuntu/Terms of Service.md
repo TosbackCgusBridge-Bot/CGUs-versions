@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   Easy Linux Game Streaming with OBS
 *   Deploying Kubernetes Locally &#8211. MickroK8s
 *   Popular snaps per distro
 *   Kubernetes 1.16 available from Canonical﻿
 *   Design and Web team summary – 17 September 2019
-*   Introduction to MicroK8s &#8211. Part 1/2
 
 *    ›
