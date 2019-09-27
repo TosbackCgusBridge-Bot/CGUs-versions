@@ -183,6 +183,7 @@ Legal
 *   Website Terms of Use
 *   Your California Privacy RightsOpen the link in a new window
 *   Privacy NoticeOpen the link in a new window
+*   Cookie Settings
 
   
 
