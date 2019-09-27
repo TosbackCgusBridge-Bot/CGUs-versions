@@ -1,4 +1,4 @@
-X
+homechevrons-leftemailspinner8facebookfacebook2instagramtwitteryoutube X
 
 *   Adventure
 *   Animals
@@ -14,16 +14,6 @@ X
 *   Video
 *   Podcasts
 *   Quizzes
-
-Follow us
-
-Facebook
-
-YouTube
-
-Twitter
-
-Pinterest
 
 Toggle navigation
 
@@ -229,9 +219,11 @@ Print | Citation &. Date | Reprint
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksWhen College-bound Kids Have Their Acceptances Revoked1STHowStuffWorks NOW: Meet Graham, the Car-proof Man2NDHow much should your child get for allowance?3RDWhere Do Bullets Go When Guns Are Fired Straight Up Into the Air?4THDirectExpose | SponsoredThe controversial Scene That Took ‘Bewitched’ Off AirDirectExpose | SponsoredJamaica Vacations | Search Ads | SponsoredThese Jamaica All Inclusive Resorts Are Surprisingly Affordable!Jamaica Vacations | Search Ads | SponsoredLifestylogy | Sponsored15 Photographs Captured At WalmartLifestylogy | SponsoredTopix | Sponsored29 Hilarious Pics Of Dogs SleepingTopix | Sponsored home improvement-household hints &. tipsWhy do most zippers say "YKK" on the pull-tab?
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorks NOW: Meet Graham, the Car-proof Man1STHowStuffWorks NOW: The High Tech Cars of CES 20162NDHowStuffWorks NOW: The Shocking Way To Make Chocolate Taste Better3RDHowStuffWorks NOW: Airplane Foolery: Stacking Passengers4THDirectExpose | SponsoredThe controversial Scene That Took ‘Bewitched’ Off AirDirectExpose | SponsoredTravelfuntu | SponsoredSam Elliott Has Confirmed Sad Family NewsTravelfuntu | SponsoredHouse Be Home | SponsoredGoodbye 'Pawn Stars'. Chumlee Pleads GuiltyHouse Be Home | SponsoredMonagiza | SponsoredShady Things About Giada De Laurentiis Everyone IgnoresMonagiza | Sponsored computer-internet10 Reasons Why You Should Care About Net NeutralityBY Dave Roos-HowStuffWorks NOW: Let’s Turn This Cheese Electric
 
-life science-evolutionEarly Humans Mated With Inbred Neanderthals — at a CostBY Robert Lambbusiness-getting a jobHow to Write an Acceptance Letter for a New JobBY Stephanie WatsonSportsRetriever | SponsoredParis Hilton is Almost 40, Try Not To Smile When You See Her NowSportsRetriever | SponsoredAuto Overload | Sponsored34 Vintage Photos Not Suitable For Audiences TodayAuto Overload | Sponsored Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksCybathlon 2016: Amazing Images From the World's First Bionic OlympicsWhat is withholding tax allowance?Where do bullets go when guns are fired straight up into the air?Family Tree of Homo Sapiens Continues to Evolve10 Reasons Why You Should Care About Net NeutralityHowStuffWorks NOW: The Shocking Way To Make Chocolate Taste Betterby Taboolaby Taboola
+\-HowStuffWorks NOW: Tired of Swiping Left?
+
+Auto Overload | Sponsored34 Vintage Photos Not Suitable For Audiences TodayAuto Overload | SponsoredDaily Finance Stories | SponsoredHoney Boo Boo Is So Skinny Now And Looks Like A BarbieDaily Finance Stories | Sponsored Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksHowStuffWorks NOW: The Unfair Files: CEO Pay and PerformanceFoodStuff: Marshmallows: Make, Eat, RepeatHowStuffWorks NOW: Burnt Bread the Toast of PhysicsFoodStuff Makes Gin: FoodStuff Makes GinNile Crocodiles – in Florida | HowStuffWorks NOW: Nile Crocodiles – in FloridaHowStuffWorks NOW: Raise the Minimum Wage and the Robots Winby Taboolaby Taboola
 
 *   About
 *   Podcasts
