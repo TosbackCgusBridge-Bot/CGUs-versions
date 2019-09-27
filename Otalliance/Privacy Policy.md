@@ -135,7 +135,11 @@ The IoT Trust Framework® includes a set of strategic principles necessary to he
 
 Visit our IoT Trust Framework page and download the full version or Framework Overview.
 
-Read the Framework Learn more about IoT OTA News The Internet Society’s Online Trust Alliance Announces Methodology for Eleventh Online Trust Audit and Honor Roll Press Releases 25 September 2019 The Internet Society’s Online Trust Alliance Announces Methodology for Eleventh Online Trust Audit and Honor Roll
+Read the Framework Learn more about IoT OTA News Deep Dive: How Do Banks Score on Privacy and Security? Building Trust 26 September 2019 Deep Dive: How Do Banks Score on Privacy and Security?
+
+In April 2019 the Internet Society’s Online Trust Alliance published its 10th annual Online Trust Audit &. Honor Roll...
+
+The Internet Society’s Online Trust Alliance Announces Methodology for Eleventh Online Trust Audit and Honor Roll Press Releases 25 September 2019 The Internet Society’s Online Trust Alliance Announces Methodology for Eleventh Online Trust Audit and Honor Roll
 
 Criteria updated to include increased focus on encryption and global privacy regulations. international retail segments added
 
@@ -154,10 +158,6 @@ One of the best practices we advocate and measure in our Online Trust Audit is t
 Deep Dive: How Healthcare Organizations Practice Privacy and Security Building Trust 20 August 2019 Deep Dive: How Healthcare Organizations Practice Privacy and Security
 
 In April, the Online Trust Alliance published the 11th annual Online Trust Audit assessing the security and privacy of...
-
-Internet Society’s Online Trust Alliance 2018 Cyber Incidents &. Breach Trends Report Building Trust 9 July 2019 Internet Society’s Online Trust Alliance 2018 Cyber Incidents &. Breach Trends Report
-
-On Tuesday July 9, 2019 the Internet Society’s Online Trust Alliance (OTA) released its 11th Cyber Incident &. Breach...
 
 Load More Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team Megan Kruse photo Megan Kruse
 
