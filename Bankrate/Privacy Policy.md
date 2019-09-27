@@ -312,6 +312,28 @@
 
 Privacy Policy
 
+At Bankrate we strive to help you make smarter financial decisions. While we adhere to strict editorial integrity, Editorial Integrity
+
+Bankrate follows a strict editorial policy, so you can trust that we’re putting your interests first. Our award-winning editors and reporters create honest and accurate content to help you make the right financial decisions.
+
+Key Principles
+
+We value your trust. Our mission is to provide readers with accurate and unbiased information, and we have editorial standards in place to ensure that happens. Our editors and reporters thoroughly fact-check editorial content to ensure the information you’re reading is accurate. We maintain a firewall between our advertisers and our editorial team. Our editorial team does not receive direct compensation from our advertisers.
+
+Editorial Independence
+
+Bankrate’s editorial team writes on behalf of YOU – the reader. Our goal is to give you the best advice to help you make smart personal finance decisions. We follow strict guidelines to ensure that our editorial content is not influenced by advertisers. Our editorial team receives no direct compensation from advertisers, and our content is thoroughly fact-checked to ensure accuracy. So, whether you’re reading an article or a review, you can trust that you’re getting credible and dependable information.
+
+this post may contain references to products from our partners. Here’s an explanation for how we make money. How We Make Money
+
+You have money questions. Bankrate has answers. Our experts have been helping you master your money for over four decades. We continually strive to provide consumers with the expert advice and tools needed to succeed throughout life’s financial journey.
+
+Bankrate follows a strict editorial policy, so you can trust that our content is honest and accurate. Our award-winning editors and reporters create honest and accurate content to help you make the right financial decisions. The content created by our editorial staff is objective, factual, and not influenced by our advertisers.
+
+We’re transparent about how we are able to bring quality content, competitive rates, and useful tools to you by explaining how we make money.
+
+Bankrate.com is an independent, advertising-supported publisher and comparison service. We are compensated in exchange for placement of sponsored products and, services, or by you clicking on certain links posted on our site. Therefore, this compensation may impact how, where and in what order products appear within listing categories. Other factors, such as our own proprietary website rules and whether a product is offered in your area or at your self-selected credit score range can also impact how and where products appear on this site. While we strive to provide a wide range offers, Bankrate does not include information about every financial or credit product or service.
+
 Last updated: October 31, 2018
 
 This Privacy Policy applies to this website, and describes how we collect, use, and share information when you use our Services. The terms “we,” “us,” or “our” mean Bankrate, LLC and its affiliated companies. The term “Services,” means, collectively, various websites, applications, widgets, email notifications and other mediums, or portions of such mediums, through which you have accessed this Privacy Policy. By accessing or using our Services, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of Your Information (collectively, “Use of Your Information”) as described in this Privacy Policy.
