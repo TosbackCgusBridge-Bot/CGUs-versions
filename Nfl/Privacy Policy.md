@@ -1,4 +1,4 @@
-*   PHI1-2GB3-0Thu, 8:20 pm ET
+*   PHI2-234GB3-127Final
 *   TEN1-2ATL1-2Sun, 1:00 pm ET
 *   CLE1-2BAL2-1Sun, 1:00 pm ET
 *   NE3-0BUF3-0Sun, 1:00 pm ET
@@ -36,7 +36,7 @@
 *   NFL Films
 *   Game Pass
 
-*   PHI1-2GB3-0Thu, 8:20 pm ET
+*   PHI34GB27Final
 *   TEN1-2ATL1-2Sun, 1:00 pm ET
 *   CLE1-2BAL2-1Sun, 1:00 pm ET
 *   NE3-0BUF3-0Sun, 1:00 pm ET
