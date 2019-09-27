@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off full-price styles!
+Receive 30% off your order!
 
-code: FAMILY pin: PROMOTION DETAILS
+code: ORANGE pin: 1122PROMOTION DETAILS
 
 Customer Service Menu
 
