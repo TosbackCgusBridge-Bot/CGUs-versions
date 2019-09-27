@@ -1,4 +1,4 @@
-5f233cbd-8dd7-4cc1-a6da-5549afc30970
+cef3b7b7-f268-4c29-bce7-c8f69535558e
 
 *   Search Search
 *   Contact Us
@@ -111,8 +111,6 @@ Search Services by State+ Search for Services in Your Area      Select State
 *   Service Rates &. Disclosures
 *   Rural Carrier Call Completion
 *   Accessibility
-
-Not all products, pricing, and services are available in all areas. Pricing and actual speeds may vary. Internet speed based on wired connection. Restrictions apply.
 
 © 2019 Charter Communications. All rights reserved.
 
