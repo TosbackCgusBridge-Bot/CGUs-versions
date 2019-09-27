@@ -1,3 +1,5 @@
+Cookie PolicySencha uses cookies (required, functionality, and advertising cookies) to improve user experience. By using our website you consent to all cookies in accordance with our Cookie policyNo, thanksYes, I consent IDERA, Inc.About Idera, Inc.Developer ToolsDatabase ToolsTesting Tools US: 1 (800) 212-2802
+
 Sencha.com
 
 *   Buy Now
@@ -21,7 +23,10 @@ Sencha.com
         *   Sencha Stencils
     *   Plugins
         *   IDE and Code Editor Plugins
-    
+    *   New! Ext JS Community Edition  
+        
+        JavaScript framework that enables developers to build web apps for any modern device. _Learn more_
+        
 *   Services
     *   Services
         *   Professional Services
@@ -35,6 +40,11 @@ Sencha.com
         *   Ext JS for Open Source
         *   Ext JS for OEM
     *   Why Develop with Sencha?
+        
+        Sencha is a leader in the web application development space with over 400 man-years of expertise in modern web technologies including ES6, HTML5, JavaScript, and CSS.
+        
+        Our products enable enterprises to rapidly design, develop, and test web applications across any modern device. Our enterprise-class Java and JavaScript frameworks leverage progressive modern standards to deliver data-rich applications for desktops, smartphones, and tablets. They provide developers with 140+ professionally built and supported JavaScript components, including top-notch grids, delivering unmatched productivity. Our testing solutions seamlessly support these tool-sets to significantly accelerate multi-platform development lifecycles.
+        
 *   Resources
     *   Resources
         *   Resource Center
