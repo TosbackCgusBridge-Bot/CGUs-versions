@@ -36,9 +36,8 @@ Menu Close
     *   In Depth Back
         *   SC Media's 30th Anniversary Celebration
         *   SC Media Print Archive
-        *   Reboot 2018-19
+        *   Reboot
         *   Features
-        *   Reboot Leadership Awards 2018
         *   Director's Cut Videos
 *   EventsOpen Submenu
     *   Events Back
@@ -365,23 +364,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Maintaining data security while processing data in the cloud
-    *   Jennifer Steffens - IOActive
     *   Second phishing campaign featuring LookBack malware targets U.S. utilities
-    *   Laura Lee - Circadence Corporation
-    *   Dan Cornell - Denim Group
-    
-    *   Kabir Barday - OneTrust
-    *   Poison Carp cyberespionage group targeting Tibetan officials with mobile malware
+    *   Dani Martínez - IOActive
+    *   Elisa Costante - Forescout Technologies
+    *   Kaspersky releases decryptors for FortuneCrypt and Yalon ransomware.
     *   Ben Seri - Armis Security
-    *   Ben Herzberg - Imperva
-    *   Defense Dept. unveils counter-insider threat program
     
+    *   Ben Seri - Armis Security
     *   Poison Carp cyberespionage group targeting Tibetan officials with mobile malware
-    *   Adobe patches two critical issues with Cold Fusion
-    *   Microsoft patches flaws in IE, Defender
-    *   Second phishing campaign featuring LookBack malware targets U.S. utilities
-    *   Ransomware attack disrupts Campbell County Health
+    *   Steve Grobman - McAfee
+    *   Whistleblower: White House moved record of call with Ukraine president to separate classified network
+    *   Illegal gambling apps snuck into Apple and Google stores
+    
+    *   Reports: Actively exploited zero-day found in vBulletin forum software
+    *   Trump mentioned Crowdstrike, referred to DNC server in call with Ukraine president
+    *   27 nations ink cybersecurity pledge
+    *   Russian man pleads guilty to financial firm hacks
+    *   Magecart card-skimming group targets L7 routers used by high-traffic locales
 
 Back to Top
 
@@ -413,4 +412,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+
+You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
