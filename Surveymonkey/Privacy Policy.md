@@ -158,17 +158,15 @@ Did you know?
 
 63% of people consider a company's privacy and security history before using their products or services.
 
-Privacy Policy Versions: January 2, 2019 (current)April 11, 2018September 12, 2016April 7, 2016July 8, 2015January 1, 2015December 10, 2014October 29, 2013February 5, 2013March 28, 2012June 27, 2011SurveyMonkey Apply-FluidReview Privacy Policy (archived)TechValidate Privacy Policy (archived)Wufoo Privacy Statement (archived)
+Privacy Policy Versions: September 26, 2019 (current)January 2, 2019April 11, 2018September 12, 2016April 7, 2016July 8, 2015January 1, 2015December 10, 2014October 29, 2013February 5, 2013March 28, 2012June 27, 2011SurveyMonkey Apply-FluidReview Privacy Policy (archived)TechValidate Privacy Policy (archived)Wufoo Privacy Statement (archived)
 
-LAST UPDATED: JANUARY 2ND, 2019
-
-This Privacy Policy is effective upon acceptance for new users, and from January 18, 2019 for existing users.
+LAST UPDATED: SEPTEMBER 26TH, 2019
 
 Highlighted text represents any recent changes to our privacy policy.
 
 1\. Introduction
 
-This Privacy Policy applies to all the products, services, websites and apps offered by SurveyMonkey Inc., SurveyMonkey Europe UC, SurveyMonkey Brasil Internet Ltda. and their affiliates (collectively “SurveyMonkey”), except where otherwise noted. We refer to those products, services, websites and apps collectively as the “services” in this policy. Unless otherwise noted, our services are provided by SurveyMonkey Inc. inside of the United States, by SurveyMonkey Brasil Internet Ltda. inside of Brazil, and by SurveyMonkey Europe UC everywhere else.
+This Privacy Policy applies to all the products, services, websites and apps offered by SurveyMonkey Inc., SurveyMonkey Europe UC, SurveyMonkey Brasil Internet Eireli and their affiliates (collectively “SurveyMonkey”), except where otherwise noted. We refer to those products, services, websites and apps collectively as the “services” in this policy. Unless otherwise noted, our services are provided by SurveyMonkey Inc. inside of the United States, by SurveyMonkey Brasil Internet Eireli inside of Brazil, and by SurveyMonkey Europe UC everywhere else.
 
 References to "data" in this Privacy Policy will refer to whatever data you use our services to collect, whether it be survey responses, data collected in a form, or data inserted on a site hosted by us – it’s all your data! Reference to personal information or just information, means information about you personally that we collect or for which we act as custodian.
 
@@ -258,7 +256,7 @@ Use of some of our services will also result in us collecting the following data
     
     In each of the instances where we describe how we use your data in this privacy policy, we have identified which of these grounds for processing we are relying upon.
     
-    You have consented to us using certain types of tracking and third party cookies on our websites. In particular we use:
+    You have consented to us using certain types of tracking and third party cookies on our websites. In particular:
     
     *   Cookies and Similar technology.
         
@@ -484,11 +482,11 @@ Use of some of our services will also result in us collecting the following data
     
     In each of the instances where we describe how we use your data in this Privacy Policy, we have identified which of these grounds for processing we are relying upon.
     
-    When you have consented we collect and use the following information about you:
+    When you have consented or we have a legitimate basis for doing so, we collect and use the following information about you:
     
     *   Contact Information.
         
-        We use contact information to respond to your inquiries, send you information as part of the services, and send you marketing information (as long as you have agreed to this at the point of providing your information and for as long as you do not opt-out).
+        We use contact information to respond to your inquiries or send you information about our services either where you have agreed to this at the point of providing your information or where you operate in a business which may be interested in our services and for as long as you do not opt-out.
         
     
     Examples
@@ -508,7 +506,7 @@ Use of some of our services will also result in us collecting the following data
     
     *   Profiling.
         
-        We combine information about you from third party sources with information we hold about you to create a user profile, which will help us to make our sales and marketing efforts more relevant to you and to personalize and improve our marketing campaigns and website experience.
+        We combine information about you from third party sources with information we hold about you to create a user profile, which will help us to make our sales and marketing efforts more relevant to you and to personalize and improve our marketing/sales campaigns and website experience.
         
     
     *   Machine learning.
@@ -601,6 +599,8 @@ We enter into confidentiality and data processing terms with partners to ensure 
     *   protect against harm to the rights, property or safety of our users, the public or to SurveyMonkey and/or as required or permitted by law.
     *   facilitate a sale, merger or change in control of all or any part of our company or business or in preparation for any of these events.
 
+Where we use any third parties to assist us in service delivery for you (the Creator), and they process your data as part of that service, we provide a list of these third parties which is available on completion of this form.
+
 6\. Cookies
 
 We and our partners use cookies and similar technologies on our websites. For more information see our Cookies Policy. For information about cookies used in our surveys please see Cookies used on Survey Pages.
@@ -646,13 +646,13 @@ EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield.
 
 SurveyMonkey Europe UC has entered into contractual terms to include standard contractual clauses with SurveyMonkey Inc. for the transfer of data to SurveyMonkey Inc. as part of delivery of service. SurveyMonkey Inc. is located in the United States and accordingly, data (to include Respondent data) will be transferred to the United States.
 
-SurveyMonkey Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield. SurveyMonkey is committed to subjecting all personal information and data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. https://www.privacyshield.gov/.
+SurveyMonkey Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield. SurveyMonkey is committed to subjecting all personal information and personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. https://www.privacyshield.gov/.
 
 SurveyMonkey also complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
 When SurveyMonkey receives personal information under the Privacy Shield and then transfers it to a third-party service provider acting as agent on SurveyMonkey’s behalf, SurveyMonkey has certain liability under the Privacy Shield if both (i) the agent processes the information in a manner inconsistent with the Privacy Shield and (ii) SurveyMonkey is responsible for the event giving rise to the damage. With respect to personal data received or transferred pursuant to the Privacy Shield Framework, SurveyMonkey is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain situations, SurveyMonkey may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Please contact SurveyMonkey as described in Section 14 below if you have any concerns or complaints of any nature. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider, (free of charge) at https://feedback-form.truste.com/watchdog/request.
+Please contact SurveyMonkey as described in Section 14 below if you have any concerns or complaints of any nature. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider, (free of charge) at https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim.
 
 Under certain conditions, more fully described on the Privacy Shield website https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
@@ -700,10 +700,6 @@ Rights which you are entitled to are:
     
     Where you have visited our website and you want to exercise any of the above rights please contact our support team here. Alternatively if your request is for the right to be forgotten as it relates only to our use of cookies you can achieve this by clearing the cookies in your browser settings. See our help center article describing how to do this here.
     
-
-SurveyMonkey Europe UC Sub-Processors
-
-If you are a customer located in the European Union, we provide a list of sub-processors who assist SurveyMonkey Europe in the provision of the services. In order to obtain this list you must first complete the form here.
 
 15\. Exercising your rights
 
@@ -783,7 +779,11 @@ If you are resident in the European Union and you are dissatisfied with how we h
     *   Download/backup your form data. We provide you with the ability to export, share and publish your form data in a variety of formats. This allows you to create your own backups or work with your data offline. See here for data exporting instructions.
     *   Delete your form data. You can delete your form data (including parts of forms, entire forms and responses to forms) through your account's user interface. See here for how to delete form entries.
     *   Cancel your Wufoo account. You can cancel your Wufoo account at any time through your account management page. Any cancellation of your Wufoo account will result in the deletion of your account and all form data stored in it. This data cannot be recovered once your account is cancelled. Please be aware that SurveyMonkey may for a time retain residual information in our backup and/or archival copies of our database for up to 12 months.
-*   16.4 Audience/ Contribute _á_
+*   16.4 Usabilla _á_
+    
+    The Usabilla Privacy Statement is incorporated by reference in this Privacy Policy. Where there is any conflict between this Privacy Policy and the Usabilla Privacy Statement, the Usabilla Privacy Statement shall apply first.
+    
+*   16.5 Audience/ Contribute _á_
     
     Audience/Contribute Policy
     
