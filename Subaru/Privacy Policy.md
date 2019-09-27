@@ -149,11 +149,11 @@ Up to
 
 Crosstrek Hybrid Touring Shown
 
-BRZ $25,795\* starting price 2019 BRZ
+BRZ $28,845\* starting price 2020 BRZ
 
 Starting at
 
-$25,795 MSRP
+$28,845 MSRP
 
 Up to
 
@@ -164,7 +164,7 @@ Up to
 *   Compare
 *   Build &. Price
 
-BRZ Premium shown
+BRZ tS Shown
 
 WRX $27,495\* starting price 2020 WRX
 
