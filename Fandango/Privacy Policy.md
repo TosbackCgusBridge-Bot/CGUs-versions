@@ -70,7 +70,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   The Week in Movie News: ‘Ghostbusters 2020’ Confirms Original Stars, Michael Fassbender Joins Taika Waititi Movie and More Read More
-    *   Today in Movie Culture: ‘Downton Abbey’ Stars Pay Tribute to Maggie Smith, The Best ‘Rambo’ Copycats and More Read More
+    *   Today in Movie Culture: The Evolution of ‘Rambo,’ ‘Spider-Man: Far From Home’ Spawns a News Parody Site and More Read More
     *   Next 3 Major Sci-Fi Movies: 'Gemini Man,' 'Terminator: Dark Fate,' 'Star Wars: The Rise of Skywalker' Read More
     
     Explore Content
@@ -356,4 +356,4 @@ Follow Us
 *   Fandango on Instagram
 *   Fandango on Youtube
 
-Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
+Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Fandango Rewards Site Index Your Privacy Rights - Privacy Policy Terms and Policies AdChoices Fandango Affiliated Companies: FandangoNOW MovieClips Movies.com Fandango Cine en Español Ingresso © 2019 Fandango
