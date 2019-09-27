@@ -53,8 +53,8 @@ View more results
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Fireboy and Watergirl: The Forest Temple
     *   Warbanner
-    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Total Front: Army War Game
+    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Slither.io
     *   Klondike - the lost expedition
     *   Bubble Machine: 2 Player Game
@@ -89,8 +89,8 @@ View more results
     *   Miami Crime Simulator 3D
     *   Uphill Rush 7: Waterpark
     *   Ultimate Boxing
-    *   Stickman Archer 2
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
+    *   Stickman Archer 2
 *   Top Categories
     
     *   Platform Games
@@ -122,7 +122,7 @@ View more results
     *   Fire Balls
     *   FNAF World
     *   Five Nights at Freddy's: Ultimate
-    *   Trap Adventure 2
+    *   Slope: Neon Ball Rolling Game
 *   Top Categories
     
     *   Bubble Shooter
@@ -184,8 +184,8 @@ View more results
     *   Get Your Boyfriend
     *   The Princess: Sent to the Future - Dress Up Game
     *   Vincy Lip Care
-    *   Ella: Hips Surgery
     *   Slope: Neon Ball Rolling Game
+    *   Ella: Hips Surgery
     *   Princess Rivalry
 *   Top Categories
     
@@ -242,9 +242,9 @@ View more results
     *   Apple Shooter: Arrow Game
     *   Stunt Skateboard 3D
     *   Table Tennis World Tour
+    *   Basketball Stars 2019
     *   Archery World Tour
     *   Ultimate Boxing
-    *   Basketball Stars 2019
     *   8-Ball
     *   Table Tennis Challenge
     *   Neon Biker
