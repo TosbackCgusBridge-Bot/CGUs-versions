@@ -115,53 +115,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Julian Zelizer_: A Historic Moment for the House Democrats
+*   _Matt Mackowiak_: After Failing on Russia, Dems Try a New Hoax
     
-*   _Kim Strassel_: The Real Story: Just Another Bogus Attempt to Take Out Trump
+*   _William Saletan_: The Case for Trump’s Impeachment Goes Beyond Ukraine
     
-*   _Paul Brandus_: Pelosi's Strategy Paying Off--U.S. Will Turn Against Trump
+*   _Michael Goodwin_: Pelosi Will Regret Rushing Into Impeachment Push
     
-*   _Mollie Hemingway_: Trump Was Actually Asking for Help on '16 DOJ Probe
+*   _Peter Bergen_: Complaint Is a Devastating Report From a Savvy Official
     
-*   _Elizabeth Holtzman_: I Voted to Impeach Nixon. I’d Do the Same for Trump.
+*   _Sean Davis_: The 'Whistleblower' Complaint Contradicts Facts
     
-*   _Peder Zane_: The Folly of Doomsday Climate Fears
+*   _Ally Mutnick &. Kyle Trygstad_: Hotline's House Power Rankings
     
-*   _Robinson Meyer_: The Oceans We Know Won't Survive Climate Change
+*   _Curt Mills_: Trump's Campaign Considers the Sunbelt Strategy
     
-*   _Sen. Marco Rubio_: GM-UAW Strike a Lesson in National Strength, Industry
+*   _Der Spiegel_: The Groundwork Is Laid for a Vast New Conflict in the Middle East
     
-*   _Alfredo Ortiz_: Don't Let a Worthy Immigration Reform Hurt U.S. Health Care
+*   _Monica Showalter_: Trump at the UN: The Speech They're Trying to Hide
     
-*   _Kent Harrington_: When America's President Can't Be Trusted
+*   _Richard Stengel_: How to Win the Global Information War
     
-*   _Andrew McCarthy_: Genuine Collusion: Obama, Clinton and Ukraine in 2016
+*   _Peter Van Buren_: Trump, Obama &. the Death of Political Journalism
     
-*   _Peter Baker_: Trump Makes Clear He's Ready for Fight He Has Long Anticipated
+*   _Susan Glasser_: The 48 Hours That Sealed Trump's Impeachment
     
-*   _Freddy Gray_: The Media and Dems' Anti-Trump Show Must Go On
+*   _Roger Kimball_: The Dems Take a Swig from The Pickwick Papers
     
-*   _Frida Ghitis_: Did Trump Betray His Country?
+*   _Paul Callan_: To Understand Trump's Ukraine Call, You Gotta Know the Code
     
-*   _Michael Goodwin_: Will Biden Be 1st Casualty of Dems' Impeachment Jihad?
+*   _Kimberly Guilfoyle_: Impeachment Won't End Trump's Term. It May Get Him a 2nd
     
-*   _Lanny Davis_: No Facts Showing Biden Wrong Doing--Only Lies, Innuendo
+*   _Frank Bruni_: Why a Trump Impeachment Should Terrify You
     
-*   _James Pinkerton_: Trump and Modi: Score One for the 'Nationalist International'
+*   _Conrad Black_: Only the People Can Decide
     
-*   _Jill Filipovic_: First Trump Insulted Greta Thunberg. Then, the World
+*   _David Corn_: Trump Trying to Gaslight America on Ukraine Scandal
     
-*   _Tony Thomas_: 'Unproven Hypothesis': A Climate Modeller Spills the Beans
+*   _Rush Limbaugh_: Trump Zeroing in on 'CrowdStrike' Has Media, Democrats Scared
     
-*   _James Delingpole_: Drive to Stop Brexit Is Now Completely Anti-Democratic
+*   _Michael Fuchs_: Greta Thunberg Showed the World How to Lead
     
-*   _Anthony Bradley_: Supreme Court Has Laid Bare Boris Johnson's Ruse
+*   _Miranda Devine_: Irresponsible Adults Caused Climate Fear Plaguing Greta
     
-*   _Kathleen Parker_: Leland Keyser Is the True Hero of Kavanaugh Saga
+*   _James Stavridis_: America Needs a New Strategic Triad for the 21st Century
     
-*   _Ilya Shapiro_: Time for Trump to Update His Supreme Court Short List
+*   _Wegmann &. Crabtree_: Graham: DoD Review, Not Trump, Delayed Ukraine Aid
     
-*   _Robert Creamer_: 5 Reasons Warren Has the Best Chance to Beat Trump
+*   _Nate Silver_: Ukraine Scandal Is Looking Really Bad For Trump
     
 
 *   Previous
@@ -233,10 +233,10 @@ RecommendedPolitics
 *   Investigations
 
 *   Trump: Ukraine Hoax Was All Planned, the Witch Hunt Continues
+*   Graham: Pentagon Review, Not Trump, Delayed Ukraine Aid
+*   House Democrats Call Whistleblower Complaint "Deeply Disturbing"
+*   Ukrainian President: Nobody Pushed Me to Investigate Biden
 *   Senate Republicans Start Assembling Phalanx Against House Dems
-*   Poll: Dem Voters Span Diverse Views, Benefiting Biden
-*   Todd: Biden Was Already Probed. Kennedy: Who Investigated Him?
-*   Trump Attacks Globalism and Urges Action on Iran at UN
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -249,69 +249,37 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationQuinnipiac
-    *   Biden25
-    *   Warren27
+*   2020 Democratic Presidential NominationHarvard-Harris
+    *   Biden28
+    *   Warren17
     *   Sanders16
-    *   Buttigieg7
-    *   Harris3
-    *   Yang2
-    *   O'Rourke2
-    *   Booker0
-    *   Klobuchar2
+    *   Buttigieg3
+    *   Harris6
+    *   Yang3
+    *   O'Rourke3
+    *   Booker2
+    *   Klobuchar1
     *   Castro2
     *   Gabbard1
-    *   Bennet1
-    *   Delaney0Warren +2
-*   2020 Democratic Presidential NominationEconomist/YouGov
-    *   Biden26
-    *   Warren27
-    *   Sanders16
-    *   Buttigieg6
-    *   Harris4
-    *   Yang2
-    *   O'Rourke2
-    *   Booker0
-    *   Klobuchar1
-    *   Castro0
-    *   Gabbard1
-    *   Bennet1
-    *   Delaney1Warren +1
-*   California Democratic PrimaryLA Times/Berkeley
-    *   Biden20
-    *   Warren29
-    *   Sanders19
-    *   Harris8
-    *   Yang2
-    *   Buttigieg6
-    *   O'Rourke3
-    *   Gabbard1
-    *   Booker1
-    *   Castro1
-    *   Klobuchar2
-    *   Bennet1
-    *   Steyer0Warren +9
-*   Georgia Democratic PrimaryLandmark Communications
-    *   Biden41
-    *   Warren17
-    *   Sanders8
-    *   Harris6
-    *   Buttigieg5
-    *   Yang2
-    *   Booker2
-    *   O'Rourke1
-    *   Klobuchar1
-    *   Gabbard1
-    *   Steyer1
-    *   Williamson1Biden +24
+    *   Bennet
+    *   Steyer2Biden +11
+*   President Trump Job ApprovalHarvard-Harris
+    *   Approve46
+    *   Disapprove54Disapprove +8
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve49
+    *   Disapprove49Tie
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve42
+    *   Disapprove53Disapprove +11
 
 More Latest Polls In The News
 
+*   Schiff: "Conspiracy Theory" That Ukraine Was Interfering In Our Election, Not Russia Is A Russian Narrative
+*   Kellyanne Conway: We Don't Need Ukraine's Help To Beat Biden Any More Than We Needed Russia To Beat Hillary
+*   Nunes: I Congratulate Dems On "Rollout Of Their Latest Information Warfare Operation" Against Trump
+*   Full Replay: Acting DNI Grilled By Adam Schiff And House Intel Committee On Whistleblower Complaint
 *   AOC on Impeachment: We Have The Ability To Stop "An Intervention In Democracy Before It Happens"
-*   Reporter to Trump: Why Is It Appropriate For A President To Ask A Foreign Leader For Info On Political Rival?
-*   Ukrainian President Zelensky: "Nobody Pushed Me" To Investigate Biden, "I Don't Want To Be Involved"
-*   Mitt Romney: Ukraine Transcript "Extremely Troubling," At This Stage We Are "Gathering Facts"
-*   Matt Gaetz: Speaker Pelosi Has Been "Catfished" Into Impeachment By Rumors And "Bloodlust For The President"
 
 *   Politics
 *   Policy
