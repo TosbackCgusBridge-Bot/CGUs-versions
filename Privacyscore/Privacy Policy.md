@@ -30,9 +30,9 @@ I ACCEPT Close <div class="noscript-message">In order to view this page correctl
         *   How to stream TV Shows
         *   VPN through your router
     *   **Product News**
-        *   What's new in HMA 4.0?
-        *   New Kill Switch
-        *   Stonger streamingSee all articles
+        *   Introducing HMA VPN v5
+        *   New server locations added
+        *   HMA is pulling out of RussiaSee all articles
 *   Download
 *   Help
 *   My account
