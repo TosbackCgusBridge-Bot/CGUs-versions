@@ -383,12 +383,12 @@ Click here for version 3.3
 
 Upcoming Conferences
 
-*   Strata Sep 24–26, New York
 *   Artificial Intelligence Oct 15–17, London
 *   TensorFlow Oct 28–31, Santa Clara
 *   Software Architecture Nov 5–7, Berlin
 *   Velocity Nov 5–7, Berlin
 *   Software Architecture Feb 24–26, New York
+*   Strata Mar 15–18, San Jose
 
 The O'Reilly Approach
 
