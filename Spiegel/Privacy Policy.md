@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   27\. September 2019
+*   28\. September 2019
 *   Abo
-*   DAX 12.288,54ǀ
+*   DAX 12.380,94ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
