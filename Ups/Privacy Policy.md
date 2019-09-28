@@ -1,8 +1,4 @@
-1/1
-
-*   Flooding Impacting Areas of Texas...More
-
-Close Skip To Main Content
+Skip To Main Content
 
 *   Log In
 *   Sign Up
