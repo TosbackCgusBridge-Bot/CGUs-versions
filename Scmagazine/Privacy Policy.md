@@ -364,23 +364,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Second phishing campaign featuring LookBack malware targets U.S. utilities
-    *   Dani Martínez - IOActive
+    *   Senate committee election security funding encouraging
     *   Elisa Costante - Forescout Technologies
-    *   Kaspersky releases decryptors for FortuneCrypt and Yalon ransomware.
-    *   Ben Seri - Armis Security
+    *   Kaspersky releases decryptors for FortuneCrypt and Yalon ransomware
+    *   Android apps with scores of downloads serve up annoying ads, unwanted subscriptions
+    *   Rebecca Wynn - Matrix Medical Network
     
-    *   Ben Seri - Armis Security
-    *   Poison Carp cyberespionage group targeting Tibetan officials with mobile malware
-    *   Steve Grobman - McAfee
-    *   Whistleblower: White House moved record of call with Ukraine president to separate classified network
+    *   Lisa Plaggemier - Infosec
+    *   Scammers using Google Alerts to spread malware, fraud
+    *   Erez Yalon - Checkmarx
     *   Illegal gambling apps snuck into Apple and Google stores
+    *   Brad Wiskirchen - Kount
     
+    *   Illegal gambling apps snuck into Apple and Google stores
+    *   Apple updates software, warns of flaw affecting third-party keyboard apps
+    *   Whistleblower: White House moved record of call with Ukraine president to separate classified network
     *   Reports: Actively exploited zero-day found in vBulletin forum software
     *   Trump mentioned Crowdstrike, referred to DNC server in call with Ukraine president
-    *   27 nations ink cybersecurity pledge
-    *   Russian man pleads guilty to financial firm hacks
-    *   Magecart card-skimming group targets L7 routers used by high-traffic locales
 
 Back to Top
 
@@ -412,7 +412,7 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
 
 You can skip this ad in 1 seconds.
 
