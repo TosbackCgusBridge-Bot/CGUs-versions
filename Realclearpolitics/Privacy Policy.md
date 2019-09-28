@@ -115,53 +115,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Matt Mackowiak_: After Failing on Russia, Dems Try a New Hoax
+*   _David Remnick_: Nancy Pelosi: An Extremely Stable Genius
     
-*   _William Saletan_: The Case for Trump’s Impeachment Goes Beyond Ukraine
+*   _Newt Gingrich_: Pelosi Targets Trump, But She May Have Destroyed Biden
     
-*   _Michael Goodwin_: Pelosi Will Regret Rushing Into Impeachment Push
+*   _Allen &. Talev_: Fact Checks Have Debunked Allegations of Biden Wrongdoing
     
-*   _Peter Bergen_: Complaint Is a Devastating Report From a Savvy Official
+*   _Becket Adams_: ABC/Axios 'Scoop' Implodes Within Hours of Publication
     
-*   _Sean Davis_: The 'Whistleblower' Complaint Contradicts Facts
+*   _Ezra Klein_: House Dems Are Right to Impeach Trump, Even If He Isn't Ousted
     
-*   _Ally Mutnick &. Kyle Trygstad_: Hotline's House Power Rankings
+*   _Betsy McCaughey_: Dems Want to Bring CA's Homeless Problem to Your Door
     
-*   _Curt Mills_: Trump's Campaign Considers the Sunbelt Strategy
+*   _Osita Nwanevu_: Sinners in the Hands of an Angry Greta Thunberg
     
-*   _Der Spiegel_: The Groundwork Is Laid for a Vast New Conflict in the Middle East
+*   _Adam Marcus_: Nature Paper on Ocean Warming Retracted
     
-*   _Monica Showalter_: Trump at the UN: The Speech They're Trying to Hide
+*   _Michael Tracey_: For Dems, Failed Russia Narrative Complicates New Strategy
     
-*   _Richard Stengel_: How to Win the Global Information War
+*   _Josh Kraushaar_: Impeaching Trump Is Good Politics for Democrats
     
-*   _Peter Van Buren_: Trump, Obama &. the Death of Political Journalism
+*   _Ann Coulter_: Get Ready to See Trump's Face on Mount Rushmore
     
-*   _Susan Glasser_: The 48 Hours That Sealed Trump's Impeachment
+*   _Marc Thiessen_: In Rush to Impeach, Dems Sprint Ahead of the Evidence
     
-*   _Roger Kimball_: The Dems Take a Swig from The Pickwick Papers
+*   _Eugene Robinson_: Damn the Torpedos. Full Speed Ahead on Impeachment.
     
-*   _Paul Callan_: To Understand Trump's Ukraine Call, You Gotta Know the Code
+*   _Victor Davis Hanson_: Impeachment Push May Only Strengthen Trump
     
-*   _Kimberly Guilfoyle_: Impeachment Won't End Trump's Term. It May Get Him a 2nd
+*   _Frida Ghitis_: The Greeks Had a Name for What Could Bring Down Trump
     
-*   _Frank Bruni_: Why a Trump Impeachment Should Terrify You
+*   _John Solomon_: Once-Secret Memos Cast Doubt on Biden's Ukraine Story
     
-*   _Conrad Black_: Only the People Can Decide
+*   _David Corn_: Intelligence Chief Offers Timely Reminder: Trump's a Liar
     
-*   _David Corn_: Trump Trying to Gaslight America on Ukraine Scandal
+*   _Edward Ring_: Political Realignment Is Coming to America
     
-*   _Rush Limbaugh_: Trump Zeroing in on 'CrowdStrike' Has Media, Democrats Scared
+*   _A.B. Stoddard_: Trump Reelection Depends on New Voters
     
-*   _Michael Fuchs_: Greta Thunberg Showed the World How to Lead
+*   _Scott Walker_: The Hypocrisy of Climate Change Warriors
     
-*   _Miranda Devine_: Irresponsible Adults Caused Climate Fear Plaguing Greta
+*   _Thomas Friedman_: It's the Environment, Stupid
     
-*   _James Stavridis_: America Needs a New Strategic Triad for the 21st Century
+*   _Dan Hannan_: Boris, Brexit, and the Politicization of Britain's Judiciary
     
-*   _Wegmann &. Crabtree_: Graham: DoD Review, Not Trump, Delayed Ukraine Aid
+*   _Amy Davidson Sorkin_: Donald Trump and Boris Johnson: A Tale of 2 Crises
     
-*   _Nate Silver_: Ukraine Scandal Is Looking Really Bad For Trump
+*   _Charlie Hurt_: Schiff Should Have to Take Oath Before Every Hearing
     
 
 *   Previous
@@ -232,11 +232,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump: Ukraine Hoax Was All Planned, the Witch Hunt Continues
+*   Trump: Source for the Whistleblower Is "Close to a Spy"
+*   2020 Dem Candidates Condemn Trump, Sidestep Questions on Biden
+*   Conway: Biden's a Disaster, We Don't Need Ukraine's Help to Beat Him
 *   Graham: Pentagon Review, Not Trump, Delayed Ukraine Aid
 *   House Democrats Call Whistleblower Complaint "Deeply Disturbing"
-*   Ukrainian President: Nobody Pushed Me to Investigate Biden
-*   Senate Republicans Start Assembling Phalanx Against House Dems
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -249,6 +249,12 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalNPR/PBS/Marist
+    *   Approve45
+    *   Disapprove51Disapprove +6
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve48
+    *   Disapprove50Disapprove +2
 *   2020 Democratic Presidential NominationHarvard-Harris
     *   Biden28
     *   Warren17
@@ -266,20 +272,14 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalHarvard-Harris
     *   Approve46
     *   Disapprove54Disapprove +8
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve49
-    *   Disapprove49Tie
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve42
-    *   Disapprove53Disapprove +11
 
 More Latest Polls In The News
 
+*   Hillary Clinton: Donald Trump Poses A "Clear And Present Danger To Our Future And Our Democracy"
+*   Chris Wallace: Spin About Whistleblower By Defenders Of The President Has Been "Deeply Misleading"
+*   President Trump Tweets Four Clips From Thursday Night's "Hannity," Three From Lou Dobbs
+*   Geraldo Rivera: "This Poor President," His Whole Tenure In Office Defined By "Snitches And Rats And Backstabbers"
 *   Schiff: "Conspiracy Theory" That Ukraine Was Interfering In Our Election, Not Russia Is A Russian Narrative
-*   Kellyanne Conway: We Don't Need Ukraine's Help To Beat Biden Any More Than We Needed Russia To Beat Hillary
-*   Nunes: I Congratulate Dems On "Rollout Of Their Latest Information Warfare Operation" Against Trump
-*   Full Replay: Acting DNI Grilled By Adam Schiff And House Intel Committee On Whistleblower Complaint
-*   AOC on Impeachment: We Have The Ability To Stop "An Intervention In Democracy Before It Happens"
 
 *   Politics
 *   Policy
