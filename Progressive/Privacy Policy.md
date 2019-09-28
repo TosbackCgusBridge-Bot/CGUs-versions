@@ -238,7 +238,6 @@ We offer insurance by phone, online and through independent agents. Prices vary 
         *   Keys to Progress
         *   Newsroom
         *   Media Contacts
-        *   TV Commercials
     *   Careers
         *   Jobs Overview
         *   Working at Progressive
