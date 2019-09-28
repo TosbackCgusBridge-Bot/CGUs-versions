@@ -147,13 +147,13 @@ Lenovo Explore Close
         *   Small Business Accessories
         *   Compatibility Finder
         
-        *   Best Selling Accessories
-        *   ThinkPad 90W Ultra Dock
-        *   C2G USB-C Docking Station
-        *   TAB4 10 BT Keyboard
-        *   Lenovo Professional Combo
-        *   Thinkpad Wired USB Keyboard
-        *   Everyday Backpack
+        *   Top Brands
+        *   Lenovo
+        *   Think Pad
+        *   Yoga
+        *   Logitech
+        *   Xerox
+        *   Sandy Lisa
     *   Monitors
         
         *   Always Free Shipping
@@ -192,6 +192,7 @@ Lenovo Explore Close
         *   Consoles
         *   AR/VR
         *   Accessories
+        *   View All Gaming
         
         *   Featured
         *   Accessory Deals
@@ -823,7 +824,7 @@ If a child under the age of 16 submits personal information to Lenovo's web site
 
 What are my data protection rights?
 
-Applicable data protection laws may give you the right to control our use and processing of your personal information. These may include the right (i) to request access to and a copy of your personal information, (ii) to object to processing of your personal information, or to request rectification or erasure of your personal information. (iii) to restrict processing of your personal information. and (iv) to data portability. Where we are using your personal information with your consent, you also have the right to withdraw your consent at any time, though this will not affect our uses of your personal information prior to the withdrawal of your consent.
+Applicable data protection laws may give you the right to control our use and processing of your personal information. These may include the right (i) to request access to and a copy of your personal information, (ii) to object to processing of your personal information, (iii) to request rectification or erasure of your personal information. (iv) to restrict processing or to opt-out of any sale of your personal information. and (v) to data portability. Where we are using your personal information with your consent, you also have the right to withdraw your consent at any time, though this will not affect our uses of your personal information prior to the withdrawal of your consent.
 
 To exercise any of your rights, please contact us at privacy@lenovo.com. We will consider and act upon any such requests in accordance with applicable data protection laws, and may ask you to verify your identity in order to help us respond efficiently to your request.
 
@@ -1038,11 +1039,11 @@ If Lenovo learns a child under the age of 16, or equivalent minimum age in the r
 
 What are my data protection rights?
 
-Applicable data protection laws may give you the right to control our use and processing of your personal information. These may include the right (i) to request access to and a copy of your personal information, (ii) to request rectification or erasure of your personal information. (iii) to object to processing of your personal information. (iv) to restrict processing of your personal information. and (v) to data portability. Where we are using your personal information with your consent, you also have the right to withdraw your consent at any time, though this will not affect our uses of your personal information prior to the withdrawal of your consent.
+Applicable data protection laws may give you the right to control our use and processing of your personal information. These may include the right (i) to request access to and a copy of your personal information, (ii) to request rectification or erasure of your personal information. (iii) to object to processing of your personal information. (iv) to restrict processing or to opt-out of any sale of your personal information. and (v) to data portability. Where we are using your personal information with your consent, you also have the right to withdraw your consent at any time, though this will not affect our uses of your personal information prior to the withdrawal of your consent.
 
-To exercise any of your rights, please contact us at privacy@lenovo.com. We will consider and act upon any such requests in accordance with applicable data protection laws, and we may ask you to verify your identity in order to help us respond efficiently to your request.
+To exercise any of your rights, please contact us privacy@lenovo.com. We will consider and act upon any such requests in accordance with applicable data protection laws, and we may ask you to verify your identity in order to help us respond efficiently to your request.
 
-You also have the right to raise questions or complaints with your applicable national data protection authority at any time.
+You also have the right to raise questions or complaints with your applicable national data protection authority at any time
 
 How may I contact Lenovo's Privacy Program?
 
