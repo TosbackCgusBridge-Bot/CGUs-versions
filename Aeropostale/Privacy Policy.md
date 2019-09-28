@@ -40,9 +40,9 @@ Close submenu ( Tops ) Tops
 *   Graphic Tees
 *   Polos
 *   Hoodies + Sweatshirts
+*   Long Sleeve
 *   Camis
 *   Tanks
-*   Long Sleeve
 *   Shirts + Blouses
 *   Sweaters
 *   Active Tops
@@ -248,9 +248,9 @@ Menu Find a Store Aeropostale
         *   Graphic Tees
         *   Polos
         *   Hoodies + Sweatshirts
+        *   Long Sleeve
         *   Camis
         *   Tanks
-        *   Long Sleeve
         *   Shirts + Blouses
         *   Sweaters
         *   Active Tops
