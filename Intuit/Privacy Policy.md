@@ -21,57 +21,54 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackFinal Hours Of COUPON CODE HOORAY8ENDS IN00HOURS 41MINS 03SECS See Details"\*60% off $100 or more select original &. regular-priced apparel, accessories, fine &. fashion jewelry &. home any way you pay Excluded Categories: Juniors’ prom dresses, swimwear, shoes, handbags, window coverings, kitchen and dining, luggage, furniture, mattresses Excluded Brand: Liz Claiborne See additional exclusions below \*40% off $40 or more select original &. regular-priced apparel, shoes, accessories, fine &. fashion jewelry &. home any way you pay \*25% off select original &. regular-priced apparel any way you pay (Haggar, Lee, Gloria Vanderbilt, intimate apparel &. women’s dresses). accessories (belts &. wallets). fine &. fashion jewelry (watches). home (Stearns &. Foster, Handy Living, Fiesta, small electrics, storage and organization, bath accessories, fitness equipment &. accessories, floor care). shoes (men's shoes, kids' shoes, Andrew Geller, Clarks, Easy Spirit). salon products \*EXTRA 25% off select SALE- &. CLEARANCE-priced apparel, shoes, accessories, fine &. fashion jewelry &. home any way you pay \*EXTRA 10% off select SALE- &. CLEARANCE- priced furniture, mattresses, small electrics &. floor care and way you pay \*OFFER DISCLAIMER &. EXCLUSIONS: Offer good at jcp.com, excluding taxes and shipping charges, 9/23/19-9/26/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Full amount of purchase must be on the JCPenney Credit Card to get the 10% off discount. Subject to credit approval. Excluded Categories: Athletic Shoes, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Branded Athletic Apparel, Electronics, Food, Home Décor, In-Home Custom Design, Licensed Team Sports Merchandise, Men’s Underwear and Socks, Select National Brand Shoes, Penney Lane, Personalized Jewelry, Pet Care, Smart Home, Smartwatches, Sporting Goods &. Outdoor Gear, Toys, Travel Accessories, Wigs &. Extensions, Workwear &. Scrubs Excluded Brands: adidas, Alfred Dunner, As Seen On TV, Carhartt, Citizen Quartz, City Streets, Columbia, Champion, Converse, Crocs, Denizen from Levi's, Disney Collection, Disney Tsum Tsum, Dockers Apparel, Dreamgirl, Fisher-Price, Fitbit, Flexus, Garmin, Goddess Lingerie, Hunter Douglas, Jezebel, Journee Collection, Keds/Grasshoppers, Levi’s, Modern Bride Design Your Dream Ring, Neato Robotics, Nike, Nursemates, Propet, Puma, Reebok, Sephora, Skechers Women's Shoes, Smoky Mountain, Spring Step, Tempur-Pedic, Tervis, Tracee Ellis Ross Additionally, original and regular-priced offers do not apply to BOGOs, 2 Or More, sale or clearance-priced items. all offers do not apply to Best Value, Daily Deals, Limited Time Specials, Purchase with Purchase items, Service Plans, Gift Cards, current orders and prior purchases, or in combination with other coupon(s). Can be combined with earned JCPenney Rewards. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code HOORAY8 when prompted at checkout or call 1.800.322.1189 and mention the code." Full Exclusions &. Details40% OFF $40+ WITH CODEGUYS' ARIZONA JEANSselect styles | reg. $42-$5040% OFF $40+ WITH CODEKIDS' ARIZONA FLEX JEANSselect styles | reg. $30-$4040% OFF $40+ WITH CODE OUTDOOR SHOPselect styles | reg. $40-$89
+Near YouFind a StoreBackDay 2 Of LOWEST PRICES OF THE SEASON ENDS IN23HOURS 41MINS 16SECS \*Offer ends 09/29/19Home DealsShop All4.88 EA.JCPenney Home Westly or 30X54" quick-dri solid bath towel reg. $14 ea.39.88 ANY SIZEJCPenney Home 575TC performance sheet set | reg. $110-$15035.88After $20 mail-in rebate\*\* Cooks 2.5L air fryer **sale $55.88** | reg. $14049.88After $20 mail-in rebate\*\* T-Fal 20-pc. aluminum non-stick cookware set | **sale $69.88** | reg. $20014.88Sterling 36X84" blackout curtain reg. $4014.88Home Expressions classic plus twin mattress pad | reg. $2960% OFFSamsonite luggage collections select styles | reg. $150-$48060% OFFQuilts &. bedspreads | select styles **sale $39.99-$119.99** | reg. $100-$300Women's &. Juniors' DealsShop All7.88Juniors' Flirtitude tee select styles|reg. $20  
+  
+9.88Women's Xersion tee select styles|reg. $27  
+ 14.88Women's St. John's Bay top select styles including petites' sizes | reg. $37 19.88Women's a.n.a or St. John's Bay jeans select styles | reg. $44-$49Men's DealsShop All 12.88Men's St. John's Bay long-sleeve polo or thermal select styles | reg. $30 19.88 Guys' Arizona flex denim select styles | reg. $42 17.88Men's St. John's Bay easy care stretch pants select styles | reg. $50 15.88Men's Xersion fleece hoodie select styles | reg. $36Kid's DealsShop All 6.88Kids' Arizona long-sleeve tee select styles | reg. $17 12.88Kids' Arizona jeans select styles | reg. $30-$32 14.88Kids' Xersion hoodie select styles | reg. $30-$324.88 Baby &. toddler Okie Dokie Mix &. Match select styles | reg. $12-$14Shoe DealsShop All29.88Women's booties select styles | reg. $6019.88Women's dress &. casual shoes select styles | reg. $5539.88Women's boots select styles | reg. $80 40% OFFWomen's Clarks casuals | select styles **sale $47.88-$56.88** | reg. $80-$94 Excluded from coupons.Bras, Panties &. Handbags DealsShop All13.88Playtex 18 hour bra select styles|reg. $3614.88$14.88 Hanes Packaged Panties select styles | reg. $24-26  
+19.88Bali Double Support bra or Ambrielle brasselect styles | reg. $32-$4450% OFFHandbags &. wallets | select styles **sale $20-$45** | reg. $40-$90 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 25 total items loaded in Media GalleryFollow @jcpenney UP TO 80% OFF CARTER'S BABY &. TODDLER CLEARANCESHOP ALLSELECT STYLESUP TO 80% OFF CARTER'S BABY &. TODDLER CLEARANCESELECT STYLESSHOP ALL
 
-*   SHOP NOW
+*   $399 clearance
+    
+    was $16 Carter's Baby Creeper - Baby(72)Add To Cart
+*   $719 clearance
+    
+    was $24 Carter's Boys 2-pc. Short Set BabyAdd To Cart
+*   $359 clearance
+    
+    was $18 Carter's Boys Crew Neck Short Sleeve Graphic T-Shirt-Toddler(24)Add To Cart
+*   $839 clearance
+    
+    was $24 Carter's Girls 2-pc. Short Set Baby(29)Add To Cart
+*   $539 clearance
+    
+    was $18 Carter's Girls Round Neck Short Sleeve T-Shirt-Toddler(28)Add To Cart
+*   $759 clearance
+    
+    was $38 Carter's Rash Guard Set - BabyAdd To Cart
+*   $779 clearance
+    
+    was $26 Carter's Girls Denim Short - Toddler(26)Add To Cart
 
-40% OFF $40+ WITH CODEWOMEN'S BOOTSselect styles | reg. $60-$90
+\*\*Visa Card Rebate: Purchase applicable housewares item 9/27/19-9/29/19, unless otherwise noted, and get a Visa Prepaid Card by mail as a rebate. Rebate form and details print at register. Visa Prepaid Card is issued by MetaBank, Member FDIC, pursuant to a license from Visa U.S.A. Inc. Cards can be used at any merchants that accept Visa debit cards. Terms and Conditions apply to the card. See rebate form for details. JCPenney reserves the right to substitute a check of equal value in lieu of a Visa Prepaid Card at its discretion.Recommended for You
 
-*   SHOP NOW
-
-60% OFF $100+ WITH CODEHOMEselect styles
-
-*   SHOP HOME
-
-*   BEDDING
+*   $688 - $19
     
-*   SHEETS
+    a.n.a Womens Scoop Neck Short Sleeve T-Shirt(288)
+*   $288 - $2488 sale
     
-*   BATH
+    was $10 - $76 | 63 - 71% offJCPenney Home Performance Bath Towel Collection(212)
+*   $1688 - $5988 sale
     
-*   PILLOWS
+    was $22 - $90 | 23 - 41% offJCPenney Home™ Ultima Bath Rug Collection(704)
+*   $799 - $2488 sale
     
-*   COMFORTERS
+    was $44 | 43 - 81% offWorthington Perfect Trouser(331)
+*   $1289 - $37
     
-*   MATTRESS PADS
+    Worthington Essential Soft Blouse(175)
+*   $10 sale
     
-
-SHOP HOME Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 25 total items loaded in Media GalleryFollow @jcpenney UP TO 80% OFF CARTER'S BABY &. TODDLER CLEARANCESHOP ALLSELECT STYLESUP TO 80% OFF CARTER'S BABY &. TODDLER CLEARANCESELECT STYLESSHOP ALL
-
-*   $539after couponwas $24 Carter's Boys 2-pc. Short Set BabyAdd To Cart
-*   $269after couponwas $18 Carter's Boys Crew Neck Short Sleeve Graphic T-Shirt-Toddler(24)Add To Cart
-*   $569after couponwas $38 Carter's Rash Guard Set - BabyAdd To Cart
-*   $299after couponwas $20 Carter's Girls Round Neck Short Sleeve Graphic T-Shirt-Toddler(11)Add To Cart
-*   $1199after couponwas $46 Carter's Boys 2-pc. Bodysuit Set-Baby(42)Add To Cart
-*   $629after couponwas $24 Carter's Girls 2-pc. Short Set Baby(22)Add To Cart
-*   $1049after couponwas $40 Carter's Girls Sleeveless A-Line Dress - Baby(7)Add To Cart
-
-Recommended for You
-
-*   $10 - $76
-    
-    JCPenney Home Performance Bath Towel Collection(212)
-*   $17 - $19
-    
-    a.n.a Womens Scoop Neck Short Sleeve T-Shirt(286)
-*   $22 - $90
-    
-    JCPenney Home™ Ultima Bath Rug Collection(704)
-*   $599 - $2640after couponWorthington Perfect Trouser(319)
-*   $1289 - $44
-    
-    Worthington Essential Soft Blouse(172)
-*   $2998after couponLIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver(185)
+    was $49.98 | 80% offLIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver(185)
 
 Shop and Save at JCPenney
 
