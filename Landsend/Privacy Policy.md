@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 30% off your order!
+Receive 40% off full-price styles, plus free shipping to most U.S. and Canadian addresses!
 
-code: ORANGE pin: 1122PROMOTION DETAILS
+code: PINECONE pin: PROMOTION DETAILS
 
 Customer Service Menu
 
