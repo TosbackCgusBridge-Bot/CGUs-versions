@@ -115,6 +115,40 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Margaret Sullivan_: Trump Finally Meets Media Story He Can't Control
+    
+*   _Ari Fleischer_: Dems and Their Media Allies Are the Real Threat to Norms
+    
+*   _Michael Kruse_: Rep. Sherrill: 'It Feels Like a 1776 Kind of Fight'
+    
+*   _Sean Davis_: Intel Community Secretly Revised Complaint Form
+    
+*   _Richard Hasen_: Democrats' Strategy Has Trump on the Ropes
+    
+*   _Karl Rove_: Pelosi's Circular Firing Squad
+    
+*   _Julie Kelly_: Behind the Crowdstrike Mention in Trump's Ukraine Call
+    
+*   _Fareed Zakaria_: Trump's Misbehavior Fits a Global Trend
+    
+*   _Francis Hoar_: Boris Johnson Has a Point About Britain's Supreme Court
+    
+*   _Susan Crabtree_: Emboldened Dems Renew Kavanaugh, Menashi Fights
+    
+*   _Heather Mac Donald_: False Testimony on Police Shootings &. Racial Bias
+    
+*   _Miller_: How Trump Can Escape His Iran Jam
+    
+*   _Laura Rozen_: Lost Opportunity? Rouhani Leaves NY w/out Meeting Trump
+    
+*   _Myra Adams_: A Difficult Time to Be a Republican
+    
+*   _Carlson &. Patel_: Trump Looks Innocent--Biden Looks Very Corrupt
+    
+*   _Bill Scher_: Why Warren's Big Crowds Are a Big Deal
+    
+*   _Savanna Beaurline_: The Equal Rights Amendment Would Harm Women
+    
 *   _David Remnick_: Nancy Pelosi: An Extremely Stable Genius
     
 *   _Newt Gingrich_: Pelosi Targets Trump, But She May Have Destroyed Biden
@@ -128,40 +162,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Betsy McCaughey_: Dems Want to Bring CA's Homeless Problem to Your Door
     
 *   _Osita Nwanevu_: Sinners in the Hands of an Angry Greta Thunberg
-    
-*   _Adam Marcus_: Nature Paper on Ocean Warming Retracted
-    
-*   _Michael Tracey_: For Dems, Failed Russia Narrative Complicates New Strategy
-    
-*   _Josh Kraushaar_: Impeaching Trump Is Good Politics for Democrats
-    
-*   _Ann Coulter_: Get Ready to See Trump's Face on Mount Rushmore
-    
-*   _Marc Thiessen_: In Rush to Impeach, Dems Sprint Ahead of the Evidence
-    
-*   _Eugene Robinson_: Damn the Torpedos. Full Speed Ahead on Impeachment.
-    
-*   _Victor Davis Hanson_: Impeachment Push May Only Strengthen Trump
-    
-*   _Frida Ghitis_: The Greeks Had a Name for What Could Bring Down Trump
-    
-*   _John Solomon_: Once-Secret Memos Cast Doubt on Biden's Ukraine Story
-    
-*   _David Corn_: Intelligence Chief Offers Timely Reminder: Trump's a Liar
-    
-*   _Edward Ring_: Political Realignment Is Coming to America
-    
-*   _A.B. Stoddard_: Trump Reelection Depends on New Voters
-    
-*   _Scott Walker_: The Hypocrisy of Climate Change Warriors
-    
-*   _Thomas Friedman_: It's the Environment, Stupid
-    
-*   _Dan Hannan_: Boris, Brexit, and the Politicization of Britain's Judiciary
-    
-*   _Amy Davidson Sorkin_: Donald Trump and Boris Johnson: A Tale of 2 Crises
-    
-*   _Charlie Hurt_: Schiff Should Have to Take Oath Before Every Hearing
     
 
 *   Previous
@@ -232,11 +232,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump: Source for the Whistleblower Is "Close to a Spy"
+*   Cohen: Welcome to Russia Hoax 2.0
+*   Pelosi Says Barr's "Gone Rogue," Alleges "Cover-Up of the Cover-Up"
+*   Emboldened Dems Renew Kavanaugh, Menashi Fights
+*   Biden's Odds for Dem Nomination Plunge, Warren Jumps to Big Lead
 *   2020 Dem Candidates Condemn Trump, Sidestep Questions on Biden
-*   Conway: Biden's a Disaster, We Don't Need Ukraine's Help to Beat Him
-*   Graham: Pentagon Review, Not Trump, Delayed Ukraine Aid
-*   House Democrats Call Whistleblower Complaint "Deeply Disturbing"
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -263,9 +263,9 @@ Latest PollsAll Polls
     *   Harris6
     *   Yang3
     *   O'Rourke3
+    *   Castro2
     *   Booker2
     *   Klobuchar1
-    *   Castro2
     *   Gabbard1
     *   Bennet
     *   Steyer2Biden +11
@@ -275,11 +275,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Maher: Self-Loathing "White Shame" Among Liberals Is Just "Tedious Virtue Signaling," It's Not Helping
+*   Giuliani: Shouldn't Biden Be Investigated Over Ukraine If Trump Can Be Impeached Over It? Why Is It So Hard?
 *   Hillary Clinton: Donald Trump Poses A "Clear And Present Danger To Our Future And Our Democracy"
 *   Chris Wallace: Spin About Whistleblower By Defenders Of The President Has Been "Deeply Misleading"
-*   President Trump Tweets Four Clips From Thursday Night's "Hannity," Three From Lou Dobbs
 *   Geraldo Rivera: "This Poor President," His Whole Tenure In Office Defined By "Snitches And Rats And Backstabbers"
-*   Schiff: "Conspiracy Theory" That Ukraine Was Interfering In Our Election, Not Russia Is A Russian Narrative
 
 *   Politics
 *   Policy
