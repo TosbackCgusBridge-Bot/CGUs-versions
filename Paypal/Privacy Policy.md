@@ -25,46 +25,66 @@ Menu PayPal
 
 Log In Sign Up Personal
 
-Send money, pay on your  
-terms and shop easily all with PayPal.
+Learn how PayPal makes it easy to shop and send money to family and friends.
+
+\+ Personal + Personal
+
+Send money, pay on your terms and shop easily all with PayPal.
+
+Send money to friends and family or move funds from one account to another.\*
+
+Expand your payment options with our credit, debit, prepaid cards &. PayPal Credit.\*\*
+
+Check out faster, at any of the millions of sites PayPal is accepted.
 
 Sign Up for Free
+
+\*Sending &. receiving funds requires a PayPal account.  
+\*\*Subject to credit approval.
 
 Business
 
 Start accepting all kinds of payments with one PayPal business account.
 
-Get Started
+\+ Business + Business
 
-Send money to friends and family.
+Get paid on your website or app, in your store or on-the-go, and by email or phone
 
-It's free to send money to friends and family in the U.S. when you use your bank account or PayPal Cash or PayPal Cash Plus balance.\*
+Accept cards, PayPal, Apple Pay, PayPal Credit and much more.
 
-Send Money Now
+Borrow for your business with affordable business loans. Learn more
 
-\*If you don't have an account, you can sign up for PayPal for free. Must have a PayPal Cash or PayPal Cash Plus account to maintain and use a balance with PayPal.
+Get live support and seller protection.
 
-You might be surprised with how many online stores accept PayPal. Shop 19 million online stores and counting. Shop your favorite brands.
+Get Started Send, shop and pay your way with one account. Send money
 
-PayPal is accepted where you shop – on over 75% of online merchants, from big brands to boutique sites.
+Send, request and collect money from PayPal friends and family
 
-Who shops the world? You.
+Shop effortlessly
 
-With PayPal, you can shop online stores in 200+ markets around the world so it's all right at your fingertips.
+Check out fast using your stored cards or bank account
 
-Buy with confidence.
+Pay your way
 
-There's a reason why over 200 million people trust PayPal: it's easy and secure with benefits like Return Shipping on Us1 and Purchase Protection.2
+Shop with our credit, debit, prepaid cards or digital credit line
 
-Shop now with PayPal at your favorite stores.
+Secure payments
+
+We keep your financial details private and transactions secure from fraud 24/7.
+
+Simple and convenient
+
+Skip entering and updating your card details every time you check out.
+
+Be rewarded
+
+Continue to earn reward points on cards added to your PayPal wallet.^
 
 Make the most of your money.
 
 Sign Up for Free
 
-1Limitations apply. This program is open only to eligible U.S. PayPal account owners. Once the service is activated, participants may receive up to 12 refunds (up to $30 per refund request) per calendar year (January 1 – December 31) on qualifying returns of tangible items returned in accordance with seller’s return policy. Other limitations apply.  
-  
-2See more about Purchase Protection terms and limitations.
+^Subject to issuer's reward program terms and conditions.
 
 *   Help
 *   Contact
@@ -89,4 +109,4 @@ Sign Up for Free
 *   Legal
 *   Feedback
 
-<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&pgst=Unknown&calc=eb9bbb13e971a&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&ccpg=us&csci=647eb168786f44e79dc3de949fda9884&comp=mppnodeweb&tsrce=mppnodeweb&cu=0&pxpguid=763bb23d16dac120001059e8ffd82901&xe=100979%2C100971&xt=102836%2C102817&pgld=Unknown&bzsr=main&bchn=mktg&tmpl=home.dust&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3Apersonal%3A%3Ahome&page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&pgst=Unknown&calc=d81cc54fad382&rsta=en\_US&pgtf=Nodejs&env=live&s=ci&ccpg=us&csci=42405bb9c38b4b31be09254dc859d210&comp=mppnodeweb&tsrce=mppnodeweb&cu=0&pxpguid=7b648dfe16dac120001d0ac9fff7f9ea&xe=100979%2C100971&xt=102835%2C102818&pgld=Unknown&bzsr=main&bchn=mktg&tmpl=home.dust&pgsf=personal&lgin=out&shir=main\_mktg\_personal\_&pros=3&lgcook=0" alt="fptiTracking" height="1" width="1" border="0">.
