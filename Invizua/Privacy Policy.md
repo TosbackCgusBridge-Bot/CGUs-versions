@@ -34,7 +34,7 @@
 *   Contact Us
 *   Try now
 
-Visokio Privacy Policy Statement What we do with data about you, and data you may send to us
+<img src="https://visokio.com/wp-content/uploads/2019/08/visokio-omniscope-banner-3-800x400.png" width="0" height="0" style="width:0;height:0;" data-pin-description="Developers of Omniscope &ndash. Business Intelligence app for high-performance data processing, analytics and data visualisation" alt="" />. Visokio Privacy Policy Statement What we do with data about you, and data you may send to us
 
 Protecting the privacy and data belonging to our clients and users of our site(s) is important to Visokio. This Privacy Policy describes how we use and protect any information or data files you provide to us.
 
