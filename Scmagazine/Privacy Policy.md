@@ -364,23 +364,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
+    *   Greg Lesnewich - Recorded Future
+    *   Defense Dept. unveils counter-insider threat program
+    *   Voting equipment vendors seek info on vulnerability disclosure program
     *   Senate committee election security funding encouraging
-    *   Elisa Costante - Forescout Technologies
-    *   Kaspersky releases decryptors for FortuneCrypt and Yalon ransomware
-    *   Android apps with scores of downloads serve up annoying ads, unwanted subscriptions
-    *   Rebecca Wynn - Matrix Medical Network
+    *   Microsoft patches flaws in IE, Defender
     
-    *   Lisa Plaggemier - Infosec
+    *   Ophir Harpaz - Guardicore
+    *   Ning Wang - Offensive Security
+    *   Millions of YouTube accounts hijacked through phishing and compromised 2FA
+    *   Senate committee election security funding encouraging
+    *   WordPress Rich Review plugin vulnerable to malvertising
+    
     *   Scammers using Google Alerts to spread malware, fraud
-    *   Erez Yalon - Checkmarx
-    *   Illegal gambling apps snuck into Apple and Google stores
-    *   Brad Wiskirchen - Kount
-    
-    *   Illegal gambling apps snuck into Apple and Google stores
-    *   Apple updates software, warns of flaw affecting third-party keyboard apps
-    *   Whistleblower: White House moved record of call with Ukraine president to separate classified network
-    *   Reports: Actively exploited zero-day found in vBulletin forum software
-    *   Trump mentioned Crowdstrike, referred to DNC server in call with Ukraine president
+    *   Fileless malware campaign abuses legit tools Node.js and WinDivert
+    *   Scammers using Google Alerts to spread malware, fraud
+    *   Cisco addresses multiple bugs in network operating systems
+    *   DoorDash data breach hits 4.9 million customers, merchants and drivers
 
 Back to Top
 
