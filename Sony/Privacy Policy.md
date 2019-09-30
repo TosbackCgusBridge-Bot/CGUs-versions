@@ -122,7 +122,7 @@ Learn More About the Xperia 5
 
 Get your 🖐 on the Limited Edition Death Stranding PS4 Pro Bundle, just unveiled during #StateOfPlay:  https://play.st/2mYcsFM  pic.twitter.com/eSxRlfwKlG
 
-4 days ago View Tweet Instagram Post B2wy9HmFANe
+5 days ago View Tweet Instagram Post B2wy9HmFANe
 
 Discover Super Zoom
 
