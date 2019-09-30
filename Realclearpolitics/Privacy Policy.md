@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -115,53 +113,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Margaret Sullivan_: Trump Finally Meets Media Story He Can't Control
+*   _Derek Hunter_: If Impeachment Case Is So Strong, Why Are Liberals Lying?
     
-*   _Ari Fleischer_: Dems and Their Media Allies Are the Real Threat to Norms
+*   _Allan Lichtman_: Impeachment Favors Democrats in the Election
     
-*   _Michael Kruse_: Rep. Sherrill: 'It Feels Like a 1776 Kind of Fight'
+*   _Kyle Smith_: Impeachment Saga Is Pointless Reboot of 1999 Clinton Effort
     
-*   _Sean Davis_: Intel Community Secretly Revised Complaint Form
+*   _Hanna Trudo_: Kamala Harris Touts Tough Image as Race Slips in Key States
     
-*   _Richard Hasen_: Democrats' Strategy Has Trump on the Ropes
+*   _John Hirschauer_: Joe Biden vs. the Democratic Economy Truthers
     
-*   _Karl Rove_: Pelosi's Circular Firing Squad
+*   _Andrew Desiderio_: Did Republicans Lose Orange County for Good?
     
-*   _Julie Kelly_: Behind the Crowdstrike Mention in Trump's Ukraine Call
+*   _Conrad Black_: Why Donald Trump Will Win Big in 2020
     
-*   _Fareed Zakaria_: Trump's Misbehavior Fits a Global Trend
+*   _Ruth Ben-Ghiat_: Trump's Authoritarian Tendencies Come Back to Bite Him
     
-*   _Francis Hoar_: Boris Johnson Has a Point About Britain's Supreme Court
+*   _Thomas Farnan_: Trump Has the Bad Guys Surrounded in Ukraine
     
-*   _Susan Crabtree_: Emboldened Dems Renew Kavanaugh, Menashi Fights
+*   _Coleman Hughes_: The Case for Black Optimism
     
-*   _Heather Mac Donald_: False Testimony on Police Shootings &. Racial Bias
+*   _Roger Kimball_: Impeachment Frenzy Making Fools of Dems
     
-*   _Miller_: How Trump Can Escape His Iran Jam
+*   _Lili Loofbourow_: The Week That Changed Everything for Democrats
     
-*   _Laura Rozen_: Lost Opportunity? Rouhani Leaves NY w/out Meeting Trump
+*   _Byron York_: Eight Keys to the Coming Impeachment Fight
     
-*   _Myra Adams_: A Difficult Time to Be a Republican
+*   _Samuelsohn &. Forgey_: Will Impeachment Get the Merrick Garland Treatment?
     
-*   _Carlson &. Patel_: Trump Looks Innocent--Biden Looks Very Corrupt
+*   _Schweizer &. McLeod_: Busting Biden Myths on Ukraine Dealings
     
-*   _Bill Scher_: Why Warren's Big Crowds Are a Big Deal
+*   _Kevin Poulsen_: The Truth About Trump's Ukraine 'Server' Conspiracy
     
-*   _Savanna Beaurline_: The Equal Rights Amendment Would Harm Women
+*   _Philip Wegmann_: Possible Impeachment Upshot? A Bipartisan Trade Deal
     
-*   _David Remnick_: Nancy Pelosi: An Extremely Stable Genius
+*   _Jacob Heilbrunn_: Will Impeachment Push Hillary Clinton to Run?
     
-*   _Newt Gingrich_: Pelosi Targets Trump, But She May Have Destroyed Biden
+*   _Gabriel DeBenedetti_: Is It the End of the Road for Most of the 2020 Field?
     
-*   _Allen &. Talev_: Fact Checks Have Debunked Allegations of Biden Wrongdoing
+*   _James Freeman_: Bernie Sanders' Plan to Abolish American Billionaires
     
-*   _Becket Adams_: ABC/Axios 'Scoop' Implodes Within Hours of Publication
+*   _Richard Parker_: The Era of GOP Dominance in Texas Is Over
     
-*   _Ezra Klein_: House Dems Are Right to Impeach Trump, Even If He Isn't Ousted
+*   _Bjorn Lomborg_: On Climate Change, Humanity Is Not 'Evil'
     
-*   _Betsy McCaughey_: Dems Want to Bring CA's Homeless Problem to Your Door
+*   _Amanda Marcotte_: Why Conservatives Are Scared of Greta Thunberg
     
-*   _Osita Nwanevu_: Sinners in the Hands of an Angry Greta Thunberg
+*   _Dan Gainor_: Anti-Trump Media Doing Their Best to Get President Impeached
     
 
 *   Previous
@@ -249,37 +247,48 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   Nevada Democratic Presidential CaucusCNN
+    *   Biden22
+    *   Sanders22
+    *   Warren18
+    *   Harris5
+    *   Buttigieg4
+    *   Steyer4
+    *   Yang3
+    *   Booker2
+    *   O'Rourke0
+    *   Gabbard1
+    *   Castro0
+    *   Bennet0
+    *   Bullock0Tie
+*   South Carolina Democratic Presidential PrimaryCNN
+    *   Biden37
+    *   Warren16
+    *   Sanders11
+    *   Harris3
+    *   Buttigieg4
+    *   Booker2
+    *   Steyer3
+    *   O'Rourke2
+    *   Gabbard1
+    *   Klobuchar1
+    *   Yang0
+    *   Delaney0
+    *   Ryan0Biden +21
 *   President Trump Job ApprovalNPR/PBS/Marist
     *   Approve45
     *   Disapprove51Disapprove +6
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve48
     *   Disapprove50Disapprove +2
-*   2020 Democratic Presidential NominationHarvard-Harris
-    *   Biden28
-    *   Warren17
-    *   Sanders16
-    *   Buttigieg3
-    *   Harris6
-    *   Yang3
-    *   O'Rourke3
-    *   Castro2
-    *   Booker2
-    *   Klobuchar1
-    *   Gabbard1
-    *   Bennet
-    *   Steyer2Biden +11
-*   President Trump Job ApprovalHarvard-Harris
-    *   Approve46
-    *   Disapprove54Disapprove +8
 
 More Latest Polls In The News
 
+*   CNN's Gergen: If Something Happens To Whistleblower, "The Blood Is Going To Be" On Trump's Hands
+*   Giuliani: This Document Shows Ukrainian Prosecutor Saying Under Oath He Was Fired For Investigating Biden
+*   Hillary Clinton: "Trump Knows He's An Illegitimate President," "Insomuch As He Has A Conscience"
+*   Graham: "Why Did They Change The Rules" Allowing Whistleblowers To Cite Hearsay? "This Thing Stinks"
 *   Maher: Self-Loathing "White Shame" Among Liberals Is Just "Tedious Virtue Signaling," It's Not Helping
-*   Giuliani: Shouldn't Biden Be Investigated Over Ukraine If Trump Can Be Impeached Over It? Why Is It So Hard?
-*   Hillary Clinton: Donald Trump Poses A "Clear And Present Danger To Our Future And Our Democracy"
-*   Chris Wallace: Spin About Whistleblower By Defenders Of The President Has Been "Deeply Misleading"
-*   Geraldo Rivera: "This Poor President," His Whole Tenure In Office Defined By "Snitches And Rats And Backstabbers"
 
 *   Politics
 *   Policy
@@ -304,4 +313,4 @@ More Latest Polls In The News
 *   RSS
 *   View Mobile Site
 
-Copyright © 2019 RealClearHoldings, LLC. ©2019 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=null&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
+Copyright © 2019 RealClearHoldings, LLC. ©2019 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=null&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>. advertisementadvertisementadvertisement
