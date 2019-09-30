@@ -71,15 +71,25 @@ A business subject to California Civil Code section 1798.83 is required to discl
 
 A business subject to California Business and Professions Code Section 22581 must allow California residents under age 18 who are registered users of online sites, services or applications to request and obtain removal of content or information they have publicly posted. Your request should include a detailed description of the specific content or information to be removed. Please be aware that your request does not guarantee complete or comprehensive removal of content or information posted online and that the law may not permit or require removal in certain circumstances. You can contact us by email at privacy@visible.com.
 
-VII. INTERNATIONAL USERS
+VII.    NEVADA PRIVACY RIGHTS
+
+Nevada customers can opt out of the potential future sale of their personal information
+
+Visible doesn’t sell personal information today and we don’t have plants to start. However, Nevada customers can opt out now should we ever change our practices and offer information for sale in the future.
+
+Nevada law defines “sale” as the exchange of certain customer information for money, where the recipient also intends to sell that information. Customer information includes name, address, phone number, SSN, or any identifier that can be used to contact you electronically.
+
+To opt out of the potential future sale of your personal information, send an email to privacy@visible.com.
+
+VIII. INTERNATIONAL USERS
 
 Our sites, apps and service are designed for and targeted to U.S. audiences and are governed by and operated in accordance with the laws of the U.S. We make no representation that our apps, sites or service are operated in accordance with the laws or regulations of any other nation. By using our apps, sites or service and providing us with information, you understand and agree that your information may be transferred to and stored on servers located outside your resident jurisdiction and, to the extent you are a resident of a country other than the United States, that you consent to the transfer of such data to the United States for processing by us in accordance with this Privacy Policy.
 
-VIII. CHANGES TO THE PRIVACY POLICY
+IX. CHANGES TO THE PRIVACY POLICY
 
 We may update this Privacy Policy from time to time. When we update the Privacy Policy, we will revise the “Effective Date” date above and post the new Privacy Policy.
 
-IX. STILL HAVE QUESTIONS?
+X. STILL HAVE QUESTIONS?
 
 If you have any questions about this Privacy Policy or our practices, please contact us at privacy@visible.com.
 
