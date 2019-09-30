@@ -364,17 +364,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Greg Lesnewich - Recorded Future
-    *   Defense Dept. unveils counter-insider threat program
-    *   Voting equipment vendors seek info on vulnerability disclosure program
-    *   Senate committee election security funding encouraging
-    *   Microsoft patches flaws in IE, Defender
-    
-    *   Ophir Harpaz - Guardicore
-    *   Ning Wang - Offensive Security
-    *   Millions of YouTube accounts hijacked through phishing and compromised 2FA
-    *   Senate committee election security funding encouraging
+    *   Announcing the 2019 Reboot Leadership Award winners
+    *   Lorelei Chernyshov - Merrick Bank
     *   WordPress Rich Review plugin vulnerable to malvertising
+    *   Reports: Actively exploited zero-day found in vBulletin forum software
+    *   27 nations ink cybersecurity pledge
+    
+    *   Greg Lesnewich - Recorded Future
+    *   WordPress Rich Review plugin vulnerable to malvertising
+    *   Microsoft patches flaws in IE, Defender
+    *   27 nations ink cybersecurity pledge
+    *   Apple iOS 13.1 will fix location privacy bug, lockscreen bypass exploit
     
     *   Scammers using Google Alerts to spread malware, fraud
     *   Fileless malware campaign abuses legit tools Node.js and WinDivert
