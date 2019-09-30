@@ -60,7 +60,7 @@ SUBSCRIBE NOW99¢ per month. Save 90%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowLive: El Paso HS Football Week Scores, UpdatesHigh-schoolWalmart to reopen in November after mass shootingNewsThe Real-Life Serial Killer Behind AHS 1984NewsFamily suing Walmart will be allowed into storeLocalUTEP launches paid teacher residency programEducationGloria Chavez takes over El Paso Border PatrolNewsAlbertsons, Cinemark go to new El Paso centersBusinessJoel Garcia Jr. gets 33 years in deadly crashNewsInmates donate funds for Walmart shooting orphansLocalWill Hurd: Allegations against Trump 'disturbing'PoliticsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowEl Paso athletes shine in collegeSportsEl Paso's most wanted fugitives for the week of Sept. 29, 2019CrimeSheriff's Office, family mourn jail officer killed by DWI suspectCrimeOne killed in West Side collisionTrafficHow to watch, listen to Cowboys-SaintsNflUTEP can't overcome errors against Southern MissCollegeLive: El Paso HS Football Week Scores, UpdatesHigh-schoolWalmart to reopen in November after mass shootingNewsMan gets life in prison for couple's murdersCrimeUTEP launches paid teacher residency programEducationHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
