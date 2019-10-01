@@ -185,9 +185,6 @@ Ready to talk? Contact us 
     *   Partners
     *   Giving Back
 *   Publishers
-    *   Benefits
-    *   Integrations
-    *   Join Us
 
 Let's Connect!
 
