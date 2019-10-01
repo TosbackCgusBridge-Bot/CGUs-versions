@@ -1,6 +1,6 @@
 Privacy Policy  
 
-L.L.Bean respects your privacy and the security of your personal information. For this reason, we have updated our Privacy Policy (“Policy”) as of November 6, 2018. It describes the information that we collect, how we use it and what choices you have. This Policy applies when you access our websites and mobile applications, shop in our Retail Stores and Outlets, contact us by phone, email, and chat or connect with us in any other manner, including in our social media channels.
+L.L.Bean respects your privacy and the security of your personal information. For this reason, we have updated our Privacy Policy (“Policy”) as of September 30, 2019. It describes the information that we collect, how we use it and what choices you have. This Policy applies when you access our websites and mobile applications, shop in our Retail Stores and Outlets, contact us by phone, email, and chat or connect with us in any other manner, including in our social media channels.
 
 At certain times, we may provide additional policies to which you must agree separately. For example, when you participate in an L.L.Bean Outdoor Discovery Program additional terms will apply.
 
@@ -59,13 +59,15 @@ The additional information that we receive from you and gather from other source
 
 **Sharing Your Information**
 
+We work closely with our partners to ensure that your privacy is respected and protected and require these third parties keep your personal information secure and where applicable confidential.
+
 We partner with third-party companies that provide certain services for us and we share your information with these companies, so that they can perform those services on our behalf. We have partners who help us with things such as shipping, name and address verification, email distribution, market research, survey distribution, L.L.Bean advertising across third-party platforms, promotions management, fraud protection &. investigation, and payment processing (to view PayPal’s privacy policy, please visit https://www.paypal.com/privacy). We may also share your information with our credit card issuer for the purposes of managing and promoting L.L.Bean’s co-branded credit card.
 
 We partner with third parties, such as Facebook and Google, to serve you ads that we think may interest you. These third parties may combine the information we share with them with information already in their possession. they may also offer you choices about which ads you see on their platforms.
 
 We also partner with third-party vendors that use analytics data for a variety of purposes such as to improve the design and content of our websites, to help us learn which pages are most attractive to all of our visitors and what promotions visitors like to see, and to gauge the success of our advertising campaigns. One such vendor is Google Analytics. Please click here for more information about how data is collected and processed in connection with the Google Analytics service: www.google.com/policies/privacy/partners/.
 
-We work closely with our partners to ensure that your privacy is respected and protected and require these third parties keep your personal information secure and confidential. We may allow some of our third-party partners to use the information we share with them for their own purposes, but only if it is anonymized and aggregated, so that it cannot be linked back to any individual or L.L.Bean.
+From time to time we may share your information with certain companies, via a cooperative database, who may offer you products and services of interest. If you do not want your personal information shared with other companies for marketing purposes, please contact us.
 
 On rare occasions, we may disclose specific information upon governmental request, in response to a court order, when we have a good faith belief that we are required to do so by law, or where otherwise permitted by law.
 
@@ -133,6 +135,10 @@ If our practices change, we will make the necessary changes to this privacy poli
 *   We will only use the information you provide to us, such as the information you provide when placing an order, for our own marketing purposes if you consent to that use.
 *   If you wish to take advantage of any of your rights pursuant to the European Union Data Protection Regulation (GDPR), such as the Right to Erasure (otherwise known as the “Right to be Forgotten”), please contact us directly and we will be happy to assist you.
 *   If you feel our customer service department has not appropriately responded to your request pursuant to the GDPR, you may contact L.L.Bean’s Data Protection Officer (DPO) directly. Please send all correspondence to: Michael K. Mahoney, Attn: DPO, 15 Casco Street, Freeport, ME 04033 or by email to dataprivacyofficer@llbean.com.
+
+**Nevada Residents**
+
+If you are a resident of Nevada, please note that the way L.L.Bean shares information is described in this privacy policy. If you have questions, concerns, or comments, please contact us.
 
 **Contact Us**
 
