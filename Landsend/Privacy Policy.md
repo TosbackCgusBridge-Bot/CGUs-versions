@@ -38,7 +38,7 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 
 Receive 40% off full-price styles, plus free shipping to most U.S. and Canadian addresses!
 
-code: PINECONE pin: 1122PROMOTION DETAILS
+code: PINECONE pin: PROMOTION DETAILS
 
 Customer Service Menu
 
@@ -61,11 +61,7 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Find an answer fast
-
-Search the Lands' End Help Center.
-
-Search the Lands' End Help Center. Go Privacy Policy Last Updated: May 21, 2018
+Privacy Policy Last Updated: May 21, 2018
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
