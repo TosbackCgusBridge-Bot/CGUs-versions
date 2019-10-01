@@ -1,6 +1,6 @@
 Vimeo Privacy Policy
 
-Last Updated: August 30, 2018
+Last Updated: September 30, 2019
 
 This Privacy Policy explains the information that Vimeo collects when you use its products and services, how that information is used, with whom it may be shared, and your privacy choices.
 
@@ -22,7 +22,7 @@ This Privacy Policy explains the information that Vimeo collects when you use it
 
 1\. Introduction Who we are and what we do
 
-This Privacy Policy covers Vimeo, Inc. and its subsidiaries including Livestream LLC (collectively, **"Vimeo," "we" "us"** or **"our"**). We provide online video sharing and related services through our websites, including Vimeo.com and Livestream.com, our branded applications for mobile and connected devices, and our embeddable video players. We also offer video-related devices, such as Mevo cameras and accessories.
+This Privacy Policy covers Vimeo, Inc. and its subsidiaries including Livestream LLC (collectively, **"Vimeo," "we" "us"** or **"our"**). We provide online video sharing and related services through our websites, including Vimeo.com and Livestream.com, our branded applications for mobile and connected devices, and our embeddable video players.
 
 Acceptance and Changes
 
@@ -30,7 +30,7 @@ By registering for, downloading, or using our services, you accept this Privacy 
 
 2\. Children's Privacy
 
-We do not knowingly collect information of persons who are under the minimum required ages specified herein. Residents of the European Union must be at least 16. Persons outside of the EU must be at least 13. Persons who are under 18 must obtain parental consent to use our services.
+We do not knowingly collect personal information from individuals who are under the minimum required ages specified herein. You must be at least 13 years old to create an account. If you reside in the European Union, you must be at least 16 years old or the age of majority in your jurisdiction, whichever is greater. Individuals under the applicable age may use our services only through a parent or legal guardian's account and with their involvement. If you are a parent or legal guardian who believes your child has provided personal information to Vimeo without your consent, you may ask us to delete such information by contacting us at privacy@vimeo.com.
 
 3\. Data We Collect About You
 
@@ -42,7 +42,7 @@ To create an account, you must provide a valid email address and password. If yo
 
 Financial Information
 
-To buy an item, you may need to provide a valid payment method (e.g., credit card or PayPal account). Your payment information will be collected and processed by our authorized payment vendors. We do not directly collect or store credit or debit card numbers ourselves in the ordinary course of processing transactions. If we allow purchase through a third-party platform (i.e., in-app purchase), the payment method stored with the third-party platform will be charged.
+To make a purchase, you may need to provide a valid payment method (e.g., credit card or PayPal account). Your payment information will be collected and processed by our authorized payment vendors. We do not directly collect or store credit or debit card numbers ourselves in the ordinary course of processing transactions. If we allow purchase through a third-party platform (i.e. in-app purchase), the payment method stored with the third-party platform will be charged.
 
 If you wish to sell items or earn money from advertising through our services, you must provide an account to receive funds and tax information, which may include your name, address, and taxpayer identification number.
 
@@ -60,7 +60,7 @@ We automatically collect certain types of data when you use our services, regard
 
 Physical Products
 
-We collect your shipping address to send you products you have ordered. We may automatically collect data concerning your use of our video devices.
+We collect your shipping address to send you products you have ordered.
 
 Information Collected by Third Parties
 
@@ -83,6 +83,15 @@ We may use your data for the following purposes:
 *   **Protecting your information:** Where appropriate, we may anonymize, backup, and delete certain data.
 
 We may use algorithms and other automated means to implement any of the above.
+
+Whenever we process your data for one of these purposes, we have determined that one or more of the following lawful bases apply:
+
+*   Performance of a contract;
+*   Legitimate commercial interest;
+*   Compliance with a legal obligation. or
+*   Consent
+
+If you require further information about the balancing test that Vimeo has undertaken to justify its reliance on legitimate interest as a lawful basis of processing, see **Section 15** for information on how to contact us.
 
 5\. With Whom We Share Your Data
 
@@ -187,12 +196,11 @@ Vimeo is based in the United States. We provide services globally using computer
 
 14.2 GDPR (EEA Users)
 
-This **Section 14.2** applies only to natural persons residing in the European Economic Area (for the purpose of this section only, "you" or "your" shall be limited accordingly). It is Vimeo's policy to comply with the EU's General Data Protection Regulation (GDPR). In accordance with the GDPR, we may transfer your personal information from your home country to the U.S. (or other countries) based upon the following legal frameworks:
+This **Section 14.2** applies only to natural persons residing in the European Economic Area (for the purpose of this section only, "you" or "your" shall be limited accordingly). It is Vimeo's policy to comply with the EU's General Data Protection Regulation (GDPR). In accordance with the GDPR, we may transfer your personal information from your home country to the U.S. (or other countries) based upon the following legal bases:
 
-*   Legitimate business interests: We could not provide our services or comply with our obligations to you without transferring your personal information to the U.S.
-*   Consent: We may transfer your personal information when we receive your express, revocable consent.
+*   Legitimate business interests: We could not provide our services or comply with our legal obligations without transferring your personal information to the U.S.
 *   Our use of Standard Contractual Clauses (also known as "Model Clauses") where appropriate.
-*   The EU-U.S. and Swiss-U.S. Privacy Shield frameworks, as described further below.
+*   Our certification and adherence to the EU-U.S. and Swiss-U.S. Privacy Shield frameworks, as described further below.
 
 You have the right to: opt out of non-essential cookies (see our Cookie Policy). access, correct, delete, restrict, or object to our use of your personal information. be forgotten. port your data. and withdraw consents. We enable exercise of these rights primarily through our services (which we reserve the right to modify). For example, we allow users to change their information, download their videos, and close their accounts. We also fulfil our obligations in response to direct requests. We will endeavor to process requests within one month. Please note that we may not be able to comply with requests to the extent that they would cause us to violate any law or infringe any other person's rights. We reserve the right to request appropriate identification. We will process requests free of charge unless they would impose an unreasonable cost on us.
 
@@ -200,13 +208,13 @@ If you have a request, complaint or inquiry, please contact our Data Protection 
 
 14.3 Privacy Shield (EU and Swiss Users)
 
-This **Section 14.3** applies only to natural persons residing in the European Union and Switzerland (for the purpose of this section only, "you" or "your" shall be limited accordingly). Vimeo complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework (collectively, **"Privacy Shield"**) regarding the collection, use, and retention of personal information transferred from the EU to the U.S.
+This **Section 14.3** applies only to natural persons residing in the European Union, the United Kingdom and Switzerland (for the purpose of this section only, "you" or "your" shall be limited accordingly). Vimeo complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework (collectively, "**Privacy Shield**") as established by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the EU, the United Kingdom and/or Switzerland, as applicable, to the U.S.
 
 Vimeo adheres to the Privacy Shield principles of notice, choice, onward transfer, security, data integrity, access, and enforcement (the **"Privacy Shield Principles"**). Vimeo has established policies and procedures to ensure compliance with the Privacy Shield Principles and will conduct an annual internal assessment to ensure such compliance. If there is any conflict between the terms of this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
 
 Vimeo has certified to the U.S. Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view Vimeo's certification, please visit https://www.privacyshield.gov. By making this certification, Vimeo is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
-Where Vimeo has transferred personal information of EU or Swiss residents to third parties, Vimeo shall be liable if those third parties do not process personal information in compliance with the Privacy Shield Principles. This shall not be the case where Vimeo establishes that it is not responsible for the damage caused by the third party.
+Where Vimeo has transferred personal information of EU, UK or Swiss residents to third parties, Vimeo shall be liable if those third parties do not process personal information in compliance with the Privacy Shield Principles. This shall not be the case where Vimeo establishes that it is not responsible for the damage caused by the third party.
 
 In accordance with Privacy Shield Principles, Vimeo commits to resolve complaints about our collection or use of your personal information. If you have inquiries or complaints regarding our Privacy Shield policy, you should first contact Vimeo at the address listed in **Section 15**. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact our independent recourse mechanism provider, JAMS, at https://www.jamsadr.com/eu-us-privacy-shield, to file a complaint. JAMS' services are provided at no cost to you.
 
@@ -216,12 +224,16 @@ If you have an unresolved complaint after contacting both Vimeo and JAMS, you ma
 
 California residents have the right to opt out of disclosing information to third parties for the purpose of allowing such third parties to directly market their products and services. At this time, we do not engage in this type of disclosure. If you have questions, please contact us.
 
+14.5 Nevada User Rights
+
+Under Nevada law, Nevada residents may opt out of the sale of certain "covered information" collected by operators of websites or online services. We currently do not sell covered information, as "sale" is defined by such law, and we don't have plans to sell this information. However, if you would like to be notified if we decide in the future to sell personal information covered by the Act, you can provide us with your name and email address here. You are responsible for updating any change in your email address by the same method and we are not obligated to cross-reference other emails you may have otherwise provided us for other purposes. We will maintain this information and contact you if our plans change. At that time, we will create a process for verifying your identity and providing an opportunity to verified consumers to complete their opt-out. Please become familiar with our data practices as set forth in this privacy policy. We may share your data as explained in this privacy policy, such as to enhance your experiences and our services, and those activities will be unaffected by a Nevada do not sell request.
+
 15\. How to Contact Us
 
 For any questions, inquiries, or complaints relating to your privacy, please contact us at:
 
 > **Vimeo, Inc.**  
+> Attention: Data Protection Officer  
 > 555 West 18th Street  
 > New York, New York 10011  
-> Attention: Data Protection Officer  
 > Privacy@vimeo.com
