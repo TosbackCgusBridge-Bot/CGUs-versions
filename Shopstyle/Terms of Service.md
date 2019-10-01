@@ -1,4 +1,4 @@
-POPSUGAR Terms of Service
+POPSUGAR Terms of Service May 24, 2018
 
 Effective: June 10, 2019
 
