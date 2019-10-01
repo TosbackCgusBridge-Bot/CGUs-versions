@@ -149,7 +149,7 @@ Lenovo Explore Close
         
         *   Top Brands
         *   Lenovo
-        *   Think Pad
+        *   ThinkPad
         *   Yoga
         *   Logitech
         *   Xerox
