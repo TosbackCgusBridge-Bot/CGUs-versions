@@ -261,6 +261,8 @@ In addition, members of our loyalty programs can opt out from marketing-related 
   
 We will try to comply with your request as soon as reasonably practicable. If you opt out of receiving marketing emails from us, we may still send you important administrative messages, from which you cannot opt out.  
   
+Special Notice for Nevada Residents: To exercise your rights under the Nevada Privacy Law (NRS Ch. 603A, Sec. 2(2)), please contact us at privacy@marriott.com.  
+  
 Special Notice for California Residents: Customers who reside in California and have provided their Personal Data to us can request, once per calendar year, information about our sharing of certain categories of Personal Data to third parties and within the Marriott Group, for their direct marketing purposes. Such requests should be submitted to us at privacy@marriott.com or:  
   
 Marriott International, Inc.  
@@ -500,4 +502,4 @@ Loading...
 
 Tracking Preferences Terms of Use Program Terms &. Conditions Privacy Center Digital Accessibility Site Map Help*   Loading...
     
-prod9,95C1B5FE-3461-5E70-952D-823B0CB4A225
+prod9,5D3C49A9-CED5-56CE-B7A0-A8AEB6E00CAB
