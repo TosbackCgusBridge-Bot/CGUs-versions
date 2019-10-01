@@ -364,17 +364,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Announcing the 2019 Reboot Leadership Award winners
-    *   Lorelei Chernyshov - Merrick Bank
-    *   WordPress Rich Review plugin vulnerable to malvertising
-    *   Reports: Actively exploited zero-day found in vBulletin forum software
-    *   27 nations ink cybersecurity pledge
+    *   Jennifer Steffens - IOActive
+    *   Dani Martínez - IOActive
+    *   Eight cities' payment records impacted in Click2Gov portal breach
+    *   Defense Dept. unveils counter-insider threat program
+    *   Whistleblower: White House moved record of call with Ukraine president to separate classified network
     
-    *   Greg Lesnewich - Recorded Future
-    *   WordPress Rich Review plugin vulnerable to malvertising
-    *   Microsoft patches flaws in IE, Defender
-    *   27 nations ink cybersecurity pledge
-    *   Apple iOS 13.1 will fix location privacy bug, lockscreen bypass exploit
+    *   Ophir Harpaz - Guardicore
+    *   Apple updates software, warns of flaw affecting third-party keyboard apps
+    *   Eight cities' payment records impacted in Click2Gov portal breach
+    *   Adobe patches two critical issues with Cold Fusion
+    *   Second phishing campaign featuring LookBack malware targets U.S. utilities
     
     *   Scammers using Google Alerts to spread malware, fraud
     *   Fileless malware campaign abuses legit tools Node.js and WinDivert
@@ -412,8 +412,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. X
 
 You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
