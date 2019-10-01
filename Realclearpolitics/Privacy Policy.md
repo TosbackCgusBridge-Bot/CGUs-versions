@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -113,53 +115,53 @@
     *   About
     *   Media Kit
 
-*   _Derek Hunter_: If Impeachment Case Is So Strong, Why Are Liberals Lying?
+*   _Gregg Jarrett_: Ukraine Is Latest 'Witch Hunt' to Drive Trump From Office
     
-*   _Allan Lichtman_: Impeachment Favors Democrats in the Election
+*   _Michael Luo_: Trump Will Further Erode Democracy During Impeachment
     
-*   _Kyle Smith_: Impeachment Saga Is Pointless Reboot of 1999 Clinton Effort
+*   _Bob Barr_: IC Management Behind 'Whistleblower' Saboteurs
     
-*   _Hanna Trudo_: Kamala Harris Touts Tough Image as Race Slips in Key States
+*   _Dahlia Lithwick_: Does Trump Even Realize He's Done Anything Wrong?
     
-*   _John Hirschauer_: Joe Biden vs. the Democratic Economy Truthers
+*   _Jim Geraghty_: Hunter Biden: The Most Comprehensive Timeline
     
-*   _Andrew Desiderio_: Did Republicans Lose Orange County for Good?
+*   _Clare Malone_: Joe Biden: The Front-Runner?
     
-*   _Conrad Black_: Why Donald Trump Will Win Big in 2020
+*   _Rick Ridder_: Play Ball! The Democrats' Presidential Roster
     
-*   _Ruth Ben-Ghiat_: Trump's Authoritarian Tendencies Come Back to Bite Him
+*   _Alexander Agadjanian_: Independents Turned Off By Democrats' Lurch Left
     
-*   _Thomas Farnan_: Trump Has the Bad Guys Surrounded in Ukraine
+*   _Rebecca Traister_: The Toll of Me Too: Was It Worth It?
     
-*   _Coleman Hughes_: The Case for Black Optimism
+*   _Teresa Manning_: Campus Culture, Title IX Sex Police Meet Due Process
     
-*   _Roger Kimball_: Impeachment Frenzy Making Fools of Dems
+*   _Marina Koren_: SpaceX Has Starry-Eyed Ambitions for Its Starship
     
-*   _Lili Loofbourow_: The Week That Changed Everything for Democrats
+*   _Stephen Collinson_: Democrats Aim for Speedy Impeachment Push
     
-*   _Byron York_: Eight Keys to the Coming Impeachment Fight
+*   _Frank Miele_: Politically Motivated Impeachment No Laughing Matter
     
-*   _Samuelsohn &. Forgey_: Will Impeachment Get the Merrick Garland Treatment?
+*   _Robert Reich_: Why Trump's Impeachment Is Imperative
     
-*   _Schweizer &. McLeod_: Busting Biden Myths on Ukraine Dealings
+*   _Victor Davis Hanson_: Impeachment Coup Analytics
     
-*   _Kevin Poulsen_: The Truth About Trump's Ukraine 'Server' Conspiracy
+*   _Doug Schoen_: Dems Risk It All Moving Full Speed Ahead with Impeachment
     
-*   _Philip Wegmann_: Possible Impeachment Upshot? A Bipartisan Trade Deal
+*   _David Catron_: Senate Shouldn't Dignify Impeachment Parody With a Trial
     
-*   _Jacob Heilbrunn_: Will Impeachment Push Hillary Clinton to Run?
+*   _Bill Scher_: Trump's Impeachment Is an Opportunity for Unity
     
-*   _Gabriel DeBenedetti_: Is It the End of the Road for Most of the 2020 Field?
+*   _Abby McCloskey_: Impeachment Will Feed Extreme Polarization
     
-*   _James Freeman_: Bernie Sanders' Plan to Abolish American Billionaires
+*   _Liz Peek_: Dems Ditch Biden in Zeal to Impeach - Ensuring Trump Wins
     
-*   _Richard Parker_: The Era of GOP Dominance in Texas Is Over
+*   _Holly Otterbein_: Bernie Sanders Is in Trouble
     
-*   _Bjorn Lomborg_: On Climate Change, Humanity Is Not 'Evil'
+*   _Sonne_: The Story of Hunter Biden's Foray Into Ukraine
     
-*   _Amanda Marcotte_: Why Conservatives Are Scared of Greta Thunberg
+*   _Paul Sperry_: Justice Dept. Watchdog Has Held His Fire on Powerful People
     
-*   _Dan Gainor_: Anti-Trump Media Doing Their Best to Get President Impeached
+*   _Jake Kornack_: Climate: Change We Can Believe In
     
 
 *   Previous
@@ -230,10 +232,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Cohen: Welcome to Russia Hoax 2.0
-*   Pelosi Says Barr's "Gone Rogue," Alleges "Cover-Up of the Cover-Up"
-*   Emboldened Dems Renew Kavanaugh, Menashi Fights
-*   Biden's Odds for Dem Nomination Plunge, Warren Jumps to Big Lead
+*   Justice Dept. Watchdog Has Held His Fire on Powerful People
+*   Possible Impeachment Upshot? A Bipartisan Trade Deal
+*   Graham: Why Did They Change Rules Letting Whistleblowers Cite Hearsay?
+*   Some Democrats Seek to Renew Kavanaugh, Menashi Fights
 *   2020 Dem Candidates Condemn Trump, Sidestep Questions on Biden
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -247,48 +249,45 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Nevada Democratic Presidential CaucusCNN
-    *   Biden22
-    *   Sanders22
-    *   Warren18
-    *   Harris5
-    *   Buttigieg4
-    *   Steyer4
+*   2020 Democratic Presidential NominationPolitico/Morning Consult
+    *   Biden32
+    *   Warren21
+    *   Sanders19
+    *   Buttigieg5
+    *   Harris6
     *   Yang3
-    *   Booker2
-    *   O'Rourke0
-    *   Gabbard1
-    *   Castro0
-    *   Bennet0
-    *   Bullock0Tie
-*   South Carolina Democratic Presidential PrimaryCNN
-    *   Biden37
-    *   Warren16
-    *   Sanders11
-    *   Harris3
-    *   Buttigieg4
-    *   Booker2
-    *   Steyer3
-    *   O'Rourke2
-    *   Gabbard1
+    *   O'Rourke3
+    *   Castro1
+    *   Booker3
     *   Klobuchar1
-    *   Yang0
-    *   Delaney0
-    *   Ryan0Biden +21
-*   President Trump Job ApprovalNPR/PBS/Marist
-    *   Approve45
-    *   Disapprove51Disapprove +6
+    *   Gabbard1
+    *   Bennet1
+    *   Steyer1Biden +11
+*   North Carolina Democratic Presidential PrimaryHigh Point
+    *   Biden31
+    *   Sanders20
+    *   Warren15
+    *   Harris6
+    *   Buttigieg3
+    *   Yang4
+    *   Booker4
+    *   Castro1
+    *   O'Rourke1
+    *   Klobuchar1Biden +11
+*   President Trump Job ApprovalQuinnipiac
+    *   Approve41
+    *   Disapprove53Disapprove +12
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove50Disapprove +2
+    *   Approve49
+    *   Disapprove50Disapprove +1
 
 More Latest Polls In The News
 
+*   Giuliani: Biden Knew Media "Enablers" Would Let His Son Get Away With It, That's Why They Want To Silence Me
+*   Graham: Okay To Cooperate With Mueller To Get Trump, Not Okay To Work With Barr To Investigate Trump Probe
 *   CNN's Gergen: If Something Happens To Whistleblower, "The Blood Is Going To Be" On Trump's Hands
-*   Giuliani: This Document Shows Ukrainian Prosecutor Saying Under Oath He Was Fired For Investigating Biden
 *   Hillary Clinton: "Trump Knows He's An Illegitimate President," "Insomuch As He Has A Conscience"
-*   Graham: "Why Did They Change The Rules" Allowing Whistleblowers To Cite Hearsay? "This Thing Stinks"
-*   Maher: Self-Loathing "White Shame" Among Liberals Is Just "Tedious Virtue Signaling," It's Not Helping
+*   Watch: Trump Gives High Praise To Mark Levin For Explosive "FOX &. Friends" Segment On Ukraine
 
 *   Politics
 *   Policy
@@ -313,4 +312,4 @@ More Latest Polls In The News
 *   RSS
 *   View Mobile Site
 
-Copyright © 2019 RealClearHoldings, LLC. ©2019 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=null&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>. advertisementadvertisementadvertisement
+Copyright © 2019 RealClearHoldings, LLC. ©2019 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=null&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
