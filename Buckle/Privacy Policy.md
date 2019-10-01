@@ -363,7 +363,7 @@ SubmitSubmitPrivacy &. Security
 
 **Buckle Privacy &. Security Policy**
 
-Buckle cares about the privacy of our guests. Our goal is to provide the best shopping experience possible for you, and we strive to achieve that goal through our various shopping channels, including in-store, online, mobile and via telephone. This Privacy &. Security Policy (“Policy”) describes the information we collect about you and what we do with it. By visiting buckle.com, you are accepting the practices described in this Policy.
+Buckle cares about the privacy of our guests. Our goal is to provide the best shopping experience possible for you, and we strive to achieve that goal through our various shopping channels, including in-store, online, mobile and via telephone. This Privacy &. Security Policy (“Policy”) describes the information we collect about you and what we do with it. By visiting a store or buckle.com, downloading Buckle’s mobile application or calling Guest Services, you are accepting the practices described in this Policy.
 
 **What We Collect**
 
@@ -375,7 +375,7 @@ Buckle cares about the privacy of our guests. Our goal is to provide the best sh
 *   Video Recordings: For security and loss prevention purposes, stores have a video monitoring system in place at all times that may capture your image.
 *   Call Recordings: Notes about your call and what you shared during your call.
 *   Device and Browsing Information: Information about your phone, tablet, computer or device and online browsing activity, including but not limited to your device’s information, current location, domain type, browser version, service provider or IP address. We also collect information about where you go on buckle.com and our technical efficiencies of your visit, such as the time you visited our website or the time it took to connect to the website or download pages.
-*   Social Media Information: If you use social media (e.g. Facebook, Instagram, SnapChat, Twitter or Pinterest) to connect with us, information that you share with us via your posts or information that you have approved the social media platform or network to share with us.
+*   Social Media Information: If you use social media (e.g. Facebook, Instagram, SnapChat, Twitter or Pinterest) to connect with us, information you share via your posts, or information you have approved via the social media platform or network to share.
 
 **How We Collect Your Information**
 
@@ -403,21 +403,21 @@ Buckle does not sell, rent or lease the personal information of any of our guest
 
 **Third Parties We Work With**
 
-Buckle carefully selects third party companies and allow them to collect certain information (i.e. domain type, browser version, service provider and IP address) by placing cookies when you choose to visit Buckle.com. We use third parties to help us provide services related to payments, site activity, surveys, database maintenance, email administration, recruiting, sweepstakes and marketing. Following are examples of third parties that we may share your information with:
+Buckle carefully selects third party companies and allows them to collect certain information (i.e. domain type, browser version, service provider and IP address) by placing cookies when you choose to visit Buckle.com. We use third parties to help us provide services related to payments, site activity, surveys, database maintenance, email administration, recruiting, sweepstakes and marketing. Following are examples of third parties that we may share your information with:
 
-*   Buckle uses Google Analytics to report marketing program effectiveness. This third party company analyzes the information it collects on our behalf and returns it back to Buckle.com through a secure web connection. Google Analytics is contractually prohibited from using our data for any other purposes. For more information about Google Analytics, the data it collects and how that service processes your information, please visit "How Google Uses Data When You Use Our Partners' Sites or Apps" at Google - Privacy Policy. For more information, including how to opt-out, consult Google's privacy policy by clicking the following link: _Google Privacy._
+*   Buckle uses Google Analytics to report marketing program effectiveness. This third party company analyzes the information it collects on our behalf and returns it back to Buckle.com through a secure web connection. Google Analytics is contractually prohibited from using our data for any other purposes. For more information about Google Analytics, the data it collects and how that service processes your information, please visit "How Google Uses Data When You Use Our Partners' Sites or Apps" at _Google - Privacy Policy_ . For more information, including how to opt-out, consult Google's privacy policy by clicking the following link: _Google Privacy._
 *   Comenity Bank, who issues and owns the Buckle Card credit card accounts, and Buckle may share certain information about you. To view Comenity Bank’s privacy policy, click on the following link: _https://d.comenity.net/buckle/common/privacy/PrivacyLanding.xhtml_ .
-*   Buckle has partnered with talentReef, Inc. (“talentReef”) to assist with our recruitment process. If you create an account in Buckle.com’s “Job &. Careers” section or submit an online job application to Buckle.com, you will be providing your personal information directly to talentReef. For more information about privacy for Buckle’s job applicants, please visit Buckle’s Privacy and Security Policy for Applicants, which may be viewed by clicking this link: Privacy Policy - Applicant.
+*   Buckle has partnered with talentReef, Inc. (“talentReef”) to assist with our recruitment process. If you create an account in Buckle.com’s “Job &. Careers” section or submit an online job application to Buckle.com, you will be providing your personal information directly to talentReef. For more information about privacy for Buckle’s job applicants, please visit Buckle’s Privacy and Security Policy for Applicants, which may be viewed by clicking this link: _Privacy Policy - Applicant_ .
 *   To fill international orders, buckle.com partners with Pitney Bowes Global Ecommerce, formerly known as Borderfree, Inc. (“Borderfree”). Borderfree agrees not to sell, transfer or otherwise use your information other than for processing international shipments. Borderfree will collect your personal information during checkout and will provide this information to Buckle in connection with Borderfree performing its obligations under our agreement. Borderfree may also provide your personal information to certain service providers, including but not limited to delivery agents, customs brokers and fraud management parties, but will always limit the information provided to be that which is reasonably sufficient for those service providers to carry out their responsibilities. As of the effective date of this policy, Borderfree participates in and has certified its compliance with the EU-U.S. Privacy Shield Frameworks. For more information about Borderfree, the data it collects and how they process your information, please visit Borderfree’s privacy policy by clicking the following link: _Borderfree – Privacy Policy_ .
-*   For marketing analytics and troubleshooting issues guests may experience on the website, Buckle.com uses Mouseflow, a third-party analytics tool, to track page content and click/touch, movement, scroll, and keystroke activity. You can opt-out at https://mouseflow.com/opt-out/.
+*   For marketing analytics and troubleshooting issues guests may experience on the website, Buckle.com uses Mouseflow, a third-party analytics tool, to track page content and click/touch, movement, scroll, and keystroke activity. You can opt-out at _https://mouseflow.com/opt-out/_ .
 
-Buckle continually strives to maintain compliance with legal regulations. If we become aware of or have a good faith belief that we must disclose information about you in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity, we will disclose specific information about you to the appropriate legal authorities in order to protect the users of buckle.com or the public.
+Buckle continually strives to maintain compliance with legal regulations. If we become aware of or have a good faith belief that we must disclose information about you in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity, we will disclose specific information about you to the appropriate legal authorities in order to protect the users of buckle.com, Buckle’s app or the public.
 
 **Choices You Have**
 
 You have the following options when it comes to how your information is used by Buckle:
 
-*   Joining Buckle’s email list allows you to receive exclusive information about special offers, media events, new products and much more. If you’re not already registered, simply complete our _sign-up form_ to receive these special messages. You may also opt-in to our email database in-store at the cash register. Those names are electronically added in batch to our email database weekly. If you have opted-out of our email database in the past but have more recently opted back into our email database through the store register, we will renew your subscription at that time. If at any time you would like to stop future delivery of Buckle’s email messages, please follow the removal instructions located at the bottom of each email message. This will not prevent you from receiving email communications relating to any online order you place at Buckle.com, requests to participate in surveys about our products or other operational email communications.
+*   Joining Buckle’s email list allows you to receive exclusive information about special offers, media events, new products and much more. If you’re not already registered, simply complete our _sign-up form_ to receive these special messages. You may also opt-in to our email database in-store at the cash register. Those names are electronically added in batch to our email database weekly. If you have opted-out of our email database in the past but have more recently opted back into our email database through the store register, we will renew your subscription at that time. If at any time you would like to stop future delivery of Buckle’s email messages, please follow the removal instructions located at the bottom of each email message. This will not prevent you from receiving email communications relating to any online order you place at Buckle.com, reservations made on Buckle’s app, requests to participate in surveys about our products or other operational email communications.
 *   If you prefer not to receive prescreened credit offers from Buckle and other companies, you may call 1-888-5-OPTOUT or visit _www.optoutprescreen.com_ to limit access to your credit report information. According to the FTC, requests to opt out are processed within five days, but it may take up to 60 days before you stop receiving prescreened offers. If you later change your mind, you may use the same toll-free telephone number or website to opt back in.
 
 **Security &. Fraud**
@@ -429,25 +429,25 @@ In addition, Buckle does not require you to disclose more information than is re
 **Notices**
 
 *   If services are provided directly by a third party using a link from our website to theirs, the third party’s privacy policy and do-not-track practices apply. Buckle is not responsible for the privacy practices or the content of such third party websites.
-*   Children’s Privacy: We value our relationship with our guests of all ages. We welcome parents and their children to explore our website together. In accordance with the Children’s Online Privacy Protection Act, we will not gather or use personal information from any guest who indicates they are less than 13 years of age (or less than 18 years of age for residents of the state of Maine). A parent or guardian must assist a child in any sweepstakes or ordering activity online with buckle.com. If we become aware that we’ve gathered personal information from a minor, we will remove that information from our records immediately.
+*   Children’s Privacy: We value our relationship with our guests of all ages. We welcome parents and their children to explore our website together. In accordance with the Children’s Online Privacy Protection Act, we will not gather or use personal information from any guest who indicates they are less than 13 years of age (or less than 18 years of age for residents of the State of Maine). A parent or guardian must assist a child between the ages of 13 and 18 in any sweepstakes or ordering activity online with buckle.com. If we become aware that we’ve gathered personal information from a minor, we will remove that information from our records immediately.
 *   California Minors’ Privacy: Minors under age 18 that are residents of California and have an account on buckle.com may ask Buckle to remove content or information that such minor posted on Buckle.com by contacting our Guest Services Team at 800-607-9788 or _guest.services@buckle.com_ . We will need the minor’s first and last name, email address and social media identifiers. Please note that such request does not ensure complete or comprehensive removal of such minor’s content or information posted on Buckle.com.
 
 **Terms &. Conditions, Do-Not-Track Signals, Revisions**
 
 *   Use of buckle.com is subject to the _Terms and Conditions_ listed there.
 *   Do-Not-Track Signals: Since we do not collect personally identifiable information about your online activities across third-party websites or online services, Buckle does not search for or respond to do-not-track signals.
-*   If we materially alter our Policy, we will notify you of such changes by posting a notice on buckle.com. Your continued use of buckle.com will be deemed your agreement that your information may be used in accordance with the new policy. If you do not agree with the changes, then you should stop using buckle.com and you should notify us that you do not want your information used in accordance with the changes.
-*   If you have questions or concerns with respect to our Privacy &. Security Policy, please feel free to _contact us_ through email at _privacyofficer@buckle.com_ or by mail at:  
-    The Buckle, Inc.  
-    Attention: Privacy Officer  
-    P.O. Box 1480  
-    Kearney, NE 68848-1480  
-      
-    
+*   If we materially alter our Policy, we will notify you of such changes by posting a notice on buckle.com. Your continued use of buckle.com or Buckle’s app will be deemed your agreement that your information may be used in accordance with the new policy. If you do not agree with the changes, then you should stop using buckle.com or Buckle’s app, and you should notify us that you do not want your information used in accordance with the changes.
+
+If you have questions or concerns with respect to our Privacy &. Security Policy, or would like to make a request related to the exercise of a legal right under state law, please feel free _contact us_ through email at _privacyofficer@buckle.com_ or by mail at:  
+The Buckle, Inc.  
+Attention: Privacy Officer  
+P.O. Box 1480  
+Kearney, NE 68848-1480  
+Please note that requests may require verification of identity and authenticity.
 
 **Effective Date**
 
-This Privacy &. Security Policy supersedes all prior policies and is effective April 11, 2019.
+This Privacy &. Security Policy supersedes all prior policies and is effective October 1, 2019
 
 FAQs
 
