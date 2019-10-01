@@ -2,6 +2,8 @@ Search
 
 MyVanco Login
 
+Sign Up
+
 Sales: **855.712.8539**   Support: **800.675.7430**
 
 SearchUse up and down arrows to select available result. Press enter to go to selected search result. Touch devices users can use touch and swipe gestures.  
