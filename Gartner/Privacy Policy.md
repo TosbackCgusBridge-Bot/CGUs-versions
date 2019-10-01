@@ -60,7 +60,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 737 9023 1 855 737 9023
+    1 855 650 5874 1 855 650 5874
     
 
 *   Solutions By Function
@@ -125,7 +125,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 737 9023 1 855 737 9023
+    1 855 650 5874 1 855 650 5874
     
 
 GARTNER PRIVACY POLICY Effective Date: June 2019
