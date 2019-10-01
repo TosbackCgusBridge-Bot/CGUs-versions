@@ -5,34 +5,31 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Abominable (2019)
     *   Downton Abbey (2019)
+    *   Hustlers
+    *   It Chapter Two (2019)
     *   Ad Astra
     *   Rambo: Last Blood
-    *   It Chapter Two (2019)
-    *   Hustlers
-    *   The Lion King (2019)
+    *   Judy (2019)
     *   Good Boys (2019)
+    *   The Lion King (2019)
     *   Angel Has Fallen
-    *   Overcomer
     *   Fast &. Furious Presents: Hobbs &. Shaw
-    *   Dora and the Lost City of Gold
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Abominable (2019)
-    *   The Curse of Buckout Road
-    *   The Day Shall Come
-    *   First Love (2019)
-    *   The Golden Glove
-    *   Judy (2019)
-    *   Prey (2019)
-    *   Serie Noire
+    *   Joker (2019)
+    *   Lucy In The Sky
+    *   Pain and Glory
+    *   Roger Waters Us + Them
+    *   War (2019)
+    *   Wrinkles the Clown
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Joker (2019)
     *   The Addams Family (2019)
     *   Gemini Man
     *   High Strung Free Dance
@@ -42,6 +39,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Black and Blue (2019)
     *   Countdown (2019)
     *   The Current War: Director's Cut
+    *   Terminator: Dark Fate
     *   See All Coming Soon
     
     Explore More
@@ -69,9 +67,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie News: Spider-Man Remains in the MCU, Jonah Hill to Play Batman Villain and More Read More
-    *   Today in Movie Culture: ‘Judy’ Scene Breakdown, ‘Downton Abbey’ Director Commentary and MoreToday in Movie Culture: ‘Judy’ Scene Breakdown, ‘Downton Abbey’ Director Commentary and More Read More
-    *   Next 3 Major Sci-Fi Movies: 'Gemini Man,' 'Terminator: Dark Fate,' 'Star Wars: The Rise of Skywalker' Read More
+    *   'Frozen II': Meet the New Characters Read More
+    *   Today in Movie Culture: Imagining ‘Joker’ as a 1970s Movie, What If Clint Eastwood Starred in ‘Gemini Man’ and More Read More
+    *   Next 3 Major Animated Movies: 'The Addams Family,' 'Frozen II,' 'Spies in Disguise' Read More
     
     Explore Content
     *   Movie Reviews
@@ -297,17 +295,17 @@ Offers
     
     Sign up for a 'Cats' FanAlert™ for your chance to win a trip to the premiere in London! \*Terms apply. ENTER NOW
     
-*   Get your ShowPlace ICON tickets for $9.99 Each
-    
-    at Boston, Mountain View, and San Jose theaters featuring ICONX Dolby® ATMOS™ and heated recliners! \*Terms apply. BUY TICKETS
-    
-*   'Downton Abbey' Sweepstakes
-    
-    Enter for your chance to win a script of the movie signed by the cast! \*Terms apply. ENTER NOW
-    
 *   Fall Into a Perfect Night in
     
     Spend $75\* on gift cards and get 4 FREE movie rentals! \*Terms apply. BUY GIFT CARDS
+    
+*   FandangoNOW Fresh Picks
+    
+    100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
+    
+*   FandangoNOW Binge Bundles
+    
+    Rent multiple movies for one low price. Starting as low as $1.50 per movie. Many bundles available in stunning 4K Ultra HD. START BINGING
     
 
 New + Coming soon
