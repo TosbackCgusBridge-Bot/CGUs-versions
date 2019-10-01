@@ -40,20 +40,20 @@ Stock Quote and Chart
 
 Price
 
-$1.67
+$1.75
 
 Change
 
-\-0.01
++0.085
 
 Percent Change
 
-(0.00%)
+(+5.09%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Sep 25, 2019 Office Depot to Present at the Sidoti &. Company Fall Investor Conference Wednesday, September 25, 2019 view more Recent News Sep 25, 2019 Office Depot to Present at the Sidoti &. Company Fall Investor Conference Wednesday, September 25, 2019 view more Events Sep 26, 2019 Office Depot Presents at Sidoti &. Company’s Fall 2019 Investor Conference view more Events Sep 26, 2019 Office Depot Presents at Sidoti &. Company’s Fall 2019 Investor Conference view more Presentations Sep 25, 2019 Sidoti &. Company Fall Investor Conference view more Presentations Sep 25, 2019 Sidoti &. Company Fall Investor Conference view more
+Recent News Sep 30, 2019 Office Depot Extends Non-Recourse Debt to Align Maturity With Associated Timber Note Receivable view more Recent News Sep 30, 2019 Office Depot Extends Non-Recourse Debt to Align Maturity With Associated Timber Note Receivable view more Events Sep 26, 2019 Office Depot Presents at Sidoti &. Company’s Fall 2019 Investor Conference view more Events Sep 26, 2019 Office Depot Presents at Sidoti &. Company’s Fall 2019 Investor Conference view more Presentations Sep 25, 2019 Sidoti &. Company Fall Investor Conference view more Presentations Sep 25, 2019 Sidoti &. Company Fall Investor Conference view more
 
 *   Home
 *   News &. Events
