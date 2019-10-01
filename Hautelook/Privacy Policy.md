@@ -9,15 +9,35 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
+    *   AG Up to 60% Off
+    *   48 Hours Only: Dyson Supersonic Hair Dryer
+    *   AG Men Up to 60% Off
+    *   Designer Sun Under $100 ft. MCM
+    *   Tahari Outerwear Up to 70% Off
+    *   CeCe by Cynthia Steffe
+    *   Casual but Bold: Pam &. Gela
+    *   Layer on the Style: Naked Zebra
+    *   New Fall Styles ft. Superfoxx Dresses
+    *   Gibson &. More Under $25
+    *   Anna Beck Jewelry &. More
+    *   Crocs Kids
+    *   John Varvatos Star USA Up to 60% Off
+    *   Nine West Up to 50% Off
+    *   Sneakers for Every Style Up to 60% Off
+    *   Boho Styles ft. Kelsi Dagger Brooklyn
+    *   Free Shipping: Boho-Chic Decor Up to 75% Off
+    *   SKIN&CO Roma Skin Care Up to 55% Off
+    *   Free Shipping: Decals for Every Wall &. More
+    *   Bed|Stu Men
+    *   Kids' Fall Favorites: Roxy &. Quiksilver
     *   Designer Coats Up to 70% Off
     *   Free Shipping: Sterling Forever Jewelry Up to 60% Off
     *   Sandals, Sneakers &. More Up to 65% Off
-    *   Last Call: Dresses Up to 75% Off
     *   Free Shipping: Amrapur Towels Up to 70% Off
     *   Men's Shoes Up to 65% Off
     *   Baiser Beauty: Organic, Vegan Skin Care from $15
     *   Gear Up: NHL Tees &. Hats from $15
-    *   Free Shipping: Fashion &. Floral Art at $30
+    
     *   Vince Camuto Up to 75% Off Incl. Plus &. Petites
     *   Vince Camuto Shoes Up to 60% Off
     *   Vince Camuto Men Up to 70% Off
@@ -35,15 +55,9 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Skechers from $30
     *   Free Shipping: Down-Alternative Bedding &. More
     *   $25 &. Under: Nicole Miller Girls' Shoes
-    *   Kenneth Cole New York Men Up to 60% Off
-    *   Rain Boots ft. Sperry &. Chooka
-    *   Lego Finds: 24 Hours Only
-    *   Sunday Steals Up to 80% Off
-    
     *   KUT from the Kloth &. Democracy Incl. Plus and Petites
     *   St. John Collection
     *   Love Stitch
-    *   Z By Zella Incl. Plus
     *   Mirenesse Australia Up to 45% Off
     *   Predire Paris Luxury Skin Care Starting at $15
     *   Gemstones, Diamonds &. Sterling Silver from $20
@@ -52,6 +66,7 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Gentle Souls by Kenneth Cole Up to 60% Off
     *   Pumps &. Heels Under $50
     *   Chalmers PJs &. More
+    
     *   Angel Dear Up to 70% Off
     *   Fresh Finds: Shoes Up to 60% Off
     *   Nordstrom Rack Exclusives: Men's Suiting
@@ -61,51 +76,43 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Free Shipping: Pillows &. More Under $30
     *   Free Shipping: Pet-Friendly Covers &. More
     *   Nordstrom Rack Exclusives: Harper Canyon
-    *   Frye
-    *   Frye Men
-    *   Frye Men's Clothing &. More Up to 70% Off
-    *   Playful Prints: ARATTA &. More
-    *   Desk-to-Dinner Dresses: Nina Leonard &. More
-    *   Frye Handbags &. Accessories Up to 50% Off
-    *   Velvet Torch
-    *   On-Trend Fall Textures ft. FAVLUX from $15
-    *   Free Press &. Shimera
-    
-    *   GUESS Outerwear Up to 70% Off
-    *   14K Gold Jewelry Steals
     *   Free Shipping: Rustic Farmhouse Decor
-    *   Fall Sport Coats Under $150
     *   Violet Voss Palettes &. Lashes
-    *   Fall Ready: Kids' Boots Up to 50% Off
     *   Best Face Forward: Tools from $15
-    *   Ted Baker London Men's Shoes
-    *   Travis Mathew Men's &. Kids' Clothing
-    *   Joe Fresh Kids
     *   Free Shipping: Donna Salyers' Fabulous Faux Furs
     *   Free Shipping: Bedding Essentials Up to 65% Off
     *   Bebe &. Bella Probiotic Skin Care
-    *   Transition into Fall: Blu Pepper &. More
-    *   Casually Cool Styles ft. Cloth &. Stone
-    *   Kids' Weatherproof Boots ft. Bogs
-    *   Skin Care Must-Haves ft. Murad, philosophy &. More
     *   Kitchen Gadgets &. Storage Starting at $13
-    *   Glamlite Cosmetics Starting at $10
     *   Gifts with Flair: Water Bottles, Candles &. More
     *   Free Shipping: Kitchen Essentials Up to 55% Off
     *   Pendleton Home Up to 45% Off
-    *   Free Shipping: Decor Starting at $17
-    *   Color Pop: Wall Murals &. Decals
-    *   BEARPAW Men
-    *   Disney Favorites Starting at $10
-    *   Mia Belle Girls
+    *   Free Shipping: Fashion &. Floral Art at $30
+    *   Kenneth Cole New York Men Up to 60% Off
+    *   Rain Boots ft. Sperry &. Chooka
+    *   Last Call: Dresses Up to 75% Off
+    *   Sunday Steals Up to 80% Off
+    *   Transition into Fall: Blu Pepper &. More
     *   Final Few: Go Couture Dresses Up to 80% Off
     *   Water-Resistant Boots &. More ft. Blondo
 *   WomenShop Sale Events
     
+    *   AG Up to 60% Off
+    *   48 Hours Only: Dyson Supersonic Hair Dryer
+    *   Designer Sun Under $100 ft. MCM
+    *   Tahari Outerwear Up to 70% Off
+    *   CeCe by Cynthia Steffe
+    *   Casual but Bold: Pam &. Gela
+    *   Layer on the Style: Naked Zebra
+    *   New Fall Styles ft. Superfoxx Dresses
+    *   Gibson &. More Under $25
+    *   Anna Beck Jewelry &. More
+    *   Nine West Up to 50% Off
+    *   Sneakers for Every Style Up to 60% Off
+    *   Boho Styles ft. Kelsi Dagger Brooklyn
+    *   SKIN&CO Roma Skin Care Up to 55% Off
     *   Designer Coats Up to 70% Off
     *   Free Shipping: Sterling Forever Jewelry Up to 60% Off
     *   Sandals, Sneakers &. More Up to 65% Off
-    *   Last Call: Dresses Up to 75% Off
     *   Baiser Beauty: Organic, Vegan Skin Care from $15
     *   Vince Camuto Up to 75% Off Incl. Plus &. Petites
     *   Vince Camuto Shoes Up to 60% Off
@@ -115,20 +122,17 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Fall Essentials: Novelty &. Basic Sweaters
     *   Dazzlepro Teeth Whitening Up to 80% Off
     *   Jason Wu Sleepwear
+    
     *   Wild Style: Animal Print Dresses Under $85
     *   Kurt Geiger
     *   Vince Camuto Luggage Up to 75% Off
     *   Argan Oil Hair Products from Moroccan Gold Series
     *   Skechers from $30
-    *   Rain Boots ft. Sperry &. Chooka
-    *   Sunday Steals Up to 80% Off
     *   KUT from the Kloth &. Democracy Incl. Plus and Petites
     *   St. John Collection
     *   Love Stitch
-    *   Z By Zella Incl. Plus
     *   Mirenesse Australia Up to 45% Off
     *   Predire Paris Luxury Skin Care Starting at $15
-    
     *   Gemstones, Diamonds &. Sterling Silver from $20
     *   Cool-Girl Essentials from ASTR &. More
     *   Raymond Weil &. Bulova Watches
@@ -136,22 +140,13 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Pumps &. Heels Under $50
     *   Chalmers PJs &. More
     *   Fresh Finds: Shoes Up to 60% Off
-    *   Frye
-    *   Playful Prints: ARATTA &. More
-    *   Desk-to-Dinner Dresses: Nina Leonard &. More
-    *   Frye Handbags &. Accessories Up to 50% Off
-    *   Velvet Torch
-    *   On-Trend Fall Textures ft. FAVLUX from $15
-    *   Free Press &. Shimera
-    *   GUESS Outerwear Up to 70% Off
-    *   14K Gold Jewelry Steals
     *   Violet Voss Palettes &. Lashes
     *   Best Face Forward: Tools from $15
     *   Bebe &. Bella Probiotic Skin Care
+    *   Rain Boots ft. Sperry &. Chooka
+    *   Last Call: Dresses Up to 75% Off
+    *   Sunday Steals Up to 80% Off
     *   Transition into Fall: Blu Pepper &. More
-    *   Casually Cool Styles ft. Cloth &. Stone
-    *   Skin Care Must-Haves ft. Murad, philosophy &. More
-    *   Glamlite Cosmetics Starting at $10
     *   Final Few: Go Couture Dresses Up to 80% Off
     *   Water-Resistant Boots &. More ft. Blondo
     
@@ -160,76 +155,68 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Shoes
     *   Jewelry
     *   Lingerie
-    *   Handbags
-    *   Watches
     *   Accessories
+    *   Watches
+    *   Handbags
 *   MenShop Sale Events
     
+    *   AG Men Up to 60% Off
+    *   John Varvatos Star USA Up to 60% Off
+    *   Bed|Stu Men
     *   Men's Shoes Up to 65% Off
     *   Gear Up: NHL Tees &. Hats from $15
     *   Vince Camuto Men Up to 70% Off
     *   Vince Camuto Accessories Up to 55% Off
+    
     *   Cold-Weather Sneak Peek: Men's Accessories
-    *   Kenneth Cole New York Men Up to 60% Off
     *   Raymond Weil &. Bulova Watches
     *   Nordstrom Rack Exclusives: Men's Suiting
-    
     *   Dress Pants Under $50
     *   Vintage Foundry Up to 80% Off
-    *   Frye Men
-    *   Frye Men's Clothing &. More Up to 70% Off
-    *   Fall Sport Coats Under $150
-    *   Ted Baker London Men's Shoes
-    *   Travis Mathew Men's &. Kids' Clothing
-    *   BEARPAW Men
+    *   Kenneth Cole New York Men Up to 60% Off
     
     Shop By Category
-    *   Shoes
     *   Clothing
-    *   Accessories
+    *   Shoes
     *   Watches
+    *   Accessories
 *   KidsShop Sale Events
     
+    *   Crocs Kids
+    *   Kids' Fall Favorites: Roxy &. Quiksilver
     *   $25 &. Under: Nicole Miller Girls' Shoes
-    *   Lego Finds: 24 Hours Only
     *   Angel Dear Up to 70% Off
     *   Nordstrom Rack Exclusives: Harper Canyon
-    *   Fall Ready: Kids' Boots Up to 50% Off
-    *   Joe Fresh Kids
-    *   Kids' Weatherproof Boots ft. Bogs
-    *   Disney Favorites Starting at $10
-    *   Mia Belle Girls
     
     Shop By Category
     *   Girls' Sizes 2T-6X
-    *   Girls' Sizes 7-16
-    *   Boys' Sizes 2T-7
     *   Baby Girl
+    *   Girls' Sizes 7-16
     *   Girls' Shoes
-    *   Boys' Sizes 8-20
     *   Baby Boy
-    *   Baby Gear &. Essentials
     *   Boys' Shoes
-    *   The Toy Shop
+    *   Baby Gear &. Essentials
+    *   Boys' Sizes 2T-7
+    *   Boys' Sizes 8-20
 *   HomeShop Sale Events
     
+    *   Free Shipping: Boho-Chic Decor Up to 75% Off
+    *   Free Shipping: Decals for Every Wall &. More
     *   Free Shipping: Amrapur Towels Up to 70% Off
-    *   Free Shipping: Fashion &. Floral Art at $30
     *   Vince Camuto Luggage Up to 75% Off
     *   Free Shipping: Down-Alternative Bedding &. More
     *   Free Shipping: Limited Edition Wall Art
     *   Free Shipping: Pillows &. More Under $30
     *   Free Shipping: Pet-Friendly Covers &. More
-    *   Free Shipping: Rustic Farmhouse Decor
     
+    *   Free Shipping: Rustic Farmhouse Decor
     *   Free Shipping: Donna Salyers' Fabulous Faux Furs
     *   Free Shipping: Bedding Essentials Up to 65% Off
     *   Kitchen Gadgets &. Storage Starting at $13
     *   Gifts with Flair: Water Bottles, Candles &. More
     *   Free Shipping: Kitchen Essentials Up to 55% Off
     *   Pendleton Home Up to 45% Off
-    *   Free Shipping: Decor Starting at $17
-    *   Color Pop: Wall Murals &. Decals
+    *   Free Shipping: Fashion &. Floral Art at $30
     
     Shop By Category
     *   Home Decor
@@ -240,10 +227,13 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Cleaning &. Organization
     *   Holiday Decorations
     *   Accent Furniture
-    *   Luggage &. Travel
     *   Outdoor Living
+    *   Rugs &. Doormats
+    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   48 Hours Only: Dyson Supersonic Hair Dryer
+    *   SKIN&CO Roma Skin Care Up to 55% Off
     *   Baiser Beauty: Organic, Vegan Skin Care from $15
     *   Dazzlepro Teeth Whitening Up to 80% Off
     *   Argan Oil Hair Products from Moroccan Gold Series
@@ -252,8 +242,6 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Violet Voss Palettes &. Lashes
     *   Best Face Forward: Tools from $15
     *   Bebe &. Bella Probiotic Skin Care
-    *   Skin Care Must-Haves ft. Murad, philosophy &. More
-    *   Glamlite Cosmetics Starting at $10
     
     Shop By Category
     *   Skin Care
