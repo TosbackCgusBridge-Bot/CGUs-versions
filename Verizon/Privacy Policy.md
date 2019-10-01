@@ -43,4 +43,5 @@ Privacy Policy
 *   Device Installment
 *   International Privacy Centre
 *   California Privacy Rights
+*   Nevada Privacy Rights
 *   Better Business Bureau Accredited
