@@ -1,4 +1,5 @@
-*   DAL3-110NO3-112Final
+*   CIN0-43PIT1-327Final
+*   PHI2-234GB3-127Final
 *   TEN2-224ATL1-310Final
 *   CLE2-240BAL2-225Final
 *   NE4-016BUF3-110Final
@@ -11,8 +12,7 @@
 *   TB2-255LA3-140Final
 *   MIN2-26CHI3-116Final
 *   JAX2-226DEN0-424Final
-*   CIN0-3PIT0-3Mon, 8:15 pm ET
-*   PHI2-234GB3-127Final
+*   DAL3-110NO3-112Final
 
 *   News
 *   Scores
@@ -36,7 +36,8 @@
 *   NFL Films
 *   Game Pass
 
-*   DAL10NO12Final
+*   CIN3PIT27Final
+*   PHI34GB27Final
 *   TEN24ATL10Final
 *   CLE40BAL25Final
 *   NE16BUF10Final
@@ -49,8 +50,7 @@
 *   TB55LA40Final
 *   MIN6CHI16Final
 *   JAX26DEN24Final
-*   CIN0-3PIT0-3Mon, 8:15 pm ET
-*   PHI34GB27Final
+*   DAL10NO12Final
 
 *   News
 *   Scores
