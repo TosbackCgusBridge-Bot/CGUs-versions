@@ -309,6 +309,8 @@ TP-Link may from time to time in its sole discretion develop and provide updates
 
 Updates to the Product Software may be automatically installed without providing any additional notices or receiving any additional consent. You consent to such automatic updates. If you do not want such automatic Updates, your remedy is to terminate your account and to stop using the Product Software and applicable Products. If you do not terminate a previously created account, you will receive Updates automatically.
 
+We reserve the right at any time without liability to you to suspend, modify or discontinue, temporarily or permanently, the app and /or the services or any feature or part thereof with or without notice.
+
 **Limitations of Services and Product Software**
 
 You acknowledge and agree that Services and Product Software are not intended to be 100% reliable or available 24 hours a day, 7 days a week. The Services/Product Software may be suspended temporarily without notice for security reasons, system failure, maintenance and repair, updates, or other circumstances. You agree that you will not be entitled to any refund or rebate for such suspensions. TP-Link does not offer any specific uptime guarantee for the Services/Product Software.
