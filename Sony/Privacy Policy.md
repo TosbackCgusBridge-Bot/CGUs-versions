@@ -132,7 +132,7 @@ With Our New Camera
 
 In case you missed it you absolutely need to hear @HAIMtheband covering @LilNasX’s “Panini” 🔥⚡️  https://go.sony.com/2minzcx  pic.twitter.com/TuNqGjfHoy
 
-15 hours ago View Tweet Instagram Post B1ZZC-gnBr9
+1 day ago View Tweet Instagram Post B1ZZC-gnBr9
 
 Get a Detailed Look at Our New Wireless Headphones
 
