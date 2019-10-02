@@ -33,8 +33,8 @@ Close Navigation Menu
 *   Music Expand/collapse submenu for Music
     *   Tiny Desk
     *   All Songs Considered
-    *   Turning The Tables
     *   Music News
+    *   Turning The Tables
     *   New Music
     *   Best Music Of 2019
 *   Shows &. Podcasts Expand/collapse submenu for Shows &. Podcasts Daily
@@ -60,8 +60,8 @@ Close Navigation Menu
 
 *   Tiny Desk
 *   All Songs Considered
-*   Turning The Tables
 *   Music News
+*   Turning The Tables
 *   New Music
 *   Best Music Of 2019
 
