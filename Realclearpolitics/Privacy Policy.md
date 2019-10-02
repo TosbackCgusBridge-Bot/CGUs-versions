@@ -115,53 +115,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Gregg Jarrett_: Ukraine Is Latest 'Witch Hunt' to Drive Trump From Office
+*   _Damon Linker_: What's Changed in Our Trump Nightmare - and What Hasn't
     
-*   _Michael Luo_: Trump Will Further Erode Democracy During Impeachment
+*   _Peter Navarro_: Trump's Wins for Americans vs. Dems' Impeachment Squad
     
-*   _Bob Barr_: IC Management Behind 'Whistleblower' Saboteurs
+*   _Amanda Hess_: This Is the Moment Rachel Maddow Has Been Waiting For
     
-*   _Dahlia Lithwick_: Does Trump Even Realize He's Done Anything Wrong?
+*   _Greg Jones_: The Media's No Good, Really Bad, Terrible 2 Weeks
     
-*   _Jim Geraghty_: Hunter Biden: The Most Comprehensive Timeline
+*   _Juan Williams_: Trump's Grip on GOP Senate May Come Loose
     
-*   _Clare Malone_: Joe Biden: The Front-Runner?
+*   _Charles Hurt_: Happy Retirement, Speaker Pelosi
     
-*   _Rick Ridder_: Play Ball! The Democrats' Presidential Roster
+*   _Ella Nilsen_: Elizabeth Warren's Polling and Path to the Democratic Nomination
     
-*   _Alexander Agadjanian_: Independents Turned Off By Democrats' Lurch Left
+*   _Andrew Stein_: Biden Should Make Way for a Moderate Untainted by Corruption
     
-*   _Rebecca Traister_: The Toll of Me Too: Was It Worth It?
+*   _Robin Kaiser-Schatzlein_: The Tyranny of Economists
     
-*   _Teresa Manning_: Campus Culture, Title IX Sex Police Meet Due Process
+*   _David Marcus_: Falling for Racist Hoaxes Is a Symptom of Self-Loathing
     
-*   _Marina Koren_: SpaceX Has Starry-Eyed Ambitions for Its Starship
+*   _Carl M. Cannon_: Jessye Norman &. the Call to 'Break Bread Together'
     
-*   _Stephen Collinson_: Democrats Aim for Speedy Impeachment Push
+*   _Conrad Black_: Bring On the Biggest Nothingburger of Them All
     
-*   _Frank Miele_: Politically Motivated Impeachment No Laughing Matter
+*   _Eugene Robinson_: The Laughable GOP Defense of the Indefensible
     
-*   _Robert Reich_: Why Trump's Impeachment Is Imperative
+*   _Newt Gingrich_: Don't Call It Impeachment, Call It a Witch Hunt
     
-*   _Victor Davis Hanson_: Impeachment Coup Analytics
+*   _David Remnick_: The Floodgates Open on Trump
     
-*   _Doug Schoen_: Dems Risk It All Moving Full Speed Ahead with Impeachment
+*   _Rush Limbaugh_: Trump Screwed Up the Dems' Plan by Releasing the Transcript
     
-*   _David Catron_: Senate Shouldn't Dignify Impeachment Parody With a Trial
+*   _Laurence Tribe_: House Must Flex Its Constitutional Muscles to Get Trump
     
-*   _Bill Scher_: Trump's Impeachment Is an Opportunity for Unity
+*   _Derek Hunter_: Senate GOP Should Put Adam Schiff Under Oath
     
-*   _Abby McCloskey_: Impeachment Will Feed Extreme Polarization
+*   _Jack Shafer_: Who's Afraid of Rudy Giuliani?
     
-*   _Liz Peek_: Dems Ditch Biden in Zeal to Impeach - Ensuring Trump Wins
+*   _Piers Morgan_: It's Time Biden Answers Questions About Ukraine
     
-*   _Holly Otterbein_: Bernie Sanders Is in Trouble
+*   _Matt Fuehrmeyer_: Dear Fellow Dems: Take Trump Seriously in Minnesota
     
-*   _Sonne_: The Story of Hunter Biden's Foray Into Ukraine
+*   _Alexi McCammond_: Texas Republicans Admit There's a Problem
     
-*   _Paul Sperry_: Justice Dept. Watchdog Has Held His Fire on Powerful People
+*   _Michael Brendan Dougherty_: Warren's Native American Problem Isn't Going Away
     
-*   _Jake Kornack_: Climate: Change We Can Believe In
+*   _Ryan Streeter_: The Politics of Loneliness
     
 
 *   Previous
@@ -232,11 +232,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Justice Dept. Watchdog Has Held His Fire on Powerful People
+*   Trump Sought Australia's Help With DOJ Review of Russia Probe's Origins
+*   Biden Strikes Aggressive Tone Against Trump Claims of Wrongdoing
+*   Goodwin: The Left Now Supports CIA Agents Spying on President
 *   Possible Impeachment Upshot? A Bipartisan Trade Deal
-*   Graham: Why Did They Change Rules Letting Whistleblowers Cite Hearsay?
 *   Some Democrats Seek to Renew Kavanaugh, Menashi Fights
-*   2020 Dem Candidates Condemn Trump, Sidestep Questions on Biden
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -249,6 +249,20 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   New Hampshire Democratic Presidential PrimarySt. Anselm
+    *   Biden24
+    *   Warren25
+    *   Sanders11
+    *   Buttigieg10
+    *   Harris5
+    *   Gabbard3
+    *   Yang2
+    *   Booker1
+    *   Klobuchar3
+    *   Steyer2
+    *   O'Rourke0
+    *   Delaney0
+    *   Williamson0Warren +1
 *   2020 Democratic Presidential NominationPolitico/Morning Consult
     *   Biden32
     *   Warren21
@@ -257,36 +271,36 @@ Latest PollsAll Polls
     *   Harris6
     *   Yang3
     *   O'Rourke3
-    *   Castro1
     *   Booker3
-    *   Klobuchar1
+    *   Castro1
     *   Gabbard1
+    *   Klobuchar1
     *   Bennet1
     *   Steyer1Biden +11
-*   North Carolina Democratic Presidential PrimaryHigh Point
-    *   Biden31
-    *   Sanders20
-    *   Warren15
-    *   Harris6
-    *   Buttigieg3
-    *   Yang4
-    *   Booker4
+*   South Carolina Democratic Presidential PrimaryWinthrop
+    *   Biden37
+    *   Warren17
+    *   Sanders8
+    *   Harris7
+    *   Buttigieg4
+    *   Booker3
+    *   Steyer2
+    *   O'Rourke2
+    *   Gabbard1
+    *   Yang2
+    *   Klobuchar1
     *   Castro1
-    *   O'Rourke1
-    *   Klobuchar1Biden +11
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve41
-    *   Disapprove53Disapprove +12
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve49
-    *   Disapprove50Disapprove +1
+    *   Delaney0Biden +20
+*   President Trump Job ApprovalMonmouth
+    *   Approve43
+    *   Disapprove53Disapprove +10
 
 More Latest Polls In The News
 
+*   Raskin on Impeachment: "We're Going To Keep You On The Edge Of Your Seat," There's More To Come
 *   Giuliani: Biden Knew Media "Enablers" Would Let His Son Get Away With It, That's Why They Want To Silence Me
 *   Graham: Okay To Cooperate With Mueller To Get Trump, Not Okay To Work With Barr To Investigate Trump Probe
 *   CNN's Gergen: If Something Happens To Whistleblower, "The Blood Is Going To Be" On Trump's Hands
-*   Hillary Clinton: "Trump Knows He's An Illegitimate President," "Insomuch As He Has A Conscience"
 *   Watch: Trump Gives High Praise To Mark Levin For Explosive "FOX &. Friends" Segment On Ukraine
 
 *   Politics
