@@ -60,7 +60,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 650 5874 1 855 650 5874
+    1 855 710 0130 1 855 710 0130
     
 
 *   Solutions By Function
@@ -125,7 +125,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 650 5874 1 855 650 5874
+    1 855 710 0130 1 855 710 0130
     
 
 GARTNER PRIVACY POLICY Effective Date: June 2019
