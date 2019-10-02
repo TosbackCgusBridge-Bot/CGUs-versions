@@ -67,13 +67,13 @@ We're available 24 hours, 7 days a week. menu
 *   International
 *   Contact Us
 
-Search WHAT'S NEW My bWallet In-Store Pickup Wish List HELP TOPICS Credit Card Returns / Exchanges Order Status Loyallist Shipping &. Delivery Furniture &. Mattresses Stores Wedding &. Gift Registry Gifts &. Gift Cards My Account &. Profile Products &. Pricing Customer Protection Center International Contact Us Bloomingdale's and bloomingdales.com Notice of Privacy Practices Published 04/25/2011 01:50 PM   |    Updated 09/18/2019 03:45 PM
+Search WHAT'S NEW My bWallet In-Store Pickup Wish List HELP TOPICS Credit Card Returns / Exchanges Order Status Loyallist Shipping &. Delivery Furniture &. Mattresses Stores Wedding &. Gift Registry Gifts &. Gift Cards My Account &. Profile Products &. Pricing Customer Protection Center International Contact Us Bloomingdale's and bloomingdales.com Notice of Privacy Practices Published 04/25/2011 01:50 PM   |    Updated 10/01/2019 12:03 PM
 
   
 
-This Notice of Privacy Practices was updated on September 17, 2019.
+This Notice of Privacy Practices was updated on October 1, 2019.
 
-This Notice of Privacy Practices (“Notice”) applies to information collected, processed or stored by  Bloomingdale’s and Bloomingdale’s Outlet, online at bloomingdales.com, mylistatbloomingdales.com, and via Bloomingdale’s mobile applications (e.g., Bloomingdale’s Big Brown Bag app or bloomingdales.com accessed through your mobile device) (Collectively, “Services”). This Notice describes the extent of data collection and use for these Bloomingdale’s Services.
+This Notice of Privacy Practices (“Notice”) applies to information collected, processed or stored by  Bloomingdale’s and Bloomingdale’s Outlet, online at bloomingdales.com, mylistatbloomingdales.com, locations.bloomingdales.com, and via Bloomingdale’s mobile applications (e.g., Bloomingdale’s Big Brown Bag app or bloomingdales.com accessed through your mobile device) (Collectively, “Services”). This Notice describes the extent of data collection and use for these Bloomingdale’s Services.
 
 To view your separate Department Store National Bank (DSNB) Privacy Statement for your Bloomingdale’s credit card or to read more information about our credit services, please click here.
 
@@ -139,7 +139,7 @@ We may combine information collected from different sources (see section on What
 *   To conduct research and analytics related to our operations. and
 *   To perform other logistics and operation activities as needed.
 
- 
+  
 
 4\. Fraud Prevention, Security and Compliance (SEC)
 
@@ -148,7 +148,7 @@ We may combine information collected from different sources (see section on What
 *   To protect the security and integrity of our Services and our data. and
 *   To assist law enforcement and respond to legal/regulatory inquiries.
 
- 
+  
 
 The rest of this Notice refers to the collection and use codes above (FUL. ADV. OPS. SEC). This is so you can better understand why we collect and use different types of information in accordance with our privacy practices and our Responsible Information Management program.  
   
@@ -261,7 +261,7 @@ Access to Accounts, Online Profiles, and Orders
 *   If you have any additional questions, please call our Customer Service department at 1-888-922-7026.
 *   If you are an international customer, and want to access your information, please click here to send an email to our international customer services teams who will be happy to assist you.
 
- 
+  
 
 Data Sharing Preferences  
 If you prefer that we not share your information with third parties for marketing purposes, you can contact us:
@@ -287,12 +287,16 @@ Customers who would like to end their one-to-one relationship with a Bloomingdal
 
 Note: Ending the one-to-one relationship with the sales associate will remove your information from that associate's client book. Your information will still be retained by Bloomingdale's and may be used by other sales associate's if you begin a new one-to-one relationship.
 
+  
+
 MyList at Bloomingdale's:
 
 Customers who would like to manage their preferences regarding the MyList program can do so through the following methods: 
 
 *   By email at support@mylistatbloomingdales.com
 *   By phone at 1-833-229-4544.
+
+  
 
 Email Communications
 
