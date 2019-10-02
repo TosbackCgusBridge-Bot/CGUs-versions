@@ -76,27 +76,27 @@
   
 Read the Internet Society’s roadmap for our work in the year ahead.
 
-Local action. Global change. Local action. Global change.
+<img src="https://www.internetsociety.org/wp-content/uploads/2017/05/ISOC-Light-RGB\_Logo\_600x200.png" title="ISOC-Light-RGB\_Logo\_600x200" alt="ISOC-Light-RGB\_Logo\_600x200" />. Local action. Global change. Local action. Global change.
 
 Learn what it takes to build and sustain your own community network at a local Community Network Summit.
 
-MANRS Observatory: Monitoring the State of Internet Routing Security MANRS Observatory: Monitoring the State of Internet Routing Security
+<img src="https://www.internetsociety.org/wp-content/uploads/2019/09/20170722\_163824\_DSCF6505-e1568899349225.jpg" title="Internet Access for Tusheti" alt="Internet Access for Tusheti" />. MANRS Observatory: Monitoring the State of Internet Routing Security MANRS Observatory: Monitoring the State of Internet Routing Security
 
 We launched a new online tool that measures the level of networks’ compliance to MANRS.
 
-Learn More Learn More
+<img src="https://www.internetsociety.org/wp-content/uploads/2019/09/manrs-observatory.png" title="manrs-observatory" alt="manrs-observatory" />. Learn More Learn More
 
 Did you know that the open standards that power the Internet are created by the Internet Engineering Task Force (IETF)?
 
-Join the team Join the team
+<img src="https://www.internetsociety.org/wp-content/uploads/2017/12/ietf-logo-250x143-1.jpg" title="ietf-logo-250x143 (1)" alt="ietf-logo-250x143 (1)" />. Join the team Join the team
 
 Do you want to join us in building a bigger, stronger Internet? Read our open job descriptions.
 
-Are Organizations Ready for New Privacy Regulations? Are Organizations Ready for New Privacy Regulations?
+<img src="https://www.internetsociety.org/wp-content/uploads/2019/09/isoc\_team.jpg" title="isoc\_team" alt="isoc\_team" />. Are Organizations Ready for New Privacy Regulations? Are Organizations Ready for New Privacy Regulations?
 
 Privacy regulations around the world are evolving. We looked at 1,200 privacy statements to see if organizations are ready.
 
-Member Login en
+<img src="https://www.internetsociety.org/wp-content/uploads/2019/09/PrivacyDD.cover\_small-e1568899538866.png" title="PrivacyDD.cover\_small" alt="PrivacyDD.cover\_small" />. Member Login en
 
 *   en
 *   fr
@@ -105,7 +105,7 @@ Member Login en
 
 Donate ×search  Donate Online Trust Alliance (OTA) OTA Home Publications Best Practices IoT Committees All Resources
 
-The Internet Society’s Online Trust Alliance (OTA) identifies and promotes security and privacy best practices that build consumer confidence in the Internet. Leading public and private organizations, vendors, researchers, and policymakers contribute to and follow OTA’s guidance to help make online transactions safer and better protect users’ data. **OTA Goals:**
+<img class="post-img post-img-right 3750 alignright" src="https://www.internetsociety.org/wp-content/uploads/2017/08/ota-logo-976px-300x104.png" alt="" width="300" height="104" />The Internet Society’s Online Trust Alliance (OTA) identifies and promotes security and privacy best practices that build consumer confidence in the Internet. Leading public and private organizations, vendors, researchers, and policymakers contribute to and follow OTA’s guidance to help make online transactions safer and better protect users’ data. **OTA Goals:**
 
 *   Through independent research and benchmark reporting, educate stakeholders on Internet issues impacting user trust and brand reputation;
 *   Drive multistakeholder initiatives to develop and advance best practices to protect users’ security, privacy, and identity;
@@ -113,7 +113,7 @@ The Internet Society’s Online Trust Alliance (OTA) identifies and promotes se
 *   Establish and foster partnerships and collaborative learning opportunities. and
 *   Empower users to act in their own privacy and security interests.
 
-Some examples of OTA’s work products include: Online Trust Audit and Honor Roll
+Some examples of OTA’s work products include: Online Trust Audit and Honor Roll <img src="https://www.internetsociety.org/wp-content/uploads/2019/05/ota\_honor\_roll\_2018.png" title="ota\_honor\_roll\_2018" alt="ota\_honor\_roll\_2018" />.
 
 The Online Trust Audit &. Honor Roll assesses nearly 1,200 organizations, recognizing excellence in online consumer protection, data security, and responsible privacy practices. This 10th annual audit of more than 1,200 predominantly consumer-facing websites is the largest undertaken by OTA, and was expanded this year to include payment services, video streaming, sports sites, and healthcare.
 
@@ -135,7 +135,7 @@ The IoT Trust Framework® includes a set of strategic principles necessary to he
 
 Visit our IoT Trust Framework page and download the full version or Framework Overview.
 
-Read the Framework Learn more about IoT OTA News Deep Dive: How Do Banks Score on Privacy and Security? Building Trust 26 September 2019 Deep Dive: How Do Banks Score on Privacy and Security?
+Read the Framework Learn more about IoT OTA News Deep Dive: How Do Banks Score on Privacy and Security? <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2019/09/ota-trust-deep-dive-banks-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Deep Dive: How Do Banks Score on Privacy and Security? Thumbnail" title="Deep Dive: How Do Banks Score on Privacy and Security? Thumbnail" />. Building Trust 26 September 2019 Deep Dive: How Do Banks Score on Privacy and Security?
 
 In April 2019 the Internet Society’s Online Trust Alliance published its 10th annual Online Trust Audit &. Honor Roll...
 
@@ -143,7 +143,7 @@ The Internet Society’s Online Trust Alliance Announces Methodology for Elevent
 
 Criteria updated to include increased focus on encryption and global privacy regulations. international retail segments added
 
-Privacy Regulations Are Evolving: Are Organizations Ready? Building Trust 20 September 2019 Privacy Regulations Are Evolving: Are Organizations Ready?
+Privacy Regulations Are Evolving: Are Organizations Ready? <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2019/09/Orgs-Ready-New-Privacy-Regulations-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Privacy Regulations Are Evolving: Are Organizations Ready? Thumbnail" title="Privacy Regulations Are Evolving: Are Organizations Ready? Thumbnail" />. Building Trust 20 September 2019 Privacy Regulations Are Evolving: Are Organizations Ready?
 
 Privacy statements are both a point of contact to inform users about their data and a way to show...
 
@@ -151,23 +151,23 @@ OTA Analysis Finds Most Organizations Not Ready For New Privacy Regulations Pres
 
 Reston, VA. – September 17, 2019 – The Internet Society’s Online Trust Alliance (OTA), which identifies and promotes security...
 
-How “Fresh” is That Privacy Statement? Privacy 27 August 2019 How “Fresh” is That Privacy Statement?
+How “Fresh” is That Privacy Statement? <img width="600" height="600" src="https://www.internetsociety.org/wp-content/uploads/2019/08/calendar-3073971\_1280-e1566916732426-600x600.jpg" class="attachment-square size-square wp-post-image" alt="How “Fresh” is That Privacy Statement? Thumbnail" title="How “Fresh” is That Privacy Statement? Thumbnail" srcset="https://www.internetsociety.org/wp-content/uploads/2019/08/calendar-3073971\_1280-e1566916732426-600x600.jpg 600w, https://www.internetsociety.org/wp-content/uploads/2019/08/calendar-3073971\_1280-e1566916732426-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" />. Privacy 27 August 2019 How “Fresh” is That Privacy Statement?
 
 One of the best practices we advocate and measure in our Online Trust Audit is that privacy statements should...
 
-Deep Dive: How Healthcare Organizations Practice Privacy and Security Building Trust 20 August 2019 Deep Dive: How Healthcare Organizations Practice Privacy and Security
+Deep Dive: How Healthcare Organizations Practice Privacy and Security <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2019/08/Healthcare-Privacy-Security-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Deep Dive: How Healthcare Organizations Practice Privacy and Security Thumbnail" title="Deep Dive: How Healthcare Organizations Practice Privacy and Security Thumbnail" />. Building Trust 20 August 2019 Deep Dive: How Healthcare Organizations Practice Privacy and Security
 
 In April, the Online Trust Alliance published the 11th annual Online Trust Audit assessing the security and privacy of...
 
-Load More Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team Megan Kruse photo Megan Kruse
+Load More Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team <img src="https://www.internetsociety.org/wp-content/uploads/2019/05/Megan-Closer.png" alt="Megan Kruse" title="Megan Kruse" />Megan Kruse photo Megan Kruse
 
 Business Director, Online Trust Alliance
 
-Kenneth Olmstead photo Kenneth Olmstead
+<img src="https://www.internetsociety.org/wp-content/uploads/2018/11/kenny.olmstead.jpg" alt="Kenneth Olmstead" title="Kenneth Olmstead" />Kenneth Olmstead photo Kenneth Olmstead
 
 Internet Privacy &. Security Analyst
 
-Jeff Wilbur photo Jeff Wilbur
+<img src="https://www.internetsociety.org/wp-content/uploads/2018/10/Jeff-Wilbur\_2\_resized.jpg" alt="Jeff Wilbur" title="Jeff Wilbur" />Jeff Wilbur photo Jeff Wilbur
 
 Technical Director, Online Trust Alliance
 
@@ -185,8 +185,8 @@ Technical Director, Online Trust Alliance
 Reston, VA 20190  
 +1-703-439-2120  
 **Switzerland**  
-Quai de l’île 13  
-CH-1204 Geneva  
+Rue Vallin 2  
+CH-1201 Geneva  
   
 ****Other offices****  
   
@@ -194,4 +194,4 @@ CH-1204 Geneva
 
 Follow us:
 
-Follow Internet Society on Twitter Follow Internet Society on LinkedIn Follow Internet Society on Facebook Follow Internet Society on Instagram Follow Internet Society on YouTube Internet Society RSS Feed Copyright © 2019 Internet Society We care about your privacy and strive to limit our use of cookies to those that help improve our site and keep it relevant. By continuing to use this site, you agree to the use of cookies. To learn more about how you can control use of cookies see our Cookie Policy
+Follow Internet Society on Twitter Follow Internet Society on LinkedIn Follow Internet Society on Facebook Follow Internet Society on Instagram Follow Internet Society on YouTube Internet Society RSS Feed Copyright © 2019 Internet Society <style>.lazyload{display:none;}</style>. We care about your privacy and strive to limit our use of cookies to those that help improve our site and keep it relevant. By continuing to use this site, you agree to the use of cookies. To learn more about how you can control use of cookies see our Cookie Policy
