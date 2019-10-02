@@ -1,10 +1,10 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main contentClick here for an exclusive offer from Buckle Credit Card. See details.
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main contentSELECT SALE DENIM IS AN EXTRA 10% OFF – SHOP NOW!
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-Click here for an exclusive offer from Buckle Credit Card. See details.
+SELECT SALE DENIM IS AN EXTRA 10% OFF – SHOP NOW!
 
 *   Women
 *   Men
@@ -447,7 +447,7 @@ Please note that requests may require verification of identity and authenticity.
 
 **Effective Date**
 
-This Privacy &. Security Policy supersedes all prior policies and is effective October 1, 2019
+This Privacy &. Security Policy supersedes all prior policies and is effective October 1, 2019.
 
 FAQs
 
