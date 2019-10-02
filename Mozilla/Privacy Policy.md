@@ -227,7 +227,7 @@ We may use cookies, clear GIFs, third party web analytics, device information, a
 *   **Metrics**: We may also use cookies, device information and IP addresses, along with clear GIFs, cookies and third party services to help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
     
     *   Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites. This helps us to improve site content.
-    *   Optimizely and ShareProgress, which place a cookie on your device, to help us test variations of web content. This helps us offer better web experiences to users.
+    *   Convert.com and ShareProgress, which place a cookie on your device, to help us test variations of web content. This helps us offer better web experiences to users.
     *   DoubleClick and Flashtalking, each of which uses a clear GIF on our download Firefox page. This helps us measure the effectiveness of our advertising campaigns.
     *   Yahoo Dot Pixel, which uses JavaScript on our download Firefox page. This helps us measure the effectiveness of our advertising campaigns.
     *   HTTP Referral Data, which may be included with Firefox’s installer, to understand the website domain or advertising campaign that referred you to our download page. This information helps us understand the effectiveness of our advertising campaigns and improve them.
@@ -244,7 +244,7 @@ You can control individual cookie preferences, indicate your cookie preferences 
 *   **Analytics &. Optimization**: Follow the instructions below to prevent data collection about your visits to Mozilla websites:
     
     *   Google: Install the Google Analytics Opt-out Browser Add-on, which keeps your visits anonymous and prohibits data transmission to Google Analytics. Some Mozilla.org pages use clear GIFs which communicate with DoubleClick to understand the effectiveness of our advertising campaigns. you can control personalized ads from DoubleClick in Google's ad settings (you will be prompted to sign-into your Google Account).
-    *   Optimizely: Opt-out on www.mozilla.org or visit Optimizely's opt-out website for more information.
+    *   Convert.com: Opt-out on www.mozilla.org.
     *   Yahoo: visit the Ad Interest Manager to opt-out.
     *   ShareProgress: You can turn on Do Not Track in your browser.
 *   **Social Media**: The social sharing buttons on Mozilla websites are designed not to share data with the social media provider until you specifically click the button.
