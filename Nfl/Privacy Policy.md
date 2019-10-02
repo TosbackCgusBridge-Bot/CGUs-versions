@@ -25,9 +25,9 @@
 *   Shop
 *   Teams
 *   Super Bowl
+*   Pro Bowl
 *   Combine
 *   Draft
-*   Training Camp
 *   Stats
 *   Next Gen Stats
 *   Ways to Watch
@@ -63,9 +63,9 @@
 *   Scores
 
 *   *   Super Bowl
+    *   Pro Bowl
     *   Combine
     *   Draft
-    *   Training Camp
     *   Stats
     *   Next Gen Stats
     *   Ways to Watch
