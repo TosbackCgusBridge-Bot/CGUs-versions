@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   5G Core implementation: Challenges in the field
 *   Design and Web team summary –27 September 2019
 *   Easy Linux Game Streaming with OBS
 *   Deploying Kubernetes Locally &#8211. MicroK8s
 *   Popular snaps per distro
-*   Kubernetes 1.16 available from Canonical﻿
 
 *    ›
