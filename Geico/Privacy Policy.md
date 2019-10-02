@@ -11,7 +11,7 @@ The Information We Collect
 *   Information About Your Transactions
 *   Information From Third Parties
 *   Location Services
-*   Access and Correction of Personal Information
+*   Access to and Correction of Personal Information
 
 The Information We Disclose  
 Confidentiality and Security  
@@ -66,9 +66,9 @@ LOCATION SERVICES
 
 Your current location is only determined if you permit our services to do so. If you allow your location to be obtained using a GEICO app, or with a browser, we will use this information to return your estimated location. We use this information solely to distinguish your current location and not to identify you. GEICO does not automatically track your location.
 
-ACCESS AND CORRECTION OF PERSONAL INFORMATION
+ACCESS TO AND CORRECTION OF PERSONAL INFORMATION
 
-If you are a resident of Arizona, California, Connecticut, Georgia, Illinois, Maine, Minnesota, Montana, Nevada, New Jersey, North Carolina, Oregon, or Virginia, you have the right to access and correct the personal information that we have collected from or about you. To do so, simply contact GEICO's customer service department. If you'd like to correct information that you provided to us, our representative will make the appropriate adjustments to GEICO's records. If you wish to correct personal information provided to GEICO by a third party (such as a credit rating agency) the representative will provide you with the applicable third party's contact information.
+If you are a resident of Arizona, California, Connecticut, Georgia, Illinois, Maine, Minnesota, Montana, Nevada, New Jersey, North Carolina, Oregon, or Virginia, you have the right to request access to and correction of the personal information that we have collected from or about you. To do so, simply contact GEICO's customer service department. If you'd like to correct information that you provided to us, our representative will make the appropriate adjustments to GEICO's records. If you wish to correct personal information provided to GEICO by a third party (such as a credit rating agency) the representative will provide you with the applicable third party's contact information.
 
 Upon the request of residents of other states, we will take reasonable steps to verify the accuracy of the personal information in our records.
 
@@ -150,4 +150,4 @@ This Privacy Policy applies to all of the following GEICO companies:
 *   GEICO County Mutual Insurance Company
 *   GEICO Insurance Agency, Inc.
 
-The Effective Date of the revised Privacy Policy is June 13, 2019.
+The Effective Date of the revised Privacy Policy is October 1, 2019.
