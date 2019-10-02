@@ -1,5 +1,5 @@
-Hi. StumbleUpon moved to Mix. Come Join us.
+StumbleUpon moved to Mix!
 
-New from our team, Mix lets you curate and discover the best of the web. The more you use it, the more it knows what you’ll love. Get started below.
+New from our team, Mix is a place to find and share your favorite things on the web. Add the Mix extension to your browser to get the one click discovery experience that should feel familiar.
 
 Add Mix To Your Browser Join Mix Learn More
