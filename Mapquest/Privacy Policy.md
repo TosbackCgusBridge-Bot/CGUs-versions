@@ -1,6 +1,6 @@
-Oath Privacy International
+Verizon Media Privacy International
 
-To learn more about how each Oath property across the globe treats your information, please choose your Oath website from the following list of Oath privacy policies.
+To learn more about how each Verizon Media property across the globe treats your information, please choose your Verizon Media website from the following list of Verizon Media privacy policies.
 
 Argentina (español)   
   
@@ -130,6 +130,6 @@ Thailand (English) 
   
 臺灣 (繁體中文) 
 
-  Build Brands People Love
+ 
 
-©2019 Oath Inc. All Rights Reserved.
+©2019 Verizon Media. All Rights Reserved.
