@@ -1,6 +1,6 @@
-Free Shipping Over $99See DetailsEnable Accessibility
+T.G.I. FALL!Shop the store adEnable Accessibility
 
-*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
+*   My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -21,7 +21,8 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackSAVE ON LAYERS FORCOOL TEMPSselect styles | reg. $30-$145$17.99WOMEN'S ST. JOHN'S BAYCABLE SWEATER50% OFFMEN'S ST. JOHN'S BAY SWEATERS**sale $24.99**$17.99BOYS' FLANNELBUTTON-FRONT SHIRT$17.99GIRLS' ARIZONA MIX &. MATCHHOODIE OR TRACK PANTSADVENTURE AWAITS!40% OFF OUTDOOR SHOPselect styles | **sale $11.99-$44.99** | reg. $20-$75
+Near YouFind a StoreBackSAVE ON LAYERS FORCOOL TEMPSselect styles | reg. $30-$145$17.99WOMEN'S ST. JOHN'S BAYCABLE SWEATER50% OFFMEN'S ST. JOHN'S BAY SWEATERS **sale $24.99**  
+$17.99BOYS' FLANNELBUTTON-FRONT SHIRT$17.99GIRLS' ARIZONA MIX &. MATCHHOODIE OR TRACK PANTSADVENTURE AWAITS!40% OFF OUTDOOR SHOPselect styles | **sale $11.99-$44.99** | reg. $20-$75
 
 *   SHOP NOW
 
@@ -32,7 +33,6 @@ NOW WE'RE COOKING!UP TO 50% OFF HOMEselect styles
 *   WINDOW
 *   KITCHEN &. DINING
 *   HOME DÉCOR
-*   MATTRESSES
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 20 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
@@ -40,8 +40,8 @@ Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 20 total items loaded
 *   $339 - $2549after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1391)
 *   $764 - $1615after coupona.n.a Womens Scoop Neck Short Sleeve T-Shirt(290)
 *   $1444 - $5099after couponwas $22 - $90 JCPenney Home™ Ultima Bath Rug Collection(705)
-*   $1614 - $2549after couponwas $44 Worthington Perfect Trouser(333)
-*   $747 - $2124after couponwas $44 St. John's Bay® Secretly Slender Straight-Leg Jeans(1787)
+*   $934 - $2549after couponwas $44 Worthington Perfect Trouser(333)
+*   $747 - $2124after couponwas $44 St. John's Bay® Secretly Slender Straight-Leg Jeans(1788)
 
 Shop and Save at JCPenney
 
