@@ -1,4 +1,4 @@
-SUBSCRIBE NOW99¢ per month. Save 90%.
+SUBSCRIBE NOW$3 for 3 months. Save 90%.
 
 *   Home
 *   News
@@ -60,7 +60,7 @@ SUBSCRIBE NOW99¢ per month. Save 90%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowPolice identify teen killed in West Side crashTrafficEl Paso athletes shine in collegeSportsElisa Tamayo announces candidacy for Texas HouseNewsEl Paso's most wanted fugitives for the week of Sept. 29, 2019CrimeSheriff's Office, family mourn jail officer killed by DWI suspectCrimeOne killed in West Side collisionTrafficSocorro man dies in rollover Hummer accidentNewsPolice raised concerns about Odessa gunman 8 years agoTexasregionHow to watch, listen to Cowboys-SaintsNflUTEP can't overcome errors against Southern MissCollegeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowEl Paso widower who got SUV arrested on DWI chargeCrimePolice identify teen killed in West Side crashTrafficElisa Tamayo announces candidacy for Texas HouseNewsEl Paso athletes shine in collegeSportsEl Paso's most wanted fugitives for the week of Sept. 29, 2019CrimeSheriff's Office, family mourn jail officer killed by DWI suspectCrimeEl Paso man gets 10 years on gun chargeCrimeSocorro man dies in rollover Hummer accidentNewsPolice suspect body found in vehicle at motelCrimeOne killed in West Side collisionTrafficHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
