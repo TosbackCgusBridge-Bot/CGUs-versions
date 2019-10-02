@@ -364,23 +364,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
+    *   Scammers using Google Alerts to spread malware, fraud
     *   Jennifer Steffens - IOActive
-    *   Dani Martínez - IOActive
+    *   Russian man pleads guilty to financial firm hacks
     *   Eight cities' payment records impacted in Click2Gov portal breach
-    *   Defense Dept. unveils counter-insider threat program
-    *   Whistleblower: White House moved record of call with Ukraine president to separate classified network
+    *   Are you prepared for a ransomware attack?
     
-    *   Ophir Harpaz - Guardicore
-    *   Apple updates software, warns of flaw affecting third-party keyboard apps
-    *   Eight cities' payment records impacted in Click2Gov portal breach
-    *   Adobe patches two critical issues with Cold Fusion
-    *   Second phishing campaign featuring LookBack malware targets U.S. utilities
+    *   Ben Herzberg - Imperva
+    *   Kaspersky releases decryptors for FortuneCrypt and Yalon ransomware
+    *   Attackers trojanize Windows Narrator tool to spy on Asian tech firms
+    *   Voting equipment vendors seek info on vulnerability disclosure program
+    *   27 nations ink cybersecurity pledge
     
-    *   Scammers using Google Alerts to spread malware, fraud
-    *   Fileless malware campaign abuses legit tools Node.js and WinDivert
-    *   Scammers using Google Alerts to spread malware, fraud
-    *   Cisco addresses multiple bugs in network operating systems
-    *   DoorDash data breach hits 4.9 million customers, merchants and drivers
+    *   New checkm8 exploit can jailbreak millions of iOS devices
+    *   The word is out: Zynga was breached.
+    *   PHP update fixes arbitrary code execution flaw, 9 other bugs
+    *   Disinformation campaigns cheap and easy to launch: Recorded Future
+    *   Apple updates software, fixes flaw affecting third-party keyboard apps
 
 Back to Top
 
@@ -412,6 +412,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. X
-
-You can skip this ad in 1 seconds.
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
