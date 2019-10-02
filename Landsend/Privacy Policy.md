@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off full-price styles, plus free shipping to most U.S. and Canadian addresses!
+Receive 40% off full-price styles!
 
-code: PINECONE pin: PROMOTION DETAILS
+code: COCOA pin: PROMOTION DETAILS
 
 Customer Service Menu
 
