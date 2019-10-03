@@ -364,23 +364,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
+    *   Jeff Williams - Contrast Security
+    *   Announcing the 2019 Reboot Leadership Award winners
+    *   October product reviews: Risk management
+    *   Illegal gambling apps snuck into Apple and Google stores
+    *   Ransomware attack disrupts Campbell County Health
+    
+    *   Millions of YouTube accounts hijacked through phishing and compromised 2FA
     *   Scammers using Google Alerts to spread malware, fraud
-    *   Jennifer Steffens - IOActive
-    *   Russian man pleads guilty to financial firm hacks
-    *   Eight cities' payment records impacted in Click2Gov portal breach
-    *   Are you prepared for a ransomware attack?
+    *   Attacker breaches Comodo forums by exploiting vBulletin flaw
+    *   WordPress Rich Review plugin vulnerable to malvertising
+    *   Illegal gambling apps snuck into Apple and Google stores
     
-    *   Ben Herzberg - Imperva
-    *   Kaspersky releases decryptors for FortuneCrypt and Yalon ransomware
-    *   Attackers trojanize Windows Narrator tool to spy on Asian tech firms
-    *   Voting equipment vendors seek info on vulnerability disclosure program
-    *   27 nations ink cybersecurity pledge
-    
-    *   New checkm8 exploit can jailbreak millions of iOS devices
-    *   The word is out: Zynga was breached.
-    *   PHP update fixes arbitrary code execution flaw, 9 other bugs
-    *   Disinformation campaigns cheap and easy to launch: Recorded Future
-    *   Apple updates software, fixes flaw affecting third-party keyboard apps
+    *   Multiple zero-day vulnerabilities found medical IoT devices: CISA
+    *   When spreadsheets are enough for risk management
+    *   OpenDocument files now being used in attacks
+    *   Lawmakers advance bills that would add to DHS' cyber responsibilities
+    *   Cyberattack causes $95 million loss for Demant
 
 Back to Top
 
