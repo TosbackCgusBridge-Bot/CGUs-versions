@@ -1,6 +1,7 @@
 Toggle navigation {{ user.display\_name }}
 
 *   Post
+*   Write article
 *   Manage posts
 *   Membership
 *   View profile
