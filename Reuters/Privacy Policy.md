@@ -46,6 +46,7 @@ Thomson Reuters Legal
 *   InsightsInsights Insights
     
     *   Latest stories
+    *   Blog
     *   Case studies
     *   All insights
     
