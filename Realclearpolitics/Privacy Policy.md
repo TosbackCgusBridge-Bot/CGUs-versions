@@ -115,53 +115,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Damon Linker_: What's Changed in Our Trump Nightmare - and What Hasn't
+*   _Lee Smith_: Dems, Media Aim to Squash Barr's Probe of Collusion Hoax
     
-*   _Peter Navarro_: Trump's Wins for Americans vs. Dems' Impeachment Squad
+*   _Matt Ford_: The Dereliction of William Barr
     
-*   _Amanda Hess_: This Is the Moment Rachel Maddow Has Been Waiting For
+*   _James Schultz_: Barr Is Doing His Job, Doesn't Deserve Hate From Democrats
     
-*   _Greg Jones_: The Media's No Good, Really Bad, Terrible 2 Weeks
+*   _Tim Cavanaugh_: What Is the FISA Court--Why Are People Bashing It?
     
-*   _Juan Williams_: Trump's Grip on GOP Senate May Come Loose
+*   _Matthew Yglesias_: Trump's Tirades Reveal a Dangerously Unfit President
     
-*   _Charles Hurt_: Happy Retirement, Speaker Pelosi
+*   _Sen. Rick Scott_: We Can Never Let Socialism Replace the American Dream
     
-*   _Ella Nilsen_: Elizabeth Warren's Polling and Path to the Democratic Nomination
+*   _Joe Nocera_: No, No, No. Elizabeth Warren Is Not a Socialist
     
-*   _Andrew Stein_: Biden Should Make Way for a Moderate Untainted by Corruption
+*   _Froma Harrop_: There's Good Reason Why Trump Is Intent on Smearing Biden
     
-*   _Robin Kaiser-Schatzlein_: The Tyranny of Economists
+*   _Chrissy Clark_: According to Hunter Biden, Joe Biden Lied About Ukraine
     
-*   _David Marcus_: Falling for Racist Hoaxes Is a Symptom of Self-Loathing
+*   _Kate Hardiman_: Was the Parkland Shooting Avoidable?
     
-*   _Carl M. Cannon_: Jessye Norman &. the Call to 'Break Bread Together'
+*   _Simon Tisdall_: Is Defeat Inevitable for Hong Kong's Protesters?
     
-*   _Conrad Black_: Bring On the Biggest Nothingburger of Them All
+*   _Frank Bruni_: If Trump Goes Down, He's Taking Everyone With Him
     
-*   _Eugene Robinson_: The Laughable GOP Defense of the Indefensible
+*   _Jason Chaffetz_: Trump's Transparency Is Messing Up Democrats' Script
     
-*   _Newt Gingrich_: Don't Call It Impeachment, Call It a Witch Hunt
+*   _Elie Honig_: The Whistleblower Is Credible, Trump's Attacks Are Dangerous
     
-*   _David Remnick_: The Floodgates Open on Trump
+*   _Sean Davis_: Admission of Whistleblower Changes Raises Big Questions
     
-*   _Rush Limbaugh_: Trump Screwed Up the Dems' Plan by Releasing the Transcript
+*   _Carl Cannon_: Poll: K-12 Education Falls Short, &. Hope for Gains Lags
     
-*   _Laurence Tribe_: House Must Flex Its Constitutional Muscles to Get Trump
+*   _Chris Patten_: China's Hong Kong Problem
     
-*   _Derek Hunter_: Senate GOP Should Put Adam Schiff Under Oath
+*   _Joseph Bosco_: Oct. 1 Is an Unhappy Birthday for China and the World
     
-*   _Jack Shafer_: Who's Afraid of Rudy Giuliani?
+*   _Liz Harrington_: Dems Have Been Impeaching Trump Since Day One
     
-*   _Piers Morgan_: It's Time Biden Answers Questions About Ukraine
+*   _Thomas Friedman_: How to Impeach Trump, Do Justice and Win an Election
     
-*   _Matt Fuehrmeyer_: Dear Fellow Dems: Take Trump Seriously in Minnesota
+*   _Eric Posner_: House Democrats Are Making a Serious Mistake
     
-*   _Alexi McCammond_: Texas Republicans Admit There's a Problem
+*   _Sean Trende_: Five Observations on the Politics of Impeachment
     
-*   _Michael Brendan Dougherty_: Warren's Native American Problem Isn't Going Away
+*   _Donald Trump Jr._: Free Speech Suppression Builds Case to Break Up Big Tech
     
-*   _Ryan Streeter_: The Politics of Loneliness
+*   _Lara Bazelon_: What 2 Books on Kavanaugh Teach About Truth in Trump Era
     
 
 *   Previous
@@ -232,11 +232,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Sought Australia's Help With DOJ Review of Russia Probe's Origins
+*   RCP Poll: K-12 Education Falls Short, and Hope for Gains Lags
+*   Why Pelosi Is Sidestepping an Impeachment Vote
+*   Colbert Interviews Clinton: Is It Time to Lock Trump Up?
+*   Trump Campaign, RNC Raise Record $125 Million in 3rd Quarter
 *   Biden Strikes Aggressive Tone Against Trump Claims of Wrongdoing
-*   Goodwin: The Left Now Supports CIA Agents Spying on President
-*   Possible Impeachment Upshot? A Bipartisan Trade Deal
-*   Some Democrats Seek to Renew Kavanaugh, Menashi Fights
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -249,6 +249,37 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalThe Hill/HarrisX
+    *   Approve49
+    *   Disapprove51Disapprove +2
+*   2020 Democratic Presidential NominationMonmouth
+    *   Biden25
+    *   Warren28
+    *   Sanders15
+    *   Buttigieg5
+    *   Harris5
+    *   Yang2
+    *   O'Rourke1
+    *   Booker1
+    *   Castro1
+    *   Gabbard0
+    *   Klobuchar1
+    *   Bennet0
+    *   Steyer1Warren +3
+*   2020 Democratic Presidential NominationEconomist/YouGov
+    *   Biden22
+    *   Warren28
+    *   Sanders13
+    *   Buttigieg7
+    *   Harris5
+    *   Yang3
+    *   O'Rourke3
+    *   Booker2
+    *   Castro1
+    *   Gabbard2
+    *   Klobuchar1
+    *   Bennet2
+    *   Steyer1Warren +6
 *   New Hampshire Democratic Presidential PrimarySt. Anselm
     *   Biden24
     *   Warren25
@@ -263,45 +294,14 @@ Latest PollsAll Polls
     *   O'Rourke0
     *   Delaney0
     *   Williamson0Warren +1
-*   2020 Democratic Presidential NominationPolitico/Morning Consult
-    *   Biden32
-    *   Warren21
-    *   Sanders19
-    *   Buttigieg5
-    *   Harris6
-    *   Yang3
-    *   O'Rourke3
-    *   Booker3
-    *   Castro1
-    *   Gabbard1
-    *   Klobuchar1
-    *   Bennet1
-    *   Steyer1Biden +11
-*   South Carolina Democratic Presidential PrimaryWinthrop
-    *   Biden37
-    *   Warren17
-    *   Sanders8
-    *   Harris7
-    *   Buttigieg4
-    *   Booker3
-    *   Steyer2
-    *   O'Rourke2
-    *   Gabbard1
-    *   Yang2
-    *   Klobuchar1
-    *   Castro1
-    *   Delaney0Biden +20
-*   President Trump Job ApprovalMonmouth
-    *   Approve43
-    *   Disapprove53Disapprove +10
 
 More Latest Polls In The News
 
-*   Raskin on Impeachment: "We're Going To Keep You On The Edge Of Your Seat," There's More To Come
-*   Giuliani: Biden Knew Media "Enablers" Would Let His Son Get Away With It, That's Why They Want To Silence Me
-*   Graham: Okay To Cooperate With Mueller To Get Trump, Not Okay To Work With Barr To Investigate Trump Probe
-*   CNN's Gergen: If Something Happens To Whistleblower, "The Blood Is Going To Be" On Trump's Hands
-*   Watch: Trump Gives High Praise To Mark Levin For Explosive "FOX &. Friends" Segment On Ukraine
+*   Fineman: Only Thing More Dangerous Than A Confident Dictator Is A Would-Be Dictator Who Isn't
+*   Maxine Waters: Trump Is Setting Us Up To Be Killed, "In A Civil War Some Of Us Will Be The First To Be Killed"
+*   President Trump vs. Jeff Mason and Jon Karl On Ukraine: "Biden And His Son Are Stone-Cold Crooked"
+*   Finnish President Sauli Niinisto To Trump: "You Have Here A Great Democracy, Keep It Going On"
+*   Schweitzer: Joe Biden Was Obama's Pointman On China &. Ukraine. Where Hunter Biden Did Most Business
 
 *   Politics
 *   Policy
