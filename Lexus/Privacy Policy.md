@@ -119,7 +119,7 @@ COMPARE **UX**
 
 **GX**
 
-*   Starting at $52,5051\*
+*   Starting at $53,0001\*
 *   301-HP3\* V8, FULL-TIME 4WD
 
 *   Build
