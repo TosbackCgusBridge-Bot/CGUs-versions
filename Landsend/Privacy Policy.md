@@ -61,7 +61,11 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Privacy Policy Last Updated: May 21, 2018
+Find an answer fast
+
+Search the Lands' End Help Center.
+
+Search the Lands' End Help Center. Go Privacy Policy Last Updated: May 21, 2018
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
@@ -296,4 +300,4 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-protected by **reCAPTCHA** Privacy - Terms Privacy - Terms <iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+protected by **reCAPTCHA** Privacy - Terms Privacy - Terms <iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>
