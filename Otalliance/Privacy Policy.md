@@ -135,7 +135,11 @@ The IoT Trust Framework® includes a set of strategic principles necessary to he
 
 Visit our IoT Trust Framework page and download the full version or Framework Overview.
 
-Read the Framework Learn more about IoT OTA News Deep Dive: How Do Banks Score on Privacy and Security? <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2019/09/ota-trust-deep-dive-banks-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Deep Dive: How Do Banks Score on Privacy and Security? Thumbnail" title="Deep Dive: How Do Banks Score on Privacy and Security? Thumbnail" />. Building Trust 26 September 2019 Deep Dive: How Do Banks Score on Privacy and Security?
+Read the Framework Learn more about IoT OTA News Celebrating National Cybersecurity Awareness Month <img width="600" height="552" src="https://www.internetsociety.org/wp-content/uploads/2019/10/Cybersecurity-Awareness-Month-600x552.jpg" class="attachment-square size-square wp-post-image" alt="Celebrating National Cybersecurity Awareness Month Thumbnail" title="Celebrating National Cybersecurity Awareness Month Thumbnail" />. Building Trust 2 October 2019 Celebrating National Cybersecurity Awareness Month
+
+Every October, we mark National Cybersecurity Awareness Month. From the U.S. Department of Homeland Security website, “Held every October,...
+
+Deep Dive: How Do Banks Score on Privacy and Security? <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2019/09/ota-trust-deep-dive-banks-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Deep Dive: How Do Banks Score on Privacy and Security? Thumbnail" title="Deep Dive: How Do Banks Score on Privacy and Security? Thumbnail" />. Building Trust 26 September 2019 Deep Dive: How Do Banks Score on Privacy and Security?
 
 In April 2019 the Internet Society’s Online Trust Alliance published its 10th annual Online Trust Audit &. Honor Roll...
 
@@ -154,10 +158,6 @@ Reston, VA. – September 17, 2019 – The Internet Society’s Online Trust All
 How “Fresh” is That Privacy Statement? <img width="600" height="600" src="https://www.internetsociety.org/wp-content/uploads/2019/08/calendar-3073971\_1280-e1566916732426-600x600.jpg" class="attachment-square size-square wp-post-image" alt="How “Fresh” is That Privacy Statement? Thumbnail" title="How “Fresh” is That Privacy Statement? Thumbnail" srcset="https://www.internetsociety.org/wp-content/uploads/2019/08/calendar-3073971\_1280-e1566916732426-600x600.jpg 600w, https://www.internetsociety.org/wp-content/uploads/2019/08/calendar-3073971\_1280-e1566916732426-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" />. Privacy 27 August 2019 How “Fresh” is That Privacy Statement?
 
 One of the best practices we advocate and measure in our Online Trust Audit is that privacy statements should...
-
-Deep Dive: How Healthcare Organizations Practice Privacy and Security <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2019/08/Healthcare-Privacy-Security-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Deep Dive: How Healthcare Organizations Practice Privacy and Security Thumbnail" title="Deep Dive: How Healthcare Organizations Practice Privacy and Security Thumbnail" />. Building Trust 20 August 2019 Deep Dive: How Healthcare Organizations Practice Privacy and Security
-
-In April, the Online Trust Alliance published the 11th annual Online Trust Audit assessing the security and privacy of...
 
 Load More Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team <img src="https://www.internetsociety.org/wp-content/uploads/2019/05/Megan-Closer.png" alt="Megan Kruse" title="Megan Kruse" />Megan Kruse photo Megan Kruse
 
