@@ -1,4 +1,4 @@
-Privacy Notice | Avis Rent a Car <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KMF9MM" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Log into your Avis Account. For full Avis and Amazon benefits, after logging in with Amazon you'll need to log in to Avis and link your accounts. Remember Me YES NO If Captcha is not present, please try a private or alternative browser. Log In
+Terms of use | Avis Rent a Car <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KMF9MM" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Log into your Avis Account. For full Avis and Amazon benefits, after logging in with Amazon you'll need to log in to Avis and link your accounts. Remember Me YES NO If Captcha is not present, please try a private or alternative browser. Log In
 
 *   Forgot username?
 *   Forgot password?
@@ -64,376 +64,157 @@ Complete your Profile
 *   Welcome,
 *   Feedback
 
-Avis Budget Group Privacy Notice Avis Budget Group Privacy Notice Effective Date: June 19, 2019 Effective Date: June 19, 2019
+**AVIS RENT A CAR – AVIS APPS**
 
-Welcome to the Privacy Notice of the Avis and Budget companies within the Avis Budget Group, Inc. and their subsidiaries and affiliates, including, without limitation Avis Rent A Car System, LLC, Budget Rent A Car System, Inc. and Budget Truck Rental, LLC. (we refer to these companies as “ABG,” “we,” “us,” or “our” in this Privacy Notice). This Privacy Notice covers the personal information we collect, use and disclose through your use of our websites, mobile applications (“Apps”), products and services, either online or offline.
+**TERMS OF USE**
 
-Some independent licensees use our name but are not owned or controlled by us. This Privacy Notice does not apply to those Avis or Budget locations that are owned and operated by an independent licensee not owned nor controlled by ABG or an ABG affiliate or subsidiary. These independent locations have their own separate Privacy Notice. Please review them to understand how they collect, use and share your personal information. Click here to learn more about independent locations.
+Avis Rent  A Car provides tablet, smartphone and other applications and platforms to our customers, which may include applications running on devices and platforms available through third parties (collectively, the “Avis App”). Please read these Avis App Terms of Use (the “Terms”) carefully before continuing on with your use of the Avis App. The Avis App is provided by Avis Rent A Car System, LLC, 6 Sylvan Way Parsippany, NJ 07054, Tel. 1-800-352-7900 (“Avis”).
 
-Please click on the following sections to learn more about our Privacy Notice. You can tell when this Privacy Notice was last updated by looking at the link and at the date at the top of the Privacy Notice. If we make changes to this Privacy Notice, we will post the changes here. If we make a change that significantly affects your rights, we will notify you by way of a prominent posting on our websites and in our Apps, prior to the change becoming effective. If you have an account with us, we may also notify you about material changes to this Privacy Notice by e-mail (sent to the e-mail address provided in your account), through our Apps, or as otherwise required or permitted by law. Any changes to this Privacy Notice will become effective upon posting of the revised Privacy Notice. Use of our websites, Apps, products and services following the posting of a new Privacy Notice constitutes your acceptance of the revised Privacy Notice then in effect. As such, we encourage you to review this site from time to time for the latest information on our privacy practices.
+**THE AVIS APP AND INFORMATION ON IT IS CONTROLLED BY AVIS IN THE UNITED STATES, PLEASE SEE OUR** **PRIVACY NOTICE** **FOR FURTHER INFORMATION.**
 
-Welcome to the Privacy Notice of the Avis and Budget companies within the Avis Budget Group, Inc. and their subsidiaries and affiliates, including, without limitation Avis Rent A Car System, LLC, Budget Rent A Car System, Inc. and Budget Truck Rental, LLC. (we refer to these companies as “ABG,” “we,” “us,” or “our” in this Privacy Notice). This Privacy Notice covers the personal information we collect, use and disclose through your use of our websites, mobile applications (“Apps”), products and services, either online or offline.
+These Terms shall govern the use of the Avis App, including all updates and upgrades to the Avis App, and apply to all Internet traffic visiting via the Avis App. PLEASE NOTE THAT BY AGREEING TO THESE TERMS YOU ARE ALSO AGREEING TO AUTOMATIC UPDATES AND UPGRADES. YOU CAN CHANGE YOUR DEVICE SETTINGS TO TURN OFF AUTOMATIC UPDATES AND UPGRADES.
 
-Some independent licensees use our name but are not owned or controlled by us. This Privacy Notice does not apply to those Avis or Budget locations that are owned and operated by an independent licensee not owned nor controlled by ABG or an ABG affiliate or subsidiary. These independent locations have their own separate Privacy Notice. Please review them to understand how they collect, use and share your personal information. Click here to learn more about independent locations.
+If you choose to continue to use or access the Avis App you recognize that Avis has provided valuable consideration by offering the Avis App free of charge, and in exchange for that valuable consideration, you agree to the Terms hereof. The Terms are meant to protect Avis and all of our Avis App users and your use of the Avis App signifies your agreement with these Terms. IF YOU DO NOT AGREE WITH THESE TERMS, DO NOT USE OR ACCESS THE AVIS APP.
 
-Please click on the following sections to learn more about our Privacy Notice. You can tell when this Privacy Notice was last updated by looking at the link and at the date at the top of the Privacy Notice. If we make changes to this Privacy Notice, we will post the changes here. If we make a change that significantly affects your rights, we will notify you by way of a prominent posting on our websites and in our Apps, prior to the change becoming effective. If you have an account with us, we may also notify you about material changes to this Privacy Notice by e-mail (sent to the e-mail address provided in your account), through our Apps, or as otherwise required or permitted by law. Any changes to this Privacy Notice will become effective upon posting of the revised Privacy Notice. Use of our websites, Apps, products and services following the posting of a new Privacy Notice constitutes your acceptance of the revised Privacy Notice then in effect. As such, we encourage you to review this site from time to time for the latest information on our privacy practices.
+**THESE TERMS INCLUDE AN AGREEMENT TO SUBMIT CLAIMS EXCLUSIVELY TO INDIVIDUAL (NON-CLASS) ARBITRATION. SEE BELOW**
 
-WHO WE ARE
+**CHANGES**
 
-THE TYPES OF INFORMATION WE COLLECT, AND HOW WE COLLECT THEM
+Avis reserves the right, in its sole discretion, to modify, alter or otherwise update these Terms at any time and will post notice on the Avis App of such modified Terms. If you continue to use the Avis App, check for notice of changed Terms. If Terms have been changed, immediately read them. By choosing to continue to use or access the Avis App after we have posted notice of such modifications, alterations or updates, you agree to be bound by such revised Terms.
 
-HOW INFORMATION IS USED
+**ELIGIBILITY FOR AVIS APP**
 
-HOW INFORMATION IS SHARED
+The Avis App is available for download and use for Eligible Mobile Devices. Eligible Mobile Devices means a compatible wireless internet-enabled mobile phone or other comparable mobile device.
 
-HOW YOUR INFORMATION IS PROTECTED
+**AVIS PREFERRED® AND ELIGIBILITY FOR CERTAIN SERVICES**
 
-SOCIAL MEDIA
+Some features and services of the Avis App are only available for members of the Avis Preferred® program. A membership in Avis Preferred® is complimentary. In addition to these Terms, Avis Preferred® members are subject to the Avis Preferred® Global Rental Terms and Conditions and the Avis Preferred® Program Terms and Conditions. To learn more and enroll, click: Avis Preferred Program®. You can still use limited features of the Avis App without enrolling in Avis Preferred®.
 
-CHILDREN’S PRIVACY
+In addition to these Terms, the Privacy Notice and, if applicable, the Avis Preferred® Global Rental Terms and Conditions and Avis Preferred® Program Terms and Conditions, your use of the Avis App and certain services may also require and/or be subject to: (i) a valid credit card on file with Avis, (ii) a valid driver’s license on file with Avis, (iii) your rental location must offer and support the feature and/or service, and (iv) the rental car must support the feature and/or service.
 
-YOUR CALIFORNIA PRIVACY RIGHTS
+We reserve the right to add and remove features in our sole discretion. Not all cars or rental locations are equipped to support all features. Some features may not be available if you change your reservation or return location.
 
-THIRD PARTY COLLECTION
+**CHARGES**
 
-GEOGRAPHIC LOCATIONS
+Avis will not charge you for using the Avis App.  However, charges will apply for Avis car rental services. Further, your telecommunications services provider may impose data charges when you use the Avis App.
 
-CONTACT US
+**PRIVACY**
 
-INDEPENDENT LOCATIONS
+Your personal information when using the Avis App will be handled and processed in accordance with Avis’s Privacy Notice. By using the Avis App, you consent to your personal data being exported to countries other than the country where you rented the car, including to the United States of America. For more information, please review our full Privacy Notice.
 
-Want to know something specific? Want to know something specific?
+Additionally, by using the Avis App, you acknowledge and agree that wireless and/or internet transmissions are never completely private or secure. You understand that any message or information you send using the Avis App may be read or intercepted by others, even if there is a special notice that a particular transmission is encrypted.
 
-Want to know something specific?
+**DEVICE GPS**
 
-WHO WE ARE
+We may collect location markers using the GPS in your device. Knowing approximately where you are helps the Avis App provide you better service, such as finding the nearest Avis rental location near you. This also helps us send you push notifications or other communications based on your location (for example, nearby special offers) and for providing certain services such as arrival and return notifications, providing information about vehicle location, available upgrades, etc. (See Electronic Communications below). We will only share this information with third parties to assist us in providing our services or services you request.
 
-THE TYPES OF INFORMATION WE COLLECT, AND HOW WE COLLECT THEM
+ To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user identification information. If you change your mind about sharing your location or receiving push notifications from the Avis App, adjust the settings of your mobile device to turn off transmission of geolocation data or to stop transmission of push notifications at any time. If you do turn these features off, you will not receive information tailored to your location or special location-based offers.
 
-HOW INFORMATION IS USED
+**ELECTRONIC COMMUNICATIONS**
 
-HOW INFORMATION IS SHARED
+The functionality of the Avis App service relies on electronic communications. You agree that we may send push notifications to your device. You may also opt- into receiving text messages and email messages to the telephone and email addresses that you have registered with us. We may communicate with you using push notifications, text messages and email messages in connection with (i) your rental reservations, (ii) your rental transactions, (iii) your use of Avis Preferred® (if enrolled), and (iv) offers and promotions that may be of interest to you. You may opt-out at any time from marketing and other communications by changing your communication preferences within the Avis App, by following the instructions in our communication to you, or updating preferences in your profile. You may also contact us at Avis Rent A Car System LLC, P.O. Box 699000, Tulsa, OK 74169-9000 to withdraw your consent. Please note that we may still send you messages about your rental transactions, Avis Preferred® account status (if enrolled) and certain other messages, subject to applicable law.
 
-HOW YOUR INFORMATION IS PROTECTED
+**UPDATES AND UPGRADES**
 
-SOCIAL MEDIA
+By downloading Avis App, you consent to the installation of the Avis App and to its future updates and upgrades. You can withdraw your consent at any time by uninstalling Avis App. To request assistance in the removal or disabling of the Avis App, please contact us at Avis Rent A Car System LLC, 6 Sylvan Way, Parsippany, NJ 07054 mobile.feedback@avisbudget.com.
 
-CHILDREN’S PRIVACY
+You acknowledge and understand and agree that the Avis App (including any updates or upgrades) will (i) cause your device to automatically communicate with our servers to deliver the Avis App’s functionality (described where you downloaded the Avis App at the iTunes or Google Play stores) and to record usage metrics, (ii) affect app-related preferences or data stored in your device, and (iii) collect personal information as described in our Privacy Notice. Your telecommunications services provider may impose data charges when you use Avis App or for data charges for the updating or upgrading the Avis App if you have not restricted updates and upgrades to Wi-Fi connections.
 
-YOUR CALIFORNIA PRIVACY RIGHTS
+**TRADEMARKS, COPYRIGHTS AND LICENSE**
 
-THIRD PARTY COLLECTION
+The Avis App is controlled and operated by Avis. The Avis App (including all software source code and object code) and all content on the Avis App, including, but not limited to text, images, illustrations, audio clips, and video clips, is protected by copyrights, trademarks, service marks, and/or other intellectual property rights (which are governed by U.S. and worldwide copyright laws and treaty provisions, privacy and publicity laws, and communication regulations and statutes), and are owned and controlled by Avis or its affiliates, or by third party content providers, merchants, sponsors and licensors (collectively “Providers”) that have licensed their content or the right to market their products and/or services to Avis (collectively “App Content”). The Avis App and all App Content on the Avis App or any mobile app owned, operated, licensed or controlled by the Providers is solely for your personal, non-commercial use. You are granted a non-exclusive, non- transferable (by way of sub-license or otherwise), personal, limited license to install and use the Avis App its related App Content on each Eligible Mobile Device you own or control, solely for personal use and as expressly permitted in these Terms. Parts of the App Content that Avis uses to provide the Avis App have been licensed from third parties and this limited license applies equally to these third party components. You may make one backup copy of the App Content where necessary to secure further use in accordance with these Terms. You may print a copy of the App Content and/or information contained herein for your personal, non-commercial use only, but you may not copy, reproduce, republish, upload, post, transmit, distribute, and/or exploit the App Content or information in any way (including by e-mail or other electronic means) for commercial use without the prior written consent of Avis or the Providers. You may request consent by faxing a request to Avis at (973) 496-5510. Without the prior written consent of Avis or the Providers, your modification of the content, use of the content on any other mobile app or networked computer environment, or use of the content for any purpose other than personal, non-commercial use, violates the rights of the owners of the Avis App and/or the Provider copyrights, trademarks or service marks and other proprietary rights, and is prohibited. Avis (or the relevant third party licensor) retains all right, title and interest in and to the Avis App and any modifications and/or updates to the App Content and the features provided through the Avis App. All rights not expressly granted to you are reserved.
 
-GEOGRAPHIC LOCATIONS
+**RESTRICTIONS ON USE OF THE AVIS APP**
 
-CONTACT US
+As a condition to your use of the Avis App, you warrant to Avis that you will not use the Avis App for any purpose that is unlawful or prohibited by these Terms, or act fraudulently or maliciously, including without limitation the posting or transmitting any threatening, libelous, defamatory, obscene, scandalous, inflammatory, pornographic, or profane material, or by hacking into or inserting malicious code, including viruses, or harmful data into the Avis App, the services or any operating system. You may not use any trademarks, service marks or copyrighted materials appearing on the Avis App, including but not limited to any logos or characters, without the express written consent of the owner of the mark or copyright. You may not frame or otherwise incorporate any of the App Content or other materials on the Avis App without prior written consent of Avis. You agree not to copy (to the fullest extent permitted by law), decompile or reverse engineer the App Content. You shall not use or otherwise export or re-export the Avis App or any App Content, except as authorized by law and the laws of the jurisdiction in which the Avis App or any software was obtained. If you violate any of these Terms, in addition to any other remedies Avis or its Providers may have, your permission to use the Avis App immediately terminates without the necessity of any notice. Avis retains the right to deny access to anyone at its discretion for any reason, including for violation of these Terms.
 
-INDEPENDENT LOCATIONS
+ **LINKS**
 
-**BY USING ANY OF OUR WEBSITES, APPS, PRODUCTS OR SERVICES, YOU UNDERSTAND AND ACKNOWLEDGE THAT WE WILL COLLECT AND USE YOUR PERSONAL INFORMATION AS DESCRIBED IN THIS PRIVACY NOTICE.** If you have questions, comments, or suggestions, you can always contact us using any of the ways described in the CONTACT US section.
+The Avis App may contain links to other web sites that may or may not be affiliated with Avis (“Linked Sites”). The Linked Sites are provided for your convenience and information only and, as such, you access them at your own risk. The content of any Linked Sites may not be under Avis’ control, and Avis is not responsible for, and does not endorse, such content, whether or not Avis is affiliated with the owners of such Linked Sites. Linked Sites may have terms of use that differ from, or contain terms, in addition to these Terms. You may not establish a hyperlink to download the Avis App that states or implies any sponsorship or endorsement of your web site by Avis, or its affiliates or Providers.
 
-**1\. WHO WE ARE**
+**TERMINATION OR DISCONTINUANCE OF SERVICE**
 
-As used in this Privacy Notice, “**ABG**,” “**we**,” “**us**,” or “**our**” refers to Avis and Budget companies within the Avis Budget Group, Inc. and their subsidiaries and affiliates, including Avis Rent A Car System, LLC, Budget Rent A Car System, Inc. and Budget Truck Rental, LLC.
+Except as otherwise required by law, Avis may terminate your use of the Avis App and expand, reduce or suspend the type, location and or amounts of transactions allowed using the service, change the enrollment process and transaction limits associated with it from time to time based on security issues and other factors at any time in its sole discretion, without prior notice.
 
-**2. THE TYPES OF INFORMATION WE COLLECT, AND HOW WE COLLECT THEM**
+**DISCLAIMER OFWARRANTIES AND CONDITIONS**
 
-We collect information from you, directly and through third parties, in accordance with this Privacy Notice any time you contact us, interact with us, or use our website, App, products or services. If you do not provide the information we request, we may not be able to provide our products or services to you.
+THIS DISCLAIMER OF WARRANTIES AND CONDITIONS (“DISCLAIMER”) APPLIES ONLY TO YOUR FREE USE OF THE AVIS APP.
 
-**Personal Information** .
+THIS DISCLAIMER DOES NOT APPLY TO, FOR EXAMPLE, YOUR PURCHASE OF ANY PRODUCT OR SERVICE FROM AVIS, NOR TO ANY RENTAL. OTHER TERMS, DISCLAIMERS AND LIMITATIONS MAY APPLY.
 
-·         Some of the information we collect can personally identify you, including, for example, your name and contact information, birthdate, government identification, payment information, membership ID, program ID, whether you are a part of a corporate or rewards program, payment arrangements, insurance arrangements, and information related to your rentals or use of products or services we provide or enable. For example, when you make a reservation, or join one of our programs, we collect your personal information such as: your name and contact information. birthdate. driver license and other appropriate government identification. payment information, including credit or debit card information (we collect security codes when you make a payment, but we do not keep them). information to process your discounts, such as coupons, discount codes, and membership numbers or codes. and other information that may be necessary to rent you a vehicle, provide you with services or verify your identity. If you participate in an insurance program through us or are involved in an accident or property damage, we may collect additional information about your insurance provider and/or coverage.
+THIS DISCLAIMER ALSO DOES NOT APPLY TO, FOR EXAMPLE, OUR OFFER OR ADVERTISEMENT OF ANY AVIS PRODUCT, SERVICE, OR RENTAL, INCLUDING THE CONTENT OF ANY OFFER OR ADVERTISEMENT ON THE AVIS APP. OTHER TERMS, DISCLAIMERS AND LIMITATIONS MAY APPLY.
 
-·         We may record or monitor any call you make to us for quality control, to enforce our rights, or for training or similar purposes. We may collect photos and videos in some instances, such as when you link your ABG account with your social media profile or when we receive a notice of a traffic violation that includes a picture or video. Our rental locations may also be equipped with cameras and/or video security surveillance systems.
+THESE TERMS ARE NOT A CONTRACT FOR SALE, AND THE AVIS APP IS NOT A “GOOD” WITHIN THE MEANING OF THE UNIFORM COMMERCIAL CODE. INSTEAD, THE AVIS APP IS PROVIDED TO YOU FOR FREE. TO THE FULLEST EXTENT PERMITTED BY LAW, THE AVIS APP IS PROVIDED “AS IS” AND WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND WHATSOEVER, EITHER EXPRESS, IMPLIED OR STATUTORY. THERE ARE NO WARRANTIES OR CONDITIONS WHICH EXTEND BEYOND THE DESCRIPTION ON THE FACE HEREOF. ALL IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE HEREBY DISCLAIMED. NEITHER AVIS, ITS AFFILIATED OR RELATED ENTITIES, NOR THE PROVIDERS, NOR ANY PERSON INVOLVED IN THE CREATION, PRODUCTION, AND DISTRIBUTION OF THE AVIS APP WARRANT THAT THE FUNCTIONS CONTAINED IN THE AVIS APP WILL BE UNINTERRUPTED OR ERROR-FREE, THAT DEFECTS WILL BE CORRECTED, OR THAT THE SERVER THAT MAKES THE CONTENT AVAILABLE WILL BE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
 
-·         When you download, visit or use our websites or Apps or interact with us using e-mail, texts or other forms of electronic communication, we may we use cookies, pixel tags, beacons, scripts and similar technologies to automatically collect certain information, including, for example, your IP addresses, MAC addresses, device identifier, browser type, Internet service provider (“**ISP**”), location, how you interact with our websites and/or Apps, referral/exit sites, operating system, date/time stamp, and clickstream data.
+You acknowledge and agree that from time to time, the Avis App and/or the services may be delayed, interrupted or disrupted for an indeterminate period of time including, without limitation, any inaccuracy, interruption or delay in transmission by the telecommunications services provider used with the Eligible Mobile Device, or any interruption, disruption or failure whether caused by strikes, power failures, equipment malfunctions or other reasons. Avis and its third-party licensors have no obligation to correct any bugs, defects or errors in the Avis App or software, or to otherwise support, maintain, improve, modify, upgrade, update or enhance the Avis App.
 
-·         We also collect personal information about you from third parties, including information from third party travel booking channels. service providers. licensees. airlines, hotels, membership clubs, payment card companies, advertisers and other partners. from your employer. from your social media services consistent with your information sharing settings on such services. and from other third-party sources that are lawfully entitled to share your information with us.
+**LIMITATION OF LIABILITY**
 
-·         We may collect information about relevant health conditions when necessary to provide adaptive driving devices.
+AVIS, ITS AFFILIATES OR A THIRD PARTY LICENSOR SHALL NOT BE LIABLE FOR ANY CLAIM WHATSOEVER ARISING FROM OR RELATED TO USE OF THE AVIS APP. IN NO EVENT WILL AVIS, ITS AFFILIATES OR A THIRD PARTY LICENSOR BE LIABLE FOR LOSS OF PROFITS (WHETHER DIRECT OR INDIRECT) OR ANY FORM OF INDIRECT, CONSEQUENTIAL OR SPECIAL DAMAGES, ARISING FROM OR IN CONNECTION WITH YOUR USE OF THE AVIS APP, EVEN IF SUCH DAMAGES WERE REASONABLY FORESEEABLE AND NOTICE WAS GIVEN REGARDING THEM. THESE LIMITATIONS WILL APPLY TO ALL CAUSES OF ACTION, WHETHER ARISING FROM BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE) OR ANY OTHER LEGAL THEORY. NOTHING IN THESE TERMS AND CONDITIONS SHALL LIMIT OR EXCLUDE LIABILITY FOR (I) DEATH OR PERSONAL INJURY RESULTING FROM OUR NEGLIGENCE, (II) FRAUD AND/OR FRAUDULENT MISREPRESENTATION AND (III) ANY OTHER LIABILITY THAT CANNOT BE EXCLUDED OR LIMITED BY APPLICABLE LAW.
 
-·         We treat any non-personal information that is linked to or combined with personal information as personal information.
+**NO ENDORSEMENT, REPRESENTATION OF WARRANTY FOR ELIGIBLE MOBILE DEVICES**
 
-**Non-Personal Information** .
+By identifying a mobile phone or other device as an Eligible Mobile Device for use with the Avis App, Avis does not recommend, endorse or make any representation or warranty of any kind regarding the performance or operation of such device. You are responsible for the selection of an Eligible Mobile Device and for all issues relating to the operation, performance and costs associated with such device.
 
-·         We may collect non-personal information from features in our rental vehicles, vehicle telematics systems and associated devices, including, for example, our vehicle’s condition. damage and accident records. performance, operation and diagnostic data. information on mileage, acceleration, velocity, fuel consumption, fuel level, tire pressure, odometer, location and direction, and other vehicle information (“**Vehicle Data**” or “**Connected Car Data**”). Use of features is subject to the terms and conditions posted by the vehicle manufacturer and/or the technology provider, which may include system and service limitations, warranty exclusions, limitations of liability, wireless service provider terms and user responsibilities. Some or all of these features are turned on at all times, even when other services or other media in the vehicle are turned off. Vehicle manufacturers may also collect information from our vehicles pursuant to their privacy policy and share the Vehicle Data with us. You can review their privacy notice and other terms and conditions related to Connected Car Data on the applicable vehicle manufacturer’s website. We cannot guarantee that a vehicle without these features will be available at your time of rental.
+**EVENTS BEYOND THE REASONABLE CONTROL OF AVIS**
 
-·         We may aggregate, anonymize, pseudonymize, de-identify or aggregate personal information to create non-personal information.
+Avis and its Providers will not be liable or responsible for any failure to perform, or delay in performance of any of our obligations under these Terms that is caused by any act or event beyond its and their reasonable control, including failure of public or private telecommunications networks (“Event Outside Our Control”). If an Event Outside Our Control takes place that affects the performance of our obligations under these Terms, (i) our obligations under these Terms will be suspended and the time for performance of our obligations will be extended for the duration of the Event Outside Our Control, and (ii) we will use our reasonable endeavors to find a solution by which our obligations under these Terms may be performed despite the Event Outside Our Control.
 
-**Location Information** .
+ **INDEMNIFICATION**
 
-·         We may collect information about your location, which is personal information, from our websites, your mobile devices, and your visits to our locations. You may opt-out of our collection of information about your location from mobile devices at any time by turning off transmission of geolocation data or push notifications on your mobile device.
+You are fully responsible for how you use the Avis App. You may not share your log-in information with anyone else, but if you do you are fully responsible for how they use the Avis App too. You agree to indemnify, defend, and hold harmless Avis and the Providers, its and their officers, directors, employees, service providers, vendors, affiliates, agents, licensors, and suppliers from and against all losses, expenses, damages and costs, including reasonable attorneys’ fees, resulting from any violation by you of these Terms.
 
-·         We also use Vehicle Data to collect information about the location of our rental vehicles, which is non-personal information.
+**THIRD PARTY RIGHTS**
 
-·         When we link information about your location with information about the location of a rental vehicle you are using, we treat the combined location information as personal information.
+These Terms are for the benefit of Avis and its Providers, its and their officers, directors, employees, affiliates, agents, licensors, and suppliers. Each of these individuals or entities shall have the right to assert and enforce these Terms directly against you on its or their own behalf.
 
-**3. HOW INFORMATION IS USED**
+**JURISDICTIONAL ISSUES**
 
-**Personal Information** .
+Unless otherwise specified, the content contained in the Avis App is presented solely for your convenience and/or information. The Avis App is controlled and operated by Avis from its offices within New Jersey. Avis makes no representation that content in the Avis App is appropriate or available in your jurisdiction. Those who choose to access the Avis App from their location do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable. These Terms shall be governed by, construed and enforced in accordance with the laws of the State of New Jersey, as they are applied to agreements entered into and to be performed entirely within such State.
 
-We use your personal information to:
+You may not use or export the materials in the Avis App in violation of applicable export laws and regulations. You confirm that you are not (i) located in a country that is subject to embargo by the Government of the United States or Canada, or has been designated by the Government as a “terrorist supporting” country, and (ii) listed on any government list of prohibited or restricted parties.
 
-·         provide you with our website, App, products and services;
+**AVIS APP DISPUTES - DEFINITIONS**
 
-·         provide you with additional services or functionalities (for example, to provide remote lock/unlock, to remote disable engine/cancel ignition, and to automatically receive the vehicle location, odometer, fuel level and other information in connection with your rental);
+Avis App Disputes include: (a) any claim you may have against Avis in connection with the Avis App, (b) any claim Avis may have against you in connection with the Avis App, and (c) any action to enforce the Terms or to object to the Terms.
 
-·         administer your rental, manage your rental records and to calculate your fees (for example, to automatically record the start of your rental, any exchange or upgrades, and the fuel or mileage usage and charges);
+All other disputes are Non-Avis App Disputes. Any claim arising from your purchase of an Avis product or service, including renting a car, is a Non-Avis App Dispute. Any claim arising from the content of any offer or advertisement on the Avis App is a Non-Avis App Dispute.
 
-·         diagnose problems, analyze trends, and assess our performances;
+**AVIS APP DISPUTES – PRE-DISPUTE RESOLUTION**
 
-·         provide roadside assistance;
+Before filing a lawsuit in connection with any Avis App Dispute (including, but not limited to, in an individual arbitration or in a small claims proceeding), you and Avis agree that we shall give the other party written notice of the claim to be asserted 30 days before initiating a proceeding and make a reasonable good faith effort to resolve the claim. If you are intending to assert a claim against Avis, you must send the written notice of the claim to Attention: Avis Rent A Car System, LLC, 6 Sylvan Way, Parsippany, New Jersey, 07054 Attn: Legal Department. If Avis is intending to assert a claim against you, we will send the written notice of the claim to you at your address appearing in our records. NO SETTLEMENT DEMAND OR SETTLEMENT OFFER USED IN THIS PREDISPUTE RESO- LUTION PROCESS MAY BE USED IN ANY PROCEEDING, INCLUDING AS EVIDENCE OR AS AN ADMISSION OF ANY LIABILITY OR DAMAGES (OR LACK THEREOF).
 
-·         provide you with discounts;
+**AVIS APP DISPUTE RESOLUTION -- VENUE**
 
-·         improve our operations and services;
+You agree to be subject to the jurisdiction of New Jersey for any Avis App Dispute. You agree that any Avis App Dispute will be resolved in New Jersey to the exclusion of any other potential venue.
 
-·         better understand our customers’ preferences;
+**AVIS APP DISPUTE RESOLUTION – ARBITRATION, JURYTRIAL WAIVER**
 
-·         better understand how our vehicles are being used;
+(Not applicable if mandatory arbitration is prohibited by consumer protection legislation, such as in Quebec.) Neither you nor we will be able to sue in court in connection with an Avis App Dispute. All Avis App Disputes must be resolved through individual (non-class) arbitration. You indicate your acceptance to these Terms, including this agreement to arbitrate, by continuing to use the Avis App.
 
-·         tailor our services to our customers;
+You and Avis intend for this to be an agreement for arbitration that can be enforced under both the Federal Arbitration Act (FAA), 9 U.S.C.A. §§ 1–16, and the New Jersey Arbitration Act (NJAA), N.J.S.A. 2A:23B–1 to –32.
 
-·         research and develop new products and services;
+You and Avis waive any rights to maintain other available resolution processes for Avis App Disputes, such as a court action or administrative proceeding, to settle disputes. You and Avis waive any right to a jury trial for Avis App Disputes. Instead of suing in court, we each agree to settle Avis App Disputes only by arbitration. The rules in arbitration are different. There’s no judge or jury, and review is limited, but an arbitrator can award the same damages and relief, and must honor the same limitations stated in the agreement as a court would.
 
-·         maintain our fleet;
+Any Avis App Dispute shall be determined by arbitration in New Jersey before one arbitrator(s). The arbitration shall be administered by JAMS pursuant to JAMS’ Streamlined Arbitration Rules and Procedures, available at http://www.jamsadr.com/rules-streamlined-arbitration. Judgment on the Award may be entered in any court having jurisdiction. This clause shall not preclude parties from seeking provisional remedies in aid of arbitration from a court of appropriate jurisdiction. If for any reason, JAMS cannot or will not provide this arbitration, the parties may ask any court of competent jurisdiction to select an arbitrator from a list provided by the parties.
 
-·         recover lost, stolen or towed rental vehicles;
+ To the extent a party commences any action with includes both Avis App Disputes and Non-Avis App Disputes, consideration of the Non-Avis App Disputes shall be stayed until the Avis App Disputes are fully arbitrated. Then, any Avis App Disputes will be considered by any court of competent jurisdiction.
 
-·         provide you with, and improve, relevant marketing or offers from us and our partners;
+If you are an individual (instead of, for instance, a partnership, corporation, or other form of entity or non-natural person), in the event that (1) your claim is less than $10,000, and (2) you are able to demonstrate that the costs of arbitration will be prohibitive as compared to costs of litigation, Avis will pay as much of your filing and hearing fees in connection with the arbitration as the arbitrator deems necessary to prevent the arbitration from being cost-prohibitive as compared to the cost of litigation.
 
-·         enable third-party vehicle applications and services;
+**AVIS APP DISPUTE RESOLUTION - NO CLASS ACTIONS**
 
-·         improve road safety and reduce traffic;
+(Not applicable if class action waivers are prohibited by consumer protection legislation.) You agree that you will not file a class action against Avis or its Providers, or participate in a class action against Avis or its Providers in any Avis App Dispute. You agree that you will not file or seek a class arbitration, or participate in a class arbitration against Avis or its Providers, in any Avis App Dispute.
 
-·         respond to legally binding requests from law enforcement, regulatory authorities or other third parties;
+**SEVERANCE OF INVALID TERMS**
 
-·         ensure the security of our or another’s premises, property or other assets;
+If any provision of these Terms shall be unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Terms and shall not affect the validity and enforceability of any remaining provisions. Notwithstanding anything to the contrary, if the class action waiver of these Terms is deemed unenforceable, the agreement of the parties to engage in arbitration shall likewise be deemed stricken.
 
-·         defend, protect or enforce our rights or applicable terms of service;
+**ENTIRE AGREEMENT**
 
-·         to prevent fraud or the recurrence of fraud;
+The provisions and conditions of these Terms, and each obligation referenced herein, represent the entire Agreement between Avis with respect to your use of this free Avis App, its affiliated or related entities, and you, and supersede any prior agreements or understandings not incorporated herein. In the event that any inconsistencies exist between these Terms and any future published terms of use or understanding, the last published Terms or terms of use or understanding shall prevail.
 
-·         assist in the event of an emergency. and
-
-·         comply with applicable law.
-
-We use cookies, pixel tags, beacons, scripts and similar technologies to adjust and optimize our content to your preferences, to provide you with useful functionalities, to remember your previous rentals and your travel preferences, to help us make our website, Apps, products and services more convenient and efficient, to improve our services, to help us analyze usage trends and patterns, and to tailor online advertisements by us and our partners to you. We also use analytic software, such as Google Analytics and others, to help us to better understand how our websites and Apps function on your device and for research and development. We may use third party platforms to help us promote interest-based advertisements to you, we may use web tracking tools as described above or a process called hashing, which involves converting the e-mail address, phone number or other contact information you have provided to us into a unique value that these platforms may compare to a unique value created on their platforms. You have options when it comes to cookies and other web tracking tools.
-
-You can set your browser or device to refuse all cookies or to indicate when a cookie is being sent. However, some features or services may not function properly without cookies. Some browsers support a “Do Not Track” feature, which is intended to be a signal to websites that you do not wish to be tracked across different websites you visit. Our websites do not currently change the way they operate based upon detection of a Do Not Track or similar signal. As the internet and other e-commerce channels continue to develop, we may deploy and utilize different types of technologies to collect data regarding your visit or usage.
-
-We may retain your information for as long as necessary for the processing purpose(s) for which the information was originally collected and any other legitimate business purpose, including, for legal, archival, accounting, and/or audit purposes.
-
-**Personal Location Information** .
-
-We use information about your location (including, at times, by linking personal information with location information of the rental vehicle you are using) primarily to locate our nearest rental location, send you location-based notifications (_i.e_., nearby special offers), arrival and return notifications, vehicle location, and upgrade availabilities. We also use information about your location for the same purposes we use your personal information, including to provide you with, and improve, relevant marketing or offers from us and our partners.
-
-We may retain your information for as long as you have an account with Avis, Budget or Budget Truck Rental as needed to provide you our services, or as otherwise necessary for the processing purpose(s) for which the information was originally collected and any other legitimate business purpose, including, for legal, archival, accounting, and/or audit purposes. If you close your account or request we provide you our services, we may retain your information because we have a legal, auditing or account obligations or it is in our archive system and cannot be separated from other information.
-
-**Your Opt-Out Choices**
-
-·         If you would like to opt-out of receiving marketing e-mails: Click the “unsubscribe” at the bottom of an e-mail we sent you, or log into your account and update your profile, or contact any customer service representative.
-
-·         If you would like to opt-out of receiving marketing text messages: For Avis, text the word “STOP” to 48400. For Budget, text the word “STOP” to 36300.
-
-·         If you would like to opt-out of receiving tailored online advertisements from us and our partners: Set your browser or device to refuse all cookies or to indicate when a cookie is being sent. Check your specific browser’s website to learn how to adjust your cookie settings. Please note that if you opt-out of tailored advertising, you will continue to receive general ads. To learn about online advertising and your choices click here: http://www.networkadvertising.org/choices/ or http://www.aboutads.info/choices/ (if you are a US visitor) or http://www.networkadvertising.org/choices/ or http://youradchoices.ca/choices/ (if you are a Canadian visitors).
-
-·         You can stop sharing the location information of your mobile device through the applicable ABG App by turning off location services or by uninstalling the App. If you would like to uninstall the ABG app: Use the standard uninstall processes as may be available as part of your mobile device or via the application marketplace or network from which you downloaded the app.
-
-**Non-Personal Information** .
-
-We may use non-personal information (including Vehicle Data and vehicle location information that has not been combined with personal information) for any and all purposes, and we keep it for as long as we have a business need to do so.
-
-**4. HOW INFORMATION IS SHARED**
-
-**Personal Information** .
-
-The nature of our business and operations require us to share certain personal information. We may share your personal information with our third-party service providers and partners to help:
-
-·         us:
-
-            o    with the uses described in the **How Your Information Is Used** section above;
-
-            o    with our marketing and promotional projects, such as managing our social media pages, running contests, sweepstakes and other promotions. and
-
-            o    comply with your directions or any additional consent you have provided us. and
-
-·         us and our business and promotional partners send you information about products and services you may like. For example, we may help to arrange hotel rentals, flights or other services from our business partners, and share personal information with our business partners in order to provide those services. We may also work with third parties, such as our airline and payment card partners, to allow us and our partners to deliver advertisements to our shared customers. Our partners may be able to provide more relevant offers to you based upon information that we share about your rentals, as well as information in your loyalty program profile. Additionally, we may allow third-party partners to recognize you when you visit that partner’s website or app, or to recognize you as one of their customers when you visit our websites or apps so that they may provide more relevant offers to you. You may revoke your consent to receive marketing and promotional e-mails and text messages from us and our business and promotional partners. Please note that revoking consent to receive marketing and promotional e-mails and text messages does not affect our non-promotional or non-marketing communications, including, for example, communications about the status and activities of your accounts, billing communications, responses to your requests, post-service feedback or survey requests, confirmations, and similar communications.
-
-We may share website usage information, including searches, transaction and profile information (but not your name) with our partners for the purpose of making the online advertisements on our websites and other websites that display our advertisements more relevant.
-
-We may share your personal information with law enforcement and regulatory authorities or other third parties as required or permitted by law for the purpose of:
-
-·         responding to a subpoena, court order or other legal processes;
-
-·         defending, protecting or enforcing our rights;
-
-·         assisting in the event of an emergency. and
-
-·         complying with applicable law.
-
-If you are renting with a corporate, membership or other similar commercial entity account, we may share personal information with the organization that manages the account for their own purposes. We recommend you review their privacy policy to learn more about their privacy practices.
-
-We may also share personal information with third parties in the event of a merger or acquisition, consolidation, change in control, transfer of assets, bankruptcy, reorganization, or liquidation. To the extent that local laws require it, we will provide you notice on our websites or via e-mail of our intent to transfer personal information to a third party for this purpose.
-
-**Non-Personal Information** .
-
-We share non-personal information, including Vehicle Data, with our third-party service providers and partners as reasonably necessary to meet our business needs.
-
-**Personal Location Information** .
-
-We only share information about your location with:
-
-·         our third-party service providers to help provide our services or third-party services you have requested. or
-
-·         third-parties for whom you have provided consent, including, for example, with partners who provide location-based marketing.
-
-We also may share information about your location with law enforcement and regulatory authorities or other third parties as required or permitted by law for the purpose of:
-
-·         responding to a subpoena, court order or other legal processes;
-
-·         defending, protecting or enforcing our rights;
-
-·         assisting in the event of an emergency. and
-
-complying with applicable law.
-
-**5. HOW YOUR INFORMATION IS PROTECTED**
-
-The security of your personal information is important to us. We take reasonable steps to make sure your information is protected from unauthorized use, access, disclosure, alteration, destruction or loss. Firewalls and encryption are used to protect your more sensitive personal information. You are responsible for keeping your account safe. Do not share your passcode, membership and pin numbers with anyone. Please be mindful that hackers and scammers may impersonate us or our website. For more information about phishing, please visit https://www.consumer.ftc.gov/articles/0003-phishing. If you suspect an unauthorized use or security breach of your information, you must notify our customer service as soon as possible! We are not responsible or liable for any loss or damage if your account passcode, membership numbers and pin numbers are stolen or used inappropriately.
-
-**6\. SOCIAL MEDIA**
-
-You may be able to link your favorite social media and personal device profiles such as Facebook, Twitter, LinkedIn and Google with your Avis and Budget account. This can help personalize and streamline your ABG experience. It’s optional, and you can link and unlink your account(s) at any time.
-
-If you do decide to link, ABG may collect some of the following personal information from your social media or personal device profile, including:
-
-·         name, profile picture, gender, birthday, and other information that you have provided;
-
-·         professional information such as your current and prior work history;
-
-·         likes, activities and interest information. and
-
-·         e-mail.
-
-We collect this information to help us:
-
-·         customize offers and deals on our website;
-
-·         send you relevant e-mail offers with special deals and discounts;
-
-·         send you relevant offers by mobile phone text messages;
-
-·         update your profile information on our website;
-
-·         allow you to publish check-in and check-out information to your linked social media accounts;
-
-·         allow you to share your upcoming trips with friends. and
-
-·         allow you to view your friends’ that have linked their profiles upcoming trips.
-
-You may unlink your account by logging onto each ABG account that you have linked and selecting “Unlink” next to the social media profile you want to unlink.
-
-We let you share some of our online content on social media websites through hosted sharing links and icons. We do not track or store a record of each time a third party shares our online content. If you choose to participate in posting or sharing activities, you should remember that it may be viewed by the public via ABG’s website, in RSS feeds, APIs (application program interfaces) and may also be made available to other websites. As a result, your public activities may appear on third-party websites, blogs, or feeds. ABG is not responsible for the information that may be shared publicly. Our websites may include social media features, such as the Facebook Like button. These features may collect your IP address, which page you are visiting on our website, and may set a cookie so that the Like button feature works properly. Any social media feature is governed by the privacy policies of the website providing the feature. We encourage you to read the privacy policies of any website you visit.
-
-**7. CHILDREN’S PRIVACY**
-
-Our websites, Apps, products, and services are not for children under the age of 13. We do not knowingly collect personal information from children. If you think we have received personal information from children under the age of 13, please contact us immediately.
-
-**8. YOUR CALIFORNIA PRIVACY RIGHTS**
-
-We do not share your personal information with third parties for their own direct marketing purposes without your consent. If you are under 18 years old in California, in certain circumstances, you may request and obtain removal of personal information or content shared by you and posted on our Website or App. Please be mindful that this would not ensure complete or comprehensive removal of the content or information posted on our Website or App by you. To make any request pursuant to California privacy law, please contact ABGprivacy@avisbudget.com.
-
-**9\. THIRD PARTY COLLECTION**
-
-Our websites and Apps may include links to and from our affiliates and partners. If you follow a link to any of these websites, please note that these websites have their own privacy policies different from ours. If you choose to use OnStar, UConnect, Bluetooth, Apple CarPlay, Android Auto or other similar software or services on our vehicles, please check out their privacy policies to understand the privacy practices of their services. To prevent the next driver from accessing your information, please always unpair your device and delete any personal data that may be stored on the car’s infotainment system upon returning the car.
-
-**10\. GEOGRAPHIC LOCATIONS**
-
-We generally store your personal information in the United States. As a part of our normal business operation, we may at times need to transfer some of your personal information outside of the United States. If we do so, we will take reasonable steps to ensure your information is treated and protected no less securely than it is in the United States. This Privacy Notice is intended to be governed by the laws of the State of New Jersey and meet the laws and requirements of the United States, which may not necessarily be consistent with the laws and regulations of the country where you live. If you are a resident of the European Union, please use the appropriate website for your location, which can be found here: https://www.avis.com/en/legal-documents/international-websites rather than using this website.
-
-**11\. CONTACT US**
-
-If you have questions, comments, or suggestions, you can always contact us in the following ways. We may need to verify your identity before assisting with your request.
-
- **I want to…**
-
- **How to reach us**
-
- Contact Avis customer service
-
- Phone: 1-800-352-7900
-
- E-mail:  custserv@avis.com
-
- Mail:     P.O. Box 699000            
-            Tulsa, OK 74169-9000
-
- Hours of Operation: 7:30am-7:30pm CST
-
- Contact Budget customer service
-
- Phone: 1-800-621-2844
-
- E-mail:  budgetcustomerservice@budgetgroup.com
-
- Mail:     P.O. Box 699000  
-             Tulsa, OK 74169-9000
-
- Hours of Operation: 7:30am-7:30pm CST
-
- Contact Budget Truck Rental customer service
-
- Phone: 1-800-462-8343  
- E-mail:  btr-customerserviceVAB@avisbudget.com  
- Mail:     P.O. Box 699000  
-             Tulsa, OK 74169-9000
-
- Hours of Operation: 7:30am-7:30pm CST
-
- Access, update or correct some of my information
-
- (1) Log into your account and update your profile. or
-
- (2) Contact any customer service representative above
-
- ·         Ask questions, give feedback, or make requests regarding ABG’s Privacy Notice and practices
-
- ·         Notify ABG that we may have received personal information of a child under 13
-
- ·         To report a privacy violation by one of our licensee or franchisee at an independent location
-
- E-mail:  ABGprivacy@avisbudget.com
-
- Mail:     Avis Rent A Car System, LLC.
-
-             6 Sylvan Way  
-             Parsippany, NJ 07054  
-             Attn: Privacy Officer
-
- Phone: 866-284-7669
-
- Fax:     973-496-3444
-
- Request to stop receiving marketing e-mails from ABG
-
- (1) Click “unsubscribe” at the bottom of an e-mail we sent you. or
-
- (2) Log into your account and update your profile. or
-
- (3) Contact any customer service representative above
-
- Request to stop receiving marketing text messages from Avis and/or Budget
-
- For Avis:          Text the word “STOP” to 48400
-
- For Budget:      Text the word “STOP” to 36300
-
-**12\. INDEPENDENT LOCATIONS**
-
-Many Avis and Budget locations are independently owned and operated. Each of these locations collects, uses and discloses personal information for its own purposes. ABG does not control the independent licensee’s or franchisee’s use of this personal information. Please ask to review the privacy notice for that location.
-
-When you are dealing with an independent location, the licensee or franchisee is responsible for collecting and processing payment and may engage in its own e-mail campaigns and other forms of marketing to you. ABG is not responsible for the compliance of the independent location with privacy laws. However, if you believe the independent location is violating privacy laws, you may report this to ABG’s Global Privacy Office at ABGprivacy@avisbudget.com.
+**ANY RIGHTS NOT EXPRESSLY GRANTED HEREIN ARE RESERVED BY AVIS RENT A CAR SYSTEM LLC.**
 
 Top US Destinations
 
@@ -480,7 +261,7 @@ Security &. Privacy
 *   Privacy Notice - Effective 6/19/19
 *   Copyright Notices
 
-United StatesCanadaAustraliaNew Zealand------------------------ArgentinaArmeniaAustriaBahamasBelgiumBosniaBrazilChinaBulgariaChileColombiaCroatiaDenmarkDominican RepublicEcuadorEl SalvadorFaroe IslandsFijiFinlandFranceGermanyGuadeloupeGuatemalaGuamHondurasHongkongHungaryIndiaIndonesiaIrelandIsraelItalyJamaicaJapanKoreaKuwaitLebanonMacedoniaMalaysiaMartiniqueMexicoMoroccoNetherlandNicaraguaNorwayPakistanPanamaPeruPhilippinesPolandPortugalPuerto RicoRomaniaRussiaSaudi ArabiaSingaporeSouth AfricaSpainSt Maarten/St MartinSurinameSwedenSwitzerlandTahitiTaiwanThailandTurkeyTurks and CaicosUkraineUnited Arab EmiratesUnited KingdomVanuatuVirgin IslandsYugoslavia English Français Español Português GET THE MOBILE APP >.
+United StatesCanadaAustraliaNew Zealand------------------------ArgentinaArmeniaAustriaBahamasBelgiumBosniaBrazilChinaBulgariaChileColombiaCroatiaDenmarkDominican RepublicEcuadorEl SalvadorFaroe IslandsFijiFinlandFranceGermanyGuadeloupeGuatemalaGuamHondurasHongkongHungaryIndiaIndonesiaIrelandIsraelItalyJamaicaJapanKoreaKuwaitLebanonMacedoniaMalaysiaMartiniqueMexicoMongoliaMoroccoNetherlandNicaraguaNorwayPakistanPanamaPeruPhilippinesPolandPortugalPuerto RicoRomaniaRussiaSaudi ArabiaSingaporeSouth AfricaSpainSt Maarten/St MartinSurinameSwedenSwitzerlandTahitiTaiwanThailandTurkeyTurks and CaicosUkraineUnited Arab EmiratesUnited KingdomVanuatuVirgin IslandsYugoslavia English Français Español Português GET THE MOBILE APP >.
 
 GET THE AVIS APP
 
@@ -497,3 +278,5 @@ OK
 **Revision #**:
 
 **Build Date**:
+
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-KMF9MM" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
