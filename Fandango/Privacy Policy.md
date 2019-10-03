@@ -291,13 +291,21 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   'Cats' Sweepstakes
+*   'Zombieland: Double Tap' Gift with Purchase
     
-    Sign up for a 'Cats' FanAlert™ for your chance to win a trip to the premiere in London! \*Terms apply. ENTER NOW
+    Own 'Zombieland' for only $4.99\* with ticket purchase! \*Terms apply. BUY TICKETS
     
 *   FandangoNOW Fresh Picks
     
     100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
+    
+*   Get $5 off a movie ticket
+    
+    When you purchase 3 participating Klass Aguas Frescas. SEE DETAILS
+    
+*   Get a $13 Movie Ticket to see 'The Addams Family'
+    
+    When you purchase 2 Hershey's Halloween Assortment Bags. SEE DETAILS
     
 
 New + Coming soon
