@@ -1,3 +1,9 @@
+Cookies help us keep internet content free. By continuing to use our website or by clicking "Got It", you agree to the use of cookies. **Learn More**
+
+If you decline, your information won’t be tracked when you visit this website. A single cookie will be used in your browser to remember your preference not to be tracked.
+
+AcceptDecline
+
 *   Careers
 *   Ad Quality
 *   Login
@@ -139,13 +145,12 @@ See our case study See our case study →
 *   5
 *   6
 
-Key Questions  
-Is it time to  
-re-evalute the DMP?  
-Read the blog >. New Guide  
-Are customers leaking out of your digital pipeline?  
-Check your leakage >. New Retail Game  
-See how marketing experts are personalizing the retail experience for consumers.  
+New Research  
+Is your identity program built on a house of cards?  
+Download now >. 5 Building blocks of identity  
+Identifying people accurately isn't easy. But if you use the five keys to identity resolution, you'll produce measurable outcomes.  
+Get the guide >. The Real Deal on Reach  
+Our VP of product management shares three critical areas to explore when evaluating identity vendors' reach capabilities.  
 Watch the video >. SOME OF THE COMPANIES THAT  
 HARNESS OUR POWER
 
