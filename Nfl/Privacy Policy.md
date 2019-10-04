@@ -1,4 +1,4 @@
-*   LA3-1SEA3-1Thu, 8:20 pm ET
+*   LA3-229SEA4-130Final
 *   JAX2-2CAR2-2Sun, 1:00 pm ET
 *   ARI0-3-1CIN0-4Sun, 1:00 pm ET
 *   ATL1-3HOU2-2Sun, 1:00 pm ET
@@ -36,7 +36,7 @@
 *   NFL Films
 *   Game Pass
 
-*   LA3-1SEA3-1Thu, 8:20 pm ET
+*   LA29SEA30Final
 *   JAX2-2CAR2-2Sun, 1:00 pm ET
 *   ARI0-3-1CIN0-4Sun, 1:00 pm ET
 *   ATL1-3HOU2-2Sun, 1:00 pm ET
