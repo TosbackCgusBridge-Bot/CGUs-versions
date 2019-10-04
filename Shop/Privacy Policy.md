@@ -106,14 +106,15 @@ Lenovo Explore Close
         *   Smart Tab
         
         *   Quick Links
-        *   Best Selling Tablets
-        *   Top Rated Tablets
-        *   Accessories
-        *   Trending Tablets
+        *   For Kids
+        *   For Everyday Use
+        *   For Performance
+        *   For a Gift
+        *   Best Bargain
         
-        Tab 4 10" Plus
+        Tab M10
         
-        Take advantage of this multi-purpose tablet!
+        The perfect family entertainment tablet
         
         Tablet Sale
         
@@ -556,7 +557,7 @@ Lenovo Explore Close
 1-855-253-6686
 
 *   Search
-
+*   icon-compare0 Compare Compare (0)
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
@@ -624,7 +625,13 @@ Lenovo Explore Close
 
 Top Suggestions
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
+
+Please add at least 2 products for compare
+
+Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
+
+Lenovo Privacy Statement Top
 
 protects better"/>.
 
