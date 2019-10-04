@@ -364,23 +364,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Jeff Williams - Contrast Security
-    *   Announcing the 2019 Reboot Leadership Award winners
-    *   October product reviews: Risk management
-    *   Illegal gambling apps snuck into Apple and Google stores
-    *   Ransomware attack disrupts Campbell County Health
+    *   The word is out: Zynga was breached
+    *   Kaspersky releases decryptors for FortuneCrypt and Yalon ransomware
+    *   Captives of industry
+    *   Whistleblower: White House moved record of call with Ukraine president to separate classified network
+    *   Cisco addresses multiple bugs in network operating systems
     
-    *   Millions of YouTube accounts hijacked through phishing and compromised 2FA
-    *   Scammers using Google Alerts to spread malware, fraud
-    *   Attacker breaches Comodo forums by exploiting vBulletin flaw
-    *   WordPress Rich Review plugin vulnerable to malvertising
-    *   Illegal gambling apps snuck into Apple and Google stores
-    
-    *   Multiple zero-day vulnerabilities found medical IoT devices: CISA
-    *   When spreadsheets are enough for risk management
+    *   PHP update fixes arbitrary code execution flaw, 9 other bugs
     *   OpenDocument files now being used in attacks
-    *   Lawmakers advance bills that would add to DHS' cyber responsibilities
-    *   Cyberattack causes $95 million loss for Demant
+    *   Apple updates software, fixes flaw affecting third-party keyboard apps
+    *   Ransomware grows more lucrative
+    *   DoorDash data breach hits 4.9 million customers, merchants and drivers
+    
+    *   WhatsApp bug allows access to content, users should update
+    *   FBI alert: Ransomware attacks becoming increasingly targeted and costly
+    *   Why most MSPs still need better awareness
+    *   Justice Dept. tells White House to preserve records of communications with foreign leaders
+    *   Criminals' security lapses enable discovery of Geost mobile banking trojan
 
 Back to Top
 
