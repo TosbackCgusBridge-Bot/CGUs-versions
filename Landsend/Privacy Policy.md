@@ -38,7 +38,7 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 
 Receive 40% off full-price styles!
 
-code: COCOA pin: PROMOTION DETAILS
+code: COLORS pin: PROMOTION DETAILS
 
 Customer Service Menu
 
@@ -284,6 +284,12 @@ Stores
 *   Store locator
 *   **Locate Your Store**
 
+Lands' End Credit Card
+
+*   **Spend $1 on Lands' End Credit Card at Landsend.com or Lands' End stores = Earn 5 points** **1**
+*   Learn More &. Apply Now
+*   Manage Account
+
 *   Privacy Policy
 *   Cookie Policy
 *   Terms of Use
@@ -300,4 +306,4 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-protected by **reCAPTCHA** Privacy - Terms Privacy - Terms <iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+protected by **reCAPTCHA** Privacy - Terms Privacy - Terms <iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
