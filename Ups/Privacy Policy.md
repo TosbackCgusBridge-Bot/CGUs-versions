@@ -75,9 +75,9 @@ SearchMenu Close
         _UPS TradeAbility_
     *   Order Supplies
     
-    Explore All Shipping Introducing UPS® Flat Rate Shipping
+    Explore All Shipping Introducing Flat Rate Shipping from UPS
     
-    Choose from 5 flat rate options and 3 shipping speeds to ship anywhere in the U.S.
+    Choose from 5 flat rate options and 3 shipping speeds to ship anywhere in the U.S. with UPS® Simple Rate.
     
     Learn More
     
