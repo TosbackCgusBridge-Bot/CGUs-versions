@@ -63,7 +63,7 @@
     *   Side Dishes
     *   Gourmet Meals
     *   Steaks
-    *   Burgers
+    *   Burgers &. Brats
     *   Fine Meats
     *   Desserts
 *   Sweets
@@ -152,7 +152,7 @@
     *   Side Dishes
     *   Gourmet Meals
     *   Steaks
-    *   Burgers
+    *   Burgers &. Brats
     *   Fine Meats
     *   Desserts
 *   Sweets
