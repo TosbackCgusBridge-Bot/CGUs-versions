@@ -54,8 +54,8 @@ View more results
     *   Fireboy and Watergirl: The Forest Temple
     *   Warbanner
     *   Total Front: Army War Game
-    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Klondike - the lost expedition
+    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Slither.io
     *   Bubble Machine: 2 Player Game
     *   Crystical: 2 Player Puzzle Game
@@ -90,7 +90,7 @@ View more results
     *   Uphill Rush 7: Waterpark
     *   Ultimate Boxing
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
-    *   Stickman Archer 2
+    *   Pixel Apocalypse
 *   Top Categories
     
     *   Platform Games
@@ -117,9 +117,9 @@ View more results
     *   Miami Crime Simulator 3D
     *   Five Nights at Freddy's 2
     *   Five Nights at Freddy's 5
-    *   Tom and Jerry: Mouse Maze
-    *   Five Nights at Freddy's 4
     *   Slope: Neon Ball Rolling Game
+    *   Five Nights at Freddy's 4
+    *   Tom and Jerry: Mouse Maze
     *   Fire Balls
     *   FNAF World
     *   Fireboy and Watergirl 5: Elements
@@ -178,15 +178,15 @@ View more results
     *   Ellie: Get Ready With Me
     *   Pixel Art: Color by Number
     *   Burger Restaurant Express
-    *   Love Tester 2.0
     *   Slope: Neon Ball Rolling Game
+    *   Love Tester 2.0
     *   Back To School: Princesses Rush
     *   Popstar Dentist
     *   Ella: Hips Surgery
     *   Vincy Lip Care
     *   Get Your Boyfriend
-    *   The Princess: Sent to the Future - Dress Up Game
     *   Super Speed Racer
+    *   The Princess: Sent to the Future - Dress Up Game
 *   Top Categories
     
     *   BMX Games
