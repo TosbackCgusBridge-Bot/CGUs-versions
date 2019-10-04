@@ -132,19 +132,17 @@ With Our New Camera
 
 In case you missed it you absolutely need to hear @HAIMtheband covering @LilNasX’s “Panini” 🔥⚡️  https://go.sony.com/2minzcx  pic.twitter.com/TuNqGjfHoy
 
-2 days ago View Tweet Instagram Post B1ZZC-gnBr9
+3 days ago View Tweet Instagram Post B1ZZC-gnBr9
 
-Get a Detailed Look at Our New Wireless Headphones
+Introducing the All-New a9 II Camera
 
-Watch the WF-1000XM3 Unbox Therapy Video
+With Professional Photo Capabilities
 
-Play video: Get a Detailed Look at Our New Wireless Headphones Close video: Get a Detailed Look at Our New Wireless Headphones
+*   Share on Facebook: Introducing the All-New a9 II Camera
+*   Share on Twitter: Introducing the All-New a9 II Camera
+*   Copy URL to Share: Introducing the All-New a9 II Camera
 
-*   Share on Facebook: Get a Detailed Look at Our New Wireless Headphones
-*   Share on Twitter: Get a Detailed Look at Our New Wireless Headphones
-*   Copy URL to Share: Get a Detailed Look at Our New Wireless Headphones
-
-<img class="bg-img video-jpG0j8T70dQ" data-linkname="en:set\_a:\_2x2-6:video:electronics:WF1000xM3EarbudsUnboxTherapy-September-30-2019:gwt:image:jpG0j8T70dQ" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Get a Detailed Look at Our New Wireless Headphones jpG0j8T70dQ WF-1000xM3-Earbuds-Unbox-Therapy" data-img1x="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg" alt="Get a Detailed Look at Our New Wireless Headphones"/>. <img class="bg-img video-jpG0j8T70dQ" alt="Get a Detailed Look at Our New Wireless Headphones Mobile" data-linkname="en:set\_a:\_2x2-6:video:electronics:WF1000xM3EarbudsUnboxTherapy-September-30-2019:gwt:image-mobile:jpG0j8T70dQ" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Get a Detailed Look at Our New Wireless Headphones jpG0j8T70dQ WF-1000xM3-Earbuds-Unbox-Therapy" data-img1x="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-5/WF-1000XM3\_600x600.jpg"/>.
+<img class="bg-img" data-linkname="en:set\_a:\_2x2-6:image:electronics:a9IICamera-September-30-2019:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Introducing the All-New a9 II Camera a9-II-Camera" data-img1x="/content/dam/sony/homepage/2019-september/9-30/a9II-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-september/9-30/a9II-600x600.jpg" src="/content/dam/sony/homepage/2019-september/9-30/a9II-600x600.jpg" alt="Introducing the All-New a9 II Camera"/>. <img class="bg-img" data-linkname="en:set\_a:\_2x2-6:image:electronics:a9IICamera-September-30-2019:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Introducing the All-New a9 II Camera a9-II-Camera" data-img1x="/content/dam/sony/homepage/2019-september/9-30/a9II-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-september/9-30/a9II-600x600.jpg" src="/content/dam/sony/homepage/2019-september/9-30/a9II-600x600.jpg" alt="Introducing the All-New a9 II Camera Mobile"/>.
 
 This Just in: Learn More About What You Can Expect to See in “The Last of Us Part II”
 
