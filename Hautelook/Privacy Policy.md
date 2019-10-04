@@ -9,7 +9,30 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
-    *   Goodlife Short Sleeve Polos at $39.97
+    *   FRAME Up to 60% Off
+    *   NANETTE nanette lepore Incl. Plus
+    *   Fall Color Faves: Blouses &. More ft. Lush
+    *   Hair Tool Must-Haves ft. T3, Conair &. More
+    *   Step into Comfort: Kork-Ease &. More
+    *   FRAME Men Up to 60% Off
+    *   Alexia Admor
+    *   Whatever the Weather: RAINS, London Fog &. Lole
+    *   14K Gold, Gemstones &. More Under $90
+    *   Boots &. More ft. Italian Shoemakers
+    *   Rachel Zoe
+    *   Stack It Up: Eternity Rings &. More
+    *   Persaman New York
+    *   Rains Men's Outerwear Up to 70% Off
+    *   K-Beauty Skin Care ft. Goodal, Peripera &. More
+    *   Le Creuset: New Truffle Collection &. Fall Faves
+    *   Festive Finds: Mark Roberts, Ornaments &. More
+    *   Sovereign Code Up to 65% Off
+    *   Eastland
+    *   French Connection Men's Shoes
+    *   Free Shipping: Barware, Dinnerware &. More
+    *   Sovereign Code Kids
+    *   Carter's Footwear Up to 50% Off
+    
     *   Monica Vinader Up to 50% Off
     *   Urban Decay Up to 50% Off
     *   Ray-Ban Sun
@@ -23,9 +46,8 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Robert Graham Clothing, Bags, Belts &. More
     *   Jenny Bird Jewelry Up to 70% Off
     *   Michael Todd Beauty Soniclear &. More Up to 60% Off
-    *   Avant Skin Care &. More Up to 80% Off
-    *   Le Creuset: New Truffle Collection &. Fall Faves
     *   Free Shipping: Finishing Touches for Your Home
+    *   Avant Skin Care &. More Up to 80% Off
     *   Laura Ashley Bedding &. More
     *   LeSportsac Handbags &. Luggage
     *   FILA Kids Up to 65% Off
@@ -33,62 +55,52 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Robert Graham Footwear Up to 65% Off
     *   FILA Men Up to 65% Off
     *   Lucky Brand Kids &. More
-    
     *   Rebecca Taylor
+    
     *   Time to Upgrade: Smart Watch Bands from $10
     *   Free Shipping: Sleek Organization for Your Home
     *   Stay Warm: Flannel Sheets &. Heated Bedding
-    *   Make a Statement: Maxis &. More ft. TOV
-    *   Luxe Styles ft. go >. by GoSilk
-    *   New Arrivals: Dresses &. Jumpsuits Under $45
     *   RapidLash
-    *   Show Your Stripes: Tops, Dresses &. More
-    *   Matisse Up to 60% Off
-    *   Lazy Day Faves: Sleep &. Lounge Under $30
     *   Velvet by Graham &. Spencer Men
-    *   IT Luggage Up to 60% Off
     *   Swims Up to 55% Off
     *   Men's Waterproof Shoes from Helly Hansen &. More
-    *   AG Up to 60% Off
-    *   AG Men Up to 60% Off
-    *   Anna Beck Jewelry &. More
-    *   Crocs Kids
-    *   John Varvatos Star USA Up to 60% Off
     *   Free Shipping: Boho-Chic Decor Up to 75% Off
     *   SKIN&CO Roma Skin Care Up to 55% Off
     *   Free Shipping: Decals for Every Wall &. More
     *   Bed|Stu Men
-    
-    *   Kids' Fall Favorites: Roxy &. Quiksilver
     *   Free Shipping: Amrapur Towels Up to 70% Off
-    *   Men's Shoes Up to 65% Off
     *   Baiser Beauty: Organic, Vegan Skin Care from $15
     *   Dazzlepro Teeth Whitening Up to 80% Off
     *   Argan Oil Hair Products from Moroccan Gold Series
     *   Free Shipping: Down-Alternative Bedding &. More
-    *   Mirenesse Australia Up to 45% Off
-    *   Predire Paris Luxury Skin Care Starting at $15
     *   Free Shipping: Limited Edition Wall Art
     *   Free Shipping: Pillows &. More Under $30
-    *   Loafers &. Flats Up to 60% Off
-    *   Cartoon Kicks: Shoes ft. Peppa Pig &. More
-    *   Free Shipping: Donna Salyers' Fabulous Faux Furs
     *   Free Shipping: Pet-Friendly Covers &. More
     *   Free Shipping: Rustic Farmhouse Decor
-    *   Free Shipping: Bedding Essentials Up to 65% Off
+    *   IT Luggage Up to 60% Off
+    *   Cartoon Kicks: Shoes ft. Peppa Pig &. More
     *   Free Shipping: Fashion &. Floral Art at $30
-    *   Kenneth Cole New York Men Up to 60% Off
-    *   Tahari Outerwear Up to 70% Off
-    *   Casual but Bold: Pam &. Gela
-    *   Designer Coats Up to 70% Off
-    *   KUT from the Kloth &. Democracy Incl. Plus and Petites
 *   WomenShop Sale Events
     
+    *   FRAME Up to 60% Off
+    *   NANETTE nanette lepore Incl. Plus
+    *   Fall Color Faves: Blouses &. More ft. Lush
+    *   Hair Tool Must-Haves ft. T3, Conair &. More
+    *   Step into Comfort: Kork-Ease &. More
+    *   Alexia Admor
+    *   Whatever the Weather: RAINS, London Fog &. Lole
+    *   14K Gold, Gemstones &. More Under $90
+    *   Boots &. More ft. Italian Shoemakers
+    *   Rachel Zoe
+    *   Stack It Up: Eternity Rings &. More
+    *   Persaman New York
+    *   K-Beauty Skin Care ft. Goodal, Peripera &. More
     *   Monica Vinader Up to 50% Off
     *   Urban Decay Up to 50% Off
     *   Ray-Ban Sun
     *   Taylor &. Gabby Skye Dresses
     *   Dolce Vita
+    
     *   Trending Now: Tie Dye ft. Young Fabulous &. Broke
     *   Date Night Essentials: bebe &. More
     *   14th &. Union and SUSINA
@@ -100,99 +112,85 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   LeSportsac Handbags &. Luggage
     *   FILA Sneakers Up to 65% Off
     *   Rebecca Taylor
-    *   Make a Statement: Maxis &. More ft. TOV
-    *   Luxe Styles ft. go >. by GoSilk
-    *   New Arrivals: Dresses &. Jumpsuits Under $45
-    
     *   RapidLash
-    *   Show Your Stripes: Tops, Dresses &. More
-    *   Matisse Up to 60% Off
-    *   Lazy Day Faves: Sleep &. Lounge Under $30
-    *   IT Luggage Up to 60% Off
-    *   AG Up to 60% Off
-    *   Anna Beck Jewelry &. More
     *   SKIN&CO Roma Skin Care Up to 55% Off
     *   Baiser Beauty: Organic, Vegan Skin Care from $15
     *   Dazzlepro Teeth Whitening Up to 80% Off
     *   Argan Oil Hair Products from Moroccan Gold Series
-    *   Mirenesse Australia Up to 45% Off
-    *   Predire Paris Luxury Skin Care Starting at $15
-    *   Loafers &. Flats Up to 60% Off
-    *   Tahari Outerwear Up to 70% Off
-    *   Casual but Bold: Pam &. Gela
-    *   Designer Coats Up to 70% Off
-    *   KUT from the Kloth &. Democracy Incl. Plus and Petites
+    *   IT Luggage Up to 60% Off
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
+    *   Shoes
     *   Handbags
     *   Lingerie
     *   Accessories
 *   MenShop Sale Events
     
-    *   Goodlife Short Sleeve Polos at $39.97
+    *   FRAME Men Up to 60% Off
+    *   Rains Men's Outerwear Up to 70% Off
+    *   Sovereign Code Up to 65% Off
+    *   Eastland
+    *   French Connection Men's Shoes
     *   Ray-Ban Sun
     *   Robert Graham Clothing, Bags, Belts &. More
+    
     *   Robert Graham Footwear Up to 65% Off
     *   FILA Men Up to 65% Off
     *   Velvet by Graham &. Spencer Men
-    *   IT Luggage Up to 60% Off
-    
     *   Swims Up to 55% Off
     *   Men's Waterproof Shoes from Helly Hansen &. More
-    *   AG Men Up to 60% Off
-    *   John Varvatos Star USA Up to 60% Off
     *   Bed|Stu Men
-    *   Men's Shoes Up to 65% Off
-    *   Kenneth Cole New York Men Up to 60% Off
+    *   IT Luggage Up to 60% Off
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Sovereign Code Kids
+    *   Carter's Footwear Up to 50% Off
     *   FILA Kids Up to 65% Off
     *   Lucky Brand Kids &. More
-    *   Crocs Kids
-    *   Kids' Fall Favorites: Roxy &. Quiksilver
     *   Cartoon Kicks: Shoes ft. Peppa Pig &. More
     
     Shop By Category
     *   Girls' Shoes
-    *   Girls' Sizes 7-16
     *   Boys' Shoes
-    *   Girls' Sizes 2T-6X
+    *   Girls' Sizes 7-16
     *   Boys' Sizes 2T-7
+    *   Girls' Sizes 2T-6X
     *   Boys' Sizes 8-20
+    *   Baby Boy
+    *   Baby Girl
 *   HomeShop Sale Events
     
     *   Le Creuset: New Truffle Collection &. Fall Faves
+    *   Festive Finds: Mark Roberts, Ornaments &. More
+    *   Free Shipping: Barware, Dinnerware &. More
     *   Free Shipping: Finishing Touches for Your Home
     *   Laura Ashley Bedding &. More
     *   Time to Upgrade: Smart Watch Bands from $10
     *   Free Shipping: Sleek Organization for Your Home
     *   Stay Warm: Flannel Sheets &. Heated Bedding
     *   Free Shipping: Boho-Chic Decor Up to 75% Off
+    
     *   Free Shipping: Decals for Every Wall &. More
     *   Free Shipping: Amrapur Towels Up to 70% Off
-    
     *   Free Shipping: Down-Alternative Bedding &. More
     *   Free Shipping: Limited Edition Wall Art
     *   Free Shipping: Pillows &. More Under $30
-    *   Free Shipping: Donna Salyers' Fabulous Faux Furs
     *   Free Shipping: Pet-Friendly Covers &. More
     *   Free Shipping: Rustic Farmhouse Decor
-    *   Free Shipping: Bedding Essentials Up to 65% Off
     *   Free Shipping: Fashion &. Floral Art at $30
     
     Shop By Category
     *   Home Decor
     *   Bedding
-    *   Pet Accessories
     *   Kitchen &. Tabletop
+    *   Pet Accessories
     *   Electronic &. Tech Accessories
     *   Bath
     *   Luggage &. Travel
@@ -203,6 +201,8 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Rugs &. Doormats
 *   BeautyShop Sale Events
     
+    *   Hair Tool Must-Haves ft. T3, Conair &. More
+    *   K-Beauty Skin Care ft. Goodal, Peripera &. More
     *   Urban Decay Up to 50% Off
     *   Michael Todd Beauty Soniclear &. More Up to 60% Off
     *   Avant Skin Care &. More Up to 80% Off
@@ -211,8 +211,6 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Baiser Beauty: Organic, Vegan Skin Care from $15
     *   Dazzlepro Teeth Whitening Up to 80% Off
     *   Argan Oil Hair Products from Moroccan Gold Series
-    *   Mirenesse Australia Up to 45% Off
-    *   Predire Paris Luxury Skin Care Starting at $15
     
     Shop By Category
     *   Skin Care
@@ -220,8 +218,8 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Bath &. Body
     *   Hair Care
     *   Makeup Bags
-    *   Tools &. Accessories
     *   Fragrance
+    *   Tools &. Accessories
     *   Nails
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
