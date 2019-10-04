@@ -113,8 +113,8 @@ Skip to main content
     
     *   Vaping-Related Lung Illnesses Continue to Rise
     *   Heartburn Meds and Cancer: Are You at Risk?
-    *   Personalized Diets for Weight Loss
-    *   Billions of 'Microplastics' in Each Plastic Teabag
+    *   Fish Oil May Help Your Heart
+    *   Why You Should Buy Organic Chicken
     *   Is There a Safer Way to Sterilize Medical Equipment?
     
     Experts &. Community
