@@ -68,7 +68,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   'Frozen II': Meet the New Characters Read More
-    *   Today in Movie Culture: Imagining ‘Joker’ as a 1970s Movie, What If Clint Eastwood Starred in ‘Gemini Man’ and More Read More
+    *   Today in Movie Culture: The History of the Joker, Spotlight on ‘Joker’ Actress Frances Conroy and More Read More
     *   Next 3 Major Animated Movies: 'The Addams Family,' 'Frozen II,' 'Spies in Disguise' Read More
     
     Explore Content
@@ -299,9 +299,9 @@ Offers
     
     100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
     
-*   Get $5 off a movie ticket
+*   'Cats' Sweepstakes
     
-    When you purchase 3 participating Klass Aguas Frescas. SEE DETAILS
+    Sign up for a 'Cats' FanAlert™ for your chance to win a trip to the premiere in London! \*Terms apply. ENTER NOW
     
 *   Get a $13 Movie Ticket to see 'The Addams Family'
     
