@@ -138,7 +138,7 @@ Connect
 *   Home
 *   Contact Us
 *   Site Map
-*   Website Accessibility
+*   Accessibility
 *   Technical Help
 *   Privacy &. Security
 *   Terms of Use
@@ -157,7 +157,7 @@ Loading
 *   Home
 *   Contact Us
 *   Site Map
-*   Website Accessibility
+*   Accessibility
 *   Technical Help
 *   Privacy &. Security
 *   Terms of Use
@@ -238,6 +238,7 @@ We offer insurance by phone, online and through independent agents. Prices vary 
         *   Keys to Progress
         *   Newsroom
         *   Media Contacts
+        *   TV Commercials
     *   Careers
         *   Jobs Overview
         *   Working at Progressive
