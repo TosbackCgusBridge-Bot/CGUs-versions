@@ -105,7 +105,7 @@ Lenovo Explore Close
         *   2-in-1 Tablets
         *   Smart Tab
         
-        *   Quick Links
+        *   Best Selling Tablets
         *   For Kids
         *   For Everyday Use
         *   For Performance
@@ -148,13 +148,13 @@ Lenovo Explore Close
         *   Small Business Accessories
         *   Compatibility Finder
         
-        *   Top Brands
-        *   Lenovo
-        *   ThinkPad
-        *   Yoga
-        *   Logitech
-        *   Xerox
-        *   Sandy Lisa
+        *   Best Selling Accessories
+        *   ThinkPad 90W Pro Dock
+        *   C2G USB-C Docking Station
+        *   TAB4 10 BT Keyboard
+        *   Lenovo Professional Combo
+        *   Thinkpad Wired USB Keyboard
+        *   Everyday Backpack
     *   Monitors
         
         *   Always Free Shipping
