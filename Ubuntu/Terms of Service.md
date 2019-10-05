@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   Robotics security: What is SROS 2?
+*   The smart dump plugin
 *   ROSCon Japan 2019!
 *   5G Core implementation: Challenges in the field
 *   Design and Web team summary –27 September 2019
-*   Easy Linux Game Streaming with OBS
-*   Deploying Kubernetes Locally – MicroK8s
 
 *    ›
