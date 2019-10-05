@@ -15,8 +15,15 @@ Dans les formulaires de collecte de données à caractère personnel sur le site
 SOMMAIRE
 
 *   _1._ QUI COLLECTE LES DONNÉES À CARACTERE PERSONNEL ?
+*   _1.1._ La Redoute : Responsable de traitement
+*   _1.2._ Les autres responsable de traitement
 *   _2._ QUELLES SONT LES FINALITES DE LA COLLECTE DE VOS DONNÉES PERSONNELLES ET QUELLES SONT NOS RAISONS ?
+*   _2.1._ Base juridique des traitements
+*   _2.2._ Base juridique de la Redoute
 *   _3._ À QUI VOS DONNÉES SONT ELLES TRANSMISES ?
+*   _3.1._ Les Destinataires de données de la Redoute
+*   _3.2._ Les sous-traitants de la Redoute
+*   _3.3._ Data Alliance
 *   _4._ QUELS SONT MES DROITS SUR LES DONNÉES ?
 *   _4.1._ Quels sont mes droits ?
 *   _4.2._ Que faire ensuite ?
@@ -27,6 +34,7 @@ SOMMAIRE
 *   _7._ COMBIEN DE TEMPS MES DONNÉES SONT-ELLES CONSERVÉES ?
 *   _7.1._ Règles générales concernant la gestion de la relation commerciale :
 *   _7.2._ Règles spécfiques concernant certains traitements de données :
+*   _7.3._ Règles spécfiques concernant les données bancaires :
 *   _8._ QUELLES MESURES DE SECURITÉ SONT PRISES POUR PROTÉGER MES DONNÉES ?
 *   _8.1._ Règles générales
 *   _8.2._ Règles applicables aux données bancaires et à la carte bancaire
@@ -39,6 +47,7 @@ SOMMAIRE
 *   _11.3._ Retargeting E-Mail
 *   _11.4._ Notifications sur les applications mobiles
 *   _11.5._ Prospection commerciale par téléphone
+*   _11.6._ Prospection commerciale par voie postale
 *   _12._ EST-CE QUE REDOUTE UTILISE DES COOKIES, TAGS ET TRACEURS
 *   _12.1._ QU’EST-CE QU’UN COOKIE ?
 *   _12.2._ POUR QUELLES RAISONS DES COOKIES, TAGS ET TRACEURS SONT UTILISÉS ?
@@ -51,15 +60,19 @@ SOMMAIRE
 *   _13.1._ QUELLES SONT SES MISSIONS ?
 *   _13.2._ COMMENT CONTACTER LE DÉLÉGUÉ À LA PROTECTION DES DONNÉES ?
 
-1\. QUI COLLECTE LES DONNÉES À CARACTERE PERSONNEL ?
+1\. QUI COLLECTE LES DONNÉES À CARACTERE PERSONNEL ? 1.1. La Redoute : Responsable de traitement
 
-La société qui collecte les données à caractère personnel et met en œuvre les traitements de donnée est :
+De manière générale, la société qui collecte les données à caractère personnel et mets en œuvre les traitements de donnée est :
 
 La Redoute, Société par Actions Simplifié au capital de 353 490 250 Euros, immatriculée au Registre du Commerce et des Sociétés de Lille-Métropole sous le numéro 477 180 186 dont le siège social est situé au 110 rue de Blanchemaille à Roubaix (59100).
 
-2\. QUELLES SONT LES FINALITÉS DE LA COLLECTE DE VOS DONNÉES PERSONNELLES ET QUELLES SONT NOS RAISONS ?
+1.2. Les autres responsable de traitement
 
-**2.1 BASE JURIDIQUE DES TRAITEMENTS**
+Cependant lors de votre visite sur le site internet, d’autres sociétés sont susceptibles de collecter des données à caractère personnel vous concernant. Ces sociétés peuvent éditer des cookies, traceurs ou tags évoqués au point 12 des présentes.
+
+Lorsque vous effectuez une commande auprès d’un vendeur tiers accessible sur la marketplace proposée par La Redoute, ce dernier collecte également des données à caractère personnel en tant que responsable de traitement conjoint avec La Redoute. Les conditions de collecte des données de chaque vendeur sont accessibles sur sa page vendeur.
+
+2\. QUELLES SONT LES FINALITÉS DE LA COLLECTE DE VOS DONNÉES PERSONNELLES ET QUELLES SONT NOS RAISONS ? 2.1 BASE JURIDIQUE DES TRAITEMENTS
 
 La vie privée des utilisateurs est protégée par la règlementation. En vertu de la règlementation sur la protection des données, La Redoute n'est autorisée à utiliser les données personnelles de ses utilisateurs que si elle dispose d'une base juridique valable. La Redoute doit s'assurer de disposer d'une ou de plusieurs des bases juridiques suivantes :
 
@@ -70,7 +83,9 @@ La vie privée des utilisateurs est protégée par la règlementation. En vertu 
 
 Un " intérêt légitime " de la Redoute ne doit pas aller à l'encontre des droits et libertés des utilisateurs. Parmi les exemples d'intérêts légitimes mentionnés dans le RGPD figurent la prévention de la fraude, le marketing direct et le partage de données au sein d'un groupe de sociétés (comme La Redoute).
 
-**2.2 LES BASES JURIDIQUES DE LA REDOUTE**
+Les bases juridiques applicables pour chaque traitement de données sont précisées dans le tableau ci-après.
+
+2.2 LES BASES JURIDIQUES DE LA REDOUTE
 
 La société Redoute est amenée à collecter et à enregistrer des données à caractère personnel de ses clients pour effectuer les traitements suivants :
 
@@ -81,7 +96,7 @@ La société Redoute est amenée à collecter et à enregistrer des données à 
 *   Gestion du compte client, du panier d’achat et des commandes ;
 
 *   Exécution du contrat passé entre un Client et la Redoute
-*   Intérêt légitime de la Redoute
+*   Intérêt légitime de la Redoute de fournir un espace client pour gérer ses commandes
 
 *   Gestion des opérations de paiement et de crédit
 
@@ -92,6 +107,10 @@ La société Redoute est amenée à collecter et à enregistrer des données à 
 *   Exécution du contrat passé entre un Client et la Redoute
 
 *   Gestion de la relation client (téléphone / tchat / email), du suivi des commandes du service après-vente, des retours produits et des remboursements ;
+
+*   Exécution du contrat passé entre un Client et la Redoute
+
+*   Mise à disposition d’un programme de fidélité La Redoute et Moi
 
 *   Exécution du contrat passé entre un Client et la Redoute
 
@@ -110,12 +129,15 @@ La société Redoute est amenée à collecter et à enregistrer des données à 
 
 *   Opérations de statistiques, d’analyse, de sélection et de segmentation des clients afin d’améliorer la connaissance des clients ;
 
-*   Exécution du contrat passé entre un Client et la Redoute
-*   Intérêt légitime de la Redoute
+*   Intérêt légitime de la Redoute de mieux connaître ses clients et d’adapter ses offres aux clients
 
-*   Envoi d’offres commerciales ciblées par email, par notifications mobiles, sur les réseaux sociaux, sur d’autres sites internet ou tout autre support ;
+*   Envoi d’offres commerciales ciblées par voie électronique ( email, par notifications mobiles ou sur le navigateur internet, sur les réseaux sociaux, sur d’autres sites internet)
 
 *   Consentement du Client
+*   Intérêt légitime pour les envois de prospection sur support papier
+
+*   Envoi d’offres commerciales ciblées par voie postale
+
 *   Intérêt légitime pour les envois de prospection sur support papier
 
 *   Personnalisation des sites (mobile et desktop) et applications selon les affinités de l’Utilisateur ;
@@ -134,14 +156,15 @@ La société Redoute est amenée à collecter et à enregistrer des données à 
 
 *   Intérêt légitime de la Redoute
 
-*   Partage d’informations avec des partenaires commerciaux ;
+*   Partage d’informations avec des partenaires commerciaux (listés au point 3.1) ;
 
 *   Exécution du contrat passé entre un Client et la Redoute
-*   Consentement du Client (pour les opérations à des fins de prospection)
+*   Consentement du Client (pour les opérations à des fins de prospection par voie électronique par des partenaires)
+*   Intérêt légitime de la Redoute pour les opérations de partenaires par voie postale ou par téléphone) (sous réserve de l’absence d’opposition du Client auprès de La Redoute)
 
 *   Mise à disposition d’une marketplace permettant à d’autres vendeurs que la Redoute de proposer leurs produits ;
 
-*   Intérêt légitime de la Redoute
+*   Intérêt légitime de la Redoute de proposer une offre diversifiée sur son site
 
 *   Mise à disposition d’un outil d’accessibilité permettant aux personnes atteintes de surdité de commander sur le site.
 
@@ -156,6 +179,8 @@ Les opérations de mise en relation des personnes ayant des problèmes de surdit
     3. A QUI VOS DONNÉES SONT ELLES TRANSMISES ?
 
 Vos données sont transmises à des partenaires de La Redoute qui peuvent traiter les données pour leur compte (ce sont des destinataires) ou uniquement pour le compte et selon les instructions de La Redoute (ce sont des sous-traitants).
+
+3.1. Les Destinataires de données de la Redoute
 
 Les destinataires des données sont :
 
@@ -187,13 +212,19 @@ Les destinataires des données sont :
 
 \- Enfants (colonies vacances/hygiène/loisirs)
 
-\- Formation Enfant/Ecolies
+\- Formation Enfant/Ecoles
 
 \- Téléphonie/Internet
 
 \- Gaz/Eau/Electricité
 
 \- Loisirs
+
+\- Partenaires d’Affiliation
+
+\- Réseaux sociaux
+
+3.2. Les sous-traitants de la Redoute
 
 La Redoute fait également appel à des sous-traitants pour les opérations suivantes :
 
@@ -208,10 +239,15 @@ La Redoute fait également appel à des sous-traitants pour les opérations suiv
 *   L’expédition des emails de prospection commerciale et des notifications mobiles
 *   La vente de voyages
 
-La Redoute peut également partager les données à caractère personnnel si la structure du groupe La Redoute change à l'avenir :
+3.3. Data Alliance
 
-*   En cas de vente, transfert ou fusion de l'entreprise ou d'une partie de celle-ci, ou si La Redoute acquiert ou fusionne avec une autre société.
-*   Si une telle transaction a lieu, La Redoute s’assurera que l’autre partie respecte la législation sur la protection des données.
+La Redoute peut également partager les données à caractère personnnel au sein de la Data Alliance dans le cadre de son rapprochement avec les Galeries Lafayettes.
+
+L’objectif de cette Alliance est pour chaque enseigne d’améliorer la connaissance client et d’adresser des offres ciblées plus pertinentes.
+
+Vous pouvez à tout moment vous opposer au partage de données au sein de cette Alliance en Cliquant ici
+
+Pour plus d’informations, vous pouvez contacter le délégué à la protection des données.
 
   4. QUELS SONT MES DROITS SUR LES DONNÉES 4.1. Quels sont mes droits ?
 
@@ -234,7 +270,7 @@ Par voie postale, en nous écrivant à l’adresse suivante :
 
 **Service Relations Clients – 59081 Roubaix Cedex 2, en indiquant vos nom, prénom, adresse, email et si possible référence client afin d'accélérer la prise en compte de votre demande.**
 
-Par voie électronique, en cliquant ici
+Par voie électronique, via le formulaire du Privacy Center en cliquant ici
 
 La demande doit être accompagnée d’un justificatif d’identité.
 
@@ -249,6 +285,11 @@ En cas de l’exercice d’un droit d’opposition au profilage marketing, l’u
 En cas de non réponse ou de réponse non satisfaisante, la personne concernée a la faculté de saisir l’autorité de contrôle de son pays de résidence :
 
 *   En France, la CNIL : https://www.cnil.fr/
+*   Au Royaume Uni, l’ICO : https://ico.org.uk/
+*   En Espagne, l’AEPD : http://www.agpd.es/portalwebAGPD/index-idfr-idphp.php
+*   Au Portugal, la CNPD : https://www.cnpd.pt/index.asp
+*   En Belgique, la CPVP : https://www.privacycommission.be/fr
+*   En Suisse, PFPDT : https://www.edoeb.admin.ch/edoeb/de/home.html
 
 5\. QUEL EST LE SORT DE MES DONNÉES APRES MON DÉCÈS ?
 
@@ -270,13 +311,13 @@ Des transferts hors Union Européenne peuvent être réalisés notamment dans le
 
 **Encadrement du transfert de données**
 
-Réalisation des operations logisiques
-
-Australie
-
-Clauses contractuelles types
-
 Exploitation des données vers les réseaux sociaux
+
+Etats-Unis
+
+Privacy Shield / Clauses contractuelles types
+
+Suivi de la navigation
 
 Etats-Unis
 
@@ -286,11 +327,27 @@ Activités de relation client
 
 Maroc
 
-Clauses contractuelles types
+Madagascar
+
+Côte d’Ivoire
+
+Clauses contractuelles types BCR
 
 Activités de relation client
 
 Côte d’Ivoire
+
+Clauses contractuelles types
+
+Hébergement des données
+
+Russie
+
+Clauses contractuelles types
+
+Hébergement des données
+
+Etats-Unis
 
 Clauses contractuelles types
 
@@ -305,9 +362,9 @@ La Redoute a déterminé des règles précises concernant la durée de conservat
 Pour calculer la durée de conservation la plus pertinente, la Redoute distingue :
 
 *   les personnes dites « prospect » et n’ayant jamais effectué d’achat auprès de la Redoute et de ses partenaires
-*   les personnes dites « clients » ayant effectué au moins 1 achat (y compris achat marketplace )
+*   les personnes dites « clients » ayant effectué au moins 1 achat (y compris les achats sur la Marketplace )
 
-Une durée de conservation distincte sera appliquée aux prospects et aux clients.
+Les données des clients et des prospects sont conservées pendant une durée de 3 ans
 
 Concernant les prospects, le point de départ de la durée de conservation est la création du compte
 
@@ -323,6 +380,16 @@ En voici quelques exemples :
 *   Les consignes concernant la lutte contre la fraude sont conservées 3 ans.
 *   Les factures liés aux achats sont conservées 10 ans.
 
+7.3. Règles spécifiques concernant les données bancaires :
+
+Afin de vous éviter de saisir à nouveau vos coordonnées bancaires lors de prochaines commandes, vous pouvez choisir, en cochant la case d’acceptation prévue à cet effet, que vos cartes bancaires soient associées à votre compte en ligne. Elles sont enregistrées chez OGONE de façon sécurisée. Vous pouvez consulter la liste de vos cartes enregistrées (en mode masqué), mais également supprimer tout ou partie de son contenu, dans la partie « Moyens de paiement » de la rubrique « Mes achats » de « Mon Compte ». Dans ce cas, vos cartes supprimées n’apparaîtront plus dans votre compte en ligne ni lors de futures commandes
+
+Afin de pouvoir débiter le compte lors de la facturation ou de la créditer suite à un retour, OGONE garde les données bancaires associées au n° d’autorisation, le temps nécessaire à la réalisation de la transaction (paiements après expédition de la marchandise) et au traitement des éventuelles réclamations (retours, litiges).
+
+Si vous avez fait le choix d’enregistrer vos cartes bancaires, celles-ci sont désactivées automatiquement à l’expiration de la date de validité de la carte.
+
+Lors de la souscription à un abonnement La Redoute et Moi, vos données bancaires sont conservées par le prestataire OGONE de façon sécurisée. Vous avez la possibilité de vous y opposer lors de la souscription de votre abonnement et à tout moment en exerçant vos droits.
+
 Pour plus d’informations sur les durées de conservation appliquées par la Redoute, vous pouvez contacter le délégué à la protection des données (cf. point 12).
 
 8\. QUELLES MESURES DE SÉCURITÉ SONT PRISES POUR PROTÉGER MES DONNÉES ? 8.1. Règles générales
@@ -337,9 +404,6 @@ Lorsqu’elle recourt à des sous-traitants, La Redoute s’assure du respect pa
 
 Afin d´assurer la sécurité des paiements, La Redoute utilise les services d’un prestataire, OGONE, certifié PCI-DSS. Cette norme est un standard de sécurité international dont les objectifs sont d’assurer la confidentialité et l’intégrité des données des porteurs de cartes, et ainsi de sécuriser la protection des données cartes et de transaction.  
 Lorsque vous passez une commande en paiement carte bancaire à La Redoute, notre système de prise de commande se connecte en temps réel avec le système d’OGONE qui collecte vos données et procède aux diverses vérifications pour éviter les abus et les fraudes. Les données sont stockées sur les serveurs OGONE et ne sont à aucun moment transmises sur les serveurs de La Redoute. OGONE fait la demande d’autorisation auprès de la banque et nous transmet un n° de transaction qui permet des opérations à hauteur du montant de l’autorisation.  
-Afin de vous éviter de saisir à nouveau vos coordonnées bancaires lors de prochaines commandes, vous pouvez choisir, en cochant la case d’acceptation prévue à cet effet, que vos cartes bancaires soient associées à votre compte en ligne. Elles sont enregistrées chez OGONE de façon sécurisée. Vous pouvez consulter la liste de vos cartes enregistrées (en mode masqué), mais également supprimer tout ou partie de son contenu, dans la partie « Moyens de paiement » de la rubrique « Mes achats » de « Mon Compte ». Dans ce cas, vos cartes supprimées n’apparaîtront plus dans votre compte en ligne ni lors de futures commandes.  
-Afin de pouvoir débiter le compte lors de la facturation ou de la créditer suite à un retour, OGONE garde les données bancaires associées au n° d’autorisation, le temps nécessaire à la réalisation de la transaction (paiements après expédition de la marchandise) et au traitement des éventuelles réclamations (retours, litiges).  
-Si vous avez fait le choix d’enregistrer vos cartes bancaires, celles-ci sont désactivées automatiquement à l’expiration de la date de validité de la carte.
 
 8.3. Lutte contre la fraude sur internet
 
@@ -347,9 +411,9 @@ Afin de sécuriser les paiements et les livraisons et vous assurer une qualité 
 
 9\. QUE FAUT-IL SAVOIR DES DONNÉES COLLECTEES PAR LES RÉSEAUX SOCIAUX ?
 
-La Redoute vous propose de recourir aux réseaux sociaux pour améliorer la relation commerciale et vous proposer des offres publicitaires ciblées sur ces réseaux.
+La Redoute vous propose de recourir aux réseaux sociaux pour améliorer la relation commerciale (ex : Facebook messenger), partager des contenus ( ex : les boutons « partager » de Facebook, Instagram ou Twitter), vous proposer des offres publicitaires ciblées sur ces réseaux (ex : Facebook Custom Audience ou Pinterest) ou vous permettre une authentification simplifiée au moyen d’un social connect (ex : Facebook connect).
 
-L’utilisation des réseaux sociaux pour interagir avec la Redoute (et comprenant notamment les outils Facebook Messenger, Facebook Connect, les boutons « partager » de Facebook, Instagram ou Twitter) est susceptible d’entrainer des échanges de données entre la Redoute et ces réseaux sociaux.
+L’utilisation des réseaux sociaux pour interagir avec la Redoute est susceptible d’entrainer des échanges de données entre la Redoute et ces réseaux sociaux.
 
 Par exemple, si vous êtes connecté au réseau social Facebook sur votre ordinateur et que vous consultez une page du site de la Redoute, Facebook est susceptible de collecter cette information. De même, si vous cliquez sur le bouton « tweeter » sur une page du site la Redoute, twitter collectera cette information.
 
@@ -386,6 +450,7 @@ Dans tous les cas, l’Utilisateur a la possibilité de s’opposer à la récep
 *   Lors de la création du compte, cocher à « non » les cases liées à la prospection ;
 *   Pour l’email, en cliquant sur le lien de désabonnement prévu dans chaque email ou en se rendant sur son compte Redoute dans la rubrique newsletter ;
 *   Pour le sms, en envoyant un stop SMS au numéro indiqué dans celui-ci ou en se rendant sur son compte Redoute dans la rubrique newsletter ;
+*   En se connectant sur son compte La Redoute et en accédant au Privacy Center lui permettant de gérer ses abonnements ;
 *   En contactant le service client.
 
 11.3. Retargeting E-Mail
@@ -412,9 +477,12 @@ Vous pouvez à tout moment désactiver ces notifications dans les réglages de v
 
 11.5. Prospection commerciale par téléphone
 
-La Redoute a la possibilité de vous contacter par téléphone pour vous proposer des offres sur des produits ou services. Si vous ne souhaitez pas être sollicité, vous avez la possibilité de vous inscrire sur la liste d’opposition au démarchage téléphonique accessible sur le site www.bloctel.gouv.fr
+LLa Redoute a la possibilité de vous contacter par téléphone pour vous proposer des offres sur des produits ou services. Vos coordonnées téléphoniques peuvent également être transmises à des partenaires de La Redoute (liste des partenaires au 3.1 de la présente politique). Si vous ne souhaitez pas être sollicité, vous avez la possibilité de vous inscrire sur la liste d’opposition au démarchage téléphonique accessible sur le site www.bloctel.gouv.fr ou d’exercer votre droit d’opposition auprès de la Redoute en cliquant ici.
 
-  
+11.6. Prospection commerciale par voie postale
+
+La Redoute ou ses partenaires peuvent vous adresser des sollictaitons par voie postale. Vous pouvez vous y opposer à tout moment en exerçant votre droit d’opposition conformément au point 4 de la présente politique de protection des données.
+
 12\. EST-CE QUE REDOUTE UTILISE DES COOKIES, TAGS ET TRACEURS
 
 Lors de l’utilisation de notre Service, des informations relatives à la navigation de votre terminal (ordinateur, tablette, smartphone, etc.), sont susceptibles d'être enregistrées dans des fichiers "Cookies" déposés sur votre terminal, sous réserve des choix que vous auriez exprimés concernant les Cookies et que vous pouvez modifier à tout moment.
@@ -430,6 +498,8 @@ Il existe deux types de cookies :
 *   les cookies first party, déposés par La Redoute pour les besoins de la navigation et du fonctionnement du site ;
 *   des cookies third party déposés par des sociétés partenaires tierces afin d’identifier vos centres d’intérêt et de vous adresser des offres personnalisées. Ces cookies third party sont directement gérés par les sociétés qui les éditent et qui doivent également respecter la règlementation sur la protection des données.
 
+Le cookie est enregistré sur votre ordinateur lorsque vous consultez le site internet de La Redoute ou lorsque vous consultez un email de La Redoute.
+
 12.2. POUR QUELLES RAISONS DES COOKIES, TAGS ET TRACEURS SONT UTILISES ?
 
 Les Cookies que la Redoute émet sur le site et l’application mobile nous permettent :  
@@ -440,7 +510,8 @@ Les Cookies que la Redoute émet sur le site et l’application mobile nous perm
 \- de vous permettre d'accéder à des espaces réservés et personnels de notre Site, tels que votre compte, grâce à des identifiants ;  
 \- de mettre en œuvre des mesures de sécurité, par exemple lorsqu’il vous est demandé de vous connecter à nouveau à votre compte après un certain laps de temps ;  
 \- partager des informations avec des annonceurs sur d’autres sites internet pour vos proposer des annonces publicitaires pertinentes et en adéquation avec vos centres d’intérêts. A ce titre, nous avons recours à des cookies publicitaires.  
-\- partager des informations sur les réseaux sociaux. A ce titre, nous avons recours à des cookies permettant de partager sur ces réseaux.
+\- partager des informations sur les réseaux sociaux. A ce titre, nous avons recours à des cookies permettant de partager sur ces réseaux.  
+\- de disposer de statistiques de délivrabilité, d’ouverture et de lecture des newsletters adressées par email.
 
 12.3. COMMENT PARAMETRER LE DEPOT DES COOKIES, TAGS ET TRACEURS ?
 
@@ -473,29 +544,6 @@ Afin de se conformer à la règlementation, la Redoute utilise un outil permetta
 Pour accéder à la liste des cookies déposés et en configurer le dépôt cliquez ici (Veuillez noter que certains logiciels anti-pub sont incompatibles avec cette fonctionnalité)
 
   12.3.4. Liste d’opposition permettant de gérer le dépôt des cookies
-
-Vous avez également la possibilité de vous opposer au dépôt des cookies en accédant au site internet http://www.youronlinechoices.com/fr/controler-ses-cookies/.
-
-Certains éditeurs de cookie déposés sur le site www.laredoute.fr propose aux Utilisateurs de paramètrer le dépôt du cookie qu’ils proposent.
-
-Cliquez sur le lien correspondant pour paramètrer le cookie de votre choix :
-
-**AB TASTY** :  
-AB Tasty collecte des données statistiques de fréquentation. Ces données sont des données de connexion relatives, par exemple, au navigateur utilisé, au nombre de pages vues, au nombre de visites, au cheminement de l’Internaute sur un site, au temps passé sur un site, une page, au remplissage du panier ou son abandon, etc.
-
-Aucune donnée personnelle primaire (nom, prénom, téléphone, adresse, …) n’est collectée à l’initiative d’AB Tasty lors de la réalisation de la prestation de service par les solutions d’AB Tasty.
-
-Seules deux types de données secondaires (c’est-à-dire des données dont on ne peut exclure qu’elles pourraient permettre dans certains cas de remonter à un individu) sont collectées par les solutions d’AB Tasty, le cookie et l’IP.
-
-Pour paramètrer le cookie, rendez-vous sur la page suivante : https://support.abtasty.com/hc/fr/articles/200238607-Comment-faire-pour-ne-pas-%C3%AAtre-soumis-aux-tests-optout-
-
-**Liveramp** :  
-La technologie LiveRamp permet aux annonceurs d’afficher sur les sites web et/ou applications mobiles que vous visitez, des offres pertinentes basées sur vos habitudes de consommation et à des fins d’analyse. Pour fonctionner ce service repose sur le dépôt de cookie sur votre navigateur ou lors de l’ouverture d’un email, ou sur l’utilisation du device ID. La réception de votre courriel crypté de manière irréversible permet la création d’une clé technique associée à nos cookies et/ou devices ID. En déposant nos cookies, certaines informations techniques peuvent être automatiquement collectées (adresse IP, système d’exploitation ou type de navigateur). Nos cookies ne traquent pas votre navigation. Nous ne stockons aucune information liée à votre connexion. Vous pouvez à tout moment et facilement vous opposer en cliquant ici
-
-**CRITEO** :  
-Les services de Criteo consistent en l’affichage de publicités et l’envoi d’emails personnalisés sur la base du comportement récent des internautes sur les sites, newsletters et applications de ses partenaires. Criteo reconnaît les internautes à l'aide de cookies. Pour en savoir plus sur Criteo Display ou pour désactiver ce service, veuillez cliquer ici _(lien vers_ _http://www.criteo.com/fr/privacy/_ _)_ . Pour en savoir plus sur Criteo Email ou désactiver ce service, veuillez cliquer ici (_lien vers_ http://privacy.criteoemail.com/fr/index.html ).
-
-Liste d’opposition permettant de gérer le dépôt des cookies
 
 Vous avez également la possibilité de vous opposer au dépôt des cookies en accédant au site internet http://www.youronlinechoices.com/fr/controler-ses-cookies/.
 
