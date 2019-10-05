@@ -182,11 +182,11 @@ Close submenu ( Girls ) Girls
 *   Real Denim
 *   Destroyed Denim
 *   Repreve Denim
-*   The OG Collection
 *   Music + Pop Culture
 *   Matching Sets
 *   Layer Up
 *   Aero One
+*   Wild Things
 
 Close submenu ( Guys ) Guys
 
@@ -381,11 +381,11 @@ Menu Find a Store Aeropostale
         *   Real Denim
         *   Destroyed Denim
         *   Repreve Denim
-        *   The OG Collection
         *   Music + Pop Culture
         *   Matching Sets
         *   Layer Up
         *   Aero One
+        *   Wild Things
     
     *   Guys
         *   View All
