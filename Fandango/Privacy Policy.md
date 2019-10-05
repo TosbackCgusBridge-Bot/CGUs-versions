@@ -67,8 +67,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   'Frozen II': Meet the New Characters Read More
-    *   Today in Movie Culture: The History of the Joker, Spotlight on ‘Joker’ Actress Frances Conroy and More Read More
+    *   The Week in Movie News: Eddie Murphy Confirms ‘Beverly Hills Cop 4,’ First ‘Birds of Prey’ Trailer and More Read More
+    *   Today in Movie Culture: The Joker Meets Pennywise, a Legal Look at the Joker’s Mental Health and More Read More
     *   Next 3 Major Animated Movies: 'The Addams Family,' 'Frozen II,' 'Spies in Disguise' Read More
     
     Explore Content
