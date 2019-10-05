@@ -115,53 +115,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Charles Blow_: Donald Trump Is Desperate
+*   _Peter Schweizer_: Biden's Vice Presidency Was Very Lucrative for His Son
     
-*   _Jenna Rives_: The Media Failed With Collusion, and They're Failing Again
+*   _Andrew Sullivan_: Trump Is Begging to Be Impeached
     
-*   _Brian Cates_: Dems' Political Theater Won't Stop the Spygate Fallout
+*   _David Marcus_: It's Not a Crime to Ask China &. Ukraine to Investigate Biden
     
-*   _Marik von Rennenkampff_: Trump Embraces 9 Debunked Conspiracy Theories
+*   _Eugene Robinson_: Trump's Desperate, Hopeless Attempt to Gaslight U.S.
     
-*   _Byron York_: Joe Biden Is No Longer the Democratic Frontrunner
+*   _Rich Lowry_: Democrats' Russia Delusion Still Leading Them Astray
     
-*   _Molly Ball_: Her Case: Kamala Harris Fights for a Path Forward
+*   _Jiwei Ci_: Without Democracy, China Will Rise No Farther
     
-*   _Asma Khalid_: How White Liberals Became Woke, Radically Shifting Outlook
+*   _Victor Davis Hanson_: How China 'Woke' America
     
-*   _Coleman Hughes_: The Case for Black Optimism
+*   _Robert Epstein_: How Big Tech Bias Threatens Free and Fair Elections
     
-*   _Vanessa Kohorst_: Media Lies About Innocent Fathers Also Harm Daughters
+*   _Nick Bilton_: Silicon Valley Hacked Our Minds and Lost Its Conscience
     
-*   _E.J. Dionne_: Will Impeaching Trump Finally Organize Democrats?
+*   _Billy Hallowell_: Guyger Trial Ends With an Amazing Act of Forgiveness
     
-*   _Daniel McCarthy_: Dems' Are Playing a Dangerous Game With Impeachment
+*   _Kalev Leetaru_: Trump's Economic Message Gets Scant Play on TV News
     
-*   _Ford O'Connell_: Why Dems Keep Misfiring in Attempts to Undo 2016 Election
+*   _Susan Glasser_: Did Donald Trump Just Self-Impeach?
     
-*   _Peter Beinart_: Trump's Ukraine Claims Are Debunked Conspiracy Theories
+*   _Kimberley Strassel_: Schiff's Shifty Timeline
     
-*   _Thomas Farnan_: DOJ's Worldwide Dragnet to Catch the Hoaxers
+*   _Philip Wegmann_: Trump's Plea to China on Biden: Sly Move or Reckless One?
     
-*   _Rahm Emanuel_: Pelosi Has Many Good Options to Take Down Trump
+*   _Peter Eisner_: Mike Pence Can't Escape Trump's Ukraine Scandal
     
-*   _Brad Parscale_: Trump Fundraising Shows Impeachment Backfiring on Dems
+*   _George Parry_: Trump's Focus on CrowdStrike Has Dems Nervous
     
-*   _Matt Compton_: Why the Trump Donor Bonanza May Be a Flash in the Pan
+*   _Joshua Green_: A Political Hit Job Gone Bad Led to Impeachment Inquiry
     
-*   _John Podhoretz_: Sanders' Woes Make Warren Best Bet to Win Nomination
+*   _Canaparo &. Jipping_: What's Going On in the Intelligence Community IG Office?
     
-*   _Perry Bacon_: Why Black Democrats Prefer Establishment Candidates
+*   _Ronald Brownstein_: Why Trump’s Favorite 2016 Map Should Scare Him
     
-*   _Elizabeth Economy_: China's Neo-Maoist Moment
+*   _Fletch Daniels_: Why Trump Is Likely to Win the Rust Belt in 2020
     
-*   _Mary Lovely_: Americans Are About to Feel the Burden of Trump's Tariffs
+*   _George Conway_: Donald Trump: Unfit for Office
     
-*   _Betsy McCaughey_: The Right Way to Fix Health Insurance Costs
+*   _Conrad Black_: Joe Biden: Mediocrity Personified
     
-*   _Antonio Guterres_: The Movement to Take Climate Action Has Begun
+*   _Bill Scher_: How President Pence Would Blow Up 2020
     
-*   _Richard Trzupek_: 'There Is No Climate Emergency'
+*   _Scott Walker_: Dems Choose Politics Over Advancing Trade Deal
     
 
 *   Previous
@@ -233,8 +233,8 @@ RecommendedPolitics
 *   Investigations
 
 *   Trump's Plea to China on Biden: Sly Move or Reckless One?
-*   Sanders Is Hospitalized for Heart Procedure and Cancels Events
-*   McCarthy Calls for Schiff to Be Removed as House Intel Chair
+*   Biden Raises Middling $15.2 Million in 3rd Quarter for 2020 Bid
+*   Trump on Biden: Probably How China Got Sweet Deals for So Long
 *   RCP Poll: K-12 Education Falls Short, and Hope for Gains Lags
 *   Why Pelosi Is Sidestepping an Impeachment Vote
 *   Presidential Job Approval
@@ -249,6 +249,12 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve48
+    *   Disapprove50Disapprove +2
+*   President Trump Job ApprovalGallup
+    *   Approve40
+    *   Disapprove56Disapprove +16
 *   California Democratic PrimaryPPIC
     *   Biden22
     *   Warren23
@@ -274,20 +280,14 @@ Latest PollsAll Polls
     *   Gabbard1
     *   Delaney1
     *   Bullock1Biden +2
-*   Ohio: Trump vs. BidenEmerson
-    *   Biden53
-    *   Trump47Biden +6
-*   Ohio: Trump vs. WarrenEmerson
-    *   Warren52
-    *   Trump48Warren +4
 
 More Latest Polls In The News
 
+*   Peter Navarro vs. CNN's Jim Sciutto: Is It OK To Call On "Authoritarian China" To Probe Joe Biden?
+*   Schweizer: Only "Bizarre Inside-The-Beltway Mentality" Thinks Nothing Is Fishy About Biden/Ukraine
 *   Woman At AOC Townhall: "We've Got To Start Eating Babies" Due To Climate Crisis, "We Don't Have Enough Time"
 *   Brennan Is "Concerned" He May Be Questioned By DOJ On "Quasi-Investigation" Of Russia Probe Origins
 *   Trump on Biden: Probably How China Got Sweetheart Deals For So Long, Give The Son $1.5 Billion
-*   Fineman: Only Thing More Dangerous Than A Confident Dictator Is A Would-Be Dictator Who Isn't
-*   Maxine Waters: Trump Is Setting Us Up To Be Killed, "In A Civil War Some Of Us Will Be The First To Be Killed"
 
 *   Politics
 *   Policy
