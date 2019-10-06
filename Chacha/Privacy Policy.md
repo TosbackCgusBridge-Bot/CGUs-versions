@@ -269,7 +269,7 @@ LIVE CHAT 2 Today's Offers
 
 Click offer codes below to apply in checkout.
 
-Free Express Shipping On $120+ Orders Order within 22 hrs 49 minto receive by 10/9 No Code Necessary
+Free Express Shipping On $120+ Orders Order within 22 hrs 50 minto receive by 10/9 No Code Necessary
 
 Take 10% off your first order at Chacos.com. Code will be sent in email following sign up. This offer applies to a single order and excludes taxes and gift cards. Offer not valid on prior purchases or purchases at retail stores. Limit one redemption per customer and cannot be combined with any other offer. Code required at checkout. 10% off offer expires 30 days after receipt. Must sign up for emails to receive offer. Email entry opts you into Chacos.com email communications only, check out our Privacy and Security Policy for details.
 
@@ -321,5 +321,5 @@ Get 10% off your first order! Plus, be the first to know about new arrivals, sto
 *   Terms of Use
 *   California Supply Chain Transparency
 
-<img src="https://wolverineworldwide.112.2o7.net/b/ss/wwwchacocom/1/G.5--NS/5874303799?currencyCode=USD&gn=Homepage&v40=US&v41=en&v15=D%3Dg&c2=D%3Dgn&c4=Homepage&c1=D%3Dgn&c3=D%3Dgn&c40=US&c41=en&c13=chacos\_us&c42=USD&c21=D%3Dg&hier1=D%3Dc1+%27%2C%20%27+D%3Dc2+%27%2C%20%27+D%3Dc3+%27%2C%20%27+D%3Dc4&channel=D%3Dc1&currencyCode=USD" alt="" />. Close Promotionalclose TUNE INTO #CHACONATION AND GET 10% OFF YOUR FIRST ORDER. You'll also get new promos, and updates from around the country,  
+<img src="https://wolverineworldwide.112.2o7.net/b/ss/wwwchacocom/1/G.5--NS/4531252192?currencyCode=USD&gn=Homepage&v40=US&v41=en&v15=D%3Dg&c2=D%3Dgn&c4=Homepage&c1=D%3Dgn&c3=D%3Dgn&c40=US&c41=en&c13=chacos\_us&c42=USD&c21=D%3Dg&hier1=D%3Dc1+%27%2C%20%27+D%3Dc2+%27%2C%20%27+D%3Dc3+%27%2C%20%27+D%3Dc4&channel=D%3Dc1&currencyCode=USD" alt="" />. Close Promotionalclose TUNE INTO #CHACONATION AND GET 10% OFF YOUR FIRST ORDER. You'll also get new promos, and updates from around the country,  
 all in your inbox. <img src="https://ad.doubleclick.net/ddm/activity/src=8352881;type=counter;cat=chprodpg;u11=undefined;u12=;u13=undefined;dc\_lat=;dc\_rdid=;tag\_for\_child\_directed\_treatment=;ord=1?" width="1" height="1" alt="">. <iframe src="//t.a3cloud.net/AM-141548/if.htm" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/809123652/?guid=ON&amp;script=0">. </div>. Live chat:Contact Us
