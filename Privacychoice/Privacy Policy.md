@@ -74,27 +74,27 @@ Try our free proxy Learn more about VPNs with Jack’s Guides
     
     Find out how HMA! makes you anonymous online so you can browse with true online freedom and privacy.
     
-    Learn More >.
+    Learn more >.
 *   Secure public Wi‑Fi
     
     Safely complete tasks such as online banking even if you’re connected to Public Wi‑Fi.
     
-    Learn More >.
+    Learn more >.
 *   Encrypt your internet connection
     
     With military‑grade encryption levels we ensure all your data and communications are kept secure giving you peace in your online security.
     
-    Learn More >.
+    Learn more >.
 *   Stream your favourite TV shows
     
     Stream your favourite TV shows from wherever you are in the world using one of our dedicated streaming servers.
     
-    Learn More >.
+    Learn more >.
 *   Unblock websites
     
     Discover all you need to know about unblocking websites and experiencing true internet freedom
     
-    Learn More >.
+    Learn more >.
 
 Need to talk to someone? Contact us United States (English) Sign in to my account Services
 
