@@ -132,7 +132,7 @@ With Our New Camera
 
 In case you missed it you absolutely need to hear @HAIMtheband covering @LilNasX’s “Panini” 🔥⚡️  https://go.sony.com/2minzcx  pic.twitter.com/TuNqGjfHoy
 
-4 days ago View Tweet Instagram Post B1ZZC-gnBr9
+5 days ago View Tweet Instagram Post B1ZZC-gnBr9
 
 Introducing the All-New a9 II Camera
 
