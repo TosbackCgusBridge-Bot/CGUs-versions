@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsEnable Accessibility
 
-*   My AccountSign InTrack MyOrders
+*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -21,35 +21,14 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBack NIGHT TO DAY DOORBUSTERSENDS IN13HOURS 41MINS 20SECS NIGHT-TO-DAY DOORBUSTERSENDS SATURDAY, 1PM
+Near YouFind a StoreBackSAVE ON LAYERS FORCOOL TEMPSselect styles | reg. $27-$145$17.99WOMEN'S ST. JOHN'S BAYCABLE SWEATER50% OFFMEN'S ST. JOHN'S BAY SWEATERS**sale $24.99**50% OFFBOYS' ARIZONA THERMALOR FLANNEL SHIRTS**sale $12.99**50% OFFKIDS' XERSION ACTIVEWEAR**sale $6.99-$29.99**GET DETAILSJCPenney is a proud supporterof American Cancer Society®THE LOCAL LOOKlocally curated. universally lovedUP TO 50% OFFHALLOWEEN DECORselect styles40% OFFMATCHING FAMILY PAJAMASselect styles**sale $7.20-$30** reg. $12-$5025+ family pajama styles online! Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   SHOP ALL
-
-*   WOMEN
-    
-*   MEN
-    
-*   KIDS
-    
-*   BATH
-    
-*   KITCHEN &. DINING
-    
-*   SHOES
-    
-*   ATHLETIC SHOES
-    
-*   ARIZONA DENIM
-    
-
-SHOP ALLSAVE ON LAYERS FORCOOL TEMPSselect styles | reg. $27-$145$17.99WOMEN'S ST. JOHN'S BAYCABLE SWEATER50% OFFMEN'S ST. JOHN'S BAY SWEATERS**sale $24.99**50% OFFBOYS' ARIZONA THERMALOR FLANNEL SHIRTS**sale $12.99**50% OFFKIDS' XERSION ACTIVEWEAR**sale $6.99-$29.99**GET DETAILSJCPenney is a proud supporterof American Cancer Society®THE LOCAL LOOKlocally curated. universally lovedUP TO 50% OFFHALLOWEEN DECORselect styles40% OFFMATCHING FAMILY PAJAMASselect styles**sale $7.20-$30** reg. $12-$5025+ family pajama styles online! Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
-
-*   $239 - $1999after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1394)
+*   $239 - $1999after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1395)
 *   $239 - $1999after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(217)
 *   $1199 - $1439after couponwas $32 St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(2)
 *   $639 - $1520after coupona.n.a Womens Scoop Neck Short Sleeve T-Shirt(292)
+*   $599 - $719after couponwas $17 St. John's Bay-Womens Crew Neck Long Sleeve T-Shirt(72)
 *   $1359 - $4799after couponwas $22 - $90 JCPenney Home™ Ultima Bath Rug Collection(705)
-*   $1519 - $1999after couponwas $44 Worthington Perfect Trouser Womens Modern Fit Bootcut Trouser(336)
 
 Shop and Save at JCPenney
 
