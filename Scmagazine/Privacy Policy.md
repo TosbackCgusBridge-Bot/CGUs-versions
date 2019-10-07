@@ -364,23 +364,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   FBI alert: Ransomware attacks becoming increasingly targeted and costly
-    *   Cyberattack causes $95 million loss for Demant
-    *   Evidence tying Cobalt Group to Magecart Group 4 unveiled
-    *   Ransomware: To pay or not to pay
-    *   When spreadsheets are enough for risk management
+    *   Are you prepared for a ransomware attack?
+    *   Hy-Vee details 2019 POS data breach incident
+    *   WordPress Rich Review plugin vulnerable to malvertising
+    *   Disinformation campaigns cheap and easy to launch: Recorded Future
+    *   The word is out: Zynga was breached
     
-    *   Browser-hijacking Ghostcat malware haunts online publishers
-    *   Ransomware: To pay or not to pay
-    *   Scammers using Google Alerts to spread malware, fraud
-    *   FBI alert: Ransomware attacks becoming increasingly targeted and costly
-    *   First Look: YubiKey 5
-    
-    *   1,600 Electronic Arts FIFA 20 players' reg data compromised
-    *   SC Media's 30th anniversary Q&A: Nathan Wenzler
-    *   Digital transformation won’t work without new security approaches
     *   Cyber espionage actor PKPLUG keeps plugging away at targeting SE Asia
-    *   WhatsApp bug allows access to content, users should update
+    *   The word is out: Zynga was breached
+    *   FBI alert: Ransomware attacks becoming increasingly targeted and costly
+    *   PHP update fixes arbitrary code execution flaw, 9 other bugs
+    *   Apple updates software, fixes flaw affecting third-party keyboard apps
+    
+    *   New 'Reductor' malware compromises machines' encrypted TLS traffic
+    *   Iran hackers targeted presidential campaign, journalists
+    *   Feds to boost scrutiny of airliner cybersecurity vulnerabilities
+    *   Cisco's latest round of updates address bugs in security products
+    *   Microsoft revises and re-releases patch for exploited Internet Explorer bug
 
 Back to Top
 
@@ -412,4 +412,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
