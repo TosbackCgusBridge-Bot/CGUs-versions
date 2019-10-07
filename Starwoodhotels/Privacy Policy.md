@@ -1,9 +1,10 @@
-This weekend, we are making updates to our systems which may prevent you from logging into your account or using points. As our call centers are also impacted, we recommend returning later if you encounter issues. Please try again in a few hours. Thank you for your patience.   Skip Main Navigation Menu Marriott Bonvoy
+Skip Main Navigation Menu Marriott Bonvoy
 
 *   *   English
     *   Help
 *   Loyalty FAQs
 *   My Trips
+*   Sign In or Join
 
 Back
 
@@ -13,7 +14,7 @@ Back
     
     Loading...
     
-            CLOSE
+          CLOSE
 *   Deals &. Packages
     
     Loading...
@@ -501,4 +502,4 @@ Loading...
 
 Tracking Preferences Terms of Use Program Terms &. Conditions Privacy Center Digital Accessibility Site Map Help*   Loading...
     
-prod13b,57C3530C-11F7-58B6-B194-84CE37B9329A
+prod10b,92F74EDC-BEED-5BE0-9CDD-BC511930FE99
