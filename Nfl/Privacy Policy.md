@@ -1,18 +1,18 @@
-*   LA3-229SEA4-130Final
-*   JAX2-2CAR2-2Sun, 1:00 pm ET
-*   ARI0-3-1CIN0-4Sun, 1:00 pm ET
-*   ATL1-3HOU2-2Sun, 1:00 pm ET
-*   TB2-2NO3-1Sun, 1:00 pm ET
-*   MIN2-2NYG2-2Sun, 1:00 pm ET
-*   CHI3-1OAK2-2Sun, 1:00 pm ET
-*   NYJ0-3PHI2-2Sun, 1:00 pm ET
-*   BAL2-2PIT1-3Sun, 1:00 pm ET
-*   BUF3-1TEN2-2Sun, 1:00 pm ET
-*   NE4-0WAS0-4Sun, 1:00 pm ET
-*   DEN0-4LAC2-2Sun, 4:05 pm ET
-*   GB3-1DAL3-1Sun, 4:25 pm ET
-*   IND2-2KC4-0Sun, 8:20 pm ET
+*   IND3-219KC4-113Final
+*   JAX2-327CAR3-234Final
+*   ARI1-3-126CIN0-523Final
+*   ATL1-432HOU3-253Final
+*   TB2-324NO4-131Final
+*   MIN3-228NYG2-310Final
+*   CHI3-221OAK3-224Final
+*   NYJ0-46PHI3-231Final
+*   BAL3-226PIT1-423Final (OT)
+*   BUF4-114TEN2-37Final
+*   NE5-033WAS0-57Final
+*   DEN1-420LAC2-313Final
+*   GB4-134DAL3-224Final
 *   CLE2-2SF3-0Mon, 8:15 pm ET
+*   LA3-229SEA4-130Final
 
 *   News
 *   Scores
@@ -36,21 +36,21 @@
 *   NFL Films
 *   Game Pass
 
-*   LA29SEA30Final
-*   JAX2-2CAR2-2Sun, 1:00 pm ET
-*   ARI0-3-1CIN0-4Sun, 1:00 pm ET
-*   ATL1-3HOU2-2Sun, 1:00 pm ET
-*   TB2-2NO3-1Sun, 1:00 pm ET
-*   MIN2-2NYG2-2Sun, 1:00 pm ET
-*   CHI3-1OAK2-2Sun, 1:00 pm ET
-*   NYJ0-3PHI2-2Sun, 1:00 pm ET
-*   BAL2-2PIT1-3Sun, 1:00 pm ET
-*   BUF3-1TEN2-2Sun, 1:00 pm ET
-*   NE4-0WAS0-4Sun, 1:00 pm ET
-*   DEN0-4LAC2-2Sun, 4:05 pm ET
-*   GB3-1DAL3-1Sun, 4:25 pm ET
-*   IND2-2KC4-0Sun, 8:20 pm ET
+*   IND19KC13Final
+*   JAX27CAR34Final
+*   ARI26CIN23Final
+*   ATL32HOU53Final
+*   TB24NO31Final
+*   MIN28NYG10Final
+*   CHI21OAK24Final
+*   NYJ6PHI31Final
+*   BAL26PIT23Final (OT)
+*   BUF14TEN7Final
+*   NE33WAS7Final
+*   DEN20LAC13Final
+*   GB34DAL24Final
 *   CLE2-2SF3-0Mon, 8:15 pm ET
+*   LA29SEA30Final
 
 *   News
 *   Scores
