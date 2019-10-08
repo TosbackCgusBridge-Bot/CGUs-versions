@@ -37,7 +37,6 @@ Privacy Policy
 *   Smart Family
 *   Verizon Home
 *   Gizmo
-*   MapQuest
 *   Visible
 *   Mobile Location Analytics
 *   Device Installment
