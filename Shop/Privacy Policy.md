@@ -104,6 +104,7 @@ Lenovo Explore Close
         *   With Windows
         *   2-in-1 Tablets
         *   Smart Tab
+        *   Tablets for Business
         
         *   Best Selling Tablets
         *   For Kids
@@ -171,7 +172,6 @@ Lenovo Explore Close
         *   ThinkVision X1
         *   On-the-go M14
         *   P24q Monitor
-        *   L22e-20 Monitor
         
         *   Quick Links
         *   Sale
@@ -207,11 +207,11 @@ Lenovo Explore Close
         *   K500 Keyboard
         *   Legion Y540 Laptop
         *   Oculus Rift S
-        *   Playstation 4
+        *   Xbox Gears 5 Bundle
         
         Everything Gaming
         
-        Shop Gaming / Shop &. save on everything gaming from laptops to consoles &. more!
+        Shop &. save on everything gaming from laptops to consoles &. more!
         
     *   Business
         
@@ -557,7 +557,7 @@ Lenovo Explore Close
 1-855-253-6686
 
 *   Search
-
+*   icon-compare0 Compare Compare (0)
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
@@ -625,7 +625,13 @@ Lenovo Explore Close
 
 Top Suggestions
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
+
+Please add at least 2 products for compare
+
+Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
+
+Lenovo Privacy Statement Top
 
 protects better"/>.
 
