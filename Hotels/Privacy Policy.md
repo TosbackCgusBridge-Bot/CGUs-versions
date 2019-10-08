@@ -116,7 +116,7 @@ Hotels.com® Rewards
 
 Join now! Collect 10 nights, get 1 free\*
 
-*   Top Destinations
+*   Top destinations
     *   Hotels in Las Vegas
     *   Hotels in New York
     *   Hotels in Chicago
@@ -151,21 +151,21 @@ Join now! Collect 10 nights, get 1 free\*
     *   Affiliate with us
     *   Expedia Partner Solutions
     *   Promote with us
-    *   Travel Agents
-    *   Press Office
+    *   Travel agents
+    *   Press office
 *   User Terms and Privacy Policy
     *   Terms &. Conditions
     *   Privacy Policy
     *   Cookie Policy
     *   About our ads
 *   Website feedback
-*   About Us
+*   About us
 *   List your property
 *   Jobs
 
 *   Hotels near me
 *   Travel Guides
-*   Top 50 Cities
+*   Top 50 cities
 *   All countries
 *   Site Index
 
