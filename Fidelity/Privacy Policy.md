@@ -15,7 +15,6 @@ Skip to Main Content. Site navigation Fidelity.com Home
 Search fidelity.com or get a quote
 
 *   Accounts &. Trade
-    
     *   Portfolio Log In Required
     *   Portfolio
     *   Account Positions Log In Required
@@ -39,8 +38,6 @@ Search fidelity.com or get a quote
     *   Statements
     *   Tax Information
     *   Retirement DistributionsLog In Required
-    
-    *   OFFER See our featured trading offer. Learn more.
 *   Planning &. Advice
     *   What We Offer
     *   My Goals
