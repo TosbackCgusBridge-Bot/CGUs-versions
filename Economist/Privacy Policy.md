@@ -64,7 +64,7 @@ The Economist Newspaper privacy statement
 
 **The Economist Newspaper Privacy Policy**
 
-The Economist Group strives for transparency and trust when it comes to protecting your privacy and we aim to clearly explain how we collect and process your information. It’s important to us that you should enjoy using our products, services and website(s) without compromising your privacy in any way. This policy outlines how we collect and use different types of personal and behavioural information, and the reasons for doing so. You have the right to access, change or delete your personal information at any time and you can find out more about this and your rights in our FAQ section. Alternatively, you can get in touch directly with our Privacy Team. their details are in our “Contact Us” section.
+The Economist Group strives for transparency and trust when it comes to protecting your privacy and we aim to clearly explain how we collect and process your information. It’s important to us that you should enjoy using our products, services and website(s) without compromising your privacy in any way. This policy outlines how we collect and use different types of personal and behavioural information, and the reasons for doing so. You have the right to access, change or delete your personal information at any time and you can find out more about this and your rights in our FAQ section. Alternatively, you can get in touch directly with our Data Privacy Team. their details are in our “Contact Us” section.
 
 The Economist Group is made up of several companies and this policy applies to all companies within the group. You can view some of our companies in the section below called ‘**Who we are**’.
 
@@ -174,13 +174,13 @@ We need your consent to use your information for some specific purposes such as 
 
 **Other uses of your information**
 
-Other than where we have asked for your consent, we mainly rely on two other separate bases to lawfully use your information. First, we need to use your information in certain ways to provide our products or services to you, in accordance with our contracts with you. In this case, it is necessary for us to use your information so that we can deliver the products or services you have chosen. Second, as described in more detail below, in certain cases, we may use your information where necessary to further our legitimate interests, where those legitimate interests are not overridden by your rights or interests:
+Other than where we have asked for your consent, we mainly rely on two other separate bases to lawfully use your information. First, we need to use your information in certain ways to provide our products or services to you, in accordance with our contracts with you. In this case, it is necessary for us to use your information so that we can deliver the products or services you have chosen. Second, as described in more detail below, in certain cases, we may use your information where necessary to further our legitimate interests, where those legitimate interests are not overridden by your rights or interests, including:
 
 *   To measure customer and user response and engagement with our products and services such as online content, email newsletters and subscription offers. This may include sharing your information with third parties who help us to analyse and measure these things.
 
 *   To ensure our products (including websites and apps) are compatible with the browsers and operating systems used by most of our visitors.
 
-*   To help us improve our customer and user experience and to support in new product development. We may send customer satisfaction surveys and market research questionnaires (for which we may share your information with third party suppliers employed by us).
+*   To help us improve our customer and user experience and to support new product development. We may send customer satisfaction surveys and market research questionnaires (for which we may share your information with third party suppliers employed by us).
 
 *   To create audience profiles for personalised advertising, marketing or research and development on and off our websites – See **Audience Profiling** and **Social media** sections below for more detailed information.
 
@@ -211,9 +211,9 @@ You can choose to opt out of our audience profiling activity if you wish. This d
 
 **How we work with third parties**
 
-As mentioned, in some instances, we disclose personal information to third parties when it is necessary to deliver a service or product, or to help us improve your experience with us, or when we are required to do so by contract or law. “Third parties” include agents, subcontractors, sponsors and other associated organisations. We have in place contracts to ensure the information remains secure and limited in use, and if we do not have a legitimate business reason to pass on your information, we will ask you to give consent first. Some examples of when we share your information are below:
+In some instances, we disclose personal information to third parties when it is necessary to deliver a service or product, or to help us improve your experience with us, or when we are required to do so by contract or law. “Third parties” include agents, subcontractors, sponsors and other associated organisations. We have in place contracts to ensure the information remains secure and limited in use, and if we do not have a legitimate business reason to pass on your information, we will ask you to give consent first. Some examples of when we share your information are below:
 
-*   When you make a payment on any of our sites your payment will be processed by a specialist payment processor to ensure a secure transaction. All payment processors used by The Economist Group are compliant with required security standards. If you have any questions regarding secure transactions, please contact the Data Privacy team at dataprivacy@economist.com.
+*   When you make a payment on any of our sites your payment will be processed by a specialist payment processor to ensure a secure transaction. All payment processors used by The Economist Group are compliant with required security standards. If you have any questions regarding secure transactions, please contact the Data Privacy team by completing our enquiry form or email dataprivacy@economist.com.
 
 *   When you log on to your subscription account for the newspaper, a third party provider who specialises in online account management will manage your access, including re-setting your password.
 
@@ -245,7 +245,7 @@ We securely store your information, and hold it for as long as we need to in ord
 
 We review our retention periods for personal information regularly. If you have not interacted with us in any way, we will generally no longer hold your information after 5 years (although this may be shorter for individual businesses (you can confirm by contacting us)). Sometimes we may need to keep it for longer periods such as for tax and other financial regulatory reasons, this would typically be 7 years. We would only keep it for longer than this if we are required to by law.
 
-If you request for us to no longer contact you, for example with marketing communications, we will retain the minimum amount of information about you so that we can ensure we remove you from any future communications. Please note that if you ask us to completely remove **all** information about you, and you subsequently use our products and services at a later date, we will no longer be able to recognise your previous request to not be contacted, which is why we would keep it and suppress it in line with industry standards.
+If you request for us to no longer contact you, for example with marketing communications, we will retain the minimum amount of information about you so that we can ensure we remove you from any future communications. Please note that if you ask us to completely remove **all** information about you, and you subsequently use our products and services at a later date, we will no longer be able to recognise your previous request not to be contacted, which is why we would keep it and suppress it in line with industry standards.
 
 **Storing and transferring information internationally**
 
@@ -279,7 +279,7 @@ You can find full details of the brands which make up The Economist Group here.�
 
 **Group companies**
 
-There are a number of companies which make up The Economist Group. In accordance with the UK Data Protection Act 1998, the following members of The Economist Group are registered with the United Kingdom's Information Commissioner's Office as a data controller to collect information:
+There are a number of companies which make up The Economist Group. In accordance with the UK Data Protection Act 2018, the following members of The Economist Group are registered with the United Kingdom's Information Commissioner's Office as a data controller:
 
 Data controller: The Economist Newspaper Limited
 
@@ -327,8 +327,9 @@ Address: The Adelphi 1-11 John Adam Street London WC2N 6HT
 
 **Contact Us**
 
-If you have questions about this policy or about your personal information, please send correspondence to us at the following address:
-
+If you have questions about this policy or about your personal information, please complete our enquiry form, or email dataprivacy@economist.com  
+  
+Alternatively, please send correspondence to us at the following address:  
 The Economist Group  
 Attn: Data Privacy Manager  
 20 Cabot Square,  
@@ -348,25 +349,28 @@ For queries related to other parts of The Economist Group please contact:
 *   events@economist.com for The Economist Events
 *   studio@signal-noise.co.uk for Signal Noise
 *   https://www.eiu.com/Support/customer\_support.aspx for The Economist Intelligence Unit
-*   customerservice@cqrollcall.com for CQ Roll Call
 
+****Your rights  
+  
+****You also have the right to ask for us to update, delete or stop processing information we hold about you. However, please note that there are circumstances in which complete erasure of your information or ceasing to process your information will not be possible for operational, legal and business reasons. This may include if you remain a customer for whom we need to provide services, or if you wish us to no longer contact you for marketing purposes. In this case we may need to retain some of your details securely in order to facilitate this request by, for example, keeping you on a “do not contact” or suppression list. This will be the only purpose for which your data will be used if this is the case.  
+  
 **FAQs**
 
 *   How can I see what information you hold on me?
 
-You can contact our data privacy manager as set out in our ‘Contact Us’ section above.
+You can complete our Data Privacy enquiry form and our data privacy team will process your request.
 
 *   How do I opt-out of profiling?
 
-You can contact us at any time. A member of our data privacy team will speak to you regarding your request.
+You can contact us at any time by completing our enquiry form. A member of our Data Privacy team will contact you regarding your request.
 
 *   How do I opt out of marketing?
 
-You can update your preferences at any time, and for subscribers of _The Economist,_ this can be done via your online account at economist.com, or by contacting customer services (see ‘Contact Us’). You can also opt out of email marketing by clicking the unsubscribe link at the bottom of our emails. For other parts of The Economist Group you can contact us.
+You can update your preferences at any time, and for subscribers of _The Economist,_ this can be done via your online account at economist.com, or by contacting customer services (see ‘Contact Us’). You can also opt out of email marketing by clicking the unsubscribe link at the bottom of our emails. For other parts of The Economist Group you can contact us by completing our enquiry form.
 
 *   How do I make a complaint?
 
-If you have a complaint regarding any aspect of your personal information or this Privacy Policy, please write directly to the data privacy team.
+If you have a complaint regarding any aspect of your personal information or this Privacy Policy, please contact the Data Privacy team by completeing our enquiry form.
 
 If you are still not satisfied with the outcome of your complaint, you may write to the Information Commissioner's Office as set out below.
 
@@ -376,7 +380,7 @@ Yes, you can. Contact details are at Information Commissioner's Office.
 
 *   How long do you hold my information for?
 
-We generally hold information for up to 5 years if we have had no interaction with you. It may be 7 years or longer if required for financial, tax or legal reasons.
+We generally hold information for up to 5 years, after our last interaction with you. It may be 7 years or longer if required for financial, tax or legal reasons.
 
 *   Can I ask you to delete my information?
 
@@ -384,7 +388,7 @@ Yes, just contact us. We will consider your request and take appropriate action 
 
 *   How do I update my information?
 
-You can update it at any time via your online account at economist.com (for subscribers of the newspaper), or just contact us.
+You can update it at any time via your online account at economist.com (for subscribers of the newspaper), or contact us.
 
 *   How do I manage Cookies?
 
@@ -392,17 +396,14 @@ You can use our Cookie consent tool. For more information please also see our Co
 
 *   What are my rights under GDPR?
 
-You have a right to ask us for information we hold about you, please email customer services or data privacy including the subject line, “Subject Access Request”, so that we can respond as promptly as possible. 
-
-**Your rights**  
-You also have the right to ask for us to update, delete or stop processing information we hold about you. However, please note that there are circumstances in which complete erasure of your information or ceasing to process your information will not be possible for operational, legal and business reasons. This may include if you remain a customer for whom we need to provide services, or if you wish us to no longer contact you for marketing purposes. In this case we may need to retain some of your details securely in order to facilitate this request by, for example, keeping you on a “do not contact” or suppression list. This will be the only purpose for which your data will be used if this is the case.
+You have a right to ask us for information we hold about you, “Subject Access Request”, so that we can respond as promptly as possible please complete our enquiry form. 
 
 **Changes to this policy**
 
 From Time-to-time, we may make changes to the Privacy Policy. This may be in relation to changes in the law, best practice or changes in our services. These changes will be reflected in this statement, so you should check here regularly.
 
   
-Last update: 15 August 2018
+Last update: 1 October 2019
 
 Copyright © The Economist Newspaper Limited 2019  
 Registered in England and Wales. No. 236383 | Registered office: The Adelphi, 1-11 John Adam Street, London, WC2N 6HT | VAT Reg No: GB 340 436 876
