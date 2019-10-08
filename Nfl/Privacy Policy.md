@@ -1,4 +1,5 @@
-*   IND3-219KC4-113Final
+*   CLE2-33SF4-031Final
+*   LA3-229SEA4-130Final
 *   JAX2-327CAR3-234Final
 *   ARI1-3-126CIN0-523Final
 *   ATL1-432HOU3-253Final
@@ -11,8 +12,7 @@
 *   NE5-033WAS0-57Final
 *   DEN1-420LAC2-313Final
 *   GB4-134DAL3-224Final
-*   CLE2-2SF3-0Mon, 8:15 pm ET
-*   LA3-229SEA4-130Final
+*   IND3-219KC4-113Final
 
 *   News
 *   Scores
@@ -36,7 +36,8 @@
 *   NFL Films
 *   Game Pass
 
-*   IND19KC13Final
+*   CLE3SF31Final
+*   LA29SEA30Final
 *   JAX27CAR34Final
 *   ARI26CIN23Final
 *   ATL32HOU53Final
@@ -49,8 +50,7 @@
 *   NE33WAS7Final
 *   DEN20LAC13Final
 *   GB34DAL24Final
-*   CLE2-2SF3-0Mon, 8:15 pm ET
-*   LA29SEA30Final
+*   IND19KC13Final
 
 *   News
 *   Scores
