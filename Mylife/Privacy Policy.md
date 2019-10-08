@@ -43,7 +43,6 @@ MyLife aggregates publicly available information from government, social, and ot
 *   Company
 *   Careers
 *   Contact Us
-*   Blog
 *   FAQs
 
 *   Services
