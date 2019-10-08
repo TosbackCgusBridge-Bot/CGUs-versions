@@ -364,23 +364,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
+    *   Ransomware attack forces DCH Health Systems to turn away patients
+    *   Scammers using Google Alerts to spread malware, fraud
     *   Are you prepared for a ransomware attack?
-    *   Hy-Vee details 2019 POS data breach incident
-    *   WordPress Rich Review plugin vulnerable to malvertising
-    *   Disinformation campaigns cheap and easy to launch: Recorded Future
-    *   The word is out: Zynga was breached
+    *   Criminals' security lapses enable discovery of Geost mobile banking trojan
+    *   October product reviews: Risk management
     
-    *   Cyber espionage actor PKPLUG keeps plugging away at targeting SE Asia
-    *   The word is out: Zynga was breached
-    *   FBI alert: Ransomware attacks becoming increasingly targeted and costly
-    *   PHP update fixes arbitrary code execution flaw, 9 other bugs
-    *   Apple updates software, fixes flaw affecting third-party keyboard apps
+    *   Cisco's latest round of updates address bugs in security products
+    *   Attacker breaches Comodo forums by exploiting vBulletin flaw
+    *   Reports: Actively exploited zero-day found in vBulletin forum software
+    *   DoorDash data breach hits 4.9 million customers, merchants and drivers
+    *   Meghan Markle, Prince Harry sue tabloid for breach of U.K. Data Protection Act of 2018
     
+    *   DCH Health System pays ransomware attackers in bid to restore operations
+    *   Data on 92M Brazilians found for sale on underground forums
+    *   Rethinking Cyberisks amid a rapidly evolving threat environment
     *   New 'Reductor' malware compromises machines' encrypted TLS traffic
     *   Iran hackers targeted presidential campaign, journalists
-    *   Feds to boost scrutiny of airliner cybersecurity vulnerabilities
-    *   Cisco's latest round of updates address bugs in security products
-    *   Microsoft revises and re-releases patch for exploited Internet Explorer bug
 
 Back to Top
 
@@ -412,4 +412,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
