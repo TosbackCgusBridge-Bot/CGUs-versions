@@ -5,40 +5,41 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Joker (2019)
     *   Abominable (2019)
     *   Downton Abbey (2019)
     *   Hustlers
     *   It Chapter Two (2019)
     *   Ad Astra
-    *   Rambo: Last Blood
     *   Judy (2019)
+    *   Rambo: Last Blood
+    *   War (2019)
     *   Good Boys (2019)
-    *   The Lion King (2019)
-    *   Angel Has Fallen
-    *   Fast &. Furious Presents: Hobbs &. Shaw
+    *   My People, My Country
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Joker (2019)
-    *   Lucy In The Sky
-    *   Pain and Glory
-    *   Roger Waters Us + Them
-    *   War (2019)
-    *   Wrinkles the Clown
+    *   The Addams Family (2019)
+    *   Gemini Man
+    *   Jexi
+    *   The Dead Center
+    *   Gift (2019)
+    *   High Strung Free Dance
+    *   Little Monsters (2019)
+    *   Parasite (2019)
     *   See All Opening This Week
     
     Coming Soon
     
-    *   The Addams Family (2019)
-    *   Gemini Man
-    *   High Strung Free Dance
-    *   Jexi
     *   Maleficent: Mistress of Evil
     *   Zombieland: Double Tap
     *   Black and Blue (2019)
     *   Countdown (2019)
     *   The Current War: Director's Cut
+    *   Arctic Dogs
+    *   Harriet (2019)
+    *   Motherless Brooklyn
     *   Terminator: Dark Fate
     *   See All Coming Soon
     
@@ -68,8 +69,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   The Week in Movie News: Eddie Murphy Confirms ‘Beverly Hills Cop 4,’ First ‘Birds of Prey’ Trailer and More Read More
-    *   Today in Movie Culture: The Joker Meets Pennywise, a Legal Look at the Joker’s Mental Health and More Read More
-    *   Next 3 Major Animated Movies: 'The Addams Family,' 'Frozen II,' 'Spies in Disguise' Read More
+    *   Today in Movie Culture: ‘Joker’ Easter Eggs, Scene Breakdowns, Fan Art, Musical Tributes and More Read More
+    *   Next 3 DC Movies: 'Birds of Prey,' 'Wonder Woman 1984,' 'The Suicide Squad' Read More
     
     Explore Content
     *   Movie Reviews
@@ -344,7 +345,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   September Celebrity Birthdays
+*   October Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Follow Us
