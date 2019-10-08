@@ -12,31 +12,31 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 918 games
-*   Most Popular Games 19916 games
+*   Best of new games 917 games
+*   Most Popular Games 19913 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,367 games
-*   Driving &. Racing Games 6,899 games
-*   Strategy &. RPG Games 2,431 games
-*   Management Games 3,668 games
-*   Thinking Games 12,350 games
-*   Action &. Adventure Games 16,527 games
-*   Sports Games 2,310 games
+*   Games for girls 24,368 games
+*   Driving &. Racing Games 6,900 games
+*   Strategy &. RPG Games 2,430 games
+*   Management Games 3,667 games
+*   Thinking Games 12,349 games
+*   Action &. Adventure Games 16,525 games
+*   Sports Games 2,308 games
 *   Shooting Games 8,563 games
-*   Fighting Games 2,119 games
-*   Skill Games 11,640 games
-*   Arcade &. Classic Games 13,536 games
+*   Fighting Games 2,120 games
+*   Skill Games 11,643 games
+*   Arcade &. Classic Games 13,546 games
 *   Fun &. Crazy Games 2,583 games
 
 Play with friends  
-Powered by Y8 Account 129 Y8 Multiplayer Games 2,108 Y8 High Score Games 1,183 Y8 Achievements Games 833 Y8 Screenshots Games 1,508 Y8 Online Save Games 3,194 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 129 Y8 Multiplayer Games 2,106 Y8 High Score Games 1,183 Y8 Achievements Games 833 Y8 Screenshots Games 1,506 Y8 Online Save Games 3,192 All Y8 Games Games Last Highscore:
 
-**5,058** points on Harvest Story by Draaggonboi
+**8,188** points on Moto X3M 2 by bigboom1111
 
 Help us improve Bad translation? Social
 
