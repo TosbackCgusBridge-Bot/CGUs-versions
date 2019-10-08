@@ -1,4 +1,4 @@
-Introduction
+PRIVACY POLICY
 
 This privacy policy (“Privacy Policy”) applies to all visitors and users of the GitLab.com hosted services and websites (collectively, the “Website” or “Websites”) and self-managed installations, which are offered by GitLab B.V. and/or any of its affiliates (“GitLab” or “we” or “us”). Please read this Privacy Policy carefully. By accessing or using any part of the Websites or self-managed installations, you acknowledge you have been informed of and consent to our practices with regard to your personal information and data.
 
@@ -147,3 +147,27 @@ Although most changes are likely to be minor, GitLab may change its privacy poli
 We may also provide notification to users who have provided us email addresses of material changes to this Privacy Policy through our Website. GitLab encourages visitors to frequently check this page for any minor changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
 Privacy policy change history
+
+PRIVACY PROGRAM
+
+GitLab takes the privacy of our employees, customers, consumers, and other third parties (“Data Subjects”) that have entrusted us with information very seriously. To ensure the rights of Data Subjects are respected and protected to the utmost extent, GitLab has implemented the following Privacy Program.
+
+GitLab will: a) follow all applicable laws and regulations directed toward privacy and information security. b) keep protected information secure and use it appropriately. c) safeguard any confidential information Data Subjects share with us. d) ensure that protected information is used only for the reasons for which the information was gathered, unless further use is allowed by law. e) not disclose any information about a Data Subject without their written approval unless legally required to do so (for example, under a court-issued subpoena). f) legitimate and legal business reasons to access this information must be present in order to have permission to access protected data. g) take steps to protect the information against unauthorized use or release. In order to ensure compliance with this Program, the following controls have been established.
+
+Technological Controls
+
+The GitLab environment must align and comply with our \[Security Best Practices\](https://about.gitlab.com/handbook/security/). All applications and technologies brought into the GitLab environment will undergo a Data Protection Impact Assessment (DPIA) in accordance with the existing \[DPIA Policy\](https://about.gitlab.com/handbook/engineering/security/dpia-policy/) and \[DPIA Procedure\](https://about.gitlab.com/handbook/finance/procure-to-pay/)/. The \[DPIA Template\](https://gitlab.com/gitlab-com/gl-security/compliance/compliance/issues/new?issuable\_template=Data%20Protection%20Impact%20Assessment) should be completed for any and all technology within its environment to confirm proper and legitimate use and to identify if new information is being collected, new uses of information are employed, and/or if any further consents are required.
+
+Data is retained in accordance with the \[Record Retention Policy\](https://about.gitlab.com/handbook/people-operations/code-of-conduct/#record-retention-policy) and the corresponding \[Record Retention Schedule\](https://docs.google.com/spreadsheets/d/1EbyOSQvjiT4KJGB0\_evhJEfKlvp2qKaJJbyzknCEPzA/edit#gid=1070326101).
+
+Contractual and Administrative Controls
+
+If any Sub-processors are identified, such Subprocessors will be identified on the \[GitLab Tech Stack\](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0). Subprocessors are required to execute a Data Protection Agreement with GitLab. Partners who work closely with GitLab are required to agree to Standard Contract Clauses for the protection of data. GitLab will enter into a \[Data Protection Agreement\](https://drive.google.com/file/d/15xnvxdaDyBpXWhJnifZgB3U2NiZ0xhN5/view) for those Controllers for whom it is a Subprocessor. All employees are required to protect data in accordance with the \[GitLab Data Classification Policy\](https://about.gitlab.com/handbook/engineering/security/data-classification-policy.html) and the \[Acceptable Use Policy\](https://about.gitlab.com/handbook/people-operations/acceptable-use-policy/#security-and-proprietary-information).
+
+Communication of Controls
+
+Based on the business explanation of the technologies employed, impact on Data Subject rights will be properly captured in the \[GitLab Privacy Policy\](https://about.gitlab.com/privacy/) and the \[Employee Privacy Policy\](https://about.gitlab.com/handbook/people-operations/code-of-conduct/#employee-privacy-policy). Such policies will be updated in the event laws, regulations or GitLab’s practices change and will be reviewed no less than annually.
+
+Oversight of Controls
+
+The \[Data Protection Officers\](https://about.gitlab.com/security/#data-protection-officers) will oversee any requests to modify, delete, add or amend personal data. The Privacy Officer will review the policies relating to privacy on no less than an annual basis. Internal Audit and IT Security will conduct audits to ensure compliance with the controls.
