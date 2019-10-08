@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   7\. Oktober 2019
+*   8\. Oktober 2019
 *   Abo
-*   DAX 12.012,81ǀ
+*   DAX 12.097,43ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -371,3 +371,6 @@ SPIEGEL GRUPPE
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
+
+  
+BESbswyBESbswyBESbswy
