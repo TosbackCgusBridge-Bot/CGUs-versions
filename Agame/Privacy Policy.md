@@ -55,8 +55,8 @@ View more results
     *   Warbanner
     *   Total Front: Army War Game
     *   Klondike - the lost expedition
-    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Bubble Machine: 2 Player Game
+    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Slither.io
     *   Crystical: 2 Player Puzzle Game
 *   Top Categories
@@ -151,8 +151,8 @@ View more results
     *   1001 Arabian Nights
     *   Deal or No Deal
     *   Mahjong Connect Classic
-    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Bubble Machine: 2 Player Game
+    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Jewel Academy
     *   The Impossible Quiz: World's Hardest Quiz
 *   Top Categories
@@ -181,12 +181,12 @@ View more results
     *   Slope: Neon Ball Rolling Game
     *   Love Tester 2.0
     *   Back To School: Princesses Rush
-    *   Ella: Hips Surgery
     *   Super Speed Racer
+    *   Ella: Hips Surgery
     *   Popstar Dentist
     *   Vincy Lip Care
-    *   Get Your Boyfriend
     *   The Princess: Sent to the Future - Dress Up Game
+    *   Get Your Boyfriend
 *   Top Categories
     
     *   BMX Games
@@ -212,12 +212,12 @@ View more results
     *   Hill Racing Challenge
     *   Agame Stunt Cars
     *   Uphill Rush 7: Waterpark
-    *   Murder
     *   Moto X3M: Motorcycle Racing Game
+    *   Murder
     *   Country Ride: Race Car Game
     *   Madalin Cars Multiplayer
     *   Russian Car Driver
-    *   Neon Biker
+    *   Super Speed Racer
     *   Real Street Racing
 *   Top Categories
     
@@ -244,8 +244,8 @@ View more results
     *   Stunt Skateboard 3D
     *   Basketball Stars 2019
     *   Archery World Tour
-    *   Ultimate Boxing
     *   Table Tennis Challenge
+    *   Ultimate Boxing
     *   8-Ball
     *   Neon Biker
     *   Baseball
@@ -456,3 +456,5 @@ Languages
 *   Nederlands
 
 Copyright © 2019 SPIL GAMES All rights reserved.
+
+Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. (e.g IP Address) To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them. Your data may be stored by us and our service providers. In case the applicable data protection laws provide so, you may access, rectify, and erase the data or you may restrict or object to our processing of your data. Please contact us in such event. Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click "ACCEPT" to agree with the above mentioned. You can change your mind and change your consent choices at any time by returning to this site.AcceptSettingsVendor List | Privacy policy | FeaturesA reminder you can control your user privacy preferenceshere
