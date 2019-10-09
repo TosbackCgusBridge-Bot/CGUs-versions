@@ -135,7 +135,15 @@ The IoT Trust Framework® includes a set of strategic principles necessary to he
 
 Visit our IoT Trust Framework page and download the full version or Framework Overview.
 
-Read the Framework Learn more about IoT OTA News Celebrating National Cybersecurity Awareness Month <img width="600" height="552" src="https://www.internetsociety.org/wp-content/uploads/2019/10/Cybersecurity-Awareness-Month-600x552.jpg" class="attachment-square size-square wp-post-image" alt="Celebrating National Cybersecurity Awareness Month Thumbnail" title="Celebrating National Cybersecurity Awareness Month Thumbnail" />. Building Trust 2 October 2019 Celebrating National Cybersecurity Awareness Month
+Read the Framework Learn more about IoT OTA News Announcing the 2020 U.S. Presidential Campaign Audit <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2019/10/2020-Presidential-Campaign-Audit-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Announcing the 2020 U.S. Presidential Campaign Audit Thumbnail" title="Announcing the 2020 U.S. Presidential Campaign Audit Thumbnail" />. Building Trust 8 October 2019 Announcing the 2020 U.S. Presidential Campaign Audit
+
+Today, the Internet Society’s Online Trust Alliance released a new report, the “2020 U.S. Presidential Campaign Audit,” analyzing the...
+
+OTA’s Trust Audit Scores U.S. Presidential Candidates’ Campaigns, Finds Major Failures in Privacy Statements Press Releases 8 October 2019 OTA’s Trust Audit Scores U.S. Presidential Candidates’ Campaigns, Finds Major Failures in Privacy Statements
+
+Reston, VA. – October 8, 2019 – The Internet Society’s Online Trust Alliance (OTA), which identifies and promotes security and privacy...
+
+Celebrating National Cybersecurity Awareness Month <img width="600" height="552" src="https://www.internetsociety.org/wp-content/uploads/2019/10/Cybersecurity-Awareness-Month-600x552.jpg" class="attachment-square size-square wp-post-image" alt="Celebrating National Cybersecurity Awareness Month Thumbnail" title="Celebrating National Cybersecurity Awareness Month Thumbnail" />. Building Trust 2 October 2019 Celebrating National Cybersecurity Awareness Month
 
 Every October, we mark National Cybersecurity Awareness Month. From the U.S. Department of Homeland Security website, “Held every October,...
 
@@ -150,14 +158,6 @@ Criteria updated to include increased focus on encryption and global privacy reg
 Privacy Regulations Are Evolving: Are Organizations Ready? <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2019/09/Orgs-Ready-New-Privacy-Regulations-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Privacy Regulations Are Evolving: Are Organizations Ready? Thumbnail" title="Privacy Regulations Are Evolving: Are Organizations Ready? Thumbnail" />. Building Trust 20 September 2019 Privacy Regulations Are Evolving: Are Organizations Ready?
 
 Privacy statements are both a point of contact to inform users about their data and a way to show...
-
-OTA Analysis Finds Most Organizations Not Ready For New Privacy Regulations Press Releases 17 September 2019 OTA Analysis Finds Most Organizations Not Ready For New Privacy Regulations
-
-Reston, VA. – September 17, 2019 – The Internet Society’s Online Trust Alliance (OTA), which identifies and promotes security...
-
-How “Fresh” is That Privacy Statement? <img width="600" height="600" src="https://www.internetsociety.org/wp-content/uploads/2019/08/calendar-3073971\_1280-e1566916732426-600x600.jpg" class="attachment-square size-square wp-post-image" alt="How “Fresh” is That Privacy Statement? Thumbnail" title="How “Fresh” is That Privacy Statement? Thumbnail" srcset="https://www.internetsociety.org/wp-content/uploads/2019/08/calendar-3073971\_1280-e1566916732426-600x600.jpg 600w, https://www.internetsociety.org/wp-content/uploads/2019/08/calendar-3073971\_1280-e1566916732426-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" />. Privacy 27 August 2019 How “Fresh” is That Privacy Statement?
-
-One of the best practices we advocate and measure in our Online Trust Audit is that privacy statements should...
 
 Load More Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team <img src="https://www.internetsociety.org/wp-content/uploads/2019/05/Megan-Closer.png" alt="Megan Kruse" title="Megan Kruse" />Megan Kruse photo Megan Kruse
 
