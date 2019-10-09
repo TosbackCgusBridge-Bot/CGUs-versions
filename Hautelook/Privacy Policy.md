@@ -9,8 +9,33 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
-    *   Movado Watches
+    *   Spellbinding Steals: Witch Figurines &. More
+    *   Autumn Accents: Decorative Pumpkins, Signs &. More
+    *   Fall Harvest: Charming Autumn Decor
+    *   Free Shipping: Fall &. Winter Decor Up to 50% Off
+    *   Happy Howloween: Pet Costumes &. More
+    *   Dooney &. Bourke Handbags
+    *   Office Hours: Luxe Brands ft. Suistudio
+    *   Desigual
+    *   7 For All Mankind Men
+    *   Plus Shop: Wear-to-Work Styles Up to 60% Off
+    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
+    *   Dad &. Me: Timberland
+    *   Timberland for Her Up to 60% Off
+    *   Comfort Shoes ft. LifeStride from $40
+    *   Great Heights: High &. Mid Heels
+    *   Date Nights to Weekend Chic: Free Press &. More
+    *   Simple Statements: Lingerie ft. On Gossamer
+    *   Step It Up: Block Heels, Slingbacks &. Low Heels
+    *   Palettes We Love &. More Up to 50% Off
+    *   Burnside
+    *   ROAN
+    *   Support System: Active Socks &. Sports Bras
+    *   Splendid Kids &. More
+    *   Hit the Slopes: Puffers &. Parkas ft. Spyder &. NOIZE
+    *   Denim Up to 65% Off
     *   WILDFOX
+    
     *   Dr. Martens
     *   Juicy Couture Outerwear &. More
     *   Cozy Luxury ft. Sofia Cashmere
@@ -22,235 +47,186 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   X by Gottex Active
     *   Suzy Levian Jewelry
     *   Dr. Marten's Men
+    *   Travel Accessories ft. LEWIS N. CLARK
     *   Tommy Hilfiger Men's Footwear
     *   KicKee Pants
-    *   Free Shipping: BergHOFF Blowout
     *   Nostalgia Kitchen Faves
-    *   Travel Accessories ft. LEWIS N. CLARK
-    *   Free Shipping: Fresh Bedding &. More from $40
-    *   Converse
-    *   Denim Up to 65% Off
-    *   Gevril Watches Up to 85% Off
-    *   Sunday Steals Up to 80% Off
+    *   Free Shipping: BergHOFF Blowout
     *   Women's Heels &. More Up to 70% Off
     *   Men's Shoe Steals Up to 65% Off
     *   PUMA
-    *   Cozy Essentials: Love Token &. More
     *   PUMA Men
-    *   Betsey Johnson &. Love...Ady Dresses
-    
-    *   Mario Valentino Handbags &. Belts
-    *   Fall Essentials Ft. 7 Seasons
     *   PUMA Men's Active Starting at $20
     *   PUMA Active Starting at $25
-    *   One-Piece Wonders: Bodysuits
-    *   Style Statements: English Factory &. endless rose
     *   Chef-Worthy Essentials: Gadgets &. More
-    *   Via Spiga Coats Incl. Plus Up to 65% Off
     *   Psycho Bunny Up to 70% Off
-    *   Lounge &. Sleep ft. The Laundry Room
     *   PUMA Kids
     *   philosophy Starting at $15
-    *   Chinese Laundry Up to 60% Off
+    
     *   Free Shipping: NFL Tailgate Party Essentials
     *   Dynamic Innovation Labs Starting at $15
     *   Glister Hair Tools Up to 75% Off
     *   PUMA Kids' Active &. More
     *   Get into Gear: Must-Haves ft. NUBY
     *   Fab Finds: Diamonds, Gems &. More Up to 80% Off
-    *   Cashmere ft. M by Magaschoni Up to 75% Incl. Plus
-    *   Dresses ft. Eliza J Incl. Plus &. Petites
-    *   Barefoot Dreams Incl. Plus
-    *   Polished Separates ft. T Tahari Incl. Plus &. Petites
-    *   BCBGeneration Coats Up to 65% Off
-    *   Transitional Booties Under $75 ft. Steve Madden
-    *   Scotch &. Soda
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
-    *   Statement Earrings &. More Under $25
-    *   Fresh Finds: Shoes Up to 60% Off
-    
-    *   Abound Shoes from $30
     *   Luxe Skin Care from $20
     *   Croscill Bedding &. More
     *   Jewelry Storage for Every Style
     *   Let's Get Spooky: Halloween Decor from $10
-    *   Holiday Head Start: AME Character PJs &. More
-    *   Belstaff Up to 60% Off
     *   Modern Fiction Up to 60% Off
-    *   Educational Toys Up to 60% Off
     *   Hera Hair Tools &. More Up to 85% Off
-    *   Men's Designer Shoes ft. BOSS Up to 65% Off
     *   Luseta Beauty Hair Care from $10
     *   Sigma Beauty Starting at $10
     *   Thalgo Anti-Aging Skin Care
     *   Get Organized: Storage Bins &. More
-    *   Hair Tool Must-Haves ft. T3, Conair &. More
-    *   K-Beauty Skin Care ft. Goodal, Peripera &. More
     *   Free Shipping: Barware, Dinnerware &. More
+    *   Sunday Steals Up to 80% Off
+    *   Cashmere ft. M by Magaschoni Up to 75% Incl. Plus
+    *   Free Shipping: Fresh Bedding &. More from $40
+    *   Converse
+    *   Free Shipping: Sheet Sets Up to 75% Off
     *   Free Shipping: Finishing Touches for Your Home
     *   Laura Ashley Bedding &. More
-    *   Time to Upgrade: Smart Watch Bands from $10
-    *   Free Shipping: Sheet Sets Up to 75% Off
-    *   Fall Ready: Suede Jackets, Pants &. More
-    *   Holiday Head Start: Outerwear Up to 60% Off
-    *   Ready, Jet Set, Go: Luxe Luggage Up to 65% Off
-    *   Free Shipping: Sleek Organization for Your Home
-    *   Stay Warm: Flannel Sheets &. Heated Bedding
 *   WomenShop Sale Events
     
-    *   Movado Watches
+    *   Dooney &. Bourke Handbags
+    *   Office Hours: Luxe Brands ft. Suistudio
+    *   Desigual
+    *   Plus Shop: Wear-to-Work Styles Up to 60% Off
+    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
+    *   Timberland for Her Up to 60% Off
+    *   Comfort Shoes ft. LifeStride from $40
+    *   Great Heights: High &. Mid Heels
+    *   Date Nights to Weekend Chic: Free Press &. More
+    *   Simple Statements: Lingerie ft. On Gossamer
+    *   Step It Up: Block Heels, Slingbacks &. Low Heels
+    *   Palettes We Love &. More Up to 50% Off
+    *   Support System: Active Socks &. Sports Bras
+    *   Hit the Slopes: Puffers &. Parkas ft. Spyder &. NOIZE
+    *   Denim Up to 65% Off
     *   WILDFOX
     *   Dr. Martens
     *   Juicy Couture Outerwear &. More
     *   Cozy Luxury ft. Sofia Cashmere
     *   Rebecca Minkoff Up to 60% Off
     *   Casually Chic Essentials ft. Loveappella &. More
+    
     *   Arrive in Style: Dresses &. Jumpsuits
     *   Work or Play: Skirts for Every Occasion
     *   Exuviance Skin Care: Anti-Aging Treatments &. More
     *   X by Gottex Active
     *   Suzy Levian Jewelry
     *   Travel Accessories ft. LEWIS N. CLARK
-    *   Denim Up to 65% Off
-    *   Gevril Watches Up to 85% Off
-    *   Sunday Steals Up to 80% Off
     *   Women's Heels &. More Up to 70% Off
     *   PUMA
-    *   Cozy Essentials: Love Token &. More
-    *   Betsey Johnson &. Love...Ady Dresses
-    *   Mario Valentino Handbags &. Belts
-    *   Fall Essentials Ft. 7 Seasons
     *   PUMA Active Starting at $25
-    *   One-Piece Wonders: Bodysuits
-    *   Style Statements: English Factory &. endless rose
-    *   Via Spiga Coats Incl. Plus Up to 65% Off
-    
-    *   Lounge &. Sleep ft. The Laundry Room
     *   philosophy Starting at $15
-    *   Chinese Laundry Up to 60% Off
     *   Dynamic Innovation Labs Starting at $15
     *   Glister Hair Tools Up to 75% Off
     *   Fab Finds: Diamonds, Gems &. More Up to 80% Off
-    *   Cashmere ft. M by Magaschoni Up to 75% Incl. Plus
-    *   Dresses ft. Eliza J Incl. Plus &. Petites
-    *   Barefoot Dreams Incl. Plus
-    *   Polished Separates ft. T Tahari Incl. Plus &. Petites
-    *   BCBGeneration Coats Up to 65% Off
-    *   Transitional Booties Under $75 ft. Steve Madden
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
-    *   Statement Earrings &. More Under $25
-    *   Fresh Finds: Shoes Up to 60% Off
-    *   Abound Shoes from $30
     *   Luxe Skin Care from $20
     *   Hera Hair Tools &. More Up to 85% Off
     *   Luseta Beauty Hair Care from $10
     *   Sigma Beauty Starting at $10
     *   Thalgo Anti-Aging Skin Care
-    *   Hair Tool Must-Haves ft. T3, Conair &. More
-    *   K-Beauty Skin Care ft. Goodal, Peripera &. More
-    *   Fall Ready: Suede Jackets, Pants &. More
-    *   Ready, Jet Set, Go: Luxe Luggage Up to 65% Off
+    *   Sunday Steals Up to 80% Off
+    *   Cashmere ft. M by Magaschoni Up to 75% Incl. Plus
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
     *   Handbags
+    *   Jewelry
     *   Lingerie
-    *   Accessories
-    *   Watches
 *   MenShop Sale Events
     
-    *   Movado Watches
+    *   7 For All Mankind Men
+    *   Dad &. Me: Timberland
+    *   Burnside
+    *   ROAN
     *   Dr. Marten's Men
-    *   Tommy Hilfiger Men's Footwear
     *   Travel Accessories ft. LEWIS N. CLARK
-    *   Gevril Watches Up to 85% Off
+    
+    *   Tommy Hilfiger Men's Footwear
     *   Men's Shoe Steals Up to 65% Off
     *   PUMA Men
-    
     *   PUMA Men's Active Starting at $20
     *   Psycho Bunny Up to 70% Off
-    *   Scotch &. Soda
-    *   Belstaff Up to 60% Off
     *   Modern Fiction Up to 60% Off
-    *   Men's Designer Shoes ft. BOSS Up to 65% Off
-    *   Ready, Jet Set, Go: Luxe Luggage Up to 65% Off
     
     Shop By Category
     *   Shoes
     *   Clothing
-    *   Watches
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Splendid Kids &. More
     *   KicKee Pants
-    *   Converse
     *   PUMA Kids
     *   PUMA Kids' Active &. More
     *   Get into Gear: Must-Haves ft. NUBY
-    *   Holiday Head Start: AME Character PJs &. More
-    *   Educational Toys Up to 60% Off
-    *   Holiday Head Start: Outerwear Up to 60% Off
+    *   Converse
     
     Shop By Category
-    *   Girls' Sizes 7-16
     *   Baby Gear &. Essentials
-    *   Girls' Sizes 2T-6X
-    *   Boys' Sizes 2T-7
     *   Girls' Shoes
-    *   Boys' Sizes 8-20
-    *   The Toy Shop
+    *   Girls' Sizes 7-16
+    *   Boys' Sizes 2T-7
     *   Boys' Shoes
+    *   Girls' Sizes 2T-6X
+    *   Boys' Sizes 8-20
     *   Baby Girl
     *   Baby Boy
 *   HomeShop Sale Events
     
-    *   Free Shipping: BergHOFF Blowout
-    *   Nostalgia Kitchen Faves
+    *   Spellbinding Steals: Witch Figurines &. More
+    *   Autumn Accents: Decorative Pumpkins, Signs &. More
+    *   Fall Harvest: Charming Autumn Decor
+    *   Free Shipping: Fall &. Winter Decor Up to 50% Off
+    *   Happy Howloween: Pet Costumes &. More
     *   Travel Accessories ft. LEWIS N. CLARK
-    *   Free Shipping: Fresh Bedding &. More from $40
+    *   Nostalgia Kitchen Faves
+    *   Free Shipping: BergHOFF Blowout
     *   Chef-Worthy Essentials: Gadgets &. More
     *   Free Shipping: NFL Tailgate Party Essentials
+    
     *   Croscill Bedding &. More
     *   Jewelry Storage for Every Style
     *   Let's Get Spooky: Halloween Decor from $10
-    
     *   Get Organized: Storage Bins &. More
     *   Free Shipping: Barware, Dinnerware &. More
+    *   Free Shipping: Fresh Bedding &. More from $40
+    *   Free Shipping: Sheet Sets Up to 75% Off
     *   Free Shipping: Finishing Touches for Your Home
     *   Laura Ashley Bedding &. More
-    *   Time to Upgrade: Smart Watch Bands from $10
-    *   Free Shipping: Sheet Sets Up to 75% Off
-    *   Ready, Jet Set, Go: Luxe Luggage Up to 65% Off
-    *   Free Shipping: Sleek Organization for Your Home
-    *   Stay Warm: Flannel Sheets &. Heated Bedding
     
     Shop By Category
     *   Bedding
     *   Kitchen &. Tabletop
-    *   Electronic &. Tech Accessories
-    *   Luggage &. Travel
     *   Home Decor
-    *   Cleaning &. Organization
     *   Holiday Decorations
+    *   Pet Accessories
+    *   Luggage &. Travel
     *   Bath
+    *   Cleaning &. Organization
     *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
+    *   Palettes We Love &. More Up to 50% Off
     *   Exuviance Skin Care: Anti-Aging Treatments &. More
     *   philosophy Starting at $15
     *   Dynamic Innovation Labs Starting at $15
     *   Glister Hair Tools Up to 75% Off
+    
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   Luxe Skin Care from $20
-    
     *   Hera Hair Tools &. More Up to 85% Off
     *   Luseta Beauty Hair Care from $10
     *   Sigma Beauty Starting at $10
     *   Thalgo Anti-Aging Skin Care
-    *   Hair Tool Must-Haves ft. T3, Conair &. More
-    *   K-Beauty Skin Care ft. Goodal, Peripera &. More
     
     Shop By Category
     *   Skin Care
@@ -258,7 +234,6 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Makeup
     *   Bath &. Body
     *   Tools &. Accessories
-    *   Makeup Bags
     *   Fragrance
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
