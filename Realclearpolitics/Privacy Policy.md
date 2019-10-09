@@ -115,53 +115,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Juan Williams_: How Dems Can Keep Their Eyes on the Impeachment Prize
+*   _Melissa Chen_: South Park Has More Courage Than the NBA
     
-*   _Derek Hunter_: Impeachment Scam Becoming a Disaster for Democrats
+*   _Fred Kaplan_: Trump Just Gave Turkey an Open Invitation to Slaughter Kurds
     
-*   _Michael Bloomberg_: Trump Is Violating His Oath of Office in Plain Sight
+*   _Doug Bandow_: Trump's Triumph? America Finally Leaves Syria.
     
-*   _Stephen Moore_: Middle-Class Incomes Surge--Thanks to Trump Policies
+*   _Froma Harrop_: Dems Must Defend Biden as Trump Invades the Party
     
-*   _Geoffrey Skelley_: What's Behind Warren's Rise in the Polls?
+*   _Francis Menton_: The Bidens: 'Stone Cold Crooked'
     
-*   _Swan &. Talev_: Syria Withdrawal Decision Exposes Trump to Political Peril
+*   _Perry Bacon_: What Happened to the Kamala Harris Campaign?
     
-*   _Brad Polumbo_: Voters Are With Trump, Not Foreign Policy Establishment
+*   _Sen. Grassley &. Rep. Brady_: It's Time for Congress to Pass USMCA
     
-*   _Elizabeth Wydra_: SCOTUS 2020 Forecast: A Category 5 Political Hurricane
+*   _Jeannie Gersen_: Harvard and the Many Sins of College Admissions
     
-*   _John Nolte_: Anti-Kavanaugh Book Written by NY Times Reporters Flops
+*   _Emina Melonic_: Camille Paglia, Now More Than Ever
     
-*   _Jane Timm_: What We Know About Trump's Baseless Biden-China Claims
+*   _Sharyl Attkisson_: Where Did $91 Billion for Puerto Rico's Recovery Go?
     
-*   _Ryan Cooper_: Biden's Baggage Makes Him a Bad Choice for Democrats
+*   _Jonathan Hogan_: Afghan War Veterans Are Tired of 18 Years of Fighting
     
-*   _Victor Davis Hanson_: Trump's Only 'Crime' Was Winning Election
+*   _David Sanger_: When 'Get Out' Is a President's National Security Strategy
     
-*   _James Downie_: The New GOP Strategy: Don't Believe the President
+*   _Charles Hurt_: Washington Unites--for More Mideast Intervention
     
-*   _Lee Smith_: Ukraine Ground Zero for Russia Collusion Hoax
+*   _Peter Bergen_: Trump's Ill-Advised Precipitous Withdrawal From Syria
     
-*   _Julia Ioffe_: Why Ukraine Pops Up in So Many U.S. Scandals
+*   _John McCormack_: Kavanaugh Confirmation: What We've Learned a Year Later
     
-*   _Byron York_: End Impeachment Secrecy
+*   _Elie Mystal_: SCOTUS Is Back in Session, and Cruelty Is on the Docket
     
-*   _Noelle Yasso_: Trump Has No Right to Confront the Whistleblower
+*   _Bari Weiss_: The World's Wokest Sports League Bows to China
     
-*   _Matt Taibbi_: 'Whistleblower'? Probably Not
+*   _Mark Hemingway_: Chuck Todd and the Demise of True Journalism
     
-*   _Frank Miele_: The Curious Case of the Incurious Press
+*   _Jack Shafer_: Why Trump Can't Tweet His Way Out of Trouble
     
-*   _Chris McGreal_: Will Trump's Swing Voters Stay Loyal in 2020?
+*   _Miranda Devine_: Donald Trump's Lesson for Mitt Romney
     
-*   _John Fund_: The Longer Elites Ignore Populism, the More They'll Be Surprised
+*   _Andy Kroll_: Inside the Making of Andrew Yang 2.0
     
-*   _Matthew Walther_: What a Trump vs. Warren Race Would Look Like
+*   _Ed Kilgore_: The Emerging Anybody-But-Warren Campaign
     
-*   _Liz Peek_: Panicky Dems Beg Michelle Obama to Run. Could She Win?
+*   _Stephen Moore_: Economic Growth: Missing From the Dem Debates
     
-*   _Ali Della Volpe_: Our K-12 Education System Is Flawed -- by Design
+*   _Greg Orman_: Divided America Agrees on This--Govt. Corruption Is Rampant
     
 
 *   Previous
@@ -232,11 +232,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Hemingway: Chuck Todd and the Demise of True Journalism
+*   Trump Knocks "Ridiculous Endless Wars" Amid Syria Troop Pullout
+*   Graham: Decision to Leave Syria a Big Win for Iran, Assad, ISIS
 *   Supreme Court Begins Election Year Term Full of Big Cases
 *   Free Higher Education Support Is Age- and Party-Based
-*   Johnson vs. Todd: I Don't Trust FBI or CIA After Strzok, Page and Comey
-*   Trump's Plea to China on Biden: Sly Move or Reckless One?
-*   RCP Poll: K-12 Education Falls Short, and Hope for Gains Lags
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -249,48 +249,48 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   2020 Democratic Presidential NominationQuinnipiac
+    *   Warren29
+    *   Biden26
+    *   Sanders16
+    *   Buttigieg4
+    *   Harris3
+    *   Yang3
+    *   O'Rourke1
+    *   Booker2
+    *   Klobuchar2
+    *   Castro1
+    *   Bennet1
+    *   Gabbard0
+    *   Steyer0Warren +3
 *   2020 Democratic Presidential NominationPolitico/Morning Consult
-    *   Biden33
     *   Warren21
+    *   Biden33
     *   Sanders19
     *   Buttigieg5
     *   Harris6
     *   Yang3
     *   O'Rourke3
     *   Booker2
-    *   Gabbard1
     *   Klobuchar1
     *   Castro1
     *   Bennet1
-    *   Steyer1Biden +12
-*   2020 Democratic Presidential NominationIBD/TIPP
-    *   Biden26
-    *   Warren27
-    *   Sanders10
-    *   Buttigieg7
-    *   Harris3
-    *   Yang3
-    *   O'Rourke2
-    *   Booker0
     *   Gabbard1
-    *   Klobuchar1
-    *   Castro1
-    *   Bennet0
-    *   Steyer0Warren +1
-*   General Election: Trump vs. BidenIBD/TIPP
+    *   Steyer1Biden +12
+*   General Election: Trump vs. WarrenQuinnipiac
+    *   Warren49
+    *   Trump41Warren +8
+*   General Election: Trump vs. BidenQuinnipiac
     *   Biden51
-    *   Trump44Biden +7
-*   General Election: Trump vs. WarrenIBD/TIPP
-    *   Warren48
-    *   Trump46Warren +2
+    *   Trump40Biden +11
 
 More Latest Polls In The News
 
-*   Graham: Trump Decision To Leave Syria A "Big Win" For Iran, Assad, ISIS. Used Obama's Rational For Iraq
-*   Rand Paul on Syria: "Neocon War Caucus" Graham, Rubio, Romney, Haley "Always Want To Stay At War"
-*   Giuliani: Trump Has Every Right To Ask Other Countries For Info. What If Biden Had Killed Someone?
-*   Ron Johnson vs. Chuck Todd: I Don't Trust FBI Or CIA After Strzok, Page, And Comey. "I Want The Truth"
-*   Stephen Cohen: Why Did American And Foreign Intelligence Agencies Set Out To Destroy Donald Trump?
+*   FNC's Roberts: Investigation Into Genesis Of Russia Probe Expands, Will Be Released Later This Month
+*   Hillary Clinton on Trump: "Maybe There Does Need To Be A Rematch" So "I Can Beat Him Again"
+*   Rep. Cohen: 'Wizard of Oz' Being Played Out For The American Public And Trump Thinks He's The Wizard
+*   Tucker Carlson on Syria: In Washington, "Interests Of Foreigners Are Far More Important Than Our Own"
+*   Trump: I "Thrive" On Impeachment, Very Few Could Handle It. "Can't Impeach A Pres. For Doing A Great Job"
 
 *   Politics
 *   Policy
