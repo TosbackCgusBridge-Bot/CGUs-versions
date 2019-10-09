@@ -3,7 +3,11 @@ Accessibility links
 *   Skip to main content
 *   Keyboard shortcuts for audio player
 
-****NPR 24 Hour Program Stream**On Air Now**Toggle more player options
+****NPR 24 Hour Program Stream** **On Air Now****
+
+*   **Hourly News**
+*   **Listen Live**
+*   **Playlist**
 
 *   Sign In
 *   NPR Shop
@@ -415,4 +419,4 @@ NPR thanks our sponsors
 
 Become an NPR sponsor
 
-<iframe style="display:none;padding:0;margin:0;" width="0" height="0" src="//20655831p.rfihub.com/ca.html?rb=3035&ca=20501671&ra=gtmcb"></iframe><iframe><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1621557368158968&ev=PageView&noscript=1" /></iframe>
+<iframe><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1621557368158968&ev=PageView&noscript=1" /></iframe>
