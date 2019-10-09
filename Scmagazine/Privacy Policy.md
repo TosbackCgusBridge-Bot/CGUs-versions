@@ -364,23 +364,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Ransomware attack forces DCH Health Systems to turn away patients
-    *   Scammers using Google Alerts to spread malware, fraud
-    *   Are you prepared for a ransomware attack?
-    *   Criminals' security lapses enable discovery of Geost mobile banking trojan
-    *   October product reviews: Risk management
-    
-    *   Cisco's latest round of updates address bugs in security products
-    *   Attacker breaches Comodo forums by exploiting vBulletin flaw
-    *   Reports: Actively exploited zero-day found in vBulletin forum software
-    *   DoorDash data breach hits 4.9 million customers, merchants and drivers
-    *   Meghan Markle, Prince Harry sue tabloid for breach of U.K. Data Protection Act of 2018
-    
-    *   DCH Health System pays ransomware attackers in bid to restore operations
-    *   Data on 92M Brazilians found for sale on underground forums
-    *   Rethinking Cyberisks amid a rapidly evolving threat environment
-    *   New 'Reductor' malware compromises machines' encrypted TLS traffic
     *   Iran hackers targeted presidential campaign, journalists
+    *   When spreadsheets are enough for risk management
+    *   Lawmakers advance bills that would add to DHS' cyber responsibilities
+    *   Ransomware attack forces DCH Health Systems to turn away patients
+    *   FBI alert: Ransomware attacks becoming increasingly targeted and costly
+    
+    *   Kernel privilege escalation bug actively exploited in Android devices
+    *   Apple updates software, fixes flaw affecting third-party keyboard apps
+    *   Data on 92M Brazilians found for sale on underground forums
+    *   Cisco's latest round of updates address bugs in security products
+    *   DCH Health System pays ransomware attackers in bid to restore operations
+    
+    *   Decryptors developed for new Muhstik, HildaCrypt ransomwares
+    *   Securing the increasingly complex end user computing landscape
+    *   Kernel privilege escalation bug actively exploited in Android devices
+    *   Former Yahoo! engineer pleads guilty to using access to nick pics of women
+    *   DCH Health System pays ransomware attackers in bid to restore operations
 
 Back to Top
 
@@ -412,4 +412,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
