@@ -1,4 +1,4 @@
-SUBSCRIBE NOW$3 for 3 months. Save 90%.
+SUBSCRIBE NOW$5 for 3 months. Save 83%.
 
 *   Home
 *   News
@@ -60,7 +60,7 @@ SUBSCRIBE NOW$3 for 3 months. Save 90%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowNational Geographic journalist wounded in JuárezLocal2 El Paso mass shooting victims still in hospitalsLocalKLAQ CarnEvil haunted house offers frightful funLocalCity Rep. Sam Morgan accused of hitting wifeNewsPolice confirm foul odor from car was dead bodyNewsTwo candidates join 2020 El Paso mayoral racePoliticsPolice seek suspect who shot man outside barCrimeUTEP offense comes up flat against UTSACollegeAaron Jones set for Texas return to take on CowboysNflEnjoy Coffee with a Cop this month in El PasoLifeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowFamily of killed airman look for community supportNewsCuban migrants work to make a life in MexicoNewsBorder Patrol chief responds to allegations against husbandNewsEl Paso BP chief's husband accused of sexual assaultNewsCity attorney did not anticipate Hernandez candidacyNewsCardi B: 5 things to know before concert tonightEntertainmentVideo shows man abandon puppies near dumpsterCrimeEl Paso athletes shine in collegeSportsProtective order filed against city Rep. Sam MorganNewsMan arrested on second sexual assault of a child allegationsNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
