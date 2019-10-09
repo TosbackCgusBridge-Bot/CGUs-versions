@@ -24,11 +24,6 @@ More Options Available Home Decorators Collection True Cherry 7.5 in. x 47.6 in.
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/4ca85dba-9792-4438-b892-0aeb67208667/svn/handscraped-dark-hickory-home-decorators-collection-vinyl-plank-flooring-60199-64\_400\_compressed.jpg" alt="Java Hickory 6 in. x 36 in. Luxury vinyl plank flooring (20.34 sq. ft. / case)" />. Home Decorators Collection Java Hickory 6 in. x 36 in. Luxury vinyl plank flooring (20.34 sq. ft. / case) Model#  60199 (241) $239 /sq. ft. ( $48.61  /case) $239 /sq. ft. ( $48.61  /case) Standard delivery
-
-Set your store to see local  
-availability
-
 Add to Cart Compare <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/0f/0fbec567-3af9-4832-a9ea-4bf32c6586e6\_400\_compressed.jpg" alt="2 in. Cordless Faux Wood" />.
 
 More Options Available
@@ -38,9 +33,12 @@ Home Decorators Collection 2 in. Cordless Faux Wood (7112) $2297 - $7997 Free de
 Set your store to see local  
 availability
 
-Choose Your Options Compare <img src="https://images.homedepot-static.com/productImages/3026095f-ca13-4dd7-86e4-61b7e570b201/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-54725-64\_400\_compressed.jpg" alt="Mercer 52 in. LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control" />.
+Choose Your Options Compare <img src="https://images.homedepot-static.com/productImages/4ca85dba-9792-4438-b892-0aeb67208667/svn/handscraped-dark-hickory-home-decorators-collection-vinyl-plank-flooring-60199-64\_400\_compressed.jpg" alt="Java Hickory 6 in. x 36 in. Luxury vinyl plank flooring (20.34 sq. ft. / case)" />. Home Decorators Collection Java Hickory 6 in. x 36 in. Luxury vinyl plank flooring (20.34 sq. ft. / case) Model#  60199 (241) $239 /sq. ft. ( $48.61  /case) $239 /sq. ft. ( $48.61  /case) Standard delivery
 
-More Options Available Home Decorators Collection Mercer 52 in. LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control Model#  54725 View the Mercer Collection (950) $14900 $14900 Free delivery
+Set your store to see local  
+availability
+
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/bbb79aff-8a3d-46d7-9a62-db87822aa09e/svn/winterton-oak-light-brown-low-gloss-textured-finish-home-decorators-collection-laminate-wood-flooring-hc01-64\_400\_compressed.jpg" alt="Winterton Oak 12 mm Thick x 7-7/16 in. Wide x 50-5/8 in. Length Laminate Flooring (18.2 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/f8/f84d1c17-635d-4056-a4a9-c1f5ad7fb743\_400\_compressed.jpg" alt="Winterton Oak 12 mm Thick x 7-7/16 in. Wide x 50-5/8 in. Length Laminate Flooring (18.2 sq. ft. / case)" class="secondary-image has-secondary-image"/>. Home Decorators Collection Winterton Oak 12 mm Thick x 7-7/16 in. Wide x 50-5/8 in. Length Laminate Flooring (18.2 sq. ft. / case) Model#  HC01 (199) $199 /sq. ft. ( $36.21  /case) $199 /sq. ft. ( $36.21  /case) Standard delivery
 
 Set your store to see local  
 availability
@@ -48,6 +46,13 @@ availability
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/7a0bc049-08d2-4c98-8344-5cf670c54b35/svn/matte-black-home-decorators-collection-ceiling-fans-with-lights-yg629a-mbk-64\_400\_compressed.jpg" alt="Ellard 52 in. LED Matte Black Indoor Ceiling Fan with Lights" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/71/7154c9fe-4695-4490-b269-1288d8ac75df\_400\_compressed.jpg" alt="Ellard 52 in. LED Matte Black Indoor Ceiling Fan with Lights" class="secondary-image has-secondary-image"/>.
 
 Home Decorators Collection Ellard 52 in. LED Matte Black Indoor Ceiling Fan with Lights Model#  YG629A-MBK (348) $12900 $12900 Free delivery
+
+Set your store to see local  
+availability
+
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/3026095f-ca13-4dd7-86e4-61b7e570b201/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-54725-64\_400\_compressed.jpg" alt="Mercer 52 in. LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control" />.
+
+More Options Available Home Decorators Collection Mercer 52 in. LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control Model#  54725 View the Mercer Collection (950) $14900 $14900 Free delivery
 
 Set your store to see local  
 availability
@@ -103,7 +108,7 @@ availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/52d6e8ad-79c1-46b3-aaf7-cb4e23e23f9b/svn/oil-rubbed-bronze-home-decorators-collection-ceiling-fans-without-lights-26668-64\_400\_compressed.jpg" alt="Altura 68 in. Indoor Oil Rubbed Bronze Ceiling Fan with Remote Control" />.
 
-More Options Available Home Decorators Collection Altura 68 in. Indoor Oil Rubbed Bronze Ceiling Fan with Remote Control Model#  26668 View the Altura Ceiling Fan Collection (506) $22900 $22900 Free delivery
+More Options Available Home Decorators Collection Altura 68 in. Indoor Oil Rubbed Bronze Ceiling Fan with Remote Control Model#  26668 View the Altura Ceiling Fan Collection (507) $22900 $22900 Free delivery
 
 Set your store to see local  
 availability
@@ -120,7 +125,9 @@ More Options Available Home Decorators Collection Windward IV 52 in. LED Indoor 
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/95183286-c290-41aa-b12f-6e221114bf58/svn/natural-iron-home-decorators-collection-ceiling-fans-with-lights-51422-64\_400\_compressed.jpg" alt="Palm Cove 52 in. LED Indoor/Outdoor Natural Iron Ceiling Fan with Light Kit" />. Home Decorators Collection Palm Cove 52 in. LED Indoor/Outdoor Natural Iron Ceiling Fan with Light Kit Model#  51422 (627) $15400 $15400 Free delivery
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/8a4a97e9-0442-4209-8e83-20a618514334/svn/espresso-bronze-home-decorators-collection-ceiling-fans-with-lights-yg493od-eb-64\_400\_compressed.jpg" alt="Kensgrove 72 in. LED Indoor/Outdoor Espresso Bronze Ceiling Fan with Remote Control" />.
+
+More Options Available Home Decorators Collection Kensgrove 72 in. LED Indoor/Outdoor Espresso Bronze Ceiling Fan with Remote Control Model#  YG493OD-EB (1311) $29900 $29900 Free delivery
 
 Set your store to see local  
 availability
@@ -134,16 +141,7 @@ Home Decorators Collection Ashmont 54 in. Freestanding Electric Fireplace TV Sta
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/ea60c637-4042-4fd4-9d85-2118a5b2d547/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-59244-64\_400\_compressed.jpg" alt="Ashby Park 44 in. White Color Changing Integrated LED Brushed Nickel Ceiling Fan with Light Kit" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/db/db620a29-e7e1-4d80-a93b-832a8d5dcbc2\_400\_compressed.jpg" alt="Ashby Park 44 in. White Color Changing Integrated LED Brushed Nickel Ceiling Fan with Light Kit" class="secondary-image has-secondary-image"/>.
-
-More Options Available Home Decorators Collection Ashby Park 44 in. White Color Changing Integrated LED Brushed Nickel Ceiling Fan with Light Kit Model#  59244 (41) $9997 $9997 Free delivery
-
-Set your store to see local  
-availability
-
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/8a4a97e9-0442-4209-8e83-20a618514334/svn/espresso-bronze-home-decorators-collection-ceiling-fans-with-lights-yg493od-eb-64\_400\_compressed.jpg" alt="Kensgrove 72 in. LED Indoor/Outdoor Espresso Bronze Ceiling Fan with Remote Control" />.
-
-More Options Available Home Decorators Collection Kensgrove 72 in. LED Indoor/Outdoor Espresso Bronze Ceiling Fan with Remote Control Model#  YG493OD-EB (1311) $29900 $29900 Free delivery
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/95183286-c290-41aa-b12f-6e221114bf58/svn/natural-iron-home-decorators-collection-ceiling-fans-with-lights-51422-64\_400\_compressed.jpg" alt="Palm Cove 52 in. LED Indoor/Outdoor Natural Iron Ceiling Fan with Light Kit" />. Home Decorators Collection Palm Cove 52 in. LED Indoor/Outdoor Natural Iron Ceiling Fan with Light Kit Model#  51422 (627) $15400 $15400 Free delivery
 
 Set your store to see local  
 availability
@@ -155,7 +153,9 @@ More Options Available Home Decorators Collection Ackerly 52 in. Integrated LED 
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/11c666de-8663-43a9-86e9-e198e6f20b21/svn/home-decorators-collection-bamboo-flooring-yy1001-64\_400\_compressed.jpg" alt="Hand Scraped Strand Woven Brown 3/8 in. T x 5-1/8 in. W x 36 in. L Engineered Click Bamboo Flooring" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/0b/0bddae37-95c4-4e5e-a405-cce36d80ea63\_400\_compressed.jpg" alt="Hand Scraped Strand Woven Brown 3/8 in. T x 5-1/8 in. W x 36 in. L Engineered Click Bamboo Flooring" class="secondary-image has-secondary-image"/>. Home Decorators Collection Hand Scraped Strand Woven Brown 3/8 in. T x 5-1/8 in. W x 36 in. L Engineered Click Bamboo Flooring Model#  YY1001 (117) $239 /sq. ft. ( $61.22  /case) $239 /sq. ft. ( $61.22  /case) Standard delivery
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/ea60c637-4042-4fd4-9d85-2118a5b2d547/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-59244-64\_400\_compressed.jpg" alt="Ashby Park 44 in. White Color Changing Integrated LED Brushed Nickel Ceiling Fan with Light Kit" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/db/db620a29-e7e1-4d80-a93b-832a8d5dcbc2\_400\_compressed.jpg" alt="Ashby Park 44 in. White Color Changing Integrated LED Brushed Nickel Ceiling Fan with Light Kit" class="secondary-image has-secondary-image"/>.
+
+More Options Available Home Decorators Collection Ashby Park 44 in. White Color Changing Integrated LED Brushed Nickel Ceiling Fan with Light Kit Model#  59244 (41) $9997 $9997 Free delivery
 
 Set your store to see local  
 availability
