@@ -43,6 +43,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   Marketing
     *   Product Management
     *   Sales
+    *   Supply Chain
     
     What We Do
     
@@ -60,7 +61,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 750 4192 1 855 750 4192
+    1 855 353 2908 1 855 353 2908
     
 
 *   Solutions By Function
@@ -100,6 +101,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   Marketing
     *   Product Management
     *   Sales
+    *   Supply Chain
 *   What We Do
     *   Research
     *   Conferences
@@ -125,10 +127,10 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 750 4192 1 855 750 4192
+    1 855 353 2908 1 855 353 2908
     
 
-GARTNER PRIVACY POLICY Effective Date: June 2019
+GARTNER PRIVACY POLICY Effective Date: October 2019
 
 Gartner and its affiliates are committed to protecting your information. Please read this Privacy Policy ("**the Policy**") carefully as it sets out important information relating to how we handle your personal information.
 
@@ -201,6 +203,7 @@ This Policy will apply whether you have provided the information directly to us 
 **Categories of information we collect about you include:**
 
 *   Information you provide during registration, such as name, business email address, profile photograph, job title, professional interests, and requested accommodation;
+*   Information you provide while attending the conference to receive additional Gartner research or materials (e.g. badge scan or QR scan);
 *   Geo-location information at the conference (if you attend a conference where we are using RFID-enabled badges and you do not request a non-RFID-enabled badge);
 *   Information collected when we record one of our conferences.    
 
@@ -208,6 +211,7 @@ This Policy will apply whether you have provided the information directly to us 
 
 *   Enabling you to attend our conferences;
 *   Conducting our conferences;
+*    Sending Gartner research and material related to topics that may be of interest to you;
 *   Analyzing attendee interests in and interactions with the conference through geo-location data (in certain cases);
 *   Marketing our conferences through the use of video;
 *   Providing recordings of certain conference sessions to interested business contacts, attendees, and online through our website or Gartner social media sites.    
