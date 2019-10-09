@@ -120,9 +120,9 @@ Try Our New Lens
 
 <img class="bg-img" data-linkname="en:set\_a:\_2x1-2:image:electronics:SEL70350GLens-October-07-2019:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="5X Zoom Gets the Shot Without Being Too Close SEL70350G-Lens" data-img1x="/content/dam/sony/homepage/2019-october/10-7/SEL70350G\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-october/10-7/SEL70350G\_500x246.jpg" src="/content/dam/sony/homepage/2019-october/10-7/SEL70350G\_500x246.jpg" alt="5X Zoom Gets the Shot Without Being Too Close"/>. <img class="bg-img" data-linkname="en:set\_a:\_2x1-2:image:electronics:SEL70350GLens-October-07-2019:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="5X Zoom Gets the Shot Without Being Too Close SEL70350G-Lens" data-img1x="/content/dam/sony/homepage/2019-october/10-7/SEL70350G\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-october/10-7/SEL70350G\_500x246.jpg" src="/content/dam/sony/homepage/2019-october/10-7/SEL70350G\_600x600.jpg" alt="5X Zoom Gets the Shot Without Being Too Close Mobile"/>.
 
-Paint the world to life and restore Ash’s hometown from Darkness. #ConcreteGenie drops October 8.  https://go.sony.com/2Yj26hM  pic.twitter.com/AWkNwZf2gA
+PlayStation 5 launches holiday 2020:  https://play.st/35hhcYI  #PS5 pic.twitter.com/MPkKyRaHio
 
-13 hours ago View Tweet Instagram Post B3D0dMZHrMh
+17 hours ago View Tweet Instagram Post B3D0dMZHrMh
 
 8K Display Innovation
 
