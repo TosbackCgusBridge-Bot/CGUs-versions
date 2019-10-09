@@ -191,27 +191,27 @@ At Replacements, Ltd., we recognize that privacy is very important to our custom
 
 Our Privacy Policy
 
-When you place an order with us, or register for products or services, Replacements, Ltd. requests information from you that is required to complete your order or registration. We do not sell or rent your information to any third party. We never disclose any information to third parties for a third party's direct marketing purposes.
+When you communicate with us, Replacements, Ltd. requests information from you to facilitate our communications. Our goal is to serve you. We do not sell or rent your information to any third party. We never disclose any information to third parties for a third party's direct marketing purposes.
 
 Placing an Order with Replacements, Ltd.
 
-When you order, we request the following information: name, address, daytime phone number, and email address if you prefer to correspond with us via email. When you submit an order, this information is recorded, along with the IP (Internet Protocol) address of the computer used to place the order. In the event that a credit card is used as payment, the credit card number and expiration date are recorded. This information is utilized to authorize the purchase. The contact information you provide is used to ship the order and/or to contact the purchaser in the event there is a question about the order. If you need to update or correct this information, please contact our Internet Services Department via one of the following:
+When you order, we request the following information: name, address, phone number, and email address if you prefer to correspond with us via email. When you submit an order, this information is recorded, along with the IP (Internet Protocol) address of the computer used to place the order. In the event that a credit card is used as payment, the credit card number and expiration date are recorded. This information is utilized to authorize the purchase. The contact information you provide is used to ship the order and/or to contact the purchaser in the event there is a question about the order. If you need to update or correct this information, please contact our Customer Care Department via one of the following:
 
-*   Email us via our Contact Us page Regarding General Information
-*   Call 1-800-737-5223 ext:2600
+*   Email us via our Contact Us page
+*   Call 1-800-737-5223
 
 The information used to process your order is transferred to Replacements, Ltd. utilizing Secure Socket Layer (SSL) technology. Click here to confirm via VeriSign, Inc. that Replacements, Ltd. uses secure technologies to protect the transfer of your personal information. A "lock" icon in your web browser display is a typical indicator that the information you provided is being processed in a secure environment.
 
-Registering for Product Information with Replacements, Ltd.
+Requesting or Sharing Product Information
 
-When you register for product information with us, we request the following information: name, address, and email address if you prefer to correspond with us via email. When a registration for product information is submitted, this information is recorded, along with the IP (Internet Protocol) address of the computer used to place the registration. The contact information you provide is used to send the product information updates (patterns and piece availability updates) that you request. If you need to update or correct this information, please contact our Internet Services Department via one of the following:
+When you are in contact with Replacements, Ltd. and you request or share product information, we record your interests and request the following information: name, address, and email address if you prefer to correspond with us via email. When your communication is submitted, this information is recorded, along with the IP (Internet Protocol) address of the computer you used. The contact information you provide is used to send you product or services information. If you need to update or correct this information, please contact our Customer Care Department via one of the following:
 
-*   Email us via our Contact Us page Regarding General Information
-*   Call 1-800-737-5223 ext:2600
+*   Email us via our Contact Us page
+*   Call 1-800-737-5223
 
 Communications With You
 
-We may email and/or mail you for marketing purposes and you agree to receive email and/or mail from us. For example, when you register for product information or order from us, and provide your email address, in addition to periodic updates related to your interests, you will receive email related to our products and services, specials, events, and promotions. If you decide that you do not wish to receive this communication by email, there are clearly marked opt out instructions at the bottom of each correspondence.
+We may email and/or mail you for marketing purposes and you agree to receive email and/or mail from us. For example, when you create or update an account, request product or services information, or order from us and provide your email address, in addition to periodic updates related to your interests, you will receive email related to our products, services, specials, events, and promotions. If you decide that you do not wish to receive this communication by email, there are clearly marked opt out instructions at the bottom of each correspondence.
 
 We may also email you or otherwise use your information to share information with you or respond to your requests or questions.
 
@@ -240,9 +240,9 @@ We also collect consumer information from third party providers to update or enh
 
 Cookies and Web Beacons
 
-Cookies are small amounts of data that are used to "remember" specific requests and preferences that are associated with a visit to a specific website, and are also used to facilitate e-commerce transactions on millions of web sites on the Internet. If your browser is set to accept cookies, as you maneuver through various sites, your browser allocates a small amount of space on your hard drive to store these cookies. Replacements.com uses session cookies to identify items that you have expressed an interest in while visiting our site, such as items added to a shopping cart and/or our registration form. If you elect to enable the "Remember Me" feature in our web site, we will also use a cookie to save your name and address information for your next visit to our site's Pattern Registration or Order Form. If you do not elect to enable our "Remember Me" feature, we ask that you enter your name, address, and product preferences each time an order or registration is submitted online at Replacements.com. Replacements.com cookies are not used to identify, save, or retrieve personal financial information. In order to take advantage of all of Replacements.com's features, your browser should be set to accept cookies.
+Cookies are small amounts of data that are used to "remember" specific requests and preferences that are associated with a visit to a specific website, and are also used to facilitate e-commerce transactions on millions of web sites on the Internet. If your browser is set to accept cookies, as you maneuver through various sites, your browser allocates a small amount of space to store these cookies. Replacements.com uses cookies to identify items that you have expressed an interest in while visiting our site, such as items added to a shopping cart and/or accessing your Replacements.com account information. In order to take advantage of all of Replacements.com's features, your browser should be set to accept cookies.
 
-In addition, we work with other companies to help serve, manage, and track our products and advertisements on the Internet. These companies may use cookies and web beacons. Web beacons are small, HTML-embedded graphic images. Web beacons assist in determining whether and how often web pages are viewed. These cookies and web beacons do not track personally identifying information. They are used to gather aggregate information to help us provide more relevant information to web visitors and to assist in making our advertising more relevant to consumers looking for our product.
+In addition, we work with other companies to help serve, manage, and track our products and advertisements on the Internet. These companies may use cookies and web beacons. Web beacons assist in determining whether and how often web pages are viewed. They are used to gather aggregate information to help us provide more relevant information to web visitors and to assist in making our advertising more relevant to consumers looking for our product.
 
 If you wish to disable cookies and web beacons, you may do so through your individual browser options. More detailed information about cookie and web beacon management with specific web browsers can be found at the browsers' respective websites.
 
@@ -253,6 +253,10 @@ We may use one or more third-party online advertising networks to serve ads on o
 Protection of Replacements, Ltd. and Others
 
 We reserve the right to disclose your personally identifiable information in special cases, such as when required by law, to comply with a regulator or investigator, judicial proceeding, court order, or legal process served on us, to enforce or apply applicable terms and conditions and other agreements, or to protect the rights, property, or safety of our company, our customers, or others.
+
+GeoIP Data
+
+To comply with applicable law and to provide you relevant information and options, we use a MaxMind, Inc. GeoIP database product. MaxMind processes information in accordance with MaxMind’s privacy policy available at https://www.maxmind.com/en/privacy-policy.
 
 Server Log Files
 
@@ -327,7 +331,7 @@ Your Consent
 
 By using our website, you signify your consent to the Privacy Policy of Replacements, Ltd., and to the collection and use of your personal information as described herein. Please check this page regularly. If we post an updated Privacy Policy, you agree to the terms of the posted Privacy Policy by your continued use of our website.
 
-Last Updated: 05/24/2018
+Last Updated: 10/08/2019
 
 Help &. Info Contact Us Return Policy Shipping &. Handling Gift Cards Our Company Our Story Frequently Asked Questions In the News Careers Our Blog Designer Program Services Pattern Identification Help Find This For Me Restoration and Repair Other Services 1-800-REPLACE | My Account Follow Us 1-800-REPLACE Our Blog Designer Program Terms &. Conditions | Site Map | Privacy Policy © 2019 Replacements, Ltd. All rights reserved. 1089 Knox Road McLeansville, NC 27301, USA <iframe src='//www.googletagmanager.com/ns.html?id=GTM-PR6WVR' height='0' width='0' style='display:none;visibility:hidden'></iframe>. × Search China Dinnerware by Image Take a picture Choose an image or drag it into the box For best results:
 
