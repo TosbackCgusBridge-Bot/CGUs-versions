@@ -8,15 +8,26 @@
     *   Tealium Predict Machine Learning
 *   Solutions
     *   Mobile
-    *   Identity Resolution
-    *   Client-side &. Server-side Data
-    *   Customer Data Platform
+        *   Intro to Mobile Data
+        *   Mobile Data Strategies
+        *   IoT, Mobile and Beacons
+        *   Mobile Libraries and SDKs
     *   Event Data Framework
+        *   Data Infrastructure Fundamentals
+        *   Client Side vs. Server-Side
+    *   Customer Data Platform
+        *   CDP Fundamentals
+        *   CDPs vs. DMPs
+        *   Identity Resolution
     *   EDW or Data Lake + Tealium
-    *   Preparing for GDPR
+    *   Data Governance
+        *   Data Governance Checklist
     *   Trust and Privacy
-    *   InfoSec
+        *   GDPR
+        *   CCPA
+        *   Tealium InfoSec
     *   Adobe + Tealium
+    *   Amazon Web Services + Tealium
 *   Integrations
 *   Resources
     *   Resource Library (hub)
@@ -50,15 +61,26 @@
     *   Tealium Predict Machine Learning
 *   Solutions
     *   Mobile
-    *   Identity Resolution
-    *   Client-side &. Server-side Data
-    *   Customer Data Platform
+        *   Intro to Mobile Data
+        *   Mobile Data Strategies
+        *   IoT, Mobile and Beacons
+        *   Mobile Libraries and SDKs
     *   Event Data Framework
+        *   Data Infrastructure Fundamentals
+        *   Client Side vs. Server-Side
+    *   Customer Data Platform
+        *   CDP Fundamentals
+        *   CDPs vs. DMPs
+        *   Identity Resolution
     *   EDW or Data Lake + Tealium
-    *   Preparing for GDPR
+    *   Data Governance
+        *   Data Governance Checklist
     *   Trust and Privacy
-    *   InfoSec
+        *   GDPR
+        *   CCPA
+        *   Tealium InfoSec
     *   Adobe + Tealium
+    *   Amazon Web Services + Tealium
 *   Integrations
 *   Resources
     *   Resource Library (hub)
