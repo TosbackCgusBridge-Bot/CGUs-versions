@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off full-price styles!
+Receive 40% off full-price styles, plus free shipping, no minimum on all orders!
 
-code: COLORS pin: PROMOTION DETAILS
+code: FREE40 pin: PROMOTION DETAILS
 
 Customer Service Menu
 
@@ -302,4 +302,4 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-protected by **reCAPTCHA** Privacy - Terms Privacy - Terms <iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+protected by **reCAPTCHA** Privacy - Terms Privacy - Terms <iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
