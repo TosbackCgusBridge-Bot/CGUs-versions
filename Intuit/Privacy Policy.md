@@ -1,4 +1,4 @@
-Photography printFree 8x10Enable Accessibility
+Free Shipping over $99See DetailsEnable Accessibility
 
 *   My AccountSign InTrack MyOrders
 
@@ -28,9 +28,9 @@ Near YouFind a StoreBackUP TO 60% OFFFURNITURE &. MATTRESSES+ EXTRA 10% off with
 
 GET DETAILSJCPenney is a proud supporterof American Cancer Society®THE LOCAL LOOKlocally curated. universally lovedUP TO 50% OFF HALLOWEEN DECORselect styles40% OFF MATCHING FAMILY PAJAMASselect styles**sale $7.20-$30** reg. $12-$5025+ family pajama styles online! Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 21 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   $239 - $1999after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1403)
-*   $399 - $2799after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(218)
+*   $239 - $1999after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1405)
 *   $1199after couponwas $32 St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(2)
+*   $399 - $2799after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(218)
 *   $559 - $599after couponwas $17 St. John's Bay-Womens Crew Neck Long Sleeve T-Shirt(75)
 *   $2879after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(17)
 *   ADVERTISED DEAL!
