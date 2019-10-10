@@ -122,7 +122,7 @@ Try Our New Lens
 
 PlayStation 5 launches holiday 2020:  https://play.st/35hhcYI  #PS5 pic.twitter.com/MPkKyRaHio
 
-17 hours ago View Tweet Instagram Post B3D0dMZHrMh
+1 day ago View Tweet Instagram Post B3D0dMZHrMh
 
 8K Display Innovation
 
