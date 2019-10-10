@@ -23,7 +23,6 @@ SOMMAIRE
 *   _3._ À QUI VOS DONNÉES SONT ELLES TRANSMISES ?
 *   _3.1._ Les Destinataires de données de la Redoute
 *   _3.2._ Les sous-traitants de la Redoute
-*   _3.3._ Data Alliance
 *   _4._ QUELS SONT MES DROITS SUR LES DONNÉES ?
 *   _4.1._ Quels sont mes droits ?
 *   _4.2._ Que faire ensuite ?
@@ -238,16 +237,6 @@ La Redoute fait également appel à des sous-traitants pour les opérations suiv
 *   Le recueil des avis clients
 *   L’expédition des emails de prospection commerciale et des notifications mobiles
 *   La vente de voyages
-
-3.3. Data Alliance
-
-La Redoute peut également partager les données à caractère personnnel au sein de la Data Alliance dans le cadre de son rapprochement avec les Galeries Lafayettes.
-
-L’objectif de cette Alliance est pour chaque enseigne d’améliorer la connaissance client et d’adresser des offres ciblées plus pertinentes.
-
-Vous pouvez à tout moment vous opposer au partage de données au sein de cette Alliance en Cliquant ici
-
-Pour plus d’informations, vous pouvez contacter le délégué à la protection des données.
 
   4. QUELS SONT MES DROITS SUR LES DONNÉES 4.1. Quels sont mes droits ?
 
