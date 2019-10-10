@@ -31,16 +31,16 @@ Menu IKEA
         *   Café furniture
         *   Room dividers
         *   Explore Furniture
-    *   Sofas &. Armchairs
-        *   Sofas &. Armchairs
-        *   Sofas &. Loveseats
-        *   Sleeper Sofas
+    *   Sofas &. armchairs
+        *   Sofas &. armchairs
+        *   Sofas &. loveseats
+        *   Sleeper sofas
         *   Sectionals
-        *   Armchairs &. Chaises
+        *   Armchairs &. chaises
         *   Ottomans
-        *   Sofa Covers
-        *   Sofa Legs
-        *   Explore Sofas &. Armchairs
+        *   Sofa covers
+        *   Sofa legs
+        *   Explore Sofas &. armchairs
     *   Beds &. mattresses
         *   Beds &. mattresses
         *   Beds
@@ -106,8 +106,8 @@ Menu IKEA
         *   Cribs &. crib mattresses
         *   Nursing, feeding &. eating
         *   Changing, bathing &. potty
-        *   Baby Textiles
-        *   Baby Toys
+        *   Baby textiles
+        *   Baby toys
         *   Kids
         *   Kids mattresses
         *   STUVA storage system
@@ -280,11 +280,11 @@ Menu IKEA
 *   Rooms Rooms
     *   Rooms
     *   Bedroom
-    *   Living Room
-    *   Kitchen &. Appliances
-    *   Home Office
+    *   Living room
+    *   Kitchen &. appliances
+    *   Home office
     *   Bathroom
-    *   Baby &. Kids Room
+    *   Baby &. kids room
     *   Dining
     *   Storage
     *   Hallway
