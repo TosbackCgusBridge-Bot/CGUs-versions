@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   Kubectl and friends as a snap
+*   A reference architecture for secure IoT device Management
 *   Designing an open source machine learning platform for autonomous vehicles
 *   The State of Robotics – September 2019
 *   Container registry for Kubernetes with GitLab
-*   Five Key Kubernetes Resources for IoT
-*   Robotics security: What is SROS 2?
 
 *    ›
