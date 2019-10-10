@@ -28,7 +28,7 @@ Add to Cart Compare <img src="https://images.homedepot-static.com/catalog/produc
 
 More Options Available
 
-Home Decorators Collection 2 in. Cordless Faux Wood (7112) $2297 - $7997 Free delivery
+Home Decorators Collection 2 in. Cordless Faux Wood (7113) $2297 - $7997 Free delivery
 
 Set your store to see local  
 availability
@@ -39,13 +39,6 @@ Set your store to see local
 availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/bbb79aff-8a3d-46d7-9a62-db87822aa09e/svn/winterton-oak-light-brown-low-gloss-textured-finish-home-decorators-collection-laminate-wood-flooring-hc01-64\_400\_compressed.jpg" alt="Winterton Oak 12 mm Thick x 7-7/16 in. Wide x 50-5/8 in. Length Laminate Flooring (18.2 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/f8/f84d1c17-635d-4056-a4a9-c1f5ad7fb743\_400\_compressed.jpg" alt="Winterton Oak 12 mm Thick x 7-7/16 in. Wide x 50-5/8 in. Length Laminate Flooring (18.2 sq. ft. / case)" class="secondary-image has-secondary-image"/>. Home Decorators Collection Winterton Oak 12 mm Thick x 7-7/16 in. Wide x 50-5/8 in. Length Laminate Flooring (18.2 sq. ft. / case) Model#  HC01 (199) $199 /sq. ft. ( $36.21  /case) $199 /sq. ft. ( $36.21  /case) Standard delivery
-
-Set your store to see local  
-availability
-
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/7a0bc049-08d2-4c98-8344-5cf670c54b35/svn/matte-black-home-decorators-collection-ceiling-fans-with-lights-yg629a-mbk-64\_400\_compressed.jpg" alt="Ellard 52 in. LED Matte Black Indoor Ceiling Fan with Lights" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/71/7154c9fe-4695-4490-b269-1288d8ac75df\_400\_compressed.jpg" alt="Ellard 52 in. LED Matte Black Indoor Ceiling Fan with Lights" class="secondary-image has-secondary-image"/>.
-
-Home Decorators Collection Ellard 52 in. LED Matte Black Indoor Ceiling Fan with Lights Model#  YG629A-MBK (348) $12900 $12900 Free delivery
 
 Set your store to see local  
 availability
@@ -64,14 +57,9 @@ More Options Available Home Decorators Collection Merwry 52 in. Integrated LED I
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/2a6cbf8b-18f4-4105-9f93-a95ec529ad53/svn/hickory-textured-home-decorators-collection-laminate-wood-flooring-34074sq-64\_400\_compressed.jpg" alt="Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide x 50-25/32 in. Length Laminate Flooring (15.45 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/ba/ba3a14bb-bd8b-4a67-bed7-e56c34aa2c6e\_400\_compressed.jpg" alt="Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide x 50-25/32 in. Length Laminate Flooring (15.45 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/7a0bc049-08d2-4c98-8344-5cf670c54b35/svn/matte-black-home-decorators-collection-ceiling-fans-with-lights-yg629a-mbk-64\_400\_compressed.jpg" alt="Ellard 52 in. LED Matte Black Indoor Ceiling Fan with Lights" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/71/7154c9fe-4695-4490-b269-1288d8ac75df\_400\_compressed.jpg" alt="Ellard 52 in. LED Matte Black Indoor Ceiling Fan with Lights" class="secondary-image has-secondary-image"/>.
 
-Home Decorators Collection Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide x 50-25/32 in. Length Laminate Flooring (15.45 sq. ft. / case) Model#  34074SQ (331) $149 /sq. ft. ( $23.02  /case) $149 /sq. ft. ( $23.02  /case) Standard delivery
-
-Set your store to see local  
-availability
-
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/a2ffe41d-ff36-4f26-975f-340a77ba9a30/svn/subdued-gray-color-and-matte-finish-home-decorators-collection-laminate-wood-flooring-360831-23546-64\_400\_compressed.jpg" alt="Disher Oak 8mm Thick x 8.03 in. Wide x 47.64 in. Length Laminate Flooring (21.26 sq. ft. / case)" />. Home Decorators Collection Disher Oak 8mm Thick x 8.03 in. Wide x 47.64 in. Length Laminate Flooring (21.26 sq. ft. / case) Model#  360831-23546 (11) $158 /sq. ft. ( $33.59  /case) $158 /sq. ft. ( $33.59  /case) Standard delivery
+Home Decorators Collection Ellard 52 in. LED Matte Black Indoor Ceiling Fan with Lights Model#  YG629A-MBK (348) $12900 $12900 Free delivery
 
 Set your store to see local  
 availability
@@ -92,9 +80,35 @@ More Options Available Home Decorators Collection Cider Oak 7.5 in. x 47.6 in. L
 Set your store to see local  
 availability
 
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/a2ffe41d-ff36-4f26-975f-340a77ba9a30/svn/subdued-gray-color-and-matte-finish-home-decorators-collection-laminate-wood-flooring-360831-23546-64\_400\_compressed.jpg" alt="Disher Oak 8mm Thick x 8.03 in. Wide x 47.64 in. Length Laminate Flooring (21.26 sq. ft. / case)" />. Home Decorators Collection Disher Oak 8mm Thick x 8.03 in. Wide x 47.64 in. Length Laminate Flooring (21.26 sq. ft. / case) Model#  360831-23546 (12) $158 /sq. ft. ( $33.59  /case) $158 /sq. ft. ( $33.59  /case) Standard delivery
+
+Set your store to see local  
+availability
+
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/2a6cbf8b-18f4-4105-9f93-a95ec529ad53/svn/hickory-textured-home-decorators-collection-laminate-wood-flooring-34074sq-64\_400\_compressed.jpg" alt="Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide x 50-25/32 in. Length Laminate Flooring (15.45 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/ba/ba3a14bb-bd8b-4a67-bed7-e56c34aa2c6e\_400\_compressed.jpg" alt="Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide x 50-25/32 in. Length Laminate Flooring (15.45 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
+
+Home Decorators Collection Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide x 50-25/32 in. Length Laminate Flooring (15.45 sq. ft. / case) Model#  34074SQ (331) $149 /sq. ft. ( $23.02  /case) $149 /sq. ft. ( $23.02  /case) Standard delivery
+
+Set your store to see local  
+availability
+
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/415c3345-83e6-443d-81b8-3c6b0f177d5f/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-yg493a-bn-64\_400\_compressed.jpg" alt="Kensgrove 54 in. Integrated LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/3f/3faa0f94-3a49-490c-a3e9-597ed085eeee\_400\_compressed.jpg" alt="Kensgrove 54 in. Integrated LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control" class="secondary-image has-secondary-image"/>.
 
-More Options Available Home Decorators Collection Kensgrove 54 in. Integrated LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control Model#  YG493A-BN (474) $17900 $17900 Free delivery
+More Options Available Home Decorators Collection Kensgrove 54 in. Integrated LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control Model#  YG493A-BN (475) $17900 $17900 Free delivery
+
+Set your store to see local  
+availability
+
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/fdb33046-46ce-4ea3-b3dd-6a02209ef5fa/svn/antique-grey-home-decorators-collection-kitchen-dining-tables-nb023ag-64\_400\_compressed.jpg" alt="Aldridge Antique Grey Extendable Dining Table" />.
+
+More Options Available Home Decorators Collection Aldridge Antique Grey Extendable Dining Table Model#  NB023AG View the Aldridge Collection in Antique Grey (98) $74950 $1,499.00 Save $749.50 (50%) $74950 $1,499.00 Save $749.50 (50%) Standard delivery
+
+Set your store to see local  
+availability
+
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/52d6e8ad-79c1-46b3-aaf7-cb4e23e23f9b/svn/oil-rubbed-bronze-home-decorators-collection-ceiling-fans-without-lights-26668-64\_400\_compressed.jpg" alt="Altura 68 in. Indoor Oil Rubbed Bronze Ceiling Fan with Remote Control" />.
+
+More Options Available Home Decorators Collection Altura 68 in. Indoor Oil Rubbed Bronze Ceiling Fan with Remote Control Model#  26668 View the Altura Ceiling Fan Collection (508) $22900 $22900 Free delivery
 
 Set your store to see local  
 availability
@@ -106,14 +120,14 @@ More Options Available Home Decorators Collection Shanahan 52 in. LED Indoor/Out
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/52d6e8ad-79c1-46b3-aaf7-cb4e23e23f9b/svn/oil-rubbed-bronze-home-decorators-collection-ceiling-fans-without-lights-26668-64\_400\_compressed.jpg" alt="Altura 68 in. Indoor Oil Rubbed Bronze Ceiling Fan with Remote Control" />.
-
-More Options Available Home Decorators Collection Altura 68 in. Indoor Oil Rubbed Bronze Ceiling Fan with Remote Control Model#  26668 View the Altura Ceiling Fan Collection (507) $22900 $22900 Free delivery
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/742d0b33-1f24-4d85-acb6-9e1e799e0847/svn/brushed-nickel-home-decorators-collection-vanity-lighting-iqp1381l-3-64\_400\_compressed.jpg" alt="180-Watt Equivalent Brushed Nickel Integrated LED Vanity Light" />. Home Decorators Collection 180-Watt Equivalent Brushed Nickel Integrated LED Vanity Light Model#  IQP1381L-3 View the Transitional Inspired Lighting Collection (203) $8697 $8697 Free delivery
 
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/742d0b33-1f24-4d85-acb6-9e1e799e0847/svn/brushed-nickel-home-decorators-collection-vanity-lighting-iqp1381l-3-64\_400\_compressed.jpg" alt="180-Watt Equivalent Brushed Nickel Integrated LED Vanity Light" />. Home Decorators Collection 180-Watt Equivalent Brushed Nickel Integrated LED Vanity Light Model#  IQP1381L-3 View the Transitional Inspired Lighting Collection (203) $8697 $8697 Free delivery
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/8a4a97e9-0442-4209-8e83-20a618514334/svn/espresso-bronze-home-decorators-collection-ceiling-fans-with-lights-yg493od-eb-64\_400\_compressed.jpg" alt="Kensgrove 72 in. LED Indoor/Outdoor Espresso Bronze Ceiling Fan with Remote Control" />.
+
+More Options Available Home Decorators Collection Kensgrove 72 in. LED Indoor/Outdoor Espresso Bronze Ceiling Fan with Remote Control Model#  YG493OD-EB (1312) $29900 $29900 Free delivery
 
 Set your store to see local  
 availability
@@ -125,18 +139,9 @@ More Options Available Home Decorators Collection Windward IV 52 in. LED Indoor 
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/8a4a97e9-0442-4209-8e83-20a618514334/svn/espresso-bronze-home-decorators-collection-ceiling-fans-with-lights-yg493od-eb-64\_400\_compressed.jpg" alt="Kensgrove 72 in. LED Indoor/Outdoor Espresso Bronze Ceiling Fan with Remote Control" />.
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/46246eba-716a-4dfb-96ed-e86df1b9e01a/svn/warm-cherry-home-decorators-collection-vinyl-plank-flooring-44415-64\_400\_compressed.jpg" alt="Warm Cherry 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/f2/f2507b38-0d99-4fa0-9f02-48f25bab41a6\_400\_compressed.jpg" alt="Warm Cherry 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
 
-More Options Available Home Decorators Collection Kensgrove 72 in. LED Indoor/Outdoor Espresso Bronze Ceiling Fan with Remote Control Model#  YG493OD-EB (1311) $29900 $29900 Free delivery
-
-Set your store to see local  
-availability
-
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/e85bfa1e-ad5e-4573-b26c-f2d4135a4c28/svn/gray-oak-home-decorators-collection-fireplace-tv-stands-wsfp54hd-31-64\_400\_compressed.jpg" alt="Ashmont 54 in. Freestanding Electric Fireplace TV Stand in Gray Oak" />.
-
-More Options Available
-
-Home Decorators Collection Ashmont 54 in. Freestanding Electric Fireplace TV Stand in Gray Oak Model#  WSFP54HD-31 (232) $29900 $29900 Standard delivery
+More Options Available Home Decorators Collection Warm Cherry 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case) Model#  44415 (581) $239 /sq. ft. ( $59.12  /case) $239 /sq. ft. ( $59.12  /case) Standard delivery
 
 Set your store to see local  
 availability
@@ -146,16 +151,9 @@ Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/588faa8d-ce3f-4319-b1b3-0fcbacf06946/svn/bronze-home-decorators-collection-ceiling-fans-with-lights-59214-64\_400\_compressed.jpg" alt="Ackerly 52 in. Integrated LED Indoor/Outdoor Bronze Ceiling Fan with Light Kit" />.
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/053d230c-6b14-4593-9b5e-4e28e5206c9b/svn/brown-high-gloss-home-decorators-collection-laminate-wood-flooring-hl84-64\_400\_compressed.jpg" alt="High Gloss Perry Hickory 8 mm Thick x 5 in. Wide x 47-3/4 in. Length Laminate Flooring (13.26 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/0a/0a39478e-d124-47a8-8a78-023cad630918\_400\_compressed.jpg" alt="High Gloss Perry Hickory 8 mm Thick x 5 in. Wide x 47-3/4 in. Length Laminate Flooring (13.26 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
 
-More Options Available Home Decorators Collection Ackerly 52 in. Integrated LED Indoor/Outdoor Bronze Ceiling Fan with Light Kit Model#  59214 (211) $12900 $12900 Free delivery
-
-Set your store to see local  
-availability
-
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/ea60c637-4042-4fd4-9d85-2118a5b2d547/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-59244-64\_400\_compressed.jpg" alt="Ashby Park 44 in. White Color Changing Integrated LED Brushed Nickel Ceiling Fan with Light Kit" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/db/db620a29-e7e1-4d80-a93b-832a8d5dcbc2\_400\_compressed.jpg" alt="Ashby Park 44 in. White Color Changing Integrated LED Brushed Nickel Ceiling Fan with Light Kit" class="secondary-image has-secondary-image"/>.
-
-More Options Available Home Decorators Collection Ashby Park 44 in. White Color Changing Integrated LED Brushed Nickel Ceiling Fan with Light Kit Model#  59244 (41) $9997 $9997 Free delivery
+More Options Available Home Decorators Collection High Gloss Perry Hickory 8 mm Thick x 5 in. Wide x 47-3/4 in. Length Laminate Flooring (13.26 sq. ft. / case) Model#  HL84 (717) $188 /sq. ft. ( $24.92  /case) $188 /sq. ft. ( $24.92  /case) Standard delivery
 
 Set your store to see local  
 availability
