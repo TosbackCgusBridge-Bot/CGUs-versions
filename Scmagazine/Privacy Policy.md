@@ -364,23 +364,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Iran hackers targeted presidential campaign, journalists
-    *   When spreadsheets are enough for risk management
-    *   Lawmakers advance bills that would add to DHS' cyber responsibilities
-    *   Ransomware attack forces DCH Health Systems to turn away patients
-    *   FBI alert: Ransomware attacks becoming increasingly targeted and costly
-    
-    *   Kernel privilege escalation bug actively exploited in Android devices
-    *   Apple updates software, fixes flaw affecting third-party keyboard apps
-    *   Data on 92M Brazilians found for sale on underground forums
-    *   Cisco's latest round of updates address bugs in security products
-    *   DCH Health System pays ransomware attackers in bid to restore operations
-    
-    *   Decryptors developed for new Muhstik, HildaCrypt ransomwares
+    *   Captives of industry
     *   Securing the increasingly complex end user computing landscape
+    *   New 'Reductor' malware compromises machines' encrypted TLS traffic
+    *   Microsoft revises and re-releases patch for exploited Internet Explorer bug
     *   Kernel privilege escalation bug actively exploited in Android devices
-    *   Former Yahoo! engineer pleads guilty to using access to nick pics of women
-    *   DCH Health System pays ransomware attackers in bid to restore operations
+    
+    *   Cisco's latest round of updates address bugs in security products
+    *   Digital transformation won’t work without new security approaches
+    *   Rethinking Cyberisks amid a rapidly evolving threat environment
+    *   Iran hackers targeted presidential campaign, journalists
+    *   Are you prepared for a ransomware attack?
+    
+    *   California 'boldly' bans facial recognition in body cams, ACLU
+    *   Stolen credentials used to access TransUnion Canada's consumer credit files
+    *   Health, personal data of 1 million New Zealanders exposed in series of intrusions
+    *   Second Senate Intel committee report confirms Russia social media campaign to influence 2016 election, skewer Clinton
+    *   Leaving behind old school security tendencies
 
 Back to Top
 
@@ -412,4 +412,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
