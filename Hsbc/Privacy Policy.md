@@ -30,10 +30,9 @@ I accept Menu
         *   Back
         *   Our history
         *   Overview
-        *   History in detail
+        *   History timeline
         *   Archives
         *   Gallery
-        *   History timeline
     *   Our brand
         *   Back
         *   Our brand
