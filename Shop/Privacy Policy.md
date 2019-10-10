@@ -561,7 +561,7 @@ Lenovo Explore Close
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
-*   Rewards
+*   Rewards My Lenovo RewardsCreated with Sketch.
 *   Contact
     *   HELP PLACING AN ORDER 855-253-6686
     *   BUSINESS ORDER HELP 866-426-0911
