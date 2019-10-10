@@ -115,53 +115,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Melissa Chen_: South Park Has More Courage Than the NBA
+*   _Brent Budowsky_: Biden and Warren at POTUS Rubicon
     
-*   _Fred Kaplan_: Trump Just Gave Turkey an Open Invitation to Slaughter Kurds
+*   _Ryan Grim_: Dems Must Admit Joe Biden's Family Profits Off Him
     
-*   _Doug Bandow_: Trump's Triumph? America Finally Leaves Syria.
+*   _Chris Cillizza_: Hillary Clinton Is Joking About Running Again in 2020, Right?
     
-*   _Froma Harrop_: Dems Must Defend Biden as Trump Invades the Party
+*   _Tammy Bruce_: The Dems' Chosen Recourse to Overturn 2016 Election
     
-*   _Francis Menton_: The Bidens: 'Stone Cold Crooked'
+*   _Laurence Tribe_: The House Must Move on Trump Impeachment Articles Now
     
-*   _Perry Bacon_: What Happened to the Kamala Harris Campaign?
+*   _Rush Limbaugh_: The 'Whistleblowers' Are Deep State Spies
     
-*   _Sen. Grassley &. Rep. Brady_: It's Time for Congress to Pass USMCA
+*   _Jamelle Bouie_: Republicans Stand by Trump Because They Like What He Does
     
-*   _Jeannie Gersen_: Harvard and the Many Sins of College Admissions
+*   _Susan Crabtree_: Impeachment Inquiry Could Spur China Trade 'Mini-Deal'
     
-*   _Emina Melonic_: Camille Paglia, Now More Than Ever
+*   _Ross Clark_: Will China Meddle in the 2020 Election - for Democrats?
     
-*   _Sharyl Attkisson_: Where Did $91 Billion for Puerto Rico's Recovery Go?
+*   _Joe Hagan_: Joaquin Phoenix on Joker, Rooney, and River
     
-*   _Jonathan Hogan_: Afghan War Veterans Are Tired of 18 Years of Fighting
+*   _Joy Pullmann_: Illinois Teaching Preschoolers to Celebrate Transgenderism
     
-*   _David Sanger_: When 'Get Out' Is a President's National Security Strategy
+*   _Nicholas Fandos_: White House Declares War on Impeachment Inquiry
     
-*   _Charles Hurt_: Washington Unites--for More Mideast Intervention
+*   _Ned Ryun_: There's No Middle Ground w/Today's Dems or Deep State
     
-*   _Peter Bergen_: Trump's Ill-Advised Precipitous Withdrawal From Syria
+*   _David Corn_: Trump's War on Constitution Another Impeachable Offense
     
-*   _John McCormack_: Kavanaugh Confirmation: What We've Learned a Year Later
+*   _Roger L. Simon_: Democrats' Fear of Durham About to Reach Panic Level
     
-*   _Elie Mystal_: SCOTUS Is Back in Session, and Cruelty Is on the Docket
+*   _Ashley Pratte_: Impeachment: Trump Plays to Base, But Not Independents
     
-*   _Bari Weiss_: The World's Wokest Sports League Bows to China
+*   _Ally Mutnick_: Republicans Seize on Impeachment in Bid to Retake House
     
-*   _Mark Hemingway_: Chuck Todd and the Demise of True Journalism
+*   _Philip Wegmann_: Impeachment on the Ballot in Ky. Governor's Race
     
-*   _Jack Shafer_: Why Trump Can't Tweet His Way Out of Trouble
+*   _Osita Nwanevu_: Joe Biden's Case for the Presidency Is Collapsing
     
-*   _Miranda Devine_: Donald Trump's Lesson for Mitt Romney
+*   _John Kass_: Elizabeth 'Two Tales' Warren Running Out of Creation Myths
     
-*   _Andy Kroll_: Inside the Making of Andrew Yang 2.0
+*   _Matthew Walther_: Do It, Hillary: America Wants a Trump-Clinton Rematch
     
-*   _Ed Kilgore_: The Emerging Anybody-But-Warren Campaign
+*   _Michael Doran_: How Obama's Team Set Up Trump's Syrian Dilemma
     
-*   _Stephen Moore_: Economic Growth: Missing From the Dem Debates
+*   _Semih Idiz_: Turkey's Route Into Syria Full of Pitfalls, Uncertainties
     
-*   _Greg Orman_: Divided America Agrees on This--Govt. Corruption Is Rampant
+*   _Christopher Rufo_: Asian-Americans for Equal Opportunity
     
 
 *   Previous
@@ -232,11 +232,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Rubio to Trump: Punch Back on China's NBA Boycott
+*   Bevin Aims to Put Impeachment on the Ballot in Ky. Governor's Race
+*   Sanders to "Change the Nature" of His Campaign After Heart Attack
 *   Hemingway: Chuck Todd and the Demise of True Journalism
-*   Trump Knocks "Ridiculous Endless Wars" Amid Syria Troop Pullout
-*   Graham: Decision to Leave Syria a Big Win for Iran, Assad, ISIS
-*   Supreme Court Begins Election Year Term Full of Big Cases
-*   Free Higher Education Support Is Age- and Party-Based
+*   Impeachment Inquiry Could Spur China Trade "Mini-Deal"
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -249,48 +249,37 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationQuinnipiac
+*   President Trump Job ApprovalFOX News
+    *   Approve43
+    *   Disapprove55Disapprove +12
+*   Congressional Job ApprovalFOX News
+    *   Approve21
+    *   Disapprove63Disapprove +42
+*   2020 Democratic Presidential NominationEconomist/YouGov
+    *   Biden25
     *   Warren29
-    *   Biden26
-    *   Sanders16
-    *   Buttigieg4
-    *   Harris3
+    *   Sanders14
+    *   Buttigieg5
+    *   Harris5
     *   Yang3
     *   O'Rourke1
-    *   Booker2
-    *   Klobuchar2
-    *   Castro1
-    *   Bennet1
-    *   Gabbard0
-    *   Steyer0Warren +3
-*   2020 Democratic Presidential NominationPolitico/Morning Consult
-    *   Warren21
-    *   Biden33
-    *   Sanders19
-    *   Buttigieg5
-    *   Harris6
-    *   Yang3
-    *   O'Rourke3
-    *   Booker2
+    *   Booker1
     *   Klobuchar1
     *   Castro1
-    *   Bennet1
+    *   Bullock2
     *   Gabbard1
-    *   Steyer1Biden +12
-*   General Election: Trump vs. WarrenQuinnipiac
-    *   Warren49
-    *   Trump41Warren +8
-*   General Election: Trump vs. BidenQuinnipiac
-    *   Biden51
-    *   Trump40Biden +11
+    *   Steyer1Warren +4
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve46
+    *   Disapprove52Disapprove +6
 
 More Latest Polls In The News
 
-*   FNC's Roberts: Investigation Into Genesis Of Russia Probe Expands, Will Be Released Later This Month
+*   Sanders: I Misspoke, Will Get Back Into The Groove Of A "Vigorous" Campaign. Start Slower And Build Up
+*   Fmr. CIA Whistleblower: Ukraine Call Whistleblower Is Really "An Anonymous Source For Democrats"
+*   Acting Director: OMB Will Not Participate In "Sham" Impeachment Inquiry "Not Designed To Get The Truth"
 *   Hillary Clinton on Trump: "Maybe There Does Need To Be A Rematch" So "I Can Beat Him Again"
-*   Rep. Cohen: 'Wizard of Oz' Being Played Out For The American Public And Trump Thinks He's The Wizard
-*   Tucker Carlson on Syria: In Washington, "Interests Of Foreigners Are Far More Important Than Our Own"
-*   Trump: I "Thrive" On Impeachment, Very Few Could Handle It. "Can't Impeach A Pres. For Doing A Great Job"
+*   Jason Whitlock: U.S. The Bad Guys In The Minds Of Woke NBA, They Are Promoting a Marxist Agenda
 
 *   Politics
 *   Policy
