@@ -46,7 +46,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Explore More
     *   Watch Trailers on MovieClips
     *   Top Box Office
-    *   New DVDs
+    *   New For Streaming
 *   Movie Times + Tickets Where are you located? Here are our top cities
     
     *   New York, NY
@@ -325,7 +325,7 @@ Experience + Explore
 *   Movies In Theaters
 *   Movie Actors and Actresses
 *   Mobile
-*   New DVD Releases
+*   New For Streaming
 *   Special Offers
 *   Gift Cards
 
