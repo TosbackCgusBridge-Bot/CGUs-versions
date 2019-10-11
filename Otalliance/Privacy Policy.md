@@ -135,7 +135,7 @@ The IoT Trust Framework® includes a set of strategic principles necessary to he
 
 Visit our IoT Trust Framework page and download the full version or Framework Overview.
 
-Read the Framework Learn more about IoT OTA News Announcing the 2020 U.S. Presidential Campaign Audit <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2019/10/2020-Presidential-Campaign-Audit-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Announcing the 2020 U.S. Presidential Campaign Audit Thumbnail" title="Announcing the 2020 U.S. Presidential Campaign Audit Thumbnail" />. Building Trust 8 October 2019 Announcing the 2020 U.S. Presidential Campaign Audit
+Read the Framework Learn more about IoT OTA News Most presidential candidates’ websites don’t do enough to protect visitors’ privacy, report says <img src="https://www.internetsociety.org/wp-content/uploads/2017/11/boston-globe.png" alt="Boston Globe logo" title="Boston Globe logo" />. In the News 10 October 2019 Most presidential candidates’ websites don’t do enough to protect visitors’ privacy, report says Boston Globe Announcing the 2020 U.S. Presidential Campaign Audit <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2019/10/2020-Presidential-Campaign-Audit-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Announcing the 2020 U.S. Presidential Campaign Audit Thumbnail" title="Announcing the 2020 U.S. Presidential Campaign Audit Thumbnail" />. Building Trust 8 October 2019 Announcing the 2020 U.S. Presidential Campaign Audit
 
 Today, the Internet Society’s Online Trust Alliance released a new report, the “2020 U.S. Presidential Campaign Audit,” analyzing the...
 
@@ -154,10 +154,6 @@ In April 2019 the Internet Society’s Online Trust Alliance published its 10th 
 The Internet Society’s Online Trust Alliance Announces Methodology for Eleventh Online Trust Audit and Honor Roll Press Releases 25 September 2019 The Internet Society’s Online Trust Alliance Announces Methodology for Eleventh Online Trust Audit and Honor Roll
 
 Criteria updated to include increased focus on encryption and global privacy regulations. international retail segments added
-
-Privacy Regulations Are Evolving: Are Organizations Ready? <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2019/09/Orgs-Ready-New-Privacy-Regulations-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Privacy Regulations Are Evolving: Are Organizations Ready? Thumbnail" title="Privacy Regulations Are Evolving: Are Organizations Ready? Thumbnail" />. Building Trust 20 September 2019 Privacy Regulations Are Evolving: Are Organizations Ready?
-
-Privacy statements are both a point of contact to inform users about their data and a way to show...
 
 Load More Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team <img src="https://www.internetsociety.org/wp-content/uploads/2019/05/Megan-Closer.png" alt="Megan Kruse" title="Megan Kruse" />Megan Kruse photo Megan Kruse
 
