@@ -1,8 +1,8 @@
-Last Revised: October 27, 2017
+Last Revised: October 2019
 
 PLEASE READ THESE TERMS OF USE CAREFULLY. ACCESSING OR USING THIS WEBSITE, CONSTITUTES ACCEPTANCE OF THESE TERMS OF USE ("TERMS"), AS SUCH MAY BE REVISED BY STARBUCKS FROM TIME TO TIME, AND IS A BINDING AGREEMENT BETWEEN THE USER ("USER") AND STARBUCKS CORPORATION (D/B/A STARBUCKS COFFEE COMPANY) GOVERNING THE USE OF THE WEBSITE. IF USER DOES NOT AGREE TO THESE TERMS, USER SHOULD NOT ACCESS OR USE THIS WEBSITE. THESE TERMS CONTAIN DISCLAIMERS AND OTHER PROVISIONS THAT LIMIT OUR LIABILITY TO USER.
 
-These Terms apply to your access to, and use of, all or part of any website or mobile application of Starbucks Corporation or its subsidiaries and affiliated companies (collectively, "Starbucks"), including starbucks.com, ideas.starbucks.com, 1912pike.com, starbuckscoffeegear.com, store.starbucks.com and any other site, mobile application or online service where these Terms are posted (collectively, the "Sites"). These Terms do not alter in any way the terms or conditions of any other agreement you may have with Starbucks for products, services or otherwise.
+These Terms apply to your access to, and use of, all or part of any website or mobile application of Starbucks Corporation or its subsidiaries and affiliated companies (collectively, "Starbucks"), including starbucks.com, ideas.starbucks.com, starbucksreserve.com, starbuckscoffeegear.com, stories.starbucks.com and any other site, mobile application or online service where these Terms are posted (collectively, the "Sites"). These Terms do not alter in any way the terms or conditions of any other agreement you may have with Starbucks for products, services or otherwise.
 
 In the event there is any conflict or inconsistency between these Terms and any other terms of use that appear on the Sites, these Terms will govern. However, if you navigate away from the Sites to a third-party site, you may be subject to alternative terms and conditions of use, as may be specified on such site, which will govern your use of that site.
 
@@ -16,7 +16,7 @@ These terms include an Arbitration provision that governs any disputes between y
 You agree that we may provide notices, disclosures and amendments to these Terms by electronic means, including by changing these Terms by posting revisions on the Sites.
 
 See also:  
-Starbucks Rewards™ Terms  
+Starbucks® Rewards Terms  
 Starbucks Card Terms
 
 **Eligibility**
@@ -29,9 +29,9 @@ In order to participate in certain areas of our Sites, you will need to register
 
 Please read the Privacy Policy carefully to understand how Starbucks collects, uses and discloses personally identifiable information from its users. By accessing or using the Sites, you consent to all actions that we take with respect to your data consistent with our Privacy Policy.
 
-**Starbucks Cards. Starbucks Rewards™ Program**
+**Starbucks Cards. Starbucks® Rewards Program**
 
-Starbucks may allow you to purchase Starbucks stored value cards ("Starbucks Cards") or register for its Starbucks Rewards™ ("Rewards Program") program through the Sites. Please refer to the Starbucks Card Terms &. Conditions for more information about the terms, conditions and policies that apply to your purchase and use of Starbucks Cards. and to the Starbucks Rewards Terms of Use for more information about the terms, conditions and policies that apply to your registration and use of the Starbucks Rewards program.
+Starbucks may allow you to purchase Starbucks stored value cards (“Starbucks Cards”) or register for its Starbucks® Rewards (“Rewards Program”) program through the Sites. Please refer to the Starbucks Card Terms &. Conditions for more information about the terms, conditions and policies that apply to your purchase and use of Starbucks Cards. and to the Starbucks Rewards Terms of Use for more information about the terms, conditions and policies that apply to your registration and use of the Rewards Program.
 
 **Email Communications**
 
