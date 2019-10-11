@@ -19,7 +19,7 @@ Close submenu ( Girls ) Girls
 
 *   Open submenu ( Bottoms ) Bottoms
 
-*   $6 + Under Shop
+*   $6 &. Under Shop
 *   Jackets + Coats
 *   Dresses + Rompers
 *   Matching Sets
@@ -35,28 +35,26 @@ Close submenu ( Girls ) Girls
 Close submenu ( Tops ) Tops
 
 *   View All
-*   Buy 1 Get 2 Free Tees
 *   Tees
 *   Graphic Tees
 *   Polos
 *   Hoodies + Sweatshirts
 *   Long Sleeve
-*   Camis
-*   Tanks
 *   Shirts + Blouses
 *   Sweaters
+*   Camis
+*   Tanks
 *   Active Tops
 
 Close submenu ( Bottoms ) Bottoms
 
 *   View All
-*   Buy 1 Get 1 Free
 *   Jeans
 *   Jeggings
-*   Shorts
-*   Pants
-*   Leggings + Active
 *   Joggers
+*   Leggings + Active
+*   Pants
+*   Shorts
 *   Skirts
 
 Close submenu ( Collections ) Collections
@@ -64,14 +62,14 @@ Close submenu ( Collections ) Collections
 *   View All
 *   New Arrivals
 *   Jeans Guide
-*   Uniform
-*   $6 + Under Shop
+*   $6 &. Under Shop
 *   Online Only
 *   Tribe Of Tees
 *   Basic Essentials
 *   Seriously Soft
 *   Active
 *   Lounge
+*   Uniform
 
 Close submenu ( Guys ) Guys
 
@@ -92,7 +90,6 @@ Close submenu ( Guys ) Guys
 Close submenu ( Tops ) Tops
 
 *   View All
-*   Buy 1 Get 2 Free Tees
 *   Tees
 *   Graphic Tees
 *   Polos
@@ -103,23 +100,22 @@ Close submenu ( Tops ) Tops
 Close submenu ( Bottoms ) Bottoms
 
 *   View All
-*   Buy 1 Get 1 Free
 *   Jeans
-*   Shorts
 *   Pants
 *   Joggers + Sweats
+*   Shorts
 
 Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
 *   Jeans Guide
-*   Uniform
 *   Online Only
 *   Back to Basics
 *   Music + Pop Culture
 *   Active
 *   Lounge
+*   Uniform
 
 Close submenu ( Jeans ) Jeans
 
@@ -231,7 +227,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**50-70% OFF Entire Site GIRLS GUYS + Free Ship $50**
+**50-70% OFF Entire Site GIRLS GUYS + Free Ship Over $50**
 
 *   Select Country
 *   My Account My Account Login Register
@@ -243,31 +239,29 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Tops
         *   View All
-        *   Buy 1 Get 2 Free Tees
         *   Tees
         *   Graphic Tees
         *   Polos
         *   Hoodies + Sweatshirts
         *   Long Sleeve
-        *   Camis
-        *   Tanks
         *   Shirts + Blouses
         *   Sweaters
+        *   Camis
+        *   Tanks
         *   Active Tops
     
     *   Bottoms
         *   View All
-        *   Buy 1 Get 1 Free
         *   Jeans
         *   Jeggings
-        *   Shorts
-        *   Pants
-        *   Leggings + Active
         *   Joggers
+        *   Leggings + Active
+        *   Pants
+        *   Shorts
         *   Skirts
         
     
-    *   $6 + Under Shop
+    *   $6 &. Under Shop
     *   Jackets + Coats
     *   Dresses + Rompers
     *   Matching Sets
@@ -282,21 +276,20 @@ Menu Find a Store Aeropostale
         *   View All
         *   New Arrivals
         *   Jeans Guide
-        *   Uniform
-        *   $6 + Under Shop
+        *   $6 &. Under Shop
         *   Online Only
         *   Tribe Of Tees
         *   Basic Essentials
         *   Seriously Soft
         *   Active
         *   Lounge
+        *   Uniform
     
 *   Guys
     
     *   View Home
     *   Tops
         *   View All
-        *   Buy 1 Get 2 Free Tees
         *   Tees
         *   Graphic Tees
         *   Polos
@@ -306,11 +299,10 @@ Menu Find a Store Aeropostale
     
     *   Bottoms
         *   View All
-        *   Buy 1 Get 1 Free
         *   Jeans
-        *   Shorts
         *   Pants
         *   Joggers + Sweats
+        *   Shorts
         
     
     *   Jackets + Coats
@@ -324,12 +316,12 @@ Menu Find a Store Aeropostale
         *   View All
         *   New Arrivals
         *   Jeans Guide
-        *   Uniform
         *   Online Only
         *   Back to Basics
         *   Music + Pop Culture
         *   Active
         *   Lounge
+        *   Uniform
     
 *   Jeans
     
@@ -431,7 +423,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-OVER $50 Search Catalog Search In Stores &. Online 100s OF NEW ARRIVALS FALL SALE 50-70% OFF ENTIRE SITE Exclusions Apply Details Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance Online Now. In Stores This Weekend. NEW ARRIVALS Now In! SAVE 50-70% Shop Girls New Arrivals Shop Guys New Arrivals CHAT In Stores &. Online AERO JEANS BUY ONE GET ONE FREE BUY ONE GET ONE FREE + FREE SHIPPING Free shipping on your entire purchase when you buy Aero Jeans Details Shop Girls Jeans Shop Guys Jeans GET REAL NEW AERO. REAL DENIM. REAL DENIM Old School Fits &. Washes. New School Comfort. Shop Girls Shop Guys Previous Next Shop Girls Jeans Shop Guys Jeans NEW! SLIM &. THICK CURVY JEAN NEW! SLIM &. THICK CURVY JEAN Booty-enhancing jean with a magic gap-proof waistband that highlights your curves. Now Available In: Get Ahead of the Curve #INAEROJEANS 21 Fits &. 94 Washes REAL DENIM Old School Fits &. Washes. New School Comfort FLEX EFFECTS Our innovative 4-way, 360 stretch denim. SERIOUSLY STRETCHY 2-way seriously stretchy denim. MAX STRETCH FOR GUYS Maximum stretch denim fabric. REAL DENIM Old School Fits &. Washes. New School Comfort FLEX EFFECTS Our innovative 4-way, 360 stretch denim.
+OVER $50 Search Catalog Search In Stores &. Online ENTIRE SITE 50-70% OFF Details Shop Girls Shop Guys In Stores &. Online AERO JEANS BUY ONE GET ONE FREE BUY ONE GET ONE FREE + FREE SHIPPING Free shipping on your entire purchase when you buy Aero Jeans Details Shop Girls Jeans Shop Guys Jeans GET REAL NEW AERO. REAL DENIM. REAL DENIM Old School Fits &. Washes. New School Comfort. Shop Girls Shop Guys Previous Next Shop Girls Jeans Shop Guys Jeans NEW! SLIM &. THICK CURVY JEAN NEW! SLIM &. THICK CURVY JEAN Booty-enhancing jean with a magic gap-proof waistband that highlights your curves. Now Available In: Get Ahead of the Curve #INAEROJEANS 21 Fits &. 94 Washes REAL DENIM Old School Fits &. Washes. New School Comfort FLEX EFFECTS Our innovative 4-way, 360 stretch denim. SERIOUSLY STRETCHY 2-way seriously stretchy denim. MAX STRETCH FOR GUYS Maximum stretch denim fabric. REAL DENIM Old School Fits &. Washes. New School Comfort FLEX EFFECTS Our innovative 4-way, 360 stretch denim.
 
 *   1
 *   2
@@ -440,7 +432,7 @@ OVER $50 Search Catalog Search In Stores &. Online 100s OF NEW ARRIVALS FALL SAL
 
 Previous Relaxed Jeans Overalls Carpenter Jeans Ankle Jeggings Bootcut Jeans (Online Only) Skinny Jeans (Online Only) Jeggings Skinny Jeans High Rise Jeans Slim Jeans Low Rise Jeans Straight Jeans Curvy Jeans Slim Bootcut Jeans (Online Only) Cheeky Jeans Athletic Skinny Jeans Wide Leg Jeans Loose Jeans Mom Jeans Dad Jeans Boyfriend Jeans Relaxed Jeans Overalls Carpenter Jeans Ankle Jeggings Bootcut Jeans (Online Only) Skinny Jeans (Online Only) Jeggings Skinny Jeans High Rise Jeans Slim Jeans Low Rise Jeans Straight Jeans Next FLEX EFFECTS Our innovative 4-way, 360 stretch denim. Our best selling denim fabric - now in new must-try fits FLEX EFFECTS Our innovative 4-way, 360 stretch denim. Our best selling denim fabric - now in new must-try fits Shop Girls Shop Guys In Stores &. Online TAKE 50-70% OFF EVERYTHING Including New Arrivals Exclusions Apply Shop Girls Shop Guys In Stores &. Online AERO TEES. REAL DENIM. BUY 1 GET 2 FREE Our Signature Tees are specially washed and treated for a one-of-a-kind look and feel. Select Styles Shop Girls Shop Guys In Stores &. Online TAKE 50-70% OFF EVERYTHING Including New Arrivals Exclusions Apply BUY ONE GET ONE FREE Shop Girls Shop Guys In Stores &. Online AERO TEES. REAL DENIM. BUY 1 GET 2 FREE Our Signature Tees are specially washed and treated for a one-of-a-kind look and feel. Select Styles Shop Girls Shop Guys In Stores &. Online AERO TEES BUY 1 GET 2 FREE Our Signature Tees are specially washed and treated for a one-of-a-kind look and feel. Select Styles Shop Girls Shop Guys In Stores &. Online WEAR YOUR <3 OUT Shop your favorite bands, characters  
 and pop culture graphics. Details Girls Music &. Pop Culture Guys Music &. Pop Culture In Stores &. Online WEAR YOUR <3 OUT Shop your favorite bands, characters  
-and pop culture graphics. Details Girls Music &. Pop Culture Guys Music &. Pop Culture MEET AERO'S OG COTTON TEE COLLECTION MEET AERO'S OG COTTON TEE COLLECTION Get back to basics with nostalgic fits &. soft, recycled cotton. Find Your Favorites In Stores &. Online AERO CAMI FIT GUIDE Necklines for every style. Stretch for every shape. Softness you'll want to live in. $4 &. Up Get It Girl V-Neck Square Neck Favorite Cami In Stores &. Online $12 &. Up HOODIES &. SWEATSHIRTS Instantly activated comfort &. style. Shop Girls Shop Guys In Stores &. Online $12 &. Up HOODIES &. SWEATSHIRTS Instantly activated comfort &. style. Shop Girls Shop Guys In Stores &. Online $12 HOODIES &. SWEATSHIRTS &. Up Instantly activated comfort &. style. Shop Girls Shop Guys In Stores &. Online AERO TEES. REAL DENIM. BUY 1 GET 2 FREE Our Signature Tees are specially washed and treated for a one-of-a-kind look and feel. Shop Girls Shop Guys In Stores &. Online AERO UNIFORM 15% OFF 5 or More Uniform Approved Styles + FREE SHIPPING Online Use Code UNIFORM Shop Girls Shop Guys In Stores &. Online CLEARANCE UP TO 80% OFF UP TO 80% OFF New Markdowns Added! Shop Girls Clearance Shop Guys Clearance <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up © 2019 Aeropostale. All Rights Reserved. SIGN UP For AERO TEXTS Join the party!  
+and pop culture graphics. Details Girls Music &. Pop Culture Guys Music &. Pop Culture In Stores &. Online AERO CAMI FIT GUIDE Necklines for every style. Stretch for every shape. Softness you'll want to live in. $4 &. Up Get It Girl V-Neck Square Neck Favorite Cami In Stores &. Online $12 &. Up HOODIES &. SWEATSHIRTS Instantly activated comfort &. style. Shop Girls Shop Guys In Stores &. Online $12 &. Up HOODIES &. SWEATSHIRTS Instantly activated comfort &. style. Shop Girls Shop Guys In Stores &. Online $12 HOODIES &. SWEATSHIRTS &. Up Instantly activated comfort &. style. Shop Girls Shop Guys In Stores &. Online AERO TEES. REAL DENIM. BUY 1 GET 2 FREE Our Signature Tees are specially washed and treated for a one-of-a-kind look and feel. Shop Girls Shop Guys In Stores &. Online CLEARANCE UP TO 80% OFF UP TO 80% OFF New Markdowns Added! Shop Girls Clearance Shop Guys Clearance <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
@@ -478,3 +470,5 @@ Stay Connected
 *   Live Chat (9am - 12am EST) Call Us
 *   Use Student Discount
 *   Store FAQs
+
+© 2019 Aeropostale. All Rights Reserved. CHAT
