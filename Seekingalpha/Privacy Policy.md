@@ -7,7 +7,6 @@ Sign inSUBSCRIBE
     *   My Authors
     *   Author Email Alerts
     *   Latest StockTalks
-    *   Manage Real Time Alerts
 *   Screeners
     *   Equity Screener
     *   ETF Screener
@@ -27,7 +26,7 @@ Sign inSUBSCRIBE
     *   Top Movers on Earnings
     *   Earnings News
     *   Earnings Calendar
-    *   See All Sections >>
+    *   See All Sections »
 *   Markets
     *   Market Outlook
     *   Today’s Market
