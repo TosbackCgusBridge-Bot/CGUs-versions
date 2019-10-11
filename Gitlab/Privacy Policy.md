@@ -156,18 +156,27 @@ GitLab will: a) follow all applicable laws and regulations directed toward priva
 
 Technological Controls
 
-The GitLab environment must align and comply with our = link\_to "Security Best Practices", "https://about.gitlab.com/handbook/security/" All applications and technologies brought into the GitLab environment will undergo a Data Protection Impact Assessment (DPIA) in accordance with the existing \[DPIA Policy\](https://about.gitlab.com/handbook/engineering/security/dpia-policy/) and \[DPIA Procedure\](https://about.gitlab.com/handbook/finance/procure-to-pay/)/. The \[DPIA Template\](https://gitlab.com/gitlab-com/gl-security/compliance/compliance/issues/new?issuable\_template=Data%20Protection%20Impact%20Assessment) should be completed for any and all technology within its environment to confirm proper and legitimate use and to identify if new information is being collected, new uses of information are employed, and/or if any further consents are required.
+The GitLab environment must align and comply with our Security Best Practices All applications and technologies brought into the GitLab environment will undergo a Data Protection Impact Assessment (DPIA) in accordance with the existing DPIA Policy and DPIA Procedure. The DPIA Template should be completed for any and all technology within its environment to confirm proper and legitimate use and to identify if new information is being collected, new uses of information are employed, and/or if any further consents are required.
 
-Data is retained in accordance with the \[Record Retention Policy\](https://about.gitlab.com/handbook/people-operations/code-of-conduct/#record-retention-policy) and the corresponding \[Record Retention Schedule\](https://docs.google.com/spreadsheets/d/1EbyOSQvjiT4KJGB0\_evhJEfKlvp2qKaJJbyzknCEPzA/edit#gid=1070326101).
+Data is retained in accordance with the Record Retention Policy and the corresponding Record Retention Schedule.
 
 Contractual and Administrative Controls
 
-If any Sub-processors are identified, such Subprocessors will be identified on the \[GitLab Tech Stack\](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0). Subprocessors are required to execute a Data Protection Agreement with GitLab. Partners who work closely with GitLab are required to agree to Standard Contract Clauses for the protection of data. GitLab will enter into a \[Data Protection Agreement\](https://drive.google.com/file/d/15xnvxdaDyBpXWhJnifZgB3U2NiZ0xhN5/view) for those Controllers for whom it is a Subprocessor. All employees are required to protect data in accordance with the \[GitLab Data Classification Policy\](https://about.gitlab.com/handbook/engineering/security/data-classification-policy.html) and the \[Acceptable Use Policy\](https://about.gitlab.com/handbook/people-operations/acceptable-use-policy/#security-and-proprietary-information).
+If any Sub-processors are identified, such Subprocessors will be identified on the GitLab Tech Stack. Subprocessors are required to execute a Data Protection Agreement with GitLab. Partners who work closely with GitLab are required to agree to Standard Contract Clauses for the protection of data. GitLab will enter into a Data Protection Agreement for those Controllers for whom it is a Subprocessor. All employees are required to protect data in accordance with the GitLab Data Classification Policy and the Acceptable Use Policy.
 
 Communication of Controls
 
-Based on the business explanation of the technologies employed, impact on Data Subject rights will be properly captured in the \[GitLab Privacy Policy\](https://about.gitlab.com/privacy/) and the \[Employee Privacy Policy\](https://about.gitlab.com/handbook/people-operations/code-of-conduct/#employee-privacy-policy). Such policies will be updated in the event laws, regulations or GitLab’s practices change and will be reviewed no less than annually.
+Based on the business explanation of the technologies employed, impact on Data Subject rights will be properly captured in the GitLab Privacy Policy and the Employee Privacy Policy. Such policies will be updated in the event laws, regulations or GitLab’s practices change and will be reviewed no less than annually.
 
 Oversight of Controls
 
-The \[Data Protection Officers\](https://about.gitlab.com/security/#data-protection-officers) will oversee any requests to modify, delete, add or amend personal data. The Privacy Officer will review the policies relating to privacy on no less than an annual basis. Internal Audit and IT Security will conduct audits to ensure compliance with the controls.
+The Data Protection Officers will oversee any requests to modify, delete, add or amend personal data. The Privacy Officer will review the policies relating to privacy on no less than an annual basis. Internal Audit and IT Security will conduct audits to ensure compliance with the controls.
+
+*   Privacy Policy
+*   Data Protection
+*   How GitLab Uses and Protects Personally-Identifying Information
+*   Cookies, Tracking Technologies and Do Not Track
+*   Global Privacy Practices
+*   Data Retention and Deletion
+*   Privacy Policy Changes
+*   Privacy Program
