@@ -23,6 +23,7 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   General Election Polls
     *   Direction of Country
     *   Political Leaders Favorability
+    *   Trump Impeachment Inquiry
     *   State of the Union Polls
     *   All Latest Election Polls
 *   Election 2020
@@ -64,6 +65,7 @@ We use cookies to offer you a better experience and to help us understand how yo
         *   General Election Polls
         *   Direction of Country
         *   Political Leaders Favorability
+        *   Trump Impeachment Inquiry
         *   State of the Union Polls
         *   All Latest Election Polls
     *   RCP Election 2020
@@ -115,53 +117,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Brent Budowsky_: Biden and Warren at POTUS Rubicon
+*   _Sen. Thom Tillis_: The Facts Are With Trump, Not House Democrats
     
-*   _Ryan Grim_: Dems Must Admit Joe Biden's Family Profits Off Him
+*   _Elie Honig_: The Subpoena Showdown That Could Spell Disaster for Trump
     
-*   _Chris Cillizza_: Hillary Clinton Is Joking About Running Again in 2020, Right?
+*   _Thomas Edsall_: How Can Dems Keep Themselves From Overreaching?
     
-*   _Tammy Bruce_: The Dems' Chosen Recourse to Overturn 2016 Election
+*   _Kurt Schlichter_: Critics Aghast as Trump Keeps Word About No More Wars
     
-*   _Laurence Tribe_: The House Must Move on Trump Impeachment Articles Now
+*   _David Ignatius_: Trump's Grotesque Coda to the War Against ISIS
     
-*   _Rush Limbaugh_: The 'Whistleblowers' Are Deep State Spies
+*   _Daniel DePetris_: U.S. Involvement in Syria Wasn't Meant to Be Long-Term
     
-*   _Jamelle Bouie_: Republicans Stand by Trump Because They Like What He Does
+*   _Aaron Brown_: The Economic News From the Census Bureau Is Very Good
     
-*   _Susan Crabtree_: Impeachment Inquiry Could Spur China Trade 'Mini-Deal'
+*   _Anna North_: How LGBTQ Cases Before the High Court Affect All Americans
     
-*   _Ross Clark_: Will China Meddle in the 2020 Election - for Democrats?
+*   _Jonathan Turley_: High Court Has Consequential Term With La. Abortion Case
     
-*   _Joe Hagan_: Joaquin Phoenix on Joker, Rooney, and River
+*   _Luke Rosiak_: Network of Liberal Groups Pushes Racial Policies in Cities
     
-*   _Joy Pullmann_: Illinois Teaching Preschoolers to Celebrate Transgenderism
+*   _E.J. Dickson_: How NXIVM Was the Ultimate Wellness Scam
     
-*   _Nicholas Fandos_: White House Declares War on Impeachment Inquiry
+*   _Donna Brazile_: Founders Would Agree, Trump Deserves Impeachment
     
-*   _Ned Ryun_: There's No Middle Ground w/Today's Dems or Deep State
+*   _Hugh Hewitt_: House Dem 'Impeachment Inquiry' Is a Kangaroo Court
     
-*   _David Corn_: Trump's War on Constitution Another Impeachable Offense
+*   _Adam Serwer_: So What If the Whistle-Blower Has a Political Motive?
     
-*   _Roger L. Simon_: Democrats' Fear of Durham About to Reach Panic Level
+*   _Eric Felten_: Here Are the Giuliani-Ukraine Notes Few Have Seen
     
-*   _Ashley Pratte_: Impeachment: Trump Plays to Base, But Not Independents
+*   _Chris Cillizza_: As Warren Rises, Is Biden Getting Worried?
     
-*   _Ally Mutnick_: Republicans Seize on Impeachment in Bid to Retake House
+*   _David Von Drehle_: The Biden Story Is More Pathetic Than Nefarious
     
-*   _Philip Wegmann_: Impeachment on the Ballot in Ky. Governor's Race
+*   _Tucker Carlson_: NBC Passed on Weinstein Scoop to Protect Hillary Clinton
     
-*   _Osita Nwanevu_: Joe Biden's Case for the Presidency Is Collapsing
+*   _Tarlov &. Seawright_: Dems Need Hard-Nosed Strategy to Counter Republicans
     
-*   _John Kass_: Elizabeth 'Two Tales' Warren Running Out of Creation Myths
+*   _Miriam Sapiro_: USMCA Is Just What We Need. Democrats Should Support It
     
-*   _Matthew Walther_: Do It, Hillary: America Wants a Trump-Clinton Rematch
+*   _Michael Shellenberger_: The Malthusian Roots of Climate Extremism
     
-*   _Michael Doran_: How Obama's Team Set Up Trump's Syrian Dilemma
+*   _Gov. Inslee &. Prakash_: Youth-Led Climate Movement Won't Be Ignored
     
-*   _Semih Idiz_: Turkey's Route Into Syria Full of Pitfalls, Uncertainties
+*   _Susan Crabtree_: Rubio to Trump: Punch Back on China's NBA Boycott
     
-*   _Christopher Rufo_: Asian-Americans for Equal Opportunity
+*   _David Marcus_: NBA's Hypocrisy Over China &. Charlotte Is Astounding
     
 
 *   Previous
@@ -249,37 +251,37 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalFOX News
-    *   Approve43
-    *   Disapprove55Disapprove +12
-*   Congressional Job ApprovalFOX News
-    *   Approve21
-    *   Disapprove63Disapprove +42
-*   2020 Democratic Presidential NominationEconomist/YouGov
-    *   Biden25
-    *   Warren29
-    *   Sanders14
-    *   Buttigieg5
+*   2020 Democratic Presidential NominationFOX News
+    *   Biden32
+    *   Warren22
+    *   Sanders17
+    *   Buttigieg4
     *   Harris5
-    *   Yang3
-    *   O'Rourke1
-    *   Booker1
-    *   Klobuchar1
+    *   Yang2
+    *   O'Rourke3
+    *   Booker2
+    *   Klobuchar2
     *   Castro1
-    *   Bullock2
     *   Gabbard1
-    *   Steyer1Warren +4
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve46
-    *   Disapprove52Disapprove +6
+    *   Steyer1
+    *   Williamson1Biden +10
+*   General Election: Trump vs. BidenFOX News
+    *   Biden50
+    *   Trump40Biden +10
+*   General Election: Trump vs. WarrenFOX News
+    *   Warren50
+    *   Trump40Warren +10
+*   General Election: Trump vs. SandersFOX News
+    *   Sanders49
+    *   Trump40Sanders +9
 
 More Latest Polls In The News
 
-*   Sanders: I Misspoke, Will Get Back Into The Groove Of A "Vigorous" Campaign. Start Slower And Build Up
+*   Anti-Trump Protesters Burn Red Trump Hats Outside Rally In Minnesota, Yell "F\*ck You" At Police
+*   Trump: Biden Was Only A Good Vice President Because He Understood How To Kiss Barack Obama's Ass
+*   Buttigieg: Religious Freedom Makes "God Smaller" When Used Used As An Excuse To Harm Other People
+*   Pence To Reporters: "When Did You All Lose Interest In Foreign Interference In The 2016 Election?"
 *   Fmr. CIA Whistleblower: Ukraine Call Whistleblower Is Really "An Anonymous Source For Democrats"
-*   Acting Director: OMB Will Not Participate In "Sham" Impeachment Inquiry "Not Designed To Get The Truth"
-*   Hillary Clinton on Trump: "Maybe There Does Need To Be A Rematch" So "I Can Beat Him Again"
-*   Jason Whitlock: U.S. The Bad Guys In The Minds Of Woke NBA, They Are Promoting a Marxist Agenda
 
 *   Politics
 *   Policy
