@@ -373,9 +373,9 @@ click here Important Info Important Info
 
 \[9\] 2020 Lexus NX 300h (AWD) EPA 33/city, 30/hwy, 31/comb MPG estimates. Actual mileage will vary.
 
-\[10\] Seven-passenger second-row bench seating standard in the RX 350L, and six-passenger seating with second-row captain’s chairs available in the RX 350L and standard in the RX 450hL.
+\[10\] Seven-passenger second-row bench seating standard in the RX 350L, and six-passenger seating with second-row captain’s chairs available in the RX 350L and standard in the RX 450hL. Image for illustrative purposes only.
 
-\[11\] 2019 Lexus RX 450h (AWD) preliminary 31/city, 28/hwy, 30/comb mpg estimates determined by Lexus. EPA estimates not available at time of publishing. Actual mileage will vary.
+\[11\] 2019 Lexus RX 450h (AWD) preliminary 31/city, 28/hwy, 30/comb mpg estimates determined by Lexus. EPA estimates not available at time of publishing. Actual mileage will vary. Image for illustrative purposes only.
 
 \[12\] MSRP excludes delivery, processing and handling fee of $1,295, which may be subject to change at any time. Excludes taxes, title, license and optional equipment. Dealer price will vary.
 
