@@ -334,12 +334,6 @@ Russie
 
 Clauses contractuelles types
 
-Hébergement des données
-
-Etats-Unis
-
-Clauses contractuelles types
-
 Pour plus d’information sur l’encadrement des flux transfrontières, vous pouvez contacter le délégué à la protection des données.
 
   7. COMBIEN DE TEMPS MES DONNÉES SONT-ELLES CONSERVEES ?
@@ -466,7 +460,7 @@ Vous pouvez à tout moment désactiver ces notifications dans les réglages de v
 
 11.5. Prospection commerciale par téléphone
 
-LLa Redoute a la possibilité de vous contacter par téléphone pour vous proposer des offres sur des produits ou services. Vos coordonnées téléphoniques peuvent également être transmises à des partenaires de La Redoute (liste des partenaires au 3.1 de la présente politique). Si vous ne souhaitez pas être sollicité, vous avez la possibilité de vous inscrire sur la liste d’opposition au démarchage téléphonique accessible sur le site www.bloctel.gouv.fr ou d’exercer votre droit d’opposition auprès de la Redoute en cliquant ici.
+La Redoute a la possibilité de vous contacter par téléphone pour vous proposer des offres sur des produits ou services. Vos coordonnées téléphoniques peuvent également être transmises à des partenaires de La Redoute (liste des partenaires au 3.1 de la présente politique). Si vous ne souhaitez pas être sollicité, vous avez la possibilité de vous inscrire sur la liste d’opposition au démarchage téléphonique accessible sur le site www.bloctel.gouv.fr ou d’exercer votre droit d’opposition auprès de la Redoute en cliquant ici.
 
 11.6. Prospection commerciale par voie postale
 
