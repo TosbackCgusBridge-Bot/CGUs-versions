@@ -364,23 +364,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Captives of industry
-    *   Securing the increasingly complex end user computing landscape
-    *   New 'Reductor' malware compromises machines' encrypted TLS traffic
-    *   Microsoft revises and re-releases patch for exploited Internet Explorer bug
-    *   Kernel privilege escalation bug actively exploited in Android devices
-    
-    *   Cisco's latest round of updates address bugs in security products
+    *   Cyberattack causes $95 million loss for Demant
+    *   Criminals' security lapses enable discovery of Geost mobile banking trojan
     *   Digital transformation won’t work without new security approaches
-    *   Rethinking Cyberisks amid a rapidly evolving threat environment
-    *   Iran hackers targeted presidential campaign, journalists
+    *   Data on 92M Brazilians found for sale on underground forums
+    *   Microsoft repairs 59 software bugs on a 'quiet' Patch Tuesday
+    
+    *   Kernel privilege escalation bug actively exploited in Android devices
+    *   Digital transformation won’t work without new security approaches
+    *   California 'boldly' bans facial recognition in body cams, ACLU
+    *   Feds to boost scrutiny of airliner cybersecurity vulnerabilities
     *   Are you prepared for a ransomware attack?
     
-    *   California 'boldly' bans facial recognition in body cams, ACLU
-    *   Stolen credentials used to access TransUnion Canada's consumer credit files
-    *   Health, personal data of 1 million New Zealanders exposed in series of intrusions
-    *   Second Senate Intel committee report confirms Russia social media campaign to influence 2016 election, skewer Clinton
-    *   Leaving behind old school security tendencies
+    *   Twitter users' 2FA info found its way to advertisers
+    *   DIA analyst arrested for disclosing classified info to two journalists
+    *   Diplomats used WhatsApp, personal phones to discuss Ukraine policy
+    *   Dems' SHIELD Act would protect elections, close loopholes on foreign spending
+    *   Apple update takes a bite of iCloud, iTunes and macOS bugs
 
 Back to Top
 
