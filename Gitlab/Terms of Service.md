@@ -391,7 +391,7 @@ In this Agreement, unless the context otherwise requires:
 
 (m) Comply with all of the terms and conditions of the GitLab Reseller Program and Reseller Handbook, which can be found at (https://about.gitlab.com/resellers/program) and (https://about.gitlab.com/handbook/resellers), respectively, both of which may be subject to change from time to time. To the extent there are any conflicts between the terms of the GitLab Reseller Program or Reseller Handbook, and this Agreement, the terms of this Agreement shall take precedence.
 
-(n) Comply with the GitLab Partner Code of Ethics as found at https://about.gitlab.com/handbook/people-operations/code-of-conduct/ 7. Duties and obligations of Vendor
+(n) Comply with the GitLab Partner Code of Ethics as found at https://about.gitlab.com/handbook/people-group/code-of-conduct/ 7. Duties and obligations of Vendor
 
 7.1 GitLab shall:
 
