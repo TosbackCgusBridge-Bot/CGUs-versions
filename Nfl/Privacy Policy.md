@@ -1,4 +1,4 @@
-*   NYG•0NE72nd ? 14:55
+*   NYG2-414NE6-035Final
 *   CAR3-2TB2-3Sun, 9:30 am ET
 *   PHI3-2MIN3-2Sun, 1:00 pm ET
 *   WAS0-5MIA0-4Sun, 1:00 pm ET
@@ -35,7 +35,7 @@
 *   NFL Films
 *   Game Pass
 
-*   NYG•0NE72nd ? 14:55
+*   NYG14NE35Final
 *   CAR3-2TB2-3Sun, 9:30 am ET
 *   PHI3-2MIN3-2Sun, 1:00 pm ET
 *   WAS0-5MIA0-4Sun, 1:00 pm ET
