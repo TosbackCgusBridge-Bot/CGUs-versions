@@ -68,7 +68,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie News: Eddie Murphy Confirms ‘Beverly Hills Cop 4,’ First ‘Birds of Prey’ Trailer and More Read More
+    *   The Week in Movie News: ‘John Wick’ Spin-off Lands ‘Underworld’ Director, First ‘Jungle Cruise’ Trailer and More Read More
     *   Today in Movie Culture: ‘Joker’ Easter Eggs, Scene Breakdowns, Fan Art, Musical Tributes and More Read More
     *   Next 3 DC Movies: 'Birds of Prey,' 'Wonder Woman 1984,' 'The Suicide Squad' Read More
     
