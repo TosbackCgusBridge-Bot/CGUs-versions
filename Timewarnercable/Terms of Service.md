@@ -1,4 +1,4 @@
-07b60c0d-31eb-4ecf-b795-003fa5d17d68
+bdb0e043-204f-413e-b7ad-b7c29aa489ca
 
 *   Search Search
 *   Contact Us
@@ -20,8 +20,7 @@ Toggle Navigation
     *   Internet
     *   Cable TV
     *   Home Phone
-    *   Mobile
-    *   Latino
+    
     *   Business
 *   Manage Account
 *   Support
@@ -35,8 +34,7 @@ Toggle Navigation
 *   Internet
 *   Cable TV
 *   Home Phone
-*   Mobile
-*   Latino
+
 *   Business
 
 Check Availability &. Offers \* Street Address Enter your street address Apartment \* Zip Code Enter your 5-digit ZIP code Go Why do I need to enter my exact address?
@@ -70,8 +68,7 @@ Shop Spectrum +
 *   Spectrum TV
 *   Spectrum Internet
 *   Spectrum Voice
-*   Mi Plan Latino
-*   Spectrum Mobile
+
 *   Spectrum Sports Networks
 *   Spectrum Premium Channels
 
