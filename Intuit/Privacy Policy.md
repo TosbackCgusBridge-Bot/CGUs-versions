@@ -21,7 +21,7 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBack50% OFFHANDBAGS &. WALLETSselect styles | reg. $35-$85BUY 1, GET 2 FREE\*BOOTS FOR THE FAMILYIn store &. online, ends 10/16 | select styles | reg. $40-$11040% OFFMATCHING FAMILY PAJAMASselect styles | **sale $7.20-$30** | reg. $12-$50 25+ family pajama styles online!
+Near YouFind a StoreBack50% OFFHANDBAGS &. WALLETSselect styles | reg. $35-$85BUY 1, GET 2 FREE\*BOOTS FOR THE FAMILYIn store &. online, ends 10/16 | select styles | reg. $40-$11040% OFF MATCHING FAMILY PAJAMASselect styles | **sale $7.20-$30** | reg. $12-$50 25+ family pajama styles online!
 
 *   SHOP ALL
 
@@ -30,20 +30,20 @@ UP TO 60% OFFFURNITURE &. MATTRESSES+ EXTRA 10% off with code | select styles
 *   FURNITURE
 *   MATTRESSES
 
-GET DETAILSJCPenney is a proud supporterof American Cancer Society®THE LOCAL LOOKlocally curated. universally lovedUP TO 50% OFFHALLOWEEN DECORselect styles Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 21 total items loaded in Media GalleryFollow @jcpenney \*Buy one item at regular price, get the second and third items of equal or lesser value for free, while supplies last.Recommended for You
+GET DETAILSJCPenney is a proud supporterof American Cancer Society®UP TO 50% OFFHALLOWEEN DECORselect styles Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 21 total items loaded in Media GalleryFollow @jcpenney \*Buy one item at regular price, get the second and third items of equal or lesser value for free, while supplies last.Recommended for You
 
-*   $239 - $1999after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1409)
-*   $1199after couponwas $32 St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(2)
-*   $399 - $2799after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(219)
 *   LIMITED TIME SPECIAL!
     
     $60
     
-    Arizona Womens Galen Block Heel Zip Booties(20)
-*   $559 - $599after couponwas $17 St. John's Bay-Womens Crew Neck Long Sleeve T-Shirt(76)
+    Arizona Womens Galen Block Heel Zip Booties(21)
+*   $1199after couponwas $32 St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(4)
+*   $239 - $1999after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1411)
+*   $399 - $2799after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(219)
 *   ADVERTISED DEAL!
     
-    $2799 - $5599after couponwas $70 - $140 Liz Claiborne Quinn Basketweave Room-Darkening Grommet Top Single Curtain Panel(607)
+    $2799 - $5599after couponwas $70 - $140 Liz Claiborne Quinn Basketweave Room-Darkening Grommet Top Single Curtain Panel(608)
+*   $559 - $599after couponwas $17 St. John's Bay-Womens Crew Neck Long Sleeve T-Shirt(78)
 
 Shop and Save at JCPenney
 
