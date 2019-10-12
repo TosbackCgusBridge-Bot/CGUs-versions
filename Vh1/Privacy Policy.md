@@ -8,9 +8,9 @@
     *   Black Ink Crew New York
     *   Cartel Crew
     *   Girls Cruise
-    *   Hip Hop Squares
     *   Love &. Hip Hop Hollywood
     *   Love &. Listings
+    *   RuPaul's Drag Race UK
     *   Wild 'N OutSee all Shows
 *   News
 *   App
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleBasketball WivesBlack Ink Crew ComptonBlack Ink Crew New YorkCartel CrewGirls CruiseHip Hop SquaresLove &. Hip Hop HollywoodLove &. ListingsWild 'N Outsee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleBasketball WivesBlack Ink Crew ComptonBlack Ink Crew New YorkCartel CrewGirls CruiseLove &. Hip Hop HollywoodLove &. ListingsRuPaul's Drag Race UKWild 'N Outsee all Shows
 *   News
 *   App
 *   Watch Live TV
