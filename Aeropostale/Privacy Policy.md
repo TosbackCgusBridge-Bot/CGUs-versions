@@ -140,6 +140,7 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Wide Leg Jeans
 *   Boyfriend Jeans
 *   Mom Jeans
+*   Premium Seriously Stretchy
 *   Real Denim
 *   Flex Effects
 *   Eco-Friendly Repreve
@@ -182,7 +183,6 @@ Close submenu ( Girls ) Girls
 *   Matching Sets
 *   Layer Up
 *   Aero One
-*   Wild Things
 
 Close submenu ( Guys ) Guys
 
@@ -341,6 +341,7 @@ Menu Find a Store Aeropostale
         *   Wide Leg Jeans
         *   Boyfriend Jeans
         *   Mom Jeans
+        *   Premium Seriously Stretchy
         *   Real Denim
         *   Flex Effects
         *   Eco-Friendly Repreve
@@ -377,7 +378,6 @@ Menu Find a Store Aeropostale
         *   Matching Sets
         *   Layer Up
         *   Aero One
-        *   Wild Things
     
     *   Guys
         *   View All
