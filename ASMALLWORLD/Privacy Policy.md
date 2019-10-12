@@ -1,4 +1,15 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KCPGM7" height="0" width="0" style="display:none;visibility:hidden"></iframe>. PRIVACY POLICY
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KCPGM7" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Apply Login Apply for MembershipApply Menu
+
+*   Who we are
+*   Benefits
+*   Community Values
+*   Events
+*   Privileges
+*   Our Members
+*   Access ASW Anywhere
+*   Become a member
+
+Login Apply for MembershipApply PRIVACY POLICY
 
 ASMALLWORLD is a private community built on trust. ASMALLWORLD AG of Bellerivestrasse 241, 8008 Zurich, Switzerland is the data controller (“ASW” or “we”) and we take your privacy seriously. If you have any questions about this policy, we can be reached by email at privacy@asw.com. Alternatively, you can contact us at:
 
@@ -116,7 +127,7 @@ This policy became effective on 2 May 2018.
 *   Terms of Service
 *   Investor Relations
 
-Copyright © 2004 - 2019 ASMALLWORLD AG ×Login Login Forgot Login details? Login with Facebook ×Forgot Login Details?
+Copyright © 2004 - 2019 ASMALLWORLD AG ×Login Login Forgot Login details? ×Forgot Login Details?
 
 If you are registered with ASMALLWORLD, please enter your email address below and we will send you your login credentials.
 
@@ -134,4 +145,18 @@ Should you need any other assistance, please contact support@asw.com.
 
 An Error Has Occurred.
 
-CloseClose <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=870931293042212&amp;ev=PageView&amp;noscript=1">
+CloseClose ×Login Login Forgot Login details? ×Forgot Login Details?
+
+If you are registered with ASMALLWORLD, please enter your email address below and we will send you your login credentials.
+
+Email Address The email address that you have provided does not match any in our database. Please try a different address or contact support@asmallworld.net.
+
+If you can no longer access the email you used to create your account or are experiencing other issues, please email support@asw.com.
+
+×Forgot Login Details? Thank you!
+
+Your username and a temporary password have been emailed to the address you provided. When you receive the message, you can log in and reset your password to one of your choice.
+
+Should you need any other assistance, please contact support@asw.com.
+
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=870931293042212&amp;ev=PageView&amp;noscript=1">
