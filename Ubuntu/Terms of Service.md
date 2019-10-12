@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   Onboarding edge applications on the dev environment
 *   Chromium in Ubuntu – deb to snap transition
 *   Kubectl and friends as a snap
 *   A reference architecture for secure IoT device Management
 *   Designing an open source machine learning platform for autonomous vehicles
-*   The State of Robotics – September 2019
 
 *    ›
