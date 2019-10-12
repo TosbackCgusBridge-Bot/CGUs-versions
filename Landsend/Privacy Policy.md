@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off full-price styles, plus free shipping, no minimum on all orders!
+Receive 40% off full-price styles!
 
-code: FREE40 pin: PROMOTION DETAILS
+code: CORN pin: PROMOTION DETAILS
 
 Customer Service Menu
 
