@@ -370,17 +370,17 @@ Attention: Chief Digital Officer
     *   Data on 92M Brazilians found for sale on underground forums
     *   Microsoft repairs 59 software bugs on a 'quiet' Patch Tuesday
     
-    *   Kernel privilege escalation bug actively exploited in Android devices
-    *   Digital transformation won’t work without new security approaches
-    *   California 'boldly' bans facial recognition in body cams, ACLU
+    *   Securing the increasingly complex end user computing landscape
+    *   OpenDocument files now being used in attacks
+    *   Cyber espionage actor PKPLUG keeps plugging away at targeting SE Asia
+    *   Magecart attack on e-commerce service impacts Sesame Street store and many more
     *   Feds to boost scrutiny of airliner cybersecurity vulnerabilities
-    *   Are you prepared for a ransomware attack?
     
+    *   VPN to world: Reports of my death are greatly exaggerated
+    *   BitPaymer ransomware attackers exploit Apple flaw to bypass detection
     *   Twitter users' 2FA info found its way to advertisers
     *   DIA analyst arrested for disclosing classified info to two journalists
     *   Diplomats used WhatsApp, personal phones to discuss Ukraine policy
-    *   Dems' SHIELD Act would protect elections, close loopholes on foreign spending
-    *   Apple update takes a bite of iCloud, iTunes and macOS bugs
 
 Back to Top
 
