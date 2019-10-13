@@ -39,11 +39,11 @@ GET DETAILSJCPenney is a proud supporterof American Cancer Society®UP TO 50% OF
     Arizona Womens Galen Block Heel Zip Booties(21)
 *   $1199after couponwas $32 St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(4)
 *   $239 - $1999after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1411)
-*   $399 - $2799after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(219)
+*   $399 - $2799after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(222)
 *   ADVERTISED DEAL!
     
-    $2799 - $5599after couponwas $70 - $140 Liz Claiborne Quinn Basketweave Room-Darkening Grommet Top Single Curtain Panel(608)
-*   $559 - $599after couponwas $17 St. John's Bay-Womens Crew Neck Long Sleeve T-Shirt(78)
+    $2799 - $5599after couponwas $70 - $140 Liz Claiborne Quinn Basketweave Room-Darkening Grommet Top Single Curtain Panel(609)
+*   $559 - $599after couponwas $17 St. John's Bay-Womens Crew Neck Long Sleeve T-Shirt(79)
 
 Shop and Save at JCPenney
 
