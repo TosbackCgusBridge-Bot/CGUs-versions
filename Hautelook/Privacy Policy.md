@@ -9,12 +9,34 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
+    *   MOTHER Up to 60% Off
+    *   Parker Up to 85% Off
+    *   CK Outerwear &. More Up to 65% Off
+    *   Made in Italy: Meshmerise Jewelry from $15
+    *   Step into Comfort: Shoes from $40
+    *   On the Bright Side: Bold Sweaters from $30
+    *   Free Shipping: Chic Vanity Organizers
+    *   Clarks Men
+    *   Lancaster Paris Bucket Bags &. More
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   Tommy Hilfiger Suiting Up to 70% Off
+    *   Jealous Tomato &. More Under $45
+    *   Kenneth Cole Reaction Up to 50% Off
+    *   Sweet Dreams: Sleep Styles Under $30
+    *   Julep Makeup Up to 55% Off
+    *   Fashion-Forward Sneakers from $30
+    *   Fresh Finds: Shoes Up to 60% Off
+    *   Hudson London Up to 55% Off
+    *   Bean Body Organic Coffee Scrubs
+    *   Girls' Dresses ft. Laura Ashley &. More
+    *   Skate Sneakers ft. Heelys
     *   Gal Meets Glam Up to 60% Off
     *   adidas
     *   adidas Men
     *   adidas Active
     *   adidas Men's Active
     *   Ramy Brook
+    
     *   Lovers + Friends Up to 65% Off
     *   adidas Kids
     *   Brands We Love: Anna Sui &. More
@@ -28,44 +50,27 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Gurhan 24K Gold Jewelry &. More Up to 50% Off
     *   Resort Ready: Onia Swim
     *   Rockport Up to 50% Off
-    *   Desk to Dinner: Dresses Up to 65% Off
     *   Luxe Skin Care ft. D24K
     *   PYT Hot Tools &. More Up to 90% Off
     *   Free Shipping: Holiday Decor from $20
     *   Lorac Cosmetics Starting at $10
-    *   Fall Flares: Bootcut Jeans Incl. Plus &. Petites
     *   Veronica Beard Up to 70% Off
-    *   Velvet by Graham &. Spencer Up to 65% Off
-    
-    *   National Handbag Day: Coccinelle &. Tod's
     *   Perricone MD Up to 55% Off
-    *   Andrew Marc Outerwear Up to 70% Off
     *   NuFACE Facial Toning Devices
-    *   Sweater Weather: Cozy Styles Under $30
-    *   Italeau Up to 55% Off
-    *   BLVD &. More Starting at $20
-    *   Work It: C&C California Sport &. More
-    *   Pour La Victoire &. More Up to 60% Off
     *   Volcom
     *   14K Gold Jewelry Steals
-    *   Jewel Badgley Mischka Up to 60% Off
-    *   Body Faves ft. Skinnygirl Smoothers &. Shapers
     *   Report Collection: Dress Shirts &. More Under $50
     *   Jump New York
     *   Aesthetica Cosmetics Starting at $10
     *   Free Shipping: Winter-Themed Decor &. More
     *   Free Shipping: Duvets, Quilts &. More
+    
     *   Sperry Kids Up to 50% Off
     *   Boys' Street Style ft. Volcom
-    *   Vince Shoes
-    *   Vince Men Up to 60% Off
     *   Salon-Quality Hair Tools &. Accessories
     *   Teami Skin Care: Facial Oils, Serums &. More
     *   Free Shipping: Fashion &. Floral Art
-    *   Bundle Up: Urban Republic Outerwear
     *   Free Shipping: Dreamy Bedding Up to 70% Off
-    
-    *   Fancy Footwear ft. Naturino Express
     *   Original Penguin Shoes Up to 60% Off
     *   Spellbinding Steals: Witch Figurines &. More
     *   Autumn Accents: Decorative Pumpkins, Signs &. More
@@ -73,25 +78,36 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Free Shipping: Fall &. Winter Decor Up to 50% Off
     *   Happy Howloween: Pet Costumes &. More
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    *   Dad &. Me: Timberland
     *   Palettes We Love &. More Up to 50% Off
-    *   ROAN
-    *   Exuviance Skin Care: Anti-Aging Treatments &. More
     *   Nostalgia Kitchen Faves
     *   Free Shipping: BergHOFF Blowout
     *   Chef-Worthy Essentials: Gadgets &. More
     *   Free Shipping: NFL Tailgate Party Essentials
-    *   Croscill Bedding &. More
-    *   Jewelry Storage for Every Style
-    *   Let's Get Spooky: Halloween Decor from $10
     *   Free Shipping: Fresh Bedding &. More from $40
+    *   Desk to Dinner: Dresses Up to 65% Off
     *   Free Shipping: Sheet Sets Up to 75% Off
-    *   Vince Up to 60% Off
+    *   Velvet by Graham &. Spencer Up to 65% Off
+    *   Andrew Marc Outerwear Up to 70% Off
+    *   Sweater Weather: Cozy Styles Under $30
+    *   Fall Flares: Bootcut Jeans Incl. Plus &. Petites
     *   Long Sleeve Tees Up to 65% Off
-    *   Carry-On Luggage Under $100
-    *   Office Hours: Luxe Brands ft. Suistudio
 *   WomenShop Sale Events
     
+    *   MOTHER Up to 60% Off
+    *   Parker Up to 85% Off
+    *   CK Outerwear &. More Up to 65% Off
+    *   Made in Italy: Meshmerise Jewelry from $15
+    *   Step into Comfort: Shoes from $40
+    *   On the Bright Side: Bold Sweaters from $30
+    *   Lancaster Paris Bucket Bags &. More
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   Jealous Tomato &. More Under $45
+    *   Kenneth Cole Reaction Up to 50% Off
+    *   Sweet Dreams: Sleep Styles Under $30
+    *   Julep Makeup Up to 55% Off
+    *   Fashion-Forward Sneakers from $30
+    *   Fresh Finds: Shoes Up to 60% Off
+    *   Bean Body Organic Coffee Scrubs
     *   Gal Meets Glam Up to 60% Off
     *   adidas
     *   adidas Active
@@ -100,90 +116,81 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Brands We Love: Anna Sui &. More
     *   Cute for Any Weather: Boots, Slippers &. More
     *   Season's Best: Cashmere Up to 70% Off
+    
     *   Splendid Up to 70% Off
     *   Commando
     *   Gurhan 24K Gold Jewelry &. More Up to 50% Off
     *   Resort Ready: Onia Swim
     *   Rockport Up to 50% Off
-    *   Desk to Dinner: Dresses Up to 65% Off
     *   Luxe Skin Care ft. D24K
     *   PYT Hot Tools &. More Up to 90% Off
     *   Lorac Cosmetics Starting at $10
-    *   Fall Flares: Bootcut Jeans Incl. Plus &. Petites
     *   Veronica Beard Up to 70% Off
-    *   Velvet by Graham &. Spencer Up to 65% Off
-    *   National Handbag Day: Coccinelle &. Tod's
     *   Perricone MD Up to 55% Off
-    
-    *   Andrew Marc Outerwear Up to 70% Off
     *   NuFACE Facial Toning Devices
-    *   Sweater Weather: Cozy Styles Under $30
-    *   Italeau Up to 55% Off
-    *   BLVD &. More Starting at $20
-    *   Work It: C&C California Sport &. More
-    *   Pour La Victoire &. More Up to 60% Off
     *   14K Gold Jewelry Steals
-    *   Jewel Badgley Mischka Up to 60% Off
-    *   Body Faves ft. Skinnygirl Smoothers &. Shapers
     *   Aesthetica Cosmetics Starting at $10
-    *   Vince Shoes
     *   Salon-Quality Hair Tools &. Accessories
     *   Teami Skin Care: Facial Oils, Serums &. More
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Palettes We Love &. More Up to 50% Off
-    *   Exuviance Skin Care: Anti-Aging Treatments &. More
-    *   Vince Up to 60% Off
+    *   Desk to Dinner: Dresses Up to 65% Off
+    *   Velvet by Graham &. Spencer Up to 65% Off
+    *   Andrew Marc Outerwear Up to 70% Off
+    *   Sweater Weather: Cozy Styles Under $30
+    *   Fall Flares: Bootcut Jeans Incl. Plus &. Petites
     *   Long Sleeve Tees Up to 65% Off
-    *   Carry-On Luggage Under $100
-    *   Office Hours: Luxe Brands ft. Suistudio
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie &. Shapewear
     *   Jewelry
+    *   Lingerie &. Shapewear
     *   Handbags
+    *   Watches
     *   Accessories
 *   MenShop Sale Events
     
+    *   Clarks Men
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   Tommy Hilfiger Suiting Up to 70% Off
+    *   Hudson London Up to 55% Off
     *   adidas Men
     *   adidas Men's Active
+    
     *   Karl Lagerfeld Shoes Up to 70% Off
     *   Holiday Jump Start: Gifts for Him from $10
     *   Volcom
     *   Report Collection: Dress Shirts &. More Under $50
-    
     *   Jump New York
-    *   Vince Men Up to 60% Off
     *   Original Penguin Shoes Up to 60% Off
-    *   Dad &. Me: Timberland
-    *   ROAN
-    *   Carry-On Luggage Under $100
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Girls' Dresses ft. Laura Ashley &. More
+    *   Skate Sneakers ft. Heelys
     *   adidas Kids
     *   adidas Kids' Active Starting at $13
     *   Sperry Kids Up to 50% Off
     *   Boys' Street Style ft. Volcom
-    *   Bundle Up: Urban Republic Outerwear
-    *   Fancy Footwear ft. Naturino Express
     
     Shop By Category
-    *   Boys' Sizes 8-20
+    *   Boys' Shoes
     *   Boys' Sizes 2T-7
     *   Girls' Shoes
-    *   Boys' Shoes
+    *   Boys' Sizes 8-20
     *   Girls' Sizes 7-16
-    *   Baby Girl
     *   Girls' Sizes 2T-6X
+    *   Baby Girl
     *   Baby Boy
 *   HomeShop Sale Events
     
+    *   Free Shipping: Chic Vanity Organizers
     *   Free Shipping: Holiday Decor from $20
     *   Free Shipping: Winter-Themed Decor &. More
     *   Free Shipping: Duvets, Quilts &. More
@@ -192,48 +199,47 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Spellbinding Steals: Witch Figurines &. More
     *   Autumn Accents: Decorative Pumpkins, Signs &. More
     *   Fall Harvest: Charming Autumn Decor
+    
     *   Free Shipping: Fall &. Winter Decor Up to 50% Off
     *   Happy Howloween: Pet Costumes &. More
-    
     *   Nostalgia Kitchen Faves
     *   Free Shipping: BergHOFF Blowout
     *   Chef-Worthy Essentials: Gadgets &. More
     *   Free Shipping: NFL Tailgate Party Essentials
-    *   Croscill Bedding &. More
-    *   Jewelry Storage for Every Style
-    *   Let's Get Spooky: Halloween Decor from $10
     *   Free Shipping: Fresh Bedding &. More from $40
     *   Free Shipping: Sheet Sets Up to 75% Off
     
     Shop By Category
-    *   Bedding
     *   Home Decor
+    *   Bedding
     *   Kitchen &. Tabletop
     *   Pet Accessories
-    *   Luggage &. Travel
-    *   Holiday Decorations
-    *   Bath
-    *   Outdoor Living
     *   Cleaning &. Organization
+    *   Holiday Decorations
+    *   Outdoor Living
+    *   Luggage &. Travel
+    *   Bath
+    *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
+    *   Julep Makeup Up to 55% Off
+    *   Bean Body Organic Coffee Scrubs
     *   Luxe Skin Care ft. D24K
     *   PYT Hot Tools &. More Up to 90% Off
     *   Lorac Cosmetics Starting at $10
     *   Perricone MD Up to 55% Off
+    
     *   NuFACE Facial Toning Devices
     *   Aesthetica Cosmetics Starting at $10
-    
     *   Salon-Quality Hair Tools &. Accessories
     *   Teami Skin Care: Facial Oils, Serums &. More
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Palettes We Love &. More Up to 50% Off
-    *   Exuviance Skin Care: Anti-Aging Treatments &. More
     
     Shop By Category
     *   Hair Care
-    *   Skin Care
     *   Makeup
+    *   Skin Care
     *   Bath &. Body
     *   Tools &. Accessories
     *   Fragrance
