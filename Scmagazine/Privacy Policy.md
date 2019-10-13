@@ -364,23 +364,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Cyberattack causes $95 million loss for Demant
-    *   Criminals' security lapses enable discovery of Geost mobile banking trojan
-    *   Digital transformation won’t work without new security approaches
-    *   Data on 92M Brazilians found for sale on underground forums
-    *   Microsoft repairs 59 software bugs on a 'quiet' Patch Tuesday
-    
     *   Securing the increasingly complex end user computing landscape
-    *   OpenDocument files now being used in attacks
-    *   Cyber espionage actor PKPLUG keeps plugging away at targeting SE Asia
-    *   Magecart attack on e-commerce service impacts Sesame Street store and many more
-    *   Feds to boost scrutiny of airliner cybersecurity vulnerabilities
+    *   SC Media's 30th anniversary Q&A: Nathan Wenzler
+    *   Evidence tying Cobalt Group to Magecart Group 4 unveiled
+    *   Users are the target: How employees can be the strongest line of defense
+    *   Meghan Markle, Prince Harry sue tabloid for breach of U.K. Data Protection Act of 2018
     
+    *   CyberRisk Alliance appoints Malcolm Harkins to its board
+    *   Feds to boost scrutiny of airliner cybersecurity vulnerabilities
+    *   Microsoft revises and re-releases patch for exploited Internet Explorer bug
+    *   DCH Health System pays ransomware attackers in bid to restore operations
+    *   Cyber espionage actor PKPLUG keeps plugging away at targeting SE Asia
+    
+    *   Imperva CTO: Breach caused by mishandled database migration
+    *   Juniper Networks addresses 84 bugs
     *   VPN to world: Reports of my death are greatly exaggerated
     *   BitPaymer ransomware attackers exploit Apple flaw to bypass detection
     *   Twitter users' 2FA info found its way to advertisers
-    *   DIA analyst arrested for disclosing classified info to two journalists
-    *   Diplomats used WhatsApp, personal phones to discuss Ukraine policy
 
 Back to Top
 
