@@ -121,8 +121,8 @@ View more results
     *   Five Nights at Freddy's 4
     *   Fireboy and Watergirl 5: Elements
     *   Tom and Jerry: Mouse Maze
-    *   FNAF World
     *   Chrome Dino
+    *   FNAF World
 *   Top Categories
     
     *   Bubble Shooter
@@ -179,8 +179,8 @@ View more results
     *   Ellie: Get Ready With Me
     *   Slope: Neon Ball Rolling Game
     *   Burger Restaurant Express
-    *   Love Tester 2.0
     *   Super Speed Racer
+    *   Love Tester 2.0
     *   Ella: Hips Surgery
     *   Back To School: Princesses Rush
     *   Pizza Real Life Cooking
@@ -211,12 +211,12 @@ View more results
     *   Highway Rider Extreme: Motorbike Game 3D
     *   Hill Racing Challenge
     *   Agame Stunt Cars
-    *   Uphill Rush 7: Waterpark
     *   Moto X3M: Motorcycle Racing Game
+    *   Uphill Rush 7: Waterpark
     *   Murder
     *   Madalin Cars Multiplayer
-    *   Country Ride: Race Car Game
     *   Russian Car Driver
+    *   Country Ride: Race Car Game
     *   Super Speed Racer
     *   Real Street Racing
 *   Top Categories
