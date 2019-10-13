@@ -1,4 +1,3 @@
-*   NYG2-414NE6-035Final
 *   CAR3-2TB2-3Sun, 9:30 am ET
 *   PHI3-2MIN3-2Sun, 1:00 pm ET
 *   WAS0-5MIA0-4Sun, 1:00 pm ET
@@ -12,6 +11,7 @@
 *   TEN2-3DEN1-4Sun, 4:25 pm ET
 *   PIT1-4LAC2-3Sun, 8:20 pm ET
 *   DET2-1-1GB4-1Mon, 8:15 pm ET
+*   NYG2-414NE6-035Final
 
 *   News
 *   Scores
@@ -35,7 +35,6 @@
 *   NFL Films
 *   Game Pass
 
-*   NYG14NE35Final
 *   CAR3-2TB2-3Sun, 9:30 am ET
 *   PHI3-2MIN3-2Sun, 1:00 pm ET
 *   WAS0-5MIA0-4Sun, 1:00 pm ET
@@ -49,6 +48,7 @@
 *   TEN2-3DEN1-4Sun, 4:25 pm ET
 *   PIT1-4LAC2-3Sun, 8:20 pm ET
 *   DET2-1-1GB4-1Mon, 8:15 pm ET
+*   NYG14NE35Final
 
 *   News
 *   Scores
