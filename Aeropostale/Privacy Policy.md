@@ -24,6 +24,7 @@ Close submenu ( Girls ) Girls
 *   Dresses + Rompers
 *   Matching Sets
 *   Accessories
+*   Hats + Scarves
 *   Shoes
 *   Fragrance
 *   Bras + Undies
@@ -266,6 +267,7 @@ Menu Find a Store Aeropostale
     *   Dresses + Rompers
     *   Matching Sets
     *   Accessories
+    *   Hats + Scarves
     *   Shoes
     *   Fragrance
     *   Bras + Undies
