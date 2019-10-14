@@ -1,15 +1,15 @@
-*   CAR3-2TB2-3Sun, 9:30 am ET
-*   PHI3-2MIN3-2Sun, 1:00 pm ET
-*   WAS0-5MIA0-4Sun, 1:00 pm ET
-*   HOU3-2KC4-1Sun, 1:00 pm ET
-*   NO4-1JAX2-3Sun, 1:00 pm ET
-*   SEA4-1CLE2-3Sun, 1:00 pm ET
-*   CIN0-5BAL3-2Sun, 1:00 pm ET
-*   SF4-0LA3-2Sun, 4:05 pm ET
-*   ATL1-4ARI1-3-1Sun, 4:05 pm ET
-*   DAL3-2NYJ0-4Sun, 4:25 pm ET
-*   TEN2-3DEN1-4Sun, 4:25 pm ET
-*   PIT1-4LAC2-3Sun, 8:20 pm ET
+*   CAR4-237TB2-426Final
+*   PHI3-320MIN4-238Final
+*   WAS1-517MIA0-516Final
+*   HOU4-231KC4-224Final
+*   NO5-113JAX2-46Final
+*   SEA5-132CLE2-428Final
+*   CIN0-617BAL4-223Final
+*   SF5-020LA3-37Final
+*   ATL1-533ARI2-3-134Final
+*   DAL3-322NYJ1-424Final
+*   TEN2-40DEN2-416Final
+*   PIT2-424LAC2-417Final
 *   DET2-1-1GB4-1Mon, 8:15 pm ET
 *   NYG2-414NE6-035Final
 
@@ -35,18 +35,18 @@
 *   NFL Films
 *   Game Pass
 
-*   CAR3-2TB2-3Sun, 9:30 am ET
-*   PHI3-2MIN3-2Sun, 1:00 pm ET
-*   WAS0-5MIA0-4Sun, 1:00 pm ET
-*   HOU3-2KC4-1Sun, 1:00 pm ET
-*   NO4-1JAX2-3Sun, 1:00 pm ET
-*   SEA4-1CLE2-3Sun, 1:00 pm ET
-*   CIN0-5BAL3-2Sun, 1:00 pm ET
-*   SF4-0LA3-2Sun, 4:05 pm ET
-*   ATL1-4ARI1-3-1Sun, 4:05 pm ET
-*   DAL3-2NYJ0-4Sun, 4:25 pm ET
-*   TEN2-3DEN1-4Sun, 4:25 pm ET
-*   PIT1-4LAC2-3Sun, 8:20 pm ET
+*   CAR37TB26Final
+*   PHI20MIN38Final
+*   WAS17MIA16Final
+*   HOU31KC24Final
+*   NO13JAX6Final
+*   SEA32CLE28Final
+*   CIN17BAL23Final
+*   SF20LA7Final
+*   ATL33ARI34Final
+*   DAL22NYJ24Final
+*   TEN0DEN16Final
+*   PIT24LAC17Final
 *   DET2-1-1GB4-1Mon, 8:15 pm ET
 *   NYG14NE35Final
 
@@ -57,7 +57,7 @@
 *   Highlights
 *   NFL 100
 
-*   NFL 100
+*   NFL Shop
 *   Scores
 
 *   *   Super Bowl
