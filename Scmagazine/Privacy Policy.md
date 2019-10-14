@@ -364,17 +364,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Securing the increasingly complex end user computing landscape
-    *   SC Media's 30th anniversary Q&A: Nathan Wenzler
-    *   Evidence tying Cobalt Group to Magecart Group 4 unveiled
-    *   Users are the target: How employees can be the strongest line of defense
-    *   Meghan Markle, Prince Harry sue tabloid for breach of U.K. Data Protection Act of 2018
-    
-    *   CyberRisk Alliance appoints Malcolm Harkins to its board
-    *   Feds to boost scrutiny of airliner cybersecurity vulnerabilities
-    *   Microsoft revises and re-releases patch for exploited Internet Explorer bug
+    *   Health, personal data of 1 million New Zealanders exposed in series of intrusions
+    *   Magecart attack on e-commerce service impacts Sesame Street store and many more
+    *   Google launches Password Checkup security tool
+    *   Leaving behind old school security tendencies
     *   DCH Health System pays ransomware attackers in bid to restore operations
-    *   Cyber espionage actor PKPLUG keeps plugging away at targeting SE Asia
+    
+    *   VPN to world: Reports of my death are greatly exaggerated
+    *   Stolen credentials used to access TransUnion Canada's consumer credit files
+    *   Ransomware attack forces DCH Health Systems to turn away patients
+    *   Diplomats used WhatsApp, personal phones to discuss Ukraine policy
+    *   Imperva CTO: Breach caused by mishandled database migration
     
     *   Imperva CTO: Breach caused by mishandled database migration
     *   Juniper Networks addresses 84 bugs
@@ -412,4 +412,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
