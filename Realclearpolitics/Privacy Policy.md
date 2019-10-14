@@ -116,53 +116,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Christina Cauterucci_: At Dems' LGBTQ Town Hall, Agreeing Was the Easy Part
+*   _Byron York_: Democrats Ratchet Up Impeachment Secrecy
     
-*   _Roger Simon_: Finally, We Have a President Making Progress With China
+*   _Amy  Sorkin_: Will Republicans Challenge Trump on Impeachment?
     
-*   _Jeff Spross_: NBA Surrender Shows China Threatens More Than Jobs
+*   _James Jay Carafano_: In Syria, Spotlight Should Be on Turkey, Not Trump
     
-*   _Marc Lotter_: Dear Democrats: Hunter Biden Is No Ivanka Trump
+*   _Chas Danner_: Trump-Blessed War in Northeastern Syria Is a Disaster
     
-*   _William Saletan_: Trump's Attempts at Collusion Aren't Jokes
+*   _David Goldman_: U.S.-China Trade Truce May Secure Trump's Re-Election
     
-*   _Krystina Skurk_: Andrew McCarthy Unravels Real Russia Collusion Narrative
+*   _Art Cullen_: Trump's Troubles in Iowa Could Spell Doom for Republicans
     
-*   _Alexander Burns_: Populist Dems Gaining the Upper Hand in Primary Race?
+*   _Justin Haskins_: Warren Supports New AOC Plan That Would Destroy Economy
     
-*   _Stanley Greenberg_: Backfire: Immigration Is a Losing Issue for Trump
+*   _Shaun Richman_: The Powerful New Idea in Warren's Labor Platform
     
-*   _Mercedes Schlapp_: Dems Shouldn't Count on Hispanic Support in 2020
+*   _Andrew Klavan_: Leftists Hate 'Joker' Because Joker Is the Left
     
-*   _Rebecca Traister_: Ronan Farrow Depicts Chilling Cover-Up at NBC
+*   _Derek Robertson_: The NBA Hasn't Changed. We Have.
     
-*   _Votel &. Dent_: Trump, Syria and the Danger of Abandoning Our Partners
+*   _Marik von Rennenkampff_: 3 Reasons to Investigate U.S. Navy UFO Incidents
     
-*   _Caroline Glick_: Trump Did Not Betray the Kurds
+*   _Dana Milbank_: Donald Trump, Corrupted Absolutely
     
-*   _Dylan Curran_: I Am Boycotting Blizzard Over Their Hong Kong Censorship
+*   _Kimberly Strassel_: Whistleblowers and the Real Deep State
     
-*   _Nicholas Kristof_: When China Comes for Pooh Bear...
+*   _Barbara McQuade_: Trump's Strategy: Trick Public Into Blaming Congress
     
-*   _Jon Schweppe_: NBA Now Enforces Chinese Censorship on American Soil
+*   _Jonathan Turley_: Why Won't the Media Talk About Biden Family Dealings?
     
-*   _Tara Golshan_: Breaking Down the State of the Democratic Presidential Race
+*   _Robert Reich_: Under Trump, Thuggery Has Replaced Diplomacy
     
-*   _Clay Aiken_: Why I Support Biden, LGBTQ Community's Strongest Ally
+*   _Roger Kimball_: Trump's Foreign Policy Deals Properly With Tyrants
     
-*   _Hamilton Nolan_: The Biden Family's Unearned Riches Are a Moral Failure
+*   _Christopher Hill_: Trump's Ongoing Failure With North Korea Talks
     
-*   _Marc Thiessen_: Trump's Canard That U.S. Is Fighting 'Endless Wars'
+*   _Matthew Continetti_: America Is Exceptional, But Our Elites Are Not
     
-*   _Andrew McCarthy_: Trump Is Sensible Not to Risk War With Turkey
+*   _Harry Enten_: Why It's Biden, Warren, and Then Everybody Else
     
-*   _Susan Crabtree_: Watchdog Complaint Hits Dark-Money Group Targeting Collins
+*   _Michael Barone_: Dem Troubles Leave Opening for New 2020 Candidate
     
-*   _Jared Bernstein_: The Climate Crisis and the Failure of Economics
+*   _Jordan Weissmann_: O'Rourke Becoming a Human Straw Man for Conservatives
     
-*   _Chuck DeVore_: The Lights Are Out in CA, and That Was the Plan All Along
+*   _John Hayward_: Dems' LGBT Town Hall Filled With Vows to Shred Constitution
     
-*   _Philip Wegmann_: Warren's Transgender Inmate Stance Counters 2012 Position
+*   _Mark Bowden_: Top Military Officers Unload on Trump
     
 
 *   Previous
@@ -250,6 +250,48 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   Iowa Democratic Presidential CaucusCBS News/YouGov
+    *   Warren22
+    *   Biden22
+    *   Sanders21
+    *   Buttigieg14
+    *   Harris5
+    *   Klobuchar2
+    *   Steyer3
+    *   Booker2
+    *   Gabbard1
+    *   O'Rourke2
+    *   Yang0
+    *   Williamson1
+    *   Ryan1Tie
+*   New Hampshire Democratic Presidential PrimaryCBS News/YouGov
+    *   Warren32
+    *   Biden24
+    *   Sanders17
+    *   Buttigieg7
+    *   Harris4
+    *   Yang5
+    *   Steyer4
+    *   Gabbard2
+    *   Klobuchar2
+    *   Booker1
+    *   O'Rourke1
+    *   Ryan1
+    *   Williamson0Warren +8
+*   South Carolina Democratic Presidential PrimaryCBS News/YouGov
+    *   Biden43
+    *   Warren18
+    *   Sanders16
+    *   Harris7
+    *   Buttigieg4
+    *   Booker3
+    *   Steyer2
+    *   O'Rourke1
+    *   Yang1
+    *   Bennet1
+    *   Williamson1
+    *   Klobuchar1
+    *   Gabbard0Biden +25
 *   2020 Democratic Presidential NominationFOX News
     *   Biden32
     *   Warren22
@@ -264,23 +306,14 @@ Latest PollsAll Polls
     *   Gabbard1
     *   Steyer1
     *   Williamson1Biden +10
-*   General Election: Trump vs. BidenFOX News
-    *   Biden50
-    *   Trump40Biden +10
-*   General Election: Trump vs. WarrenFOX News
-    *   Warren50
-    *   Trump40Warren +10
-*   General Election: Trump vs. SandersFOX News
-    *   Sanders49
-    *   Trump40Sanders +9
 
 More Latest Polls In The News
 
-*   David Brooks: Low-Information Voters, "Normal Human Beings" Not Paying Attention To Impeachment
+*   Sanders: Warren Considers Herself "A Capitalist Through Her Bones," "We Need Real Change In This Country"
+*   Zeldin: Schiff Is "Cherry-Picking Leaks... Withholding Facts... Just Outright Lying" About Trump
+*   Schiff: "There Doesn't Need To Be A Quid Pro Quo" For Ukraine Call To Be An Impeachable Offense
+*   Buttigieg: Hunter Biden Is Being Held To A "Radically Different Standard" Than Trump Family
 *   CNN Wisconsin Focus Group Of Independent Voters: Not A Single Person Said They Will Vote For Trump
-*   Trump: Radical Dems Know They Can't Win So They Are Pursuing Unconstitutional "Bullshit" Impeachment
-*   MSNBC's Scarborough: We Won't Show Video Of Trump Rally Out Of Respect To His Family, He Is Clearly Not Well
-*   Elizabeth Warren: Men Who Oppose Gay Marriage Should "Just Marry One Woman," "If You Can Find One"
 
 *   Politics
 *   Policy
