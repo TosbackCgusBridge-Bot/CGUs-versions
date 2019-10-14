@@ -1,8 +1,4 @@
-1/1
-
-*   Winter Weather Impacting Areas of North Dakota...More
-
-Close Skip To Main Content
+Skip To Main Content
 
 *   Log In
 *   Sign Up
