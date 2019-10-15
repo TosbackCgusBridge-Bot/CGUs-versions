@@ -8,16 +8,16 @@ Invalid Zip Code. To connect with Subaru of Hawaii, please click here.
 
 or Use my current location Your Subaru Retailer Subaru Retailers Near You More Subaru Retailers
 
-*   Money Subaru (89 Miles)
-*   DuTeau Subaru (116 Miles)
-*   Baxter Subaru (158 Miles)
-*   Briggs Subaru of Topeka (164 Miles)
-*   Beardmore Subaru (165 Miles)
-*   Subaru of Wichita (167 Miles)
+*   Schomp Subaru (7 Miles)
+*   Groove Subaru (8 Miles)
+*   Mike Shaw Subaru (9 Miles)
+*   AutoNation Subaru West (10 Miles)
+*   AutoNation Subaru Arapahoe (12 Miles)
+*   Flatirons Subaru (21 Miles)
 
 Submit
 
-*   Your Location: **66952**
+*   Your Location: **80202**
 *   For Owners
 *   Customer Support
 *   Search
@@ -182,6 +182,18 @@ Up to
 *   Build &. Price
 
 WRX Limited Shown
+
+STI S209 $63,995\* starting price STI S209
+
+Starting at
+
+$63,995 MSRP
+
+Up to
+
+21/15 MPG Hwy/City
+
+*   Overview
 
 All Vehicles Find Your Subaru All Vehicles Certified Pre-Owned Certified Pre-Owned
 
