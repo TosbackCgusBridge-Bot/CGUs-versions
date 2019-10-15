@@ -197,7 +197,7 @@ Lenovo Explore Close
         
         *   Featured
         *   Accessory Deals
-        *   Gamestore
+        *   PC Gaming
         *   Gaming PC Deals
         *   Nintendo
         
@@ -285,7 +285,7 @@ Lenovo Explore Close
         *   ThinkPad Deals
         *   Home Laptop Deals
         *   2-in-1 Laptop Deals
-        *   Gaming PCs Deals
+        *   Gaming PC Deals
         
         *   Other Weekly Deals
         *   Monitor Deals
