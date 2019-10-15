@@ -364,23 +364,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Health, personal data of 1 million New Zealanders exposed in series of intrusions
-    *   Magecart attack on e-commerce service impacts Sesame Street store and many more
-    *   Google launches Password Checkup security tool
-    *   Leaving behind old school security tendencies
-    *   DCH Health System pays ransomware attackers in bid to restore operations
-    
-    *   VPN to world: Reports of my death are greatly exaggerated
-    *   Stolen credentials used to access TransUnion Canada's consumer credit files
-    *   Ransomware attack forces DCH Health Systems to turn away patients
+    *   Feds to boost scrutiny of airliner cybersecurity vulnerabilities
     *   Diplomats used WhatsApp, personal phones to discuss Ukraine policy
-    *   Imperva CTO: Breach caused by mishandled database migration
+    *   SC Media's 30th anniversary Q&A: Nathan Wenzler
+    *   Microsoft repairs 59 software bugs on a 'quiet' Patch Tuesday
+    *   Apple update takes a bite of iCloud, iTunes and macOS bugs
     
-    *   Imperva CTO: Breach caused by mishandled database migration
-    *   Juniper Networks addresses 84 bugs
-    *   VPN to world: Reports of my death are greatly exaggerated
-    *   BitPaymer ransomware attackers exploit Apple flaw to bypass detection
-    *   Twitter users' 2FA info found its way to advertisers
+    *   Data on 92M Brazilians found for sale on underground forums
+    *   SC Media's 30th anniversary Q&A: Nathan Wenzler
+    *   Kernel privilege escalation bug actively exploited in Android devices
+    *   WhatsApp bug allows access to content, users should update
+    *   Securing the increasingly complex end user computing landscape
+    
+    *   Malware takes down some Pitney Bowes systems
+    *   Mississippi gov't agencies fall short of cybersecurity compliance standards
+    *   Stratfor hacker Hammond held in contempt for refusing to answer grand jury questions
+    *   McAleenan out at DHS
+    *   Report: Hacker steals Dutch prostitution forum data
 
 Back to Top
 
