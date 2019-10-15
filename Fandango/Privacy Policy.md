@@ -6,34 +6,34 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movies Now Playing
     
     *   Joker (2019)
+    *   The Addams Family (2019)
+    *   Gemini Man
     *   Abominable (2019)
     *   Downton Abbey (2019)
     *   Hustlers
-    *   It Chapter Two (2019)
-    *   Ad Astra
     *   Judy (2019)
+    *   It Chapter Two (2019)
+    *   Jexi
+    *   Ad Astra
     *   Rambo: Last Blood
-    *   War (2019)
-    *   Good Boys (2019)
-    *   My People, My Country
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   The Addams Family (2019)
-    *   Gemini Man
-    *   Jexi
-    *   The Dead Center
-    *   Gift (2019)
-    *   High Strung Free Dance
-    *   Little Monsters (2019)
-    *   Parasite (2019)
+    *   Maleficent: Mistress of Evil
+    *   Zombieland: Double Tap
+    *   By the Grace of God
+    *   The Captain (2019)
+    *   Cyrano, My Love
+    *   Greener Grass (2019)
+    *   Jay &. Silent Bob Reboot
+    *   Jojo Rabbit
+    *   The Lighthouse (2019)
+    *   Serendipity (2019)
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Maleficent: Mistress of Evil
-    *   Zombieland: Double Tap
     *   Black and Blue (2019)
     *   Countdown (2019)
     *   The Current War: Director's Cut
@@ -41,6 +41,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Harriet (2019)
     *   Motherless Brooklyn
     *   Terminator: Dark Fate
+    *   Doctor Sleep
+    *   Last Christmas
+    *   Midway (2019)
     *   See All Coming Soon
     
     Explore More
@@ -70,7 +73,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   The Week in Movie News: ‘John Wick’ Spin-off Lands ‘Underworld’ Director, First ‘Jungle Cruise’ Trailer and More Read More
     *   Today in Movie Culture: ‘Joker’ Easter Eggs, Scene Breakdowns, Fan Art, Musical Tributes and More Read More
-    *   Next 3 DC Movies: 'Birds of Prey,' 'Wonder Woman 1984,' 'The Suicide Squad' Read More
+    *   Next 3 Major Awards Contenders: 'Jojo Rabbit,' 'The Irishman,' '1917' Read More
     
     Explore Content
     *   Movie Reviews
