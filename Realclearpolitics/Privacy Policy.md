@@ -116,53 +116,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Byron York_: Democrats Ratchet Up Impeachment Secrecy
+*   _Jackson Diehl_: Trump's 'America First' Agenda Crumbles
     
-*   _Amy  Sorkin_: Will Republicans Challenge Trump on Impeachment?
+*   _Kurt Schlichter_: Media, DC Pols Are Totally Out of Touch on Foreign Policy
     
-*   _James Jay Carafano_: In Syria, Spotlight Should Be on Turkey, Not Trump
+*   _Gabriel DeBenedetti_: Pelosi's Game: Inside the Democrats' War Room
     
-*   _Chas Danner_: Trump-Blessed War in Northeastern Syria Is a Disaster
+*   _Andy Puzder_: Why Dems Keep Falling for Bogus Claims About Trump
     
-*   _David Goldman_: U.S.-China Trade Truce May Secure Trump's Re-Election
+*   _Nate Silver_: Warren's Rise Hasn't Come at Biden's Expense
     
-*   _Art Cullen_: Trump's Troubles in Iowa Could Spell Doom for Republicans
+*   _Greg Orman_: Debaters Should Press Biden on Killing '07 Immigration Reform
     
-*   _Justin Haskins_: Warren Supports New AOC Plan That Would Destroy Economy
+*   _Larry Elder_: The Rise of Young Black Conservatives
     
-*   _Shaun Richman_: The Powerful New Idea in Warren's Labor Platform
+*   _Russell Berman_: Can Democrats Turn Virginia Into an All-Blue State?
     
-*   _Andrew Klavan_: Leftists Hate 'Joker' Because Joker Is the Left
+*   _Jeanne Allen_: The District of Columbus Cancels Columbus Day
     
-*   _Derek Robertson_: The NBA Hasn't Changed. We Have.
+*   _Samantha Vinograd_: This Is Just the Tip of the Impeachment Inquiry Iceberg
     
-*   _Marik von Rennenkampff_: 3 Reasons to Investigate U.S. Navy UFO Incidents
+*   _Chrissy Clark_: CNN Whistleblower Reveals Network 'Vendetta' vs. Trump
     
-*   _Dana Milbank_: Donald Trump, Corrupted Absolutely
+*   _Michael Goodwin_: The Terrifying Madness of Dems' Impeachment Game
     
-*   _Kimberly Strassel_: Whistleblowers and the Real Deep State
+*   _Juan Williams_: Trump, the Conspiracy Theory President
     
-*   _Barbara McQuade_: Trump's Strategy: Trick Public Into Blaming Congress
+*   _Matt Taibbi_: We're in a Permanent Coup
     
-*   _Jonathan Turley_: Why Won't the Media Talk About Biden Family Dealings?
+*   _Fareed Zakaria_: Why I Support House Dems' Impeachment Inquiry
     
-*   _Robert Reich_: Under Trump, Thuggery Has Replaced Diplomacy
+*   _Frank Miele_: Trump Defends Due Process From Congressional Usurpation
     
-*   _Roger Kimball_: Trump's Foreign Policy Deals Properly With Tyrants
+*   _Marc Caputo_: How Giuliani's Bungling Gives Biden a New Punchline
     
-*   _Christopher Hill_: Trump's Ongoing Failure With North Korea Talks
+*   _Domenico Montanaro_: 7 Questions Ahead of Next Democratic Primary Debate
     
-*   _Matthew Continetti_: America Is Exceptional, But Our Elites Are Not
+*   _Steve Cortes_: LGBTQ Town Hall Showcased Democratic Extremism
     
-*   _Harry Enten_: Why It's Biden, Warren, and Then Everybody Else
+*   _Nicholas Kristof_: Should We Soak the Rich? You Bet We Should.
     
-*   _Michael Barone_: Dem Troubles Leave Opening for New 2020 Candidate
+*   _Tom Coburn_: Why Price Transparency Can Revolutionize Health Care
     
-*   _Jordan Weissmann_: O'Rourke Becoming a Human Straw Man for Conservatives
+*   _Bill Scher_: Why the 'Medicare for All' Tax Question Matters
     
-*   _John Hayward_: Dems' LGBT Town Hall Filled With Vows to Shred Constitution
+*   _Patrick Cronin_: U.S.-China Trade Deal: What It Is, Is Not, and May Become
     
-*   _Mark Bowden_: Top Military Officers Unload on Trump
+*   _Sirey &. Vivolo_: Stop Scapegoating Christopher Columbus
     
 
 *   Previous
@@ -233,11 +233,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   After Static Summer, Democratic Race Enters a Chaotic Fall
+*   Smith: Ukraine Ground Zero for Russia Collusion Hoax
+*   Brzezinski: Democratic Party Has a Problem About Who Can Beat Trump
 *   Watchdog Complaint Cites Dark-Money Group Targeting Collins
 *   Trump Gets Personal in Minn., Rips Bidens, Omar, Springsteen
-*   Scarborough: We Won't Show Trump Rally, He Is Clearly Not Well
-*   Warren's Transgender Inmate Stance Counters Her 2012 Position
-*   Rubio to Trump: Punch Back on China's NBA Boycott
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -250,70 +250,48 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Iowa Democratic Presidential CaucusCBS News/YouGov
-    *   Warren22
-    *   Biden22
-    *   Sanders21
-    *   Buttigieg14
-    *   Harris5
-    *   Klobuchar2
-    *   Steyer3
-    *   Booker2
-    *   Gabbard1
-    *   O'Rourke2
-    *   Yang0
-    *   Williamson1
-    *   Ryan1Tie
-*   New Hampshire Democratic Presidential PrimaryCBS News/YouGov
-    *   Warren32
-    *   Biden24
-    *   Sanders17
-    *   Buttigieg7
+*   2020 Democratic Presidential NominationQuinnipiac
+    *   Biden27
+    *   Warren30
+    *   Sanders11
+    *   Buttigieg8
     *   Harris4
-    *   Yang5
-    *   Steyer4
-    *   Gabbard2
-    *   Klobuchar2
-    *   Booker1
-    *   O'Rourke1
-    *   Ryan1
-    *   Williamson0Warren +8
-*   South Carolina Democratic Presidential PrimaryCBS News/YouGov
-    *   Biden43
-    *   Warren18
-    *   Sanders16
-    *   Harris7
-    *   Buttigieg4
-    *   Booker3
-    *   Steyer2
-    *   O'Rourke1
-    *   Yang1
-    *   Bennet1
-    *   Williamson1
-    *   Klobuchar1
-    *   Gabbard0Biden +25
-*   2020 Democratic Presidential NominationFOX News
-    *   Biden32
-    *   Warren22
-    *   Sanders17
-    *   Buttigieg4
-    *   Harris5
+    *   O'Rourke2
     *   Yang2
-    *   O'Rourke3
     *   Booker2
     *   Klobuchar2
+    *   Steyer2
     *   Castro1
-    *   Gabbard1
+    *   Bennet1
+    *   Gabbard0Warren +3
+*   New Hampshire Democratic Presidential PrimaryBoston Herald/FPU
+    *   Warren25
+    *   Biden24
+    *   Sanders22
+    *   Buttigieg9
+    *   Harris5
+    *   Yang1
+    *   Klobuchar2
     *   Steyer1
-    *   Williamson1Biden +10
+    *   Gabbard1
+    *   Booker2
+    *   O'Rourke0
+    *   Ryan
+    *   Williamson0Warren +1
+*   President Trump Job ApprovalQuinnipiac
+    *   Approve41
+    *   Disapprove54Disapprove +13
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve49
+    *   Disapprove50Disapprove +1
 
 More Latest Polls In The News
 
-*   Sanders: Warren Considers Herself "A Capitalist Through Her Bones," "We Need Real Change In This Country"
+*   Donaldson: "Ignorant" Trump Core Supporters Only 30% Of Population, "Don't Care About The Facts"
+*   Hemingway: Grotesque Overrepresentation For Interventionist Mideast Policy In Our Pundit Class
+*   CNN Interviews FL Trump Voters: On Camera, No One Supported Impeachment. Off Camera, They Did
 *   Zeldin: Schiff Is "Cherry-Picking Leaks... Withholding Facts... Just Outright Lying" About Trump
-*   Schiff: "There Doesn't Need To Be A Quid Pro Quo" For Ukraine Call To Be An Impeachable Offense
 *   Buttigieg: Hunter Biden Is Being Held To A "Radically Different Standard" Than Trump Family
-*   CNN Wisconsin Focus Group Of Independent Voters: Not A Single Person Said They Will Vote For Trump
 
 *   Politics
 *   Policy
