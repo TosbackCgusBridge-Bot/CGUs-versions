@@ -21,22 +21,43 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBack50% OFFHANDBAGS &. WALLETSselect styles | reg. $35-$85BUY 1, GET 2 FREE\*BOOTS FOR THE FAMILYIn store &. online, ends 10/16 | select styles | reg. $40-$11040% OFF MATCHING FAMILY PAJAMASselect styles | **sale $7.20-$30** | reg. $12-$50 25+ family pajama styles online!
-
-*   SHOP ALL
-
-UP TO 60% OFFFURNITURE &. MATTRESSES+ EXTRA 10% off with code | select styles
+Near YouFind a StoreBackUP TO 60% OFFFURNITURE &. MATTRESSES+ EXTRA 10% off with code | select styles
 
 *   FURNITURE
 *   MATTRESSES
 
-GET DETAILSJCPenney is a proud supporterof American Cancer Society®UP TO 50% OFFHALLOWEEN DECORselect styles Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 21 total items loaded in Media GalleryFollow @jcpenney \*Buy one item at regular price, get the second and third items of equal or lesser value for free, while supplies last.Recommended for You
+UP TO 40-50% OFFTHE ART OF LAYERINGselect styles
+
+*   SHOP NOW
+
+*   MEN
+    
+*   WOMEN
+    
+*   WOMEN'S JACKETS
+    
+*   MEN'S JACKETS
+    
+*   BOYS
+    
+*   GIRLS
+    
+*   JEWELRY
+    
+*   ACCESSORIES
+    
+
+SHOP NOWOUTDOOR SHOPPlan your next great adventure withcasual, comfortable &. durable styles.
+
+*   SHOP ALL
+
+50% OFFHANDBAGS &. WALLETSselect styles | reg. $35-$85BUY 1, GET 2 FREE\*BOOTS FOR THE FAMILYIn store &. online, ends 10/16 | select styles | reg. $40-$110GET DETAILSJCPenney is a proud supporterof American Cancer Society®UP TO 50% OFFHALLOWEEN DECORselect styles Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 21 total items loaded in Media GalleryFollow @jcpenney \*Buy one item at regular price, get the second and third items of equal or lesser value for free, while supplies last.Recommended for You
 
 *   LIMITED TIME SPECIAL!
     
     $60
     
-    Arizona Womens Galen Block Heel Zip Booties(26)
+    Arizona Womens Galen Block Heel Zip Booties(27)
 *   $1199after couponwas $32 St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(4)
 *   LIMITED TIME SPECIAL!
     
