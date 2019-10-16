@@ -4,7 +4,7 @@ Lorsque vous utilisez nos services, vous nous faites confiance pour le traitemen
 
 Les présentes Règles de confidentialité visent à vous indiquer quelles informations nous collectons et pour quelle raison, ainsi que la façon de les mettre à jour, de les gérer, de les exporter et de les supprimer.
 
-À compter du 22 janvier 2019 | Versions archivées | Télécharger au format PDFSommaireIntroductionInformations collectées par GoogleRaisons pour lesquelles nous collectons des informationsVos paramètres de confidentialitéPartager vos informationsSécuriser vos informationsExporter et supprimer vos informationsConformité et coopération avec des organismes de réglementationÀ propos des présentes règlesPratiques similaires en matière de confidentialité
+À compter du 15 octobre 2019 | Versions archivées | Télécharger au format PDFSommaireIntroductionInformations collectées par GoogleRaisons pour lesquelles nous collectons des informationsVos paramètres de confidentialitéPartager vos informationsSécuriser vos informationsExporter et supprimer vos informationsConformité et coopération avec des organismes de réglementationÀ propos des présentes règlesPratiques similaires en matière de confidentialité
 
 Notre gamme de services permet tous les jours à des millions de personnes d'explorer le monde et d'interagir avec celui-ci de manière innovante. Voici certains des services que nous proposons :
 
@@ -165,7 +165,7 @@ Accédez aux recommandations partagées
 
 Données que vous partagez
 
-Contrôlez avec quelles personnes partager vos informations dans votre compte Google+.
+Si vous comptez parmi les utilisateurs de G Suite, contrôlez avec quelles personnes partager vos informations dans votre compte Google+.
 
 Accéder à la section "Données que vous partagez"
 
@@ -221,7 +221,7 @@ Partager vos informationsLorsque vous partagez vos informations
 
 De nombreux services Google vous permettent de partager vos informations avec d'autres personnes et de contrôler la façon dont elles le sont. Par exemple, vous pouvez partager des vidéos sur YouTube publiquement ou faire en sorte qu'elles restent privées. Gardez à l'esprit que si vous partagez des informations publiquement, votre contenu peut devenir accessible via des moteurs de recherche, dont la recherche Google.
 
-Lorsque vous êtes connecté à votre compte et que vous interagissez avec des services Google (lorsque vous rédigez un commentaire en lien avec une vidéo YouTube ou un avis en lien avec une chanson sur Google Play, par exemple), votre nom et votre photo apparaissent à côté de votre activité. Nous sommes également susceptibles d'afficher ces informations dans des annonces, en fonction des paramètres de recommandations partagées que vous avez définis.
+Lorsque vous êtes connecté à votre compte et que vous interagissez avec des services Google (lorsque vous rédigez un commentaire sur une vidéo YouTube ou un avis sur une application sur Google Play, par exemple), votre nom et votre photo apparaissent à côté de votre activité. Nous sommes également susceptibles d'afficher ces informations dans des annonces, en fonction des paramètres de recommandations partagées que vous avez définis.
 
 Lorsque Google partage vos informations
 
@@ -289,9 +289,18 @@ Les options suivantes s'offrent à vous si vous souhaitez supprimer vos informat
 
 Supprimer vos informations
 
-Dans certains cas, nous conservons des informations pendant une période limitée si elles doivent l'être à des fins commerciales légitimes ou si la loi nous l'impose. Pour en savoir plus sur les durées de conservation des données de Google, y compris sur le temps nécessaire à la suppression de vos informations, cliquez ici.
+Conservation de vos informations
 
-Nous prenons toutes les dispositions nécessaires pour que nos services protègent les informations contre toute destruction accidentelle ou volontaire. Par conséquent, il est possible de constater un certain retard entre le moment où vous supprimez un élément et celui où les copies de l'élément en question sont supprimées de nos systèmes actifs et de sauvegarde.
+Nous conservons les données que nous recueillons pour des périodes plus ou moins longues en fonction de leur nature, de l'utilisation que nous en faisons et des paramètres que vous avez configurés :
+
+*   Vous pouvez supprimer certaines données à tout moment, telles que les contenus que vous créez ou importez. Vous pouvez aussi supprimer les informations relatives à votre activité qui sont enregistrées dans votre compte, ou faire en sorte qu'elles soient supprimées automatiquement après une période donnée.
+*   D'autres données, telles que les données publicitaires dans les journaux de nos serveurs, sont automatiquement supprimées ou anonymisées selon un calendrier défini.
+*   Nous conservons certaines données jusqu'à ce que vous les supprimiez de votre compte Google (par exemple, les informations sur la fréquence à laquelle vous utilisez nos services).
+*   Nous conservons également certaines données plus longtemps si nécessaire, à des fins commerciales légitimes ou si la loi nous l'impose (que ce soit à des fins de sécurité, d'archivage de données financières, ou de prévention de la fraude et des abus).
+
+Lorsque vous supprimez des informations, nous appliquons un règlement spécifique de manière qu'elles soient supprimées de nos serveurs de façon complète et sécurisée, ou conservées après avoir été rendues anonymes. Nous prenons toutes les dispositions nécessaires pour que nos services protègent les informations contre toute destruction accidentelle ou volontaire. Il se peut de ce fait que vous constatiez un certain délai entre le moment où vous supprimez un élément et celui où les copies de l'élément en question sont supprimées de nos systèmes actifs et de sauvegarde.
+
+Pour en savoir plus sur les durées de conservation des données de Google, y compris sur le temps nécessaire à la suppression de vos informations, cliquez ici.
 
 Conformité et coopération avec des organismes de réglementation
 
@@ -313,7 +322,7 @@ Nous traitons vos informations aux fins décrites dans les présentes règles et
 
 Avec votre consentement
 
-Nous vous demandons l'autorisation de traiter vos informations à des fins spécifiques, et vous êtes libre de revenir sur votre consentement à tout moment. Par exemple, nous vous demandons l'autorisation de vous fournir des services personnalisés, tels que des annonces. Nous vous demandons également l'autorisation de collecter votre activité audio et vocale à des fins de reconnaissance vocale. Vous pouvez gérer ces paramètres dans votre compte Google.
+Nous vous demandons l'autorisation de traiter vos informations à des fins spécifiques, et vous êtes libre de revenir sur votre consentement à tout moment. Par exemple, nous demandons votre autorisation pour vous proposer des services personnalisés, tels que des annonces par centres d'intérêt. Nous vous demandons également l'autorisation de collecter les informations concernant votre activité audio et vocale pour améliorer la reconnaissance vocale. Vous pouvez gérer ces paramètres dans votre compte Google.
 
 Lorsque nous défendons des intérêts légitimes
 
@@ -324,7 +333,7 @@ Nous traitons vos informations conformément à nos intérêts légitimes, ainsi
 *   Comprendre la façon dont nos services sont utilisés afin d'en assurer et d'en améliorer les performances.
 *   Personnaliser nos services afin d'offrir une meilleure expérience utilisateur.
 *   Mener des actions de marketing en vue de faire connaître nos services auprès des utilisateurs.
-*   Avoir recours à la publicité afin de rendre un grand nombre de nos services disponibles gratuitement pour les utilisateurs.
+*   Avoir recours à la publicité, ce qui permet de maintenir la gratuité de bon nombre de nos services (et lorsque les annonces sont personnalisées, nous vous demandons votre autorisation)
 *   Déceler, éviter ou traiter des activités frauduleuses, des abus, des atteintes à la sécurité ou tout problème d'ordre technique rencontré par nos services.
 *   Nous nous prémunissons contre toute atteinte aux droits, aux biens ou à la sécurité de Google, ainsi qu'à ceux de nos utilisateurs ou du public, en application et dans le respect de la loi. Nous pouvons par exemple divulguer des informations aux organismes gouvernementaux.
 *   Effectuer des recherches qui améliorent nos services pour nos utilisateurs et profitent au public.
@@ -366,6 +375,7 @@ Les avis de confidentialité suivants fournissent des informations supplémentai
 *   G Suite pour l'éducation
 *   YouTube Kids
 *   Comptes Google gérés avec Family Link, pour les enfants de moins de 13 ans (ou l'âge légal de consentement dans votre pays)
+*   Collecte des données vocales et audio issues des fonctionnalités pour enfants sur l'Assistant Google
 
 Autres ressources utiles
 
