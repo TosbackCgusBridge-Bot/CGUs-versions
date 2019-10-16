@@ -60,7 +60,7 @@ SUBSCRIBE NOW$5 for 3 months. Save 83%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowMicrosoft announces $1.5M cross-border projectNewsRobbery suspect shot by El Paso policeCrimeEl Paso athletes shine in collegeSportsUTEP men sprint past Texas TechCollegeUTEP sends expectations soaring against TechCollegeRookie police officer on leave after teen's shootingCrimeMartha Stewart has L&J Cafe's chicken enchiladasEntertainmentPolice seek man who shot girl in East El PasoCrimeHave you seen this week's most wanted fugitives?CrimeHigh school football: Get live updates, scoresHigh-schoolHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowMicrosoft announces $1.5M cross-border projectNewsMayor: City Council cannot act on Sam Morgan yetNewsSun Metro facility named for mass shooting victimNewsDem debate: Castro, O'Rourke aim to break outPoliticsRookie police officer on leave after teen's shootingCrimeHere are proposed Texas constitutional amendmentsPoliticsWhat to know ahead of Trump's rally in DallasPoliticsPedestrian killed Monday night in the Lower ValleyLocalRobbery suspect shot by El Paso policeCrimeEl Paso athletes shine in collegeSportsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
