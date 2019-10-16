@@ -1,4 +1,4 @@
-POPSUGAR Privacy Policy May 24, 2018
+POPSUGAR Privacy Policy
 
 **Effective Date: September 12, 2019**
 
