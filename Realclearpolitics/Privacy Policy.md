@@ -116,53 +116,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Jackson Diehl_: Trump's 'America First' Agenda Crumbles
+*   _Jason Williams_: In OH's Trump Country, Honest People Have Hope Again
     
-*   _Kurt Schlichter_: Media, DC Pols Are Totally Out of Touch on Foreign Policy
+*   _Erin McPike_: Calling All Ohioans: Don't Forfeit Swing-State Status
     
-*   _Gabriel DeBenedetti_: Pelosi's Game: Inside the Democrats' War Room
+*   _Scott Jennings_: Dems Want to Close Your Churches &. Hike Your Taxes
     
-*   _Andy Puzder_: Why Dems Keep Falling for Bogus Claims About Trump
+*   _Fatima Goss Graves_: 3 Questions Every Candidate Should Answer at the Debate
     
-*   _Nate Silver_: Warren's Rise Hasn't Come at Biden's Expense
+*   _Nolan Finley_: Ask Joe Biden About Hunter's Conflicts
     
-*   _Greg Orman_: Debaters Should Press Biden on Killing '07 Immigration Reform
+*   _Froma Harrop_: Sanders Still Sees Democrats as the Problem
     
-*   _Larry Elder_: The Rise of Young Black Conservatives
+*   _William Barr_: The Centrality of Religious Liberty in the United States
     
-*   _Russell Berman_: Can Democrats Turn Virginia Into an All-Blue State?
+*   _Greg Sargent_: Bolton’s Eruption Shows That Trump’s Defenses Are Collapsing
     
-*   _Jeanne Allen_: The District of Columbus Cancels Columbus Day
+*   _Adam Mill_: Ukraine: The Poorly Written Hoax Sequel
     
-*   _Samantha Vinograd_: This Is Just the Tip of the Impeachment Inquiry Iceberg
+*   _Shirley Ze Yu_: China Will Never Cede Control of Hong Kong
     
-*   _Chrissy Clark_: CNN Whistleblower Reveals Network 'Vendetta' vs. Trump
+*   _Ben Domenech_: Three Days Among the Hong Kong Freedom Protesters
     
-*   _Michael Goodwin_: The Terrifying Madness of Dems' Impeachment Game
+*   _Jim Newell_: Tonight's Debate Has Two Front-Runners, and Lots of Also-Rans
     
-*   _Juan Williams_: Trump, the Conspiracy Theory President
+*   _Newt Gingrich_: Five Questions Democrats Need to Be Asked Tonight
     
-*   _Matt Taibbi_: We're in a Permanent Coup
+*   _Nancy Cook_: Trump Leans Into Spurious Claims for Impeachment Defense
     
-*   _Fareed Zakaria_: Why I Support House Dems' Impeachment Inquiry
+*   _Kimberley Strassel_: Democracy Dies in Bias--How Did Journalism Get Here?
     
-*   _Frank Miele_: Trump Defends Due Process From Congressional Usurpation
+*   _Matt Taibbi_: The Biden Paradox: Should Dems Be All In or All Out?
     
-*   _Marc Caputo_: How Giuliani's Bungling Gives Biden a New Punchline
+*   _James Freeman_: The Bidens Concede
     
-*   _Domenico Montanaro_: 7 Questions Ahead of Next Democratic Primary Debate
+*   _Brian Schwartz_: As Biden Campaign Struggles, Bloomberg Eyes Jumping In
     
-*   _Steve Cortes_: LGBTQ Town Hall Showcased Democratic Extremism
+*   _Charles Lipson_: What Pelosi Really Wants From Impeachment
     
-*   _Nicholas Kristof_: Should We Soak the Rich? You Bet We Should.
+*   _Ron Brownstein_: Trump May Be First Impeached President to Seek Re-Election
     
-*   _Tom Coburn_: Why Price Transparency Can Revolutionize Health Care
+*   _Liz Peek_: Democrats' 'Hating Trump' Platform a Sure Loser
     
-*   _Bill Scher_: Why the 'Medicare for All' Tax Question Matters
+*   _Brendan Flanagan_: Enough Is Enough: Tariffs Are Damaging Ohio's Economy
     
-*   _Patrick Cronin_: U.S.-China Trade Deal: What It Is, Is Not, and May Become
+*   _Stephen Moore_: It's a Middle Class Boom
     
-*   _Sirey &. Vivolo_: Stop Scapegoating Christopher Columbus
+*   _Tom McTague_: Is Boris Johnson Actually Winning?
     
 
 *   Previous
@@ -233,11 +233,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   After Static Summer, Democratic Race Enters a Chaotic Fall
+*   6 Questions Looming Over the Crowded Democratic Debate
+*   Cruz: Admin Should Release the Transcripts of Biden's Ukraine Calls
+*   Hunter Biden Hits Back at Trump, Defends Father's VP Dealings
 *   Smith: Ukraine Ground Zero for Russia Collusion Hoax
-*   Brzezinski: Democratic Party Has a Problem About Who Can Beat Trump
 *   Watchdog Complaint Cites Dark-Money Group Targeting Collins
-*   Trump Gets Personal in Minn., Rips Bidens, Omar, Springsteen
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -250,48 +250,56 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationQuinnipiac
-    *   Biden27
-    *   Warren30
-    *   Sanders11
-    *   Buttigieg8
+*   Maine Democratic Presidential PrimaryPPP (D)
+    *   Warren31
+    *   Biden19
+    *   Sanders12
+    *   Buttigieg9
     *   Harris4
+    *   Yang3
+    *   Booker2
+    *   O'Rourke1
+    *   Castro1
+    *   Ryan
+    *   Williamson
+    *   BennetWarren +12
+*   South Carolina Democratic Presidential PrimaryGravis
+    *   Biden34
+    *   Warren9
+    *   Sanders10
+    *   Harris4
+    *   Buttigieg0
+    *   Booker6
+    *   Steyer7
     *   O'Rourke2
     *   Yang2
-    *   Booker2
     *   Klobuchar2
-    *   Steyer2
-    *   Castro1
-    *   Bennet1
-    *   Gabbard0Warren +3
-*   New Hampshire Democratic Presidential PrimaryBoston Herald/FPU
-    *   Warren25
-    *   Biden24
-    *   Sanders22
-    *   Buttigieg9
-    *   Harris5
-    *   Yang1
-    *   Klobuchar2
-    *   Steyer1
+    *   Williamson1
     *   Gabbard1
-    *   Booker2
-    *   O'Rourke0
-    *   Ryan
-    *   Williamson0Warren +1
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve41
-    *   Disapprove54Disapprove +13
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve49
-    *   Disapprove50Disapprove +1
+    *   Castro1
+    *   Bennet0Biden +24
+*   New York Democratic Presidential PrimarySiena
+    *   Biden21
+    *   Warren21
+    *   Sanders16
+    *   Buttigieg4
+    *   Harris4
+    *   Yang3
+    *   O'Rourke1
+    *   Booker1
+    *   Klobuchar1
+    *   Gabbard0Tie
+*   Maine: Trump vs. BidenPPP (D)
+    *   Biden54
+    *   Trump42Biden +12
 
 More Latest Polls In The News
 
-*   Donaldson: "Ignorant" Trump Core Supporters Only 30% Of Population, "Don't Care About The Facts"
-*   Hemingway: Grotesque Overrepresentation For Interventionist Mideast Policy In Our Pundit Class
-*   CNN Interviews FL Trump Voters: On Camera, No One Supported Impeachment. Off Camera, They Did
-*   Zeldin: Schiff Is "Cherry-Picking Leaks... Withholding Facts... Just Outright Lying" About Trump
-*   Buttigieg: Hunter Biden Is Being Held To A "Radically Different Standard" Than Trump Family
+*   Biden: "My Son Did Nothing Wrong, I Did Nothing Wrong," We Should Focus On Trump's Corruption
+*   Buttigieg vs. Gabbard: You Want To Continue To Have Us Involved In Endless Regime Change Wars?
+*   Kamala Harris to Warren: I Urge You To Join Me To Call On Twitter To Ban Trump's Account, Why Won't You?
+*   Buttigieg vs. Beto O'Rourke on Guns: "I Don't Need Lessons From You On Courage, Political Or Personal"
+*   Sanders: Turkey Is No Longer A U.S. Ally, Who Would Trust U.S. After Trump Betrayed The Kurds?
 
 *   Politics
 *   Policy
