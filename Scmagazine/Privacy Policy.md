@@ -364,23 +364,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Feds to boost scrutiny of airliner cybersecurity vulnerabilities
-    *   Diplomats used WhatsApp, personal phones to discuss Ukraine policy
-    *   SC Media's 30th anniversary Q&A: Nathan Wenzler
-    *   Microsoft repairs 59 software bugs on a 'quiet' Patch Tuesday
-    *   Apple update takes a bite of iCloud, iTunes and macOS bugs
-    
-    *   Data on 92M Brazilians found for sale on underground forums
-    *   SC Media's 30th anniversary Q&A: Nathan Wenzler
-    *   Kernel privilege escalation bug actively exploited in Android devices
-    *   WhatsApp bug allows access to content, users should update
+    *   Dems' SHIELD Act would protect elections, close loopholes on foreign spending
+    *   Cisco's latest round of updates address bugs in security products
+    *   Hy-Vee details 2019 POS data breach incident
+    *   Mississippi gov't agencies fall short of cybersecurity compliance standards
     *   Securing the increasingly complex end user computing landscape
     
-    *   Malware takes down some Pitney Bowes systems
-    *   Mississippi gov't agencies fall short of cybersecurity compliance standards
-    *   Stratfor hacker Hammond held in contempt for refusing to answer grand jury questions
-    *   McAleenan out at DHS
-    *   Report: Hacker steals Dutch prostitution forum data
+    *   Former Yahoo! engineer pleads guilty to using access to nick pics of women
+    *   CyberRisk Alliance appoints Malcolm Harkins to its board
+    *   Microsoft revises and re-releases patch for exploited Internet Explorer bug
+    *   DCH Health System pays ransomware attackers in bid to restore operations
+    *   Hy-Vee details 2019 POS data breach incident
+    
+    *   Major software vendor compromised with previously undocumented PortReuse backdoor
+    *   Pentagon 'Hack the Proxy' program uncovers 31 vulnerabilities, one critical
+    *   iBoss names DeWalt to board
+    *   Fake company pushes phony cryptocurrency app to spread Mac malware
+    *   Adobe patches 81 vulnerabilities for four products
 
 Back to Top
 
