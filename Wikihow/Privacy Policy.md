@@ -3,7 +3,7 @@ wikiHow:Terms of Use
 At wikiHow, our mission is to empower every person on the planet to learn how to do anything. We do this by collaborating to create the world’s most helpful instructions. Before you read our detailed, legally binding Terms of Use, here is a non-legalese summary of some key information about reading or contributing to wikiHow:
 
 1.  You continue to own the copyrights of the content you submit to wikiHow. That said, by posting your content on wikiHow you give us multiple rights to use and change it (see “User Content License Grants” below for details).
-2.  Our editor community (as opposed to the lawyers who wrote the terms of service below) have developed many policies about what we want and don’t want on wikiHow. You can read details about the writing we do want at our Writer's Guide and what we don’t want at our Deletion Policy.
+2.  Our community of editors (as opposed to the lawyers who wrote the terms of service below) has developed detailed guidelines about how to contribute to wikiHow. You can learn more by reading our Writer's Guide.
 3.  We license all User Content text on wikiHow under a Creative Commons license. Read more here. If you want to republish wikiHow content under the terms of this license please follow our attribution guidelines.
 4.  We release most of our software under an Open Source license. You can learn more and get a copy of the code here.
 5.  We value your privacy. Read more at our Privacy Policy and Cookie Policy.
