@@ -4,7 +4,7 @@ When you use our services, you’re trusting us with your information. We unders
 
 This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, export, and delete your information.
 
-Effective January 22, 2019 | Archived versions | Download PDFContentsIntroductionInformation Google collectsWhy Google collects dataYour privacy controlsSharing your informationKeeping your information secureExporting &. deleting your informationCompliance &. cooperation with regulatorsAbout this policyRelated privacy practices
+Effective October 15, 2019 | Archived versions | Download PDFContentsIntroductionInformation Google collectsWhy Google collects dataYour privacy controlsSharing your informationKeeping your information secureExporting &. deleting your informationCompliance &. cooperation with regulatorsAbout this policyRelated privacy practices
 
 We build a range of services that help millions of people daily to explore and interact with the world in new ways. Our services include:
 
@@ -165,7 +165,7 @@ Go to Shared Endorsements
 
 Information you share
 
-Control whom you share information with through your account on Google+.
+If you’re a G Suite user, control whom you share information with through your account on Google+.
 
 Go to Information You Share
 
@@ -221,7 +221,7 @@ Sharing your informationWhen you share your information
 
 Many of our services let you share information with other people, and you have control over how you share. For example, you can share videos on YouTube publicly or you can decide to keep your videos private. Remember, when you share information publicly, your content may become accessible through search engines, including Google Search.
 
-When you’re signed in and interact with some Google services, like leaving comments on a YouTube video or reviewing a song in Play, your name and photo appear next to your activity. We may also display this information in ads depending on your Shared endorsements setting.
+When you’re signed in and interact with some Google services, like leaving comments on a YouTube video or reviewing an app in Play, your name and photo appear next to your activity. We may also display this information in ads depending on your Shared endorsements setting.
 
 When Google shares your information
 
@@ -289,9 +289,18 @@ To delete your information, you can:
 
 Delete your information
 
-In some cases, we retain data for limited periods when it needs to be kept for legitimate business or legal purposes. You can read about Google’s data retention periods, including how long it takes us to delete your information.
+Retaining your information
 
-We try to ensure that our services protect information from accidental or malicious deletion. Because of this, there may be delays between when you delete something and when copies are deleted from our active and backup systems.
+We retain the data we collect for different periods of time depending on what it is, how we use it, and how you configure your settings:
+
+*   Some data you can delete whenever you like, such as the content you create or upload. You can also delete activity information saved in your account, or choose to have it deleted automatically after a set period of time.
+*   Other data is deleted or anonymized automatically after a set period of time, such as advertising data in server logs.
+*   We keep some data until you delete your Google Account, such as information about how often you use our services.
+*   And some data we retain for longer periods of time when necessary for legitimate business or legal purposes, such as security, fraud and abuse prevention, or financial record-keeping.
+
+When you delete data, we follow a deletion process to make sure that your data is safely and completely removed from our servers or retained only in anonymized form. We try to ensure that our services protect information from accidental or malicious deletion. Because of this, there may be delays between when you delete something and when copies are deleted from our active and backup systems.
+
+You can read more about Google’s data retention periods, including how long it takes us to delete your information.
 
 Compliance &. cooperation with regulators
 
@@ -313,7 +322,7 @@ We process your information for the purposes described in this policy, based on 
 
 With your consent
 
-We ask for your agreement to process your information for specific purposes and you have the right to withdraw your consent at any time. For example, we ask for your consent to provide you with personalized services like ads. We also ask for your consent to collect your voice and audio activity for speech recognition. You can manage these settings in your Google Account.
+We ask for your agreement to process your information for specific purposes and you have the right to withdraw your consent at any time. For example, we ask for your consent to provide you with personalized services, such as ads based on your interests. We also ask for your consent to collect your voice and audio activity for speech recognition. You can manage these settings in your Google Account.
 
 When we’re pursuing legitimate interests
 
@@ -324,7 +333,7 @@ We process your information for our legitimate interests and those of third part
 *   Understanding how people use our services to ensure and improve the performance of our services
 *   Customizing our services to provide you with a better user experience
 *   Marketing to inform users about our services
-*   Providing advertising to make many of our services freely available for users
+*   Providing advertising, which keeps many of our services free (and when ads are personalized, we ask for your consent)
 *   Detecting, preventing, or otherwise addressing fraud, abuse, security, or technical issues with our services
 *   Protecting against harm to the rights, property or safety of Google, our users, or the public as required or permitted by law, including disclosing information to government authorities
 *   Performing research that improves our services for our users and benefits the public
@@ -366,6 +375,7 @@ The following privacy notices provide additional information about some Google s
 *   G Suite for Education
 *   YouTube Kids
 *   Google Accounts Managed with Family Link, for Children under 13 (or applicable age in your country)
+*   Voice and Audio Collection from Children’s Features on the Google Assistant
 
 Other useful resources
 
