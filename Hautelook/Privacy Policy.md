@@ -9,7 +9,33 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
+    *   Ted Baker London Up to 55% Off
+    *   Ted Baker London Men Up to 70% Off
+    *   Ted Baker London Handbags Up to 50% Off
+    *   Ted Baker London Shoes
+    *   Ted Baker London Watches &. Accessories Up to 60% Off
+    *   Free Shipping: Holiday Kitchen Prep Up to 60% Off
+    *   Get Holiday Ready: Bakeware Starting at $10
+    *   Free Shipping: Charming Wall Decor &. More
+    *   Free Shipping: Cozy Pet Beds &. Covers
+    *   Ted Baker London Home Up to 40% Off
+    *   Date Night Checklist: Naked Wardrobe &. More
+    *   ECCO Men
+    *   Amanda &. Chelsea Incl. Plus and Petites
+    *   Sheath &. Shift Dresses Under $50
+    *   Full-Fit Bras &. More ft. Elomi
+    *   On Point: Shoes ft. Jessica Simpson
+    *   Night Out: Party Shoes Up to 60% Off
+    *   Cold Front: Active Styles Up to 65% Off Incl. Plus
+    *   Unsimply Stitched Starting at $12
+    *   Halloween-Inspired Makeup to Complete Your Look
+    *   Men's Grooming &. Skin Care Starting at $10
+    *   Habitual Kids
+    *   OshKosh Up to 55% Off
+    *   Nicole Miller Baby &. Girls
+    *   14K Gold Jewelry &. More Up to 80% Off
     *   IPPOLITA Jewelry
+    
     *   Catherine Catherine Malandrino Incl. Plus &. Petites
     *   Kiehl's Since 1851
     *   Tularosa &. More Up to 65% Off
@@ -23,85 +49,61 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Tommy Hilfiger Lounge &. Lingerie Under $30
     *   PUR Cosmetics
     *   Free Shipping: Decorative Pillows &. Throws
-    *   14K Gold Jewelry &. More Up to 80% Off
-    *   Samsonite Luggage
     *   Moon and Jai Crystals &. Ritual Kits
     *   Komar Sleep &. More Starting at $12
     *   Converse Kids
     *   Sleek Men's Sneakers Up to 60% Off
     *   Men's Fall Basics: Henleys &. Tees
     *   Thorogood
-    *   Men's Premium Denim ft. Hudson Jeans
     *   Free Shipping: Bedding Steals Up to 65% Off
-    *   Sunday Steals Up to 80% Off
     *   Sunday Steals: Shoes Up to 65% Off
     *   Vintage Addiction Up to 80% Off
     *   Men's Shoe Steals Up to 65% Off
-    *   Hobo Handbags Up to 50% Off
     *   Samuel B Jewelry
-    
-    *   In Cashmere Up to 65% Off
-    *   Cozy &. Chic: Sweater Dresses
-    *   Casual Pants Up to 65% Off
     *   Hair Care Essentials Starting at $10
-    *   Fall Favorites: Sweaters Under $40
     *   Tech Accessories ft. Cases &. Smart Watch Bands
-    *   PJ Couture Sleep Incl. Plus
-    *   Cozy Robes Up to 60% Off Incl. Plus
+    
     *   On Trend: Olivia Welles Jewelry Up to 75% Off
-    *   Sofft
     *   Graphic Tees Under $15
-    *   Free Shipping: Home Organization from $11
     *   Nion Beauty Facial Brushes Up to 50% Off
     *   Oh, Baby: aden + anais &. More
     *   K-Beauty Skin Care ft. EVOLUE &. LUE by Jean Seo
     *   Kickoff to Christmas: Games, Dolls &. More
-    *   MOTHER Up to 60% Off
-    *   Parker Up to 85% Off
-    *   Made in Italy: Meshmerise Jewelry from $15
-    *   Step into Comfort: Shoes from $40
-    *   On the Bright Side: Bold Sweaters from $30
     *   Free Shipping: Chic Vanity Organizers
     *   Clarks Men
-    *   Lancaster Paris Bucket Bags &. More
-    *   Bulova &. Citizen Watches Up to 60% Off
-    *   Jealous Tomato &. More Under $45
-    *   Kenneth Cole Reaction Up to 50% Off
-    *   Sweet Dreams: Sleep Styles Under $30
     *   Julep Makeup Up to 55% Off
-    *   Fashion-Forward Sneakers from $30
-    
-    *   Fresh Finds: Shoes Up to 60% Off
     *   Hudson London Up to 55% Off
     *   Bean Body Organic Coffee Scrubs
-    *   CK Outerwear &. More Up to 65% Off
-    *   Tommy Hilfiger Suiting Up to 70% Off
-    *   Girls' Dresses ft. Laura Ashley &. More
-    *   Karl Lagerfeld Shoes Up to 70% Off
+    *   Luxe Skin Care ft. D24K
     *   Fall Steals: Vertigo &. More Up to 85% Off
     *   DR2 by Daniel Rainn &. Pleione Incl. Plus &. Petites
-    *   ECCO
-    *   Lacoste Men's Shoes
-    *   Perricone MD Up to 55% Off
-    *   NuFACE Facial Toning Devices
-    *   Aesthetica Cosmetics Starting at $10
+    *   Lorac Cosmetics Starting at $10
     *   Free Shipping: Winter-Themed Decor &. More
     *   Free Shipping: Duvets, Quilts &. More
     *   Free Shipping: Fashion &. Floral Art
     *   Free Shipping: Dreamy Bedding Up to 70% Off
-    *   Spellbinding Steals: Witch Figurines &. More
-    *   Mercedes Castillo
-    *   Skate Sneakers ft. Heelys
-    *   Luxe Skin Care ft. D24K
+    *   Samsonite Luggage
+    *   Lacoste Men's Shoes
+    *   On the Bright Side: Bold Sweaters from $30
+    *   Fall Favorites: Sweaters Under $40
+    *   Men's Premium Denim ft. Hudson Jeans
     *   PYT Hot Tools &. More Up to 90% Off
     *   Free Shipping: Holiday Decor from $20
-    *   Lorac Cosmetics Starting at $10
-    *   Autumn Accents: Decorative Pumpkins, Signs &. More
-    *   Fall Harvest: Charming Autumn Decor
-    *   Free Shipping: Fall &. Winter Decor Up to 50% Off
-    *   Happy Howloween: Pet Costumes &. More
 *   WomenShop Sale Events
     
+    *   Ted Baker London Up to 55% Off
+    *   Ted Baker London Handbags Up to 50% Off
+    *   Ted Baker London Shoes
+    *   Ted Baker London Watches &. Accessories Up to 60% Off
+    *   Date Night Checklist: Naked Wardrobe &. More
+    *   Amanda &. Chelsea Incl. Plus and Petites
+    *   Sheath &. Shift Dresses Under $50
+    *   Full-Fit Bras &. More ft. Elomi
+    *   On Point: Shoes ft. Jessica Simpson
+    *   Night Out: Party Shoes Up to 60% Off
+    *   Cold Front: Active Styles Up to 65% Off Incl. Plus
+    *   Halloween-Inspired Makeup to Complete Your Look
+    *   14K Gold Jewelry &. More Up to 80% Off
     *   IPPOLITA Jewelry
     *   Catherine Catherine Malandrino Incl. Plus &. Petites
     *   Kiehl's Since 1851
@@ -110,99 +112,74 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Trask
     *   The Fall Print Report: Camo, Houndstooth &. More
     *   Blu Pepper &. More Starting at $20
+    
     *   Thacker New York Bags
     *   Tommy Hilfiger Lounge &. Lingerie Under $30
     *   PUR Cosmetics
-    *   14K Gold Jewelry &. More Up to 80% Off
-    *   Samsonite Luggage
     *   Moon and Jai Crystals &. Ritual Kits
-    *   Sunday Steals Up to 80% Off
     *   Sunday Steals: Shoes Up to 65% Off
     *   Vintage Addiction Up to 80% Off
-    *   Hobo Handbags Up to 50% Off
     *   Samuel B Jewelry
-    *   In Cashmere Up to 65% Off
-    *   Cozy &. Chic: Sweater Dresses
-    *   Casual Pants Up to 65% Off
     *   Hair Care Essentials Starting at $10
-    *   Fall Favorites: Sweaters Under $40
-    *   PJ Couture Sleep Incl. Plus
-    *   Cozy Robes Up to 60% Off Incl. Plus
     *   On Trend: Olivia Welles Jewelry Up to 75% Off
-    *   Sofft
-    
     *   Nion Beauty Facial Brushes Up to 50% Off
     *   K-Beauty Skin Care ft. EVOLUE &. LUE by Jean Seo
-    *   MOTHER Up to 60% Off
-    *   Parker Up to 85% Off
-    *   Made in Italy: Meshmerise Jewelry from $15
-    *   Step into Comfort: Shoes from $40
-    *   On the Bright Side: Bold Sweaters from $30
-    *   Lancaster Paris Bucket Bags &. More
-    *   Bulova &. Citizen Watches Up to 60% Off
-    *   Jealous Tomato &. More Under $45
-    *   Kenneth Cole Reaction Up to 50% Off
-    *   Sweet Dreams: Sleep Styles Under $30
     *   Julep Makeup Up to 55% Off
-    *   Fashion-Forward Sneakers from $30
-    *   Fresh Finds: Shoes Up to 60% Off
     *   Bean Body Organic Coffee Scrubs
-    *   CK Outerwear &. More Up to 65% Off
+    *   Luxe Skin Care ft. D24K
     *   Fall Steals: Vertigo &. More Up to 85% Off
     *   DR2 by Daniel Rainn &. Pleione Incl. Plus &. Petites
-    *   ECCO
-    *   Perricone MD Up to 55% Off
-    *   NuFACE Facial Toning Devices
-    *   Aesthetica Cosmetics Starting at $10
-    *   Mercedes Castillo
-    *   Luxe Skin Care ft. D24K
-    *   PYT Hot Tools &. More Up to 90% Off
     *   Lorac Cosmetics Starting at $10
+    *   Samsonite Luggage
+    *   On the Bright Side: Bold Sweaters from $30
+    *   Fall Favorites: Sweaters Under $40
+    *   PYT Hot Tools &. More Up to 90% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Handbags
     *   Jewelry
+    *   Handbags
     *   Lingerie &. Shapewear
-    *   Watches
     *   Accessories
+    *   Watches
 *   MenShop Sale Events
     
-    *   Samsonite Luggage
+    *   Ted Baker London Men Up to 70% Off
+    *   ECCO Men
+    *   Unsimply Stitched Starting at $12
+    *   Men's Grooming &. Skin Care Starting at $10
     *   Sleek Men's Sneakers Up to 60% Off
     *   Men's Fall Basics: Henleys &. Tees
     *   Thorogood
-    *   Men's Premium Denim ft. Hudson Jeans
+    
     *   Men's Shoe Steals Up to 65% Off
     *   Graphic Tees Under $15
-    
     *   Clarks Men
-    *   Bulova &. Citizen Watches Up to 60% Off
     *   Hudson London Up to 55% Off
-    *   Tommy Hilfiger Suiting Up to 70% Off
-    *   Karl Lagerfeld Shoes Up to 70% Off
+    *   Samsonite Luggage
     *   Lacoste Men's Shoes
+    *   Men's Premium Denim ft. Hudson Jeans
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Watches
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Habitual Kids
+    *   OshKosh Up to 55% Off
+    *   Nicole Miller Baby &. Girls
     *   Koolaburra by UGG Kids
     *   Komar Sleep &. More Starting at $12
     *   Converse Kids
     *   Oh, Baby: aden + anais &. More
     *   Kickoff to Christmas: Games, Dolls &. More
-    *   Girls' Dresses ft. Laura Ashley &. More
-    *   Skate Sneakers ft. Heelys
     
     Shop By Category
-    *   Girls' Sizes 7-16
     *   Toy Shop
     *   Girls' Shoes
+    *   Girls' Sizes 7-16
     *   Girls' Sizes 2T-6X
     *   Boys' Shoes
     *   Baby Girl
@@ -212,53 +189,50 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Baby Boy
 *   HomeShop Sale Events
     
+    *   Free Shipping: Holiday Kitchen Prep Up to 60% Off
+    *   Get Holiday Ready: Bakeware Starting at $10
+    *   Free Shipping: Charming Wall Decor &. More
+    *   Free Shipping: Cozy Pet Beds &. Covers
+    *   Ted Baker London Home Up to 40% Off
     *   Free Shipping: Memory Foam &. Down Essentials
     *   Free Shipping: Decorative Pillows &. Throws
-    *   Samsonite Luggage
     *   Free Shipping: Bedding Steals Up to 65% Off
+    
     *   Tech Accessories ft. Cases &. Smart Watch Bands
-    *   Free Shipping: Home Organization from $11
     *   Free Shipping: Chic Vanity Organizers
     *   Free Shipping: Winter-Themed Decor &. More
     *   Free Shipping: Duvets, Quilts &. More
-    
     *   Free Shipping: Fashion &. Floral Art
     *   Free Shipping: Dreamy Bedding Up to 70% Off
-    *   Spellbinding Steals: Witch Figurines &. More
+    *   Samsonite Luggage
     *   Free Shipping: Holiday Decor from $20
-    *   Autumn Accents: Decorative Pumpkins, Signs &. More
-    *   Fall Harvest: Charming Autumn Decor
-    *   Free Shipping: Fall &. Winter Decor Up to 50% Off
-    *   Happy Howloween: Pet Costumes &. More
     
     Shop By Category
     *   Home Decor
     *   Bedding
-    *   Cleaning &. Organization
-    *   Pet Accessories
     *   Kitchen &. Tabletop
+    *   Pet Accessories
     *   Electronic &. Tech Accessories
-    *   Holiday Decorations
+    *   Cleaning &. Organization
     *   Luggage &. Travel
     *   Bath
-    *   Accent Furniture
+    *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   Halloween-Inspired Makeup to Complete Your Look
+    *   Men's Grooming &. Skin Care Starting at $10
     *   Kiehl's Since 1851
     *   PUR Cosmetics
     *   Moon and Jai Crystals &. Ritual Kits
     *   Hair Care Essentials Starting at $10
     *   Nion Beauty Facial Brushes Up to 50% Off
+    
     *   K-Beauty Skin Care ft. EVOLUE &. LUE by Jean Seo
     *   Julep Makeup Up to 55% Off
-    
     *   Bean Body Organic Coffee Scrubs
-    *   Perricone MD Up to 55% Off
-    *   NuFACE Facial Toning Devices
-    *   Aesthetica Cosmetics Starting at $10
     *   Luxe Skin Care ft. D24K
-    *   PYT Hot Tools &. More Up to 90% Off
     *   Lorac Cosmetics Starting at $10
+    *   PYT Hot Tools &. More Up to 90% Off
     
     Shop By Category
     *   Makeup
@@ -266,6 +240,7 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Hair Care
     *   Tools &. Accessories
     *   Bath &. Body
+    *   Nails
     *   Fragrance
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
