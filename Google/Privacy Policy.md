@@ -4,7 +4,7 @@ Wenn Sie unsere Dienste nutzen, vertrauen Sie uns Ihre Daten an. Wir sind uns be
 
 In dieser Datenschutzerklärung erfahren Sie, welche Daten von uns erhoben werden, welche Zwecke wir damit verfolgen und wie Sie Ihre Daten aktualisieren, verwalten, exportieren und löschen können.
 
-Wirksam ab dem 22. Januar 2019 | Archivierte Versionen | PDF herunterladenInhaltEinführungVon Google erhobene DatenGründe für die Datenerhebung durch GoogleDatenschutzeinstellungenDatenweitergabeGewährleistung der DatensicherheitLöschen und Exportieren Ihrer DatenCompliance und Zusammenarbeit mit RegierungsbehördenInformationen über diese DatenschutzerklärungWeitere Informationen zum Datenschutz
+Wirksam ab dem 15. Oktober 2019 | Archivierte Versionen | PDF herunterladenInhaltEinführungVon Google erhobene DatenGründe für die Datenerhebung durch GoogleDatenschutzeinstellungenDatenweitergabeGewährleistung der DatensicherheitLöschen und Exportieren Ihrer DatenCompliance und Zusammenarbeit mit RegierungsbehördenInformationen über diese DatenschutzerklärungWeitere Informationen zum Datenschutz
 
 Wir entwickeln eine Vielzahl von Diensten, die Millionen von Menschen Tag für Tag helfen, die Welt ganz neu zu entdecken und mit ihr zu interagieren. Zu unseren Diensten zählen:
 
@@ -165,7 +165,7 @@ Zu "Soziale Empfehlungen"
 
 Informationen, die Sie anderen mitteilen
 
-Über Ihr Google+ Konto können Sie festlegen, mit wem Sie Daten austauschen.
+Wenn Sie die G Suite nutzen, können Sie in Ihrem Konto festlegen, mit wem Sie Daten auf Google+ teilen.
 
 Zu den von Ihnen freigegebenen Daten
 
@@ -221,7 +221,7 @@ DatenweitergabeDatenweitergabe durch Sie
 
 In vielen unserer Dienste können Sie Daten mit anderen Personen teilen. Sie bestimmen in diesem Fall, wie dabei vorgegangen werden soll. Beispielsweise können Sie entscheiden, welche Ihrer Videos auf YouTube öffentlich geteilt werden und welche vertraulich bleiben sollen. Bedenken Sie, dass, wenn Sie Daten öffentlich teilen, Suchmaschinen, einschließlich der Google-Suche, möglicherweise auf diese Daten zugreifen können.
 
-Wenn Sie angemeldet sind und mit Google-Diensten interagieren, z. B. wenn Sie Kommentare zu einem YouTube-Video verfassen oder einen Song bei Play rezensieren, werden Ihr Name und Ihr Foto neben Ihrer Aktivität angezeigt. Diese Daten werden wir gegebenenfalls entsprechend Ihren Einstellungen für "Soziale Empfehlungen" auch in Werbeanzeigen veröffentlichen.
+Wenn Sie angemeldet sind und mit Google-Diensten interagieren, z. B. wenn Sie Kommentare zu einem YouTube-Video verfassen oder eine App bei Play rezensieren, werden Ihr Name und Ihr Foto neben Ihrer Aktivität angezeigt. Diese Daten werden wir gegebenenfalls entsprechend Ihren Einstellungen für "Soziale Empfehlungen" auch in Werbeanzeigen veröffentlichen.
 
 Datenweitergabe durch Google
 
@@ -289,9 +289,18 @@ Zum Löschen Ihrer Daten haben Sie folgende Möglichkeiten:
 
 Daten löschen
 
-In manchen Fällen behalten wir Daten für eine begrenzte Zeit zurück, wenn dies zu legitimen Geschäftszwecken oder aus rechtlichen Gründen nötig ist. Sie können über die Dauer der Datenspeicherung bei Google lesen, u. a. darüber wie lange es dauert, bis Ihre Daten gelöscht werden.
+Aufbewahrung Ihrer Informationen
 
-Wir bemühen uns, mithilfe unserer Dienste Daten vor dem irrtümlichen oder mutwilligen Löschen zu schützen. Aus diesem Grund kann es zwischen der von Ihnen durchgeführten Löschung von Inhalten und dem Zeitpunkt, zu dem Kopien aus unseren aktiven Systemen und Sicherungssystemen gelöscht werden, zu Verzögerungen kommen.
+Wir speichern erhobene Daten über verschiedene Zeiträume, abhängig davon, um welche Daten es sich handelt, wie wir sie nutzen und wie Sie Ihre Einstellungen konfigurieren:
+
+*   Einige Daten können Sie jederzeit löschen, beispielsweise selbst erstellte oder hochgeladene Inhalte. Darüber hinaus können Sie in Ihrem Konto gespeicherte Informationen zu Ihren Aktivitäten löschen oder festlegen, dass diese nach einer bestimmten Zeit automatisch gelöscht werden.
+*   Andere Daten werden nach einer bestimmten Zeit automatisch gelöscht oder anonymisiert, etwa Werbedaten in Serverprotokollen.
+*   Einige Daten, etwa dazu, wie oft Sie unsere Dienste nutzen, speichern wir, bis Sie Ihr Google-Konto löschen.
+*   Einige Daten speichern wir für längere Zeit, wenn dies aus legitimen geschäftlichen oder rechtlichen Gründen erforderlich ist. Diese Gründe können Sicherheit, Betrugs- und Missbrauchsabwehr oder eine Dokumentationspflicht im Finanzbereich sein.
+
+Wenn Sie Daten löschen, beginnen wir mit einem Datenlöschvorgang, um dafür zu sorgen, dass die Daten sicher und vollständig von unseren Servern entfernt werden oder nur in anonymisierter Form gespeichert bleiben. Wir bemühen uns, Daten mithilfe unserer Dienste davor zu schützen, irrtümlich oder mutwillig gelöscht zu werden. Aus diesem Grund kann es zwischen der von Ihnen durchgeführten Löschung von Inhalten und dem Zeitpunkt, zu dem Kopien aus unseren aktiven Systemen und Sicherungssystemen gelöscht werden, zu Verzögerungen kommen.
+
+Weitere Informationen zur Dauer der Datenspeicherung bei Google und Angaben dazu, wie lange es dauert, bis wir Ihre Informationen löschen, finden Sie hier.
 
 Compliance und Zusammenarbeit mit Regierungsbehörden
 
@@ -313,7 +322,7 @@ Wir verarbeiten Ihre Daten zu den in dieser Datenschutzerklärung beschriebenen 
 
 Mit Ihrer Einwilligung
 
-Wir ersuchen Sie um Ihre Einwilligung zur Verarbeitung Ihrer Daten für bestimmte Zwecke, und Sie haben das Recht, Ihre Einwilligung jederzeit zu widerrufen. Beispielsweise ersuchen wir Sie um Ihre Einwilligung, Ihnen personalisierte Dienste wie Werbeanzeigen bereitzustellen. Außerdem ersuchen wir Sie um Ihre Einwilligung, Ihre Stimme und Audioaktivitäten zu Zwecken der Spracherkennung erheben zu dürfen. Diese Einstellungen können Sie in Ihrem Google-Konto verwalten.
+Wir ersuchen Sie um Ihre Einwilligung zur Verarbeitung Ihrer Daten für bestimmte Zwecke und Sie haben das Recht, Ihre Einwilligung jederzeit zu widerrufen. Beispielsweise holen wir Ihre Einwilligung ein, um Ihnen personalisierte Dienste anbieten zu können, wie z. B. Werbung auf Grundlage Ihrer Interessen. Auch für die Erhebung Ihrer Sprach- und Audioaktivitäten zur Spracherkennung ist Ihre Einwilligung erforderlich. Diese Einstellungen können Sie in Ihrem Google-Konto verwalten.
 
 Aus berechtigten Interessen
 
@@ -324,7 +333,7 @@ Wir verarbeiten Ihre Daten, soweit wir oder Dritte ein berechtigtes Interessen d
 *   Einblicke darüber, wie Personen unsere Dienste nutzen, um die Leistung unserer Dienste zu gewährleisten und zu verbessern
 *   Personalisierung unserer Dienste, um Ihnen ein besseres Nutzererlebnis zu bieten
 *   Marketing, um Nutzer über unsere Dienste zu informieren
-*   Werbung, um viele unserer Dienste Nutzern kostenlos zur Verfügung stellen zu können
+*   Werbung, um viele unserer Dienste kostenlos zur Verfügung stellen zu können (bei personalisierter Werbung holen wir Ihre Einwilligung ein)
 *   Aufdecken, Verhindern oder anderweitiges Bekämpfen von Betrug, Sicherheitsmängeln oder technischen Problemen
 *   Schutz der Rechte, des Eigentums oder der Sicherheit von Google, unserer Nutzer oder der Öffentlichkeit vor Schaden, soweit dies gesetzlich zulässig oder erforderlich ist, einschließlich der Offenlegung von Informationen gegenüber Behörden
 *   Durchführen von Recherchen, mit der unsere Dienste für unsere Nutzer verbessert werden können und die für die Öffentlichkeit von Vorteil sind
@@ -366,6 +375,7 @@ Die folgenden Datenschutzhinweise bieten zusätzliche Informationen zu manchen G
 *   G Suite for Education
 *   YouTube Kids
 *   Mit Family Link verwaltete Google-Konten für Kinder unter 13 Jahren (in einigen Ländern gilt ein anderes Mindestalter für Google-Konten)
+*   Erhebung von Sprach- und Audiodaten im Rahmen von Funktionen für Kinder in Google Assistant
 
 Weitere hilfreiche Ressourcen
 
