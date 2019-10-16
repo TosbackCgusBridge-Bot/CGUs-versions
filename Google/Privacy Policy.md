@@ -4,7 +4,7 @@ Wanneer u onze services gebruikt, vertrouwt u ons uw gegevens toe. We begrijpen 
 
 Dit privacybeleid is bedoeld om u inzicht te geven in de gegevens die we verzamelen, waarom we deze gegevens verzamelen en hoe u deze gegevens kunt updaten, beheren, exporteren en verwijderen.
 
-Datum van inwerkingtreding 22 januari 2019 | Gearchiveerde versies | Pdf downloadenInhoudsopgaveInleidingGegevens die Google verzameltWaarom Google gegevens verzameltUw privacyoptiesUw gegevens delenUw gegevens veilig houdenUw gegevens exporteren en verwijderenNaleving en samenwerking met regelgevende instantiesOver dit beleidGerelateerde privacyprocedures
+Datum van inwerkingtreding 15 oktober 2019 | Gearchiveerde versies | Pdf downloadenInhoudsopgaveInleidingGegevens die Google verzameltWaarom Google gegevens verzameltUw privacyoptiesUw gegevens delenUw gegevens veilig houdenUw gegevens exporteren en verwijderenNaleving en samenwerking met regelgevende instantiesOver dit beleidGerelateerde privacyprocedures
 
 We bouwen een reeks services waarmee miljoenen mensen dagelijks de wereld op nieuwe manieren kunnen verkennen en er interactie mee kunnen hebben. Onze services bestaan onder meer uit:
 
@@ -165,7 +165,7 @@ Naar 'Aanbevelingen uit uw kringen'
 
 Gegevens die u deelt
 
-Beheer met wie u gegevens deelt via uw account op Google+.
+Als je G Suite gebruikt, kun je beheren met wie je gegevens deelt via je account op Google+.
 
 Naar 'Gegevens die u deelt'
 
@@ -221,7 +221,7 @@ Uw gegevens delenWanneer u gegevens deelt
 
 In veel van onze services kunt u gegevens delen met andere mensen en zelf bepalen hoe u deze gegevens deelt. U kunt bijvoorbeeld video's openbaar delen op YouTube of u kunt ervoor kiezen uw video's privé te houden. Denk eraan dat als u gegevens openbaar deelt, uw content toegankelijk kan worden via zoekmachines, waaronder Google Zoeken.
 
-Wanneer u bent ingelogd op en interactie heeft met bepaalde Google-services, zoals wanneer u reacties achterlaat bij een YouTube-video of een nummer beoordeelt in Play, worden uw naam en foto weergegeven naast uw activiteit. We kunnen deze gegevens ook weergeven in advertenties, afhankelijk van uw instellingen in 'Aanbevelingen uit uw kringen'.
+Als je bent ingelogd en interactie hebt met bepaalde Google-services (zoals reacties voor een YouTube-video achterlaten of een app op Play beoordelen), worden je naam en foto naast je activiteit weergegeven. We kunnen deze informatie ook weergeven in advertenties afhankelijk van je instelling 'Aanbevelingen uit jouw kringen'.
 
 Wanneer Google uw gegevens deelt
 
@@ -289,9 +289,18 @@ Als u uw gegevens wilt verwijderen, kunt u het volgende doen:
 
 Uw gegevens verwijderen.
 
-In sommige gevallen bewaren we gegevens voor een beperkte periode wanneer dit noodzakelijk is voor rechtmatige zakelijke of juridische doeleinden. U kunt meer lezen over de bewaarperiode van gegevens van Google, waaronder hoelang het duurt voordat we uw gegevens verwijderen.
+Je gegevens bewaren
 
-We proberen ervoor te zorgen dat onze services voorkomen dat gegevens per ongeluk of kwaadwillend worden verwijderd. Daarom kan het zijn dat er enige vertraging zit tussen het moment waarop u iets verwijdert en het moment waarop kopieën worden verwijderd van onze actieve en back-upsystemen.
+We bewaren de verzamelde gegevens voor kortere of langere perioden afhankelijk van wat de gegevens zijn, hoe we ze gebruiken en hoe je de instellingen configureert:
+
+*   Sommige gegevens (zoals de content die u maakt of uploadt) kunt u op elk gewenst moment verwijderen. U kunt ook activiteitsgegevens verwijderen die in uw account zijn opgeslagen, of deze na een bepaalde periode automatisch laten verwijderen.
+*   Andere gegevens (zoals advertentiegegevens in serverlogboeken) worden na een bepaalde periode automatisch verwijderd of geanonimiseerd.
+*   We bewaren sommige gegevens totdat je je Google-account verwijdert, zoals informatie over hoe vaak je onze services gebruikt.
+*   En sommige gegevens bewaren we voor een langere periode als dat nodig is voor rechtmatige zakelijke of juridische doeleinden, zoals beveiliging, fraude- en misbruikpreventie of financiële administratie.
+
+Als je gegevens verwijdert, volgen we een verwijderingsprocedure om ervoor te zorgen dat je gegevens veilig en volledig worden verwijderd van onze servers of alleen in geanonimiseerde vorm worden bewaard. We proberen ervoor te zorgen dat onze services voorkomen dat gegevens per ongeluk of kwaadwillend worden verwijderd. Daarom kan het zijn dat er enige vertraging zit tussen het moment waarop je iets verwijdert en het moment waarop kopieën worden verwijderd uit onze actieve en back-upsystemen.
+
+Bekijk meer informatie over de bewaarperioden voor gegevens die Google hanteert, waaronder hoelang het duurt om je gegevens te verwijderen.
 
 Naleving en samenwerking met regelgevende instanties
 
@@ -313,7 +322,7 @@ We verwerken uw gegevens voor de doeleinden zoals beschreven in dit beleid op ba
 
 Met uw toestemming
 
-We vragen om uw toestemming voor de verwerking van uw gegevens voor specifieke doeleinden en u heeft het recht om uw toestemming op elk moment in te trekken. We vragen bijvoorbeeld om uw toestemming om u gepersonaliseerde services te bieden, zoals advertenties. We kunnen ook om uw toestemming vragen om uw spraak- en audioactiviteiten te verzamelen voor spraakherkenning. Deze instellingen kunt u beheren in uw Google-account.
+We vragen om je toestemming voor de verwerking van je gegevens voor specifieke doeleinden en je hebt het recht om je toestemming op elk gewenst moment in te trekken. We vragen bijvoorbeeld om je toestemming om gepersonaliseerde services te bieden, zoals advertenties op basis van je interesses. We kunnen ook om je toestemming vragen om je spraak- en audioactiviteit te verzamelen voor spraakherkenning. Je kunt deze instellingen beheren in je Google-account.
 
 Wanneer we gerechtvaardigde belangen nastreven
 
@@ -324,7 +333,7 @@ We verwerken uw gegevens voor onze gerechtvaardigde belangen en die van derden w
 *   Inzicht krijgen in de manier waarop mensen onze services gebruiken om de prestaties van onze services te waarborgen en verbeteren.
 *   Aanpassing van onze services om u een betere gebruikerservaring te bieden.
 *   Marketing om gebruikers te informeren over onze services.
-*   Advertenties bieden om veel van onze services gratis beschikbaar te maken voor gebruikers.
+*   Advertenties bieden, zodat we veel van onze services gratis beschikbaar te maken (en als advertenties worden gepersonaliseerd, vragen we om je toestemming)
 *   Het detecteren, voorkomen of anderszins aanpakken van fraude, misbruik, beveiligings- of technische problemen met onze services.
 *   Bescherming van de rechten, het eigendom of de veiligheid van Google, onze gebruikers of het publiek, zoals vereist of toegestaan volgens de wet, waaronder gegevens vrijgeven aan overheidsinstanties
 *   Uitvoering van onderzoek waarmee onze services worden verbeterd voor onze gebruikers en die het publiek tot voordeel strekken.
@@ -366,6 +375,7 @@ De volgende privacykennisgevingen bieden aanvullende informatie over enkele Goog
 *   G Suite for Education
 *   YouTube Kids
 *   Met Family Link beheerde Google-accounts, voor kinderen die jonger zijn dan dertien jaar (of de toepasselijke leeftijd in uw land)
+*   Verzameling van spraak- en audiogegevens uit functies voor kinderen via de Google Assistent
 
 Andere nuttige bronnen
 
