@@ -184,6 +184,7 @@ Close submenu ( Girls ) Girls
 *   Matching Sets
 *   Layer Up
 *   Aero One
+*   Wild Things
 
 Close submenu ( Guys ) Guys
 
@@ -197,6 +198,7 @@ Close submenu ( Guys ) Guys
 *   Layer Up
 *   Music + Pop Culture
 *   Aero One
+*   Wild Things
 
 Close submenu ( Clearance ) Clearance
 
@@ -380,6 +382,7 @@ Menu Find a Store Aeropostale
         *   Matching Sets
         *   Layer Up
         *   Aero One
+        *   Wild Things
     
     *   Guys
         *   View All
@@ -392,6 +395,7 @@ Menu Find a Store Aeropostale
         *   Layer Up
         *   Music + Pop Culture
         *   Aero One
+        *   Wild Things
     
 *   Clearance
     
