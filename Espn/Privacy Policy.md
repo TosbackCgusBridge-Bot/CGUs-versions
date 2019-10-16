@@ -59,7 +59,7 @@ Children’s Privacy Policy Contact Us
 
 Learn More
 
-Contact Us © Disney. All rights reserved
+Contact Us Disney PixarCreated with Sketch. LucasFilm Marvel freeform ABC ESPN Disney © Disney. All rights reserved
 
 *   Interest-Based Ads
 *   Children’s Online Privacy Policy
