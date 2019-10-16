@@ -182,7 +182,13 @@ Subscribe
 
 $400.00/year
 
-Try, buy, or learn more about Autodesk products See all products The Future of Making Connect information across the construction-project lifecycle
+Try, buy, or learn more about Autodesk products See all products Autodesk University Las Vegas | November 18–21, 2019 Experience what’s next for your industry at AU Las Vegas
+
+Join 10,000+ professionals in construction, manufacturing, architecture, engineering, and media creation for four days of learning and networking at Autodesk’s annual conference.
+
+Learn more about AU
+
+The Future of Making Connect information across the construction-project lifecycle
 
 Work smarter with Autodesk software solutions for construction management—connecting technologies, people, and processes across the entire project lifecycle.
 
