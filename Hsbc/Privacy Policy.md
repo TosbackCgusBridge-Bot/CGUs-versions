@@ -126,11 +126,11 @@ I accept Menu
         *   Back
         *   Fixed income investors
         *   Overview
-        *   Fixed income securities
+        *   Final terms and supplements
         *   Issuance programmes
         *   Covered bonds
         *   Green and sustainability bonds
-        *   Regulatory capital securities
+        *   Regulatory debt main features
         *   Credit ratings
     *   Shareholder information
         *   Back
