@@ -5,7 +5,7 @@
 *   Espaňol
 *   Set Location
 
-*   toyota\_vis\_horiz\_large\_usoc\_paralympics\_mm\_rgb
+*   Toyota Toyota
 *   Select Vehicle
 *   Shopping Tools
 *   Find a Dealer
@@ -1034,7 +1034,7 @@ If you have any questions, complaints or claims about any of the Sites, or if yo
 
 Go
 
-Sign up for toyota updates Request A Quote Trade-In Value Shopping Tools
+ToyotaProud Mobility Partner Sign up for toyota updates Request A Quote Trade-In Value Shopping Tools
 
 *   Trade-In Value
 *   Build Your Toyota
@@ -1105,7 +1105,8 @@ Help
 *   Site Map
 *   AdChoices
 
-©2019 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.
+©2019 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.  
+The use of Olympic Marks, Terminology and Imagery is authorized by the U.S. Olympic &. Paralympic Committee pursuant to Title 36 U.S. Code Section 220506.
 
 \[#\] View All Disclosures
 
