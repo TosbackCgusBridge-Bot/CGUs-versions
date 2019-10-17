@@ -1,6 +1,6 @@
 Free Shipping over $99See DetailsEnable Accessibility
 
-*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
+*   My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -21,7 +21,7 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackUP TO 60% OFFFURNITURE &. MATTRESSES+ EXTRA 10% off with code | select styles
+Near YouFind a StoreBackFinal Hours Of COUPON CODE STYLEUPENDS IN00HOURS 41MINS 20SECS See Details\*Extra 25% off select apparel, shoes, accessories, fine jewelry and home purchases with your JCPenney Credit Card or extra 20% off any other way you pay. Extra 10% off select furniture, mattresses, housewares, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches, and salon products any way you pay. Each offer good in store and at jcp.com, excluding taxes and shipping charges, 10/10/19-10/16/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Full amount of purchase must be on the JCPenney Credit Card to get the 25% off discount. Subject to credit approval. Does not apply to Best Value, Daily Deals, Limited Time Specials, Buy One Get Two Boots Free, Levi's, Denizen from Levi’s, Disney Collection, Disney Tsum Tsum, French Toast, Fisher-Price, Fanatics, Licensed Team Sports Merchandise, Columbia, Carhartt, Nike, adidas, Reebok, Puma, Champion, Converse, Clarks, Skechers Women's Shoes, Skechers Athletic Shoes, Bobs from Skechers, Keds, Grasshoppers, Athletic Shoes, Goddess Lingerie, Dreamgirl, Jewelry Trunk Shows, Modern Bride Design Your Dream Ring, Pre-Owned Watches, Smartwatches, Garmin, Fitbit, Sephora, Food, Penney Lane, S'ip by S'well, Electronics, In-Home Custom Design, Tempur-Pedic, Neato Robotics, iRobot, Sporting Goods/Outdoor Gear, Toys, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Personalized Jewelry, Wigs and Extensions, Purchase with Purchase Items, In-Store Services, Service Plans, Gift Cards, Closing Store purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code STYLEUP when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. DetailsUP TO 60% OFFFURNITURE &. MATTRESSES+ EXTRA 10% off with code | select styles
 
 *   FURNITURE
 *   MATTRESSES
@@ -57,18 +57,18 @@ SHOP NOWOUTDOOR SHOPPlan your next great adventure withcasual, comfortable &. du
     
     $60
     
-    Arizona Womens Galen Block Heel Zip Booties(27)
+    Arizona Womens Galen Block Heel Zip Booties(28)
 *   $1199after couponwas $32 St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(4)
 *   LIMITED TIME SPECIAL!
     
     $60
     
-    Arizona Womens Yetta Block Heel Lace Up Boots(18)
-*   $239 - $1999after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1412)
+    Arizona Womens Yetta Block Heel Lace Up Boots(19)
+*   $239 - $1999after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1416)
 *   ADVERTISED DEAL!
     
     $2799 - $5599after couponwas $70 - $140 Liz Claiborne Quinn Basketweave Room-Darkening Grommet Top Single Curtain Panel(609)
-*   $399 - $2799after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(224)
+*   $399 - $2799after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(225)
 
 Shop and Save at JCPenney
 
