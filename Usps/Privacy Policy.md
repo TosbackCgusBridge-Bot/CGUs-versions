@@ -1,184 +1,281 @@
-Skip Top Navigation Menu
+Search Submit
 
-*   Who We Are go to What We're Doing header
-    *   Leadership
-    *   Financials
-    *   Government Relations
-    *   Judicial Officer
-    *   Legal
-    *   Our History
-    *   Postal Facts
-End of sub links*   What We're Doing go to Newsroom header
-    *   Transforming Our Business
-    *   Current Initiatives
-    *   Securing The Mail
-    *   Sustainability
-    *   Corporate Social Responsibility
-    *   Government Services
-    *   Postal Customer Council
-    *   Service Performance Results
-End of sub links*   Newsroom go to Careers header
-    *   National News
-    *   Local News
-    *   Testimony &. Speeches
-    *   Broadcast Downloads
-    *   Events Calendar
-    *   Photo Gallery
-    *   Service Alerts
-End of sub links*   Careers go to Doing Business with Us header
-    *   Career Opportunities
-    *   Working at USPS
-    *   Search &. Apply
-    *   Application Process
-End of sub links*   Doing Business with Us
-    *   Suppliers
-    *   Licensing
-    *   Rights &. Permissions
-    *   Auctions
-    *   IT Policies, Process &. Standards
-    *   Public Key Infrastructure
+*   Open submenu (Who we are)Who we are
+*   Open submenu (What we do)What we do
+*   Divider
+*   Open submenu (Newsroom)Newsroom
+*   Open submenu (Resources)Resources
+*   Open submenu (Careers)Careers
 
-End top navigation Search
+Close submenu (Who we are)Who we are
 
-*   Who We Are
-    *   Overview
-    *   Leadership
-    *   Financials
-    *   Government Relations
-    *   Judicial Officer
-    *   Legal
-    *   Our History
-    *   Postal Facts
-*   What We're Doing
-    *   Overview
-    *   Transforming Our Business
-    *   Current Initiatives
-    *   Securing The Mail
-    *   Sustainability
-    *   Corporate Social Responsibility
-    *   Government Services
-    *   Postal Customer Council
-    *   Service Performance Results
-*   Newsroom
-    *   Overview
-    *   National News
-    *   Local News
-    *   Testimony &. Speeches
-    *   Broadcast Downloads
-    *   Events Calendar
-    *   Photo Gallery
-    *   Service Alerts
-*   Careers
-    *   Overview
-    *   Career Opportunities
-    *   Working at USPS
-    *   Search &. Apply
-    *   Application Process
-*   Doing Business with Us
-    *   Overview
-    *   Suppliers
-    *   Licensing
-    *   Rights &. Permissions
-    *   Auctions
-    *   IT Policies, Process &. Standards
-    *   Public Key Infrastructure
+*   Postal profile
+*   Open submenu (Leadership)Leadership
+*   Government Relations
+*   Open submenu (Law Department)Law Department
+*   Open submenu (Judicial Officer)Judicial Officer
+*   Stamp committee
 
-Skip Side Navigation Leadership
+Close submenu (Leadership)Leadership
 
 *   Board of Governors
-*   Postmaster General &. Executive Leadership Team
-*   Postal Leadership
-*   Postal Service Profile
+*   Executive Leadership Team
+*   Postal leadership
 
-Financials Government Relations Judicial Officer
+Close submenu (Law Department)Law Department
 
-*   Rules of Practice
-*   Administrative Decisions
-*   Board of Contract Appeals
-*   Electronic Filing
-
-Legal
-
-*   Section 508
-*   USPS Privacy
+*   Terms of use
+*   Privacy policy
 *   FOIA
 *   No FEAR Act
+*   REDRESS
 
-Our History
+Close submenu (Judicial Officer)Judicial Officer
 
-*   Significant Dates
-*   Stamps and Postcards
-*   Postage Rates and Historical Statistics
-*   Photo Galleries
-*   Postal People
-*   Moving the Mail
-*   Delivering the Mail and More
-*   Post Offices and Facilities
-*   Uniforms and Equipment
-*   Additional Resources
-*   Awards
+*   Administrative decisions
+*   Board of Contract Appeals decisions
+*   Rules of practice
 
-Postal Facts Privacy Policy Highlights  
+Close submenu (What we do)What we do
 
-Scope  
-This statement applies to USPS® customers and usps.com visitors, unless a separate privacy notice is prominently displayed.
+*   Our transformation
+*   Open submenu (Business services)Business services
+*   Government services
+*   Open submenu (Social responsibility)Social responsibility
+*   Open submenu (Performance)Performance
+*   Financials
 
-Personal Information  
+Close submenu (Business services)Business services
+
+*   Open submenu (Information technology)Information technology
+*   Open submenu (Mailer resources)Mailer resources
+*   Rights and permissions
+*   Licensing
+*   Suppliers
+*   Auctions
+
+Close submenu (Information technology)Information technology
+
+*   Public Key Infrastructure
+
+Close submenu (Mailer resources)Mailer resources
+
+*   Postal Customer Council
+*   PostalPro
+*   Postal Explorer
+*   Business Customer Gateway
+
+Close submenu (Social responsibility)Social responsibility
+
+*   Community activities
+*   Securing the mail
+*   Sustainability
+
+Close submenu (Performance)Performance
+
+*   Household diary
+*   Service performance results
+*   Financials
+
+Close submenu (Newsroom)Newsroom
+
+*   Open submenu (News)News
+*   Service Alerts
+*   Holidays &. events
+*   Digital Media
+
+Close submenu (News)News
+
+*   National news
+*   Local news
+*   Statements
+*   Testimony &. speeches
+
+Close submenu (Resources)Resources
+
+*   Find a form
+*   Publications
+*   Postal Bulletin
+
+Close submenu (Careers)Careers
+
+*   Open submenu (Career opportunities)Career opportunities
+*   Open submenu (Working at USPS)Working at USPS
+*   Search &. apply
+*   Application process
+
+Close submenu (Career opportunities)Career opportunities
+
+*   Delivery &. operations
+*   Corporate
+*   Students &. graduates
+*   Transitioning military
+
+Close submenu (Working at USPS)Working at USPS
+
+*   Compensation &. benefits
+*   Career development
+*   Diversity &. inclusion
+
+ALERT: Mail service is disrupted in some parts of the southeast U.S. due to Hurricane Dorian. Learn more. Jump to page content
+
+*   Who we are
+    *   Postal profile
+    *   Leadership
+        *   Board of Governors
+        *   Executive Leadership Team
+        *   Postal leadership
+    *   Government Relations
+    *   Law Department
+        *   Terms of use
+        *   Privacy policy
+        *   FOIA
+        *   No FEAR Act
+        *   REDRESS
+    *   Judicial Officer
+        *   Administrative decisions
+        *   Board of Contract Appeals decisions
+        *   Rules of practice
+    *   Stamp committee
+*   What we do
+    *   Our transformation
+    *   Business services
+        *   Information technology
+            *   Public Key Infrastructure
+        *   Mailer resources
+            *   Postal Customer Council
+            *   PostalPro
+            *   Postal Explorer
+            *   Business Customer Gateway
+        *   Rights and permissions
+        *   Licensing
+        *   Suppliers
+        *   Auctions
+    *   Government services
+    *   Social responsibility
+        *   Community activities
+        *   Securing the mail
+        *   Sustainability
+    *   Performance
+        *   Household diary
+        *   Service performance results
+        *   Financials
+    *   Financials
+*   Divider
+*   Newsroom
+    *   News
+        *   National news
+        *   Local news
+        *   Statements
+        *   Testimony &. speeches
+    *   Service Alerts
+    *   Holidays &. events
+    *   Digital Media
+*   Resources
+    *   Find a form
+    *   Publications
+    *   Postal Bulletin
+*   Careers
+    *   Career opportunities
+        *   Delivery &. operations
+        *   Corporate
+        *   Students &. graduates
+        *   Transitioning military
+    *   Working at USPS
+        *   Compensation &. benefits
+        *   Career development
+        *   Diversity &. inclusion
+    *   Search &. apply
+    *   Application process
+
+Click to search Search Submit Who we are What we do Newsroom Resources Careers Open/close navigation menu  
+Back  
+to top
+
+*   Overview
+*   Postal profile
+*   Leadership
+*   Government Relations
+*   Law Department
+*   Judicial Officer
+*   Stamps
+
+Privacy Policy Home Full policy Privacy office Scope
+
+Listed below are the highlights of the USPS privacy policy. This statement applies to USPS® customers and usps.com visitors, unless a separate privacy notice is prominently displayed.
+
+Detailed policy information Full privacy policy
+
+Our privacy policy with all the details.
+
+Visit the USPS Privacy Office
+
+Information about the full privacy framework developed by USPS.
+
+Personal Information
+
 We collect personal information directly from you and your transactions with us. We also occasionally obtain information about you from verification services and commercial sources, such as to acquire permission-based marketing lists.
 
 Uses
 
 *   We use your information to provide you USPS products and services, or respond to your inquiries.
-*   We do not sell customer or mailing lists to outside parties, including marketers.
-*   We protect your information under the Privacy Act. We only share your information in the following limited situations: to a congressional office on your behalf. to financial entities regarding financial transaction issues. to a USPS auditor. to entities, including law enforcement, as required by law or in legal proceedings. to customs agencies relating to outgoing international mail. to contractors and other entities to fulfill your product or service. or with your consent
+*   We do not sell customer or mailing lists to outside parties, including marketers.
+*   We protect your information under the Privacy Act. We only share your information in the following limited situations: to a congressional office on your behalf. to financial entities regarding financial transaction issues. to a USPS auditor. to entities, including law enforcement, as required by law or in legal proceedings. to customs agencies relating to outgoing international mail. to contractors and other entities to fulfill your product or service. or with your consent
 
-  
+Your choices
 
-Your Choices
-
-*   We only market other USPS products/services to you with your consent, based on your marketing preferences.
+*   We only market other USPS products/services to you with your consent, based on your marketing preferences.
 *   You may create or change your preferences by accessing your account on usps.com and editing your profile.
 
-  
+Important Information
 
-Important Information  
-You may access information we maintain about you by contacting the program office for the product/service you ordered, or by contacting the privacy office at the addresses provided.
+You may access information we maintain about you by contacting the program office for the product/service you ordered, or by contacting the privacy office at the addresses provided.
 
 How to Contact Us
 
-*   We welcome you to view our full privacy policy.
-*   You may contact the privacy office at privacy@usps.gov or  
-      
-    PRIVACY OFFICE  
-    US POSTAL SERVICE  
-    475 L'ENFANT PLZ SW RM 9431  
-    WASHINGTON DC 20260-1101
+We welcome you to view our full privacy policy. You may contact the privacy office at: privacy@usps.gov or
 
-*   View the Full Privacy Policy ›
+PRIVACY OFFICE  
+US POSTAL SERVICE  
+475 L'ENFANT PLZ SW RM 9431  
+WASHINGTON DC 20260-1101 U.S. Postal Service links
 
-Skip Footer Navigation
+USPS.com
 
-*   LEGAL
-    *   Privacy Policy ›
-    *   Terms of Use ›
-    *   FOIA ›
-    *   No FEAR Act EEO Data ›
-*   ON ABOUT.USPS.COM
-    *   Newsroom ›
-    *   USPS Service Alerts ›
-    *   Forms &. Publications ›
-    *   Careers ›
-    *   Site Index ›
-*   ON USPS.COM
-    *   USPS.com Home ›
-    *   Buy Stamps &. Shop ›
-    *   Print Labels with Postage ›
-    *   Customer Service ›
-    *   Delivering Solutions to the Last Mile ›
-*   OTHER USPS SITES
-    *   Business Customer Gateway ›
-    *   Postal Inspectors ›
-    *   Inspector General ›
-    *   Postal Explorer ›
+*   USPS home
+*   Buy stamps &. shop
+*   Print labels with postage
+*   Customer service
+*   Resources for developers
 
-Copyright© 2019 USPS. All Rights Reserved. <iframe src="//www.googletagmanager.com/ns.html?id=GTM-MVCC8H" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=533374513433337&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2621041933204&amp;pd\[em\]=&lt;hashed\_email\_address&gt;&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://alb.reddit.com/snoo.gif?q=CAAHAAABAAoACQAAAA8sjYvfAA==&amp;s=758ZB25Erv8S36eTAg3XLKvz7xb4K5BBW3pi8UyQQy8=">.
+About.USPS.com
+
+*   About USPS home
+*   Newsroom &. alerts
+*   Careers
+*   Forms &. publications
+*   Government services
+*   Postal facts
+*   Postal history
+*   USPS blog
+
+Related sites
+
+*   Business Customer Gateway
+*   Postal inspectors
+*   Inspector General
+*   Postal Explorer
+*   National Postal Museum
+*   PostalPro
+*   CyberSafe at USPS
+
+Legal
+
+*   Terms of use
+*   Privacy policy
+*   FOIA
+*   No FEAR Act
+
+Copyright© 2019 United States Postal Service
+
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-MVCC8H" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=533374513433337&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2621041933204&amp;pd\[em\]=&lt;hashed\_email\_address&gt;&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://alb.reddit.com/snoo.gif?q=CAAHAAABAAoACQAAAA8sjYvfAA==&amp;s=758ZB25Erv8S36eTAg3XLKvz7xb4K5BBW3pi8UyQQy8=">.
