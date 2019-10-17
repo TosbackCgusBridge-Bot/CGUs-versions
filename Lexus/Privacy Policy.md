@@ -71,16 +71,16 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **UX**
 
-*   Starting at $32,1505\*
-*   169-HP6\* 2.0L I-4
+*   Starting at $32,3001\*
+*   169-HP5\* 2.0L I-4
 
 *   Build
 *   Current Offers
 
 **UX HYBRID**
 
-*   Starting at $34,1501, 7\*
-*   39-MPG COMBINED RATING8\*
+*   Starting at $34,3501, 6\*
+*   39-MPG COMBINED ESTIMATE7\*
 
 *   Build
 *   Current Offers
@@ -96,7 +96,7 @@ COMPARE **UX**
 **NX HYBRID**
 
 *   Starting at $39,0701\*
-*   31-MPG COMBINED ESTIMATE9\*
+*   31-MPG COMBINED ESTIMATE8\*
 
 *   Build
 *   Current Offers
@@ -104,7 +104,7 @@ COMPARE **UX**
 **RX**
 
 *   Starting at $44,1501\*
-*   3 ROW SEATING UP TO 710\*
+*   3 ROW SEATING UP TO 79\*
 
 *   Build
 *   Current Offers
@@ -112,7 +112,7 @@ COMPARE **UX**
 **RX HYBRID**
 
 *   Starting at $46,7501\*
-*   30-MPG COMBINED RATING11\*
+*   30-MPG COMBINED RATING10\*
 
 *   Build
 *   Current Offers
@@ -127,7 +127,7 @@ COMPARE **UX**
 
 **LX**
 
-*   Starting at $86,38012\*
+*   Starting at $86,38011\*
 *   383-HP3\* V8, FULL-TIME 4WD
 
 *   Build
@@ -171,8 +171,8 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **UX HYBRID**
 
-*   Starting at $34,1501, 7\*
-*   39-MPG COMBINED RATING8\*
+*   Starting at $34,3501, 6\*
+*   39-MPG COMBINED ESTIMATE7\*
 
 *   Build
 *   Current Offers
@@ -180,7 +180,7 @@ COMPARE **UX HYBRID**
 **NX HYBRID**
 
 *   Starting at $39,0701\*
-*   31-MPG COMBINED ESTIMATE9\*
+*   31-MPG COMBINED ESTIMATE8\*
 
 *   Build
 *   Current Offers
@@ -188,7 +188,7 @@ COMPARE **UX HYBRID**
 **RX HYBRID**
 
 *   Starting at $46,7501\*
-*   30-MPG COMBINED RATING11\*
+*   30-MPG COMBINED RATING10\*
 
 *   Build
 *   Current Offers
@@ -363,21 +363,19 @@ click here Important Info Important Info
 
 \[4\] Specs for RWD model shown.
 
-\[5\] MSRP excludes delivery, processing and handling fee of $1,025, which may be subject to change at any time. Excludes taxes, title, license and optional equipment. Dealer price will vary.
+\[5\] Ratings achieved using premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
 
-\[6\] Ratings achieved using premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
+\[6\] UX AWD system operates at speeds up to 43 mph.
 
-\[7\] UX AWD system operates at speeds up to 43 mph.
+\[7\] 2020 Lexus UX 250h (AWD) EPA 41/city, 38/hwy, 39/comb mpg estimates. Actual mileage will vary.
 
-\[8\] 2019 Lexus UX 250h (AWD) EPA 41/city, 38/hwy, 39/comb MPG estimates. Actual mileage will vary.
+\[8\] 2020 Lexus NX 300h (AWD) EPA 33/city, 30/hwy, 31/comb MPG estimates. Actual mileage will vary.
 
-\[9\] 2020 Lexus NX 300h (AWD) EPA 33/city, 30/hwy, 31/comb MPG estimates. Actual mileage will vary.
+\[9\] Seven-passenger second-row bench seating standard in the RX 350L, and six-passenger seating with second-row captain’s chairs available in the RX 350L and standard in the RX 450hL. Image for illustrative purposes only.
 
-\[10\] Seven-passenger second-row bench seating standard in the RX 350L, and six-passenger seating with second-row captain’s chairs available in the RX 350L and standard in the RX 450hL. Image for illustrative purposes only.
+\[10\] 2019 Lexus RX 450h (AWD) preliminary 31/city, 28/hwy, 30/comb mpg estimates determined by Lexus. EPA estimates not available at time of publishing. Actual mileage will vary. Image for illustrative purposes only.
 
-\[11\] 2019 Lexus RX 450h (AWD) preliminary 31/city, 28/hwy, 30/comb mpg estimates determined by Lexus. EPA estimates not available at time of publishing. Actual mileage will vary. Image for illustrative purposes only.
-
-\[12\] MSRP excludes delivery, processing and handling fee of $1,295, which may be subject to change at any time. Excludes taxes, title, license and optional equipment. Dealer price will vary.
+\[11\] MSRP excludes delivery, processing and handling fee of $1,295, which may be subject to change at any time. Excludes taxes, title, license and optional equipment. Dealer price will vary.
 
 Leasing &. Finance
 
