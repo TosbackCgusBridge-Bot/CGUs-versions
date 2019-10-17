@@ -22,7 +22,7 @@ Skip to main content
             Local Media
             1.  Cozi TVCozi TVNational multicast network that delivers an easy-to-watch, comfortable and familiar viewing experience to family audiences.Cozi TV
             2.  NBC Sports Regional NetworksNBC Sports Regional NetworksNBC Sports Regional Networks is NBC Sports Group’s portfolio of nine regional networks that delivers more than 2,200 live sporting events and original content to more than 35 million homes.NBC Sports Regional Networks
-            3.  NBCUniversal Owned Television StationsNBCUniversal Owned Television StationsIncludes 28 NBC and Telemundo local television stations that produce the best regional news, information and entertainment content.NBCUniversal Owned Television Stations
+            3.  NBCUniversal Owned Television StationsNBCUniversal Owned Television StationsIncludes 42 NBC and Telemundo local television stations that produce the best regional news, information and entertainment content.NBCUniversal Owned Television Stations
             4.  TeleXitosTeleXitosTeleXitos is the Telemundo Station Group’s national multicast network that serves as a destination for viewers who want to watch their favorite action and adventure television series and movies from the 1970s to 2000s in Spanish and without subtitles. TeleXitos
         3.  Cable
             1.  Bravo MediaBravo MediaOriginal pop culture programming including the best in food, fashion, beauty and reality.Bravo Media
@@ -348,4 +348,4 @@ For any questions or complaints about this Privacy Policy or our privacy practic
 *   Supply Chain Values
 *   Terms of Service
 
-© 2019 NBCUniversal Media, LLC. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/1993602" height="1" width="1" alt="" /></a></div>.
+© 2019 NBCUniversal Media, LLC. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/2325029" height="1" width="1" alt="" /></a></div>.
