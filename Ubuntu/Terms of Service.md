@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server development summary – 16 October 2019
+*   Ansible vs Terraform vs Juju: Fight or cooperation?
 *   Grace Hopper Conference 2019
 *   Design and Web team summary – 11 October 2019
 *   Onboarding edge applications on the dev environment
-*   Chromium in Ubuntu – deb to snap transition
-*   Kubectl and friends as a snap
 
 *    ›
