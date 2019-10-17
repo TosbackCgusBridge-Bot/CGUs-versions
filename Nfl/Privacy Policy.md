@@ -1,4 +1,4 @@
-*   NE6-0NYJ1-4Mon, 8:15 pm ET
+*   KC4-2DEN2-4Thu, 8:20 pm ET
 *   SF5-0WAS1-5Sun, 1:00 pm ET
 *   ARI2-3-1NYG2-4Sun, 1:00 pm ET
 *   HOU4-2IND3-2Sun, 1:00 pm ET
@@ -11,7 +11,7 @@
 *   BAL4-2SEA5-1Sun, 4:25 pm ET
 *   NO5-1CHI3-2Sun, 4:25 pm ET
 *   PHI3-3DAL3-3Sun, 8:20 pm ET
-*   KC4-2DEN2-4Thu, 8:20 pm ET
+*   NE6-0NYJ1-4Mon, 8:15 pm ET
 
 *   News
 *   Scores
@@ -35,7 +35,7 @@
 *   NFL Films
 *   Game Pass
 
-*   NE6-0NYJ1-4Mon, 8:15 pm ET
+*   KC4-2DEN2-4Thu, 8:20 pm ET
 *   SF5-0WAS1-5Sun, 1:00 pm ET
 *   ARI2-3-1NYG2-4Sun, 1:00 pm ET
 *   HOU4-2IND3-2Sun, 1:00 pm ET
@@ -48,7 +48,7 @@
 *   BAL4-2SEA5-1Sun, 4:25 pm ET
 *   NO5-1CHI3-2Sun, 4:25 pm ET
 *   PHI3-3DAL3-3Sun, 8:20 pm ET
-*   KC4-2DEN2-4Thu, 8:20 pm ET
+*   NE6-0NYJ1-4Mon, 8:15 pm ET
 
 *   News
 *   Scores
