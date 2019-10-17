@@ -364,23 +364,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Dems' SHIELD Act would protect elections, close loopholes on foreign spending
-    *   Cisco's latest round of updates address bugs in security products
-    *   Hy-Vee details 2019 POS data breach incident
-    *   Mississippi gov't agencies fall short of cybersecurity compliance standards
-    *   Securing the increasingly complex end user computing landscape
-    
-    *   Former Yahoo! engineer pleads guilty to using access to nick pics of women
-    *   CyberRisk Alliance appoints Malcolm Harkins to its board
-    *   Microsoft revises and re-releases patch for exploited Internet Explorer bug
-    *   DCH Health System pays ransomware attackers in bid to restore operations
-    *   Hy-Vee details 2019 POS data breach incident
-    
-    *   Major software vendor compromised with previously undocumented PortReuse backdoor
-    *   Pentagon 'Hack the Proxy' program uncovers 31 vulnerabilities, one critical
+    *   DIA analyst arrested for disclosing classified info to two journalists
+    *   Evolve security automation like the human brain: Part 1
+    *   Graboid cryptomining worm leverages Docker Engine containers to spread
+    *   Private equity firm bids $3.9 billion for Sophos
     *   iBoss names DeWalt to board
-    *   Fake company pushes phony cryptocurrency app to spread Mac malware
-    *   Adobe patches 81 vulnerabilities for four products
+    
+    *   Baltimore belatedly buys cyberinsurance
+    *   Data on 92M Brazilians found for sale on underground forums
+    *   Second Senate Intel committee report confirms Russia social media campaign to influence 2016 election, skewer Clinton
+    *   Users are the target: How employees can be the strongest line of defense
+    *   VPN to world: Reports of my death are greatly exaggerated
+    
+    *   TA505 debuts Get2 downloader and SDBbot RAT in new phishing campaigns
+    *   Baltimore belatedly buys cyberinsurance
+    *   Graboid cryptomining worm leverages Docker Engine containers to spread
+    *   Oracle patches 218 security vulnerabilities
+    *   Evolve security automation like the human brain: Part 1
 
 Back to Top
 
@@ -412,4 +412,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
