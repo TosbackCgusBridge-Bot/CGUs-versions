@@ -40,11 +40,11 @@ Information we collect is used to deliver, maintain, support and improve Gizmo s
   
 We do not collect more information from Gizmo devices than is reasonably necessary to deliver Gizmo services. Gizmo products and services do not allow children to make their personal information publicly available.
 
-Information we share,
+Information we share.
 
 We share personal information with vendors and partners who work on our behalf. These vendors and partners may use personal information shared with them only for purposes related to providing Gizmo services to you.
 
-Your choices,
+Your choices.
 
 Parents are asked to provide certain consents when they set up Gizmo services through the GizmoHub app. Specifically, parents are asked to provide consent for all Gizmo devices that are paired with the app to collect device identifiers and geolocation and for Gizmo wearables to collect steps taken and call and text usage. Parents may revoke their consent at any time, however, certain Gizmo services will not be available without consent. Parents may review the information collected from Gizmo devices, such as the device identifiers, geolocation, steps, call and text usage information, and Kids World app usage. For more information or assistance with these choices, including to review the information collected, you can contact us at gizmopalsupport@verizonwireless.com.
 
