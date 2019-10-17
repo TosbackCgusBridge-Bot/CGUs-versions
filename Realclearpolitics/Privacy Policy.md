@@ -116,53 +116,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Jason Williams_: In OH's Trump Country, Honest People Have Hope Again
+*   _Frank Bruni_: It Was the Best of Warren. It Was the Worst of Warren.
     
-*   _Erin McPike_: Calling All Ohioans: Don't Forfeit Swing-State Status
+*   _Jonathan Turley_: Despite Friendly Media, Biden's Troubles Will Continue
     
-*   _Scott Jennings_: Dems Want to Close Your Churches &. Hike Your Taxes
+*   _Amanda Marcotte_: Biden, Warren Both Walk Away Winners From 4th Debate
     
-*   _Fatima Goss Graves_: 3 Questions Every Candidate Should Answer at the Debate
+*   _Monica Showalter_: Dems: The Party of George W. Bush Mideast Policy?
     
-*   _Nolan Finley_: Ask Joe Biden About Hunter's Conflicts
+*   _John Cassidy_: Trump's Syria Policy Is a Strategic and Political Disaster
     
-*   _Froma Harrop_: Sanders Still Sees Democrats as the Problem
+*   _Sharyl Attkisson_: ABC's False 'Combat Video' Raises Many Questions, Cautions
     
-*   _William Barr_: The Centrality of Religious Liberty in the United States
+*   _Steve Jacobs_: I Asked Biologists When Life Begins--Answer Wasn't Popular
     
-*   _Greg Sargent_: Bolton’s Eruption Shows That Trump’s Defenses Are Collapsing
+*   _Anna North_: Reproductive Rights Finally Got a Moment at Dem Debate
     
-*   _Adam Mill_: Ukraine: The Poorly Written Hoax Sequel
+*   _Susan Crabtree_: Despite Prodding, 2020 Dems Still Silent on Court Picks
     
-*   _Shirley Ze Yu_: China Will Never Cede Control of Hong Kong
+*   _Theodore Schleifer_: Simmering Debate Over Big Tech Explodes on Dem Stage
     
-*   _Ben Domenech_: Three Days Among the Hong Kong Freedom Protesters
+*   _Dennis Prager_: An Open Letter to Google Co-Founder Sergey Brin
     
-*   _Jim Newell_: Tonight's Debate Has Two Front-Runners, and Lots of Also-Rans
+*   _Ryan Lizza_: Warren's Charmed Campaign Just Entered a Brutal New Phase
     
-*   _Newt Gingrich_: Five Questions Democrats Need to Be Asked Tonight
+*   _Michael Goodwin_: It's Looking Like a Two-Person Race for the Democrats
     
-*   _Nancy Cook_: Trump Leans Into Spurious Claims for Impeachment Defense
+*   _Matthews_: 5 Winners and 3 Losers From Last Night's Debate
     
-*   _Kimberley Strassel_: Democracy Dies in Bias--How Did Journalism Get Here?
+*   _Philip Wegmann_: Democrats Battled Over 8 Key Points of Contention
     
-*   _Matt Taibbi_: The Biden Paradox: Should Dems Be All In or All Out?
+*   _George Friedman_: Strategic Re-Evaluation in Mideast Was Long Overdue
     
-*   _James Freeman_: The Bidens Concede
+*   _Dana Milbank_: Democrats Flip the Script on a Cut-and-Run President
     
-*   _Brian Schwartz_: As Biden Campaign Struggles, Bloomberg Eyes Jumping In
+*   _John Bradley_: On Syria, Trump Is Right, Liberals &. Neocons Are Wrong
     
-*   _Charles Lipson_: What Pelosi Really Wants From Impeachment
+*   _T.A. Frank_: What George Papadopoulos Taught Me About Trump
     
-*   _Ron Brownstein_: Trump May Be First Impeached President to Seek Re-Election
+*   _Rod Dreher_: Bill Barr's Extraordinary Speech at Notre Dame
     
-*   _Liz Peek_: Democrats' 'Hating Trump' Platform a Sure Loser
+*   _Paul Krugman_: God Is Now Trump's Co-Conspirator
     
-*   _Brendan Flanagan_: Enough Is Enough: Tariffs Are Damaging Ohio's Economy
+*   _Zeynep Tufekci_: Are China's Tantrums Signs of Strength or Weakness?
     
-*   _Stephen Moore_: It's a Middle Class Boom
+*   _David Harsanyi_: LeBron Jame$ Is a Coward
     
-*   _Tom McTague_: Is Boris Johnson Actually Winning?
+*   _Zachary Karabell_: Americans' Anti-China Attitudes Are Wrong and Dangerous
     
 
 *   Previous
@@ -233,9 +233,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   6 Questions Looming Over the Crowded Democratic Debate
-*   Cruz: Admin Should Release the Transcripts of Biden's Ukraine Calls
-*   Hunter Biden Hits Back at Trump, Defends Father's VP Dealings
+*   8 Key Points of Contention in the Democratic Debate
+*   Sanders and Warren Build Big War Chests as Biden Lags Behind
+*   Della Volpe: Polls Show Education "Major Concern" for 2020 Voters
 *   Smith: Ukraine Ground Zero for Russia Collusion Hoax
 *   Watchdog Complaint Cites Dark-Money Group Targeting Collins
 *   Presidential Job Approval
@@ -250,56 +250,37 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Maine Democratic Presidential PrimaryPPP (D)
-    *   Warren31
-    *   Biden19
-    *   Sanders12
-    *   Buttigieg9
-    *   Harris4
-    *   Yang3
-    *   Booker2
-    *   O'Rourke1
-    *   Castro1
-    *   Ryan
-    *   Williamson
-    *   BennetWarren +12
-*   South Carolina Democratic Presidential PrimaryGravis
-    *   Biden34
-    *   Warren9
-    *   Sanders10
-    *   Harris4
-    *   Buttigieg0
-    *   Booker6
-    *   Steyer7
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve43
+    *   Disapprove54Disapprove +11
+*   Direction of CountryReuters/Ipsos
+    *   Right Direction34
+    *   Wrong Track58Wrong Track +24
+*   2020 Democratic Presidential NominationEconomist/YouGov
+    *   Biden25
+    *   Warren29
+    *   Sanders13
+    *   Buttigieg7
+    *   Harris5
     *   O'Rourke2
     *   Yang2
     *   Klobuchar2
-    *   Williamson1
-    *   Gabbard1
-    *   Castro1
-    *   Bennet0Biden +24
-*   New York Democratic Presidential PrimarySiena
-    *   Biden21
-    *   Warren21
-    *   Sanders16
-    *   Buttigieg4
-    *   Harris4
-    *   Yang3
-    *   O'Rourke1
     *   Booker1
-    *   Klobuchar1
-    *   Gabbard0Tie
-*   Maine: Trump vs. BidenPPP (D)
-    *   Biden54
-    *   Trump42Biden +12
+    *   Steyer1
+    *   Gabbard3
+    *   Bennet1
+    *   Castro0Warren +4
+*   Kentucky Governor - Bevin vs. BeshearMason-Dixon\*
+    *   Bevin46
+    *   Beshear46Tie
 
 More Latest Polls In The News
 
-*   Biden: "My Son Did Nothing Wrong, I Did Nothing Wrong," We Should Focus On Trump's Corruption
+*   Gabbard: When It Comes To Debating Regime Change Wars It's A Joke To Think CNN, NYT Are Objective
+*   Biden to Trump: Release Your Tax Returns Or "Shut Up" About My Son. "I Will Beat Him Like A Drum"
+*   Trump: Democrats Desperate To Impeach Me Because They Know They're Going To Lose 2020 Election
 *   Buttigieg vs. Gabbard: You Want To Continue To Have Us Involved In Endless Regime Change Wars?
-*   Kamala Harris to Warren: I Urge You To Join Me To Call On Twitter To Ban Trump's Account, Why Won't You?
 *   Buttigieg vs. Beto O'Rourke on Guns: "I Don't Need Lessons From You On Courage, Political Or Personal"
-*   Sanders: Turkey Is No Longer A U.S. Ally, Who Would Trust U.S. After Trump Betrayed The Kurds?
 
 *   Politics
 *   Policy
