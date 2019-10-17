@@ -269,8 +269,6 @@ Menu IKEA
     *   $10 and under
     
     Seasonal
-    *   Summer
-        
     *   Winter Holidays
         
     *   Collections
