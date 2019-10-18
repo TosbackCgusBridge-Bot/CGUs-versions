@@ -295,6 +295,10 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
+*   Your Early Access to 'Stephen King's Doctor Sleep'
+    
+    See it first on October 30th! BUY TICKETS
+    
 *   'Zombieland: Double Tap' Gift with Purchase
     
     Own 'Zombieland' for only $4.99\* with ticket purchase! \*Terms apply. BUY TICKETS
@@ -306,10 +310,6 @@ Offers
 *   'Cats' Sweepstakes
     
     Sign up for a 'Cats' FanAlert™ for your chance to win a trip to the premiere in London! \*Terms apply. ENTER NOW
-    
-*   Get a $13 Movie Ticket to see 'The Addams Family'
-    
-    When you purchase 2 Hershey's Halloween Assortment Bags. SEE DETAILS
     
 
 New + Coming soon
