@@ -21,12 +21,18 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackFinal Hours Of COUPON CODE STYLEUPENDS IN00HOURS 41MINS 20SECS See Details\*Extra 25% off select apparel, shoes, accessories, fine jewelry and home purchases with your JCPenney Credit Card or extra 20% off any other way you pay. Extra 10% off select furniture, mattresses, housewares, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches, and salon products any way you pay. Each offer good in store and at jcp.com, excluding taxes and shipping charges, 10/10/19-10/16/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Full amount of purchase must be on the JCPenney Credit Card to get the 25% off discount. Subject to credit approval. Does not apply to Best Value, Daily Deals, Limited Time Specials, Buy One Get Two Boots Free, Levi's, Denizen from Levi’s, Disney Collection, Disney Tsum Tsum, French Toast, Fisher-Price, Fanatics, Licensed Team Sports Merchandise, Columbia, Carhartt, Nike, adidas, Reebok, Puma, Champion, Converse, Clarks, Skechers Women's Shoes, Skechers Athletic Shoes, Bobs from Skechers, Keds, Grasshoppers, Athletic Shoes, Goddess Lingerie, Dreamgirl, Jewelry Trunk Shows, Modern Bride Design Your Dream Ring, Pre-Owned Watches, Smartwatches, Garmin, Fitbit, Sephora, Food, Penney Lane, S'ip by S'well, Electronics, In-Home Custom Design, Tempur-Pedic, Neato Robotics, iRobot, Sporting Goods/Outdoor Gear, Toys, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Personalized Jewelry, Wigs and Extensions, Purchase with Purchase Items, In-Store Services, Service Plans, Gift Cards, Closing Store purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code STYLEUP when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. DetailsUP TO 60% OFFFURNITURE &. MATTRESSES+ EXTRA 10% off with code | select styles
+Near YouFind a StoreBack40% OFFMATCHING FAMILY PAJAMASselect styles | **sale $7.20-$30** | reg. $12-$5025+ family pajama styles online!
 
-*   FURNITURE
-*   MATTRESSES
+*   MEN
+*   WOMEN
+*   BOYS
+*   GIRLS
+*   BABIES
+*   PETS
+*   SHOP NOW
 
-UP TO 40-50% OFFTHE ART OF LAYERINGselect styles
+COZY DOES IT  
+Brisk temps call for layers of warmth.  
 
 *   SHOP NOW
 
@@ -34,41 +40,32 @@ UP TO 40-50% OFFTHE ART OF LAYERINGselect styles
     
 *   WOMEN
     
-*   WOMEN'S JACKETS
-    
-*   MEN'S JACKETS
-    
 *   BOYS
     
 *   GIRLS
     
-*   JEWELRY
+*   SLEEPWEAR
     
-*   ACCESSORIES
+*   BOOTS
+    
+*   OUTERWEAR
+    
+*   HOME
     
 
-SHOP NOWOUTDOOR SHOPPlan your next great adventure withcasual, comfortable &. durable styles.
+SHOP NOWUP TO 50% OFF COZY BEDDING  
+select stylesSink into sleep with soft sheets, a pile of pillowsand a plush comforter.
 
-*   SHOP ALL
+*   SHOP NOW
 
-50% OFFHANDBAGS &. WALLETSselect styles | reg. $35-$85BUY 1, GET 2 FREE\*BOOTS FOR THE FAMILYIn store &. online, ends 10/16 | select styles | reg. $40-$110GET DETAILSJCPenney is a proud supporterof American Cancer Society®UP TO 50% OFFHALLOWEEN DECORselect styles Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 21 total items loaded in Media GalleryFollow @jcpenney \*Buy one item at regular price, get the second and third items of equal or lesser value for free, while supplies last.Recommended for You
+GET DETAILSJCPenney is a proud supporterof American Cancer Society®UP TO 50% OFFHALLOWEEN DECORselect styles Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 21 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   LIMITED TIME SPECIAL!
-    
-    $60
-    
-    Arizona Womens Galen Block Heel Zip Booties(28)
-*   $1199after couponwas $32 St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(4)
-*   LIMITED TIME SPECIAL!
-    
-    $60
-    
-    Arizona Womens Yetta Block Heel Lace Up Boots(19)
-*   $239 - $1999after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1416)
-*   ADVERTISED DEAL!
-    
-    $2799 - $5599after couponwas $70 - $140 Liz Claiborne Quinn Basketweave Room-Darkening Grommet Top Single Curtain Panel(609)
-*   $399 - $2799after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(225)
+*   $2999after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(28)
+*   $2999after couponwas $60 Arizona Womens Yetta Block Heel Lace Up Boots(19)
+*   $3749after couponwas $80 Arizona Womens Dino Wide Calf Riding Boots Block Heel
+*   $1349after couponwas $32 St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(5)
+*   $299 - $2249after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1421)
+*   $2999after couponwas $60 Arizona Womens Julian Block Heel Booties(8)
 
 Shop and Save at JCPenney
 
