@@ -88,7 +88,7 @@ View more results
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Combat Reloaded
     *   Pixel Apocalypse
-    *   Uphill Rush 7: Waterpark
+    *   Subway Clash 3D: Shooting Game Online Multiplayer
 *   Top Categories
     
     *   Platform Games
@@ -114,8 +114,8 @@ View more results
     *   Short Life
     *   Miami Crime Simulator 3D
     *   Five Nights at Freddy's 2
-    *   Five Nights at Freddy's 5
     *   Slope: Neon Ball Rolling Game
+    *   Five Nights at Freddy's 5
     *   Fireboy and Watergirl 5: Elements
     *   Chrome Dino
     *   Five Nights at Freddy's 4
@@ -152,7 +152,7 @@ View more results
     *   Bubble Machine: 2 Player Game
     *   Crystical: 2 Player Puzzle Game
     *   Jewel Academy
-    *   Fireboy &. Watergirl 4: Crystal Temple
+    *   Jewel Quest
 *   Top Categories
     
     *   Dress Up
@@ -175,11 +175,11 @@ View more results
     Best Games
     *   Pixel Art: Color by Number
     *   Ellie: Get Ready With Me
-    *   Slope: Neon Ball Rolling Game
     *   Super Speed Racer
+    *   Slope: Neon Ball Rolling Game
     *   Love Tester 2.0
-    *   Burger Restaurant Express
     *   Ella: Hips Surgery
+    *   Burger Restaurant Express
     *   Pizza Real Life Cooking
     *   Back To School: Princesses Rush
     *   Vincy Lip Care
@@ -207,16 +207,16 @@ View more results
     Best Games
     *   Madalin Stunt Cars 2
     *   Highway Rider Extreme: Motorbike Game 3D
-    *   Hill Racing Challenge
     *   Agame Stunt Cars
+    *   Hill Racing Challenge
     *   Moto X3M: Motorcycle Racing Game
     *   Murder
     *   Madalin Cars Multiplayer
     *   Uphill Rush 7: Waterpark
     *   Super Speed Racer
     *   Russian Car Driver
-    *   Real Street Racing
     *   Thug Racer
+    *   Real Street Racing
 *   Top Categories
     
     *   Athletics
