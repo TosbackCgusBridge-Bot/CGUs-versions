@@ -116,53 +116,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Frank Bruni_: It Was the Best of Warren. It Was the Worst of Warren.
+*   _William Saletan_: Why Democrats Are in Trouble If Warren Wins the Nomination
     
-*   _Jonathan Turley_: Despite Friendly Media, Biden's Troubles Will Continue
+*   _Moira Donegan_: Warren Was Attacked From All Sides, Barely Batted an Eye
     
-*   _Amanda Marcotte_: Biden, Warren Both Walk Away Winners From 4th Debate
+*   _Ann Coulter_: Please, Please More Democratic Debates!
     
-*   _Monica Showalter_: Dems: The Party of George W. Bush Mideast Policy?
+*   _Richard Haass_: The High Price of Trump's Great Syria Betrayal
     
-*   _John Cassidy_: Trump's Syria Policy Is a Strategic and Political Disaster
+*   _Jim Talent_: Trump Was Right Not to Risk War With Turkey
     
-*   _Sharyl Attkisson_: ABC's False 'Combat Video' Raises Many Questions, Cautions
+*   _Joe Crowley_: 2020 Dems, High-Skilled Immigration Boosts Our Middle Class
     
-*   _Steve Jacobs_: I Asked Biologists When Life Begins--Answer Wasn't Popular
+*   _Nate Silver_: How the Ocasio-Cortez and Omar Endorsements Could Matter
     
-*   _Anna North_: Reproductive Rights Finally Got a Moment at Dem Debate
+*   _Alexander Sammon_: Would Biden Be a Repeat of Kerry's 2004 Loss?
     
-*   _Susan Crabtree_: Despite Prodding, 2020 Dems Still Silent on Court Picks
+*   _Jenny Beth Martin_: Schiff Should Be Censured for Media Statements
     
-*   _Theodore Schleifer_: Simmering Debate Over Big Tech Explodes on Dem Stage
+*   _Anna North_: 'Nervous Nancy' Tweet Shows Trump's Problem w/Strong Women
     
-*   _Dennis Prager_: An Open Letter to Google Co-Founder Sergey Brin
+*   _Rachel Bovard_: Trump Admin's Successful War vs. Bureaucratic Bullies
     
-*   _Ryan Lizza_: Warren's Charmed Campaign Just Entered a Brutal New Phase
+*   _Benjamin Wallace-Wells_: Is This Elizabeth Warren's Democratic Party?
     
-*   _Michael Goodwin_: It's Looking Like a Two-Person Race for the Democrats
+*   _Michael Starr Hopkins_: Dear Fellow Dems: It's Time to Start Worrying
     
-*   _Matthews_: 5 Winners and 3 Losers From Last Night's Debate
+*   _Eric Levitz_: Bernie's Campaign Is Alive and Well
     
-*   _Philip Wegmann_: Democrats Battled Over 8 Key Points of Contention
+*   _Newt Gingrich_: Dems Becoming Anti-American Engine of Radical Change
     
-*   _George Friedman_: Strategic Re-Evaluation in Mideast Was Long Overdue
+*   _Joel Mathis_: Trump Is Getting Worse
     
-*   _Dana Milbank_: Democrats Flip the Script on a Cut-and-Run President
+*   _Rep. Scott Perry_: The Comments &. Actions of Schiff Demand Censure
     
-*   _John Bradley_: On Syria, Trump Is Right, Liberals &. Neocons Are Wrong
+*   _Ronald Brownstein_: The Eye-Popping Cost of Medicare for All
     
-*   _T.A. Frank_: What George Papadopoulos Taught Me About Trump
+*   _Phil Wegmann_: Is This New Health Care Plan What the GOP Needs?
     
-*   _Rod Dreher_: Bill Barr's Extraordinary Speech at Notre Dame
+*   _Gabe Roth_: Did SCOTUS Agree to Hear Abortion Case to Help GOP in 2020?
     
-*   _Paul Krugman_: God Is Now Trump's Co-Conspirator
+*   _Eddie Scarry_: Are Trump's Attacks on Biden Hitting Too Close to Home?
     
-*   _Zeynep Tufekci_: Are China's Tantrums Signs of Strength or Weakness?
+*   _Ezra Klein_: Why Democrats Need to Talk About Hunter Biden
     
-*   _David Harsanyi_: LeBron Jame$ Is a Coward
+*   _Mollie Hemingway_: Voters Sided w/Trump Against Foreign Policy Intelligentsia
     
-*   _Zachary Karabell_: Americans' Anti-China Attitudes Are Wrong and Dangerous
+*   _Soner Cagaptay_: How Erdogan Is Playing Trump - and Putin
     
 
 *   Previous
@@ -233,11 +233,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Despite Prodding, 2020 Dem Candidates Still Silent on Court Picks
+*   Conservative Groups Push Health Plan They Say Republicans Need
+*   Trump: Why Should U.S. Troops Fight Turkey Over Syria's Land?
 *   8 Key Points of Contention in the Democratic Debate
 *   Sanders and Warren Build Big War Chests as Biden Lags Behind
-*   Della Volpe: Polls Show Education "Major Concern" for 2020 Voters
-*   Smith: Ukraine Ground Zero for Russia Collusion Hoax
-*   Watchdog Complaint Cites Dark-Money Group Targeting Collins
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -250,37 +250,37 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve43
-    *   Disapprove54Disapprove +11
-*   Direction of CountryReuters/Ipsos
-    *   Right Direction34
-    *   Wrong Track58Wrong Track +24
-*   2020 Democratic Presidential NominationEconomist/YouGov
-    *   Biden25
-    *   Warren29
+*   Iowa Democratic Presidential CaucusEmerson
+    *   Warren23
+    *   Biden23
     *   Sanders13
-    *   Buttigieg7
-    *   Harris5
-    *   O'Rourke2
-    *   Yang2
-    *   Klobuchar2
-    *   Booker1
-    *   Steyer1
-    *   Gabbard3
-    *   Bennet1
-    *   Castro0Warren +4
-*   Kentucky Governor - Bevin vs. BeshearMason-Dixon\*
-    *   Bevin46
-    *   Beshear46Tie
+    *   Buttigieg16
+    *   Harris2
+    *   Booker3
+    *   Yang5
+    *   Steyer2
+    *   Klobuchar1
+    *   Bullock4
+    *   Gabbard2
+    *   O'Rourke0
+    *   Bennet1Tie
+*   Iowa: Trump vs. BidenEmerson
+    *   Trump51
+    *   Biden49Trump +2
+*   Iowa: Trump vs. WarrenEmerson
+    *   Trump51
+    *   Warren49Trump +2
+*   Iowa: Trump vs. SandersEmerson
+    *   Sanders51
+    *   Trump49Sanders +2
 
 More Latest Polls In The News
 
+*   Trump: The Same People Who Want Us To Fight Endless Wars Want Us To Open Our Borders To Mass Migration
+*   Clapper: Assault On The Truth, Bad Case Of "Truth Decay" Started On First Day Of Trump Presidency
+*   Zuckerberg: "In A Democracy, I Believe People Should Decide What Is Credible, Not Tech Companies"
+*   Trump: Turkey Ceasefire An "Incredible Outcome" That "Saved Lives," This Is A "Great Day For Civilization"
 *   Gabbard: When It Comes To Debating Regime Change Wars It's A Joke To Think CNN, NYT Are Objective
-*   Biden to Trump: Release Your Tax Returns Or "Shut Up" About My Son. "I Will Beat Him Like A Drum"
-*   Trump: Democrats Desperate To Impeach Me Because They Know They're Going To Lose 2020 Election
-*   Buttigieg vs. Gabbard: You Want To Continue To Have Us Involved In Endless Regime Change Wars?
-*   Buttigieg vs. Beto O'Rourke on Guns: "I Don't Need Lessons From You On Courage, Political Or Personal"
 
 *   Politics
 *   Policy
