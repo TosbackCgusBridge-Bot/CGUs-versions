@@ -1,55 +1,3 @@
-*   KC4-2DEN2-4Thu, 8:20 pm ET
-*   SF5-0WAS1-5Sun, 1:00 pm ET
-*   ARI2-3-1NYG2-4Sun, 1:00 pm ET
-*   HOU4-2IND3-2Sun, 1:00 pm ET
-*   OAK3-2GB5-1Sun, 1:00 pm ET
-*   MIN4-2DET2-2-1Sun, 1:00 pm ET
-*   JAX2-4CIN0-6Sun, 1:00 pm ET
-*   MIA0-5BUF4-1Sun, 1:00 pm ET
-*   LA3-3ATL1-5Sun, 1:00 pm ET
-*   LAC2-4TEN2-4Sun, 4:05 pm ET
-*   BAL4-2SEA5-1Sun, 4:25 pm ET
-*   NO5-1CHI3-2Sun, 4:25 pm ET
-*   PHI3-3DAL3-3Sun, 8:20 pm ET
-*   NE6-0NYJ1-4Mon, 8:15 pm ET
-
-*   News
-*   Scores
-*   Schedule
-*   Standings
-*   Highlights
-*   NFL 100
-*   Fantasy
-*   Tickets
-*   Shop
-*   Teams
-*   Super Bowl
-*   Pro Bowl
-*   Combine
-*   Draft
-*   Stats
-*   Next Gen Stats
-*   Ways to Watch
-*   NFL Network
-*   Photos
-*   NFL Films
-*   Game Pass
-
-*   KC4-2DEN2-4Thu, 8:20 pm ET
-*   SF5-0WAS1-5Sun, 1:00 pm ET
-*   ARI2-3-1NYG2-4Sun, 1:00 pm ET
-*   HOU4-2IND3-2Sun, 1:00 pm ET
-*   OAK3-2GB5-1Sun, 1:00 pm ET
-*   MIN4-2DET2-2-1Sun, 1:00 pm ET
-*   JAX2-4CIN0-6Sun, 1:00 pm ET
-*   MIA0-5BUF4-1Sun, 1:00 pm ET
-*   LA3-3ATL1-5Sun, 1:00 pm ET
-*   LAC2-4TEN2-4Sun, 4:05 pm ET
-*   BAL4-2SEA5-1Sun, 4:25 pm ET
-*   NO5-1CHI3-2Sun, 4:25 pm ET
-*   PHI3-3DAL3-3Sun, 8:20 pm ET
-*   NE6-0NYJ1-4Mon, 8:15 pm ET
-
 *   News
 *   Scores
 *   Schedule
@@ -71,11 +19,6 @@
     *   Photos
     *   NFL Films
     *   Game Pass
-
-*   Fantasy
-*   Tickets
-*   Shop
-*   Teams
 
 NFL.com - Privacy Policy English
 
