@@ -76,6 +76,7 @@
     
     View All Categories Shop by Category*   Thanksgiving Gifts
     *   Christmas Gifts
+    *   Holiday Entertaining
     
     Occasions*   Birthday Gifts
     *   Gifts for Her
@@ -165,6 +166,7 @@
     
     View All Categories Shop by Category*   Thanksgiving Gifts
     *   Christmas Gifts
+    *   Holiday Entertaining
     
     Occasions*   Birthday Gifts
     *   Gifts for Her
