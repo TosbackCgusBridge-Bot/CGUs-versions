@@ -444,6 +444,14 @@ Lenovo Explore Close
         *   Lenovo Smart Bulb
         *   Lenovo Smart Plug
         
+        Yoga Smart Tab Bundles
+        
+        Shop Now for Premium Yoga Smart Tab Bundle Offers
+        
+        Smart Home Deals
+        
+        Explore Smart Home Deals and More!
+        
         *   Always Free Shipping
         *   Easy Returns
         *   Financing Available
@@ -455,6 +463,19 @@ Lenovo Explore Close
         *   Always Free Shipping
         *   Easy Returns
         *   Financing Available
+        
+        ThinkSmart Hub
+        
+        Outfit Your Conference Room for Fast Call Efficiency.
+        
+        Smart Devices in Business
+        
+        Learn how Smart Devices and Tablets can improve your business.
+        
+        Join for Free!
+        
+        Receive additional savings on any Smart Device or Tablet
+        
     *   AR/VR
         
         *   Explore AR/VR
@@ -463,13 +484,17 @@ Lenovo Explore Close
         *   Oculus Rift S
         *   Mirage Headset &. Mirage Camera
         
+        *   Always Free Shipping
+        *   Easy Returns
+        *   Financing Available
+        
+        Marvel: Dimension of Heroes
+        
+        Defend Your Reality in MARVEL Dimension of Heroes.
+        
         Star Wars: Jedi Challenges
         
-        Master the ways of the force!
-        
-        Mirage Solo &. Camera
-        
-        An evolved way to see reality.
+        Bundle and Save with the Jedi Duel Bundle!
         
         Oculus Rift S
         
@@ -495,6 +520,10 @@ Lenovo Explore Close
         *   PC Technical Support
         *   Premier Support
         *   Warranty Lookup
+        
+        *   Always Free Shipping
+        *   Easy Returns
+        *   Financing Available
 *   SERVICES
     *   SERVICES
     *   Warranty Lookup
@@ -562,11 +591,12 @@ Lenovo Explore Close
     *   Story Hub
     *   Careers
     *   Culture
+*   THINKS SMART HUB
 
 1-855-253-6686
 
 *   Search
-
+*   icon-compare0 Compare Compare (0)
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
@@ -614,7 +644,7 @@ Lenovo Explore Close
     *   Learn more
 *   Contact
     *   HELP PLACING AN ORDER 855-253-6686
-    *   EXISTING ORDER HELP
+    *   EXISTING ORDER HELP 855-253-6686 option #1
     *   Hours
     *   24/7 CHAT NOW >.
 *   Account
@@ -634,7 +664,13 @@ Lenovo Explore Close
 
 Top Suggestions
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
+
+Please add at least 2 products for compare
+
+Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
+
+Lenovo Privacy Statement Top
 
 protects better"/>.
 
