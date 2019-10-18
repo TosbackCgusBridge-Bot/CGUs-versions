@@ -230,7 +230,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**50-70% OFF Entire Site GIRLS GUYS + Free Ship Over $50**
+**Up to 80% OFF Clearance &. Fall Essentials + Free Ship Over $50**
 
 *   Select Country
 *   My Account My Account Login Register
@@ -429,7 +429,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-OVER $50 Search Catalog Search In Stores &. Online ENTIRE SITE 50-70% OFF Details Shop Girls Shop Guys In Stores &. Online AERO JEANS BUY ONE GET ONE FREE BUY ONE GET ONE FREE + FREE SHIPPING Free shipping on your entire purchase when you buy Aero Jeans Details Shop Girls Jeans Shop Guys Jeans GET REAL NEW AERO. REAL DENIM. REAL DENIM Old School Fits &. Washes. New School Comfort. Shop Girls Shop Guys Previous Next Shop Girls Jeans Shop Guys Jeans NEW! SLIM &. THICK CURVY JEAN NEW! SLIM &. THICK CURVY JEAN Booty-enhancing jean with a magic gap-proof waistband that highlights your curves. Now Available In: Get Ahead of the Curve #INAEROJEANS 21 Fits &. 94 Washes REAL DENIM Old School Fits &. Washes. New School Comfort FLEX EFFECTS Our innovative 4-way, 360 stretch denim. SERIOUSLY STRETCHY 2-way seriously stretchy denim. MAX STRETCH FOR GUYS Maximum stretch denim fabric. REAL DENIM Old School Fits &. Washes. New School Comfort FLEX EFFECTS Our innovative 4-way, 360 stretch denim.
+OVER $50 Search Catalog Search In Stores &. Online UP TO 80% OFF Clearance &. Fall Essentials For A Limited Time Only Details Girls Clearance Guys Clearance Girls New Arrivals Guys New Arrivals Aero Halloween Shop Take The Fright Night Quiz In Stores &. Online ENTIRE SITE 50-70% OFF Details Shop Girls Shop Guys In Stores &. Online AERO JEANS BUY ONE GET ONE FREE BUY ONE GET ONE FREE + FREE SHIPPING Free shipping on your entire purchase when you buy Aero Jeans Details Shop Girls Jeans Shop Guys Jeans GET REAL NEW AERO. REAL DENIM. REAL DENIM Old School Fits &. Washes. New School Comfort. Shop Girls Shop Guys Previous Next Shop Girls Jeans Shop Guys Jeans NEW! SLIM &. THICK CURVY JEAN NEW! SLIM &. THICK CURVY JEAN Booty-enhancing jean with a magic gap-proof waistband that highlights your curves. Now Available In: Get Ahead of the Curve #INAEROJEANS 21 Fits &. 94 Washes REAL DENIM Old School Fits &. Washes. New School Comfort FLEX EFFECTS Our innovative 4-way, 360 stretch denim. SERIOUSLY STRETCHY 2-way seriously stretchy denim. MAX STRETCH FOR GUYS Maximum stretch denim fabric. REAL DENIM Old School Fits &. Washes. New School Comfort FLEX EFFECTS Our innovative 4-way, 360 stretch denim.
 
 *   1
 *   2
