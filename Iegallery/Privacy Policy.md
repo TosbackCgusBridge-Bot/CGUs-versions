@@ -593,7 +593,7 @@ As part of providing these features, Microsoft collects usage data about your co
 
 **Recommendations in Skype**. Subject to availability, Skype may offer suggestions to help you manage your time, tasks, find information and get things done. For example, Skype may provide contextual prompts to create reminders or suggest you create a task using Microsoft services.This data may also be used to improve Microsoft products.
 
-**Captioning**. Certain Skype features include accessibility functionality such as captioning. During Skype calls, a call participant can activate a voice-to-text feature, which allows the user to view the audio chat as text. If a user activates this feature, other call participants will not receive a notification. Microsoft uses this voice and text data to provide captioning of audio for users and to improve Microsoft speech recognition and related services.
+**Captioning**. Certain Skype features include accessibility functionality such as captioning. During Skype calls, a call participant can activate a voice-to-text feature, which allows the user to view the audio chat as text. If a user activates this feature, other call participants will not receive a notification. Microsoft uses this voice and text data to provide captioning of audio for users.
 
 Top of page LinkedInLinkedIn
 
