@@ -226,4 +226,4 @@ CALL US
 **Sales:** (855) 856-1516
 
 Copyright © 2019 Vanco. All rights reserved.  
-Vanco is a registered ISO of Wells Fargo Bank, N.A., Concord, CA Privacy Policy | Terms and Conditions PCI Certified <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCFS6FD" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1833255713665121&amp;ev=PageView&amp;noscript=1">.
+Vanco is a registered ISO of Wells Fargo Bank, N.A., Concord, CA Privacy Policy | Terms and Conditions PCI Certified <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1833255713665121&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCFS6FD" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
