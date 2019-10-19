@@ -364,23 +364,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   McAleenan out at DHS
-    *   Fake company pushes phony cryptocurrency app to spread Mac malware
-    *   Second Senate Intel committee report confirms Russia social media campaign to influence 2016 election, skewer Clinton
-    *   Dems' SHIELD Act would protect elections, close loopholes on foreign spending
-    *   Diplomats used WhatsApp, personal phones to discuss Ukraine policy
+    *   Baltimore belatedly buys cyberinsurance
+    *   DIA analyst arrested for disclosing classified info to two journalists
+    *   Graboid cryptomining worm leverages Docker Engine containers to spread
+    *   Tomorrow's attacks today: How to defend against next-generation cyberattacks
+    *   Decryptors developed for new Muhstik, HildaCrypt ransomwares
     
-    *   Open AWS buckets expose more than 200K CVs at two online recruitment firms
-    *   Private equity firm bids $3.9 billion for Sophos
-    *   Kernel privilege escalation bug actively exploited in Android devices
-    *   Hacker behind Montgomery County school data breach identified
-    *   CyberRisk Alliance appoints Malcolm Harkins to its board
+    *   Major software vendor compromised with previously undocumented PortReuse backdoor
+    *   Twitter users' 2FA info found its way to advertisers
+    *   Magecart attack on e-commerce service impacts Sesame Street store and many more
+    *   BitPaymer ransomware attackers exploit Apple flaw to bypass detection
+    *   Deepfakes and their potential impact on society
     
-    *   Unpatched Amazon Echo and Kindle devices prone to KRACK attacks
-    *   APT 29/The Dukes back in business
-    *   Cisco fixes critical Aironet Access Points flaw, addresses 29 more bugs
-    *   Hacker behind Montgomery County school data breach identified
-    *   VMware patches critical bug in Harbor Container Registry for PCF
+    *   Trojanized Russian-language Tor browser lets attacks steal from users' e-wallets
+    *   UC Browser potentially endangers 500 million users
+    *   Phishing scam targets users of Stripe payment processing service
+    *   2.8 million CenturyLink customer records exposed by unprotected database
+    *   CBP mulls facial recognition tech for body cams
 
 Back to Top
 
@@ -412,4 +412,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
