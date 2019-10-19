@@ -123,7 +123,7 @@ Get a New DualShock®4 Controller
 
 From Netherrealm to Raccoon City. Enjoy shocking savings during PS Store’s Halloween Sale:  https://play.st/35AczsQ  pic.twitter.com/xeqoNCnNM3
 
-2 days ago View Tweet Instagram Post B3Z7Jx8lKHM
+3 days ago View Tweet Instagram Post B3Z7Jx8lKHM
 
 Be In Control
 
