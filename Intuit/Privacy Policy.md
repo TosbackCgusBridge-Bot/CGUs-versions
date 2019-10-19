@@ -54,18 +54,18 @@ Brisk temps call for layers of warmth.
     
 
 SHOP NOWUP TO 50% OFF COZY BEDDING  
-select stylesSink into sleep with soft sheets, a pile of pillowsand a plush comforter.
+select styles Sink into sleep with soft sheets, a pile of pillows  and a plush comforter.
 
 *   SHOP NOW
 
-GET DETAILSJCPenney is a proud supporterof American Cancer Society®UP TO 50% OFFHALLOWEEN DECORselect styles Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 21 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+GET DETAILSJCPenney is a proud supporterof American Cancer Society®THE LOCAL LOOKLocally curated, universally lovedUP TO 50% OFFHALLOWEEN DECORselect styles Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 21 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
 *   $2999after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(28)
-*   $2999after couponwas $60 Arizona Womens Yetta Block Heel Lace Up Boots(19)
+*   $2999after couponwas $60 Arizona Womens Yetta Block Heel Lace Up Boots(20)
 *   $3749after couponwas $80 Arizona Womens Dino Wide Calf Riding Boots Block Heel
-*   $1349after couponwas $32 St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(5)
-*   $299 - $2249after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1421)
-*   $2999after couponwas $60 Arizona Womens Julian Block Heel Booties(8)
+*   $1349after couponwas $32 St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(6)
+*   $2999after couponwas $60 Arizona Womens Julian Block Heel Booties(10)
+*   $299 - $2249after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1425)
 
 Shop and Save at JCPenney
 
