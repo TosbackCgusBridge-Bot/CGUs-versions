@@ -71,8 +71,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie News: ‘John Wick’ Spin-off Lands ‘Underworld’ Director, First ‘Jungle Cruise’ Trailer and More Read More
-    *   Today in Movie Culture: ‘Joker’ Easter Eggs, Scene Breakdowns, Fan Art, Musical Tributes and More Read More
+    *   The Week in Movie News: Catwoman and the Riddler Join ‘The Batman,’ ‘Addams Family 2’ in the Works and More Read More
+    *   The Week in Movie Trailers: Robert Downey Jr. in ‘Dolittle,’ Adam Driver in ‘The Report’ and ‘Marriage Story’ and More Read More
     *   Next 3 Major Awards Contenders: 'Jojo Rabbit,' 'The Irishman,' '1917' Read More
     
     Explore Content
@@ -307,9 +307,9 @@ Offers
     
     100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
     
-*   'Cats' Sweepstakes
+*   Get a $13 Movie Ticket to see 'The Addams Family'
     
-    Sign up for a 'Cats' FanAlert™ for your chance to win a trip to the premiere in London! \*Terms apply. ENTER NOW
+    When you purchase 2 Hershey's Halloween Assortment Bags. SEE DETAILS
     
 
 New + Coming soon
