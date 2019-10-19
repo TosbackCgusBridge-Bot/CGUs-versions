@@ -591,7 +591,6 @@ Lenovo Explore Close
     *   Story Hub
     *   Careers
     *   Culture
-*   THINKS SMART HUB
 
 1-855-253-6686
 
