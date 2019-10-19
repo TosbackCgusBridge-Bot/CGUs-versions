@@ -23,6 +23,7 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   General Election Polls
     *   Direction of Country
     *   Political Leaders Favorability
+    *   Trump Impeachment Inquiry
     *   State of the Union Polls
     *   All Latest Election Polls
 *   Election 2020
@@ -65,6 +66,7 @@ We use cookies to offer you a better experience and to help us understand how yo
         *   General Election Polls
         *   Direction of Country
         *   Political Leaders Favorability
+        *   Trump Impeachment Inquiry
         *   State of the Union Polls
         *   All Latest Election Polls
     *   RCP Election 2020
@@ -116,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _William Saletan_: Why Democrats Are in Trouble If Warren Wins the Nomination
+*   _E.J. Dionne_: Warren's Plan Worked. Now She Needs Another One
     
-*   _Moira Donegan_: Warren Was Attacked From All Sides, Barely Batted an Eye
+*   _Carlson &. Patel_: Will the Press Start Doing Its Job on Biden?
     
-*   _Ann Coulter_: Please, Please More Democratic Debates!
+*   _Nina Burleigh_: Trump's Pelosi 'Meltdown' Tweet Was the Perfect Self-Own
     
-*   _Richard Haass_: The High Price of Trump's Great Syria Betrayal
+*   _Peter Beinart_: Dems Are Hypocrites for Condemning Trump Over Syria
     
-*   _Jim Talent_: Trump Was Right Not to Risk War With Turkey
+*   _Sen. Marco Rubio_: We Can't Allow China to Hold the World Hostage
     
-*   _Joe Crowley_: 2020 Dems, High-Skilled Immigration Boosts Our Middle Class
+*   _Howard French_: Why China Fears Sending the Tanks Into Hong Kong
     
-*   _Nate Silver_: How the Ocasio-Cortez and Omar Endorsements Could Matter
+*   _David Wallace-Wells_: Extinction Rebellion &. the Birth of a New Climate Politics
     
-*   _Alexander Sammon_: Would Biden Be a Repeat of Kerry's 2004 Loss?
+*   _John Davidson_: Climate Change Extremism Isn't Popular--It Never Will Be
     
-*   _Jenny Beth Martin_: Schiff Should Be Censured for Media Statements
+*   _Jill Filipovic_: Trump Family Throws Stones at Biden From a Glass House
     
-*   _Anna North_: 'Nervous Nancy' Tweet Shows Trump's Problem w/Strong Women
+*   _Frank Rich_: 5 Dems Standing After Debate--Biden Isn't One of Them
     
-*   _Rachel Bovard_: Trump Admin's Successful War vs. Bureaucratic Bullies
+*   _Heather Mac Donald_: Gigabytes of Virtue-Signaling
     
-*   _Benjamin Wallace-Wells_: Is This Elizabeth Warren's Democratic Party?
+*   _Conrad Black_: Impeachment Becomes a Psychodrama of the Press
     
-*   _Michael Starr Hopkins_: Dear Fellow Dems: It's Time to Start Worrying
+*   _Susan Glasser_: A Week of Revelations in House Impeachment Inquiry
     
-*   _Eric Levitz_: Bernie's Campaign Is Alive and Well
+*   _Roger L. Simon_: Mifsud's Cellphones Mean Barr Investigation Heating Up
     
-*   _Newt Gingrich_: Dems Becoming Anti-American Engine of Radical Change
+*   _Tim Alberta_: 'Can Any of These People Beat Trump?'
     
-*   _Joel Mathis_: Trump Is Getting Worse
+*   _Sean Trende_: Would Warren's Ideology Weaken Her as Democrats' Nominee?
     
-*   _Rep. Scott Perry_: The Comments &. Actions of Schiff Demand Censure
+*   _Elie Mystal_: The Energy for Democrats Is With the Progressives
     
-*   _Ronald Brownstein_: The Eye-Popping Cost of Medicare for All
+*   _Susan Crabtree_: Trump in Dallas: I'm Not Losing Texas
     
-*   _Phil Wegmann_: Is This New Health Care Plan What the GOP Needs?
+*   _Robert O'Brien_: How I Will Streamline Trump's Natl Security Council
     
-*   _Gabe Roth_: Did SCOTUS Agree to Hear Abortion Case to Help GOP in 2020?
+*   _William McRaven_: Our Republic Is Under Attack From the President
     
-*   _Eddie Scarry_: Are Trump's Attacks on Biden Hitting Too Close to Home?
+*   _Frank Miele_: Congress Just Begging for Another Quagmire War
     
-*   _Ezra Klein_: Why Democrats Need to Talk About Hunter Biden
+*   _Tom McTague_: Boris Johnson Won a Brexit Round, But the EU Held the Line
     
-*   _Mollie Hemingway_: Voters Sided w/Trump Against Foreign Policy Intelligentsia
+*   _Victor Davis Hanson_: Is America Becoming Sinicized?
     
-*   _Soner Cagaptay_: How Erdogan Is Playing Trump - and Putin
+*   _Mark Zuckerberg_: Facebook Stands for Free Expression
     
 
 *   Previous
@@ -233,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Despite Prodding, 2020 Dem Candidates Still Silent on Court Picks
+*   Trump in Dallas: I'm Not Losing Texas
+*   Trende: Would Warren's Ideology Weaken Her as Dems' Nominee?
+*   Coons Says Congress Needs to See Transcript of Trump Calls With Turkey
 *   Conservative Groups Push Health Plan They Say Republicans Need
-*   Trump: Why Should U.S. Troops Fight Turkey Over Syria's Land?
-*   8 Key Points of Contention in the Democratic Debate
-*   Sanders and Warren Build Big War Chests as Biden Lags Behind
+*   Despite Prodding, 2020 Dem Candidates Still Silent on Court Picks
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -250,6 +252,23 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   2020 Democratic Presidential NominationPolitico/Morning Consult
+    *   Biden31
+    *   Warren21
+    *   Sanders18
+    *   Buttigieg6
+    *   Harris7
+    *   O'Rourke2
+    *   Yang3
+    *   Klobuchar2
+    *   Booker2
+    *   Steyer2
+    *   Gabbard1
+    *   Bennet1
+    *   Castro1Biden +10
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve47
+    *   Disapprove52Disapprove +5
 *   Iowa Democratic Presidential CaucusEmerson
     *   Warren23
     *   Biden23
@@ -267,20 +286,14 @@ Latest PollsAll Polls
 *   Iowa: Trump vs. BidenEmerson
     *   Trump51
     *   Biden49Trump +2
-*   Iowa: Trump vs. WarrenEmerson
-    *   Trump51
-    *   Warren49Trump +2
-*   Iowa: Trump vs. SandersEmerson
-    *   Sanders51
-    *   Trump49Sanders +2
 
 More Latest Polls In The News
 
-*   Trump: The Same People Who Want Us To Fight Endless Wars Want Us To Open Our Borders To Mass Migration
+*   Hillary Clinton Suggests Tulsi Gabbard Is A "Russian Asset," Being "Groomed" For Third-Party Run
+*   Trump on Syrian Kurds: "Sometimes You Have To Go Through Some Pain Before You Can Get A Good Solution"
+*   Ret. Admiral McRaven: America Is Under Attack From President Trump, Destroying Republic From Within
 *   Clapper: Assault On The Truth, Bad Case Of "Truth Decay" Started On First Day Of Trump Presidency
 *   Zuckerberg: "In A Democracy, I Believe People Should Decide What Is Credible, Not Tech Companies"
-*   Trump: Turkey Ceasefire An "Incredible Outcome" That "Saved Lives," This Is A "Great Day For Civilization"
-*   Gabbard: When It Comes To Debating Regime Change Wars It's A Joke To Think CNN, NYT Are Objective
 
 *   Politics
 *   Policy
