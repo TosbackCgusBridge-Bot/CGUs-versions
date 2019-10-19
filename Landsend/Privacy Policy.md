@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off 1 full-price item!
+Receive 40% off full-price styles, plus free shipping, no minimum on all orders!
 
-code: AMBER pin: PROMOTION DETAILS
+code: PUMPKIN pin: PROMOTION DETAILS
 
 Customer Service Menu
 
