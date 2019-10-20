@@ -42,7 +42,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Motherless Brooklyn
     *   Terminator: Dark Fate
     *   Doctor Sleep
-    *   Last Christmas
+    *   Last Christmas (2019)
     *   Midway (2019)
     *   See All Coming Soon
     
@@ -381,4 +381,8 @@ Fandango Affiliated Companies:
 *   Fandango Latin America
 *   Ingresso
 
-© 2019 Fandango
+© 2019 Fandango Got a minute?
+
+Help us improve Fandango by taking a short survey!
+
+Take the surveyNo Thanks
