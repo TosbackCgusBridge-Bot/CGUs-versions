@@ -13,7 +13,7 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   19\. Oktober 2019
+*   20\. Oktober 2019
 *   Abo
 *   DAX 12.633,60ǀ
 *   Schlagzeilenǀ
