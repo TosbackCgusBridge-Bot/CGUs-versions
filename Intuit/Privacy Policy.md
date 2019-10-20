@@ -1,6 +1,6 @@
 Free Shipping over $99See DetailsEnable Accessibility
 
-*   My AccountSign InTrack MyOrders
+*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -61,11 +61,11 @@ select styles Sink into sleep with soft sheets, a pile of pillows  and a plush
 GET DETAILSJCPenney is a proud supporterof American Cancer Society®THE LOCAL LOOKLocally curated, universally lovedUP TO 50% OFFHALLOWEEN DECORselect styles Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 21 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
 *   $2999after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(28)
-*   $2999after couponwas $60 Arizona Womens Yetta Block Heel Lace Up Boots(20)
+*   $2999after couponwas $60 Arizona Womens Yetta Block Heel Lace Up Boots(21)
 *   $3749after couponwas $80 Arizona Womens Dino Wide Calf Riding Boots Block Heel
 *   $1349after couponwas $32 St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(6)
 *   $2999after couponwas $60 Arizona Womens Julian Block Heel Booties(10)
-*   $299 - $2249after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1425)
+*   $299 - $2249after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1426)
 
 Shop and Save at JCPenney
 
