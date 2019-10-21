@@ -381,8 +381,4 @@ Fandango Affiliated Companies:
 *   Fandango Latin America
 *   Ingresso
 
-© 2019 Fandango Got a minute?
-
-Help us improve Fandango by taking a short survey!
-
-Take the surveyNo Thanks
+© 2019 Fandango
