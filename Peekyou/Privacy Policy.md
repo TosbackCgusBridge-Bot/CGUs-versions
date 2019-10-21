@@ -57,7 +57,7 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, UT. Online, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, Utah. On the internet, Privacy goes by the alias sammytown.
 
 What is PeekScore? Public Records &. Background Checks 4% 
 
@@ -165,7 +165,7 @@ Sponsored by **PeopleLooker***   Patricia A Policy, age 57, Casselberry, FL 3270
     
 *   Show Less ...
 
-7%  Arrest Records &. Driving Infractions
+8%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -272,43 +272,43 @@ Twitter 4% 
     
 *   HealthCare.gov - HealthCareGov
     
-*   Dr. Robert R. Redfield - CDCDirector
-    
 *   CDC - CDCgov
-    
-*   Show More ...
-
-*   Francis S. Collins - NIHDirector
-    
-*   Secretary Alex Azar - SecAzar
     
 *   U.S. FDA - US\_FDA
     
-*   U.S. FDA - FDArecalls
-    
+*   Show More ...
+
 *   Federal Reserve - federalreserve
-    
-*   HIV.gov - HIVGov
-    
-*   CDC\_eHealth - CDC\_eHealth
     
 *   HHS.gov - HHSGov
     
+*   U.S. FDA - FDArecalls
+    
 *   Free Privacy Policy - FreePrivacy1
+    
+*   Mabuhay Miles - PALMabuhayMiles
+    
+*   CDC\_eHealth - CDC\_eHealth
+    
+*   FTC - FTC
     
 *   Justice Department - TheJusticeDept
     
-*   Mabuhay Miles - PALMabuhayMiles
+*   USAIDSenegal - USAIDSenegal
+    
+*   Dr. Robert R. Redfield - CDCDirector
+    
+*   HIV.gov - HIVGov
+    
+*   NIH - NIH
+    
+*   IRS - IRSnews
     
 *   U.S. Census Bureau - uscensusbureau
     
 *   OAIC - OAICgov
     
-*   Updated Privacy Policy - EAEO
-    
 *   Cristiano Ronaldo - Cristiano
-    
-*   NIH - NIH
     
 *   Show Less ...
 
@@ -316,45 +316,45 @@ Instagram 4% 
 
 *   ~PRIVACY POLICY~ - lmaorosh
     
-*   privacy policy - javad.a.xr
-    
 *   Privacy Policy. - privacypolicy.6974
     
-*   NO CONSENT To Privacy Policy - outdapotrecords
+*   Privacy policy - privacydoor7
+    
+*   Privacy Policy - mrprivacypolicy
     
 *   Show More ...
 
-*   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ - \_\_privacy.policy\_\_\_
+*   Privacy Policy - insta\_privacy\_policy
+    
+*   Privacy Policy - aqua\_blade
     
 *   NO CONSENT To Privacy Policy - dmvbigdummy
     
-*   Instagramer - \_\_privacy\_policy\_\_
-    
-*   Are You Fed? - privacy\_policy\_\_\_\_
-    
-*   Starz Birdman Jr. - privacy\_policy
-    
-*   InstagramRep. - privacy\_policy\_direct\_
-    
-*   privacy\_policy\_team\_ - privacy\_policy\_team\_
-    
-*   instagram\_service-iran - privacy\_policy\_insta\_iran
-    
-*   Politics - policy\_privacy
-    
-*   ߘⰟ菰ߘ� privacy\_policyxx
-    
-*   police instagram - privacy\_\_policy\_\_
-    
-*   instagram - privacypolicycrew
-    
-*   Privacy Policyߤ밟䫠- pv.kamonnnnp
-    
 *   Memes? - privacy\_policy101
+    
+*   Social Media Privacy policy - socialmediaprivacypolicy
     
 *   Instagram privacy Policy - privacy.policy.security
     
-*   Mark Smith - privacy\_policy\_insta
+*   Privacy Policy games - privacypolicygames
+    
+*   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ - \_\_privacy.policy\_\_\_
+    
+*   Karen McDowall - privacy\_\_\_policy
+    
+*   aidan miles - we\_updated\_our\_privacy\_policy
+    
+*   NO CONSENT To Privacy Policy - outdapotrecords
+    
+*   privacy policy terms of Elana - lanaprv
+    
+*   عبدالله علوي - privacy\_policyinformation\_we\_c
+    
+*   instagram\_service-iran - privacy\_policy\_insta\_iran
+    
+*   Konstantin - \_privacy.\_.policy\_
+    
+*   Instagram Privacy Policy - deleting.instaprivacy
     
 *   Show Less ...
 
@@ -426,7 +426,7 @@ Social Profiles 4% 
 
 Pinterest 4% 
 
-*   Privacy - policyprivacy
+*   http://www.google.com/policies/privacy @ - roskilik0
     
 *   Policy Privacy - policyp
     
@@ -555,7 +555,7 @@ Images 4% 
 
 9
 
-19
+20
 
 20
 
