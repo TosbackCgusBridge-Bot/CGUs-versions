@@ -9,6 +9,33 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
+    *   50-70% Off: Sterling Forever x @simplytandya
+    *   Denim Up to 70% Off
+    *   Lafonn Simulated Diamond Jewelry Up to 65% Off
+    *   Booties, Pumps &. More Up to 60% Off
+    *   Men's Shoes Up to 65% Off
+    *   65-75% Off: Final Few Handbags
+    *   Trina Turk Up to 65% Off
+    *   Theory Men Up to 60% Off
+    *   Dolce Vita Up to 60% Off
+    *   Rock Revival &. Miss Me Up to 65% Off
+    *   Magnanni
+    *   Trina Turk Outerwear Up to 65% Off
+    *   Trina Turk Jewelry &. More
+    *   Spyder Under $50
+    *   Resort Ready: Trina Turk Swim &. More
+    *   Sweaters ft. Thread &. Supply
+    *   SUSINA Shoes &. More
+    *   Free Shipping: Shun Cutlery Classic Collection
+    *   Exfoliating Sugar Cubes from Harper + Ari
+    *   Most-Favorited Beauty Products on Nordstrom Rack
+    *   Dolce Vita Girls
+    *   Skechers Kids
+    *   SilkPro Beauty Tools
+    *   K-Beauty Skin Care ft. Urang, 23 Years Old &. More
+    *   Kitchen All-Stars: Cookware, Storage &. More
+    *   Family Fun Night: Games &. Toys Starting at $12
+    *   LNA &. More Up to 75% Off
     *   NYDJ Incl. Plus &. Petites
     *   James Perse Up to 60% Off
     *   Mario Badescu
@@ -16,6 +43,7 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   New Balance
     *   New Balance Men
     *   Mustard Seed &. More
+    
     *   DKNY Lingerie &. Sleep Under $35
     *   Love, Fire &. More from $15
     *   Baggu
@@ -31,14 +59,12 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   True Religion
     *   New Balance Kids
     *   Rosie Pope Baby &. More
-    *   Skechers Kids
     *   Aquatalia
     *   Aquatalia Men &. More Up to 65% Off
     *   Tommy Bahama Men
     *   Tommy Bahama Clothing &. Swim Up to 65% Off
     *   Franco Sarto Up to 60% Off
     *   Chic Dresses ft. Sharagano Incl. Plus &. Petites
-    
     *   Trending: Structured &. Statement Bags Under $60
     *   Mirenesse Australia Up to 45% Off
     *   Tommy Bahama Luggage
@@ -52,6 +78,7 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Let the Music Take Over: Speakers &. More
     *   Free Shipping: Luxe Faux Fur Pillows &. More
     *   Joe-Ella
+    
     *   bebe Girls' Shoes
     *   LondonTown Nail Polish Starting at $10
     *   Giorgio Brutini Up to 55% Off
@@ -65,40 +92,47 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   The Coat Shop: Raincoats &. Trenches
     *   The Coat Shop: Faux Fur
     *   Automatic Robot Vacuums &. More Up to 60% Off
-    *   Tahitian Pearl Jewelry &. More Starting at $15
     *   Kalorik Kitchen Appliances
-    *   14K Gold, Gemstones &. More Under $90
-    
-    *   Wolverine Men
-    *   Kendra Scott
-    *   Girls' Favorite Brands ft. Betsey Johnson
-    *   The Coat Shop: Girls' Outerwear
-    *   The Coat Shop: Boys' Outerwear
-    *   K-Beauty Hair Care ft. Real Mary by Rated Green
-    *   Becca Cosmetics
-    *   Sky Organics: Essential Oils, Bath Bombs &. More
-    *   Free Shipping: Luxe Bedding Essentials Under $90
-    *   English Laundry Shoes Up to 60% Off
-    *   Most-Favorited Beauty Products on Nordstrom Rack
-    *   Stone Rose Up to 65% Off
-    *   Free Shipping: Holiday Kitchen Prep Up to 60% Off
-    *   Get Holiday Ready: Bakeware Starting at $10
-    *   Free Shipping: Charming Wall Decor &. More
-    *   Free Shipping: Cozy Pet Beds &. Covers
-    *   Halloween-Inspired Makeup to Complete Your Look
-    *   Men's Grooming &. Skin Care Starting at $10
-    *   Free Shipping: Memory Foam &. Down Essentials
-    *   Free Shipping: Decorative Pillows &. Throws
-    *   Free Shipping: Bedding Steals Up to 65% Off
-    *   Tech Accessories ft. Cases &. Smart Watch Bands
     *   New Arrivals from Lancome
-    *   Juicy Couture Baby &. Girls
-    *   Prada, Gucci &. Burberry Fragrances
+    *   Wolverine Men
+    *   Girls' Favorite Brands ft. Betsey Johnson
     *   Dr. Scholl's Kids
     *   Stemology: Natural Anti-Aging Skin Care
+    *   K-Beauty Hair Care ft. Real Mary by Rated Green
+    *   The Coat Shop: Girls' Outerwear
+    *   The Coat Shop: Boys' Outerwear
+    *   Juicy Couture Baby &. Girls
+    *   Free Shipping: Luxe Bedding Essentials Under $90
     *   Free Shipping: Hand-Painted Replicas
+    *   Free Shipping: Holiday Kitchen Prep Up to 60% Off
+    *   Get Holiday Ready: Bakeware Starting at $10
+    *   Prada, Gucci &. Burberry Fragrances
+    *   Becca Cosmetics
+    *   Sky Organics: Essential Oils, Bath Bombs &. More
+    *   Free Shipping: Charming Wall Decor &. More
+    *   Free Shipping: Cozy Pet Beds &. Covers
+    *   Free Shipping: Memory Foam &. Down Essentials
+    *   Free Shipping: Decorative Pillows &. Throws
 *   WomenShop Sale Events
     
+    *   50-70% Off: Sterling Forever x @simplytandya
+    *   Denim Up to 70% Off
+    *   Lafonn Simulated Diamond Jewelry Up to 65% Off
+    *   Booties, Pumps &. More Up to 60% Off
+    *   65-75% Off: Final Few Handbags
+    *   Trina Turk Up to 65% Off
+    *   Dolce Vita Up to 60% Off
+    *   Rock Revival &. Miss Me Up to 65% Off
+    *   Trina Turk Outerwear Up to 65% Off
+    *   Trina Turk Jewelry &. More
+    *   Resort Ready: Trina Turk Swim &. More
+    *   Sweaters ft. Thread &. Supply
+    *   SUSINA Shoes &. More
+    *   Exfoliating Sugar Cubes from Harper + Ari
+    *   Most-Favorited Beauty Products on Nordstrom Rack
+    *   SilkPro Beauty Tools
+    *   K-Beauty Skin Care ft. Urang, 23 Years Old &. More
+    *   LNA &. More Up to 75% Off
     *   NYDJ Incl. Plus &. Petites
     *   James Perse Up to 60% Off
     *   Mario Badescu
@@ -109,6 +143,7 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Love, Fire &. More from $15
     *   Baggu
     *   Gemstones &. Diamonds Starting at $40
+    
     *   Roberto Cavalli Watches &. More Up to 70% Off
     *   Dr. Scholl's Comfort Shoes from $40
     *   Fresh Finds: Shoes Up to 60% Off
@@ -120,7 +155,6 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Mirenesse Australia Up to 45% Off
     *   Tommy Bahama Luggage
     *   Loafers We Love Up to 60% Off
-    
     *   Free Press &. Shimera Under $35
     *   Weekend to Work: Skirts from $20
     *   Fanco &. More from $25
@@ -131,43 +165,40 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   The Coat Shop: Wool Up to 70% Off
     *   The Coat Shop: Raincoats &. Trenches
     *   The Coat Shop: Faux Fur
-    *   Tahitian Pearl Jewelry &. More Starting at $15
-    *   14K Gold, Gemstones &. More Under $90
+    *   New Arrivals from Lancome
+    *   Stemology: Natural Anti-Aging Skin Care
     *   K-Beauty Hair Care ft. Real Mary by Rated Green
+    *   Prada, Gucci &. Burberry Fragrances
     *   Becca Cosmetics
     *   Sky Organics: Essential Oils, Bath Bombs &. More
-    *   Most-Favorited Beauty Products on Nordstrom Rack
-    *   Halloween-Inspired Makeup to Complete Your Look
-    *   New Arrivals from Lancome
-    *   Prada, Gucci &. Burberry Fragrances
-    *   Stemology: Natural Anti-Aging Skin Care
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
+    *   Lingerie &. Shapewear
     *   Handbags
     *   Accessories
-    *   Lingerie &. Shapewear
     *   Watches
 *   MenShop Sale Events
     
+    *   Men's Shoes Up to 65% Off
+    *   Theory Men Up to 60% Off
+    *   Magnanni
+    *   Spyder Under $50
     *   New Balance Men
     *   Roberto Cavalli Watches &. More Up to 70% Off
     *   Kenneth Cole Reaction Suiting &. More Up to 65% Off
     *   Kenneth Cole Reaction Men's Shoes
+    
     *   Aquatalia Men &. More Up to 65% Off
     *   Tommy Bahama Men
     *   Tommy Bahama Luggage
     *   Giorgio Brutini Up to 55% Off
-    
     *   The Coat Shop: Men's Wool &. Overcoats
     *   The Coat Shop: Men's Parkas &. Down
     *   The Coat Shop: Men's Active
     *   Wolverine Men
-    *   English Laundry Shoes Up to 60% Off
-    *   Stone Rose Up to 65% Off
-    *   Men's Grooming &. Skin Care Starting at $10
     
     Shop By Category
     *   Clothing
@@ -176,33 +207,38 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Watches
 *   KidsShop Sale Events
     
+    *   Dolce Vita Girls
+    *   Skechers Kids
+    *   Family Fun Night: Games &. Toys Starting at $12
     *   Juicy Couture Kids' Shoes
     *   True Religion
     *   New Balance Kids
     *   Rosie Pope Baby &. More
-    *   Skechers Kids
     *   Joe-Ella
-    *   bebe Girls' Shoes
     
+    *   bebe Girls' Shoes
     *   Tween Scene ft. Beautees
     *   Girls' Activewear ft. Freestyle by Danskin
     *   Girls' Favorite Brands ft. Betsey Johnson
+    *   Dr. Scholl's Kids
     *   The Coat Shop: Girls' Outerwear
     *   The Coat Shop: Boys' Outerwear
     *   Juicy Couture Baby &. Girls
-    *   Dr. Scholl's Kids
     
     Shop By Category
     *   Girls' Sizes 7-16
     *   Girls' Sizes 2T-6X
     *   Girls' Shoes
+    *   Baby Girl
     *   Boys' Shoes
     *   Boys' Sizes 8-20
     *   Boys' Sizes 2T-7
-    *   Baby Girl
     *   Baby Boy
+    *   Toy Shop
 *   HomeShop Sale Events
     
+    *   Free Shipping: Shun Cutlery Classic Collection
+    *   Kitchen All-Stars: Cookware, Storage &. More
     *   Free Shipping: Eye-Catching Wall Art
     *   Sweet Dreams: Sheet Sets &. More Under $40
     *   Tommy Bahama Luggage
@@ -210,19 +246,16 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Let the Music Take Over: Speakers &. More
     *   Free Shipping: Luxe Faux Fur Pillows &. More
     *   Automatic Robot Vacuums &. More Up to 60% Off
-    *   Kalorik Kitchen Appliances
-    *   Kendra Scott
-    *   Free Shipping: Luxe Bedding Essentials Under $90
     
+    *   Kalorik Kitchen Appliances
+    *   Free Shipping: Luxe Bedding Essentials Under $90
+    *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Holiday Kitchen Prep Up to 60% Off
     *   Get Holiday Ready: Bakeware Starting at $10
     *   Free Shipping: Charming Wall Decor &. More
     *   Free Shipping: Cozy Pet Beds &. Covers
     *   Free Shipping: Memory Foam &. Down Essentials
     *   Free Shipping: Decorative Pillows &. Throws
-    *   Free Shipping: Bedding Steals Up to 65% Off
-    *   Tech Accessories ft. Cases &. Smart Watch Bands
-    *   Free Shipping: Hand-Painted Replicas
     
     Shop By Category
     *   Home Decor
@@ -236,25 +269,26 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Cleaning &. Organization
 *   BeautyShop Sale Events
     
+    *   Exfoliating Sugar Cubes from Harper + Ari
+    *   Most-Favorited Beauty Products on Nordstrom Rack
+    *   SilkPro Beauty Tools
+    *   K-Beauty Skin Care ft. Urang, 23 Years Old &. More
     *   Mario Badescu
     *   Mirenesse Australia Up to 45% Off
     *   LondonTown Nail Polish Starting at $10
+    
+    *   New Arrivals from Lancome
+    *   Stemology: Natural Anti-Aging Skin Care
     *   K-Beauty Hair Care ft. Real Mary by Rated Green
+    *   Prada, Gucci &. Burberry Fragrances
     *   Becca Cosmetics
     *   Sky Organics: Essential Oils, Bath Bombs &. More
-    
-    *   Most-Favorited Beauty Products on Nordstrom Rack
-    *   Halloween-Inspired Makeup to Complete Your Look
-    *   Men's Grooming &. Skin Care Starting at $10
-    *   New Arrivals from Lancome
-    *   Prada, Gucci &. Burberry Fragrances
-    *   Stemology: Natural Anti-Aging Skin Care
     
     Shop By Category
     *   Makeup
     *   Skin Care
-    *   Nails
     *   Fragrance
+    *   Nails
     *   Bath &. Body
     *   Hair Care
     *   Tools &. Accessories
