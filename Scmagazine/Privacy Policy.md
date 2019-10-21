@@ -364,23 +364,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Baltimore belatedly buys cyberinsurance
-    *   DIA analyst arrested for disclosing classified info to two journalists
-    *   Graboid cryptomining worm leverages Docker Engine containers to spread
-    *   Tomorrow's attacks today: How to defend against next-generation cyberattacks
-    *   Decryptors developed for new Muhstik, HildaCrypt ransomwares
+    *   Mississippi gov't agencies fall short of cybersecurity compliance standards
+    *   How ready are you to respond to a ransomware attack?
+    *   Magecart attack on e-commerce service impacts Sesame Street store and many more
+    *   CyberRisk Alliance appoints Malcolm Harkins to its board
+    *   iBoss names DeWalt to board
     
     *   Major software vendor compromised with previously undocumented PortReuse backdoor
-    *   Twitter users' 2FA info found its way to advertisers
-    *   Magecart attack on e-commerce service impacts Sesame Street store and many more
-    *   BitPaymer ransomware attackers exploit Apple flaw to bypass detection
-    *   Deepfakes and their potential impact on society
+    *   Open AWS buckets expose more than 200K CVs at two online recruitment firms
+    *   Phishing scam targets users of Stripe payment processing service
+    *   Evolve security automation like the human brain: Part 1
+    *   Malware takes down some Pitney Bowes systems
     
+    *   Mind Your Own Business Act beefs up privacy protections, gives consumers dominion over data, punishes execs
     *   Trojanized Russian-language Tor browser lets attacks steal from users' e-wallets
     *   UC Browser potentially endangers 500 million users
     *   Phishing scam targets users of Stripe payment processing service
     *   2.8 million CenturyLink customer records exposed by unprotected database
-    *   CBP mulls facial recognition tech for body cams
 
 Back to Top
 
