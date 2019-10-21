@@ -80,15 +80,15 @@ View more results
     *   Warbanner
     *   Total Front: Army War Game
     *   Apple Shooter: Arrow Game
-    *   Combat Strike 2: 3D Shooting Game Online Multiplayer
     *   Slither.io
+    *   Combat Strike 2: 3D Shooting Game Online Multiplayer
     *   Stunt Skateboard 3D
-    *   Short Life
     *   Combat Reloaded
+    *   Short Life
     *   Miami Crime Simulator 3D
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
-    *   Pixel Apocalypse
     *   Subway Clash 3D: Shooting Game Online Multiplayer
+    *   Pixel Apocalypse
 *   Top Categories
     
     *   Platform Games
@@ -114,13 +114,13 @@ View more results
     *   Short Life
     *   Miami Crime Simulator 3D
     *   Five Nights at Freddy's 2
-    *   Slope: Neon Ball Rolling Game
     *   Chrome Dino
-    *   Five Nights at Freddy's 5
+    *   Slope: Neon Ball Rolling Game
     *   Fireboy and Watergirl 5: Elements
+    *   Five Nights at Freddy's 5
     *   Five Nights at Freddy's 4
-    *   Tom and Jerry: Mouse Maze
     *   Boeing Flight Simulator
+    *   Tom and Jerry: Mouse Maze
 *   Top Categories
     
     *   Bubble Shooter
@@ -177,8 +177,8 @@ View more results
     *   Ellie: Get Ready With Me
     *   Super Speed Racer
     *   Slope: Neon Ball Rolling Game
-    *   Love Tester 2.0
     *   Ella: Hips Surgery
+    *   Love Tester 2.0
     *   Pizza Real Life Cooking
     *   Burger Restaurant Express
     *   Back To School: Princesses Rush
@@ -210,12 +210,12 @@ View more results
     *   Agame Stunt Cars
     *   Hill Racing Challenge
     *   Moto X3M: Motorcycle Racing Game
-    *   Madalin Cars Multiplayer
-    *   Murder
     *   Super Speed Racer
+    *   Murder
+    *   Madalin Cars Multiplayer
     *   Uphill Rush 7: Waterpark
-    *   Russian Car Driver
     *   Thug Racer
+    *   Russian Car Driver
     *   Real Street Racing
 *   Top Categories
     
