@@ -6,6 +6,7 @@ Skip to main content Main menu
 *   Podcasts
 *   Detective's Den
 *   Schedule
+*   Searching For
 
 Toggle menu
 
@@ -16,31 +17,33 @@ Main menu
 
 *   Shows
     *   All Shows
-        *   A Lie to Die For
-        *   Buried in the Backyard
+        *   A Wedding and a Murder
         *   Chicago P.D.
         *   Dark Web Exposed
         *   Dateline: Secrets Uncovered
-        *   Death At The Mansion: Rebecca Zahau
-        *   In Ice Cold Blood
-        *   Injustice with Nancy Grace
+        *   Killer Couples
         *   Killer Motive
-        *   License to Kill
-        *   Martinis &. Murder
-        *   Murder and Justice: The Case of Martha Moxley
+        *   Killer Siblings
         *   Murder For Hire
+        *   Relentless With Kate Snow
         *   Snapped
+        *   The DNA of Murder with Paul Holes
+        *   Uncovered: Killed by Hate
+        *   Dark Web Exposed
+        *   Famous Cases Explained
+        *   How To Stay Safe
     *   Channel Finder
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV02:45 Kemper on Kemper: Inside The Mind of a Serial Killer Kemper on Kemper: Ed Kemper Describes How He Killed His Mother 01:39 Crime Time 3 Teacher/Student Sex Scandals 12:07 Nancy Grace on Her New Oxygen Series ‘Injustice,’ the Chris Watts Case, and More | CrimeCon
+    *   Watch Live TV01:39 Crime News 3 Teacher/Student Sex Scandals 01:42 Crime News Teacher-Student Sex Scandals 02:00 Cold Justice A New Season of Cold Justice Premieres August 4th!
 *   News
-    *   Crime Time
-    *   Martinis &. MurderRyan Lindquist Photo: Nassau County Police Department Crime Time Man Allegedly Stabs Lover More Than 100 Times Brandyn Lloyd Paonessa Photo: Facebook Crime Time ‘Unstable’ Wife Accused Of Killing Her Army Husband Cynthia Hoffman Photo: Facebook Crime Time Fake Millionaire Allegedly Convinced Teens To Kill Friend
+    *   Crime News
+    *   True Crime BuzzThis photo taken April 7, 2019, shows melted vinyl siding hanging off the side of a trailer home at 14 Cypress Court in the Timberline Mobile Home Park northeast of Goodfield. Photo: Matt Dayhoff/Journal Star/AP Crime News 9-Year-Old Charged With Murder In Deadly House Fire Paul Petersen Photo: Maricopa County Sheriff's Office Crime News Why Wasn’t Alleged Adoption Scammer Caught Sooner? Crime News Arizona Socialite Has Hit Man Blow Up Ex-Husband’s Car
 *   Podcasts
 *   Detective's Den
 *   Schedule
+*   Searching For
 
 Get More Oxygen
 
