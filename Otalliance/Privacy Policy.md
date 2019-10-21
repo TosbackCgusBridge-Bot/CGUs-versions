@@ -103,7 +103,7 @@ Privacy regulations around the world are evolving. We looked at 1,200 privacy st
 *   es
 *   More languages
 
-Donate ×search  Donate Online Trust Alliance (OTA) OTA Home Publications Best Practices IoT Committees All Resources
+Donate Donate Online Trust Alliance (OTA) OTA Home Publications Best Practices IoT Committees All Resources
 
 <img class="post-img post-img-right 3750 alignright" src="https://www.internetsociety.org/wp-content/uploads/2017/08/ota-logo-976px-300x104.png" alt="" width="300" height="104" />The Internet Society’s Online Trust Alliance (OTA) identifies and promotes security and privacy best practices that build consumer confidence in the Internet. Leading public and private organizations, vendors, researchers, and policymakers contribute to and follow OTA’s guidance to help make online transactions safer and better protect users’ data. **OTA Goals:**
 
