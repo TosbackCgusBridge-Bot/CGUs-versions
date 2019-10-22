@@ -1,3 +1,5 @@
+close dialogFriends &. Family Sale!SAVE 15% SITEWIDE + FREE SHIPPING ON SELECT GIFTSShop Saleclose dialog
+
 *   Gift Baskets
     
     View All Categories Shop by Category*   Meat &. Cheese
@@ -14,7 +16,7 @@
     *   Gifts for Her
     *   Gifts for Him
     *   Thank You Gifts
-    *   Sympathy GiftsMost Popular New! Taste of California
+    *   Sympathy GiftsMost Popular New! California Gift Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Cheese Gifts
@@ -86,7 +88,7 @@
 *   Business Gifts
 *   Sale
 
-1.800.753.8558 Business Gifts Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
+1.800.753.8558 Business Gifts Take 15% off sitewide &. get free shipping on select gifts! Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
 
 *   Gift Baskets
     
@@ -104,7 +106,7 @@
     *   Gifts for Her
     *   Gifts for Him
     *   Thank You Gifts
-    *   Sympathy GiftsMost Popular New! Taste of California
+    *   Sympathy GiftsMost Popular New! California Gift Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Cheese Gifts
@@ -308,4 +310,4 @@ Find A Store
 
 *   Find A Store
 
-© 2019 All Rights Reserved Privacy Policy Terms Of Use Site Map Compliance Play IconFeedback
+© 2019 All Rights Reserved Privacy Policy Terms Of Use Site Map Compliance Play IconFeedback close dialogFriends &. Family Sale!SAVE 15% SITEWIDE + FREE SHIPPING ON SELECT GIFTSShop Saleclose dialog
