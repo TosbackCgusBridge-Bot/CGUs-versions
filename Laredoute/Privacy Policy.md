@@ -223,10 +223,29 @@ Les destinataires des données sont :
 
 \- Réseaux sociaux
 
+*   Les entités du Groupe Galeries Lafayette, et plus particulièrement les filiales et Sociétés du Groupe Galeries Lafayette qui regroupent :
+
+\- Société Anonyme des Galeries Lafayette
+
+\- 44 Galeries Lafayette
+
+\- BHV Exploitation
+
+\- 1001 Listes
+
+\- Louis Pion Royal Quartz
+
+\- GUERIN Joaillerie
+
+\- Bazar Chic
+
+\- Galeries Lafayette DEUTSCHLAND
+
 3.2. Les sous-traitants de la Redoute
 
 La Redoute fait également appel à des sous-traitants pour les opérations suivantes :
 
+*   Prestation technique
 *   le paiement sécurisé sur les sites et les applications mobile
 *   la lutte contre la fraude et le recouvrement des impayés
 *   la fabrication des meubles sur mesure
