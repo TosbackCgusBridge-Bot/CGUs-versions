@@ -160,7 +160,6 @@ Other UPS Sites
 
 *   The UPS StoreOpen the link in a new window
 *   UPS CapitalOpen the link in a new window
-*   United Problem SolversOpen the link in a new window
 *   **See All**Open the link in a new window
 
 Connect with Us
