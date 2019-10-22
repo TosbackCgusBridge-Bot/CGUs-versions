@@ -364,23 +364,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Mississippi gov't agencies fall short of cybersecurity compliance standards
-    *   How ready are you to respond to a ransomware attack?
-    *   Magecart attack on e-commerce service impacts Sesame Street store and many more
-    *   CyberRisk Alliance appoints Malcolm Harkins to its board
-    *   iBoss names DeWalt to board
+    *   iPhone jailbreakers lured to click fraud site
+    *   VMware patches critical bug in Harbor Container Registry for PCF
+    *   CBP mulls facial recognition tech for body cams
+    *   Health, personal data of 1 million New Zealanders exposed in series of intrusions
+    *   Second Senate Intel committee report confirms Russia social media campaign to influence 2016 election, skewer Clinton
     
-    *   Major software vendor compromised with previously undocumented PortReuse backdoor
-    *   Open AWS buckets expose more than 200K CVs at two online recruitment firms
-    *   Phishing scam targets users of Stripe payment processing service
-    *   Evolve security automation like the human brain: Part 1
-    *   Malware takes down some Pitney Bowes systems
-    
+    *   Diplomats used WhatsApp, personal phones to discuss Ukraine policy
     *   Mind Your Own Business Act beefs up privacy protections, gives consumers dominion over data, punishes execs
+    *   Leaky Autoclerk database exposes info on travelers, including military and gov't personnel
     *   Trojanized Russian-language Tor browser lets attacks steal from users' e-wallets
-    *   UC Browser potentially endangers 500 million users
-    *   Phishing scam targets users of Stripe payment processing service
-    *   2.8 million CenturyLink customer records exposed by unprotected database
+    *   Graboid cryptomining worm leverages Docker Engine containers to spread
+    
+    *   Skip-2.0 backdoor malware provides 'magic password' to access MSSQL accounts
+    *   San Bernadino City schools hit with ransomware
+    *   Leaky Autoclerk database exposes info on travelers, including military and gov't personnel
+    *   Russian Turla group masqueraded as Iranian hackers in attacks
+    *   Tools don’t hunt threats, people do
 
 Back to Top
 
@@ -412,4 +412,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
