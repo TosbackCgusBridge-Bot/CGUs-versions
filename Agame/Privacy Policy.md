@@ -52,8 +52,8 @@ View more results
     *   Fireboy and Watergirl: The Forest Temple
     *   Warbanner
     *   Total Front: Army War Game
-    *   Klondike - the lost expedition
     *   Bubble Machine: 2 Player Game
+    *   Klondike - the lost expedition
     *   Crystical: 2 Player Puzzle Game
     *   Slither.io
     *   Pyramid Solitaire Duel
@@ -82,11 +82,11 @@ View more results
     *   Apple Shooter: Arrow Game
     *   Slither.io
     *   Combat Strike 2: 3D Shooting Game Online Multiplayer
-    *   Stunt Skateboard 3D
     *   Combat Reloaded
+    *   Stunt Skateboard 3D
     *   Short Life
-    *   Miami Crime Simulator 3D
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
+    *   Miami Crime Simulator 3D
     *   Subway Clash 3D: Shooting Game Online Multiplayer
     *   Pixel Apocalypse
 *   Top Categories
@@ -115,8 +115,8 @@ View more results
     *   Miami Crime Simulator 3D
     *   Five Nights at Freddy's 2
     *   Chrome Dino
-    *   Slope: Neon Ball Rolling Game
     *   Fireboy and Watergirl 5: Elements
+    *   Slope: Neon Ball Rolling Game
     *   Five Nights at Freddy's 5
     *   Five Nights at Freddy's 4
     *   Boeing Flight Simulator
@@ -142,8 +142,8 @@ View more results
     
     Best Games
     *   Cookie Crush 3
-    *   Bubble Shooter
     *   Harvest Honors Classic: Multiplayer Harvester Game
+    *   Bubble Shooter
     *   Fireboy and Watergirl: The Forest Temple
     *   TenTrix
     *   1001 Arabian Nights
@@ -177,13 +177,13 @@ View more results
     *   Ellie: Get Ready With Me
     *   Super Speed Racer
     *   Slope: Neon Ball Rolling Game
+    *   Pizza Real Life Cooking
     *   Ella: Hips Surgery
     *   Love Tester 2.0
-    *   Pizza Real Life Cooking
     *   Burger Restaurant Express
     *   Back To School: Princesses Rush
-    *   Vincy Lip Care
     *   Love Tester Deluxe 2
+    *   Vincy Lip Care
     *   Secret Office Kissing
 *   Top Categories
     
@@ -245,9 +245,9 @@ View more results
     *   Archery World Tour
     *   8-Ball
     *   Ultimate Boxing
-    *   Baseball
     *   Penalty Shooters 2: Football Game
-    *   Neon Biker
+    *   Baseball
+    *   Carrom Pool
 *   *   Multiplayer
     *   Action
     *   Adventure
@@ -277,7 +277,7 @@ View more results
 
 privacy policy
 
-*   Home
+*   Agame.com
 *   privacy policy
 
 SPIL Games BV (hereafter referred to as "SPIL"), is dedicated to protecting the privacy of our users and handling any personal date we obtain from our users with care and respect. An overall principle is that we do not collect more information than is reasonably necessary to provide you with the best user experience.
