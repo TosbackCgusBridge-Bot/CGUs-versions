@@ -180,9 +180,9 @@ Free trial
 
 Subscribe
 
-$400.00/year
+$320.00/year
 
-Try, buy, or learn more about Autodesk products See all products Autodesk University Las Vegas | November 18–21, 2019 Experience what’s next for your industry at AU Las Vegas
+$400.00 Try, buy, or learn more about Autodesk products See all products Autodesk University Las Vegas | November 18–21, 2019 Experience what’s next for your industry at AU Las Vegas
 
 Join 10,000+ professionals in construction, manufacturing, architecture, engineering, and media creation for four days of learning and networking at Autodesk’s annual conference.
 
