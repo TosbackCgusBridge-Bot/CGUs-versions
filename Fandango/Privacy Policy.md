@@ -5,17 +5,17 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Maleficent: Mistress of Evil
     *   Joker (2019)
+    *   Zombieland: Double Tap
     *   The Addams Family (2019)
-    *   Gemini Man
     *   Abominable (2019)
+    *   Gemini Man
     *   Downton Abbey (2019)
-    *   Hustlers
     *   Judy (2019)
+    *   Hustlers
     *   It Chapter Two (2019)
-    *   Jexi
-    *   Ad Astra
-    *   Rambo: Last Blood
+    *   Parasite (2019)
     *   See All Now Playing
     
     Opening This Week = Limited Release
@@ -32,11 +32,13 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Serendipity (2019)
     *   See All Opening This Week
     
+    Pre Sales Tickets
+    
+    *   Star Wars: The Rise of Skywalker (2019)
+    
     Coming Soon
     
-    *   Black and Blue (2019)
-    *   Countdown (2019)
-    *   The Current War: Director's Cut
+    *   Fandango Early Access: Doctor Sleep
     *   Arctic Dogs
     *   Harriet (2019)
     *   Motherless Brooklyn
@@ -44,6 +46,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Doctor Sleep
     *   Last Christmas (2019)
     *   Midway (2019)
+    *   Playing with Fire (2019)
+    *   Charlie's Angels (2019)
+    *   Ford v Ferrari
     *   See All Coming Soon
     
     Explore More
@@ -299,10 +304,6 @@ Offers
     
     See it first on October 30th! BUY TICKETS
     
-*   'Zombieland: Double Tap' Gift with Purchase
-    
-    Own 'Zombieland' for only $4.99\* with ticket purchase! \*Terms apply. BUY TICKETS
-    
 *   FandangoNOW Fresh Picks
     
     100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
@@ -311,17 +312,21 @@ Offers
     
     When you purchase 2 Hershey's Halloween Assortment Bags. SEE DETAILS
     
+*   Every 4 Tickets = $5 For You
+    
+    Buy tickets. Earn points. Get a $5 reward for a movie on us. BUY TICKETS
+    
 
 New + Coming soon
 
-*   It Chapter Two (2019)
-*   Hustlers
-*   The Goldfinch
-*   Ad Astra
-*   Abominable (2019)
-*   Gemini Man
-*   Joker (2019)
-*   The Addams Family (2019)
+*   Fandango Early Access: Doctor Sleep
+*   Terminator: Dark Fate
+*   Last Christmas (2019)
+*   Midway (2019)
+*   The Good Liar
+*   Charlie's Angels (2019)
+*   Ford v Ferrari
+*   Frozen II
 
 Experience + Explore
 
@@ -358,7 +363,7 @@ Follow Us
 *   Fandango on Instagram
 *   Fandango on Youtube
 
-Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help Feedback My Fandango Live Chat
+Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help My Fandango Live Chat
 
 *   About Fandango
 *   Careers
