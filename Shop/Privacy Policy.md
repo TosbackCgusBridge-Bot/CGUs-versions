@@ -524,6 +524,11 @@ Lenovo Explore Close
         *   Always Free Shipping
         *   Easy Returns
         *   Financing Available
+        
+        Smart Device Support
+        
+        Need assistance with your device? Click here for support.
+        
 *   SERVICES
     *   SERVICES
     *   Warranty Lookup
@@ -592,10 +597,8 @@ Lenovo Explore Close
     *   Careers
     *   Culture
 
-1-855-253-6686
-
 *   Search
-*   icon-compare0 Compare Compare (0)
+
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
@@ -663,13 +666,7 @@ Lenovo Explore Close
 
 Top Suggestions
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
-
-Please add at least 2 products for compare
-
-Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
-
-Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
 
 protects better"/>.
 
@@ -1094,7 +1091,7 @@ How may I contact Lenovo's Privacy Program?
 
 If you have any questions about this privacy statement, you can contact Lenovo via privacy@lenovo.com or via U.S. postal mail at Lenovo, Attn: Privacy Program, 1009 Think Place, Morrisville, NC, USA 27560.
 
-STAY CONNECTED Wrong Input × FacebookInstragramYouTubeTwitterFlickrForums Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium - DutchBelgium - FrançaisBelizeBoliviaBotswanaBrazilBulgariaCanada - EnglishCanada - FrançaisChileChinaColombiaCosta RicaCote d'IvoireCroatiaCzech RepublicDenmarkDominican RepublicEcuadorEgypt - EnglishEgypt - العربيةEl SalvadorEstoniaFinlandFranceGermanyGhanaGreeceGuatemalaHondurasHong Kong S.A.R. of China - EnglishHong Kong S.A.R. of China - 繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNicaraguaNigeriaNorwayOmanPakistanPanamaParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia - EnglishSaudi Arabia - العربيةSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland - EnglishSwitzerland - FrenchSwitzerland - GermanTaiwan RegionTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates - EnglishUnited Arab Emirates - العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe ABOUT LENOVO
+STAY CONNECTED Wrong Input × FacebookInstragramYouTubeTwitterFlickrForums Country Selector AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium - DutchBelgium - FrançaisBelizeBoliviaBotswanaBrazilBulgariaCanada - EnglishCanada - FrançaisChileChinaColombiaCosta RicaCote d'IvoireCroatiaCzech RepublicDenmarkDominican RepublicEcuadorEgypt - EnglishEgypt - العربيةEl SalvadorEstoniaFinlandFranceGermanyGhanaGreeceGuatemalaHondurasHong Kong S.A.R. of China - EnglishHong Kong S.A.R. of China - 繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNicaraguaNigeriaNorwayOmanPakistanPanamaParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia - EnglishSaudi Arabia - العربيةSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland - EnglishSwitzerland - FrenchSwitzerland - GermanTaiwan RegionTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates - EnglishUnited Arab Emirates - العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe ABOUT LENOVO
 
 *   Our Company
 *   News
