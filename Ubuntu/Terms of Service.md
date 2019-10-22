@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   NVIDIA GPU Operator – Simplifying AI/ML Deployments on the Canonical Platform
 *   Kubernetes on a single machine
 *   Snaptastic – elementary OS snap manager
 *   Embedded system cross-development with Ubuntu Core
 *   Ubuntu Server development summary – 16 October 2019
-*   Ansible vs Terraform vs Juju: Fight or cooperation?
 
 *    ›
