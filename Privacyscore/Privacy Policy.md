@@ -133,6 +133,7 @@ About us
 *   Careers
 *   Press
 *   Privacy &. Legal
+*   Security
 *   Affiliate Program
 *   Student Discount
 
