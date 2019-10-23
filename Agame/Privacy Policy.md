@@ -52,8 +52,8 @@ View more results
     *   Fireboy and Watergirl: The Forest Temple
     *   Warbanner
     *   Total Front: Army War Game
-    *   Bubble Machine: 2 Player Game
     *   Klondike - the lost expedition
+    *   Bubble Machine: 2 Player Game
     *   Crystical: 2 Player Puzzle Game
     *   Slither.io
     *   Pyramid Solitaire Duel
@@ -84,10 +84,10 @@ View more results
     *   Combat Strike 2: 3D Shooting Game Online Multiplayer
     *   Combat Reloaded
     *   Stunt Skateboard 3D
-    *   Short Life
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
-    *   Miami Crime Simulator 3D
+    *   Short Life
     *   Subway Clash 3D: Shooting Game Online Multiplayer
+    *   Miami Crime Simulator 3D
     *   Pixel Apocalypse
 *   Top Categories
     
@@ -183,8 +183,8 @@ View more results
     *   Burger Restaurant Express
     *   Back To School: Princesses Rush
     *   Love Tester Deluxe 2
-    *   Vincy Lip Care
     *   Secret Office Kissing
+    *   Vincy Lip Care
 *   Top Categories
     
     *   BMX Games
@@ -211,8 +211,8 @@ View more results
     *   Hill Racing Challenge
     *   Moto X3M: Motorcycle Racing Game
     *   Super Speed Racer
-    *   Murder
     *   Madalin Cars Multiplayer
+    *   Murder
     *   Uphill Rush 7: Waterpark
     *   Thug Racer
     *   Russian Car Driver
