@@ -150,7 +150,13 @@ Professional CAD/CAM tools built on Inventor and AutoCAD Learn more Free trial S
 MEDIA &.  
 ENTERTAINMENT COLLECTION
 
-Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Image courtesy of Volkswagen Promo Data: FY20 Multi-Year Offer Try, buy, or learn more about Autodesk products See all products
+Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Image courtesy of Volkswagen Promo Data: FY20 Q3 - October Flash
+
+Special fall offer
+
+Save up to 25% on AutoCAD LT and more.
+
+Buy now Try, buy, or learn more about Autodesk products See all products
 
 Software for 2D and 3D CAD. Subscription includes AutoCAD, specialized toolsets, and apps.
 
@@ -162,16 +168,6 @@ Subscribe
 
 $1,610.00/year
 
-Software for Building Information Modeling
-
-Learn more
-
-Free trial
-
-Subscribe
-
-$2,310.00/year
-
 Cost-effective 2D CAD
 
 Learn more
@@ -182,7 +178,19 @@ Subscribe
 
 $320.00/year
 
-$400.00 Try, buy, or learn more about Autodesk products See all products Autodesk University Las Vegas | November 18–21, 2019 Experience what’s next for your industry at AU Las Vegas
+$400.00
+
+Get Revit LT and AutoCAD LT together at a great value
+
+Learn more
+
+Free trial
+
+Subscribe
+
+$420.00/year
+
+$525.00 Try, buy, or learn more about Autodesk products See all products Autodesk University Las Vegas | November 18–21, 2019 Experience what’s next for your industry at AU Las Vegas
 
 Join 10,000+ professionals in construction, manufacturing, architecture, engineering, and media creation for four days of learning and networking at Autodesk’s annual conference.
 
