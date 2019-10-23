@@ -41,16 +41,16 @@ with code | select styles
 *   DINING
 *   HOME DECOR
 
-GET DETAILSJCPenney is a proud supporterof American Cancer Society®THE LOCAL LOOKLocally curated, universally lovedUP TO 50% OFFHALLOWEEN DECORselect styles Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 21 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+GET DETAILSJCPenney is a proud supporterof American Cancer Society®THE LOCAL LOOKLocally curated, universally lovedUP TO 50% OFFHALLOWEEN DECORselect styles Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 23 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   $36after couponArizona Womens Galen Block Heel Zip Booties(32)
-*   $36after couponArizona Womens Yetta Block Heel Lace Up Boots(24)
+*   $36after couponArizona Womens Galen Block Heel Zip Booties(34)
+*   $36after couponArizona Womens Yetta Block Heel Lace Up Boots(25)
 *   $48after couponArizona Womens Dino Wide Calf Riding Boots Block Heel
 *   $36after couponArizona Womens Julian Block Heel Booties(12)
+*   $36after couponArizona Womens Kansas Booties Flat Heel(19)
 *   $32
     
-    St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(9)
-*   $36after couponArizona Womens Kansas Booties Flat Heel(19)
+    St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(10)
 
 Shop and Save at JCPenney
 
