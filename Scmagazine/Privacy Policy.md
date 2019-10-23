@@ -364,23 +364,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   iPhone jailbreakers lured to click fraud site
-    *   VMware patches critical bug in Harbor Container Registry for PCF
-    *   CBP mulls facial recognition tech for body cams
-    *   Health, personal data of 1 million New Zealanders exposed in series of intrusions
-    *   Second Senate Intel committee report confirms Russia social media campaign to influence 2016 election, skewer Clinton
-    
+    *   Evolve security automation like the human brain: Part 1
+    *   Stratfor hacker Hammond held in contempt for refusing to answer grand jury questions
     *   Diplomats used WhatsApp, personal phones to discuss Ukraine policy
-    *   Mind Your Own Business Act beefs up privacy protections, gives consumers dominion over data, punishes execs
-    *   Leaky Autoclerk database exposes info on travelers, including military and gov't personnel
-    *   Trojanized Russian-language Tor browser lets attacks steal from users' e-wallets
-    *   Graboid cryptomining worm leverages Docker Engine containers to spread
+    *   Avast’s network penetrated, CCleaner targeted again
+    *   Malware takes down some Pitney Bowes systems
     
-    *   Skip-2.0 backdoor malware provides 'magic password' to access MSSQL accounts
-    *   San Bernadino City schools hit with ransomware
-    *   Leaky Autoclerk database exposes info on travelers, including military and gov't personnel
-    *   Russian Turla group masqueraded as Iranian hackers in attacks
-    *   Tools don’t hunt threats, people do
+    *   Baltimore belatedly buys cyberinsurance
+    *   Adobe patches 81 vulnerabilities for four products
+    *   Mississippi gov't agencies fall short of cybersecurity compliance standards
+    *   Malware takes down some Pitney Bowes systems
+    *   Evolve security automation like the human brain: Part 1
+    
+    *   Gov. Terry McAuliffe joins Hunton Andrews Kurth
+    *   Attackers improving BEC skills
+    *   Facebook moves to protect elections by flagging content from state-run media
+    *   Georgia Supreme Court rules that collection of vehicular data requires warrant
+    *   NordVPN confirms 2018 breach
 
 Back to Top
 
