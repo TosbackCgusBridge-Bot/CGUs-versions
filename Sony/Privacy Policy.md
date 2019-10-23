@@ -123,7 +123,7 @@ With the Xperia 5 Triple Lens Camera
 
 Will your first The Outer Worlds playthrough be 👼 or 😈?
 
-1 day ago View Tweet Instagram Post B3F4fyfAAAY
+2 days ago View Tweet Instagram Post B3F4fyfAAAY
 
 Be In Control
 
