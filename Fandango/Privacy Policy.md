@@ -20,16 +20,15 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Opening This Week = Limited Release
     
-    *   Maleficent: Mistress of Evil
-    *   Zombieland: Double Tap
-    *   By the Grace of God
-    *   The Captain (2019)
-    *   Cyrano, My Love
-    *   Greener Grass (2019)
-    *   Jay &. Silent Bob Reboot
-    *   Jojo Rabbit
-    *   The Lighthouse (2019)
-    *   Serendipity (2019)
+    *   Black and Blue (2019)
+    *   Countdown (2019)
+    *   The Current War: Director's Cut
+    *   Frankie
+    *   Housefull 4
+    *   Jesus is King (2019)
+    *   Making Waves: The Art of Cinematic Sound
+    *   Mountaintop
+    *   Western Stars (2019)
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -363,7 +362,7 @@ Follow Us
 *   Fandango on Instagram
 *   Fandango on Youtube
 
-Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help My Fandango Live Chat
+Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help Feedback My Fandango Live Chat
 
 *   About Fandango
 *   Careers
