@@ -306,7 +306,7 @@ For P&G HealthCare as of 1 July ‘19 : P&G Health France S.A.S.,   163 Quai A
 Germany
 
 Procter &. Gamble Service GmbH  
-For P&G HealthCare: P&G Consumer Health Germany GmbH, Sulzbacher Strasse 40, 65824 Schwalbach am Taunus
+For P&G Health: P&G Health Germany GmbH, Sulzbacher Strasse 40, 65824 Schwalbach am Taunus
 
 Greece
 
