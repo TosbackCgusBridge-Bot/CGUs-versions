@@ -1,4 +1,4 @@
-65b360af-ffcd-410e-965d-6d1d77e72f15
+3bddfbd9-1ebe-4384-8d2b-749fadca7116
 
 *   Search Search
 *   Contact Us
@@ -20,8 +20,7 @@ Toggle Navigation
     *   Internet
     *   Cable TV
     *   Home Phone
-    *   Mobile
-    *   Latino
+    
     *   Business
 *   Manage Account
 *   Support
@@ -35,8 +34,7 @@ Toggle Navigation
 *   Internet
 *   Cable TV
 *   Home Phone
-*   Mobile
-*   Latino
+
 *   Business
 
 Check Availability &. Offers \* Street Address Enter your street address Apartment \* Zip Code Enter your 5-digit ZIP code Go Why do I need to enter my exact address?
@@ -70,8 +68,7 @@ Shop Spectrum +
 *   Spectrum TV
 *   Spectrum Internet
 *   Spectrum Voice
-*   Mi Plan Latino
-*   Spectrum Mobile
+
 *   Spectrum Sports Networks
 *   Spectrum Premium Channels
 
@@ -110,6 +107,8 @@ Search Services by State+ Search for Services in Your Area      Select State
 *   Service Rates &. Disclosures
 *   Rural Carrier Call Completion
 *   Accessibility
+
+Not all products, pricing, and services are available in all areas. Pricing and actual speeds may vary. Internet speed based on wired connection. Restrictions apply.
 
 © 2019 Charter Communications. All rights reserved.
 
