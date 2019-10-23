@@ -1,6 +1,8 @@
-Find JobsCompany ReviewsFind SalariesFind ResumesEmployers / Post Job Upload your resume Sign in : What Where Job title, keywords, or company City, state, or zip code Advanced Job Search Cookies, Privacy and Terms of Service
+Find JobsCompany ReviewsFind SalariesFind ResumesEmployers / Post Job Upload your resume Sign in : What Where Job title, keywords, or company City, state, or zip code Advanced Job Search Cookies, Privacy and Terms of Service  
 
 Below you will find Indeed’s full set of terms and conditions, including our cookie and privacy policies. We know we are giving a great deal of information. Indeed does this for a reason: we want you to have as much knowledge about what we do for you at Indeed as is possible. We do not want you to to wonder about any of our processes or procedures or guess as to what your interaction with Indeed means. We want you to understand it, which is why we must explain it in detail. We urge you to read these terms or any section of interest to you. You are agreeing to proceed under them.
+
+ 
 
 *   Cookie Policy
 *   Privacy Policy
@@ -18,7 +20,7 @@ Below you will find Indeed’s full set of terms and conditions, including our c
 *   Indeed Hiring Events Program Terms
 *   Indeed Vulnerability Reward Program
 
-Cookie Policy
+Cookie Policy  
 
 Last Updated: October 4, 2019
 
@@ -96,7 +98,7 @@ Third party intercom-session-pn6o23fv Used by Intercom.io to allow users to ask 
 
 Please review the “Last Updated” legend at the top of the Cookie Policy to determine when it was last amended. Any changes will become effective on the “Last Updated” date indicated above. By using the Site or providing information to us following such changes, you will have accepted the amended Cookie Policy. If Indeed is going to use Personal Data collected through the Site in a manner materially different from that stated at the time of collection, then Indeed will notify users via email and/or by posting a notice on Indeed’s Site for 30 days prior to such use or by other means as required by law.
 
-Privacy Policy
+  Privacy Policy  
 
 Last Updated: October 4, 2019
 
@@ -535,13 +537,13 @@ You may contact Indeed, Inc. at 6433 Champion Grandview Way, Building 1, Austin,
 
 If you believe your data protection rights have been infringed by Indeed, you have the right to complain to the appropriate data protection supervisory authority in your jurisdiction. For example if you are in the EEA, Indeed’s main establishment in the EEA is Indeed Ireland Operations Limited in Ireland, and it is regulated by the Irish Data Protection Commission, in which case you should consult this link for these purposes. If you are in the EEA or Switzerland and have a complaint with respect to transfers and processing performed in accordance with EU-US (applicable in all EEA countries) and Swiss-US Privacy Shield Principles then you may avail of independent dispute resolution, as detailed in section 12 of this Privacy Policy.
 
-**13\. Your California Privacy Rights**
+  **13\. Your California Privacy Rights**  
 
 Under California’s “Shine the Light” law (Civil Code section 1798.83), California residents have certain rights regarding the disclosure of their Personal Data to third parties for their own direct marketing purposes. Indeed’s policy is not to disclose your Personal Data to third parties for the third parties’ direct marketing purposes if you have exercised your option to prevent that information from being disclosed to third parties for those purposes. If you wish to not have your personal information shared for those purposes, you may request that Indeed delete your Personal Data by following the steps outlined in Section 10 of this Privacy Policy. 
 
 Other residents: You may make a verified request to Indeed regarding your Personal Data. While Indeed does not sell your Personal Data, you can nonetheless make a formal request to delete your Personal Data held by Indeed. This process is detailed in Section 10 of our Privacy Policy, which also describes the designated address information for making requests to Indeed regarding your Personal Data.
 
-Indeed Terms of Service Introduction
+  Indeed Terms of Service Introduction  
 
 Each time you access or use Indeed’s online and/or mobile services and websites, including but not limited to any Indeed mobile application and browser extension or plugin (collectively the “Indeed Apps”), regardless of where it is downloaded from, and any software, service, feature, product, program and element provided by or on behalf of Indeed on or in connection with such services or websites (collectively, the “Site”), including, but not limited to, the Indeed Ads Program, Indeed Resume Program (otherwise referred to as the Indeed CV Program in certain countries), Seen by Indeed, Indeed Targeted Ads, Indeed Publisher Program, Indeed Apply, or any other service, (a) you represent that you have read and understand the Cookies Policy and Privacy Policy. and (b) you are agreeing to the terms and conditions of these Terms of Service (the “Agreement”) then in effect with the following entity or entities:
 
@@ -576,9 +578,9 @@ This Agreement hereby incorporates by this reference any additional terms and co
 *   If you access or use the Indeed Publisher Program, you are agreeing to be bound by the Indeed Publisher Program Terms
 *   For all other uses of the Site, you are agreeing to be bound by the Indeed General Terms of Service
 
-Indeed General Terms of Service
+  Indeed General Terms of Service  
 
-Last Updated: October 18, 2019
+Last Updated: October 21, 2019
 
 **A.** The following terms and conditions apply to all Job Seekers, Employers, Publishers and other users who access or use the Site, or otherwise indicate their acceptance to this Agreement.
 
@@ -626,7 +628,7 @@ By using Indeed Apply and answering screener questions, you acknowledge that Emp
 
 **1(p)** Indeed may offer a service called Indeed Central to facilitate the coordination of Job Ads within geographically distributed businesses, such as franchises or large companies with many locations. You acknowledge and agree that using Indeed Central involves sharing a franchisee’s account information with the franchisor, or sharing a local office’s account information with the corporate headquarters, as applicable. This information may include items such as the number of your business locations or accounts, information about your job ads (content, clicks, impressions, etc.), your contact information, and your spend levels. The franchisor or corporate headquarters may request that Indeed contact its franchisees or local offices, respectively, by providing Indeed with contact information, and may provide the content of Job Ads to Indeed for use in connection with Indeed Central. By using Indeed Central, you agree to this information being shared, and you represent and warrant that i) all information you provide to Indeed is accurate, and ii) you have all necessary right and authorization to provide such information to Indeed and to permit Indeed to share it in connection with Indeed Central.
 
-**1(q)** Employer Assist. Indeed may offer Employers the ability to activate a feature on their account called Employer Assist. The Employer is using Indeed’s software tools to decline a Job Seeker’s application if the Employer has not interacted with the application within a time frame selected by the Employer. The Employer is also using Indeed’s software to automatically send a message on the Employer’s behalf to the Job Seeker informing them that the Employer has determined not to move forward with their application. As a Job Seeker, you acknowledge and agree that Indeed has no discretion in the sending of these messages and that any such messages are solely a result of the Employer’s decision to activate Employer Assist and to not take an action on your application within the time period selected by the Employer. As an Employer, if you activate Employer Assist you agree to indemnify Indeed from any claims arising therefrom.
+**1(q)** Employer Assist. Indeed may offer Employers the ability to activate a feature on their account called Employer Assist. Activating Employer Assist means the Employer is instructing Indeed to send a message on the Employer’s behalf to the Job Seeker informing them that the Employer has determined not to move forward with their application. As a Job Seeker, you acknowledge and agree that Indeed has no discretion in the sending of these messages, and that any such messages are solely a result of the Employer’s decision to activate Employer Assist and to not take an action on your application within the time period selected by the Employer. As an Employer, if you activate Employer Assist you agree that you are instructing Indeed to send these messages to candidates with whom you do not interact within your chosen time frame, and you agree to indemnify Indeed from any claims arising therefrom.
 
 **2\. External Sites**
 
@@ -807,7 +809,7 @@ By using any of the Indeed Apps, including but not limited to the Indeed Job Sea
 
 The Site is not for use by anyone under the age of 16. However, if local laws provide for an alternative minimum age for Indeed to lawfully provide the services in the Site to you, then that shall apply as the applicable minimum age. In all jurisdictions outside the European Union, if you are under the age of 18 or the age of majority in your jurisdiction, you must use Indeed under the supervision of your parent, legal guardian or responsible adult. Indeed adopts a range of measures to try to ensure that we do not accept individuals who do not meet the minimum age and any other applicable age requirements. If you do not satisfy these age requirements, please email privacy-dept @ indeed.com (remove spaces when sending email).
 
-B. Indeed Resume/CV Program Terms
+  B. Indeed Resume/CV Program Terms  
 
 Last Updated: July 15, 2019
 
@@ -845,7 +847,7 @@ You shall be charged if, and as, indicated by the Site. Details regarding the r
 
 You shall indemnify, defend and hold harmless Indeed, its agents, affiliates, and licensors from any third-party claim or liability (including without limitation reasonable legal fees) arising out of any contact you have with the recipient (or intended recipient), any email you request to be sent pursuant to these IRP Terms, or any phone call or text message you make to a recipient.
 
-C. Indeed Ads Program Terms
+  C. Indeed Ads Program Terms  
 
 These Indeed Ads Program Terms (“IAP Terms”) form a part of, and are incorporated into, the Indeed Terms of Service (the “Agreement”), and apply to any Employer who accesses or uses the Indeed Ads Program, or who otherwise indicates its acceptance of these Indeed Ads Program Terms.
 
@@ -875,7 +877,7 @@ You shall be charged based on click count, regardless of whether you set a total
 
 You shall indemnify, defend and hold harmless Indeed, its agents, affiliates, licensors, and Publishers from any third party claim or liability (including without limitation reasonable legal fees) arising out of your Program use, Creative, site or Your Services, or breach of these IAP Terms.
 
-D. Indeed Publisher Program Terms
+  D. Indeed Publisher Program Terms  
 
 Last Updated: February 11, 2019
 
@@ -949,7 +951,7 @@ You may not assign or delegate any of your rights or obligations hereunder witho
 
 These IPP Terms and any dispute arising out of or in connection with these IPP Terms or related in any way to the Site (“Dispute”) will be governed as to all matters, including, but not limited to the validity, construction and performance of these IPP Terms, by and under the laws of the State of Texas, United States of America, without giving effect to conflicts of law principles thereof. Any and all actions, lawsuits, or other legal proceedings related to such Dispute shall be filed only in the federal or state courts located in Travis County, Texas, U.S.A. Each of the Parties hereby consent to the exclusive personal jurisdiction of the federal or state courts located in Travis County, Texas, U.S.A.
 
-E. Indeed Assessments Terms
+  E. Indeed Assessments Terms  
 
 Last Updated: June 21, 2019
 
@@ -1037,7 +1039,7 @@ You agree to defend, indemnify and hold harmless Indeed from and against any and
 
 Indeed may suspend Indeed Assessments, the Site, your account, or any other provision of tools to you, and we may terminate this Agreement with you, at our sole discretion, at any time, with or without notice. If you wish to terminate this Agreement, you may do so by notifying Indeed at any time and closing your account. All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.  
 
-F. Seen by Indeed Terms
+  F. Seen by Indeed Terms  
 
 Last Updated: September 13, 2019
 
@@ -1172,7 +1174,7 @@ You agree to defend, indemnify and hold harmless Indeed from and against any and
 
 We may suspend Seen by Indeed, your account or any other provision of tools to you, and we may terminate this Agreement with you, at our sole discretion, at any time, with or without notice. If you wish to terminate this Agreement, you may do so by notifying Seen at any time and closing your account. All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, success fee provisions, warranty disclaimers, indemnity and limitations of liability.
 
-G. Indeed Targeted Ads Terms
+  G. Indeed Targeted Ads Terms  
 
 Last Updated: July 15, 2019
 
@@ -1208,7 +1210,7 @@ You shall indemnify, defend and hold harmless Indeed, its agents, affiliates, li
 
 \*For the purposes of this Agreement, the Asia-Pacific Region is defined as the following countries and territories: American Samoa, Antarctica, Australia, Bangladesh, Bhutan, Brunei, Cambodia, China, Christmas Island, Cocos Islands, Cook Islands, East Timor, Fiji, French Polynesia, French Southern Territories, Guam, Heard Island and McDonald Islands, Hong Kong, Indonesia, Japan, Kiribati, Laos, Macao, Malaysia, Maldives, Marshall Islands, Micronesia, Mongolia, Myanmar, Nauru, Nepal, New Caledonia, New Zealand, Niue, Norfolk Island, Northern Mariana Islands, Pakistan, Palau, Papua New Guinea, Philippines, Pitcairn, Samoa, Singapore, Solomon Islands, South Georgia and the South Sandwich Islands, South Korea, Sri Lanka, Taiwan, Thailand, Tokelau, Tonga, Tuvalu, Vanuatu, Vietnam, Wallis and Futuna.
 
-H. Indeed API Terms
+  H. Indeed API Terms  
 
 Last Updated: August 22, 2019
 
@@ -1274,7 +1276,7 @@ Upon cancelation of this Agreement: (a) your license to access or use any Indeed
 
 You shall indemnify, defend and hold harmless Indeed, its agents, affiliates, and licensors from any third-party claim or liability (including without limitation reasonable legal fees) arising out of your or End Users’ API use, User Content, your Application, or breach of these API Terms.
 
-I. Indeed for Chrome Terms
+  I. Indeed for Chrome Terms  
 
 Last Updated: December 21, 2018
 
@@ -1300,7 +1302,7 @@ You agree to defend, indemnify and hold harmless Indeed from and against any and
 
 Indeed may suspend Indeed for Chrome, the Site, your account, or any other provision of tools to you, and we may terminate this Agreement with you, at our sole discretion, at any time, with or without notice. If you wish to terminate this Agreement, you may do so by notifying Indeed at any time and closing your account. All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.   
 
-J. Indeed Hiring Events Program Terms
+  J. Indeed Hiring Events Program Terms  
 
 Last Updated: August 13, 2019
 
@@ -1344,7 +1346,7 @@ All withholding tax remittances to the government are your sole responsibility a
 
 You shall indemnify, defend and hold harmless Indeed, its agents, affiliates, licensors, and Partners from any third party claim or liability (including without limitation reasonable legal fees) arising out of your Program use, Job Listing, Job Ad, screening or screener questions, Event, Site or Your Services, or breach of these IHEP Terms.
 
-Indeed Vulnerability Reward Program
+  Indeed Vulnerability Reward Program  
 
 **Program Description**
 
@@ -1354,4 +1356,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2019 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Find Certifications - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1dnp0d520p2ov800&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+  <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2019 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Find Certifications - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1dnrip1qep95n800&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
