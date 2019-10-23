@@ -70,6 +70,7 @@ This Privacy Policy covers information collected through the following websites 
 *   Best Black Friday
 *   Deals of America
 *   The Black Friday
+*   Best Gifts
 
 Applications:
 
