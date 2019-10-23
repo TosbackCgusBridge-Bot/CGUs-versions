@@ -597,6 +597,8 @@ Lenovo Explore Close
     *   Careers
     *   Culture
 
+1-855-253-6686
+
 *   Search
 
 *   LenovoPro
@@ -659,12 +661,9 @@ Lenovo Explore Close
     *   Logout
 *   Cart
 
-*   *   in All Lenovo
-    *   in Shop
-    *   in Discover
-    *   in Support
-
 Top Suggestions
+
+View all >.
 
 Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
 
@@ -1091,7 +1090,7 @@ How may I contact Lenovo's Privacy Program?
 
 If you have any questions about this privacy statement, you can contact Lenovo via privacy@lenovo.com or via U.S. postal mail at Lenovo, Attn: Privacy Program, 1009 Think Place, Morrisville, NC, USA 27560.
 
-STAY CONNECTED Wrong Input × FacebookInstragramYouTubeTwitterFlickrForums Country Selector AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium - DutchBelgium - FrançaisBelizeBoliviaBotswanaBrazilBulgariaCanada - EnglishCanada - FrançaisChileChinaColombiaCosta RicaCote d'IvoireCroatiaCzech RepublicDenmarkDominican RepublicEcuadorEgypt - EnglishEgypt - العربيةEl SalvadorEstoniaFinlandFranceGermanyGhanaGreeceGuatemalaHondurasHong Kong S.A.R. of China - EnglishHong Kong S.A.R. of China - 繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNicaraguaNigeriaNorwayOmanPakistanPanamaParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia - EnglishSaudi Arabia - العربيةSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland - EnglishSwitzerland - FrenchSwitzerland - GermanTaiwan RegionTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates - EnglishUnited Arab Emirates - العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe ABOUT LENOVO
+STAY CONNECTED Wrong Input × FacebookInstragramYouTubeTwitterFlickrForums Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium - DutchBelgium - FrançaisBelizeBoliviaBotswanaBrazilBulgariaCanada - EnglishCanada - FrançaisChileChinaColombiaCosta RicaCote d'IvoireCroatiaCzech RepublicDenmarkDominican RepublicEcuadorEgypt - EnglishEgypt - العربيةEl SalvadorEstoniaFinlandFranceGermanyGhanaGreeceGuatemalaHondurasHong Kong S.A.R. of China - EnglishHong Kong S.A.R. of China - 繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNicaraguaNigeriaNorwayOmanPakistanPanamaParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia - EnglishSaudi Arabia - العربيةSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland - EnglishSwitzerland - FrenchSwitzerland - GermanTaiwan RegionTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates - EnglishUnited Arab Emirates - العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe ABOUT LENOVO
 
 *   Our Company
 *   News
