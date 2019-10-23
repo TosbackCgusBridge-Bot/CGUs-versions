@@ -60,7 +60,8 @@ Don't feel pressured to act immediately layer
 
 Contact us immediately if you feel you may have been a victim of a scam.
 
-**AARP has assembled a variety of resources about security and scams that we think you will find helpful: AARP Page on Scams and Fraud**  
+AARP layer has assembled a variety of resources about security and scams that we think you will find helpful:**  
+AARP Page on Scams and Fraud**  
   
 **Common types of scams**
 
@@ -385,6 +386,10 @@ If someone you don’t know wants to pay you by check and asks you to wire some 
 Never give an unsolicited caller remote access to your computer
 
 Scammers may pose as an employee of a large telecommunications company or a technical support provider to tell you that your computer is experiencing technical problems.  They will ask for remote access to solve the problem before demanding that you buy software or pay a fee to fix the computer.
+
+Preferred Rewards members and Bank of America employees can take advantage of a discounted membership to AARP that’s not available when clicking through to the AARP website from the Bank of America website. If you’re enrolled in Preferred Rewards, sign in to Online Banking and select the **Special offers** link from the **Rewards &. Deals** drop down menu.
+
+If you’re a Bank of America employee, visit **HR Connect** and search for **AARP**. You can also schedule an appointment to meet with a specialist in a financial center to obtain the AARP membership discount.
 
 Protect your devices
 
