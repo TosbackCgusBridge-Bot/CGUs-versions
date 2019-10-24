@@ -40,7 +40,7 @@ Stock Quote and Chart
 
 Price
 
-$1.97
+$2.01
 
 Change
 
@@ -48,12 +48,12 @@ Change
 
 Percent Change
 
-(+2.07%)
+(+2.03%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Oct 18, 2019 Office Depot Distributes Over $2.5 Million in Supplies to Underserved Schools Nationwide view more Recent News Oct 18, 2019 Office Depot Distributes Over $2.5 Million in Supplies to Underserved Schools Nationwide view more Events Sep 26, 2019 Office Depot Presents at Sidoti &. Company’s Fall 2019 Investor Conference view more Events Sep 26, 2019 Office Depot Presents at Sidoti &. Company’s Fall 2019 Investor Conference view more Presentations Sep 25, 2019 Sidoti &. Company Fall Investor Conference view more Presentations Sep 25, 2019 Sidoti &. Company Fall Investor Conference view more
+Recent News Oct 23, 2019 Office Depot to Announce Third Quarter 2019 Results Wednesday, November 6, 2019 view more Recent News Oct 23, 2019 Office Depot to Announce Third Quarter 2019 Results Wednesday, November 6, 2019 view more Events Sep 26, 2019 Office Depot Presents at Sidoti &. Company’s Fall 2019 Investor Conference view more Events Sep 26, 2019 Office Depot Presents at Sidoti &. Company’s Fall 2019 Investor Conference view more Presentations Sep 25, 2019 Sidoti &. Company Fall Investor Conference view more Presentations Sep 25, 2019 Sidoti &. Company Fall Investor Conference view more
 
 *   Home
 *   News &. Events
