@@ -44,7 +44,7 @@ Download Ubuntu ›
 
 Further reading
 
-*   How Ubuntu Advantage delivers top-notch Linux security
+*   How Ubuntu Advantage for Infrastructure delivers top-notch Linux security
 *   NVIDIA GPU Operator – Simplifying AI/ML Deployments on the Canonical Platform
 *   Kubernetes on a single machine
 *   Snaptastic – elementary OS snap manager
