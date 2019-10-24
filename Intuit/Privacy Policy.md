@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsEnable Accessibility
 
-*   My AccountSign InTrack MyOrders
+*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -44,13 +44,11 @@ with code | select styles
 GET DETAILSJCPenney is a proud supporterof American Cancer Society®THE LOCAL LOOKLocally curated, universally lovedUP TO 50% OFFHALLOWEEN DECORselect styles Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 23 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
 *   $36after couponArizona Womens Galen Block Heel Zip Booties(34)
-*   $36after couponArizona Womens Yetta Block Heel Lace Up Boots(25)
+*   $36after couponArizona Womens Yetta Block Heel Lace Up Boots(28)
 *   $48after couponArizona Womens Dino Wide Calf Riding Boots Block Heel
-*   $36after couponArizona Womens Julian Block Heel Booties(12)
+*   $36after couponArizona Womens Julian Block Heel Booties(13)
 *   $36after couponArizona Womens Kansas Booties Flat Heel(19)
-*   $32
-    
-    St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(10)
+*   $42after coupona.n.a Womens Alford Stacked Heel Motorcycle Boots(14)
 
 Shop and Save at JCPenney
 
