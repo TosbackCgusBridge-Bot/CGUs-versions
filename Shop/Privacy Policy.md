@@ -600,7 +600,7 @@ Lenovo Explore Close
 1-855-253-6686
 
 *   Search
-
+*   icon-compare0 Compare Compare (0)
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
@@ -661,11 +661,20 @@ Lenovo Explore Close
     *   Logout
 *   Cart
 
+*   *   in All Lenovo
+    *   in Shop
+    *   in Discover
+    *   in Support
+
 Top Suggestions
 
-View all >.
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
+Please add at least 2 products for compare
+
+Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
+
+Lenovo Privacy Statement Top
 
 protects better"/>.
 
@@ -1090,7 +1099,7 @@ How may I contact Lenovo's Privacy Program?
 
 If you have any questions about this privacy statement, you can contact Lenovo via privacy@lenovo.com or via U.S. postal mail at Lenovo, Attn: Privacy Program, 1009 Think Place, Morrisville, NC, USA 27560.
 
-STAY CONNECTED Wrong Input × FacebookInstragramYouTubeTwitterFlickrForums Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium - DutchBelgium - FrançaisBelizeBoliviaBotswanaBrazilBulgariaCanada - EnglishCanada - FrançaisChileChinaColombiaCosta RicaCote d'IvoireCroatiaCzech RepublicDenmarkDominican RepublicEcuadorEgypt - EnglishEgypt - العربيةEl SalvadorEstoniaFinlandFranceGermanyGhanaGreeceGuatemalaHondurasHong Kong S.A.R. of China - EnglishHong Kong S.A.R. of China - 繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNicaraguaNigeriaNorwayOmanPakistanPanamaParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia - EnglishSaudi Arabia - العربيةSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland - EnglishSwitzerland - FrenchSwitzerland - GermanTaiwan RegionTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates - EnglishUnited Arab Emirates - العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe ABOUT LENOVO
+STAY CONNECTED Wrong Input × FacebookInstragramYouTubeTwitterFlickrForums Country Selector AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium - DutchBelgium - FrançaisBelizeBoliviaBotswanaBrazilBulgariaCanada - EnglishCanada - FrançaisChileChinaColombiaCosta RicaCote d'IvoireCroatiaCzech RepublicDenmarkDominican RepublicEcuadorEgypt - EnglishEgypt - العربيةEl SalvadorEstoniaFinlandFranceGermanyGhanaGreeceGuatemalaHondurasHong Kong S.A.R. of China - EnglishHong Kong S.A.R. of China - 繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNicaraguaNigeriaNorwayOmanPakistanPanamaParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia - EnglishSaudi Arabia - العربيةSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland - EnglishSwitzerland - FrenchSwitzerland - GermanTaiwan RegionTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates - EnglishUnited Arab Emirates - العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe ABOUT LENOVO
 
 *   Our Company
 *   News
@@ -1156,16 +1165,14 @@ CUSTOMER SUPPORT
 *   Forums
 *   FAQs
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Laptops Desktops Tablets Accessories Deals Click a button below to chat with that department. If the button is greyed out, that department is currently closed. Please note that the chat will pop out as a new window so you can continue to browse on this page. Please allow popups for this site if the window does not pop out for you.CONSUMER SALES CHAT
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Laptops Desktops Tablets Accessories Deals Feedback Will open a new windowFeedbackLaunches comment card in new windowE0267138-2B84-494D-A002-4B9E379FDED2Created with sketchtool.CHAT NOW
 
-How can we help you today?
+How can we help
 
-SALES CHATSALES CHAT BUSINESS SALESBUSINESS SALES EXISTING ORDER HELPEXISTING ORDER HELP Call us: 1-855-253-6686
+you today?
 
-Based on this chat, on a scale of 0-10, where 10 is most favaorable and 0 being least favorable, how likely is it that you would recommend Lenovo to a friend or colleague?
+×SALES CHATEXISTING ORDER HELPSALES CHATEXISTING ORDER HELPBUSINESS SALESBUSINESS SALES
 
-1 2 3 4 5 6 7 8 9 10
+Call us: 1-855-253-6686
 
-Please tell us how we can improve your experience:
-
-SUBMIT CHATHIDEFeedback Will open a new windowFeedbackLaunches comment card in new window
+Check order status >Technical support or Repair status >
