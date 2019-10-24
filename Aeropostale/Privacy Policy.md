@@ -80,6 +80,7 @@ Close submenu ( Guys ) Guys
 *   Open submenu ( Bottoms ) Bottoms
 
 *   Jackets + Coats
+*   Hats + Gloves
 *   Accessories
 *   Underwear
 *   Cologne
@@ -338,6 +339,7 @@ Menu Find a Store Aeropostale
         
     
     *   Jackets + Coats
+    *   Hats + Gloves
     *   Accessories
     *   Underwear
     *   Cologne
