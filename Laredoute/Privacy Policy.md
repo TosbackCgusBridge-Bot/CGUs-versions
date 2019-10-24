@@ -1,3 +1,5 @@
+(Mise à jour du 26 Septembre 2019)
+
 POLITIQUE DE CONFIDENTIALITÉ
 
 Soucieuse de la protection de votre vie privée, la Redoute s’engage à assurer le meilleur niveau de protection de vos données à caractère personnel.
