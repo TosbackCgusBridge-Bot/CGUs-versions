@@ -86,7 +86,7 @@
 *   Business Gifts
 *   Sale
 
-1.800.753.8558 Business Gifts Take 15% off sitewide &. get free shipping on select gifts! Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
+1.800.753.8558 Business Gifts Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
 
 *   Gift Baskets
     
