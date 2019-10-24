@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Ben Domenech_: D.C. Blob Rejects Change on Mideast Interventionism
+*   _Mike Allen_: The Daily Dump Has Thrown Trump Into a State of Defensiveness
     
-*   _Samantha Vinograd_: Trump's Syria Withdrawal Is a Game of Russian Roulette
+*   _John Nolte_: The Fake Media's Latest 'Bombshell'
     
-*   _Matthew Walther_: Mitt Romney Is the Leader the #Resistance Deserves
+*   _Jill Filipovic_: Gabbard Is Flaming Out--Clinton Shouldn't Give Her Oxygen
     
-*   _Jill Lepore_: The Invention--and Reinvention--of Impeachment
+*   _Frank Bruni_: Is God Skipping the Democratic Primary?
     
-*   _Ilya Shapiro_: High Court Is Poised to Strike Down a Major Obama-Era Agency
+*   _Sumantra Maitra_: Forget Syria. What About the Failed State on Our Border?
     
-*   _Anna North_: How Abortion Debate Moved Away From 'Safe, Legal, and Rare'
+*   _Jack Jacobs_: Trump's Former Generals Sound Unprecedented Warning
     
-*   _Sarah Flores_: Why Democrats Face an Uphill Battle Against Trump
+*   _Gerard Araud_: Is Trump Right About Middle-East Peace?
     
-*   _Douglas Schoen_: Demographic Shifts Point to Trouble for Republicans
+*   _Eric Felten_: Giuliani's 'Shadow' Diplomacy: Par for the Course of U.S. History
     
-*   _Froma Harrop_: Identity Politics Are a Dead End
+*   _Jack Shafer_: How to Trick Trump Into Telling the Truth
     
-*   _Bret Baier_: We Should Not Fear Talk. We Should Fear the End of Talks
+*   _Freddy Gray_: Trump Always Makes His Fiercest Critics Look Silly and Vain
     
-*   _Carl Cannon_: As World Series Begins, Recalling WWII's Diamond Girls
+*   _Kate Andrews_: An Outrageous, Shameless, Last-Ditch Effort to Derail Brexit
     
-*   _Matt Taibbi_: Everyone Is a Russian Asset
+*   _Jonathan Freedland_: Don't Buy the Hype: Johnson's Deal Didn't Win Approval
     
-*   _Bertrand &. Lippman_: Trump's Quest for Vengeance Against John Brennan
+*   _Catherine Rampell_: I Could Be a Whistleblower. So Could Anyone With a TV.
     
-*   _Roger Kimball_: The Crisis of the American Media
+*   _Conrad Black_: Dems' Would-Be Maduros Will Fail to Take Out Trump
     
-*   _Ella Nilsen_: Both Parties Distance Themselves From Trump's Mideast Policy
+*   _Jesse Wegman_: Donald Trump's Quid Pro Quo Is Now a Smoking Gun
     
-*   _Andrew Bacevich_: Does Trump Have a Better Idea Than Endless Wars?
+*   _Hunter DeRensis_: Is Biden's Black Sheep Son Wrecking His Bid?
     
-*   _Donald Berwick_: Stop Fearmongering About 'Medicare for All'
+*   _Li Zhou_: As Warren Makes Inroads, Biden Shouldn't Get Complacent in S.C.
     
-*   _Philip Wegmann_: Pronoun Primary? Why Dems Are Talking Gender Identity
+*   _Jonathan Martin_: Anxious Dem Establishment Asks, 'Is There Anybody Else?'
     
-*   _John Davidson_: A Drug Cartel Just Defeated Mexican Military in Battle
+*   _Gov. Mike Dunleavy_: Even Alaskans Suffer From Dems' Failed Border Policies
     
-*   _Panetta &. Gardner_: How Justin Trudeau Survived
+*   _Matt Ford_: Bill Barr's First Epistle to the Heathens
     
-*   _Peter Wallison_: Why Much Is at Stake in the CFPB Court Case
+*   _Tucker Carlson_: NBC News' Harvey Weinstein Cover-Up
     
-*   _Leah Litman_: Will the Supreme Court See Through Trump's War on California?
+*   _Jared Whitley_: Will the Real Mitt Romney Please Shut Up?
     
-*   _Peggy Noonan_: The Impeachment Needle May Soon Move Against Trump
+*   _Damon Linker_: The Wheels Have Come Off the Trump Administration
     
-*   _Scott Powell_: Impeachment Is a Sham That Will Backfire on Dems
+*   _Daniel Sobieski_: Trump Gave Ukraine What Obama Withheld
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Lifts Sanctions on Turkey, Announces Permanent Syria Ceasefire
 *   Pronoun Primary: 2020 Dems Are Talking Gender Identity
+*   Carlson: NBC News' Harvey Weinstein Cover-Up
 *   Trump Pushes Republicans to "Get Tougher" vs. Impeachment Inquiry
-*   Attkisson: Did Trump Drive Media to Madness, or Just Expose Its Madness?
 *   "I Am Back": Bernie Sanders Rallies With Ocasio-Cortez in Queens
-*   Trende: Would Warren's Ideology Weaken Her as Dems' Nominee?
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,70 +252,69 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationEmerson
-    *   Biden27
-    *   Warren21
-    *   Sanders25
-    *   Buttigieg6
-    *   Harris5
-    *   Yang4
-    *   O'Rourke2
-    *   Booker3
-    *   Klobuchar1
-    *   Gabbard3
-    *   Steyer1
-    *   Bennet0
-    *   Castro0Biden +2
-*   2020 Democratic Presidential NominationThe Hill/HarrisX
-    *   Biden27
+*   2020 Democratic Presidential NominationCNN
+    *   Biden34
     *   Warren19
-    *   Sanders14
+    *   Sanders16
     *   Buttigieg6
-    *   Harris5
+    *   Harris6
     *   Yang2
     *   O'Rourke3
     *   Booker1
-    *   Klobuchar1
-    *   Gabbard0
+    *   Klobuchar3
+    *   Gabbard1
     *   Steyer1
     *   Bennet1
-    *   Castro1Biden +8
-*   2020 Democratic Presidential NominationPolitico/Morning Consult
-    *   Biden30
-    *   Warren21
-    *   Sanders18
-    *   Buttigieg6
-    *   Harris6
+    *   Castro0Biden +15
+*   2020 Democratic Presidential NominationEconomist/YouGov
+    *   Biden24
+    *   Warren23
+    *   Sanders16
+    *   Buttigieg8
+    *   Harris5
     *   Yang3
-    *   O'Rourke3
+    *   O'Rourke2
     *   Booker3
     *   Klobuchar2
-    *   Gabbard1
+    *   Gabbard2
     *   Steyer1
     *   Bennet1
-    *   Castro1Biden +9
-*   California Democratic PrimaryKGTV-TV/SurveyUSA
+    *   Castro1Biden +1
+*   South Carolina Democratic Presidential PrimaryMonmouth
     *   Biden33
-    *   Warren18
-    *   Sanders17
-    *   Harris8
-    *   Buttigieg4
-    *   Yang4
-    *   O'Rourke2
+    *   Warren16
+    *   Sanders12
+    *   Harris6
+    *   Steyer4
     *   Booker2
-    *   Castro1
+    *   Buttigieg3
+    *   Yang2
+    *   Klobuchar2
+    *   O'Rourke1
     *   Gabbard1
-    *   Klobuchar1
-    *   Steyer1
-    *   BennetBiden +15
+    *   Castro1
+    *   Williamson0Biden +17
+*   Wisconsin Democratic PrimaryMarquette
+    *   Biden31
+    *   Warren24
+    *   Sanders17
+    *   Buttigieg7
+    *   Harris5
+    *   Yang3
+    *   Klobuchar3
+    *   Gabbard2
+    *   Booker1
+    *   Williamson1
+    *   O'Rourke0
+    *   Bullock0Biden +7
 
 More Latest Polls In The News
 
+*   Scalise: What Is Adam Schiff Trying To Hide? Literally Trying To Overturn 2016 Election Behind Closed Doors
+*   CNN's Wajahat Ali to GOP: "Smart Rats Jump From A Sinking Ship," Trump's "Going Down"
+*   Matt Gaetz Leads Freedom Caucus Members To Storm SCIF Where Impeachment Inquiry Is Being Held
+*   Eric Swalwell: House Democrats Are Going To Give President Trump "A Fairer Trial Than He Deserves"
 *   Don Lemon: How Would You Feel If Trump Said This Was A "Presidential Holocaust" Or A "Presidential Raping?"
-*   Ronan Farrow Producer Rich McHugh: NBC News Behaved Like Members Of Harvey Weinstein's PR Team
-*   Graham: Trump Impeachment Push A "Political Lynching" In Every Sense, Unable To Face Accuser
-*   CBS Reporter to AOC: As A Woman Of Color, Why Endorse "An Old White Guy" Like Bernie Sanders?
-*   Chris Wallace: "Well-Connected" Republican Told Me 20% Chance Senate GOPers Would Remove Trump
 
 *   Politics
 *   Policy
