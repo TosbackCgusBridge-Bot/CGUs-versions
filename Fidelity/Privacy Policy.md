@@ -2,14 +2,14 @@ Skip to Main Content. Site navigation Fidelity.com Home
 
 *   Customer Service
 *   Profile
-*   Open An Account
-*   Refer A Friend
+*   Open an Account
+*   Refer a Friend
 *   Log In
 
 *   Customer Service
 *   Profile
-*   Open An Account
-*   Refer A Friend
+*   Open an Account
+*   Refer a Friend
 *   Log Out
 
 Search fidelity.com or get a quote
@@ -88,14 +88,14 @@ Search fidelity.com or get a quote
 
 *   Customer Service
 *   Profile
-*   Open An Account
-*   Refer A Friend
+*   Open an Account
+*   Refer a Friend
 *   Log In
 
 *   Customer Service
 *   Profile
-*   Open An Account
-*   Refer A Friend
+*   Open an Account
+*   Refer a Friend
 *   Log Out
 
 *   **Home**»
