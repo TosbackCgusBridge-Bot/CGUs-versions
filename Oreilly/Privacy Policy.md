@@ -13,6 +13,7 @@
         *   Pricing
     *   Conferences
         *   Artificial Intelligence Conference
+        *   Infrastructure &. Ops Conference
         *   Open Source Software Conference
         *   Software Architecture Conference
         *   Strata Data Conference
