@@ -365,22 +365,22 @@ Attention: Chief Digital Officer
     *   Recent
     
     *   Evolve security automation like the human brain: Part 1
-    *   Stratfor hacker Hammond held in contempt for refusing to answer grand jury questions
-    *   Diplomats used WhatsApp, personal phones to discuss Ukraine policy
     *   Avast’s network penetrated, CCleaner targeted again
-    *   Malware takes down some Pitney Bowes systems
+    *   Imperva CTO: Breach caused by mishandled database migration
+    *   Leaky Autoclerk database exposes info on travelers, including military and gov't personnel
+    *   Georgia Supreme Court rules that collection of vehicular data requires warrant
     
-    *   Baltimore belatedly buys cyberinsurance
-    *   Adobe patches 81 vulnerabilities for four products
-    *   Mississippi gov't agencies fall short of cybersecurity compliance standards
+    *   Avast’s network penetrated, CCleaner targeted again
+    *   Leaky Autoclerk database exposes info on travelers, including military and gov't personnel
+    *   Hacker behind Montgomery County school data breach identified
     *   Malware takes down some Pitney Bowes systems
-    *   Evolve security automation like the human brain: Part 1
+    *   New MedusaLocker ransomware looks to make a monster profit
     
+    *   Phishing scam behind Kalispell Regional Healthcare data breach
+    *   Tips for those of all ages interested in pursuing a career in cybersecurity
+    *   Malicious voice apps can turn Alexa and Google Home devices into spies, say researchers
     *   Gov. Terry McAuliffe joins Hunton Andrews Kurth
     *   Attackers improving BEC skills
-    *   Facebook moves to protect elections by flagging content from state-run media
-    *   Georgia Supreme Court rules that collection of vehicular data requires warrant
-    *   NordVPN confirms 2018 breach
 
 Back to Top
 
