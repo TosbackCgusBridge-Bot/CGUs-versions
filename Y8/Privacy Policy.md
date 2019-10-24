@@ -12,31 +12,31 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 911 games
-*   Most Popular Games 19972 games
+*   Best of new games 923 games
+*   Most Popular Games 19978 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,379 games
-*   Driving &. Racing Games 6,909 games
+*   Games for girls 24,383 games
+*   Driving &. Racing Games 6,911 games
 *   Strategy &. RPG Games 2,433 games
-*   Management Games 3,667 games
-*   Thinking Games 12,367 games
-*   Action &. Adventure Games 16,551 games
-*   Sports Games 2,314 games
-*   Shooting Games 8,589 games
-*   Fighting Games 2,118 games
-*   Skill Games 11,707 games
-*   Arcade &. Classic Games 13,625 games
-*   Fun &. Crazy Games 2,589 games
+*   Management Games 3,669 games
+*   Thinking Games 12,372 games
+*   Action &. Adventure Games 16,552 games
+*   Sports Games 2,316 games
+*   Shooting Games 8,588 games
+*   Fighting Games 2,117 games
+*   Skill Games 11,709 games
+*   Arcade &. Classic Games 13,629 games
+*   Fun &. Crazy Games 2,591 games
 
 Play with friends  
 Powered by Y8 Account 129 Y8 Multiplayer Games 2,101 Y8 High Score Games 1,185 Y8 Achievements Games 835 Y8 Screenshots Games 1,504 Y8 Online Save Games 3,190 All Y8 Games Games Last Highscore:
 
-**67,564** points on Military Wars 3D Multiplayer by RAGHAV
+**106,000** points on Wheel Of Fortune by juliocracxdxonnex\_roblox
 
 Help us improve Bad translation? Social
 
