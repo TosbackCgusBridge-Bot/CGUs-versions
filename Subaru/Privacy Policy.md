@@ -31,22 +31,22 @@ Subaru Confidence In Motion
 *   Build &. Price
 *   Find Retailer
 
-Impreza $18,595\* starting price 2019 Impreza
+Impreza $18,695\* starting price 2020 Impreza
 
 Starting at
 
-$18,595 MSRP
+$18,695 MSRP
 
 Up to
 
-38/28 MPG Hwy/City
+36/28 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
 *   Compare
 *   Build &. Price
 
-2.0i Sport Sedan shown
+Impreza Sport 5-door shown
 
 Legacy $22,745\* starting price 2020 Legacy
 
