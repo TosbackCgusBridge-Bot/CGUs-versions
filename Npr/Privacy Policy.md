@@ -38,8 +38,8 @@ Close Navigation Menu
     *   Tiny Desk
     *   All Songs Considered
     *   Music News
-    *   Turning The Tables
     *   New Music
+    *   Live Sessions
     *   Best Music Of 2019
 *   Shows &. Podcasts Expand/collapse submenu for Shows &. Podcasts Daily
     
@@ -65,8 +65,8 @@ Close Navigation Menu
 *   Tiny Desk
 *   All Songs Considered
 *   Music News
-*   Turning The Tables
 *   New Music
+*   Live Sessions
 *   Best Music Of 2019
 
 *   About NPR
