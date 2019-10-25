@@ -60,7 +60,7 @@ SUBSCRIBE NOW$5 for 3 months. Save 83%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending Now$50M-plus mixed-use center set for Cielo Vista areaBusinessPolice ID suspect in fatal shooting of soldierNewsRB Moya earns high marks for Missouri S&TSportsEl Paso man faces meth charges in New MexicoCrimePerson with gun arrested at El Paso WalmartCrimeReport: MLB could cut several minor league teamsBaseballLawmakers call for Sam Morgan's resignationNewsEl Paso athletes shine in collegeSportsShooting suspect arrested in SWAT standoff in Northeast El PasoCrimeMeet Patricia Vonne, Robert Rodriguez's sisterEntertainmentHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowMan dragging 2 police officers with SUV killedCrimeJudge lifts Duranguito demolition banNewsHere's how mass shootings have changed TexasNewsHorizon High School teacher arrested in DWIEducation2 hurt in shooting in Socorro, Texas. 3 detainedCrimeClaudia Ordaz Perez joins Texas House racePoliticsMy plan to reduce mass violence: Sen. John CornynOpinionAmericas High School grad killed in motorcycle crashNews$50M-plus mixed-use center set for Cielo Vista areaBusinessMeet Patricia Vonne, Robert Rodriguez's sisterEntertainmentHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
