@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   Canonical at ROSCon Macau 2019
+*   Bauh is a nifty snap manager
+*   FinTechs discuss security, regulation and innovation at New York City roundtable
+*   How to deploy StorageOS on Charmed Kubernetes
 *   How Ubuntu Advantage for Infrastructure delivers top-notch Linux security
-*   NVIDIA GPU Operator – Simplifying AI/ML Deployments on the Canonical Platform
-*   Kubernetes on a single machine
-*   Snaptastic – elementary OS snap manager
-*   Embedded system cross-development with Ubuntu Core
 
 *    ›
