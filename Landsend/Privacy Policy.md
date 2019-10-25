@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off full-price sweaters, turtlenecks, tees and more. 30% off all other full-price styles!
+Receive 50% off full-price outerwear including coats, snow boots, hats &. gloves!
 
-code: TREATS pin: PROMOTION DETAILS
+code: WARMTH pin: PROMOTION DETAILS
 
 Customer Service Menu
 
@@ -54,6 +54,12 @@ Customer Service
 *   Manage Email Subscription
 *   Services
 *   Legal Policies
+*   Technical Information
+*   Store Locator
+*   More Lands' End Sites
+*   Size Charts
+*   Site Map
+*   Glossary
 
 Privacy Policy Last Updated: May 21, 2018
 
