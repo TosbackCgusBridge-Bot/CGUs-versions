@@ -26,8 +26,8 @@ Main menuSONY
     *   Headphones
     *   MP3 Players
     *   High-Resolution Audio
-    *   360 Reality Audio
     *   Wireless Speakers
+    *   360 Reality Audio
     *   Audio Systems
     *   Digital Voice Recorders
     *   Boomboxes, Radios &. Portable CD Players
@@ -123,7 +123,7 @@ With the Xperia 5 Triple Lens Camera
 
 Will your first The Outer Worlds playthrough be 👼 or 😈?
 
-3 days ago View Tweet Instagram Post B3F4fyfAAAY
+4 days ago View Tweet Instagram Post B3F4fyfAAAY
 
 Be In Control
 
