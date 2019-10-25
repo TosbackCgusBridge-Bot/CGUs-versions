@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Mike Allen_: The Daily Dump Has Thrown Trump Into a State of Defensiveness
+*   _Roger Kimball_: 'If We Don't Impeach This President, He Will Get Re-Elected'
     
-*   _John Nolte_: The Fake Media's Latest 'Bombshell'
+*   _Ezra Klein_: 'High Crimes and Misdemeanors,' Explained
     
-*   _Jill Filipovic_: Gabbard Is Flaming Out--Clinton Shouldn't Give Her Oxygen
+*   _Sharyl Attkisson_: Quid Pro No--Big Flaws in Dems' Impeachment Narrative
     
-*   _Frank Bruni_: Is God Skipping the Democratic Primary?
+*   _Nahal Toosi_: John Bolton, Welcome to the Resistance?
     
-*   _Sumantra Maitra_: Forget Syria. What About the Failed State on Our Border?
+*   _Lee Smith_: How Did the Establishment Get It So Wrong on Syria?
     
-*   _Jack Jacobs_: Trump's Former Generals Sound Unprecedented Warning
+*   _Dubowitz &. Adesnik_: Syria Pullout: The Day We Stopped Leading the World
     
-*   _Gerard Araud_: Is Trump Right About Middle-East Peace?
+*   _Susan Crabtree_: Trump's 'Mission Accomplished' Moment in Syria: Will It Stick?
     
-*   _Eric Felten_: Giuliani's 'Shadow' Diplomacy: Par for the Course of U.S. History
+*   _Rupert Darwall_: Profit Is a Good Thing--Except to the Political Left
     
-*   _Jack Shafer_: How to Trick Trump Into Telling the Truth
+*   _Bergengruen/Abramson_: It Isn't the Deep State Threatening Trump, It's the State
     
-*   _Freddy Gray_: Trump Always Makes His Fiercest Critics Look Silly and Vain
+*   _George Neumayr_: Durham Getting Closer to the Truth About Brennan?
     
-*   _Kate Andrews_: An Outrageous, Shameless, Last-Ditch Effort to Derail Brexit
+*   _Paul Sracic_: Can the Democrats Avoid a Brokered Convention?
     
-*   _Jonathan Freedland_: Don't Buy the Hype: Johnson's Deal Didn't Win Approval
+*   _Baker & Jakes_: Trump's War on the 'Deep State' Turns Against Him
     
-*   _Catherine Rampell_: I Could Be a Whistleblower. So Could Anyone With a TV.
+*   _Adam Mill_: Biden-Ukraine Shenanigans Are a Legitimate U.S. Concern
     
-*   _Conrad Black_: Dems' Would-Be Maduros Will Fail to Take Out Trump
+*   _Joe Lockhart_: Trump Is Doing Biden a Big Favor
     
-*   _Jesse Wegman_: Donald Trump's Quid Pro Quo Is Now a Smoking Gun
+*   _Charles Lipson_: 3 Questions Amid the Fog of Secret Impeachment
     
-*   _Hunter DeRensis_: Is Biden's Black Sheep Son Wrecking His Bid?
+*   _Renato Mariotti_: After Bombshell Testimony, Trump Has No Defense
     
-*   _Li Zhou_: As Warren Makes Inroads, Biden Shouldn't Get Complacent in S.C.
+*   _Ramesh Ponnuru_: Liberals Are Confused About Facebook, Facts, Freedom
     
-*   _Jonathan Martin_: Anxious Dem Establishment Asks, 'Is There Anybody Else?'
+*   _Pete Buttigieg_: Four Ways I'll Make America a Better Place for Women
     
-*   _Gov. Mike Dunleavy_: Even Alaskans Suffer From Dems' Failed Border Policies
+*   _Ann Coulter_: Debate Questions That the Democrats Should've Been Asked
     
-*   _Matt Ford_: Bill Barr's First Epistle to the Heathens
+*   _Bernard Hudson_: U.S. Withdrawal From Syria Was Inevitable
     
-*   _Tucker Carlson_: NBC News' Harvey Weinstein Cover-Up
+*   _Sen. Tammy Duckworth_: Trump's Syria Drawdown Hits America's Credibility
     
-*   _Jared Whitley_: Will the Real Mitt Romney Please Shut Up?
+*   _Rush Limbaugh_: Trump's Syria Speech Shows Us the Reason He Was Elected
     
-*   _Damon Linker_: The Wheels Have Come Off the Trump Administration
+*   _George Monbiot_: 'The Will of the People' Is a Myth in British Democracy
     
-*   _Daniel Sobieski_: Trump Gave Ukraine What Obama Withheld
+*   _Douglas Murray_: Britain Faces a Political and Constitutional Crisis
     
 
 *   Previous
@@ -235,10 +235,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Lifts Sanctions on Turkey, Announces Permanent Syria Ceasefire
+*   Trump's "Mission Accomplished" Moment in Syria: Will It Stick?
+*   While Trump Rakes in Cash, Some Senate Republicans Are Lagging
+*   Scalise: What Is Schiff Hiding?
 *   Pronoun Primary: 2020 Dems Are Talking Gender Identity
-*   Carlson: NBC News' Harvey Weinstein Cover-Up
-*   Trump Pushes Republicans to "Get Tougher" vs. Impeachment Inquiry
 *   "I Am Back": Bernie Sanders Rallies With Ocasio-Cortez in Queens
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -252,69 +252,59 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationCNN
-    *   Biden34
-    *   Warren19
-    *   Sanders16
-    *   Buttigieg6
-    *   Harris6
-    *   Yang2
-    *   O'Rourke3
-    *   Booker1
-    *   Klobuchar3
-    *   Gabbard1
-    *   Steyer1
-    *   Bennet1
-    *   Castro0Biden +15
-*   2020 Democratic Presidential NominationEconomist/YouGov
-    *   Biden24
-    *   Warren23
-    *   Sanders16
-    *   Buttigieg8
+*   2020 Democratic Presidential NominationQuinnipiac
+    *   Biden21
+    *   Warren28
+    *   Sanders15
+    *   Buttigieg10
     *   Harris5
-    *   Yang3
-    *   O'Rourke2
-    *   Booker3
-    *   Klobuchar2
-    *   Gabbard2
-    *   Steyer1
-    *   Bennet1
-    *   Castro1Biden +1
-*   South Carolina Democratic Presidential PrimaryMonmouth
-    *   Biden33
-    *   Warren16
-    *   Sanders12
-    *   Harris6
-    *   Steyer4
-    *   Booker2
-    *   Buttigieg3
-    *   Yang2
-    *   Klobuchar2
+    *   Yang1
     *   O'Rourke1
-    *   Gabbard1
-    *   Castro1
-    *   Williamson0Biden +17
-*   Wisconsin Democratic PrimaryMarquette
-    *   Biden31
-    *   Warren24
-    *   Sanders17
-    *   Buttigieg7
-    *   Harris5
-    *   Yang3
     *   Klobuchar3
+    *   Booker1
+    *   Gabbard1
+    *   Steyer1
+    *   Castro1
+    *   Bennet0Warren +7
+*   Iowa Democratic Presidential CaucusIowa State University
+    *   Warren28
+    *   Biden12
+    *   Buttigieg20
+    *   Sanders18
+    *   Harris3
+    *   Steyer3
+    *   Klobuchar4
+    *   Gabbard2
+    *   Yang2
+    *   Booker1
+    *   O'Rourke1
+    *   Bullock0
+    *   Bennet1Warren +8
+*   California Democratic PrimaryKQED/NPR
+    *   Biden19
+    *   Warren28
+    *   Sanders24
+    *   Harris8
+    *   Buttigieg9
+    *   Yang3
+    *   O'Rourke1
     *   Gabbard2
     *   Booker1
-    *   Williamson1
-    *   O'Rourke0
-    *   Bullock0Biden +7
+    *   Klobuchar2
+    *   Castro0
+    *   Steyer1
+    *   Williamson1Warren +4
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve41
+    *   Disapprove57Disapprove +16
 
 More Latest Polls In The News
 
+*   Graham to Media: If GOP Held Impeachment Inquiry Like Dems, "You Would Be Beating The Sh\*t Out Of Us"
+*   Laurence Tribe: Ukraine Most Transparent Impeachable Offense Ever, Makes Nixon Look "Silly By Comparison"
+*   CNN's Baldwin to Dem Rep: "At What Point Do You Need to Start Holding These Hearings In Public?"
 *   Scalise: What Is Adam Schiff Trying To Hide? Literally Trying To Overturn 2016 Election Behind Closed Doors
-*   CNN's Wajahat Ali to GOP: "Smart Rats Jump From A Sinking Ship," Trump's "Going Down"
-*   Matt Gaetz Leads Freedom Caucus Members To Storm SCIF Where Impeachment Inquiry Is Being Held
-*   Eric Swalwell: House Democrats Are Going To Give President Trump "A Fairer Trial Than He Deserves"
-*   Don Lemon: How Would You Feel If Trump Said This Was A "Presidential Holocaust" Or A "Presidential Raping?"
+*   Michael Moore: Voting For Trump A "Racial Thing," Whites Voters "Afraid" Of Losing Power To Minorities
 
 *   Politics
 *   Policy
