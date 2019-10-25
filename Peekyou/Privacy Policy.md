@@ -57,7 +57,7 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, UT. On the internet, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, Utah. On the web, Privacy goes by the alias sammytown.
 
 What is PeekScore? Public Records &. Background Checks 3% 
 
@@ -135,37 +135,7 @@ Sponsored by **BeenVerified***   Patricia A Policy, age 57, Casselberry, FL 3270
     
 *   Show Less ...
 
-3% 
-
-Sponsored by **PeopleLooker***   Patricia A Policy, age 57, Casselberry, FL 32707 View Full Report
-    
-    Known Cities: Casselberry FL, 32707, Pueblo CO 81004, Winter Park FL 32792
-    
-*   Paul A Policy, age 59, Clermont, GA 30527 View Full Report
-    
-    Known Cities: Clermont GA, 30527, Flowery Branch GA 30542, Lake Worth FL 33463 Possible Relatives: Donna K Peterson, Paul A Policy, Paulette S Policy
-    
-*   Paulette S Sugar, age 70, Youngstown, OH 44512 View Full Report
-    
-    Known Cities: Youngstown OH, 44512, Boardman Township OH 44512, Boardman OH 44512
-    
-*   Show More ...
-
-*   Patricia Katherine Policy, age 72 View Full Report
-    
-    Possible Relatives: Irene Policy, Jennifer I Policy, Joseph P Policy
-    
-*   Paul Arthur Policy, age 77, Lusby, MD 20657 View Full Report
-    
-    Known Cities: Lusby MD, 20657, New Bern NC 28562, Cleveland OH 44134 Possible Relatives: Brenda Sue Policy, Nancy L Roeland
-    
-*   Patricia A Policy, age 78, Fort Myers, FL 33908 View Full Report
-    
-    Known Cities: Fort Myers FL, 33908, Warren OH 44482, Fort Myers FL 33908 Possible Relatives: Kerry Rae Groth, Carmen A Policy, Daniel A Policy
-    
-*   Show Less ...
-
-7%  Arrest Records &. Driving Infractions
+6%  6%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
