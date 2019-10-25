@@ -9,11 +9,34 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
-    *   Filson Travel-Ready Bags Up to 40% Off
+    *   Diane von Furstenberg Up to 55% Off
+    *   Designer Sun Under $100
+    *   True Religion Men
+    *   Wear-to-Work Shoes Up to 55% Off
+    *   Dansko
+    *   Do + Be
+    *   Comfortably Chic: Casual Pants from $20
+    *   Vintage Foundry Up to 80% Off
+    *   Y-3 Men's Footwear Up to 70% Off
+    *   On-Trend 14K Gold &. More from $20
+    *   Cover Roots &. Grays: TRUHAIR
+    *   Ooberswank
+    *   bebe Sport Under $30
+    *   Skechers from $30
+    *   Hair Tools We Love Starting at $15
+    *   Shape Up: Yummie by Heather Thomson &. More
+    *   JOE'S Jeans Kids
+    *   Luxe Bath Towels ft. UGG, Lacoste &. Pendleton
+    *   Free Shipping: Boho-Chic Decor Up to 75% Off
+    *   SMUG Beauty Contoured 3D Blackout Sleep Masks
+    *   Nicole Miller Girls' Shoes Up to 50% Off
+    *   Fall Finds: Kids' Sets Up to 60% Off
+    *   New Fragrance Arrivals Up to 55% Off
     *   Max Studio Up to 70% off
     *   Bony Levy Fine Jewelry
     *   Z By Zella
     *   Blondo Up to 60% Off
+    
     *   Shades of Nude &. Pink: Bras for All
     *   Naked Zebra
     *   Urban Decay Up to 55% Off
@@ -26,82 +49,70 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Mini Melissa
     *   Maison Forte
     *   Pelle Moda Up to 80% Off
-    *   Free Shipping: Home Organization from $11
     *   Reserved Footwear Up to 70% Off
     *   Poo-Pourri
     *   Cozy at Home: Blankets by Nordstrom Rack &. More
-    *   Free Shipping: Barware, Dinnerware &. More
     *   Double Dare: Face Masks Starting at $10
     *   Z By Zella Girls
     *   Coat Check: Kids' Outerwear Under $30
     *   Free Shipping: Storage for Every Room
     *   Free Shipping: Amrapur Towel Sets Up to 70% Off
     *   Free Shipping: Sensor Trash Cans
-    
     *   Free Shipping: Duvet Sets Up to 70% Off
     *   Free Shipping: Donna Salyers' Fabulous Faux Furs
     *   TUMI
-    *   Garrett Leight, Persol &. More Up to 85% Off
-    *   Steve Madden &. Madden Girl Up to 60% Off
-    *   Johnny Was Up to 65% Off
-    *   Luxe Looks ft. Dress the Population Up to 65% Off
-    *   Scotch &. Soda Up to 55% Off
     *   Steve Madden Kids
-    *   Elodie Under $45
-    *   Cozy Comfort: Sleep Styles We Love
-    *   If the Shoe Fits: Narrow &. Wide Widths
-    *   If the Shoe Fits: Styles in Sizes 5 to 11
-    *   Ryka
     *   Saachi Leather &. Gemstone Jewelry from $20
     *   Via Mercato Italian Soaps &. More
+    
     *   Snow Teeth Whitening Starting at $10
     *   Steve Madden Men
     *   Crevo
     *   Hudson Jeans Kids
-    *   Sam Edelman Up to 60% Off
     *   Stila Up to 60% Off
-    *   Levi's Men Starting at $15
     *   Clarisonic Face Cleanser Up to 40% Off
-    *   Champion Men Under $35
-    *   14K Gold Jewelry &. More
     *   Free Shipping: On-Trend Decor
     *   Born Men
-    
     *   Free Shipping: Wall Art Up to 50% Off
     *   Free Shipping: Lamps Up to 40% Off
     *   Champion Men's Shoes
-    *   Levi's Kids Up to 55% Off
-    *   Sovereign Code Boys &. Girls
-    *   Nordstrom Rack Exclusives ft. Harper Canyon
-    *   Men's Shoes Up to 65% Off
-    *   Magnanni
-    *   Free Shipping: Shun Cutlery Classic Collection
+    *   Fisher-Price
     *   Exfoliating Sugar Cubes from Harper + Ari
     *   SilkPro Beauty Tools
     *   K-Beauty Skin Care ft. Urang, 23 Years Old &. More
-    *   Mario Badescu
     *   Free Shipping: Eye-Catching Wall Art
     *   Sweet Dreams: Sheet Sets &. More Under $40
+    *   Free Shipping: Home Organization from $11
+    *   Free Shipping: Barware, Dinnerware &. More
+    *   Free Shipping: Shun Cutlery Classic Collection
     *   Tommy Bahama Bedding &. More
-    *   Laundry by Shelli Segal Outerwear
-    *   Fisher-Price
-    *   Levi's Starting at $30 Incl. Plus
-    *   Kalorik Kitchen Appliances
     *   Let the Music Take Over: Speakers &. More
     *   Free Shipping: Luxe Faux Fur Pillows &. More
-    *   Denim Up to 70% Off
-    *   New Arrivals from Lancome
-    *   Puddle Jumpers: Kids' Rain Boots ft. Bogs
-    *   Sam Edelman Clothing Up to 60% Off
-    *   NYDJ Incl. Plus &. Petites
-    *   Automatic Robot Vacuums &. More Up to 60% Off
+    *   Johnny Was Up to 65% Off
+    *   Luxe Looks ft. Dress the Population Up to 65% Off
 *   WomenShop Sale Events
     
+    *   Diane von Furstenberg Up to 55% Off
+    *   Designer Sun Under $100
+    *   Wear-to-Work Shoes Up to 55% Off
+    *   Dansko
+    *   Do + Be
+    *   Comfortably Chic: Casual Pants from $20
+    *   On-Trend 14K Gold &. More from $20
+    *   Cover Roots &. Grays: TRUHAIR
+    *   Ooberswank
+    *   bebe Sport Under $30
+    *   Skechers from $30
+    *   Hair Tools We Love Starting at $15
+    *   Shape Up: Yummie by Heather Thomson &. More
+    *   SMUG Beauty Contoured 3D Blackout Sleep Masks
+    *   New Fragrance Arrivals Up to 55% Off
     *   Max Studio Up to 70% off
     *   Bony Levy Fine Jewelry
     *   Z By Zella
     *   Blondo Up to 60% Off
     *   Shades of Nude &. Pink: Bras for All
+    
     *   Naked Zebra
     *   Urban Decay Up to 55% Off
     *   Great Lengths: Midi Dresses Under $80
@@ -111,60 +122,40 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Pelle Moda Up to 80% Off
     *   Double Dare: Face Masks Starting at $10
     *   TUMI
-    *   Garrett Leight, Persol &. More Up to 85% Off
-    *   Steve Madden &. Madden Girl Up to 60% Off
-    *   Johnny Was Up to 65% Off
-    *   Luxe Looks ft. Dress the Population Up to 65% Off
-    *   Scotch &. Soda Up to 55% Off
-    *   Elodie Under $45
-    *   Cozy Comfort: Sleep Styles We Love
-    
-    *   If the Shoe Fits: Narrow &. Wide Widths
-    *   If the Shoe Fits: Styles in Sizes 5 to 11
-    *   Ryka
     *   Saachi Leather &. Gemstone Jewelry from $20
     *   Via Mercato Italian Soaps &. More
     *   Snow Teeth Whitening Starting at $10
-    *   Sam Edelman Up to 60% Off
     *   Stila Up to 60% Off
     *   Clarisonic Face Cleanser Up to 40% Off
-    *   14K Gold Jewelry &. More
     *   Exfoliating Sugar Cubes from Harper + Ari
     *   SilkPro Beauty Tools
     *   K-Beauty Skin Care ft. Urang, 23 Years Old &. More
-    *   Mario Badescu
-    *   Laundry by Shelli Segal Outerwear
-    *   Levi's Starting at $30 Incl. Plus
-    *   Denim Up to 70% Off
-    *   New Arrivals from Lancome
-    *   Sam Edelman Clothing Up to 60% Off
-    *   NYDJ Incl. Plus &. Petites
+    *   Johnny Was Up to 65% Off
+    *   Luxe Looks ft. Dress the Population Up to 65% Off
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
+    *   Shoes
     *   Lingerie &. Shapewear
     *   Accessories
     *   Handbags
 *   MenShop Sale Events
     
-    *   Filson Travel-Ready Bags Up to 40% Off
+    *   Designer Sun Under $100
+    *   True Religion Men
+    *   Vintage Foundry Up to 80% Off
+    *   Y-3 Men's Footwear Up to 70% Off
     *   Thomas Pink
     *   Break a Sweat: Men's Hoodies, Pants &. More
     *   Maison Forte
+    
     *   Reserved Footwear Up to 70% Off
     *   TUMI
-    *   Garrett Leight, Persol &. More Up to 85% Off
     *   Steve Madden Men
-    
     *   Crevo
-    *   Levi's Men Starting at $15
-    *   Champion Men Under $35
     *   Born Men
     *   Champion Men's Shoes
-    *   Men's Shoes Up to 65% Off
-    *   Magnanni
     
     Shop By Category
     *   Shoes
@@ -172,34 +163,32 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Accessories
 *   KidsShop Sale Events
     
+    *   JOE'S Jeans Kids
+    *   Nicole Miller Girls' Shoes Up to 50% Off
+    *   Fall Finds: Kids' Sets Up to 60% Off
     *   Mini Melissa
     *   Z By Zella Girls
     *   Coat Check: Kids' Outerwear Under $30
     *   Steve Madden Kids
     *   Hudson Jeans Kids
-    *   Levi's Kids Up to 55% Off
-    *   Sovereign Code Boys &. Girls
-    *   Nordstrom Rack Exclusives ft. Harper Canyon
     *   Fisher-Price
-    *   Puddle Jumpers: Kids' Rain Boots ft. Bogs
     
     Shop By Category
-    *   Girls' Sizes 2T-6X
-    *   Girls' Sizes 7-16
     *   Girls' Shoes
-    *   Boys' Sizes 2T-7
-    *   Boys' Sizes 8-20
+    *   Girls' Sizes 7-16
+    *   Girls' Sizes 2T-6X
     *   Baby Girl
+    *   Boys' Sizes 2T-7
     *   Baby Boy
-    *   Boys' Shoes
+    *   Boys' Sizes 8-20
     *   Toy Shop
-    *   Baby Gear &. Essentials
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
-    *   Free Shipping: Home Organization from $11
+    *   Luxe Bath Towels ft. UGG, Lacoste &. Pendleton
+    *   Free Shipping: Boho-Chic Decor Up to 75% Off
     *   Poo-Pourri
     *   Cozy at Home: Blankets by Nordstrom Rack &. More
-    *   Free Shipping: Barware, Dinnerware &. More
     *   Free Shipping: Storage for Every Room
     *   Free Shipping: Amrapur Towel Sets Up to 70% Off
     *   Free Shipping: Sensor Trash Cans
@@ -210,14 +199,14 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     
     *   Free Shipping: Wall Art Up to 50% Off
     *   Free Shipping: Lamps Up to 40% Off
-    *   Free Shipping: Shun Cutlery Classic Collection
     *   Free Shipping: Eye-Catching Wall Art
     *   Sweet Dreams: Sheet Sets &. More Under $40
+    *   Free Shipping: Home Organization from $11
+    *   Free Shipping: Barware, Dinnerware &. More
+    *   Free Shipping: Shun Cutlery Classic Collection
     *   Tommy Bahama Bedding &. More
-    *   Kalorik Kitchen Appliances
     *   Let the Music Take Over: Speakers &. More
     *   Free Shipping: Luxe Faux Fur Pillows &. More
-    *   Automatic Robot Vacuums &. More Up to 60% Off
     
     Shop By Category
     *   Home Decor
@@ -232,28 +221,30 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   Cover Roots &. Grays: TRUHAIR
+    *   Hair Tools We Love Starting at $15
+    *   SMUG Beauty Contoured 3D Blackout Sleep Masks
+    *   New Fragrance Arrivals Up to 55% Off
     *   Urban Decay Up to 55% Off
     *   Edward Bess Up to 80% Off
     *   Double Dare: Face Masks Starting at $10
+    
     *   Via Mercato Italian Soaps &. More
     *   Snow Teeth Whitening Starting at $10
     *   Stila Up to 60% Off
-    
     *   Clarisonic Face Cleanser Up to 40% Off
     *   Exfoliating Sugar Cubes from Harper + Ari
     *   SilkPro Beauty Tools
     *   K-Beauty Skin Care ft. Urang, 23 Years Old &. More
-    *   Mario Badescu
-    *   New Arrivals from Lancome
     
     Shop By Category
     *   Makeup
-    *   Skin Care
     *   Fragrance
+    *   Skin Care
+    *   Hair Care
     *   Bath &. Body
     *   Tools &. Accessories
-    *   Nails
-    *   Hair Care
+    *   Makeup Bags
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
