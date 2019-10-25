@@ -3,12 +3,11 @@ new icn messageflickr-free-ic3d pan white
 *   Explore
     *   Recent Photos
     *   Trending
-    *   Flickr VR
+    *   Events Beta
     *   The Commons
     *   Flickr Galleries
     *   World Map
     *   Camera Finder
-    *   The Weekly Flickr
     *   Flickr Blog
 *   Create
 *   Get Pro
@@ -19,6 +18,7 @@ new icn messageflickr-free-ic3d pan white
 
 *   Explore
 *   Trending
+*   Events Beta
 *   The Commons
 *   Flickr Galleries
 *   Flickr Blog
