@@ -600,7 +600,7 @@ Lenovo Explore Close
 1-855-253-6686
 
 *   Search
-*   icon-compare0 Compare Compare (0)
+
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
@@ -668,13 +668,7 @@ Lenovo Explore Close
 
 Top Suggestions
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
-
-Please add at least 2 products for compare
-
-Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
-
-Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
 
 protects better"/>.
 
@@ -1099,7 +1093,7 @@ How may I contact Lenovo's Privacy Program?
 
 If you have any questions about this privacy statement, you can contact Lenovo via privacy@lenovo.com or via U.S. postal mail at Lenovo, Attn: Privacy Program, 1009 Think Place, Morrisville, NC, USA 27560.
 
-STAY CONNECTED Wrong Input × FacebookInstragramYouTubeTwitterFlickrForums Country Selector AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium - DutchBelgium - FrançaisBelizeBoliviaBotswanaBrazilBulgariaCanada - EnglishCanada - FrançaisChileChinaColombiaCosta RicaCote d'IvoireCroatiaCzech RepublicDenmarkDominican RepublicEcuadorEgypt - EnglishEgypt - العربيةEl SalvadorEstoniaFinlandFranceGermanyGhanaGreeceGuatemalaHondurasHong Kong S.A.R. of China - EnglishHong Kong S.A.R. of China - 繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNicaraguaNigeriaNorwayOmanPakistanPanamaParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia - EnglishSaudi Arabia - العربيةSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland - EnglishSwitzerland - FrenchSwitzerland - GermanTaiwan RegionTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates - EnglishUnited Arab Emirates - العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe ABOUT LENOVO
+STAY CONNECTED Wrong Input × FacebookInstragramYouTubeTwitterFlickrForums Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium - DutchBelgium - FrançaisBelizeBoliviaBotswanaBrazilBulgariaCanada - EnglishCanada - FrançaisChileChinaColombiaCosta RicaCote d'IvoireCroatiaCzech RepublicDenmarkDominican RepublicEcuadorEgypt - EnglishEgypt - العربيةEl SalvadorEstoniaFinlandFranceGermanyGhanaGreeceGuatemalaHondurasHong Kong S.A.R. of China - EnglishHong Kong S.A.R. of China - 繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNicaraguaNigeriaNorwayOmanPakistanPanamaParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia - EnglishSaudi Arabia - العربيةSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland - EnglishSwitzerland - FrenchSwitzerland - GermanTaiwan RegionTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates - EnglishUnited Arab Emirates - العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe ABOUT LENOVO
 
 *   Our Company
 *   News
@@ -1165,7 +1159,7 @@ CUSTOMER SUPPORT
 *   Forums
 *   FAQs
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Laptops Desktops Tablets Accessories Deals Feedback Will open a new windowFeedbackLaunches comment card in new windowE0267138-2B84-494D-A002-4B9E379FDED2Created with sketchtool.CHAT NOW
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Laptops Desktops Tablets Accessories Deals Feedback Will open a new windowFeedbackLaunches comment card in new windowCreated with sketchtool.CHAT NOW
 
 How can we help
 
