@@ -52,8 +52,8 @@ View more results
     *   Fireboy and Watergirl: The Forest Temple
     *   Warbanner
     *   Total Front: Army War Game
-    *   Klondike - the lost expedition
     *   Bubble Machine: 2 Player Game
+    *   Klondike - the lost expedition
     *   Crystical: 2 Player Puzzle Game
     *   Pyramid Solitaire Duel
     *   Slither.io
@@ -80,11 +80,11 @@ View more results
     *   Warbanner
     *   Total Front: Army War Game
     *   Apple Shooter: Arrow Game
-    *   Slither.io
     *   Combat Reloaded
+    *   Slither.io
     *   Combat Strike 2: 3D Shooting Game Online Multiplayer
-    *   Stunt Skateboard 3D
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
+    *   Stunt Skateboard 3D
     *   Subway Clash 3D: Shooting Game Online Multiplayer
     *   Short Life
     *   Miami Crime Simulator 3D
@@ -111,15 +111,15 @@ View more results
     Best Games
     *   Five Nights at Freddy's
     *   World Craft 2
-    *   Short Life
     *   Five Nights at Freddy's 2
-    *   Chrome Dino
+    *   Short Life
     *   Miami Crime Simulator 3D
+    *   Chrome Dino
     *   Slope: Neon Ball Rolling Game
     *   Fireboy and Watergirl 5: Elements
     *   Five Nights at Freddy's 5
-    *   Five Nights at Freddy's 4
     *   Boeing Flight Simulator
+    *   Five Nights at Freddy's 4
     *   Tom and Jerry: Mouse Maze
 *   Top Categories
     
@@ -216,7 +216,7 @@ View more results
     *   Uphill Rush 7: Waterpark
     *   Thug Racer
     *   Russian Car Driver
-    *   Real Street Racing
+    *   Extreme Off Road Cars: 3D Racing Game
 *   Top Categories
     
     *   Athletics
@@ -454,5 +454,3 @@ Languages
 *   Nederlands
 
 Copyright © 2019 SPIL GAMES All rights reserved.
-
-Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. (e.g IP Address) To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them. Your data may be stored by us and our service providers. In case the applicable data protection laws provide so, you may access, rectify, and erase the data or you may restrict or object to our processing of your data. Please contact us in such event. Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click "ACCEPT" to agree with the above mentioned. You can change your mind and change your consent choices at any time by returning to this site.AcceptSettingsVendor List | Privacy policy | FeaturesA reminder you can control your user privacy preferenceshere
