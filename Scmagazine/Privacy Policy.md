@@ -364,23 +364,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Evolve security automation like the human brain: Part 1
-    *   Avast’s network penetrated, CCleaner targeted again
-    *   Imperva CTO: Breach caused by mishandled database migration
-    *   Leaky Autoclerk database exposes info on travelers, including military and gov't personnel
-    *   Georgia Supreme Court rules that collection of vehicular data requires warrant
+    *   Adobe patches 81 vulnerabilities for four products
+    *   VMware patches critical bug in Harbor Container Registry for PCF
+    *   Barr proposes expanding the collection DNA samples for immigrants, creating database
+    *   NordVPN confirms 2018 breach
+    *   2.8 million CenturyLink customer records exposed by unprotected database
     
-    *   Avast’s network penetrated, CCleaner targeted again
-    *   Leaky Autoclerk database exposes info on travelers, including military and gov't personnel
-    *   Hacker behind Montgomery County school data breach identified
-    *   Malware takes down some Pitney Bowes systems
-    *   New MedusaLocker ransomware looks to make a monster profit
-    
+    *   UC Browser potentially endangers 500 million users
+    *   SHIELD Act passes committee
     *   Phishing scam behind Kalispell Regional Healthcare data breach
-    *   Tips for those of all ages interested in pursuing a career in cybersecurity
-    *   Malicious voice apps can turn Alexa and Google Home devices into spies, say researchers
-    *   Gov. Terry McAuliffe joins Hunton Andrews Kurth
-    *   Attackers improving BEC skills
+    *   Trojanized Russian-language Tor browser lets attacks steal from users' e-wallets
+    *   Russian Turla group masqueraded as Iranian hackers in attacks
+    
+    *   Google Play adware campaign taken down, developer identified
+    *   ET never called home: Edward Snowden
+    *   Elijah Cummings aviation covert testing bill, other legislation move through Congress
+    *   Star Search: McAfee names riskiest celebs to look up online
+    *   The 8-inch floppy disk goes the way of the musket
 
 Back to Top
 
@@ -412,4 +412,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
