@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off full-price outerwear including coats, snow boots, hats &. gloves!
+Receive up to 50% off full-price styles. plus free shipping, no minimum!
 
-code: WARMTH pin: PROMOTION DETAILS
+code: BONFIRE pin: PROMOTION DETAILS
 
 Customer Service Menu
 
