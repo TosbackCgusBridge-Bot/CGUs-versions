@@ -1,25 +1,3 @@
-*   News
-*   Scores
-*   Schedule
-*   Standings
-*   Highlights
-*   NFL 100
-
-*   NFL 100
-*   Scores
-
-*   *   Super Bowl
-    *   Pro Bowl
-    *   Combine
-    *   Draft
-    *   Stats
-    *   Next Gen Stats
-    *   Ways to Watch
-    *   NFL Network
-    *   Photos
-    *   NFL Films
-    *   Game Pass
-
 NFL.com - Privacy Policy English
 
 **Effective Date: August 16, 2001  
