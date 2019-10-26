@@ -111,10 +111,10 @@ Sign up for our free WebMD Daily Newsletter Get doctor-approved health tips, new
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Vaping-Related Lung Illnesses Continue to Rise
+    *   Vaping: This Is the Gateway for Knockoff Cartridges
     *   A Nurse's Powerful Message About Getting a Flu Shot
-    *   Mercury, Feces Found in Cosmetics
-    *   Steroid Shots for Pain May Make It Worse
+    *   Serious Risks From Blood Pressure Meds
+    *   What Kind of Drinking Can Trigger A-Fib?
     *   Is There a Safer Way to Sterilize Medical Equipment?
     
     Experts &. Community
