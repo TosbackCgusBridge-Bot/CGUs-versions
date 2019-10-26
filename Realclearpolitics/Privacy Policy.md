@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Roger Kimball_: 'If We Don't Impeach This President, He Will Get Re-Elected'
+*   _Jamelle Bouie_: Donald Trump's 'Lynching'
     
-*   _Ezra Klein_: 'High Crimes and Misdemeanors,' Explained
+*   _Margot Cleveland_: All the Russia Collusion Clues Point Back to Brennan
     
-*   _Sharyl Attkisson_: Quid Pro No--Big Flaws in Dems' Impeachment Narrative
+*   _Zhou &. Nilsen_: House Republicans' Stunt Was an Attempt to Distract
     
-*   _Nahal Toosi_: John Bolton, Welcome to the Resistance?
+*   _Strickler &. Schapiro_: Son's Work in Romania Raises New Questions for Biden
     
-*   _Lee Smith_: How Did the Establishment Get It So Wrong on Syria?
+*   _Brian Rosenwald_: Why the Dem Primary Seems Primed for a Dark Horse
     
-*   _Dubowitz &. Adesnik_: Syria Pullout: The Day We Stopped Leading the World
+*   _Ramona Tausz_: No One Should Be Chemically 'Transitioning' Little Kids
     
-*   _Susan Crabtree_: Trump's 'Mission Accomplished' Moment in Syria: Will It Stick?
+*   _Sen. Chuck Schumer_: A Bold Plan for Clean Cars
     
-*   _Rupert Darwall_: Profit Is a Good Thing--Except to the Political Left
+*   _James Carafano_: Trump Prepares U.S. for Great-Power Competition
     
-*   _Bergengruen/Abramson_: It Isn't the Deep State Threatening Trump, It's the State
+*   _David Ignatius_: Trump's Mideast Results a Boon to Putin
     
-*   _George Neumayr_: Durham Getting Closer to the Truth About Brennan?
+*   _Jill Stein_: Dem Establishment Is Losing Its Grip With 'Russia' Accusations
     
-*   _Paul Sracic_: Can the Democrats Avoid a Brokered Convention?
+*   _Rebeccah Heinrichs_: Missile Defense Needs Trump's Attention
     
-*   _Baker & Jakes_: Trump's War on the 'Deep State' Turns Against Him
+*   _Byron York_: The Fundamental Problem With Dems' Impeachment Case
     
-*   _Adam Mill_: Biden-Ukraine Shenanigans Are a Legitimate U.S. Concern
+*   _Susan Glasser_: Trump Is Freaking Out About Impeachment
     
-*   _Joe Lockhart_: Trump Is Doing Biden a Big Favor
+*   _Roger Simon_: Durham Investigation Turns Criminal--a Disaster for the Media
     
-*   _Charles Lipson_: 3 Questions Amid the Fog of Secret Impeachment
+*   _Walter Shapiro_: Does Trump Actually Believe His Lies?
     
-*   _Renato Mariotti_: After Bombshell Testimony, Trump Has No Defense
+*   _Mark Hemingway_: Why Voters Don't Find Trump's Rhetoric Disqualifying
     
-*   _Ramesh Ponnuru_: Liberals Are Confused About Facebook, Facts, Freedom
+*   _Ed Kilgore_: Clinton 2020? Say It Ain't So, Hillary!
     
-*   _Pete Buttigieg_: Four Ways I'll Make America a Better Place for Women
+*   _A.B. Stoddard_: Dems Beware--the RNC Is Crushing It
     
-*   _Ann Coulter_: Debate Questions That the Democrats Should've Been Asked
+*   _Ronald Brownstein_: Trump Has No Room for Error in 2020
     
-*   _Bernard Hudson_: U.S. Withdrawal From Syria Was Inevitable
+*   _Philip Wegmann_: 'Amtrak Joe' Spent Big on Private Planes, Helicopters
     
-*   _Sen. Tammy Duckworth_: Trump's Syria Drawdown Hits America's Credibility
+*   _Matt Ford_: Trump Is Using His Ukraine Playbook Against the Senate
     
-*   _Rush Limbaugh_: Trump's Syria Speech Shows Us the Reason He Was Elected
+*   _David Bossie_: Republicans Expose Schiff's Kangaroo Court
     
-*   _George Monbiot_: 'The Will of the People' Is a Myth in British Democracy
+*   _Samuel Ramani_: How Turkey's Syria Incursion Could Impact the Gulf
     
-*   _Douglas Murray_: Britain Faces a Political and Constitutional Crisis
+*   _Joe Kent_: I'm a Gold Star Husband: On Syria Withdrawal, Trump Is Right
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   "Amtrak Joe" Biden Spent Big on Private Planes, Helicopters
+*   Pence Takes Swipe at NBA, Nike in Critical Speech on China
+*   Hoyer: When Republicans Talk About Secret Hearings "I Laugh"
 *   Trump's "Mission Accomplished" Moment in Syria: Will It Stick?
-*   While Trump Rakes in Cash, Some Senate Republicans Are Lagging
-*   Scalise: What Is Schiff Hiding?
 *   Pronoun Primary: 2020 Dems Are Talking Gender Identity
-*   "I Am Back": Bernie Sanders Rallies With Ocasio-Cortez in Queens
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,6 +252,22 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   South Carolina Democratic Presidential PrimaryPost and Courier
+    *   Biden30
+    *   Warren19
+    *   Sanders13
+    *   Harris11
+    *   Steyer5
+    *   Buttigieg9
+    *   Booker3
+    *   Yang4
+    *   Klobuchar3
+    *   Gabbard3
+    *   O'Rourke1
+    *   Bennet1Biden +11
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve43
+    *   Disapprove56Disapprove +13
 *   2020 Democratic Presidential NominationQuinnipiac
     *   Biden21
     *   Warren28
@@ -280,23 +296,6 @@ Latest PollsAll Polls
     *   O'Rourke1
     *   Bullock0
     *   Bennet1Warren +8
-*   California Democratic PrimaryKQED/NPR
-    *   Biden19
-    *   Warren28
-    *   Sanders24
-    *   Harris8
-    *   Buttigieg9
-    *   Yang3
-    *   O'Rourke1
-    *   Gabbard2
-    *   Booker1
-    *   Klobuchar2
-    *   Castro0
-    *   Steyer1
-    *   Williamson1Warren +4
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve41
-    *   Disapprove57Disapprove +16
 
 More Latest Polls In The News
 
