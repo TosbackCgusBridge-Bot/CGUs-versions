@@ -20,16 +20,16 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Opening This Week = Limited Release
     
-    *   Black and Blue (2019)
-    *   Countdown (2019)
-    *   The Current War: Director's Cut
-    *   Bigil (2019)
-    *   Frankie
-    *   Housefull 4
-    *   Jesus is King (2019)
-    *   Making Waves: The Art of Cinematic Sound
-    *   Mountaintop
-    *   Western Stars (2019)
+    *   Maleficent: Mistress of Evil
+    *   Zombieland: Double Tap
+    *   By the Grace of God
+    *   The Captain (2019)
+    *   Cyrano, My Love
+    *   Greener Grass (2019)
+    *   Jay &. Silent Bob Reboot
+    *   Jojo Rabbit
+    *   The Lighthouse (2019)
+    *   Serendipity (2019)
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -76,8 +76,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie News: Catwoman and the Riddler Join ‘The Batman,’ ‘Addams Family 2’ in the Works and More Read More
-    *   The Week in Movie Trailers: Robert Downey Jr. in ‘Dolittle,’ Adam Driver in ‘The Report’ and ‘Marriage Story’ and More Read More
+    *   The Week in Movie Trailers: ‘Star Wars: The Rise of Skywalker,’ Vin Diesel in ‘Bloodshot’ and More Read More
+    *   The Week in Movie News: ‘Fast &. Furious 9’ Casts Cardi B, ’’Emmet Otter’ Remake, Sally Ride Biopic and More Read More
     *   Next 3 Major Awards Contenders: 'Jojo Rabbit,' 'The Irishman,' '1917' Read More
     
     Explore Content
