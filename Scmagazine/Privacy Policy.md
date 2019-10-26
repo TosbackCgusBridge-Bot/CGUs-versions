@@ -364,23 +364,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Adobe patches 81 vulnerabilities for four products
-    *   VMware patches critical bug in Harbor Container Registry for PCF
-    *   Barr proposes expanding the collection DNA samples for immigrants, creating database
-    *   NordVPN confirms 2018 breach
-    *   2.8 million CenturyLink customer records exposed by unprotected database
-    
-    *   UC Browser potentially endangers 500 million users
-    *   SHIELD Act passes committee
-    *   Phishing scam behind Kalispell Regional Healthcare data breach
-    *   Trojanized Russian-language Tor browser lets attacks steal from users' e-wallets
+    *   Johannesburg's city e-services disrupted by ransomware strike
+    *   Oracle patches 218 security vulnerabilities
+    *   Cisco fixes critical Aironet Access Points flaw, addresses 29 more bugs
     *   Russian Turla group masqueraded as Iranian hackers in attacks
+    *   SHIELD Act passes committee
     
-    *   Google Play adware campaign taken down, developer identified
-    *   ET never called home: Edward Snowden
-    *   Elijah Cummings aviation covert testing bill, other legislation move through Congress
-    *   Star Search: McAfee names riskiest celebs to look up online
+    *   Gov. Terry McAuliffe joins Hunton Andrews Kurth
+    *   Baltimore belatedly buys cyberinsurance
+    *   Tools don’t hunt threats, people do
+    *   Phishing scam targets users of Stripe payment processing service
     *   The 8-inch floppy disk goes the way of the musket
+    
+    *   UN, NGOs targeted by ongoing phishing attack
+    *   DDoS attack sidelines AWS DNS web service for hours
+    *   Johannesburg's city e-services disrupted by ransomware strike
+    *   Report: Hotel chain modifies bed-facing robots to prevent unwanted spying
+    *   Google Play adware campaign taken down, developer identified
 
 Back to Top
 
