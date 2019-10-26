@@ -21,34 +21,34 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackFinal Hours Of COUPON CODE TOSAVE38ENDS IN00HOURS 41MINS 28SECS See Details"\*60% off $100 or more select original &. regular-priced apparel, accessories, fine &. fashion jewelry &. home any way you pay Excluded Categories: baby accessories and gifts, Juniors’ prom dresses, swimwear, shoes, handbags, window coverings, kitchen and dining, luggage, furniture, mattresses Excluded Brand: Liz Claiborne See additional exclusions below. \*40% off $40 or more select original &. regular-priced apparel, shoes, accessories, fine &. fashion jewelry &. home any way you pay \*25% off select original &. regular-priced apparel any way you pay (Haggar, Lee, Gloria Vanderbilt, intimate apparel &. women’s dresses). accessories (belts &. wallets). fine &. fashion jewelry (watches). home (Stearns &. Foster, Handy Living, Fiesta, small electrics, storage and organization, bath accessories, fitness equipment &. accessories, floor care). shoes (men's shoes, kids' shoes, Andrew Geller, Clarks, Easy Spirit). salon products \*EXTRA 25% off select SALE- &. CLEARANCE-priced apparel, shoes, accessories, fine &. fashion jewelry &. home any way you pay \*EXTRA 10% off select SALE- &. CLEARANCE- priced furniture, mattresses, small electrics &. floor care and way you pay \*OFFER DISCLAIMER &. EXCLUSIONS: Offer good at jcp.com, excluding taxes and shipping charges, 10/21/19-10/24/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Full amount of purchase must be on the JCPenney Credit Card to get the 10% off discount. Subject to credit approval. Excluded Categories: Athletic Shoes, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Branded Athletic Apparel, Electronics, Food, Home Décor, In-Home Custom Design, Licensed Team Sports Merchandise, Men’s Underwear and Socks, Select National Brand Shoes, Penney Lane, Personalized Jewelry, Pet Care, Smart Home, Smartwatches, Sporting Goods &. Outdoor Gear, Toys, Travel Accessories, Wigs &. Extensions, Workwear &. Scrubs Excluded Brands: adidas, Alfred Dunner, As Seen On TV, Carhartt, Citizen Quartz, City Streets, Columbia, Champion, Converse, Crocs, Denizen from Levi's, Disney Collection, Disney Tsum Tsum, Dockers Apparel, Dreamgirl, Fisher-Price, Fitbit, Flexus, Garmin, Goddess Lingerie, Hunter Douglas, Jezebel, Journee Collection, Keds/Grasshoppers, Levi’s, Modern Bride Design Your Dream Ring, Neato Robotics, Nike, Nursemates, Propet, Puma, Reebok, Sephora, Skechers Women's Shoes, Smoky Mountain, Spring Step, Tempur-Pedic, Tervis, Tracee Ellis Ross Additionally, original and regular-priced offers do not apply to BOGOs, 2 Or More, sale or clearance-priced items. all offers do not apply to Best Value, Daily Deals, Limited Time Specials, Purchase with Purchase items, Service Plans, Gift Cards, current orders and prior purchases, or in combination with other coupon(s). Can be combined with earned JCPenney Rewards. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code TOSAVE38 when prompted at checkout or call 1.800.322.1189 and mention the code." Full Exclusions &. Details40% OFF $40+ COATS FOR THE FAMILYwith code | select styles | reg. $40-$270
+Near YouFind a StoreBackDay 2 Of POWER PENNEY DEALSENDS IN23HOURS 41MINS 32SECS \*Offer ends 10/27/19$7St. John’s Bay tee select styles | also available in petitesreg. $17 $15Worthington or St. John’s Bay sweater select styles | also available in petitesreg. $32 $10St. John’s Bay Active 1/4 zip fleece select styles | also available in petitesreg. $27 $17Xersion leggings select styles | reg. $44 $9STAR WARS graphic tee select styles | reg. $20 $11Levi’s® tee select styles | reg. $20 Additional offers and coupons do not apply to Levi’s®. $15Xersion fleece pants select styles | reg. $32 $20Arizona Stretch denim select styles | reg. $42 $7Arizona long-sleeve graphic tee select styles | reg. $17 $5Okie Dokie Mix &. Match select styles | reg. $12 $13Arizona Stretch denim select styles | reg. $30 $13Xersion cotton fleece hoodie or pants select styles | reg. $30-$32 $5 EA.JCPenney Home 30X54" performance bath towel | reg. $16 ea. $9Liz Claiborne signature plush 30X56" solid bath towel reg. $20 $15JCPenney Home Pasadena 50X84" blackout curtain select styles | reg. $50-$60$21BLACK+DECKER 4-slice toaster oven reg. $50 GET DETAILSJCPenney is a proud supporterof American Cancer Society®UP TO 50% OFFHALLOWEEN DECORselect styles Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 24 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   WOMEN
-*   MEN
-*   KIDS
-*   BABY
-
-40% OFF $40+ MATCHING FAMILY PAJAMAS  
-with code | select styles | reg. $12-$50 25+ family pajama sets online!  
-
-*   SHOP ALL
-
-60% OFF $100+ HOME  
-with code | select styles  
-
-*   BEDDING
-*   BATH
-*   DINING
-*   HOME DECOR
-
-GET DETAILSJCPenney is a proud supporterof American Cancer Society®THE LOCAL LOOKLocally curated, universally lovedUP TO 50% OFFHALLOWEEN DECORselect styles Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 24 total items loaded in Media GalleryFollow @jcpenney Recommended for You
-
-*   $36after couponArizona Womens Galen Block Heel Zip Booties(35)
-*   $36after couponArizona Womens Yetta Block Heel Lace Up Boots(30)
-*   $48after couponArizona Womens Dino Wide Calf Riding Boots Block Heel
-*   $36after couponArizona Womens Julian Block Heel Booties(15)
-*   $36after couponArizona Womens Kansas Booties Flat Heel(21)
-*   $42after coupona.n.a Womens Alford Stacked Heel Motorcycle Boots(14)
+*   POWER PENNEY DEAL!
+    
+    $25 sale
+    
+    was $60 | 58% offArizona Womens Galen Block Heel Zip Booties(35)
+*   POWER PENNEY DEAL!
+    
+    $25 sale
+    
+    was $60 | 58% offArizona Womens Yetta Block Heel Lace Up Boots(30)
+*   $30 sale
+    
+    was $80 | 62% offArizona Womens Dino Wide Calf Riding Boots Block Heel
+*   $30 sale
+    
+    was $70 | 57% offa.n.a Womens Alford Stacked Heel Motorcycle Boots(14)
+*   POWER PENNEY DEAL!
+    
+    $25 sale
+    
+    was $60 | 58% offArizona Womens Julian Block Heel Booties(15)
+*   POWER PENNEY DEAL!
+    
+    $25 sale
+    
+    was $60 | 58% offArizona Womens Kansas Booties Flat Heel(21)
 
 Shop and Save at JCPenney
 
