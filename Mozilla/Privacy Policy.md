@@ -145,7 +145,7 @@ Check out the Benefits
         *   Developer Blog
         *   Mozilla Open Source Support (MOSS)
     
-    <img class="mzp-c-card-image" src="https://www.mozilla.org/media/img/nav/cards/developer-edition.22ebe03a399c.png" alt="">. Firefox Developer Edition
+    <img class="mzp-c-card-image" src="https://www.mozilla.org/media/img/nav/cards/developer-edition.1ca9855df008.jpg" alt="">. Firefox Developer Edition
     
     Build, test, scale and more with the only browser built just for developers.
     
