@@ -1159,7 +1159,7 @@ CUSTOMER SUPPORT
 *   Forums
 *   FAQs
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Laptops Desktops Tablets Accessories Deals Feedback Will open a new windowFeedbackLaunches comment card in new windowCreated with sketchtool.CHAT NOW
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Feedback Will open a new windowFeedbackLaunches comment card in new windowCreated with sketchtool.CHAT NOW
 
 How can we help
 
