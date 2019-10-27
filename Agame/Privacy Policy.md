@@ -52,8 +52,8 @@ View more results
     *   Fireboy and Watergirl: The Forest Temple
     *   Warbanner
     *   Total Front: Army War Game
-    *   Bubble Machine: 2 Player Game
     *   Klondike - the lost expedition
+    *   Bubble Machine: 2 Player Game
     *   Crystical: 2 Player Puzzle Game
     *   Pyramid Solitaire Duel
     *   Slither.io
@@ -184,7 +184,7 @@ View more results
     *   Back To School: Princesses Rush
     *   Secret Office Kissing
     *   Love Tester Deluxe 2
-    *   My Dolphin Show 7
+    *   Extreme Dental Emergency
 *   Top Categories
     
     *   BMX Games
