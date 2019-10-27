@@ -364,17 +364,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Johannesburg's city e-services disrupted by ransomware strike
-    *   Oracle patches 218 security vulnerabilities
-    *   Cisco fixes critical Aironet Access Points flaw, addresses 29 more bugs
-    *   Russian Turla group masqueraded as Iranian hackers in attacks
-    *   SHIELD Act passes committee
-    
     *   Gov. Terry McAuliffe joins Hunton Andrews Kurth
-    *   Baltimore belatedly buys cyberinsurance
-    *   Tools don’t hunt threats, people do
-    *   Phishing scam targets users of Stripe payment processing service
-    *   The 8-inch floppy disk goes the way of the musket
+    *   Facebook moves to protect elections by flagging content from state-run media
+    *   Tips for those of all ages interested in pursuing a career in cybersecurity
+    *   NordVPN confirms 2018 breach
+    *   Georgia Supreme Court rules that collection of vehicular data requires warrant
+    
+    *   UC Browser potentially endangers 500 million users
+    *   NordVPN confirms 2018 breach
+    *   ET never called home: Edward Snowden
+    *   Mind Your Own Business Act beefs up privacy protections, gives consumers dominion over data, punishes execs
+    *   Malicious voice apps can turn Alexa and Google Home devices into spies, say researchers
     
     *   UN, NGOs targeted by ongoing phishing attack
     *   DDoS attack sidelines AWS DNS web service for hours
@@ -412,4 +412,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
