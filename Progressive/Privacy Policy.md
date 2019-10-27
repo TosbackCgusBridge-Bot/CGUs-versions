@@ -97,8 +97,8 @@ We take these reports seriously, so we ask that you keep your findings confident
 
  Back
 
-*   
-*   Privacy &. Security
+1.  
+2.  Privacy &. Security
 
 Insurance Offerings
 
@@ -257,7 +257,7 @@ We offer insurance by phone, online and through independent agents. Prices vary 
         Insurance doesn't have to be complicated. Here you'll find easy explanations for all of your questions about coverages, pricing, and more.
         
         See All Topics
-    *   Auto insurance deductibles explained
+    *   Car insurance deductibles explained
     *   Covering your jewelry &. engagement rings
     *   The average auto insurance price
 
