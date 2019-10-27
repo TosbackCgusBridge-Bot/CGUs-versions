@@ -20,16 +20,16 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Opening This Week = Limited Release
     
-    *   Maleficent: Mistress of Evil
-    *   Zombieland: Double Tap
-    *   By the Grace of God
-    *   The Captain (2019)
-    *   Cyrano, My Love
-    *   Greener Grass (2019)
-    *   Jay &. Silent Bob Reboot
-    *   Jojo Rabbit
-    *   The Lighthouse (2019)
-    *   Serendipity (2019)
+    *   Black and Blue (2019)
+    *   Countdown (2019)
+    *   The Current War: Director's Cut
+    *   Bigil (2019)
+    *   Frankie
+    *   Housefull 4
+    *   Jesus is King (2019)
+    *   Making Waves: The Art of Cinematic Sound
+    *   Mountaintop
+    *   Western Stars (2019)
     *   See All Opening This Week
     
     Pre Sales Tickets
