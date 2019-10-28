@@ -9,34 +9,57 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
+    *   Sunday Steals Up to 80% Off
+    *   Boots, Sandals &. More Up to 60% Off
+    *   Rivka Friedman Jewelry Up to 65% Off
+    *   Free Shipping: Kitchen Essentials Blowout
+    *   Men's Shoe Steals Up to 70% Off
+    *   Free Shipping: Pillows &. Throws Up to 70% Off
+    *   Diamond Jewelry Up to 60% Off
+    *   Sports Shop: Team Hats &. Clothing Up to 60% Off
+    *   rag &. bone Up to 60% Off
+    *   rag &. bone Handbags Up to 50% Off
+    *   rag &. bone Men Up to 60% Off
+    *   rag &. bone Shoes Up to 60% Off
+    *   rag &. bone Accessories Up to 60% Off
+    *   Always Chic: Dresses Under $80
+    *   Leather Weather: Jackets, Pants &. More
+    *   FAVLUX &. More
+    *   Louise et Cie Up to 60% Off
+    *   Favorite Fall Leggings Incl. Plus
+    *   Geox Up to 60% Off
+    *   Live-In Lounge: Sleep ft. Socialite
+    *   Makeup Geek
+    *   Bearpaw Men
+    *   Eddie Bauer Bedding Blowout
+    *   Cozy Kids' Boots from Bearpaw
+    *   Alma Aromatherapy Serums, Body Oils &. More
+    *   ISO Beauty: Luxury Styling Tools
+    *   Modern Bathroom Accessories Up to 50% Off
+    *   Jessica Simpson Girls
+    *   Psycho Bunny Lounge Under $30
+    *   Best for Baby: aden + anais &. More
     *   Alo Yoga
     *   GRLFRND
     *   HOKA ONE ONE
     *   HOKA ONE ONE Men
+    
     *   Vionic Up to 60% Off
     *   Vince Camuto Coats Up to 70% Off
     *   Sugarlips &. More
     *   Fab Finds: Diamonds, Gems &. More Up to 80% Off
     *   Fresh Finds: Shoes Up to 60% Off
-    *   Fall into the Season: Sweaters Under $40
-    *   Abound Under $45
     *   Teami Blends Detox Teas &. Supplements
     *   Tea Collection
     *   Ofra Cosmetics
-    *   Liquid IV: Hydration Powder Supplements
     *   Aldo Men
-    *   On-Trend Fall Suiting ft. Paisley &. Gray
     *   Intimates &. Sleep We Love: Cosabella Incl. Plus
-    *   Boots &. Booties ft. Rock &. Candy
     *   Cozy Christmas: Plush Toys, Sleep &. More
     *   Free Shipping: Professional Garment Steamers
     *   Gifts for Your Fur Baby Under $20
-    *   Boys' Dress Shoes Up to 50% Off
     *   Elie Tahari &. T Tahari Up to 70% Off Incl. Plus
     *   Tahari Jackets &. Coats Up to 65% Off
     *   T Tahari Handbags Up to 50% Off
-    *   Diane von Furstenberg Up to 55% Off
-    
     *   Wacoal &. b.tempt'd by Wacoal Up to 55% Off
     *   Joseph A &. More Incl. Plus &. Petites
     *   Allen Edmonds
@@ -54,45 +77,60 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Bar Cart Essentials from $15
     *   Snow Ready: Outerwear ft. Gerry
     *   7 For All Mankind Up to 60% Off
-    *   True Religion Men
     *   Vintage Foundry Up to 80% Off
+    
     *   Y-3 Men's Footwear Up to 70% Off
-    *   On-Trend 14K Gold &. More from $20
-    *   Cover Roots &. Grays: TRUHAIR
+    *   Ross &. Snow Men
     *   Hair Tools We Love Starting at $15
     *   JOE'S Jeans Kids
-    *   Luxe Bath Towels ft. UGG, Lacoste &. Pendleton
-    *   SMUG Beauty Contoured 3D Blackout Sleep Masks
+    *   Fergalicious from $30
     *   Nicole Miller Girls' Shoes Up to 50% Off
-    
     *   Fall Finds: Kids' Sets Up to 60% Off
     *   New Fragrance Arrivals Up to 55% Off
     *   Urban Decay Up to 55% Off
-    *   Break a Sweat: Men's Hoodies, Pants &. More
     *   Edward Bess Up to 80% Off
-    *   Maison Forte
-    *   Reserved Footwear Up to 70% Off
     *   Poo-Pourri
     *   Cozy at Home: Blankets by Nordstrom Rack &. More
     *   Double Dare: Face Masks Starting at $10
-    *   Free Shipping: Storage for Every Room
-    *   Free Shipping: Barware, Dinnerware &. More
-    *   Free Shipping: Sensor Trash Cans
+    *   Boots &. Booties ft. Rock &. Candy
+    *   Boys' Dress Shoes Up to 50% Off
+    *   Free Shipping: Home Organization from $11
     *   Free Shipping: Duvet Sets Up to 70% Off
     *   Free Shipping: Donna Salyers' Fabulous Faux Furs
-    *   Via Mercato Italian Soaps &. More
-    *   Snow Teeth Whitening Starting at $10
     *   Free Shipping: On-Trend Decor
     *   Free Shipping: Wall Art Up to 50% Off
-    *   Ross &. Snow Men
+    *   Fall into the Season: Sweaters Under $40
+    *   Abound Under $45
+    *   Liquid IV: Hydration Powder Supplements
+    *   On-Trend Fall Suiting ft. Paisley &. Gray
+    *   Cover Roots &. Grays: TRUHAIR
     *   Free Shipping: Boho-Chic Decor Up to 75% Off
-    *   Free Shipping: Amrapur Towel Sets Up to 70% Off
+    *   Free Shipping: Barware, Dinnerware &. More
     *   Free Shipping: Lamps Up to 40% Off
-    *   Free Shipping: Home Organization from $11
-    *   Fergalicious from $30
-    *   Free Shipping: Shun Cutlery Classic Collection
+    *   SMUG Beauty Contoured 3D Blackout Sleep Masks
+    *   Free Shipping: Storage for Every Room
+    *   Free Shipping: Amrapur Towel Sets Up to 70% Off
+    *   Free Shipping: Sensor Trash Cans
 *   WomenShop Sale Events
     
+    *   Sunday Steals Up to 80% Off
+    *   Boots, Sandals &. More Up to 60% Off
+    *   Rivka Friedman Jewelry Up to 65% Off
+    *   Diamond Jewelry Up to 60% Off
+    *   rag &. bone Up to 60% Off
+    *   rag &. bone Handbags Up to 50% Off
+    *   rag &. bone Shoes Up to 60% Off
+    *   rag &. bone Accessories Up to 60% Off
+    *   Always Chic: Dresses Under $80
+    *   Leather Weather: Jackets, Pants &. More
+    *   FAVLUX &. More
+    *   Louise et Cie Up to 60% Off
+    *   Favorite Fall Leggings Incl. Plus
+    *   Geox Up to 60% Off
+    *   Live-In Lounge: Sleep ft. Socialite
+    *   Makeup Geek
+    *   Alma Aromatherapy Serums, Body Oils &. More
+    *   ISO Beauty: Luxury Styling Tools
     *   Alo Yoga
     *   GRLFRND
     *   HOKA ONE ONE
@@ -101,19 +139,14 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Sugarlips &. More
     *   Fab Finds: Diamonds, Gems &. More Up to 80% Off
     *   Fresh Finds: Shoes Up to 60% Off
-    *   Fall into the Season: Sweaters Under $40
-    *   Abound Under $45
     *   Teami Blends Detox Teas &. Supplements
+    
     *   Ofra Cosmetics
-    *   Liquid IV: Hydration Powder Supplements
     *   Intimates &. Sleep We Love: Cosabella Incl. Plus
-    *   Boots &. Booties ft. Rock &. Candy
     *   Elie Tahari &. T Tahari Up to 70% Off Incl. Plus
     *   Tahari Jackets &. Coats Up to 65% Off
     *   T Tahari Handbags Up to 50% Off
-    *   Diane von Furstenberg Up to 55% Off
     *   Wacoal &. b.tempt'd by Wacoal Up to 55% Off
-    
     *   Joseph A &. More Incl. Plus &. Petites
     *   Bailey 44 Up to 60% Off
     *   Predire Paris Luxury Skin Care Starting at $15
@@ -123,97 +156,106 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Handmade in Bali: Devata Sterling &. 18K Jewelry
     *   Gerard Cosmetics Starting at $10
     *   Pretty Sleek: Luggage Up to 75% Off
-    *   On-Trend 14K Gold &. More from $20
-    *   Cover Roots &. Grays: TRUHAIR
     *   Hair Tools We Love Starting at $15
-    *   SMUG Beauty Contoured 3D Blackout Sleep Masks
+    *   Fergalicious from $30
     *   New Fragrance Arrivals Up to 55% Off
     *   Urban Decay Up to 55% Off
     *   Edward Bess Up to 80% Off
     *   Double Dare: Face Masks Starting at $10
-    *   Via Mercato Italian Soaps &. More
-    *   Snow Teeth Whitening Starting at $10
-    *   Fergalicious from $30
+    *   Boots &. Booties ft. Rock &. Candy
+    *   Fall into the Season: Sweaters Under $40
+    *   Abound Under $45
+    *   Liquid IV: Hydration Powder Supplements
+    *   Cover Roots &. Grays: TRUHAIR
+    *   SMUG Beauty Contoured 3D Blackout Sleep Masks
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
     *   Lingerie &. Shapewear
+    *   Jewelry
     *   Handbags
+    *   Accessories
 *   MenShop Sale Events
     
+    *   Men's Shoe Steals Up to 70% Off
+    *   Sports Shop: Team Hats &. Clothing Up to 60% Off
+    *   rag &. bone Men Up to 60% Off
+    *   Bearpaw Men
+    *   Psycho Bunny Lounge Under $30
     *   HOKA ONE ONE Men
     *   Aldo Men
-    *   On-Trend Fall Suiting ft. Paisley &. Gray
+    
     *   Allen Edmonds
     *   Golf Shop ft. Jack Nicklaus
     *   Snow Ready: Outerwear ft. Gerry
-    *   True Religion Men
-    
     *   Vintage Foundry Up to 80% Off
     *   Y-3 Men's Footwear Up to 70% Off
-    *   Break a Sweat: Men's Hoodies, Pants &. More
-    *   Maison Forte
-    *   Reserved Footwear Up to 70% Off
     *   Ross &. Snow Men
+    *   On-Trend Fall Suiting ft. Paisley &. Gray
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Cozy Kids' Boots from Bearpaw
+    *   Jessica Simpson Girls
+    *   Best for Baby: aden + anais &. More
     *   Tea Collection
     *   Cozy Christmas: Plush Toys, Sleep &. More
-    *   Boys' Dress Shoes Up to 50% Off
     *   7 For All Mankind Up to 60% Off
     *   JOE'S Jeans Kids
     *   Nicole Miller Girls' Shoes Up to 50% Off
     *   Fall Finds: Kids' Sets Up to 60% Off
+    *   Boys' Dress Shoes Up to 50% Off
     
     Shop By Category
-    *   Boys' Sizes 2T-7
     *   Girls' Sizes 2T-6X
-    *   Baby Boy
+    *   Boys' Sizes 2T-7
     *   Baby Girl
     *   Girls' Sizes 7-16
+    *   Baby Boy
     *   Girls' Shoes
-    *   Boys' Shoes
     *   Boys' Sizes 8-20
+    *   Boys' Shoes
     *   Baby Gear &. Essentials
+    *   Toy Shop
 *   HomeShop Sale Events
     
+    *   Free Shipping: Kitchen Essentials Blowout
+    *   Free Shipping: Pillows &. Throws Up to 70% Off
+    *   Eddie Bauer Bedding Blowout
+    *   Modern Bathroom Accessories Up to 50% Off
     *   Free Shipping: Professional Garment Steamers
     *   Gifts for Your Fur Baby Under $20
     *   Free Shipping: Cooling Pillows &. More
     *   Free Shipping: Storage Must-Haves from $10
     *   Pretty Sleek: Luggage Up to 75% Off
     *   Bar Cart Essentials from $15
-    *   Luxe Bath Towels ft. UGG, Lacoste &. Pendleton
     *   Poo-Pourri
     *   Cozy at Home: Blankets by Nordstrom Rack &. More
-    *   Free Shipping: Storage for Every Room
-    *   Free Shipping: Barware, Dinnerware &. More
     
-    *   Free Shipping: Sensor Trash Cans
+    *   Free Shipping: Home Organization from $11
     *   Free Shipping: Duvet Sets Up to 70% Off
     *   Free Shipping: Donna Salyers' Fabulous Faux Furs
     *   Free Shipping: On-Trend Decor
     *   Free Shipping: Wall Art Up to 50% Off
     *   Free Shipping: Boho-Chic Decor Up to 75% Off
-    *   Free Shipping: Amrapur Towel Sets Up to 70% Off
+    *   Free Shipping: Barware, Dinnerware &. More
     *   Free Shipping: Lamps Up to 40% Off
-    *   Free Shipping: Home Organization from $11
-    *   Free Shipping: Shun Cutlery Classic Collection
+    *   Free Shipping: Storage for Every Room
+    *   Free Shipping: Amrapur Towel Sets Up to 70% Off
+    *   Free Shipping: Sensor Trash Cans
     
     Shop By Category
     *   Home Decor
-    *   Cleaning &. Organization
     *   Kitchen &. Tabletop
-    *   Bath
-    *   Pet Accessories
+    *   Cleaning &. Organization
     *   Bedding
+    *   Pet Accessories
+    *   Bath
     *   Luggage &. Travel
     *   Outdoor Living
     *   Holiday Decorations
@@ -221,28 +263,29 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Rugs &. Doormats
 *   BeautyShop Sale Events
     
+    *   Makeup Geek
+    *   Alma Aromatherapy Serums, Body Oils &. More
+    *   ISO Beauty: Luxury Styling Tools
     *   Teami Blends Detox Teas &. Supplements
     *   Ofra Cosmetics
-    *   Liquid IV: Hydration Powder Supplements
     *   Predire Paris Luxury Skin Care Starting at $15
     *   Gerard Cosmetics Starting at $10
-    *   Cover Roots &. Grays: TRUHAIR
     *   Hair Tools We Love Starting at $15
     
-    *   SMUG Beauty Contoured 3D Blackout Sleep Masks
     *   New Fragrance Arrivals Up to 55% Off
     *   Urban Decay Up to 55% Off
     *   Edward Bess Up to 80% Off
     *   Double Dare: Face Masks Starting at $10
-    *   Via Mercato Italian Soaps &. More
-    *   Snow Teeth Whitening Starting at $10
+    *   Liquid IV: Hydration Powder Supplements
+    *   Cover Roots &. Grays: TRUHAIR
+    *   SMUG Beauty Contoured 3D Blackout Sleep Masks
     
     Shop By Category
     *   Makeup
-    *   Fragrance
     *   Skin Care
-    *   Bath &. Body
     *   Hair Care
+    *   Fragrance
+    *   Bath &. Body
     *   Tools &. Accessories
     *   Nails
     *   Makeup Bags
