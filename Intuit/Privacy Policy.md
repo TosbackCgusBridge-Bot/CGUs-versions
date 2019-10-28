@@ -21,34 +21,32 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackDay 3 Of POWER PENNEY DEALSENDS IN23HOURS 41MINS 33SECS \*Offer ends 10/27/19$7St. John’s Bay tee select styles | also available in petitesreg. $17 $15Worthington or St. John’s Bay sweater select styles | also available in petitesreg. $32 $10St. John’s Bay Active 1/4 zip fleece select styles | also available in petitesreg. $27 $17Xersion leggings select styles | reg. $44 $9STAR WARS graphic tee select styles | reg. $20 $11Levi’s® tee select styles | reg. $20 Additional offers and coupons do not apply to Levi’s®. $15Xersion fleece pants select styles | reg. $32 $20Arizona Stretch denim select styles | reg. $42 $7Arizona long-sleeve graphic tee select styles | reg. $17 $5Okie Dokie Mix &. Match select styles | reg. $12 $13Arizona Stretch denim select styles | reg. $30 $13Xersion cotton fleece hoodie or pants select styles | reg. $30-$32 $5 EA.JCPenney Home 30X54" performance bath towel | reg. $16 ea. $9Liz Claiborne signature plush 30X56" solid bath towel reg. $20 $15JCPenney Home Pasadena 50X84" blackout curtain select styles | reg. $50-$60$21BLACK+DECKER 4-slice toaster oven reg. $50 GET DETAILSJCPenney is a proud supporterof American Cancer Society®UP TO 50% OFFHALLOWEEN DECORselect styles Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 24 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+Near YouFind a StoreBackFINAL HOURS! POWER PENNEY DEALSENDS IN00HOURS 41MINS 27SECS $7St. John’s Bay tee select styles | also available in petitesreg. $17 $15Worthington or St. John’s Bay sweater select styles | also available in petitesreg. $32 $10St. John’s Bay Active 1/4 zip fleece select styles | also available in petitesreg. $27 $17Xersion leggings select styles | reg. $44 $9STAR WARS graphic tee select styles | reg. $20 $11Levi’s® tee select styles | reg. $20 Additional offers and coupons do not apply to Levi’s®. $15Xersion fleece pants select styles | reg. $32 $20Arizona Stretch denim select styles | reg. $42 $7Arizona long-sleeve graphic tee select styles | reg. $17 $5Okie Dokie Mix &. Match select styles | reg. $12 $13Arizona Stretch denim select styles | reg. $30 $13Xersion cotton fleece hoodie or pants select styles | reg. $30-$32 $5 EA.JCPenney Home 30X54" performance bath towel | reg. $16 ea. $9Liz Claiborne signature plush 30X56" solid bath towel reg. $20 $15JCPenney Home Pasadena 50X84" blackout curtain select styles | reg. $50-$60$21BLACK+DECKER 4-slice toaster oven reg. $50 GET DETAILSJCPenney is a proud supporterof American Cancer Society®UP TO 50% OFFHALLOWEEN DECORselect styles Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 24 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
 *   POWER PENNEY DEAL!
     
     $25 sale
     
-    was $60 | 58% offArizona Womens Galen Block Heel Zip Booties(35)
+    was $60 | 58% offArizona Womens Galen Block Heel Zip Booties(36)
 *   POWER PENNEY DEAL!
     
     $25 sale
     
-    was $60 | 58% offArizona Womens Yetta Block Heel Lace Up Boots(30)
+    was $60 | 58% offArizona Womens Yetta Block Heel Lace Up Boots(32)
 *   $30 sale
     
     was $80 | 62% offArizona Womens Dino Wide Calf Riding Boots Block Heel
 *   $30 sale
     
     was $70 | 57% offa.n.a Womens Alford Stacked Heel Motorcycle Boots(16)
+*   $1779 - $4159 clearance
+    
+    was $59.50 | 30 - 70% offLevi's® Pull on Pant(16)
 *   POWER PENNEY DEAL!
     
-    $25 sale
+    $2 - $24 sale
     
-    was $60 | 58% offArizona Womens Julian Block Heel Booties(16)
-*   POWER PENNEY DEAL!
-    
-    $15 sale
-    
-    was $32 | 53% offSt. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(14)
+    was $10 - $76 | 68 - 80% offJCPenney Home Performance Bath Towel Collection(232)
 
 Shop and Save at JCPenney
 
