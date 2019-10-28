@@ -60,7 +60,7 @@ SUBSCRIBE NOW$5 for 3 months. Save 83%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowMan dragging 2 police officers with SUV killedCrimeJudge lifts Duranguito demolition banNewsHere's how mass shootings have changed TexasNewsHorizon High School teacher arrested in DWIEducation2 hurt in shooting in Socorro, Texas. 3 detainedCrimeClaudia Ordaz Perez joins Texas House racePoliticsMy plan to reduce mass violence: Sen. John CornynOpinionAmericas High School grad killed in motorcycle crashNews$50M-plus mixed-use center set for Cielo Vista areaBusinessMeet Patricia Vonne, Robert Rodriguez's sisterEntertainmentHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowMass grave: At least 42 bodies found in MexicoNewsClint trustee's wife banned from district propertyEducationOne killed in moped, car accidentTrafficChild critically injured in rollover accidentTrafficLouisiana Tech drubs mistake-prone UTEPCollegeWarrant seeks council special election candidateNewsEl Paso athletes shine in collegeSportsCity Council to vote again on Great Wolf incentivesLocalHave you seen El Paso's most wanted fugitives?CrimeUnion Pacific train derailment causes backupsTrafficHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
