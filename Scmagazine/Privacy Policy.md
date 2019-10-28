@@ -364,17 +364,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Gov. Terry McAuliffe joins Hunton Andrews Kurth
-    *   Facebook moves to protect elections by flagging content from state-run media
-    *   Tips for those of all ages interested in pursuing a career in cybersecurity
-    *   NordVPN confirms 2018 breach
+    *   Skip-2.0 backdoor malware provides 'magic password' to access MSSQL accounts
+    *   Graboid cryptomining worm leverages Docker Engine containers to spread
     *   Georgia Supreme Court rules that collection of vehicular data requires warrant
+    *   Evolve security automation like the human brain: Part 2
+    *   DDoS attack sidelines AWS DNS web service for hours
     
-    *   UC Browser potentially endangers 500 million users
     *   NordVPN confirms 2018 breach
-    *   ET never called home: Edward Snowden
-    *   Mind Your Own Business Act beefs up privacy protections, gives consumers dominion over data, punishes execs
-    *   Malicious voice apps can turn Alexa and Google Home devices into spies, say researchers
+    *   Billtrust still recovering from ransomware attack
+    *   Court doc: Equifax allegedly used insecure password 'admin' to protect portal
+    *   Major software vendor compromised with previously undocumented PortReuse backdoor
+    *   New MedusaLocker ransomware looks to make a monster profit
     
     *   UN, NGOs targeted by ongoing phishing attack
     *   DDoS attack sidelines AWS DNS web service for hours
