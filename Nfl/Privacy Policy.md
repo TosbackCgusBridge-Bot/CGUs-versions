@@ -1,5 +1,4 @@
-*   GB•7KC01st ? 08:43
-*   MIA0-6PIT2-4Mon, 8:15 pm ET
+*   MIA0-714PIT3-427Final
 *   DEN2-613IND5-215Final
 *   TB2-523TEN4-427Final
 *   ARI3-4-19NO7-131Final
@@ -12,6 +11,7 @@
 *   CAR4-313SF7-051Final
 *   CLE2-513NE8-027Final
 *   OAK3-424HOU5-327Final
+*   GB7-131KC5-324Final
 *   WAS1-79MIN6-219Final
 
 *   News
@@ -36,8 +36,7 @@
 *   NFL Films
 *   Game Pass
 
-*   GB•7KC01st ? 08:43
-*   MIA0-6PIT2-4Mon, 8:15 pm ET
+*   MIA14PIT27Final
 *   DEN13IND15Final
 *   TB23TEN27Final
 *   ARI9NO31Final
@@ -50,6 +49,7 @@
 *   CAR13SF51Final
 *   CLE13NE27Final
 *   OAK24HOU27Final
+*   GB31KC24Final
 *   WAS9MIN19Final
 
 *   News
