@@ -5,31 +5,27 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
-    *   Maleficent: Mistress of Evil
     *   Joker (2019)
-    *   Zombieland: Double Tap
+    *   Maleficent: Mistress of Evil
     *   The Addams Family (2019)
-    *   Abominable (2019)
+    *   Zombieland: Double Tap
+    *   Countdown (2019)
+    *   Black and Blue (2019)
     *   Gemini Man
+    *   The Lighthouse (2019)
+    *   The Current War: Director's Cut
+    *   Abominable (2019)
     *   Downton Abbey (2019)
-    *   Judy (2019)
-    *   Hustlers
-    *   It Chapter Two (2019)
-    *   Parasite (2019)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Black and Blue (2019)
-    *   Countdown (2019)
-    *   The Current War: Director's Cut
-    *   Bigil (2019)
-    *   Frankie
-    *   Housefull 4
-    *   Jesus is King (2019)
-    *   Making Waves: The Art of Cinematic Sound
-    *   Mountaintop
-    *   Western Stars (2019)
+    *   Arctic Dogs
+    *   Harriet (2019)
+    *   Motherless Brooklyn
+    *   Terminator: Dark Fate
+    *   Inside Game
+    *   The Portal
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -38,17 +34,17 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Coming Soon
     
-    *   Fandango Early Access: Doctor Sleep
-    *   Arctic Dogs
-    *   Harriet (2019)
-    *   Motherless Brooklyn
-    *   Terminator: Dark Fate
     *   Doctor Sleep
     *   Last Christmas (2019)
     *   Midway (2019)
     *   Playing with Fire (2019)
     *   Charlie's Angels (2019)
     *   Ford v Ferrari
+    *   The Good Liar
+    *   A Beautiful Day in the Neighborhood
+    *   Frozen II
+    *   21 Bridges
+    *   Knives Out
     *   See All Coming Soon
     
     Explore More
@@ -339,6 +335,7 @@ Experience + Explore
 
 Editorial Features
 
+*   Star Wars Guide
 *   Indie Movie Guide
 *   Family Guide
 *   House Of Screams
@@ -363,7 +360,7 @@ Follow Us
 *   Fandango on Instagram
 *   Fandango on Youtube
 
-Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help My Fandango Live Chat
+Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help Feedback My Fandango Live Chat
 
 *   About Fandango
 *   Careers
