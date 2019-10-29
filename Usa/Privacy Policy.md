@@ -223,7 +223,7 @@ Product details
 
 $2,590.00/year
 
-Subscribe FEEDBACK FOLLOW AUTODESK
+Subscribe Feedback FOLLOW AUTODESK
 
 *   Facebook
 *   Instagram
