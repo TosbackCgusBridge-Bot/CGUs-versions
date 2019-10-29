@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Graeme Wood_: Baghdadi’s Death Punctuates the End of an Era
+*   _Mollie Hemingway_: Why Legacy Media Is Freaking Out Over Victory vs. ISIS
     
-*   _Grady Means_: Trump's Effective and Unimpeachable Foreign Policy
+*   _Thomas Friedman_: Al-Baghdadi Is Dead. The Story Doesn't End Here.
     
-*   _William Saletan_: Trump's Shameful Argument for Betraying the Kurds
+*   _Riechmann &. Madhani_: The Tip, the Raid, the Reveal: The al-Baghdadi Takedown
     
-*   _Rich Lowry_: It's Fantasy to Think Republicans Will Abandon Trump Now
+*   _Tom Rogan_: 'Like a Dog'--The Strategic Utility of Mocking al-Baghdadi
     
-*   _Elie Mystal_: Yes, GOP Senators Can Be Convinced to Turn on Trump
+*   _Ian Millhiser_: How to Run Successful Impeachment Hearings Against Trump
     
-*   _Caroline Glick_: The Radicalization of the Democratic Party
+*   _Francis Menton_: The Bidens: Stone Cold Crooked, Part 3
     
-*   _Elijah Cummings_: We Are in a Fight for the Soul of Our Democracy
+*   _Nate Silver_: Do You Buy That...Dem Voters Want a New 2020 Candidate?
     
-*   _Sally Pipes_: Warren Misleads Americans on Costs of 'Medicare-for-All'
+*   _Juan Williams_: Heed Clinton's Warning on Tulsi Gabbard
     
-*   _David Corn_: Are Our Brains Wired to Reject Medicare for All?
+*   _Robby Soave_: Seattle Schools Will Start Teaching That Math Is Oppressive
     
-*   _Michael Barone_: How Partisan Polarized Parity Came Into Being
+*   _John Tamny_: The Unfair Maligning of Ken Fisher
     
-*   _Rich Karlgaard_: The Case for Late Bloomers
+*   _Karina Bland_: Parents of Kayla Mueller Grateful for Death of ISIS Leader
     
-*   _Jelani Cobb_: A Clarifying Week in the Impeachment Inquiry
+*   _John Walcott_: How U.S. Forces Finally Tracked Down and Killed al-Baghdadi
     
-*   _Newt Gingrich_: The Impeachment Inquiry Is Falling Apart
+*   _Josh Dawsey_: 'Whimpering, Screaming &. Crying': Trump's Vivid Account of Raid
     
-*   _Michael Conway_: Republicans' Absurd Complaints About Schiff's Inquiry
+*   _Jim Hanson_: The Caliph Is Dead--Now, Here's How U.S. Can Exit Syria
     
-*   _Roger Kimball_: Yes, James Clapper, You Should Be Concerned
+*   _David Sanger_: Al-Baghdadi Raid Was a Win Built on Factors Trump Derides
     
-*   _Paul Krugman_: The Day the Trump Boom Died
+*   _Victor Davis Hanson_: The Bankrupt, Delusional American Establishment
     
-*   _Stephen Moore_: Biden &. Obama Hog Credit for Trump's Surging Economy
+*   _Elizabeth Drew_: You Don't Have to Break a Law to Be Impeached
     
-*   _Robert Reich_: Why Wall Street Fears Warren and Sanders
+*   _Michael Goodwin_: Why Are Dems Acting Like They Have Something to Hide?
     
-*   _Andrew Sullivan_: Is There a Democrat Who Can Beat Trump?
+*   _Sam Stein_: How Warren Went From Wonky Blogger to Frontrunner
     
-*   _Kevin Williamson_: Gabbard Dust-Up Shows Dems Need to Dump Clintons
+*   _Olivia Nuzzi_: Joe Biden's Zombie Campaign
     
-*   _Francis Wilkinson_: Democrats Face Their Fears in Wisconsin
+*   _Niall Stanage_: What the Leading 2020 Dem Candidates Need to Do Now
     
-*   _Alex Massie_: The Pestilence of Brexit and the Failure of the Political Class
+*   _Frank Miele_: Sorry, Dems--Even If Trump's Impeached, He Still Wins
     
-*   _Sam Knight_: How Brexit Will End
+*   _Maureen Dowd_: Extra, Extra! Prez Won't Read All About It
     
-*   _Mike Giglio_: The Deadly End of American Policy in Syria
+*   _Tristan Justice_: Washington Post Writes Glowing Obituary for ISIS Leader
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   The Tip, the Raid, the Reveal: The Takedown of al-Baghdadi
+*   Growing Uncertainty Looms Over Dems' 2020 Primary
+*   Trump: al-Baghdadi Died "Like a Dog, Whimpering, Crying, Screaming"
+*   California Rep. Katie Hill Resigns Amid Ethics Investigation
 *   "Amtrak Joe" Biden Spent Big on Private Planes, Helicopters
-*   Pence Takes Swipe at NBA, Nike in Critical Speech on China
-*   Hoyer: When Republicans Talk About Secret Hearings "I Laugh"
-*   Trump's "Mission Accomplished" Moment in Syria: Will It Stick?
-*   Pronoun Primary: 2020 Dems Are Talking Gender Identity
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,6 +252,12 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve45
+    *   Disapprove54Disapprove +9
+*   Direction of CountryRasmussen Reports
+    *   Right Direction35
+    *   Wrong Track59Wrong Track +24
 *   South Carolina Democratic Presidential PrimaryPost and Courier
     *   Biden30
     *   Warren19
@@ -265,9 +271,6 @@ Latest PollsAll Polls
     *   Gabbard3
     *   O'Rourke1
     *   Bennet1Biden +11
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve43
-    *   Disapprove56Disapprove +13
 *   2020 Democratic Presidential NominationQuinnipiac
     *   Biden21
     *   Warren28
@@ -282,28 +285,14 @@ Latest PollsAll Polls
     *   Steyer1
     *   Castro1
     *   Bennet0Warren +7
-*   Iowa Democratic Presidential CaucusIowa State University
-    *   Warren28
-    *   Biden12
-    *   Buttigieg20
-    *   Sanders18
-    *   Klobuchar4
-    *   Steyer3
-    *   Harris3
-    *   Gabbard2
-    *   Yang2
-    *   Booker1
-    *   Bullock0
-    *   O'Rourke1
-    *   Bennet1Warren +8
 
 More Latest Polls In The News
 
-*   Bannon Warns Republicans To "Wake Up," Pelosi's Impeachment Strategy Is "Winning Right Now"
+*   Barr: Durham Progress Due To Outstanding Support From FBI &. Wray, "Let The Chips Fall Where They May"
+*   CNN Reporter: Trump Speech On ISIS Leader Death "Echoed The Crudeness" You Would Expect From ISIS
+*   Conway on Washington Post: If al-Baghdadi Worked In Trump WH His Obituary Wouldn't Be As Kind
 *   Chris Wallace Grills Mike Pence: Why Not Inform Pelosi About al-Baghdadi Raid? Does Trump Not Trust Her?
-*   Adam Schiff: It "Sickens Me" That Trump Is Willing To Send U.S. Troops To Defend The Oil But Not The Kurds
-*   Lindsey Graham Praises Trump For Death Of ISIS Leader: "A Game-Changer In The War On Terror"
-*   Brooks: Taylor's Testimony Was "The Smoking Gun". Look Out For "Emotional Crumbling" Of GOP Senators
+*   Bannon Warns Republicans To "Wake Up," Pelosi's Impeachment Strategy Is "Winning Right Now"
 
 *   Politics
 *   Policy
