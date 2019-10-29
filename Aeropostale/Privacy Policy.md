@@ -290,34 +290,6 @@ Menu Find a Store Aeropostale
         *   Lounge
         *   Uniform
     
-    *   View Home
-    *   Tops
-    *   Bottoms
-    *   $6 &. Under Shop
-    *   Jackets + Coats
-    *   Dresses + Rompers
-    *   Matching Sets
-    *   Accessories
-    *   Hats + Scarves
-    *   Shoes
-    *   Fragrance
-    *   Bras + Undies
-    *   Extended Sizes
-    *   Clearance
-    
-    *   Collections
-        *   View All
-        *   New Arrivals
-        *   Jeans Guide
-        *   $6 &. Under Shop
-        *   Online Only
-        *   Tribe Of Tees
-        *   Basic Essentials
-        *   Seriously Soft
-        *   Active
-        *   Lounge
-        *   Uniform
-    
 *   Guys
     
     *   View Home
@@ -340,27 +312,6 @@ Menu Find a Store Aeropostale
     
     *   Jackets + Coats
     *   Hats + Gloves
-    *   Accessories
-    *   Underwear
-    *   Cologne
-    *   Extended Sizes
-    *   Clearance
-    
-    *   Collections
-        *   View All
-        *   New Arrivals
-        *   Jeans Guide
-        *   Online Only
-        *   Back to Basics
-        *   Music + Pop Culture
-        *   Active
-        *   Lounge
-        *   Uniform
-    
-    *   View Home
-    *   Tops
-    *   Bottoms
-    *   Jackets + Coats
     *   Accessories
     *   Underwear
     *   Cologne
