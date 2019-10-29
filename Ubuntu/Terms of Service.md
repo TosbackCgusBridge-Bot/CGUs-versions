@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   PSA for ROS users: Some things to know as Python 2 approaches EOL
+*   The masters speak: Forward-thinking Ubuntu users gather to share their experiences
+*   Standardising software to quickly deliver a smart city platform for millions
+*   Learn about our differentiated approach to IoT digital transformation at IoTSWC.
 *   Ubuntu at Open Infrastructure Summit Shanghai
-*   Canonical at ROSCon Macau 2019
-*   Bauh is a nifty snap manager
-*   FinTechs discuss security, regulation and innovation at New York City roundtable
-*   How to deploy StorageOS on Charmed Kubernetes
 
 *    ›
