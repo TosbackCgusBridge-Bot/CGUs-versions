@@ -28,9 +28,11 @@ Skip to main content
         *   All Articles
     *   Our Approach
 
-Well, this is awkward… Due to the fires and power outages in California, oreilly.com is unavailable.
+Our Apologies Due to the fires and power outages in California, oreilly.com is unavailable.
 
 If you are looking for O’Reilly online learning, **visit learning.oreilly.com**.
+
+The TensorFlow World event is happening this week in Santa Clara, as planned.
 
 Sorry for the inconvenience. For additional help, please contact our customer service team at 1-800-889-8969, (707) 827-7019, or support@oreilly.com
 
