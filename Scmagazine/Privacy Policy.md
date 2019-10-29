@@ -364,17 +364,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
+    *   Baltimore belatedly buys cyberinsurance
+    *   San Bernadino City schools hit with ransomware
     *   Skip-2.0 backdoor malware provides 'magic password' to access MSSQL accounts
-    *   Graboid cryptomining worm leverages Docker Engine containers to spread
-    *   Georgia Supreme Court rules that collection of vehicular data requires warrant
-    *   Evolve security automation like the human brain: Part 2
-    *   DDoS attack sidelines AWS DNS web service for hours
+    *   CBP mulls facial recognition tech for body cams
+    *   Tips for those of all ages interested in pursuing a career in cybersecurity
     
-    *   NordVPN confirms 2018 breach
-    *   Billtrust still recovering from ransomware attack
-    *   Court doc: Equifax allegedly used insecure password 'admin' to protect portal
-    *   Major software vendor compromised with previously undocumented PortReuse backdoor
-    *   New MedusaLocker ransomware looks to make a monster profit
+    *   Report: Hotel chain modifies bed-facing robots to prevent unwanted spying
+    *   VMware patches critical bug in Harbor Container Registry for PCF
+    *   Facebook moves to protect elections by flagging content from state-run media
+    *   2.8 million CenturyLink customer records exposed by unprotected database
+    *   DDoS attack sidelines AWS DNS web service for hours
     
     *   UN, NGOs targeted by ongoing phishing attack
     *   DDoS attack sidelines AWS DNS web service for hours
@@ -412,4 +412,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
