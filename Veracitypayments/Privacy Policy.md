@@ -29,7 +29,7 @@ SearchUse up and down arrows to select available result. Press enter to go to se
 *   SIGN UP
 *   LOGIN
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1833255713665121&amp;ev=PageView&amp;noscript=1">. VANCO PAYMENT SOLUTIONS – PRIVACY POLICY
+VANCO PAYMENT SOLUTIONS – PRIVACY POLICY
 
 Last updated: April 5, 2019
 
@@ -226,4 +226,4 @@ CALL US
 **Sales:** (855) 712-8745
 
 Copyright © 2019 Vanco. All rights reserved.  
-Vanco is a registered ISO of Wells Fargo Bank, N.A., Concord, CA Privacy Policy | Terms and Conditions PCI Certified <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCFS6FD" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+Vanco is a registered ISO of Wells Fargo Bank, N.A., Concord, CA Privacy Policy | Terms and Conditions PCI Certified <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCFS6FD" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1833255713665121&amp;ev=PageView&amp;noscript=1">.
