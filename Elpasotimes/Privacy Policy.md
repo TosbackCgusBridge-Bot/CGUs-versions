@@ -1,4 +1,4 @@
-SUBSCRIBE NOW$5 for 3 months. Save 83%.
+SUBSCRIBE NOW99¢ per month for 6 months. Save 90%.
 
 *   Home
 *   News
@@ -60,7 +60,7 @@ SUBSCRIBE NOW$5 for 3 months. Save 83%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowMass grave: At least 42 bodies found in MexicoNewsClint trustee's wife banned from district propertyEducationOne killed in moped, car accidentTrafficChild critically injured in rollover accidentTrafficLouisiana Tech drubs mistake-prone UTEPCollegeWarrant seeks council special election candidateNewsEl Paso athletes shine in collegeSportsCity Council to vote again on Great Wolf incentivesLocalHave you seen El Paso's most wanted fugitives?CrimeUnion Pacific train derailment causes backupsTrafficHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowWalmart reveals memorial concept for shooting victimsNewsMass shooting victim's family sues suspect, 8chanNewsMotorcyclist killed when hit from behind at stoplightTrafficEl Paso City Council approves Great Wolf dealNewsOne killed in moped, car accidentTrafficSelena to be celebrated with Symphony concertEntertainmentCity Council postpones condemnation of Sam MorganNewsWill Veliz clears arrest warrant for traffic ticketNewsMass grave: At least 42 bodies found in MexicoNewsCity Council to vote again on Great Wolf incentivesLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
