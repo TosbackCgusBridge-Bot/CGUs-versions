@@ -25,6 +25,7 @@
     *   Prepaying your mortgage
     *   Your guide to FHA loans
     *   Everything to know about VA loans
+    *   Understand how mortgage rates can change
 *   Homes Home Buying
     
     *   Determine your budget
