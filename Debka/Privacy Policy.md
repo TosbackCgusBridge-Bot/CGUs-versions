@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Tuesday, October 29, 2019  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Wednesday, October 30, 2019  
 
 DEBKAfile
 
@@ -46,78 +46,78 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
-*   Europe gives UK Brexit new delay until Jan. 31
+*   Jordan recalls envoy in Tel Aviv for consultations to protest detention of 2 citizens
     
-    Oct 28, 2019 @ 21:18
+    Oct 29, 2019 @ 23:15
     
-*   Netanyahu: Iran is developing missiles with 5-10m accuracy
+*   UK parliament approves Dec. 12 general election
     
-    Oct 28, 2019 @ 20:46
+    Oct 29, 2019 @ 22:34
     
-*   Mnuchin: We can ramp up the sanctions on Iran
+*   Israeli aircraft shoot down terrorist drone over Gaza
     
-    Oct 28, 2019 @ 18:03
+    Oct 29, 2019 @ 22:07
     
-*   Night curfew in Baghdad to stem protests
+*   UK parliament gets set for general election
     
-    Oct 28, 2019 @ 16:26
+    Oct 29, 2019 @ 18:03
     
-*   Stabbing attack at Herod’s Gate in Jerusalem
+*   Lebanese PM Saad Hariri quits, deepening national crisis
     
-    Oct 28, 2019 @ 16:15
+    Oct 29, 2019 @ 17:52
     
 
-*   Netanyahu: Iran is developing missiles with 5-10m accuracy
+*   UK parliament approves Dec. 12 general election
     
-    Oct 28, 2019 @ 20:46
+    Oct 29, 2019 @ 22:34
     
-*   Mnuchin: We can ramp up the sanctions on Iran
+*   Israeli aircraft shoot down terrorist drone over Gaza
     
-    Oct 28, 2019 @ 18:03
+    Oct 29, 2019 @ 22:07
     
-*   Night curfew in Baghdad to stem protests
+*   UK parliament gets set for general election
     
-    Oct 28, 2019 @ 16:26
+    Oct 29, 2019 @ 18:03
     
-*   Stabbing attack at Herod’s Gate in Jerusalem
+*   Lebanese PM Saad Hariri quits, deepening national crisis
     
-    Oct 28, 2019 @ 16:15
+    Oct 29, 2019 @ 17:52
     
-*   Europe gives UK Brexit new delay until Jan. 31
+*   Jordan recalls envoy in Tel Aviv for consultations to protest detention of 2 citizens
     
-    Oct 28, 2019 @ 21:18
+    Oct 29, 2019 @ 23:15
     
-*   Netanyahu: Iran is developing missiles with 5-10m accuracy
+*   UK parliament approves Dec. 12 general election
     
-    Oct 28, 2019 @ 20:46
+    Oct 29, 2019 @ 22:34
     
-*   Mnuchin: We can ramp up the sanctions on Iran
+*   Israeli aircraft shoot down terrorist drone over Gaza
     
-    Oct 28, 2019 @ 18:03
+    Oct 29, 2019 @ 22:07
     
-*   Night curfew in Baghdad to stem protests
+*   UK parliament gets set for general election
     
-    Oct 28, 2019 @ 16:26
+    Oct 29, 2019 @ 18:03
     
-*   Stabbing attack at Herod’s Gate in Jerusalem
+*   Lebanese PM Saad Hariri quits, deepening national crisis
     
-    Oct 28, 2019 @ 16:15
+    Oct 29, 2019 @ 17:52
     
-*   Europe gives UK Brexit new delay until Jan. 31
+*   Jordan recalls envoy in Tel Aviv for consultations to protest detention of 2 citizens
     
-    Oct 28, 2019 @ 21:18
+    Oct 29, 2019 @ 23:15
     
-*   Netanyahu: Iran is developing missiles with 5-10m accuracy
+*   UK parliament approves Dec. 12 general election
     
-    Oct 28, 2019 @ 20:46
+    Oct 29, 2019 @ 22:34
     
-*   Mnuchin: We can ramp up the sanctions on Iran
+*   Israeli aircraft shoot down terrorist drone over Gaza
     
-    Oct 28, 2019 @ 18:03
+    Oct 29, 2019 @ 22:07
     
-*   Night curfew in Baghdad to stem protests
+*   UK parliament gets set for general election
     
-    Oct 28, 2019 @ 16:26
+    Oct 29, 2019 @ 18:03
     
 
 12PrevNext
