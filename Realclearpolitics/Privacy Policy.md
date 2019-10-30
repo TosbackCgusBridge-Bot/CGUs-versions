@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Mollie Hemingway_: Why Legacy Media Is Freaking Out Over Victory vs. ISIS
+*   _Robert Fisk_: Trump Killed Baghdadi, But He's Brought ISIS Back to Life
     
-*   _Thomas Friedman_: Al-Baghdadi Is Dead. The Story Doesn't End Here.
+*   _Jonathan Tobin_: The Pathetic Push to Deny Trump Credit for Getting Baghdadi
     
-*   _Riechmann &. Madhani_: The Tip, the Raid, the Reveal: The al-Baghdadi Takedown
+*   _Katrina vanden Heuvel_: The Democratic Establishment Is Right to Panic
     
-*   _Tom Rogan_: 'Like a Dog'--The Strategic Utility of Mocking al-Baghdadi
+*   _Roger Kimball_: Schumer Wants to Repeal Private Health Insurance
     
-*   _Ian Millhiser_: How to Run Successful Impeachment Hearings Against Trump
+*   _Nancy Jacobson_: Americans Want Politicians to Fix Problems, Not Fight
     
-*   _Francis Menton_: The Bidens: Stone Cold Crooked, Part 3
+*   _Stephen Collinson_: Pelosi Gives GOP What They Want - &. Trump May Regret It
     
-*   _Nate Silver_: Do You Buy That...Dem Voters Want a New 2020 Candidate?
+*   _Julie Kelly_: Obama Hunted Trump Campaign Aides Instead of Terrorists
     
-*   _Juan Williams_: Heed Clinton's Warning on Tulsi Gabbard
+*   _Dylan Scott_: The Big Difference in 2020 Health Plans Isn't Among Democrats
     
-*   _Robby Soave_: Seattle Schools Will Start Teaching That Math Is Oppressive
+*   _John Blanton_: Why It's Smart for the GOP to Act on Prescription Drug Prices
     
-*   _John Tamny_: The Unfair Maligning of Ken Fisher
+*   _Nathan Robinson_: Katie Hill's Resignation Is a Travesty
     
-*   _Karina Bland_: Parents of Kayla Mueller Grateful for Death of ISIS Leader
+*   _Susan Crabtree_: Hill's Exit Renews #MeToo Anxiety in Washington
     
-*   _John Walcott_: How U.S. Forces Finally Tracked Down and Killed al-Baghdadi
+*   _Salena Zito_: Will the Democrats Miss Middle America Again?
     
-*   _Josh Dawsey_: 'Whimpering, Screaming &. Crying': Trump's Vivid Account of Raid
+*   _Jake Maher_: How Democrats Can Win Back the Swing States
     
-*   _Jim Hanson_: The Caliph Is Dead--Now, Here's How U.S. Can Exit Syria
+*   _E. Donald Elliott_: James Comey's Revenge Is Changing Our Constitution
     
-*   _David Sanger_: Al-Baghdadi Raid Was a Win Built on Factors Trump Derides
+*   _Aaron Mate_: Why Investigating the Investigators Is Important
     
-*   _Victor Davis Hanson_: The Bankrupt, Delusional American Establishment
+*   _Russell Berman_: Nancy Pelosi's Big Move
     
-*   _Elizabeth Drew_: You Don't Have to Break a Law to Be Impeached
+*   _Betsy McCaughey_: Calling Pelosi and Schiff's Bluff
     
-*   _Michael Goodwin_: Why Are Dems Acting Like They Have Something to Hide?
+*   _Frida Ghitis_: Trump Using Baghdadi's Death to Distract From His Failures
     
-*   _Sam Stein_: How Warren Went From Wonky Blogger to Frontrunner
+*   _Greg Gutfeld_: Baghdadi Died - And So Did the Media's Credibility
     
-*   _Olivia Nuzzi_: Joe Biden's Zombie Campaign
+*   _Eric Levitz_: Chanting 'Lock Him Up' at Trump Is Good for Democracy
     
-*   _Niall Stanage_: What the Leading 2020 Dem Candidates Need to Do Now
+*   _Brian Joondeph_: Yes, the Walls Are Closing In — But Not on Trump
     
-*   _Frank Miele_: Sorry, Dems--Even If Trump's Impeached, He Still Wins
+*   _Froma Harrop_: Is Klobuchar the Heartland Moderate Democrats Need?
     
-*   _Maureen Dowd_: Extra, Extra! Prez Won't Read All About It
+*   _John Feehery_: What Republicans Can Do to Win Back the Suburbs
     
-*   _Tristan Justice_: Washington Post Writes Glowing Obituary for ISIS Leader
+*   _Susan Crabtree_: Obama Stimulus Shadows Tillis-Tucker Senate Race in N.C.
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Obama Stimulus Shadows Tillis-Tucker Senate Race in N.C.
 *   The Tip, the Raid, the Reveal: The Takedown of al-Baghdadi
+*   Barr: Durham's Progress Due to Outstanding Support From FBI &. Wray
 *   Growing Uncertainty Looms Over Dems' 2020 Primary
-*   Trump: al-Baghdadi Died "Like a Dog, Whimpering, Crying, Screaming"
-*   California Rep. Katie Hill Resigns Amid Ethics Investigation
-*   "Amtrak Joe" Biden Spent Big on Private Planes, Helicopters
+*   2019 Campus Speech Survey: The Best/Worst Schools
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,46 +252,54 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve45
-    *   Disapprove54Disapprove +9
-*   Direction of CountryRasmussen Reports
-    *   Right Direction35
-    *   Wrong Track59Wrong Track +24
-*   South Carolina Democratic Presidential PrimaryPost and Courier
-    *   Biden30
-    *   Warren19
-    *   Sanders13
-    *   Harris11
-    *   Steyer5
-    *   Buttigieg9
-    *   Booker3
-    *   Yang4
-    *   Klobuchar3
-    *   Gabbard3
-    *   O'Rourke1
-    *   Bennet1Biden +11
-*   2020 Democratic Presidential NominationQuinnipiac
-    *   Biden21
-    *   Warren28
-    *   Sanders15
+*   New Hampshire Democratic Presidential PrimaryCNN/UNH
+    *   Warren18
+    *   Biden15
+    *   Sanders21
     *   Buttigieg10
-    *   Harris5
-    *   Yang1
-    *   O'Rourke1
-    *   Klobuchar3
-    *   Booker1
-    *   Gabbard1
+    *   Harris3
+    *   Yang5
+    *   Klobuchar5
+    *   Gabbard5
+    *   Steyer3
+    *   Booker2
+    *   O'Rourke2
+    *   Sestak1Sanders +3
+*   Arizona Democratic PrimaryEmerson
+    *   Biden28
+    *   Warren21
+    *   Sanders21
+    *   Buttigieg12
+    *   Yang5
+    *   Harris4
+    *   Klobuchar2
+    *   Gabbard2
+    *   O'Rourke2
+    *   Sestak1Biden +7
+*   2020 Democratic Presidential NominationPolitico/Morning Consult
+    *   Biden32
+    *   Warren20
+    *   Sanders20
+    *   Buttigieg7
+    *   Harris6
+    *   Yang3
+    *   O'Rourke2
+    *   Klobuchar2
+    *   Booker2
+    *   Gabbard2
     *   Steyer1
     *   Castro1
-    *   Bennet0Warren +7
+    *   Bennet1Biden +12
+*   Arizona: Trump vs. BidenEmerson
+    *   Biden50
+    *   Trump50Tie
 
 More Latest Polls In The News
 
+*   Brokaw: Trump Impeachment Like A T.V. "Game Show". Don't Know What You Can Believe And What You Can't
+*   Biden: ISIS Leader Killed "In Spite" Of Trump's Actions. "Should Stay In His Lane, Listen To The Military"
+*   WSJ's Strassel: "Do We Really Want Impeachment To Be The Way That We Settle Debates In This Country?"
 *   Barr: Durham Progress Due To Outstanding Support From FBI &. Wray, "Let The Chips Fall Where They May"
-*   CNN Reporter: Trump Speech On ISIS Leader Death "Echoed The Crudeness" You Would Expect From ISIS
-*   Conway on Washington Post: If al-Baghdadi Worked In Trump WH His Obituary Wouldn't Be As Kind
-*   Chris Wallace Grills Mike Pence: Why Not Inform Pelosi About al-Baghdadi Raid? Does Trump Not Trust Her?
 *   Bannon Warns Republicans To "Wake Up," Pelosi's Impeachment Strategy Is "Winning Right Now"
 
 *   Politics
