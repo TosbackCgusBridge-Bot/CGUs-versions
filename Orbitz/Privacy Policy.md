@@ -22,7 +22,7 @@ Show Menu Hide Menu
     *   Rewards
     *   Travel Blog
 
-*   Add your property
+*   List your property
 *   Account
     *   Sign in to see exclusive Insider Prices.
     *   Sign In
@@ -79,7 +79,13 @@ Already have an account? Sign In Sign In Sign in to your account Sign in to your
 
 Password
 
-Keep me signed in Forgot password? Earn free travel rewards with Orbitz Rewards. By joining Orbitz Rewards, I accept all Terms and Conditions. Sign In Need an account? Sign Up Show us your human side... We can't tell if you're a human or a bot. I'm human Add your property Explore More Orbitz
+Keep me signed in Forgot password? Earn free travel rewards with Orbitz Rewards. By joining Orbitz Rewards, I accept all Terms and Conditions. Sign In Need an account? Sign Up Show us your human side... We can't tell if you're a human or a bot. I'm human Add your property Get the Orbitz app — text yourself a linkGet the Orbitz app — text yourself a linkSendOr scan the QR code!
+
+*   Book on app, get 5% back in Orbucks
+*   Paperless itineraries
+*   Real-time trip updates
+
+By providing your number, you agree to receive a one-time automated text message with a link to get the app. Our app offers promotions and booking services. No purchase necessary. Standard text message rates may apply. Explore More Orbitz
 
 *   About Orbitz
 *   Investor Relations
