@@ -364,23 +364,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Baltimore belatedly buys cyberinsurance
+    *   UC Browser potentially endangers 500 million users
     *   San Bernadino City schools hit with ransomware
-    *   Skip-2.0 backdoor malware provides 'magic password' to access MSSQL accounts
+    *   Star Search: McAfee names riskiest celebs to look up online
+    *   Hacker behind Montgomery County school data breach identified
+    *   Phishing scam behind Kalispell Regional Healthcare data breach
+    
+    *   CyberRisk Alliance Appoints John Whelan to President
+    *   Georgia Supreme Court rules that collection of vehicular data requires warrant
     *   CBP mulls facial recognition tech for body cams
-    *   Tips for those of all ages interested in pursuing a career in cybersecurity
-    
-    *   Report: Hotel chain modifies bed-facing robots to prevent unwanted spying
-    *   VMware patches critical bug in Harbor Container Registry for PCF
     *   Facebook moves to protect elections by flagging content from state-run media
-    *   2.8 million CenturyLink customer records exposed by unprotected database
-    *   DDoS attack sidelines AWS DNS web service for hours
+    *   Tools don’t hunt threats, people do
     
-    *   UN, NGOs targeted by ongoing phishing attack
-    *   DDoS attack sidelines AWS DNS web service for hours
-    *   Johannesburg's city e-services disrupted by ransomware strike
-    *   Report: Hotel chain modifies bed-facing robots to prevent unwanted spying
-    *   Google Play adware campaign taken down, developer identified
+    *   Data breach causes 10 percent of small businesses to shutter
+    *   DDoS attackers claim to be Russian APT group, demand ransom
+    *   Controlling PowerShell with zero trust microsegmentation
+    *   Skimming malware found on American Cancer Society’s online store
+    *   Adobe leaves Creative Cloud database open, 7.5 million users exposed
 
 Back to Top
 
