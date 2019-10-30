@@ -28,6 +28,11 @@ Monkeybrains.net San Francisco-based ISP since 1998
 NOTABLE PRESS MENTIONS &. REVIEWS
 
 _May 1, 2018_  
+By Alisha Green  
+Monkeybrains collaborates with the City to help close the digital divide in San Francisco.  
+Read more >>.
+
+_May 1, 2018_  
 **SF expanding pilot program that gets public housing residents on Internet**  
 By Dominic Fracassa  
 The free Web connections are being provided by Monkeybrains, a San Francisco Internet service provider.  
