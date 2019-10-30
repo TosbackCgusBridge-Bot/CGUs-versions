@@ -24,6 +24,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Harriet (2019)
     *   Motherless Brooklyn
     *   Terminator: Dark Fate
+    *   Fandango Early Access: Doctor Sleep
     *   Inside Game
     *   The Portal
     *   See All Opening This Week
