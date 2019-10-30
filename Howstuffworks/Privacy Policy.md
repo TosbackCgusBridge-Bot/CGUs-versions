@@ -1,21 +1,4 @@
-homechevrons-leftemailspinner8facebookfacebook2instagramtwitteryoutube X
-
-*   Adventure
-*   Animals
-*   Auto
-*   Culture
-*   Entertainment
-*   Health
-*   Home &. Garden
-*   Lifestyle
-*   Money
-*   Science
-*   Tech
-*   Video
-*   Podcasts
-*   Quizzes
-
-Toggle navigation
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-NXHP8V" height="0" width="0" style="display:none;visibility:hidden"></iframe>homechevrons-leftemailspinner8facebookfacebook2instagramtwitteryoutube
 
 *   Health
 *   Science
@@ -31,15 +14,24 @@ Toggle navigation
 *   Podcasts
 *   Video
 *   Quizzes
-*   More 
-    *   Money
-    *   Lifestyle
-    *   Entertainment
-    *   Adventure
-    *   Animals
-    *   Podcasts
-    *   Video
-    *   Quizzes
+*   More  MoneyLifestyleEntertainmentAdventureAnimalsPodcastsVideoQuizzes
+
+Search Terms Please enter terms to search for. Search
+
+*   Adventure
+*   Animals
+*   Auto
+*   Culture
+*   Entertainment
+*   Health
+*   Home &. Garden
+*   Lifestyle
+*   Money
+*   Science
+*   Tech
+*   Video
+*   Podcasts
+*   Quizzes
 
 HowStuffWorks Privacy Policy
 
@@ -217,15 +209,7 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Print | Citation &. Date | Reprint
-
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorks NOW: Meet Graham, the Car-proof Man1STHowStuffWorks NOW: The High Tech Cars of CES 20162ND10 Reasons Why You Should Care About Net Neutrality3RDHowStuffWorks NOW: The Unfair Files: CEO Pay and Performance4THBuzznet | SponsoredThese Twins Were Named "Most Beautiful In The World", Wait Till You See Them TodayBuzznet | SponsoredTieBreaker | SponsoredNFL Teammates Are Terrified To Even Practice Against HimTieBreaker | SponsoredWikibuy | SponsoredThe Dead Giveaway That Tells You When Amazon’s Giving You A Better Price Than Other RetailersWikibuy | SponsoredEasyvoyage | SponsoredTeenagers notice girl with "Dad" acting strange, they follow her because they knew something's wrongEasyvoyage | Sponsored -HowStuffWorks NOW: The Shocking Way To Make Chocolate Taste Better
-
-\-HowStuffWorks NOW: Scientists Engineer Chronically Itchy Mice to Curb Human Scratching
-
-\-HowStuffWorks NOW: Airplane Foolery: Stacking Passengers
-
-Topix | Sponsored33 Hilarious Airport SignsTopix | SponsoredElle | Sponsored61 Celebrity Couples Who Pulled Off Amazing Halloween CostumesElle | Sponsored Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksFoodStuff: The Science of Sour BeerHowStuffWorks NOW: Tired of Swiping Left?FoodStuff Makes Gin: FoodStuff Makes GinNile Crocodiles – in Florida | HowStuffWorks NOW: Nile Crocodiles – in FloridaHowStuffWorks NOW: Let’s Turn This Cheese ElectricHowStuffWorks NOW: Raise the Minimum Wage and the Robots Winby Taboolaby Taboola
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksFamily Tree of Homo Sapiens Continues to Evolve1STHow to Scare Away Rattlesnakes2NDWhat Existed Before the Big Bang?3RDInterbreeding with Neanderthals Gave Humans Virus Protections4THAuto Overload | Sponsored34 Vintage Photos Not Suitable For Audiences TodayAuto Overload | SponsoredHealth Central | Sponsored10 Signs of Bipolar DisorderHealth Central | SponsoredBuzznet | SponsoredThese Twins Were Named "Most Beautiful In The World", Wait Till You See Them TodayBuzznet | SponsoredTieBreaker | SponsoredNFL Teammates Are Terrified To Even Practice Against HimTieBreaker | Sponsored arts-literatureThe Surprising Controversy Behind 'Mary Had a Little Lamb'BY Dave Rooswild animals-mammalsHoney Badgers Don't Care Because They're FerociousBY Jesslyn Shieldsdiseases &. conditions-death &. dyingIs there a worst way to die?BY Josh ClarkDaily Finance Stories | SponsoredHoney Boo Boo Is So Skinny Now And Looks Like A BarbieDaily Finance Stories | SponsoredTopix | Sponsored33 Hilarious Airport SignsTopix | Sponsored Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksMeet '\`Oumuamua,' the Strange Interstellar Asteroid That Sent Us a MessageUnderwater 'Lost City' Wasn't Built by Humans, Study ShowsGigantic Undiscovered Cave Found in British ColumbiaThere's More to Cannibalism Than Just People Eating PeopleIn 1884, a Ship Was Discovered Totally Abandoned … and the Crew Was Never FoundWhy Women Don't Lick Their Babies Clean After Childbirthby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -238,21 +222,14 @@ Topix | Sponsored33 Hilarious Airport SignsTopix | SponsoredElle | Sponsored61 C
 *   Help
 *   Reprints
 
-  
-
-Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings LLC, a System1 Company
-
 Newsletter
 
-Get the best of HowStuffWorks by email. Keep up to date on:
+Get the best of HowStuffWorks by email!
 
-*   Latest Buzz
-*   Stuff Shows &. Podcasts
-*   Tours
-*   Weird &. Wacky
+Keep up to date on: Latest Buzz · Stuff Shows &. Podcasts · Tours · Weird &. Wacky
 
-Sign Up Now!
+Sign Up
 
-Newsletter Policy &. Terms
+**Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-Testing this long verbose error message to check the behaviour BESbswyBESbswyBESbswy <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. BESbswyBESbswyBESbswy
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Family Tree of Homo Sapiens Continues to EvolveRead Next StoryAuto Overload34 Vintage Photos Not Suitable For Audiences TodayAuto Overload|SponsoredSponsoredRead Next StoryHealth Central10 Signs of Bipolar DisorderHealth Central|SponsoredSponsoredRead Next Story
