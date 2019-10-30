@@ -1,54 +1,49 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N979W7" height="0" width="0" style="display:none. visibility:hidden;">. </iframe>. Turn on more accessible mode Turn off more accessible mode As we continue our transition to Sparklight, this website will automatically be redirected to our new website at Sparklight.com beginning Oct. 29, 2019.
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N979W7" height="0" width="0" style="display:none. visibility:hidden;">. </iframe>. Turn on more accessible mode Turn off more accessible mode
 
-This site will be unavailable due to maintenance each night 8/11/2019 through 8/16/2019 between 11:30 pm and 5:00 am MST. We appreciate your patience!
+This site will be unavailable due to maintenance each night 8/11 through 8/16/2019 between 11:30 pm and 5:00 am MST. We appreciate your patience!
 
 Feedback Skip to main content
 
-*   *   Internet
-    *   TV
+*   *   Residential Business Support
+    *   Internet
     *   Phone
+    *   TV
     *   Packages
-    *   Get Support
     *   Business
-    *   Order Now
+    *   Customer Login
+    *   Support
 
-*   Get Support
-*   Location × Please enter your Zip Code Locations Channel Line Up Local Information
-    
-    To display accurate prices and offers in your area, we need to know your service area. Please enter your zipcode:
-    
-    Change Location:
-    
-*   Search Search Search Type Residential Business Support
-*   My Services
-    My Services Check Email Pay Bill  
-    Internet Tools TV Everywhere  
-    Phone Tools Channel Lineup Local Info
+*   To view offer pricing
+*   Choose your location Set your location to see special sales and local information Change Location: Set Location Choose another location to see local deals and information Change Location: Set Location Your Local office View Local Details Not your location? Set your local information to see special sales and local information Change
+
+*   Customer Login
+*   |
+*   Support
 
 Skip to main content
 
-*   Order Now
 *   Internet
-*   TV
 *   Phone
+*   TV
 *   Packages
 *   Business
+*   Select the service for which you would like to learn more Residential Business Support Search Please enter something to search for. Search Type Search
 
 Internet Acceptable Use Policy Acceptable Use Policy
 
 Effective May 30, 2019
 
-Important Note: Cable One/Sparklight, may revise this Acceptable Use Policy from time to time without notice by editing the information on this page. Accordingly, users of the Cable One/Sparklight residential services should consult this page regularly to ensure that their activities conform to the most recent version. In the event of a conflict between any subscriber agreement and this policy, the terms of this policy will govern. Questions regarding this policy can be directed to legal@cableone.net. Complaints of violations of this policy by Cable One/Sparklight users can be directed to abuse@cableone.net. Visit http://www.cableone.net/legal/open-internet to review Cable One/Sparklight's Network Management Disclosure Statement.
+Important Note: Sparklight™, may revise this Acceptable Use Policy from time to time without notice by editing the information on this page. Accordingly, users of the Sparklight residential services should consult this page regularly to ensure that their activities conform to the most recent version. In the event of a conflict between any subscriber agreement and this policy, the terms of this policy will govern. Questions regarding this policy can be directed to legal@cableone.net. Complaints of violations of this policy by Sparklight users can be directed to abuse@cableone.net. Visit http://www.Sparklight.com/legal/open-internet to review Sparklight's Network Management Disclosure Statement.
 
 INTRODUCTION
 
-Cable One/Sparklight provides a variety of Internet services to residences and businesses (the "Services"). The Cable One/Sparklight residential service allows subscribers to connect to the Internet through a high-speed Internet access connection. The Services use resources that are shared with many other customers and each user benefits by being able to share these resources. However, as with any resource, the benefits provided must be balanced with duties and responsibilities so that all users can rely on them for a productive experience. Use of the Services, therefore, is subject to the rules and guidelines set forth below. Each customer of Cable One/Sparklight is responsible for ensuring that the use of all Services provided to such customer complies with this Acceptable Use Policy (the "Policy"). ANY USER WHO DOES NOT AGREE TO BE BOUND BY THESE TERMS SHOULD IMMEDIATELY STOP USE OF THE SERVICES AND NOTIFY THE CABLE ONE/SPARKLIGHT CUSTOMER SERVICE DEPARTMENT SO THAT THE USER'S ACCOUNT MAY BE CLOSED.
+Sparklight is a dba of Cable One, Inc. (NYSE:CAB0). Sparklight provides a variety of Internet services to residences and businesses (the "Services"). The Sparklight residential service allows subscribers to connect to the Internet through a high-speed Internet access connection. The Services use resources that are shared with many other customers and each user benefits by being able to share these resources. However, as with any resource, the benefits provided must be balanced with duties and responsibilities so that all users can rely on them for a productive experience. Use of the Services, therefore, is subject to the rules and guidelines set forth below. Each customer of Sparklight is responsible for ensuring that the use of all Services provided to such customer complies with this Acceptable Use Policy (the "Policy"). ANY USER WHO DOES NOT AGREE TO BE BOUND BY THESE TERMS SHOULD IMMEDIATELY STOP USE OF THE SERVICES AND NOTIFY THE SPARKLIGHT CUSTOMER SERVICE DEPARTMENT SO THAT THE USER'S ACCOUNT MAY BE CLOSED.
 
 I. PROHIBITED USES AND ACTIVITIES
 
-Cable One/Sparklight provides a variety of Internet services to residences and businesses (the "Services"). The Cable One/Sparklight residential service allows subscribers to connect to the Internet through a high-speed Internet access connection. The Services use resources that are shared with many other customers and each user benefits by being able to share these resources. However, as with any resource, the benefits provided must be balanced with duties and responsibilities so that all users can rely on them for a productive experience. Use of the Services, therefore, is subject to the rules and guidelines set forth below. Each customer of Cable One/Sparklight is responsible for ensuring that the use of all Services provided to such customer complies with this Acceptable Use Policy (the "Policy"). ANY USER WHO DOES NOT AGREE TO BE BOUND BY THESE TERMS SHOULD IMMEDIATELY STOP USE OF THE SERVICES AND NOTIFY THE CABLE ONE/SPARKLIGHT CUSTOMER SERVICE DEPARTMENT SO THAT THE USER'S ACCOUNT MAY BE CLOSED.
+Sparklight provides a variety of Internet services to residences and businesses (the "Services"). The Sparklight residential service allows subscribers to connect to the Internet through a high-speed Internet access connection. The Services use resources that are shared with many other customers and each user benefits by being able to share these resources. However, as with any resource, the benefits provided must be balanced with duties and responsibilities so that all users can rely on them for a productive experience. Use of the Services, therefore, is subject to the rules and guidelines set forth below. Each customer of Sparklight is responsible for ensuring that the use of all Services provided to such customer complies with this Acceptable Use Policy (the "Policy"). ANY USER WHO DOES NOT AGREE TO BE BOUND BY THESE TERMS SHOULD IMMEDIATELY STOP USE OF THE SERVICES AND NOTIFY THE SPARKLIGHT CUSTOMER SERVICE DEPARTMENT SO THAT THE USER'S ACCOUNT MAY BE CLOSED.
 
-In general, the Policy prohibits uses and activities involving the Service that are illegal, infringe the rights of others, interfere with or diminish the use and enjoyment of the Service by others, or impede Cable One/Sparklight from providing the Service or operating its business. These prohibited uses and activities include, but are not limited to, using the Services, customer-provided equipment, or Cable One/Sparklight-provided equipment, either individually or in combination with one another, to:
+In general, the Policy prohibits uses and activities involving the Service that are illegal, infringe the rights of others, interfere with or diminish the use and enjoyment of the Service by others, or impede Sparklight from providing the Service or operating its business. These prohibited uses and activities include, but are not limited to, using the Services, customer-provided equipment, or Sparklight-provided equipment, either individually or in combination with one another, to:
 
 **Conduct and information restrictions**
 
@@ -60,7 +55,7 @@ In general, the Policy prohibits uses and activities involving the Service that 
 *   send very large numbers of copies of the same or substantially similar messages, empty messages, or messages which contain no substantive content, or send very large messages or files that disrupts a server, account, newsgroup, or chat service;
 *   collect very large numbers of e-mail addresses, screen names, or other identifiers of others (without their prior consent), a practice sometimes known as spidering or harvesting, or participate in the use of software (including "spyware") designed to facilitate this activity;
 *   falsify, alter, or remove message headers with an intent to deceive;
-*   falsify references to Cable One/Sparklight or its network, by name or other identifier, in messages;
+*   falsify references to Sparklight or its network, by name or other identifier, in messages;
 *   impersonate any person or entity, engage in sender address falsification, forge anyone else's digital or manual signature, or perform any other similar fraudulent activity (for example, "phishing");
 *   violate the rules, regulations, or policies applicable to any network, server, computer database, or Website that you access;
 
@@ -71,14 +66,14 @@ In general, the Policy prohibits uses and activities involving the Service that 
 *   distribute programs that make unauthorized changes to software (cracks);
 *   use or run dedicated, stand-alone equipment or servers from the Premises that provide network content or any other services to anyone outside of your Premises local area network ("Premises LAN"), also commonly referred to as public services or servers. Examples of prohibited equipment and servers include, but are not limited to, e-mail, Web hosting, file sharing, and proxy services and servers;
 *   use or run programs from the Premises that provide network content or any other services to anyone outside of your Premises LAN, except for personal and non-commercial residential use;
-*   service, alter, modify, or tamper with Cable One/Sparklight Equipment or Service or permit any other person to do the same who is not authorized by Cable One/Sparklight;
+*   service, alter, modify, or tamper with Sparklight Equipment or Service or permit any other person to do the same who is not authorized by Sparklight;
 
 **Network and Usage Restrictions**
 
 *   restrict, inhibit, or otherwise interfere with the ability of any other person, regardless of intent, purpose or knowledge, to use or enjoy the Service, including, without limitation, posting or transmitting any information or software which contains a worm, virus, or other harmful feature, or generating levels of traffic sufficient to impede others' ability to use, send, or retrieve information.
-*   restrict, inhibit, interfere with, or otherwise disrupt or cause a performance degradation, regardless of intent, purpose or knowledge, to the Service or any Cable One/Sparklight (or Cable One/Sparklight supplier) host, server, backbone network, node or service, or otherwise cause a performance degradation to any Cable One/Sparklight (or Cable One/Sparklight supplier) facilities used to deliver the Service.
+*   restrict, inhibit, interfere with, or otherwise disrupt or cause a performance degradation, regardless of intent, purpose or knowledge, to the Service or any Sparklight (or Sparklight supplier) host, server, backbone network, node or service, or otherwise cause a performance degradation to any Sparklight (or Sparklight supplier) facilities used to deliver the Service.
 *   resell the Service or otherwise make available to anyone outside the Premises the ability to use the Service (for example, through Wi-Fi or other methods of networking), in whole or in part, directly or indirectly. The Service is for personal and non-commercial residential use only and you agree not to use the Service for operation as an Internet service provider or for any business enterprise or purpose (whether or not for profit).
-*   connect the Cable One/Sparklight Equipment to any computer outside of your Premises;
+*   connect the Sparklight Equipment to any computer outside of your Premises;
 *   interfere with computer networking or telecommunications service to any user, host or network, including, without limitation, denial of service attacks, flooding of a network, overloading a service, improper seizing and abusing operator privileges, and attempts to "crash" a host.
 *   access and use the Service with anything other than a dynamic Internet Protocol ("IP") address that adheres to the dynamic host configuration protocol ("DHCP"). You may not configure the Service or any related equipment to access or use a static IP address or use any protocol other than DHCP unless you are subject to a Service plan that expressly permits you to do so.
 *   engage in Excessive Use, as defined below.
@@ -89,33 +84,33 @@ II. CUSTOMER CONDUCT AND FEATURES OF THE SERVICE
 
 You are responsible for any misuse of the Services that you have contracted for, even if the inappropriate activity was committed by a friend, family member, guest, employee or customer with access to your account. Therefore, you should take steps to ensure that others do not gain unauthorized access to the Services and ensure that users you have authorized do not engage in any of the "Prohibited Uses and Activities" identified above.
 
-You are solely responsible for the security of any device you choose to connect to the Services, including any data stored on that device. In particular, Cable One/Sparklight recommends against enabling file or printer sharing of any sort. Cable One/Sparklight recommends that any files or services you do choose to make available for remote access be protected with a strong password, personal firewall or as otherwise appropriate.
+You are solely responsible for the security of any device you choose to connect to the Services, including any data stored on that device. In particular, Sparklight recommends against enabling file or printer sharing of any sort. Sparklight recommends that any files or services you do choose to make available for remote access be protected with a strong password, personal firewall or as otherwise appropriate.
 
-**How Does Cable One/Sparklight address inappropriate content and transmissions?**
+**How Does Sparklight address inappropriate content and transmissions?**
 
-There may be content on the Internet or otherwise available through the Services which may be offensive to some individuals, or which may not be in compliance with all federal, state and local laws, regulations and other rules. For example, it is possible to obtain access to content which is harassing, threatening, intimidating, pornographic or offensive, particularly to children. Cable One/Sparklight does not assume any responsibility for the content contained on the Internet or otherwise available through the Services. You must assume the risk of accessing content through the Service and Cable One/Sparklight shall not have any liability for any claims, losses, actions, damages, suits or proceedings arising out of or otherwise relating to access to such content. Parents may want to use a program capable of restricting access to sexually explicit material on the Internet. Content questions or complaints should be addressed to the content provider. You are solely responsible for any information which you publish on the web or other Internet services. You must ensure that the recipient of the content is appropriate. For example, you must take appropriate precautions to prevent minors from receiving inappropriate content. Cable One/Sparklight reserves the right to refuse to post or to remove any information or materials, in whole or in part, that it, in its sole discretion, deems to be offensive, indecent, or otherwise inappropriate regardless of whether such material or its dissemination is unlawful. Cable One/Sparklight does not have any obligation to monitor transmissions made on the Services. However, Cable One/Sparklight does have the right to monitor such transmissions from time to time and to disclose the same in accordance with your subscriber agreement. By using the Services to reproduce, publish, display, transmit and distribute content, a user is warranting that the content complies with this Policy and authorizing Cable One/Sparklight to reproduce, publish, display, transmit and distribute such content as necessary for Cable One/Sparklight to deliver the content in a timely manner.
+There may be content on the Internet or otherwise available through the Services which may be offensive to some individuals, or which may not be in compliance with all federal, state and local laws, regulations and other rules. For example, it is possible to obtain access to content which is harassing, threatening, intimidating, pornographic or offensive, particularly to children. Sparklight does not assume any responsibility for the content contained on the Internet or otherwise available through the Services. You must assume the risk of accessing content through the Service and Sparklight shall not have any liability for any claims, losses, actions, damages, suits or proceedings arising out of or otherwise relating to access to such content. Parents may want to use a program capable of restricting access to sexually explicit material on the Internet. Content questions or complaints should be addressed to the content provider. You are solely responsible for any information which you publish on the web or other Internet services. You must ensure that the recipient of the content is appropriate. For example, you must take appropriate precautions to prevent minors from receiving inappropriate content. Sparklight reserves the right to refuse to post or to remove any information or materials, in whole or in part, that it, in its sole discretion, deems to be offensive, indecent, or otherwise inappropriate regardless of whether such material or its dissemination is unlawful. Sparklight does not have any obligation to monitor transmissions made on the Services. However, Sparklight does have the right to monitor such transmissions from time to time and to disclose the same in accordance with your subscriber agreement. By using the Services to reproduce, publish, display, transmit and distribute content, a user is warranting that the content complies with this Policy and authorizing Sparklight to reproduce, publish, display, transmit and distribute such content as necessary for Sparklight to deliver the content in a timely manner.
 
 **What requirements apply to Electronic Mail?**
 
-The Services may not be used to or distribute e-mail or other forms of communications in violation of the "Prohibited Uses and Activities" described above. This includes, but is not limited to, bulk mailing of commercial advertising, informational announcements, charity requests, petitions for signatures and political or religious messages. Such messages may only be sent to those who have explicitly requested them. The Services may not be used to send messages to any individual who has indicated that he/she does not wish to receive messages from you. The Services may not be used to collect responses from unsolicited email sent from accounts on other Internet hosts or email services which violates this Policy or the acceptable use policy of any other Internet service provider. Moreover, unsolicited email may not direct the recipient to any website or other resource which uses the Services. You may not create a username or email address that, in the sole judgment of Cable One/Sparklight, is pornographic, patently offensive or misleading. You may not reference the Cable One/Sparklight network (e.g., by including "Organization: Cable One/Sparklight " in the header or by listing an IP address that belongs to the Cable One network) in any unsolicited email even if that email is not sent through the Cable One/Sparklight network. In the event that Cable One/Sparklight believes in its sole discretion that any subscriber name, account name, or e-mail address (collectively, an "identifier") on the Service may be used for, or is being used for, any misleading, fraudulent, or other improper or illegal purpose, Cable One/Sparklight (i) reserves the right to block access to and prevent the use of any of these identifiers, and (ii) may at any time require any customer to change his or her identifier. Cable One/Sparklight may at any time reserve any identifiers on the Service for Cable One/Sparklight's own purposes. Cable One/Sparklight is not responsible for the forwarding of email sent to any account which has been suspended or terminated. Such email will be returned to sender, ignored, deleted, or stored temporarily at Cable One/Sparklight's sole discretion. Cable One/Sparklight is not responsible for deleting or forwarding any e-mail sent to the wrong e-mail address by you or by someone else trying to send e-mail to you. In addition, Cable One/Sparklight may suspend or delete a Cable One/Sparklight email address after three (3) months of inactivity or other evidence of non-use.
+The Services may not be used to or distribute e-mail or other forms of communications in violation of the "Prohibited Uses and Activities" described above. This includes, but is not limited to, bulk mailing of commercial advertising, informational announcements, charity requests, petitions for signatures and political or religious messages. Such messages may only be sent to those who have explicitly requested them. The Services may not be used to send messages to any individual who has indicated that he/she does not wish to receive messages from you. The Services may not be used to collect responses from unsolicited email sent from accounts on other Internet hosts or email services which violates this Policy or the acceptable use policy of any other Internet service provider. Moreover, unsolicited email may not direct the recipient to any website or other resource which uses the Services. You may not create a username or email address that, in the sole judgment of Sparklight, is pornographic, patently offensive or misleading. You may not reference the Sparklight network (e.g., by including "Organization: Sparklight " in the header or by listing an IP address that belongs to the Sparklight network) in any unsolicited email even if that email is not sent through the Sparklight network. In the event that Sparklight believes in its sole discretion that any subscriber name, account name, or e-mail address (collectively, an "identifier") on the Service may be used for, or is being used for, any misleading, fraudulent, or other improper or illegal purpose, Sparklight (i) reserves the right to block access to and prevent the use of any of these identifiers, and (ii) may at any time require any customer to change his or her identifier. Sparklight may at any time reserve any identifiers on the Service for Sparklight's own purposes. Sparklight is not responsible for the forwarding of email sent to any account which has been suspended or terminated. Such email will be returned to sender, ignored, deleted, or stored temporarily at Sparklight's sole discretion. Sparklight is not responsible for deleting or forwarding any e-mail sent to the wrong e-mail address by you or by someone else trying to send e-mail to you. In addition, Sparklight may suspend or delete a Sparklight email address after three (3) months of inactivity or other evidence of non-use.
 
 **What requirements apply to instant, video, and audio messages?**
 
-Each user is responsible for the contents of his or her instant, video, and audio messages and the consequences of any of these messages. Cable One/Sparklight assumes no responsibility for the timeliness, misdelivery or deletion of, or any failure to store, these messages. In the event that a Service account is terminated for any reason, all instant, video, and audio messages associated with that account (and any secondary accounts) will be permanently deleted as well.
+Each user is responsible for the contents of his or her instant, video, and audio messages and the consequences of any of these messages. Sparklight assumes no responsibility for the timeliness, misdelivery or deletion of, or any failure to store, these messages. In the event that a Service account is terminated for any reason, all instant, video, and audio messages associated with that account (and any secondary accounts) will be permanently deleted as well.
 
 III. NETWORK MANAGEMENT AND LIMITATIONS ON BANDWIDTH CONSUMPTION
 
-The Cable One/Sparklight network is designed for typical usage by a typical residential computer user. Computer activity resulting in excessive or sustained bandwidth consumption may burden the network and such usage may be restricted. Bandwidth on our network is a limited, shared resource among subscribers. Because we seek to provide the Service at a reasonable cost to the largest number of users, the use of our network is subject to usage limitations. Therefore, users must comply with the current bandwidth, data throughput, and other limitations on the Service, including the excessive use guidelines described below. Users must ensure their activity does not improperly restrict, inhibit, or degrade any other user's use of the Service, nor represent (in the sole but reasonable judgment of Cable One/Sparklight) an unusually large burden on the network itself. In addition, users must ensure that their activity does not improperly restrict, inhibit, disrupt, degrade or impede Cable One/Sparklight's ability to deliver the Service and monitor the Services, backbone, network nodes, and/or other network services.
+The Sparklight network is designed for typical usage by a typical residential computer user. Computer activity resulting in excessive or sustained bandwidth consumption may burden the network and such usage may be restricted. Bandwidth on our network is a limited, shared resource among subscribers. Because we seek to provide the Service at a reasonable cost to the largest number of users, the use of our network is subject to usage limitations. Therefore, users must comply with the current bandwidth, data throughput, and other limitations on the Service, including the excessive use guidelines described below. Users must ensure their activity does not improperly restrict, inhibit, or degrade any other user's use of the Service, nor represent (in the sole but reasonable judgment of Sparklight) an unusually large burden on the network itself. In addition, users must ensure that their activity does not improperly restrict, inhibit, disrupt, degrade or impede Sparklight's ability to deliver the Service and monitor the Services, backbone, network nodes, and/or other network services.
 
-**How does Cable One/Sparklight manage its Network?**
+**How does Sparklight manage its Network?**
 
-Cable One/Sparklight strives to provide customers the best experience when using our network, a shared resource among hundreds of thousands of customers.
+Sparklight strives to provide customers the best experience when using our network, a shared resource among hundreds of thousands of customers.
 
-Cable One/Sparklight may use tools and techniques to manage its network, deliver the Service, and ensure compliance with this Policy and the Subscriber Agreement. These tools and techniques are dynamic, like the network and its usage, and can and do change frequently. For example, these network management activities may include (i) identifying spam and preventing its delivery to customer e-mail accounts, (ii) detecting malicious Internet traffic and preventing the distribution of viruses or other harmful code or content, (iii) limiting speeds during periods of extended congestion, (iv) requiring an upgrade or purchase of a different Internet service and (v) using other tools or techniques that Cable One/Sparklight may be required to implement in order to meet its goal of delivering the best broadband Internet experience to all its customers.
+Sparklight may use tools and techniques to manage its network, deliver the Service, and ensure compliance with this Policy and the Subscriber Agreement. These tools and techniques are dynamic, like the network and its usage, and can and do change frequently. For example, these network management activities may include (i) identifying spam and preventing its delivery to customer e-mail accounts, (ii) detecting malicious Internet traffic and preventing the distribution of viruses or other harmful code or content, (iii) limiting speeds during periods of extended congestion, (iv) requiring an upgrade or purchase of a different Internet service and (v) using other tools or techniques that Sparklight may be required to implement in order to meet its goal of delivering the best broadband Internet experience to all its customers.
 
-**How does Cable One/Sparklight track usage?**
+**How does Sparklight track usage?**
 
-We collect data on customer traffic pattern usage through the use of traffic management software. Cable One/Sparklight reserves the right to conduct tests to improve network security, to enhance the performance of our network, and to determine whether to make available new service offerings. These technical tests are performed almost continuously and without notice.
+We collect data on customer traffic pattern usage through the use of traffic management software. Sparklight reserves the right to conduct tests to improve network security, to enhance the performance of our network, and to determine whether to make available new service offerings. These technical tests are performed almost continuously and without notice.
 
 Users may also monitor their bandwidth usage in the MyBandwidth section of http://myaccount.cableone.net  
 
@@ -155,94 +150,116 @@ Names, speeds, and data plans are subject to change
 
 Customers on Plus Internet service plans in these communities do not have designated data plans assigned to the levels of service subscribed. However, customers on these Internet service plans who use more than 5TB of data during a data period may be subject to speed reductions for the remainder of their data period.
 
-**How does Cable One/Sparklight address Excessive Use or uncharacteristic use?**
+**How does Sparklight address Excessive Use or uncharacteristic use?**
 
-The Cable One/Sparklight residential service offering is a consumer product designed for personal use of the Internet. Therefore, if Cable One/Sparklight in its sole but reasonable discretion determines that a customer has exceeded the Excessive Use threshold or is using the Service in a manner significantly uncharacteristic of a typical residential user, Cable One/Sparklight reserves the right to (a) adjust, suspend or terminate Service accounts at any time and without notice. or (b) require the user to upgrade his service level or pay additional fees in accordance with Cable One/Sparklight's then-current, applicable rates and charges for such Service. or (c) use any technology to be chosen by Cable One/Sparklight at its sole discretion to slow the user's service for purposes of conserving bandwidth and/or (d) require customers to utilize a specific modem(s) that provide efficient use of the network. .
+The Sparklight residential service offering is a consumer product designed for personal use of the Internet. Therefore, if Sparklight in its sole but reasonable discretion determines that a customer has exceeded the Excessive Use threshold or is using the Service in a manner significantly uncharacteristic of a typical residential user, Sparklight reserves the right to (a) adjust, suspend or terminate Service accounts at any time and without notice. or (b) require the user to upgrade his service level or pay additional fees in accordance with Sparklight's then-current, applicable rates and charges for such Service. or (c) use any technology to be chosen by Sparklight at its sole discretion to slow the user's service for purposes of conserving bandwidth and/or (d) require customers to utilize a specific modem(s) that provide efficient use of the network. .
 
 **What activities may cause excessive bandwidth consumption and uncharacteristic use?**
 
-Common activities that may cause excessive bandwidth consumption in violation of this Policy include, but are not limited to, numerous or continuous bulk transfers of files and other high capacity traffic using (i) file transfer protocol ("FTP"), (ii) peer-to-peer applications, and (iii) newsgroups, whether provided by Cable One/Sparklight or a third party.
+Common activities that may cause excessive bandwidth consumption in violation of this Policy include, but are not limited to, numerous or continuous bulk transfers of files and other high capacity traffic using (i) file transfer protocol ("FTP"), (ii) peer-to-peer applications, and (iii) newsgroups, whether provided by Sparklight or a third party.
 
 **What services are not available to Residential service users?**
 
-The Service does not provide the type of security, upstream performance and total downstream throughput capability typically associated with commercial use. You may not run a server in connection with the Cable One/Sparklight residential service, nor may you provide network services to others via the Cable One/Sparklight residential service. Examples of prohibited uses include, but are not limited to, running servers for mail (pop3 &. smtp), http, https, FTP, IRC, DHCP and multi-user interactive forums. For information about commercial Internet pricing, please see http://www.cableone.net.
+The Service does not provide the type of security, upstream performance and total downstream throughput capability typically associated with commercial use. You may not run a server in connection with the Sparklight residential service, nor may you provide network services to others via the Sparklight residential service. Examples of prohibited uses include, but are not limited to, running servers for mail (pop3 &. smtp), http, https, FTP, IRC, DHCP and multi-user interactive forums. For information about commercial Internet pricing, please see http://www.Sparklight.com.
 
 IV. VIOLATION OF THIS ACCEPTABLE USE POLICY
 
 **What happens if you violate this policy?**
 
-Cable One/Sparklight reserves the right to suspend without notice or terminate the Service and your Subscriber Agreement if you violate the terms of this Policy or the Subscriber Agreement.
+Sparklight reserves the right to suspend without notice or terminate the Service and your Subscriber Agreement if you violate the terms of this Policy or the Subscriber Agreement.
 
-**How does Cable One/Sparklight enforce this Policy?**
+**How does Sparklight enforce this Policy?**
 
-Cable One/Sparklight does not routinely monitor the activity of accounts for violation of this Policy. However, in our efforts to comply with applicable law and promote good citizenship within the Internet community, we will respond appropriately if we become aware of inappropriate use of our Services. If we receive notice under the Digital Millennium Copyright Act, 17 U.S.C. sec. 512, that you have allegedly infringed the intellectual property rights of a third party, we retain the right to take down or disable access to the allegedly infringing material. In complying with applicable law in this area, it is our policy, in appropriate circumstances, to terminate the accounts of subscribers who repeatedly infringe the intellectual property rights of third parties. We also will take such other action as appropriate under the circumstances to preserve our rights. Although Cable One/Sparklight has no obligation to monitor the Services and/or the network, Cable One/Sparklight reserves the right to monitor bandwidth, usage, and content from time to time to operate the Services. to identify violations of this Policy. and/or to protect the network and Cable One/Sparklight users. Cable One/Sparklight prefers to advise customers of inappropriate behavior and any necessary corrective action. However, if the Services are used in a way which Cable One/Sparklight, in its sole but reasonable discretion, believes violate this Policy, Cable One/Sparklight may take any responsive actions it deems appropriate. Such actions include, but are not limited to, temporary or permanent removal of content, cancellation of newsgroup posts, filtering of Internet transmissions, and the immediate suspension or termination of all or any portion of the Services. Cable One/Sparklight will not have any liability for any such responsive actions. The above described actions are not Cable One/Sparklight's exclusive remedies and Cable One/Sparklight may take any other legal or technical action it deems appropriate. Cable One/Sparklight reserves the right to investigate suspected violations of this Policy, including the gathering of information from the user or users involved and the complaining party, if any, and examination of material on Cable One/Sparklight's servers and network. During an investigation, Cable One/Sparklight may suspend the account or accounts involved and/or remove material which potentially violates this Policy. You hereby authorize Cable One/Sparklight to cooperate with (i) law enforcement authorities in the investigation of suspected criminal violations, and (ii) and system administrators at other Internet service providers or other network or computing facilities in order to enforce this Policy. Such cooperation may include Cable One/Sparklight providing the username, IP address, or other identifying information about a subscriber. Upon termination of an account, Cable One/Sparklight is authorized to delete any user ID, files, programs, data and email messages associated with such account. The failure of Cable One/Sparklight to enforce this Policy, for whatever reason, shall not be construed as a waiver of any right to do so at any time. You agree that, if any portion of this Policy is held invalid or unenforceable, that portion will be construed consistent with applicable law as nearly as possible, and the remaining portions will remain in full force and effect. This Policy shall be exclusively governed by, and construed in accordance with, the laws of the State of Arizona.
+Sparklight does not routinely monitor the activity of accounts for violation of this Policy. However, in our efforts to comply with applicable law and promote good citizenship within the Internet community, we will respond appropriately if we become aware of inappropriate use of our Services. If we receive notice under the Digital Millennium Copyright Act, 17 U.S.C. sec. 512, that you have allegedly infringed the intellectual property rights of a third party, we retain the right to take down or disable access to the allegedly infringing material. In complying with applicable law in this area, it is our policy, in appropriate circumstances, to terminate the accounts of subscribers who repeatedly infringe the intellectual property rights of third parties. We also will take such other action as appropriate under the circumstances to preserve our rights. Although Sparklight has no obligation to monitor the Services and/or the network, Sparklight reserves the right to monitor bandwidth, usage, and content from time to time to operate the Services. to identify violations of this Policy. and/or to protect the network and Sparklight users. Sparklight prefers to advise customers of inappropriate behavior and any necessary corrective action. However, if the Services are used in a way which Sparklight, in its sole but reasonable discretion, believes violate this Policy, Sparklight may take any responsive actions it deems appropriate. Such actions include, but are not limited to, temporary or permanent removal of content, cancellation of newsgroup posts, filtering of Internet transmissions, and the immediate suspension or termination of all or any portion of the Services. Sparklight will not have any liability for any such responsive actions. The above described actions are not Sparklight's exclusive remedies and Sparklight may take any other legal or technical action it deems appropriate. Sparklight reserves the right to investigate suspected violations of this Policy, including the gathering of information from the user or users involved and the complaining party, if any, and examination of material on Sparklight's servers and network. During an investigation, Sparklight may suspend the account or accounts involved and/or remove material which potentially violates this Policy. You hereby authorize Sparklight to cooperate with (i) law enforcement authorities in the investigation of suspected criminal violations, and (ii) and system administrators at other Internet service providers or other network or computing facilities in order to enforce this Policy. Such cooperation may include Sparklight providing the username, IP address, or other identifying information about a subscriber. Upon termination of an account, Sparklight is authorized to delete any user ID, files, programs, data and email messages associated with such account. The failure of Sparklight to enforce this Policy, for whatever reason, shall not be construed as a waiver of any right to do so at any time. You agree that, if any portion of this Policy is held invalid or unenforceable, that portion will be construed consistent with applicable law as nearly as possible, and the remaining portions will remain in full force and effect. This Policy shall be exclusively governed by, and construed in accordance with, the laws of the State of Arizona.
 
 V. MISCELLANEOUS PROVISIONS
 
 **Cable Modems**
 
-Cable One/Sparklight strives to produce a high level of reliability, stability and security for our High-Speed Internet Subscribers. The cable modem is a critical network element which we constantly evaluate for compatibility and performance. Due to technical limitations, changes to our network, discontinued support by manufacturers, regulatory obligations, or defects, certain cable modem models that previously were certified may be deemed to no longer be suitable for our network. If you own your modem and in our sole but reasonable discretion it becomes unsuitable for any of these or other reasons, it will be your responsibility to purchase a new modem. Cable One/Sparklight's support website maintains a current list of certified modems for use on its network. Cable One/Sparklight reserves the right to upgrade, via software download and without subscriber notification, all cable modems currently connected to its network. Effective October 1, 2015, only DOCSIS 3.0 and DOCSIS 3.1 Modems and EMTAs will be compatible with our network.
+Sparklight strives to produce a high level of reliability, stability and security for our High-Speed Internet Subscribers. The cable modem is a critical network element which we constantly evaluate for compatibility and performance. Due to technical limitations, changes to our network, discontinued support by manufacturers, regulatory obligations, or defects, certain cable modem models that previously were certified may be deemed to no longer be suitable for our network. If you own your modem and in our sole but reasonable discretion it becomes unsuitable for any of these or other reasons, it will be your responsibility to purchase a new modem. Sparklight's support website maintains a current list of certified modems for use on its network. Sparklight reserves the right to upgrade, via software download and without subscriber notification, all cable modems currently connected to its network. Effective October 1, 2015, only DOCSIS 3.0 and DOCSIS 3.1 Modems and EMTAs will be compatible with our network.
 
 **Communication**
 
-Cable One/Sparklight may choose to communicate with you regarding these policies using a variety of methods including email to your Cable One/Sparklight email address or in-browser notices. In-browser notices are an effective way to quickly alert you to important service-impacting issues. These notices may require you to acknowledge receipt of the message or log into your Cable One/Sparklight account for more information.
+Sparklight may choose to communicate with you regarding these policies using a variety of methods including email to your Sparklight email address or in-browser notices. In-browser notices are an effective way to quickly alert you to important service-impacting issues. These notices may require you to acknowledge receipt of the message or log into your Sparklight account for more information.
 
 **Limitations of Liability**
 
-Cable One/Sparklight will make reasonable efforts to provide customer with uninterrupted and error-free service. Nonetheless, there are numerous factors that could affect the Service. Temporary interruptions of the Service may occur as normal events in the provision of the Service. Cable One/Sparklight reserves the right to interrupt the Service usually between the hours of 1am to 5am (MST or Local) for maintenance purposes. Also understand that Cable One/Sparklight has no control over the networks, facilities or services of third parties and that delays and disruptions involving them are completely beyond Cable One/Sparklight's control. As to Cable One/Sparklight's own equipment and software, failure may occur without warning due to causes ranging from our own errors to malicious attack. If you have requirements that substantially exceed the average consumer's bandwidth use or if continuous Internet access is the basis of your livelihood, you should purchase an alternate, backup connection. While Cable One/Sparklight employs virus and spam checking software, the speed of new virus and spam creation is such that Cable One/Sparklight does not represent or warrant that traffic on its network will be virus or spam free. In light of that, your use of the Service is at your own risk and the Service is provided without warranty or guarantee of any kind either expressed or implied, including warranties of merchantability and fitness for a particular purpose. Without limiting the foregoing, Cable One/Sparklight, its parent company and affiliates will not be liable for any interruptions in service or failure to perform or partial performance that results in corrupted transmissions and will not be responsible for consequential damages of any sort. In any event, Cable One/Sparklight's liability to you for all potential claims will not exceed the total amount of service fees paid during the preceding three months. As to consumer customers, some states do not allow the exclusion or limitation of implied warranties, so the above exclusions or limitations may not apply to you. Nothing in this Agreement gives you any interest, title or license in the user ID, electronic mail address or IP address that is used in conjunction with the Service.
+Sparklight will make reasonable efforts to provide customer with uninterrupted and error-free service. Nonetheless, there are numerous factors that could affect the Service. Temporary interruptions of the Service may occur as normal events in the provision of the Service. Sparklight reserves the right to interrupt the Service usually between the hours of 1am to 5am (MST or Local) for maintenance purposes. Also understand that Sparklight has no control over the networks, facilities or services of third parties and that delays and disruptions involving them are completely beyond Sparklight's control. As to Sparklight's own equipment and software, failure may occur without warning due to causes ranging from our own errors to malicious attack. If you have requirements that substantially exceed the average consumer's bandwidth use or if continuous Internet access is the basis of your livelihood, you should purchase an alternate, backup connection. While Sparklight employs virus and spam checking software, the speed of new virus and spam creation is such that Sparklight does not represent or warrant that traffic on its network will be virus or spam free. In light of that, your use of the Service is at your own risk and the Service is provided without warranty or guarantee of any kind either expressed or implied, including warranties of merchantability and fitness for a particular purpose. Without limiting the foregoing, Sparklight, its parent company and affiliates will not be liable for any interruptions in service or failure to perform or partial performance that results in corrupted transmissions and will not be responsible for consequential damages of any sort. In any event, Sparklight's liability to you for all potential claims will not exceed the total amount of service fees paid during the preceding three months. As to consumer customers, some states do not allow the exclusion or limitation of implied warranties, so the above exclusions or limitations may not apply to you. Nothing in this Agreement gives you any interest, title or license in the user ID, electronic mail address or IP address that is used in conjunction with the Service.
 
-Services Residential
+Sparklight Footer Business
 
-*   CableONE Residential Internet
-*   CableONE Residential Cable TV
-*   CableONE Residential Packages
-*   CableONE Residential Phone
-
-Business
-
-*   CableONE Small Business Solutions
-*   CableONE Large Business Solutions
-*   CableONE Business Carrier &. Wholesale Solutions
+*   Sparklight Small Business Solutions
+*   Sparklight Large Business Solutions
+*   Sparklight Business Carrier &. Wholesale Solutions
 
 Advertising
 
-*   CableONE Digital Marketing
-*   CableONE Creative Services
-*   CableONE Business TV Advertising
+*   Sparklight Digital Marketing
+*   Sparklight Creative Services
+*   Sparklight Business TV Advertising
 
-I Want To...
+Legal
+
+*   Sparklight Open Internet &. Network Management
+*   Sparklight Terms &. Conditions
+*   Sparklight Privacy Policy
+*   Sparklight Acceptable Use Policy
+*   Sparklight Closed Captioning
+*   Sparklight Accessibility
+*   Sparklight Cable Service Guard
+*   Sparklight Copyright Notice
+*   Sparklight Annual Notice
+
+I want to
 
 *   Order New Service
 *   View or Pay Bill
 *   Check Email
+*   View TV Everywhere
+*   Get Support
+
+I want to
+
+*   Order New Service
+*   View or Pay Bill
+*   Check Email
+*   View TV Everywhere
 *   Get Support
 
 Company
 
-*   CableONE About Us
-*   CableONE Social Responsibility
-*   CableONE Net Neutrality
-*   CableONE Press Releases
-*   CableONE Investor Relations
+*   Sparklight About Sparklight
+*   Sparklight About Cable One
+*   Sparklight Social Responsibility
+*   Sparklight Net Neutrality
+*   Sparklight Press Releases
+*   Sparklight Investor Relations
+*   Sparklight One-to-One
 
-Legal
+Company
 
-*   CableONE Open Internet &. Network Management
-*   CableONE Terms &. Conditions
-*   CableONE Privacy Policy
-*   CableONE Acceptable Use Policy
-*   CableONE Closed Captioning
-*   CableONE Accessibility
-*   CableONE Cable Service Guard
-*   CableONE Copyright Notice
-*   CableONE Annual Notice
+*   Sparklight About Sparklight
+*   Sparklight About Cable One
+*   Sparklight Social Responsibility
+*   Sparklight Net Neutrality
+*   Sparklight Press Releases
+*   Sparklight Investor Relations
+*   Sparklight One-to-One
 
-*   CableONE Locations
-*   Contact Us
-*   CableONE Careers
-*   CableONE Site Map
-*   CableONE Remote Connect
+More
 
-Facebook Twitter Instagram YouTube LinkedIn Copyright 2019, Cable ONE Inc ., All Rights Reserved. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1676078032639904&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=429775174175430&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=655713804869086&amp;ev=PageView&amp;noscript=1">.
+*   Sparklight Locations
+*   Sparklight Contact Us
+*   Sparklight Careers
+*   Sparklight Site Map
+*   Sparklight Remote Connect
 
-BESbswy
+More
+
+*   Sparklight Locations
+*   Sparklight Contact Us
+*   Sparklight Careers
+*   Sparklight Site Map
+*   Sparklight Remote Connect
+
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1676078032639904&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=429775174175430&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=655713804869086&amp;ev=PageView&amp;noscript=1">.
