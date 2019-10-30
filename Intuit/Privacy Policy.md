@@ -1,6 +1,6 @@
 Free Shipping over $99See DetailsEnable Accessibility
 
-*   My AccountSign InTrack MyOrders
+*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -40,11 +40,11 @@ THE LOCAL LOOKLocally curated, universally lovedUP TO 50% OFFHALLOWEEN DECORsele
 *   $2879after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(38)
 *   $2879after couponwas $60 Arizona Womens Yetta Block Heel Lace Up Boots(32)
 *   $399 - $2799after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(232)
-*   $3999after couponwas $80 Arizona Womens Dino Wide Calf Riding Boots Block Heel
 *   $3199after couponwas $70 a.n.a Womens Alford Stacked Heel Motorcycle Boots(17)
 *   $1779 - $4159 clearance
     
     was $59.50 | 30 - 70% offLevi's® Pull on Pant(16)
+*   $3999after couponwas $80 Arizona Womens Dino Wide Calf Riding Boots Block Heel
 
 Shop and Save at JCPenney
 
