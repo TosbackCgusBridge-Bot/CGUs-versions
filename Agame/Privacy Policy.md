@@ -80,14 +80,14 @@ View more results
     *   Warbanner
     *   Total Front: Army War Game
     *   Apple Shooter: Arrow Game
-    *   Combat Reloaded
     *   Slither.io
+    *   Combat Reloaded
     *   Combat Strike 2: 3D Shooting Game Online Multiplayer
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Stunt Skateboard 3D
     *   Subway Clash 3D: Shooting Game Online Multiplayer
-    *   Short Life
     *   Miami Crime Simulator 3D
+    *   Short Life
     *   Pixel Apocalypse
 *   Top Categories
     
@@ -112,12 +112,12 @@ View more results
     *   Five Nights at Freddy's
     *   World Craft 2
     *   Five Nights at Freddy's 2
-    *   Short Life
     *   Miami Crime Simulator 3D
-    *   Chrome Dino
+    *   Short Life
     *   Fireboy and Watergirl 5: Elements
-    *   Slope: Neon Ball Rolling Game
+    *   Chrome Dino
     *   Five Nights at Freddy's 5
+    *   Slope: Neon Ball Rolling Game
     *   Boeing Flight Simulator
     *   Five Nights at Freddy's 4
     *   FNAF World
@@ -151,8 +151,8 @@ View more results
     *   Mahjong Connect Classic
     *   Deal or No Deal
     *   Crystical: 2 Player Puzzle Game
-    *   Jewel Quest
     *   Garden Tales
+    *   Jewel Quest
 *   Top Categories
     
     *   Dress Up
@@ -176,8 +176,8 @@ View more results
     *   Pixel Art: Color by Number
     *   Ellie: Get Ready With Me
     *   Super Speed Racer
-    *   Slope: Neon Ball Rolling Game
     *   Pizza Real Life Cooking
+    *   Slope: Neon Ball Rolling Game
     *   Ella: Hips Surgery
     *   Love Tester 2.0
     *   Burger Restaurant Express
