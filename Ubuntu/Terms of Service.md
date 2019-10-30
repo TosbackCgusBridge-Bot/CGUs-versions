@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server development summary – 29 October 2019
+*   OpenStack Charms 19.10 – Train, Policy Overrides and more
 *   PSA for ROS users: Some things to know as Python 2 approaches EOL
 *   The masters speak: Forward-thinking Ubuntu users gather to share their experiences
 *   Standardising software to quickly deliver a smart city platform for millions
-*   Learn about our differentiated approach to IoT digital transformation at IoTSWC.
-*   Ubuntu at Open Infrastructure Summit Shanghai
 
 *    ›
