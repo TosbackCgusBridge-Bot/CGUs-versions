@@ -117,9 +117,9 @@ Toyota Vehicles
     
 *   Hybrid SUVs  
     
-
 *   Hatchback Cars  
     
+
 *   Fuel-Efficient Cars  
     
 *   Fuel-Efficient SUVs  
@@ -144,11 +144,11 @@ Toyota Vehicles
     
 *   7-Passenger Vehicles  
     
-
 *   4-Door Sedans  
     
 *   2-Door Cars  
     
+
 *   All-Wheel-Drive Vehicles  
     
 *   Cars for Teenagers  
@@ -156,6 +156,8 @@ Toyota Vehicles
 *   Off-Road Vehicles  
     
 *   Luxury Cars  
+    
+*   Sports Cars  
     
 *   FT-4X Concept  
     
@@ -296,7 +298,11 @@ Compare Toyota vs. the Competition
     
 *   Toyota Tacoma vs. Honda Ridgeline  
     
+*   Toyota Corolla vs. Mazda 3 Sedan  
+    
 *   Toyota Corolla vs. Honda Civic  
+    
+*   2019 Toyota Corolla vs. 2019 Honda Civic  
     
 *   Toyota Camry vs. Honda Accord  
     
@@ -1034,7 +1040,7 @@ If you have any questions, complaints or claims about any of the Sites, or if yo
 
 Go
 
-ToyotaProud Mobility Partner Sign up for toyota updates Request A Quote Trade-In Value Shopping Tools
+ToyotaProud Mobility Partner SIGN UP FOR TOYOTA UPDATES Request A Quote Trade-In Value Shopping Tools
 
 *   Trade-In Value
 *   Build Your Toyota
