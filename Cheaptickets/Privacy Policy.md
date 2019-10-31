@@ -17,7 +17,7 @@ Show Menu Hide Menu
     *   Mobile
     *   CheapCash
 
-*   Add your property
+*   List your property
 *   Account
     *   Sign In
     *   Create an Account
