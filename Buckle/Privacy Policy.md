@@ -13,20 +13,18 @@ SELECT SALE DENIM IS AN EXTRA 10% OFF - SHOP NOW!
 *   Shoes
 *   Sale
 
-*   SearchSubmit
+*   SearchSearchSubmit
 *   MY ACCOUNTHello, guest.
     
     *   Log In
-    *   |
-    *   Register
+    |*   Register
     
     Guest Loyalty Rewards
     
     Join now to start earning!
 *   MY FAVORITESLogin to save favorite items to your Buckle account.
     *   Login
-    *   |
-    *   Register
+    |*   Register
 *   MY BAG
 
 *   Women
@@ -359,7 +357,7 @@ SELECT SALE DENIM IS AN EXTRA 10% OFF - SHOP NOW!
         *   Men’s Factory Seconds
         *   Shop All Factory SecondsGive a Buckle Gift card
 
-SubmitPrivacy &. Security  
+SearchSubmitPrivacy &. Security  
 
 **Buckle Privacy &. Security Policy**
 
