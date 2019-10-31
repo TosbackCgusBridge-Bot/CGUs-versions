@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   30\. Oktober 2019
+*   31\. Oktober 2019
 *   Abo
-*   DAX 12.939,62ǀ
+*   DAX 12.910,23ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
