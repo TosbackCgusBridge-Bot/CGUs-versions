@@ -27,11 +27,13 @@ More Pages Privacy
     *   AutoCount®
     *   Business Verification by Phone
     *   Client Registration
-    *   ConsumerInfo.com Policy
+    *   ConsumerInfo.com, Inc. Policy
+    *   CSID Privacy Policy
     *   Data SelectSM
     *   Experian EU-U.S. Privacy Shield Privacy Policy
     *   Experian ConnectSM
     *   Experian’s Usage of Marketing Data
+    *   IDnotify Privacy Policy
     *   Online Business Credit Reports
     *   Online Credit Reports
     *   Permission Email
