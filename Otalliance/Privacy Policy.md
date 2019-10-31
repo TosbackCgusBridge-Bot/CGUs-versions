@@ -57,6 +57,7 @@
     *   Events
         *   All Events
         *   African Peering and Interconnection Forum (AfPIF)
+        *   Community Network Summits
         *   IETF Meetings
         *   InterCommunity
         *   NDSS Symposium
