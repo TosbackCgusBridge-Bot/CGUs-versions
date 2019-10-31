@@ -4,7 +4,7 @@ Wanneer u onze services gebruikt, vertrouwt u ons uw gegevens toe. We begrijpen 
 
 Dit privacybeleid is bedoeld om u inzicht te geven in de gegevens die we verzamelen, waarom we deze gegevens verzamelen en hoe u deze gegevens kunt updaten, beheren, exporteren en verwijderen.
 
-Datum van inwerkingtreding 15 oktober 2019 | Gearchiveerde versies | Pdf downloadenInhoudsopgaveInleidingGegevens die Google verzameltWaarom Google gegevens verzameltUw privacyoptiesUw gegevens delenUw gegevens veilig houdenUw gegevens exporteren en verwijderenNaleving en samenwerking met regelgevende instantiesOver dit beleidGerelateerde privacyprocedures
+Datum van inwerkingtreding 15 oktober 2019 | Gearchiveerde versies | Pdf downloadenInhoudsopgaveInleidingGegevens die Google verzameltWaarom Google gegevens verzameltUw privacyoptiesUw gegevens delenUw gegevens veilig houdenUw gegevens exporteren en verwijderenJe gegevens bewarenNaleving en samenwerking met regelgevende instantiesOver dit beleidGerelateerde privacyprocedures
 
 We bouwen een reeks services waarmee miljoenen mensen dagelijks de wereld op nieuwe manieren kunnen verkennen en er interactie mee kunnen hebben. Onze services bestaan onder meer uit:
 
