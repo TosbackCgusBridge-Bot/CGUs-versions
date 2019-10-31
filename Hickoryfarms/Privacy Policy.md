@@ -6,6 +6,7 @@
     *   Sweet &. Savory Gifts
     *   Gift Boxes
     *   Gift Towers &. Crates
+    *   California Gift Baskets
     
     Occasions*   Thanksgiving Gifts
     *   Christmas Gifts
@@ -96,6 +97,7 @@
     *   Sweet &. Savory Gifts
     *   Gift Boxes
     *   Gift Towers &. Crates
+    *   California Gift Baskets
     
     Occasions*   Thanksgiving Gifts
     *   Christmas Gifts
