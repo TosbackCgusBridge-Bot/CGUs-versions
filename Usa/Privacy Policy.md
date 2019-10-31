@@ -6,6 +6,8 @@ Change country/language X
 
 Autodesk logo
 
+*   0
+
 *   Sign In
     
     Autodesk Account
@@ -164,7 +166,7 @@ Free trial
 
 Subscribe
 
-—/year
+$1,610.00/year
 
 Cost-effective 2D CAD
 
@@ -174,7 +176,9 @@ Free trial
 
 Subscribe
 
-—/year
+$320.00/year
+
+$400.00
 
 Get Revit LT and AutoCAD LT together at a great value
 
@@ -184,9 +188,9 @@ Free trial
 
 Subscribe
 
-—/year
+$420.00/year
 
-Try, buy, or learn more about Autodesk products See all products Autodesk University Las Vegas | November 18–21, 2019 Experience what’s next for your industry at AU Las Vegas
+$525.00 Try, buy, or learn more about Autodesk products See all products Autodesk University Las Vegas | November 18–21, 2019 Experience what’s next for your industry at AU Las Vegas
 
 Join 10,000+ professionals in construction, manufacturing, architecture, engineering, and media creation for four days of learning and networking at Autodesk’s annual conference.
 
@@ -207,7 +211,7 @@ See what's included
 
 Product details
 
-\---/year
+$2,825.00/year
 
 Subscribe
 
@@ -217,9 +221,9 @@ See what's included
 
 Product details
 
-\---/year
+$2,590.00/year
 
-Subscribe FEEDBACK FOLLOW AUTODESK
+Subscribe Feedback FOLLOW AUTODESK
 
 *   Facebook
 *   Instagram
