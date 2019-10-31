@@ -36,11 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off full-price styles plus free 2-day shipping!
+Receive 40% off your order!
 
-Only 0 HR 08 MIN 53 SEC Left!
-
-code: EERIE pin: PROMOTION DETAILS
+code: FAMILY pin: PROMOTION DETAILS
 
 Customer Service Menu
 
