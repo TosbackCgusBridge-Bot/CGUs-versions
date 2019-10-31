@@ -35,16 +35,16 @@ MAKE YOUR GUESTS FEEL AT HO-HO-HOME select styles
 *   MATTRESSES
 *   HOME DÉCOR
 
-THE LOCAL LOOKLocally curated, universally lovedUP TO 50% OFFHALLOWEEN DECORselect styles Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 24 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+THE LOCAL LOOKLocally curated, universally lovedUP TO 50% OFFHALLOWEEN DECORselect styles Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 34 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   $2879after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(38)
-*   $2879after couponwas $60 Arizona Womens Yetta Block Heel Lace Up Boots(32)
+*   $2879after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(45)
 *   $399 - $2799after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(232)
-*   $3199after couponwas $70 a.n.a Womens Alford Stacked Heel Motorcycle Boots(17)
+*   $2879after couponwas $60 Arizona Womens Yetta Block Heel Lace Up Boots(37)
+*   $3199after couponwas $70 a.n.a Womens Alford Stacked Heel Motorcycle Boots(18)
 *   $1779 - $4159 clearance
     
     was $59.50 | 30 - 70% offLevi's® Pull on Pant(16)
-*   $3999after couponwas $80 Arizona Womens Dino Wide Calf Riding Boots Block Heel
+*   $1199after couponwas $32 St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(17)
 
 Shop and Save at JCPenney
 
