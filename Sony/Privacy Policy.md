@@ -123,7 +123,7 @@ Play “MediEvil” on PS4™
 
 PS4’s new 7.00 update adds new Party enhancements and brings Remote Play to devices running Android 5.0 or higher. Full details:  http://play.st/2oUxgic  pic.twitter.com/DDg7Ev3Bba
 
-2 days ago View Tweet Instagram Post B3-rkFzl0hG
+3 days ago View Tweet Instagram Post B3-rkFzl0hG
 
 Escape Into
 
