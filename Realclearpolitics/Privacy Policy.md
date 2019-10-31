@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Robert Fisk_: Trump Killed Baghdadi, But He's Brought ISIS Back to Life
+*   _Conrad Black_: The 'Demedia's' Impeachment Beat Goes On
     
-*   _Jonathan Tobin_: The Pathetic Push to Deny Trump Credit for Getting Baghdadi
+*   _Elizabeth Holtzman_: Trump's Ukraine Affair Every Bit as Bad as Watergate
     
-*   _Katrina vanden Heuvel_: The Democratic Establishment Is Right to Panic
+*   _Peter J. Wallison_: Factually Weak Impeachment Will Alter Nature of Our Govt
     
-*   _Roger Kimball_: Schumer Wants to Repeal Private Health Insurance
+*   _Leonard Pitts_: The People Are Sick and Tired of President Trump
     
-*   _Nancy Jacobson_: Americans Want Politicians to Fix Problems, Not Fight
+*   _Jonathan Turley_: Dems Doth Protest Too Much Against Durham Investigation
     
-*   _Stephen Collinson_: Pelosi Gives GOP What They Want - &. Trump May Regret It
+*   _Kendall Brown_: Targeting of Rep. Katie Hill Is a Warning Shot to Women
     
-*   _Julie Kelly_: Obama Hunted Trump Campaign Aides Instead of Terrorists
+*   _Robert Stacy McCain_: Media Promote Hill’s Dishonest Victimhood Tale
     
-*   _Dylan Scott_: The Big Difference in 2020 Health Plans Isn't Among Democrats
+*   _David Faris_: Why Amy Klobuchar Is Moderate Democrats' Only Hope
     
-*   _John Blanton_: Why It's Smart for the GOP to Act on Prescription Drug Prices
+*   _Philip Wegmann_: Facing Recall, Alaska Governor Sees Kindred Spirit in Trump
     
-*   _Nathan Robinson_: Katie Hill's Resignation Is a Travesty
+*   _Michael Mann_: Climate Change Is Burning Down California
     
-*   _Susan Crabtree_: Hill's Exit Renews #MeToo Anxiety in Washington
+*   _Rich Lowry_: California Is ‘Winning’ Its Way Into the Stone Age
     
-*   _Salena Zito_: Will the Democrats Miss Middle America Again?
+*   _Robert Baird_: Impeachment Tests How Far GOP Will Go to Defend Trump
     
-*   _Jake Maher_: How Democrats Can Win Back the Swing States
+*   _Michael Goodwin_: History Will Not Be Kind to Nancy Pelosi
     
-*   _E. Donald Elliott_: James Comey's Revenge Is Changing Our Constitution
+*   _Amelia Thomson-DeVeaux_: Why Dems Are Moving Quickly With Impeachment
     
-*   _Aaron Mate_: Why Investigating the Investigators Is Important
+*   _Charles Lipson_: Democracy Dies in Derangement Too
     
-*   _Russell Berman_: Nancy Pelosi's Big Move
+*   _Paul Waldman_: William Barr &. the Corruption of the DoJ
     
-*   _Betsy McCaughey_: Calling Pelosi and Schiff's Bluff
+*   _Lee Smith_: How the Obama Admin Set In Motion Its Coup Against Trump
     
-*   _Frida Ghitis_: Trump Using Baghdadi's Death to Distract From His Failures
+*   _Hamilton Nolan_: Why Are Dem Elites So Desperate for a Centrist in 2020?
     
-*   _Greg Gutfeld_: Baghdadi Died - And So Did the Media's Credibility
+*   _Curt Mills_: Is Elizabeth Warren the New Ted Cruz?
     
-*   _Eric Levitz_: Chanting 'Lock Him Up' at Trump Is Good for Democracy
+*   _Robert Reich_: 2020 Election Is About Oligarchy vs Democracy
     
-*   _Brian Joondeph_: Yes, the Walls Are Closing In — But Not on Trump
+*   _Stephen MacLean_: Brexit: Prometheus Bound
     
-*   _Froma Harrop_: Is Klobuchar the Heartland Moderate Democrats Need?
+*   _Hal Brands_: China Is Determined to Reshape the Globe
     
-*   _John Feehery_: What Republicans Can Do to Win Back the Suburbs
+*   _Matt Taibbi_: Baghdadi Story Reveals Divided (and Broken) News Media
     
-*   _Susan Crabtree_: Obama Stimulus Shadows Tillis-Tucker Senate Race in N.C.
+*   _John Nichols_: Booing a Lawless President Is a Patriotic Act
     
 
 *   Previous
@@ -235,8 +235,8 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Katie Hill's Exit Renews #MeToo Anxiety in Washington
 *   Obama Stimulus Shadows Tillis-Tucker Senate Race in N.C.
-*   The Tip, the Raid, the Reveal: The Takedown of al-Baghdadi
 *   Barr: Durham's Progress Due to Outstanding Support From FBI &. Wray
 *   Growing Uncertainty Looms Over Dems' 2020 Primary
 *   2019 Campus Speech Survey: The Best/Worst Schools
@@ -252,55 +252,48 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   New Hampshire Democratic Presidential PrimaryCNN/UNH
-    *   Warren18
-    *   Biden15
-    *   Sanders21
+*   2020 Democratic Presidential NominationUSA Today/Suffolk
+    *   Biden26
+    *   Warren17
+    *   Sanders13
     *   Buttigieg10
     *   Harris3
-    *   Yang5
-    *   Klobuchar5
-    *   Gabbard5
-    *   Steyer3
-    *   Booker2
-    *   O'Rourke2
-    *   Sestak1Sanders +3
-*   Arizona Democratic PrimaryEmerson
-    *   Biden28
-    *   Warren21
-    *   Sanders21
-    *   Buttigieg12
-    *   Yang5
-    *   Harris4
-    *   Klobuchar2
-    *   Gabbard2
-    *   O'Rourke2
-    *   Sestak1Biden +7
-*   2020 Democratic Presidential NominationPolitico/Morning Consult
-    *   Biden32
-    *   Warren20
-    *   Sanders20
-    *   Buttigieg7
-    *   Harris6
     *   Yang3
-    *   O'Rourke2
+    *   O'Rourke0
     *   Klobuchar2
+    *   Gabbard4
     *   Booker2
+    *   Steyer1
+    *   Castro0
+    *   Bennet0Biden +9
+*   2020 Democratic Presidential NominationEconomist/YouGov
+    *   Biden27
+    *   Warren23
+    *   Sanders14
+    *   Buttigieg7
+    *   Harris4
+    *   Yang3
+    *   O'Rourke4
+    *   Klobuchar2
     *   Gabbard2
+    *   Booker1
     *   Steyer1
     *   Castro1
-    *   Bennet1Biden +12
-*   Arizona: Trump vs. BidenEmerson
-    *   Biden50
-    *   Trump50Tie
+    *   Bennet1Biden +4
+*   President Trump Job ApprovalUSA Today/Suffolk
+    *   Approve46
+    *   Disapprove52Disapprove +6
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve47
+    *   Disapprove52Disapprove +5
 
 More Latest Polls In The News
 
+*   DWS vs. Cuccinelli: You Pursue "Heinous White Supremacist" Ideology At All Costs, Children Are Collateral Damage
+*   Graham: "Un-American" Impeachment Conducted By "Sore Losers" With Only A "Crumb Of Due Process"
+*   Obama Blasts "Woke" Culture: "That Is Not Activism," Get Over Calling People Out And Casting Stones
 *   Brokaw: Trump Impeachment Like A T.V. "Game Show". Don't Know What You Can Believe And What You Can't
 *   Biden: ISIS Leader Killed "In Spite" Of Trump's Actions. "Should Stay In His Lane, Listen To The Military"
-*   WSJ's Strassel: "Do We Really Want Impeachment To Be The Way That We Settle Debates In This Country?"
-*   Barr: Durham Progress Due To Outstanding Support From FBI &. Wray, "Let The Chips Fall Where They May"
-*   Bannon Warns Republicans To "Wake Up," Pelosi's Impeachment Strategy Is "Winning Right Now"
 
 *   Politics
 *   Policy
