@@ -79,6 +79,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Explore Content
     *   Movie Reviews
+    *   Star Wars Guide
     *   Indie Movie Guide
     *   Family Guide
     *   House Of Screams
@@ -297,9 +298,9 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   Your Early Access to 'Stephen King's Doctor Sleep'
+*   Get a $10 Reward
     
-    See it first on October 30th! BUY TICKETS
+    When you spend $30 on Unilever Personal Care Products at participating stores. SEE DETAILS
     
 *   FandangoNOW Fresh Picks
     
