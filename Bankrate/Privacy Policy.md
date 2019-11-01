@@ -22,7 +22,7 @@
     *   What to know about reverse mortgages
     *   Home buying guide
     *   Refinance your mortgage
-    *   First-time homebuyer grants and programs
+    *   First-time homebuyer loans and programs
     *   Prepaying your mortgage
     *   Your guide to FHA loans
     *   Everything to know about VA loans
