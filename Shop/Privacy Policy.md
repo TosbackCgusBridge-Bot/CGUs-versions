@@ -84,8 +84,8 @@ Lenovo Explore Close
         *   Best Selling Workstations
         *   ThinkPad P53
         *   ThinkPad P1 Gen 2
-        *   ThinkPad P53s
         *   ThinkPad P73
+        *   ThinkPad P53s
         *   ThinkStation P330 Tiny
         *   ThinkStation P330 Tower
         
@@ -166,6 +166,7 @@ Lenovo Explore Close
         *   Explore Monitors
         *   Monitors for Work
         *   Monitors for Home
+        *   Monitors for Gaming
         *   High-Resolution Monitors
         *   View All Monitors
         
@@ -197,18 +198,18 @@ Lenovo Explore Close
         *   View All Gaming
         
         *   Featured
+        *   Gaming Monitors
         *   Accessory Deals
         *   PC Gaming
         *   Gaming PC Deals
         *   Nintendo
         
         *   New in Gaming
+        *   Oculus Rift S
         *   H500 Headset
         *   IdeaPad L340 Laptop
         *   K500 Keyboard
         *   Legion Y540 Laptop
-        *   Oculus Rift S
-        *   Xbox Gears 5 Bundle
         
         Everything Gaming
         
@@ -289,6 +290,7 @@ Lenovo Explore Close
         *   Gaming PC Deals
         
         *   Other Weekly Deals
+        *   Black Friday eCatalog
         *   Monitor Deals
         *   Workstations Deals
         *   Accessories &. Electronics
@@ -296,6 +298,7 @@ Lenovo Explore Close
         *   Electronic Deals
         
         *   Additional Offers
+        *   Black Friday eCatalog
         *   Clearance
         *   Financing Options
         *   Discount Programs
