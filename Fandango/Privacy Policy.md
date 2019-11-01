@@ -24,7 +24,6 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Harriet (2019)
     *   Motherless Brooklyn
     *   Terminator: Dark Fate
-    *   Fandango Early Access: Doctor Sleep
     *   Inside Game
     *   The Portal
     *   See All Opening This Week
@@ -298,21 +297,21 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   Get a $10 Reward
-    
-    When you spend $30 on Unilever Personal Care Products at participating stores. SEE DETAILS
-    
 *   FandangoNOW Fresh Picks
     
     100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
+    
+*   Every 4 Tickets = $5 For You
+    
+    Buy tickets. Earn points. Get a $5 reward for a movie on us. BUY TICKETS
     
 *   Get a $13 Movie Ticket to see 'The Addams Family'
     
     When you purchase 2 Hershey's Halloween Assortment Bags. SEE DETAILS
     
-*   Every 4 Tickets = $5 For You
+*   Get a $10 Reward
     
-    Buy tickets. Earn points. Get a $5 reward for a movie on us. BUY TICKETS
+    When you spend $30 on Unilever Personal Care Products at participating stores. SEE DETAILS
     
 
 New + Coming soon
