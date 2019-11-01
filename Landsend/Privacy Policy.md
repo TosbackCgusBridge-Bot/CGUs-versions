@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off your order!
+Receive 50% off all coats &. jackets. 40% off all other styles!
 
-code: FAMILY pin: PROMOTION DETAILS
+code: WITCH pin: PROMOTION DETAILS
 
 Customer Service Menu
 
