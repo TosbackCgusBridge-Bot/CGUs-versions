@@ -83,7 +83,7 @@
     *   Gifts for Her
     *   Gifts for Him
     *   Thank You Gifts
-    *   Sympathy Gifts
+    *   Sympathy GiftsMost Popular Thanksgiving
 *   Business Gifts
 *   Sale
 
@@ -174,7 +174,7 @@
     *   Gifts for Her
     *   Gifts for Him
     *   Thank You Gifts
-    *   Sympathy Gifts
+    *   Sympathy GiftsMost Popular Thanksgiving
 *   Business Gifts
 *   Sale
 
