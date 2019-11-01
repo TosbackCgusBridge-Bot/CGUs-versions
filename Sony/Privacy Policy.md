@@ -61,10 +61,9 @@ Main menuSONY
     *   Marine Audio
     *   Automotive OEM Audio
     
-    View AllEnergy, Storage &. Cables
+    View AllStorage &. Cables
     
     *   All Energy, Storage &. Cables products
-    *   Batteries
     *   Memory cards
     *   Cables
     
@@ -99,6 +98,18 @@ Main menuSONY
 
 Search Sony
 
+New Faces in New Places Come Together for Another Round of Jumanji
+
+Watch the Final Trailer for “Jumanji: The Next Level”
+
+Play video: New Faces in New Places Come Together for Another Round of Jumanji Close video: New Faces in New Places Come Together for Another Round of Jumanji
+
+*   Share on Facebook: New Faces in New Places Come Together for Another Round of Jumanji
+*   Share on Twitter: New Faces in New Places Come Together for Another Round of Jumanji
+*   Copy URL to Share: New Faces in New Places Come Together for Another Round of Jumanji
+
+<img class="bg-img video-F6QaLsw8EWY" data-linkname="en:set\_e:position\_1|\_5x2-1:video:movies:Jumanji2Trailer-October-31-2019:sp:image:F6QaLsw8EWY" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="New Faces in New Places Come Together for Another Round of Jumanji F6QaLsw8EWY Jumanji-2-Trailer" data-img1x="/content/dam/sony/homepage/2019-october/10-28/jumanji-the-next-level-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-october/10-28/jumanji-the-next-level-1276x500.jpg" src="/content/dam/sony/homepage/2019-october/10-28/jumanji-the-next-level-1276x500.jpg" alt="New Faces in New Places Come Together for Another Round of Jumanji"/>. <img class="bg-img video-F6QaLsw8EWY" alt="New Faces in New Places Come Together for Another Round of Jumanji Mobile" data-linkname="en:set\_e:position\_1|\_5x2-1:video:movies:Jumanji2Trailer-October-31-2019:sp:image-mobile:F6QaLsw8EWY" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="New Faces in New Places Come Together for Another Round of Jumanji F6QaLsw8EWY Jumanji-2-Trailer" data-img1x="/content/dam/sony/homepage/2019-october/10-28/jumanji-the-next-level-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-october/10-28/jumanji-the-next-level-1276x500.jpg" src="/content/dam/sony/homepage/2019-october/10-28/jumanji-the-next-level-600x600.jpg"/>.
+
 “The Grudge”: A Twisted New Vision Comes to Life in January 2020
 
 Watch the Trailer
@@ -123,7 +134,7 @@ Play “MediEvil” on PS4™
 
 PS4’s new 7.00 update adds new Party enhancements and brings Remote Play to devices running Android 5.0 or higher. Full details:  http://play.st/2oUxgic  pic.twitter.com/DDg7Ev3Bba
 
-3 days ago View Tweet Instagram Post B3-rkFzl0hG
+4 days ago View Tweet Instagram Post B3-rkFzl0hG
 
 Escape Into
 
