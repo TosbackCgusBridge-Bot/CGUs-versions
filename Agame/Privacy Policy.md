@@ -117,8 +117,8 @@ View more results
     *   Fireboy and Watergirl 5: Elements
     *   Chrome Dino
     *   Boeing Flight Simulator
-    *   Five Nights at Freddy's 5
     *   Slope: Neon Ball Rolling Game
+    *   Five Nights at Freddy's 5
     *   Five Nights at Freddy's 4
     *   Mine Clone 4
 *   Top Categories
@@ -173,7 +173,6 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Pixel Art: Color by Number
     *   Ellie: Get Ready With Me
     *   Super Speed Racer
     *   Pizza Real Life Cooking
@@ -185,6 +184,7 @@ View more results
     *   Secret Office Kissing
     *   Extreme Dental Emergency
     *   Love Tester Deluxe 2
+    *   Vincy Lip Care
 *   Top Categories
     
     *   BMX Games
@@ -209,8 +209,8 @@ View more results
     *   Highway Rider Extreme: Motorbike Game 3D
     *   Agame Stunt Cars
     *   Hill Racing Challenge
-    *   Moto X3M: Motorcycle Racing Game
     *   Super Speed Racer
+    *   Moto X3M: Motorcycle Racing Game
     *   Madalin Cars Multiplayer
     *   Murder
     *   Uphill Rush 7: Waterpark
@@ -454,3 +454,5 @@ Languages
 *   Nederlands
 
 Copyright © 2019 SPIL GAMES All rights reserved.
+
+Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. (e.g IP Address) To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them. Your data may be stored by us and our service providers. In case the applicable data protection laws provide so, you may access, rectify, and erase the data or you may restrict or object to our processing of your data. Please contact us in such event. Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click "ACCEPT" to agree with the above mentioned. You can change your mind and change your consent choices at any time by returning to this site.AcceptSettingsVendor List | Privacy policy | FeaturesA reminder you can control your user privacy preferenceshere
