@@ -67,12 +67,13 @@ Thomson Reuters Legal
 
 1.  Home
 2.  Products
-3.  Legal Current Events | Westlaw Practitioner Insights
+3.  Westlaw
+4.  Legal Current Events | Westlaw Practitioner Insights
 
 Legal research
 
-**Westlaw** Practitioner Insights  
-Start your day in the know with up-to-the-minute legal developments in your practice area  
+**Practitioner** Insights  
+Start your day with up-to-the-minute legal developments in your practice area  
 Free trial Overview
 
 1.  Overview
