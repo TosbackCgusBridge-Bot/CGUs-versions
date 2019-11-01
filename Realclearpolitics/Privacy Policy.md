@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Conrad Black_: The 'Demedia's' Impeachment Beat Goes On
+*   _Peter Van Buren_: Pelosi Is Blowing Smoke--Will It Backfire on Dems?
     
-*   _Elizabeth Holtzman_: Trump's Ukraine Affair Every Bit as Bad as Watergate
+*   _Amanda Marcotte_: Impeachment Starts for Real--Republicans Won't Like It
     
-*   _Peter J. Wallison_: Factually Weak Impeachment Will Alter Nature of Our Govt
+*   _Karl Rove_: Biden's Ukraine Dealings Will Dog His Campaign
     
-*   _Leonard Pitts_: The People Are Sick and Tired of President Trump
+*   _Albert Hunt_: Democrats Search for a 2020 White Knight--Don't Bet on it
     
-*   _Jonathan Turley_: Dems Doth Protest Too Much Against Durham Investigation
+*   _Ed Kilgore_: Campaign Death Watch Season Begins
     
-*   _Kendall Brown_: Targeting of Rep. Katie Hill Is a Warning Shot to Women
+*   _Coleman Hughes_: How to Be an Anti-Intellectual
     
-*   _Robert Stacy McCain_: Media Promote Hill’s Dishonest Victimhood Tale
+*   _Benjamin Rolsky_: Kanye West Wrestles With God, Not Support for Trump
     
-*   _David Faris_: Why Amy Klobuchar Is Moderate Democrats' Only Hope
+*   _Chuck DeVore_: Blame Dems, Not Climate Change, for CA Fires, Blackouts
     
-*   _Philip Wegmann_: Facing Recall, Alaska Governor Sees Kindred Spirit in Trump
+*   _John Mulholland_: Why Climate Crisis Is the Most Crucial Story We Cover
     
-*   _Michael Mann_: Climate Change Is Burning Down California
+*   _Nick Gillespie_: Freedom of Speech Is Bad, Says Former Time Editor
     
-*   _Rich Lowry_: California Is ‘Winning’ Its Way Into the Stone Age
+*   _Carl Cannon_: Halloween at the White House: A Spirited Discussion
     
-*   _Robert Baird_: Impeachment Tests How Far GOP Will Go to Defend Trump
+*   _Jeff Greenfield_: When JFK Was Trump
     
-*   _Michael Goodwin_: History Will Not Be Kind to Nancy Pelosi
+*   _Byron York_: Today's House Vote: The Adam Schiff Empowerment Act
     
-*   _Amelia Thomson-DeVeaux_: Why Dems Are Moving Quickly With Impeachment
+*   _Steve Israel_: Why Dems' Impeachment Move Will Haunt Trump, Republicans
     
-*   _Charles Lipson_: Democracy Dies in Derangement Too
+*   _Erielle Davidson_: When Do Biden 'Coincidences' Become Sheer Corruption?
     
-*   _Paul Waldman_: William Barr &. the Corruption of the DoJ
+*   _Ronald Brownstein_: Nancy Pelosi's Predictions for Impeachment
     
-*   _Lee Smith_: How the Obama Admin Set In Motion Its Coup Against Trump
+*   _Paul Sperry_: Beltway 'Whistleblower' Furor Obsesses Over One Name
     
-*   _Hamilton Nolan_: Why Are Dem Elites So Desperate for a Centrist in 2020?
+*   _Jamelle Bouie_: Impeachment Is Not a Coup
     
-*   _Curt Mills_: Is Elizabeth Warren the New Ted Cruz?
+*   _Miranda Devine_: Mismanagement, Stubbornness Have Set California Ablaze
     
-*   _Robert Reich_: 2020 Election Is About Oligarchy vs Democracy
+*   _David Perry_: Explaining to My Children Why the World Is Burning
     
-*   _Stephen MacLean_: Brexit: Prometheus Bound
+*   _John Koufos_: Criminal Justice Reform Is About People, Not Posturing
     
-*   _Hal Brands_: China Is Determined to Reshape the Globe
+*   _Andrew Walker_: Kanye's Conversion Could Be a Cultural Wrecking Ball
     
-*   _Matt Taibbi_: Baghdadi Story Reveals Divided (and Broken) News Media
+*   _Dahlia Lithwick_: Why I Haven't Gone Back to SCOTUS Since Kavanaugh
     
-*   _John Nichols_: Booing a Lawless President Is a Patriotic Act
+*   _Susan Crabtree_: Longtime Dem Donor Tied to Trump Nominee's Low ABA Score
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Impeachment Inquiry Vote: How Democrats Came to This
+*   Longtime Dem Donor Tied to Poor ABA Rating of Trump Nominee
+*   Pentagon Reveals Video Of al-Baghdadi Raid
+*   Facing Recall, Alaska Governor Sees Kindred Spirit in Trump
 *   Katie Hill's Exit Renews #MeToo Anxiety in Washington
-*   Obama Stimulus Shadows Tillis-Tucker Senate Race in N.C.
-*   Barr: Durham's Progress Due to Outstanding Support From FBI &. Wray
-*   Growing Uncertainty Looms Over Dems' 2020 Primary
-*   2019 Campus Speech Survey: The Best/Worst Schools
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,48 +252,34 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationUSA Today/Suffolk
-    *   Biden26
-    *   Warren17
-    *   Sanders13
-    *   Buttigieg10
-    *   Harris3
-    *   Yang3
-    *   O'Rourke0
-    *   Klobuchar2
-    *   Gabbard4
-    *   Booker2
-    *   Steyer1
-    *   Castro0
-    *   Bennet0Biden +9
-*   2020 Democratic Presidential NominationEconomist/YouGov
-    *   Biden27
-    *   Warren23
-    *   Sanders14
-    *   Buttigieg7
-    *   Harris4
-    *   Yang3
-    *   O'Rourke4
+*   Pennsylvania Democratic Presidential PrimaryFranklin &. Marshall
+    *   Biden30
+    *   Warren18
+    *   Sanders12
+    *   Buttigieg8
+    *   Bennet2
     *   Klobuchar2
     *   Gabbard2
-    *   Booker1
-    *   Steyer1
-    *   Castro1
-    *   Bennet1Biden +4
-*   President Trump Job ApprovalUSA Today/Suffolk
-    *   Approve46
-    *   Disapprove52Disapprove +6
+    *   Harris1
+    *   Yang1
+    *   Booker1Biden +12
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve41
+    *   Disapprove57Disapprove +16
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove52Disapprove +5
+    *   Approve45
+    *   Disapprove54Disapprove +9
+*   Direction of CountryReuters/Ipsos
+    *   Right Direction33
+    *   Wrong Track58Wrong Track +25
 
 More Latest Polls In The News
 
-*   DWS vs. Cuccinelli: You Pursue "Heinous White Supremacist" Ideology At All Costs, Children Are Collateral Damage
-*   Graham: "Un-American" Impeachment Conducted By "Sore Losers" With Only A "Crumb Of Due Process"
+*   Schiff: Given The Circus-Like Stunts By Republicans, "We Can't Surrender The Process To The Minority Party"
+*   Collins Challenges Schiff: Be The First Witness, Take Every Question Asked Of You. "This Ain't Over, Get Ready"
+*   McCabe: Will Republicans Cross The Rubicon And Admit Trump's Ukraine Call Was An Abuse Of Power?
+*   Zeldin: Biden Should Not Be Immune From Scrutiny Just Because He Is Running For President
 *   Obama Blasts "Woke" Culture: "That Is Not Activism," Get Over Calling People Out And Casting Stones
-*   Brokaw: Trump Impeachment Like A T.V. "Game Show". Don't Know What You Can Believe And What You Can't
-*   Biden: ISIS Leader Killed "In Spite" Of Trump's Actions. "Should Stay In His Lane, Listen To The Military"
 
 *   Politics
 *   Policy
