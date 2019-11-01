@@ -1,4 +1,3 @@
-*   SF7-0ARI3-4-1Thu, 8:20 pm ET
 *   HOU5-3JAX4-4Sun, 9:30 am ET
 *   IND5-2PIT3-4Sun, 1:00 pm ET
 *   CHI3-4PHI4-4Sun, 1:00 pm ET
@@ -12,6 +11,7 @@
 *   CLE2-5DEN2-6Sun, 4:25 pm ET
 *   NE8-0BAL5-2Sun, 8:20 pm ET
 *   DAL4-3NYG2-6Mon, 8:15 pm ET
+*   SF8-028ARI3-5-125Final
 
 *   News
 *   Scores
@@ -35,7 +35,6 @@
 *   NFL Films
 *   Game Pass
 
-*   SF7-0ARI3-4-1Thu, 8:20 pm ET
 *   HOU5-3JAX4-4Sun, 9:30 am ET
 *   IND5-2PIT3-4Sun, 1:00 pm ET
 *   CHI3-4PHI4-4Sun, 1:00 pm ET
@@ -49,6 +48,7 @@
 *   CLE2-5DEN2-6Sun, 4:25 pm ET
 *   NE8-0BAL5-2Sun, 8:20 pm ET
 *   DAL4-3NYG2-6Mon, 8:15 pm ET
+*   SF28ARI25Final
 
 *   News
 *   Scores
