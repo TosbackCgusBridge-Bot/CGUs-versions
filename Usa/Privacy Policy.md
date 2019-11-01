@@ -152,7 +152,7 @@ ENTERTAINMENT COLLECTION
 
 Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Image courtesy of Volkswagen Promo Data: FY20 Q3 - October Flash
 
-Special fall offer
+Final hours
 
 Save up to 25% on AutoCAD LT and more.
 
