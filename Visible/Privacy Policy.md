@@ -75,7 +75,7 @@ VII.    NEVADA PRIVACY RIGHTS
 
 Nevada customers can opt out of the potential future sale of their personal information
 
-Visible doesn’t sell personal information today and we don’t have plants to start. However, Nevada customers can opt out now should we ever change our practices and offer information for sale in the future.
+Visible doesn’t sell personal information today and we don’t have plans to start. However, Nevada customers can opt out now should we ever change our practices and offer information for sale in the future.
 
 Nevada law defines “sale” as the exchange of certain customer information for money, where the recipient also intends to sell that information. Customer information includes name, address, phone number, SSN, or any identifier that can be used to contact you electronically.
 
