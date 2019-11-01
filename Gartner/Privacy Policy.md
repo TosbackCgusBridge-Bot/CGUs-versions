@@ -61,7 +61,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 343 5286 1 855 343 5286
+    1 855 845 6138 1 855 845 6138
     
 
 *   Solutions By Function
@@ -127,7 +127,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 343 5286 1 855 343 5286
+    1 855 845 6138 1 855 845 6138
     
 
 GARTNER PRIVACY POLICY Effective Date: October 2019
