@@ -128,7 +128,7 @@ The Latest News
 
 ←
 
-See our case study See our case study See our case study See our case study See our case study See our case study
+See our case study See our case study See our case study See our case study See our case study
 
 See our case study See our case study →
 
@@ -137,7 +137,6 @@ See our case study See our case study →
 *   3
 *   4
 *   5
-*   6
 
 New Research  
 Is your identity program built on a house of cards?  
