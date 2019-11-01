@@ -210,23 +210,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   The 8-inch floppy disk goes the way of the musket
-    *   Phishing scam behind Kalispell Regional Healthcare data breach
-    *   New MedusaLocker ransomware looks to make a monster profit
-    *   NordVPN confirms 2018 breach
-    *   Barr proposes expanding the collection DNA samples for immigrants, creating database
-    
-    *   Unsupported D-Link routers vulnerable to RCE flaws
-    *   Elijah Cummings aviation covert testing bill, other legislation move through Congress
-    *   Google Play adware campaign taken down, developer identified
-    *   Mind Your Own Business Act beefs up privacy protections, gives consumers dominion over data, punishes execs
-    *   UN, NGOs targeted by ongoing phishing attack
-    
-    *   Cyber awareness starts with vulnerability awareness
-    *   UniCredit data breach impacts 3 million Italians
-    *   New GlitchPOS credit card stealer malware found for sale
-    *   Microsoft: Russia again hacks anti-doping and sports agencies
+    *   Phishing scam targets users of Stripe payment processing service
     *   Data breach causes 10 percent of small businesses to shutter
+    *   Mind Your Own Business Act beefs up privacy protections, gives consumers dominion over data, punishes execs
+    *   GOP lawmakers storm SCIF during impeachment inquiry, breach security with cell phones
+    *   Cyber defense is a team sport -- Train accordingly
+    
+    *   DDoS attack sidelines AWS DNS web service for hours
+    *   NordVPN confirms 2018 breach
+    *   Podcast: Eric O’Neill on bringing down Robert Hanssen
+    *   Tips for those of all ages interested in pursuing a career in cybersecurity
+    *   Malicious voice apps can turn Alexa and Google Home devices into spies, say researchers
+    
+    *   Facebook sues surveillance tool provider and hosts of hacking websites
+    *   Xhelper ad dropper adds to its list of victims
+    *   We interviewed cyber experts on a Vegas ferris wheel. Then ride security showed up...
+    *   Untitled Goose Game RCE flaw revealed
+    *   Bed Bath &. Beyond declares data incident
 
 Back to Top
 
