@@ -35,7 +35,6 @@ SELECT SALE DENIM IS AN EXTRA 10% OFF - SHOP NOW!
         *   Brill Boutique
         *   Buckle Exclusives
         *   buckle SELECT
-        *   Game Day Shop
         *   Gift Cards
         *   Now Trending
         *   Shop by Outfit
@@ -105,7 +104,6 @@ SELECT SALE DENIM IS AN EXTRA 10% OFF - SHOP NOW!
         *   New Arrivals
         *   Buckle Exclusives
         *   buckle SELECT
-        *   Game Day Shop
         *   Gift Cards
         *   Men's Brands
         *   Now Trending
