@@ -322,7 +322,7 @@ If you have questions about this Privacy Policy, here’s how you can reach us:
 
 **If you live in the European Union** :
 
-Online: Feedback Form
+Online: E-mail us at support@okcupid.com
 
 By post:
 
@@ -335,7 +335,7 @@ Ireland
 
 **If you live outside the European Union** :
 
-Online: Feedback Form
+Online: E-mail us at support@okcupid.com
 
 By post:
 
@@ -383,7 +383,7 @@ You need to complete your basic info on the mobile app before you can use the de
 *   Support
 *   Blog
 *   Tech Blog
-*   Gay Dating
+*   Bisexual Dating
 *   Privacy Policy
 *   Cookie Policy
 *   Terms and Conditions
