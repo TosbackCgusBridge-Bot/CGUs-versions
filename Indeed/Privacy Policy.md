@@ -32,7 +32,7 @@ Last Updated: October 31, 2019
 
 We’ve moved this section to our Privacy Center. Please click here to view Indeed’s Privacy Policy.
 
-**13\. Your California Privacy Rights**  
+**Your California Privacy Rights**  
 
 Under California’s “Shine the Light” law (Civil Code section 1798.83), California residents have certain rights regarding the disclosure of their Personal Data to third parties for their own direct marketing purposes. Indeed’s policy is not to disclose your Personal Data to third parties for the third parties’ direct marketing purposes if you have exercised your option to prevent that information from being disclosed to third parties for those purposes. If you wish to not have your personal information shared for those purposes, you may request that Indeed delete your Personal Data by following the steps outlined in Section 10 of this Privacy Policy. 
 
@@ -852,4 +852,4 @@ As part of Indeed’s commitment to the security of our job seekers, advertisers
 
 Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. – Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
-  <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2019 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Find Certifications - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1doiocee7pbsk800&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
+  <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Cookies, Privacy and Terms | © 2019 Indeed <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Find Certifications - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Flegal&c15=1dolatnjbor96800&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>.
