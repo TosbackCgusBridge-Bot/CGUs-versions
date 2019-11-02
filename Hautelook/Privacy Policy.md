@@ -9,101 +9,118 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
+    *   Lush Starting at $20
+    *   Burberry Up to 60% Off
+    *   Burberry Men Up to 55% Off
+    *   Burberry Accessories Up to 70% Off
+    *   Burberry Kids Up to 60% Off
+    *   BLANKNYC Up to 60% Off
+    *   Splish Splash: Rain Boots from $40
+    *   Designer Watches
+    *   TOV Starting at $25
+    *   Holiday Ready: PJs for the Family ft. Munki Munki
+    *   Ready to Layer: Tops &. Tees from $15
+    *   Last Call: Meghan LA, Love Stitch &. More
+    *   Free Shipping: Finishing Touches for Your Home
+    *   Robin Piccone Swim &. More
+    *   Made in Italy: Sphera Milano Jewelry
+    *   Best of Skin Care Up to 50% Off
+    *   S'well &. More Starting at $15
+    *   Australia Luxe Collective
+    *   Helly Hansen Outerwear
+    *   Free Shipping: Comfy Blankets &. More Up to 55% Off
+    *   Deck Your Halls: Holiday Decor &. More
+    *   Burberry Fragrances Starting at $25
+    *   Men's Grooming Starting at $10
+    *   Toys to Spark Imagination: Mattel &. More
+    *   Topman Shoes
     *   Ray-Ban Sunglasses
     *   LOVE Moschino
     *   Vince Camuto Up to 60% Off
     *   Vince Camuto Incl. Plus &. Petites
+    
     *   Sofia Cashmere Coats &. More
     *   Chalmers PJs Up to 60% Off
-    *   Hart Schaffner Marx
     *   Nordstrom Rack Exclusives: Abound &. BP. from $30
     *   Gemstone Rings &. More Under $90
     *   CZ by Kenneth Jay Lane Jewelry
-    *   Glam with an Edge: Decor by Interior Illusions
     *   CALPAK Luggage
     *   Lorenzo Uomo Up to 60% Off
     *   Melissa Up to 60% Off
     *   Demeter Fragrance Library Up to 55% Off
     *   Joe Fresh
     *   Steven Land
+    *   Glam with an Edge: Decor by Interior Illusions
     *   Fall Decor &. More Starting at $15
     *   Must-Haves for the Kitchen from $20
     *   Modern Fiction
+    *   Cargo Cosmetics Starting at $10
     *   Go Couture Dress Blowout
     *   Go Couture Knit Blowout
-    *   Cargo Cosmetics Starting at $10
     *   From the Hive: Manuka Honey Skin Care
     *   Men's Designer Shoes Up to 65% Off ft. Versace
-    *   Designer Shoes Up to 60% Off
-    *   Designer Shop Up to 65% Off
-    *   Papillon Up to 80% Off
     *   Men's Waterproof Boots ft. Pajar
-    
-    *   Notable Brands: 525 America &. More Up to 65% Off
     *   Michael Todd Beauty
-    *   Anne Klein Outerwear &. More
-    *   Betsey Johnson Active Under $45
-    *   Slimming Shapers, Bodysuits &. More Up to 60% Off
     *   XRAY
     *   Free Shipping: Wall Murals &. More Up to 40% Off
-    *   MIA &. Mia Amore from $30
     *   Croscill Bedding &. More
     *   Deco Miami Nail Lacquer
-    *   Vince Camuto Bags Up to 55% Off
     *   Porsamo Bleu Watches
     *   Melissa &. Doug
     *   Kids' Outdoor Shoes ft. Kamik &. SPROX
+    
     *   Tween Scene: Gifts Starting at $10
     *   New Makeup Arrivals from $15
-    *   G-Star RAW
     *   Smart Watch Bands from $15
     *   Free Shipping: Rustic Farmhouse Decor
     *   Fiesta Dinnerware &. More Up to 30% Off
     *   Sharpen Up: Wusthof Cutlery
     *   Holiday Decor Starting at $10
-    *   14K Gold Jewelry Steals
     *   Beauty Essentials Starting at $10
-    *   Stay Warm in Style: Kids' Outerwear Up to 65% Off
     *   Hey Honey Skin Care
-    *   Olivia Miller
     *   Giftable Faves: Home Scents ft. NEST Fragrances
     *   Smart Home Accessories from $20
-    
     *   Rush by Gordon Rush Up to 75% Off
     *   Swims Up to 55% Off
-    *   Robert Wayne
-    *   Frenchie Mini Couture
     *   Laura Geller New York
     *   Free Shipping: Fine Art Up to 90% Off
-    *   Kenneth Cole New York Men's Shoes
     *   Kitchen Gadgets &. Storage from $15
     *   Revivogen Solutions for Thicker, Healthier Hair
     *   Love, Kenzie Beauty
     *   Modern Bathroom Accessories Up to 50% Off
     *   Free Shipping: Kitchen Essentials Blowout
     *   Free Shipping: Pillows &. Throws Up to 70% Off
-    *   Suits Under $250
-    *   Eddie Bauer Bedding Blowout
-    *   Designer Handbags ft. Alexander Wang Up to 50% Off
-    *   ISO Beauty: Luxury Styling Tools
-    *   Free Shipping: Professional Garment Steamers
+    *   Hart Schaffner Marx
+    *   G-Star RAW
     *   Gifts for Your Fur Baby Under $20
-    *   Free Shipping: Cooling Pillows &. More
-    *   Stealth Style: Luggage in Dark Neutrals
-    *   Cashmere ft. Catherine Catherine Malandrino Incl. Plus
-    *   Fall for These: Sweater Dresses
-    *   Alma Aromatherapy Serums, Body Oils &. More
-    *   Free Shipping: Storage Must-Haves from $10
-    *   Makeup Geek
-    *   Bar Cart Essentials from $15
     *   Tech Best Sellers: Phone Cases, Earbuds &. More
+    *   Robert Wayne
+    *   Eddie Bauer Bedding Blowout
+    *   Free Shipping: Professional Garment Steamers
 *   WomenShop Sale Events
     
+    *   Lush Starting at $20
+    *   Burberry Up to 60% Off
+    *   Burberry Accessories Up to 70% Off
+    *   BLANKNYC Up to 60% Off
+    *   Splish Splash: Rain Boots from $40
+    *   Designer Watches
+    *   TOV Starting at $25
+    *   Holiday Ready: PJs for the Family ft. Munki Munki
+    *   Ready to Layer: Tops &. Tees from $15
+    *   Last Call: Meghan LA, Love Stitch &. More
+    *   Robin Piccone Swim &. More
+    *   Made in Italy: Sphera Milano Jewelry
+    *   Best of Skin Care Up to 50% Off
+    *   Australia Luxe Collective
+    *   Burberry Fragrances Starting at $25
+    *   Men's Grooming Starting at $10
     *   Ray-Ban Sunglasses
     *   LOVE Moschino
     *   Vince Camuto Up to 60% Off
     *   Vince Camuto Incl. Plus &. Petites
     *   Sofia Cashmere Coats &. More
+    
     *   Chalmers PJs Up to 60% Off
     *   Nordstrom Rack Exclusives: Abound &. BP. from $30
     *   Gemstone Rings &. More Under $90
@@ -111,65 +128,48 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   CALPAK Luggage
     *   Melissa Up to 60% Off
     *   Demeter Fragrance Library Up to 55% Off
+    *   Cargo Cosmetics Starting at $10
     *   Go Couture Dress Blowout
     *   Go Couture Knit Blowout
-    *   Cargo Cosmetics Starting at $10
     *   From the Hive: Manuka Honey Skin Care
-    *   Designer Shoes Up to 60% Off
-    *   Designer Shop Up to 65% Off
-    *   Papillon Up to 80% Off
-    *   Notable Brands: 525 America &. More Up to 65% Off
     *   Michael Todd Beauty
-    
-    *   Anne Klein Outerwear &. More
-    *   Betsey Johnson Active Under $45
-    *   Slimming Shapers, Bodysuits &. More Up to 60% Off
-    *   MIA &. Mia Amore from $30
     *   Deco Miami Nail Lacquer
-    *   Vince Camuto Bags Up to 55% Off
     *   Porsamo Bleu Watches
     *   New Makeup Arrivals from $15
-    *   14K Gold Jewelry Steals
     *   Beauty Essentials Starting at $10
     *   Hey Honey Skin Care
     *   Laura Geller New York
     *   Revivogen Solutions for Thicker, Healthier Hair
     *   Love, Kenzie Beauty
-    *   Designer Handbags ft. Alexander Wang Up to 50% Off
-    *   ISO Beauty: Luxury Styling Tools
-    *   Stealth Style: Luggage in Dark Neutrals
-    *   Cashmere ft. Catherine Catherine Malandrino Incl. Plus
-    *   Fall for These: Sweater Dresses
-    *   Alma Aromatherapy Serums, Body Oils &. More
-    *   Makeup Geek
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Handbags
-    *   Lingerie &. Shapewear
     *   Accessories
     *   Watches
+    *   Handbags
+    *   Lingerie &. Shapewear
 *   MenShop Sale Events
     
+    *   Burberry Men Up to 55% Off
+    *   Designer Watches
+    *   Helly Hansen Outerwear
+    *   Topman Shoes
     *   Ray-Ban Sunglasses
-    *   Hart Schaffner Marx
     *   CALPAK Luggage
     *   Lorenzo Uomo Up to 60% Off
     *   Steven Land
     *   Men's Designer Shoes Up to 65% Off ft. Versace
+    
     *   Men's Waterproof Boots ft. Pajar
     *   XRAY
-    
     *   Porsamo Bleu Watches
-    *   G-Star RAW
     *   Rush by Gordon Rush Up to 75% Off
     *   Swims Up to 55% Off
+    *   Hart Schaffner Marx
+    *   G-Star RAW
     *   Robert Wayne
-    *   Kenneth Cole New York Men's Shoes
-    *   Suits Under $250
-    *   Stealth Style: Luggage in Dark Neutrals
     
     Shop By Category
     *   Shoes
@@ -178,28 +178,31 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Watches
 *   KidsShop Sale Events
     
+    *   Burberry Kids Up to 60% Off
+    *   Toys to Spark Imagination: Mattel &. More
     *   Joe Fresh
     *   Melissa &. Doug
     *   Kids' Outdoor Shoes ft. Kamik &. SPROX
     *   Tween Scene: Gifts Starting at $10
-    *   Stay Warm in Style: Kids' Outerwear Up to 65% Off
-    *   Olivia Miller
-    *   Frenchie Mini Couture
     
     Shop By Category
     *   Toy Shop
-    *   Girls' Sizes 7-16
-    *   Boys' Sizes 2T-7
-    *   Boys' Sizes 8-20
-    *   Girls' Shoes
     *   Girls' Sizes 2T-6X
+    *   Girls' Sizes 7-16
+    *   Girls' Shoes
+    *   Boys' Sizes 2T-7
     *   Boys' Shoes
-    *   Baby Boy
+    *   Boys' Sizes 8-20
     *   Baby Girl
+    *   Baby Boy
 *   HomeShop Sale Events
     
-    *   Glam with an Edge: Decor by Interior Illusions
+    *   Free Shipping: Finishing Touches for Your Home
+    *   S'well &. More Starting at $15
+    *   Free Shipping: Comfy Blankets &. More Up to 55% Off
+    *   Deck Your Halls: Holiday Decor &. More
     *   CALPAK Luggage
+    *   Glam with an Edge: Decor by Interior Illusions
     *   Fall Decor &. More Starting at $15
     *   Must-Haves for the Kitchen from $20
     *   Free Shipping: Wall Murals &. More Up to 40% Off
@@ -207,24 +210,20 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Smart Watch Bands from $15
     *   Free Shipping: Rustic Farmhouse Decor
     *   Fiesta Dinnerware &. More Up to 30% Off
+    
     *   Sharpen Up: Wusthof Cutlery
     *   Holiday Decor Starting at $10
     *   Giftable Faves: Home Scents ft. NEST Fragrances
     *   Smart Home Accessories from $20
-    
     *   Free Shipping: Fine Art Up to 90% Off
     *   Kitchen Gadgets &. Storage from $15
     *   Modern Bathroom Accessories Up to 50% Off
     *   Free Shipping: Kitchen Essentials Blowout
     *   Free Shipping: Pillows &. Throws Up to 70% Off
+    *   Gifts for Your Fur Baby Under $20
+    *   Tech Best Sellers: Phone Cases, Earbuds &. More
     *   Eddie Bauer Bedding Blowout
     *   Free Shipping: Professional Garment Steamers
-    *   Gifts for Your Fur Baby Under $20
-    *   Free Shipping: Cooling Pillows &. More
-    *   Stealth Style: Luggage in Dark Neutrals
-    *   Free Shipping: Storage Must-Haves from $10
-    *   Bar Cart Essentials from $15
-    *   Tech Best Sellers: Phone Cases, Earbuds &. More
     
     Shop By Category
     *   Home Decor
@@ -232,38 +231,38 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Electronic &. Tech Accessories
     *   Bedding
     *   Pet Accessories
-    *   Cleaning &. Organization
-    *   Luggage &. Travel
-    *   Bath
-    *   Outdoor Living
-    *   Rugs &. Doormats
     *   Holiday Decorations
+    *   Bath
+    *   Luggage &. Travel
+    *   Cleaning &. Organization
+    *   Rugs &. Doormats
+    *   Outdoor Living
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Best of Skin Care Up to 50% Off
+    *   Burberry Fragrances Starting at $25
+    *   Men's Grooming Starting at $10
     *   Demeter Fragrance Library Up to 55% Off
     *   Cargo Cosmetics Starting at $10
     *   From the Hive: Manuka Honey Skin Care
     *   Michael Todd Beauty
+    
     *   Deco Miami Nail Lacquer
     *   New Makeup Arrivals from $15
     *   Beauty Essentials Starting at $10
-    
     *   Hey Honey Skin Care
     *   Laura Geller New York
     *   Revivogen Solutions for Thicker, Healthier Hair
     *   Love, Kenzie Beauty
-    *   ISO Beauty: Luxury Styling Tools
-    *   Alma Aromatherapy Serums, Body Oils &. More
-    *   Makeup Geek
     
     Shop By Category
     *   Makeup
     *   Skin Care
     *   Fragrance
     *   Hair Care
-    *   Bath &. Body
     *   Tools &. Accessories
+    *   Bath &. Body
     *   Nails
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
@@ -455,4 +454,4 @@ Get a $20 credit each time a friend you invite makes their first purchase. Limit
 
 Or you can use your personal referral link to invite
 
-Shipping &. ReturnsFree shipping is applied to orders over $49 before tax (limited time only). International orders and all items over 5lbs. excludedEXTENDED HOLIDAY RETURNS!Return to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: Eligible purchases made 10/30–12/17/19 can be returned until 1/31/20. For items returned by mail, the return shipping fee is $5.95 for the US and $10.95 for Canada. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.Unlock Your Exclusive RewardsTake a minute to complete your profile to view your Nordy Club status and available points.Complete My ProfileSkip for now
+Shipping &. ReturnsFree shipping is applied to orders over $49 before tax (limited time only). International orders and all items over 5lbs excluded.Extended Holiday Returns!Return to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: Eligible purchases made 10/30–12/17/19 can be returned until 1/31/20. For items returned by mail, the return shipping fee is $5.95 for the US and $10.95 for Canada. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.Unlock Your Exclusive RewardsTake a minute to complete your profile to view your Nordy Club status and available points.Complete My ProfileSkip for now
