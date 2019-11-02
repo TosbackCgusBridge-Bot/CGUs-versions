@@ -384,12 +384,12 @@ Click here for version 3.3
 
 Upcoming Conferences
 
-*   TensorFlow Oct 28–31, Santa Clara
 *   Software Architecture Nov 5–7, Berlin
 *   Velocity Nov 5–7, Berlin
 *   Software Architecture Feb 24–26, New York
 *   Strata Mar 15–18, San Jose
 *   Artificial Intelligence Mar 15–18, San Jose
+*   Strata Apr 20–23, London
 
 The O'Reilly Approach
 
