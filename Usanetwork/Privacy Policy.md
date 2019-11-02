@@ -57,7 +57,7 @@ Skip to main content
             2.  Universal Studios HollywoodUniversal Studios HollywoodGet ready for the ultimate Hollywood movie experience!Universal Studios Hollywood
             3.  Universal Studios JapanUniversal Studios JapanOffers guests unique and popular entertainment experiences. Its renowned theme park features some of the world’s most thrilling film and TV based attractions.Universal Studios Japan
             4.  Universal Studios SingaporeUniversal Studios SingaporeOffers guests unique and popular entertainment experiences. Its renowned theme park features some of the world’s most thrilling film and TV based attractions.Universal Studios Singapore
-            5.  Universal Beijing ResortsUniversal Beijing ResortsUniversal Beijing Resorts
+            5.  Universal Beijing ResortUniversal Beijing ResortUniversal Beijing Resort is a widely anticipated theme park destination that will feature the Universal Studios Beijing theme park, the Universal CityWalk Beijing retail, dining and entertainment complex and two hotels.Universal Beijing Resort
         6.  TV Studios Production
             1.  Telemundo StudiosTelemundo StudiosTelemundo Studios is a full service facilities company owned and operated by Telemundo / NBCUniversal.Telemundo Studios
             2.  Universal Content ProductionsUniversal Content ProductionsCreates innovative and critically acclaimed original scripted content for all media platforms.Universal Content Productions
@@ -117,7 +117,7 @@ Skip to main content
                 *   Universal Studios Hollywood
                 *   Universal Studios Japan
                 *   Universal Studios Singapore
-                *   Universal Beijing Resorts
+                *   Universal Beijing Resort
         *   *   TV STUDIOS PRODUCTION
                 *   Telemundo Studios
                 *   Universal Content Productions
@@ -350,4 +350,4 @@ For any questions or complaints about this Privacy Policy or our privacy practic
 *   Supply Chain Values
 *   Terms of Service
 
-© 2019 NBCUniversal Media, LLC. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/2573911" height="1" width="1" alt="" /></a></div>.
+© 2019 NBCUniversal Media, LLC. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/8256392" height="1" width="1" alt="" /></a></div>.
