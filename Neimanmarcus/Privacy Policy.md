@@ -568,7 +568,7 @@ Privacy Policy &. Terms of Use
         
         The prize claim instructions will advise each potential winner that he/she will be required to provide Sponsor with his/her name, valid mailing address, valid email address and birthdate, and clothing size to confirm eligibility and for prize fulfillment purposes within seven (7) days of the date notice or attempted notice is sent. If a potential winner cannot be contacted, fails to follow any of the prize claim instructions or provide the required information within the required timeframe, does not comply with these Official Rules, or if prize is returned as undeliverable, potential winner forfeits the prize. If a potential winner is disqualified for any reason, the prize may be awarded to a runner-up, if any, in Sponsor's sole discretion. Only one (1) alternate winner may be determined, after which the applicable prize will remain un-awarded.
         
-    10.  **Prizes:** ONE (1) $250 Neiman Marcus Virtual Gift Card will be awarded per month.
+    10.  **Prizes:** ONE (1) $500 Neiman Marcus Virtual Gift Card will be awarded per month.
         
         Prizes are non-transferable and no substitution will be made except as provided herein.Neiman Marcus reserves the right to substitute a prize for one of equal or greater value if the designated prize should become unavailable for any reason. Winners are responsible for all taxes and fees associated with prize receipt and/or use. Limit: One (1) prize per person. Prizes will be fulfilled to each winner two (2) weeks following the end of each month of the Sweepstakes:
         
@@ -596,7 +596,7 @@ Privacy Policy &. Terms of Use
     18.  **Sponsor:** The Neiman Marcus Group LLC  
           
         
-    
-    Last Updated September 10, 2019
+        Last Updated November 1, 2019
+        
     
     Close
