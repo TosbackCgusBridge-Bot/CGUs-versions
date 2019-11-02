@@ -31,7 +31,7 @@ Instant Notifications
 
 You'll receive push notifications when your resume is viewed, or when new jobs appear in your most recent search. Making it easy for you to jump right back into your job search.
 
-see how you can up your career status Career Development &. Learning Job Trends 3 things to know about the September 2019 jobs report Read Article Who's Hiring Companies hiring this week Read Article CareerBuilder Superstar Resume Sweepstakes Official Rules Read Article Read More Articles Employers Looking to Post a Job?
+see how you can up your career status Career Development &. Learning Job Trends 3 things to know about the September 2019 jobs report Read Article Job Trends 3 things to know about the October 2019 jobs report Read Article The Right Job 10 high-paying health care jobs (besides doctors) Read Article Read More Articles Employers Looking to Post a Job?
 
 We have end-to-end solutions that can keep up with you and your standards.
 
