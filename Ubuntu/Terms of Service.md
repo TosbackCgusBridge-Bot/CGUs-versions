@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   The State of Robotics – October 2019
+*   Design and Web team summary – 25 October 2019
 *   Ubuntu Server development summary – 29 October 2019
 *   OpenStack Charms 19.10 – Train, Policy Overrides and more
 *   PSA for ROS users: Some things to know as Python 2 approaches EOL
-*   The masters speak: Forward-thinking Ubuntu users gather to share their experiences
-*   Standardising software to quickly deliver a smart city platform for millions
 
 *    ›
