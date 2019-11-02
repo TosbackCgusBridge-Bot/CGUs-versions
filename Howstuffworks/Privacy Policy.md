@@ -33,7 +33,7 @@ Search Terms Please enter terms to search for. Search
 *   Podcasts
 *   Quizzes
 
-HowStuffWorks Privacy Policy
+  HowStuffWorks Privacy Policy
 
  
 
@@ -209,9 +209,23 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksDoes Social Security continue after a spouse dies?1STWhere Do Bullets Go When Guns Are Fired Straight Up Into the Air?2NDIs the BRAT Diet Still Beneficial?3RDEarly Humans Mated With Inbred Neanderthals — at a Cost4THBuzznet | SponsoredThese Twins Were Named "Most Beautiful In The World", Wait Till You See Them TodayBuzznet | SponsoredJournalistate | Sponsored25 Celebs You Didn't Realize Are Gay - No. 8 Will Shock WomenJournalistate | SponsoredSoGoodly | SponsoredThese Twins Were Named "Most Beautiful In The World" Wait Till You See Them TodaySoGoodly | SponsoredAuto Overload | Sponsored34 Vintage Photos Not Suitable For Audiences TodayAuto Overload | Sponsored home &. garden-autoDo Wind Turbines Cause Health Problems?BY Julia Layton &. Sarah Gleim-Visitor Agreement
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted Links10 Reasons Why You Should Care About Net Neutrality1STFoodStuff: Marshmallows: Make, Eat, Repeat2NDFoodStuff: The Science of Sour Beer3RDFoodStuff Makes Gin: FoodStuff Makes Gin4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredBuzznet | SponsoredThese Twins Were Named "Most Beautiful In The World", Wait Till You See Them TodayBuzznet | SponsoredUpbeat News | Sponsored30 Insane Movie Mistakes You Never NoticedUpbeat News | SponsoredDaily Finance Stories | SponsoredHoney Boo Boo Is So Skinny Now And Looks Like A BarbieDaily Finance Stories | Sponsored
 
-personal finance-budgeting &. savingDo savings accounts have maximum limits?BY Nathan ChandlerScience101 | SponsoredDrone Captures What No One Was Supposed To SeeScience101 | SponsoredHealthy Lifestyle | Sponsored7 Behaviors That Reveal Someone Is Silently DepressedHealthy Lifestyle | Sponsored Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhat's the difference between backscatter machines and millimeter wave scanners?Where are all the Internet domain names registered and maintained?What causes 'old person' smell?Shark Finning - The Big Picture of a Big ProblemHow much should your child get for allowance?FoodStuff: The Science of Sour Beerby Taboolaby Taboola
+Advertisement
+
+mental health-human natureWhat causes 'old person' smell?BY Laurie L. DovescienceWhere do bullets go when guns are fired straight up into the air?
+
+home improvement-household hints &. tipsWhy do most zippers say "YKK" on the pull-tab?
+
+Topix | Sponsored33 Hilarious Airport SignsTopix | SponsoredLivestly | SponsoredPhotos Captured Before Things Started To Go WrongLivestly | Sponsored
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhat If You Eat Moldy Bread?How Long Should You Use Your Bath Towel Without Washing It?Early Humans Mated With Inbred Neanderthals — at a Cost10 Superstitions About DeathWhy Do Monk Seals Get Eels Up Their Noses?10 Things You Should Never Mix With Alcoholby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -234,4 +248,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Does Social Security continue after a spouse dies?Read Next StoryBuzznetThese Twins Were Named "Most Beautiful In The World", Wait Till You See Them TodayBuzznet|SponsoredSponsoredRead Next StoryJournalistate25 Celebs You Didn't Realize Are Gay - No. 8 Will Shock WomenJournalistate|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. 10 Reasons Why You Should Care About Net NeutralityRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StoryBuzznetThese Twins Were Named "Most Beautiful In The World", Wait Till You See Them TodayBuzznet|SponsoredSponsoredRead Next Story
