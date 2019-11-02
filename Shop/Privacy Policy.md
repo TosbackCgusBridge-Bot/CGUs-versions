@@ -305,9 +305,9 @@ Lenovo Explore Close
         *   Trade In Program
         *   Outlet
         
-        Sale
+        Sneak Peak
         
-        Shop special deals on laptops, desktops, monitors, accessories &. more!
+        Shop doorbuster deals through this weekend on lenovo.com!
         
 *   Phones
 *   Data Center
@@ -613,7 +613,7 @@ Lenovo Explore Close
     *   HELP PLACING AN ORDER 855-253-6686
     *   BUSINESS ORDER HELP 866-426-0911
     *   EXISTING ORDER HELP 855-253-6686 option #1
-    *   Hours Monday-Friday 9AM-9PM ETChat Saturday 10AM-6PM EST\*Chat Sunday 12PM-5PM ET\*Sales only
+    *   Hours Monday-Friday 9AM-9PM ETChat Saturday 10AM-6PM EST\*Chat Sunday 12PM-6PM EST\*Sales only
     *   CHAT NOW >.
 *   Account
     *   Sign In
@@ -1157,6 +1157,7 @@ RESOURCES
 *   Affinity Program
 *   Laptop Buying Guide
 *   Where to Buy
+*   Black Friday Catalog
 
 CUSTOMER SUPPORT
 
@@ -1170,14 +1171,4 @@ CUSTOMER SUPPORT
 *   Forums
 *   FAQs
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Feedback Will open a new windowFeedbackLaunches comment card in new windowCreated with sketchtool.CHAT NOW
-
-How can we help
-
-you today?
-
-×SALES CHATEXISTING ORDER HELPSALES CHATEXISTING ORDER HELPBUSINESS SALESBUSINESS SALES
-
-Call us: 1-855-253-6686
-
-Check order status >Technical support or Repair status >
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement
