@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Peter Van Buren_: Pelosi Is Blowing Smoke--Will It Backfire on Dems?
+*   _E.J. Dionne_: Trump Likes That America Is Polarized, Fragmented
     
-*   _Amanda Marcotte_: Impeachment Starts for Real--Republicans Won't Like It
+*   _Mark Hemingway_: Donald Trump Versus 'The Interagency Consensus'
     
-*   _Karl Rove_: Biden's Ukraine Dealings Will Dog His Campaign
+*   _David Graham_: The Party-Line Impeachment Is a Problem for Democrats
     
-*   _Albert Hunt_: Democrats Search for a 2020 White Knight--Don't Bet on it
+*   _Gibson &. Brown_: Will Virginia Go Blue in Statewide Elections?
     
-*   _Ed Kilgore_: Campaign Death Watch Season Begins
+*   _Salena Zito_: Western Pennsylvania Is Home to Bellwether Race of 2020
     
-*   _Coleman Hughes_: How to Be an Anti-Intellectual
+*   _Emily Stewart_: Silicon Valley Should Take Hawley War on Big Tech Seriously
     
-*   _Benjamin Rolsky_: Kanye West Wrestles With God, Not Support for Trump
+*   _Robin Wright_: Trump's Baffling Plan to Pillage Syria's Oil
     
-*   _Chuck DeVore_: Blame Dems, Not Climate Change, for CA Fires, Blackouts
+*   _Jasen Castillo_: Don't Leave Grand Strategy to the Generals
     
-*   _John Mulholland_: Why Climate Crisis Is the Most Crucial Story We Cover
+*   _Roger Kimball_: A Genuinely Transgressive Act
     
-*   _Nick Gillespie_: Freedom of Speech Is Bad, Says Former Time Editor
+*   _Chauncey DeVega_: Trump's War Against Democracy: Is It Already Too Late?
     
-*   _Carl Cannon_: Halloween at the White House: A Spirited Discussion
+*   _Alan Dershowitz_: Dems' Impeachment Vote Is Exactly What Framers Feared
     
-*   _Jeff Greenfield_: When JFK Was Trump
+*   _Michael Goodwin_: A Tragedy for the Nation – and Democracy
     
-*   _Byron York_: Today's House Vote: The Adam Schiff Empowerment Act
+*   _Joe Lockhart_: On Impeachment Strategy, Pelosi Gets an A, Trump an F
     
-*   _Steve Israel_: Why Dems' Impeachment Move Will Haunt Trump, Republicans
+*   _Charlie Hurt_: Pelosi Bonaparte Sees Her Waterloo
     
-*   _Erielle Davidson_: When Do Biden 'Coincidences' Become Sheer Corruption?
+*   _Alec Baldwin_: To Defeat Trump, Start With Next Week's Virginia Elections
     
-*   _Ronald Brownstein_: Nancy Pelosi's Predictions for Impeachment
+*   _Sean Trende_: Why Low-Polling 2020 Democrats Still Have a Chance
     
-*   _Paul Sperry_: Beltway 'Whistleblower' Furor Obsesses Over One Name
+*   _Ed Kilgore_: Republicans Going All-Out Red Scare in Off-Year Elections
     
-*   _Jamelle Bouie_: Impeachment Is Not a Coup
+*   _Michael Brendan Dougherty_: Kamala Harris' Rise and Fall Mirror CA's Trajectory
     
-*   _Miranda Devine_: Mismanagement, Stubbornness Have Set California Ablaze
+*   _Bergengruen &. Bennett_: Rudy Giuliani: The Secretary of Offense
     
-*   _David Perry_: Explaining to My Children Why the World Is Burning
+*   _Daniel J. Flynn_: Blowing the Whistle on the Whistleblower
     
-*   _John Koufos_: Criminal Justice Reform Is About People, Not Posturing
+*   _Michael Gerhardt_: The Impeachment Inquiry Is Fully Legitimate
     
-*   _Andrew Walker_: Kanye's Conversion Could Be a Cultural Wrecking Ball
+*   _Ronna McDaniel_: Dems' Impeachment Vote Is Baseless Political Vendetta
     
-*   _Dahlia Lithwick_: Why I Haven't Gone Back to SCOTUS Since Kavanaugh
+*   _Aaron Sorkin_: An Open Letter to Mark Zuckerberg
     
-*   _Susan Crabtree_: Longtime Dem Donor Tied to Trump Nominee's Low ABA Score
+*   _Sen. Ted Cruz_: Mark Zuckerberg Is Right, Jack Dorsey Is Wrong
     
 
 *   Previous
@@ -237,9 +237,9 @@ RecommendedPolitics
 
 *   Impeachment Inquiry Vote: How Democrats Came to This
 *   Longtime Dem Donor Tied to Poor ABA Rating of Trump Nominee
-*   Pentagon Reveals Video Of al-Baghdadi Raid
-*   Facing Recall, Alaska Governor Sees Kindred Spirit in Trump
+*   Pelosi: House Dems Are Defending Our Democracy for the People
 *   Katie Hill's Exit Renews #MeToo Anxiety in Washington
+*   Facing Recall, Alaska Governor Sees Kindred Spirit in Trump
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,34 +252,36 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Pennsylvania Democratic Presidential PrimaryFranklin &. Marshall
-    *   Biden30
-    *   Warren18
-    *   Sanders12
-    *   Buttigieg8
-    *   Bennet2
-    *   Klobuchar2
+*   Iowa Democratic Presidential CaucusNY Times/Siena
+    *   Warren22
+    *   Buttigieg18
+    *   Biden17
+    *   Sanders19
+    *   Klobuchar4
+    *   Harris3
+    *   Steyer2
     *   Gabbard2
-    *   Harris1
-    *   Yang1
-    *   Booker1Biden +12
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve41
-    *   Disapprove57Disapprove +16
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve45
-    *   Disapprove54Disapprove +9
-*   Direction of CountryReuters/Ipsos
-    *   Right Direction33
-    *   Wrong Track58Wrong Track +25
+    *   Yang3
+    *   Booker2
+    *   O'Rourke
+    *   BennetWarren +3
+*   President Trump Job ApprovalABC News/Wash Post
+    *   Approve39
+    *   Disapprove59Disapprove +20
+*   President Trump Job ApprovalThe Hill/HarrisX
+    *   Approve46
+    *   Disapprove54Disapprove +8
+*   President Trump Job ApprovalIBD/TIPP
+    *   Approve39
+    *   Disapprove56Disapprove +17
 
 More Latest Polls In The News
 
+*   Warren: My "Medicare For All" Plan Can Work Without Raising Taxes One Cent On The Middle Class
+*   Assad: Trump Is "The Most Transparent President," He Admits U.S. Gov't Works For Oil &. Weapons Lobbies
+*   Hillary Clinton Laughs When Asked How She Killed Jeffrey Epstein On "The Daily Show"
+*   Former Acting CIA Director John McLaughlin on Impeachment: "Thank God For The Deep State"
 *   Schiff: Given The Circus-Like Stunts By Republicans, "We Can't Surrender The Process To The Minority Party"
-*   Collins Challenges Schiff: Be The First Witness, Take Every Question Asked Of You. "This Ain't Over, Get Ready"
-*   McCabe: Will Republicans Cross The Rubicon And Admit Trump's Ukraine Call Was An Abuse Of Power?
-*   Zeldin: Biden Should Not Be Immune From Scrutiny Just Because He Is Running For President
-*   Obama Blasts "Woke" Culture: "That Is Not Activism," Get Over Calling People Out And Casting Stones
 
 *   Politics
 *   Policy
