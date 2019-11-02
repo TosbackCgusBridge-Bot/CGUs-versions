@@ -84,7 +84,7 @@
     *   Gifts for Him
     *   Thank You Gifts
     *   Sympathy GiftsMost Popular Thanksgiving
-*   Business Gifts
+*   Corporate Gift Baskets
 *   Sale
 
 1.800.753.8558 Business Gifts Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
@@ -175,7 +175,7 @@
     *   Gifts for Him
     *   Thank You Gifts
     *   Sympathy GiftsMost Popular Thanksgiving
-*   Business Gifts
+*   Corporate Gift Baskets
 *   Sale
 
 1.800.753.8558 Business Gifts
