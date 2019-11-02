@@ -87,8 +87,8 @@ View more results
     *   Combat Strike 2: 3D Shooting Game Online Multiplayer
     *   Subway Clash 3D: Shooting Game Online Multiplayer
     *   Short Life
-    *   Miami Crime Simulator 3D
     *   Pixel Apocalypse
+    *   Miami Crime Simulator 3D
 *   Top Categories
     
     *   Platform Games
@@ -114,9 +114,9 @@ View more results
     *   Five Nights at Freddy's 2
     *   Short Life
     *   Miami Crime Simulator 3D
-    *   Fireboy and Watergirl 5: Elements
-    *   Chrome Dino
     *   Boeing Flight Simulator
+    *   Chrome Dino
+    *   Fireboy and Watergirl 5: Elements
     *   Slope: Neon Ball Rolling Game
     *   Five Nights at Freddy's 5
     *   Five Nights at Freddy's 4
@@ -176,15 +176,15 @@ View more results
     *   Ellie: Get Ready With Me
     *   Super Speed Racer
     *   Pizza Real Life Cooking
-    *   Slope: Neon Ball Rolling Game
     *   Ella: Hips Surgery
+    *   Slope: Neon Ball Rolling Game
     *   Love Tester 2.0
     *   Burger Restaurant Express
     *   Back To School: Princesses Rush
     *   Secret Office Kissing
     *   Extreme Dental Emergency
     *   Love Tester Deluxe 2
-    *   Vincy Lip Care
+    *   The Princess: Sent to the Future - Dress Up Game
 *   Top Categories
     
     *   BMX Games
@@ -246,8 +246,8 @@ View more results
     *   8-Ball
     *   Penalty Shooters 2: Football Game
     *   Baseball
-    *   Ultimate Boxing
     *   Carrom Pool
+    *   Ultimate Boxing
 *   *   Multiplayer
     *   Action
     *   Adventure
@@ -454,5 +454,3 @@ Languages
 *   Nederlands
 
 Copyright © 2019 SPIL GAMES All rights reserved.
-
-Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. (e.g IP Address) To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them. Your data may be stored by us and our service providers. In case the applicable data protection laws provide so, you may access, rectify, and erase the data or you may restrict or object to our processing of your data. Please contact us in such event. Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click "ACCEPT" to agree with the above mentioned. You can change your mind and change your consent choices at any time by returning to this site.AcceptSettingsVendor List | Privacy policy | FeaturesA reminder you can control your user privacy preferenceshere
