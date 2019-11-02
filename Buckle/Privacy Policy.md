@@ -1,10 +1,10 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content SELECT SALE DENIM IS AN EXTRA 10% OFF - SHOP NOW!
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content gifted with the perfect fit, and so much more - discover the story.
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-SELECT SALE DENIM IS AN EXTRA 10% OFF - SHOP NOW!
+gifted with the perfect fit, and so much more - discover the story.
 
 *   Women
 *   Men
