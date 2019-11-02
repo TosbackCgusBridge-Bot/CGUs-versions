@@ -72,8 +72,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie Trailers: ‘Star Wars: The Rise of Skywalker,’ Vin Diesel in ‘Bloodshot’ and More Read More
-    *   The Week in Movie News: ‘Fast &. Furious 9’ Casts Cardi B, ’’Emmet Otter’ Remake, Sally Ride Biopic and More Read More
+    *   The Week in Movie News: Director Peyton Reed Returns for ‘Ant-Man 3,’ ‘Spider-Verse’ Sequel Set for 2022 and More Read More
+    *   The Week in Movie Trailers: ‘The Grudge’ Reboot, ‘Knives Out,’ ‘Jumanji: The Next Level’ and More Read More
     *   Next 3 Major Awards Contenders: 'Jojo Rabbit,' 'The Irishman,' '1917' Read More
     
     Explore Content
@@ -305,13 +305,13 @@ Offers
     
     Buy tickets. Earn points. Get a $5 reward for a movie on us. BUY TICKETS
     
-*   Get a $13 Movie Ticket to see 'The Addams Family'
+*   Get a $5 Concession Certificate
     
-    When you purchase 2 Hershey's Halloween Assortment Bags. SEE DETAILS
+    When you purchase 2 or more Kernel Season’s products. SEE DETAILS
     
-*   Get a $10 Reward
+*   FREE $20 Movie Experience
     
-    When you spend $30 on Unilever Personal Care Products at participating stores. SEE DETAILS
+    When you purchase 2 participating Yoplait or GO-GURT products. SEE DETAILS
     
 
 New + Coming soon
@@ -351,7 +351,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   October Celebrity Birthdays
+*   November Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Follow Us
