@@ -132,9 +132,9 @@ Play “MediEvil” on PS4™
 
 <img class="bg-img" data-linkname="en:set\_a:\_2x1-2:image:playstation:MediEvil-October-28-2019:ps:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Completely Remade From the Grave Up 💀 MediEvil" data-img1x="/content/dam/sony/homepage/2019-october/10-7/medievil-600x600-2.jpg" data-img2x="/content/dam/sony/homepage/2019-october/10-28/medievil-500x246.jpg" src="/content/dam/sony/homepage/2019-october/10-28/medievil-500x246.jpg" alt="Completely Remade From the Grave Up 💀"/>. <img class="bg-img" data-linkname="en:set\_a:\_2x1-2:image:playstation:MediEvil-October-28-2019:ps:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Completely Remade From the Grave Up 💀 MediEvil" data-img1x="/content/dam/sony/homepage/2019-october/10-7/medievil-600x600-2.jpg" data-img2x="/content/dam/sony/homepage/2019-october/10-28/medievil-500x246.jpg" src="/content/dam/sony/homepage/2019-october/10-7/medievil-600x600-2.jpg" alt="Completely Remade From the Grave Up 💀 Mobile"/>.
 
-PS4’s new 7.00 update adds new Party enhancements and brings Remote Play to devices running Android 5.0 or higher. Full details:  http://play.st/2oUxgic  pic.twitter.com/DDg7Ev3Bba
+April 8, 2022 🕷 #SpiderVerse pic.twitter.com/FC5nVIuciB
 
-4 days ago View Tweet Instagram Post B3-rkFzl0hG
+8 hours ago View Tweet Instagram Post B3-rkFzl0hG
 
 Escape Into
 
