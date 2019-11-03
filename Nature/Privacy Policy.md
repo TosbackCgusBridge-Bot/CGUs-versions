@@ -89,9 +89,9 @@ Blueberry Ridge Boardwalk Bekah Herndon hikes amidst colorful fallen leaves on a
 
 Accountability
 
-Privacy Policy THE NATURE CONSERVANCY'S PRIVACY POLICY
+Privacy Statement THE NATURE CONSERVANCY'S PRIVACY STATEMENT
 
-**_Updated September 2018_**
+**_Updated October 31, 2019_**
 
 The Nature Conservancy (the “**Conservancy**”) takes your privacy very seriously and cares about how your information is collected, used, stored, and shared. We are providing this Privacy Statement to explain our practices and the choices that you can make about the way your information is used by the Conservancy. The Privacy Statement describes our practices in connection with the information we collect through websites operated by us from which you are accessing this Privacy Statement (the “**Websites**”), through the software applications made available by us for use on or through computers and mobile devices (the “**Apps**”), through our social media pages that we control through which you are accessing this Privacy Statement (collectively, our “**Social Media Pages**”), as well as through HTML-formatted email messages that we send to you that link to this Privacy Statement and through offline interactions that we may have with you (collectively, including the Websites, the Apps and our Social Media Pages, providing personal curated content)( the “**Services**”).
 
@@ -204,9 +204,9 @@ We use and disclose Other Information for any purpose, except where we are requi
 
 Our Advertising
 
-We may use third-party advertising companies to address advertisements that may be of interest to you when you access and use the Services and other websites, based on information relating to your access to and use of the Services and other websites. To do so, such companies may place or recognize a unique Cookie on your browser (including through use of pixel tags). They may also use these technologies, along with information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop.
+We may use third-party advertising companies to address advertisements that may be of interest to you when you access and use the Services and other websites, based on information relating to your access to and use of the Services and other websites. To do so, such companies may place or recognize a unique Cookie on your browser (including through use of pixel tags). They may also use these technologies, along with your Mobile Advertising ID and information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop.
 
-This advertising may be directed to you because you visited or logged in to our website. When we generate this advertising, data we collect from you through online Cookies and other technologies may be combined with other de-identified data (such as a hashed, non-readable email or postal address) in order to tailor ads to you based on your preferences and other information about you. To learn more about targeted advertising, these providers, or how you may opt out, please visit http://www.networkadvertising.org/choices/ or the DAA’s consumer choice page at http://www.aboutads.info/choices.
+This advertising may be directed to you because you visited or logged in to our website. When we generate this advertising, data we collect from you through online Cookies your Mobile Advertising ID, and other technologies may be combined with other de-identified data (such as a hashed, non-readable email or postal address) in order to tailor ads on your computer, device or Smart TV to you or your business based on your preferences and other information about you. To learn more about targeted advertising, these providers, or how you may opt out, please visit http://www.networkadvertising.org/choices/ or the DAA’s consumer choice page at http://www.aboutads.info/choices.
 
 How You Can Control Collection and Use of Your Information
 
@@ -261,7 +261,7 @@ We are not responsible for the information collection, use, disclosure or securi
 
 Third Party Payment Service
 
-We will use a third-party payment service to process payments made through the Services.  If you wish to make a payment through the Services, your Personal Information will be collected by such third party and not by us, and will be subject to the third party’s privacy policy, rather than this Privacy Statement.  We have no control over, and are not responsible for, this third party’s collection, use and disclosure of your Personal Information.
+We will use a third-party payment service to process payments made through the Services.  If you wish to make a payment through the Services, your Personal Information will be collected by such third party and not by us, and will be subject to the third party’s privacy statement, rather than this Privacy Statement.  We have no control over, and are not responsible for, this third party’s collection, use and disclosure of your Personal Information.
 
 Sensitive Information
 
@@ -287,7 +287,7 @@ Additional Information for Individuals in the EEA
 
 If you are located in the EEA, you also may:
 
-*   Contact our data protection officer at compliance@tnc.org.
+*   Contact our Chief Privacy Officer at compliance@tnc.org.
 *   Lodge a complaint with a data protection authority for your country or region, or where an alleged infringement of applicable data protection law occurs.
 
 Explore
