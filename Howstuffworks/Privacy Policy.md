@@ -209,15 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted Links10 Reasons Why You Should Care About Net Neutrality1STFoodStuff: Marshmallows: Make, Eat, Repeat2NDFoodStuff: The Science of Sour Beer3RDFoodStuff Makes Gin: FoodStuff Makes Gin4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredBuzznet | SponsoredThese Twins Were Named "Most Beautiful In The World", Wait Till You See Them TodayBuzznet | SponsoredUpbeat News | Sponsored30 Insane Movie Mistakes You Never NoticedUpbeat News | SponsoredDaily Finance Stories | SponsoredHoney Boo Boo Is So Skinny Now And Looks Like A BarbieDaily Finance Stories | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksRidiculous History: 3 Times Society Refused to Accept Books on New Science1STHow to Write an Acceptance Letter for a New Job2NDHow much should your child get for allowance?3RDDoes Social Security continue after a spouse dies?4THPlay Now | Caesars Casino Slots | SponsoredHere's the Thing Casinos Don't Want You to KnowPlay Now | Caesars Casino Slots | SponsoredAmerican Giant | Sponsored If You Can Buy One of These American Giant Hoodies, Do It NowAmerican Giant | SponsoredGundry MD | SponsoredTop U.S. Surgeon: This Is What Happens To Dark Spots (When You Do This Every Morning)Gundry MD | SponsoredSenior Living | Search Ads | SponsoredLuxury Senior Living In Colorado Is Surprisingly AffordableSenior Living | Search Ads | Sponsored
 
 Advertisement
 
-mental health-human natureWhat causes 'old person' smell?BY Laurie L. DovescienceWhere do bullets go when guns are fired straight up into the air?
-
-home improvement-household hints &. tipsWhy do most zippers say "YKK" on the pull-tab?
-
-Topix | Sponsored33 Hilarious Airport SignsTopix | SponsoredLivestly | SponsoredPhotos Captured Before Things Started To Go WrongLivestly | Sponsored
+dictionary-astronomy termsWhat Existed Before the Big Bang?BY Robert Lamb &. Patrick J. Kigermilitary-firearmsWhere Do Bullets Go When Guns Are Fired Straight Up Into the Air?BY Patrick J. Kigercomputer-internet10 Reasons Why You Should Care About Net NeutralityBY Dave RoosEverQuote Insurance Quotes | SponsoredColorado Drivers With No Tickets in 3 Years Should Do This On SundayEverQuote Insurance Quotes | SponsoredBecause Market | SponsoredThese Are The Highest Quality Incontinence Products AroundBecause Market | Sponsored
 
 Advertisement
 
@@ -225,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhat If You Eat Moldy Bread?How Long Should You Use Your Bath Towel Without Washing It?Early Humans Mated With Inbred Neanderthals — at a Cost10 Superstitions About DeathWhy Do Monk Seals Get Eels Up Their Noses?10 Things You Should Never Mix With Alcoholby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksBuying a Concept Car Is Harder Than It SeemsEarly Humans Mated With Inbred Neanderthals — at a CostHow to Scare Away RattlesnakesVisitor Agreement10 Things You Should Never Mix With AlcoholCan a person remember being born?by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -248,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. 10 Reasons Why You Should Care About Net NeutralityRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StoryBuzznetThese Twins Were Named "Most Beautiful In The World", Wait Till You See Them TodayBuzznet|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Ridiculous History: 3 Times Society Refused to Accept Books on New ScienceRead Next StoryPlay Now | Caesars Casino SlotsHere's the Thing Casinos Don't Want You to KnowPlay Now | Caesars Casino Slots|SponsoredSponsoredRead Next StoryAmerican Giant If You Can Buy One of These American Giant Hoodies, Do It NowAmerican Giant|SponsoredSponsoredRead Next Story
