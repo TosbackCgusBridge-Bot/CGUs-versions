@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off all flannel shirts. 40% off all other styles!
+Receive 40% off your order!
 
-code: ORANGE pin: PROMOTION DETAILS
+code: FAMILY4 pin: PROMOTION DETAILS
 
 Customer Service Menu
 
