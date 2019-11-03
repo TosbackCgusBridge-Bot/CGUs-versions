@@ -210,23 +210,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Phishing scam targets users of Stripe payment processing service
-    *   Data breach causes 10 percent of small businesses to shutter
-    *   Mind Your Own Business Act beefs up privacy protections, gives consumers dominion over data, punishes execs
-    *   GOP lawmakers storm SCIF during impeachment inquiry, breach security with cell phones
-    *   Cyber defense is a team sport -- Train accordingly
-    
-    *   DDoS attack sidelines AWS DNS web service for hours
-    *   NordVPN confirms 2018 breach
-    *   Podcast: Eric O’Neill on bringing down Robert Hanssen
-    *   Tips for those of all ages interested in pursuing a career in cybersecurity
-    *   Malicious voice apps can turn Alexa and Google Home devices into spies, say researchers
-    
+    *   UN, NGOs targeted by ongoing phishing attack
+    *   Ontario Science Centre's marking firm hit with breach, 174K affected
     *   Facebook sues surveillance tool provider and hosts of hacking websites
-    *   Xhelper ad dropper adds to its list of victims
-    *   We interviewed cyber experts on a Vegas ferris wheel. Then ride security showed up...
-    *   Untitled Goose Game RCE flaw revealed
-    *   Bed Bath &. Beyond declares data incident
+    *   UniCredit data breach impacts 3 million Italians
+    *   Skimming malware found on American Cancer Society’s online store
+    
+    *   Katie Hill's husband says he didn't leak photos, tells parents computer was hacked
+    *   Ontario Science Centre's marking firm hit with breach, 174K affected
+    *   New MedusaLocker ransomware looks to make a monster profit
+    *   Google Play adware campaign taken down, developer identified
+    *   Controlling PowerShell with zero trust microsegmentation
+    
+    *   Energy company hit with DoS attack last spring identified as sPower
+    *   Two guilty pleas in Uber and Lynda.com hacking case
+    *   Greed is good... for this phishing scam
+    *   Emerging Products: Breach and attack simulation technologies
+    *   AttackIQ Platform v2.15
 
 Back to Top
 
