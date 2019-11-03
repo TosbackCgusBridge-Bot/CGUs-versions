@@ -6,7 +6,6 @@ Skip to main content Main menu
 *   Podcasts
 *   Detective's Den
 *   Schedule
-*   Searching For
 
 Toggle menu
 
@@ -32,18 +31,18 @@ Main menu
         *   Dark Web Exposed
         *   Famous Cases Explained
         *   How To Stay Safe
+        *   Searching For
     *   Channel Finder
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV01:39 Crime News 3 Teacher/Student Sex Scandals 01:42 Crime News Teacher-Student Sex Scandals 02:00 Cold Justice A New Season of Cold Justice Premieres August 4th!
+    *   Watch Live TV01:39 Crime News 3 Teacher/Student Sex Scandals 04:27 Snapped Snapped After the Verdict 2206: Valerie Pape 01:26 Killer Couples Jessie And Sherry Cummings Were Reclusive, And Not Well Off
 *   News
     *   Crime News
-    *   True Crime BuzzThis photo taken April 7, 2019, shows melted vinyl siding hanging off the side of a trailer home at 14 Cypress Court in the Timberline Mobile Home Park northeast of Goodfield. Photo: Matt Dayhoff/Journal Star/AP Crime News 9-Year-Old Charged With Murder In Deadly House Fire Paul Petersen Photo: Maricopa County Sheriff's Office Crime News Why Wasn’t Alleged Adoption Scammer Caught Sooner? Crime News Arizona Socialite Has Hit Man Blow Up Ex-Husband’s Car
+    *   True Crime BuzzCrime News Did the Menendez Brothers Get What They Deserved? Elton John and Michael Jackson Photo: Getty Crime News Elton John Clais Michael Jackson Was ‘Mentally Ill’ Morgan Geyser and Anissa Weier Photo: AP Crime News Slender Man Stabbing Victim Speaks Out For First Time
 *   Podcasts
 *   Detective's Den
 *   Schedule
-*   Searching For
 
 Get More Oxygen
 
