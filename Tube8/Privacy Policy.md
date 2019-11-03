@@ -269,7 +269,7 @@ Close Upload ★TUBE8 VIP
     
     Naughty America - Ava Addams comes home with new Lingerie
     
-    21k 75% NaughtyAmerica
+    19k 75% NaughtyAmerica
     
     HD 08:02
     
@@ -283,7 +283,7 @@ Close Upload ★TUBE8 VIP
     
     MyDirtyHobby - Naughty slutty babe creampied on halloween
     
-    37 0% mydirtyhobby
+    1k 0% mydirtyhobby
     
     HD 16:57
     
@@ -301,7 +301,7 @@ Close Upload ★TUBE8 VIP
     
     cuming watching threesomes with two girls
     
-    8 0%
+    2 0%
     
     Recent Searches
     
@@ -322,8 +322,8 @@ Close Upload ★TUBE8 VIP
     *   blonde
     *   big cock
     *   massage
-    *   masturbation
     *   brunette
+    *   masturbation
     *   gangbang
     *   big ass
     *   babe
@@ -377,31 +377,31 @@ Close Upload ★TUBE8 VIP
     
     *   Brazzers
     *   Videos: **3268**
-    *   Views: **703,393,862**
-    *   Followers: **5,095**
+    *   Views: **703,428,687**
+    *   Followers: **5,100**
     
     Rank  
     2
     
     *   Blacked
     *   Videos: **396**
-    *   Views: **170,761,235**
-    *   Followers: **2,362**
+    *   Views: **170,789,960**
+    *   Followers: **2,364**
     
     Rank  
     3
     
     *   Family Strokes
     *   Videos: **105**
-    *   Views: **11,163,208**
-    *   Followers: **3,590**
+    *   Views: **11,174,262**
+    *   Followers: **3,592**
     
     Rank  
     4
     
     *   Bratty Sis
     *   Videos: **112**
-    *   Views: **10,780,996**
+    *   Views: **10,791,074**
     *   Followers: **2,770**
     
     Trending Channels
@@ -413,15 +413,15 @@ Close Upload ★TUBE8 VIP
     
     *   Public Agent
     *   Videos: **790**
-    *   Views: **198,911,840**
-    *   Followers: **2,034**
+    *   Views: **198,935,701**
+    *   Followers: **2,035**
     
     Rank  
     4
     
     *   Bratty Sis
     *   Videos: **112**
-    *   Views: **10,780,996**
+    *   Views: **10,791,074**
     *   Followers: **2,770**
     
     Rank  
@@ -429,16 +429,16 @@ Close Upload ★TUBE8 VIP
     
     *   Family Strokes
     *   Videos: **105**
-    *   Views: **11,163,208**
-    *   Followers: **3,590**
+    *   Views: **11,174,262**
+    *   Followers: **3,592**
     
     Rank  
     15
     
     *   Moms Teach Sex
     *   Videos: **203**
-    *   Views: **79,428,545**
-    *   Followers: **1,818**
+    *   Views: **79,442,027**
+    *   Followers: **1,820**
 *   Pornstars
     
     Browse by
