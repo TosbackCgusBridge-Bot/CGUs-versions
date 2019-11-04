@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Newt Gingrich_: Not Getting a Single Republican Is a Bad Omen for Pelosi
+*   _David Shribman_: Nixon's 'Silent Majority' Speech, 50 Years Later
     
-*   _Susan Glasser_: 'He's No Mr. Nice Guy': Impeachment Comes for Trump
+*   _Derek Thompson_: The GOP Tax Cuts Didn't Work
     
-*   _Scott Jennings_: Democrats Are Wasting America's Time
+*   _Andy Puzder_: Why Does the Left Keep Discounting Trump's Economy?
     
-*   _Dana Milbank_: Republicans Convene the Cult of Trump
+*   _Bill Scher_: What Warren and Sanders Get Wrong About FDR
     
-*   _Madeline Osburn_: Washington Post's Terrible, No Good, Very Bad Week
+*   _Douglas Schoen_: How a Partisan Impeachment Process Will Harm Dems
     
-*   _Ezra Klein_: Elizabeth Warren's Plan to Pay for Medicare-for-All, Explained
+*   _Andrew McCarthy_: Lesson for the White House: Impeachment Is Unpredictable
     
-*   _Rachel Hawley_: Warren's 'Plan for That' Slogan Is Getting Old
+*   _Christian Toto_: 'SNL' Goes Full Pravda for 'President' Warren
     
-*   _John Nolte_: Did Media's Ukraine Gambit Kill Their Most Electable Option?
+*   _Siva Vaidhyanathan_: The Real Reason Facebook Won’t Fact-Check Political Ads
     
-*   _Geoffrey Skelley_: Why the Beto O'Rourke Campaign Failed
+*   _David Marcus_: NYT Writer Dismisses the Emotional Toll on the Cancelled
     
-*   _Scott Hodge_: Turning Virtue Into Vice: Wealth Taxes Are the New Sin Taxes
+*   _Jill Filipovic_: The Despicable Shaming of Katie Hill
     
-*   _Lux Alptraum_: Hill's Resignation Risks Careers of Young Women After Her
+*   _Noah Rothman_: The Conflict Avoidance Generation
     
-*   _Liel Leibovitz_: If Michael Doran Were on Wall Street, He'd Be a Billionaire
+*   _David Graham_: Trump's Reverse Cover-Up
     
-*   _Yousef Munayyer_: There Will Be a One-State Solution
+*   _Deroy Murdock_: What, Exactly, Is President Trump's 'High Crime' Here?
     
-*   _Michael Kranz_: What's Next for Lebanon After PM's Resignation?
+*   _Ryan Matsumoto_: Dems' Impeachment Vote Spells Big Trouble for Trump
     
-*   _Gil Kapen_: D.C. Arbitration Threatens Egypt's Economic Revival
+*   _Roger Simon_: Pelosi's Impeachment Charade Is a Disaster for Democrats
     
-*   _Michael Barone_: Is Boris Johnson Headed to Big Brexit Victory?
+*   _John Cassidy_: Elizabeth Warren Doubles Down on Medicare for All
     
-*   _Annie Lowrey_: California Is Becoming Unlivable
+*   _Justin Haskins_: Warren Health Care Plan Would Be a National Nightmare
     
-*   _E.J. Dionne_: Trump Likes That America Is Polarized, Fragmented
+*   _Mason Adams_: Why Virginia's Elections Bode Ill for Republicans
     
-*   _Mark Hemingway_: Donald Trump Versus 'The Interagency Consensus'
+*   _Victor Davis Hanson_: Is California Becoming Premodern?
     
-*   _David Graham_: The Party-Line Impeachment Is a Problem for Democrats
+*   _Robert Reich_: Facebook and Twitter Spread Trump's Lies
     
-*   _Gibson &. Brown_: Will Virginia Go Blue in Statewide Elections?
+*   _Brad Parscale_: Why Democrats View Free Speech as a Political Threat
     
-*   _Salena Zito_: Western Pennsylvania Is Home to Bellwether Race of 2020
+*   _Karl Marlantes_: Congress Also Bears Blame for Trump's Syria Decisions
     
-*   _Emily Stewart_: Silicon Valley Should Take Hawley War on Big Tech Seriously
+*   _Sumantra Maitra_: A Return to Realism Is Necessary for America's Survival
     
-*   _Robin Wright_: Trump's Baffling Plan to Pillage Syria's Oil
+*   _Andrew Sullivan_: Hard Questions on Young People &. Gender Transitions
     
 
 *   Previous
@@ -252,47 +252,59 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationHarvard-Harris
-    *   Biden33
-    *   Warren15
-    *   Sanders18
-    *   Buttigieg4
-    *   Harris5
-    *   Yang2
-    *   Klobuchar3
-    *   O'Rourke2
-    *   Booker3
-    *   Gabbard0
-    *   Steyer1
-    *   Castro0
-    *   BennetBiden +15
-*   President Trump Job ApprovalHarvard-Harris
-    *   Approve46
-    *   Disapprove54Disapprove +8
-*   Direction of CountryHarvard-Harris
-    *   Right Direction39
-    *   Wrong Track54Wrong Track +15
-*   Iowa Democratic Presidential CaucusNY Times/Siena
-    *   Warren22
-    *   Buttigieg18
-    *   Biden17
+*   2020 Democratic Presidential NominationNBC News/Wall St. Jrnl
+    *   Biden27
+    *   Warren23
     *   Sanders19
-    *   Klobuchar4
-    *   Harris3
-    *   Steyer2
-    *   Gabbard2
+    *   Buttigieg6
+    *   Harris4
     *   Yang3
+    *   Klobuchar5
+    *   Gabbard2
     *   Booker2
-    *   O'Rourke
-    *   BennetWarren +3
+    *   O'Rourke1
+    *   Steyer0
+    *   Bennet1
+    *   Castro1Biden +4
+*   2020 Democratic Presidential NominationABC News/Wash Post
+    *   Biden28
+    *   Warren23
+    *   Sanders17
+    *   Buttigieg9
+    *   Harris2
+    *   Yang2
+    *   Klobuchar2
+    *   Gabbard2
+    *   Booker2
+    *   O'Rourke1
+    *   Steyer1
+    *   Bennet1
+    *   Castro1Biden +5
+*   2020 Democratic Presidential NominationFOX News
+    *   Biden31
+    *   Warren21
+    *   Sanders19
+    *   Buttigieg7
+    *   Harris3
+    *   Yang3
+    *   Klobuchar2
+    *   Gabbard2
+    *   Booker2
+    *   O'Rourke2
+    *   Steyer1
+    *   Bennet0
+    *   Castro0Biden +10
+*   General Election: Trump vs. BidenNBC News/Wall St. Jrnl
+    *   Biden50
+    *   Trump41Biden +9
 
 More Latest Polls In The News
 
-*   Warren: My "Medicare For All" Plan Can Work Without Raising Taxes One Cent On The Middle Class
-*   Assad: Trump Is "The Most Transparent President," He Admits U.S. Gov't Works For Oil &. Weapons Lobbies
-*   Hillary Clinton Laughs When Asked How She Killed Jeffrey Epstein On "The Daily Show"
-*   Former Acting CIA Director John McLaughlin on Impeachment: "Thank God For The Deep State"
-*   Schiff: Given The Circus-Like Stunts By Republicans, "We Can't Surrender The Process To The Minority Party"
+*   Trump To Reporters: "You'd Be Doing The Public A Service" If You Reveal Identity Of Ukraine Whistleblower
+*   Buttigieg on M4A: No Reason To Spend $20 Trillion "When We Can Do The Same Thing For A Fraction Of The Cost"
+*   Bannon: "Joe Biden Is The Hand Grenade And Hunter Biden Is The Pin" To Blow Up Democratic Establishment
+*   Wallace Grills Conway On Withholding Ukraine Aid: "Isn’t That The Definition Of A Quid-Pro-Quo?"
+*   Prager to Maher: America "Least Racist Multicultural, Multiethnic Country In The History Of The World"
 
 *   Politics
 *   Policy
