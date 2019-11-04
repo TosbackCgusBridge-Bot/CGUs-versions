@@ -1,4 +1,4 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content gifted with the perfect fit, and so much more - discover the story.
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content gifted with the perfect fit, and so much more - discover the story. Guest Loyalty Members, win our Gifted Getaway! Shop Now or Enroll Today. Military guests enjoy 10% off &. free shipping on orders of $129. Shop Now or Learn More.
 
 *   United States
 *   FIND A STORE
@@ -445,81 +445,28 @@ Please note that requests may require verification of identity and authenticity.
 
 This Privacy &. Security Policy supersedes all prior policies and is effective October 1, 2019.
 
-FAQs
-
-Ship to Store FAQS
-
-Your Account
-
-*   Email Updates
-*   Maintain Your Wish List
-
-Shipping/Handling
-
-*   Shipping Rates/Options
-*   International Orders
-
-Returns
-
-*   Easy Returns
-
-Promotions
-
-*   2x Points
-*   Store Events
-*   Military Discount
-*   All Special Offers
-
-Sweepstakes Official Rules/Winners
-
-*   Sweepstakes Winners
-*   Social Giveaway Official Rules
-
-Our Merchandise
-
-*   Availability
-*   Pricing Policy
-*   Hemming
-*   Layaway
-
-Buckle Credit Card
-
-*   Buckle Credit Card
-*   Buckle Card Payment Options
-
-Buckle Guest Loyalty
-
-*   Buckle Guest Loyalty Program
-*   Buckle Guest Loyalty Terms &. Conditions
-
-Privacy &. Security
+Terms &. Conditions
 
 *   Privacy Policy
-*   Terms &. Conditions
-*   Fraud Alerts
 *   Privacy Policy - Applicants
-*   Safe Shopping
-*   Image Use Agreement
-
-Buckle Information
-
-*   Team Highlights
-*   Ratings &. Reviews
-*   Personal Shopping
-*   buckle SELECT
-*   Snapchat
-*   Store Locator
-*   Investor Information
-*   Buckle Outlet Stores
-*   Buckle Coupons
-*   Corporate Profile
+*   Terms of Use
 *   Buckle Affiliate Network
-*   Music / Celebrity Sponsorship Requests
+*   Music/Celebrity Sponsorship Requests
+*   Sweepstakes Winners
+*   Social Giveaway Official Rules
+*   Anvil Getaway Official Rules
+*   Accessibility Policy
 
-Gift Cards/Services
+Services
 
+*   Ship To Store
+*   Mobile App
+*   Guest Loyalty
+*   Personal Shopping
+*   Military Discount
 *   Gift Services
 *   Gift Card Donation Requests
+*   All Services
 
 Contact UsGuest Services:
 
@@ -623,9 +570,10 @@ STAY CONNECTED
 RESERVE IN STORE
 
 1.  © 2019 Buckle Inc.
-2.  Privacy Policy
-3.  Data Security Incident
+2.  Terms
+3.  Privacy Policy
 4.  Transparency In Supply Chains
+5.  Accessibility
 
 Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries. Google Play and the Google Play logo are trademarks of Google LLC.Bag Size ExceededClose Cart Threshold Modal×
 
