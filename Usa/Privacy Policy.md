@@ -6,8 +6,6 @@ Change country/language X
 
 Autodesk logo
 
-*   0
-
 *   Sign In
     
     Autodesk Account
@@ -160,7 +158,7 @@ Free trial
 
 Subscribe
 
-$1,610.00/year
+—/year
 
 Software for Building Information Modeling
 
@@ -170,7 +168,7 @@ Free trial
 
 Subscribe
 
-$2,310.00/year
+—/year
 
 Cost-effective 2D CAD
 
@@ -180,7 +178,7 @@ Free trial
 
 Subscribe
 
-$400.00/year
+—/year
 
 Try, buy, or learn more about Autodesk products See all products Autodesk University Las Vegas | November 18–21, 2019 Experience what’s next for your industry at AU Las Vegas
 
@@ -203,7 +201,7 @@ See what's included
 
 Product details
 
-$2,825.00/year
+\---/year
 
 Subscribe
 
@@ -213,9 +211,9 @@ See what's included
 
 Product details
 
-$2,590.00/year
+\---/year
 
-Subscribe Feedback FOLLOW AUTODESK
+Subscribe FEEDBACK FOLLOW AUTODESK
 
 *   Facebook
 *   Instagram
