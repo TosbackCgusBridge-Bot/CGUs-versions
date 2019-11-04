@@ -210,17 +210,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   UN, NGOs targeted by ongoing phishing attack
-    *   Ontario Science Centre's marking firm hit with breach, 174K affected
-    *   Facebook sues surveillance tool provider and hosts of hacking websites
-    *   UniCredit data breach impacts 3 million Italians
-    *   Skimming malware found on American Cancer Society’s online store
-    
-    *   Katie Hill's husband says he didn't leak photos, tells parents computer was hacked
-    *   Ontario Science Centre's marking firm hit with breach, 174K affected
     *   New MedusaLocker ransomware looks to make a monster profit
-    *   Google Play adware campaign taken down, developer identified
-    *   Controlling PowerShell with zero trust microsegmentation
+    *   Elijah Cummings aviation covert testing bill, other legislation move through Congress
+    *   Skimming malware found on American Cancer Society’s online store
+    *   Podcast: Eric O’Neill on bringing down Russian spy Robert Hanssen
+    *   APT 41 using MessageTap malware to gather SMS traffic
+    
+    *   APT 41 using MessageTap malware to gather SMS traffic
+    *   Facebook sues surveillance tool provider and hosts of hacking websites
+    *   New GlitchPOS credit card stealer malware found for sale
+    *   Bipartisan bill would have local governments use .gov to strengthen cybersecurity defenses
+    *   Greed is good... for this phishing scam
     
     *   Energy company hit with DoS attack last spring identified as sPower
     *   Two guilty pleas in Uber and Lynda.com hacking case
