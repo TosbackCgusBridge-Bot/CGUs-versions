@@ -84,8 +84,8 @@ View more results
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Slither.io
     *   Stunt Skateboard 3D
-    *   Combat Strike 2: 3D Shooting Game Online Multiplayer
     *   Subway Clash 3D: Shooting Game Online Multiplayer
+    *   Combat Strike 2: 3D Shooting Game Online Multiplayer
     *   Pixel Apocalypse
     *   Short Life
     *   Miami Crime Simulator 3D
@@ -115,10 +115,10 @@ View more results
     *   Boeing Flight Simulator
     *   Short Life
     *   Miami Crime Simulator 3D
-    *   Chrome Dino
     *   Fireboy and Watergirl 5: Elements
-    *   Slope: Neon Ball Rolling Game
+    *   Chrome Dino
     *   Five Nights at Freddy's 5
+    *   Slope: Neon Ball Rolling Game
     *   Five Nights at Freddy's 4
     *   Mine Clone 4
 *   Top Categories
@@ -179,8 +179,8 @@ View more results
     *   Pizza Real Life Cooking
     *   Slope: Neon Ball Rolling Game
     *   Love Tester 2.0
-    *   Burger Restaurant Express
     *   Back To School: Princesses Rush
+    *   Burger Restaurant Express
     *   Extreme Dental Emergency
     *   Secret Office Kissing
     *   Love Tester Deluxe 2
@@ -208,8 +208,8 @@ View more results
     *   Madalin Stunt Cars 2
     *   Highway Rider Extreme: Motorbike Game 3D
     *   Agame Stunt Cars
-    *   Hill Racing Challenge
     *   Super Speed Racer
+    *   Hill Racing Challenge
     *   Moto X3M: Motorcycle Racing Game
     *   Madalin Cars Multiplayer
     *   Murder
@@ -260,7 +260,7 @@ View more results
     Recommended Games
     
     *   Roblox
-    *   League of Angels 3
+    *   PopTropica
     *   Wizard 101
     *   Agame Stunt Cars
     *   Fireboy and Watergirl: The Forest Temple
