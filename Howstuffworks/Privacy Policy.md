@@ -209,11 +209,15 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksRidiculous History: 3 Times Society Refused to Accept Books on New Science1STHow to Write an Acceptance Letter for a New Job2NDHow much should your child get for allowance?3RDDoes Social Security continue after a spouse dies?4THPlay Now | Caesars Casino Slots | SponsoredHere's the Thing Casinos Don't Want You to KnowPlay Now | Caesars Casino Slots | SponsoredAmerican Giant | Sponsored If You Can Buy One of These American Giant Hoodies, Do It NowAmerican Giant | SponsoredGundry MD | SponsoredTop U.S. Surgeon: This Is What Happens To Dark Spots (When You Do This Every Morning)Gundry MD | SponsoredSenior Living | Search Ads | SponsoredLuxury Senior Living In Colorado Is Surprisingly AffordableSenior Living | Search Ads | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksWhat causes 'old person' smell?1STWhere Do Bullets Go When Guns Are Fired Straight Up Into the Air?2NDCan we bring Neanderthals back?3RDEarly Humans Mated With Inbred Neanderthals — at a Cost4THBuzznet | SponsoredThese Twins Were Named "Most Beautiful In The World", Wait Till You See Them TodayBuzznet | SponsoredKelley Blue Book | SponsoredLast Call: 10 Vehicles Calling it Quits in 2019Kelley Blue Book | SponsoredPost Fun | SponsoredRemember The Olsen Twins? Wait Till You See Them TodayPost Fun | SponsoredHealth Central | SponsoredWatch for These Advanced Melanoma Warning SignsHealth Central | Sponsored
 
 Advertisement
 
-dictionary-astronomy termsWhat Existed Before the Big Bang?BY Robert Lamb &. Patrick J. Kigermilitary-firearmsWhere Do Bullets Go When Guns Are Fired Straight Up Into the Air?BY Patrick J. Kigercomputer-internet10 Reasons Why You Should Care About Net NeutralityBY Dave RoosEverQuote Insurance Quotes | SponsoredColorado Drivers With No Tickets in 3 Years Should Do This On SundayEverQuote Insurance Quotes | SponsoredBecause Market | SponsoredThese Are The Highest Quality Incontinence Products AroundBecause Market | Sponsored
+home improvement-household hints &. tipsWhy do most zippers say "YKK" on the pull-tab?
+
+scienceWhere do bullets go when guns are fired straight up into the air?
+
+style-fashionWhy Is the Speedo Disappearing From European Beaches?BY Chris OpferDaily Finance Stories | SponsoredHoney Boo Boo Is So Skinny Now And Looks Like A BarbieDaily Finance Stories | SponsoredLivestly | SponsoredShe Had No Clue Why the Crowd Was CheeringLivestly | Sponsored
 
 Advertisement
 
@@ -221,7 +225,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksBuying a Concept Car Is Harder Than It SeemsEarly Humans Mated With Inbred Neanderthals — at a CostHow to Scare Away RattlesnakesVisitor Agreement10 Things You Should Never Mix With AlcoholCan a person remember being born?by Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksHumans Didn't Outsmart Neanderthals, We Just Outlasted ThemCan Humans Have Superpowers?What if you shot a gun in space?What If You Eat Moldy Bread?10 Superstitions About DeathMeet '\`Oumuamua,' the Strange Interstellar Asteroid That Sent Us a Messageby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +248,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Ridiculous History: 3 Times Society Refused to Accept Books on New ScienceRead Next StoryPlay Now | Caesars Casino SlotsHere's the Thing Casinos Don't Want You to KnowPlay Now | Caesars Casino Slots|SponsoredSponsoredRead Next StoryAmerican Giant If You Can Buy One of These American Giant Hoodies, Do It NowAmerican Giant|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. What causes 'old person' smell?Read Next StoryBuzznetThese Twins Were Named "Most Beautiful In The World", Wait Till You See Them TodayBuzznet|SponsoredSponsoredRead Next StoryKelley Blue BookLast Call: 10 Vehicles Calling it Quits in 2019Kelley Blue Book|SponsoredSponsoredRead Next Story
