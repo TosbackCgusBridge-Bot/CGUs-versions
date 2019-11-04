@@ -28,8 +28,9 @@ Date Range Date Range content loading
     
     View Device Requests
     
-    Device Requests by Year - Worldwide
-    
+    Device Requests by Year - Worldwide 70k60k50k40k30k20k10k0k79%201878%201767%201659%201560%201473%2013
+    *   Requests Received
+    *   Requests where Data Provided
 *   Financial Identifier
     
     Financial Identifier requests are based on financial identifiers such as credit/debit card or iTunes Gift Card.
@@ -81,8 +82,9 @@ Date Range Date Range content loading
     
     View Emergency Requests
     
-    Emergency Requests by Year - Worldwide
-    
+    Emergency Requests by Year - Worldwide 1000900800700600500400300200100088%201882%2017N/A2016N/A2015N/A2014N/A2013
+    *   Requests Received
+    *   Requests where Data Provided
 *   United States National Security
     
     U.S. National Security requests seek customer data in response to national security related investigations. National Security requests include orders received under the Foreign Intelligence Surveillance Act (“FISA”) and National Security Letters (“NSLs”). To date, Apple has not received any orders for bulk data.
