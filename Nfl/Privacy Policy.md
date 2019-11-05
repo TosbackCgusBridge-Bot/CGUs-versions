@@ -1,5 +1,5 @@
+*   DAL•23NYG154th ? 12:40
 *   TB2-634SEA7-240Final (OT)
-*   DAL4-3NYG2-6Mon, 8:15 pm ET
 *   HOU6-326JAX4-53Final
 *   IND5-324PIT4-426Final
 *   CHI3-514PHI5-422Final
@@ -35,8 +35,8 @@
 *   NFL Films
 *   Game Pass
 
+*   DAL•23NYG154th ? 12:40
 *   TB34SEA40Final (OT)
-*   DAL4-3NYG2-6Mon, 8:15 pm ET
 *   HOU26JAX3Final
 *   IND24PIT26Final
 *   CHI14PHI22Final
