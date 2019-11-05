@@ -3,16 +3,16 @@
 *   games
 *   videos
 
-New Games Next in  12:06
+New Games Next in  00:00
 
-*   By Date Next addition in 12:06
+*   By Date Next addition in 00:00
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more LIBRARY
 
-*   New Games Next in 12:06
-*   Best of new games 1032 games
+*   New Games Next in 00:00
+*   Best of new games 1043 games
 *   Most Popular Games 20029 games
 *   Played Games 0 games
 *   Liked Games 0 games
@@ -20,23 +20,23 @@ Categories &. more LIBRARY
 
 CATEGORIES
 
-*   Games for girls 24,397 games
-*   Driving &. Racing Games 6,922 games
+*   Games for girls 24,400 games
+*   Driving &. Racing Games 6,924 games
 *   Strategy &. RPG Games 2,427 games
-*   Management Games 3,665 games
-*   Thinking Games 12,397 games
-*   Action &. Adventure Games 16,589 games
-*   Sports Games 2,320 games
-*   Shooting Games 8,602 games
+*   Management Games 3,666 games
+*   Thinking Games 12,398 games
+*   Action &. Adventure Games 16,592 games
+*   Sports Games 2,321 games
+*   Shooting Games 8,604 games
 *   Fighting Games 2,109 games
-*   Skill Games 11,761 games
-*   Arcade &. Classic Games 13,675 games
-*   Fun &. Crazy Games 2,596 games
+*   Skill Games 11,764 games
+*   Arcade &. Classic Games 13,680 games
+*   Fun &. Crazy Games 2,597 games
 
 Play with friends  
-Powered by Y8 Account 129 Y8 Multiplayer Games 2,112 Y8 High Score Games 1,190 Y8 Achievements Games 839 Y8 Screenshots Games 1,512 Y8 Online Save Games 3,205 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 130 Y8 Multiplayer Games 2,113 Y8 High Score Games 1,190 Y8 Achievements Games 839 Y8 Screenshots Games 1,513 Y8 Online Save Games 3,206 All Y8 Games Games Last Highscore:
 
-**148,696** points on Hide Online by alya
+**4,804** points on Pixel Road Taxi Depot by Fay
 
 Help us improve Bad translation? Social
 
