@@ -9,6 +9,7 @@ Main content starts below.
 *   Privacy Policy
 *   Cookie Policy
 *   Copyright Policy
+*   California Privacy Disclosure
 
 Privacy PolicyTo learn more about Privacy at LinkedIn please visit our Privacy Hub.
 
