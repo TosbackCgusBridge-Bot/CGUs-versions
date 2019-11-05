@@ -209,15 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksWhat causes 'old person' smell?1STWhere Do Bullets Go When Guns Are Fired Straight Up Into the Air?2NDCan we bring Neanderthals back?3RDEarly Humans Mated With Inbred Neanderthals — at a Cost4THBuzznet | SponsoredThese Twins Were Named "Most Beautiful In The World", Wait Till You See Them TodayBuzznet | SponsoredKelley Blue Book | SponsoredLast Call: 10 Vehicles Calling it Quits in 2019Kelley Blue Book | SponsoredPost Fun | SponsoredRemember The Olsen Twins? Wait Till You See Them TodayPost Fun | SponsoredHealth Central | SponsoredWatch for These Advanced Melanoma Warning SignsHealth Central | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksCan we bring Neanderthals back?1STHow to Tell How Old Your Dog is2NDWhat If You Eat Moldy Bread?3RDEarly Humans Mated With Inbred Neanderthals — at a Cost4THKelley Blue Book | Sponsored10 Electric Cars That Last the LongestKelley Blue Book | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredJournalistate | Sponsored25 Celebs You Didn't Realize Are Gay - No. 8 Will Shock WomenJournalistate | SponsoredAll Pro Saver | SponsoredColorado: New 2019 Program Helps Pay Off Senior's Mortgages Who Are Born Before 1970All Pro Saver | Sponsored
 
 Advertisement
 
-home improvement-household hints &. tipsWhy do most zippers say "YKK" on the pull-tab?
-
-scienceWhere do bullets go when guns are fired straight up into the air?
-
-style-fashionWhy Is the Speedo Disappearing From European Beaches?BY Chris OpferDaily Finance Stories | SponsoredHoney Boo Boo Is So Skinny Now And Looks Like A BarbieDaily Finance Stories | SponsoredLivestly | SponsoredShe Had No Clue Why the Crowd Was CheeringLivestly | Sponsored
+military-firearmsWhere Do Bullets Go When Guns Are Fired Straight Up Into the Air?BY Patrick J. Kigerpeople-culture &. traditionsThere's More to Cannibalism Than Just People Eating PeopleBY Laurie L. Dovelife science-evolutionWhy Did Humans Lose Their Tails?BY Laurie L. DoveObsev | SponsoredMan Develops Buried Film From 1929, Looks Closer And Regrets ItObsev | SponsoredThe Legacy Report | SponsoredMan Who Called NVIDIA and AMD Makes New 5G PredictionThe Legacy Report | Sponsored
 
 Advertisement
 
@@ -225,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksHumans Didn't Outsmart Neanderthals, We Just Outlasted ThemCan Humans Have Superpowers?What if you shot a gun in space?What If You Eat Moldy Bread?10 Superstitions About DeathMeet '\`Oumuamua,' the Strange Interstellar Asteroid That Sent Us a Messageby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorks10 Countries With Perfect ClimatesWhat causes 'old person' smell?What Did Your Address Look Like 250 Million Years Ago?10 Things You Can Do to Help Save the EarthWhy do most zippers say "YKK" on the pull-tab?What if a woman takes Viagra?by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -248,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. What causes 'old person' smell?Read Next StoryBuzznetThese Twins Were Named "Most Beautiful In The World", Wait Till You See Them TodayBuzznet|SponsoredSponsoredRead Next StoryKelley Blue BookLast Call: 10 Vehicles Calling it Quits in 2019Kelley Blue Book|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Can we bring Neanderthals back?Read Next StoryKelley Blue Book10 Electric Cars That Last the LongestKelley Blue Book|SponsoredSponsoredRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next Story
