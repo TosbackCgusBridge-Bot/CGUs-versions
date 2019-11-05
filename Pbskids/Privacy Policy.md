@@ -1,6 +1,6 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _tip_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _app_
 
-What to keep in mind when responding to toddlers' irrational behavior. What to keep in mind when responding to toddlers' irrational behavior. Read more.
+The Cat in the Hat Builds That app wins the People's Voice webby!The Cat in the Hat Builds That app wins the People's Voice webby!Get it today!
 
 Toggle message bar
 
@@ -14,6 +14,9 @@ Toggle message bar
     Choose your station for TV schedules and local features
     
     Select your local station
+    
+    *   Rocky Mountain PBS
+    *   Colorado Public Television: CPT12
     
     Results for 80202. Try another zip code.What is your zip code?PBS KIDS uses your zip code to find our stations in your area.Find your stationBackPBS KIDS Super Vision
     
