@@ -44,7 +44,7 @@ Download Ubuntu ›
 
 Further reading
 
-*   Roadmap for official support for the Raspberry Pi 4
+*   Roadmap for Ubuntu official support for the Raspberry Pi 4
 *   The State of Robotics – October 2019
 *   Design and Web team summary – 25 October 2019
 *   Ubuntu Server development summary – 29 October 2019
