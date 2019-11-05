@@ -210,23 +210,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   New MedusaLocker ransomware looks to make a monster profit
-    *   Elijah Cummings aviation covert testing bill, other legislation move through Congress
-    *   Skimming malware found on American Cancer Society’s online store
-    *   Podcast: Eric O’Neill on bringing down Russian spy Robert Hanssen
-    *   APT 41 using MessageTap malware to gather SMS traffic
+    *   Greed is good... for this phishing scam
+    *   DDoS attack sidelines AWS DNS web service for hours
+    *   Report: Hotel chain modifies bed-facing robots to prevent unwanted spying
+    *   Google Play adware campaign taken down, developer identified
+    *   Web.com discloses breach affecting customer account info
     
-    *   APT 41 using MessageTap malware to gather SMS traffic
     *   Facebook sues surveillance tool provider and hosts of hacking websites
-    *   New GlitchPOS credit card stealer malware found for sale
-    *   Bipartisan bill would have local governments use .gov to strengthen cybersecurity defenses
+    *   Podcast: Eric O’Neill on bringing down Russian spy Robert Hanssen
     *   Greed is good... for this phishing scam
+    *   Cyber defense is a team sport -- Train accordingly
+    *   CyberRisk Alliance Appoints John Whelan to President
     
-    *   Energy company hit with DoS attack last spring identified as sPower
-    *   Two guilty pleas in Uber and Lynda.com hacking case
-    *   Greed is good... for this phishing scam
-    *   Emerging Products: Breach and attack simulation technologies
-    *   AttackIQ Platform v2.15
+    *   This woman who delivered flowers to your office was a hacker. Did you let her in?
+    *   Every Desjardins customer impacted by June data incident
+    *   NCR blocked Mint, Quickbooks after attackers take over, drain accounts
+    *   Chinese APT group Calypso hacked state institutions in six countries
+    *   Google patches Chrome flaw used in mysterious WizardOpium exploit attack
 
 Back to Top
 
