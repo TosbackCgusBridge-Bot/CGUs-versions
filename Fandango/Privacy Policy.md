@@ -5,46 +5,51 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Terminator: Dark Fate
     *   Joker (2019)
     *   Maleficent: Mistress of Evil
+    *   Harriet (2019)
     *   The Addams Family (2019)
     *   Zombieland: Double Tap
     *   Countdown (2019)
     *   Black and Blue (2019)
-    *   Gemini Man
-    *   The Lighthouse (2019)
-    *   The Current War: Director's Cut
-    *   Abominable (2019)
-    *   Downton Abbey (2019)
+    *   Motherless Brooklyn
+    *   Arctic Dogs
+    *   Parasite (2019)
     *   See All Now Playing
     
     Opening This Week = Limited Release
-    
-    *   Arctic Dogs
-    *   Harriet (2019)
-    *   Motherless Brooklyn
-    *   Terminator: Dark Fate
-    *   Inside Game
-    *   The Portal
-    *   See All Opening This Week
-    
-    Pre Sales Tickets
-    
-    *   Star Wars: The Rise of Skywalker (2019)
-    
-    Coming Soon
     
     *   Doctor Sleep
     *   Last Christmas (2019)
     *   Midway (2019)
     *   Playing with Fire (2019)
+    *   The All-Americans (2019)
+    *   Better Days (2019)
+    *   Christmas Jars
+    *   The Divine Plan
+    *   Honey Boy
+    *   Lynyrd Skynyrd: Last of The Street Survivors Farewell Tour
+    *   The Kingmaker (2019)
+    *   See All Opening This Week
+    
+    Pre Sales Tickets
+    
+    *   Star Wars: The Rise of Skywalker (2019)
+    *   Frozen II
+    
+    Coming Soon
+    
     *   Charlie's Angels (2019)
     *   Ford v Ferrari
     *   The Good Liar
     *   A Beautiful Day in the Neighborhood
-    *   Frozen II
     *   21 Bridges
     *   Knives Out
+    *   Queen &. Slim
+    *   Playmobil: The Movie
+    *   Black Christmas (2019)
+    *   Jumanji: The Next Level
     *   See All Coming Soon
     
     Explore More
@@ -74,7 +79,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   The Week in Movie News: Director Peyton Reed Returns for ‘Ant-Man 3,’ ‘Spider-Verse’ Sequel Set for 2022 and More Read More
     *   The Week in Movie Trailers: ‘The Grudge’ Reboot, ‘Knives Out,’ ‘Jumanji: The Next Level’ and More Read More
-    *   Next 3 Major Awards Contenders: 'Jojo Rabbit,' 'The Irishman,' '1917' Read More
+    *   Next 3 Action-Packed Sci-Fi Futures: 'Star Wars: The Rise of Skywalker,' 'Bloodshot,' 'The Invisible Man' Read More
     
     Explore Content
     *   Movie Reviews
@@ -301,9 +306,9 @@ Offers
     
     100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
     
-*   Every 4 Tickets = $5 For You
+*   Get a holiday movie on Chex
     
-    Buy tickets. Earn points. Get a $5 reward for a movie on us. BUY TICKETS
+    When you purchase 3 specially marked boxes of Chex Cereal. SEE DETAILS
     
 *   Get a $5 Concession Certificate
     
@@ -361,7 +366,7 @@ Follow Us
 *   Fandango on Instagram
 *   Fandango on Youtube
 
-Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help My Fandango Live Chat
+Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help Feedback My Fandango Live Chat
 
 *   About Fandango
 *   Careers
