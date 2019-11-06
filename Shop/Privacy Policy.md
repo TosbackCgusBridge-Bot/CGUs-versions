@@ -305,9 +305,9 @@ Lenovo Explore Close
         *   Trade In Program
         *   Outlet
         
-        Sneak Peak
+        Days of Deals
         
-        Shop doorbuster deals through this weekend on lenovo.com!
+        Click here to shop new deals every day &. save up to $900 on select PC's. Sale ends 11/17
         
 *   Phones
 *   Data Center
@@ -1097,7 +1097,7 @@ How may I contact Lenovo's Privacy Program?
 
 If you have any questions about this privacy statement, you can contact Lenovo via privacy@lenovo.com or via U.S. postal mail at Lenovo, Attn: Privacy Program, 1009 Think Place, Morrisville, NC, USA 27560.
 
-STAY CONNECTED Wrong Input × FacebookInstragramYouTubeTwitterFlickrForums Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium - DutchBelgium - FrançaisBelizeBoliviaBotswanaBrazilBulgariaCanada - EnglishCanada - FrançaisChileChinaColombiaCosta RicaCote d'IvoireCroatiaCzech RepublicDenmarkDominican RepublicEcuadorEgypt - EnglishEgypt - العربيةEl SalvadorEstoniaFinlandFranceGermanyGhanaGreeceGuatemalaHondurasHong Kong S.A.R. of China - EnglishHong Kong S.A.R. of China - 繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNicaraguaNigeriaNorwayOmanPakistanPanamaParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia - EnglishSaudi Arabia - العربيةSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland - EnglishSwitzerland - FrenchSwitzerland - GermanTaiwan RegionTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates - EnglishUnited Arab Emirates - العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe ABOUT LENOVO
+STAY CONNECTED Wrong Input × FacebookInstragramYouTubeTwitterFlickrForums Country Selector AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium - DutchBelgium - FrançaisBelizeBoliviaBotswanaBrazilBulgariaCanada - EnglishCanada - FrançaisChileChinaColombiaCosta RicaCote d'IvoireCroatiaCzech RepublicDenmarkDominican RepublicEcuadorEgypt - EnglishEgypt - العربيةEl SalvadorEstoniaFinlandFranceGermanyGhanaGreeceGuatemalaHondurasHong Kong S.A.R. of China - EnglishHong Kong S.A.R. of China - 繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNicaraguaNigeriaNorwayOmanPakistanPanamaParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia - EnglishSaudi Arabia - العربيةSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland - EnglishSwitzerland - FrenchSwitzerland - GermanTaiwan RegionTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates - EnglishUnited Arab Emirates - العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe ABOUT LENOVO
 
 *   Our Company
 *   News
