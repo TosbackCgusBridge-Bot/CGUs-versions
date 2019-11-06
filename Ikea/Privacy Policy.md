@@ -1,11 +1,3 @@
-*   Customer Service
-*   IKEA Family
-*   IKEA for Business
-*   IKEA Planning Tools
-*   Track My Order
-*   Find a Location
-*   Credit Card
-
 Menu IKEA
 
 *   Offers
@@ -302,12 +294,6 @@ Menu IKEA
     *   Winter Holidays
     *   Collections
     *   Back to College
-*   *   Customer Service
-    *   IKEA Family
-    *   IKEA for Business
-    *   IKEA Planning Tools
-    *   Track My Order
-    *   Credit Card
 
 *   Find your IKEA store
 
