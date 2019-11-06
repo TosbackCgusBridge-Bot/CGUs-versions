@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   ROSCon 2019 – Canonical
+*   Get Ubuntu Advantage with ESM – free to the community
 *   Roadmap for Ubuntu official support for the Raspberry Pi 4
 *   The State of Robotics – October 2019
 *   Design and Web team summary – 25 October 2019
-*   Ubuntu Server development summary – 29 October 2019
-*   OpenStack Charms 19.10 – Train, Policy Overrides and more
 
 *    ›
