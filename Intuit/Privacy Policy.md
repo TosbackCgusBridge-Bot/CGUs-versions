@@ -1,6 +1,6 @@
 Free Shipping over $99See DetailsEnable Accessibility
 
-*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
+*   My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -27,19 +27,7 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBack Day 4 Of COUPON CODE BIGSALE4 ENDS IN\*Offer ends 11/06/19
-
-*   days
-*   00
-    
-    Hours
-    
-    Hrs
-    
-*   41Mins
-*   17Secs
-
-\*Offer ends 11/06/19See Details\*Extra 25% off select apparel, shoes, accessories, fine jewelry, home purchases of $100 or more any way you pay. Extra 20% off select apparel, shoes, accessories, fine jewelry, and home purchases with your JCPenney Credit Card or extra 15% off any other way you pay. Extra 10% off select furniture, mattresses, housewares, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches, and salon products any way you pay. Each offer good in store and at jcp.com, excluding taxes and shipping charges, 11/1/19-11/6/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Full amount of purchase must be on the JCPenney Credit Card to get the 20% off discount. Subject to credit approval. Does not apply to Best Value, Daily Deals, Limited Time Specials, Levi's, Denizen from Levi’s, Disney Collection, Disney Tsum Tsum, French Toast, Fisher-Price, Fanatics, Licensed Team Sports Merchandise, Columbia, Carhartt, Nike, adidas, Reebok, Puma, Champion, Converse, Clarks, Skechers Women's Shoes, Skechers Athletic Shoes, Bobs from Skechers, Keds, Grasshoppers, Athletic Shoes, Goddess Lingerie, Dreamgirl, Jewelry Trunk Shows, Modern Bride Design Your Dream Ring, Pre-Owned Watches, Smartwatches, Garmin, Fitbit, Sephora, Food, Penney Lane, S'ip by S'well, Electronics, Brookstone, Sharper Image, In-Home Custom Design, Tempur-Pedic, Neato Robotics, iRobot, Sporting Goods/Outdoor Gear, Toys, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Personalized Jewelry, Wigs and Extensions, Purchase with Purchase Items, In-Store Services, Service Plans, Gift Cards, Closing Store purchases, current orders and prior purchases, or in combination with other coupon(s). Extra % off furniture, mattresses, custom blinds and shades offer does not apply to stores in Puerto Rico. Additionally, in Puerto Rico, does not apply to Diesel, Fossil, Kenneth Cole, Michael Kors, Rado and Skagen Watches, Cosmetics, Bassett, Gift Wrap &. More, Optical, and Universal Sunglasses. Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED.INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code BIGSALE4 when prompted at checkout or call 1.800.322.1189 and mention the code. Full Exclusions &. Details 5.99 EA.JCPenney Home 30X54" performance bath towel reg. $16 ea.49.99 ANY SIZE  
+Near YouFind a StoreBack5.99 EA.JCPenney Home 30X54" performance bath towel reg. $16 ea.49.99 ANY SIZE  
 JCPenney Home 575TC performance sheet set reg. $110-$15014.99Cooks 16" roaster with rack reg. $30 Excluded from coupon.59.99After $20 mail-in rebate\*\* Cooks 5.3-qt. digital convection air fryer **sale $79.99** | reg. $200 6.99Flirtitude leggings select styles | reg. $20  
 6.99  
 St. John’s Bay or a.n.a tee select styles including petites’ sizes reg. $14-$19  
@@ -70,10 +58,10 @@ Picked by Pinterest—get it here! THE LOCAL LOOKLocally curated, universally lo
 Recommended for You
 
 *   $424 - $2974after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(232)
-*   $2549after couponwas $60 Arizona Womens Yetta Block Heel Lace Up Boots(41)
-*   $2549after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(56)
-*   $594after couponwas $17 St. John's Bay-Womens Crew Neck Long Sleeve T-Shirt(131)
+*   $2549after couponwas $60 Arizona Womens Yetta Block Heel Lace Up Boots(42)
+*   $2549after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(57)
 *   $2379after couponwas $72 Xersion Water Resistant Lightweight Puffer Jacket(15)
+*   $594after couponwas $17 St. John's Bay-Womens Crew Neck Long Sleeve T-Shirt(132)
 *   $1274after couponwas $32 St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(21)
 
 Shop and Save at JCPenney
