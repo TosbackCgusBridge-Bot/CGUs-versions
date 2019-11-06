@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   5\. November 2019
+*   6\. November 2019
 *   Abo
-*   DAX 13.136,28ǀ
+*   DAX 13.148,50ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -55,6 +55,7 @@ Anmelden
         *   Nachhaltigkeit
     *   *   Brutto-Netto-Rechner
         *   Jobsuche
+        *   Wirtschaft erleben
 *   Panorama
     
     *   *   Übersicht
@@ -370,3 +371,6 @@ SPIEGEL GRUPPE
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
+
+  
+BESbswyBESbswyBESbswy
