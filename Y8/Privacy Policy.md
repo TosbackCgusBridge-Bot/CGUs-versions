@@ -12,31 +12,31 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1043 games
-*   Most Popular Games 20029 games
+*   Best of new games 1054 games
+*   Most Popular Games 20035 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,400 games
-*   Driving &. Racing Games 6,924 games
+*   Games for girls 24,399 games
+*   Driving &. Racing Games 6,925 games
 *   Strategy &. RPG Games 2,427 games
-*   Management Games 3,666 games
-*   Thinking Games 12,398 games
-*   Action &. Adventure Games 16,592 games
-*   Sports Games 2,321 games
-*   Shooting Games 8,604 games
-*   Fighting Games 2,109 games
-*   Skill Games 11,764 games
-*   Arcade &. Classic Games 13,680 games
-*   Fun &. Crazy Games 2,597 games
+*   Management Games 3,665 games
+*   Thinking Games 12,402 games
+*   Action &. Adventure Games 16,596 games
+*   Sports Games 2,322 games
+*   Shooting Games 8,605 games
+*   Fighting Games 2,111 games
+*   Skill Games 11,768 games
+*   Arcade &. Classic Games 13,686 games
+*   Fun &. Crazy Games 2,600 games
 
 Play with friends  
-Powered by Y8 Account 130 Y8 Multiplayer Games 2,113 Y8 High Score Games 1,190 Y8 Achievements Games 839 Y8 Screenshots Games 1,513 Y8 Online Save Games 3,206 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 130 Y8 Multiplayer Games 2,113 Y8 High Score Games 1,190 Y8 Achievements Games 839 Y8 Screenshots Games 1,515 Y8 Online Save Games 3,209 All Y8 Games Games Last Highscore:
 
-**4,804** points on Pixel Road Taxi Depot by Fay
+**2,614** points on Orion Sandbox Enhanced by stem
 
 Help us improve Bad translation? Social
 
