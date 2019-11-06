@@ -45,7 +45,9 @@ Skip to navigation Skip to main content Login Register Menu Close
         *   Webcasts
         *   Virtual Conferences
 *   Resource Library
-*   SC Security Ops Center
+*   SC Security Ops CenterOpen Submenu
+    *   SC Security Ops Center Back
+        *   SC Podcasts
 *   SC UK
 
 Toggle Search Menu Search... Submit About SC Media
@@ -210,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Greed is good... for this phishing scam
-    *   DDoS attack sidelines AWS DNS web service for hours
+    *   UniCredit data breach impacts 3 million Italians
     *   Report: Hotel chain modifies bed-facing robots to prevent unwanted spying
-    *   Google Play adware campaign taken down, developer identified
-    *   Web.com discloses breach affecting customer account info
+    *   New GlitchPOS credit card stealer malware found for sale
+    *   UN, NGOs targeted by ongoing phishing attack
+    *   Katie Hill's husband says he didn't leak photos, tells parents computer was hacked
     
-    *   Facebook sues surveillance tool provider and hosts of hacking websites
-    *   Podcast: Eric O’Neill on bringing down Russian spy Robert Hanssen
-    *   Greed is good... for this phishing scam
-    *   Cyber defense is a team sport -- Train accordingly
-    *   CyberRisk Alliance Appoints John Whelan to President
+    *   For the Emotet Trojan, business is booming
+    *   Adobe leaves Creative Cloud database open, 7.5 million users exposed
+    *   Bipartisan bill would have local governments use .gov to strengthen cybersecurity defenses
+    *   UniCredit data breach impacts 3 million Italians
+    *   Attackers attempt large-scale BlueKeep exploit to spread cryptominer
     
-    *   This woman who delivered flowers to your office was a hacker. Did you let her in?
-    *   Every Desjardins customer impacted by June data incident
-    *   NCR blocked Mint, Quickbooks after attackers take over, drain accounts
-    *   Chinese APT group Calypso hacked state institutions in six countries
-    *   Google patches Chrome flaw used in mysterious WizardOpium exploit attack
+    *   Steyer aide resigns after accessing volunteer data collected by Harris campaign
+    *   Traders exploit 'infinite money cheat code' bug on Robinhood Markets system
+    *   Ransomware attack delays government services in Nunavut, Canada
+    *   Capesand EK attacking IE, Flash vulnerabilities
+    *   Freaking lasers can carry voice commands to smart devices
 
 Back to Top
 
