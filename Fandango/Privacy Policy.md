@@ -321,14 +321,14 @@ Offers
 
 New + Coming soon
 
-*   Fandango Early Access: Doctor Sleep
-*   Terminator: Dark Fate
-*   Last Christmas (2019)
+*   Doctor Sleep
 *   Midway (2019)
-*   The Good Liar
-*   Charlie's Angels (2019)
+*   Last Christmas (2019)
 *   Ford v Ferrari
+*   Charlie's Angels (2019)
 *   Frozen II
+*   A Beautiful Day in the Neighborhood
+*   Knives Out
 
 Experience + Explore
 
