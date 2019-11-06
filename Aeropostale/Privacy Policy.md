@@ -169,13 +169,13 @@ Close submenu ( Guys Jeans ) Guys Jeans
 Close submenu ( Aero World ) Aero World
 
 *   View Home
-*   cameron
+*   Tisakorean
 *   Jax
 *   Jeba
-*   Julia
 *   Kai
+*   Julia
+*   cameron
 *   Kristya
-*   Tisakorean
 *   Tyler
 
 Close submenu ( Gifts ) Gifts
@@ -184,6 +184,7 @@ Close submenu ( Gifts ) Gifts
 *   Open submenu ( Gifts for Her ) Gifts for Her
 
 *   Open submenu ( Gifts for Him ) Gifts for Him
+
 *   Open submenu ( Gift Cards ) Gift Cards
 
 Close submenu ( Gifts for Her ) Gifts for Her
@@ -431,13 +432,13 @@ Menu Find a Store Aeropostale
 *   Aero World
     
     *   View Home
-    *   cameron
+    *   Tisakorean
     *   Jax
     *   Jeba
-    *   Julia
     *   Kai
+    *   Julia
+    *   cameron
     *   Kristya
-    *   Tisakorean
     *   Tyler
     
 *   Gifts
@@ -462,6 +463,8 @@ Menu Find a Store Aeropostale
         *   Gifts Under $6
         *   Gifts Under $16
         *   Splurge Worthy
+        
+    
     *   Gift Cards
         *   View All
         *   eGift Cards
