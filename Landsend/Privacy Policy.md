@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off all coats &. jackets. 40% off all other styles!
+Receive 50% off all turtlenecks, tees and polos. 40% off all other styles!
 
-code: CHILL pin: PROMOTION DETAILS
+code: APPLE pin: PROMOTION DETAILS
 
 Customer Service Menu
 
