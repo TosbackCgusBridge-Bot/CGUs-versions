@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off all turtlenecks, tees and polos. 40% off all other styles!
+Receive 50% off all jeans, pants, leggings and more, plus 40% off all other styles!
 
-code: APPLE pin: PROMOTION DETAILS
+code: CORDS pin: PROMOTION DETAILS
 
 Customer Service Menu
 
