@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   UniCredit data breach impacts 3 million Italians
-    *   Report: Hotel chain modifies bed-facing robots to prevent unwanted spying
+    *   AttackIQ Platform v2.15
+    *   We interviewed cyber experts on a Vegas ferris wheel. Then ride security showed up...
+    *   Energy company hit with DoS attack last spring identified as sPower
     *   New GlitchPOS credit card stealer malware found for sale
-    *   UN, NGOs targeted by ongoing phishing attack
-    *   Katie Hill's husband says he didn't leak photos, tells parents computer was hacked
+    *   Xhelper ad dropper adds to its list of victims
     
-    *   For the Emotet Trojan, business is booming
-    *   Adobe leaves Creative Cloud database open, 7.5 million users exposed
-    *   Bipartisan bill would have local governments use .gov to strengthen cybersecurity defenses
-    *   UniCredit data breach impacts 3 million Italians
-    *   Attackers attempt large-scale BlueKeep exploit to spread cryptominer
-    
-    *   Steyer aide resigns after accessing volunteer data collected by Harris campaign
-    *   Traders exploit 'infinite money cheat code' bug on Robinhood Markets system
-    *   Ransomware attack delays government services in Nunavut, Canada
+    *   NCR blocked Mint, Quickbooks after attackers take over, drain accounts
+    *   Emerging Products: Breach and attack simulation technologies
     *   Capesand EK attacking IE, Flash vulnerabilities
-    *   Freaking lasers can carry voice commands to smart devices
+    *   First look: Pulse Secure Software Defined Perimeter
+    *   APT 41 using MessageTap malware to gather SMS traffic
+    
+    *   Huawei meeting with
+    *   Adversary harboring DopplePaymer ransomware targets industrial sector
+    *   Patched bug allows beaming of malicious apps to NFC-enabled Android devices
+    *   Facebook app developers told to delete group member info
+    *   Bringing down the first cyber spy Robert Hanssen, Eric O’Neill tells his story
 
 Back to Top
 
