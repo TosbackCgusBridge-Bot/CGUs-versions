@@ -87,7 +87,7 @@ COMPARE **UX**
 
 **NX**
 
-*   Starting at $36,7201\*
+*   Starting at $36,8701\*
 *   235-hp3\* 2.0L turbo
 
 *   Build
@@ -95,7 +95,7 @@ COMPARE **UX**
 
 **NX HYBRID**
 
-*   Starting at $39,0701\*
+*   Starting at $39,2701\*
 *   31-MPG COMBINED ESTIMATE8\*
 
 *   Build
@@ -179,7 +179,7 @@ COMPARE **UX HYBRID**
 
 **NX HYBRID**
 
-*   Starting at $39,0701\*
+*   Starting at $39,2701\*
 *   31-MPG COMBINED ESTIMATE8\*
 
 *   Build
