@@ -26,6 +26,7 @@ Main menu
         *   Murder For Hire
         *   Relentless With Kate Snow
         *   Snapped
+        *   The Disappearance of the Millbrook Twins
         *   The DNA of Murder with Paul Holes
         *   Uncovered: Killed by Hate
         *   Dark Web Exposed
@@ -36,10 +37,10 @@ Main menu
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV01:39 Crime News 3 Teacher/Student Sex Scandals 04:27 Snapped Snapped After the Verdict 2206: Valerie Pape 01:26 Killer Couples Jessie And Sherry Cummings Were Reclusive, And Not Well Off
+    *   Watch Live TV01:39 Crime News 3 Teacher/Student Sex Scandals 17:51 Searching For Searching For Akia Eggleston 02:04 The Disappearance Of Susan Cox Powell The Disappearance of Susan Cox Powell: Steve Powell's Disturbing Obsession
 *   News
     *   Crime News
-    *   True Crime BuzzCrime News Did the Menendez Brothers Get What They Deserved? Elton John and Michael Jackson Photo: Getty Crime News Elton John Clais Michael Jackson Was ‘Mentally Ill’ Morgan Geyser and Anissa Weier Photo: AP Crime News Slender Man Stabbing Victim Speaks Out For First Time
+    *   True Crime BuzzCrime News Did the Menendez Brothers Get What They Deserved? Crime News Man In Wolf Mask Murders Pregnant Ex-Wife On Halloween Night Searching For Did Someone Plant Akia Eggleston’s Debit Card?
 *   Podcasts
 *   Detective's Den
 *   Schedule
