@@ -69,7 +69,7 @@
         Stand up for our natural world with The Nature Conservancy. Every acre we protect, every river mile restored, every species brought back from the brink, begins with you.
         
 *   English
-    *   langSelectorGoBack
+    *   Go Back
     *   *   English
         *   Español
         *   English
@@ -325,5 +325,3 @@ GLOBAL SITES Australia Brazil Canada China India Mexico Hong Kong: English 中�
 The Nature Conservancy is a nonprofit, tax-exempt charitable organization (tax identification number 53-0242652) under Section 501(c)(3) of the Internal Revenue Code. Donations are tax-deductible as allowed by law.
 
 © 2019 The Nature Conservancy Terms of Use | Privacy Statement | Charitable Solicitation Disclosures | \*Mobile Service Provider's Terms of Use &. Privacy Statement |
-
-AddThis Sharing SidebarShare to FacebookFacebookShare to TwitterTwitterShare to LinkedInLinkedInShare to PrintPrintMore AddThis Share optionsAddThisHideShowCloseAddThis
