@@ -9,15 +9,46 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
+    *   Daily Deal: Brooks Levitate Sneakers Up to 40% Off
+    *   Daily Deal: Theory Men's Sweaters Up to 65% Off
+    *   Daily Deal: Breville Clad 10-Piece Cookware Set at 50% Off
+    *   Daily Deal: Top Toys Under $20
+    *   Daily Deal: Vince Camuto Knee-High Boots at $99.97
+    *   Daily Deal: Sam Edelman Ankle Strap Sandals at $39.97
+    *   Daily Deal: Rachel Roy Collection Tops at 78% Off
+    *   PJ Salvage
+    *   TOMS
+    *   Sanctuary Incl. Plus &. Petites
+    *   TOMS Men
+    *   Sofia Cashmere
+    *   TOMS Sun
+    *   philosophy Starting at $15
+    *   Structure &. Shape: On-Trend Bags ft. TMRW Studio
+    *   Via Spiga Coats
+    *   Luxe It Up: Silk &. Satin Styles
+    *   Night Out: Dresses
+    *   Nine West Up to 55% Off
+    *   TOMS Kids
+    *   Free Shipping: Storage for Every Room
+    *   Make It Merry: Faux Plants &. Planters
+    *   Nadri 18K Gold Starting at $25
+    *   Olivia Welles Jewelry Up to 75% Off
+    *   Men's Sweaters Under $40
+    *   Dress Shirts Under $30
+    *   Holiday Travel Accessories
+    *   Men's Fragrances We Love ft. Calvin Klein
+    *   Beauty Faves: Skin Care Tools
     *   UGG
     *   UGG Men
     *   UGG Kids
+    *   It Knits: Sweaters Under $25 Incl. Plus &. Petites
+    *   Free Shipping: Dreamy Bedding from $20
+    
+    *   Free Shipping: Holiday Accents &. Decor
+    *   Free Shipping: Christmas Decor &. More Up to 40% Off
     *   UGG Accessories
     *   UGG Sleep &. Lounge
     *   UGG Men's Clothing &. Accessories
-    *   Free Shipping: Dreamy Bedding from $20
-    *   Free Shipping: Holiday Accents &. Decor
-    *   Free Shipping: Christmas Decor &. More Up to 40% Off
     *   Dyson
     *   Jet Set in Style: Totes &. Carry-Ons
     *   Lucky Brand Men Up to 60% Off
@@ -33,20 +64,10 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Best Sellers: Dinnerware Up to 50% Off
     *   Creative Gifts: Crayola &. More
     *   Eileen Fisher Up to 60% Off Incl. Plus &. Petites
-    *   Wild Honey &. More
     *   Eileen Fisher Shoes Up to 60% Off
-    *   It Knits: Sweaters Under $25 Incl. Plus &. Petites
-    *   Weekend Vibes: Joggers &. Sweatpants from $20
     *   RapidLash
-    *   Le Creuset: Last-Chance Deals
-    
     *   Free Shipping: Quilts, Comforters &. More
-    *   Active Classics We Love
-    *   Botkier Handbags
-    *   The Flexx Up to 60% Off
-    *   Crocs for Her from $25
     *   Suzy Levian Jewelry
-    *   Reebok
     *   French Connection Men's Shoes
     *   Storage Must-Haves from $15
     *   David Donahue Up to 60% Off
@@ -56,26 +77,19 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Makeup Best Sellers Under $20
     *   Warm &. Stylish: Boys' Styles Under $25
     *   Reebok Kids
-    *   Designer Coats Under $200
-    *   Free Shipping: Sterling Forever Jewelry Up to 60% Off
     *   Free Shipping: BergHOFF Up to 55% Off
-    *   Shoe Steals Up to 65% Off
+    
     *   Free Shipping: Bath Towels &. More Up to 70% Off
     *   Men's Shoe Steals Up to 65% Off
     *   The Holiday Edit: Dresses Incl. Plus &. Petites
-    *   The Holiday Edit: Boots &. Booties
     *   The Holiday Edit: Separates Incl. Plus &. Petites
     *   The Holiday Edit: Sweaters Incl. Plus &. Petites
     *   The Holiday Edit: Coats &. More Incl. Plus &. Petites
-    *   The Holiday Edit: Heels, Mules &. Flats
     *   The Holiday Edit: Men's Suiting &. More
     *   The Holiday Edit: Men's Wool Coats
-    
     *   The Holiday Edit: Men's Sweaters
     *   The Holiday Edit: Men's Button-Down Shirts
-    *   The Holiday Edit: Men's Dress Shoes
     *   $100 &. Under: Sperry Men
-    *   Fab Finds: Diamonds, Gems &. More Up to 80% Off
     *   The Holiday Edit: Girls' Party Looks
     *   The Holiday Edit: Boys' Party Looks
     *   Lacoste
@@ -83,32 +97,50 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   HAIRtamin Supplements
     *   Christmas Decor from $20
     *   Floris London Fragrances
-    *   Merrell Men
-    *   Keep Cozy: Socks &. Underwear ft. Columbia
-    *   Bacco Bucci
     *   Find the Perfect Piece: The Art Shop
     *   Murad
     *   Own Your Spotlight: JOI Mirrors
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   Free Shipping: Bedding Essentials Up to 40% Off
     *   Free Shipping: Finishing Touches for Your Home
-    *   Best of Skin Care Up to 50% Off
     *   Free Shipping: Comfy Blankets &. More Up to 55% Off
-    *   Men's Grooming Starting at $10
     *   Glam with an Edge: Decor by Interior Illusions
     *   Must-Haves for the Kitchen from $20
-    *   Free Shipping: Wall Murals &. More Up to 40% Off
-    *   Croscill Bedding &. More
     *   Best of Lips from $10 ft. Stila &. More
-    *   Sunday Steals Up to 80% Off
+    *   Active Classics We Love
+    *   Designer Coats Under $200
+    *   The Holiday Edit: Boots &. Booties
+    *   The Holiday Edit: Heels, Mules &. Flats
 *   WomenShop Sale Events
     
+    *   Daily Deal: Brooks Levitate Sneakers Up to 40% Off
+    *   Daily Deal: Vince Camuto Knee-High Boots at $99.97
+    *   Daily Deal: Sam Edelman Ankle Strap Sandals at $39.97
+    *   Daily Deal: Rachel Roy Collection Tops at 78% Off
+    *   PJ Salvage
+    *   TOMS
+    *   Sanctuary Incl. Plus &. Petites
+    *   Sofia Cashmere
+    *   TOMS Sun
+    *   philosophy Starting at $15
+    *   Structure &. Shape: On-Trend Bags ft. TMRW Studio
+    *   Via Spiga Coats
+    *   Luxe It Up: Silk &. Satin Styles
+    *   Night Out: Dresses
+    *   Nine West Up to 55% Off
+    *   Nadri 18K Gold Starting at $25
+    *   Olivia Welles Jewelry Up to 75% Off
+    *   Holiday Travel Accessories
+    *   Men's Fragrances We Love ft. Calvin Klein
+    *   Beauty Faves: Skin Care Tools
     *   UGG
+    *   It Knits: Sweaters Under $25 Incl. Plus &. Petites
     *   UGG Accessories
     *   UGG Sleep &. Lounge
     *   Dyson
     *   Jet Set in Style: Totes &. Carry-Ons
     *   UGG Coats
+    
     *   Brands We Love ft. Frank &. Eileen
     *   No Need to Borrow: Boyfriend Jeans &. More
     *   Cozy Finds: Fleece &. Thermal Styles
@@ -117,38 +149,24 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Ettika Jewelry
     *   Bruno Magli Watches Up to 60% Off
     *   Eileen Fisher Up to 60% Off Incl. Plus &. Petites
-    *   Wild Honey &. More
     *   Eileen Fisher Shoes Up to 60% Off
-    *   It Knits: Sweaters Under $25 Incl. Plus &. Petites
-    *   Weekend Vibes: Joggers &. Sweatpants from $20
     *   RapidLash
-    *   Active Classics We Love
-    *   Botkier Handbags
-    *   The Flexx Up to 60% Off
-    *   Crocs for Her from $25
-    
     *   Suzy Levian Jewelry
-    *   Reebok
     *   Makeup Best Sellers Under $20
-    *   Designer Coats Under $200
-    *   Free Shipping: Sterling Forever Jewelry Up to 60% Off
-    *   Shoe Steals Up to 65% Off
     *   The Holiday Edit: Dresses Incl. Plus &. Petites
-    *   The Holiday Edit: Boots &. Booties
     *   The Holiday Edit: Separates Incl. Plus &. Petites
     *   The Holiday Edit: Sweaters Incl. Plus &. Petites
     *   The Holiday Edit: Coats &. More Incl. Plus &. Petites
-    *   The Holiday Edit: Heels, Mules &. Flats
-    *   Fab Finds: Diamonds, Gems &. More Up to 80% Off
     *   HAIRtamin Supplements
     *   Floris London Fragrances
     *   Murad
     *   Own Your Spotlight: JOI Mirrors
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
-    *   Best of Skin Care Up to 50% Off
-    *   Men's Grooming Starting at $10
     *   Best of Lips from $10 ft. Stila &. More
-    *   Sunday Steals Up to 80% Off
+    *   Active Classics We Love
+    *   Designer Coats Under $200
+    *   The Holiday Edit: Boots &. Booties
+    *   The Holiday Edit: Heels, Mules &. Flats
     
     Shop By Category
     *   Clothing
@@ -160,33 +178,39 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Watches
 *   MenShop Sale Events
     
+    *   Daily Deal: Brooks Levitate Sneakers Up to 40% Off
+    *   Daily Deal: Theory Men's Sweaters Up to 65% Off
+    *   TOMS Men
+    *   TOMS Sun
+    *   Men's Sweaters Under $40
+    *   Dress Shirts Under $30
+    *   Holiday Travel Accessories
+    *   Men's Fragrances We Love ft. Calvin Klein
     *   UGG Men
     *   UGG Men's Clothing &. Accessories
     *   Lucky Brand Men Up to 60% Off
+    
     *   Bruno Magli Watches Up to 60% Off
     *   French Connection Men's Shoes
     *   David Donahue Up to 60% Off
     *   Reebok Men
     *   Reebok Men's Active
     *   Men's Shoe Steals Up to 65% Off
-    
     *   The Holiday Edit: Men's Suiting &. More
     *   The Holiday Edit: Men's Wool Coats
     *   The Holiday Edit: Men's Sweaters
     *   The Holiday Edit: Men's Button-Down Shirts
-    *   The Holiday Edit: Men's Dress Shoes
     *   $100 &. Under: Sperry Men
-    *   Merrell Men
-    *   Keep Cozy: Socks &. Underwear ft. Columbia
-    *   Bacco Bucci
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Watches
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Daily Deal: Top Toys Under $20
+    *   TOMS Kids
     *   UGG Kids
     *   Creative Gifts: Crayola &. More
     *   Get Comfy: Butter Super Soft &. More
@@ -196,29 +220,31 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   The Holiday Edit: Boys' Party Looks
     
     Shop By Category
+    *   Toy Shop
     *   Girls' Sizes 7-16
-    *   Boys' Sizes 8-20
-    *   Boys' Sizes 2T-7
     *   Boys' Shoes
     *   Girls' Shoes
-    *   Toy Shop
+    *   Boys' Sizes 8-20
+    *   Boys' Sizes 2T-7
     *   Girls' Sizes 2T-6X
     *   Baby Girl
     *   Baby Boy
 *   HomeShop Sale Events
     
+    *   Daily Deal: Breville Clad 10-Piece Cookware Set at 50% Off
+    *   Free Shipping: Storage for Every Room
+    *   Make It Merry: Faux Plants &. Planters
     *   Free Shipping: Dreamy Bedding from $20
     *   Free Shipping: Holiday Accents &. Decor
     *   Free Shipping: Christmas Decor &. More Up to 40% Off
     *   UGG Home
     *   Best Sellers: Dinnerware Up to 50% Off
-    *   Le Creuset: Last-Chance Deals
     *   Free Shipping: Quilts, Comforters &. More
     *   Storage Must-Haves from $15
     *   Free Shipping: BergHOFF Up to 55% Off
+    
     *   Free Shipping: Bath Towels &. More Up to 70% Off
     *   Lacoste
-    
     *   Free Shipping: Holiday Trees for Every Home
     *   Christmas Decor from $20
     *   Find the Perfect Piece: The Art Shop
@@ -227,40 +253,39 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Free Shipping: Comfy Blankets &. More Up to 55% Off
     *   Glam with an Edge: Decor by Interior Illusions
     *   Must-Haves for the Kitchen from $20
-    *   Free Shipping: Wall Murals &. More Up to 40% Off
-    *   Croscill Bedding &. More
     
     Shop By Category
     *   Bedding
     *   Home Decor
     *   Holiday Decorations
     *   Kitchen &. Tabletop
+    *   Luggage &. Travel
     *   Cleaning &. Organization
     *   Bath
-    *   Luggage &. Travel
     *   Outdoor Living
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   philosophy Starting at $15
+    *   Men's Fragrances We Love ft. Calvin Klein
+    *   Beauty Faves: Skin Care Tools
     *   Dyson
     *   Jurlique Natural Skin Care Up to 45% Off
     *   RapidLash
     *   Makeup Best Sellers Under $20
+    
     *   HAIRtamin Supplements
     *   Floris London Fragrances
-    
     *   Murad
     *   Own Your Spotlight: JOI Mirrors
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
-    *   Best of Skin Care Up to 50% Off
-    *   Men's Grooming Starting at $10
     *   Best of Lips from $10 ft. Stila &. More
     
     Shop By Category
     *   Makeup
     *   Skin Care
-    *   Bath &. Body
     *   Fragrance
+    *   Bath &. Body
     *   Tools &. Accessories
     *   Hair Care
 
