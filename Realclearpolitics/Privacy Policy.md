@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Charles Gasparino_: The Rising Trump Economy Is Raising All Boats
+*   _Alice Stewart_: For the GOP, the Suburbs Are the New Florida
     
-*   _Joe Biden_: Donald Trump Has No Idea What He's Doing on Foreign Policy
+*   _Alexandra DeSanctis_: State Elections Aren't All About Trump
     
-*   _Bradley Blakeman_: Prediction: Dems Are Out of Touch, Trump Will Win 2020
+*   _Tram Nguyen_: Democratic Surge in Virginia Was a Long Time Coming
     
-*   _Julian Zelizer_: Why Impeachment Is Not a 'Coup'
+*   _Sean Trende_: Three Takeaways From Tuesday's Elections
     
-*   _Sen. Rand Paul_: It's Time to Subpoena Hunter Biden and the Whistleblower
+*   _Brad Bannon_: The Democrats' Generational Battle
     
-*   _Ezra Klein_: The Metapolitics of Medicare-for-All
+*   _John Davidson_: The U.S. Needs to Wage War on Mexican Drug Cartels
     
-*   _Sean Trende_: That (18)70s Show
+*   _Elvia Diaz_: Sending U.S. Troops to Fight Won't Help Mexico
     
-*   _Kalev Leetaru_: In 'Woke' Era, Is Scandal Coverage Tied to Accused's Politics?
+*   _Richard Porter_: Why Illinois' Govt Has Become Predatory &. Unjust
     
-*   _Brooke Masters_: McDonald's and the Perils of Wooing at Work
+*   _Joe Lockhart_: GOP's Raging Hypocrisy on Impeachment
     
-*   _Ted Koppel_: Free Speech, Oberlin and the Price of Defamation
+*   _Betsy McCaughey_: Democrats' Rigged Impeachment Circus
     
-*   _Carl Cannon_: Candidate With Conviction: When Jailed Debs Ran for President
+*   _John Wasik_: New Bank E-Thieves Are Watching You Digitally in Real Time
     
-*   _Nathan Gonzales_: A Year Out, Here Are Four Scenarios for 2020 Elections
+*   _Carl Cannon_: 23 + 45: The Benjamin Harrison-Donald Trump Nexus
     
-*   _Charles Lipson_: The House Democrats' High-Risk Gamble
+*   _Jonathan Martin_: Dems Take Control in VA, Claim Narrow Win in KY Gov Race
     
-*   _Renato Mariotti_: Democrats, You're About to Go to Trial. Here's How You Win.
+*   _Nathan Gonzales_: Lessons From 2019 Elections May Not Be What You Think
     
-*   _John Solomon_: Memos Show Hunter Biden Contacts w/Obama Admin on Burisma
+*   _Rep. Adam Schiff_: Impeachment Is Correct Remedy for Betraying America
     
-*   _Susanne de Arellano_: As a Latino, I No Longer Feel Safe in Trump's America
+*   _Mollie Hemingway_: Real Talk: Impeachment Going Poorly For Dems, Media
     
-*   _Saritha Prabhu_: 10 Reasons I Like Trump, From an Ex-Democrat Immigrant
+*   _Elie Honig_: The Whistleblower Nailed It: Trump's Response False &. Reckless
     
-*   _Plouffe & McGowan_: We're Spending $75 Million to Help Dems Close Gap
+*   _Rep. Jim Jordan_: 'Whistleblower' Must Testify Under Oath and In Person
     
-*   _Steven Shepard_: 7 Things to Watch on Election Day 2019
+*   _James Jay Carafano_: Trump &. Obrador Must Take on the Cartels
     
-*   _Karen Harned_: Supreme Court Has Two Chances to Protect Small Business
+*   _Brent Budowsky_: Why Elizabeth Warren Deeply Worries Many Dems
     
-*   _Kerry &. Hagel_: A Dark Day: Trump Pulls Out of Paris Agreement
+*   _Elaine Godfrey_: Amy Klobuchar Has a Pete Buttigieg Problem
     
-*   _Ben Weingarten_: Glenn Reynolds on Breaking Up Big Tech
+*   _Philip Wegmann_: With an Eye Toward Beto Voters, Castro Campaign Limps On
     
-*   _Lauren Smiley_: Stealing Amazon Packages in the Age of Nextdoor
+*   _Elizabeth Warren_: A Climate Denier Sits in the White House. Not For Long
     
-*   _Martin Scorsese_: I Said Marvel Movies Aren't Cinema. Let Me Explain.
+*   _Sen. John Barrasso_: Trump Right to Get Us Out of Paris Climate Accord
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Elections in 4 States Offer Tests of 2020 Voter Enthusiasm
+*   Republicans: ABA to Face Senate Action After Suspect VanDyke Rating
+*   With an Eye Toward Beto O'Rourke Voters, Castro Campaign Limps On
+*   Koppel: Free Speech, Oberlin and the Price of Defamation
 *   Trump Honors World Series Champion Nationals at White House
-*   Paul at Trump Rally in KY: Subpoena Hunter Biden and the Whistleblower
 *   Poll: Biden's Lead Over Dem Field Is Up in NV, Down in MI
-*   Longtime Dem Donor Tied to Poor ABA Rating of Trump Nominee
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,36 +252,58 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Nevada Democratic Presidential CaucusNevada Independent
-    *   Biden29
-    *   Warren19
-    *   Sanders19
-    *   Buttigieg7
-    *   Harris3
-    *   Steyer4
+*   2020 Democratic Presidential NominationMonmouth
+    *   Biden23
+    *   Warren23
+    *   Sanders20
+    *   Buttigieg9
+    *   Harris5
+    *   Klobuchar2
+    *   Yang3
+    *   Booker3
+    *   Gabbard0
+    *   O'Rourke
+    *   Steyer1
+    *   Castro0
+    *   Bennet0Tie
+*   2020 Democratic Presidential NominationEconomist/YouGov
+    *   Biden26
+    *   Warren25
+    *   Sanders14
+    *   Buttigieg8
+    *   Harris6
+    *   Klobuchar2
+    *   Yang1
+    *   Booker2
+    *   Gabbard3
+    *   O'Rourke
+    *   Steyer1
+    *   Castro3
+    *   Bennet0Biden +1
+*   Iowa Democratic Presidential CaucusQuinnipiac
+    *   Warren20
+    *   Buttigieg19
+    *   Sanders17
+    *   Biden15
+    *   Klobuchar5
+    *   Harris4
+    *   Steyer3
+    *   Gabbard3
     *   Yang3
     *   Booker1
-    *   Klobuchar3
-    *   Gabbard1
-    *   Castro1
-    *   Bennet0Biden +10
-*   General Election: Trump vs. BidenABC News/Wash Post
-    *   Biden56
-    *   Trump39Biden +17
-*   General Election: Trump vs. WarrenABC News/Wash Post
-    *   Warren55
-    *   Trump40Warren +15
-*   General Election: Trump vs. SandersABC News/Wash Post
-    *   Sanders55
-    *   Trump41Sanders +14
+    *   O'Rourke
+    *   Bennet1Warren +1
+*   President Trump Job ApprovalPolitico/Morning Consult
+    *   Approve41
+    *   Disapprove55Disapprove +14
 
 More Latest Polls In The News
 
-*   Buttigieg on Trump Touting Economy: A Lot Of Folks Around The Country Saying "What About Me?"
-*   Schumer: There Should Be Bipartisan Outrage About Attempts To Expose Ukraine Whistleblower's Identity
-*   Billionaire Leon Cooperman Cries Over Prospect Of Election Between "Polarizing" Trump And Warren's "Idiocy"
-*   Scaramucci: "If Roy Cohn And Joe McCarthy Had A Baby, It Would Be Donald Trump," And He's Running The Country
-*   Trump Mocks Biden: "Sleepy Joe" Has Handlers "Because He Makes A Mistake Every Time He Speaks"
+*   Tulsi Gabbard vs. 'The View' Joy Behar: You Doubled Down On Hillary's Baseless "Russian Asset" Smear Campaign
+*   PA Voters Might Still Support Trump If He Shot Someone On 5th Ave: "You'd Have To Know Why He Shot Him"
+*   Scarborough: Trump Lost KY For Republicans, Gets Old Saying "This Was The Worst Day In Trump Presidency"
+*   Mollie Hemingway: ABC "Quashed" Epstein Story, But Broadcast "Wild" Allegations About Brett Kavanaugh
+*   Project Veritas: ABC's Amy Robach Frustrated On Hot Mic That Network Quashed Jeffrey Epstein Story
 
 *   Politics
 *   Policy
