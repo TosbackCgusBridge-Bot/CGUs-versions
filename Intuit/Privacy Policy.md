@@ -57,12 +57,28 @@ Picked by Pinterest—get it here! THE LOCAL LOOKLocally curated, universally lo
   
 Recommended for You
 
-*   $424 - $2974after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(232)
-*   $2549after couponwas $60 Arizona Womens Yetta Block Heel Lace Up Boots(42)
-*   $2549after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(57)
-*   $2379after couponwas $72 Xersion Water Resistant Lightweight Puffer Jacket(15)
-*   $594after couponwas $17 St. John's Bay-Womens Crew Neck Long Sleeve T-Shirt(132)
-*   $1274after couponwas $32 St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(21)
+*   LIMITED TIME SPECIAL!
+    
+    $10 sale
+    
+    was $49.98 | 80% offLIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver(197)
+*   LIMITED TIME SPECIAL!
+    
+    $25 sale
+    
+    was $124.98 | 80% offLIMITED TIME SPECIALl! 1/10 CT. T.W. Genuine Diamond Ring in Sterling Silver - SIZE 7(148)
+*   $16 sale
+    
+    was $20 | 20% offDisney Toy Story Talking Forky(2)
+*   LIMITED TIME SPECIAL!
+    
+    $10 sale
+    
+    was $49.98 | 80% offLIMITED TIME SPECIAL! Womens Lab Created White Sapphire Sterling Silver Pendant Necklace(2)
+*   $3599after couponwas $100 Cooks 21-pc. Stainless Steel Cookware Set(43)
+*   $20
+    
+    Sexy School Red Adult Costume
 
 Shop and Save at JCPenney
 
