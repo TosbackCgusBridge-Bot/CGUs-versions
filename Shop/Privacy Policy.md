@@ -26,10 +26,10 @@ Lenovo Explore Close
         
         *   Best Selling Laptops
         *   X1 Carbon Gen 7
-        *   X1 Extreme
+        *   X1 Extreme Gen 2
         *   ThinkPad T490
         *   Legion Y740
-        *   Yoga C930
+        *   Yoga C940
         *   Chromebook
         
         Laptop Sale
@@ -59,8 +59,8 @@ Lenovo Explore Close
         *   ThinkCentre M720 SFF
         *   ThinkStation P330 Tower
         *   ThinkCentre M720 Tiny
-        *   P Series Workstations
-        *   IdeaCentre A340
+        *   AIO A340/Tab E8 Bundle
+        *   AIO 730S/ Tab M10 Bundle
         
         Desktop Sale
         
@@ -75,6 +75,7 @@ Lenovo Explore Close
         *   Explore Workstations
         *   Workstation Computers
         *   Workstation Laptops
+        *   Workstation Deals
         *   Shop All Workstations
         
         *   By Brand
@@ -89,9 +90,9 @@ Lenovo Explore Close
         *   ThinkStation P330 Tiny
         *   ThinkStation P330 Tower
         
-        P Series Mobile Workstations
+        Workstations Sale
         
-        ThinkPad’s most powerful 15” mobile workstations. See what’s new.
+        Save on Lenovo's most powerful laptops and get working. Shop today!
         
     *   Tablets
         
@@ -102,7 +103,6 @@ Lenovo Explore Close
         *   Explore Tablets
         *   With Android
         *   With Windows
-        *   2-in-1 Tablets
         *   Smart Tab
         *   Tablets for Business
         
@@ -154,8 +154,8 @@ Lenovo Explore Close
         *   ThinkPad 90W Pro Dock
         *   C2G USB-C Docking Station
         *   TAB4 10 BT Keyboard
-        *   Lenovo Professional Combo
-        *   Thinkpad Wired USB Keyboard
+        *   Pro Keyboard/Mouse Combo
+        *   Lenovo Active Pen 2
         *   Everyday Backpack
     *   Monitors
         
@@ -207,9 +207,9 @@ Lenovo Explore Close
         *   New in Gaming
         *   Oculus Rift S
         *   H500 Headset
-        *   IdeaPad L340 Laptop
-        *   K500 Keyboard
-        *   Legion Y540 Laptop
+        *   IdeaCentre T540 Desktop
+        *   Realspace Gaming Chair
+        *   Legion Y740
         
         Everything Gaming
         
@@ -604,7 +604,7 @@ Lenovo Explore Close
 1-855-253-6686
 
 *   Search
-
+*   icon-compare0 Compare Compare (0)
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
@@ -672,7 +672,13 @@ Lenovo Explore Close
 
 Top Suggestions
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
+
+Please add at least 2 products for compare
+
+Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
+
+Lenovo Privacy Statement Top
 
 protects better"/>.
 
