@@ -1,97 +1,163 @@
-<style>body{display:block;}</style>. Skip to main content close browser upgrade noticewarning-iconOur site may not work properly for the browser you're using.See recommended browsers Privacy &. Security
+<style>body{visibility:visible}</style>Skip to main content warning-icon You are using an unsupported browser version.Learn more or update your browser. close browser upgrade notice × Bank of America Privacy &. Security
 
-*   Sign In
-*   Home
+*   Sign in
+*   Sign in
 *   Locations
+
+Search TermShow/Hide  Menu   related links
+
+*   Bank of America Home
 *   Contact Us
+*   Locations
 *   Help
+*   Schedule an appointment
 
-Search Term
+Top Privacy &. Security Links Top Privacy &. Security Links
 
-*   Security
+*   Overview
 *   Privacy
+*   Account &. Card Security
+*   Online &. Mobile Security
 *   Report a Problem
-*   Resources link and menu. Press enter to navigate to this link. Press control + space to open submenu. To move through submenu items press tab and then press up or down arrow. FAQs Fraud Prevention Checklist Understand Merchant Compromise Glossary End of submenu
 
-Bank of America Privacy and Security Get information about privacy and security at Bank of America. Learn how we can help you protect your accounts and what you can do to help stay secure. bank of america security, bank of america privacy notice, bank of america privacy and security Bank of America Security Center Here’s what you need to know (and do) to stay as safe as possible
+*   Overview
+*   Privacy
+*   Account &. Card Security
+*   Online &. Mobile Security
+*   Report a Problem
 
-**Your security is our top priority! Here are the ways we protect you:  
-**
+Other Privacy &. Security Links Other Privacy &. Security Links
+
+*   FAQs
+*   Fraud Prevention Checklist
+*   Glossary
+*   Understand Merchant Compromise
+
+*   FAQs
+*   Fraud Prevention Checklist
+*   Glossary
+*   Understand Merchant Compromise
+
+Bank of America Security CenterOpt out of online behavioral advertisingYou have successfully opted out of online behavioral advertising
+
+When you opt out, we will not use information based on online Site behavior to provide online and offline tailored content and advertising to you, but you may still receive untailored advertising from Bank of America. In addition, financial advisors/Client Managers may continue to use information collected online to provide product and service information in accordance with account agreements.
+
+Opting out also means the online content and advertising you receive on our non-servicing sites (before you sign in) will be untailored and will not be based on your online behavior or your relationship with us.
+
+When accessing online account servicing areas (after you sign in), such as Online Banking or MyMerrill, you may receive tailored content and advertising based on your account relationships.
+
+**Important reminder:** In order for this online behavioral advertising opt-out to work on your device, your browser must be set to accept cookies. If you delete cookies, buy a new device, access our Site from a different device, sign in under a different screen name or change web browsers, you will need to opt out again.
+
+If your browser has scripting disabled, you do not need to opt out, as online behavioral advertising technology does not work when scripting is disabled. Please check your browser's security settings to validate whether scripting is active or disabled.
+
+The opt-out will take effect upon your next visit using the same device to Bank of America Sites. Click on **Submit** to opt out of online Site behavior used to provide online and offline tailored content and advertising.
+
+Submit Cancel
+
+You have successfully opted out of online behavioral advertising. The opt-out will take effect upon your next visit using the same device to Bank of America Sites.
+
+Here's what you need to know (and do) to stay as safe as possible
+
+**Your security is our top priority! Here are the ways we protect you:**  
 
 *   Protecting against threats with an award-winning cybersecurity team that delivers comprehensive security 24/7
 *   Continuously monitoring transactions for suspicious activity
-*   Alerting you to potential fraud through the mobile app, text alerts layer1, email, or phone
-*   Keeping your personal and financial information protected and secure through responsible information collection, processing and privacy policies
+*   Alerting you to potential fraud through the mobile app, text alerts 1, email, or phone
+*   Keeping your personal and financial information protected and secure through responsible information collection, processing and privacy policies
 
-**Here is what you can do now to help fight fraud:  
-**
+**Here is what you can do now to help fight fraud:**  
 
-Use our Mobile Banking app layer  
-Check your contact information layer  
-Create strong, unique passwords layer  
-Protect your devices layer  
-Keep your account information secure layer
+Expand all panelsShow all panels | Hide all panelsUse our Mobile Banking app , closed Check your contact information , closed Create strong, unique passwords , closed Protect your devices , closed Keep your account information secure , closed Use our Mobile Banking app , closed Expand all panelsOur mobile app is the best way for you to stay on top of any suspicious account activity Check your contact information , closed Expand all panels
+
+*   You're not the only one protecting your account.If we spot an issue, we want to get in touch with you the quickest way possible.
+*   Provide your mobile number, so we can alert you to potential fraud
+
+Create strong, unique passwords , closed Expand all panels
+
+*   Strong passwords are 8 or more characters long and include a combination of numbers, symbols and upper- and lowercase letters
+*   Use multifactor authentication when possible
+
+Protect your devices , closed Expand all panelsKeep your phone, tablet and computer up to date with the latest browsers, operating systems and antivirus software Keep your account information secure , closed Expand all panels
+
+*   Go paperless
+*   Never write your PIN on the back of your card
+*   Use trusted online payment methods, such as Bill Pay or Zelle® instead of writing checks
 
 **The best way to avoid getting tricked by scammers is to know the tricks they use – and the red flags that signal scams.**
 
-**Know the red flags  
-**The most common types of scams will target you through fake emails (a technique known as phishing), text messages (SMSishing or smishing) voice calls (vishing), letters or even someone who shows up at your front door unexpectedly. No matter which technique the scammer uses, you may be:
+**Know the red flags**  
+The most common types of scams will target you through fake emails (a technique known as phishing), text messages (SMSishing or smishing) voice calls (vishing), letters or even someone who shows up at your front door unexpectedly. No matter which technique the scammer uses, you may be:
 
 *   Pressured to send money
 *   Threatened with law enforcement action
 *   Told to purchase gift cards and provide codes as a form of payment
-*   Asked to cash a check for a stranger or send money via wire transfer or _Zelle_ ®
+*   Asked to cash a check for a stranger or send money via wire transfer or Zelle®
 *   Asked to deposit a check that overpays for something you're selling, and then send the difference elsewhere
 
-**  
-The best way to avoid getting scammed**  
+**The best ways to avoid getting scammed**  
 If you provide your information or send money to a scammer, there is often little we can do to help get your money back.
 
-Don't send gift cards as payment or buy gift cards for someone you don’t know layer  
-Don't cash checks for strangers or return funds for overpayment layer  
-Don't provide account or personal information via email or text layer  
-Never Trust Caller ID layer  
-Don't give an unsolicited caller or solicitor your personal information or codes layer  
-Don't pay upfront for a promise layer  
-Don't click on unsolicited links or attachments sent via email or text layer  
-Never give an unsolicited caller remote access to your computer layer  
-Don't wire money without verifying instructions layer  
-Don't feel pressured to act immediately layer
+Expand all panelsShow all panels | Hide all panelsDon't send gift cards as payment or buy gift cards for someone you don’t know , closed Don't cash checks for strangers or return funds for overpayment , closed Don't provide account or personal information via email or text , closed Never Trust Caller ID , closed Don't give an unsolicited caller or solicitor your personal information or codes , closed Don't pay upfront for a promise , closed Don't click on unsolicited links or attachments sent via email or text , closed Never give an unsolicited caller remote access to your computer , closed Don't wire money without verifying instructions , closed Don't feel pressured to act immediately , closed Don't send gift cards as payment or buy gift cards for someone you don’t know , closed Expand all panelsWhether masquerading as IRS agents, tech-support personnel or the attorney for the grandchild who’s supposedly in jail, criminals pressure their targets to buy gift cards for iTunes, Google Play, Best Buy and other popular retailers — and ask them to provide the code numbers, or PINs, on the back of the cards so they can be redeemed. Don't cash checks for strangers or return funds for overpayment , closed Expand all panelsIf someone you don’t know wants to pay you by check and asks you to wire some of the money back or give them cash, beware! It could be a scam that could cost you thousands of dollars. When making a check deposit, remember that Bank of America may give you immediate access to the funds, but the check can still be returned unpaid. Don't provide account or personal information via email or text , closed Expand all panelsWe will never email or text you requesting you to call or respond with your account number, PIN or access code. Never Trust Caller ID , closed Expand all panelsScammers may pose as government officials, law enforcement or even Bank of America employees to steal your personal information. Always validate a person’s organization by calling them back through an official phone number. Don't give an unsolicited caller or solicitor your personal information or codes , closed Expand all panelsBank of America will never call you or visit your home asking you to verify your account numbers, password or access code. If you receive a call, text or email, or someone comes to your home asking for this information, don’t give it out. Consider installing an app to block robocalls to your phone. Don't pay upfront for a promise , closed Expand all panelsScammers may ask you to pay in advance for things like debt relief, credit and loan offers, mortgage assistance or a job. They may say you've won a prize, but first you need to pay taxes or fees. If you do, they will probably take the money and disappear. Don't click on unsolicited links or attachments sent via email or text , closed Expand all panelsScammers use email or text messages to trick you into giving them your personal information. These messages seem identical to official correspondence. Check it out first by calling a phone number you trust and talk with someone about the notification. Don't call phone numbers mentioned in the questionable message. Never give an unsolicited caller remote access to your computer , closed Expand all panelsScammers may pose as an employee of a large telecommunications company or a technical support provider to tell you that your computer is experiencing technical problems. They will ask for remote access to solve the problem before demanding that you buy software or pay a fee to fix the computer. Don't wire money without verifying instructions , closed Expand all panelsUse caution when wiring funds to unknown people or businesses. Scammers posing as a government official, relative, closing agent or some other trusted source often modify wiring instructions to route your money to the wrong account. Don't feel pressured to act immediately , closed Expand all panelsScammers typically demand immediate responses and payment. Sometimes they even threaten law enforcement or legal action. If you feel threatened or are asked not to provide details to others or your bank about the reason for transaction, it could be a scam. Always ask us for help.
 
 Contact us immediately if you feel you may have been a victim of a scam.
 
-AARP layer has assembled a variety of resources about security and scams that we think you will find helpful:**  
-AARP Page on Scams and Fraud**  
-  
-**Common types of scams**
+**AARP has assembled a variety of resources about security and scams that we think you will find helpful: AARP Page on Scams and Fraud layer**  
 
-Imposter: "I'm with the IRS and a lawsuit is being filed against you for back taxes" layer  
-Tech support: "We've detected malware on your computer, let's go ahead and get this fixed for you" layer  
-Business email compromise: "Process a wire for $x and send to the account in the email attached?" layer  
-Email account compromise: "There's been a change in the transfer for closing, please now send the money to?" layer  
-Grandparent: "Grandma I'm in trouble, I need your help, I need some money really fast" layer  
-Romance: "I'd love to come to see you but I don't have the money to travel right now, can you help me out?" layer  
-Lottery and sweepstakes: "Your email address was randomly picked to participate in a drawing, send us your details" layer  
-Investment: "Glad I got you! Sometime back you responded to one of our programs for information, are you ready to invest?" layer  
-Charity: "Hi, the reason for my call is to see if you would donate to help preserve our local park" layer  
-Overpayment for goods or service: "Deposit the check and wire the difference to the account number attached" layer  
-Fake goods: "Please transfer money to my account and I will ship you the items" layer  
-Debt relief: "I can help you reduce or eliminate your debt" layer  
-Assistance cashing a check: "Excuse me, I just realized I left my wallet at home, can you cash this check for me?" layer  
-Fake house/apt rental: "Hi, I see you received my rental deposit and wanted to follow up about the move in date" layer
+**Common types of scams**  
 
-\*Zelle and the Zelle related marks are wholly owned by Early Warning Services, LLC and are used herein under license.
+Expand all panelsShow all panels | Hide all panelsImposter: "I'm with the IRS and a lawsuit is being filed against you for back taxes " , closed Tech support: "We've detected malware on your computer, let's go ahead and get this fixed for you" , closed Business email compromise: "Process a wire for $x and send to the account in the email attached?" , closed Email account compromise: "There's been a change in the transfer for closing, please now send the money to?" , closed Grandparent: "Grandma I'm in trouble, I need your help, I need some money really fast" , closed Romance: "I'd love to come to see you but I don't have the money to travel right now, can you help me out?" , closed Lottery and sweepstakes: "Your email address was randomly picked to participate in a drawing, send us your details" , closed Investment: "Glad I got you! Sometime back you responded to one of our programs for information, are you ready to invest?" , closed Charity: "Hi, the reason for my call is to see if you would donate to help preserve our local park" , closed Overpayment for goods or service: "Deposit the check and wire the difference to the account number attached" , closed Fake goods: "Please transfer money to my account and I will ship you the items" , closed Debt relief: "I can help you reduce or eliminate your debt" , closed Assistance cashing a check: "Excuse me, I just realized I left my wallet at home, can you cash this check for me?" , closed Fake house/apt rental: "Hi, I see you received my rental deposit and wanted to follow up about the move in date" , closed Imposter: "I'm with the IRS and a lawsuit is being filed against you for back taxes " , closed Expand all panelsRed flags include: You receive a request from a government agency asking you for a payment and/or to verify your personal information Tech support: "We've detected malware on your computer, let's go ahead and get this fixed for you" , closed Expand all panelsRed flags include: You receive a request from tech support claiming your computer has malware and requesting payment to fix the defects or access your computer Business email compromise: "Process a wire for $x and send to the account in the email attached?" , closed Expand all panelsRed flags include: You receive a request to change fund transfer details unexpectedly Email account compromise: "There's been a change in the transfer for closing, please now send the money to?" , closed Expand all panelsRed flags include: You receive a request to redirect funds for a legitimate purpose such as a home or auto purchase Grandparent: "Grandma I'm in trouble, I need your help, I need some money really fast" , closed Expand all panelsRed flags include: You receive a call from someone claiming to be a grandchild or loved one asking for money to help with an emergency and instructions on where to send the funds Romance: "I'd love to come to see you but I don't have the money to travel right now, can you help me out?" , closed Expand all panelsRed flags include: You receive a request for financial support from a partner in an exclusively online relationship Lottery and sweepstakes: "Your email address was randomly picked to participate in a drawing, send us your details" , closed Expand all panelsRed flags include: You receive a request to prepay fees or taxes in order to receive a large prize you supposedly won Investment: "Glad I got you! Sometime back you responded to one of our programs for information, are you ready to invest?" , closed Expand all panelsRed flags include: You receive a request to invest in a business opportunity with promises of high returns to getting rich quick Charity: "Hi, the reason for my call is to see if you would donate to help preserve our local park" , closed Expand all panelsRed flags include: You receive a request to donate to a charity that you've never heard of and for which you can’t find an official website Overpayment for goods or service: "Deposit the check and wire the difference to the account number attached" , closed Expand all panelsRed flags include: You receive an overpayment for an item you are selling and a request to deposit the check and then send money via a wire or gift card Fake goods: "Please transfer money to my account and I will ship you the items" , closed Expand all panelsRed flags include: You receive a request to send a money transfer to pay for an online purchase. Never transfer money for example by using Zelle ® for a product or merchandise that you have not received yet Debt relief: "I can help you reduce or eliminate your debt" , closed Expand all panelsRed flags include: You receive a request for payment in order to establish a service relationship to pay, settle or get rid of debt Assistance cashing a check: "Excuse me, I just realized I left my wallet at home, can you cash this check for me?" , closed Expand all panelsRed flags include: You are approached outside branch and asked to cash a check for someone who claims they don’t have an account or their ID with them. The bad check will be held against your account when it doesn’t clear. Fake house/apt rental: "Hi, I see you received my rental deposit and wanted to follow up about the move in date" , closed Expand all panelsRed flags include: Your house is legitimately listed for sale on multi-listing service (MLS) web sites, however scammers set up a fake website and list your house as a rental. You then receive inquiries from prospective renters about deposit checks they sent you (which they really sent to the scammer).
 
-Privacy notices explain how we collect, use and share information. You can easily manage your marketing preferences (direct mail, telephone and email) and limit certain information-sharing practices – it’s easy, and it takes just a few minutes.
+\* Zelle and the Zelle related marks are wholly owned by Early Warning Services, LLC and are used herein under license.
 
-*   U.S. Online Privacy Notice
-*   U.S. Consumer Privacy Notice
+Update your privacy choices
 
-U.S. Online Privacy Notice FULL PAGE VERSION Bank of America U.S. Online Privacy Notice
+You can review and revise your marketing and information-sharing choices online.  
+(You may also visit a  
+financial center or call 888.341.5000)
+
+You can review and revise your marketing and information-sharing choices online. (You may also visit a financial center or call 888.341.5000)
+
+Update your privacy choices
+
+Previously opted out of email from us? Visit this page to opt back in
+
+Browser Check
+
+Browser in use:  
+Firefox 54.0
+
+Please update your Internet browser to ensure your information is secure
+
+Review requirements
+
+Security Tools
+
+**Trusteer Report®**  
+Free fraud protection while signed in to Online Banking  
+Learn more about Trusteer Rapport®
+
+**SafePass®**  
+Authorize transactions using secure one-time Passcodes  
+Learn more about SafePass®
+
+Expand all panelsMore resources , open Protect your devices , closed FAQs , closed More resources , open
+
+*   Online and Mobile Banking Security Guarantee
+*   Learn more about security at Better Money Habits
+
+Protect your devices , closed
+
+*   Get McAfee® LiveSafe™ at no cost for the first 12 months
+
+FAQs , closed
+
+*   Review our FAQs
+
+Privacy notices explain how we collect, use and share information. You can easily manage your marketing preferences (direct mail, telephone and email) and limit certain information-sharing practices – it’s easy, and it takes just a few minutes.Expand all panelsU.S. Online Privacy Notice , open U.S. Consumer Privacy Notice , closed U.S. Online Privacy Notice , open Bank of America U.S. Online Privacy Notice
 
 Last updated May 1, 2018
 
-This U.S. Online Privacy Notice (Notice) applies to this Bank of America online interface (i.e., website or mobile application) and any Bank of America U.S. affiliate or subsidiary online interface that links to this Notice, (each, a Site, and, collectively, Sites).  The term "Bank of America" or "we" or "us" or "our" in this Notice refers to banking and non-banking U.S. affiliates or subsidiaries of Bank of America Corporation that link to this Notice. This Notice describes how Sites may collect, use and share information from or about you, and explains how information may be collected and used for advertising purposes.
+This U.S. Online Privacy Notice (Notice) applies to this Bank of America online interface (i.e., website or mobile application) and any Bank of America U.S. affiliate or subsidiary online interface that links to this Notice, (each, a Site, and, collectively, Sites). The term "Bank of America" or "we" or "us" or "our" in this Notice refers to banking and non-banking U.S. affiliates or subsidiaries of Bank of America Corporation that link to this Notice. This Notice describes how Sites may collect, use and share information from or about you, and explains how information may be collected and used for advertising purposes.
 
 Bank of America provides other online interfaces not covered by this Notice. If you visit or access your accounts from one of these sites, please review the online privacy practices of that site to understand how your online information may be collected, used and shared.
 
@@ -99,7 +165,7 @@ For visitors to this Site, we will use and share any information that we collect
 
 Additional information on our Privacy &. Security practices may be found on our Sites and within Frequently Asked Questions (FAQs). Although the additional information is provided as a resource, the terms and conditions of this Notice control, and by using the Site, you agree to the terms and conditions of this Notice.
 
-Collecting and Using Information Personal Information We Collect Online
+Collecting and Using InformationPersonal Information We Collect Online
 
 Personal Information means personally identifiable information such as information you provide via forms, surveys, applications or other online fields including name, postal or email addresses, telephone, fax or mobile numbers, or account numbers.
 
@@ -138,36 +204,37 @@ We and our third-party service providers may collect and use Other Information i
     
     You can refuse to accept these cookies and most devices and browsers offer their own privacy settings for cookies. You will need to manage your cookie settings for each device and browser you use. However, if you do not accept these cookies, you may experience some inconvenience in your use of the Site and some online products and services. For example, we will not be able to recognize your device and you will need to answer a challenge question each time you log on. You also may not receive tailored advertising or other offers from us that may be relevant to your interests and needs.
     
-*   **Other technologies including pixel tags, web beacons, and clear GIFs:** These may be used in connection with some Site pages, downloadable mobile applications and HTML-formatted email messages to measure the effectiveness of our communications, the success of our marketing campaigns, to compile statistics about usage and response rates, to personalize/tailor your experience while engaging with us online and offline, for fraud detection and prevention, for security purposes, for advertising, and to assist us in resolving account holders’ questions regarding use of our Site. Please see our **Advertising** section below for more information regarding our use of other technologies.
-*   **Flash objects:** As part of our solutions for online authentication, we use Flash objects (sometimes referred to as “Local Shared Objects”) to help us recognize you and your device when you come back to the Site. For our pages running Adobe® Flash® content (demos and tutorials with moving content), we use Flash objects to determine your browser type and version of Adobe Flash in order for you to view the content. We do not use Flash objects for any online behavioral advertising purpose. Deleting cookies does not delete Flash objects. You can learn more about Flash objects - including how to control and disable them - through the Adobe interface. If you choose to disable Flash objects from our Site, then you may not be able to access and use all or part of the Site or benefit from the information and services offered.
+*   **Other technologies including pixel tags, web beacons, and clear GIFs:** These may be used in connection with some Site pages, downloadable mobile applications and HTML-formatted email messages to measure the effectiveness of our communications, the success of our marketing campaigns, to compile statistics about usage and response rates, to personalize/tailor your experience while engaging with us online and offline, for fraud detection and prevention, for security purposes, for advertising, and to assist us in resolving account holders’ questions regarding use of our Site. Please see our **Advertising** section below for more information regarding our use of other technologies.
+*   **Flash objects:** As part of our solutions for online authentication, we use Flash objects (sometimes referred to as “Local Shared Objects”) to help us recognize you and your device when you come back to the Site. For our pages running Adobe® Flash® content (demos and tutorials with moving content), we use Flash objects to determine your browser type and version of Adobe Flash in order for you to view the content. We do not use Flash objects for any online behavioral advertising purpose. Deleting cookies does not delete Flash objects. You can learn more about Flash objects - including how to control and disable them - through the Adobe layer interface. If you choose to disable Flash objects from our Site, then you may not be able to access and use all or part of the Site or benefit from the information and services offered.
 *   **IP Address:** Your IP Address is a number that is automatically assigned to the device that you are using by your Internet Service Provider (ISP). An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice on the internet and is done automatically by many web sites. We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, to personalize/tailor your experience while engaging with us online and offline, for compliance and security purposes, for advertising, and administering the Site. Please see the **Advertising** section below for more information.
-*   **Aggregated and De-identified Data:** Aggregated and De-identified Data is data that we may create or compile from various sources, including but not limited to accounts and transactions.  This information, which does not identify individual account holders, may be used for our business purposes, which may include offering products or services, research, marketing or analyzing market trends, and other purposes consistent with applicable laws.
+*   **Aggregated and De-identified Data:** Aggregated and De-identified Data is data that we may create or compile from various sources, including but not limited to accounts and transactions. This information, which does not identify individual account holders, may be used for our business purposes, which may include offering products or services, research, marketing or analyzing market trends, and other purposes consistent with applicable laws.
 
 Additional Information
 
-**Third party widgets** – we may allow certain widgets (e.g., social share buttons) on our Sites that enable users to easily share information on another platform, such as a social media platform.  The third parties that own these widgets may have access to information about your browsing on pages of our Sites where these widgets are placed.  You may wish to review information at the third party site, such as social media platforms where you have an account, to determine how these third parties collect and treat such information.  Also, see **Linking** **to other sites** and **Social media sites** below.
+**Third party widgets** – we may allow certain widgets (e.g., social share buttons) on our Sites that enable users to easily share information on another platform, such as a social media platform. The third parties that own these widgets may have access to information about your browsing on pages of our Sites where these widgets are placed. You may wish to review information at the third party site, such as social media platforms where you have an account, to determine how these third parties collect and treat such information. Also, see **Linking** **to other sites** and **Social media sites** below.
 
 Advertising
 
-Bank of America advertises online (e.g., pages within our Sites and mobile apps through bank managed social media presences, and on other sites and mobile apps not affiliated with Bank of America) and offline (e.g. in banking centers, through call centers, and direct marketing). In order to understand how advertising performs, we may collect certain information on our Sites and other sites and mobile apps through our advertising service providers using cookies, IP addresses, and other technologies. The collected information may include the number of page visits, pages viewed on our Sites, search engine referrals, browsing activities over time and across other sites following your visit to one of our Sites or apps, and responses to advertisements and promotions on the Sites and on sites and apps where we advertise.
+Bank of America advertises online (e.g., pages within our Sites and mobile apps through bank managed social media presences, and on other sites and mobile apps not affiliated with Bank of America) and offline (e.g. in banking centers, through call centers, and direct marketing). In order to understand how advertising performs, we may collect certain information on our Sites and other sites and mobile apps through our advertising service providers using cookies, IP addresses, and other technologies. The collected information may include the number of page visits, pages viewed on our Sites, search engine referrals, browsing activities over time and across other sites following your visit to one of our Sites or apps, and responses to advertisements and promotions on the Sites and on sites and apps where we advertise.
 
-Bank of America uses information described in this Notice to help advertise our products and services, including prescreened offers of credit, in a variety of ways. We use such information to:
+Bank of America uses information described in this Notice to help advertise our products and services, including prescreened offers of credit, in a variety of ways. We use such information to:
 
 *   Present tailored ads, to you including:
-    
-    *   Banner ads and splash ads that appear as you sign on or off of your online accounts on our Sites, within mobile banking and other mobility applications
-    *   E-mail, postal mail, and telemarketing, and,
-    *   On other sites and mobile apps not affiliated with Bank of America;
+
+*   Banner ads and splash ads that appear as you sign on or off of your online accounts on our Sites, within mobile banking and other mobility applications
+*   E-mail, postal mail, and telemarketing, and,
+*   On other sites and mobile apps not affiliated with Bank of America;
+
 *   Analyze the effectiveness of our ads. and
 *   Determine whether you might be interested in new products or services
 
-**How we tailor ads:** Relationship based advertising
+How we tailor ads:Relationship based advertising
 
 In order to help make our advertising informative and useful, we may use information about your relationship with us (such as types of accounts, transactional information or the state in which you bank) to help determine which advertisements or offers to present to you.
 
 Online Behavioral Advertising
 
-We or our advertising service providers may use certain information about your activities on our Sites, such as pages visited and search key words entered to help determine which of our advertisements or offers may be of interest to you. We limit access and collection of information for specific purposes by advertising service providers. We may use this online information for online and offline advertising.
+We or our advertising service providers may use certain information about your activities on our Sites, such as pages visited and search key words entered to help determine which of our advertisements or offers may be of interest to you. We limit access and collection of information for specific purposes by advertising service providers. We may use this online information for online and offline advertising.
 
 Advertising on third party sites and mobile apps
 
@@ -175,7 +242,7 @@ Bank of America contracts with advertising companies to advertise our products a
 
 Online Behavioral Advertising on third party sites and mobile apps
 
-Some of our tailored ads are online behavioral advertising, and may be served using data collected by third party providers. Ads served on our behalf by these companies do not contain unencrypted Personal Information and we limit the use of information by companies that serve our ads. To learn more about this practice and your choices in connection with it, see the section **Advertising Choices** below
+Some of our tailored ads are online behavioral advertising, and may be served using data collected by third party providers. Ads served on our behalf by these companies do not contain unencrypted Personal Information and we limit the use of information by companies that serve our ads. To learn more about this practice and your choices in connection with it, see the section **Advertising Choices** below
 
 Advertising Choices
 
@@ -187,24 +254,24 @@ Opting out also means that the online content and advertising you receive on our
 
 Please note that if you opt out of this advertising, you may still receive untailored advertising from Bank of America. When accessing online account servicing areas (i.e. after sign-in), such as Online Banking or MyMerrill, you may receive tailored content and advertising based on your account relationships. In addition, financial advisors/Client Managers may continue to use information collected online as described in this Notice to provide details on products and services in accordance with account agreements. See **Important Reminder** section below.
 
-**Bank managed Direct Marketing:**  If you prefer we not deliver you marketing offers in email, postal mail or through telemarketing you may manage your direct marketing choices online  or:
+**Bank managed Direct Marketing:** If you prefer we not deliver you marketing offers in email, postal mail or through telemarketing you may manage your direct marketing choices online or:
 
 *   by telephone at 888.341.5000 — our menu will prompt you through the choices,
 *   through your assigned account representative (e.g., Financial Advisor, Mortgage Loan Officer) or a representative at a banking center
 
-**Advertising on third party sites:** Bank of America participates in the Digital Advertising Alliance (DAA) self-regulatory program, uses the  Advertising Options Icon on our behavioral ads on third party sites (excluding ads appearing on platforms that do not accept the icon) and adheres to the DAA self-regulatory Principles for Online Behavioral Advertising. Anyone receiving a behavioral ad may click on the displayed icon to receive more information and can opt out at that time or by visiting the third party site's privacy policy for an opt out mechanism.
+**Advertising on third party sites:** Bank of America participates in the Digital Advertising Alliance (DAA) self-regulatory program, uses the Advertising Options Icon layer on our behavioral ads on third party sites (excluding ads appearing on platforms that do not accept the icon) and adheres to the DAA self-regulatory Principles for Online Behavioral Advertising. Anyone receiving a behavioral ad may click on the displayed icon to receive more information and can opt out at that time or by visiting the third party site's privacy policy for an opt out mechanism.
 
-You may also opt out of receiving behavioral ads from many sites through the Network Advertising Initiative's Opt-Out Tool or other tools provided by the publishing platform.
+You may also opt out of receiving behavioral ads from many sites through the Network Advertising Initiative's Opt-Out Tool layer or other tools provided by the publishing platform.
 
-Please note that if you opt out, you may still receive untailored online advertising from Bank of America. Opting out from a specific third party site means that the ads you receive will not be tailored based on your choices or behavior.
+Please note that if you opt out, you may still receive untailored online advertising from Bank of America. Opting out from a specific third party site means that the ads you receive will not be tailored based on your choices or behavior.
 
 Important Reminder
 
-In order for online behavioral advertising opt outs from our Sites and on other sites to work on your device, your browser must be set to accept cookies. If you delete cookies, buy a new device, access our Site or other sites from a different device, login under a different screen name, or change web browsers, you will need to opt-out again. If your browser has scripting disabled, you do not need to opt out, as online behavioral advertising technology does not work when scripting is disabled. Please check your browser's security settings to validate whether scripting is active or disabled.
+In order for online behavioral advertising opt outs from our Sites and on other sites to work on your device, your browser must be set to accept cookies. If you delete cookies, buy a new device, access our Site or other sites from a different device, login under a different screen name, or change web browsers, you will need to opt-out again. If your browser has scripting disabled, you do not need to opt out, as online behavioral advertising technology does not work when scripting is disabled. Please check your browser's security settings to validate whether scripting is active or disabled.
 
 Mobile Applications
 
-Bank of America's Mobile Applications for U.S. accounts ("Applications") allows you to access your account balances and holdings, make deposits, transfers and pay bills on your mobile device.  This Notice applies to any Personal Information or Other Information that we may collect through the Applications.
+Bank of America's Mobile Applications for U.S. accounts ("Applications") allows you to access your account balances and holdings, make deposits, transfers and pay bills on your mobile device. This Notice applies to any Personal Information or Other Information that we may collect through the Applications.
 
 Linking to other sites
 
@@ -212,17 +279,17 @@ We may provide links to third party sites, such as credit bureaus, service provi
 
 Social media sites
 
-Bank of America provides experiences on social media platforms including, but not limited to, Facebook®, Twitter®, YouTube® and LinkedIn® that enable online sharing and collaboration among users who have registered to use them. Any content you post on official Bank of America managed social media pages, such as pictures, information, opinions, or any Personal Information that you make available to other participants on these social platforms, is subject to the Terms of Use and Privacy Policies of those respective platforms. Please refer to them to better understand your rights and obligations with regard to such content.  In addition, please note that when visiting any official Bank of America social media pages, you are also subject to Bank of America's Privacy Notices and Social Media User Terms.
+Bank of America provides experiences on social media platforms including, but not limited to, Facebook®, Twitter®, YouTube® and LinkedIn® that enable online sharing and collaboration among users who have registered to use them. Any content you post on official Bank of America managed social media pages, such as pictures, information, opinions, or any Personal Information that you make available to other participants on these social platforms, is subject to the Terms of Use and Privacy Policies of those respective platforms. Please refer to them to better understand your rights and obligations with regard to such content. In addition, please note that when visiting any official Bank of America social media pages, you are also subject to Bank of America's Privacy Notices and Social Media User Terms.
 
 Security
 
-To protect Personal Information from unauthorized access and use, we use security measures that comply with applicable federal and state laws.  These measures may include device safeguards and secured files and buildings as well as oversight of our third party service providers to ensure information remains confidential and secure.  Please visit bankofamerica.com/security for additional information.
+To protect Personal Information from unauthorized access and use, we use security measures that comply with applicable federal and state laws. These measures may include device safeguards and secured files and buildings as well as oversight of our third party service providers to ensure information remains confidential and secure. Please visit bankofamerica.com/security for additional information.
 
 Using other aggregation websites
 
 Other companies offer aggregation websites and services that allow you to consolidate your financial account information from different sources (such as your accounts with us or with other financial institutions) so that you can view all your account information at one online location. To do this, an aggregation provider may request access to Personal Information, such as financial information, usernames and passwords. You should use caution and ensure that the aggregator company has appropriate policies and practices to protect the privacy and security of any information you provide or to which they are gaining access. We are not responsible for the use or disclosure of any Personal Information accessed by any company or person to whom you provide your Site username and password.
 
-If you provide your Site username, password or other information about your accounts with us to an aggregation website, we will consider that you have authorized all transactions or actions initiated by an aggregation website using access information you provide, whether or not you were aware of a specific transaction or action.  If you decide to revoke the authority you have given to an aggregation website, we strongly recommend that you change your password for the Site to ensure that the aggregation website cannot continue to access your account.
+If you provide your Site username, password or other information about your accounts with us to an aggregation website, we will consider that you have authorized all transactions or actions initiated by an aggregation website using access information you provide, whether or not you were aware of a specific transaction or action. If you decide to revoke the authority you have given to an aggregation website, we strongly recommend that you change your password for the Site to ensure that the aggregation website cannot continue to access your account.
 
 Making sure information is accurate
 
@@ -230,7 +297,7 @@ Keeping your account information accurate and up to date is very important. If y
 
 Protecting children’s privacy online
 
-The Site is not directed to individuals under the age of thirteen (13)**,** and we request that these individuals do not provide Personal Information through the Site. We do not knowingly collect information from children under 13 without parental consent.  Visit the Federal Trade Commission website for more information about the Children's Online Privacy Protection Act (COPPA). 
+The Site is not directed to individuals under the age of thirteen (13)**,** and we request that these individuals do not provide Personal Information through the Site. We do not knowingly collect information from children under 13 without parental consent. Visit the Federal Trade Commission layer website for more information about the Children's Online Privacy Protection Act (COPPA).
 
 Protecting individual health information
 
@@ -240,7 +307,9 @@ Updates to this Privacy Notice
 
 This U.S. Online Privacy Notice is subject to change. Please review it periodically. If we make changes to the U.S. Online Privacy Notice, we will revise the “Last Updated” date at the top of this Notice. Any changes to this Notice will become effective when we post the revised Notice on the Site. Your use of the Site following these changes means that you accept the revised Notice.
 
-U.S. Consumer Privacy Notice FULL PAGE VERSION U.S. Consumer Privacy Notice FACTS
+FULL PAGE VERSION U.S. Consumer Privacy Notice , closed U.S. Consumer Privacy Notice
+
+FACTS
 
 **WHAT DOES BANK OF AMERICA DO WITH YOUR PERSONAL INFORMATION?**
 
@@ -250,8 +319,7 @@ Financial companies choose how they share your personal information. Under feder
 
 What?
 
-The types of personal information we collect and share depend on the product or service you have with us.
-
+The types of personal information we collect and share depend on the product or service you have with us.  
 This information can include:
 
 *   Social Security number and employment information
@@ -262,7 +330,9 @@ How?
 
 All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information. the reasons Bank of America chooses to share. and whether you can limit this sharing.
 
-Reasons we can share your personal informationDoes Bank of America share?Can you limit this sharing?**For our everyday business purposes** — such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus Yes No **For our marketing purposes** — with service providers we use to offer our products and services to you (please see below to limit the ways we contact you) Yes No **For joint marketing with other financial companies** Yes No **For our affiliates’ everyday business purposes** — Information about your transactions and experiences Yes No **For our affiliates’ everyday business purposes** — Information about your creditworthiness Yes Yes **For nonaffiliates to market to you** — for all credit card accounts Yes Yes **For nonaffiliates to market to you** — for accounts and services endorsed by another organization (e.g., debit card co-branded with a baseball team) “Sponsored Accounts” Yes Yes **For nonaffiliates to market to you** — for accounts other than credit card accounts and Sponsored Accounts, such as insurance, investments, deposit and lending No We don't share To limit our sharing
+**Reasons we can share your personal information** **Does Bank of America share?** **Can you limit this sharing?** **For our everyday business purposes** — such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureausYesNo**For our marketing purposes** — with service providers we use to offer our products and services to you (please see below to limit the ways we contact you)YesNo**For joint marketing with other financial companies**YesNo**For our affiliates’ everyday business purposes** — Information about your transactions and experiencesYesNo**For our affiliates’ everyday business purposes** — Information about your creditworthinessYesYes**For nonaffiliates to market to you** — for all credit card accountsYesYes**For nonaffiliates to market to you** — for accounts and services endorsed by another organization (e.g., debit card co-branded with a baseball team) “Sponsored Accounts”YesYes**For nonaffiliates to market to you** — for accounts other than credit card accounts and Sponsored Accounts, such as insurance, investments, deposit and lendingNoWe don't share
+
+To limit our sharing
 
 *   Visit us online: bankofamerica.com/privacy
 *   Call 888.341.5000 — our menu will prompt you through your choices
@@ -277,32 +347,32 @@ To limit direct marketing contact
 *   Call 888.341.5000 — our menu will prompt you through your choices
 *   Talk to your assigned financial advisor
 
-**Please note:**  
+**Please Note:**  
 Direct marketing is email, postal mail and telephone marketing. Your telephone and postal mail opt-out choices will last for five years, subject to applicable law. Even if you limit direct marketing, we may still contact you to service your account or as otherwise allowed by law.
 
 Questions?
 
 Call 888.341.5000 or go to bankofamerica.com/privacy
 
-Who we are Who is providing this notice?
+Who we are**Who is providing this notice?**
 
 Bank of America U.S. legal entities that utilize the names: Bank of America, Banc of America, U.S. Trust or Merrill Lynch, as well as the entities listed in the _Bank of America U.S. legal entities_ section.
 
-What we do How does Bank of America protect my personal information?
+What we do**How does Bank of America protect my personal information?**
 
 To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. For more information visit bankofamerica.com/security or ml.com/security.
 
-How does Bank of America collect my personal information?
+**How does Bank of America collect my personal information?**
 
 We collect your personal information, for example, when you:
 
 *   open an account or perform transactions
-*   apply for a loan or use your credit or debit card
+*   apply for a loan or use your credit card or debit card
 *   seek advice about your investments
 
 We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.
 
-Why can’t I limit all sharing?
+**Why can’t I limit all sharing?**
 
 Federal law gives you the right to limit some but not all sharing related to:
 
@@ -312,34 +382,34 @@ Federal law gives you the right to limit some but not all sharing related to:
 
 State laws and individual Bank of America companies may give you more rights to limit sharing. See _Other important information_ section for your rights under state law.
 
-What happens when I limit sharing for an account I hold jointly with someone else?
+**What happens when I limit sharing for an account I hold jointly with someone else?**
 
 Your choices will apply to you alone unless you tell us otherwise. However, your choice to limit sharing with nonaffiliates to market to you for credit card accounts or Sponsored Accounts will apply to all joint account holders. If you have more than one credit card account or Sponsored Account and you choose to opt out, you will need to do so for each account.
 
-Definitions Affiliates
+Definitions**Affiliates**
 
 Companies related by common ownership or control. They can be Financial and nonfinancial companies.
 
-*   Our affiliates include companies that utilize the names Bank of America, Banc of America, U.S. Trust or Merrill Lynch, as well as financial companies such as General Fidelity Life Insurance Company.
+*   Our affiliates include companies that utilize the names Bank of America, Banc of America, U.S. Trust or Merrill Lynch, as well as financial companies such as General Fidelity Life Insurance Company.
 
-Nonaffiliates
+**Nonaffiliates**
 
 Companies not related by common ownership or control. They can be financial and nonfinancial companies.
 
 *   Nonaffiliates we share with can include financial services companies such as insurance agencies or mortgage brokers, nonfinancial companies such as retailers, travel companies and membership groups, other companies such as nonprofit groups.
 
-Joint marketing
+**Joint marketing**
 
 A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
 
 *   Our joint marketing partners include financial service companies.
 
-Other important information
+Other Important Information
 
-**Do Not Call Policy.** This notice is the Bank of America Do Not Call Policy under the Telephone Consumer Protection Act. We do not solicit via telephone numbers listed on the state or federal Do Not Call lists, unless the law allows. Bank of America employees receive training on how to document and process telephone marketing choices. Consumers who ask not to receive telephone solicitations from Bank of America will be placed on the Bank of America Do Not Call list and will not be called in any future campaigns, including those of Bank of America affiliates.  
+**Do Not Call Policy.** This notice is the Bank of America Do Not Call Policy under the Telephone Consumer Protection Act. We do not solicit via telephone numbers listed on the state or federal Do Not Call lists, unless the law allows. Bank of America employees receive training on how to document and process telephone marketing choices. Consumers who ask not to receive telephone solicitations from Bank of America will be placed on the Bank of America Do Not Call list and will not be called in any future campaigns, including those of Bank of America affiliates.  
 **Call Monitoring and Recording.** If you communicate with us by telephone, we may monitor or record the call.
 
-**For Nevada residents only.** We are providing you this notice under state law. You may be placed on our internal Do Not Call List by following the directions in the _To limit direct marketing contact_ section. Nevada law requires we provide the following contact information: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101. Phone number: 702.486.3132. email: aginfo@ag.nv.gov. Bank of America, P.O. Box 25118 Tampa, FL 33622-5118. Phone number: 888.341.5000. Click on “Contact Us” at bankofamerica.com/privacy.
+**For Nevada residents only.** We are providing you this notice under state law. You may be placed on our internal Do Not Call List by following the directions in the To limit direct marketing contact section. Nevada law requires we provide the following contact information: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101. Phone number: 702.486.3132. email: aginfo@ag.nv.gov. Bank of America, P.O. Box 25118 Tampa, FL 33622-5118. Phone number: 888.341.5000. Click on “Contact Us” at bankofamerica.com/privacy
 
 **Vermont:** Under Vermont law, we will not share information we collect about Vermont residents with companies outside of our corporate family, unless the law allows. For example, we may share information with your consent, to service your accounts or under joint marketing agreements with other financial institutions with which we have joint marketing agreements. We will not share information about your creditworthiness within our corporate family except with your consent, but we may share information about our transactions or experiences with you within our corporate family without your consent.
 
@@ -353,182 +423,17 @@ Bank of America U.S. legal entities
 
 Bank of America U.S. legal entities that utilize the names: Bank of America, Banc of America, U.S. Trust or Merrill Lynch, as well as the following entities: BACAP Alternative Advisors, Inc., General Fidelity Life Insurance Company, Managed Account Advisors LLC, NationsCredit Financial Services Corporation.
 
-Rev. 01/2018
-
-Investment: "Glad I got you! Sometime back you responded to one of our programs for information, are you ready to invest?"
-
-Red flags include: You receive a request to invest in a business opportunity with promises of high returns to getting rich quick
-
-Don't feel pressured to act immediately
-
-Scammers typically demand immediate responses and payment. Sometimes they even threaten law enforcement or legal action.  If you feel threatened or are asked not to provide details to others or your bank about the reason for transaction, it could be a scam.  Always ask us for help.
-
-Tech support: "We've detected malware on your computer, let's go ahead and get this fixed for you"
-
-Red flags include: You receive a request from tech support claiming your computer has malware and requesting payment to fix the defects or access your computer
-
-Grandparent: "Grandma I'm in trouble, I need your help, I need some money really fast"
-
-Red flags include: You receive a call from someone claiming to be a grandchild or loved one asking for money to help with an emergency and instructions on where to send the funds
-
-Don't provide account or personal information via email or text
-
-We will never email or text you requesting you to call or respond with your account number, PIN or access code.
-
-Use our mobile app
-
-Our mobile app is the best way for you to stay on top of any suspicious account activity
-
-Don't cash checks for strangers or return funds for overpayment
-
-If someone you don’t know wants to pay you by check and asks you to wire some of the money back or give them cash, beware! It could be a scam that could cost you thousands of dollars. When making a check deposit, remember that Bank of America may give you immediate access to the funds, but the check can still be returned unpaid.
-
-Never give an unsolicited caller remote access to your computer
-
-Scammers may pose as an employee of a large telecommunications company or a technical support provider to tell you that your computer is experiencing technical problems.  They will ask for remote access to solve the problem before demanding that you buy software or pay a fee to fix the computer.
-
-Preferred Rewards members and Bank of America employees can take advantage of a discounted membership to AARP that’s not available when clicking through to the AARP website from the Bank of America website. If you’re enrolled in Preferred Rewards, sign in to Online Banking and select the **Special offers** link from the **Rewards &. Deals** drop down menu.
-
-If you’re a Bank of America employee, visit **HR Connect** and search for **AARP**. You can also schedule an appointment to meet with a specialist in a financial center to obtain the AARP membership discount.
-
-Protect your devices
-
-Keep your phone, tablet and computer up to date with the latest browsers, operating systems and antivirus software
-
-Don't give an unsolicited caller or solicitor your personal information or codes
-
-Bank of America will never call you or visit your home asking you to verify your account numbers, password or access code.  If you receive a call, text or email, or someone comes to your home asking for this information, don’t give it out. Consider installing an app to block robocalls to your phone.    
-
-Create strong, unique passwords
-
-*   Strong passwords are 8 or more characters long and include a combination of numbers, symbols and upper- and lowercase letters
-*   Use multifactor authentication when possible
-
-Don't pay upfront for a promise
-
-Scammers may ask you to pay in advance for things like debt relief, credit and loan offers, mortgage assistance or a job.  They may say you've won a prize, but first you need to pay taxes or fees.  If you do, they will probably take the money and disappear.
-
-Fake house/apt rental: "Hi, I see you received my rental deposit and wanted to follow up about the move in date"
-
-Red flags include: Your house is legitimately listed for sale on multi-listing service (MLS) web sites, however scammers set up a fake website and list your house as a rental. You then receive inquiries from prospective renters about deposit checks they sent you (which they really sent to the scammer).
-
-Overpayment for goods or service: "Deposit the check and wire the difference to the account number attached"
-
-Red flags include: You receive an overpayment for an item you are selling and a request to deposit the check and then send money via a wire or gift card
-
-Assistance cashing a check: "Excuse me, I just realized I left my wallet at home, can you cash this check for me?"
-
-Red flags include: You are approached outside branch and asked to cash a check for someone who claims they don’t have an account or their ID with them. The bad check will be held against your account when it doesn’t clear.
-
-Imposter: "I'm with the IRS and a lawsuit is being filed against you for back taxes"
-
-Red flags include: You receive a request from a government agency asking you for a payment and/or to verify your personal information
-
-Debt relief: "I can help you reduce or eliminate your debt"
-
-Red flags include: You receive a request for payment in order to establish a service relationship to pay, settle or get rid of debt
-
-Business email compromise: "Process a wire for $x and send to the account in the email attached?"
-
-Red flags include: You receive a request to change fund transfer details unexpectedly
-
-Text alert
-
-1If we suspect fraud, we may send a text to your mobile number on file from 322632, 35422, 86006, 96264, 56433, 55983, and 85594. 
-
-Check your contact information
-
-*   You're not the only one protecting your account.  If we spot an issue, we want to get in touch with you the quickest way possible.
-*   Provide your mobile number, so we can alert you to potential fraud
-
-Romance: "I'd love to come to see you but I don't have the money to travel right now, can you help me out?"
-
-Red flags include: You receive a request for financial support from a partner in an exclusively online relationship
-
-Don't send gift cards as payment or buy gift cards for someone you don't know
-
-Whether masquerading as IRS agents, tech-support personnel or the attorney for the grandchild who’s supposedly in jail, criminals pressure their targets to buy gift cards for iTunes, Google Play, Best Buy and other popular retailers — and ask them to provide the code numbers, or PINs, on the back of the cards so they can be redeemed.
-
-Charity: "Hi, the reason for my call is to see if you would donate to help preserve our local park"
-
-Red flags include: You receive a request to donate to a charity that you've never heard of and for which you can’t find an official website
-
-Keep your account information secure
-
-*   Go paperless
-*   Never write your PIN on the back of your card
-*   Use trusted online payment methods, such as Bill Pay or _Zelle_ ® instead of writing checks
-
-Don't click on unsolicited links or attachments sent via email or text
-
-Scammers use email or text messages to trick you into giving them your personal information. These messages seem identical to official correspondence.  Check it out first by calling a phone number you trust and talk with someone about the notification.  Don't call phone numbers mentioned in the questionable message.
-
-Email account compromise: "There's been a change in the transfer for closing, please now send the money to?"
-
-Red flags include: You receive a request to redirect funds for a legitimate purpose such as a home or auto purchase
-
-Fake goods: "Please transfer money to my account and I will ship you the items"
-
-Red flags include: You receive a request to send a money transfer to pay for an online purchase. Never transfer money for example by using Zelle® for a product or merchandise that you have not received yet
-
-Never Trust Caller ID
-
-Scammers may pose as government officials, law enforcement or even Bank of America employees to steal your personal information.  Always validate a person’s organization by calling them back through an official phone number.
-
-Don't wire money without verifying instructions
-
-Use caution when wiring funds to unknown people or businesses. Scammers posing as a government official, relative, closing agent or some other trusted source often modify wiring instructions to route your money to the wrong account.
-
-Lottery and sweepstakes: "Your email address was randomly picked to participate in a drawing, send us your details"
-
-Red flags include: You receive a request to prepay fees or taxes in order to receive a large prize you supposedly won
-
-Update your privacy choices
-
-You can review and revise your marketing and information-sharing choices online.  
-(You may also visit a  
-financial center or  
-call 888.341.5000)
-
-Update your privacy choices
-
-Previously opted out of email from us? Visit this page to opt back in
-
-Browser check
-
-Browser in use:  
-Mozilla Firefox 54.0
-
-Congratulations! Your internet browser meets our security requirementsPlease update your Internet browser to ensure your information is secure
-
-Review requirements
-
-Security tools
-
-*   **Digital Wallets**  
-    It's time to try a faster, easier and secure way to pay.  
-    Learn more about Digital Wallets
-*   **Trusteer Rapport®**  
-    Free fraud protection while signed in to Online Banking  
-    Learn more about Trusteer Rapport®
-*   **SafePass®**  
-    Authorize transactions using secure one-time Passcodes  
-    Learn more about SafePass®
-
-hide More resources
-
-*   Online and Mobile Banking Security Guarantee
-*   Learn more about security at Better Money Habits
-
-show Protect your devices
-
-*   Get McAfee® LiveSafe™ at no cost for the first 12 months
-
-show FAQs
-
-*   Review our FAQs
-
-  Home Accessible Banking Privacy &. Security Careers Site Map Advertising Practices layer Advertising Practices
+Rev 01/2018
+
+FULL PAGE VERSION
+
+*   Home
+*   Privacy &. Security
+*   Careers
+*   Feedback
+*   Sitemap
+*   Advertising Practices layer
+Advertising Practices
 
 We strive to provide you with information about products and services you might find interesting and useful. Relationship-based ads and online behavioral advertising help us do that.
 
@@ -538,33 +443,14 @@ If you prefer that we do not use this information, you may opt out of online beh
 
 Also, if you opt out of online behavioral advertising, you may still see ads when you sign in to your account, for example through Online Banking or MyMerrill. These ads are based on your specific account relationships with us.
 
-To learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review the Bank of America Online Privacy Notice and our Online Privacy FAQs.
+To learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review Bank of America Online Privacy Notice and our Online Privacy FAQs.
 
-Bank of America, N.A. Member FDIC. Equal Housing Lender  
-© 2019 Bank of America Corporation.
+Connect with us FacebookInstagramLinkedInPinterestTwitterYouTube
 
-Connect with usConnect with us on Facebook layerConnect with us on Instagram layerConnect with us on LinkedIn layerConnect with us on Pinterest layerConnect with us on Twitter layerConnect with us on YouTube layerFacebookInstagramLinkedInPinterestTwitterYouTube Important Notice
+Bank of America, N.A. Member FDIC. Equal Housing Lender new window
 
-**You're going to another website**
+© 2019 Bank of America Corporation. All rights reserved.
 
-Before you go, we want you to know the site owner is responsible for what's on their site. Also, their privacy practices and level of security may be different from ours, so please review their policies.
+text alerts
 
-Continue Go back to Bank of America Opt out of online behavioral advertising
-
-When you opt out, we will not use information based on online Site behavior to provide online and offline tailored content and advertising to you, but you may still receive untailored advertising from Bank of America. In addition, financial advisors/Client Managers may continue to use information collected online to provide product and service information in accordance with account agreements.
-
-Opting out also means the online content and advertising you receive on our non-servicing sites (before you sign in) will be untailored and will not be based on your online behavior or your relationship with us.
-
-When accessing online account servicing areas (after you sign in), such as Online Banking or MyMerrill, you may receive tailored content and advertising based on your account relationships.
-
-**Important reminder:**  In order for this online behavioral advertising opt-out to work on your device, your browser must be set to accept cookies. If you delete cookies, buy a new device, access our Site from a different device, sign in under a different screen name or change web browsers, you will need to opt out again.
-
-If your browser has scripting disabled, you do not need to opt out, as online behavioral advertising technology does not work when scripting is disabled. Please check your browser's security settings to validate whether scripting is active or disabled.
-
-The opt-out will take effect upon your next visit using the same device to Bank of America Sites. Click on **Submit** to opt out of online Site behavior used to provide to provide online and offline tailored content and advertising.
-
-Submit Cancel You have successfully opted out of online behavioral advertising
-
-You have successfully opted out of online behavioral advertising. The opt-out will take effect upon your next visit using the same device to Bank of America Sites.
-
-BlankTestESsBlankTestESsBlankTestESsBlankTestESs
+1If we suspect fraud, we may send a text to your mobile number on file from 322632, 35422, 86006, 96264, 56433, 55983, and 85594.
