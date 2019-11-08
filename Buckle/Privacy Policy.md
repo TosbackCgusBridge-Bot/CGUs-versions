@@ -1,10 +1,13 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content gifted with the perfect fit, and so much more - discover the story. Guest Loyalty Members, win our Gifted Getaway! Shop Now or Enroll Today. Military guests enjoy 10% off &. free shipping on orders of $129. Shop Now or Learn More.
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content gifted with the perfect fit, and so much more - discover the story. Guest Loyalty Members, win our Gifted Getaway!  
+Shop Now or Enroll Today. Military guests enjoy 10% off &. free shipping on orders of $129.  
+Shop Now or Learn More.
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-Guest Loyalty Members, win our Gifted Getaway! Shop Now or Enroll Today.
+Military guests enjoy 10% off &. free shipping on orders of $129.  
+Shop Now or Learn More.
 
 *   Women
 *   Men
@@ -31,6 +34,7 @@ Guest Loyalty Members, win our Gifted Getaway! Shop Now or Enroll Today.
     *   *   Featured
         
         *   SHOP ALL WOMEN'S
+        *   gift(ed) guide
         *   New Arrivals
         *   Brill Boutique
         *   Buckle Exclusives
@@ -101,6 +105,7 @@ Guest Loyalty Members, win our Gifted Getaway! Shop Now or Enroll Today.
     *   *   Featured
         
         *   SHOP ALL MEN'S
+        *   gift(ed) guide
         *   New Arrivals
         *   Buckle Exclusives
         *   buckle SELECT
