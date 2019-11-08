@@ -43,6 +43,7 @@ Lenovo Explore Close
         *   Financing Available
         
         *   Explore Desktops
+        *   Desktop Deals
         *   Gaming Desktops
         *   Workstations
         *   Small Business Desktops
@@ -203,6 +204,7 @@ Lenovo Explore Close
         *   PC Gaming
         *   Gaming PC Deals
         *   Nintendo
+        *   Xbox
         
         *   New in Gaming
         *   Oculus Rift S
@@ -290,7 +292,7 @@ Lenovo Explore Close
         *   Gaming PC Deals
         
         *   Other Weekly Deals
-        *   Black Friday eCatalog
+        *   Desktop Deals
         *   Monitor Deals
         *   Workstations Deals
         *   Accessories &. Electronics
@@ -298,7 +300,7 @@ Lenovo Explore Close
         *   Electronic Deals
         
         *   Additional Offers
-        *   Black Friday eCatalog
+        *   Black Friday Catalog
         *   Clearance
         *   Financing Options
         *   Discount Programs
@@ -1171,7 +1173,7 @@ CUSTOMER SUPPORT
 *   Forums
 *   FAQs
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Feedback Will open a new windowFeedbackLaunches comment card in new windowCreated with sketchtool.CHAT NOW
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Created with sketchtool.CHAT NOW
 
 How can we help
 
@@ -1181,4 +1183,4 @@ you today?
 
 Call us: 1-855-253-6686
 
-Check order status >Technical support or Repair status >
+Check order status >Technical support or Repair status >Feedback Will open a new windowFeedbackLaunches comment card in new window
