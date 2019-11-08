@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -118,53 +116,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Alice Stewart_: For the GOP, the Suburbs Are the New Florida
+*   _Peter Nicholas_: Donald Trump Is All Alone
     
-*   _Alexandra DeSanctis_: State Elections Aren't All About Trump
+*   _Gregg Re_: Whistleblower's Attorney in January 2017: 'Coup Has Started'
     
-*   _Tram Nguyen_: Democratic Surge in Virginia Was a Long Time Coming
+*   _Jon Meacham_: Impeachment Inquiry Is About Who We Are as Americans
     
-*   _Sean Trende_: Three Takeaways From Tuesday's Elections
+*   _Erielle Davidson_: Did the Biden Family Think America Was for Sale?
     
-*   _Brad Bannon_: The Democrats' Generational Battle
+*   _Jane Coaston_: The NRA's Big Loss in Virginia, Explained
     
-*   _John Davidson_: The U.S. Needs to Wage War on Mexican Drug Cartels
+*   _John Hinderaker_: How Trump's Court Appointments Alter Balance of Power
     
-*   _Elvia Diaz_: Sending U.S. Troops to Fight Won't Help Mexico
+*   _Reed Galen_: Sanders vs. Warren Is the Battle to Watch
     
-*   _Richard Porter_: Why Illinois' Govt Has Become Predatory &. Unjust
+*   _Chris Smith_: The Weird Persistence (and Stunning Weakness) of Biden
     
-*   _Joe Lockhart_: GOP's Raging Hypocrisy on Impeachment
+*   _Caroline Glick_: Al-Baghdadi and Trump's Syrian Chessboard
     
-*   _Betsy McCaughey_: Democrats' Rigged Impeachment Circus
+*   _Frank Bruni_: Why Donald Trump Hates Your Dog
     
-*   _John Wasik_: New Bank E-Thieves Are Watching You Digitally in Real Time
+*   _Susan Crabtree_: DNC Dumps UCLA as Debate Site, a Self-Inflicted Calif. Wound
     
-*   _Carl Cannon_: 23 + 45: The Benjamin Harrison-Donald Trump Nexus
+*   _Freddy Gray_: The Mesmerizing Mediocrity of Dems' 2020 Candidates
     
-*   _Jonathan Martin_: Dems Take Control in VA, Claim Narrow Win in KY Gov Race
+*   _E.J. Dionne_: Trump Is In Trouble. Tuesday's Elections Are Proof.
     
-*   _Nathan Gonzales_: Lessons From 2019 Elections May Not Be What You Think
+*   _Philip Wegmann_: 2019 as Precursor to 2020? Results Say Yes, No and Maybe
     
-*   _Rep. Adam Schiff_: Impeachment Is Correct Remedy for Betraying America
+*   _John Kass_: Epstein, Kavanaugh and ABC's Tale of Double Standards
     
-*   _Mollie Hemingway_: Real Talk: Impeachment Going Poorly For Dems, Media
+*   _Peter Beinart_: The Utter Emptiness of Trump's Populism
     
-*   _Elie Honig_: The Whistleblower Nailed It: Trump's Response False &. Reckless
+*   _Mollie Hemingway_: Trump Derangement Is Destroying Political Analysis
     
-*   _Rep. Jim Jordan_: 'Whistleblower' Must Testify Under Oath and In Person
+*   _David Ignatius_: How Pompeo Has Badly Tarnished His Reputation
     
-*   _James Jay Carafano_: Trump &. Obrador Must Take on the Cartels
+*   _Hugo Gurdon_: How Much Were Vindman and Ciaramella Colluding?
     
-*   _Brent Budowsky_: Why Elizabeth Warren Deeply Worries Many Dems
+*   _Nate Silver_: National and State Dem Polls Show Pretty Much the Same Thing
     
-*   _Elaine Godfrey_: Amy Klobuchar Has a Pete Buttigieg Problem
+*   _Ben Schreckinger_: Biden and Family: 'A Little Help From the Vice President'
     
-*   _Philip Wegmann_: With an Eye Toward Beto Voters, Castro Campaign Limps On
+*   _Brian Blase_: Why Warren's Plan Will Lead to Worse Health Care
     
-*   _Elizabeth Warren_: A Climate Denier Sits in the White House. Not For Long
+*   _P.R. Lockhart_: In Dem Primary, There Is No Single 'Black Vote.' There Are Many.
     
-*   _Sen. John Barrasso_: Trump Right to Get Us Out of Paris Climate Accord
+*   _Miranda Devine_: Candace Owens' Blexit Movement Is Dems' Nightmare
     
 
 *   Previous
@@ -235,11 +233,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Republicans: ABA to Face Senate Action After Suspect VanDyke Rating
+*   DNC Dumps UCLA as Debate Site--a Self-Inflicted Calif. Wound
+*   2019 as Precursor to 2020? Results Say Yes, No and Maybe
+*   Trump Reads Tweets by Whistleblower's Attorney: "Coup Has Started"
 *   With an Eye Toward Beto O'Rourke Voters, Castro Campaign Limps On
-*   Koppel: Free Speech, Oberlin and the Price of Defamation
-*   Trump Honors World Series Champion Nationals at White House
-*   Poll: Biden's Lead Over Dem Field Is Up in NV, Down in MI
+*   Republicans: ABA to Face Senate Action After Suspect VanDyke Rating
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,6 +250,20 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   2020 Democratic Presidential NominationThe Hill/HarrisX
+    *   Biden26
+    *   Warren15
+    *   Sanders14
+    *   Buttigieg6
+    *   Harris6
+    *   Klobuchar3
+    *   Booker2
+    *   Yang1
+    *   Gabbard1
+    *   O'Rourke
+    *   Castro2
+    *   Steyer1
+    *   Bennet1Biden +11
 *   2020 Democratic Presidential NominationMonmouth
     *   Biden23
     *   Warren23
@@ -259,12 +271,12 @@ Latest PollsAll Polls
     *   Buttigieg9
     *   Harris5
     *   Klobuchar2
-    *   Yang3
     *   Booker3
+    *   Yang3
     *   Gabbard0
     *   O'Rourke
-    *   Steyer1
     *   Castro0
+    *   Steyer1
     *   Bennet0Tie
 *   2020 Democratic Presidential NominationEconomist/YouGov
     *   Biden26
@@ -273,12 +285,12 @@ Latest PollsAll Polls
     *   Buttigieg8
     *   Harris6
     *   Klobuchar2
-    *   Yang1
     *   Booker2
+    *   Yang1
     *   Gabbard3
     *   O'Rourke
-    *   Steyer1
     *   Castro3
+    *   Steyer1
     *   Bennet0Biden +1
 *   Iowa Democratic Presidential CaucusQuinnipiac
     *   Warren20
@@ -293,17 +305,14 @@ Latest PollsAll Polls
     *   Booker1
     *   O'Rourke
     *   Bennet1Warren +1
-*   President Trump Job ApprovalPolitico/Morning Consult
-    *   Approve41
-    *   Disapprove55Disapprove +14
 
 More Latest Polls In The News
 
+*   Hillary Clinton: Donald Trump "Could Care Less About Corruption In Ukraine," "He Wanted Dirt On Joe Biden"
+*   Donald Trump Jr. Spars With ABC's "The View" Hosts On Whistleblower's Name, Impeachment, Epstein
+*   Chris Matthews: "MAGA Hats," Trump Supporters Show "Religious Acceptance Of What They Know Isn’t True"
 *   Tulsi Gabbard vs. 'The View' Joy Behar: You Doubled Down On Hillary's Baseless "Russian Asset" Smear Campaign
-*   PA Voters Might Still Support Trump If He Shot Someone On 5th Ave: "You'd Have To Know Why He Shot Him"
-*   Scarborough: Trump Lost KY For Republicans, Gets Old Saying "This Was The Worst Day In Trump Presidency"
-*   Mollie Hemingway: ABC "Quashed" Epstein Story, But Broadcast "Wild" Allegations About Brett Kavanaugh
-*   Project Veritas: ABC's Amy Robach Frustrated On Hot Mic That Network Quashed Jeffrey Epstein Story
+*   Sen. Coons on Bidens Being Witnesses At Senate Trial: "I Hope Not, But I Think That May Very Well Happen"
 
 *   Politics
 *   Policy
@@ -328,4 +337,4 @@ More Latest Polls In The News
 *   RSS
 *   View Mobile Site
 
-Copyright © 2019 RealClearHoldings, LLC. ©2019 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=null&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
+Copyright © 2019 RealClearHoldings, LLC. ©2019 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=null&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>. sponsoredsponsoredsponsored
