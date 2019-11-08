@@ -212,17 +212,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   AttackIQ Platform v2.15
-    *   We interviewed cyber experts on a Vegas ferris wheel. Then ride security showed up...
-    *   Energy company hit with DoS attack last spring identified as sPower
-    *   New GlitchPOS credit card stealer malware found for sale
-    *   Xhelper ad dropper adds to its list of victims
-    
-    *   NCR blocked Mint, Quickbooks after attackers take over, drain accounts
-    *   Emerging Products: Breach and attack simulation technologies
     *   Capesand EK attacking IE, Flash vulnerabilities
-    *   First look: Pulse Secure Software Defined Perimeter
-    *   APT 41 using MessageTap malware to gather SMS traffic
+    *   Freaking lasers can carry voice commands to smart devices
+    *   Sumo Logic acquires Jask
+    *   XM Cyber HaXM 1.0
+    *   California DMV exposed drivers' SSN details to federal gov't officials
+    
+    *   Trend Micro hit with insider attack
+    *   Chinese APT group Calypso hacked state institutions in six countries
+    *   Ransomware attack delays government services in Nunavut, Canada
+    *   Cymulate Breach and Attack Simulation Platform 3.30.16
+    *   Indian gov't confirms cyberattack on nuclear plant
     
     *   Huawei meeting with
     *   Adversary harboring DopplePaymer ransomware targets industrial sector
