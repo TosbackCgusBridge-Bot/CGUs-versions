@@ -399,7 +399,7 @@ About Subaru
 
 *   Our Company
 *   Love Promise
-*   Subaru of America Foundation
+*   Corporate Responsibility
 *   Partnerships
 *   Diversity, Equity, and Inclusion
 *   News
