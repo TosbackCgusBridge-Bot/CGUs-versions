@@ -1,4 +1,3 @@
-*   LAC4-5OAK4-4Thu, 8:20 pm ET
 *   KC6-3TEN4-5Sun, 1:00 pm ET
 *   ARI3-5-1TB2-6Sun, 1:00 pm ET
 *   NYG2-7NYJ1-7Sun, 1:00 pm ET
@@ -11,6 +10,7 @@
 *   CAR5-3GB7-2Sun, 4:25 pm ET
 *   MIN6-3DAL5-3Sun, 8:20 pm ET
 *   SEA7-2SF8-0Mon, 8:15 pm ET
+*   LAC4-624OAK5-426Final
 
 *   News
 *   Scores
@@ -34,7 +34,6 @@
 *   NFL Films
 *   Game Pass
 
-*   LAC4-5OAK4-4Thu, 8:20 pm ET
 *   KC6-3TEN4-5Sun, 1:00 pm ET
 *   ARI3-5-1TB2-6Sun, 1:00 pm ET
 *   NYG2-7NYJ1-7Sun, 1:00 pm ET
@@ -47,6 +46,7 @@
 *   CAR5-3GB7-2Sun, 4:25 pm ET
 *   MIN6-3DAL5-3Sun, 8:20 pm ET
 *   SEA7-2SF8-0Mon, 8:15 pm ET
+*   LAC24OAK26Final
 
 *   News
 *   Scores
