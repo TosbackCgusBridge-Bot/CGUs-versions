@@ -84,8 +84,8 @@ View more results
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Slither.io
     *   Subway Clash 3D: Shooting Game Online Multiplayer
-    *   Combat Strike 2: 3D Shooting Game Online Multiplayer
     *   Pixel Apocalypse
+    *   Combat Strike 2: 3D Shooting Game Online Multiplayer
     *   Short Life
     *   AZ Tank Game
     *   Miami Crime Simulator 3D
@@ -115,8 +115,8 @@ View more results
     *   Boeing Flight Simulator
     *   Short Life
     *   Miami Crime Simulator 3D
-    *   Fireboy and Watergirl 5: Elements
     *   Chrome Dino
+    *   Fireboy and Watergirl 5: Elements
     *   Five Nights at Freddy's 5
     *   Slope: Neon Ball Rolling Game
     *   Mine Clone 4
@@ -174,10 +174,8 @@ View more results
     
     Best Games
     *   Ellie: Get Ready With Me
-    *   Super Speed Racer
     *   Ella: Hips Surgery
     *   Pizza Real Life Cooking
-    *   Slope: Neon Ball Rolling Game
     *   Love Tester 2.0
     *   Extreme Dental Emergency
     *   Back To School: Princesses Rush
@@ -185,6 +183,8 @@ View more results
     *   Secret Office Kissing
     *   Love Tester Deluxe 2
     *   The Princess: Sent to the Future - Dress Up Game
+    *   Eliza's Neon Hairstyle
+    *   Love Tester 3
 *   Top Categories
     
     *   BMX Games
@@ -215,8 +215,8 @@ View more results
     *   Murder
     *   Uphill Rush 7: Waterpark
     *   Thug Racer
-    *   Extreme Off Road Cars: 3D Racing Game
     *   Russian Car Driver
+    *   Extreme Off Road Cars: 3D Racing Game
 *   Top Categories
     
     *   Athletics
@@ -454,3 +454,5 @@ Languages
 *   Nederlands
 
 Copyright © 2019 SPIL GAMES All rights reserved.
+
+Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. (e.g IP Address) To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them. Your data may be stored by us and our service providers. In case the applicable data protection laws provide so, you may access, rectify, and erase the data or you may restrict or object to our processing of your data. Please contact us in such event. Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click "ACCEPT" to agree with the above mentioned. You can change your mind and change your consent choices at any time by returning to this site.AcceptSettingsVendor List | Privacy policy | FeaturesA reminder you can control your user privacy preferenceshere
