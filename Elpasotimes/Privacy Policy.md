@@ -60,7 +60,7 @@ SUBSCRIBE NOW$5 for 3 months. Save 83%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowMan shot in Border Patrol confrontation diesNewsTexas election results from El Paso CountyPoliticsTrump asks U.S. judge to reject wall injunctionNewsEPPD: West Side armed robbery was false reportCrimeBystanders stop shooter outside gun shopCrimeDriver arrested in fatal Loop 375 wrong-way crashCrimeICE impostor accused of arresting drunk in Cinci DistrictCrimePolice: Man forces way into home, fatally stabbedCrimeJersey Mike's to open in El Paso on WednesdayNewsHernandez faces Veliz in District 3 council runoffNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending Now10 killed in night of 'revenge' in JuárezLocalMan shot by police in East El Paso ID'dNewsEP police shoot man who allegedly points weaponCrimeJuárez gang members paid in meth to torch busesLocalBeto urges supporters to 'get behind the nominee'PoliticsEl Paso inmate executed for woman's 2002 murderCrimePolice: Man, 71, kills girlfriend's ex-boyfriendCrimeEl Paso version of Monopoly in Walmart storesEntertainmentEstela Casas to leave KVIA for UMC FoundationNewsEP High School Football: Week 11 Live UpdatesHigh-schoolHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
