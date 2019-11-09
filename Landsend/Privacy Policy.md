@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off all coats &. jackets, plus 40% off all other styles!
+Receive 50% off your order!
 
-code: CHILLY pin: PROMOTION DETAILS
+code: PLENTY pin: PROMOTION DETAILS
 
 Customer Service Menu
 
