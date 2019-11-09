@@ -653,7 +653,8 @@ Lenovo Explore Close
     *   Sign In To LenovoPro
     *   Learn more
 *   Contact
-    *   HELP PLACING AN ORDER 855-253-6686
+    *   HELP PLACING AN ORDER 866-426-0911  
+        Hours: Mon-Fri 8AM-7PM ET
     *   EXISTING ORDER HELP 855-253-6686 option #1
     *   Hours
     *   24/7 CHAT NOW >.
