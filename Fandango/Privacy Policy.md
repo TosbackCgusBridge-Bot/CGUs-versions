@@ -77,8 +77,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie News: Director Peyton Reed Returns for ‘Ant-Man 3,’ ‘Spider-Verse’ Sequel Set for 2022 and More Read More
-    *   The Week in Movie Trailers: ‘The Grudge’ Reboot, ‘Knives Out,’ ‘Jumanji: The Next Level’ and More Read More
+    *   The Week in Movie News: Colin Farrell is The Penguin for ‘The Batman,’ ‘Fantastic Beasts’ Goes to Brazil and More Read More
+    *   The Week in Movie Trailers: ‘The Invisible Man,’ Pixar’s ‘Soul,’ ‘Bad Boys for Life’ and More Read More
     *   Next 3 Action-Packed Sci-Fi Futures: 'Star Wars: The Rise of Skywalker,' 'Bloodshot,' 'The Invisible Man' Read More
     
     Explore Content
