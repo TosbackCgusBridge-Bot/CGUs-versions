@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -116,53 +118,53 @@
     *   About
     *   Media Kit
 
-*   _Peter Nicholas_: Donald Trump Is All Alone
+*   _Sharyl Attkisson_: The Troubling Timeline for Taking Down Trump
     
-*   _Gregg Re_: Whistleblower's Attorney in January 2017: 'Coup Has Started'
+*   _Tim Alberta_: Who Will Betray Trump?
     
-*   _Jon Meacham_: Impeachment Inquiry Is About Who We Are as Americans
+*   _Carlson &. Patel_: Why 69% of Americans Have Lost Trust in News Media
     
-*   _Erielle Davidson_: Did the Biden Family Think America Was for Sale?
+*   _Peter Beinart_: Elizabeth Warren Couldn't Be Luckier
     
-*   _Jane Coaston_: The NRA's Big Loss in Virginia, Explained
+*   _Joseph DiStefano_: Biden Friends Came Out on Top at Middle Class's Expense
     
-*   _John Hinderaker_: How Trump's Court Appointments Alter Balance of Power
+*   _Ellis Domenech_: Endless Wars Keep U.S. From Fixing the Border Crisis
     
-*   _Reed Galen_: Sanders vs. Warren Is the Battle to Watch
+*   _Nick Martin_: The Tragic Irony of 'America First' Climate Denial
     
-*   _Chris Smith_: The Weird Persistence (and Stunning Weakness) of Biden
+*   _Christianne Boudreau_: Help for Parents When Violent Extremism Beckons Young
     
-*   _Caroline Glick_: Al-Baghdadi and Trump's Syrian Chessboard
+*   _Joe diGenova_: Democrats' Deep-State Denial Morphs Into Deep-State Salute
     
-*   _Frank Bruni_: Why Donald Trump Hates Your Dog
+*   _Susan Glasser_: Trump's Winning on Impeachment by Keeping It Partisan
     
-*   _Susan Crabtree_: DNC Dumps UCLA as Debate Site, a Self-Inflicted Calif. Wound
+*   _David Bossie_: After Whistleblower Lawyer Revelation, Witch Hunt Must End
     
-*   _Freddy Gray_: The Mesmerizing Mediocrity of Dems' 2020 Candidates
+*   _Levin &. Greenberg_: The Resistance Won't End When Trump Is Out of Office
     
-*   _E.J. Dionne_: Trump Is In Trouble. Tuesday's Elections Are Proof.
+*   _Ned Ryun_: Our Elites Don't See What's Coming
     
-*   _Philip Wegmann_: 2019 as Precursor to 2020? Results Say Yes, No and Maybe
+*   _Wierson &. Honan_: Michael Bloomberg Is the Antidote to President Trump
     
-*   _John Kass_: Epstein, Kavanaugh and ABC's Tale of Double Standards
+*   _Philip Klein_: A Bloomberg Presidential Run Would Be a Gift to Warren
     
-*   _Peter Beinart_: The Utter Emptiness of Trump's Populism
+*   _Eric Levitz_: Leftism Isn't So Appealing to Nonvoters. But Bernie Sanders Is.
     
-*   _Mollie Hemingway_: Trump Derangement Is Destroying Political Analysis
+*   _Charlie Hurt_: Dem Election Wins No Indicator for National Party
     
-*   _David Ignatius_: How Pompeo Has Badly Tarnished His Reputation
+*   _Alex Shephard_: The Real Media Bias Is in Favor of the Powerful
     
-*   _Hugo Gurdon_: How Much Were Vindman and Ciaramella Colluding?
+*   _Kalev Leetaru_: Epstein, Weinstein, Kavanaugh Coverage: What the Facts Are
     
-*   _Nate Silver_: National and State Dem Polls Show Pretty Much the Same Thing
+*   _Daniel Flynn_: Weren't We Told Democracy Dies in Darkness?
     
-*   _Ben Schreckinger_: Biden and Family: 'A Little Help From the Vice President'
+*   _Thomas Wright_: The Yes Men Have Taken Over Trump Administration
     
-*   _Brian Blase_: Why Warren's Plan Will Lead to Worse Health Care
+*   _Myron Magnet_: The Trump Administration's First-String Team
     
-*   _P.R. Lockhart_: In Dem Primary, There Is No Single 'Black Vote.' There Are Many.
+*   _Karl Smith_: Trump's Economy Is Historically Good for Minorities
     
-*   _Miranda Devine_: Candace Owens' Blexit Movement Is Dems' Nightmare
+*   _Raoul Contreras_: Florida's Hispanics Could End Trump's Presidency
     
 
 *   Previous
@@ -235,7 +237,7 @@ RecommendedPolitics
 
 *   DNC Dumps UCLA as Debate Site--a Self-Inflicted Calif. Wound
 *   2019 as Precursor to 2020? Results Say Yes, No and Maybe
-*   Trump Reads Tweets by Whistleblower's Attorney: "Coup Has Started"
+*   Sessions: Republicans Haven't Pushed Hard Enough to Advance Trump Agenda
 *   With an Eye Toward Beto O'Rourke Voters, Castro Campaign Limps On
 *   Republicans: ABA to Face Senate Action After Suspect VanDyke Rating
 *   Presidential Job Approval
@@ -250,69 +252,59 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationThe Hill/HarrisX
-    *   Biden26
+*   North Carolina Democratic Presidential PrimaryNY Times/Siena
+    *   Biden29
     *   Warren15
-    *   Sanders14
-    *   Buttigieg6
-    *   Harris6
-    *   Klobuchar3
-    *   Booker2
+    *   Sanders13
+    *   Buttigieg1
+    *   Harris1
+    *   Yang0
+    *   O'Rourke2
+    *   Klobuchar0
+    *   Booker1
+    *   Castro
+    *   Gabbard1Biden +14
+*   Michigan Democratic Presidential PrimaryNY Times/Siena
+    *   Biden30
+    *   Sanders17
+    *   Warren21
+    *   Buttigieg3
+    *   Harris0
+    *   Booker0
     *   Yang1
     *   Gabbard1
-    *   O'Rourke
-    *   Castro2
-    *   Steyer1
-    *   Bennet1Biden +11
-*   2020 Democratic Presidential NominationMonmouth
-    *   Biden23
-    *   Warren23
-    *   Sanders20
-    *   Buttigieg9
-    *   Harris5
-    *   Klobuchar2
-    *   Booker3
-    *   Yang3
-    *   Gabbard0
-    *   O'Rourke
-    *   Castro0
-    *   Steyer1
-    *   Bennet0Tie
-*   2020 Democratic Presidential NominationEconomist/YouGov
-    *   Biden26
-    *   Warren25
-    *   Sanders14
-    *   Buttigieg8
-    *   Harris6
-    *   Klobuchar2
-    *   Booker2
+    *   Klobuchar1Biden +9
+*   Arizona Democratic PrimaryNY Times/Siena
+    *   Biden24
+    *   Sanders16
+    *   Warren15
+    *   Buttigieg5
+    *   Harris3
     *   Yang1
-    *   Gabbard3
-    *   O'Rourke
-    *   Castro3
-    *   Steyer1
-    *   Bennet0Biden +1
-*   Iowa Democratic Presidential CaucusQuinnipiac
-    *   Warren20
-    *   Buttigieg19
-    *   Sanders17
-    *   Biden15
-    *   Klobuchar5
-    *   Harris4
-    *   Steyer3
-    *   Gabbard3
-    *   Yang3
-    *   Booker1
-    *   O'Rourke
-    *   Bennet1Warren +1
+    *   Klobuchar1
+    *   Gabbard0
+    *   O'Rourke0
+    *   SestakBiden +8
+*   Florida Democratic Presidential PrimaryNY Times/Siena
+    *   Biden27
+    *   Warren19
+    *   Sanders13
+    *   Buttigieg5
+    *   Harris1
+    *   Messam
+    *   Klobuchar2
+    *   O'Rourke0
+    *   Gabbard1
+    *   Yang0
+    *   Booker0Biden +8
 
 More Latest Polls In The News
 
+*   Megyn Kelly Interviews Former ABC Producer Fired For Leaking Clip Of Host Complaining About Epstein
+*   Sessions Announces Run For Senate: Republicans Haven't Pushed Hard Enough To Advance Trump Agenda
 *   Hillary Clinton: Donald Trump "Could Care Less About Corruption In Ukraine," "He Wanted Dirt On Joe Biden"
 *   Donald Trump Jr. Spars With ABC's "The View" Hosts On Whistleblower's Name, Impeachment, Epstein
-*   Chris Matthews: "MAGA Hats," Trump Supporters Show "Religious Acceptance Of What They Know Isn’t True"
 *   Tulsi Gabbard vs. 'The View' Joy Behar: You Doubled Down On Hillary's Baseless "Russian Asset" Smear Campaign
-*   Sen. Coons on Bidens Being Witnesses At Senate Trial: "I Hope Not, But I Think That May Very Well Happen"
 
 *   Politics
 *   Policy
@@ -337,4 +329,4 @@ More Latest Polls In The News
 *   RSS
 *   View Mobile Site
 
-Copyright © 2019 RealClearHoldings, LLC. ©2019 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=null&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>. sponsoredsponsoredsponsored
+Copyright © 2019 RealClearHoldings, LLC. ©2019 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=null&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
