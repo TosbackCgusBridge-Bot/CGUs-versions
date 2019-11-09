@@ -40,7 +40,7 @@ TABLE OF CONTENTS
     
     When you participate in social features (such as chat), the information that you disclose may become publically available. It also may be read, copied, collected or used by other users. Please make sure your privacy settings reflect your preferences.  
       
-    When you participate in online multiplayer games, your in-game profile information, gameplay, and statistics are visible to all. In competitive game modes, such as FUT Champions, we may record your gameplay, and your controller button inputs, and replay these together with your in-game profile information and game statistics to other players in-game and at live EA/partner events.  
+    When you participate in online multiplayer games, your in-game profile information, gameplay, and statistics are visible to all. In some of our racing titles, when you play certain multiplayer modes we may record your gameplay and replay it to other players to race against. In competitive game modes, such as FUT Champions, we may record your gameplay, and your controller button inputs, and replay these together with your in-game profile information and game statistics to other players in-game and at live EA/partner events.  
       
     
 2.  Other Information We Collect When You Use Our Products  
@@ -128,7 +128,7 @@ TABLE OF CONTENTS
     
 4.  Anti-Cheat and Fraud Prevention Technologies  
       
-    EA strives to provide a safe and fair gaming environment for all players. When you log in to one of our products, set up an EA Account or make purchases, we or third parties may use cookies and similar technologies, or collect data about your machine or device, to create a machine "fingerprint" or "hash" of your machine components, for fraud prevention, security and authentication purposes. We also may use anti-cheat technology with our products, including automated anti-fraud and abuse algorithms. If you believe your access to our products and/or services was blocked by this technology in error, please contact EA Help at help.ea.com.  
+    EA strives to provide a safe and fair gaming environment for all players. When you log in to one of our products, set up an EA Account or make purchases, we or third parties may use cookies and similar technologies, or collect data about your machine or device, to create a machine "fingerprint" or "hash" of your machine components, for fraud prevention, security and authentication purposes. We may also monitor publicly-available information, third party sites and/or use anti-cheat technology with our products, including automated anti-fraud and abuse algorithms. If you believe your access to our products and/or services was blocked by this technology in error, please contact EA Help at help.ea.com.  
     
 
 3\. How We Use Your Information We use your personal and non-personal information, both individually and combined together, in the following ways:  
