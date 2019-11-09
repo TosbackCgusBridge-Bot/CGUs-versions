@@ -40,20 +40,20 @@ Stock Quote and Chart
 
 Price
 
-$2.54
+$2.56
 
 Change
 
-+0.01
++0.02
 
 Percent Change
 
-(0.00%)
+(+0.79%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Nov 06, 2019 Office Depot Announces Third Quarter 2019 Results view more Recent News Nov 06, 2019 Office Depot Announces Third Quarter 2019 Results view more Events Nov 6, 2019 at 9:00 AM EST Q3 2019 Office Depot Inc Earnings Conference Call view more Events Nov 6, 2019 at 9:00 AM EST Q3 2019 Office Depot Inc Earnings Conference Call view more Presentations Nov 06, 2019 Office Depot Third Quarter 2019 Earnings Webcast Presentation view more Presentations Nov 06, 2019 Office Depot Third Quarter 2019 Earnings Webcast Presentation view more
+Recent News Nov 06, 2019 Office Depot Increases and Extends Existing Stock Repurchase Program and Declares Quarterly Cash Dividend of $0.025 Per Share view more Recent News Nov 06, 2019 Office Depot Increases and Extends Existing Stock Repurchase Program and Declares Quarterly Cash Dividend of $0.025 Per Share view more Events Nov 6, 2019 at 9:00 AM EST Q3 2019 Office Depot Inc Earnings Conference Call view more Events Nov 6, 2019 at 9:00 AM EST Q3 2019 Office Depot Inc Earnings Conference Call view more Presentations Nov 06, 2019 Office Depot Third Quarter 2019 Earnings Webcast Presentation view more Presentations Nov 06, 2019 Office Depot Third Quarter 2019 Earnings Webcast Presentation view more
 
 *   Home
 *   News &. Events
