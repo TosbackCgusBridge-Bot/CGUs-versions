@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Capesand EK attacking IE, Flash vulnerabilities
-    *   Freaking lasers can carry voice commands to smart devices
-    *   Sumo Logic acquires Jask
-    *   XM Cyber HaXM 1.0
-    *   California DMV exposed drivers' SSN details to federal gov't officials
+    *   MegaCortex ransomware variant threatens data breach, alters credentials
+    *   SafeBreach Platform 2019Q3.7
+    *   Roger Stone lied to House Intel Committee, beseeched WikiLeaks for dirt on Clinton, prosecutor says
+    *   AttackIQ Platform v2.15
+    *   Maine’s InterMed suffers data breach, 30,000 affected
     
-    *   Trend Micro hit with insider attack
+    *   Aventura Technologies sold Chinese-made security gear with bugs to gov't, feds say
+    *   Feds warn against Hidden Cobra’s Hoplight malware
     *   Chinese APT group Calypso hacked state institutions in six countries
-    *   Ransomware attack delays government services in Nunavut, Canada
-    *   Cymulate Breach and Attack Simulation Platform 3.30.16
-    *   Indian gov't confirms cyberattack on nuclear plant
+    *   Capesand EK attacking IE, Flash vulnerabilities
+    *   Application isolation and virtualization provide a false sense of cybersecurity – It’s time for a better solution
     
-    *   Huawei meeting with
-    *   Adversary harboring DopplePaymer ransomware targets industrial sector
-    *   Patched bug allows beaming of malicious apps to NFC-enabled Android devices
-    *   Facebook app developers told to delete group member info
-    *   Bringing down the first cyber spy Robert Hanssen, Eric O’Neill tells his story
+    *   Report: Recently breached Capital One reassigns its CISO
+    *   Bugcrowd breaks its weekly bounty payout record
+    *   Imaginative attack scenarios elicit intrigue at NYU’s CSAW cyber event
+    *   MegaCortex ransomware variant threatens data breach, alters credentials
+    *   Buran ransomware detailed, found to be based on VegaLocker
 
 Back to Top
 
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
