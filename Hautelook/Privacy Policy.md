@@ -9,7 +9,37 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
+    *   Urban Decay, Shiseido Ginza Tokyo &. More from $10
+    *   Welcome to the Jungle: Leopard Print Styles
+    *   Welcome to the Jungle: Snakeskin Print Styles
+    *   Welcome to the Jungle: Tiger &. Zebra Print Styles
+    *   French Connection Up to 60% Off
+    *   Linda Farrow Sun &. More Up to 85% Off
+    *   Clarks Up to 50% Off
+    *   Cashmere Shop ft. Kier &. J
+    *   Kensie Coats &. More
+    *   Brooks Brothers
+    *   Joules Up to 50% Off
+    *   Men's Premium Denim Shop ft. 7 For All Mankind
+    *   Bruno Magli Men
+    *   Stateside &. More
+    *   Turn Up the Volume: Wide-Leg Styles
+    *   Tall &. Over-the-Knee Boots Up to 55% Off
+    *   Made in Spain: UNOde50 Jewelry
+    *   Fuzzy Finds: Kids' Slippers &. Boots from $15
+    *   Get Prepped: Kitchen Cutlery Up to 75% Off
+    *   Pumps &. More ft. Imagine Vince Camuto Up to 50% Off
+    *   Illuminate Your Space: Lamps, Mirrors &. More
+    *   Lacoste Men's Shoes
+    *   Kids' Premium Denim Shop Up to 60% Off
+    *   Ode Natural Soaps, Scrubs &. More
+    *   Korean Beauty: Huangjisoo Skin Care &. More
+    *   Semi-Precious Gemstones &. More Up to 65% Off
+    *   Framed Art Starting at $25
+    *   Sanctuary Incl. Plus &. Petites
+    *   Via Spiga Coats
     *   SPANX Incl. Plus
+    
     *   Max Studio Up to 65% Off Incl. Plus
     *   Kate Spade New York Coats
     *   ALEX AND ANI Starting at $15
@@ -18,149 +48,109 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Ben Sherman Up to 65% Off
     *   GEOX Kids
     *   Fall Lineup: Corduroy Bottoms, Dresses &. More
-    *   Fanny Packs &. Belt Bags ft. Aimee Kestenberg
     *   Diamonds &. More Up to 60% Off ft. Carriere
-    *   Splendid Up to 75% Off
-    *   Wardrobe Refresh: re:named apparel
-    *   PJ Salvage
     *   Marc Fisher Under $100
-    *   Picture Perfect: Fujifilm Cameras &. More
     *   Best in Show: Pet Accessories Up to 50% Off
     *   Dynamic Innovation Labs Skin Care
     *   Supply Lab
     *   Roan Up to 60% Off
+    *   Picture Perfect: Fujifilm Cameras &. More
     *   Kate Spade New York Girls &. More
-    *   Kids' Christmas PJs &. More
-    *   Trending Now: Kids' Coats Under $30
-    *   Sanctuary Incl. Plus &. Petites
-    *   Via Spiga Coats
-    *   Sofia Cashmere
+    *   Splendid Up to 75% Off
+    *   PJ Salvage
     *   TOMS
-    *   philosophy Starting at $15
     *   TOMS Men
     *   TOMS Sun
-    *   Beauty Faves: Skin Care Tools
-    *   Structure &. Shape: On-Trend Bags ft. TMRW Studio
-    
-    *   Luxe It Up: Silk &. Satin Styles
-    *   Night Out: Dresses
-    *   Nine West Up to 55% Off
-    *   UGG
-    *   UGG Men
-    *   UGG Kids
+    *   philosophy Starting at $15
     *   TOMS Kids
-    *   UGG Sleep &. Lounge
     *   Free Shipping: Storage for Every Room
     *   Make It Merry: Faux Plants &. Planters
     *   Nadri 18K Gold Starting at $25
     *   Olivia Welles Jewelry Up to 75% Off
     *   Men's Sweaters Under $40
     *   Dress Shirts Under $30
-    *   Holiday Travel Accessories
     *   Men's Fragrances We Love ft. Calvin Klein
+    
     *   Free Shipping: Dreamy Bedding from $20
     *   Free Shipping: Holiday Accents &. Decor
-    *   Free Shipping: Christmas Decor &. More Up to 40% Off
-    *   UGG Accessories
-    *   UGG Men's Clothing &. Accessories
-    *   Dyson
-    *   Lucky Brand Men Up to 60% Off
+    *   Fanny Packs &. Belt Bags ft. Aimee Kestenberg
+    *   Kids' Christmas PJs &. More
     *   UGG Home
-    *   UGG Coats
     *   Jurlique Natural Skin Care Up to 45% Off
-    *   Ettika Jewelry
-    *   Bruno Magli Watches Up to 60% Off
     *   Best Sellers: Dinnerware Up to 50% Off
-    *   Creative Gifts: Crayola &. More
-    *   The Holiday Edit: Dresses Incl. Plus &. Petites
-    *   The Holiday Edit: Separates Incl. Plus &. Petites
-    
-    *   The Holiday Edit: Sweaters Incl. Plus &. Petites
-    *   The Holiday Edit: Coats &. More Incl. Plus &. Petites
-    *   The Holiday Edit: Men's Suiting &. More
-    *   The Holiday Edit: Men's Wool Coats
     *   RapidLash
-    *   Free Shipping: Quilts, Comforters &. More
-    *   French Connection Men's Shoes
-    *   Storage Must-Haves from $15
-    *   Reebok Men
-    *   Reebok Men's Active
-    *   Makeup Best Sellers Under $20
+    *   Brands We Love ft. Frank &. Eileen
+    *   Holiday Travel Accessories
+    *   Trending Now: Kids' Coats Under $30
+    *   Beauty Faves: Skin Care Tools
     *   Free Shipping: BergHOFF Up to 55% Off
     *   Free Shipping: Bath Towels &. More Up to 70% Off
-    *   The Holiday Edit: Men's Sweaters
-    *   The Holiday Edit: Men's Button-Down Shirts
-    *   The Holiday Edit: Girls' Party Looks
-    *   The Holiday Edit: Boys' Party Looks
     *   Lacoste
     *   Free Shipping: Holiday Trees for Every Home
-    *   HAIRtamin Supplements
     *   Christmas Decor from $20
-    *   Floris London Fragrances
     *   Find the Perfect Piece: The Art Shop
     *   Free Shipping: Bedding Essentials Up to 40% Off
-    *   Free Shipping: Finishing Touches for Your Home
-    *   The Holiday Edit: Boots &. Booties
-    *   The Holiday Edit: Heels, Mules &. Flats
-    *   Brands We Love ft. Frank &. Eileen
-    *   Cozy Finds: Fleece &. Thermal Styles
-    *   It Knits: Sweaters Under $25 Incl. Plus &. Petites
-    *   Free Shipping: Comfy Blankets &. More Up to 55% Off
-    *   Best of Lips from $10 ft. Stila &. More
+    *   Gear Up for Winter: Men's Scarves, Gloves &. More
+    *   Wardrobe Refresh: re:named apparel
+    *   Luxe It Up: Silk &. Satin Styles
+    *   Night Out: Dresses
+    *   Free Shipping: Christmas Decor &. More Up to 40% Off
+    *   Dyson
+    *   Free Shipping: Quilts, Comforters &. More
+    *   Storage Must-Haves from $15
+    *   Makeup Best Sellers Under $20
 *   WomenShop Sale Events
     
+    *   Urban Decay, Shiseido Ginza Tokyo &. More from $10
+    *   Welcome to the Jungle: Leopard Print Styles
+    *   Welcome to the Jungle: Snakeskin Print Styles
+    *   Welcome to the Jungle: Tiger &. Zebra Print Styles
+    *   French Connection Up to 60% Off
+    *   Linda Farrow Sun &. More Up to 85% Off
+    *   Clarks Up to 50% Off
+    *   Cashmere Shop ft. Kier &. J
+    *   Kensie Coats &. More
+    *   Joules Up to 50% Off
+    *   Stateside &. More
+    *   Turn Up the Volume: Wide-Leg Styles
+    *   Tall &. Over-the-Knee Boots Up to 55% Off
+    *   Made in Spain: UNOde50 Jewelry
+    *   Pumps &. More ft. Imagine Vince Camuto Up to 50% Off
+    *   Ode Natural Soaps, Scrubs &. More
+    *   Korean Beauty: Huangjisoo Skin Care &. More
+    *   Semi-Precious Gemstones &. More Up to 65% Off
+    *   Sanctuary Incl. Plus &. Petites
+    *   Via Spiga Coats
     *   SPANX Incl. Plus
     *   Max Studio Up to 65% Off Incl. Plus
     *   Kate Spade New York Coats
     *   ALEX AND ANI Starting at $15
     *   n:Philanthropy Up to 65% Off
+    
     *   Naturalizer &. SOUL Naturalizer Up to 50% Off
     *   Fall Lineup: Corduroy Bottoms, Dresses &. More
-    *   Fanny Packs &. Belt Bags ft. Aimee Kestenberg
     *   Diamonds &. More Up to 60% Off ft. Carriere
-    *   Splendid Up to 75% Off
-    *   Wardrobe Refresh: re:named apparel
-    *   PJ Salvage
     *   Marc Fisher Under $100
     *   Dynamic Innovation Labs Skin Care
-    *   Sanctuary Incl. Plus &. Petites
-    *   Via Spiga Coats
-    *   Sofia Cashmere
+    *   Splendid Up to 75% Off
+    *   PJ Salvage
     *   TOMS
-    *   philosophy Starting at $15
     *   TOMS Sun
-    *   Beauty Faves: Skin Care Tools
-    *   Structure &. Shape: On-Trend Bags ft. TMRW Studio
-    *   Luxe It Up: Silk &. Satin Styles
-    *   Night Out: Dresses
-    *   Nine West Up to 55% Off
-    *   UGG
-    
-    *   UGG Sleep &. Lounge
+    *   philosophy Starting at $15
     *   Nadri 18K Gold Starting at $25
     *   Olivia Welles Jewelry Up to 75% Off
-    *   Holiday Travel Accessories
     *   Men's Fragrances We Love ft. Calvin Klein
-    *   UGG Accessories
-    *   Dyson
-    *   UGG Coats
+    *   Fanny Packs &. Belt Bags ft. Aimee Kestenberg
     *   Jurlique Natural Skin Care Up to 45% Off
-    *   Ettika Jewelry
-    *   Bruno Magli Watches Up to 60% Off
-    *   The Holiday Edit: Dresses Incl. Plus &. Petites
-    *   The Holiday Edit: Separates Incl. Plus &. Petites
-    *   The Holiday Edit: Sweaters Incl. Plus &. Petites
-    *   The Holiday Edit: Coats &. More Incl. Plus &. Petites
     *   RapidLash
-    *   Makeup Best Sellers Under $20
-    *   HAIRtamin Supplements
-    *   Floris London Fragrances
-    *   The Holiday Edit: Boots &. Booties
-    *   The Holiday Edit: Heels, Mules &. Flats
     *   Brands We Love ft. Frank &. Eileen
-    *   Cozy Finds: Fleece &. Thermal Styles
-    *   It Knits: Sweaters Under $25 Incl. Plus &. Petites
-    *   Best of Lips from $10 ft. Stila &. More
+    *   Holiday Travel Accessories
+    *   Beauty Faves: Skin Care Tools
+    *   Wardrobe Refresh: re:named apparel
+    *   Luxe It Up: Silk &. Satin Styles
+    *   Night Out: Dresses
+    *   Dyson
+    *   Makeup Best Sellers Under $20
     
     Shop By Category
     *   Clothing
@@ -169,73 +159,62 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Accessories
     *   Lingerie &. Shapewear
     *   Handbags
-    *   Watches
 *   MenShop Sale Events
     
+    *   Brooks Brothers
+    *   Men's Premium Denim Shop ft. 7 For All Mankind
+    *   Bruno Magli Men
+    *   Lacoste Men's Shoes
     *   Ben Sherman Up to 65% Off
     *   Supply Lab
     *   Roan Up to 60% Off
+    
     *   TOMS Men
     *   TOMS Sun
-    *   UGG Men
     *   Men's Sweaters Under $40
     *   Dress Shirts Under $30
-    *   Holiday Travel Accessories
     *   Men's Fragrances We Love ft. Calvin Klein
-    
-    *   UGG Men's Clothing &. Accessories
-    *   Lucky Brand Men Up to 60% Off
-    *   Bruno Magli Watches Up to 60% Off
-    *   The Holiday Edit: Men's Suiting &. More
-    *   The Holiday Edit: Men's Wool Coats
-    *   French Connection Men's Shoes
-    *   Reebok Men
-    *   Reebok Men's Active
-    *   The Holiday Edit: Men's Sweaters
-    *   The Holiday Edit: Men's Button-Down Shirts
+    *   Holiday Travel Accessories
+    *   Gear Up for Winter: Men's Scarves, Gloves &. More
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
+    *   Fuzzy Finds: Kids' Slippers &. Boots from $15
+    *   Kids' Premium Denim Shop Up to 60% Off
     *   GEOX Kids
     *   Kate Spade New York Girls &. More
+    *   TOMS Kids
     *   Kids' Christmas PJs &. More
     *   Trending Now: Kids' Coats Under $30
-    *   UGG Kids
-    *   TOMS Kids
-    *   Creative Gifts: Crayola &. More
-    *   The Holiday Edit: Girls' Party Looks
-    *   The Holiday Edit: Boys' Party Looks
     
     Shop By Category
-    *   Girls' Sizes 2T-6X
-    *   Girls' Shoes
     *   Girls' Sizes 7-16
-    *   Boys' Shoes
-    *   Toy Shop
+    *   Girls' Shoes
+    *   Girls' Sizes 2T-6X
     *   Baby Girl
+    *   Boys' Shoes
     *   Boys' Sizes 2T-7
     *   Boys' Sizes 8-20
+    *   Toy Shop
     *   Baby Boy
-    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
-    *   Picture Perfect: Fujifilm Cameras &. More
+    *   Get Prepped: Kitchen Cutlery Up to 75% Off
+    *   Illuminate Your Space: Lamps, Mirrors &. More
+    *   Framed Art Starting at $25
     *   Best in Show: Pet Accessories Up to 50% Off
+    *   Picture Perfect: Fujifilm Cameras &. More
     *   Free Shipping: Storage for Every Room
     *   Make It Merry: Faux Plants &. Planters
     *   Free Shipping: Dreamy Bedding from $20
     *   Free Shipping: Holiday Accents &. Decor
-    *   Free Shipping: Christmas Decor &. More Up to 40% Off
     *   UGG Home
     *   Best Sellers: Dinnerware Up to 50% Off
-    *   Free Shipping: Quilts, Comforters &. More
     
-    *   Storage Must-Haves from $15
     *   Free Shipping: BergHOFF Up to 55% Off
     *   Free Shipping: Bath Towels &. More Up to 70% Off
     *   Lacoste
@@ -243,16 +222,17 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Christmas Decor from $20
     *   Find the Perfect Piece: The Art Shop
     *   Free Shipping: Bedding Essentials Up to 40% Off
-    *   Free Shipping: Finishing Touches for Your Home
-    *   Free Shipping: Comfy Blankets &. More Up to 55% Off
+    *   Free Shipping: Christmas Decor &. More Up to 40% Off
+    *   Free Shipping: Quilts, Comforters &. More
+    *   Storage Must-Haves from $15
     
     Shop By Category
     *   Bedding
-    *   Home Decor
     *   Holiday Decorations
     *   Luggage &. Travel
-    *   Pet Accessories
     *   Kitchen &. Tabletop
+    *   Pet Accessories
+    *   Home Decor
     *   Cleaning &. Organization
     *   Bath
     *   Electronic &. Tech Accessories
@@ -260,24 +240,24 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Urban Decay, Shiseido Ginza Tokyo &. More from $10
+    *   Ode Natural Soaps, Scrubs &. More
+    *   Korean Beauty: Huangjisoo Skin Care &. More
     *   Dynamic Innovation Labs Skin Care
     *   philosophy Starting at $15
-    *   Beauty Faves: Skin Care Tools
     *   Men's Fragrances We Love ft. Calvin Klein
-    *   Dyson
-    *   Jurlique Natural Skin Care Up to 45% Off
     
+    *   Jurlique Natural Skin Care Up to 45% Off
     *   RapidLash
+    *   Beauty Faves: Skin Care Tools
+    *   Dyson
     *   Makeup Best Sellers Under $20
-    *   HAIRtamin Supplements
-    *   Floris London Fragrances
-    *   Best of Lips from $10 ft. Stila &. More
     
     Shop By Category
-    *   Makeup
     *   Skin Care
-    *   Fragrance
+    *   Makeup
     *   Bath &. Body
+    *   Fragrance
     *   Hair Care
     *   Tools &. Accessories
 
