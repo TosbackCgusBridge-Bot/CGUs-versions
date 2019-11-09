@@ -1,8 +1,4 @@
-1/1
-
-*   Fires Impacting Service in Areas of California...More
-
-Close Skip To Main Content
+Skip To Main Content
 
 *   Log In
 *   Sign Up
