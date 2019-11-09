@@ -12,7 +12,7 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1094 games
+*   Best of new games 1103 games
 *   Most Popular Games 20050 games
 *   Played Games 0 games
 *   Liked Games 0 games
@@ -20,23 +20,23 @@ Categories &. more LIBRARY
 
 CATEGORIES
 
-*   Games for girls 24,415 games
-*   Driving &. Racing Games 6,927 games
-*   Strategy &. RPG Games 3,160 games
+*   Games for girls 24,414 games
+*   Driving &. Racing Games 6,926 games
+*   Strategy &. RPG Games 3,158 games
 *   Management Games 3,665 games
-*   Thinking Games 12,401 games
+*   Thinking Games 12,398 games
 *   Action &. Adventure Games 16,599 games
-*   Sports Games 2,323 games
-*   Shooting Games 8,606 games
+*   Sports Games 2,327 games
+*   Shooting Games 8,607 games
 *   Fighting Games 2,111 games
-*   Skill Games 11,783 games
-*   Arcade &. Classic Games 13,702 games
-*   Fun &. Crazy Games 2,598 games
+*   Skill Games 11,786 games
+*   Arcade &. Classic Games 13,700 games
+*   Fun &. Crazy Games 2,599 games
 
 Play with friends  
-Powered by Y8 Account 130 Y8 Multiplayer Games 2,125 Y8 High Score Games 1,190 Y8 Achievements Games 838 Y8 Screenshots Games 1,524 Y8 Online Save Games 3,220 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 130 Y8 Multiplayer Games 2,127 Y8 High Score Games 1,191 Y8 Achievements Games 838 Y8 Screenshots Games 1,532 Y8 Online Save Games 3,230 All Y8 Games Games Last Highscore:
 
-**36** points on Knife Hit Y8 by RageX
+**6** points on Orion Sandbox by Pavel\_Sergachev
 
 Help us improve Bad translation? Social
 
