@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu at Kubecon Americas 2019, San Diego
 *   Yahoo! Japan builds their IaaS environment with Canonical
 *   ROSCon 2019 – Canonical
 *   Access ESM, now free to the community, via the updated Ubuntu Advantage client
 *   Roadmap for Ubuntu official support for the Raspberry Pi 4
-*   The State of Robotics – October 2019
 
 *    ›
