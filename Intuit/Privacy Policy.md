@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsEnable Accessibility
 
-*   My AccountSign InTrack MyOrders
+*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -27,7 +27,7 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackDay 3 Of MAD DASH DEALSENDS IN23HOURS 41MINS 20SECS \*Offer ends 11/09/19UP TO 50% OFF HOLIDAY DECORselect styles UP TO 50% OFF KITCHEN &. DININGselect styles UP TO 50% OFF BEDDINGselect styles UP TO 60% OFF FURNITURE &. MATTRESSES+ EXTRA 10% off with code | select styles Furniture available online only.
+Near YouFind a StoreBackFinal Hours! MAD DASH DEALSENDS IN00HOURS 41MINS 20SECS UP TO 50% OFF HOLIDAY DECORselect styles UP TO 50% OFF KITCHEN &. DININGselect styles UP TO 50% OFF BEDDINGselect styles UP TO 60% OFF FURNITURE &. MATTRESSES+ EXTRA 10% off with code | select styles Furniture available online only.
 
 *   FURNITURE
 *   MATTRESSES
