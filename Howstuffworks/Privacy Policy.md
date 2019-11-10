@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksWhere Do Bullets Go When Guns Are Fired Straight Up Into the Air?1STUnderwater 'Lost City' Wasn't Built by Humans, Study Shows2NDHow Billy the Kid Really Died3RDEarly Humans Mated With Inbred Neanderthals — at a Cost4THBest Of Senior | SponsoredBrad Pitt's Daughter Is Probably The Prettiest Girl AliveBest Of Senior | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredBuzznet | SponsoredThese Twins Were Named "Most Beautiful In The World", Wait Till You See Them TodayBuzznet | SponsoredThedelite | SponsoredBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksWhere Do Bullets Go When Guns Are Fired Straight Up Into the Air?1STEarly Humans Mated With Inbred Neanderthals — at a Cost2ND10 Superstitions About Death3RDAre redheads going extinct?4THHistory Daily | SponsoredLook Closer...Unedited Photos Captured From The PastHistory Daily | SponsoredKelley Blue Book | Sponsored10 Coolest Cars Under $25,000Kelley Blue Book | SponsoredDefinition | SponsoredHydrogen Peroxide Hacks You Wish You Knew SoonerDefinition | SponsoredTop 5 | SponsoredHer Belly Keeps Growing, Doctor Sees Scan And Calls AuthoritiesTop 5 | Sponsored
 
 Advertisement
 
-home &. garden-autoWhy Neil Armstrong Was Chosen to Be the First Man on the MoonBY Dave Roosstyle-fashionWhy Is the Speedo Disappearing From European Beaches?BY Chris Opferstyle-fashionThe Ridiculous Reason Most Women's Clothes Don't Have Real PocketsBY Melanie Radzicki McManusliving.alot.com | SponsoredCelebs you didn't know were gay - no. 18 will shock womenliving.alot.com | SponsoredPlay Now | Caesars Casino Slots | SponsoredHere's the Thing Casinos Don't Want You to KnowPlay Now | Caesars Casino Slots | Sponsored
+people-legal systemWhat Is MS-13 and Why Is It So Scary?BY John Donovandictionary-famous scientistsStephen Hawking Right Again?BY Jonathan Stricklandscience vs. myth-unexplained phenomena9 'Unsolved' Mysteries That Have Been SolvedBY Patrick J. KigerLuxury Cruises | Search Ads | SponsoredYou've Never Seen Luxury Like This On A Cruise Ship. Research Luxury Mediterranean CruisesLuxury Cruises | Search Ads | SponsoredObsev | SponsoredBoy Reels In Purse From Lake, Realizes It’s Oddly Heavy And Finds Familiar Face InsideObsev | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksFrom Motive to Method, Women and Men Murder Very DifferentlyAre redheads going extinct?10 Superstitions About DeathActually, We're Not Overdoing It on the SaltWhat Did Your Address Look Like 250 Million Years Ago?What Is MS-13 and Why Is It So Scary?by Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorks4 Signs You're Infected with a ParasiteHow Billy the Kid Really DiedWhat if you drink bleach?If You Think Jupiter Orbits the Sun, You're MistakenFrom Motive to Method, Women and Men Murder Very DifferentlyWhy do most zippers say "YKK" on the pull-tab?by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Where Do Bullets Go When Guns Are Fired Straight Up Into the Air?Read Next StoryBest Of SeniorBrad Pitt's Daughter Is Probably The Prettiest Girl AliveBest Of Senior|SponsoredSponsoredRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Where Do Bullets Go When Guns Are Fired Straight Up Into the Air?Read Next StoryHistory DailyLook Closer...Unedited Photos Captured From The PastHistory Daily|SponsoredSponsoredRead Next StoryKelley Blue Book10 Coolest Cars Under $25,000Kelley Blue Book|SponsoredSponsoredRead Next Story
