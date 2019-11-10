@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off your order!
+Tees starting at $10. 50% off all other styles!
 
-code: PLENTY pin: PROMOTION DETAILS
+code: LETEES pin: PROMOTION DETAILS
 
 Customer Service Menu
 
