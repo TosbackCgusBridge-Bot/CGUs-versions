@@ -212,17 +212,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   MegaCortex ransomware variant threatens data breach, alters credentials
-    *   SafeBreach Platform 2019Q3.7
-    *   Roger Stone lied to House Intel Committee, beseeched WikiLeaks for dirt on Clinton, prosecutor says
-    *   AttackIQ Platform v2.15
-    *   Maine’s InterMed suffers data breach, 30,000 affected
-    
-    *   Aventura Technologies sold Chinese-made security gear with bugs to gov't, feds say
+    *   Every Desjardins customer impacted by June data incident
+    *   Sumo Logic acquires Jask
+    *   The right and wrong way to deliver cybersecurity information
     *   Feds warn against Hidden Cobra’s Hoplight malware
-    *   Chinese APT group Calypso hacked state institutions in six countries
-    *   Capesand EK attacking IE, Flash vulnerabilities
-    *   Application isolation and virtualization provide a false sense of cybersecurity – It’s time for a better solution
+    *   Freaking lasers can carry voice commands to smart devices
+    
+    *   Bipartisan bill would have local governments use .gov to strengthen cybersecurity defenses
+    *   Ransomware attack on TrialWorks is one of 13 on MSPs and cloud-service providers in 2019
+    *   Indian gov't confirms cyberattack on nuclear plant
+    *   Post-Brexit, EU, U.K. must join forces on cybersecurity, top negotiator says
+    *   Feds warn against Hidden Cobra’s Hoplight malware
     
     *   Report: Recently breached Capital One reassigns its CISO
     *   Bugcrowd breaks its weekly bounty payout record
