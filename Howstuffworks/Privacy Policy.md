@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksWhere Do Bullets Go When Guns Are Fired Straight Up Into the Air?1STEarly Humans Mated With Inbred Neanderthals — at a Cost2ND10 Superstitions About Death3RDAre redheads going extinct?4THHistory Daily | SponsoredLook Closer...Unedited Photos Captured From The PastHistory Daily | SponsoredKelley Blue Book | Sponsored10 Coolest Cars Under $25,000Kelley Blue Book | SponsoredDefinition | SponsoredHydrogen Peroxide Hacks You Wish You Knew SoonerDefinition | SponsoredTop 5 | SponsoredHer Belly Keeps Growing, Doctor Sees Scan And Calls AuthoritiesTop 5 | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksIs the BRAT Diet Still Beneficial?1ST7 Cool Facts About Will Rogers, Cowboy, Humorist, Self-declared President2NDThe Pythagorean Theorem Makes Construction and GPS Possible3RDFoodStuff: FoodStuff Gets Some Culture(d) Butter4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredTop 5 | SponsoredHer Belly Keeps Growing, Doctor Sees Scan And Calls AuthoritiesTop 5 | SponsoredBest Of Senior | SponsoredBrad Pitt's Daughter Is Probably The Prettiest Girl AliveBest Of Senior | SponsoredNinjaJournalist | SponsoredJack Nicholson's Daughter Is The Definition Of Drop Dead GorgeousNinjaJournalist | Sponsored
 
 Advertisement
 
-people-legal systemWhat Is MS-13 and Why Is It So Scary?BY John Donovandictionary-famous scientistsStephen Hawking Right Again?BY Jonathan Stricklandscience vs. myth-unexplained phenomena9 'Unsolved' Mysteries That Have Been SolvedBY Patrick J. KigerLuxury Cruises | Search Ads | SponsoredYou've Never Seen Luxury Like This On A Cruise Ship. Research Luxury Mediterranean CruisesLuxury Cruises | Search Ads | SponsoredObsev | SponsoredBoy Reels In Purse From Lake, Realizes It’s Oddly Heavy And Finds Familiar Face InsideObsev | Sponsored
+life science-evolutionEarly Humans Mated With Inbred Neanderthals — at a CostBY Robert Lambmental health-human natureWhat causes 'old person' smell?BY Laurie L. Doveeconomics-volunteerHow to Register For Toys For TotsBY Kathryn WhitbourneBuzznet | SponsoredThese Twins Were Named "Most Beautiful In The World", Wait Till You See Them TodayBuzznet | SponsoredObsev | SponsoredElephant Herd Does This After Man Saves Her Drowning BabyObsev | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorks4 Signs You're Infected with a ParasiteHow Billy the Kid Really DiedWhat if you drink bleach?If You Think Jupiter Orbits the Sun, You're MistakenFrom Motive to Method, Women and Men Murder Very DifferentlyWhy do most zippers say "YKK" on the pull-tab?by Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksHumans Didn't Outsmart Neanderthals, We Just Outlasted ThemAre redheads going extinct?Where Do Bullets Go When Guns Are Fired Straight Up Into the Air?Why do most zippers say "YKK" on the pull-tab?Interbreeding with Neanderthals Gave Humans Virus ProtectionsThe Curse of Brewing Beer in Your Own Bellyby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Where Do Bullets Go When Guns Are Fired Straight Up Into the Air?Read Next StoryHistory DailyLook Closer...Unedited Photos Captured From The PastHistory Daily|SponsoredSponsoredRead Next StoryKelley Blue Book10 Coolest Cars Under $25,000Kelley Blue Book|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Is the BRAT Diet Still Beneficial?Read Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StoryTop 5Her Belly Keeps Growing, Doctor Sees Scan And Calls AuthoritiesTop 5|SponsoredSponsoredRead Next Story
