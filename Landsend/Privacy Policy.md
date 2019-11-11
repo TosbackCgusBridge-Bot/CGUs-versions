@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Tees starting at $10. 50% off all other styles!
+Flannel shirts starting at $25. 50% off all other styles!
 
-code: LETEES pin: PROMOTION DETAILS
+code: LEFLANNEL pin: PROMOTION DETAILS
 
 Customer Service Menu
 
