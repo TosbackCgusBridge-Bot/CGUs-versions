@@ -124,7 +124,7 @@ Play video: A New PS4™ Pro Bundle Close video: A New PS4™ Pro Bundle
 
 New PlayStation games coming this week:  https://play.st/34qgpDF  Death Stranding, Audica, Need For Speed Heat, and more pic.twitter.com/skAnnIpLuB
 
-6 days ago View Tweet
+7 days ago View Tweet
 
 “Be Alpha”—Capture Your Perspective With an a7R IV Camera
 
