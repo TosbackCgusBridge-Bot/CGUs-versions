@@ -12,31 +12,31 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1113 games
-*   Most Popular Games 20056 games
+*   Best of new games 1123 games
+*   Most Popular Games 20061 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,418 games
-*   Driving &. Racing Games 6,926 games
+*   Games for girls 24,419 games
+*   Driving &. Racing Games 6,927 games
 *   Strategy &. RPG Games 3,158 games
-*   Management Games 3,665 games
-*   Thinking Games 12,404 games
-*   Action &. Adventure Games 16,604 games
-*   Sports Games 2,328 games
-*   Shooting Games 8,609 games
+*   Management Games 3,664 games
+*   Thinking Games 12,407 games
+*   Action &. Adventure Games 16,607 games
+*   Sports Games 2,329 games
+*   Shooting Games 8,612 games
 *   Fighting Games 2,111 games
-*   Skill Games 11,794 games
-*   Arcade &. Classic Games 13,702 games
+*   Skill Games 11,798 games
+*   Arcade &. Classic Games 13,706 games
 *   Fun &. Crazy Games 2,599 games
 
 Play with friends  
-Powered by Y8 Account 130 Y8 Multiplayer Games 2,128 Y8 High Score Games 1,191 Y8 Achievements Games 838 Y8 Screenshots Games 1,533 Y8 Online Save Games 3,231 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 130 Y8 Multiplayer Games 2,129 Y8 High Score Games 1,191 Y8 Achievements Games 838 Y8 Screenshots Games 1,533 Y8 Online Save Games 3,232 All Y8 Games Games Last Highscore:
 
-**19,138,390** points on Jelly Friend by Sawasdee
+**11** points on Slope Y8 by nicole
 
 Help us improve Bad translation? Social
 
