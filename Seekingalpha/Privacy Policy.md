@@ -1,25 +1,116 @@
-MarketplaceSeeking AlphaSUBSCRIBESign in
-
 *   Seeking Alpha
-*   Portfolio
-*   People
-*   News
-*   Analysis
-    
-    *   Dividends
-    *   Dividend Ideas
-    *   Market Outlook
-    *   Stock Ideas
-    *   REITs
-    *   Closed End Funds
-    
-    *   Today's Market
-    *   Dividend Strategy
-    *   Investing Strategy
-    *   Global Markets
-    *   See All Sections »
 
-*   Help
+Sign inSUBSCRIBE
+
+*   My Portfolio
+*   Authors
+    *   My Authors
+    *   Author Email Alerts
+    *   Latest StockTalks
+*   Screeners
+    *   Ratings Screener
+    *   ETF Screener
+*   Latest News
+    
+    *   Latest News
+    *   On The Move
+    *   Top News
+    *   Wall Street Breakfast
+    *   IPO News
+    *   M&A News
+    *   U.S. Economy
+    *   Event: Impact 2019
+    
+    *   Tech News
+    *   Energy News
+    *   Healthcare News
+    *   Crypto News
+    *   Top Movers on Earnings
+    *   Earnings News
+    *   Earnings Calendar
+    *   See All Sections »
+*   Markets
+    *   Market Outlook
+    *   Today’s Market
+    *   Economy
+    *   Gold and Precious Metals
+    *   Commodities
+    *   Forex
+    *   Real Estate
+    *   Editors Picks
+    *   Cryptocurrencies
+    *   Global Investing Center
+*   Stock Ideas
+    *   Long Ideas
+    *   IPO Analysis
+    *   Quick Picks and Lists
+    *   Fund Letters
+    *   Closed End Funds
+    *   Stock Ideas by Sector
+    *   Stock Ideas Editors Picks
+    *   Short Ideas
+*   Premium
+*   Dividends
+    
+    *   Dividend Ideas
+    *   Dividend News
+    *   REITs
+    *   Dividend Strategy
+    *   Dividend Quick Picks
+    
+    *   Dividend ETFs
+    *   Real Estate ETFs
+    *   Dividend Editors Picks
+    *   Fixed Income
+    *   Retirement
+*   ETFs
+    *   ETF Analysis
+    *   ETF Screener
+    *   Editors' Picks
+    *   Let’s Talk ETFs
+*   Investing Strategy
+    *   Investing Strategy
+    *   Editors' Picks
+    *   Portfolio Strategy
+    *   Financial Advisor
+*   Podcasts
+    *   Latest Podcasts
+    *   Wall Street Breakfast
+    *   Cannabis Investing
+    *   Behind the Idea
+    *   Let’s Talk ETFs
+    *   SA for FAs
+    *   Marketplace Roundtable
+    *   Investing Edge
+    *   Alpha Trader
+*   Marketplace
+    
+    *   What’s New
+    *   Most Popular
+    *   Arbitrage
+    *   Bonds
+    *   Cannabis
+    *   Dividend Stocks
+    *   Earnings
+    
+    *   ETFs
+    *   Global
+    *   Gold
+    *   High Yield
+    *   Income
+    *   IPOs
+    *   M&A
+    
+    *   Microcaps
+    *   Short Ideas
+    *   REITs
+    *   Smallcaps
+    *   Tech
+    *   Value
+    *   Full Marketplace Directory
+
+Help &. Support
+
 *   Knowledge Base
 *   Feedback Forum
 
