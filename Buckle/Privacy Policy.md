@@ -6,8 +6,8 @@ Shop Now or Learn More.
 *   FIND A STORE
 *   800.607.9788
 
-Military guests enjoy 10% off &. free shipping on orders of $129.  
-Shop Now or Learn More.
+Guest Loyalty Members, win our Gifted Getaway!  
+Shop Now or Enroll Today.
 
 *   Women
 *   Men
