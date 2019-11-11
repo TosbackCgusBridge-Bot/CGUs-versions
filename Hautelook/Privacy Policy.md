@@ -9,174 +9,206 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
-    *   Cashmere ft. M Magaschoni Incl. Plus &. Petites
-    *   Desk-to-Dinner Essentials Up to 70% Off
-    *   Step into Comfort: Dr. Scholl's, LifeStride &. More
-    *   Dresses &. Jumpsuits Under $45
-    *   Travis Mathew
-    *   Made in Italy: Meshmerise Jewelry from $40
-    *   Nine West Outerwear &. More
-    *   Brands We Love ft. Vince Camuto
-    *   Cozy Finds: Slippers, Shearling Boots &. More
-    *   Free Shipping: Vanity Storage &. More Up to 45% Off
-    *   Luseta Beauty Hair Care Up to 65% Off
-    *   Bulova &. Citizen Watches Up to 60% Off
-    *   Cozy Bedding &. Throws Up to 60% Off
-    *   PUMA Men's Active
-    *   Check It Out: Plaid Styles Incl. Plus &. Petites
-    *   Feminine Finds: Dresses Under $40
-    *   Fresh Finds: Shoes Up to 60% Off
-    *   Highlighter Sheets &. More from Mai Couture
-    *   Florsheim
-    *   L.O.L. Surprise!
-    *   Winter Boots ft. SOREL
-    *   Best of Tech from $15
-    *   Original Penguin Shoes Up to 65% Off
-    *   Beauty Faves: Skin Care Tools
-    *   New in Skin Care Under $25
-    *   Stay Cozy: Sweaters &. Hoodies Up to 60% Off
-    *   MICHAEL Michael Kors Girls' Shoes
-    *   Sanctuary Incl. Plus &. Petites
+    *   Perfect Parkas &. Puffers Up to 70% Off
+    *   Gevril Watches Up to 85% Off
+    *   Last Call: Dresses Up to 80% Off
+    *   Vintage Addiction Up to 80% Off
+    *   Women's Shoe Blowout
+    *   Free Shipping: BergHOFF Up to 55% Off
+    *   Men's Shoe Steals Up to 65% Off
+    *   Hunter
+    *   Splendid Up to 65% Off
+    *   Dresses ft. Donna Morgan Incl. Plus &. Petites
+    *   skinChemists Up to 80% Off
+    *   Sweaters Under $40 ft. Woven Heart
+    *   it Luggage Up to 60% Off
+    *   All-Weather Men's Outerwear ft. Rains
+    *   Jessica Simpson Lingerie &. Sleep
+    *   Prepared to Party: Pumps &. More Up to 55% Off
+    *   Free Shipping: Donna Salyers' Fabulous Furs
+    *   1.STATE Shoes &. More Up to 60% Off
+    *   14K Gold Jewelry &. More Up to 70% Off
+    *   Free Shipping: Pet-Friendly Covers &. More
+    *   Men's Boots ft. Hunter &. More
+    *   Too Faced
+    *   Puddle Jumpers: Kids' Boots ft. Hunter
+    *   Free Shipping: Wall Decals Starting at $10
+    *   Pair of Thieves
+    *   koala baby &. More
+    *   Baby Shop ft. Bumkins
+    *   Luxury Fragrance Gift Sets Up to 50% Off
     *   philosophy Starting at $15
     *   Free Shipping: Storage for Every Room
-    
     *   Make It Merry: Faux Plants &. Planters
-    *   Max Studio Up to 65% Off Incl. Plus
+    *   Men's Fragrances We Love ft. Calvin Klein
     *   Free Shipping: Dreamy Bedding from $20
     *   Free Shipping: Holiday Accents &. Decor
     *   Free Shipping: Christmas Decor &. More Up to 40% Off
-    *   Night Out: Dresses
-    *   Luxe It Up: Silk &. Satin Styles
-    *   Jurlique Natural Skin Care Up to 45% Off
-    *   Best Sellers: Dinnerware Up to 50% Off
-    *   Free Shipping: Quilts, Comforters &. More
-    *   Storage Must-Haves from $15
-    *   Free Shipping: BergHOFF Up to 55% Off
-    *   Free Shipping: Bath Towels &. More Up to 70% Off
-    *   Lacoste
-    *   Free Shipping: Holiday Trees for Every Home
-    *   Christmas Decor from $20
-    *   Urban Decay, Shiseido Ginza Tokyo &. More from $10
-    *   Welcome to the Jungle: Tiger &. Zebra Print Styles
-    *   Welcome to the Jungle: Snakeskin Print Styles
-    *   Welcome to the Jungle: Leopard Print Styles
-    *   Clarks Up to 50% Off
-    *   Made in Spain: UNOde50 Jewelry
-    *   Turn Up the Volume: Wide-Leg Styles
-    *   French Connection Up to 60% Off
-    *   Fuzzy Finds: Kids' Slippers &. Boots from $15
-    *   Pumps &. More ft. Imagine Vince Camuto Up to 50% Off
-    *   Tall &. Over-the-Knee Boots Up to 55% Off
-    *   Semi-Precious Gemstones &. More Up to 65% Off
-    *   Linda Farrow Sun &. More Up to 85% Off
-    *   Kensie Coats &. More
+    *   UGG Home
     
-    *   Cashmere Shop ft. Kier &. J
-    *   Lacoste Men's Shoes
-    *   Bruno Magli Men
+    *   Best Sellers: Dinnerware Up to 50% Off
+    *   Feminine Finds: Dresses Under $40
+    *   Storage Must-Haves from $15
+    *   Check It Out: Plaid Styles Incl. Plus &. Petites
+    *   Stay Cozy: Sweaters &. Hoodies Up to 60% Off
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   Made in Italy: Meshmerise Jewelry from $40
+    *   Cozy Finds: Slippers, Shearling Boots &. More
+    *   Step into Comfort: Dr. Scholl's, LifeStride &. More
+    *   Fresh Finds: Shoes Up to 60% Off
+    *   Cashmere ft. M Magaschoni Incl. Plus &. Petites
+    *   Nine West Outerwear &. More
+    *   Dresses &. Jumpsuits Under $45
+    *   Desk-to-Dinner Essentials Up to 70% Off
+    *   MICHAEL Michael Kors Girls' Shoes
+    *   Original Penguin Shoes Up to 65% Off
+    *   Florsheim
+    *   Travis Mathew
+    *   Luseta Beauty Hair Care Up to 65% Off
+    *   Highlighter Sheets &. More from Mai Couture
+    *   New in Skin Care Under $25
+    *   Brands We Love ft. Vince Camuto
+    *   Cozy Bedding &. Throws Up to 60% Off
+    *   Free Shipping: Vanity Storage &. More Up to 45% Off
+    *   Best of Tech from $15
+    *   Welcome to the Jungle: Leopard Print Styles
+    *   Welcome to the Jungle: Snakeskin Print Styles
+    *   Welcome to the Jungle: Tiger &. Zebra Print Styles
+    *   Urban Decay, Shiseido Ginza Tokyo &. More from $10
+    *   Clarks Up to 50% Off
     *   Brooks Brothers
     *   Men's Premium Denim Shop ft. 7 For All Mankind
+    *   Pumps &. More ft. Imagine Vince Camuto Up to 50% Off
+    *   Fuzzy Finds: Kids' Slippers &. Boots from $15
+    *   French Connection Up to 60% Off
+    *   Kensie Coats &. More
+    
+    *   Made in Spain: UNOde50 Jewelry
     *   Korean Beauty: Huangjisoo Skin Care &. More
     *   Ode Natural Soaps, Scrubs &. More
+    *   Joules Up to 50% Off
+    *   Stateside &. More
     *   Illuminate Your Space: Lamps, Mirrors &. More
     *   Get Prepped: Kitchen Cutlery Up to 75% Off
     *   Framed Art Starting at $25
-    *   Joules Up to 50% Off
-    *   Stateside &. More
     *   Kids' Premium Denim Shop Up to 60% Off
-    *   Roan Up to 60% Off
-    *   Dynamic Innovation Labs Skin Care
-    *   Diamonds &. More Up to 60% Off ft. Carriere
-    *   ALEX AND ANI Starting at $15
-    *   Best in Show: Pet Accessories Up to 50% Off
-    *   Kate Spade New York Girls &. More
-    *   Ben Sherman Up to 65% Off
-    *   Supply Lab
+    *   Semi-Precious Gemstones &. More Up to 65% Off
+    *   Bruno Magli Men
+    *   PUMA Men's Active
+    *   Winter Boots ft. SOREL
+    *   Tall &. Over-the-Knee Boots Up to 55% Off
+    *   Lacoste Men's Shoes
+    *   Linda Farrow Sun &. More Up to 85% Off
     *   Gear Up for Winter: Men's Scarves, Gloves &. More
+    *   Supply Lab
+    *   Roan Up to 60% Off
+    *   Best in Show: Pet Accessories Up to 50% Off
+    *   Dynamic Innovation Labs Skin Care
+    *   Kate Spade New York Girls &. More
+    *   GEOX Kids
+    *   Down to Details: Ruffles, Tie-Accents &. More
+    *   Prep for Success: Kitchen Storage &. Gadgets
+    *   Cashmere Shop ft. Kier &. J
+    *   Turn Up the Volume: Wide-Leg Styles
+    *   Diamonds &. More Up to 60% Off ft. Carriere
+    *   Picture Perfect: Fujifilm Cameras &. More
     *   Kids' Christmas PJs &. More
     *   Trending Now: Kids' Coats Under $30
-    *   Men's Fragrances We Love ft. Calvin Klein
+    *   Beauty Faves: Skin Care Tools
     *   Dyson
-    *   UGG Home
-    *   GEOX Kids
-    *   Picture Perfect: Fujifilm Cameras &. More
-    *   SPANX Incl. Plus
+    *   Free Shipping: Quilts, Comforters &. More
 *   WomenShop Sale Events
     
-    *   Cashmere ft. M Magaschoni Incl. Plus &. Petites
-    *   Desk-to-Dinner Essentials Up to 70% Off
-    *   Step into Comfort: Dr. Scholl's, LifeStride &. More
-    *   Dresses &. Jumpsuits Under $45
-    *   Made in Italy: Meshmerise Jewelry from $40
-    *   Nine West Outerwear &. More
-    *   Brands We Love ft. Vince Camuto
-    *   Cozy Finds: Slippers, Shearling Boots &. More
-    *   Luseta Beauty Hair Care Up to 65% Off
-    *   Bulova &. Citizen Watches Up to 60% Off
-    *   Check It Out: Plaid Styles Incl. Plus &. Petites
-    *   Feminine Finds: Dresses Under $40
-    *   Fresh Finds: Shoes Up to 60% Off
-    *   Highlighter Sheets &. More from Mai Couture
-    *   Winter Boots ft. SOREL
-    *   Beauty Faves: Skin Care Tools
-    *   New in Skin Care Under $25
-    *   Sanctuary Incl. Plus &. Petites
+    *   Perfect Parkas &. Puffers Up to 70% Off
+    *   Gevril Watches Up to 85% Off
+    *   Last Call: Dresses Up to 80% Off
+    *   Vintage Addiction Up to 80% Off
+    *   Women's Shoe Blowout
+    *   Hunter
+    *   Splendid Up to 65% Off
+    *   Dresses ft. Donna Morgan Incl. Plus &. Petites
+    *   skinChemists Up to 80% Off
+    *   Sweaters Under $40 ft. Woven Heart
+    *   it Luggage Up to 60% Off
+    *   Jessica Simpson Lingerie &. Sleep
+    *   Prepared to Party: Pumps &. More Up to 55% Off
+    *   1.STATE Shoes &. More Up to 60% Off
+    *   14K Gold Jewelry &. More Up to 70% Off
+    *   Too Faced
+    *   Luxury Fragrance Gift Sets Up to 50% Off
     *   philosophy Starting at $15
-    *   Max Studio Up to 65% Off Incl. Plus
-    *   Night Out: Dresses
-    *   Luxe It Up: Silk &. Satin Styles
-    *   Jurlique Natural Skin Care Up to 45% Off
-    *   Urban Decay, Shiseido Ginza Tokyo &. More from $10
+    *   Men's Fragrances We Love ft. Calvin Klein
+    *   Feminine Finds: Dresses Under $40
+    *   Check It Out: Plaid Styles Incl. Plus &. Petites
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   Made in Italy: Meshmerise Jewelry from $40
+    *   Cozy Finds: Slippers, Shearling Boots &. More
+    *   Step into Comfort: Dr. Scholl's, LifeStride &. More
+    *   Fresh Finds: Shoes Up to 60% Off
+    *   Cashmere ft. M Magaschoni Incl. Plus &. Petites
+    *   Nine West Outerwear &. More
+    *   Dresses &. Jumpsuits Under $45
     
-    *   Welcome to the Jungle: Tiger &. Zebra Print Styles
-    *   Welcome to the Jungle: Snakeskin Print Styles
+    *   Desk-to-Dinner Essentials Up to 70% Off
+    *   Luseta Beauty Hair Care Up to 65% Off
+    *   Highlighter Sheets &. More from Mai Couture
+    *   New in Skin Care Under $25
+    *   Brands We Love ft. Vince Camuto
     *   Welcome to the Jungle: Leopard Print Styles
+    *   Welcome to the Jungle: Snakeskin Print Styles
+    *   Welcome to the Jungle: Tiger &. Zebra Print Styles
+    *   Urban Decay, Shiseido Ginza Tokyo &. More from $10
     *   Clarks Up to 50% Off
-    *   Made in Spain: UNOde50 Jewelry
-    *   Turn Up the Volume: Wide-Leg Styles
-    *   French Connection Up to 60% Off
     *   Pumps &. More ft. Imagine Vince Camuto Up to 50% Off
-    *   Tall &. Over-the-Knee Boots Up to 55% Off
-    *   Semi-Precious Gemstones &. More Up to 65% Off
-    *   Linda Farrow Sun &. More Up to 85% Off
+    *   French Connection Up to 60% Off
     *   Kensie Coats &. More
-    *   Cashmere Shop ft. Kier &. J
+    *   Made in Spain: UNOde50 Jewelry
     *   Korean Beauty: Huangjisoo Skin Care &. More
     *   Ode Natural Soaps, Scrubs &. More
     *   Joules Up to 50% Off
     *   Stateside &. More
+    *   Semi-Precious Gemstones &. More Up to 65% Off
+    *   Winter Boots ft. SOREL
+    *   Tall &. Over-the-Knee Boots Up to 55% Off
+    *   Linda Farrow Sun &. More Up to 85% Off
     *   Dynamic Innovation Labs Skin Care
+    *   Down to Details: Ruffles, Tie-Accents &. More
+    *   Cashmere Shop ft. Kier &. J
+    *   Turn Up the Volume: Wide-Leg Styles
     *   Diamonds &. More Up to 60% Off ft. Carriere
-    *   ALEX AND ANI Starting at $15
-    *   Men's Fragrances We Love ft. Calvin Klein
+    *   Beauty Faves: Skin Care Tools
     *   Dyson
-    *   SPANX Incl. Plus
     
     Shop By Category
     *   Clothing
-    *   Jewelry
     *   Shoes
+    *   Jewelry
     *   Accessories
-    *   Lingerie &. Shapewear
     *   Handbags
+    *   Lingerie &. Shapewear
     *   Watches
 *   MenShop Sale Events
     
-    *   Travis Mathew
+    *   Gevril Watches Up to 85% Off
+    *   Men's Shoe Steals Up to 65% Off
+    *   it Luggage Up to 60% Off
+    *   All-Weather Men's Outerwear ft. Rains
+    *   Men's Boots ft. Hunter &. More
+    *   Pair of Thieves
+    *   Men's Fragrances We Love ft. Calvin Klein
     *   Bulova &. Citizen Watches Up to 60% Off
-    *   PUMA Men's Active
-    *   Florsheim
     *   Original Penguin Shoes Up to 65% Off
-    *   Lacoste Men's Shoes
-    *   Bruno Magli Men
+    *   Florsheim
     
+    *   Travis Mathew
     *   Brooks Brothers
     *   Men's Premium Denim Shop ft. 7 For All Mankind
-    *   Roan Up to 60% Off
-    *   Ben Sherman Up to 65% Off
-    *   Supply Lab
+    *   Bruno Magli Men
+    *   PUMA Men's Active
+    *   Lacoste Men's Shoes
     *   Gear Up for Winter: Men's Scarves, Gloves &. More
-    *   Men's Fragrances We Love ft. Calvin Klein
+    *   Supply Lab
+    *   Roan Up to 60% Off
     
     Shop By Category
     *   Clothing
@@ -185,78 +217,85 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Watches
 *   KidsShop Sale Events
     
-    *   L.O.L. Surprise!
+    *   Puddle Jumpers: Kids' Boots ft. Hunter
+    *   Pair of Thieves
+    *   koala baby &. More
+    *   Baby Shop ft. Bumkins
     *   Stay Cozy: Sweaters &. Hoodies Up to 60% Off
     *   MICHAEL Michael Kors Girls' Shoes
+    
     *   Fuzzy Finds: Kids' Slippers &. Boots from $15
     *   Kids' Premium Denim Shop Up to 60% Off
     *   Kate Spade New York Girls &. More
+    *   GEOX Kids
     *   Kids' Christmas PJs &. More
     *   Trending Now: Kids' Coats Under $30
-    *   GEOX Kids
     
     Shop By Category
     *   Girls' Sizes 7-16
     *   Girls' Sizes 2T-6X
-    *   Boys' Sizes 2T-7
-    *   Girls' Shoes
-    *   Baby Girl
     *   Boys' Sizes 8-20
-    *   Toy Shop
+    *   Boys' Sizes 2T-7
+    *   Baby Girl
+    *   Girls' Shoes
     *   Baby Boy
     *   Boys' Shoes
+    *   Toy Shop
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
-    *   Free Shipping: Vanity Storage &. More Up to 45% Off
-    *   Cozy Bedding &. Throws Up to 60% Off
-    *   Best of Tech from $15
+    *   Free Shipping: BergHOFF Up to 55% Off
+    *   Free Shipping: Donna Salyers' Fabulous Furs
+    *   Free Shipping: Pet-Friendly Covers &. More
+    *   Free Shipping: Wall Decals Starting at $10
     *   Free Shipping: Storage for Every Room
     *   Make It Merry: Faux Plants &. Planters
     *   Free Shipping: Dreamy Bedding from $20
     *   Free Shipping: Holiday Accents &. Decor
     *   Free Shipping: Christmas Decor &. More Up to 40% Off
+    *   UGG Home
     *   Best Sellers: Dinnerware Up to 50% Off
-    *   Free Shipping: Quilts, Comforters &. More
-    *   Storage Must-Haves from $15
     
-    *   Free Shipping: BergHOFF Up to 55% Off
-    *   Free Shipping: Bath Towels &. More Up to 70% Off
-    *   Lacoste
-    *   Free Shipping: Holiday Trees for Every Home
-    *   Christmas Decor from $20
+    *   Storage Must-Haves from $15
+    *   Cozy Bedding &. Throws Up to 60% Off
+    *   Free Shipping: Vanity Storage &. More Up to 45% Off
+    *   Best of Tech from $15
     *   Illuminate Your Space: Lamps, Mirrors &. More
     *   Get Prepped: Kitchen Cutlery Up to 75% Off
     *   Framed Art Starting at $25
     *   Best in Show: Pet Accessories Up to 50% Off
-    *   UGG Home
+    *   Prep for Success: Kitchen Storage &. Gadgets
     *   Picture Perfect: Fujifilm Cameras &. More
+    *   Free Shipping: Quilts, Comforters &. More
     
     Shop By Category
-    *   Bedding
-    *   Holiday Decorations
-    *   Kitchen &. Tabletop
     *   Home Decor
-    *   Pet Accessories
-    *   Luggage &. Travel
-    *   Cleaning &. Organization
-    *   Bath
+    *   Bedding
     *   Electronic &. Tech Accessories
-    *   Outdoor Living
+    *   Kitchen &. Tabletop
+    *   Pet Accessories
+    *   Holiday Decorations
+    *   Cleaning &. Organization
+    *   Luggage &. Travel
+    *   Bath
     *   Accent Furniture
+    *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   skinChemists Up to 80% Off
+    *   Too Faced
+    *   Luxury Fragrance Gift Sets Up to 50% Off
+    *   philosophy Starting at $15
+    *   Men's Fragrances We Love ft. Calvin Klein
     *   Luseta Beauty Hair Care Up to 65% Off
     *   Highlighter Sheets &. More from Mai Couture
-    *   Beauty Faves: Skin Care Tools
-    *   New in Skin Care Under $25
-    *   philosophy Starting at $15
-    *   Jurlique Natural Skin Care Up to 45% Off
     
+    *   New in Skin Care Under $25
     *   Urban Decay, Shiseido Ginza Tokyo &. More from $10
     *   Korean Beauty: Huangjisoo Skin Care &. More
     *   Ode Natural Soaps, Scrubs &. More
     *   Dynamic Innovation Labs Skin Care
-    *   Men's Fragrances We Love ft. Calvin Klein
+    *   Beauty Faves: Skin Care Tools
     *   Dyson
     
     Shop By Category
