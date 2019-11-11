@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsEnable Accessibility
 
-*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
+*   My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -27,7 +27,7 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackFinal Hours! MAD DASH DEALSENDS IN00HOURS 41MINS 20SECS UP TO 50% OFF HOLIDAY DECORselect styles UP TO 50% OFF KITCHEN &. DININGselect styles UP TO 50% OFF BEDDINGselect styles UP TO 60% OFF FURNITURE &. MATTRESSES+ EXTRA 10% off with code | select styles Furniture available online only.
+Near YouFind a StoreBackUP TO 50% OFF HOLIDAY DECORselect styles UP TO 50% OFF KITCHEN &. DININGselect styles UP TO 50% OFF BEDDINGselect styles UP TO 60% OFF FURNITURE &. MATTRESSES+ EXTRA 10% off with code | select styles Furniture available online only.
 
 *   FURNITURE
 *   MATTRESSES
@@ -35,7 +35,7 @@ Near YouFind a StoreBackFinal Hours! MAD DASH DEALSENDS IN00HOURS 41MINS 20SECS 
 Everything you need to throw the ultimate feast!  
 Picked by Pinterest—get it here! THE LOCAL LOOKLocally curated, universally loved Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 29 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   MAD DASH DEAL!
+*   BIG BUY!
     
     $279 - $2199after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(232)
 *   $3199after couponwas $72 Xersion Water Resistant Lightweight Puffer Jacket(22)
