@@ -212,17 +212,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Every Desjardins customer impacted by June data incident
-    *   Sumo Logic acquires Jask
-    *   The right and wrong way to deliver cybersecurity information
-    *   Feds warn against Hidden Cobra’s Hoplight malware
-    *   Freaking lasers can carry voice commands to smart devices
-    
-    *   Bipartisan bill would have local governments use .gov to strengthen cybersecurity defenses
-    *   Ransomware attack on TrialWorks is one of 13 on MSPs and cloud-service providers in 2019
-    *   Indian gov't confirms cyberattack on nuclear plant
     *   Post-Brexit, EU, U.K. must join forces on cybersecurity, top negotiator says
+    *   Chinese APT group Calypso hacked state institutions in six countries
+    *   Indian gov't confirms cyberattack on nuclear plant
+    *   Two guilty pleas in Uber and Lynda.com hacking case
+    *   Facebook app developers told to delete group member info
+    
+    *   Chinese APT group Calypso hacked state institutions in six countries
+    *   Report: Recently breached Capital One reassigns its CISO
     *   Feds warn against Hidden Cobra’s Hoplight malware
+    *   Trend Micro hit with insider attack
+    *   Patched bug allows beaming of malicious apps to NFC-enabled Android devices
     
     *   Report: Recently breached Capital One reassigns its CISO
     *   Bugcrowd breaks its weekly bounty payout record
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
