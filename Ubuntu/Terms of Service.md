@@ -44,6 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
-_Loading..._
+*   Open Infrastructure Summit Shanghai 2019: the highlights
+*   Canonical at TechWeek Frankfurt
+*   Ubuntu at Kubecon Americas 2019, San Diego
+*   Yahoo! Japan builds their IaaS environment with Canonical
+*   ROSCon 2019 – Canonical
 
 *    ›
