@@ -23,6 +23,7 @@
     *   Data Governance
         *   Data Governance Checklist
     *   Trust and Privacy
+        *   Tealium Private Cloud
         *   GDPR
         *   CCPA
         *   Tealium InfoSec
@@ -76,6 +77,7 @@
     *   Data Governance
         *   Data Governance Checklist
     *   Trust and Privacy
+        *   Tealium Private Cloud
         *   GDPR
         *   CCPA
         *   Tealium InfoSec
