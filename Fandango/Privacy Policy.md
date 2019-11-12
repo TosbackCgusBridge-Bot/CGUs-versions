@@ -5,32 +5,29 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Midway (2019)
+    *   Doctor Sleep
+    *   Playing with Fire (2019)
+    *   Last Christmas (2019)
     *   Terminator: Dark Fate
     *   Joker (2019)
     *   Maleficent: Mistress of Evil
     *   Harriet (2019)
-    *   The Addams Family (2019)
     *   Zombieland: Double Tap
-    *   Countdown (2019)
-    *   Black and Blue (2019)
-    *   Motherless Brooklyn
-    *   Arctic Dogs
-    *   Parasite (2019)
+    *   The Addams Family (2019)
+    *   Jojo Rabbit
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Doctor Sleep
-    *   Last Christmas (2019)
-    *   Midway (2019)
-    *   Playing with Fire (2019)
-    *   The All-Americans (2019)
-    *   Better Days (2019)
-    *   Christmas Jars
-    *   The Divine Plan
-    *   Honey Boy
-    *   Lynyrd Skynyrd: Last of The Street Survivors Farewell Tour
-    *   The Kingmaker (2019)
+    *   Charlie's Angels (2019)
+    *   Ford v Ferrari
+    *   The Good Liar
+    *   Everybody's Everything
+    *   The Warrior Queen of Jhansi
+    *   Scandalous: The Untold Story of the National Enquirer
+    *   Shakira In Concert: El Dorado World Tour
+    *   Waves (2019)
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -40,9 +37,6 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Coming Soon
     
-    *   Charlie's Angels (2019)
-    *   Ford v Ferrari
-    *   The Good Liar
     *   A Beautiful Day in the Neighborhood
     *   21 Bridges
     *   Knives Out
@@ -50,6 +44,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Playmobil: The Movie
     *   Black Christmas (2019)
     *   Jumanji: The Next Level
+    *   Bombshell (2019)
+    *   Uncut Gems
     *   See All Coming Soon
     
     Explore More
@@ -79,7 +75,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   The Week in Movie News: Colin Farrell is The Penguin for ‘The Batman,’ ‘Fantastic Beasts’ Goes to Brazil and More Read More
     *   The Week in Movie Trailers: ‘The Invisible Man,’ Pixar’s ‘Soul,’ ‘Bad Boys for Life’ and More Read More
-    *   Next 3 Action-Packed Sci-Fi Futures: 'Star Wars: The Rise of Skywalker,' 'Bloodshot,' 'The Invisible Man' Read More
+    *   Next 3 Suspense Thrillers: 'Black Christmas,' 'Underwater,' 'The Turning' Read More
     
     Explore Content
     *   Movie Reviews
