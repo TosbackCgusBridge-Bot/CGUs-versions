@@ -6,8 +6,7 @@ Shop Now or Learn More.
 *   FIND A STORE
 *   800.607.9788
 
-Guest Loyalty Members, win our Gifted Getaway!  
-Shop Now or Enroll Today.
+gifted with the perfect fit, and so much more - discover the story.
 
 *   Women
 *   Men
