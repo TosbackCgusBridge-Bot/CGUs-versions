@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
+    *   Capesand EK attacking IE, Flash vulnerabilities
+    *   Pwn2Own Tokyo 2019 victimize Sony, Samsung and Amazon devices
+    *   Selecting a managed security service
     *   Post-Brexit, EU, U.K. must join forces on cybersecurity, top negotiator says
-    *   Chinese APT group Calypso hacked state institutions in six countries
-    *   Indian gov't confirms cyberattack on nuclear plant
-    *   Two guilty pleas in Uber and Lynda.com hacking case
-    *   Facebook app developers told to delete group member info
+    *   Aventura Technologies sold Chinese-made security gear with bugs to gov't, feds say
     
-    *   Chinese APT group Calypso hacked state institutions in six countries
-    *   Report: Recently breached Capital One reassigns its CISO
-    *   Feds warn against Hidden Cobra’s Hoplight malware
-    *   Trend Micro hit with insider attack
-    *   Patched bug allows beaming of malicious apps to NFC-enabled Android devices
+    *   Roger Stone lied to House Intel Committee, beseeched WikiLeaks for dirt on Clinton, prosecutor says
+    *   Every Desjardins customer impacted by June data incident
+    *   Selecting a managed security service
+    *   The right and wrong way to deliver cybersecurity information
+    *   Energy company hit with DoS attack last spring identified as sPower
     
-    *   Report: Recently breached Capital One reassigns its CISO
-    *   Bugcrowd breaks its weekly bounty payout record
-    *   Imaginative attack scenarios elicit intrigue at NYU’s CSAW cyber event
-    *   MegaCortex ransomware variant threatens data breach, alters credentials
-    *   Buran ransomware detailed, found to be based on VegaLocker
+    *   Ransomware attack knocks SmarterASP.net customers knocked offline
+    *   OpenText picks up Carbonite for $1.42B
+    *   49 Google Play app titles found to deliver pesky ads
+    *   Researchers: WP-VCD malware is No. 1 in WordPress infections since August
+    *   SC Media wins top honor at Eddie &. Ozzie Awards
 
 Back to Top
 
