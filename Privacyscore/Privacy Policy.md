@@ -17,22 +17,18 @@ I ACCEPT Close <div class="noscript-message">In order to view this page correctl
     *   **WebRTC Test**
         *   If your browser has a WebRTC leak, even a VPN can’t hide your location. We’ll tell you how to fix it.
 *   Learn about VPN
-    *   **Privacy**
-        *   Encryption
-        *   Online Banking
-        *   Secure Public Wi-Fi
-    *   **Online Freedom**
-        *   Guide to browsing privately
-        *   How to counteract government surveillance
-        *   Are VPNs legal? A country guide
-    *   **Access**
+    *   **What is VPN** ****Product News**** **Blog**
+    *   ****Access****
         *   How to unblock websites
         *   How to stream TV Shows
-        *   VPN through your router
-    *   **Product News**
-        *   Introducing HMA VPN v5
-        *   New server locations added
-        *   HMA is pulling out of RussiaSee all articles
+    *   ****Online Freedom****
+        *   Guide to browsing privately
+        *   Are VPNs legal? A country guide
+        *   How to counteract government surveillance
+    *   ****Privacy****
+        *   Encryption
+        *   Secure Public Wi-Fi
+        *   Online Banking
 *   Download
 *   Help
 *   My account
