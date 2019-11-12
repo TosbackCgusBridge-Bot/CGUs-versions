@@ -209,11 +209,13 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksIs the BRAT Diet Still Beneficial?1ST7 Cool Facts About Will Rogers, Cowboy, Humorist, Self-declared President2NDThe Pythagorean Theorem Makes Construction and GPS Possible3RDFoodStuff: FoodStuff Gets Some Culture(d) Butter4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredTop 5 | SponsoredHer Belly Keeps Growing, Doctor Sees Scan And Calls AuthoritiesTop 5 | SponsoredBest Of Senior | SponsoredBrad Pitt's Daughter Is Probably The Prettiest Girl AliveBest Of Senior | SponsoredNinjaJournalist | SponsoredJack Nicholson's Daughter Is The Definition Of Drop Dead GorgeousNinjaJournalist | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksRidiculous History: 3 Times Society Refused to Accept Books on New Science1STHow to Write an Acceptance Letter for a New Job2NDHow Gear Ratios Work3RDHow much should your child get for allowance?4THKelley Blue Book | Sponsored10 Coolest Cars Under $25,000Kelley Blue Book | SponsoredSoGoodly | SponsoredThese Twins Were Named "Most Beautiful In The World" Wait Till You See Them TodaySoGoodly | SponsoredDirectExpose | SponsoredThe Controversial Scene That Ended 'Bewitched'DirectExpose | SponsoredBest Of Senior | SponsoredBrad Pitt's Daughter Is Probably The Prettiest Girl AliveBest Of Senior | Sponsored
 
 Advertisement
 
-life science-evolutionEarly Humans Mated With Inbred Neanderthals — at a CostBY Robert Lambmental health-human natureWhat causes 'old person' smell?BY Laurie L. Doveeconomics-volunteerHow to Register For Toys For TotsBY Kathryn WhitbourneBuzznet | SponsoredThese Twins Were Named "Most Beautiful In The World", Wait Till You See Them TodayBuzznet | SponsoredObsev | SponsoredElephant Herd Does This After Man Saves Her Drowning BabyObsev | Sponsored
+military-firearmsWhere Do Bullets Go When Guns Are Fired Straight Up Into the Air?BY Patrick J. Kigerpersonal finance-taxesDoes Social Security continue after a spouse dies?BY Debra Ronca-FoodStuff: The Science of Sour Beer
+
+Top 5 | SponsoredHer Belly Keeps Growing, Doctor Sees Scan And Calls AuthoritiesTop 5 | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | Sponsored
 
 Advertisement
 
@@ -221,7 +223,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksHumans Didn't Outsmart Neanderthals, We Just Outlasted ThemAre redheads going extinct?Where Do Bullets Go When Guns Are Fired Straight Up Into the Air?Why do most zippers say "YKK" on the pull-tab?Interbreeding with Neanderthals Gave Humans Virus ProtectionsThe Curse of Brewing Beer in Your Own Bellyby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksEarly Humans Mated With Inbred Neanderthals — at a CostWhat causes 'old person' smell?Inside EnginesWhere do bullets go when guns are fired straight up into the air?4 Reasons Your Phone Keeps Dropping CallsDo Wind Turbines Cause Health Problems?by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +246,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Is the BRAT Diet Still Beneficial?Read Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StoryTop 5Her Belly Keeps Growing, Doctor Sees Scan And Calls AuthoritiesTop 5|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Ridiculous History: 3 Times Society Refused to Accept Books on New ScienceRead Next StoryKelley Blue Book10 Coolest Cars Under $25,000Kelley Blue Book|SponsoredSponsoredRead Next StorySoGoodlyThese Twins Were Named "Most Beautiful In The World" Wait Till You See Them TodaySoGoodly|SponsoredSponsoredRead Next Story
