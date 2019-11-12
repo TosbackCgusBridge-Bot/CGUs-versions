@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Flannel shirts starting at $25. 50% off all other styles!
+$15 Christmas Needlepoint stockings. 50% off all other styles!
 
-code: LEFLANNEL pin: PROMOTION DETAILS
+code: LESTOCKING pin: PROMOTION DETAILS
 
 Customer Service Menu
 
