@@ -1,4 +1,4 @@
-*   SEA7-2SF8-0Mon, 8:15 pm ET
+*   SEA8-227SF8-124Final (OT)
 *   KC6-432TEN5-535Final
 *   ARI3-6-127TB3-630Final
 *   NYG2-827NYJ2-734Final
@@ -34,7 +34,7 @@
 *   NFL Films
 *   Game Pass
 
-*   SEA7-2SF8-0Mon, 8:15 pm ET
+*   SEA27SF24Final (OT)
 *   KC32TEN35Final
 *   ARI27TB30Final
 *   NYG27NYJ34Final
