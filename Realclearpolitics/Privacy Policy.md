@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Salena Zito_: Trump Could Lose PA in 2020 if Dems Hone Their Message
+*   _John Fund_: The Berlin Wall Is Gone, But Its Lessons Remain
     
-*   _Andy Puzder_: The Many Ways Trump's Policies Work for Democratic Voters
+*   _Margaret Talbot_: Is the Supreme Court's Fate in Elena Kagan's Hands?
     
-*   _Amy Davidson Sorkin_: Trump's Frantic Fight for Immunity
+*   _Adam Carrington_: Neil Gorsuch: A Judge in Full
     
-*   _Andrew McCarthy_: The Whistleblower and Trump's Right to Present a Defense
+*   _Julian Zelizer_: The Moment of Truth for House Democrats Arrives Wednesday
     
-*   _Robert Reich_: Billionaires Fear Warren, Sanders--But Should Fear Us All
+*   _Holman Jenkins_: Why Impeachment Will Stay Partisan
     
-*   _Stephen Moore_: Lib Media Still Rooting Against Strong Trump Economy
+*   _Miles Kampf-Lassin_: How a Republican Governor Lost in Kentucky
     
-*   _Maureen Dowd_: Bloomy on the Brink
+*   _Willis Krumholz_: Why Bevin Failed in KY and DeSantis Succeeds in FL
     
-*   _Roger Kimball_: Move Washington Out of Washington
+*   _Anthony Principi_: Veterans Affairs Reform Is Now Reality Under Trump
     
-*   _Timothy Egan_: How the Insufferably Woke Help Trump
+*   _Ian Millhiser_: 3 Ways the Supreme Court Could Decide DACA's Fate
     
-*   _Conrad Black_: U.K.'s 'Boris Machiavelli' Can Expect a Big Win
+*   _Terry Jeffrey_: House Votes to Secure Borders of Foreign Countries, Not US
     
-*   _Ricky Rubio_: For You, Mama
+*   _David Sims_: Martin Scorsese's Warning
     
-*   _Rocah &. Miller_: Trump's Defenses, From the Laughable to the Dangerous
+*   _Jonathan Easley_: Bloomberg Injects New Uncertainty Into Chaotic Dem Race
     
-*   _Robert Ray_: Dems Want to Impeach Trump on Basis of Flawed Legal Theory
+*   _Amy Walter_: Is It 2016 All Over Again?
     
-*   _Matt Taibbi_: Why Is Christopher Steele Still a Thing?
+*   _Steve Cortes_: Media Malfeasance at ABC News and Beyond
     
-*   _Adam Mill_: Schiff's Dishonesty Is Certain to Morph Again
+*   _Thrush &. Vogel_: What Joe Biden Actually Did in Ukraine
     
-*   _Rahm Emanuel_: Dear Democrats: Here's How Not to Blow It
+*   _Kevin McCullough_: Why Republicans Must Subpoena Eric Ciaramella
     
-*   _Eric Levitz_: Bloomberg’s Ego Is an Agent of Socialist Change
+*   _Teri Kanefield_: Trump's Defense Pushes America Closer to a Mafia State
     
-*   _David Harsanyi_: It's Not Republicans Who Refuse to Accept Elections
+*   _Paul Rosenberg_: Understanding Virginia's New Blue Wave
     
-*   _Emily Stewart_: We Get It, Rich Guys Are Not Into Elizabeth Warren
+*   _Mark Hemingway_: Charges of Ohio Voter List 'Purge' Prove to Be Unfounded
     
-*   _Jose Cardenas_: Trump's Unheralded Border Success
+*   _Romina Boccia_: Bananas, Socialism and the Fall of the Berlin Wall
     
-*   _Melissa Grant_: Fixating on 'Cancel Culture' in an Age of Transphobia
+*   _George Soros_: The Rise of Nationalism After the Fall of Berlin Wall
     
-*   _Jonathan Turley_: No, U.S. Doesn't Need European-Style Hate Speech Laws
+*   _Jed Babbin_: War With the Mexican Drug Cartels?
     
-*   _Hamilton Nolan_: Why Did Amazon Spend $1.5M in Local Seattle Elections?
+*   _Korecki &. Caputo_: Why Biden Leads Nationally But Trails in Early States
     
-*   _Peter Robinson_: The Unbelievable Night the Berlin Wall Fell
+*   _Bill Scher_: The Futility of Bloomberg 2020
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Charges of Ohio Voter List "Purge" Prove to Be Unfounded
 *   Bloomberg Move Seen as Slam on Democrats' Current 2020 Field
+*   Haley: Kelly, Tillerson Tried to Recruit Me to Undermine Trump
 *   "Black Lives MAGA": Trump Launches Black Outreach Effort for 2020
-*   Megyn Kelly Interviews Former ABC Producer Fired Over Epstein Leak
 *   2019 as Precursor to 2020? Results Say Yes, No and Maybe
-*   DNC Dumps UCLA as Debate Site--a Self-Inflicted Calif. Wound
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,59 +252,37 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   North Carolina Democratic Presidential PrimaryNY Times/Siena
-    *   Biden29
-    *   Warren15
-    *   Sanders13
-    *   Buttigieg1
+*   New Hampshire Democratic Presidential PrimaryQuinnipiac
+    *   Biden20
+    *   Warren16
+    *   Sanders14
+    *   Buttigieg15
+    *   Gabbard6
+    *   Yang4
+    *   Klobuchar3
     *   Harris1
-    *   Yang0
-    *   O'Rourke2
-    *   Klobuchar0
+    *   Steyer3
     *   Booker1
-    *   Castro
-    *   Gabbard1Biden +14
-*   Michigan Democratic Presidential PrimaryNY Times/Siena
-    *   Biden30
-    *   Sanders17
-    *   Warren21
-    *   Buttigieg3
-    *   Harris0
-    *   Booker0
-    *   Yang1
-    *   Gabbard1
-    *   Klobuchar1Biden +9
-*   Arizona Democratic PrimaryNY Times/Siena
-    *   Biden24
-    *   Sanders16
-    *   Warren15
-    *   Buttigieg5
-    *   Harris3
-    *   Yang1
-    *   Klobuchar1
-    *   Gabbard0
-    *   O'Rourke0
-    *   SestakBiden +8
-*   Florida Democratic Presidential PrimaryNY Times/Siena
-    *   Biden27
-    *   Warren19
-    *   Sanders13
-    *   Buttigieg5
-    *   Harris1
-    *   Messam
-    *   Klobuchar2
-    *   O'Rourke0
-    *   Gabbard1
-    *   Yang0
-    *   Booker0Biden +8
+    *   O'Rourke
+    *   Bennet1
+    *   Sestak0Biden +4
+*   President Trump Job ApprovalThe Hill/HarrisX
+    *   Approve47
+    *   Disapprove53Disapprove +6
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve47
+    *   Disapprove52Disapprove +5
+*   Direction of CountryRasmussen Reports
+    *   Right Direction39
+    *   Wrong Track56Wrong Track +17
 
 More Latest Polls In The News
 
+*   Moulitsas: Bloomberg "Exemplifies The Argument" That The Wealthy Have Too Much Power, "A Great Foil"
+*   Dershowitz: Democrats Acting Like Stalin On Impeachment. "Show Me The Man, I’ll Find You The Crime"
+*   Donald Trump Jr. And Charlie Kirk Booed Off Stage By MAGA Supporters For Canceling Q&A
+*   Nikki Haley: John Kelly And Rex Tillerson Tried To Recruit Me To "Undermine" Trump To "Save The Country"
 *   Swalwell on Witnesses: "For The Most Part, They've Not Been Coordinating Or Talking To Each Other"
-*   Graham: We Will Learn The Whistleblower Is "Somebody From The Deep State" With Conections To Adam Schiff
-*   Klobuchar: Bloomberg Can't Just "Waltz In" To 2020 Primary And "Say The Rest Of The Field Isn't Good Enough"
-*   Brooks: Trump "Even More Guilty Than Last Week," "New &. Improved Guilt" Reinforces "What We Already Knew"
-*   Megyn Kelly Interviews Former ABC Producer Fired For Leaking Clip Of Host Complaining About Epstein
 
 *   Politics
 *   Policy
