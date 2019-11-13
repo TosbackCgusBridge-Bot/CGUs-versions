@@ -1,4 +1,4 @@
-Free Shipping Over $99See DetailsEnable Accessibility
+Free Shipping over $99See DetailsEnable Accessibility
 
 *   My AccountSign InTrack MyOrders
 
@@ -27,20 +27,45 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackFinal Hours Of COUPON CODE YOUSAVE8ENDS IN00HOURS 41MINS 20SECS See Details\*Extra 30% off select apparel, shoes, accessories, fine jewelry and home purchases of $100 or more. Extra 25% off select purchases under $100. Extra 10% off furniture, mattresses, housewares, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches and salon products. Each offer good at jcp.com only, excluding taxes and shipping charges, 11/11/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Best Value, Daily Deals, Limited Time Specials, Levi's, Denizen from Levi’s, Disney Collection, Disney Tsum Tsum, French Toast, Fisher-Price, Fanatics, Licensed Team Sports Merchandise, Columbia, Carhartt, Nike, adidas, Reebok, Puma, Champion, Converse, Clarks, Skechers Women's Shoes, Skechers Athletic Shoes, Bobs from Skechers, Keds, Grasshoppers, Athletic Shoes, Goddess Lingerie, Dreamgirl, Jewelry Trunk Shows, Modern Bride Design Your Dream Ring, Pre-Owned Watches, Smartwatches, Garmin, Fitbit, Sephora, Food, Penney Lane, S'ip by S'well, Electronics, Brookstone, Sharper Image, In-Home Custom Design, Tempur-Pedic, Neato Robotics, iRobot, Sporting Goods/Outdoor Gear, Toys, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Personalized Jewelry, Wigs and Extensions, Purchase with Purchase Items, In-Store Services, Service Plans, Gift Cards, jcp.com Purchases During Black Friday Events, Closing Store purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code YOUSAVE8 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. DetailsUP TO 50% OFF HOLIDAY DECORselect styles UP TO 50% OFF KITCHEN &. DININGselect styles UP TO 50% OFF BEDDINGselect styles UP TO 60% OFF FURNITURE &. MATTRESSES+ EXTRA 10% off with code | select styles Furniture available online only.
+Near YouFind a StoreBack 
+
+*   SHOP ALL
+
+*   MEN
+    
+*   WOMEN
+    
+*   KIDS
+    
+*   TECH
+    
+*   JEWELRY
+    
+*   GIFTS
+    
+*   BABY
+    
+*   TOYS
+    
+
+SHOP ALLUP TO 50% OFF HOLIDAY DECORselect styles UP TO 50% OFF KITCHEN &. DININGselect styles UP TO 50% OFF BEDDINGselect styles UP TO 60% OFF FURNITURE &. MATTRESSES+ EXTRA 10% off with code | select styles Furniture available online only.
 
 *   FURNITURE
 *   MATTRESSES
 
 Everything you need to throw the ultimate feast!  
-Picked by Pinterest—get it here! THE LOCAL LOOKLocally curated, universally loved Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 29 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+Picked by Pinterest—get it here! THE LOCAL LOOKLocally curated, universally loved Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 29 total items loaded in Media GalleryFollow @jcpenney \*Buy one item at regular price, get the second and third items of equal or lesser value for free, while supplies last.  
+\*\*Nike, electronics and toys excluded from coupons.  
+Recommended for You
 
-*   BIG BUY!
+*   $424 - $2974after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(232)
+*   LIMITED TIME SPECIAL!
     
-    $261 - $2061after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(232)
-*   $2249after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(66)
-*   $2999after couponwas $72 Xersion Water Resistant Lightweight Puffer Jacket(22)
-*   $674 - $974after couponwas $27 St. John's Bay Active 1/4 Zip Fleece Pullover(37)
+    $60
+    
+    Arizona Womens Galen Block Heel Zip Booties(66)
+*   $3399after couponwas $72 Xersion Water Resistant Lightweight Puffer Jacket(22)
+*   $764 - $1104after couponwas $27 St. John's Bay Active 1/4 Zip Fleece Pullover(37)
 *   $719after couponwas $17 St. John's Bay-Womens Crew Neck Long Sleeve T-Shirt(141)
 *   LIMITED TIME SPECIAL!
     
