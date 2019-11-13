@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Capesand EK attacking IE, Flash vulnerabilities
-    *   Pwn2Own Tokyo 2019 victimize Sony, Samsung and Amazon devices
+    *   Former Twitter employees charged with using access to spy for Saudi Arabia
     *   Selecting a managed security service
-    *   Post-Brexit, EU, U.K. must join forces on cybersecurity, top negotiator says
-    *   Aventura Technologies sold Chinese-made security gear with bugs to gov't, feds say
+    *   Bugcrowd breaks its weekly bounty payout record
+    *   The cloud security capers
+    *   Spanish radio, consultancy among those targeted in ransomware attacks
     
-    *   Roger Stone lied to House Intel Committee, beseeched WikiLeaks for dirt on Clinton, prosecutor says
-    *   Every Desjardins customer impacted by June data incident
+    *   Sumo Logic acquires Jask
+    *   Patched bug allows beaming of malicious apps to NFC-enabled Android devices
     *   Selecting a managed security service
-    *   The right and wrong way to deliver cybersecurity information
-    *   Energy company hit with DoS attack last spring identified as sPower
+    *   Trend Micro hit with insider attack
+    *   A light November Patch Tuesday for Adobe
     
-    *   Ransomware attack knocks SmarterASP.net customers knocked offline
-    *   OpenText picks up Carbonite for $1.42B
-    *   49 Google Play app titles found to deliver pesky ads
-    *   Researchers: WP-VCD malware is No. 1 in WordPress infections since August
-    *   SC Media wins top honor at Eddie &. Ozzie Awards
+    *   Intel launches security blog, pushes security patches
+    *   It's privacy vs. innovation as Google collects data on 50 million medical patients
+    *   Microsoft Patch Tuesday covers 13 critical vulnerabilities
+    *   Ransom payments averaging $41,000 per incident
+    *   With election on horizon, U.K.'s Labour Party contends with DDoS attacks
 
 Back to Top
 
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
