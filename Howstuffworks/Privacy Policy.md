@@ -209,21 +209,21 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksRidiculous History: 3 Times Society Refused to Accept Books on New Science1STHow to Write an Acceptance Letter for a New Job2NDHow Gear Ratios Work3RDHow much should your child get for allowance?4THKelley Blue Book | Sponsored10 Coolest Cars Under $25,000Kelley Blue Book | SponsoredSoGoodly | SponsoredThese Twins Were Named "Most Beautiful In The World" Wait Till You See Them TodaySoGoodly | SponsoredDirectExpose | SponsoredThe Controversial Scene That Ended 'Bewitched'DirectExpose | SponsoredBest Of Senior | SponsoredBrad Pitt's Daughter Is Probably The Prettiest Girl AliveBest Of Senior | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksRidiculous History: 3 Times Society Refused to Accept Books on New Science1STHow to Write an Acceptance Letter for a New Job2NDFoodStuff: The Science of Sour Beer3RDHow much should your child get for allowance?4THTotal Battle - Online Strategy Game | SponsoredIf You Own a Computer This Strategy Game is a Must-Have!Total Battle - Online Strategy Game | Sponsoredjust gismos | Sponsored19 Insanely Cool Gadgets That Are Going to Sell out This Octoberjust gismos | SponsoredPlay Now | Caesars Casino Slots | SponsoredHere's the Thing Casinos Don't Want You to KnowPlay Now | Caesars Casino Slots | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | Sponsored
 
 Advertisement
 
-military-firearmsWhere Do Bullets Go When Guns Are Fired Straight Up Into the Air?BY Patrick J. Kigerpersonal finance-taxesDoes Social Security continue after a spouse dies?BY Debra Ronca-FoodStuff: The Science of Sour Beer
+food-healthy livingIf Hens Lay Eggs Anyway, Why Wouldn't Vegans Eat Them?BY Jesslyn Shieldsmilitary-firearmsWhere Do Bullets Go When Guns Are Fired Straight Up Into the Air?BY Patrick J. Kiger-FoodStuff: Marshmallows: Make, Eat, Repeat
 
-Top 5 | SponsoredHer Belly Keeps Growing, Doctor Sees Scan And Calls AuthoritiesTop 5 | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | Sponsored
-
-Advertisement
+Bon Voyaged | Sponsored20 Photos Captured At Airports That Will Make You Laugh Out LoudBon Voyaged | SponsoredTruthfinder | SponsoredEnter Any Name, Wait 105 Seconds, See Instant ResultsTruthfinder | Sponsored
 
 Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksEarly Humans Mated With Inbred Neanderthals — at a CostWhat causes 'old person' smell?Inside EnginesWhere do bullets go when guns are fired straight up into the air?4 Reasons Your Phone Keeps Dropping CallsDo Wind Turbines Cause Health Problems?by Taboolaby Taboola
+Advertisement
+
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksEarly Humans Mated With Inbred Neanderthals — at a CostDoes Social Security continue after a spouse dies?FoodStuff Makes Gin: FoodStuff Makes Gin10 Questions in the U.S. Health Care Cost DebateDo Wind Turbines Cause Health Problems?What causes 'old person' smell?by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -246,4 +246,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Ridiculous History: 3 Times Society Refused to Accept Books on New ScienceRead Next StoryKelley Blue Book10 Coolest Cars Under $25,000Kelley Blue Book|SponsoredSponsoredRead Next StorySoGoodlyThese Twins Were Named "Most Beautiful In The World" Wait Till You See Them TodaySoGoodly|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Ridiculous History: 3 Times Society Refused to Accept Books on New ScienceRead Next StoryTotal Battle - Online Strategy GameIf You Own a Computer This Strategy Game is a Must-Have!Total Battle - Online Strategy Game|SponsoredSponsoredRead Next Storyjust gismos19 Insanely Cool Gadgets That Are Going to Sell out This Octoberjust gismos|SponsoredSponsoredRead Next Story
