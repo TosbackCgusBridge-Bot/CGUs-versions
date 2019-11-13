@@ -30,7 +30,7 @@
 
 Privacy Policy
 
-This version (Version 4.4) is effective as of August 15, 2019.
+This version (Version 4.5) is effective as of November 12, 2019.
 
 *   Overview
 *   About Us
@@ -84,7 +84,7 @@ The contact information above should also be used for communications relating to
 
 If we do not resolve your question or concern satisfactorily, then please contact our U.S.-based third party dispute resolution providers (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
-For O’Reilly inquiries:
+For inquiries:
 
 Our EU Representative: As we, O'Reilly Media, Inc. and Safari Books Online, LLC, are not established in the EU, we have appointed O'Reilly UK Limited as our EU representative whom you may contact if you are located in the EU to raise any issues or queries you have relating to our processing of your personal information and/or this Privacy Policy more generally. Our EU representative's contact details are:
 
@@ -354,6 +354,8 @@ Please note that this Policy may change from time to time. We will not reduce yo
 
 11\. Previous Versions of the Privacy Policy 11.1 O'Reilly and Safari privacy policies
 
+Click here for version 4.4
+
 Click here for version 4.3
 
 Click here for version 4.2
@@ -384,7 +386,7 @@ Click here for version 3.3
 
 Upcoming Conferences
 
-*   Software Architecture Feb 24–26, New York
+*   Software Architecture Feb 23–26, New York
 *   Strata Mar 15–18, San Jose
 *   Artificial Intelligence Mar 15–18, San Jose
 *   Strata Apr 20–23, London
