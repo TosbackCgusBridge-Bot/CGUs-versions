@@ -6,7 +6,8 @@ Shop Now or Learn More.
 *   FIND A STORE
 *   800.607.9788
 
-gifted with the perfect fit, and so much more - discover the story.
+Military guests enjoy 10% off &. free shipping on orders of $129.  
+Shop Now or Learn More.
 
 *   Women
 *   Men
@@ -79,6 +80,7 @@ gifted with the perfect fit, and so much more - discover the story.
         
         *   Booties
         *   Boots
+        *   Casuals
         *   Flips &. Slides
         *   Heels
         *   Sandals
@@ -249,25 +251,26 @@ gifted with the perfect fit, and so much more - discover the story.
 *   Shoes
     *   *   Women's Shoes
         
-        *   Sneakers
-        *   Flips &. Slides
-        *   Sandals
-        *   Wedges
-        *   Heels
-        *   Boots
         *   Booties
+        *   Boots
+        *   Casuals
+        *   Flips &. Slides
+        *   Heels
+        *   Sandals
+        *   Sneakers
+        *   Wedges
         *   Western Boots
         *   Sale Shoes
         *   Shop All
         
         *   Men's Shoes
         
+        *   Boots
         *   Casuals
-        *   Sneakers
+        *   Dress Shoes
         *   Flips
         *   Slides
-        *   Dress Shoes
-        *   Boots
+        *   Sneakers
         *   Sale Shoes
         *   Shop All
         
