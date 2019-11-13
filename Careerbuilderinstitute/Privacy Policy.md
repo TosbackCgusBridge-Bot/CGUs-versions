@@ -31,7 +31,7 @@ Instant Notifications
 
 You'll receive push notifications when your resume is viewed, or when new jobs appear in your most recent search. Making it easy for you to jump right back into your job search.
 
-see how you can up your career status Career Development &. Learning Job Trends 3 things to know about the September 2019 jobs report Read Article The Right Job 8 tips for the perfect retail sales resume Read Article Resumes Tips for Making Your Resume Stand Out Read Article Read More Articles Employers Looking to Post a Job?
+see how you can up your career status Career Development &. Learning Job Trends 3 things to know about the September 2019 jobs report Read Article The Right Job 8 tips for the perfect retail sales resume Read Article Resumes Tips for making your resume stand out Read Article Read More Articles Employers Looking to Post a Job?
 
 We have end-to-end solutions that can keep up with you and your standards.
 
