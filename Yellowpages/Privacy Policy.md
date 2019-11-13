@@ -85,7 +85,7 @@ Skip Navigation
     *   Download the Spanish PDF
 *   English Français Español
 
-  Our Privacy Approach
+ A person is swiping through content on their smartphone as a wireless signal transmits from the phone to a radio tower. Our Privacy Approach
 
 You count on us to deliver the best entertainment and communication experiences in the world. You also count on us to protect your personal information. Privacy is fundamental to our business and we’re committed to:
 
@@ -116,7 +116,7 @@ Data helps us and our third-party service partners strengthen network and device
 
 By using our resources, we make the world a better place. For example, data has helped us raise awareness of the risks of texting while driving. And data can help us make cities smarter by reducing traffic, pollution, and much more.
 
-  Data helps us customize offers for our products and services that may interest you.
+ A spinning wheel slows down and lands on a section which grows from the center, revealing a media icon. Data helps us customize offers for our products and services that may interest you.
 
 Your information helps us not only power your products and services, it helps us communicate service updates and offers. Data allows us to offer you our best products and services.
 
