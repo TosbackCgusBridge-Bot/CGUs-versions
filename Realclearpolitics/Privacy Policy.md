@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _John Fund_: The Berlin Wall Is Gone, But Its Lessons Remain
+*   _Jamelle Bouie_: Who's Afraid of Elizabeth Warren?
     
-*   _Margaret Talbot_: Is the Supreme Court's Fate in Elena Kagan's Hands?
+*   _Edward-Isaac Dovere_: Why Biden Still Appears to Be Dem Front-Runner
     
-*   _Adam Carrington_: Neil Gorsuch: A Judge in Full
+*   _Charles Hurt_: Bloomberg's Joke of Bid Says More About Present Crop of Dems
     
-*   _Julian Zelizer_: The Moment of Truth for House Democrats Arrives Wednesday
+*   _Martin Vidal_: High Court Hears My Case Today. Trump Will Not Win on DACA.
     
-*   _Holman Jenkins_: Why Impeachment Will Stay Partisan
+*   _Kay Hymowitz_: The Wrong Immigration Debate
     
-*   _Miles Kampf-Lassin_: How a Republican Governor Lost in Kentucky
+*   _Bryant Messner_: Impeachment Halts U.S. Agenda, Holds Due Process Hostage
     
-*   _Willis Krumholz_: Why Bevin Failed in KY and DeSantis Succeeds in FL
+*   _Jill Lawrence_: Dems' Chance to Show How Trump Endangers America
     
-*   _Anthony Principi_: Veterans Affairs Reform Is Now Reality Under Trump
+*   _Kerry Picket_: Eric Ciaramella Had Extensive Access Inside White House
     
-*   _Ian Millhiser_: 3 Ways the Supreme Court Could Decide DACA's Fate
+*   _Gregg Jarrett_: Whistleblower Was an Informant Acting as a Democratic Operative
     
-*   _Terry Jeffrey_: House Votes to Secure Borders of Foreign Countries, Not US
+*   _Geoffrey Skelley_: Why Sessions Might Struggle to Win Back His Old Senate Seat
     
-*   _David Sims_: Martin Scorsese's Warning
+*   _Sohrab Ahmari_: Happiness Through Chutzpah: The Norman Podhoretz Story
     
-*   _Jonathan Easley_: Bloomberg Injects New Uncertainty Into Chaotic Dem Race
+*   _Cal Thomas_: The Dems' Last Gasp to Smear Trump
     
-*   _Amy Walter_: Is It 2016 All Over Again?
+*   _Yoni Appelbaum_: How America Ends
     
-*   _Steve Cortes_: Media Malfeasance at ABC News and Beyond
+*   _Victor Davis Hanson_: The Looming '1984' Election
     
-*   _Thrush &. Vogel_: What Joe Biden Actually Did in Ukraine
+*   _Damon Linker_: Is the Democratic Coalition Too Big?
     
-*   _Kevin McCullough_: Why Republicans Must Subpoena Eric Ciaramella
+*   _Charles Lipson_: Bloomberg Will Hit an Iceberg
     
-*   _Teri Kanefield_: Trump's Defense Pushes America Closer to a Mafia State
+*   _John Cassidy_: Nikki Haley Embodies What's Wrong With the GOP
     
-*   _Paul Rosenberg_: Understanding Virginia's New Blue Wave
+*   _William Murchison_: Schiff, Dems Hunt the Great Orange Whale
     
-*   _Mark Hemingway_: Charges of Ohio Voter List 'Purge' Prove to Be Unfounded
+*   _Aaron Rupar_: Trump's Lie About Impeachment Transcripts His Laziest Yet
     
-*   _Romina Boccia_: Bananas, Socialism and the Fall of the Berlin Wall
+*   _Byron York_: Democrats Have a Colonel Vindman Problem
     
-*   _George Soros_: The Rise of Nationalism After the Fall of Berlin Wall
+*   _Bob Cesca_: Impeachment Is Serious Stuff, But GOP Wants a Circus
     
-*   _Jed Babbin_: War With the Mexican Drug Cartels?
+*   _Jonathan Tobin_: A Fair Inquiry Would Question Hunter &. Joe Biden
     
-*   _Korecki &. Caputo_: Why Biden Leads Nationally But Trails in Early States
+*   _Dahlia Lithwick_: Democracy Ends Not With a Bang, But With a Book Deal
     
-*   _Bill Scher_: The Futility of Bloomberg 2020
+*   _Ben Weingarten_: Media's Double Standard About Naming Whistleblowers
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Pennsylvania 2020: It's Complicated
 *   Charges of Ohio Voter List "Purge" Prove to Be Unfounded
-*   Bloomberg Move Seen as Slam on Democrats' Current 2020 Field
 *   Haley: Kelly, Tillerson Tried to Recruit Me to Undermine Trump
+*   Bloomberg Move Seen as Slam on Democrats' Current 2020 Field
 *   "Black Lives MAGA": Trump Launches Black Outreach Effort for 2020
-*   2019 as Precursor to 2020? Results Say Yes, No and Maybe
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,6 +252,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   Iowa Democratic Presidential CaucusMonmouth
+    *   Warren18
+    *   Buttigieg22
+    *   Biden19
+    *   Sanders13
+    *   Klobuchar5
+    *   Harris3
+    *   Yang3
+    *   Steyer3
+    *   Gabbard2
+    *   Booker2
+    *   Castro1
+    *   Bullock1
+    *   Bennet0Buttigieg +3
+*   Louisiana Governor Run-Off Election - Rispone vs. Bel EdwardsMason-Dixon
+    *   Edwards48
+    *   Rispone46Edwards +2
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve44
+    *   Disapprove54Disapprove +10
 *   New Hampshire Democratic Presidential PrimaryQuinnipiac
     *   Biden20
     *   Warren16
@@ -263,26 +283,17 @@ Latest PollsAll Polls
     *   Harris1
     *   Steyer3
     *   Booker1
-    *   O'Rourke
     *   Bennet1
-    *   Sestak0Biden +4
-*   President Trump Job ApprovalThe Hill/HarrisX
-    *   Approve47
-    *   Disapprove53Disapprove +6
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove52Disapprove +5
-*   Direction of CountryRasmussen Reports
-    *   Right Direction39
-    *   Wrong Track56Wrong Track +17
+    *   Sestak0
+    *   Castro1Biden +4
 
 More Latest Polls In The News
 
+*   Schmidt: "Overwhelming Chance" Trump Will Dump Pence As VP, Put Nikki Haley On Ticket
+*   Harold Ford: Nancy Pelosi May Pull Impeachment If It Does Not Go Well This Week For Democrats
+*   Napolitano: Trump Escaped DOJ Prosecution Because The AG "More Loyal To Him Than The Constitution"
 *   Moulitsas: Bloomberg "Exemplifies The Argument" That The Wealthy Have Too Much Power, "A Great Foil"
 *   Dershowitz: Democrats Acting Like Stalin On Impeachment. "Show Me The Man, I’ll Find You The Crime"
-*   Donald Trump Jr. And Charlie Kirk Booed Off Stage By MAGA Supporters For Canceling Q&A
-*   Nikki Haley: John Kelly And Rex Tillerson Tried To Recruit Me To "Undermine" Trump To "Save The Country"
-*   Swalwell on Witnesses: "For The Most Part, They've Not Been Coordinating Or Talking To Each Other"
 
 *   Politics
 *   Policy
