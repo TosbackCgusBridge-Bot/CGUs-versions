@@ -9,16 +9,46 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
-    *   Tory Burch Shoes
-    *   Tory Burch Handbags
-    *   Tory Burch Clothing
-    *   Tory Burch Accessories
+    *   Daily Deal: True Religion Men's Denim Up to 60% Off
+    *   Daily Deal: Hooded Blankets at 76% Off
+    *   Daily Deal: Mommy &. Me Shoes by Steve Madden from $25
+    *   Daily Deal: Blondo Waterproof Booties at $99.97
+    *   Daily Deal: Born Knee-High Boots at $129.97
+    *   Daily Deal: True Religion Baby Sets at $24.97
+    *   Daily Deal: Barbie Dolls at $19.97
+    *   JOE'S Jeans Up to 60% Off
+    *   JOE'S Jeans Men Up to 65% Off
+    *   Nars Up to 55% Off
+    *   Ramy Brook
+    *   Midi Dresses Under $40
+    *   Wear to Work: Calvin Klein Shoes &. More
+    *   Free Shipping: Down &. Memory Foam Essentials
+    *   Personalized Style: Initial Necklaces &. More
+    *   JOE'S Jeans Sleep &. Lingerie Under $30
+    *   Good Luck Gem &. More Under $50
+    *   Swims
+    *   JOE'S Jeans Kids Up to 55% Off
+    *   Sofft Up to 55% Off
+    *   Billabong Starting at $15
+    *   All Under $60: French Connection Bags
+    *   Bruno Magli &. M by Bruno Magli Up to 50% Off
+    *   JOE'S Jeans Sun &. More Under $30
+    *   Dr. Martens Men
+    *   Quirky &. Fun Towels, Coasters and More
+    *   Skechers Kids from $20
+    *   Spa-Like Luxury Beauty Devices
+    *   Velvette: Natural Facial, Body &. Hair Oils
     *   Nambe
     *   Kitchen Must-Haves from Cuisinart
     *   Gift or Get: Smart Watch Bands, Chargers &. More
     *   Be Thankful &. Merry: Holiday Decor from $15
+    
     *   Holiday Bakeware Starting at $10
     *   Tis the Season: Gnomes &. More Holiday Decor
+    *   Tory Burch Handbags
+    *   Tory Burch Shoes
+    *   Tory Burch Clothing
+    *   Tory Burch Accessories
     *   Algenist Skin Care Up to 65% Off
     *   7 Seasons Cashmere
     *   KENDALL + KYLIE Up to 65% Off
@@ -37,46 +67,24 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Broken Homme
     *   Juicy Couture
     *   Kendra Scott Home Decor
-    *   Tissot Watches
-    *   Moschino
-    *   Catherine Catherine Malandrino Incl. Plus &. Petites
-    *   Franco Sarto Up to 50% Off
-    *   Champion Active Incl. Plus
-    
-    *   Work Looks ft. Amanda &. Chelsea Incl. Plus &. Petites
-    *   BLVD Starting at $20
     *   Breuning Jewelry Up to 60% Off
     *   Peter Millar
     *   The Original Makeup Eraser
     *   14K Gold, Gemstones &. More Under $90
-    *   Halston Heritage Up to 70% Off
     *   MCM Men
     *   Men's Designer Steals Up to 65% Off
     *   Men's Chukka &. Chelsea Boots Under $100
-    *   Resort Ready: Vacation Styles
     *   Sparkle &. Shine: Shoes ft. JoJo Siwa
     *   Maison Forte
+    
     *   Clearogen &. Rejuve Skin Care
     *   Sway Natural Deodorants &. More
     *   Mer-Sea &. Co Luxe Candles and Diffusers
     *   Free Shipping: BergHOFF Up to 55% Off
-    *   Perfect Parkas &. Puffers Up to 70% Off
-    *   Gevril Watches Up to 85% Off
     *   Men's Shoe Steals Up to 65% Off
-    *   Vintage Addiction Up to 80% Off
-    *   Women's Shoe Blowout
-    *   Hunter
-    *   koala baby &. More
-    *   Baby Shop ft. Bumkins
-    *   14K Gold Jewelry &. More Up to 70% Off
-    *   Puddle Jumpers: Kids' Boots ft. Hunter
-    *   Men's Boots ft. Hunter &. More
-    *   Pair of Thieves
-    *   All-Weather Men's Outerwear ft. Rains
     *   skinChemists Up to 80% Off
     *   Too Faced
     *   Luxury Fragrance Gift Sets Up to 50% Off
-    
     *   Free Shipping: Donna Salyers' Fabulous Furs
     *   Free Shipping: Pet-Friendly Covers &. More
     *   Free Shipping: Wall Decals Starting at $10
@@ -86,130 +94,117 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Highlighter Sheets &. More from Mai Couture
     *   Cozy Bedding &. Throws Up to 60% Off
     *   New in Skin Care Under $25
-    *   Brands We Love ft. Vince Camuto
-    *   Florsheim
-    *   Original Penguin Shoes Up to 65% Off
-    *   Get Prepped: Kitchen Cutlery Up to 75% Off
-    *   Check It Out: Plaid Styles Incl. Plus &. Petites
-    *   Framed Art Starting at $25
-    *   Korean Beauty: Huangjisoo Skin Care &. More
-    *   Ode Natural Soaps, Scrubs &. More
-    *   Camo Collection: Tops, Jackets, Bottoms &. More
-    *   Last Call: Dresses Up to 80% Off
     *   Dresses ft. Donna Morgan Incl. Plus &. Petites
-    *   Make It Merry: Faux Plants &. Planters
-    *   Free Shipping: Storage for Every Room
-    *   Boys' Dresswear ft. Isaac Mizrahi
-    *   Gifts Galore: LEGO &. More
-    *   Prep for Success: Kitchen Storage &. Gadgets
-    *   Splendid Up to 65% Off
-    *   Sweaters Under $40 ft. Woven Heart
-    *   it Luggage Up to 60% Off
-    *   Cashmere ft. M Magaschoni Incl. Plus &. Petites
-    *   Nine West Outerwear &. More
+    *   Get Prepped: Kitchen Cutlery Up to 75% Off
     *   Illuminate Your Space: Lamps, Mirrors &. More
+    *   Framed Art Starting at $25
     *   Picture Perfect: Fujifilm Cameras &. More
     *   Best in Show: Pet Accessories Up to 50% Off
+    *   Boys' Dresswear ft. Isaac Mizrahi
+    *   Sweaters Under $40 ft. Woven Heart
+    *   Gifts Galore: LEGO &. More
+    *   Prep for Success: Kitchen Storage &. Gadgets
+    *   Catherine Catherine Malandrino Incl. Plus &. Petites
+    *   Champion Active Incl. Plus
+    *   Work Looks ft. Amanda &. Chelsea Incl. Plus &. Petites
+    *   Perfect Parkas &. Puffers Up to 70% Off
+    *   Cashmere ft. M Magaschoni Incl. Plus &. Petites
+    *   Brands We Love ft. Vince Camuto
 *   WomenShop Sale Events
     
-    *   Tory Burch Shoes
+    *   Daily Deal: Mommy &. Me Shoes by Steve Madden from $25
+    *   Daily Deal: Blondo Waterproof Booties at $99.97
+    *   Daily Deal: Born Knee-High Boots at $129.97
+    *   JOE'S Jeans Up to 60% Off
+    *   Nars Up to 55% Off
+    *   Ramy Brook
+    *   Midi Dresses Under $40
+    *   Wear to Work: Calvin Klein Shoes &. More
+    *   Personalized Style: Initial Necklaces &. More
+    *   JOE'S Jeans Sleep &. Lingerie Under $30
+    *   Good Luck Gem &. More Under $50
+    *   Sofft Up to 55% Off
+    *   All Under $60: French Connection Bags
+    *   Bruno Magli &. M by Bruno Magli Up to 50% Off
+    *   JOE'S Jeans Sun &. More Under $30
+    *   Spa-Like Luxury Beauty Devices
+    *   Velvette: Natural Facial, Body &. Hair Oils
     *   Tory Burch Handbags
+    *   Tory Burch Shoes
     *   Tory Burch Clothing
     *   Tory Burch Accessories
     *   Algenist Skin Care Up to 65% Off
     *   7 Seasons Cashmere
     *   KENDALL + KYLIE Up to 65% Off
     *   Manitobah Mukluks
+    
     *   Poof Under $30
     *   Free Press &. Shimera
     *   Get Gifting: On-Trend Jewelry
     *   14K Gold Jewelry &. More Up to 60% Off
     *   Manna Kadar Cosmetics Up to 55% Off
     *   Korean Beauty: COSRX &. More Starting at $10
-    *   Tissot Watches
-    *   Moschino
-    *   Catherine Catherine Malandrino Incl. Plus &. Petites
-    *   Franco Sarto Up to 50% Off
-    *   Champion Active Incl. Plus
-    *   Work Looks ft. Amanda &. Chelsea Incl. Plus &. Petites
-    *   BLVD Starting at $20
     *   Breuning Jewelry Up to 60% Off
     *   The Original Makeup Eraser
     *   14K Gold, Gemstones &. More Under $90
-    *   Halston Heritage Up to 70% Off
-    *   Resort Ready: Vacation Styles
-    
     *   Clearogen &. Rejuve Skin Care
-    *   Perfect Parkas &. Puffers Up to 70% Off
-    *   Gevril Watches Up to 85% Off
-    *   Vintage Addiction Up to 80% Off
-    *   Women's Shoe Blowout
-    *   Hunter
-    *   14K Gold Jewelry &. More Up to 70% Off
     *   skinChemists Up to 80% Off
     *   Too Faced
     *   Luxury Fragrance Gift Sets Up to 50% Off
     *   Luseta Beauty Hair Care Up to 65% Off
     *   Highlighter Sheets &. More from Mai Couture
     *   New in Skin Care Under $25
-    *   Brands We Love ft. Vince Camuto
-    *   Check It Out: Plaid Styles Incl. Plus &. Petites
-    *   Korean Beauty: Huangjisoo Skin Care &. More
-    *   Ode Natural Soaps, Scrubs &. More
-    *   Camo Collection: Tops, Jackets, Bottoms &. More
-    *   Last Call: Dresses Up to 80% Off
     *   Dresses ft. Donna Morgan Incl. Plus &. Petites
-    *   Splendid Up to 65% Off
     *   Sweaters Under $40 ft. Woven Heart
-    *   it Luggage Up to 60% Off
+    *   Catherine Catherine Malandrino Incl. Plus &. Petites
+    *   Champion Active Incl. Plus
+    *   Work Looks ft. Amanda &. Chelsea Incl. Plus &. Petites
+    *   Perfect Parkas &. Puffers Up to 70% Off
     *   Cashmere ft. M Magaschoni Incl. Plus &. Petites
-    *   Nine West Outerwear &. More
+    *   Brands We Love ft. Vince Camuto
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
-    *   Handbags
+    *   Shoes
     *   Accessories
-    *   Watches
     *   Lingerie &. Shapewear
+    *   Handbags
+    *   Watches
 *   MenShop Sale Events
     
+    *   Daily Deal: True Religion Men's Denim Up to 60% Off
+    *   JOE'S Jeans Men Up to 65% Off
+    *   Swims
+    *   Billabong Starting at $15
+    *   JOE'S Jeans Sun &. More Under $30
+    *   Dr. Martens Men
     *   Scotch &. Soda
     *   Nordstrom Rack Exclusives for Him
+    
     *   English Laundry Up to 60% Off
     *   Broken Homme
-    *   Tissot Watches
     *   Peter Millar
     *   MCM Men
     *   Men's Designer Steals Up to 65% Off
     *   Men's Chukka &. Chelsea Boots Under $100
-    
     *   Maison Forte
-    *   Gevril Watches Up to 85% Off
     *   Men's Shoe Steals Up to 65% Off
-    *   Men's Boots ft. Hunter &. More
-    *   Pair of Thieves
-    *   All-Weather Men's Outerwear ft. Rains
-    *   Florsheim
-    *   Original Penguin Shoes Up to 65% Off
-    *   it Luggage Up to 60% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
+    *   Daily Deal: True Religion Baby Sets at $24.97
+    *   Daily Deal: Barbie Dolls at $19.97
+    *   JOE'S Jeans Kids Up to 55% Off
+    *   Skechers Kids from $20
     *   Appaman Kids
     *   Champion
     *   Juicy Couture
     *   Sparkle &. Shine: Shoes ft. JoJo Siwa
-    *   koala baby &. More
-    *   Baby Shop ft. Bumkins
-    *   Puddle Jumpers: Kids' Boots ft. Hunter
-    *   Pair of Thieves
     *   Boys' Dresswear ft. Isaac Mizrahi
     *   Gifts Galore: LEGO &. More
     
@@ -218,14 +213,16 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Toy Shop
     *   Girls' Shoes
     *   Boys' Sizes 8-20
-    *   Baby Gear &. Essentials
-    *   Baby Girl
     *   Girls' Sizes 2T-6X
-    *   Baby Boy
     *   Boys' Shoes
     *   Girls' Sizes 7-16
+    *   Baby Girl
+    *   Baby Boy
 *   HomeShop Sale Events
     
+    *   Daily Deal: Hooded Blankets at 76% Off
+    *   Free Shipping: Down &. Memory Foam Essentials
+    *   Quirky &. Fun Towels, Coasters and More
     *   Nambe
     *   Kitchen Must-Haves from Cuisinart
     *   Gift or Get: Smart Watch Bands, Chargers &. More
@@ -235,55 +232,54 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Kendra Scott Home Decor
     *   Mer-Sea &. Co Luxe Candles and Diffusers
     *   Free Shipping: BergHOFF Up to 55% Off
+    
     *   Free Shipping: Donna Salyers' Fabulous Furs
     *   Free Shipping: Pet-Friendly Covers &. More
     *   Free Shipping: Wall Decals Starting at $10
-    
     *   Best of Tech from $15
     *   Free Shipping: Vanity Storage &. More Up to 45% Off
     *   Cozy Bedding &. Throws Up to 60% Off
     *   Get Prepped: Kitchen Cutlery Up to 75% Off
-    *   Framed Art Starting at $25
-    *   Make It Merry: Faux Plants &. Planters
-    *   Free Shipping: Storage for Every Room
-    *   Prep for Success: Kitchen Storage &. Gadgets
     *   Illuminate Your Space: Lamps, Mirrors &. More
+    *   Framed Art Starting at $25
     *   Picture Perfect: Fujifilm Cameras &. More
     *   Best in Show: Pet Accessories Up to 50% Off
+    *   Prep for Success: Kitchen Storage &. Gadgets
     
     Shop By Category
     *   Home Decor
     *   Holiday Decorations
-    *   Luggage &. Travel
     *   Kitchen &. Tabletop
     *   Electronic &. Tech Accessories
     *   Pet Accessories
+    *   Luggage &. Travel
     *   Outdoor Living
-    *   Accent Furniture
     *   Rugs &. Doormats
+    *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Nars Up to 55% Off
+    *   Spa-Like Luxury Beauty Devices
+    *   Velvette: Natural Facial, Body &. Hair Oils
     *   Algenist Skin Care Up to 65% Off
     *   Manna Kadar Cosmetics Up to 55% Off
     *   Korean Beauty: COSRX &. More Starting at $10
     *   The Original Makeup Eraser
     *   Clearogen &. Rejuve Skin Care
+    
     *   Sway Natural Deodorants &. More
     *   skinChemists Up to 80% Off
-    
     *   Too Faced
     *   Luxury Fragrance Gift Sets Up to 50% Off
     *   Luseta Beauty Hair Care Up to 65% Off
     *   Highlighter Sheets &. More from Mai Couture
     *   New in Skin Care Under $25
-    *   Korean Beauty: Huangjisoo Skin Care &. More
-    *   Ode Natural Soaps, Scrubs &. More
     
     Shop By Category
     *   Skin Care
     *   Makeup
-    *   Bath &. Body
     *   Fragrance
+    *   Bath &. Body
     *   Hair Care
     *   Tools &. Accessories
 
