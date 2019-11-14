@@ -1,11 +1,10 @@
 Free Shipping over $99See DetailsEnable Accessibility
 
-*   My AccountSign InTrack MyOrders
+*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
 
 Shop Departments
 
-*   Same Day Pickup
-*   Weekly Ad
+*   Coupons
 *   Holiday Gifts
     *   Gifts Under $15
     *   Gifts Under $25
@@ -13,19 +12,16 @@ Shop Departments
     *   Gifts for Him
     *   Gifts for Kids
     *   Shop All Gifts
+*   Toys
 *   Deals
     *   Special Deals
     *   Deals Under $10
     *   Deals Under $15
     *   Shop All Deals
-*   Clearance
-    *   Women
-    *   Shoes
-    *   Men
-    *   Kids
-    *   Home
-    *   More Categories
-*   Coupons
+*   More
+    *   Clearance
+    *   Same Day Pickup
+    *   Weekly Ad
 
 Near YouFind a StoreBack 
 
@@ -58,25 +54,31 @@ Picked by Pinterest—get it here! THE LOCAL LOOKLocally curated, universally lo
 \*\*Nike, electronics and toys excluded from coupons.  
 Recommended for You
 
-*   $424 - $2974after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(232)
 *   LIMITED TIME SPECIAL!
     
     $60
     
-    Arizona Womens Galen Block Heel Zip Booties(66)
-*   $3399after couponwas $72 Xersion Water Resistant Lightweight Puffer Jacket(22)
-*   $764 - $1104after couponwas $27 St. John's Bay Active 1/4 Zip Fleece Pullover(37)
-*   $719after couponwas $17 St. John's Bay-Womens Crew Neck Long Sleeve T-Shirt(141)
+    Arizona Womens Galen Block Heel Zip Booties(77)
+*   $424 - $2974after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(247)
+*   $3399after couponwas $72 Xersion Water Resistant Lightweight Puffer Jacket(26)
+*   $764 - $1104after couponwas $27 St. John's Bay Active 1/4 Zip Fleece Pullover(44)
+*   $679after couponwas $17 St. John's Bay-Womens Crew Neck Long Sleeve T-Shirt(146)
 *   LIMITED TIME SPECIAL!
     
     $10 sale
     
-    was $49.98 | 80% offLIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver(201)
+    was $49.98 | 80% offLIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver(202)
 
+Shop JCPenney Black Friday Deals
+
+Looking for the best deals this holiday season? We’ve got you covered with our incredible Black Friday Sale! From the most popular toys your kids will love, to deals on jewelry, apparel, family pajamas, jackets and more – you’ll find everything you need at JCPenney to make this holiday season one to remember. View our Black Friday deals today and start saving!
+
+  
 Shop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! Shop our mattresses and save on mattresses from brands, such as Sealy, Serta and Tempurpedic. Shop the latest styles in women's apparel, or check out the variety of women's dresses available at amazing prices. Buy stylish new furniture and home decor. We have great deals on apparel too! Save on men's hoodies and sweatshirts, women's sweaters and cardigans, fall accessories, and more for the entire family. For the tech savvy, we have a wide selection of cool gadgets that will make excellent gifts for any occasion. JCPenney is your one-stop shop for fantastic savings! Your journey towards better value starts and ends with us, online or at your closest JCPenney store!
 
+  
 Add To Cart
 
 *   Signup for text\* or email alerts, offers and promotionsSign Up
