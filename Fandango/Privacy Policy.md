@@ -1,7 +1,7 @@
 GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In Sign Out
 
 *   Fandango
-*   Go
+*   Skip to Main Content Go
 
 *   Movies Now Playing
     
@@ -84,7 +84,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Family Guide
     *   House Of Screams
     *   Weekend Ticket
-*   My VIP Account Join FandangoVIP Buy Movies. Get Movies.
+*   My VIP Account Join Fandango_VIP_ Buy Movies. Get Movies.
     
     Earn 125 points on every ticket you buy. Rack up 500 points and you'll score a $5 reward for more movies.
     
@@ -298,13 +298,13 @@ As a global organization, Fandango, may need to transfer your information outsid
 
 Offers
 
-*   FandangoNOW Fresh Picks
-    
-    100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
-    
 *   Get a holiday movie on Chex
     
     When you purchase 3 specially marked boxes of Chex Cereal. SEE DETAILS
+    
+*   Get A Free Movie Ticket and $10 Concession Money
+    
+    When you spend $100+ on Gift Cards. SEE DETAILS
     
 *   Get a $5 Concession Certificate
     
