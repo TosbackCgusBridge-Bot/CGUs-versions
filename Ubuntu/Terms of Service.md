@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   foo.c
+*   Design and Web team summary – 8 November 2019
 *   Ubuntu updates to mitigate latest Intel hardware vulnerabilities
 *   Growing the Linux app Ecosystem at LAS 2019
 *   Open Infrastructure Summit Shanghai 2019: the highlights
-*   Canonical at TechWeek Frankfurt
-*   Ubuntu at Kubecon Americas 2019, San Diego
 
 *    ›
