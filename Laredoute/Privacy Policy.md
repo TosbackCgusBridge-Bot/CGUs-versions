@@ -243,6 +243,8 @@ Les destinataires des données sont :
 
 \- Galeries Lafayette DEUTSCHLAND
 
+La liste complète des partenaires de la Redoute est accessible en cliquant ici
+
 3.2. Les sous-traitants de la Redoute
 
 La Redoute fait également appel à des sous-traitants pour les opérations suivantes :
