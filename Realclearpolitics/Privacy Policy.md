@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Jamelle Bouie_: Who's Afraid of Elizabeth Warren?
+*   _Rudy Giuliani_: Trump's Call Was Innocent, and the House Inquiry Is a Travesty
     
-*   _Edward-Isaac Dovere_: Why Biden Still Appears to Be Dem Front-Runner
+*   _Joe Lockhart_: Why My Third Impeachment Is Really Different From the Others
     
-*   _Charles Hurt_: Bloomberg's Joke of Bid Says More About Present Crop of Dems
+*   _Peter Beinart_: Joe Biden Has a Hillary Clinton Problem
     
-*   _Martin Vidal_: High Court Hears My Case Today. Trump Will Not Win on DACA.
+*   _Josh Kraushaar_: It's Warren, Not Biden, Who's Slipping in Polls Lately
     
-*   _Kay Hymowitz_: The Wrong Immigration Debate
+*   _Conrad Black_: The Democrats Won't Find a Savior in Bloomberg
     
-*   _Bryant Messner_: Impeachment Halts U.S. Agenda, Holds Due Process Hostage
+*   _Napolitano &. Perez_: We Sued Trump to Save DACA, Protect Young People
     
-*   _Jill Lawrence_: Dems' Chance to Show How Trump Endangers America
+*   _James Carafano_: Don't Bet on a DACA Deal
     
-*   _Kerry Picket_: Eric Ciaramella Had Extensive Access Inside White House
+*   _Emily Jashinsky_: The Daily Northwestern Apology Is a Harbinger
     
-*   _Gregg Jarrett_: Whistleblower Was an Informant Acting as a Democratic Operative
+*   _Dana Milbank_: The Case Against Trump in Seven Words
     
-*   _Geoffrey Skelley_: Why Sessions Might Struggle to Win Back His Old Senate Seat
+*   _Donald Elliott_: Biden Actually Did What Trump Is Accused Of
     
-*   _Sohrab Ahmari_: Happiness Through Chutzpah: The Norman Podhoretz Story
+*   _Andrew McCarthy_: We Resolve Policy Disputes by Elections, Not Impeachment
     
-*   _Cal Thomas_: The Dems' Last Gasp to Smear Trump
+*   _John Harris_: Impeachment Inquiry May Hurt Republicans for a Generation
     
-*   _Yoni Appelbaum_: How America Ends
+*   _Jim Hanson_: Vindman: Living Proof the Deep State Exists &. Is Corrupt
     
-*   _Victor Davis Hanson_: The Looming '1984' Election
+*   _Amanda Marcotte_: Trump's Defense: Repeating Big Lies About Biden
     
-*   _Damon Linker_: Is the Democratic Coalition Too Big?
+*   _President Donald Trump_: We Have Ended the War on American Workers
     
-*   _Charles Lipson_: Bloomberg Will Hit an Iceberg
+*   _Sen. Durbin &. Rep. Lofgren_: Supreme Court and Congress Must Defend Dreamers
     
-*   _John Cassidy_: Nikki Haley Embodies What's Wrong With the GOP
+*   _Adam Freedman_: DACA in the Dock: What Obama's Done, Trump Can Undo
     
-*   _William Murchison_: Schiff, Dems Hunt the Great Orange Whale
+*   _Umair Irfan_: Climate Change Lawsuits Are Not Going Away
     
-*   _Aaron Rupar_: Trump's Lie About Impeachment Transcripts His Laziest Yet
+*   _Josef Joffe_: The Religion of Climatism
     
-*   _Byron York_: Democrats Have a Colonel Vindman Problem
+*   _John Murawski_: LGBTQ Education Gains in Public School, Pre-K Up
     
-*   _Bob Cesca_: Impeachment Is Serious Stuff, But GOP Wants a Circus
+*   _Haidt &. Rose-Stockwell_: The Dark Psychology of Social Networks
     
-*   _Jonathan Tobin_: A Fair Inquiry Would Question Hunter &. Joe Biden
+*   _Tucker Carlson_: Why Silicon Valley Supports Warren for President
     
-*   _Dahlia Lithwick_: Democracy Ends Not With a Bang, But With a Book Deal
+*   _David Avella_: It's Time for Sen. Graham to Expose Schiff's Ruse
     
-*   _Ben Weingarten_: Media's Double Standard About Naming Whistleblowers
+*   _Neal Katyal_: What Trump Is Hiding From the Impeachment Hearings
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   A Daylong Back-and-Forth as House Dems Launch Public Hearings
+*   Split Supreme Court Appears Ready to Side With Trump Admin on DACA
+*   Trump Campaign Ad Blasts Impeachment as Scam, Bull, Joke
 *   Pennsylvania 2020: It's Complicated
-*   Charges of Ohio Voter List "Purge" Prove to Be Unfounded
-*   Haley: Kelly, Tillerson Tried to Recruit Me to Undermine Trump
-*   Bloomberg Move Seen as Slam on Democrats' Current 2020 Field
-*   "Black Lives MAGA": Trump Launches Black Outreach Effort for 2020
+*   Fed's Powell Sees Steady Growth, Signals Pause in Rate Cuts
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,48 +252,37 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Iowa Democratic Presidential CaucusMonmouth
-    *   Warren18
-    *   Buttigieg22
-    *   Biden19
-    *   Sanders13
-    *   Klobuchar5
-    *   Harris3
-    *   Yang3
-    *   Steyer3
-    *   Gabbard2
-    *   Booker2
-    *   Castro1
-    *   Bullock1
-    *   Bennet0Buttigieg +3
-*   Louisiana Governor Run-Off Election - Rispone vs. Bel EdwardsMason-Dixon
-    *   Edwards48
-    *   Rispone46Edwards +2
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove54Disapprove +10
-*   New Hampshire Democratic Presidential PrimaryQuinnipiac
-    *   Biden20
-    *   Warren16
-    *   Sanders14
-    *   Buttigieg15
-    *   Gabbard6
+*   2020 Democratic Presidential NominationEconomist/YouGov
+    *   Biden23
+    *   Warren26
+    *   Sanders17
+    *   Buttigieg9
+    *   Harris5
     *   Yang4
-    *   Klobuchar3
-    *   Harris1
-    *   Steyer3
+    *   Klobuchar2
     *   Booker1
-    *   Bennet1
-    *   Sestak0
-    *   Castro1Biden +4
+    *   Castro2
+    *   Gabbard2
+    *   Steyer1
+    *   Bullock1
+    *   Delaney1Warren +3
+*   Georgia: Trump vs. BidenAtlanta Journal-Constitution
+    *   Biden51
+    *   Trump43Biden +8
+*   Georgia: Trump vs. WarrenAtlanta Journal-Constitution
+    *   Warren47
+    *   Trump44Warren +3
+*   Georgia: Trump vs. SandersAtlanta Journal-Constitution
+    *   Sanders48
+    *   Trump44Sanders +4
 
 More Latest Polls In The News
 
-*   Schmidt: "Overwhelming Chance" Trump Will Dump Pence As VP, Put Nikki Haley On Ticket
-*   Harold Ford: Nancy Pelosi May Pull Impeachment If It Does Not Go Well This Week For Democrats
-*   Napolitano: Trump Escaped DOJ Prosecution Because The AG "More Loyal To Him Than The Constitution"
-*   Moulitsas: Bloomberg "Exemplifies The Argument" That The Wealthy Have Too Much Power, "A Great Foil"
-*   Dershowitz: Democrats Acting Like Stalin On Impeachment. "Show Me The Man, I’ll Find You The Crime"
+*   Rep. Meadows Rips CBS Reporter Over Depositions: "Your Characterization Is So Inherently Wrong And Biased"
+*   Trump on Impeachment Hearing: "I Haven't Watched For One Minute," "A Sham And Shouldn't Be Allowed"
+*   George Conway: Russia Wasn't About Trump, Because He Is So Self-Obsessed, The Probe Became About Him
+*   Nunes: Impeachment Hearings Are "A Televised Theatrical Performance Staged By The Democrats"
+*   Schiff Opening Statement At Impeachment Hearing: "If This Isn't Impeachable Conduct, What Is?"
 
 *   Politics
 *   Policy
