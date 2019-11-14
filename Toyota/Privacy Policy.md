@@ -1040,7 +1040,7 @@ If you have any questions, complaints or claims about any of the Sites, or if yo
 
 Go
 
-ToyotaProud Mobility Partner SIGN UP FOR TOYOTA UPDATES Request A Quote Trade-In Value Shopping Tools
+ToyotaProud Mobility Partner SIGN UP FOR TOYOTA UPDATES Cookie Consent Options Request A Quote Trade-In Value Shopping Tools
 
 *   Trade-In Value
 *   Build Your Toyota
@@ -1105,6 +1105,8 @@ Help
 *   Contact Us
 *   Accessibility
 *   FAQ
+
+Cookie Consent Options
 
 *   Privacy Policy
 *   Legal Terms
