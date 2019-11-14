@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
+    *   Google forms App Defense Alliance
+    *   Freaking lasers can carry voice commands to smart devices
+    *   Adversary harboring DopplePaymer ransomware targets industrial sector
     *   Former Twitter employees charged with using access to spy for Saudi Arabia
-    *   Selecting a managed security service
-    *   Bugcrowd breaks its weekly bounty payout record
-    *   The cloud security capers
-    *   Spanish radio, consultancy among those targeted in ransomware attacks
+    *   Steyer aide resigns after accessing volunteer data collected by Harris campaign
     
-    *   Sumo Logic acquires Jask
-    *   Patched bug allows beaming of malicious apps to NFC-enabled Android devices
-    *   Selecting a managed security service
-    *   Trend Micro hit with insider attack
-    *   A light November Patch Tuesday for Adobe
-    
-    *   Intel launches security blog, pushes security patches
+    *   Zurich rolls out cyber insurance coverage for manufacturers
+    *   California DMV exposed drivers' SSN details to federal gov't officials
+    *   Huawei meeting with bug bounty hackers
     *   It's privacy vs. innovation as Google collects data on 50 million medical patients
-    *   Microsoft Patch Tuesday covers 13 critical vulnerabilities
-    *   Ransom payments averaging $41,000 per incident
-    *   With election on horizon, U.K.'s Labour Party contends with DDoS attacks
+    *   ‘DIRT CLEAN’ -a technology rationalization approach for security controls
+    
+    *   Russian who allegedly ran illegal Cardplanet site extradited to U.S.
+    *   Pemex claims victory over cyberattack. $4.9 million ransom reportedly demanded
+    *   Gates: Stone discussed WikiLeaks DNC email dump with Trump
+    *   VMware patches five security vulnerabilities
+    *   System bug gives Facebook access to iPhone cameras
 
 Back to Top
 
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
