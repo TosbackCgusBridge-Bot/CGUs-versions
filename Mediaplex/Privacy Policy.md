@@ -17,6 +17,7 @@
         *   Movies
         *   TV
     *   CPG
+        *   Beauty
     *   Grocery
     *   All
 *   Resources
