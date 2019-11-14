@@ -1,3 +1,82 @@
+*   PIT5-4CLE3-6Thu, 8:20 pm ET
+*   NYJ2-7WAS1-8Sun, 1:00 pm ET
+*   NO7-2TB3-6Sun, 1:00 pm ET
+*   DEN3-6MIN7-3Sun, 1:00 pm ET
+*   BUF6-3MIA2-7Sun, 1:00 pm ET
+*   JAX4-5IND5-4Sun, 1:00 pm ET
+*   DAL5-4DET3-5-1Sun, 1:00 pm ET
+*   ATL2-7CAR5-4Sun, 1:00 pm ET
+*   HOU6-3BAL7-2Sun, 1:00 pm ET
+*   ARI3-6-1SF8-1Sun, 4:05 pm ET
+*   NE8-1PHI5-4Sun, 4:25 pm ET
+*   CIN0-9OAK5-4Sun, 4:25 pm ET
+*   CHI4-5LA5-4Sun, 8:20 pm ET
+*   KC6-4LAC4-6Mon, 8:15 pm ET
+
+*   News
+*   Scores
+*   Schedule
+*   Standings
+*   Highlights
+*   NFL 100
+*   Fantasy
+*   Tickets
+*   Shop
+*   Teams
+*   Super Bowl
+*   Pro Bowl
+*   Combine
+*   Draft
+*   Stats
+*   Next Gen Stats
+*   Ways to Watch
+*   NFL Network
+*   Photos
+*   NFL Films
+*   Game Pass
+
+*   PIT5-4CLE3-6Thu, 8:20 pm ET
+*   NYJ2-7WAS1-8Sun, 1:00 pm ET
+*   NO7-2TB3-6Sun, 1:00 pm ET
+*   DEN3-6MIN7-3Sun, 1:00 pm ET
+*   BUF6-3MIA2-7Sun, 1:00 pm ET
+*   JAX4-5IND5-4Sun, 1:00 pm ET
+*   DAL5-4DET3-5-1Sun, 1:00 pm ET
+*   ATL2-7CAR5-4Sun, 1:00 pm ET
+*   HOU6-3BAL7-2Sun, 1:00 pm ET
+*   ARI3-6-1SF8-1Sun, 4:05 pm ET
+*   NE8-1PHI5-4Sun, 4:25 pm ET
+*   CIN0-9OAK5-4Sun, 4:25 pm ET
+*   CHI4-5LA5-4Sun, 8:20 pm ET
+*   KC6-4LAC4-6Mon, 8:15 pm ET
+
+*   News
+*   Scores
+*   Schedule
+*   Standings
+*   Highlights
+*   NFL 100
+
+*   NFL 100
+*   Scores
+
+*   *   Super Bowl
+    *   Pro Bowl
+    *   Combine
+    *   Draft
+    *   Stats
+    *   Next Gen Stats
+    *   Ways to Watch
+    *   NFL Network
+    *   Photos
+    *   NFL Films
+    *   Game Pass
+
+*   Fantasy
+*   Tickets
+*   Shop
+*   Teams
+
 NFL.com - Privacy Policy English
 
 **Effective Date: August 16, 2001  
