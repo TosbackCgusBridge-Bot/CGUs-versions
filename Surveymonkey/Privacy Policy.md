@@ -52,6 +52,10 @@ SurveyMonkey® ÷
         
         Gather data &. accept payments with online forms
         
+    *   GetFeedback
+        
+        Customer feedback for Salesforce
+        
     *   View all products
     
 2.  Solutions
@@ -881,6 +885,10 @@ Copyright © 1999-2019 SurveyMonkey Email: Contact Us Phone: +353-1-437-6886 You
     *   Wufoo
         
         Gather data &. accept payments with online forms
+        
+    *   GetFeedback
+        
+        Customer feedback for Salesforce
         
     *   View all products
 2.  Solutions
