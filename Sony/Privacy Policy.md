@@ -124,7 +124,7 @@ More behind-the-scenes photos from Countdown to #DeathStranding
   
 Re-watch the stream here:  http://play.st/DeathStranding  pic.twitter.com/K09d1YPA60
 
-1 day ago View Tweet Instagram Post B4qKhlVhCkk
+2 days ago View Tweet Instagram Post B4qKhlVhCkk
 
 Get 5X Zoom
 
