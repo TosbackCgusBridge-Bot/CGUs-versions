@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off your order!
+Receive 40% off full-price styles. free shipping no minimum!
 
-code: AMPLE pin: PROMOTION DETAILS
+code: BREEZY pin: PROMOTION DETAILS
 
 Customer Service Menu
 
