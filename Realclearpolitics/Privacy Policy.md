@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Rudy Giuliani_: Trump's Call Was Innocent, and the House Inquiry Is a Travesty
+*   _Nicholas Kristof_: If Trump Were Anyone Else...
     
-*   _Joe Lockhart_: Why My Third Impeachment Is Really Different From the Others
+*   _Liz Harrington_: Democrats' Latest Attempt to Overturn the Election Will Fail
     
-*   _Peter Beinart_: Joe Biden Has a Hillary Clinton Problem
+*   _Renato Mariotti_: Democrats Have All the Evidence They Need
     
-*   _Josh Kraushaar_: It's Warren, Not Biden, Who's Slipping in Polls Lately
+*   _Sharyl Attkisson_: The President, Not Diplomats, Sets 'Official Foreign Policy'
     
-*   _Conrad Black_: The Democrats Won't Find a Savior in Bloomberg
+*   _Dahlia Lithwick_: What You'd Have to Believe to Let Trump Off the Hook
     
-*   _Napolitano &. Perez_: We Sued Trump to Save DACA, Protect Young People
+*   _Susan Crabtree_: Yovanovitch's Moment: Will Her Testimony Help Democrats?
     
-*   _James Carafano_: Don't Bet on a DACA Deal
+*   _Michael Dougherty_: 'Epstein Didn't Kill Himself': A Meme With a Serious Point
     
-*   _Emily Jashinsky_: The Daily Northwestern Apology Is a Harbinger
+*   _Caitlin Flanagan_: The Dishonesty of the Abortion Debate
     
-*   _Dana Milbank_: The Case Against Trump in Seven Words
+*   _Sean Trende_: What the Entry of Patrick and Bloomberg May Mean for Biden
     
-*   _Donald Elliott_: Biden Actually Did What Trump Is Accused Of
+*   _Masha Gessen_: 2 Irreconcilable Realities of the Impeachment Hearings
     
-*   _Andrew McCarthy_: We Resolve Policy Disputes by Elections, Not Impeachment
+*   _Karl Rove_: Impeachment Becomes a Pratfall Comedy
     
-*   _John Harris_: Impeachment Inquiry May Hurt Republicans for a Generation
+*   _Daniel Henninger_: The Take Down Trump Project
     
-*   _Jim Hanson_: Vindman: Living Proof the Deep State Exists &. Is Corrupt
+*   _John Harris_: Trump Exposed: A Brutal Day for the President
     
-*   _Amanda Marcotte_: Trump's Defense: Repeating Big Lies About Biden
+*   _Michael Goodwin_: That's All the Democrats Have Got?
     
-*   _President Donald Trump_: We Have Ended the War on American Workers
+*   _Susan Glasser_: The GOP's Plan: Keep Impeachment Partisan
     
-*   _Sen. Durbin &. Rep. Lofgren_: Supreme Court and Congress Must Defend Dreamers
+*   _James Piereson_: On the Use of Impeachment as an Election Strategy
     
-*   _Adam Freedman_: DACA in the Dock: What Obama's Done, Trump Can Undo
+*   _Perry Bacon_: Why Deval Patrick Is Making a Late Bid
     
-*   _Umair Irfan_: Climate Change Lawsuits Are Not Going Away
+*   _Karin McQuillan_: Democrats Are Failing the Reality Test
     
-*   _Josef Joffe_: The Religion of Climatism
+*   _S.E. Cupp_: Hillary Clinton, Get Real
     
-*   _John Murawski_: LGBTQ Education Gains in Public School, Pre-K Up
+*   _Brady &. Parker_: The Impact of Voter Second Choices as 2020 Dems Drop Out
     
-*   _Haidt &. Rose-Stockwell_: The Dark Psychology of Social Networks
+*   _Froma Harrop_: Bloomberg, Billionaires and Boobery
     
-*   _Tucker Carlson_: Why Silicon Valley Supports Warren for President
+*   _Charles Gasparino_: Why a 2nd Term? Trump Delivers on Economic Promises
     
-*   _David Avella_: It's Time for Sen. Graham to Expose Schiff's Ruse
+*   _Uri Friedman_: How Trump's 'Green Light' Moment in Syria Shook the World
     
-*   _Neal Katyal_: What Trump Is Hiding From the Impeachment Hearings
+*   _Joe Kent_: I'm a Gold Star Husband &. Vet: Trump Right to End 9/11 Wars
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Yovanovitch's Moment: Will Testimony Help Democrats or Republicans?
 *   A Daylong Back-and-Forth as House Dems Launch Public Hearings
-*   Split Supreme Court Appears Ready to Side With Trump Admin on DACA
-*   Trump Campaign Ad Blasts Impeachment as Scam, Bull, Joke
-*   Pennsylvania 2020: It's Complicated
-*   Fed's Powell Sees Steady Growth, Signals Pause in Rate Cuts
+*   Blitzer vs. Conway: Anybody at CNN Feel Badly About Getting Everything Wrong?
+*   Ex-Massachusetts Gov. Patrick Announces Presidential Bid
+*   U.S. and Turkey Have Friendly Talks, But Differences Persist
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,37 +252,35 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationEconomist/YouGov
-    *   Biden23
-    *   Warren26
-    *   Sanders17
-    *   Buttigieg9
+*   North Carolina Democratic Presidential PrimaryHigh Point
+    *   Biden33
+    *   Warren13
+    *   Sanders18
+    *   Buttigieg4
     *   Harris5
-    *   Yang4
-    *   Klobuchar2
-    *   Booker1
-    *   Castro2
-    *   Gabbard2
-    *   Steyer1
-    *   Bullock1
-    *   Delaney1Warren +3
-*   Georgia: Trump vs. BidenAtlanta Journal-Constitution
-    *   Biden51
-    *   Trump43Biden +8
-*   Georgia: Trump vs. WarrenAtlanta Journal-Constitution
-    *   Warren47
-    *   Trump44Warren +3
-*   Georgia: Trump vs. SandersAtlanta Journal-Constitution
-    *   Sanders48
-    *   Trump44Sanders +4
+    *   Yang2
+    *   Klobuchar3
+    *   Steyer2
+    *   Booker2
+    *   Castro
+    *   Gabbard1Biden +15
+*   Pennsylvania: Trump vs. BidenMorning Call
+    *   Biden52
+    *   Trump43Biden +9
+*   Pennsylvania: Trump vs. WarrenMorning Call
+    *   Warren50
+    *   Trump45Warren +5
+*   Pennsylvania: Trump vs. SandersMorning Call
+    *   Sanders50
+    *   Trump45Sanders +5
 
 More Latest Polls In The News
 
-*   Rep. Meadows Rips CBS Reporter Over Depositions: "Your Characterization Is So Inherently Wrong And Biased"
-*   Trump on Impeachment Hearing: "I Haven't Watched For One Minute," "A Sham And Shouldn't Be Allowed"
+*   Clinton: Trump Shouldn't Use Impeachment As "Excuse" For Not "Going To Work For The American People"
+*   McCarthy: "Impeachment Has Overtaken Every Single Committee," Blocking USMCA Trade Deal
+*   Wolf Blitzer vs. Kellyanne Conway: Does Anybody At CNN Ever Feel Badly About Getting Everything So Wrong?
+*   CNN Undecided Wisconsin Voters On Impeachment Hearing: "I Thought It Would Be A Lot Worse"
 *   George Conway: Russia Wasn't About Trump, Because He Is So Self-Obsessed, The Probe Became About Him
-*   Nunes: Impeachment Hearings Are "A Televised Theatrical Performance Staged By The Democrats"
-*   Schiff Opening Statement At Impeachment Hearing: "If This Isn't Impeachable Conduct, What Is?"
 
 *   Politics
 *   Policy
