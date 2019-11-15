@@ -28,8 +28,9 @@ Date Range Date Range content loading
     
     View Device Requests
     
-    Device Requests by Year - Worldwide
-    
+    Device Requests by Year - Worldwide 70k60k50k40k30k20k10k0k79%201878%201767%201659%201560%201473%2013
+    *   Requests Received
+    *   Requests where Data Provided
 *   Financial Identifier
     
     Financial Identifier requests are based on financial identifiers such as credit/debit card or iTunes Gift Card.
