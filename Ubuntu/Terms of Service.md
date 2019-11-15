@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   Lessons learned from 100+ private cloud builds
+*   A technical comparison between the snap and the Flatpak formats
 *   foo.c
 *   Design and Web team summary – 8 November 2019
 *   Ubuntu updates to mitigate latest Intel hardware vulnerabilities
-*   Growing the Linux app Ecosystem at LAS 2019
-*   Open Infrastructure Summit Shanghai 2019: the highlights
 
 *    ›
