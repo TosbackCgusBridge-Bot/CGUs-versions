@@ -242,7 +242,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Free Shipping on Hoodies/Joggers + Orders Over $50**
+**Vests $18 &. Up GIRLS GUYS + FS Over $50/Jeans Orders**
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -297,6 +297,8 @@ Menu Find a Store Aeropostale
         *   Active
         *   Lounge
         *   Uniform
+    
+    https://staging-webstore-aeropostale.demandware.net/s/aeropostale/women-teen-girls/jackets-coats/
     
     *   View Home
     *   Tops
@@ -497,7 +499,128 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-OVER $50 Search Catalog Search Online Only. Limited Time Only. FREE SHIPPING On Purchases Over $50 or When You Buy Any **HOODIE OR JOGGER** Details Shop Girls Hoodies Shop Guys Hoodies Shop Girls Joggers Shop Guys Joggers Oneness is unity, celebrating individuality, living in harmony, and supporting one another. Oneness is unity, celebrating individuality, living in harmony, and supporting one another In Stores &. Online TAKE 50-70% OFF New Arrivals (Including Great Gifts) In Stores &. Online TAKE 50-70% OFF New Arrivals (Including Great Gifts) Shop Girls Shop Guys Shop Girls Shop Guys 21 FITS &. 94 WASHES #INAEROJEANS Available in Sizes 000-18. Short, Regular &. Long Short, Regular &. Long In Stores &. Online BUY 1 PAIR OF AERO JEANS GET 1 FREE IT'S THE SEASON TO GIFT &. GET Shop Girls Jeans Shop Guys Jeans In Stores &. Online BUY 1 PAIR OF AERO JEANS GET 1 FREE IT'S THE SEASON TO GIFT &. GET Shop Girls Jeans Shop Guys Jeans COME TOGETHER AS ONE · CELEBRATE AS ONE · COME TOGETHER AS ONE · CELEBRATE AS ONE · COME TOGETHER AS ONE · CELEBRATE AS ONE · COME TOGETHER AS ONE · CELEBRATE AS ONE · Be inspired by the unique, individual styles of our global ambassadors. Shop their looks. Enter Aero World Aeropostale believes in a world where Oneness is a worthy pursuit. In an age where bullying, polarizing news cycles and social pressures inundate our consciousness Aero Oneness sends a message of unity and celebrates that we are all wonderfully different and unique. Be inspired by the unique, individual styles of our global ambassadors. Shop their looks. Enter Aero World COME TOGETHER AS ONE · CELEBRATE AS ONE · COME TOGETHER AS ONE · CELEBRATE AS ONE · COME TOGETHER AS ONE · CELEBRATE AS ONE · COME TOGETHER AS ONE · CELEBRATE AS ONE · SLIM &. THICK CURVY JEAN Booty-enhancing jean with a magic gap-proof waistband that highlights your curves. Shop Curvy Jeans SLIM &. THICK CURVY JEAN Booty-enhancing jean with a magic gap-proof waistband that highlights your curves. Shop Curvy Jeans HOODIES &. SWEATSHIRTS Next-level statement layers designed to keep you warm while you stand out. In Stores &. Online $12 &. UP Shop Girls Shop Guys AERO OUTERWEAR Easy, everyday styles (feat. cozy puffers &. classic denim jackets with cool new details) OFFER AN EXTRA LAYER OF LOVE THIS HOLIDAY. OFFER AN EXTRA LAYER OF LOVE THIS HOLIDAY. In Stores &. Online $18 &. UP Shop Girls Shop Guys AERO GUYS TEES AERO GIRLS TEES Shop Girls Shop Guys In Stores &. Online AERO TEES BUY 1 GET 2 FREE Our Signature tees are specially washed and treated for a one-of-a-kind look and feel. Shop Girls Tees Shop Guys Tees #AEROWORLD Here, we are one. Tag @aeropostale and #AeroWorld for a chance to be featured on our site #InAero Rylie was adopted by Aero through Best Friends Animal Society. Follow her journey as the newest member of the Aero family on Instagram (@RylieTheRescue). To join Aero in donating over $200,000 to Best Friends Animal Society, round up your change to the nearest dollar or donate the amount of your choice in stores. Learn More In Stores &. Online CLEARANCE UP TO 80% OFF UP TO 80% OFF New Markdowns Added! Shop Girls Clearance Shop Guys Clearance #AEROWORLD Here, we are one. Tag @aeropostale and #AeroWorld for a chance to be featured on our site #InAero Rylie was adopted by Aero through Best Friends Animal Society. Follow her journey as the newest member of the Aero family on Instagram (@RylieTheRescue). To join Aero in donating over $200,000 to Best Friends Animal Society, round up your change to the nearest dollar or donate the amount of your choice in stores. Learn More <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. CHAT SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up © 2019 Aeropostale. All Rights Reserved. SIGN UP For AERO TEXTS Join the party!  
+OVER $50 Search Catalog Search
+
+In Stores &. Online
+
+50-70% Off New Arrivals
+
+Including Great Gifts! Details
+
+Take 50-70%  
+Off Everything
+
+Including New Arrivals Details
+
+Shop Girls Shop Guys
+
+**In Stores &. Online.** Premium insulation, insta-worthy colors &. patterns. Puff up the volume this holiday.
+
+**In Stores &. Online.**  
+Premium insulation, insta-worthy colors &. patterns.  
+Puff up the volume this holiday.
+
+PUFFER VESTS $18&. UP Shop Girls Puffer Vests Shop Guys Puffer Vests
+
+**In Stores &. Online**
+
+**In Stores &. Online. Doorbuster Preview:**
+
+AERO FAVES TO GIFT &. GET AERO FAVES  
+TO GIFT &. GET Previous Joggers &. sweats $X&. Up Girls Joggers Guys Joggers Girls Joggers  
+Guys Joggers Tees $X&. Up Girls Tees Guys Tees Girls Tees  
+Guys Tees Long Sleeves $X&. Up Girls Sleeves Guys Sleeves Girls Sleeves  
+Guys Sleeves HOODIES &. Sweatshirts $X&. Up Girls Hoodies Guys Hoodies Shop Girls Hoodies &. Sweatshirts  
+Shop Guys Hoodies &. Sweatshirts HOODIES &. Sweatshirts $X&. Up Girls Hoodies Guys Hoodies Shop Girls Hoodies &. Sweatshirts  
+Shop Guys Hoodies &. Sweatshirts Joggers &. sweats $X&. Up Girls Joggers Guys Joggers Girls Joggers  
+Guys Joggers Tees $X&. Up Girls Tees Guys Tees Girls Tees  
+Guys Tees Long Sleeves $X&. Up Girls Sleeves Guys Sleeves Girls Sleeves  
+Guys Sleeves HOODIES &. Sweatshirts $X&. Up Girls Hoodies Guys Hoodies Shop Girls Hoodies &. Sweatshirts  
+Shop Guys Hoodies &. Sweatshirts HOODIES &. Sweatshirts $X&. Up Girls Hoodies Guys Hoodies Shop Girls Hoodies &. Sweatshirts  
+Shop Guys Hoodies &. Sweatshirts Joggers &. sweats $X&. Up Girls Joggers Guys Joggers Girls Joggers  
+Guys Joggers Tees $X&. Up Girls Tees Guys Tees Girls Tees  
+Guys Tees Long Sleeves $X&. Up Girls Sleeves Guys Sleeves Girls Sleeves  
+Guys Sleeves Next
+
+**Online Only**  
+While Supplies Last
+
+**Online Only** While Supplies Last
+
+PUFFER  
+SCARF $6 PUFFER SCARF $6 With a purchase of $60 or more Pick Your Color
+
+**In Stores &. Online.** So warm and cozy, you’ll want to wear them out (and in).
+
+HOODIES &. SWEATSHIRTS $12&. UP
+
+**In Stores &. Online.**  
+So warm and cozy, you’ll want  
+to wear them out (and in).
+
+HOODIES &  
+SWEATSHIRTS Shop Girls Shop Guys Shop Girls Hoodies &. Sweatshirts Shop Guys Hoodies &. Sweatshirts
+
+**In Stores &. Online.**
+
+Jeans Buy 1 Get  
+1 Free Buy 1 Get 1 Free With 21 fits and 94 washes to choose from,  
+we have the perfect pair of jeans  
+for you and everyone on your list. Shop Girls Jeans  
+Shop Guys Jeans AERO GIFT  
+GUIDE AERO GIFT GUIDE
+
+We solved the impossible. Shop 100s of great gift ideas to get you in the spirit of giving.
+
+We solved the impossible. Shop 100s of great gift  
+ideas to get you in the spirit of giving.
+
+Starting at just $ 3
+
+Shop Girls Gifts Shop Guys Gifts
+
+**In Stores &. Online.**
+
+Graphic Tees Buy 1 Get  
+2 Free Buy 1 Get 2 Free Our absurdly soft &. stylish tees are  
+great to gift &. get. Shop Girls Graphic Tees  
+Shop Guys Graphic Tees
+
+Be inspired by the unique, personal styles of  
+our global ambassadors. Shop their looks.
+
+Enter Aero World #AeroWorld
+
+Where we come together as one.  
+Tag @aeropostale and #AeroWorld for a chance to be featured on our site #InAero
+
+Meet Rylie
+
+Rylie was adopted by Aero through Best Friends Animal Society. Follow her journey as the newest member of the Aero family on Instagram **@RylieTheRescue.**
+
+To join Aero in donating over $200,000 to Best Friends Animal Society, round up your change to the nearest dollar or donate the amount of your choice in stores.
+
+Learn More About Rylie &. Aero X Best Friends Learn More Gift  
+Cards Gift Cards The Gift That Always Fits Shop Gift Cards HOLIDAY  
+HELP DESK Just in the Nick of time
+
+Find a store, shop gift cards, and get that perfect gift delivered in time for the holidays
+
+Learn More
+
+In Stores &. Online
+
+Clearance Up to 80% off Clearance  
+Up to 80% off
+
+New Markdowns Added!
+
+Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance
+
+Aero Oneness is unity, celebrating individuality,  
+living in harmony, and supporting one another.
+
+<div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
@@ -535,3 +658,5 @@ Stay Connected
 *   Live Chat (9am - 12am EST) Call Us
 *   Use Student Discount
 *   Store FAQs
+
+© 2019 Aeropostale. All Rights Reserved. CHAT
