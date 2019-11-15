@@ -80,8 +80,8 @@ View more results
     *   Warbanner
     *   Total Front: Army War Game
     *   Apple Shooter: Arrow Game
-    *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Combat Reloaded
+    *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Slither.io
     *   Mr. Bullet
     *   Pixel Apocalypse
@@ -119,8 +119,8 @@ View more results
     *   Fireboy and Watergirl 5: Elements
     *   Five Nights at Freddy's 5
     *   Five Nights at Freddy's 4
-    *   Mine Clone 4
     *   Secret Office Kissing
+    *   Mine Clone 4
 *   Top Categories
     
     *   Bubble Shooter
@@ -144,7 +144,6 @@ View more results
     *   Cookie Crush 3
     *   Harvest Honors Classic: Multiplayer Harvester Game
     *   Bubble Shooter
-    *   Fireboy and Watergirl: The Forest Temple
     *   1001 Arabian Nights
     *   TenTrix
     *   Bubble Machine: 2 Player Game
@@ -153,6 +152,7 @@ View more results
     *   Crystical: 2 Player Puzzle Game
     *   Garden Tales
     *   Jewel Quest
+    *   Pyramid Solitaire Duel
 *   Top Categories
     
     *   Dress Up
@@ -215,8 +215,8 @@ View more results
     *   Hill Racing Challenge
     *   Thug Racer
     *   Uphill Rush 7: Waterpark
-    *   Real Street Racing
     *   Russian Car Driver
+    *   Real Street Racing
 *   Top Categories
     
     *   Athletics
@@ -247,7 +247,7 @@ View more results
     *   8-Ball
     *   Carrom Pool
     *   Baseball
-    *   Ultimate Boxing
+    *   Basketball Smash
 *   *   Multiplayer
     *   Action
     *   Adventure
