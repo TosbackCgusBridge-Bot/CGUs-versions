@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off full-price styles. free shipping no minimum!
+Receive 40% off full-price styles!
 
-code: BREEZY pin: PROMOTION DETAILS
+code: GOURD pin: PROMOTION DETAILS
 
 Customer Service Menu
 
