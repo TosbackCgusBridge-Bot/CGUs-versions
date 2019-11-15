@@ -1,3 +1,9 @@
+Cookies help us keep internet content free. By continuing to use our website or by clicking "Got It", you agree to the use of cookies. **Learn More**
+
+If you decline, your information won’t be tracked when you visit this website. A single cookie will be used in your browser to remember your preference not to be tracked.
+
+AcceptDecline
+
 *   Careers
 *   Ad Quality
 *   Login
@@ -32,6 +38,7 @@
         *   Swanson
         *   Hot Topic
         *   Visit Savannah
+        *   Tampa Bay Times
     *   Creative
 *   About Us
     *   Why Conversant
@@ -148,37 +155,7 @@ Our VP of product management shares three critical areas to explore when evaluat
 Watch the video >. SOME OF THE COMPANIES THAT  
 HARNESS OUR POWER
 
-Ready to talk? Contact us 
-
-*   Products
-    *   Our Approach
-    *   Marketing &. Media
-    *   Channels &. Formats
-    *   Creative
-    *   Ad Quality
-*   Industries
-    *   Retail
-    *   Restaurants
-    *   Travel
-    *   Financial Services
-    *   Media &. Entertainment
-    *   CPG
-    *   Grocery
-    *   Auto
-    *   ALL
-*   Resources
-*   About Us
-    *   Why Conversant
-    *   Power of Conversant
-    *   Our Management
-    *   In the News
-    *   Pressroom
-    *   Our Locations
-    *   Partners
-    *   Giving Back
-*   Publishers
-
-Let's Connect!
+Ready to talk? Contact us  LET'S CONNECT!
 
 *   Privacy Policy
 *   Terms of Use
@@ -189,4 +166,4 @@ Let's Connect!
 *   Login
 *   Contact
 
-© 2019  Conversant LLC. All rights reserved.
+© 2019 Conversant LLC. All rights reserved.
