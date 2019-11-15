@@ -210,4 +210,4 @@ If you have any questions or suggestions regarding our Privacy Policy, please co
 
 Go back to previous page or City-Data.com homepage.
 
-<div style="display: none;"><img src="http://pixel.quantserve.com/pixel/p-fcJqrRjuhwLnA.gif" height="1" width="1" alt="Quantcast"/></div>.
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-fcJqrRjuhwLnA.gif" height="1" width="1" alt="Quantcast"/></div>.
