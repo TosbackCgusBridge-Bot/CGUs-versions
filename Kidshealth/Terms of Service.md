@@ -45,12 +45,11 @@ Pixel tags are very small images or small pieces of data embedded in images, als
 
 If You are concerned about the information You have provided to KidsHealth or would like to review, update, or delete that information, please contact us at:
 
-KidsHealth  
-The Nemours Foundation  
-1600 Rockland Road  
-Wilmington, DE 19803  
-(302) 651-4046  
-info@KidsHealth.org
+The Nemours Privacy Office  
+10140 Centurion Parkway North  
+Jacksonville, FL 32256  
+(800) 472-6610  
+privacy@nemours.org
 
 KidsHealth will make reasonable efforts to comply with Your wishes.
 
