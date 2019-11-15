@@ -209,21 +209,19 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksRidiculous History: 3 Times Society Refused to Accept Books on New Science1STFoodStuff: The Science of Sour Beer2NDHow to Write an Acceptance Letter for a New Job3RDHow much should your child get for allowance?4THSoGoodly | SponsoredThese Twins Were Named "Most Beautiful In The World" Wait Till You See Them TodaySoGoodly | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredBon Voyaged | Sponsored20 Photos Captured At Airports That Will Make You Laugh Out LoudBon Voyaged | SponsoredBest Of Senior | SponsoredJamie Lee Curtis' Daughter Is Probably The Most Beautiful Girl In The WorldBest Of Senior | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksFoodStuff Makes Gin: FoodStuff Makes Gin1STFoodStuff: Marshmallows: Make, Eat, Repeat2NDFoodStuff: FoodStuff Gets Some Culture(d) Butter3RDFoodStuff: The Science of Sour Beer4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredIcePop | SponsoredRemote Airplanes That Are Still Sitting Where They Crashed, Waiting to Be RediscoveredIcePop | SponsoredLuxury Cruises | Search Ads | SponsoredYou've Never Seen Luxury Like This On A Cruise Ship. Research Luxury Mediterranean CruisesLuxury Cruises | Search Ads | SponsoredBest Of Senior | SponsoredBrad Pitt's Daughter Is Probably The Prettiest Girl AliveBest Of Senior | Sponsored
 
 Advertisement
 
-personal finance-taxesDoes Social Security continue after a spouse dies?BY Debra Ronca-FoodStuff Makes Gin: FoodStuff Makes Gin
-
-mental health-human natureWhat causes 'old person' smell?BY Laurie L. DoveDirectExpose | SponsoredThe Controversial Scene That Ended 'Bewitched'DirectExpose | SponsoredDaily Finance Stories | SponsoredHoney Boo Boo Is So Skinny Now And Looks Like A BarbieDaily Finance Stories | Sponsored
-
-Advertisement
+life science-evolutionFamily Tree of Homo Sapiens Continues to EvolveBY Diana Brownunder the hood-car trends &. innovationsIf Humans Were Built to Withstand a Car Crash, They Might Look Like ThisBY Ben Bowlinmilitary-firearms5 Surprising Facts About Gun SilencersBY Dave RoosDirectExpose | SponsoredThe Controversial Scene That Ended 'Bewitched'DirectExpose | SponsoredStadium Talk | SponsoredThese High Schools Have Produced the Most NBA PlayersStadium Talk | Sponsored
 
 Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorks10 Reasons Why You Should Care About Net NeutralityFoodStuff: Marshmallows: Make, Eat, RepeatWhy do most zippers say "YKK" on the pull-tab?Maine Coon Cats: Gentle Giants of the Feline WorldWhere Do Bullets Go When Guns Are Fired Straight Up Into the Air?Early Humans Mated With Inbred Neanderthals — at a Costby Taboolaby Taboola
+Advertisement
+
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksRidiculous History: 3 Times Society Refused to Accept Books on New ScienceWhy Do Monk Seals Get Eels Up Their Noses?Where do bullets go when guns are fired straight up into the air?Early Humans Mated With Inbred Neanderthals — at a CostWhere Do Bullets Go When Guns Are Fired Straight Up Into the Air?Why do most zippers say "YKK" on the pull-tab?by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -246,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Ridiculous History: 3 Times Society Refused to Accept Books on New ScienceRead Next StorySoGoodlyThese Twins Were Named "Most Beautiful In The World" Wait Till You See Them TodaySoGoodly|SponsoredSponsoredRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. FoodStuff Makes Gin: FoodStuff Makes GinRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StoryIcePopRemote Airplanes That Are Still Sitting Where They Crashed, Waiting to Be RediscoveredIcePop|SponsoredSponsoredRead Next Story
