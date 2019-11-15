@@ -1,4 +1,3 @@
-*   PIT5-4CLE3-6Thu, 8:20 pm ET
 *   NYJ2-7WAS1-8Sun, 1:00 pm ET
 *   NO7-2TB3-6Sun, 1:00 pm ET
 *   DEN3-6MIN7-3Sun, 1:00 pm ET
@@ -12,11 +11,13 @@
 *   CIN0-9OAK5-4Sun, 4:25 pm ET
 *   CHI4-5LA5-4Sun, 8:20 pm ET
 *   KC6-4LAC4-6Mon, 8:15 pm ET
+*   PIT5-57CLE4-621Final
 
 *   News
 *   Scores
 *   Schedule
 *   Standings
+*   Playoff Picture
 *   Highlights
 *   NFL 100
 *   Fantasy
@@ -35,7 +36,6 @@
 *   NFL Films
 *   Game Pass
 
-*   PIT5-4CLE3-6Thu, 8:20 pm ET
 *   NYJ2-7WAS1-8Sun, 1:00 pm ET
 *   NO7-2TB3-6Sun, 1:00 pm ET
 *   DEN3-6MIN7-3Sun, 1:00 pm ET
@@ -49,11 +49,13 @@
 *   CIN0-9OAK5-4Sun, 4:25 pm ET
 *   CHI4-5LA5-4Sun, 8:20 pm ET
 *   KC6-4LAC4-6Mon, 8:15 pm ET
+*   PIT7CLE21Final
 
 *   News
 *   Scores
 *   Schedule
 *   Standings
+*   Playoff Picture
 *   Highlights
 *   NFL 100
 
