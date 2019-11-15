@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Google forms App Defense Alliance
-    *   Freaking lasers can carry voice commands to smart devices
-    *   Adversary harboring DopplePaymer ransomware targets industrial sector
-    *   Former Twitter employees charged with using access to spy for Saudi Arabia
-    *   Steyer aide resigns after accessing volunteer data collected by Harris campaign
-    
-    *   Zurich rolls out cyber insurance coverage for manufacturers
-    *   California DMV exposed drivers' SSN details to federal gov't officials
-    *   Huawei meeting with bug bounty hackers
-    *   It's privacy vs. innovation as Google collects data on 50 million medical patients
-    *   ‘DIRT CLEAN’ -a technology rationalization approach for security controls
-    
+    *   Ransom payments averaging $41,000 per incident
+    *   Aventura Technologies sold Chinese-made security gear with bugs to gov't, feds say
     *   Russian who allegedly ran illegal Cardplanet site extradited to U.S.
-    *   Pemex claims victory over cyberattack. $4.9 million ransom reportedly demanded
-    *   Gates: Stone discussed WikiLeaks DNC email dump with Trump
-    *   VMware patches five security vulnerabilities
-    *   System bug gives Facebook access to iPhone cameras
+    *   Phishing emails spoof WebEx invites, abuse Cisco open redirect
+    *   Sumo Logic acquires Jask
+    
+    *   Bringing down the first cyber spy Robert Hanssen, Eric O’Neill tells his story
+    *   Ransom payments averaging $41,000 per incident
+    *   Former Twitter employees charged with using access to spy for Saudi Arabia
+    *   Post-Brexit, EU, U.K. must join forces on cybersecurity, top negotiator says
+    *   AnteFrigus ransomware leaves C alone, goes after other drives
+    
+    *   AnteFrigus ransomware leaves C alone, goes after other drives
+    *   Open database exposes 93M files on patients of substance abuse facilities
+    *   Arkansas AG reiterates need to report medical data breaches
+    *   ‘Kardashian jokes and then a really racist tweet': How Russian social media trolls suckered in Americans
+    *   Trump call with Sondland in Ukraine restaurant raises concerns over security breach
 
 Back to Top
 
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
