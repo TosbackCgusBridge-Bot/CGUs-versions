@@ -23,7 +23,7 @@ Shop Departments
     *   Same Day Pickup
     *   Weekly Ad
 
-Near YouFind a StoreBackDay 2 Of MAD DASH DEALSENDS IN23HOURS 41MINS 26SECS \*Offer ends 11/16/19 
+Near YouFind a StoreBackDay 3 Of MAD DASH DEALSENDS IN23HOURS 41MINS 27SECS \*Offer ends 11/16/19 
 
 *   SHOP ALL
 
@@ -50,26 +50,18 @@ SHOP ALLUP TO 50% OFF HOLIDAY DECORselect styles UP TO 50% OFF KITCHEN &. DINING
 *   MATTRESSES
 
 Everything you need to throw the ultimate feast!  
-Picked by Pinterest—get it here! THE LOCAL LOOKLocally curated, universally loved Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 29 total items loaded in Media GalleryFollow @jcpenney \*Buy one item at regular price, get a second and third item of equal or lesser value for free, while supplies last.  
-\*\*Nike, electronics and toys excluded from coupons.  
-Recommended for You
+Picked by Pinterest—get it here! THE LOCAL LOOKLocally curated, universally loved Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 29 total items loaded in Media GalleryFollow @jcpenney \*\*Nike, electronics and toys excluded from coupons.Recommended for You
 
-*   LIMITED TIME SPECIAL!
-    
-    $60
-    
-    Arizona Womens Galen Block Heel Zip Booties(80)
-*   $424 - $2974after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(249)
+*   $2549after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(82)
+*   $424 - $2974after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(251)
 *   MAD DASH DEAL!
     
-    $2974after couponwas $72 Xersion Water Resistant Lightweight Puffer Jacket(28)
-*   $764 - $1019after couponwas $27 St. John's Bay Active 1/4 Zip Fleece Pullover(46)
-*   LIMITED TIME SPECIAL!
+    $2974after couponwas $72 Xersion Water Resistant Lightweight Puffer Jacket(31)
+*   MAD DASH DEAL!
     
-    $70
-    
-    a.n.a Womens Alford Stacked Heel Motorcycle Boots(29)
-*   $679after couponwas $17 St. John's Bay-Womens Crew Neck Long Sleeve T-Shirt(148)
+    $1019after couponwas $27 St. John's Bay Active 1/4 Zip Fleece Pullover(49)
+*   $3399after couponwas $70 a.n.a Womens Alford Stacked Heel Motorcycle Boots(32)
+*   $679after couponwas $17 St. John's Bay-Womens Crew Neck Long Sleeve T-Shirt(153)
 
 Shop JCPenney Black Friday Deals
 
