@@ -73,8 +73,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie News: Colin Farrell is The Penguin for ‘The Batman,’ ‘Fantastic Beasts’ Goes to Brazil and More Read More
-    *   The Week in Movie Trailers: ‘The Invisible Man,’ Pixar’s ‘Soul,’ ‘Bad Boys for Life’ and More Read More
+    *   The Week in Movie News: DC’s ‘Black Adam’ Set for 2021, ‘The Little Mermaid’ Finds Its Prince Eric and More Read More
+    *   The Week in Movie Trailers: Kristen Stewart in ‘Seberg,’ Scooby-Doo in ’Scoob!’ and More Read More
     *   Next 3 Suspense Thrillers: 'Black Christmas,' 'Underwater,' 'The Turning' Read More
     
     Explore Content
