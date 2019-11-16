@@ -307,9 +307,9 @@ Lenovo Explore Close
         *   Trade In Program
         *   Outlet
         
-        Days of Deals
+        SALE
         
-        Click here to shop new deals every day &. save up to $900 on select PC's. Sale ends 11/17
+        Shop amazing deals on laptops, desktops, accessories &. more!
         
 *   Phones
 *   Data Center
@@ -606,7 +606,7 @@ Lenovo Explore Close
 1-855-253-6686
 
 *   Search
-
+*   icon-compare0 Compare Compare (0)
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
@@ -678,7 +678,13 @@ Lenovo Explore Close
 
 Top Suggestions
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
+
+Please add at least 2 products for compare
+
+Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
+
+Lenovo Privacy Statement Top
 
 protects better"/>.
 
