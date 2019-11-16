@@ -440,7 +440,7 @@ Does this answer your question? Yes No s
 *   What is the return and exchange policy?
 *   Terms of Use
 *   What is the shipping policy?
-*   CA Privacy Rights
+*   Product Recalls
 
 SAVE 10%: Sign Up for Emails or Texts! FREE SHIPPING EVERY DAY! PLUS, FREE RETURNS
 
