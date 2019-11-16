@@ -1,4 +1,4 @@
-Skip to main content Free Standard U.S. Shipping Every Day on Orders $99+\* Free Standard U.S. Shipping on Orders $99+\* days hr min Left for Thanksgiving Delivery 1-800-REPLACE (1-800-737-5223) MENU Open main menu Shopping Cart 0 CART Close main menu Sign In / Create Account Home My Account China - Dinnerware
+Skip to main content Free Standard U.S. Shipping Every Day on Orders $99+\* Free Standard U.S. Shipping on Orders $99+\* 10days13hr26min Left for Thanksgiving Delivery 1-800-REPLACE (1-800-737-5223) MENU Open main menu Shopping Cart 0 CART Close main menu Sign In / Create Account Home My Account China - Dinnerware
 
 *   Brands A-Z
 *   Register Your Pattern
@@ -211,7 +211,7 @@ When you are in contact with Replacements, Ltd. and you request or share product
 
 Communications With You
 
-We may email and/or mail you for marketing purposes and you agree to receive email and/or mail from us. For example, when you create or update an account, request product or services information, or order from us and provide your email address, in addition to periodic updates related to your interests, you will receive email related to our products, services, specials, events, and promotions. If you decide that you do not wish to receive this communication by email, there are clearly marked opt out instructions at the bottom of each correspondence.
+We may email and/or mail you for marketing purposes and you agree to receive email and/or mail from us. For example, when you create or update an account, request product or services information, or order from us and provide your email address, in addition to periodic updates related to your pattern interests, you will receive email related to our other products, services, and promotions. If you decide that you do not wish to receive this communication by email, there are clearly marked opt out instructions at the bottom of each correspondence.
 
 We may also email you or otherwise use your information to share information with you or respond to your requests or questions.
 
@@ -329,10 +329,10 @@ Greensboro, NC 27420-6029
 
 Your Consent
 
-By using our website, you signify your consent to the Privacy Policy of Replacements, Ltd., and to the collection and use of your personal information as described herein. Please check this page regularly. If we post an updated Privacy Policy, you agree to the terms of the posted Privacy Policy by your continued use of our website.
+By using our website, you signify your consent to the Privacy Policy of Replacements, Ltd. and to the collection and use of your personal information as described herein. Please check this page regularly. If we post an updated Privacy Policy, you agree to the terms of the posted Privacy Policy by your continued use of our website.
 
-Last Updated: 10/08/2019
+Last Updated: 11/15/2019
 
 Help &. Info Contact Us Return Policy Shipping &. Handling Gift Cards Our Company Our Story Frequently Asked Questions In the News Careers Our Blog Designer Program Services Pattern Identification Help Find This For Me Restoration and Repair Other Services 1-800-REPLACE | My Account Follow Us 1-800-REPLACE Our Blog Designer Program Terms &. Conditions | Site Map | Privacy Policy © 2019 Replacements, Ltd. All rights reserved. 1089 Knox Road McLeansville, NC 27301, USA <iframe src='//www.googletagmanager.com/ns.html?id=GTM-PR6WVR' height='0' width='0' style='display:none;visibility:hidden'></iframe>. × Search with China Photo   Take a Photo   Use Photo Library Choose a photo or drag it into the box For best results: USE China-dinnerware Plate front Solid background DON'T USE Crystal or silver Backstamps Tablesetting TOP
 
-<img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2617602201571&amp;noscript=1">. <img src="https://events.xg4ken.com/pixel/v2?tid=KT-N3354-3EB&amp;noscript=1" width="1" height="1" style="display:none">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2038432706376108&amp;ev=PageView&amp;noscript=1">
+<img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2617602201571&amp;noscript=1">. <img src="https://events.xg4ken.com/pixel/v2?tid=KT-N3354-3EB&amp;noscript=1" width="1" height="1" style="display:none">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2038432706376108&amp;ev=PageView&amp;noscript=1">. Celebrate Family Traditions×Holiday Accent PlatesCrystal &. Glassware FavsSilver ServersEstate Jewelry &. Watches
