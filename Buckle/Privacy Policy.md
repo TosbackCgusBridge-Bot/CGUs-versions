@@ -6,14 +6,14 @@ Shop Now or Learn More.
 *   FIND A STORE
 *   800.607.9788
 
-Guest Loyalty Members, win our Gifted Getaway!  
-Shop Now or Enroll Today.
+Military guests enjoy 10% off &. free shipping on orders of $129.  
+Shop Now or Learn More.
 
 *   Women
 *   Men
 *   Kids
 *   Jeans
-*   Shoes
+*   GIFTS
 *   Sale
 
 *   SearchSearchSubmit
@@ -248,70 +248,46 @@ Shop Now or Enroll Today.
         *   Women’s Factory Seconds
         *   Men’s Factory Seconds
         *   Shop All Factory Seconds JeansGive a Buckle Gift card
-*   Shoes
-    *   *   Women's Shoes
+*   GIFTS
+    *   *   Gift Guide
         
-        *   Booties
-        *   Boots
-        *   Casuals
-        *   Flips &. Slides
-        *   Heels
-        *   Sandals
-        *   Sneakers
-        *   Wedges
-        *   Western Boots
-        *   Sale Shoes
-        *   Shop All
+        *   gift(ed) guide
+        *   his jeans
+        *   her jeans
+        *   boys jeans
+        *   girls jeans
+        *   Gift Cards
+        *   gifted with Buckle
         
-        *   Men's Shoes
+        *   Gifts by Price
         
-        *   Boots
-        *   Casuals
-        *   Dress Shoes
-        *   Flips
-        *   Slides
-        *   Sneakers
-        *   Sale Shoes
-        *   Shop All
+        *   $0-$25
+        *   $25-$50
+        *   $50-$75
+        *   $75-$100
+        *   $100-$150
+        *   $150 &. Up
         
-        *   Women's Brands
+        *   Stocking Stuffers
         
-        *   Mi.iM
-        *   New Balance
-        *   Timberland®
-        *   Sorel
-        *   Blowfish
-        *   UGG®
-        *   TOMS
-        *   Puma
-        *   Corral
-        *   Shop All
+        *   Bags
+        *   Boxers
+        *   Cologne
+        *   Fragrance
+        *   Hats
+        *   Jewelry
+        *   Socks
+        *   Sunglasses
+        *   Wallets
+        *   Watches
         
-        *   Men's Brands
+        *   Seamless Services
         
-        *   Hey Dude
-        *   TOMS
-        *   Timberland®
-        *   Reef
-        *   Puma
-        *   New Balance
-        *   Steve Madden
-        *   Crevo
-        *   UGG®
-        *   Shop All
-        
-        *   Shop By Size
-        
-        *   5 - 5.5
-        *   6 - 6.5
-        *   7 - 7.5
-        *   8 - 8.5
-        *   9 - 9.5
-        *   10 - 10.5
-        *   11 - 11.5
-        *   12
-        *   13 - Men's Only
-        *   14 - Men's OnlyGive a Buckle Gift card
+        *   Buckle App
+        *   Find Your Store
+        *   Personal Styling
+        *   Ship to Store
+        *   Wish ListGive a Buckle Gift card
 *   Sale
     *   *   Featured Sale
         
