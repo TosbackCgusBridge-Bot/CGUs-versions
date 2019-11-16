@@ -10,7 +10,7 @@ Don't post videos that encourage others to do things that might cause them to ge
 
 Hateful content
 
-Our products are platforms for free expression. But we don't support content that promotes or condones violence against individuals or groups based on race or ethnic origin, religion, disability, gender, age, nationality, veteran status, or sexual orientation/gender identity, or whose primary purpose is inciting hatred on the basis of these core characteristics. This can be a delicate balancing act, but if the primary purpose is to attack a protected group, the content crosses the line. Learn more
+Our products are platforms for free expression. But we don't support content that promotes or condones violence against individuals or groups based on race or ethnic origin, religion, disability, gender, age, nationality, veteran status, caste, sexual orientation, or gender identity, or content that incites hatred on the basis of these core characteristics. Learn more
 
 Violent or graphic content
 
