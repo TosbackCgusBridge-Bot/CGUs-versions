@@ -18,7 +18,6 @@
     *   All mortgage calculators
     
     Get Advice
-    *   FED announcement's impact on mortgage rates
     *   What to know about reverse mortgages
     *   Home buying guide
     *   Refinance your mortgage
