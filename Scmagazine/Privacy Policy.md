@@ -213,22 +213,22 @@ Attention: Chief Digital Officer
     *   Recent
     
     *   Ransom payments averaging $41,000 per incident
-    *   Aventura Technologies sold Chinese-made security gear with bugs to gov't, feds say
-    *   Russian who allegedly ran illegal Cardplanet site extradited to U.S.
-    *   Phishing emails spoof WebEx invites, abuse Cisco open redirect
-    *   Sumo Logic acquires Jask
-    
-    *   Bringing down the first cyber spy Robert Hanssen, Eric O’Neill tells his story
-    *   Ransom payments averaging $41,000 per incident
-    *   Former Twitter employees charged with using access to spy for Saudi Arabia
-    *   Post-Brexit, EU, U.K. must join forces on cybersecurity, top negotiator says
-    *   AnteFrigus ransomware leaves C alone, goes after other drives
-    
-    *   AnteFrigus ransomware leaves C alone, goes after other drives
-    *   Open database exposes 93M files on patients of substance abuse facilities
-    *   Arkansas AG reiterates need to report medical data breaches
     *   ‘Kardashian jokes and then a really racist tweet': How Russian social media trolls suckered in Americans
-    *   Trump call with Sondland in Ukraine restaurant raises concerns over security breach
+    *   Pemex claims victory over cyberattack. $4.9 million ransom reportedly demanded
+    *   Sumo Logic acquires Jask
+    *   Trend Micro hit with insider attack
+    
+    *   Microsoft Patch Tuesday covers 13 critical vulnerabilities
+    *   Threat actor impersonates German, Italian and American gov't agencies to spread malware
+    *   OpenText picks up Carbonite for $1.42B
+    *   Zurich rolls out cyber insurance coverage for manufacturers
+    *   Former Twitter employees charged with using access to spy for Saudi Arabia
+    
+    *   APT33 sics small, elusive botnets on U.S. and global targets
+    *   Design flaw leaves Bluetooth devices vulnerable
+    *   Extensive personal health information exposed in Solara Medical data breach
+    *   Report: Influential manufacturing trade group targeted by Chinese hackers
+    *   Using security orchestration to simplify IoT defense in depth
 
 Back to Top
 
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
