@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Nicholas Kristof_: If Trump Were Anyone Else...
+*   _Daniel Lippman_: Trump's Style: 'He Does Nothing Without a Quid Pro Quo'
     
-*   _Liz Harrington_: Democrats' Latest Attempt to Overturn the Election Will Fail
+*   _Julie Kelly_: Biden's Ukraine Problem Keeps Tripping Up Media, Dems
     
-*   _Renato Mariotti_: Democrats Have All the Evidence They Need
+*   _Swanee Hunt_: Marie Yovanovitch's Strikingly Courageous Move
     
-*   _Sharyl Attkisson_: The President, Not Diplomats, Sets 'Official Foreign Policy'
+*   _Rep. Devin Nunes_: Why Is Marie Yovanovitch Even Testifying?
     
-*   _Dahlia Lithwick_: What You'd Have to Believe to Let Trump Off the Hook
+*   _Stephanie Murray_: Patrick Swipes at Biden, Warren as He Enters Dem Battle
     
-*   _Susan Crabtree_: Yovanovitch's Moment: Will Her Testimony Help Democrats?
+*   _Rebecca Traister_: Lessons From 6 Dem Women Running for President
     
-*   _Michael Dougherty_: 'Epstein Didn't Kill Himself': A Meme With a Serious Point
+*   _David Harsanyi_: Nothing Democrats Are Proposing Will Stop Mass Shootings
     
-*   _Caitlin Flanagan_: The Dishonesty of the Abortion Debate
+*   _Vin Gupta_: How to Defeat the NRA Using a Tested Playbook
     
-*   _Sean Trende_: What the Entry of Patrick and Bloomberg May Mean for Biden
+*   _John Kass_: Northwestern University, Journalism &. Cancel Culture
     
-*   _Masha Gessen_: 2 Irreconcilable Realities of the Impeachment Hearings
+*   _David Ignatius_: People Died While Trump Played Games With Ukraine
     
-*   _Karl Rove_: Impeachment Becomes a Pratfall Comedy
+*   _Barbara Boland_: Choking on the Dems' Ukraine Fantasy Narrative
     
-*   _Daniel Henninger_: The Take Down Trump Project
+*   _Nate Cohn_: The Democratic Front-Runners Shouldn't Look Back
     
-*   _John Harris_: Trump Exposed: A Brutal Day for the President
+*   _Roger L. Simon_: Why 2020 Dems Are a 'Bonfire of the Mediocrities'
     
-*   _Michael Goodwin_: That's All the Democrats Have Got?
+*   _Libby Watson_: Only Wall Street Elites Want a Deval Patrick Candidacy
     
-*   _Susan Glasser_: The GOP's Plan: Keep Impeachment Partisan
+*   _Albert Hunt_: Bloomberg's Path to the Convention - and Beyond
     
-*   _James Piereson_: On the Use of Impeachment as an Election Strategy
+*   _Arnon Mishkin_: Good News for Trump: Late Entries Further Divide Dems
     
-*   _Perry Bacon_: Why Deval Patrick Is Making a Late Bid
+*   _Peter Nicholas_: President Trump Is Surrounded
     
-*   _Karin McQuillan_: Democrats Are Failing the Reality Test
+*   _Adriana Cohen_: Impeachment Antics Are All Smoke and Mirrors
     
-*   _S.E. Cupp_: Hillary Clinton, Get Real
+*   _David Remnick_: The Sober Clarity of the Impeachment Witnesses
     
-*   _Brady &. Parker_: The Impact of Voter Second Choices as 2020 Dems Drop Out
+*   _Tucker Carlson &. Neil Patel_: What Impeachment Is Really About
     
-*   _Froma Harrop_: Bloomberg, Billionaires and Boobery
+*   _Robert Kuttner_: Let's Hear It for the Deep State
     
-*   _Charles Gasparino_: Why a 2nd Term? Trump Delivers on Economic Promises
+*   _Rep. Steve Scalise_: America Must Hear From the Whistleblower
     
-*   _Uri Friedman_: How Trump's 'Green Light' Moment in Syria Shook the World
+*   _Joan Walsh_: Stop Comparing Trump Impeachment Probe to Watergate
     
-*   _Joe Kent_: I'm a Gold Star Husband &. Vet: Trump Right to End 9/11 Wars
+*   _Steve Cortes_: How Team Trump Should Talk About Impeachment
     
 
 *   Previous
@@ -236,9 +236,9 @@ RecommendedPolitics
 *   Investigations
 
 *   Yovanovitch's Moment: Will Testimony Help Democrats or Republicans?
-*   A Daylong Back-and-Forth as House Dems Launch Public Hearings
+*   What the Entry of Patrick and Bloomberg May Mean for Biden
 *   Blitzer vs. Conway: Anybody at CNN Feel Badly About Getting Everything Wrong?
-*   Ex-Massachusetts Gov. Patrick Announces Presidential Bid
+*   A Daylong Back-and-Forth as House Dems Launch Public Hearings
 *   U.S. and Turkey Have Friendly Talks, But Differences Persist
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -252,35 +252,47 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   North Carolina Democratic Presidential PrimaryHigh Point
-    *   Biden33
-    *   Warren13
+*   Nevada Democratic Presidential CaucusFOX News
+    *   Biden24
+    *   Warren18
     *   Sanders18
-    *   Buttigieg4
-    *   Harris5
+    *   Buttigieg8
+    *   Steyer5
+    *   Harris4
+    *   Yang3
+    *   Klobuchar2
+    *   Gabbard2
+    *   Booker1
+    *   Castro1
+    *   Bennet0Biden +6
+*   North Carolina Democratic Presidential PrimaryFOX News
+    *   Biden37
+    *   Warren15
+    *   Sanders14
+    *   Buttigieg6
+    *   Harris4
     *   Yang2
-    *   Klobuchar3
     *   Steyer2
+    *   Klobuchar1
     *   Booker2
-    *   Castro
-    *   Gabbard1Biden +15
-*   Pennsylvania: Trump vs. BidenMorning Call
-    *   Biden52
-    *   Trump43Biden +9
-*   Pennsylvania: Trump vs. WarrenMorning Call
-    *   Warren50
-    *   Trump45Warren +5
-*   Pennsylvania: Trump vs. SandersMorning Call
-    *   Sanders50
-    *   Trump45Sanders +5
+    *   Castro0
+    *   Gabbard2
+    *   Bennet1
+    *   Bullock1Biden +22
+*   Nevada: Trump vs. BidenFOX News
+    *   Biden47
+    *   Trump40Biden +7
+*   Nevada: Trump vs. WarrenFOX News
+    *   Warren44
+    *   Trump41Warren +3
 
 More Latest Polls In The News
 
+*   Marie Yovanovitch Says President Trump's Tweet During Her Testimony Was "Very Intimidating"
 *   Clinton: Trump Shouldn't Use Impeachment As "Excuse" For Not "Going To Work For The American People"
 *   McCarthy: "Impeachment Has Overtaken Every Single Committee," Blocking USMCA Trade Deal
 *   Wolf Blitzer vs. Kellyanne Conway: Does Anybody At CNN Ever Feel Badly About Getting Everything So Wrong?
 *   CNN Undecided Wisconsin Voters On Impeachment Hearing: "I Thought It Would Be A Lot Worse"
-*   George Conway: Russia Wasn't About Trump, Because He Is So Self-Obsessed, The Probe Became About Him
 
 *   Politics
 *   Policy
