@@ -2,6 +2,7 @@
 
 *   Who we are
 *   Benefits
+*   Explorer
 *   Community Values
 *   Events
 *   Privileges
@@ -119,6 +120,8 @@ This policy became effective on 2 May 2018.
 *   Press
 *   Careers
 *   ASW Foundation
+*   Write for Us
+*   Partnerships
 *   Privacy Policy
 *   Terms of Service
 *   Investor Relations
