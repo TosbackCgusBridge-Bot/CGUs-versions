@@ -242,7 +242,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Vests $18 &. Up GIRLS GUYS + FS Over $50/Jeans Orders**
+**$6 Puffer Scarf W/ $60 Purchase + FS Over $50/Jeans Orders**
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -297,8 +297,6 @@ Menu Find a Store Aeropostale
         *   Active
         *   Lounge
         *   Uniform
-    
-    https://staging-webstore-aeropostale.demandware.net/s/aeropostale/women-teen-girls/jackets-coats/
     
     *   View Home
     *   Tops
@@ -659,4 +657,4 @@ Stay Connected
 *   Use Student Discount
 *   Store FAQs
 
-© 2019 Aeropostale. All Rights Reserved. CHAT
+© 2019 Aeropostale. All Rights Reserved. CHAT close dialogGet in the know and receiveUp to 50-70% OffEverythingPlease enter aboveAccess today's dealsI don't want 50-70% offExclusions apply. Cannot be combined with other offers.You've snagged up to 50-70% off everythingCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSStart Shoppingclose dialog
