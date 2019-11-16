@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   15\. November 2019
+*   16\. November 2019
 *   Abo
-*   DAX 13.180,23ǀ
+*   DAX 13.241,75ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -51,8 +51,6 @@ Anmelden
         *   Unternehmen &. Märkte
         *   Staat &. Soziales
         *   Young-Money-Blog
-        *   Innovationen
-        *   Nachhaltigkeit
     *   *   Brutto-Netto-Rechner
         *   Jobsuche
         *   Wirtschaft erleben
@@ -113,7 +111,6 @@ Anmelden
         *   Technik
         *   Weltall
         *   Medizin
-        *   Mondlandung
     *   *   Sudoku
 *   Gesundheit
     
@@ -152,7 +149,6 @@ Anmelden
         *   Deutschland
         *   Europa
         *   Fernweh
-        *   Australien-Reisen
     
 *   Mobilität
     
@@ -169,8 +165,8 @@ Anmelden
         *   Hotels
         *   S-Magazin
     
-*   Backstage
 
+*   Backstage
 *   English
     
     *   *   Front Page
@@ -181,7 +177,6 @@ Anmelden
         *   Zeitgeist
         *   Newsletter
 *   SPIEGEL AKADEMIE
-*   SPIEGEL Ed
 *   DER SPIEGEL live
 *   DER SPIEGEL
     
