@@ -78,6 +78,7 @@
     View All Categories Shop by Category*   Thanksgiving Gifts
     *   Christmas Gifts
     *   Holiday Entertaining
+    *   Stocking Stuffers
     
     Occasions*   Birthday Gifts
     *   Gifts for Her
@@ -170,6 +171,7 @@
     View All Categories Shop by Category*   Thanksgiving Gifts
     *   Christmas Gifts
     *   Holiday Entertaining
+    *   Stocking Stuffers
     
     Occasions*   Birthday Gifts
     *   Gifts for Her
