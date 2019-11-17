@@ -130,7 +130,7 @@ Search  Opens a dialog.
     *   Contact The Private Bank
     *   Contact Wells Fargo Advisors
     *   Contact Abbot Downing
-*   Rewards and Benefits Rewards and Benefits Go Far™ Rewards
+*   Rewards and Benefits Rewards and Benefits Go Far® Rewards
     
     *   Explore Rewards
     *   Earn Rewards
