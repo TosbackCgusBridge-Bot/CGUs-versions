@@ -9,12 +9,42 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
-    *   Free People Starting at $20
-    *   Hobo Handbags
-    *   Free People Movement Up to 60% Off
+    *   Designer Sun ft. Prada
+    *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
+    *   Young Fabulous &. Broke
+    *   Must-Have Circle Bags &. Crossbodies
+    *   Champion Men Under $50
+    *   Gemstones, Diamonds &. More Up to 80% Off
+    *   Elodie Under $45
+    *   Marc Fisher LTD Up to 60% Off
+    *   Do + Be Under $45
+    *   DKNY Lingerie &. Sleep Under $35
+    *   Catherine Catherine Malandrino Up to 60% Off
+    *   ORA Derma Roller &. Microdermabrasion Tools
+    *   Robert Barakett
+    *   Ted Baker London Men's Shoes
+    *   Free Shipping: Wall Decor &. Accents
+    *   Trending Sneakers &. More ft. Report
+    *   Calvin Klein Outerwear Up to 60% Off
+    *   Fresh Finds: Shoes from $40
+    *   Roberto Cavalli Watches &. More Up to 70% Off
+    *   Cozy Cashmere Accessories Up to 60% Off
+    *   The Cool List: Roxy &. Quiksilver
+    *   Must-Have Tech Accessories Starting at $15
+    *   Quality Quilt Sets &. Bedding
+    *   Organization Essentials &. More Under $24
+    *   Modern Fiction Up to 60% Off
+    *   Pastourelle by Pippa and Julie
+    *   Nautica Boys
+    *   Best in Beauty: Palettes, Lips &. More
+    *   Nautica Kids &. More Up to 60% Off
     *   Steve Madden Up to 55% Off
     *   Steve Madden Men Up to 55% Off
     *   Steve Madden Bags &. Accessories Up to 50% Off
+    
+    *   Free People Starting at $20
+    *   Free People Movement Up to 60% Off
+    *   Hobo Handbags
     *   Knyt &. Lynk Cashmere
     *   Work Essentials ft. T Tahari Incl. Plus &. Petites
     *   Free People Intimates Starting at $10
@@ -38,23 +68,13 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Free Shipping: Hand-Painted Oil Reproductions
     *   adidas Kids' Active
     *   Bring on Bedtime: Kids' Pajamas Up to 60% Off
-    *   Men's Lounge ft. Richer Poorer
-    
     *   LAGOS Jewelry Up to 50% Off
     *   Donald Pliner Up to 60% Off
-    *   Desigual
-    *   Taylor &. Gabby Skye Incl. Plus &. Petites
     *   Donald Pliner Men Up to 60% Off
-    *   Parisian Chic: FRNCH Up to 60% Off
-    *   Nixon Watches Up to 60% Off
-    *   Office to Ooh-La-La: Skirts from $20
-    *   Charles by Charles David Up to 55% Off
-    *   Felina Intimates
-    *   Leather Bags ft. Cole Haan &. Liebeskind Berlin
     *   Look Cool, Stay Warm: Men's Hoodies, Coats &. More
-    *   Seychelles Up to 55% Off
     *   bebe Girls Up to 70% Off
     *   Winter Staples: Men's Flannels, Henleys &. Denim
+    
     *   Celebrity Strands Hair Extensions Up to 70% Off
     *   Spyder Outerwear &. More Up to 65% Off
     *   One-Stop Shop: Christmas Decor
@@ -62,18 +82,11 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Bacco Bucci
     *   Soft Stags Slippers &. More for Men
     *   Holiday Head Start: Rockabye Rockers
-    *   JOE'S Jeans Up to 60% Off
-    *   JOE'S Jeans Men Up to 65% Off
     *   Free Shipping: Down &. Memory Foam Essentials
-    *   Personalized Style: Initial Necklaces &. More
-    *   JOE'S Jeans Sleep &. Lingerie Under $30
     *   Swims
-    *   JOE'S Jeans Kids Up to 55% Off
     *   Billabong Starting at $15
-    
     *   Dr. Martens Men
     *   Quirky &. Fun Towels, Coasters and More
-    *   Skechers Kids from $20
     *   Nars Up to 55% Off
     *   Spa-Like Luxury Beauty Devices
     *   Velvette: Natural Facial, Body &. Hair Oils
@@ -86,29 +99,40 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Algenist Skin Care Up to 65% Off
     *   Manna Kadar Cosmetics Up to 55% Off
     *   Korean Beauty: COSRX &. More Starting at $10
-    *   English Laundry Up to 60% Off
-    *   Broken Homme
     *   Kendra Scott Home Decor
-    *   The Original Makeup Eraser
-    *   Clearogen &. Rejuve Skin Care
-    *   Sway Natural Deodorants &. More
     *   Mer-Sea &. Co Luxe Candles and Diffusers
-    *   Free Shipping: BergHOFF Up to 55% Off
     *   Free Shipping: Donna Salyers' Fabulous Furs
     *   Free Shipping: Pet-Friendly Covers &. More
     *   Free Shipping: Wall Decals Starting at $10
-    *   Best of Tech from $15
-    *   Free Shipping: Vanity Storage &. More Up to 45% Off
-    *   Cozy Bedding &. Throws Up to 60% Off
+    *   Men's Lounge ft. Richer Poorer
     *   Prep for Success: Kitchen Storage &. Gadgets
+    *   Free Shipping: BergHOFF Up to 55% Off
 *   WomenShop Sale Events
     
-    *   Free People Starting at $20
-    *   Hobo Handbags
-    *   Free People Movement Up to 60% Off
+    *   Designer Sun ft. Prada
+    *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
+    *   Young Fabulous &. Broke
+    *   Must-Have Circle Bags &. Crossbodies
+    *   Gemstones, Diamonds &. More Up to 80% Off
+    *   Elodie Under $45
+    *   Marc Fisher LTD Up to 60% Off
+    *   Do + Be Under $45
+    *   DKNY Lingerie &. Sleep Under $35
+    *   Catherine Catherine Malandrino Up to 60% Off
+    *   ORA Derma Roller &. Microdermabrasion Tools
+    *   Trending Sneakers &. More ft. Report
+    *   Calvin Klein Outerwear Up to 60% Off
+    *   Fresh Finds: Shoes from $40
+    *   Roberto Cavalli Watches &. More Up to 70% Off
+    *   Cozy Cashmere Accessories Up to 60% Off
+    *   Best in Beauty: Palettes, Lips &. More
     *   Steve Madden Up to 55% Off
     *   Steve Madden Bags &. Accessories Up to 50% Off
+    *   Free People Starting at $20
+    *   Free People Movement Up to 60% Off
+    *   Hobo Handbags
     *   Knyt &. Lynk Cashmere
+    
     *   Work Essentials ft. T Tahari Incl. Plus &. Petites
     *   Free People Intimates Starting at $10
     *   Freida Rothman Jewelry
@@ -124,59 +148,46 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   K-Beauty Skin Care ft. Let Me Skin &. LA MUSE
     *   LAGOS Jewelry Up to 50% Off
     *   Donald Pliner Up to 60% Off
-    *   Desigual
-    
-    *   Taylor &. Gabby Skye Incl. Plus &. Petites
-    *   Parisian Chic: FRNCH Up to 60% Off
-    *   Nixon Watches Up to 60% Off
-    *   Office to Ooh-La-La: Skirts from $20
-    *   Charles by Charles David Up to 55% Off
-    *   Felina Intimates
-    *   Leather Bags ft. Cole Haan &. Liebeskind Berlin
-    *   Seychelles Up to 55% Off
     *   Celebrity Strands Hair Extensions Up to 70% Off
     *   Luxe Skin Care from $15
-    *   JOE'S Jeans Up to 60% Off
-    *   Personalized Style: Initial Necklaces &. More
-    *   JOE'S Jeans Sleep &. Lingerie Under $30
     *   Nars Up to 55% Off
     *   Spa-Like Luxury Beauty Devices
     *   Velvette: Natural Facial, Body &. Hair Oils
     *   Algenist Skin Care Up to 65% Off
     *   Manna Kadar Cosmetics Up to 55% Off
     *   Korean Beauty: COSRX &. More Starting at $10
-    *   The Original Makeup Eraser
-    *   Clearogen &. Rejuve Skin Care
     
     Shop By Category
     *   Clothing
-    *   Jewelry
     *   Shoes
+    *   Jewelry
     *   Handbags
     *   Lingerie &. Shapewear
     *   Accessories
     *   Watches
 *   MenShop Sale Events
     
+    *   Designer Sun ft. Prada
+    *   Champion Men Under $50
+    *   Robert Barakett
+    *   Ted Baker London Men's Shoes
+    *   Roberto Cavalli Watches &. More Up to 70% Off
+    *   Modern Fiction Up to 60% Off
     *   Steve Madden Men Up to 55% Off
     *   Men's Parkas &. Down Up to 70% Off
     *   Wolverine Men
     *   Keep Calm &. Carry-On: Luggage Up to 75% Off
-    *   BEARPAW Men
-    *   Men's Lounge ft. Richer Poorer
-    *   Donald Pliner Men Up to 60% Off
-    *   Nixon Watches Up to 60% Off
-    *   Look Cool, Stay Warm: Men's Hoodies, Coats &. More
     
+    *   BEARPAW Men
+    *   Donald Pliner Men Up to 60% Off
+    *   Look Cool, Stay Warm: Men's Hoodies, Coats &. More
     *   Winter Staples: Men's Flannels, Henleys &. Denim
     *   Bacco Bucci
     *   Soft Stags Slippers &. More for Men
-    *   JOE'S Jeans Men Up to 65% Off
     *   Swims
     *   Billabong Starting at $15
     *   Dr. Martens Men
-    *   English Laundry Up to 60% Off
-    *   Broken Homme
+    *   Men's Lounge ft. Richer Poorer
     
     Shop By Category
     *   Clothing
@@ -185,28 +196,35 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Watches
 *   KidsShop Sale Events
     
+    *   The Cool List: Roxy &. Quiksilver
+    *   Pastourelle by Pippa and Julie
+    *   Nautica Boys
+    *   Nautica Kids &. More Up to 60% Off
     *   Steve Madden Kids
     *   Pretend-Play Toys ft. Little Tikes &. KidKraft
+    
     *   adidas Kids' Active
     *   Bring on Bedtime: Kids' Pajamas Up to 60% Off
     *   bebe Girls Up to 70% Off
     *   Spyder Outerwear &. More Up to 65% Off
     *   Holiday Head Start: Rockabye Rockers
-    *   JOE'S Jeans Kids Up to 55% Off
-    *   Skechers Kids from $20
     
     Shop By Category
-    *   Girls' Shoes
     *   Toy Shop
     *   Girls' Sizes 7-16
     *   Boys' Sizes 8-20
+    *   Girls' Shoes
     *   Girls' Sizes 2T-6X
     *   Boys' Sizes 2T-7
     *   Boys' Shoes
-    *   Baby Boy
     *   Baby Girl
+    *   Baby Boy
 *   HomeShop Sale Events
     
+    *   Free Shipping: Wall Decor &. Accents
+    *   Must-Have Tech Accessories Starting at $15
+    *   Quality Quilt Sets &. Bedding
+    *   Organization Essentials &. More Under $24
     *   Free Shipping: Framed Art Up to 60% Off
     *   Free Shipping: Hand-Painted Oil Reproductions
     *   One-Stop Shop: Christmas Decor
@@ -214,21 +232,18 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Quirky &. Fun Towels, Coasters and More
     *   Nambe
     *   Kitchen Must-Haves from Cuisinart
+    
     *   Gift or Get: Smart Watch Bands, Chargers &. More
     *   Be Thankful &. Merry: Holiday Decor from $15
     *   Holiday Bakeware Starting at $10
     *   Tis the Season: Gnomes &. More Holiday Decor
-    
     *   Kendra Scott Home Decor
     *   Mer-Sea &. Co Luxe Candles and Diffusers
-    *   Free Shipping: BergHOFF Up to 55% Off
     *   Free Shipping: Donna Salyers' Fabulous Furs
     *   Free Shipping: Pet-Friendly Covers &. More
     *   Free Shipping: Wall Decals Starting at $10
-    *   Best of Tech from $15
-    *   Free Shipping: Vanity Storage &. More Up to 45% Off
-    *   Cozy Bedding &. Throws Up to 60% Off
     *   Prep for Success: Kitchen Storage &. Gadgets
+    *   Free Shipping: BergHOFF Up to 55% Off
     
     Shop By Category
     *   Home Decor
@@ -237,26 +252,24 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Luggage &. Travel
     *   Electronic &. Tech Accessories
     *   Pet Accessories
-    *   Outdoor Living
     *   Rugs &. Doormats
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   ORA Derma Roller &. Microdermabrasion Tools
+    *   Best in Beauty: Palettes, Lips &. More
     *   Mirenesse Australia Starting at $15
     *   Best Selling Hair Tools
     *   K-Beauty Skin Care ft. Let Me Skin &. LA MUSE
     *   Celebrity Strands Hair Extensions Up to 70% Off
     *   Luxe Skin Care from $15
+    
     *   Nars Up to 55% Off
     *   Spa-Like Luxury Beauty Devices
-    
     *   Velvette: Natural Facial, Body &. Hair Oils
     *   Algenist Skin Care Up to 65% Off
     *   Manna Kadar Cosmetics Up to 55% Off
     *   Korean Beauty: COSRX &. More Starting at $10
-    *   The Original Makeup Eraser
-    *   Clearogen &. Rejuve Skin Care
-    *   Sway Natural Deodorants &. More
     
     Shop By Category
     *   Skin Care
