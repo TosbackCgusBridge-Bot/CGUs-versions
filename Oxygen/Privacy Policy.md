@@ -18,8 +18,10 @@ Main menu
     *   All Shows
         *   A Wedding and a Murder
         *   Chicago P.D.
+        *   Criminal Confessions
         *   Dark Web Exposed
         *   Dateline: Secrets Uncovered
+        *   Homicide for the Holidays
         *   Killer Couples
         *   Killer Motive
         *   Killer Siblings
@@ -37,10 +39,10 @@ Main menu
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV01:39 Crime News 3 Teacher/Student Sex Scandals 17:51 Searching For Searching For Akia Eggleston 02:04 The Disappearance Of Susan Cox Powell The Disappearance of Susan Cox Powell: Steve Powell's Disturbing Obsession
+    *   Watch Live TV01:00 The Disappearance of the Millbrook Twins The Disappearance of The Millbrook Twins Premieres Saturday, November 23rd 01:39 Crime News 3 Teacher/Student Sex Scandals 01:18 Buried in the Backyard Buried in the Backyard Bonus: Police Question Kenny Linscott (Season 2, Episode 1)
 *   News
     *   Crime News
-    *   True Crime BuzzCrime News Did the Menendez Brothers Get What They Deserved? Crime News Man In Wolf Mask Murders Pregnant Ex-Wife On Halloween Night Searching For Did Someone Plant Akia Eggleston’s Debit Card?
+    *   True Crime BuzzTaylor Rose Williams Photo: Jacksonville Sheriffs Office Crime News Missing 5-Year-Old Was Allegedly Left Home Alone Often The Disappearance of the Millbrook Twins Preview 'The Disappearance of the Millbrook Twins' Now Mollie Tibbetts Crime News New Details Emerge In Mollie Tibbetts' Murder
 *   Podcasts
 *   Detective's Den
 *   Schedule
