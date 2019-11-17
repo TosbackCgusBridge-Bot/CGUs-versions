@@ -212,17 +212,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Ransom payments averaging $41,000 per incident
-    *   ‘Kardashian jokes and then a really racist tweet': How Russian social media trolls suckered in Americans
-    *   Pemex claims victory over cyberattack. $4.9 million ransom reportedly demanded
-    *   Sumo Logic acquires Jask
-    *   Trend Micro hit with insider attack
-    
     *   Microsoft Patch Tuesday covers 13 critical vulnerabilities
-    *   Threat actor impersonates German, Italian and American gov't agencies to spread malware
+    *   Bugcrowd breaks its weekly bounty payout record
+    *   With election on horizon, U.K.'s Labour Party contends with DDoS attacks
     *   OpenText picks up Carbonite for $1.42B
-    *   Zurich rolls out cyber insurance coverage for manufacturers
-    *   Former Twitter employees charged with using access to spy for Saudi Arabia
+    *   Buran ransomware detailed, found to be based on VegaLocker
+    
+    *   Google forms App Defense Alliance
+    *   VMware patches five security vulnerabilities
+    *   SC Media wins top honor at Eddie &. Ozzie Awards
+    *   Gates: Stone discussed WikiLeaks DNC email dump with Trump
+    *   Ransomware attack knocks SmarterASP.net customers knocked offline
     
     *   APT33 sics small, elusive botnets on U.S. and global targets
     *   Design flaw leaves Bluetooth devices vulnerable
