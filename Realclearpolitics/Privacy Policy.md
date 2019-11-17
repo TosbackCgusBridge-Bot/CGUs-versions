@@ -118,6 +118,40 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Mark Hemingway_: Where Were the Whistleblowers on Biden and His Son?
+    
+*   _Susan Glasser_: Marie Yovanovitch's Uncynical Outrage
+    
+*   _Susan Crabtree_: Yovanovitch Admits to 'Appearance of Conflict' in Bidens' Role
+    
+*   _David Corn_: Yovanovitch Showcases Trump's Obsession With Revenge
+    
+*   _Aaron Mate_: The Brennan Dossier and the False Collusion Narrative
+    
+*   _Gabriel DeBenedetti_: Obama Tells His Party's Elites to Relax
+    
+*   _Matt Taibbi_: Deval Patrick and the Democrats' 2020 Clown Car Disaster
+    
+*   _Attorney General William Barr_: The Executive Branch and the Vision of the Founders
+    
+*   _Paul Krugman_: Trump and His Party of Pollution
+    
+*   _David Harsanyi_: Paul Krugman: Always Wrong, Never in Doubt
+    
+*   _Joel Kotkin_: America's Profound Clash of Values With China
+    
+*   _David Brooks_: In Praise of Washington Insiders
+    
+*   _Michael Tracey_: George Kent's Myth of Ukraine's Modern-Day 'Minutemen'
+    
+*   _Matthew Yglesias_: Is Trump's Black Outreach Gaining Ground?
+    
+*   _Malaika Jabali_: Kanye West Spreads the Gospel of White Evangelicals
+    
+*   _Alexandra DeSanctis_: An Honest Abortion Debate: Response to Caitlin Flanagan
+    
+*   _Kyle Spencer_: The Rise of the Battleground Campus
+    
 *   _Daniel Lippman_: Trump's Style: 'He Does Nothing Without a Quid Pro Quo'
     
 *   _Julie Kelly_: Biden's Ukraine Problem Keeps Tripping Up Media, Dems
@@ -131,40 +165,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Rebecca Traister_: Lessons From 6 Dem Women Running for President
     
 *   _David Harsanyi_: Nothing Democrats Are Proposing Will Stop Mass Shootings
-    
-*   _Vin Gupta_: How to Defeat the NRA Using a Tested Playbook
-    
-*   _John Kass_: Northwestern University, Journalism &. Cancel Culture
-    
-*   _David Ignatius_: People Died While Trump Played Games With Ukraine
-    
-*   _Barbara Boland_: Choking on the Dems' Ukraine Fantasy Narrative
-    
-*   _Nate Cohn_: The Democratic Front-Runners Shouldn't Look Back
-    
-*   _Roger L. Simon_: Why 2020 Dems Are a 'Bonfire of the Mediocrities'
-    
-*   _Libby Watson_: Only Wall Street Elites Want a Deval Patrick Candidacy
-    
-*   _Albert Hunt_: Bloomberg's Path to the Convention - and Beyond
-    
-*   _Arnon Mishkin_: Good News for Trump: Late Entries Further Divide Dems
-    
-*   _Peter Nicholas_: President Trump Is Surrounded
-    
-*   _Adriana Cohen_: Impeachment Antics Are All Smoke and Mirrors
-    
-*   _David Remnick_: The Sober Clarity of the Impeachment Witnesses
-    
-*   _Tucker Carlson &. Neil Patel_: What Impeachment Is Really About
-    
-*   _Robert Kuttner_: Let's Hear It for the Deep State
-    
-*   _Rep. Steve Scalise_: America Must Hear From the Whistleblower
-    
-*   _Joan Walsh_: Stop Comparing Trump Impeachment Probe to Watergate
-    
-*   _Steve Cortes_: How Team Trump Should Talk About Impeachment
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Yovanovitch's Moment: Will Testimony Help Democrats or Republicans?
+*   Yovanovitch Admits to "Appearance of Conflict" in Bidens' Role
+*   Nunes: Why Is Marie Yovanovitch Even Testifying?
+*   Yovanovitch: Trump's Tweet During Testimony "Very Intimidating"
 *   What the Entry of Patrick and Bloomberg May Mean for Biden
-*   Blitzer vs. Conway: Anybody at CNN Feel Badly About Getting Everything Wrong?
-*   A Daylong Back-and-Forth as House Dems Launch Public Hearings
-*   U.S. and Turkey Have Friendly Talks, But Differences Persist
+*   The Impact of Voter Second Choices as 2020 Dems Drop Out
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,6 +252,19 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   Iowa Democratic Presidential CaucusDM Register/CNN
+    *   Buttigieg25
+    *   Warren16
+    *   Biden15
+    *   Sanders15
+    *   Klobuchar6
+    *   Harris3
+    *   Yang3
+    *   Steyer3
+    *   Gabbard3
+    *   Booker3
+    *   Bloomberg2
+    *   Bennet1Buttigieg +9
 *   Nevada Democratic Presidential CaucusFOX News
     *   Biden24
     *   Warren18
@@ -282,17 +295,14 @@ Latest PollsAll Polls
 *   Nevada: Trump vs. BidenFOX News
     *   Biden47
     *   Trump40Biden +7
-*   Nevada: Trump vs. WarrenFOX News
-    *   Warren44
-    *   Trump41Warren +3
 
 More Latest Polls In The News
 
+*   AG Barr: The Left Trying To "Sabotage" Trump With A Scorched Earth, No Holds Barred War Of Resistance
+*   Brooks: Yovanovitch Put Emotion Into Impeachment, It Should Be Contrast Between Good And Bad People
 *   Marie Yovanovitch Says President Trump's Tweet During Her Testimony Was "Very Intimidating"
-*   Clinton: Trump Shouldn't Use Impeachment As "Excuse" For Not "Going To Work For The American People"
-*   McCarthy: "Impeachment Has Overtaken Every Single Committee," Blocking USMCA Trade Deal
+*   Nunes to Yovanovitch: Why Are You Even Testifying? You Admitted You Have No Firsthand Knowledge
 *   Wolf Blitzer vs. Kellyanne Conway: Does Anybody At CNN Ever Feel Badly About Getting Everything So Wrong?
-*   CNN Undecided Wisconsin Voters On Impeachment Hearing: "I Thought It Would Be A Lot Worse"
 
 *   Politics
 *   Policy
