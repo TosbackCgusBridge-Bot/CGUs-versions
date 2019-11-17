@@ -1,6 +1,6 @@
 Free Shipping over $99See DetailsEnable Accessibility
 
-*   My AccountSign InTrack MyOrders
+*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -23,7 +23,7 @@ Shop Departments
     *   Same Day Pickup
     *   Weekly Ad
 
-Near YouFind a StoreBackDay 3 Of MAD DASH DEALSENDS IN23HOURS 41MINS 27SECS \*Offer ends 11/16/19 
+Near YouFind a StoreBackFinal Hours! MAD DASH DEALSENDS IN00HOURS 41MINS 28SECS  
 
 *   SHOP ALL
 
@@ -52,16 +52,16 @@ SHOP ALLUP TO 50% OFF HOLIDAY DECORselect styles UP TO 50% OFF KITCHEN &. DINING
 Everything you need to throw the ultimate feast!  
 Picked by Pinterest—get it here! THE LOCAL LOOKLocally curated, universally loved Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 29 total items loaded in Media GalleryFollow @jcpenney \*\*Nike, electronics and toys excluded from coupons.Recommended for You
 
-*   $2549after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(82)
-*   $424 - $2974after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(251)
+*   $2549after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(84)
+*   $424 - $2974after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(252)
 *   MAD DASH DEAL!
     
-    $2974after couponwas $72 Xersion Water Resistant Lightweight Puffer Jacket(31)
+    $1019after couponwas $27 St. John's Bay Active 1/4 Zip Fleece Pullover(52)
 *   MAD DASH DEAL!
     
-    $1019after couponwas $27 St. John's Bay Active 1/4 Zip Fleece Pullover(49)
+    $2974after couponwas $72 Xersion Water Resistant Lightweight Puffer Jacket(34)
 *   $3399after couponwas $70 a.n.a Womens Alford Stacked Heel Motorcycle Boots(32)
-*   $679after couponwas $17 St. John's Bay-Womens Crew Neck Long Sleeve T-Shirt(153)
+*   $3399after couponwas $80 Arizona Womens Dino Wide Calf Block Heel Riding Boots
 
 Shop JCPenney Black Friday Deals
 
