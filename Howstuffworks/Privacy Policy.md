@@ -209,17 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksRidiculous History: 3 Times Society Refused to Accept Books on New Science1STHow Machine Guns Work2NDGreat-great-Grandma's Swimsuit Was a Hot Mess3RDFamily Tree of Homo Sapiens Continues to Evolve4THKelley Blue Book | Sponsored10 Electric Cars That Last the LongestKelley Blue Book | SponsoredSoGoodly | SponsoredThese Twins Were Named "Most Beautiful In The World" Wait Till You See Them TodaySoGoodly | SponsoredTop 5 | SponsoredHer Belly Keeps Growing, Doctor Sees Scan And Calls AuthoritiesTop 5 | SponsoredDirectExpose | SponsoredThe Controversial Scene That Ended 'Bewitched'DirectExpose | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksHow much should your child get for allowance?1STDoes Social Security continue after a spouse dies?2NDHow to Write an Acceptance Letter for a New Job3RDWhere Do Bullets Go When Guns Are Fired Straight Up Into the Air?4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredHear Nature Speak | Supplement | SponsoredNew Invention From War Vet Stops The Constant RingingHear Nature Speak | Supplement | SponsoredBon Voyaged | Sponsored20 Photos Captured At Airports That Will Make You Laugh Out LoudBon Voyaged | SponsoredSoGoodly | SponsoredThese Twins Were Named "Most Beautiful In The World" Wait Till You See Them TodaySoGoodly | Sponsored
 
 Advertisement
 
-scienceWhere do bullets go when guns are fired straight up into the air?
-
-home improvement-household hints &. tipsWhy do most zippers say "YKK" on the pull-tab?
-
-transportation-flightGraphic Info: Plane Crashes
-
-Bon Voyaged | Sponsored20 Photos Captured At Airports That Will Make You Laugh Out LoudBon Voyaged | SponsoredBest Of Senior | SponsoredBrad Pitt's Daughter Is Probably The Prettiest Girl AliveBest Of Senior | Sponsored
+mental health-human natureWhat causes 'old person' smell?BY Laurie L. Dovelife science-evolutionEarly Humans Mated With Inbred Neanderthals — at a CostBY Robert Lambwild animals-insects &. arachnidsCockroaches Karate-Kick Wasps to Avoid Becoming ZombiesBY Nathan ChandlerTop 5 | SponsoredHer Belly Keeps Growing, Doctor Sees Scan And Calls AuthoritiesTop 5 | SponsoredBest Of Senior | SponsoredBrad Pitt's Daughter Is Probably The Prettiest Girl AliveBest Of Senior | Sponsored
 
 Advertisement
 
@@ -227,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhat will Earth look like in 500 years?Meet '\`Oumuamua,' the Strange Interstellar Asteroid That Sent Us a MessageEarly Humans Mated With Inbred Neanderthals — at a CostWhere Do Bullets Go When Guns Are Fired Straight Up Into the Air?Bob Lazar, UFO HoaxsterWhat causes 'old person' smell?by Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhy do most zippers say "YKK" on the pull-tab?Ridiculous History: 3 Times Society Refused to Accept Books on New ScienceWhy Do Monk Seals Get Eels Up Their Noses?Where do bullets go when guns are fired straight up into the air?If Humans Were Built to Withstand a Car Crash, They Might Look Like ThisWhat If You Eat Moldy Bread?by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -250,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Ridiculous History: 3 Times Society Refused to Accept Books on New ScienceRead Next StoryKelley Blue Book10 Electric Cars That Last the LongestKelley Blue Book|SponsoredSponsoredRead Next StorySoGoodlyThese Twins Were Named "Most Beautiful In The World" Wait Till You See Them TodaySoGoodly|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. How much should your child get for allowance?Read Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StoryHear Nature Speak | SupplementNew Invention From War Vet Stops The Constant RingingHear Nature Speak | Supplement|SponsoredSponsoredRead Next Story
