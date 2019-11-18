@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Mark Hemingway_: Where Were the Whistleblowers on Biden and His Son?
+*   _Reps. Biggs &. Hice_: Will Vulnerable Dems Revolt Against Impeachment Vote?
     
-*   _Susan Glasser_: Marie Yovanovitch's Uncynical Outrage
+*   _Albert Hunt_: Impeachment Hearings Likely to Get Worse for Republicans
     
-*   _Susan Crabtree_: Yovanovitch Admits to 'Appearance of Conflict' in Bidens' Role
+*   _Chuck de Caro_: Our Ambassadors Used to Be Made of Sterner Stuff
     
-*   _David Corn_: Yovanovitch Showcases Trump's Obsession With Revenge
+*   _Maureen Dowd_: Republicans Are the Real Chickens of Kiev
     
-*   _Aaron Mate_: The Brennan Dossier and the False Collusion Narrative
+*   _Noah Millman_: Inexperience Is One of Buttigieg's Greatest Assets
     
-*   _Gabriel DeBenedetti_: Obama Tells His Party's Elites to Relax
+*   _Kyle Smith_: Bloomberg's Presidential Run Doesn't Have a Hope in Hell
     
-*   _Matt Taibbi_: Deval Patrick and the Democrats' 2020 Clown Car Disaster
+*   _Jonny Dymond_: 'Little Apology or Remorse' From Prince Andrew
     
-*   _Attorney General William Barr_: The Executive Branch and the Vision of the Founders
+*   _Ken Cuccinelli_: We Need to Tighten Up Loopholes in Our Asylum Laws
     
-*   _Paul Krugman_: Trump and His Party of Pollution
+*   _Max Burns_: Trump's Trade War Is Killing Small Farmers
     
-*   _David Harsanyi_: Paul Krugman: Always Wrong, Never in Doubt
+*   _Carl Anderson_: Mass Christian Exodus From Mideast Would Be a Catastrophe
     
-*   _Joel Kotkin_: America's Profound Clash of Values With China
+*   _Andrew Ferguson_: Can Marriage Counseling Save America?
     
-*   _David Brooks_: In Praise of Washington Insiders
+*   _Renato Mariotti_: Trump Is Writing His Own Articles of Impeachment
     
-*   _Michael Tracey_: George Kent's Myth of Ukraine's Modern-Day 'Minutemen'
+*   _Michael Goodwin_: Pelosi Has Gone Full Cuckoo in Impeachment Push
     
-*   _Matthew Yglesias_: Is Trump's Black Outreach Gaining Ground?
+*   _Jennifer Weiner_: I’m Sorry, Is Impeachment Not Entertaining Enough for You?
     
-*   _Malaika Jabali_: Kanye West Spreads the Gospel of White Evangelicals
+*   _Paul Mulshine_: What's Biden Hidin'? 'Kid Pro Quo' Dooms His 2020 Run
     
-*   _Alexandra DeSanctis_: An Honest Abortion Debate: Response to Caitlin Flanagan
+*   _Robert Reich_: Why Elizabeth Warren Scares the Whole Establishment
     
-*   _Kyle Spencer_: The Rise of the Battleground Campus
+*   _James Robbins_: Warren's Wealth Tax Plan Is Unconstitutional
     
-*   _Daniel Lippman_: Trump's Style: 'He Does Nothing Without a Quid Pro Quo'
+*   _Peter Beinart_: Nikki Haley Is Playing a Long Game
     
-*   _Julie Kelly_: Biden's Ukraine Problem Keeps Tripping Up Media, Dems
+*   _Matthew Continetti_: What Will Post-Trump Republican Voters Want?
     
-*   _Swanee Hunt_: Marie Yovanovitch's Strikingly Courageous Move
+*   _Glassman &. Hundt_: Trump Could Suffer Landslide Defeat But Still Win
     
-*   _Rep. Devin Nunes_: Why Is Marie Yovanovitch Even Testifying?
+*   _Branko Marcetic_: MSNBC Is Ignoring the Bernie Sanders Campaign
     
-*   _Stephanie Murray_: Patrick Swipes at Biden, Warren as He Enters Dem Battle
+*   _John Tierney_: Journalists Against Free Speech
     
-*   _Rebecca Traister_: Lessons From 6 Dem Women Running for President
+*   _Daniel DePetris_: U.S. Must Try to Thaw Its Relationship With Russia
     
-*   _David Harsanyi_: Nothing Democrats Are Proposing Will Stop Mass Shootings
+*   _Minxin Pei_: China's Risky Endgame in Hong Kong
     
 
 *   Previous
@@ -259,50 +259,63 @@ Latest PollsAll Polls
     *   Sanders15
     *   Klobuchar6
     *   Harris3
-    *   Yang3
     *   Steyer3
+    *   Yang3
     *   Gabbard3
     *   Booker3
     *   Bloomberg2
-    *   Bennet1Buttigieg +9
-*   Nevada Democratic Presidential CaucusFOX News
-    *   Biden24
-    *   Warren18
-    *   Sanders18
-    *   Buttigieg8
-    *   Steyer5
-    *   Harris4
-    *   Yang3
-    *   Klobuchar2
-    *   Gabbard2
-    *   Booker1
-    *   Castro1
-    *   Bennet0Biden +6
-*   North Carolina Democratic Presidential PrimaryFOX News
-    *   Biden37
-    *   Warren15
-    *   Sanders14
-    *   Buttigieg6
-    *   Harris4
-    *   Yang2
-    *   Steyer2
-    *   Klobuchar1
-    *   Booker2
     *   Castro0
-    *   Gabbard2
-    *   Bennet1
-    *   Bullock1Biden +22
-*   Nevada: Trump vs. BidenFOX News
-    *   Biden47
-    *   Trump40Biden +7
+    *   Bullock0Buttigieg +9
+*   Iowa Democratic Presidential CaucusCBS News/YouGov
+    *   Buttigieg21
+    *   Warren18
+    *   Biden22
+    *   Sanders22
+    *   Klobuchar5
+    *   Harris5
+    *   Steyer2
+    *   Yang1
+    *   Gabbard0
+    *   Booker1
+    *   Bloomberg
+    *   Castro1
+    *   Bullock1Tie
+*   New Hampshire Democratic Presidential PrimaryCBS News/YouGov
+    *   Warren31
+    *   Biden22
+    *   Sanders20
+    *   Buttigieg16
+    *   Klobuchar3
+    *   Gabbard0
+    *   Yang1
+    *   Harris3
+    *   Steyer1
+    *   Booker1
+    *   Bennet0
+    *   Sestak0
+    *   Castro0Warren +9
+*   Nevada Democratic Presidential CaucusCBS News/YouGov
+    *   Biden33
+    *   Warren21
+    *   Sanders23
+    *   Buttigieg9
+    *   Harris4
+    *   Steyer2
+    *   Yang1
+    *   Klobuchar2
+    *   Booker2
+    *   Castro1
+    *   Gabbard0
+    *   Bennet0
+    *   Williamson0Biden +10
 
 More Latest Polls In The News
 
+*   Jim Jordan: "There Was Never A Quid-Pro-Quo" On Ukraine Like The Democrats Promised
 *   AG Barr: The Left Trying To "Sabotage" Trump With A Scorched Earth, No Holds Barred War Of Resistance
 *   Brooks: Yovanovitch Put Emotion Into Impeachment, It Should Be Contrast Between Good And Bad People
 *   Marie Yovanovitch Says President Trump's Tweet During Her Testimony Was "Very Intimidating"
 *   Nunes to Yovanovitch: Why Are You Even Testifying? You Admitted You Have No Firsthand Knowledge
-*   Wolf Blitzer vs. Kellyanne Conway: Does Anybody At CNN Ever Feel Badly About Getting Everything So Wrong?
 
 *   Politics
 *   Policy
