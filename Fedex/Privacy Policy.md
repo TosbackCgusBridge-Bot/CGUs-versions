@@ -1,6 +1,6 @@
 *   Shipping Create a Shipment Shipping Rates &. Delivery Times Shipping Rates &. Delivery Times Schedule &. Manage Pickups Packing &. Shipping Supplies International Shipping Guide In-Store Shipping Services ALL SHIPPING SERVICES
 *   Tracking Tracking ID Tracking ID TRACK Advanced Shipment Tracking Manage Your Delivery ALL TRACKING SERVICES
-*   Printing Services Start Online Printing Order Posters, Signs &. Banners Presentations &. Manuals Marketing Materials Ideas &. Custom Solutions Get Coupons &. Deals ALL PRINTING SERVICES
+*   Design &. Print Start Online Printing Order Custom Design Templates Posters, Signs &. Banners Marketing Materials Get Coupons &. Deals ALL PRINTING SERVICES
 *   Locations All Location Types Find a Location
 *   Support New Customer Center Small Business Center FedEx Service Guide Account Management Tools File a Claim View &. Pay Bill Customer Support
 
