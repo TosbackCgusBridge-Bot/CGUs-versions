@@ -212,17 +212,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
+    *   Trump call with Sondland in Ukraine restaurant raises concerns over security breach
+    *   Intel launches security blog, pushes security patches
+    *   How to deliver cybersecurity awareness training that works
     *   Microsoft Patch Tuesday covers 13 critical vulnerabilities
-    *   Bugcrowd breaks its weekly bounty payout record
-    *   With election on horizon, U.K.'s Labour Party contends with DDoS attacks
-    *   OpenText picks up Carbonite for $1.42B
-    *   Buran ransomware detailed, found to be based on VegaLocker
+    *   Maine’s InterMed suffers data breach, 30,000 affected
     
+    *   Report: Influential manufacturing trade group targeted by Chinese hackers
     *   Google forms App Defense Alliance
-    *   VMware patches five security vulnerabilities
-    *   SC Media wins top honor at Eddie &. Ozzie Awards
-    *   Gates: Stone discussed WikiLeaks DNC email dump with Trump
-    *   Ransomware attack knocks SmarterASP.net customers knocked offline
+    *   Russian who allegedly ran illegal Cardplanet site extradited to U.S.
+    *   Phishing emails spoof WebEx invites, abuse Cisco open redirect
+    *   System bug gives Facebook access to iPhone cameras
     
     *   APT33 sics small, elusive botnets on U.S. and global targets
     *   Design flaw leaves Bluetooth devices vulnerable
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
