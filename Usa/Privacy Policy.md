@@ -188,9 +188,9 @@ Join 10,000+ professionals in construction, manufacturing, architecture, enginee
 
 Learn more about AU
 
-The Future of Making Connect information across the construction-project lifecycle
+Welcome to the new era of connected construction Introducing Autodesk Construction Cloud™
 
-Work smarter with Autodesk software solutions for construction management—connecting technologies, people, and processes across the entire project lifecycle.
+We’ve combined advanced technology, a network of builders, and powerful predictive insights to connect all stages of the building lifecycle: design, plan, build, and operate.
 
 LEARN MORE
 
