@@ -5,47 +5,45 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Ford v Ferrari
     *   Midway (2019)
-    *   Doctor Sleep
+    *   Charlie's Angels (2019)
     *   Playing with Fire (2019)
     *   Last Christmas (2019)
-    *   Terminator: Dark Fate
+    *   Doctor Sleep
+    *   The Good Liar
     *   Joker (2019)
     *   Maleficent: Mistress of Evil
     *   Harriet (2019)
-    *   Zombieland: Double Tap
-    *   The Addams Family (2019)
-    *   Jojo Rabbit
+    *   Terminator: Dark Fate
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Charlie's Angels (2019)
-    *   Ford v Ferrari
-    *   The Good Liar
-    *   Everybody's Everything
-    *   The Warrior Queen of Jhansi
-    *   Scandalous: The Untold Story of the National Enquirer
-    *   Shakira In Concert: El Dorado World Tour
-    *   Waves (2019)
+    *   21 Bridges
+    *   A Beautiful Day in the Neighborhood
+    *   Frozen II
+    *   Citizen K
+    *   Dark Waters (2003)
+    *   Shooting the Mafia
+    *   When Lambs Become Lions
     *   See All Opening This Week
     
     Pre Sales Tickets
     
     *   Star Wars: The Rise of Skywalker (2019)
-    *   Frozen II
     
     Coming Soon
     
-    *   A Beautiful Day in the Neighborhood
-    *   21 Bridges
     *   Knives Out
     *   Queen &. Slim
     *   Playmobil: The Movie
     *   Black Christmas (2019)
     *   Jumanji: The Next Level
-    *   Bombshell (2019)
+    *   Richard Jewell
     *   Uncut Gems
+    *   Bombshell (2019)
+    *   Cats (2019)
     *   See All Coming Soon
     
     Explore More
@@ -75,7 +73,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   The Week in Movie News: DC’s ‘Black Adam’ Set for 2021, ‘The Little Mermaid’ Finds Its Prince Eric and More Read More
     *   The Week in Movie Trailers: Kristen Stewart in ‘Seberg,’ Scooby-Doo in ’Scoob!’ and More Read More
-    *   Next 3 Suspense Thrillers: 'Black Christmas,' 'Underwater,' 'The Turning' Read More
+    *   Next 3 Best Actress Awards Contenders: 'Seberg,' 'Bombshell,' 'Little Women' Read More
     
     Explore Content
     *   Movie Reviews
