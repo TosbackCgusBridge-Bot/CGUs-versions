@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Trump call with Sondland in Ukraine restaurant raises concerns over security breach
-    *   Intel launches security blog, pushes security patches
-    *   How to deliver cybersecurity awareness training that works
-    *   Microsoft Patch Tuesday covers 13 critical vulnerabilities
-    *   Maine’s InterMed suffers data breach, 30,000 affected
-    
-    *   Report: Influential manufacturing trade group targeted by Chinese hackers
-    *   Google forms App Defense Alliance
-    *   Russian who allegedly ran illegal Cardplanet site extradited to U.S.
     *   Phishing emails spoof WebEx invites, abuse Cisco open redirect
-    *   System bug gives Facebook access to iPhone cameras
+    *   VMware patches five security vulnerabilities
+    *   Get ahead of the cybersecurity curve
+    *   Former Twitter employees charged with using access to spy for Saudi Arabia
+    *   Why weakening COPPA could put children at risk online
     
+    *   Pwn2Own Tokyo 2019 victimize Sony, Samsung and Amazon devices
+    *   Sumo Logic acquires Jask
+    *   Former Twitter employees charged with using access to spy for Saudi Arabia
+    *   Using security orchestration to simplify IoT defense in depth
+    *   Bugcrowd breaks its weekly bounty payout record
+    
+    *   Get ahead of the cybersecurity curve
     *   APT33 sics small, elusive botnets on U.S. and global targets
     *   Design flaw leaves Bluetooth devices vulnerable
     *   Extensive personal health information exposed in Solara Medical data breach
     *   Report: Influential manufacturing trade group targeted by Chinese hackers
-    *   Using security orchestration to simplify IoT defense in depth
 
 Back to Top
 
