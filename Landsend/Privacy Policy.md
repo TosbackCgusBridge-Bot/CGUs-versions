@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-$11 Supima bath towel. 50% off all other styles!
+$15 Christmas Needlepoint Stocking w/free Personalization. 50% off all other styles!
 
-code: BATH pin: PROMOTION DETAILS
+code: LESTOCKING pin: PROMOTION DETAILS
 
 Customer Service Menu
 
