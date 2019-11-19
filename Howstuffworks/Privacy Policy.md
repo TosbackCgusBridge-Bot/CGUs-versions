@@ -209,11 +209,13 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksEarly Humans Mated With Inbred Neanderthals — at a Cost1STWhere Do Bullets Go When Guns Are Fired Straight Up Into the Air?2NDWhy Do Monk Seals Get Eels Up Their Noses?3RDWhere do bullets go when guns are fired straight up into the air?4THKelley Blue Book | Sponsored28 SUVs Under $25,000Kelley Blue Book | SponsoredThe Primary Market | SponsoredRemember Her? Wait Till You See Her NowThe Primary Market | SponsoredAmerican Giant | SponsoredWhy Are Women Ditching Their Yoga Pants for These Amazing Bottoms?American Giant | SponsoredBest Of Senior | SponsoredBrad Pitt's Daughter Is Probably The Prettiest Girl AliveBest Of Senior | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksHow to Write an Acceptance Letter for a New Job1STHow much should your child get for allowance?2NDFoodStuff: Marshmallows: Make, Eat, Repeat3RDWhere Do Bullets Go When Guns Are Fired Straight Up Into the Air?4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredDental Implants | Search Ads | SponsoredSee What Full Mouth Dental Implants Should Cost in 2019Dental Implants | Search Ads | SponsoredTop 5 | SponsoredHer Belly Keeps Growing, Doctor Sees Scan And Calls AuthoritiesTop 5 | SponsoredGraduatez | SponsoredThe Reason Don Knotts Left The Andy Griffith ShowGraduatez | Sponsored
 
 Advertisement
 
-under the hood-car trends &. innovationsIf Humans Were Built to Withstand a Car Crash, They Might Look Like ThisBY Ben Bowlinlife science-evolutionWhy Did Humans Lose Their Tails?BY Laurie L. Dovesexual health-sexualityThis Is Why Humans Don't Have a Mating SeasonBY Laurie L. DoveTop 5 | SponsoredPrince Harry Blurts Out Why Sister Is Kept SecretTop 5 | SponsoredDirectExpose | SponsoredRemember Catherine Bell From JAG? Wait Until You See Where She Is NowDirectExpose | Sponsored
+life science-evolutionEarly Humans Mated With Inbred Neanderthals — at a CostBY Robert Lambpersonal finance-taxesDoes Social Security continue after a spouse dies?BY Debra Ronca-FoodStuff Makes Gin: FoodStuff Makes Gin
+
+Total Battle - Online Strategy Game | SponsoredIf You Own a Computer This Strategy Game is a Must-Have!Total Battle - Online Strategy Game | Sponsored2020 Chevy Silverado | Search Ads | SponsoredThe New 2020 Chevy Silverado Is Here! It Simply Amazes!2020 Chevy Silverado | Search Ads | Sponsored
 
 Advertisement
 
@@ -221,7 +223,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhat If You Eat Moldy Bread?How Coconut Oil Went From Superfood to 'Pure Poison'Are redheads going extinct?Why do most zippers say "YKK" on the pull-tab?What if you shot a gun in space?How Men and Women Use Body Language to Flirtby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhat causes 'old person' smell?Why Do Monk Seals Get Eels Up Their Noses?FoodStuff: The Science of Sour BeerWhy do most zippers say "YKK" on the pull-tab?Parallel Universes: SourcesWhy are rodents such popular test subjects?by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +246,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Early Humans Mated With Inbred Neanderthals — at a CostRead Next StoryKelley Blue Book28 SUVs Under $25,000Kelley Blue Book|SponsoredSponsoredRead Next StoryThe Primary MarketRemember Her? Wait Till You See Her NowThe Primary Market|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. How to Write an Acceptance Letter for a New JobRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StoryDental Implants | Search AdsSee What Full Mouth Dental Implants Should Cost in 2019Dental Implants | Search Ads|SponsoredSponsoredRead Next Story
