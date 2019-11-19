@@ -1,6 +1,6 @@
 Vimeo Terms of Service Agreement
 
-Last Updated: June 26, 2019
+Last Updated: November 18, 2019
 
 This **Vimeo Terms of Service Agreement** (the “**Agreement**” or “**Terms of Service**”) is made between Vimeo, Inc. (“**Vimeo**,” “**we**,” “**us**,” or “**our**”) and you, our customer (“**you**” or “**your**”). Vimeo provides online video hosting and sharing services through our owned-and-operated websites, applications, and embeddable video players (collectively, the “**Services**”). This Agreement governs your use of our Services.
 
@@ -38,6 +38,8 @@ This Agreement includes our Privacy Policy and the addenda listed in **Section 1
 *   Use all related functionality that we may provide.
 
 The features available to you will depend on your plan. We may change features from time to time. If you have a paid account, we commit to providing the core video hosting and streaming features of your plan (including the bandwidth and storage capabilities stated at the time of purchase) during your current service period. We may charge for excessive bandwidth use when: (1) plays occur on third-party sites without using our embeddable video player. (2) plays occur within third-party apps (e.g., mobile or connected TV apps). (3) you monetize Vimeo-hosted videos using a third-party payment solution. or (4) you use our video player with a third-party advertising solution.
+
+**Video Creation Tools:** We may allow you to use Video Create, our video creation tools. Your use of Vimeo Create is governed by our Vimeo Create Addendum.
 
 **Transactions:** We may offer digital goods for sale. Purchases of Vimeo On Demand videos are governed by our Vimeo On Demand Viewer Agreement. Purchases of Vimeo Stock footage and licenses are governed by our Vimeo Stock License Agreement.
 
@@ -151,7 +153,6 @@ You may not create an account if you are a member of a terror or hate group. You
 5.6 Accessibility and Ratings
 
 We provide means to allow you to include closed captioning in your videos. If required by applicable law, you must provide closed captioning in your videos.  
-  
 We may allow you to filter videos based upon their user-defined content rating. We cannot guarantee that videos will be appropriately rated by others. You must rate your videos appropriately.
 
 6\. Licenses Granted by You
@@ -173,15 +174,19 @@ If you have enabled a video privacy setting or disabled downloading or embedding
 
 The license period begins when you submit the video to Vimeo and ends when you or Vimeo delete it. _provided_ that Vimeo may retain archival copies: (a) for a limited period of time in case you wish to restore it. (b) when the video is the subject of a takedown notice or other legal claim. or (c) when Vimeo in good faith believes that it is legally obligated to do so.
 
-6.2 Account Profile
+6.2 Vimeo Create Content
+
+You may submit certain content to us for the purpose of creating a video using Vimeo Create. These submissions, and the resulting videos, are governed by our Vimeo Create Addendum.
+
+6.3 Account Profile
 
 You grant Vimeo permission to use your name, likeness, biography, trademarks, logos, or other identifiers used by you in your account profile for the purpose of displaying such properties to the public or the audiences you have specified. You may revoke the foregoing permission by deleting your account.
 
-6.3 Other Content. Feedback
+6.4 Other Content. Feedback
 
 Content that is not covered by the licenses set forth in **Sections 6.1** or **6.2** shall be governed by this **Section 6.3** (e.g., text you submit in comments). You grant Vimeo a perpetual and irrevocable right and license to copy, transmit, distribute, publicly perform, and display such content through online means in connection with our Services. If you make suggestions to Vimeo on improving or products or services, Vimeo may use your suggestions without any compensation to you.
 
-6.4 Scope of Licenses
+6.5 Scope of Licenses
 
 All licenses granted by you in this **Section 6**: (a) are non-exclusive, worldwide, and royalty-free. (b) include the right and license to copy, use, distribute, publicly perform, and display the licensed work for the purposes stated above. and (c) include all necessary rights and licenses to allow us to exercise our rights and perform our obligations. By granting these licenses, you waive any so-called “moral rights” that you may have. Nothing in this Agreement shall be deemed a license “condition” applicable to Vimeo. rather, any breach of a term by Vimeo hereof shall give rise to, at most, a claim for breach of contract only. All licenses granted herein are in addition to any other licenses that you may grant (e.g., a Creative Commons license).
 
@@ -221,7 +226,7 @@ EXCEPT AS EXPRESSLY SET FORTH HEREIN, AND TO THE EXTENT PERMITTED BY APPLICABLE 
 
 10\. Limitation of Liability
 
-TO THE EXTENT PERMITTED BY APPLICABLE LAW: (A) VIMEO SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING DAMAGES FOR LOSS OF BUSINESS, PROFITS, GOODWILL, DATA, OR OTHER INTANGIBLE LOSSES. AND (B) VIMEO'S TOTAL LIABILITY TO YOU, EXCEPT FOR VIMEO’S CONTRACTUAL PAYMENT OBLIGATIONS HEREUNDER (IF ANY), SHALL NOT EXCEED THE AMOUNTS PAID BY YOU TO VIMEO OVER THE TWELVE (12) MONTHS PRECEDING YOUR CLAIM(S) OR ONE HUNDRED DOLLARS (USD $100), WHICHEVER IS GREATER.
+TO THE EXTENT PERMITTED BY APPLICABLE LAW: (A) VIMEO SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING DAMAGES FOR LOSS OF BUSINESS, PROFITS, GOODWILL, DATA, OR OTHER INTANGIBLE LOSSES. AND (B) VIMEO'S TOTAL LIABILITY TO YOU, EXCEPT FOR VIMEO’S CONTRACTUAL PAYMENT OBLIGATIONS HEREUNDER (IF ANY), SHALL NOT EXCEED THE AMOUNTS PAID BY YOU TO VIMEO OVER THE TWELVE (12) MONTHS PRECEDING YOUR CLAIM(S) OR ONE HUNDRED DOLLARS (USD \\$100), WHICHEVER IS GREATER.
 
 11\. General Provisions
 
@@ -244,6 +249,7 @@ TO THE EXTENT PERMITTED BY APPLICABLE LAW: (A) VIMEO SHALL NOT BE LIABLE FOR ANY
 *   Copyright Policy
 *   Government Entity Addendum
 *   App Addendum
+*   Vimeo Create Addendum
 *   Vimeo On Demand Viewer Agreement
 *   Stock Footage License Agreement
 *   Seller Addendum
@@ -252,7 +258,4 @@ TO THE EXTENT PERMITTED BY APPLICABLE LAW: (A) VIMEO SHALL NOT BE LIABLE FOR ANY
 
 **Notices:** You must send any notices of a legal nature to us by email or at:
 
-Vimeo, Inc.  
-Attention: Legal Department  
-555 West 18th Street  
-New York, New York 10011
+Vimeo, Inc. Attention: Legal Department 555 West 18th Street New York, New York 10011
