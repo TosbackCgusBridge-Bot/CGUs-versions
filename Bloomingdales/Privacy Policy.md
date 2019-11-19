@@ -439,8 +439,8 @@ Does this answer your question? Yes No s
 *   Highlights of Bloomingdale’s Notice of Privacy Practices
 *   What is the return and exchange policy?
 *   Terms of Use
-*   What is the shipping policy?
 *   Product Recalls
+*   What is the shipping policy?
 
 SAVE 10%: Sign Up for Emails or Texts! FREE SHIPPING EVERY DAY! PLUS, FREE RETURNS
 
