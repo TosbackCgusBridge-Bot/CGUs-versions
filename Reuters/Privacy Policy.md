@@ -67,7 +67,7 @@ Thomson Reuters Legal
 
 1.  Home
 2.  Products
-3.  Westlaw
+3.  Westlaw Edge
 4.  Legal Current Events | Westlaw Practitioner Insights
 
 Legal research
