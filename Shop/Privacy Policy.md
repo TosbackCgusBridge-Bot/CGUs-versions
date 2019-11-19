@@ -32,9 +32,9 @@ Lenovo Explore Close
         *   Yoga C940
         *   Chromebook
         
-        Laptop Sale
+        Black Friday
         
-        Shop special deals on laptops for work, home, school and gaming!
+        Shop doorbuster deals on highly rated laptops while they last!
         
     *   Desktops
         
@@ -63,9 +63,9 @@ Lenovo Explore Close
         *   AIO A340/Tab E8 Bundle
         *   AIO 730S/ Tab M10 Bundle
         
-        Desktop Sale
+        Black Friday
         
-        Shop &. save on our assortments of towers, desktops &. more!
+        Enjoy doorbuster savings on towers, workstations &. all-in-ones this holiday!
         
     *   Workstations
         
@@ -91,9 +91,9 @@ Lenovo Explore Close
         *   ThinkStation P330 Tiny
         *   ThinkStation P330 Tower
         
-        Workstations Sale
+        Black Friday
         
-        Save on Lenovo's most powerful laptops and get working. Shop today!
+        Shop doorbusters on Lenovo's most powerful machines for business
         
     *   Tablets
         
@@ -118,9 +118,9 @@ Lenovo Explore Close
         
         The perfect family entertainment tablet
         
-        Tablet Sale
+        Black Friday
         
-        Shop today's deals on tablets &. smart home devices!
+        Enjoy doorbuster deals on tablets for work &. home!
         
     *   Accessories &. Software
         
@@ -180,9 +180,9 @@ Lenovo Explore Close
         *   Sale
         *   Monitor Accessories
         
-        Monitor Sale
+        Black Friday
         
-        Shop today's deals on monitors for work, home, gaming &. more!
+        Shop the best deals of the year on monitors for gaming, work and home!
         
     *   Gaming
         
@@ -213,9 +213,9 @@ Lenovo Explore Close
         *   Realspace Gaming Chair
         *   Legion Y740
         
-        Everything Gaming
+        Black Friday
         
-        Shop &. save on everything gaming from laptops to consoles &. more!
+        Check off your holiday list &. shop brands like Legion, Xbox, HyperX &. more!
         
     *   Business
         
@@ -307,9 +307,9 @@ Lenovo Explore Close
         *   Trade In Program
         *   Outlet
         
-        SALE
+        Black Friday
         
-        Shop amazing deals on laptops, desktops, accessories &. more!
+        Doorbusters are here! Shop amazing deals on laptops, desktops,, monitors and more!
         
 *   Phones
 *   Data Center
@@ -409,10 +409,9 @@ Lenovo Explore Close
     *   Software
         
         *   Explore Software
-        *   Infrastructure as a Service
-        *   Operating Systems
-        *   Security
-        *   XClarity Systems Management
+        *   Infrastructure
+        *   Enterprise Applications
+        *   Management
         *   View All Software
         
         Market-Leading Software for the Dynamic Business
@@ -606,7 +605,7 @@ Lenovo Explore Close
 1-855-253-6686
 
 *   Search
-*   icon-compare0 Compare Compare (0)
+
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
@@ -678,13 +677,7 @@ Lenovo Explore Close
 
 Top Suggestions
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
-
-Please add at least 2 products for compare
-
-Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
-
-Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
 
 protects better"/>.
 
@@ -1177,7 +1170,7 @@ CUSTOMER SUPPORT
 *   Forums
 *   FAQs
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Feedback Will open a new windowFeedbackLaunches comment card in new windowCreated with sketchtool.CHAT NOW
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Created with sketchtool.CHAT NOW
 
 How can we help
 
@@ -1187,4 +1180,4 @@ you today?
 
 Call us: 1-855-253-6686
 
-Check order status >Technical support or Repair status >
+Check order status >Technical support or Repair status >Feedback Will open a new windowFeedbackLaunches comment card in new window
