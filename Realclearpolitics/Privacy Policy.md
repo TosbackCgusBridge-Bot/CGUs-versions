@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Reps. Biggs &. Hice_: Will Vulnerable Dems Revolt Against Impeachment Vote?
+*   _Nathaniel Rakich_: What Happens if Buttigieg Wins Iowa?
     
-*   _Albert Hunt_: Impeachment Hearings Likely to Get Worse for Republicans
+*   _Daniel McCarthy_: The Republican Advantage in Arizona
     
-*   _Chuck de Caro_: Our Ambassadors Used to Be Made of Sterner Stuff
+*   _Mary Anne Marsh_: Trump Had a Terrible Week - And It Will Just Get Worse
     
-*   _Maureen Dowd_: Republicans Are the Real Chickens of Kiev
+*   _Joy Pullmann_: Public Ignores Dems' Demand to Watch Impeachment Farce
     
-*   _Noah Millman_: Inexperience Is One of Buttigieg's Greatest Assets
+*   _Damon Linker_: Barr's Chilling Vision of Unchecked Presidential Power
     
-*   _Kyle Smith_: Bloomberg's Presidential Run Doesn't Have a Hope in Hell
+*   _Robert Knight_: No One Is Above the Law - Unless You're a Democrat
     
-*   _Jonny Dymond_: 'Little Apology or Remorse' From Prince Andrew
+*   _Thomas Friedman_: Pompeo: Last in His Class at West Point in Integrity
     
-*   _Ken Cuccinelli_: We Need to Tighten Up Loopholes in Our Asylum Laws
+*   _John McGinnis_: The Ongoing Decline of The New York Times
     
-*   _Max Burns_: Trump's Trade War Is Killing Small Farmers
+*   _Amy Harder_: Why the Hottest Global Warming Battle Is In the Courtroom
     
-*   _Carl Anderson_: Mass Christian Exodus From Mideast Would Be a Catastrophe
+*   _Chadwick Moore_: Prince Andrew's BBC Interview Was Utterly Brilliant
     
-*   _Andrew Ferguson_: Can Marriage Counseling Save America?
+*   _Carl Cannon_: When Koufax Made a Pitch for Jews Everywhere
     
-*   _Renato Mariotti_: Trump Is Writing His Own Articles of Impeachment
+*   _David Catron_: Impeachment by Focus Group
     
-*   _Michael Goodwin_: Pelosi Has Gone Full Cuckoo in Impeachment Push
+*   _Garry Kasparov_: Trump's Behavior Disgustingly Corrupt &. Impeachable
     
-*   _Jennifer Weiner_: I’m Sorry, Is Impeachment Not Entertaining Enough for You?
+*   _Byron York_: Dems Don't Want Public to Know Origins of Probe - Again
     
-*   _Paul Mulshine_: What's Biden Hidin'? 'Kid Pro Quo' Dooms His 2020 Run
+*   _John Avlon_: Dignity Isn't Dead in the Trump Era
     
-*   _Robert Reich_: Why Elizabeth Warren Scares the Whole Establishment
+*   _Frank Miele_: Drive-By Media Cash In On Impeachment Hysteria
     
-*   _James Robbins_: Warren's Wealth Tax Plan Is Unconstitutional
+*   _David Dayen_: How Warren Misread the Politics of Health Care
     
-*   _Peter Beinart_: Nikki Haley Is Playing a Long Game
+*   _A.B. Stoddard_: Louisiana Confirms: Health Care a Grave Threat to Trump, GOP
     
-*   _Matthew Continetti_: What Will Post-Trump Republican Voters Want?
+*   _Noah Millman_: Inexperience Is One of Mayor Pete's Greatest Assets
     
-*   _Glassman &. Hundt_: Trump Could Suffer Landslide Defeat But Still Win
+*   _Greg Orman_: Robert Reich's Attack on Billionaires -- and Capitalism
     
-*   _Branko Marcetic_: MSNBC Is Ignoring the Bernie Sanders Campaign
+*   _John Fund_: Bloomberg, Once a Tough Talker, Becomes a Pander Bear
     
-*   _John Tierney_: Journalists Against Free Speech
+*   _Osita Nwanevu_: Joe Biden's Frantic Defense of the Status Quo
     
-*   _Daniel DePetris_: U.S. Must Try to Thaw Its Relationship With Russia
+*   _Eric Felten_: Analysis: Media Has One Standard for Trump, Another for Biden
     
-*   _Minxin Pei_: China's Risky Endgame in Hong Kong
+*   _Kori Schake_: Trump Sides With War Criminals
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Democratic Gov. John Bel Edwards Wins Reelection in Louisiana
 *   Yovanovitch Admits to "Appearance of Conflict" in Bidens' Role
-*   Nunes: Why Is Marie Yovanovitch Even Testifying?
-*   Yovanovitch: Trump's Tweet During Testimony "Very Intimidating"
-*   What the Entry of Patrick and Bloomberg May Mean for Biden
+*   In Speech, Barr Takes Aim at "Resistance" Against Trump Admin
 *   The Impact of Voter Second Choices as 2020 Dems Drop Out
+*   What the Entry of Patrick and Bloomberg May Mean for Biden
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,70 +252,47 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Iowa Democratic Presidential CaucusDM Register/CNN
-    *   Buttigieg25
-    *   Warren16
-    *   Biden15
-    *   Sanders15
-    *   Klobuchar6
-    *   Harris3
-    *   Steyer3
-    *   Yang3
-    *   Gabbard3
-    *   Booker3
-    *   Bloomberg2
-    *   Castro0
-    *   Bullock0Buttigieg +9
-*   Iowa Democratic Presidential CaucusCBS News/YouGov
-    *   Buttigieg21
-    *   Warren18
-    *   Biden22
-    *   Sanders22
-    *   Klobuchar5
-    *   Harris5
-    *   Steyer2
-    *   Yang1
-    *   Gabbard0
-    *   Booker1
-    *   Bloomberg
-    *   Castro1
-    *   Bullock1Tie
-*   New Hampshire Democratic Presidential PrimaryCBS News/YouGov
-    *   Warren31
-    *   Biden22
-    *   Sanders20
-    *   Buttigieg16
-    *   Klobuchar3
-    *   Gabbard0
-    *   Yang1
-    *   Harris3
-    *   Steyer1
-    *   Booker1
-    *   Bennet0
-    *   Sestak0
-    *   Castro0Warren +9
-*   Nevada Democratic Presidential CaucusCBS News/YouGov
-    *   Biden33
-    *   Warren21
-    *   Sanders23
-    *   Buttigieg9
+*   2020 Democratic Presidential NominationThe Hill/HarrisX
+    *   Biden30
+    *   Warren15
+    *   Sanders18
+    *   Buttigieg7
     *   Harris4
-    *   Steyer2
-    *   Yang1
-    *   Klobuchar2
+    *   Yang2
+    *   Bloomberg3
+    *   Booker1
+    *   Klobuchar1
+    *   Castro2
+    *   Delaney2
+    *   Gabbard1
+    *   Steyer1Biden +12
+*   South Carolina Democratic Presidential PrimaryQuinnipiac
+    *   Biden33
+    *   Warren13
+    *   Sanders11
+    *   Buttigieg6
+    *   Harris3
+    *   Steyer5
+    *   Yang4
     *   Booker2
-    *   Castro1
-    *   Gabbard0
-    *   Bennet0
-    *   Williamson0Biden +10
+    *   Klobuchar1
+    *   Gabbard1
+    *   Delaney0
+    *   Williamson1Biden +20
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve50
+    *   Disapprove49Approve +1
+*   Direction of CountryRasmussen Reports
+    *   Right Direction39
+    *   Wrong Track56Wrong Track +17
 
 More Latest Polls In The News
 
-*   Jim Jordan: "There Was Never A Quid-Pro-Quo" On Ukraine Like The Democrats Promised
+*   Dem Rep. Jeff Van Drew: Impeachment "Is Going To Get Us Nowhere," Democrats "Fractured The Nation"
+*   Pelosi: I Have A "Real Discomfort" Responding To What Republicans Say "Because They Are In Denial"
+*   Jim Jordan: "There Was Never A Quid-Pro-Quo" On Ukraine Like Democrats Promised, Zelensky "The Real Deal"
 *   AG Barr: The Left Trying To "Sabotage" Trump With A Scorched Earth, No Holds Barred War Of Resistance
-*   Brooks: Yovanovitch Put Emotion Into Impeachment, It Should Be Contrast Between Good And Bad People
-*   Marie Yovanovitch Says President Trump's Tweet During Her Testimony Was "Very Intimidating"
-*   Nunes to Yovanovitch: Why Are You Even Testifying? You Admitted You Have No Firsthand Knowledge
+*   Obama to Dems: Average American Doesn't Want "Revolution," To "Completely Tear Down The System"
 
 *   Politics
 *   Policy
