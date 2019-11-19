@@ -1,6 +1,6 @@
 Vimeo Privacy Policy
 
-Last Updated: September 30, 2019
+Last Updated: November 18, 2019
 
 This Privacy Policy explains the information that Vimeo collects when you use its products and services, how that information is used, with whom it may be shared, and your privacy choices.
 
@@ -49,6 +49,8 @@ If you wish to sell items or earn money from advertising through our services, y
 Content
 
 Accountholders may create a profile and upload content such as videos, text, photographs, and artwork. Your profile may display information about you and your activities. This information may be accessed by others. Your videos may be viewed and otherwise accessed by others, and associated metadata (e.g., titles, descriptions, tags, etc.) are viewable by others. Your interactions with other users (e.g., comments, "likes," private messages) may be seen by others. You may choose to limit the availability of your profile and videos. For more details, see **Section 9**.
+
+If you submit images or videos to us in connection with our video creation and editing tools, we may analyze such content using a variety of techniques, including machine-learning algorithms, for the sole purpose of creating a video at your direction. In doing so, we may derive facial-related information from your content solely for the purpose of creating a video for you. This information may be used, for example, to locate a face within a frame. Any such information will be discarded within 14 days after your complete a video (in order to permit re-editing by you). We do not collect, use, or store any facial-related information for the purpose of recognizing faces outside of the limited video-creation purposes set forth herein.
 
 Other Information You May Submit
 
