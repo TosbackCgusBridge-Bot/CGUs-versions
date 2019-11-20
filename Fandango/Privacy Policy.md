@@ -315,14 +315,14 @@ Offers
 
 New + Coming soon
 
-*   Doctor Sleep
-*   Midway (2019)
-*   Last Christmas (2019)
 *   Ford v Ferrari
 *   Charlie's Angels (2019)
 *   Frozen II
 *   A Beautiful Day in the Neighborhood
+*   21 Bridges
 *   Knives Out
+*   Jumanji: The Next Level
+*   Black Christmas (2019)
 
 Experience + Explore
 
