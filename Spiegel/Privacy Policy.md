@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   19\. November 2019
+*   20\. November 2019
 *   Abo
-*   DAX 13.207,01ǀ
+*   DAX 13.221,12ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -367,6 +367,3 @@ SPIEGEL GRUPPE
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
-
-  
-BESbswyBESbswyBESbswy
