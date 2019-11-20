@@ -1,4 +1,4 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-LFD5&domain=.progressive.com". height="0" width="0" style="display:none;visibility:hidden"></iframe>. Skip to Main Content 
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-LFD5&domain=.progressive.com" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Skip to Main Content 
 
 *   Insurance
 *   Claims
@@ -131,7 +131,7 @@ Connect
 Connect
 
 *   1-855-347-3939
-*   Customer Support
+*   Contact Us
 *   Progressive App
 *   PerkShare
 
@@ -171,7 +171,7 @@ We offer insurance by phone, online and through independent agents. Prices vary 
 
 *   Insurance
     *   Vehicle &. Recreational
-        *   ATV
+        *   ATV/UTV
         *   Auto
         *   Boat
         *   Classic Car
@@ -212,8 +212,8 @@ We offer insurance by phone, online and through independent agents. Prices vary 
 *   Claims
     *   Claims
         *   Claims Overview
-        *   The Process
-        *   Windshield &. Glass
+        *   Auto Process
+        *   Claims FAQ
         *   Catastrophe
     *   Help on the Road
         *   Roadside Assistance
@@ -223,7 +223,7 @@ We offer insurance by phone, online and through independent agents. Prices vary 
         
         Or, call 1-800-776-4737
         
-        Not a Customer? Track claim here
+        Track claim here
         
 
 *   About
