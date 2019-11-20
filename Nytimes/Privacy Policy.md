@@ -252,7 +252,7 @@ In certain circumstances, courts, law enforcement agencies, regulatory agencies 
 
 We evaluate this privacy policy periodically in light of changing business practices, technology and legal requirements. As a result, it is updated from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use or share your personal information, you will be notified via email and/or prominent notice within the NYT Services at least 30 days prior to the changes taking effect.
 
-Was this information helpful? Can't find what you're looking for?
+Can't find what you're looking for?
 
 Review our Help topics or chat with one of our Customer Care advocates.
 
