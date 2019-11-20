@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Nathaniel Rakich_: What Happens if Buttigieg Wins Iowa?
+*   _Russell Berman_: President Trump Has Found His Plumbers
     
-*   _Daniel McCarthy_: The Republican Advantage in Arizona
+*   _John Solomon_: Surprise: Schiff's Witnesses Confirm Biden's Ukraine Problem
     
-*   _Mary Anne Marsh_: Trump Had a Terrible Week - And It Will Just Get Worse
+*   _David Roberts_: With Impeachment, America's Epistemic Crisis Has Arrived
     
-*   _Joy Pullmann_: Public Ignores Dems' Demand to Watch Impeachment Farce
+*   _Kerry Picket_: 'Bro-Like': Schiff Aide Was WH Friend of Eric Ciaramella
     
-*   _Damon Linker_: Barr's Chilling Vision of Unchecked Presidential Power
+*   _Brad Bannon_: The 2 Events That Reshaped the Democratic Primary Race
     
-*   _Robert Knight_: No One Is Above the Law - Unless You're a Democrat
+*   _Alexandra DeSanctis_: Democrats on Abortion: Safe, Legal and Unlimited
     
-*   _Thomas Friedman_: Pompeo: Last in His Class at West Point in Integrity
+*   _Jill Lawrence_: Why Buttigieg Is Rising--Maybe He Could Beat Trump
     
-*   _John McGinnis_: The Ongoing Decline of The New York Times
+*   _Stephen Moore_: What Trump Tax Cut 2.0 Could Look Like
     
-*   _Amy Harder_: Why the Hottest Global Warming Battle Is In the Courtroom
+*   _Carl Cannon_: Gettysburg, 1863: Press Reports Echo 2019 Partisanship
     
-*   _Chadwick Moore_: Prince Andrew's BBC Interview Was Utterly Brilliant
+*   _Art Cullen_: Yovanovitch Represents the Decency U.S. Is Desperate For
     
-*   _Carl Cannon_: When Koufax Made a Pitch for Jews Everywhere
+*   _Robert Merry_: The Establishment's Ukraine Policy Is a Disaster
     
-*   _David Catron_: Impeachment by Focus Group
+*   _Salena Zito_: How the Great Revolt of 2016 Will Reverberate in 2020
     
-*   _Garry Kasparov_: Trump's Behavior Disgustingly Corrupt &. Impeachable
+*   _Julian Zelizer_: Forget About Backlash--Impeachment Is Devastating for Trump
     
-*   _Byron York_: Dems Don't Want Public to Know Origins of Probe - Again
+*   _Francis Menton_: Biden vs. Trump: Which One 'Bribed' Ukraine?
     
-*   _John Avlon_: Dignity Isn't Dead in the Trump Era
+*   _William Burns_: The 'Deep State' Isn't the Problem. The Weak State Is.
     
-*   _Frank Miele_: Drive-By Media Cash In On Impeachment Hysteria
+*   _Andrew McCarthy_: Democrats' 'Whistleblower' Secrecy Charade
     
-*   _David Dayen_: How Warren Misread the Politics of Health Care
+*   _Kent Harrington_: Barr Investigates FBI and CIA for Doing Their Jobs
     
-*   _A.B. Stoddard_: Louisiana Confirms: Health Care a Grave Threat to Trump, GOP
+*   _Victor Davis Hanson_: There's No Defense for Dems' Attempted Coup
     
-*   _Noah Millman_: Inexperience Is One of Mayor Pete's Greatest Assets
+*   _Ian Bremmer_: End of the American International Order: What Comes Next?
     
-*   _Greg Orman_: Robert Reich's Attack on Billionaires -- and Capitalism
+*   _Caroline Glick_: Pompeo's Statement Is a Diplomatic Turning Point
     
-*   _John Fund_: Bloomberg, Once a Tough Talker, Becomes a Pander Bear
+*   _Gideon Rachman_: Hong Kong Is Xi Jinping's Failure
     
-*   _Osita Nwanevu_: Joe Biden's Frantic Defense of the Status Quo
+*   _Jorge Castaneda_: What Really Happened in Bolivia?
     
-*   _Eric Felten_: Analysis: Media Has One Standard for Trump, Another for Biden
+*   _Kevin Williamson_: Northwestern's Bungling Journalists Were Copying Pros
     
-*   _Kori Schake_: Trump Sides With War Criminals
+*   _Jonathan Chait_: Trump's Dangerous Vendetta Against Washington Post
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Democratic Gov. John Bel Edwards Wins Reelection in Louisiana
+*   Watchdog: Hunter Biden's Burisma Post Had a Troubling Conflict
+*   Campus Under Siege as Hong Kong Police Battle Protesters
+*   Stephen A. Smith: Colin Kaepernick Doesn't Want to Play Football
 *   Yovanovitch Admits to "Appearance of Conflict" in Bidens' Role
-*   In Speech, Barr Takes Aim at "Resistance" Against Trump Admin
-*   The Impact of Voter Second Choices as 2020 Dems Drop Out
-*   What the Entry of Patrick and Bloomberg May Mean for Biden
+*   Democratic Gov. John Bel Edwards Wins Reelection in Louisiana
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,47 +252,37 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationThe Hill/HarrisX
-    *   Biden30
+*   New Hampshire Democratic Presidential PrimarySt. Anselm
     *   Warren15
-    *   Sanders18
-    *   Buttigieg7
-    *   Harris4
-    *   Yang2
-    *   Bloomberg3
-    *   Booker1
-    *   Klobuchar1
-    *   Castro2
-    *   Delaney2
-    *   Gabbard1
-    *   Steyer1Biden +12
-*   South Carolina Democratic Presidential PrimaryQuinnipiac
-    *   Biden33
-    *   Warren13
-    *   Sanders11
-    *   Buttigieg6
-    *   Harris3
+    *   Biden15
+    *   Buttigieg25
+    *   Sanders9
+    *   Klobuchar6
+    *   Gabbard3
     *   Steyer5
-    *   Yang4
-    *   Booker2
-    *   Klobuchar1
-    *   Gabbard1
-    *   Delaney0
-    *   Williamson1Biden +20
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve50
-    *   Disapprove49Approve +1
-*   Direction of CountryRasmussen Reports
-    *   Right Direction39
-    *   Wrong Track56Wrong Track +17
+    *   Yang2
+    *   Harris1
+    *   Booker3
+    *   Bennet
+    *   Sestak
+    *   CastroButtigieg +10
+*   New Hampshire: Trump vs. BidenSt. Anselm
+    *   Biden51
+    *   Trump43Biden +8
+*   New Hampshire: Trump vs. WarrenSt. Anselm
+    *   Trump46
+    *   Warren47Warren +1
+*   New Hampshire: Trump vs. SandersSt. Anselm
+    *   Sanders49
+    *   Trump46Sanders +3
 
 More Latest Polls In The News
 
+*   Trump: Nancy Pelosi Is "Grossly Incompetent, All She Wants To Do Is Focus On Impeachment"
+*   Schiff Interrupts Nunes Questioning: "I Want To Make Sure There Is No Effort To Out The Whistleblower"
 *   Dem Rep. Jeff Van Drew: Impeachment "Is Going To Get Us Nowhere," Democrats "Fractured The Nation"
 *   Pelosi: I Have A "Real Discomfort" Responding To What Republicans Say "Because They Are In Denial"
 *   Jim Jordan: "There Was Never A Quid-Pro-Quo" On Ukraine Like Democrats Promised, Zelensky "The Real Deal"
-*   AG Barr: The Left Trying To "Sabotage" Trump With A Scorched Earth, No Holds Barred War Of Resistance
-*   Obama to Dems: Average American Doesn't Want "Revolution," To "Completely Tear Down The System"
 
 *   Politics
 *   Policy
