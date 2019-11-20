@@ -164,3 +164,6 @@ Previous Privacy Policies
 *   Jul 14, 2016 to Feb 19, 2018
     
 *   Feb 20, 2018 to May 24, 2018
+    
+
+Take part in the action!
