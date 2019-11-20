@@ -122,7 +122,7 @@ By Following Jessica Hirsch’s Creative Process
 
 Our Black Friday deals go live on November 24:  http://play.st/32YVCG6  Save on PS4 Pro, PS VR, select games, DualShock 4, and more pic.twitter.com/ODH4TROwz4
 
-16 hours ago View Tweet Instagram Post B4-WFnkHwfj
+1 day ago View Tweet Instagram Post B4-WFnkHwfj
 
 Broad Zoom Range
 
@@ -201,13 +201,11 @@ Still Wondering What “Death Stranding” Is All About? Hit the Ground Running 
 
 Play Today on PS4™
 
-Play video: Still Wondering What “Death Stranding” Is All About? Hit the Ground Running With These Tips Close video: Still Wondering What “Death Stranding” Is All About? Hit the Ground Running With These Tips
-
 *   Share on Facebook: Still Wondering What “Death Stranding” Is All About? Hit the Ground Running With These Tips
 *   Share on Twitter: Still Wondering What “Death Stranding” Is All About? Hit the Ground Running With These Tips
 *   Copy URL to Share: Still Wondering What “Death Stranding” Is All About? Hit the Ground Running With These Tips
 
-<img class="bg-img video-tCI396HyhbQ" data-linkname="en:set\_e:position\_4|\_5x2-1:video:playstation:DeathStrandingTips-November-18-2019:ps:image:tCI396HyhbQ" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Still Wondering What “Death Stranding” Is All About? Hit the Ground Running With These Tips tCI396HyhbQ Death-Stranding-Tips" data-img1x="/content/dam/sony/homepage/2019-november/11-18/DeathStranding-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-november/11-18/DeathStranding-1276x500.jpg" src="/content/dam/sony/homepage/2019-november/11-18/DeathStranding-1276x500.jpg" alt="Still Wondering What “Death Stranding” Is All About? Hit the Ground Running With These Tips"/>. <img class="bg-img video-tCI396HyhbQ" alt="Still Wondering What “Death Stranding” Is All About? Hit the Ground Running With These Tips Mobile" data-linkname="en:set\_e:position\_4|\_5x2-1:video:playstation:DeathStrandingTips-November-18-2019:ps:image-mobile:tCI396HyhbQ" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Still Wondering What “Death Stranding” Is All About? Hit the Ground Running With These Tips tCI396HyhbQ Death-Stranding-Tips" data-img1x="/content/dam/sony/homepage/2019-november/11-18/DeathStranding-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-november/11-18/DeathStranding-1276x500.jpg" src="/content/dam/sony/homepage/2019-november/11-18/DeathStranding-600x600.jpg"/>.
+<img class="bg-img" data-linkname="en:set\_e:position\_4|\_5x2-1:image:playstation:DeathStrandingTips-November-18-2019:ps:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Still Wondering What “Death Stranding” Is All About? Hit the Ground Running With These Tips Death-Stranding-Tips" data-img1x="/content/dam/sony/homepage/2019-november/11-18/DeathStranding-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-november/11-18/DeathStranding-1276x500.jpg" src="/content/dam/sony/homepage/2019-november/11-18/DeathStranding-1276x500.jpg" alt="Still Wondering What “Death Stranding” Is All About? Hit the Ground Running With These Tips"/>. <img class="bg-img" data-linkname="en:set\_e:position\_4|\_5x2-1:image:playstation:DeathStrandingTips-November-18-2019:ps:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Still Wondering What “Death Stranding” Is All About? Hit the Ground Running With These Tips Death-Stranding-Tips" data-img1x="/content/dam/sony/homepage/2019-november/11-18/DeathStranding-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-november/11-18/DeathStranding-1276x500.jpg" src="/content/dam/sony/homepage/2019-november/11-18/DeathStranding-600x600.jpg" alt="Still Wondering What “Death Stranding” Is All About? Hit the Ground Running With These Tips Mobile"/>.
 
 20 Years Later, “Mad About You” Returns to TV for a New Limited Series
 
