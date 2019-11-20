@@ -209,21 +209,19 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksHow to Write an Acceptance Letter for a New Job1STHow much should your child get for allowance?2NDFoodStuff: Marshmallows: Make, Eat, Repeat3RDWhere Do Bullets Go When Guns Are Fired Straight Up Into the Air?4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredDental Implants | Search Ads | SponsoredSee What Full Mouth Dental Implants Should Cost in 2019Dental Implants | Search Ads | SponsoredTop 5 | SponsoredHer Belly Keeps Growing, Doctor Sees Scan And Calls AuthoritiesTop 5 | SponsoredGraduatez | SponsoredThe Reason Don Knotts Left The Andy Griffith ShowGraduatez | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksDoes Your Brain Get Tired Like the Rest of Your Body?1STIf at First You Don't Succeed, Try Tripe Again2NDHow the Ancient Land Blob Gondwana Became Today's Continents3RDThe Ultimate Downsize: Living in a Shipping Container Home4THHear Nature Speak | Supplement | SponsoredNew Invention From War Vet Stops The Constant RingingHear Nature Speak | Supplement | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredBest Of Senior | SponsoredBrad Pitt's Daughter Is Probably The Prettiest Girl AliveBest Of Senior | SponsoredLuxury Cruises | Search Ads | SponsoredYou've Never Seen Luxury Like This On A Cruise Ship. Research Luxury Mediterranean CruisesLuxury Cruises | Search Ads | Sponsored
 
 Advertisement
 
-life science-evolutionEarly Humans Mated With Inbred Neanderthals — at a CostBY Robert Lambpersonal finance-taxesDoes Social Security continue after a spouse dies?BY Debra Ronca-FoodStuff Makes Gin: FoodStuff Makes Gin
-
-Total Battle - Online Strategy Game | SponsoredIf You Own a Computer This Strategy Game is a Must-Have!Total Battle - Online Strategy Game | Sponsored2020 Chevy Silverado | Search Ads | SponsoredThe New 2020 Chevy Silverado Is Here! It Simply Amazes!2020 Chevy Silverado | Search Ads | Sponsored
-
-Advertisement
+home &. garden-autoWhat Is a Mandala? (No, Not Nelson. That's Mandela)BY Michelle Konstantinovskyhome &. garden-autoHow Turducken Became the Ultimate Thanksgiving Triple PlayBY Jeremy Glasshome &. garden-auto9 Fascinating Facts About Julius Caesar, 'Dictator for Perpetuity'BY Dave RoosThe Primary Market | SponsoredRemember Her? Wait Till You See Her NowThe Primary Market | SponsoredDaily Finance Stories | SponsoredHoney Boo Boo Is So Skinny Now And Looks Like A BarbieDaily Finance Stories | Sponsored
 
 Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhat causes 'old person' smell?Why Do Monk Seals Get Eels Up Their Noses?FoodStuff: The Science of Sour BeerWhy do most zippers say "YKK" on the pull-tab?Parallel Universes: SourcesWhy are rodents such popular test subjects?by Taboolaby Taboola
+Advertisement
+
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksU.S. Military Dogs Usually Outrank Their HandlersThe Ghost of Wild West Gunslinger Tom Horn Still Haunts WyomingWhy Is Pancreatic Cancer So Deadly?7 Cool Facts About Will Rogers, Cowboy, Humorist, Self-declared President6 Wild and Wacky Takes on the Advent CalendarThe Four-day Workweek Isn't as Crazy as You Thinkby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -246,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. How to Write an Acceptance Letter for a New JobRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StoryDental Implants | Search AdsSee What Full Mouth Dental Implants Should Cost in 2019Dental Implants | Search Ads|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Does Your Brain Get Tired Like the Rest of Your Body?Read Next StoryHear Nature Speak | SupplementNew Invention From War Vet Stops The Constant RingingHear Nature Speak | Supplement|SponsoredSponsoredRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next Story
