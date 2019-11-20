@@ -9,9 +9,35 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
+    *   Dooney &. Bourke Up to 50% Off
+    *   Via Spiga Up to 60% Off
+    *   Robert Graham
+    *   Give More Than a Gift: Le Creuset
+    *   Free Shipping: Bedding Steals Up to 50% Off
+    *   Free Shipping: Shun Cutlery Classic Collection
+    *   Stocking Stuffers: Phone Chargers, Cables &. More
+    *   For Your Fur Baby: Pet Accessories &. More
+    *   Soiree Season ft. Dress the Population
+    *   NEST Fragrances: Home Scents, Body Milk &. More
+    *   Jealous Tomato &. More from $25
+    *   Stay Warm: Jackets, Sweaters &. More Up to 70% Off
+    *   Mustard Seed &. More
+    *   Sparkle &. Shine: Holiday Party Shoes &. More
+    *   SUSINA &. More from $40
+    *   Robert Graham Clothing &. More
+    *   Hawke &. Co
+    *   JBW Watches
+    *   Luxe Men's Shoes ft. Badgley Mischka
+    *   Bounce Curl Hair Care from $15
+    *   Travel Accessories ft. LEWIS N. CLARK
+    *   Korean Beauty: Leaders Cosmetics from $15
+    *   All Dressed Up: Zunie Dresses &. More
+    *   Daddy &. Me: Ben Sherman Footwear
+    *   Jessica Simpson Baby &. Girls' Styles
     *   Hudson
     *   Hudson Jeans Men Up to 55% Off
     *   Naked Zebra Starting at $25
+    
     *   Jeffrey Campbell Up to 60% Off
     *   Vince Camuto Outerwear Up to 70% Off
     *   Flirty Finds: Mini Dresses &. More Under $30
@@ -25,7 +51,6 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Zanzara Up to 60% Off
     *   Chinese Laundry &. More Up to 50% Off
     *   Pretty on the Fly: Luggage Up to 75% Off
-    *   Clean Makeup: bareMinerals Starting at $10
     *   TrustMD Skin Care
     *   Grande Cosmetics
     *   Look on the Bright Side: Lighting for Every Room
@@ -33,81 +58,58 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Ancient Nutrition Protein
     *   Frenchie Mini Couture
     *   $30 &. Under: Harper Canyon
-    *   The Gift Edit: Styles for Her from $20
-    *   The Gift Edit: Luxe &. Designer Styles Up to 65% Off
-    *   Best of the Season: Dresses Up to 65% Off
-    *   The Gift Edit: Styles for Him Up to 60% Off
-    *   The Gift Edit: Styles for Kids Up to 60% Off
-    *   The Gift Edit: Cold-Weather Styles Up to 65% Off
-    *   The Gift Edit: Stocking Stuffers Under $20
     *   Lafonn Jewelry Up to 65% Off
-    
     *   Boots, Sneakers &. More Up to 60% Off
     *   Men's Shoe Steals Up to 65% Off
-    *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
-    *   Blondo
-    *   Dresses, Jumpsuits &. More Under $50
-    *   Taryn Rose Up to 60% Off
+    *   The Gift Edit: Cold-Weather Styles Up to 65% Off
+    *   The Gift Edit: Luxe &. Designer Styles Up to 65% Off
+    *   The Gift Edit: Styles for Her from $20
+    *   The Gift Edit: Stocking Stuffers Under $20
+    *   The Gift Edit: Styles for Him Up to 60% Off
+    
+    *   Clean Makeup: bareMinerals Starting at $10
+    *   The Gift Edit: Styles for Kids Up to 60% Off
     *   Free Shipping: Pillows &. More
-    *   Sugarlips &. More from $25
-    *   Put on Your Party Boots: Styles Up to 55% Off
     *   Free Shipping: Bedding Blowout
     *   Pre de Provence: French Soaps &. More from $10
     *   Modern Finishing Touches: Decor from $20
     *   Tommy Hilfiger Men's Shoes
     *   Zoe Ayla: Crystal Face Rollers &. More
-    *   Catherine Catherine Malandrino Up to 60% Off
-    *   Nautica Kids &. More Up to 60% Off
     *   Baby Gear ft. aden + anais
-    *   Designer Sun ft. Prada
-    *   Young Fabulous &. Broke
-    *   Must-Have Circle Bags &. Crossbodies
-    *   Champion Men Under $50
-    *   Gemstones, Diamonds &. More Up to 80% Off
-    *   Elodie Under $45
-    *   Marc Fisher LTD Up to 60% Off
-    *   Do + Be Under $45
-    *   DKNY Lingerie &. Sleep Under $35
     *   ORA Derma Roller &. Microdermabrasion Tools
-    *   Robert Barakett
     *   Ted Baker London Men's Shoes
     *   Free Shipping: Wall Decor &. Accents
-    *   Trending Sneakers &. More ft. Report
-    *   Calvin Klein Outerwear Up to 60% Off
-    
-    *   Fresh Finds: Shoes from $40
-    *   Roberto Cavalli Watches &. More Up to 70% Off
-    *   Cozy Cashmere Accessories Up to 60% Off
-    *   The Cool List: Roxy &. Quiksilver
     *   Must-Have Tech Accessories Starting at $15
     *   Quality Quilt Sets &. Bedding
     *   Organization Essentials &. More Under $24
     *   Modern Fiction Up to 60% Off
-    *   Pastourelle by Pippa and Julie
-    *   Nautica Boys
     *   Best in Beauty: Palettes, Lips &. More
-    *   Wolverine Men
     *   Mirenesse Australia Starting at $15
-    *   BEARPAW Men
     *   Best Selling Hair Tools
     *   K-Beauty Skin Care ft. Let Me Skin &. LA MUSE
     *   Free Shipping: Framed Art Up to 60% Off
     *   Free Shipping: Hand-Painted Oil Reproductions
-    *   Celebrity Strands Hair Extensions Up to 70% Off
     *   One-Stop Shop: Christmas Decor
-    *   Luxe Skin Care from $15
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Quirky &. Fun Towels, Coasters and More
-    *   Nambe
-    *   Kitchen Must-Haves from Cuisinart
-    *   Gift or Get: Smart Watch Bands, Chargers &. More
     *   Free Shipping: Sterling Forever Jewelry Up to 60% Off
-    *   Kendra Scott Home Decor
-    *   Be Thankful &. Merry: Holiday Decor from $15
-    *   Holiday Bakeware Starting at $10
-    *   Tis the Season: Gnomes &. More Holiday Decor
+    *   Best of the Season: Dresses Up to 65% Off
+    *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
 *   WomenShop Sale Events
     
+    *   Dooney &. Bourke Up to 50% Off
+    *   Via Spiga Up to 60% Off
+    *   Soiree Season ft. Dress the Population
+    *   NEST Fragrances: Home Scents, Body Milk &. More
+    *   Jealous Tomato &. More from $25
+    *   Stay Warm: Jackets, Sweaters &. More Up to 70% Off
+    *   Mustard Seed &. More
+    *   Sparkle &. Shine: Holiday Party Shoes &. More
+    *   SUSINA &. More from $40
+    *   JBW Watches
+    *   Bounce Curl Hair Care from $15
+    *   Travel Accessories ft. LEWIS N. CLARK
+    *   Korean Beauty: Leaders Cosmetics from $15
     *   Hudson
     *   Naked Zebra Starting at $25
     *   Jeffrey Campbell Up to 60% Off
@@ -117,79 +119,59 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Made in Italy: Leather Bags Up to 70% Off
     *   Swarovski Jewelry
     *   Boots, Slippers &. More by MUK LUKS
+    
     *   Chinese Laundry &. More Up to 50% Off
     *   Pretty on the Fly: Luggage Up to 75% Off
-    *   Clean Makeup: bareMinerals Starting at $10
     *   TrustMD Skin Care
     *   Grande Cosmetics
     *   Ancient Nutrition Protein
-    *   The Gift Edit: Styles for Her from $20
-    *   The Gift Edit: Luxe &. Designer Styles Up to 65% Off
-    *   Best of the Season: Dresses Up to 65% Off
-    *   The Gift Edit: Cold-Weather Styles Up to 65% Off
-    *   The Gift Edit: Stocking Stuffers Under $20
     *   Lafonn Jewelry Up to 65% Off
     *   Boots, Sneakers &. More Up to 60% Off
-    *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
-    *   Blondo
-    *   Dresses, Jumpsuits &. More Under $50
-    *   Taryn Rose Up to 60% Off
-    
-    *   Sugarlips &. More from $25
-    *   Put on Your Party Boots: Styles Up to 55% Off
+    *   The Gift Edit: Cold-Weather Styles Up to 65% Off
+    *   The Gift Edit: Luxe &. Designer Styles Up to 65% Off
+    *   The Gift Edit: Styles for Her from $20
+    *   The Gift Edit: Stocking Stuffers Under $20
+    *   Clean Makeup: bareMinerals Starting at $10
     *   Pre de Provence: French Soaps &. More from $10
     *   Zoe Ayla: Crystal Face Rollers &. More
-    *   Catherine Catherine Malandrino Up to 60% Off
-    *   Designer Sun ft. Prada
-    *   Young Fabulous &. Broke
-    *   Must-Have Circle Bags &. Crossbodies
-    *   Gemstones, Diamonds &. More Up to 80% Off
-    *   Elodie Under $45
-    *   Marc Fisher LTD Up to 60% Off
-    *   Do + Be Under $45
-    *   DKNY Lingerie &. Sleep Under $35
     *   ORA Derma Roller &. Microdermabrasion Tools
-    *   Trending Sneakers &. More ft. Report
-    *   Calvin Klein Outerwear Up to 60% Off
-    *   Fresh Finds: Shoes from $40
-    *   Roberto Cavalli Watches &. More Up to 70% Off
-    *   Cozy Cashmere Accessories Up to 60% Off
     *   Best in Beauty: Palettes, Lips &. More
     *   Mirenesse Australia Starting at $15
     *   Best Selling Hair Tools
     *   K-Beauty Skin Care ft. Let Me Skin &. LA MUSE
-    *   Celebrity Strands Hair Extensions Up to 70% Off
-    *   Luxe Skin Care from $15
     *   Free Shipping: Sterling Forever Jewelry Up to 60% Off
+    *   Best of the Season: Dresses Up to 65% Off
+    *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
     *   Handbags
+    *   Jewelry
     *   Accessories
     *   Lingerie &. Shapewear
     *   Watches
 *   MenShop Sale Events
     
+    *   Robert Graham
+    *   Robert Graham Clothing &. More
+    *   Hawke &. Co
+    *   JBW Watches
+    *   Luxe Men's Shoes ft. Badgley Mischka
+    *   Travel Accessories ft. LEWIS N. CLARK
+    *   Daddy &. Me: Ben Sherman Footwear
     *   Hudson Jeans Men Up to 55% Off
     *   Zanzara Up to 60% Off
-    *   Hybrid Green Label Up to 75% Off
-    *   The Gift Edit: Luxe &. Designer Styles Up to 65% Off
-    *   The Gift Edit: Styles for Him Up to 60% Off
-    *   The Gift Edit: Cold-Weather Styles Up to 65% Off
-    *   The Gift Edit: Stocking Stuffers Under $20
-    *   Men's Shoe Steals Up to 65% Off
-    *   Tommy Hilfiger Men's Shoes
     
-    *   Designer Sun ft. Prada
-    *   Champion Men Under $50
-    *   Robert Barakett
+    *   Hybrid Green Label Up to 75% Off
+    *   Men's Shoe Steals Up to 65% Off
+    *   The Gift Edit: Cold-Weather Styles Up to 65% Off
+    *   The Gift Edit: Luxe &. Designer Styles Up to 65% Off
+    *   The Gift Edit: Stocking Stuffers Under $20
+    *   The Gift Edit: Styles for Him Up to 60% Off
+    *   Tommy Hilfiger Men's Shoes
     *   Ted Baker London Men's Shoes
-    *   Roberto Cavalli Watches &. More Up to 70% Off
     *   Modern Fiction Up to 60% Off
-    *   Wolverine Men
-    *   BEARPAW Men
     
     Shop By Category
     *   Shoes
@@ -198,90 +180,88 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Watches
 *   KidsShop Sale Events
     
+    *   All Dressed Up: Zunie Dresses &. More
+    *   Daddy &. Me: Ben Sherman Footwear
+    *   Jessica Simpson Baby &. Girls' Styles
     *   Sleepover Faves: Kids' Character PJs &. Luggage
     *   Hudson Jeans Kids Up to 55% Off
     *   Frenchie Mini Couture
     *   $30 &. Under: Harper Canyon
-    *   The Gift Edit: Styles for Kids Up to 60% Off
     *   The Gift Edit: Cold-Weather Styles Up to 65% Off
-    
-    *   Nautica Kids &. More Up to 60% Off
+    *   The Gift Edit: Styles for Kids Up to 60% Off
     *   Baby Gear ft. aden + anais
-    *   The Cool List: Roxy &. Quiksilver
-    *   Pastourelle by Pippa and Julie
-    *   Nautica Boys
     
     Shop By Category
     *   Toy Shop
     *   Girls' Sizes 7-16
-    *   Boys' Sizes 8-20
     *   Girls' Sizes 2T-6X
-    *   Baby Boy
     *   Girls' Shoes
-    *   Boys' Sizes 2T-7
+    *   Baby Boy
+    *   Boys' Sizes 8-20
     *   Baby Girl
-    *   Boys' Shoes
+    *   Boys' Sizes 2T-7
     *   Baby Gear &. Essentials
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Give More Than a Gift: Le Creuset
+    *   Free Shipping: Bedding Steals Up to 50% Off
+    *   Free Shipping: Shun Cutlery Classic Collection
+    *   Stocking Stuffers: Phone Chargers, Cables &. More
+    *   For Your Fur Baby: Pet Accessories &. More
+    *   Travel Accessories ft. LEWIS N. CLARK
     *   Free Shipping: Storage for Every Room
     *   Pretty on the Fly: Luggage Up to 75% Off
     *   Look on the Bright Side: Lighting for Every Room
     *   Free Shipping: Pillows &. More
     *   Free Shipping: Bedding Blowout
+    
     *   Modern Finishing Touches: Decor from $20
     *   Free Shipping: Wall Decor &. Accents
     *   Must-Have Tech Accessories Starting at $15
     *   Quality Quilt Sets &. Bedding
     *   Organization Essentials &. More Under $24
     *   Free Shipping: Framed Art Up to 60% Off
-    
     *   Free Shipping: Hand-Painted Oil Reproductions
     *   One-Stop Shop: Christmas Decor
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Quirky &. Fun Towels, Coasters and More
-    *   Nambe
-    *   Kitchen Must-Haves from Cuisinart
-    *   Gift or Get: Smart Watch Bands, Chargers &. More
-    *   Kendra Scott Home Decor
-    *   Be Thankful &. Merry: Holiday Decor from $15
-    *   Holiday Bakeware Starting at $10
-    *   Tis the Season: Gnomes &. More Holiday Decor
     
     Shop By Category
     *   Kitchen &. Tabletop
-    *   Holiday Decorations
     *   Luggage &. Travel
-    *   Home Decor
     *   Bedding
     *   Electronic &. Tech Accessories
+    *   Home Decor
+    *   Holiday Decorations
     *   Pet Accessories
-    *   Rugs &. Doormats
     *   Outdoor Living
+    *   Rugs &. Doormats
 *   BeautyShop Sale Events
     
-    *   Clean Makeup: bareMinerals Starting at $10
+    *   NEST Fragrances: Home Scents, Body Milk &. More
+    *   Bounce Curl Hair Care from $15
+    *   Korean Beauty: Leaders Cosmetics from $15
     *   TrustMD Skin Care
     *   Grande Cosmetics
     *   Ancient Nutrition Protein
+    *   Clean Makeup: bareMinerals Starting at $10
+    
     *   Pre de Provence: French Soaps &. More from $10
     *   Zoe Ayla: Crystal Face Rollers &. More
     *   ORA Derma Roller &. Microdermabrasion Tools
-    
     *   Best in Beauty: Palettes, Lips &. More
     *   Mirenesse Australia Starting at $15
     *   Best Selling Hair Tools
     *   K-Beauty Skin Care ft. Let Me Skin &. LA MUSE
-    *   Celebrity Strands Hair Extensions Up to 70% Off
-    *   Luxe Skin Care from $15
     
     Shop By Category
     *   Skin Care
     *   Makeup
-    *   Hair Care
     *   Bath &. Body
-    *   Nails
+    *   Hair Care
     *   Fragrance
+    *   Nails
     *   Tools &. Accessories
     *   Makeup Bags
 
