@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-$15 Christmas Needlepoint Stocking w/free Personalization. 50% off all other styles!
+Tees starting at $10. 50% off all other full-price styles!
 
-code: LESTOCKING pin: PROMOTION DETAILS
+code: LETEE pin: PROMOTION DETAILS
 
 Customer Service Menu
 
