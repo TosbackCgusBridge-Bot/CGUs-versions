@@ -56,18 +56,14 @@ Picked by Pinterest—get it here! THE LOCAL LOOKLocally curated, universally lo
   
 Recommended for You
 
-*   $60
+*   View Price in Cart
     
-    Arizona Womens Galen Block Heel Zip Booties(91)
-*   $424 - $2974after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(253)
-*   $1104after couponwas $27 St. John's Bay Active 1/4 Zip Fleece Pullover(57)
+    was $120 Nike Women's Heavyweight Puffer Jacket(4)
 *   $3399after couponwas $72 Xersion Water Resistant Lightweight Puffer Jacket(34)
-*   $70
-    
-    a.n.a Womens Alford Stacked Heel Motorcycle Boots(35)
-*   $80
-    
-    Arizona Womens Dino Wide Calf Block Heel Riding Boots(13)
+*   $424 - $2974after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(253)
+*   $1274after couponwas $32 St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(32)
+*   $5949 - $7649after couponwas $145 - $185 North Pole Trading Co. Faux Mink to Sherpa Comforter(31)
+*   $084after couponwas $5 St. John's Bay Womens Scoop Neck Sleeveless Tank Top
 
 Shop JCPenney Black Friday Deals
 
@@ -76,8 +72,38 @@ Looking for the best deals this holiday season? We’ve got you covered with our
   
 Shop and Save at JCPenney
 
-At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! Shop our mattresses and save on mattresses from brands, such as Sealy, Serta and Tempurpedic. Shop the latest styles in women's apparel, or check out the variety of women's dresses available at amazing prices. Buy stylish new furniture and home decor. We have great deals on apparel too! Save on men's hoodies and sweatshirts, women's sweaters and cardigans, fall accessories, and more for the entire family. For the tech savvy, we have a wide selection of cool gadgets that will make excellent gifts for any occasion. JCPenney is your one-stop shop for fantastic savings! Your journey towards better value starts and ends with us, online or at your closest JCPenney store!
+At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! We take pride in being a one-stop shop for all your needs, with as many options as you can imagine.
 
+  
+
+Shop our mattresses and save on brands such as Sealy and Serta. You’ll find every size, from twin mattresses all the way to California king, and in the firmness you prefer. Don’t forget to stock up on sheets and adorn your bed with the stylish, cozy essentials you love.
+
+  
+
+Shop the latest styles in women's apparel and check out the variety of women's dresses available at amazing prices. Save on men's hoodies and sweatshirts, women's sweaters and cardigans, fall accessories, and clothing for kids.
+
+  
+
+Buy stylish new furniture and home décorfrom brands you love and trust. Save on the best couches and coffee tables from Signature Design by Ashley. Find a myriad of options for lighting and rugs, as well as those small accent pieces for walls and shelves.
+
+  
+
+For the tech savvy, we have a wide selection of cool gadgets that will make excellent gifts for any occasion. From brands like Sharper Image and Brookstone, bring your home into the future with smart home tech that’s sure to make life a little easier. Discover games for kids, fitness trackers, and smartwatches for the family.
+
+  
+
+If having a piece of jewelry for every event is your thing, browse through our selection of fine jewelry. From gold necklaces to diamond earrings, men’s watches to silver jewelry, save big on the finest collections today.
+
+  
+
+JCPenney is your one-stop shop for fantastic savings! Your journey towards better value starts and ends with us, online or at your closest JCPenney store!
+
+  
+  
+  
+  
+  
+  
   
 Add To Cart
 
