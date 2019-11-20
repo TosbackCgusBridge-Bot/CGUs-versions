@@ -50,9 +50,8 @@ Date Range Date Range content loading
     
     View Account Requests
     
-    Account Requests by Year - Worldwide 10k9k8k7k6k5k4k3k2k1k0k82%201881%201775%201667%201560%201454%2013
-    *   Requests Received
-    *   Requests where Data Provided
+    Account Requests by Year - Worldwide
+    
 *   Account Preservation
     
     Account Preservation requests are based on account identifiers such as an Apple ID or email address.   
