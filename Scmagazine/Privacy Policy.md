@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Phishing emails spoof WebEx invites, abuse Cisco open redirect
-    *   VMware patches five security vulnerabilities
-    *   Get ahead of the cybersecurity curve
-    *   Former Twitter employees charged with using access to spy for Saudi Arabia
-    *   Why weakening COPPA could put children at risk online
-    
-    *   Pwn2Own Tokyo 2019 victimize Sony, Samsung and Amazon devices
-    *   Sumo Logic acquires Jask
-    *   Former Twitter employees charged with using access to spy for Saudi Arabia
-    *   Using security orchestration to simplify IoT defense in depth
-    *   Bugcrowd breaks its weekly bounty payout record
-    
-    *   Get ahead of the cybersecurity curve
-    *   APT33 sics small, elusive botnets on U.S. and global targets
-    *   Design flaw leaves Bluetooth devices vulnerable
     *   Extensive personal health information exposed in Solara Medical data breach
-    *   Report: Influential manufacturing trade group targeted by Chinese hackers
+    *   How to prepare for the U.S. Census to move online
+    *   Aventura Technologies sold Chinese-made security gear with bugs to gov't, feds say
+    *   Using security orchestration to simplify IoT defense in depth
+    *   AnteFrigus ransomware leaves C alone, goes after other drives
+    
+    *   MegaCortex ransomware variant threatens data breach, alters credentials
+    *   AnteFrigus ransomware leaves C alone, goes after other drives
+    *   Macys.com Magecart attack yields payment, personal info
+    *   Arkansas AG reiterates need to report medical data breaches
+    *   Pwn2Own Tokyo 2019 victimize Sony, Samsung and Amazon devices
+    
+    *   How to prepare for the U.S. Census to move online
+    *   Louisiana spurns attempted ransomware attack, governor says
+    *   Macys.com Magecart attack yields payment, personal info
+    *   Disney+ not the happiest place on Earth, accounts stolen found on sale
+    *   New NextCry ransomware targets NextCloud sync and share solution
 
 Back to Top
 
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
