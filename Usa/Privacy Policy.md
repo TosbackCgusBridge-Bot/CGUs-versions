@@ -182,11 +182,11 @@ Subscribe
 
 $400.00/year
 
-Try, buy, or learn more about Autodesk products See all products Autodesk University Las Vegas | November 18–21, 2019 Experience what’s next for your industry at AU Las Vegas
+Try, buy, or learn more about Autodesk products See all products Autodesk University Las Vegas | November 18-21, 2019 Live stream Autodesk University sessions now
 
-Join 10,000+ professionals in construction, manufacturing, architecture, engineering, and media creation for four days of learning and networking at Autodesk’s annual conference.
+Watch live-streamed keynotes and top sessions during Autodesk’s annual conference in Las Vegas. Learn from experts and thought leaders in your industry.
 
-Learn more about AU
+watch now
 
 Welcome to the new era of connected construction Introducing Autodesk Construction Cloud™
 
