@@ -84,7 +84,7 @@
     *   Gifts for Her
     *   Gifts for Him
     *   Thank You Gifts
-    *   Sympathy GiftsMost Popular Thanksgiving
+    *   Sympathy GiftsMost Popular Thanksgiving Christmas
 *   Business Gifts
 *   Sale
     View All Categories Shop by Category*   Free Shipping
@@ -177,7 +177,7 @@
     *   Gifts for Her
     *   Gifts for Him
     *   Thank You Gifts
-    *   Sympathy GiftsMost Popular Thanksgiving
+    *   Sympathy GiftsMost Popular Thanksgiving Christmas
 *   Business Gifts
 *   Sale
     View All Categories Shop by Category*   Free Shipping
