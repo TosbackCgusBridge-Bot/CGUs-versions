@@ -162,15 +162,15 @@ Did you know?
 
 63% of people consider a company's privacy and security history before using their products or services.
 
-Privacy Policy Versions: September 26, 2019 (current)January 2, 2019April 11, 2018September 12, 2016April 7, 2016July 8, 2015January 1, 2015December 10, 2014October 29, 2013February 5, 2013March 28, 2012June 27, 2011SurveyMonkey Apply-FluidReview Privacy Policy (archived)TechValidate Privacy Policy (archived)Wufoo Privacy Statement (archived)
+Privacy Policy Versions: November 18, 2019 (current)September 26, 2019January 2, 2019April 11, 2018September 12, 2016April 7, 2016July 8, 2015January 1, 2015December 10, 2014October 29, 2013February 5, 2013March 28, 2012June 27, 2011SurveyMonkey Apply-FluidReview Privacy Policy (archived)TechValidate Privacy Policy (archived)Wufoo Privacy Statement (archived)
 
-LAST UPDATED: SEPTEMBER 26TH, 2019
+LAST UPDATED: NOVEMBER 18TH, 2019
 
 Highlighted text represents any recent changes to our privacy policy.
 
 1\. Introduction
 
-This Privacy Policy applies to all the products, services, websites and apps offered by SurveyMonkey Inc., SurveyMonkey Europe UC, SurveyMonkey Brasil Internet Eireli and their affiliates (collectively “SurveyMonkey”), except where otherwise noted. We refer to those products, services, websites and apps collectively as the “services” in this policy. Unless otherwise noted, our services are provided by SurveyMonkey Inc. inside of the United States, by SurveyMonkey Brasil Internet Eireli inside of Brazil, and by SurveyMonkey Europe UC everywhere else.
+This Privacy Policy applies to all the products, services, websites and apps offered by SurveyMonkey Inc., SurveyMonkey Europe UC, SurveyMonkey Brasil Internet Eireli, Usabilla BV, and other SurveyMonkey affiliates (collectively “SurveyMonkey”), except where otherwise noted. We refer to those products, services, websites and apps collectively as the “services” in this policy. Unless otherwise noted in your contract, our services are provided by SurveyMonkey Inc. inside of the United States, by SurveyMonkey Brasil Internet Eireli inside of Brazil, and by SurveyMonkey Europe UC everywhere else.
 
 References to "data" in this Privacy Policy will refer to whatever data you use our services to collect, whether it be survey responses, data collected in a form, or data inserted on a site hosted by us – it’s all your data! Reference to personal information or just information, means information about you personally that we collect or for which we act as custodian.
 
@@ -184,7 +184,9 @@ SURVEYMONKEY APPLY OR FLUIDREVIEW
 
 WUFOO
 
-SURVEYMONKEY CONTRIBUTE (IN-HOUSE PANEL)
+USABILLA
+
+SURVEYMONKEY CONTRIBUTE/REWARDS (IN-HOUSE PANEL)
 
 2\. Information we collect
 
@@ -206,11 +208,11 @@ You have signed up and agreed to take surveys sent to you by SurveyMonkey on beh
 
 Website Visitor
 
-You are just visiting one of our websites because you are Curious!
+You are just visiting one of our websites because you are Curious or you have heard about us from our marketing and sales channels!
 
 2.2 Information we collect about you.
 
-*   Contact Information (for example an email address).  
+*   Contact Information (for example name or email address).  
     You might provide us with your contact information, whether through use of our services, a form on our website, an interaction with our sales or customer support team, or a response to one of SurveyMonkey’s own surveys.
 *   Usage information.  
     We collect usage information about you whenever you interact with our websites and services. This includes which webpages you visit, what you click on, when you perform those actions, what language preference you have, what you buy and so on.
@@ -225,7 +227,7 @@ You are just visiting one of our websites because you are Curious!
 *   Information from third parties and integration partners.  
     We collect your personal information from third parties where, for example, you give permission to those third parties to share your information with us or where you have made that information publicly available online.
 
-If you are a Creator we will also collect:
+If you are a Creator we may also collect:
 
 Account Information
 
@@ -234,7 +236,7 @@ Account Information
 *   Billing information.  
     If you make a payment to SurveyMonkey, we require you to provide your billing details, a name, address, email address and financial information corresponding to your selected method of payment (e.g. a credit card number and expiration date or a bank account number). If you provide a billing address, we will regard that as the location of the account holder to determine which SurveyMonkey entity with whom you contract and the sales tax, if applicable, to be applied to your purchase.
 *   Account settings.  
-    You can set various preferences and personal details on pages like your account settings page. For example, your default language, time zone and communication preferences (e.g. opting in or out of receiving marketing communications from SurveyMonkey).
+    You can set various preferences and personal details on pages like your account settings page (or in your account settings page for our other products as applicable). For example, your default language, time zone and communication preferences (e.g. opting in or out of receiving marketing communications from SurveyMonkey).
 
 Use of some of our services will also result in us collecting the following data on your behalf:
 
@@ -315,7 +317,7 @@ Use of some of our services will also result in us collecting the following data
     
     *   Third parties and integrations.
         
-        We collect and use information from third parties and integration partners to:
+        We collect and use information from third parties and integration partners, where applicable to one of our services, to:
         
         *   Ensure you can sign-up to our service from a third party integration like Facebook/LinkedIn/Microsoft/Google/SSO;
             
@@ -324,7 +326,7 @@ Use of some of our services will also result in us collecting the following data
         *   Ensure you can use our service in conjunction with other services.
             
         
-        See further information here on our API partners.
+        See further information here on our API partners – for other SurveyMonkey services see below or on the website for that service.
         
     
     *   Service and Marketing uses.
@@ -397,7 +399,7 @@ Use of some of our services will also result in us collecting the following data
     
     Examples
     
-    We collect information about the types of questions you answer. This data will be aggregated and anonymized so we can examine patterns in terms of respondent preferences when submitting responses (see further below in Information for Survey Respondent section). We collect and use all this data for our legitimate interests like helping us improve the experience for respondents (so that questions are easier to answer), to understand industry trends in and to help improve the completion rates on surveys/forms.
+    We collect information about the types of questions you answer. This data will be aggregated and anonymized so we can examine patterns in terms of respondent preferences when submitting responses (see further below in Information for Survey Respondent section). We collect and use all this data for our legitimate interests like helping us improve the experience for respondents (so that questions are easier to answer), for training purposes and to understand industry trends in and to help improve the completion rates on surveys/forms.
     
     We will also use usage information such as the type of survey, form, questionnaire or application that you answered to personalize products we show you on completion of a survey when you are re-directed to our website.
     
@@ -430,7 +432,7 @@ Use of some of our services will also result in us collecting the following data
     
     *   Machine learning.
         
-        We will use machine learning techniques on response data, metadata (as described above) and cookie data, in order to provide Creators with useful and relevant insights from the data they have collected using our services, to build features, improve our services, for fraud detection and to develop aggregated data products. You can read more about this in relation to surveys below.
+        We will use machine learning techniques on response data, metadata (as described above) and cookie data, in order to provide Creators with useful and relevant insights from the data they have collected using our services, to build features, improve our services, for fraud detection and to develop aggregated data products. You can read more about this in relation to SurveyMonkey surveys below.
         
     
     *   To manage our services we will also internally use your information and data, for the following limited purposes:
@@ -444,7 +446,7 @@ Use of some of our services will also result in us collecting the following data
         To respond to legal requests or prevent fraud, we may need to disclose any information or data we hold about you. If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond.
         
     
-    Use of survey responses (SurveyMonkey surveys)
+    Use of survey responses (SurveyMonkey surveys only)
     
     In general survey responses to SurveyMonkey surveys are controlled and managed by the Creator (the person who sent or deployed that survey). In those instances SurveyMonkey is only processing those responses on behalf of the Creator.
     
@@ -490,7 +492,7 @@ Use of some of our services will also result in us collecting the following data
     
     *   Contact Information.
         
-        We use contact information to respond to your inquiries or send you information about our services either where you have agreed to this at the point of providing your information or where you operate in a business which may be interested in our services and for as long as you do not opt-out.
+        We use contact information to respond to your inquiries or send you information about our services, (either where you have agreed to this at the point of providing your information or where you operate in a business which may be interested in our services and for as long as you do not opt-out).
         
     
     Examples
@@ -570,6 +572,9 @@ Use of some of our services will also result in us collecting the following data
         
         To respond to legal requests or prevent fraud, we may need to disclose any information or data we hold about you. If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond.
         
+    
+    In some cases, as a former website visitor, we may not have any personal information about you (for example if you have not interacted with our site or have cleared your cookies).
+    
 
 4\. Information you share
 
@@ -603,11 +608,11 @@ We enter into confidentiality and data processing terms with partners to ensure 
     *   protect against harm to the rights, property or safety of our users, the public or to SurveyMonkey and/or as required or permitted by law.
     *   facilitate a sale, merger or change in control of all or any part of our company or business or in preparation for any of these events.
 
-Where we use any third parties to assist us in service delivery for you (the Creator), and they process your data as part of that service, we provide a list of these third parties which is available on completion of this form.
+Where we use any third parties to assist us in service delivery for you (the Creator), and they process your data as part of that service, we provide a list of these third parties which is available on completion of this form. This form contains a list of all sub-processors used across all services covered by this Privacy Policy so please keep in mind that your service may only be impacted by a subset of these sub-processors.
 
 6\. Cookies
 
-We and our partners use cookies and similar technologies on our websites. For more information see our Cookies Policy. For information about cookies used in our surveys please see Cookies used on Survey Pages.
+We and our partners use cookies and similar technologies on our websites. For more information see our Cookies Policy. For information about cookies used in our surveys please see Cookies used on Survey Pages. If you are a customer of SurveyMonkey and separately use cookies or similar technologies in conjunction with any of our products and services, then you yourself will be responsible for complying with any laws related to the use of those technologies and this Privacy Policy is not applicable to that use by you.
 
 We use certain cookies, as described in our Cookies Policy and here in our Privacy Policy, that you agree to when you use our sites and, in the case of some cookies, for legitimate interests of delivering and optimizing our services (where the cookie delivers essential functionality). Cookies are small bits of data we store on the device you use to access our services so we can recognize repeat users. Each cookie expires after a certain period of time, depending on what we use it for. We use cookies and similar technologies for several reasons:
 
@@ -650,7 +655,7 @@ EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield.
 
 SurveyMonkey Europe UC has entered into contractual terms to include standard contractual clauses with SurveyMonkey Inc. for the transfer of data to SurveyMonkey Inc. as part of delivery of service. SurveyMonkey Inc. is located in the United States and accordingly, data (to include Respondent data) will be transferred to the United States.
 
-SurveyMonkey Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield. SurveyMonkey is committed to subjecting all personal information and personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. https://www.privacyshield.gov/.
+SurveyMonkey Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield. SurveyMonkey is committed to subjecting all personal information received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. https://www.privacyshield.gov/.
 
 SurveyMonkey also complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
@@ -672,42 +677,37 @@ You can opt-out from direct marketing in your account and we provide opt-out opt
 
 As mentioned above – all response data at an individual level is controlled by the Creator. SurveyMonkey can be a data controller of data about Respondents only in the very limited ways described in the section here called “How we use the information we collect - Respondent”. To the extent that is the case we have identified the correct controller below.
 
-For Creators, Respondents, Website Visitors and Panel who are addressed in this privacy policy and who are located outside the United States, your data controller is SurveyMonkey Europe UC to the extent that it is processing your personal data.
+For Creators, Respondents, Website Visitors and Panel who are addressed in this privacy policy and who are located outside the United States, your data controller is SurveyMonkey Europe UC to the extent that it is processing your personal data. For Usabilla please see section 16.4.
 
 14\. Your rights
 
-Some of you (in particular, European users and those whose information we receive under the EU-U.S. Privacy Shield) have certain legal rights to obtain information about whether we hold personal information about them, to access personal information we hold about them, and to obtain its correction, update, amendment or deletion in appropriate circumstances. Some of these rights may be subject to some exceptions or limitations. We will respond to your request to exercise these rights within a reasonable time (and in all cases within 30 days of receiving a request).
+For SurveyMonkey Apply users please see information on how to exercise your rights here. This section describes the rights you may have generally as a customer of any SurveyMonkey service.
 
-Rights which you are entitled to are:
-
-*   Data access rights
-*   Right to restrict processing
-*   Right of Rectification
-*   Right to Erasure (Right to be Forgotten)
-*   Right to object to processing
-*   Right to withdraw consent. and
-*   Data portability rights
+You may wish to exercise a right to obtain information about yourself or to correct, update or delete that information. For more information about these rights you can read about it here. Some of these rights may be subject to some exceptions or limitations in local law. Please note your rights and choices vary depending upon your location. We will take reasonable steps to verify your identity and we will respond to your request to exercise these rights within a reasonable time (and in all cases within 30 days of receiving a request) subject to the below for specific categories of person.
 
 *   Creator _á_
     
-    Where you hold an account with any SurveyMonkey service, you are entitled to a copy of all personal data which we hold in relation to you. You are also entitled to request that we restrict how we use your data or object to some aspect of our treatment of your data. You can access a lot of your data in your own account when you log in. However, if you want to obtain a full copy of all your data or to request a restriction / limitation in how we use your data, please contact us here.
+    Where you hold an account with any SurveyMonkey service, you are entitled to a copy of all personal data which we hold in relation to you. You also may be entitled to request that we restrict how we use your data or object to some aspect of our treatment of your data. You can access a lot of your data in your own account when you log in. If you want to exercise your rights, please contact us here.
     
     By way of reminder, SurveyMonkey also enables you to export your own response data from our system in a variety of formats so that you can back it up, or use it with other applications.
     
 *   Respondent _á_
     
-    Where you have responded to a survey, form, questionnaire or application sent to you by a Creator, using a SurveyMonkey service, you will need to reach out directly to that individual or organization to discuss managing, deleting, accessing, restricting access to or otherwise withdrawing consent for use of, the information which you provided to them in your responses. SurveyMonkey does not control your response data and, accordingly, is not in a position to directly handle these requests in relation to that data. If you are having difficulties finding this Creator you can contact us through our support team and we will try our best to help you.
-    
-    Where you wish to exercise any of the above rights with respect to the categories of Respondent data described in this policy for which SurveyMonkey is a data controller, please contact us here. See more information on how to contact us and how to make complaints in our privacy policy.
+    Where you have responded to a survey, form, questionnaire or application sent to you by a Creator, using a SurveyMonkey service, you will need to reach out directly to that individual or organization to discuss managing, deleting, accessing, restricting access to or otherwise withdrawing consent for use of, the information which you provided to them in your responses. SurveyMonkey does not control your response data and, accordingly, is not in a position to directly handle these requests in relation to that data. If you are having difficulties finding this Creator or if you have any other questions after reading this Privacy Policy, you can contact us through our support team and we will try our best to help you.
     
 *   Visitor _á_
     
     Where you have visited our website and you want to exercise any of the above rights please contact our support team here. Alternatively if your request is for the right to be forgotten as it relates only to our use of cookies you can achieve this by clearing the cookies in your browser settings. See our help center article describing how to do this here.
     
 
+Other rights and choices
+
+*   For rights and choices specific to California consumers click here. Please note we will take reasonable steps to verify your identity and the authenticity of your request. Once verified, we will maintain your request in the event our practices change.
+    
+
 15\. Exercising your rights
 
-Our Contact Information for Privacy Inquiries
+Except as explicitly provided herein, please use the following Contact Information for Privacy Inquiries
 
 SurveyMonkey Inc.
 
@@ -717,7 +717,7 @@ San Mateo, California 94403
 
 United States
 
-privacy@surveymonkey.com
+Or contact us here.
 
   
   
@@ -737,7 +737,9 @@ Dublin 4,
 
 Ireland
 
-dpo@surveymonkey.com
+Or contact us here.
+
+Note that our contact form is the best way to make a rights request with us.
 
   
   
@@ -785,13 +787,29 @@ If you are resident in the European Union and you are dissatisfied with how we h
     *   Cancel your Wufoo account. You can cancel your Wufoo account at any time through your account management page. Any cancellation of your Wufoo account will result in the deletion of your account and all form data stored in it. This data cannot be recovered once your account is cancelled. Please be aware that SurveyMonkey may for a time retain residual information in our backup and/or archival copies of our database for up to 12 months.
 *   16.4 Usabilla _á_
     
-    The Usabilla Privacy Statement is incorporated by reference in this Privacy Policy. Where there is any conflict between this Privacy Policy and the Usabilla Privacy Statement, the Usabilla Privacy Statement shall apply first.
+    The SurveyMonkey Privacy Policy applies to our Usabilla users, except where the Privacy Policy specifies a section that is only applicable to our SurveyMonkey survey tool, or information in this section distinguishes our treatment of data and information in the case of Usabilla’s service, in which case this Section takes precedence.
     
+    *   Information about Usabilla APIs is provided here.
+        
+    *   Information about Usabilla partners is provided here.
+        
+    *   We do not delete customer data unless the customer has instructed us to do so. If you request that we delete data within your account or you close your account all data is deleted permanently within 6 months. Customers can also set a data retention periods between 1-36 months after which data is automatically deleted.
+        
+    *   A description of the security standards applied to all data and information collected for Usabilla services is available here.
+        
+    *   To adjust your preferences and settings around data and information you must be logged into your account and/or can contact Usabilla’s team for assistance.
+        
+    *   To exercise your data rights (as described in Section 14 above) you can use the SurveyMonkey contact form (please specify that this is a Usabilla request) or you can contact Usabilla’s team.
+        
+    *   For Usabilla Creators and Visitors your data controller continues to be Usabilla B.V.
+        
 *   16.5 Audience/ Contribute _á_
     
     Audience/Contribute Policy
     
     International Panel Privacy Notice
+    
+    Rewards Privacy Statement
     
 
 *   Community:
