@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Russell Berman_: President Trump Has Found His Plumbers
+*   _David Graham_: 'It Was No Secret': Sondland's Bombshell Testimony
     
-*   _John Solomon_: Surprise: Schiff's Witnesses Confirm Biden's Ukraine Problem
+*   _Marc Thiessen_: Dems' Impeachment Bombshells Aren't Exploding
     
-*   _David Roberts_: With Impeachment, America's Epistemic Crisis Has Arrived
+*   _Joseph Crespino_: 2020 Dems Are in Georgia. The Stakes Couldn’t Be Higher.
     
-*   _Kerry Picket_: 'Bro-Like': Schiff Aide Was WH Friend of Eric Ciaramella
+*   _Ashley McGuire_: Will 2020 Dems Turn Off More Faith Voters in Fifth Debate?
     
-*   _Brad Bannon_: The 2 Events That Reshaped the Democratic Primary Race
+*   _Maria Cardona_: Trump Cannot Gaslight His Way Out of Impeachment
     
-*   _Alexandra DeSanctis_: Democrats on Abortion: Safe, Legal and Unlimited
+*   _Roger Kimball_: The Impeachment Ratings Flop
     
-*   _Jill Lawrence_: Why Buttigieg Is Rising--Maybe He Could Beat Trump
+*   _Ady Barkan_: Elizabeth or Bernie? A Wonderful Choice to Have
     
-*   _Stephen Moore_: What Trump Tax Cut 2.0 Could Look Like
+*   _J.T. Young_: Trump's 2020 Opponent Advantage
     
-*   _Carl Cannon_: Gettysburg, 1863: Press Reports Echo 2019 Partisanship
+*   _Sam Adler-Bell_: Why in the World Did Dems Just Extend the Patriot Act?
     
-*   _Art Cullen_: Yovanovitch Represents the Decency U.S. Is Desperate For
+*   _Ben Shapiro_: Chick-fil-A Caves to the Cultural Left
     
-*   _Robert Merry_: The Establishment's Ukraine Policy Is a Disaster
+*   _Ryan Cooper_: Pete Buttigieg's Self-Inflicted Black Voter Problem
     
-*   _Salena Zito_: How the Great Revolt of 2016 Will Reverberate in 2020
+*   _Mark Hemingway_: Wis. Elections Panel Sued for Not Cleaning Up Voter Rolls
     
-*   _Julian Zelizer_: Forget About Backlash--Impeachment Is Devastating for Trump
+*   _Josh Kraushaar_: Prepare for Democratic-Primary Chaos
     
-*   _Francis Menton_: Biden vs. Trump: Which One 'Bribed' Ukraine?
+*   _David Harsanyi_: Pelosi Already Attacking the Legitimacy of the 2020 Election
     
-*   _William Burns_: The 'Deep State' Isn't the Problem. The Weak State Is.
+*   _Ben Mathis-Lilley_: Which Dem Will Most Savagely Attack Mayor Pete Tonight?
     
-*   _Andrew McCarthy_: Democrats' 'Whistleblower' Secrecy Charade
+*   _Michael Goodwin_: Dems Should Hit Panic Button After Tuesday's Hearings
     
-*   _Kent Harrington_: Barr Investigates FBI and CIA for Doing Their Jobs
+*   _Zack Beauchamp_: Yesterday's Hearings Were a Disaster for Republicans
     
-*   _Victor Davis Hanson_: There's No Defense for Dems' Attempted Coup
+*   _Conrad Black_: America Should Demand an End to This Impeachment Absurdity
     
-*   _Ian Bremmer_: End of the American International Order: What Comes Next?
+*   _Stephen Collinson_: Gordon Sondland's Phone Call Is the Smoking Gun
     
-*   _Caroline Glick_: Pompeo's Statement Is a Diplomatic Turning Point
+*   _Francey Hakes_: Justice Finally Coming for Those Who Abused FISA Process
     
-*   _Gideon Rachman_: Hong Kong Is Xi Jinping's Failure
+*   _Jason Zengerle_: The Audacity of Pete Buttigieg
     
-*   _Jorge Castaneda_: What Really Happened in Bolivia?
+*   _Philip Wegmann_: Joe Biden's Evolution on Guns
     
-*   _Kevin Williamson_: Northwestern's Bungling Journalists Were Copying Pros
+*   _Arwa Mahdawi_: Dear Obama: Your Patronising Lectures Are Getting Old
     
-*   _Jonathan Chait_: Trump's Dangerous Vendetta Against Washington Post
+*   _Sen. Mark Udall_: 2020 Dems Should Commit to Act on Torture Report
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Biden, From Pro-Gun Senate Newbie to Gun-Control Gold Standard
+*   Wis. Elections Panel Sued for Not Cleaning Up Voter Rolls
+*   Schiff vs. Nunes: I Want to Make Sure There's No Effort to Out Whistleblower
 *   Watchdog: Hunter Biden's Burisma Post Had a Troubling Conflict
-*   Campus Under Siege as Hong Kong Police Battle Protesters
-*   Stephen A. Smith: Colin Kaepernick Doesn't Want to Play Football
-*   Yovanovitch Admits to "Appearance of Conflict" in Bidens' Role
-*   Democratic Gov. John Bel Edwards Wins Reelection in Louisiana
+*   "Trump Is..."--News Channel Descriptions Since 2015
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -258,31 +258,52 @@ Latest PollsAll Polls
     *   Buttigieg25
     *   Sanders9
     *   Klobuchar6
-    *   Gabbard3
     *   Steyer5
+    *   Gabbard3
     *   Yang2
-    *   Harris1
     *   Booker3
+    *   Harris1
     *   Bennet
-    *   Sestak
-    *   CastroButtigieg +10
-*   New Hampshire: Trump vs. BidenSt. Anselm
-    *   Biden51
-    *   Trump43Biden +8
-*   New Hampshire: Trump vs. WarrenSt. Anselm
-    *   Trump46
-    *   Warren47Warren +1
-*   New Hampshire: Trump vs. SandersSt. Anselm
-    *   Sanders49
-    *   Trump46Sanders +3
+    *   Castro
+    *   SestakButtigieg +10
+*   2020 Democratic Presidential NominationEconomist/YouGov
+    *   Biden30
+    *   Warren22
+    *   Sanders12
+    *   Buttigieg9
+    *   Harris4
+    *   Bloomberg
+    *   Yang2
+    *   Gabbard3
+    *   Klobuchar2
+    *   Booker1
+    *   Steyer1
+    *   Bennet1
+    *   Castro0Biden +8
+*   Wisconsin Democratic PrimaryMarquette
+    *   Biden30
+    *   Warren15
+    *   Sanders17
+    *   Buttigieg13
+    *   Harris2
+    *   Yang2
+    *   Booker3
+    *   Klobuchar3
+    *   Bullock1
+    *   Gabbard
+    *   Steyer1
+    *   Williamson1Biden +13
+*   Wisconsin: Trump vs. BidenMarquette
+    *   Biden44
+    *   Trump47Trump +3
 
 More Latest Polls In The News
 
-*   Trump: Nancy Pelosi Is "Grossly Incompetent, All She Wants To Do Is Focus On Impeachment"
-*   Schiff Interrupts Nunes Questioning: "I Want To Make Sure There Is No Effort To Out The Whistleblower"
-*   Dem Rep. Jeff Van Drew: Impeachment "Is Going To Get Us Nowhere," Democrats "Fractured The Nation"
-*   Pelosi: I Have A "Real Discomfort" Responding To What Republicans Say "Because They Are In Denial"
-*   Jim Jordan: "There Was Never A Quid-Pro-Quo" On Ukraine Like Democrats Promised, Zelensky "The Real Deal"
+*   Gabbard vs. Harris: "Our Democratic Party Is Not The Party That Is Of, By And for The People"
+*   Bernie Sanders Warns Democrats: We Will Lose Election If We Let Ourselves Be "Consumed" By Trump
+*   GOP Rep. Mike Turner Grills Sondland: No One On This Planet Told You Aid Was Tied To Investigations?
+*   Trump: Sondland Said I Told Him "No Quid-Pro-Quo," If You Weren't Fake News You'd Report That
+*   Sondland: There Was A Quid-Pro-Quo On Ukraine And "Everyone Was In The Loop" Including Perry, Pompeo
 
 *   Politics
 *   Policy
