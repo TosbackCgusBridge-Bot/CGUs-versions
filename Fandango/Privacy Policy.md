@@ -24,7 +24,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   A Beautiful Day in the Neighborhood
     *   Frozen II
     *   Citizen K
-    *   Dark Waters (2003)
+    *   Dark Waters (2019)
     *   Shooting the Mafia
     *   When Lambs Become Lions
     *   See All Opening This Week
