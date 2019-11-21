@@ -60,7 +60,7 @@ SUBSCRIBE NOW$3 for 3 months. Save 90%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowSinaloa cartel bodyguard extradited to El PasoCrimeWillow Smith stops in El Paso for a smoothiePeopleMiners face big challenge against New MexicoCollegeEl Paso Electric sale draws more oppositionNewsNew Humble Donut shop plans opening on East SideEntertainmentEPISD to consider tax incentives policy at meetingEducationMotorcyclist dies in freeway crashTrafficEl Paso County's most wanted fugitivesCrimeEl Paso Zoo's Chihuahuan Desert exhibit opens TuesdayEntertainmentUTEP men edge New MexicoCollegeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowSinaloa cartel bodyguard extradited to El PasoCrimeAarón Sánchez to promote new book in El PasoEntertainmentUTEP men edge New Mexico in thrillerCollegeEl Paso shooting memorial ready for unveilingLocalWillow Smith stops in El Paso for a smoothiePeopleEl Paso Electric deal with sale opponents closeNewsPedestrian collision on West El PasoNewsMiners face big challenge against New MexicoCollegeEPISD to consider tax incentives policy at meetingEducationEl Paso shooting victims file lawsuit against WalmartNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
