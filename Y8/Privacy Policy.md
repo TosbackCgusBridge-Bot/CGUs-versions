@@ -12,31 +12,31 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1212 games
-*   Most Popular Games 20088 games
+*   Best of new games 1225 games
+*   Most Popular Games 20093 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,058 games
-*   Driving &. Racing Games 6,174 games
+*   Games for girls 24,060 games
+*   Driving &. Racing Games 6,173 games
 *   Strategy &. RPG Games 3,645 games
-*   Management Games 4,247 games
-*   Thinking Games 12,431 games
-*   Action &. Adventure Games 14,887 games
+*   Management Games 4,246 games
+*   Thinking Games 12,428 games
+*   Action &. Adventure Games 14,893 games
 *   Sports Games 3,284 games
-*   Shooting Games 9,008 games
-*   Fighting Games 2,099 games
-*   Skill Games 10,632 games
-*   Arcade &. Classic Games 8,577 games
-*   Fun &. Crazy Games 4,785 games
+*   Shooting Games 9,009 games
+*   Fighting Games 2,101 games
+*   Skill Games 10,913 games
+*   Arcade &. Classic Games 8,581 games
+*   Fun &. Crazy Games 4,783 games
 
 Play with friends  
 Powered by Y8 Account 130 Y8 Multiplayer Games 2,142 Y8 High Score Games 1,191 Y8 Achievements Games 838 Y8 Screenshots Games 1,541 Y8 Online Save Games 3,246 All Y8 Games Games Last Highscore:
 
-**1,289,785** points on Farm Frenzy 2 by vuongvu
+**1** points on Mutant Fighting Arena by kii
 
 Help us improve Bad translation? Social
 
