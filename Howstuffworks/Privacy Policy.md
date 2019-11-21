@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksDoes Your Brain Get Tired Like the Rest of Your Body?1STIf at First You Don't Succeed, Try Tripe Again2NDHow the Ancient Land Blob Gondwana Became Today's Continents3RDThe Ultimate Downsize: Living in a Shipping Container Home4THHear Nature Speak | Supplement | SponsoredNew Invention From War Vet Stops The Constant RingingHear Nature Speak | Supplement | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredBest Of Senior | SponsoredBrad Pitt's Daughter Is Probably The Prettiest Girl AliveBest Of Senior | SponsoredLuxury Cruises | Search Ads | SponsoredYou've Never Seen Luxury Like This On A Cruise Ship. Research Luxury Mediterranean CruisesLuxury Cruises | Search Ads | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksWhy Is the North Star So Stellarly Important?1STIs Cold-Shocking Your Body After a Sauna a Good Idea?2NDLeonid Meteor Shower: What You Need to Know3RDWhy You Should Stop Raking Fall Leaves, Stat!4THTieBreaker | SponsoredNFL Teammates Are Terrified To Even Practice Against HimTieBreaker | SponsoredDaily Finance Stories | SponsoredHoney Boo Boo Is So Skinny Now And Looks Like A BarbieDaily Finance Stories | SponsoredBest Of Senior | SponsoredBrad Pitt's Daughter Is Probably The Prettiest Girl AliveBest Of Senior | SponsoredThedelite | SponsoredBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite | Sponsored
 
 Advertisement
 
-home &. garden-autoWhat Is a Mandala? (No, Not Nelson. That's Mandela)BY Michelle Konstantinovskyhome &. garden-autoHow Turducken Became the Ultimate Thanksgiving Triple PlayBY Jeremy Glasshome &. garden-auto9 Fascinating Facts About Julius Caesar, 'Dictator for Perpetuity'BY Dave RoosThe Primary Market | SponsoredRemember Her? Wait Till You See Her NowThe Primary Market | SponsoredDaily Finance Stories | SponsoredHoney Boo Boo Is So Skinny Now And Looks Like A BarbieDaily Finance Stories | Sponsored
+home &. garden-autoWhat's the Difference Between Whiskey and Bourbon?BY Patty Rasmussenhome &. garden-autoMachu Picchu: The Secrets of This Fabled Mountaintop CityBY Dave Rooshome &. garden-autoMassive 'Angel Oak' Has Witnessed 500 Years of South Carolina HistoryBY Patty RasmussenDirectExpose | SponsoredThe Controversial Scene That Ended 'Bewitched'DirectExpose | SponsoredTop 5 | SponsoredHer Belly Keeps Growing, Doctor Sees Scan And Calls AuthoritiesTop 5 | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksU.S. Military Dogs Usually Outrank Their HandlersThe Ghost of Wild West Gunslinger Tom Horn Still Haunts WyomingWhy Is Pancreatic Cancer So Deadly?7 Cool Facts About Will Rogers, Cowboy, Humorist, Self-declared President6 Wild and Wacky Takes on the Advent CalendarThe Four-day Workweek Isn't as Crazy as You Thinkby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksThe Pythagorean Theorem Makes Construction and GPS PossibleIf at First You Don't Succeed, Try Tripe Again5 Large Nations With No HomelandUse of the Exclamation Point Has Exploded!U.S. Military Dogs Usually Outrank Their HandlersHow the Ancient Land Blob Gondwana Became Today's Continentsby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Does Your Brain Get Tired Like the Rest of Your Body?Read Next StoryHear Nature Speak | SupplementNew Invention From War Vet Stops The Constant RingingHear Nature Speak | Supplement|SponsoredSponsoredRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Why Is the North Star So Stellarly Important?Read Next StoryTieBreakerNFL Teammates Are Terrified To Even Practice Against HimTieBreaker|SponsoredSponsoredRead Next StoryDaily Finance StoriesHoney Boo Boo Is So Skinny Now And Looks Like A BarbieDaily Finance Stories|SponsoredSponsoredRead Next Story
