@@ -40,7 +40,7 @@ Newsmax reserves the right to transfer the information it collects to successors
 
 **Activity of Our Business**
 
-Newsmax may use the Personal Data you share with us to provide you with the information or product(s) you signed up for or purchased. No Personal Data will be given to any third-party platform for advertising or marketing purposes.
+Newsmax may use the Personal Data you share with us to provide you with the information or product(s) you signed up for or purchased. No Personal Data will be given to any third-party platform for advertising or marketing purposes. Contact information for texting groups will not be shared to third parties.
 
 We may use third-party service providers, such as ad networks, to perform certain advertising activities on our behalf, such as retargeting, but we will not provide them with your Personal Data. Newsmax advertising does not use segments designed to target children under sixteen (16) years of age to serve or optimize advertisements. Newsmax does not use automatic decision-making. We may engage in profiling for targeted marketing purposes.
 
