@@ -47,7 +47,7 @@ Further reading
 *   Avoiding dropped connections in nginx containers with “STOPSIGNAL SIGQUIT”
 *   We reduced our Docker images by 60% with –no-install-recommends
 *   Lessons learned from 100+ private cloud builds
+*   Canonical enhances Kubernetes reliability for edge, IoT and multi-cloud
 *   foo.c
-*   Design and Web team summary – 8 November 2019
 
 *    ›
