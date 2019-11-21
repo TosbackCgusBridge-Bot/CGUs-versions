@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Extensive personal health information exposed in Solara Medical data breach
-    *   How to prepare for the U.S. Census to move online
-    *   Aventura Technologies sold Chinese-made security gear with bugs to gov't, feds say
-    *   Using security orchestration to simplify IoT defense in depth
-    *   AnteFrigus ransomware leaves C alone, goes after other drives
-    
-    *   MegaCortex ransomware variant threatens data breach, alters credentials
-    *   AnteFrigus ransomware leaves C alone, goes after other drives
+    *   With election on horizon, U.K.'s Labour Party contends with DDoS attacks
     *   Macys.com Magecart attack yields payment, personal info
-    *   Arkansas AG reiterates need to report medical data breaches
-    *   Pwn2Own Tokyo 2019 victimize Sony, Samsung and Amazon devices
-    
-    *   How to prepare for the U.S. Census to move online
     *   Louisiana spurns attempted ransomware attack, governor says
-    *   Macys.com Magecart attack yields payment, personal info
+    *   Report: Influential manufacturing trade group targeted by Chinese hackers
+    *   OpenText picks up Carbonite for $1.42B
+    
+    *   49 Google Play app titles found to deliver pesky ads
     *   Disney+ not the happiest place on Earth, accounts stolen found on sale
-    *   New NextCry ransomware targets NextCloud sync and share solution
+    *   SC Media wins top honor at Eddie &. Ozzie Awards
+    *   Extensive personal health information exposed in Solara Medical data breach
+    *   Ransomware attack knocks SmarterASP.net customers knocked offline
+    
+    *   Risk and compliance challenges in the swift moving lead-generation market
+    *   Senators press federal officials for ISAC funding, national 5G strategy
+    *   Report: Genuine HR emails trigger suspicions after accidentally using common phishing tricks
+    *   Google camera app flaw endangered millions of devices
+    *   ACBbackdoor trojan designed to hit Linux and Windows systems
 
 Back to Top
 
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
