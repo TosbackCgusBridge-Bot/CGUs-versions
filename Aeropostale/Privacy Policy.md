@@ -509,7 +509,7 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 OVER $50 Search Catalog Search
 
-ONLINE &. TODAY ONLY
+EXTENDED &. ONLINE ONLY
 
 AERO DOORBUSTERS
 
