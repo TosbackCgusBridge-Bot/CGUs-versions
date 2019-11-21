@@ -16,26 +16,22 @@ Top Privacy &. Security Links Top Privacy &. Security Links
 
 *   Overview
 *   Privacy
-*   Account &. Card Security
-*   Online &. Mobile Security
 *   Report a Problem
 
 *   Overview
 *   Privacy
-*   Account &. Card Security
-*   Online &. Mobile Security
 *   Report a Problem
 
 Other Privacy &. Security Links Other Privacy &. Security Links
 
 *   FAQs
 *   Fraud Prevention Checklist
-*   Glossary
+*   Privacy and Security Glossary
 *   Understand Merchant Compromise
 
 *   FAQs
 *   Fraud Prevention Checklist
-*   Glossary
+*   Privacy and Security Glossary
 *   Understand Merchant Compromise
 
 Bank of America Security CenterOpt out of online behavioral advertisingYou have successfully opted out of online behavioral advertising
@@ -454,3 +450,9 @@ Bank of America, N.A. Member FDIC. Equal Housing Lender new window
 text alerts
 
 1If we suspect fraud, we may send a text to your mobile number on file from 322632, 35422, 86006, 96264, 56433, 55983, and 85594.
+
+AARP
+
+Preferred Rewards members and Bank of America employees can take advantage of a discounted membership to AARP that's not available when clicking through to the AARP website from the Bank of America website. If you're enrolled in Preferred Rewards, sign in to Online Banking and select the **Special offers** link from the **Rewards &. Deals** drop down menu.
+
+If you're a Bank of America employee, visit **HR Connect** and search for **AARP**. You can also schedule an appointment to meet with a specialist in a financial center to obtain the AARP membership discount.
