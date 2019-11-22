@@ -7,15 +7,11 @@ Skip to main content
 *   Careers
 *   Businesses
     *   X
-    *   1.  TV Studios Production
-            1.  Telemundo StudiosTelemundo StudiosTelemundo Studios is a full service facilities company owned and operated by Telemundo / NBCUniversal.Telemundo Studios
-            2.  Universal Content ProductionsUniversal Content ProductionsCreates innovative and critically acclaimed original scripted content for all media platforms.Universal Content Productions
-            3.  Universal TelevisionUniversal TelevisionOne of the largest and most successful television production companies in the U.S. Produces primetime series, late night and reality programs for a variety of platforms.Universal Television
-        2.  International
+    *   1.  International
             1.  CNBC InternationalCNBC InternationalThe leading global broadcaster of live business and financial news and information, reporting directly from the major financial markets around the globe.CNBC International
             2.  hayuhayuhayu is the first all-reality subscription video-on-demand service of its kind – curated and fully integrated with social media – and available in the UK, Ireland &. Australiahayu
             3.  Global Distribution and InternationalGlobal Distribution and InternationalBrings together NBCUniversal International’s channels, distribution and production businesses people across the globe. The division includes Universal Networks International, International Television Distribution and International Television Production.Global Distribution and International
-        3.  Broadcast
+        2.  Broadcast
             
             1.  NBC EntertainmentNBC EntertainmentDevelops and schedules programming for the network’s primetime, late-night, and daytime schedules.NBC Entertainment
             2.  NBC NewsNBC NewsGlobal leader in news across all broadcast and digital platforms including NBC Nightly News with Lester Holt, TODAY and Meet the Press.NBC News
@@ -28,7 +24,7 @@ Skip to main content
             2.  NBC Sports Regional NetworksNBC Sports Regional NetworksNBC Sports Regional Networks is NBC Sports Group’s portfolio of nine regional networks that delivers more than 2,200 live sporting events and original content to more than 35 million homes.NBC Sports Regional Networks
             3.  NBCUniversal Owned Television StationsNBCUniversal Owned Television StationsIncludes 42 NBC and Telemundo local television stations that produce the best regional news, information and entertainment content.NBCUniversal Owned Television Stations
             4.  TeleXitosTeleXitosTeleXitos is the Telemundo Station Group’s national multicast network that serves as a destination for viewers who want to watch their favorite action and adventure television series and movies from the 1970s to 2000s in Spanish and without subtitles. TeleXitos
-        4.  Cable
+        3.  Cable
             1.  Bravo MediaBravo MediaOriginal pop culture programming including the best in food, fashion, beauty and reality.Bravo Media
             2.  CNBCCNBCThe world leader in business news featuring real-time financial market and business coverage to approximately 371 million homes worldwide.CNBC
             3.  E! EntertainmentE! EntertainmentThe only global, multiplatform brand for all things pop culture. News, reality and original scripted content.E! Entertainment
@@ -41,13 +37,14 @@ Skip to main content
             10.  Universal KidsUniversal KidsAs a kid-focused ecosystem with great TV content at the center, Universal Kids is programmed for the 2-12 year old audience, with a fresh mix of animated content, unscripted entertainment, and proven international hits. Universal Kids
             11.  UNIVERSOUNIVERSOModern general entertainment for Latinos, bringing the world's top sports franchises and edgy, emotional programming to more than 40 million households.UNIVERSO
             12.  USA NetworkUSA NetworkA powerful portfolio of scripted and unscripted drama and comedy originals seen in more than 102 million U.S. homes. USA Network
-        5.  Digital Businesses
+        4.  Digital Businesses
             1.  BluprintBluprintBluprint
             2.  FandangoFandangoThe nation's leading moviegoer destination. Sells tickets to more than 24,000 screens nationwide.Fandango
             3.  GolfNowGolfNowUses leading-edge technology to offers nearly 2 million registered golfers more ways to stay connected to their favorite courses and tee times.GolfNow
             4.  HuluHuluA premium streaming TV destination that seeks to captivate and connect viewers with the stories they love.Hulu
-            5.  SportsEngineSportsEngineHelping the world play smarter and live more, SportsEngine, Inc., an NBC Sports Group company, is the leading provider of Sport Life Management web software and mobile applications for youth, amateur, and professional sports.SportsEngine
-        6.  Film
+            5.  PeacockPeacockPeacock is NBCUniversal’s upcoming streaming service, launching in 2020. Peacock will offer exclusive originals, hit shows, new and classic movies, and a broad range topical content across news, sports, late-night and reality.Peacock
+            6.  SportsEngineSportsEngineHelping the world play smarter and live more, SportsEngine, Inc., an NBC Sports Group company, is the leading provider of Sport Life Management web software and mobile applications for youth, amateur, and professional sports.SportsEngine
+        5.  Film
             
             1.  DreamWorks AnimationDreamWorks AnimationDreamWorks Animation
             2.  Focus FeaturesFocus FeaturesProduces, acquires, and releases movies from rising and established talent and filmmakers. Offers a diverse slate for a wide range of moviegoers.Focus Features
@@ -62,6 +59,10 @@ Skip to main content
             3.  Universal Studios JapanUniversal Studios JapanOffers guests unique and popular entertainment experiences. Its renowned theme park features some of the world’s most thrilling film and TV based attractions.Universal Studios Japan
             4.  Universal Studios SingaporeUniversal Studios SingaporeOffers guests unique and popular entertainment experiences. Its renowned theme park features some of the world’s most thrilling film and TV based attractions.Universal Studios Singapore
             5.  Universal Beijing ResortUniversal Beijing ResortUniversal Beijing Resort is a widely anticipated theme park destination that will feature the Universal Studios Beijing theme park, the Universal CityWalk Beijing retail, dining and entertainment complex and two hotels.Universal Beijing Resort
+        6.  TV Studios Production
+            1.  Telemundo StudiosTelemundo StudiosTelemundo Studios is a full service facilities company owned and operated by Telemundo / NBCUniversal.Telemundo Studios
+            2.  Universal Content ProductionsUniversal Content ProductionsCreates innovative and critically acclaimed original scripted content for all media platforms.Universal Content Productions
+            3.  Universal TelevisionUniversal TelevisionOne of the largest and most successful television production companies in the U.S. Produces primetime series, late night and reality programs for a variety of platforms.Universal Television
 *   Search
 *   Twitter
 *   Facebook
@@ -105,6 +106,7 @@ Skip to main content
                 *   Fandango
                 *   GolfNow
                 *   Hulu
+                *   Peacock
                 *   SportsEngine
             *   FILM
                 *   DreamWorks Animation
@@ -352,4 +354,4 @@ For any questions or complaints about this Privacy Policy or our privacy practic
 *   Supply Chain Values
 *   Terms of Service
 
-© 2019 NBCUniversal Media, LLC. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/3364497" height="1" width="1" alt="" /></a></div>.
+© 2019 NBCUniversal Media, LLC. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/5927457" height="1" width="1" alt="" /></a></div>.
