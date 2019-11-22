@@ -1,4 +1,3 @@
-*   IND6-4HOU6-4Thu, 8:20 pm ET
 *   SEA8-2PHI5-5Sun, 1:00 pm ET
 *   DET3-6-1WAS1-9Sun, 1:00 pm ET
 *   OAK6-4NYJ3-7Sun, 1:00 pm ET
@@ -12,6 +11,7 @@
 *   DAL6-4NE9-1Sun, 4:25 pm ET
 *   GB8-2SF9-1Sun, 8:20 pm ET
 *   BAL8-2LA6-4Mon, 8:15 pm ET
+*   IND6-517HOU7-420Final
 
 *   News
 *   Scores
@@ -36,7 +36,6 @@
 *   NFL Films
 *   Game Pass
 
-*   IND6-4HOU6-4Thu, 8:20 pm ET
 *   SEA8-2PHI5-5Sun, 1:00 pm ET
 *   DET3-6-1WAS1-9Sun, 1:00 pm ET
 *   OAK6-4NYJ3-7Sun, 1:00 pm ET
@@ -50,6 +49,7 @@
 *   DAL6-4NE9-1Sun, 4:25 pm ET
 *   GB8-2SF9-1Sun, 8:20 pm ET
 *   BAL8-2LA6-4Mon, 8:15 pm ET
+*   IND17HOU20Final
 
 *   News
 *   Scores
