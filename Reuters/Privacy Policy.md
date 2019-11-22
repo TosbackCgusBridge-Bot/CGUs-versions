@@ -158,7 +158,7 @@ Free trial Search
 *   Legal products
     *   Westlaw
     *   Practical Law
-    *   Practical Law Connect
+    *   Panoramic
     *   CLEAR
     *   Law Books
     *   See all products
