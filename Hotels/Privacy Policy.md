@@ -114,7 +114,7 @@ Download the app and book on the go
 
 Hotels.com® Rewards
 
-Join now! Collect 10 nights, get 1 free\*
+Join now! Collect 10 nights, get 1 reward\* night
 
 *   Top destinations
     *   Hotels in Las Vegas
