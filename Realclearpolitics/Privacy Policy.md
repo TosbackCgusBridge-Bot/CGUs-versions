@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _David Graham_: 'It Was No Secret': Sondland's Bombshell Testimony
+*   _Matthews_: 4 Winners, 3 Losers From the 5th Democratic Debate
     
-*   _Marc Thiessen_: Dems' Impeachment Bombshells Aren't Exploding
+*   _Sen. Thom Tillis_: If You Can't Beat Him, Impeach Him
     
-*   _Joseph Crespino_: 2020 Dems Are in Georgia. The Stakes Couldn’t Be Higher.
+*   _Michelle Goldberg_: Donald Trump's Gordon Sondland Problem
     
-*   _Ashley McGuire_: Will 2020 Dems Turn Off More Faith Voters in Fifth Debate?
+*   _Sister Toldjah_: 3 Years of Media 'Bombshells': Why People Are Tuning Out
     
-*   _Maria Cardona_: Trump Cannot Gaslight His Way Out of Impeachment
+*   _Jim Newell_: With No Clear Front-Runner, Dems Resist the Urge to Attack
     
-*   _Roger Kimball_: The Impeachment Ratings Flop
+*   _George Friedman_: The Pressure on China--Does Xi Have Enemies?
     
-*   _Ady Barkan_: Elizabeth or Bernie? A Wonderful Choice to Have
+*   _James Forsyth_: The Collapse of the Anti-Brexit Campaign
     
-*   _J.T. Young_: Trump's 2020 Opponent Advantage
+*   _Jon Anderson_: Bolivia's Evo Morales Wants to Stay in the Game
     
-*   _Sam Adler-Bell_: Why in the World Did Dems Just Extend the Patriot Act?
+*   _John Stossel_: Debunking Climate Change Myths
     
-*   _Ben Shapiro_: Chick-fil-A Caves to the Cultural Left
+*   _Bill McKibben_: It's Now or Never to Avert Climate Change Catastrophe
     
-*   _Ryan Cooper_: Pete Buttigieg's Self-Inflicted Black Voter Problem
+*   _Owen Gleiberman_: 'No Safe Spaces' Sounds an Appropriate Alarm Bell
     
-*   _Mark Hemingway_: Wis. Elections Panel Sued for Not Cleaning Up Voter Rolls
+*   _Philip Wegmann_: Democratic Debate Detente in Atlanta
     
-*   _Josh Kraushaar_: Prepare for Democratic-Primary Chaos
+*   _Ella Nilsen_: Debate Confirms There Is No Democratic Presidential Frontrunner
     
-*   _David Harsanyi_: Pelosi Already Attacking the Legitimacy of the 2020 Election
+*   _Damon Linker_: Biden Struggled, as He Always Does--But Is He Winning?
     
-*   _Ben Mathis-Lilley_: Which Dem Will Most Savagely Attack Mayor Pete Tonight?
+*   _Andrew McCarthy_: How Biden &. Burisma Expose Schiff's Kangaroo Court
     
-*   _Michael Goodwin_: Dems Should Hit Panic Button After Tuesday's Hearings
+*   _Ronald Brownstein_: Why the War on Expertise May Backfire on Trump
     
-*   _Zack Beauchamp_: Yesterday's Hearings Were a Disaster for Republicans
+*   _Victor Davis Hanson_: 'I Assumed,' 'I Gathered,' 'I Presumed'
     
-*   _Conrad Black_: America Should Demand an End to This Impeachment Absurdity
+*   _Susan Glasser_: Ambassador Sondland's Revenge
     
-*   _Stephen Collinson_: Gordon Sondland's Phone Call Is the Smoking Gun
+*   _Miranda Devine_: Media's Sondland Spin Was a Dead Duck by 10:20 am
     
-*   _Francey Hakes_: Justice Finally Coming for Those Who Abused FISA Process
+*   _Zack Beauchamp_: Trump Didn't Want a Biden Probe, He Wanted a Political Show
     
-*   _Jason Zengerle_: The Audacity of Pete Buttigieg
+*   _Peter Thiel_: Quality Over Quantity: Grappling With How U.S. Scales
     
-*   _Philip Wegmann_: Joe Biden's Evolution on Guns
+*   _Jon Walker_: A Road Map to Warren's Entire Administration
     
-*   _Arwa Mahdawi_: Dear Obama: Your Patronising Lectures Are Getting Old
+*   _Andy Puzder_: Data Counter Dems, Media--Income Inequality Decreased in '18
     
-*   _Sen. Mark Udall_: 2020 Dems Should Commit to Act on Torture Report
+*   _Chris Smith_: The Giant Problem With Buttigieg's Momentum
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Biden, From Pro-Gun Senate Newbie to Gun-Control Gold Standard
+*   Democratic Debate Detente in Atlanta
 *   Wis. Elections Panel Sued for Not Cleaning Up Voter Rolls
-*   Schiff vs. Nunes: I Want to Make Sure There's No Effort to Out Whistleblower
+*   Trump: "It's All Over" for Democrats After Sondland Testimony
+*   Biden, From Pro-Gun Senate Newbie to Gun-Control Gold Standard
 *   Watchdog: Hunter Biden's Burisma Post Had a Troubling Conflict
-*   "Trump Is..."--News Channel Descriptions Since 2015
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,58 +252,57 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   New Hampshire Democratic Presidential PrimarySt. Anselm
-    *   Warren15
-    *   Biden15
-    *   Buttigieg25
-    *   Sanders9
-    *   Klobuchar6
-    *   Steyer5
-    *   Gabbard3
-    *   Yang2
-    *   Booker3
-    *   Harris1
-    *   Bennet
-    *   Castro
-    *   SestakButtigieg +10
-*   2020 Democratic Presidential NominationEconomist/YouGov
-    *   Biden30
-    *   Warren22
-    *   Sanders12
-    *   Buttigieg9
-    *   Harris4
-    *   Bloomberg
-    *   Yang2
-    *   Gabbard3
-    *   Klobuchar2
+*   2020 Democratic Presidential NominationEmerson
+    *   Biden27
+    *   Sanders27
+    *   Warren20
+    *   Buttigieg7
+    *   Harris3
+    *   Yang4
+    *   Bloomberg1
+    *   Gabbard2
+    *   Klobuchar1
+    *   Steyer2
     *   Booker1
-    *   Steyer1
-    *   Bennet1
-    *   Castro0Biden +8
-*   Wisconsin Democratic PrimaryMarquette
-    *   Biden30
-    *   Warren15
-    *   Sanders17
-    *   Buttigieg13
+    *   Castro1
+    *   Bennet0Tie
+*   Iowa Democratic Presidential CaucusIowa State University
+    *   Buttigieg26
+    *   Warren19
+    *   Sanders18
+    *   Biden12
+    *   Klobuchar5
     *   Harris2
+    *   Yang4
+    *   Steyer2
+    *   Gabbard2
+    *   Booker1
+    *   Bloomberg1
+    *   Castro1
+    *   Bullock1Buttigieg +7
+*   New York Democratic Presidential PrimarySiena
+    *   Biden24
+    *   Warren14
+    *   Sanders13
+    *   Buttigieg5
+    *   Harris3
     *   Yang2
-    *   Booker3
-    *   Klobuchar3
-    *   Bullock1
-    *   Gabbard
-    *   Steyer1
-    *   Williamson1Biden +13
-*   Wisconsin: Trump vs. BidenMarquette
-    *   Biden44
-    *   Trump47Trump +3
+    *   Booker2
+    *   Gabbard1
+    *   Klobuchar1
+    *   Bennet1
+    *   Castro1Biden +10
+*   General Election: Trump vs. BidenEmerson
+    *   Biden49
+    *   Trump51Trump +2
 
 More Latest Polls In The News
 
+*   Schiff: Trump's Defense Is Like Saying Watergate Burglars "Didn't Get What They Came For, No Harm, No Foul"
+*   Fiona Hill: GOP Claims Of Ukrainian Election Meddling Are A "Fictional Narrative" From Russia
+*   GOP Rep. Will Hurd: "I Have Not Heard Evidence Proving The President Committed Bribery Or Extortion"
 *   Gabbard vs. Harris: "Our Democratic Party Is Not The Party That Is Of, By And for The People"
-*   Bernie Sanders Warns Democrats: We Will Lose Election If We Let Ourselves Be "Consumed" By Trump
 *   GOP Rep. Mike Turner Grills Sondland: No One On This Planet Told You Aid Was Tied To Investigations?
-*   Trump: Sondland Said I Told Him "No Quid-Pro-Quo," If You Weren't Fake News You'd Report That
-*   Sondland: There Was A Quid-Pro-Quo On Ukraine And "Everyone Was In The Loop" Including Perry, Pompeo
 
 *   Politics
 *   Policy
