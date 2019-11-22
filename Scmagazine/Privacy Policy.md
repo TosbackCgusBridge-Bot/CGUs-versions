@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   With election on horizon, U.K.'s Labour Party contends with DDoS attacks
-    *   Macys.com Magecart attack yields payment, personal info
-    *   Louisiana spurns attempted ransomware attack, governor says
-    *   Report: Influential manufacturing trade group targeted by Chinese hackers
-    *   OpenText picks up Carbonite for $1.42B
+    *   Pemex claims victory over cyberattack. $4.9 million ransom reportedly demanded
+    *   Report: Genuine HR emails trigger suspicions after accidentally using common phishing tricks
+    *   ‘Kardashian jokes and then a really racist tweet': How Russian social media trolls suckered in Americans
+    *   AnteFrigus ransomware leaves C alone, goes after other drives
+    *   Pwn2Own Tokyo 2019 victimize Sony, Samsung and Amazon devices
     
-    *   49 Google Play app titles found to deliver pesky ads
-    *   Disney+ not the happiest place on Earth, accounts stolen found on sale
-    *   SC Media wins top honor at Eddie &. Ozzie Awards
-    *   Extensive personal health information exposed in Solara Medical data breach
-    *   Ransomware attack knocks SmarterASP.net customers knocked offline
+    *   How to prepare for the U.S. Census to move online
+    *   Open database exposes Magic: the Gathering online player info
+    *   Data breach potentially endangers Fairfax, Va. police officers
+    *   Google camera app flaw endangered millions of devices
+    *   Using security orchestration to simplify IoT defense in depth
     
+    *   Stolen GateHub and EpicBot credentials spotted on hacking forum
+    *   PayMyTab database leaked PII on diners
+    *   Leave.EU chairman's Twitter account hacked, private messages leaked
     *   Risk and compliance challenges in the swift moving lead-generation market
     *   Senators press federal officials for ISAC funding, national 5G strategy
-    *   Report: Genuine HR emails trigger suspicions after accidentally using common phishing tricks
-    *   Google camera app flaw endangered millions of devices
-    *   ACBbackdoor trojan designed to hit Linux and Windows systems
 
 Back to Top
 
