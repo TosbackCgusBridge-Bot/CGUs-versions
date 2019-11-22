@@ -122,7 +122,7 @@ By Following Jessica Hirsch’s Creative Process
 
 Our Black Friday deals go live on November 24:  http://play.st/32YVCG6  Save on PS4 Pro, PS VR, select games, DualShock 4, and more pic.twitter.com/ODH4TROwz4
 
-2 days ago View Tweet Instagram Post B4-WFnkHwfj
+3 days ago View Tweet Instagram Post B4-WFnkHwfj
 
 Broad Zoom Range
 
