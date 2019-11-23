@@ -1,4 +1,51 @@
-Skip Navigation Live Chat CALL US **ANY TIME**:1.800.777.0000  
+Skip Navigation Skip to Content
+
+*   Life is good on the List! Get rewards when you shop, free shipping every day &. many more exclusive perks. BECOME A LOYALLIST—It's easy. It's free!
+*   Need it ASAP? Buy Online, Pick Up In Store to Get Your Order Today. LEARN MORE
+*   Hey, Loyallists! Have you picked your Triple Points days yet? Schedule them now. Not a Loyallist? Sign up for free
+
+Stores &. Events My Account USD Have an Account? SIGN IN
+
+*   Women
+*   Shoes
+*   Handbags
+*   Jewelry &. Accessories
+*   Beauty
+*   Men
+*   Kids
+*   Home
+*   Gifts
+*   EDITORIAL
+
+*   THE REGISTRY
+*   Stores &. Events
+*   Promotions
+*   My Account
+    *   Account Overview
+    *   Bloomingdale’s Credit Card
+    *   bWallet
+    *   Loyallist
+        *   Already a Loyallist
+        *   Become a Loyallist
+        *   Member Benefits
+    *   Wish Lists
+
+USD Change Recent Searches
+
+*   Recent Searches Clear
+
+*   Women
+*   Shoes
+*   Handbags
+*   Jewelry &. Accessories
+*   Beauty
+*   Men
+*   Kids
+*   Home
+*   Gifts
+*   EDITORIAL
+
+Live Chat CALL US **ANY TIME**:1.800.777.0000  
   
 We're available 24 hours, 7 days a week. menu
 
