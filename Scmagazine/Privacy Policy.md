@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Pemex claims victory over cyberattack. $4.9 million ransom reportedly demanded
-    *   Report: Genuine HR emails trigger suspicions after accidentally using common phishing tricks
-    *   ‘Kardashian jokes and then a really racist tweet': How Russian social media trolls suckered in Americans
-    *   AnteFrigus ransomware leaves C alone, goes after other drives
-    *   Pwn2Own Tokyo 2019 victimize Sony, Samsung and Amazon devices
-    
-    *   How to prepare for the U.S. Census to move online
-    *   Open database exposes Magic: the Gathering online player info
-    *   Data breach potentially endangers Fairfax, Va. police officers
-    *   Google camera app flaw endangered millions of devices
-    *   Using security orchestration to simplify IoT defense in depth
-    
-    *   Stolen GateHub and EpicBot credentials spotted on hacking forum
-    *   PayMyTab database leaked PII on diners
+    *   How to deliver cybersecurity awareness training that works
+    *   System bug gives Facebook access to iPhone cameras
     *   Leave.EU chairman's Twitter account hacked, private messages leaked
-    *   Risk and compliance challenges in the swift moving lead-generation market
-    *   Senators press federal officials for ISAC funding, national 5G strategy
+    *   Get ahead of the cybersecurity curve
+    *   It's privacy vs. innovation as Google collects data on 50 million medical patients
+    
+    *   AnteFrigus ransomware leaves C alone, goes after other drives
+    *   How to deliver cybersecurity awareness training that works
+    *   Roboto Botnet network building, DDoS not a priority
+    *   Trump call with Sondland in Ukraine restaurant raises concerns over security breach
+    *   VMware patches five security vulnerabilities
+    
+    *   Data breach compromises T-Mobile prepaid accounts
+    *   Former FBI lawyer under criminal probe for altering doc linked to Page surveillance
+    *   Unsecured server exposes 4 billion records, 1.2 billion people
+    *   Manfra leaving CISA
+    *   Leaky Gekko Group database exposes info on hotel brands, travelers
 
 Back to Top
 
