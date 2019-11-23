@@ -71,8 +71,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie News: DC’s ‘Black Adam’ Set for 2021, ‘The Little Mermaid’ Finds Its Prince Eric and More Read More
-    *   The Week in Movie Trailers: Kristen Stewart in ‘Seberg,’ Scooby-Doo in ’Scoob!’ and More Read More
+    *   The Week in Movie Trailers: Harrison Ford in ‘The Call of the Wild,’ Another Look at ‘Cats’ and More Read More
+    *   The Week in Movie News: ‘Star Trek 4’ Beams Up a New Director, Nicolas Cage to Play Nicolas Cage and More Read More
     *   Next 3 Best Actress Awards Contenders: 'Seberg,' 'Bombshell,' 'Little Women' Read More
     
     Explore Content
@@ -304,9 +304,9 @@ Offers
     
     When you spend $100+ on Gift Cards. SEE DETAILS
     
-*   Get a $5 Concession Certificate
+*   Get A $10 Fandango Promo Code
     
-    When you purchase 2 or more Kernel Season’s products. SEE DETAILS
+    When you spend $10 on Scotch Products at Walmart. SEE DETAILS
     
 *   FREE $20 Movie Experience
     
