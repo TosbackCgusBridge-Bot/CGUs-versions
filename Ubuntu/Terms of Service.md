@@ -44,6 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
-_Loading..._
+*   KubeCon San Diego 2019 Flashback
+*   8th OSM Hackfest: the highlights
+*   Snapcraft secret sauce: KDE neon extension
+*   The lifecycle of a component
+*   Canonical introduces Charmed OSM to enable telcos with network functions management and orchestration
 
 *    ›
