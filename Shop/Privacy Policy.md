@@ -353,9 +353,13 @@ Lenovo Explore Close
         *   Tower Servers
         *   View All Servers
         
-        Servers
+        Rack servers
         
-        The Heart of the Data Center
+        Customize and buy
+        
+        Tower servers
+        
+        Customize and buy
         
     *   Storage
         
