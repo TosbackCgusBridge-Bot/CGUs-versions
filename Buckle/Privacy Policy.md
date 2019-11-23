@@ -31,30 +31,32 @@ Get gifting! Shop new arrivals for everything on their list!
 *   Women
     *   *   Featured
         
-        *   SHOP ALL WOMEN'S
+        *   SHOP ALL WOMENS
         *   gift(ed) guide
         *   New Arrivals
         *   Brill Boutique
         *   Buckle Exclusives
         *   buckle SELECT
         *   Gift Cards
+        *   Holiday Collection
         *   Now Trending
-        *   Shop by Outfit
+        *   Shop by Outfits
         *   Special Offers
         *   Women's Brands
         
         *   Clothing
         
+        *   Bodysuits
         *   Bottoms
         *   Bralettes &. Bramis
         *   Coats &. Jackets
         *   Dresses
         *   Jeans
-        *   Rompers &. Jumpsuits
-        *   Shorts
+        *   Pants
+        *   Shirts &. Blouses
         *   Sweaters &. Cardigans
         *   Sweatshirts
-        *   Swim
+        *   Tees
         *   Tops
         *   Plus Sizes
         *   Shop All
