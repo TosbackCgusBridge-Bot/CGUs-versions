@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Matthews_: 4 Winners, 3 Losers From the 5th Democratic Debate
+*   _Joanna Weiss_: How Peak TV Paved the Way for the Impeachment Hearings
     
-*   _Sen. Thom Tillis_: If You Can't Beat Him, Impeach Him
+*   _David Catron_: Trump Results vs. the Mindless Resistance
     
-*   _Michelle Goldberg_: Donald Trump's Gordon Sondland Problem
+*   _Elliot Williams_: House Democrats' Strategy Was Nothing Short of Genius
     
-*   _Sister Toldjah_: 3 Years of Media 'Bombshells': Why People Are Tuning Out
+*   _John Solomon_: The Ukraine Timeline Democrats, Media Don't Want America to See
     
-*   _Jim Newell_: With No Clear Front-Runner, Dems Resist the Urge to Attack
+*   _John Zogby_: Biden Isn't Finished--He's Well-Positioned to Be Dem Nominee
     
-*   _George Friedman_: The Pressure on China--Does Xi Have Enemies?
+*   _Christina Cauterucci_: Warren and the Likability Trap for Women in Politics
     
-*   _James Forsyth_: The Collapse of the Anti-Brexit Campaign
+*   _Mairead McArdle_: The Travesty of the Daleiden/Planned Parenthood Case
     
-*   _Jon Anderson_: Bolivia's Evo Morales Wants to Stay in the Game
+*   _Charlie Kirk_: Clearing the Air on the Right
     
-*   _John Stossel_: Debunking Climate Change Myths
+*   _Charlie Campbell_: What the Chinese Surveillance State Means for the World
     
-*   _Bill McKibben_: It's Now or Never to Avert Climate Change Catastrophe
+*   _Erick Trickey_: San Francisco's Quest to Make Landfills Obsolete
     
-*   _Owen Gleiberman_: 'No Safe Spaces' Sounds an Appropriate Alarm Bell
+*   _Jarrett Stepman_: Baltimore's Answer to Crime, Poor Schools? Ban Plastic Bags
     
-*   _Philip Wegmann_: Democratic Debate Detente in Atlanta
+*   _David Harsanyi_: The Impeachment Hearings Have Been Useless
     
-*   _Ella Nilsen_: Debate Confirms There Is No Democratic Presidential Frontrunner
+*   _Elaine Godfrey_: Why Dems Think Impeachment Is a Risk Worth Taking
     
-*   _Damon Linker_: Biden Struggled, as He Always Does--But Is He Winning?
+*   _Andrew McCarthy_: Hill Ignores Evidence of Ukrainian 2016 Meddling
     
-*   _Andrew McCarthy_: How Biden &. Burisma Expose Schiff's Kangaroo Court
+*   _John Cassidy_: The Extraordinary Impeachment Testimony of Fiona Hill
     
-*   _Ronald Brownstein_: Why the War on Expertise May Backfire on Trump
+*   _Roger L. Simon_: Biden Family Corruption Allegations Metastasize
     
-*   _Victor Davis Hanson_: 'I Assumed,' 'I Gathered,' 'I Presumed'
+*   _Sean Collins_: The State of the 2020 Democratic Primary
     
-*   _Susan Glasser_: Ambassador Sondland's Revenge
+*   _Adriana Cohen_: Questions Dem Debate Moderators Should've Asked
     
-*   _Miranda Devine_: Media's Sondland Spin Was a Dead Duck by 10:20 am
+*   _Antujan Seawright_: The Clout of South Carolina Democrats
     
-*   _Zack Beauchamp_: Trump Didn't Want a Biden Probe, He Wanted a Political Show
+*   _Gabriel DeBenedetti_: Why No One Is Attacking Pete Buttigieg
     
-*   _Peter Thiel_: Quality Over Quantity: Grappling With How U.S. Scales
+*   _James Carafano_: Iran's Extremist Leaders Suffer Because of Trump
     
-*   _Jon Walker_: A Road Map to Warren's Entire Administration
+*   _Jonathan Cristol_: On South Korea, Trump Has Seriously Miscalculated
     
-*   _Andy Puzder_: Data Counter Dems, Media--Income Inequality Decreased in '18
+*   _Noah Millman_: Can Bibi Win Even Under Indictment?
     
-*   _Chris Smith_: The Giant Problem With Buttigieg's Momentum
+*   _Wendy Guillies_: Supporting Entrepreneurship Is a Bipartisan Goal
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Barone: The Impeachment Pseudo-Event
+*   Pelosi: Trump Undermined National Security by Delaying Ukraine Aid
+*   Jordan: Dems Never Got Over Election, Has Driven Them to Madness
 *   Democratic Debate Detente in Atlanta
 *   Wis. Elections Panel Sued for Not Cleaning Up Voter Rolls
-*   Trump: "It's All Over" for Democrats After Sondland Testimony
-*   Biden, From Pro-Gun Senate Newbie to Gun-Control Gold Standard
-*   Watchdog: Hunter Biden's Burisma Post Had a Troubling Conflict
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,6 +252,9 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve46
+    *   Disapprove52Disapprove +6
 *   2020 Democratic Presidential NominationEmerson
     *   Biden27
     *   Sanders27
@@ -292,17 +295,14 @@ Latest PollsAll Polls
     *   Klobuchar1
     *   Bennet1
     *   Castro1Biden +10
-*   General Election: Trump vs. BidenEmerson
-    *   Biden49
-    *   Trump51Trump +2
 
 More Latest Polls In The News
 
-*   Schiff: Trump's Defense Is Like Saying Watergate Burglars "Didn't Get What They Came For, No Harm, No Foul"
+*   MSNBC's Deutsch: "We Live In A Bubble," Impeachment Hearings Got Same Ratings As A Regular CBS Sitcom
+*   Wenstrup On Impeachment: Coups Create Division, Its Time For This Democrat Coup Attempt To End
+*   Schiff: Trump's Defense Like Saying Watergate Burglars "Didn't Get What They Came For, No Harm, No Foul"
 *   Fiona Hill: GOP Claims Of Ukrainian Election Meddling Are A "Fictional Narrative" From Russia
 *   GOP Rep. Will Hurd: "I Have Not Heard Evidence Proving The President Committed Bribery Or Extortion"
-*   Gabbard vs. Harris: "Our Democratic Party Is Not The Party That Is Of, By And for The People"
-*   GOP Rep. Mike Turner Grills Sondland: No One On This Planet Told You Aid Was Tied To Investigations?
 
 *   Politics
 *   Policy
