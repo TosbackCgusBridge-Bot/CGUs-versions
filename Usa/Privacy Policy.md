@@ -182,13 +182,7 @@ Subscribe
 
 $400.00/year
 
-Try, buy, or learn more about Autodesk products See all products Autodesk University Las Vegas | November 18-21, 2019 Live stream Autodesk University sessions now
-
-Watch live-streamed keynotes and top sessions during Autodesk’s annual conference in Las Vegas. Learn from experts and thought leaders in your industry.
-
-watch now
-
-Welcome to the new era of connected construction Introducing Autodesk Construction Cloud™
+Try, buy, or learn more about Autodesk products See all products Welcome to the new era of connected construction Introducing Autodesk Construction Cloud™
 
 We’ve combined advanced technology, a network of builders, and powerful predictive insights to connect all stages of the building lifecycle: design, plan, build, and operate.
 
