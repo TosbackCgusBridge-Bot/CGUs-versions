@@ -22,7 +22,7 @@ _5/25/2018_
 We work hard to build and maintain a relationship of trust with you. So, when it comes to handling your information, we do so carefully and sensibly, and in ways that live up to that trust. This policy lets you know how we do that, including what information we collect, how we use and protect it, and how you can decide what we do with it. Our goal is to help you understand how we use your information to improve our content, products, advertisements, and services.
 
   
-**Introduction** **What We Collect** **What We Use** **How We Safeguard Your Information** **What We Share** **Your Rights and Choices** **Cookies and Other Technologies** **Interest-Based Advertising** **EU Processing, Retention, and Transfer** **Site and App Content** **Children’s Privacy** **Contact Us**
+**Introduction** **What We Collect** **What We Use** **How We Safeguard Your Information** **What We Share** **Your Rights and Choices** **Cookies and Other Technologies** **Interest-Based Advertising** **EU Processing, Retention, and Transfer** **Site and App Content** **Children’s Privacy** **California Consumer Privacy** **Contact Us**
 
 1 of 0
 
@@ -436,6 +436,11 @@ Children’s Privacy
 **children’s online privacy laws.** We follow all applicable data protection laws when collecting personal information online from children. For example, in the EU we do not collect personal information from children under 16 years of age unless we get consent from a parent. Similarly, in the U.S., we obtain verified parental consent when collecting personal information from children younger than 13.
 
 **california notice for minors.** We may offer interactive services which allow teens under the age of 18 to upload their own content (e.g., videos, comments, status updates, or pictures). This content can be removed or deleted any time by following the instructions on our sites. If you have questions about how to do this, contact us Be aware that such posts may have been copied, forwarded, or posted elsewhere by others and we are not responsible for any such actions. You will, in such cases, have to contact other site owners to request removal of your content.
+
+  
+California Consumer Privacy
+
+As of January 1, 2020, California residents will have new privacy rights pursuant to the California Consumer Privacy Act. Please check back on that date to learn more.
 
   
 Contact Us
