@@ -40,20 +40,20 @@ Stock Quote and Chart
 
 Price
 
-$2.38
+$2.25
 
 Change
 
-+0.075
+\-0.13
 
 Percent Change
 
-(0.00%)
+(-5.46%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Nov 21, 2019 Office Depot Unveils Cyber Week Savings to Help Small Businesses Succeed view more Recent News Nov 21, 2019 Office Depot Unveils Cyber Week Savings to Help Small Businesses Succeed view more Events Nov 6, 2019 at 9:00 AM EST Q3 2019 Office Depot Inc Earnings Conference Call view more Events Nov 6, 2019 at 9:00 AM EST Q3 2019 Office Depot Inc Earnings Conference Call view more Presentations Nov 06, 2019 Office Depot Third Quarter 2019 Earnings Webcast Presentation view more Presentations Nov 06, 2019 Office Depot Third Quarter 2019 Earnings Webcast Presentation view more
+Recent News Nov 22, 2019 Office Depot Chief Financial Officer Joseph T. Lower to Leave Company in Q1 2020 view more Recent News Nov 22, 2019 Office Depot Chief Financial Officer Joseph T. Lower to Leave Company in Q1 2020 view more Events Nov 6, 2019 at 9:00 AM EST Q3 2019 Office Depot Inc Earnings Conference Call view more Events Nov 6, 2019 at 9:00 AM EST Q3 2019 Office Depot Inc Earnings Conference Call view more Presentations Nov 06, 2019 Office Depot Third Quarter 2019 Earnings Webcast Presentation view more Presentations Nov 06, 2019 Office Depot Third Quarter 2019 Earnings Webcast Presentation view more
 
 *   Home
 *   News &. Events
