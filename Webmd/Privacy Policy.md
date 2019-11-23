@@ -1,4 +1,4 @@
-Sign up for our free WebMD Daily Newsletter Get doctor-approved health tips, news, and more. Subscribe By clicking "Subscribe," I agree to the WebMD Terms and Conditions and Privacy Policy. I also agree to receive emails from WebMD and I understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
+Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -111,10 +111,10 @@ Sign up for our free WebMD Daily Newsletter Get doctor-approved health tips, new
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Could Vegetarian and Vegan Diets Be Bad for You?
-    *   Superbugs Still a Serious Health Threat
-    *   Are Vaping Bans the Way to Go?
-    *   Online, Personalized Vitamin Services Raise Questions
+    *   Medicare for All: What Does This Mean?
+    *   Having Trouble Falling and Staying Asleep?
+    *   Rates of Anal Cancer On the Rise
+    *   New Lung Illness Tied to Vaping
     *   Is There a Safer Way to Sterilize Medical Equipment?
     
     Experts &. Community
