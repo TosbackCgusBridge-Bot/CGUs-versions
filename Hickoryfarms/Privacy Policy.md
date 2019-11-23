@@ -12,6 +12,7 @@
     *   Christmas Gifts
     *   Holiday
     *   Birthday Gifts
+    *   Gifts for a Group
     *   Gifts for Her
     *   Gifts for Him
     *   Thank You Gifts
@@ -86,10 +87,10 @@
     *   Thank You Gifts
     *   Sympathy GiftsMost Popular Thanksgiving Christmas
 *   Business Gifts
-    View All Categories Shop by Category*   Premium Wine Gifts
+    View All Categories Shop by Category*   Business Gifts
+    *   Premium Wine Gifts
     *   Office Gift BasketsMost Popular Premium Wine Gifts
 *   Sale
-    View All Categories Shop by Category*   Free Shipping
 
 1.800.753.8558 Business Gifts Free shipping on select gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
 
@@ -107,6 +108,7 @@
     *   Christmas Gifts
     *   Holiday
     *   Birthday Gifts
+    *   Gifts for a Group
     *   Gifts for Her
     *   Gifts for Him
     *   Thank You Gifts
@@ -181,10 +183,10 @@
     *   Thank You Gifts
     *   Sympathy GiftsMost Popular Thanksgiving Christmas
 *   Business Gifts
-    View All Categories Shop by Category*   Premium Wine Gifts
+    View All Categories Shop by Category*   Business Gifts
+    *   Premium Wine Gifts
     *   Office Gift BasketsMost Popular Premium Wine Gifts
 *   Sale
-    View All Categories Shop by Category*   Free Shipping
 
 1.800.753.8558 Business Gifts
 
