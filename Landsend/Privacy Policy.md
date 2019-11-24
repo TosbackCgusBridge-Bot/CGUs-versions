@@ -36,11 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off full-price styles!
+Cardigans starting at $25. 50% off everything else!
 
-Only 0 HR 09 MIN 58 SEC Left!
-
-code: AUTUMN pin: PROMOTION DETAILS
+code: BUTTONS pin: PROMOTION DETAILS
 
 Customer Service Menu
 
