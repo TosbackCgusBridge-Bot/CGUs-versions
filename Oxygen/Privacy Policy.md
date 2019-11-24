@@ -30,7 +30,6 @@ Main menu
         *   Snapped
         *   The Disappearance of the Millbrook Twins
         *   The DNA of Murder with Paul Holes
-        *   Uncovered: Killed by Hate
         *   Dark Web Exposed
         *   Famous Cases Explained
         *   How To Stay Safe
@@ -39,10 +38,10 @@ Main menu
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV01:00 The Disappearance of the Millbrook Twins The Disappearance of The Millbrook Twins Premieres Saturday, November 23rd 01:39 Crime News 3 Teacher/Student Sex Scandals 01:18 Buried in the Backyard Buried in the Backyard Bonus: Police Question Kenny Linscott (Season 2, Episode 1)
+    *   Watch Live TV01:39 Crime News 3 Teacher/Student Sex Scandals 00:57 Relentless With Kate Snow Murdered Woman's Twin Starts Billboard Campaign To Catch A Killer 02:35 A Wedding and a Murder Who Was Michael Turpin?
 *   News
     *   Crime News
-    *   True Crime BuzzTaylor Rose Williams Photo: Jacksonville Sheriffs Office Crime News Missing 5-Year-Old Was Allegedly Left Home Alone Often The Disappearance of the Millbrook Twins Preview 'The Disappearance of the Millbrook Twins' Now Mollie Tibbetts Crime News New Details Emerge In Mollie Tibbetts' Murder
+    *   True Crime BuzzMichael Webb has been charged in the abduction of an 8-year-old girl who was snatched from a street in Fort Worth, Texas, as she walked with her mother. Photo: The Fort Worth Police Department/AP Crime News Watch Dramatic Police Rescue Of Kidnapped Child In Texas Crime News Man In Wolf Mask Murders Pregnant Ex-Wife On Halloween Night Valerie McDaniel Crime News Woman Dies By Suicide After She And Boyfriend Are Arrested For Hiring Hitman
 *   Podcasts
 *   Detective's Den
 *   Schedule
