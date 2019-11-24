@@ -9,13 +9,39 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
+    *   Stuart Weitzman
+    *   Elie Tahari
+    *   Love Stitch &. Angie Incl. Plus
+    *   Sweater Dresses ft. Solutions
+    *   For Every Gathering: Plus Styles Up to 65% Off
+    *   Made in Italy: Meshmerise from $40
+    *   Diesel
+    *   Spiritual Gangster Kids
+    *   Raymond Weil Luxury Swiss Watches
+    *   Diamonds, Gems &. More Up to 80% Off
+    *   Full-Fit Bras &. More ft. Parfait
+    *   Storage Must-Haves from $12
+    *   NOIZE Outerwear
+    *   Kenneth Cole New York Men
+    *   Aldo Men
+    *   Teami Blends Detox Teas &. Supplements
+    *   K-Beauty ft. Asamo, JayJun &. More from $10
+    *   Commuter Bags ft. Solo New York
+    *   Jessica Simpson Handbags Up to 70% Off
+    *   Fresh Finds: Shoes Up to 60% Off
+    *   Spiritual Gangster
+    *   Nordstrom Exclusives ft. Harper Canyon
+    *   Mommy &. Me Shoes from MIA
+    *   Cailyn Cosmetics Starting at $10
+    *   Cozy Night In: Hooded Blankets Up to 50% Off
+    *   Fine Jewelry ft. EF Collection, Lana &. Ron Hami
     *   BOSS Men's Clothing Up to 55% Off
     *   Joie &. Equipment Clothing and Shoes Up to 70% Off
     *   BOSS Women's Clothing Up to 60% Off
-    *   Fine Jewelry ft. EF Collection, Lana &. Ron Hami
     *   Z By Zella Incl. Plus Under $45
     *   BOSS Men's Shoes Up to 50% Off
     *   Designer Sun ft. Saint Laurent
+    
     *   Valentino by Mario Valentino Up to 60% Off
     *   Blu Pepper &. More Starting at $25
     *   Predire Paris Luxury Skin Care Starting at $15
@@ -31,29 +57,16 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Frozen PJs, Toys, Clothing &. More
     *   Juicy Couture Girls' Shoes
     *   Season of Light: Pre-Lit Christmas Trees
-    *   Gifts for Him Under $25
     *   Cruelty-Free Makeup: Rincon Cosmetics
     *   Vintage Foundry Up to 80% Off
     *   PUMA Kids' Active &. More Up to 55% Off
     *   Eva NYC Hair Tools
     *   360 + Skull Cashmere Up to 65% Off
-    *   Designer Spotlight: ba&sh &. More
-    *   Lovers + Friends &. More Up to 65% Off
-    *   Clarks Comfort Shoes for Her
-    *   Live Fabulously: Faux Fur Coats &. More
     *   Kenneth Cole Reaction
-    
-    *   Graphic Tees ft. Chaser
-    *   Gomelsky by Shinola &. More Up to 60% Off
-    *   Hosiery &. More ft. Wolford
     *   Mezlan
-    *   Vince Camuto Bags Up to 50% Off
-    *   VYB Swim &. More Up to 60% Off
-    *   bebe Sport Under $30
     *   Saachi Leather &. Gemstone Jewelry from $20
     *   Wall Murals &. Decals Up to 40% Off
     *   Kenneth Cole Reaction Shoes
-    *   Snow Boots &. More ft. Santana Canada
     *   Family Fun Night: Games &. Toys ft. Hasbro
     *   Zeus Men's Natural Beard Care &. More from $10
     *   Fragrances Up to 55% Off ft. Jovoy &. More
@@ -61,36 +74,29 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Australia Luxe Collective Men
     *   Little Me
     *   Bling on the Holidays: Ornaments Starting at $10
+    
     *   Tommy Hilfiger Boys' Shoes
     *   Free Shipping: Animation Art Up to 85% Off
     *   Murad Up to 55% Off
     *   Aquatalia Men
-    *   Hickey Freeman
-    *   What He Really Wants: Lounge Up to 60% Off
-    *   14K Gold &. More Under $80
     *   New Year, New Plans: 2020 Calendars &. Planners
     *   Mally Beauty from $10
     *   Nostalgia Kitchen Appliances from $30
-    *   Tween Scene: Btween &. More
     *   Skin Care Tools from $15
-    *   Sweater Weather: Kids' Looks ft. Ten Sixty Sherman
     *   Give More Than a Gift: Le Creuset
     *   Free Shipping: Bedding Steals Up to 50% Off
-    
     *   Free Shipping: Shun Cutlery Classic Collection
     *   Stocking Stuffers: Phone Chargers, Cables &. More
     *   For Your Fur Baby: Pet Accessories &. More
     *   NEST Fragrances: Home Scents, Body Milk &. More
-    *   Robert Graham
-    *   Luxe Men's Shoes ft. Badgley Mischka
     *   Bounce Curl Hair Care from $15
     *   Korean Beauty: Leaders Cosmetics from $15
     *   Free Shipping: Storage for Every Room
-    *   TrustMD Skin Care
-    *   Grande Cosmetics
     *   Look on the Bright Side: Lighting for Every Room
-    *   Ancient Nutrition Protein
     *   The Gift Edit: Cold-Weather Styles Up to 65% Off
+    *   Ugly Christmas Sweaters &. More from $20
+    *   Gifts for Him Under $25
+    *   Rebecca Minkoff Handbags Up to 50% Off
     *   The Gift Edit: Luxe &. Designer Styles Up to 65% Off
     *   The Gift Edit: Styles for Her from $20
     *   The Gift Edit: Stocking Stuffers Under $20
@@ -99,26 +105,37 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Free Shipping: Pillows &. More
     *   Free Shipping: Bedding Blowout
     *   Modern Finishing Touches: Decor from $20
-    *   Free Shipping: Wall Decor &. Accents
-    *   Must-Have Tech Accessories Starting at $15
-    *   Quality Quilt Sets &. Bedding
-    *   Ugly Christmas Sweaters &. More from $20
-    *   Organization Essentials &. More Under $24
-    *   Rebecca Minkoff Handbags Up to 50% Off
-    *   Calvin Klein Watches &. Accessories Up to 70% Off
-    *   Samsonite Up to 60% Off
-    *   JBW Diamond Watches
+    *   Designer Spotlight: ba&sh &. More
+    *   Live Fabulously: Faux Fur Coats &. More
 *   WomenShop Sale Events
     
+    *   Stuart Weitzman
+    *   Elie Tahari
+    *   Love Stitch &. Angie Incl. Plus
+    *   Sweater Dresses ft. Solutions
+    *   For Every Gathering: Plus Styles Up to 65% Off
+    *   Made in Italy: Meshmerise from $40
+    *   Raymond Weil Luxury Swiss Watches
+    *   Diamonds, Gems &. More Up to 80% Off
+    *   Full-Fit Bras &. More ft. Parfait
+    *   Teami Blends Detox Teas &. Supplements
+    *   K-Beauty ft. Asamo, JayJun &. More from $10
+    *   Commuter Bags ft. Solo New York
+    *   Jessica Simpson Handbags Up to 70% Off
+    *   Fresh Finds: Shoes Up to 60% Off
+    *   Spiritual Gangster
+    *   Mommy &. Me Shoes from MIA
+    *   Cailyn Cosmetics Starting at $10
+    *   Fine Jewelry ft. EF Collection, Lana &. Ron Hami
     *   Joie &. Equipment Clothing and Shoes Up to 70% Off
     *   BOSS Women's Clothing Up to 60% Off
-    *   Fine Jewelry ft. EF Collection, Lana &. Ron Hami
     *   Z By Zella Incl. Plus Under $45
     *   Designer Sun ft. Saint Laurent
     *   Valentino by Mario Valentino Up to 60% Off
     *   Blu Pepper &. More Starting at $25
     *   Predire Paris Luxury Skin Care Starting at $15
     *   In-Demand Denim: Skinny Jeans Under $40
+    
     *   Kork-Ease Up to 50% Off
     *   Miraclesuit Swim &. More
     *   All-Day Comfort: Wire-Free Bras, Underwear &. More
@@ -128,72 +145,56 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Cruelty-Free Makeup: Rincon Cosmetics
     *   Eva NYC Hair Tools
     *   360 + Skull Cashmere Up to 65% Off
-    *   Designer Spotlight: ba&sh &. More
-    *   Lovers + Friends &. More Up to 65% Off
-    *   Clarks Comfort Shoes for Her
-    *   Live Fabulously: Faux Fur Coats &. More
-    *   Graphic Tees ft. Chaser
-    *   Gomelsky by Shinola &. More Up to 60% Off
-    *   Hosiery &. More ft. Wolford
-    
-    *   Vince Camuto Bags Up to 50% Off
-    *   VYB Swim &. More Up to 60% Off
-    *   bebe Sport Under $30
     *   Saachi Leather &. Gemstone Jewelry from $20
-    *   Snow Boots &. More ft. Santana Canada
     *   Fragrances Up to 55% Off ft. Jovoy &. More
     *   Finchberry Vegan Soaps &. More
     *   Murad Up to 55% Off
-    *   14K Gold &. More Under $80
     *   Mally Beauty from $10
     *   Skin Care Tools from $15
     *   NEST Fragrances: Home Scents, Body Milk &. More
     *   Bounce Curl Hair Care from $15
     *   Korean Beauty: Leaders Cosmetics from $15
-    *   TrustMD Skin Care
-    *   Grande Cosmetics
-    *   Ancient Nutrition Protein
     *   The Gift Edit: Cold-Weather Styles Up to 65% Off
+    *   Rebecca Minkoff Handbags Up to 50% Off
     *   The Gift Edit: Luxe &. Designer Styles Up to 65% Off
     *   The Gift Edit: Styles for Her from $20
     *   The Gift Edit: Stocking Stuffers Under $20
-    *   Rebecca Minkoff Handbags Up to 50% Off
-    *   Calvin Klein Watches &. Accessories Up to 70% Off
-    *   Samsonite Up to 60% Off
-    *   JBW Diamond Watches
+    *   Designer Spotlight: ba&sh &. More
+    *   Live Fabulously: Faux Fur Coats &. More
     
     Shop By Category
     *   Clothing
     *   Handbags
     *   Shoes
     *   Jewelry
-    *   Accessories
     *   Lingerie &. Shapewear
+    *   Accessories
     *   Watches
 *   MenShop Sale Events
     
+    *   Diesel
+    *   Raymond Weil Luxury Swiss Watches
+    *   NOIZE Outerwear
+    *   Kenneth Cole New York Men
+    *   Aldo Men
+    *   Teami Blends Detox Teas &. Supplements
+    *   Commuter Bags ft. Solo New York
     *   BOSS Men's Clothing Up to 55% Off
     *   BOSS Men's Shoes Up to 50% Off
-    *   Gifts for Him Under $25
     *   Vintage Foundry Up to 80% Off
     *   Kenneth Cole Reaction
+    
     *   Mezlan
     *   Kenneth Cole Reaction Shoes
     *   Zeus Men's Natural Beard Care &. More from $10
     *   Australia Luxe Collective Men
     *   Aquatalia Men
-    *   Hickey Freeman
-    
-    *   What He Really Wants: Lounge Up to 60% Off
-    *   Robert Graham
-    *   Luxe Men's Shoes ft. Badgley Mischka
     *   The Gift Edit: Cold-Weather Styles Up to 65% Off
+    *   Ugly Christmas Sweaters &. More from $20
+    *   Gifts for Him Under $25
     *   The Gift Edit: Luxe &. Designer Styles Up to 65% Off
     *   The Gift Edit: Stocking Stuffers Under $20
     *   The Gift Edit: Styles for Him Up to 60% Off
-    *   Ugly Christmas Sweaters &. More from $20
-    *   Samsonite Up to 60% Off
-    *   JBW Diamond Watches
     
     Shop By Category
     *   Clothing
@@ -202,30 +203,34 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Watches
 *   KidsShop Sale Events
     
+    *   Spiritual Gangster Kids
+    *   Nordstrom Exclusives ft. Harper Canyon
+    *   Mommy &. Me Shoes from MIA
     *   Frozen PJs, Toys, Clothing &. More
     *   Juicy Couture Girls' Shoes
     *   PUMA Kids' Active &. More Up to 55% Off
+    
     *   Family Fun Night: Games &. Toys ft. Hasbro
     *   Little Me
     *   Tommy Hilfiger Boys' Shoes
-    *   Tween Scene: Btween &. More
-    *   Sweater Weather: Kids' Looks ft. Ten Sixty Sherman
     *   The Gift Edit: Cold-Weather Styles Up to 65% Off
     *   The Gift Edit: Styles for Kids Up to 60% Off
     
     Shop By Category
     *   Toy Shop
-    *   Girls' Sizes 7-16
-    *   Girls' Shoes
-    *   Baby Girl
     *   Girls' Sizes 2T-6X
+    *   Girls' Shoes
+    *   Girls' Sizes 7-16
+    *   Baby Girl
     *   Boys' Shoes
+    *   Baby Boy
     *   Boys' Sizes 2T-7
     *   Boys' Sizes 8-20
-    *   Baby Boy
     *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Storage Must-Haves from $12
+    *   Cozy Night In: Hooded Blankets Up to 50% Off
     *   Holiday Cheer: Mark Roberts Figurines &. More
     *   Sweet Dreams: Sheet Sets, Duvets &. More
     *   Season of Light: Pre-Lit Christmas Trees
@@ -234,10 +239,10 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Free Shipping: Animation Art Up to 85% Off
     *   New Year, New Plans: 2020 Calendars &. Planners
     *   Nostalgia Kitchen Appliances from $30
+    
     *   Give More Than a Gift: Le Creuset
     *   Free Shipping: Bedding Steals Up to 50% Off
     *   Free Shipping: Shun Cutlery Classic Collection
-    
     *   Stocking Stuffers: Phone Chargers, Cables &. More
     *   For Your Fur Baby: Pet Accessories &. More
     *   Free Shipping: Storage for Every Room
@@ -245,44 +250,41 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Free Shipping: Pillows &. More
     *   Free Shipping: Bedding Blowout
     *   Modern Finishing Touches: Decor from $20
-    *   Free Shipping: Wall Decor &. Accents
-    *   Must-Have Tech Accessories Starting at $15
-    *   Quality Quilt Sets &. Bedding
-    *   Organization Essentials &. More Under $24
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Electronic &. Tech Accessories
     *   Bedding
-    *   Luggage &. Travel
     *   Holiday Decorations
+    *   Luggage &. Travel
+    *   Electronic &. Tech Accessories
+    *   Cleaning &. Organization
     *   Pet Accessories
     *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Teami Blends Detox Teas &. Supplements
+    *   K-Beauty ft. Asamo, JayJun &. More from $10
+    *   Cailyn Cosmetics Starting at $10
     *   Predire Paris Luxury Skin Care Starting at $15
     *   Cruelty-Free Makeup: Rincon Cosmetics
     *   Eva NYC Hair Tools
     *   Zeus Men's Natural Beard Care &. More from $10
     *   Fragrances Up to 55% Off ft. Jovoy &. More
+    
     *   Finchberry Vegan Soaps &. More
     *   Murad Up to 55% Off
     *   Mally Beauty from $10
-    
     *   Skin Care Tools from $15
     *   NEST Fragrances: Home Scents, Body Milk &. More
     *   Bounce Curl Hair Care from $15
     *   Korean Beauty: Leaders Cosmetics from $15
-    *   TrustMD Skin Care
-    *   Grande Cosmetics
-    *   Ancient Nutrition Protein
     
     Shop By Category
     *   Skin Care
-    *   Fragrance
     *   Bath &. Body
     *   Makeup
+    *   Fragrance
     *   Nails
     *   Hair Care
     *   Tools &. Accessories
