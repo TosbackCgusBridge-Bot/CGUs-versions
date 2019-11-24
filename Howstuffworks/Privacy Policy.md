@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksDo People and Bananas Really Share 50 Percent of the Same DNA?1STThe Ultimate Downsize: Living in a Shipping Container Home2NDU.S. Military Dogs Usually Outrank Their Handlers3RD5 Large Nations With No Homeland4THKelley Blue Book | Sponsored10 Electric Cars That Last the LongestKelley Blue Book | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredAmerican Giant | SponsoredWhy Are Women Ditching Their Yoga Pants for These Amazing Bottoms?American Giant | SponsoredBon Voyaged | Sponsored20 Photos Captured At Airports That Will Make You Laugh Out LoudBon Voyaged | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksGoofy-looking Emus Are Leggy, Flightless and Very Friendly1STPeople Still Use Fax Machines, But, Um, Why?2NDWhy Is the North Star So Stellarly Important?3RDFrom Cows to Cabinetry: Milk Paint and 6 Awesome Uses for It4THDirectExpose | SponsoredThe Controversial Scene That Ended 'Bewitched'DirectExpose | SponsoredSoGoodly | SponsoredThese Twins Were Named "Most Beautiful In The World" Wait Till You See Them TodaySoGoodly | SponsoredKelley Blue Book | Sponsored10 Coolest Cars Under $25,000Kelley Blue Book | SponsoredAuto Enthusiast | Search Ads | SponsoredShut the Front Door! These Luxury Vehicles Cost Under $50k!Auto Enthusiast | Search Ads | Sponsored
 
 Advertisement
 
-home &. garden-autoIf at First You Don't Succeed, Try Tripe AgainBY Kristen Hall-Geislerhome &. garden-autoA Portrait of John F. Kennedy, America's Youngest PresidentBY Oisin Curranhome &. garden-autoWhat Does It Mean When Someone Says 'That's Just Semantics'?BY Michelle KonstantinovskyBest Of Senior | SponsoredBrad Pitt's Daughter Is Probably The Prettiest Girl AliveBest Of Senior | SponsoredCar and Driver | SponsoredThese Are the 15 Most Beautiful Cars You Can Buy in 2019Car and Driver | Sponsored
+home &. garden-auto9 Fascinating Facts About Julius Caesar, 'Dictator for Perpetuity'BY Dave Rooshome &. garden-autoU.S. Military Dogs Usually Outrank Their HandlersBY Nathan Chandlerhome &. garden-autoThree Famous Hypotheses and How They Were TestedBY Mark ManciniBon Voyaged | Sponsored20 Photos Captured At Airports That Will Make You Laugh Out LoudBon Voyaged | SponsoredBest Of Senior | SponsoredBrad Pitt's Daughter Is Probably The Prettiest Girl AliveBest Of Senior | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhy Neil Armstrong Was Chosen to Be the First Man on the MoonWhy You Should Stop Raking Fall Leaves, Stat!Why Is the North Star So Stellarly Important?People Still Use Fax Machines, But, Um, Why?Three Famous Hypotheses and How They Were TestedPolymer SunBOTs Imitate Sunflowers to Create Maximum Solar Energyby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksThe Ghost of Wild West Gunslinger Tom Horn Still Haunts Wyoming7 Cool Facts About Will Rogers, Cowboy, Humorist, Self-declared President'Franglais' on the Rise, Say French Language WatchdogsWhat's All the Buzz About Manuka Honey? What's the Difference? QuizThe Battle of the Big Cats: Maine Coon vs. Norwegian Forestby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Do People and Bananas Really Share 50 Percent of the Same DNA?Read Next StoryKelley Blue Book10 Electric Cars That Last the LongestKelley Blue Book|SponsoredSponsoredRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Goofy-looking Emus Are Leggy, Flightless and Very FriendlyRead Next StoryDirectExposeThe Controversial Scene That Ended 'Bewitched'DirectExpose|SponsoredSponsoredRead Next StorySoGoodlyThese Twins Were Named "Most Beautiful In The World" Wait Till You See Them TodaySoGoodly|SponsoredSponsoredRead Next Story
