@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   How to deliver cybersecurity awareness training that works
-    *   System bug gives Facebook access to iPhone cameras
-    *   Leave.EU chairman's Twitter account hacked, private messages leaked
-    *   Get ahead of the cybersecurity curve
-    *   It's privacy vs. innovation as Google collects data on 50 million medical patients
-    
-    *   AnteFrigus ransomware leaves C alone, goes after other drives
-    *   How to deliver cybersecurity awareness training that works
+    *   Senators press federal officials for ISAC funding, national 5G strategy
     *   Roboto Botnet network building, DDoS not a priority
-    *   Trump call with Sondland in Ukraine restaurant raises concerns over security breach
-    *   VMware patches five security vulnerabilities
+    *   Hill warns lawmakers not to spread Ukraine election interference narrative pushed by Russia
+    *   Gates: Stone discussed WikiLeaks DNC email dump with Trump
+    *   Why network segmentation is ready for an overhaul
     
+    *   Pemex claims victory over cyberattack. $4.9 million ransom reportedly demanded
+    *   Roboto Botnet network building, DDoS not a priority
+    *   AnteFrigus ransomware leaves C alone, goes after other drives
+    *   APT33 sics small, elusive botnets on U.S. and global targets
+    *   Using security orchestration to simplify IoT defense in depth
+    
+    *   Hill warns lawmakers not to spread Ukraine election interference narrative pushed by Russia
+    *   Target files $74 million suit against Chubb over breach coverage
     *   Data breach compromises T-Mobile prepaid accounts
     *   Former FBI lawyer under criminal probe for altering doc linked to Page surveillance
     *   Unsecured server exposes 4 billion records, 1.2 billion people
-    *   Manfra leaving CISA
-    *   Leaky Gekko Group database exposes info on hotel brands, travelers
 
 Back to Top
 
