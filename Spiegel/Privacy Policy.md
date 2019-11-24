@@ -13,7 +13,7 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   23\. November 2019
+*   24\. November 2019
 *   Abo
 *   DAX 13.163,88ǀ
 *   Schlagzeilenǀ
