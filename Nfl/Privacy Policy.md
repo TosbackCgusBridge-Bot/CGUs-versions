@@ -59,7 +59,7 @@
 *   Highlights
 *   NFL 100
 
-*   NFL 100
+*   NFL Shop
 *   Scores
 
 *   *   Super Bowl
