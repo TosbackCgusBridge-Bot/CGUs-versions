@@ -126,8 +126,8 @@ Menu IKEA
         *   Door mats
         *   Outdoor flooring
         *   Explore Rugs
-    *   Bedding, linens &. towels
-        *   Bedding, linens &. towels
+    *   Home Textiles
+        *   Home Textiles
         *   Bedding
         *   Bathroom textiles
         *   Kids textiles
@@ -139,7 +139,7 @@ Menu IKEA
         *   Kitchen textiles
         *   Outdoor cushions
         *   Table linen
-        *   Explore Bedding, linens &. towels
+        *   Explore Home Textiles
     *   Smart Home
         *   Smart Home
         *   Smart home
@@ -271,6 +271,8 @@ Menu IKEA
     Seasonal
     *   Black Friday
         
+    *   Cyber Monday
+        
     *   Winter Holidays
         
     *   Collections
@@ -301,6 +303,7 @@ Menu IKEA
 *   Seasonal Seasonal
     *   Seasonal
     *   Black Friday
+    *   Cyber Monday
     *   Winter Holidays
     *   Collections
     *   Back to College
@@ -364,6 +367,7 @@ Go back to the IKEA homepage
     *   Democratic Design
     *   A Sustainable Everyday
     *   IKEA Foundation
+    *   Creating Safer Homes Together
 
 *   **Legal Disclaimers**
     
