@@ -1,5 +1,4 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Get gifting! Shop new arrivals for everything on their list! Guest Loyalty Members, win our Gifted Getaway!  
-Shop Now or Enroll Today. SELECT SALE DENIM IS AN EXTRA 10% OFF - SHOP NOW!
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Get gifting! Shop new arrivals for everything on their list! SELECT SALE DENIM IS AN EXTRA 10% OFF - SHOP NOW!
 
 *   United States
 *   FIND A STORE
@@ -437,7 +436,6 @@ Terms &. Conditions
 *   Music/Celebrity Sponsorship Requests
 *   Sweepstakes Winners
 *   Social Giveaway Official Rules
-*   Anvil Getaway Official Rules
 *   Ratings &. Reviews Giveaway Official Rules - Holiday 2019
 *   Accessibility Policy
 *   Buckle Select Terms &. Conditions
