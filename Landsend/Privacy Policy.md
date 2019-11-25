@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Cardigans starting at $25. 50% off everything else!
+Fleece slippers starting at $13. 50% off everything else!
 
-code: BUTTONS pin: PROMOTION DETAILS
+code: SUEDE pin: PROMOTION DETAILS
 
 Customer Service Menu
 
