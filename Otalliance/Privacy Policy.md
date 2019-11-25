@@ -44,7 +44,7 @@
         *   Organization Members
         *   Affiliates and Partners
         *   Team
-        *   Action Plan: 2019
+        *   Action Plan: 2020
         *   Organization Reports &. Policies
         *   About the Internet Society Foundation
     *   Regions
