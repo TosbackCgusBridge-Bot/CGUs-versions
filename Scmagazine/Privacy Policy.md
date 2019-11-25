@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Senators press federal officials for ISAC funding, national 5G strategy
-    *   Roboto Botnet network building, DDoS not a priority
-    *   Hill warns lawmakers not to spread Ukraine election interference narrative pushed by Russia
-    *   Gates: Stone discussed WikiLeaks DNC email dump with Trump
     *   Why network segmentation is ready for an overhaul
+    *   Stolen GateHub and EpicBot credentials spotted on hacking forum
+    *   Hill warns lawmakers not to spread Ukraine election interference narrative pushed by Russia
+    *   Louisiana spurns attempted ransomware attack, governor says
+    *   Nikki Haley used unclassified system for classified messages
     
-    *   Pemex claims victory over cyberattack. $4.9 million ransom reportedly demanded
-    *   Roboto Botnet network building, DDoS not a priority
-    *   AnteFrigus ransomware leaves C alone, goes after other drives
-    *   APT33 sics small, elusive botnets on U.S. and global targets
-    *   Using security orchestration to simplify IoT defense in depth
+    *   Arkansas AG reiterates need to report medical data breaches
+    *   Unsecured server exposes 4 billion records, 1.2 billion people
+    *   Nikki Haley used unclassified system for classified messages
+    *   Open database exposes 93K files on patients of substance abuse facilities
+    *   Target files $74 million suit against Chubb over breach coverage
     
+    *   Cyberattackers taking auto industry for a ride, FBI reportedly warns
     *   Hill warns lawmakers not to spread Ukraine election interference narrative pushed by Russia
     *   Target files $74 million suit against Chubb over breach coverage
     *   Data breach compromises T-Mobile prepaid accounts
     *   Former FBI lawyer under criminal probe for altering doc linked to Page surveillance
-    *   Unsecured server exposes 4 billion records, 1.2 billion people
 
 Back to Top
 
