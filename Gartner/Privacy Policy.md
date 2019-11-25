@@ -61,7 +61,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 524 8733 1 855 524 8733
+    1 855 655 8232 1 855 655 8232
     
 
 *   Solutions By Function
@@ -127,7 +127,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 524 8733 1 855 524 8733
+    1 855 655 8232 1 855 655 8232
     
 
 GARTNER PRIVACY POLICY Effective Date: October 2019
