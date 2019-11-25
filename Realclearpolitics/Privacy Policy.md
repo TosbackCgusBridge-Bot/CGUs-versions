@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Aaron Mate_: Impeachment Non-Bombshells, War-Profiteering and 2020
+*   _Albert Hunt_: Impeachment Will Make Some Senate Republicans Squirm
     
-*   _Jonathan Allen_: Why the Top Candidates Played It Safe at Dem Debate
+*   _Ned Ryun_: Republicans Will Be in Driver's Seat in a Senate Trial
     
-*   _John Davidson_: Most Important Story Right Now Is the Crisis in Mexico
+*   _Julian Zelizer_: Republicans Spew Wacky, Wild-Eyed Conspiracy Theories
     
-*   _Andrew Sullivan_: Fiona Hill Is the Antidote to Trump
+*   _Eddie Scarry_: NYT Memory-Holes Ukraine Election Interference Report
     
-*   _Mollie Hemingway_: How Republicans Won Phase One of Impeachment
+*   _David Smith_: 'Yes, the Democrats Have a Problem'
     
-*   _Charles Lipson_: Pelosi Must Be Wondering: 'Where Do We Go Now?'
+*   _Michael Dougherty_: Sen. Hawley's Striking Critique of American Life
     
-*   _Josh Kraushaar_: Schiff Did a Masterful Job Exposing Trump's Wrongdoing
+*   _Charles Blow_: Democrats Are Failing to Decipher Black Voters
     
-*   _Daniel Flynn_: Trump Is Right About Biden's Corrupt Conduct in Ukraine
+*   _Scott Walker_: Bringing Conservatism Back to Colleges
     
-*   _Tom Vilsack_: Biden Has Stood Test of Time. He Should Be Next President
+*   _Dana Milbank_: Republicans Have a New Enemy: Truth Itself
     
-*   _Ella Nilsen_: The Pete Buttigieg Surge, Explained
+*   _Michael Anton_: Impeachment Is a Cause in Search of a Trigger
     
-*   _Kimberly Ross_: Will Democrats Pay a Price for Abortion Extremism?
+*   _Melinda Henneberger_: A Visit Home After Leaving the Church
     
-*   _Susan Crabtree_: Trump's Choice for Broadcasting Chief Remains in Limbo
+*   _Michael Goodwin_: Impeachment Trial Is the Ace Up Trump's Sleeve
     
-*   _Aaron Miller_: Shift on Israeli Settlements Is Foreign Policy at Its Worst
+*   _Timothy Egan_: The Day That Decided the 2020 Election
     
-*   _Robert Curry_: Trump's Common Sense on Foreign Policy
+*   _Roger Kimball_: Trump's Disruptive Energy vs. the Deep State
     
-*   _Thomas Graham_: U.S. Needs a More Pragmatic Approach to Russia
+*   _Adam Serwer_: President Trump’s Crime Against America
     
-*   _Peggy Noonan_: The Case Has Been Made--There's No Defense for Trump
+*   _Andrew McCarthy_: The First Glimpse Into Horowitz's FISA-Abuse Report
     
-*   _Roger Kimball_: The Supposed Ukraine Plot Is a Lie by Schiff &. Ciaramella
+*   _Dan Balz_: Wisconsin Highlights Dems’ Challenges on Impeachment
     
-*   _Peter Nicholas_: What's the Real Story Behind the Steele Dossier?
+*   _Andy Puzder_: U.S. Workers Are Pawns in Dems' War Against Trump
     
-*   _Lazio &. Murphy_: America's Democracy Is at Stake. Why Aren't We Acting?
+*   _John Mauldin_: The Calm Before the Economic Storm
     
-*   _Meghan Daum_: Please Stop Calling Yourself a 'Feminist Badass'
+*   _Peter Ferrara_: U.S. Energy Boom Leads Middle Class Wages to Soar
     
-*   _Joanna Weiss_: How Peak TV Paved the Way for the Impeachment Hearings
+*   _Nathan Robinson_: Progressives, Trust Your Gut: Warren Is Not One of Us
     
-*   _David Catron_: Trump Results vs. the Mindless Resistance
+*   _Bruce Thornton_: The Dwindling NeverTrumpers Remind Us Why Trump Won
     
-*   _Elliot Williams_: House Democrats' Strategy Was Nothing Short of Genius
+*   _Tom Vilsack_: Why Joe Biden Should Be the Next President
     
-*   _John Solomon_: The Ukraine Timeline Democrats, Media Don't Want America to See
+*   _Julie Kelly_: Biden Family Must Be Unhappy as 'The Schiff Show' Closes
     
 
 *   Previous
@@ -298,11 +298,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Schiff: "We Don't Need The Whistleblower's Second-Hand Evidence," Testimony Would Threaten Their Life
+*   Steve Bannon: Nancy Pelosi Is Risking Her Speakership If She Pushes Forward With Impeachment
+*   Jim Himes Says Devin Nunes And GOP Pushed "Fantastical Conspiracy Theories" At Impeachment Hearings
 *   David Brooks: "It Was A Good Couple Of Weeks For Washington Insiders," People Trained By The Government
 *   MSNBC's Deutsch: "We Live In A Bubble," Impeachment Hearings Got Same Ratings As A Regular CBS Sitcom
-*   Wenstrup On Impeachment: Coups Create Division, Its Time For This Democrat Coup Attempt To End
-*   Schiff: Trump's Defense Like Saying Watergate Burglars "Didn't Get What They Came For, No Harm, No Foul"
-*   GOP Rep. Will Hurd: "I Have Not Heard Evidence Proving The President Committed Bribery Or Extortion"
 
 *   Politics
 *   Policy
