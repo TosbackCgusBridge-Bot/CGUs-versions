@@ -59,7 +59,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT. On the web, Privacy goes by the alias sammytown.
 
-What is PeekScore? Public Records &. Background Checks 2% 
+What is PeekScore? Public Records &. Background Checks 3% 
 
 Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -89,7 +89,7 @@ Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-2% 
+3% 
 
 *   Paul A Policy, age 76, Lusby, MD Background Check
     
@@ -135,7 +135,7 @@ Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-2% 
+3% 
 
 Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -165,7 +165,7 @@ Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-8%  Arrest Records &. Driving Infractions
+7%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -206,7 +206,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 2% 
+Facebook 3% 
 
 *   Prıvacy PoIicy - kongpatchanon
     
@@ -269,7 +269,7 @@ Facebook 2% 
     
 *   Show Less ...
 
-Twitter 2% 
+Twitter 3% 
 
 *   Free Privacy Policy - FreePrivacy1
     
@@ -315,7 +315,7 @@ Twitter 2% 
     
 *   Show Less ...
 
-Instagram 2% 
+Instagram 3% 
 
 *   Privacy Policy - insta\_privacy\_policy
     
@@ -361,7 +361,7 @@ Instagram 2% 
     
 *   Show Less ...
 
-Myspace 2% 
+Myspace 3% 
 
 *   Privacy Policy - 49086242
     
@@ -385,7 +385,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Social Profiles 2% 
+Social Profiles 3% 
 
 *   Lauren Weinstein
     
@@ -427,7 +427,7 @@ Social Profiles 2% 
     
 *   Show Less ...
 
-Pinterest 2% 
+Pinterest 3% 
 
 *   Ann Thomas - privacypolicy
     
@@ -436,7 +436,7 @@ Pinterest 2% 
 *   Policy Privacy - policyp
     
 
-Wikipedia 2% 
+Wikipedia 3% 
 
 *   Privacy policy
     
@@ -472,7 +472,7 @@ Wikipedia 2% 
     
 *   Show Less ...
 
-Music 2% 
+Music 3% 
 
 *   Pandora
     
@@ -514,7 +514,7 @@ Music 2% 
     
 *   Show Less ...
 
-Photo Albums 2% 
+Photo Albums 3% 
 
 *   Flickriver
     
@@ -525,7 +525,7 @@ Photo Albums 2% 
     Feb 07, 2019 · Flickr announced in November it would be changing its generous photo storage allotment for free users, restricting them to a 1,000-photo limit, and threatening to …
     
 
-Web Search 2% 
+Web Search 3% 
 
 *   Privacy Policy – Privacy &. Terms – Google
     
@@ -571,7 +571,7 @@ Web Search 2% 
     
 *   Show Less ...
 
-Images 2% 
+Images 3% 
 
 15
 
