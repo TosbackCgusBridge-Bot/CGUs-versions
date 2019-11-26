@@ -36,11 +36,13 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Fleece slippers starting at $13. 50% off everything else!
+Fleece quarter zip tops starting at $13. 50% off everything else!
 
-code: SUEDE pin: PROMOTION DETAILS
+Only 0 HR 08 MIN 13 SEC Left!
 
-Customer Service Menu
+code: PLUSH pin: PROMOTION DETAILS
+
+Shop Fleece Tops &. Jackets Customer Service Menu
 
 Customer Service
 
