@@ -1,4 +1,4 @@
-Effective Date: October 24, 2019
+Effective Date: November 25, 2019
 
 We gather certain types of information from and about the visitors to the Edmunds Automotive Network, and we believe our visitors should fully understand what information we gather from and about our visitors, and how we obtain, use, share and manage that information. The Edmunds Automotive Network consists of Edmunds.com and any other Web site that we identify as a part of the Edmunds Automotive Network. the mobile versions of our Web sites. any apps that we offer. and widgets, tools and content from our Web site that we offer for display on third-party web sites or apps.
 
@@ -90,7 +90,7 @@ The Program applies to "online behavioral advertising," which is defined as the 
 
 Our advertisers may from time to time use data collected about your visits to the Edmunds Automotive Network and other Web sites to target ads to you on the Edmunds Automotive Network and other Web sites and online services.
 
-In addition, the Edmunds Automotive Network may from time to time permit third parties to collect non-personally identifiable Web site usage information about our visitors for the purpose of facilitating the serving of targeted ads promoting the Edmunds Automotive Network on other Web sites and online services. To do this, we permit such third parties to place and use cookies on the browsers of our visitors, and use Web beacons and other tracking technologies on the Edmunds Automotive Network. These third parties may also use personally identifiable information obtained from other sources to serve advertisements over time and across Web sites and online services.
+In addition, the Edmunds Automotive Network may from time to time permit third parties to collect non-personally identifiable Web site usage information about our visitors for the purpose of facilitating the serving of targeted ads on other Web sites and online services. To do this, we permit such third parties to place and use cookies on the browsers of our visitors, and use Web beacons and other tracking technologies on the Edmunds Automotive Network. These third parties may also use personally identifiable information obtained from other sources to serve advertisements over time and across Web sites and online services.
 
 Other companies' use of information collected through their cookies and other tracking technologies is subject to their own privacy policies and not this one. To learn more about your choices and how to opt out from receiving the types of ads described above, please click here or paste http://www.aboutads.info/choices/ into your internet browser.
 
