@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksScience vs. Monster Movies Quiz: Tell Fact from Fiction!1STWhy Neil Armstrong Was Chosen to Be the First Man on the Moon2ND5 Large Nations With No Homeland3RDU.S. Military Dogs Usually Outrank Their Handlers4THKelley Blue Book | Sponsored10 Electric Cars That Last the LongestKelley Blue Book | SponsoredAuto Overload | Sponsored20 Photos Captured At Airports That Will Make You Laugh Out LoudAuto Overload | SponsoredAuto Overload | Sponsored24 Photos Taken Right Before It All Went WrongAuto Overload | SponsoredAmerican Giant | SponsoredWhy Are Women Ditching Their Yoga Pants for These Amazing Bottoms?American Giant | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted Links5 Large Nations With No Homeland1STWhy Neil Armstrong Was Chosen to Be the First Man on the Moon2NDMeet the Real Vampires of the Animal Kingdom3RDScience vs. Monster Movies Quiz: Tell Fact from Fiction!4THAuto Enthusiast | Search Ads | Sponsored8 Cars So Cool It's Hard to Believe They Cost Under $20kAuto Enthusiast | Search Ads | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredBon Voyaged | Sponsored20 Photos Captured At Airports That Will Make You Laugh Out LoudBon Voyaged | SponsoredKelley Blue Book | Sponsored10 Electric Cars That Last the LongestKelley Blue Book | Sponsored
 
 Advertisement
 
-home &. garden-autoThe Ultimate Downsize: Living in a Shipping Container HomeBY Carrie Whitney, Ph.D.home &. garden-autoIf at First You Don't Succeed, Try Tripe AgainBY Kristen Hall-Geislerhome &. garden-autoWhat Does It Mean When Someone Says 'That's Just Semantics'?BY Michelle KonstantinovskyBuzznet | SponsoredThese Twins Were Named "Most Beautiful In The World", Wait Till You See Them TodayBuzznet | SponsoredTop 5 | SponsoredHer Belly Keeps Growing, Doctor Sees Scan And Calls AuthoritiesTop 5 | Sponsored
+home &. garden-autoU.S. Military Dogs Usually Outrank Their HandlersBY Nathan Chandlerhome &. garden-autoWhat's the Difference Between Whiskey and Bourbon?BY Patty Rasmussenhome &. garden-autoWhy Is the North Star So Stellarly Important?BY Patrick J. KigerBest Of Senior | SponsoredBrad Pitt's Daughter Is Probably The Prettiest Girl AliveBest Of Senior | SponsoredTotal Battle - Tactical Game Online | SponsoredAdvertisement Advertisement GO TOTotal Battle - Tactical Game Online | SponsoredCANCELThis game can train your brain to think strategicallyTotal Battle - Tactical Game Online | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorks'Franglais' on the Rise, Say French Language WatchdogsDo People and Bananas Really Share 50 Percent of the Same DNA?Why You Should Stop Raking Fall Leaves, Stat!What's the Difference? QuizWhy Is the North Star So Stellarly Important?Does Your Brain Get Tired Like the Rest of Your Body?by Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksThe Ultimate Downsize: Living in a Shipping Container HomeIf at First You Don't Succeed, Try Tripe AgainWhat's the Difference? QuizWhy You Should Stop Raking Fall Leaves, Stat!What's the Difference Between an Alaskan Malamute and a Husky?The Battle of the Big Cats: Maine Coon vs. Norwegian Forestby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. The Ultimate Downsize: Living in a Shipping Container HomeRead Next StoryKelley Blue Book10 Electric Cars That Last the LongestKelley Blue Book|SponsoredSponsoredRead Next StoryAuto Overload20 Photos Captured At Airports That Will Make You Laugh Out LoudAuto Overload|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. 5 Large Nations With No HomelandRead Next StoryAuto Enthusiast | Search Ads8 Cars So Cool It's Hard to Believe They Cost Under $20kAuto Enthusiast | Search Ads|SponsoredSponsoredRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next Story
