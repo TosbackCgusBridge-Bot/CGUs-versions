@@ -5,17 +5,17 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Frozen II
     *   Ford v Ferrari
+    *   A Beautiful Day in the Neighborhood
+    *   21 Bridges
     *   Midway (2019)
-    *   Charlie's Angels (2019)
     *   Playing with Fire (2019)
-    *   Last Christmas (2019)
-    *   Doctor Sleep
     *   The Good Liar
+    *   Charlie's Angels (2019)
+    *   Last Christmas (2019)
     *   Joker (2019)
-    *   Maleficent: Mistress of Evil
     *   Harriet (2019)
-    *   Terminator: Dark Fate
     *   See All Now Playing
     
     Opening This Week = Limited Release
@@ -35,15 +35,16 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Coming Soon
     
-    *   Knives Out
-    *   Queen &. Slim
     *   Playmobil: The Movie
+    *   The Aeronauts
     *   Black Christmas (2019)
     *   Jumanji: The Next Level
     *   Richard Jewell
     *   Uncut Gems
     *   Bombshell (2019)
     *   Cats (2019)
+    *   Spies in Disguise
+    *   Little Women (2019)
     *   See All Coming Soon
     
     Explore More
@@ -73,7 +74,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   The Week in Movie Trailers: Harrison Ford in ‘The Call of the Wild,’ Another Look at ‘Cats’ and More Read More
     *   The Week in Movie News: ‘Star Trek 4’ Beams Up a New Director, Nicolas Cage to Play Nicolas Cage and More Read More
-    *   Next 3 Best Actress Awards Contenders: 'Seberg,' 'Bombshell,' 'Little Women' Read More
+    *   Next 3 Major Family Adventures: 'Jumanji: The Next Level,' 'Cats,' 'Spies in Disguise' Read More
     
     Explore Content
     *   Movie Reviews
@@ -383,4 +384,8 @@ Fandango Affiliated Companies:
 *   Fandango Latin America
 *   Ingresso
 
-© 2019 Fandango
+© 2019 Fandango Got a minute?
+
+Help us improve Fandango by taking a short survey!
+
+Take the surveyNo Thanks
