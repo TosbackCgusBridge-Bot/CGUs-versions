@@ -22,15 +22,7 @@ _5/25/2018_
 We work hard to build and maintain a relationship of trust with you. So, when it comes to handling your information, we do so carefully and sensibly, and in ways that live up to that trust. This policy lets you know how we do that, including what information we collect, how we use and protect it, and how you can decide what we do with it. Our goal is to help you understand how we use your information to improve our content, products, advertisements, and services.
 
   
-**Introduction** **What We Collect** **What We Use** **How We Safeguard Your Information** **What We Share** **Your Rights and Choices** **Cookies and Other Technologies** **Interest-Based Advertising** **EU Processing, Retention, and Transfer** **Site and App Content** **Children’s Privacy** **California Consumer Privacy** **Contact Us**
-
-1 of 0
-
-previous
-
-next
-
-Here’s a short introduction to our privacy practices
+**Introduction** **What We Collect** **What We Use** **How We Safeguard Your Information** **What We Share** **Your Rights and Choices** **Cookies and Other Technologies** **Interest-Based Advertising** **EU Processing, Retention, and Transfer** **Site and App Content** **Children’s Privacy** **California Consumer Privacy** **Contact Us** Here’s a short introduction to our privacy practices
 
 what we collect
 
