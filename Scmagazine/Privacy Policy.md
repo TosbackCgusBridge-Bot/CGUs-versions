@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Why network segmentation is ready for an overhaul
-    *   Stolen GateHub and EpicBot credentials spotted on hacking forum
-    *   Hill warns lawmakers not to spread Ukraine election interference narrative pushed by Russia
-    *   Louisiana spurns attempted ransomware attack, governor says
-    *   Nikki Haley used unclassified system for classified messages
-    
-    *   Arkansas AG reiterates need to report medical data breaches
-    *   Unsecured server exposes 4 billion records, 1.2 billion people
-    *   Nikki Haley used unclassified system for classified messages
-    *   Open database exposes 93K files on patients of substance abuse facilities
+    *   Cyberattackers taking auto industry for a ride, FBI reportedly warns
+    *   Risk and compliance challenges in the swift moving lead-generation market
+    *   It's privacy vs. innovation as Google collects data on 50 million medical patients
     *   Target files $74 million suit against Chubb over breach coverage
+    *   Trump call with Sondland in Ukraine restaurant raises concerns over security breach
     
+    *   How to prepare for the U.S. Census to move online
+    *   Microsoft deflects Doppelpaymer/Teams rumors
+    *   Trump call with Sondland in Ukraine restaurant raises concerns over security breach
+    *   Arkansas AG reiterates need to report medical data breaches
+    *   PayMyTab database leaked PII on diners
+    
+    *   NYPD fingerprint database touched by ransomware
     *   Cyberattackers taking auto industry for a ride, FBI reportedly warns
     *   Hill warns lawmakers not to spread Ukraine election interference narrative pushed by Russia
     *   Target files $74 million suit against Chubb over breach coverage
     *   Data breach compromises T-Mobile prepaid accounts
-    *   Former FBI lawyer under criminal probe for altering doc linked to Page surveillance
 
 Back to Top
 
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
