@@ -8,7 +8,7 @@
 
 Menu IKEA
 
-*   Offers
+*   Black Friday Offers
 *   Products Products Products
     
     *   Furniture
@@ -273,6 +273,8 @@ Menu IKEA
         
     *   Cyber Monday
         
+    *   Holiday Gift Guide
+        
     *   Winter Holidays
         
     *   Collections
@@ -304,6 +306,7 @@ Menu IKEA
     *   Seasonal
     *   Black Friday
     *   Cyber Monday
+    *   Holiday Gift Guide
     *   Winter Holidays
     *   Collections
     *   Back to College
@@ -318,7 +321,7 @@ Menu IKEA
 
 Menu
 
-*   My Profile
+*   My profile
 *   Shopping list
 *   Shopping bag
 
@@ -328,11 +331,9 @@ Search for
 *   categories
 *   content
 
-Oops! Something went wrong :(
+It seems our links need some grooming. Sorry!
 
-The page you are looking for can't be found.
-
-Maybe the links below can be helpful.
+This page has vanished. But that doesn't mean you have to.
 
 Go back to the IKEA homepage
 
