@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Albert Hunt_: Impeachment Will Make Some Senate Republicans Squirm
+*   _Sharyl Attkisson_: A Troubling Picture of Bureaucrats Who Think They Run U.S.
     
-*   _Ned Ryun_: Republicans Will Be in Driver's Seat in a Senate Trial
+*   _Ian Buruma_: Vindman the Patriot Versus the President
     
-*   _Julian Zelizer_: Republicans Spew Wacky, Wild-Eyed Conspiracy Theories
+*   _Monica Showalter_: Pelosi's Worst Nightmare Slowly Comes to Life
     
-*   _Eddie Scarry_: NYT Memory-Holes Ukraine Election Interference Report
+*   _Melinda Henneberger_: Attacks on Biden Are False, But He's Losing My Vote
     
-*   _David Smith_: 'Yes, the Democrats Have a Problem'
+*   _Matt Flegenheimer_: Warren's Done the Hard Part. Now Comes the Harder Part.
     
-*   _Michael Dougherty_: Sen. Hawley's Striking Critique of American Life
+*   _Lily Vartanian_: Freedom of Speech and Liberal Education
     
-*   _Charles Blow_: Democrats Are Failing to Decipher Black Voters
+*   _Michael Roth_: What the 'Woke Student' &. the 'Welfare Queen' Have in Common
     
-*   _Scott Walker_: Bringing Conservatism Back to Colleges
+*   _Timothy McLaughlin_: Hong Kong Doesn't Have a Pro-China 'Silent Majority'
     
-*   _Dana Milbank_: Republicans Have a New Enemy: Truth Itself
+*   _Jed Babbin_: In Israel, Another Witch Hunt
     
-*   _Michael Anton_: Impeachment Is a Cause in Search of a Trigger
+*   _Aaron Miller_: Netanyahu Will Make His Likely Exit as Destructive as Possible
     
-*   _Melinda Henneberger_: A Visit Home After Leaving the Church
+*   _Susan Crabtree_: Impeachment Trial Timing Would Put Democrats in a Bind
     
-*   _Michael Goodwin_: Impeachment Trial Is the Ace Up Trump's Sleeve
+*   _Maureen Dowd_: Trump's White Whale
     
-*   _Timothy Egan_: The Day That Decided the 2020 Election
+*   _Salena Zito_: Swing Voters on Trump: 'I'd Vote for Him Again in a Heartbeat'
     
-*   _Roger Kimball_: Trump's Disruptive Energy vs. the Deep State
+*   _Siders_: Dems Rethink the Obama Coalition Formula
     
-*   _Adam Serwer_: President Trump’s Crime Against America
+*   _Emma Green_: Josh Hawley and the Future of the Republican Party
     
-*   _Andrew McCarthy_: The First Glimpse Into Horowitz's FISA-Abuse Report
+*   _Roger Simon_: Dem Disaster Looms as Trump Goes 'Bigly' With Blacks
     
-*   _Dan Balz_: Wisconsin Highlights Dems’ Challenges on Impeachment
+*   _Francis Wilkinson_: This White Wisconsin County Has No Time for Trump
     
-*   _Andy Puzder_: U.S. Workers Are Pawns in Dems' War Against Trump
+*   _Frank Miele_: Impeachment Theme Song: 'Is That All There Is?'
     
-*   _John Mauldin_: The Calm Before the Economic Storm
+*   _Steve Coll_: Gordon Sondland's Impeachment Testimony for the Ages
     
-*   _Peter Ferrara_: U.S. Energy Boom Leads Middle Class Wages to Soar
+*   _Aaron Mate_: Impeachment Non-Bombshells, War-Profiteering and 2020
     
-*   _Nathan Robinson_: Progressives, Trust Your Gut: Warren Is Not One of Us
+*   _John Davidson_: The Chaos South of Our Border Won't Stay There
     
-*   _Bruce Thornton_: The Dwindling NeverTrumpers Remind Us Why Trump Won
+*   _Rachel Morris_: Trump Got His Wall, After All
     
-*   _Tom Vilsack_: Why Joe Biden Should Be the Next President
+*   _Gordan Chang_: Pro-China Forces 'Annihilated' in Hong Kong Election
     
-*   _Julie Kelly_: Biden Family Must Be Unhappy as 'The Schiff Show' Closes
+*   _Steve Cortes_: Trump Backers Aren't a Cult...But We Are the Outsiders
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Pentagon Chief Fires Navy Secretary Over SEAL Controversy
+*   Michael Bloomberg Enters Democratic Presidential Primary
+*   Bannon: Pelosi Risks Speakership If She Pushes Impeachment
 *   Trump's Choice for Broadcasting Chief Remains in Limbo
-*   FBI Lawyer Investigated Over Altered Russia Probe Document
-*   Interview With Trump on "Fox &. Friends"
 *   Democratic Debate Detente in Atlanta
-*   Wis. Elections Panel Sued for Not Cleaning Up Voter Rolls
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -253,8 +253,11 @@ Latest PollsAll Polls
 *   State of the Union
 
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove52Disapprove +6
+    *   Approve44
+    *   Disapprove55Disapprove +11
+*   Direction of CountryRasmussen Reports
+    *   Right Direction38
+    *   Wrong Track56Wrong Track +18
 *   2020 Democratic Presidential NominationEmerson
     *   Biden27
     *   Sanders27
@@ -283,26 +286,14 @@ Latest PollsAll Polls
     *   Bloomberg1
     *   Castro1
     *   Bullock1Buttigieg +7
-*   New York Democratic Presidential PrimarySiena
-    *   Biden24
-    *   Warren14
-    *   Sanders13
-    *   Buttigieg5
-    *   Harris3
-    *   Yang2
-    *   Booker2
-    *   Gabbard1
-    *   Klobuchar1
-    *   Bennet1
-    *   Castro1Biden +10
 
 More Latest Polls In The News
 
+*   Nunes: CNN, Daily Beast Accusations Of Ukrainian Ties "Mother Of All Fake News Stories," "Run For Cover"
+*   Bloomberg Campaign Chief Kevin Sheekey: Trump Is On The "Path To Victory," This Is A Campaign Against Trump
 *   Schiff: "We Don't Need The Whistleblower's Second-Hand Evidence," Testimony Would Threaten Their Life
 *   Steve Bannon: Nancy Pelosi Is Risking Her Speakership If She Pushes Forward With Impeachment
 *   Jim Himes Says Devin Nunes And GOP Pushed "Fantastical Conspiracy Theories" At Impeachment Hearings
-*   David Brooks: "It Was A Good Couple Of Weeks For Washington Insiders," People Trained By The Government
-*   MSNBC's Deutsch: "We Live In A Bubble," Impeachment Hearings Got Same Ratings As A Regular CBS Sitcom
 
 *   Politics
 *   Policy
