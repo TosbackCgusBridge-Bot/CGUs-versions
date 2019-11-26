@@ -1,6 +1,6 @@
 Free Shipping over $49See DetailsEnable Accessibility
 
-*   My AccountSign InTrack MyOrders
+*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -55,16 +55,14 @@ BONUS BUY! SAVE 75% 79.98 EA.WITH CODE1/4 to 1/3 ct. t.w lab growndiamond in st
 **sale $6.99-$29.99**  
 reg. $14-$6029.99Women’s boots select styles | reg. $60-$80  
 Everything you need to throw the ultimate feast!  
-Picked by Pinterest—get it here! THE LOCAL LOOKLocally curated, universally loved Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 38 total items loaded in Media GalleryFollow @jcpenney **\*\*Visa Card Rebate:** Purchase applicable housewares item 11/24/19-11/25/19, unless otherwise noted, and get a Visa Prepaid Card by mail as a rebate. Rebate form and details print at register. Visa Prepaid Card is issued by MetaBank, Member FDIC, pursuant to a license from Visa U.S.A. Inc. Cards can be used at any merchants that accept Visa debit cards. Terms and Conditions apply to the card. See rebate form for details. JCPenney reserves the right to substitute a check of equal value in lieu of a Visa Prepaid Card at its discretion.Recommended for You
+Picked by Pinterest—get it here! THE LOCAL LOOKLocally curated, universally loved Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 42 total items loaded in Media GalleryFollow @jcpenney **\*\*Visa Card Rebate:** Purchase applicable housewares item 11/24/19-11/25/19, unless otherwise noted, and get a Visa Prepaid Card by mail as a rebate. Rebate form and details print at register. Visa Prepaid Card is issued by MetaBank, Member FDIC, pursuant to a license from Visa U.S.A. Inc. Cards can be used at any merchants that accept Visa debit cards. Terms and Conditions apply to the card. See rebate form for details. JCPenney reserves the right to substitute a check of equal value in lieu of a Visa Prepaid Card at its discretion.Recommended for You
 
-*   $3399after couponwas $72 Xersion Water Resistant Lightweight Puffer Jacket(43)
-*   $424 - $2974after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(255)
-*   $2599 clearance
-    
-    was $40 | 35% offNike Jersey Mens Long Sleeve Hoodie(37)
-*   $2379after couponwas $59 Liz Claiborne Womens Fleece Long Sleeve Long Length Robe(16)
-*   $2549after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(97)
-*   $1104after couponwas $27 St. John's Bay Active 1/4 Zip Fleece Pullover(65)
+*   $2549after couponwas $60 Arizona Womens Yetta Block Heel Lace Up Boots(98)
+*   $3399after couponwas $72 Xersion Water Resistant Lightweight Puffer Jacket(46)
+*   $2549after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(98)
+*   $424 - $2974after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(257)
+*   $084after couponwas $5 St. John's Bay Womens Scoop Neck Sleeveless Tank Top
+*   $2549after couponwas $80 Arizona Womens Dino Wide Calf Block Heel Riding Boots(16)
 
 Shop JCPenney Black Friday Deals
 
