@@ -9,11 +9,38 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
+    *   True Religion
+    *   True Religion Men Up to 65% Off
+    *   Let It Rain: Waterproof Boots ft. Hunter &. Sperry
+    *   True Religion Kids Up to 65% Off
+    *   Maaji Active Up to 55% Off
+    *   Top Toys for Kids Under 3
+    *   Top Toys for Kids 3-7
+    *   Top Toys for Kids 8 &. Older
+    *   Top Toys for the Family
+    *   Games for Grown-Ups from $15
+    *   Free Shipping: BergHOFF Up to 60% Off
+    *   Bring Holiday Cheer: philosophy Gift Sets
+    *   All About the Details: Dresses Under $100
+    *   $80 &. Under: Crevo Men's Shoes
+    *   Spyder Outerwear Up to 60% Off
+    *   FAVLUX &. More Under $40
+    *   Hobo Bags from The Sak Collective
+    *   Hit Snooze: Sleep &. Lounge Faves Under $35
+    *   Staheekum Slippers &. More
+    *   Rivka Friedman Jewelry Up to 70% Off
+    *   RVCA Starting at $15
+    *   Great Gifts for Him Under $100
+    *   True Religion Sun &. More Under $40
+    *   Cozy Blankets, Comforters &. More Up to 55% Off
+    *   Face Masks We Love
+    *   Gorjue Lipsticks Up to 50% Off
     *   Frye Up to 50% Off
     *   Frye Men Up to 50% Off
     *   Frye Handbags &. Accessories Up to 50% Off
     *   Rachel Roy Collection Up to 70% Off Incl. Plus
     *   Disney Shoes from Mini Melissa
+    
     *   Frye Men's Clothing &. Accessories Up to 70% Off
     *   Drybar
     *   Wrap Dresses Under $50
@@ -33,85 +60,64 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Theo and Spence Lounge Under $25
     *   Cozy &. Chic Steals: Vertigo Up to 80% Off
     *   Best of Nordstrom Rack: New Handbag Blowouts
-    *   Fashion-Forward Finds Under $20
     *   Women's Shoe Blowout
     *   On-Trend Earrings &. More Under $25
     *   Gifts for a Steal: Picks for Him Up to 70% Off
     *   Men's Shoe Steals Up to 70% Off
     *   Calvin Klein Fragrances for Men &. Women Under $60
-    *   ALLSAINTS Up to 50% Off
-    *   Cole Haan Coats Up to 70% Off
-    *   ASICS
-    
-    *   TOV
-    *   Coats, Jackets &. More ft. Love Token
     *   Giftable Faves from Bugatchi
     *   Lacoste Lounge
-    *   BEARPAW from $40
-    *   Sweaters Under $30
-    *   In Bloom Lingerie &. Sleep Under $35
-    *   On-Trend Bags Up to 65% Off
-    *   Next Swim Up to 65% Off
     *   Stack It Up: Eternity Rings &. More
     *   Petit Lem Up to 55% Off
     *   ASICS Kids
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Rustic Aesthetic: Home Decor for Every Room
+    
     *   Benamor Bath &. Body Up to 40% Off
     *   Eddie Bauer Bedding Up to 50% Off
     *   Best for Baby: Footies, Sets &. More
     *   Must-Have Beauty Gift Sets Starting at $25
     *   Kitchen Gadgets &. Storage from $15
-    *   Stuart Weitzman
-    *   Elie Tahari
-    *   Love Stitch &. Angie Incl. Plus
-    *   Sweater Dresses ft. Solutions
-    *   For Every Gathering: Plus Styles Up to 65% Off
-    *   Made in Italy: Meshmerise from $40
-    *   Diesel
-    *   Spiritual Gangster Kids
-    *   Raymond Weil Luxury Swiss Watches
-    *   Diamonds, Gems &. More Up to 80% Off
-    *   Full-Fit Bras &. More ft. Parfait
     *   Storage Must-Haves from $12
-    *   NOIZE Outerwear
     *   Kenneth Cole New York Men
-    
     *   Aldo Men
     *   Teami Blends Detox Teas &. Supplements
     *   K-Beauty ft. Asamo, JayJun &. More from $10
-    *   Commuter Bags ft. Solo New York
-    *   Fresh Finds: Shoes Up to 60% Off
-    *   Spiritual Gangster
-    *   Nordstrom Exclusives ft. Harper Canyon
-    *   Mommy &. Me Shoes from MIA
     *   Cailyn Cosmetics Starting at $10
     *   Cozy Night In: Hooded Blankets Up to 50% Off
-    *   Jessica Simpson Handbags Up to 70% Off
     *   Predire Paris Luxury Skin Care Starting at $15
     *   Holiday Cheer: Mark Roberts Figurines &. More
     *   Sweet Dreams: Sheet Sets, Duvets &. More
     *   Season of Light: Pre-Lit Christmas Trees
     *   Cruelty-Free Makeup: Rincon Cosmetics
-    *   Vintage Foundry Up to 80% Off
     *   Eva NYC Hair Tools
     *   Wall Murals &. Decals Up to 40% Off
-    *   Zeus Men's Natural Beard Care &. More from $10
-    *   Fragrances Up to 55% Off ft. Jovoy &. More
-    *   Finchberry Vegan Soaps &. More
     *   Bling on the Holidays: Ornaments Starting at $10
     *   Free Shipping: Animation Art Up to 85% Off
     *   New Year, New Plans: 2020 Calendars &. Planners
     *   Nostalgia Kitchen Appliances from $30
-    *   Give More Than a Gift: Le Creuset
-    *   Free Shipping: Bedding Steals Up to 50% Off
     *   Best of Nordstrom Rack: New Jewelry Blowouts &. More
     *   ASICS Men
-    *   Free Shipping: Shun Cutlery Classic Collection
-    *   Stocking Stuffers: Phone Chargers, Cables &. More
-    *   For Your Fur Baby: Pet Accessories &. More
+    *   Fashion-Forward Finds Under $20
+    *   Cole Haan Coats Up to 70% Off
+    *   Coats, Jackets &. More ft. Love Token
+    *   Sweaters Under $30
+    *   Sweater Dresses ft. Solutions
 *   WomenShop Sale Events
     
+    *   True Religion
+    *   Let It Rain: Waterproof Boots ft. Hunter &. Sperry
+    *   Maaji Active Up to 55% Off
+    *   Bring Holiday Cheer: philosophy Gift Sets
+    *   All About the Details: Dresses Under $100
+    *   FAVLUX &. More Under $40
+    *   Hobo Bags from The Sak Collective
+    *   Hit Snooze: Sleep &. Lounge Faves Under $35
+    *   Staheekum Slippers &. More
+    *   Rivka Friedman Jewelry Up to 70% Off
+    *   True Religion Sun &. More Under $40
+    *   Face Masks We Love
+    *   Gorjue Lipsticks Up to 50% Off
     *   Frye Up to 50% Off
     *   Frye Handbags &. Accessories Up to 50% Off
     *   Rachel Roy Collection Up to 70% Off Incl. Plus
@@ -124,83 +130,60 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Mommy &. Me: Sleep Sets &. More
     *   Laura Geller New York
     *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
+    
     *   Nuzest Vegan Protein
     *   Winter Boots from SOREL, Kamik &. More
     *   Theo and Spence Lounge Under $25
     *   Cozy &. Chic Steals: Vertigo Up to 80% Off
     *   Best of Nordstrom Rack: New Handbag Blowouts
-    *   Fashion-Forward Finds Under $20
     *   Women's Shoe Blowout
     *   On-Trend Earrings &. More Under $25
     *   Calvin Klein Fragrances for Men &. Women Under $60
-    *   ALLSAINTS Up to 50% Off
-    *   Cole Haan Coats Up to 70% Off
-    *   ASICS
-    *   TOV
-    *   Coats, Jackets &. More ft. Love Token
-    *   BEARPAW from $40
-    *   Sweaters Under $30
-    *   In Bloom Lingerie &. Sleep Under $35
-    
-    *   On-Trend Bags Up to 65% Off
-    *   Next Swim Up to 65% Off
     *   Stack It Up: Eternity Rings &. More
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Benamor Bath &. Body Up to 40% Off
     *   Must-Have Beauty Gift Sets Starting at $25
-    *   Stuart Weitzman
-    *   Elie Tahari
-    *   Love Stitch &. Angie Incl. Plus
-    *   Sweater Dresses ft. Solutions
-    *   For Every Gathering: Plus Styles Up to 65% Off
-    *   Made in Italy: Meshmerise from $40
-    *   Raymond Weil Luxury Swiss Watches
-    *   Diamonds, Gems &. More Up to 80% Off
-    *   Full-Fit Bras &. More ft. Parfait
     *   Teami Blends Detox Teas &. Supplements
     *   K-Beauty ft. Asamo, JayJun &. More from $10
-    *   Commuter Bags ft. Solo New York
-    *   Fresh Finds: Shoes Up to 60% Off
-    *   Spiritual Gangster
-    *   Mommy &. Me Shoes from MIA
     *   Cailyn Cosmetics Starting at $10
-    *   Jessica Simpson Handbags Up to 70% Off
     *   Predire Paris Luxury Skin Care Starting at $15
     *   Cruelty-Free Makeup: Rincon Cosmetics
     *   Eva NYC Hair Tools
-    *   Fragrances Up to 55% Off ft. Jovoy &. More
-    *   Finchberry Vegan Soaps &. More
     *   Best of Nordstrom Rack: New Jewelry Blowouts &. More
+    *   Fashion-Forward Finds Under $20
+    *   Cole Haan Coats Up to 70% Off
+    *   Coats, Jackets &. More ft. Love Token
+    *   Sweaters Under $30
+    *   Sweater Dresses ft. Solutions
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
     *   Handbags
-    *   Lingerie &. Shapewear
     *   Accessories
-    *   Watches
+    *   Lingerie &. Shapewear
 *   MenShop Sale Events
     
+    *   True Religion Men Up to 65% Off
+    *   $80 &. Under: Crevo Men's Shoes
+    *   Spyder Outerwear Up to 60% Off
+    *   RVCA Starting at $15
+    *   Great Gifts for Him Under $100
+    *   True Religion Sun &. More Under $40
     *   Frye Men Up to 50% Off
     *   Frye Men's Clothing &. Accessories Up to 70% Off
     *   Men's Sweaters Under $100
     *   Nuzest Vegan Protein
+    
     *   Give a Classic: Tie &. Bow Tie Sets Up to 65% Off
     *   Gifts for a Steal: Picks for Him Up to 70% Off
     *   Men's Shoe Steals Up to 70% Off
     *   Giftable Faves from Bugatchi
     *   Lacoste Lounge
-    *   Diesel
-    
-    *   Raymond Weil Luxury Swiss Watches
-    *   NOIZE Outerwear
     *   Kenneth Cole New York Men
     *   Aldo Men
     *   Teami Blends Detox Teas &. Supplements
-    *   Commuter Bags ft. Solo New York
-    *   Vintage Foundry Up to 80% Off
-    *   Zeus Men's Natural Beard Care &. More from $10
     *   ASICS Men
     
     Shop By Category
@@ -210,74 +193,75 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Watches
 *   KidsShop Sale Events
     
+    *   True Religion Kids Up to 65% Off
+    *   Top Toys for Kids Under 3
+    *   Top Toys for Kids 3-7
+    *   Top Toys for Kids 8 &. Older
+    *   Top Toys for the Family
     *   Disney Shoes from Mini Melissa
     *   Fun &. Fancy: Girls' Dresses Up to 60% Off
     *   Petit Lem Up to 55% Off
     *   ASICS Kids
     *   Best for Baby: Footies, Sets &. More
-    *   Spiritual Gangster Kids
-    *   Nordstrom Exclusives ft. Harper Canyon
-    *   Mommy &. Me Shoes from MIA
     
     Shop By Category
+    *   Toy Shop
     *   Girls' Sizes 2T-6X
     *   Baby Girl
     *   Girls' Sizes 7-16
-    *   Girls' Shoes
     *   Baby Boy
-    *   Boys' Shoes
+    *   Girls' Shoes
     *   Boys' Sizes 2T-7
-    *   Baby Gear &. Essentials
     *   Boys' Sizes 8-20
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Games for Grown-Ups from $15
+    *   Free Shipping: BergHOFF Up to 60% Off
+    *   Cozy Blankets, Comforters &. More Up to 55% Off
     *   Make Memories: Instax Mini Cameras &. Film
     *   Rustic Aesthetic: Home Decor for Every Room
     *   Eddie Bauer Bedding Up to 50% Off
     *   Kitchen Gadgets &. Storage from $15
     *   Storage Must-Haves from $12
     *   Cozy Night In: Hooded Blankets Up to 50% Off
+    
     *   Holiday Cheer: Mark Roberts Figurines &. More
     *   Sweet Dreams: Sheet Sets, Duvets &. More
     *   Season of Light: Pre-Lit Christmas Trees
     *   Wall Murals &. Decals Up to 40% Off
-    
     *   Bling on the Holidays: Ornaments Starting at $10
     *   Free Shipping: Animation Art Up to 85% Off
     *   New Year, New Plans: 2020 Calendars &. Planners
     *   Nostalgia Kitchen Appliances from $30
-    *   Give More Than a Gift: Le Creuset
-    *   Free Shipping: Bedding Steals Up to 50% Off
-    *   Free Shipping: Shun Cutlery Classic Collection
-    *   Stocking Stuffers: Phone Chargers, Cables &. More
-    *   For Your Fur Baby: Pet Accessories &. More
     
     Shop By Category
     *   Home Decor
-    *   Kitchen &. Tabletop
     *   Bedding
     *   Holiday Decorations
     *   Cleaning &. Organization
-    *   Electronic &. Tech Accessories
+    *   Kitchen &. Tabletop
     *   Luggage &. Travel
+    *   Electronic &. Tech Accessories
+    *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Bring Holiday Cheer: philosophy Gift Sets
+    *   Face Masks We Love
+    *   Gorjue Lipsticks Up to 50% Off
     *   Drybar
     *   Nuzest Vegan Protein
     *   Calvin Klein Fragrances for Men &. Women Under $60
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Benamor Bath &. Body Up to 40% Off
+    
     *   Must-Have Beauty Gift Sets Starting at $25
     *   Teami Blends Detox Teas &. Supplements
     *   K-Beauty ft. Asamo, JayJun &. More from $10
-    
     *   Cailyn Cosmetics Starting at $10
     *   Predire Paris Luxury Skin Care Starting at $15
     *   Cruelty-Free Makeup: Rincon Cosmetics
     *   Eva NYC Hair Tools
-    *   Zeus Men's Natural Beard Care &. More from $10
-    *   Fragrances Up to 55% Off ft. Jovoy &. More
-    *   Finchberry Vegan Soaps &. More
     
     Shop By Category
     *   Skin Care
