@@ -36,7 +36,7 @@ Search fidelity.com or get a quote
     *   Account Features
     *   Statements Log In Required
     *   Statements
-    *   Tax Information
+    *   Tax Forms &. Information
     *   Retirement DistributionsLog In Required
 *   Planning &. Advice
     *   What We Offer
