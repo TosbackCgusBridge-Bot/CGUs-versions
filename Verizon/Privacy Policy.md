@@ -1,10 +1,8 @@
 _We recommend that you view our Privacy Policy online or on your mobile device for a better design and navigation experience and the ability to seamlessly access links and other documents. This version is provided so that you can print a version of our full Privacy Policy in a single document._
 
-Read up on our apps  
-and services privacy  
-policies.
+Infórmate sobre nuestras políticas de privacidad para aplicaciones y servicios.
 
-Check out the policies of the apps and services you use.
+Lee las políticas para las aplicaciones y servicios que utilizas.
 
 Apps and Services Menu Gizmo
 
