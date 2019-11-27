@@ -298,13 +298,11 @@
     *   Best age for Social Security retirement benefits
     *   Roth IRA 5 year rule
 
-*   Free credit report
 *   Create Account
 
 ☰
 
 *   Dashboard
-*   Full Credit Report
 *   Alerts
 *   Settings
 *   Support
