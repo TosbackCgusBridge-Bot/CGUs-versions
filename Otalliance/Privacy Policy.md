@@ -71,11 +71,11 @@
     *   For Journalists:
         *   Media Center
 
-2019 Action Plan 2019 Action Plan
+2020 Action Plan 2020 Action Plan
 
-**Connecting the World, Improving Technical Security, and Building Trust**  
+**A Bigger and Stronger Internet**  
   
-Read the Internet Society’s roadmap for our work in the year ahead.
+Read the Internet Society’s roadmap for our work ahead – and let’s join together to support our vision that the Internet is for everyone.
 
 <img src="https://www.internetsociety.org/wp-content/uploads/2017/05/ISOC-Light-RGB\_Logo\_600x200.png" title="ISOC-Light-RGB\_Logo\_600x200" alt="ISOC-Light-RGB\_Logo\_600x200" />. Local action. Global change. Local action. Global change.
 
