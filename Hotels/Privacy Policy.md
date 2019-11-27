@@ -171,6 +171,6 @@ Join now! Collect 10 nights, get 1 reward\* night
 
 © 2019 Hotels.com, L.P. All rights reserved.
 
-Hotels.com and the Hotels.com logo are trademarks or registered trademarks of Hotels.com, LP in the USA and/or other countries. All other trademarks are property of their respective owners.
+Hotels.com and the Hotels.com logo are trademarks or registered trademarks of Hotels.com, LP in the United States and/ or other countries. All other trademarks are the property of their respective owners.
 
 \* Learn more about Hotels.com® Rewards
