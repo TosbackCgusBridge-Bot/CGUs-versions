@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted Links5 Large Nations With No Homeland1STWhy Neil Armstrong Was Chosen to Be the First Man on the Moon2NDMeet the Real Vampires of the Animal Kingdom3RDScience vs. Monster Movies Quiz: Tell Fact from Fiction!4THAuto Enthusiast | Search Ads | Sponsored8 Cars So Cool It's Hard to Believe They Cost Under $20kAuto Enthusiast | Search Ads | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredBon Voyaged | Sponsored20 Photos Captured At Airports That Will Make You Laugh Out LoudBon Voyaged | SponsoredKelley Blue Book | Sponsored10 Electric Cars That Last the LongestKelley Blue Book | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted Links5 Large Nations With No Homeland1STMeet the Real Vampires of the Animal Kingdom2NDWhat's the Difference? Quiz3RDTruffles: The Rarest and Most Expensive Fungi in the World4THWorldHistoryMag.com | Sponsored57 Vintage Photos That Took It Way Too FarWorldHistoryMag.com | SponsoredTopGadgetAdvisor | SponsoredHere's The Smartwatch Every Man in Our Country Has Been Waiting ForTopGadgetAdvisor | SponsoredWork + Money | SponsoredTop Pizza Chains in the U.S.Work + Money | SponsoredSenior Housing | Search Ads | SponsoredAffordable Senior Housing Options in GoldenSenior Housing | Search Ads | Sponsored
 
 Advertisement
 
-home &. garden-autoU.S. Military Dogs Usually Outrank Their HandlersBY Nathan Chandlerhome &. garden-autoWhat's the Difference Between Whiskey and Bourbon?BY Patty Rasmussenhome &. garden-autoWhy Is the North Star So Stellarly Important?BY Patrick J. KigerBest Of Senior | SponsoredBrad Pitt's Daughter Is Probably The Prettiest Girl AliveBest Of Senior | SponsoredTotal Battle - Tactical Game Online | SponsoredAdvertisement Advertisement GO TOTotal Battle - Tactical Game Online | SponsoredCANCELThis game can train your brain to think strategicallyTotal Battle - Tactical Game Online | Sponsored
+home &. garden-autoThe Battle of the Big Cats: Maine Coon vs. Norwegian ForestBY Mark Mancinihome &. garden-autoU.S. Military Dogs Usually Outrank Their HandlersBY Nathan Chandlerhome &. garden-autoScience vs. Monster Movies Quiz: Tell Fact from Fiction!BY Mark ManciniGreeningz | SponsoredCheck Out Fox News Host Ainsley Earhardt's Annual SalaryGreeningz | SponsoredShlop | SponsoredTop 10 Ways To Keep A Small Home Clean &. OrganizedShlop | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksThe Ultimate Downsize: Living in a Shipping Container HomeIf at First You Don't Succeed, Try Tripe AgainWhat's the Difference? QuizWhy You Should Stop Raking Fall Leaves, Stat!What's the Difference Between an Alaskan Malamute and a Husky?The Battle of the Big Cats: Maine Coon vs. Norwegian Forestby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhy Neil Armstrong Was Chosen to Be the First Man on the MoonWhy Giving a Professional Reference Can Be a MinefieldHow to Fake a GPS Location on Your PhoneWhat's the Difference Between Whiskey and Bourbon?Do People and Bananas Really Share 50 Percent of the Same DNA?Why You Should Stop Raking Fall Leaves, Stat!by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. 5 Large Nations With No HomelandRead Next StoryAuto Enthusiast | Search Ads8 Cars So Cool It's Hard to Believe They Cost Under $20kAuto Enthusiast | Search Ads|SponsoredSponsoredRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. 5 Large Nations With No HomelandRead Next StoryWorldHistoryMag.com57 Vintage Photos That Took It Way Too FarWorldHistoryMag.com|SponsoredSponsoredRead Next StoryJobs Parade SearchGolden Now HIRING: Up to $18-35/Hr. Part/Full-Time Positions. Click. Search. Apply.Jobs Parade Search|SponsoredSponsoredRead Next Story
