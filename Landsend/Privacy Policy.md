@@ -36,13 +36,11 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Fleece quarter zip tops starting at $13. 50% off everything else!
+Women's sport knit pants starting at $15. 50% off all other full-price styles
 
-Only 0 HR 08 MIN 13 SEC Left!
+code: SPORT15 pin: PROMOTION DETAILS
 
-code: PLUSH pin: PROMOTION DETAILS
-
-Shop Fleece Tops &. Jackets Customer Service Menu
+Shop Pants Customer Service Menu
 
 Customer Service
 
