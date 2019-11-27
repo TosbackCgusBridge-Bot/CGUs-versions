@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   Ubuntu Server development summary – 26 November 2019
+*   “Ubuntu at scale” roundtable at AWS re:Invent
+*   Design and Web team summary – 22 November 2019
 *   KubeCon San Diego 2019 Flashback
 *   8th OSM Hackfest: the highlights
-*   Snapcraft secret sauce: KDE neon extension
-*   The lifecycle of a component
-*   Canonical introduces Charmed OSM to enable telcos with network functions management and orchestration
 
 *    ›
