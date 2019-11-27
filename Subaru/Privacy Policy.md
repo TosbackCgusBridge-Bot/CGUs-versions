@@ -147,7 +147,7 @@ Up to
 *   Overview
 *   Build &. Price
 
-Crosstrek Hybrid Touring Shown
+Crosstrek Hybrid Shown
 
 BRZ $28,845\* starting price 2020 BRZ
 
