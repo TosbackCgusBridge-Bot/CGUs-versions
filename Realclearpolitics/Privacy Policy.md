@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Sharyl Attkisson_: A Troubling Picture of Bureaucrats Who Think They Run U.S.
+*   _John Ellis_: Why Bloomberg Thinks He Can Defy Odds, Win Dem Nomination
     
-*   _Ian Buruma_: Vindman the Patriot Versus the President
+*   _Ryan Lizza_: All That Matters to Obama Is Which Dem Can Beat Trump
     
-*   _Monica Showalter_: Pelosi's Worst Nightmare Slowly Comes to Life
+*   _Victor Davis Hanson_: Biden, Not Trump, Smeared Biden's Reputation
     
-*   _Melinda Henneberger_: Attacks on Biden Are False, But He's Losing My Vote
+*   _Todd Purdum_: The Return of Jerry Nadler
     
-*   _Matt Flegenheimer_: Warren's Done the Hard Part. Now Comes the Harder Part.
+*   _Mollie Hemingway_: How Media's Impeachment Push Harms Democrats
     
-*   _Lily Vartanian_: Freedom of Speech and Liberal Education
+*   _Morton Kondracke_: How 'Heavyweights' Can Save Democracy in America
     
-*   _Michael Roth_: What the 'Woke Student' &. the 'Welfare Queen' Have in Common
+*   _James Palmer_: Hong Kongers Break Beijing's Delusions of Victory
     
-*   _Timothy McLaughlin_: Hong Kong Doesn't Have a Pro-China 'Silent Majority'
+*   _Salena Zito_: Dr. Laura's Lasting Truths
     
-*   _Jed Babbin_: In Israel, Another Witch Hunt
+*   _Mari Uyehara_: The Righteous Arrival of Megan Rapinoe
     
-*   _Aaron Miller_: Netanyahu Will Make His Likely Exit as Destructive as Possible
+*   _Tristan Justice_: Twitter Suspends Andy Ngo, Says Facts Are 'Hateful'
     
-*   _Susan Crabtree_: Impeachment Trial Timing Would Put Democrats in a Bind
+*   _Carl Cannon_: A White House Run and Then a 'Turkey Trot'
     
-*   _Maureen Dowd_: Trump's White Whale
+*   _Miranda Devine_: The Impeachment Fiasco: 'New Hoax. Same Swamp.'
     
-*   _Salena Zito_: Swing Voters on Trump: 'I'd Vote for Him Again in a Heartbeat'
+*   _David Faris_: Democrats, Don't Hand Impeachment to Mitch McConnell
     
-*   _Siders_: Dems Rethink the Obama Coalition Formula
+*   _Mairead McArdle_: Swing State Dem Flips on Impeachment
     
-*   _Emma Green_: Josh Hawley and the Future of the Republican Party
+*   _Ruben Navarrette_: Why Do Millions of Latinos Support Trump?
     
-*   _Roger Simon_: Dem Disaster Looms as Trump Goes 'Bigly' With Blacks
+*   _Robinson &. Eberle_: 2020/1936: Can Trump Match FDR's Appeal to Black Voters?
     
-*   _Francis Wilkinson_: This White Wisconsin County Has No Time for Trump
+*   _Bonnie Kristian_: Welcome to the Vengeance Election
     
-*   _Frank Miele_: Impeachment Theme Song: 'Is That All There Is?'
+*   _Madison Gesiotto_: Dems Are Not Actually Serious About Uniting the Nation
     
-*   _Steve Coll_: Gordon Sondland's Impeachment Testimony for the Ages
+*   _Jason Linkins_: GOP Prepares to Give Hunter Biden the Benghazi Treatment
     
-*   _Aaron Mate_: Impeachment Non-Bombshells, War-Profiteering and 2020
+*   _Jeff Landry_: The Bidens Don't Get a Free Pass
     
-*   _John Davidson_: The Chaos South of Our Border Won't Stay There
+*   _Spiner_: Deval Patrick's Eensy-Weensy Campaign
     
-*   _Rachel Morris_: Trump Got His Wall, After All
+*   _Kalev Leetaru_: Bloomberg, Buttigieg Rise to Top in Media Mentions
     
-*   _Gordan Chang_: Pro-China Forces 'Annihilated' in Hong Kong Election
+*   _John Nichols_: Dems Don't Need Bloomberg's Kinder, Gentler Plutocracy
     
-*   _Steve Cortes_: Trump Backers Aren't a Cult...But We Are the Outsiders
+*   _Charles Hurt_: 'Pocahontas' a Contemptuous Liar &. Patronizing Hypocrite
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   White House to House Dems: No Ukrainians Died Waiting on Aid
+*   Impeachment Trial Timing Would Put Democrats in a Bind
+*   Bloomberg Ad Touts Business, Government, Philanthropy Experience
 *   Pentagon Chief Fires Navy Secretary Over SEAL Controversy
-*   Michael Bloomberg Enters Democratic Presidential Primary
-*   Bannon: Pelosi Risks Speakership If She Pushes Impeachment
 *   Trump's Choice for Broadcasting Chief Remains in Limbo
-*   Democratic Debate Detente in Atlanta
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,48 +252,59 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve44
-    *   Disapprove55Disapprove +11
-*   Direction of CountryRasmussen Reports
-    *   Right Direction38
-    *   Wrong Track56Wrong Track +18
-*   2020 Democratic Presidential NominationEmerson
-    *   Biden27
-    *   Sanders27
-    *   Warren20
-    *   Buttigieg7
-    *   Harris3
-    *   Yang4
-    *   Bloomberg1
-    *   Gabbard2
-    *   Klobuchar1
-    *   Steyer2
-    *   Booker1
-    *   Castro1
-    *   Bennet0Tie
-*   Iowa Democratic Presidential CaucusIowa State University
-    *   Buttigieg26
-    *   Warren19
-    *   Sanders18
+*   New Hampshire Democratic Presidential PrimaryBoston Globe/Suffolk
+    *   Warren14
+    *   Buttigieg13
     *   Biden12
-    *   Klobuchar5
-    *   Harris2
+    *   Sanders16
+    *   Gabbard6
+    *   Klobuchar1
     *   Yang4
     *   Steyer2
-    *   Gabbard2
-    *   Booker1
-    *   Bloomberg1
+    *   Harris3
+    *   Booker2
     *   Castro1
-    *   Bullock1Buttigieg +7
+    *   Patrick1
+    *   Bennet0Sanders +2
+*   2020 Democratic Presidential NominationQuinnipiac
+    *   Biden24
+    *   Sanders13
+    *   Warren14
+    *   Buttigieg16
+    *   Harris3
+    *   Yang2
+    *   Bloomberg3
+    *   Klobuchar3
+    *   Gabbard1
+    *   Booker2
+    *   Castro2
+    *   Steyer0
+    *   Bennet2Biden +8
+*   2020 Democratic Presidential NominationPolitico/Morning Consult
+    *   Biden30
+    *   Sanders21
+    *   Warren15
+    *   Buttigieg9
+    *   Harris5
+    *   Yang4
+    *   Bloomberg2
+    *   Klobuchar2
+    *   Gabbard2
+    *   Booker2
+    *   Castro1
+    *   Steyer2
+    *   Bennet1Biden +9
+*   President Trump Job ApprovalCNN
+    *   Approve43
+    *   Disapprove53Disapprove +10
 
 More Latest Polls In The News
 
+*   Bannon: Bloomberg Will Totally Disrupt The Race, Leaving An Opening For Hillary To "Save" The Party
 *   Nunes: CNN, Daily Beast Accusations Of Ukrainian Ties "Mother Of All Fake News Stories," "Run For Cover"
+*   Michael Bloomberg: President Trump Is An "Existential Threat" To Our Country, But "I Know How To Beat Him"
 *   Bloomberg Campaign Chief Kevin Sheekey: Trump Is On The "Path To Victory," This Is A Campaign Against Trump
 *   Schiff: "We Don't Need The Whistleblower's Second-Hand Evidence," Testimony Would Threaten Their Life
-*   Steve Bannon: Nancy Pelosi Is Risking Her Speakership If She Pushes Forward With Impeachment
-*   Jim Himes Says Devin Nunes And GOP Pushed "Fantastical Conspiracy Theories" At Impeachment Hearings
 
 *   Politics
 *   Policy
