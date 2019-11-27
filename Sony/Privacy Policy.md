@@ -98,29 +98,27 @@ Main menuSONY
 
 Search Sony
 
-Bring Your Vision into Focus by Finding the Right Camera Lens
+Don’t Forget to Make Your List &. Check it Twice
 
-Learn More
+For Holiday Shopping Season
 
-Play video: Bring Your Vision into Focus by Finding the Right Camera Lens Close video: Bring Your Vision into Focus by Finding the Right Camera Lens
+*   Share on Facebook: Don’t Forget to Make Your List &. Check it Twice
+*   Share on Twitter: Don’t Forget to Make Your List &. Check it Twice
+*   Copy URL to Share: Don’t Forget to Make Your List &. Check it Twice
 
-*   Share on Facebook: Bring Your Vision into Focus by Finding the Right Camera Lens
-*   Share on Twitter: Bring Your Vision into Focus by Finding the Right Camera Lens
-*   Copy URL to Share: Bring Your Vision into Focus by Finding the Right Camera Lens
-
-<img class="bg-img video-3\_FiaF4DYhA" data-linkname="en:set\_a:position\_1|\_3x2-1:video:electronics:BeAlpha54LensesVideo-November-25-2019:gwt:image:3\_FiaF4DYhA" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Bring Your Vision into Focus by Finding the Right Camera Lens 3\_FiaF4DYhA Be-Alpha-54-Lenses-Video" data-img1x="/content/dam/sony/homepage/2019-november/11-18/19-1H\_E-mountLens\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-november/11-18/19-1H\_E-mountLens\_745x500.jpg" src="/content/dam/sony/homepage/2019-november/11-18/19-1H\_E-mountLens\_745x500.jpg" alt="Bring Your Vision into Focus by Finding the Right Camera Lens"/>. <img class="bg-img video-3\_FiaF4DYhA" alt="Bring Your Vision into Focus by Finding the Right Camera Lens Mobile" data-linkname="en:set\_a:position\_1|\_3x2-1:video:electronics:BeAlpha54LensesVideo-November-25-2019:gwt:image-mobile:3\_FiaF4DYhA" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Bring Your Vision into Focus by Finding the Right Camera Lens 3\_FiaF4DYhA Be-Alpha-54-Lenses-Video" data-img1x="/content/dam/sony/homepage/2019-november/11-18/19-1H\_E-mountLens\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-november/11-18/19-1H\_E-mountLens\_745x500.jpg" src="/content/dam/sony/homepage/2019-november/11-18/19-1H\_E-mountLens\_600x600.jpg"/>.
+<img class="bg-img" data-linkname="en:set\_a:position\_1|\_3x2-1:image:electronics:BeAlpha54LensesVideo-November-25-2019:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Don’t Forget to Make Your List &amp. Check it Twice Be-Alpha-54-Lenses-Video" data-img1x="/content/dam/sony/homepage/2019-november/11-25/Holiday-Electronics-600x600-v2.jpg" data-img2x="/content/dam/sony/homepage/2019-november/11-25/Holiday-Electronics-745x500-v2.jpg" src="/content/dam/sony/homepage/2019-november/11-25/Holiday-Electronics-745x500-v2.jpg" alt="Don’t Forget to Make Your List &amp. Check it Twice"/>. <img class="bg-img" data-linkname="en:set\_a:position\_1|\_3x2-1:image:electronics:BeAlpha54LensesVideo-November-25-2019:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Don’t Forget to Make Your List &amp. Check it Twice Be-Alpha-54-Lenses-Video" data-img1x="/content/dam/sony/homepage/2019-november/11-25/Holiday-Electronics-600x600-v2.jpg" data-img2x="/content/dam/sony/homepage/2019-november/11-25/Holiday-Electronics-745x500-v2.jpg" src="/content/dam/sony/homepage/2019-november/11-25/Holiday-Electronics-600x600-v2.jpg" alt="Don’t Forget to Make Your List &amp. Check it Twice Mobile"/>.
 
 *   Share on Facebook: https://direct.playstation.com/en-us/black-friday.html?emcid=pn-so-bf2019-psd
 *   Share on Twitter: https://direct.playstation.com/en-us/black-friday.html?emcid=pn-so-bf2019-psd
 *   Copy URL to Share: https://direct.playstation.com/en-us/black-friday.html?emcid=pn-so-bf2019-psd
 
-<img class="bg-img" data-linkname="en:set\_a:position\_1|\_2x1-2:image:playstation:BlackFridayPSDirect-November-25-2019:ps:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="https://direct.playstation.com/en-us/black-friday.html?emcid=pn-so-bf2019-psd Black-Friday-PS-Direct" data-img1x="/content/dam/sony/homepage/2019-november/11-25/Sony\_com600x600\_PSBFOffer\_2\_V2.jpg" data-img2x="/content/dam/sony/homepage/2019-november/11-25/Sony\_com500x246\_PSBFOffer\_V2.jpg" src="/content/dam/sony/homepage/2019-november/11-25/Sony\_com500x246\_PSBFOffer\_V2.jpg" alt="https://direct.playstation.com/en-us/black-friday.html?emcid=pn-so-bf2019-psd"/>. <img class="bg-img" data-linkname="en:set\_a:position\_1|\_2x1-2:image:playstation:BlackFridayPSDirect-November-25-2019:ps:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="https://direct.playstation.com/en-us/black-friday.html?emcid=pn-so-bf2019-psd Black-Friday-PS-Direct" data-img1x="/content/dam/sony/homepage/2019-november/11-25/Sony\_com600x600\_PSBFOffer\_2\_V2.jpg" data-img2x="/content/dam/sony/homepage/2019-november/11-25/Sony\_com500x246\_PSBFOffer\_V2.jpg" src="/content/dam/sony/homepage/2019-november/11-25/Sony\_com600x600\_PSBFOffer\_2\_V2.jpg" alt="https://direct.playstation.com/en-us/black-friday.html?emcid=pn-so-bf2019-psd Mobile"/>.
+<img class="bg-img" data-linkname="en:set\_a:position\_1|\_2x1-2:image:playstation:BlackFridayPSDirect-November-25-2019:ps:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="https://direct.playstation.com/en-us/black-friday.html?emcid=pn-so-bf2019-psd Black-Friday-PS-Direct" data-img1x="/content/dam/sony/homepage/2019-november/11-25/Sony\_com600x600\_PSBFOffer\_2\_V4.jpg" data-img2x="/content/dam/sony/homepage/2019-november/11-25/Sony\_com500x246\_PSBFOffer\_V4.jpg" src="/content/dam/sony/homepage/2019-november/11-25/Sony\_com500x246\_PSBFOffer\_V4.jpg" alt="https://direct.playstation.com/en-us/black-friday.html?emcid=pn-so-bf2019-psd"/>. <img class="bg-img" data-linkname="en:set\_a:position\_1|\_2x1-2:image:playstation:BlackFridayPSDirect-November-25-2019:ps:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="https://direct.playstation.com/en-us/black-friday.html?emcid=pn-so-bf2019-psd Black-Friday-PS-Direct" data-img1x="/content/dam/sony/homepage/2019-november/11-25/Sony\_com600x600\_PSBFOffer\_2\_V4.jpg" data-img2x="/content/dam/sony/homepage/2019-november/11-25/Sony\_com500x246\_PSBFOffer\_V4.jpg" src="/content/dam/sony/homepage/2019-november/11-25/Sony\_com600x600\_PSBFOffer\_2\_V4.jpg" alt="https://direct.playstation.com/en-us/black-friday.html?emcid=pn-so-bf2019-psd Mobile"/>.
 
 Materia, chocobos, and… darts? 🎯  
   
 Lots to see in these new Final Fantasy VII Remake screens:  http://play.st/2ON73LM  pic.twitter.com/yon3Z5eBgD
 
-15 hours ago View Tweet Instagram Post B5Bbq4khNcX
+1 day ago View Tweet Instagram Post B5Bbq4khNcX
 
 Broad Zoom Range
 
