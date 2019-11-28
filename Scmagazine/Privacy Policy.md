@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Using security orchestration to simplify IoT defense in depth
-    *   Roboto Botnet network building, DDoS not a priority
+    *   Get ahead of the cybersecurity curve
+    *   Hill warns lawmakers not to spread Ukraine election interference narrative pushed by Russia
+    *   Google camera app flaw endangered millions of devices
+    *   Facebook, Twitter ban malicious SDK that removed member info
     *   Leaky Gekko Group database exposes info on hotel brands, travelers
-    *   Open database exposes Magic: the Gathering online player info
-    *   Disney+ not the happiest place on Earth, accounts stolen found on sale
     
+    *   APT33 sics small, elusive botnets on U.S. and global targets
+    *   Cyberattackers taking auto industry for a ride, FBI reportedly warns
+    *   Manfra leaving CISA
     *   Ransomware attack on nursing homes' services provider threatens lives
-    *   Unsecured server exposes 4 billion records, 1.2 billion people
-    *   New NextCry ransomware targets NextCloud sync and share solution
-    *   Disney+ not the happiest place on Earth, accounts stolen found on sale
-    *   Louisiana spurns attempted ransomware attack, governor says
+    *   Leave.EU chairman's Twitter account hacked, private messages leaked
     
-    *   Sen. Kennedy reverses course, says Russia, not Ukraine hacked DNC
-    *   Catch NYC, Catch Steak hit with payment card skimming malware
-    *   Patched WhatsApp vulnerability still impacting thousands of apps
-    *   SC Media reveals 2020 SC Awards finalists
-    *   Skimming operation creates fake 3rd-party payment processing page to phish victims
+    *   Black Friday, Cyber Monday scams are on the loose, businesses need to prepare
+    *   Fin7 behind DiBella’s data breach affecting 305,000 cards
+    *   Facebook, Twitter ban malicious SDK that removed member info
+    *   Finland agency launches smart device infosec certification program
+    *   Stantinko botnet's monetization strategy shifts to cryptomining
 
 Back to Top
 
@@ -260,8 +260,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. X
 
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+You can skip this ad in 2 seconds.
