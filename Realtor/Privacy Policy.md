@@ -130,7 +130,7 @@ Toggle navigation
         *   Android
 *   Advertise
 
-*   Veterans &. US Miltary $100k Home Giveaway. Restrictions Apply Enter to Win
+*   Veterans &. US Military $100k Home Giveaway. Veterans &. US Military $100k Home Giveaway. Restrictions Apply Enter to Win Enter to Win
 
 About About*   About
 *   Leadership
