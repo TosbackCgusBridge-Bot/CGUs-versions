@@ -118,6 +118,42 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Philip Wegmann_: Buttigieg Leads in NH and IA. Biden Drops
+    
+*   _Cohn &. Miller_: They Voted Democratic in 2018. Now They Support Trump
+    
+*   _David Harsanyi_: Is Impeachment Backfiring on the Democrats?
+    
+*   _Paul Brandus_: Economic Woes, Not Impeachment, Could Doom Trump
+    
+*   _Michael Strain_: Give Thanks, Americans. You're Back to Work
+    
+*   _Philip Wegmann_: Is Growing 2020 Field Cause for Dem Concern?
+    
+*   _Emily Peck_: Billionaire Media Moguls Shouldn’t Run for President
+    
+*   _Sean Trende_: The Method to Michael Bloomberg's Madness
+    
+*   _Jesse Jackson_: If Dems Don't Go Bold With Reforms Now, Then When?
+    
+*   _Corey DeAngelis_: Warren's Latest Lie Only Deepens Her Dilemma on Education
+    
+*   _Robert Redford_: Dictator-Like Trump Attacking the Values America Holds Dear
+    
+*   _Emmett Tyrrell_: Obama Admin's Spygate Scandal Dwarfs Watergate
+    
+*   _Gordon Chang_: Beijing Intransigent in Wake of Historic Hong Kong Defeat
+    
+*   _John O'Sullivan_: Tories Lead Way With 3 Weeks Until Brexit Vote
+    
+*   _Rafael Behr_: Boris Johnson Still Has Plenty of Time to Bungle It
+    
+*   _Chris Buskirk_: The Indispensable Tucker Carlson
+    
+*   _Dana Milbank_: Who But a Demon Could Impeach God’s Chosen One?
+    
+*   _Karl Zinsmeister_: Be Thankful for the Humanitarian Habits of Religious People
+    
 *   _John Ellis_: Why Bloomberg Thinks He Can Defy Odds, Win Dem Nomination
     
 *   _Ryan Lizza_: All That Matters to Obama Is Which Dem Can Beat Trump
@@ -129,42 +165,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Mollie Hemingway_: How Media's Impeachment Push Harms Democrats
     
 *   _Morton Kondracke_: How 'Heavyweights' Can Save Democracy in America
-    
-*   _James Palmer_: Hong Kongers Break Beijing's Delusions of Victory
-    
-*   _Salena Zito_: Dr. Laura's Lasting Truths
-    
-*   _Mari Uyehara_: The Righteous Arrival of Megan Rapinoe
-    
-*   _Tristan Justice_: Twitter Suspends Andy Ngo, Says Facts Are 'Hateful'
-    
-*   _Carl Cannon_: A White House Run and Then a 'Turkey Trot'
-    
-*   _Miranda Devine_: The Impeachment Fiasco: 'New Hoax. Same Swamp.'
-    
-*   _David Faris_: Democrats, Don't Hand Impeachment to Mitch McConnell
-    
-*   _Mairead McArdle_: Swing State Dem Flips on Impeachment
-    
-*   _Ruben Navarrette_: Why Do Millions of Latinos Support Trump?
-    
-*   _Robinson &. Eberle_: 2020/1936: Can Trump Match FDR's Appeal to Black Voters?
-    
-*   _Bonnie Kristian_: Welcome to the Vengeance Election
-    
-*   _Madison Gesiotto_: Dems Are Not Actually Serious About Uniting the Nation
-    
-*   _Jason Linkins_: GOP Prepares to Give Hunter Biden the Benghazi Treatment
-    
-*   _Jeff Landry_: The Bidens Don't Get a Free Pass
-    
-*   _Spiner_: Deval Patrick's Eensy-Weensy Campaign
-    
-*   _Kalev Leetaru_: Bloomberg, Buttigieg Rise to Top in Media Mentions
-    
-*   _John Nichols_: Dems Don't Need Bloomberg's Kinder, Gentler Plutocracy
-    
-*   _Charles Hurt_: 'Pocahontas' a Contemptuous Liar &. Patronizing Hypocrite
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Is Growing 2020 Field Cause for Democrats' Concern?
+*   Bloomberg, Buttigieg Rise Toward the Top in Media Mentions
+*   Trump Says China Deal in "Final Throes" as Top Officials Speak
 *   White House to House Dems: No Ukrainians Died Waiting on Aid
 *   Impeachment Trial Timing Would Put Democrats in a Bind
-*   Bloomberg Ad Touts Business, Government, Philanthropy Experience
-*   Pentagon Chief Fires Navy Secretary Over SEAL Controversy
-*   Trump's Choice for Broadcasting Chief Remains in Limbo
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,59 +252,69 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   New Hampshire Democratic Presidential PrimaryBoston Globe/Suffolk
+*   New Hampshire Democratic Presidential PrimaryWHDH/Emerson
+    *   Buttigieg22
+    *   Sanders26
     *   Warren14
-    *   Buttigieg13
-    *   Biden12
-    *   Sanders16
+    *   Biden14
     *   Gabbard6
-    *   Klobuchar1
-    *   Yang4
-    *   Steyer2
-    *   Harris3
+    *   Yang5
+    *   Steyer3
+    *   Klobuchar2
+    *   Harris4
     *   Booker2
-    *   Castro1
-    *   Patrick1
-    *   Bennet0Sanders +2
-*   2020 Democratic Presidential NominationQuinnipiac
-    *   Biden24
-    *   Sanders13
+    *   Bullock0
+    *   Castro0
+    *   Patrick0Sanders +4
+*   2020 Democratic Presidential NominationCNN
+    *   Biden28
+    *   Sanders17
     *   Warren14
-    *   Buttigieg16
+    *   Buttigieg11
     *   Harris3
-    *   Yang2
+    *   Yang3
     *   Bloomberg3
-    *   Klobuchar3
-    *   Gabbard1
+    *   Klobuchar2
     *   Booker2
-    *   Castro2
-    *   Steyer0
-    *   Bennet2Biden +8
-*   2020 Democratic Presidential NominationPolitico/Morning Consult
+    *   Steyer3
+    *   Gabbard0
+    *   Castro1
+    *   Bennet0Biden +11
+*   2020 Democratic Presidential NominationSurveyUSA
     *   Biden30
-    *   Sanders21
+    *   Sanders17
     *   Warren15
-    *   Buttigieg9
+    *   Buttigieg11
     *   Harris5
     *   Yang4
-    *   Bloomberg2
+    *   Bloomberg3
     *   Klobuchar2
-    *   Gabbard2
     *   Booker2
-    *   Castro1
     *   Steyer2
-    *   Bennet1Biden +9
-*   President Trump Job ApprovalCNN
-    *   Approve43
-    *   Disapprove53Disapprove +10
+    *   Gabbard1
+    *   Castro1
+    *   BennetBiden +13
+*   California Democratic PrimaryKGTV-TV/SurveyUSA
+    *   Biden28
+    *   Warren13
+    *   Sanders18
+    *   Harris10
+    *   Buttigieg8
+    *   Yang5
+    *   Bloomberg3
+    *   Gabbard2
+    *   Booker3
+    *   Steyer3
+    *   Klobuchar1
+    *   Castro1Biden +10
 
 More Latest Polls In The News
 
+*   CNN's Toobin: The Only Reason Trump Released Aid To Ukraine Is That "He Got Caught" By Whistleblower
+*   GOP Rep. Steube on Ukraine: "Deep State Democrats Working With Deep State Democrats" To Unseat Trump
 *   Bannon: Bloomberg Will Totally Disrupt The Race, Leaving An Opening For Hillary To "Save" The Party
 *   Nunes: CNN, Daily Beast Accusations Of Ukrainian Ties "Mother Of All Fake News Stories," "Run For Cover"
-*   Michael Bloomberg: President Trump Is An "Existential Threat" To Our Country, But "I Know How To Beat Him"
 *   Bloomberg Campaign Chief Kevin Sheekey: Trump Is On The "Path To Victory," This Is A Campaign Against Trump
-*   Schiff: "We Don't Need The Whistleblower's Second-Hand Evidence," Testimony Would Threaten Their Life
 
 *   Politics
 *   Policy
