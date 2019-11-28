@@ -1,10 +1,10 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Get gifting! Shop new arrivals for everything on their list! SELECT SALE DENIM IS AN EXTRA 10% OFF - SHOP NOW!
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Get gifting! Shop new arrivals for everything on their list! SELECT SALE DENIM IS AN EXTRA 10% OFF - SHOP NOW!
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-Get gifting! Shop new arrivals for everything on their list!
+SELECT SALE DENIM IS AN EXTRA 10% OFF - SHOP NOW!
 
 *   Women
 *   Men
@@ -52,9 +52,12 @@ Get gifting! Shop new arrivals for everything on their list!
         *   Dresses
         *   Jeans
         *   Pants
+        *   Rompers &. Jumpsuits
         *   Shirts &. Blouses
+        *   Shorts
         *   Sweaters &. Cardigans
         *   Sweatshirts
+        *   Swim
         *   Tees
         *   Tops
         *   Plus Sizes
@@ -439,6 +442,7 @@ Terms &. Conditions
 *   Ratings &. Reviews Giveaway Official Rules - Holiday 2019
 *   Accessibility Policy
 *   Buckle Select Terms &. Conditions
+*   Free Weekender Bag
 
 Services
 
@@ -571,4 +575,4 @@ Sign Up for Buckle EmailsClose Email Capture Modal×**Hey You!**
 Want to stay updated on our latest styles and promotions?  
 Sign up for email and let’s make things official.
 
-Email Address Submit EmailFavorite Product Quick ShopClose Quick Shop×
+Email Address Submit EmailFavorite Product Quick ShopClose Quick Shop×<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.
