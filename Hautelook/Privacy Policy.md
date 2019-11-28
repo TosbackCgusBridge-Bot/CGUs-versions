@@ -4,115 +4,130 @@ Nordstrom RackHauteLook
 *   Log In / Sign Up
 
 Your Cart is empty.  
-Let's fix that!Shop New ArrivalsFree Shipping on Orders Over $49\*  
-Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders Over $49\* Extended Returns for the Holidays to Nordstrom Rack
+Let's fix that!Shop New ArrivalsFree Shipping on Orders Thru Monday\*  
+Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders Thru Monday\* Extended Returns for the Holidays to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   True Religion
-    *   True Religion Men Up to 65% Off
-    *   Let It Rain: Waterproof Boots ft. Hunter &. Sperry
-    *   True Religion Kids Up to 65% Off
-    *   Maaji Active Up to 55% Off
+    *   TUMI
+    *   Daily Deal: UGG Cathie Boots at $99.97
+    *   Work Dresses Under $75 ft. Calvin Klein Incl. Plus
+    *   Comfort Slippers, Boots &. More ft. Dr. Scholl's
+    *   MCM &. More: Sun Under $100
+    *   Papillon Up to 80% Off
+    *   Par for the Course: Gifts ft. Callaway Golf
+    *   To Boot New York Men Up to 50% Off
+    *   Daily Deal: Bespoke Gift Sets at $29.97
+    *   Daily Deal: Fitbit Versa Smart Watch at $129.97
+    *   Daily Deal: Jeffrey Campbell Rain Booties at $34.97
+    *   Daily Deal: TOMS Alpargata Shoes at $29.97
+    *   Daily Deal: Salvatore Ferragamo Gift Sets Under $40
+    *   Daily Deal: Karl Lagerfeld Phone Cases at $23
+    *   Daily Deal: Threads 4 Thought Men's Hoodies at $19.97
+    *   Nordstrom Rack-Exclusive Gifts Under $50 Incl. Plus
+    *   Boho-Chic Decor: Throw Pillows Up to 55% Off
+    *   Threads 4 Thought Active &. More Up to 65% Off
+    *   Coat Check: Kids' Outerwear Up to 60% Off
+    *   Gifts for the Tech Lover Under $50
+    *   Hawke &. Co. Up to 70% Off
+    *   Skin Care &. Microdermabrasion Tools from $10
+    *   Home Brands We Love ft. UGG &. Kate Spade New York
+    *   Unicorn Snot: Glitter for Face &. Body
+    *   Skin Care for Every Concern ft. Hey Honey
+    *   Turbie Twist Super-Absorbent Hair Towel
+    *   Mia Belle Girls
+    *   Jason Scott Up to 60% Off
+    *   Games for Grown-Ups from $15
     *   Top Toys for Kids Under 3
     *   Top Toys for Kids 3-7
+    
     *   Top Toys for Kids 8 &. Older
     *   Top Toys for the Family
-    *   Games for Grown-Ups from $15
-    *   Free Shipping: BergHOFF Up to 60% Off
+    *   True Religion Men Up to 65% Off
+    *   True Religion
+    *   Let It Rain: Waterproof Boots ft. Hunter &. Sperry
     *   Bring Holiday Cheer: philosophy Gift Sets
     *   All About the Details: Dresses Under $100
     *   $80 &. Under: Crevo Men's Shoes
     *   Spyder Outerwear Up to 60% Off
+    *   True Religion Kids Up to 65% Off
     *   FAVLUX &. More Under $40
     *   Hobo Bags from The Sak Collective
     *   Hit Snooze: Sleep &. Lounge Faves Under $35
     *   Staheekum Slippers &. More
     *   Rivka Friedman Jewelry Up to 70% Off
-    *   RVCA Starting at $15
     *   Great Gifts for Him Under $100
     *   True Religion Sun &. More Under $40
     *   Cozy Blankets, Comforters &. More Up to 55% Off
     *   Face Masks We Love
     *   Gorjue Lipsticks Up to 50% Off
+    *   RVCA Starting at $15
     *   Frye Up to 50% Off
     *   Frye Men Up to 50% Off
     *   Frye Handbags &. Accessories Up to 50% Off
-    *   Rachel Roy Collection Up to 70% Off Incl. Plus
     *   Disney Shoes from Mini Melissa
-    
     *   Frye Men's Clothing &. Accessories Up to 70% Off
     *   Drybar
-    *   Wrap Dresses Under $50
-    *   Eye Spy: Optical Glasses &. More Up to 85% Off
-    *   Layer It On: Cardigans, Sweater Coats &. More
     *   14K Gold Jewelry Steals
-    *   Abound Starting at $20
-    *   Mommy &. Me: Sleep Sets &. More
     *   Laura Geller New York
     *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
     *   Men's Sweaters Under $100
+    
     *   Nuzest Vegan Protein
     *   Make Memories: Instax Mini Cameras &. Film
     *   Give a Classic: Tie &. Bow Tie Sets Up to 65% Off
-    *   Winter Boots from SOREL, Kamik &. More
     *   Fun &. Fancy: Girls' Dresses Up to 60% Off
-    *   Theo and Spence Lounge Under $25
-    *   Cozy &. Chic Steals: Vertigo Up to 80% Off
-    *   Best of Nordstrom Rack: New Handbag Blowouts
-    *   Women's Shoe Blowout
-    *   On-Trend Earrings &. More Under $25
-    *   Gifts for a Steal: Picks for Him Up to 70% Off
     *   Men's Shoe Steals Up to 70% Off
     *   Calvin Klein Fragrances for Men &. Women Under $60
-    *   Giftable Faves from Bugatchi
-    *   Lacoste Lounge
-    *   Stack It Up: Eternity Rings &. More
-    *   Petit Lem Up to 55% Off
-    *   ASICS Kids
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Rustic Aesthetic: Home Decor for Every Room
-    
     *   Benamor Bath &. Body Up to 40% Off
     *   Eddie Bauer Bedding Up to 50% Off
-    *   Best for Baby: Footies, Sets &. More
     *   Must-Have Beauty Gift Sets Starting at $25
     *   Kitchen Gadgets &. Storage from $15
     *   Storage Must-Haves from $12
-    *   Kenneth Cole New York Men
-    *   Aldo Men
     *   Teami Blends Detox Teas &. Supplements
     *   K-Beauty ft. Asamo, JayJun &. More from $10
     *   Cailyn Cosmetics Starting at $10
-    *   Cozy Night In: Hooded Blankets Up to 50% Off
-    *   Predire Paris Luxury Skin Care Starting at $15
-    *   Holiday Cheer: Mark Roberts Figurines &. More
-    *   Sweet Dreams: Sheet Sets, Duvets &. More
-    *   Season of Light: Pre-Lit Christmas Trees
-    *   Cruelty-Free Makeup: Rincon Cosmetics
-    *   Eva NYC Hair Tools
-    *   Wall Murals &. Decals Up to 40% Off
-    *   Bling on the Holidays: Ornaments Starting at $10
-    *   Free Shipping: Animation Art Up to 85% Off
-    *   New Year, New Plans: 2020 Calendars &. Planners
-    *   Nostalgia Kitchen Appliances from $30
-    *   Best of Nordstrom Rack: New Jewelry Blowouts &. More
-    *   ASICS Men
-    *   Fashion-Forward Finds Under $20
     *   Cole Haan Coats Up to 70% Off
     *   Coats, Jackets &. More ft. Love Token
-    *   Sweaters Under $30
-    *   Sweater Dresses ft. Solutions
+    *   Sweet Dreams: Sheet Sets, Duvets &. More
+    *   Season of Light: Pre-Lit Christmas Trees
+    *   Rachel Roy Collection Up to 70% Off Incl. Plus
+    *   Bling on the Holidays: Ornaments Starting at $10
+    *   Free Shipping: Animation Art Up to 85% Off
+    *   Free Shipping: BergHOFF Up to 60% Off
+    *   Maaji Active Up to 55% Off
+    *   ASICS Men
+    *   Cozy Night In: Hooded Blankets Up to 50% Off
+    *   Holiday Cheer: Mark Roberts Figurines &. More
+    *   Wall Murals &. Decals Up to 40% Off
 *   WomenShop Sale Events
     
+    *   TUMI
+    *   Daily Deal: UGG Cathie Boots at $99.97
+    *   Work Dresses Under $75 ft. Calvin Klein Incl. Plus
+    *   Comfort Slippers, Boots &. More ft. Dr. Scholl's
+    *   MCM &. More: Sun Under $100
+    *   Papillon Up to 80% Off
+    *   Daily Deal: Fitbit Versa Smart Watch at $129.97
+    *   Daily Deal: Jeffrey Campbell Rain Booties at $34.97
+    *   Daily Deal: Salvatore Ferragamo Gift Sets Under $40
+    *   Nordstrom Rack-Exclusive Gifts Under $50 Incl. Plus
+    *   Threads 4 Thought Active &. More Up to 65% Off
+    *   Skin Care &. Microdermabrasion Tools from $10
+    *   Unicorn Snot: Glitter for Face &. Body
+    *   Skin Care for Every Concern ft. Hey Honey
+    *   Turbie Twist Super-Absorbent Hair Towel
+    *   Jason Scott Up to 60% Off
     *   True Religion
     *   Let It Rain: Waterproof Boots ft. Hunter &. Sperry
-    *   Maaji Active Up to 55% Off
     *   Bring Holiday Cheer: philosophy Gift Sets
     *   All About the Details: Dresses Under $100
     *   FAVLUX &. More Under $40
     *   Hobo Bags from The Sak Collective
     *   Hit Snooze: Sleep &. Lounge Faves Under $35
+    
     *   Staheekum Slippers &. More
     *   Rivka Friedman Jewelry Up to 70% Off
     *   True Religion Sun &. More Under $40
@@ -120,41 +135,22 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Gorjue Lipsticks Up to 50% Off
     *   Frye Up to 50% Off
     *   Frye Handbags &. Accessories Up to 50% Off
-    *   Rachel Roy Collection Up to 70% Off Incl. Plus
     *   Drybar
-    *   Wrap Dresses Under $50
-    *   Eye Spy: Optical Glasses &. More Up to 85% Off
-    *   Layer It On: Cardigans, Sweater Coats &. More
     *   14K Gold Jewelry Steals
-    *   Abound Starting at $20
-    *   Mommy &. Me: Sleep Sets &. More
     *   Laura Geller New York
     *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
-    
     *   Nuzest Vegan Protein
-    *   Winter Boots from SOREL, Kamik &. More
-    *   Theo and Spence Lounge Under $25
-    *   Cozy &. Chic Steals: Vertigo Up to 80% Off
-    *   Best of Nordstrom Rack: New Handbag Blowouts
-    *   Women's Shoe Blowout
-    *   On-Trend Earrings &. More Under $25
     *   Calvin Klein Fragrances for Men &. Women Under $60
-    *   Stack It Up: Eternity Rings &. More
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Benamor Bath &. Body Up to 40% Off
     *   Must-Have Beauty Gift Sets Starting at $25
     *   Teami Blends Detox Teas &. Supplements
     *   K-Beauty ft. Asamo, JayJun &. More from $10
     *   Cailyn Cosmetics Starting at $10
-    *   Predire Paris Luxury Skin Care Starting at $15
-    *   Cruelty-Free Makeup: Rincon Cosmetics
-    *   Eva NYC Hair Tools
-    *   Best of Nordstrom Rack: New Jewelry Blowouts &. More
-    *   Fashion-Forward Finds Under $20
     *   Cole Haan Coats Up to 70% Off
     *   Coats, Jackets &. More ft. Love Token
-    *   Sweaters Under $30
-    *   Sweater Dresses ft. Solutions
+    *   Rachel Roy Collection Up to 70% Off Incl. Plus
+    *   Maaji Active Up to 55% Off
     
     Shop By Category
     *   Clothing
@@ -163,105 +159,112 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Handbags
     *   Accessories
     *   Lingerie &. Shapewear
+    *   Watches
 *   MenShop Sale Events
     
+    *   TUMI
+    *   MCM &. More: Sun Under $100
+    *   Par for the Course: Gifts ft. Callaway Golf
+    *   To Boot New York Men Up to 50% Off
+    *   Daily Deal: Bespoke Gift Sets at $29.97
+    *   Daily Deal: Fitbit Versa Smart Watch at $129.97
+    *   Daily Deal: Threads 4 Thought Men's Hoodies at $19.97
+    *   Hawke &. Co. Up to 70% Off
     *   True Religion Men Up to 65% Off
     *   $80 &. Under: Crevo Men's Shoes
     *   Spyder Outerwear Up to 60% Off
-    *   RVCA Starting at $15
+    
     *   Great Gifts for Him Under $100
     *   True Religion Sun &. More Under $40
+    *   RVCA Starting at $15
     *   Frye Men Up to 50% Off
     *   Frye Men's Clothing &. Accessories Up to 70% Off
     *   Men's Sweaters Under $100
     *   Nuzest Vegan Protein
-    
     *   Give a Classic: Tie &. Bow Tie Sets Up to 65% Off
-    *   Gifts for a Steal: Picks for Him Up to 70% Off
     *   Men's Shoe Steals Up to 70% Off
-    *   Giftable Faves from Bugatchi
-    *   Lacoste Lounge
-    *   Kenneth Cole New York Men
-    *   Aldo Men
     *   Teami Blends Detox Teas &. Supplements
     *   ASICS Men
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Accessories
     *   Watches
 *   KidsShop Sale Events
     
-    *   True Religion Kids Up to 65% Off
+    *   Coat Check: Kids' Outerwear Up to 60% Off
+    *   Mia Belle Girls
     *   Top Toys for Kids Under 3
     *   Top Toys for Kids 3-7
     *   Top Toys for Kids 8 &. Older
     *   Top Toys for the Family
+    *   True Religion Kids Up to 65% Off
     *   Disney Shoes from Mini Melissa
     *   Fun &. Fancy: Girls' Dresses Up to 60% Off
-    *   Petit Lem Up to 55% Off
-    *   ASICS Kids
-    *   Best for Baby: Footies, Sets &. More
     
     Shop By Category
     *   Toy Shop
     *   Girls' Sizes 2T-6X
-    *   Baby Girl
     *   Girls' Sizes 7-16
-    *   Baby Boy
-    *   Girls' Shoes
-    *   Boys' Sizes 2T-7
     *   Boys' Sizes 8-20
-    *   Boys' Shoes
+    *   Baby Girl
+    *   Boys' Sizes 2T-7
+    *   Girls' Shoes
+    *   Baby Boy
 *   HomeShop Sale Events
     
+    *   TUMI
+    *   Daily Deal: Karl Lagerfeld Phone Cases at $23
+    *   Boho-Chic Decor: Throw Pillows Up to 55% Off
+    *   Gifts for the Tech Lover Under $50
+    *   Home Brands We Love ft. UGG &. Kate Spade New York
     *   Games for Grown-Ups from $15
-    *   Free Shipping: BergHOFF Up to 60% Off
     *   Cozy Blankets, Comforters &. More Up to 55% Off
     *   Make Memories: Instax Mini Cameras &. Film
     *   Rustic Aesthetic: Home Decor for Every Room
     *   Eddie Bauer Bedding Up to 50% Off
+    
     *   Kitchen Gadgets &. Storage from $15
     *   Storage Must-Haves from $12
-    *   Cozy Night In: Hooded Blankets Up to 50% Off
-    
-    *   Holiday Cheer: Mark Roberts Figurines &. More
     *   Sweet Dreams: Sheet Sets, Duvets &. More
     *   Season of Light: Pre-Lit Christmas Trees
-    *   Wall Murals &. Decals Up to 40% Off
     *   Bling on the Holidays: Ornaments Starting at $10
     *   Free Shipping: Animation Art Up to 85% Off
-    *   New Year, New Plans: 2020 Calendars &. Planners
-    *   Nostalgia Kitchen Appliances from $30
+    *   Free Shipping: BergHOFF Up to 60% Off
+    *   Cozy Night In: Hooded Blankets Up to 50% Off
+    *   Holiday Cheer: Mark Roberts Figurines &. More
+    *   Wall Murals &. Decals Up to 40% Off
     
     Shop By Category
     *   Home Decor
+    *   Kitchen &. Tabletop
     *   Bedding
     *   Holiday Decorations
-    *   Cleaning &. Organization
-    *   Kitchen &. Tabletop
     *   Luggage &. Travel
+    *   Cleaning &. Organization
     *   Electronic &. Tech Accessories
     *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Daily Deal: Salvatore Ferragamo Gift Sets Under $40
+    *   Skin Care &. Microdermabrasion Tools from $10
+    *   Unicorn Snot: Glitter for Face &. Body
+    *   Skin Care for Every Concern ft. Hey Honey
+    *   Turbie Twist Super-Absorbent Hair Towel
     *   Bring Holiday Cheer: philosophy Gift Sets
     *   Face Masks We Love
     *   Gorjue Lipsticks Up to 50% Off
     *   Drybar
+    
     *   Nuzest Vegan Protein
     *   Calvin Klein Fragrances for Men &. Women Under $60
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Benamor Bath &. Body Up to 40% Off
-    
     *   Must-Have Beauty Gift Sets Starting at $25
     *   Teami Blends Detox Teas &. Supplements
     *   K-Beauty ft. Asamo, JayJun &. More from $10
     *   Cailyn Cosmetics Starting at $10
-    *   Predire Paris Luxury Skin Care Starting at $15
-    *   Cruelty-Free Makeup: Rincon Cosmetics
-    *   Eva NYC Hair Tools
     
     Shop By Category
     *   Skin Care
@@ -270,7 +273,6 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Fragrance
     *   Hair Care
     *   Tools &. Accessories
-    *   Nails
     *   Makeup Bags
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
@@ -463,4 +465,4 @@ Get a $20 credit each time a friend you invite makes their first purchase. Limit
 
 Or you can use your personal referral link to invite
 
-Shipping &. ReturnsFree shipping is applied to orders over $49 before tax (limited time only). International orders and all items over 5lbs excluded.Extended Holiday Returns!Return to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: Eligible purchases made 10/30–12/17/19 can be returned until 1/31/20. For items returned by mail, the return shipping fee is $5.95 for the US and $10.95 for Canada. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.Unlock Your Exclusive RewardsTake a minute to complete your profile to view your Nordy Club status and available points.Complete My ProfileSkip for now
+Shipping &. ReturnsFree shipping is applied to standard orders until 12/2/2019 at 11:59pm PT. International orders and all items over 5lbs. excluded.Extended Holiday Returns!Return to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: Eligible purchases made 10/30–12/17/19 can be returned until 1/31/20. For items returned by mail, the return shipping fee is $5.95 for the US and $10.95 for Canada. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.Unlock Your Exclusive RewardsTake a minute to complete your profile to view your Nordy Club status and available points.Complete My ProfileSkip for now
