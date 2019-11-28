@@ -71,7 +71,7 @@ Main menuSONY
     *   All New Categories Products
     *   Companion Robots
     *   Digital Paper
-    *   Future Experience Program
+    *   Wearable Speaker
     *   Engagement App Development
     *   Robotics KitsView AllAll ElectronicsSee Professional Products<img src="//www.sony.com/image/73af50e8d496b98be27c316fba0cb511?fmt=jpeg&amp;wid=218" alt="" class="iq-img">Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up<img src="//www.sony.com/image/7c02f7a959732e31b9d2127dadf58ee2?fmt=jpeg&amp;wid=218" alt="" class="iq-img">A smarter home for a smarter lifeSony’s suite of voice assistant enabled and compatible products works together seamlessly to make life easier 
 *   PlayStation
@@ -118,7 +118,7 @@ Materia, chocobos, and… darts? 🎯
   
 Lots to see in these new Final Fantasy VII Remake screens:  http://play.st/2ON73LM  pic.twitter.com/yon3Z5eBgD
 
-1 day ago View Tweet Instagram Post B5Bbq4khNcX
+2 days ago View Tweet Instagram Post B5Bbq4khNcX
 
 Broad Zoom Range
 
