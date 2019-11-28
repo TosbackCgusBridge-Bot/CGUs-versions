@@ -20,13 +20,11 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Opening This Week = Limited Release
     
-    *   21 Bridges
-    *   A Beautiful Day in the Neighborhood
-    *   Frozen II
-    *   Citizen K
-    *   Dark Waters (2019)
-    *   Shooting the Mafia
-    *   When Lambs Become Lions
+    *   Knives Out
+    *   Queen &. Slim
+    *   Almost Home (2019)
+    *   Kind Hearts and Coronets
+    *   Never Surrender: A Galaxy Quest Doc
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -78,6 +76,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Explore Content
     *   Movie Reviews
+    *   Holiday Movie Guide
     *   Star Wars Guide
     *   Indie Movie Guide
     *   Family Guide
@@ -337,6 +336,7 @@ Experience + Explore
 Editorial Features
 
 *   Star Wars Guide
+*   Holiday Movie Guide
 *   Indie Movie Guide
 *   Family Guide
 *   House Of Screams
