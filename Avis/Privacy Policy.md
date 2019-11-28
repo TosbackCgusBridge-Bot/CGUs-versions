@@ -250,6 +250,7 @@ Avis Partners
 *   Military &. Veterans
 *   Airline Points Partners
 *   Hotel Points Partners
+*   Moving Truck Rental
 
 Company Info
 
@@ -265,7 +266,7 @@ Security &. Privacy
 *   Privacy Notice - Effective 6/19/19
 *   Copyright Notices
 
-United StatesCanadaAustraliaNew Zealand------------------------ArgentinaArmeniaAustriaBahamasBelgiumBosniaBrazilChinaBulgariaChileColombiaCroatiaDenmarkDominican RepublicEcuadorEl SalvadorFaroe IslandsFijiFinlandFranceGermanyGuadeloupeGuatemalaGuamHondurasHongkongHungaryIndiaIndonesiaIrelandIsraelItalyJamaicaJapanKoreaKuwaitLebanonMacedoniaMalaysiaMartiniqueMexicoMongoliaMoroccoNetherlandNicaraguaNorwayPakistanPanamaPeruPhilippinesPolandPortugalPuerto RicoRomaniaRussiaSaudi ArabiaSingaporeSouth AfricaSpainSt Maarten/St MartinSurinameSwedenSwitzerlandTahitiTaiwanThailandTurkeyTurks and CaicosUkraineUnited Arab EmiratesUnited KingdomVanuatuVirgin IslandsYugoslavia English Français Español Português GET THE MOBILE APP >.
+United StatesCanadaAustraliaNew Zealand------------------------ArgentinaArmeniaAustriaBahamasBelgiumBosniaBrazilChinaBulgariaChileColombiaCroatiaDenmarkDominican RepublicEcuadorEl SalvadorFaroe IslandsFijiFinlandFranceGermanyGuadeloupeGuatemalaGuamHondurasHongkongHungaryIndiaIndonesiaIrelandIsraelItalyJamaicaJapanKoreaKuwaitLebanonMacedoniaMalaysiaMartiniqueMexicoMoroccoNetherlandNicaraguaNorwayPakistanPanamaPeruPhilippinesPolandPortugalPuerto RicoRomaniaRussiaSaudi ArabiaSingaporeSouth AfricaSpainSt Maarten/St MartinSurinameSwedenSwitzerlandTahitiTaiwanThailandTurkeyTurks and CaicosUkraineUnited Arab EmiratesUnited KingdomVanuatuVirgin IslandsYugoslavia English Français Español Português GET THE MOBILE APP >.
 
 GET THE AVIS APP
 
