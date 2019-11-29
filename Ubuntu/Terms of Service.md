@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   Productivity corner: free, versatile office suites in the Snap Store
 *   Ubuntu Server development summary – 26 November 2019
 *   “Ubuntu at scale” roundtable at AWS re:Invent
 *   Design and Web team summary – 22 November 2019
-*   KubeCon San Diego 2019 Flashback
-*   8th OSM Hackfest: the highlights
+*   Turning your Raspberry Pi 4 into an Edge Gateway (Part I)
 
 *    ›
