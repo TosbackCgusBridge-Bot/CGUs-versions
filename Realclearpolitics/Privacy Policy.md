@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Rich Lowry_: Celebrating the Most American Holiday
+    
+*   _David Silverman_: The Vicious Reality Behind the Thanksgiving Myth
+    
+*   _Michael Goodwin_: Remembering When the NY Times Had Higher Standards
+    
+*   _Ibram Kendi_: How to Talk About the Truth and Trump at Thanksgiving
+    
+*   _John Hinderaker_: Is It Too Humiliating for House Dems to Back Down Now?
+    
+*   _Chris Cillizza_: No, the New CNN Poll Is Not Good News for Trump
+    
+*   _Michael Kruse_: The Town Hall That Impeachment Blew Up
+    
+*   _Mollie Hemingway_: Media's Nunes Smear: Cohen-in-Prague All Over Again
+    
+*   _Richard Spencer_: I Was Fired as Navy Secretary--What I've Learned
+    
+*   _Don Brown_: Lorance, Golsteyn, Gallagher Are Heroes, Not War Criminals
+    
+*   _Hal Brands_: China's Uighur Crackdown Shows Fear and Insecurity
+    
+*   _Matthew Lynn_: U.S.-U.K. Trade Deal Will Benefit Both Sides of Atlantic
+    
+*   _Konstantin Kisin_: Why Did YouTube Censor My Interview With Posie Parker?
+    
+*   _Ezra Klein_: Barr, Trump and the Post-Christian Culture Wars
+    
+*   _Lathan Watts_: What George Washington Was Thankful For
+    
+*   _Zak Cheney-Rice_: Ta-Nehisi Coates on Obama, Reparations, Kaepernick
+    
+*   _Robert Woodson_: Kanye West: A Welcomed Disruptive Voice vs. 'Race Industry'
+    
+*   _Daryl Austin_: Choose Gratitude as an Antidote to Anger &. Resentment
+    
+*   _Michael Tanner_: It's a Wonderful Time to Be Alive
+    
+*   _Mark Shriver_: Let Us First Share Our Bounty, Then Give Thanks
+    
+*   _Roger Kimball_: The Farce of the 'Anonymous' Trump Official
+    
+*   _David Love_: Obama Is Wrong: Dems Are Not #TooFarLeft
+    
 *   _Philip Wegmann_: Buttigieg Leads in NH and IA. Biden Drops
     
-*   _Cohn &. Miller_: They Voted Democratic in 2018. Now They Support Trump
-    
-*   _David Harsanyi_: Is Impeachment Backfiring on the Democrats?
-    
-*   _Paul Brandus_: Economic Woes, Not Impeachment, Could Doom Trump
-    
-*   _Michael Strain_: Give Thanks, Americans. You're Back to Work
-    
-*   _Philip Wegmann_: Is Growing 2020 Field Cause for Dem Concern?
-    
-*   _Emily Peck_: Billionaire Media Moguls Shouldn’t Run for President
-    
-*   _Sean Trende_: The Method to Michael Bloomberg's Madness
-    
-*   _Jesse Jackson_: If Dems Don't Go Bold With Reforms Now, Then When?
-    
-*   _Corey DeAngelis_: Warren's Latest Lie Only Deepens Her Dilemma on Education
-    
-*   _Robert Redford_: Dictator-Like Trump Attacking the Values America Holds Dear
-    
-*   _Emmett Tyrrell_: Obama Admin's Spygate Scandal Dwarfs Watergate
-    
-*   _Gordon Chang_: Beijing Intransigent in Wake of Historic Hong Kong Defeat
-    
-*   _John O'Sullivan_: Tories Lead Way With 3 Weeks Until Brexit Vote
-    
-*   _Rafael Behr_: Boris Johnson Still Has Plenty of Time to Bungle It
-    
-*   _Chris Buskirk_: The Indispensable Tucker Carlson
-    
-*   _Dana Milbank_: Who But a Demon Could Impeach God’s Chosen One?
-    
-*   _Karl Zinsmeister_: Be Thankful for the Humanitarian Habits of Religious People
-    
-*   _John Ellis_: Why Bloomberg Thinks He Can Defy Odds, Win Dem Nomination
-    
-*   _Ryan Lizza_: All That Matters to Obama Is Which Dem Can Beat Trump
-    
-*   _Victor Davis Hanson_: Biden, Not Trump, Smeared Biden's Reputation
-    
-*   _Todd Purdum_: The Return of Jerry Nadler
-    
-*   _Mollie Hemingway_: How Media's Impeachment Push Harms Democrats
-    
-*   _Morton Kondracke_: How 'Heavyweights' Can Save Democracy in America
+*   _Peter Beinart_: How Cory Booker Blew It
     
 
 *   Previous
@@ -235,9 +235,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Signs Bills Backing Hong Kong Protesters, Angering China
 *   Is Growing 2020 Field Cause for Democrats' Concern?
-*   Bloomberg, Buttigieg Rise Toward the Top in Media Mentions
-*   Trump Says China Deal in "Final Throes" as Top Officials Speak
+*   Cramer: Xi Holds a Weak Hand, U.S. Media Is Covering for China
 *   White House to House Dems: No Ukrainians Died Waiting on Aid
 *   Impeachment Trial Timing Would Put Democrats in a Bind
 *   Presidential Job Approval
@@ -252,6 +252,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   2020 Democratic Presidential NominationEconomist/YouGov
+    *   Biden23
+    *   Sanders15
+    *   Warren17
+    *   Buttigieg12
+    *   Harris4
+    *   Yang3
+    *   Bloomberg3
+    *   Klobuchar3
+    *   Booker2
+    *   Steyer1
+    *   Gabbard2
+    *   Castro1
+    *   Bennet0Biden +6
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve43
+    *   Disapprove54Disapprove +11
+*   Direction of CountryReuters/Ipsos
+    *   Right Direction32
+    *   Wrong Track57Wrong Track +25
 *   New Hampshire Democratic Presidential PrimaryWHDH/Emerson
     *   Buttigieg22
     *   Sanders26
@@ -266,47 +286,6 @@ Latest PollsAll Polls
     *   Bullock0
     *   Castro0
     *   Patrick0Sanders +4
-*   2020 Democratic Presidential NominationCNN
-    *   Biden28
-    *   Sanders17
-    *   Warren14
-    *   Buttigieg11
-    *   Harris3
-    *   Yang3
-    *   Bloomberg3
-    *   Klobuchar2
-    *   Booker2
-    *   Steyer3
-    *   Gabbard0
-    *   Castro1
-    *   Bennet0Biden +11
-*   2020 Democratic Presidential NominationSurveyUSA
-    *   Biden30
-    *   Sanders17
-    *   Warren15
-    *   Buttigieg11
-    *   Harris5
-    *   Yang4
-    *   Bloomberg3
-    *   Klobuchar2
-    *   Booker2
-    *   Steyer2
-    *   Gabbard1
-    *   Castro1
-    *   BennetBiden +13
-*   California Democratic PrimaryKGTV-TV/SurveyUSA
-    *   Biden28
-    *   Warren13
-    *   Sanders18
-    *   Harris10
-    *   Buttigieg8
-    *   Yang5
-    *   Bloomberg3
-    *   Gabbard2
-    *   Booker3
-    *   Steyer3
-    *   Klobuchar1
-    *   Castro1Biden +10
 
 More Latest Polls In The News
 
