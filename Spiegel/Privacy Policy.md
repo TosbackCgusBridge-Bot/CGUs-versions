@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   28\. November 2019
+*   29\. November 2019
 *   Abo
-*   DAX 13.287,07ǀ
+*   DAX 13.245,58ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -165,8 +165,8 @@ Anmelden
         *   Hotels
         *   S-Magazin
     
-
 *   Backstage
+
 *   English
     
     *   *   Front Page
@@ -177,6 +177,7 @@ Anmelden
         *   Zeitgeist
         *   Newsletter
 *   SPIEGEL AKADEMIE
+*   SPIEGEL Ed
 *   DER SPIEGEL live
 *   DER SPIEGEL
     
