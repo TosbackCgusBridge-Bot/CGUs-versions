@@ -242,7 +242,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Black Friday 60-70% Off GIRLS GUYS + FS Over $25**
+**Free Blanket w/ $100 Purchase GIRLS GUYS + FS Over $25 ** **Free Blanket w/ $100 Purchase + FS Over $25** 
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -580,6 +580,15 @@ Guys Hoodies &. Sweatshirts $14.87 Guys Hoodies &
 Sweatshirts Guys Hoodies &  
 Sweatshirts Next
 
+**In Stores &. Online.** While Supplies Last
+
+FREE BLANKET
+
+With your purchase of $100 or more.
+
+**Our plush, limited-edition holiday blanket  
+was made for winter snuggles**
+
 **Online Only**  
 While Supplies Last
 
@@ -664,7 +673,7 @@ Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance
 Aero Oneness is unity, celebrating individuality,  
 living in harmony, and supporting one another.
 
-<div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. CHAT SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up © 2019 Aeropostale. All Rights Reserved. SIGN UP For AERO TEXTS Join the party!  
+<div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
 Text JOIN to 237687. Terms &. Conditions  
 _Message &. Data Rates May Apply_ Details FOLLOW US Customer Care
 
@@ -702,3 +711,5 @@ Stay Connected
 *   Live Chat (9am - 12am EST) Call Us
 *   Use Student Discount
 *   Store FAQs
+
+© 2019 Aeropostale. All Rights Reserved. CHAT
