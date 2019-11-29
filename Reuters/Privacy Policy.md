@@ -18,13 +18,13 @@ Ok to continue
 
 Thomson Reuters Legal
 
-*   ProductsProducts Top products
+*   Products Products Top products
     
     *   Westlaw
     *   Practical Law
     *   Panoramic
     *   CLEAR
-    *   Law books
+    *   Law books - on sale now
     *   All products
     
     Featured
