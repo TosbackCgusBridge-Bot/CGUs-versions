@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksIf at First You Don't Succeed, Try Tripe Again1STDo People and Bananas Really Share 50 Percent of the Same DNA?2NDHumble Hero: Why Neil Armstrong Became the First Man on the Moon3RDHow to Fake a GPS Location on Your Phone4THWorldHistoryMag.com | Sponsored57 Vintage Photos That Took It Way Too FarWorldHistoryMag.com | SponsoredHealthy+ | Sponsored10 Foods to Eat When You Have the FluHealthy+ | SponsoredPdf-Free.com | SponsoredThe Magical Science Behind The Law of AttractionPdf-Free.com | SponsoredPrevention | SponsoredCheck out These 31 Surprising Signs You'll Live to 100Prevention | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksIf at First You Don't Succeed, Try Tripe Again1STWhat's the Difference? Quiz2NDPangolins: The Gentle, Ant-eating Oddballs of Africa and Asia3RDWhy You Should Stop Raking Fall Leaves, Stat!4THWorldHistoryMag.com | Sponsored57 Vintage Photos That Took It Way Too FarWorldHistoryMag.com | Sponsored100newspaper.xyz | Sponsored10 Most Strange Looking Birds In The World100newspaper.xyz | SponsoredRelocation Target | Sponsored7 New Cars You Could Buy Cheap in United StatesRelocation Target | SponsoredLifeInTheGoldenYears.com | Sponsored11 Most Difficult Dogs To RaiseLifeInTheGoldenYears.com | Sponsored
 
 Advertisement
 
-lifestyle - foodWhat's the Difference Between Whiskey and Bourbon?BY Patty Rasmussenculture - peopleWhat's the Difference? QuizBY Alia Hoytscience - science vs. mythScience vs. Monster Movies Quiz: Tell Fact from Fiction!BY Mark ManciniTotal Battle - Online Strategy Game | SponsoredIf You Own a Computer This Strategy Game is a Must-Have!Total Battle - Online Strategy Game | SponsoredEcoHeat S | SponsoredHeating Bills Expected To Be high? Get This Compact Heater And Cut Them In HalfEcoHeat S | Sponsored
+home &. garden - home decor6 Tips for Creating a Cozy, Charming Farmhouse LookBY Alia Hoytculture - peopleWhat’s the Difference Between a College and a University?BY Laurie L. Dovescience - innovationThe Ultimate Downsize: Living in a Shipping Container HomeBY Carrie Whitney, Ph.D.Used Cars | Search Ads | SponsoredFind Instant Cash Offers for Your Used CarUsed Cars | Search Ads | SponsoredDownload Now | Digit: Save Automagically | Sponsored1 Suprising Way to Save More MoneyDownload Now | Digit: Save Automagically | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksThe Ultimate Downsize: Living in a Shipping Container HomeDoes Your Brain Get Tired Like the Rest of Your Body?The Battle of the Big Cats: Maine Coon vs. Norwegian ForestWhy You Should Stop Raking Fall Leaves, Stat!Here's Why Macadamia Nuts Are So Delicious and So Crazy ExpensiveWhat Does It Mean When Someone Says 'That's Just Semantics'?by Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksDoes Your Brain Get Tired Like the Rest of Your Body?Polymer SunBOTs Imitate Sunflowers to Create Maximum Solar EnergyHere's Why Macadamia Nuts Are So Delicious and So Crazy ExpensiveWhat's the Difference Between Whiskey and Bourbon?The Pythagorean Theorem Makes Construction and GPS PossibleWhat Does It Mean When Someone Says 'That's Just Semantics'?by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. If at First You Don't Succeed, Try Tripe AgainRead Next StoryWorldHistoryMag.com57 Vintage Photos That Took It Way Too FarWorldHistoryMag.com|SponsoredSponsoredRead Next StoryEyeQueYou Can Test Your Vision At Home With ThisEyeQue|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. If at First You Don't Succeed, Try Tripe AgainRead Next StoryWorldHistoryMag.com57 Vintage Photos That Took It Way Too FarWorldHistoryMag.com|SponsoredSponsoredRead Next StoryHistory101Unsettling Photos From Notorious 70's Night ClubHistory101|SponsoredSponsoredRead Next Story
