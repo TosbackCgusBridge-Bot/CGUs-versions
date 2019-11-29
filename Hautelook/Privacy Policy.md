@@ -9,75 +9,71 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
-    *   TUMI
-    *   Daily Deal: UGG Cathie Boots at $99.97
+    *   1 Day Only: Best Brands, Best Deals
+    *   Levi's
+    *   Vince Camuto Up to 70% Off Incl. Plus &. Petites
+    *   Pajar
+    *   Ray-Ban Sun
+    *   Vince Camuto Shoes Up to 50% Off
+    *   Levi's Men Starting at $15
+    *   Luxe Styles from $45 ft. Dolce Cabo
+    *   ZAC Zac Posen Handbags
+    *   Our Favorite Accessories ft. Vince Camuto &. More
+    *   Gift or Get: Smart Watch Bands &. More from $15
+    *   Vince Camuto Men
+    *   Festive Fun: Holiday Sweaters &. More from $20
+    *   KORKS Comfort Shoes for Her
+    *   Leather &. Suede Shoes ft. Gordon Rush Up to 50% Off
+    *   Gifts for Her: Candles, Frames &. More
+    *   Vince Camuto Luggage
+    *   Levi's Kids Up to 55% Off
+    *   CZ by Kenneth Jay Lane Up to 70% Off
+    *   NuvaLash Natural Lash &. Brow-Enhancing Serum
+    *   Ready, Set, Gift: Kids' Sets Under $25
+    *   Embryolisse Skin Care Up to 40% Off
+    *   Deck the Halls: Holiday Decor from $15
+    *   Gifts for Him: Grooming, Gadgets &. More
+    *   Best in Snow: Kids' Boots ft. Kamik &. More
     *   Work Dresses Under $75 ft. Calvin Klein Incl. Plus
-    *   Comfort Slippers, Boots &. More ft. Dr. Scholl's
     *   MCM &. More: Sun Under $100
+    
     *   Papillon Up to 80% Off
-    *   Par for the Course: Gifts ft. Callaway Golf
-    *   To Boot New York Men Up to 50% Off
-    *   Daily Deal: Bespoke Gift Sets at $29.97
-    *   Daily Deal: Fitbit Versa Smart Watch at $129.97
-    *   Daily Deal: Jeffrey Campbell Rain Booties at $34.97
-    *   Daily Deal: TOMS Alpargata Shoes at $29.97
-    *   Daily Deal: Salvatore Ferragamo Gift Sets Under $40
-    *   Daily Deal: Karl Lagerfeld Phone Cases at $23
-    *   Daily Deal: Threads 4 Thought Men's Hoodies at $19.97
+    *   Comfort Slippers, Boots &. More ft. Dr. Scholl's
     *   Nordstrom Rack-Exclusive Gifts Under $50 Incl. Plus
+    *   Par for the Course: Gifts ft. Callaway Golf
     *   Boho-Chic Decor: Throw Pillows Up to 55% Off
     *   Threads 4 Thought Active &. More Up to 65% Off
+    *   To Boot New York Men Up to 50% Off
     *   Coat Check: Kids' Outerwear Up to 60% Off
     *   Gifts for the Tech Lover Under $50
     *   Hawke &. Co. Up to 70% Off
     *   Skin Care &. Microdermabrasion Tools from $10
     *   Home Brands We Love ft. UGG &. Kate Spade New York
     *   Unicorn Snot: Glitter for Face &. Body
-    *   Skin Care for Every Concern ft. Hey Honey
+    *   Jason Scott Up to 60% Off
     *   Turbie Twist Super-Absorbent Hair Towel
     *   Mia Belle Girls
-    *   Jason Scott Up to 60% Off
     *   Games for Grown-Ups from $15
     *   Top Toys for Kids Under 3
     *   Top Toys for Kids 3-7
-    
     *   Top Toys for Kids 8 &. Older
     *   Top Toys for the Family
     *   True Religion Men Up to 65% Off
     *   True Religion
-    *   Let It Rain: Waterproof Boots ft. Hunter &. Sperry
-    *   Bring Holiday Cheer: philosophy Gift Sets
-    *   All About the Details: Dresses Under $100
     *   $80 &. Under: Crevo Men's Shoes
     *   Spyder Outerwear Up to 60% Off
     *   True Religion Kids Up to 65% Off
-    *   FAVLUX &. More Under $40
-    *   Hobo Bags from The Sak Collective
-    *   Hit Snooze: Sleep &. Lounge Faves Under $35
-    *   Staheekum Slippers &. More
     *   Rivka Friedman Jewelry Up to 70% Off
+    
     *   Great Gifts for Him Under $100
-    *   True Religion Sun &. More Under $40
     *   Cozy Blankets, Comforters &. More Up to 55% Off
     *   Face Masks We Love
     *   Gorjue Lipsticks Up to 50% Off
     *   RVCA Starting at $15
-    *   Frye Up to 50% Off
-    *   Frye Men Up to 50% Off
-    *   Frye Handbags &. Accessories Up to 50% Off
-    *   Disney Shoes from Mini Melissa
-    *   Frye Men's Clothing &. Accessories Up to 70% Off
     *   Drybar
-    *   14K Gold Jewelry Steals
     *   Laura Geller New York
-    *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
-    *   Men's Sweaters Under $100
-    
     *   Nuzest Vegan Protein
     *   Make Memories: Instax Mini Cameras &. Film
-    *   Give a Classic: Tie &. Bow Tie Sets Up to 65% Off
-    *   Fun &. Fancy: Girls' Dresses Up to 60% Off
-    *   Men's Shoe Steals Up to 70% Off
     *   Calvin Klein Fragrances for Men &. Women Under $60
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Rustic Aesthetic: Home Decor for Every Room
@@ -86,191 +82,175 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Must-Have Beauty Gift Sets Starting at $25
     *   Kitchen Gadgets &. Storage from $15
     *   Storage Must-Haves from $12
-    *   Teami Blends Detox Teas &. Supplements
-    *   K-Beauty ft. Asamo, JayJun &. More from $10
-    *   Cailyn Cosmetics Starting at $10
-    *   Cole Haan Coats Up to 70% Off
-    *   Coats, Jackets &. More ft. Love Token
+    *   Cozy Night In: Hooded Blankets Up to 50% Off
+    *   Free Shipping: BergHOFF Up to 60% Off
     *   Sweet Dreams: Sheet Sets, Duvets &. More
     *   Season of Light: Pre-Lit Christmas Trees
-    *   Rachel Roy Collection Up to 70% Off Incl. Plus
-    *   Bling on the Holidays: Ornaments Starting at $10
-    *   Free Shipping: Animation Art Up to 85% Off
-    *   Free Shipping: BergHOFF Up to 60% Off
-    *   Maaji Active Up to 55% Off
-    *   ASICS Men
-    *   Cozy Night In: Hooded Blankets Up to 50% Off
+    *   Season's Best Shapewear Under $40
+    *   Pajar Men &. More
+    *   Skin Care for Every Concern ft. Hey Honey
     *   Holiday Cheer: Mark Roberts Figurines &. More
-    *   Wall Murals &. Decals Up to 40% Off
 *   WomenShop Sale Events
     
-    *   TUMI
-    *   Daily Deal: UGG Cathie Boots at $99.97
+    *   1 Day Only: Best Brands, Best Deals
+    *   Levi's
+    *   Vince Camuto Up to 70% Off Incl. Plus &. Petites
+    *   Pajar
+    *   Ray-Ban Sun
+    *   Vince Camuto Shoes Up to 50% Off
+    *   Luxe Styles from $45 ft. Dolce Cabo
+    *   ZAC Zac Posen Handbags
+    *   Our Favorite Accessories ft. Vince Camuto &. More
+    *   Festive Fun: Holiday Sweaters &. More from $20
+    *   KORKS Comfort Shoes for Her
+    *   Vince Camuto Luggage
+    *   CZ by Kenneth Jay Lane Up to 70% Off
+    *   NuvaLash Natural Lash &. Brow-Enhancing Serum
+    *   Embryolisse Skin Care Up to 40% Off
     *   Work Dresses Under $75 ft. Calvin Klein Incl. Plus
-    *   Comfort Slippers, Boots &. More ft. Dr. Scholl's
     *   MCM &. More: Sun Under $100
     *   Papillon Up to 80% Off
-    *   Daily Deal: Fitbit Versa Smart Watch at $129.97
-    *   Daily Deal: Jeffrey Campbell Rain Booties at $34.97
-    *   Daily Deal: Salvatore Ferragamo Gift Sets Under $40
+    *   Comfort Slippers, Boots &. More ft. Dr. Scholl's
+    
     *   Nordstrom Rack-Exclusive Gifts Under $50 Incl. Plus
     *   Threads 4 Thought Active &. More Up to 65% Off
     *   Skin Care &. Microdermabrasion Tools from $10
     *   Unicorn Snot: Glitter for Face &. Body
-    *   Skin Care for Every Concern ft. Hey Honey
-    *   Turbie Twist Super-Absorbent Hair Towel
     *   Jason Scott Up to 60% Off
+    *   Turbie Twist Super-Absorbent Hair Towel
     *   True Religion
-    *   Let It Rain: Waterproof Boots ft. Hunter &. Sperry
-    *   Bring Holiday Cheer: philosophy Gift Sets
-    *   All About the Details: Dresses Under $100
-    *   FAVLUX &. More Under $40
-    *   Hobo Bags from The Sak Collective
-    *   Hit Snooze: Sleep &. Lounge Faves Under $35
-    
-    *   Staheekum Slippers &. More
     *   Rivka Friedman Jewelry Up to 70% Off
-    *   True Religion Sun &. More Under $40
     *   Face Masks We Love
     *   Gorjue Lipsticks Up to 50% Off
-    *   Frye Up to 50% Off
-    *   Frye Handbags &. Accessories Up to 50% Off
     *   Drybar
-    *   14K Gold Jewelry Steals
     *   Laura Geller New York
-    *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
     *   Nuzest Vegan Protein
     *   Calvin Klein Fragrances for Men &. Women Under $60
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Benamor Bath &. Body Up to 40% Off
     *   Must-Have Beauty Gift Sets Starting at $25
-    *   Teami Blends Detox Teas &. Supplements
-    *   K-Beauty ft. Asamo, JayJun &. More from $10
-    *   Cailyn Cosmetics Starting at $10
-    *   Cole Haan Coats Up to 70% Off
-    *   Coats, Jackets &. More ft. Love Token
-    *   Rachel Roy Collection Up to 70% Off Incl. Plus
-    *   Maaji Active Up to 55% Off
+    *   Season's Best Shapewear Under $40
+    *   Skin Care for Every Concern ft. Hey Honey
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
-    *   Handbags
     *   Accessories
+    *   Jewelry
     *   Lingerie &. Shapewear
+    *   Handbags
     *   Watches
 *   MenShop Sale Events
     
-    *   TUMI
+    *   1 Day Only: Best Brands, Best Deals
+    *   Ray-Ban Sun
+    *   Levi's Men Starting at $15
+    *   Vince Camuto Men
+    *   Leather &. Suede Shoes ft. Gordon Rush Up to 50% Off
+    *   Gifts for Him: Grooming, Gadgets &. More
     *   MCM &. More: Sun Under $100
     *   Par for the Course: Gifts ft. Callaway Golf
     *   To Boot New York Men Up to 50% Off
-    *   Daily Deal: Bespoke Gift Sets at $29.97
-    *   Daily Deal: Fitbit Versa Smart Watch at $129.97
-    *   Daily Deal: Threads 4 Thought Men's Hoodies at $19.97
+    
     *   Hawke &. Co. Up to 70% Off
     *   True Religion Men Up to 65% Off
     *   $80 &. Under: Crevo Men's Shoes
     *   Spyder Outerwear Up to 60% Off
-    
     *   Great Gifts for Him Under $100
-    *   True Religion Sun &. More Under $40
     *   RVCA Starting at $15
-    *   Frye Men Up to 50% Off
-    *   Frye Men's Clothing &. Accessories Up to 70% Off
-    *   Men's Sweaters Under $100
     *   Nuzest Vegan Protein
-    *   Give a Classic: Tie &. Bow Tie Sets Up to 65% Off
-    *   Men's Shoe Steals Up to 70% Off
-    *   Teami Blends Detox Teas &. Supplements
-    *   ASICS Men
+    *   Pajar Men &. More
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Accessories
+    *   Shoes
     *   Watches
 *   KidsShop Sale Events
     
+    *   1 Day Only: Best Brands, Best Deals
+    *   Levi's Kids Up to 55% Off
+    *   Ready, Set, Gift: Kids' Sets Under $25
+    *   Best in Snow: Kids' Boots ft. Kamik &. More
     *   Coat Check: Kids' Outerwear Up to 60% Off
     *   Mia Belle Girls
+    
     *   Top Toys for Kids Under 3
     *   Top Toys for Kids 3-7
     *   Top Toys for Kids 8 &. Older
     *   Top Toys for the Family
     *   True Religion Kids Up to 65% Off
-    *   Disney Shoes from Mini Melissa
-    *   Fun &. Fancy: Girls' Dresses Up to 60% Off
     
     Shop By Category
     *   Toy Shop
     *   Girls' Sizes 2T-6X
+    *   Boys' Sizes 2T-7
     *   Girls' Sizes 7-16
     *   Boys' Sizes 8-20
     *   Baby Girl
-    *   Boys' Sizes 2T-7
-    *   Girls' Shoes
     *   Baby Boy
+    *   Girls' Shoes
+    *   Boys' Shoes
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
-    *   TUMI
-    *   Daily Deal: Karl Lagerfeld Phone Cases at $23
+    *   1 Day Only: Best Brands, Best Deals
+    *   Gift or Get: Smart Watch Bands &. More from $15
+    *   Gifts for Her: Candles, Frames &. More
+    *   Vince Camuto Luggage
+    *   Deck the Halls: Holiday Decor from $15
+    *   Gifts for Him: Grooming, Gadgets &. More
     *   Boho-Chic Decor: Throw Pillows Up to 55% Off
     *   Gifts for the Tech Lover Under $50
     *   Home Brands We Love ft. UGG &. Kate Spade New York
     *   Games for Grown-Ups from $15
     *   Cozy Blankets, Comforters &. More Up to 55% Off
+    
     *   Make Memories: Instax Mini Cameras &. Film
     *   Rustic Aesthetic: Home Decor for Every Room
     *   Eddie Bauer Bedding Up to 50% Off
-    
     *   Kitchen Gadgets &. Storage from $15
     *   Storage Must-Haves from $12
+    *   Cozy Night In: Hooded Blankets Up to 50% Off
+    *   Free Shipping: BergHOFF Up to 60% Off
     *   Sweet Dreams: Sheet Sets, Duvets &. More
     *   Season of Light: Pre-Lit Christmas Trees
-    *   Bling on the Holidays: Ornaments Starting at $10
-    *   Free Shipping: Animation Art Up to 85% Off
-    *   Free Shipping: BergHOFF Up to 60% Off
-    *   Cozy Night In: Hooded Blankets Up to 50% Off
     *   Holiday Cheer: Mark Roberts Figurines &. More
-    *   Wall Murals &. Decals Up to 40% Off
     
     Shop By Category
+    *   Electronic &. Tech Accessories
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
-    *   Holiday Decorations
-    *   Luggage &. Travel
     *   Cleaning &. Organization
-    *   Electronic &. Tech Accessories
+    *   Luggage &. Travel
+    *   Holiday Decorations
     *   Outdoor Living
+    *   Bath
 *   BeautyShop Sale Events
     
-    *   Daily Deal: Salvatore Ferragamo Gift Sets Under $40
+    *   1 Day Only: Best Brands, Best Deals
+    *   NuvaLash Natural Lash &. Brow-Enhancing Serum
+    *   Embryolisse Skin Care Up to 40% Off
     *   Skin Care &. Microdermabrasion Tools from $10
     *   Unicorn Snot: Glitter for Face &. Body
-    *   Skin Care for Every Concern ft. Hey Honey
     *   Turbie Twist Super-Absorbent Hair Towel
-    *   Bring Holiday Cheer: philosophy Gift Sets
     *   Face Masks We Love
     *   Gorjue Lipsticks Up to 50% Off
-    *   Drybar
     
+    *   Drybar
     *   Nuzest Vegan Protein
     *   Calvin Klein Fragrances for Men &. Women Under $60
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Benamor Bath &. Body Up to 40% Off
     *   Must-Have Beauty Gift Sets Starting at $25
-    *   Teami Blends Detox Teas &. Supplements
-    *   K-Beauty ft. Asamo, JayJun &. More from $10
-    *   Cailyn Cosmetics Starting at $10
+    *   Skin Care for Every Concern ft. Hey Honey
     
     Shop By Category
     *   Skin Care
     *   Makeup
-    *   Bath &. Body
     *   Fragrance
+    *   Bath &. Body
     *   Hair Care
     *   Tools &. Accessories
     *   Makeup Bags
