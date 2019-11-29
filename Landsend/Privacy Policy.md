@@ -36,11 +36,11 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-$11 Supima Cotton Bath Towels. 50% off all other full-price styles!
+Flannel pajama pants starting at $19. 50% off everything else!
 
-code: BATH13 pin: PROMOTION DETAILS
+code: BOTTOMS pin: PROMOTION DETAILS
 
-Customer Service Menu
+Shop Flannel Pajama Pants Customer Service Menu
 
 Customer Service
 
@@ -61,7 +61,11 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Privacy Policy Last Updated: May 21, 2018
+Find an answer fast
+
+Search the Lands' End Help Center.
+
+Search the Lands' End Help Center. Go Privacy Policy Last Updated: May 21, 2018
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
