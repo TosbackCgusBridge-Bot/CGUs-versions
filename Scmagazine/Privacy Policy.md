@@ -212,17 +212,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Get ahead of the cybersecurity curve
-    *   Hill warns lawmakers not to spread Ukraine election interference narrative pushed by Russia
-    *   Google camera app flaw endangered millions of devices
-    *   Facebook, Twitter ban malicious SDK that removed member info
+    *   Risk and compliance challenges in the swift moving lead-generation market
     *   Leaky Gekko Group database exposes info on hotel brands, travelers
-    
-    *   APT33 sics small, elusive botnets on U.S. and global targets
-    *   Cyberattackers taking auto industry for a ride, FBI reportedly warns
-    *   Manfra leaving CISA
+    *   Design flaw leaves Bluetooth devices vulnerable
+    *   Stolen GateHub and EpicBot credentials spotted on hacking forum
     *   Ransomware attack on nursing homes' services provider threatens lives
-    *   Leave.EU chairman's Twitter account hacked, private messages leaked
+    
+    *   Report: Influential manufacturing trade group targeted by Chinese hackers
+    *   Open database exposes 93K files on patients of substance abuse facilities
+    *   Disney+ not the happiest place on Earth, accounts stolen found on sale
+    *   ACBbackdoor trojan designed to hit Linux and Windows systems
+    *   Black Friday, Cyber Monday scams are on the loose, businesses need to prepare
     
     *   Black Friday, Cyber Monday scams are on the loose, businesses need to prepare
     *   Fin7 behind DiBella’s data breach affecting 305,000 cards
@@ -260,6 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. X
-
-You can skip this ad in 2 seconds.
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
