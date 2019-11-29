@@ -1,6 +1,6 @@
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P4J5LNG" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
 
-We use cookies to ensure you get the best experience on our website. By continuing to browse our website, you consent to the use of cookies, as described in our Cookie Policy.
+We use cookies and similar technologies to recognize your repeat visits and preferences, to measure the effectiveness of campaigns, and improve our websites. For settings and more information about cookies, view our Cookie Policy. By clicking “I accept” on this banner or using our site, you consent to the use of cookies.
 
 I ACCEPT Close <div class="noscript-message">In order to view this page correctly, you must have a JavaScript-enabled browser and have JavaScript turned on. We apologize for any inconvenience. <a href="//support.google.com/adsense/bin/answer.py?hl=en&answer=12654">Learn how to enable it</a>.</div>.
 
