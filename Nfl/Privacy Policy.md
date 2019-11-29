@@ -1,6 +1,3 @@
-*   CHI5-6DET3-7-1Thu, 12:30 pm ET
-*   BUF8-3DAL6-5Thu, 4:30 pm ET
-*   NO9-2ATL3-8Thu, 8:20 pm ET
 *   CLE5-6PIT6-5Sun, 1:00 pm ET
 *   GB8-3NYG2-9Sun, 1:00 pm ET
 *   PHI5-6MIA2-9Sun, 1:00 pm ET
@@ -14,6 +11,9 @@
 *   OAK6-5KC7-4Sun, 4:25 pm ET
 *   NE10-1HOU7-4Sun, 8:20 pm ET
 *   MIN8-3SEA9-2Mon, 8:15 pm ET
+*   CHI6-624DET3-8-120Final
+*   BUF9-326DAL6-615Final
+*   NO10-226ATL3-918Final
 
 *   News
 *   Scores
@@ -38,9 +38,6 @@
 *   NFL Films
 *   Game Pass
 
-*   CHI5-6DET3-7-1Thu, 12:30 pm ET
-*   BUF8-3DAL6-5Thu, 4:30 pm ET
-*   NO9-2ATL3-8Thu, 8:20 pm ET
 *   CLE5-6PIT6-5Sun, 1:00 pm ET
 *   GB8-3NYG2-9Sun, 1:00 pm ET
 *   PHI5-6MIA2-9Sun, 1:00 pm ET
@@ -54,6 +51,9 @@
 *   OAK6-5KC7-4Sun, 4:25 pm ET
 *   NE10-1HOU7-4Sun, 8:20 pm ET
 *   MIN8-3SEA9-2Mon, 8:15 pm ET
+*   CHI24DET20Final
+*   BUF26DAL15Final
+*   NO26ATL18Final
 
 *   News
 *   Scores
