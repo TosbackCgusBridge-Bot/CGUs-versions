@@ -130,7 +130,11 @@ Autodesk logo
 
 Keyboard **ALT + g** to toggle grid overlay
 
-READY TO MAKE ANYTHING
+BLACK FRIDAY SALE Get 25% off essential software
+
+Special offers on AutoCAD, AutoCAD LT, Revit LT Suite, 3ds Max, Fusion 360, and Maya. Act now—these deals won’t last.
+
+Buy now icon-svg-close READY TO MAKE ANYTHING
 
 We've combined our most powerful software and services to create one simple package, for one great price—Autodesk industry collections.
 
@@ -150,7 +154,7 @@ Professional CAD/CAM tools built on Inventor and AutoCAD Learn more Free trial S
 MEDIA &.  
 ENTERTAINMENT COLLECTION
 
-Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Image courtesy of Volkswagen Promo Data: FY20 Multi-Year Offer Try, buy, or learn more about Autodesk products See all products
+Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Image courtesy of Volkswagen Promo Data: FY20 Q4 - Black Friday/Cyber Days (Nov 29 - Dec 1) Try, buy, or learn more about Autodesk products See all products
 
 Software for 2D and 3D CAD. Subscription includes AutoCAD, specialized toolsets, and apps.
 
