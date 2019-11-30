@@ -118,7 +118,7 @@ Materia, chocobos, and… darts? 🎯
   
 Lots to see in these new Final Fantasy VII Remake screens:  http://play.st/2ON73LM  pic.twitter.com/yon3Z5eBgD
 
-3 days ago View Tweet Instagram Post B5Bbq4khNcX
+4 days ago View Tweet Instagram Post B5Bbq4khNcX
 
 Broad Zoom Range
 
