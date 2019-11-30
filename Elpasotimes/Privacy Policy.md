@@ -1,4 +1,4 @@
-SUBSCRIBE NOW$3 for 3 months. Save 90%.
+SUBSCRIBE NOW$1 for 3 months. Save 97%.
 
 *   Home
 *   News
@@ -60,7 +60,7 @@ SUBSCRIBE NOW$3 for 3 months. Save 90%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowBody of reputed NM gang leader found in mortuaryLocalDWI suspect crashes into El Paso police carCrimeCBP officers seize 14 rolls of Mexican bolognaNewsShooting victims memorial unveiled at WalmartNewsEl Paso County's most wanted fugitivesCrime2 arrested after car chase on Loop 375CrimeSWAT arrests 2 in freeway shooting video caseCrimeHigh school All-Star football game will be Dec. 21SportsEl Paso's Khalid wins big at AMAsEntertainmentMan finds hope in wax figures of Jesus, VirginLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowDriver arrested in bus crash with ties to El PasoCrimeUTEP men's basketball team ranks No. 1 in RPICollegeBorder Patrol seizes 260 pounds of marijuanaCrimeFive teens sought in Nov. 21 Circle K robberyCrimePolice name suspects in freeway shooting videoCrimeWalmart cashier led escape during mass shootingNewsMost wanted fugitives for the week of Dec. 1CrimeEl Paso dad on LSD attacks two sons, police sayCrimeEscobar: Look at options in El Paso Electric saleNewsMystery hero in Walmart shooting still unknownLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
