@@ -166,7 +166,7 @@ Flatware Jewelry
     
     *   Watches
     *   Men's Watches
-    *   Women's WatchesEstate Jewelry &. Watches >.
+    *   Women's WatchesShop Jewelry &. Watches Sales Event >.
 *   Specials
     
     *   Weekly Features
