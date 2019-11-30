@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-SELECT SALE DENIM IS AN EXTRA 10% OFF - SHOP NOW!
+Get gifting! Shop new arrivals for everything on their list!
 
 *   Women
 *   Men
