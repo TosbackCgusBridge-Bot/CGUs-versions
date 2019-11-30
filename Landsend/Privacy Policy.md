@@ -36,11 +36,11 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Flannel pajama pants starting at $19. 50% off everything else!
+Flannel shirts starting at $20. 50% off everything else!
 
-code: BOTTOMS pin: PROMOTION DETAILS
+code: BLACK pin: PROMOTION DETAILS
 
-Shop Flannel Pajama Pants Customer Service Menu
+Shop Flannel Shirts Customer Service Menu
 
 Customer Service
 
