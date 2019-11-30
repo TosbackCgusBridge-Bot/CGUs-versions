@@ -10,47 +10,61 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 *   All EventsShop Sale Events
     
     *   1 Day Only: Best Brands, Best Deals
-    *   Levi's
+    *   Gracia Starting at $30
+    *   Johnny Was Clothing &. Swim Up to 70% Off
+    *   Thomas Pink
+    *   Ready for Winter: Performance Jackets &. More
+    *   Michael Stars Up to 65% Off
+    *   ECCO Up to 50% Off
+    *   Mirenesse Australia Starting at $10
+    *   New Bags from Lancaster Paris Up to 55% Off
+    *   Quay &. More: Fashion Sunnies Under $30
+    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
+    *   Cozy Toes: SmartWool &. More
+    *   Snuggly Steals: Teddies, Fleece &. More from $25
+    *   The Perfect Gift: Leveret Sleep Starting at $12
+    *   Peace, Love &. Sparkle: Holiday Jewelry
+    *   Men's Active Shop ft. Reebok
+    *   BC Footwear Up to 50% Off
+    *   Gifts for the Pet &. Pet Lover from $15
+    *   Holiday Entertaining Essentials Starting at $15
+    *   Free Shipping: Statement-Making Canvas Wall Art
+    *   Gifts for the Baker Under $50
+    *   Bedding Essentials Up to 75% Off
+    *   Gifts for Him: Beer Cap Maps Up to 40% Off
+    *   Luxury Fragrances Under $50
+    *   L.O.L. Surprise! &. More
     *   Vince Camuto Up to 70% Off Incl. Plus &. Petites
+    
     *   Pajar
+    *   Festive Fun: Holiday Sweaters &. More from $20
     *   Ray-Ban Sun
     *   Vince Camuto Shoes Up to 50% Off
-    *   Levi's Men Starting at $15
     *   Luxe Styles from $45 ft. Dolce Cabo
     *   ZAC Zac Posen Handbags
     *   Our Favorite Accessories ft. Vince Camuto &. More
     *   Gift or Get: Smart Watch Bands &. More from $15
     *   Vince Camuto Men
-    *   Festive Fun: Holiday Sweaters &. More from $20
     *   KORKS Comfort Shoes for Her
     *   Leather &. Suede Shoes ft. Gordon Rush Up to 50% Off
     *   Gifts for Her: Candles, Frames &. More
-    *   Vince Camuto Luggage
-    *   Levi's Kids Up to 55% Off
+    *   Pajar Men &. More
     *   CZ by Kenneth Jay Lane Up to 70% Off
     *   NuvaLash Natural Lash &. Brow-Enhancing Serum
     *   Ready, Set, Gift: Kids' Sets Under $25
     *   Embryolisse Skin Care Up to 40% Off
     *   Deck the Halls: Holiday Decor from $15
-    *   Gifts for Him: Grooming, Gadgets &. More
     *   Best in Snow: Kids' Boots ft. Kamik &. More
-    *   Work Dresses Under $75 ft. Calvin Klein Incl. Plus
-    *   MCM &. More: Sun Under $100
-    
-    *   Papillon Up to 80% Off
-    *   Comfort Slippers, Boots &. More ft. Dr. Scholl's
-    *   Nordstrom Rack-Exclusive Gifts Under $50 Incl. Plus
     *   Par for the Course: Gifts ft. Callaway Golf
     *   Boho-Chic Decor: Throw Pillows Up to 55% Off
-    *   Threads 4 Thought Active &. More Up to 65% Off
     *   To Boot New York Men Up to 50% Off
     *   Coat Check: Kids' Outerwear Up to 60% Off
     *   Gifts for the Tech Lover Under $50
-    *   Hawke &. Co. Up to 70% Off
     *   Skin Care &. Microdermabrasion Tools from $10
     *   Home Brands We Love ft. UGG &. Kate Spade New York
+    
     *   Unicorn Snot: Glitter for Face &. Body
-    *   Jason Scott Up to 60% Off
+    *   Skin Care for Every Concern ft. Hey Honey
     *   Turbie Twist Super-Absorbent Hair Towel
     *   Mia Belle Girls
     *   Games for Grown-Ups from $15
@@ -58,136 +72,115 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Top Toys for Kids 3-7
     *   Top Toys for Kids 8 &. Older
     *   Top Toys for the Family
-    *   True Religion Men Up to 65% Off
-    *   True Religion
     *   $80 &. Under: Crevo Men's Shoes
-    *   Spyder Outerwear Up to 60% Off
-    *   True Religion Kids Up to 65% Off
-    *   Rivka Friedman Jewelry Up to 70% Off
-    
-    *   Great Gifts for Him Under $100
     *   Cozy Blankets, Comforters &. More Up to 55% Off
     *   Face Masks We Love
     *   Gorjue Lipsticks Up to 50% Off
-    *   RVCA Starting at $15
     *   Drybar
     *   Laura Geller New York
     *   Nuzest Vegan Protein
     *   Make Memories: Instax Mini Cameras &. Film
-    *   Calvin Klein Fragrances for Men &. Women Under $60
-    *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Rustic Aesthetic: Home Decor for Every Room
-    *   Benamor Bath &. Body Up to 40% Off
     *   Eddie Bauer Bedding Up to 50% Off
-    *   Must-Have Beauty Gift Sets Starting at $25
     *   Kitchen Gadgets &. Storage from $15
     *   Storage Must-Haves from $12
-    *   Cozy Night In: Hooded Blankets Up to 50% Off
     *   Free Shipping: BergHOFF Up to 60% Off
-    *   Sweet Dreams: Sheet Sets, Duvets &. More
-    *   Season of Light: Pre-Lit Christmas Trees
+    *   Vince Camuto Luggage
     *   Season's Best Shapewear Under $40
-    *   Pajar Men &. More
-    *   Skin Care for Every Concern ft. Hey Honey
-    *   Holiday Cheer: Mark Roberts Figurines &. More
+    *   Cozy Night In: Hooded Blankets Up to 50% Off
 *   WomenShop Sale Events
     
     *   1 Day Only: Best Brands, Best Deals
-    *   Levi's
+    *   Gracia Starting at $30
+    *   Johnny Was Clothing &. Swim Up to 70% Off
+    *   Ready for Winter: Performance Jackets &. More
+    *   Michael Stars Up to 65% Off
+    *   ECCO Up to 50% Off
+    *   Mirenesse Australia Starting at $10
+    *   New Bags from Lancaster Paris Up to 55% Off
+    *   Quay &. More: Fashion Sunnies Under $30
+    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
+    *   Cozy Toes: SmartWool &. More
+    *   Snuggly Steals: Teddies, Fleece &. More from $25
+    *   Peace, Love &. Sparkle: Holiday Jewelry
+    *   BC Footwear Up to 50% Off
+    *   Luxury Fragrances Under $50
     *   Vince Camuto Up to 70% Off Incl. Plus &. Petites
     *   Pajar
+    *   Festive Fun: Holiday Sweaters &. More from $20
     *   Ray-Ban Sun
+    
     *   Vince Camuto Shoes Up to 50% Off
     *   Luxe Styles from $45 ft. Dolce Cabo
     *   ZAC Zac Posen Handbags
     *   Our Favorite Accessories ft. Vince Camuto &. More
-    *   Festive Fun: Holiday Sweaters &. More from $20
     *   KORKS Comfort Shoes for Her
-    *   Vince Camuto Luggage
     *   CZ by Kenneth Jay Lane Up to 70% Off
     *   NuvaLash Natural Lash &. Brow-Enhancing Serum
     *   Embryolisse Skin Care Up to 40% Off
-    *   Work Dresses Under $75 ft. Calvin Klein Incl. Plus
-    *   MCM &. More: Sun Under $100
-    *   Papillon Up to 80% Off
-    *   Comfort Slippers, Boots &. More ft. Dr. Scholl's
-    
-    *   Nordstrom Rack-Exclusive Gifts Under $50 Incl. Plus
-    *   Threads 4 Thought Active &. More Up to 65% Off
     *   Skin Care &. Microdermabrasion Tools from $10
     *   Unicorn Snot: Glitter for Face &. Body
-    *   Jason Scott Up to 60% Off
+    *   Skin Care for Every Concern ft. Hey Honey
     *   Turbie Twist Super-Absorbent Hair Towel
-    *   True Religion
-    *   Rivka Friedman Jewelry Up to 70% Off
     *   Face Masks We Love
     *   Gorjue Lipsticks Up to 50% Off
     *   Drybar
     *   Laura Geller New York
     *   Nuzest Vegan Protein
-    *   Calvin Klein Fragrances for Men &. Women Under $60
-    *   Dazzlepro Teeth Whitening Up to 85% Off
-    *   Benamor Bath &. Body Up to 40% Off
-    *   Must-Have Beauty Gift Sets Starting at $25
+    *   Vince Camuto Luggage
     *   Season's Best Shapewear Under $40
-    *   Skin Care for Every Concern ft. Hey Honey
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Accessories
+    *   Shoes
     *   Jewelry
-    *   Lingerie &. Shapewear
     *   Handbags
+    *   Lingerie &. Shapewear
     *   Watches
 *   MenShop Sale Events
     
     *   1 Day Only: Best Brands, Best Deals
+    *   Thomas Pink
+    *   Men's Active Shop ft. Reebok
+    *   Gifts for Him: Beer Cap Maps Up to 40% Off
     *   Ray-Ban Sun
-    *   Levi's Men Starting at $15
     *   Vince Camuto Men
+    
     *   Leather &. Suede Shoes ft. Gordon Rush Up to 50% Off
-    *   Gifts for Him: Grooming, Gadgets &. More
-    *   MCM &. More: Sun Under $100
+    *   Pajar Men &. More
     *   Par for the Course: Gifts ft. Callaway Golf
     *   To Boot New York Men Up to 50% Off
-    
-    *   Hawke &. Co. Up to 70% Off
-    *   True Religion Men Up to 65% Off
     *   $80 &. Under: Crevo Men's Shoes
-    *   Spyder Outerwear Up to 60% Off
-    *   Great Gifts for Him Under $100
-    *   RVCA Starting at $15
     *   Nuzest Vegan Protein
-    *   Pajar Men &. More
     
     Shop By Category
     *   Clothing
-    *   Accessories
     *   Shoes
+    *   Accessories
     *   Watches
 *   KidsShop Sale Events
     
     *   1 Day Only: Best Brands, Best Deals
-    *   Levi's Kids Up to 55% Off
+    *   The Perfect Gift: Leveret Sleep Starting at $12
+    *   L.O.L. Surprise! &. More
     *   Ready, Set, Gift: Kids' Sets Under $25
     *   Best in Snow: Kids' Boots ft. Kamik &. More
     *   Coat Check: Kids' Outerwear Up to 60% Off
-    *   Mia Belle Girls
     
+    *   Mia Belle Girls
     *   Top Toys for Kids Under 3
     *   Top Toys for Kids 3-7
     *   Top Toys for Kids 8 &. Older
     *   Top Toys for the Family
-    *   True Religion Kids Up to 65% Off
     
     Shop By Category
     *   Toy Shop
     *   Girls' Sizes 2T-6X
-    *   Boys' Sizes 2T-7
     *   Girls' Sizes 7-16
     *   Boys' Sizes 8-20
     *   Baby Girl
+    *   Boys' Sizes 2T-7
     *   Baby Boy
     *   Girls' Shoes
     *   Boys' Shoes
@@ -195,63 +188,63 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 *   HomeShop Sale Events
     
     *   1 Day Only: Best Brands, Best Deals
+    *   Gifts for the Pet &. Pet Lover from $15
+    *   Free Shipping: Statement-Making Canvas Wall Art
+    *   Gifts for the Baker Under $50
+    *   Bedding Essentials Up to 75% Off
+    *   Gifts for Him: Beer Cap Maps Up to 40% Off
     *   Gift or Get: Smart Watch Bands &. More from $15
     *   Gifts for Her: Candles, Frames &. More
-    *   Vince Camuto Luggage
     *   Deck the Halls: Holiday Decor from $15
-    *   Gifts for Him: Grooming, Gadgets &. More
     *   Boho-Chic Decor: Throw Pillows Up to 55% Off
     *   Gifts for the Tech Lover Under $50
+    
     *   Home Brands We Love ft. UGG &. Kate Spade New York
     *   Games for Grown-Ups from $15
     *   Cozy Blankets, Comforters &. More Up to 55% Off
-    
     *   Make Memories: Instax Mini Cameras &. Film
     *   Rustic Aesthetic: Home Decor for Every Room
     *   Eddie Bauer Bedding Up to 50% Off
     *   Kitchen Gadgets &. Storage from $15
     *   Storage Must-Haves from $12
-    *   Cozy Night In: Hooded Blankets Up to 50% Off
     *   Free Shipping: BergHOFF Up to 60% Off
-    *   Sweet Dreams: Sheet Sets, Duvets &. More
-    *   Season of Light: Pre-Lit Christmas Trees
-    *   Holiday Cheer: Mark Roberts Figurines &. More
+    *   Vince Camuto Luggage
+    *   Cozy Night In: Hooded Blankets Up to 50% Off
     
     Shop By Category
-    *   Electronic &. Tech Accessories
-    *   Home Decor
     *   Kitchen &. Tabletop
+    *   Electronic &. Tech Accessories
     *   Bedding
+    *   Home Decor
     *   Cleaning &. Organization
-    *   Luggage &. Travel
+    *   Pet Accessories
     *   Holiday Decorations
+    *   Luggage &. Travel
     *   Outdoor Living
-    *   Bath
 *   BeautyShop Sale Events
     
     *   1 Day Only: Best Brands, Best Deals
+    *   Mirenesse Australia Starting at $10
+    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
+    *   Luxury Fragrances Under $50
     *   NuvaLash Natural Lash &. Brow-Enhancing Serum
     *   Embryolisse Skin Care Up to 40% Off
     *   Skin Care &. Microdermabrasion Tools from $10
+    
     *   Unicorn Snot: Glitter for Face &. Body
+    *   Skin Care for Every Concern ft. Hey Honey
     *   Turbie Twist Super-Absorbent Hair Towel
     *   Face Masks We Love
     *   Gorjue Lipsticks Up to 50% Off
-    
     *   Drybar
     *   Nuzest Vegan Protein
-    *   Calvin Klein Fragrances for Men &. Women Under $60
-    *   Dazzlepro Teeth Whitening Up to 85% Off
-    *   Benamor Bath &. Body Up to 40% Off
-    *   Must-Have Beauty Gift Sets Starting at $25
-    *   Skin Care for Every Concern ft. Hey Honey
     
     Shop By Category
-    *   Skin Care
     *   Makeup
     *   Fragrance
-    *   Bath &. Body
     *   Hair Care
+    *   Skin Care
+    *   Bath &. Body
     *   Tools &. Accessories
     *   Makeup Bags
 
