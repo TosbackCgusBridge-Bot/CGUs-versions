@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Risk and compliance challenges in the swift moving lead-generation market
-    *   Leaky Gekko Group database exposes info on hotel brands, travelers
-    *   Design flaw leaves Bluetooth devices vulnerable
-    *   Stolen GateHub and EpicBot credentials spotted on hacking forum
-    *   Ransomware attack on nursing homes' services provider threatens lives
+    *   Finland agency launches smart device infosec certification program
+    *   Google camera app flaw endangered millions of devices
+    *   Sen. Kennedy reverses course, says Russia, not Ukraine hacked DNC
+    *   Arkansas AG reiterates need to report medical data breaches
+    *   Catch NYC, Catch Steak hit with payment card skimming malware
     
-    *   Report: Influential manufacturing trade group targeted by Chinese hackers
-    *   Open database exposes 93K files on patients of substance abuse facilities
-    *   Disney+ not the happiest place on Earth, accounts stolen found on sale
-    *   ACBbackdoor trojan designed to hit Linux and Windows systems
-    *   Black Friday, Cyber Monday scams are on the loose, businesses need to prepare
+    *   Report: Genuine HR emails trigger suspicions after accidentally using common phishing tricks
+    *   Catch NYC, Catch Steak hit with payment card skimming malware
+    *   Report: GitHub repository exposes WeWork customer contracts
+    *   How to prepare for the U.S. Census to move online
+    *   Sen. Kennedy reverses course, says Russia, not Ukraine hacked DNC
     
+    *   Dexphot malware uses fileless techniques to install cryptominer
     *   Black Friday, Cyber Monday scams are on the loose, businesses need to prepare
     *   Fin7 behind DiBella’s data breach affecting 305,000 cards
     *   Facebook, Twitter ban malicious SDK that removed member info
     *   Finland agency launches smart device infosec certification program
-    *   Stantinko botnet's monetization strategy shifts to cryptomining
 
 Back to Top
 
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
