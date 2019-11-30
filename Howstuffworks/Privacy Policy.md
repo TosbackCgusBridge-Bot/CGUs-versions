@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksIf at First You Don't Succeed, Try Tripe Again1STWhat's the Difference? Quiz2NDPangolins: The Gentle, Ant-eating Oddballs of Africa and Asia3RDWhy You Should Stop Raking Fall Leaves, Stat!4THWorldHistoryMag.com | Sponsored57 Vintage Photos That Took It Way Too FarWorldHistoryMag.com | Sponsored100newspaper.xyz | Sponsored10 Most Strange Looking Birds In The World100newspaper.xyz | SponsoredRelocation Target | Sponsored7 New Cars You Could Buy Cheap in United StatesRelocation Target | SponsoredLifeInTheGoldenYears.com | Sponsored11 Most Difficult Dogs To RaiseLifeInTheGoldenYears.com | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksWhat Are Santa Ana Winds?1STWhat’s the Difference Between a College and a University?2NDWhat's the Difference Between Whiskey and Bourbon?3RDPangolins: The Gentle, Ant-eating Oddballs of Africa and Asia4THWorldHistoryMag.com | Sponsored57 Vintage Photos That Took It Way Too FarWorldHistoryMag.com | SponsoredWifi UltraBoost | SponsoredEveryone wants this device - It transforms slow WiFi into Highspeed InternetWifi UltraBoost | SponsoredLifeBiotic Supplement | SponsoredFinally a supplement to share with your oncologistLifeBiotic Supplement | SponsoredCrossovers | Search Ads | SponsoredThe Best Crossovers of 2019 Are Coming to GoldenCrossovers | Search Ads | Sponsored
 
 Advertisement
 
-home &. garden - home decor6 Tips for Creating a Cozy, Charming Farmhouse LookBY Alia Hoytculture - peopleWhat’s the Difference Between a College and a University?BY Laurie L. Dovescience - innovationThe Ultimate Downsize: Living in a Shipping Container HomeBY Carrie Whitney, Ph.D.Used Cars | Search Ads | SponsoredFind Instant Cash Offers for Your Used CarUsed Cars | Search Ads | SponsoredDownload Now | Digit: Save Automagically | Sponsored1 Suprising Way to Save More MoneyDownload Now | Digit: Save Automagically | Sponsored
+science - life scienceDo People and Bananas Really Share 50 Percent of the Same DNA?BY Alia Hoytculture - peopleUse of the Exclamation Point Has Exploded!BY Melanie Radzicki McManusculture - peopleWhat's the Difference? QuizBY Alia HoytGood Housekeeping | Sponsored40 Rare Photos of Judy Garland From the '20s Through the '60sGood Housekeeping | SponsoredSUV | Search Ads | SponsoredNew SUV Prices in Golden Might Shock YouSUV | Search Ads | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksDoes Your Brain Get Tired Like the Rest of Your Body?Polymer SunBOTs Imitate Sunflowers to Create Maximum Solar EnergyHere's Why Macadamia Nuts Are So Delicious and So Crazy ExpensiveWhat's the Difference Between Whiskey and Bourbon?The Pythagorean Theorem Makes Construction and GPS PossibleWhat Does It Mean When Someone Says 'That's Just Semantics'?by Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksU.S. Military Dogs Usually Outrank Their HandlersHere's Why Macadamia Nuts Are So Delicious and So Crazy ExpensiveHow to Fake a GPS Location on Your PhoneThe Pythagorean Theorem Makes Construction and GPS PossibleThe Battle of the Big Cats: Maine Coon vs. Norwegian ForestHumble Hero: Why Neil Armstrong Became the First Man on the Moonby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. If at First You Don't Succeed, Try Tripe AgainRead Next StoryWorldHistoryMag.com57 Vintage Photos That Took It Way Too FarWorldHistoryMag.com|SponsoredSponsoredRead Next StoryHistory101Unsettling Photos From Notorious 70's Night ClubHistory101|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. What Are Santa Ana Winds?Read Next StoryWorldHistoryMag.com57 Vintage Photos That Took It Way Too FarWorldHistoryMag.com|SponsoredSponsoredRead Next Storycalorie-charts.info10 Exercises to Burn 500 Calories – 500 Calorie Workoutscalorie-charts.info|SponsoredSponsoredRead Next Story
