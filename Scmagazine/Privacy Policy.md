@@ -212,17 +212,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Finland agency launches smart device infosec certification program
-    *   Google camera app flaw endangered millions of devices
-    *   Sen. Kennedy reverses course, says Russia, not Ukraine hacked DNC
-    *   Arkansas AG reiterates need to report medical data breaches
-    *   Catch NYC, Catch Steak hit with payment card skimming malware
+    *   SC Media reveals 2020 SC Awards finalists
+    *   Data breach compromises T-Mobile prepaid accounts
+    *   Hill warns lawmakers not to spread Ukraine election interference narrative pushed by Russia
+    *   Facebook, Twitter ban malicious SDK that removed member info
+    *   Design flaw leaves Bluetooth devices vulnerable
     
-    *   Report: Genuine HR emails trigger suspicions after accidentally using common phishing tricks
-    *   Catch NYC, Catch Steak hit with payment card skimming malware
-    *   Report: GitHub repository exposes WeWork customer contracts
-    *   How to prepare for the U.S. Census to move online
-    *   Sen. Kennedy reverses course, says Russia, not Ukraine hacked DNC
+    *   Open database exposes Magic: the Gathering online player info
+    *   Fin7 behind DiBella’s data breach affecting 305,000 cards
+    *   Former FBI lawyer under criminal probe for altering doc linked to Page surveillance
+    *   Cyberattackers taking auto industry for a ride, FBI reportedly warns
+    *   Using security orchestration to simplify IoT defense in depth
     
     *   Dexphot malware uses fileless techniques to install cryptominer
     *   Black Friday, Cyber Monday scams are on the loose, businesses need to prepare
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
