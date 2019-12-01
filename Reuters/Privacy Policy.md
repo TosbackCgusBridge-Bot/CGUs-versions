@@ -18,18 +18,18 @@ Ok to continue
 
 Thomson Reuters Legal
 
-*   Products Products Top products
+*   ProductsProducts Top products
     
     *   Westlaw
     *   Practical Law
     *   Panoramic
     *   CLEAR
-    *   Law books - on sale now
+    *   Law books
     *   All products
     
-    Featured
+    Exclusive deals
     
-    **Quick Check on Westlaw Edge ** Discover the transformative power of intelligent document analysis. Learn more
+    **Black Friday Law and ordered** Bring some order to the chaos this Black Friday. Learn more about our never before seen deals on law books. Shop now
 *   SolutionsSolutions Solutions
     
     *   Streamline legal research
