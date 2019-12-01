@@ -60,7 +60,7 @@ SUBSCRIBE NOW$1 for 3 months. Save 97%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowDriver arrested in bus crash with ties to El PasoCrimeUTEP men's basketball team ranks No. 1 in RPICollegeBorder Patrol seizes 260 pounds of marijuanaCrimeFive teens sought in Nov. 21 Circle K robberyCrimePolice name suspects in freeway shooting videoCrimeWalmart cashier led escape during mass shootingNewsMost wanted fugitives for the week of Dec. 1CrimeEl Paso dad on LSD attacks two sons, police sayCrimeEscobar: Look at options in El Paso Electric saleNewsMystery hero in Walmart shooting still unknownLocalHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowTeen claims self-defense in soldier's deathCrimeFred Loya Christmas Lights Show returnsEntertainmentFather Harold Rahm, bicycle priest, dies at 100LocalDriver arrested in bus crash with ties to El PasoCrimeTxDOT puns drive home safety message over holidayNewsUTEP men's basketball team ranks No. 1 in RPICollegeFive teens sought in Nov. 21 Circle K robberyCrimeBorder Patrol seizes 260 pounds of marijuanaCrimeRice slips past UTEP to run Miners' losing streak to 11CollegePolice name suspects in freeway shooting videoCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
