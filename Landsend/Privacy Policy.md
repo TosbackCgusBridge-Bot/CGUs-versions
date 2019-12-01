@@ -36,11 +36,11 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Flannel shirts starting at $20. 50% off everything else!
+Sweaters starting at $20. 50% off everything else!
 
-code: BLACK pin: PROMOTION DETAILS
+code: SWEATER pin: PROMOTION DETAILS
 
-Shop Flannel Shirts Customer Service Menu
+Customer Service Menu
 
 Customer Service
 
