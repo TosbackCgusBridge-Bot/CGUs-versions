@@ -9,20 +9,45 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
-    *   1 Day Only: Best Brands, Best Deals
+    *   Alo Yoga Starting at $30
+    *   Brooks
+    *   Brooks Men
+    *   Sanctuary from $30 Incl. Plus &. Petites
+    *   Samuel B Jewelry
+    *   John Varvatos Star USA Up to 60% Off
+    *   Andrew Marc Outerwear Up to 60% Off
+    *   Gemstones, Diamonds &. More Up to 80% Off
+    *   Leather Weather: Jackets, Bottoms &. More
+    *   Sport Sun from Costa del Mar, Oakley &. More
+    *   Free Shipping: 1000-Thread Count Sheet Sets
+    *   Lush Starting at $20
+    *   Gift Giving: PJ Sets Under $35
+    *   Holiday Party Styles Under $30
+    *   Betsey Johnson Novelty Backpacks &. Handbags
+    *   Terre Mere Organic Beauty Up to 75% Off
+    *   Ron White Up to 50% Off
+    *   Last Chance: Shoes Up to 70% Off
+    *   Storage Must-Haves from $15
+    *   Holiday Party Must-Haves: Sport Coats Under $150
+    *   Bold Lips: Lipstick Queen Up to 40% Off
+    *   Melissa &. Doug
+    *   Crystal Beauty Tools Up to 40% Off
+    *   Cozy Night In: Blankets &. More Starting at $20
+    *   Holiday Decor Best Sellers from $25
+    *   Rustic Winter Decor: Lanterns, Candles &. More
+    *   Joe Fresh Kids
+    
     *   Gracia Starting at $30
     *   Johnny Was Clothing &. Swim Up to 70% Off
     *   Thomas Pink
     *   Ready for Winter: Performance Jackets &. More
     *   Michael Stars Up to 65% Off
-    *   ECCO Up to 50% Off
     *   Mirenesse Australia Starting at $10
     *   New Bags from Lancaster Paris Up to 55% Off
     *   Quay &. More: Fashion Sunnies Under $30
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Cozy Toes: SmartWool &. More
     *   Snuggly Steals: Teddies, Fleece &. More from $25
-    *   The Perfect Gift: Leveret Sleep Starting at $12
     *   Peace, Love &. Sparkle: Holiday Jewelry
     *   Men's Active Shop ft. Reebok
     *   BC Footwear Up to 50% Off
@@ -33,69 +58,60 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Bedding Essentials Up to 75% Off
     *   Gifts for Him: Beer Cap Maps Up to 40% Off
     *   Luxury Fragrances Under $50
-    *   L.O.L. Surprise! &. More
-    *   Vince Camuto Up to 70% Off Incl. Plus &. Petites
-    
-    *   Pajar
-    *   Festive Fun: Holiday Sweaters &. More from $20
-    *   Ray-Ban Sun
-    *   Vince Camuto Shoes Up to 50% Off
-    *   Luxe Styles from $45 ft. Dolce Cabo
-    *   ZAC Zac Posen Handbags
-    *   Our Favorite Accessories ft. Vince Camuto &. More
     *   Gift or Get: Smart Watch Bands &. More from $15
     *   Vince Camuto Men
-    *   KORKS Comfort Shoes for Her
     *   Leather &. Suede Shoes ft. Gordon Rush Up to 50% Off
     *   Gifts for Her: Candles, Frames &. More
     *   Pajar Men &. More
     *   CZ by Kenneth Jay Lane Up to 70% Off
+    
     *   NuvaLash Natural Lash &. Brow-Enhancing Serum
     *   Ready, Set, Gift: Kids' Sets Under $25
     *   Embryolisse Skin Care Up to 40% Off
     *   Deck the Halls: Holiday Decor from $15
     *   Best in Snow: Kids' Boots ft. Kamik &. More
-    *   Par for the Course: Gifts ft. Callaway Golf
     *   Boho-Chic Decor: Throw Pillows Up to 55% Off
     *   To Boot New York Men Up to 50% Off
-    *   Coat Check: Kids' Outerwear Up to 60% Off
     *   Gifts for the Tech Lover Under $50
     *   Skin Care &. Microdermabrasion Tools from $10
     *   Home Brands We Love ft. UGG &. Kate Spade New York
-    
     *   Unicorn Snot: Glitter for Face &. Body
     *   Skin Care for Every Concern ft. Hey Honey
     *   Turbie Twist Super-Absorbent Hair Towel
-    *   Mia Belle Girls
-    *   Games for Grown-Ups from $15
-    *   Top Toys for Kids Under 3
-    *   Top Toys for Kids 3-7
-    *   Top Toys for Kids 8 &. Older
-    *   Top Toys for the Family
-    *   $80 &. Under: Crevo Men's Shoes
     *   Cozy Blankets, Comforters &. More Up to 55% Off
     *   Face Masks We Love
     *   Gorjue Lipsticks Up to 50% Off
-    *   Drybar
-    *   Laura Geller New York
-    *   Nuzest Vegan Protein
     *   Make Memories: Instax Mini Cameras &. Film
     *   Rustic Aesthetic: Home Decor for Every Room
     *   Eddie Bauer Bedding Up to 50% Off
     *   Kitchen Gadgets &. Storage from $15
-    *   Storage Must-Haves from $12
+    *   ECCO Up to 50% Off
+    *   The Perfect Gift: Leveret Sleep Starting at $12
+    *   L.O.L. Surprise! &. More
+    *   Games for Grown-Ups from $15
     *   Free Shipping: BergHOFF Up to 60% Off
-    *   Vince Camuto Luggage
-    *   Season's Best Shapewear Under $40
-    *   Cozy Night In: Hooded Blankets Up to 50% Off
 *   WomenShop Sale Events
     
-    *   1 Day Only: Best Brands, Best Deals
+    *   Alo Yoga Starting at $30
+    *   Brooks
+    *   Sanctuary from $30 Incl. Plus &. Petites
+    *   Samuel B Jewelry
+    *   Gemstones, Diamonds &. More Up to 80% Off
+    *   Leather Weather: Jackets, Bottoms &. More
+    *   Lush Starting at $20
+    *   Gift Giving: PJ Sets Under $35
+    *   Holiday Party Styles Under $30
+    *   Betsey Johnson Novelty Backpacks &. Handbags
+    *   Terre Mere Organic Beauty Up to 75% Off
+    *   Ron White Up to 50% Off
+    *   Last Chance: Shoes Up to 70% Off
+    *   Bold Lips: Lipstick Queen Up to 40% Off
+    *   Crystal Beauty Tools Up to 40% Off
     *   Gracia Starting at $30
     *   Johnny Was Clothing &. Swim Up to 70% Off
     *   Ready for Winter: Performance Jackets &. More
     *   Michael Stars Up to 65% Off
-    *   ECCO Up to 50% Off
+    
     *   Mirenesse Australia Starting at $10
     *   New Bags from Lancaster Paris Up to 55% Off
     *   Quay &. More: Fashion Sunnies Under $30
@@ -105,16 +121,6 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Peace, Love &. Sparkle: Holiday Jewelry
     *   BC Footwear Up to 50% Off
     *   Luxury Fragrances Under $50
-    *   Vince Camuto Up to 70% Off Incl. Plus &. Petites
-    *   Pajar
-    *   Festive Fun: Holiday Sweaters &. More from $20
-    *   Ray-Ban Sun
-    
-    *   Vince Camuto Shoes Up to 50% Off
-    *   Luxe Styles from $45 ft. Dolce Cabo
-    *   ZAC Zac Posen Handbags
-    *   Our Favorite Accessories ft. Vince Camuto &. More
-    *   KORKS Comfort Shoes for Her
     *   CZ by Kenneth Jay Lane Up to 70% Off
     *   NuvaLash Natural Lash &. Brow-Enhancing Serum
     *   Embryolisse Skin Care Up to 40% Off
@@ -124,70 +130,61 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Turbie Twist Super-Absorbent Hair Towel
     *   Face Masks We Love
     *   Gorjue Lipsticks Up to 50% Off
-    *   Drybar
-    *   Laura Geller New York
-    *   Nuzest Vegan Protein
-    *   Vince Camuto Luggage
-    *   Season's Best Shapewear Under $40
+    *   ECCO Up to 50% Off
     
     Shop By Category
     *   Clothing
-    *   Accessories
-    *   Shoes
     *   Jewelry
+    *   Shoes
     *   Handbags
+    *   Accessories
     *   Lingerie &. Shapewear
-    *   Watches
 *   MenShop Sale Events
     
-    *   1 Day Only: Best Brands, Best Deals
+    *   Brooks Men
+    *   John Varvatos Star USA Up to 60% Off
+    *   Andrew Marc Outerwear Up to 60% Off
+    *   Sport Sun from Costa del Mar, Oakley &. More
+    *   Holiday Party Must-Haves: Sport Coats Under $150
     *   Thomas Pink
+    
     *   Men's Active Shop ft. Reebok
     *   Gifts for Him: Beer Cap Maps Up to 40% Off
-    *   Ray-Ban Sun
     *   Vince Camuto Men
-    
     *   Leather &. Suede Shoes ft. Gordon Rush Up to 50% Off
     *   Pajar Men &. More
-    *   Par for the Course: Gifts ft. Callaway Golf
     *   To Boot New York Men Up to 50% Off
-    *   $80 &. Under: Crevo Men's Shoes
-    *   Nuzest Vegan Protein
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
-    *   1 Day Only: Best Brands, Best Deals
-    *   The Perfect Gift: Leveret Sleep Starting at $12
-    *   L.O.L. Surprise! &. More
+    *   Melissa &. Doug
+    *   Joe Fresh Kids
     *   Ready, Set, Gift: Kids' Sets Under $25
     *   Best in Snow: Kids' Boots ft. Kamik &. More
-    *   Coat Check: Kids' Outerwear Up to 60% Off
-    
-    *   Mia Belle Girls
-    *   Top Toys for Kids Under 3
-    *   Top Toys for Kids 3-7
-    *   Top Toys for Kids 8 &. Older
-    *   Top Toys for the Family
+    *   The Perfect Gift: Leveret Sleep Starting at $12
+    *   L.O.L. Surprise! &. More
     
     Shop By Category
     *   Toy Shop
     *   Girls' Sizes 2T-6X
     *   Girls' Sizes 7-16
-    *   Boys' Sizes 8-20
     *   Baby Girl
     *   Boys' Sizes 2T-7
     *   Baby Boy
+    *   Boys' Sizes 8-20
     *   Girls' Shoes
     *   Boys' Shoes
-    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
-    *   1 Day Only: Best Brands, Best Deals
+    *   Free Shipping: 1000-Thread Count Sheet Sets
+    *   Storage Must-Haves from $15
+    *   Cozy Night In: Blankets &. More Starting at $20
+    *   Holiday Decor Best Sellers from $25
+    *   Rustic Winter Decor: Lanterns, Candles &. More
     *   Gifts for the Pet &. Pet Lover from $15
     *   Free Shipping: Statement-Making Canvas Wall Art
     *   Gifts for the Baker Under $50
@@ -195,55 +192,52 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Gifts for Him: Beer Cap Maps Up to 40% Off
     *   Gift or Get: Smart Watch Bands &. More from $15
     *   Gifts for Her: Candles, Frames &. More
+    
     *   Deck the Halls: Holiday Decor from $15
     *   Boho-Chic Decor: Throw Pillows Up to 55% Off
     *   Gifts for the Tech Lover Under $50
-    
     *   Home Brands We Love ft. UGG &. Kate Spade New York
-    *   Games for Grown-Ups from $15
     *   Cozy Blankets, Comforters &. More Up to 55% Off
     *   Make Memories: Instax Mini Cameras &. Film
     *   Rustic Aesthetic: Home Decor for Every Room
     *   Eddie Bauer Bedding Up to 50% Off
     *   Kitchen Gadgets &. Storage from $15
-    *   Storage Must-Haves from $12
+    *   Games for Grown-Ups from $15
     *   Free Shipping: BergHOFF Up to 60% Off
-    *   Vince Camuto Luggage
-    *   Cozy Night In: Hooded Blankets Up to 50% Off
     
     Shop By Category
+    *   Bedding
     *   Kitchen &. Tabletop
     *   Electronic &. Tech Accessories
-    *   Bedding
     *   Home Decor
-    *   Cleaning &. Organization
-    *   Pet Accessories
     *   Holiday Decorations
-    *   Luggage &. Travel
+    *   Pet Accessories
+    *   Cleaning &. Organization
     *   Outdoor Living
+    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
-    *   1 Day Only: Best Brands, Best Deals
+    *   Terre Mere Organic Beauty Up to 75% Off
+    *   Bold Lips: Lipstick Queen Up to 40% Off
+    *   Crystal Beauty Tools Up to 40% Off
     *   Mirenesse Australia Starting at $10
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Luxury Fragrances Under $50
     *   NuvaLash Natural Lash &. Brow-Enhancing Serum
+    
     *   Embryolisse Skin Care Up to 40% Off
     *   Skin Care &. Microdermabrasion Tools from $10
-    
     *   Unicorn Snot: Glitter for Face &. Body
     *   Skin Care for Every Concern ft. Hey Honey
     *   Turbie Twist Super-Absorbent Hair Towel
     *   Face Masks We Love
     *   Gorjue Lipsticks Up to 50% Off
-    *   Drybar
-    *   Nuzest Vegan Protein
     
     Shop By Category
     *   Makeup
+    *   Skin Care
     *   Fragrance
     *   Hair Care
-    *   Skin Care
     *   Bath &. Body
     *   Tools &. Accessories
     *   Makeup Bags
