@@ -242,7 +242,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Free Blanket w/ $100 Purchase GIRLS GUYS + FS Over $25 ** **Free Shipping Over $25**
+**Everything 60-70% Off GIRLS GUYS + FS Over $25 ** **Free Shipping Over $25**
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
