@@ -36,11 +36,11 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Sweaters starting at $20. 50% off everything else!
+Down vests starting at $24. 50% off everything else!
 
-code: SWEATER pin: PROMOTION DETAILS
+code: CHEERY pin: PROMOTION DETAILS
 
-Customer Service Menu
+Shop Down Vests Customer Service Menu
 
 Customer Service
 
