@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-SELECT SALE DENIM IS AN EXTRA 10% OFF - SHOP NOW!
+Get gifting! Shop new arrivals for everything on their list!
 
 *   Women
 *   Men
@@ -443,6 +443,7 @@ Terms &. Conditions
 *   Accessibility Policy
 *   Buckle Select Terms &. Conditions
 *   Free Weekender Bag
+*   15% Off First Credit Card Purchase
 
 Services
 
@@ -575,4 +576,4 @@ Sign Up for Buckle EmailsClose Email Capture Modal×**Hey You!**
 Want to stay updated on our latest styles and promotions?  
 Sign up for email and let’s make things official.
 
-Email Address Submit EmailFavorite Product Quick ShopClose Quick Shop×<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.
+Email Address Submit Email <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. Favorite Product Quick ShopClose Quick Shop×
