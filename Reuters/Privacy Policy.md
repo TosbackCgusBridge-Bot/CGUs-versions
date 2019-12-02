@@ -29,7 +29,7 @@ Thomson Reuters Legal
     
     Exclusive deals
     
-    **Black Friday Law and ordered** Bring some order to the chaos this Black Friday. Learn more about our never before seen deals on law books. Shop now
+    **Cyber Monday Law and ordered** Shop our Cyber Monday sale for exclusive deals on selected law books. Shop now
 *   SolutionsSolutions Solutions
     
     *   Streamline legal research
