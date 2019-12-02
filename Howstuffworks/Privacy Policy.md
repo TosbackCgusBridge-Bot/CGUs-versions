@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksHow the Articles of Confederation Paved the Way for the U.S. Constitution1STThe Battle of the Big Cats: Maine Coon vs. Norwegian Forest2NDWhat's the Difference Between a Pressure Cooker and an Instant Pot?3RDWhat's the Difference Between Whiskey and Bourbon?4THWorldHistoryMag.com | Sponsored57 Vintage Photos That Took It Way Too FarWorldHistoryMag.com | SponsoredHair Transplant | Search Ads | SponsoredThe Cost of Hair Transplant in Golden Might Surprise YouHair Transplant | Search Ads | SponsoredSenior Living | Search Ads | SponsoredAffordable New Senior Apartments Near Golden Are Turning HeadsSenior Living | Search Ads | SponsoredDownload Now | Digit: Save Automagically | Sponsored1 Suprising Way to Save More MoneyDownload Now | Digit: Save Automagically | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksIf at First You Don't Succeed, Try Tripe Again1STCan You Be Allergic to a Hypoallergenic Dog?2NDHow to Fake a GPS Location on Your Phone3RDThe Battle of the Big Cats: Maine Coon vs. Norwegian Forest4THTrends | Sponsored21 Insanely Cool Gadgets You'll Regret Not Getting Before They Sell OutTrends | SponsoredFar &amp. Wide | SponsoredMost Charming Small Towns in the USAFar &. Wide | SponsoredTop 5 | SponsoredSchool Expels Teen Over Outfit, Regrets It When They See Who Dad IsTop 5 | SponsoredFinancialAdvisorHeroes | SponsoredTake A Look At Who Troy Aikman Is Married To TodayFinancialAdvisorHeroes | Sponsored
 
 Advertisement
 
-lifestyle - foodHere's Why Macadamia Nuts Are So Delicious and So Crazy ExpensiveBY Michelle Konstantinovskylifestyle - foodIf at First You Don't Succeed, Try Tripe AgainBY Kristen Hall-Geislertech - electronicsHow to Fake a GPS Location on Your PhoneBY Nathan ChandlerAmerican Upbeat | SponsoredWhen The Boss Ain't Around, The Fun Goes Down!American Upbeat | SponsoredGladhealthy | Sponsored7 Basic Clean Eating Principles To FollowGladhealthy | Sponsored
+science - innovationThe Ultimate Downsize: Living in a Shipping Container HomeBY Carrie Whitney, Ph.D.home &. garden - lawn &. gardenWhy You Should Stop Raking Fall Leaves, Stat!BY Patty Rasmussenculture - history9 Fascinating Facts About Julius Caesar, 'Dictator for Perpetuity'BY Dave RoosKelley Blue Book | SponsoredThese 2020 Redesigned Cars, Trucks, &. SUVs Are A Must BuyKelley Blue Book | SponsoredTieBreaker | SponsoredNFL Teammates Are Terrified To Even Practice Against HimTieBreaker | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhy Is the North Star So Stellarly Important?Use of the Exclamation Point Has Exploded!What's the Difference? QuizWhy You Should Stop Raking Fall Leaves, Stat!Pangolins: The Gentle, Ant-eating Oddballs of Africa and AsiaThe Pythagorean Theorem Makes Construction and GPS Possibleby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksUse of the Exclamation Point Has Exploded!What’s the Difference Between a College and a University?What's the Difference? QuizWhat's the Difference Between Whiskey and Bourbon?The Ghost of Wild West Gunslinger Tom Horn Still Haunts WyomingDoes Your Brain Get Tired Like the Rest of Your Body?by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. How the Articles of Confederation Paved the Way for the U.S. ConstitutionRead Next StoryWorldHistoryMag.com57 Vintage Photos That Took It Way Too FarWorldHistoryMag.com|SponsoredSponsoredRead Next StorysmartwatchreviewLuxury smartwatch everybody is talking aboutsmartwatchreview|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. If at First You Don't Succeed, Try Tripe AgainRead Next StoryTrends21 Insanely Cool Gadgets You'll Regret Not Getting Before They Sell OutTrends|SponsoredSponsoredRead Next StoryFar &amp. WideMost Charming Small Towns in the USAFar &. Wide|SponsoredSponsoredRead Next Story
