@@ -32,9 +32,9 @@ Lenovo Explore Close
         *   Yoga C940
         *   Chromebook
         
-        Black Friday
+        Cyber Monday
         
-        Shop doorbuster deals on highly rated laptops while they last!
+        Shop doorbuster deals while they last! Save big this holiday season on your favorite laptops for work, home, gaming &. more!
         
     *   Desktops
         
@@ -63,9 +63,9 @@ Lenovo Explore Close
         *   AIO A340/Tab E8 Bundle
         *   AIO 730S/ Tab M10 Bundle
         
-        Black Friday
+        Cyber Monday
         
-        Enjoy doorbuster savings on towers, workstations &. all-in-ones this holiday!
+        Enjoy doorbuster savings on towers, workstations &. all-in-ones for work, home &. gaming!
         
     *   Workstations
         
@@ -91,9 +91,9 @@ Lenovo Explore Close
         *   ThinkStation P330 Tiny
         *   ThinkStation P330 Tower
         
-        Black Friday
+        Cyber Monday
         
-        Shop doorbusters on Lenovo's most powerful machines for business
+        Shop doorbusters on Lenovo's most powerful machines for business and get amazing deals today!
         
     *   Tablets
         
@@ -118,9 +118,9 @@ Lenovo Explore Close
         
         The perfect family entertainment tablet
         
-        Black Friday
+        Cyber Monday
         
-        Enjoy doorbuster deals on tablets for work &. home!
+        Doorbusters are here! Shop amazing deals on laptops, desktops, accessories, monitors and more! While supplies last!
         
     *   Accessories &. Software
         
@@ -180,7 +180,7 @@ Lenovo Explore Close
         *   Sale
         *   Monitor Accessories
         
-        Black Friday
+        Cyber Monday
         
         Shop the best deals of the year on monitors for gaming, work and home!
         
@@ -213,7 +213,7 @@ Lenovo Explore Close
         *   Realspace Gaming Chair
         *   Legion Y740
         
-        Black Friday
+        Cyber Monday
         
         Check off your holiday list &. shop brands like Legion, Xbox, HyperX &. more!
         
@@ -307,9 +307,9 @@ Lenovo Explore Close
         *   Trade In Program
         *   Outlet
         
-        Black Friday
+        Cyber Monday
         
-        Doorbusters are here! Shop amazing deals on laptops, desktops, monitors and more!
+        Doorbusters are here! Shop amazing deals on laptops, desktops, accessories, monitors and more! While supplies last!
         
 *   Phones
 *   Data Center
@@ -609,7 +609,7 @@ Lenovo Explore Close
 1-855-253-6686
 
 *   Search
-
+*   icon-compare0 Compare Compare (0)
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
@@ -680,7 +680,13 @@ Lenovo Explore Close
 
 Top Suggestions
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
+
+Please add at least 2 products for compare
+
+Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
+
+Lenovo Privacy Statement Top
 
 protects better"/>.
 
