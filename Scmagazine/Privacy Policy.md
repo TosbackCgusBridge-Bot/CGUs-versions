@@ -212,17 +212,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   SC Media reveals 2020 SC Awards finalists
-    *   Data breach compromises T-Mobile prepaid accounts
-    *   Hill warns lawmakers not to spread Ukraine election interference narrative pushed by Russia
-    *   Facebook, Twitter ban malicious SDK that removed member info
-    *   Design flaw leaves Bluetooth devices vulnerable
-    
-    *   Open database exposes Magic: the Gathering online player info
+    *   Leaky Gekko Group database exposes info on hotel brands, travelers
+    *   NYPD fingerprint database touched by ransomware
+    *   Senators press federal officials for ISAC funding, national 5G strategy
+    *   Get ahead of the cybersecurity curve
     *   Fin7 behind DiBella’s data breach affecting 305,000 cards
-    *   Former FBI lawyer under criminal probe for altering doc linked to Page surveillance
-    *   Cyberattackers taking auto industry for a ride, FBI reportedly warns
-    *   Using security orchestration to simplify IoT defense in depth
+    
+    *   ACBbackdoor trojan designed to hit Linux and Windows systems
+    *   Open database exposes Magic: the Gathering online player info
+    *   Stolen GateHub and EpicBot credentials spotted on hacking forum
+    *   Louisiana spurns attempted ransomware attack, governor says
+    *   PayMyTab database leaked PII on diners
     
     *   Dexphot malware uses fileless techniques to install cryptominer
     *   Black Friday, Cyber Monday scams are on the loose, businesses need to prepare
