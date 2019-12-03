@@ -36,11 +36,11 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Down vests starting at $24. 50% off everything else!
+Women's and Men's turtlenecks starting at $11. 50% off everything else!
 
-code: CHEERY pin: PROMOTION DETAILS
+code: MONDAY pin: PROMOTION DETAILS
 
-Shop Down Vests Customer Service Menu
+Customer Service Menu
 
 Customer Service
 
