@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   2\. Dezember 2019
+*   3\. Dezember 2019
 *   Abo
-*   DAX 13.236,38ǀ
+*   DAX 12.964,68ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -155,6 +155,7 @@ Anmelden
     *   *   Übersicht
         *   Tests
         *   Fahrkultur
+        *   Verkehrssicherheit im Winter
 *   Stil
     
     *   *   Übersicht
@@ -165,8 +166,8 @@ Anmelden
         *   Hotels
         *   S-Magazin
     
-*   Backstage
 
+*   Backstage
 *   English
     
     *   *   Front Page
@@ -177,7 +178,6 @@ Anmelden
         *   Zeitgeist
         *   Newsletter
 *   SPIEGEL AKADEMIE
-*   SPIEGEL Ed
 *   DER SPIEGEL live
 *   DER SPIEGEL
     
