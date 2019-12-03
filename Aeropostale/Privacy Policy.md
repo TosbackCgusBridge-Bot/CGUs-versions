@@ -506,8 +506,8 @@ ON ORDERS OVER $25 Search Catalog Search CYBER MONDAYEVERYTHING 60-70% OFF \*  
 Shop Girls Cyber Deals Shop Guys Cyber Deals Previous Girls  
 Sweaters WAS $49.50 NOW  $15 .87 Girls Sweaters Guys  
 Shirts WAS $44.50 NOW  $13 .87 Guys Shirts Girls  
-Shirts WAS $49.50 NOW  $11 .87 Girls Shirts Girls  
-Sherpa WAS $49.50 NOW  $13 .87 Girls Sherpa Sleep  
+Shirts WAS $49.50 NOW  $13 .87 Girls Shirts Girls  
+Sherpa WAS $49.50 NOW  $15 .87 Girls Sherpa Sleep  
 Joggers WAS $32.50 NOW  $9 .87 Girls Sleep GIRLS HOODIES  
 &. Sweatshirts WAS $39.50 NOW  $9 .87 Girls Hoodies Girls  
 Jeans WAS $46.50 NOW  $15 .87 Girls Jeans Guys Hoodies  
@@ -515,7 +515,7 @@ Jeans WAS $46.50 NOW  $15 .87 Girls Jeans Guys Hoodies
 Jeans WAS $49.50 NOW  $17 .87 Guys Jeans Girls Joggers  
 &. Sweats WAS $39.50 NOW  $9 .87 Girls Joggers Guys Joggers  
 &. Sweats WAS $39.50 NOW  $14 .87 Guys Joggers Girls  
-Puffer Vests WAS $49.50 NOW  $15 .87 &. UP Girls Puffer Vests Guys Long  
+Puffer Vests WAS $49.50 NOW  $15 .87 Girls Puffer Vests Guys Long  
 Sleeves WAS $34.50 NOW  $11 .87 Guys Long Sleeves Girls Graphic  
 Tees WAS $26.50 NOW  $5 .87 Girls Graphic Guys Puffer  
 Vests WAS $49.50 NOW  $15 .87 Guys Puffer Vests Guys Puffer  
@@ -524,8 +524,8 @@ Sleeves WAS $39.50 NOW  $7 .87 Girls Long Sleeves Guys Graphic
 Tees WAS $26.50 NOW  $5 .87 Guys Graphic Girls  
 Sweaters WAS $49.50 NOW  $15 .87 Girls Sweaters Guys  
 Shirts WAS $44.50 NOW  $13 .87 Guys Shirts Girls  
-Shirts WAS $49.50 NOW  $11 .87 Girls Shirts Girls  
-Sherpa WAS $49.50 NOW  $13 .87 Girls Sherpa Sleep  
+Shirts WAS $49.50 NOW  $13 .87 Girls Shirts Girls  
+Sherpa WAS $49.50 NOW  $15 .87 Girls Sherpa Sleep  
 Joggers WAS $32.50 NOW  $9 .87 Girls Sleep GIRLS HOODIES  
 &. Sweatshirts WAS $39.50 NOW  $9 .87 Girls Hoodies Girls  
 Jeans WAS $46.50 NOW  $15 .87 Girls Jeans Guys Hoodies  
