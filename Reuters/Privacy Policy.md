@@ -27,9 +27,9 @@ Thomson Reuters Legal
     *   Law books
     *   All products
     
-    Exclusive deals
+    Featured
     
-    **Cyber Monday Law and ordered** Shop our Cyber Monday sale for exclusive deals on selected law books. Shop now
+    **Quick Check on Westlaw Edge ** Discover the transformative power of intelligent document analysis. Learn more
 *   SolutionsSolutions Solutions
     
     *   Streamline legal research
