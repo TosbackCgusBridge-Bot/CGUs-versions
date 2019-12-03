@@ -6,25 +6,28 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movies Now Playing
     
     *   Frozen II
+    *   Knives Out
     *   Ford v Ferrari
     *   A Beautiful Day in the Neighborhood
+    *   Queen &. Slim
     *   21 Bridges
-    *   Midway (2019)
     *   Playing with Fire (2019)
-    *   The Good Liar
-    *   Charlie's Angels (2019)
-    *   Last Christmas (2019)
+    *   Midway (2019)
     *   Joker (2019)
+    *   Last Christmas (2019)
     *   Harriet (2019)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Knives Out
-    *   Queen &. Slim
-    *   Almost Home (2019)
-    *   Kind Hearts and Coronets
-    *   Never Surrender: A Galaxy Quest Doc
+    *   Playmobil: The Movie
+    *   Dark Waters (2019)
+    *   The Aeronauts
+    *   Dark Light (2019)
+    *   Midnight Family
+    *   Panipat
+    *   Portrait of a Lady on Fire
+    *   En Brazos De Un Asesino
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -33,8 +36,6 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Coming Soon
     
-    *   Playmobil: The Movie
-    *   The Aeronauts
     *   Black Christmas (2019)
     *   Jumanji: The Next Level
     *   Richard Jewell
@@ -43,6 +44,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Cats (2019)
     *   Spies in Disguise
     *   Little Women (2019)
+    *   Just Mercy
+    *   1917 (2019)
     *   See All Coming Soon
     
     Explore More
@@ -72,7 +75,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   The Week in Movie Trailers: Harrison Ford in ‘The Call of the Wild,’ Another Look at ‘Cats’ and More Read More
     *   The Week in Movie News: ‘Star Trek 4’ Beams Up a New Director, Nicolas Cage to Play Nicolas Cage and More Read More
-    *   Next 3 Major Family Adventures: 'Jumanji: The Next Level,' 'Cats,' 'Spies in Disguise' Read More
+    *   Next 3 Best Picture Contenders: 'Richard Jewell,' '1917,' 'Little Women' Read More
     
     Explore Content
     *   Movie Reviews
@@ -351,7 +354,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   November Celebrity Birthdays
+*   December Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Follow Us
