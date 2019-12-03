@@ -91,7 +91,7 @@
 *   Sale
     View All Categories Shop by Category*   Cyber Monday
 
-1.800.753.8558 Business Gifts Cyber Monday Starts Early! BOGO 50% off gifts $45+ &. free shipping–no minimum!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
+1.800.753.8558 Business Gifts Cyber Monday Is Here! BOGO 50% off gifts $45+ &. free shipping–no minimum!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
 
 *   Gift Baskets
     
@@ -319,4 +319,4 @@ Find A Store
 
 *   Find A Store
 
-© 2019 All Rights Reserved Privacy Policy Terms Of Use Site Map Compliance Play IconFeedback
+© 2019 All Rights Reserved Privacy Policy Terms Of Use Site Map Compliance
