@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Jonathan Turley_: Schiff's Watergate Line Reveals Weak Impeachment Case
+*   _Roger L. Simon_: Desperate Pelosi Hightails It to Warming Conference
     
-*   _Amy Davidson Sorkin_: The Next Steps in the Impeachment Inquiry
+*   _Bob Bauer_: Trump Using Demagogic Playbook for Impeachment Defense
     
-*   _Jason Chaffetz_: FBI Deep State Clear--Will FISA Report Finally Lead to Action?
+*   _Liz Harrington_: House Dems Promised No 'Partisan Pitchforks.' They Lied.
     
-*   _Noah Berlatsky_: Trump's Lies and Cruelty Fueled a Real Resistance
+*   _Mary Anne Marsh_: As First Voting Draws Near, It's Warren vs. Buttigieg
     
-*   _Debra Saunders_: No Way to Treat a First Lady
+*   _Drew Westen_: Bloomberg Could Be the Democrats' Backstop
     
-*   _Alex Shephard_: Michael Bloomberg Should Sell His News Company
+*   _Piers Morgan_: Most Terrorists Don't Change, So Lock Them Up Forever
     
-*   _Ingrid Jacques_: Elizabeth Warren Wrong on Michigan Charters
+*    _Adler &. Judah_: Progressives Need a New Foreign Policy Doctrine
     
-*   _Quinn Slobodian_: 20 Years Later, the Clash of Globalizations Rages On
+*   _Clifford Humphrey_: Chick-fil-A's Tolerance Gamble
     
-*   _Stephen Moore_: Washington Do-Goodism Hurts the Poor Again
+*   _Richard John_: Reckoning With White Supremacy
     
-*   _Peter Bergen_: The London Terrorist Attack Brings Home a Chilling Reality
+*   _Brown &. Steeb_: 'Housing First' Approach Won't Solve Homelessness Crisis
     
-*   _Amil Imani_: Iran on the Brink
+*   _Andrew Biggs_: Aunt Becky and the 'Underpaid Teachers' Myth
     
-*   _Sharmila Chatterjee_: Don't Count out Brick-And-Mortar Stores
+*   _Noah Berlatsky_: Trump's Lies &. Cruelty Have Fueled a Real Resistance
     
-*   _Dan Balz_: The Dem Primary Has Produced Confusion Rather Than Clarity
+*   _Frank Miele_: Is the Democratic Party the Real Cult?
     
-*   _Douglas MacKinnon_: Why Trump Is Going to Be Very Hard to Beat in 2020
+*   _Stephen Collinson_: Dems Escalate Impeachment Bid in End-of-Year Dash
     
-*   _Martin_: How Kamala Harris’s Campaign Unraveled
+*   _Byron York_: The Bad-Faith Impeachment
     
-*   _Peter Navarro_: Impeachment Is Blocking Important Action in Congress
+*   _Spangler_: The Swing Voters Who'll Decide 2020
     
-*   _Ella Nilsen_: Democrats Have Passed Nearly 400 Bills. GOP Is Ignoring Them.
+*   _Liz Peek_: Trump Is Gaining Black Voters. That's Terrible News for Dems
     
-*   _James Freeman_: Is Pelosi Making Mexico Pay for its Trump Deal?
+*   _David Freedlander_: How Bloomberg Could Win. Again.
     
-*   _R. David Harden_: How Trump Accelerates Democratic Dysfunction
+*   _Paul Bledsoe_: Bloomberg Can't Win, But He Could Help Reelect Trump
     
-*   _Robert Reich_: Three Reasons the Impeachment Inquiry Is Essential
+*   _Wayne Allyn Root_: The Democratic Field Is a Hot Mess
     
-*   _E. Donald Elliott_: The House Should Censure Rather Than Impeach
+*   _Leah Litman_: The Guns Case Is About Much More Than Guns
     
-*   _Gordon Chang_: China Adopts Malicious 'Cybersecurity' Rules
+*   _Jed Babbin_: Gun Confiscation Comes to Virginia
     
-*   _Matthew Continetti_: The Broken China Model
+*   _Greta Thunberg_: Why We Strike Again
     
-*   _Sadiq Khan_: Grave Questions After the London Bridge Attack
+*   _Thaddeus McCotter_: The Climate Cult's 'Grave New World'
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Says U.S. Will Impose Metal Tariffs on Brazil and Argentina
+*   Case Signals New Interest in 2nd Amendment by Supreme Court
+*   Kennedy vs. Todd: Both Russia, Ukraine Meddled in 2016 Election
 *   Trump Thanks Troops in Afghanistan, Says Taliban Want a Deal
-*   Trump Signs Bills Backing Hong Kong Protesters, Angering China
-*   Carlson: Are the Obamas Positioning Michelle for a 2020 Run?
 *   Is Growing 2020 Field Cause for Democrats' Concern?
-*   White House to House Dems: No Ukrainians Died Waiting on Aid
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,48 +252,48 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationEconomist/YouGov
-    *   Biden23
-    *   Sanders15
-    *   Warren17
-    *   Buttigieg12
-    *   Harris4
-    *   Yang3
-    *   Bloomberg3
-    *   Klobuchar3
-    *   Booker2
-    *   Steyer1
-    *   Gabbard2
-    *   Castro1
-    *   Bennet0Biden +6
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve43
-    *   Disapprove54Disapprove +11
-*   Direction of CountryReuters/Ipsos
-    *   Right Direction32
-    *   Wrong Track57Wrong Track +25
-*   New Hampshire Democratic Presidential PrimaryWHDH/Emerson
-    *   Buttigieg22
-    *   Sanders26
-    *   Warren14
-    *   Biden14
-    *   Gabbard6
-    *   Yang5
-    *   Steyer3
+*   2020 Democratic Presidential NominationPolitico/Morning Consult
+    *   Biden29
+    *   Sanders20
+    *   Warren15
+    *   Buttigieg9
+    *   Bloomberg5
+    *   Harris5
+    *   Yang4
     *   Klobuchar2
-    *   Harris4
     *   Booker2
-    *   Bullock0
-    *   Castro0
-    *   Patrick0Sanders +4
+    *   Steyer2
+    *   Castro1
+    *   Gabbard2
+    *   Bennet1Biden +9
+*   2020 Democratic Presidential NominationThe Hill/HarrisX
+    *   Biden31
+    *   Sanders15
+    *   Warren10
+    *   Buttigieg9
+    *   Bloomberg6
+    *   Harris2
+    *   Yang2
+    *   Klobuchar2
+    *   Booker1
+    *   Steyer2
+    *   Castro2
+    *   Gabbard0
+    *   Bennet1Biden +16
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve46
+    *   Disapprove53Disapprove +7
+*   Direction of CountryRasmussen Reports
+    *   Right Direction37
+    *   Wrong Track55Wrong Track +18
 
 More Latest Polls In The News
 
-*   Alan Dershowitz: Ukraine Dispute Is About Policy, Not Lawbreaking. If Trump Is Impeached It Will Be Partisan
-*   Klobuchar on Bloomberg: I'm "Never Going To Be Able To Compete With Two Billionaires" On Spending
-*   Top Judiciary Committee Republican Doug Collins: Adam Schiff Will Be My "First And Foremost Witness"
-*   McClintock on Ukraine: Trump Uses "Blunt Talk" Of A Businessman, Not "The Delicate Language Of Diplomacy"
-*   Robert Johnson: "2020 Election Is Trump's To Lose," Democrats Not "Capable Of Beating Trump"
+*   MacCallum to Bloomberg Adviser: Why Did Bloomberg News Decide To Investigate Only Trump And Not Dems?
+*   YouTube CEO Wojcicki: We've Cut The Time Americans Watch "Controversial Content" By 70%
+*   "Financial Times" Editor: "Can't Find" What Article Sen. Kennedy Is Citing About Ukraine Election Interference
+*   Napolitano: "Overwhelming" Evidence Of "Three Or Four Articles" Of Impeachment Against President Trump
+*   GOP Sen. Kennedy vs. Chuck Todd: "Both Russia And Ukraine Meddled In The 2016 Election"
 
 *   Politics
 *   Policy
