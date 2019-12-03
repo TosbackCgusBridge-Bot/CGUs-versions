@@ -1,14 +1,10 @@
-Previous1/4Next
+Previous1/2Next
 
-*   Severe Weather Impacting Areas in Wyoming...More
 *   Severe Weather Impacting Areas in Minnesota...More
-*   Severe Weather Impacting Areas in South Dakota...More
-*   Severe Weather Impacting Areas in North Dakota...More
-*   Severe Weather Impacting Areas in Wyoming...More
+*   Severe Weather Impacting Areas in Wisconsin...More
 *   Severe Weather Impacting Areas in Minnesota...More
-*   Severe Weather Impacting Areas in South Dakota...More
-*   Severe Weather Impacting Areas in North Dakota...More
-*   Severe Weather Impacting Areas in Wyoming...More
+*   Severe Weather Impacting Areas in Wisconsin...More
+*   Severe Weather Impacting Areas in Minnesota...More
 
 Close Skip To Main Content
 
@@ -87,11 +83,11 @@ SearchMenu Close
         _UPS TradeAbility_
     *   Order Supplies
     
-    Explore All Shipping Introducing Flat Rate Shipping from UPS
+    Explore All Shipping UPS Holiday Shipping Schedule
     
-    Choose from 5 flat rate options and 3 shipping speeds to ship anywhere in the U.S. with UPS® Simple Rate.
+    View key dates and useful tips to help plan ahead for a shorter holiday shipping season.
     
-    Learn More
+    See Year-End Holiday Schedule
     
 *   Services Services By Type
     
