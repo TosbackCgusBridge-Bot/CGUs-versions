@@ -166,7 +166,7 @@ Flatware Jewelry
     
     *   Watches
     *   Men's Watches
-    *   Women's WatchesShop Jewelry &. Watches Sales Event >.
+    *   Women's WatchesEstate Jewelry &. Watches >.
 *   Specials
     
     *   Weekly Features
@@ -175,7 +175,7 @@ Flatware Jewelry
     
     *   Dinnerware Sets &. More
     *   Overstocks
-    *   LookbooksShop Black Friday Deals >.
+    *   LookbooksShop Cyber Monday Deals >.
 
 *   Our Story
 *   Services
