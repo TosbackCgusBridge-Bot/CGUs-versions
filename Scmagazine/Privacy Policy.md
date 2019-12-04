@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Leaky Gekko Group database exposes info on hotel brands, travelers
-    *   NYPD fingerprint database touched by ransomware
-    *   Senators press federal officials for ISAC funding, national 5G strategy
-    *   Get ahead of the cybersecurity curve
-    *   Fin7 behind DiBella’s data breach affecting 305,000 cards
-    
-    *   ACBbackdoor trojan designed to hit Linux and Windows systems
-    *   Open database exposes Magic: the Gathering online player info
-    *   Stolen GateHub and EpicBot credentials spotted on hacking forum
-    *   Louisiana spurns attempted ransomware attack, governor says
-    *   PayMyTab database leaked PII on diners
-    
     *   Dexphot malware uses fileless techniques to install cryptominer
-    *   Black Friday, Cyber Monday scams are on the loose, businesses need to prepare
-    *   Fin7 behind DiBella’s data breach affecting 305,000 cards
-    *   Facebook, Twitter ban malicious SDK that removed member info
-    *   Finland agency launches smart device infosec certification program
+    *   Tetris game app used to distribute PyXie Python RAT
+    *   Hill warns lawmakers not to spread Ukraine election interference narrative pushed by Russia
+    *   Cloud Infrastructure IAM Lessons from the Capital One Breach
+    *   Senate Intel Committee probed Ukraine theory, found no evidence to support
+    
+    *   PayMyTab database leaked PII on diners
+    *   Spanish security company Prosegur hit with Ryuk
+    *   Data breach potentially endangers Fairfax, Va. police officers
+    *   Roboto Botnet network building, DDoS not a priority
+    *   Stantinko botnet's monetization strategy shifts to cryptomining
+    
+    *   Church’s hit by cyber chicken thieves
+    *   Senate Intel Committee probed Ukraine theory, found no evidence to support
+    *   Cloud Infrastructure IAM Lessons from the Capital One Breach
+    *   CallerSpy spyware: Possibly the first phase of a targeted attack
+    *   Exploited Android flaw 'StrandHogg' enables phishing overlays, malicious permissions
 
 Back to Top
 
