@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Get gifting! Shop new arrivals for everything on their list!
+Double up on savings! Get an extra 25% off, 33% off, or 50% off!
 
 *   Women
 *   Men
