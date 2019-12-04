@@ -790,19 +790,12 @@ If you are resident in the European Union and you are dissatisfied with how we h
     The SurveyMonkey Privacy Policy applies to our Usabilla users, except where the Privacy Policy specifies a section that is only applicable to our SurveyMonkey survey tool, or information in this section distinguishes our treatment of data and information in the case of Usabilla’s service, in which case this Section takes precedence.
     
     *   Information about Usabilla APIs is provided here.
-        
     *   Information about Usabilla partners is provided here.
-        
     *   We do not delete customer data unless the customer has instructed us to do so. If you request that we delete data within your account or you close your account all data is deleted permanently within 6 months. Customers can also set a data retention periods between 1-36 months after which data is automatically deleted.
-        
     *   A description of the security standards applied to all data and information collected for Usabilla services is available here.
-        
     *   To adjust your preferences and settings around data and information you must be logged into your account and/or can contact Usabilla’s team for assistance.
-        
     *   To exercise your data rights (as described in Section 14 above) you can use the SurveyMonkey contact form (please specify that this is a Usabilla request) or you can contact Usabilla’s team.
-        
     *   For Usabilla Creators and Visitors your data controller continues to be Usabilla B.V.
-        
 *   16.5 Audience/ Contribute _á_
     
     Audience/Contribute Policy
