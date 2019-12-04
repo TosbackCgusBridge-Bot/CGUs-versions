@@ -12,7 +12,6 @@
     *   Martha &. Snoop's Potluck Party Challenge
     *   RuPaul's Drag Race UK
     *   Wild 'N OutSee all Shows
-*   News
 *   App
 *   Watch Live TV
 *   TV Provider Sign Out
@@ -20,7 +19,6 @@
 VH1 MenuVH1
 
 *   ShowsFull EpisodesShows A-ZTV ScheduleBasketball WivesBlack Ink Crew ChicagoBlack Ink Crew New YorkCartel CrewLove &. Hip Hop HollywoodLove &. Hip Hop New YorkMartha &. Snoop's Potluck Party ChallengeRuPaul's Drag Race UKWild 'N Outsee all Shows
-*   News
 *   App
 *   Watch Live TV
 
