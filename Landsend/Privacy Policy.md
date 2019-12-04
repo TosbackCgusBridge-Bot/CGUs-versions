@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Women's and Men's turtlenecks starting at $11. 50% off everything else!
+Fleece hoodies starting at $12. 50% off everything else!
 
-code: MONDAY pin: PROMOTION DETAILS
+code: SLICK pin: PROMOTION DETAILS
 
 Customer Service Menu
 
