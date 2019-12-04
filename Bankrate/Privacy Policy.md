@@ -565,7 +565,7 @@ You have money questions. Bankrate has answers. Our experts have been helping yo
 
 Our tools, rates and advice help no matter where you are on life’s financial journey.
 
-Follow Us
+Facebook logo Twitter logo Follow Us
 
 Bankrate, LLC NMLS ID# 1427381 | NMLS Consumer Access  
 BR Tech Services, Inc NMLS ID# 1743443 | NMLS Consumer Access  
