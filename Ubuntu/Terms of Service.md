@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   What is Kata Containers and why should I care?
 *   Build smart display devices with Mir: fast to production, secure, open-source
 *   Productivity corner: free, versatile office suites in the Snap Store
 *   Ubuntu Server development summary – 26 November 2019
 *   “Ubuntu at scale” roundtable at AWS re:Invent
-*   Design and Web team summary – 22 November 2019
 
 *    ›
