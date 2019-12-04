@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksThe Ghost of Wild West Gunslinger Tom Horn Still Haunts Wyoming1STWhat's the Difference? Quiz2NDIf at First You Don't Succeed, Try Tripe Again3RDWhy You Should Stop Raking Fall Leaves, Stat!4THSoGoodly | SponsoredThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly | SponsoredThe Grizzled | Sponsored\[50 Photos\] A-10 Warthog Facts You May Not KnowThe Grizzled | SponsoredMentertained | SponsoredCosplay Girls That Took It Too Far..Try Not to Gasp When You See #9Mentertained | SponsoredAuto Overload | Sponsored15 Walmart Shoppers Captured These PhotosAuto Overload | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksThe Ultimate Downsize: Living in a Shipping Container Home1STWhat on Earth Were They Talking About? A Quote Quiz2NDWhat's the Difference Between Whiskey and Bourbon?3RDThe Pythagorean Theorem Makes Construction and GPS Possible4THKelley Blue Book | Sponsored56 New and Redesigned Cars, Trucks and SUVsKelley Blue Book | SponsoredBon Voyaged | Sponsored20 Photos Captured At Airports That Will Make You Laugh Out LoudBon Voyaged | SponsoredeWatch | SponsoredDiscover The New High-Quality $99 SmartWatch On Sale In United States NoweWatch | SponsoredFinancialAdvisorHeroes | SponsoredTake A Look At Who Troy Aikman Is Married To TodayFinancialAdvisorHeroes | Sponsored
 
 Advertisement
 
-science - innovationThe Ultimate Downsize: Living in a Shipping Container HomeBY Carrie Whitney, Ph.D.culture - history9 Fascinating Facts About Julius Caesar, 'Dictator for Perpetuity'BY Dave Roosanimals - wild animals9 Big Hairy Facts About GorillasBY Jesslyn ShieldsTop 5 | SponsoredHer Belly Keeps Growing, Doctor Sees Scan And Calls AuthoritiesTop 5 | SponsoredReference | SponsoredMost Peoples Missed The Giant Blooper In This Iconic 'Gilligan's Island' SceneReference | Sponsored
+science - militaryU.S. Military Dogs Usually Outrank Their HandlersBY Nathan Chandlertech - electronicsHow to Fake a GPS Location on Your PhoneBY Nathan Chandleranimals - wild animalsRaccoons Are Super Smart Urban SurvivorsBY Meg SparwathNew Arena | SponsoredArchitects Ranked Every NFL Stadium From Worst To First. No.1 is Guaranteed to Shock YouNew Arena | SponsoredGraduatez | SponsoredAt 89, This Is The Car Clint Eastwood DrivesGraduatez | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorks7 Cool Facts About Will Rogers, Cowboy, Humorist, Self-declared PresidentWhat's the Difference Between a Pressure Cooker and an Instant Pot?Can You Be Allergic to a Hypoallergenic Dog?What's All the Buzz About Manuka Honey? Does Your Brain Get Tired Like the Rest of Your Body?The Curse of Brewing Beer in Your Own Bellyby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhat's the Difference? QuizWhy You Should Stop Raking Fall Leaves, Stat!Do People and Bananas Really Share 50 Percent of the Same DNA?What's the Difference Between a Pressure Cooker and an Instant Pot?What’s the Difference Between a College and a University?Is That Animal Sanctuary You Want to Visit Legit?by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. The Ghost of Wild West Gunslinger Tom Horn Still Haunts WyomingRead Next StorySoGoodlyThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly|SponsoredSponsoredRead Next StoryThe Grizzled\[50 Photos\] A-10 Warthog Facts You May Not KnowThe Grizzled|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. The Ultimate Downsize: Living in a Shipping Container HomeRead Next StoryKelley Blue Book56 New and Redesigned Cars, Trucks and SUVsKelley Blue Book|SponsoredSponsoredRead Next StoryBon Voyaged20 Photos Captured At Airports That Will Make You Laugh Out LoudBon Voyaged|SponsoredSponsoredRead Next Story
