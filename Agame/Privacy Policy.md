@@ -12,24 +12,7 @@ View more results
     
 *   Multiplayer
     
-*   Action
-    
-*   Adventure
-    
-*   Puzzle
-    
-*   Girls
-    
-*   Racing
-    
-*   Sports
-    
-*   More
-    
-*   For you
-    
-
-*   Top Categories
+    Top Categories
     
     *   Social Games
     *   2 player
@@ -57,7 +40,9 @@ View more results
     *   Crystical: 2 Player Puzzle Game
     *   Pyramid Solitaire Duel
     *   Pixel Apocalypse
-*   Top Categories
+*   Action
+    
+    Top Categories
     
     *   Boy Games
     *   3D Games
@@ -89,7 +74,9 @@ View more results
     *   AZ Tank Game
     *   Short Life
     *   Stickman Archer 2
-*   Top Categories
+*   Adventure
+    
+    Top Categories
     
     *   Platform Games
     *   Physics
@@ -121,7 +108,9 @@ View more results
     *   Five Nights at Freddy's 4
     *   Secret Office Kissing
     *   Naruto Online
-*   Top Categories
+*   Puzzle
+    
+    Top Categories
     
     *   Bubble Shooter
     *   Hidden Objects
@@ -153,7 +142,9 @@ View more results
     *   Garden Tales
     *   Jewel Quest
     *   Pyramid Solitaire Duel
-*   Top Categories
+*   Girls
+    
+    Top Categories
     
     *   Dress Up
     *   Animal
@@ -185,7 +176,9 @@ View more results
     *   Eliza's Neon Hairstyle
     *   Love Tester Deluxe 2
     *   Love Tester 3
-*   Top Categories
+*   Racing
+    
+    Top Categories
     
     *   BMX Games
     *   Truck Games
@@ -217,7 +210,9 @@ View more results
     *   Russian Car Driver
     *   Uphill Rush 7: Waterpark
     *   Derby Crash 2
-*   Top Categories
+*   Sports
+    
+    Top Categories
     
     *   Athletics
     *   Basketball
@@ -248,32 +243,43 @@ View more results
     *   Ultimate Boxing
     *   9-Ball: Multiplayer Pool Table Game
     *   Billiards Master Pro
-*   *   Multiplayer
+*   More
+    
+    *   Multiplayer
+        
     *   Action
+        
     *   Adventure
+        
     *   Puzzle
+        
     *   Girls
+        
     *   Racing
+        
     *   Sports
+        
 *   For you
     
-    Recommended Games
-    
-    *   Roblox
-    *   PopTropica
-    *   World of Warships
-    *   Agame Stunt Cars
-    *   Fireboy and Watergirl: The Forest Temple
-    *   Bubble Shooter
-    *   Highway Rider Extreme: Motorbike Game 3D
-    *   Cookie Crush 3
-    *   Extreme Dental Emergency
-    
-    FAVE GAMES
-    
-    Are you an existing user? Then log in to see your favorited games here! Don't have an account yet? Be sure to sign up to use this feature.
-    
-    Join for free
+    *   For you
+        
+        Recommended Games
+        
+        *   Roblox
+        *   PopTropica
+        *   World of Warships
+        *   Agame Stunt Cars
+        *   Fireboy and Watergirl: The Forest Temple
+        *   Bubble Shooter
+        *   Highway Rider Extreme: Motorbike Game 3D
+        *   Cookie Crush 3
+        *   Extreme Dental Emergency
+        
+        FAVE GAMES
+        
+        Are you an existing user? Then log in to see your favorited games here! Don't have an account yet? Be sure to sign up to use this feature.
+        
+        Join for free
 
 privacy policy
 
