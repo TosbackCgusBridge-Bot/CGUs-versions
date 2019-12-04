@@ -89,9 +89,9 @@
     *   Premium Wine Gifts
     *   Office Gift BasketsMost Popular Premium Wine Gifts
 *   Sale
-    View All Categories Shop by Category*   Cyber Monday
+    View All Categories Shop by Category*   Cyber Week
 
-1.800.753.8558 Business Gifts Cyber Monday Is Here! BOGO 50% off gifts $45+ &. free shipping–no minimum!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
+1.800.753.8558 Business Gifts Free shipping on select gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
 
 *   Gift Baskets
     
@@ -184,7 +184,7 @@
     *   Premium Wine Gifts
     *   Office Gift BasketsMost Popular Premium Wine Gifts
 *   Sale
-    View All Categories Shop by Category*   Cyber Monday
+    View All Categories Shop by Category*   Cyber Week
 
 1.800.753.8558 Business Gifts
 
