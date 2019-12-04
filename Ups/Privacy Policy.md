@@ -1,12 +1,4 @@
-Previous1/2Next
-
-*   Severe Weather Impacting Areas in Minnesota...More
-*   Severe Weather Impacting Areas in Wisconsin...More
-*   Severe Weather Impacting Areas in Minnesota...More
-*   Severe Weather Impacting Areas in Wisconsin...More
-*   Severe Weather Impacting Areas in Minnesota...More
-
-Close Skip To Main Content
+Skip To Main Content
 
 *   Log In
 *   Sign Up
