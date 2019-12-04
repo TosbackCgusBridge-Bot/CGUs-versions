@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Roger L. Simon_: Desperate Pelosi Hightails It to Warming Conference
+*   _Samantha Vinograd_: Trump's Not the Only Spoiler at This Year's NATO Summit
     
-*   _Bob Bauer_: Trump Using Demagogic Playbook for Impeachment Defense
+*   _James Carafano_: Why This NATO Meeting Is Already Different
     
-*   _Liz Harrington_: House Dems Promised No 'Partisan Pitchforks.' They Lied.
+*   _Susan Crabtree_: Democrats Gamble on Yuletide Impeachment
     
-*   _Mary Anne Marsh_: As First Voting Draws Near, It's Warren vs. Buttigieg
+*   _Susan Rice_: The Four Lessons of Impeaching Trump
     
-*   _Drew Westen_: Bloomberg Could Be the Democrats' Backstop
+*   _William Smith_: Welcome to the Potemkin Village of Washington Power
     
-*   _Piers Morgan_: Most Terrorists Don't Change, So Lock Them Up Forever
+*   _Ryan Cooper_: The Case for Bernie Sanders
     
-*    _Adler &. Judah_: Progressives Need a New Foreign Policy Doctrine
+*   _Bryan Preston_: Four Pieces of Great News for America and Trump
     
-*   _Clifford Humphrey_: Chick-fil-A's Tolerance Gamble
+*   _Jill Filipovic_: Trump's Attack on Lisa Page Reveals His Misogyny
     
-*   _Richard John_: Reckoning With White Supremacy
+*   _Sara Carter_: Lisa Page Is Not a Victim: Her Actions Damaged the FBI &. America
     
-*   _Brown &. Steeb_: 'Housing First' Approach Won't Solve Homelessness Crisis
+*   _Emily Douglas_: The Politics of Abortion Is Entering a New Era
     
-*   _Andrew Biggs_: Aunt Becky and the 'Underpaid Teachers' Myth
+*   _Emily Jashinsky_: Conservatives Aren't 'Stoking' the Culture War. The Left Is
     
-*   _Noah Berlatsky_: Trump's Lies &. Cruelty Have Fueled a Real Resistance
+*   _Barrett & Demirjian_: Barr Disputes IG Finding About FBI Russia Probe
     
-*   _Frank Miele_: Is the Democratic Party the Real Cult?
+*   _Julie Kelly_: Media Spins Hard as Spotlight Turns to FBI Misconduct
     
-*   _Stephen Collinson_: Dems Escalate Impeachment Bid in End-of-Year Dash
+*   _Molly Jong-Fast_: Lisa Page: 'No Fathomable Way I Have Committed Any Crime'
     
-*   _Byron York_: The Bad-Faith Impeachment
+*   _Philip Wegmann_: Kellyanne Conway, Playing Chicken With Schiff?
     
-*   _Spangler_: The Swing Voters Who'll Decide 2020
+*   _Hemingway &. Severino_: 21 Reasons Not to Believe Ford's Kavanaugh Claims
     
-*   _Liz Peek_: Trump Is Gaining Black Voters. That's Terrible News for Dems
+*   _Robin Wright_: Trump Runs Out of Time for a Diplomatic Deal--Anywhere
     
-*   _David Freedlander_: How Bloomberg Could Win. Again.
+*   _John Solomon_: Trump's Opened Up a Huge Opportunity in Mideast
     
-*   _Paul Bledsoe_: Bloomberg Can't Win, But He Could Help Reelect Trump
+*   _Frida Ghitis_: NATO Is Agreeing Not to Agree in the Age of Trump
     
-*   _Wayne Allyn Root_: The Democratic Field Is a Hot Mess
+*   _Judy Dempsey_: Is NATO Brain-Dead?
     
-*   _Leah Litman_: The Guns Case Is About Much More Than Guns
+*   _Theodore Dalrymple_: Deadly Superstitions in London
     
-*   _Jed Babbin_: Gun Confiscation Comes to Virginia
+*   _David Goldman_: China's Sovereignty Tripwire in Hong Kong
     
-*   _Greta Thunberg_: Why We Strike Again
+*   _Harlan Hill_: Who Will Decide Dems' 2020 Nominee? Nancy Pelosi.
     
-*   _Thaddeus McCotter_: The Climate Cult's 'Grave New World'
+*   _Damon Linker_: Where Are the Real Dem Centrist Candidates?
     
 
 *   Previous
@@ -235,10 +235,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Kellyanne Conway, Playing Chicken With Adam Schiff?
+*   Kemp Expected to Pick Newcomer Kelly Loeffler to Succeed Isakson in Georgia
+*   60 Minutes: Google Removes 300 Trump Ads for "Violating Company Policy"
 *   Trump Says U.S. Will Impose Metal Tariffs on Brazil and Argentina
-*   Case Signals New Interest in 2nd Amendment by Supreme Court
-*   Kennedy vs. Todd: Both Russia, Ukraine Meddled in 2016 Election
-*   Trump Thanks Troops in Afghanistan, Says Taliban Want a Deal
 *   Is Growing 2020 Field Cause for Democrats' Concern?
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -266,6 +266,9 @@ Latest PollsAll Polls
     *   Castro1
     *   Gabbard2
     *   Bennet1Biden +9
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve48
+    *   Disapprove50Disapprove +2
 *   2020 Democratic Presidential NominationThe Hill/HarrisX
     *   Biden31
     *   Sanders15
@@ -280,20 +283,17 @@ Latest PollsAll Polls
     *   Castro2
     *   Gabbard0
     *   Bennet1Biden +16
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove53Disapprove +7
 *   Direction of CountryRasmussen Reports
     *   Right Direction37
     *   Wrong Track55Wrong Track +18
 
 More Latest Polls In The News
 
-*   MacCallum to Bloomberg Adviser: Why Did Bloomberg News Decide To Investigate Only Trump And Not Dems?
-*   YouTube CEO Wojcicki: We've Cut The Time Americans Watch "Controversial Content" By 70%
-*   "Financial Times" Editor: "Can't Find" What Article Sen. Kennedy Is Citing About Ukraine Election Interference
-*   Napolitano: "Overwhelming" Evidence Of "Three Or Four Articles" Of Impeachment Against President Trump
-*   GOP Sen. Kennedy vs. Chuck Todd: "Both Russia And Ukraine Meddled In The 2016 Election"
+*   McCarthy: Adam Schiff Has a Problem With The Truth, He Will "Lie" If That What It Takes To Impeach Trump
+*   Eric Swalwell: Devin Nunes, Not Adam Schiff, Is The Fact Witness, Nunes Is "Just Projecting His Own Guilt"
+*   Limbaugh: Media Hates Trump But Made Their Entire Existence About Him, Will Miss Him When He's Gone
+*   Trump War Room: The Democrats Are Doing Putin's Bidding By Saying Trump Is An Illegitimate President
+*   Ilhan Omar: Impeaching Donald Trump Over Ukraine Scandal Is Like Convicting Al Capone For Tax Evasion
 
 *   Politics
 *   Policy
