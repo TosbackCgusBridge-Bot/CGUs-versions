@@ -32,7 +32,7 @@ Lenovo Explore Close
         *   Yoga C940
         *   Chromebook
         
-        Cyber Monday
+        Cyber Week
         
         Shop doorbuster deals while they last! Save big this holiday season on your favorite laptops for work, home, gaming &. more!
         
@@ -63,7 +63,7 @@ Lenovo Explore Close
         *   AIO A340/Tab E8 Bundle
         *   AIO 730S/ Tab M10 Bundle
         
-        Cyber Monday
+        Cyber Week
         
         Enjoy doorbuster savings on towers, workstations &. all-in-ones for work, home &. gaming!
         
@@ -91,7 +91,7 @@ Lenovo Explore Close
         *   ThinkStation P330 Tiny
         *   ThinkStation P330 Tower
         
-        Cyber Monday
+        Cyber Week
         
         Shop doorbusters on Lenovo's most powerful machines for business and get amazing deals today!
         
@@ -118,7 +118,7 @@ Lenovo Explore Close
         
         The perfect family entertainment tablet
         
-        Cyber Monday
+        Cyber Week
         
         Doorbusters are here! Shop amazing deals on laptops, desktops, accessories, monitors and more! While supplies last!
         
@@ -180,7 +180,7 @@ Lenovo Explore Close
         *   Sale
         *   Monitor Accessories
         
-        Cyber Monday
+        Cyber Week
         
         Shop the best deals of the year on monitors for gaming, work and home!
         
@@ -213,7 +213,7 @@ Lenovo Explore Close
         *   Realspace Gaming Chair
         *   Legion Y740
         
-        Cyber Monday
+        Cyber Week
         
         Check off your holiday list &. shop brands like Legion, Xbox, HyperX &. more!
         
@@ -306,7 +306,7 @@ Lenovo Explore Close
         *   Trade In Program
         *   Outlet
         
-        Cyber Monday
+        Cyber Week
         
         Doorbusters are here! Shop amazing deals on laptops, desktops, accessories, monitors and more! While supplies last!
         
