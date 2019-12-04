@@ -499,7 +499,7 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $25 Search Catalog Search CYBER MONDAYEVERYTHING 60-70% OFF \*  Shop new Online only deals now + free ship on $25 orders!
+ON ORDERS OVER $25 Search Catalog Search CYBER MONDAY CYBER MONDAY EVERYTHING 60-70% OFF \*  Shop new Online only deals now + free ship on $25 orders!
 
 \* Excludes Fragrance
 
@@ -531,7 +531,15 @@ Joggers WAS $32.50 NOW  $9 .87 Girls Sleep GIRLS HOODIES
 Jeans WAS $46.50 NOW  $15 .87 Girls Jeans Guys Hoodies  
 &. Sweatshirts WAS $39.50 NOW  $14 .87 Guys Hoodies Guys  
 Jeans WAS $49.50 NOW  $17 .87 Guys Jeans Girls Joggers  
-&. Sweats WAS $39.50 NOW  $9 .87 Girls Joggers Next SHOW NEW! Online Only Deals Now! 60-70% OFF
+&. Sweats WAS $39.50 NOW  $9 .87 Girls Joggers Next LET'S GET GIVING (TUESDAY)
+
+In honor of giving tuesday, go to your nearest
+
+Aeropostale location and join us in donating over
+
+$200,000 to Best Friends Animal Society
+
+Find a Store SHOW NEW! Online Only Deals Now! 60-70% OFF
 
 Iconic show, snack &. pop culture graphics  
 just waiting to be unwrapped.
