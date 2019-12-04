@@ -1,13 +1,10 @@
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KCPGM7" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Apply Login Apply for MembershipApply Menu
 
-*   Who we are
-*   Benefits
 *   Explorer
-*   Community Values
+*   Travel
+    *   ASW Collection COMING SOON
+    *   ASW Private
 *   Events
-*   Privileges
-*   Our Members
-*   Access ASW Anywhere
 *   Become a member
 
 Login Apply for MembershipApply PRIVACY POLICY
