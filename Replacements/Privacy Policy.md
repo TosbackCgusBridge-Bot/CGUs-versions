@@ -1,4 +1,4 @@
-Skip to main content Free Standard U.S. Shipping on Orders $99 $49+ WITH CODE CY49\*\*\*\* Free Standard U.S. Shipping on Orders $49+ WITH CODE CY49\*\*\*\* 1-800-REPLACE (1-800-737-5223) MENU Open main menu Shopping Cart 0 CART Close main menu Sign In / Create Account Home My Account China - Dinnerware
+Skip to main content Free Standard U.S. Shipping on Orders $99 $69+ WITH CODE 69SHP\*\* Free Standard U.S. Shipping on Orders $69+ WITH CODE 69SHP\*\* 1-800-REPLACE (1-800-737-5223) MENU Open main menu Shopping Cart 0 CART Close main menu Sign In / Create Account Home My Account China - Dinnerware
 
 *   Brands A-Z
 *   Register Your Pattern
@@ -175,7 +175,7 @@ Flatware Jewelry
     
     *   Dinnerware Sets &. More
     *   Overstocks
-    *   LookbooksCyber Monday Deals Extended >.
+    *   LookbooksShop dinnerware overstocks &. more >.
 
 *   Our Story
 *   Services
