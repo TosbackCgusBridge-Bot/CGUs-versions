@@ -9,61 +9,50 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
-    *   Designer Bags, Shoes &. Accessories Up to 55% Off
-    *   Designer Clothing &. Coats Up to 70% Off
-    *   Men's Designer Clothing &. Shoes Up to 60% Off
-    *   Born Up to 50% Off
-    *   Merry &. Bright: Sweaters That Pop from $35
-    *   Storage for Every Room Starting at $20
-    *   Make It Merry: Faux Plants &. Planters
-    *   Chic Home Decor from $20
-    *   Catherine Catherine Malandrino Shoes Up to 50% Off
-    *   Deck Their Drawers: Men's Graphic Tees Under $15
-    *   Panty Packs Under $25
-    *   OnTwelfth &. More from $25
-    *   Set to Sweat: Active Brands We Love
-    *   Molton Brown Bath Soaps &. More
-    *   Edward Bess Cosmetics Starting at $10
-    *   Liza Schwartz Jewelry Up to 60% Off
-    *   XRAY Shoes Up to 75% Off
-    *   Melissa &. Doug
-    *   Free Shipping: Hand-Painted Glass Ornaments
-    *   Florsheim Boys
-    *   Total Dreamz Nightlights
-    *   Tech Accessories Starting at $15
-    *   Schmidt Cutlery Up to 50% Off
-    *   Holiday Gifting: BergHOFF Up to 55% Off
+    *   Daily Deal: Gucci Fragrance Gift Sets from $75
+    *   Daily Deal: Rawlings Bags Up to 65% Off
+    *   Daily Deal: Koolaburra by UGG Boots from $54.97
+    *   Daily Deal: Cole Haan Wedge Pumps at $74.98
+    *   Daily Deal: Weighted Blankets at 60% Off
+    *   Daily Deal: L.O.L. Surprise! Smart Watch at $35.97
+    *   BIRKENSTOCK
+    *   Kendra Scott Jewelry Up to 50% Off
+    *   BIRKENSTOCK Men
+    *   Dresses for Every Occasion Incl. Plus &. Petites
+    *   DR2 by Daniel Rainn &. Pleione Under $45 Incl. Plus
+    *   BIRKENSTOCK Kids
+    *   AG Denim
+    *   Cardi Party: Styles Under $35 Incl. Plus &. Petites
+    *   Care for Your Hair: Products &. Tools
+    *   Handcrafted in Spain: UNOde50 Jewelry
+    *   Tis the Season: Men's Sweaters
+    *   Amrapur Towel Sets &. More from $30
+    *   English Factory &. More
+    *   Jewel Badgley Mischka Up to 60% Off
+    *   Decorative Gnomes from $15
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   Suzy Levian Jewelry Up to 70% Off
+    *   Dress Shirts &. Ties Up to 70% Off
+    *   Preschool Prep Up to 50% Off
+    *   Confetti Accessories &. More Starting at $10
+    *   Tahitian Pearl Jewelry &. More Under $90
     *   Sparkle &. Shine: Party Looks Incl. Plus and Petites
     *   Winter Ready: Jackets, Sweaters &. More Under $30
-    *   Let It Snow: Winter Boots &. Booties from $30
-    *   Twirl into 2020: Party Skirts &. More
-    *   Tahitian Pearl Jewelry &. More Under $90
-    *   La Blanca Swimwear
-    *   Free Shipping: Dreamy Bedding Up to 80% Off
-    *   Erborian Korean Skin Therapy
-    
     *   Perry Ellis Men Under $100
+    
     *   Men's Winter &. Waterproof Boots ft. Sperry
-    *   Carlos by Carlos Santana from $40
     *   Joe-Ella
     *   Extra Special: Pearl Bath Bombs ft. Surprise Inside
     *   Great Gifts for the Home Starting at $10
     *   Stocking Stuffer Gifts: Phone Cases from $10
     *   PUMA Men
-    *   PUMA Men's Active
-    *   Sterling Forever Jewelry Up to 60% Off
-    *   The Gift He Needs: Underwear ft. DKNY
     *   Hair Heroes ft. Frederic Fekkai
     *   On-Trend Table &. Wall Decor
     *   Holiday Dish Towels &. Wine Bags from $10
     *   Londontown Nail Polish Starting at $10
-    *   Holiday Gift Shop: Finds for Baby
-    *   Kids' Stocking Stuffers Under $25
     *   Own Your Spotlight: JOI Mirrors &. More
     *   Charming Christmas Decor Starting at $10
     *   Luxe Skin Care
-    *   PUMA Kids
-    *   Sport Sun from Costa del Mar, Oakley &. More
     *   Free Shipping: 1000-Thread Count Sheet Sets
     *   Terre Mere Organic Beauty Up to 75% Off
     *   Storage Must-Haves from $15
@@ -72,9 +61,6 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Cozy Night In: Blankets &. More Starting at $20
     *   Holiday Decor Best Sellers from $25
     *   Rustic Winter Decor: Lanterns, Candles &. More
-    *   Mirenesse Australia Starting at $10
-    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    
     *   Gifts for the Pet &. Pet Lover from $15
     *   Holiday Entertaining Essentials Starting at $15
     *   Free Shipping: Statement-Making Canvas Wall Art
@@ -84,50 +70,55 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Gift or Get: Smart Watch Bands &. More from $15
     *   Gifts for Her: Candles, Frames &. More
     *   Deck the Halls: Holiday Decor from $15
-    *   Boho-Chic Decor: Throw Pillows Up to 55% Off
-    *   Gifts for the Tech Lover Under $50
-    *   Home Brands We Love ft. UGG &. Kate Spade New York
+    
     *   Playful Prints: Sheet Sets, Duvets &. More from $30
-    *   Boots, Pumps &. More Up to 65% Off
-    *   Vintage Addiction Up to 80% Off
-    *   Men's Blowout
-    *   Sunday Steals: Styles Up to 80% Off
-    *   Savvy Cie: Diamonds, Gems &. More Up to 80% Off
-    *   Parkas &. Puffers Up to 65% Off
-    *   Kids' Outerwear Up to 65% Off
     *   Men's Shoe Steals Up to 70% Off
-    *   Lush Starting at $20
-    *   Tea Collection
-    *   Olivia Welles Jewelry Up to 75% Off
+    *   Make It Merry: Faux Plants &. Planters
+    *   Storage for Every Room Starting at $20
+    *   Chic Home Decor from $20
+    *   Total Dreamz Nightlights
+    *   Catherine Catherine Malandrino Shoes Up to 50% Off
+    *   Edward Bess Cosmetics Starting at $10
+    *   Melissa &. Doug
+    *   Liza Schwartz Jewelry Up to 60% Off
+    *   XRAY Shoes Up to 75% Off
+    *   Florsheim Boys
+    *   Deck Their Drawers: Men's Graphic Tees Under $15
+    *   Schmidt Cutlery Up to 50% Off
     *   Cozy Gifts ft. Sweet Romeo Under $30
-    *   Luxe Looks: Velvet Styles from $20
-    *   Desk to Dinner: Shani &. Focus by Shani Dresses
-    *   Home for The Holidays: Luggage Up to 65% Off
-    *   Sanctuary from $30 Incl. Plus &. Petites
-    *   Leather Weather: Jackets, Bottoms &. More
+    *   Parkas &. Puffers Up to 65% Off
+    *   Tea Collection
+    *   Molton Brown Bath Soaps &. More
+    *   Set to Sweat: Active Brands We Love
+    *   OnTwelfth &. More from $25
+    *   Panty Packs Under $25
+    *   Merry &. Bright: Sweaters That Pop from $35
+    *   Born Up to 50% Off
+    *   Free Shipping: Hand-Painted Glass Ornaments
+    *   Tech Accessories Starting at $15
+    *   Holiday Gifting: BergHOFF Up to 55% Off
+    *   Free Shipping: Dreamy Bedding Up to 80% Off
+    *   Erborian Korean Skin Therapy
 *   WomenShop Sale Events
     
-    *   Designer Bags, Shoes &. Accessories Up to 55% Off
-    *   Designer Clothing &. Coats Up to 70% Off
-    *   Born Up to 50% Off
-    *   Merry &. Bright: Sweaters That Pop from $35
-    *   Catherine Catherine Malandrino Shoes Up to 50% Off
-    *   Panty Packs Under $25
-    *   OnTwelfth &. More from $25
-    *   Set to Sweat: Active Brands We Love
-    *   Molton Brown Bath Soaps &. More
-    *   Edward Bess Cosmetics Starting at $10
-    *   Liza Schwartz Jewelry Up to 60% Off
+    *   Daily Deal: Gucci Fragrance Gift Sets from $75
+    *   Daily Deal: Koolaburra by UGG Boots from $54.97
+    *   Daily Deal: Cole Haan Wedge Pumps at $74.98
+    *   BIRKENSTOCK
+    *   Kendra Scott Jewelry Up to 50% Off
+    *   Dresses for Every Occasion Incl. Plus &. Petites
+    *   DR2 by Daniel Rainn &. Pleione Under $45 Incl. Plus
+    *   Cardi Party: Styles Under $35 Incl. Plus &. Petites
+    *   Care for Your Hair: Products &. Tools
+    *   Handcrafted in Spain: UNOde50 Jewelry
+    *   English Factory &. More
+    *   Jewel Badgley Mischka Up to 60% Off
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   Suzy Levian Jewelry Up to 70% Off
+    *   Tahitian Pearl Jewelry &. More Under $90
     *   Sparkle &. Shine: Party Looks Incl. Plus and Petites
     *   Winter Ready: Jackets, Sweaters &. More Under $30
-    *   Let It Snow: Winter Boots &. Booties from $30
-    *   Twirl into 2020: Party Skirts &. More
-    *   Tahitian Pearl Jewelry &. More Under $90
-    *   La Blanca Swimwear
-    *   Erborian Korean Skin Therapy
-    *   Carlos by Carlos Santana from $40
     *   Extra Special: Pearl Bath Bombs ft. Surprise Inside
-    *   Sterling Forever Jewelry Up to 60% Off
     *   Hair Heroes ft. Frederic Fekkai
     
     *   Londontown Nail Polish Starting at $10
@@ -136,85 +127,76 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Terre Mere Organic Beauty Up to 75% Off
     *   Bold Lips: Lipstick Queen Up to 40% Off
     *   Crystal Beauty Tools Up to 40% Off
-    *   Mirenesse Australia Starting at $10
-    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    *   Boots, Pumps &. More Up to 65% Off
-    *   Vintage Addiction Up to 80% Off
-    *   Sunday Steals: Styles Up to 80% Off
-    *   Savvy Cie: Diamonds, Gems &. More Up to 80% Off
-    *   Parkas &. Puffers Up to 65% Off
-    *   Lush Starting at $20
-    *   Olivia Welles Jewelry Up to 75% Off
+    *   Catherine Catherine Malandrino Shoes Up to 50% Off
+    *   Edward Bess Cosmetics Starting at $10
+    *   Liza Schwartz Jewelry Up to 60% Off
     *   Cozy Gifts ft. Sweet Romeo Under $30
-    *   Luxe Looks: Velvet Styles from $20
-    *   Desk to Dinner: Shani &. Focus by Shani Dresses
-    *   Home for The Holidays: Luggage Up to 65% Off
-    *   Sanctuary from $30 Incl. Plus &. Petites
-    *   Leather Weather: Jackets, Bottoms &. More
+    *   Parkas &. Puffers Up to 65% Off
+    *   Molton Brown Bath Soaps &. More
+    *   Set to Sweat: Active Brands We Love
+    *   OnTwelfth &. More from $25
+    *   Panty Packs Under $25
+    *   Merry &. Bright: Sweaters That Pop from $35
+    *   Born Up to 50% Off
+    *   Erborian Korean Skin Therapy
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
-    *   Handbags
+    *   Shoes
     *   Lingerie &. Shapewear
     *   Watches
     *   Accessories
 *   MenShop Sale Events
     
-    *   Men's Designer Clothing &. Shoes Up to 60% Off
-    *   Deck Their Drawers: Men's Graphic Tees Under $15
-    *   XRAY Shoes Up to 75% Off
+    *   Daily Deal: Rawlings Bags Up to 65% Off
+    *   BIRKENSTOCK Men
+    *   AG Denim
+    *   Tis the Season: Men's Sweaters
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   Dress Shirts &. Ties Up to 70% Off
     *   Perry Ellis Men Under $100
+    
     *   Men's Winter &. Waterproof Boots ft. Sperry
     *   PUMA Men
-    *   PUMA Men's Active
-    
-    *   The Gift He Needs: Underwear ft. DKNY
-    *   Sport Sun from Costa del Mar, Oakley &. More
     *   Gifts for Him: Beer Cap Maps Up to 40% Off
-    *   Men's Blowout
     *   Men's Shoe Steals Up to 70% Off
-    *   Home for The Holidays: Luggage Up to 65% Off
+    *   XRAY Shoes Up to 75% Off
+    *   Deck Their Drawers: Men's Graphic Tees Under $15
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
     *   Watches
 *   KidsShop Sale Events
     
+    *   Daily Deal: L.O.L. Surprise! Smart Watch at $35.97
+    *   BIRKENSTOCK Kids
+    *   Preschool Prep Up to 50% Off
+    *   Confetti Accessories &. More Starting at $10
+    *   Joe-Ella
+    *   Total Dreamz Nightlights
     *   Melissa &. Doug
     *   Florsheim Boys
-    *   Total Dreamz Nightlights
-    *   Joe-Ella
-    *   Holiday Gift Shop: Finds for Baby
-    *   Kids' Stocking Stuffers Under $25
-    *   PUMA Kids
-    *   Kids' Outerwear Up to 65% Off
     *   Tea Collection
     
     Shop By Category
-    *   Toy Shop
     *   Girls' Sizes 2T-6X
-    *   Boys' Sizes 2T-7
-    *   Baby Gear &. Essentials
-    *   Boys' Shoes
+    *   Toy Shop
     *   Girls' Sizes 7-16
-    *   Girls' Shoes
+    *   Boys' Sizes 2T-7
     *   Boys' Sizes 8-20
+    *   Girls' Shoes
+    *   Boys' Shoes
     *   Baby Girl
+    *   Baby Gear &. Essentials
     *   Baby Boy
 *   HomeShop Sale Events
     
-    *   Storage for Every Room Starting at $20
-    *   Make It Merry: Faux Plants &. Planters
-    *   Chic Home Decor from $20
-    *   Free Shipping: Hand-Painted Glass Ornaments
-    *   Tech Accessories Starting at $15
-    *   Schmidt Cutlery Up to 50% Off
-    *   Holiday Gifting: BergHOFF Up to 55% Off
-    *   Free Shipping: Dreamy Bedding Up to 80% Off
+    *   Daily Deal: Weighted Blankets at 60% Off
+    *   Amrapur Towel Sets &. More from $30
+    *   Decorative Gnomes from $15
     *   Great Gifts for the Home Starting at $10
     *   Stocking Stuffer Gifts: Phone Cases from $10
     *   On-Trend Table &. Wall Decor
@@ -222,58 +204,63 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Charming Christmas Decor Starting at $10
     *   Free Shipping: 1000-Thread Count Sheet Sets
     *   Storage Must-Haves from $15
-    
     *   Cozy Night In: Blankets &. More Starting at $20
     *   Holiday Decor Best Sellers from $25
     *   Rustic Winter Decor: Lanterns, Candles &. More
     *   Gifts for the Pet &. Pet Lover from $15
     *   Free Shipping: Statement-Making Canvas Wall Art
+    
     *   Gifts for the Baker Under $50
     *   Bedding Essentials Up to 75% Off
     *   Gifts for Him: Beer Cap Maps Up to 40% Off
     *   Gift or Get: Smart Watch Bands &. More from $15
     *   Gifts for Her: Candles, Frames &. More
     *   Deck the Halls: Holiday Decor from $15
-    *   Boho-Chic Decor: Throw Pillows Up to 55% Off
-    *   Gifts for the Tech Lover Under $50
-    *   Home Brands We Love ft. UGG &. Kate Spade New York
     *   Playful Prints: Sheet Sets, Duvets &. More from $30
+    *   Make It Merry: Faux Plants &. Planters
+    *   Storage for Every Room Starting at $20
+    *   Chic Home Decor from $20
+    *   Schmidt Cutlery Up to 50% Off
+    *   Free Shipping: Hand-Painted Glass Ornaments
+    *   Tech Accessories Starting at $15
+    *   Holiday Gifting: BergHOFF Up to 55% Off
+    *   Free Shipping: Dreamy Bedding Up to 80% Off
     
     Shop By Category
     *   Kitchen &. Tabletop
+    *   Holiday Decorations
     *   Electronic &. Tech Accessories
     *   Home Decor
-    *   Holiday Decorations
     *   Bedding
-    *   Luggage &. Travel
     *   Pet Accessories
     *   Bath
+    *   Luggage &. Travel
     *   Cleaning &. Organization
     *   Outdoor Living
 *   BeautyShop Sale Events
     
-    *   Molton Brown Bath Soaps &. More
-    *   Edward Bess Cosmetics Starting at $10
-    *   Erborian Korean Skin Therapy
+    *   Daily Deal: Gucci Fragrance Gift Sets from $75
+    *   Care for Your Hair: Products &. Tools
     *   Extra Special: Pearl Bath Bombs ft. Surprise Inside
     *   Hair Heroes ft. Frederic Fekkai
     *   Londontown Nail Polish Starting at $10
     *   Own Your Spotlight: JOI Mirrors &. More
-    
     *   Luxe Skin Care
+    
     *   Terre Mere Organic Beauty Up to 75% Off
     *   Bold Lips: Lipstick Queen Up to 40% Off
     *   Crystal Beauty Tools Up to 40% Off
-    *   Mirenesse Australia Starting at $10
-    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
+    *   Edward Bess Cosmetics Starting at $10
+    *   Molton Brown Bath Soaps &. More
+    *   Erborian Korean Skin Therapy
     
     Shop By Category
     *   Makeup
     *   Skin Care
     *   Hair Care
-    *   Fragrance
-    *   Nails
     *   Bath &. Body
+    *   Nails
+    *   Fragrance
     *   Tools &. Accessories
     *   Makeup Bags
 
