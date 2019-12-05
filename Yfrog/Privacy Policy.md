@@ -1,5 +1,15 @@
-Welcome. Create an account and happy uploading. SIGN UP FOR A FREE ACCOUNT ORFACEBOOK LOG IN LOG IN Please verify your email.
+UPGRADE LEARN MORE APPS DISCOVER FEATURED LOG IN LOG IN Keep Me Logged In Forgot Password SIGN UP LOG IN WITH FACEBOOK Your images have never looked better.
 
-You're almost there! We have sent you an activation link. Could you help us out and verify your email to be sure you're human.
+Unlimited uploads. Unlimited space. Safeguard your high-res photos in the cloud.
 
-Having trouble? Contact support. COMPLETE ORSKIP THIS STEP
+START UPLOADING
+
+*   CONTACT
+*   BLOG
+*   JOBS
+*   API
+*   APPLICATIONS
+*   TERMS
+*   ABOUT
+*   FAQ
+*   HELP
