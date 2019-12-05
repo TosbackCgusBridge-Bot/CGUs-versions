@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Samantha Vinograd_: Trump's Not the Only Spoiler at This Year's NATO Summit
+*   _Joschka Fischer_: The Day After NATO
     
-*   _James Carafano_: Why This NATO Meeting Is Already Different
+*   _Dominic Green_: Trump Is Saving NATO--Isn't It Bromantic?
     
-*   _Susan Crabtree_: Democrats Gamble on Yuletide Impeachment
+*   _Ruth Marcus_: Impeachment Feels a Lot Like Kavanaugh 2.0
     
-*   _Susan Rice_: The Four Lessons of Impeaching Trump
+*   _Byron York_: Nunes Sues CNN Over 'Demonstrably False' Ukraine Report
     
-*   _William Smith_: Welcome to the Potemkin Village of Washington Power
+*   _Gabriel DeBenedetti_: Kamala Harris's Long Road to an Early Exit
     
-*   _Ryan Cooper_: The Case for Bernie Sanders
+*   _Danielle Campoamor_: Harris' Failed Campaign Is Bad News for Democrats
     
-*   _Bryan Preston_: Four Pieces of Great News for America and Trump
+*   _Jeanne Mancini_: Will Pro-Abortion Politicians Overreach in Virginia?
     
-*   _Jill Filipovic_: Trump's Attack on Lisa Page Reveals His Misogyny
+*   _Li Zhou_: Why Georgia's Kemp Is Breaking With Trump on Senate Appointment
     
-*   _Sara Carter_: Lisa Page Is Not a Victim: Her Actions Damaged the FBI &. America
+*   _Tucker Carlson_: How Paul Singer, Hedge Funds Are Destroying Main Street
     
-*   _Emily Douglas_: The Politics of Abortion Is Entering a New Era
+*   _Todd_: Impeachment Fight Boils Down to These 4 Questions
     
-*   _Emily Jashinsky_: Conservatives Aren't 'Stoking' the Culture War. The Left Is
+*   _John Nolte_: Chuck Todd's Become a Full-Blown McCarthyite
     
-*   _Barrett & Demirjian_: Barr Disputes IG Finding About FBI Russia Probe
+*   _Michael Goodwin_: Dem Impeachment Report Is Adam Schiff's Latest Dud
     
-*   _Julie Kelly_: Media Spins Hard as Spotlight Turns to FBI Misconduct
+*   _David Faris_: Today Is Most Important Day of Impeachment Inquiry
     
-*   _Molly Jong-Fast_: Lisa Page: 'No Fathomable Way I Have Committed Any Crime'
+*   _Jeremy Stahl_: This Judiciary Committee Hearing Is Going To Be a Disaster
     
-*   _Philip Wegmann_: Kellyanne Conway, Playing Chicken With Schiff?
+*   _Philip Wegmann_: Kamala Harris Goes Down Fighting
     
-*   _Hemingway &. Severino_: 21 Reasons Not to Believe Ford's Kavanaugh Claims
+*   _George Skelton_: Harris Should Have Never Run for President
     
-*   _Robin Wright_: Trump Runs Out of Time for a Diplomatic Deal--Anywhere
+*   _Natasha Korecki &. Marc Caputo_: Biden Struts as His Rivals Bite the Dust
     
-*   _John Solomon_: Trump's Opened Up a Huge Opportunity in Mideast
+*   _Joseph Curl_: Flummoxed Biden Fumfering His Way Out of 2020 Race
     
-*   _Frida Ghitis_: NATO Is Agreeing Not to Agree in the Age of Trump
+*   _David Nather &. Alexi McCammond_: The Steep Odds Against Warren's Big Ideas
     
-*   _Judy Dempsey_: Is NATO Brain-Dead?
+*   _Adrian Norman_: What Trump Needs to Do to Reach Black Americans
     
-*   _Theodore Dalrymple_: Deadly Superstitions in London
+*   _Josh Kraushaar_: Battle for GOP Starts in Georgia
     
-*   _David Goldman_: China's Sovereignty Tripwire in Hong Kong
+*   _Conrad Black_: President Trump's NATO Successes
     
-*   _Harlan Hill_: Who Will Decide Dems' 2020 Nominee? Nancy Pelosi.
+*   _Nicholas Burns_: Trump Violates Diplomacy's Golden Rule
     
-*   _Damon Linker_: Where Are the Real Dem Centrist Candidates?
+*   _Johnson &. Taylor Jr._: Colleges Bristle as DeVos Pushes Protections for Accused
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Kamala Harris Goes Down Fighting
+*   Democrats Gamble on Yuletide Impeachment
+*   Financial Times Editor "Can't Find" Article Sen. Kennedy Cited on Ukraine
+*   Jill Biden on Husband's Ukraine Dealings: Voters "Know It's a Lie"
 *   Kellyanne Conway, Playing Chicken With Adam Schiff?
-*   Kemp Expected to Pick Newcomer Kelly Loeffler to Succeed Isakson in Georgia
-*   60 Minutes: Google Removes 300 Trump Ads for "Violating Company Policy"
-*   Trump Says U.S. Will Impose Metal Tariffs on Brazil and Argentina
-*   Is Growing 2020 Field Cause for Democrats' Concern?
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,48 +252,37 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationPolitico/Morning Consult
-    *   Biden29
-    *   Sanders20
-    *   Warren15
-    *   Buttigieg9
-    *   Bloomberg5
-    *   Harris5
-    *   Yang4
-    *   Klobuchar2
-    *   Booker2
-    *   Steyer2
+*   2020 Democratic Presidential NominationEconomist/YouGov
+    *   Biden27
+    *   Sanders13
+    *   Warren18
+    *   Buttigieg12
+    *   Bloomberg3
+    *   Harris4
+    *   Yang2
+    *   Klobuchar3
+    *   Booker3
     *   Castro1
+    *   Steyer0
     *   Gabbard2
     *   Bennet1Biden +9
+*   President Trump Job ApprovalReuters/Ipsos
+    *   Approve42
+    *   Disapprove54Disapprove +12
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove50Disapprove +2
-*   2020 Democratic Presidential NominationThe Hill/HarrisX
-    *   Biden31
-    *   Sanders15
-    *   Warren10
-    *   Buttigieg9
-    *   Bloomberg6
-    *   Harris2
-    *   Yang2
-    *   Klobuchar2
-    *   Booker1
-    *   Steyer2
-    *   Castro2
-    *   Gabbard0
-    *   Bennet1Biden +16
-*   Direction of CountryRasmussen Reports
-    *   Right Direction37
-    *   Wrong Track55Wrong Track +18
+    *   Approve49
+    *   Disapprove50Disapprove +1
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve46
+    *   Disapprove52Disapprove +6
 
 More Latest Polls In The News
 
-*   McCarthy: Adam Schiff Has a Problem With The Truth, He Will "Lie" If That What It Takes To Impeach Trump
-*   Eric Swalwell: Devin Nunes, Not Adam Schiff, Is The Fact Witness, Nunes Is "Just Projecting His Own Guilt"
-*   Limbaugh: Media Hates Trump But Made Their Entire Existence About Him, Will Miss Him When He's Gone
-*   Trump War Room: The Democrats Are Doing Putin's Bidding By Saying Trump Is An Illegitimate President
-*   Ilhan Omar: Impeaching Donald Trump Over Ukraine Scandal Is Like Convicting Al Capone For Tax Evasion
+*   Turley: This Committee Is Dangerously Close To Establishing A "No Confidence" Standard For Impeachment
+*   Harvard Law Professor Noah Feldman: "Trump Has Committed Impeachable High Crimes And Misdemeanors"
+*   Gaetz Grills Impeachment Witnesses About Past Anti-Trump, Pro-Impeachment Public Comments
+*   Collins On Impeachment: The American People Are Going To See This And Say, "Huh, What Are We Doing?"
+*   Stanford's Pamela Karlan: We Have Never Before Seen A President Double Down On Violating His Oath
 
 *   Politics
 *   Policy
