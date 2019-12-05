@@ -20,7 +20,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Opening This Week = Limited Release
     
-    *   Playmobil: The Movie
+    *   Playmobil: The Movie (2019)
     *   Dark Waters (2019)
     *   The Aeronauts
     *   Dark Light (2019)
