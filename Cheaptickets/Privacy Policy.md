@@ -3,19 +3,18 @@ Skip to main content Welcome to {{domainText}} **Continue to the U.S. site at {{
 Show Menu Hide Menu
 
 *   Shop Travel
-    *   Home
-    *   Vacation Packages
+    *   Flights
     *   Hotels
+    *   Vacation Packages
     *   Cars
     *   Cruises
     *   Vacation Rentals
     *   Event Tickets
     *   Activities
-    *   Flights
     *   DEALS!
     *   Travel Tips
     *   Mobile
-    *   CheapCash
+    
 
 *   List your property
 *   Account
@@ -41,19 +40,17 @@ Show Menu Hide Menu
 
 For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
-*   Home
-*   Vacation Packages
+*   Flights
 *   Hotels
+*   Vacation Packages
 *   Cars
 *   Cruises
 *   Vacation Rentals
 *   Event Tickets
 *   Activities
-*   Flights
 *   DEALS!
 *   Travel Tips
 *   Mobile
-*   CheapCash
 *   More
     *   Cruises
     *   Vacation Rentals
