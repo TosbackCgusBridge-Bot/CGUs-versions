@@ -64,6 +64,7 @@ Close submenu ( Collections ) Collections
 *   New Arrivals
 *   Jeans Guide
 *   Online Only
+*   Hygge Shop
 *   Tribe Of Tees
 *   Basic Essentials
 *   Seriously Soft
@@ -114,6 +115,7 @@ Close submenu ( Collections ) Collections
 *   New Arrivals
 *   Jeans Guide
 *   Online Only
+*   Hygge Shop
 *   Back to Basics
 *   Music + Pop Culture
 *   Active
@@ -292,6 +294,7 @@ Menu Find a Store Aeropostale
         *   New Arrivals
         *   Jeans Guide
         *   Online Only
+        *   Hygge Shop
         *   Tribe Of Tees
         *   Basic Essentials
         *   Seriously Soft
@@ -361,6 +364,7 @@ Menu Find a Store Aeropostale
         *   New Arrivals
         *   Jeans Guide
         *   Online Only
+        *   Hygge Shop
         *   Back to Basics
         *   Music + Pop Culture
         *   Active
