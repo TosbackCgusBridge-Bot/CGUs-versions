@@ -136,7 +136,11 @@ The IoT Trust Framework® includes a set of strategic principles necessary to he
 
 Visit our IoT Trust Framework page and download the full version or Framework Overview.
 
-Read the Framework Learn more about IoT OTA News Deep Dive: A Look at Top Retailers’ Security Practices <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2019/11/Retailers-Security-Practices-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Deep Dive: A Look at Top Retailers&#8217. Security Practices Thumbnail" title="Deep Dive: A Look at Top Retailers&#8217. Security Practices Thumbnail" />. Building Trust 27 November 2019 Deep Dive: A Look at Top Retailers’ Security Practices
+Read the Framework Learn more about IoT OTA News Online Trust Audit for 2020 Presidential Campaigns Update <img width="600" height="600" src="https://www.internetsociety.org/wp-content/uploads/2019/12/joshua-sukoff-5DDYHjk\_KMU-unsplash-600x600.jpg" class="attachment-square size-square wp-post-image" alt="Online Trust Audit for 2020 Presidential Campaigns Update Thumbnail" title="Online Trust Audit for 2020 Presidential Campaigns Update Thumbnail" srcset="https://www.internetsociety.org/wp-content/uploads/2019/12/joshua-sukoff-5DDYHjk\_KMU-unsplash-600x600.jpg 600w, https://www.internetsociety.org/wp-content/uploads/2019/12/joshua-sukoff-5DDYHjk\_KMU-unsplash-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" />. Building Trust 4 December 2019 Online Trust Audit for 2020 Presidential Campaigns Update
+
+On 7 October 2019, the Internet Society’s Online Trust Alliance (OTA) released the Online Trust Audit for 2020 U.S....
+
+Deep Dive: A Look at Top Retailers’ Security Practices <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2019/11/Retailers-Security-Practices-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Deep Dive: A Look at Top Retailers&#8217. Security Practices Thumbnail" title="Deep Dive: A Look at Top Retailers&#8217. Security Practices Thumbnail" />. Building Trust 27 November 2019 Deep Dive: A Look at Top Retailers’ Security Practices
 
 In April 2019 the Internet Society’s Online Trust Audit released its 10th Online Trust Audit and Honor Roll. One...
 
@@ -147,10 +151,6 @@ Today, the Internet Society’s Online Trust Alliance released a new report, the
 OTA’s Trust Audit Scores U.S. Presidential Candidates’ Campaigns, Finds Major Failures in Privacy Statements Press Releases 8 October 2019 OTA’s Trust Audit Scores U.S. Presidential Candidates’ Campaigns, Finds Major Failures in Privacy Statements
 
 Reston, VA. – October 8, 2019 – The Internet Society’s Online Trust Alliance (OTA), which identifies and promotes security and privacy...
-
-Celebrating National Cybersecurity Awareness Month <img width="600" height="552" src="https://www.internetsociety.org/wp-content/uploads/2019/10/Cybersecurity-Awareness-Month-600x552.jpg" class="attachment-square size-square wp-post-image" alt="Celebrating National Cybersecurity Awareness Month Thumbnail" title="Celebrating National Cybersecurity Awareness Month Thumbnail" />. Building Trust 2 October 2019 Celebrating National Cybersecurity Awareness Month
-
-Every October, we mark National Cybersecurity Awareness Month. From the U.S. Department of Homeland Security website, “Held every October,...
 
 Load More Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team <img src="https://www.internetsociety.org/wp-content/uploads/2019/05/Megan-Closer.png" alt="Megan Kruse" title="Megan Kruse" />Megan Kruse photo Megan Kruse
 
