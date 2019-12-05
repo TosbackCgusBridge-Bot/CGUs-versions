@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Fleece hoodies starting at $12. 50% off everything else!
+Receive up to 50% off full-price styles. free shipping, no minimum!
 
-code: SLICK pin: PROMOTION DETAILS
+code: COCOA pin: PROMOTION DETAILS
 
 Customer Service Menu
 
