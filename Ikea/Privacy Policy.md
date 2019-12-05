@@ -8,7 +8,7 @@
 
 Menu IKEA
 
-*   Black Friday Offers
+*   Offers
 *   Products Products Products
     
     *   Furniture
@@ -126,8 +126,8 @@ Menu IKEA
         *   Door mats
         *   Outdoor flooring
         *   Explore Rugs
-    *   Home Textiles
-        *   Home Textiles
+    *   Home textiles
+        *   Home textiles
         *   Bedding
         *   Bathroom textiles
         *   Kids textiles
@@ -139,17 +139,17 @@ Menu IKEA
         *   Kitchen textiles
         *   Outdoor cushions
         *   Table linen
-        *   Explore Home Textiles
-    *   Smart Home
-        *   Smart Home
+        *   Explore Home textiles
+    *   Smart home
+        *   Smart home
         *   Smart home
         *   Speakers
         *   Appliances
         *   Cords &. chargers
         *   Mobile &. tablet accessories
-        *   Explore Smart Home
-    *   Home Décor
-        *   Home Décor
+        *   Explore Smart home
+    *   Home décor
+        *   Home décor
         *   Wall décor
         *   Candle holders &. candles
         *   Decorative accessories
@@ -162,7 +162,7 @@ Menu IKEA
         *   Paper shop
         *   Home fragrance
         *   Plants &. flowers
-        *   Explore Home Décor
+        *   Explore Home décor
     *   Cookware &. tableware
         *   Cookware &. tableware
         *   Dinnerware
@@ -227,8 +227,8 @@ Menu IKEA
         *   Moving supplies
         *   Acoustic panels
         *   Explore Home improvement
-    *   Food &. beverages
-        *   Food &. beverages
+    *   IKEA food &. restaurant
+        *   IKEA food &. restaurant
         *   Beverages
         *   Bread &. dairy
         *   Chocolates &. sweets
@@ -238,7 +238,7 @@ Menu IKEA
         *   Sauces, jam &. condiments
         *   Snacks &. on the go
         *   Vegetables &. side dishes
-        *   Explore Food &. beverages
+        *   Explore IKEA food &. restaurant
     *   Gardening &. plants
         *   Gardening &. plants
         *   Flower pots &. stands
@@ -269,10 +269,6 @@ Menu IKEA
     *   $10 and under
     
     Seasonal
-    *   Black Friday
-        
-    *   Cyber Monday
-        
     *   Holiday Gift Guide
         
     *   Winter Holidays
@@ -304,8 +300,6 @@ Menu IKEA
     *   $10 and under
 *   Seasonal Seasonal
     *   Seasonal
-    *   Black Friday
-    *   Cyber Monday
     *   Holiday Gift Guide
     *   Winter Holidays
     *   Collections
@@ -321,7 +315,7 @@ Menu IKEA
 
 Menu
 
-*   My profile
+*   My Profile
 *   Shopping list
 *   Shopping bag
 
@@ -331,9 +325,11 @@ Search for
 *   categories
 *   content
 
-It seems our links need some grooming. Sorry!
+Oops! Something went wrong :(
 
-This page has vanished. But that doesn't mean you have to.
+The page you are looking for can't be found.
+
+Maybe the links below can be helpful.
 
 Go back to the IKEA homepage
 
