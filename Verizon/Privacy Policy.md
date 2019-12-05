@@ -4,7 +4,7 @@ Infórmate sobre nuestras políticas de privacidad para aplicaciones y servicios
 
 Lee las políticas para las aplicaciones y servicios que utilizas.
 
-Apps and Services Menu Gizmo
+Gizmo
 
 *   Message+
 *   Hum
