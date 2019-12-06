@@ -192,3 +192,5 @@ United States (change)
 *   Wear and Care
 *   Recall &. Safety Info
 *   Cookies &. Ad Choices
+
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1505598476417668&amp;ev=PageView&amp;noscript=1">. <img border="0" src="https://r.turn.com/r/beacon?b2=NQvmdccak\_ulGPxVnkPBUIJenstepJlqH8HRGkjeoCMDqezE-\_S61WGt0QxIudo4cq-TXDExudM02oxqOIkOJQ&amp;cid=">.
