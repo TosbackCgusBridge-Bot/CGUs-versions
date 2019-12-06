@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Joschka Fischer_: The Day After NATO
+*   _Roger Kimball_: Impeachment Really Is a Pathetic Clown Show
     
-*   _Dominic Green_: Trump Is Saving NATO--Isn't It Bromantic?
+*   _Chris Cillizza_: Pelosi Makes History--Trump Is Going to Be Impeached
     
-*   _Ruth Marcus_: Impeachment Feels a Lot Like Kavanaugh 2.0
+*   _Susan Crabtree_: Will Democrats' Next Phase Hit Biden Worst of All?
     
-*   _Byron York_: Nunes Sues CNN Over 'Demonstrably False' Ukraine Report
+*   _Andrew Prokop_: Why House Democrats Are Moving So Fast
     
-*   _Gabriel DeBenedetti_: Kamala Harris's Long Road to an Early Exit
+*   _Linda Moore_: USMCA Offers Trade Reset, Deserves Bipartisan Support
     
-*   _Danielle Campoamor_: Harris' Failed Campaign Is Bad News for Democrats
+*   _Willis Krumholz_: Carlson Is Right About Wall St.'s Indifference to America
     
-*   _Jeanne Mancini_: Will Pro-Abortion Politicians Overreach in Virginia?
+*   _Kara Swisher_: Lessons From the George and Kellyanne Conway Show
     
-*   _Li Zhou_: Why Georgia's Kemp Is Breaking With Trump on Senate Appointment
+*   _Miranda Devine_: Melania Trump Rises Above the Haters
     
-*   _Tucker Carlson_: How Paul Singer, Hedge Funds Are Destroying Main Street
+*   _George Zimmerman_: How the Country Was Deceived About My Case
     
-*   _Todd_: Impeachment Fight Boils Down to These 4 Questions
+*   _Emily Stewart_: Rep. Omar and the Disturbing Truth About Racism in America
     
-*   _John Nolte_: Chuck Todd's Become a Full-Blown McCarthyite
+*   _Maureen Dowd_: My Brother Kevin Dishes on Trump &. the 2020 Field
     
-*   _Michael Goodwin_: Dem Impeachment Report Is Adam Schiff's Latest Dud
+*   _Dan Schnur_: Kamala Harris' Failure Is a Warning for Democrats
     
-*   _David Faris_: Today Is Most Important Day of Impeachment Inquiry
+*   _David Axelrod_: Trump's Base Only, Base Always Strategy Is Risky in 2020
     
-*   _Jeremy Stahl_: This Judiciary Committee Hearing Is Going To Be a Disaster
+*   _Jack Brewer_: Why Trump's Support From African-Americans Is Growing
     
-*   _Philip Wegmann_: Kamala Harris Goes Down Fighting
+*   _Michael Luo_: Republican Party Should Fear the Judgment of History
     
-*   _George Skelton_: Harris Should Have Never Run for President
+*   _Buckner Melton_: The Troubling Weaponization of Impeachment
     
-*   _Natasha Korecki &. Marc Caputo_: Biden Struts as His Rivals Bite the Dust
+*   _Byron York_: Big Concerns Over Schiff's Acquisition of Phone Records
     
-*   _Joseph Curl_: Flummoxed Biden Fumfering His Way Out of 2020 Race
+*   _John Harris_: Donald Trump, You're No Bill Clinton
     
-*   _David Nather &. Alexi McCammond_: The Steep Odds Against Warren's Big Ideas
+*   _John Solomon_: 10 Key Revelations to Expect From the Russia Probe FISA Report
     
-*   _Adrian Norman_: What Trump Needs to Do to Reach Black Americans
+*   _Brendan Flanagan_: Democrats Must Win Back Working-Class Voters
     
-*   _Josh Kraushaar_: Battle for GOP Starts in Georgia
+*   _Francis Menton_: New York Faces a Self-Inflicted Energy Crunch
     
-*   _Conrad Black_: President Trump's NATO Successes
+*   _Rebecca Leber_: Climate Change Is Finally Having a Political Moment
     
-*   _Nicholas Burns_: Trump Violates Diplomacy's Golden Rule
+*   _Williams_: For Real American Greatness, a Tech New Deal
     
-*   _Johnson &. Taylor Jr._: Colleges Bristle as DeVos Pushes Protections for Accused
+*   _Aaron Miller_: Trump's Very Unhappy Trip
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Impeachment's Next Phase Could Hit Biden Worst of All
+*   White House: Adam Schiff Has Wrong OMB Number
+*   Nunes: Why Is AT&T Turning Over Phone Records to Adam Schiff?
+*   Turley Doesn't Like Trump--But Republicans Love Turley
 *   Kamala Harris Goes Down Fighting
-*   Democrats Gamble on Yuletide Impeachment
-*   Financial Times Editor "Can't Find" Article Sen. Kennedy Cited on Ukraine
-*   Jill Biden on Husband's Ukraine Dealings: Voters "Know It's a Lie"
-*   Kellyanne Conway, Playing Chicken With Adam Schiff?
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,6 +252,23 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   California Democratic PrimaryBerkeley IGS
+    *   Warren22
+    *   Biden14
+    *   Sanders24
+    *   Buttigieg12
+    *   Harris7
+    *   Yang3
+    *   Bloomberg2
+    *   Klobuchar3
+    *   Gabbard1
+    *   Booker1
+    *   Steyer1
+    *   Castro1
+    *   Bennet1Sanders +2
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve52
+    *   Disapprove47Approve +5
 *   2020 Democratic Presidential NominationEconomist/YouGov
     *   Biden27
     *   Sanders13
@@ -269,20 +286,14 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalReuters/Ipsos
     *   Approve42
     *   Disapprove54Disapprove +12
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve49
-    *   Disapprove50Disapprove +1
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve46
-    *   Disapprove52Disapprove +6
 
 More Latest Polls In The News
 
-*   Turley: This Committee Is Dangerously Close To Establishing A "No Confidence" Standard For Impeachment
-*   Harvard Law Professor Noah Feldman: "Trump Has Committed Impeachable High Crimes And Misdemeanors"
+*   Pelosi On Confrontation With Journalist James Rosen: "Was That A Reporter? Is That What Reporters Do?"
+*   Biden Gets Fiery In Exchange With Iowa Voter On Ukraine: "You Didn't Hear That On MSNBC," "You're A Damn Liar"
+*   Kellyanne Conway Rages At Impeachment Witness Pamela Karlan: "Who The Hell Are You, Lady?"
+*   Turley: This Committee Is Dangerously Close To Creating A "No Confidence" Standard For Impeachment
 *   Gaetz Grills Impeachment Witnesses About Past Anti-Trump, Pro-Impeachment Public Comments
-*   Collins On Impeachment: The American People Are Going To See This And Say, "Huh, What Are We Doing?"
-*   Stanford's Pamela Karlan: We Have Never Before Seen A President Double Down On Violating His Oath
 
 *   Politics
 *   Policy
