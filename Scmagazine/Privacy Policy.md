@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Dexphot malware uses fileless techniques to install cryptominer
-    *   Japan joins in NATO cyber exercise
-    *   Accelerate your business without compromising security - API security best practices
-    *   Church’s hit by cyber chicken thieves
-    *   NYPD fingerprint database touched by ransomware
-    
-    *   Hill warns lawmakers not to spread Ukraine election interference narrative pushed by Russia
-    *   Japan joins in NATO cyber exercise
-    *   Dexphot malware uses fileless techniques to install cryptominer
-    *   Unsecured server exposes 4 billion records, 1.2 billion people
-    *   Data breach reportedly affects over 20M users of Mixcloud streaming service
-    
-    *   Trojan targeting Facebook Ads Manager could be cyberespionage tool
-    *   As threats dramatically increase, critical infrastructure cybersecurity training must evolve
     *   TikTok transferred user data to China without consent, lawsuit says
-    *   Barr said to dispute Justice IG's finding that FBI had legal basis for Trump campaign probe
+    *   Trojan targeting Facebook Ads Manager could be cyberespionage tool
+    *   Former FBI lawyer under criminal probe for altering doc linked to Page surveillance
     *   Tetris game app used to distribute PyXie Python RAT
+    *   Fin7 behind DiBella’s data breach affecting 305,000 cards
+    
+    *   NYPD fingerprint database touched by ransomware
+    *   Church’s hit by cyber chicken thieves
+    *   Former FBI lawyer under criminal probe for altering doc linked to Page surveillance
+    *   Mozilla patches 11 vulnerabilities in Firefox 71 and ESR 68.3
+    *   Patched WhatsApp vulnerability still impacting thousands of apps
+    
+    *   U.S. charges alleged members of "Evil Corp" cybercrime group for Zeus and Dridex campaigns
+    *   Sprint contractor reportedly stored non-Sprint customers' phone bills on open server
+    *   Data center provider CyrusOne hit with REvil ransomware: Report
+    *   Mozilla patches 11 vulnerabilities in Firefox 71 and ESR 68.3
+    *   Cookie leak allows white-hat researcher to access HackerOne vulnerability reports
 
 Back to Top
 
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
