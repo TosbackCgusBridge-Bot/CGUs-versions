@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksWhat on Earth Were They Talking About? A Quote Quiz1STHow the Ancient Land Blob Gondwana Became Today's Continents2NDHow Bluetooth Works3RDWhat's the Difference Between Whiskey and Bourbon?4THKelley Blue Book | Sponsored56 New and Redesigned Cars, Trucks and SUVsKelley Blue Book | SponsoredSoGoodly | SponsoredThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly | SponsoredAuto Enthusiast | Search Ads | SponsoredShut the Front Door! These Luxury Vehicles Cost Under $50k!Auto Enthusiast | Search Ads | SponsoredTop 5 | SponsoredMom Buys Ornament At Thrift Store, Looks Closer And Drops To Her KneesTop 5 | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksWhat's the Difference Between Whiskey and Bourbon?1STBald Eagles Aren't Really Bald, Plus 6 Other Facts2NDU.S. Military Dogs Usually Outrank Their Handlers3RDGroom of the Stool: A Crappy Job With Royal Benefits4THTrends | Sponsored21 Awesome Gifts Men Actually Want This YearTrends | SponsoredKelley Blue Book | Sponsored10 Most Fun SUVsKelley Blue Book | SponsoredAuto Enthusiast | Search Ads | SponsoredShut the Front Door! These Luxury Vehicles Cost Under $50k!Auto Enthusiast | Search Ads | SponsoredTop 5 | SponsoredHer Belly Keeps Growing, Doctor Sees Scan And Calls AuthoritiesTop 5 | Sponsored
 
 Advertisement
 
-culture - peopleWhat Is a Mandala? (No, Not Nelson. That's Mandela)BY Michelle Konstantinovskyscience - innovationThe Ultimate Downsize: Living in a Shipping Container HomeBY Carrie Whitney, Ph.D.culture - people7 Key Questions in the U.S. Slavery Reparations DebateBY Dave RoosGreeningz | SponsoredRemember Loni Anderson? Try Not To Smile When You See Her NowGreeningz | SponsoredObsev | SponsoredTired Soldier Orders Taco Bell, Stops Cold When He Hears Two Boys Behind HimObsev | Sponsored
+science - innovationThe Ultimate Downsize: Living in a Shipping Container HomeBY Carrie Whitney, Ph.D.culture - historyHumble Hero: Why Neil Armstrong Became the First Man on the MoonBY Dave Roosscience - environmental scienceHow the Ancient Land Blob Gondwana Became Today's ContinentsBY Jesslyn ShieldsWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredTech Watch | SponsoredThe New Budget SmartWatch, Everyone In United States Is Talking AboutTech Watch | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorks9 Fascinating Facts About Julius Caesar, 'Dictator for Perpetuity'How to Protect Your Packages From Porch PiratesU.S. Military Dogs Usually Outrank Their Handlers5 Fun Facts About the Rockefeller Center Christmas TreeHere's Why Macadamia Nuts Are So Delicious and So Crazy ExpensiveWhat Is Sous Vide?by Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksTruffles: The Rarest and Most Expensive Fungi in the WorldWhat’s the Difference Between a College and a University?What's the Difference? Quiz5 Fun Facts About the Rockefeller Center Christmas TreeWhat's the Difference Between a Pressure Cooker and an Instant Pot?The Pythagorean Theorem Makes Construction and GPS Possibleby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. What on Earth Were They Talking About? A Quote QuizRead Next StoryKelley Blue Book56 New and Redesigned Cars, Trucks and SUVsKelley Blue Book|SponsoredSponsoredRead Next StorySoGoodlyThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. What's the Difference Between Whiskey and Bourbon?Read Next StoryTrends21 Awesome Gifts Men Actually Want This YearTrends|SponsoredSponsoredRead Next StoryKelley Blue Book10 Most Fun SUVsKelley Blue Book|SponsoredSponsoredRead Next Story
