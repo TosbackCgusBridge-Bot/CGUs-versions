@@ -212,17 +212,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   TikTok transferred user data to China without consent, lawsuit says
-    *   Trojan targeting Facebook Ads Manager could be cyberespionage tool
-    *   Former FBI lawyer under criminal probe for altering doc linked to Page surveillance
-    *   Tetris game app used to distribute PyXie Python RAT
-    *   Fin7 behind DiBella’s data breach affecting 305,000 cards
-    
-    *   NYPD fingerprint database touched by ransomware
-    *   Church’s hit by cyber chicken thieves
-    *   Former FBI lawyer under criminal probe for altering doc linked to Page surveillance
-    *   Mozilla patches 11 vulnerabilities in Firefox 71 and ESR 68.3
+    *   Data center provider CyrusOne hit with REvil ransomware: Report
+    *   Barr said to dispute Justice IG's finding that FBI had legal basis for Trump campaign probe
+    *   Skimming operation creates fake 3rd-party payment processing page to phish victims
     *   Patched WhatsApp vulnerability still impacting thousands of apps
+    *   OAuth vulnerability threatens Azure accounts
+    
+    *   Open TrueDialog database exposes texts, PII on millions in U.S.
+    *   Fin7 behind DiBella’s data breach affecting 305,000 cards
+    *   Roboto Botnet network building, DDoS not a priority
+    *   Magecart skimmer group guns for Smith &. Wesson's Black Friday sales
+    *   Cyberattackers taking auto industry for a ride, FBI reportedly warns
     
     *   U.S. charges alleged members of "Evil Corp" cybercrime group for Zeus and Dridex campaigns
     *   Sprint contractor reportedly stored non-Sprint customers' phone bills on open server
