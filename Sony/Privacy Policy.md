@@ -122,7 +122,7 @@ Explore PlayStation™ Direct
 
 2019 may be coming to an end, but the savings have just begun 🎉 PlayStation Store’s End of Year Sale hits today with deals up to 67%:  https://play.st/2DEWy8a  pic.twitter.com/i8aKCDXx2o
 
-3 days ago View Tweet Instagram Post B441zGVngMQ
+4 days ago View Tweet Instagram Post B441zGVngMQ
 
 Bring Your Creative Vision
 
