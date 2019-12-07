@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksWhat's the Difference Between Whiskey and Bourbon?1STBald Eagles Aren't Really Bald, Plus 6 Other Facts2NDU.S. Military Dogs Usually Outrank Their Handlers3RDGroom of the Stool: A Crappy Job With Royal Benefits4THTrends | Sponsored21 Awesome Gifts Men Actually Want This YearTrends | SponsoredKelley Blue Book | Sponsored10 Most Fun SUVsKelley Blue Book | SponsoredAuto Enthusiast | Search Ads | SponsoredShut the Front Door! These Luxury Vehicles Cost Under $50k!Auto Enthusiast | Search Ads | SponsoredTop 5 | SponsoredHer Belly Keeps Growing, Doctor Sees Scan And Calls AuthoritiesTop 5 | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksU.S. Military Dogs Usually Outrank Their Handlers1ST7 Key Questions in the U.S. Slavery Reparations Debate2NDExotic or Exploited? The Controversial Savannah Cat3RDWhat's the Difference? Quiz4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredLuxury Cruises | Search Ads | SponsoredYou've Never Seen Luxury Like This On A Cruise Ship. Research Luxury Mediterranean CruisesLuxury Cruises | Search Ads | SponsoredTop 5 | SponsoredHer Belly Keeps Growing, Doctor Sees Scan And Calls AuthoritiesTop 5 | SponsoredBest Of Senior | SponsoredBrad Pitt's Daughter Is Probably The Prettiest Girl AliveBest Of Senior | Sponsored
 
 Advertisement
 
-science - innovationThe Ultimate Downsize: Living in a Shipping Container HomeBY Carrie Whitney, Ph.D.culture - historyHumble Hero: Why Neil Armstrong Became the First Man on the MoonBY Dave Roosscience - environmental scienceHow the Ancient Land Blob Gondwana Became Today's ContinentsBY Jesslyn ShieldsWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredTech Watch | SponsoredThe New Budget SmartWatch, Everyone In United States Is Talking AboutTech Watch | Sponsored
+science - environmental scienceHow the Ancient Land Blob Gondwana Became Today's ContinentsBY Jesslyn Shieldsanimals - petsDo Dogs Have Belly Buttons?BY Meg Sparwathanimals - wild animalsPangolins: The Gentle, Ant-eating Oddballs of Africa and AsiaBY Jesslyn ShieldsPrivate Island Vacations | Search Ads | SponsoredAffordable Private Island Vacations That Are Simply Astonishing!Private Island Vacations | Search Ads | SponsoredAuto Overload | SponsoredWalmart Cameras Captured These Photos (10 Photos)Auto Overload | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksTruffles: The Rarest and Most Expensive Fungi in the WorldWhat’s the Difference Between a College and a University?What's the Difference? Quiz5 Fun Facts About the Rockefeller Center Christmas TreeWhat's the Difference Between a Pressure Cooker and an Instant Pot?The Pythagorean Theorem Makes Construction and GPS Possibleby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhat's the Difference Between Whiskey and Bourbon?How Dangerous Is the Beaver?Three Famous Hypotheses and How They Were TestedTruffles: The Rarest and Most Expensive Fungi in the WorldThe Battle of the Big Cats: Maine Coon vs. Norwegian ForestHumble Hero: Why Neil Armstrong Became the First Man on the Moonby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. What's the Difference Between Whiskey and Bourbon?Read Next StoryTrends21 Awesome Gifts Men Actually Want This YearTrends|SponsoredSponsoredRead Next StoryKelley Blue Book10 Most Fun SUVsKelley Blue Book|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. U.S. Military Dogs Usually Outrank Their HandlersRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StoryLuxury Cruises | Search AdsYou've Never Seen Luxury Like This On A Cruise Ship. Research Luxury Mediterranean CruisesLuxury Cruises | Search Ads|SponsoredSponsoredRead Next Story
