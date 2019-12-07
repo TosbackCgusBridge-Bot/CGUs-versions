@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   Introducing the Ubuntu AWS Rolling Kernel
+*   The State of Robotics – November 2019
+*   Simplifying hardware management during Linux development
 *   Migrating the MAAS UI from AngularJS to React
 *   Web application development with Juju charms: an interview with Marc André Audet from Absolunet
-*   Snapcraft now auto-detects missing dependencies
-*   What is Kata Containers and why should I care?
-*   Build smart display devices with Mir: fast to production, secure, open-source
 
 *    ›
