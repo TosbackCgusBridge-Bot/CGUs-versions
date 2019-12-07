@@ -73,8 +73,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie Trailers: Harrison Ford in ‘The Call of the Wild,’ Another Look at ‘Cats’ and More Read More
-    *   The Week in Movie News: ‘Star Trek 4’ Beams Up a New Director, Nicolas Cage to Play Nicolas Cage and More Read More
+    *   The Week in Movie Trailers: James Bond in ‘No Time to Die,’ Marvel’s ‘Black Widow,’ Disney’s ‘Mulan’ and More Read More
+    *   The Week in Movie News: What’s Next For ‘Honey, I Shrunk the Kids’ and ‘Planet of the Apes’ Franchises and More Read More
     *   Next 3 Best Picture Contenders: 'Richard Jewell,' '1917,' 'Little Women' Read More
     
     Explore Content
