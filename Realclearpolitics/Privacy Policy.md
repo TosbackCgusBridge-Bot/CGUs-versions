@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Roger Kimball_: Impeachment Really Is a Pathetic Clown Show
+*   _Elaine Povich_: What's Really Behind Pelosi's 'Don't Mess With Me'
     
-*   _Chris Cillizza_: Pelosi Makes History--Trump Is Going to Be Impeached
+*   _Mollie Hemingway_: Impeachment Exposes the Dems as Angry Partisans
     
-*   _Susan Crabtree_: Will Democrats' Next Phase Hit Biden Worst of All?
+*   _Jill Lepore_: The Impeachment Hearings and the Coming Storm
     
-*   _Andrew Prokop_: Why House Democrats Are Moving So Fast
+*   _Scott Jennings_: How You Know Trump Is Succeeding in Shaking Up D.C.
     
-*   _Linda Moore_: USMCA Offers Trade Reset, Deserves Bipartisan Support
+*   _Edward-Isaac Dovere_: Harry Reid: The 2020 Democratic Kingmaker?
     
-*   _Willis Krumholz_: Carlson Is Right About Wall St.'s Indifference to America
+*   _Monica Showalter_: Why Biden Melted Down in Exchange With Iowa Voter
     
-*   _Kara Swisher_: Lessons From the George and Kellyanne Conway Show
+*   _Matthew Rozsa_: Joe Biden Has 99 Problems, But Ukraine Ain't One
     
-*   _Miranda Devine_: Melania Trump Rises Above the Haters
+*   _Kelly Shackelford_: The Continued Threat to Religious Liberty Is Undeniable
     
-*   _George Zimmerman_: How the Country Was Deceived About My Case
+*   _Robin Wright_: Could Iran's Regime Unravel Over a Four-Cent Price Hike?
     
-*   _Emily Stewart_: Rep. Omar and the Disturbing Truth About Racism in America
+*   _Helen Raleigh_: Unprecedented Leaks Underscore Discontent Inside China
     
-*   _Maureen Dowd_: My Brother Kevin Dishes on Trump &. the 2020 Field
+*   _Kalev Leetaru_: Trump Dominates TV Landscape. Impeachment Casts Shadow
     
-*   _Dan Schnur_: Kamala Harris' Failure Is a Warning for Democrats
+*   _Jonathan Turley_: Democrats Offering Passion Over Proof in Impeachment
     
-*   _David Axelrod_: Trump's Base Only, Base Always Strategy Is Risky in 2020
+*   _Carolyn Eisenberg_: Go Big in Framing Impeachment Articles Against Trump
     
-*   _Jack Brewer_: Why Trump's Support From African-Americans Is Growing
+*   _Frank Miele_: Speaker Pelosi Declares a Coup Against President Trump
     
-*   _Michael Luo_: Republican Party Should Fear the Judgment of History
+*   _Thompson &. Otterbein_: The Most Consequential Moment of the Dem Primary
     
-*   _Buckner Melton_: The Troubling Weaponization of Impeachment
+*   _Kyle Kondik_: The Democratic Race: Biden 2020 as Romney 2012
     
-*   _Byron York_: Big Concerns Over Schiff's Acquisition of Phone Records
+*   _Dahleen Glanton_: Kamala Never Had a Chance in Trump's America
     
-*   _John Harris_: Donald Trump, You're No Bill Clinton
+*   _Patrick Buchanan_: Dems' Diversity -- Only in the Back of the Bus
     
-*   _John Solomon_: 10 Key Revelations to Expect From the Russia Probe FISA Report
+*   _Andrew Prokop_: Why Democrats Are Moving So Fast on Impeachment
     
-*   _Brendan Flanagan_: Democrats Must Win Back Working-Class Voters
+*   _Howard Kurtz_: Pelosi, Biden Lose Cool as Impeachment Battle Intensifies
     
-*   _Francis Menton_: New York Faces a Self-Inflicted Energy Crunch
+*   _Brian Bennett &. Chris Wilson_: How Trump 2020 Profits From Impeachment
     
-*   _Rebecca Leber_: Climate Change Is Finally Having a Political Moment
+*   _David Harsanyi_: Adam Schiff's Attack on the Free Press
     
-*   _Williams_: For Real American Greatness, a Tech New Deal
+*   _William Saletan_: The GOP’s New Explanation of Why Trump Extorted Ukraine
     
-*   _Aaron Miller_: Trump's Very Unhappy Trip
+*   _Betsy McCaughey_: The Sleazy Facts About Biden and Ukraine
     
 
 *   Previous
@@ -237,7 +237,7 @@ RecommendedPolitics
 
 *   Impeachment's Next Phase Could Hit Biden Worst of All
 *   White House: Adam Schiff Has Wrong OMB Number
-*   Nunes: Why Is AT&T Turning Over Phone Records to Adam Schiff?
+*   Cramer: Best Jobs Numbers I've Seen in My Life, We Can Win China Fight
 *   Turley Doesn't Like Trump--But Republicans Love Turley
 *   Kamala Harris Goes Down Fighting
 *   Presidential Job Approval
@@ -252,6 +252,9 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve51
+    *   Disapprove48Approve +3
 *   California Democratic PrimaryBerkeley IGS
     *   Warren22
     *   Biden14
@@ -266,9 +269,6 @@ Latest PollsAll Polls
     *   Steyer1
     *   Castro1
     *   Bennet1Sanders +2
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve52
-    *   Disapprove47Approve +5
 *   2020 Democratic Presidential NominationEconomist/YouGov
     *   Biden27
     *   Sanders13
@@ -289,11 +289,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Axelrod: Biden Argument With Iowa Voter "Over The Line". Does He Have Discipline To Do The Job At His Age?
+*   Joe Biden: Donald Trump Is "Ripping The Soul Out Of This Country," Next President Likely To Inherit A Recession
+*   Michael Bloomberg Blasts 2020 Democratic Rivals, Joe Biden: "Donald Trump Would Eat Them Up"
 *   Pelosi On Confrontation With Journalist James Rosen: "Was That A Reporter? Is That What Reporters Do?"
 *   Biden Gets Fiery In Exchange With Iowa Voter On Ukraine: "You Didn't Hear That On MSNBC," "You're A Damn Liar"
-*   Kellyanne Conway Rages At Impeachment Witness Pamela Karlan: "Who The Hell Are You, Lady?"
-*   Turley: This Committee Is Dangerously Close To Creating A "No Confidence" Standard For Impeachment
-*   Gaetz Grills Impeachment Witnesses About Past Anti-Trump, Pro-Impeachment Public Comments
 
 *   Politics
 *   Policy
