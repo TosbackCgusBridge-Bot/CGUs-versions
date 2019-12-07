@@ -529,11 +529,11 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $50 Search Catalog Search
+ON ORDERS OVER $25 Search Catalog Search
 
-Free shipping when you spend $50
+Free shipping when you spend $25
 
-Free shipping when you spend $50
+Free shipping when you spend $25
 
 In Stores &. Online
 
@@ -541,8 +541,8 @@ IT'S ALL 50-70% OFF
 
 Including 100s of New Arrivals &. Aero's 12 Days of Gifts!
 
-Day 1: It's a Hygge holiday! Inspired by our friends in  
-Copenhagen. Comfy &. Cozy. Hoodies. Sweats. Candles.
+Day 2: Merry &. bright in bold, cheery colors. Puff up the  
+volume this holiday. Bundle up &. save a bundle.
 
 Details
 
@@ -553,14 +553,14 @@ Including 100s of New Arrivals
 
 Details
 
-Shop Girls New Arrivals Shop Guys New Arrivals Shop Girls Hygge Shop Guys Hygge AERO'S 12 DAYS  
+Shop Girls New Arrivals Shop Guys New Arrivals Shop Girls Puffer Vests $13.87 &. Up Shop Guys Puffer Vests $15.87 &. Up AERO'S 12 DAYS  
 OF GIFTING
 
-Day 1: It's a Hygge holiday! Inspired by our  
-friends in Copenhagen. Comfy &. Cozy.  
-Hoodies &. Sweats. Candles
+Day 2: Merry &. bright in bold, cheery colors.  
+Puff up the volume this holiday.  
+Bundle up &. save a bundle.
 
-Shop Girls Hygge 50-70% Off Shop Guys Hygge 50-70% Off Free $10 AERO CASH CARD
+Shop Girls Puffer Vests $13.87 &. Up Shop Guys Puffer Vests $15.87 &. Up Free $10 AERO CASH CARD
 
 When you buy a $50 Gift Card. In Stores &. Online.
 
