@@ -23,7 +23,7 @@ Shop Departments
     *   Same Day Pickup
     *   Weekly Ad
 
-Near YouFind a StoreBackDay 2 Of MAD DASH DEALSENDS IN23HOURS 41MINS 13SECS \*Offer ends 12/07/19FEELING SO TWINKLYAmazing savings on holiday dress up for the family! select styles
+Near YouFind a StoreBackDay 3 Of MAD DASH DEALSENDS IN23HOURS 40MINS 59SECS \*Offer ends 12/07/19FEELING SO TWINKLYAmazing savings on holiday dress up for the family! select styles
 
 *   WOMEN
 *   MEN
@@ -56,14 +56,14 @@ GIFTS UNDER $15GIFTS UNDER $25GIFTS UNDER $50GIFT CARDS25% OFF NIKE CLOTHING &. 
     
 
 SHOP NOW Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 40 total items loaded in Media GalleryFollow @jcpenney SHOP THE LOCAL LOOKJCPenney is teaming up with fashion and lifestyle influencers to bring you a curatedselection of their top picks. Check back everymonth to see new styles.JOIN IN THE FUN  
-The Countdown to Christmas in on!\*All electronics &. toys excluded from coupons.Recommended for You
+Countdown to Christmas is on!\*All electronics &. toys excluded from coupons.Recommended for You
 
-*   $254 - $1699after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(381)
-*   $2549after couponwas $80 Arizona Womens Denver Wide Calf Block Heel Riding Boots(26)
-*   $2549after couponwas $80 Arizona Womens Dino Riding Boots Block Heel(24)
-*   $2549after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(21)
-*   $1104after couponwas $30 St. John's Bay Super Soft Mens Long Sleeve Flannel Shirt(95)
-*   $2549after couponwas $80 Arizona Womens Susie Booties(9)
+*   $254 - $1699after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(383)
+*   $2549after couponwas $80 Arizona Womens Denver Wide Calf Block Heel Riding Boots(27)
+*   $2549after couponwas $80 Arizona Womens Dino Riding Boots Block Heel(26)
+*   $2549after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(22)
+*   $2549after couponwas $80 Arizona Womens Kasper Flat Heel Slouch Boots(31)
+*   $1104after couponwas $32 St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(59)
 
 Shop and Save at JCPenney
 
