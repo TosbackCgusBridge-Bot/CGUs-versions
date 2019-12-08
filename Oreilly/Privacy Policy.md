@@ -12,11 +12,10 @@
         *   Custom Services
         *   Pricing
     *   Conferences
-        *   Artificial Intelligence Conference
         *   Infrastructure &. Ops Conference
         *   Open Source Software Conference
         *   Software Architecture Conference
-        *   Strata Data Conference
+        *   Strata Data &. AI Conference
         *   TensorFlow World
         *   Velocity Conference
     *   Radar
@@ -387,11 +386,11 @@ Click here for version 3.3
 Upcoming Conferences
 
 *   Software Architecture Feb 23–26, New York
-*   Strata Mar 15–18, San Jose
-*   Artificial Intelligence Mar 15–18, San Jose
-*   Strata Apr 20–23, London
-*   Artificial Intelligence Apr 20–23, London
+*   Strata &. AI Mar 15–18, San Jose
+*   Strata &. AI Apr 20–23, London
 *   Software Architecture Jun 15–18, Santa Clara
+*   Infrastructure &. Ops Jun 15–18, Santa Clara
+*   OSCON Jul 13–16, Portland
 
 The O'Reilly Approach
 
