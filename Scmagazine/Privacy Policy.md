@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Data center provider CyrusOne hit with REvil ransomware: Report
-    *   Barr said to dispute Justice IG's finding that FBI had legal basis for Trump campaign probe
-    *   Skimming operation creates fake 3rd-party payment processing page to phish victims
-    *   Patched WhatsApp vulnerability still impacting thousands of apps
-    *   OAuth vulnerability threatens Azure accounts
-    
-    *   Open TrueDialog database exposes texts, PII on millions in U.S.
-    *   Fin7 behind DiBella’s data breach affecting 305,000 cards
-    *   Roboto Botnet network building, DDoS not a priority
-    *   Magecart skimmer group guns for Smith &. Wesson's Black Friday sales
-    *   Cyberattackers taking auto industry for a ride, FBI reportedly warns
-    
+    *   Same story all over again: Microsoft research finds millions of reused passwords
+    *   Church’s hit by cyber chicken thieves
+    *   Stantinko botnet's monetization strategy shifts to cryptomining
+    *   Target files $74 million suit against Chubb over breach coverage
     *   U.S. charges alleged members of "Evil Corp" cybercrime group for Zeus and Dridex campaigns
-    *   Sprint contractor reportedly stored non-Sprint customers' phone bills on open server
+    
+    *   Law enforcement delivers knockout blow to Imminent Monitor RAT network
+    *   OAuth vulnerability threatens Azure accounts
+    *   Data breach compromises T-Mobile prepaid accounts
+    *   Barr said to dispute Justice IG's finding that FBI had legal basis for Trump campaign probe
+    *   CallerSpy spyware: Possibly the first phase of a targeted attack
+    
+    *   My kingdom for a decryptor! Ransomware creates ticketing snafu for N.J. Shakespeare theater
+    *   Company sued for allegedly hijacking Facebook accounts to serve ads
+    *   Same story all over again: Microsoft research finds millions of reused passwords
+    *   3,000 affected by Fort Worth water utility data breach
     *   Data center provider CyrusOne hit with REvil ransomware: Report
-    *   Mozilla patches 11 vulnerabilities in Firefox 71 and ESR 68.3
-    *   Cookie leak allows white-hat researcher to access HackerOne vulnerability reports
 
 Back to Top
 
