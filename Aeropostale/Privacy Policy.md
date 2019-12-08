@@ -541,8 +541,8 @@ IT'S ALL 50-70% OFF
 
 Including 100s of New Arrivals &. Aero's 12 Days of Gifts!
 
-Day 2: Merry &. bright in bold, cheery colors. Puff up the  
-volume this holiday. Bundle up &. save a bundle.
+Day 3: Premium puffers with colorblocking, camo prints  
+&. sporty details. Game-changing gifts. Top-notch warmth &. style.
 
 Details
 
@@ -556,9 +556,8 @@ Details
 Shop Girls New Arrivals Shop Guys New Arrivals Shop Girls Puffer Vests $13.87 &. Up Shop Guys Puffer Vests $15.87 &. Up AERO'S 12 DAYS  
 OF GIFTING
 
-Day 2: Merry &. bright in bold, cheery colors.  
-Puff up the volume this holiday.  
-Bundle up &. save a bundle.
+Day 3: Premium puffers with colorblocking, camo prints &. sporty details.  
+Game-changing gifts. Top-notch warmth &. style.
 
 Shop Girls Puffer Vests $13.87 &. Up Shop Guys Puffer Vests $15.87 &. Up Free $10 AERO CASH CARD
 
