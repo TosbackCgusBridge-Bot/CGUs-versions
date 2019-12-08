@@ -66,8 +66,8 @@ View more results
     *   Total Front: Army War Game
     *   Apple Shooter: Arrow Game
     *   Combat Reloaded
-    *   Mr. Bullet
     *   Pixel Apocalypse
+    *   Mr. Bullet
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Slither.io
     *   AZ Tank Game
@@ -138,8 +138,8 @@ View more results
     *   TenTrix
     *   Mahjong Connect Classic
     *   Deal or No Deal
-    *   Crystical: 2 Player Puzzle Game
     *   Love Balls
+    *   Crystical: 2 Player Puzzle Game
     *   Garden Tales
     *   Jewel Quest
 *   Girls
@@ -174,8 +174,8 @@ View more results
     *   Burger Restaurant Express
     *   The Princess: Sent to the Future - Dress Up Game
     *   Love Tester 3
-    *   Eliza's Neon Hairstyle
     *   Turkey Cooking Simulator
+    *   Eliza's Neon Hairstyle
 *   Racing
     
     Top Categories
@@ -240,8 +240,8 @@ View more results
     *   8-Ball
     *   Carrom Pool
     *   Ultimate Boxing
-    *   Baseball
     *   Xcross Madness
+    *   Baseball
     *   9-Ball: Multiplayer Pool Table Game
 *   More
     
@@ -460,5 +460,3 @@ Languages
 *   Nederlands
 
 Copyright © 2019 SPIL GAMES All rights reserved.
-
-Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. (e.g IP Address) To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them. Your data may be stored by us and our service providers. In case the applicable data protection laws provide so, you may access, rectify, and erase the data or you may restrict or object to our processing of your data. Please contact us in such event. Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click "ACCEPT" to agree with the above mentioned. You can change your mind and change your consent choices at any time by returning to this site.AcceptSettingsVendor List | Privacy policy | FeaturesA reminder you can control your user privacy preferenceshere
