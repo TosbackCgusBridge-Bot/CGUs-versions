@@ -9,9 +9,34 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
+    *   Free Shipping: BergHOFF Up to 60% Off
+    *   Heels &. More Up to 75% Off
+    *   Valentino by Mario Valentino Up to 60% Off
+    *   Stocking Stuffers: ALEX AND ANI from $15
+    *   Last-Minute Sweater Gifts Under $30
+    *   Sleepwear Up to 70% Off
+    *   Gear Up: NFL Hoodies, Tees &. More Under $40
+    *   Men's Shoe Steals Up to 65% Off
+    *   Kids' Shoes Up to 65% Off
+    *   Natori Up to 65% Off
+    *   MOTHER Up to 60% Off
+    *   Magnanni Shoes &. Belts
+    *   Make an Entrance: Party Outfits, Dresses &. More
+    *   Boho Bags ft. Day &. Mood Up to 50% Off
+    *   Top It Off: Styles Up to 70% Off
+    *   Skechers Active &. More Under $40
+    *   KORKS
+    *   Stocking Stuffers ft. Brouk &. Co
+    *   Charles by Charles David
+    *   Wall Art, Decor &. More from $20
+    *   Peter Millar Up to 60% Off
+    *   Sweaters Under $50
+    *   Baby Gear ft. aden + anais
+    *   Hair Tools We Love Starting at $10
+    *   Mini Must-Haves: Footies, Sets &. More
     *   MAC Cosmetics
-    *   Laundry by Shelli Segal Incl. Plus &. Petites
     *   Original Penguin
+    
     *   LOVE Moschino Bags Up to 50% Off
     *   Nordstrom Rack Exclusives ft. Caslon Incl. Plus
     *   Marc Outerwear &. More Up to 70% Off
@@ -20,80 +45,86 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Free Shipping: Chic Vanity Organizers
     *   Bold Looks ft. KENDALL + KYLIE from $25
     *   Your Go-To Shoes: SUSINA &. More
-    *   It Knits: Sweater Dresses
     *   Holiday Prep: Kitchen Storage &. Gadgets
     *   Avant Skin Care &. More Up to 75% Off
     *   Boots and More from $35 ft. Rock &. Candy
     *   Fresh Finds: Shoes from $30
-    *   Little Luxuries: Intimates Under $20
     *   Liquid IV: Hydration Powder Supplements
-    *   Party-Ready Looks for Kids Up to 55% Off
-    *   Original Penguin Shoes
-    
     *   Boys' Outerwear ft. Urban Republic
+    *   Original Penguin Shoes
     *   Girls' Outerwear ft. Steve Madden
-    *   Cyber Week: Best Brands, Best Deals
-    *   Soiree Season: Dresses ft. Alexia Admor
-    *   BCBGMAXAZRIA
-    *   Winter Style Spotlight: Men's Flannel &. Denim
-    *   Carriere: Silver &. Diamond Jewelry Up to 60% Off
+    *   It Knits: Sweater Dresses
+    *   Luxe Blankets ft. Barefoot Dreams &. More
     *   Holiday Host: Serveware &. More Under $50
     *   Men's Fragrance Under $50
     *   Reserved Footwear Up to 65% Off
     *   Last Chance: Fall Decor from $10
     *   Pretend-Play Toys ft. Little Tikes &. More
     *   Free Shipping: Dreamy Bedding Up to 80% Off
-    *   On-Trend Table &. Wall Decor
-    *   Playful Prints: Sheet Sets, Duvets &. More from $30
-    *   Care for Your Hair: Products &. Tools
-    *   Decorative Gnomes from $15
+    *   Cyber Week: Best Brands, Best Deals
+    *   Tech Gifts Starting at $15
     *   Amrapur Towel Sets &. More from $30
-    *   Make It Merry: Faux Plants &. Planters
-    *   Storage for Every Room Starting at $20
     
+    *   Make It Merry: Faux Plants &. Planters
+    *   Komar Sleep &. More
     *   Chic Home Decor from $20
     *   Free Shipping: Hand-Painted Glass Ornaments
     *   Luxe Holiday Candles ft. Molton Brown &. More
     *   Cozy Holiday Home: Decor Starting at $15
     *   Stocking Stuffers for the Travel Lover
+    *   Soiree Season: Dresses ft. Alexia Admor
     *   Donald Pliner Men
     *   Free Press &. Shimera
+    *   BCBGMAXAZRIA
     *   Cozy Knit Picks: Sweaters Under $30
     *   ECCO Men
     *   Persaman New York Up to 60% Off
     *   Sperry from $40
     *   Perfect to Party In: Pumps, Boots &. More
+    *   Storage for Every Room Starting at $20
     *   Aldo &. Call It Spring from $35
-    *   Tech Gifts Starting at $15
-    *   Luxe Blankets ft. Barefoot Dreams &. More
-    *   Komar Sleep &. More
     *   X by Gottex Active Under $45
     *   Women's Fragrance Under $50
     *   Nostalgia Kitchen Appliances from $30
+    *   Laundry by Shelli Segal Incl. Plus &. Petites
+    *   Little Luxuries: Intimates Under $20
+    *   Party-Ready Looks for Kids Up to 55% Off
+    *   Care for Your Hair: Products &. Tools
+    *   Carriere: Silver &. Diamond Jewelry Up to 60% Off
 *   WomenShop Sale Events
     
+    *   Heels &. More Up to 75% Off
+    *   Valentino by Mario Valentino Up to 60% Off
+    *   Stocking Stuffers: ALEX AND ANI from $15
+    *   Last-Minute Sweater Gifts Under $30
+    *   Sleepwear Up to 70% Off
+    *   Natori Up to 65% Off
+    *   MOTHER Up to 60% Off
+    *   Make an Entrance: Party Outfits, Dresses &. More
+    *   Boho Bags ft. Day &. Mood Up to 50% Off
+    *   Top It Off: Styles Up to 70% Off
+    *   Skechers Active &. More Under $40
+    *   KORKS
+    *   Charles by Charles David
+    *   Hair Tools We Love Starting at $10
     *   MAC Cosmetics
-    *   Laundry by Shelli Segal Incl. Plus &. Petites
     *   LOVE Moschino Bags Up to 50% Off
     *   Nordstrom Rack Exclusives ft. Caslon Incl. Plus
     *   Marc Outerwear &. More Up to 70% Off
     *   Bold Looks ft. KENDALL + KYLIE from $25
     *   Your Go-To Shoes: SUSINA &. More
-    *   It Knits: Sweater Dresses
     *   Avant Skin Care &. More Up to 75% Off
+    
     *   Boots and More from $35 ft. Rock &. Candy
     *   Fresh Finds: Shoes from $30
-    *   Little Luxuries: Intimates Under $20
     *   Liquid IV: Hydration Powder Supplements
-    *   Cyber Week: Best Brands, Best Deals
-    
-    *   Soiree Season: Dresses ft. Alexia Admor
-    *   BCBGMAXAZRIA
-    *   Carriere: Silver &. Diamond Jewelry Up to 60% Off
+    *   It Knits: Sweater Dresses
     *   Men's Fragrance Under $50
-    *   Care for Your Hair: Products &. Tools
+    *   Cyber Week: Best Brands, Best Deals
     *   Stocking Stuffers for the Travel Lover
+    *   Soiree Season: Dresses ft. Alexia Admor
     *   Free Press &. Shimera
+    *   BCBGMAXAZRIA
     *   Cozy Knit Picks: Sweaters Under $30
     *   Persaman New York Up to 60% Off
     *   Sperry from $40
@@ -101,23 +132,33 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Aldo &. Call It Spring from $35
     *   X by Gottex Active Under $45
     *   Women's Fragrance Under $50
+    *   Laundry by Shelli Segal Incl. Plus &. Petites
+    *   Little Luxuries: Intimates Under $20
+    *   Care for Your Hair: Products &. Tools
+    *   Carriere: Silver &. Diamond Jewelry Up to 60% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Handbags
     *   Lingerie &. Shapewear
+    *   Handbags
     *   Jewelry
     *   Accessories
     *   Watches
 *   MenShop Sale Events
     
+    *   Gear Up: NFL Hoodies, Tees &. More Under $40
+    *   Men's Shoe Steals Up to 65% Off
+    *   Magnanni Shoes &. Belts
+    *   Stocking Stuffers ft. Brouk &. Co
+    *   Peter Millar Up to 60% Off
+    *   Sweaters Under $50
     *   Original Penguin
+    
     *   Belstaff Up to 60% Off
     *   Original Penguin Shoes
-    *   Cyber Week: Best Brands, Best Deals
-    *   Winter Style Spotlight: Men's Flannel &. Denim
     *   Reserved Footwear Up to 65% Off
+    *   Cyber Week: Best Brands, Best Deals
     *   Stocking Stuffers for the Travel Lover
     *   Donald Pliner Men
     *   ECCO Men
@@ -129,13 +170,16 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Watches
 *   KidsShop Sale Events
     
-    *   Party-Ready Looks for Kids Up to 55% Off
+    *   Kids' Shoes Up to 65% Off
+    *   Baby Gear ft. aden + anais
+    *   Mini Must-Haves: Footies, Sets &. More
     *   Boys' Outerwear ft. Urban Republic
     *   Girls' Outerwear ft. Steve Madden
-    *   Cyber Week: Best Brands, Best Deals
     *   Pretend-Play Toys ft. Little Tikes &. More
+    *   Cyber Week: Best Brands, Best Deals
     *   Tech Gifts Starting at $15
     *   Komar Sleep &. More
+    *   Party-Ready Looks for Kids Up to 55% Off
     
     Shop By Category
     *   Toy Shop
@@ -145,48 +189,50 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Boys' Sizes 2T-7
     *   Girls' Shoes
     *   Boys' Shoes
-    *   Baby Boy
     *   Baby Girl
+    *   Baby Boy
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Free Shipping: BergHOFF Up to 60% Off
+    *   Wall Art, Decor &. More from $20
     *   Free Shipping: Quilts, Comforters &. More
     *   Free Shipping: Chic Vanity Organizers
     *   Holiday Prep: Kitchen Storage &. Gadgets
-    *   Cyber Week: Best Brands, Best Deals
+    *   Luxe Blankets ft. Barefoot Dreams &. More
     *   Holiday Host: Serveware &. More Under $50
     *   Last Chance: Fall Decor from $10
     *   Free Shipping: Dreamy Bedding Up to 80% Off
-    *   On-Trend Table &. Wall Decor
-    *   Playful Prints: Sheet Sets, Duvets &. More from $30
-    *   Decorative Gnomes from $15
     
+    *   Cyber Week: Best Brands, Best Deals
     *   Amrapur Towel Sets &. More from $30
     *   Make It Merry: Faux Plants &. Planters
-    *   Storage for Every Room Starting at $20
     *   Chic Home Decor from $20
     *   Free Shipping: Hand-Painted Glass Ornaments
     *   Luxe Holiday Candles ft. Molton Brown &. More
     *   Cozy Holiday Home: Decor Starting at $15
-    *   Luxe Blankets ft. Barefoot Dreams &. More
+    *   Storage for Every Room Starting at $20
     *   Nostalgia Kitchen Appliances from $30
     
     Shop By Category
-    *   Bedding
-    *   Holiday Decorations
-    *   Home Decor
-    *   Luggage &. Travel
     *   Kitchen &. Tabletop
+    *   Bedding
+    *   Home Decor
+    *   Holiday Decorations
+    *   Luggage &. Travel
     *   Bath
     *   Electronic &. Tech Accessories
+    *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Hair Tools We Love Starting at $10
     *   MAC Cosmetics
     *   Avant Skin Care &. More Up to 75% Off
     *   Liquid IV: Hydration Powder Supplements
-    *   Cyber Week: Best Brands, Best Deals
     *   Men's Fragrance Under $50
-    *   Care for Your Hair: Products &. Tools
+    *   Cyber Week: Best Brands, Best Deals
     *   Women's Fragrance Under $50
+    *   Care for Your Hair: Products &. Tools
     
     Shop By Category
     *   Hair Care
