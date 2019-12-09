@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Family jeans starting at $26. 50% off everything else!
+60% off flannel shirts, pajamas &. bedding. 50% off everything else!
 
-code: GATHER pin: PROMOTION DETAILS
+code: TOASTY pin: PROMOTION DETAILS
 
 Customer Service Menu
 
