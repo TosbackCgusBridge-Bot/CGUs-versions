@@ -212,17 +212,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
+    *   Japan joins in NATO cyber exercise
+    *   Cyberattackers taking auto industry for a ride, FBI reportedly warns
     *   Same story all over again: Microsoft research finds millions of reused passwords
-    *   Church’s hit by cyber chicken thieves
-    *   Stantinko botnet's monetization strategy shifts to cryptomining
-    *   Target files $74 million suit against Chubb over breach coverage
-    *   U.S. charges alleged members of "Evil Corp" cybercrime group for Zeus and Dridex campaigns
+    *   Sprint contractor reportedly stored non-Sprint customers' phone bills on open server
+    *   Cybersecurity’s top line: Enabling revenue growth and market expansion
     
     *   Law enforcement delivers knockout blow to Imminent Monitor RAT network
-    *   OAuth vulnerability threatens Azure accounts
-    *   Data breach compromises T-Mobile prepaid accounts
-    *   Barr said to dispute Justice IG's finding that FBI had legal basis for Trump campaign probe
-    *   CallerSpy spyware: Possibly the first phase of a targeted attack
+    *   Facebook, Twitter ban malicious SDK that removed member info
+    *   Checkpoint acquires Protego
+    *   Black Friday, Cyber Monday scams are on the loose, businesses need to prepare
+    *   Data breach more than 4X worse than first thought for Montgomery County schools
     
     *   My kingdom for a decryptor! Ransomware creates ticketing snafu for N.J. Shakespeare theater
     *   Company sued for allegedly hijacking Facebook accounts to serve ads
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
