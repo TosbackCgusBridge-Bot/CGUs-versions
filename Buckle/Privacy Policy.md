@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Enjoy up to 75% off select styles this holiday season! Shop Now.
+Get gifting! Shop new arrivals for everything on their list!
 
 *   Women
 *   Men
