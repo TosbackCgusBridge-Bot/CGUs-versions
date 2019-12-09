@@ -70,8 +70,8 @@ View more results
     *   Mr. Bullet
     *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Slither.io
-    *   AZ Tank Game
     *   Deer Hunter
+    *   AZ Tank Game
     *   Miami Crime Simulator 3D
     *   Stickman Archer 2
 *   Adventure
@@ -102,8 +102,8 @@ View more results
     *   Five Nights at Freddy's 2
     *   Miami Crime Simulator 3D
     *   Five Nights at Freddy's 5
-    *   Short Life
     *   Chrome Dino
+    *   Short Life
     *   Fireboy and Watergirl 5: Elements
     *   Secret Office Kissing
     *   Five Nights at Freddy's 4
@@ -136,8 +136,8 @@ View more results
     *   1001 Arabian Nights
     *   Bubble Machine: 2 Player Game
     *   TenTrix
-    *   Mahjong Connect Classic
     *   Deal or No Deal
+    *   Mahjong Connect Classic
     *   Love Balls
     *   Crystical: 2 Player Puzzle Game
     *   Garden Tales
@@ -239,10 +239,10 @@ View more results
     *   Stunt Skateboard 3D
     *   8-Ball
     *   Carrom Pool
-    *   Ultimate Boxing
     *   Xcross Madness
-    *   Baseball
+    *   Ultimate Boxing
     *   9-Ball: Multiplayer Pool Table Game
+    *   Baseball
 *   More
     
     *   Multiplayer
