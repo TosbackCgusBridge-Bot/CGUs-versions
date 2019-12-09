@@ -255,7 +255,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Buy a $50 Gift Card, Get a FREE $10 Cash Card!  GIRLS GUYS** 
+**Extra 20% Off Orders $60 or More. Use Code: GOGREEN**
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -531,35 +531,43 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ON ORDERS OVER $25 Search Catalog Search
 
-Free shipping when you spend $25
+**GET IT ON TIME!** Now Free Shipping on Orders Over $25!
 
-Free shipping when you spend $25
+**GET IT ON TIME!**  
+Now Free Shipping on Orders Over $25!
 
-In Stores &. Online
+Day 4: Remarkable warmth. Exceptional coziness. Exclusive  
+color patterns. Check all the boxes with these cold weather accessories.
 
-IT'S ALL 50-70% OFF
+**MORE GREEN PLEASE! ONLINE ONLY EARLY ACCESS**
 
-Including 100s of New Arrivals &. Aero's 12 Days of Gifts!
+**MORE GREEN PLEASE!  
+ONLINE ONLY EARLY ACCESS**
 
-Day 3: Premium puffers with colorblocking, camo prints  
-&. sporty details. Game-changing gifts. Top-notch warmth &. style.
+EXTRA 20% OFF\* ITEMS ALREADY REDUCED 50-70%
+
+**Yep! Including 100s of New Arrivals**
+
+\*Orders of $60 or More. Use Code GOGREEN
 
 Details
 
-IT'S ALL 50-70% OFF
+EXTRA 20% OFF\* ITEMS ALREADY REDUCED 50-70%
 
-Including 100s of New Arrivals  
-&. Aero's 12 Days of Gifts!
+**Yep! Including 100s of New Arrivals**
+
+\*Orders of $60 or More. Use Code GOGREEN
 
 Details
 
-Shop Girls New Arrivals Shop Guys New Arrivals Shop Girls Puffer Vests $13.87 &. Up Shop Guys Puffer Vests $15.87 &. Up AERO'S 12 DAYS  
+Shop Girls New Arrivals Shop Guys New Arrivals Shop Girls Accessories Shop Guys Accessories AERO'S 12 DAYS  
 OF GIFTING
 
-Day 3: Premium puffers with colorblocking, camo prints &. sporty details.  
-Game-changing gifts. Top-notch warmth &. style.
+Day 4: Remarkable Warmth. Exceptional Coziness.  
+Exclusive Colors &. Patterns. Check all the boxes with  
+these cold-weather accessories
 
-Shop Girls Puffer Vests $13.87 &. Up Shop Guys Puffer Vests $15.87 &. Up Free $10 AERO CASH CARD
+Shop Girls Accessories Shop Guys Accessories Free $10 AERO CASH CARD
 
 When you buy a $50 Gift Card. In Stores &. Online.
 
@@ -621,8 +629,8 @@ Guys Sleeves Next
 **In Stores &. Online.**
 
 Graphic Tees Graphic Tees Our absurdly soft &. stylish tees are  
-great to gift &. get. Girls Graphics $5.87 &. Up  
-Guys Graphics $5.87 &. Up
+great to gift &. get. Girls Graphics $9 &. Up  
+Guys Graphics $10 &. Up
 
 **In Stores &. Online.** So soft and cozy, you’ll want to wear them out (and in).
 
