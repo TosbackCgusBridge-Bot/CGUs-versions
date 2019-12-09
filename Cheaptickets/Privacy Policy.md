@@ -14,7 +14,6 @@ Show Menu Hide Menu
     *   DEALS!
     *   Travel Tips
     *   Mobile
-    
 
 *   List your property
 *   Account
