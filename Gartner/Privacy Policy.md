@@ -30,7 +30,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   High Tech &. Telecom
     *   Investment Services
     
-    Insights
+    Insights By Function
     
     *   Audit &. Risk
     *   Communications
@@ -44,6 +44,13 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   Product Management
     *   Sales
     *   Supply Chain
+    
+    Featured Insights
+    
+    *   Cost Optimization
+    *   Executive Guidance
+    *   Strategic Planning
+    *   Top Insights
     
     What We Do
     
@@ -89,7 +96,8 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   Retail
     *   High Tech &. Telecom
     *   Investment Services
-*   Insights
+*   Insights By Function
+    
     *   Audit &. Risk
     *   Communications
     *   Customer Service &. Support
@@ -102,6 +110,12 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   Product Management
     *   Sales
     *   Supply Chain
+    
+    Featured Insights
+    *   Cost Optimization
+    *   Executive Guidance
+    *   Strategic Planning
+    *   Top Insights
 *   What We Do
     *   Research
     *   Conferences
