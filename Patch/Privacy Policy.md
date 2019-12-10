@@ -279,7 +279,9 @@ Complaint Process
 
 If you have any concerns regarding how we are handling your Personal Information, please contact us. We will endeavour to deal with your concerns promptly. If you wish to complain about the handling of your Personal Information outside of Patch, you have the right to raise a complaint with a supervisory authority in your country of residence if applicable under European Data Privacy Laws.
 
-Patches Across Our Network
+Find out what's happening in your  
+community on the Patch appStay up to date on crime and safety  
+with the Neighbors app by Ring Patches Across Our Network
 
 *   Banning, CA
 *   Livermore, CA
