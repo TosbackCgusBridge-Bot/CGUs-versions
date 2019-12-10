@@ -8,12 +8,12 @@ Invalid Zip Code. To connect with Subaru of Hawaii, please click here.
 
 or Use my current location Your Subaru Retailer Subaru Retailers Near You More Subaru Retailers
 
-*   Money Subaru (89 Miles)
-*   DuTeau Subaru (116 Miles)
-*   Baxter Subaru (158 Miles)
-*   Briggs Subaru of Topeka (164 Miles)
-*   Beardmore Subaru (165 Miles)
-*   Subaru of Wichita (167 Miles)
+*   Schomp Subaru (7 Miles)
+*   Groove Subaru (8 Miles)
+*   Mike Shaw Subaru (9 Miles)
+*   AutoNation Subaru West (10 Miles)
+*   AutoNation Subaru Arapahoe (12 Miles)
+*   Flatirons Subaru (21 Miles)
 
 Submit
 
@@ -439,8 +439,6 @@ Legal Disclaimers
 \*\* EPA-estimated fuel economy. Actual mileage may vary. For Crosstrek Hybrid, EPA-estimated MPG equivalent on a full battery charge. Actual mileage will vary.
 
 \*\*\*Limited warranties are contingent on age and mileage. Whatever comes first concludes the warranty.
-
-^ Now through January 2, 2020 get 0.9% APR Financing on all new 2020 non-turbo Outback Models.  Inventory may be limited.  No down payment required.  Offer may vary by location. Other rates and payment terms available. Cannot be combined with any other incentive. Financing for well-qualified applicants only. Length of contract is limited. Subject to credit approval, vehicle insurance approval and vehicle availability. See participating retailers for details. Must take delivery from retailer stock by January 2, 2020.
 
 Subaru has the utmost respect for the environment and is a proud partner of Leave No Trace. Care was taken not to harm the environment when taking this photo.
 
