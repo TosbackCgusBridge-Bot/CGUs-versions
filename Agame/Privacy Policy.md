@@ -66,13 +66,13 @@ View more results
     *   Total Front: Army War Game
     *   Apple Shooter: Arrow Game
     *   Combat Reloaded
-    *   Pixel Apocalypse
     *   Mr. Bullet
-    *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
-    *   Slither.io
+    *   Pixel Apocalypse
     *   Deer Hunter
-    *   AZ Tank Game
+    *   Slither.io
+    *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
     *   Miami Crime Simulator 3D
+    *   AZ Tank Game
     *   Stickman Archer 2
 *   Adventure
     
@@ -98,16 +98,16 @@ View more results
     Best Games
     *   Five Nights at Freddy's
     *   World Craft 2
-    *   Boeing Flight Simulator
     *   Five Nights at Freddy's 2
     *   Miami Crime Simulator 3D
     *   Five Nights at Freddy's 5
     *   Chrome Dino
-    *   Short Life
     *   Fireboy and Watergirl 5: Elements
-    *   Secret Office Kissing
     *   Five Nights at Freddy's 4
     *   Naruto Online
+    *   Bob the Robber 4: Season 2 Russia
+    *   Trap Adventure 2
+    *   Five Nights at Freddy's: Ultimate
 *   Puzzle
     
     Top Categories
@@ -136,9 +136,9 @@ View more results
     *   1001 Arabian Nights
     *   Bubble Machine: 2 Player Game
     *   TenTrix
-    *   Deal or No Deal
     *   Mahjong Connect Classic
     *   Love Balls
+    *   Deal or No Deal
     *   Crystical: 2 Player Puzzle Game
     *   Garden Tales
     *   Jewel Quest
