@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted Links7 Key Questions in the U.S. Slavery Reparations Debate1STHow Dangerous Is the Beaver?2NDU.S. Military Dogs Usually Outrank Their Handlers3RDWhat's the Difference Between Whiskey and Bourbon?4THTrends | Sponsored21 Insanely Cool Gifts That Are Going To Sell Out Before ChristmasTrends | SponsoredSoGoodly | SponsoredThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly | SponsoredAuto Overload | SponsoredWalmart Cameras Captured These Photos (10 Photos)Auto Overload | SponsoredAuto Enthusiast | Search Ads | SponsoredShut the Front Door! These Luxury Vehicles Cost Under $50k!Auto Enthusiast | Search Ads | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksU.S. Military Dogs Usually Outrank Their Handlers1STHow to Fake a GPS Location on Your Phone2NDWhat's the Difference Between Whiskey and Bourbon?3RDHow Dangerous Is the Beaver?4THTrends | Sponsored21 Insanely Cool Gifts That Are Going To Sell Out Before ChristmasTrends | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredLuxury Cruises | Search Ads | SponsoredYou've Never Seen Luxury Like This On A Cruise Ship. Research Luxury Mediterranean CruisesLuxury Cruises | Search Ads | Sponsored90min | SponsoredThese Twins Were Named "Most Beautiful In The World," Wait Till You See Them Today90min | Sponsored
 
 Advertisement
 
-animals - petsExotic or Exploited? The Controversial Savannah CatBY Mark Mancinianimals - petsThe Battle of the Big Cats: Maine Coon vs. Norwegian ForestBY Mark Mancinianimals - wild animalsPangolins: The Gentle, Ant-eating Oddballs of Africa and AsiaBY Jesslyn ShieldsTop 5 | SponsoredMom Buys Ornament At Thrift Store, Looks Closer And Drops To Her KneesTop 5 | Sponsoredslow-watches.com | SponsoredHandmade in Switzerland: 24 hours and only one hand. The Slow Watch helps you to live for the moment.slow-watches.com | Sponsored
+animals - petsThe Battle of the Big Cats: Maine Coon vs. Norwegian ForestBY Mark Manciniculture - people7 Key Questions in the U.S. Slavery Reparations DebateBY Dave Roosanimals - wild animals9 Big Hairy Facts About GorillasBY Jesslyn ShieldsSUV | SponsoredWhat Happens To All 2017-2019 Unsold Luxury SUVs? Research For Best Low Cost SUV 2018 PriceSUV | SponsoredBarx Buddy | SponsoredHow To Get A Dog To Stop BarkingBarx Buddy | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorks9 Big Hairy Facts About GorillasHow to Fake a GPS Location on Your PhoneThree Famous Hypotheses and How They Were TestedWhat's the Difference? QuizTruffles: The Rarest and Most Expensive Fungi in the WorldHow the Ancient Land Blob Gondwana Became Today's Continentsby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksPangolins: The Gentle, Ant-eating Oddballs of Africa and AsiaHere's Why Macadamia Nuts Are So Delicious and So Crazy ExpensiveThree Famous Hypotheses and How They Were TestedWhat's the Difference? QuizIs Cold-Shocking Your Body After a Sauna a Good Idea?Why Is the North Star So Stellarly Important?by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. 7 Key Questions in the U.S. Slavery Reparations DebateRead Next StoryTrends21 Insanely Cool Gifts That Are Going To Sell Out Before ChristmasTrends|SponsoredSponsoredRead Next StorySoGoodlyThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. U.S. Military Dogs Usually Outrank Their HandlersRead Next StoryTrends21 Insanely Cool Gifts That Are Going To Sell Out Before ChristmasTrends|SponsoredSponsoredRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next Story
