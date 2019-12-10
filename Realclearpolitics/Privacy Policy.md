@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Ruairí Arrieta-Kenna_: How the Cool Kids of the Left Turned on Warren
+*   _Stewart Lawrence_: Trump's Gains With Black Voters Could Swing Election
     
-*   _Josh Kraushaar_: Despite Diverse Field, Minorities Back Biden, Bernie
+*   _Debbie Hines_: Being Black Hurt Kamala Harris' Presidential Bid
     
-*   _LZ Granderson_: We Don't Need Biden to Act Like Another Trump
+*   _Byron York_: Dems Adopt Doctrine of Preemptive Impeachment
     
-*   _Andy Puzder_: What Will It Take for Liberals to Admit an Economic Boom?
+*   _Brian Greenspun_: Founders Would Have Demanded Impeachment
     
-*   _Laurence Tribe_: Trump Impeachment Is About Our Rights and Freedom
+*   _Carl Schramm_: 'The Interagency' Isn't Supposed to Rule
     
-*   _John Kass_: Self-Destructive Dems Push Forward on Impeachment
+*   _Franklin Foer_: Rudy Giuliani Knows What He's Doing
     
-*   _Todd Purdum_: This Is Not Where Pelosi Wanted to Be
+*   _Michael Goodwin_: There's Great Hate for Donald Trump's Success
     
-*   _Lili Loofbourow_: Why Is Duncan Hunter Still in Congress?
+*   _James Zirin_: Donald Trump’s Paranoid Style
     
-*   _David Harsanyi_: Dems Embrace Surveillance Tactics They Used to Oppose
+*   _Stephen MacLean_: Brexit: Once More Into the Blamed Breach
     
-*   _Katie Hill_: It's Not Over After All
+*   _John Harris_: Win or Lose, Tories Should Worry About Their Future
     
-*   _Carl Cannon_: From St. Nick to Santa: The Storied Gift That Keeps Giving
+*   _Joel Kotkin_: The Jewish Dilemma
     
-*   _Charles Gasparino_: Trump's Economic Boom Bursts Impeachment Bubble
+*   _Jeffrey Toobin_: The Trump Impeachment Hearings &. Justice Scalia
     
-*   _John Cassidy_: Impeaching Trump Is Already a Win for Democrats
+*   _Victor Davis Hanson_: The Legacy of Low-Bar Impeachment
     
-*   _Karl Rove_: Get Ready for a Contested Convention
+*   _Peter Roff_: Brexit &. Trump: Democracies Should Honor the People's Vote
     
-*   _Tim Murphy_: The Organizing That's Powering Buttigieg's Iowa Surge
+*   _Andrew Sullivan_: The Blundering Brilliance of Boris Johnson
     
-*   _Thomas Farnan_: Bill Barr's Reservations About the IG Report
+*   _Joshua Green_: Don’t Look Now, But Things Are Getting Brighter for Trump
     
-*   _Andrew Rice_: William Barr: Trump's Other Lawyer
+*   _Matthew Rozsa_: Your Guide to the 2020 Democrats
     
-*   _Karol Markowicz_: Foreigners Mocking Trump Is a Very Good Sign
+*   _David Catron_: Vote For Me You Lying Racist!
     
-*   _Elizabeth Warren_: Trump Has Destroyed U.S. Leadership--I'll Restore It
+*   _Ryan Cooper_: Pete Buttigieg Is No Barack Obama
     
-*   _Jose Cordeiro_: Socialism in Venezuela Killed My Father
+*   _Matt Welch_: Michael Bloomberg and the Imperious Presidency
     
-*   _Garry Kasparov_: The Battle Against Reality in Trump's America
+*   _Sharyl Attkisson_: Will the Horowitz Report Split the Baby?
     
-*   _Hans von Spakovsky_: The Latest Election Takeover Attempt
+*   _Jim Dwyer_: How Giuliani Led Trump to the Brink of Impeachment
     
-*   _Robert Reich_: The Myth of Voter Fraud
+*   _John Hinderaker_: Impeach Trump Because of…Slavery?
     
-*   _Charles Hurt_: Nancy Pelosi's Hostage Video
+*   _Jiayang Fan_: The Fight for Hong Kong's Soul
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Nevada Third to Vote, Still Up for Grabs for Dem Rivals
+*   In Florida, Trump Says He's Israel's Best Pal in White House
+*   Nadler: I Said No to Republican Witnesses Because They're Irrelevant
 *   Impeachment's Next Phase Could Hit Biden Worst of All
 *   White House: Adam Schiff Has Wrong OMB Number
-*   Cramer: Best Jobs Numbers I've Seen in My Life, We Can Win China Fight
-*   Turley Doesn't Like Trump--But Republicans Love Turley
-*   Kamala Harris Goes Down Fighting
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,48 +252,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve51
-    *   Disapprove48Approve +3
-*   California Democratic PrimaryBerkeley IGS
-    *   Warren22
-    *   Biden14
-    *   Sanders24
-    *   Buttigieg12
-    *   Harris7
-    *   Yang3
-    *   Bloomberg2
-    *   Klobuchar3
-    *   Gabbard1
-    *   Booker1
-    *   Steyer1
-    *   Castro1
-    *   Bennet1Sanders +2
-*   2020 Democratic Presidential NominationEconomist/YouGov
-    *   Biden27
-    *   Sanders13
-    *   Warren18
-    *   Buttigieg12
-    *   Bloomberg3
-    *   Harris4
-    *   Yang2
-    *   Klobuchar3
-    *   Booker3
-    *   Castro1
-    *   Steyer0
-    *   Gabbard2
-    *   Bennet1Biden +9
-*   President Trump Job ApprovalReuters/Ipsos
-    *   Approve42
-    *   Disapprove54Disapprove +12
+*   Arizona: Trump vs. BidenOH Predictive Insights
+    *   Biden44
+    *   Trump46Trump +2
+*   Arizona: Trump vs. SandersOH Predictive Insights
+    *   Trump47
+    *   Sanders34Trump +13
+*   Arizona: Trump vs. WarrenOH Predictive Insights
+    *   Trump47
+    *   Warren41Trump +6
+*   Arizona: Trump vs. ButtigiegOH Predictive Insights
+    *   Trump45
+    *   Buttigieg43Trump +2
 
 More Latest Polls In The News
 
+*   Comey On I.G. Report: "It Was All Made Up... It Was Lies, There Was No Treason, No Conspiracy"
+*   Gaetz Confronts Democratic Counsel With Poster Of Old Tweet Saying Steele Dossier And "Pee Tape" Are Real
+*   CNN's Toobin: DOJ Inspector General Proves Conspiracy Theory Trump Pushed For Years "Was A Total Lie"
+*   Wallace: Trump Charges "Much Bigger Issue" Than Clinton Sex Scandal. National Security And Foreign Policy
 *   Kingston: First Witnesses In Senate Impeachment Trial Will Be Adam Schiff, The Whistleblower, And Hunter Biden
-*   Chuck Todd vs. Ted Cruz: "Considerable Evidence" That "Ukraine Blatantly Interfered" In 2016 Election
-*   Katyal: Trump Engaged In "Unprecedented Obstruction" By Declaring Entire Investigation Illegitimate
-*   Mike Pence: "I Don't Think It's A Foregone Conclusion" That Democrats Have The Votes To Impeach Trump
-*   David Brooks on White Dem Primary: Dems Think Other People Are Racist And Won't Vote For An African-American
 
 *   Politics
 *   Policy
