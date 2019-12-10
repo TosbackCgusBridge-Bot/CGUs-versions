@@ -531,28 +531,22 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ON ORDERS OVER $25 Search Catalog Search
 
-**GET IT ON TIME!** Now Free Shipping on Orders Over $25!
+**GET IT ON TIME!** Free Shipping on Orders over $25!
 
 **GET IT ON TIME!**  
-Now Free Shipping on Orders Over $25!
+Free Shipping on Orders over $25!
 
-Day 4: Remarkable warmth. Exceptional coziness. Exclusive  
-color patterns. Check all the boxes with these cold weather accessories.
+AERO'S 12 DAYS OF GIFTING! Guys Fuzzy Half-Zip.  
+Fa-la-la-la-la. Feel-good fleece with cool mixed textures  
+and a holiday-festive twist.
 
-**MORE GREEN PLEASE! ONLINE ONLY EARLY ACCESS**
+**GREEN MONDAY STARTS NOW! ONLINE ONLY**
 
-**MORE GREEN PLEASE!  
-ONLINE ONLY EARLY ACCESS**
+**GREEN MONDAY STARTS NOW!  
+ONLINE ONLY**
 
-EXTRA 20% OFF\* ITEMS ALREADY REDUCED 50-70%
-
-**Yep! Including 100s of New Arrivals**
-
-\*Orders of $60 or More. Use Code GOGREEN
-
-Details
-
-EXTRA 20% OFF\* ITEMS ALREADY REDUCED 50-70%
+TAKE AN EXTRA  
+20% OFF\* ITEMS ALREADY REDUCED 50-70%
 
 **Yep! Including 100s of New Arrivals**
 
@@ -560,14 +554,22 @@ EXTRA 20% OFF\* ITEMS ALREADY REDUCED 50-70%
 
 Details
 
-Shop Girls New Arrivals Shop Guys New Arrivals Shop Girls Accessories Shop Guys Accessories AERO'S 12 DAYS  
+TAKE AN EXTRA  
+20% OFF\* ITEMS ALREADY REDUCED 50-70%
+
+**Yep! Including 100s of New Arrivals**
+
+\*Orders of $60 or More. Use Code GOGREEN
+
+Details
+
+Shop Girls Shop Guys Shop Girls Gifts Shop Guys Gifts AERO'S 12 DAYS  
 OF GIFTING
 
-Day 4: Remarkable Warmth. Exceptional Coziness.  
-Exclusive Colors &. Patterns. Check all the boxes with  
-these cold-weather accessories
+Day 5: Guys Fuzzy Half-Zip. Fa-la-la-la-la. Feel-good fleece with cool mixed textures  
+and a holiday-festive twist.
 
-Shop Girls Accessories Shop Guys Accessories Free $10 AERO CASH CARD
+Shop Girls Gifts Shop Guys Gifts Free $10 AERO CASH CARD
 
 When you buy a $50 Gift Card. In Stores &. Online.
 
