@@ -1,33 +1,37 @@
-Search
+Sales: **855.712.8764**   Support: **800.675.7430**
 
-MyVanco Login
+Sign Up Login
 
-Sign Up
-
-Sales: **855.712.8745**   Support: **800.675.7430**
-
-SearchUse up and down arrows to select available result. Press enter to go to selected search result. Touch devices users can use touch and swipe gestures.  
-
-*   Markets We Serve
-    *   Faith-Based
-    *   Education
-    *   Nonprofit
-    *   Professional
+*   Who We Serve
+    *   Faith-Based  
+        An easy way for your congregation to give.
+    *   Education  
+        Simplifying payments, teacher and admin tasks.
+    *   Community  
+        Tools to help you serve our communities.
+    *   Partners  
+        Integrate and partner with us.
 *   About
-*   Partners
-*   Contact
-*   Sign Up
+*   Contact Us
 
-*   MARKETS WE SERVE
-    *   FAITH-BASED
-    *   EDUCATION
-    *   NONPROFIT
-    *   PROFESSIONAL
-*   ABOUT
-*   PARTNERS
-*   CONTACT
-*   SIGN UP
-*   LOGIN
+Sign Up Login
+
+*   Who We Serve
+    *   Faith-Based  
+        An easy way for your congregation to give.
+    *   Education  
+        Simplifying payments, teacher and admin tasks.
+    *   Community  
+        Tools to help you serve our communities.
+    *   Partners  
+        Integrate and partner with us.
+*   About
+*   Contact Us
+
+Sign Up Login
+
+*   Login
+*   Sign Up
 
 VANCO PAYMENT SOLUTIONS – PRIVACY POLICY
 
@@ -181,9 +185,11 @@ Bloomington, MN 55431
 
 **CALL US**
 
-**Sales:** 855.712.8745
+**Sales:** 855.712.8764
 
 **Support:** 800.675.7430
+
+**Login**
 
 INFORMATION ON VANCO
 
@@ -223,7 +229,9 @@ CALL US
 
 **Support:** (800) 675-7430
 
-**Sales:** (855) 712-8745
+**Sales:** (855) 712-8764
+
+**Login**
 
 Copyright © 2019 Vanco. All rights reserved.  
-Vanco is a registered ISO of Wells Fargo Bank, N.A., Concord, CA Privacy Policy | Terms and Conditions PCI Certified <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCFS6FD" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1833255713665121&amp;ev=PageView&amp;noscript=1">.
+Vanco is a registered ISO of Wells Fargo Bank, N.A., Concord, CA Privacy Policy | Terms and Conditions PCI Certified <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1833255713665121&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCFS6FD" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
