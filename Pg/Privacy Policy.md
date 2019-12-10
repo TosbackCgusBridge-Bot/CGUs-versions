@@ -462,6 +462,7 @@ Please contact us directly with any questions or concerns you may have about you
 *   Product Coupons and Promotions
 *   Terms and Conditions
 *   Privacy
+*   Do Not Sell My Personal Data
 *   Adchoices 
 
 © 2019 Procter &. Gamble. All claims valid only in the U.S.
