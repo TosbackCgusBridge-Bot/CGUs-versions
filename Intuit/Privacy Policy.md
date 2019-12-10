@@ -1,6 +1,6 @@
 Free Shipping over $25See DetailsEnable Accessibility
 
-*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
+*   My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -23,24 +23,29 @@ Shop Departments
     *   Same Day Pickup
     *   Weekly Ad
 
-Near YouFind a StoreBackFinal Hours Of COUPON CODE GIFTS44ENDS IN00HOURS 40MINS 32SECS See Details\*Extra 25% off select apparel, shoes, accessories, fine jewelry and home purchases of $100 or more any way you pay. Extra 20% off select apparel, shoes, accessories, fine jewelry and home purchases with your JCPenney Credit Card or extra 15% off any other way you pay. Extra 10% off select furniture, mattresses, housewares, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches, and salon products any way you pay. Each offer good in store and at jcp.com, excluding taxes and shipping charges, 12/5/19-12/8/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Full amount of purchase must be on the JCPenney Credit Card to get the 20% off discount. Subject to credit approval. Does not apply to Best Value, Daily Deals, Limited Time Specials, Levi's, Denizen from Levi’s, Disney Collection, Disney Tsum Tsum, French Toast, Fisher-Price, Fanatics, Licensed Team Sports Merchandise, Columbia, Carhartt, Nike, adidas, Reebok, Puma, Champion, Converse, Clarks, Skechers Women's Shoes, Skechers Athletic Shoes, Bobs from Skechers, Keds, Grasshoppers, Athletic Shoes, Goddess Lingerie, Dreamgirl, Jewelry Trunk Shows, Modern Bride Design Your Dream Ring, Pre-Owned Watches, Smartwatches, Garmin, Fitbit, Sephora, Food, Penney Lane, S'ip by S'well, Electronics, Brookstone, Sharper Image, In-Home Custom Design, Tempur-Pedic, Neato Robotics, iRobot, Sporting Goods/Outdoor Gear, Toys, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Personalized Jewelry, Wigs and Extensions, Purchase with Purchase Items, In-Store Services, Service Plans, Gift Cards, jcp.com Purchases During Black Friday Events, Closing Store purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code GIFTS44 when prompted at checkout or call 1.800.322.1189 and mention the code. Full Exclusions &. DetailsFEELING SO TWINKLYAmazing savings on holiday dress up for the family! select styles
+Near YouFind a StoreBack99.99Instant Pot Duo Nova 6-qt. 7-in-1 programmable pressure cooker reg. $140 99.99Keurig® K-Mini Plus™ ® single-serve coffee maker reg. $130229.99Shark ION™ Robot Vacuum R76 with Wi-Fi RV761 reg. $579   
+279.99KitchenAid Artisan 5-qt. stand mixer KSM150PS reg. $499 25% OFFadidas for the family | select styles **sale $15-$37.50** | reg. $20-$85 Excluded from coupons.  
+25% OFFMen’s &. boys’ Puma activewear | select styles **sale $14.99-$48.75** | reg. $20-$65 Excluded from coupons.  
+25% OFFChampion activewear &. apparel for the family | select styles **sale $12-$33.75** | reg. $16-$45 Excluded from coupons.  
+25% OFFDisney Collection Toy Story 4 toys select styles | **sale $11.25-$45** | reg. $15-$60 Excluded from coupons.  
+35-60% OFF FINE JEWELRY + EXTRA 40% OFF\*\*with JCPenney Credit Card &. code: GIVE44 select styles  
 
-*   WOMEN
-*   MEN
-*   KIDS
-*   SHOES
-*   JEWELRY
-*   BEAUTY
+*   SHOP NOW
 
-GIFTS UNDER $15GIFTS UNDER $25GIFTS UNDER $50GIFT CARDS Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 40 total items loaded in Media GalleryFollow @jcpenney SHOP THE LOCAL LOOKJCPenney is teaming up with fashion and lifestyle influencers to bring you a curatedselection of their top picks. Check back everymonth to see new styles.JOIN IN THE FUN  
-Countdown to Christmas is on!\*All electronics &. toys excluded from coupons.Recommended for You
+MUST-HAVE GIFTSThese delightful finds will warm the hearts of everyone on your list. Excluded from coupons.  
 
-*   $254 - $1699after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(418)
-*   $2549after couponwas $80 Arizona Womens Denver Wide Calf Block Heel Riding Boots(40)
-*   $2549after couponwas $80 Arizona Womens Dino Riding Boots Block Heel(50)
-*   $2549after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(43)
-*   $2549after couponwas $80 Arizona Womens Dino Wide Calf Block Heel Riding Boots(34)
-*   $2549after couponwas $80 Arizona Womens Kasper Flat Heel Slouch Boots(42)
+*   STARTING AT $8
+*   GIFT SETS
+
+Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 40 total items loaded in Media GalleryFollow @jcpenney SHOP THE LOCAL LOOKJCPenney is teaming up with fashion and lifestyle influencers to bring you a curatedselection of their top picks. Check back everymonth to see new styles.JOIN IN THE FUN  
+Countdown to Christmas is on! **\*\*Credit offer subject to credit approval.** Exclusions apply.Recommended for You
+
+*   $224 - $1499after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(429)
+*   $1874after couponwas $80 Arizona Womens Denver Wide Calf Block Heel Riding Boots(44)
+*   $1874after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(47)
+*   $1874after couponwas $60 Arizona Womens Siesta Booties(27)
+*   $1874after couponwas $80 Arizona Womens Kasper Flat Heel Slouch Boots(42)
+*   $1124after couponwas $32 St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(73)
 
 Shop and Save at JCPenney
 
