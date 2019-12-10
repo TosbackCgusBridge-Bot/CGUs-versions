@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-60% off flannel shirts, pajamas &. bedding. 50% off everything else!
+Receive 50% off your order. free shipping, no minimum!
 
-code: TOASTY pin: PROMOTION DETAILS
+code: BELLS pin: PROMOTION DETAILS
 
 Customer Service Menu
 
