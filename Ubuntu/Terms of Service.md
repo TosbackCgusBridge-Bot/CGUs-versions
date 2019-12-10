@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   Canonical sponsors WSLConf at Microsoft HQ
+*   Updated images of Ubuntu for the Raspberry Pi 2, 3 and 4
+*   The Ubuntu 20.04 LTS Pre-release Survey
 *   Introducing the Ubuntu AWS Rolling Kernel
 *   The State of Robotics – November 2019
-*   Simplifying hardware management during Linux development
-*   Migrating the MAAS UI from AngularJS to React
-*   Web application development with Juju charms: an interview with Marc André Audet from Absolunet
 
 *    ›
