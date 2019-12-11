@@ -24,6 +24,7 @@ Main menu
         *   Dateline: Secrets Uncovered
         *   Homicide for the Holidays
         *   Killer Siblings
+        *   Murdered by Morning
         *   Murder For Hire
         *   Relentless With Kate Snow
         *   Snapped
@@ -37,10 +38,10 @@ Main menu
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 5:26 Criminal Confessions Chris Watts ‘Criminal Confessions’ First Look 1:09 Method Of A Serial Killer Method of a Serial Killer: Israel Keyes Abducts His Final Known Victim
+    *   Watch Live TV1:15 Criminal Confessions Investigators Make A Break In Texas Cold Case 1:02 Criminal Confessions What Happened To Missing Texas Woman Naomi Michelle Miller? 3:26 Criminal Confessions What Was Chris Watts Motive For Killing His Entire Family? Experts from ‘Criminal Confessions’ Weigh In
 *   News
     *   Crime News
-    *   True Crime BuzzShannan Watts (r.) was allegedly killed along with her daughters (Bella, 4, and Celeste, 3) by her husband, Chris Watts (2nd left) in Denver, Colorado in August 2018. Photo: Facebook Crime News How Chris Watts Spent The Final Hours With His Children Newly released footage shows Shanann Watts coming home after a business trip shortly before her husband kills her. Photo: Weld County DA's Office Crime News New Video Shows Shanann Watts Just Before Her Murder Chris Watts killed his pregnant wife Shanann and their two daughters Bella and Celeste in Aug. 2018. Photo: Associated Press Crime News Timeline Of The Chris Watts Investigation
+    *   True Crime BuzzMaria Alavez Photo: Bridgeton Police Department Crime News Mom Of Missing 5-Year-Old Suspects 'Old Friend' Shanann Watts and Christopher Watts Photo: Facebook. Getty Crime News Investigators Describe How They Found Chris Watts’ Victims Luka Rocco Magnotta Photo: AP True Crime Buzz Netflix Doc Will Tell The Sick Story Of Luke Magnotta
 *   Podcasts
 *   Detective's Den
 *   Schedule
