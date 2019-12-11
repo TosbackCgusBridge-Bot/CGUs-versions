@@ -17,7 +17,6 @@
         *   Software Architecture Conference
         *   Strata Data &. AI Conference
         *   TensorFlow World
-        *   Velocity Conference
     *   Radar
         *   AI/ML
         *   Future of the Firm
