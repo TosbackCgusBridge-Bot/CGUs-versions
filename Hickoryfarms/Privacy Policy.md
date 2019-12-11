@@ -83,15 +83,14 @@
     *   Gifts for Her
     *   Gifts for Him
     *   Thank You Gifts
-    *   Sympathy GiftsMost Popular Christmas
+    *   Sympathy GiftsMost Popular Christmas Gifts
 *   Business Gifts
     View All Categories Shop by Category*   Business Gifts
     *   Premium Wine Gifts
     *   Office Gift BasketsMost Popular Premium Wine Gifts
 *   Sale
-    View All Categories Shop by Category*   Green Monday
 
-1.800.753.8558 Business Gifts Green Monday is here! BOGO 25% off gifts $40+!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
+1.800.753.8558 Business Gifts Free shipping on select gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
 
 *   Gift Baskets
     
@@ -178,13 +177,12 @@
     *   Gifts for Her
     *   Gifts for Him
     *   Thank You Gifts
-    *   Sympathy GiftsMost Popular Christmas
+    *   Sympathy GiftsMost Popular Christmas Gifts
 *   Business Gifts
     View All Categories Shop by Category*   Business Gifts
     *   Premium Wine Gifts
     *   Office Gift BasketsMost Popular Premium Wine Gifts
 *   Sale
-    View All Categories Shop by Category*   Green Monday
 
 1.800.753.8558 Business Gifts
 
