@@ -153,10 +153,10 @@ Join now! Collect 10 nights, get 1 reward\* night
     *   Promote with us
     *   Travel agents
     *   Press office
-*   User Terms and Privacy Policy
+*   User terms &. Privacy
     *   Terms &. Conditions
-    *   Privacy Policy
-    *   Cookie Policy
+    *   Privacy
+    *   Cookies
     *   About our ads
 *   Website feedback
 *   About us
