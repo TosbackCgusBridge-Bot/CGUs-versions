@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Accelerate your business without compromising security - API security best practices
-    *   Cloud Infrastructure IAM Lessons from the Capital One Breach
-    *   Stantinko botnet's monetization strategy shifts to cryptomining
-    *   Exploited Android flaw 'StrandHogg' enables phishing overlays, malicious permissions
-    *   OAuth vulnerability threatens Azure accounts
+    *   Tetris game app used to distribute PyXie Python RAT
+    *   Spanish security company Prosegur hit with Ryuk
+    *   CallerSpy spyware: Possibly the first phase of a targeted attack
+    *   Phishing scam uses fake giveaways to lure in Steam gaming service users
+    *   20 VPS providers shut down, leave customers scrambling, crying foul
     
-    *   Same story all over again: Microsoft research finds millions of reused passwords
-    *   Law enforcement delivers knockout blow to Imminent Monitor RAT network
-    *   Stantinko botnet's monetization strategy shifts to cryptomining
-    *   U.S. charges alleged members of "Evil Corp" cybercrime group for Zeus and Dridex campaigns
-    *   Fin7 behind DiBella’s data breach affecting 305,000 cards
+    *   20 VPS providers shut down, leave customers scrambling, crying foul
+    *   Phishing scam uses fake giveaways to lure in Steam gaming service users
+    *   Mozilla patches 11 vulnerabilities in Firefox 71 and ESR 68.3
+    *   Trojan targeting Facebook Ads Manager could be cyberespionage tool
+    *   Sprint contractor reportedly stored non-Sprint customers' phone bills on open server
     
+    *   Devin Nunes' cow Twitter account owner should remain anonymous, ACLU says
+    *   Failure to secure IoT networks has far-reaching consequences, and transportation is a bullseye target
+    *   IG report says FBI justified in starting Russia probe. Barr disagrees
     *   Pensacola hit with cyberattack hours after shooting at naval base
     *   20 VPS providers shut down, leave customers scrambling, crying foul
-    *   Reputed Vietnamese APT group hacks BMW, Hyundai: report
-    *   Report: Dental practices feel the pain of ransomware attack on IT provider
-    *   Apple says ultra wideband tech culprit behind location data sharing. to issue fix
 
 Back to Top
 
