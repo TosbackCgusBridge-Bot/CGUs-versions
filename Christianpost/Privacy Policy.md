@@ -30,6 +30,7 @@ SECTIONS
 *   Finance
 *   Education
 *   Lifestyle
+*   Shopping
 *   Books
 *   Church Resource
 *   Voices
