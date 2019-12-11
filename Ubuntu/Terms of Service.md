@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   ObjectBox, database for IoT devices, adopts snaps for simplicity and ease of installation
+*   Canonical Announces Support for Kubernetes 1.17
+*   MicroK8s updated to Kubernetes 1.17. What’s new?
+*   CVE patching is not making your Linux secure
 *   Canonical sponsors WSLConf at Microsoft HQ
-*   Updated images of Ubuntu for the Raspberry Pi 2, 3 and 4
-*   The Ubuntu 20.04 LTS Pre-release Survey
-*   Introducing the Ubuntu AWS Rolling Kernel
-*   The State of Robotics – November 2019
 
 *    ›
