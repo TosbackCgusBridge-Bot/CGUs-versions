@@ -74,7 +74,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Froot Loops, Tutus, and More Behind-the-Scenes Findings From the ‘Birds of Prey’ Set Read More
+    *   10 Amazing Fun Facts: 'National Lampoon's Christmas Vacation' Read More
     *   A Fantabulous ‘Birds of Prey’ Character Guide Read More
     *   2020 Golden Globe Nominations: ‘Joker’ and ‘Once Upon a Time in Hollywood’ Challenge Stiff Netflix Competition Read More
     
@@ -108,7 +108,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Already a Fandango VIP? Sign In
 
-Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Promo Code Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseTicket PolicyPromo Code PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyVIP+ Program Terms en Español | en Français | auf Deutsch
+Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Promo Code Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy VIP+ Program Terms Do Not Sell My Info Privacy PolicyTerms and PoliciesTerms of UseTicket PolicyPromo Code PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyVIP+ Program TermsDo Not Sell My Info en Español | en Français | auf Deutsch
 
 **Last updated: December 10, 2019**
 
@@ -502,17 +502,17 @@ We have separate policies for workforce data, which is governed by the policies 
 
 Offers
 
-*   Get a holiday movie on Chex
+*   Get $5 Off Your Purchase Of 2+ Tickets
     
-    When you purchase 3 specially marked boxes of Chex Cereal. SEE DETAILS
+    With promo code 'NEXTLEVEL'. BUY TICKETS
     
 *   Get A Free Movie Ticket and $10 Concession Money
     
     When you spend $100+ on Gift Cards. SEE DETAILS
     
-*   Get A $10 Fandango Promo Code
+*   Get a holiday movie on Chex
     
-    When you spend $10 on Scotch Products at Walmart. SEE DETAILS
+    When you purchase 3 specially marked boxes of Chex Cereal. SEE DETAILS
     
 *   FREE $20 Movie Experience
     
@@ -579,6 +579,7 @@ Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Ge
 *   NEW: Your Privacy Rights - Privacy Policy
 *   Terms and Policies
 *   AdChoices
+*   Do Not Sell My Info
 
 Fandango Affiliated Companies:
 
