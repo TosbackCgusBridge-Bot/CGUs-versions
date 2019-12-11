@@ -536,13 +536,13 @@ ON ORDERS OVER $25 Search Catalog Search
 **GET IT ON TIME!**  
 Free Shipping on Orders over $25!
 
-AERO'S 12 DAYS OF GIFTING! Guys Fuzzy Half-Zip.  
-Fa-la-la-la-la. Feel-good fleece with cool mixed textures  
-and a holiday-festive twist.
+AERO'S 12 DAYS OF GIFTING! Day 6: Soft tees, statement  
+graphics and logos they'll love. The gift that keeps on giving  
+\- designed with signature stretch and softness.
 
-**GREEN MONDAY STARTS NOW! ONLINE ONLY**
+**GREEN MONDAY EXTENDED! ONLINE ONLY**
 
-**GREEN MONDAY STARTS NOW!  
+**GREEN MONDAY EXTENDED!  
 ONLINE ONLY**
 
 TAKE AN EXTRA  
@@ -563,13 +563,14 @@ TAKE AN EXTRA
 
 Details
 
-Shop Girls Shop Guys Shop Girls Gifts Shop Guys Gifts AERO'S 12 DAYS  
+Shop Girls Shop Guys Shop Girls Graphics Shop Guys Graphics AERO'S 12 DAYS  
 OF GIFTING
 
-Day 5: Guys Fuzzy Half-Zip. Fa-la-la-la-la. Feel-good fleece with cool mixed textures  
-and a holiday-festive twist.
+Day 6: Soft tees, statement graphics and logos  
+they'll love. The gift that keeps on giving - designed  
+with signature stretch and softness.
 
-Shop Girls Gifts Shop Guys Gifts Free $10 AERO CASH CARD
+Shop Girls Graphics Shop Guys Graphics Free $10 AERO CASH CARD
 
 When you buy a $50 Gift Card. In Stores &. Online.
 
@@ -729,4 +730,4 @@ Stay Connected
 *   Use Student Discount
 *   Store FAQs
 
-© 2019 Aeropostale. All Rights Reserved. CHAT
+© 2019 Aeropostale. All Rights Reserved. CHAT close dialogWant to snag15% OFFsitewide?GET 15% OFFI DON'T WANT 15% OFFNICE! Give us your email to snag15% offPlease enter aboveUnlock 15% offYOU’VE SNAGGED 15% OFFUse Codeat checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSContinue Shoppingclose dialog
