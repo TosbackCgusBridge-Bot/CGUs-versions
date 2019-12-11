@@ -37,15 +37,15 @@ MUST-HAVE GIFTSThese delightful finds will warm the hearts of everyone on your l
 *   STARTING AT $8
 *   GIFT SETS
 
-Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 40 total items loaded in Media GalleryFollow @jcpenney SHOP THE LOCAL LOOKJCPenney is teaming up with fashion and lifestyle influencers to bring you a curatedselection of their top picks. Check back everymonth to see new styles.JOIN IN THE FUN  
-Countdown to Christmas is on! **\*\*Credit offer subject to credit approval.** Exclusions apply.Recommended for You
+SHOP THE LOCAL LOOKJCPenney is teaming up with fashion and lifestyle influencers to bring you a curatedselection of their top picks. Check back everymonth to see new styles.JOIN IN THE FUN  
+Countdown to Christmas is on! Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 40 total items loaded in Media GalleryFollow @jcpenney **\*\*Credit offer subject to credit approval.** Exclusions apply. Recommended for You
 
-*   $224 - $1499after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(429)
-*   $1874after couponwas $80 Arizona Womens Denver Wide Calf Block Heel Riding Boots(44)
-*   $1874after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(47)
-*   $1874after couponwas $60 Arizona Womens Siesta Booties(27)
-*   $1874after couponwas $80 Arizona Womens Kasper Flat Heel Slouch Boots(42)
-*   $1124after couponwas $32 St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(73)
+*   $254 - $1699after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(432)
+*   $2124after couponwas $80 Arizona Womens Denver Wide Calf Block Heel Riding Boots(44)
+*   $2124after couponwas $80 Arizona Womens Dino Riding Boots Block Heel(59)
+*   $2124after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(48)
+*   $2124after couponwas $80 Arizona Womens Dino Wide Calf Block Heel Riding Boots(35)
+*   $1274after couponwas $32 St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater(73)
 
 Shop and Save at JCPenney
 
