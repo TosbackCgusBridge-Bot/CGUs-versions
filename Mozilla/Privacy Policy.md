@@ -141,7 +141,6 @@ Check out the Benefits
         
         *   MDN Web Docs
         *   Firefox Playground
-        *   CSS Grid
         *   Developer Blog
         *   Mozilla Open Source Support (MOSS)
     
