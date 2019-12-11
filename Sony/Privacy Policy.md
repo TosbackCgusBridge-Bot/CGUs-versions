@@ -122,7 +122,7 @@ Explore PlayStation™ Direct
 
 It's time! Vote now in the  http://PlayStation.Blog  Game of the Year awards:  http://play.st/2qAjZN3  pic.twitter.com/v0Ld0JlrCc
 
-13 hours ago View Tweet Instagram Post B5YypRpFdNp
+1 day ago View Tweet Instagram Post B5YypRpFdNp
 
 Listen to Holiday Cheer
 
