@@ -1,10 +1,10 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Enjoy up to 75% off select styles this holiday season! Shop Now. Double up on savings! Get an extra 25% off, 33% off, or 50% off! Get gifting! Shop new arrivals for everything on their list!
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Enjoy up to 75% off select styles this holiday season! Shop Now. Double up on savings! Get an extra 25% off, 33% off, or 50% off! Select Girls’ KanCan Signature Jeans are now 15% off. Shop Now
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-Get gifting! Shop new arrivals for everything on their list!
+Enjoy up to 75% off select styles this holiday season! Shop Now.
 
 *   Women
 *   Men
