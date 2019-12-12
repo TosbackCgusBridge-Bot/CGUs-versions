@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksIf at First You Don't Succeed, Try Tripe Again1STWhy Does the 'Dirty Dancing' Lake Keep Draining?2NDThe Battle of the Big Cats: Maine Coon vs. Norwegian Forest3RDWhat's the Difference Between Whiskey and Bourbon?4THTrends | Sponsored21 Insanely Cool Gadgets You'll Regret Not Getting Before They Sell OutTrends | SponsoredDrivepedia | SponsoredShaquille O’Neal's Wife Is Hands Down The Most Beautiful Woman In The WorldDrivepedia | SponsoredHorizontimes | SponsoredRemember Tiger Woods' Ex-wife? Try Not To Gasp When You See Her NowHorizontimes | SponsoredTruthFinder People Search Subscription | SponsoredOne Thing All Liars Have in Common, Brace YourselfTruthFinder People Search Subscription | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Dangerous Is the Beaver?1STPangolins: The Gentle, Ant-eating Oddballs of Africa and Asia2NDWhat's the Difference? Quiz3RDWhy Is the North Star So Stellarly Important?4THSUV | SponsoredUnsold 2018 SUVs Going for Pennies On The Dollar: Great For Seniors! Search For Luxury Crossover SUV DealsSUV | SponsoredKelley Blue Book | Sponsored5 Mid-engine Corvettes That Weren’tKelley Blue Book | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredAuto Enthusiast | Search Ads | Sponsored8 Cars So Loaded It's Hard to Believe They Cost Under $20kAuto Enthusiast | Search Ads | Sponsored
 
 Advertisement
 
-animals - wild animalsHow Dangerous Is the Beaver?BY Nathan Chandlerscience - dictionaryWhat Is Planck's Constant, and Why Does the Universe Depend on It?BY Patrick J. Kigerscience - militaryU.S. Military Dogs Usually Outrank Their HandlersBY Nathan ChandlerTech Watch | SponsoredThe New Budget SmartWatch, Everyone In United States Is Talking AboutTech Watch | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | Sponsored
+tech - electronicsHow to Fake a GPS Location on Your PhoneBY Nathan Chandleranimals - wild animals9 Big Hairy Facts About GorillasBY Jesslyn Shieldslifestyle - foodIf at First You Don't Succeed, Try Tripe AgainBY Kristen Hall-GeislerWorldemand | Sponsored17+ Actors You Didn't Know Were Gay - No. 8 Will Shock WomenWorldemand | SponsoredTruthFinder | SponsoredType in your name and wait 8 seconds. It's crazy what this site reveals about people.TruthFinder | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksUse of the Exclamation Point Has Exploded!Three Famous Hypotheses and How They Were TestedWhat's the Difference? Quiz9 Big Hairy Facts About GorillasGroom of the Stool: A Crappy Job With Royal BenefitsWhat's the Difference Between a Pressure Cooker and an Instant Pot?by Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhat's the Difference Between Whiskey and Bourbon?U.S. Military Dogs Usually Outrank Their HandlersThree Famous Hypotheses and How They Were TestedThe Battle of the Big Cats: Maine Coon vs. Norwegian ForestWhat Is Planck's Constant, and Why Does the Universe Depend on It?Why Does the 'Dirty Dancing' Lake Keep Draining?by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. If at First You Don't Succeed, Try Tripe AgainRead Next StoryTrends21 Insanely Cool Gadgets You'll Regret Not Getting Before They Sell OutTrends|SponsoredSponsoredRead Next StoryDrivepediaShaquille O’Neal's Wife Is Hands Down The Most Beautiful Woman In The WorldDrivepedia|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. How Dangerous Is the Beaver?Read Next StorySUVUnsold 2018 SUVs Going for Pennies On The Dollar: Great For Seniors! Search For Luxury Crossover SUV DealsSUV|SponsoredSponsoredRead Next StoryKelley Blue Book5 Mid-engine Corvettes That Weren’tKelley Blue Book|SponsoredSponsoredRead Next Story
