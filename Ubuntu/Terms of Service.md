@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   Juju 2.7: Enhanced k8s experience, improved networking and more
 *   ObjectBox, database for IoT devices, adopts snaps for simplicity and ease of installation
 *   Canonical Announces Support for Kubernetes 1.17
 *   MicroK8s updated to Kubernetes 1.17. What’s new?
-*   CVE patching is not making your Linux secure
-*   Canonical sponsors WSLConf at Microsoft HQ
+*   CVE patching alone is not making your Linux secure
 
 *    ›
