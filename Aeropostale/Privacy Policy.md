@@ -255,7 +255,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Extra 20% Off Orders $60 or More. Use Code: GOGREEN**
+**50-70% off Last Minute Gifts, Shop 12 Days of Gifts + FS Over $25** 
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -531,46 +531,33 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ON ORDERS OVER $25 Search Catalog Search
 
-**GET IT ON TIME!** Free Shipping on Orders over $25!
+**GET IT ON TIME!** Free shipping when you spend $25
 
-**GET IT ON TIME!**  
-Free Shipping on Orders over $25!
+**GET IT ON TIME!** Free shipping when you spend $25
 
-AERO'S 12 DAYS OF GIFTING! Day 6: Soft tees, statement  
-graphics and logos they'll love. The gift that keeps on giving  
-\- designed with signature stretch and softness.
+In Stores &. Online
 
-**GREEN MONDAY EXTENDED! ONLINE ONLY**
+IT'S ALL  
+50-70% OFF INCLUDING LAST  
+MINUTE GIFTS
 
-**GREEN MONDAY EXTENDED!  
-ONLINE ONLY**
-
-TAKE AN EXTRA  
-20% OFF\* ITEMS ALREADY REDUCED 50-70%
-
-**Yep! Including 100s of New Arrivals**
-
-\*Orders of $60 or More. Use Code GOGREEN
+12 Days of Gifting! Day 7: Sleep-worthy joggers perfect for early-morning  
+breakfasts and late-night movie binges. Consider these our jam(mies).
 
 Details
 
-TAKE AN EXTRA  
-20% OFF\* ITEMS ALREADY REDUCED 50-70%
-
-**Yep! Including 100s of New Arrivals**
-
-\*Orders of $60 or More. Use Code GOGREEN
+IT'S ALL 50-70% OFF  
+INCLUDING LAST MINUTE GIFTS!
 
 Details
 
-Shop Girls Shop Guys Shop Girls Graphics Shop Guys Graphics AERO'S 12 DAYS  
+Shop Girls New Arrivals Shop Guys New Arrivals Shop Girls Sleep Joggers Shop Guys Sleep AERO'S 12 DAYS  
 OF GIFTING
 
-Day 6: Soft tees, statement graphics and logos  
-they'll love. The gift that keeps on giving - designed  
-with signature stretch and softness.
+Day 7: Sleep-worthy joggers perfect for early-morning breakfasts &. late-night movie  
+binges. Consider these our jam(mies).
 
-Shop Girls Graphics Shop Guys Graphics Free $10 AERO CASH CARD
+Shop Girls Sleep Joggers Shop Guys Sleep Free $10 AERO CASH CARD
 
 When you buy a $50 Gift Card. In Stores &. Online.
 
@@ -730,4 +717,4 @@ Stay Connected
 *   Use Student Discount
 *   Store FAQs
 
-© 2019 Aeropostale. All Rights Reserved. CHAT close dialogWant to snag15% OFFsitewide?GET 15% OFFI DON'T WANT 15% OFFNICE! Give us your email to snag15% offPlease enter aboveUnlock 15% offYOU’VE SNAGGED 15% OFFUse Codeat checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSContinue Shoppingclose dialog
+© 2019 Aeropostale. All Rights Reserved. CHAT
