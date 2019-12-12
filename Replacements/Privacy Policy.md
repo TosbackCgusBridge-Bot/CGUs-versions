@@ -1,4 +1,4 @@
-Skip to main content Free Standard U.S. Shipping on Orders $99 $69+\*\* WITH CODE 69SHP Free Standard U.S. Shipping on Orders $69+ WITH CODE 69SHP\*\* 12days13hr25min Left for Christmas Delivery 1-800-REPLACE (1-800-737-5223) MENU Open main menu Shopping Cart 0 CART Close main menu Sign In / Create Account Home My Account China - Dinnerware
+Skip to main content Free Standard U.S. Shipping on Orders $99 $69+\*\* WITH CODE 69SHP Free Standard U.S. Shipping on Orders $69+ WITH CODE 69SHP\*\* days hr min Left for Christmas Delivery 1-800-REPLACE (1-800-737-5223) MENU Open main menu Shopping Cart 0 CART Close main menu Sign In / Create Account Home My Account China - Dinnerware
 
 *   Brands A-Z
 *   Register Your Pattern
@@ -166,7 +166,7 @@ Flatware Jewelry
     
     *   Watches
     *   Men's Watches
-    *   Women's WatchesShop Estate Jewelry Sales Event >.
+    *   Women's WatchesEstate Jewelry &. Watches >.
 *   Specials
     
     *   Weekly Features
