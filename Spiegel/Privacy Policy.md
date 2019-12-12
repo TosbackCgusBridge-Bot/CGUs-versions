@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   11\. Dezember 2019
+*   12\. Dezember 2019
 *   Abo
-*   DAX 13.070,72ǀ
+*   DAX 13.146,74ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -53,7 +53,6 @@ Anmelden
         *   Young-Money-Blog
     *   *   Brutto-Netto-Rechner
         *   Jobsuche
-        *   Wirtschaft erleben
 *   Panorama
     
     *   *   Übersicht
