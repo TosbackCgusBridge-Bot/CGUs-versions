@@ -23,7 +23,7 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   General Election Polls
     *   Direction of Country
     *   Political Leaders Favorability
-    *   Impeachment / Removal
+    *   Impeachment/Removal
     *   State of the Union Polls
     *   All Latest Election Polls
 *   Election 2020
@@ -66,7 +66,7 @@ We use cookies to offer you a better experience and to help us understand how yo
         *   General Election Polls
         *   Direction of Country
         *   Political Leaders Favorability
-        *   Impeachment / Removal
+        *   Impeachment/Removal
         *   State of the Union Polls
         *   All Latest Election Polls
     *   RCP Election 2020
@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Ken Dilanian_: Barr: FBI May Have Acted in Bad Faith in Russia Probe
+*   _Charles Lipson_: Unraveling the Criminal Web at Comey's FBI, Beyond
     
-*   _Barbara McQuade_: Ignore the Spin: FBI Properly Investigated Trump Camp
+*   _Dana Milbank_: The Truth Finally Gains Ground on a Lie
     
-*   _Mollie Hemingway_: IG: Schiff Memo Media Praised Was Riddled With Lies
+*   _Katie Pavlich_: Dems Officially Do Russia's Bidding
     
-*   _Frank Bowman_: Speaker Pelosi Has Gotten Impeachment Right
+*   _Frank Bruni_: The Perverse Servility of Bill Barr
     
-*   _Rich Lowry_: For Pelosi, an Election Too Important to Be Left to Voters
+*   _Michael Stern_: Pete Buttigieg's Real 'Black Problem'
     
-*   _Ian Millhiser_: What Trump Has Done to the Courts, Explained
+*   _Ben Mathis-Lilley_: Stop Pandering to Voters in the Heartland Bubble
     
-*   _Rupert Darwall_: Alex Epstein's Clear Thinking on Climate and Energy
+*   _Robert Taylor_: Help! I’m Being Held in the EU Against My Will
     
-*   _Jeffrey Sachs_: Getting to a Carbon-Free Economy
+*   _Rafael Behr_: No Brexit, No Johnson, No Corbyn. Is That Too Much to Ask?
     
-*   _Helen Raleigh_: These 4 Factors Will Likely Determine UK Election Outcome
+*   _Victor Davis Hanson_: Democrats' Cannibalistic Ideology
     
-*   _Adam Serwer_: The 'Russia Hoax' Is a Hoax
+*   _Rekha Basu_: Republicans Use Bullying Tactics to Defend Trump
     
-*   _Kevin Brock_: Misfired 'Hurricane': How Comey's FBI Got It So Wrong
+*   _Susan Crabtree_: State Officials Block Aid to Christian, Yazidi Genocide Victims
     
-*   _Jonathan Turley The Hill_: Horowitz Report Is Damning for the FBI, Unsettling for U.S.
+*   _Thomas Friedman_: Impeach Trump. Save America
     
-*   _James Comey_: The Truth Is Finally Out. The FBI Fulfilled Its Mission.
+*   _Daniel McCarthy_: Dems Lost the Impeachment War (&. Probably 2020)
     
-*   _Jeff Carlson_: Key Findings of IG Report Point to Significant FISA Abuse 
+*   _Stephen Collinson_: Trump Assaults Facts to Survive Impeachment
     
-*   _Kimberley Strassel_: A Big Win for Nunes, Who First Blew the Whistle
+*   _Matt Taibbi_: IG Report Validates Complaints About 'Fake News' Media
     
-*   _David Corn_: Trump's 'Spygate' Conspiracy Theory Was the Real Hoax
+*   _Charles Hurt_: Obama Admin Spied, the FBI Lied, but Trump Gets Impeached?
     
-*   _Julie Kelly_: Obama and Biden: Three Scandals, One Day
+*   _Ryan Heath_: Is Boris Good for America?
     
-*   _Ross Barkan_: Biden Has a Disastrous Record, But Don't Underestimate Him
+*   _Toby Greene_: Why Anti-Semitism on the British Left Got So Bad, So Fast
     
-*   _Carl Cannon_: U.S. Catholics' Mood One Year Before 2020 Election
+*   _William Barr_: The FBI's Behavior Was Inexplicable &. Intolerable
     
-*   _Barbara Boland_: 5 Infuriating Takeaways From 'Afghanistan Papers'
+*   _David Corn_: William Barr Wages War on Reality, Truth, and the Law
     
-*   _Mervyn King_: Paul Volcker Was a Remarkable Public Servant
+*   _William McGurn_: The 'Vindication' of James Comey
     
-*   _Gideon Rachman_: Why Europe Will Choose the U.S. Over China
+*   _Edward-Isaac Dovere_: What Pete Buttigieg Says He Did at McKinsey
     
-*   _Robert Kelly_: What Happens If Detente With North Korea Fails?
+*   _Mark Hemingway_: How Joe Biden Gets Away With Insulting a Voter
     
-*   _Eric Felten_: IG: FBI Knew 'Pee Tape' Was Spurious, Didn't Tell Trump
+*   _Robert Shapiro_: A Fair &. Winning Proposal for 2020 Democrats
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   EWTN/RealClear Poll: U.S. Catholics Open to Reelecting Trump
+*   Career Officials Thwart Aid to Christian, Yazidi Genocide Victims
+*   Barr: The Dossier Was Rubbish--Why Did FBI Try to Bolster It?
+*   U.S. Catholics' Mood One Year Before the 2020 Election
 *   Watchdog: FBI Knew "Pee Tape" Highly Dubious, Didn't Tell Trump
-*   Nevada Third to Vote, Still Up for Grabs for Dem Rivals
-*   Trump: I.G. Report Shows Attempted Overthrow of Government
-*   In Florida, Trump Says He's Israel's Best Pal in White House
-*   Impeachment's Next Phase Could Hit Biden Worst of All
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -266,23 +266,44 @@ Latest PollsAll Polls
     *   Bloomberg2
     *   Bullock
     *   Castro0Biden +1
+*   New Hampshire Democratic Presidential PrimaryWBUR/MassINC
+    *   Sanders15
+    *   Buttigieg18
+    *   Biden17
+    *   Warren12
+    *   Gabbard5
+    *   Yang5
+    *   Steyer3
+    *   Klobuchar3
+    *   Harris
+    *   Bloomberg2
+    *   Booker1
+    *   Williamson1Buttigieg +1
+*   2020 Democratic Presidential NominationEconomist/YouGov
+    *   Biden26
+    *   Sanders16
+    *   Warren21
+    *   Buttigieg11
+    *   Bloomberg4
+    *   Harris
+    *   Yang3
+    *   Klobuchar2
+    *   Booker3
+    *   Steyer1
+    *   Gabbard3
+    *   Castro1
+    *   Bennet1Biden +5
 *   Iowa: Trump vs. BidenEmerson
     *   Trump49
     *   Biden45Trump +4
-*   Iowa: Trump vs. SandersEmerson
-    *   Trump50
-    *   Sanders43Trump +7
-*   Iowa: Trump vs. WarrenEmerson
-    *   Trump50
-    *   Warren43Trump +7
 
 More Latest Polls In The News
 
-*   Trump: Dems "Are Trying To Erase Your Votes, Nullify The Election, And Overthrow Our Democracy"
+*   Chuck Todd: While IG Found "Alarming" FBI Misconduct, "Presidential Conspiracy Theories Have Taken Hold"
+*   Cruz at Horowitz Hearing: FBI Spying On Trump Wasn't Jason Bourne, It Was "Beavis And Butt-Head"
+*   Lindsey Graham: "I Have Serious Concerns About Whether The FISA Court Can Continue Unless There's Fundamental Reform"
 *   Don Lemon on Trump Thanos Tweet: "What Is This?" "This Is Literally Crazy, Are You People Insane?"
 *   AG Barr: Trump's 2016 Campaign "Was Clearly Spied On," Why Didn't FBI Talk To The Campaign?
-*   CBS's Major Garrett: Significant That Democrats Did Not Charge Trump With "Bribery" Or "Extortion"
-*   Comey On I.G. Report: "It Was All Made Up... It Was Lies, There Was No Treason, No Conspiracy"
 
 *   Politics
 *   Policy
