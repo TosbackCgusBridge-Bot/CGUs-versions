@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Tetris game app used to distribute PyXie Python RAT
-    *   Spanish security company Prosegur hit with Ryuk
-    *   CallerSpy spyware: Possibly the first phase of a targeted attack
-    *   Phishing scam uses fake giveaways to lure in Steam gaming service users
-    *   20 VPS providers shut down, leave customers scrambling, crying foul
-    
-    *   20 VPS providers shut down, leave customers scrambling, crying foul
-    *   Phishing scam uses fake giveaways to lure in Steam gaming service users
-    *   Mozilla patches 11 vulnerabilities in Firefox 71 and ESR 68.3
     *   Trojan targeting Facebook Ads Manager could be cyberespionage tool
-    *   Sprint contractor reportedly stored non-Sprint customers' phone bills on open server
-    
-    *   Devin Nunes' cow Twitter account owner should remain anonymous, ACLU says
-    *   Failure to secure IoT networks has far-reaching consequences, and transportation is a bullseye target
-    *   IG report says FBI justified in starting Russia probe. Barr disagrees
+    *   Company sued for allegedly hijacking Facebook accounts to serve ads
+    *   Fin7 behind DiBella’s data breach affecting 305,000 cards
     *   Pensacola hit with cyberattack hours after shooting at naval base
-    *   20 VPS providers shut down, leave customers scrambling, crying foul
+    *   Mozilla patches 11 vulnerabilities in Firefox 71 and ESR 68.3
+    
+    *   Cybersecurity’s top line: Enabling revenue growth and market expansion
+    *   Reputed Vietnamese APT group hacks BMW, Hyundai: report
+    *   Patch Tuesday: Adobe announces 25 bug fixes, 21 in Acrobat products
+    *   Black Friday, Cyber Monday scams are on the loose, businesses need to prepare
+    *   Real-time phishing alerts and stolen password warnings added to Chrome
+    
+    *   Pensacola confirms ransomware attack
+    *   Real-time phishing alerts and stolen password warnings added to Chrome
+    *   Unsecured storage bucket exposes applications for birth certificate copies
+    *   Patch Tuesday: Adobe announces 25 bug fixes, 21 in Acrobat products
+    *   Microsoft fixes exploited privilege elevation flaw, 34 more bugs
 
 Back to Top
 
