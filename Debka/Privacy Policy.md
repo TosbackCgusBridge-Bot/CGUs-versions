@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Wednesday, December 11, 2019  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Thursday, December 12, 2019  
 
 DEBKAfile
 
@@ -46,86 +46,86 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   More US sanctions imposed on Iranian shipping and air lines
+    
+    Dec 11, 2019 @ 17:59
+    
+*   UK faces tight, contentious election on Thursday
+    
+    Dec 11, 2019 @ 13:37
+    
+*    Likud to hold leadership primary on Dec. 26
+    
+    Dec 11, 2019 @ 13:19
+    
+*   Two of three civilians killed in Jersey City shooting named
+    
+    Dec 11, 2019 @ 08:31
+    
 *   Jersey City Shooting: 6 Killed, Including an Officer
     
     Dec 10, 2019 @ 21:55
     
-*   A cop injured in New Jersey shooting, three suspects
-    
-    Dec 10, 2019 @ 21:18
-    
 *   Likud and Kahol Lavan file bill to dissolve Knesset and March 2 election
     
     Dec 10, 2019 @ 19:36
-    
-*   Six people killed in shooting at Czech hospital
-    
-    Dec 10, 2019 @ 11:37
-    
-*   Russian and Ukrainian presidents agree on ceasefire
-    
-    Dec 10, 2019 @ 09:13
-    
-*   Israel holds March 2 poll - unless government formed in next 48 hours
-    
-    Dec 09, 2019 @ 14:34
     
 
-*   Likud and Kahol Lavan file bill to dissolve Knesset and March 2 election
+*    Likud to hold leadership primary on Dec. 26
     
-    Dec 10, 2019 @ 19:36
+    Dec 11, 2019 @ 13:19
     
-*   Six people killed in shooting at Czech hospital
+*   Two of three civilians killed in Jersey City shooting named
     
-    Dec 10, 2019 @ 11:37
-    
-*   Russian and Ukrainian presidents agree on ceasefire
-    
-    Dec 10, 2019 @ 09:13
-    
-*   Israel holds March 2 poll - unless government formed in next 48 hours
-    
-    Dec 09, 2019 @ 14:34
+    Dec 11, 2019 @ 08:31
     
 *   Jersey City Shooting: 6 Killed, Including an Officer
     
     Dec 10, 2019 @ 21:55
     
-*   A cop injured in New Jersey shooting, three suspects
-    
-    Dec 10, 2019 @ 21:18
-    
 *   Likud and Kahol Lavan file bill to dissolve Knesset and March 2 election
     
     Dec 10, 2019 @ 19:36
     
-*   Six people killed in shooting at Czech hospital
+*   More US sanctions imposed on Iranian shipping and air lines
     
-    Dec 10, 2019 @ 11:37
+    Dec 11, 2019 @ 17:59
     
-*   Russian and Ukrainian presidents agree on ceasefire
+*   UK faces tight, contentious election on Thursday
     
-    Dec 10, 2019 @ 09:13
+    Dec 11, 2019 @ 13:37
     
-*   Israel holds March 2 poll - unless government formed in next 48 hours
+*    Likud to hold leadership primary on Dec. 26
     
-    Dec 09, 2019 @ 14:34
+    Dec 11, 2019 @ 13:19
+    
+*   Two of three civilians killed in Jersey City shooting named
+    
+    Dec 11, 2019 @ 08:31
     
 *   Jersey City Shooting: 6 Killed, Including an Officer
     
     Dec 10, 2019 @ 21:55
     
-*   A cop injured in New Jersey shooting, three suspects
-    
-    Dec 10, 2019 @ 21:18
-    
 *   Likud and Kahol Lavan file bill to dissolve Knesset and March 2 election
     
     Dec 10, 2019 @ 19:36
     
-*   Six people killed in shooting at Czech hospital
+*   More US sanctions imposed on Iranian shipping and air lines
     
-    Dec 10, 2019 @ 11:37
+    Dec 11, 2019 @ 17:59
+    
+*   UK faces tight, contentious election on Thursday
+    
+    Dec 11, 2019 @ 13:37
+    
+*    Likud to hold leadership primary on Dec. 26
+    
+    Dec 11, 2019 @ 13:19
+    
+*   Two of three civilians killed in Jersey City shooting named
+    
+    Dec 11, 2019 @ 08:31
     
 
 12PrevNext
