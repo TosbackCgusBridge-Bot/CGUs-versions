@@ -68,71 +68,6 @@ This Privacy Statement describes the privacy practices of the Marriott Group for
 
 Collectively, we refer to the Websites, the Apps and our Social Media Pages, as the “**Online Services**” and, together with the **Property Visits and Offline Interactions**, the “**Services**.” By using the Services, you agree to the terms and conditions of this Privacy Statement.
 
-Privacy Preferences
-
-At Marriott, we respect your privacy and want to provide you with the options, information, and choices below to express your preferences: what and how much you share with us and when and how you hear from us.
-
-Cookie Preferences
-
-Open
-
-We want to learn what is relevant to you and ensure you have a personalized experience. As described in more detail in our Global Privacy Statement, we use digital tools like cookies and tags on our webpages. Cookies also help us provide, protect and improve our services. To adjust your preferences, please visit our Tracking Preferences page.
-
-Communication Preferences
-
-Open
-
-We want to engage with you in a way that is valuable to you, including how often you want to hear from us. To set your preferences, please sign in to your loyalty account profile and select Communication Preferences. To unsubscribe, use the link at the bottom of any of our communications to you. NOTE: Even if you choose to opt out of communications, we will continue to send you transactional messages about your reservations or stays, including pre-arrival, confirmation and guest satisfaction surveys.
-
-Privacy Rights
-
-Open
-
-If you would like to request to access, change, delete, or restrict the use or object to the processing of your Personal Data that you have previously provided to us, or if you would like to receive an electronic copy of your Personal Data for purposes of transmitting it to another company (to the extent these rights are provided to you by law), please complete this form. If you have any questions about the form or our process, feel free to contact us at privacy@marriott.com, or by mail at:
-
-Marriott International, Inc.  
-Global Compliance, Privacy  
-10400 Fernwood Road  
-Bethesda, MD 20817  
-United States of America
-
-EEA Contact Information:  
-Marriott Hotels Limited  
-Global Compliance  
-Barnard’s Inn  
-86 Fetter Lane  
-London EC4A 1EN  
-United Kingdom
-
-For your protection, we only fulfill requests for the personal data associated with the email address and/or loyalty account number that you identify in your request, and we may need to verify your identity before fulfilling certain requests. When permitted by law, we may charge an appropriate fee to cover the costs of responding to your request.
-
-Marriott acknowledges and respects our guests’ privacy and we will try to comply with your request as soon as reasonably practicable and consistent with applicable law.
-
-Languages
-
-Open
-
-*   English
-*   Arabic
-*   Canadian French
-*   Dutch/Netherlands
-*   French
-*   Georgian
-*   German
-*   Indonesian
-*   Italian
-*   Japanese
-*   Korean
-*   Malaysian
-*   Polish
-*   Portuguese
-*   Russian
-*   Simplified Chinese
-*   Spanish
-*   Thai
-*   Traditional Chinese
-*   Turkish
-
 Collection of Personal Data
 
 Open
@@ -441,7 +376,72 @@ You also can:
 *   Contact our data protection officer responsible for your country or region via MarriottDPO@marriott.com. In your email, please indicate the country from which you are contacting us
 *   Lodge a complaint with a data protection authority for your country or region or where an alleged infringement of applicable data protection laws occurs at http://ec.europa.eu/newsroom/article29/item-detail.cfm?item\_id=612080.
 
-Related Links Privacy Shield Guest Privacy Policy Terms of Use for United States and Canada SMS Messaging Terms of Use Digital Entry Terms of Use Top Destinations
+Related Links Privacy Shield Guest Privacy Policy Terms of Use for United States and Canada SMS Messaging Terms of Use Digital Entry Terms of Use Privacy Preferences
+
+At Marriott, we respect your privacy and want to provide you with the options, information, and choices below to express your preferences: what and how much you share with us and when and how you hear from us.
+
+Cookie Preferences
+
+Open
+
+We want to learn what is relevant to you and ensure you have a personalized experience. As described in more detail in our Global Privacy Statement, we use digital tools like cookies and tags on our webpages. Cookies also help us provide, protect and improve our services. To adjust your preferences, please visit our Tracking Preferences page.
+
+Communication Preferences
+
+Open
+
+We want to engage with you in a way that is valuable to you, including how often you want to hear from us. To set your preferences, please sign in to your loyalty account profile and select Communication Preferences. To unsubscribe, use the link at the bottom of any of our communications to you. NOTE: Even if you choose to opt out of communications, we will continue to send you transactional messages about your reservations or stays, including pre-arrival, confirmation and guest satisfaction surveys.
+
+Privacy Rights
+
+Open
+
+If you would like to request to access, change, delete, or restrict the use or object to the processing of your Personal Data that you have previously provided to us, or if you would like to receive an electronic copy of your Personal Data for purposes of transmitting it to another company (to the extent these rights are provided to you by law), please complete this form. If you have any questions about the form or our process, feel free to contact us at privacy@marriott.com, or by mail at:
+
+Marriott International, Inc.  
+Global Compliance, Privacy  
+10400 Fernwood Road  
+Bethesda, MD 20817  
+United States of America
+
+EEA Contact Information:  
+Marriott Hotels Limited  
+Global Compliance  
+Barnard’s Inn  
+86 Fetter Lane  
+London EC4A 1EN  
+United Kingdom
+
+For your protection, we only fulfill requests for the personal data associated with the email address and/or loyalty account number that you identify in your request, and we may need to verify your identity before fulfilling certain requests. When permitted by law, we may charge an appropriate fee to cover the costs of responding to your request.
+
+Marriott acknowledges and respects our guests’ privacy and we will try to comply with your request as soon as reasonably practicable and consistent with applicable law.
+
+Languages
+
+Open
+
+*   English
+*   Arabic
+*   Canadian French
+*   Dutch/Netherlands
+*   French
+*   Georgian
+*   German
+*   Indonesian
+*   Italian
+*   Japanese
+*   Korean
+*   Malaysian
+*   Polish
+*   Portuguese
+*   Russian
+*   Simplified Chinese
+*   Spanish
+*   Thai
+*   Traditional Chinese
+*   Turkish
+
+Top Destinations
 
 *   Anaheim Hotels
 *   Atlanta Hotels
@@ -502,4 +502,4 @@ Loading...
 
 Tracking Preferences Terms of Use Program Terms &. Conditions Privacy Center Digital Accessibility Site Map Help*   Loading...
     
-prod8,2D29720A-2F9A-5837-997E-7A13E54165CA
+prod9,0BBD1EED-EB13-51B6-A28B-C6A4401E8B23
