@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Enjoy up to 75% off select styles this holiday season! Shop Now.
+Double up on savings! Get an extra 25% off, 33% off, or 50% off!
 
 *   Women
 *   Men
@@ -571,9 +571,4 @@ Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
 
-Sign Up for Buckle EmailsClose Email Capture Modal×**Hey You!**
-
-Want to stay updated on our latest styles and promotions?  
-Sign up for email and let’s make things official.
-
-Email Address Submit EmailFavorite Product Quick ShopClose Quick Shop×
+Favorite Product Quick ShopClose Quick Shop×
