@@ -277,10 +277,6 @@ COMPARE **LC CONVERTIBLE**
 
 *   CONCEPT VEHICLE
 
-**LY 650**
-
-*   FUTURE YACHT
-
 *   Search
     
 *   sedans
@@ -429,6 +425,7 @@ Brand &. Lifestyle
 *   Lexus International
 *   Sponsored Athletes
 *   INTERSECT BY LEXUS – NYC
+*   Lexus LY 650 Yacht
 
 *   About
 *   Contact Us
@@ -487,6 +484,7 @@ Brand &. Lifestyle
     *   Lexus International
     *   Sponsored Athletes
     *   INTERSECT BY LEXUS – NYC
+    *   Lexus LY 650 Yacht
 
 Safety Recalls &. Service Campaigns  
 
@@ -502,4 +500,4 @@ Chrome™ Notice for Safari® Users
 To ensure your experience on lexus.com is as exceptional as our vehicles, we no longer support safari® 8 and older. We do, however, support version 9.0+ and other browsers. to upgrade your current browser, click here. or to install a new one, select a link below.
 
 Firefox® Google  
-Chrome™ Cookie ConsentWe use the following categories of cookies on our website:Required Functional CookiesRequired cookies are essential to provide you with core functionality during use of the website. These functions include e.g. Local Specials, Offers, Dealer Locator, etc. We also collect basic site usage analytics to optimize the experience for our visitors.Performance CookiesPerformance cookies collect information about how our website is used (e.g. number of visits, time spent on the site). These cookies allow us to serve more relevant content for an enhanced shopping experience.CancelSave
+Chrome™
