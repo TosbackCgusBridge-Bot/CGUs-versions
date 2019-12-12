@@ -47,11 +47,10 @@ Complete your Profile
     *   Protections &. Coverages
     *   Miles, Points &. Partners
     *   Avis Flex - Long Term Car Rental
+    *   Meetings &. Groups Car Rentals
 *   Business Rentals
     *   Business Rentals
     *   Small &. Mid-Sized Business
-    *   Production &. Entertainment Rentals
-    *   Meeting &. Group Car Rentals
     *   Car Rental Affiliate Program
 *   Car Sales
 *   Help
