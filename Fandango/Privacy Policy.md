@@ -502,9 +502,9 @@ We have separate policies for workforce data, which is governed by the policies 
 
 Offers
 
-*   Get $5 Off Your Purchase Of 2+ Tickets
+*   'Jumanji: The Next Level' Limited Time Offer
     
-    With promo code 'NEXTLEVEL'. BUY TICKETS
+    Get $5 off\* when you use promo code 'NEXTLEVEL' at checkout. \*Terms apply. While supplies last. BUY TICKETS
     
 *   Get A Free Movie Ticket and $10 Concession Money
     
