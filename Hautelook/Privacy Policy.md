@@ -9,12 +9,42 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
-    *   MICHELE Watches
-    *   WILDFOX Up to 55% Off
+    *   Daily Deal: Instax Michael Kors Mini at 71% Off
+    *   Daily Deal: ASICS GT-2000 for Her &. Him from $74.97
+    *   Daily Deal: Hanky Panky Sets at $36.97
+    *   Lafayette 148 New York
+    *   Daily Deal: Fitbit for Kids at $39.97
+    *   Daily Deal: Bony Levy Diamond Studs at 60% Off
+    *   Daily Deal: Report Slicker Rain Boots at $29.97
+    *   Anthropologie Home
+    *   7 For All Mankind Men
+    *   Splendid Up to 60% Off
+    *   Mini Melissa
+    *   Kappa Active &. More
+    *   Elodie Under $45
+    *   NuFACE Facial Toning Devices Up to 33% Off
+    *   Break a Sweat: Men's Hoodies, Pants &. More
+    *   Home Essentials: Dyson &. More Up to 60% Off
+    *   Cotton On Starting at $15
+    *   Slimming Shapers, Bodysuits &. More
+    *   The Sak
+    *   Dr. Martens Men
+    *   Fancy Flats, Loafers &. More from $35
+    *   Circus by Sam Edelman Up to 55% Off
+    *   Freida Rothman Jewelry
+    *   Disney Favorites ft. Levi's Kids
+    *   Men's Chukka &. Chelsea Boots Up to 60% Off
     *   Gift Worthy: Le Creuset Starting at $20
+    *   Cozy Pillows, Throws &. More ft. Nordstrom Rack
+    *   7 For All Mankind Kids
+    
+    *   Melissa Up to 60% Off
+    *   Dresses We Love ft. Nina Leonard
     *   Kalorik Kitchen Appliances &. More
     *   Luxe Faux Fur Throws &. More Up to 80% Off
     *   Quirky &. Fun Towels, Coasters and More
+    *   MICHELE Watches
+    *   WILDFOX Up to 55% Off
     *   Tahari Outerwear Up to 65% Off
     *   Work Week Chic ft. Calvin Klein
     *   Chic Picks: Dresses ft. CeCe by Cynthia Steffe
@@ -31,24 +61,13 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Maison Forte
     *   Robert Wayne
     *   For Little Loungers: Hoodies, Joggers &. More
-    *   Kate Spade New York Up to 50% Off
-    *   Kate Spade New York Shoes
-    *   Kate Spade New York Accessories Up to 55% Off
-    *   Kate Spade New York Clothing &. Coats Up to 60% Off
     *   tarte Cosmetics
-    
-    *   Natori Up to 65% Off
     *   Algenist Skin Care Starting at $10
     *   14K Gold Jewelry Steals
-    *   Great Gifts: Cashmere Up to 65% Off
-    *   Dresses We Love ft. Nina Leonard
-    *   Barefoot Dreams &. More Incl. Plus
     *   Free Shipping: Down &. Memory Foam Essentials
-    *   Soft Luxury: Suede &. Silk Styles
     *   Holiday Party Ready: Tailored Clothing
-    *   Kate Spade New York Home: Frames &. Gifts from $15
+    
     *   Denim Under $50
-    *   Samsonite Luggage Up to 65% Off
     *   Michael Todd Beauty Soniclear &. More Up to 60% Off
     *   Men's Dress Shoes Under $100
     *   Holiday Party Ready: Dress Shirts, Ties &. More
@@ -60,41 +79,44 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Holiday Prep: Kitchen Storage &. Gadgets
     *   Avant Skin Care &. More Up to 75% Off
     *   Liquid IV: Hydration Powder Supplements
-    *   Original Penguin Shoes
     *   Luxe Blankets ft. Barefoot Dreams &. More
-    *   Holiday Host: Serveware &. More Under $50
-    *   Last Chance: Fall Decor from $10
-    
-    *   Amrapur Towel Sets &. More from $30
+    *   Great Gifts: Cashmere Up to 65% Off
+    *   Free Shipping: BergHOFF Up to 60% Off
     *   Luxe Holiday Candles ft. Molton Brown &. More
     *   Cozy Holiday Home: Decor Starting at $15
-    *   Women's Fragrance Under $50
     *   Nostalgia Kitchen Appliances from $30
     *   Men's Shoe Steals Up to 65% Off
-    *   Gear Up: NFL Hoodies, Tees &. More Under $40
-    *   Stocking Stuffers: ALEX AND ANI from $15
-    *   Free Shipping: BergHOFF Up to 60% Off
-    *   Valentino by Mario Valentino Up to 60% Off
-    *   Last-Minute Sweater Gifts Under $30
-    *   Sleepwear Up to 70% Off
-    *   Baby Gear ft. aden + anais
-    *   Sweaters Under $50
-    *   Hair Tools We Love Starting at $10
-    *   Peter Millar Up to 60% Off
-    *   New Years Eve Cocktail Party Essentials
-    *   Magnanni Shoes &. Belts
-    *   Kids' Shoes Up to 65% Off
-    *   Wall Art, Decor &. More from $20
-    *   Stocking Stuffers ft. Brouk &. Co
-    *   Mini Must-Haves: Footies, Sets &. More
-    *   MOTHER Up to 60% Off
-    *   On-Trend Looks for Boys Under $25
-    *   Heels &. More Up to 75% Off
+    *   Last Chance: Fall Decor from $10
     *   Laundry by Shelli Segal Incl. Plus &. Petites
+    *   Holiday Host: Serveware &. More Under $50
+    *   New Years Eve Cocktail Party Essentials
+    *   Hair Tools We Love Starting at $10
+    *   Magnanni Shoes &. Belts
+    *   Wall Art, Decor &. More from $20
+    *   On-Trend Looks for Boys Under $25
 *   WomenShop Sale Events
     
+    *   Daily Deal: Instax Michael Kors Mini at 71% Off
+    *   Daily Deal: ASICS GT-2000 for Her &. Him from $74.97
+    *   Daily Deal: Hanky Panky Sets at $36.97
+    *   Lafayette 148 New York
+    *   Daily Deal: Bony Levy Diamond Studs at 60% Off
+    *   Daily Deal: Report Slicker Rain Boots at $29.97
+    *   Splendid Up to 60% Off
+    *   Kappa Active &. More
+    *   Elodie Under $45
+    *   NuFACE Facial Toning Devices Up to 33% Off
+    *   Cotton On Starting at $15
+    *   Slimming Shapers, Bodysuits &. More
+    *   The Sak
+    *   Fancy Flats, Loafers &. More from $35
+    *   Circus by Sam Edelman Up to 55% Off
+    *   Freida Rothman Jewelry
+    *   Melissa Up to 60% Off
+    *   Dresses We Love ft. Nina Leonard
     *   MICHELE Watches
     *   WILDFOX Up to 55% Off
+    
     *   Tahari Outerwear Up to 65% Off
     *   Work Week Chic ft. Calvin Klein
     *   Chic Picks: Dresses ft. CeCe by Cynthia Steffe
@@ -104,62 +126,45 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   On-Trend Sneakers ft. ASH &. Vintage Havana
     *   Jetset in Style: Totes &. Carry-Ons
     *   14K Gold &. Diamonds ft. EF Collection &. More
-    *   Kate Spade New York Up to 50% Off
-    *   Kate Spade New York Shoes
-    *   Kate Spade New York Accessories Up to 55% Off
-    *   Kate Spade New York Clothing &. Coats Up to 60% Off
     *   tarte Cosmetics
-    *   Natori Up to 65% Off
     *   Algenist Skin Care Starting at $10
     *   14K Gold Jewelry Steals
-    
-    *   Great Gifts: Cashmere Up to 65% Off
-    *   Dresses We Love ft. Nina Leonard
-    *   Barefoot Dreams &. More Incl. Plus
-    *   Soft Luxury: Suede &. Silk Styles
-    *   Samsonite Luggage Up to 65% Off
     *   Michael Todd Beauty Soniclear &. More Up to 60% Off
     *   MAC Cosmetics
     *   Avant Skin Care &. More Up to 75% Off
     *   Liquid IV: Hydration Powder Supplements
-    *   Women's Fragrance Under $50
-    *   Stocking Stuffers: ALEX AND ANI from $15
-    *   Valentino by Mario Valentino Up to 60% Off
-    *   Last-Minute Sweater Gifts Under $30
-    *   Sleepwear Up to 70% Off
-    *   Hair Tools We Love Starting at $10
-    *   MOTHER Up to 60% Off
-    *   Heels &. More Up to 75% Off
+    *   Great Gifts: Cashmere Up to 65% Off
     *   Laundry by Shelli Segal Incl. Plus &. Petites
+    *   Hair Tools We Love Starting at $10
     
     Shop By Category
     *   Clothing
-    *   Handbags
-    *   Jewelry
     *   Shoes
     *   Lingerie &. Shapewear
-    *   Accessories
+    *   Jewelry
+    *   Handbags
     *   Watches
+    *   Accessories
 *   MenShop Sale Events
     
+    *   Daily Deal: Instax Michael Kors Mini at 71% Off
+    *   Daily Deal: ASICS GT-2000 for Her &. Him from $74.97
+    *   7 For All Mankind Men
+    *   Break a Sweat: Men's Hoodies, Pants &. More
+    *   Dr. Martens Men
+    *   Men's Chukka &. Chelsea Boots Up to 60% Off
     *   David Donahue
     *   Stylish &. Warm: Men's Wool Outerwear
     *   Maison Forte
+    
     *   Robert Wayne
     *   Holiday Party Ready: Tailored Clothing
     *   Denim Under $50
-    *   Samsonite Luggage Up to 65% Off
     *   Men's Dress Shoes Under $100
     *   Holiday Party Ready: Dress Shirts, Ties &. More
-    
     *   Swims
-    *   Original Penguin Shoes
     *   Men's Shoe Steals Up to 65% Off
-    *   Gear Up: NFL Hoodies, Tees &. More Under $40
-    *   Sweaters Under $50
-    *   Peter Millar Up to 60% Off
     *   Magnanni Shoes &. Belts
-    *   Stocking Stuffers ft. Brouk &. Co
     
     Shop By Category
     *   Clothing
@@ -167,46 +172,49 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Daily Deal: Fitbit for Kids at $39.97
+    *   Mini Melissa
+    *   Disney Favorites ft. Levi's Kids
+    *   7 For All Mankind Kids
     *   Toy Shop: Games, Dolls &. More Under $15
     *   GEOX Kids
     *   For Little Loungers: Hoodies, Joggers &. More
     *   On-Trend Looks for Girls Under $25
-    *   Baby Gear ft. aden + anais
-    *   Kids' Shoes Up to 65% Off
-    *   Mini Must-Haves: Footies, Sets &. More
     *   On-Trend Looks for Boys Under $25
     
     Shop By Category
     *   Girls' Sizes 7-16
     *   Boys' Sizes 2T-7
-    *   Toy Shop
-    *   Girls' Shoes
     *   Girls' Sizes 2T-6X
-    *   Baby Gear &. Essentials
+    *   Girls' Shoes
+    *   Toy Shop
     *   Boys' Sizes 8-20
-    *   Baby Girl
-    *   Boys' Shoes
     *   Baby Boy
+    *   Baby Girl
+    *   Baby Gear &. Essentials
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Daily Deal: Instax Michael Kors Mini at 71% Off
+    *   Anthropologie Home
+    *   Home Essentials: Dyson &. More Up to 60% Off
     *   Gift Worthy: Le Creuset Starting at $20
+    *   Cozy Pillows, Throws &. More ft. Nordstrom Rack
     *   Kalorik Kitchen Appliances &. More
     *   Luxe Faux Fur Throws &. More Up to 80% Off
     *   Quirky &. Fun Towels, Coasters and More
     *   Free Shipping: Down &. Memory Foam Essentials
-    *   Kate Spade New York Home: Frames &. Gifts from $15
     *   Free Shipping: Quilts, Comforters &. More
     *   Free Shipping: Chic Vanity Organizers
+    
     *   Holiday Prep: Kitchen Storage &. Gadgets
     *   Luxe Blankets ft. Barefoot Dreams &. More
-    
-    *   Holiday Host: Serveware &. More Under $50
-    *   Last Chance: Fall Decor from $10
-    *   Amrapur Towel Sets &. More from $30
+    *   Free Shipping: BergHOFF Up to 60% Off
     *   Luxe Holiday Candles ft. Molton Brown &. More
     *   Cozy Holiday Home: Decor Starting at $15
     *   Nostalgia Kitchen Appliances from $30
-    *   Free Shipping: BergHOFF Up to 60% Off
+    *   Last Chance: Fall Decor from $10
+    *   Holiday Host: Serveware &. More Under $50
     *   New Years Eve Cocktail Party Essentials
     *   Wall Art, Decor &. More from $20
     
@@ -216,27 +224,27 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Bedding
     *   Holiday Decorations
     *   Luggage &. Travel
+    *   Bath
     *   Cleaning &. Organization
     *   Rugs &. Doormats
     *   Outdoor Living
-    *   Bath
     *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
+    *   NuFACE Facial Toning Devices Up to 33% Off
     *   tarte Cosmetics
     *   Algenist Skin Care Starting at $10
     *   Michael Todd Beauty Soniclear &. More Up to 60% Off
     *   MAC Cosmetics
     *   Avant Skin Care &. More Up to 75% Off
     *   Liquid IV: Hydration Powder Supplements
-    *   Women's Fragrance Under $50
     *   Hair Tools We Love Starting at $10
     
     Shop By Category
     *   Skin Care
-    *   Fragrance
     *   Makeup
     *   Hair Care
+    *   Fragrance
     *   Tools &. Accessories
     *   Makeup Bags
     *   Bath &. Body
