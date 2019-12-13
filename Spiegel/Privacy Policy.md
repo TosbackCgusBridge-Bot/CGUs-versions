@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   12\. Dezember 2019
+*   13\. Dezember 2019
 *   Abo
-*   DAX 13.146,74ǀ
+*   DAX 13.221,64ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -165,8 +165,8 @@ Anmelden
         *   Hotels
         *   S-Magazin
     
-
 *   Backstage
+
 *   English
     
     *   *   Front Page
@@ -177,6 +177,7 @@ Anmelden
         *   Zeitgeist
         *   Newsletter
 *   SPIEGEL AKADEMIE
+*   SPIEGEL Ed
 *   DER SPIEGEL live
 *   DER SPIEGEL
     
