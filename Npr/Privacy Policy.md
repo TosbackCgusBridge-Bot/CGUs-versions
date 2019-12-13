@@ -35,12 +35,12 @@ Close Navigation Menu
     *   Art &. Design
     *   Performing Arts
 *   Music Expand/collapse submenu for Music
+    *   Best Music Of 2019
     *   Tiny Desk
     *   All Songs Considered
     *   Music News
     *   New Music
     *   Live Sessions
-    *   Best Music Of 2019
 *   Shows &. Podcasts Expand/collapse submenu for Shows &. Podcasts Daily
     
     *   Morning Edition
@@ -62,12 +62,12 @@ Close Navigation Menu
 *   Sign In
 *   NPR Shop
 
+*   Best Music Of 2019
 *   Tiny Desk
 *   All Songs Considered
 *   Music News
 *   New Music
 *   Live Sessions
-*   Best Music Of 2019
 
 *   About NPR
 *   Overview
