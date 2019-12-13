@@ -32,7 +32,7 @@ Lenovo Explore Close
         *   Yoga C940
         *   Chromebook
         
-        Green Monday
+        Last Chance Deals
         
         Shop doorbuster deals while they last! Save big this holiday season on your favorite laptops for work, home, gaming &. more!
         
@@ -63,7 +63,7 @@ Lenovo Explore Close
         *   AIO A340/Tab E8 Bundle
         *   AIO 730S/ Tab M10 Bundle
         
-        Green Monday
+        Last Chance Deals
         
         Enjoy doorbuster savings on towers, workstations &. all-in-ones for work, home &. gaming!
         
@@ -91,7 +91,7 @@ Lenovo Explore Close
         *   ThinkStation P330 Tiny
         *   ThinkStation P330 Tower
         
-        Green Monday
+        Last Chance Deals
         
         Shop doorbusters on Lenovo's most powerful machines for business and get amazing deals today!
         
@@ -118,7 +118,7 @@ Lenovo Explore Close
         
         The perfect family entertainment tablet
         
-        Green Monday
+        Last Chance Deals
         
         Shop doorbuster deals on tablets for work, home &. school!
         
@@ -180,7 +180,7 @@ Lenovo Explore Close
         *   Sale
         *   Monitor Accessories
         
-        Green Monday
+        Last Chance Deals
         
         Shop the best deals of the year on monitors for gaming, work and home!
         
@@ -213,7 +213,7 @@ Lenovo Explore Close
         *   Realspace Gaming Chair
         *   Legion Y740
         
-        Green Monday
+        Last Chance Deals
         
         Check off your holiday list &. shop brands like Legion, Xbox, HyperX &. more!
         
@@ -279,7 +279,7 @@ Lenovo Explore Close
         
         Things to consider when choosing a laptop
         
-    *   Green Monday
+    *   Last Chance
         
         *   Always Free Shipping
         *   Earn Rewards on All Purchases
@@ -306,9 +306,9 @@ Lenovo Explore Close
         *   Trade In Program
         *   Outlet
         
-        Green Monday
+        Last Chance Deals
         
-        Doorbusters are here! Shop amazing deals on laptops, desktops, accessories, monitors and more! While supplies last!
+        Get them while they last! There's still amazing deals on laptops, desktops, accessories &. more. Shop doorbusters now!
         
 *   Phones
 *   Data Center
@@ -1173,6 +1173,7 @@ CUSTOMER SUPPORT
 *   Technical Support
 *   Forums
 *   FAQs
+*   Provide Feedback
 
 © 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Created with sketchtool.CHAT NOW
 
