@@ -60,7 +60,7 @@ Close submenu ( Bottoms ) Bottoms
 Close submenu ( Collections ) Collections
 
 *   View All
-*   Cyber Deals
+*   Doorbusters
 *   New Arrivals
 *   Best Sellers
 *   Jeans Guide
@@ -255,7 +255,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**50-70% off Last Minute Gifts, Shop 12 Days of Gifts + FS Over $25** 
+**50-70% off Last Minute Gifts, Shop 12 Days of Gifts + FS Over $25**
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -301,7 +301,7 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
-        *   Cyber Deals
+        *   Doorbusters
         *   New Arrivals
         *   Best Sellers
         *   Jeans Guide
@@ -541,8 +541,8 @@ IT'S ALL
 50-70% OFF INCLUDING LAST  
 MINUTE GIFTS
 
-12 Days of Gifting! Day 7: Sleep-worthy joggers perfect for early-morning  
-breakfasts and late-night movie binges. Consider these our jam(mies).
+12 Days of Gifting! Day 8: Aero Tech Fleece Navidad.  
+If you like it, you should put a ribbon on it.
 
 Details
 
@@ -551,13 +551,13 @@ INCLUDING LAST MINUTE GIFTS!
 
 Details
 
-Shop Girls New Arrivals Shop Guys New Arrivals Shop Girls Sleep Joggers Shop Guys Sleep AERO'S 12 DAYS  
+Shop Girls New Arrivals Shop Guys New Arrivals Shop Girls Fleece Shop Guys Tech Fleece AERO'S 12 DAYS  
 OF GIFTING
 
-Day 7: Sleep-worthy joggers perfect for early-morning breakfasts &. late-night movie  
-binges. Consider these our jam(mies).
+Day 8: Aero Tech Fleece Navidad.  
+If you like it, you should put a ribbon on it.
 
-Shop Girls Sleep Joggers Shop Guys Sleep Free $10 AERO CASH CARD
+Shop Girls Fleece Shop Guys Tech Fleece Free $10 AERO CASH CARD
 
 When you buy a $50 Gift Card. In Stores &. Online.
 
@@ -619,8 +619,8 @@ Guys Sleeves Next
 **In Stores &. Online.**
 
 Graphic Tees Graphic Tees Our absurdly soft &. stylish tees are  
-great to gift &. get. Girls Graphics $9 &. Up  
-Guys Graphics $10 &. Up
+great to gift &. get. Girls Graphics $5.87 &. Up  
+Guys Graphics $5.87 &. Up
 
 **In Stores &. Online.** So soft and cozy, you’ll want to wear them out (and in).
 
