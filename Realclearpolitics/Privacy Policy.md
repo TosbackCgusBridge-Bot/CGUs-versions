@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Charles Lipson_: Unraveling the Criminal Web at Comey's FBI, Beyond
+*   _Renato Mariotti_: Understanding the House Dems' Impeachment Strategy
     
-*   _Dana Milbank_: The Truth Finally Gains Ground on a Lie
+*   _John Kass_: How Horowitz Exposes the Democratic Media Complex
     
-*   _Katie Pavlich_: Dems Officially Do Russia's Bidding
+*   _Eric Holder_: William Barr Is Unfit to Be Attorney General
     
-*   _Frank Bruni_: The Perverse Servility of Bill Barr
+*   _Sharyl Attkisson_: What We've Learned From Barr's Information Dump
     
-*   _Michael Stern_: Pete Buttigieg's Real 'Black Problem'
+*   _John Harris_: If Trump Weren't Nuts, He'd Be Remaking American Politics
     
-*   _Ben Mathis-Lilley_: Stop Pandering to Voters in the Heartland Bubble
+*   _Jonathan Chait_: Biden &. Burisma: Repeat of Clinton's Email Nightmare?
     
-*   _Robert Taylor_: Help! I’m Being Held in the EU Against My Will
+*   _Albert Hunt_: New Odds on the 2020 Democratic Candidates
     
-*   _Rafael Behr_: No Brexit, No Johnson, No Corbyn. Is That Too Much to Ask?
+*   _Boyden Gray_: Media Attack on John Solomon Is an Attack on the Free Press
     
-*   _Victor Davis Hanson_: Democrats' Cannibalistic Ideology
+*   _Martin Wolf_: The Legacy and Lessons of Paul Volcker
     
-*   _Rekha Basu_: Republicans Use Bullying Tactics to Defend Trump
+*   _Sen. Marco Rubio_: American Industrial Policy and the Rise of China
     
-*   _Susan Crabtree_: State Officials Block Aid to Christian, Yazidi Genocide Victims
+*   _Morton Kondracke_: Political Reform Movement Is Moving Fast
     
-*   _Thomas Friedman_: Impeach Trump. Save America
+*   _Miranda Devine_: The FBI Knew It Was Lying About Trump and Russia
     
-*   _Daniel McCarthy_: Dems Lost the Impeachment War (&. Probably 2020)
+*   _Josh Campbell_: Trump's FBI Conspiracy Theory Isn't True
     
-*   _Stephen Collinson_: Trump Assaults Facts to Survive Impeachment
+*   _Kevin Williamson_: FBI's Corrupt Cops Part of Pattern of Behavior Under Obama
     
-*   _Matt Taibbi_: IG Report Validates Complaints About 'Fake News' Media
+*   _Gergen &. Piltch_: If Nancy Pelosi Ran for President, She'd Beat Trump
     
-*   _Charles Hurt_: Obama Admin Spied, the FBI Lied, but Trump Gets Impeached?
+*   _Rep. Doug Collins_: Pelosi's Impeachment Push Is an Un-American Lie
     
-*   _Ryan Heath_: Is Boris Good for America?
+*   _Joel Mathis_: Why Dems Should Embrace a One-Term President Biden
     
-*   _Toby Greene_: Why Anti-Semitism on the British Left Got So Bad, So Fast
+*   _Eric Levitz_: Biden's Answers on Ukraine Should Be Disqualifying
     
-*   _William Barr_: The FBI's Behavior Was Inexplicable &. Intolerable
+*   _Heather Mac Donald_: The Social Justice Drive to Destroy U.S. Education
     
-*   _David Corn_: William Barr Wages War on Reality, Truth, and the Law
+*   _David Roberts_: Why the Right's Usual Smears Don't Work on Greta Thunberg
     
-*   _William McGurn_: The 'Vindication' of James Comey
+*   _Ben Domenech_: No, the Person of the Year Is Not Greta Thunberg
     
-*   _Edward-Isaac Dovere_: What Pete Buttigieg Says He Did at McKinsey
+*   _Kristin Tate_: How Can Top Dems Run the Economy With No Business Skill?
     
-*   _Mark Hemingway_: How Joe Biden Gets Away With Insulting a Voter
+*   _Jared Bernstein_: Trump's China Trade War Is Failing
     
-*   _Robert Shapiro_: A Fair &. Winning Proposal for 2020 Democrats
+*   _Julius Krein_: The Real Class War
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Lipson: Unraveling the Criminal Web at Comey's FBI and Beyond
 *   EWTN/RealClear Poll: U.S. Catholics Open to Reelecting Trump
+*   Graham: Serious Concerns About Whether FISA Court Can Continue
 *   Career Officials Thwart Aid to Christian, Yazidi Genocide Victims
-*   Barr: The Dossier Was Rubbish--Why Did FBI Try to Bolster It?
 *   U.S. Catholics' Mood One Year Before the 2020 Election
-*   Watchdog: FBI Knew "Pee Tape" Highly Dubious, Didn't Tell Trump
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,58 +252,66 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Iowa Democratic Presidential CaucusEmerson
-    *   Buttigieg18
-    *   Sanders22
-    *   Biden23
-    *   Warren12
-    *   Klobuchar10
-    *   Harris
-    *   Steyer3
+*   South Carolina Democratic Presidential PrimaryPost and Courier
+    *   Biden27
+    *   Warren19
+    *   Sanders20
+    *   Buttigieg9
+    *   Steyer5
+    *   Bloomberg3
+    *   Booker5
     *   Yang2
-    *   Booker4
-    *   Gabbard2
-    *   Bloomberg2
-    *   Bullock
-    *   Castro0Biden +1
-*   New Hampshire Democratic Presidential PrimaryWBUR/MassINC
-    *   Sanders15
-    *   Buttigieg18
-    *   Biden17
-    *   Warren12
-    *   Gabbard5
-    *   Yang5
-    *   Steyer3
-    *   Klobuchar3
-    *   Harris
-    *   Bloomberg2
-    *   Booker1
-    *   Williamson1Buttigieg +1
-*   2020 Democratic Presidential NominationEconomist/YouGov
-    *   Biden26
-    *   Sanders16
-    *   Warren21
-    *   Buttigieg11
-    *   Bloomberg4
-    *   Harris
-    *   Yang3
+    *   Gabbard4
     *   Klobuchar2
+    *   Patrick1
+    *   Williamson1
+    *   Delaney0Biden +7
+*   California Democratic PrimaryCNN
+    *   Biden21
+    *   Sanders20
+    *   Warren17
+    *   Buttigieg9
+    *   Harris
+    *   Yang6
+    *   Bloomberg5
     *   Booker3
+    *   Klobuchar2
+    *   Gabbard2
     *   Steyer1
-    *   Gabbard3
     *   Castro1
-    *   Bennet1Biden +5
-*   Iowa: Trump vs. BidenEmerson
-    *   Trump49
-    *   Biden45Trump +4
+    *   Bennet0Biden +1
+*   Texas Democratic PrimaryCNN
+    *   Biden35
+    *   Warren13
+    *   Sanders15
+    *   Buttigieg9
+    *   Bloomberg5
+    *   Yang3
+    *   Castro3
+    *   Klobuchar1
+    *   Booker2
+    *   Gabbard1
+    *   Patrick1
+    *   Williamson0
+    *   Delaney0Biden +20
+*   Wisconsin Democratic PrimaryMarquette
+    *   Biden23
+    *   Warren16
+    *   Sanders19
+    *   Buttigieg15
+    *   Bloomberg3
+    *   Booker4
+    *   Yang3
+    *   Klobuchar3
+    *   Gabbard1Biden +4
 
 More Latest Polls In The News
 
+*   Toobin: "Trump In A Way Has Already Won". Hunter Biden a "Real Challenge For Us As Journalists"
+*   Nadler: Trump Pressured Ukrainian President To Say He Was Not Pressured. "He Has A Gun To His Head"
+*   Victor Davis Hanson: Instead of Introspection, Democrats Become More Zealous When They Fail to Stop Trump
 *   Chuck Todd: While IG Found "Alarming" FBI Misconduct, "Presidential Conspiracy Theories Have Taken Hold"
-*   Cruz at Horowitz Hearing: FBI Spying On Trump Wasn't Jason Bourne, It Was "Beavis And Butt-Head"
 *   Lindsey Graham: "I Have Serious Concerns About Whether The FISA Court Can Continue Unless There's Fundamental Reform"
-*   Don Lemon on Trump Thanos Tweet: "What Is This?" "This Is Literally Crazy, Are You People Insane?"
-*   AG Barr: Trump's 2016 Campaign "Was Clearly Spied On," Why Didn't FBI Talk To The Campaign?
 
 *   Politics
 *   Policy
