@@ -54,12 +54,12 @@ You have successfully opted out of online behavioral advertising. The opt-out wi
 
 Here's what you need to know (and do) to stay as safe as possible
 
-**Your security is our top priority! Here are the ways we protect you:**  
+**Your privacy and security is our top priority! Here are the ways we protect you:**  
 
+*   Keeping your personal and financial information protected and secure through responsible information collection and processing. Scroll down to see our Privacy Notices or visit Privacy Notices and Choices
 *   Protecting against threats with an award-winning cybersecurity team that delivers comprehensive security 24/7
 *   Continuously monitoring transactions for suspicious activity
 *   Alerting you to potential fraud through the mobile app, text alerts 1, email, or phone
-*   Keeping your personal and financial information protected and secure through responsible information collection, processing and privacy policies
 
 **Here is what you can do now to help fight fraud:**  
 
