@@ -1,10 +1,10 @@
 Vimeo Terms of Service Agreement
 
-Last Updated: November 18, 2019
+Last Updated: December 12, 2019
 
-This **Vimeo Terms of Service Agreement** (the “**Agreement**” or “**Terms of Service**”) is made between Vimeo, Inc. (“**Vimeo**,” “**we**,” “**us**,” or “**our**”) and you, our customer (“**you**” or “**your**”). Vimeo provides online video hosting and sharing services through our owned-and-operated websites, applications, and embeddable video players (collectively, the “**Services**”). This Agreement governs your use of our Services.
+This **Vimeo Terms of Service Agreement** (the “**Agreement**” or “**Terms of Service**”) is made between Vimeo, Inc. (“**Vimeo**,” “**we**,” “**us**,” or “**our**”) and you, our customer (“**you**” or “**your**”). This Agreement governs your use of Vimeo.com and our VIMEO®-branded online video hosting and sharing services through our owned-and-operated websites, applications, and embeddable video players (collectively, the “**Services**”).
 
-Content
+**Notice**: Section 11 of this Agreement contains a mandatory ARBITRATION AGREEMENT for certain privacy claims that you or Vimeo could assert. By using our Services and accepting this Agreement, you (1) agree to binding arbitration of these claims before a neutral arbitrator. and (2) waive your rights to go to court, have a jury hear your case, or participate as part of a class of plaintiffs with respect to such claims. Content
 
 1.  Acceptance
 2.  Our Services
@@ -16,7 +16,8 @@ Content
 8.  Term and Termination
 9.  Disclaimers
 10.  Limitation of Liability
-11.  General Provisions
+11.  Disputes, Arbitration, and Choice of Law
+12.  General Provisions
 
 1\. Acceptance
 
@@ -26,7 +27,7 @@ If you are an entity other than a natural person, the person who registers the a
 
 We may update this Agreement by posting a revised version on our website. By continuing to use our Services, you accept any revised Agreement.
 
-This Agreement includes our Privacy Policy and the addenda listed in **Section 11** below. Please review our Privacy Policy to learn about the information we collect from you, how we use it, and with whom we share it.
+This Agreement includes our Privacy Policy and the addenda listed in **Section 12** below. Please review our Privacy Policy to learn about the information we collect from you, how we use it, and with whom we share it.
 
 2\. Our Services
 
@@ -37,9 +38,15 @@ This Agreement includes our Privacy Policy and the addenda listed in **Section 1
 *   Embed our embeddable video player on third-party websites. and
 *   Use all related functionality that we may provide.
 
-The features available to you will depend on your plan. We may change features from time to time. If you have a paid account, we commit to providing the core video hosting and streaming features of your plan (including the bandwidth and storage capabilities stated at the time of purchase) during your current service period. We may charge for excessive bandwidth use when: (1) plays occur on third-party sites without using our embeddable video player. (2) plays occur within third-party apps (e.g., mobile or connected TV apps). (3) you monetize Vimeo-hosted videos using a third-party payment solution. or (4) you use our video player with a third-party advertising solution.
+**Features:** The features available to you will depend on your plan. We may change features from time to time. If you have a paid account, we commit to providing the core video hosting and streaming features of your plan (including the bandwidth and storage capabilities stated at the time of purchase) during your current service period.
 
-**Video Creation Tools:** We may allow you to use Video Create, our video creation tools. Your use of Vimeo Create is governed by our Vimeo Create Addendum.
+**Unlimited Bandwidth Fair Use Policy:** We provide self-serve users with unlimited bandwidth for standard uses of our embeddable video player for all accounts that are below the 99th percentile of bandwidth usage.
+
+If your account (or group of jointly-controlled accounts) is within the 99th percentile of bandwidth usage for self-serve accounts for any calendar month, then you must (a) upgrade to an Enterprise plan within thirty (30) days after receiving written notice from Vimeo. or (b) pay overage fees (based upon Vimeo’s then-current rates) starting on the day you receive written notice from us. If you elect to do neither, Vimeo may terminate your account upon ten (10) days’ written notice. Subject to your compliance with this Agreement, you will be entitled to a pro-rata refund for the unused portion of the subscription term, if any.
+
+We may restrict bandwidth or charge extra for the following uses of our player or video hosting tools (which should generally occur via our APIs (as defined below)): (1) plays on third-party sites without using our embeddable video player. (2) plays within third-party apps (e.g., mobile or connected TV apps). (3) plays when our player is connected to a third-party payment solution. or (4) plays when our player is connected to a third-party advertising solution.
+
+**Video Creation Tools:** We may allow you to use Vimeo Create, our video creation tools. Your use of Vimeo Create is governed by our Vimeo Create Addendum.
 
 **Transactions:** We may offer digital goods for sale. Purchases of Vimeo On Demand videos are governed by our Vimeo On Demand Viewer Agreement. Purchases of Vimeo Stock footage and licenses are governed by our Vimeo Stock License Agreement.
 
@@ -53,13 +60,13 @@ The features available to you will depend on your plan. We may change features f
 
 3\. Accounts
 
-**Registration:** You may create an account to use certain features we offer (e.g., uploading or live streaming videos). To do so, you must provide an email address. You consent to receive notices from Vimeo at this email address.
+**Registration:** You may create an account to use certain features we offer (e.g., uploading or live streaming videos). To do so, you must provide an email address. By creating an account, you agree to receive notices from Vimeo at this email address.
 
 **Organizational Accounts:** Corporate, governmental, and other organizational users must publicly display the legal name of their entity on their public account profile. If you are a government entity in the U.S., our Government Entity Addendum applies.
 
-**Age Requirements:** You must be at least 13 years old to create an account. If you reside in the European Union, you must be at least 16 years old. If you wish to use the Services for a commercial purpose, you must be at least 18 years old. If you are at least the requisite age, but are still a minor in your jurisdiction, you must have your parent or legal guardian's permission. Please have that person read this Agreement with you and consent to it before proceeding.
+**Age Requirements:** You must be at least 16 years old or the applicable age of majority in your jurisdiction, whichever is greater, to create an account or otherwise use our Services. If you wish to use the Services for a commercial purpose, you must be at least 18 years old. Individuals under the applicable age may use our Services only through a parent or legal guardian’s account and with their involvement. Please have that person read this Agreement with you and consent to it before proceeding.
 
-**Parents and Guardians:** By granting your child permission, you agree to the terms of this Agreement on behalf of your child. You are responsible for monitoring and supervising your child's usage. If your child is either under the applicable age or does not have your permission, please contact us immediately so that we can disable access.
+**Parents and Guardians:** By granting your child permission to use the Services through your account, you agree and understand that you are responsible for monitoring and supervising your child's usage. If you believe your child is using your account and does not have your permission, please contact us immediately so that we can disable access.
 
 **Team Members:** Certain subscription plans may allow you to grant other registered users (“**team members**”) access to the account. Both you and each team member is deemed a party to this Agreement. You are responsible for the actions of your team members and must monitor their access and usage.
 
@@ -69,15 +76,16 @@ The features available to you will depend on your plan. We may change features f
 
 **Plan Types:** We offer free (Basic) memberships and paid subscriptions that allow you to upload and share video content. You may purchase a “**Self-Serve**” plan (you sign up and pay online) or an “**Enterprise**” plan (you work with a sales representative and execute an individualized agreement). Advertised prices and features may change.
 
-**Basic and Plus Accounts:** Vimeo Basic (free) members and Plus subscribers may not: (a) use the Services for commercial purposes unless they are film professionals or small film businesses. or (b) submit videos that they did not create or play a material part in creating.
+**Basic and Plus Accounts:** Basic (free) members and Plus subscribers may not: (a) use the Services for commercial purposes unless they are film professionals or small film businesses. or (b) submit videos that they did not create or play a material part in creating.
 
 **Fees:** You must pay all fees (plus any taxes) during your subscription period and any renewal periods. Our fees may include a fixed monthly or annual fee plus variable fees for transactions or usage.
 
 **Free trials and Discounts:** We may offer free-trial or discounted subscriptions. When a free-trial period ends, your paid subscription begins (unless you have cancelled) and you must pay the full monthly or annual fee. If we provide a discount for the first subscription period, you must pay the discounted fee. in any renewal, you must pay the full fee.
 
-**Refund Policy:** Subject to the terms hereof, Self-Serve subscribers who purchase plans directly from Vimeo may cancel and receive a full refund of their initial purchase with **thirty (30) days** after purchasing an annual plan and **five (5) days** after purchasing a monthly plan. Our refund policy does not apply to:
+**Refund Policy:** Subject to the terms hereof, Self-Serve subscribers who purchase plans directly from Vimeo may cancel and receive a full refund of their initial purchase within **thirty (30) days** after purchasing an annual plan and **five (5) days** after purchasing a monthly plan. Our refund policy does not apply to:
 
 *   In-app purchases;
+*   Fees charged immediately after a free-trial period ends;
 *   Subscription renewals or migrations to other plans;
 *   Fees other than annual or monthly subscription fees;
 *   Requests made after the specified periods;
@@ -88,11 +96,13 @@ The features available to you will depend on your plan. We may change features f
 
 **Automatic Renewal:** **To the extent permitted by applicable law, subscriptions automatically renew at the end of each subscription period unless cancelled beforehand. Monthly plans renew for 30-day periods. Annual plans renew for one-year periods.** You must pay the annual or monthly fee (plus any taxes) when each renewal period starts. Unused storage, bandwidth, and other usage limits do not roll over.
 
-**How to Decline Renewal:** **Self-Serve customers may opt out of automatic renewal by changing their account settings. Enterprise customers may opt out according to the Enterprise Terms.** Any opt-out or notice of non-renewal will not affect the current subscription period. Vimeo may decline renewals.
+**How to Decline Renewal:** **Self-Serve subscribers may opt out of automatic renewal by changing their account settings. Enterprise plan customers may opt out according to the Enterprise Terms.** Any opt-out or notice of non-renewal will not affect the current subscription period. Vimeo may decline renewals.
 
-**Lapse Policy:** When a subscription ends, the account will, at Vimeo’s option, revert to free account status or will be deleted. Any content in the account may be deleted to comply with the limitations of the new account status. You are responsible for archiving your content. Vimeo shall not be responsible for the loss of any content. We may publish additional guidelines regarding the treatment of lapsed subscriptions. These guidelines describe current practices only and shall not require Vimeo to provide any level of post-subscription account status.
+**Lapse Policy:** When a subscription ends, the account will, at Vimeo’s option, revert to Basic (free) account status or will be deleted. Any content in the account may be deleted to comply with the limitations of the new account status. You are responsible for archiving your content. Vimeo shall not be responsible for the loss of any content. We may publish additional guidelines regarding the treatment of lapsed subscriptions. These guidelines describe current practices only and shall not require Vimeo to provide any level of post-subscription account status.
 
 **In-App Purchase:** We may allow you to purchase subscriptions within Apps. When you make such “in-app” purchases, you will be billed by the app platform, not us. **To turn off automatic renewal for subscriptions, access your platform’s account settings (not Vimeo’s).** Our refund policy does not apply to in-app purchases. Any billing inquiries should be directed to the app platform.
+
+**Resale:** You may not sell, resell, rent, lease, or distribute any plan or any other aspect of our Services to any third party unless authorized by us in writing.
 
 5\. Acceptable Use Policy
 
@@ -180,11 +190,11 @@ You may submit certain content to us for the purpose of creating a video using V
 
 6.3 Account Profile
 
-You grant Vimeo permission to use your name, likeness, biography, trademarks, logos, or other identifiers used by you in your account profile for the purpose of displaying such properties to the public or the audiences you have specified. You may revoke the foregoing permission by deleting your account.
+You grant Vimeo permission to use your name, likeness, biography, trademarks, logos, or other identifiers used by you in your account profile for the purpose of displaying such properties to the public or the audiences you have specified. You may revoke the foregoing permission by deleting your account. Vimeo shall have the right to identify public profiles in its marketing and investor materials.
 
 6.4 Other Content. Feedback
 
-Content that is not covered by the licenses set forth in **Sections 6.1** or **6.2** shall be governed by this **Section 6.3** (e.g., text you submit in comments). You grant Vimeo a perpetual and irrevocable right and license to copy, transmit, distribute, publicly perform, and display such content through online means in connection with our Services. If you make suggestions to Vimeo on improving or products or services, Vimeo may use your suggestions without any compensation to you.
+Content that is not covered by the licenses set forth in **Sections 6.1**, **6.2**, or **6.3** shall be governed by this **Section 6.4** (e.g., text you submit in comments). You grant Vimeo a perpetual and irrevocable right and license to copy, transmit, distribute, publicly perform, and display such content through online means in connection with our Services. If you make suggestions to Vimeo on improving our products or services, Vimeo may use your suggestions without any compensation to you.
 
 6.5 Scope of Licenses
 
@@ -196,12 +206,13 @@ For each piece of content that you submit to or through Vimeo, you represent and
 
 *   You have the right to submit the content to Vimeo and grant the licenses herein;
 *   Vimeo will not need to obtain licenses from any third party or pay royalties to any third party with respect to the streaming or other permitted distribution of the content;
-*   The content does not, and will not, infringe any third party's rights, including intellectual property rights and privacy rights. and
+*   You have obtained appropriate releases (if necessary) from all persons who appear in the content;
+*   The content does not, and will not, infringe any third party's rights, including intellectual property rights, rights of publicity, moral rights, and privacy rights. and
 *   The content complies with this Agreement and all applicable laws.
 
 7.2 Indemnification
 
-You will indemnify, defend, and hold harmless Vimeo and its subsidiaries, parents, affiliates, directors, officers, employees, and agents, from and against all third-party actions arising from: (a) the content you submit to or through the Services. and (b) allegations of actions or omissions by you that (regardless if proven) would constitute a breach of this Agreement.
+You will indemnify, defend, and hold harmless Vimeo and its subsidiaries, parents, and affiliates, and their and our respective directors, officers, employees, and agents, from and against all third-party complaints, demands, claims, damages, losses, costs, liabilities, and expenses, including attorney’s fees, arising from or relating to: (a) the content you submit to or through the Services. and (b) allegations of actions or omissions by you that (regardless if proven) would constitute a breach of this Agreement.
 
 8\. Term and Termination
 
@@ -209,16 +220,16 @@ This Agreement begins when you first use our Services and continues so long as y
 
 If you breach this Agreement, Vimeo may, at its option: (a) terminate this Agreement immediately, with or without advance written notice. (b) suspend, delete, or limit access to your account or any content within it. and (c) to the extent permitted by applicable law, retain any amounts payable to you (which you forfeit). If Vimeo deletes your account for breach, you may not re-register.
 
-In the event of any termination or expiration, the following sections will survive: **Section 7.2** (Indemnification), **Section 9** (Disclaimers), **Section 10** (Limitation of Liability), and **Section 11** (General Provisions).
+In the event of any termination or expiration, the following sections will survive: **Section 7.2** (Indemnification), **Section 9** (Disclaimers), **Section 10** (Limitation of Liability), **Section 11** (Disputes, Arbitration, and Choice of Law), and **Section 12** (General Provisions).
 
 9\. Disclaimers
 
-VIMEO PROVIDES THE SERVICES ON AN “AS IS” AND “AS AVAILABLE” BASIS. YOU USE THE SERVICES AT YOUR OWN RISK. You must provide your own device and Internet access.
+VIMEO PROVIDES THE SERVICES ON AN “AS IS” AND “AS AVAILABLE” BASIS. YOU USE THE SERVICES AT YOUR OWN RISK. You must provide your own device and internet access.
 
 EXCEPT AS EXPRESSLY SET FORTH HEREIN, AND TO THE EXTENT PERMITTED BY APPLICABLE LAW, VIMEO DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. Among other things, Vimeo makes no representations or warranties:
 
-*   That our Services, or any part thereof, will be available or permitted in your jurisdiction, uninterrupted or error-free, or accessible from all devices or browsers;
-*   Concerning any content submitted by our users;
+*   That our Services, or any part thereof, will be available or permitted in your jurisdiction, uninterrupted or error-free, completely secure, or accessible from all devices or browsers;
+*   Concerning any content submitted by or actions of our users;
 *   That any geo-filtering or digital rights management solution that we might offer will be effective;
 *   That our Services will meet your business or professional needs;
 *   That we will continue to support any particular feature or maintain backwards compatibility with any third-party software or device. or
@@ -226,17 +237,35 @@ EXCEPT AS EXPRESSLY SET FORTH HEREIN, AND TO THE EXTENT PERMITTED BY APPLICABLE 
 
 10\. Limitation of Liability
 
-TO THE EXTENT PERMITTED BY APPLICABLE LAW: (A) VIMEO SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING DAMAGES FOR LOSS OF BUSINESS, PROFITS, GOODWILL, DATA, OR OTHER INTANGIBLE LOSSES. AND (B) VIMEO'S TOTAL LIABILITY TO YOU, EXCEPT FOR VIMEO’S CONTRACTUAL PAYMENT OBLIGATIONS HEREUNDER (IF ANY), SHALL NOT EXCEED THE AMOUNTS PAID BY YOU TO VIMEO OVER THE TWELVE (12) MONTHS PRECEDING YOUR CLAIM(S) OR ONE HUNDRED DOLLARS (USD \\$100), WHICHEVER IS GREATER.
+TO THE EXTENT PERMITTED BY APPLICABLE LAW: (A) VIMEO SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES, INCLUDING DAMAGES FOR LOSS OF BUSINESS, PROFITS, GOODWILL, DATA, OR OTHER INTANGIBLE LOSSES, EVEN IF VIMEO HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. AND (B) VIMEO'S TOTAL LIABILITY TO YOU, EXCEPT FOR VIMEO’S CONTRACTUAL PAYMENT OBLIGATIONS HEREUNDER (IF ANY), SHALL NOT EXCEED THE AMOUNTS PAID BY YOU TO VIMEO OVER THE TWELVE (12) MONTHS PRECEDING YOUR CLAIM(S) OR ONE HUNDRED DOLLARS (USD $100), WHICHEVER IS GREATER.
 
-11\. General Provisions
+11\. Disputes, Arbitration, and Choice of Law
 
-**Choice of Law:** This Agreement will be governed by the laws of New York State and the United States of America (with respect to matters subject to federal jurisdiction such as copyright), without regard to principles of conflicts of law.
+If you are dissatisfied with our Services for any reason, please contact us first so that we can try to resolve your concerns without the need for outside assistance.
 
-**Choice of Venue. Jury Trial Waiver:** Any action relating to this Agreement or your use of our Services must be commenced in the state or federal courts located in New York County, New York State, United States of America. you consent to the exclusive jurisdiction of those courts. IN ANY SUCH ACTION, VIMEO AND YOU IRREVOCABLY WAIVE ANY RIGHT TO A TRIAL BY JURY.
+11.1 Choice of Law
+
+Any disputes relating to this Agreement or your use of our Services will be governed by the laws of New York State and the United States of America (with respect to matters subject to federal jurisdiction such as copyright), without regard to principles of conflicts of law. The arbitration agreement set forth in **Section 11.3** will be governed by the Federal Arbitration Act.
+
+11.2 Choice of Venue for Litigation. Jury Trial Waiver
+
+Except for matters that must be arbitrated (as set forth below), you and Vimeo agree that any action relating to this Agreement or your use of our Services must be commenced in the state or federal courts located in New York County, New York State, United States of America. you consent to the exclusive jurisdiction of those courts. IN ANY SUCH ACTION, VIMEO AND YOU IRREVOCABLY WAIVE ANY RIGHT TO A TRIAL BY JURY.
+
+11.3 Arbitration of Privacy Claims. Class Action Waiver
+
+The exclusive means of resolving any Covered Privacy Claim (defined below) shall be BINDING ARBITRATION. The arbitration will be administered by JAMS under the JAMS Streamlined Arbitration Rules &. Procedures, as modified by our Arbitration Procedures. If you are a consumer, as defined by JAMS in its Consumer Minimum Standards, you may request that the arbitration hearing be conducted in the area in which you reside. Otherwise, the hearing (if any) shall take place in New York County, New York State, United States of America. EACH PARTY WAIVES ITS RIGHT TO GO TO COURT, TO A TRIAL BY JURY, AND TO PARTICIPATE IN A CLASS ACTION, CLASS ARBITRATION, OR OTHER REPRESENTATIVE PROCEEDING WITH RESPECT TO ANY COVERED PRIVACY CLAIM.
+
+**Overview:** Arbitration provides a private dispute resolution process that is usually more streamlined and less formal than litigation. In an arbitration, your rights will be determined by a neutral third party called an arbitrator, and not a judge or jury. Both you and Vimeo are entitled to fundamentally fair proceedings at every stage of the arbitration, including the hearing. The arbitrator will decide all issues relating to the dispute, including the question of arbitrability, and can grant any relief that a court could grant. Decisions by the arbitrator are enforceable in court and may be overturned by a court only for very limited reasons. For details on the arbitration process, see our Arbitration Procedures.
+
+**Definitions:** A “**Covered Privacy Claim**” means any dispute or claim arising out of or relating to (a) Vimeo’s collection, use, storage, analysis, or transfer of your Personal Information. (b) an alleged breach of our Privacy Policy. (c) an alleged data breach or unauthorized disclosure of data or content. or (d) an allegation that Vimeo failed to comply with any privacy or data security right or obligation. “**Personal Information**” means any information about you, including your registration information (e.g., email address), payment information, location information, device information, biometric identifiers or information, IP address, and your activities (including viewing and search history), but does not include content that you upload (except to the extent the content contains personal information about you).
+
+**Small Claims Court Exception:** Notwithstanding the above, each party has the right to bring an individual Covered Privacy Claim against the other in a small claims court of competent jurisdiction pursuant to Rule 1 of JAMS’ Minimum Consumer Standards. If one party files an arbitration that could be litigated in such a small claims court, the responding party may request that the dispute proceed in small claims court. If the responding party requests to proceed in small claims court before the appointment of the arbitrator, the arbitration shall be administratively closed. If requested after the appointment of the arbitrator, the arbitrator shall administratively close the arbitration so long as the proceedings are at an early stage and no hearing has occurred.
+
+12\. General Provisions
 
 **Reservation of Rights, Severability, Force Majeure:** Vimeo reserves all rights not expressly granted herein. Vimeo’s rights and remedies are cumulative. No failure or delay by Vimeo in exercising any right will waive any further exercise of that right. If any term of this Agreement is found invalid or unenforceable by a court of competent jurisdiction, that term will be limited or severed. Vimeo will not be liable for any delay or failure caused by a force majeure event.
 
-**Relationship:** You and Vimeo are independent contractors of one another. neither party is an agent, partner, or joint venturer of the other. This Agreement binds the parties and their successors, personal representatives, and assigns. You may not assign this Agreement to any person whose account has been terminated by Vimeo or who is prohibited from registering. any such assignment will be void.
+**Relationship:** You and Vimeo are independent contractors of one another. neither party is an agent, partner, or joint venturer of the other. This Agreement binds the parties and their successors, personal representatives, and permitted assigns. You may not assign this Agreement to any person whose account has been terminated by Vimeo or who is prohibited from registering. any such assignment will be void.
 
 **Third Parties:** We may provide links to and integrations with websites operated by others. The website operator, not Vimeo, is solely responsible for the content thereof, and your use of each such website will be subject to its terms of service. We may disable integrations with any third party at any time, with or without notice. Except as expressly stated herein, nothing in this Agreement confers any right on any third party.
 
@@ -254,8 +283,12 @@ TO THE EXTENT PERMITTED BY APPLICABLE LAW: (A) VIMEO SHALL NOT BE LIABLE FOR ANY
 *   Stock Footage License Agreement
 *   Seller Addendum
 *   API License Addendum
+*   Arbitration Procedures
 *   Enterprise Terms
 
 **Notices:** You must send any notices of a legal nature to us by email or at:
 
-Vimeo, Inc. Attention: Legal Department 555 West 18th Street New York, New York 10011
+Vimeo, Inc.  
+Attention: Legal Department  
+555 West 18th Street  
+New York, New York 10011
