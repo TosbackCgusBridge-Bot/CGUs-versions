@@ -118,7 +118,7 @@ Play video: Get a Closer Look at How the Characters Came to Life in “Jumanji: 
 
 It's time! Vote now in the  http://PlayStation.Blog  Game of the Year awards:  http://play.st/2qAjZN3  pic.twitter.com/v0Ld0JlrCc
 
-2 days ago View Tweet Instagram Post B5YypRpFdNp
+3 days ago View Tweet Instagram Post B5YypRpFdNp
 
 Listen to Holiday Cheer
 
