@@ -82,6 +82,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Movie Reviews
     *   Holiday Movie Guide
     *   Star Wars Guide
+    *   Awards Watch
     *   Indie Movie Guide
     *   Family Guide
     *   House Of Screams
@@ -543,6 +544,7 @@ Editorial Features
 
 *   Star Wars Guide
 *   Holiday Movie Guide
+*   Awards Watch
 *   Indie Movie Guide
 *   Family Guide
 *   House Of Screams
