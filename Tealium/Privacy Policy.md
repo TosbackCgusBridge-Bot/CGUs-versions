@@ -37,7 +37,7 @@
     *   Tealium Learning Center
     *   Education
 *   Company
-    *   People
+    *   Leadership
     *   Careers
     *   Blog
     *   Events
@@ -91,7 +91,7 @@
     *   Tealium Learning Center
     *   Education
 *   Company
-    *   People
+    *   Leadership
     *   Careers
     *   Blog
     *   Events
