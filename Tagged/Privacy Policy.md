@@ -198,7 +198,7 @@ This Privacy Policy does _not_ apply to the practices of companies that we do no
 
 II. Controlling and Protecting Your Privacy
 
-1.  **Personal Safety**. After getting to know someone online, you may choose to meet him or her in-person. If so, be careful and use common sense. Never meet someone in private for the first time. choose a public place, and take a friend. For more information about staying safe, please visit www.socialsafety.org, a public service website from The Meet Group, Inc.
+1.  **Personal Safety**. After getting to know someone online, you may choose to meet him or her in-person. If so, be careful and use common sense. Never meet someone in private for the first time. choose a public place, and take a friend. For more information about staying safe, please visit www.themeetgroup.com/safety-practices.
     
 2.  **Account Settings.** You can change your account settings at any time. You should review these settings regularly.
     
