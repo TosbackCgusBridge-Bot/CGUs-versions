@@ -50,6 +50,8 @@ ADS &. SOFTWARE POLICY
 
 SOFTONIC DEVELOPER HUB TERMS OF USE &. PRIVACY POLICY
 
+Share on Facebook Share Share on TwitterTweet Share on Google Plus Share Share on Pinterest Share Share on LinkedIn Share Share on Digg Share
+
 **Headquarters**
 
 Softonic International
