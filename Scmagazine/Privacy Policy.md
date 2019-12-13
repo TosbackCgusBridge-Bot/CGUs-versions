@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Trojan targeting Facebook Ads Manager could be cyberespionage tool
-    *   Company sued for allegedly hijacking Facebook accounts to serve ads
-    *   Fin7 behind DiBella’s data breach affecting 305,000 cards
-    *   Pensacola hit with cyberattack hours after shooting at naval base
-    *   Mozilla patches 11 vulnerabilities in Firefox 71 and ESR 68.3
-    
-    *   Cybersecurity’s top line: Enabling revenue growth and market expansion
+    *   Data breach more than 4X worse than first thought for Montgomery County schools
+    *   Failure to secure IoT networks has far-reaching consequences, and transportation is a bullseye target
+    *   Patch Tuesday: Adobe announces 25 bug fixes, 21 in Acrobat products
     *   Reputed Vietnamese APT group hacks BMW, Hyundai: report
-    *   Patch Tuesday: Adobe announces 25 bug fixes, 21 in Acrobat products
-    *   Black Friday, Cyber Monday scams are on the loose, businesses need to prepare
-    *   Real-time phishing alerts and stolen password warnings added to Chrome
-    
     *   Pensacola confirms ransomware attack
-    *   Real-time phishing alerts and stolen password warnings added to Chrome
-    *   Unsecured storage bucket exposes applications for birth certificate copies
+    
     *   Patch Tuesday: Adobe announces 25 bug fixes, 21 in Acrobat products
-    *   Microsoft fixes exploited privilege elevation flaw, 34 more bugs
+    *   Data breach reportedly affects over 20M users of Mixcloud streaming service
+    *   TikTok transferred user data to China without consent, lawsuit says
+    *   Unsecured storage bucket exposes applications for birth certificate copies
+    *   Cloud Infrastructure IAM Lessons from the Capital One Breach
+    
+    *   Maze behind Pensacola ransomware attack
+    *   Apple fixes glitch that could lock users out of iPhones
+    *   King slips legislation protecting grid from cyberattacks into 2020 Defense Authorization Bill
+    *   Krampus-3PC malware redirects iPhone users to phishing pages
+    *   Marrying VDI and security: Choose the right tools, not more tools
 
 Back to Top
 
