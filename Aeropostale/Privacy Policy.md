@@ -206,6 +206,7 @@ Close submenu ( Gifts for Her ) Gifts for Her
 *   Cozy
 *   Gifts Under $6
 *   Gifts Under $16
+*   One Size Fits All
 *   Splurge Worthy
 
 Close submenu ( Gifts for Him ) Gifts for Him
@@ -218,6 +219,7 @@ Close submenu ( Gifts for Him ) Gifts for Him
 *   Cozy
 *   Gifts Under $6
 *   Gifts Under $16
+*   One Size Fits All
 *   Splurge Worthy
 
 Close submenu ( Gift Cards ) Gift Cards
@@ -255,7 +257,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**50-70% off Last Minute Gifts, Shop 12 Days of Gifts + FS Over $25**
+**Free Blanket w/ $75 Purchase  GIRLS GUYS + FS Over $25** 
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -479,6 +481,7 @@ Menu Find a Store Aeropostale
         *   Cozy
         *   Gifts Under $6
         *   Gifts Under $16
+        *   One Size Fits All
         *   Splurge Worthy
     
     *   Gifts for Him
@@ -490,8 +493,8 @@ Menu Find a Store Aeropostale
         *   Cozy
         *   Gifts Under $6
         *   Gifts Under $16
+        *   One Size Fits All
         *   Splurge Worthy
-        
     
     *   Gift Cards
         *   View All
@@ -541,8 +544,8 @@ IT'S ALL
 50-70% OFF INCLUDING LAST  
 MINUTE GIFTS
 
-12 Days of Gifting! Day 8: Aero Tech Fleece Navidad.  
-If you like it, you should put a ribbon on it.
+12 Days of Gifting! Day 9: FESTIVE FEET. Run, don’t walk.  
+The best holiday stocking stuffers are selling out quick.
 
 Details
 
@@ -551,21 +554,50 @@ INCLUDING LAST MINUTE GIFTS!
 
 Details
 
-Shop Girls New Arrivals Shop Guys New Arrivals Shop Girls Fleece Shop Guys Tech Fleece AERO'S 12 DAYS  
+Shop Girls New Arrivals Shop Guys New Arrivals Shop Girls Socks Shop Guys Socks AERO'S 12 DAYS  
 OF GIFTING
 
-Day 8: Aero Tech Fleece Navidad.  
-If you like it, you should put a ribbon on it.
+Day 9: FESTIVE FEET. Run, don’t walk.  
+The best holiday stocking stuffers are selling out quick
 
-Shop Girls Fleece Shop Guys Tech Fleece Free $10 AERO CASH CARD
+Shop Girls Socks Shop Guys Socks
 
-When you buy a $50 Gift Card. In Stores &. Online.
+Online Only. While Supplies Last!
 
-Free $10 AERO  
-CASH CARD
+FREE BLANKET
 
-When you buy a $50 Gift Card.  
-In Stores &. Online.
+With a purchase of $75 or more.
+
+  
+
+Our plush, limited-edition  
+holiday blanket was made for  
+winter snuggles.
+
+Online Only.  
+While Supplies Last!
+
+FREE  
+BLANKET
+
+With a purchase of  
+$75 or more.
+
+  
+
+Our plush, limited-edition  
+holiday blanket was made  
+for winter snuggles.
+
+Free $10 AERO CASH CARD
+
+When you buy a $50 Gift  
+Card. In Stores &. Online.
+
+Shop Gift Cards Free $10 AERO CASH CARD
+
+When you buy a $50 Gift  
+Card. In Stores &. Online.
 
 Shop Gift Cards
 
