@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksWho Was the World's First King?1STHow Did the Goldfish Become Everyone's First Pet?2NDHow Dangerous Is the Beaver?3RDU.S. Military Dogs Usually Outrank Their Handlers4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredTrends | Sponsored21 Insanely Cool Gadgets You'll Regret Not Getting Before They Sell OutTrends | SponsoredWorldemand | Sponsored17+ Actors You Didn't Know Were Gay - No. 8 Will Shock WomenWorldemand | SponsoredTruthFinder People Search Subscription | SponsoredLocate anyone by entering their name (this is addicting)TruthFinder People Search Subscription | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted Links7 Key Questions in the U.S. Slavery Reparations Debate1STHow Dangerous Is the Beaver?2NDU.S. Military Dogs Usually Outrank Their Handlers3RDA Heavenly Angels Quiz4THKelley Blue Book | SponsoredYou'd Be Surprised That This Cool Car Is Only Under $25KKelley Blue Book | SponsoredSoGoodly | SponsoredBaby Has Never Eaten Sugar Or Carbs. Wait Till You See Her TodaySoGoodly | SponsoredMentertained | Sponsored21 Walmart Shoppers Dressed To Kill..Try Not To Gasp When You See #1Mentertained | SponsoredAuto Enthusiast | Search Ads | Sponsored8 Cars So Loaded It's Hard to Believe They Cost Under $20kAuto Enthusiast | Search Ads | Sponsored
 
 Advertisement
 
-science - dictionaryWhat Is Planck's Constant, and Why Does the Universe Depend on It?BY Patrick J. Kigerscience - environmental scienceWhy Does the 'Dirty Dancing' Lake Keep Draining?BY Stephanie Parkerculture - peopleWhat's the Difference? QuizBY Alia HoytBarx Buddy | SponsoredHow To Get A Dog To Stop BarkingBarx Buddy | SponsoredTruthFinder People Search Subscription | SponsoredOne Thing All Liars Have in Common, Brace YourselfTruthFinder People Search Subscription | Sponsored
+science - spaceWhy Is the North Star So Stellarly Important?BY Patrick J. Kigerscience - environmental scienceWhy Does the 'Dirty Dancing' Lake Keep Draining?BY Stephanie Parkerscience - environmental scienceWho Was the World's First King?BY Nathan ChandlerWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredTrends | Sponsored21 Insanely Cool Gadgets You'll Regret Not Getting Before They Sell OutTrends | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksDeath Toll: The Movie Body Count QuizDoes Your Brain Get Tired Like the Rest of Your Body?If at First You Don't Succeed, Try Tripe AgainThree Famous Hypotheses and How They Were TestedPermanent Hair Dye, Straighteners Linked to Higher Breast Cancer RiskGroom of the Stool: A Crappy Job With Royal Benefitsby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksDoes Your Brain Get Tired Like the Rest of Your Body?What's the Difference? QuizExotic or Exploited? The Controversial Savannah CatUse of the Exclamation Point Has Exploded!Closing Your Bedroom Door at Night Could Save Your LifeHow to Fake a GPS Location on Your Phoneby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Who Was the World's First King?Read Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StoryTrends21 Insanely Cool Gadgets You'll Regret Not Getting Before They Sell OutTrends|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. 7 Key Questions in the U.S. Slavery Reparations DebateRead Next StoryKelley Blue BookYou'd Be Surprised That This Cool Car Is Only Under $25KKelley Blue Book|SponsoredSponsoredRead Next StorySoGoodlyBaby Has Never Eaten Sugar Or Carbs. Wait Till You See Her TodaySoGoodly|SponsoredSponsoredRead Next Story
