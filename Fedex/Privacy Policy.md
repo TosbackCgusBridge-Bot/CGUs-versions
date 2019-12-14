@@ -4,7 +4,11 @@
 *   Locations All Location Types Find a Location
 *   Support New Customer Center Small Business Center FedEx Service Guide Account Management Tools File a Claim View &. Pay Bill Customer Support
 
-Sign Up or Log In User ID User ID PASSWORD SHOW PASSWORD Remember Me LOGIN Forgot Password/User ID? Get exclusive benefits when you open a FedEx account. CREATE ACCOUNT Menu undefined Top Searched Door Tag Insight Supplies Claims Billing FedEx Privacy Notice FedEx Privacy Notice
+Sign Up or Log In User ID User ID PASSWORD SHOW PASSWORD Remember Me LOGIN Forgot Password/User ID?
+
+Get exclusive benefits when you open a FedEx account.
+
+CREATE ACCOUNT Menu undefined Top Searched Door Tag Insight Supplies Claims Billing FedEx Privacy Notice FedEx Privacy Notice
 
 Your trust matters to us. That is why we protect your information and use it responsibly, while continuing to deliver the excellent service you expect from FedEx. We are committed to protecting your privacy and the security of your personal data. We have created this Privacy Notice to explain how FedEx collects and uses personal data.
 
