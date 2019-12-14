@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Renato Mariotti_: Understanding the House Dems' Impeachment Strategy
+*   _Charles Cooke_: Cheers for Britain &. the Tory Blowout of Historic Proportions
     
-*   _John Kass_: How Horowitz Exposes the Democratic Media Complex
+*   _Camilla Cavendish_: Johnson Has Reshaped UK's Political Landscape
     
-*   _Eric Holder_: William Barr Is Unfit to Be Attorney General
+*   _Dan Balz_: What Happened in Britain Has Implications for U.S.
     
-*   _Sharyl Attkisson_: What We've Learned From Barr's Information Dump
+*   _Conrad Black_: The Damning IG Report &. the Psychotic Attempt to Undo 2016
     
-*   _John Harris_: If Trump Weren't Nuts, He'd Be Remaking American Politics
+*   _Cass Sunstein_: Don't Fear the United States of Impeachment
     
-*   _Jonathan Chait_: Biden &. Burisma: Repeat of Clinton's Email Nightmare?
+*   _Peter Wallison_: The Evidence Against Trump vs. the Evidence Against the FBI
     
-*   _Albert Hunt_: New Odds on the 2020 Democratic Candidates
+*   _Sarah Lyall_: Democrats Agree on One Thing: They're Very, Very Nervous
     
-*   _Boyden Gray_: Media Attack on John Solomon Is an Attack on the Free Press
+*   _John Harris_: Why Warren's Drop in the Polls Will Be Good News for Her
     
-*   _Martin Wolf_: The Legacy and Lessons of Paul Volcker
+*   _William Allen_: Why Blacks Should Move to the Republican Party
     
-*   _Sen. Marco Rubio_: American Industrial Policy and the Rise of China
+*   _Franklin Foer_: Corbynism Can't Happen Here
     
-*   _Morton Kondracke_: Political Reform Movement Is Moving Fast
+*   _Eli Steinberg_: The Silence Surrounding Violence Against Orthodox Jews
     
-*   _Miranda Devine_: The FBI Knew It Was Lying About Trump and Russia
+*   _Tom McTague_: It's Boris Johnson's Britain, Now
     
-*   _Josh Campbell_: Trump's FBI Conspiracy Theory Isn't True
+*   _Brendan O'Neill_: The Fall of Labour's 'Red Wall' Is a Moment to Celebrate
     
-*   _Kevin Williamson_: FBI's Corrupt Cops Part of Pattern of Behavior Under Obama
+*   _Glenn Greenwald_: IG Report Exposes the Fraud &. Lies of the U.S. Media
     
-*   _Gergen &. Piltch_: If Nancy Pelosi Ran for President, She'd Beat Trump
+*   _John Cassidy_: The House Republicans' Slimy Defense of Trump
     
-*   _Rep. Doug Collins_: Pelosi's Impeachment Push Is an Un-American Lie
+*   _David Marcus_: The GOP's Four-Point Defense of Trump Is Devastating
     
-*   _Joel Mathis_: Why Dems Should Embrace a One-Term President Biden
+*   _Charles Blow_: Impeachment in the House Is the Victory
     
-*   _Eric Levitz_: Biden's Answers on Ukraine Should Be Disqualifying
+*   _Paul Sperry_: Carter Page/Ukraine Lie Kept On Lying for Mueller and the FBI
     
-*   _Heather Mac Donald_: The Social Justice Drive to Destroy U.S. Education
+*   _J.T. Young_: Democrats' Self-Inflicted Diversity Vulnerability
     
-*   _David Roberts_: Why the Right's Usual Smears Don't Work on Greta Thunberg
+*   _Bill Scher_: Should Warren and Buttigieg Change Tactics?
     
-*   _Ben Domenech_: No, the Person of the Year Is Not Greta Thunberg
+*   _Mark Hemingway_: Ohio Cracks Down on Voter Fraud
     
-*   _Kristin Tate_: How Can Top Dems Run the Economy With No Business Skill?
+*   _Kate Aronoff_: Trump Is Reviving Anti-Semitism and Anti-Leftism
     
-*   _Jared Bernstein_: Trump's China Trade War Is Failing
+*   _Roger L. Simon_: Trump a Better Friend to the Jews Than Even Truman
     
-*   _Julius Krein_: The Real Class War
+*   _Cox &. Thomson-DeVeaux_: Millennials Are Leaving Religion and Not Coming Back
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Johnson's Conservative Party Wins Thumping Majority in UK Election
 *   Lipson: Unraveling the Criminal Web at Comey's FBI and Beyond
+*   Nadler: Trump Pressured Ukraine Leader to Say He Wasn't Pressured
 *   EWTN/RealClear Poll: U.S. Catholics Open to Reelecting Trump
-*   Graham: Serious Concerns About Whether FISA Court Can Continue
 *   Career Officials Thwart Aid to Christian, Yazidi Genocide Victims
-*   U.S. Catholics' Mood One Year Before the 2020 Election
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -258,14 +258,17 @@ Latest PollsAll Polls
     *   Sanders20
     *   Buttigieg9
     *   Steyer5
-    *   Bloomberg3
     *   Booker5
-    *   Yang2
     *   Gabbard4
+    *   Bloomberg3
+    *   Yang2
     *   Klobuchar2
-    *   Patrick1
     *   Williamson1
+    *   Patrick1
     *   Delaney0Biden +7
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve49
+    *   Disapprove49Tie
 *   California Democratic PrimaryCNN
     *   Biden21
     *   Sanders20
@@ -294,24 +297,14 @@ Latest PollsAll Polls
     *   Patrick1
     *   Williamson0
     *   Delaney0Biden +20
-*   Wisconsin Democratic PrimaryMarquette
-    *   Biden23
-    *   Warren16
-    *   Sanders19
-    *   Buttigieg15
-    *   Bloomberg3
-    *   Booker4
-    *   Yang3
-    *   Klobuchar3
-    *   Gabbard1Biden +4
 
 More Latest Polls In The News
 
+*   Trump: House Democrats Are "Trivializing Impeachment," "Making Absolute Fools Out Of Themselves"
+*   House Judiciary Republicans Denounce Articles Of Impeachment: "A Sad Day For Our Country"
 *   Toobin: "Trump In A Way Has Already Won". Hunter Biden a "Real Challenge For Us As Journalists"
 *   Nadler: Trump Pressured Ukrainian President To Say He Was Not Pressured. "He Has A Gun To His Head"
 *   Victor Davis Hanson: Instead of Introspection, Democrats Become More Zealous When They Fail to Stop Trump
-*   Chuck Todd: While IG Found "Alarming" FBI Misconduct, "Presidential Conspiracy Theories Have Taken Hold"
-*   Lindsey Graham: "I Have Serious Concerns About Whether The FISA Court Can Continue Unless There's Fundamental Reform"
 
 *   Politics
 *   Policy
