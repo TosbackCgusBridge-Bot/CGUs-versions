@@ -9,6 +9,31 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
+    *   Bony Levy Fine Jewelry Up to 60% Off
+    *   Effy Jewelry Up to 65% Off
+    *   TUMI
+    *   Rebecca Minkoff Handbags Up to 50% Off
+    *   Rebecca Minkoff Shoes Up to 50% Off
+    *   Get Gifting: Initial Necklaces &. More
+    *   Rebecca Minkoff Up to 55% Off
+    *   Ready for NYE: Dresses ft. Marina
+    *   Vix Swim
+    *   BED|STU
+    *   Ready for NYE: Chic Coats &. More
+    *   On-Trend Juniors' Looks ft. Wild Honey from $25
+    *   Urban Decay Starting at $10
+    *   Koolaburra by UGG Kids
+    *   Last-Minute Luxe Gifts ft. 360 Cashmere
+    *   Sweaters and More ft. John &. Jenn
+    *   Uri Minkoff
+    *   Psycho Bunny Lounge
+    *   Crevo
+    *   Professional Makeup Brushes &. More Up to 45% Off
+    *   Kenneth Cole Reaction Men
+    *   Isaac Mizrahi Boys' Dresswear Up to 55% Off
+    
+    *   Gift Worthy: Le Creuset Starting at $20
+    *   Toobydoo
     *   adidas
     *   adidas Active
     *   adidas Men
@@ -20,73 +45,59 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Hit the Slopes: Ski Goggles &. More ft. Dragon
     *   Jason Wu Sleepwear, Intimates &. More
     *   Volcom
-    *   Gift or Get: Smart Watch Bands Up to 80% Off
     *   Luxury Fragrances Up to 50% Off
     *   Fine Jewelry from Judith Ripka &. More
     *   Graphic Tees Starting at $15
     *   adidas Kids' Active
-    *   Free Shipping: Pet-Friendly Covers &. More
     *   M by Bruno Magli Up to 50% Off
     *   Julie Lindh Skin Care
     *   Smart Home Accessories &. More from $20
-    *   Gift Worthy: Le Creuset Starting at $20
-    *   Melissa Up to 60% Off
-    *   Lafayette 148 New York
     *   Anthropologie Home
-    
     *   7 For All Mankind Men
-    *   Splendid Up to 60% Off
+    
     *   Mini Melissa
-    *   Kappa Active &. More
-    *   Elodie Under $45
     *   NuFACE Facial Toning Devices Up to 33% Off
     *   Break a Sweat: Men's Hoodies, Pants &. More
     *   Home Essentials: Dyson &. More Up to 60% Off
-    *   Cotton On Starting at $15
-    *   Slimming Shapers, Bodysuits &. More
-    *   The Sak
     *   Dr. Martens Men
-    *   Fancy Flats, Loafers &. More from $35
-    *   Circus by Sam Edelman Up to 55% Off
     *   Freida Rothman Jewelry
     *   Disney Favorites ft. Levi's Kids
     *   Men's Chukka &. Chelsea Boots Up to 60% Off
     *   Cozy Pillows, Throws &. More ft. Nordstrom Rack
     *   7 For All Mankind Kids
-    *   Kalorik Kitchen Appliances &. More
-    *   Luxe Faux Fur Throws &. More Up to 80% Off
     *   Quirky &. Fun Towels, Coasters and More
-    *   David Donahue
-    *   Toy Shop: Games, Dolls &. More Under $15
-    
-    *   Stylish &. Warm: Men's Wool Outerwear
-    *   14K Gold &. Diamonds ft. EF Collection &. More
-    *   GEOX Kids
     *   Maison Forte
     *   Robert Wayne
-    *   For Little Loungers: Hoodies, Joggers &. More
     *   tarte Cosmetics
     *   Algenist Skin Care Starting at $10
-    *   Free Shipping: Down &. Memory Foam Essentials
+    *   New Years Eve Cocktail Party Essentials
+    *   Christmas Countdown: Plush Toys, Sleep &. More
+    *   Lafayette 148 New York
+    *   Kappa Active &. More
     *   Free Shipping: BergHOFF Up to 60% Off
     *   Michael Todd Beauty Soniclear &. More Up to 60% Off
-    *   Men's Dress Shoes Under $100
-    *   Swims
     *   Free Shipping: Quilts, Comforters &. More
-    *   Free Shipping: Chic Vanity Organizers
-    *   Holiday Prep: Kitchen Storage &. Gadgets
-    *   Luxe Holiday Candles ft. Molton Brown &. More
-    *   Cozy Holiday Home: Decor Starting at $15
-    *   Nostalgia Kitchen Appliances from $30
-    *   New Years Eve Cocktail Party Essentials
-    *   Wall Art, Decor &. More from $20
-    *   Christmas Countdown: Plush Toys, Sleep &. More
-    *   MICHELE Watches
-    *   Hair Tools We Love Starting at $10
 *   WomenShop Sale Events
     
+    *   Bony Levy Fine Jewelry Up to 60% Off
+    *   Effy Jewelry Up to 65% Off
+    *   TUMI
+    *   Rebecca Minkoff Handbags Up to 50% Off
+    *   Rebecca Minkoff Shoes Up to 50% Off
+    *   Get Gifting: Initial Necklaces &. More
+    *   Rebecca Minkoff Up to 55% Off
+    *   Ready for NYE: Dresses ft. Marina
+    *   Vix Swim
+    *   BED|STU
+    *   Ready for NYE: Chic Coats &. More
+    *   On-Trend Juniors' Looks ft. Wild Honey from $25
+    *   Urban Decay Starting at $10
+    *   Last-Minute Luxe Gifts ft. 360 Cashmere
+    *   Sweaters and More ft. John &. Jenn
+    *   Professional Makeup Brushes &. More Up to 45% Off
     *   adidas
     *   adidas Active
+    
     *   Catherine Catherine Malandrino Incl. Plus &. Petites
     *   Betsey Johnson &. Love...Ady Dresses
     *   ECCO for Her Up to 55% Off
@@ -97,51 +108,39 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Graphic Tees Starting at $15
     *   M by Bruno Magli Up to 50% Off
     *   Julie Lindh Skin Care
-    *   Melissa Up to 60% Off
-    *   Lafayette 148 New York
-    *   Splendid Up to 60% Off
-    
-    *   Kappa Active &. More
-    *   Elodie Under $45
     *   NuFACE Facial Toning Devices Up to 33% Off
-    *   Cotton On Starting at $15
-    *   Slimming Shapers, Bodysuits &. More
-    *   The Sak
-    *   Fancy Flats, Loafers &. More from $35
-    *   Circus by Sam Edelman Up to 55% Off
     *   Freida Rothman Jewelry
-    *   14K Gold &. Diamonds ft. EF Collection &. More
     *   tarte Cosmetics
     *   Algenist Skin Care Starting at $10
+    *   Lafayette 148 New York
+    *   Kappa Active &. More
     *   Michael Todd Beauty Soniclear &. More Up to 60% Off
-    *   MICHELE Watches
-    *   Hair Tools We Love Starting at $10
     
     Shop By Category
     *   Clothing
-    *   Lingerie &. Shapewear
-    *   Shoes
-    *   Jewelry
     *   Handbags
+    *   Jewelry
+    *   Shoes
+    *   Lingerie &. Shapewear
     *   Accessories
-    *   Watches
 *   MenShop Sale Events
     
+    *   TUMI
+    *   Uri Minkoff
+    *   Psycho Bunny Lounge
+    *   Crevo
+    *   Kenneth Cole Reaction Men
     *   adidas Men
     *   adidas Men's Active
     *   Hit the Slopes: Ski Goggles &. More ft. Dragon
+    
     *   Volcom
     *   7 For All Mankind Men
     *   Break a Sweat: Men's Hoodies, Pants &. More
     *   Dr. Martens Men
-    
     *   Men's Chukka &. Chelsea Boots Up to 60% Off
-    *   David Donahue
-    *   Stylish &. Warm: Men's Wool Outerwear
     *   Maison Forte
     *   Robert Wayne
-    *   Men's Dress Shoes Under $100
-    *   Swims
     
     Shop By Category
     *   Clothing
@@ -149,79 +148,67 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Koolaburra by UGG Kids
+    *   Isaac Mizrahi Boys' Dresswear Up to 55% Off
+    *   Toobydoo
     *   adidas Kids
     *   adidas Kids' Active
     *   Mini Melissa
     *   Disney Favorites ft. Levi's Kids
     *   7 For All Mankind Kids
-    *   Toy Shop: Games, Dolls &. More Under $15
-    *   GEOX Kids
-    *   For Little Loungers: Hoodies, Joggers &. More
     *   Christmas Countdown: Plush Toys, Sleep &. More
     
     Shop By Category
-    *   Girls' Shoes
-    *   Girls' Sizes 7-16
-    *   Boys' Sizes 2T-7
-    *   Girls' Sizes 2T-6X
-    *   Toy Shop
     *   Boys' Sizes 8-20
-    *   Boys' Shoes
+    *   Boys' Sizes 2T-7
+    *   Girls' Shoes
+    *   Girls' Sizes 2T-6X
+    *   Girls' Sizes 7-16
     *   Baby Boy
+    *   Boys' Shoes
     *   Baby Girl
+    *   Toy Shop
     *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
-    *   Gift or Get: Smart Watch Bands Up to 80% Off
-    *   Free Shipping: Pet-Friendly Covers &. More
-    *   Smart Home Accessories &. More from $20
+    *   TUMI
     *   Gift Worthy: Le Creuset Starting at $20
+    *   Smart Home Accessories &. More from $20
     *   Anthropologie Home
     *   Home Essentials: Dyson &. More Up to 60% Off
     *   Cozy Pillows, Throws &. More ft. Nordstrom Rack
-    *   Kalorik Kitchen Appliances &. More
-    *   Luxe Faux Fur Throws &. More Up to 80% Off
     *   Quirky &. Fun Towels, Coasters and More
-    
-    *   Free Shipping: Down &. Memory Foam Essentials
+    *   New Years Eve Cocktail Party Essentials
     *   Free Shipping: BergHOFF Up to 60% Off
     *   Free Shipping: Quilts, Comforters &. More
-    *   Free Shipping: Chic Vanity Organizers
-    *   Holiday Prep: Kitchen Storage &. Gadgets
-    *   Luxe Holiday Candles ft. Molton Brown &. More
-    *   Cozy Holiday Home: Decor Starting at $15
-    *   Nostalgia Kitchen Appliances from $30
-    *   New Years Eve Cocktail Party Essentials
-    *   Wall Art, Decor &. More from $20
     
     Shop By Category
     *   Kitchen &. Tabletop
-    *   Home Decor
     *   Bedding
-    *   Pet Accessories
+    *   Luggage &. Travel
+    *   Home Decor
     *   Electronic &. Tech Accessories
-    *   Holiday Decorations
     *   Bath
     *   Cleaning &. Organization
-    *   Rugs &. Doormats
-    *   Luggage &. Travel
+    *   Holiday Decorations
     *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Urban Decay Starting at $10
+    *   Professional Makeup Brushes &. More Up to 45% Off
     *   Luxury Fragrances Up to 50% Off
     *   Julie Lindh Skin Care
     *   NuFACE Facial Toning Devices Up to 33% Off
     *   tarte Cosmetics
     *   Algenist Skin Care Starting at $10
     *   Michael Todd Beauty Soniclear &. More Up to 60% Off
-    *   Hair Tools We Love Starting at $10
     
     Shop By Category
     *   Skin Care
-    *   Hair Care
     *   Makeup
     *   Fragrance
     *   Tools &. Accessories
+    *   Makeup Bags
     *   Bath &. Body
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
