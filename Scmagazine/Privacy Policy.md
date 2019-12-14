@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Data breach more than 4X worse than first thought for Montgomery County schools
-    *   Failure to secure IoT networks has far-reaching consequences, and transportation is a bullseye target
-    *   Patch Tuesday: Adobe announces 25 bug fixes, 21 in Acrobat products
-    *   Reputed Vietnamese APT group hacks BMW, Hyundai: report
-    *   Pensacola confirms ransomware attack
-    
-    *   Patch Tuesday: Adobe announces 25 bug fixes, 21 in Acrobat products
-    *   Data breach reportedly affects over 20M users of Mixcloud streaming service
-    *   TikTok transferred user data to China without consent, lawsuit says
+    *   Pensacola hit with cyberattack hours after shooting at naval base
     *   Unsecured storage bucket exposes applications for birth certificate copies
-    *   Cloud Infrastructure IAM Lessons from the Capital One Breach
+    *   Reputed Vietnamese APT group hacks BMW, Hyundai: report
+    *   As threats dramatically increase, critical infrastructure cybersecurity training must evolve
+    *   Trojan targeting Facebook Ads Manager could be cyberespionage tool
     
-    *   Maze behind Pensacola ransomware attack
+    *   OAuth vulnerability threatens Azure accounts
+    *   Devin Nunes' cow Twitter account owner should remain anonymous, ACLU says
+    *   The new CISO – Building a strong foundation for a successful future
+    *   Phishing scam uses fake giveaways to lure in Steam gaming service users
     *   Apple fixes glitch that could lock users out of iPhones
-    *   King slips legislation protecting grid from cyberattacks into 2020 Defense Authorization Bill
-    *   Krampus-3PC malware redirects iPhone users to phishing pages
-    *   Marrying VDI and security: Choose the right tools, not more tools
+    
+    *   Visa warns against new POS attacks, Fin8 fingered as the culprit
+    *   Dread Zeppelin: Ransomware targets health care and IT sectors in U.S., Europe
+    *   Maze ransomware possibly behind Southwire attack
+    *   A hard truth: The lessons we never learn during National Cybersecurity Awareness Month – but should
+    *   Maze behind Pensacola ransomware attack
 
 Back to Top
 
