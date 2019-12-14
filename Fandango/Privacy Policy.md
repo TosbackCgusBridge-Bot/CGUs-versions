@@ -503,10 +503,6 @@ We have separate policies for workforce data, which is governed by the policies 
 
 Offers
 
-*   'Jumanji: The Next Level' Limited Time Offer
-    
-    Get $5 off\* when you use promo code 'NEXTLEVEL' at checkout. \*Terms apply. While supplies last. BUY TICKETS
-    
 *   Get A Free Movie Ticket and $10 Concession Money
     
     When you spend $100+ on Gift Cards. SEE DETAILS
@@ -515,9 +511,9 @@ Offers
     
     When you purchase 3 specially marked boxes of Chex Cereal. SEE DETAILS
     
-*   FREE $20 Movie Experience
+*   Binge All The Golden Globes Nominees With FandangoNOW
     
-    When you purchase 2 participating Yoplait or GO-GURT products. SEE DETAILS
+    Catch up with titles at home or those still in theaters! SEE DETAILS
     
 
 New + Coming soon
