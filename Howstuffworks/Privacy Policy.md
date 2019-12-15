@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted Links7 Key Questions in the U.S. Slavery Reparations Debate1STHow Dangerous Is the Beaver?2NDU.S. Military Dogs Usually Outrank Their Handlers3RDA Heavenly Angels Quiz4THKelley Blue Book | SponsoredYou'd Be Surprised That This Cool Car Is Only Under $25KKelley Blue Book | SponsoredSoGoodly | SponsoredBaby Has Never Eaten Sugar Or Carbs. Wait Till You See Her TodaySoGoodly | SponsoredMentertained | Sponsored21 Walmart Shoppers Dressed To Kill..Try Not To Gasp When You See #1Mentertained | SponsoredAuto Enthusiast | Search Ads | Sponsored8 Cars So Loaded It's Hard to Believe They Cost Under $20kAuto Enthusiast | Search Ads | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted Links8 Wild and Sprawling Facts About Mongolia1STThree Famous Hypotheses and How They Were Tested2NDThe Ultimate Downsize: Living in a Shipping Container Home3RDIf at First You Don't Succeed, Try Tripe Again4THHorizontimes | SponsoredRemember Tiger Woods' Ex-wife? Try Not To Gasp When You See Her NowHorizontimes | SponsoredYeah Motor | SponsoredThis Photo is Not Edited..Look CloserYeah Motor | Sponsored90min | SponsoredThese Twins Were Named "Most Beautiful In The World," Wait Till You See Them Today90min | SponsoredWorldemand | Sponsored17+ Actors You Didn't Know Were Gay - No. 8 Will Shock WomenWorldemand | Sponsored
 
 Advertisement
 
-science - spaceWhy Is the North Star So Stellarly Important?BY Patrick J. Kigerscience - environmental scienceWhy Does the 'Dirty Dancing' Lake Keep Draining?BY Stephanie Parkerscience - environmental scienceWho Was the World's First King?BY Nathan ChandlerWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredTrends | Sponsored21 Insanely Cool Gadgets You'll Regret Not Getting Before They Sell OutTrends | Sponsored
+tech - electronicsHow to Fake a GPS Location on Your PhoneBY Nathan Chandlerscience - militaryU.S. Military Dogs Usually Outrank Their HandlersBY Nathan Chandlerhome &. garden - appliancesWhat's the Difference Between a Pressure Cooker and an Instant Pot?BY Jeremy GlassFinance101 | SponsoredThis Is The Last Photo Ever Taken Of ThemFinance101 | SponsoredChevrolet Silverado | Search Ads | SponsoredThe New Chevrolet Silverado Is Simply Astonishing!Chevrolet Silverado | Search Ads | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksDoes Your Brain Get Tired Like the Rest of Your Body?What's the Difference? QuizExotic or Exploited? The Controversial Savannah CatUse of the Exclamation Point Has Exploded!Closing Your Bedroom Door at Night Could Save Your LifeHow to Fake a GPS Location on Your Phoneby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWho Was the World's First King?Closing Your Bedroom Door at Night Could Save Your Life7 Key Questions in the U.S. Slavery Reparations DebateHow Dangerous Is the Beaver?Shhh! Don't Tell. There's a Secret Apartment Atop the Eiffel TowerWhat's the Difference? Quizby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. 7 Key Questions in the U.S. Slavery Reparations DebateRead Next StoryKelley Blue BookYou'd Be Surprised That This Cool Car Is Only Under $25KKelley Blue Book|SponsoredSponsoredRead Next StorySoGoodlyBaby Has Never Eaten Sugar Or Carbs. Wait Till You See Her TodaySoGoodly|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. 8 Wild and Sprawling Facts About MongoliaRead Next StoryHorizontimesRemember Tiger Woods' Ex-wife? Try Not To Gasp When You See Her NowHorizontimes|SponsoredSponsoredRead Next StoryYeah MotorThis Photo is Not Edited..Look CloserYeah Motor|SponsoredSponsoredRead Next Story
