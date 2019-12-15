@@ -212,17 +212,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Pensacola hit with cyberattack hours after shooting at naval base
-    *   Unsecured storage bucket exposes applications for birth certificate copies
-    *   Reputed Vietnamese APT group hacks BMW, Hyundai: report
-    *   As threats dramatically increase, critical infrastructure cybersecurity training must evolve
-    *   Trojan targeting Facebook Ads Manager could be cyberespionage tool
-    
-    *   OAuth vulnerability threatens Azure accounts
-    *   Devin Nunes' cow Twitter account owner should remain anonymous, ACLU says
+    *   TikTok transferred user data to China without consent, lawsuit says
     *   The new CISO – Building a strong foundation for a successful future
-    *   Phishing scam uses fake giveaways to lure in Steam gaming service users
-    *   Apple fixes glitch that could lock users out of iPhones
+    *   Company sued for allegedly hijacking Facebook accounts to serve ads
+    *   Data breach more than 4X worse than first thought for Montgomery County schools
+    *   Maze ransomware possibly behind Southwire attack
+    
+    *   Magecart skimmer group guns for Smith &. Wesson's Black Friday sales
+    *   Unsecured storage bucket exposes applications for birth certificate copies
+    *   Mozilla patches 11 vulnerabilities in Firefox 71 and ESR 68.3
+    *   Microsoft fixes exploited privilege elevation flaw, 34 more bugs
+    *   Company sued for allegedly hijacking Facebook accounts to serve ads
     
     *   Visa warns against new POS attacks, Fin8 fingered as the culprit
     *   Dread Zeppelin: Ransomware targets health care and IT sectors in U.S., Europe
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
