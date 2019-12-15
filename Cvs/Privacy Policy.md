@@ -135,7 +135,7 @@ You are responsible for maintaining the confidentiality of your Services access 
   
 Telephone, Text and Fax Policy
 
-By providing your residential or wireless phone and/or fax number(s) to CVS, you expressly consent to receive marketing and non-marketing autodialed and/or prerecorded calls, text messages and faxes (including fax advertisements) from or on behalf of CVS at the number(s) provided. Your consent to receive calls or texts on your wireless device is not a condition of any purchase. Consent may be revoked at any time by calling the toll-free number at 1-800-SHOPCVS or faxing your opt-out request to 1-401-652-0893. You may also send an opt-out request via email to do\_not\_call@cvscaremark.com with the phone and/or fax number you wish to opt-out. Your wireless carrierâ€™s standard message and data rates may apply.
+By providing your residential or wireless phone and/or fax number(s) to CVS, you expressly consent to receive marketing and non-marketing autodialed and/or prerecorded calls, text messages and faxes (including fax advertisements) from or on behalf of CVS at the number(s) provided. Your consent to receive calls or texts on your wireless device is not a condition of any purchase. Consent may be revoked at any time by calling the toll-free number at 1-800-SHOPCVS or faxing your opt-out request to 1-401-652-0893. You may also send an opt-out request via email to do\_not\_call@cvscaremark.com with the phone and/or fax number you wish to opt-out. Your wireless carrier's standard message and data rates may apply.
 
   
 Text Messaging Terms and Conditions
