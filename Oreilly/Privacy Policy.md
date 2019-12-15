@@ -390,6 +390,10 @@ Upcoming Conferences
 *   Software Architecture Jun 15–18, Santa Clara
 *   Infrastructure &. Ops Jun 15–18, Santa Clara
 *   OSCON Jul 13–16, Portland
+*   Strata &. AI Sep 14–17, New York
+*   TensorFlow Oct 19–22, Santa Clara
+*   Software Architecture Nov 16–19, Berlin
+*   Infrastructure &. Ops Nov 16–19, Berlin
 
 The O'Reilly Approach
 
