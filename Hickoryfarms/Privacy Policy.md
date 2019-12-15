@@ -90,7 +90,7 @@
 *   Sale
     View All Categories Shop by Category*   Flash Sale
 
-1.800.753.8558 Business Gifts Free shipping on select gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
+1.800.753.8558 Business Gifts National Free Shipping Day! Today Only, get Free Shipping–No Minimum!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
 
 *   Gift Baskets
     
