@@ -257,7 +257,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Free Blanket w/ $75 Purchase  GIRLS GUYS + FS Over $25** 
+**50-70% off Last Minute Gifts, Shop  GIRLS GUYS + FS Over $25** 
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -544,8 +544,8 @@ IT'S ALL
 50-70% OFF INCLUDING LAST  
 MINUTE GIFTS
 
-12 Days of Gifting! Day 9: FESTIVE FEET. Run, don’t walk.  
-The best holiday stocking stuffers are selling out quick.
+12 Days of Gifting! Day 10: Let love linger. Give them the scents of  
+adventure this season.
 
 Details
 
@@ -554,50 +554,21 @@ INCLUDING LAST MINUTE GIFTS!
 
 Details
 
-Shop Girls New Arrivals Shop Guys New Arrivals Shop Girls Socks Shop Guys Socks AERO'S 12 DAYS  
+Shop Girls New Arrivals Shop Guys New Arrivals Shop Girls Fragrance Shop Guys Fragrance AERO'S 12 DAYS  
 OF GIFTING
 
-Day 9: FESTIVE FEET. Run, don’t walk.  
-The best holiday stocking stuffers are selling out quick
+Day 10: Let love linger. Give them  
+the scents of adventure this season.
 
-Shop Girls Socks Shop Guys Socks
+Shop Girls Fragrance Shop Guys Fragrance Free $10 AERO CASH CARD
 
-Online Only. While Supplies Last!
+When you buy a $50 Gift Card. In Stores &. Online.
 
-FREE BLANKET
+Free $10 AERO  
+CASH CARD
 
-With a purchase of $75 or more.
-
-  
-
-Our plush, limited-edition  
-holiday blanket was made for  
-winter snuggles.
-
-Online Only.  
-While Supplies Last!
-
-FREE  
-BLANKET
-
-With a purchase of  
-$75 or more.
-
-  
-
-Our plush, limited-edition  
-holiday blanket was made  
-for winter snuggles.
-
-Free $10 AERO CASH CARD
-
-When you buy a $50 Gift  
-Card. In Stores &. Online.
-
-Shop Gift Cards Free $10 AERO CASH CARD
-
-When you buy a $50 Gift  
-Card. In Stores &. Online.
+When you buy a $50 Gift Card.  
+In Stores &. Online.
 
 Shop Gift Cards
 
