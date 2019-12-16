@@ -38,10 +38,10 @@ Main menu
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV1:15 Criminal Confessions Investigators Make A Break In Texas Cold Case 1:02 Criminal Confessions What Happened To Missing Texas Woman Naomi Michelle Miller? 3:26 Criminal Confessions What Was Chris Watts Motive For Killing His Entire Family? Experts from ‘Criminal Confessions’ Weigh In
+    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 1:42 Crime News Teacher-Student Sex Scandals 2:23 Crime News Couples Caught Having Public Sex
 *   News
     *   Crime News
-    *   True Crime BuzzMaria Alavez Photo: Bridgeton Police Department Crime News Mom Of Missing 5-Year-Old Suspects 'Old Friend' Shanann Watts and Christopher Watts Photo: Facebook. Getty Crime News Investigators Describe How They Found Chris Watts’ Victims Luka Rocco Magnotta Photo: AP True Crime Buzz Netflix Doc Will Tell The Sick Story Of Luke Magnotta
+    *   True Crime BuzzNicholas Godejohn and Gypsy Rose Blanchard are both doing time for the murder of her mother Clauddine "Dee Dee' Blanchard. Photo: Associated Press True Crime Buzz What Does Gypsy Rose Blanchard Look Like Today? Grissel Gonzaga Photo: LVMPD Crime News Woman Allegedly Kills Ex's New Lover With Tweezers
 *   Podcasts
 *   Detective's Den
 *   Schedule
@@ -78,7 +78,8 @@ About Oxygen
 
 *   About Us
 *   FAQ
-*   Privacy Policy
+*   Privacy Policy - New
+*   Do Not Sell My Personal Information
 *   Terms of Service
 *   Closed Captioning
 *   HTML Sitemap
