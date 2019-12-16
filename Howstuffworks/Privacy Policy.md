@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted Links8 Wild and Sprawling Facts About Mongolia1STThree Famous Hypotheses and How They Were Tested2NDThe Ultimate Downsize: Living in a Shipping Container Home3RDIf at First You Don't Succeed, Try Tripe Again4THHorizontimes | SponsoredRemember Tiger Woods' Ex-wife? Try Not To Gasp When You See Her NowHorizontimes | SponsoredYeah Motor | SponsoredThis Photo is Not Edited..Look CloserYeah Motor | Sponsored90min | SponsoredThese Twins Were Named "Most Beautiful In The World," Wait Till You See Them Today90min | SponsoredWorldemand | Sponsored17+ Actors You Didn't Know Were Gay - No. 8 Will Shock WomenWorldemand | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksClosing Your Bedroom Door at Night Could Save Your Life1STHow Dangerous Is the Beaver?2NDWhy Does the 'Dirty Dancing' Lake Keep Draining?3RDHow to Fake a GPS Location on Your Phone4THSUV | SponsoredUnsold 2018 SUVs Going for Pennies On The Dollar: Great For Seniors! Search For Luxury Crossover SUV DealsSUV | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredAssisted Living | SponsoredLuxury Assisted Living In Aurora Is Actually Affordable. Research Assisted Living Near Me PricesAssisted Living | SponsoredDirectExpose | Sponsored13-Yr-Old Builds Own House For $1,500: Look When He Opens Door And Reveals 89 Sq Ft MasterpieceDirectExpose | Sponsored
 
 Advertisement
 
-tech - electronicsHow to Fake a GPS Location on Your PhoneBY Nathan Chandlerscience - militaryU.S. Military Dogs Usually Outrank Their HandlersBY Nathan Chandlerhome &. garden - appliancesWhat's the Difference Between a Pressure Cooker and an Instant Pot?BY Jeremy GlassFinance101 | SponsoredThis Is The Last Photo Ever Taken Of ThemFinance101 | SponsoredChevrolet Silverado | Search Ads | SponsoredThe New Chevrolet Silverado Is Simply Astonishing!Chevrolet Silverado | Search Ads | Sponsored
+science - spaceWhy Is the North Star So Stellarly Important?BY Patrick J. Kigerscience - innovationThe Ultimate Downsize: Living in a Shipping Container HomeBY Carrie Whitney, Ph.D.science - militaryU.S. Military Dogs Usually Outrank Their HandlersBY Nathan ChandlerAmerican Giant | Sponsored If You Can Buy One of These American Giant Hoodies, Do It NowAmerican Giant | SponsoredTrends | Sponsored21 Insanely Cool Gifts That Are Going To Sell Out Before ChristmasTrends | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWho Was the World's First King?Closing Your Bedroom Door at Night Could Save Your Life7 Key Questions in the U.S. Slavery Reparations DebateHow Dangerous Is the Beaver?Shhh! Don't Tell. There's a Secret Apartment Atop the Eiffel TowerWhat's the Difference? Quizby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhat Is Planck's Constant, and Why Does the Universe Depend on It?If at First You Don't Succeed, Try Tripe AgainWho Was the World's First King?How Manifest Destiny Stretched the U.S. From Sea to Shining SeaThree Famous Hypotheses and How They Were Tested7 Key Questions in the U.S. Slavery Reparations Debateby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. 8 Wild and Sprawling Facts About MongoliaRead Next StoryHorizontimesRemember Tiger Woods' Ex-wife? Try Not To Gasp When You See Her NowHorizontimes|SponsoredSponsoredRead Next StoryYeah MotorThis Photo is Not Edited..Look CloserYeah Motor|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Closing Your Bedroom Door at Night Could Save Your LifeRead Next StorySUVUnsold 2018 SUVs Going for Pennies On The Dollar: Great For Seniors! Search For Luxury Crossover SUV DealsSUV|SponsoredSponsoredRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next Story
