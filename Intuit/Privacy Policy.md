@@ -1,6 +1,6 @@
 Free Shipping Over $49See DetailsEnable Accessibility
 
-*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
+*   My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -23,7 +23,9 @@ Shop Departments
     *   Same Day Pickup
     *   Weekly Ad
 
-Near YouFind a StoreBackFinal Hours Of COUPON CODE MERRY77ENDS IN00HOURS 41MINS 22SECS See Details\*Extra 30% off select apparel, shoes, accessories, fine jewelry and home purchases. Extra 10% off furniture, mattresses, housewares, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches and salon products. Each offer good at jcp.com only, excluding taxes and shipping charges, 12/12/19-12/14/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Best Value, Daily Deals, Limited Time Specials, Levi's, Denizen from Levi’s, Disney Collection, Disney Tsum Tsum, French Toast, Fisher-Price, Fanatics, Licensed Team Sports Merchandise, Columbia, Carhartt, Nike, adidas, Reebok, Puma, Champion, Converse, Clarks, Skechers Women's Shoes, Skechers Athletic Shoes, Bobs from Skechers, Keds, Grasshoppers, Athletic Shoes, Goddess Lingerie, Dreamgirl, Jewelry Trunk Shows, Modern Bride Design Your Dream Ring, Pre-Owned Watches, Smartwatches, Garmin, Fitbit, Sephora, Food, Penney Lane, S'ip by S'well, Electronics, Brookstone, Sharper Image, In-Home Custom Design, Tempur-Pedic, Neato Robotics, iRobot, Sporting Goods/Outdoor Gear, Toys, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Personalized Jewelry, Wigs and Extensions, Purchase with Purchase Items, In-Store Services, Service Plans, Gift Cards, Closing Store purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code MERRY77 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. DetailsSUGAR, SPICE &. DEALS SO NICEShop kitchen deals from the brands you love.  
+Near YouFind a StoreBack12.99 EA.St. John’s Bay Active 1/4-zip fleece select styles | reg. $27 ea.  
+60% OFF  
+Men’s outerwear select styles | **sale $31.99-$71.99** | reg. $80-$18060% OFFBabies’ holiday playwear &. accessories select styles | **sale $3.99 - $23.79** | reg. $14 - $7225%-40% OFFDisney toys select styles **sale $9-$93.75** | reg. $15-$135 Excluded from coupons. SUGAR, SPICE &. DEALS SO NICEShop kitchen deals from the brands you love.  
 COZY DOWN TO THEIR MISTLETOES  
 Shop holiday home must-haves.25% OFFadidas for the family | select styles **sale $15-$37.50** | reg. $20-$85 Excluded from coupons.  
 25% OFFMen’s &. boys’ Puma activewear | select styles **sale $14.99-$48.75** | reg. $20-$65 Excluded from coupons.  
@@ -35,9 +37,6 @@ UP TO 60% OFFKids’ jackets &. coats | select styles **sale $12.80-$67.60** | 
 50% OFFCold-weather accessoriesselect styles**sale $7.99-$28.99 |** reg. $16-$58  
 19.99a.n.a sweaterselect stylesreg. $3750% OFFSweaters for himselect styles **sale $19.99-$24.99 |** reg. $40-$50   
 40-50% OFFKids' sweatersselect styles**sale $12.99-$19.99 |** reg. $30-$40  
-9.99 EA.Women’s fleece pajama pants select styles | reg. $24 ea.  
-12.99 EA.Men’s Stafford pajama pants select styles | reg. $32 ea.  
-7.99 EA.Kids’ sleep separates select styles | reg. $22 ea.  
 MUST-HAVE GIFTSThese delightful finds will warm the hearts of everyone on your list. Excluded from coupons.  
 
 *   STARTING AT $8
@@ -45,15 +44,17 @@ MUST-HAVE GIFTSThese delightful finds will warm the hearts of everyone on your l
 *   CHI FLAT IRONS
 *   HAIRCARE GIFT SETS
 
-**Customer Top Rated  - Five Star Gifts Under $100**GIFTS UNDER $15GIFTS UNDER $25GIFTS UNDER $50GIFTS UNDER $100SHOP THE LOCAL LOOKJCPenney is teaming up with fashion and lifestyle influencers to bring you a curatedselection of their top picks. Check back everymonth to see new styles.JOIN IN THE FUN  
+Customer Top Rated - Five Star Gifts Under $100GIFTS UNDER $15GIFTS UNDER $25GIFTS UNDER $50GIFT CARDSSHOP THE LOCAL LOOKJCPenney is teaming up with fashion and lifestyle influencers to bring you a curatedselection of their top picks. Check back everymonth to see new styles.JOIN IN THE FUN  
 Countdown to Christmas is on! Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 40 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   $1874after couponwas $80 Arizona Womens Denver Wide Calf Block Heel Riding Boots(55)
-*   $1874after couponwas $80 Arizona Womens Dino Riding Boots Block Heel(75)
-*   $1874after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(68)
-*   $224 - $1499after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(438)
-*   $1874after couponwas $80 Arizona Womens Pines Block Heel Over the Knee Boots(63)
-*   $1874after couponwas $60 Arizona Womens Siesta Booties(29)
+*   $2124after couponwas $80 Arizona Womens Denver Wide Calf Block Heel Riding Boots(57)
+*   $2124after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(70)
+*   $2124after couponwas $80 Arizona Womens Pines Block Heel Over the Knee Boots(66)
+*   $2124after couponwas $60 Arizona Womens Siesta Booties(29)
+*   $254 - $1699after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(438)
+*   SPECIAL DEAL!
+    
+    $1359after couponwas $84 Arizona - Girls Hooded Faux Fur Trim Heavyweight Puffer Jacket(45)
 
 Shop and Save at JCPenney
 
