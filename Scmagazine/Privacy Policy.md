@@ -212,17 +212,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   TikTok transferred user data to China without consent, lawsuit says
-    *   The new CISO – Building a strong foundation for a successful future
+    *   Cloud Infrastructure IAM Lessons from the Capital One Breach
     *   Company sued for allegedly hijacking Facebook accounts to serve ads
-    *   Data breach more than 4X worse than first thought for Montgomery County schools
-    *   Maze ransomware possibly behind Southwire attack
+    *   IG report says FBI justified in starting Russia probe. Barr disagrees
+    *   Snatch ransomware encrypts files in Safe Mode to thwart security software
+    *   King slips legislation protecting grid from cyberattacks into 2020 Defense Authorization Bill
     
-    *   Magecart skimmer group guns for Smith &. Wesson's Black Friday sales
-    *   Unsecured storage bucket exposes applications for birth certificate copies
-    *   Mozilla patches 11 vulnerabilities in Firefox 71 and ESR 68.3
-    *   Microsoft fixes exploited privilege elevation flaw, 34 more bugs
-    *   Company sued for allegedly hijacking Facebook accounts to serve ads
+    *   Phishing scam uses fake giveaways to lure in Steam gaming service users
+    *   Same story all over again: Microsoft research finds millions of reused passwords
+    *   A hard truth: The lessons we never learn during National Cybersecurity Awareness Month – but should
+    *   King slips legislation protecting grid from cyberattacks into 2020 Defense Authorization Bill
+    *   It’s past time to contain identity sprawl. Here’s how to do it.
     
     *   Visa warns against new POS attacks, Fin8 fingered as the culprit
     *   Dread Zeppelin: Ransomware targets health care and IT sectors in U.S., Europe
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
