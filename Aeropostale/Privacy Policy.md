@@ -257,7 +257,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**50-70% off Last Minute Gifts, Shop  GIRLS GUYS + FS Over $25** 
+**Free Shipping on Everything! No minimum required.**
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -532,20 +532,33 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ON ORDERS OVER $25 Search Catalog Search
+ON ALL ORDERS Search Catalog Search
 
-**GET IT ON TIME!** Free shipping when you spend $25
+**5 DAYS LEFT TO GET IT ON TIME!** Learn More
 
-**GET IT ON TIME!** Free shipping when you spend $25
+**5 DAYS LEFT TO GET IT ON TIME!** Learn More
 
-In Stores &. Online
+ENDS TOMORROW!
 
-IT'S ALL  
-50-70% OFF INCLUDING LAST  
-MINUTE GIFTS
+FREE SHIPPING ON EVERY-THING!
 
-12 Days of Gifting! Day 10: Let love linger. Give them the scents of  
-adventure this season.
+And we mean everything. No minimum required. + 50-70% OFF LAST MINUTE GIFTS.
+
+Shop Girls Shop Guys
+
+ENDS TOMORROW!
+
+FREE SHIPPING  
+ON EVERY-THING!
+
+And we mean everything. No minimum required.  
+\+ 50-70% OFF LAST MINUTE GIFTS.
+
+Shop Girls Shop Guys AERO's 12 DAYS  
+OF GIFTING
+
+Day 11: Crave-worthy texture, can't-live-without softness.  
+These are the sweaters that will get her in her feels.
 
 Details
 
@@ -554,13 +567,12 @@ INCLUDING LAST MINUTE GIFTS!
 
 Details
 
-Shop Girls New Arrivals Shop Guys New Arrivals Shop Girls Fragrance Shop Guys Fragrance AERO'S 12 DAYS  
+Shop Girls New Arrivals Shop Guys New Arrivals Shop Girls Sweaters Shop Guys Gifts AERO'S 12 DAYS  
 OF GIFTING
 
-Day 10: Let love linger. Give them  
-the scents of adventure this season.
+Day 11: Crave-worthy texture, can't-live-without softness. These are the sweaters that will get her in her feels.
 
-Shop Girls Fragrance Shop Guys Fragrance Free $10 AERO CASH CARD
+Shop Girls Sweaters Shop Guys Gifts Free $10 AERO CASH CARD
 
 When you buy a $50 Gift Card. In Stores &. Online.
 
