@@ -46,7 +46,7 @@ Visit Indeed
 
 **Privacy Policy**
 
-Last updated December 13, 2019
+Last updated December 16, 2019
 
 **Summary of Indeed’s Privacy Policy** **1\. Introduction**
 
@@ -331,7 +331,7 @@ If you have an Indeed account or an Indeed-hosted resume, you agree that Indeed 
 
 Indeed provides two-way message proxy and relay services to the users of our Indeed products (“Relay Service”), including, but not limited to: Indeed Resume, Indeed Apply, Post a Job, Indeed Chat, Indeed Onboarding, Indeed Text2Apply, Indeed Community, private calling, and other electronic communication services whether in the form of phone, text, video or audio. By utilizing any Relay Service, you acknowledge that you are asking Indeed to send these messages on your behalf. This includes your resumes, cover letters, applications, messages, questionnaire answers, responses, offer letters and other materials. Indeed may provide read receipts to the sender of a message through a Relay Service indicating that the recipient has viewed the message.
 
-We process, monitor, review, store and analyze such content, including via automated means, for data analysis, quality control, enforcement of the Site Rules and other Indeed policies, content moderation, and to improve the Site or any other Indeed product or service. Examples of such improvements would be improving the open rate of messages by optimizing their delivery, optimizing our search results, improving Job Listings, permitting applicants to manage their applications after transmitting them to Indeed, ensuring you are provided with personally relevant product features and communications, and preventing fraud and spam. As a result of this activity, or due to technical malfunction, in certain circumstances such content may be delayed or may not be delivered to the intended recipient. Indeed may (but is not obligated to) notify you in such an event. By using a Relay Service or otherwise providing User Content through the Site, you agree to this activity and acknowledge that this activity is necessary for maintaining the quality of the Site and for providing the Relay Service.
+We process, monitor, review, store and analyze such content, which may include Personal Data, including via automated means, for data analysis, quality control, enforcement of the Site Rules and other Indeed policies, content moderation, and to improve the Site or any other Indeed product or service. Examples of such improvements would be improving the open rate of messages by optimizing their delivery, optimizing our search results, improving Job Listings, permitting applicants to manage their applications after transmitting them to Indeed, ensuring you are provided with personally relevant product features and communications, and preventing fraud and spam. Some of this activity is performed on Indeed’s behalf by service providers, as described in Section 4.16 of this Privacy Policy. As a result of this activity, or due to technical malfunction, in certain circumstances such content may be delayed or may not be delivered to the intended recipient. Indeed may (but is not obligated to) notify you in such an event. By using a Relay Service or otherwise providing User Content through the Site, you agree to this activity and acknowledge that this activity is necessary for maintaining the quality of the Site and for providing the Relay Service.
 
 **4.7 Sending You Text Messages About Employer Appointments**
 
@@ -555,7 +555,7 @@ You may contact Indeed, Inc. at 6433 Champion Grandview Way, Building 1, Austin,
 
 **12.2 Complaints**
 
-If you believe your data protection rights have been infringed by Indeed, you have the right to complain to the appropriate data protection supervisory authority in your jurisdiction. For example if you are in the EEA, Indeed’s main establishment in the EEA is Indeed Ireland Operations Limited in Ireland, and it is regulated by the Irish Data Protection Commission, in which case you should consult this link for these purposes. If you are in the EEA or Switzerland and have a complaint with respect to transfers and processing performed in accordance with EU-US (applicable in all EEA countries) and Swiss-US Privacy Shield Principles then you may avail of independent dispute resolution, as detailed in section 12 of this Privacy Policy.
+If you believe your data protection rights have been infringed by Indeed, you have the right to complain to the appropriate data protection supervisory authority. For example if you are in the EEA, Indeed’s main establishment in the EEA is Indeed Ireland Operations Limited in Ireland, and it is regulated by the Irish Data Protection Commission, in which case you should consult this link for these purposes. If you are in the EEA or Switzerland and have a complaint with respect to transfers and processing performed in accordance with EU-US (applicable in all EEA countries) and Swiss-US Privacy Shield Principles then you may avail of independent dispute resolution, as detailed in section 11 of this Privacy Policy.
 
 **13\. Your California Privacy Rights**
 
