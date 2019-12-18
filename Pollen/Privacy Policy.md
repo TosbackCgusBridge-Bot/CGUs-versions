@@ -90,4 +90,4 @@ Advertisement Advert
 
 Copyright © 2019 IQVIA™. All rights reserved.
 
-Pollen.com and Allergy Alert are registered trademarks of IQVIA. Page last modified: 12/16/2019
+Pollen.com and Allergy Alert are registered trademarks of IQVIA. Page last modified: 12/18/2019
