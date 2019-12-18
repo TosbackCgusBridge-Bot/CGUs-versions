@@ -1,102 +1,4 @@
-Skip to Main Content Close<img src="//www.sony.com/assets/images/close-btn-x.png?fa48f775a334600f47f403ffb303d1e7&amp;wid=12" alt="" class="u-nav-close-btn-img">
-
-Sony Sites
-
-<img src="//www.sony.com/image/9a512bd93333b3c884bdbe2ba1581755?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Group Site<img src="//www.sony.com/image/9762859c83b5616a7c75b2714c2e7d76?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">SONY DESIGN<img src="//www.sony.com/image/5b83005cbb02abbc2878e29b23a3c362?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">PlayStation™<img src="//www.sony.com/image/65c210a5a7b4a59a9963df8a4e0835da?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Professional<img src="//www.sony.com/image/bf805a8b340105d03fcff55e3d22fb18?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Mobile
-
-*   Sony and the EnvironmentHow we’re reducing our eco-footprint through energy efficiency and recycling initiatives.
-*   Sony PicturesThe hub for your favourite movies and TV shows.
-*   Sony MusicClassic artists to today’s stars, local and global.
-
-Main menuSONY
-
-*   SONY
-*   Sony Sites
-*   ElectronicsElectronicsTelevisions &. Home Theater
-    
-    *   All Television &. Home cinema products
-    *   Televisions
-    *   Home Theater &. Sound Bars
-    *   Projectors
-    *   Blu-ray &. DVD Players
-    
-    View AllAudio
-    
-    *   All Audio products
-    *   Headphones
-    *   MP3 Players
-    *   High-Resolution Audio
-    *   Wireless Speakers
-    *   360 Reality Audio
-    *   Audio Systems
-    *   Digital Voice Recorders
-    *   Boomboxes, Radios &. Portable CD Players
-    *   Home Theater
-    
-    View AllCameras
-    
-    *   All Camera products
-    *   Interchangeable-lens Cameras
-    *   Lenses
-    *   Compact Cameras
-    
-    View AllMobile &. Accessories
-    
-    *   All Mobile, Tablets &. Smart Devices products
-    *   Cell Phones
-    *   Accessories
-    
-    View AllVideo Cameras
-    
-    *   All Video Cameras products
-    *   Camcorders
-    *   Action Cameras
-    *   Professional Camcorders
-    
-    View AllCar &. Marine
-    
-    *   All Car &. Marine products
-    *   In-Car Receivers &. Players
-    *   In-Car Speakers &. Amplifiers
-    *   Marine Audio
-    *   Automotive OEM Audio
-    
-    View AllStorage &. Cables
-    
-    *   All Energy, Storage &. Cables products
-    *   Memory cards
-    *   Cables
-    
-    View AllNew Categories
-    *   All New Categories Products
-    *   Companion Robots
-    *   Digital Paper
-    *   Wearable Speaker
-    *   Engagement App Development
-    *   Robotics KitsView AllAll ElectronicsSee Professional Products<img src="//www.sony.com/image/73af50e8d496b98be27c316fba0cb511?fmt=jpeg&amp;wid=218" alt="" class="iq-img">Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up<img src="//www.sony.com/image/7c02f7a959732e31b9d2127dadf58ee2?fmt=jpeg&amp;wid=218" alt="" class="iq-img">A smarter home for a smarter lifeSony’s suite of voice assistant enabled and compatible products works together seamlessly to make life easier 
-*   PlayStation
-*   EntertainmentEntertainment
-    *   <img src="//www.sony.com/image/c8d568c456f06d3fa734b3331f100352?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Video Games
-    *   <img src="//www.sony.com/image/fc437c3658eed4b903e04f558e383d72?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Movies &. TV Shows
-    *   <img src="//www.sony.com/image/e783b1218f8069830c258b94aa5870c2?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Music<img src="//www.sony.com/image/7a959cd929b51c2272e8fa8e9e8ed184?fmt=png-alpha&amp;wid=218" alt="" class="">Phone and Tablet AppsThe best of what Sony has to offer on iOS or Android.Download our apps.
-*   SupportSupport
-    *   <img src="//www.sony.com/image/bf43c4ef8c2eb71880b73f458ec57373?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Support
-    *   <img src="//www.sony.com/image/9e54e9a0759ae334e03e85366d4ba231?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Register a Product
-    *   <img src="//www.sony.com/image/b40fc153416e1395537a641506dd9fb8?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Community
-
-*   Sign In
-    
-    *   Favorites
-    
-    *   Sony Rewards
-    *   Electronics Registration
-    *   Electronics Community
-    *   Favorites
-*   Favorites
-*   Search Sony
-*   Sony Sites
-
-Search Sony
+Skip to Main Content
 
 Get a Closer Look at How the Characters Came to Life in “Jumanji: The Next Level”
 
@@ -116,9 +18,9 @@ Play video: Get a Closer Look at How the Characters Came to Life in “Jumanji: 
 
 <img class="bg-img" data-linkname="en:set\_a:position\_1|\_2x1-2:image:playstation:PSDirectHoliday-December-09-2019:ps:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="https://direct.playstation.com/en-us?emcid=pn-so-hol2019-psd PS-Direct-Holiday" data-img1x="/content/dam/sony/homepage/2019-december/12-9/PSDirectHoliday\_600x600\_SonyCom.jpg" data-img2x="/content/dam/sony/homepage/2019-december/12-9/PSDirectHoliday\_500x246\_SonyCom.jpg" src="/content/dam/sony/homepage/2019-december/12-9/PSDirectHoliday\_500x246\_SonyCom.jpg" alt="https://direct.playstation.com/en-us?emcid=pn-so-hol2019-psd "/>. <img class="bg-img" data-linkname="en:set\_a:position\_1|\_2x1-2:image:playstation:PSDirectHoliday-December-09-2019:ps:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="https://direct.playstation.com/en-us?emcid=pn-so-hol2019-psd PS-Direct-Holiday" data-img1x="/content/dam/sony/homepage/2019-december/12-9/PSDirectHoliday\_600x600\_SonyCom.jpg" data-img2x="/content/dam/sony/homepage/2019-december/12-9/PSDirectHoliday\_500x246\_SonyCom.jpg" src="/content/dam/sony/homepage/2019-december/12-9/PSDirectHoliday\_600x600\_SonyCom.jpg" alt="https://direct.playstation.com/en-us?emcid=pn-so-hol2019-psd Mobile"/>.
 
-It's time! Vote now in the  http://PlayStation.Blog  Game of the Year awards:  http://play.st/2qAjZN3  pic.twitter.com/v0Ld0JlrCc
+Introducing the DualShock 4 Back Button Attachment, launching January 23:  http://play.st/35vMP0f  pic.twitter.com/NOnxtpMRTG
 
-6 days ago View Tweet Instagram Post B5YypRpFdNp
+16 hours ago View Tweet Instagram Post B5YypRpFdNp
 
 Listen to Holiday Cheer
 
