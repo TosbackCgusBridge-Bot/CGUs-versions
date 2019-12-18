@@ -4,9 +4,7 @@ Lenovo Explore Close
     *   PC &. TABLETS
     *   Laptops
         
-        *   Always Free Shipping
-        *   Earn Rewards on All Purchases
-        *   Financing Available
+        *   CLICK HERE to shop last chance deals and get select items by 12/24!
         
         *   Explore Laptops
         *   2 in 1 Laptops
@@ -34,13 +32,11 @@ Lenovo Explore Close
         
         Last Chance Deals
         
-        Shop doorbuster deals while they last! Save big this holiday season on your favorite laptops for work, home, gaming &. more!
+        Get it by 12/24! Shop last chance deals and get expedited shipping on select items
         
     *   Desktops
         
-        *   Always Free Shipping
-        *   Earn Rewards on All Purchases
-        *   Financing Available
+        *   CLICK HERE to shop last chance deals and get select items by 12/24!
         
         *   Explore Desktops
         *   Desktop Deals
@@ -65,13 +61,11 @@ Lenovo Explore Close
         
         Last Chance Deals
         
-        Enjoy doorbuster savings on towers, workstations &. all-in-ones for work, home &. gaming!
+        Get it by 12/24! Shop last chance deals and get expedited shipping on select items
         
     *   Workstations
         
-        *   Always Free Shipping
-        *   Earn Rewards on All Purchases
-        *   Financing Available
+        *   CLICK HERE to shop last chance deals and get select items by 12/24!
         
         *   Explore Workstations
         *   Workstation Computers
@@ -93,13 +87,11 @@ Lenovo Explore Close
         
         Last Chance Deals
         
-        Shop doorbusters on Lenovo's most powerful machines for business and get amazing deals today!
+        Get it by 12/24! Shop last chance deals and get expedited shipping on select items
         
     *   Tablets
         
-        *   Always Free Shipping
-        *   Earn Rewards on All Purchases
-        *   Financing Available
+        *   CLICK HERE to shop last chance deals and get select items by 12/24!
         
         *   Explore Tablets
         *   With Android
@@ -120,13 +112,11 @@ Lenovo Explore Close
         
         Last Chance Deals
         
-        Shop doorbuster deals on tablets for work, home &. school!
+        Get it by 12/24! Shop last chance deals and get expedited shipping on select items
         
     *   Accessories &. Software
         
-        *   Always Free Shipping
-        *   Earn Rewards on All Purchases
-        *   Financing Available
+        *   CLICK HERE to shop last chance deals and get select items by 12/24!
         
         *   Accessories
         *   Docks
@@ -160,9 +150,7 @@ Lenovo Explore Close
         *   Everyday Backpack
     *   Monitors
         
-        *   Always Free Shipping
-        *   Earn Rewards on All Purchases
-        *   Financing Available
+        *   CLICK HERE to shop last chance deals and get select items by 12/24!
         
         *   Explore Monitors
         *   Monitors for Work
@@ -182,13 +170,11 @@ Lenovo Explore Close
         
         Last Chance Deals
         
-        Shop the best deals of the year on monitors for gaming, work and home!
+        Get it by 12/24! Shop last chance deals and get expedited shipping on select items
         
     *   Gaming
         
-        *   Always Free Shipping
-        *   Earn Rewards on All Purchases
-        *   Financing Available
+        *   CLICK HERE to shop last chance deals and get select items by 12/24!
         
         *   Explore Gaming
         *   Laptops
@@ -215,13 +201,11 @@ Lenovo Explore Close
         
         Last Chance Deals
         
-        Check off your holiday list &. shop brands like Legion, Xbox, HyperX &. more!
+        Check off your holiday list with brands like Nintendo &. Xbox. Get it by 12/24 - enjoy expedited shipping on select items!
         
     *   Business
         
-        *   Always Free Shipping
-        *   Easy Returns
-        *   Financing Available
+        *   CLICK HERE to shop last chance deals and get select items by 12/24!
         
         *   Business Solutions
         *   Small Business
@@ -252,9 +236,7 @@ Lenovo Explore Close
         
     *   Support
         
-        *   Always Free Shipping
-        *   Earn Rewards on All Purchases
-        *   Financing Available
+        *   CLICK HERE to shop last chance deals and get select items by 12/24!
         
         *   Customer Support
         *   Help Placing An Order
@@ -281,9 +263,7 @@ Lenovo Explore Close
         
     *   Last Chance
         
-        *   Always Free Shipping
-        *   Earn Rewards on All Purchases
-        *   Financing Available
+        *   CLICK HERE to shop last chance deals and get select items by 12/24!
         
         *   Weekly Laptop Deals
         *   ThinkPad Deals
@@ -308,7 +288,7 @@ Lenovo Explore Close
         
         Last Chance Deals
         
-        Get them while they last! There's still amazing deals on laptops, desktops, accessories &. more. Shop doorbusters now!
+        Get it by 12/24! Shop last chance deals and get expedited shipping on select items
         
 *   Phones
 *   Data Center
@@ -608,7 +588,7 @@ Lenovo Explore Close
 1-855-253-6686
 
 *   Search
-
+*   icon-compare0 Compare Compare (0)
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
@@ -617,7 +597,7 @@ Lenovo Explore Close
     *   HELP PLACING AN ORDER 855-253-6686
     *   BUSINESS ORDER HELP 866-426-0911
     *   EXISTING ORDER HELP 855-253-6686 option #1
-    *   HOLIDAY HOURS Monday-Friday 9AM-10PM ESTSaturday: 10AM-8PM ESTSunday: 11AM-9PM EST
+    *   HOLIDAY HOURS Monday-Friday 9AM-9PM ESTSaturday: 10AM-8PM ESTSunday: 11AM-9PM EST
     *   CHAT NOW >.
 *   Account
     *   Sign In
@@ -680,7 +660,13 @@ Lenovo Explore Close
 
 Top Suggestions
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
+
+Please add at least 2 products for compare
+
+Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
+
+Lenovo Privacy Statement Top
 
 protects better"/>.
 
