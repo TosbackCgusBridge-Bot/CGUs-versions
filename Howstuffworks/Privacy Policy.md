@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksClosing Your Bedroom Door at Night Could Save Your Life1STHow Dangerous Is the Beaver?2NDWhy Does the 'Dirty Dancing' Lake Keep Draining?3RDHow to Fake a GPS Location on Your Phone4THSUV | SponsoredUnsold 2018 SUVs Going for Pennies On The Dollar: Great For Seniors! Search For Luxury Crossover SUV DealsSUV | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredAssisted Living | SponsoredLuxury Assisted Living In Aurora Is Actually Affordable. Research Assisted Living Near Me PricesAssisted Living | SponsoredDirectExpose | Sponsored13-Yr-Old Builds Own House For $1,500: Look When He Opens Door And Reveals 89 Sq Ft MasterpieceDirectExpose | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksHow 'Pretty Boy' Floyd Became the FBI's Public Enemy No. 11STWhat Do Reindeer Do When They're Not Pulling Santa's Sleigh?2NDThe Ultimate Downsize: Living in a Shipping Container Home3RDIf at First You Don't Succeed, Try Tripe Again4THKelley Blue Book | Sponsored10 Most Fun SUVsKelley Blue Book | SponsoredTrends | Sponsored21 Insanely Cool Gifts That Are Going To Sell Out Before ChristmasTrends | SponsoredSUV | SponsoredUnsold 2018 SUVs Going for Pennies On The Dollar: Great For Seniors! Search For Luxury Crossover SUV DealsSUV | SponsoredChevrolet Silverado | Search Ads | SponsoredThe New Chevrolet Silverado Is Simply Astonishing!Chevrolet Silverado | Search Ads | Sponsored
 
 Advertisement
 
-science - spaceWhy Is the North Star So Stellarly Important?BY Patrick J. Kigerscience - innovationThe Ultimate Downsize: Living in a Shipping Container HomeBY Carrie Whitney, Ph.D.science - militaryU.S. Military Dogs Usually Outrank Their HandlersBY Nathan ChandlerAmerican Giant | Sponsored If You Can Buy One of These American Giant Hoodies, Do It NowAmerican Giant | SponsoredTrends | Sponsored21 Insanely Cool Gifts That Are Going To Sell Out Before ChristmasTrends | Sponsored
+home &. garden - home improvementClosing Your Bedroom Door at Night Could Save Your LifeBY Carrie Whitney, Ph.D.culture - peopleWhat's the Difference? QuizBY Alia Hoytculture - history8 Wild and Sprawling Facts About MongoliaBY Tara YarlagaddaAuto Enthusiast | Search Ads | SponsoredShut the Front Door! These Luxury Vehicles Cost Under $50k!Auto Enthusiast | Search Ads | SponsoredLuxury Cruises | Search Ads | SponsoredYou've Never Seen Luxury Like This On A Cruise Ship. Research Luxury Mediterranean CruisesLuxury Cruises | Search Ads | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhat Is Planck's Constant, and Why Does the Universe Depend on It?If at First You Don't Succeed, Try Tripe AgainWho Was the World's First King?How Manifest Destiny Stretched the U.S. From Sea to Shining SeaThree Famous Hypotheses and How They Were Tested7 Key Questions in the U.S. Slavery Reparations Debateby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksShhh! Don't Tell. There's a Secret Apartment Atop the Eiffel TowerWhy Some Animals Eat Rocks to Aid in DigestionA Heavenly Angels Quiz4 Year-End Money Tips to Lower Your Tax Bill in 2020There's a Pooping Man in the Catalan Nativity SceneU.S. Military Dogs Usually Outrank Their Handlersby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Closing Your Bedroom Door at Night Could Save Your LifeRead Next StorySUVUnsold 2018 SUVs Going for Pennies On The Dollar: Great For Seniors! Search For Luxury Crossover SUV DealsSUV|SponsoredSponsoredRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. How 'Pretty Boy' Floyd Became the FBI's Public Enemy No. 1Read Next StoryKelley Blue Book10 Most Fun SUVsKelley Blue Book|SponsoredSponsoredRead Next StoryTrends21 Insanely Cool Gifts That Are Going To Sell Out Before ChristmasTrends|SponsoredSponsoredRead Next Story
