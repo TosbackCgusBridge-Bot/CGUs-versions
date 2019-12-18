@@ -9,22 +9,71 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
-    *   Time to Stock Up: Styles Under $20
-    *   Men's Styles Up to 75% Off
+    *   Converse Starting at $30
+    *   alice + olivia Up to 70% Off
+    *   SMEG Up to 50% Off
+    *   Converse Men Starting at $40
+    *   Converse Kids Starting at $20
+    *   Keep It Cool: Insulated Stainless Steel Bottles
+    *   Cutlery Sets &. More Up to 45% Off
+    *   Ted Baker London Bags Up to 55% Off
+    *   What She Really Wants: Shiseido Ginza Tokyo
+    *   Juniors' Party Looks &. More ft. Socialite
+    *   Under $30: Sweaters for Every Style
+    *   Dress Obsessed: Styles Under $50
+    *   Now Trending: Boots Under $50
+    *   Hudson Jeans Men
+    *   Converse Kids' Clothing Up to 50% Off
+    *   Nine West from $40
+    *   Last-Minute Gift Ideas: Leather Goods
+    *   Boho-Chic Decor from $20
+    *   Trending Now: Gold Jewelry &. More
+    *   Last-Minute Gifting: Panty Packs &. Socks
+    *   Wusthof Cutlery &. More Up to 60% Off
+    *   Burberry Fragrances Up to 50% Off
+    *   English Laundry Up to 60% Off
+    *   Last-Minute Gifts: Kids' Holiday PJs, Toys &. More
+    *   Broken Homme
+    *   Handbag Shop: Hobo Up to 50% Off
+    *   Habitual Up to 60% Off
+    *   Handbag Shop: Crossbodies ft. Marc Jacobs
+    *   Steve Madden &. Madden Girl from $35
+    
+    *   Ben Sherman
+    *   Handbag Shop: Totes ft. Madewell
+    *   Handbag Shop: Backpacks ft. Rebecca Minkoff
+    *   Bobeau Incl. Plus &. Petites
+    *   Handbag Shop: Satchels ft. Versace
+    *   Season's Best: Leather Jackets Up to 65% Off
+    *   Endless Ways to Wear: Bodysuits
+    *   Handbag Shop: Wallets ft. Kate Spade New York
+    *   Steve Madden Men Up to 50% Off
+    *   bebe Sport Under $30
+    *   Handbag Shop: Belt Bags &. More ft. Aimee Kestenberg
+    *   Handbag Shop: Statement Styles ft. Loeffler Randall
+    *   Last-Minute Gifts: Cozy Men's Styles
+    *   Winter Boots ft. Santana Canada
+    *   Travel in Style: Luxe Luggage Up to 75% Off
+    *   Handbag Shop: Evening Bags &. Clutches Up to 55% Off
+    *   PUR
+    *   Dip Powder &. Gel Manicure Sets ft. Joya Mia
+    *   Handbag Shop: Resort Ready ft. ARANAZ
+    *   Handbag Shop: Laptop Sleeves &. Bags Up to 50% Off
+    *   Men's Winter Boots from Pajar &. More
+    *   Stocking Stuffers from $15
+    *   Eye-Catching Wall Art Up to 65% Off
+    *   Kids' Coat Shop: Styles Up to 65% Off
+    *   Ben Sherman Kids &. More
     *   Booties, Pumps &. More Up to 60% Off
     *   Seasonal Steals: Coats Up to 70% Off
     *   Men's Shoe Steals Up to 65% Off
     *   J.Crew Starting at $25
-    *   French Connection Up to 65% Off
-    *   Eileen Fisher Up to 55% Off
+    
     *   bareMinerals
     *   J.Crew Men Up to 50% Off
-    *   Last Call: Dresses Up to 80% Off
-    *   Koral Active &. More
     *   J.Crew Handbags
     *   Snow Ready: Men's Parkas Up to 65% Off
     *   skinChemists Up to 80% Off
-    *   Fergalicious from $30
     *   Home Fragrances from $13
     *   Tommy Hilfiger Men's Footwear
     *   Holiday Host: Barware Starting at $15
@@ -32,126 +81,88 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Best for Baby: Styles Up to 60% Off
     *   Kids' Puddle Jumpers: Boots ft. Western Chief
     *   Lucky Brand Denim Under $50
-    *   AME Character PJs &. More
-    *   Maaji Swim &. Active
-    *   Dooney &. Bourke Up to 50% Off
     *   Perricone MD Up to 55% Off
-    
-    *   SPANX Incl. Plus
-    *   Laundry By Shelli Segal Up to 65% Off
     *   Timberland Men
-    *   Get the Skinny: Hudson Jeans &. More
-    *   Gal Meets Glam Up to 60% Off
-    *   Gemstones, Diamonds &. More Up to 80% Off
-    *   Dolce Vita Up to 60% Off
-    *   Designer Sweaters Up to 65% Off
-    *   Plus Shop: Perfect Holiday Styles Up to 60% Off
     *   Travis Mathew Under $50
-    *   MOTHER Denim
-    *   Dreaming of Sunshine: Resort Sandals Up to 55% Off
-    *   Fresh Finds: Shoes Up to 50% Off
     *   Snow Teeth Whitening Starting at $10
     *   Holiday Decor &. More from $10
     *   Men's Cozy Styles ft. Australia Luxe Collective
-    *   Kids' Outerwear Under $30
-    *   Sovereign Code Boys &. Girls
-    *   Effy Jewelry Up to 65% Off
-    *   TUMI
-    *   Rebecca Minkoff Handbags Up to 50% Off
-    *   Rebecca Minkoff Shoes Up to 50% Off
-    *   Get Gifting: Initial Necklaces &. More
-    *   Rebecca Minkoff Up to 55% Off
-    *   Ready for NYE: Dresses ft. Marina
-    *   Vix Swim
-    *   BED|STU
-    
-    *   Ready for NYE: Chic Coats &. More
-    *   On-Trend Juniors' Looks ft. Wild Honey from $25
     *   Urban Decay Starting at $10
-    *   Koolaburra by UGG Kids
-    *   Last-Minute Luxe Gifts ft. 360 Cashmere
-    *   Sweaters and More ft. John &. Jenn
-    *   Uri Minkoff
-    *   Psycho Bunny Lounge
-    *   Crevo
     *   Professional Makeup Brushes &. More Up to 45% Off
-    *   Bony Levy Fine Jewelry Up to 60% Off
-    *   Isaac Mizrahi Boys' Dresswear Up to 55% Off
-    *   Luxury Fragrances Up to 50% Off
-    *   adidas Kids' Active
-    *   Julie Lindh Skin Care
     *   Smart Home Accessories &. More from $20
     *   Anthropologie Home
-    *   NuFACE Facial Toning Devices Up to 33% Off
     *   Home Essentials: Dyson &. More Up to 60% Off
-    *   Cozy Pillows, Throws &. More ft. Nordstrom Rack
-    *   Quirky &. Fun Towels, Coasters and More
-    *   Full-Fit Faves Under $40
+    *   AME Character PJs &. More
     *   Gifts for the Gamer from $20
-    *   Toobydoo
-    *   Christmas Countdown: Plush Toys, Sleep &. More
-    *   Gift Worthy: Le Creuset Starting at $20
-    *   New Years Eve Cocktail Party Essentials
+    *   Time to Stock Up: Styles Under $20
+    *   Cozy Pillows, Throws &. More ft. Nordstrom Rack
 *   WomenShop Sale Events
     
-    *   Time to Stock Up: Styles Under $20
+    *   Converse Starting at $30
+    *   Ted Baker London Bags Up to 55% Off
+    *   What She Really Wants: Shiseido Ginza Tokyo
+    *   Juniors' Party Looks &. More ft. Socialite
+    *   Under $30: Sweaters for Every Style
+    *   Dress Obsessed: Styles Under $50
+    *   Now Trending: Boots Under $50
+    *   Nine West from $40
+    *   Trending Now: Gold Jewelry &. More
+    *   Last-Minute Gifting: Panty Packs &. Socks
+    *   Burberry Fragrances Up to 50% Off
+    *   Handbag Shop: Hobo Up to 50% Off
+    *   Habitual Up to 60% Off
+    *   Handbag Shop: Crossbodies ft. Marc Jacobs
+    *   Steve Madden &. Madden Girl from $35
+    *   Handbag Shop: Totes ft. Madewell
+    *   Handbag Shop: Backpacks ft. Rebecca Minkoff
+    *   Bobeau Incl. Plus &. Petites
+    *   Handbag Shop: Satchels ft. Versace
+    *   Season's Best: Leather Jackets Up to 65% Off
+    *   Endless Ways to Wear: Bodysuits
+    *   Handbag Shop: Wallets ft. Kate Spade New York
+    
+    *   bebe Sport Under $30
+    *   Handbag Shop: Belt Bags &. More ft. Aimee Kestenberg
+    *   Handbag Shop: Statement Styles ft. Loeffler Randall
+    *   Winter Boots ft. Santana Canada
+    *   Travel in Style: Luxe Luggage Up to 75% Off
+    *   Handbag Shop: Evening Bags &. Clutches Up to 55% Off
+    *   PUR
+    *   Dip Powder &. Gel Manicure Sets ft. Joya Mia
+    *   Handbag Shop: Resort Ready ft. ARANAZ
+    *   Handbag Shop: Laptop Sleeves &. Bags Up to 50% Off
     *   Booties, Pumps &. More Up to 60% Off
     *   Seasonal Steals: Coats Up to 70% Off
     *   J.Crew Starting at $25
-    *   French Connection Up to 65% Off
-    *   Eileen Fisher Up to 55% Off
     *   bareMinerals
-    *   Last Call: Dresses Up to 80% Off
-    *   Koral Active &. More
     *   J.Crew Handbags
     *   skinChemists Up to 80% Off
-    *   Fergalicious from $30
-    *   Maaji Swim &. Active
-    *   Dooney &. Bourke Up to 50% Off
     *   Perricone MD Up to 55% Off
-    *   SPANX Incl. Plus
-    *   Laundry By Shelli Segal Up to 65% Off
-    *   Get the Skinny: Hudson Jeans &. More
-    *   Gal Meets Glam Up to 60% Off
-    *   Gemstones, Diamonds &. More Up to 80% Off
-    *   Dolce Vita Up to 60% Off
-    *   Designer Sweaters Up to 65% Off
-    *   Plus Shop: Perfect Holiday Styles Up to 60% Off
-    
-    *   Dreaming of Sunshine: Resort Sandals Up to 55% Off
-    *   Fresh Finds: Shoes Up to 50% Off
     *   Snow Teeth Whitening Starting at $10
-    *   Effy Jewelry Up to 65% Off
-    *   TUMI
-    *   Rebecca Minkoff Handbags Up to 50% Off
-    *   Rebecca Minkoff Shoes Up to 50% Off
-    *   Get Gifting: Initial Necklaces &. More
-    *   Rebecca Minkoff Up to 55% Off
-    *   Ready for NYE: Dresses ft. Marina
-    *   Vix Swim
-    *   BED|STU
-    *   Ready for NYE: Chic Coats &. More
-    *   On-Trend Juniors' Looks ft. Wild Honey from $25
     *   Urban Decay Starting at $10
-    *   Last-Minute Luxe Gifts ft. 360 Cashmere
-    *   Sweaters and More ft. John &. Jenn
     *   Professional Makeup Brushes &. More Up to 45% Off
-    *   Bony Levy Fine Jewelry Up to 60% Off
-    *   Luxury Fragrances Up to 50% Off
-    *   Julie Lindh Skin Care
-    *   NuFACE Facial Toning Devices Up to 33% Off
-    *   Full-Fit Faves Under $40
+    *   Time to Stock Up: Styles Under $20
     
     Shop By Category
     *   Clothing
-    *   Jewelry
     *   Handbags
     *   Shoes
     *   Lingerie &. Shapewear
+    *   Jewelry
     *   Accessories
 *   MenShop Sale Events
     
-    *   Men's Styles Up to 75% Off
+    *   Converse Men Starting at $40
+    *   Hudson Jeans Men
+    *   Last-Minute Gift Ideas: Leather Goods
+    *   English Laundry Up to 60% Off
+    *   Broken Homme
+    *   Ben Sherman
+    *   Steve Madden Men Up to 50% Off
+    *   Last-Minute Gifts: Cozy Men's Styles
+    *   Travel in Style: Luxe Luggage Up to 75% Off
+    *   Men's Winter Boots from Pajar &. More
+    
     *   Men's Shoe Steals Up to 65% Off
     *   J.Crew Men Up to 50% Off
     *   Snow Ready: Men's Parkas Up to 65% Off
@@ -159,84 +170,82 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Lucky Brand Denim Under $50
     *   Timberland Men
     *   Travis Mathew Under $50
-    
-    *   MOTHER Denim
     *   Men's Cozy Styles ft. Australia Luxe Collective
-    *   TUMI
-    *   Uri Minkoff
-    *   Psycho Bunny Lounge
-    *   Crevo
     *   Gifts for the Gamer from $20
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Converse Kids Starting at $20
+    *   Converse Kids' Clothing Up to 50% Off
+    *   Last-Minute Gifts: Kids' Holiday PJs, Toys &. More
+    *   Kids' Coat Shop: Styles Up to 65% Off
+    *   Ben Sherman Kids &. More
     *   Educational Toys ft. Fisher-Price
     *   Best for Baby: Styles Up to 60% Off
     *   Kids' Puddle Jumpers: Boots ft. Western Chief
     *   AME Character PJs &. More
-    *   Kids' Outerwear Under $30
-    *   Sovereign Code Boys &. Girls
-    
-    *   Koolaburra by UGG Kids
-    *   Isaac Mizrahi Boys' Dresswear Up to 55% Off
-    *   adidas Kids' Active
-    *   Toobydoo
-    *   Christmas Countdown: Plush Toys, Sleep &. More
     
     Shop By Category
-    *   Boys' Sizes 8-20
-    *   Boys' Sizes 2T-7
-    *   Girls' Sizes 2T-6X
-    *   Baby Boy
     *   Baby Girl
     *   Girls' Sizes 7-16
+    *   Girls' Sizes 2T-6X
+    *   Boys' Sizes 8-20
+    *   Boys' Sizes 2T-7
     *   Toy Shop
-    *   Girls' Shoes
+    *   Baby Boy
     *   Boys' Shoes
+    *   Girls' Shoes
 *   HomeShop Sale Events
     
+    *   SMEG Up to 50% Off
+    *   Keep It Cool: Insulated Stainless Steel Bottles
+    *   Cutlery Sets &. More Up to 45% Off
+    *   Boho-Chic Decor from $20
+    *   Wusthof Cutlery &. More Up to 60% Off
+    *   Stocking Stuffers from $15
+    *   Eye-Catching Wall Art Up to 65% Off
     *   Home Fragrances from $13
+    
     *   Holiday Host: Barware Starting at $15
     *   Holiday Decor &. More from $10
-    *   TUMI
     *   Smart Home Accessories &. More from $20
     *   Anthropologie Home
-    
     *   Home Essentials: Dyson &. More Up to 60% Off
-    *   Cozy Pillows, Throws &. More ft. Nordstrom Rack
-    *   Quirky &. Fun Towels, Coasters and More
     *   Gifts for the Gamer from $20
-    *   Gift Worthy: Le Creuset Starting at $20
-    *   New Years Eve Cocktail Party Essentials
+    *   Cozy Pillows, Throws &. More ft. Nordstrom Rack
     
     Shop By Category
+    *   Home Decor
     *   Kitchen &. Tabletop
     *   Holiday Decorations
-    *   Luggage &. Travel
     *   Electronic &. Tech Accessories
-    *   Home Decor
+    *   Luggage &. Travel
     *   Bedding
     *   Bath
     *   Cleaning &. Organization
+    *   Outdoor Living
+    *   Rugs &. Doormats
 *   BeautyShop Sale Events
     
+    *   What She Really Wants: Shiseido Ginza Tokyo
+    *   Burberry Fragrances Up to 50% Off
+    *   PUR
+    *   Dip Powder &. Gel Manicure Sets ft. Joya Mia
     *   bareMinerals
     *   skinChemists Up to 80% Off
     *   Perricone MD Up to 55% Off
     *   Snow Teeth Whitening Starting at $10
     *   Urban Decay Starting at $10
     *   Professional Makeup Brushes &. More Up to 45% Off
-    *   Luxury Fragrances Up to 50% Off
-    *   Julie Lindh Skin Care
-    *   NuFACE Facial Toning Devices Up to 33% Off
     
     Shop By Category
-    *   Skin Care
     *   Makeup
+    *   Skin Care
+    *   Nails
     *   Fragrance
     *   Tools &. Accessories
     *   Bath &. Body
