@@ -22,7 +22,15 @@ How well do you understand your campaign performance? Follow our flowchart!
 
 Whitepaper: How to create more powerful packaging design
 
-Our solutions Advertising &. brand Product innovation Point-of-purchase influencers Pre-testing Customer value Packaging design Social insights Case stories Co-creating with Philips Edgewell measurement program Facebook video ads Amstel Bock pack design Philips concept test Yahoo ad testing Our latest research and insights Video: How Nestlé applied best practice pack design principles for an on-shelf win
+Our solutions Advertising &. brand Product innovation Point-of-purchase influencers Pre-testing Customer value Packaging design Social insights Case stories Co-creating with Philips Edgewell measurement program Facebook video ads Amstel Bock pack design Philips concept test Yahoo ad testing Our latest research and insights 4 key learnings from TMRE 2019
+
+What can you do within 24 hours?
+
+Power up your e-commerce success through personalization
+
+Question time: It’s all about innovation
+
+Video: How Nestlé applied best practice pack design principles for an on-shelf win
 
 Webinar: Accelerating insights with artificial intelligence and new technologies
 
@@ -37,14 +45,6 @@ Emotions sell brands: How to capture the emotional resonance of your brands, ads
 Sell more products in store: Optimize all your sales conversion tactics
 
 5 steps to creating successful branded video content
-
-Broad vs narrow audiences: How to maximize the impact of your investment in mobile video ads on Facebook
-
-8 elements that should feature on your product packaging design
-
-Webinar: Groundbreaking tips on DTC digital advertising
-
-Your questions about social influencers answered
 
 Our story
 
