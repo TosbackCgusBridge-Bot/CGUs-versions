@@ -1,4 +1,4 @@
-Sign up for our free WebMD Daily Newsletter Get doctor-approved health tips, news, and more. Subscribe By clicking "Subscribe," I agree to the WebMD Terms and Conditions and Privacy Policy. I also agree to receive emails from WebMD and I understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
+Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -112,10 +112,10 @@ Sign up for our free WebMD Daily Newsletter Get doctor-approved health tips, new
     Experts News &. Experts News &. Experts Health News
     
     *   Medicare for All: What Does This Mean?
-    *   Having Trouble Falling and Staying Asleep?
-    *   Rates of Anal Cancer On the Rise
-    *   New Lung Illness Tied to Vaping
-    *   Is There a Safer Way to Sterilize Medical Equipment?
+    *   Do Blue Light Glasses Really Work?
+    *   Is It OK to Carry CBD on a Plane?
+    *   Have a Purpose, Have a Healthier Life
+    *   Flu: What You Should Know This Year
     
     Experts &. Community
     
