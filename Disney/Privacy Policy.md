@@ -66,6 +66,7 @@ Contact Us © Disney. All rights reserved
 *   Your California Privacy Rights
 *   Terms of Use
 *   Privacy Policy
+*   Do Not Sell My Info
 
 *   Print Page
 
