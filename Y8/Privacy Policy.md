@@ -13,30 +13,30 @@ Categories &. more LIBRARY
 
 *   New Games Next in 00:00
 *   Best of new games 1144 games
-*   Most Popular Games 20179 games
+*   Most Popular Games 20187 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,145 games
-*   Driving &. Racing Games 6,212 games
+*   Games for girls 24,150 games
+*   Driving &. Racing Games 6,216 games
 *   Strategy &. RPG Games 3,639 games
 *   Management Games 4,247 games
-*   Thinking Games 12,422 games
+*   Thinking Games 12,426 games
 *   Action &. Adventure Games 14,713 games
-*   Sports Games 3,276 games
-*   Shooting Games 8,967 games
+*   Sports Games 3,280 games
+*   Shooting Games 8,965 games
 *   Fighting Games 2,091 games
-*   Skill Games 10,946 games
-*   Arcade &. Classic Games 8,597 games
+*   Skill Games 10,956 games
+*   Arcade &. Classic Games 8,613 games
 *   Fun &. Crazy Games 4,774 games
 
 Play with friends  
-Powered by Y8 Account 131 Y8 Multiplayer Games 2,164 Y8 High Score Games 1,207 Y8 Achievements Games 850 Y8 Screenshots Games 1,568 Y8 Online Save Games 3,289 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 131 Y8 Multiplayer Games 2,164 Y8 High Score Games 1,207 Y8 Achievements Games 850 Y8 Screenshots Games 1,574 Y8 Online Save Games 3,289 All Y8 Games Games Last Highscore:
 
-**378** points on Orion Sandbox by ProjectoX27
+**22,858** points on Moto X3M: Winter by akif
 
 Help us improve Bad translation? Social
 
@@ -276,5 +276,3 @@ If You have any questions, queries, comments, or requests, We are happy to recei
 *   Cookie Policy
 
 We use cookies for advertising, content recommendations, and traffic measurement. By using this website, you consent to the Privacy Policy and Cookie Policy. Got it
-
-Flash games are blocked by default in Chrome browser. In order to play them, we suggest you to use Firefox.
