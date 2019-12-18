@@ -5,39 +5,30 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Jumanji: The Next Level
     *   Frozen II
     *   Knives Out
+    *   Richard Jewell
+    *   Black Christmas (2019)
     *   Ford v Ferrari
     *   Queen &. Slim
     *   A Beautiful Day in the Neighborhood
     *   Dark Waters (2019)
     *   21 Bridges
-    *   Playing with Fire (2019)
     *   Midway (2019)
-    *   Joker (2019)
-    *   Last Christmas (2019)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Black Christmas (2019)
-    *   Bombshell (2019)
-    *   Jumanji: The Next Level
-    *   Richard Jewell
-    *   Uncut Gems
-    *   A Hidden Life
-    *   Cunningham
-    *   Mardaani 2
-    *   Seberg
-    *   See All Opening This Week
-    
-    Pre Sales Tickets
-    
     *   Star Wars: The Rise of Skywalker (2019)
+    *   Cats (2019)
+    *   Dabangg 3
+    *   Only Cloud Knows
+    *   She's Missing
+    *   See All Opening This Week
     
     Coming Soon
     
-    *   Cats (2019)
     *   Spies in Disguise
     *   Little Women (2019)
     *   Just Mercy
@@ -74,7 +65,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   10 Amazing Fun Facts: 'National Lampoon's Christmas Vacation' Read More
+    *   10 Amazing Fun Facts: 'Elf' Read More
     *   A Fantabulous ‘Birds of Prey’ Character Guide Read More
     *   2020 Golden Globe Nominations: ‘Joker’ and ‘Once Upon a Time in Hollywood’ Challenge Stiff Netflix Competition Read More
     
@@ -503,17 +494,21 @@ We have separate policies for workforce data, which is governed by the policies 
 
 Offers
 
+*   Get a $5 Concession Certificate
+    
+    When you purchase 2 or more Kernel Season’s products. SEE DETAILS
+    
 *   Get A Free Movie Ticket and $10 Concession Money
     
     When you spend $100+ on Gift Cards. SEE DETAILS
     
-*   Get a holiday movie on Chex
+*   Get A $10 Fandango Promo Code
     
-    When you purchase 3 specially marked boxes of Chex Cereal. SEE DETAILS
+    When you spend $10 on Scotch Products at Walmart. SEE DETAILS
     
-*   Binge All The Golden Globes Nominees With FandangoNOW
+*   FREE $20 Movie Experience
     
-    Catch up with titles at home or those still in theaters! SEE DETAILS
+    When you purchase 2 participating Yoplait or GO-GURT products. SEE DETAILS
     
 
 New + Coming soon
