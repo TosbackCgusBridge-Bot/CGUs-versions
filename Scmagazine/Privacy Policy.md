@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Cloud Infrastructure IAM Lessons from the Capital One Breach
-    *   Company sued for allegedly hijacking Facebook accounts to serve ads
-    *   IG report says FBI justified in starting Russia probe. Barr disagrees
     *   Snatch ransomware encrypts files in Safe Mode to thwart security software
-    *   King slips legislation protecting grid from cyberattacks into 2020 Defense Authorization Bill
-    
-    *   Phishing scam uses fake giveaways to lure in Steam gaming service users
-    *   Same story all over again: Microsoft research finds millions of reused passwords
-    *   A hard truth: The lessons we never learn during National Cybersecurity Awareness Month – but should
-    *   King slips legislation protecting grid from cyberattacks into 2020 Defense Authorization Bill
-    *   It’s past time to contain identity sprawl. Here’s how to do it.
-    
+    *   Krampus-3PC malware redirects iPhone users to phishing pages
+    *   20 VPS providers shut down, leave customers scrambling, crying foul
+    *   U.S. charges alleged members of "Evil Corp" cybercrime group for Zeus and Dridex campaigns
     *   Visa warns against new POS attacks, Fin8 fingered as the culprit
-    *   Dread Zeppelin: Ransomware targets health care and IT sectors in U.S., Europe
-    *   Maze ransomware possibly behind Southwire attack
-    *   A hard truth: The lessons we never learn during National Cybersecurity Awareness Month – but should
-    *   Maze behind Pensacola ransomware attack
+    
+    *   New Orleans hamstrung by ransomware attack
+    *   Data center provider CyrusOne hit with REvil ransomware: Report
+    *   2020 Predictions: Privacy
+    *   Pensacola confirms ransomware attack
+    *   Secret court judge orders FBI to reform FISA process
+    
+    *   The silent rise of cryptojacking
+    *   WordPress patches four security vulnerabilities
+    *   1.6 billion LightInTheBox customer records left exposed
+    *   New Orleans hamstrung by ransomware attack
+    *   2020 Predictions: Privacy
 
 Back to Top
 
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
