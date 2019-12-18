@@ -8,7 +8,7 @@ Access Numbers Getting Started Requirements Get Software Anti Fraud Anti Spam Pa
 
 PRIVACY POLICY
 
-Last Updated: January 3, 2018
+Last Updated: December 15, 2019
 
 Introduction: What This Privacy Policy Covers
 
@@ -35,14 +35,14 @@ We collect information about you when you register for the Services, such as:
 *   your telephone number;
 *   your primary and alternate email addresses;
 *   your birth date.
+*   your gender.
 *   your education.
 *   your occupation. and
 *   other household and demographic information.
 
 If you join one of our paid Services, we may also collect the following information which is necessary for the performance of the contract between you and NetZero:
 
-*   billing and payment information, such as your credit card number and billing address. and
-*   your social security number or other government identification number.
+*   billing and payment information, such as your credit card number and billing address.
 
 In addition to information collected from you during registration, we collect information you provide through:
 
@@ -53,7 +53,7 @@ In addition to information collected from you during registration, we collect in
 *   email correspondence with us. and
 *   acceptance of our applications that interact with third party sites or services, such as Facebook or Twitter.
 
-Note that surveys may be conducted by an independent third party and completion of surveys is voluntary. If you do not wish to participate in a survey, simply decline to participate when asked, but we would like your feedback in order to improve our Sites and Services.  
+Note that surveys may be conducted by an independent third party and completion of surveys is voluntary. If you do not wish to participate in a survey, simply decline to participate when asked, but we would like your feedback in order to improve our Sites and Services. If a privacy data request is made, we will be unable to display the specific data you provide to the third party, but can share any partners we have worked with in the prior 12 month period.  
   
 Please see Section II of this Policy to see how we use, share and disclose information you have provided to us.  
   
@@ -83,7 +83,7 @@ Please see Section II of this Policy to see how we use, share and disclose infor
   
 **C. Information we receive from third parties:**  
   
-We may collect information about you from other sources, including publicly available sources, our Affiliates or our third party partners such as Advertisers (as defined in Section III below), service providers or others, in order to update or supplement information we have collected directly from you. An "**Affiliate**" is a company that controls, is controlled by or is under common control with NetZero.  
+We may collect information about you from other sources, including publicly available sources, our Affiliates or our third party partners such as Advertisers (as defined in Section III below), service providers or others, in order to update or supplement information we have collected directly from you. An "**Affiliate**" is a company that controls, is controlled by or is under common control with NetZero. If information is collected in this manner it will be displayed in your My Account page for review, editing or deletion.  
   
 **D. Information collected through technological methods:**  
   
@@ -194,6 +194,18 @@ privacy@support.netzero.com.
 VII. International Users
 
 The information we collect from users is processed and maintained in the United States, where privacy laws may not be as protective as in your home country. If you are using our Sites or Services from outside of the United States, by providing information to us you are consenting to the transfer of the information to the United States for processing in a manner consistent with this Policy. If you are accessing this website from a European Union member state, you have the right to object to the collection and processing of your personal data as set forth in this Privacy Policy, and if you wish to do so please notify us at privacy@support.netzero.com. Please bear in mind that if you object this may affect our ability to provide you with the Services.  
+  
+**Opting Out of Targeted Advertisements**  
+  
+Please click on the links below to identify those companies that have placed an advertising cookie on your computer, mobile device or other similar device, and to determine how to opt out from receiving targeted advertisements from those companies.  
+  
+Digital Advertising Alliance: http://www.aboutads.info/choices  
+  
+Network Advertising Initiative: http://www.networkadvertising.org/managing/opt\_out.asp  
+  
+  
+  
+  
   
 NetZero Home | My NetZero | Help | My Account | Corporate | Join Now | Site Map About NetZero | About United Online | Our Services | Advertisers | Investors | Press | Privacy Policy | Your Privacy Rights | About Ads | Terms of Service  
 United Online NetZero | Juno | MySite
