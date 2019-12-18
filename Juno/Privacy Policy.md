@@ -8,7 +8,7 @@ Access Numbers Getting Started Requirements Get Software Anti Fraud Anti Spam Pa
 
 PRIVACY POLICY
 
-**Last Updated: January 3, 2018**  
+**Last Updated: December 15, 2019**  
   
 **Introduction: What This Privacy Policy Covers**  
 
@@ -35,6 +35,7 @@ PRIVACY POLICY
 > *   your telephone number;
 > *   your primary and alternate email addresses.
 > *   your birth date.
+> *   your gender.
 > *   your education.
 > *   your occupation. and
 > *   other household and demographic information.
@@ -52,7 +53,7 @@ PRIVACY POLICY
 > *   email correspondence with us. and
 > *   acceptance of our applications that interact with third party sites or services, such as Facebook or Twitter.
 > 
-> Note that surveys may be conducted by an independent third party and completion of surveys is voluntary. If you do not wish to participate in a survey, simply decline to participate when asked, but we would like your feedback in order to improve our Sites and Services.  
+> Note that surveys may be conducted by an independent third party and completion of surveys is voluntary. If you do not wish to participate in a survey, simply decline to participate when asked, but we would like your feedback in order to improve our Sites and Services. If a privacy data request is made, we will be unable to display the specific data you provide to the third party, but can share any partners we have worked with in the prior 12 month period.  
 >   
 > Please see Section II of this Policy to see how we use, share and disclose information you have provided to us.  
 >   
@@ -80,7 +81,7 @@ PRIVACY POLICY
 > Please see Section II of this Policy to see how we use, share and disclose information we collect through your interaction with our Sites or Services.  
 >   
 > **C. Information we receive from third parties:**  
-> We may collect information about you from other sources, including publicly available sources, our Affiliates or our third party partners such as Advertisers (as defined in Section III below), service providers or others, in order to update or supplement information we have collected directly from you. An "**Affiliate**" is a company that controls, is controlled by or is under common control with Juno.  
+> We may collect information about you from other sources, including publicly available sources, our Affiliates or our third party partners such as Advertisers (as defined in Section III below), service providers or others, in order to update or supplement information we have collected directly from you. An "**Affiliate**" is a company that controls, is controlled by or is under common control with Juno. If information is collected in this manner it will be displayed in your My Account page for review, editing or deletion.  
 >   
 > **D. Information collected through technological methods:**  
 > In addition, we may use, and may allow our Affiliates or third party partners to use, technological methods such as cookies or web beacons to collect information about you.  
@@ -188,8 +189,6 @@ Please click on the links below to identify those companies that have placed an 
 Digital Advertising Alliance: http://www.aboutads.info/choices  
   
 Network Advertising Initiative: http://www.networkadvertising.org/managing/opt\_out.asp  
-  
-JumpTap: https://opt.jumptap.com/optout/opt  
   
   
   
