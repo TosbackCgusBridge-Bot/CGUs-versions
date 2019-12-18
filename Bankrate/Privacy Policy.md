@@ -2,7 +2,6 @@
     
     *   Mortgage rates
     *   Refinance rates
-    *   Post FED Announcement Rates
     *   30-year mortgage rates
     *   15-year mortgage rates
     *   20-year mortgage rates
@@ -19,7 +18,6 @@
     *   All mortgage calculators
     
     Get Advice
-    *   FED announcement impact on rates
     *   What to know about reverse mortgages
     *   Home buying guide
     *   Refinance your mortgage
@@ -310,234 +308,290 @@
 *   Support
 *   Logout
 
-Privacy Policy  
+**Privacy Policy**  
 
-Last updated: October 31, 2018
+Effective Date 12/23/2019
 
-This Privacy Policy applies to this website, and describes how we collect, use, and share information when you use our Services. The terms “we,” “us,” or “our” mean Bankrate, LLC and its affiliated companies. The term “Services,” means, collectively, various websites, applications, widgets, email notifications and other mediums, or portions of such mediums, through which you have accessed this Privacy Policy. By accessing or using our Services, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of Your Information (collectively, “Use of Your Information”) as described in this Privacy Policy.
+  
 
-This Privacy Policy applies to our Use of Your Information because you use our Services, and does not apply to the following:
+Red Ventures (includes “us,” “we,” or “our”) is a portfolio of digital companies that connects consumers and brands across a wide range of industries such as financial services, home services, education, and healthcare. Some examples of Red Ventures’ companies are The Points Guy, Bankrate, OnlineMBA, and Freshome.
 
-This Privacy Policy applies to our Use of Your Information as a result of you using our Services, and does not apply to the following:
+  
 
-*   Information collected through mediums other than our Services;
-*   Information collected through our Services where a separate privacy policy applies, such as a sweepstakes entry (you should refer to the official rules and privacy policy for each individual sweepstakes for our specific policies regarding information sharing and disclosure pursuant to sweepstakes entry). or
-*   Information collected by any person or entity other than us, even if related to our Services
-*   (such as a third-party website, application, widget or lead form).
+This Privacy Policy describes the type of information that we may collect for our own purposes, how we use, protect, and share that information, and the choices that you have. In some circumstances, a Red Ventures company may receive or process personal information on behalf of a client. This Privacy Policy does not describe all the information we may collect on behalf of or receive from our clients as a service provider. It also does not describe how we use, protect, or share that information. In those situations, the privacy policy of the client will apply. 
 
-In addition to this Privacy Policy, our Services are also governed by our Terms of Use and any other documents referred to in this Privacy Policy and our Terms of Use. These documents describe information that we collect from you or that you provide on or to the Services and how Your Information may be used and disclosed by us. They also describe the choices available to you regarding our Use of Your Information and how you can access and update Your Information. Please read this Privacy Policy and the Terms of Use carefully.
+  
 
-Information We Collect and Receive About You
+You can jump to specific topics by clicking on the links below:
 
-We might receive or collect several types of information about you, such as the information described below:
+**Types of Information We Collect**
 
-*   Name
-*   Email
-*   Phone Number
-*   Address
-*   Social Security Number
-*   Credit Card Number
-*   Date of Birth
+**Use and Processing of Information**
 
-Information You Provide
+**Sharing of Information**
 
-The following are situations in which you may provide Your Information to us:
+**Your Choices**
 
-*   When you fill out forms or fields through our Services;
-*   When you sign up for any newsletters or other materials, our authenticated user experience, or other products and services through our Services;
-*   When you provide information to us through a third-party application, service or website;
-*   When you communicate with us or request information about us or our Services, whether via email or other means;
-*   When you participate in online surveys;
-*   When you participate in any of our marketing initiatives, including, contests, events, or promotions. and
-*   When you participate in forums or provide user generated content or submissions.
+**How We Protect Personal Information**
 
-User Data Supplementation
+**Miscellaneous**
 
-Information Third Parties Provide
+**California Residents – Information Sharing Disclosure**
 
-We may collect information about you from sources other than you, such as from social media websites (i.e., Facebook, LinkedIn, Twitter or others), blogs, other users and our business partners.
+  
 
-General Use and Preference Information
+**Types of Information We May Collect**
 
-We may collect, receive and store information regarding your general use of our Services (such as details of how and when you used our Services, interactions with our Services, log in information, resources that you access, your Internet protocol address, your browser type, and your device type), as well as your preferences. Our Services may feature proprietary measurement software, which will allow you to contribute to market research.
+  
 
-Device Information
+The following provides examples of the type of information that Red Ventures companies may collect on their own behalf:
 
-When you use our Services through your computer, mobile phone or other device, we may collect information regarding and related to your device, such as hardware models and IDs, device type, operating system version, the request type, the content of your request and basic usage information about your use of our Services, such as date and time. In addition, we may collect information regarding application-level events and associate that with your account to provide customer service. We may also collect and store information locally on your device using mechanisms such as browser web storage and application data caches.
+  
 
-Location Information
+**Demographic Information**. We may collect personal information such as your age or location. The purpose for collection and use of this data is that we have a business need to understand our users and provide tailored services.
 
-If you enable the collection of location information on your device, then we may collect information about your actual location, such as your mobile device’s GPS coordinates. We may also use other technologies to determine your location (such as through the location of nearby Wi-Fi access points or cell towers), or obtain your location information from third parties.
+  
 
-Phone Numbers
+**Account Registration**. We may collect your name and contact information when you create an account. We may also collect information relating to the actions that you perform while logged into your account. The purpose for collection and use of this data is that we have a business need to provide account related functionalities to our users. Accounts can be used for easy checkout and to save your preferences and transaction history. 
 
-We may collect your phone number in several ways. For example, we may collect your phone number: (i) if you submit your phone number to us through our Services. (ii) by capturing your phone number if you call us. or (iii) if a third party provides your phone number to us.
+  
 
-Non-Personally Identifiable Information
+**Client Information**. We may collect contact information such as name, e-mail, address and/or phone of our business clients and their employees with whom we may interact. The purposes for collection and use of this data is that we have a business need to make our website operate efficiently and to provide our business clients with ability to save preferences such as login and preferred language.
 
-We may collect demographic information about you such as gender, zip code, and birth date, and information regarding your preferences and usage. This type of information is not, by itself, personally identifiable information. But if we link such information with personally identifiable information in a manner that identifies an individual, then we will treat all such information as personally identifiable information for purposes of this Privacy Policy.
+  
 
-Log Files, Cookies and Anonymous Identifiers
+**E-mail Interconnectivity**. If you receive e-mail from us, we use certain tools to capture data related to when you open our message, click on any links or banners it contains and make purchases. The purpose for collection and use of this data is that we have a business need to understand how you interact with our communications to you.
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality, and to document your consent to receiving products, services or communications from us or our partners. If we link such information with personally identifiable information in a manner that identifies an individual, then we will treat all such information as personally identifiable information for purposes of this Privacy Policy.
+  
 
-We and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website (session replay), and to gather various types of information about our user base. Users can control the use of cookies at the individual browser level. We use cookies to help us know that you are logged on, provide you with features based on your preferences, understand when you are interacting with our Services, and compile other information regarding use of our Services. If you are a registered member on the Site, you will receive a cookie when you login. This cookie is maintained by your browser and contains your identifier. This cookie is also used to authenticate your identity and provide you with access to areas of Bankrate that are limited to registered members, such as those that allow you to view and manage your personal profile. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use cookies to collect and store information. You can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+**Feedback/Support**. If you provide us feedback or contact us for support we may collect your name and e-mail address, as well as any other content that you send to us, to reply. The purpose for collection and use of this data is that we have a business need to receive and act upon your feedback or issues.
 
-Network Advertising
+  
 
-From time to time, we may participate in, partner with, or use advertising networks, such as third-party advertising servers, advertising agencies, technology vendors and research firms. For example, we use Google AdSense to publish ads on our Services. When you view or click on an ad, a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. In addition, we may use third-party advertising networks to serve advertisements to you on our Web site, or to manage our advertising on other sites. Our third-party partners may use technologies such as cookies to gather information about your activities on this site and other sites to provide you advertising based upon your browsing activities and interests. This practice is often referred to as “online behavioral advertising.”
+**Mailing List**. If you sign up for one of our mailing lists we collect your e-mail address or postal address. The purpose of collection and use of this data is that we have a business need to share information about our products or services.
 
-Please see the “Online Behavioral Advertising” subsection of Choices About How We Use and Collect Your Information below to read about how you can prevent certain third-party advertising networks from collecting information about you.
+  
 
-This website features Nielsen’s audience measurement software which will collect information about your activities online for market research purposes. If you are not currently a Nielsen panelist and do not wish to participate in Nielsen’s digital measurement research, you may opt out on browsers by clicking here. To learn more about our digital audience measurement products and your choices in regard to them, please visit http://www.nielsen.com/digitalprivacy for more information.
+**Order Placement**. When you place an order, we collect your name, billing address, shipping address, e-mail address, phone number, and payment information (e.g., credit card number). The purpose of collection and use of this data is that we use your information to perform our contract to provide you with products or services.
 
-How We Secure Your Information
+  
 
-Bankrate’s web servers support the Secure Socket Layer (SSL) transaction protocol originally developed by Netscape and now largely accepted as an industry standard. The purpose of this encryption protocol is to keep confidential the information passed back and forth between a web server and its users. We work to protect personally identifiable information stored on the site’s servers from unauthorized access using industry standard computer security products, such as firewalls, as well as carefully developed security procedures and practices. In addition, a username, member ID name and password are required for you to use, view or change application or interview information. We use both internal and external resources to review the adequacy of our security measures on a regular basis.
+**Partner Promotion**. We collect information that you may choose to provide as part of a co-branded promotion with another company. The purpose of collection and use of this data is that we have a business need to fulfill our promotions.
 
-How We Use Information
+  
 
-We may make Use of Your Information for various lawful business purposes. Among others, these purposes may include using Your Information to:
+**Surveys**. When you participate in a survey, we collect information that you provide through the survey. If the survey is provided by a third-party service provider, the third party’s privacy policy applies to the collection, use, and disclosure of your information. The purposes of collection and use of this data are that we have a business need to understand your opinions and collect information relevant to our organization.
 
-*   **Engage in customer support.** For example, we might confirm and complete transactions requested by you, verify information you provide to us and provide you with administrative notices.
-*   **Contact you with information**. For example, we might provide or contact you through telephone, email, postal or other communications with Service updates, promotional materials, surveys, offers, quotes, personalized information and other information from us or our business partners.
-*   **Analyze and improve our Services and operations**. For example, we might obtain feedback regarding our Services, understand and anticipate your needs and preferences, better understand your use of our Services, customize and tailor Service content and advertising, improve our marketing and promotional efforts, engage in statistical analysis and provide feedback to our vendors, advertisers and other third parties.
-*   **Resolve problems and disputes, and engage in other legal and security matters.** For example, we may use Your Information to comply with, monitor compliance with and enforce this Privacy Policy, our Terms of Use and any other applicable agreements and policies, meet other legal and regulatory requirements, and to protect the security and integrity of our Services and your information.
+  
 
-How We Disclose Information
+**Sweepstakes or contests**. When you choose to participate in a sweepstakes or contest, we collect information about you, which includes contact information to notify you if you are selected. The purpose of collection and use of this data is that we have a business need to operate the contest or sweepstakes. In some contexts, we are also required by law to collect information about those that enter our sweepstakes, and we have a business interest in complying with those laws.
 
-General Disclosure of Your Information
+  
 
-We will share your personally identifiable information with third parties only in the ways that are described in this privacy policy.
+**Mobile Devices**. We may collect information from your mobile device such as unique identifying information broadcast from your device when visiting one of our websites. The purposes of collection and use of this data are that we have a business need to identify unique visitors and understand how users interact with us on their mobile devices.
 
-We may disclose Your Information:
+  
 
-*   To any person who, in our reasonable judgment, is authorized to receive Your Information, including as a result of your business dealings with that person (for example, your attorney);
-*   To our third-party vendors so that they may provide support for our internal and business operations, including for the handling of data processing, data verification, data storage, market measurement, surveys, research, internal marketing, delivery of promotional, marketing and transaction materials, and our Services’ maintenance and security. These companies are authorized to Use Your Information only as necessary to provide these services to us and are contractually obligated to keep Your Information confidential;
-*   To third parties when you use our Services to request a quote, services, or information from one or more of those third parties (e.g. an insurance provider relating to your completion of an insurance quote form) (“Requested Service Providers”), such as by clicking “get your quotes” or other similar buttons at the end of a form, and we may be compensated for such disclosure;
-*   To third parties when you engage in certain activities through our Services that are sponsored by them, such as purchasing products or services offered by a third party, electing to receive information or communications from a third party, or electing to participate in contests, sweepstakes, games, market research or other programs sponsored or serviced, in whole or in part, by a third party. When we disclose Your Information to these third parties, we may be compensated, and Your Information will become subject to the information use and sharing practices of the third party, and the third party will not be restricted by this Privacy Policy with respect to its use and further sharing of Your Information;
-*   To third parties that are interested in contacting you or providing offers to you that may be related to our Services or about products or services you may find of interest, and we may be compensated for such disclosure;
-*   As required by law or ordered by a court, regulatory, or administrative agency such as to comply with a subpoena, bankruptcy proceedings, or similar legal process;
-*   As we deem necessary, in our sole discretion, if we believe that you are violating any applicable law, rule or regulation, or are otherwise interfering with another’s rights or property, including, without limitation, our rights or property;
-*   If requested by authorities in the event of any act of terrorism or instance of local, regional or national emergency;
-*   To enforce our Terms of Use, this Privacy Policy, and any other applicable agreements and policies;
-*   To enforce or protect our rights;
-*   Relating to a Business Transfer, as defined below (see Business Transfers below). and
-*   To our affiliated companies (i.e., companies under common control or management with us).
+**Website interactions**. We use technology to discover how you interact with our website (e.g., session replay). This may include which links you click on, or information that you type into our online forms. This may also include information about your device or browser. The purposes of collection and use of this data are that we have a business need to understand how you interact with our website to better improve it, and to understand your preferences and interests in order to select offerings that you might find most useful. We also have a business need to detect and prevent fraud.
 
-**If you do not want Your Information shared as described above, then you should not provide us with Your Information.**
+  
 
-Requests for Quotes and Services from Requested Service Providers 
+**Cookies**. We use cookies and clear GIFs. “Cookies” are small pieces of information that a website sends to a computer’s hard drive while a web site is viewed. We use cookies, and other technologies, to track devices across time and when they visit different websites that deploy or monitor our cookies. See our Cookie Policy for more information. The purposes for collection and use of this data is that we have a business need to make our website operate efficiently, provide you with different website experiences, and to provide you with ability to save your preferences such as login and preferred language.
 
-As noted above, we may share Your Information with Requested Service Providers when you use our Services to request a quote, services or information from one or more third parties (a “Request”). **IF YOU SUBMIT A REQUEST, REQUESTED SERVICE PROVIDERS MAY CONTACT YOU DIRECTLY WITH QUOTES VIA MAIL, TELEPHONE, TEXT MESSAGE, FAX, EMAIL AND OTHER MEANS OF COMMUNICATION. YOU MAY RECEIVE TELEMARKETING CALLS AS A CONSEQUENCE OF SUBMITTING A REQUEST THROUGH OUR SERVICES, EVEN IF YOU ARE ON THE NATIONAL DO NOT CALL REGISTRY OR ANY OTHER DO NOT CALL REGISTRY.**
+We also participate in behavior-based advertising, which means that technology (_e.g.,_ a cookie) is used to collect information about your use of our websites to provide advertising about products and services tailored to your interests on our website, or on other websites. Again, please see our Cookie Policy for more information. The purposes for collection and use of this data are that we have a business need to engage in behavior-based advertising and capture website analytics.
 
-**Please note that if you submit a Request through our Services and we share Your Information as described above relating to your Request, you will not have the opportunity to opt out of the disclosure of Your Information about that Request.**
+  
 
-Aggregation and De-Personalization
+**Cross-Device Tracking**. We and our service providers may collect and store information about users’ interactions with unaffiliated websites and applications that use our technologies, including cookies and similar tracking technologies. This allows us to infer the presence of a common user or household behind multiple devices or browsers, for instance, and then link those browsers and devices into a device graph. The purposes for collection and use of this data are that we have a business need to understand our users’ use of our sites across devices in order to allow users to use our services on one device and pick up seamlessly where they left off on another device. We also have a business need to provide personalized advertising on each device that is inferred from the browsing patterns on all of the devices.
 
-We may take Your Information and de-identify it either by combining it with information about other individuals (aggregating Your Information with information about other individuals), or by removing characteristics (such as your name) that make the information personally identifiable to you (de-identifying Your Information). We reserve the right to share, loan, rent, sell, or otherwise disclose such information to third parties at any time, for any lawful purpose, without notice or compensation to you.
+  
 
-Sharing with Friends
+**Web logs**. We may collect information, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to a computer when the Internet is used), domain name, click-activity, referring website, and/or a date/time stamp for visitors. The purpose for collection and use of this data is that we have a business need to monitor our networks and the visitors to our websites. Among other things, it helps us understand which of our services is the most popular.
 
-If the Services contains any functionality allowing you to send content to a friend, then please be aware that: (a) we may display your email address to your friend. and (b) we may use
+  
 
-information you provide about your friend to facilitate the communication and as otherwise set
+In addition to the information that we collect from you directly, we may also receive information about you from other sources, including third parties, business partners, our affiliates, or publicly available sources.
 
-forth in this Privacy Policy. We do not store your friends email address in our database. Your friend will receive a one-time message notifying them of the shared content.
+  
 
-Sweepstakes
+When a Red Ventures company receives or processes personal information on behalf of one of our clients, the client generally determines what information we receive, our purpose in processing the information, and how we will use the information.
 
-If you are submitting information to us pursuant to a sweepstakes entry, we reserve the right to share, loan, rent, sell or otherwise disclose the information that you submit with third parties at any time, for any lawful purpose without notice or compensation to you. Participation in these sweepstakes is completely voluntary and you therefore have a choice whether to disclose Your Information. Please refer to the official rules and privacy policy for each individual
+  
 
-sweepstakes for our specific policies regarding information sharing and disclosure pursuant to that sweepstakes entry.
+**Data Analytics**
 
-Circumvention of Security Measures
+  
 
-No method of transmission or method of electronic storage, is 100% secure, and we cannot guarantee absolute security. Additionally, by way of example (without limiting the foregoing), we may be forced to disclose Your Information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Therefore, notwithstanding anything to the contrary within this Privacy Policy, our Terms of Use or any other applicable agreement or policy, you use our Services at your own risk and we do not promise or guarantee, and you should not expect, that Your Information will always remain private. If an unauthorized third party compromises our security measures, we will not be responsible for any damages directly or indirectly caused by an unauthorized third party’s ability to view, use or disseminate Your information.
+We use certain web analytics services, including third-party services such as Google Analytics, to help us understand and analyze how visitors use the site. We may receive reports based on the use of these technologies on both an individual and aggregated basis. These analytics services, including third-party services such as Google Analytics, also use this information to place advertisements for our products on other websites that you visit after your use of the Site. These advertisements may be based on the pages you visited during your use of the Site. For further information about how Google may use data it collects through the Site you may click here. You also may choose to install the Google Analytics Opt-Out Browser Add-on to opt out of Google Analytics data collection.
 
-Business Transfers
+  
 
-We specifically and expressly reserve the right to disclose, lease, sell, assign or transfer Your Information collected through our Services, and any of our databases, together with any personally identifiable information contained in such databases, to third parties in connection with a Business Transfer. A “Business Transfer” means a share or asset sale, acquisition, merger, consolidation, reorganization, spin-off, bankruptcy or other corporate change involving us and/or our affiliates, even if the Business Transfer is only being contemplated and regardless of whether the Business Transfer relates to a part or a whole of our business. Nothing in this Privacy Policy is intended to interfere with our ability to transfer all or part of our business,
+**Use and Processing of Information**
 
-equity, and/or assets (including our Services) to an affiliate or independent third party at any
+  
 
-time, for any lawful purpose, without compensation to you. You will be notified via email and/or a prominent notice on our website, of any change in ownership, uses of your personally
+In addition to the purposes and uses described above, we use information that we collect on our behalf in the following ways:
 
-identifiable information, and choices you may have regarding your personally identifiable
+  
 
-information. We may also disclose your personally identifiable information to any other third party with your prior consent.
+*   To identify you when you visit our websites.
+*   To provide products and services.
+*   To improve our services and advertiser product offerings.
+*   To conduct analytics.
+*   To respond to inquiries related to support, employment opportunities, or other requests. 
+*   To send marketing and promotional materials, including information relating to our products, services, sales, or promotions.
+*   For internal administrative purposes, as well as to manage our relationships.
+*   To automatically build user profiles and marketing segments based on the interests of particular groups. These profiles **do not have** legal or similarly significant effects on individuals.
 
-Children’s Information
+  
 
-You must be at least 13 years of age to register with or use certain portions of the Services. The Services are not intended for children under 13 years of age. No one under 13 years of age may provide any personally identifiable information to or on the Services. We do not knowingly collect personally identifiable information from children under 13. If you believe that we may have any information from or about a child, please contact us at webmaster@bankrate.com.
+  
 
-User Generated Content
+Although the sections above describe our primary purpose in collecting your information, in many situations we have more than one purpose. For example, if you complete an online purchase we may collect your information to perform our contract with you, but we also collect your information as we have a business need in maintaining your information after your transaction is complete so that we can quickly and easily respond to any questions about your order. As a result, our collection and processing of your information is based in different contexts upon your consent, our need to perform a contract, our obligations under law, and/or our need to conduct our business.
 
-We offer publicly accessible blogs and other interactive media through our Services. To request removal of Your Information from our blog or community forum, contact us at webmaster@bankrate.com. In some cases, we may not be able to remove Your Information, in which case we will let you know if we are unable to do so and why.
+  
 
-Some comment areas are managed by a third-party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personally identifiable information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
+**Sharing of Information**
 
-You are responsible for any content, including personally identifiable information, that you contribute to be published or displayed (“posted”) on our Services, or that you transmit to other users of our Services (collectively, “User Generated Content”). Your User Generated Content is posted on and transmitted to other users of our Services at your own risk. We cannot control the actions of other users of our Services with whom you may choose to share your User Generated Content. We are not responsible for circumvention of any privacy settings or security measures
+  
 
-of our Services. As a result, we cannot and do not guarantee that your User Generated Content will not be viewed by unauthorized persons. You understand and acknowledge that, even after removal, copies of your User Generated Content may remain viewable in cached and archived pages, or might have been copied or stored by other Service users. Proper access and use of information provided through our Services, including User Generated Content, is governed by our  Terms of Use.
+In addition to the specific situations discussed elsewhere in this policy, we disclose information in the following situations:
 
-Choices About How We Use and Disclose Your Information
+  
 
-We strive to provide you with choices regarding the personally identifiable information you provide to us. Below are some mechanisms that provide you with control over certain information:
+1.  **Affiliates and Acquisitions**. We may share information with our corporate affiliates (_e.g_., parent company, sister companies, subsidiaries, joint ventures, or other companies under common control). If another company acquires, or plans to acquire, our company, business, or our assets, we will also share information with that company using appropriate safeguards, including at the negotiation stage. 
+2.  **Our Business Clients.** When we collect information on behalf of our business clients, we share that information with our clients. 
+3.  **Public**. Some of our websites may provide the opportunity to post comments, or reviews, in a public forum. If you decide to submit information on these pages, that information may be publicly available.
+4.  **Partner Promotion**. We may offer contests, sweepstakes, or other promotions with third party partners. If you decide to enter a contest, sweepstakes, or promotion that is sponsored by a third party partner the information that you provide will be shared with us and with them. Their use of your information is not governed by this privacy policy.
+5.  **Service Providers**. We may share your information with service providers. Among other things, service providers may help us to administer our website, conduct surveys, provide technical support, other administrative functions, process payments, and assist in the fulfillment of orders.
+6.  **Other Disclosures with Your Consent.** We may ask if you would like us to share your information with other unaffiliated third parties who are not described elsewhere in this policy.
+7.  **Other Disclosures without Your Consent**. We may disclose information in response to subpoenas, warrants, or court orders, or in connection with any legal process, or to comply with relevant laws. We may also share your information to establish or exercise our rights, to defend against a legal claim, to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, safety of person or property, or a violation of our policies.
 
-*   Cookies. If you do not wish us to collect cookies, you may set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of our Services may then be inaccessible or may not function properly.
-*   Email Offers from Us. If you do not wish to receive email offers or newsletters from us, you can opt out of receiving email information from us (other than emails related to the completion of your registration, correction of user data, change of password and other similar communications essential to your transactions through our Services) by using the unsubscribe process at the bottom of the email.
-*   Accessing and Correcting Personally Identifiable Information. If a portion of our Services allows you to create an account with us, then you can review and update Your Information by logging into that portion of our Services, visiting your account profile page and making changes or by emailing us at webmaster@bankrate.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to
-*   your request within a reasonable timeframe. We will retain Your Information for as long as
-*   your account is active or as needed to provide you services and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-*   Online Behavioral Advertising. If you wish to not have third party advertisers collect your information for the purpose of serving you interest-based ads, you may opt-out by clicking here. In addition, certain third-party advertising networks that deliver behavioral advertising are members of the Network Advertising Initiative (“NAI”). You can prevent NAI member companies from collecting preference data about you by clicking here and
-*   following the NAI’s directions. You may also opt-out of Google Adsense’s use of its cookie by visiting Google’s Advertising and Privacy page. Please note that these opt-outs do not opt you out of being served ads. You will continue to receive generic ads.
+  
 
-Information You Disclose to Third Parties
+**Social Features**
 
-You may be presented with an opportunity to receive information and/or marketing offers from third parties in connection with our Services. All information you disclose to such third parties will be subject to the privacy policy and practices of such third parties. We are not responsible for
+Some of our websites may include features that are designed to permit interactions that you initiate between our site and third-party websites or services, including third-party social networks (collectively, "Social Features"). For example, you may be able to "like" or "share" content from our site on other websites or services, such as Facebook, Twitter, Instagram, YouTube, and LinkedIn.
 
-the privacy policies and practices of such third parties and, therefore, you should review the privacy policies and practices of such third parties prior to disclosing information to them. If you later decide that you no longer want to receive communications from a third party, you will need to contact that third party directly.
+  
 
-Links to Third-Party Websites
+If you use Social Features on our site, both Red Ventures and the third-party services that operate those Social Features may have access to certain information about you and your use of both our site and theirs. The information we collect in connection with your use of Social Features, such as usage information, is subject to this Privacy Policy. The information collected and stored by the third parties remains subject to those third parties’ privacy practices, including whether the third parties continue to share information with us, the types of information shared, and your choices with regard to what is visible to others on those third-party websites or services.
 
-Our Services, as well as the email messages sent with respect to our Services, may contain links or access to websites operated by third parties that are beyond our control. For example, if you click to apply for a product such as a credit card through our Services, you may be linked to a third-party website to complete an application. Links or access to third parties from our Services are not an endorsement by us of such third parties, or their websites, applications, products, services, or practices. We are not responsible for the privacy policy, terms and conditions, practices or the content of such third parties. These third-parties may send their own cookies to you and independently collect data. If you visit or access a third-party website, application or other property that is linked or accessed from our Services, we encourage you to read any privacy policies and terms and conditions of that third party before providing any personally identifiable information. If you have a question about the terms and conditions, privacy policy, practices or contents of a third party, please contact the third party directly.
+  
 
-Third Party Widgets and Plug-ins
+**Your Choices**
 
-Our Services include social media features, such as the Facebook Like button, links to our various social media pages and widgets, such as the Share this button or interactive mini – programs that run on our Services. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly through our Services. Your interactions with these features are governed by the privacy policy of the company providing it.
+  
 
-Operation of our Services in the United States
+You can make the following choices here regarding your personal information:
 
-Our Services are operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us may be transferred to the United States. By using our Services or providing us with Your Information, you consent to this transfer.
+1.  **Access to Your Personal Information**. You may request access to your personal information that we collect on our own behalf. If required by law, upon request, we will grant you reasonable access to the personal information that we have about you. Note that California residents may be entitled to ask us for a notice describing what categories of personal information (if any) we share with third parties or affiliates for direct marketing. 
+2.  **Changes to Your Personal Information**. We rely on you to update and correct your personal information. Note that we may keep historical information in our backup files as permitted by law. If our website does not permit you to update or correct certain information, contact us at the address described below. If we are processing your information on behalf of one of our clients, we will forward your modification request to that client and/or follow any instructions provided by that client concerning the modification of information. 
+3.  **Deletion of Your Personal Information**. When we collect information on our own behalf, we typically retain your personal information for the period necessary to fulfill the purposes outlined in this policy, unless a longer retention period is required or permitted by law. You may, however, request information about how long we keep a specific type of information, or request that we delete your personal information by contacting us at the address described below. If required by law we will grant a request to delete information, but you should note that in some situations we must keep your personal information to comply with our legal obligations, resolve disputes, enforce our agreements, or for another one of our business purposes. If we are processing your information on behalf of one of our clients we will forward your deletion request to that client and await instructions on whether the information should be deleted. 
+4.  **Objection to Certain Processing.**   When we process information on our own behalf, you may object to our use of your personal information by contacting us at the address described below. For example, California residents may be entitled to object, or opt-out, of having their information sold to third parties. If you are a California resident and would like to opt-out of having your information sold, please visit the following link: **Do Not Sell My Personal Information** **.** We do not discriminate against California consumers who exercise any of their rights described in this policy.  
+5.  **Online Tracking.** We do not currently recognize automated browser signals regarding tracking mechanisms, which may include "Do Not Track" instructions.
+6.  **Promotional E-mails**. You may choose to provide us with your e-mail address for the purpose of allowing us to send free newsletters, surveys, offers, and other promotional materials to you, as well as targeted offers from third parties. You can stop receiving promotional e-mails by following the unsubscribe instructions in e-mails that you receive. If you decide not to receive promotional e-mails, we may still send you service related communications.
+7.  **Promotional Mailings.** If at any time you do not want to receive offers and/or circulars from us you can remove yourself from our mailing lists by e-mailing us (our contact information is below) with "NO SNAIL MAIL" in the subject line along with your name, address and zip code. Please note that our mailings are prepared in advance of their being sent. Although we will remove your name from our mailing list after receiving your request, you may still receive mailings from us that had been initiated prior to your name being removed.
+8.  **Text Messages and Push Notifications.** If you receive a text message from us that contains promotional information you can opt-out of receiving future text messages by replying “STOP” or “UNSUBSCRIBE.” You control on your device whether you receive push notifications.
+9.  **Revocation of Consent**. If you revoke your consent for the processing of personal information, then we may no longer be able to provide you services. In some cases, we may limit or deny your request to revoke consent if the law permits or requires us to do so, or if we are unable to adequately verify your identity. You may revoke consent to processing (where such processing is based upon consent) by contacting us at the address described below.
 
-Changes to this Privacy Policy
+  
 
-We reserve the right to update, amend and/or change this Privacy Policy at any time in our sole discretion. Amendments will take effect immediately upon us posting the updated Privacy Policy on our Services. If we make any material changes we will notify you by means of a notice on this Site or notify you by email (sent to the email address specified in your account) prior to the change becoming effective. You are encouraged to revisit this Privacy Policy from time to time in order to review any changes that have been made. The date on which this Privacy Policy was
+If you do not want to make requests for access, deletion, or Do-Not-Sell using our online form, you may call 877-336-3738. To get in touch with us about any other privacy requests, you may contact us at privacy@redventures.com or in writing at:
 
-last updated will be noted immediately above this Privacy Policy. Your continued access and use of our Services following the posting of any such changes shall automatically be deemed your acceptance of all changes.
+  
 
-Contacting Us
+Red Ventures, LLC
 
-If you have questions or concerns about our privacy practices or wish to make a request regarding Your Information, please contact us at webmaster@bankrate.com.
+1101 Red Ventures Drive
 
-Special Notification for California Residents **—** Your California Privacy Rights
+Fort Mill, SC 29707
 
-Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes. Such requests must be
+Attn: Privacy Officer
 
-submitted to us at webmaster@bankrate.com or in writing at:
+  
 
-Bankrate, LLC
+**How We Protect Personal Information**
 
-3801 PGA Blvd. Suite 555
+  
 
-Palm Beach Gardens, FL 33410
+No method of transmission over the Internet, or method of electronic storage, is fully secure. While we use reasonable efforts to protect your personal information from unauthorized access, use, or disclosure, we cannot guarantee the security of your personal information. If we are required by law to inform you of a breach to your personal information we may notify you electronically, in writing, or by telephone, if permitted to do so by law.
 
-Attention: Sr. Director, Client Services
+Some of our websites permit you to create an account. When you do you will be prompted to create a password. You are responsible for maintaining the confidentiality of your password, and you are responsible for any access to or use of your account by someone else that has obtained your password, whether or not such access or use has been authorized by you. You should notify us of any unauthorized use of your password or account.
 
-California privacy rights requests must include the reference “Request for California Privacy Information” on the subject line and in the body of the message and must include the email address or mailing address, as applicable, for us to send our response. This request may be made no more than once per calendar year. We reserve the right not to respond to requests submitted other than to the address specified above.
+  
 
-November 25, 2019 10:35:50 AM EST <iframe src="//www.googletagmanager.com/ns.html?id=GTM-N74D8C" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+**Miscellaneous**
+
+  
+
+The following additional information relates to our privacy practices:
+
+*   **Transmission of Information to Other Countries**. As a multi-national company, we may transmit information between and among our affiliates. As a result, your information may be stored and processed in any country where we have facilities or in which we engage service providers. We take steps to treat personal information using the laws of the country in which we first received your information.
+*   **Third Party Applications/Websites**. We do not control the privacy practices of websites or applications that we do not own. Users are encouraged to read the privacy policy of those properties to make an informed decision regarding use of them.
+*   **Changes to This Privacy Policy.** We may change our privacy policy and practices over time. We will post a notice to our website to inform you of any material changes to our privacy policy and indicate when it was most recently updated. Material policy changes will apply only to information collected after the date of the change. 
+*   **Collection of Information from Children.** We recognize the importance of protecting the privacy and safety of children, and our website and services are directed towards a general audience and are not directed towards children. We do not knowingly collect information about children under the age of 13 or minors otherwise defined in local law or regulation without verifiable parental consent. If we learn that someone under 13 has provided personal information through one of our websites, we will use reasonable efforts to remove that information from our databases.
+*   **Information for California Residents.** California Civil Code 1798.115(c), 1798.130(a)(5)(c), 1798.130(c), and 1798.140 indicate that organizations should disclose whether certain categories of information are “sold” or transferred for an organization’s “business purpose” as those terms are defined under California law. You can find a list of the categories of information that we collect on our own behalf and how we share that information **here** **.** Please note that because this list is comprehensive it may refer to types of information that we share about people other than yourself. If you would like more information concerning the categories of personal information (if any) we share with third parties or affiliates for those parties to use for direct marketing, please submit a written request to us using the information in the "Contact Information" section below.  
+
+  
+
+**Cookie Policy**
+
+**Cookies on our services**
+
+When you use our services, you may receive cookies or other similar technologies such as pixel tags from us and the third parties that collect information on our Services. We use cookies to determine that we give you a high-quality experience on our Services. We also use cookies to show you advertising that is relevant to you.
+
+  
+
+However, if you prefer, you can change your cookie settings. Some browsers have options that allow the visitor to control whether the browser will accept cookies, reject cookies, or notify the visitor each time a cookie is sent. You may elect to reject cookies by adjusting your settings, but doing so will limit the range of features available to you on our Services and other major websites that use cookies.
+
+  
+
+To opt out of interest-based advertising across browsers and devices, please opt out through the Digital Advertising Alliance website and also through the settings within the mobile app or your mobile device. Your opt-out choice may apply only to the browser or device you are using when you opt out, so you should opt out on each of your browsers and devices if you want to disable all cross-device linking for interest-based advertising. If you opt out, you will still receive ads but they may not be as relevant to you and your interests.
+
+  
+
+Digital Advertising Alliance 
+
+  
+
+Our Services also occasionally use "local shared objects" (also known as "Flash cookies"). Like browser cookies, Flash cookies may be used for coordinating content delivery, website functionality, maintaining preferences, advertising, or analytics. Unlike browser cookies, "Flash cookies" are not stored in the browser. You may be able to manage these Flash cookies by visiting the Adobe website.
+
+  
+
+**There are four types of cookies used on our services:**
+
+  
+
+1. **Essential cookies** – These cookies enable you to use our Services. These cookies are essential to enable you to browse our Services and use certain features. Disabling them may prevent you from using certain parts of the Services. Without these cookies, services such as shopping activity and paying activity cannot be provided. These cookies also help keep our Services safe and secure.
+
+  
+
+  
+
+2. **Preference cookies** – These cookies store information such as your preferred country and language selection, login data and website preferences. Without these cookies, our Services may not be able to remember certain choices you've previously made (such as a saved country / language preference) or personalize your browsing experience by providing you with relevant information. These cookies can also be used to recognize your device so that you do not have to provide the same information more than once.
+
+  
+
+  
+
+3. **Performance cookies** – These cookies collect information about how you use our Services such as which pages you visit regularly. These cookies are used to provide you with a high-quality experience by doing things such as tracking page load, site response times, and error messages.
+
+  
+
+  
+
+4. **Content / advertising cookies** – These cookies gather information about your use of our Services so we may improve your experience and provide you with more relevant content and advertising. They are also used to gather feedback on customer satisfaction through surveys. They remember that you've visited our Services and help us understand usage of our Services. Some of these cookies are from third parties that collect information about users of our Services (as described below under "Information collected by third parties on our Services") in order to provide advertising (on our Services and elsewhere) based on users’ online activities (so-called "interest-based advertising") on our Services and elsewhere online. The third parties involved in interest-based advertising collect internet browsing information (e.g., websites visited, time of visit) across different websites and over time, and they may use the information they collect on our Services to provide you ads (from us and other companies) across the internet. 
+
+  
+
+**For California Residents - Information Sharing Disclosure**
+
+California Civil Code 1798.115(c), 1798.130(a)(5)(c), 1798.130(c), and 1798.140 indicates that companies should disclose whether the following categories of information are transferred for consideration or for an organization’s “business purpose” as that term is defined under California law. **Note that while a category may be marked that does not necessarily mean that we have information in that category about you**. The following chart only applies to information that we collect on our own behalf, and for our own purposes. it does not include information that we collect as a service provider to another company.
+
+  
+
+Category of Personal Information Is information collected by us? Is information transferred for valuable consideration? Is information transferred for business purposes? Audio, electronic, visual, thermal, olfactory, or similar information X X Bank account number (employees only) X X Biometric information (employees only) X X Commercial information (e.g., products or services purchased, or other purchasing or consuming histories or tendencies) X X Credit card number X X Debit card number X X Driver’s License Number / State ID X X Education X X Electronic network activity (e.g., browsing history) X X Email address X X Employment (applicants and employees only) X X Employment history (applicants and employees only) X X Geolocation data X X Health insurance information X X Identifiers (e.g., name or alias) X X Insurance Policy Number X X Medical information X X Online identifier (e.g. IP address) X X Other financial information X X Passport Number X X Physical Characteristics X X Postal address X X Signature X X Social Security Number X X Telephone Number X X Transaction information X X December 17, 2019 4:27:40 PM EST <iframe src="//www.googletagmanager.com/ns.html?id=GTM-N74D8C" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
 
 *   About Us
 *   Press Room
@@ -551,7 +605,8 @@ November 25, 2019 10:35:50 AM EST <iframe src="//www.googletagmanager.com/ns.htm
 *   Compare Rates
 
 *   Understand Bankrate's Averages
-*   Privacy Policy / Your California Privacy Rights
+*   New Privacy Policy / Your California Privacy Rights
+*   Do Not Sell My Info
 *   Terms of Use
 *   GLBA Annual Notice
 *   Licenses
