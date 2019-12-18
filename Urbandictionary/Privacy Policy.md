@@ -1,35 +1,35 @@
-Top definition privacysexprivacy is slang for poontang aka vagina.i like it when you touch my privacy. (from a da brat song)#coochie#coo#snatch#pussy#poonanny#va61na#crotchby blissee December 31, 2005 383 141 Get a privacy mug for your Uncle James.2 privacynameSomething George W. Bush brutally raped.Wow, George W. Bush really fucked everyones privacy with the Patriot Act.#private#douche bag#bush#republican#fuckedby Fuck W February 04, 2006 171 80 Get a privacy mug for your Uncle James.3 privacyunknownA thing that doesn't exist anymore.The government is always trying to find new ways to invade our privacy to the point where it is impossible to not be watched.by Dubiks October 29, 2018 31 12 Get a privacy mug for your Uncle James.4 privacyunknownspace to your self with out your annoying siblings.I wanted to have privacy so I went to go into my room with noone and be alone without my annoying siblings because I had enough of them#i will become calmby jimiu December 07, 2017 13 4 Get a privacy mug for your Uncle James.5 privacyunknownWhat was violated by the Patriot Act, and is now going to be violated in the near future by the National ID... that's right folks, you won't be able to hop on a plane without getting red lights shoved in your eye.Read it and weep. America is becoming the place for advertisements, pornography, and a complete lack of privacy.by ~The Nameless One~ June 03, 2005 110 68 Get a privacy mug for your Uncle James.6 privacyunknownsomething that Tokio Hotel don't have.They need privacy.#tokio hotel#privacy#celeb#private#lifeby zimmer483 October 12, 2011 25 13 Get a privacy mug for your Uncle James.7 PrivacyunknownCode word for "masturbation space"Mom! leave me alone I need some privacy!#room#private#mom#masturbation#secretive#teenager#space#distance#separationby toadweilder January 12, 2019 8 3 Get a Privacy mug for your Uncle James.Trending RN - December 15, 2019
+Top definition privacysexprivacy is slang for poontang aka vagina.i like it when you touch my privacy. (from a da brat song)#coochie#coo#snatch#pussy#poonanny#va61na#crotchby blissee December 31, 2005 383 141 Get a privacy mug for your friend Helena.2 privacynameSomething George W. Bush brutally raped.Wow, George W. Bush really fucked everyones privacy with the Patriot Act.#private#douche bag#bush#republican#fuckedby Fuck W February 04, 2006 171 80 Get a privacy mug for your friend Helena.3 privacyunknownA thing that doesn't exist anymore.The government is always trying to find new ways to invade our privacy to the point where it is impossible to not be watched.by Dubiks October 29, 2018 31 12 Get a privacy mug for your friend Helena.4 privacyunknownspace to your self with out your annoying siblings.I wanted to have privacy so I went to go into my room with noone and be alone without my annoying siblings because I had enough of them#i will become calmby jimiu December 07, 2017 13 4 Get a privacy mug for your friend Helena.5 privacyunknownWhat was violated by the Patriot Act, and is now going to be violated in the near future by the National ID... that's right folks, you won't be able to hop on a plane without getting red lights shoved in your eye.Read it and weep. America is becoming the place for advertisements, pornography, and a complete lack of privacy.by ~The Nameless One~ June 03, 2005 110 68 Get a privacy mug for your friend Helena.6 privacyunknownsomething that Tokio Hotel don't have.They need privacy.#tokio hotel#privacy#celeb#private#lifeby zimmer483 October 12, 2011 25 13 Get a privacy mug for your friend Helena.7 PrivacyunknownCode word for "masturbation space"Mom! leave me alone I need some privacy!#room#private#mom#masturbation#secretive#teenager#space#distance#separationby toadweilder January 12, 2019 8 3 Get a Privacy mug for your friend Helena.Trending RN - December 17, 2019
 
-*     1.  Throwing Neck
-*     2.  Yudipota
-*     3.  flooding the basement
-*     4.  lemon ice
-*     5.  pvman
-*     6.  Alt-Bro Code
-*     7.  Loved
-*     8.  cup of cheese
-*     9.  Cake Sitting
-*   10.  Rug n Tug
-*   11.  Build-a-Bitch Workshop
-*   12.  coconut
-*   13.  Tizzle
-*   14.  Musicals
-*   15.  LGBTP
-*   16.  futsal
-*   17.  stonking
-*   18.  nu male smile
-*   19.  Indomitable Spirit
-*   20.  poomer
-*   21.  Pedosexuality
-*   22.  RIL
-*   23.  paing
-*   24.  Futsal Shuffle
-*   25.  Headphanie
-*   26.  lollygag
-*   27.  phoque
-*   28.  Kru
-*   29.  Bill Brasky
-*   30.  KV
+*     1.  powerbomb
+*     2.  reverse kanga
+*     3.  Little Jimmy
+*     4.  Oida
+*     5.  Inflation fetish
+*     6.  fass
+*     7.  Washing Machine
+*     8.  the washing machine
+*     9.  Lip Grip
+*   10.  washer machine
+*   11.  Geebed
+*   12.  lolly pop
+*   13.  Chongus
+*   14.  Dirty Washing Machine
+*   15.  Get it up ye
+*   16.  Bunty
+*   17.  ostensibly
+*   18.  On the washing machine
+*   19.  washing machine thing
+*   20.  double homicide
+*   21.  washing machine emulator
+*   22.  bowfin
+*   23.  Ratchet Party
+*   24.  Skengman
+*   25.  Circle the Wagons
+*   26.  ballgazing game
+*   27.  Hope Solo
+*   28.  When you put it that way
+*   29.  Conspicuous
+*   30.  kipple
 
 *   1
 *   2
