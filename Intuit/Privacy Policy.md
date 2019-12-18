@@ -1,6 +1,6 @@
 Free Shipping Over $49See DetailsEnable Accessibility
 
-*   My AccountSign InTrack MyOrders
+*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -25,7 +25,7 @@ Shop Departments
 
 Near YouFind a StoreBack12.99 EA.St. John’s Bay Active 1/4-zip fleece select styles | reg. $27 ea.  
 60% OFF  
-Men’s outerwear select styles | **sale $31.99-$71.99** | reg. $80-$18060% OFFBabies’ holiday playwear &. accessories select styles | **sale $3.99 - $23.79** | reg. $14 - $7225%-40% OFFDisney toys select styles **sale $9-$93.75** | reg. $15-$135 Excluded from coupons. SUGAR, SPICE &. DEALS SO NICEShop kitchen deals from the brands you love.  
+Men’s outerwear select styles | **sale $31.99-$71.99** | reg. $80-$18060% OFFBabies’ holiday playwear &. accessories select styles | **sale $3.99-$23.79** | reg. $14-$7225-40% OFFDisney toys select styles **sale $9-$93.75** | reg. $15-$135 Excluded from coupons. SUGAR, SPICE &. DEALS SO NICEShop kitchen deals from the brands you love.  
 COZY DOWN TO THEIR MISTLETOES  
 Shop holiday home must-haves.25% OFFadidas for the family | select styles **sale $15-$37.50** | reg. $20-$85 Excluded from coupons.  
 25% OFFMen’s &. boys’ Puma activewear | select styles **sale $14.99-$48.75** | reg. $20-$65 Excluded from coupons.  
@@ -44,17 +44,23 @@ MUST-HAVE GIFTSThese delightful finds will warm the hearts of everyone on your l
 *   CHI FLAT IRONS
 *   HAIRCARE GIFT SETS
 
-Customer Top Rated - Five Star Gifts Under $100GIFTS UNDER $15GIFTS UNDER $25GIFTS UNDER $50GIFT CARDSSHOP THE LOCAL LOOKJCPenney is teaming up with fashion and lifestyle influencers to bring you a curatedselection of their top picks. Check back everymonth to see new styles.JOIN IN THE FUN  
+SHOP THE LOCAL LOOKJCPenney is teaming up with fashion and lifestyle influencers to bring you a curatedselection of their top picks. Check back everymonth to see new styles.JOIN IN THE FUN  
 Countdown to Christmas is on! Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 40 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   $2124after couponwas $80 Arizona Womens Denver Wide Calf Block Heel Riding Boots(57)
-*   $2124after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(70)
-*   $2124after couponwas $80 Arizona Womens Pines Block Heel Over the Knee Boots(66)
-*   $2124after couponwas $60 Arizona Womens Siesta Booties(29)
-*   $254 - $1699after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(438)
-*   SPECIAL DEAL!
+*   $2124after couponwas $80 Arizona Womens Denver Wide Calf Block Heel Riding Boots(58)
+*   LIMITED TIME SPECIAL!
     
-    $1359after couponwas $84 Arizona - Girls Hooded Faux Fur Trim Heavyweight Puffer Jacket(45)
+    $25 sale
+    
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(43)
+*   $1274after couponwas $30 St. John's Bay Super Soft Mens Long Sleeve Flannel Shirt(135)
+*   $2124after couponwas $80 Arizona Womens Pines Block Heel Over the Knee Boots(67)
+*   $2379after couponwas $59 Liz Claiborne Womens Fleece Long Sleeve Long Length Robe(42)
+*   LIMITED TIME SPECIAL!
+    
+    $25 sale
+    
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(45)
 
 Shop and Save at JCPenney
 
