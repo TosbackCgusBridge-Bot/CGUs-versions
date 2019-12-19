@@ -4,18 +4,51 @@ Nordstrom RackHauteLook
 *   Log In / Sign Up
 
 Your Cart is empty.  
-Let's fix that!Shop New ArrivalsFree Shipping on Orders Over $49\*  
-Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders Over $49\* Extended Returns for the Holidays to Nordstrom Rack
+Let's fix that!Shop New ArrivalsFree Shipping on Orders Over $89\*  
+Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Converse Starting at $30
-    *   alice + olivia Up to 70% Off
-    *   SMEG Up to 50% Off
-    *   Converse Men Starting at $40
-    *   Converse Kids Starting at $20
+    *   Daily Deal: UGG Men's Alder Slippers at $49.98
+    *   Daily Deal: Gift-Ready Miu Miu Fragrance Sets Under $85
+    *   Lucky Brand Incl. Plus
+    *   Daily Deal: Cole Haan Packable Rain Coats at $89.98
+    *   Daily Deal: Kate Spade New York ID Holders at $28
+    *   Daily Deal: BergHOFF EuroCAST Cookware Set at 80% Off
+    *   Daily Deal: bObsweep Robotic Vacuum at $199.97
+    *   Daily Deal: Lacoste Men's Lounge from $19.97
+    *   Daily Deal: Vince Camuto Chelsa Booties at $52.48
+    *   Daily Deal: Sam Edelman Wendall Booties at 55% Off
+    *   Ray-Ban Sun
+    *   Marc Jacobs Bags Up to 50% Off
+    *   Frye Men
+    *   Velvet by Graham &. Spencer Up to 70% Off
+    *   Franco Sarto Up to 55% Off
+    *   Warm &. Chic: Wool Coats and More
+    *   Date Night: Dresses Under $80
+    *   Estee Lauder &. Lancome Starting at $10
+    *   WAYF &. More
+    *   All Under $50: philosophy Gift Sets &. More
+    *   Frye Men's Accessories Up to 65% Off
+    *   On Trend: 14K Gold Jewelry &. More from $25
+    *   Tommy Hilfiger Up to 60% Off
+    *   Last-Minute Gift Idea: Men's Packable Outerwear
+    *   Christmas Time for Kids: Games, Books &. More
+    *   Hybrid Green Label Up to 75% Off
+    *   Free Shipping: Donna Salyers' Fabulous Faux Furs
+    *   Serene Home: Diffusers Starting at $15
+    *   Cozy Kids' Styles ft. MUK LUKS
+    *   Ready, Set, Go: Kids' Sets Under $25
+    *   Australia Luxe Collective Up to 60% Off
+    *   Home Storage &. Organization Starting at $15
+    
+    *   Habitual Up to 60% Off
     *   Keep It Cool: Insulated Stainless Steel Bottles
     *   Cutlery Sets &. More Up to 45% Off
+    *   Converse Starting at $30
+    *   alice + olivia Up to 70% Off
+    *   Converse Men Starting at $40
+    *   Converse Kids Starting at $20
     *   Ted Baker London Bags Up to 55% Off
     *   What She Really Wants: Shiseido Ginza Tokyo
     *   Juniors' Party Looks &. More ft. Socialite
@@ -35,25 +68,15 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Last-Minute Gifts: Kids' Holiday PJs, Toys &. More
     *   Broken Homme
     *   Handbag Shop: Hobo Up to 50% Off
-    *   Habitual Up to 60% Off
     *   Handbag Shop: Crossbodies ft. Marc Jacobs
-    *   Steve Madden &. Madden Girl from $35
-    
     *   Ben Sherman
     *   Handbag Shop: Totes ft. Madewell
     *   Handbag Shop: Backpacks ft. Rebecca Minkoff
-    *   Bobeau Incl. Plus &. Petites
-    *   Handbag Shop: Satchels ft. Versace
-    *   Season's Best: Leather Jackets Up to 65% Off
-    *   Endless Ways to Wear: Bodysuits
-    *   Handbag Shop: Wallets ft. Kate Spade New York
     *   Steve Madden Men Up to 50% Off
-    *   bebe Sport Under $30
     *   Handbag Shop: Belt Bags &. More ft. Aimee Kestenberg
+    
     *   Handbag Shop: Statement Styles ft. Loeffler Randall
     *   Last-Minute Gifts: Cozy Men's Styles
-    *   Winter Boots ft. Santana Canada
-    *   Travel in Style: Luxe Luggage Up to 75% Off
     *   Handbag Shop: Evening Bags &. Clutches Up to 55% Off
     *   PUR
     *   Dip Powder &. Gel Manicure Sets ft. Joya Mia
@@ -64,40 +87,45 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Eye-Catching Wall Art Up to 65% Off
     *   Kids' Coat Shop: Styles Up to 65% Off
     *   Ben Sherman Kids &. More
-    *   Booties, Pumps &. More Up to 60% Off
-    *   Seasonal Steals: Coats Up to 70% Off
     *   Men's Shoe Steals Up to 65% Off
-    *   J.Crew Starting at $25
-    
     *   bareMinerals
     *   J.Crew Men Up to 50% Off
-    *   J.Crew Handbags
     *   Snow Ready: Men's Parkas Up to 65% Off
     *   skinChemists Up to 80% Off
     *   Home Fragrances from $13
     *   Tommy Hilfiger Men's Footwear
     *   Holiday Host: Barware Starting at $15
-    *   Educational Toys ft. Fisher-Price
-    *   Best for Baby: Styles Up to 60% Off
-    *   Kids' Puddle Jumpers: Boots ft. Western Chief
     *   Lucky Brand Denim Under $50
     *   Perricone MD Up to 55% Off
-    *   Timberland Men
-    *   Travis Mathew Under $50
+    *   Handbag Shop: Satchels ft. Versace
+    *   Handbag Shop: Wallets ft. Kate Spade New York
     *   Snow Teeth Whitening Starting at $10
     *   Holiday Decor &. More from $10
-    *   Men's Cozy Styles ft. Australia Luxe Collective
-    *   Urban Decay Starting at $10
-    *   Professional Makeup Brushes &. More Up to 45% Off
     *   Smart Home Accessories &. More from $20
-    *   Anthropologie Home
-    *   Home Essentials: Dyson &. More Up to 60% Off
-    *   AME Character PJs &. More
     *   Gifts for the Gamer from $20
-    *   Time to Stock Up: Styles Under $20
-    *   Cozy Pillows, Throws &. More ft. Nordstrom Rack
+    *   Season's Best: Leather Jackets Up to 65% Off
+    *   Seasonal Steals: Coats Up to 70% Off
+    *   J.Crew Starting at $25
 *   WomenShop Sale Events
     
+    *   Daily Deal: Gift-Ready Miu Miu Fragrance Sets Under $85
+    *   Lucky Brand Incl. Plus
+    *   Daily Deal: Cole Haan Packable Rain Coats at $89.98
+    *   Daily Deal: Vince Camuto Chelsa Booties at $52.48
+    *   Daily Deal: Sam Edelman Wendall Booties at 55% Off
+    *   Ray-Ban Sun
+    *   Marc Jacobs Bags Up to 50% Off
+    *   Velvet by Graham &. Spencer Up to 70% Off
+    *   Franco Sarto Up to 55% Off
+    *   Warm &. Chic: Wool Coats and More
+    *   Date Night: Dresses Under $80
+    *   Estee Lauder &. Lancome Starting at $10
+    *   WAYF &. More
+    *   All Under $50: philosophy Gift Sets &. More
+    *   On Trend: 14K Gold Jewelry &. More from $25
+    *   Tommy Hilfiger Up to 60% Off
+    *   Australia Luxe Collective Up to 60% Off
+    *   Habitual Up to 60% Off
     *   Converse Starting at $30
     *   Ted Baker London Bags Up to 55% Off
     *   What She Really Wants: Shiseido Ginza Tokyo
@@ -105,72 +133,63 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Under $30: Sweaters for Every Style
     *   Dress Obsessed: Styles Under $50
     *   Now Trending: Boots Under $50
+    
     *   Nine West from $40
     *   Trending Now: Gold Jewelry &. More
     *   Last-Minute Gifting: Panty Packs &. Socks
     *   Burberry Fragrances Up to 50% Off
     *   Handbag Shop: Hobo Up to 50% Off
-    *   Habitual Up to 60% Off
     *   Handbag Shop: Crossbodies ft. Marc Jacobs
-    *   Steve Madden &. Madden Girl from $35
     *   Handbag Shop: Totes ft. Madewell
     *   Handbag Shop: Backpacks ft. Rebecca Minkoff
-    *   Bobeau Incl. Plus &. Petites
-    *   Handbag Shop: Satchels ft. Versace
-    *   Season's Best: Leather Jackets Up to 65% Off
-    *   Endless Ways to Wear: Bodysuits
-    *   Handbag Shop: Wallets ft. Kate Spade New York
-    
-    *   bebe Sport Under $30
     *   Handbag Shop: Belt Bags &. More ft. Aimee Kestenberg
     *   Handbag Shop: Statement Styles ft. Loeffler Randall
-    *   Winter Boots ft. Santana Canada
-    *   Travel in Style: Luxe Luggage Up to 75% Off
     *   Handbag Shop: Evening Bags &. Clutches Up to 55% Off
     *   PUR
     *   Dip Powder &. Gel Manicure Sets ft. Joya Mia
     *   Handbag Shop: Resort Ready ft. ARANAZ
     *   Handbag Shop: Laptop Sleeves &. Bags Up to 50% Off
-    *   Booties, Pumps &. More Up to 60% Off
-    *   Seasonal Steals: Coats Up to 70% Off
-    *   J.Crew Starting at $25
     *   bareMinerals
-    *   J.Crew Handbags
     *   skinChemists Up to 80% Off
     *   Perricone MD Up to 55% Off
+    *   Handbag Shop: Satchels ft. Versace
+    *   Handbag Shop: Wallets ft. Kate Spade New York
     *   Snow Teeth Whitening Starting at $10
-    *   Urban Decay Starting at $10
-    *   Professional Makeup Brushes &. More Up to 45% Off
-    *   Time to Stock Up: Styles Under $20
+    *   Season's Best: Leather Jackets Up to 65% Off
+    *   Seasonal Steals: Coats Up to 70% Off
+    *   J.Crew Starting at $25
     
     Shop By Category
-    *   Clothing
     *   Handbags
+    *   Clothing
     *   Shoes
-    *   Lingerie &. Shapewear
     *   Jewelry
+    *   Lingerie &. Shapewear
     *   Accessories
 *   MenShop Sale Events
     
+    *   Daily Deal: UGG Men's Alder Slippers at $49.98
+    *   Daily Deal: Lacoste Men's Lounge from $19.97
+    *   Ray-Ban Sun
+    *   Frye Men
+    *   Frye Men's Accessories Up to 65% Off
+    *   Last-Minute Gift Idea: Men's Packable Outerwear
+    *   Hybrid Green Label Up to 75% Off
     *   Converse Men Starting at $40
     *   Hudson Jeans Men
     *   Last-Minute Gift Ideas: Leather Goods
     *   English Laundry Up to 60% Off
+    
     *   Broken Homme
     *   Ben Sherman
     *   Steve Madden Men Up to 50% Off
     *   Last-Minute Gifts: Cozy Men's Styles
-    *   Travel in Style: Luxe Luggage Up to 75% Off
     *   Men's Winter Boots from Pajar &. More
-    
     *   Men's Shoe Steals Up to 65% Off
     *   J.Crew Men Up to 50% Off
     *   Snow Ready: Men's Parkas Up to 65% Off
     *   Tommy Hilfiger Men's Footwear
     *   Lucky Brand Denim Under $50
-    *   Timberland Men
-    *   Travis Mathew Under $50
-    *   Men's Cozy Styles ft. Australia Luxe Collective
     *   Gifts for the Gamer from $20
     
     Shop By Category
@@ -179,77 +198,79 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Christmas Time for Kids: Games, Books &. More
+    *   Cozy Kids' Styles ft. MUK LUKS
+    *   Ready, Set, Go: Kids' Sets Under $25
     *   Converse Kids Starting at $20
     *   Converse Kids' Clothing Up to 50% Off
     *   Last-Minute Gifts: Kids' Holiday PJs, Toys &. More
     *   Kids' Coat Shop: Styles Up to 65% Off
     *   Ben Sherman Kids &. More
-    *   Educational Toys ft. Fisher-Price
-    *   Best for Baby: Styles Up to 60% Off
-    *   Kids' Puddle Jumpers: Boots ft. Western Chief
-    *   AME Character PJs &. More
     
     Shop By Category
-    *   Baby Girl
     *   Girls' Sizes 7-16
     *   Girls' Sizes 2T-6X
     *   Boys' Sizes 8-20
-    *   Boys' Sizes 2T-7
     *   Toy Shop
+    *   Boys' Sizes 2T-7
+    *   Baby Girl
     *   Baby Boy
-    *   Boys' Shoes
     *   Girls' Shoes
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
-    *   SMEG Up to 50% Off
+    *   Daily Deal: Kate Spade New York ID Holders at $28
+    *   Daily Deal: BergHOFF EuroCAST Cookware Set at 80% Off
+    *   Daily Deal: bObsweep Robotic Vacuum at $199.97
+    *   Free Shipping: Donna Salyers' Fabulous Faux Furs
+    *   Serene Home: Diffusers Starting at $15
+    *   Home Storage &. Organization Starting at $15
     *   Keep It Cool: Insulated Stainless Steel Bottles
     *   Cutlery Sets &. More Up to 45% Off
     *   Boho-Chic Decor from $20
+    
     *   Wusthof Cutlery &. More Up to 60% Off
     *   Stocking Stuffers from $15
     *   Eye-Catching Wall Art Up to 65% Off
     *   Home Fragrances from $13
-    
     *   Holiday Host: Barware Starting at $15
     *   Holiday Decor &. More from $10
     *   Smart Home Accessories &. More from $20
-    *   Anthropologie Home
-    *   Home Essentials: Dyson &. More Up to 60% Off
     *   Gifts for the Gamer from $20
-    *   Cozy Pillows, Throws &. More ft. Nordstrom Rack
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Holiday Decorations
     *   Electronic &. Tech Accessories
-    *   Luggage &. Travel
-    *   Bedding
-    *   Bath
+    *   Holiday Decorations
     *   Cleaning &. Organization
+    *   Luggage &. Travel
     *   Outdoor Living
     *   Rugs &. Doormats
+    *   Bath
 *   BeautyShop Sale Events
     
+    *   Daily Deal: Gift-Ready Miu Miu Fragrance Sets Under $85
+    *   Estee Lauder &. Lancome Starting at $10
+    *   All Under $50: philosophy Gift Sets &. More
     *   What She Really Wants: Shiseido Ginza Tokyo
     *   Burberry Fragrances Up to 50% Off
     *   PUR
+    
     *   Dip Powder &. Gel Manicure Sets ft. Joya Mia
     *   bareMinerals
     *   skinChemists Up to 80% Off
     *   Perricone MD Up to 55% Off
     *   Snow Teeth Whitening Starting at $10
-    *   Urban Decay Starting at $10
-    *   Professional Makeup Brushes &. More Up to 45% Off
     
     Shop By Category
     *   Makeup
     *   Skin Care
     *   Nails
     *   Fragrance
-    *   Tools &. Accessories
     *   Bath &. Body
-    *   Makeup Bags
+    *   Tools &. Accessories
+    *   Hair Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
@@ -441,4 +462,4 @@ Get a $20 credit each time a friend you invite makes their first purchase. Limit
 
 Or you can use your personal referral link to invite
 
-Shipping &. ReturnsFree shipping is applied to orders over $49 before tax (limited time only). International orders and all items over 5lbs excluded.Extended Holiday Returns!Return to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: Eligible purchases made 10/30–12/17/19 can be returned until 1/31/20. For items returned by mail, the return shipping fee is $5.95 for the US and $10.95 for Canada. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.Unlock Your Exclusive RewardsTake a minute to complete your profile to view your Nordy Club status and available points.Complete My ProfileSkip for now
+Shipping &. ReturnsFree shipping is applied to orders over $89 before tax (limited time only). International orders and all items over 5lbs. excluded.Easy ReturnsReturn to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US and $10.95 for Canada. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.Unlock Your Exclusive RewardsTake a minute to complete your profile to view your Nordy Club status and available points.Complete My ProfileSkip for now
