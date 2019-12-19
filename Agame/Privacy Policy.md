@@ -102,9 +102,9 @@ View more results
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Bob the Robber 4: Season 2 Russia
     *   Boeing Flight Simulator
+    *   World Crafts
     *   Mine Clone 4
     *   Adam and Eve 3
-    *   The Last Survivors: 2 Player Zombie Game
     *   Bob The Robber 3
     *   Build Craft
     *   Dog Simulator: Puppy Craft
@@ -131,7 +131,6 @@ View more results
     
     Best Games
     *   MahJongCon
-    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Butterfly Kyodai
     *   Emoji Jigsaw Puzzle Challenge
     *   Bubble Shooter
@@ -140,8 +139,9 @@ View more results
     *   Find 500 Differences
     *   Bubble Hit
     *   Line Puzzle
-    *   Wheely 4: Time Travel
     *   1 + 2 + 3
+    *   Snail Bob 5: Love Story
+    *   Puzzletag
 *   Girls
     
     Top Categories
@@ -170,7 +170,7 @@ View more results
     *   Hand Skin Doctor
     *   Silky Smooth Legs
     *   Latina Princess: Real Haircuts
-    *   Princesses Fashion Brands Favorite: Dress Up Game
+    *   Princesses Fashion Brands Favorite
     *   Back to School Coloring Book: School
     *   Anna: Scoliosis Surgery
     *   Create a House: Building Game
