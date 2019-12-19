@@ -14,7 +14,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   Innovation &. Strategy
     *   Legal &. Compliance
     *   Marketing
-    *   Product Management
+    *   Product
     *   Sales
     *   Supply Chain
     
@@ -41,7 +41,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   Innovation &. Strategy
     *   Legal &. Compliance
     *   Marketing
-    *   Product Management
+    *   Product
     *   Sales
     *   Supply Chain
     
@@ -68,7 +68,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 801 3664 1 855 801 3664
+    1 855 803 7854 1 855 803 7854
     
 
 *   Solutions By Function
@@ -82,7 +82,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   Innovation &. Strategy
     *   Legal &. Compliance
     *   Marketing
-    *   Product Management
+    *   Product
     *   Sales
     *   Supply Chain
     
@@ -107,7 +107,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   Innovation &. Strategy
     *   Legal &. Compliance
     *   Marketing
-    *   Product Management
+    *   Product
     *   Sales
     *   Supply Chain
     
@@ -141,7 +141,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 801 3664 1 855 801 3664
+    1 855 803 7854 1 855 803 7854
     
 
 GARTNER PRIVACY POLICY Effective Date: October 2019
