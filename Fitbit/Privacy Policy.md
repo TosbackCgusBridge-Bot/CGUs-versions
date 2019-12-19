@@ -127,7 +127,7 @@ We use data to improve our products and services and research and develop new on
 
 Learn more  How information is shared
 
-We don’t sell personal data like your name, email address, or any information that could reasonably be used to identify you. And we only share it when you tell us to, to companies that provide services to us, and for legal reasons or to prevent harm.
+We never sell your personal data. And we only share it when you tell us to, to companies that provide services to us, and for legal reasons or to prevent harm.
 
 Non-Personal Information
 
@@ -139,7 +139,7 @@ We do not share your personal information except in the limited circumstances de
 
 See what's shareable  Ways you can share your data
 
-This fitness journey is yours. That’s why Fitbit give you settings and tools to control how your information is shared—whether you’re connecting with friends and family to get motivated, showing your health stats to a trainer, or using other apps to help you stay on track.
+This fitness journey is yours. That’s why Fitbit gives you settings and tools to control how you share your information—whether you’re connecting with friends and family to get motivated, showing your health stats to a trainer, or using other apps to help you stay on track.
 
 Making Your Profile and Stats Public
 
