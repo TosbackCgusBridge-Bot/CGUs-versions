@@ -252,55 +252,11 @@ Close Upload ★TUBE8 VIP
     
     Hottest Videos
     
-    View More HD 08:05
-    
-    MyDirtyHobby - POV creampie with gorgeous amateur slim hottie
-    
-    58k 100% mydirtyhobby
-    
-    HD 07:17
-    
-    Sexy blonde granny takes a black cock in her ass
-    
-    33k 67% pubacash
-    
-    HD 05:07
-    
-    Uncensored JAV topless gyaru handjob and blowjob Subtitles
-    
-    32k 67%
-    
-    05:05
-    
-    Subtitled POV Japanese Ai Uehara blowjob followed by cowgirl
-    
-    30k 50%
+    View More
     
     Newest Videos
     
-    View More HD 11:43
-    
-    MOFOS - Amateur Latina Vienna Black sucks cock POV
-    
-    0 0% Mofos
-    
-    HD 11:58
-    
-    Fake Taxi Beautiful Shona River anal sex experience in Britian
-    
-    0 0% FakeHub
-    
-    HD 13:58
-    
-    Dane Jones Pretty Latina Kitty Love romantic sex and creampie
-    
-    0 0% SexyHub
-    
-    HD 10:43
-    
-    Brazzers - Big Tits Lena Paul gets eaten out at work
-    
-    0 0% Brazzers
+    View More
     
     Recent Searches
     
@@ -312,17 +268,17 @@ Close Upload ★TUBE8 VIP
     *   young
     *   big tits
     *   homemade
-    *   family
     *   granny
+    *   family
     *   mother
     *   big boobs
     *   masturbation
     *   massage
     *   gangbang
     *   ass fuck
+    *   big cock
     *   blonde
     *   cumshot
-    *   big cock
     *   big ass
     *   brunette
     *   big dick
@@ -331,18 +287,18 @@ Close Upload ★TUBE8 VIP
     
     Most Content
     
-    *   **HD** (193228)
-    *   **Amateur** (71789)
-    *   **Hardcore** (46518)
-    *   **Teen** (33137)
-    *   **Fetish** (22832)
-    *   **Erotic** (22208)
-    *   **Anal** (17423)
-    *   **Blowjob** (16743)
-    *   **Lesbian** (16189)
-    *   **Asian** (15523)
-    *   **Ebony** (9059)
-    *   **Milf** (7904)
+    *   **HD** (193315)
+    *   **Amateur** (71797)
+    *   **Hardcore** (46514)
+    *   **Teen** (33144)
+    *   **Fetish** (22836)
+    *   **Erotic** (22213)
+    *   **Anal** (17424)
+    *   **Blowjob** (16741)
+    *   **Lesbian** (16195)
+    *   **Asian** (15524)
+    *   **Ebony** (9061)
+    *   **Milf** (7927)
     
     Most Popular Categories
     
@@ -376,32 +332,32 @@ Close Upload ★TUBE8 VIP
     
     *   Brazzers
     *   Videos: **3315**
-    *   Views: **706,619,094**
-    *   Followers: **5,563**
+    *   Views: **706,691,751**
+    *   Followers: **5,566**
     
     Rank  
     2
     
     *   Blacked
     *   Videos: **396**
-    *   Views: **173,259,471**
-    *   Followers: **2,579**
+    *   Views: **173,300,089**
+    *   Followers: **2,581**
     
     Rank  
     3
     
     *   Family Strokes
     *   Videos: **105**
-    *   Views: **12,185,971**
-    *   Followers: **3,831**
+    *   Views: **12,196,567**
+    *   Followers: **3,833**
     
     Rank  
     4
     
     *   Vixen
     *   Videos: **212**
-    *   Views: **38,195,706**
-    *   Followers: **2,697**
+    *   Views: **38,209,790**
+    *   Followers: **2,700**
     
     Trending Channels
     
@@ -412,32 +368,32 @@ Close Upload ★TUBE8 VIP
     
     *   Massage Rooms
     *   Videos: **810**
-    *   Views: **142,953,031**
-    *   Followers: **1,032**
+    *   Views: **142,976,211**
+    *   Followers: **1,034**
     
     Rank  
     4
     
     *   Vixen
     *   Videos: **212**
-    *   Views: **38,195,706**
-    *   Followers: **2,697**
+    *   Views: **38,209,790**
+    *   Followers: **2,700**
     
     Rank  
     20
     
     *   FILF
     *   Videos: **60**
-    *   Views: **1,209,600**
-    *   Followers: **1,001**
+    *   Views: **1,212,377**
+    *   Followers: **1,002**
     
     Rank  
     16
     
     *   Bang Bros Network
     *   Videos: **251**
-    *   Views: **13,913,128**
-    *   Followers: **1,790**
+    *   Views: **13,918,799**
+    *   Followers: **1,792**
 *   Pornstars
     
     Browse by
@@ -936,15 +892,15 @@ TUBE8 - PRIVACY POLICY
 
 **Privacy Policy**
 
-**_Last Modified: March 04, 2019_**
+**_Last Modified: Jan 1, 2020_**
 
 Introduction
 
-MG Freesites Ltd (hereinafter “**we**”, “**us**” or “**our**”) operates the websiteTube8.com (hereinafter “ **Tube8**” or the “**Website**”) and is the controller of the information collected or provided via this Website.
+MG Freesites Ltd (hereinafter "**we**", "**us**" or "**our**"") operates the websiteTube8.com (hereinafter "**Tube8**" or the "**Website**") and is the controller of the information collected or provided via this Website.
 
 Please read this privacy policy carefully, as your access to and use of our Website signifies that you have read, understand and agree to all terms within this privacy policy. If you do not agree with any part of this privacy policy or our terms, please do not access or continue to use our Website or otherwise submit your personal data. We respect your privacy and are committed to protecting your personal data
 
-If you have any questions about our privacy practices, please see “ _Contact Information_” below for information on how to contact us.
+If you have any questions about our privacy practices, please see "_Contact Information_" below for information on how to contact us.
 
 We collect, process and retain personal data to the extent it is necessary to provide users with our service. This privacy policy applies to information we collect:
 
@@ -960,17 +916,17 @@ It does not apply to information collected by:
 
 The Data We Collect About You
 
-Personal data, or personal information, means any information about an individual from which that person can be identified by (“ **Personal Information**”). It does not include data that has been anonymized or pseudonymized.
+Personal data, or personal information, means any information about an individual from which that person can be identified by ("**Personal Information**"). It does not include data that has been anonymized or pseudonymized.
 
 We may collect, use, store and transfer different kinds of personal data about you, which we have grouped together as follows:
 
-Persons who visit the Website without logging in or registering “ **unregistered users**”
+Persons who visit the Website without logging in or registering " **unregistered users**"
 
 *   **Technical Data** includes internet protocol (IP) address, which we pseudonymize (a technique that replaces or removes information in the dataset that identifies an individual), browser type and version, time zone setting and location, operating system and platform and other technology on the devices you use to access this Website.
 *   **User Submitted Data** includes data collected at your direction for a specific function, for example a contest or survey.
 *   **Usage Data** includes aggregated information about how you use our Website, products and services.
 
-Persons who choose to create an account “**registered users**”
+Persons who choose to create an account "**registered users**"
 
 *   **Identity Data** includes, username or similar identifier, date of birth and gender.
 *   **Contact Data** includes email address.
@@ -990,7 +946,7 @@ How is Your Personal Information Collected?
 We use different methods to collect data from and about you including through:
 
 *   **_Direct interactions._** Information that you provide when carrying out search queries on our Website or by filling in forms on our Website, in particular at the time of registering to use our Website, subscribing to our service, posting material, taking part in surveys, entering a contest or promotion sponsored by us, when reporting a problem with our Website, or requesting further services.
-*   **_Automated technologies or interactions_** . See “ _Third-party Use of Cookies and Other Tracking Technologies_” for details of how we may automatically collect your personal data.
+*   **_Automated technologies or interactions_** . See " _Third-party Use of Cookies and Other Tracking Technologies_" for details of how we may automatically collect your personal data.
 
 User Contributions
 
@@ -1013,13 +969,13 @@ We currently use the following types of cookies:
 *   We do not require that you accept cookies and you may withdraw your consent to our use of cookies at any time by adjusting your browser’s privacy settings. However, if you decline to accept cookies, some functionality on our Website may be disabled and you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. Cookies can be either session cookies or persistent cookies. A session cookie expires automatically when you close your browser. A persistent cookie will remain until it expires or you delete your cookies. Expiration dates are set in the cookies themselves. some may expire after a few minutes while others may expire after multiple year
 
 *   **Web Beacons** . Pages of our Website and our e-mails may contain small electronic files known as web beacons (also known as clear gifs, pixel tags, single-pixel gifs and web bugs) that are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies.
-*   **Analytics** . We use third party analytics and advertising tools and technologies, in particular Google Analytics and DoubleClick provided by Google, Inc., USA (“Google”). These tools and technologies collect and analyze certain types of information, including IP addresses, device and software identifiers, referring and exit URLs, onsite behavior and usage information, feature use metrics and statistics, usage and purchase history, media access control address (MAC Address), mobile unique device identifiers, and other similar information via the use of cookies. The information generated by Google Analytics and DoubleClick about your use of the Website (including your IP address) may be transmitted to and stored by Google on servers in the United States. Because we activated IP anonymization for Google Analytics and Double Click, Google will anonymize the last octet of a particular IP address. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. Google will use this information for the purpose of evaluating your use of the Website, compiling reports on Website activity and managing advertising content. To learn how you can opt out from this information collection by Google see “ _Choices About How We Collect, Use and Disclose Your Personal Information_ ” below.
+*   **Analytics** . We use third party analytics and advertising tools and technologies, in particular Google Analytics and DoubleClick provided by Google, Inc., USA ("Google"). These tools and technologies collect and analyze certain types of information, including IP addresses, device and software identifiers, referring and exit URLs, onsite behavior and usage information, feature use metrics and statistics, usage and purchase history, media access control address (MAC Address), mobile unique device identifiers, and other similar information via the use of cookies. The information generated by Google Analytics and DoubleClick about your use of the Website (including your IP address) may be transmitted to and stored by Google on servers in the United States. Because we activated IP anonymization for Google Analytics and Double Click, Google will anonymize the last octet of a particular IP address. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. Google will use this information for the purpose of evaluating your use of the Website, compiling reports on Website activity and managing advertising content. To learn how you can opt out from this information collection by Google see " _Choices About How We Collect, Use and Disclose Your Personal Information_ " below.
 
 Third-party Use of Cookies and Other Tracking Technologies
 
 Some content or applications, including advertisements, on the Website are served by third parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our Website. Unless expressly stated otherwise, our website does not provide any Personal Information to these third parties, however they may collect information, including Personal Information, such as internet protocol (IP) address, browser type and version, time zone setting and location, operating system and platform and other technology on the devices you use to access this Website. They may use this information to provide you with interest-based advertising or other targeted content.
 
-We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see “ _Choices About How We Collect, Use and Disclose Your Personal Information_ ”.
+We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see " _Choices About How We Collect, Use and Disclose Your Personal Information_ ".
 
 How We Use Your Personal Data
 
@@ -1051,9 +1007,9 @@ We do not disclose your Personal Information except in the limited circumstances
 *   We may disclose your Personal Information to members of our corporate group (that is, entities that control, are controlled by, or are under common control with us) to the extent this is necessary for the purposes of provision of services, customer management, customization of content, advertising, analytics, verifications, functionality and security, and compliance.
 *   **Service providers.** To our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, risk and fraud detection and mitigation, providing customer service, performing business and sales analysis, customization of content, analytics, security, supporting our Website functionality, surveys and other features offered through our Website. These service providers may have access to Personal Information needed to perform their functions but are not permitted to share or use such information for any other purposes.
 
-*   **VIT Users’ Information.** As described in our terms and conditions, Tube8 is collaborating with Tokken MSB Inc. (“**Tokken**”) to set up a “ **VIT Platform**” in order to allow participating users to earn a cryptocurrency called (“ **VIT**”). Tokken is an independent third party, which complete privacy policy can be found at https://visionindustry.com/disclaimer or at https://visionindustry.com/faqs .
+*   **VIT Users’ Information.** As described in our terms and conditions, Tube8 is collaborating with Tokken MSB Inc. ("**Tokken**"") to set up a " **VIT Platform**" in order to allow participating users to earn a cryptocurrency called (" **VIT**"). Tokken is an independent third party, which complete privacy policy can be found at https://visionindustry.com/disclaimer or at https://visionindustry.com/faqs .
 
-*   In order to allow our Tube8 registered users to participate in the VIT Program and collect VIT, as further explained in our terms and conditions, we required our Tube8 registered user to register a VIT Account and choose a VIT ID, which will act as a user identifier and will be shared with Tokken. Any additional information to be shared with Tokken will be “hashed”, therefore, except each user’s VIT ID, no additional identity data or accessible Personal Information will be shared with Tokken.
+*   In order to allow our Tube8 registered users to participate in the VIT Program and collect VIT, as further explained in our terms and conditions, we required our Tube8 registered user to register a VIT Account and choose a VIT ID, which will act as a user identifier and will be shared with Tokken. Any additional information to be shared with Tokken will be "hashed", therefore, except each user’s VIT ID, no additional identity data or accessible Personal Information will be shared with Tokken.
 
 *   **Legal successors** . To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by us about our Website users is among the assets transferred. Should such a sale or transfer occur, we will use reasonable efforts to try to ensure that the entity to which we transfer your personal information uses it in a manner that is consistent with this privacy policy.
 
@@ -1117,6 +1073,20 @@ If we ask for your consent to use your Personal Information, you can withdraw yo
 You may, at any time, send us an e-mail at support@Tube8.com to exercise your above rights in accordance with the applicable legal requirements and limitations. If you are located in the European Economic Area, you have a right to lodge a complaint with your local data protection authority.
 
 Note that some requests to delete certain Personal Information will require the deletion of your user account as the provision of user accounts are inextricable linked to the use of certain Personal Information ( _e.g._, your e-mail address). Also note that it is possible that we require additional information from you in order to verify your authorization to make the request and to honor your request.
+
+CALIFORNIA CONSUMER PRIVACY ACT NOTICE
+
+As of January 1, 2020, the California Consumer Privacy Act of 2018 ("**CCPA**") provides California residents ("**Consumer(s)**") certain rights with respect to their personal information, as this term is defined under the CCPA. In addition to the rights we state under this policy and subject to the exceptions found under the CCPA, Consumers have the right to:
+
+*   Opt-out of the sale of their personal information, should we sell their personal information;
+*   Be informed of certain information concerning our collection and use of their personal information;
+*   Request that we delete certain personal information we collected from them;
+*   Appoint an agent to exercise their rights provided for by the CCPA, provided that a duly executed notarized power of attorney is presented and provided that the agent has information deemed sufficient to allow us to verify the identity of the Consumer in question and to locate his/her information in our systems;
+*   Not be subjected to discrimination for the exercise of these rights. We will not deny California residents the use of our service, neither will we provide a different level or quality or services for exercising any of their CCPA rights, unless as permitted under the CCPA.
+
+This Website does not sell nor has it sold in the past 12 months personal information to third parties for monetary or other valuable considerations. We may however disclose certain personal information with third parties, service providers and entities within our corporate group in order to enable them to perform certain services on our behalf and namely to make the Website work properly. Regardless, we respect the California residents' right to exclude personal information from such sharing arrangements and to thereby opt-out of any future sale of their personal information.
+
+If the CCPA is applicable to you and you would like to record such preference, please click on the following link for "Do Not Sell My Personal Information".
 
 Changes to Our Privacy Policy
 
