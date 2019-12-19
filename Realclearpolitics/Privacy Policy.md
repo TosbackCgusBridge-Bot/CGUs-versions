@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Charles Lipson_: The Blues at St. James Comey's Infirmary
+*   _Michael Luo_: In Praise of How Pelosi Is Navigating Trump Impeachment
     
-*   _Greg Sargent_: Dems Made Strong Case Trump Committed Crimes
+*   _Victor Davis Hanson_: Hatred of Trump Is a Political Liability for Dems
     
-*   _Jonathan Turley_: With Mad Dash to Impeach, Dems Repeat Failed History
+*   _Joe Lockhart_: 'Except for Getting Impeached, We Had a Pretty Good Day.'
     
-*   _Bob Cesca_: Donald Trump Is Weaker Than You Think
+*   _Kathleen Parker_: Spoiler Alert: Trump's Probably Going to Win 2020
     
-*   _Susan Crabtree_: Jobs, Jobs, Jobs: Trump's Ticket to Defeat Dems?
+*   _Maureen Dowd_: Trump Is Bad. Too Bad He's Not Alone.
     
-*   _Matthew Yglesias_: American Democracy's Senate Problem
+*   _William Barr_: Rising Disrespect for Cops Is Wrong, Dangerous
     
-*   _Ned Ryun_: Senate Republicans Need to Stop Sniveling
+*   _Brady &. Parker_: Examining Elizabeth Warren's Slide
     
-*   _Derek Thompson_: The Real Trouble With Silicon Valley
+*   _John Cassidy_: The Future of Working-Class Conservatism in U.K., U.S.
     
-*   _David Marcus_: Why Is CNN Ignoring the Afghan Papers?
+*   _Kevin Williamson_: The Tedious, Lying Sanctimony of Our Partisan News Media
     
-*   _Robert Kuttner_: Corbyn, Sanders, and Warren: The Bogus Comparison
+*   _John Harris_: Impeachment and the Crack Up of the Conservative Mind
     
-*   _Carl Cannon_: Grant's Jewish Ban--and Lincoln's Undoing of It
+*   _John Nolte_: Schumer Admits Trump's Being Impeached 'Without the Facts'
     
-*   _Philip Bobbitt_: How Nancy Pelosi Could Still Save Impeachment
+*   _Peter Van Buren_: Christmas Magic Comes Early for Democrats 
     
-*   _Byron York_: Impeachment Moves to Senate--Get Ready for a Surprise
+*   _Elie Honig_: What Impeachment Will Cost Mitch McConnell
     
-*   _Bauer &. Goldsmith_: The FBI Needs to Be Reformed
+*   _Josh Kraushaar_: Pelosi's Political Price for Impeachment
     
-*   _Paul Sperry_: IG Report Undercuts Credibility of Impeachment Manager Nadler
+*   _Philip Wegmann_: Nixon to Clinton to Trump: Insiders Recall Impeachments
     
-*   _David Faris_: How the Fall of Elizabeth Warren Has Shaken Up 2020 Race
+*   _President Donald Trump_: An Unconstitutional Abuse of Power by Democrats
     
-*   _F.H. Buckley_: Boris Johnson and Donald Trump's Secret to Success
+*   _Jonathan Chait_: Trump's Insane Letter Shows Why He's Unfit for Office
     
-*   _Benjamin Wallace-Wells_: Pete Buttigieg's High Hopes
+*   _Joseph diGenova_: Comey's Dishonest Spin Is Going Nowhere
     
-*   _Charles Hurt_: For the Left, Trump Still Isn't a Legitimate President
+*   _Ryan Cooper_: Democrats Sleepwalking Into a Biden Disaster
     
-*   _Sean Collins_: Giuliani's Ukraine Conspiracies Are Getting More Outlandish
+*   _Sean Trende_: Don't Sleep on Bernie
     
-*   _Miranda Devine_: James Comey's Delusions, and the Media That Helped Him
+*   _Michael Kruse_: Harvard Made Buttigieg the Moderate the Left Loves to Hate
     
-*   _Kalev Leetaru_: What a Decade of Data Says About TV News Media Landscape
+*   _John O'Sullivan_: A Realignment Election in the U.K.
     
-*   _David Wallace-Wells_: UN Climate Talks Collapsed. What's the Way Forward?
+*   _Will Marshall_: Britain's Warning to American Democrats
     
-*   _Rupert Darwall_: Al Gore Talks--Donald Trump Vindicated
+*   _Blaire White_: Stop Normalizing Assault on Trump Supporters
     
 
 *   Previous
@@ -235,10 +235,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Nixon to Clinton to Trump: Insiders Recall Impeachments Past
 *   Jobs, Jobs, Jobs: Trump's Ticket to Defeating the Democrats?
-*   Turbulence Shakes Democrats Going Into Final Debate of 2019
-*   Rep. Slotkin vs. Constituents at Town Hall: This Is Not a "Coup"
-*   The Carter Page/Ukraine Lie That Kept on Lying for Mueller, FBI
+*   McCabe: Mistakes From "Lowest Level" of FBI Very Hard to Uncover
+*   Sperry: The Carter Page/Ukraine Lie That Kept on Lying for Mueller, FBI
 *   Ohio Cracks Down on Voter Fraud
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -252,48 +252,48 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationUSA Today/Suffolk
-    *   Biden23
-    *   Sanders14
-    *   Warren13
+*   President Trump Job ApprovalNBC News/Wall St. Jrnl
+    *   Approve44
+    *   Disapprove54Disapprove +10
+*   2020 Generic Congressional VoteNBC News/Wall St. Jrnl
+    *   Democrats49
+    *   Republicans42Democrats +7
+*   2020 Democratic Presidential NominationEmerson
+    *   Biden32
+    *   Sanders25
+    *   Warren12
     *   Buttigieg8
-    *   Bloomberg6
-    *   Yang2
-    *   Klobuchar3
-    *   Booker3
-    *   Gabbard1
-    *   Steyer1
+    *   Bloomberg3
+    *   Yang6
+    *   Klobuchar2
+    *   Booker2
+    *   Gabbard4
+    *   Steyer2
     *   Castro0
     *   Bennet0
-    *   Williamson0Biden +9
-*   2020 Democratic Presidential NominationMorning Consult
-    *   Biden31
-    *   Sanders22
-    *   Warren15
-    *   Buttigieg8
-    *   Bloomberg7
-    *   Yang4
-    *   Klobuchar2
-    *   Booker3
-    *   Gabbard2
-    *   Steyer3
-    *   Castro1
+    *   Delaney1Biden +7
+*   2020 Democratic Presidential NominationEconomist/YouGov
+    *   Biden29
+    *   Sanders19
+    *   Warren17
+    *   Buttigieg7
+    *   Bloomberg4
+    *   Yang3
+    *   Klobuchar4
+    *   Booker2
+    *   Gabbard3
+    *   Steyer2
+    *   Castro2
     *   Bennet1
-    *   Williamson1Biden +9
-*   General Election: Trump vs. BidenUSA Today/Suffolk
-    *   Biden41
-    *   Trump44Trump +3
-*   General Election: Trump vs. SandersUSA Today/Suffolk
-    *   Sanders39
-    *   Trump44Trump +5
+    *   Delaney1Biden +10
 
 More Latest Polls In The News
 
+*   Replay: President Trump Hosts "Merry Christmas" Rally In Battle Creek, Michigan During Impeachment Vote
+*   Jonathan Turley: "You Could Impeach Every Living President" By The Standards Of Trump Impeachment
+*   Adam Schiff: "This President Does Nothing But Project Onto Others His Own Lack Of Morality"
 *   McCabe: "Shocked And Horrified" By IG Report, There Were "Very Serious Mistakes" But No Bias Was Found
-*   Shouting Match Over House Impeachment Rules At Rules Comm: "The Stenographer Can Barely Keep Up"
-*   Schumer: McConnell And Trump Not Wanting Witnesses At Trial Proves They Are Afraid Of The Truth
-*   McConnell: No Witnesses At Impeachment Trial: Senate Not Doing House Dems' "Homework For Them"
-*   Dem Rep. Slotkin Faces Off With Constituents On Decision To Impeach Trump: This Is Not A Coup
+*   Victor Davis Hanson: Comey, McCabe, Brennan, Clapper Trying To Exonerate, Contextualize Their Behavior
 
 *   Politics
 *   Policy
