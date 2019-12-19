@@ -442,8 +442,6 @@ Terms &. Conditions
 *   Ratings &. Reviews Giveaway Official Rules - Holiday 2019
 *   Accessibility Policy
 *   Buckle Select Terms &. Conditions
-*   Free Weekender Bag
-*   15% Off First Credit Card Purchase
 
 Services
 
