@@ -12,31 +12,31 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1144 games
-*   Most Popular Games 20187 games
+*   Best of new games 1154 games
+*   Most Popular Games 20191 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,150 games
+*   Games for girls 24,145 games
 *   Driving &. Racing Games 6,216 games
 *   Strategy &. RPG Games 3,639 games
 *   Management Games 4,247 games
-*   Thinking Games 12,426 games
-*   Action &. Adventure Games 14,713 games
-*   Sports Games 3,280 games
-*   Shooting Games 8,965 games
+*   Thinking Games 12,430 games
+*   Action &. Adventure Games 14,714 games
+*   Sports Games 3,281 games
+*   Shooting Games 8,968 games
 *   Fighting Games 2,091 games
-*   Skill Games 10,956 games
-*   Arcade &. Classic Games 8,613 games
+*   Skill Games 10,849 games
+*   Arcade &. Classic Games 8,622 games
 *   Fun &. Crazy Games 4,774 games
 
 Play with friends  
-Powered by Y8 Account 131 Y8 Multiplayer Games 2,164 Y8 High Score Games 1,207 Y8 Achievements Games 850 Y8 Screenshots Games 1,574 Y8 Online Save Games 3,289 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 131 Y8 Multiplayer Games 2,164 Y8 High Score Games 1,207 Y8 Achievements Games 850 Y8 Screenshots Games 1,575 Y8 Online Save Games 3,290 All Y8 Games Games Last Highscore:
 
-**22,858** points on Moto X3M: Winter by akif
+**1,633** points on Masked Shooters MP by Celine
 
 Help us improve Bad translation? Social
 
