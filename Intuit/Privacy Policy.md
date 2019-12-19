@@ -1,4 +1,4 @@
-Free Shipping Over $49See DetailsEnable Accessibility
+Express ShippingOrder by 12/22Enable Accessibility
 
 *   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
 
@@ -31,7 +31,7 @@ Shop holiday home must-haves.25% OFFadidas for the family | select styles **sal
 25% OFFMen’s &. boys’ Puma activewear | select styles **sale $14.99-$48.75** | reg. $20-$65 Excluded from coupons.  
 25% OFFChampion activewear &. apparel for the family | select styles **sale $12-$33.75** | reg. $16-$45 Excluded from coupons.  
 25% OFFDisney Collection Toy Story 4 toys select styles | **sale $11.25-$45** | reg. $15-$60 Excluded from coupons.  
-UP TO 70% OFFWomen's coats | select styles**sale $24.99-$69** | reg. $72-$230  
+UP TO 65% OFFWomen’s coats | select styles **sale $24.99-$99.99** | reg. $72-$230  
 60% OFFMen’s outerwear | select styles **sale $31.99-$71.99** | reg. $80-$180  
 UP TO 60% OFFKids’ jackets &. coats | select styles **sale $12.80-$67.60** | reg. $32-$169  
 50% OFFCold-weather accessoriesselect styles**sale $7.99-$28.99 |** reg. $16-$58  
@@ -47,20 +47,22 @@ MUST-HAVE GIFTSThese delightful finds will warm the hearts of everyone on your l
 SHOP THE LOCAL LOOKJCPenney is teaming up with fashion and lifestyle influencers to bring you a curatedselection of their top picks. Check back everymonth to see new styles.JOIN IN THE FUN  
 Countdown to Christmas is on! Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 40 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   $2124after couponwas $80 Arizona Womens Denver Wide Calf Block Heel Riding Boots(58)
 *   LIMITED TIME SPECIAL!
     
     $25 sale
     
     was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(43)
+*   $2124after couponwas $80 Arizona Womens Denver Wide Calf Block Heel Riding Boots(58)
 *   $1274after couponwas $30 St. John's Bay Super Soft Mens Long Sleeve Flannel Shirt(135)
-*   $2124after couponwas $80 Arizona Womens Pines Block Heel Over the Knee Boots(67)
-*   $2379after couponwas $59 Liz Claiborne Womens Fleece Long Sleeve Long Length Robe(42)
 *   LIMITED TIME SPECIAL!
     
     $25 sale
     
     was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(45)
+*   $2379after couponwas $59 Liz Claiborne Womens Fleece Long Sleeve Long Length Robe(42)
+*   $5 sale
+    
+    was $10 | 50% offSEPHORA COLLECTION Arctic Eyes Eyeshadow Palette ($35.00 value)(27)
 
 Shop and Save at JCPenney
 
