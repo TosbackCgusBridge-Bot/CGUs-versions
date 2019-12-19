@@ -250,7 +250,8 @@ In certain circumstances, the Privacy Shield Framework provides the right to inv
 For questions or concerns regarding the Privacy Policy or the use of personal information you submit to us, please contact us at support@kongregate.com or at:
 
 Kongregate Inc.  
-450 Sansome Street, 12th Floor  
-San Francisco, CA 94111
+Floor 3, Suite 321  
+149 New Montgomery St  
+San Francisco, CA 94105
 
 _Last updated: November 1, 2018_
