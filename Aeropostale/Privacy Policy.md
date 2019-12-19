@@ -44,6 +44,7 @@ Close submenu ( Tops ) Tops
 *   Shirts + Blouses
 *   Sweaters
 *   Camis
+*   Tanks
 *   Active Tops
 
 Close submenu ( Bottoms ) Bottoms
@@ -134,7 +135,6 @@ Close submenu ( Jeans ) Jeans
 Close submenu ( Girls Jeans ) Girls Jeans
 
 *   View All
-*   Buy 1 Get 1 Free
 *   Destroyed Denim
 *   Jeggings
 *   High Rise Jeans
@@ -155,7 +155,6 @@ Close submenu ( Girls Jeans ) Girls Jeans
 Close submenu ( Guys Jeans ) Guys Jeans
 
 *   View All
-*   Buy 1 Get 1 Free
 *   Destroyed Denim
 *   Skinny Jeans
 *   Slim Jeans
@@ -244,7 +243,7 @@ Close submenu ( Girls ) Girls
 *   Bottoms
 *   Dresses + Skirts
 *   Accessories
-*   Bras
+*   Bras + Undies
 *   Swimwear
 
 Close submenu ( Guys ) Guys
@@ -277,6 +276,7 @@ Menu Find a Store Aeropostale
         *   Shirts + Blouses
         *   Sweaters
         *   Camis
+        *   Tanks
         *   Active Tops
     
     *   Bottoms
@@ -417,7 +417,6 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls Jeans
         *   View All
-        *   Buy 1 Get 1 Free
         *   Destroyed Denim
         *   Jeggings
         *   High Rise Jeans
@@ -437,7 +436,6 @@ Menu Find a Store Aeropostale
     
     *   Guys Jeans
         *   View All
-        *   Buy 1 Get 1 Free
         *   Destroyed Denim
         *   Skinny Jeans
         *   Slim Jeans
@@ -512,7 +510,7 @@ Menu Find a Store Aeropostale
         *   Bottoms
         *   Dresses + Skirts
         *   Accessories
-        *   Bras
+        *   Bras + Undies
         *   Swimwear
     
     *   Guys
@@ -532,24 +530,22 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ORDERS OVER $25 Search Catalog Search
+ORDERS OVER $50 Search Catalog Search
 
-**3 DAYS LEFT** For Free Delivery by 12/24 On Orders of $25 Learn More
+**2 DAYS LEFT** For Free Delivery by 12/24 On Orders of $50 Learn More
 
-**3 DAYS LEFT** For Free Delivery by 12/24  
-On Orders of $25 Learn More
+**2 DAYS LEFT** For Free Delivery by 12/24  
+On Orders of $50 Learn More
 
 In Stores &. Online
 
-TAKE 50-70% OFF 100s OF LAST MINUTE GIFTS & DOORBUSTERS! Shop Girls Doorbusters Shop Guys Doorbusters
+STARTS NOW! FOR A LIMITED TIME! TAKE 60-70% OFF EVERYTHING INCLUDING OUR BEST-SELLING JEANS &. DOORBUSTERS! Shop Girls Doorbusters Shop Girls Jeans 60% Off Shop Guys Doorbusters Shop Guys Jeans 60% Off Exclusions Apply
 
-**TIME IS RUNNING OUT!**
+**TIME IS RUNNING OUT!** Free Online Order Pick Up! Get all your gifts in just a few clicks. Learn More
 
-**Free Online Order Pick Up!**
+**TIME IS RUNNING OUT!** Free Online Order Pick Up! Get all your gifts in just a few clicks. Learn More
 
-Get all your gifts in just a few clicks.
-
-Learn More Holiday Shipping Dates
+Holiday Shipping Dates
 
 Guaranteed To Get There by 12/24!
 
@@ -613,7 +609,7 @@ $5.87
 
 Guys Graphics Guys Graphics Guys Shirts
 
-$13.87
+$11.87
 
 Guys Shirts Guys Shirts Girls Shirts
 
@@ -637,19 +633,19 @@ $14.87
 
 Guys Hoodies Guys Hoodies Girls Puffer Vests
 
-$13.87
+$11.87
 
 Girls Puffer Vests Girls Puffer Vests Guys Long Sleeves
 
-$11.87
+$9.87
 
 Guys Long Sleeves Guys Long Sleeves Girls Graphics
 
-$11.87
+$5.87
 
 Girls Graphics Girls Graphics Guys Puffer Vests
 
-$15.87
+$13.87
 
 Guys Puffer Vests Guys Puffer Vests Girls Sweats
 
@@ -665,7 +661,7 @@ $5.87
 
 Guys Graphics Guys Graphics Guys Shirts
 
-$13.87
+$11.87
 
 Guys Shirts Guys Shirts Girls Shirts
 
@@ -689,20 +685,16 @@ $14.87
 
 Guys Hoodies Guys Hoodies Girls Puffer Vests
 
-$13.87
+$11.87
 
 Girls Puffer Vests Girls Puffer Vests Next
 
-In Stores &. Online.
+In Stores &. Online For a Limited Time!
 
-DOORBUSTERS Jeans With 21 fits and 94 washes to choose from,  
+60% OFF JEANS With 21 fits and 94 washes to choose from,  
 we have the perfect pair of jeans  
-for you and everyone on your list. Girls Jeans **Buy 1 Get 1 Free\***  
-Guys Jeans **Buy 1 Get 1 Free\***
-
-\*Must Add 2 to Cart
-
-\*Must Add 2 to Cart
+for you and everyone on your list. Shop Girls Jeans **60% OFF**  
+Shop Guys Jeans **60% OFF**
 
 In Stores &. Online
 
@@ -716,7 +708,7 @@ festive patterns).
 
 Premium insulation, insta-worthy colors &. patterns. Puff up the volume this holiday.
 
-Shop Girls Puffers **$13.87 &. Up** Shop Guys Puffers **$15.87 &. Up**
+Shop Girls Puffers **$11.87 &. Up** Shop Guys Puffers **$13.87 &. Up**
 
 **In Stores &. Online**
 
