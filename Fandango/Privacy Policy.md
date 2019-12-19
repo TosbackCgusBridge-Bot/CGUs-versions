@@ -65,7 +65,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   10 Amazing Fun Facts: 'Elf' Read More
+    *   10 Amazing Fun Facts: ‘A Christmas Story’ Read More
     *   A Fantabulous ‘Birds of Prey’ Character Guide Read More
     *   2020 Golden Globe Nominations: ‘Joker’ and ‘Once Upon a Time in Hollywood’ Challenge Stiff Netflix Competition Read More
     
