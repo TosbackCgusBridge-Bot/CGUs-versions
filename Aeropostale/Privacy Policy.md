@@ -200,7 +200,6 @@ Close submenu ( Gifts for Her ) Gifts for Her
 *   View All
 *   Doorbusters
 *   Hoodies + Joggers
-*   Buy One Give One
 *   Puff Up the Volume
 *   Cozy
 *   Gifts Under $6
@@ -213,7 +212,6 @@ Close submenu ( Gifts for Him ) Gifts for Him
 *   View All
 *   Doorbusters
 *   Hoodies + Joggers
-*   Buy One Give One
 *   Puff Up the Volume
 *   Cozy
 *   Gifts Under $6
@@ -474,7 +472,6 @@ Menu Find a Store Aeropostale
         *   View All
         *   Doorbusters
         *   Hoodies + Joggers
-        *   Buy One Give One
         *   Puff Up the Volume
         *   Cozy
         *   Gifts Under $6
@@ -486,7 +483,6 @@ Menu Find a Store Aeropostale
         *   View All
         *   Doorbusters
         *   Hoodies + Joggers
-        *   Buy One Give One
         *   Puff Up the Volume
         *   Cozy
         *   Gifts Under $6
@@ -532,9 +528,9 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
 
-**2 DAYS LEFT** For Free Delivery by 12/24 On Orders of $50 Learn More
+**HURRY! LAST DAY FOR FREE DELIVERY BY 12/24!** On Orders of $50 Learn More
 
-**2 DAYS LEFT** For Free Delivery by 12/24  
+**HURRY! LAST DAY FOR FREE DELIVERY BY 12/24!**  
 On Orders of $50 Learn More
 
 In Stores &. Online
