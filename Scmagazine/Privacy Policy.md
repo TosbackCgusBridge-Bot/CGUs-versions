@@ -136,7 +136,7 @@ Haymarket events are produced for a variety of companies (Sponsors). All data co
 
 **Online Ad Serving** 
 
-We use third-party advertising companies to serve ads when you visit our Digital Offering. These companies may use information (not including your name, address email address or telephone number) about your visits to this Digital Offering and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: http://www.networkadvertising.org/consumer/opt\_out.asp 
+We use third-party advertising companies to serve ads when you visit our Digital Offering. These companies may use information (not including your name, address email address or telephone number) about your visits to this Digital Offering and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: https://www.networkadvertising.org/consumer/opt\_out.asp 
 
 **Cookies** 
 
@@ -146,7 +146,7 @@ If you do not want your browser to accept cookies, you can turn off the cookie a
 
 We use advertising companies to develop banner ads for our Digital Offering. These ads may contain cookies. These companies collect cookies sent to your browser through the banner ads and we do not have control or access to this data. Information may be collected from a third party through the use of cookies and web beacons to measure website traffic.
 
-Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data cookies, please go to http://www.aboutads.info/choices 
+Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data cookies, please go to https://www.aboutads.info/choices 
 
 **Pixel Tags** 
 
@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Krampus-3PC malware redirects iPhone users to phishing pages
-    *   Apple fixes glitch that could lock users out of iPhones
-    *   Maze ransomware possibly behind Southwire attack
+    *   A hard truth: The lessons we never learn during National Cybersecurity Awareness Month – but should
     *   Epilepsy Foundation files complaint, seeks investigation on Twitter attacks
-    *   IG report says FBI justified in starting Russia probe. Barr disagrees
-    
-    *   Real-time phishing alerts and stolen password warnings added to Chrome
-    *   2020 Predictions: Election Security
-    *   SC Media’s 2019 Innovators and Hall of Fame
-    *   New Orleans hamstrung by ransomware attack
-    *   Maze ransomware possibly behind Southwire attack
-    
-    *   Is 5G the security silver bullet for system integrators in the West?
-    *   Secret court judge orders FBI to reform FISA process
-    *   Epilepsy Foundation files complaint, seeks investigation on Twitter attacks
+    *   2020 Predictions: Privacy
     *   Senate passes $1.4 trillion spending bill, includes $25 million for election security
-    *   Momentum botnet spotted in the wild
+    *   Company sued for allegedly hijacking Facebook accounts to serve ads
+    
+    *   Microsoft fixes exploited privilege elevation flaw, 34 more bugs
+    *   Reputed Vietnamese APT group hacks BMW, Hyundai: report
+    *   Hackensack Meridian Health pays undisclosed ransom payment
+    *   Apple says ultra wideband tech culprit behind location data sharing. to issue fix
+    *   Galt city hall, St. Lucie police hit with ransomware
+    
+    *   Galt city hall, St. Lucie police hit with ransomware
+    *   Facebook Tor gateway down while TLS certificate renewed
+    *   Ring camera hacks show the need for better IoT security
+    *   LifeLabs pays ransom to regain stolen data, 15 million affected
+    *   2020 Predictions: Election Security
 
 Back to Top
 
