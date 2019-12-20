@@ -1,4 +1,4 @@
-4dbcb095-1c50-4cf5-b684-8c407c9b3e1f
+4e626f09-905e-4b11-8f7d-83a9e262022a
 
 *   Search Search
 *   Contact Us
@@ -21,7 +21,7 @@ Toggle Navigation
     *   Cable TV
     *   Home Phone
     *   Mobile
-    *   Latino
+    *   <div class="default linkComponent">. <div data-id="708a18f0-abf0-419d-8eda-f4f281f92344" class="text-left spectrum-icon-before ">. <a href="/latino-plans.html" target="\_self" data-target="#" data-linkname="Latino" data-linktype="hamburger\_nav">. <span class="linkLabel ">. Latino </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="708a18f0\\u002Dabf0\\u002D419d\\u002D8eda\\u002Df4f281f92344"\]').linkComponent(). }). </script>. </div>.
     *   Business
 *   Manage Account
 *   Support
@@ -35,8 +35,8 @@ Toggle Navigation
 *   Internet
 *   Cable TV
 *   Home Phone
-*   Mobile
-*   Latino
+*   <div class="default linkComponent">. <div data-id="6b3aae7f-cb70-4616-be59-099db50cf788" class="text-left spectrum-icon-before ">. <a href="/mobile.html" target="\_parent" data-target="#" data-linkname="Mobile" data-linktype="global\_nav">. <span class="linkLabel ">. Mobile </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="6b3aae7f\\u002Dcb70\\u002D4616\\u002Dbe59\\u002D099db50cf788"\]').linkComponent(). }). </script>. </div>.
+*   <div class="default linkComponent">. <div data-id="9c8f88d6-f2dd-4baf-bc54-3d0a95073492" class="text-left spectrum-icon-before ">. <a href="/latino-plans.html" target="\_self" data-target="#" data-linkname="Latino" data-linktype="global\_nav">. <span class="linkLabel ">. Latino </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="9c8f88d6\\u002Df2dd\\u002D4baf\\u002Dbc54\\u002D3d0a95073492"\]').linkComponent(). }). </script>. </div>.
 *   Business
 
 Check Availability &. Offers \* Street Address Error: Enter your street address Apartment \* Zip Code Error: Enter your 5-digit ZIP code Go Why do I need to enter my exact address?
@@ -70,8 +70,8 @@ Shop Spectrum +
 *   Spectrum TV
 *   Spectrum Internet
 *   Spectrum Voice
-*   Mi Plan Latino
-*   Spectrum Mobile
+*   <div class="default linkComponent">. <div data-id="00448545-8a90-4c09-a2ab-37a104e29e5d" class="text-left spectrum-icon-before ">. <a href="/latino-plans" target="\_self" data-target="#" data-linkname="Mi Plan Latino" data-linktype="global\_footer">. <span class="linkLabel ">. Mi Plan Latino </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="00448545\\u002D8a90\\u002D4c09\\u002Da2ab\\u002D37a104e29e5d"\]').linkComponent(). }). </script>. </div>.
+*   <div class="default linkComponent">. <div data-id="f41a0efe-cb5b-4c43-903f-684a3442b524" class="text-left spectrum-icon-before ">. <a href="/mobile" target="\_self" data-target="#" data-linkname="Spectrum Mobile" data-linktype="global\_footer">. <span class="linkLabel ">. Spectrum Mobile </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="f41a0efe\\u002Dcb5b\\u002D4c43\\u002D903f\\u002D684a3442b524"\]').linkComponent(). }). </script>. </div>.
 *   Spectrum Sports Networks
 *   Spectrum Premium Channels
 
@@ -103,14 +103,19 @@ Search Services by State+ Search for Services in Your Area      Select State
 *   Newsroom
 *   Community Impact
 *   Careers
-*   Your Privacy Rights
+*   Accessibility
+
 *   Terms of Service/Policies
 *   IP Interconnection
 *   FCC Public Inspection File
 *   Service Rates &. Disclosures
-*   Rural Carrier Call Completion
-*   Accessibility
+*   Your Privacy Rights
+
+*   California Privacy Policy
+*   California Consumer Do Not Sell My Personal Information
 
 Not all products, pricing, and services are available in all areas. Pricing and actual speeds may vary. Internet speed based on wired connection. Restrictions apply.
 
 © 2019 Charter Communications. All rights reserved.
+
+✓Verify
