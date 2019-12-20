@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   19\. Dezember 2019
+*   20\. Dezember 2019
 *   Abo
-*   DAX 13.222,16ǀ
+*   DAX 13.211,96ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
