@@ -107,7 +107,6 @@ Yes, I’d like to receive news and marketing communications from MetrixLab by e
 *   Insights and news
 *   Client login
     *   Insights
-    *   Portal
 
 *   Careers
     *   About us
