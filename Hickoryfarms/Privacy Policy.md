@@ -78,6 +78,7 @@
     View All Categories Shop by Category*   Christmas Gifts
     *   Holiday Entertaining
     *   Stocking Stuffers
+    *   New Year's
     
     Occasions*   Birthday Gifts
     *   Gifts for Her
@@ -89,8 +90,10 @@
     *   Premium Wine Gifts
     *   Office Gift BasketsMost Popular Premium Wine Gifts
 *   Sale
+    View All Categories Shop by Category*   Holiday Savings
+    *   2-Day Shipping Savings
 
-1.800.753.8558 Business Gifts Extended! Free shipping on select gifts ends 3pm EST tomorrow!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
+1.800.753.8558 Business Gifts Hurry! 2-day shipping is $10 on select gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
 
 *   Gift Baskets
     
@@ -172,6 +175,7 @@
     View All Categories Shop by Category*   Christmas Gifts
     *   Holiday Entertaining
     *   Stocking Stuffers
+    *   New Year's
     
     Occasions*   Birthday Gifts
     *   Gifts for Her
@@ -183,6 +187,8 @@
     *   Premium Wine Gifts
     *   Office Gift BasketsMost Popular Premium Wine Gifts
 *   Sale
+    View All Categories Shop by Category*   Holiday Savings
+    *   2-Day Shipping Savings
 
 1.800.753.8558 Business Gifts
 
