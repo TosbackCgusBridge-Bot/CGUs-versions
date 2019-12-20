@@ -9,23 +9,39 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
-    *   Daily Deal: UGG Men's Alder Slippers at $49.98
-    *   Daily Deal: Gift-Ready Miu Miu Fragrance Sets Under $85
+    *   Z By Zella Starting at $15
+    *   Theory Men Up to 55% Off
+    *   Jumpsuits &. More ft. Calvin Klein Incl. Plus &. Petites
+    *   ARATTA Up to 70% Off
+    *   Waterproof Boots by Blondo Up to 50% Off
+    *   Via Spiga Up to 65% Off
+    *   Matt &. Nat Vegan Leather Bags
+    *   Can't-Resist Cashmere Up to 65% Off
+    *   Men's Active ft. Z By Zella
+    *   DKNY Lingerie &. Sleep
+    *   Elan &. More Starting at $20
+    *   Saachi Leather &. Gemstone Jewelry from $20
+    *   Winter Skin Care Essentials
+    *   Sweater Weather: Men's Pullovers &. More
+    *   Dr. Scholl's from $40
+    *   Hera Hair Tools &. More Up to 90% Off
+    *   Crocs Men
+    *   Z By Zella Girls
+    *   Palettes &. More ft. Moira Cosmetics
+    *   Modern Fiction Up to 60% Off
+    *   Trays &. Trinkets from $10
+    *   Sencor Kitchen Gadgets
+    *   Eddie Bauer Bedding Up to 55% Off
+    *   Leveret Kids' Pajamas
+    *   Home Storage &. Organization Starting at $15
     *   Lucky Brand Incl. Plus
-    *   Daily Deal: Cole Haan Packable Rain Coats at $89.98
-    *   Daily Deal: Kate Spade New York ID Holders at $28
-    *   Daily Deal: BergHOFF EuroCAST Cookware Set at 80% Off
-    *   Daily Deal: bObsweep Robotic Vacuum at $199.97
-    *   Daily Deal: Lacoste Men's Lounge from $19.97
-    *   Daily Deal: Vince Camuto Chelsa Booties at $52.48
-    *   Daily Deal: Sam Edelman Wendall Booties at 55% Off
-    *   Ray-Ban Sun
-    *   Marc Jacobs Bags Up to 50% Off
-    *   Frye Men
     *   Velvet by Graham &. Spencer Up to 70% Off
-    *   Franco Sarto Up to 55% Off
+    *   Ray-Ban Sun
     *   Warm &. Chic: Wool Coats and More
+    *   Frye Men
+    
     *   Date Night: Dresses Under $80
+    *   Franco Sarto Up to 55% Off
     *   Estee Lauder &. Lancome Starting at $10
     *   WAYF &. More
     *   All Under $50: philosophy Gift Sets &. More
@@ -40,104 +56,91 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Cozy Kids' Styles ft. MUK LUKS
     *   Ready, Set, Go: Kids' Sets Under $25
     *   Australia Luxe Collective Up to 60% Off
-    *   Home Storage &. Organization Starting at $15
-    
-    *   Habitual Up to 60% Off
     *   Keep It Cool: Insulated Stainless Steel Bottles
     *   Cutlery Sets &. More Up to 45% Off
     *   Converse Starting at $30
-    *   alice + olivia Up to 70% Off
     *   Converse Men Starting at $40
     *   Converse Kids Starting at $20
-    *   Ted Baker London Bags Up to 55% Off
     *   What She Really Wants: Shiseido Ginza Tokyo
-    *   Juniors' Party Looks &. More ft. Socialite
-    *   Under $30: Sweaters for Every Style
-    *   Dress Obsessed: Styles Under $50
-    *   Now Trending: Boots Under $50
     *   Hudson Jeans Men
     *   Converse Kids' Clothing Up to 50% Off
-    *   Nine West from $40
     *   Last-Minute Gift Ideas: Leather Goods
     *   Boho-Chic Decor from $20
     *   Trending Now: Gold Jewelry &. More
-    *   Last-Minute Gifting: Panty Packs &. Socks
     *   Wusthof Cutlery &. More Up to 60% Off
     *   Burberry Fragrances Up to 50% Off
     *   English Laundry Up to 60% Off
+    
     *   Last-Minute Gifts: Kids' Holiday PJs, Toys &. More
     *   Broken Homme
-    *   Handbag Shop: Hobo Up to 50% Off
-    *   Handbag Shop: Crossbodies ft. Marc Jacobs
     *   Ben Sherman
-    *   Handbag Shop: Totes ft. Madewell
-    *   Handbag Shop: Backpacks ft. Rebecca Minkoff
     *   Steve Madden Men Up to 50% Off
-    *   Handbag Shop: Belt Bags &. More ft. Aimee Kestenberg
-    
-    *   Handbag Shop: Statement Styles ft. Loeffler Randall
     *   Last-Minute Gifts: Cozy Men's Styles
-    *   Handbag Shop: Evening Bags &. Clutches Up to 55% Off
     *   PUR
     *   Dip Powder &. Gel Manicure Sets ft. Joya Mia
     *   Handbag Shop: Resort Ready ft. ARANAZ
     *   Handbag Shop: Laptop Sleeves &. Bags Up to 50% Off
-    *   Men's Winter Boots from Pajar &. More
-    *   Stocking Stuffers from $15
     *   Eye-Catching Wall Art Up to 65% Off
-    *   Kids' Coat Shop: Styles Up to 65% Off
-    *   Ben Sherman Kids &. More
-    *   Men's Shoe Steals Up to 65% Off
     *   bareMinerals
-    *   J.Crew Men Up to 50% Off
-    *   Snow Ready: Men's Parkas Up to 65% Off
     *   skinChemists Up to 80% Off
     *   Home Fragrances from $13
-    *   Tommy Hilfiger Men's Footwear
     *   Holiday Host: Barware Starting at $15
-    *   Lucky Brand Denim Under $50
-    *   Perricone MD Up to 55% Off
+    *   Holiday Decor &. More from $10
     *   Handbag Shop: Satchels ft. Versace
     *   Handbag Shop: Wallets ft. Kate Spade New York
-    *   Snow Teeth Whitening Starting at $10
-    *   Holiday Decor &. More from $10
-    *   Smart Home Accessories &. More from $20
     *   Gifts for the Gamer from $20
-    *   Season's Best: Leather Jackets Up to 65% Off
-    *   Seasonal Steals: Coats Up to 70% Off
-    *   J.Crew Starting at $25
+    *   Marc Jacobs Bags Up to 50% Off
+    *   Handbag Shop: Hobo Up to 50% Off
+    *   Handbag Shop: Crossbodies ft. Marc Jacobs
+    *   Handbag Shop: Totes ft. Madewell
+    *   Handbag Shop: Backpacks ft. Rebecca Minkoff
+    *   Handbag Shop: Belt Bags &. More ft. Aimee Kestenberg
+    *   Handbag Shop: Statement Styles ft. Loeffler Randall
+    *   Handbag Shop: Evening Bags &. Clutches Up to 55% Off
+    *   Men's Winter Boots from Pajar &. More
+    *   Stocking Stuffers from $15
 *   WomenShop Sale Events
     
-    *   Daily Deal: Gift-Ready Miu Miu Fragrance Sets Under $85
+    *   Z By Zella Starting at $15
+    *   Jumpsuits &. More ft. Calvin Klein Incl. Plus &. Petites
+    *   ARATTA Up to 70% Off
+    *   Waterproof Boots by Blondo Up to 50% Off
+    *   Via Spiga Up to 65% Off
+    *   Matt &. Nat Vegan Leather Bags
+    *   Can't-Resist Cashmere Up to 65% Off
+    *   DKNY Lingerie &. Sleep
+    *   Elan &. More Starting at $20
+    *   Saachi Leather &. Gemstone Jewelry from $20
+    *   Winter Skin Care Essentials
+    *   Dr. Scholl's from $40
+    *   Hera Hair Tools &. More Up to 90% Off
+    *   Palettes &. More ft. Moira Cosmetics
     *   Lucky Brand Incl. Plus
-    *   Daily Deal: Cole Haan Packable Rain Coats at $89.98
-    *   Daily Deal: Vince Camuto Chelsa Booties at $52.48
-    *   Daily Deal: Sam Edelman Wendall Booties at 55% Off
-    *   Ray-Ban Sun
-    *   Marc Jacobs Bags Up to 50% Off
     *   Velvet by Graham &. Spencer Up to 70% Off
-    *   Franco Sarto Up to 55% Off
+    *   Ray-Ban Sun
     *   Warm &. Chic: Wool Coats and More
     *   Date Night: Dresses Under $80
+    *   Franco Sarto Up to 55% Off
     *   Estee Lauder &. Lancome Starting at $10
     *   WAYF &. More
     *   All Under $50: philosophy Gift Sets &. More
+    
     *   On Trend: 14K Gold Jewelry &. More from $25
     *   Tommy Hilfiger Up to 60% Off
     *   Australia Luxe Collective Up to 60% Off
-    *   Habitual Up to 60% Off
     *   Converse Starting at $30
-    *   Ted Baker London Bags Up to 55% Off
     *   What She Really Wants: Shiseido Ginza Tokyo
-    *   Juniors' Party Looks &. More ft. Socialite
-    *   Under $30: Sweaters for Every Style
-    *   Dress Obsessed: Styles Under $50
-    *   Now Trending: Boots Under $50
-    
-    *   Nine West from $40
     *   Trending Now: Gold Jewelry &. More
-    *   Last-Minute Gifting: Panty Packs &. Socks
     *   Burberry Fragrances Up to 50% Off
+    *   PUR
+    *   Dip Powder &. Gel Manicure Sets ft. Joya Mia
+    *   Handbag Shop: Resort Ready ft. ARANAZ
+    *   Handbag Shop: Laptop Sleeves &. Bags Up to 50% Off
+    *   bareMinerals
+    *   skinChemists Up to 80% Off
+    *   Handbag Shop: Satchels ft. Versace
+    *   Handbag Shop: Wallets ft. Kate Spade New York
+    *   Marc Jacobs Bags Up to 50% Off
     *   Handbag Shop: Hobo Up to 50% Off
     *   Handbag Shop: Crossbodies ft. Marc Jacobs
     *   Handbag Shop: Totes ft. Madewell
@@ -145,132 +148,117 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Handbag Shop: Belt Bags &. More ft. Aimee Kestenberg
     *   Handbag Shop: Statement Styles ft. Loeffler Randall
     *   Handbag Shop: Evening Bags &. Clutches Up to 55% Off
-    *   PUR
-    *   Dip Powder &. Gel Manicure Sets ft. Joya Mia
-    *   Handbag Shop: Resort Ready ft. ARANAZ
-    *   Handbag Shop: Laptop Sleeves &. Bags Up to 50% Off
-    *   bareMinerals
-    *   skinChemists Up to 80% Off
-    *   Perricone MD Up to 55% Off
-    *   Handbag Shop: Satchels ft. Versace
-    *   Handbag Shop: Wallets ft. Kate Spade New York
-    *   Snow Teeth Whitening Starting at $10
-    *   Season's Best: Leather Jackets Up to 65% Off
-    *   Seasonal Steals: Coats Up to 70% Off
-    *   J.Crew Starting at $25
     
     Shop By Category
-    *   Handbags
     *   Clothing
+    *   Handbags
     *   Shoes
     *   Jewelry
     *   Lingerie &. Shapewear
     *   Accessories
 *   MenShop Sale Events
     
-    *   Daily Deal: UGG Men's Alder Slippers at $49.98
-    *   Daily Deal: Lacoste Men's Lounge from $19.97
+    *   Theory Men Up to 55% Off
+    *   Men's Active ft. Z By Zella
+    *   Sweater Weather: Men's Pullovers &. More
+    *   Crocs Men
+    *   Modern Fiction Up to 60% Off
     *   Ray-Ban Sun
     *   Frye Men
     *   Frye Men's Accessories Up to 65% Off
     *   Last-Minute Gift Idea: Men's Packable Outerwear
     *   Hybrid Green Label Up to 75% Off
+    
     *   Converse Men Starting at $40
     *   Hudson Jeans Men
     *   Last-Minute Gift Ideas: Leather Goods
     *   English Laundry Up to 60% Off
-    
     *   Broken Homme
     *   Ben Sherman
     *   Steve Madden Men Up to 50% Off
     *   Last-Minute Gifts: Cozy Men's Styles
-    *   Men's Winter Boots from Pajar &. More
-    *   Men's Shoe Steals Up to 65% Off
-    *   J.Crew Men Up to 50% Off
-    *   Snow Ready: Men's Parkas Up to 65% Off
-    *   Tommy Hilfiger Men's Footwear
-    *   Lucky Brand Denim Under $50
     *   Gifts for the Gamer from $20
+    *   Men's Winter Boots from Pajar &. More
     
     Shop By Category
     *   Shoes
-    *   Clothing
     *   Accessories
+    *   Clothing
 *   KidsShop Sale Events
     
+    *   Z By Zella Girls
+    *   Leveret Kids' Pajamas
     *   Christmas Time for Kids: Games, Books &. More
     *   Cozy Kids' Styles ft. MUK LUKS
     *   Ready, Set, Go: Kids' Sets Under $25
     *   Converse Kids Starting at $20
     *   Converse Kids' Clothing Up to 50% Off
     *   Last-Minute Gifts: Kids' Holiday PJs, Toys &. More
-    *   Kids' Coat Shop: Styles Up to 65% Off
-    *   Ben Sherman Kids &. More
     
     Shop By Category
     *   Girls' Sizes 7-16
-    *   Girls' Sizes 2T-6X
-    *   Boys' Sizes 8-20
     *   Toy Shop
-    *   Boys' Sizes 2T-7
+    *   Girls' Sizes 2T-6X
     *   Baby Girl
+    *   Boys' Sizes 2T-7
+    *   Boys' Sizes 8-20
     *   Baby Boy
     *   Girls' Shoes
     *   Boys' Shoes
 *   HomeShop Sale Events
     
-    *   Daily Deal: Kate Spade New York ID Holders at $28
-    *   Daily Deal: BergHOFF EuroCAST Cookware Set at 80% Off
-    *   Daily Deal: bObsweep Robotic Vacuum at $199.97
+    *   Trays &. Trinkets from $10
+    *   Sencor Kitchen Gadgets
+    *   Eddie Bauer Bedding Up to 55% Off
+    *   Home Storage &. Organization Starting at $15
     *   Free Shipping: Donna Salyers' Fabulous Faux Furs
     *   Serene Home: Diffusers Starting at $15
-    *   Home Storage &. Organization Starting at $15
     *   Keep It Cool: Insulated Stainless Steel Bottles
     *   Cutlery Sets &. More Up to 45% Off
-    *   Boho-Chic Decor from $20
     
+    *   Boho-Chic Decor from $20
     *   Wusthof Cutlery &. More Up to 60% Off
-    *   Stocking Stuffers from $15
     *   Eye-Catching Wall Art Up to 65% Off
     *   Home Fragrances from $13
     *   Holiday Host: Barware Starting at $15
     *   Holiday Decor &. More from $10
-    *   Smart Home Accessories &. More from $20
     *   Gifts for the Gamer from $20
+    *   Stocking Stuffers from $15
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Electronic &. Tech Accessories
     *   Holiday Decorations
     *   Cleaning &. Organization
+    *   Electronic &. Tech Accessories
+    *   Bedding
     *   Luggage &. Travel
     *   Outdoor Living
-    *   Rugs &. Doormats
     *   Bath
+    *   Rugs &. Doormats
 *   BeautyShop Sale Events
     
-    *   Daily Deal: Gift-Ready Miu Miu Fragrance Sets Under $85
+    *   Winter Skin Care Essentials
+    *   Hera Hair Tools &. More Up to 90% Off
+    *   Palettes &. More ft. Moira Cosmetics
     *   Estee Lauder &. Lancome Starting at $10
     *   All Under $50: philosophy Gift Sets &. More
     *   What She Really Wants: Shiseido Ginza Tokyo
+    
     *   Burberry Fragrances Up to 50% Off
     *   PUR
-    
     *   Dip Powder &. Gel Manicure Sets ft. Joya Mia
     *   bareMinerals
     *   skinChemists Up to 80% Off
-    *   Perricone MD Up to 55% Off
-    *   Snow Teeth Whitening Starting at $10
     
     Shop By Category
     *   Makeup
     *   Skin Care
     *   Nails
     *   Fragrance
+    *   Hair Care
     *   Bath &. Body
     *   Tools &. Accessories
-    *   Hair Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
