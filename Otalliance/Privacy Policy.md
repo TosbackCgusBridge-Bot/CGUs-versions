@@ -77,27 +77,27 @@
   
 Read the Internet Society’s roadmap for our work ahead – and let’s join together to support our vision that the Internet is for everyone.
 
-<img src="https://www.internetsociety.org/wp-content/uploads/2017/05/ISOC-Light-RGB\_Logo\_600x200.png" title="ISOC-Light-RGB\_Logo\_600x200" alt="ISOC-Light-RGB\_Logo\_600x200" />. Local action. Global change. Local action. Global change.
+Local action. Global change. Local action. Global change.
 
 Learn what it takes to build and sustain your own community network at a local Community Network Summit.
 
-<img src="https://www.internetsociety.org/wp-content/uploads/2019/09/20170722\_163824\_DSCF6505-e1568899349225.jpg" title="Internet Access for Tusheti" alt="Internet Access for Tusheti" />. MANRS Observatory: Monitoring the State of Internet Routing Security MANRS Observatory: Monitoring the State of Internet Routing Security
+MANRS Observatory: Monitoring the State of Internet Routing Security MANRS Observatory: Monitoring the State of Internet Routing Security
 
 We launched a new online tool that measures the level of networks’ compliance to MANRS.
 
-<img src="https://www.internetsociety.org/wp-content/uploads/2019/09/manrs-observatory.png" title="manrs-observatory" alt="manrs-observatory" />. Learn More Learn More
+Learn More Learn More
 
 Did you know that the open standards that power the Internet are created by the Internet Engineering Task Force (IETF)?
 
-<img src="https://www.internetsociety.org/wp-content/uploads/2017/12/ietf-logo-250x143-1.jpg" title="ietf-logo-250x143 (1)" alt="ietf-logo-250x143 (1)" />. Join the team Join the team
+Join the team Join the team
 
 Do you want to join us in building a bigger, stronger Internet? Read our open job descriptions.
 
-<img src="https://www.internetsociety.org/wp-content/uploads/2019/09/isoc\_team.jpg" title="isoc\_team" alt="isoc\_team" />. Are Organizations Ready for New Privacy Regulations? Are Organizations Ready for New Privacy Regulations?
+Are Organizations Ready for New Privacy Regulations? Are Organizations Ready for New Privacy Regulations?
 
 Privacy regulations around the world are evolving. We looked at 1,200 privacy statements to see if organizations are ready.
 
-<img src="https://www.internetsociety.org/wp-content/uploads/2019/09/PrivacyDD.cover\_small-e1568899538866.png" title="PrivacyDD.cover\_small" alt="PrivacyDD.cover\_small" />. Member Login en
+Member Login en
 
 *   en
 *   fr
@@ -106,7 +106,7 @@ Privacy regulations around the world are evolving. We looked at 1,200 privacy st
 
 Donate ×search  Donate Online Trust Alliance (OTA) OTA Home Publications Best Practices IoT Committees All Resources
 
-<img class="post-img post-img-right 3750 alignright" src="https://www.internetsociety.org/wp-content/uploads/2017/08/ota-logo-976px-300x104.png" alt="" width="300" height="104" />The Internet Society’s Online Trust Alliance (OTA) identifies and promotes security and privacy best practices that build consumer confidence in the Internet. Leading public and private organizations, vendors, researchers, and policymakers contribute to and follow OTA’s guidance to help make online transactions safer and better protect users’ data. **OTA Goals:**
+The Internet Society’s Online Trust Alliance (OTA) identifies and promotes security and privacy best practices that build consumer confidence in the Internet. Leading public and private organizations, vendors, researchers, and policymakers contribute to and follow OTA’s guidance to help make online transactions safer and better protect users’ data. **OTA Goals:**
 
 *   Through independent research and benchmark reporting, educate stakeholders on Internet issues impacting user trust and brand reputation;
 *   Drive multistakeholder initiatives to develop and advance best practices to protect users’ security, privacy, and identity;
@@ -114,7 +114,7 @@ Donate ×search  Donate Online Trust Alliance (OTA) OTA Home Publications Best 
 *   Establish and foster partnerships and collaborative learning opportunities. and
 *   Empower users to act in their own privacy and security interests.
 
-Some examples of OTA’s work products include: Online Trust Audit and Honor Roll <img src="https://www.internetsociety.org/wp-content/uploads/2019/05/ota\_honor\_roll\_2018.png" title="ota\_honor\_roll\_2018" alt="ota\_honor\_roll\_2018" />.
+Some examples of OTA’s work products include: Online Trust Audit and Honor Roll
 
 The Online Trust Audit &. Honor Roll assesses nearly 1,200 organizations, recognizing excellence in online consumer protection, data security, and responsible privacy practices. This 10th annual audit of more than 1,200 predominantly consumer-facing websites is the largest undertaken by OTA, and was expanded this year to include payment services, video streaming, sports sites, and healthcare.
 
@@ -136,31 +136,31 @@ The IoT Trust Framework® includes a set of strategic principles necessary to he
 
 Visit our IoT Trust Framework page and download the full version or Framework Overview.
 
-Read the Framework Learn more about IoT OTA News Online Trust Audit for 2020 Presidential Campaigns Update <img width="600" height="600" src="https://www.internetsociety.org/wp-content/uploads/2019/12/joshua-sukoff-5DDYHjk\_KMU-unsplash-600x600.jpg" class="attachment-square size-square wp-post-image" alt="Online Trust Audit for 2020 Presidential Campaigns Update Thumbnail" title="Online Trust Audit for 2020 Presidential Campaigns Update Thumbnail" srcset="https://www.internetsociety.org/wp-content/uploads/2019/12/joshua-sukoff-5DDYHjk\_KMU-unsplash-600x600.jpg 600w, https://www.internetsociety.org/wp-content/uploads/2019/12/joshua-sukoff-5DDYHjk\_KMU-unsplash-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" />. Building Trust 4 December 2019 Online Trust Audit for 2020 Presidential Campaigns Update
+Read the Framework Learn more about IoT OTA News Deep Dive: How the News and Media Sector Scores on Security and Privacy Building Trust 19 December 2019 Deep Dive: How the News and Media Sector Scores on Security and Privacy
+
+In April 2019 the Internet Society’s Online Trust Alliance released its 10th annual Online Trust Audit &. Honor Roll....
+
+Online Trust Audit for 2020 Presidential Campaigns Update Building Trust 4 December 2019 Online Trust Audit for 2020 Presidential Campaigns Update
 
 On 7 October 2019, the Internet Society’s Online Trust Alliance (OTA) released the Online Trust Audit for 2020 U.S....
 
-Deep Dive: A Look at Top Retailers’ Security Practices <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2019/11/Retailers-Security-Practices-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Deep Dive: A Look at Top Retailers&#8217. Security Practices Thumbnail" title="Deep Dive: A Look at Top Retailers&#8217. Security Practices Thumbnail" />. Building Trust 27 November 2019 Deep Dive: A Look at Top Retailers’ Security Practices
+Deep Dive: A Look at Top Retailers’ Security Practices Building Trust 27 November 2019 Deep Dive: A Look at Top Retailers’ Security Practices
 
 In April 2019 the Internet Society’s Online Trust Audit released its 10th Online Trust Audit and Honor Roll. One...
 
-U.S. Presidential Campaigns Struggle With Cybersecurity <img src="https://www.internetsociety.org/wp-content/uploads/2019/10/us-news-and-world-report.jpg" alt="us-news-and-world-report" title="us-news-and-world-report" />. In the News 14 October 2019 U.S. Presidential Campaigns Struggle With Cybersecurity U.S. News &. World Report Most presidential candidates’ websites don’t do enough to protect visitors’ privacy, report says <img src="https://www.internetsociety.org/wp-content/uploads/2017/11/boston-globe.png" alt="Boston Globe logo" title="Boston Globe logo" />. In the News 10 October 2019 Most presidential candidates’ websites don’t do enough to protect visitors’ privacy, report says Boston Globe Announcing the 2020 U.S. Presidential Campaign Audit <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2019/10/2020-Presidential-Campaign-Audit-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Announcing the 2020 U.S. Presidential Campaign Audit Thumbnail" title="Announcing the 2020 U.S. Presidential Campaign Audit Thumbnail" />. Building Trust 8 October 2019 Announcing the 2020 U.S. Presidential Campaign Audit
+U.S. Presidential Campaigns Struggle With Cybersecurity In the News 14 October 2019 U.S. Presidential Campaigns Struggle With Cybersecurity U.S. News &. World Report Most presidential candidates’ websites don’t do enough to protect visitors’ privacy, report says In the News 10 October 2019 Most presidential candidates’ websites don’t do enough to protect visitors’ privacy, report says Boston Globe Announcing the 2020 U.S. Presidential Campaign Audit Building Trust 8 October 2019 Announcing the 2020 U.S. Presidential Campaign Audit
 
 Today, the Internet Society’s Online Trust Alliance released a new report, the “2020 U.S. Presidential Campaign Audit,” analyzing the...
 
-OTA’s Trust Audit Scores U.S. Presidential Candidates’ Campaigns, Finds Major Failures in Privacy Statements Press Releases 8 October 2019 OTA’s Trust Audit Scores U.S. Presidential Candidates’ Campaigns, Finds Major Failures in Privacy Statements
-
-Reston, VA. – October 8, 2019 – The Internet Society’s Online Trust Alliance (OTA), which identifies and promotes security and privacy...
-
-Load More Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team <img src="https://www.internetsociety.org/wp-content/uploads/2019/05/Megan-Closer.png" alt="Megan Kruse" title="Megan Kruse" />Megan Kruse photo Megan Kruse
+Load More Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team Megan Kruse photo Megan Kruse
 
 Business Director, Online Trust Alliance
 
-<img src="https://www.internetsociety.org/wp-content/uploads/2018/11/kenny.olmstead.jpg" alt="Kenneth Olmstead" title="Kenneth Olmstead" />Kenneth Olmstead photo Kenneth Olmstead
+Kenneth Olmstead photo Kenneth Olmstead
 
 Internet Privacy &. Security Analyst
 
-<img src="https://www.internetsociety.org/wp-content/uploads/2018/10/Jeff-Wilbur\_2\_resized.jpg" alt="Jeff Wilbur" title="Jeff Wilbur" />Jeff Wilbur photo Jeff Wilbur
+Jeff Wilbur photo Jeff Wilbur
 
 Technical Director, Online Trust Alliance
 
@@ -187,4 +187,4 @@ CH-1201 Geneva
 
 Follow us:
 
-Follow Internet Society on Twitter Follow Internet Society on LinkedIn Follow Internet Society on Facebook Follow Internet Society on Instagram Follow Internet Society on YouTube Internet Society RSS Feed Copyright © 2019 Internet Society <style>.lazyload{display:none;}</style>. We care about your privacy and strive to limit our use of cookies to those that help improve our site and keep it relevant. By continuing to use this site, you agree to the use of cookies. To learn more about how you can control use of cookies see our Cookie Policy
+Follow Internet Society on Twitter Follow Internet Society on LinkedIn Follow Internet Society on Facebook Follow Internet Society on Instagram Follow Internet Society on YouTube Internet Society RSS Feed Copyright © 2019 Internet Society We care about your privacy and strive to limit our use of cookies to those that help improve our site and keep it relevant. By continuing to use this site, you agree to the use of cookies. To learn more about how you can control use of cookies see our Cookie Policy
