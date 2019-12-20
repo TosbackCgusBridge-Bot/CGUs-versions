@@ -25,6 +25,7 @@ Toggle navigation
     *   Home Selling Tips
     
     *   Home Buying Tips
+    *   Home Buying Checklist
     *   Home Buyers Reveal: 'What I Wish I Had Known Before Buying My First Home'
     *   More Home Buying Insights
 *   Sell
@@ -109,6 +110,7 @@ Toggle navigation
     *   Moving
     *   Home Improvement
     *   Research
+    *   Housing Market Predictions
     
     *   Guides &. More
     *   The 5 Maintenance Skills All Homeowners Should Know
@@ -317,7 +319,7 @@ Email: Privacy@move.com
     *   Makaan.com
     *   Housing.com
     *   PropTiger.com
-*   Privacy / Terms
+*   Privacy / Website Terms Of Use
 *   Sitemap
 
 ©1995-2019 National Association of REALTORS® and Move, Inc. All rights reserved.  
