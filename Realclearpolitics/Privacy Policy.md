@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Michael Luo_: In Praise of How Pelosi Is Navigating Trump Impeachment
+*   _Roger Kimball_: Dems Always Guilty of What They Accuse Trump Of
     
-*   _Victor Davis Hanson_: Hatred of Trump Is a Political Liability for Dems
+*   _Jonathan Allen_: Trump Pays a Historic Price for Doing Business His Way
     
-*   _Joe Lockhart_: 'Except for Getting Impeached, We Had a Pretty Good Day.'
+*   _Piers Morgan_: Why Trump’s Laughing All the Way to Reelection
     
-*   _Kathleen Parker_: Spoiler Alert: Trump's Probably Going to Win 2020
+*   _David Graham_: The Stain of Impeachment Will Last Forever
     
-*   _Maureen Dowd_: Trump Is Bad. Too Bad He's Not Alone.
+*   _David Harsanyi_: The Voter-Purge Myth
     
-*   _William Barr_: Rising Disrespect for Cops Is Wrong, Dangerous
+*   _Ryan Lizza_: Inside Biden’s Brain Trust
     
-*   _Brady &. Parker_: Examining Elizabeth Warren's Slide
+*   _Spakovsky &. Fund_: Holder, Not Barr, 'Unfit' to Be Attorney General
     
-*   _John Cassidy_: The Future of Working-Class Conservatism in U.K., U.S.
+*   _Max Diamond_: Special Ed's Got an Unjust-Suspension Problem
     
-*   _Kevin Williamson_: The Tedious, Lying Sanctimony of Our Partisan News Media
+*   _Edward Chang_: Richard Jewell's Message Remains Relevant Today
     
-*   _John Harris_: Impeachment and the Crack Up of the Conservative Mind
+*   _Hal Brands_: The Afghanistan Papers Reveal a Tragedy, Not a Crime
     
-*   _John Nolte_: Schumer Admits Trump's Being Impeached 'Without the Facts'
+*   _Carl Cannon_: Is the American Experiment in Need of Renewal?
     
-*   _Peter Van Buren_: Christmas Magic Comes Early for Democrats 
+*   _Rucker_: House Impeaches Trump, Leaving Indelible Mark on Presidency
     
-*   _Elie Honig_: What Impeachment Will Cost Mitch McConnell
+*   _Michael Goodwin_: Pelosi's Stomach-Turning Charade Damages America
     
-*   _Josh Kraushaar_: Pelosi's Political Price for Impeachment
+*   _Jonathan Chait_: In the End, Impeachment Was the Only Choice
     
-*   _Philip Wegmann_: Nixon to Clinton to Trump: Insiders Recall Impeachments
+*   _Byron York_: Partisan Impeachment: How the GOP Got to Zero Votes
     
-*   _President Donald Trump_: An Unconstitutional Abuse of Power by Democrats
+*   _Matt Taibbi_: 5 Questions Remaining After Release of Horowitz Report
     
-*   _Jonathan Chait_: Trump's Insane Letter Shows Why He's Unfit for Office
+*   _Susan Crabtree_: Amid FISA Scrutiny, Critics Warn of FBI Briefing 'Subterfuge'
     
-*   _Joseph diGenova_: Comey's Dishonest Spin Is Going Nowhere
+*   _Ryan Heath_: Is Pete Buttigieg the Next Emmanuel Macron?
     
-*   _Ryan Cooper_: Democrats Sleepwalking Into a Biden Disaster
+*   _Philip Wegmann_: Dem Primary Debate Audience Has Dwindled
     
-*   _Sean Trende_: Don't Sleep on Bernie
+*   _Matt Seaton_: The Strange Death of Social-Democratic England
     
-*   _Michael Kruse_: Harvard Made Buttigieg the Moderate the Left Loves to Hate
+*   _Boris Johnson_: The New UK Government's Obligation Towards the People
     
-*   _John O'Sullivan_: A Realignment Election in the U.K.
+*   _John Cassidy_: The Republicans' Abject Submission to Trump
     
-*   _Will Marshall_: Britain's Warning to American Democrats
+*   _Liz Harrington_: Trump Rallies w/the People as Dems Try to Undo Their Votes
     
-*   _Blaire White_: Stop Normalizing Assault on Trump Supporters
+*   _Michael D'Antonio_: Trump Brought This Upon Himself
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Amid FISA Scrutiny, Critics Warn of FBI Briefing "Subterfuge"
+*   Democratic Primary Debate Audience Has Dwindled
+*   Replay: Trump Hosts "Merry Christmas" Rally in Michigan
 *   Nixon to Clinton to Trump: Insiders Recall Impeachments Past
 *   Jobs, Jobs, Jobs: Trump's Ticket to Defeating the Democrats?
-*   McCabe: Mistakes From "Lowest Level" of FBI Very Hard to Uncover
-*   Sperry: The Carter Page/Ukraine Lie That Kept on Lying for Mueller, FBI
-*   Ohio Cracks Down on Voter Fraud
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,48 +252,58 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   Iowa Democratic Presidential CaucusIowa State University
+    *   Buttigieg24
+    *   Sanders21
+    *   Biden15
+    *   Warren18
+    *   Klobuchar4
+    *   Booker3
+    *   Steyer2
+    *   Yang3
+    *   Gabbard3
+    *   Bloomberg0
+    *   Castro1
+    *   Bennet0Buttigieg +3
+*   2020 Democratic Presidential NominationCNN
+    *   Biden26
+    *   Sanders20
+    *   Warren16
+    *   Buttigieg8
+    *   Bloomberg5
+    *   Klobuchar3
+    *   Yang3
+    *   Booker3
+    *   Gabbard1
+    *   Steyer1
+    *   Castro2
+    *   Bennet0
+    *   Delaney1Biden +6
+*   2020 Democratic Presidential NominationNBC News/Wall St. Jrnl
+    *   Biden28
+    *   Sanders21
+    *   Warren18
+    *   Buttigieg9
+    *   Bloomberg4
+    *   Klobuchar5
+    *   Yang3
+    *   Booker2
+    *   Gabbard2
+    *   Steyer1
+    *   Castro1
+    *   Bennet0
+    *   Delaney0Biden +7
 *   President Trump Job ApprovalNBC News/Wall St. Jrnl
     *   Approve44
     *   Disapprove54Disapprove +10
-*   2020 Generic Congressional VoteNBC News/Wall St. Jrnl
-    *   Democrats49
-    *   Republicans42Democrats +7
-*   2020 Democratic Presidential NominationEmerson
-    *   Biden32
-    *   Sanders25
-    *   Warren12
-    *   Buttigieg8
-    *   Bloomberg3
-    *   Yang6
-    *   Klobuchar2
-    *   Booker2
-    *   Gabbard4
-    *   Steyer2
-    *   Castro0
-    *   Bennet0
-    *   Delaney1Biden +7
-*   2020 Democratic Presidential NominationEconomist/YouGov
-    *   Biden29
-    *   Sanders19
-    *   Warren17
-    *   Buttigieg7
-    *   Bloomberg4
-    *   Yang3
-    *   Klobuchar4
-    *   Booker2
-    *   Gabbard3
-    *   Steyer2
-    *   Castro2
-    *   Bennet1
-    *   Delaney1Biden +10
 
 More Latest Polls In The News
 
-*   Replay: President Trump Hosts "Merry Christmas" Rally In Battle Creek, Michigan During Impeachment Vote
-*   Jonathan Turley: "You Could Impeach Every Living President" By The Standards Of Trump Impeachment
-*   Adam Schiff: "This President Does Nothing But Project Onto Others His Own Lack Of Morality"
-*   McCabe: "Shocked And Horrified" By IG Report, There Were "Very Serious Mistakes" But No Bias Was Found
-*   Victor Davis Hanson: Comey, McCabe, Brennan, Clapper Trying To Exonerate, Contextualize Their Behavior
+*   Biden: If Anyone Has A Reason To Be Angry With Republicans, It's Me For The Way They've Attacked My Son
+*   Buttigieg vs. Warren on "Wine Cave" Fundraiser: You're "Issuing Purity Tests You Cannot Yourself Pass"
+*   Warren: Economists Who Say My Tax Plan Would Stifle Growth Are "Just Wrong"
+*   Yang: Dems Are "Obsessed With Impeachment" And Ignoring Problems That Got Trump Elected
+*   Chuck Todd: "Bizarre" To Think Trump Is Getting Cheers At Rally On The Same Night He's Getting Impeached
 
 *   Politics
 *   Policy
