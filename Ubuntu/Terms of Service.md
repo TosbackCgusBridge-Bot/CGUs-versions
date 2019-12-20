@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   OpenStack and Kubernetes architecture on rails with Canonical and Dell EMC
+*   Building a C snap by example
 *   How to build ROS 2 Eloquent Snaps
 *   Building a Rust snap by Example
 *   Juju 2.7: Enhanced k8s experience, improved networking and more
-*   ObjectBox, database for IoT devices, adopts snaps for simplicity and ease of installation
-*   Canonical Announces Support for Kubernetes 1.17
 
 *    ›
