@@ -118,7 +118,7 @@ Play video: Get a Closer Look at How the Characters Came to Life in “Jumanji: 
 
 Introducing the DualShock 4 Back Button Attachment, launching January 23:  http://play.st/35vMP0f  pic.twitter.com/NOnxtpMRTG
 
-1 day ago View Tweet Instagram Post B5YypRpFdNp
+2 days ago View Tweet Instagram Post B5YypRpFdNp
 
 Listen to Holiday Cheer
 
