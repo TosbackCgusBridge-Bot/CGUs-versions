@@ -55,7 +55,7 @@ Want to opt out of any of the above categories?
 The Nest Wifi point has the Google Assistant built in. Learn more about data collected by devices that work with Assistant and the controls available to you:
 
 *   Data security and privacy on Nest and Home devices with the Google Assistant
-*   Guests and Google speakers and displays
+*   Guests &. your Google connected home device
 *   Chromecast / Google Nest and your privacy  
 *   FAQs on Privacy: Google Nest
 *   Assistant and Your Privacy
