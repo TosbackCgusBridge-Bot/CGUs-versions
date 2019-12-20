@@ -36,11 +36,11 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off your order!
+Receive 50% off full-price styles. free shipping on orders of $75, plus most orders upgraded for Christmas delivery!
 
-code: MERRY pin: PROMOTION DETAILS
+code: CHORUS pin: PROMOTION DETAILS
 
-Customer Service Menu
+Today is the last day to order with standard shipping for Christmas Delivery (free on orders of merchandise over $75). DETAILS Customer Service Menu
 
 Customer Service
 
@@ -61,7 +61,11 @@ Customer Service
 *   Site Map
 *   Glossary
 
-LANDS’ END PRIVACY POLICY Effective December 10, 2019
+Find an answer fast
+
+Search the Lands' End Help Center.
+
+Search the Lands' End Help Center. Go LANDS’ END PRIVACY POLICY Effective December 10, 2019
 
 Download PDF / Print
 
