@@ -8,13 +8,13 @@ Prevent anyone except you from using your devices and accessing your informatio
 
 Six-digit passcodes
 
-Setting a passcode is the most important thing you can do to safeguard your device. The passcode on your Touch ID—or Face ID-enabled device is automatically set to six digits, creating a million possible combinations. You can also enable Erase Data in Settings to have your device wipe itself clean after 10 incorrect guesses.
+Setting a passcode is the most important thing you can do to safeguard your device. The passcode on your Touch ID– or Face ID–enabled device is automatically set to six digits, creating a million possible combinations. You can also enable Erase Data in Settings to have your device wipe itself clean after 10 incorrect guesses.
 
 Learn more about protecting your device with a passcode Touch ID and Face ID
 
 Touch ID and Face ID provide intuitive and secure authentication with the touch of a finger or a simple glance. Your fingerprint or face data is converted into a mathematical representation that is encrypted and used only by the Secure Enclave in your Mac, iPad, or iPhone. Since fingerprint and face data is so personal, your device takes extraordinary measures to protect it. This data can’t be accessed by the operating system on your device or by any applications running on it. And it is never stored on Apple servers or backed up to iCloud or anywhere else.
 
-Learn more about Touch ID Security View the Face ID white paper (PDF) Two-factor authentication
+Learn more about Apple Platform Security Two-factor authentication
 
 Two-factor authentication is the best way to keep your information safe because it adds a second layer of security to your Apple ID. It’s designed to ensure that even someone who knows your password can’t access your account. When you sign in on a new device or from the web, a verification code will be displayed automatically on all your trusted devices. Enter this code along with your password and you’ll be signed in. Anyone who can’t provide both your password and the verification code will be kept out. Once signed in, you won’t be asked for a verification code on that device again unless you sign out completely, erase the device, or need to change your password for security reasons.
 
