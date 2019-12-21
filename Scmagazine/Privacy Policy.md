@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   A hard truth: The lessons we never learn during National Cybersecurity Awareness Month – but should
-    *   Epilepsy Foundation files complaint, seeks investigation on Twitter attacks
-    *   2020 Predictions: Privacy
-    *   Senate passes $1.4 trillion spending bill, includes $25 million for election security
-    *   Company sued for allegedly hijacking Facebook accounts to serve ads
-    
-    *   Microsoft fixes exploited privilege elevation flaw, 34 more bugs
-    *   Reputed Vietnamese APT group hacks BMW, Hyundai: report
-    *   Hackensack Meridian Health pays undisclosed ransom payment
-    *   Apple says ultra wideband tech culprit behind location data sharing. to issue fix
-    *   Galt city hall, St. Lucie police hit with ransomware
-    
-    *   Galt city hall, St. Lucie police hit with ransomware
-    *   Facebook Tor gateway down while TLS certificate renewed
-    *   Ring camera hacks show the need for better IoT security
-    *   LifeLabs pays ransom to regain stolen data, 15 million affected
+    *   Maze behind Pensacola ransomware attack
     *   2020 Predictions: Election Security
+    *   Is 5G the security silver bullet for system integrators in the West?
+    *   It’s a trap! Cybercriminals use Star Wars: Rise of Skywalker as bait
+    *   Devin Nunes' cow Twitter account owner should remain anonymous, ACLU says
+    
+    *   The silent rise of cryptojacking
+    *   SC Media’s 2019 Innovators and Hall of Fame
+    *   Open dark web database exposes info on 267 million Facebook
+    *   It’s a trap! Cybercriminals use Star Wars: Rise of Skywalker as bait
+    *   Secret court judge orders FBI to reform FISA process
+    
+    *   Open dark web database exposes info on 267 million Facebook
+    *   Multiple-malware dropper ‘Legion Loader’ dissected
+    *   It’s a trap! Cybercriminals use Star Wars: Rise of Skywalker as bait
+    *   Dark Overlord member extradited to the U.S., pleads not guilty plea
+    *   Open database exposes 26,000 Honda Motors customers
 
 Back to Top
 
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
