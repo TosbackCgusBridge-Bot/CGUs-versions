@@ -126,7 +126,7 @@ We use the information we collect, both on its own and combined with any other i
 *   In connection with our security and compliance programs;
 *   To administer our websites;
 *   To communicate with you;
-*   To target prospective customers with our products or services (subject to your consent where required by applicable law);
+*   To target current or prospective customers with our products or services through online advertisements served on third-party sites by third-party vendors, such as Google (subject to your consent where required by applicable law);
 *   To assist us in offering you a personalized experience or otherwise tailor our Services to you. and
 *   As otherwise described in this privacy notice.
 
@@ -329,7 +329,7 @@ THE NETHERLANDS
 Telephone: (+31) – (0)70 – 888 85 00  
 Fax: (+31) – (0)70 – 888 85 01
 
-**Last modified December 12, 2019**
+**Last modified December 20, 2019**
 
 Back To Top ©2019 Endurance International Group.
 
