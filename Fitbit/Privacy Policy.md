@@ -169,7 +169,7 @@ Get the low-down on all things Fitbit legal.
 
 See all our legal policies
 
-Get the skinny on all things FitbitPlease enter an email addressThanks for signing up! Shop the Fitbit family here Shop the Fitbit family Shop Now
+Get the skinny on all things FitbitPlease enter an email address
 
 *   BLOG
 
