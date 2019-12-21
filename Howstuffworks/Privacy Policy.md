@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksThere's a Pooping Man in the Catalan Nativity Scene1STClosing Your Bedroom Door at Night Could Save Your Life2NDTruffles: The Rarest and Most Expensive Fungi in the World3RDThe Ultimate Downsize: Living in a Shipping Container Home4THCapital One QuicksilverOne® | SponsoredEarn unlimited 1.5% cash back on every purchase, every day.Capital One QuicksilverOne® | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredSoGoodly | SponsoredBaby Has Never Eaten Sugar Or Carbs. Wait Till You See Her TodaySoGoodly | SponsoredTrends | Sponsored21 Insanely Cool Gifts That Are Going To Sell Out Before ChristmasTrends | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksHow to Fake a GPS Location on Your Phone1STThere's a Pooping Man in the Catalan Nativity Scene2NDClosing Your Bedroom Door at Night Could Save Your Life3RDHow Dangerous Is the Beaver?4THBuzznet | SponsoredIdentical Twins Named "Most Beautiful In The World". Wait Till You See Them TodayBuzznet | SponsoredUnderstand Solar Power | SponsoredColorado Launches No Cost Solar ProgramUnderstand Solar Power | SponsoredSenior Living/Assisted Living | SponsoredLuxury Senior Living Near Aurora Is Actually Affordable. Search For Senior Living CommunitiesSenior Living/Assisted Living | SponsoredAgeful | SponsoredWhat happens to all 2019 unsold cars and SUVs?Ageful | Sponsored
 
 Advertisement
 
-animals - wild animalsWhat Do Reindeer Do When They're Not Pulling Santa's Sleigh?BY Laurie L. Doveanimals - petsHow Did the Goldfish Become Everyone's First Pet?BY Alia Hoytculture - historyShhh! Don't Tell. There's a Secret Apartment Atop the Eiffel TowerBY Laurie L. DoveSenior Living/Assisted Living | SponsoredLuxury Senior Living Near Aurora Is Actually Affordable. Search For Senior Living CommunitiesSenior Living/Assisted Living | SponsoredKelley Blue Book | Sponsored10 Most Fun SUVsKelley Blue Book | Sponsored
+culture - people7 Key Questions in the U.S. Slavery Reparations DebateBY Dave Roosculture - peopleA Heavenly Angels QuizBY Alia Hoytculture - historyShhh! Don't Tell. There's a Secret Apartment Atop the Eiffel TowerBY Laurie L. DoveEverydayKoala | SponsoredThese Twins Were Named "Most Beautiful In The World," Wait Till You See Them TodayEverydayKoala | SponsoredTruthFinder People Search Subscription | SponsoredLocate anyone by entering their name (this is addicting)TruthFinder People Search Subscription | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksThe Peace Sign: From No Nukes Logo to Anti-war Symbol7 Key Questions in the U.S. Slavery Reparations DebateExotic or Exploited? The Controversial Savannah CatHow 'Pretty Boy' Floyd Became the FBI's Public Enemy No. 1Why Was the American Revolution So Revolutionary?What Is Planck's Constant, and Why Does the Universe Depend on It?by Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksCan't Read Roman Numerals? We Can Teach YouExotic or Exploited? The Controversial Savannah CatWhat's the Difference? QuizThree Famous Hypotheses and How They Were TestedWhat Is Planck's Constant, and Why Does the Universe Depend on It?Get to Know the Greek Alphabet, From Alpha to Omegaby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. There's a Pooping Man in the Catalan Nativity SceneRead Next StoryCapital One QuicksilverOne®Earn unlimited 1.5% cash back on every purchase, every day.Capital One QuicksilverOne®|SponsoredSponsoredRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. How to Fake a GPS Location on Your PhoneRead Next StoryBuzznetIdentical Twins Named "Most Beautiful In The World". Wait Till You See Them TodayBuzznet|SponsoredSponsoredRead Next StoryUnderstand Solar PowerColorado Launches No Cost Solar ProgramUnderstand Solar Power|SponsoredSponsoredRead Next Story
