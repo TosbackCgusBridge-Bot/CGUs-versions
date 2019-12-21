@@ -65,7 +65,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   10 Amazing Fun Facts: ‘A Christmas Story’ Read More
+    *   10 Amazing Fun Facts: ‘The Polar Express’ Read More
     *   A Fantabulous ‘Birds of Prey’ Character Guide Read More
     *   2020 Golden Globe Nominations: ‘Joker’ and ‘Once Upon a Time in Hollywood’ Challenge Stiff Netflix Competition Read More
     
@@ -498,7 +498,7 @@ Offers
     
     When you purchase 2 or more Kernel Season’s products. SEE DETAILS
     
-*   Get A Free Movie Ticket and $10 Concession Money
+*   Get The Gift Of $20 Concession Money
     
     When you spend $100+ on Gift Cards. SEE DETAILS
     
