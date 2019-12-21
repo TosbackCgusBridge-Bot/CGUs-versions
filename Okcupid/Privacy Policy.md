@@ -106,8 +106,9 @@ If you live in the European Union, the company that is responsible for your info
 Privacy Officer  
 MTCH Technology Services  
 OkCupid  
-Charlemont Exchange Charlemont Street  
-Dublin 2, D02 VN88  
+WeWork Charlemont Exchange  
+42 Charlemont Street  
+Dublin 2, D02 R593  
 Ireland
 
 If you live outside the European Union, the company responsible for your information is:
@@ -341,8 +342,9 @@ By post:
 Privacy Officer  
 MTCH Technology Services  
 OkCupid  
-Charlemont Exchange Charlemont Street  
-Dublin 2, D02 VN88  
+WeWork Charlemont Exchange  
+42 Charlemont Street  
+Dublin 2, D02 R593  
 Ireland
 
 **If you live outside the European Union** :
@@ -395,7 +397,7 @@ You need to complete your basic info on the mobile app before you can use the de
 *   Support
 *   Blog
 *   Tech Blog
-*   Vegan Dating
+*   Atlanta Dating
 *   Privacy Policy
 *   Cookie Policy
 *   Terms and Conditions
