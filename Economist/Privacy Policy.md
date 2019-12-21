@@ -79,6 +79,7 @@ Our policies will be updated from Time-to-time. Please refer back regularly to k
 *   **How we work with third parties**
 *   **Retaining and storing your information**
 *   **External links and Cookies**
+*   **California Consumer Privacy Act**
 *   **Contact Us**
 *   **Who we are**
 *   **FAQs**
@@ -102,7 +103,7 @@ There is certain personal information that we need in order to provide the produ
 *   Email address
 *   Payment details
 
-In addition to the above, examples of the details we collect for our Economist Events business could include:
+In addition to the above, examples of the details we collect for our Economist Events business and The Economist Intelligence Unit ("EIU") could include:
 
 *   Job title
 *   Work email
@@ -241,7 +242,7 @@ We may also work with third parties to identify individuals who may be intereste
 
 **Retention policy**
 
-We securely store your information, and hold it for as long as we need to in order provide our services and products to you in accordance with (i) applicable law, or (ii) as long as is set out in any relevant contract you have with us.
+We securely store your information, and hold it for as long as we need to in order to provide our services and products to you in accordance with (i) applicable law, or (ii) as long as is set out in any relevant contract you have with us.
 
 We review our retention periods for personal information regularly. If you have not interacted with us in any way, we will generally no longer hold your information after 5 years (although this may be shorter for individual businesses (you can confirm by contacting us)). Sometimes we may need to keep it for longer periods such as for tax and other financial regulatory reasons, this would typically be 7 years. We would only keep it for longer than this if we are required to by law.
 
@@ -255,13 +256,24 @@ We maintain strict policies to ensure all information that is transferred is don
 
 **Keeping your information safe**
 
-We take information security seriously and have policies and procedures in place to ensure the information we hold on you remains safe. We limit who has access to your information and ensure that those who do are bound by contracts to keep your information availability restricted and safe.
-
+We take information security seriously and have policies and procedures in place to ensure the information we hold on you remains safe. We limit who has access to your information and ensure that those who do are bound by contracts to keep your information availability restricted and safe.  
+  
 **Individuals under 16**
 
 The Economist Group does not intentionally, or knowingly, process personal information from individuals under the age of 16. When necessary, users under the age of 16 will be told not to submit any personal details. We will make every effort to delete any details of such users where a parent or guardian has informed us that these details have been collected.
 
-**External links**
+  
+**California Consumer Privacy Act (CCPA)**
+
+In addition to the rights documented elsewhere in this Privacy Policy, if you are a California Resident you have some additional rights under the CCPA. These include being informed of any of your personal data that has been “sold” (where sold for this purpose is defined below) and to opt out of the future selling of your personal data to third parties.  
+  
+We may share your details with selected 3rd parties, where you have opted in for us to do so, which is defined as a “sale” of data under the CCPA. If you change your mind you can opt out of the sale of personal data by using this Do Not Sell My Personal Information link.
+
+To submit requests for information about any of your personal data which we have sold according to the CCPA, you can complete our enquiry form, get in touch with us by any of the methods listed in the Contact Us section of this policy or call this free toll number +1 800 456 6086. If you are emailing us for a request please indicate in the subject that it is a CCPA related request. 
+
+For information on the type of data we may collect from consumers and the 3rd parties this may be disclosed to, including our suppliers and other entities within our group, please refer to the relevant sections in this privacy policy.
+
+**Externel links**
 
 This Privacy Policy only applies to The Economist Group’s use of data. Our websites, services or products may, from Time-to-time, contain links to, use or be on external sites. The Economist Group is not responsible for the Privacy Policies or the content of such sites and we recommend that you read the Privacy Policies on any external sites you use. Similarly, if you are directed to our website from a third party we are not responsible for the Privacy Policy or practices of the third party. We strongly recommend you read their policy.
 
@@ -352,9 +364,10 @@ For queries related to other parts of The Economist Group please contact:
 
 ****Your rights  
   
-****You also have the right to ask for us to update, delete or stop processing information we hold about you. However, please note that there are circumstances in which complete erasure of your information or ceasing to process your information will not be possible for operational, legal and business reasons. This may include if you remain a customer for whom we need to provide services, or if you wish us to no longer contact you for marketing purposes. In this case we may need to retain some of your details securely in order to facilitate this request by, for example, keeping you on a “do not contact” or suppression list. This will be the only purpose for which your data will be used if this is the case.  
-  
-**FAQs**
+****You also have the right to ask for us to update, delete or stop processing information we hold about you. However, please note that there are circumstances in which complete erasure of your information or ceasing to process your information will not be possible for operational, legal and business reasons. This may include if you remain a customer for whom we need to provide services, or if you wish us to no longer contact you for marketing purposes. In this case we may need to retain some of your details securely in order to facilitate this request by, for example, keeping you on a “do not contact” or suppression list. This will be the only purpose for which your data will be used if this is the case. In addition, as a California Resident you have the right to be informed of your information that has been “sold” and to opt out of the sale of personal data. For details on how to action these requests please refer to the California Consumer Privacy Act (CCPA) section above. We do not discriminate against individuals that exercise their data protection or privacy rights.
+
+**  
+FAQs**
 
 *   How can I see what information you hold on me?
 
@@ -398,12 +411,16 @@ You can use our Cookie consent tool. For more information please also see our Co
 
 You have a right to ask us for information we hold about you, “Subject Access Request”, so that we can respond as promptly as possible please complete our enquiry form. 
 
+*   What are my rights under the CCPA?
+
+You have a right to ask us what information we have “sold” about you, where “sold” includes sharing your personal data with selected third parties, when you have given us permission to do so by opting in to marketing.
+
 **Changes to this policy**
 
 From Time-to-time, we may make changes to the Privacy Policy. This may be in relation to changes in the law, best practice or changes in our services. These changes will be reflected in this statement, so you should check here regularly.
 
   
-Last update: 1 October 2019
+Last update: 27 December 2019
 
 Copyright © The Economist Newspaper Limited 2019  
 Registered in England and Wales. No. 236383 | Registered office: The Adelphi, 1-11 John Adam Street, London, WC2N 6HT | VAT Reg No: GB 340 436 876
