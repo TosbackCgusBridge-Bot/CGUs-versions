@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Roger Kimball_: Dems Always Guilty of What They Accuse Trump Of
+*   _Walter Shapiro_: The Democrats' Vaudeville Act
     
-*   _Jonathan Allen_: Trump Pays a Historic Price for Doing Business His Way
+*   _Eric Lach_: Why Candidates Went After Buttigieg at Last Night's Debate
     
-*   _Piers Morgan_: Why Trump’s Laughing All the Way to Reelection
+*   _John Kass_: The IG Report Uncovers a Massive Media Scandal
     
-*   _David Graham_: The Stain of Impeachment Will Last Forever
+*   _Peter Nicholas_: Trump's Rally Previews How Toxic the Coming Year Will Be
     
-*   _David Harsanyi_: The Voter-Purge Myth
+*   _Jenna Ellis_: Dems' Impeachment Report Exposes Weakness of Their Case
     
-*   _Ryan Lizza_: Inside Biden’s Brain Trust
+*   _Ben Mathis-Lilley_: Remember Obama's Risky, Unelectable 2008 Candidacy?
     
-*   _Spakovsky &. Fund_: Holder, Not Barr, 'Unfit' to Be Attorney General
+*   _Alex Pareene_: A Decade of Liberal Delusion and Failure
     
-*   _Max Diamond_: Special Ed's Got an Unjust-Suspension Problem
+*   _Kurt Schlichter_: Get the Hell Out of Afghanistan Now
     
-*   _Edward Chang_: Richard Jewell's Message Remains Relevant Today
+*   _Richard Haass_: The Post-American Middle East
     
-*   _Hal Brands_: The Afghanistan Papers Reveal a Tragedy, Not a Crime
+*   _Ezra Klein_: The Most Important Argument for Impeaching Trump
     
-*   _Carl Cannon_: Is the American Experiment in Need of Renewal?
+*   _Jenny Martin_: 'If We Do Not Impeach This President...He Will Get Reelected'
     
-*   _Rucker_: House Impeaches Trump, Leaving Indelible Mark on Presidency
+*   _John Harris_: Democrats Decide Not to Debate Dull
     
-*   _Michael Goodwin_: Pelosi's Stomach-Turning Charade Damages America
+*   _Damon Linker_: What If They Held a Debate and No One Cared?
     
-*   _Jonathan Chait_: In the End, Impeachment Was the Only Choice
+*   _Matthews_: 3 Winners, 4 Losers From the Democratic Debate
     
-*   _Byron York_: Partisan Impeachment: How the GOP Got to Zero Votes
+*   _Susan Crabtree_: Buttigieg Takes Fire But Also Lobs It Back
     
-*   _Matt Taibbi_: 5 Questions Remaining After Release of Horowitz Report
+*   _Victor Davis Hanson_: Obama's Lying Intel Chiefs and Our Partisan News Media
     
-*   _Susan Crabtree_: Amid FISA Scrutiny, Critics Warn of FBI Briefing 'Subterfuge'
+*   _Michael Stern_: Trump Was Unfit to Be President From the Start
     
-*   _Ryan Heath_: Is Pete Buttigieg the Next Emmanuel Macron?
+*   _Christopher Bedford_: Why Impeachment Is a Massive Blunder for Pelosi
     
-*   _Philip Wegmann_: Dem Primary Debate Audience Has Dwindled
+*   _Caygle &. Bresnahan_: Pelosi: 'I'm Never Afraid and I'm Rarely Surprised'
     
-*   _Matt Seaton_: The Strange Death of Social-Democratic England
+*   _Robert Merry_: Trump, Johnson &. Conservative Populism's Revolution
     
-*   _Boris Johnson_: The New UK Government's Obligation Towards the People
+*   _Paul Krugman_: How Trump Lost His Trade War
     
-*   _John Cassidy_: The Republicans' Abject Submission to Trump
+*   _Andy Puzder_: Economy's Strength Is a Daunting Problem for Democrats
     
-*   _Liz Harrington_: Trump Rallies w/the People as Dems Try to Undo Their Votes
+*   _A.B. Stoddard_: 2020 Democrats Can't Ignore Opportunities in Rural America
     
-*   _Michael D'Antonio_: Trump Brought This Upon Himself
+*   _Bennett &. Berenson_: Why Impeachment Could Make Trump Stronger
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Buttigieg Takes Fire But Also Lobs It Back
+*   At California Debate, Sanders Continues His Golden State Push
+*   Barr: FBI Misconduct Cannot Be Squared With Innocent Mistakes
 *   Amid FISA Scrutiny, Critics Warn of FBI Briefing "Subterfuge"
-*   Democratic Primary Debate Audience Has Dwindled
-*   Replay: Trump Hosts "Merry Christmas" Rally in Michigan
 *   Nixon to Clinton to Trump: Insiders Recall Impeachments Past
-*   Jobs, Jobs, Jobs: Trump's Ticket to Defeating the Democrats?
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,6 +252,9 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve50
+    *   Disapprove48Approve +2
 *   Iowa Democratic Presidential CaucusIowa State University
     *   Buttigieg24
     *   Sanders21
@@ -293,16 +296,13 @@ Latest PollsAll Polls
     *   Castro1
     *   Bennet0
     *   Delaney0Biden +7
-*   President Trump Job ApprovalNBC News/Wall St. Jrnl
-    *   Approve44
-    *   Disapprove54Disapprove +10
 
 More Latest Polls In The News
 
-*   Biden: If Anyone Has A Reason To Be Angry With Republicans, It's Me For The Way They've Attacked My Son
+*   AG Barr: FBI Misconduct That Involves Bad Motive Cannot Be Squared With Innocent Mistakes
+*   Biden: If Anyone Has A Reason To Be Angry With Republicans It's Me For The Way They've Attacked My Son
 *   Buttigieg vs. Warren on "Wine Cave" Fundraiser: You're "Issuing Purity Tests You Cannot Yourself Pass"
-*   Warren: Economists Who Say My Tax Plan Would Stifle Growth Are "Just Wrong"
-*   Yang: Dems Are "Obsessed With Impeachment" And Ignoring Problems That Got Trump Elected
+*   Biden vs. Sanders on M4A: Idea That You're Going To Convince Middle Class To Increase Taxes Preposterous
 *   Chuck Todd: "Bizarre" To Think Trump Is Getting Cheers At Rally On The Same Night He's Getting Impeached
 
 *   Politics
