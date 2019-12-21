@@ -133,6 +133,8 @@ About us
 *   Affiliate Program
 *   Student Discount
 
+Download our mobile apps
+
 Copyright © 2005—2019 HMA!. All Rights Reserved
 
 This might suit you better
