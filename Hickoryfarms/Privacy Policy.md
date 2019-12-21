@@ -91,9 +91,9 @@
     *   Office Gift BasketsMost Popular Premium Wine Gifts
 *   Sale
     View All Categories Shop by Category*   Holiday Savings
-    *   2-Day Shipping Savings
+    *   Next-Day Shipping Savings
 
-1.800.753.8558 Business Gifts Hurry! 2-day shipping is $10 on select gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
+1.800.753.8558 Business Gifts There's still time to get gifts delivered for Christmas! - Get $25 next-day shipping on select gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
 
 *   Gift Baskets
     
@@ -188,7 +188,7 @@
     *   Office Gift BasketsMost Popular Premium Wine Gifts
 *   Sale
     View All Categories Shop by Category*   Holiday Savings
-    *   2-Day Shipping Savings
+    *   Next-Day Shipping Savings
 
 1.800.753.8558 Business Gifts
 
@@ -323,4 +323,4 @@ Find A Store
 
 *   Find A Store
 
-© 2019 All Rights Reserved Privacy Policy Terms Of Use Site Map Compliance
+© 2019 All Rights Reserved Privacy Policy Terms Of Use Site Map Compliance Play IconFeedback
