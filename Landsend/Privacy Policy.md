@@ -36,11 +36,12 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 50% off full-price styles. free shipping on orders of $75, plus most orders upgraded for Christmas delivery!
+Save up to 60% on sale &. clearance styles. 40% off full-price styles!
 
-code: CHORUS pin: PROMOTION DETAILS
+code: SLEIGH pin: PROMOTION DETAILS
 
-Today is the last day to order with standard shipping for Christmas Delivery (free on orders of merchandise over $75). DETAILS Customer Service Menu
+Order by 12/22 to receive by Christmas using express UPS DETAILS  
+Last minute gift? Find your Lands' End store Customer Service Menu
 
 Customer Service
 
