@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   Design and Web team summary – 20 December 2019
+*   ROS-Industrial – Canonical
 *   OpenStack and Kubernetes architecture on rails with Canonical and Dell EMC
 *   Building a C snap by example
 *   How to build ROS 2 Eloquent Snaps
-*   Building a Rust snap by Example
-*   Juju 2.7: Enhanced k8s experience, improved networking and more
 
 *    ›
