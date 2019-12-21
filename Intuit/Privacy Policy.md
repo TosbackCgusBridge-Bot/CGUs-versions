@@ -36,7 +36,7 @@ Near YouFind a StoreBack12.99 -14.99 EA.Worthington sweater | select styles als
 25% OFFPaw Patrol jet | **sale $44.99** | reg. $59.99 Excluded from coupons.  
 49.99Victrola Bluetooth suitcase turntable select styles | reg. $89 Excluded from coupons.  
 99.99Brookstone PhotoShare Friends &. Family 8" digital frame | reg. $219 Excluded from coupons.   
-14.99 EA.Tzumi aqua boost Bluetooth waterproof speaker | select styles | reg. $29 Excluded from coupons.  
+39.99Singing machine carpool karaoke microphone | reg. $89 Excluded from coupons.  
 39.99Alpha gaming 3-in-1 combo pack reg. $80 Excluded from coupons.  
 SUGAR, SPICE &. DEALS SO NICEShop kitchen deals from the brands you love.  
 COZY DOWN TO THEIR MISTLETOES  
@@ -62,28 +62,28 @@ MUST-HAVE GIFTSThese delightful finds will warm the hearts of everyone on your l
 *   HAIRCARE GIFT SETS
 
 SHOP THE LOCAL LOOKJCPenney is teaming up with fashion and lifestyle influencers to bring you a curatedselection of their top picks. Check back everymonth to see new styles.JOIN IN THE FUN  
-Countdown to Christmas is on! Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 40 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+Countdown to Christmas is on!   Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 40 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
 *   LIMITED TIME SPECIAL!
     
     $25 sale
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(45)
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(50)
 *   $1104after couponwas $30 St. John's Bay Super Soft Mens Long Sleeve Flannel Shirt(135)
+*   $1699after couponwas $80 Arizona Womens Denver Wide Calf Block Heel Riding Boots(63)
 *   LIMITED TIME SPECIAL!
     
     $25 sale
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(48)
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(52)
 *   $5 sale
     
-    was $10 | 50% offSEPHORA COLLECTION Arctic Eyes Eyeshadow Palette ($35.00 value)(29)
+    was $10 | 50% offSEPHORA COLLECTION Arctic Eyes Eyeshadow Palette ($35.00 value)(30)
 *   LIMITED TIME SPECIAL!
     
     $25 sale
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver(60)
-*   $1699after couponwas $70 a.n.a Womens Alford Stacked Heel Motorcycle Boots(63)
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver(62)
 
 Shop and Save at JCPenney
 
