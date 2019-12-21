@@ -528,14 +528,14 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
 
-**HURRY! LAST DAY FOR FREE DELIVERY BY 12/24!** On Orders of $50 Learn More
+**TIME IS RUNNING OUT** Order With Overnight Shipping to Get It by 12/24 Learn More
 
-**HURRY! LAST DAY FOR FREE DELIVERY BY 12/24!**  
-On Orders of $50 Learn More
+**Order With Overnight Shipping to Get It by 12/24**  
+Learn More
 
 In Stores &. Online
 
-STARTS NOW! FOR A LIMITED TIME! TAKE 60-70% OFF EVERYTHING INCLUDING OUR BEST-SELLING JEANS &. DOORBUSTERS! Shop Girls Doorbusters Shop Girls Jeans 60% Off Shop Guys Doorbusters Shop Guys Jeans 60% Off Exclusions Apply
+FOR A LIMITED TIME! TAKE 60-70% OFF EVERYTHING INCLUDING OUR BEST-SELLING JEANS &. DOORBUSTERS! Shop Girls Doorbusters Shop Girls Jeans 60% Off Shop Guys Doorbusters Shop Guys Jeans 60% Off Exclusions Apply
 
 **TIME IS RUNNING OUT!** Free Online Order Pick Up! Get all your gifts in just a few clicks. Learn More
 
@@ -544,17 +544,6 @@ STARTS NOW! FOR A LIMITED TIME! TAKE 60-70% OFF EVERYTHING INCLUDING OUR BEST-SE
 Holiday Shipping Dates
 
 Guaranteed To Get There by 12/24!
-
-DEC 19
-
-**Last Day For  
-Ground Shipping**
-
-**Last Day For  
-Ground Ship**
-
-Place Order by  
-11:59 pm EST\*
 
 DEC 20
 
@@ -577,6 +566,17 @@ Overnight Ship**
 
 Place Order by  
 1:30 pm EST\*
+
+Free Order Pick Up!
+
+Choose **In Store  
+Pick Up** by Dec 23
+
+Choose **In Store  
+Pick Up** by Dec 23
+
+Place Order by  
+11:59 pm EST\*
 
 Learn More
 
