@@ -342,8 +342,6 @@ Double up on savings! Get an extra 25% off, 33% off, or 50% off!
 
 SearchSubmitPrivacy &. Security  
 
-**Buckle Privacy &. Security Policy**
-
 Buckle cares about the privacy of our guests. Our goal is to provide the best shopping experience possible for you, and we strive to achieve that goal through our various shopping channels, including in-store, online, mobile and via telephone. This Privacy &. Security Policy (“Policy”) describes the information we collect about you and what we do with it. By visiting a store or buckle.com, downloading Buckle’s mobile application or calling Guest Services, you are accepting the practices described in this Policy.
 
 **What We Collect**
