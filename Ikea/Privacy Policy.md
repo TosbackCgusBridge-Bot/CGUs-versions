@@ -325,7 +325,7 @@ Search for
 *   categories
 *   content
 
-Oops! Something went wrong :(
+Oops! Something went wrong.
 
 The page you are looking for can't be found.
 
