@@ -212,23 +212,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Maze behind Pensacola ransomware attack
-    *   2020 Predictions: Election Security
-    *   Is 5G the security silver bullet for system integrators in the West?
-    *   It’s a trap! Cybercriminals use Star Wars: Rise of Skywalker as bait
-    *   Devin Nunes' cow Twitter account owner should remain anonymous, ACLU says
-    
-    *   The silent rise of cryptojacking
-    *   SC Media’s 2019 Innovators and Hall of Fame
-    *   Open dark web database exposes info on 267 million Facebook
-    *   It’s a trap! Cybercriminals use Star Wars: Rise of Skywalker as bait
+    *   Dread Zeppelin: Ransomware targets health care and IT sectors in U.S., Europe
+    *   WordPress patches four security vulnerabilities
+    *   2019 Tech advances
     *   Secret court judge orders FBI to reform FISA process
+    *   RDP vulnerabilities highlight need for zero trust access management
     
-    *   Open dark web database exposes info on 267 million Facebook
+    *   Maze ransomware possibly behind Southwire attack
+    *   2019's weird and wonderful news
+    *   Maze behind Pensacola ransomware attack
+    *   A hard truth: The lessons we never learn during National Cybersecurity Awareness Month – but should
     *   Multiple-malware dropper ‘Legion Loader’ dissected
-    *   It’s a trap! Cybercriminals use Star Wars: Rise of Skywalker as bait
-    *   Dark Overlord member extradited to the U.S., pleads not guilty plea
-    *   Open database exposes 26,000 Honda Motors customers
+    
+    *   Wawa POS system compromised for 10 months, cybersecurity pros weigh in
+    *   Drupal’s Archive Tar patches multiple crititical vulnerabilities
+    *   Cybersecurity takes the stage
+    *   2019 Tech advances
+    *   2019's weird and wonderful news
 
 Back to Top
 
