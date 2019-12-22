@@ -23,7 +23,7 @@ Shop Departments
     *   Same Day Pickup
     *   Weekly Ad
 
-Near YouFind a StoreBack12.99 -14.99 EA.Worthington sweater | select styles also available in petites’ sizes reg. $32 ea.  
+Near YouFind a StoreBack COUNTDOWN TO CHRISTMASENDS IN72HOURS 40MINS 53SECS \*Offer ends 12/24/1912.99 -14.99 EA.Worthington sweater | select styles also available in petites’ sizes reg. $32 ea.  
 9.99 EA.St. John’s Bay Active 1/4-zip fleece select styles | reg. $27 ea.  
 19.99Women’s boots select styles | reg. $60-$90  
 7.99 EA.a.n.a tee | select styles also available in petites’ sizes reg. $19-$22 ea.  
@@ -68,14 +68,14 @@ Countdown to Christmas is on!   Show off your #AllAtJCP styleView GalleryMedia
     
     $25 sale
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(50)
-*   $1104after couponwas $30 St. John's Bay Super Soft Mens Long Sleeve Flannel Shirt(135)
-*   $1699after couponwas $80 Arizona Womens Denver Wide Calf Block Heel Riding Boots(63)
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(51)
+*   $1104after couponwas $30 St. John's Bay Super Soft Mens Long Sleeve Flannel Shirt(151)
+*   $1699after couponwas $80 Arizona Womens Denver Wide Calf Block Heel Riding Boots(66)
 *   LIMITED TIME SPECIAL!
     
     $25 sale
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(52)
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(56)
 *   $5 sale
     
     was $10 | 50% offSEPHORA COLLECTION Arctic Eyes Eyeshadow Palette ($35.00 value)(30)
@@ -83,7 +83,7 @@ Countdown to Christmas is on!   Show off your #AllAtJCP styleView GalleryMedia
     
     $25 sale
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver(62)
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver(63)
 
 Shop and Save at JCPenney
 
