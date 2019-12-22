@@ -40,8 +40,7 @@ Save up to 60% on sale &. clearance styles. 40% off full-price styles!
 
 code: SLEIGH pin: PROMOTION DETAILS
 
-Order by 12/22 to receive by Christmas using express UPS DETAILS  
-Last minute gift? Find your Lands' End store Customer Service Menu
+Customer Service Menu
 
 Customer Service
 
