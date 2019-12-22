@@ -12,31 +12,31 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1163 games
-*   Most Popular Games 20201 games
+*   Best of new games 1172 games
+*   Most Popular Games 20206 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,161 games
-*   Driving &. Racing Games 6,218 games
+*   Games for girls 24,163 games
+*   Driving &. Racing Games 6,219 games
 *   Strategy &. RPG Games 3,639 games
-*   Management Games 4,248 games
-*   Thinking Games 12,436 games
-*   Action &. Adventure Games 14,718 games
-*   Sports Games 3,281 games
-*   Shooting Games 8,968 games
+*   Management Games 4,249 games
+*   Thinking Games 12,438 games
+*   Action &. Adventure Games 14,722 games
+*   Sports Games 3,280 games
+*   Shooting Games 8,969 games
 *   Fighting Games 2,091 games
-*   Skill Games 10,853 games
-*   Arcade &. Classic Games 8,648 games
-*   Fun &. Crazy Games 4,775 games
+*   Skill Games 10,857 games
+*   Arcade &. Classic Games 8,656 games
+*   Fun &. Crazy Games 4,777 games
 
 Play with friends  
 Powered by Y8 Account 131 Y8 Multiplayer Games 2,164 Y8 High Score Games 1,207 Y8 Achievements Games 850 Y8 Screenshots Games 1,575 Y8 Online Save Games 3,290 All Y8 Games Games Last Highscore:
 
-**45,577** points on Moto X3M 6: Spooky Land by Hailey
+**951** points on TRAFFIC Bike Racing by Natthawut
 
 Help us improve Bad translation? Social
 
