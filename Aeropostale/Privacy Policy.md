@@ -141,10 +141,8 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Low Rise Jeans
 *   Curvy Jeans
 *   Cheeky Jeans
-*   Overalls
 *   Bootcut Jeans
 *   Skinny Jeans
-*   Wide Leg Jeans
 *   Boyfriend Jeans
 *   Mom Jeans
 *   Premium Seriously Stretchy
@@ -164,7 +162,6 @@ Close submenu ( Guys Jeans ) Guys Jeans
 *   Loose Jeans
 *   Dad Jeans
 *   Relaxed Jeans
-*   Carpenter Jeans
 *   Real Denim
 *   Flex Effects
 *   Max Stretch
@@ -421,10 +418,8 @@ Menu Find a Store Aeropostale
         *   Low Rise Jeans
         *   Curvy Jeans
         *   Cheeky Jeans
-        *   Overalls
         *   Bootcut Jeans
         *   Skinny Jeans
-        *   Wide Leg Jeans
         *   Boyfriend Jeans
         *   Mom Jeans
         *   Premium Seriously Stretchy
@@ -443,7 +438,6 @@ Menu Find a Store Aeropostale
         *   Loose Jeans
         *   Dad Jeans
         *   Relaxed Jeans
-        *   Carpenter Jeans
         *   Real Denim
         *   Flex Effects
         *   Max Stretch
