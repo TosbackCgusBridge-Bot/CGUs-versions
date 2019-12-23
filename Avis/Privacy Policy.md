@@ -9,10 +9,6 @@ Enable Location
 
 **Location services must be enabled to choose your car. Please check your browser's setting.**
 
-Maintenance updates are in progress. Reservations are not affected, however, some functionality may not be available during this time.
-
-Maintenance updates are in progress. Reservations are not affected, however, some functionality may not be available during this time.
-
 Toggle navigation Menu
 
 *   Avis Preferred
