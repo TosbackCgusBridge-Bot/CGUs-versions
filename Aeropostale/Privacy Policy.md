@@ -681,14 +681,14 @@ Girls Puffer Vests Girls Puffer Vests Next
 
 In Stores &. Online For a Limited Time!
 
-60% OFF JEANS With 21 fits and 94 washes to choose from,  
+60% OFF JEANS 60% OFF JEANS With 21 fits and 94 washes to choose from,  
 we have the perfect pair of jeans  
 for you and everyone on your list. Shop Girls Jeans **60% OFF**  
 Shop Guys Jeans **60% OFF**
 
 In Stores &. Online
 
-DOORBUSTERS PUFFERS
+DOORBUSTER PUFFERS
 
 Premium insulation, next level warmth &
 
@@ -722,13 +722,13 @@ Guys Sleeves Next
 
 In Stores &. Online
 
-Doorbusters Graphic Tees Doorbusters Graphics Our absurdly soft &. stylish tees are  
+Doorbuster Graphic Tees Doorbuster Graphics Our absurdly soft &. stylish tees are  
 great to gift &. get. Girls Graphics **$5.87 &. Up**  
 Guys Graphics **$5.87 &. Up**
 
 In Stores &. Online
 
-DOORBUSTERS HOODIES
+DOORBUSTER HOODIES DOORBUSTER HOODIES
 
 So soft and cozy, you’ll want to wear them out (and in).
 
