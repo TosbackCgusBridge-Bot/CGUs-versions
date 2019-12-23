@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksShhh! Don't Tell. There's a Secret Apartment Atop the Eiffel Tower1STWho Was the World's First King?2NDWhy Does the 'Dirty Dancing' Lake Keep Draining?3RDA Heavenly Angels Quiz4THSoGoodly | SponsoredThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly | SponsoredWorldemand | Sponsored17+ Actors You Didn't Know Were Gay - No. 8 Will Shock WomenWorldemand | SponsoredSenior Living/Assisted Living | SponsoredLuxury Senior Living Near Aurora Is Actually Affordable. Search For Senior Living CommunitiesSenior Living/Assisted Living | SponsoredAuto Overload | Sponsored20 Photos Captured At Airports That Will Make You Laugh Out LoudAuto Overload | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksClosing Your Bedroom Door at Night Could Save Your Life1STWho Was the World's First King?2NDWhat’s the Difference Between a College and a University?3RDBalut Is the Asian Street Food You Gotta Eat to Believe4THSoGoodly | SponsoredThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredKelley Blue Book | Sponsored10 Most Fun SUVsKelley Blue Book | SponsoredAuto Overload | Sponsored20 Photos Captured At Airports That Will Make You Laugh Out LoudAuto Overload | Sponsored
 
 Advertisement
 
-culture - peopleThere's a Pooping Man in the Catalan Nativity SceneBY Nathan Chandlerhome &. garden - home improvementClosing Your Bedroom Door at Night Could Save Your LifeBY Carrie Whitney, Ph.D.animals - wild animalsGoofy-looking Emus Are Leggy, Flightless and Very FriendlyBY Patty RasmussenChevrolet Silverado | Search Ads | SponsoredThe New Chevrolet Silverado Is Simply Astonishing!Chevrolet Silverado | Search Ads | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | Sponsored
+home &. garden - appliancesWhat's the Difference Between a Pressure Cooker and an Instant Pot?BY Jeremy Glassculture - peopleThere's a Pooping Man in the Catalan Nativity SceneBY Nathan Chandlerlifestyle - foodTruffles: The Rarest and Most Expensive Fungi in the WorldBY Michelle KonstantinovskyChevrolet Silverado | Search Ads | SponsoredThe New Chevrolet Silverado Is Simply Astonishing!Chevrolet Silverado | Search Ads | SponsoredCars | Sponsored8 Incredible New 2020 Cars Under 20K! Search For Luxury CarsCars | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksExotic or Exploited? The Controversial Savannah CatHow Dangerous Is the Beaver?How to Fake a GPS Location on Your PhoneTruffles: The Rarest and Most Expensive Fungi in the WorldWhat Is Planck's Constant, and Why Does the Universe Depend on It?'Franglais' on the Rise, Say French Language Watchdogsby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksHow Dangerous Is the Beaver?How to Fake a GPS Location on Your PhoneShhh! Don't Tell. There's a Secret Apartment Atop the Eiffel TowerExotic or Exploited? The Controversial Savannah CatIs Holland the Same as the Netherlands?9 Big Hairy Facts About Gorillasby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Shhh! Don't Tell. There's a Secret Apartment Atop the Eiffel TowerRead Next StorySoGoodlyThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly|SponsoredSponsoredRead Next StoryWorldemand17+ Actors You Didn't Know Were Gay - No. 8 Will Shock WomenWorldemand|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Closing Your Bedroom Door at Night Could Save Your LifeRead Next StorySoGoodlyThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly|SponsoredSponsoredRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next Story
