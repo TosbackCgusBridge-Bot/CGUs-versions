@@ -232,7 +232,7 @@ Lenovo Explore Close
         
         JOIN FOR FREE
         
-        Businesses get free Think Premier Support and Lenovo's best business pricing, guaranteed.
+        Businesses save up to 5% on Think and get Lenovo's best business pricing, guaranteed.
         
     *   Support
         
