@@ -9,18 +9,43 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
+    *   Warm Up: Jackets, Sweaters &. More Up to 75% Off
+    *   All Under $50: On-Trend Bags
+    *   Designer Coats Up to 75% Off
+    *   Sunday Style Steals Up to 80% Off
+    *   Diamonds, Gems &. More Up to 80% Off
+    *   1000-1200 Thread Count Sheet Set Blowout
+    *   Seasonal Savings: Booties Up to 60% Off
+    *   Final Few: Men's Style Blowout
+    *   Men's Shoe Steals Up to 70% Off
+    *   Down-Alternative Comforters Up to 75% Off
+    *   Holiday Decor Blowout: Gnomes &. Ornaments
+    *   Weighted Blanket Blowout
+    *   Alo Yoga
+    *   Designer Bags ft. Dolce &. Gabbana Up to 50% Off
+    *   NANETTE nanette lepore Up to 70% Off
+    *   Comfort Boots &. More ft. Born from $40
+    *   Brooks Brothers Suiting &. More Starting at $50
+    *   Resort-Ready Dresses &. Skirts
+    *   Blu Pepper &. More Starting at $20
+    *   Roberto Cavalli
+    *   Aldo Men
+    *   Free Shipping: Bold Canvas Wall Art
+    *   Fromm Beauty Supplies Starting at $10
+    *   Gear Up for Baby: Diaper Bags, Blankets &. More
+    *   Rock Revival &. More
+    *   HUE Incl. Plus Under $30
     *   Max Studio Incl. Plus
-    *   Cole Haan Up to 60% Off
-    *   Cole Haan Men
     *   Cole Haan Men's Clothing &. More Up to 75% Off
+    *   Cole Haan Men
     *   Cole Haan Coats Up to 70% Off
+    *   Cole Haan Up to 60% Off
     *   Dresses from Go Couture &. More Under $75
+    
     *   Denim &. More Under $30
     *   Predire Paris Luxury Skin Care
     *   On the Road &. More from $20
     *   Cozy Socks for Her
-    *   Jessica Simpson Bags Up to 70% Off
-    *   Theory Men Up to 70% Off
     *   Lorenzo Uomo Up to 60% Off
     *   Giorgio Brutini
     *   Shape Your Season: Shapewear Under $40
@@ -37,7 +62,6 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   New Year's Ready: Party Attire for Him
     *   New Year's Ready: Party Shoes
     *   Wacoal Up to 55% Off
-    
     *   James Perse Up to 65% Off
     *   Designer Spotlight ft. Paul &. Joe Sister
     *   Schutz Up to 60% Off
@@ -50,6 +74,7 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Ted Baker London Men's Shoes
     *   Revive Your Skin: Body Moisturizers &. Face Masks
     *   Sneakers for Every Style Up to 60% Off
+    
     *   14K Gold Jewelry &. More Under $100
     *   CALPAK Up to 55% Off
     *   Holiday Storage Solutions from $15
@@ -57,57 +82,57 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Character Favorites: Star Wars, Frozen &. More
     *   Italian Leather ft. Isabella Rhea Up to 70% Off
     *   Godefroy: Instant Eyebrow Tint
-    *   Retro Turntables, Speakers &. More
+    *   Jessica Simpson Bags Up to 70% Off
     *   Hudson Jeans Up to 55% Off
     *   Vitamin A Swim
-    *   Z By Zella Starting at $15
-    *   Men's Active ft. Z By Zella
-    *   Saachi Leather &. Gemstone Jewelry from $20
     *   Winter Skin Care Essentials
-    *   Sweater Weather: Men's Pullovers &. More
     *   Hera Hair Tools &. More Up to 90% Off
-    
     *   Crocs Men
     *   Z By Zella Girls
     *   Palettes &. More ft. Moira Cosmetics
     *   Modern Fiction Up to 60% Off
     *   Trays &. Trinkets from $10
     *   Eddie Bauer Bedding Up to 55% Off
-    *   Frye Men
     *   Estee Lauder &. Lancome Starting at $10
     *   All Under $50: philosophy Gift Sets &. More
-    *   Hybrid Green Label Up to 75% Off
     *   Free Shipping: Donna Salyers' Fabulous Faux Furs
     *   Serene Home: Diffusers Starting at $15
     *   Keep It Cool: Insulated Stainless Steel Bottles
-    *   Cutlery Sets &. More Up to 45% Off
-    *   What She Really Wants: Shiseido Ginza Tokyo
+    *   Retro Turntables, Speakers &. More
     *   Boho-Chic Decor from $20
-    *   Sencor Kitchen Gadgets
-    *   Leveret Kids' Pajamas
-    *   Burberry Fragrances Up to 50% Off
     *   Stocking Stuffers from $15
     *   Eye-Catching Wall Art Up to 65% Off
-    *   Home Fragrances from $13
-    *   Holiday Host: Barware Starting at $15
-    *   Date Night: Dresses Under $80
-    *   Jumpsuits &. More ft. Calvin Klein Incl. Plus &. Petites
-    *   ARATTA Up to 70% Off
-    *   Can't-Resist Cashmere Up to 65% Off
-    *   Lucky Brand Incl. Plus
+    *   Sencor Kitchen Gadgets
+    *   Leveret Kids' Pajamas
+    *   Cutlery Sets &. More Up to 45% Off
 *   WomenShop Sale Events
     
+    *   Warm Up: Jackets, Sweaters &. More Up to 75% Off
+    *   All Under $50: On-Trend Bags
+    *   Designer Coats Up to 75% Off
+    *   Sunday Style Steals Up to 80% Off
+    *   Diamonds, Gems &. More Up to 80% Off
+    *   Seasonal Savings: Booties Up to 60% Off
+    *   Alo Yoga
+    *   Designer Bags ft. Dolce &. Gabbana Up to 50% Off
+    *   NANETTE nanette lepore Up to 70% Off
+    *   Comfort Boots &. More ft. Born from $40
+    *   Resort-Ready Dresses &. Skirts
+    *   Blu Pepper &. More Starting at $20
+    *   Fromm Beauty Supplies Starting at $10
+    *   Rock Revival &. More
+    *   HUE Incl. Plus Under $30
     *   Max Studio Incl. Plus
-    *   Cole Haan Up to 60% Off
     *   Cole Haan Coats Up to 70% Off
+    *   Cole Haan Up to 60% Off
     *   Dresses from Go Couture &. More Under $75
     *   Denim &. More Under $30
     *   Predire Paris Luxury Skin Care
     *   On the Road &. More from $20
     *   Cozy Socks for Her
-    *   Jessica Simpson Bags Up to 70% Off
     *   Shape Your Season: Shapewear Under $40
     *   Stay Cozy: Boots &. Slippers Up to 50% Off
+    
     *   Fresh Finds: Booties &. More Up to 50% Off
     *   New Year's Ready: Party Dresses
     *   New Year's Ready: Party Shoes
@@ -119,56 +144,47 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Cold-Weather Coats ft. NOIZE Incl. Plus
     *   Naturalizer &. SOUL Naturalizer Up to 50% Off
     *   Dress Forum
-    
     *   Revive Your Skin: Body Moisturizers &. Face Masks
     *   Sneakers for Every Style Up to 60% Off
     *   14K Gold Jewelry &. More Under $100
     *   CALPAK Up to 55% Off
     *   Italian Leather ft. Isabella Rhea Up to 70% Off
     *   Godefroy: Instant Eyebrow Tint
+    *   Jessica Simpson Bags Up to 70% Off
     *   Vitamin A Swim
-    *   Z By Zella Starting at $15
-    *   Saachi Leather &. Gemstone Jewelry from $20
     *   Winter Skin Care Essentials
     *   Hera Hair Tools &. More Up to 90% Off
     *   Palettes &. More ft. Moira Cosmetics
     *   Estee Lauder &. Lancome Starting at $10
     *   All Under $50: philosophy Gift Sets &. More
-    *   What She Really Wants: Shiseido Ginza Tokyo
-    *   Burberry Fragrances Up to 50% Off
-    *   Date Night: Dresses Under $80
-    *   Jumpsuits &. More ft. Calvin Klein Incl. Plus &. Petites
-    *   ARATTA Up to 70% Off
-    *   Can't-Resist Cashmere Up to 65% Off
-    *   Lucky Brand Incl. Plus
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
-    *   Lingerie &. Shapewear
     *   Handbags
+    *   Lingerie &. Shapewear
+    *   Jewelry
     *   Accessories
 *   MenShop Sale Events
     
-    *   Cole Haan Men
+    *   Final Few: Men's Style Blowout
+    *   Men's Shoe Steals Up to 70% Off
+    *   Brooks Brothers Suiting &. More Starting at $50
+    *   Roberto Cavalli
+    *   Aldo Men
     *   Cole Haan Men's Clothing &. More Up to 75% Off
-    *   Theory Men Up to 70% Off
+    *   Cole Haan Men
     *   Lorenzo Uomo Up to 60% Off
     *   Giorgio Brutini
+    
     *   New Year's Ready: Men's Party Shoes
     *   New Year's Ready: Party Attire for Him
     *   Bonobos
     *   Weatherproof Up to 60% Off
-    
     *   Ted Baker London Men's Shoes
     *   CALPAK Up to 55% Off
-    *   Men's Active ft. Z By Zella
-    *   Sweater Weather: Men's Pullovers &. More
     *   Crocs Men
     *   Modern Fiction Up to 60% Off
-    *   Frye Men
-    *   Hybrid Green Label Up to 75% Off
     
     Shop By Category
     *   Clothing
@@ -176,6 +192,7 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Gear Up for Baby: Diaper Bags, Blankets &. More
     *   Stay Cozy: Sweaters &. Hoodies Up to 60% Off
     *   Lucky Brand Kids &. More
     *   New Year's Ready: Kids' Party Clothes &. Shoes
@@ -194,42 +211,47 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Girls' Shoes
     *   Toy Shop
     *   Boys' Shoes
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   1000-1200 Thread Count Sheet Set Blowout
+    *   Down-Alternative Comforters Up to 75% Off
+    *   Holiday Decor Blowout: Gnomes &. Ornaments
+    *   Weighted Blanket Blowout
+    *   Free Shipping: Bold Canvas Wall Art
     *   Great Greenery: Faux Succulents Starting at $15
     *   Professional Garment Steamers Up to 65% Off
     *   Luxe Bedding Sets Up to 45% Off
     *   CALPAK Up to 55% Off
     *   Holiday Storage Solutions from $15
     *   Get the Look: Bold Art Prints Up to 60% Off
-    *   Retro Turntables, Speakers &. More
+    
     *   Trays &. Trinkets from $10
     *   Eddie Bauer Bedding Up to 55% Off
     *   Free Shipping: Donna Salyers' Fabulous Faux Furs
-    
     *   Serene Home: Diffusers Starting at $15
     *   Keep It Cool: Insulated Stainless Steel Bottles
-    *   Cutlery Sets &. More Up to 45% Off
+    *   Retro Turntables, Speakers &. More
     *   Boho-Chic Decor from $20
-    *   Sencor Kitchen Gadgets
     *   Stocking Stuffers from $15
     *   Eye-Catching Wall Art Up to 65% Off
-    *   Home Fragrances from $13
-    *   Holiday Host: Barware Starting at $15
+    *   Sencor Kitchen Gadgets
+    *   Cutlery Sets &. More Up to 45% Off
     
     Shop By Category
     *   Home Decor
-    *   Kitchen &. Tabletop
     *   Bedding
+    *   Kitchen &. Tabletop
     *   Electronic &. Tech Accessories
     *   Cleaning &. Organization
     *   Luggage &. Travel
     *   Holiday Decorations
-    *   Outdoor Living
     *   Rugs &. Doormats
     *   Bath
+    *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Fromm Beauty Supplies Starting at $10
     *   Predire Paris Luxury Skin Care
     *   Revive Your Skin: Body Moisturizers &. Face Masks
     *   Godefroy: Instant Eyebrow Tint
@@ -238,15 +260,13 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Palettes &. More ft. Moira Cosmetics
     *   Estee Lauder &. Lancome Starting at $10
     *   All Under $50: philosophy Gift Sets &. More
-    *   What She Really Wants: Shiseido Ginza Tokyo
-    *   Burberry Fragrances Up to 50% Off
     
     Shop By Category
     *   Makeup
     *   Skin Care
-    *   Fragrance
-    *   Bath &. Body
     *   Hair Care
+    *   Bath &. Body
+    *   Fragrance
     *   Tools &. Accessories
     *   Nails
 
