@@ -93,7 +93,7 @@
     View All Categories Shop by Category*   Holiday Savings
     *   Next-Day Shipping Savings
 
-1.800.753.8558 Business Gifts There's still time to get gifts delivered for Christmas! - Get $25 next-day shipping on select gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
+1.800.753.8558 Business Gifts There's still time to get gifts delivered for Christmas! - Get $15 next-day shipping on select gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
 
 *   Gift Baskets
     
