@@ -40,7 +40,7 @@ Date Range Date Range content loading
     
     View Financial Identifier Requests
     
-    Financial Identifier Requests - Worldwide Report Period Requests Received Requests where Data Provided Percentage of Requests where Data Provided 2018 H2 4,626 3,547 77% 2018 H1 3,973 3,185 80% 2017 H2 3,101 2,636 85% 2017 H1 2,690 2,182 81% 2016 H2 2,392 1,821 76% 2016 H1 -Not Applicable -Not Applicable -Not Applicable 2015 H2 -Not Applicable -Not Applicable -Not Applicable 2015 H1 -Not Applicable -Not Applicable -Not Applicable 2014 H2 -Not Applicable -Not Applicable -Not Applicable 2014 H1 -Not Applicable -Not Applicable -Not Applicable 2013 H2 -Not Applicable -Not Applicable -Not Applicable 2013 H1 -Not Applicable -Not Applicable -Not Applicable
+    Financial Identifier Requests - Worldwide Report Period Requests Received Requests where Data Provided Percentage of Requests where Data Provided 2019 H1 4,664 3,432 74% 2018 H2 4,626 3,547 77% 2018 H1 3,973 3,185 80% 2017 H2 3,101 2,636 85% 2017 H1 2,690 2,182 81% 2016 H2 2,392 1,821 76% 2016 H1 -Not Applicable -Not Applicable -Not Applicable 2015 H2 -Not Applicable -Not Applicable -Not Applicable 2015 H1 -Not Applicable -Not Applicable -Not Applicable 2014 H2 -Not Applicable -Not Applicable -Not Applicable 2014 H1 -Not Applicable -Not Applicable -Not Applicable 2013 H2 -Not Applicable -Not Applicable -Not Applicable 2013 H1 -Not Applicable -Not Applicable -Not Applicable
 *   Account
     
     Account requests are based on account identifiers such as an Apple ID or email address.  
@@ -61,7 +61,7 @@ Date Range Date Range content loading
     
     View Account Preservation Requests
     
-    Account Preservation Requests - Worldwide Report Period Requests Received Accounts where Data Preserved 2018 H2 1,823 3,963 2018 H1 1,579 2,802 2017 H2 1,214 1,852 2017 H1 1,108 1,648 2016 H2 801 1,096 2016 H1 -Not Applicable -Not Applicable 2015 H2 -Not Applicable -Not Applicable 2015 H1 -Not Applicable -Not Applicable 2014 H2 -Not Applicable -Not Applicable 2014 H1 -Not Applicable -Not Applicable 2013 H2 -Not Applicable -Not Applicable 2013 H1 -Not Applicable -Not Applicable
+    Account Preservation Requests - Worldwide Report Period Requests Received Accounts where Data Preserved 2019 H1 2,616 4,749 2018 H2 1,823 3,963 2018 H1 1,579 2,802 2017 H2 1,214 1,852 2017 H1 1,108 1,648 2016 H2 801 1,096 2016 H1 -Not Applicable -Not Applicable 2015 H2 -Not Applicable -Not Applicable 2015 H1 -Not Applicable -Not Applicable 2014 H2 -Not Applicable -Not Applicable 2014 H1 -Not Applicable -Not Applicable 2013 H2 -Not Applicable -Not Applicable 2013 H1 -Not Applicable -Not Applicable
 *   Account Restriction/Deletion
     
     Account Restriction/Deletion requests ask Apple to restrict or delete a customer’s account, for example, law enforcement determines an account was used unlawfully and obtains a court order to restrict or delete the account.
@@ -72,7 +72,7 @@ Date Range Date Range content loading
     
     View Account Restriction/Deletion Requests
     
-    Account Restriction/Deletion Requests - Worldwide Report Period Requests Received Requests where Account Restricted Requests where Account Deleted 2018 H2 15 2 2 2018 H1 5 3 2 2017 H2 7 7 0 2017 H1 14 14 0 2016 H2 14 1 5 2016 H1 3 - 3 2015 H2 3 - 3 2015 H1 1 - 0 2014 H2 2 - 0 2014 H1 -Not Applicable -Not Applicable -Not Applicable 2013 H2 -Not Applicable -Not Applicable -Not Applicable 2013 H1 -Not Applicable -Not Applicable -Not Applicable
+    Account Restriction/Deletion Requests - Worldwide Report Period Requests Received Requests where Account Restricted Requests where Account Deleted 2019 H1 12 8 3 2018 H2 15 2 2 2018 H1 5 3 2 2017 H2 7 7 0 2017 H1 14 14 0 2016 H2 14 1 5 2016 H1 3 - 3 2015 H2 3 - 3 2015 H1 1 - 0 2014 H2 2 - 0 2014 H1 -Not Applicable -Not Applicable -Not Applicable 2013 H2 -Not Applicable -Not Applicable -Not Applicable 2013 H1 -Not Applicable -Not Applicable -Not Applicable
 *   Emergency
     
     Emergency requests relate to circumstances involving imminent danger of death or serious physical injury to any person, and generally seek information regarding customers’ connections to Apple services - for example, instances where law enforcement believe a person is missing and in danger.  
@@ -91,7 +91,7 @@ Date Range Date Range content loading
     
     View U.S. National Security Requests
     
-    U.S. National Security Requests by Period Report Period Request Type Requests Received Users/Accounts 2018 H2 FISA Non-Content 0 - 499 9,000 - 9,499 2018 H2 FISA Content 0 - 499 14,000 - 14,499 2018 H2 NSLs 3 - 499 1,505 - 1,999 2018 H1 FISA Non-Content 0 - 499 7,500 - 7,999 2018 H1 FISA Content 0 - 499 13,500 - 13,999 2018 H1 NSLs 0 - 499 1,000 - 1,499 2017 H2 National Security 16,000 - 16,249 8,000 - 8,249 2017 H1 National Security 13,250 - 13,499 9,000 - 9,249 2016 H2 National Security 5,750 - 5,999 4,750 - 4,999 2016 H1 National Security 2,750 - 2,999 2,000 - 2,249 2015 H2 National Security 1,250 - 1,499 1,000 - 1,249 2015 H1 National Security 750 - 999 250 - 499 2014 H2 National Security 250 - 499 0 - 249 2014 H1 National Security 0 - 249 0 - 249 2013 H2 National Security 0 - 249 0 - 249 2013 H1 National Security 0 - 249 0 - 249
+    U.S. National Security Requests by Period Report Period Request Type Requests Received Users/Accounts 2019 H1 FISA Non-Content Legally required 6-month reporting delay Legally required 6-month reporting delay 2019 H1 FISA Content Legally required 6-month reporting delay Legally required 6-month reporting delay 2019 H1 NSLs 0 - 499 2,500 - 2,999 2018 H2 FISA Non-Content 0 - 499 9,000 - 9,499 2018 H2 FISA Content 0 - 499 14,000 - 14,499 2018 H2 NSLs 3 - 499 1,505 - 1,999 2018 H1 FISA Non-Content 0 - 499 7,500 - 7,999 2018 H1 FISA Content 0 - 499 13,500 - 13,999 2018 H1 NSLs 1 - 499 1,001 - 1,499 2017 H2 National Security 16,000 - 16,249 8,000 - 8,249 2017 H1 National Security 13,250 - 13,499 9,000 - 9,249 2016 H2 National Security 5,750 - 5,999 4,750 - 4,999 2016 H1 National Security 2,750 - 2,999 2,000 - 2,249 2015 H2 National Security 1,250 - 1,499 1,000 - 1,249 2015 H1 National Security 751 - 999 250 - 499 2014 H2 National Security 250 - 499 0 - 249 2014 H1 National Security 0 - 249 0 - 249 2013 H2 National Security 0 - 249 0 - 249 2013 H1 National Security 0 - 249 0 - 249
 *   United States Private Party
     
     U.S. Private Party (non-government) requests generally seek information about connections to Apple services, purchase transactions, or product registrations relating to an Apple customer - for example, civil or criminal litigation case proceedings where a subpoena is issued for information.
@@ -100,7 +100,7 @@ Date Range Date Range content loading
     
     View U.S. Private Party Requests
     
-    U.S. Private Party Requests by Period Report Period Requests Received Requests where Data Provided Percentage of Requests where Data Provided 2018 H2 181 53 29% 2018 H1 215 52 24% 2017 H2 183 57 31% 2017 H1 147 44 30% 2016 H2 157 41 26% 2016 H1 -Not Applicable -Not Applicable -Not Applicable 2015 H2 -Not Applicable -Not Applicable -Not Applicable 2015 H1 -Not Applicable -Not Applicable -Not Applicable 2014 H2 -Not Applicable -Not Applicable -Not Applicable 2014 H1 -Not Applicable -Not Applicable -Not Applicable 2013 H2 -Not Applicable -Not Applicable -Not Applicable 2013 H1 -Not Applicable -Not Applicable -Not Applicable
+    U.S. Private Party Requests by Period Report Period Requests Received Requests where Data Provided Percentage of Requests where Data Provided 2019 H1 243 69 28% 2018 H2 181 53 29% 2018 H1 215 52 24% 2017 H2 183 57 31% 2017 H1 147 44 30% 2016 H2 157 41 26% 2016 H1 -Not Applicable -Not Applicable -Not Applicable 2015 H2 -Not Applicable -Not Applicable -Not Applicable 2015 H1 -Not Applicable -Not Applicable -Not Applicable 2014 H2 -Not Applicable -Not Applicable -Not Applicable 2014 H1 -Not Applicable -Not Applicable -Not Applicable 2013 H2 -Not Applicable -Not Applicable -Not Applicable 2013 H1 -Not Applicable -Not Applicable -Not Applicable
 *   App Removal
     
     App removal requests ask Apple to remove an app from the App Store.  These requests can be based on alleged/suspected violations of local law and/or of App Store platform policies.  For example, law enforcement or regulatory agencies suspect an app may be unlawful or relate to/contain unlawful content, or may violate the App Store platform policies or relate to/contain content violating platform policies.  
@@ -111,7 +111,7 @@ Date Range Date Range content loading
     
     View App Removal Requests - Platform Violation
     
-    App Removal Requests - Worldwide Report Period Request Type Requests Received Requests where App Removed Apps Removed 2018 H2 Legal Violation 80 75 634 2018 H2 Platform Violation 0 0 0
+    App Removal Requests - Worldwide Report Period Request Type Requests Received Requests where App Removed Apps Removed 2019 H1 Legal Violation 70 66 217 2019 H1 Platform Violation 25 25 97 2018 H2 Legal Violation 80 75 634 2018 H2 Platform Violation 0 0 0
 
 More Information
 
