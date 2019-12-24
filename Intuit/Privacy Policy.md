@@ -1,6 +1,6 @@
-Express ShippingOrder by 12/22Enable Accessibility
+Free Shipping Over $49See DetailsEnable Accessibility
 
-*   My AccountSign InTrack MyOrders
+*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -23,20 +23,21 @@ Shop Departments
     *   Same Day Pickup
     *   Weekly Ad
 
-Near YouFind a StoreBack COUNTDOWN TO CHRISTMASENDS IN48HOURS 41MINS 27SECS \*Offer ends 12/24/1912.99 -14.99 EA.Worthington sweater | select styles also available in petites’ sizes reg. $32 ea.  
-9.99 EA.St. John’s Bay Active 1/4-zip fleece select styles | reg. $27 ea.  
-19.99Women’s boots select styles | reg. $60-$90  
-7.99 EA.a.n.a tee | select styles also available in petites’ sizes reg. $19-$22 ea.  
-9.99Men's Stafford sleep pantsselect styles | reg. $3212.99Men’s St. John’s Bay flannel shirt select styles | reg. $30  
+Near YouFind a StoreBack COUNTDOWN TO CHRISTMASENDS IN24HOURS 41MINS 26SECS \*Offer ends 12/24/1921.99a.n.a 1/4-zip sherpa or pullover select styles | reg. $44  
+19.99 EA.Women’s St. John’s Bay jeans select styles | also available in women’s plus &. petites’ sizes | reg. $44 ea.  
+19.99Women’s St. John’s Bay puffer vest select styles | also available in women’s plus | reg. $44 - $49  
+60% OFF+ EXTRA 20% OFF with JCPenney Credit Card Juniors’ outerwear | select styles **sale $14.99-$34.99** | reg. $39-$94  
+60% OFFMen’s outerwear | select styles **sale $31.99-$71.99** | reg. $80-$180  
+12.99Men’s St. John’s Bay flannel shirt select styles | reg. $30  
 19.99 EA.Guys’ Arizona flex denim select styles | reg. $42 ea.  
 14.99Men’s Xersion fleece hoodie select styles | reg. $36  
-9.99Boys’ Arizona jeans select styles | reg. $30  
-12.99Kids’ Xersion cotton fleece hoodie or pants select styles | reg. $30-$32  
-6.99Babies’ or toddlers’ Okie Dokie fleece hoodie or pants | select styles | reg. $17-$27  
-25% OFFPaw Patrol jet | **sale $44.99** | reg. $59.99 Excluded from coupons.  
+25% OFFToys | select styles reg. $9.99-$59.99 | Excluded from coupons.  
+50% OFFDisney Deluxe toys | select styles **sale $22.50-$30** | reg. $45-$60 Excluded from coupons.  
+24.99Boys’ Levi’s® jeans | select styles | reg. $48 Additional offers and coupons do not apply to Levi’s®.  
+50% OFFKids’ Xersion activewear | select styles **sale $6.99-$29.99** | reg. $14-$60  
 49.99Victrola Bluetooth suitcase turntable select styles | reg. $89 Excluded from coupons.  
-99.99Brookstone PhotoShare Friends &. Family 8" digital frame | reg. $219 Excluded from coupons.   
-39.99Singing machine carpool karaoke microphone | reg. $89 Excluded from coupons.  
+39.99Singing Machine Carpool Karaoke Microphone reg. $89 Excluded from coupons.    
+99.99Brookstone PhotoShare Friends &. Family 8" digital frame | reg. $219 Excluded from coupons.  
 39.99Alpha gaming 3-in-1 combo pack reg. $80 Excluded from coupons.  
 SUGAR, SPICE &. DEALS SO NICEShop kitchen deals from the brands you love.  
 COZY DOWN TO THEIR MISTLETOES  
@@ -68,20 +69,22 @@ Countdown to Christmas is on!   Show off your #AllAtJCP styleView GalleryMedia
     
     $25 sale
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(56)
-*   $1104after couponwas $30 St. John's Bay Super Soft Mens Long Sleeve Flannel Shirt(153)
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(59)
 *   LIMITED TIME SPECIAL!
     
     $25 sale
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(59)
-*   $1699after couponwas $80 Arizona Womens Denver Wide Calf Block Heel Riding Boots(70)
-*   $1699after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(88)
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(63)
+*   $1699after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(89)
 *   LIMITED TIME SPECIAL!
     
     $25 sale
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver(64)
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver(67)
+*   $5 sale
+    
+    was $10 | 50% offSEPHORA COLLECTION Arctic Eyes Eyeshadow Palette ($35.00 value)(30)
+*   $1699after couponwas $70 a.n.a Womens Alford Stacked Heel Motorcycle Boots(70)
 
 Shop and Save at JCPenney
 
