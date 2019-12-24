@@ -5,39 +5,44 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   Star Wars: The Rise of Skywalker (2019)
     *   Jumanji: The Next Level
     *   Frozen II
+    *   Cats (2019)
     *   Knives Out
+    *   Bombshell (2019)
     *   Richard Jewell
+    *   Queen &. Slim
     *   Black Christmas (2019)
     *   Ford v Ferrari
-    *   Queen &. Slim
     *   A Beautiful Day in the Neighborhood
-    *   Dark Waters (2019)
-    *   21 Bridges
-    *   Midway (2019)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Star Wars: The Rise of Skywalker (2019)
-    *   Cats (2019)
-    *   Dabangg 3
-    *   Only Cloud Knows
-    *   She's Missing
+    *   1917 (2019)
+    *   Little Women (2019)
+    *   Spies in Disguise
+    *   Uncut Gems
+    *   Apparition (2019)
+    *   Clemency
+    *   Ip Man 4: The Finale
+    *   Just Mercy
+    *   The Song of Names
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Spies in Disguise
-    *   Little Women (2019)
-    *   Just Mercy
-    *   1917 (2019)
     *   The Grudge (2020)
+    *   1917 (2019)
+    *   Just Mercy
     *   Like a Boss
     *   Underwater
     *   Bad Boys for Life
     *   Dolittle (2020)
+    *   The Gentlemen
+    *   The Last Full Measure
+    *   The Turning (2020)
     *   See All Coming Soon
     
     Explore More
@@ -560,7 +565,7 @@ Follow Us
 *   Fandango on Instagram
 *   Fandango on Youtube
 
-Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help Feedback My Fandango Live Chat
+Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help My Fandango Live Chat
 
 *   About Fandango
 *   Careers
