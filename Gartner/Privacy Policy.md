@@ -68,7 +68,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 528 4348 1 855 528 4348
+    1 855 452 8047 1 855 452 8047
     
 
 *   Solutions By Function
@@ -141,16 +141,16 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 528 4348 1 855 528 4348
+    1 855 452 8047 1 855 452 8047
     
 
-GARTNER PRIVACY POLICY Effective Date: October 2019
+GARTNER PRIVACY POLICY Effective Date: December 2019
 
 Gartner and its affiliates are committed to protecting your information. Please read this Privacy Policy ("**the Policy**") carefully as it sets out important information relating to how we handle your personal information.
 
 **Gartner companies issuing the Policy**
 
-In this Policy, references to "we," "us," or "Gartner" are references to Gartner Inc. and all its group companies doing business under the Gartner name listed here. Certain Gartner products and/or services which may be linked through www.gartner.com or Gartner group companies with different business models have their own applicable privacy policies, and this Policy does not apply to them. Those companies include Evanta, Iconoculture, L2, and the Gartner Digital Markets Companies of Capterra, GetApp and Software Advice. 
+In this Policy, references to "we," "us," or "Gartner" are references to Gartner Inc. and all its group companies doing business under the Gartner name listed here. Certain Gartner products and/or services which may be linked through www.gartner.com or Gartner group companies with different business models have their own applicable privacy policies, and this Policy does not apply to them. Those companies include Evanta, Gartner Digital Performance Benchmarks, Gartner Consumer and Culture Insights, and the Gartner Digital Markets Companies of Capterra, GetApp and Software Advice.     
 
 Gartner and all its group companies will have access to information on individuals covered by this Policy. A list of our entities can be found here.
 
@@ -216,7 +216,7 @@ This Policy will apply whether you have provided the information directly to us 
 
 **Categories of information we collect about you include:**
 
-*   Information you provide during registration, such as name, business email address, profile photograph, job title, professional interests, and requested accommodation;
+*   Information you provide during registration, such as name, business email address, profile photograph, job title, professional interests, and requested accommodation, and payment card information;
 *   Information you provide while attending the conference to receive additional Gartner research or materials (e.g. badge scan or QR scan);
 *   Geo-location information at the conference (if you attend a conference where we are using RFID-enabled badges and you do not request a non-RFID-enabled badge);
 *   Information collected when we record one of our conferences.    
@@ -248,7 +248,7 @@ This Policy will apply whether you have provided the information directly to us 
 
 **Categories of information we collect about you include:**  
 
-*   Information you provide when you enter information on our website, such as when you provide contact details, answer online questionnaires, or feedback forms;
+*   Information you provide when you enter information on our website, such as when you provide contact details, payment card information, answer online questionnaires, or feedback forms;
 *   Information you provide when you subscribe to email newsletters such as name, email address, job title;
 *   Information you provide when registering for an online or member account, including name, business or personal email address, job title, organization, organization’s physical address, direct telephone number, photograph, and biographical details;
 *   Where you have an online or member account, log-in credentials and information about your use of and preferences for these services;
@@ -358,6 +358,10 @@ We may ask to record calls for training, quality and research purposes. All reco
 
 You may use the send-to-colleague functionality on some of our sites or apps to send your colleagues information from Gartner or its subsidiaries. In order to fulfil this request, we will ask you for your and your colleagues' names and email addresses. We do not retain this data after the email is sent. Please be aware that your name and email address may be included in the communication sent to your colleague.
 
+**Payment Card Information**
+
+Where you choose to pay for any Gartner products or services using your payment card, we will collect your personal data connected to your payment card. We use this personal data in order to process your payment and to prevent fraudulent transactions. We do this on the basis of your consent to process this information.
+
 **My Favorites**
 
 The My Favorites feature of the member websites allows clients to save content available to the member’s Favorites list, add labels, tags, and notes to saved content, and share content and notes with and receive content and notes from other clients. We may review information about your use of My Favorites, including the content you save, folders you create, any tags, labels, or notes you add to your saved content or folders you have created, and any content that you share, and use such information to recommend content, tools, or other Gartner services we think may be of interest to you. Information about your use of My Favorites will only be accessible to Gartner and will not be visible to or otherwise shared with other Gartner clients unless you choose to share it.
@@ -389,13 +393,11 @@ We may share information with our organizational clients about how their employe
 
 3\. DATA SUBJECT RIGHTS
 
-In certain circumstances, you have certain rights regarding your personal information. A summary of each right and how you can exercise it is set out below. To exercise any of these rights, please contact us. Such requests should include information to allow us to verify your identity(e.g., your name, address, email address or other information reasonably required).
+In certain circumstances, you have certain rights regarding your personal information. A summary of each right and how you can exercise it is set out below. To exercise any of these rights, please contact us. Such requests should include information to allow us to verify your identity(e.g., your name, address, email address or other information reasonably required). If you are a California resident, please refer to Section 11 below for more detailed information on your rights under California law. 
 
-Where we receive your request to exercise one of these rights, we will respond without undue delay and in any event within one month of receipt of the request. This may be extended by a further two months in certain circumstances, e.g., where requests are complex or numerous.
+Where we receive your request to exercise one of these rights, we will respond without undue delay and within the time required by applicable law. This may be extended in certain circumstances, e.g., where requests are complex or numerous.
 
-We will provide the information free of charge, except where requests are manifestly unfounded or excessive, e.g. because of their repetitive character. In these circumstances we may charge a reasonable fee or may refuse to act on the request. We will advise you of any fees prior to proceeding with a request.
-
-We may ask for additional information to verify your identity before carrying out a request. 
+We will provide the information free of charge, except where requests are manifestly unfounded or excessive, e.g. because of their repetitive character. In these circumstances we may charge a reasonable fee or may refuse to act on the request. We will advise you of any fees prior to proceeding with a request. We may ask for additional information to verify your identity before carrying out a request.
 
 **Right**
 
@@ -416,7 +418,7 @@ You have the right to ask us to restrict processing of your personal information
 
 **Right to request deletion of your personal information**  
 
-You have the right to ask us to delete your personal information in certain circumstances. If you want to opt-out from receiving  marketing communications, the best way to do so is to allow us to retain your information with a “do not contact” tag so we know not to contact you in the future. 
+You have the right to ask us to delete your personal information in certain circumstances. If you want to opt-out from receiving marketing communications, the best way to do so is to allow us to retain your information with a “do not contact” tag so we know not to contact you in the future. 
 
 There are also certain exceptions where we may refuse a request for erasure, for example, where the personal information is required to comply with a legal obligation or for the establishment, exercise or defense of legal claims.
 
@@ -486,10 +488,6 @@ When you attend one of our conferences, you may be issued a conference badge wit
 
 We allow Exhibitors to scan attendee badges at our conferences. If you choose to allow an Exhibitor to scan your badge at the Exhibitor’s booth or when entering an Exhibitor session or function, you are giving us your consent to provide your contact details to that Exhibitor. Our Exhibitors’ use of any information you choose to share with them in this way is governed by each Exhibitor’s Privacy Policy. Badge scanning is **optional** and you may refuse to have your badge scanned by the Exhibitor.
 
-**California Online Privacy Protection Act Notice Concerning Do Not Track Signals**
-
-Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. We do not recognize or respond to browser-related DNT signals, as the industry is currently working toward a common approach to responding to DNT. To learn more about Do Not Track, please click here.
-
 7\. SECURITY
 
 We have implemented administrative, technical, and physical security measures to help prevent unauthorized access. Despite these measures, no data transmission over the Internet can be entirely secure, and we cannot guarantee or warrant the security of any information you transmit via our websites or apps. Please note that you are responsible for maintaining the security of your credentials used to access any Gartner service or account, and you must report suspected unauthorized activity to us.
@@ -516,13 +514,44 @@ Shared Services encourages clients to participate in surveys, including Process 
 
 We provide links to other websites or resources that are not part of the products, programs, or services run by Gartner. We do not control these websites or their privacy practices, and any information you provide to these sites is subject to the Privacy Policies of those sites and not this Policy.
 
-10.2 California Privacy Rights
+10.2 Changes to this Policy
+
+From time to time, we may change and/or update this Policy. If this Policy changes in any way, we will post an updated version on this website. We recommend you regularly review this website to ensure that you are always aware of our information practices and any changes to such. Any changes to this Policy will go into effect on posting to this page.
+
+11\. CALIFORNIA PRIVACY RIGHTS
+
+California law requires us to provide California residents with additional information regarding how we collect, use, and share your “personal information” (as defined in the California Consumer Privacy Act (“CCPA”)).
+
+**Categories of personal information we collect**.  Throughout this Policy, we discuss in detail the specific pieces of information we collect from and about users.  Below are the categories of personal information we collect: 
+
+*   Identifiers (such as name and title, contact details, and company name);
+*   Internet or other network or device activity (such as browsing history or app usage); 
+*   Inference data about you. and
+*   Other information that identifies or can be reasonably associated with you.
+
+**Use of categories of personal information**. We may disclose the categories of personal information identified above for our operational purposes where the use is reasonably necessary and proportionate to achieve the operational purpose for which it was collected or processed, or for another compatible operational purpose.
+
+**Sale of Personal Information**. The CCPA sets forth certain obligations for businesses that “sell” personal information.  Based on the definition of “sell” under the CCPA and under current regulatory guidance, we do not believe we engage in such activity and have not engaged in such activity in the past twelve months (including that we do not “sell” the personal information of minors under 16 years of age).  We do share certain information as set forth in Sections 1 and 2 of this Policy, and allow third parties to collect certain information about your activity, for example through cookies, as explained in our Cookie Policy.  
+
+**Individual Rights**. California law may provide you with certain rights and permit you to request the following:
+
+*   Provide you the categories of personal information we have collected or disclosed about you in the last twelve months. the categories of sources of such information. the business or commercial purpose for collecting or selling your personal information. and the categories of third parties with whom we shared personal information.
+*   Provide access to and/or a copy of certain information we hold about you.
+*   Delete certain information we have about you.
+
+You may have the right to receive information about the financial incentives that we offer to you (if any). You also have the right to not be discriminated against (as provided for in applicable law) for exercising certain of your rights. Certain information may be exempt from such requests under applicable law. For example, we need certain types of information so that we can provide the Services to you and for compliance with applicable law. If you ask us to delete certain information, you may no longer be able to access or use the Services.
+
+If would like to exercise any of these rights, please email us at privacy@gartner.com or send your written request to Data Protection Counsel, Americas, Gartner, 1201 Wilson Blvd., Arlington, VA. You will be required to verify your identify before we fulfill your request. You can also designate an authorized agent to make a request on your behalf. To do so, you must provide us with written authorization or a power of attorney, signed by you, for the agent to act on your behalf. You will still need to verify your identity directly with us.
 
 Subject to certain limits under California Civil Code § 1798.83, California residents may request certain information regarding our disclosure of information to third parties for their direct marketing purposes. To make such a request, please contact us as specified at the beginning of this Privacy Policy.
 
-10.3 Changes to this Policy
+**California Online Privacy Protection Act Notice Concerning Do Not Track Signals**
 
-From time to time, we may change and/or update this Policy. If this Policy changes in any way, we will post an updated version on this website. We recommend you regularly review this website to ensure that you are always aware of our information practices and any changes to such. Any changes to this Policy will go into effect on posting to this page.
+Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. We do not recognize or respond to browser-related DNT signals, as the industry is currently working toward a common approach to responding to DNT. To learn more about Do Not Track, please click here.
+
+12\. NEVADA PRIVACY RIGHTS
+
+Nevada law requires us to provide certain Nevada consumers the ability to opt out of the “sale” of “personally identifiable information” as such terms are defined under Nevada law.  We do not engage in such activity. however, if you are a Nevada resident who has purchased goods or services from us, you may submit a request to opt out of any potential future sales under Nevada law by emailing privacy@gartner.com. Once verified, we will maintain your request in the event our practices change.  
 
 How to Contact Us
 
