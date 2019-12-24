@@ -22,10 +22,11 @@ More Pages Privacy
 *   Approach to Privacy
 *   Privacy Policies
     *   Ask Experian
-    *   Audience IQSM
+    *   OmniActivationTM Strategic Services
     *   AutoCheck®
     *   AutoCount®
     *   Business Verification by Phone
+    *   CCPA Privacy Policy
     *   Client Registration
     *   ConsumerInfo.com, Inc. Policy
     *   CSID Privacy Policy
@@ -48,6 +49,7 @@ More Pages Privacy
     *   Telemarketing
 *   Request Experian Marketing Data Report
 *   Recent Updates
+*   California Consumer Privacy Act
 *   Contact Us About Privacy
 
 Online Personal Credit Reports and Scores En Español
