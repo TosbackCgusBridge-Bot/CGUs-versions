@@ -36,12 +36,11 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Save up to 60% on sale &. clearance styles. 40% off full-price styles!
+Receive up to 60% off your order!
 
-code: SLEIGH pin: PROMOTION DETAILS
+code: HOLIDAYS pin: PROMOTION DETAILS
 
-Order by 12/22 to receive by Christmas using express UPS DETAILS  
-Last minute gift? Find your Lands' End store Customer Service Menu
+Customer Service Menu
 
 Customer Service
 
@@ -62,11 +61,7 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Find an answer fast
-
-Search the Lands' End Help Center.
-
-Search the Lands' End Help Center. Go LANDS’ END PRIVACY POLICY Effective December 10, 2019
+LANDS’ END PRIVACY POLICY Effective December 10, 2019
 
 Download PDF / Print
 
