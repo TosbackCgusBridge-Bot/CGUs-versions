@@ -1,6 +1,6 @@
-Privacy Policy _Posted March 18, 2019_
+Privacy Policy _Posted December 23, 2019_
 
-This notice describes the Privacy Policy that applies to all information collected or submitted when you install or use the Pocket™ application or any of the other proprietary software applications or services we provide, and when you visit our website (all of which are referred to collectively herein as the "Pocket Technologies"). The Pocket Technologies are owned and operated by Read It Later, Inc. (referred to herein as "we," "us," "our," "Read It Later" or "Pocket"), which has developed applications and services for use in connection with a variety of devices and platforms, including without limitation, Windows, Mac, iPhone, iPad, Kindle Fire, Android, BlackBerry, Windows phone, Chrome, Safari, Firefox and other mobile devices and computers.
+This notice describes the Privacy Policy that applies to all information collected or submitted when you install or use the Pocket application or any of the other proprietary software applications or services we provide, and when you visit our website (all of which are referred to collectively herein as the "Pocket Technologies"). The Pocket Technologies are owned and operated by Read It Later, Inc. (referred to herein as "we," "us," "our," "Read It Later" or "Pocket"), which has developed applications and services for use in connection with a variety of devices and platforms, including without limitation, Windows, Mac, iPhone, iPad, Kindle Fire, Android, BlackBerry, Windows phone, Chrome, Safari, Firefox and other mobile devices and computers.
 
 We understand your concerns about privacy. We want you to understand what types of information we collect and what may happen to that information if you install the Pocket application, visit the Pocket Website or use any of the Pocket Technologies.
 
@@ -99,7 +99,7 @@ If you have questions about any of the provisions described above, please contac
 
 CONTACT
 
-If you have questions or concerns regarding this Privacy Policy, you should contact us at privacy@getpocket.com. Alternatively, you may contact us at:
+If you have questions or concerns regarding this Privacy Policy, you should contact us at privacy@getpocket.com or https://help.getpocket.com/contact. Alternatively, you may contact us at:
 
 Read It Later, Inc.  
 233 Sansome, Suite 1200  
