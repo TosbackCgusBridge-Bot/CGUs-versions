@@ -6,7 +6,7 @@
 *   Highlights
 *   NFL 100
 
-*   NFL Shop
+*   NFL 100
 *   Scores
 
 *   *   Super Bowl
