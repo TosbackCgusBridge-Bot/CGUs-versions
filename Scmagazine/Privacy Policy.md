@@ -213,17 +213,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Visa warns against new POS attacks, Fin8 fingered as the culprit
-    *   Dark Overlord member extradited to the U.S., pleads not guilty plea
-    *   LifeLabs pays ransom to regain stolen data, 15 million affected
-    *   Intel patches 15 vulnerabilities affecting software, firmware
-    *   Facebook Tor gateway down while TLS certificate renewed
+    *   The silent rise of cryptojacking
+    *   Open database exposes 26,000 Honda Motors customers
+    *   Epilepsy Foundation files complaint, seeks investigation on Twitter attacks
+    *   Cities get smarter
+    *   Busted! 2019's top cybercrime news
     
-    *   Apple fixes glitch that could lock users out of iPhones
-    *   WordPress patches four security vulnerabilities
-    *   Facebook Tor gateway down while TLS certificate renewed
-    *   Multiple-malware dropper ‘Legion Loader’ dissected
-    *   Secret court judge orders FBI to reform FISA process
+    *   RDP vulnerabilities highlight need for zero trust access management
+    *   LifeLabs pays ransom to regain stolen data, 15 million affected
+    *   2019's weird and wonderful news
+    *   Ring camera hacks show the need for better IoT security
+    *   Visa warns against new POS attacks, Fin8 fingered as the culprit
     
     *   Wawa POS system compromised for 10 months, cybersecurity pros weigh in
     *   Drupal’s Archive Tar patches multiple crititical vulnerabilities
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">.
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
