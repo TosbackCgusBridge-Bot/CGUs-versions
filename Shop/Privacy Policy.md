@@ -4,7 +4,9 @@ Lenovo Explore Close
     *   PC &. TABLETS
     *   Laptops
         
-        *   CLICK HERE to shop last chance deals and get select items by 12/24!
+        *   Always Free Shipping
+        *   Earn Rewards on All Purchases
+        *   Financing Available
         
         *   Explore Laptops
         *   2 in 1 Laptops
@@ -30,13 +32,15 @@ Lenovo Explore Close
         *   Yoga C940
         *   Chromebook
         
-        Last Chance Deals
+        Clearance
         
-        Get it by 12/24! Shop last chance deals and get expedited shipping on select items
+        Treat yourself to outstanding savings on highly rated &. best in class laptops you've been eyeing all season.
         
     *   Desktops
         
-        *   CLICK HERE to shop last chance deals and get select items by 12/24!
+        *   Always Free Shipping
+        *   Earn Rewards on All Purchases
+        *   Financing Available
         
         *   Explore Desktops
         *   Desktop Deals
@@ -59,13 +63,15 @@ Lenovo Explore Close
         *   AIO A340/Tab E8 Bundle
         *   AIO 730S/ Tab M10 Bundle
         
-        Last Chance Deals
+        Clearance
         
-        Get it by 12/24! Shop last chance deals and get expedited shipping on select items
+        The savings keep coming. Shop towers, all-in-ones &. more and enjoy end of year discounts
         
     *   Workstations
         
-        *   CLICK HERE to shop last chance deals and get select items by 12/24!
+        *   Always Free Shipping
+        *   Earn Rewards on All Purchases
+        *   Financing Available
         
         *   Explore Workstations
         *   Workstation Computers
@@ -85,13 +91,15 @@ Lenovo Explore Close
         *   ThinkStation P330 Tiny
         *   ThinkStation P330 Tower
         
-        Last Chance Deals
+        Clearance
         
-        Get it by 12/24! Shop last chance deals and get expedited shipping on select items
+        Get the power you need with our highly rated workstations. Enjoy end of year savings now.
         
     *   Tablets
         
-        *   CLICK HERE to shop last chance deals and get select items by 12/24!
+        *   Always Free Shipping
+        *   Earn Rewards on All Purchases
+        *   Financing Available
         
         *   Explore Tablets
         *   With Android
@@ -110,13 +118,15 @@ Lenovo Explore Close
         
         The perfect family entertainment tablet
         
-        Last Chance Deals
+        Clearance
         
-        Get it by 12/24! Shop last chance deals and get expedited shipping on select items
+        Still searching for that perfect gift or a gift for yourself? Shop end of year savings on tablets &. smart devices!
         
     *   Accessories &. Software
         
-        *   CLICK HERE to shop last chance deals and get select items by 12/24!
+        *   Always Free Shipping
+        *   Earn Rewards on All Purchases
+        *   Financing Available
         
         *   Accessories
         *   Docks
@@ -150,7 +160,9 @@ Lenovo Explore Close
         *   Everyday Backpack
     *   Monitors
         
-        *   CLICK HERE to shop last chance deals and get select items by 12/24!
+        *   Always Free Shipping
+        *   Earn Rewards on All Purchases
+        *   Financing Available
         
         *   Explore Monitors
         *   Monitors for Work
@@ -168,13 +180,15 @@ Lenovo Explore Close
         *   Sale
         *   Monitor Accessories
         
-        Last Chance Deals
+        Clearance
         
-        Get it by 12/24! Shop last chance deals and get expedited shipping on select items
+        Shop end of year savings on monitors for work, home or gaming now!
         
     *   Gaming
         
-        *   CLICK HERE to shop last chance deals and get select items by 12/24!
+        *   Always Free Shipping
+        *   Earn Rewards on All Purchases
+        *   Financing Available
         
         *   Explore Gaming
         *   Laptops
@@ -199,13 +213,15 @@ Lenovo Explore Close
         *   Realspace Gaming Chair
         *   Legion Y740
         
-        Last Chance Deals
+        Clearance
         
-        Check off your holiday list with brands like Nintendo &. Xbox. Get it by 12/24 - enjoy expedited shipping on select items!
+        Shop laptops, desktops, consoles &. more and enjoy end of year savings on your favorite brands.
         
     *   Business
         
-        *   CLICK HERE to shop last chance deals and get select items by 12/24!
+        *   Always Free Shipping
+        *   Earn Rewards on all Purchases
+        *   Financing Available
         
         *   Business Solutions
         *   Small Business
@@ -236,7 +252,9 @@ Lenovo Explore Close
         
     *   Support
         
-        *   CLICK HERE to shop last chance deals and get select items by 12/24!
+        *   Always Free Shipping
+        *   Earn Rewards on All Purchases
+        *   Financing Available
         
         *   Customer Support
         *   Help Placing An Order
@@ -261,9 +279,11 @@ Lenovo Explore Close
         
         Things to consider when choosing a laptop
         
-    *   Last Chance
+    *   Sale
         
-        *   CLICK HERE to shop last chance deals and get select items by 12/24!
+        *   Always Free Shipping
+        *   Earn Rewards on All Purchases
+        *   Financing Available
         
         *   Weekly Laptop Deals
         *   ThinkPad Deals
@@ -286,9 +306,9 @@ Lenovo Explore Close
         *   Trade In Program
         *   Outlet
         
-        Last Chance Deals
+        Clearance
         
-        Get it by 12/24! Shop last chance deals and get expedited shipping on select items
+        Shop the tech deals you've been eyeing &. get savings up to 65%. End the holidays with no regrets.
         
 *   Phones
 *   Data Center
