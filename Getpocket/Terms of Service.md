@@ -1,6 +1,6 @@
-Terms of Service _Posted February 12, 2018_
+Terms of Service _Posted December 23, 2019_
 
-Please read the following terms of service ("Agreement" or "Terms of Service") before you install the Pocket™ application or use any of the products or services we provide through our application, software or website (all of which are referred to collectively herein as the "Pocket Technologies"). The Pocket Technologies are owned, licensed and operated by Read It Later, Inc. (referred to herein as "we," "us," "our," "Read It Later" or "Pocket"), which has developed applications and services for use in connection with a variety of devices and platforms, including without limitation, Windows, Mac, iPhone, iPad, Kindle Fire, Android, BlackBerry, Windows phone, Chrome, Safari, Firefox and other mobile devices and computers. The Terms of Service constitute a binding legal agreement, which govern your use of the Pocket Technologies via any platform or device. By installing the Pocket™ application, visiting our website or installing or using any of the Pocket Technologies, you are accepting these Terms of Service. If you do not agree to these terms, please do not install our application, access our website or use any of our products or services. This Agreement includes the following provisions, and you can jump to each by selecting the links below:
+Please read the following terms of service ("Agreement" or "Terms of Service") before you install the Pocket application or use any of the products or services we provide through our application, software or website (all of which are referred to collectively herein as the "Pocket Technologies"). The Pocket Technologies are owned, licensed and operated by Read It Later, Inc. (referred to herein as "we," "us," "our," "Read It Later" or "Pocket"), which has developed applications and services for use in connection with a variety of devices and platforms, including without limitation, Windows, Mac, iPhone, iPad, Kindle Fire, Android, BlackBerry, Windows phone, Chrome, Safari, Firefox and other mobile devices and computers. The Terms of Service constitute a binding legal agreement, which govern your use of the Pocket Technologies via any platform or device. By installing the Pocket application, visiting our website or installing or using any of the Pocket Technologies, you are accepting these Terms of Service. If you do not agree to these terms, please do not install our application, access our website or use any of our products or services. This Agreement includes the following provisions, and you can jump to each by selecting the links below:
 
 *   The Pocket Service
 *   License Grant
@@ -15,7 +15,8 @@ Please read the following terms of service ("Agreement" or "Terms of Service") b
 *   Indemnification
 *   Disputes
 *   Governing Law
-*   Automatic Renewal, Payments and Refunds
+*   Automatic Renewal, Payments, and Refunds
+*   Cancellation Policy for Pocket Premium
 *   Termination
 *   Assignment
 *   Severability
@@ -108,13 +109,17 @@ GOVERNING LAW
 
 By using any of the Pocket Technologies, you agree that the Federal Arbitration Act, applicable federal law, and the laws of the state of California, without regard to principles of conflict of laws, will govern these Terms of Service and any dispute of any kind that might arise between you and us.
 
-AUTOMATIC RENEWAL, PAYMENTS AND REFUNDS
+AUTOMATIC RENEWAL, PAYMENTS, AND REFUNDS
 
-Subscriptions to our paid Pocket Premium service are available on monthly and yearly subscription plans. Each paid subscription is valid for only one user account and you are not permitted to use your paid subscription with any other user accounts. **OUR PAID POCKET PREMIUM SUBSCRIPTION WILL BE AUTOMATICALLY RENEWED AT THE END OF EACH SUBSCRIPTION PERIOD. THE SUBSCRIPTION FEE WILL BE CHARGED TO YOUR LAST PAYMENT METHOD. TO CANCEL YOUR SUBSCRIPTION, PLEASE SEND AN EMAIL TO CANCEL@POCKET.COM, OR FOLLOW THE INSTRUCTIONS FOR CANCELLATION THAT ARE AVAILABLE ON OUR WEBSITE.** If you cancel or decide not to renew, you will be downgraded to our free service upon cancellation or at the end of your subscription period, as applicable. If you do not pay for your paid subscription on time, we reserve the right to suspend your paid subscription or reduce your service level to our free service.
+Subscriptions to our paid Pocket Premium service are available on monthly and yearly subscription plans. Each paid subscription is valid for only one user account and you are not permitted to use your paid subscription with any other user accounts. **YOUR PAID POCKET PREMIUM SUBSCRIPTION WILL BE AUTOMATICALLY RENEWED, AND THE SUBSCRIPTION FEE CHARGED, AT THE END OF EACH SUBSCRIPTION PERIOD UNTIL YOU CANCEL. THE SUBSCRIPTION FEE WILL BE CHARGED TO YOUR LAST PAYMENT METHOD.** We may offer a free trial period for Pocket Premium. If you sign up for a free trial, you will be charged the subscription fee when the free trial period ends, and at the end of each subsequent subscription period until you cancel.
 
-We reserve the right to charge for use of our services that are currently available free of charge. You will not be charged for using any service unless you have opted for a paid subscription plan. We will provide users with notice of any material change to the terms and conditions applicable to the subscription service at least thirty days prior to such change taking effect. By continuing to use our services after the change takes effect, you accept the new terms.
+We reserve the right in the future to charge for use of our services that are currently available free of charge. You will not be charged for using any service unless you have opted for a paid subscription plan. We will provide users with notice of any material change to the terms and conditions applicable to the subscription service at least thirty days prior to such change taking effect. By continuing to use our services after the change takes effect, you accept the new terms.
 
 We do not issue refunds for subscriptions paid for through iTunes or Google Play. If you pay for your paid subscription through our website, we may, at our sole discretion, provide a pro-rata refund for the unused portion of the subscription period.
+
+CANCELLATION POLICY FOR POCKET PREMIUM
+
+You may cancel your subscription at any time. **If you cancel or decide not to renew, you will be downgraded to our free service upon cancellation or at the end of your subscription period, as applicable. If you do not pay for your paid subscription on time, we reserve the right to suspend your paid subscription or reduce your service level to our free service. TO CANCEL YOUR SUBSCRIPTION, PLEASE SEND AN EMAIL TO CANCEL@GETPOCKET.COM, OR FOLLOW THE INSTRUCTIONS FOR CANCELLATION THAT ARE AVAILABLE ON OUR WEBSITE.**
 
 TERMINATION
 
