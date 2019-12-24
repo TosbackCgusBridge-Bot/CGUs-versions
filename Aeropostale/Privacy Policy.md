@@ -522,71 +522,30 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
 
-**TIME IS RUNNING OUT** Order With Overnight Shipping to Get It by 12/24 Learn More
+**LAST CHANCE TO GET IT BY 12/24** Order Online Today by 11:59 PM EST for **FREE** In Store Pickup Learn More
 
-**Order With Overnight Shipping to Get It by 12/24**  
+**Order Online Today by 11:59 PM EST for FREE In Store Pickup to Get It by 12/24**  
 Learn More
 
 In Stores &. Online
 
-FOR A LIMITED TIME! TAKE 60-70% OFF EVERYTHING INCLUDING OUR BEST-SELLING JEANS &. DOORBUSTERS! Shop Girls Doorbusters Shop Girls Jeans 60% Off Shop Guys Doorbusters Shop Guys Jeans 60% Off Exclusions Apply
+ENDS TOMORROW! TAKE 60-70% OFF EVERYTHING INCLUDING OUR BEST-SELLING JEANS &. DOORBUSTERS! Shop Girls Doorbusters Shop Girls Jeans 60% Off Shop Guys Doorbusters Shop Guys Jeans 60% Off Exclusions Apply
 
 **TIME IS RUNNING OUT!** Free Online Order Pick Up! Get all your gifts in just a few clicks. Learn More
 
 **TIME IS RUNNING OUT!** Free Online Order Pick Up! Get all your gifts in just a few clicks. Learn More
 
-Holiday Shipping Dates
+Free $10 AERO CASH CARD
 
-Guaranteed To Get There by 12/24!
+When you buy a $50 Gift Card. In Stores &. Online.
 
-DEC 20
+Free $10 AERO  
+CASH CARD
 
-**Last Day For  
-2 Day Shipping**
-
-**Last Day For  
-2 Day Ship**
-
-Place Order by  
-1:30 pm EST\*
-
-DEC 23
-
-**Last Day For  
-Overnight Shipping**
-
-**Last Day For  
-Overnight Ship**
-
-Place Order by  
-1:30 pm EST\*
-
-Free Order Pick Up!
-
-Choose **In Store  
-Pick Up** by Dec 23
-
-Choose **In Store  
-Pick Up** by Dec 23
-
-Place Order by  
-11:59 pm EST\*
-
-Learn More
-
-The quick gift that always fits.
-
-eGift Cards! Now earn $10 Aero Cash
-
-for every $50 you spend on gift cards.
-
+When you buy a $50 Gift Card.  
 In Stores &. Online.
 
-for every $50 you spend
-
-on gift cards. In Stores &. Online.
-
-Shop Gift Cards Shop Gift Cards Previous Next Holiday Doorbusters
+Shop Gift Cards Previous Next Holiday Doorbusters
 
 **In Stores &. Online.** Incredible Gifts. Impossible Prices. Only While Supplies Last!
 
