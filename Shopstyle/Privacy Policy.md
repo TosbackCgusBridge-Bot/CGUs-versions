@@ -1,12 +1,14 @@
 POPSUGAR Privacy Policy
 
-**Effective Date: September 12, 2019**
+**Effective Date: December 23, 2019**
 
 **UPDATED PRIVACY POLICY**
 
 Note: The POPSUGAR Privacy Policy has been updated. This Privacy Policy applies to all users of the Services besides those users located in the European Union. For our privacy policy applicable to users in the European Union, refer to our Privacy Policy (EU). Please review this updated privacy policy carefully before using the POPSUGAR Services. By using any of the POPSUGAR Services, you consent to the terms of this updated Privacy Policy.
 
-POPSUGAR Inc., its affiliates and its subsidiaries (collectively, **"POPSUGAR"**, **"us"** or **"we"**) take your privacy seriously and have developed this Privacy Policy (**"Privacy Policy"**) to explain what we collect from our users (**"users"** or **"you"**) and how we use and share this information. This Privacy Policy applies to your use of our websites, mobile websites, mobile applications, and any related services (please see our Terms of Service) (collectively, the **"Services"**).
+POPSUGAR Inc. and its subsidiaries (collectively, **"POPSUGAR"**, **"us"** or **"we"**) take your privacy seriously and have developed this Privacy Policy (**"Privacy Policy"**) to explain what we collect from our users (**"users"** or **"you"**) and how we use and share this information. This Privacy Policy applies to your use of our websites, mobile websites, mobile applications, and any related services (please see our Terms of Service) (collectively, the **"Services"**).
+
+For purposes of clarity, this Privacy Policy applies only to POPSUGAR Inc. and its subsidiaries, and not to Group Nine Media, Inc. and/or any of its other subsidiaries, affiliates, brands, and/or entities that it controls, including NowThis Media, Inc.. Seeker Media, Inc.. TheDodo.com, Inc.. and Thrillist Media Group, Inc. (collectively, **"GNM"**). As of the Effective Date of this Privacy Policy, GNM maintains a separate privacy policy, which can be viewed here.
 
 We may change this policy from time to time and will notify you by revising the date at the top of the Privacy Policy. Please review this Privacy Policy whenever you access the Services to stay informed of our practices.
 
@@ -38,7 +40,7 @@ We also collect or receive **"Other Information"** from you or other sources whi
 *   **"Pixels"** or **"Pixel Tags"**, also known as clear GIFs, beacons, spotlight tags or web bugs, are a method for passing information from the user's computer to a third party website;
 *   Non-precise information about the approximate physical location (for example, at the city or zip code level) of a user's computer or device derived from the IP address of such computer or device;
 *   **"Local Shared Objects"**, which are pieces of data that websites may store on a user's computer, including Brower Cookies and Local Storage. and
-*   Information collected through the use of Cookies, eTags, Javascript, Pixel Tags, Device ID tracking, anonymous identifiers and other technologies, including information collected using such methods and technologies about (i) your visits to, and interaction and engagement with, the Services and third party websites, applications, platforms and other media channels, and (ii) your interaction with emails including the content and ads (collectively, **"Interaction Data"**).
+*   Information collected through the use of Cookies, eTags, Javascript, Pixel Tags, Device ID tracking, online identifiers and other technologies, including information collected using such methods and technologies about (i) your visits to, and interaction and engagement with, the Services and third party websites, applications, platforms and other media channels, and (ii) your interaction with emails including the content and ads (collectively, **"Interaction Data"**).
 
 All Personal Information and Other Information that we hold about you is referred to in this Privacy Policy collectively and generally as **"User Information."**
 
@@ -149,7 +151,7 @@ We may use social plugins on our Services, for instance plugins of the social ne
 
 User profiles and submissions
 
-Certain User Information from your profile such as a your user name, display name, biographical information, or any comments or video or image content that you have uploaded to the Services may be displayed to other users to facilitate user interaction within the Service or address your request for Services. In some applications, information you share in your profile will be publicly available to other users. For our POPSUGAR Voices and Influencer platforms, User Information from your profile may be shared with third parties including advertisers in connection with an advertising campaign, which may include publicly-available metrics related to your social media channels and a description of your blog or other content you have created in the past.
+Certain User Information from your profile such as your user name, display name, biographical information, or any comments or video or image content that you have uploaded to the Services may be displayed to other users to facilitate user interaction within the Service or address your request for Services. In some applications, information you share in your profile will be publicly available to other users. For our POPSUGAR Voices and Influencer platforms, User Information from your profile may be shared with third parties including advertisers in connection with an advertising campaign, which may include publicly-available metrics related to your social media channels and a description of your blog or other content you have created in the past.
 
 Third party offers
 
@@ -245,17 +247,21 @@ Text messages
 
 If you no longer wish to receive text messages from our Must Have It Service, you can reply "STOP" to any text message sent by us through such Service or text "STOP" to 441-76. For our Must Have It Service, if you have a POPSUGAR account linked to the phone number you provided for the Must Have It Service, you can also visit the "Account Settings" page in your Must Have account and change the Must Have It Phone Number settings from "on" to "off."
 
-California residents
-
-In accordance with the California Online Privacy Protection Act (see California Civil Code Sections 1798.83-1798.84), California residents are entitled to ask us for a notice identifying the categories of personal information that we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and wish to make such a request, please submit your request in writing to community@popsugar.com.
-
 Do Not Track
 
 We currently do not participate in any "Do Not Track" frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your information. We may engage third parties, such as marketing or analytics partners, who may collect information about your online activities over time and across different websites when you use our website.
 
   
 
-6\. OTHER USEFUL INFORMATION REGARDING YOUR PRIVACY Security
+6\. INFORMATION AND NOTICES APPLICABLE TO CALIFORNIA RESIDENTS ONLY
+
+In accordance with the California Online Privacy Protection Act (see California Civil Code Sections 1798.83-1798.84), California residents are entitled to ask us for a notice identifying the categories of certain Personal Information that we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and wish to make such a request, please submit your request in writing to community@popsugar.com.
+
+If you are a California resident, you may be entitled to additional rights with respect to your personal information pursuant to the California Consumer Privacy Act (CCPA). For more information about these rights and how to exercise them, please see our California Privacy Notice here, which is hereby incorporated by reference into this Privacy Policy.
+
+  
+
+7\. OTHER USEFUL INFORMATION REGARDING YOUR PRIVACY Security
 
 We use commercially reasonable safeguards to preserve the integrity and security of information collected and maintained through our Services. However, we cannot ensure or warrant the security of any information you provide to us or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed by unauthorized persons or hardware or software failure. You are ultimately responsible for the security of your email address and password.
 
@@ -273,7 +279,7 @@ The time period for which we keep information varies according to the informatio
 
   
 
-7\. HOW TO CONTACT POPSUGAR
+8\. HOW TO CONTACT POPSUGAR
 
 If you have any questions or concerns regarding this Privacy Policy, please send us a detailed message to community@popsugar.com. We can also be contacted at the following address:
 
