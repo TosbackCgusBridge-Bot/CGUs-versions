@@ -8,7 +8,7 @@
 
 Menu IKEA
 
-*   Offers
+*   Winter Sale
 *   Products Products Products
     
     *   Furniture
