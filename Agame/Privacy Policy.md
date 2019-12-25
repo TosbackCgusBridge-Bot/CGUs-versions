@@ -33,13 +33,13 @@ View more results
     *   Fireboy and Watergirl 5: Elements
     *   Ono Card Game
     *   Stickman Fighter: Epic Battle
-    *   Empire: World War 3
-    *   Paper.io 2
-    *   Slither.io
-    *   Fireboy &. Watergirl 3: The Ice Temple
-    *   Crowd City
     *   Fireboy &. Watergirl 2: The Light Temple
+    *   Dominoes
+    *   Slither.io
     *   Battle S.W.A.T vs Mercenary
+    *   Wormate.io
+    *   Fireboy &. Watergirl 3: The Ice Temple
+    *   Rocket Soccar
 *   Action
     
     Top Categories
@@ -63,17 +63,17 @@ View more results
     
     Best Games
     *   Snail Bob 8
-    *   Whack Your Soulmate
-    *   Deer Hunter
-    *   Sniper Reloaded
-    *   Combat Strike 2: 3D Shooting Game Online Multiplayer
     *   The King of Fighters Wing: 2 Player Fighting Game
-    *   Bomb It 6
     *   Short Life
-    *   Super Buddy Kick
-    *   CS Portable
+    *   Bomb It 6
     *   Uphill Rush 7: Waterpark
     *   Stickman Fighter: Epic Battle
+    *   Deer Hunter
+    *   Stickman Army: The Defenders
+    *   My Dolphin Show 5
+    *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
+    *   Gun Builder 2
+    *   Combat Strike 2: 3D Shooting Game Online Multiplayer
 *   Adventure
     
     Top Categories
@@ -101,13 +101,13 @@ View more results
     *   Bob the Robber 4: Season 2 Russia
     *   Boeing Flight Simulator
     *   Fireboy &. Watergirl 4: Crystal Temple
-    *   Fireboy and Watergirl 5: Elements
     *   Five Nights at Freddy's 2
+    *   Fireboy and Watergirl 5: Elements
     *   Mine Clone 4
-    *   Color Bump 3D
     *   Five Nights at Freddy's 4
     *   Escaping the Prison: Stickman Escapist Game
-    *   Adam and Eve 4
+    *   Color Bump 3D
+    *   Rio Rex
 *   Puzzle
     
     Top Categories
@@ -132,16 +132,16 @@ View more results
     Best Games
     *   MahJongCon
     *   Bubble Shooter
-    *   Daily Jigsaw
-    *   Word Search Ultimate
     *   Super Stacker 2
-    *   Roll The Ball
-    *   Hangman
-    *   Butterfly Kyodai
-    *   Money Movers
-    *   Road Trip FRVR
     *   Candy Mania
-    *   Cut The Rope Experiments
+    *   Hangman
+    *   Operate Now: Pericardium Surgery
+    *   Hidden Proof
+    *   Butterfly Kyodai
+    *   Road Trip FRVR
+    *   Word Search Ultimate
+    *   Mahjong Connect Classic
+    *   Kitty Love Story
 *   Girls
     
     Top Categories
@@ -164,18 +164,18 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Little Dentist
     *   Ellie: Get Ready With Me
-    *   Ellie Love Trouble: Kissing Game
-    *   Princess: Tomboy Street Art
     *   Ellie Skin Doctor
-    *   My New Room
+    *   Goldie Princess: Skin Doctor
     *   Floral Real Life Manicure
-    *   Polynesian Princess: Real Haircuts
-    *   Extreme Makeover
-    *   Princesses Biker Boots
-    *   Mermaid Sauna Flirting
-    *   My New Room 3
+    *   Ellie Love Trouble: Kissing Game
+    *   Princesses' Travel Diaries: Town Break
+    *   Princesses Wearing Braces
+    *   Ellie Hospital Resurrection
+    *   Mommy BFFs: Pregnant Check-Up
+    *   Fun Dentist
+    *   Sisters Dressing Room
+    *   Princesses Las Vegas Weekend: Dress Up Game
 *   Racing
     
     Top Categories
@@ -199,17 +199,17 @@ View more results
     
     Best Games
     *   Madalin Stunt Cars 2
-    *   Super Speed Racer
     *   Hill Racing Challenge
+    *   Super Speed Racer
     *   Cars 3D
     *   Extreme Off-Road Cars 2
     *   Moto X3m 2
     *   Russian Car Driver
-    *   Off-Roader V6
     *   Scrap Metal 3: Infernal Trap - Driving Game 3D
-    *   NY Cab Drive
+    *   Off-Roader V6
     *   ATV Quad Racing
-    *   Parking Passion
+    *   NY Cab Drive
+    *   Highway Rider Extreme
 *   Sports
     
     Top Categories
@@ -232,17 +232,17 @@ View more results
     
     Best Games
     *   Penalty Shooters 2: Football Game
-    *   World Cup Penalty: Football Game
+    *   Billiard Blitz Challenge
     *   Basketball Stars 2019
-    *   Bowling Masters: 3D Game
-    *   Table Tennis World Tour
     *   Speed Play Soccer 4
-    *   Ultimate Boxing
     *   Goalkeeper Premier: Football Game
-    *   Motorbike Freestyle
     *   Archery World Tour
-    *   Football Legends 2016
+    *   Stunt Skateboard 3D
     *   Table Tennis Challenge
+    *   Swipe Skate 2
+    *   Table Tennis World Tour
+    *   Extreme Moto Races
+    *   Cricket CPL Tournament
 *   More
     
     *   Multiplayer
