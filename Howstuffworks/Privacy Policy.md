@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksWho Was the World's First King?1STWhat’s the Difference Between a College and a University?2NDShhh! Don't Tell. There's a Secret Apartment Atop the Eiffel Tower3RDGet to Know the Greek Alphabet, From Alpha to Omega4THMedical Alert System | Search Ads | SponsoredMedical Alert Prices Might Surprise You in 2020Medical Alert System | Search Ads | SponsoredKelley Blue Book | Sponsored10 Most Fun SUVsKelley Blue Book | Sponsoredclear side | Sponsored14 Early Warning Signs of Mold Infestation Everyone Should Know (Millions Are Exposed Every Day)clear side | SponsoredKelley Blue Book | Sponsored56 New and Redesigned Cars, Trucks and SUVsKelley Blue Book | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Artificial Intelligence Is Totally Changing Everything1STShhh! Don't Tell. There's a Secret Apartment Atop the Eiffel Tower2NDWhat’s the Difference Between a College and a University?3RDThe Cornish Game Hen Is Neither Cornish Nor a Hen4THYourBump | SponsoredIf You Have Any Of These 29 Toys Around, You Just Became RichYourBump | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredNoteabley | SponsoredJulia Roberts's Daughter Is Another Pretty WomanNoteabley | SponsoredChevrolet Silverado | Search Ads | SponsoredThe New Chevrolet Silverado Is Simply Astonishing!Chevrolet Silverado | Search Ads | Sponsored
 
 Advertisement
 
-animals - wild animalsWhat Do Reindeer Do When They're Not Pulling Santa's Sleigh?BY Laurie L. Dovescience - dictionaryWhat Is Planck's Constant, and Why Does the Universe Depend on It?BY Patrick J. Kigerhome &. garden - home improvementClosing Your Bedroom Door at Night Could Save Your LifeBY Carrie Whitney, Ph.D.Healthbeautilty | Sponsored18 Warning Signs that Show that You Need more ProteinHealthbeautilty | SponsoredKelley Blue Book | SponsoredPresenting the Most Luxurious SUVs on the Market \[List\]Kelley Blue Book | Sponsored
+tech - computerThat Dead Weblink May Be Revived With the Wayback MachineBY Nathan Chandlerculture - peopleThere's a Pooping Man in the Catalan Nativity SceneBY Nathan Chandlerscience - dictionaryWhat Is Planck's Constant, and Why Does the Universe Depend on It?BY Patrick J. KigerWorldemand | Sponsored17+ Actors You Didn't Know Were Gay - No. 8 Will Shock WomenWorldemand | SponsoredAuto Overload | Sponsored20 Photos Captured At Airports That Will Make You Laugh Out LoudAuto Overload | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksHow Artificial Intelligence Is Totally Changing EverythingWhat's the Difference Between a Pressure Cooker and an Instant Pot?A Heavenly Angels QuizGroom of the Stool: A Crappy Job With Royal BenefitsThat Dead Weblink May Be Revived With the Wayback MachineCan't Read Roman Numerals? We Can Teach Youby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhat's the Difference Between a Pressure Cooker and an Instant Pot?Get to Know the Greek Alphabet, From Alpha to OmegaWho Was the World's First King?Closing Your Bedroom Door at Night Could Save Your Life'Hour of Code' Demystifies Computer Programming for KidsHow Dangerous Is the Beaver?by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Who Was the World's First King?Read Next StoryMedical Alert System | Search AdsMedical Alert Prices Might Surprise You in 2020Medical Alert System | Search Ads|SponsoredSponsoredRead Next StoryKelley Blue Book10 Most Fun SUVsKelley Blue Book|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. How Artificial Intelligence Is Totally Changing EverythingRead Next StoryYourBumpIf You Have Any Of These 29 Toys Around, You Just Became RichYourBump|SponsoredSponsoredRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next Story
