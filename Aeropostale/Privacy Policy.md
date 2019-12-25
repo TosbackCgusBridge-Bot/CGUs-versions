@@ -145,7 +145,7 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Skinny Jeans
 *   Boyfriend Jeans
 *   Mom Jeans
-*   Premium Seriously Stretchy
+*   Soft Spun
 *   Real Denim
 *   Flex Effects
 *   Eco-Friendly Repreve
@@ -162,6 +162,7 @@ Close submenu ( Guys Jeans ) Guys Jeans
 *   Loose Jeans
 *   Dad Jeans
 *   Relaxed Jeans
+*   Soft Spun
 *   Real Denim
 *   Flex Effects
 *   Max Stretch
@@ -233,7 +234,8 @@ Close submenu ( Girls ) Girls
 *   View All
 *   New to Clearance
 *   $9.99 + Under
-*   $4.99 + Up Tees
+*   $4.99 + Under
+*   Clearance Tees
 *   Tops
 *   Bottoms
 *   Dresses + Skirts
@@ -246,10 +248,11 @@ Close submenu ( Guys ) Guys
 *   View All
 *   New to Clearance
 *   $9.99 + Under
-*   $4.99 + Up Tees
+*   Clearance Tees
 *   Tops
 *   Bottoms
 *   Accessories
+*   $4.99 + Under
 
 **Buy a $50 Gift Card, Get a FREE $10 Cash Card!  GIRLS GUYS** 
 
@@ -422,7 +425,7 @@ Menu Find a Store Aeropostale
         *   Skinny Jeans
         *   Boyfriend Jeans
         *   Mom Jeans
-        *   Premium Seriously Stretchy
+        *   Soft Spun
         *   Real Denim
         *   Flex Effects
         *   Eco-Friendly Repreve
@@ -438,6 +441,7 @@ Menu Find a Store Aeropostale
         *   Loose Jeans
         *   Dad Jeans
         *   Relaxed Jeans
+        *   Soft Spun
         *   Real Denim
         *   Flex Effects
         *   Max Stretch
@@ -495,7 +499,8 @@ Menu Find a Store Aeropostale
         *   View All
         *   New to Clearance
         *   $9.99 + Under
-        *   $4.99 + Up Tees
+        *   $4.99 + Under
+        *   Clearance Tees
         *   Tops
         *   Bottoms
         *   Dresses + Skirts
@@ -507,10 +512,11 @@ Menu Find a Store Aeropostale
         *   View All
         *   New to Clearance
         *   $9.99 + Under
-        *   $4.99 + Up Tees
+        *   Clearance Tees
         *   Tops
         *   Bottoms
         *   Accessories
+        *   $4.99 + Under
     
 
 *   Select Country
@@ -522,28 +528,23 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
 
-**LAST CHANCE TO GET IT BY 12/24** Order Online Today by 11:59 PM EST for **FREE** In Store Pickup Learn More
-
-**Order Online Today by 11:59 PM EST for FREE In Store Pickup to Get It by 12/24**  
-Learn More
-
 In Stores &. Online
 
-ENDS TOMORROW! TAKE 60-70% OFF EVERYTHING INCLUDING OUR BEST-SELLING JEANS &. DOORBUSTERS! Shop Girls Doorbusters Shop Girls Jeans 60% Off Shop Guys Doorbusters Shop Guys Jeans 60% Off Exclusions Apply
+ENDS TODAY! TAKE 60-70% OFF EVERYTHING INCLUDING OUR BEST-SELLING JEANS &. DOORBUSTERS! Shop Girls Doorbusters Shop Girls Jeans 60% Off Shop Guys Doorbusters Shop Guys Jeans 60% Off Exclusions Apply
 
-**TIME IS RUNNING OUT!** Free Online Order Pick Up! Get all your gifts in just a few clicks. Learn More
+The quick gift that always fits. Ends 12/26 In Stores &. Online.
 
-**TIME IS RUNNING OUT!** Free Online Order Pick Up! Get all your gifts in just a few clicks. Learn More
+eGift Cards!
 
-Free $10 AERO CASH CARD
+**Now Earn $10 Aero Cash** for every $50 you spend on gift cards.
 
-When you buy a $50 Gift Card. In Stores &. Online.
+The quick gift that always fits.  
+Ends 12/26 In Stores &. Online.
 
-Free $10 AERO  
-CASH CARD
+eGift Cards!
 
-When you buy a $50 Gift Card.  
-In Stores &. Online.
+**Now Earn $10 Aero Cash** for  
+every $50 you spend on gift cards.
 
 Shop Gift Cards Previous Next Holiday Doorbusters
 
@@ -638,6 +639,15 @@ $11.87
 
 Girls Puffer Vests Girls Puffer Vests Next
 
+In Stores &. Online
+
+Clearance Up to 80% off Clearance  
+Up to 80% off
+
+New Markdowns Added!
+
+Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance
+
 In Stores &. Online For a Limited Time!
 
 60% OFF JEANS 60% OFF JEANS With 21 fits and 94 washes to choose from,  
@@ -723,15 +733,6 @@ HELP DESK Just in the Nick of time
 Find a store, shop gift cards, and get that perfect gift delivered in time for the holidays
 
 Learn More
-
-In Stores &. Online
-
-Clearance Up to 80% off Clearance  
-Up to 80% off
-
-Shop Jackets, Jeans &. Flannels!
-
-Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance
 
 Aero Oneness is unity, celebrating individuality,  
 living in harmony, and supporting one another.
