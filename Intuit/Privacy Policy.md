@@ -23,7 +23,7 @@ Shop Departments
     *   Same Day Pickup
     *   Weekly Ad
 
-Near YouFind a StoreBack COUNTDOWN TO CHRISTMASENDS IN24HOURS 41MINS 26SECS \*Offer ends 12/24/1921.99a.n.a 1/4-zip sherpa or pullover select styles | reg. $44  
+Near YouFind a StoreBack COUNTDOWN TO CHRISTMASENDS IN00HOURS 41MINS 23SECS 21.99a.n.a 1/4-zip sherpa or pullover select styles | reg. $44  
 19.99 EA.Women’s St. John’s Bay jeans select styles | also available in women’s plus &. petites’ sizes | reg. $44 ea.  
 19.99Women’s St. John’s Bay puffer vest select styles | also available in women’s plus | reg. $44 - $49  
 60% OFF+ EXTRA 20% OFF with JCPenney Credit Card Juniors’ outerwear | select styles **sale $14.99-$34.99** | reg. $39-$94  
@@ -69,22 +69,20 @@ Countdown to Christmas is on!   Show off your #AllAtJCP styleView GalleryMedia
     
     $25 sale
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(59)
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(60)
 *   LIMITED TIME SPECIAL!
     
     $25 sale
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(63)
-*   $1699after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(89)
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(66)
+*   $1104after couponwas $30 St. John's Bay Super Soft Mens Long Sleeve Flannel Shirt(160)
+*   $1699after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(90)
 *   LIMITED TIME SPECIAL!
     
     $25 sale
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver(67)
-*   $5 sale
-    
-    was $10 | 50% offSEPHORA COLLECTION Arctic Eyes Eyeshadow Palette ($35.00 value)(30)
-*   $1699after couponwas $70 a.n.a Womens Alford Stacked Heel Motorcycle Boots(70)
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver(69)
+*   $1699after couponwas $70 a.n.a Womens Alford Stacked Heel Motorcycle Boots(71)
 
 Shop and Save at JCPenney
 
