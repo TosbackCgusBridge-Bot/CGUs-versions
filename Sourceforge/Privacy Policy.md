@@ -1,4 +1,4 @@
-Privacy Statement SOURCEFORGE MEDIA PRIVACY POLICY
+Privacy Statement SLASHDOT MEDIA PRIVACY POLICY
 
 **Last Updated:  December 23, 2019**
 
@@ -12,7 +12,7 @@ If you have any questions regarding this Policy please contact us at privacy@sla
 
 The Policy describes the types of information we gather from people visiting our Site and/or using our Services and from individual users (“you” or “users”) interacting with our Site and Services and how we use, transfer, and secure such information. By accessing any Site or using any Services, you agree to be bound by this Policy. This Policy does not govern information we receive from third parties. If you do not agree to the terms of this Policy, please do not use the Site, or any of our Services. Each time you use any Site, or any Services, the current version of this Privacy Policy will apply. Accordingly, when you use any Site or Services, you should check the date of this Policy (which appears at the top) and review any changes since you last reviewed the Policy.
 
-We encourage you to review the entire Policy. Please click on any of the links below to review that particular section.
+We encourage you to re We may also share your Personal Informationview the entire Policy. Please click on any of the links below to review that particular section.
 
 1.  The information we gather
     
@@ -91,9 +91,9 @@ Please take some time to familiarize yourself with the different ways we use the
         
     2.  To generate statistical studies;
         
-    3.  \* To build browsing and usage profiles of our users so that we may tailor our offers, and share such profiles with our advertisers and data customers, so that they may tailor their offers to our users’ interests (and we obtain consent when required to create and use these profiles – please click here for more information);
+    3.  To build browsing and usage profiles of our users so that we may tailor our offers, and share such profiles with our advertisers and data customers, so that they may tailor their offers to our users’ interests (and we obtain consent when required to create and use these profiles – please click here for more information);
         
-    4.  \* To conduct market research and planning by sending user surveys (with your consent where required – please click here for more information);
+    4.  To conduct market research and planning by sending user surveys (with your consent where required – please click here for more information);
         
     5.  To improve services, information, and products;
         
@@ -101,7 +101,7 @@ Please take some time to familiarize yourself with the different ways we use the
         
     7.  To communicate with users and with recipients of our products and Services to provide users with information (by electronic means or otherwise) about other services we offer that are similar to those that a user has already received or enquired about;
         
-    8.  \* Where we have a user’s consent to email users about services, information, products and offers from our business partners (and as set forth in the Section  How we share information we gather);
+    8.  Where we have a user’s consent to email users about services, information, products and offers from our business partners (and as set forth in the Section  How we share information we gather);
         
     9.  To personalize a Site for the user;
         
@@ -134,7 +134,7 @@ We may share your Personal Information in the following ways:
 
 1.  We may share your Personal Information with third party service providers to help us with our business activities such as email marketing, telemarketing, offering customer service, or operating a community forum. We include provisions within our contract with these companies to ensure that they: (i) use your Personal Information only as necessary to provide these services to us. and (ii) establish safeguards to protect the confidentiality of the information that we provide them.
     
-2.  \* We may also share your Personal Information with our advertisers, vendors, and customers, including data profiling companies, business-to-business lead buyers, and data aggregation companies that track user behavior. We include provisions within our contract with these companies to ensure that they: (i) use your Personal Information only as permitted by applicable law. and (ii) establish safeguards to protect the confidentiality of the information that we provide them. Please see Additional EEA Rights, which describes the right of users in the European Economic Area to object to the use of your Personal Information for profiling.
+2.  We may also share your Personal Information with our advertisers, vendors, and customers, including data profiling companies, business-to-business lead buyers, and data aggregation companies that track user behavior. We include provisions within our contract with these companies to ensure that they: (i) use your Personal Information only as permitted by applicable law. and (ii) establish safeguards to protect the confidentiality of the information that we provide them. Please see Additional EEA Rights, which describes the right of users in the European Economic Area to object to the use of your Personal Information for profiling.
     
 3.  We may share with unrelated third parties Aggregate Information compiled from information collected from users of the Sites, without prior notice to you, for any reason in our sole discretion. Aggregate Information is used in a collective manner and no single person can be identified by such compiled information.
     
@@ -280,7 +280,7 @@ Slashdot processes Personal Information as a “processor,” “joint controlle
 
 Finally, we want to make it clear that nothing in this section is intended to limit any other right that applies to you under any other section of this Privacy Policy.
 
- **M. Visitors and Users of our Sites from Outside the United States**
+**M. Visitors and Users of our Sites from Outside the United States**
 
 Canadian residents who use our Sites and Services will have those rights outlined in the applicable section above.  Visitors and users located in the European Economic Area may have additional rights, as described in our _EEA Rights_ section.
 
