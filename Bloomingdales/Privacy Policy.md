@@ -45,7 +45,7 @@ USD Change Recent Searches
 *   Gifts
 *   EDITORIAL
 
-Live Chat CALL US **ANY TIME**:1.800.777.0000  
+Live Chat Chat Support is currently not available. Please try again later. CALL US **ANY TIME**:1.800.777.0000  
   
 We're available 24 hours, 7 days a week. menu
 
