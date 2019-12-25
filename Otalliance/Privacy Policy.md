@@ -8,7 +8,7 @@
         *   Glossary of Internet Terms
 *   What we’re doing
     *   Focus Areas
-        *   Connecting the World
+        *   Growing the Internet
         *   Building Trust
         *   Improving Technical Security
         *   Shaping the Internet’s Future
