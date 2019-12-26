@@ -1,6 +1,6 @@
 Free Shipping Over $49See DetailsEnable Accessibility
 
-*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
+*   My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -23,66 +23,38 @@ Shop Departments
     *   Same Day Pickup
     *   Weekly Ad
 
-Near YouFind a StoreBack COUNTDOWN TO CHRISTMASENDS IN00HOURS 41MINS 23SECS 21.99a.n.a 1/4-zip sherpa or pullover select styles | reg. $44  
-19.99 EA.Women’s St. John’s Bay jeans select styles | also available in women’s plus &. petites’ sizes | reg. $44 ea.  
-19.99Women’s St. John’s Bay puffer vest select styles | also available in women’s plus | reg. $44 - $49  
-60% OFF+ EXTRA 20% OFF with JCPenney Credit Card Juniors’ outerwear | select styles **sale $14.99-$34.99** | reg. $39-$94  
-60% OFFMen’s outerwear | select styles **sale $31.99-$71.99** | reg. $80-$180  
-12.99Men’s St. John’s Bay flannel shirt select styles | reg. $30  
-19.99 EA.Guys’ Arizona flex denim select styles | reg. $42 ea.  
-14.99Men’s Xersion fleece hoodie select styles | reg. $36  
-25% OFFToys | select styles reg. $9.99-$59.99 | Excluded from coupons.  
-50% OFFDisney Deluxe toys | select styles **sale $22.50-$30** | reg. $45-$60 Excluded from coupons.  
-24.99Boys’ Levi’s® jeans | select styles | reg. $48 Additional offers and coupons do not apply to Levi’s®.  
-50% OFFKids’ Xersion activewear | select styles **sale $6.99-$29.99** | reg. $14-$60  
-49.99Victrola Bluetooth suitcase turntable select styles | reg. $89 Excluded from coupons.  
-39.99Singing Machine Carpool Karaoke Microphone reg. $89 Excluded from coupons.    
-99.99Brookstone PhotoShare Friends &. Family 8" digital frame | reg. $219 Excluded from coupons.  
-39.99Alpha gaming 3-in-1 combo pack reg. $80 Excluded from coupons.  
-SUGAR, SPICE &. DEALS SO NICEShop kitchen deals from the brands you love.  
-COZY DOWN TO THEIR MISTLETOES  
-Shop holiday home must-haves.25% OFFadidas for the family | select styles **sale $15-$41.25** | reg. $20-$55 Excluded from coupons.  
-25% OFFNike for the family | select styles **sale $15-$52.50** | reg. $20-$70 Nike excluded from coupons.  
-25% OFFChampion activewear &. apparel for the family | select styles **sale $12-$33.75** | reg. $16-$45 Excluded from coupons.  
-40% OFFDisney Collection Frozen 2 toys select styles | **sale $3.60-$33** | reg. $6-$55 Excluded from coupons.  
-UP TO 65% OFFWomen’s coats | select styles **sale $24.99-$99.99** | reg. $72-$230  
-60% OFFMen’s outerwear | select styles **sale $31.99-$71.99** | reg. $80-$180  
-UP TO 60% OFFKids’ jackets &. coats | select styles **sale $12.80-$67.60** | reg. $32-$169  
-50% OFFCold-weather accessoriesselect styles**sale $7.99-$28.99 |** reg. $16-$58  
-12.99a.n.a sweaterselect stylesreg. $3750-60% OFFSweaters for himselect styles **sale $14.99-$24.99 |** reg. $40-$50   
-40-50% OFFKids' sweatersselect styles**sale $12.99-$19.99 |** reg. $30-$40  
-19.99Juniors’ Arizona sherpa lightweight jacket select styles | reg. $59  
-29.99Guys’ Arizona sherpa-lined hoodie select styles | reg. $76  
-19.99Women’s boots select styles | reg. $60  
-34.99Biddeford™ microplush heated throw select styles | reg. $80  
-MUST-HAVE GIFTSThese delightful finds will warm the hearts of everyone on your list. Excluded from coupons.  
+Near YouFind a StoreBackFinal Hours Of COUPON CODE HOLLY47ENDS IN00HOURS 41MINS 27SECS See Details\*Extra 30% off select apparel, shoes, accessories, fine jewelry and home purchases of $100 or more. Extra 25% off select purchases under $100. Extra 10% off furniture, mattresses, housewares, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches and salon products. Each offer good at jcp.com only, excluding taxes and shipping charges, 12/25/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Best Value, Daily Deals, Limited Time Specials, Levi's, Denizen from Levi’s, Disney Collection, Disney Tsum Tsum, French Toast, Fisher-Price, Fanatics, Licensed Team Sports Merchandise, Columbia, Carhartt, Nike, adidas, Reebok, Puma, Champion, Converse, Clarks, Skechers Women's Shoes, Skechers Athletic Shoes, Bobs from Skechers, Keds, Grasshoppers, Athletic Shoes, Goddess Lingerie, Dreamgirl, Jewelry Trunk Shows, Modern Bride Design Your Dream Ring, Pre-Owned Watches, Smartwatches, Garmin, Fitbit, Sephora, Food, Penney Lane, S'ip by S'well, Electronics, Brookstone, Sharper Image, In-Home Custom Design, Tempur-Pedic, Neato Robotics, iRobot, Sporting Goods/Outdoor Gear, Toys, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Personalized Jewelry, Wigs and Extensions, Purchase with Purchase Items, In-Store Services, Service Plans, Gift Cards, Closing Store purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code HOLLY47 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. DetailsUP TO 50% OFF ALL TOYSExcluded from coupons.UP TO 50% OFF SEPHORA INSIDE JCPENNEYselect items**Starting at 9.99 ** **jeans for the family**19.99Juniors’ Arizona jeans select styles | reg. $42  
+21.99Guys’ Arizona flex jeans select styles | reg. $42  
+9.99Boys’ original straight fit jeans select styles | reg. $30  
+14.99Girls’ Arizona jeans select styles | reg. $30  
+**Buy one get one deals ** **on must-have basics**BUY 1 GET 1 50% OFF\*Men's socksselect styles |reg. $7-$24BUY 1 GET 1 50% OFF\*Shapewear Select Styles | reg. $35-$62BUY 1 GET 1 50% OFF\*Kid's Underwear, socks &. girl's bras select style | reg. $7-$22  BUY 1 GET 1 FREE\*Bras from Vanity Fair, Bali, Ambrielle, Warner's, Maidenform &. more          select styles \*Buy one item at regular price, get a second item of equal or lesser value for free or 50% off, while supplies last. **UP TO 50% OFF  
+HOME STOCK-UP &. WHITE SALE**select styles 25% off Nike for the familySelect styles | **sale $15-$90** |reg. $20 -$120  Nike excluded from coupons   
 
-*   STARTING AT $8
-*   GIFT SETS
-*   CHI FLAT IRONS
-*   HAIRCARE GIFT SETS
+*   MEN
+*   WOMEN
+*   KIDS
+*   SHOES
 
-SHOP THE LOCAL LOOKJCPenney is teaming up with fashion and lifestyle influencers to bring you a curatedselection of their top picks. Check back everymonth to see new styles.JOIN IN THE FUN  
-Countdown to Christmas is on!   Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 40 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 40 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
 *   LIMITED TIME SPECIAL!
     
     $25 sale
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(60)
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(61)
+*   $1499after couponwas $60 Arizona Womens Yetta Block Heel Lace Up Boots(174)
 *   LIMITED TIME SPECIAL!
     
     $25 sale
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(66)
-*   $1104after couponwas $30 St. John's Bay Super Soft Mens Long Sleeve Flannel Shirt(160)
-*   $1699after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(90)
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(67)
+*   $1499after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(90)
 *   LIMITED TIME SPECIAL!
     
     $25 sale
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver(69)
-*   $1699after couponwas $70 a.n.a Womens Alford Stacked Heel Motorcycle Boots(71)
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver(70)
+*   $426after couponwas $38 City Streets 3/4 Sleeve Holiday Swing Dresses(32)
 
 Shop and Save at JCPenney
 
