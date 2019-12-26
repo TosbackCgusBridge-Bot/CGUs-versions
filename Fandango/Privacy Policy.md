@@ -511,10 +511,6 @@ Offers
     
     When you spend $10 on Scotch Products at Walmart. SEE DETAILS
     
-*   FREE $20 Movie Experience
-    
-    When you purchase 2 participating Yoplait or GO-GURT products. SEE DETAILS
-    
 
 New + Coming soon
 
@@ -589,4 +585,8 @@ Fandango Affiliated Companies:
 *   Fandango Latin America
 *   Ingresso
 
-© 2019 Fandango
+© 2019 Fandango Got a minute?
+
+Help us improve Fandango by taking a short survey!
+
+Take the surveyNo Thanks
