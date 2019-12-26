@@ -248,13 +248,13 @@ Close submenu ( Guys ) Guys
 *   View All
 *   New to Clearance
 *   $9.99 + Under
+*   $4.99 + Under
 *   Clearance Tees
 *   Tops
 *   Bottoms
 *   Accessories
-*   $4.99 + Under
 
-**Buy a $50 Gift Card, Get a FREE $10 Cash Card!  GIRLS GUYS** 
+**Online Only! Extra 15% off** Use Code **MERRY GIRLS GUYS**
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -512,11 +512,11 @@ Menu Find a Store Aeropostale
         *   View All
         *   New to Clearance
         *   $9.99 + Under
+        *   $4.99 + Under
         *   Clearance Tees
         *   Tops
         *   Bottoms
         *   Accessories
-        *   $4.99 + Under
     
 
 *   Select Country
@@ -527,10 +527,6 @@ Menu Find a Store Aeropostale
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
-
-In Stores &. Online
-
-ENDS TODAY! TAKE 60-70% OFF EVERYTHING INCLUDING OUR BEST-SELLING JEANS &. DOORBUSTERS! Shop Girls Doorbusters Shop Girls Jeans 60% Off Shop Guys Doorbusters Shop Guys Jeans 60% Off Exclusions Apply
 
 The quick gift that always fits. Ends 12/26 In Stores &. Online.
 
@@ -546,7 +542,7 @@ eGift Cards!
 **Now Earn $10 Aero Cash** for  
 every $50 you spend on gift cards.
 
-Shop Gift Cards Previous Next Holiday Doorbusters
+Shop Gift Cards TODAY ONLY! TAKE AN EXTRA 15% OFF ITEMS ALREADY REDUCED 60-70% &. LAST DAY FOR DOORBUSTERS Use Code **MERRY** Shop Girls Shop Guys TODAY ONLY! TAKE AN EXTRA 15% OFF ITEMS ALREADY REDUCED 60-70% &. LAST DAY FOR DOORBUSTERS Use Code **MERRY** Shop Girls Shop Guys Previous Next Holiday Doorbusters
 
 **In Stores &. Online.** Incredible Gifts. Impossible Prices. Only While Supplies Last!
 
@@ -637,7 +633,12 @@ Guys Hoodies Guys Hoodies Girls Puffer Vests
 
 $11.87
 
-Girls Puffer Vests Girls Puffer Vests Next
+Girls Puffer Vests Girls Puffer Vests Next Aero Oneness is unity,  
+celebrating individuality,  
+living in harmony, and  
+supporting one another. Aero Oneness is unity, celebrating  
+individuality, living in harmony, and  
+supporting one another.
 
 In Stores &. Online
 
@@ -650,7 +651,7 @@ Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance
 
 In Stores &. Online For a Limited Time!
 
-60% OFF JEANS 60% OFF JEANS With 21 fits and 94 washes to choose from,  
+60% OFF JEANS With 21 fits and 94 washes to choose from,  
 we have the perfect pair of jeans  
 for you and everyone on your list. Shop Girls Jeans **60% OFF**  
 Shop Guys Jeans **60% OFF**
