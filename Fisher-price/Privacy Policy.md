@@ -720,7 +720,7 @@ Helpful Links
 Follow Mattel
 
 *   Terms &. Conditions
-
+*   Do Not Sell My Personal Information (ADCHOICES)
 *   © 2019 Mattel. All Rights Reserved
 
 Do you want to continue? You are about to visit a website that operates under a separate privacy policy and other terms.  
