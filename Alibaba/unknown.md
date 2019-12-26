@@ -1,4 +1,4 @@
-<. Back to list Enforcement Actions for Displaying Prohibited and Controlled Items Version No.: 20170512                                                                      Date of Issuance: 20170518
+<. Back to list Enforcement Actions for Displaying Prohibited and Controlled Items Version No.: 20191224                                                                    Date of Issuance: 20200101
 
 In order to maintain and protect Alibaba.com as a trustworthy platform in the e-commerce industry, enforcement actions such as issuing serious warning, limiting access right, delisting all online items, terminating Membership, etc. will be taken against parties who display items which are in violation of our policies, including product posting related policies.
 
