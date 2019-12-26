@@ -213,23 +213,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
+    *   2020 Predictions: Election Security
+    *   New Orleans hamstrung by ransomware attack
+    *   WordPress patches four security vulnerabilities
+    *   Open dark web database exposes info on 267 million Facebook
+    *   2019 Tech advances
+    
+    *   Secret court judge orders FBI to reform FISA process
+    *   WordPress patches four security vulnerabilities
+    *   Hackensack Meridian Health pays undisclosed ransom payment
     *   Dark Overlord member extradited to the U.S., pleads not guilty plea
     *   Open database exposes 26,000 Honda Motors customers
-    *   Open dark web database exposes info on 267 million Facebook
-    *   Facebook Tor gateway down while TLS certificate renewed
-    *   Wawa POS system compromised for 10 months, cybersecurity pros weigh in
     
-    *   Wawa POS system compromised for 10 months, cybersecurity pros weigh in
-    *   Citrix vulnerability places 80,000 companies at risk
-    *   Consumer data privacy regulation at the federal level: An opportunity for MSPs?
-    *   1.6 billion LightInTheBox customer records left exposed
-    *   2019 Mergers and acquisitions
-    
+    *   Here’s to women-friendly orgs
+    *   Still growing after 30 years
+    *   123456 still a popular password
+    *   California Consumper Privacy Act: Challenge and Opportunity
     *   Phishing operation picking on Canadian banks since at least 2017
-    *   Citrix vulnerability places 80,000 companies at risk
-    *   Over 100 apps found to serve unwanted ads using 'Soraka' SDK
-    *   Mastercard makes a holiday purchase acquiring RiskRecon
-    *   PayPal scam goes after account info, payment card data
 
 Back to Top
 
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
