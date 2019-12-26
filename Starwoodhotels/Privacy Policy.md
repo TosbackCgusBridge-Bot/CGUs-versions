@@ -112,24 +112,25 @@ Languages
 Open
 
 *   English
-*   العربية
-*   Français canadien
-*   Nederlands
-*   Français
-*   ქართული
-*   Deutsch
-*   Indonesia
-*   Italiano
-*   日本語
-*   한국어
-*   Malaysia
-*   polski
-*   Português
-*   Русский
-*   中文
-*   Español
-*   ภาษาไทย
-*   Türkçe
+*   Arabic
+*   Canadian French
+*   Dutch/Netherlands
+*   French
+*   Georgian
+*   German
+*   Indonesian
+*   Italian
+*   Japanese
+*   Korean
+*   Malaysian
+*   Polish
+*   Portuguese
+*   Russian
+*   Simplified Chinese
+*   Spanish
+*   Thai
+*   Traditional Chinese
+*   Turkish
 
 Collection of Personal Data
 
@@ -500,4 +501,4 @@ Loading...
 
 Tracking Preferences Terms of Use Program Terms &. Conditions Privacy Center Digital Accessibility Site Map Help*   Loading...
     
-prod13,611FF93F-4ED0-5149-A639-819015FC9DC4
+prod10,A21E0F74-E5FC-5078-AADF-73FE435BF2DD
