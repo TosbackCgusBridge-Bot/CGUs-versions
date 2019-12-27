@@ -1,125 +1,179 @@
-**Privacy Policy**
+For California Consumers, please click here for information on your rights under the California Consumer Protection Act to access and control the use your data.
 
-Last Updated: Dec 5, 2014
+**Last Updated: December 26, 2019**
 
-At Publishers Clearing House (operator of PCHbingo, PCHlotto, PCHslots, PCHBlackJack, PCHCasino, and the PCHLottoBlast mobile application "sites") we take your privacy seriously, which is why we developed this privacy policy to explain our online information collection and use practices
+Publishers Clearing House ("PCH") respects your privacy. We take seriously our obligation to protect the information or "data" about you that we collect, process or share with others. This Privacy Policy governs all websites and digital properties owned or operated by PCH ("Website") and applies to all registrants, entrants, visitors and other users of such Website ("Users").
 
-This Privacy Policy applies to our sites (including mobile optimized websites) and is provided to explain the online and mobile information collection and use practices of these sites. Unless otherwise noted, the information and descriptions in this Privacy Policy are limited strictly to online transactions and mobile transactions and does not apply to the offline privacy, data collection and data transfer policies of the sites.
+The purpose of this Privacy Policy is, among other things, to inform you 1) why we collect consumer data, 2) where we get the consumer data we hold, 3) the kinds of consumer data we collect, 4) the kinds of consumer data that we share with third parties, and 5) how that third-party sharing occurs.
 
-Publishers Clearing House has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through the sites that link to this privacy policy.
+The choices you have regarding collection and use of your data are described in the relevant sections below. Residents of some states have additional rights to access and control the use of their data. Please see the state-specific statements of privacy rights below.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https:/feedback-form.truste.com/watchdog/request.
+If you choose to register, enter or access our Website, you consent to and agree to be bound by this Privacy Policy. If you don't agree to be bound by this Privacy Policy, please do not register, enter or access our Website. We reserve the right in our discretion to change, modify, add or remove portions of this Privacy Policy. You should check this page periodically for any changes. If you use or access our Website after such a change is made, you will consent to and agree to be bound by the change.
 
-**Changes to the Privacy Policy**
+**1\.** **Why does PCH collect consumer data?**
 
-The sites may occasionally change their features and content. Consequently, our privacy policy may be modified to reflect any revisions to the sites. We suggest you revisit our privacy policy from time to time to be sure that you are familiar with our practices.
+**2\.** **From whom does PCH collect consumer data?**
 
-By using the sites, you consent to the collection and use of your information as outlined in this policy and to our Terms of Use. We may decide to change this Privacy Policy from time to time. When we make material changes to our policy, we will post a prominent notice on the home page of the site so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
+**3\.** **What consumer data does PCH collect?**
 
-**ACCEPTANCE OF PRIVACY POLICY**
+**4\.** **Does PCH share consumer data with third-parties?**
 
-By completing and submitting a registration and/or entry format that may collect information such as your name, address, email address on our sites you signify your agreement to this Privacy Policy. If you do not accept the terms of this Privacy Policy, please do not use the PCHbingo, PCHlotto, PCHslots, PCHBlackJack, PCHCasino sites, or the PCHLottoBlast mobile application. We reserve the right, at our discretion to change, modify, add or remove portions of this Privacy Policy. You should check this page periodically for any changes and to insure you are familiar with our current practices. This policy and all of our legal obligations under this policy are subject to the laws of New York and the USA regardless of the location of the user. This Privacy Policy was last updated in December 2014.
+**5\.** **How does such third-party data-sharing occur?**
 
-**1\. Why do our sites collect personal information?**
+**6\.** **What are Cookies and other tracking technologies?**
 
-The sites collect certain personal information from our visitors primarily to process and fulfill online entries. For example, we need your full name, postal and email address to enter you in the sites' giveaways, confirm your entry, contact you if you have won and notify you about any updates or changes to our sites. We may also use the personal data we collect for systems administration and troubleshooting purposes, and to report aggregate information to our marketing partners and others.
+**7\.** **What is Targeted or Behavioral Advertising?**
 
-From time to time, we may post customer testimonials on our web sites which may contain personally identifiable information such as the customer's name. If the testimonial contains personally identifiable information, we do obtain the customer's consent prior to posting these testimonials.
+**8\.** **Can I opt-out of receiving email from PCH?**
 
-We may collect Information about your mobile device such as Device ID, Operating System Version, Browser Type, Service Provider, Mobile Device Model, Screen Resolution, Language, Country, City, and Mobile Input Selector (touch screen, etc.) to service you the correct version of the application or mobile website on your device
+**9\.** **Can I opt-out of data collection and use by PCH?**
 
-We collect your location based information for the purpose of serving you relevant ads based upon your current location. We may share your geo-location data with third parties for the purpose of these ads on our behalf. If you do not wish to allow us to share your information in this manner please opt-out
+**10\.** **What about third-party websites?**
 
-You may opt-out of location based services at any time by editing the setting at the device level.
+**11\.** **What does PCH do to keep their Website secure?**
 
-Our sites may include from time to time Social Media Features, such as the Facebook buttons and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+**12\.** **Does PCH collect information from Users outside of the United States?**
 
-For each day that you play, we will send you an email confirmation with the number of bonus Diamonds earned and/or of the numbers you have chosen for entry at PCHlotto and/or your Jackpot ball progress and the nightly drawing card you may submit at PCHbingo. We may utilize the services of service providers and subcontractors to collect such information on our behalf for administrative and other purposes that we may deem necessary to maintain service and improve the user experience. We may forward personally identifiable information to select vendors or third parties necessary for the fulfilment of any prize you may win. These service providers are prohibited from using your personally identifiable information for any other purpose including their own marketing.
+**13\.** **Does PCH collect personal information from children?**
 
-To provide our users with a more personalized and relevant web experience, we may collect and use personal data to identify users' specific interests and needs. If given permission, we may notify our users by email of special contests, announcements and offers we feel may be of interest to them that are available from our sites and/or our marketing partners who send information on our behalf. Users may unsubscribe from such future offers by clicking to remove the check in the permission notice box before submitting the registration and entry form. You may also unsubscribe from such offers at any time by using the unsubscribe link in such emails, by clicking on the “Contact us” link or by writing directly to us care of: Consumer &. Privacy Affairs, 382 Channel Drive, Port Washington, New York, 11050.
+**14\.** **What about off-line information and privacy practices?**
 
-If your personal information changes, you may correct or update it by clicking or tapping on the ‘My Account’ link on our sites. If you would like to delete specific information or your account, you may ask to have it removed from a public forum, or testimonial on our website by utilizing our online Customer Support tool http://pch.custhelp.com/app/answers/detail/a\_id/174 or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
+**15\.** **What are my California Privacy Rights?**
 
-We will retain your information including information collected on from your mobile device such as geo-location for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements
+**16\.** **What are my Nevada Privacy Rights?**
 
-**2\. How and what information do our sites track?**
+**17\.** **Further Questions?**
 
-We collect personal data from our users mainly during the initial registration process for the sites. Such information is collected to process and fulfill online entries. For example, we need your full name, postal and email address to enter you in the applicable site's giveaways, confirm your entry, contact you if you have won, and notify you about any updates or changes to our site. We will also send you an email confirmation each day of the numbers you have chosen for entry at PCHlotto and/or the number of Diamonds earned at PCHslots. We will also send you an email confirmation each day that you play, of the numbers you submitted for the Last Chance Drawing and the current number of Jackpot balls you possess and when they expire. We may also forward personally identifiable information to select vendors or third parties necessary for the fulfillment of any prize you may win. We may utilize the services of service providers and subcontractors to collect such information on our behalf for administrative and other purposes that we may deem necessary to maintain service and improve the user experience. We may also request additional information about the offers and services on our sites. We gather this data in order to better understand our users' interests and provide them with relevant offers and information.
+1\. Why does PCH collect data on consumers?
 
-We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.
+PCH collects consumer data for the following business and commercial purposes:
 
-Through the use of "cookies" and "pixel tags" (both described below) and online and registration forms, we may collect personal data on, among other things, the following information:
+*   _Relevancy Purposes_ , to provide Users with the most relevant experiences on our Website and versions of our mobile applications, including sweepstakes, games and ads, that we think are likely to be of interest to you.
+*   _Transactional Purposes_ , to contact Users with our offers and promotions, to process entries and orders, to award tokens and prizes, to fulfill orders, to facilitate your interaction with the advertisers on whose ads you have clicked and whose surveys you may have taken.
+*   _Technical Purposes_ , to provide notices, updates, security alerts and support information. to analyze usage trends in the aggregate. and to administer our Website. For mobile devices, we use analytics software to allow us to better understand the functionality of our mobile software on your phone or tablet. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data and where the application was downloaded from.
+*   _Customer Service Purposes_ , to communicate with you via SMS / email / direct mail about your entries, orders, payments and any other questions you may have.
+*   _Reporting Purposes,_ to share consumer data with third-party reporting services, fraud detection services, advertisers, product vendors and (in the case of winners) governmental agencies.
 
-**Demographic**
+2\. From whom does PCH collect consumer data?
 
-**Technical**
+PCH collects consumer data from sources in the following categories:
 
-**Reference**
+*   _Direct from Consumer_ , information that you provide to us directly, such as registering on our website (e.g., name and address), responding to surveys, playing games, claiming prizes, redeeming Tokens and posting messages on the PCH Blog.
+*   _Automatic Data Collection_ , collected automatically when you visit or register on our Website, such as internet protocol (IP) address, device ID, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and/or click-stream data, and through the use of "cookies", "pixel tags" and similar tracking technologies. For additional information on such tracking technologies, see Section 6 below.
+*   _Third-Party Sources_ , information obtained from third parties, such as data management platforms, advertisers, publishers, the public domain and governmental and other public sources, as well as commercial data aggregators who collect data from businesses and other sources and make that data available to commercial users like PCH for a valuable consideration, or through coops and exchanges in which third-party advertisers and website operators pool their consumer data and make it available to other participants in the coop or exchange.
 
-Age  
-Gender  
-Income level
+3\. What consumer data does PCH collect?
 
-IP address  
-Domain name  
-e-mail address  
-Site traffic
+PCH collects data about consumers in the following categories:
 
-Name  
-Postal address  
-Telephone number  
-Password
+*   _Identifying Data_ , such as name, postal address, telephone number, e-mail address, cell phone number (for SMS purposes), user name and password.
+*   _Technical Data_ , such as IP address, MAID (Mobile Advertising ID), site traffic data and data on any websites that referred you to us.
+*   _Engagement Data_ , such as the web pages you viewed, the sweepstakes, games, mobile applications and instant win opportunities you played, surveys you may have taken, advertisements you have viewed and/or clicked-on, and other interactions on our Website.
+*   _Affinity Data_ , such as data on your demonstrated interests and hobbies, the games you play and the products you have viewed or purchased and payments made.
+*   _Demographic Data_ , such as age, gender, income level, geographic area and other personal characteristics.
+*   _Winner Information_ , such as contests entered, entry date(s), prize choices and payment preferences for winners of PCH prizes.
 
-**3\. What are Cookies?**
+4\. Does PCH share consumer data with third-parties?
 
-"Cookies" are small pieces of information that are stored by your web browser software on your computer's hard drive or temporarily in your computer's memory. The use of cookies is an industry standard including the use of etags, and users will find them on most major web sites. PCHbingo, PCHlotto, PCHslots, PCHBlackJack, and PCHCasino place and store Internet cookies on a user's hard drive. Cookies can save any type of information noted above. Cookies enable us to recognize you and personalize your viewing experience on our sites. For example, we use cookies to recognize user access privileges, track site usage and traffic patterns, add advertisements for goods or services that we think may interest you, and estimate our audience size. We also use cookies to store user names and information that are supplied at registration. Although most web browsers are initially set up to accept cookies, you can decline the placement of a cookie on your hard drive by using the appropriate feature(s) of your web browser software (if available) to delete the cookie. Please note, however, that certain areas on the sites will not function properly if your web browser does not accept cookies.
+PCH shares consumer data with third parties in the following categories:
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the sites, to track users movements around the sites and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information.
+*   _Targeting Partners_ , such as data management partners or other third parties who use Engagement, Affinity and Demographic information to align you with others in relevant groups based on common characteristics, interests and propensities in order to create anonymized marketing segments that may be shared with third-parties.
+*   _Marketing Partners,_ such as advertisers or app developers who wish to target and/or retarget our Users with relevant advertisements on other websites or magazine publishers and direct-to-consumer merchants who wish to communicate directly with our customers and Users through name rental or exchange.
+*   _Acquisition Partners_ , such as publishers and other third parties who display PCH ads on their websites to help PCH in attracting and acquiring new customers and users, or retargeting existing or lapsed Users, for our Websites.
+*   _Service Providers_ , such as optimization and attribution partners, fraud-detection services, lettershop operators, fulfillment houses and other service providers, who need access to consumer data in order to provide such services, and advertisers, product vendors and publishers, who need the data to provide you with the products and services you have ordered.
+*   _Media Intermediaries,_ such as buy-side advertising platforms, media vendors, brokers, agencies or other intermediaries that represent advertisers, publishers or others who may wish to match their audience against our audience to determine if they want to target offers to our Users.
+*   _Aggregators_ , such as data management platforms, advertisers and publishers, as well as commercial data aggregators who collect data from businesses and other sources, and coops and exchanges in which third-party advertisers and website operators pool their consumer data and make it available to other participants in the coop or exchange.
+*   _Reporting Partners_ , such as ad agencies, adtech platforms (demand-side, supply-side and data management platforms), to report on events that occur on our Website, including advertising impressions, clicks and orders. Note: if you win a prize of $600 or more, you will be required to provide your tax identification number for IRS reporting.
+*   _Supporting Partners_ , such as marketing advisors, consultants and other third-party industry participants who work with us on a commercial basis or provide advice or services to us to support our business.
 
-We utilize software from several third party companies that places tracking technologies on our web sites. We have control over these third party cookies and javascript tags which we use to analyze the data they generate, in aggregate. Some of the reasons for collecting this data is to determine the most popular offers on our sites, the most popular areas for users to click on a screen with many buttons to click, etc. We also use one of these services to estimate broad demographic patterns for our users in order to present our site audience as a whole to advertisers.
+5\. How does such third-party data-sharing occur?
 
-When you register with our sites, we may share your name and information with third parties who may contact you by mail with relevant offers. If you wish to opt out of such exchanges you may click here or follow the instructions provided at the point of collection (remove check mark).
+We assign a unique generic user ID ("GUID") to each User. GUIDs are anonymized, and contain no personally-identifiable information. We use GUIDs to track and report on Users' engagement with our Website, transactions with us and any prizes, awards or other benefits to which they may be entitled. GUIDs may be shared with third-party advertiser to facilitate and report on a User's engagement with advertisements or offers from such third parties.
 
-**4\. Targeted or Behavioral Advertising:**
+We share a User's Google Advertising ID with application tracking companies so that they can track and report to us whether a User has viewed, clicked on our accepted an advertiser's offer or downloaded an advertiser's app.
 
-Targeted advertising (also known as Behavioral Advertising) uses information collected about an individual’s web browsing behavior such as the pages they have visited or the searches they have made. This information is then used to select which advertisement should be displayed to a particular individual on websites other than pch.com. For example, if you have shown a preference for cooking while visiting pch.com, you may be served an advertisement from pch.com for cooking related products when you visit a site other than pch.com. The information collected is linked to an anonymous cookie ID (random alphanumeric number). it does not include any information that could be linked back to a particular person, such as name, address or credit card number. The information used for targeted advertising either comes from pch.com or through third party website publishers. If you would like to opt out of targeted advertising from pch.com that occurs when visiting our third party advertising publishers, please click here. Please note that this will opt you out of targeted ads from Publishers Clearing House and any other participating advertisers. If you opt out, you will continue to receive online advertising from Publishers Clearing House. however, these ads may not be as relevant to you.
+We use third-party service providers to verify a User's address, in order to ensure our commercial messages reach the intended User and to process any User orders prior to shipping, submit a list of User names and addresses to the third-party for
 
-When you use AdChoices to bookmark and share our products and site, you will be taken to a third party site. Please note that their privacy policy governs the collection and use of the information collected on those sites.
+We may provide User contact information and data to selected third-party advertisers and publishers to present offers directly to our Users that are geared towards their interests.
 
-You may use the AdChoices widget to tell your friends about the site, you will need to provide your friends email address to tell them about the site. PCHbingo, PCHlotto, PCHslots, PCHBlackJack, and PCHCasino have no access to this third party information, please read AdChoices’ privacy policy to learn more about their privacy practices.
+Our applications may contain tools from third-party service providers that enable those third parties to collect and analyze non-personally identifiable information from Users' devices in accordance with such third parties' own privacy policies and subject to the legal requirements that apply to them.
 
-**5\. Do our sites disclose user information to third parties?**
+In the event of a merger, acquisition or change of control of PCH, customer data would be considered a business asset and would be transferred. We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We may also disclose consumer data as required by law or to protect the safety and security of our Users.
 
-We disclose user information in aggregate form to marketing partners. For example, we might tell a marketing partner how many users visited our sites over a period of time, but we will never tell them who it was that saw or clicked on their offer, unless that user has given us permission to do so.
+We will provide your name and address to the publisher of any magazine you order, or any item you order that is shipped to you directly by the seller, so they can fulfill your order. Such publishers or sellers may exchange or rent their subscriber and customer names, typically to third-parties with offers that align with User interests. If you do not wish to receive such offers, we suggest that you notify the publisher or seller directly, as PCH is not able to make such requests on your behalf.
 
-We forward personally identifiable information to select vendors or third parties necessary for the fulfillment of any prize you may win. We utilize the services of and disclose user information to our service providers and subcontractors for purposes of collecting information on our behalf and for administrative and other purposes that we may deem necessary to maintain service and improve the user experience. Unless otherwise noted in this Privacy Policy or at the point of collection, we will not share personally identifiable information with marketing partners.
+We use other third party vendors such as lettershops, e-mail service providers, credit card processors and fulfillment houses, to provide postal and e-mail delivery services, order processing and order fulfillment services. When you order or register on our Website, we may share your consumer data to enable these third parties to provide these services. These third parties are prohibited from using your consumer data for any other purpose including their own marketing purposes.
 
-Visitors who do not want to hear about our sites' opportunities may follow the simple unsubscribe procedure of removing the check mark located at the permission notice box appearing on each site's registration and/or entry page. If an opt out is not submitted, we may notify users by email about special opportunities, drawings, contests, and events. In the event of a merger, acquisition, or change of control, customer data would be considered a business asset and may be transferred. We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We may also disclose personal information as required by law or to protect the safety and security of our users.
+When you register with our Website, we may share your name and information with third parties who may contact you with relevant offers. If you wish to opt out of such exchanges you may click here .
 
-**6\. Can I opt-out of the sites' collection and/or distribution of information?**
+We may share your personally identifiable information with our affiliates, our technical consultants, auditors, attorneys and other third parties who work with us to make our Website and services available.
 
-Receiving email messages is optional. As noted earlier, the collection, use, and distribution of personal data helps us create a more personalized, relevant, and intelligent web service for our users. Our sites will not contact you with email offers and announcements from us or from select marketing partners if you follow the simple opt-out procedure of removing the check mark located at the permission notice box appearing on the sites registration and/or entry pages. To update your password or update, correct, or delete registration information, please go to MY ACCOUNT.
+6\. What are Cookies and other tracking technologies?
 
-If you are already receiving emails and no longer wish to receive such communications, simply follow the "unsubscribe" instructions that appear in the e-mail, or click on the "Contact us" link or write directly to us care of: Consumer &. Privacy Affairs, 382 Channel Drive, Port Washington, New York, 11050. Please note that we will confirm each entry into PCHlotto with an email summary of the number you have selected and each entry into PCHbingo with an email summary of the numbers you have selected.
+PCH and its partners use cookies or similar technologies to recognize User access privileges to PCH, analyze trends, administer the website, track users’ movements around the website, add advertisements for goods or services we think may interest you, estimate our audience size, and to gather demographic information about our user base as a whole.
 
-If you have provided personal information directly to our third party marketing partners and are receiving email communications directly from these third parties, we cannot, in most instances, unsubscribe users from these third parties. If you wish to unsubscribe from one of our marketing partner's e-mail programs, please follow their unsubscribe procedures which will be found within their e-mails or in their privacy policy.
+A cookie is a small data file that a website can send to the browser on your computer when you link to that website. A cookie can hold information deposited in the file by a website, which can then be read by other sites. A cookie is not a computer program, it does not extract personal information about you or from your computer and it does not read data on your hard drive or instruct your computer to perform any function.
 
-**7\. What about external web sites?**
+You may be able to use your browser to give you the option of accepting or rejecting a cookie whenever you visit a website. You may also be able to use your browser or other software to clear cookies from your browser any time you wish. However, deleting a website's cookie may mean that some features of our Website will not operate correct. Besides cookies, we may use web beacons, tracking pixels or similar tracking mechanisms to track your usage patterns on our Website. Like cookies, these small files do not store, record or share any personal information about you. We utilize third-party internet service providers to collect site traffic data through the use of such tracking technologies that can be embedded in our Website. These service providers can then provide us with aggregate and anonymous usage data to allow us to improve our Website. This usage data cannot in be associated with any personal information we have about you.
 
-To the extent hyperlinks or banner advertisements incorporating hyperlinks are utilized on our Sites to access third party sites, users should be aware that these third party web sites are not controlled by our sites and, therefore, are not subject to this privacy policy. We recommend that users check the privacy policies of these individual sites to see how their personal information will be utilized.
+7\. Targeted or Behavioral Advertising:
 
-**8\. What do PCHbingo, PCHlotto, PCHslots, PCHBlackJack, and PCHCasino do to keep their sites secure?**
+Targeted (also known as Behavioral) Advertising uses information collected on a person's web browsing behavior (such as the pages they have visited or the searches they have made) to select relevant digital experiences and advertisements for display to that person on third-party websites. For example, if you have shown an interest in cooking while visiting PCH, you may be served an advertisement from PCH or a third-party advertiser for cooking-related products when you visit a website other than our Website. The information collected is linked only to an anonymous GUID. it does not include any information that could be linked back to a particular person, such as their name, address or credit card number.
 
-We have implemented a number of security features throughout our sites that are intended to prevent the unauthorized release of or access to the user information we collect online. For example, database information is firewall protected. Also, only authorized personnel and approved service providers have access to any stored personal information we collect from our users. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). While we strive to create secure and reliable sites for our users, the confidentiality of any communication or material transmitted over the Internet cannot be 100% guaranteed. Users should keep in mind that any information submitted through an Internet transaction is potentially accessible to the public, and consequently, can be collected and used by others without their consent. We are not responsible or liable for illegal interception of personal data via any Internet transaction.
+If you would like to opt out of Targeted Advertising, please click here . If you are accessing our promotions and content through our mobile apps, you may opt out of such targeted advertising by opening the menu options on our APP, clicking on “Ad Preferences” and completing your opt-out preferences as indicated.
 
-**9\. Do our sites collect information from users outside of the United States?**
+Please note that this will opt you out of targeted ads from PCH and any other participating advertisers. If you opt out, you will continue to receive online advertising from Publishers Clearing House. however, these ads won't be targeted and therefore may not be as relevant to you.
 
-Our sites are not directed to visitors residing outside of the United States and such users are not eligible to submit online sweepstakes entries. If we become aware that a user who does not reside in the United States has registered with the sites, we will use reasonable efforts to remove such information from our files.
+8\. Can I opt-out of receiving email from PCH?
 
-**10\. Your California Privacy Rights:**
+Yes. Receiving email from PCH is always optional. You may opt-in to all, some or none of our email programs. If you are already receiving PCH promotional emails for one or more of our email programs, and no longer wish to receive such communications, simply follow the "unsubscribe" instructions that appear in every PCH e-mail. If you prefer, or have other questions, you can contact us through the "Contact Us" page found in the Info Center on our Website at https://info.pch.com/ or by writing directly to Christopher L. Irving, Consumer &. Privacy Affairs, PCH, 300 Jericho Quadrangle, #300, Jericho, New York, 11753.
 
-As stated in this Privacy Policy we do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure. Please note that if you opt-in to receive future communications from a third party, your information will be subject to that third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information. If you do not want your name passed on to other companies for the purpose of receiving marketing offers do not complete the consent found on the offer page. You can also contact us at any time with questions or your request to unsubscribe by clicking on the "Contact us" link or by writing directly to us care of: Consumer &. Privacy Affairs, 382 Channel Drive, Port Washington, New York, 11050 and we will be pleased to respect your wishes.
+If you have provided consumer data directly to our third-party marketing partners, and are receiving email communications directly from these third parties, PCH cannot in most instances unsubscribe you from these third party email programs. If you wish to unsubscribe from one of our marketing partners, please follow the unsubscribe procedures within their e-mails or in their privacy policy.
 
-**11\. Further Questions?**
+9\. Can I opt-out of data collection and use by PCH?
 
-We welcome any questions or comments you may have regarding this privacy policy and our information sharing practices. To contact us, please click on the “Contact us" link or write directly to us at Consumer &. Privacy Affairs, 382 Channel Drive, Port Washington, New York, 11050. Or you may visit our online customer support tool at http://pch.custhelp.com/app/answers/detail/a\_id/174.
+We will retain your data for as long as your account is active and the data is needed for contest processing or to provide you the goods and services that you may have ordered.
+
+If you wish to cancel your account or request that we no longer use your information to provide you services contact us at privacychoices@cc.pch.com . We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We will respond to your request within a reasonable timeframe.
+
+Residents of some states have additional rights to control access to and use of their data. Please see the state-specific statements of privacy rights below.
+
+10\. What about third-party websites?
+
+By clicking on hyperlinks or banner advertisements on our Website, you may be redirected to websites owned and operated by advertisers and other third parties. PCH does not control such websites or their owners and operators, and such websites are not subject to this Privacy Policy. Any data submitted on or collected by such a third party website will be governed by the privacy policy on that website. We recommend that Users check the privacy policies of such third-party websites to see how their consumer data will be collected, processed and shared.
+
+We sometimes partner with third parties to present co-branded promotions, offers and experiences, so you may occasionally find yourself on a third-party website that displays our branding. Please be sure to pay attention to the URL displayed on your browser, so that you will know whose privacy policy governs the collection, processing and sharing of your consumer data. It may not always be this Privacy Policy.
+
+11\. What does PCH do to keep their Website secure?
+
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received, including appropriate organizational, technological and physical safeguards commensurate with the sensitivity of the personal information in question. Although we believe that the measures we take to safeguard your data are appropriate, we cannot guarantee its absolute security. To further protect your data, we recommend that you use complex passwords for your accounts with us and for accounts with third parties that you link to any of your accounts with us. Please do not use the same passwords you use for PCH for other services or share your password with unauthorized people.
+
+12\. Does PCH collect information from Users outside of the United States?
+
+Our Website is not intended to be used by visitors residing outside of the United States and such Users are not eligible to register or submit online sweepstakes entries. However, some sweepstakes promoted on our Website are open to residents of Canada (excluding Quebec), who can participate in these sweepstakes by sending a write-in entry to the address provided in the Official Rules. We regret that, due to systems limitations, non-U.S. residents may not order products through PCH.
+
+13\. Does PCH collect personal information from children?
+
+Our Website is not intended for or directed to persons under the age of sixteen, and PCH does not intend to collect personal information from individuals in this age group. If PCH receives actual notice that a person under the age of sixteen has provided personal information to PCH, PCH will promptly (immediately, in the case of persons under the age of thirteen) remove such information from its files.
+
+14\. What about off-line information and privacy practices?
+
+PCH collects certain consumer data from our direct mail customers and entrants primarily to process sweepstakes entries and fulfill orders for the products and services we offer. For example, we need your full name and address to enter you in major sweepstakes, to send you any magazine subscription or product you may purchase or to notify you if you've won a prize. We use information on your product purchases to infer your areas of interest so we can provide you with the most relevant offers and products. We may also use the personal data we collect for systems administration and troubleshooting purposes, and to report aggregate information to our marketing partners and other third parties.
+
+PCH shares or exchanges mailing lists and other offline marketing information about the offline consumers who respond to our offers with publishers, list brokers and direct marketers, so they may contact you about products and services that may interest you.
+
+If you do not want your name passed to other companies for the purpose of receiving marketing offers, just tell us by contacting us at privacychoices@cc.pch.com or by writing to Christopher L. Irving, Consumer &. Privacy Affairs, PCH, 300 Jericho Quadrangle #300 Jericho, NY 11753. and we will be pleased to respect your wishes. Please make sure to provide your full name, address, city, state and zip code information if you wish your request to apply to both on-line and off-line marketing information sharing.
+
+15\. Your California Privacy Rights:
+
+The following information for California residents covers on-line (internet) and off-line (direct mail) information sharing activities. Please review the complete Publishers Clearing House Privacy Policy for full details on our information sharing and privacy practices. As detailed in this Privacy Policy, PCH may use, collect, disclose and sell personal information about the consumers who respond to our offers. California consumers who wish to learn more about such practice and their rights under the California Consumer Protection Act, including the right to opt out of the sale of your data, may click here.
+
+16\. Your Nevada Privacy Rights:
+
+Nevada residents may use the following link to request that your personal information not be sold to third parties: https://accounts.pch.com/do-not-sell
+
+17\. Further Questions?
+
+We welcome any questions or comments you may have regarding this Privacy Policy or the use of your data. To contact us, please visit the Info Center of the Website or write directly to Christopher L. Irving, Consumer &. Privacy Affairs, PCH, 300 Jericho Quadrangle #300 Jericho, NY 11753.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S. based third-party dispute resolution provider at https://feedback-form.truste.com/watchdog/request .
