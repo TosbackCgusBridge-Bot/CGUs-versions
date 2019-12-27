@@ -507,10 +507,6 @@ Offers
     
     When you spend $100+ on Gift Cards. SEE DETAILS
     
-*   Get A $10 Fandango Promo Code
-    
-    When you spend $10 on Scotch Products at Walmart. SEE DETAILS
-    
 
 New + Coming soon
 
@@ -585,8 +581,4 @@ Fandango Affiliated Companies:
 *   Fandango Latin America
 *   Ingresso
 
-© 2019 Fandango Got a minute?
-
-Help us improve Fandango by taking a short survey!
-
-Take the surveyNo Thanks
+© 2019 Fandango
