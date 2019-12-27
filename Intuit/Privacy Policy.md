@@ -4,26 +4,23 @@ Free Shipping Over $49See DetailsEnable Accessibility
 
 Shop Departments
 
-*   Holiday Gifts
-    *   Gifts Under $15
-    *   Gifts Under $25
-    *   Gifts for Her
-    *   Gifts for Him
-    *   Gifts for Kids
-    *   Shop All Gifts
-*   Toys
-*   Coupons
+*   Same Day Pickup
+*   Weekly Ad
 *   Deals
     *   Special Deals
     *   Deals Under $10
     *   Deals Under $15
     *   Shop All Deals
-*   More
-    *   Clearance
-    *   Same Day Pickup
-    *   Weekly Ad
+*   Clearance
+    *   Women
+    *   Shoes
+    *   Men
+    *   Kids
+    *   Home
+    *   More Categories
+*   Coupons
 
-Near YouFind a StoreBackFinal Hours Of COUPON CODE HOLLY47ENDS IN00HOURS 41MINS 27SECS See Details\*Extra 30% off select apparel, shoes, accessories, fine jewelry and home purchases of $100 or more. Extra 25% off select purchases under $100. Extra 10% off furniture, mattresses, housewares, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches and salon products. Each offer good at jcp.com only, excluding taxes and shipping charges, 12/25/19. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Best Value, Daily Deals, Limited Time Specials, Levi's, Denizen from Levi’s, Disney Collection, Disney Tsum Tsum, French Toast, Fisher-Price, Fanatics, Licensed Team Sports Merchandise, Columbia, Carhartt, Nike, adidas, Reebok, Puma, Champion, Converse, Clarks, Skechers Women's Shoes, Skechers Athletic Shoes, Bobs from Skechers, Keds, Grasshoppers, Athletic Shoes, Goddess Lingerie, Dreamgirl, Jewelry Trunk Shows, Modern Bride Design Your Dream Ring, Pre-Owned Watches, Smartwatches, Garmin, Fitbit, Sephora, Food, Penney Lane, S'ip by S'well, Electronics, Brookstone, Sharper Image, In-Home Custom Design, Tempur-Pedic, Neato Robotics, iRobot, Sporting Goods/Outdoor Gear, Toys, Baby Furniture, Baby Gear, Baby Nursing and Feeding Items, Personalized Jewelry, Wigs and Extensions, Purchase with Purchase Items, In-Store Services, Service Plans, Gift Cards, Closing Store purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code HOLLY47 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. DetailsUP TO 50% OFF ALL TOYSExcluded from coupons.UP TO 50% OFF SEPHORA INSIDE JCPENNEYselect items**Starting at 9.99 ** **jeans for the family**19.99Juniors’ Arizona jeans select styles | reg. $42  
+Near YouFind a StoreBackUP TO 50% OFF ALL TOYSExcluded from coupons.UP TO 50% OFF SEPHORA INSIDE JCPENNEYselect items**Starting at 9.99 ** **jeans for the family**19.99Juniors’ Arizona jeans select styles | reg. $42  
 21.99Guys’ Arizona flex jeans select styles | reg. $42  
 9.99Boys’ original straight fit jeans select styles | reg. $30  
 14.99Girls’ Arizona jeans select styles | reg. $30  
@@ -35,26 +32,27 @@ HOME STOCK-UP &. WHITE SALE**select styles 25% off Nike for the familySelect sty
 *   KIDS
 *   SHOES
 
-Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 40 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+**New Beauty at Sephora inside JCPenney**Shop Now Fenty Beauty by Rihanna Snap Shadows Mix &. Match Eyeshadow Palettes  Sephora Collection MakeupBy Mario X SephoraEye Brush Set OleHenriksen Truth  
+Juice Daily Cleanser Too Faced Lip InjectionExtreme Lip Plumper Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 40 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
 *   LIMITED TIME SPECIAL!
     
     $25 sale
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(61)
-*   $1499after couponwas $60 Arizona Womens Yetta Block Heel Lace Up Boots(174)
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(62)
 *   LIMITED TIME SPECIAL!
     
     $25 sale
     
     was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(67)
-*   $1499after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(90)
+*   $1699after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(96)
+*   $483after couponwas $38 City Streets 3/4 Sleeve Holiday Swing Dresses(32)
 *   LIMITED TIME SPECIAL!
     
     $25 sale
     
     was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver(70)
-*   $426after couponwas $38 City Streets 3/4 Sleeve Holiday Swing Dresses(32)
+*   $2549after couponwas $70 a.n.a Womens Alford Stacked Heel Motorcycle Boots(72)
 
 Shop and Save at JCPenney
 
