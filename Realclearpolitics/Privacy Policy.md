@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _David Drucker_: Trump Racks Up Wins as Impeachment Grips D.C.
+*   _Paul Waldman_: Could Dems Impeach Trump Twice? They Might Have To
     
-*   _Bill Schneider_: The Main Issue of 2020 Will Be Trump, Not the Economy
+*   _Matt Mackowiak_: Pelosi Has No Leverage on Impeachment &. Will Fold
     
-*   _Peder Zane_: How Trump Hatred Damages Media, Democrats
+*   _Noah Feldman_: Is Trump Above the Law?
     
-*   _Jonathan Chait_: Gabbard and the Return of the Anti-Anti-Trump Left
+*   _Adam Mill_: FBI's Contempt For the Law Needs To Be Reined In
     
-*   _Philip Wegmann_: Will Biden's Catholicism Help Answer His 2020 Prayers?
+*   _Mehta &. Barabak_: With So Much Promise, Why Is Booker's WH Bid Falling Flat?
     
-*   _Charles Hurt_: The Race-Obsessed Dems Whitewash Their Debate
+*   _David Marcus_: Why the Democratic Primary Seems Invisible
     
-*   _Adam Serwer_: Fight Over the 1619 Project Is Not About the Facts
+*   _Bankole Thompson_: Black Women Will Be Key for Democrats in 2020
     
-*   _Peter Coclanis_: How NYT Manufactures a Fake History to Stoke the Woke
+*   _Mark Zandi_: Risks for a 2020 Recession Have Receded, but Not for Long
     
-*   _Kalev Leetaru_: News Channel Chyrons Signal Diverging Narratives
+*   _Carlos Roa_: China's One Way Out of the Hong Kong Crisis
     
-*   _David Miliband_: The Fundamental Errors That Made Labour Unelectable
+*   _Sean Illing_: A Decade of Revolt
     
-*   _Jacob Sullum_: Court's Obamacare Ruling Deals a Blow to 'Hideous Monster'
+*   _John Podhoretz_: Why I Quit Twitter — and You Should, Too
     
-*   _Paul Krugman_: The Cruelty of a Trump Christmas
+*   _Michael Barone_: We're Living in (Almost) the Best of Times
     
-*   _Sebastian Mallaby_: The Self-Sabotaging Rage of Paul Krugman
+*   _Julian Zelizer_: The Five Questions That Will Decide 2020 Election
     
-*   _Eric Felten_: Behind the 'Comey' vs. 'Corney' Tempest in the IG Report
+*   _Karl Rove_: Speaker Pelosi's 'Hurry Up and Wait' Farce
     
-*   _Olivia Nuzzi_: A Conversation With Rudy Giuliani Over Bloody Marys
+*   _Tim Murphy_: Trump's Not Richard Nixon. He's Andrew Johnson.
     
-*   _Rich Cromwell_: Life Is Wonderful and Filled With Amazing Moments
+*   _E. Donald Elliott_: Against Impeachment for Thought Crimes
     
-*   _Richard Benedetto_: Trump Made It Safe to Say 'Merry Christmas' Again
+*   _Katie Glueck_: Biden's Appeal to the ‘Reasonable Republican Dad’ Vote
     
-*   _Ben White_: Will the Economy Make or Break Trump's Reelection in 2020?
+*   _George Bardmesser_: The Front-Runner's Big Iowa Rally
     
-*   _Frank Miele_: 'Impeachment Takes a Holiday'--Verdict: Trump Wins Again
+*   _Bill Scher_: The 2019 Presidential Campaign Dropouts, Ranked
     
-*   _Joseph Ellis_: Why Pelosi's Pause Is a Smart Strategy for Democrats
+*   _James Pinkerton_: Why Conservatives Should Take Their Fight to the Cities
     
-*   _Liz Peek_: Hatred of Trump Has Led Pelosi Astray
+*   _Ari Hoffman_: Seattle's Anti-Semitism Problem
     
-*   _Kruse &. Zelizer_: Unlike Trump, Obama Aimed for Bipartisanship in Office
+*   _Ben Caspit_: Netanyahu's Election Strategy: Play Victim, or Hero?
     
-*   _Adam Mill_: The FBI's Darkest Hour
+*   _Mark Hemingway_: An American Later-Term Abortion Trial on Women in Africa
     
-*   _Graham Allison_: Is China Beating America to AI Supremacy?
+*   _David Andelman_: A West Africa Pullback Would Give Terrorists Free Rein
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Will Biden's Catholicism Help Answer His 2020 Prayers?
 *   Space Force Will Start Small But Gives Trump a Big Win
+*   Trump: Pelosi Is Going to Get Thrown Out as Speaker Once Again
 *   Buttigieg Takes Fire But Also Lobs It Back
-*   Barr: FBI Misconduct Cannot Be Squared With Innocent Mistakes
 *   Amid FISA Scrutiny, Critics Warn of FBI Briefing "Subterfuge"
-*   At California Debate, Sanders Continues His Golden State Push
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,26 +252,37 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalThe Hill/HarrisX
-    *   Approve49
-    *   Disapprove51Disapprove +2
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve48
-    *   Disapprove51Disapprove +3
-*   Direction of CountryRasmussen Reports
-    *   Right Direction39
-    *   Wrong Track56Wrong Track +17
-*   General Election: Trump vs. BidenCNN
-    *   Biden49
-    *   Trump44Biden +5
+*   2020 Democratic Presidential NominationEconomist/YouGov
+    *   Biden30
+    *   Sanders17
+    *   Warren19
+    *   Buttigieg7
+    *   Bloomberg4
+    *   Klobuchar5
+    *   Yang3
+    *   Booker2
+    *   Gabbard2
+    *   Steyer1
+    *   Castro1
+    *   Delaney1
+    *   Bennet0Biden +11
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve43
+    *   Disapprove54Disapprove +11
+*   2020 Generic Congressional VoteEconomist/YouGov
+    *   Democrats47
+    *   Republicans41Democrats +6
+*   Congressional Job ApprovalEconomist/YouGov
+    *   Approve18
+    *   Disapprove60Disapprove +42
 
 More Latest Polls In The News
 
-*   Gingrich: Pelosi, Democrats Withholding Impeachment Articles To Buy Time To Create More Evidence
-*   CNN Legal Analyst: Pelosi "Grasping" By Holding Impeachment Articles, "Republicans Hold The Cards"
-*   Alexandria Ocasio-Cortez at Bernie Sanders Rally: America Is "Not An Advanced Society," It's "Fascism"
-*   McConnell on Pelosi Holding Trump Impeachment Papers: "I'm Not Anxious To Have This Trial"
-*   Peggy Noonan: History Will Remember Trump's Impeachment As "Politics By Other Means"
+*   Michael Moore: White People "Are Not Good People". Walk On The Other Sidewalk, You Should "Be Afraid" Of Whites
+*   WSJ's Jason Riley: Murkowski Using "Democratic Talking Points" On GOP Handling Of Trump Impeachment
+*   Schumer: If Senate Impeachment Trial Has No Witnesses It Will Be Seen As "A Sham Trial, A Show Trial"
+*   Trump: Pelosi Will Be Thrown Out As Speaker Again, People Think She Has No Idea What She's Doing
+*   Dershowitz: Pelosi Holding On To Articles Of Impeachment "Abuse Of Power," Obstruction Of Senate
 
 *   Politics
 *   Policy
