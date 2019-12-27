@@ -9,10 +9,16 @@
 *   What we’re doing
     *   Focus Areas
         *   Growing the Internet
-        *   Building Trust
-        *   Improving Technical Security
-        *   Shaping the Internet’s Future
-    *   Other Issues
+        *   Strengthening the Internet
+    *   2020 Action Plan Projects
+        *   Community Networks
+        *   Internet Exchange Points (IXPs)
+        *   Measuring the Internet
+        *   Encryption
+        *   Internet Way of Networking
+        *   MANRS
+        *   Open Standards and Protocols
+        *   Time Security
 *   What you can do
     *   Take Action
         *   Attend an event
