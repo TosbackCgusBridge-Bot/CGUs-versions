@@ -16,7 +16,6 @@ Main menu
 
 *   Shows
     *   All Shows
-        *   A Wedding and a Murder
         *   An Unexpected Killer
         *   Chicago P.D.
         *   Criminal Confessions
@@ -26,22 +25,19 @@ Main menu
         *   Killer Siblings
         *   Murdered by Morning
         *   Murder For Hire
-        *   Relentless With Kate Snow
         *   Snapped
-        *   The Disappearance of the Millbrook Twins
         *   Dark Web Exposed
         *   Famous Cases Explained
         *   How To Stay Safe
         *   Searching For
-        *   Dateline: Secrets Uncovered
     *   Channel Finder
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 1:42 Crime News Teacher-Student Sex Scandals 2:23 Crime News Couples Caught Having Public Sex
+    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 1:39 License to Kill License to Kill: Dr. Christopher Duntsch 2:00 Criminal Confessions Criminal Confessions Returns with a New Season on Saturday, December 7th
 *   News
     *   Crime News
-    *   True Crime BuzzNicholas Godejohn and Gypsy Rose Blanchard are both doing time for the murder of her mother Clauddine "Dee Dee' Blanchard. Photo: Associated Press True Crime Buzz What Does Gypsy Rose Blanchard Look Like Today? Grissel Gonzaga Photo: LVMPD Crime News Woman Allegedly Kills Ex's New Lover With Tweezers
+    *   True Crime BuzzCrime News Brothers Embark On Killing Spree, Escape From Prison D'Wan Christian Sims Photo: National Center for Missing &. Exploited Children Crime News Man Claims He’s Missing Child From 25 Years Ago A jury found Roderick Covlin, 45, guilty of second-degree murder in the death of his estranged wife, Shele Danishfesky Covlin, nine years after she was found dead in the bathtub at her apartment. Photo: Getty Images Crime News Wife-Killer Went To Insane Lengths To Cover Up His Crime
 *   Podcasts
 *   Detective's Den
 *   Schedule
