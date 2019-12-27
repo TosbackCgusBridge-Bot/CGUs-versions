@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksWhat Is Planck's Constant, and Why Does the Universe Depend on It?1STWhat Do Reindeer Do When They're Not Pulling Santa's Sleigh?2NDShhh! Don't Tell. There's a Secret Apartment Atop the Eiffel Tower3RDWhy Does the 'Dirty Dancing' Lake Keep Draining?4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredChevrolet Silverado | Search Ads | SponsoredThe New Chevrolet Silverado Is Simply Astonishing!Chevrolet Silverado | Search Ads | SponsoredIcePop | SponsoredBoy Claims He Is From Mars, When Scientists Started To Take Him Seriously Family Realized Their Big MistakeIcePop | SponsoredThrone Kingdom at War | SponsoredIf You're Over 40 and Own a PC This Game is a MustThrone Kingdom at War | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksWho Was the World's First King?1STShhh! Don't Tell. There's a Secret Apartment Atop the Eiffel Tower2NDBalut Is the Asian Street Food You Gotta Eat to Believe3RDWhat Do Reindeer Do When They're Not Pulling Santa's Sleigh?4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredSoGoodly | SponsoredThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly | SponsoredKelley Blue Book | Sponsored10 Best New Cars Unveiled at the 2018 LA Auto ShowKelley Blue Book | SponsoredYahoo Search | SponsoredThe Early Signs Of Type 2 Diabetes - Research Type 2 Diabetes TreatmentsYahoo Search | Sponsored
 
 Advertisement
 
-culture - peopleGet to Know the Greek Alphabet, From Alpha to OmegaBY Alia Hoytanimals - wild animals9 Big Hairy Facts About GorillasBY Jesslyn Shieldshome &. garden - home improvementClosing Your Bedroom Door at Night Could Save Your LifeBY Carrie Whitney, Ph.D.Worldemand | Sponsored17+ Actors You Didn't Know Were Gay - No. 8 Will Shock WomenWorldemand | SponsoredStandardNews | Sponsored20 Forbidden Places You Can Never VisitStandardNews | Sponsored
+culture - peopleGet to Know the Greek Alphabet, From Alpha to OmegaBY Alia Hoytculture - peopleWhat’s the Difference Between a College and a University?BY Laurie L. Doveculture - people7 Key Questions in the U.S. Slavery Reparations DebateBY Dave RoosWorldemand | Sponsored17+ Actors You Didn't Know Were Gay - No. 8 Will Shock WomenWorldemand | SponsoredDollar Shave Club | SponsoredLearn How to Shave Your Face with These Amazing Tips and Tricks.Dollar Shave Club | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksBalut Is the Asian Street Food You Gotta Eat to Believe'Hour of Code' Demystifies Computer Programming for KidsHow Dangerous Is the Beaver?There's a Pooping Man in the Catalan Nativity SceneHow Artificial Intelligence Is Totally Changing EverythingWho Was the World's First King?by Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksThere's a Pooping Man in the Catalan Nativity SceneHow Artificial Intelligence Is Totally Changing EverythingCould an 'X17 Particle' Hint at a Fifth Force in the Universe?What's the Difference Between a Pressure Cooker and an Instant Pot?Closing Your Bedroom Door at Night Could Save Your LifeWhy Was the American Revolution So Revolutionary?by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. What Is Planck's Constant, and Why Does the Universe Depend on It?Read Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StoryChevrolet Silverado | Search AdsThe New Chevrolet Silverado Is Simply Astonishing!Chevrolet Silverado | Search Ads|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Who Was the World's First King?Read Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StorySoGoodlyThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly|SponsoredSponsoredRead Next Story
