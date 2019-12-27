@@ -213,23 +213,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   2020 Predictions: Election Security
-    *   New Orleans hamstrung by ransomware attack
-    *   WordPress patches four security vulnerabilities
-    *   Open dark web database exposes info on 267 million Facebook
-    *   2019 Tech advances
-    
-    *   Secret court judge orders FBI to reform FISA process
-    *   WordPress patches four security vulnerabilities
-    *   Hackensack Meridian Health pays undisclosed ransom payment
+    *   Consumer data privacy regulation at the federal level: An opportunity for MSPs?
+    *   Busted! 2019's top cybercrime news
     *   Dark Overlord member extradited to the U.S., pleads not guilty plea
-    *   Open database exposes 26,000 Honda Motors customers
+    *   The time is now for outsourced security services
+    *   Drupal’s Archive Tar patches multiple crititical vulnerabilities
     
-    *   Here’s to women-friendly orgs
-    *   Still growing after 30 years
-    *   123456 still a popular password
+    *   Hackensack Meridian Health pays undisclosed ransom payment
+    *   2019 Tech advances
+    *   Cybersecurity takes the stage
+    *   RSA certificates vulnerable: Keyfactor
     *   California Consumper Privacy Act: Challenge and Opportunity
-    *   Phishing operation picking on Canadian banks since at least 2017
+    
+    *   Two information-disclosing bugs found in Twitter Android
+    *   Three GozNym members sentenced domestically, internationally
+    *   Rising sea and spam levels? Emotet campaign uses Greta Thunberg as lure
+    *   British hacker sentenced after bluffed Apple extortion plot evaporates
+    *   2020 Predictions: Mobile Security
 
 Back to Top
 
