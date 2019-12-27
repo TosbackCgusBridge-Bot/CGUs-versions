@@ -126,15 +126,172 @@ Capitalized terms not defined herein shall have the meanings ascribed to them in
 
 We are committed to respecting your online privacy, and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
 
-Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, personal profile, a home or other physical address and an email address or other contact information, whether at work or at home. Currently, we do not require you to provide Personal Information in order to have access to the free commentary, analysis and news available on our Site. However, in order to provide you with some of the Site's services, you must create a profile, register and provide your email address, username, password and other specified information. At a later time, you may add additional Personal Information to your profile. In addition, we may collect Feedback from you, including in connection with User Submissions on the Site.
-
 If you are a registered user, you will have your own Seeking Alpha email account ("Seeking Alpha Email Account"). By using your Seeking Alpha Email Account, you may send messages to and receive messages from other registered users and contributors. You are strictly prohibited from sending unsolicited or unauthorized advertisements, spam, chain letters, etc. Any information that you send within such a message is visible only to the message recipients. Please note that some actions you take, such as replying to a topic, posting comments, etc. may subscribe you automatically to getting notifications to your Seeking Alpha email account. Please further note that some notifications, such as a notification for receiving a private message to your Seeking Alpha email account, may be enabled by default.
 
 We may use your email address and Seeking Alpha email account to send updates, a newsletter or news regarding our services, and those of our advertisers who may have relevant offers.
 
 You may choose not to receive email from a particular sender by rolling your mouse over the text of an email in your Seeking Alpha email account and blocking that sender. If you receive the email from Seeking Alpha in an email account other than your Seeking Alpha email account and wish to block that sender, simply go into your Seeking Alpha email account and block that sender in the same way. Furthermore, if you do not wish to receive email from one of our advertisers, you may unsubscribe from receiving further email from that advertiser.
 
-If you choose to provide us with your Personal Information on the Site, we may transfer that Personal Information within Seeking Alpha or to Seeking Alpha's third-party service providers, but only to provide services on the Site, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. The services provided by our third-party service providers may include fulfilling orders, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, surveys and other features offered through our Site. If any transactions are conducted, such as your subscribing to Seeking Alpha Pro, we may also share your name, contact information and credit card information with our authorized service providers who process credit card payments. These service providers may have access to personal information needed to perform their functions, and will process it in accordance with their privacy policies. Our current credit card service provider is "Braintree". we recommend reading their privacy policy.  In addition, we may transfer your Feedback, or some summary thereof, to the author, including Personal Information. Currently, we intend just to provide the username of the person providing Feedback to the author.  The above provisions do not apply to personal information you provide us as a contributor such as date of birth or address. However, contributor details may be shared with our secure third party identification partners for the purpose of verifying contributor identities. Our current identity verification partner is "Idology". we recommend reading their privacy policy.
+**Third Party Service Providers**
+
+If you choose to provide us with your Personal Information on the Site, we may transfer that Personal Information within Seeking Alpha or to Seeking Alpha's third-party service providers, but only to provide services on the Site, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. 
+
+We do not sell Personal Information to third parties. We do allow third party service providers to collect Personal Information through our Site and share Personal Information with third party service providers for the business purposes described in this Privacy Policy, including without limitation advertising and marketing on our Site based on users’ online activities over time and across different services and devices. 
+
+We may also share aggregated information (information about our users that we combine so that it no longer identifies or references an individual user) and other anonymized information for regulatory compliance, industry and market analysis, research, demographic profiling, marketing and advertising, and other business purposes.
+
+**Data We Collect**
+
+**Purposes**
+
+**Third Party Service Providers with whom we may share your personal data**
+
+**When you register on our site as a user**
+
+Your email address
+
+_We use your email address to send you email alerts and email newsletters which you choose, and to enable you to log into the website._
+
+Amazon Web Services Inc. (Our cloud storage provider)
+
+Dyn (Oracle America, Inc.)
+
+Sendgrid, Inc.
+
+Fastly, Inc.
+
+(Dyn, Sendgrid and Fastly assist us in our communications with you)
+
+Stocks and ETFs in your investment portfolio, list of authors you follow
+
+_This information allows us to show you articles and news about your stocks, and articles by authors you follow._
+
+Amazon Web Services Inc.
+
+Investment style preference
+
+_This information allows us to show you articles relevant to your investing style_
+
+Amazon Web Services Inc.
+
+Geolocation
+
+_We use geolocation to show you advertising that may be relevant to your location, for security and anti-fraud purposes, and to ensure that we avoid doing business in locations where we are not allowed to do so by applicable law._
+
+Amazon Web Services Inc.
+
+IP address
+
+_We use IP addresses for security and anti-fraud purposes including to identify bots and other malicious activities that threaten our ability to provide our service to you._
+
+Amazon Web Services Inc.
+
+Vocation, broker information, education
+
+_This allows us to show you articles and ads relevant to your interests_
+
+Amazon Web Services Inc.
+
+If you use it as your nickname – your real name.
+
+_This is the name you have chosen to present to other users_
+
+Amazon Web Services Inc.
+
+User IDs and cookies
+
+_This information allows us to customize content and advertising to you_.
+
+Amazon Web Services Inc.
+
+Google DFP\*
+
+ID number we allocate to you
+
+_This information enables us to create browsing profiles in order to show you articles and advertising relevant to your interests._
+
+Salesforce DMP\*
+
+Encrypted email addresses of our users (MD5 hash)
+
+_This information allows us to customize content and advertising to our users in our own email newsletters or LiveIntent partner email newsletters._
+
+LiveIntent\*
+
+ \*These attributes are all passed ( **aggregated and de-identified** )- Individual Vocation, Vocation Groups, Trading Frequency, Interest, Newsletter subscriptions, Portfolio, Professional Platforms, Broker, Primary Broker, Accredited Investor, Registered User, Real Time Alerts
+
+**When you purchase a subscription to one of our services (including Marketplace)**
+
+Your real name, ZIP code
+
+_This information is required as part of our subscription sign up process, for billing purposes and to determine whether or not we need to charge you with sales tax._ 
+
+Amazon Web Services Inc.
+
+Your Marketplace subscriptions, phone number, email address, Geolocation, IP address
+
+_This information allows us to fulfill customer orders, provide customer service and marketing assistance, perform business and sales analysis, support our website functionality, and support contests, surveys and other features offered through our site_
+
+Amazon Web Services Inc.
+
+Braintree (Paypal, Inc.)
+
+Last 4 digits of your credit card number, credit card expiration date and credit card type.
+
+_This information allows us to process payments from paying subscribers_
+
+Amazon Web Services Inc.
+
+Zuora, Inc.
+
+**When you register on our site as a contributor**
+
+Contributor’s name, email address, postal address, telephone number, CFA status, profile picture, site name and URL, biographical information you have provided including education, employment, professional interests and areas of expertise.
+
+_This information is necessary for us to present your credentials on our website and manage our relationship with you._
+
+Amazon Web Services Inc.
+
+Contributor’s name, date of birth, telephone number, postal address, education, bank account details, email address, IP address, current and historical site revenue
+
+_This information allows us to process payments_ _to contributors_
+
+Amazon Web Services Inc.
+
+Tipalti
+
+Contributor’s name, email address, postal address, telephone number.
+
+_This information allows us to verify contributor identity_
+
+IDology, Inc.
+
+Contributor’s name and email address
+
+_This information allows us to communicate with end-users._
+
+Google
+
+Contributor’s IP address and cookies
+
+_This information allows us to verify contributor identity._ 
+
+Amazon Web Services Inc.
+
+  
+**When you visit our site**
+
+Geolocation
+
+_We use geolocation to show you advertising that may be relevant to your location, for security and anti-fraud purposes, and to ensure that we avoid doing business in locations where we are not allowed to do so by applicable law._
+
+Amazon Web Services Inc.
+
+IP address
+
+_We use IP addresses for security and anti-fraud purposes including to identify bots and other malicious activities that threaten our ability to provide our service to you._
+
+Amazon Web Services Inc.
 
 Seeking Alpha strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, Seeking Alpha intends to adhere to the principles set forth in this Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained. Finally, we may disclose your Personal Information or any information you submitted via the Site and its services (including via your Seeking Alpha email account) if we have a good faith belief that disclosure of such information is helpful or reasonably necessary to i) comply with any applicable law, regulation, legal process or governmental request, ii) enforce our Terms of Service including investigations of potential violations thereof, iii) detect, prevent, or otherwise address fraud or security issues, or iv) protect against harm to the rights, property or safety of Seeking Alpha, its users, yourself or the public.
 
@@ -148,12 +305,6 @@ A “Web Cookie” is a string of information that a website stores on a user’
 
 A “Web Beacon” is an object that is embedded in a web page that is usually invisible to the user and allows website operators to check whether a user has viewed a particular web page or an email. We may use Web Beacons on the Site and in emails to count users who have visited particular pages, viewed emails, and to deliver co-branded services. Web Beacons are not used to access users’ Personal Information. they are a technique we may use to compile aggregated statistics about Site usage. Web Beacons collect only a limited set of information including a Web Cookie number, time and date of a page or email view, and a description of the page or email on which the Web Beacon resides. You may not decline Web Beacons, however, they can be rendered ineffective by declining all Web Cookies or modifying your browser setting to notify you each time a Web Cookie is tendered and permit you to accept or decline Web Cookies on an individual basis.
 
-**Third Party Advertisers**
-
-We use third-party advertising companies to serve ads when you visit the Website as well as Google Analytics Advertising features. These companies may use information (not including any Personal Information) about your visits to this and other websites that are contained in Web Cookies and Web Beacons in order to provide advertisements about goods and services of interest to you. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our Privacy Policy. Using a tool created by the Network Advertising Initiative, you can opt out of several third party ad servers’ and networks’ Web Cookies simultaneously. If you would like more information about this practice and to know your choices about not having this information used by these companies, please follow the following link: http://networkadvertising.org/managing/opt\_out.asp. Please contact us if you would like to know the identity of the third-party advertising companies we are currently using to serve ads.
-
-We allow advertisers to choose the characteristics of users who will see their advertisements and we may use any of the non-Personal Information attributes we have collected (including information you may have decided not to show to other users, such as your birth year or other sensitive personal information or preferences) to select the appropriate audience for those advertisements. We do not identify you to the advertiser.
-
 3\. Privacy Principles
 
 To protect your privacy, we have adopted the following principles:
@@ -165,8 +316,7 @@ To protect your privacy, we have adopted the following principles:
 
 **3-1. Notice**
 
-We do not currently provide your Personal Information to third parties.  
-Nevertheless, we may at a later time choose to make certain offers or services available to our users from third parties. If we do, during the registration process and at certain points thereafter in connection with specific offers we may ask you whether your Personal Information may be sent to third parties who have products, services and opportunities which may be useful to you. If you give your permission to allow third parties to contact you, your Personal Information (such as your contact information and other information collected during your visit to our Site) may be shared with data aggregators, marketers (possibly in the form of list rental), and other organizations. Seeking Alpha does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Seeking Alpha's behalf unless such transfer is legally required. Regardless of your decision regarding the sharing of your Personal Information, we may share broad aggregate demographic data and related usage information with our business partners. This aggregate information does not contain any Personal Information that can identify an individual user.
+Other than as set forth above in the section “Third Party Service Providers” we do not currently provide your Personal Information to third parties.
 
 **3-2. Choice**
 
@@ -196,10 +346,6 @@ We are committed to protecting your privacy. Protecting your privacy online is a
 
 By using this Site, you consent to the terms of our Privacy Policy and to Seeking Alpha's processing of Personal Information for the purposes given above. If you do not agree to this Privacy Policy, please do not use our Site. We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time. Your continued use of our Site following the posting of changes to these terms means you accept these changes.
 
-8\. Your California Privacy Rights
-
-Seeking Alpha's Privacy Policy is to share personal information only with the owner's informed consent. With your consent, from time-to-time, Seeking Alpha may provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs. If you no longer wish your information to be shared, please let us know. If you have further inquiries regarding Seeking Alpha's Information Sharing Practices, please let us know. The designated contact for these queries is privacy@seekingalpha.com.
-
-_Updated: August 9, 2017_
+_Updated: December 26, 2019_
 
 Seeking AlphaRSS Feeds|Sitemap|About Us|Feedback|Careers|Contact UsTerms of Use|Privacy|Market Data Disclaimer|© 2019 Seeking Alpha <img src="https://sb.scorecardresearch.com/p?c1=2&c2=8500672&cv=2.0&cj=1" width="0" height="0" />. <div style="position:fixed. top:0. left:0. display:none" width="1" height="1">. <img src="/xgCxM9By/xhr/api/v1/collector/noScript.gif?appId=PXxgCxM9By">. </div>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=228550053985270&amp;ev=PageView&amp;noscript=1">. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
