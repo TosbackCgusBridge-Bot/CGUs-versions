@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksWho Was the World's First King?1STShhh! Don't Tell. There's a Secret Apartment Atop the Eiffel Tower2NDBalut Is the Asian Street Food You Gotta Eat to Believe3RDWhat Do Reindeer Do When They're Not Pulling Santa's Sleigh?4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredSoGoodly | SponsoredThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly | SponsoredKelley Blue Book | Sponsored10 Best New Cars Unveiled at the 2018 LA Auto ShowKelley Blue Book | SponsoredYahoo Search | SponsoredThe Early Signs Of Type 2 Diabetes - Research Type 2 Diabetes TreatmentsYahoo Search | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksShhh! Don't Tell. There's a Secret Apartment Atop the Eiffel Tower1STBalut Is the Asian Street Food You Gotta Eat to Believe2NDClosing Your Bedroom Door at Night Could Save Your Life3RDWho Was the World's First King?4THSoGoodly | SponsoredThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly | SponsoredKelley Blue Book | SponsoredYou'd Be Surprised That This Cool Car Is Only Under $25KKelley Blue Book | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredChevrolet Silverado | Search Ads | SponsoredThe New Chevrolet Silverado Is Simply Astonishing!Chevrolet Silverado | Search Ads | Sponsored
 
 Advertisement
 
-culture - peopleGet to Know the Greek Alphabet, From Alpha to OmegaBY Alia Hoytculture - peopleWhat’s the Difference Between a College and a University?BY Laurie L. Doveculture - people7 Key Questions in the U.S. Slavery Reparations DebateBY Dave RoosWorldemand | Sponsored17+ Actors You Didn't Know Were Gay - No. 8 Will Shock WomenWorldemand | SponsoredDollar Shave Club | SponsoredLearn How to Shave Your Face with These Amazing Tips and Tricks.Dollar Shave Club | Sponsored
+animals - wild animalsHow Dangerous Is the Beaver?BY Nathan Chandlerscience - engineeringHow Artificial Intelligence Is Totally Changing EverythingBY Patrick J. Kigerculture - peopleHow to Protect Your Packages From Porch PiratesBY Dave RoosAuto Overload | Sponsored20 Photos Captured At Airports That Will Make You Laugh Out LoudAuto Overload | SponsoredHorizontimes | SponsoredRemember Tiger Woods' Ex-wife? Try Not To Gasp When You See Her NowHorizontimes | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksThere's a Pooping Man in the Catalan Nativity SceneHow Artificial Intelligence Is Totally Changing EverythingCould an 'X17 Particle' Hint at a Fifth Force in the Universe?What's the Difference Between a Pressure Cooker and an Instant Pot?Closing Your Bedroom Door at Night Could Save Your LifeWhy Was the American Revolution So Revolutionary?by Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhy Was the American Revolution So Revolutionary?Was the Grinch Based on Dr. Seuss?Anubis Was Ancient Egypt's Jackal-headed Guard Dog of the DeadWhat Do Reindeer Do When They're Not Pulling Santa's Sleigh?Could an 'X17 Particle' Hint at a Fifth Force in the Universe?The Cornish Game Hen Is Neither Cornish Nor a Henby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Who Was the World's First King?Read Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StorySoGoodlyThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Shhh! Don't Tell. There's a Secret Apartment Atop the Eiffel TowerRead Next StorySoGoodlyThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly|SponsoredSponsoredRead Next StoryKelley Blue BookYou'd Be Surprised That This Cool Car Is Only Under $25KKelley Blue Book|SponsoredSponsoredRead Next Story
