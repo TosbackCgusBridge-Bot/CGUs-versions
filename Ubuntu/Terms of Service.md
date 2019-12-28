@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   This is why smart displays run Ubuntu Core
 *   MAAS 2.7, better networking features for server provisioning
 *   Design and Web team summary – 20 December 2019
 *   ROS-Industrial – Canonical
 *   OpenStack and Kubernetes architecture on rails with Canonical and Dell EMC
-*   Building a C snap by example
 
 *    ›
