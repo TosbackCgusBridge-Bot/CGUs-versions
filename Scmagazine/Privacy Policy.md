@@ -213,23 +213,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Consumer data privacy regulation at the federal level: An opportunity for MSPs?
-    *   Busted! 2019's top cybercrime news
-    *   Dark Overlord member extradited to the U.S., pleads not guilty plea
-    *   The time is now for outsourced security services
-    *   Drupal’s Archive Tar patches multiple crititical vulnerabilities
-    
-    *   Hackensack Meridian Health pays undisclosed ransom payment
-    *   2019 Tech advances
-    *   Cybersecurity takes the stage
-    *   RSA certificates vulnerable: Keyfactor
-    *   California Consumper Privacy Act: Challenge and Opportunity
-    
-    *   Two information-disclosing bugs found in Twitter Android
     *   Three GozNym members sentenced domestically, internationally
-    *   Rising sea and spam levels? Emotet campaign uses Greta Thunberg as lure
-    *   British hacker sentenced after bluffed Apple extortion plot evaporates
+    *   The time is now for outsourced security services
     *   2020 Predictions: Mobile Security
+    *   Here’s to women-friendly orgs
+    *   2020 Predictions: Ransomware
+    
+    *   Microsoft issues an advisory for a SharePoint vulnerability
+    *   Ring camera hacks show the need for better IoT security
+    *   Open dark web database exposes info on 267 million Facebook
+    *   Names, Social Security numbers exposed in Moss Adams breach
+    *   California Consumer Privacy Act: Challenge and Opportunity
+    
+    *   Names, Social Security numbers exposed in Moss Adams breach
+    *   Ransomware shuts down The Heritage Company
+    *   Cisco ASA and Firepower Appliance seeing increased attacks
+    *   Containing the ripple effect of cloud cyberattacks
+    *   Two information-disclosing bugs found in Twitter Android
 
 Back to Top
 
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
