@@ -72,7 +72,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   10 Amazing Fun Facts: ‘The Polar Express’ Read More
     *   A Fantabulous ‘Birds of Prey’ Character Guide Read More
-    *   2020 Golden Globe Nominations: ‘Joker’ and ‘Once Upon a Time in Hollywood’ Challenge Stiff Netflix Competition Read More
+    *   The Most Anticipated Movies of 2020 Are Directed by Women Read More
     
     Explore Content
     *   Movie Reviews
