@@ -7,13 +7,11 @@
         *   Who Makes the Internet Work
         *   Glossary of Internet Terms
 *   What we’re doing
-    *   Focus Areas
-        *   Growing the Internet
-        *   Strengthening the Internet
-    *   2020 Action Plan Projects
+    *   Growing the Internet
         *   Community Networks
         *   Internet Exchange Points (IXPs)
         *   Measuring the Internet
+    *   Strengthening the Internet
         *   Encryption
         *   Internet Way of Networking
         *   MANRS
