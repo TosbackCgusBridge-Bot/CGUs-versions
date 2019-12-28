@@ -1,8 +1,8 @@
-Globe iconLogin iconRecap iconSearch iconTickets icon Standings2019 Regular Season Standings2019 Wild Card StandingsAdvanced Standings2019 Spring Training StandingsScoresSchedule2019 Postseason2020 Regular Season2020 Spring TrainingImportant DatesProbable PitchersTeam by Team ScheduleNational BroadcastsSunday Night BroadcastsStats2019 Regular Season Stats2019 Postseason Stats2019 Sortable Team StatsSpring Training Sortable StatsStatcast LeadersBaseball SavantMilestone TrackerTop Prospect StatsOffseason LeaguesGlossaryPlayersPlayer SearchInjury UpdatesDepth ChartsTransactionsStarting LineupsTop ProspectsMobile Player AlertsMLB Players AssociationProbable PitchersVideoIn this sectionWatch Live GamesCondensed GamesGame RecapsMLB in 60 SecondsDaily FastCastInstant ReplayMLB NetworkPodcastsBusiness of BaseballFeaturedMost PopularHome RunsWalk-OffsTop Defensive PlaysGrand SlamsBest of StatcastExtra Inning MomentsChatting CageLegendary MomentsCarry the FreightNewsIn this sectionProbable PitchersTop ProspectsInjury UpdatesTransactionsStarting LineupsHall of FamePostseason HistoryAwardsMLB DraftAll-Star GameFeaturedPipelineCut4Play BallField of DreamsMLB Photos2020 Free AgentsGlossaryRare FeatsHot Stove TrackerBest of the DecadePlay BallPlayBall.orgHank Aaron InvitationalVideosPhotosNewsPitch SmartPlay Ball Near YouStates PlayParent/Coach EducationRBIPitch, Hit &. RunJr. Home Run DerbyMLB PipelineYouth AcademiesBreakthrough SeriesElite Development InvitationalUSA BaseballUSA SoftballDream SeriesTrailblazer SeriesFantasyPostseason Bracket ChallengeMLB Beat the StreakR.B.I. Baseball 19MLB Home Run DerbyMLB Line DriveCloser ReportInjury ReportProspect WatchMLB ChampionsFollow @Fantasy411AppsMLB At BatMLB BallparkMiLB First PitchR.B.I. Baseball 19MLB Home Run DerbyMLB Beat the StreakMLB Line DriveMLB At Bat FAQsMLB Ballpark FAQsTicketsGeneral Ticket InformationSeason TicketsFan ValueStubHub.comMLB.TVWatch MLB.TVMLB.TV Gift GivingBuy MLB.TV Gift CardsMLB.TV Supported DevicesMLB.TV with Extra InningsMLB.TV Blackouts FAQMLB.TV Help Center/FAQContact UsForgot Password?ShopAuctionAuthenticationAutographedJerseysCapsMen'sWomen'sKidsCollectibles &. MemorabiliaHome &. OfficeGift CertificatesEuropean ShopWinePhoto StoreTeamsAL EastBaltimore OriolesBaltimoreBoston Red SoxBostonNew York YankeesNY YankeesTampa Bay RaysTampa BayToronto Blue JaysTorontoAL CentralChicago White SoxChi White SoxCleveland IndiansClevelandDetroit TigersDetroitKansas City RoyalsKansas CityMinnesota TwinsMinnesotaAL WestHouston AstrosHoustonLos Angeles AngelsLA AngelsOakland AthleticsOaklandSeattle MarinersSeattleTexas RangersTexasNL EastAtlanta BravesAtlantaMiami MarlinsMiamiNew York MetsNY MetsPhiladelphia PhilliesPhiladelphiaWashington NationalsWashingtonNL CentralChicago CubsChi CubsCincinnati RedsCincinnatiMilwaukee BrewersMilwaukeePittsburgh PiratesPittsburghSt. Louis CardinalsSt. LouisNL WestArizona DiamondbacksArizonaColorado RockiesColoradoLos Angeles DodgersLA DodgersSan Diego PadresSan DiegoSan Francisco GiantsSan FranciscoENENES日本語한국어Log InTicketsMLB.TVShopStandingsScoresScheduleStatsPlayersVideoNewsPlay BallFantasyAppsTeamsEN MLB Privacy Policy Privacy Policy
+Globe iconLogin iconRecap iconSearch iconTickets icon Standings2019 Regular Season Standings2019 Wild Card StandingsAdvanced Standings2019 Spring Training StandingsScoresSchedule2019 Postseason2020 Regular Season2020 Spring TrainingImportant DatesProbable PitchersTeam by Team ScheduleNational BroadcastsSunday Night BroadcastsStats2019 Regular Season Stats2019 Postseason Stats2019 Sortable Team StatsSpring Training Sortable StatsStatcast LeadersBaseball SavantMilestone TrackerTop Prospect StatsOffseason LeaguesGlossaryPlayersPlayer SearchInjury UpdatesDepth ChartsTransactionsStarting LineupsTop ProspectsMobile Player AlertsMLB Players AssociationProbable PitchersVideoIn this sectionWatch Live GamesCondensed GamesGame RecapsMLB in 60 SecondsDaily FastCastInstant ReplayMLB NetworkPodcastsBusiness of BaseballFeaturedMost PopularHome RunsWalk-OffsTop Defensive PlaysGrand SlamsBest of StatcastExtra Inning MomentsChatting CageLegendary MomentsCarry the FreightNewsIn this sectionProbable PitchersTop ProspectsInjury UpdatesTransactionsStarting LineupsHall of FamePostseason HistoryAwardsMLB DraftAll-Star GameFeaturedPipelineCut4Play BallField of DreamsMLB Photos2020 Free AgentsGlossaryRare FeatsHot Stove TrackerBest of the DecadePlay BallPlayBall.orgHank Aaron InvitationalVideosPhotosNewsPitch SmartPlay Ball Near YouStates PlayParent/Coach EducationRBIPitch, Hit &. RunJr. Home Run DerbyMLB PipelineYouth AcademiesBreakthrough SeriesElite Development InvitationalUSA BaseballUSA SoftballDream SeriesTrailblazer SeriesFantasyPostseason Bracket ChallengeMLB Beat the StreakR.B.I. Baseball 19MLB Home Run DerbyMLB Line DriveCloser ReportInjury ReportProspect WatchMLB ChampionsFollow @Fantasy411AppsMLB At BatMLB BallparkMiLB First PitchR.B.I. Baseball 19MLB Home Run DerbyMLB Beat the StreakMLB Line DriveMLB At Bat FAQsMLB Ballpark FAQsTicketsGeneral Ticket InformationSeason TicketsFan ValueStubHub.comMLB.TVWatch MLB.TVMLB.TV Gift GivingBuy MLB.TV Gift CardsMLB.TV Supported DevicesMLB.TV with Extra InningsMLB.TV Blackouts FAQMLB.TV Help Center/FAQContact UsForgot Password?ShopAuctionAuthenticationAutographedJerseysCapsMen'sWomen'sKidsCollectibles &. MemorabiliaHome &. OfficeGift CertificatesEuropean ShopWinePhoto StoreTeamsAL EastBaltimore OriolesBaltimoreBoston Red SoxBostonNew York YankeesNY YankeesTampa Bay RaysTampa BayToronto Blue JaysTorontoAL CentralChicago White SoxChi White SoxCleveland IndiansClevelandDetroit TigersDetroitKansas City RoyalsKansas CityMinnesota TwinsMinnesotaAL WestHouston AstrosHoustonLos Angeles AngelsLA AngelsOakland AthleticsOaklandSeattle MarinersSeattleTexas RangersTexasNL EastAtlanta BravesAtlantaMiami MarlinsMiamiNew York MetsNY MetsPhiladelphia PhilliesPhiladelphiaWashington NationalsWashingtonNL CentralChicago CubsChi CubsCincinnati RedsCincinnatiMilwaukee BrewersMilwaukeePittsburgh PiratesPittsburghSt. Louis CardinalsSt. LouisNL WestArizona DiamondbacksArizonaColorado RockiesColoradoLos Angeles DodgersLA DodgersSan Diego PadresSan DiegoSan Francisco GiantsSan FranciscoENENES日本語한국어Log InTicketsMLB.TVShopStandingsScoresScheduleStatsPlayersVideoNewsPlay BallFantasyAppsTeamsEN MLB Privacy Policy Privacy Policy The Privacy Policy has been updated as of 1/20/20. For details on exercising rights under the California Consumer Privacy Act, click here to section 7.
 
 **PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING THIS WEBSITE, APPLICATION OR ANY OTHER MLB ADVANCED MEDIA, L.P. PRODUCT OR SERVICE.**
 
-MLB Advanced Media, L.P. ("MLB") is the organization that produces and publishes the Official Website of Major League Baseball, which encompasses MLB.com, the Official Websites of the thirty (30) Major League Baseball clubs (collectively "MLB Clubs" and each an "MLB Club"), the Official Websites of certain other MLB-related properties (collectively, this "Website"), downloadable mobile applications (e.g., MLB At Bat, MLB Ballpark) available from third party application storefronts ("Application(s)"), mobile games available from third party application storefronts (e.g., Beat the Streak, R.B.I. Baseball) ("Mobile Games"), games and other applications available from third party social media locations and gaming websites (e.g., MLB Ballpark Empire) ("Social Games" and together with Mobile Games, "Games"). For customers within the European Union and European Economic Area ("EEA"), MLB is the data controller of your personal data. To contact us, please see the contact details at the end of this Privacy Policy. This Privacy Policy is applicable to this Website, Applications, Games and all products and services provided and/or distributed (whether via this Website or elsewhere) by MLB which link to this Privacy Policy, all of which will be referred to herein collectively as the "MLB Properties" and individually as an "MLB Property." Where used in this Privacy Policy, "MLB Entities" means MLB, the Office of the Commissioner of Baseball, the MLB Clubs, Major League Baseball Properties, Inc., The MLB Network, LLC, and Tickets.com, LLC.  This Privacy Policy describes what information we collect via the MLB Properties, how we may use that information, when and to whom it may be disclosed, and the choices we offer for you to manage the personal information we collect related to your use of the MLB Properties. This Privacy Policy does not apply to the collection of information from you by MLB Clubs offline (e.g., when you provide information over the phone or on a paper form). Certain MLB Club offline privacy practices may be available for review within ballparks or at the ballpark information page located on the MLB Club websites. The MLB Properties may link to services or properties operated by third parties (e.g., the official photo store of Major League Baseball) which are not subject to this Privacy Policy. You should familiarize yourself with the privacy practices of any third party whose services or properties you utilize and direct any concerns regarding any such third party property to the administrator of the applicable property.
+MLB Advanced Media, L.P. ("MLB") is the organization that produces and publishes the Official Website of Major League Baseball, which encompasses MLB.com, the Official Websites of the thirty (30) Major League Baseball clubs (collectively "MLB Clubs" and each an "MLB Club"), the Official Websites of certain other MLB-related properties (collectively, this "Website"), downloadable mobile applications (e.g., MLB At Bat app, MLB Ballpark) available from third party application storefronts ("Application(s)"), mobile games available from third party application storefronts (e.g., Beat the Streak, R.B.I. Baseball) ("Mobile Games"), games and other applications available from third party social media locations and gaming websites (e.g., MLB Ballpark Empire) ("Social Games" and together with Mobile Games, "Games"). For customers within the European Union and European Economic Area ("EEA"), MLB is the data controller of your personal data. To contact us, please see the contact details at the end of this Privacy Policy. This Privacy Policy is applicable to this Website, Applications, Games and all products and services provided and/or distributed (whether via this Website or elsewhere) by MLB which link to this Privacy Policy, all of which will be referred to herein collectively as the "MLB Properties" and individually as an "MLB Property." Where used in this Privacy Policy, "MLB Entities" means MLB, the Office of the Commissioner of Baseball, the MLB Clubs, Major League Baseball Properties, Inc., The MLB Network, LLC, and Tickets.com, LLC.  This Privacy Policy describes what information we collect via the MLB Properties, how we may use that information, when and to whom it may be disclosed, and the choices we offer for you to manage the personal information we collect related to your use of the MLB Properties. This Privacy Policy does not apply to the collection of information from you by MLB Clubs offline (e.g., when you provide information over the phone or on a paper form). Certain MLB Club offline privacy practices may be available for review within ballparks or at the ballpark information page located on the MLB Club websites. The MLB Properties may link to services or properties operated by third parties (e.g., the official photo store of Major League Baseball) which are not subject to this Privacy Policy. You should familiarize yourself with the privacy practices of any third party whose services or properties you utilize and direct any concerns regarding any such third party property to the administrator of the applicable property.
 
 1.  Personal Information We Collect
     
@@ -16,7 +16,9 @@ MLB Advanced Media, L.P. ("MLB") is the organization that produces and publishes
     
 6.  Managing Your Personal Information
     
-7.  Other Information. Contact Us
+7.  Your California Privacy Rights
+    
+8.  Other Information. Contact Us
     
 
 1\. Personal Information We Collect
@@ -29,10 +31,17 @@ We Collect Personal Information You Choose To Provide. You may visit and enjoy m
 *   Street address,
 *   Telephone number(s),
 *   Birth date,
-*   Payment card information,
+*   Payment data,
 *   IP addresses,
-*   Location data and
-*   Contacts (as stored in your wireless device).
+*   Location data,
+*   Contacts (as stored in your wireless device),
+*   Demographic data
+*   Device data,
+*   Usage data,
+*   Voice recordings,
+*   Information about your interests and preferences,
+*   Data specifically requested in relation to an activity or an event (e.g. emergency contact information). and
+*   Data provided by third parties if you choose to connect your use of our services through a third party service.
 
 If we collect your information, in most instances, the applicable page(s) or location(s) within the MLB Property will include statements regarding what information is required and functionality for you to submit required or requested information.
 
@@ -75,7 +84,7 @@ Device ID. When you use certain MLB Properties, we or our Service Provider may c
 
 *   Aggregated and Anonymous Information. We may share aggregated, anonymous information with any third party. This information is not linked to personal information that can identify you or another individual person. Amongst other reasons, this information may be shared for analytics advertising purposes. As with many websites, we use Google Analytics to understand how you and other visitors engage with MLB Properties. If you don't want Analytics to be used in your browser, you can install the Google Analytics browser add-on (https://tools.google.com/dlpage/gaoptout). You can learn more about Google Analytics and privacy here: (https://support.google.com/analytics/answer/6004245?hl=en).
 *   Business Transfers. As time passes, MLB Advanced Media, L.P. may be sold along with its assets, or other corporate transactions may occur. In such a case, our customer information may be one of the business assets we transfer.
-*   Disclosure for Legal Purposes. We may be required to share your personal and non-personal information pursuant to judicial or governmental subpoenas, warrants or orders. If we are required to do so, we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy, we reserve the right to use, disclose or share your personal and non-personal information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of MLB Properties' Terms of Use or as required by law.  
+*   Disclosure for Legal Purposes. We may be required to share your personal and non-personal information pursuant to judicial or governmental subpoenas, warrants or orders. If we are required to do so, we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy, we reserve the right to use, disclose or share your personal and non-personal information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of MLB Terms of Use or as required by law.  
      
 
 5\. Transferring Your Personal Information Across Borders
@@ -98,25 +107,299 @@ In addition, subject to limitations as provided for by applicable data protectio
 
 Your personal information will be held for the purposes and uses set out in this Privacy Policy and for as long as there is a legal, taxation, accounting, risk management or business requirement to do so. Different retention periods apply to different types of records and data, however the longest your personal data will typically be held is six (6) years from the date of your last transaction. This period may be extended where circumstances so require or until a particular query, investigation or dispute is fully resolved.
 
-7\. Other Information. Contact Us
+7\. Your California Privacy Rights
+
+If you are a resident of California, you have certain rights pursuant to the California Consumer Privacy Act and the Shine the Light law. Those rights are detailed in this Section 7. To exercise the rights detailed in this Section 7, please click here or call us at 866-800-1275
+
+A. Right to Know About Personal Information Collected, Disclosed or Sold.
+
+You have the right to request that MLB disclose the following information to you about our collection and use of your personal information in connection with the MLB Properties over the last 12 months:
+
+*   The categories of personal information we collect about you.
+*   The categories of sources for the personal information we collect about you.
+*   Our business or commercial purpose for collecting or selling that personal information.
+*   The categories of third parties with whom we share that personal information.
+*   The specific pieces of personal information collected about you.
+*   If we sold or disclosed your personal information for a business purpose, (i) a list of the categories of personal information we have sold in the prior 12 months and (ii) a list of the categories of personal information we have disclosed in the prior 12 months.
+*   If we have not sold or disclosed your personal information in the preceding 12 months, we will disclose that upon request.
+
+B. Right to Request Deletion of Personal Information
+
+You also have the right to request that MLB delete any of your personal information that we collected via the MLB Properties and retained. We will not delete your information if we need it to protect the security or functionality of our operations, to comply with legal obligations, or for certain other reasons.
+
+C. Process MLB will use to Verify Request to Disclose or Delete California Resident's Personal Information
+
+A request to disclose or delete your information must provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information, a resident of California and it must describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it. We will only use personal information provided in a erifiable consumer request to verify the requestor's identity or authority to make the request.
+
+D. Right to Opt-Out of the Sale of Personal Information
+
+You have the right to direct us to not sell your personal information at any time.
+
+E. Your Right to Non-Discrimination for the Exercise of Your Privacy Rights
+
+We will not deny services, charge different prices, offer a different quality of service or otherwise discriminate against you for exercising these rights. Nothing in this section prohibits MLB from charging you a different price or rate, or from providing a different level or quality of goods or services to you, if that difference is reasonably related to the value provided to you by the use of your data. With your consent, MLB may choose to offer you financial incentives directly related to the value of your personal information for the collection, sale, or deletion of your personal information.
+
+F. Information Regarding Authorized Agents
+
+You may designate an authorized agent to make a request on your behalf. If you choose to do so, MLB may require you to (1) provide the authorized agent written permission to do so and (2) verify your own identity and residency directly. MLB may deny a request from an agent that does not submit proof that they have been authorized by the consumer to act on their behalf.
+
+G. Disclosures and Metrics Over the Last 12 Months
+
+MLB has disclosed and sold personal information to third parties for a business or commercial purpose in the past 12 months. MLB does not knowingly sell the personal information of minors under 16 years of age without affirmative authorization.
+
+These are the general categories of consumer personal information that MLB has collected in the last 12 months, and the sources from which that information was collected, the business purpose for which the information was collected, and the categories of third parties with whom the business shares personal information:
+
+Category of Personal Information Collected Source(s) from which that information may be collected Business Purpose Categories of Third Parties to which MLB Entities share this personal information Full Name
+
+*   MLB Properties (including but not limited to websites, apps, games, customer service)
+*   Ticketing partners (e.g. Tickets.com, Ticketmaster)
+*   E-commerce partners (e.g. MLBShop.com, Auctions, Fanatics)
+*   Social Media
+
+*   Order fulfillment
+*   Subscription management
+*   Personalization
+*   Promotions
+
+Data processing and analytics vendors
+
+Fulfillment vendors
+
+Payment processors
+
+Email address
+
+*   MLB Properties
+*   Ticketing partners
+*   E-commerce partners
+*   Social Media
+
+*   Order fulfillment
+*   Subscription management
+*   Security and access control
+*   Provision of services purchased or requested
+
+Data processing and analytics vendors
+
+Fulfillment vendors
+
+Payment processors
+
+Password
+
+*   MLB Properties
+*   Ticketing partners
+
+*   Security and access control
+*   Provision of services purchased or requested
+
+None Street Address
+
+*   MLB Properties
+*   Ticketing partners
+*   E-commerce partners
+*   Social Media
+
+*   Order fulfillment
+*   Subscription management
+
+Data processing and analytics vendors
+
+Fulfillment vendors
+
+Payment processors
+
+Telephone number
+
+*   MLB Properties
+*   Ticketing partners
+*   E-commerce partners
+
+*   Order fulfillment
+*   Subscription management
+*   Provide requested information
+*   Promotion
+
+Data processing and analytics vendors
+
+Fulfillment vendors
+
+Birth date / age
+
+*   MLB Properties
+*   Ticketing partners
+*   E-commerce partners
+*   Social Media
+
+*   Security and access control
+*   Provision of services purchased or requested
+*   Legal compliance
+
+Data processing and analytics vendors
+
+Fulfillment vendors
+
+Payment data
+
+*   MLB Properties
+*   Ticketing partners
+*   E-commerce partners
+
+*   Order fulfillment
+*   Subscription management
+
+Payment processors IP address / Device ID
+
+*   MLB Properties
+*   Ticketing partners
+*   E-commerce partners
+*   Social Media
+*   Advertising vendors (e.g. Google)
+
+*   Provide requested services
+*   Deliver advertising
+
+Data processing and analytics vendors
+
+Ad serving vendors
+
+Location data
+
+*   MLB Properties
+*   Ticketing partners
+*   E-commerce partners
+*   Social Media
+*   Advertising vendors
+
+*   Providing services (e.g. MLB.TV) that are location dependent
+*   Delivering personalized experiences
+*   Providing improved experiences and products
+*   Promotions and advertising
+
+Data processing and analytics vendors
+
+Ad serving vendors
+
+Demographic data
+
+*   MLB Properties
+*   Ticketing partners
+*   Social Media
+*   Third party data and analytics vendors
+
+*   Providing tailored services, experiences and products
+*   Improving services, experiences and products
+
+Data processing and analytics vendors Contact list
+
+*   MLB Properties (e.g. apps)
+*   Ticketing partners
+
+*   Providing requested services
+
+None Cookie data
+
+*   MLB Properties
+*   Ticketing partners
+*   E-commerce partner
+*   Social Media
+
+*   Delivering optimized services, experiences and products
+*   Advertising
+
+Advertising vendors Usage data
+
+*   MLB Properties
+*   Ticketing partners
+*   E-commerce partner
+*   Social Media
+
+*   Delivering optimized services, experiences and products
+*   Advertising
+
+Data processing and analytics vendors Voice recordings
+
+*   MLB Properties
+
+*   Request fulfillment
+
+None Data specific to an event, activity, or product (e.g. fan clubs, fantasy camps, 5k runs)
+
+*   MLB Properties
+*   Ticketing partners
+
+*   Order fulfillment
+*   Event operations
+*   Providing requested services
+
+The entities producing the event or activity, if other than an MLB Entity Preferences
+
+*   MLB Properties
+*   Ticketing partners
+
+*   Providing services, products or subscriptions
+*   Tailoring products and services in accordance with preferences
+
+Data processing and analytics vendors Data collected from third parties
+
+*   Data and analytics vendors providing aggregated and anonymized data (e.g. Adobe, Acxiom, Google, Facebook, Amazon)
+
+*   Provider and improve services and products
+
+Data processing and analytics vendors
+
+Below reflects the number of requests related to the California Consumer Privacy Act received and processed by MLB and the Clubs. These numbers will be updated at least annually (with the date of such update, and prior update, noted below):
+
+Requests to Know
+
+Received: n/a as of 1/1/2020
+
+Complied with (in whole or in part): n/a as of 1/1/2020
+
+Denied: n/a as of 1/1/2020
+
+Requests to Delete
+
+Received: n/a as of 1/1/2020
+
+Complied with (in whole or in part): n/a as of 1/1/2020
+
+Denied: n/a as of 1/1/2020
+
+Requests to Opt Out of Sale
+
+Received: n/a as of 1/1/2020
+
+Complied with (in whole or in part): n/a as of 1/1/2020
+
+Denied: n/a as of 1/1/2020
+
+The median number of days within which MLB substantively responded to requests to know, delete, and opt-out of sale is:
+
+Most recent update: January 1, 2020
+
+Prior update: n/a
+
+H. Shine the Light Law
+
+If you are a resident of California, pursuant to California Civil Code Section 1798.83, you may request information regarding our disclosure of your personal information to a third party for that party's direct marketing purposes. Any such disclosure made to a third party by us would be otherwise in accordance with the terms of this Privacy Policy. To make such a request please click here or write to us at: MLB Advanced Media, L.P., Privacy Administrator, 1271 Avenue of the Americas, New York, New York 10020.
+
+8\. Other Information. Contact Us
 
 *   No Spyware or Adware. We do not install any Spyware or Adware in connection with the MLB Properties, or distribute any commercial message, or authorize any third party to distribute any commercial message, by means of Spyware or Adware. "Spyware" or "Adware" is any software which has been downloaded to or installed on an Internet user's computer or device, without the user's actual consent, and facilitates the distribution of any commercial message to the user. If you feel you may have Spyware from another company installed on your machine, there are various anti-Spyware/Adware software applications available on the Internet to identify if this has occurred.
 *   Our Security Practices. The account information associated with the MLB Properties is password protected for your privacy and security. You choose your password for the MLB Properties so the strength of that password is determined by you. We recommend that you choose a unique password and not share your password with anyone else. In certain areas, we use industry-standard SSL encryption to protect data transmissions.
 *   Links. The MLB Properties contain links to other websites and products produced by MLB and to websites and products operated by unrelated third parties. In addition, if you click on an advertisement within the MLB Properties, you may be directed to a web page within the MLB Properties or to a third-party website or product. We are not responsible for the privacy practices of third party websites or products, and we encourage you to read the privacy policies of every website and product that collects personally identifiable information from you. This Privacy Policy applies only to the MLB Properties, unless you are notified otherwise upon accessing any third party website or product, in which case the terms and conditions set forth in such notification will apply.
-*   Your California Privacy Rights. If you are a resident of California, pursuant to California Civil Code Section 1798.83, you may request information regarding our disclosure of your personal information to a third party for that party's direct marketing purposes. Any such disclosure made to a third party by us would be otherwise in accordance with the terms of this Privacy Policy. To make such a request please send an email to dataprivacy@mlb.com or write to us at: MLB Advanced Media, L.P., Privacy Administrator, 75 Ninth Avenue, New York, New York 10011.
 *   Your Nevada Privacy Rights. If you are a resident of Nevada, in accordance with Nevada Revised Statutes Chapter 603A, you may request that we do not sell certain of your personally identifiable information (your "Covered Information" as defined in NRS Chapter 603A) by sending a request to dataprivacy@mlb.com.
 *   Special Rules For Children. Because of federal law, we are not permitted to knowingly collect any personal information from a child under the age of thirteen without the consent of that child's parent or guardian. The statements in this Privacy Policy about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen. Some elements of the MLB Properties (e.g., shop, ticketing, and auctions) require the submission of a payment card number along with personal information in connection with a purchase. other elements of the MLB Properties (e.g., fantasy baseball) require the submission of personal information to access or use the MLB Properties. Except in certain cases where limited contact information may be collected and not retained, these elements of the MLB Properties are not available to children under the age of thirteen. If a child who we know to be under the age of thirteen and for whom we have not received parental consent attempts to utilize a service on the MLB Properties which is not available to children, he/she will not be able to access it and may receive a message which relays that he/she is not eligible for such feature. For children located in jurisdictions within the EU or EEA, where this Privacy Policy refers to consent, this will require the consent of a parent or legal guardian in relation to any person under the age specified by the law applicable to the location of the child in question.
 *   Contact Us Regarding Privacy. If you have questions or concerns about this Privacy Policy, you can contact us at:  
     MLB Advanced Media, L.P.  
     Privacy Administrator  
-    75 Ninth Avenue  
-    New York, NY 10011  
+    1271 Avenue of the Americas  
+    New York, NY 10020  
     **Phone**: (646) 495-4091  
     **Fax**: (212) 485-8111  
     **Email**: dataprivacy@mlb.com
 *   Notification of Changes. If we make an important change to this Privacy Policy, we will post a notification and link within the MLB Properties so that you may review the updated policy.
-
-**LAST UPDATED AND EFFECTIVE DATE: September 3, 2019**
 
 *   OFFICIAL INFORMATION
     *   Official Info
@@ -168,7 +451,7 @@ Your personal information will be held for the purposes and uses set out in this
 Connect with MLB
 
 *   Terms of Use
-*   Privacy Policy (updated September 3, 2019)
+*   Privacy Policy
 *   Legal Notices
 *   Contact Us
 *   Cookie Preferences
