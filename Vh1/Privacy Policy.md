@@ -3,11 +3,10 @@
     *   Full Episodes
     *   Shows A-Z
     *   TV Schedule
-    *   Basketball Wives
     *   Black Ink Crew Chicago
     *   Black Ink Crew New York
     *   Cartel Crew
-    *   Love &. Hip Hop Hollywood
+    *   Love &. Hip Hop Miami
     *   Love &. Hip Hop New York
     *   Martha &. Snoop's Potluck Party Challenge
     *   RuPaul's Drag Race UK
@@ -18,7 +17,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleBasketball WivesBlack Ink Crew ChicagoBlack Ink Crew New YorkCartel CrewLove &. Hip Hop HollywoodLove &. Hip Hop New YorkMartha &. Snoop's Potluck Party ChallengeRuPaul's Drag Race UKWild 'N Outsee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleBlack Ink Crew ChicagoBlack Ink Crew New YorkCartel CrewLove &. Hip Hop MiamiLove &. Hip Hop New YorkMartha &. Snoop's Potluck Party ChallengeRuPaul's Drag Race UKWild 'N Outsee all Shows
 *   App
 *   Watch Live TV
 
