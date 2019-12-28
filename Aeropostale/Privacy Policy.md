@@ -153,6 +153,7 @@ Close submenu ( Girls Jeans ) Girls Jeans
 Close submenu ( Guys Jeans ) Guys Jeans
 
 *   View All
+*   Buy 1 Get 1 Free
 *   Destroyed Denim
 *   Skinny Jeans
 *   Slim Jeans
@@ -309,7 +310,6 @@ Menu Find a Store Aeropostale
     *   Tops
     *   Bottoms
     *   Jackets + Coats
-    *   Dresses + Rompers
     *   Matching Sets
     *   Accessories
     *   Hats + Scarves
@@ -421,6 +421,7 @@ Menu Find a Store Aeropostale
     
     *   Guys Jeans
         *   View All
+        *   Buy 1 Get 1 Free
         *   Destroyed Denim
         *   Skinny Jeans
         *   Slim Jeans
