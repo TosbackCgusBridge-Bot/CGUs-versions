@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Paul Waldman_: Could Dems Impeach Trump Twice? They Might Have To
+*   _Yascha Mounk_: Why a Trump Second Term Would Be So Much Worse
     
-*   _Matt Mackowiak_: Pelosi Has No Leverage on Impeachment &. Will Fold
+*   _Roger L. Simon_: How Trump Can Make U.S. Greater Than It Ever Was
     
-*   _Noah Feldman_: Is Trump Above the Law?
+*   _Noah Feldman_: Impeachment Trial Is Chief Justice Roberts' Nightmare
     
-*   _Adam Mill_: FBI's Contempt For the Law Needs To Be Reined In
+*   _J.T. Young_: Why Dems Have to Rely on an 'Interminable Impeachment'
     
-*   _Mehta &. Barabak_: With So Much Promise, Why Is Booker's WH Bid Falling Flat?
+*   _Steve Phillips_: The Biggest 2019 Victories for Progressives
     
-*   _David Marcus_: Why the Democratic Primary Seems Invisible
+*   _Kaylee McGhee_: Dems Must Reckon With Populist Appeal of Sanders
     
-*   _Bankole Thompson_: Black Women Will Be Key for Democrats in 2020
+*   _Heather Hurlburt_: Kim Jong-Un Is Plotting a Not So Happy New Year
     
-*   _Mark Zandi_: Risks for a 2020 Recession Have Receded, but Not for Long
+*   _David Horovitz_: Netanyahu Gets Huge Boost From Crushing Likud Win
     
-*   _Carlos Roa_: China's One Way Out of the Hong Kong Crisis
+*   _John Sutter_: Shouting Into the Apocalypse: The Decade in Climate Change
     
-*   _Sean Illing_: A Decade of Revolt
+*   _Noah Rothman_: The Fracking Decade
     
-*   _John Podhoretz_: Why I Quit Twitter — and You Should, Too
+*   _John Phelan_: We Live in the Luckiest Era in History, and Here's Why
     
-*   _Michael Barone_: We're Living in (Almost) the Best of Times
+*   _Peter Roff_: Pelosi Is Playing Political Games With Constitution
     
-*   _Julian Zelizer_: The Five Questions That Will Decide 2020 Election
+*   _Elie Honig_: The Trump Administration Is Hiding Something
     
-*   _Karl Rove_: Speaker Pelosi's 'Hurry Up and Wait' Farce
+*   _Conrad Black_: Democrats Must Live With Their Foolish Impeachment Farce
     
-*   _Tim Murphy_: Trump's Not Richard Nixon. He's Andrew Johnson.
+*   _David Leonhardt_: 'Centrist Bias' Hurts Sanders and Warren
     
-*   _E. Donald Elliott_: Against Impeachment for Thought Crimes
+*   _Ron Faucheux_: Why a Contested Democratic Convention Is Possible
     
-*   _Katie Glueck_: Biden's Appeal to the ‘Reasonable Republican Dad’ Vote
+*   _Scott Walker_: How Trump Could Be Unstoppable in 2020
     
-*   _George Bardmesser_: The Front-Runner's Big Iowa Rally
+*   _Ronald Brownstein_: One Thing About the 2020 Election Is Already Clear
     
-*   _Bill Scher_: The 2019 Presidential Campaign Dropouts, Ranked
+*   _Matthew Yglesias_: Trump Doesn't Want to Talk About His Health Care Record
     
-*   _James Pinkerton_: Why Conservatives Should Take Their Fight to the Cities
+*   _Adriana Cohen_: 'Expert' Opinions on Trump Economy Flat-Out Wrong
     
-*   _Ari Hoffman_: Seattle's Anti-Semitism Problem
+*   _Stephanie Martin_: Evangelicals Shouldn't Be Defending Trump
     
-*   _Ben Caspit_: Netanyahu's Election Strategy: Play Victim, or Hero?
+*   _Cal Thomas_: The Question Anti-Trump Christians Need to Answer
     
-*   _Mark Hemingway_: An American Later-Term Abortion Trial on Women in Africa
+*   _Melissa Grant_: How the Democratic Party Learned to Wage Class Warfare
     
-*   _David Andelman_: A West Africa Pullback Would Give Terrorists Free Rein
+*   _Ben Domenech_: As Institutions Collapse, We Must Renew Faith in Each Other
     
 
 *   Previous
@@ -252,6 +252,9 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve46
+    *   Disapprove53Disapprove +7
 *   2020 Democratic Presidential NominationEconomist/YouGov
     *   Biden30
     *   Sanders17
@@ -272,17 +275,14 @@ Latest PollsAll Polls
 *   2020 Generic Congressional VoteEconomist/YouGov
     *   Democrats47
     *   Republicans41Democrats +6
-*   Congressional Job ApprovalEconomist/YouGov
-    *   Approve18
-    *   Disapprove60Disapprove +42
 
 More Latest Polls In The News
 
+*   CNN Political Analyst: Trump Wants A "Circus" So We All Get "Confused" And Talk About Hunter Biden
 *   Michael Moore: White People "Are Not Good People". Walk On The Other Sidewalk, You Should "Be Afraid" Of Whites
 *   WSJ's Jason Riley: Murkowski Using "Democratic Talking Points" On GOP Handling Of Trump Impeachment
+*   GOP Sen. Murkowski: To "Prejudge" Outcome Of Trump Impeachment Trial Is Wrong. "Disturbed" By McConnell
 *   Schumer: If Senate Impeachment Trial Has No Witnesses It Will Be Seen As "A Sham Trial, A Show Trial"
-*   Trump: Pelosi Will Be Thrown Out As Speaker Again, People Think She Has No Idea What She's Doing
-*   Dershowitz: Pelosi Holding On To Articles Of Impeachment "Abuse Of Power," Obstruction Of Senate
 
 *   Politics
 *   Policy
