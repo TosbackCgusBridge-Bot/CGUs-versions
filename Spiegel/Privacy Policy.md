@@ -13,7 +13,7 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   28\. Dezember 2019
+*   29\. Dezember 2019
 *   Abo
 *   DAX 13.337,11ǀ
 *   Schlagzeilenǀ
@@ -367,6 +367,3 @@ SPIEGEL GRUPPE
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
-
-  
-BESbswyBESbswyBESbswy
