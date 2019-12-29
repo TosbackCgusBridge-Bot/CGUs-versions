@@ -1,4 +1,4 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Double up on savings! Get an extra 25% off, 33% off, or 50% off! Select Girls’ KanCan Signature Jeans are now 15% off. Shop Now
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Select Girls’ KanCan Signature Jeans are now 15% off. Shop Now
 
 *   United States
 *   FIND A STORE
@@ -341,6 +341,8 @@ Select Girls’ KanCan Signature Jeans are now 15% off. Shop Now
         *   Shop All Factory SecondsGive a Buckle Gift card
 
 SearchSubmitPrivacy &. Security  
+
+**Buckle Privacy &. Security Policy**
 
 Buckle cares about the privacy of our guests. Our goal is to provide the best shopping experience possible for you, and we strive to achieve that goal through our various shopping channels, including in-store, online, mobile and via telephone. This Privacy &. Security Policy (“Policy”) describes the information we collect about you and what we do with it. By visiting a store or buckle.com, downloading Buckle’s mobile application or calling Guest Services, you are accepting the practices described in this Policy.
 
