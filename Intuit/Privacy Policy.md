@@ -40,19 +40,15 @@ Juice Daily Cleanser Too Faced Lip InjectionExtreme Lip Plumper Show off your #
     $25 sale
     
     was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(66)
-*   LIMITED TIME SPECIAL!
-    
-    $25 sale
-    
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(71)
 *   $1699after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(104)
-*   $483after couponwas $38 City Streets 3/4 Sleeve Holiday Swing Dresses(34)
-*   $2549after couponwas $70 a.n.a Womens Alford Stacked Heel Motorcycle Boots(72)
+*   $483 - $806after couponwas $38 City Streets 3/4 Sleeve Holiday Swing Dresses(35)
 *   LIMITED TIME SPECIAL!
     
     $25 sale
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver(71)
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(74)
+*   $815after couponwas $32 Stafford Mens Microfleece Pajama Pants(81)
+*   $2549after couponwas $70 a.n.a Womens Alford Stacked Heel Motorcycle Boots(73)
 
 Shop and Save at JCPenney
 
