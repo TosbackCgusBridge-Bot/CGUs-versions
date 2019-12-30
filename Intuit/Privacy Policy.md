@@ -1,6 +1,6 @@
 Free Shipping Over $49See DetailsEnable Accessibility
 
-*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
+*   My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -25,30 +25,25 @@ Near YouFind a StoreBackUP TO 50% OFF ALL TOYSExcluded from coupons.UP TO 50% OF
 9.99Boys’ original straight fit jeans select styles | reg. $30  
 14.99Girls’ Arizona jeans select styles | reg. $30  
 **Buy one get one deals ** **on must-have basics**BUY 1 GET 1 50% OFF\*Men's socksselect styles |reg. $7-$24BUY 1 GET 1 50% OFF\*Shapewear Select Styles | reg. $35-$62BUY 1 GET 1 50% OFF\*Kid's Underwear, socks &. girl's bras select style | reg. $7-$22  BUY 1 GET 1 FREE\*Bras from Vanity Fair, Bali, Ambrielle, Warner's, Maidenform &. more          select styles \*Buy one item at regular price, get a second item of equal or lesser value for free or 50% off, while supplies last. **UP TO 50% OFF  
-HOME STOCK-UP &. WHITE SALE**select styles 25% off Nike for the familySelect styles | **sale $15-$90** |reg. $20 -$120  Nike excluded from coupons   
-
-*   MEN
-*   WOMEN
-*   KIDS
-*   SHOES
-
-**New Beauty at Sephora inside JCPenney**Shop Now Fenty Beauty by Rihanna Snap Shadows Mix &. Match Eyeshadow Palettes  Sephora Collection MakeupBy Mario X SephoraEye Brush Set OleHenriksen Truth  
+HOME STOCK-UP &. WHITE SALE**select styles **New Beauty at Sephora inside JCPenney**Shop Now Fenty Beauty by Rihanna Snap Shadows Mix &. Match Eyeshadow Palettes  Sephora Collection MakeupBy Mario X SephoraEye Brush Set OleHenriksen Truth  
 Juice Daily Cleanser Too Faced Lip InjectionExtreme Lip Plumper Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 40 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
 *   LIMITED TIME SPECIAL!
     
     $25 sale
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(66)
-*   $1699after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(104)
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(67)
 *   $483 - $806after couponwas $38 City Streets 3/4 Sleeve Holiday Swing Dresses(35)
+*   SPECIAL DEAL!
+    
+    $1699after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(105)
 *   LIMITED TIME SPECIAL!
     
     $25 sale
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(74)
-*   $815after couponwas $32 Stafford Mens Microfleece Pajama Pants(81)
-*   $2549after couponwas $70 a.n.a Womens Alford Stacked Heel Motorcycle Boots(73)
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(75)
+*   $2549after couponwas $70 a.n.a Womens Alford Stacked Heel Motorcycle Boots(74)
+*   $424 - $2974after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(292)
 
 Shop and Save at JCPenney
 
