@@ -136,7 +136,7 @@ Skip to main content
     *   My Account
     *   Sign Out
 
-Share on FacebookShare on TwitterShare on PinterestWebMD Privacy PolicySubscribe
+WebMD Privacy PolicySubscribe
 
 About Us
 
