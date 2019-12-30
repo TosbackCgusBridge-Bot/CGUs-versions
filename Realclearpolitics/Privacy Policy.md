@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Peter Berkowitz_: America's Proud Legacy of Liberty
+*   _David Marcus_: We Can No Longer Ignore the Attacks on Jews in NY
     
-*   _Yascha Mounk_: Why a Trump Second Term Would Be So Much Worse
+*   _Deborah Lipstadt_: Jews Are Going Underground
     
-*   _Roger L. Simon_: How Trump Can Make U.S. Greater Than It Ever Was
+*   _Roger L. Simon_: Diversity Obsession and the Rise in Anti-Semitism
     
-*   _Noah Feldman_: Impeachment Trial Is Chief Justice Roberts' Nightmare
+*   _Albert Hunt_: 2019 Political 'Person of the Year': Nancy Pelosi
     
-*   _J.T. Young_: Why Dems Have to Rely on an 'Interminable Impeachment'
+*   _Marc Thiessen_: The 10 Best Things Trump Has Done in 2019
     
-*   _Steve Phillips_: The Biggest 2019 Victories for Progressives
+*   _Eric Boehm_: Trump's Trade War Has Hurt American Manufacturers
     
-*   _Kaylee McGhee_: Dems Must Reckon With Populist Appeal of Sanders
+*   _Stephen Moore_: The Middle Class Never Had It So Good
     
-*   _Heather Hurlburt_: Kim Jong-Un Is Plotting a Not So Happy New Year
+*   _Nicole Narea_: One Surprisingly Simple Reason Evangelicals Love Trump
     
-*   _David Horovitz_: Netanyahu Gets Huge Boost From Crushing Likud Win
+*   _Michael van der Galien_: Latinos Have Little Love for Joe Biden
     
-*   _John Sutter_: Shouting Into the Apocalypse: The Decade in Climate Change
+*   _Barbara Demick_: The Star Power of Jane Fonda's Climate-Change Arrests
     
-*   _Noah Rothman_: The Fracking Decade
+*   _Kevin Williamson_: Do Celebrities Really Buy the Climate-Change Story?
     
-*   _John Phelan_: We Live in the Luckiest Era in History, and Here's Why
+*   _Roger Kimball_: The Standing Committee on Impeachment
     
-*   _Peter Roff_: Pelosi Is Playing Political Games With Constitution
+*   _Michael D'Antonio_: House Dems Have Been a Bulwark for Democracy
     
-*   _Elie Honig_: The Trump Administration Is Hiding Something
+*   _Timothy Head_: Let's Remember the Real Gifts Trump Has Given America
     
-*   _Conrad Black_: Democrats Must Live With Their Foolish Impeachment Farce
+*   _Eric Levitz_: Trump Vilifies Whistleblowers and Venerates War Criminals
     
-*   _David Leonhardt_: 'Centrist Bias' Hurts Sanders and Warren
+*   _Frank Watt_: 2 Possibilities in Trump Wiretapping--Neither Is Good
     
-*   _Ron Faucheux_: Why a Contested Democratic Convention Is Possible
+*   _Jordan Weissmann_: The 2010s Were an Economic Tragedy
     
-*   _Scott Walker_: How Trump Could Be Unstoppable in 2020
+*   _Kyle Smith_: Doomsayers Are Wrong--2010s Was the Best Decade Ever
     
-*   _Ronald Brownstein_: One Thing About the 2020 Election Is Already Clear
+*   _Jeet Heer_: Bernie Blackout Is Over--Time to Hone Electability Argument
     
-*   _Matthew Yglesias_: Trump Doesn't Want to Talk About His Health Care Record
+*   _Justin Haskins_: 2020 Dems' Radical Plans Would Destroy U.S. Economy
     
-*   _Adriana Cohen_: 'Expert' Opinions on Trump Economy Flat-Out Wrong
+*   _Jay Rosen_: The Christmas Eve Confessions of Chuck Todd
     
-*   _Stephanie Martin_: Evangelicals Shouldn't Be Defending Trump
+*   _Jim Geraghty_: Rachel Maddow's Reckoning
     
-*   _Cal Thomas_: The Question Anti-Trump Christians Need to Answer
+*   _Kent Greenfield_: Mitch McConnell Is About to Violate Two Oaths
     
-*   _Melissa Grant_: How the Democratic Party Learned to Wage Class Warfare
+*   _Byron York_: No, the Senate Is Not a Jury
     
 
 *   Previous
@@ -278,11 +278,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   NYT's Dean Baquet And WP's Marty Baron: We Can't Dismiss Trump Supporters, They Deserve Our Respect
+*   Sen. John Kennedy: Senators Are Both Judge And Jury In Impeachment Trial. "There Are No Rules"
+*   Cruz: Impeachment Charges Against Trump Are "Laughable," Don't Meet Constitutional Threshold
+*   Van Hollen on Impeachment: "Look, If You Have A Rigged Trial There's No Exoneration In Acquittal"
 *   David Brooks: It's In The Democrats' Best Interests To Drop Impeachment And Move On To The Election
-*   CNN Political Analyst: Trump Wants A "Circus" So We All Get "Confused" And Talk About Hunter Biden
-*   Michael Moore: White People "Are Not Good People". Walk On The Other Sidewalk, You Should "Be Afraid" Of Whites
-*   WSJ's Jason Riley: Murkowski Using "Democratic Talking Points" On GOP Handling Of Trump Impeachment
-*   GOP Sen. Murkowski: To "Prejudge" Outcome Of Trump Impeachment Trial Is Wrong. "Disturbed" By McConnell
 
 *   Politics
 *   Policy
