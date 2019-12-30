@@ -9,11 +9,37 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
+    *   Everyone Loves Leftovers: Holiday Styles Up to 70% Off
+    *   Denim Up to 70 Off
+    *   Season's Best Coats Up to 70% Off
+    *   Women's Shoe Blowout
+    *   Sterling Forever Jewelry Up to 60% Off
+    *   Men's Sneakers, Boots &. More Up to 65% Off
+    *   The Active Shop: Leggings &. More Up to 60% Off
+    *   The Active Shop: Luxe Layers Up to 60% Off
+    *   The Active Shop: Women's Sneakers ft. Brooks
+    *   The Active Shop: Bras, Tanks &. Tees Up to 60% Off
+    *   The Men's Active Shop: Champion, Reebok &. More
+    *   Dresses ft. Eliza J and More Incl. Plus &. Petites
+    *   The Men's Active Shop: Sneakers ft. Brooks
+    *   The Kids' Active Shop: Champion, New Balance &. More
+    *   Robert Graham
+    *   TOV
+    *   Ready, Set, Sail: Nautica Bags from $20
+    *   Sleep Sets Under $30
+    *   Call It Spring &. Aldo
+    *   Cozy Throws Up to 60% Off
+    *   Holiday Storage &. Organization
+    *   D24K by D'OR Skin Care
+    *   Free Shipping: Hand-Painted Replicas
+    *   BEARPAW Kids
+    *   Pajama Party: Kids' PJs Under $20
     *   Luxe Brands ft. Rebecca Taylor Up to 80% Off
     *   Free People Movement
     *   Samuel B Jewelry
     *   Hanky Panky
     *   Young Fabulous &. Broke
+    
     *   Clarks
     *   Kenneth Cole Reaction
     *   NIC+ZOE Up to 60% Off
@@ -33,7 +59,6 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Designer Sun ft. Fendi Up to 70% Off
     *   Designer Styles Up to 65% Off
     *   Women's Designer Shoes Up to 60% Off
-    
     *   Men's Designer Shoes ft. Allen Edmonds Up to 60% Off
     *   UGG Home: Throws, Pillows &. More
     *   Vionic Starting at $40
@@ -45,6 +70,7 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Our Best Denim: Men's Brands We Love
     *   Hart Schaffner Marx
     *   Vintage Foundry Up to 80% Off
+    
     *   Rivka Friedman Jewelry Up to 70% Off
     *   Structured Satchels from TMRW Studio
     *   14K Gold, Gemstones &. More Under $90
@@ -54,22 +80,16 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Vacation Ready: Kids' Swim Up to 55% Off
     *   Make Memories: Instax Mini Cameras &. Film
     *   Butter Super Soft &. More
-    *   SOREL
-    *   CZ by Kenneth Jay Lane
     *   Men's Snow Boots ft. SOREL
     *   Smartphone Must-Haves from $12
-    
-    *   Columbia Men's Underwear &. More
     *   Hot Hair Tools &. More Starting at $10
     *   Sesderma Skin Care Up to 50% Off
     *   Kitchen Best Sellers Up to 50% Off
     *   Sleep Tight: Kids' Character PJs
     *   Walk in Style: Kids' Boots from $25
     *   Insulated Water Bottles
-    *   Luxe Men's Shoes Under $100
     *   Candles, Notebooks &. More from $15
     *   Set the Table: Barware, Dinnerware &. More
-    *   SUPRA Men Up to 60% Off
     *   Sky Organics: Essential Oils, Bath Bombs &. More
     *   Free Shipping: BergHOFF Up to 60% Off
     *   Kitchen Must-Haves from Cuisinart
@@ -77,14 +97,25 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Gifts for Pets &. Pet Lovers
     *   Kate Spade New York Tableware, Decor &. More
     *   New Arrivals: Home Decor Starting at $15
-    *   Free Shipping: Bold Canvas Wall Art
-    *   14K Gold Jewelry Steals
-    *   Weighted Blanket Blowout
     *   Daily Deal: Kendra Scott Stone Frames at 50% Off
     *   Best Brands, Best Basics: Styles Up to 65% Off
-    *   Holiday Decor Blowout: Gnomes &. Ornaments
 *   WomenShop Sale Events
     
+    *   Everyone Loves Leftovers: Holiday Styles Up to 70% Off
+    *   Denim Up to 70 Off
+    *   Season's Best Coats Up to 70% Off
+    *   Women's Shoe Blowout
+    *   Sterling Forever Jewelry Up to 60% Off
+    *   The Active Shop: Leggings &. More Up to 60% Off
+    *   The Active Shop: Luxe Layers Up to 60% Off
+    *   The Active Shop: Women's Sneakers ft. Brooks
+    *   The Active Shop: Bras, Tanks &. Tees Up to 60% Off
+    *   Dresses ft. Eliza J and More Incl. Plus &. Petites
+    *   TOV
+    *   Ready, Set, Sail: Nautica Bags from $20
+    *   Sleep Sets Under $30
+    *   Call It Spring &. Aldo
+    *   D24K by D'OR Skin Care
     *   Luxe Brands ft. Rebecca Taylor Up to 80% Off
     *   Free People Movement
     *   Samuel B Jewelry
@@ -93,6 +124,7 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Clarks
     *   NIC+ZOE Up to 60% Off
     *   Papillon Up to 85% Off
+    
     *   Fresh Finds: Women's Shoes
     *   Raymond Weil Luxury Swiss Watches
     *   End-of-Year Special: Teami Detox Teas &. Supplements
@@ -102,7 +134,6 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Designer Styles Up to 65% Off
     *   Women's Designer Shoes Up to 60% Off
     *   Vionic Starting at $40
-    
     *   Mirenesse Australia Starting at $10
     *   Whatever the Weather: Rain Coats &. More
     *   Layer on the Cozy: Pullover Sweaters Under $25
@@ -112,47 +143,51 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Structured Satchels from TMRW Studio
     *   14K Gold, Gemstones &. More Under $90
     *   Fly in Style: Luggage
-    *   SOREL
-    *   CZ by Kenneth Jay Lane
     *   Hot Hair Tools &. More Starting at $10
     *   Sesderma Skin Care Up to 50% Off
     *   Sky Organics: Essential Oils, Bath Bombs &. More
-    *   14K Gold Jewelry Steals
     *   Best Brands, Best Basics: Styles Up to 65% Off
     
     Shop By Category
     *   Clothing
-    *   Jewelry
     *   Lingerie &. Shapewear
     *   Shoes
+    *   Jewelry
     *   Accessories
     *   Handbags
     *   Watches
 *   MenShop Sale Events
     
+    *   Everyone Loves Leftovers: Holiday Styles Up to 70% Off
+    *   Men's Sneakers, Boots &. More Up to 65% Off
+    *   The Men's Active Shop: Champion, Reebok &. More
+    *   The Men's Active Shop: Sneakers ft. Brooks
+    *   Robert Graham
     *   Kenneth Cole Reaction
     *   Clarks Men
+    
     *   Topo Designs
     *   Raymond Weil Luxury Swiss Watches
     *   Men's Designer Shoes ft. Allen Edmonds Up to 60% Off
     *   Our Best Denim: Men's Brands We Love
-    
     *   Hart Schaffner Marx
     *   Vintage Foundry Up to 80% Off
     *   Men's Snow Boots ft. SOREL
-    *   Columbia Men's Underwear &. More
-    *   Luxe Men's Shoes Under $100
-    *   SUPRA Men Up to 60% Off
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Accessories
     *   Watches
 *   KidsShop Sale Events
     
+    *   Everyone Loves Leftovers: Holiday Styles Up to 70% Off
+    *   The Kids' Active Shop: Champion, New Balance &. More
+    *   BEARPAW Kids
+    *   Pajama Party: Kids' PJs Under $20
     *   Winter Break Essentials for Girls Under $30
     *   Winter Break Essentials for Boys Under $30
+    
     *   MICHAEL Michael Kors Girls' Shoes
     *   Vacation Ready: Kids' Swim Up to 55% Off
     *   Butter Super Soft &. More
@@ -165,11 +200,14 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Boys' Sizes 8-20
     *   Boys' Sizes 2T-7
     *   Girls' Shoes
-    *   Baby Girl
-    *   Baby Boy
     *   Boys' Shoes
+    *   Baby Boy
+    *   Baby Girl
 *   HomeShop Sale Events
     
+    *   Cozy Throws Up to 60% Off
+    *   Holiday Storage &. Organization
+    *   Free Shipping: Hand-Painted Replicas
     *   Kitchen Essentials Up to 50% Off
     *   Wall Decals &. More from $15
     *   Duvets Sets, Pillows &. More
@@ -178,10 +216,10 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Look on the Bright Side: Lighting for Every Room
     *   Make Memories: Instax Mini Cameras &. Film
     *   Smartphone Must-Haves from $12
+    
     *   Kitchen Best Sellers Up to 50% Off
     *   Insulated Water Bottles
     *   Candles, Notebooks &. More from $15
-    
     *   Set the Table: Barware, Dinnerware &. More
     *   Free Shipping: BergHOFF Up to 60% Off
     *   Kitchen Must-Haves from Cuisinart
@@ -189,10 +227,7 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Gifts for Pets &. Pet Lovers
     *   Kate Spade New York Tableware, Decor &. More
     *   New Arrivals: Home Decor Starting at $15
-    *   Free Shipping: Bold Canvas Wall Art
-    *   Weighted Blanket Blowout
     *   Daily Deal: Kendra Scott Stone Frames at 50% Off
-    *   Holiday Decor Blowout: Gnomes &. Ornaments
     
     Shop By Category
     *   Home Decor
@@ -201,12 +236,13 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Pet Accessories
     *   Electronic &. Tech Accessories
     *   Bedding
-    *   Cleaning &. Organization
     *   Holiday Decorations
-    *   Rugs &. Doormats
+    *   Cleaning &. Organization
     *   Outdoor Living
+    *   Rugs &. Doormats
 *   BeautyShop Sale Events
     
+    *   D24K by D'OR Skin Care
     *   End-of-Year Special: Teami Detox Teas &. Supplements
     *   Non-Surgical Solutions: Secret Collagen
     *   Mirenesse Australia Starting at $10
