@@ -1,10 +1,10 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Select Girls’ KanCan Signature Jeans are now 15% off. Shop Now
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Double up on savings! Get an extra 33% off, or 50% off! Select Girls’ KanCan Signature Jeans are now 15% off. Shop Now
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-Select Girls’ KanCan Signature Jeans are now 15% off. Shop Now
+Double up on savings! Get an extra 33% off, or 50% off!
 
 *   Women
 *   Men
@@ -342,8 +342,6 @@ Select Girls’ KanCan Signature Jeans are now 15% off. Shop Now
 
 SearchSubmitPrivacy &. Security  
 
-**Buckle Privacy &. Security Policy**
-
 Buckle cares about the privacy of our guests. Our goal is to provide the best shopping experience possible for you, and we strive to achieve that goal through our various shopping channels, including in-store, online, mobile and via telephone. This Privacy &. Security Policy (“Policy”) describes the information we collect about you and what we do with it. By visiting a store or buckle.com, downloading Buckle’s mobile application or calling Guest Services, you are accepting the practices described in this Policy.
 
 **What We Collect**
@@ -568,4 +566,4 @@ Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
 
-Favorite Product Quick ShopClose Quick Shop×
+Favorite Product Quick ShopClose Quick Shop×<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.
