@@ -12,31 +12,31 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1187 games
-*   Most Popular Games 20230 games
+*   Best of new games 1189 games
+*   Most Popular Games 20232 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,164 games
-*   Driving &. Racing Games 6,231 games
+*   Games for girls 24,165 games
+*   Driving &. Racing Games 6,232 games
 *   Strategy &. RPG Games 3,640 games
-*   Management Games 4,250 games
-*   Thinking Games 12,457 games
+*   Management Games 4,251 games
+*   Thinking Games 12,460 games
 *   Action &. Adventure Games 14,729 games
-*   Sports Games 3,291 games
+*   Sports Games 3,292 games
 *   Shooting Games 8,978 games
 *   Fighting Games 2,093 games
-*   Skill Games 10,885 games
-*   Arcade &. Classic Games 8,710 games
-*   Fun &. Crazy Games 4,781 games
+*   Skill Games 10,889 games
+*   Arcade &. Classic Games 8,720 games
+*   Fun &. Crazy Games 4,780 games
 
 Play with friends  
 Powered by Y8 Account 131 Y8 Multiplayer Games 2,169 Y8 High Score Games 1,213 Y8 Achievements Games 852 Y8 Screenshots Games 1,584 Y8 Online Save Games 3,300 All Y8 Games Games Last Highscore:
 
-**118** points on Death Run 3D by Nokugami\_OwO
+**8,704** points on Orion Sandbox Enhanced by Peluche
 
 Help us improve Bad translation? Social
 
