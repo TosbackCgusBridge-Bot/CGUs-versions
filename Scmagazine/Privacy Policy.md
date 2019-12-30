@@ -213,23 +213,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Secret court judge orders FBI to reform FISA process
-    *   It’s a trap! Cybercriminals use Star Wars: Rise of Skywalker as bait
-    *   2020 Predictions: Election Security
-    *   2019 Data breaches
-    *   Three GozNym members sentenced domestically, internationally
-    
-    *   Citrix vulnerability places 80,000 companies at risk
-    *   Multiple-malware dropper ‘Legion Loader’ dissected
-    *   Mastercard makes a holiday purchase acquiring RiskRecon
-    *   Two information-disclosing bugs found in Twitter Android
+    *   Open dark web database exposes info on 267 million Facebook
+    *   Names, Social Security numbers exposed in Moss Adams breach
+    *   Here’s to women-friendly orgs
+    *   Microsoft issues an advisory for a SharePoint vulnerability
     *   Cisco ASA and Firepower Appliance seeing increased attacks
     
+    *   Dark Overlord member extradited to the U.S., pleads not guilty plea
+    *   2019's weird and wonderful news
+    *   It’s a trap! Cybercriminals use Star Wars: Rise of Skywalker as bait
+    *   Ring camera hacks show the need for better IoT security
+    *   PayPal scam goes after account info, payment card data
+    
+    *   2020 cybersecurity predictions
     *   Names, Social Security numbers exposed in Moss Adams breach
     *   Ransomware shuts down The Heritage Company
     *   Cisco ASA and Firepower Appliance seeing increased attacks
     *   Containing the ripple effect of cloud cyberattacks
-    *   Two information-disclosing bugs found in Twitter Android
 
 Back to Top
 
