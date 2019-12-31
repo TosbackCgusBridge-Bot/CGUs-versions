@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _David Marcus_: We Can No Longer Ignore the Attacks on Jews in NY
+*   _James Antle_: Trump's Partisan Problems Will Save His Presidency
     
-*   _Deborah Lipstadt_: Jews Are Going Underground
+*   _Greg Sargent_: New Revelations Weaken Trump’s Impeachment Defenses
     
-*   _Roger L. Simon_: Diversity Obsession and the Rise in Anti-Semitism
+*   _Jason Orestes_: Red States Must Defend Against Blue-State Exodus
     
-*   _Albert Hunt_: 2019 Political 'Person of the Year': Nancy Pelosi
+*   _Aaron Renn_: The Rust Belt Didn't Have to Happen
     
-*   _Marc Thiessen_: The 10 Best Things Trump Has Done in 2019
+*   _Taylor Lewis_: 2020 Is Trump's to Lose
     
-*   _Eric Boehm_: Trump's Trade War Has Hurt American Manufacturers
+*   _James Foley_: Pragmatism, Not Purity, Can Defeat Trump
     
-*   _Stephen Moore_: The Middle Class Never Had It So Good
+*   _James Pinkerton_: In Praise of Rubio's Idea of 'Common Good Capitalism'
     
-*   _Nicole Narea_: One Surprisingly Simple Reason Evangelicals Love Trump
+*   _Robert Robb_: Fatal Conceit: Politicians Aren't Smarter Than Markets
     
-*   _Michael van der Galien_: Latinos Have Little Love for Joe Biden
+*   _David Smith_: DeRay Mckesson: Black Lives Matter Changed the Country
     
-*   _Barbara Demick_: The Star Power of Jane Fonda's Climate-Change Arrests
+*   _Kaylee McGhee_: Our Culture of Apathy Has Normalized Anti-Semitism
     
-*   _Kevin Williamson_: Do Celebrities Really Buy the Climate-Change Story?
+*   _Nicholas Kristof_: 2019 Has Been the Best Year in Human History
     
-*   _Roger Kimball_: The Standing Committee on Impeachment
+*   _Dave Barry_: 2019 Was an 'Eventful' (Bad) Year
     
-*   _Michael D'Antonio_: House Dems Have Been a Bulwark for Democracy
+*   _Frank Miele_: 2019: The Year That Democrats Went Off the Rails
     
-*   _Timothy Head_: Let's Remember the Real Gifts Trump Has Given America
+*   _Jeff Spross_: The 2010s Were an Economic Disaster
     
-*   _Eric Levitz_: Trump Vilifies Whistleblowers and Venerates War Criminals
+*   _Paul Adams_: Counting Our Blessings: The Best Decade Ever?
     
-*   _Frank Watt_: 2 Possibilities in Trump Wiretapping--Neither Is Good
+*   _Emma Green_: 'We're Not Safe as Jews in New York'
     
-*   _Jordan Weissmann_: The 2010s Were an Economic Tragedy
+*   _Karol Markowicz_: How Liberals Are Allowing anti-Semitism to Flourish
     
-*   _Kyle Smith_: Doomsayers Are Wrong--2010s Was the Best Decade Ever
+*   _Maria Cardona_: Electability Is Key to Democrats' 2020 Fortunes
     
-*   _Jeet Heer_: Bernie Blackout Is Over--Time to Hone Electability Argument
+*   _Victor Davis Hanson_: President Trump's 'Failures'
     
-*   _Justin Haskins_: 2020 Dems' Radical Plans Would Destroy U.S. Economy
+*   _Sheelah Kolhatkar_: Ultra-Wealthy Argue They Should Pay Higher Taxes
     
-*   _Jay Rosen_: The Christmas Eve Confessions of Chuck Todd
+*   _James Gorrie_: Trump's Inconvenient Corporate Tax Cuts
     
-*   _Jim Geraghty_: Rachel Maddow's Reckoning
+*   _Steve Frank_: The Impeachment Impasse
     
-*   _Kent Greenfield_: Mitch McConnell Is About to Violate Two Oaths
+*   _Bill Scher_: Pelosi's Impeachment Delay Can't Go On Forever
     
-*   _Byron York_: No, the Senate Is Not a Jury
+*   _Matt Ford_: A Decade of Legal Warfare Has Warped America's Future
     
 
 *   Previous
@@ -255,6 +255,9 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalRasmussen Reports
     *   Approve46
     *   Disapprove53Disapprove +7
+*   Direction of CountryRasmussen Reports
+    *   Right Direction38
+    *   Wrong Track55Wrong Track +17
 *   2020 Democratic Presidential NominationEconomist/YouGov
     *   Biden30
     *   Sanders17
@@ -272,17 +275,14 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalEconomist/YouGov
     *   Approve43
     *   Disapprove54Disapprove +11
-*   2020 Generic Congressional VoteEconomist/YouGov
-    *   Democrats47
-    *   Republicans41Democrats +6
 
 More Latest Polls In The News
 
+*   Greenblatt: You Can't Read The Headlines Without Seeing Anti-Semitic Slander And Conspiracy Theories
 *   NYT's Dean Baquet And WP's Marty Baron: We Can't Dismiss Trump Supporters, They Deserve Our Respect
 *   Sen. John Kennedy: Senators Are Both Judge And Jury In Impeachment Trial. "There Are No Rules"
 *   Cruz: Impeachment Charges Against Trump Are "Laughable," Don't Meet Constitutional Threshold
 *   Van Hollen on Impeachment: "Look, If You Have A Rigged Trial There's No Exoneration In Acquittal"
-*   David Brooks: It's In The Democrats' Best Interests To Drop Impeachment And Move On To The Election
 
 *   Politics
 *   Policy
