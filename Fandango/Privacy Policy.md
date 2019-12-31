@@ -7,33 +7,25 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     *   Star Wars: The Rise of Skywalker (2019)
     *   Jumanji: The Next Level
+    *   Little Women (2019)
     *   Frozen II
-    *   Cats (2019)
+    *   Spies in Disguise
     *   Knives Out
+    *   Uncut Gems
+    *   Cats (2019)
     *   Bombshell (2019)
     *   Richard Jewell
-    *   Queen &. Slim
-    *   Black Christmas (2019)
     *   Ford v Ferrari
-    *   A Beautiful Day in the Neighborhood
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   1917 (2019)
-    *   Little Women (2019)
-    *   Spies in Disguise
-    *   Uncut Gems
-    *   Apparition (2019)
-    *   Clemency
-    *   Ip Man 4: The Finale
-    *   Just Mercy
-    *   The Song of Names
+    *   The Grudge (2020)
+    *   Adoring (2020)
     *   See All Opening This Week
     
     Coming Soon
     
-    *   The Grudge (2020)
     *   1917 (2019)
     *   Just Mercy
     *   Like a Boss
@@ -43,6 +35,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   The Gentlemen
     *   The Last Full Measure
     *   The Turning (2020)
+    *   The Rhythm Section
     *   See All Coming Soon
     
     Explore More
