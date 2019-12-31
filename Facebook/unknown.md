@@ -45,8 +45,12 @@ In addition to the sharing of information described in the Facebook Data Policy 
 *   **Independent apps, services, and integrations on or using Portal.** When you use independent apps, services, or integrations on Portal, we share information with them about your Portal device, such as device name, IP address, and zip code, as well as other information to help them provide the services you requested (e.g. the text and subject of your voice commands to them through “Hey Portal”). Independent apps, services, or integrations that you use can also collect information directly from your Portal, including device information and information about your activity when using their app, service, or integration (e.g., the songs you listen to), as well as any other information you choose to share with them (e.g., profile information you share by using “Log In with Facebook”). If you choose to use an independent voice service on Portal that is activated by a wake word other than “Hey Portal”, your voice interactions will be processed by that independent voice service, not Facebook. The information collected by these independent apps, services, or integrations is subject to their own terms and policies, not this one.
     
 
+Privacy Notice for California Residents
+
+If you are a California resident, you can learn more about your consumer privacy rights by reviewing the California Privacy Notice.
+
 Further information and how to contact Facebook
 
 If you have any questions or complaints relating to the Facebook Data Policy, this Supplemental Portal Data Policy or otherwise, or wish to find out more about how to exercise your ability to access, rectify, port and erase the information collected through your Portal, you can refer to the “How to contact Facebook with questions” part of the Facebook Data Policy, your Facebook Settings, or here.
 
-Date of Last Revision: September 18, 2019
+Date of Last Revision: December 27, 2019
