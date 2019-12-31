@@ -1,4 +1,4 @@
-<iframe src='//www.googletagmanager.com/ns.html?id=GTM-N6DV75'height='0' width='0' style='display:none;visibility:hidden'></iframe>.
+<iframe src='//www.googletagmanager.com/ns.html?id=GTM-N6DV75' height='0' width='0' style='display:none;visibility:hidden'></iframe>.
 
 *   Residential
     *   Internet
