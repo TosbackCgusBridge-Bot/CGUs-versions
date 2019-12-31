@@ -242,6 +242,10 @@ If you are a former customer, these policies also apply to you. we treat your in
 
 Fidelity offers several options for accessing and, if necessary, correcting your account information. You can review your information using your statements, or through our automated telephone or Internet services. You may also write or call us with your request for information. If you transact business through Fidelity's life insurance companies, you are entitled to receive, upon written request, a record of any disclosures of your medical record information. If we serve you through an investment professional, please contact them directly. Specific Internet addresses, mailing addresses and telephone numbers are listed on your statements and other correspondence.
 
+**Additional Information for California Residents**
+
+Please view our additional information for California residents. This additional information is provided for purposes related to the California Consumer Privacy Act of 2018, as amended (the “CCPA”) and applies to the personal information and Fidelity companies which are subject to CCPA.
+
 The Fidelity Investments privacy policy is provided on behalf of:
 
 *   Fidelity Brokerage Services LLC
@@ -281,8 +285,8 @@ Please read the Fidelity Funds Privacy Policy in conjunction with the Privacy Po
 The Fidelity Funds Privacy Policy is provided on behalf of the Fidelity Investments family of mutual funds, including those advised by Strategic Advisers LLC.
 
   
-Effective June 2019      
-©1998-2019 FMR LLC. All Rights Reserved.  
+Effective January 1, 2020  
+©1998-2020 FMR LLC. All Rights Reserved.  
   
 Questions?
 
@@ -293,7 +297,7 @@ Questions?
 
 View the Fidelity Investments and the Fidelity Funds Privacy Notice (PDF)
 
-524812.47.0
+524812.50.0
 
 *   Mutual Funds
 *   ETFs
