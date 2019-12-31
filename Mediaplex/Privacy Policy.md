@@ -1,11 +1,17 @@
+Cookies help us keep internet content free. By continuing to use our website or by clicking "Got It", you agree to the use of cookies. **Learn More**
+
+If you decline, your information won’t be tracked when you visit this website. A single cookie will be used in your browser to remember your preference not to be tracked.
+
+AcceptDecline
+
 *   Careers
 *   Ad Quality
 *   Login
 *   Contact
 
 *   Products
-    *   Digital Marketing
-    *   Intelligence
+    *   Digital Media Solutions
+    *   Prospect
     *   Publishers
 *   Industries
     *   Retail
@@ -47,8 +53,8 @@
 
 *   Products
     
-    *   Digital Marketing
-    *   Intelligence
+    *   Digital Media Solutions
+    *   Prospect
     *   Publishers
     
 *   Industries
@@ -154,10 +160,13 @@ Ready to talk? Contact us  LET'S CONNECT!
 *   Privacy Policy
 *   Terms of Use
 *   About our Ads
+*   Do Not Sell My Personal InformationWe may collect consumer data from clients and partners which we utilize to perform marketing and analytics services for our clients. Please visit our privacy policy for more detailed information, including the categories of data being collected and the purposes for which we utilize the data. In some cases, we may sell data so that our clients can independently use it for marketing and analytics purposes. To opt out of this data selling, please click on the link below.
 *   Countries
 *   Investor Relations
 *   Site Map
 *   Login
 *   Contact
+
+We may collect consumer data from clients and partners which we utilize to perform marketing and analytics services for our clients. Please visit our privacy policy for more detailed information, including the categories of data being collected and the purposes for which we utilize the data. In some cases, we may sell data so that our clients can independently use it for marketing and analytics purposes. To opt out of this data selling, please click on the "Do Not Sell My Personal Information" link above.
 
 © 2019 Conversant LLC. All rights reserved.
