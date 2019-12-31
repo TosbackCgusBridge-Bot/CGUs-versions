@@ -262,10 +262,11 @@ Company Info
 Security &. Privacy
 
 *   Terms Of Use
-*   Privacy Notice - Effective 6/19/19
+*   Privacy Notice
+*   California – Do Not Sell My Personal Information
 *   Copyright Notices
 
-United StatesCanadaAustraliaNew Zealand------------------------ArgentinaArmeniaAustriaBahamasBelgiumBosniaBrazilChinaBulgariaChileColombiaCroatiaDenmarkDominican RepublicEcuadorEl SalvadorFaroe IslandsFijiFinlandFranceGermanyGuadeloupeGuatemalaGuamHondurasHongkongHungaryIndiaIndonesiaIrelandIsraelItalyJamaicaJapanKoreaKuwaitLebanonMacedoniaMalaysiaMartiniqueMexicoMoroccoNetherlandNicaraguaNorwayPakistanPanamaPeruPhilippinesPolandPortugalPuerto RicoRomaniaRussiaSaudi ArabiaSingaporeSouth AfricaSpainSt Maarten/St MartinSurinameSwedenSwitzerlandTahitiTaiwanThailandTurkeyTurks and CaicosUkraineUnited Arab EmiratesUnited KingdomVanuatuVirgin IslandsYugoslavia English Français Español Português GET THE MOBILE APP >.
+United StatesCanadaAustraliaNew Zealand------------------------ArgentinaArmeniaAustriaBahamasBelgiumBosniaBrazilChinaBulgariaChileColombiaCroatiaDenmarkDominican RepublicEcuadorEl SalvadorFaroe IslandsFijiFinlandFranceGermanyGuadeloupeGuatemalaGuamHondurasHongkongHungaryIndiaIndonesiaIrelandIsraelItalyJamaicaJapanKoreaKuwaitLebanonMacedoniaMalaysiaMartiniqueMexicoMongoliaMoroccoNetherlandNicaraguaNorwayPakistanPanamaPeruPhilippinesPolandPortugalPuerto RicoRomaniaRussiaSaudi ArabiaSingaporeSouth AfricaSpainSt Maarten/St MartinSurinameSwedenSwitzerlandTahitiTaiwanThailandTurkeyTurks and CaicosUkraineUnited Arab EmiratesUnited KingdomVanuatuVirgin IslandsYugoslavia English Français Español Português GET THE MOBILE APP >.
 
 GET THE AVIS APP
 
