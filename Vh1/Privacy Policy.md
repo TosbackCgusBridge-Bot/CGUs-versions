@@ -227,20 +227,13 @@ Data Protection Officer
 
 DataPrivacyRights@viacom.com  
 
-If you have any questions about this Privacy Policy, you may call us at 1-888-851-8412 or email us at Privacy@viacom.com with the subject line “Privacy Rights”.  
-
-_For Residents of Europe:_  
-
-Data Protection Officer  
-
-DataPrivacyRights@viacom.com  
-
 closeAll ResultsShowsEpisodesVideosNewsEventsTrending
 
 *   FAQ/Help
 *   Jobs
 *   Terms of Use
 *   Privacy Policy/Privacy Rights
+*   CA Do Not Sell My Info
 *   Copyright
 *   Closed Captioning
 *   Eventful
