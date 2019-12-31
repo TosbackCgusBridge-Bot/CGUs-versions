@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive up to 60% off your order!
+Receive 40% off your order!
 
-code: HOLIDAYS pin: PROMOTION DETAILS
+code: NEWYEAR pin: PROMOTION DETAILS
 
 Customer Service Menu
 
@@ -61,7 +61,11 @@ Customer Service
 *   Site Map
 *   Glossary
 
-LANDS’ END PRIVACY POLICY Effective December 10, 2019
+Find an answer fast
+
+Search the Lands' End Help Center.
+
+Search the Lands' End Help Center. Go LANDS’ END PRIVACY POLICY Effective December 10, 2019
 
 Download PDF / Print
 
