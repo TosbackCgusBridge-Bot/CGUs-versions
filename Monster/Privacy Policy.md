@@ -41,13 +41,13 @@ We may disclose and transfer information to a third party who acquires any or al
 
 Access to Your Personal Information
 
-We store your information to make your interaction with Monster more efficient, practical, and relevant. You may access, review, correct, update, or delete your resume or profile any time by signing in to your account. If you do not have an account, or if you believe that someone else has provided us with your contact information, please contact us.
+We store your information to make your interaction with Monster more efficient, practical, and relevant. You may access, review, correct, update, or delete your resume or profile any time by signing in to your account.
 
-When you delete your personal information, we will retain logs and non-personal information about your activity on Monster. We will also retain an archival copy of your non-personal information for our business's audit and record purposes, and which is not accessible by you or third parties on the Internet. If your personal information was previously accessed by others using Monster, we are unable to delete the information from their systems.
+You may request a copy of the information we have about you or the deletion of information you have provided to us. To make such a request, contact us here: http://my.monster.com/privacy/EmailForm.aspx.
 
 Other Information
 
-Monster is not intended for children under 13 years of age.
+Monster is not intended for children under 16 years of age.
 
 We participate in the EU-U.S. and Swiss-US Privacy Shield framework, as described in more detail in the full Monster privacy policy.
 
