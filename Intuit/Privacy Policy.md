@@ -26,24 +26,24 @@ Near YouFind a StoreBackUP TO 50% OFF ALL TOYSExcluded from coupons.UP TO 50% OF
 14.99Girls’ Arizona jeans select styles | reg. $30  
 **Buy one get one deals ** **on must-have basics**BUY 1 GET 1 50% OFF\*Men's socksselect styles |reg. $7-$24BUY 1 GET 1 50% OFF\*Shapewear Select Styles | reg. $35-$62BUY 1 GET 1 50% OFF\*Kid's Underwear, socks &. girl's bras select style | reg. $7-$22  BUY 1 GET 1 FREE\*Bras from Vanity Fair, Bali, Ambrielle, Warner's, Maidenform &. more          select styles \*Buy one item at regular price, get a second item of equal or lesser value for free or 50% off, while supplies last. **UP TO 50% OFF  
 HOME STOCK-UP &. WHITE SALE**select styles **New Beauty at Sephora inside JCPenney**Shop Now Fenty Beauty by Rihanna Snap Shadows Mix &. Match Eyeshadow Palettes  Sephora Collection MakeupBy Mario X SephoraEye Brush Set OleHenriksen Truth  
-Juice Daily Cleanser Too Faced Lip InjectionExtreme Lip Plumper Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 40 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+Juice Daily Cleanser Too Faced Lip InjectionExtreme Lip Plumper Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 43 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
 *   LIMITED TIME SPECIAL!
     
     $25 sale
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(67)
-*   $483 - $806after couponwas $38 City Streets 3/4 Sleeve Holiday Swing Dresses(35)
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(73)
+*   $483after couponwas $38 City Streets 3/4 Sleeve Holiday Swing Dresses(35)
 *   SPECIAL DEAL!
     
-    $1699after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(105)
+    $1699after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(114)
 *   LIMITED TIME SPECIAL!
     
     $25 sale
     
-    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(75)
-*   $2549after couponwas $70 a.n.a Womens Alford Stacked Heel Motorcycle Boots(74)
-*   $424 - $2974after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(292)
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(83)
+*   $2549after couponwas $70 a.n.a Womens Alford Stacked Heel Motorcycle Boots(75)
+*   $424 - $2974after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(293)
 
 Shop and Save at JCPenney
 
@@ -158,7 +158,8 @@ Check Out Our AppsJCPenney Credit
 *   AdChoices
 
 *   Privacy Notice
-*   CA Privacy Rts
+*   Do Not Sell My Personal Information
+*   CA Privacy Rights
 *   CA Supply Chain Act
 
 © JCP Media, Inc. 2019 . All Rights ReservedCoupons undefined
