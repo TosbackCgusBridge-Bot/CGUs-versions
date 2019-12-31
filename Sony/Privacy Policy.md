@@ -122,7 +122,7 @@ For Films &. Games
 
 Elevate your game by adding two customizable buttons to the back of your DualShock 4:  http://play.st/35vMP0f  Out January 23 pic.twitter.com/x60XRLjdXn
 
-12 days ago View Tweet Instagram Post B6T9uY-l\_TY
+13 days ago View Tweet Instagram Post B6T9uY-l\_TY
 
 <img class="bg-img" data-linkname="en:set\_d:position\_1|\_2x1-5:image:playstation:PSDirectHoliday-December-23-2019:ps:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="https://direct.playstation.com/en-us?emcid=pn-so-hol2019-psd PS-Direct-Holiday" data-img1x="/content/dam/sony/homepage/2019-december/12-9/PSDirectHoliday\_600x600\_SonyCom.jpg" data-img2x="/content/dam/sony/homepage/2019-december/12-9/PSDirectHoliday\_500x246\_SonyCom.jpg" src="/content/dam/sony/homepage/2019-december/12-9/PSDirectHoliday\_500x246\_SonyCom.jpg" alt="https://direct.playstation.com/en-us?emcid=pn-so-hol2019-psd"/>. <img class="bg-img" data-linkname="en:set\_d:position\_1|\_2x1-5:image:playstation:PSDirectHoliday-December-23-2019:ps:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="https://direct.playstation.com/en-us?emcid=pn-so-hol2019-psd PS-Direct-Holiday" data-img1x="/content/dam/sony/homepage/2019-december/12-9/PSDirectHoliday\_600x600\_SonyCom.jpg" data-img2x="/content/dam/sony/homepage/2019-december/12-9/PSDirectHoliday\_500x246\_SonyCom.jpg" src="/content/dam/sony/homepage/2019-december/12-9/PSDirectHoliday\_600x600\_SonyCom.jpg" alt="https://direct.playstation.com/en-us?emcid=pn-so-hol2019-psd Mobile"/>.
 
