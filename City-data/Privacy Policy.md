@@ -37,7 +37,7 @@ Toggle navigation
 
 Jump to a detailed profile, search site with google or try advanced search
 
-Terms of Use Introduction. Consent to Terms
+Terms of Use and Privacy Policy Introduction. Consent to Terms
 
 City-Data.com (www.city-data.com) is owned and operated by Advameg, Inc., an Illinois corporation.  When the terms “we”, “us”, “our”, or “Advameg, Inc.” are used in the Terms of Use and the Privacy Policy they mean Advameg, Inc. and its owners, directors, officers, employees and agents.
 
@@ -144,6 +144,10 @@ If you contact us by email through the Website, we reserve the right to also kee
 
 Our servers may also automatically collect information about your computer when you visit the Website, including without limitation the type of browser software you use, the operating system you are running, date and time of the visit, the website that referred you, and your Internet Protocol ("IP") address. Your IP address is usually associated with your Internet Service Provider, your company or your university, and may identify your physical location.
 
+For users who register on the Forum we collect IP addresses used when accessing the Forum, email addresses, usernames, Forum ID number, and hashed passwords. We place unique cookies on the user's computer through browsers. We collect users' info sent by the browser that includes browser type and version, as well as your operating system, active plugins, timezone, language, screen resolution and various other active settings.
+
+The Website does not currently have any agreements to sell or share users' personal information with third parties.
+
 DISCLOSURE OF PERSONAL INFORMATION
 
 We generally do not disclose your personally identifiable information to third parties. However, we reserve the right to disclose this information if we reasonably believe it is needed for any of the following reasons:
@@ -164,6 +168,47 @@ We will use your information only as permitted by law. Aggregated Information (i
 USE OF COOKIES
 
 Website may use "cookies," Flash objects or similar electronic tools to collect information, such as the IP address of your computer, to enhance and customize your experience with this Website. A cookie is a small text file that is placed on your computer and which collects information about your use of this Website, such as the Web pages visited, the date and the time of a visit, the Web sites you visited immediately before, etc. Cookies may be stored on the user's hard drive for an extended period of time. Cookies served by our Website do not gather demographic information about our users. Cookies may also be used to provide our advertisers with targeted advertising opportunities, and advertising vendors that serve ads on our Website may also use their own cookies. Our advertisers may use cookies that enable them to serve ads to you based on your visits to our sites and other sites on the Internet. To get more information about this practice by Google, visit http://www.google.com/privacy\_ads.html. You may choose not to accept any cookies from any party by changing the settings on your browser. However, if you set your browser to refuse cookies, some portions of our Website may not function properly.
+
+California Consumer Privacy Act Access to Stored Personal Information
+
+Under the California Consumer Privacy Act a consumer in California has the right request that we disclose personal information that we have about the consumer pursuant to Civil Code sections 1798.100, 1798.110, 1798.115 over the past twelve (12) months. Once we receive and confirm your verifiable consumer request, we will provide the information. It includes a request for any or all of the following:
+
+*   Specific pieces of personal information that we have about the consumer;
+*   Categories of personal information we have collected about the consumer;
+*   Categories of sources from which the personal information is collected;
+*   Categories of personal information that we have sold or disclosed for a business purpose about the consumer;
+*   Categories of third parties to whom the personal information was sold or disclosed for a business purpose. and
+*   The business or commercial purpose for collecting or selling personal information.
+
+Personal information does not include:
+
+*   Publicly available information from government records.
+*   Deidentified or aggregated consumer information.
+*   Information excluded from the CCPA's scope, like: health or medical information covered by the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and the California Confidentiality of Medical Information Act (CMIA) or clinical trial data;
+*   personal information covered by certain sector-specific privacy laws, including the Fair Credit Reporting Act (FRCA), the Gramm-Leach-Bliley Act (GLBA) or
+*   California Financial Information Privacy Act (FIPA), and the Driver's Privacy Protection Act of 1994.
+
+To exercise the access rights described above, please submit a verifiable consumer request to us by filling out the form at https://www.city-data.com/privacy-form.php?w=usget or by calling us toll-free at (844)346-1463. For requests made by a Forum user, you must provide your full name, your Forum username, and the email that you used during Forum registration. We will verify your request by requiring you to provide a code that we will send to this email address or by asking you to log in into your Forum account and performing a specified task. We will maintain the records of all requests. This includes the date of request, nature of request, manner in which the request was made, the date of the business’s response, the nature of the response, and the basis for the denial of the request if the request is denied in whole or in part.
+
+Deletion Request Rights
+
+You have the right to request that we delete any of your personal information that we collected from you and retained, subject to certain exceptions. Once we receive and confirm your verifiable consumer request, we will delete our personal information from our records, unless an exception applies.
+
+We may deny your deletion request if retaining the information is necessary for us or our service provider(s) to:
+
+*   Complete the transaction for which we collected the personal information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform our contract with you.
+*   Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.
+*   Debug products to identify and repair errors that impair existing intended functionality.
+*   Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law.
+*   Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et. seq.).
+*   Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information's deletion may likely render impossible or seriously impair the research's achievement, if you previously provided informed consent.
+*   Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us.
+*   Comply with a legal obligation.
+*   Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
+
+To exercise the deletion rights described above, please submit a verifiable consumer request to us by filling out the form at https://www.city-data.com/privacy-form.php?w=usdel or by calling us toll-free at (844)346-1463. For requests made by a Forum user, you must provide your full name, your Forum username, and the email that you used during Forum registration. We will verify your request by requiring you to provide a code that we will send to this email address or by asking you to log in into your Forum account and performing a specified task. You will need to separately confirm that you want your personal information deleted. We will respond to a request for deletion by de-identifying the personal information through changing the username, scrambling the email address, and replacing the IP address in the database with 1.1.1.1.
+
+We will maintain the records of all requests. This includes the date of request, nature of request, manner in which the request was made, the date of the business’s response, the nature of the response, and the basis for the denial of the request if the request is denied in whole or in part.
 
 SURVEYS AND CONTESTS
 
