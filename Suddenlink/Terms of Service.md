@@ -217,7 +217,7 @@ Questions? Call 844.790.7475 My Suddenlink Contact Us FAQ
 *   Terms &. Policies
 *   Disclaimers
 
-© Copyright 2019 Suddenlink Communications, All Rights Reserved
+© Copyright 2020 Suddenlink Communications, All Rights Reserved
 
 *   Terms and Policies
 *   Privacy
