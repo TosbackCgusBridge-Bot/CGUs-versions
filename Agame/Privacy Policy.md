@@ -30,16 +30,16 @@ View more results
     Best Games
     *   Fireboy and Watergirl: The Forest Temple
     *   Fireboy &. Watergirl 4: Crystal Temple
+    *   Airport Clash 3D
     *   Fireboy and Watergirl 5: Elements
     *   Ono Card Game
-    *   Draw My Thing Online
+    *   Slotomania
     *   Fireboy &. Watergirl 2: The Light Temple
     *   Fireboy &. Watergirl 3: The Ice Temple
-    *   Strike Combat: Pixel Multiplayer
-    *   Ludo Hero
-    *   Slotomania
-    *   Slither.io
+    *   Subway Clash 3D Remastered
     *   Bad Ice Cream 2: 2 Player Game
+    *   Slippery Water Slides: Aquapark.io
+    *   Slither.io
 *   Action
     
     Top Categories
@@ -62,18 +62,18 @@ View more results
     *   Alphabetical Order
     
     Best Games
+    *   Airport Clash 3D
     *   Snail Bob 8
-    *   Sniper Strike
-    *   New York Taxi License 3D: Car Game
-    *   Deer Hunter
-    *   Vex 3: Stickman Game
     *   Run Panda Run
-    *   Miami Crime Simulator 3D
-    *   AZ Tank Game
-    *   Zombie Vacation: Survival Game
+    *   Kingdom Tower Defense
+    *   Bomb it 7
+    *   Vex 3: Stickman Game
     *   Sniper Reloaded
+    *   Whack Your Soulmate
     *   Uphill Rush 5
-    *   Rebel Attack Shooter
+    *   Deer Hunter
+    *   Short Life
+    *   SuperHOT
 *   Adventure
     
     Top Categories
@@ -100,14 +100,14 @@ View more results
     *   Chrome Dino
     *   Bob the Robber 4: Season 2 Russia
     *   Fireboy &. Watergirl 4: Crystal Temple
-    *   World Crafts
     *   The Last Survivors: 2 Player Zombie Game
+    *   World Crafts
     *   Mine Clone 4
     *   Bob The Robber 3
     *   Vex 4
-    *   Build Craft
     *   Troll Face Quest: Video Games 2
-    *   Red Ball 4: Volume 2
+    *   Rio Rex
+    *   Fireboy and Watergirl 5: Elements
 *   Puzzle
     
     Top Categories
@@ -131,17 +131,17 @@ View more results
     
     Best Games
     *   MahJongCon
-    *   Crime of the Century
     *   Bubble Shooter
-    *   Daily Sudoku
+    *   Operate Now Hospital Surgeon
+    *   Forest Mania Match 3
+    *   Operate Now: Stomach Surgery
     *   Money Movers
     *   Butterfly Kyodai Classic
-    *   Maze
-    *   Love Balls
     *   Love Balls 2
-    *   Operate Now Hospital Surgeon
-    *   Pixel Art 3D
-    *   Forest Mania Match 3
+    *   Troll Face Quest: Horror 2
+    *   Land of Wonders
+    *   1001 Arabian Nights
+    *   Troll Face Quest: Video Memes and TV Shows:Part 1
 *   Girls
     
     Top Categories
@@ -165,17 +165,17 @@ View more results
     
     Best Games
     *   3D Color by Number
-    *   Beach Kiss
-    *   Ellie: Fashion Police
-    *   Ellie Love Trouble: Kissing Game
+    *   Goldie Princess: Skin Doctor
+    *   Fashion Designer Gala
     *   Extreme Makeover
-    *   Ice Princess: Real Haircuts
-    *   Princess Rivalry
     *   My Fresh Start Makeover
+    *   Floral Real Life Manicure
+    *   Pizza Party: Restaurant Game
+    *   Hand Skin Doctor
+    *   Pink Apartment Makeover
+    *   Fashionistas: Boho vs Grunge
     *   Casual Weekend Fashionistas: Fashion Game
-    *   My New Room
-    *   Villains Inspiring Fashion Trends
-    *   Ice Princess: Twin Birth
+    *   Princesses at a Masquerade: Dress Up Game
 *   Racing
     
     Top Categories
@@ -202,14 +202,14 @@ View more results
     *   Hill Racing Challenge
     *   Super Speed Racer
     *   Cars 3D
+    *   Solid Rider: Dirt Bike Game
     *   Thug Racer
-    *   Off-Roader V6
+    *   Moto X3m 2
     *   Formula Racer
-    *   Russian Car Driver
     *   Neon Biker
-    *   City Driver
-    *   Extreme Off-Road Cars 2
     *   Happy Wheels
+    *   Monster Truck Demolisher
+    *   Off-Roader V6
 *   Sports
     
     Top Categories
@@ -232,17 +232,17 @@ View more results
     
     Best Games
     *   Penalty Shooters 2: Football Game
+    *   Penthouse Pool
     *   Stunt Skateboard 3D
     *   Archery World Tour
-    *   Basketball FRVR
-    *   Mini Golf Master
-    *   Sport Heads Football Championship
-    *   Heads Arena: Soccer All Stars
-    *   Spanish League: Football Game
-    *   Soccer Physics
-    *   Basketball Stars 2019
-    *   World Cup Kicks
+    *   3D Penalty
+    *   Mini Golf World
     *   1 On 1 Soccer: Classic
+    *   Ultimate Boxing
+    *   Basketball.io
+    *   Soccer Physics
+    *   Skeet Challenge
+    *   Football Legends 2016
 *   More
     
     *   Multiplayer
@@ -460,4 +460,4 @@ Languages
 *   Français
 *   Nederlands
 
-Copyright © 2019 SPIL GAMES All rights reserved.
+Copyright © 2020 SPIL GAMES All rights reserved.
