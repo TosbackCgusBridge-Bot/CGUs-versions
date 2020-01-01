@@ -68,12 +68,14 @@ Skip Navigation
     *   Contact Us
 *   _report icon_ AT&T Privacy Policy
     *   Introduction
+    *   When this policy applies
     *   The information we collect
     *   How we collect your information
     *   How we use your information
     *   How we share your information
     *   Your privacy choices and controls
-    *   Security and data storage/retention
+    *   Security
+    *   Data storage, transfer, retention, and accuracy
     *   Other privacy information
 *   _map icon_ State Law Approach
     *   California
@@ -86,7 +88,7 @@ Skip Navigation
     *   Download the Spanish PDF
 *   English Español Français
 
-  Our Privacy Approach
+ A person is swiping through content on their smartphone as a wireless signal transmits from the phone to a radio tower. Our Privacy Approach
 
 You count on us to deliver the best entertainment and communication experiences in the world. You also count on us to protect your personal information. Privacy is fundamental to our business and we’re committed to:
 
@@ -105,23 +107,23 @@ Tom Moore
 
 Chief Privacy Officer
 
-  Data helps us create better, more reliable products, services and experiences.
+ A computer, email, and phone icon take turns appearing and connecting to a green check mark. Data helps us create better, more reliable products, services and experiences.
 
 Data helps us mobilize your world by creating dependable services and experiences. For example, data helps us with the planning and optimization of our smart network. It also helps us prevent bad customer experiences like dropped calls.
 
-  Data helps improve security and prevent fraud.
+ A floating shield featuring a lock emblem moves up and down on screen and pulses outward. Data helps improve security and prevent fraud.
 
 Data helps us and our third-party service partners strengthen network and device security and detect fraud, identity theft, and other ways that the bad guys try to hurt you and us.
 
-  Data helps improve programs for social good.
+ A series of data lines grow from the outside of a heart icon while a city animates inside of it. Data helps improve programs for social good.
 
 By using our resources, we make the world a better place. For example, data has helped us raise awareness of the risks of texting while driving. And data can help us make cities smarter by reducing traffic, pollution, and much more.
 
-  Data helps us customize offers for our products and services that may interest you.
+ A spinning wheel slows down and lands on a section which grows from the center, revealing a media icon. Data helps us customize offers for our products and services that may interest you.
 
 Your information helps us not only power your products and services, it helps us communicate service updates and offers. Data allows us to offer you our best products and services.
 
-For more information on how you can control your privacy, please see Your choices, tips &. tune-ups. _icon button_ ×Looking for the old Privacy Policy?
+We’ve recently updated our privacy policy. Learn more here. _icon button_ See the old policy here. _icon button_ ×Looking for the old Privacy Policy?
 
 You can access our old PDF download here .
 
@@ -132,6 +134,25 @@ We made some updates and clarifications to our Policy effective February 15, 201
 *   We've added Xandr to our list of examples of the various AT&T companies. That's the name of the advertising company we formed last year.
 *   We've clarified that the policy's definition of Anonymous Information includes advertising IDs when they can't be used to identify you.
 *   We note that advertising IDs are used and shared to deliver ads to you and help advertisers assess the effectiveness of their ad campaigns. You have the choice to opt in to some advertising programs, or say no to others. You can make your choices at att.com/cmpchoice.
+
+× We've Updated Our Privacy Policy
+
+We are updating our Privacy Policy. Our new policy is clearer about how we collect, use, and protect your information, and it is consistent with evolving state privacy and disclosure laws. Learn more below.
+
+**FAQ** **What’s changed?**
+
+We haven’t changed our commitment to protecting your data. But individual states are now enacting laws that define “personal information” and the sale of information in new ways. So, we’ve updated some of our language, and we have made our new policy clearer about how we collect, use, and protect your information. You have the same range of choices to manage the use of your data.
+
+**Are you selling my personal information?**
+
+The Privacy Policy describes how we share your information. California may consider the following two ways that we share data to be a sale of personal information.
+
+1.  We provide limited data to companies that help create, deliver and measure advertisements. This can include information like your age range, gender and ZIP code, along with basic device information – but not your name or email. The data is attached to a numeric ID assigned to your device or household.
+2.  We sell limited data to help create aggregated reports such as television ratings – what people watch on TV in a city. Data is attached to a numeric ID assigned to your mobile device or set-top box – not your name or email.
+
+**Can I manage what gets shared or sold?**
+
+You can see options to manage your data here. We’ll keep your choices until you change them.
 
 Looking for the full Privacy Policy?
 
@@ -155,15 +176,15 @@ Sitemap
 
 *   AT&T Privacy Policy
 *   Introduction
-*   The Information We Collect
-*   How We Collect Your Information
-*   How We Use Your Information
-*   How We Share Your Information
-*   Your Choices and Controls
+*   The information we collect
+*   How we collect your information
+*   How we use your information
+*   How we share your information
+*   Your privacy choices and controls
 *   Security
-*   Data Storage and Retention
-*   Other Privacy Information
-*   Recent Updates
+*   Data storage, transfer, retention and accuracy
+*   Other privacy information
+*   How to contact us about this policy
 
 *   Global Approach
 *   Website User GDPR Privacy Notice
@@ -180,5 +201,6 @@ Sitemap
 *   Terms of Use
 *   Accessibility
 *   Contact Us
+*   Do Not Sell My Personal Information
 
-© 2019 AT&T Intellectual Property. All rights reserved.
+© 2020 AT&T Intellectual Property. All rights reserved.
