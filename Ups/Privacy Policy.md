@@ -183,7 +183,7 @@ Legal
 
   
 
-Copyright ©1994- 2019 United Parcel Service of America, Inc. All rights reserved.
+Copyright ©1994- 2020 United Parcel Service of America, Inc. All rights reserved.
 
 This website uses cookies
 
