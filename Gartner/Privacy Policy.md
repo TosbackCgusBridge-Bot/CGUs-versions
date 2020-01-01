@@ -68,7 +68,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 903 7705 1 855 903 7705
+    1 855 253 4904 1 855 253 4904
     
 
 *   Solutions By Function
@@ -141,7 +141,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 903 7705 1 855 903 7705
+    1 855 253 4904 1 855 253 4904
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
@@ -589,4 +589,4 @@ Email Address: privacy@gartner.com
 *   Privacy Policy
 *   Terms of Use
 
-©2019 Gartner, Inc. and/or its affiliates. All rights reserved.
+©2020 Gartner, Inc. and/or its affiliates. All rights reserved.
