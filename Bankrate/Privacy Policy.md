@@ -111,7 +111,7 @@ Credit Cards
 
 Compare by Category
 
-*   Best Credit Cards of 2019
+*   Best Credit Cards of 2020
 *   Rewards
 *   Travel
 *   Airline
@@ -641,29 +641,20 @@ California Civil Code 1798.115(c), 1798.130(a)(5)(c), 1798.130(c), and 1798.140 
 
   
 
-Category of Personal Information Is information collected by us? Is information transferred for valuable consideration? Is information transferred for business purposes? Audio, electronic, visual, thermal, olfactory, or similar information X X Commercial information (e.g., products or services purchased, or other purchasing or consuming histories or tendencies) X X Credit card number X X Debit card number X X Electronic network activity (e.g., browsing history) X X Email address X X Geolocation data X X Identifiers (e.g., name or alias) X X Insurance Policy Number X X Medical information X X Online identifier (e.g. IP address) X X Other financial information X X Passport Number X X Physical Characteristics X X Postal address X X Signature X X Social Security Number X X Telephone Number X X Transaction information X X December 19, 2019 4:37:51 PM EST <iframe src="//www.googletagmanager.com/ns.html?id=GTM-N74D8C" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Follow Us Maximize Your Money. Get Expert Advice &. Tools. Master Life's Financial Journey.
-
-You have money questions. Bankrate has answers. Our experts have been helping you master your money for four decades.
-
-Our tools, rates and advice help no matter where you are on life’s financial journey.
+Category of Personal Information Is information collected by us? Is information transferred for valuable consideration? Is information transferred for business purposes? Audio, electronic, visual, thermal, olfactory, or similar information X X Commercial information (e.g., products or services purchased, or other purchasing or consuming histories or tendencies) X X Credit card number X X Debit card number X X Electronic network activity (e.g., browsing history) X X Email address X X Geolocation data X X Identifiers (e.g., name or alias) X X Insurance Policy Number X X Medical information X X Online identifier (e.g. IP address) X X Other financial information X X Passport Number X X Physical Characteristics X X Postal address X X Signature X X Social Security Number X X Telephone Number X X Transaction information X X December 19, 2019 4:37:51 PM EST <iframe src="//www.googletagmanager.com/ns.html?id=GTM-N74D8C" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
 
 *   About Us
 *   Press Room
 *   Contact Us
 *   Careers
-*   Advertise With Us
 
+*   Advertise With Us
 *   Latest News
 *   Popular Topics
 *   Glossary
 *   Compare Rates
-*   Understand  
-    Bankrate's Averages
 
-How we make money
-
-Bankrate.com is an independent, advertising-supported publisher and comparison service. Bankrate is compensated in exchange for featured placement of sponsored products and services, or your clicking on links posted on this website. This compensation may impact how, where and in what order products appear. Bankrate.com does not include all companies or all available products.
-
+*   Understand Bankrate's Averages
 *   New Privacy Policy / Your California Privacy Rights
 *   Do Not Sell My Info
 *   Terms of Use
@@ -671,8 +662,20 @@ Bankrate.com is an independent, advertising-supported publisher and comparison s
 *   Licenses
 *   Sitemap
 
+How we make money
+
+Bankrate.com is an independent, advertising-supported publisher and comparison service. Bankrate is compensated in exchange for featured placement of sponsored products and services, or your clicking on links posted on this website. This compensation may impact how, where and in what order products appear. Bankrate.com does not include all companies or all available products.
+
+Maximize Your Money. Get Expert Advice &. Tools. Master Life's Financial Journey.
+
+You have money questions. Bankrate has answers. Our experts have been helping you master your money for four decades.
+
+Our tools, rates and advice help no matter where you are on life’s financial journey.
+
+Facebook logo Twitter logo Follow Us
+
 Bankrate, LLC NMLS ID# 1427381 | NMLS Consumer Access  
 BR Tech Services, Inc NMLS ID# 1743443 | NMLS Consumer Access  
-© 2019 Bankrate, LLC a Red Ventures Company All Rights Reserved.
+© 2020 Bankrate, LLC a Red Ventures Company All Rights Reserved.
 
 United States United Kingdom <img src="//bat.bing.com/action/0?ti=4064189&amp;Ver=2" height="0" width="0" style="display:none. visibility: hidden;">. <img height="1" width="1" src="https://www.facebook.com/tr?id=2085058148404940&amp;ev=PageView &amp;noscript=1">. <img src="//trc.taboola.com/1014189/log/3/unip?en=page\_view" width="0" height="0" style="display:none">.
