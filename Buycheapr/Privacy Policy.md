@@ -96,7 +96,7 @@ Whenever you are asked to fill in a form on the website, look for the box that y
   
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law.  
 
-©2009-2019 BuyCheapr.com
+©2009-2020 BuyCheapr.com
 
 ABOUT US
 
