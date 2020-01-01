@@ -307,7 +307,7 @@ Join now! Collect 10 nights, get 1 reward\* night
 *   All countries
 *   Site Index
 
-© 2019 Hotels.com is an Expedia Group company. All rights reserved.
+© 2020 Hotels.com is an Expedia Group company. All rights reserved.
 
 Hotels.com and the Hotels.com logo are trademarks or registered trademarks of Hotels.com, LP in the United States and/ or other countries. All other trademarks are the property of their respective owners.
 
