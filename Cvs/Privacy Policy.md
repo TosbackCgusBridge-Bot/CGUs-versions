@@ -1,6 +1,6 @@
 Privacy Policy
 
-Effective Date: December 5, 2019
+Effective Date: December 30, 2019
 
   
 
@@ -214,7 +214,7 @@ In addition to our official websites, CVS works with a number of third parties t
   
 Your Choices and Access
 
-You can take yourself off our email list for promotional offers at any time by updating your Email Communications preference in your Account Profile in the My Account section or by following the instructions contained in such emails. If you opt out of receiving promotional emails from us, we may still send you important administrative messages, from which you cannot opt out.
+You can take yourself off our email list for promotional offers at any time by updating your Email Communications Settings in the My Account section of the website, or by following the instructions in those emails. If you opt out of receiving promotional emails from us, we may still send you important administrative messages, from which you cannot opt out.
 
   
 
@@ -241,11 +241,6 @@ Please note that we may need to retain certain information for recordkeeping pur
 If you are a minor, you may remove or request removal of any content or information you post on our site. To request removal of content or information you have posted to our site, please Contact Us. Removal or requests for removal of content or information that has been posted to our website does not ensure complete or comprehensive removal.
 
   
-Your California Privacy Rights
-
-If you are our customer and a California resident, you may request that we provide you with certain information about the entities with which we have shared our customers' personal information for direct marketing purposes during the preceding calendar year. To do so, please write to us at retailprivacy@cvshealth.com.
-
-  
 Your Responsibility
 
 By establishing a CVS.com account, you agree that it is your responsibility to:
@@ -254,6 +249,138 @@ By establishing a CVS.com account, you agree that it is your responsibility to:
 
 *   Authorize, monitor, and control access to and use of your CVS.com account, User ID and password.
 *   Promptly inform us of any need to deactivate a password or an account by calling Customer Care at (888) 607-4287.
+
+Your California Privacy Rights
+
+**California Consumer Privacy Act (CCPA)**
+
+  
+
+This section applies to any California residents about whom we have collected personal information from any source, including through your use of our Website(s), by buying our products or services, or by communicating with us electronically, in paper correspondence, or in person (collectively, "you").
+
+  
+
+For purposes of this section, "personal information" means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular California consumer/resident or household. Personal information does not include publicly available information or information that has been de-identified.
+
+  
+
+**A. What Information We Collect**
+
+We may collect the following categories of personal information about you:
+
+  
+
+*   Identifiers, which may include real name and alias. postal address. unique personal identifier. online identifiers as detailed below. Internet Protocol ("IP") address. email address. telephone number. account number, name, and password. driver's license number, state or other government-issued identification card number. and/or other similar identifiers;
+*   Commercial information, which may include purchasing and transaction history online and in stores, or consumer histories or tendencies;
+*   Biometric information, which may include voice recognition information. facial scans. and/or other similar biometric identifiers;
+*   Information relating to Internet activity or other electronic network activity, which may include cookie identifiers, clear gifs (a.k.a. web beacons/web bugs), browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, clickstream data, device platform, device version, and/or other device characteristics including your choice of settings such as Wi-Fi, Bluetooth, and Global Positioning System ("GPS");
+*   Geolocation data, which may include Global Positioning System ("GPS") data. locational information based upon your IP address. cell network data. and/or other similar locational data. and which may be collected from various devices including your mobile device(s) or vehicle(s);
+*   Audio, electronic, or visual information, which may include records of calls to or from our customer service centers. and/or video surveillance information;
+*   Professional or employment-related information, such as whether you are a CVS Health colleague;
+*   Inferences about you, such as household income level and demographic information. credit card types you may have. homeowner / renter status. interest in certain types of merchandise. coupon interaction data. transaction return history;
+*   Information not listed above and related to characteristics protected under California or federal law. which may include gender. race and ethnicity. language. religion. country of origin. marital status. military service / veteran status. and/or date of birth;
+*   Other personal information not listed above and described in California Civil Code § 1798.80(e), which may include signature. physical characteristics or description. and/or bank account number credit card number, debit card number, and other financial or health information).
+
+To help you further understand what we do with the above categories of personal information, we have provided you with a matrix detailing the sources, purposes, and any sharing related to each category. You may review that matrix by clicking here.
+
+  
+
+**B. What We Do With Your Information**
+
+We may collect or use personal information from you for the following purposes:
+
+  
+
+*   Internal analytics
+*   Assessing third party vendors / service providers
+*   Audit, compliance, policy, procedures, or regulation
+*   Billing, payment, and fulfillment
+*   Customer claims and fraud investigation and prevention
+*   Customer communications
+*   Customer relationship management
+*   General business administration
+*   Marketing products and services
+*   Financial reporting and accounting
+*   Website optimization and maintenance
+*   Systems and data security
+
+**C. Sources of Collected Information**
+
+We may collect personal information from the following categories of sources:
+
+  
+
+*   Our customers, and prospective customers, including via purchasing goods and services in our stores, our Websites, mobile applications, telephone, text message, postal mail, social media, forums, message boards, chatbots, or other means;
+*   Our parent, subsidiaries and affiliates;
+*   Our service providers, which includes affiliates, marketing / customer relationship management providers, social media, technology / website hosting providers, analytics providers, and systems administrators / security and fraud investigations providers
+
+**D. Who We Share Information With**
+
+We do not sell personal information or otherwise provide personal information to third parties, other than service providers receiving information to perform services for us on our behalf.
+
+  
+
+We may share your personal information with the following categories of third parties:
+
+  
+
+*   Affiliates
+*   Advertising and marketing companies
+*   Social media companies
+*   Technology companies
+
+**E. Your Privacy Rights**
+
+If you are a California resident, subject to applicable law, you have the following rights under California law with respect to your personal information.
+
+  
+
+*   **Right to Know.** You have the right to request what personal information we collect, use, disclose, and/or sell, as applicable.
+*   **Right to Delete.** You have the right to request the deletion of your personal information that is collected or maintained by us.
+*   **Right to Non-Discrimination.** We may not discriminate against you because you have exercised any of the privacy rights described above. This right may be subject to the offers described in our Notice of Financial Incentives, which you may access by clicking here.
+
+You may also authorize someone to exercise the above rights on your behalf. Documentation will need to be provided that reflects that you have requested an authorized agent to make a request on your behalf. This may include a Power of Attorney document or other signed document. If we have collected information on your minor child, you may exercise the above rights on behalf of your minor child.
+
+  
+
+We must be able to reasonably verify your identity and authority to exercise these rights before fulfilling a request. There are also various exclusions and exceptions that apply to these rights under applicable laws. So that we can verify your identity when you make a request, you will need to sign into your CVS.com account or provide certain personal information via webform or over the phone.
+
+  
+
+If you are a California resident and wish to seek to exercise these rights, please reach us in one of the following ways:
+
+  
+
+*   Interactive webform (ExtraCare)
+*   Password-protected web portal: Sign in here
+*   1-800-SHOP-CVS (1-800-746-7287)
+
+For more information regarding this Privacy Policy, or if you have any questions or concerns, please Contact Us.
+
+  
+
+**F. Financial Incentives**
+
+In connection with the ExtraCare program, we may offer the following financial incentives and/or price or service differences in exchange for our use of your personal information:
+
+  
+
+*   Member Special Pricing: We offer ExtraBucks and other exclusive incentives for purchasing certain volumes and dollar amounts of products. To offer these discounts, we must track your personal information, such as purchase history and other demographic data. The value we place on the personal information in connection with these incentives is calculated by determining the approximate additional spending per customer, per year compared to individuals who are not enrolled in ExtraCare.
+*   Member Special Promotions: We offer additional special pricing for products and brands. Customers must provide their contact information (at minimum, email or direct mail) or download our mobile app to find out about these specials. Additionally, we receive manufacturer funding for special pricing and the administrative costs of marketing (direct mail, email messages). these funding sources depend upon CVS Pharmacy's ability to communicate to ExtraCare members. The value we place on the personal information in connection with these promotions is calculated by determining the approximate additional spending per ExtraCare member, compared to individuals for which we do not have contact information and supporting manufacturer funding.
+
+To be eligible for these benefits, you must be enrolled in ExtraCare. Sign-up for ExtraCare.
+
+  
+
+To withdraw from the program, you must request deletion of your personal information from ExtraCare here. You may also take yourself off our email list for promotional offers at any time by updating your Email Communications preference in your Account Profile in the My Account section or by following the instructions contained in such emails. See the Your Choices and Access section of our Privacy Policy for more information.
+
+  
+
+**California Shine the Light Law**
+
+  
+
+*   If you are our customer and a California resident, you may request that we provide you with certain information about the entities with which we have shared our customers' personal information for the entities own direct marketing purposes during the preceding calendar year. To do so, please write to us at retailprivacy@cvshealth.com.
 
 Contact Information
 
