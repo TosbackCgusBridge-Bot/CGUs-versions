@@ -397,7 +397,7 @@ You need to complete your basic info on the mobile app before you can use the de
 *   Support
 *   Blog
 *   Tech Blog
-*   Spiritual Singles
+*   Bisexual Dating
 *   Privacy Policy
 *   Cookie Policy
 *   Terms and Conditions
@@ -405,7 +405,7 @@ You need to complete your basic info on the mobile app before you can use the de
 *   Community Guidelines
 *   Security
 
-© OkCupid 2019 Your session has expired
+© OkCupid 2020 Your session has expired
 
 Still there?
 
