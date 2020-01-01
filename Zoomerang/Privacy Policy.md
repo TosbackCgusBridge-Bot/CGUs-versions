@@ -119,7 +119,7 @@ Follow us on:
 
 Search Search for:
 
-Copyright © 2019 MetrixLab. All rights reserved. Privacy Statement, Terms and Conditions, Cookie Declaration
+Copyright © 2020 MetrixLab. All rights reserved. Privacy Statement, Terms and Conditions, Cookie Declaration
 
 feedbackYour opinion is important to us×
 
