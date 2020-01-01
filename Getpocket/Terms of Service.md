@@ -175,4 +175,4 @@ We may, at any time, revise this Agreement. If we modify the Terms of Service, w
 
 COPYRIGHT NOTICE
 
-Copyright © 2012-2019 Read It Later, Inc. All rights reserved.
+Copyright © 2012-2020 Read It Later, Inc. All rights reserved.
