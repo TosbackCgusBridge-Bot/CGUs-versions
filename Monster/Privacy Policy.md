@@ -7,7 +7,7 @@ Monster collects information about you and uses this information to help you con
 
 Scope of this Privacy Policy
 
-This privacy policy applies to information we collect or use on sites and applications owned or controlled by Monster Worldwide, Inc. or its affiliated companies("Monster").
+This privacy policy applies to information we collect or use on sites and applications owned or controlled by Monster Worldwide, Inc. or its affiliated companies ("Monster").
 
 Information We Collect
 
