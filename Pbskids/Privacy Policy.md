@@ -1,24 +1,24 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _tip_
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
 
-What to keep in mind when responding to toddlers' irrational behavior. What to keep in mind when responding to toddlers' irrational behavior. Read more.
+Get parenting tips, kid-friendly recipes, cool crafts and more on PBS Parents! Get parenting tips, kid-friendly recipes, cool crafts and more on PBS Parents! Visit the site
 
 Toggle message bar
 
 *   Apps
 *   Shop
-
+*   KRMA
 *   Parents
 *   TV Times
 *   Settings PBS KIDS Settings_Close_Your Local PBS Station
     
-    Choose your station for TV schedules and local features
+    Rocky Mountain PBS
     
     Select your local station
     
     *   Rocky Mountain PBS
     *   Colorado Public Television: CPT12
     
-    Results for 80202. Try another zip code.What is your zip code?PBS KIDS uses your zip code to find our stations in your area.Find your stationBackPBS KIDS Super Vision
+    Results for 80202. Try another zip code.What is your zip code?PBS KIDS uses your zip code to find our stations in your area.Change your stationBackPBS KIDS Super Vision
     
     See what your child is playing, watching, &. learning with our free Super Vision app for iPhone. _Super Vision app is connected_
     
@@ -145,4 +145,4 @@ kids@pbs.org
 
 PBS KIDS | TV Times | Help  
   
-Copyright © 1995-2019 Public Broadcasting Service (PBS). All rights reserved. Come play again later! Come play again tomorrow! Come play again later! Come play again later!
+Copyright © 1995-2020 Public Broadcasting Service (PBS). All rights reserved. Come play again later! Come play again tomorrow! Come play again later! Come play again later!
