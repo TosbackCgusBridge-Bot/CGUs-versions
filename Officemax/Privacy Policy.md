@@ -40,15 +40,15 @@ Stock Quote and Chart
 
 Price
 
-$2.65
+$2.74
 
 Change
 
-+0.02
++0.09
 
 Percent Change
 
-(0.00%)
+(+3.40%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
@@ -76,4 +76,4 @@ Recent News Nov 22, 2019 Office Depot Chief Financial Officer Joseph T. Lower to
 *   Terms of Use
 |*   Privacy Policy
 
-*   ©2019 by Office Depot, Inc. All rights reserved.
+*   ©2020 by Office Depot, Inc. All rights reserved.
