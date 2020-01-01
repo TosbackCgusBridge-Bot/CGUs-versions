@@ -182,4 +182,4 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
   
 
-Publishers Clearing House LLC © Copyright 2019. All Rights Reserved
+Publishers Clearing House LLC © Copyright 2020. All Rights Reserved
