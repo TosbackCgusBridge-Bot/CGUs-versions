@@ -213,23 +213,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Open dark web database exposes info on 267 million Facebook
-    *   Wyze Labs data breach exposes 2.4 million, includes PHI
-    *   It’s a trap! Cybercriminals use Star Wars: Rise of Skywalker as bait
-    *   Is 5G the security silver bullet for system integrators in the West?
-    *   Facebook Tor gateway down while TLS certificate renewed
-    
-    *   Two information-disclosing bugs found in Twitter Android
     *   Cities get smarter
-    *   2020 Predictions: Technology
-    *   Inside the connected home and its implications for cybersecurity and privacy
-    *   2020 Predictions: Ransomware
+    *   Dark Overlord member extradited to the U.S., pleads not guilty plea
+    *   Citrix vulnerability places 80,000 companies at risk
+    *   It’s a trap! Cybercriminals use Star Wars: Rise of Skywalker as bait
+    *   PayPal scam goes after account info, payment card data
     
+    *   2020 Predictions: Cybersecurity Budget
+    *   Rising sea and spam levels? Emotet campaign uses Greta Thunberg as lure
+    *   Identity access management – An auditor’s view
+    *   California Consumer Privacy Act: Challenge and Opportunity
+    *   Consumer data privacy regulation at the federal level: An opportunity for MSPs?
+    
+    *   2020 Predictions: Cybersecurity Budget
+    *   School software vendor Active Network suffers data breach
     *   UK New Year Honours list mistakenly doxes honorees
     *   Wyze Labs data breach exposes 2.4 million, includes PHI
     *   2020 Predictions: Technology
-    *   2020 cybersecurity predictions
-    *   Names, Social Security numbers exposed in Moss Adams breach
 
 Back to Top
 
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
