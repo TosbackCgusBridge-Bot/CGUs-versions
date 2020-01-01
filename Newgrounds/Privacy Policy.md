@@ -24,7 +24,7 @@ We may share information you have provided publicly in order to promote work you
   
 You may opt in or out of email subscriptions at any time via your email subscriptions page.  
   
-**Cookies**  
+**Cookie Policy**  
   
 We use cookies to store login tokens and minimal information that helps us identify progress or preferences across the site. For example, the forums store a timestamp of when you last visited. When you return to the site at a later date, the cookie containing that timestamp is used to identify new posts that you might not have read.  
   
@@ -83,6 +83,34 @@ Some of the site's assets are hosted elsewhere. We use a content delivery networ
 **Links to External Sites**  
   
 This privacy policy is only applicable to Newgrounds and we are not responsible for the actions or policies of any other websites we link to.  
+  
+**Additional Information for California Residents**  
+  
+This section provides information organized in accordance with the California Consumer Privacy Act (“CCPA”) for residents of California about how we handle certain personal information we have collected over the past 12 months.  
+  
+Categories of Personal Information. This Privacy Policy discloses the categories of personal information that we collect, use, and disclose in order to operate our business over the past 12 months.  
+  
+Collect. This Privacy Policy discloses the categories of personal information that we collect, which include your account and profile information, your content, your communications with us, information about your activity on Newgrounds, and how you engage with Newgrounds.  
+  
+Use. This Privacy Policy discloses that the categories of personal information we collect are used to provide our services, for personalization, to comply with law, and to prevent misuse of Newgrounds.  
+  
+Disclose. The section above entitled Information Sharing discloses how we share your information.  
+  
+We do not share or sell your personal information to third parties. As described in our Cookie Policy, we may work with third parties such as advertisers to serve ads on Newgrounds. These third parties may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other tracking technologies to measure the effectiveness of their ads and to personalize advertising content to you. Options to opt out are available above in the Cookie Policy.  
+  
+Requests for Deletion, Copy and Right to Know Your Information. California consumers have the right to make the following requests, which we endeavor to honor from non-California residents as well:  
+  
+Deletion. You have the right to request deletion of personal information that we have collected about you.  
+  
+Copy and Right to Know. You have the right to request a copy of the specific pieces of personal information that we have collected about you over the past 12 months, however the only information we have that is not available under your profile and account options would be your IP address(es).  
+  
+Designated Agent. You may designate an agent to make a request on your behalf. That agent must have access to your account in order for us to verify the request.  
+  
+You can also submit a deletion, copy and right to know request by emailing us at support@newgrounds.com. You will need access to the email account associated with your Newgrounds account in order to verify your identity and complete this process.  
+  
+Non-Discrimination. Newgrounds will not discriminate against you, including by denying or providing a different level or quality of goods or services should you choose to exercise your options under the CCPA.  
+  
+Your California Privacy Rights under California’s Shine-the-Light Law. California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the types of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to support@newgrounds.com. Spoiler alert: We aren't sharing your information with any third parties.  
   
 **Changes To This Policy**  
   
