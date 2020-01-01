@@ -89,6 +89,6 @@ Wrightwood, CA 92397
 *   Make a Payment
 *   Privacy Policy
 
-Copyright © 2019 Ultimate Internet Access, Inc. All rights reserved.
+Copyright © 2020 Ultimate Internet Access, Inc. All rights reserved.
 
 https://www.uia.net
