@@ -327,7 +327,7 @@ You may also control interest-based advertising on your mobile device by enablin
 
 California Residents
 
-FOR RESIDENTS OF CALIFORNIA ONLY. Section 1798.83 of the California Civil Code requires select businesses to disclose policies relating to the sharing of certain categories of your personal information with third parties. If you reside in California and have provided your personal information to us, you may request information about our disclosures of certain categories of personal information to third parties for direct marketing purposes in the preceding calendar year. You can submit such request by sending an email by using the Contact Us link at the bottom of every page of the WebMD Sites.
+If you are a California resident, California law may provide you with additional rights regarding our use of your personal information. For more information relevant to our users who are California residents, please click here.
 
 Children
 
@@ -378,7 +378,7 @@ To view our certification status click here.
 
 WebMD.com, MedicineNet.com, eMedicineHealth.com, and RxList.com comply with the HONcode standard for trustworthy health information, which can be verified here.
 
-Last updated on August 29, 2019 © 2019 WebMD, LLC. All rights reserved. Today on WebMD Risky Mistakes Pet Owners Make
+Last updated on December 31, 2019 © 2019 WebMD, LLC. All rights reserved. Today on WebMD Risky Mistakes Pet Owners Make
 
 Some of these might surprise you.
 
