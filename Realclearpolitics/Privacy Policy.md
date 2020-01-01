@@ -118,6 +118,40 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Steve Cortes_: Trump's Top 10 Achievements for 2019
+    
+*   _Ed Kilgore_: 2020's Existential Dread
+    
+*   _Salena Zito_: How Populist Uprising of 2016 Will Reverberate in 2020
+    
+*   _Sen. Doug Jones_: Will My Colleagues in the Senate Pursue Truth?
+    
+*   _Christopher Roach_: Senate Should Dismiss Impeachment Without Trial
+    
+*   _Jason Sattler_: A Four-Part Plan to Beat Donald Trump in 2020
+    
+*   _Sean Trende_: 2019 Census Estimates Foreshadow House Seat Gains, Losses
+    
+*   _Jennifer Berkshire_: The Democrats' School Choice Problem
+    
+*   _David Harsanyi_: Texas's Concealed-Carry Law Prevented Mass Murder
+    
+*   _James Moore_: Texas Shooting Isn't as Simple as It Seems
+    
+*   _Susan Crabtree_: Iraq Back in 2020 Spotlight After Trump Orders Airstrikes
+    
+*   _Ellen Wald_: Energy Dominance Is Leverage for U.S. Foreign Relations
+    
+*   _Russell Berman_: John Lewis Is the Last Unifying Force in Congress
+    
+*   _Dennis Prager_: Greta Thunberg: A Living Explanation of the Left
+    
+*   _Frida Ghitis_: Anti-Semitic Attacks Show a Society at Risk of Falling Apart
+    
+*   _Daniel J. Flynn_: An Identity Crisis of a Decade
+    
+*   _Charles Blow_: The Decade We Changed Our Minds
+    
 *   _James Antle_: Trump's Partisan Problems Will Save His Presidency
     
 *   _Greg Sargent_: New Revelations Weaken Trump’s Impeachment Defenses
@@ -131,40 +165,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _James Foley_: Pragmatism, Not Purity, Can Defeat Trump
     
 *   _James Pinkerton_: In Praise of Rubio's Idea of 'Common Good Capitalism'
-    
-*   _Robert Robb_: Fatal Conceit: Politicians Aren't Smarter Than Markets
-    
-*   _David Smith_: DeRay Mckesson: Black Lives Matter Changed the Country
-    
-*   _Kaylee McGhee_: Our Culture of Apathy Has Normalized Anti-Semitism
-    
-*   _Nicholas Kristof_: 2019 Has Been the Best Year in Human History
-    
-*   _Dave Barry_: 2019 Was an 'Eventful' (Bad) Year
-    
-*   _Frank Miele_: 2019: The Year That Democrats Went Off the Rails
-    
-*   _Jeff Spross_: The 2010s Were an Economic Disaster
-    
-*   _Paul Adams_: Counting Our Blessings: The Best Decade Ever?
-    
-*   _Emma Green_: 'We're Not Safe as Jews in New York'
-    
-*   _Karol Markowicz_: How Liberals Are Allowing anti-Semitism to Flourish
-    
-*   _Maria Cardona_: Electability Is Key to Democrats' 2020 Fortunes
-    
-*   _Victor Davis Hanson_: President Trump's 'Failures'
-    
-*   _Sheelah Kolhatkar_: Ultra-Wealthy Argue They Should Pay Higher Taxes
-    
-*   _James Gorrie_: Trump's Inconvenient Corporate Tax Cuts
-    
-*   _Steve Frank_: The Impeachment Impasse
-    
-*   _Bill Scher_: Pelosi's Impeachment Delay Can't Go On Forever
-    
-*   _Matt Ford_: A Decade of Legal Warfare Has Warped America's Future
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Iraq Back in 2020 Spotlight After Trump Orders Airstrikes
+*   2019 Census Estimates Foreshadow House Seat Gains, Losses
+*   Christie: 3 House Seats in Deep Blue NJ Could Flip Red Due to Impeachment
 *   Will Biden's Catholicism Help Answer His 2020 Prayers?
 *   Space Force Will Start Small But Gives Trump a Big Win
-*   Trump: Pelosi Is Going to Get Thrown Out as Speaker Once Again
-*   Buttigieg Takes Fire But Also Lobs It Back
-*   Amid FISA Scrutiny, Critics Warn of FBI Briefing "Subterfuge"
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,37 +252,37 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve46
-    *   Disapprove53Disapprove +7
-*   Direction of CountryRasmussen Reports
-    *   Right Direction38
-    *   Wrong Track55Wrong Track +17
-*   2020 Democratic Presidential NominationEconomist/YouGov
-    *   Biden30
-    *   Sanders17
-    *   Warren19
-    *   Buttigieg7
-    *   Bloomberg4
-    *   Klobuchar5
-    *   Yang3
-    *   Booker2
-    *   Gabbard2
-    *   Steyer1
+*   2020 Democratic Presidential NominationMorning Consult
+    *   Biden32
+    *   Sanders21
+    *   Warren14
+    *   Buttigieg8
+    *   Bloomberg6
+    *   Klobuchar3
+    *   Yang4
+    *   Booker3
+    *   Gabbard1
+    *   Steyer3
     *   Castro1
     *   Delaney1
-    *   Bennet0Biden +11
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve43
-    *   Disapprove54Disapprove +11
+    *   Bennet1Biden +11
+*   Florida: Trump vs. BidenMason-Dixon
+    *   Biden47
+    *   Trump45Biden +2
+*   Florida: Trump vs. SandersMason-Dixon
+    *   Trump49
+    *   Sanders44Trump +5
+*   Florida: Trump vs. WarrenMason-Dixon
+    *   Trump51
+    *   Warren42Trump +9
 
 More Latest Polls In The News
 
+*   Collins: "Inappropriate" For McConnell, Warren To "Prejudge" Impeachment Trial. Open To Witnesses
+*   Dem Rep. Raskin: Dems "Must Be Open To Any Exculpatory Evidence," Evidence That Contradicts The House
+*   Biden Open To GOP Running Mate: "Can't Think Of One Right Now". "Democracy Depends Upon Consensus"
 *   Greenblatt: You Can't Read The Headlines Without Seeing Anti-Semitic Slander And Conspiracy Theories
-*   NYT's Dean Baquet And WP's Marty Baron: We Can't Dismiss Trump Supporters, They Deserve Our Respect
-*   Sen. John Kennedy: Senators Are Both Judge And Jury In Impeachment Trial. "There Are No Rules"
 *   Cruz: Impeachment Charges Against Trump Are "Laughable," Don't Meet Constitutional Threshold
-*   Van Hollen on Impeachment: "Look, If You Have A Rigged Trial There's No Exoneration In Acquittal"
 
 *   Politics
 *   Policy
@@ -307,4 +307,4 @@ More Latest Polls In The News
 *   RSS
 *   View Mobile Site
 
-Copyright © 2019 RealClearHoldings, LLC. ©2019 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=null&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
+Copyright © 2020 RealClearHoldings, LLC. ©2019 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=null&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
