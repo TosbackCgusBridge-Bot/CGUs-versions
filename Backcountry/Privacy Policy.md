@@ -1,6 +1,6 @@
 BACKCOUNTRY PRIVACY POLICY
 
-**Last Updated:** 11/7/2017
+**Last Updated:** 12/26/2019
 
 This Privacy Policy explains how information about you is collected, used and disclosed by Backcountry.com, LLC and its subsidiaries (“**Backcountry**” or “**we**”). This Privacy Policy applies to information we collect when you use our websites, mobile apps and other online products and services (collectively, the “**Services**”), including Backcountry.com, SteepandCheap.com, Competitivecyclist.com, and Motosport.com, or when you otherwise interact with us. This policy does not apply to products or services with separate privacy policies that do not incorporate this Privacy Policy.
 
@@ -10,7 +10,7 @@ For information about the choices we offer in connection with our information pr
 
 Collection of Information Information You Provide to Us
 
-We collect information you provide directly to us. For example, we collect information when you create an account, update your profile, post a review, participate in any interactive features of the Services, fill out a form or survey, participate in a contest or promotion, make a purchase, communicate with us via third party social media sites, request customer support or otherwise communicate with us. The types of information we may collect include your name, password, email address, social media user names and handles, postal address, phone number, gender, interests, preferences, payment information and any other information you choose to provide.
+We collect information you provide directly to us. For example, we collect information when you create an account, update your profile, post a review, participate in any interactive features of the Services, fill out a form or survey, participate in a contest or promotion, make a purchase, communicate with us via third party social media sites, request customer support or otherwise communicate with us. The types of information we may collect about you include your name, password, email address, social media user names and handles, postal address, phone number, gender, interests, preferences, photos, product reviews, fit information, payment information and any other information you choose to provide.
 
 Information We Collect Automatically When You Use the Services
 
@@ -47,12 +47,12 @@ Sharing of Information
 
 We may share information about you as follows or as otherwise described in this Privacy Policy:
 
-*   With third parties for their direct marketing purposes. Please see “Your Choices” below if you want to opt out;
+*   With third parties with whom we sponsor events if you consent to such disclosure;
 *   When you participate in interactive features on our Services, information about you may be displayed publicly on our Services and on other sites or online services, including your photos, videos, posts, product feedback, and other information you choose to provide;
 *   With vendors, consultants and other service providers who need access to such information in connection with services they perform for us and who are subject to contractual obligations regarding their use of the information.
 *   In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process;
 *   If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Backcountry or others;
-*   In connection with, or during negotiations of, any merger, sale of Backcountry assets, financing or acquisition of all or a portion of our business by another company.
+*   In connection with, or during negotiations of, any merger, sale of Backcountry assets, financing or acquisition of all or a portion of our business by another company. and
 *   With your consent or at your direction.
 
 We may also share aggregated or de-identified information.
@@ -77,13 +77,13 @@ Backcountry is based in the United States and the information we collect is gove
 
 Your Choices Account Information
 
-You may update the online account information you provide to us by logging into your online account. This information should update across the online accounts you use to access the Services, except that you will have to separately maintain and update your MotoSport account.
+You may update the online account information you provide to us by logging into your online account. This information should update across the online accounts you use to access the Services.
 
-Opt-Out of Sharing for Direct Marketing Purposes
+California “Shine the Light” Disclosure
 
-To opt out of us sharing your personal information with third parties for their direct marketing purposes, please send us an email containing the subject line “sharing opt out” to info@backcountry.com.
+As described above, we may share information with third parties with whom we sponsor events if you consent to such disclosure.
 
-Please note that California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. Under the law, a business must either provide this information or permit California residents to opt in to, or opt out of, this type of sharing. We qualify for this alternative option through the opt-out we provide above.
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. Under the law, a business must either provide this information or permit California residents to opt in to, or opt out of, this type of sharing. We qualify for this alternative option by only sharing information when you have opted in to such sharing.
 
 Location Information
 
@@ -103,11 +103,23 @@ You may opt out of receiving promotional emails from one of our Services by foll
 
 Promotional Calls
 
-You may opt out of receiving promotional calls from us by letting us know during one of those calls or by sending an email to info@backcountry.com with the subject line “opt out to calls”.
+You may opt out of receiving promotional calls from us by letting us know during one of those calls, by changing the preferences through your online account with each Service, or by sending an email to info@backcountry.com with the subject line “opt out to calls”.
 
 Mobile Push Notifications
 
 With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.
+
+California Privacy Rights
+
+This section provides additional details about the personal information we collect about California consumers and the rights afforded to them under the California Consumer Privacy Act or “CCPA.”
+
+Subject to certain limitations, the CCPA provides California consumers the right to request to know more details about the categories or specific pieces of personal information we collect, to delete their personal information, to opt out of any “sales” that may be occurring, and to not be discriminated against for exercising these rights.
+
+In the last 12 months, we collected the following categories of personal information: identifiers (such as name and contact information), characteristics of protected classifications (such as age and gender), commercial information (such as products purchased), internet or other electronic network activity information (such as browsing behavior), geolocation data, audio, electronic, visual or similar information (such as profile pictures or customer support call information), and inferences we make (such as preferred activities). For more details about the personal information we collect, including the categories of sources, please see the “Collection of Information” section above. We collect this information for the business and commercial purposes described in the “Use of Information” section above. We share this information with the categories of third parties described in the “Sharing of Information” section above.
+
+Backcountry does not “sell” the personal information we collect (and will not sell it in the future without providing a right to opt out). Please note that we do use third-party cookies for our advertising purposes as further described in the “Advertising and Analytics Services Provided by Others” section above.
+
+California consumers may make a rights request by visiting this portal: Rights Request. In the portal, we will require that you provide additional information in order to verify your request.
 
 Contact Us
 
