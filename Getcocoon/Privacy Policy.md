@@ -80,7 +80,7 @@ Email <div style="display:inline;">. <img height="1" width="1" style="border-sty
     *   YouTube
     *   LinkedIn
 
-©2019 Virtual World Computing, LLC  
+©2020 Virtual World Computing, LLC  
   
 Tour
 
@@ -107,6 +107,6 @@ Company
 *   Privacy Policy
 *   Contact
 
-©2019 Virtual World Computing, LLC
+©2020 Virtual World Computing, LLC
 
 loading
