@@ -1059,7 +1059,7 @@ the statutory provisions.
 
 Version: 12. December 2018
 
-Copyright 1996-2019 StepStone GmbH All rights reserved
+Copyright 1996-2020 StepStone GmbH All rights reserved
 
 *   Contact us
 *   Terms of use
