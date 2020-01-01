@@ -432,6 +432,7 @@ Terms &. Conditions
 
 *   Privacy Policy
 *   Privacy Policy - Applicants
+*   Privacy Policy - California
 *   Terms of Use
 *   Fraud Alerts
 *   Buckle Affiliate Network
@@ -552,7 +553,7 @@ STAY CONNECTED
 
 RESERVE IN STORE
 
-1.  © 2019 Buckle Inc.
+1.  © 2020 Buckle Inc.
 2.  Terms
 3.  Privacy Policy
 4.  Transparency In Supply Chains
