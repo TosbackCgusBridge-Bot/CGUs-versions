@@ -413,7 +413,7 @@ Get Involved
 *   Privacy
 *   Your Privacy Choices
 *   Text Only
-*   © 2019 npr
+*   © 2020 npr
 
 NPR thanks our sponsors
 
