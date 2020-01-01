@@ -462,4 +462,4 @@ Contact Us
 *   Social Media Disclaimer
 *   Directory Opt-Out
 
-©2019 Thryv, Inc. All rights reserved.
+©2020 Thryv, Inc. All rights reserved.
