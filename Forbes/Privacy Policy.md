@@ -217,7 +217,7 @@
     Note on Translated Version(s): For your convenience, Forbes may make translated versions of this Privacy Statement available on the Site.  In the event that the terms of any such translated version conflict with the terms of the English version, the terms of the English version of this Privacy Statement will apply.
     
 
-© 2019 Forbes Media LLC. All Rights Reserved.
+© 2020 Forbes Media LLC. All Rights Reserved.
 
 *   AdChoices
 *   AdChoices
