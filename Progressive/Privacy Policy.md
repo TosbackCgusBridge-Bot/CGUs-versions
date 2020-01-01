@@ -356,4 +356,4 @@ Loading
 *   Terms of Use
 *   Insurance Resources
 
-The #1 insurance website Copyright 1995 - 2019. Progressive Casualty Insurance Company. All Rights Reserved.
+The #1 insurance website Copyright 1995 - 2020. Progressive Casualty Insurance Company. All Rights Reserved.
