@@ -586,4 +586,4 @@ Please contact us directly with any questions or concerns you may have about you
 *   Do Not Sell My Personal Data
 *   Adchoices 
 
-© 2019 Procter &. Gamble. All claims valid only in the U.S.
+© 2020 Procter &. Gamble. All claims valid only in the U.S.
