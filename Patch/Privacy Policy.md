@@ -338,7 +338,7 @@ Support
 *   Terms of Use
 *   Privacy Policy
 
-© 2019 Patch Media. All Rights Reserved.
+© 2020 Patch Media. All Rights Reserved.
 
 Swipe for more from Patch »
 
