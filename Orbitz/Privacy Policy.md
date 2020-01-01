@@ -94,6 +94,7 @@ Keep me signed in Forgot password? Earn free travel rewards with Orbitz Rewards.
 *   Terms of Use
 *   Support
 *   Privacy Policy
+*   Do Not Sell My Personal Information
 
 Orbitz Rewards
 
@@ -121,4 +122,4 @@ Partner Services
 
 *   Add a property
 
-© 2019 Orbitz, LLC. All rights reserved. Orbitz, Orbitz.com, and the Orbitz logo are either registered trademarks or trademarks of Orbitz, LLC in the U.S. and/or other countries. Other logos or product and company names mentioned herein may be the property of their respective owners. CST #2063530-50
+© 2020 Orbitz, LLC, An Expedia Group Company. All rights reserved. Orbitz, Orbitz.com, and the Orbitz logo are either registered trademarks or trademarks of Orbitz, LLC in the U.S. and/or other countries. Other logos or product and company names mentioned herein may be the property of their respective owners. CST #2063530-50
