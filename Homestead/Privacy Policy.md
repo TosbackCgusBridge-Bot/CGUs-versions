@@ -331,7 +331,7 @@ Fax: (+31) – (0)70 – 888 85 01
 
 **Last modified December 20, 2019**
 
-Back To Top ©2019 Endurance International Group.
+Back To Top ©2020 Endurance International Group.
 
 *   Our Company
     *   Our Company Overview
