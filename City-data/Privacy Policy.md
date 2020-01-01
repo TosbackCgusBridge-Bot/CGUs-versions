@@ -188,6 +188,8 @@ Personal information does not include:
 *   personal information covered by certain sector-specific privacy laws, including the Fair Credit Reporting Act (FRCA), the Gramm-Leach-Bliley Act (GLBA) or
 *   California Financial Information Privacy Act (FIPA), and the Driver's Privacy Protection Act of 1994.
 
+City-data.com compiles various public records, such as sex offender or property assessment information. According to the California Consumer Privacy Act, "Personal information" does not include publicly available information, lawfully made available from federal, state, or local government records.
+
 To exercise the access rights described above, please submit a verifiable consumer request to us by filling out the form at https://www.city-data.com/privacy-form.php?w=usget or by calling us toll-free at (844)346-1463. For requests made by a Forum user, you must provide your full name, your Forum username, and the email that you used during Forum registration. We will verify your request by requiring you to provide a code that we will send to this email address or by asking you to log in into your Forum account and performing a specified task. We will maintain the records of all requests. This includes the date of request, nature of request, manner in which the request was made, the date of the business’s response, the nature of the response, and the basis for the denial of the request if the request is denied in whole or in part.
 
 Deletion Request Rights
