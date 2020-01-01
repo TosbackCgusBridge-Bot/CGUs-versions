@@ -500,6 +500,14 @@ Offers
     
     When you spend $100+ on Gift Cards. SEE DETAILS
     
+*   Every 4 Tickets = $5 For You
+    
+    Buy tickets. Earn points. Get a $5 reward for a movie on us. BUY TICKETS
+    
+*   FandangoNOW Fresh Picks
+    
+    100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
+    
 
 New + Coming soon
 
@@ -522,14 +530,6 @@ Experience + Explore
 *   Gift Cards
 
 Editorial Features
-
-*   Star Wars Guide
-*   Holiday Movie Guide
-*   Awards Watch
-*   Indie Movie Guide
-*   Family Guide
-*   House Of Screams
-*   Movie News
 
 Videos
 
