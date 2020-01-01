@@ -250,7 +250,7 @@ Changes to this Privacy Policy
 
 Lands’ End may update this Privacy Policy from time to time. Please check this Privacy Policy periodically for changes. We will also notify you of material changes either by email or by a notice on this Site
 
-sign up**Get exclusive Offers and News**Privacy Policy &. Contact Info sign up U.S. Customers only. No purchase necessary. Automated marketing messages will be sent to the phone number provided. Msg &. data rates may apply. Up to 8 messages per month. Privacy Policy Customer Service Chat
+California Consumer Privacy Act: Do Not Sell My Personal Information sign up**Get exclusive Offers and News**Privacy Policy &. Contact Info sign up U.S. Customers only. No purchase necessary. Automated marketing messages will be sent to the phone number provided. Msg &. data rates may apply. Up to 8 messages per month. Privacy Policy Customer Service Chat
 
 *   Call Text Chat Email
 *   **Call or text us 1-800-963-4816**
