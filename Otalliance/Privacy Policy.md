@@ -191,4 +191,4 @@ CH-1201 Geneva
 
 Follow us:
 
-Follow Internet Society on Twitter Follow Internet Society on LinkedIn Follow Internet Society on Facebook Follow Internet Society on Instagram Follow Internet Society on YouTube Internet Society RSS Feed Copyright © 2019 Internet Society We care about your privacy and strive to limit our use of cookies to those that help improve our site and keep it relevant. By continuing to use this site, you agree to the use of cookies. To learn more about how you can control use of cookies see our Cookie Policy
+Follow Internet Society on Twitter Follow Internet Society on LinkedIn Follow Internet Society on Facebook Follow Internet Society on Instagram Follow Internet Society on YouTube Internet Society RSS Feed Copyright © 2020 Internet Society We care about your privacy and strive to limit our use of cookies to those that help improve our site and keep it relevant. By continuing to use this site, you agree to the use of cookies. To learn more about how you can control use of cookies see our Cookie Policy
