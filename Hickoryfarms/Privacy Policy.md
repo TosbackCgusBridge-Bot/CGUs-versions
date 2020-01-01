@@ -8,7 +8,7 @@
     *   Gift Towers &. Crates
     *   California Gift Baskets
     
-    Occasions*   Christmas Gifts
+    Occasions*   Game Day
     *   Holiday
     *   Birthday Gifts
     *   Gifts for a Group
@@ -75,12 +75,11 @@
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Christmas Gifts
+    View All Categories Shop by Category*   New Year's
     *   Holiday Entertaining
-    *   Stocking Stuffers
-    *   New Year's
     
-    Occasions*   Birthday Gifts
+    Occasions*   Game Day
+    *   Birthday Gifts
     *   Gifts for Her
     *   Gifts for Him
     *   Thank You Gifts
@@ -92,7 +91,7 @@
 *   Sale
     View All Categories Shop by Category*   Clearance Sale
 
-1.800.753.8558 Business Gifts $5 flat-rate shipping plus 60% off select gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
+1.800.753.8558 Business Gifts End of season clearance - Take 60% off select gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
 
 *   Gift Baskets
     
@@ -104,7 +103,7 @@
     *   Gift Towers &. Crates
     *   California Gift Baskets
     
-    Occasions*   Christmas Gifts
+    Occasions*   Game Day
     *   Holiday
     *   Birthday Gifts
     *   Gifts for a Group
@@ -171,12 +170,11 @@
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Christmas Gifts
+    View All Categories Shop by Category*   New Year's
     *   Holiday Entertaining
-    *   Stocking Stuffers
-    *   New Year's
     
-    Occasions*   Birthday Gifts
+    Occasions*   Game Day
+    *   Birthday Gifts
     *   Gifts for Her
     *   Gifts for Him
     *   Thank You Gifts
