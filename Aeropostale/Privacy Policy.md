@@ -24,7 +24,6 @@ Close submenu ( Girls ) Girls
 *   Dresses
 *   Matching Sets
 *   Accessories
-*   Hats + Scarves
 *   Shoes
 *   Fragrance
 *   Bras + Undies
@@ -82,7 +81,6 @@ Close submenu ( Guys ) Guys
 *   Open submenu ( Bottoms ) Bottoms
 
 *   Jackets + Coats
-*   Hats + Gloves
 *   Accessories
 *   Underwear
 *   Cologne
@@ -135,6 +133,7 @@ Close submenu ( Jeans ) Jeans
 Close submenu ( Girls Jeans ) Girls Jeans
 
 *   View All
+*   Buy 1 Get 1 Free
 *   Destroyed Denim
 *   Jeggings
 *   High Rise Jeans
@@ -162,7 +161,6 @@ Close submenu ( Guys Jeans ) Guys Jeans
 *   Athletic Skinny Jeans
 *   Loose Jeans
 *   Dad Jeans
-*   Relaxed Jeans
 *   Soft Spun
 *   Real Denim
 *   Flex Effects
@@ -284,7 +282,6 @@ Menu Find a Store Aeropostale
     *   Dresses
     *   Matching Sets
     *   Accessories
-    *   Hats + Scarves
     *   Shoes
     *   Fragrance
     *   Bras + Undies
@@ -355,7 +352,6 @@ Menu Find a Store Aeropostale
         
     
     *   Jackets + Coats
-    *   Hats + Gloves
     *   Accessories
     *   Underwear
     *   Cologne
@@ -404,6 +400,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls Jeans
         *   View All
+        *   Buy 1 Get 1 Free
         *   Destroyed Denim
         *   Jeggings
         *   High Rise Jeans
@@ -430,7 +427,6 @@ Menu Find a Store Aeropostale
         *   Athletic Skinny Jeans
         *   Loose Jeans
         *   Dad Jeans
-        *   Relaxed Jeans
         *   Soft Spun
         *   Real Denim
         *   Flex Effects
@@ -669,4 +665,4 @@ Stay Connected
 *   Use Student Discount
 *   Store FAQs
 
-© 2019 Aeropostale. All Rights Reserved. CHAT close dialogWant to snag15% OFFsitewide?GET 15% OFFI DON'T WANT 15% OFFNICE! Give us your email to snag15% offPlease enter aboveUnlock 15% offYOU’VE SNAGGED 15% OFFUse Codeat checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSContinue Shoppingclose dialog
+© 2019 Aeropostale. All Rights Reserved. CHAT
