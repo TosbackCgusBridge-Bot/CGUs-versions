@@ -322,7 +322,7 @@ info@sencha.com
     *   Ordering Information
     *   Authorized Resellers
 
-© 2019 Sencha Inc. All rights reserved.
+© 2020 Sencha Inc. All rights reserved.
 
 *   GDPR
 *   Privacy Policy
