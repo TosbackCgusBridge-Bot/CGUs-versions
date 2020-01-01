@@ -443,7 +443,7 @@ If you have questions or complaints regarding this Policy, please first contact 
 *   Companies
 *   Universities
 
-LinkedIn Corporation _© 2019_
+LinkedIn Corporation _© 2020_
 
 *   User Agreement
 *   Privacy Policy
