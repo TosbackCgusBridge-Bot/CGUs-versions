@@ -178,17 +178,17 @@ Users with questions about this Agreement and any of the above statements may co
 
 PRIVACY POLICY
 
-Updated as of August 20, 2019
+Updated as of December 31, 2019
 
-TAGGED and HI5 (collectively, the "Services") are owned and operated by The Meet Group, Inc. If you have any questions or comments about this Privacy Policy, please contact us at support@themeetgroup.com or here. This Privacy Policy is applicable to all of our Services unless otherwise noted.
+TAGGED AND HI5 (collectively, the “Services”) are owned and operated by The Meet Group, Inc. If you have any questions or comments about this Privacy Policy, please contact us at support@themeetgroup.com or here. This Privacy Policy is applicable to all of our Services unless otherwise noted.
 
 By downloading or using any of our Services you agree to this Privacy Policy and the applicable Terms of Service (for Tagged, click here. and for Hi5, click here).
 
-When you create a profile on one of our Services, your personal information may be visible also to users of our other Services, and other applications we own, such as Flurv, Boy Ahoy and others.  You may opt out of this feature in your Settings tab.  
+When you create a profile on one of our Services, your personal information may be visible also to users of our other Services, and other applications we own, such as Flurv, Boy Ahoy and others. You may opt out of this feature in your Settings tab.
 
-If you are under the age of 18, you may not download or use Tagged or Hi5. We do not knowingly collect or maintain personal information from children under age 13.
+If you are under the age of 18, you may not download or use Tagged or Hi5. We do not knowingly collect, maintain, or sell information from minors under 18. We do not knowingly collect, maintain, or sell personal information from children under age 13.
 
-Parents: If your child is under the age of 13 and has joined any of the Services using a false age, please notify us at support@themeetgroup.com, and we will terminate your child's account and delete all personal information displaying on the Services. If you would like to know more about our sites, stored personal information about your child, or how to terminate your child's account, please send your request by mail to Member Services, The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938, submit your request here, or email parentcare@tagged.com. We will happily respond to all communications from parents with privacy questions or concerns.
+Parents: If your child is under the age of 13 and has joined any of the Services using a false age, please notify us at support@themeetgroup.com, and we will terminate your child's account and delete all personal information displaying on the Services. If you would like to know more about our sites, stored personal information about your child, or how to terminate your child's account, please send your request by mail to Member Services, The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938, submit your request here, or email parentcare@tagged.com. We will happily respond to all communications from parents with privacy questions or concerns.
 
 I. What This Privacy Policy Covers
 
@@ -198,36 +198,38 @@ This Privacy Policy does _not_ apply to the practices of companies that we do no
 
 II. Controlling and Protecting Your Privacy
 
-1.  **Personal Safety**. After getting to know someone online, you may choose to meet him or her in-person. If so, be careful and use common sense. Never meet someone in private for the first time. choose a public place, and take a friend. For more information about staying safe, please visit www.themeetgroup.com/safety-practices.
+1.  **Personal Safety**. After getting to know someone online, you may choose to meet him or her in-person. If so, be careful and use common sense. Never meet someone in private for the first time. choose a public place, and take a friend. For more information about staying safe, please visit The Meet Group Safety page.
     
-2.  **Account Settings.** You can change your account settings at any time. You should review these settings regularly.
+2.  **Account Settings**. You can change your account settings at any time. You should review these settings regularly.
     
-3.  **Deleting Your Account.** You can edit or delete information that you upload to our Services and you can delete your account, but you cannot recall or delete information that others have copied. When you delete your account, some or all of your information may remain on our servers, but you will not be able to access it.
+3.  **Deleting Your Account**. You can edit or delete information that you upload to our Services and you can delete your account, but you cannot recall or delete information that others have copied. When you delete your account, some or all of your information may remain on our servers, but you will not be able to access it.
     
-4.  **Deleting Your Information and Content.** You can request us to delete your posted information and content. To do so, send an email to support@themeetgroup.com from the email address associated with your account, requesting deletion.
+4.  **Deleting Your Information and Content**. You can request that we delete your posted information and content. To do so, send an email to support@themeetgroup.com from the email address associated with your account, requesting deletion.
     
-5.  **Location Information**. We collect your location when you first register with our Services and each time you log in on a mobile device. You can control whether other users see your location after initial log in through your operating system's settings. We may still use your location (such as for security or advertising purposes) even if you choose not to display it to other users.
+5.  **Location Information**. We collect your location when you first register with our Services and each time you log in on a mobile device. You can control whether other users see your location after initial log in through your operating system’s settings. We may still use your location (such as for security or advertising purposes) even if you choose not to display it to other users.
     
-    We do not "track" your location, but we do collect location information from your device or browser when you log in or use our Services, such as when you visit a particular feature that uses location. In addition, as with most location-enabled applications, we and our third-party partners may access your location any time your device is on, whether or not you are logged-in to our Services. But we do not share your precise location with other users.
+    We do not “track” your precise location, but we do collect location information from your device or browser when you log in or use our Services, such as when you visit a particular feature that uses location. In addition, as with most location-enabled applications, we and our third-party partners may access your location any time your device is on, whether or not you are logged-in to our Services. We do not share your precise location with other users.
     
 6.  **Password**. Store your password in a safe place, and do not share it with anyone. If you think someone has your password, change it immediately.
     
 7.  **Posting Information**. Posting personal information on public areas of our Services will make it publicly available. The personal information you post or share with others may in turn be shared by them with still other users and it may also show up when someone uses a public search engine (even if that person is not a user of our Services). **Do not post personal information in public areas of our Services that you want to keep private**.
     
-8.  **Third Parties**. We are not responsible for (and don't have any control over) the privacy policies of third party websites, apps and ad servers. We encourage you to read the privacy policies of each and every website and app you visit.
+8.  **Third Parties**. We are not responsible for (and don’t have any control over) the privacy policies of third party websites, apps and ad servers. We encourage you to read the privacy policies of each and every website and app you visit.
     
-9.  **Opting Out of Receiving Cookies.** You may set your browser to block some or all cookies. However, our Services might not fully function if you disable cookies. If you use multiple devices, browsers or computers, you will need to opt out of receiving cookies on each one. Also, if you change devices or computers you will need to repeat this opt-out process. You may also be able to opt-out of receiving cookies from some advertisers.
+9.  **Opting Out of Receiving Cookies**. You may set your browser to block some or all cookies. However, our Services might not fully function if you disable cookies. If you use multiple devices, browsers or computers, you will need to opt out of receiving cookies on each one. Also, if you change devices or computers you will need to repeat this opt-out process. You may also be able to opt-out of receiving cookies from some advertisers.
     
-    Many Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. You may click on the following links: http://www.networkadvertising.org/choices/ and http://www.aboutads.info/choices/ for information on how to opt-out of the use of cookies or web beacons. You may also be able to opt-out of receiving cookies through the Digital Advertising Alliance in the USA, the Digital Advertising Alliance of Canada in Canada, or the European Interactive Digital Advertising Alliance in Europe.
+    Many Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. You may click on the following links: http://www.networkadvertising.org/choices/ and http://www.aboutads.info/choices/ for information on how to opt-out of the use of cookies or web beacons. You may also be able to opt-out of receiving cookies through the Digital Advertising Alliance in the USA, the Digital Advertising Alliance of Canada of Canada in Canada, or the European Interactive Digital Advertising Alliance in Europe.
     
-10.  **Limit Mobile Ad Tracking.** You may set your mobile device to limit ad tracking, in which case we will not be able to see your AdID or IDFA. However, we will still share other personal information to our advertising partners as described in this Privacy Policy.
+10.  **Limit Mobile Ad Tracking**. You may set your mobile device to limit ad tracking, in which case we will not be able to see your AdID or IDFA. However, we will still share other personal information to our advertising partners as described in this Privacy Policy.
     
-11.  **Do Not Track Signals**. Some Internet browsers include the ability to transmit "Do Not Track" signals, but there are no uniform standards for this. We do not process or respond to "Do Not Track" signals.
+11.  **Do Not Track Signals**. Some Internet browsers include the ability to transmit “Do Not Track” signals, but there are no uniform standards for this. We do not process or respond to “Do Not Track” signals.
     
 
 III. Information We Collect
 
-We collect different types of personal information about you and your activities. We collect personal information when you register, log into, and use our Services, including the features you use, the pages and screens you visit, and the information you enter, such as chats or demographic information that you share in your profile on our Services. The specific examples in the following bullets are not meant to be exhaustive.
+We collect different types of personal information about you and your activities. We collect personal information when you register, log into, and use our Services, including the features you use, the pages and screens you visit, and the information you enter, such as chats or demographic information that you share in your profile on our Services. We do not collect personal information from you on the website or mobile app unless you are logged onto our service. The specific examples in the following bullets are not meant to be exhaustive.
+
+Categories of Information We Collect When You Use Our Website and App:
 
 *   **Email Address And Phone Number.** We may require a valid email address or phone number to register for our Services. This email will be stored in our servers while you have an account with any of our Services. We will use this email address to contact you, but you may opt out of promotional email contact in the Settings tab. We may use your phone number to verify your account, but generally will not otherwise contact you by phone.
     
@@ -280,9 +282,9 @@ Specifically, we use and disclose your information in the following ways:
         
 *   **Contacting you.** To contact you by email, text messaging, phone, autodialer or otherwise, including to invite you to participate in surveys and contests, and provide you updates and information about the Services and our other products and services. You can opt out of receiving promotional email, text messages or push notifications at any time in the Settings tab.
     
-*   **Pets feature.** For Tagged and hi5 users, to display your profile picture in our Pets game. You may hide the Pets feature, but your profile picture will be visible to other users of the game. This is a requirement of using Tagged and you may opt out of it only by deleting your account.
+*   **Pets feature.** For Tagged users, to display your profile picture in our Pets game. You may hide the Pets feature, but your profile picture will be visible to other users of the game. This is a requirement of using Tagged and you may opt out of it only by deleting your account.
     
-*   **Cookies and mobile ad identification**. We may set and access cookies or use AdID or IDFA information on your device or computer to customize your experience. These files help us with the following:
+*   **Cookies and mobile ad identification.** We may set and access cookies or use AdID or IDFA information on your device or computer to customize your experience. These files help us with the following:
     
     *   **Authentication**: Cookies are used to keep you logged into our site as you navigate through different pages.
         
@@ -294,18 +296,18 @@ Specifically, we use and disclose your information in the following ways:
     
 *   **Business transfers.** We may share your personal information with another business entity in connection with a proposed or actual sale, assignment, merger or transfer of all or part of our business or the acquisition of all or part of another business. In such cases, we would require any such business entity to honor the terms of this Privacy Policy.
     
-*   **Management of our company.** We will process your information as needed to maintain our financial books and records, engage in sales of goods and Services to members and advertisers, ensure the integrity and security of our systems and resources, operate our work environment, and respond to any potential compromise of anyone's personal information.
+*   **Management of our company.** We will process your information as needed to maintain our financial books and records, engage in sales of goods and Services to members and advertisers, ensure the integrity and security of our systems and resources, operate our work environment, and respond to any potential compromise of anyone’s personal information.
     
-*   **Service providers.** We transfer information to vendors, service providers, and other partners who support our business, such as providing technical infrastructure services, analyzing how our services are used, measuring the effectiveness of ads and services, providing customer service, facilitating payments, or conducting research and surveys. These partners agree to adhere to confidentiality obligations consistent with this Privacy Policy and the agreements we enter into with them.
+*   **Service providers**. We transfer information to vendors, service providers, and other partners who support our business, such as providing technical infrastructure services, analyzing how our services are used, measuring the effectiveness of ads and services, providing customer service, facilitating payments, or conducting research and surveys. These partners agree to adhere to confidentiality obligations consistent with this Privacy Policy and the agreements we enter into with them.
     
-*   **Advertisers.** We may share information with third parties for the purposes of delivering relevant, personalized advertisements or content on our Services and on the websites or applications of third parties.  To achieve this purpose, our partners may use the shared information (i) to evaluate the nature of the connection across your devices, browsers, or applications. (ii) to assess the suitability of your desktop or mobile device for interest- or demographic-based content. (iii) to provide information and inferences about user interests to third parties. and (iv) to develop insights and reports relating to the presentation of customized advertisements or content, including statistical reports in connection with activity on a website, optimization of ad placement and performance, development of reach and frequency metrics, billing activities, and tracking ads served on a particular day to a particular account.  Our partners may also combine shared information with additional non-identifying information collected from other sources to enhance these activities.
+*   **Advertisers.** We may share information with third parties for the purposes of delivering relevant, personalized advertisements or content on our Services and on the websites or applications of third parties. To achieve this purpose, our partners may use the shared information (i) to evaluate the nature of the connection across your devices, browsers, or applications. (ii) to assess the suitability of your desktop or mobile device for interest- or demographic-based content. (iii) to provide information and inferences about user interests to third parties. and (iv) to develop insights and reports relating to the presentation of customized advertisements or content, including statistical reports in connection with activity on a website, optimization of ad placement and performance, development of reach and frequency metrics, billing activities, and tracking ads served on a particular day to a particular account. Our partners may also combine shared information with additional non-identifying information collected from other sources to enhance these activities.
     
-*   **Personal Information.** Except for "Cooperation with Law Enforcement," "Business Transfers" and "Service Providers" (all described above), in connection with account verification (and then only for that purpose), or to enforce our rights under this Privacy Policy and our Terms of Service, we do not share the following personal information with any third party not owned by The Meet Group, Inc. for any reason: your exact date of birth, your first name, your last name, your address, your phone number(s), or your email address.
+*   **Personal Information.** Except for “Cooperation with Law Enforcement,” “Business Transfers” and “Service Providers” (all described above), in connection with account verification (and then only for that purpose), or to enforce our rights under this Privacy Policy and our Terms of Service, we do not share the following personal information with any third party not owned by The Meet Group, Inc. for any reason: your exact date of birth, your first name, your last name, your address, your phone number(s), or your email address.
     
 
 V. Data Security and Storage
 
-We use industry standard security measures to prevent the loss, misuse and alteration of the information under our control. However, we cannot guarantee that our security measures will prevent "hackers" from illegally obtaining this information. We will store and maintain your personal information for as long as necessary (i) for the purposes for which it was collected, (ii) to meet our current and future legal obligations, including compliance with our records retention practices, and (iii) as permitted to meet our legitimate interests. Our Services are hosted in the United States and we maintain your information in the United States and elsewhere on the cloud. If you are outside the United States, you agree to have your data transferred to and processed in the United States and elsewhere. When we transfer personal data outside of the European Economic Area, we ensure an adequate level of protection for the rights of data subjects based on the adequacy of the receiving country's data protection laws and contractual obligations placed on the recipient of the data. A copy of these safeguards may be made available by writing to us at the address provided in the Contact Information section below.
+We use industry standard security measures to prevent the loss, misuse and alteration of the information under our control. However, we cannot guarantee that our security measures will prevent “hackers” from illegally obtaining this information. We will store and maintain your personal information for as long as necessary (i) for the purposes for which it was collected, (ii) to meet our current and future legal obligations, including compliance with our records retention practices, and (iii) as permitted to meet our legitimate interests. Our Services are hosted in the United States and we maintain your information in the United States and elsewhere on the cloud. If you are outside the United States, you agree to have your data transferred to and processed in the United States and elsewhere. When we transfer personal data outside of the European Economic Area, we ensure an adequate level of protection for the rights of data subjects based on the adequacy of the receiving country’s data protection laws and contractual obligations placed on the recipient of the data. A copy of these safeguards may be made available by writing to us at the address provided in the Contact Information section below.
 
 VI. Access to Your Personal Information
 
@@ -317,14 +319,30 @@ You may delete your account at any time, and your personal information will be d
 
 VIII. California Resident Rights
 
-*   **California Privacy Rights.** California Civil Code Section 1798.83 permits our users who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us by mail at Member Services, The Meet Group, Inc. 100 Union Square Drive, New Hope, PA 18938 or by email at support@themeetgroup.com. Please be advised that we are only required to respond to one request per user each year.
+*   **Notice of Right to Know About Information Collected.** California residents have the right to request certain information about whether we collect, use, disclose and sell personal information about them, and to request to know the personal information that we have. To make such a request, please contact us by mail at Member Services, The Meet Group, Inc. 100 Union Square Drive, New Hope, PA 18938 or by email at support@themeetgroup.com. Alternatively, you may call us toll free at 866-217-8131. Please be advised that we will verify all such requests prior to providing any personal information by requiring you to respond to an email sent to the email you used when making your request. Please be advised that we are only required to respond to two requests per user each year. These reports will be provided free of charge.
     
-*   **Our California Do Not Track Notice.** We do not currently respond or take any action with respect to web browser "do not track" signals or other mechanisms that provide users the ability to exercise choice regarding the collection of personal information about that user's online activities over time and across third-party web sites or online services. We may allow third parties, such as companies that provide us with analytics tools, to collect personal information about your online activities over time and across different apps or web sites when you use our Services.
+*   **Notice of Right to Request Deletion of of Personal Information.** If you are a California resident and a registered user of the Service, you may request the deletion of personal information we have collected from you. To make such a request, please contact us by mail at Member Services, The Meet Group, Inc. 100 Union Square Drive, New Hope, PA 18938 or by email at support@themeetgroup.com. Alternatively, you may call us toll free at 866-217-8131. Please be advised that we will verify all such requests prior to providing any personal information by requiring you to respond to an email sent to the email you used when making your request.
     
-*   **Deletion of Content from California Residents.** If you are a California resident under the age of 18 and a registered user of the Services, California Business and Professions Code Section 22581 permits you to remove content or information you have publicly posted. If you wish to remove such content or information and you specify which content or information you wish to be removed, please contact us at support@themeetgroup.com and we will do so in accordance with applicable law. Please be aware that after removal you will not be able to restore removed content or information. In addition, such removal does not ensure complete or comprehensive removal of the content or information you have posted and there may be circumstances in which the law does not require or allow us to enable removal of the content or information.
+*   **Notice of Right to Opt Out of the “Sale” of Personal Information.** California residents have the right to request that we not sell their personal information to third parties, as those terms are defined by California Civil Code Section 1798.140. In the mobile app, this can be done by clicking on the “Do Not Sell My Info” link on the settings page. On the web, this can be done by clicking the link on the landing page or here. Users must be logged on to use the mobile or web links. Alternatively, you may request that we stop selling your personal information by contacting support@themeetgroup.com.
+    
+    In the past twelve months, we have “sold” the following personal information of users for the purpose of delivering customized advertising to our users: Location, Advertising ID, Gender, Age.
+    
+*   **Nondiscrimination.** We will not discriminate against California residents who exercise their privacy rights.
+    
+*   **Authorized Agent.** California residents may use an authorized agent to make requests on their behalf. We require the authorized agent to provide us with proof of the California resident’s written permission (for example, a power of attorney) that shows the authorized agent has the authority to submit a request for the California resident. In addition to providing this proof, the authorized agent must follow the appropriate process described above to make a request.
+    
+*   **California Shine the Light Law.** Under California’s “Shine the Light” law, California residents who provide Personal Information in obtaining products or services for personal, family, or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information shared, the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year, and descriptions of the likely types of marketing the third parties would send.
+    
+    To obtain this information, please contact us by mail at Member Services, The Meet Group, Inc. 100 Union Square Drive, New Hope, PA 18938 or by email at support@themeetgroup.com with “Request for California Privacy Information” on the subject line and in the body of your message. If you are a California resident, we will provide the requested information to you at your email address in response. Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.
+    
+*   **Our California Do Not Track Notice.** We do not currently respond or take any action with respect to web browser “do not track” signals or other mechanisms that provide users the ability to exercise choice regarding the collection of personal information about that user’s online activities over time and across third-party web sites or online services. We may allow third parties, such as companies that provide us with analytics tools, to collect personal information about your online activities over time and across different apps or web sites when you use our Service.
     
 
-IX. European Economic Area Residents
+IX. Nevada Privacy Rights
+
+We do not sell consumers’ covered information for monetary consideration (as defined in Chapter 603A of the Nevada Revised Statutes). However, if you are a Nevada resident, you have the right to submit a request directing us not to sell your personal information. To submit such a request, please contact us using the contact details in the “Our Contact Information” section below.
+
+X. European Economic Area Residents
 
 If you are a resident of the European Economic Area, you have the following data protection rights:
 
@@ -339,11 +357,11 @@ If you are a resident of the European Economic Area, you have the following data
 
 We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. Notwithstanding the foregoing, we reserve the right to keep any information in our archives that we deem necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
 
-X. Changes to this Privacy Policy
+XI. Changes to this Privacy Policy
 
 We may revise this Privacy Policy from time to time to reflect new or changed features and services, changes in the law, or changes in our use or collection of personal information. We display an effective date on this Privacy Policy so you can tell when there has been a change. If we make a change regarding our use or disclosure of personal information (date of birth, first or last name, physical address, phone number, email address, or location), we will provide a notice when you open our Services. If you object to any terms and conditions of the Privacy Policy or any subsequent changes or you become dissatisfied with our Services or The Meet Group, Inc. in any way, your only option is to delete your account. Your continued use of our Services after we post a revised Privacy Policy means that you agree to the revisions.
 
-XI. Language
+XII. Language
 
 This Privacy Policy was written in English. If you are reading a translation and it conflicts with the English version, please note that the English version controls.
 
@@ -373,6 +391,6 @@ Advertising Partners
 
 Updated as of August 20, 2019
 
-33Across, AdColony, Adview, Amazon, AppLovin, AppNexus, Beachfront Media, Chartboost, Cheetah Mobile, Cox Media, DistrictM, EMX Digital, Exponential, Facebook Audience, Network, Freestar, Fyber, Google, Groundtruth, HyperMX, Index Exchange, InMobi, ironSource, Liftoff, Live Intent, LKQD, MobFox, Mobile Fuse, Mobvista, MoPub, OpenX, PubMatic, PubNative, PulsePoint, RhythmOne, Rubicon, Smaato, Sonobi, Sovrn, StartApp, Streamkey, Sublime Skinz, Taboola, TapJoy, TheoremReach, TripleLift, Unity, Verizon Media Group, Verve, Viant, Vungle, Woobi, YouAppi, Zedo, zPlay
+33Across, AdColony, Adview, Amazon, AppLovin, AppNexus, Beachfront Media, Chartboost, Cheetah Mobile, Cox Media, DistrictM, EMX Digital, Exponential, Facebook Audience Network, Freestar, Fyber, Google, Groundtruth, HyperMX, Index Exchange, InMobi, ironSource, Liftoff, Live Intent, LKQD, MobFox, Mobile Fuse, Mobvista, MoPub, OpenX, PubMatic, PubNative, PulsePoint, RhythmOne, Rubicon, Smaato, Sonobi, Sovrn, StartApp, Streamkey, Sublime Skinz, Taboola, TapJoy, TheoremReach, TripleLift, Unity, Verizon Media Group, Verve, Viant, Vungle, Woobi, YouAppi, Zedo, zPlay
 
 © 2019 Ifwe Inc. Mobile Company Jobs Privacy Terms Safety Support English English Bahasa Melayu Basa Jawa Español - América Latina Español - España Español - México Deutsch Français Italiano Magyar Nederlands Português - Brasil Português Русский Română Türkçe বাংলা 中文 (简体) 中文 (繁軆) हिन्दी 日本語 मराठी ਪੰਜਾਬੀ ไทย <img src="//pixel.quantserve.com/pixel/p-96ZHBHvG56-qg.gif" style="display:none" height="1" width="1" alt="Quantcast"/>. <img src="http://b.scorecardresearch.com/p?c1=2&c2=7198000&c3=&c4=www.tagged.com/terms\_of\_service.html&c5=&c6=&c15=da39a3ee5e6b4b0d3255bfef95601890afd80709&cj=1" />.
