@@ -456,7 +456,7 @@ Do not sell my personal information
 
 Exercise your consumer rights by contacting us at donotsell@oreilly.com
 
-© 2019, O’Reilly Media, Inc. All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
+© 2020, O’Reilly Media, Inc. All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
 
 Terms of Service • Privacy Policy • Editorial Independence
 
