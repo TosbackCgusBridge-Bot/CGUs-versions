@@ -284,7 +284,7 @@ Language Language عربيবাংলাČeštinaDeutschΕλληνικάEnglish
 *   Instagram (@mozilla)
 
 Visit Mozilla Corporation’s not-for-profit parent, the Mozilla Foundation.  
-Portions of this content are ©1998–2019 by individual mozilla.org contributors. Content available under a Creative Commons license.
+Portions of this content are ©1998–2020 by individual mozilla.org contributors. Content available under a Creative Commons license.
 
 *   Privacy
 *   Website Privacy Notice
