@@ -213,17 +213,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Cities get smarter
-    *   Dark Overlord member extradited to the U.S., pleads not guilty plea
-    *   Citrix vulnerability places 80,000 companies at risk
-    *   It’s a trap! Cybercriminals use Star Wars: Rise of Skywalker as bait
-    *   PayPal scam goes after account info, payment card data
+    *   123456 still a popular password
+    *   The time is now for outsourced security services
+    *   Containing the ripple effect of cloud cyberattacks
+    *   California Consumer Privacy Act: Challenge and Opportunity
+    *   School software vendor Active Network suffers data breach
     
     *   2020 Predictions: Cybersecurity Budget
-    *   Rising sea and spam levels? Emotet campaign uses Greta Thunberg as lure
-    *   Identity access management – An auditor’s view
-    *   California Consumer Privacy Act: Challenge and Opportunity
-    *   Consumer data privacy regulation at the federal level: An opportunity for MSPs?
+    *   Cisco ASA and Firepower Appliance seeing increased attacks
+    *   Multiple-malware dropper ‘Legion Loader’ dissected
+    *   UK New Year Honours list mistakenly doxes honorees
+    *   Phishing operation picking on Canadian banks since at least 2017
     
     *   2020 Predictions: Cybersecurity Budget
     *   School software vendor Active Network suffers data breach
