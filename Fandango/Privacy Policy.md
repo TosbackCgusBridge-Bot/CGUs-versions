@@ -496,10 +496,6 @@ Offers
     
     When you purchase 2 or more Kernel Season’s products. SEE DETAILS
     
-*   Get The Gift Of $20 Concession Money
-    
-    When you spend $100+ on Gift Cards. SEE DETAILS
-    
 *   Every 4 Tickets = $5 For You
     
     Buy tickets. Earn points. Get a $5 reward for a movie on us. BUY TICKETS
