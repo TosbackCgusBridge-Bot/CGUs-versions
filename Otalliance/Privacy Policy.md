@@ -140,7 +140,7 @@ The IoT Trust Framework® includes a set of strategic principles necessary to he
 
 Visit our IoT Trust Framework page and download the full version or Framework Overview.
 
-Read the Framework Learn more about IoT Deep Dive: How the News and Media Sector Scores on Security and Privacy Building Trust 19 December 2019 Deep Dive: How the News and Media Sector Scores on Security and Privacy
+Read the Framework Learn more about IoT OTA News Deep Dive: How the News and Media Sector Scores on Security and Privacy Building Trust 19 December 2019 Deep Dive: How the News and Media Sector Scores on Security and Privacy
 
 In April 2019 the Internet Society’s Online Trust Alliance released its 10th annual Online Trust Audit &. Honor Roll....
 
