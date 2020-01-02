@@ -168,4 +168,4 @@ Last update August 15, 2015
 *   Australia
 *   New Zealand
 
-© Copyright 2019 Oodle Holdings, LLC. All rights reserved.
+© Copyright 2020 Oodle Holdings, LLC. All rights reserved.
