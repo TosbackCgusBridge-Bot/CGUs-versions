@@ -132,7 +132,9 @@ INDEMNITY
 
 You agree to indemnify and hold Advameg, Inc., its subsidiaries, affiliates, successors, assigns, owners, directors, officers, employees, agents, service providers, and suppliers harmless from any claim or demand, including reasonable attorney fees and court costs, made by any third party due to or arising out of Content you submit, post or make available through the Service, your use of the Service, your violation of the Terms of Use, your breach of any of the representations and warranties herein, or your violation of any rights of another.
 
-Privacy Policy
+  
+  
+PRIVACY POLICY
 
 The following Privacy Policy summarizes the various ways that Advameg, Inc. (“Service Provider,” “we” or “our”) collects and uses the personally identifiable information garnered through our website, www.city-data.com (“Website”). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
@@ -185,12 +187,11 @@ Personal information does not include:
 *   Publicly available information from government records.
 *   Deidentified or aggregated consumer information.
 *   Information excluded from the CCPA's scope, like: health or medical information covered by the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and the California Confidentiality of Medical Information Act (CMIA) or clinical trial data;
-*   personal information covered by certain sector-specific privacy laws, including the Fair Credit Reporting Act (FRCA), the Gramm-Leach-Bliley Act (GLBA) or
-*   California Financial Information Privacy Act (FIPA), and the Driver's Privacy Protection Act of 1994.
+*   Personal information covered by certain sector-specific privacy laws, including the Fair Credit Reporting Act (FRCA), the Gramm-Leach-Bliley Act (GLBA) or California Financial Information Privacy Act (FIPA), and the Driver's Privacy Protection Act of 1994.
 
 City-data.com compiles various public records, such as sex offender or property assessment information. According to the California Consumer Privacy Act, "Personal information" does not include publicly available information, lawfully made available from federal, state, or local government records.
 
-To exercise the access rights described above, please submit a verifiable consumer request to us by filling out the form at https://www.city-data.com/privacy-form.php?w=usget or by calling us toll-free at (844)346-1463. For requests made by a Forum user, you must provide your full name, your Forum username, and the email that you used during Forum registration. We will verify your request by requiring you to provide a code that we will send to this email address or by asking you to log in into your Forum account and performing a specified task. We will maintain the records of all requests. This includes the date of request, nature of request, manner in which the request was made, the date of the business’s response, the nature of the response, and the basis for the denial of the request if the request is denied in whole or in part.
+To exercise the access rights described above, please submit a verifiable consumer request to us by filling out the form at https://www.city-data.com/privacy-form.php?w=usget or by calling us toll-free at (844)346-1463. For requests made by a Forum user, you must provide your full name, your Forum username, and the email that you used during Forum registration. We will verify your request by requiring you to provide a code that we will send to this email address and/or by asking you to log in into your Forum account and performing a specified task. We will maintain the records of all requests. This includes the date of request, nature of request, manner in which the request was made, the date of our response, the nature of the response, and the basis for the denial of the request if the request is denied in whole or in part.
 
 Deletion Request Rights
 
@@ -208,9 +209,9 @@ We may deny your deletion request if retaining the information is necessary for 
 *   Comply with a legal obligation.
 *   Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
 
-To exercise the deletion rights described above, please submit a verifiable consumer request to us by filling out the form at https://www.city-data.com/privacy-form.php?w=usdel or by calling us toll-free at (844)346-1463. For requests made by a Forum user, you must provide your full name, your Forum username, and the email that you used during Forum registration. We will verify your request by requiring you to provide a code that we will send to this email address or by asking you to log in into your Forum account and performing a specified task. You will need to separately confirm that you want your personal information deleted. We will respond to a request for deletion by de-identifying the personal information through changing the username, scrambling the email address, and replacing the IP address in the database with 1.1.1.1.
+To exercise the deletion rights described above, please submit a verifiable consumer request to us by filling out the form at https://www.city-data.com/privacy-form.php?w=usdel or by calling us toll-free at (844)346-1463. For requests made by a Forum user, you must provide your full name, your Forum username, and the email that you used during Forum registration. We will verify your request by requiring you to provide a code that we will send to this email address and/or by asking you to log in into your Forum account and performing a specified task. You will need to separately confirm that you want your personal information deleted. We will respond to a request for deletion by de-identifying the personal information through changing the username, scrambling the email address, and replacing the IP address in the database with 1.1.1.1.
 
-We will maintain the records of all requests. This includes the date of request, nature of request, manner in which the request was made, the date of the business’s response, the nature of the response, and the basis for the denial of the request if the request is denied in whole or in part.
+We will maintain the records of all requests. This includes the date of request, nature of request, manner in which the request was made, the date of our response, the nature of the response, and the basis for the denial of the request if the request is denied in whole or in part.
 
 SURVEYS AND CONTESTS
 
