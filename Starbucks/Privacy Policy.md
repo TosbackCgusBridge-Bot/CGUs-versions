@@ -1,19 +1,29 @@
-Last Revised: November 29, 2018
+Last Revised: January 01, 2020
 
 This Privacy Statement ("Statement") applies to the website located at starbucks.com, store.starbucks.com, Starbucks mobile applications, and any other websites or applications associated with Starbucks brands or products that direct the viewer or user to this Statement. In this Statement, the terms "Starbucks," "we," and "us" refers to Starbucks Corporation and its respective subsidiaries and affiliated companies. The term “your device" refers to any computer, tablet, smart phone or other device you are using to access our websites or to operate the Starbucks mobile applications. Websites that are owned and operated by Starbucks may contain links to websites that are owned and operated by other companies. This Statement does not apply to websites and services that are owned and operated by third parties.
 
 This Statement went into effect on the date noted at the top of this webpage. We may update this Statement from time to time. If we make material changes, we will post the updated Statement on this page and change the date at the top of this Statement webpage. We encourage you to look for updates and changes to this Statement by checking this date when you access our websites and mobile applications. We will notify you of any modifications to this Statement that might materially affect the way we use or disclose your personal information prior to the change becoming effective by means of a message on this website.
 
 Information We Collect  
+  
 How We Use Your Information  
+  
 How We Share Your Information  
+  
 How We May Allow Others to Collect Your Information  
+  
 Cookies, Web Beacons, and Similar Technologies  
+  
 Your Choices  
+  
 How to Manage Your Account Information  
+  
 Use by Children  
+  
 California Residents  
+  
 Privacy Shield  
+  
 Contact Us
 
 **Information We Collect**
@@ -145,7 +155,7 @@ We do not intend for our websites or online services to be used by anyone under 
 
 **California Residents**
 
-If you are a California resident, you can request a notice disclosing the categories of personal information we have shared with third parties for the third parties’ direct marketing purposes. To request a notice, please submit your request by postal mail to: Starbucks Customer Service, P.O. Box 60650 San Angelo, TX. 76906. We will make every effort to promptly respond to your request.
+To view the California Residents Privacy Statement, click here.
 
 **Privacy Shield**
 
@@ -159,6 +169,7 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 Under certain conditions, more fully described on the Privacy Shield website here: https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
+  
   
 
 **Contact Us**
