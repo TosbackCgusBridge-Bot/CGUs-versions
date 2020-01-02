@@ -58,11 +58,11 @@ MyLife aggregates publicly available information from government, social, and ot
 *   Phone Search
 *   Address Search
 
-Copyright ©2019 MyLife.com®, Inc. | User Agreement | Privacy Policy
+Copyright ©2020 MyLife.com®, Inc. | User Agreement | Privacy Policy
 
 U.S. Patent No. 6,701,348 and 6,694,353
 
-People Search | Contact Us User Agreement | Privacy Policy Copyright ©2019 MyLife.com, Inc.
+People Search | Contact Us User Agreement | Privacy Policy Copyright ©2020 MyLife.com, Inc.
 
 \* The other websites referenced on this site are owned and operated by their respective companies, and the associated trademarks and logos are the property of those companies. Links are provided for reference only and MyLife.com® does not imply any connection or relationship between MyLife.com® and these companies.
 
