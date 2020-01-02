@@ -188,6 +188,6 @@ Stores are responsible for providing bizrate™ with correct and current prices.
 
 Store ratings and product reviews are submitted by online shoppers. they do not reflect our opinions and we have no responsibility for their content.
 
-© 2019 About Bizrate
+© 2020 About Bizrate
 
 <p><img src="http://tracker.blazonco.com/piwik.php?idsite=377" style="border:0;" alt="" /></p>.
