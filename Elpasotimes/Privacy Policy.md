@@ -1,4 +1,4 @@
-SUBSCRIBE NOW$6 for 6 months. Save 90%.
+SUBSCRIBE NOWOnly $29 for one year
 
 *   Home
 *   News
@@ -60,7 +60,7 @@ SUBSCRIBE NOW$6 for 6 months. Save 90%.
 
 Get the news
 
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowEl Paso woman reported missing foundLocalArizona State arrives to warm greeting in El PasoCollegeSeminoles, Sun Devils arrive for Sun Bowl gameNewsDriver allegedly drank 'a lot' before head-on crashCrimeSix arrested in El Paso prostitution stingCrimeWoman with four DWI arrests allegedly asked witness to hide alcoholCrimeJ.P. Morgan deemed affiliate of EPE buyerNewsTeen accused of trying to smuggle drugs at port of entryCrime4 found dead on Christmas Day in Rio RanchoNewsEl Paso's Steven Montez eager for shot at NFLSportsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowFormer Fort Bliss soldier allegedly assaulted jailerCrimePolice officer fires weapon after traffic stopCrimeWoman faces murder charge after crash into homeCrimeHave you seen El Paso's most-wanted fugitives of the week?CrimeDriver dies after hitting tree in SocorroLocalEl Paso's first baby of 2020 born at 12:03 a.m.LocalChick-Fil-A offers free breakfast Jan. 2 and 9EntertainmentEthics complaint alleges Ordaz Perez skirted city policyNewsChaparral man killed in Northeast El Paso accidentTrafficCity rejects ethics complaint against Ordaz PerezNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -104,7 +104,7 @@ LifestyleOpinion
 
 HomesObituariesUSA TODAYPhoto &. VideoBusiness DirectoryPublic NoticesCorrections
 
-© 2019 elpasotimes.com, All rights reserved.
+© 2020 elpasotimes.com, All rights reserved.
 
 Services
 
@@ -176,7 +176,7 @@ LifestyleOpinion
 
 HomesObituariesUSA TODAYPhoto &. VideoBusiness DirectoryPublic NoticesCorrections
 
-© 2019 elpasotimes.com, All rights reserved.
+© 2020 elpasotimes.com, All rights reserved.
 
 Services
 
