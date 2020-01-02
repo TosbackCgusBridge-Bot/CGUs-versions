@@ -30,16 +30,16 @@ View more results
     Best Games
     *   Fireboy and Watergirl: The Forest Temple
     *   Fireboy &. Watergirl 4: Crystal Temple
-    *   Airport Clash 3D
     *   Fireboy and Watergirl 5: Elements
     *   Ono Card Game
-    *   Slotomania
-    *   Fireboy &. Watergirl 2: The Light Temple
-    *   Fireboy &. Watergirl 3: The Ice Temple
-    *   Subway Clash 3D Remastered
-    *   Bad Ice Cream 2: 2 Player Game
     *   Slippery Water Slides: Aquapark.io
-    *   Slither.io
+    *   Subway Clash 3D Remastered
+    *   Stickman Fighter: Epic Battle
+    *   Slotomania
+    *   Crowd City
+    *   Fireboy &. Watergirl 3: The Ice Temple
+    *   Happy Snakes
+    *   Fireboy &. Watergirl 2: The Light Temple
 *   Action
     
     Top Categories
@@ -62,18 +62,18 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Airport Clash 3D
-    *   Snail Bob 8
-    *   Run Panda Run
     *   Kingdom Tower Defense
+    *   Snail Bob 8
     *   Bomb it 7
-    *   Vex 3: Stickman Game
-    *   Sniper Reloaded
-    *   Whack Your Soulmate
-    *   Uphill Rush 5
-    *   Deer Hunter
+    *   Henry Stickman Stealing The Diamond
+    *   Bomb It 4
+    *   Apple Shooter: Arrow Game
     *   Short Life
+    *   Save the Cowboy
     *   SuperHOT
+    *   Papa's Taco Mia
+    *   Tank Trouble 2
+    *   Papa's Burgeria
 *   Adventure
     
     Top Categories
@@ -97,17 +97,17 @@ View more results
     
     Best Games
     *   World Craft 2
-    *   Chrome Dino
     *   Bob the Robber 4: Season 2 Russia
+    *   Chrome Dino
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   The Last Survivors: 2 Player Zombie Game
-    *   World Crafts
     *   Mine Clone 4
-    *   Bob The Robber 3
-    *   Vex 4
-    *   Troll Face Quest: Video Games 2
     *   Rio Rex
+    *   Bob the Robber 5: Temple Adventure
+    *   Vex 4
+    *   Adam and Eve 6
     *   Fireboy and Watergirl 5: Elements
+    *   Dog Simulator: Puppy Craft
 *   Puzzle
     
     Top Categories
@@ -132,16 +132,16 @@ View more results
     Best Games
     *   MahJongCon
     *   Bubble Shooter
-    *   Operate Now Hospital Surgeon
-    *   Forest Mania Match 3
     *   Operate Now: Stomach Surgery
-    *   Money Movers
     *   Butterfly Kyodai Classic
-    *   Love Balls 2
     *   Troll Face Quest: Horror 2
-    *   Land of Wonders
     *   1001 Arabian Nights
-    *   Troll Face Quest: Video Memes and TV Shows:Part 1
+    *   Money Movers
+    *   Logo quiz
+    *   Hotel Professionals
+    *   Jewel Jungle
+    *   TenTrix
+    *   Murder on a Full Moon: Detective Game
 *   Girls
     
     Top Categories
@@ -164,18 +164,18 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   3D Color by Number
-    *   Goldie Princess: Skin Doctor
+    *   My Cool Rain Boots
     *   Fashion Designer Gala
-    *   Extreme Makeover
-    *   My Fresh Start Makeover
-    *   Floral Real Life Manicure
     *   Pizza Party: Restaurant Game
-    *   Hand Skin Doctor
-    *   Pink Apartment Makeover
+    *   Goldie Princess: Skin Doctor
     *   Fashionistas: Boho vs Grunge
-    *   Casual Weekend Fashionistas: Fashion Game
-    *   Princesses at a Masquerade: Dress Up Game
+    *   Floral Real Life Manicure
+    *   Ice Queen Fashion Day
+    *   Hand Skin Doctor
+    *   3D Color by Number
+    *   Extreme Makeover
+    *   Ladybird: Secret Identity Revealed
+    *   Pink Apartment Makeover
 *   Racing
     
     Top Categories
@@ -202,14 +202,14 @@ View more results
     *   Hill Racing Challenge
     *   Super Speed Racer
     *   Cars 3D
-    *   Solid Rider: Dirt Bike Game
-    *   Thug Racer
     *   Moto X3m 2
-    *   Formula Racer
+    *   Car Challenger: 3D Racing Game
     *   Neon Biker
-    *   Happy Wheels
     *   Monster Truck Demolisher
-    *   Off-Roader V6
+    *   Happy Wheels
+    *   ATV Quad Racing
+    *   Scrap Metal 3: Infernal Trap - Driving Game 3D
+    *   NY Cab Drive
 *   Sports
     
     Top Categories
@@ -232,15 +232,15 @@ View more results
     
     Best Games
     *   Penalty Shooters 2: Football Game
-    *   Penthouse Pool
     *   Stunt Skateboard 3D
+    *   Penthouse Pool
     *   Archery World Tour
     *   3D Penalty
+    *   India vs England Cricket
     *   Mini Golf World
-    *   1 On 1 Soccer: Classic
+    *   Billiard Blitz 2: Pool Table Game
     *   Ultimate Boxing
     *   Basketball.io
-    *   Soccer Physics
     *   Skeet Challenge
     *   Football Legends 2016
 *   More
