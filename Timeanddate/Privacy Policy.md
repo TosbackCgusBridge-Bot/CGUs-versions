@@ -1,4 +1,4 @@
-2020 Menutimeanddate.comSearch ×Site / ArticlesCity / CountrySocial ×Share this page / Follow us on:FacebookTweetFollowTwitterVisit us on:FacebookTwitter
+Menutimeanddate.comSearch ×Site / ArticlesCity / CountrySocial ×Share this page / Follow us on:FacebookTweetFollowTwitterVisit us on:FacebookTwitter
 
 *   BackMy account
     *   My Location
@@ -34,8 +34,8 @@
     *   Time Zone Articles
 *   BackCalendar
     *   Calendar Info
-    *   Calendar 2019
     *   Calendar 2020
+    *   Calendar 2021
     *   Monthly Calendar
     *   Printable Calendar (PDF)
     *   Add Your Own Calendar Events
@@ -66,10 +66,7 @@
     *   Stopwatch
     *   Timer
     *   Countdown to Any Date
-    *   Christmas Countdown
     *   New Year Countdown
-    *   New Year Countdown World Map
-    *   New Year Trivia
 *   BackCalculators
     *   Date to Date Calculator (duration)
     *   Business Date to Date (exclude holidays)
@@ -271,6 +268,6 @@ Cookies
 8.  Enabling Cookies in Safari, Lynx, and More
 9.  What Cookies We Use, and Why
 
-Copyright © Time and Date AS 1995–2019. All rights reserved.
+Copyright © Time and Date AS 1995–2020. All rights reserved.
 
 Feedback | Short URL | <a id=LRFL href="/information/feedback.html">Feedback</a>. | About Us | Advertising | Disclaimer | Privacy | Sitemap
