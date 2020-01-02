@@ -86,7 +86,7 @@ Close Navigation Menu
 
 May 7, 20139:51 AM ET NPR Online Privacy Policy Highlights
 
-**Note:** The NPR Online Privacy Policy ("Privacy Policy") has been updated with an effective date of October 29, 2018. Please review the updated Privacy Policy carefully before using the NPR Services. By using any of the NPR Services, you consent to the terms of the updated Privacy Policy. This section highlights important features of the Privacy Policy. Please scroll down to see the full Privacy Policy or click on "Read more" to learn more about a specific area.
+**Note:** The NPR Online Privacy Policy ("Privacy Policy") has been updated with an effective date of January 1, 2020. Please review the updated Privacy Policy carefully before using the NPR Services. By using any of the NPR Services, you consent to the terms of the updated Privacy Policy. This section highlights important features of the Privacy Policy. Please scroll down to see the full Privacy Policy or click on "Read more" to learn more about a specific area.
 
 **Scope of Privacy Policy**
 
@@ -123,7 +123,7 @@ Read More in the Full Privacy Policy ↓
 
 **Information Collected Automatically Through Technology**
 
-As you navigate our Services, we and our service providers also automatically collect a variety of information about your interactions with our Services. Depending on which NPR Services you use and how you access them, the information collected automatically may include:
+As you navigate our Services, we, our service providers, and our vendors also automatically collect a variety of information about your interactions with our Services. Depending on which NPR Services you use and how you access them, the information collected automatically may include:
 
 *   The Internet Protocol address (IP address) of the computer or device you used to access an NPR Service and information about your Internet Service Provider.
 *   The website, application, platform or service you visited before and after visiting an NPR Service.
@@ -134,19 +134,21 @@ As you navigate our Services, we and our service providers also automatically co
 *   The dates, times, duration and frequency of your interactions with our Services, any search terms you enter, the media files you listen to, download, view, email, text or otherwise share, favorites you select, and your navigation path through our Services.
 *   Listening data, including information about your interactions with NPR podcasts and other media files.
 *   Information about your interactions with our email messages.
-*   If you do not consent to the automatic collection, use or sharing of this type of information in the manner described in the Privacy Policy, please do not use the NPR Services. By using the NPR Services, you are "opting in" to the automatic collection, use and sharing of this information in accordance with the Privacy Policy.
+*   Analytics information to understand our users, for our internal purposes, and to customize the Services, content and sponsorship credits you receive.
+
+If you do not consent to the automatic collection, use or sharing of this type of information in the manner described in the Privacy Policy, please do not use the NPR Services. By using the NPR Services, you are "opting in" to the automatic collection, use and sharing of this information in accordance with the Privacy Policy.
 
 Read More in the Full Privacy Policy ↓
 
 **Use of Information**
 
-We and our service providers may use the information collected from you (whether provided by you directly or automatically collected through technology) to:
+We, our service providers, and our vendors may use the information collected from you (whether provided by you directly or automatically collected through technology) to:
 
 *   Manage, administer, promote, analyze and improve our Services.
 *   Respond to your questions or messages and fulfill your orders or requests for services.
 *   Customize the content you see and hear on our Services, including offering content from NPR Member stations associated with your account or located near you and offering other content that may be of interest to you.
 *   Customize the sponsorship credits you see and hear on our Services and on third-party services you may use or visit.
-*   Recognize you as the same user as you access our Services using different computers, devices and browsers.
+*   Recognize you as the same user as you access our Services, content and sponsorship credits using different computers, devices and browsers, and to deliver our Services, content and sponsorship credits to you on different computers, devices and browsers.
 *   Send you email newsletters and marketing, fundraising, membership and other communications from NPR and our Member stations.
 *   Publish, broadcast or otherwise use stories or information you submit to us.
 *   Comply with laws and enforce NPR's Terms of Use and other legal rights.
@@ -193,7 +195,7 @@ Read More in the Full Privacy Policy ↓
 
 **Notice to Users Outside the U.S.**
 
-Our Services are controlled and operated within the United States. If you access our Services outside of the United States, we may transfer the information collected from you to data centers outside of your home country or jurisdiction. In particular, your information may be transferred to and processed in the United States and other jurisdictions where we or our service providers operate, where data protection and other laws may not be equivalent to those in your jurisdiction. By using the NPR Services, you agree that your information can be transferred to and used in the United States and in other jurisdictions where we or our service providers operate, as set forth in the Privacy Policy.
+Our Services are controlled and operated within the United States. If you access our Services outside of the United States, we may transfer the information collected from you to data centers outside of your home country or jurisdiction. In particular, your information may be transferred to and processed in the United States and other jurisdictions where we, our service providers, or our vendors operate, where data protection and other laws may not be equivalent to those in your jurisdiction. By using the NPR Services, you agree that your information can be transferred to and used in the United States and in other jurisdictions where we, our service providers, or our vendors operate, as set forth in the Privacy Policy.
 
 NOTICE TO EU RESIDENTS: Our handling of information about EU residents is governed by the NPR Privacy Notice for EU Residents, effective May 25, 2018. This Privacy Policy does not apply to EU residents.
 
@@ -205,7 +207,7 @@ California residents can request and obtain from us once a year and free of char
 
 Full Version of NPR Online Privacy Policy
 
-**Effective Date October 29, 2018**
+**Effective Date January 1, 2020**
 
 Welcome to the NPR Online Privacy Policy ("Privacy Policy"). This Privacy Policy describes the information National Public Radio, Inc. and its affiliated organizations (owned or controlled by, or under common ownership or control with, National Public Radio, Inc.) (collectively, "NPR," "we" or "us") collect or allow others to collect from you and your computer or device when you use NPR.org or other sites, NPR One or other applications, email newsletters, digital platforms or other interactive services provided by NPR that link to or refer to this Privacy Policy (collectively, the "NPR Services" or "our Services"). This Privacy Policy also explains how that information may be used and shared and the choices you have to limit or prevent certain uses or sharing of that information. Please note that this Privacy Policy does not govern the websites and services of NPR's Member stations, or the websites and services of third parties that may link to or be linked to from the NPR Services.
 
@@ -240,7 +242,7 @@ We also may ask you to provide other information about yourself for various othe
 
 _Information Automatically Collected Through Technology_
 
-We and service providers working on our behalf automatically collect certain information about your computer or device and your interactions with our Services through access logs, cookies, pixel tags and other tracking technologies. Depending on which NPR Services you use and how you access them, the information collected automatically may include:
+We, our service providers, and our vendors working on our behalf automatically collect certain information about your computer or device and your interactions with our Services through access logs, cookies, pixel tags and other tracking technologies. Depending on which NPR Services you use and how you access them, the information collected automatically may include:
 
 *   The Internet Protocol address (IP address) of the computer or device you used to access the NPR Services or play podcasts or other media content downloaded through our Services.
 *   The domain name of your Internet Service Provider.
@@ -257,15 +259,13 @@ We and service providers working on our behalf automatically collect certain inf
 *   Information about your interactions with our email messages, such as links you click on and whether you open or forward a message, the date and time of these interactions, and information about the computer or device you use to read emails.
 *   Any errors you encountered during your use of our Services.
 
-Further information about our use of cookies, pixel tags and other tracking technologies can be found here and in the section that follows.
+Our Services also make use of third-party analytics, cookie data collection and linking services (collectively "Analytics Services"), including Google Universal Analytics, Google Analytics Demographics and Interest Reporting, Remarketing with Google Analytics, and Google Ad Manager. These Analytics Services may use cookies, pixel tags, and other tracking and storage technologies to collect or receive information (not including your name or the email address you register with NPR) from our Services and elsewhere on the Internet and use that information to analyze and measure our audience and target and evaluate the effectiveness of sponsorship credits. For example, NPR and Analytics Services may use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the Remarketing with Google Analytics and DoubleClick cookies) together to inform, optimize, and serve sponsorship credits based on your past interactions with our Services and other websites or services. In addition, we may use analytics data, including but not limited to, geographic, demographic, and interest reporting information to recognize and understand user preferences, make improvements, and for other operational purposes. An Analytics Service's ability to use and share analytics information is covered by that service's terms of use and privacy policy. To learn more about how Google uses data, visit www.google.com/policies/privacy/partners/.
 
-**Analytics Data Collection**
-
-Our Services also make use of third-party analytics, cookie data collection and linking services (collectively "Analytics Services"), including Google Universal Analytics, Google Analytics Demographics and Interest Reporting, Remarketing with Google Analytics, and DoubleClick for Publishers. These Analytics Services may use cookies, pixel tags, and other tracking and storage technologies to collect or receive information (not including your name or the email address you register with NPR) from our Services and elsewhere on the Internet and use that information to analyze and measure our audience and target and evaluate the effectiveness of sponsorship credits. For example, NPR and Analytics Services may use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the Remarketing with Google Analytics and DoubleClick cookies) together to inform, optimize, and serve sponsorship credits based on your past interactions with our Services and other websites or services. In addition, we may use analytics data, including but not limited to, geographic, demographic, and interest reporting information to recognize and understand user preferences, make improvements, and for other operational purposes. Each Analytics Service's ability to use and share analytics information is restricted by such Analytics Service's terms of use and privacy policy. To learn more about how Google uses data, visit www.google.com/policies/privacy/partners/. Information about opting out of Google Universal Analytics is included in the "Your Choices" section below. For a full list of Analytics Services, please contact us.
+Further information about our use of cookies, pixel tags and other tracking technologies can be found here and in "Your Choices" section below.
 
 **How We Use the Information We Collect**
 
-We and service providers working on our behalf collect and use information to provide you with a customized interactive experience and to make our Services more valuable to you. We also may use the information we collect for fundraising purposes to support our Member stations and public media mission. NPR and service providers working on our behalf also may use the information collected through our Services:
+We and service providers and vendors working on our behalf collect and use information to provide you with a customized interactive experience and to make our Services more valuable to you. We also may use the information we collect for fundraising purposes to support our Member stations and public media mission. NPR and service providers and vendors working on our behalf also may use the information collected through our Services:
 
 *   To manage, administer and improve the NPR Services.
 *   To respond to your questions or messages.
@@ -277,15 +277,15 @@ We and service providers working on our behalf collect and use information to pr
 *   To process applications for volunteers for our NPR Ambassador program.
 *   To manage contests you enter.
 *   To contact you for an online survey, or for other editorial purposes.
-*   To recognize you as the same user when you access our Services using different computers, devices and browsers.
+*   To recognize you as the same user when you access our Services, content and sponsorship credits using different computers, devices and browsers, and to deliver our Services, content and sponsorship credits to you on different computers, devices and browsers .
 *   To save and "remember" your registration information, settings and preferences so you do not have to re-enter this information each time you visit.
 *   With your consent where required by applicable law, to send you NPR email newsletters and other communications, including marketing, fundraising, membership and other messages from NPR or our Member stations.
 *   To understand whether and when you read our email messages and click on links in those messages.
-*   To control the sequence and frequency of sponsorship credits you hear and see and tailor the content of those messages to your perceived interests.
+*   To control the sequence and frequency of sponsorship credits you hear and see, control the platform on which you hear and see sponsorship credits, and tailor the content of those messages to your perceived interests .
 *   To conduct market or audience analysis and related reporting.
 *   To help us measure and analyze user traffic and usage patterns and improve the quality and effectiveness of our content, features, sponsorship credits, and other communications.
 *   To prevent potentially prohibited or illegal activities, comply with applicable laws, and enforce our Terms of Use or other legal rights.
-*   To generate aggregate or other information that does not directly identify you as an individual or the devices you use to access our Services, and use and share that information for NPR's purposes.
+*   To generate aggregate or other information that is not reasonably linkable to you or the devices you use to access our Services, and use and share that information for NPR's purposes.
 *   In other ways and for other purposes that are described to you at the time we collect the information or for which we otherwise have your consent.
 
 **How We Disclose Information**
@@ -296,7 +296,7 @@ NPR is committed to maintaining your trust. We want you to understand when and w
 
 **_Member stations._** NPR may share your name, email address, other contact information, and information about your listening activity, donations and interests with the Member stations that are associated with your account or that are local to you. When we do so, we require those Member stations to commit to the same policies regarding further sharing with third parties that we follow under this Privacy Policy. If you do not want us to share your name, contact information, or other information, including information about your donations to NPR, with Member stations, you can contact us any time. However, if you choose to donate to an NPR Member station through our Services, your information may be collected directly by that Member station. In that case, the collection of your information is subject to that Member station's privacy policy.
 
-**_Authorized service providers._** We may share any information we collect with service providers who provide us with specialized services or otherwise help us operate our Services including, without limitation, service providers that provide customer support, email deployment, account sign-in services, payment processing, order fulfillment, analytics, marketing, suppression list management, contest management and data processing services. Our service providers include the service providers' subcontractors that provide specialized services to us or otherwise help us operate our Services. If you wish to make a payment or receive a refund through our Services, your information will be collected and controlled by the payment processor and not by us and will be subject to that payment service provider's privacy policy and practices.
+**_Authorized service providers and vendors._** We may share any information we collect with service providers or vendors who provide us with specialized services or otherwise help us operate our Services including, without limitation, service providers or vendors that provide customer support, email deployment, account sign-in services, payment processing, order fulfillment, analytics, marketing, suppression list management, contest management and data processing services. Subject to applicable law and your opt-out choices described below, and as we deem appropriate, we may share with vendors or allow them to collect directly information about your devices and your use of our Services. We will not share your name or contact information with these vendors. These vendors may use such information pursuant to their own respective privacy policies, which we do not control. For example, we may share or authorize the collection of such information by vendors that help us analyze and improve our Services or tailor sponsorship credits to your interests. Our service providers and vendors include the service providers' or vendors' subcontractors that provide specialized services to us or otherwise help us operate our Services. If you wish to make a payment or receive a refund through our Services, your information will be collected and controlled by the payment processor and not by us and will be subject to that payment service provider's privacy policy and practices.
 
 **_Authorized third-party applications._** We may share with authorized third-party applications information that you provide directly through our Services and information collected automatically through technology for the purpose of providing certain NPR Services to you on the applications. In such cases, the information that we share may include your name, favorite stations, and listening activity. NPR prohibits the third-party developers of those applications from accessing, storing or sharing any such non-public information. However, please be aware that your use of the third-party application is otherwise subject to the third-party application's privacy policy, which we do not control and which may differ significantly from ours. NPR is not responsible for the privacy practices of any third-party application and we recommend that you familiarize yourself with the privacy policies of any third-party sites, applications, platforms, and services that you visit or access.
 
@@ -314,7 +314,7 @@ NPR is committed to maintaining your trust. We want you to understand when and w
 
 **_Bitly._** NPR uses a service called Bitly to create shortened uniform resource locators ("URLs" – the "addresses" of individual web pages) for our content so that it can be shared easily, particularly through social media. Bitly collects information as our shortened URLs are shared and clicked on, including IP addresses, general location information, the time and day each shortened URL is accessed, and the social media or other channels through which our content is shared. If you have established a separate account with Bitly, Bitly may associate the foregoing information with personal information it has stored in your Bitly account in accordance with Bitly's own privacy policy. To share our content without using Bitly, copy the full URL of the story you want to share from your browser and paste it into your email, text or social media message.
 
-**_Aggregated and anonymous information._** Subject to applicable law and your opt-out choices described below, and as we deem appropriate, we may share with third parties or allow them to collect directly any aggregated or other information that does not directly identify you as an individual. Such information may be used and combined with other information collected by the receiving parties pursuant to their own respective privacy policies, which we don't control. For example, we may share or authorize the collection of such information by service providers that help us analyze and improve our Services, provide us and other digital media organizations with ratings and ranking data, help us to create personalized content, or tailor sponsorship credits to your interests. We may also share or authorize the collection of such information by sponsors or their agencies to help them measure the impact of their sponsorship campaigns.
+**_Aggregated and anonymous information._** Subject to applicable law and your opt-out choices described below, and as we deem appropriate, we may share with third parties or allow them to collect directly aggregated or other information that is not reasonably linkable to you or your device. These third parties may use such information pursuant to their own respective privacy policies, which we do not control. For example, we may share or authorize the collection of such information by our service providers or our vendors that help us analyze and improve our Services, provide us and other digital media organizations with ratings and ranking data, or help us to create personalized content. We may also share or authorize the collection of such information by sponsors or their agencies to help them measure the impact of their sponsorship campaigns.
 
 **Your Choices**
 
@@ -330,9 +330,13 @@ You have the following choices to update, correct and limit the collection and u
 
 **_Google Analytics._** To prevent data from being collected by Google Universal Analytics, use the opt-out browser add-on developed by Google for this purpose available here.
 
-**_Interest-based messages._** To opt out of receiving personalized or "interest-based" online sponsorship credits from our service providers and other participating companies, visit http://www.aboutads.info/choices. For information about controlling the collection of cross-app data from your mobile device for personalized or "interest-based" advertising or sponsorship credit purposes, visit http://youradchoices.com/appchoices. UK users, other European Economic Area (EEA) users and Swiss users can learn more and access opt-out tools from http://www.youronlinechoices.eu/. You also may adjust the settings on your device. For iOS mobile devices, go to "Settings" from your device's home screen, scroll down to "Privacy", select "Advertising", and turn on "Limit Ad Tracking." For Android mobile devices, go to "Google Settings" on your device, select "Ads". and check the box labeled "Opt Out of Interest-Based Ads" or "Opt Out of Ads Personalization." (These device settings options may change in the future or otherwise may differ for certain devices. consult your device manufacturer's support literature for the most current information).
+**_Interest-based sponsorship credits._** To opt out of receiving personalized or "interest-based" online sponsorship credits from our service providers, our vendors and other participating companies, visit https://optout.aboutads.info. For information about controlling the collection of cross-app data from your mobile device for personalized or "interest-based" advertising or sponsorship credit purposes, visit http://youradchoices.com/appchoices. UK users, other European Economic Area (EEA) users and Swiss users can learn more and access opt-out tools from http://www.youronlinechoices.eu/. Google also offers opt-out features to limit the use of your information for interest-based sponsorship credits at https://adssettings.google.com/.
 
-Note that if you opt out, you may still receive the same number of sponsorship credits as before but they may not be as relevant to your interests. Opting out of third-party interest-based sponsorship credits is a cookie-based process and will only affect the specific computer, device, and browser on which your opt-out choice is applied. If you subsequently delete your browser cookies, you will need to opt out again. For more information about opting out of interest-based messages, visit www.aboutads.info/choices.
+You also may adjust the settings on your device. For iOS mobile devices, go to "Settings" from your device's home screen, scroll down to "Privacy", select "Advertising", and turn on "Limit Ad Tracking." For Android mobile devices, go to "Google Settings" on your device, select "Ads". and check the box labeled "Opt Out of Interest-Based Ads" or "Opt Out of Ads Personalization." (These device settings options may change in the future or otherwise may differ for certain devices. consult your device manufacturer's support literature for the most current information).
+
+You can block NPR.org and our other sites from setting cookies used for interest-based sponsorship credits by using browsers or browser plugins with privacy features.
+
+Note that if you opt out, you may still receive the same number of sponsorship credits as before but they may not be as relevant to your interests. Opting out of third-party interest-based sponsorship credits is a cookie-based process and will only affect the specific computer, device, and browser on which your opt-out choice is applied. If you subsequently delete your browser cookies, you will need to opt out again. For more information about opting out of interest-based messages, visit https://youradchoices.com/control .
 
 **_Precise location information_** **.** If you consent to our collection of your precise device location through an NPR mobile application, you can withdraw your consent at any time and prevent the further collection of your precise location by accessing the privacy settings of your mobile device and/or the settings of the NPR mobile application.
 
@@ -360,13 +364,28 @@ NPR reserves the right to change this Privacy Policy at any time. Any changes wi
 
 **Users Outside the U.S.**
 
-Our Services are controlled and operated within the United States. Any information we collect may be transferred to, and processed, stored, and accessed by, us and our service providers in the United States and in other jurisdictions where we or our service providers operate. These jurisdictions may have data privacy laws that may not be as protective as those of your home jurisdiction, and courts and other authorities may, in certain circumstances, be entitled to access information about you subject to such data privacy laws. By using the NPR Services, you agree to this transfer, processing, storage, and access of your information as described in this Privacy Policy.
+Our Services are controlled and operated within the United States. Any information we collect may be transferred to, and processed, stored, and accessed by, us, our service providers, and our vendors in the United States and in other jurisdictions where we, our service providers, or our vendors operate. These jurisdictions may have data privacy laws that may not be as protective as those of your home jurisdiction, and courts and other authorities may, in certain circumstances, be entitled to access information about you subject to such data privacy laws. By using the NPR Services, you agree to this transfer, processing, storage, and access of your information as described in this Privacy Policy.
 
 NOTICE TO EU RESIDENTS: Our handling of information about EU residents is governed by the NPR Privacy Notice for EU Residents, effective May 25, 2018. This Privacy Policy does not apply to EU residents.
 
-**For California Residents – Your California Privacy Rights**
+NOTICE TO CALIFORNIA RESIDENTS:
 
-California residents can request and obtain from us once a year and free of charge a list of all third parties to which NPR has disclosed certain information during the preceding calendar year for the third parties' direct marketing purposes. If you are a California resident and want such a list, please contact us. For all requests, you must put the statement "Your California Privacy Rights" in the message field of your request, as well as your name, street address, city, state, and zip code. Please note that we will not accept these requests by telephone, mail or fax, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+In this notice, NPR is providing additional information and choices to California residents. We are providing this information voluntarily. The law that requires additional notice – the California Consumer Privacy Act of 2018 ("**CCPA**") – does not apply to non-profit entities like NPR.
+
+**Personal Information that We Collect, Use and Share**
+
+The chart below describes how we currently collect, use and share personal information, and how we have collected used and shared the information in the preceding 12 months. Information you voluntarily provide to us, such as when you contact us, may contain other categories of personal information not described below.
+
+Personal information we collect CCPA categories (Definitions are available here)\* Sources from which we may collect the personal Information Purposes for which we may collect and use the personal  
+information Categories of third parties, to which we may  
+disclose the personal information (in addition to our service providers)\*\* -Name  
+\-Contact Information -Identifiers -You -Service delivery  
+\-Research &. development  
+\-Marketing  
+\-Compliance &. Operations -Member stations  
+\-Authorized third-party applications (but not the  
+application developers) -Payment Data -Financial Information -You -Service delivery,  
+\-Compliance &. Operations -None
 
 *   **Facebook**
 *   **Twitter**
