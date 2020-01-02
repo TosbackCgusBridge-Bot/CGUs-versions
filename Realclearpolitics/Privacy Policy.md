@@ -252,37 +252,37 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   2020 Democratic Presidential NominationMorning Consult
-    *   Biden32
-    *   Sanders21
-    *   Warren14
+*   2020 Democratic Presidential NominationEconomist/YouGov
+    *   Biden29
+    *   Sanders19
+    *   Warren18
     *   Buttigieg8
-    *   Bloomberg6
-    *   Klobuchar3
-    *   Yang4
-    *   Booker3
-    *   Gabbard1
-    *   Steyer3
+    *   Bloomberg3
+    *   Klobuchar4
+    *   Yang3
+    *   Booker2
+    *   Gabbard3
+    *   Steyer2
     *   Castro1
-    *   Delaney1
-    *   Bennet1Biden +11
-*   Florida: Trump vs. BidenMason-Dixon
-    *   Biden47
-    *   Trump45Biden +2
-*   Florida: Trump vs. SandersMason-Dixon
-    *   Trump49
-    *   Sanders44Trump +5
-*   Florida: Trump vs. WarrenMason-Dixon
-    *   Trump51
-    *   Warren42Trump +9
+    *   Delaney0
+    *   Bennet0Biden +10
+*   President Trump Job ApprovalEconomist/YouGov
+    *   Approve44
+    *   Disapprove53Disapprove +9
+*   2020 Generic Congressional VoteEconomist/YouGov
+    *   Democrats50
+    *   Republicans40Democrats +10
+*   Congressional Job ApprovalEconomist/YouGov
+    *   Approve17
+    *   Disapprove60Disapprove +43
 
 More Latest Polls In The News
 
+*   Chuck Todd: Trump Facing An "Uphill Battle," Reelection Depends On People Overlooking His Character
 *   Collins: "Inappropriate" For McConnell, Warren To "Prejudge" Impeachment Trial. Open To Witnesses
 *   Dem Rep. Raskin: Dems "Must Be Open To Any Exculpatory Evidence," Evidence That Contradicts The House
+*   DiGenova: Comey and Brennan Were "Coup Leaders," People Should Go To Jail For Lying To FISA Courts
 *   Biden Open To GOP Running Mate: "Can't Think Of One Right Now". "Democracy Depends Upon Consensus"
-*   Greenblatt: You Can't Read The Headlines Without Seeing Anti-Semitic Slander And Conspiracy Theories
-*   Cruz: Impeachment Charges Against Trump Are "Laughable," Don't Meet Constitutional Threshold
 
 *   Politics
 *   Policy
