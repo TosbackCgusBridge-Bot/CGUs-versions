@@ -406,7 +406,7 @@ Legal
 *   Wolfram Blog
 *   Newsletter
 
-© 2019 Wolfram. All rights reserved.
+© 2020 Wolfram. All rights reserved.
 
 *   Legal &. Privacy Policy
 *   Site Map
