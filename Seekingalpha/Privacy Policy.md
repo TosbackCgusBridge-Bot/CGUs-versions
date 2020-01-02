@@ -118,13 +118,13 @@ Help &. Support
 
 Privacy
 
-Thank you for visiting https://seekingalpha.com (together with all other websites and services operated by or on behalf of Seeking Alpha, Ltd., the "Site"). Your privacy is important to us. To better protect your privacy, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used at the Site. This Privacy Policy forms part of the Terms of Use.
+Thank you for visiting https://seekingalpha.com (together with all other websites and services operated by or on behalf of Seeking Alpha Ltd., the "Site"). Your privacy is important to us. To better protect your privacy, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used at the Site. This Privacy Policy forms part of the Terms of Use.
 
 Capitalized terms not defined herein shall have the meanings ascribed to them in the Terms of Use.
 
 1\. Introduction
 
-We are committed to respecting your online privacy, and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
+We are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
 
 If you are a registered user, you will have your own Seeking Alpha email account ("Seeking Alpha Email Account"). By using your Seeking Alpha Email Account, you may send messages to and receive messages from other registered users and contributors. You are strictly prohibited from sending unsolicited or unauthorized advertisements, spam, chain letters, etc. Any information that you send within such a message is visible only to the message recipients. Please note that some actions you take, such as replying to a topic, posting comments, etc. may subscribe you automatically to getting notifications to your Seeking Alpha email account. Please further note that some notifications, such as a notification for receiving a private message to your Seeking Alpha email account, may be enabled by default.
 
@@ -293,13 +293,17 @@ _We use IP addresses for security and anti-fraud purposes including to identify 
 
 Amazon Web Services Inc.
 
+In order to comply with information requests which we periodically receive from legal authorities, we currently maintain an unlimited retention period. 
+
+For inquiries with regard to your personal information, you may contact us via our dedicated email box: privacy@seekingalpha.com or via the messaging function directly on our site https://seekingalpha.com/page/privacy-request.
+
 Seeking Alpha strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, Seeking Alpha intends to adhere to the principles set forth in this Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained. Finally, we may disclose your Personal Information or any information you submitted via the Site and its services (including via your Seeking Alpha email account) if we have a good faith belief that disclosure of such information is helpful or reasonably necessary to i) comply with any applicable law, regulation, legal process or governmental request, ii) enforce our Terms of Service including investigations of potential violations thereof, iii) detect, prevent, or otherwise address fraud or security issues, or iv) protect against harm to the rights, property or safety of Seeking Alpha, its users, yourself or the public.
 
 2\. Cookies and Other Tracking Technologies
 
 **Web Cookies**
 
-A “Web Cookie” is a string of information that a website stores on a user’s computer, and that the user’s browser provides to the website each time the user submits a query to the site. We use Web Cookies to track the pages that users visit during each Site session, both to help us improve users’ experiences and to help us understand how the Site is being used. As with other non-Personal Information gathered from users of the Site, we analyze and disclose in aggregated form information gathered using Web Cookies, so as to help us, our partners and others better understand how the Site is being used. We do not attempt to link information gathered using Web Cookies to Personal Information. USERS WHO DO NOT WISH TO HAVE WEB COOKIES PLACED ON THEIR COMPUTERS SHOULD SET THEIR BROWSERS TO REFUSE WEB COOKIES BEFORE ACCESSING THE SITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THE SITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF WEB COOKIES. USERS WHO REFUSE WEB COOKIES ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY.
+A “Web Cookie” is a string of information that a website stores on a user’s computer, and that the user’s browser provides to the website each time the user submits a query to the site. We use Web Cookies to track the pages that users visit during each Site session, both to help us improve users’ experiences and to help us understand how the Site is being used. As with other non-Personal Information gathered from users of the Site, we analyze and disclose in aggregated form information gathered using Web Cookies, in order to help us, our partners and others better understand how the Site is being used. We do not attempt to link information gathered using Web Cookies to Personal Information. USERS WHO DO NOT WISH TO HAVE WEB COOKIES PLACED ON THEIR COMPUTERS SHOULD SET THEIR BROWSERS TO REFUSE WEB COOKIES BEFORE ACCESSING THE SITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THE SITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF WEB COOKIES. USERS WHO REFUSE WEB COOKIES ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY.
 
 **Web Beacons**
 
@@ -324,7 +328,7 @@ You may choose whether or not to provide Personal Information to Seeking Alpha. 
 
 **3-3. Security**
 
-We have implemented suitable security policies, rules and technical measures to protect and safeguard the Personal Information under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our employees and data processors that have access to, and are associated with the processing of your Personal Information, are obliged to respect the confidentiality of your information.
+We have implemented suitable security policies, rules and technical measures to protect and safeguard the Personal Information under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our employees and data processors that have access to and are associated with the processing of your Personal Information, are obliged to respect the confidentiality of your information.
 
 **3-4. Access/Accuracy**
 
@@ -336,7 +340,7 @@ Our Site may contain links to other sites. Other sites may also reference or lin
 
 5\. Childrens' Privacy
 
-The Site is not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age.
+The Site is not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 18 years of age.
 
 6\. Commitment
 
@@ -348,4 +352,4 @@ By using this Site, you consent to the terms of our Privacy Policy and to Seekin
 
 _Updated: December 26, 2019_
 
-Seeking AlphaRSS Feeds|Sitemap|About Us|Feedback|Careers|Contact UsTerms of Use|Privacy|Market Data Disclaimer|© 2019 Seeking Alpha <img src="https://sb.scorecardresearch.com/p?c1=2&c2=8500672&cv=2.0&cj=1" width="0" height="0" />. <div style="position:fixed. top:0. left:0. display:none" width="1" height="1">. <img src="/xgCxM9By/xhr/api/v1/collector/noScript.gif?appId=PXxgCxM9By">. </div>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=228550053985270&amp;ev=PageView&amp;noscript=1">. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+Seeking AlphaRSS Feeds|Sitemap|About Us|Feedback|Careers|Contact UsTerms of Use|Privacy|Market Data Disclaimer|© 2020 Seeking Alpha <img src="https://sb.scorecardresearch.com/p?c1=2&c2=8500672&cv=2.0&cj=1" width="0" height="0" />. <div style="position:fixed. top:0. left:0. display:none" width="1" height="1">. <img src="/xgCxM9By/xhr/api/v1/collector/noScript.gif?appId=PXxgCxM9By">. </div>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=228550053985270&amp;ev=PageView&amp;noscript=1">. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
