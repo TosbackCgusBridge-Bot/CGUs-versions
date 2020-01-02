@@ -1,4 +1,4 @@
-0b5d1b21-3411-4603-a03f-905e9a96222b
+562006d9-5b77-4420-b480-5a455842305a
 
 *   Search Search
 *   Contact Us
@@ -51,7 +51,7 @@ Enter your address to see which offers are available for your home
 
 \* Asterisk denotes required field
 
-\* Street Address Error. Enter your street address Apartment \* Zip Code Error. Enter your 5-digit ZIP code Go Why do I need to enter my exact address? Your Privacy Rights Privacy Policy Annual Privacy Notice Privacy Preferences About Spectrum +
+\* Street Address Error. Enter your street address Apartment \* Zip Code Error. Enter your 5-digit ZIP code Go Why do I need to enter my exact address? Your Privacy Rights Spectrum Privacy Policy Annual Privacy Notice Privacy Preferences California Consumer Privacy Rights About Spectrum +
 
 *   Spectrum Business
 *   Spectrum Enterprise Solutions
@@ -110,6 +110,9 @@ Search Services by State+ Search for Services in Your Area      Select State
 *   FCC Public Inspection File
 *   Service Rates &. Disclosures
 *   Your Privacy Rights
+
+*   California Privacy Policy
+*   California Consumer Do Not Sell My Personal Information
 
 Not all products, pricing, and services are available in all areas. Pricing and actual speeds may vary. Internet speed based on wired connection. Restrictions apply.
 
