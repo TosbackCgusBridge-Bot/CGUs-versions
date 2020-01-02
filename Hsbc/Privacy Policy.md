@@ -402,7 +402,7 @@ Download all Remove all
 *   Visit Facebook (opens in new window)
 *   Visit Youtube (opens in new window)
 
-*   © HSBC Group 2019
+*   © HSBC Group 2020
 *   Terms and conditions
 *   Privacy notice
 *   Cookie policy
