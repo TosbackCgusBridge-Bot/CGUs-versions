@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Steve Cortes_: Trump's Top 10 Achievements for 2019
+*   _Dean Obeidallah_: What Democrats Should Say About the Economy
     
-*   _Ed Kilgore_: 2020's Existential Dread
+*   _Victor Davis Hanson_: Why Trump Will Win Again in 2020
     
-*   _Salena Zito_: How Populist Uprising of 2016 Will Reverberate in 2020
+*   _Robert Alexander_: The Case for Senators Voting Secretly to Remove Trump
     
-*   _Sen. Doug Jones_: Will My Colleagues in the Senate Pursue Truth?
+*   _Jonathan Allen_: Democrats' Divisions Risk Handing Trump Big Advantage
     
-*   _Christopher Roach_: Senate Should Dismiss Impeachment Without Trial
+*   _Erielle Davidson_: Media Is Lying About Attacks on the Embassy in Baghdad
     
-*   _Jason Sattler_: A Four-Part Plan to Beat Donald Trump in 2020
+*   _Aaron Miller_: Trump's Approach to Iran Is Muddled, Unpredictable
     
-*   _Sean Trende_: 2019 Census Estimates Foreshadow House Seat Gains, Losses
+*   _Gordan Chang_: Did North Korea Just Make a Grave Mistake?
     
-*   _Jennifer Berkshire_: The Democrats' School Choice Problem
+*   _Fred DuVal_: China Doesn't Want to Become America--That's Bad News
     
-*   _David Harsanyi_: Texas's Concealed-Carry Law Prevented Mass Murder
+*   _Andy Puzder_: Another Year of the Economic 'Experts' Getting It All Wrong
     
-*   _James Moore_: Texas Shooting Isn't as Simple as It Seems
+*   _David Masciotra_: What Does It Mean to Be 'Too Far Left'?
     
-*   _Susan Crabtree_: Iraq Back in 2020 Spotlight After Trump Orders Airstrikes
+*   _Noah Rothman_: How 2019 Went Off the Rails for Nancy Pelosi
     
-*   _Ellen Wald_: Energy Dominance Is Leverage for U.S. Foreign Relations
+*   _John Fund_: A New Year's Resolution: Don't Forget the Good News
     
-*   _Russell Berman_: John Lewis Is the Last Unifying Force in Congress
+*   _Annie Lowrey_: The Decade in Which Everything Was Great But Felt Terrible
     
-*   _Dennis Prager_: Greta Thunberg: A Living Explanation of the Left
+*   _Lee Smith_: A Crime Still in Progress: The Media and the Collusion Fraud
     
-*   _Frida Ghitis_: Anti-Semitic Attacks Show a Society at Risk of Falling Apart
+*   _James Comey_: What It Is Like to Be Attacked by the President
     
-*   _Daniel J. Flynn_: An Identity Crisis of a Decade
+*   _Betsy McCaughey_: Why Schiff Doesn't Want Anyone Talking to Ciaramella
     
-*   _Charles Blow_: The Decade We Changed Our Minds
+*   _Francis Wilkinson_: Joe Biden Confronts a Demagogue and a Dilemma
     
-*   _James Antle_: Trump's Partisan Problems Will Save His Presidency
+*   _Liz Peek_: In 2020, It's Democrats' Absurdity vs. Trumpian Common Sense
     
-*   _Greg Sargent_: New Revelations Weaken Trump’s Impeachment Defenses
+*   _David Andelman_: The Biggest Global Threats Facing Trump in 2020
     
-*   _Jason Orestes_: Red States Must Defend Against Blue-State Exodus
+*   _Harry Kazianis_: N. Korea's Kim Has One Goal in Mind (No, He's Not Crazy)
     
-*   _Aaron Renn_: The Rust Belt Didn't Have to Happen
+*   _Michael O'Hanlon_: Why U.S. Should Strike an Interim Deal With North Korea
     
-*   _Taylor Lewis_: 2020 Is Trump's to Lose
+*   _Aja Romano_: Why We Can't Stop Fighting About Cancel Culture
     
-*   _James Foley_: Pragmatism, Not Purity, Can Defeat Trump
+*   _Joanna Williams_: Is the Tide Beginning to Turn on Trans Lunacy?
     
-*   _James Pinkerton_: In Praise of Rubio's Idea of 'Common Good Capitalism'
+*   _Ben Shapiro_: When Anti-Semitism Doesn't Matter
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Sanders Raises Impressive $34.5 Million in 2019's Final Quarter
+*   Buttigieg Criticizes Biden Over Ukraine Dealings as Vice President
+*   Gabbard: Impeachment Raises Odds of Trump Win, Dems Losing House
 *   Iraq Back in 2020 Spotlight After Trump Orders Airstrikes
 *   2019 Census Estimates Foreshadow House Seat Gains, Losses
-*   Christie: 3 House Seats in Deep Blue NJ Could Flip Red Due to Impeachment
-*   Will Biden's Catholicism Help Answer His 2020 Prayers?
-*   Space Force Will Start Small But Gives Trump a Big Win
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -278,11 +278,11 @@ Latest PollsAll Polls
 
 More Latest Polls In The News
 
+*   Dem Rep. Doggett: I "Certainly Support" Withholding Impeachment Articles. There Could Be More
+*   Giuliani: They're Doing Impeachment To Hide "Full Scope" Of Democratic Party's Corruption In Ukraine
+*   Scarborough: "I'm So Confused" About Giuliani Accusing Democrats Of "Racketeering" In Ukraine
 *   Chuck Todd: Trump Facing An "Uphill Battle," Reelection Depends On People Overlooking His Character
 *   Collins: "Inappropriate" For McConnell, Warren To "Prejudge" Impeachment Trial. Open To Witnesses
-*   Dem Rep. Raskin: Dems "Must Be Open To Any Exculpatory Evidence," Evidence That Contradicts The House
-*   DiGenova: Comey and Brennan Were "Coup Leaders," People Should Go To Jail For Lying To FISA Courts
-*   Biden Open To GOP Running Mate: "Can't Think Of One Right Now". "Democracy Depends Upon Consensus"
 
 *   Politics
 *   Policy
