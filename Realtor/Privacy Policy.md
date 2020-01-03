@@ -144,9 +144,9 @@ Blog More*   Our Brands
 *   Investors
 *   Contact
 *   Blog
-Privacy Notice                    
-  
-            Last Modified: December 31, 2019.
+Privacy Notice
+
+Last Modified: December 31, 2019.
 
 Move, Inc. (“Move,” “we,” “us,” or “our”), including our affiliates, respect your privacy and understand that you care about your personal information and how it is used. We value your trust in sharing your personal information with us and are dedicated to protecting your privacy. This Privacy Notice describes in detail the types of information we collect about you. how we use your information and with whom we share it. the choices and rights you have with regard to your information. how we protect your information. and how you can contact us about our privacy practices.
 
