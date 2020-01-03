@@ -85,7 +85,7 @@ You acknowledge and agree that the Company does not promise to screen Content, b
 
 The Company respects copyright law and expects Members to do the same. Illegal or unauthorized copying, distribution, modification, public display, or public performance of copyrighted works is an infringement of the copyright holders' rights. If you believe that your work has been copied in a way that constitutes copyright infringement, or your intellectual property rights have been otherwise violated, please notify the Company’s Agent for Notice of claims of copyright or other intellectual property infringement ("Agent"), at:
 
-The Meet Group Copyright Agent 100 Union Square Drive, New Hope, PA 18938 (215) 862-1162 copyright@themeetgroup.com(mailto:copyright@themeetgroup.com)
+The Meet Group Copyright Agent 100 Union Square Drive, New Hope, PA 18938 (215) 862-1162 copyright@themeetgroup.com
 
 Please provide our Agent with the following Notice:
 
