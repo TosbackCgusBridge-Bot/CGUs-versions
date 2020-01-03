@@ -75,15 +75,14 @@
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   New Year's
-    *   Holiday Entertaining
+    View All Categories Shop by Category*   Valentine's Day Gifts
     
     Occasions*   Game Day
     *   Birthday Gifts
     *   Gifts for Her
     *   Gifts for Him
     *   Thank You Gifts
-    *   Sympathy GiftsMost Popular Christmas Gifts
+    *   Sympathy Gifts
 *   Business Gifts
     View All Categories Shop by Category*   Business Gifts
     *   Premium Wine Gifts
@@ -170,15 +169,14 @@
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   New Year's
-    *   Holiday Entertaining
+    View All Categories Shop by Category*   Valentine's Day Gifts
     
     Occasions*   Game Day
     *   Birthday Gifts
     *   Gifts for Her
     *   Gifts for Him
     *   Thank You Gifts
-    *   Sympathy GiftsMost Popular Christmas Gifts
+    *   Sympathy Gifts
 *   Business Gifts
     View All Categories Shop by Category*   Business Gifts
     *   Premium Wine Gifts
@@ -319,4 +317,4 @@ Find A Store
 
 *   Find A Store
 
-© 2019 All Rights Reserved Privacy Policy Terms Of Use Site Map Compliance
+© 2019 All Rights Reserved Privacy Policy Terms Of Use Site Map Compliance Play IconFeedback
