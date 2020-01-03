@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 30% off your order. free shipping, no minimum!
+Receive 40% off your order!
 
-code: SKATING pin: PROMOTION DETAILS
+code: PARTY pin: PROMOTION DETAILS
 
 Customer Service Menu
 
