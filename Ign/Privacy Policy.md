@@ -10,7 +10,7 @@ BRANDSAUDIENCEWORLDWIDEPRESSLEADERSHIPCAREERSCONTACT ZIFF DAVIS, LLC PRIVACY POL
 
   
 
-<img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=01b0263e-277d-4e52-9ddd-86550128ec1a" alt="TRUSTe"/>. <img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c" alt="TRUSTe"/>. Effective April 9, 2019
+<img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=01b0263e-277d-4e52-9ddd-86550128ec1a" alt="TRUSTe"/>. <img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c" alt="TRUSTe"/>. Effective January 2, 2020
 
 Version Française
 
@@ -33,7 +33,8 @@ If you have any questions related to Data Subject Access Rights under GDPR, you 
 15.  What Can I Do to Control My Information?
 16.  Terms of Use
 17.  Contact Details
-18.  How this Privacy Policy May Change
+18.  California Consumers
+19.  How this Privacy Policy May Change
 
 1.  **Privacy Policy Overview**
 
@@ -64,12 +65,12 @@ This Privacy Policy covers information collected through the following websites 
 *   ZiffDavisB2B, Toolbox.com, Inside CRM, Inside-Erp, IT Management, IT Security, VoIP-News
 *   emedia.com, emedia.co.uk
 *   Salesify, B2BSignals
-*   Revenu8, MarTechAdvisor, ReadITQuick, HRTechnologist
+*   Revenu8, MarTechAdvisor, ReadITQuik, HRTechnologist
 *   DemandShore, Technology Signals
 *   Ziff Davis Data
 *   Best Black Friday
-*   Deals of America
 *   The Black Friday
+*   Deals of America
 *   Best Gifts
 
 Applications:
@@ -83,8 +84,6 @@ Applications:
 *   IGN App For Dead Space 3
 *   PC Magazine
 *   TechBargains
-*   Deals of America
-*   The Black Friday
 
 *   **What Categories of Information We May Process**
 
@@ -399,6 +398,75 @@ privacy@ziffdavis.com
 Our Data Protection Officer may be contacted at dpo@ziffdavis.com. For GDPR related inquiries, please use our DSAR Portal
 
 If you have an unresolved concern regarding your privacy or our use of data that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) by clicking here.
+
+*   **California Consumers**
+
+Summary – California Consumers
+
+The California Consumer Privacy Act (“CCPA)  provides certain rights for California consumers.  If you are a consumer residing in California, the following additional terms apply to you.
+
+1.  **Right to Know About Information Collected, Disclosed or Sold**
+
+You have the right to request that we disclose what personal information we collect, use, disclose, and sell. To submit a verifiable request, please visit http://dsar.ziffdavis.com or email privacy@ziffdavis.com.
+
+If you have an account with us, we will verify the request by confirming the email address used to make the request is the same as the email address on file for the account.  If you do not have an account with us, we will verify the request by sending an email to the email address used to make the request. We may ask for additional information reasonably related to the request to verify the request.
+
+4.  **Collection of Personal Information**
+
+The categories of California consumers’ Personal Information we may collect are listed above in Section 2 (“What Categories of Information We Process”).  In reference to Section 2, we may collect Personal Details, Demographic Information, Contact Details, Consent Records, Location Information, Purchase and Payment Details, Employer Details, Views and Opinions.  We also collect other kinds of information from you or other sources, which we refer to as “Other Information” in this Policy. As detailed in Section 2, this may include, but is not limited to, information about your use of, visits to and interaction and engagement with the Services, content and ads on Channels, all of which may be aggregated. browsing history. and searches for and interactions with e-commerce opportunities, such as merchants and offers contained in the Services.
+
+We may collect California consumers’ Personal Information from the sources listed in Section 4 (“How We Collect User Information”). As defined in Section 4, this may be: Data You Provide. Relationship Data. Data You Make Public. Service Data. Content and Advertising Information. Third Party Information. Speedtest data if you run a Speedtest by Ookla  We may obtain personal information from the following sources as defined in Section 2 (“What Categories of Information We Process”): GeoIP Data. ID. IDFA. IP address. ISP. SSID. IMSI. IMEI. Log files. Web Beacons. Pixel Tags. Local Shared Objects, such as Flash cookies, and Local Storage, such as HTML5, and equivalents.
+
+We use this data for the purposes listed above in Section 5 (“Purposes for which we may Process your Personal Information”) or for Direct Marketing as outlined in Section 6 (“Direct Marketing”).
+
+8.  **Disclosure or Sale of Personal Information**
+
+We may and may have disclosed or sold the categories of Personal Information listed in Section 9 (“What Information We Disclose to Third Parties”) for a business or commercial purpose.
+
+We may and may have disclosed Personal Information to the following categories of third parties for a business purpose:
+
+*   other entities within the Company group for a legitimate business purpose such as operating the Services and providing the Services to you;
+*   third party Processors for the purpose of providing the Services to you;
+*   third party providers where our Services use third party advertising, plugins or content;
+*   third party providers to assist with the collection, storage and segmentation of Online Data.  These third party providers may collect User Information from our Services for their own purposes, including but not limited to, monitoring fraud around the web;
+*   third parties for the purpose of recognizing our users and delivering interest-based content and advertisements to them. We may share your User Information with our partners such as your name, postal address, email, or other identifier. Our partners may also: (i) collect information directly from your device, such as your IP address, device ID, advertising ID, and information about your browser or operating system. (ii) combine User Information about you received from Ziff Davis with information about you from other sites or services. and (iii) place or recognize a unique cookie on your browser. and
+*   third party vendors involved in the administration of contests, competitions, sweepstakes, prize draws, or webcasts.
+
+We may have disclosed or sold Personal Information to the following categories of third parties for a business purpose or a commercial purpose:
+
+*   third party providers where our Services use third party advertising, plugins or content. If you choose to interact with any such advertising, plugins or content, information about your activities on the Services and Channels to provide you targeted advertising based upon your interests may be shared with the relevant third party provider. If you click or tap on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria;
+*   third parties for the purpose of recognizing our users and delivering interest-based content and advertisements to them. We may share your User Information with our partners such as your name, postal address, email, or other identifier. Our partners may also: (i) collect information directly from your device, such as your IP address, device ID, advertising ID, and information about your browser or operating system. (ii) combine User Information about you received from Ziff Davis with information about you from other sites or services. and (iii) place or recognize a unique cookie on your browser;
+*   third parties such as advertisers who will use Online Data to serve ads that they believe are relevant to your interests, and who agree to maintain the confidentiality of this information. Some of these third parties may combine the Online Data with their own data about you to form a more detailed picture;
+*   third party partners such as marketing and advertising companies and agencies, content publishers, retailers, third party providers of goods and services. or service providers whose services are embedded into and/or appear within the Services when you use a co-branded service (a service operated with a partner of Ziff Davis), or register or otherwise provide information on such co-branded site. This information is only passed on if and when you grant us permission to pass the collected information back to that third party;
+*   Any sponsors of contests, competitions, sweepstakes and prize draws, or white papers, webcasts or other downloads, the registration data for such events is to be used by us as part of User Information, and may be shared with the sponsor and others, subject to this Policy and the sponsor’s privacy policy.
+*   third party providers of goods and services on a rental or other basis for some of our Services when information (such as the name of our users, their mailing address, phone number, email address – and in certain circumstances their employer’s name, company size and other industry data) is provided in connection with webcasts, white papers or other sponsored downloads.
+*   _For Ookla only_, if you run a Speedtest, ISPs and mobile carriers may receive full IP addresses and/or network hardware or devices identifiers for such ISP or mobile carrier’s customers upon request. Equipment manufacturers and core network or wholesale providers may also receive full IP addresses and/or network, hardware and device identifiers on a case-by-case basis for network research purposes. Third parties may receive GeoIP Data and/or Precise Location Data.
+
+The Services are not intended for use by minors. We do not sell personal information of minors under 16 years of age without affirmative authorization.
+
+*   **Right to Request Deletion of Personal Information**
+
+You have the right to request deletion of Personal Information collected or maintained by us.  To do so, please submit a request via http://dsar.ziffdavis.com or by emailing privacy@ziffdavis.com.  If submitting a request by email, we may ask for additional information to verify your request.
+
+*   **Right to Opt-Out of the Sale of Personal Information**
+
+You have the right to opt-out of the sale of Personal Information by a business.  To do so, please submit a request via http://dsar.ziffdavis.com or by emailing privacy@ziffdavis.com.  If submitting a request by email, we may ask for additional information to verify your request.
+
+*   **Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights**
+
+You have the right not to receive discriminatory treatment by the business for exercising your privacy rights conferred to you by the California Consumer Privacy Act.
+
+*   **Authorized Agent**
+
+To make a request under the California Consumer Privacy Act on a consumer’s behalf, we require a signed authorization letter from the consumer to privacy@ziffdavis.com.
+
+*   **Contact for More Information**
+
+If you have any questions or concerns about our privacy policies and practices, you may contact us via http://dsar.ziffdavis.com or privacy@ziffdavis.com.
+
+*   **Date Privacy Policy Last Updated**
+
+Our Privacy Policy was lasted updated as of the date indicated at the beginning of the policy.
 
 *   **How this Privacy Policy May Change**
 
