@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   2\. Januar 2020
+*   3\. Januar 2020
 *   Abo
-*   DAX 13.249,01ǀ
+*   DAX 13.385,93ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
