@@ -496,25 +496,29 @@ Offers
     
     When you purchase 2 or more Kernel Season’s products. SEE DETAILS
     
-*   Every 4 Tickets = $5 For You
-    
-    Buy tickets. Earn points. Get a $5 reward for a movie on us. BUY TICKETS
-    
 *   FandangoNOW Fresh Picks
     
     100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
     
+*   Every 4 Tickets = $5 For You
+    
+    Buy tickets. Earn points. Get a $5 reward for a movie on us. BUY TICKETS
+    
+*   Binge All The Golden Globes Nominees With FandangoNOW
+    
+    Catch up with titles at home or those still in theaters! WATCH NOW
+    
 
 New + Coming soon
 
-*   Jumanji: The Next Level
-*   Black Christmas (2019)
-*   Richard Jewell
-*   Bombshell (2019)
-*   Star Wars: The Rise of Skywalker (2019)
-*   Cats (2019)
 *   Little Women (2019)
 *   Spies in Disguise
+*   1917 (2019)
+*   The Grudge (2020)
+*   Like a Boss
+*   Underwater
+*   Bad Boys for Life
+*   Dolittle (2020)
 
 Experience + Explore
 
@@ -536,7 +540,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   December Celebrity Birthdays
+*   January Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Follow Us
