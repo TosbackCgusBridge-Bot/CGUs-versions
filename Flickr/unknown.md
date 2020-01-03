@@ -35,23 +35,23 @@ Policies &. Guidelines
 
 Flickr Terms &. Conditions of Use
 
-Date of Last Revision: Dec 17, 2018
+Date of Last Revision: January 1, 2020
 
-FLICKR USERS: As of May 29, 2018, Flickr is owned and operated by Flickr, Inc. Your continued use of the Flickr services will be subject to these Terms of Use. These Terms of Use also apply to your use of the Services, where applicable, to purchase photographic prints, videos or other related merchandise, products and services (“Products”) through Flickr’s approved third party vendors and retailers (“Flickr Vendors”). For information about how Flickr collects, uses and discloses your information, please see the Flickr Privacy Policy. SmugMug has no control over and no responsibility for any use of your personal information by previous owners or operators of Flickr. Below are Flickr’s new terms and conditions of use (“Terms of Use”) that apply to the Flickr services including the Flickr website (the “Site”) and the Flickr mobile application (collectively, the “Services”). The Services are owned and operated by SmugMug, Inc. and its subsidiaries including Flickr, Inc. and their respective employees, agents, affiliates and contractors (collectively, “SmugMug”). These Terms of Use apply only to the services offered by the Flickr division of SmugMug (“Flickr”) and do not apply to any other services offered by SmugMug. Please see https://www.smugmug.com/about/terms for terms of use applicable to those services.
+As of May 29, 2018, Flickr is owned and operated by Flickr, Inc. These Terms of Use apply to your access to and use of Flickr.com (the “Site”), the official Flickr mobile and Apple TV applications, and the related Flickr services, such as Flickr Pro Services (collectively with the Site and the rest of the foregoing, the “Services”). For example, these Terms of Use apply to your use of the Services to purchase photographic prints, videos or other related merchandise, products and services ("Products") through Flickr’s approved third party vendors and retailers ("Flickr Vendors").
+
+Flickr, Inc. is owned by SmugMug, Inc. In these Terms of Use, the term “SmugMug” refers to Flickr, Inc., together with SmugMug, Inc. and its subsidiaries and their respective employees, agents, affiliates and contractors. However, these Terms of Use do not apply to SmugMug-branded services offered by the SmugMug family of companies. Please see https://www.smugmug.com/about/terms for terms of use applicable to those services.
 
 PLEASE READ THESE TERMS OF USE CAREFULLY. BY ACCESSING OR USING THE SERVICES, PURCHASING PRODUCTS OR FLICKR PRO SERVICES, OR CLICKING THAT YOU AGREE, YOU AGREE TO BE BOUND BY THESE TERMS OF USE.
 
-Welcome to the SmugMug family! The Services provide our users with online tools designed to facilitate and share our love of photography and videos and to promote camaraderie. These Terms of Use protect the legal interests of SmugMug, our users and our third party vendors.
+These Terms of Use contain provisions that govern how claims that you and SmugMug have against each other are resolved (see Section 15 — Dispute Resolution). These provisions require you to resolve certain disputes or claims relating to your use of the Services by binding arbitration, rather than in court. If you do not consent to such terms, you are not permitted to use the Services.
 
-Your use of the Services and your purchase of Products is expressly conditioned upon your agreement to these Terms of Use. If you do not consent to these Terms of Use, you are not permitted to use any Services. If you access the Services on behalf of a company or other entity, you warrant that you are an authorized representative of such company or entity with the right to bind such company or entity to these Terms of Use.
+Your use of the Services (such as your purchase of Products) is expressly conditioned upon your agreement to these Terms of Use. If you do not consent to these Terms of Use, you are not permitted to use any Services. If you access the Services on behalf of a company or other entity, you warrant that you are an authorized representative of such company or entity with the right to bind such company or entity to these Terms of Use.
 
-The Services are not targeted towards, nor intended for use by, anyone under the age of 13. If you are between the ages of 13 and 18, you may use the Services only under the supervision of a parent or legal guardian who agrees to be bound by these Terms of Use.
+The Services are not targeted towards, nor intended for use by, anyone under the age of 16. If you are between the ages of 16 and 18, you may use the Services only under the supervision of a parent or legal guardian who agrees to be bound by these Terms of Use.
 
-These Terms of Use contain provisions that govern how claims that you and SmugMug have against each other are resolved (see Section 15 — Dispute Resolution). These Terms of Use also contain provisions requiring you to resolve certain disputes or claims relating to your use of the Services by binding arbitration, rather than in court. If you do not consent to such terms, you are not permitted to use the Services. }
+SmugMug reserves the right to change, modify, revise or otherwise amend any provision of these Terms of Use, and any other terms, policies or guidelines governing your use of the Services, at any time at its sole discretion by providing notice that the Terms of Use have been modified. Such notice may be provided by sending an email, or by posting a notice on the Site, or by posting the revised Terms of Use on the Site and revising the date at the top of these Terms of Use or by such other form of notice as determined by SmugMug. Your use of the Services (such as through your purchase of any Products) or your purchase of new Services following the posting of the revised Terms of Use or other notice will constitute your acceptance of such changes or modifications. Otherwise, any changes or modifications will be effective within thirty (30) days of the posting of the revisions on the Site unless you notify SmugMug within such thirty (30) days that you do not agree to the changes and stop using the Services. Therefore, you should review these Terms of Use whenever you access the Services and at least every thirty (30) days to make sure that you understand the terms and conditions that will apply to your use of the Services.
 
-SmugMug reserves the right to change, modify, revise or otherwise amend any provision of these Terms of Use, and any other terms, policies or guidelines governing your use of the Services, at any time at its sole discretion by providing notice that the Terms of Use have been modified. Such notice may be provided by sending an email, or by posting a notice on the Site, or by posting the revised Terms of Use on the Site and revising the date at the top of these Terms of Use or by such other form of notice as determined by SmugMug. Your continued use of the Services, or your purchase of any Products or the Services following the posting of the revised Terms of Use or other notice will constitute your acceptance of such changes or modifications. Otherwise, any changes or modifications will be effective within thirty (30) days of the posting of the revisions on the Site unless you notify SmugMug within such thirty (30) days that you do not agree to the changes and stop using the Services. Therefore, you should review these Terms of Use whenever you access the Services and at least every thirty (30) days to make sure that you understand the terms and conditions that will apply to your use of the Services.
-
-Our Privacy Policy provides information on how Flickr collects, uses and discloses information from all users of the Services and/or information obtained through your purchase of Products through the Services.
+You authorize SmugMug to collect, use, disclose and otherwise process information about you as set forth in our Privacy Policy. For residents of the UK or European Economic Area, the preceding sentence is not intended to constitute your “consent” to any processing of your own personal data for purposes of the GDPR or local ePrivacy legislation, and Flickr will seek such consent separately from these Terms of Use where applicable law requires Flickr to have your consent.
 
 1.  GENERAL TERMS
     
@@ -78,6 +78,10 @@ Our Privacy Policy provides information on how Flickr collects, uses and disclos
         *   Mobile Applications
             
             The Flickr mobile application is available for download by users via authorized application stores and other platforms (e.g., the Apple App Store). If you access and use the Services via the Flickr mobile application, or on a mobile phone, tablet or similar mobile device, you are bound by these Terms of Use.
+            
+        *   Data Processing Addendum
+            
+            The Flickr Data Processing Addendum supplements these Terms of Use and applies with respect to (i) the photos and videos you upload, and (ii) any labels, tags, comments, descriptions or categorizations that you add to those photos and videos. To the extent of any conflict between these Terms of Use and the Data Processing Addendum, the Data Processing Addendum will govern.
             
     2.  License
         
@@ -110,7 +114,7 @@ Our Privacy Policy provides information on how Flickr collects, uses and disclos
         *   any use of the Services or the Flickr Materials other than for their intended purposes.
             
         
-        Any use of the Services or of any Flickr Materials other than as specifically authorized herein, without the express prior written permission of SmugMug, the applicable Flickr user or the Content Owner, is strictly prohibited. Any such unauthorized use will result in the immediate termination of your rights under these Terms of Use and will constitute a breach of the license granted herein.
+        Any use of the Services or of any Flickr Materials other than as specifically authorized herein, without the express prior written permission of SmugMug and the applicable Flickr user or the Content Owner, is strictly prohibited. Any such unauthorized use may result in the immediate termination of your rights under these Terms of Use and will constitute a breach of the license granted herein.
         
     5.  HyperLinks
         
@@ -120,11 +124,11 @@ Our Privacy Policy provides information on how Flickr collects, uses and disclos
         
     6.  User Content
         
-        The Services may enable you to upload, post and transmit photos and videos to the Site or other portions of the Services (including to your user photo galleries or groups through the Services) and also provide you with access to discussion forums, blogs and other interactive areas in which you or other users may post or transmit photos, videos, text, music, messages, information or other content or materials (collectively, the “User Content”).
+        The Services may enable you to upload, post and transmit photos and videos to the Site or other portions of the Services (including to your user photo galleries or groups through the Services) and also provide you with access to discussion forums, blogs and other interactive areas in which you or other users may post or transmit photos, videos, text, music, messages, information, comments, labels, tags, descriptions, categorizations or other content or materials (collectively, the “User Content”).
         
         You retain all intellectual property rights in and to any User Content you post, upload or otherwise make available through the Services, including the copyright in and to your photos and videos. SmugMug does not claim any ownership, right, title or interest in and to your User Content.
         
-        Notwithstanding the foregoing, by uploading and/or posting any User Content to the Services, you grant SmugMug a perpetual, nonexclusive and royalty-free right to use the User Content (and the user name that is submitted in connection with such User Content) as is reasonably necessary in order to enable SmugMug to provide the Services, including to display the User Content on the Services.
+        Notwithstanding the foregoing, by uploading and/or posting any User Content to the Services, you request, and grant SmugMug a perpetual, nonexclusive and royalty-free right to use the User Content (and the user name that is submitted in connection with such User Content) as is reasonably necessary in order to do the following: (1) provide the Services, including to display the User Content on the Services. (2) comply with your instructions pursuant to Flickr’s Data Protection Addendum. (3) comply with legal requirements, including disclosing User Content in response to legal process from governmental authorities. (4) disclose User Content without any compulsory legal process when Flickr believes there is a threat to life or limb. In the absence of a legal requirement to do so, Flickr may refrain from notifying you of Flickr’s disclosures to governmental authorities where such notification may jeopardize an important law enforcement investigation. Flickr may engage service providers for assistance with carrying out any obligation or exercising any right under these Terms of Use.
         
         You represent and warrant that (i) you own or otherwise control all of the rights to the User Content that you post or transmit, or you otherwise have the right to post, use, display, distribute and reproduce such User Content and to grant the rights granted herein. (ii) the User Content you supply is accurate and not misleading. and (iii) the use and posting of the User Content you supply does not violate these Terms of Use and will not violate any rights of or cause injury to any person or entity.
         
@@ -148,34 +152,34 @@ Our Privacy Policy provides information on how Flickr collects, uses and disclos
             
         *   viruses, corrupted data or other harmful, disruptive or destructive files. and
             
-        *   User Content that, in the sole judgment of Flickr, is objectionable, harmful or which restricts or inhibits any other person from using or enjoying the Services, or which may expose Flickr or its users to any harm or liability of any nature.
+        *   User Content that is objectionable, harmful or which restricts or inhibits any other person from using or enjoying the Services, or which may expose Flickr or its users to any harm or liability of any nature, or which is legally required to be deleted or made private.
             
         
-        Although we prohibit certain activities in these Terms of Use, SmugMug does not make any representation or warranty that the User Content you may encounter through your use of the Services complies with these acceptable use provisions or the Terms of Use. YOUR USE OF THE SERVICES IS SOLELY AT YOUR OWN RISK. These Terms of Use do not create any private right of action on the part of any third party or any reasonable expectation that the Services will not contain any content that is prohibited by these acceptable use provisions. SmugMug reserves the right (but is not obligated) to (i) review or screen any User Content submitted to the Site or otherwise submitted through the Services. (ii) edit any User Content posted on the Services. and/or (iii) remove any User Content from the Services for any reason, at any time, without prior notice, at our sole discretion. SmugMug will have no liability or responsibility to users of the Services or any other person or entity for performance or nonperformance of such activities. SmugMug’s enforcement of the acceptable use provisions set forth in these Terms of Use with respect to User Content in some instances does not constitute a waiver of our right to enforce such provisions in other instances involving similar User Content.
+        Although we prohibit certain activities in these Terms of Use, SmugMug does not make any representation or warranty that the User Content you may encounter through your use of the Services complies with these acceptable use provisions or the Terms of Use. YOUR USE OF THE SERVICES IS SOLELY AT YOUR OWN RISK. These Terms of Use do not create any private right of action on the part of any third party or any reasonable expectation that the Services will not contain any content that is prohibited by these acceptable use provisions. SmugMug reserves the right (but is not obligated) to (i) review or screen any User Content submitted to the Site or otherwise submitted through the Services. (ii) edit any User Content submitted through the Services Services (but for photos and videos this will consist of mere editing to address the technical characteristics of the Service or of Flickr Vendors, not artistic authorship). and/or (iii) remove or take down any User Content from the Services for any reason, at any time, without prior notice, at our sole discretion. SmugMug will have no liability or responsibility to users of the Services or any other person or entity for performance or nonperformance of such activities. SmugMug’s enforcement of the acceptable use provisions set forth in these Terms of Use with respect to User Content in some instances does not constitute a waiver of our right to enforce such provisions in other instances involving similar User Content.
         
     8.  Your Account
         
-        Certain activities on the Services require you to register and create an account. In order to create an account, you must be 13 years of age or older. By registering for an account, you represent and warrant that you are at least 13 years of age and that all information you provide in the registration form (“Registration Data”) is complete and accurate. SmugMug reserves the right to terminate your account and/or refuse access to the Services to anyone at any time, with or without cause at its sole discretion. If SmugMug terminates your account due to inactivity, SmugMug will use reasonable efforts to notify you of such termination in advance by posting such notice in your account and emailing such notice to the email address you have specified in your account. You agree to keep your registered email addresses and other Registration Data current and complete, as SmugMug may send important notices about your account from time to time. By registering for an account, you consent to receive communications from SmugMug about the Services by email and/or system messages consistent with the terms of our Privacy Policy.
+        Certain activities on the Services require you to register and create an account. In order to create an account, you must be 16 years of age or older. By registering for an account, you represent and warrant that you are at least 16 years of age and that all information you provide in the registration form (“Registration Data”) is complete and accurate. SmugMug reserves the right to terminate your account and/or refuse access to the Services to anyone at any time, with or without cause at its sole discretion. If SmugMug terminates your account due to inactivity, SmugMug will use reasonable efforts to notify you of such termination in advance by emailing such notice to the email address you have specified in your account. You agree to keep your registered email addresses and other Registration Data current and complete, as SmugMug may send important notices about your account from time to time. By registering for an account, you consent to receive communications from SmugMug about the Services by email and/or system messages consistent with the terms of our Privacy Policy.
         
     9.  Account Security
         
         You are solely responsible for maintaining the confidentiality of the passwords associated with your account and for restricting access to your passwords and physical access to your computer while logged into the Services. You accept responsibility for all activities that occur under your user account.
         
-        User Content that you post, upload or otherwise make available via the Services may be accessed, used and downloaded by other users of the Services. You understand and acknowledge that any User Content contained in public areas of the Services, including any user galleries or other portions of the Services, is accessible to the public and could be accessed, downloaded, indexed, archived, linked to and republished by others including, without limitation, appearing on other websites and in search engine results. Flickr provides security options and settings for your content available in the settings section of your applicable user account (the “Account Settings”).
+        User Content that you post, upload or otherwise make available via the Services may be accessed, used and downloaded by other users of the Services. You understand and acknowledge that any User Content contained in public areas of the Services, including any user galleries or other portions of the Services, is accessible to the public and could be accessed, downloaded, indexed, archived, linked to and republished by others including, without limitation, appearing on other websites and in search engine results. Flickr provides privacy options and settings for your content available in the Privacy &. Permissions section of your applicable user account (the “Account Settings”).
         
-        We use commercially reasonable security measures to protect your account and User Content consistent with your Account Settings. We cannot, however, guarantee absolute security of your account, your User Content or the Registration Data we collect, and we cannot promise that our security measures will prevent third party “hackers” from illegally accessing the Services or their contents. Flickr is not responsible or liable for any third party access to or use of the User Content you post or your Registration Data. You are encouraged to read, understand and use the security settings and mechanisms in your Account Settings to manage how your User Content is accessed and used by the public and other users of the Services. You agree to immediately notify Flickr of any unauthorized use of your account or passwords or any other breach of security, and you accept all risks of unauthorized access to the Registration Data, User Content and any other information you provide to Flickr.
+        We use commercially reasonable security measures to protect your User Content consistent with your Account Settings. We cannot, however, guarantee absolute security of your account, your User Content or the Registration Data we collect, and we cannot promise that our security measures will prevent third party “hackers” or other unauthorized parties from illegally accessing the Services or their contents. Flickr is not responsible or liable for any third party access to or use of the User Content you post or your Registration Data. You are encouraged to read, understand and use the privacy settings and mechanisms in your Account Settings to manage how your User Content is accessed and used by the public and other users of the Services. You agree to immediately notify Flickr of any unauthorized use of your account or passwords or any other breach of security, and you accept all risks of unauthorized access to the Registration Data, User Content and any other information you provide to Flickr.
         
     10.  Third Party Services
         
-        SmugMug may make third party content and services available on or through the Services (“Third Party Services”) solely as a convenience to its users (for example, links to third party websites, software and other services). When you leave the Services, you should be aware that these Terms of Use and all other SmugMug policies no longer govern your use of such websites and services or any content contained thereon.
+        SmugMug may make third party content and services available on or through the Services (“Third Party Services”) solely as a convenience to its users, or because a user posted it or made it accessible (for example, links to third party websites, software and other services). When you leave the Services, you should be aware that these Terms of Use and all other SmugMug policies no longer govern your use of such websites and services or any content contained thereon.
         
-        SmugMug does not imply affiliation, approval, or control of any Third Party Services by making such Third Party Services available via the Services. SmugMug makes no claim or representation regarding, and accepts no responsibility for, the quality, accuracy, nature, ownership or reliability of Third Party Services. YOUR USE OF ANY SUCH THIRD PARTY SERVICES IS SOLELY AT YOUR OWN RISK AND SUBJECT TO THE APPLICABLE TERMS AND CONDITIONS AND PRIVACY POLICIES APPLICABLE TO SUCH THIRD PARTY SERVICES.
+        SmugMug does not indicate affiliation, approval, or control of any Third Party Services by making such Third Party Services available via the Services. SmugMug makes no claim or representation regarding, and accepts no responsibility for, the quality, accuracy, nature, ownership or reliability of Third Party Services. YOUR USE OF ANY SUCH THIRD PARTY SERVICES IS SOLELY AT YOUR OWN RISK AND SUBJECT TO THE THIRD PARTY TERMS AND CONDITIONS AND THIRD PARTY PRIVACY POLICIES APPLICABLE TO SUCH THIRD PARTY SERVICES.
         
     11.  Advertisements and Promotions
         
         The Services may contain third party advertisements and promotions generated or posted by other users of the Services, Flickr Vendors or other third party service providers.
         
-        Your business dealings or interactions with any third parties, including other users of the Services or Flickr Vendors, and any terms, conditions, warranties or representations associated with such dealings, are solely between you and such third party. Flickr does not endorse, approve, or control any such products, services, advertising or promotions posted to the Services by its users or the Flickr Vendors. SmugMug is not responsible or liable for any loss or damage of any kind incurred as the result of your direct dealings with its users or a Flickr Vendor or otherwise resulting from the presence of advertisements for third party products and services included on the Services.
+        Your business dealings or interactions with any third parties, including other users of the Services or Flickr Vendors, and any terms, conditions, warranties or representations associated with such dealings, are solely between you and such third party. Flickr does not endorse, approve, or control any such products, services, advertising or promotions posted to the Services by its users or the Flickr Vendors or third party service providers. SmugMug is not responsible or liable for any loss or damage of any kind incurred as the result of your direct dealings with any of them or otherwise resulting from the presence of advertisements for third party products and services included on the Services.
         
     12.  DISCLAIMER OF WARRANTIES
         
@@ -213,26 +217,27 @@ Our Privacy Policy provides information on how Flickr collects, uses and disclos
         
         We welcome feedback from our users regarding ideas and suggestions for improvements to the Site, Services and Products. SmugMug will be entitled to use any such feedback without restriction, even if you designate such feedback as confidential. You hereby grant SmugMug a royalty-free, sublicensable, transferable, perpetual, irrevocable license in and to any feedback to use in any matter related to the operation of our business.
         
-    17.  Assignment
-        
-        These Terms of Use are binding upon and inure to the benefit of the parties hereto and their permitted successors and assigns. Notwithstanding the foregoing, you may not assign your rights under these Terms of Use without SmugMug’s prior written consent. SmugMug will be permitted to assign its rights under these Terms of Use at its sole discretion.
-        
-    18.  International Users
-        
-        SmugMug is located in the State of California in the United States of America. If you access the Services from a country other than the United States, you agree that your transactions with SmugMug occur in the United States. You are responsible for compliance with all applicable laws, rules and regulations applicable to your use of the Services.
-        
-    19.  Severability
-        
-        If any provision of these Terms of Use is held invalid or unenforceable by any court of competent jurisdiction, the other provisions of these Terms of Use will remain in full force and effect, and, if legally permitted, such offending provision will be replaced with an enforceable provision that as nearly as possible effects the parties’ intent.
-        
-    20.  Survival
-        
-        The terms and conditions of these Terms of Use which by their nature are intended to survive termination or expiration of Services (including, but not limited to, Indemnification, Warranty Disclaimer, Dispute Resolution and the Limitation of Liability) will survive any expiration or termination of these Terms of Use.
-        
-    21.  Questions or Comments
-        
-        Flickr is committed to keeping our users happy and satisfied with their use of the Services. If you have any questions, concerns, complaints or comments in any way related to your use of the Services, please contact us at https://help.flickr.com. If you have any questions, concerns, complaints or comments in any way related to your use of the Services or the transfer of your Flickr account to SmugMug, please contact us at https://help.flickr.com.
-        
+    
+    Assignment
+    
+    These Terms of Use are binding upon and inure to the benefit of the parties hereto and their permitted successors and assigns. Notwithstanding the foregoing, you may not assign your rights under these Terms of Use without SmugMug’s prior written consent. SmugMug will be permitted to assign its rights under these Terms of Use at its sole discretion.
+    
+    International Users
+    
+    SmugMug is located in the State of California in the United States of America. If you access the Services from a country other than the United States, you agree that your transactions with SmugMug occur in the United States. You are responsible for compliance with all applicable laws, rules and regulations applicable to your use of the Services.
+    
+    Severability
+    
+    If any provision of these Terms of Use is held invalid or unenforceable by any court of competent jurisdiction, the other provisions of these Terms of Use will remain in full force and effect, and, if legally permitted, such offending provision will be replaced with an enforceable provision that as nearly as possible effects the parties’ intent.
+    
+    Survival
+    
+    The terms and conditions of these Terms of Use which by their nature are intended to survive termination or expiration of Services (including, but not limited to, Indemnification, Warranty Disclaimer, Dispute Resolution and the Limitation of Liability) will survive any expiration or termination of these Terms of Use.
+    
+    Questions or Comments
+    
+    Flickr is committed to keeping our users happy and satisfied with their use of the Services. If you have any questions, concerns, complaints or comments in any way related to your use of the Services, please contact us through https://help.flickr.com/contact. If you have any questions, concerns, complaints or comments in any way related to your use of the Services or the transfer of your Flickr account to SmugMug, please contact us through https://help.flickr.com/contact.
+    
 2.  ADDITIONAL TERMS APPLICABLE TO FLICKR PRO SERVICES (“FLICKR PRO SERVICES TERMS”)
     
     You may use the Flickr Pro Services only in accordance with these Flickr Pro Services Terms (and the Terms of Use of which they are a part). In the event of any conflict between these Flickr Pro Services Terms and the other provisions of the Terms of Use, these Flickr Pro Services Terms will control.
@@ -259,7 +264,9 @@ Our Privacy Policy provides information on how Flickr collects, uses and disclos
         
         Your Subscription is valid commencing on the date in which Flickr provides you with access to the Services pursuant to its receipt of your valid Payment Information (the “Commencement Date”) and will last for the duration of the Subscription term that you select at the time of your registration for the Flickr Pro Services (the “Subscription Term”).
         
-        YOUR SUBSCRIPTION WILL AUTOMATICALLY RENEW AT THE END OF EACH SUBSCRIPTION TERM FOR SUCCESSIVE SUBSCRIPTION TERMS OF THE SAME DURATION AS THE SUBSCRIPTION TERM ORIGINALLY SELECTED UNLESS THE SUBSCRIPTION IS TERMINATED AND/OR CANCELED BY YOU OR FLICKR PRIOR TO THE END OF SUCH SUBSCRIPTION TERM. SUCH RENEWAL WILL OCCUR AUTOMATICALLY ON THE APPLICABLE ANNIVERSARY OF THE COMMENCEMENT DATE. YOU MAY CANCEL YOUR SUBSCRIPTION AT ANY TIME PRIOR TO THE END OF THE SUBSCRIPTION TERM THROUGH YOUR ACCOUNT SETTINGS IN THE SUBSCRIPTION SECTION. You agree that upon such renewal, the credit card or other designated payment method in your Account Settings will be billed the applicable Subscription Fee for your Subscription Plan then in effect at the time of renewal. If you disagree with these automatic renewal provisions, your sole remedy is to cancel or terminate your Subscription.
+        YOUR SUBSCRIPTION WILL AUTOMATICALLY RENEW AT THE END OF EACH SUBSCRIPTION TERM FOR SUCCESSIVE SUBSCRIPTION TERMS OF THE SAME DURATION AS THE SUBSCRIPTION TERM ORIGINALLY SELECTED UNLESS THE SUBSCRIPTION IS TERMINATED AND/OR CANCELED BY YOU OR FLICKR PRIOR TO THE END OF SUCH SUBSCRIPTION TERM. SUCH RENEWAL WILL OCCUR AUTOMATICALLY ON THE APPLICABLE ANNIVERSARY OF THE COMMENCEMENT DATE. YOU MAY CANCEL YOUR SUBSCRIPTION AT ANY TIME PRIOR TO THE END OF THE SUBSCRIPTION TERM THROUGH YOUR ACCOUNT SETTINGS IN THE SUBSCRIPTION SECTION.
+        
+        You agree that upon such renewal, the credit card or other designated payment method in your Account Settings will be billed the applicable Subscription Fee for your Subscription Plan then in effect at the time of renewal. If you disagree with these automatic renewal provisions, your sole remedy is to cancel or terminate your Subscription.
         
         You acknowledge that the amount of the recurring charge at the time of Subscription renewal may differ from the Subscription Fees you originally paid for the Flickr Pro Services if: (i) the Subscription Fee for your Subscription Plan changes during your applicable Subscription Term, or (ii) if you change your Subscription Plan or Subscription Term during the previous Subscription Term. Flickr will notify you of any changes to the Subscription Fee prior to the date on which your Subscription Term will renew. You hereby agree to any such revised Subscription Fees and your sole remedy if you disagree with such changes is to terminate your account and stop using the Flickr Pro Services.
         
@@ -271,7 +278,7 @@ Our Privacy Policy provides information on how Flickr collects, uses and disclos
         
     6.  Termination of Services
         
-        You may request the termination of your Subscription at any time by canceling your account in the Subscription section of your Account Settings, or by sending an email to https://help.flickr.com providing clear written notice of such request. When Flickr receives your termination request, Flickr will terminate your Subscription and notify you of such termination via email. Flickr may request additional information from you prior to terminating your Subscription. Your Subscription is not terminated until you receive confirmation of such termination from Flickr. If you terminate your Subscription, such termination will be effective at the end of any previously paid Subscription Term. By way of example and not in limitation of the foregoing, if you request the termination of your Subscription and you have two months remaining in your Subscription Term, such termination is effective at the end of the two months remaining in your Subscription Term and you will have access to the Flickr Pro Services for the remaining two months of such Subscription.
+        You may request the termination of your Subscription at any time by canceling your account in the Subscription section of your Account Settings, or by sending a message through https://help.flickr.com/contact providing clear written notice of such request. When Flickr receives your termination request, Flickr will terminate your Subscription and notify you of such termination via email. Flickr may request additional information from you prior to terminating your Subscription. Your Subscription is not terminated until you receive confirmation of such termination from Flickr. If you terminate your Subscription, such termination will be effective at the end of any previously paid Subscription Term. By way of example and not in limitation of the foregoing, if you request the termination of your Subscription and you have two months remaining in your Subscription Term, such termination is effective at the end of the two months remaining in your Subscription Term and you will have access to the Flickr Pro Services for the remaining two months of such Subscription.
         
         Flickr may terminate a Subscription, or any user’s access to and use of the Flickr Pro Services, at any time for any reason at its sole discretion, which such termination will be effective immediately. If you violate the Terms of Use, Flickr at its sole discretion may (i) require you to remedy any violation thereof and/or (ii) take any other actions that Flickr deems appropriate to enforce its rights and pursue available remedies.
         
@@ -309,7 +316,7 @@ Our Privacy Policy provides information on how Flickr collects, uses and disclos
         
     3.  Return Policy
         
-        Flickr unconditionally guarantees your satisfaction with any Products that you purchase through the Services. If you are unsatisfied with any photos, videos or other Products you have purchased from Flickr, we or our Flickr Vendors will gladly accept the return of any Product you have ordered for any reason within thirty (30) days of your receipt of the Product. Upon completion of the return procedure and receipt of the returned Product, we will resend you the Product or issue you a full refund of the purchase price paid for such Product, whichever you prefer. We do not provide refunds for your original shipping cost unless your order is physically defective in some manner. If you are unsatisfied with a Product that is not in a physical medium form (i.e., a photo download), then upon your request, we may issue you a full refund of the purchase price paid for such Product at our discretion depending on the circumstances. To request a refund or replacement for any Product, please contact Flickr at https://help.flickr.com. Please do not contact your credit card company to dispute a charge before contacting Flickr.
+        Flickr unconditionally guarantees your satisfaction with any Products that you purchase through the Services. If you are unsatisfied with any photos, videos or other Products you have purchased from Flickr, we or our Flickr Vendors will gladly accept the return of any Product you have ordered for any reason within thirty (30) days of your receipt of the Product. Upon completion of the return procedure and receipt of the returned Product, we will resend you the Product or issue you a full refund of the purchase price paid for such Product, whichever you prefer. We do not provide refunds for your original shipping cost unless your order is physically defective in some manner. If you are unsatisfied with a Product that is not in a physical medium form (i.e., a photo download), then upon your request, we may issue you a full refund of the purchase price paid for such Product at our discretion depending on the circumstances. To request a refund or replacement for any Product, please contact Flickr through https://help.flickr.com/contact. Please do not contact your credit card company to dispute a charge before contacting Flickr.
         
     4.  Product Availability and Pricing
         
@@ -346,11 +353,9 @@ Our Privacy Policy provides information on how Flickr collects, uses and disclos
 
 Address of Designated Agent
 
-ATTN: Copyright agent
-
 ATTN: Ivan Makarov
 
-SmugMug Inc.
+Flickr, Inc.
 
 Suite 200
 
@@ -358,9 +363,9 @@ Suite 200
 
 Mountain View, CA 94041, USA
 
-Email Address of Designated Agent
+Email Address of Designated Agent: dmca@flickr.com
 
-dmca@flickr.com
+Phone Number of Designated Agent: 650-265-0396
 
 *   About
 *   Jobs
