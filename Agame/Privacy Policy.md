@@ -32,14 +32,14 @@ View more results
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Fireboy and Watergirl 5: Elements
     *   Ono Card Game
-    *   Slippery Water Slides: Aquapark.io
-    *   Subway Clash 3D Remastered
-    *   Stickman Fighter: Epic Battle
-    *   Slotomania
+    *   Pixel Apocalypse
     *   Crowd City
-    *   Fireboy &. Watergirl 3: The Ice Temple
+    *   Stickman Fighter: Epic Battle
     *   Happy Snakes
-    *   Fireboy &. Watergirl 2: The Light Temple
+    *   Wormate.io
+    *   Fireboy &. Watergirl 3: The Ice Temple
+    *   Slotomania
+    *   Gyros.io
 *   Action
     
     Top Categories
@@ -62,18 +62,18 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Kingdom Tower Defense
     *   Snail Bob 8
-    *   Bomb it 7
-    *   Henry Stickman Stealing The Diamond
     *   Bomb It 4
-    *   Apple Shooter: Arrow Game
-    *   Short Life
-    *   Save the Cowboy
-    *   SuperHOT
-    *   Papa's Taco Mia
+    *   Henry Stickman Stealing The Diamond
     *   Tank Trouble 2
+    *   Apple Shooter: Arrow Game
+    *   Save the Cowboy
+    *   Bomb it 7
+    *   Papa's Taco Mia
+    *   Bomb It 6
+    *   Short Life
     *   Papa's Burgeria
+    *   Uphill Rush 7: Waterpark
 *   Adventure
     
     Top Categories
@@ -103,11 +103,11 @@ View more results
     *   The Last Survivors: 2 Player Zombie Game
     *   Mine Clone 4
     *   Rio Rex
-    *   Bob the Robber 5: Temple Adventure
-    *   Vex 4
     *   Adam and Eve 6
-    *   Fireboy and Watergirl 5: Elements
-    *   Dog Simulator: Puppy Craft
+    *   Bob the Robber 5: Temple Adventure
+    *   Adam and Eve 2
+    *   Vex 4
+    *   Escaping the Prison: Stickman Escapist Game
 *   Puzzle
     
     Top Categories
@@ -131,17 +131,17 @@ View more results
     
     Best Games
     *   MahJongCon
+    *   Hotel Professionals
     *   Bubble Shooter
-    *   Operate Now: Stomach Surgery
+    *   Cookie Jam Match 3
+    *   Jewel Jungle
+    *   Logo quiz
     *   Butterfly Kyodai Classic
     *   Troll Face Quest: Horror 2
-    *   1001 Arabian Nights
     *   Money Movers
-    *   Logo quiz
-    *   Hotel Professionals
-    *   Jewel Jungle
     *   TenTrix
-    *   Murder on a Full Moon: Detective Game
+    *   1001 Arabian Nights
+    *   Word Search Ultimate
 *   Girls
     
     Top Categories
@@ -164,18 +164,18 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   My Cool Rain Boots
-    *   Fashion Designer Gala
-    *   Pizza Party: Restaurant Game
-    *   Goldie Princess: Skin Doctor
-    *   Fashionistas: Boho vs Grunge
-    *   Floral Real Life Manicure
+    *   Ellie: Get Ready With Me
     *   Ice Queen Fashion Day
-    *   Hand Skin Doctor
-    *   3D Color by Number
-    *   Extreme Makeover
+    *   Goldie Princess: Skin Doctor
     *   Ladybird: Secret Identity Revealed
-    *   Pink Apartment Makeover
+    *   Floral Real Life Manicure
+    *   Extreme Makeover
+    *   Princess College Fashion
+    *   Mandala Coloring Book
+    *   Shopaholic: Wedding Models
+    *   Love Tester Deluxe 2
+    *   Island Princess: The New Girl in School
+    *   3D Color by Number
 *   Racing
     
     Top Categories
@@ -202,14 +202,14 @@ View more results
     *   Hill Racing Challenge
     *   Super Speed Racer
     *   Cars 3D
-    *   Moto X3m 2
+    *   Thug Racer
     *   Car Challenger: 3D Racing Game
+    *   Moto X3m 2
     *   Neon Biker
-    *   Monster Truck Demolisher
+    *   NY Cab Drive
     *   Happy Wheels
     *   ATV Quad Racing
     *   Scrap Metal 3: Infernal Trap - Driving Game 3D
-    *   NY Cab Drive
 *   Sports
     
     Top Categories
@@ -232,17 +232,17 @@ View more results
     
     Best Games
     *   Penalty Shooters 2: Football Game
-    *   Stunt Skateboard 3D
-    *   Penthouse Pool
-    *   Archery World Tour
-    *   3D Penalty
-    *   India vs England Cricket
-    *   Mini Golf World
     *   Billiard Blitz 2: Pool Table Game
+    *   Stunt Skateboard 3D
+    *   Archery World Tour
+    *   Speedback: American Football Game
+    *   3D Darts
+    *   Extreme Moto Races
+    *   Table Tennis Challenge
+    *   Billiard Blitz Challenge
+    *   Moto X3m 3
+    *   Gear Madness
     *   Ultimate Boxing
-    *   Basketball.io
-    *   Skeet Challenge
-    *   Football Legends 2016
 *   More
     
     *   Multiplayer
