@@ -213,23 +213,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   123456 still a popular password
-    *   The time is now for outsourced security services
-    *   Containing the ripple effect of cloud cyberattacks
-    *   California Consumer Privacy Act: Challenge and Opportunity
-    *   School software vendor Active Network suffers data breach
-    
-    *   2020 Predictions: Cybersecurity Budget
-    *   Cisco ASA and Firepower Appliance seeing increased attacks
-    *   Multiple-malware dropper ‘Legion Loader’ dissected
-    *   UK New Year Honours list mistakenly doxes honorees
-    *   Phishing operation picking on Canadian banks since at least 2017
-    
-    *   2020 Predictions: Cybersecurity Budget
-    *   School software vendor Active Network suffers data breach
-    *   UK New Year Honours list mistakenly doxes honorees
-    *   Wyze Labs data breach exposes 2.4 million, includes PHI
+    *   Rising sea and spam levels? Emotet campaign uses Greta Thunberg as lure
     *   2020 Predictions: Technology
+    *   123456 still a popular password
+    *   Wyze Labs data breach exposes 2.4 million, includes PHI
+    *   Names, Social Security numbers exposed in Moss Adams breach
+    
+    *   Open dark web database exposes info on 267 million Facebook
+    *   Containing the ripple effect of cloud cyberattacks
+    *   Over 100 apps found to serve unwanted ads using 'Soraka' SDK
+    *   Microsoft issues an advisory for a SharePoint vulnerability
+    *   The time is now for outsourced security services
+    
+    *   DHS finds no tampering of Durham County election devices
+    *   Leading people in the times of digital transformation
+    *   2020 Predictions: Cybersecurity Budget
+    *   School software vendor Active Network suffers data breach
+    *   UK New Year Honours list mistakenly doxes honorees
 
 Back to Top
 
@@ -256,7 +256,7 @@ Back to Top
     *   SC Online Events
     *   SC Awards
 
-*   Copyright © 2019 CyberRisk Alliance, LLC All Rights Reserved  
+*   Copyright © 2020 CyberRisk Alliance, LLC All Rights Reserved  
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
