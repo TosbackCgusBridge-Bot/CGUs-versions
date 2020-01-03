@@ -485,8 +485,8 @@ Your Privacy Rights **California Consumers**
 Effective January 1, 2020, the California Consumer Privacy Act of 2018 ("CCPA") gives you certain privacy rights related to your personal information which are in addition to any privacy rights set forth in the Toyota Privacy Statement and Privacy Notice for Connected Services. Please visit the Toyota California Privacy Policy https://www.toyota.com/support/california-privacy for additional information.  
   
 Learn more  
-**Personal Information Sharing Practices for 2018**  
-During 2018, Toyota shared personal information about our customers with specific third parties where the information was used for the recipient's own marketing.  
+**Personal Information Sharing Practices for 2019**  
+During 2019, Toyota shared personal information about our customers with specific third parties where the information was used for the recipient's own marketing.  
   
 Learn more  
 **Toyota Connected Services Privacy and Protection Notice**  
@@ -494,7 +494,7 @@ Your vehicle may be equipped with Connected Services that electronically transmi
   
 Learn more  
 **Toyota Privacy Statement – Summary**  
-This summary of our privacy statement applies to Web sites operated by Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our") (collectively referred to as the "Platforms"). Some of our products and services may have additional terms that apply, such as vehicles equipped with Connected Vehicle Services technologies. Where product- or service-specific terms conflict with this Privacy Statement, those terms shall govern. Last Updated January 1, 2019  
+This summary of our privacy statement applies to Web sites operated by Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our") (collectively referred to as the "Platforms"). Some of our products and services may have additional terms that apply, such as vehicles equipped with Connected Vehicle Services technologies. Where product- or service-specific terms conflict with this Privacy Statement, those terms shall govern. Last Updated January 1, 2020  
 **Information Collected**
 
 *   We collect personal information you choose to provide which may include your name, mailing address, email address, and phone number together with certain demographic information from you in connection with surveys or from commercially available third party services.
@@ -539,7 +539,7 @@ To read our full Privacy Statement click here.
 
 \[Versión en Español\]
 
-UPDATED AS OF: January 1, 2019
+UPDATED AS OF: January 1, 2020
 
 Toyota Motor Sales, U.S.A., Inc. is committed to maintaining your confidence and trust as it relates to the privacy of your information. Please read below and learn how we collect, protect, share and use your information as part of our technology platforms, including, without limitation, our websites, web pages, interactive features, applications, Twitter, Facebook and other social media networks, and mobile applications ("Platforms"). If you are located in the European Economic Area ("EEA"), which includes the European Union ("EU") Member States, Lichtenstein, Iceland, Norway, and for purposes of this Privacy Statement, the United Kingdom, please visit https://www.toyota-europe.com/#/ajax/%2Fsys%2Fe-privacy%2Fsettings, as our Platforms are intended only for consumers located in the United States.
 
@@ -719,9 +719,9 @@ Plano, TX 75025-9001
 
   
 
-**PERSONAL INFORMATION SHARING PRACTICES FOR 2018**  
-(Effective as of January 01, 2019)  
-During 2018, we shared the following types of personal information about our customers with SiriusXM Satellite Radio, Toyota Financial Services and our authorized Toyota dealers where the information was used for the recipient's own marketing:
+**PERSONAL INFORMATION SHARING PRACTICES FOR 2019**  
+(Effective as of January 01, 2020)  
+During 2019, we shared the following types of personal information about our customers with SiriusXM Satellite Radio, Toyota Financial Services and our authorized Toyota dealers where the information was used for the recipient's own marketing:
 
 Name  
 Address  
@@ -750,7 +750,7 @@ Toyota Motor Sales, U.S.A., Inc.
 P.O. Box 259001  
 Plano, TX 75025-9001
 
-Legal Terms _Last Updated Date: January 1, 2019_  
+Legal Terms _Last Updated Date: January 1, 2020_  
   
 
 These Terms of Use (the "Terms") set forth the legally binding terms governing your access to and use of the Toyota family of Web sites, Web pages, interactive features, applications, widgets, blogs and their respective contents and unless otherwise indicated, any other interactive content that links to the Toyota family of Web sites owned and/or operated by Toyota (as defined herein) (collectively, the "Sites"). The Sites are operated by Toyota Motor Sales, U.S.A., Inc. (hereinafter referred to as "Toyota"), and any materials on the Sites are owned by Toyota or its affiliated companies, or licensed by Toyota from third parties and posted on the Sites.
@@ -1400,7 +1400,7 @@ If you have any questions or concerns regarding this California Privacy Policy o
 
 Go
 
-ToyotaProud Mobility Partner SIGN UP FOR TOYOTA UPDATES DO NOT SELL MY PERSONAL DATA Cookie Consent Options Request A Quote Trade-In Value Shopping Tools
+ToyotaProud Mobility Partner SIGN UP FOR TOYOTA UPDATES DO NOT SELL MY PERSONAL INFORMATION Cookie Consent Options Request A Quote Trade-In Value Shopping Tools
 
 *   Trade-In Value
 *   Build Your Toyota
@@ -1466,7 +1466,7 @@ Help
 *   Accessibility
 *   FAQ
 
-DO NOT SELL MY PERSONAL DATA Cookie Consent Options
+DO NOT SELL MY PERSONAL INFORMATION Cookie Consent Options
 
 *   Privacy Policy
 *   California Privacy
@@ -1474,7 +1474,7 @@ DO NOT SELL MY PERSONAL DATA Cookie Consent Options
 *   Site Map
 *   AdChoices
 
-©2019 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.  
+©2020 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.  
 The use of Olympic Marks, Terminology and Imagery is authorized by the U.S. Olympic &. Paralympic Committee pursuant to Title 36 U.S. Code Section 220506.
 
 \[#\] View All Disclosures
