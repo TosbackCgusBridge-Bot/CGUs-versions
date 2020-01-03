@@ -96,6 +96,10 @@ NOTICE TO EU RESIDENTS: Our handling of information about EU residents is govern
 
 Read More in the Full Privacy Policy ↓
 
+NOTICE TO CALIFORNIA RESIDENTS: This notice provides additional information and privacy options for California residents.
+
+Read More in the Full Privacy Policy ↓
+
 **Children**
 
 If you are a parent or guardian, we encourage you to become involved in your children's online experience, and to share your knowledge and experience with your young ones. If you are under 13, please do not register for the NPR Services or provide us with any contact or other information, including your name, address or email address. If you are between the ages of 13 and 18, you must obtain permission from your parent or guardian before registering for the NPR Services or otherwise sending any contact or other information to NPR.
@@ -201,10 +205,6 @@ NOTICE TO EU RESIDENTS: Our handling of information about EU residents is govern
 
 Read More in the Full Privacy Policy ↓
 
-**For California Residents: Your California Privacy Rights**
-
-California residents can request and obtain from us once a year and free of charge a list of all third parties to which NPR has disclosed certain information during the preceding calendar year for the third parties' direct marketing purposes. If you are a California resident and want such a list, please contact us. For all such requests, you must put the statement "Your California Privacy Rights" in the message field of your request, as well as your name, street address, city, state, and zip code. Please note that we will not accept these requests by telephone, mail or fax, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
-
 Full Version of NPR Online Privacy Policy
 
 **Effective Date January 1, 2020**
@@ -212,6 +212,8 @@ Full Version of NPR Online Privacy Policy
 Welcome to the NPR Online Privacy Policy ("Privacy Policy"). This Privacy Policy describes the information National Public Radio, Inc. and its affiliated organizations (owned or controlled by, or under common ownership or control with, National Public Radio, Inc.) (collectively, "NPR," "we" or "us") collect or allow others to collect from you and your computer or device when you use NPR.org or other sites, NPR One or other applications, email newsletters, digital platforms or other interactive services provided by NPR that link to or refer to this Privacy Policy (collectively, the "NPR Services" or "our Services"). This Privacy Policy also explains how that information may be used and shared and the choices you have to limit or prevent certain uses or sharing of that information. Please note that this Privacy Policy does not govern the websites and services of NPR's Member stations, or the websites and services of third parties that may link to or be linked to from the NPR Services.
 
 NOTICE TO EU RESIDENTS: Our handling of information about EU residents is governed by the NPR Privacy Notice for EU Residents, effective May 25, 2018. This Privacy Policy does not apply to EU residents.
+
+NOTICE TO CALIFORNIA RESIDENTS: This notice provides additional information and privacy options for California residents. Learn more about your options here.
 
 By using, registering for, or otherwise accessing our Services, you agree to this Privacy Policy and NPR's Terms of Use and you give your express "opt-in" consent to the collection, use, storage, sharing, transfer, and processing of information about you and your interactions with our Services as explained in this Privacy Policy. If you do not agree to this Privacy Policy or NPR's Terms of Use, please do not use the NPR Services or provide us with your contact or other information.
 
@@ -277,11 +279,11 @@ We and service providers and vendors working on our behalf collect and use infor
 *   To process applications for volunteers for our NPR Ambassador program.
 *   To manage contests you enter.
 *   To contact you for an online survey, or for other editorial purposes.
-*   To recognize you as the same user when you access our Services, content and sponsorship credits using different computers, devices and browsers, and to deliver our Services, content and sponsorship credits to you on different computers, devices and browsers .
+*   To recognize you as the same user when you access our Services, content and sponsorship credits using different computers, devices and browsers, and to deliver our Services, content and sponsorship credits to you on different computers, devices and browsers.
 *   To save and "remember" your registration information, settings and preferences so you do not have to re-enter this information each time you visit.
 *   With your consent where required by applicable law, to send you NPR email newsletters and other communications, including marketing, fundraising, membership and other messages from NPR or our Member stations.
 *   To understand whether and when you read our email messages and click on links in those messages.
-*   To control the sequence and frequency of sponsorship credits you hear and see, control the platform on which you hear and see sponsorship credits, and tailor the content of those messages to your perceived interests .
+*   To control the sequence and frequency of sponsorship credits you hear and see, control the platform on which you hear and see sponsorship credits, and tailor the content of those messages to your perceived interests.
 *   To conduct market or audience analysis and related reporting.
 *   To help us measure and analyze user traffic and usage patterns and improve the quality and effectiveness of our content, features, sponsorship credits, and other communications.
 *   To prevent potentially prohibited or illegal activities, comply with applicable laws, and enforce our Terms of Use or other legal rights.
@@ -378,14 +380,71 @@ The chart below describes how we currently collect, use and share personal infor
 
 Personal information we collect CCPA categories (Definitions are available here)\* Sources from which we may collect the personal Information Purposes for which we may collect and use the personal  
 information Categories of third parties, to which we may  
-disclose the personal information (in addition to our service providers)\*\* -Name  
-\-Contact Information -Identifiers -You -Service delivery  
-\-Research &. development  
-\-Marketing  
-\-Compliance &. Operations -Member stations  
-\-Authorized third-party applications (but not the  
-application developers) -Payment Data -Financial Information -You -Service delivery,  
-\-Compliance &. Operations -None
+disclose the personal information (in addition to our service providers)\*\* •Name  
+•Contact Information •Identifiers •You •Service delivery  
+•Research &. development  
+•Marketing  
+•Compliance &. Operations •Member stations  
+•Payment Data •Financial Information •You •Service delivery  
+•Compliance &. Operations •None •Transaction information •Commercial Information •You  
+•Automatically collected •Service delivery  
+•Research &. development  
+•Marketing  
+•Compliance &. Operations •Member stations •Donation information •Identifiers  
+•Financial Information •You •Service delivery  
+•Research &. development  
+•Marketing  
+•Compliance &. Operations •Member stations •Listening and usage data  
+•Device data  
+•Geolocation  
+•Inferences derived from device data and online activity •Identifiers  
+•Commercial information  
+•Internet or Network Information  
+•Geolocation Data  
+•Inferences •You  
+•Automatically collected •Service delivery  
+•Research &. development  
+•Marketing  
+•Compliance &. Operations •None •Marketing data  
+•Device Data  
+•Inferences derived from device data and online activity •Identifiers  
+•Commercial information  
+•Internet or Network Information  
+•Inferences •You  
+•Automatically collected •Service delivery  
+•Research &. development  
+•Marketing  
+•Compliance &. Operations •Sponsorship vendors  
+•Survey Responses •Identifiers •You •Service delivery  
+•Research &. development  
+•Marketing  
+•Compliance &. Operations •None •Demographic information •Identifiers  
+•Protected Classification Characteristics •You •Research &. development •None \*Although NPR is not subject to the CCPA, we are providing these definitions for your convenience.  
+  
+\*\* Service providers which only use data on our behalf are not third parties under the CCPA.  
+  
+We work with authorized vendors like Google to deliver interest-based sponsorship credits as described above. For information on how you can limit use of your information for interest-based messages, please see your privacy choices.  
+  
+Please note that we may also disclose your personal information to service providers, for legal requirements, to protect our Services and users, or in connection with business transfers.
+
+**Your California Privacy Choices**
+
+We offer California residents the ability to make the requests listed below. However, in certain circumstances we may decline your request, including, but not limited to, circumstances where fulfilling a request may interfere with the exercise of freedom of speech or freedom of the press, journalistic activities, or other rights provided under other applicable laws. If we deny your request, we will communicate our decision to you. We will not penalize you for making a request.
+
+*   **Information**. You can request information about how we have collected, used and shared your personal information during the past 12 months. We have also made this information available to California residents without having to request it by including it in this notice, in the above chart.
+*   **Access**. You can request a copy of the personal information that we maintain about you.
+*   **Deletion**. You can ask us to delete the personal information that we collected or maintain about you.
+*   **List of Third Party Marketers.** Under California's Shine the Light law, NPR users who are California residents may request a notice identifying the categories of personal information that we share with third parties for their own direct marketing purposes, and such third parties' contact information.
+
+**How to Submit a Request**
+
+*   **To request access to or deletion of personal information**:
+
+*   Contact us  
+*   Email privacy@npr.org
+
+*   **Identity verification**. We will need to confirm your identity and California residency to provide a substantive response to your request.
+*   **Authorized agents**. California residents can empower an "authorized agent" to submit requests on their behalf. We will require the authorized agent to have a written authorization confirming that authority.
 
 *   **Facebook**
 *   **Twitter**
