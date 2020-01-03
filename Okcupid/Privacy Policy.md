@@ -99,6 +99,10 @@ EFFECTIVE DATE: May 25, 2018
 14.  HOW TO CONTACT US
     
 
+FOR CALIFORNIA CUSTOMERS
+
+Please see our California Privacy Statement to learn about California privacy rights
+
 1\. WHO WE ARE
 
 If you live in the European Union, the company that is responsible for your information under this Privacy Policy (the “data controller”) is:
@@ -397,7 +401,7 @@ You need to complete your basic info on the mobile app before you can use the de
 *   Support
 *   Blog
 *   Tech Blog
-*   Conservative Dating
+*   Jewish Singles
 *   Privacy Policy
 *   Cookie Policy
 *   Terms and Conditions
