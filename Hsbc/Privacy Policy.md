@@ -4,11 +4,7 @@ Skip to:
 *   Skip toMain content
 *   Skip toFooter
 
-We use cookies
-
-We use cookies to give you the best experience on our website. By continuing to browse the site, you are agreeing to our use of cookies. You can change your cookie settings at any time but if you do, you may lose some functionality. More information can be found in our Terms and conditions, Cookie policy and Privacy notice.
-
-I accept Menu
+Menu
 
 *   Who we are Skip to Our approach Who we are
     
@@ -405,7 +401,7 @@ Download all Remove all
 *   © HSBC Group 2020
 *   Terms and conditions
 *   Privacy notice
-*   Cookie policy
+*   Cookie notice
 *   Accessibility
 *   Online security
 *   Sitemap
@@ -482,3 +478,39 @@ Learn about online security Close Close online banking panel Share
 *   Facebook Share on Facebook Open in new window
 *   Facebook Messenger Share on Facebook Messenger Open in new window
 *   Whatsapp Share on WhatsApp Open in new window
+
+Cookies on this website
+
+We use cookies to help ensure that our website and services are able to function properly. These cookies are necessary and so are set automatically.
+
+We would also like to use some cookies to:
+
+*   Make your visit more personal
+*   Improve our website based on how you use it
+*   Support our advertising online and on social media
+
+These cookies are optional and you can choose which types you’d like to accept. To do this, select ‘Manage cookie settings’.
+
+If you’d like to accept all optional cookies, select ‘Accept all cookies’.
+
+To learn more about how we use cookies, visit our Cookie notice.
+
+Accept all cookies Manage cookie settings Cookies on this website
+
+We use cookies to help ensure that our website and services are able to function properly. These cookies are necessary and so are set automatically.
+
+We would also like to use some cookies to:
+
+*   Make your visit more personal
+*   Improve our website based on how you use it
+*   Support our advertising online and on social media
+
+These cookies are optional and you can choose which types you’d like to accept. To do this, select ‘Manage cookie settings’.
+
+If you’d like to accept all optional cookies, select ‘Accept all cookies’.
+
+To learn more about how we use cookies, visit our Cookie notice.
+
+Accept all cookiesManage cookie settings
+
+Notification appeared: Cookies on this website
