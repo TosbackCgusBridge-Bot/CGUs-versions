@@ -6,7 +6,7 @@ Sign In
 
 Privacy Policy
 
-This Privacy Policy was last updated on 06/26/2019
+This Privacy Policy was last updated on 12/31/2019
 
 Privacy Policy
 
@@ -72,15 +72,14 @@ Sharing of Information Collected by the Site
 
 We may share the information we collect from you with third parties for the following purposes:
 
-*   with affiliates and service providers who work on our behalf including, but not limited to: credit card processing companies to process your payments for goods and services and to verify that your credit card account is valid and active. e-mail service providers to send out e-mails on our behalf. sales partners to sell you our services. data partners to process data on our behalf (e.g., by removing duplicate information from user lists, by analyzing data). and marketing partners who may market our products to you on our behalf and provide analysis of such marketing efforts. These affiliates and service providers will have access to your information as needed to perform their functions on our behalf but we do not permit them to use your information for other purposes. In addition, apart from the circumstances described above, we will not share your credit card information with any third parties without your prior informed consent, although notwithstanding the foregoing, we reserve the right to share with third parties the fact that we have credit card information about you on file;
+*   with affiliates and service providers who work on our behalf including, but not limited to: credit card processing companies to process your payments for goods and services and to verify that your credit card account is valid and active. data partners to process data on our behalf (e.g., by removing duplicate information from user lists, by analyzing data). and marketing partners who may market our products to you on our behalf and provide analysis of such marketing efforts. These affiliates and service providers will have access to your information as needed to perform their functions on our behalf but we do not permit them to use your information for other purposes. In addition, apart from the circumstances described above, we will not share your credit card information with any third parties without your prior informed consent, although notwithstanding the foregoing, we reserve the right to share with third parties the fact that we have credit card information about you on file;
 *   in connection with providing the PeopleSmart Checks, with certain third-party companies (such as data partners) for the sole and exclusive purpose of verifying information applicable to the particular Search Subject. These third-party companies shall be subject to an obligation of confidentiality regarding such information, and shall not themselves store, save, or transfer such information other than as necessary to perform the applicable verification services. We will not share the information of the Search Subjects for any other purpose;
-*   other than Sensitive Information (defined as a credit card number, financial account number, Social Security number, driver’s license number, or credit score), with any third party to send you selected marketing offers. These businesses and third parties may include, but are not limited to: (a) providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression, and validation vendors. (b) e-mail marketers. (c) telemarketers (where permitted by applicable law). (d) text-message-based marketers (where permitted by applicable law). (e) direct marketers. and (f) online advertising networks. While PeopleSmart strongly encourages these third parties to adopt responsible approaches to online marketing, PeopleSmart is not responsible for their information practices, which are governed by their respective privacy policies, which may differ from this Privacy Policy;
 *   to any acquiring entity in connection with any sale, merger, consolidation, change in control, transfer of substantial assets, reorganization, or liquidation of PeopleSmart;
 *   to respond to a subpoena, court order, or legal process served on us or otherwise to comply with the law;
 *   when we believe that disclosure is necessary to protect the rights of PeopleSmart, its parents, subsidiaries, affiliates, joint ventures, or third-party service providers, and each of their respective members, officers, directors, employees, agents, shareholders, co-branders, content licensors, suppliers, contractors, attorneys, and other partners, such as to enforce or apply this Privacy Policy, the Terms and Conditions, and other applicable PeopleSmart agreements and policies. and
 *   to protect the rights, property, or safety of you or others (e.g., by exchanging information with other companies and organizations for fraud protection purposes, by providing information to law enforcement where we believe the Site is being or has been used to commit unlawful acts).
 
-We do not share precise geolocation information (such as collected from your mobile device) with third parties unless you expressly consent to such sharing.
+We do not share precise geolocation information (such as collected from your mobile device) with third parties unless you expressly consent to such sharing (except where in response to a valid subpoena or the like).
 
 In addition, we may share aggregate reports comprised of the demographic, usage, and/or other characteristics of our Visitors as a group, which will never identify you personally, with third parties.
 
@@ -134,6 +133,67 @@ P.O. Box 105168
 Atlanta, GA 30348-5168
 
 All communications with us or our authorized agents may be monitored or recorded.
+
+Notice for California Residents
+
+In addition to the above, the following, intended solely for California residents, concerns our handling of certain personally identifiable and/or personal information as required by the California Online Privacy Protection Act and the California Consumer Privacy Act (collectively, "CCPA"). If you are a California resident, you may have additional rights where some of your "Public" and "Personal" information is concerned. If applicable, you may have the right to request that we disclose to you categories and specific pieces of Public information we may have obtained from public data sources and Personal information we may have collected directly from you, if any, and delete such, where required. Please note that we never sell Personal information obtained from you under any circumstances.
+
+Categories of personal information we obtain, collect and/or disclose for business purposes:
+
+Various methods for submitting requests are referenced above, as well as the specific types of Public information we obtain from publicly available data sources and/or Personal information we collect directly from our users. Per CCPA, in response to verified requests for disclosure, we will provide those "categories" of information we obtain or collect. The categories we have obtained or directly collected are: identifiers (such as name, address, email address). general geolocation information (e.g., your city and state). and/or other information that identifies or can be reasonably associated with you. We may disclose these categories of information about you or your use of the Site for business purposes (as defined by applicable law) or as required by applicable law.
+
+How categories of Personal information could be used:
+
+We and our service providers may use the categories of Personal information we collect from and about you consistent with the various aforedescribed business purposes and/or as required by law. Please see the relevant sections above for more information.
+
+Sale of Public information:
+
+CCPA sets forth certain obligations for businesses that “sell” personal information. We do not sell Personal information obtained from our site's visitors or subscribers, such as a name or email address provided when subscribing to our Site (unless such information happens to also be publicly available "Public" information that was NOT obtained from such visitors or subscribers but was instead obtained from publicly available data sources independent of anything visitors or subscribers may have provided us). As permitted by law and CCPA regulatory guidance, we may need to share certain limited information about your activity, for example through cookies (see above), with third parties in certain instances--you can control these cookies through browser settings--but this limited sharing would not constitute a sale of Personal information.
+
+Non-discrimination for exercising your rights:
+
+In addition to including information as to how you can exercise your rights under CCPA, please note that we will never discriminate against you for exercising your CCPA or any other rights. We will not deny you any access or service, charge you a different price, whether via a discount or other benefit, or impose fees or penalties, provide a different level of service, or the like (though CCPA permits such practices in some scenarios). CCPA permits companies to offer certain incentives that might result in different prices, rates or quality levels, but any CCPA-permitted financial incentive should reasonably relate to your information’s value and contain written terms that describe the program’s material aspects and participation in any such financial incentive program requires your prior opt-in consent, which you may revoke at any time. We do not engage in any such practices.
+
+Authorized Agents:
+
+You may authorize another person to submit a request on your behalf. Please note that before completing any requests, and in addition to our identification verification process, we are required to verify that your agent has been properly authorized to request information on your behalf and this may take additional time to fulfill your request.
+
+Upon receipt of a verifiable request, CCPA provides some California residents with such additional rights as follows:
+
+Right to Know. You may have the right to know and see the categories of data we have obtained, collected or shared about you over the past 12 months (or if we have not done so), including:
+
+*   the categories of Personal information we collected about you, or disclosed about you for a business purpose.
+*   the categories of sources from which the personal information is collected.
+*   the business or commercial purpose for collecting, obtaining or selling your personal information.
+*   the categories of third parties with whom we have shared your personal information. and
+*   the specific items of Personal information we have collected or Public information we have obtained about you.
+
+To begin your Right-to-Know request, please email us at ccpa@beenverified.com or contact us via the phone number or postal address listed above. We will respond within 10 days of receipt with instructions for continuing your Right-to-know request, including any additional information needed concerning yourself so that we may search for applicable Personal information collected or Public information obtained that pertains to You. The information you provide must sufficiently match the information in our database to permit us to verify your request. An authorized agent may also make a request on your behalf.
+
+We will endeavor to respond to a verifiable consumer request within forty-five days of receipt. If we require more time (up to 90 days), we will inform you of the reason and extension period in writing.
+
+Right to Delete. You may have the right to request that we delete information we have obtained regarding, or collected directly from, you (and ask our service providers to do the same). However, we cannot delete Personal information that we are under a legal obligation to maintain and there are a number of other exceptions that include, but are not limited to, when the information is necessary for us or a third party to do any of the following:
+
+*   complete and process your transaction.
+*   provide you with a product or service.
+*   perform a contract between us and you.
+*   protect your security and prosecute those responsible for breaching it.
+*   fix our system in the case of a bug.
+*   protect your or other users’ free speech rights.
+*   comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et seq.).
+*   engage in public/peer-reviewed research in the public interest, adhering to all applicable ethics and privacy laws.
+*   comply with a legal obligation. or
+*   make other internal and lawful uses of information compatible with the context in which you provided it.
+
+To begin your Right-to-Delete request, please email us at ccpa@beenverified.com or contact us via the phone number or postal address listed above.
+
+Right to ask us not to sell (also known as the right to opt-out).
+
+As explained above, we do not sell Personal information obtained from our site's visitors or subscribers, such as a name or email address provided when subscribing to our Site (unless such information happens to also be publicly available "Public" information that was NOT obtained from such visitors or subscribers but was instead obtained from publicly available data sources independent of anything visitors or subscribers may have provided us). As for the Public information obtained from publicly available data sources, for many years now, we have accommodated requests to opt-out/not to sell/share such information, which can be done in various locations on the Site. For your convenience, you may also email us at ccpa@beenverified.com or contact us via the phone number or postal address listed above to request that we not sell and opt-out your Public information. While we will not sell such Public information that has been opted-out, we reserve the right to disclose Public information to third parties, without notice to you, if required to do so by law, or if we have a good faith belief that disclosure is necessary to (i) act in an emergency to protect someone’s safety. (ii) comply with legal process served on us. or (iii) protect and defend our rights or property. We also reserve the right to transfer Public information to any successor-in-interest to our business.
+
+In summary:
+
+At no cost, you may request information each year regarding any disclosure of your Public or Personal information to third parties for their own direct marketing purposes during the preceding calendar year. You have the right not to be discriminated against for exercising any of the rights listed above. To request access to or deletion of your information, or to exercise any other data rights under California law, please contact us using one of the methods set forth above.
 
 Manage Your Listing Help Center Terms of Use Privacy Policy Opt-Out Policy FCRA Regulations Contact Us Sitemap Explore Find People Court Records Criminal Records County Records Privacy Education Members Help Sitemap Opt Out
 
