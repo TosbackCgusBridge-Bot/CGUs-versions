@@ -68,7 +68,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 576 9296 1 855 576 9296
+    1 855 338 7207 1 855 338 7207
     
 
 *   Solutions By Function
@@ -141,7 +141,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 576 9296 1 855 576 9296
+    1 855 338 7207 1 855 338 7207
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
@@ -555,7 +555,7 @@ Nevada law requires us to provide certain Nevada consumers the ability to opt ou
 
 How to Contact Us
 
-Questions, comments and requests regarding this Privacy Notice should be addressed to our Data Protection Office through the following means:  
+Questions, comments and requests regarding this Privacy Policy should be addressed to our Data Protection Office through the following means:  
 
 Global Data Protection Office  
 Legal Department  
