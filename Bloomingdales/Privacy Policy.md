@@ -484,7 +484,7 @@ Does this answer your question? Yes No s
 
 *   Highlights of Bloomingdale’s Notice of Privacy Practices
 *   What is the return and exchange policy?
-*   Terms of Use
+*   BLM Terms of Use
 *   Product Recalls
 *   What is the shipping policy?
 
