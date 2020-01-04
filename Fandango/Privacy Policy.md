@@ -63,7 +63,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   10 Amazing Fun Facts: ‘The Polar Express’ Read More
+    *   The Week in Movie Trailers: ‘A Quiet Place Part II,’ ‘Gretel &. Hansel,’ ‘Never Rarely Sometimes Always’ and More Read More
     *   A Fantabulous ‘Birds of Prey’ Character Guide Read More
     *   The Most Anticipated Movies of 2020 Are Directed by Women Read More
     
@@ -504,7 +504,7 @@ Offers
     
     Buy tickets. Earn points. Get a $5 reward for a movie on us. BUY TICKETS
     
-*   Binge All The Golden Globes Nominees With FandangoNOW
+*   Binge All The Golden Globe Nominees With FandangoNOW
     
     Catch up with titles at home or those still in theaters! WATCH NOW
     
@@ -550,7 +550,7 @@ Follow Us
 *   Fandango on Instagram
 *   Fandango on Youtube
 
-Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help Feedback My Fandango Live Chat
+Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help My Fandango Live Chat
 
 *   About Fandango
 *   Careers
