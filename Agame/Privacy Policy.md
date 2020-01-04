@@ -31,15 +31,15 @@ View more results
     *   Fireboy and Watergirl: The Forest Temple
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Fireboy and Watergirl 5: Elements
+    *   Rising Cities
     *   Ono Card Game
-    *   Pixel Apocalypse
-    *   Crowd City
-    *   Stickman Fighter: Epic Battle
-    *   Happy Snakes
-    *   Wormate.io
-    *   Fireboy &. Watergirl 3: The Ice Temple
-    *   Slotomania
     *   Gyros.io
+    *   Pixel Apocalypse
+    *   Wormate.io
+    *   Crowd City
+    *   KOGAMA: Sky Land
+    *   Stickman Fighter: Epic Battle
+    *   Fireboy &. Watergirl 3: The Ice Temple
 *   Action
     
     Top Categories
@@ -62,18 +62,18 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Snail Bob 8
-    *   Bomb It 4
-    *   Henry Stickman Stealing The Diamond
-    *   Tank Trouble 2
-    *   Apple Shooter: Arrow Game
-    *   Save the Cowboy
-    *   Bomb it 7
-    *   Papa's Taco Mia
+    *   Jinx 2
     *   Bomb It 6
-    *   Short Life
-    *   Papa's Burgeria
+    *   Conquer Antartica
+    *   Afghan Survival: Army Shooting Game
+    *   Apple Shooter: Arrow Game
+    *   Super Buddy Kick
+    *   Combat Strike 2: 3D Shooting Game Online Multiplayer
+    *   Miami Crime Simulator 3D
+    *   Papa Louie 3: When Sundaes Attack
     *   Uphill Rush 7: Waterpark
+    *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
+    *   Murder
 *   Adventure
     
     Top Categories
@@ -102,12 +102,12 @@ View more results
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   The Last Survivors: 2 Player Zombie Game
     *   Mine Clone 4
-    *   Rio Rex
-    *   Adam and Eve 6
-    *   Bob the Robber 5: Temple Adventure
+    *   World Crafts
     *   Adam and Eve 2
-    *   Vex 4
+    *   Rio Rex
     *   Escaping the Prison: Stickman Escapist Game
+    *   Vex 4
+    *   Dog Simulator: Puppy Craft
 *   Puzzle
     
     Top Categories
@@ -131,17 +131,17 @@ View more results
     
     Best Games
     *   MahJongCon
-    *   Hotel Professionals
     *   Bubble Shooter
     *   Cookie Jam Match 3
-    *   Jewel Jungle
-    *   Logo quiz
+    *   Medieval Castle: Hidden Pieces
+    *   Pirates and Treasures
     *   Butterfly Kyodai Classic
-    *   Troll Face Quest: Horror 2
+    *   1010 Animals
     *   Money Movers
-    *   TenTrix
-    *   1001 Arabian Nights
+    *   Bob the Robber 2
     *   Word Search Ultimate
+    *   Troll Face Quest: Horror 2
+    *   TenTrix
 *   Girls
     
     Top Categories
@@ -165,17 +165,17 @@ View more results
     
     Best Games
     *   Ellie: Get Ready With Me
-    *   Ice Queen Fashion Day
+    *   Island Princess: The New Girl in School
+    *   Princess Gala Host: Fashion Game
     *   Goldie Princess: Skin Doctor
-    *   Ladybird: Secret Identity Revealed
     *   Floral Real Life Manicure
     *   Extreme Makeover
-    *   Princess College Fashion
     *   Mandala Coloring Book
-    *   Shopaholic: Wedding Models
+    *   Princesses Back To School
     *   Love Tester Deluxe 2
-    *   Island Princess: The New Girl in School
-    *   3D Color by Number
+    *   Princesses: Love Crush
+    *   Ellie Love Trouble: Kissing Game
+    *   Villain Princess
 *   Racing
     
     Top Categories
@@ -203,13 +203,13 @@ View more results
     *   Super Speed Racer
     *   Cars 3D
     *   Thug Racer
-    *   Car Challenger: 3D Racing Game
     *   Moto X3m 2
+    *   Car Challenger: 3D Racing Game
     *   Neon Biker
+    *   Moto X3M 5: Pool Party
     *   NY Cab Drive
     *   Happy Wheels
-    *   ATV Quad Racing
-    *   Scrap Metal 3: Infernal Trap - Driving Game 3D
+    *   Russian Car Driver
 *   Sports
     
     Top Categories
@@ -232,17 +232,17 @@ View more results
     
     Best Games
     *   Penalty Shooters 2: Football Game
-    *   Billiard Blitz 2: Pool Table Game
-    *   Stunt Skateboard 3D
     *   Archery World Tour
-    *   Speedback: American Football Game
+    *   Stunt Skateboard 3D
     *   3D Darts
     *   Extreme Moto Races
     *   Table Tennis Challenge
-    *   Billiard Blitz Challenge
     *   Moto X3m 3
     *   Gear Madness
-    *   Ultimate Boxing
+    *   Billiard Blitz Challenge
+    *   Penalty Shooters
+    *   Speedback: American Football Game
+    *   Table Tennis Pro
 *   More
     
     *   Multiplayer
