@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Select Girls’ KanCan Signature Jeans are now 15% off. Shop Now
+Double up on savings! Get an extra 33% off, or 50% off!
 
 *   Women
 *   Men
