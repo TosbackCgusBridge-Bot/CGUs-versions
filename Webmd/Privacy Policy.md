@@ -107,7 +107,7 @@ Skip to main content
     *   View All
     
     Featured Topics*   Slideshow Smart Snacks When You're Pregnant
-    *   Quiz How Can You Avoid Homework Stress?
+    *   Slideshow Surprising Things You Didn't Know About Dogs and Cats
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
@@ -382,7 +382,11 @@ Last updated on December 31, 2019 © 2019 WebMD, LLC. All rights reserved. Today
 
 Some of these might surprise you.
 
-Depressed, Guilty Feelings After Eating?
+Sponsor Content If You Have Toenail Fungus, Do This Immediately (Genius!)
+
+Simple Way To Reduce Toenail Fungus (Watch)
+
+By Clear Nail Plus Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
