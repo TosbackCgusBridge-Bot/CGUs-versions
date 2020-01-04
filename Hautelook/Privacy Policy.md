@@ -9,16 +9,35 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
+    *   ASICS
+    *   ASICS Men
+    *   True Religion Up to 65% Off
+    *   Beyond Yoga &. More Starting at $20
+    *   Travel Checklist: Maxi Dresses, Rompers &. More
+    *   Sport at the Resort: Billabong &. O'Neill
+    *   Ski Season: Goggles &. More Up to 70% Off
+    *   Jump into 2020: Jumpsuits
+    *   Resort Essentials: Swim &. Cover-Ups
+    *   Lush Starting at $20
+    *   Boots for All Up to 60% Off
+    *   On the Go: Fanny Packs from $15
+    *   Stack It Up: Eternity Rings &. More
+    *   PYT Hot Tools &. More Up to 90% Off
+    *   Pet Accessories We Love
+    *   Kitchen Essentials: Appliances &. More from $20
+    *   ASICS Kids
+    *   On the Go: Kids' Activewear Under $20
+    *   Levi's Kids Up to 55% Off
     *   UGG
     *   UGG Men
     *   UGG Kids
+    
     *   UGG Accessories
-    *   UGG Sleep &. Lounge
     *   UGG Men's Lounge &. More
     *   New on HauteLook: Furla Sun &. More
+    *   UGG Sleep &. Lounge
     *   Skinny Denim Under $40
     *   Great Lengths: Midi Dresses Under $60
-    *   Lush Starting at $20
     *   Skinn Cosmetics Up to 55% Off
     *   The Perfect Layer: Men's Hoodies
     *   Fit to Print: Graphic Tees
@@ -26,126 +45,95 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Cargo Cosmetics
     *   Etnies Men
     *   Play All Day: Imaginative Toys ft. Mattel
-    *   One-Stop Sweater Shop Incl. Plus &. Petites
     *   Shiseido Ginza Tokyo Up to 45% Off
-    *   Wear-to-Work Shoes Up to 50% Off ft. Franco Sarto
-    *   Perfect Pairs: Pants Under $30
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   New Year, New You: Men's Brands We Love
     *   Jenny Bird Jewelry Up to 80% Off
-    *   New Year, New Trends: Emperia Bags Under $40
-    
-    *   Parkas &. Puffers Up to 65% Off Incl. Plus
-    *   Winter Wonders: Long Sleeve Tops &. Blouses
-    *   Nordstrom Rack Exclusives Incl. Plus &. Petites
-    *   Step Boldly into 2020: Animal Print Shoes &. More
-    *   Get Now, Wear Now: Boots for Every Look
-    *   Trending Now: Lifestyle Sneakers &. Slip-Ons
-    *   New Year, New You: Travel Gear
     *   Hawke &. Co. Footwear Up to 70% Off
     *   Glam with an Edge: Decor by Interior Illusions
     *   New Year, New You: Men's Boots Starting at $50
     *   JOE'S Jeans Kids Up to 55% Off
     *   Jessica Simpson Girls Up to 60% Off
+    
     *   New Year, New Plans: Calendars &. Planners
     *   Luxe Throws &. Bedding Up to 50% Off
     *   Luxe Home Scents ft. Portofino Candles
-    *   Hawke &. Co. Men's Outerwear &. More Up to 70% Off
     *   Under $100: Eyewear from Persol &. More
     *   Rustic Home Decor Up to 50% Off
     *   Storage for Every Room from $25
-    *   National Geographic Kids
     *   Motion Sensor Trash Cans from $20
-    *   Lafonn Simulated Diamond Jewelry Up to 65% Off
     *   Work Ready: Men's Loafers, Oxfords &. More
-    *   Petit Lem &. More Under $20
     *   Smart Watch Bands, Earbud Cases &. More
-    
-    *   Lacoste Men's Shoes
     *   KareCo: Salon-Quality Hair Tools &. Accessories
     *   Premier Luxury Skin Care
     *   Find the Perfect Piece: The Art Shop
     *   Beach Ready: Towels Up to 65% Off
-    *   The Active Shop: Leggings &. More Up to 60% Off
-    *   The Active Shop: Luxe Layers Up to 60% Off
-    *   The Active Shop: Women's Sneakers ft. Brooks
-    *   The Active Shop: Bras, Tanks &. Tees Up to 60% Off
-    *   The Men's Active Shop: Sneakers ft. Brooks
-    *   The Kids' Active Shop: Champion, New Balance &. More
-    *   Winter Style: Men's Henleys &. Flannels
     *   Dr. Hauschka: Natural &. Organic Makeup
     *   Holiday Storage &. Organization
-    *   D24K by D'OR Skin Care
     *   Free Shipping: Hand-Painted Replicas
     *   Kitchen Essentials Up to 50% Off
     *   Wall Decals &. More from $15
-    *   The Men's Active Shop: Champion, Reebok &. More
+    *   One-Stop Sweater Shop Incl. Plus &. Petites
+    *   Parkas &. Puffers Up to 65% Off Incl. Plus
+    *   New Year, New You: Travel Gear
     *   Cozy Throws Up to 60% Off
-    *   UGG Home: Throws, Pillows &. More
-    *   Look on the Bright Side: Lighting for Every Room
-    *   Make Memories: Instax Mini Cameras &. Film
 *   WomenShop Sale Events
     
+    *   ASICS
+    *   Beyond Yoga &. More Starting at $20
+    *   Travel Checklist: Maxi Dresses, Rompers &. More
+    *   Sport at the Resort: Billabong &. O'Neill
+    *   Ski Season: Goggles &. More Up to 70% Off
+    *   Jump into 2020: Jumpsuits
+    *   Resort Essentials: Swim &. Cover-Ups
+    *   Lush Starting at $20
+    *   Boots for All Up to 60% Off
+    *   On the Go: Fanny Packs from $15
+    *   Stack It Up: Eternity Rings &. More
+    *   PYT Hot Tools &. More Up to 90% Off
     *   UGG
     *   UGG Accessories
-    *   UGG Sleep &. Lounge
     *   New on HauteLook: Furla Sun &. More
+    
+    *   UGG Sleep &. Lounge
     *   Skinny Denim Under $40
     *   Great Lengths: Midi Dresses Under $60
-    *   Lush Starting at $20
     *   Skinn Cosmetics Up to 55% Off
     *   Fit to Print: Graphic Tees
     *   Cargo Cosmetics
-    *   One-Stop Sweater Shop Incl. Plus &. Petites
     *   Shiseido Ginza Tokyo Up to 45% Off
-    *   Wear-to-Work Shoes Up to 50% Off ft. Franco Sarto
-    *   Perfect Pairs: Pants Under $30
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Jenny Bird Jewelry Up to 80% Off
-    *   New Year, New Trends: Emperia Bags Under $40
-    
-    *   Parkas &. Puffers Up to 65% Off Incl. Plus
-    *   Winter Wonders: Long Sleeve Tops &. Blouses
-    *   Nordstrom Rack Exclusives Incl. Plus &. Petites
-    *   Step Boldly into 2020: Animal Print Shoes &. More
-    *   Get Now, Wear Now: Boots for Every Look
-    *   Trending Now: Lifestyle Sneakers &. Slip-Ons
-    *   New Year, New You: Travel Gear
-    *   Lafonn Simulated Diamond Jewelry Up to 65% Off
     *   KareCo: Salon-Quality Hair Tools &. Accessories
     *   Premier Luxury Skin Care
-    *   The Active Shop: Leggings &. More Up to 60% Off
-    *   The Active Shop: Luxe Layers Up to 60% Off
-    *   The Active Shop: Women's Sneakers ft. Brooks
-    *   The Active Shop: Bras, Tanks &. Tees Up to 60% Off
     *   Dr. Hauschka: Natural &. Organic Makeup
-    *   D24K by D'OR Skin Care
+    *   One-Stop Sweater Shop Incl. Plus &. Petites
+    *   Parkas &. Puffers Up to 65% Off Incl. Plus
+    *   New Year, New You: Travel Gear
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Lingerie &. Shapewear
     *   Accessories
     *   Handbags
+    *   Lingerie &. Shapewear
 *   MenShop Sale Events
     
+    *   ASICS Men
+    *   True Religion Up to 65% Off
+    *   Ski Season: Goggles &. More Up to 70% Off
     *   UGG Men
     *   UGG Men's Lounge &. More
     *   The Perfect Layer: Men's Hoodies
     *   Etnies Men
+    
     *   New Year, New You: Men's Brands We Love
-    *   New Year, New You: Travel Gear
     *   Hawke &. Co. Footwear Up to 70% Off
     *   New Year, New You: Men's Boots Starting at $50
-    
-    *   Hawke &. Co. Men's Outerwear &. More Up to 70% Off
     *   Under $100: Eyewear from Persol &. More
     *   Work Ready: Men's Loafers, Oxfords &. More
-    *   Lacoste Men's Shoes
-    *   The Men's Active Shop: Sneakers ft. Brooks
-    *   Winter Style: Men's Henleys &. Flannels
-    *   The Men's Active Shop: Champion, Reebok &. More
+    *   New Year, New You: Travel Gear
     
     Shop By Category
     *   Clothing
@@ -153,26 +141,28 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Accessories
 *   KidsShop Sale Events
     
+    *   ASICS Kids
+    *   On the Go: Kids' Activewear Under $20
+    *   Levi's Kids Up to 55% Off
     *   UGG Kids
     *   Play All Day: Imaginative Toys ft. Mattel
     *   JOE'S Jeans Kids Up to 55% Off
     *   Jessica Simpson Girls Up to 60% Off
-    *   National Geographic Kids
-    *   Petit Lem &. More Under $20
-    *   The Kids' Active Shop: Champion, New Balance &. More
     
     Shop By Category
-    *   Toy Shop
     *   Girls' Sizes 2T-6X
+    *   Toy Shop
     *   Girls' Sizes 7-16
     *   Boys' Sizes 2T-7
     *   Girls' Shoes
-    *   Boys' Shoes
-    *   Boys' Sizes 8-20
     *   Baby Girl
+    *   Boys' Sizes 8-20
+    *   Boys' Shoes
     *   Baby Boy
 *   HomeShop Sale Events
     
+    *   Pet Accessories We Love
+    *   Kitchen Essentials: Appliances &. More from $20
     *   Home Decor Best Sellers Up to 50% Off
     *   Glam with an Edge: Decor by Interior Illusions
     *   New Year, New Plans: Calendars &. Planners
@@ -180,19 +170,16 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Luxe Home Scents ft. Portofino Candles
     *   Rustic Home Decor Up to 50% Off
     *   Storage for Every Room from $25
+    
     *   Motion Sensor Trash Cans from $20
     *   Smart Watch Bands, Earbud Cases &. More
     *   Find the Perfect Piece: The Art Shop
-    
     *   Beach Ready: Towels Up to 65% Off
     *   Holiday Storage &. Organization
     *   Free Shipping: Hand-Painted Replicas
     *   Kitchen Essentials Up to 50% Off
     *   Wall Decals &. More from $15
     *   Cozy Throws Up to 60% Off
-    *   UGG Home: Throws, Pillows &. More
-    *   Look on the Bright Side: Lighting for Every Room
-    *   Make Memories: Instax Mini Cameras &. Film
     
     Shop By Category
     *   Home Decor
@@ -200,14 +187,16 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Luggage &. Travel
     *   Outdoor Living
     *   Bath
-    *   Cleaning &. Organization
     *   Kitchen &. Tabletop
+    *   Cleaning &. Organization
+    *   Pet Accessories
     *   Holiday Decorations
-    *   Bedding
     *   Accent Furniture
+    *   Bedding
     *   Rugs &. Doormats
 *   BeautyShop Sale Events
     
+    *   PYT Hot Tools &. More Up to 90% Off
     *   Skinn Cosmetics Up to 55% Off
     *   Cargo Cosmetics
     *   Shiseido Ginza Tokyo Up to 45% Off
@@ -215,12 +204,11 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   KareCo: Salon-Quality Hair Tools &. Accessories
     *   Premier Luxury Skin Care
     *   Dr. Hauschka: Natural &. Organic Makeup
-    *   D24K by D'OR Skin Care
     
     Shop By Category
     *   Makeup
-    *   Skin Care
     *   Hair Care
+    *   Skin Care
     *   Fragrance
     *   Tools &. Accessories
     *   Bath &. Body
