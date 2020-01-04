@@ -1,6 +1,6 @@
 Privacy Statement SLASHDOT MEDIA PRIVACY POLICY
 
-**Last Updated:  December 23, 2019**
+**Last Updated:  January 06, 2020**
 
 At Slashdot Media LLC (“Slashdot Media,” “Slashdot,” “we,” “us” or “our”) we take your privacy and the security of your information very seriously.
 
@@ -12,7 +12,7 @@ If you have any questions regarding this Policy please contact us at privacy@sla
 
 The Policy describes the types of information we gather from people visiting our Site and/or using our Services and from individual users (“you” or “users”) interacting with our Site and Services and how we use, transfer, and secure such information. By accessing any Site or using any Services, you agree to be bound by this Policy. This Policy does not govern information we receive from third parties. If you do not agree to the terms of this Policy, please do not use the Site, or any of our Services. Each time you use any Site, or any Services, the current version of this Privacy Policy will apply. Accordingly, when you use any Site or Services, you should check the date of this Policy (which appears at the top) and review any changes since you last reviewed the Policy.
 
-We encourage you to re We may also share your Personal Informationview the entire Policy. Please click on any of the links below to review that particular section.
+We encourage you to review the entire Policy. Please click on any of the links below to review that particular section.
 
 1.  The information we gather
     
@@ -44,22 +44,6 @@ We encourage you to re We may also share your Personal Informationview the entir
     
 15.  Questions?
     
-
-**Privacy Shield Framework and Related Information**
-
-Slashdot complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Data. For purposes of this Policy, “Personal Data” means information that (i) is transferred from the EU to the United States, (ii) is recorded in any form, (iii) is about, or relates to, an identified or identifiable individual, and (iv) can be linked to that individual. Slashdot has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. \[https://www.privacyshield.gov/list\]
-
-Slashdot is responsible for the processing of Personal Data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Slashdot complies with the Privacy Shield Principles for all onward transfers of Personal Data from the EU, including the onward transfer liability provisions.
-
-With respect to Personal Data received or transferred pursuant to the Privacy Shield Framework, Slashdot is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Slashdot may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-
-In compliance with the Privacy Shield Principles, Slashdot commits to resolve complaints about our collection or use of your Personal Data. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Slashdot at: Slashdot Media LLC, PO Box 2452, La Jolla, CA 92038 or email us at privacy@slashdotmedia.com.
-
-Further, we require service providers to whom we disclose Personal Data and who are not subject to laws based on the European Union General Data Protection Regulation to either subscribe to the United States / European Union Privacy Shield principles or agree to provide at least the same level of protection for Personal Data as is required by the relevant Privacy Shield principles, for instance by entering into Standard Contractual Clauses, as promulgated by the European Commission. If the third party does not comply with its privacy obligations, Slashdot will take commercially reasonable steps to prevent or stop the use or disclosure of Personal Data.
-
-Slashdot has further committed to refer unresolved Privacy Shield complaints to European Data Protection Authorities (EU DPAs) or the Swiss Federal Data Protection and Information Commissioner (FDPIC), alternative dispute resolution providers located in each EU country or Switzerland, respectively. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit the DPA in your country (find a EU list here and a Swiss list here) for more information or to file a complaint. The services of EU and Swiss DPAs are provided at no cost to you.
-
-Under certain conditions, more fully described on the Privacy Shield website \[https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint\], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 **A. The information we gather**
 
@@ -239,8 +223,6 @@ Canadian citizens, except under circumstances defined by law, are entitled to ac
 
 **L. EEA Rights under the GDPR**
 
-Users who are resident in the European Economic Area (EEA) have additional rights under the General Data Protection Regulation (GDPR) and applicable law. EEA users benefit from our certification to Privacy Shield, which is described at the beginning of this Privacy Policy.  
-
 To make this section more reader-friendly, we use everyday words such as use, transfer and storage to describe what we do with your Personal Information – but this Notice covers processing of any kind that is subject to EEA data protection law.
 
 Slashdot processes Personal Information as a “processor,” “joint controller,” and as a “controller” under the European Union’s General Data Protection Regulation. A “controller” is an entity that determines the purposes for which and the manner in which any personal information is processed. Any third parties that act as our service providers are “data processors” that handle your Personal Information in accordance with our instructions. With respect to your Personal Information that you enter or that is received through our Sites, Slashdot is the controller.
@@ -274,9 +256,9 @@ Slashdot processes Personal Information as a “processor,” “joint controlle
 
 **Who will receive your Personal Information**: See “How we share information we gather’.  
 
-**Data transfers to third countries**:  We provide our Sites and related services from the USA and may use service providers in various countries that do not provide the same level of data protection as is in your country. Any Personal Information that we share is subject to the requirements of Privacy Shield or an appropriate alternative mechanism that provides adequate protection, such as model clauses, and we require third parties to provide appropriate contractual commitments to treat your Personal Information in accordance with our “onward transfers” obligations under Privacy Shield where relevant.  
+**Data transfers to third countries**:  We provide our Sites and related services from the USA and may use service providers in various countries that do not provide the same level of data protection as is in your country.
 
-**Complaints**: You have the right to make complaints per our process under Privacy Shield.  You may also make a complaint under the GDPR to your local data protection authority.  Our e-mail address for complaints, requests or questions relating to this Privacy Notice is privacy@slashdotmedia.com
+**Complaints**: You have the right to make a complaint under the GDPR to your local data protection authority. Our e-mail address for complaints, requests or questions relating to this Privacy Notice is privacy@slashdotmedia.com
 
 Finally, we want to make it clear that nothing in this section is intended to limit any other right that applies to you under any other section of this Privacy Policy.
 
