@@ -22,16 +22,16 @@ Shop Departments
 
 Near YouFind a StoreBackCOOKWARE BLENDERS &. JUICERS AIR FRYERS PRESSURE COOKERS SHEETS MATTRESS PADS PILLOWSMATTRESSES Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 21 total items loaded in Media GalleryFollow @jcpenney SHOP NOWHOLIDAY DECOR, SLEEPWEAR, OUTERWEAR AND SWEATERS Recommended for You
 
-*   $483after couponwas $38 City Streets 3/4 Sleeve Holiday Swing Dresses(37)
+*   $483 - $806after couponwas $38 City Streets 3/4 Sleeve Holiday Swing Dresses(41)
 *   SPECIAL DEAL!
     
-    $1699after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(117)
+    $1699after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(122)
 *   $12498
     
-    LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(74)
-*   $2549after couponwas $70 a.n.a Womens Alford Stacked Heel Motorcycle Boots(77)
-*   $169 - $1444after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(463)
-*   $815after couponwas $32 Stafford Mens Microfleece Pajama Pants(99)
+    LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(77)
+*   $169 - $1444after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(470)
+*   $815after couponwas $32 Stafford Mens Microfleece Pajama Pants(103)
+*   $832after couponwas $49 North Pole Trading Co. Buffalo Plaid Family Mens 2-pc. Pant Pajama Set(4)
 
 Shop and Save at JCPenney
 
