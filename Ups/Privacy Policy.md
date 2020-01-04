@@ -75,11 +75,11 @@ SearchMenu Close
         _UPS TradeAbility_
     *   Order Supplies
     
-    Explore All Shipping UPS Holiday Shipping Schedule
+    Explore All Shipping New multi-channel fulfillment made easy
     
-    View key dates and useful tips to help plan ahead for a shorter holiday shipping season.
+    UPS eFulfillment can help you centrally store and ship the products you sell on more than 21 platforms. Start your 60-day trial today.
     
-    See Year-End Holiday Schedule
+    Learn More to Sign Up
     
 *   Services Services By Type
     
