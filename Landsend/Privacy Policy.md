@@ -61,11 +61,7 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Find an answer fast
-
-Search the Lands' End Help Center.
-
-Search the Lands' End Help Center. Go LANDS’ END PRIVACY POLICY Effective December 10, 2019
+LANDS’ END PRIVACY POLICY Effective December 10, 2019
 
 Download PDF / Print
 
@@ -108,7 +104,7 @@ HOW WE COLLECT INFORMATION: Information received directly from you. For example:
 *   Making a purchase from our catalog, website or retail stores.
 *   Making a return or exchange.
 *   Purchasing an electronic gift card.
-*   reating a personalized Landsend.com shopping account.
+*   Creating a personalized Landsend.com shopping account.
 *   Tracking an order online.
 *   Signing-up to receive promotional emails or text messages
 *   Participating in a promotional sweepstakes, contest, survey or focus group.
@@ -288,7 +284,7 @@ Policies
 *   Terms of Use
 *   Recall &. Safety Info
 *   CA Transparency Act
-*   CA Consumer Privacy Act
+*   Do Not Sell My Personal Information - CA Residents Only
 
 Stores
 
@@ -307,7 +303,7 @@ Lands' End Credit Card
 *   Terms of Use
 *   Recall &. Safety Info
 *   CA Transparency Act
-*   CA Consumer Privacy Act
+*   Do Not Sell My Personal Information - CA Residents Only
 
 *   © 2019 lands' end
 *   Sitemap
