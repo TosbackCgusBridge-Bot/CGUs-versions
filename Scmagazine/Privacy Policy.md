@@ -213,23 +213,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Rising sea and spam levels? Emotet campaign uses Greta Thunberg as lure
     *   2020 Predictions: Technology
-    *   123456 still a popular password
-    *   Wyze Labs data breach exposes 2.4 million, includes PHI
-    *   Names, Social Security numbers exposed in Moss Adams breach
-    
-    *   Open dark web database exposes info on 267 million Facebook
-    *   Containing the ripple effect of cloud cyberattacks
-    *   Over 100 apps found to serve unwanted ads using 'Soraka' SDK
-    *   Microsoft issues an advisory for a SharePoint vulnerability
+    *   PayPal scam goes after account info, payment card data
     *   The time is now for outsourced security services
+    *   Names, Social Security numbers exposed in Moss Adams breach
+    *   2019 Data breaches
     
+    *   Microsoft issues an advisory for a SharePoint vulnerability
+    *   2020 Predictions: Cybersecurity Budget
+    *   Drupal’s Archive Tar patches multiple crititical vulnerabilities
+    *   School software vendor Active Network suffers data breach
+    *   PayPal scam goes after account info, payment card data
+    
+    *   Ransomware attack on maritime facility prompts Coast Guard warning
+    *   Microsoft helps shutter domains run by North Korean cybergang Thallium
+    *   Attackers sink their meathooks into Landry's restaurants' payment card data
     *   DHS finds no tampering of Durham County election devices
     *   Leading people in the times of digital transformation
-    *   2020 Predictions: Cybersecurity Budget
-    *   School software vendor Active Network suffers data breach
-    *   UK New Year Honours list mistakenly doxes honorees
 
 Back to Top
 
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
