@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Dean Obeidallah_: What Democrats Should Say About the Economy
+*   _Susan Crabtree_: Trump's Bold Move Continues to Squeeze the Iranian Regime
     
-*   _Victor Davis Hanson_: Why Trump Will Win Again in 2020
+*   _Kim Ghattas_: Qassem Soleimani Haunted the Arab World
     
-*   _Robert Alexander_: The Case for Senators Voting Secretly to Remove Trump
+*   _Michael Doran_: The Final Demise of Mr. Obama's Mideast Strategy
     
-*   _Jonathan Allen_: Democrats' Divisions Risk Handing Trump Big Advantage
+*   _Daniel Byman_: Has Trump Thought Out What Comes After Killing Suleimani?
     
-*   _Erielle Davidson_: Media Is Lying About Attacks on the Embassy in Baghdad
+*   _Justin Wallin_: What to Expect in 2020: Five Predictions
     
-*   _Aaron Miller_: Trump's Approach to Iran Is Muddled, Unpredictable
+*   _Grady Means_: Real Achievements, Weak Opponents Set Up Trump 2020 Win
     
-*   _Gordan Chang_: Did North Korea Just Make a Grave Mistake?
+*   _Cillizza &. Enten_: Ranking the 5 Dems With Best Chance of Winning Nomination
     
-*   _Fred DuVal_: China Doesn't Want to Become America--That's Bad News
+*   _Damon Linker_: Will Sanders Voters Support Biden If He's the Nominee?
     
-*   _Andy Puzder_: Another Year of the Economic 'Experts' Getting It All Wrong
+*   _Piereson &. Riley_: Team Trump's Big Blow to the College Cartel
     
-*   _David Masciotra_: What Does It Mean to Be 'Too Far Left'?
+*   _Robin Wright_: The Killing of Soleimani Is Tantamount to an Act of War
     
-*   _Noah Rothman_: How 2019 Went Off the Rails for Nancy Pelosi
+*   _Daniel McCarthy_: No, Killing Soleimani Doesn't Mean War
     
-*   _John Fund_: A New Year's Resolution: Don't Forget the Good News
+*   _Heather Hulburt_: After Killing of Top Iranian General, What May Come Next?
     
-*   _Annie Lowrey_: The Decade in Which Everything Was Great But Felt Terrible
+*   _Matthew Continetti_: Trump Calls the Ayatollah's Bluff
     
-*   _Lee Smith_: A Crime Still in Progress: The Media and the Collusion Fraud
+*   _Wendy Sherman_: Attack on U.S. Embassy in Iraq Shows Trump Is Failing
     
-*   _James Comey_: What It Is Like to Be Attacked by the President
+*   _Marc Thiessen_: Obama Officials Undermine Trump's Successful Iran Strategy
     
-*   _Betsy McCaughey_: Why Schiff Doesn't Want Anyone Talking to Ciaramella
+*   _Jeff Yang_: Joe Biden's 'West Wing' Fantasy
     
-*   _Francis Wilkinson_: Joe Biden Confronts a Demagogue and a Dilemma
+*   _George Neumayr_: The Mythology of Biden as a Moderate
     
-*   _Liz Peek_: In 2020, It's Democrats' Absurdity vs. Trumpian Common Sense
+*   _Nathan Robinson_: Why Millennials Support Socialism
     
-*   _David Andelman_: The Biggest Global Threats Facing Trump in 2020
+*   _Roger L. Simon_: Bernie Sanders Is Miseducating Our Youth
     
-*   _Harry Kazianis_: N. Korea's Kim Has One Goal in Mind (No, He's Not Crazy)
+*   _David Fickling_: The 2010s Wrecked the Planet. Don't Despair Yet
     
-*   _Michael O'Hanlon_: Why U.S. Should Strike an Interim Deal With North Korea
+*   _Patrick Buchanan_: Our Real Existential Crisis -- Extinction
     
-*   _Aja Romano_: Why We Can't Stop Fighting About Cancel Culture
+*   _A.B. Stoddard_: In New Crises, Our Enemies See How Vulnerable We Are
     
-*   _Joanna Williams_: Is the Tide Beginning to Turn on Trans Lunacy?
+*   _Lee Drutman_: America Is Now the Divided Republic the Framers Feared
     
-*   _Ben Shapiro_: When Anti-Semitism Doesn't Matter
+*   _Joan Walsh_: How the Political Elites' Both-Sideism Led to Trump
     
 
 *   Previous
@@ -235,10 +235,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump Exerts Maximum Pressure on Iran
 *   Sanders Raises Impressive $34.5 Million in 2019's Final Quarter
+*   Hemingway: Kevin McCarthy Is 2019 Winner. Russia Hoaxers Are Losers
 *   Buttigieg Criticizes Biden Over Ukraine Dealings as Vice President
-*   Gabbard: Impeachment Raises Odds of Trump Win, Dems Losing House
-*   Iraq Back in 2020 Spotlight After Trump Orders Airstrikes
 *   2019 Census Estimates Foreshadow House Seat Gains, Losses
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -252,37 +252,48 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   2020 Democratic Presidential NominationThe Hill/HarrisX
+    *   Biden28
+    *   Sanders16
+    *   Warren11
+    *   Buttigieg6
+    *   Bloomberg11
+    *   Yang2
+    *   Klobuchar2
+    *   Booker2
+    *   Gabbard2
+    *   Steyer2
+    *   Castro2
+    *   Delaney2
+    *   Williamson1Biden +12
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve50
+    *   Disapprove50Tie
 *   2020 Democratic Presidential NominationEconomist/YouGov
     *   Biden29
     *   Sanders19
     *   Warren18
     *   Buttigieg8
     *   Bloomberg3
-    *   Klobuchar4
     *   Yang3
+    *   Klobuchar4
     *   Booker2
     *   Gabbard3
     *   Steyer2
     *   Castro1
     *   Delaney0
-    *   Bennet0Biden +10
+    *   Williamson0Biden +10
 *   President Trump Job ApprovalEconomist/YouGov
     *   Approve44
     *   Disapprove53Disapprove +9
-*   2020 Generic Congressional VoteEconomist/YouGov
-    *   Democrats50
-    *   Republicans40Democrats +10
-*   Congressional Job ApprovalEconomist/YouGov
-    *   Approve17
-    *   Disapprove60Disapprove +43
 
 More Latest Polls In The News
 
+*   Pompeo: "The Decision That President Trump Made To Take Qasem Soleimani Down Saved American Lives"
+*   Geraldo Rivera: "Don't For A Minute" Cheer Killing Of Iranian General. "What We Have Unleashed?"
 *   Dem Rep. Doggett: I "Certainly Support" Withholding Impeachment Articles. There Could Be More
 *   Giuliani: They're Doing Impeachment To Hide "Full Scope" Of Democratic Party's Corruption In Ukraine
 *   Scarborough: "I'm So Confused" About Giuliani Accusing Democrats Of "Racketeering" In Ukraine
-*   Chuck Todd: Trump Facing An "Uphill Battle," Reelection Depends On People Overlooking His Character
-*   Collins: "Inappropriate" For McConnell, Warren To "Prejudge" Impeachment Trial. Open To Witnesses
 
 *   Politics
 *   Policy
