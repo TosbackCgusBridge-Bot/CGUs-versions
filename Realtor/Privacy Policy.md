@@ -419,7 +419,7 @@ You may have the right to receive information about the financial incentives tha
 
 California customers may request, once per year, that we disclose the identity of any third parties with whom we have shared personal information for the third-parties’ direct marketing purposes within the previous calendar year, along with the type of personal information disclosed.
 
-If you would like to exercise any of these rights, please visit here or contact us at (800) 878-4166. You will be required to verify your identify before we fulfill your request. You can also designate an authorized agent to make a request on your behalf. To do so, you must provide us with written authorization or a power of attorney, signed by you, for the agent to act on your behalf. You will still need to verify your identity directly with us.
+If you would like to exercise any of these rights, please visit here or contact us at (877) 560-0165. You will be required to verify your identify before we fulfill your request. You can also designate an authorized agent to make a request on your behalf. To do so, you must provide us with written authorization or a power of attorney, signed by you, for the agent to act on your behalf. You will still need to verify your identity directly with us.
 
 You also have the right to opt out of the sale of your personal information. California law broadly defines sale such that it may include allowing third parties to receive certain information, such as cookies, IP address and/or browsing behavior, to deliver targeted advertising. If you would like to opt out, you may do so as outlined on the following page: Do Not Sell My Personal Information
 
