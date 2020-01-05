@@ -382,11 +382,7 @@ Last updated on December 31, 2019 © 2019 WebMD, LLC. All rights reserved. Today
 
 Some of these might surprise you.
 
-Sponsor Content If You Have Toenail Fungus, Do This Immediately (Genius!)
-
-Simple Way To Reduce Toenail Fungus (Watch)
-
-By Clear Nail Plus Depressed, Guilty Feelings After Eating?
+Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
