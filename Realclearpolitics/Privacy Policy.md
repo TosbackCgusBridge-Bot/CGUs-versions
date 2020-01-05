@@ -118,6 +118,40 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Ray Takeyh_: U.S. Deals a Major Blow to Already Weakened Iranian Regime
+    
+*   _Dexter Filkins_: The Dangers Posed by the Killing of Soleimani
+    
+*   _James Robbins_: Trump Showed Restraint, Then Resolve, vs. Iran Attacks
+    
+*   _Richard Haass_: America Must Be Ready for Iranian Retaliation
+    
+*   _Christopher Bedford_: Killing Soleimani Shows Why It's Time to Leave Iraq
+    
+*   _Timothy Egan_: The Case for a One-Term Joe Biden Presidency
+    
+*   _Nathan Robinson_: If Biden's the Nominee, He Would Be Crushed by Trump
+    
+*   _Corey Lewandowski_: 2020 Forecast: House Switch &. a Bigger Win for Trump
+    
+*   _Jeremy Stahl_: The Impeachment Stalemate Is Working Fine for Democrats
+    
+*   _Petersen &. Szafir_: Trump Is Remaking the Federal Judiciary at a Historic Rate
+    
+*   _Katie McDonough_: Abortion Without Roe
+    
+*   _James Piereson_: The Idea of an American Nation
+    
+*   _Becket Adams_: Why 'Bombshell' Is a Dud
+    
+*   _Porter & Wood_: Are Americans Consuming Enough of the Right Information?
+    
+*   _Jeffrey McCall_: News Media Take Losing Streak Into 2020
+    
+*   _Antjuan Seawright_: Congressman John Lewis, Our North Star
+    
+*   _Mona Charen_: Gertrude Himmelfarb, Rest in Peace
+    
 *   _Susan Crabtree_: Trump's Bold Move Continues to Squeeze the Iranian Regime
     
 *   _Kim Ghattas_: Qassem Soleimani Haunted the Arab World
@@ -131,40 +165,6 @@ We use cookies to offer you a better experience and to help us understand how yo
 *   _Grady Means_: Real Achievements, Weak Opponents Set Up Trump 2020 Win
     
 *   _Cillizza &. Enten_: Ranking the 5 Dems With Best Chance of Winning Nomination
-    
-*   _Damon Linker_: Will Sanders Voters Support Biden If He's the Nominee?
-    
-*   _Piereson &. Riley_: Team Trump's Big Blow to the College Cartel
-    
-*   _Robin Wright_: The Killing of Soleimani Is Tantamount to an Act of War
-    
-*   _Daniel McCarthy_: No, Killing Soleimani Doesn't Mean War
-    
-*   _Heather Hulburt_: After Killing of Top Iranian General, What May Come Next?
-    
-*   _Matthew Continetti_: Trump Calls the Ayatollah's Bluff
-    
-*   _Wendy Sherman_: Attack on U.S. Embassy in Iraq Shows Trump Is Failing
-    
-*   _Marc Thiessen_: Obama Officials Undermine Trump's Successful Iran Strategy
-    
-*   _Jeff Yang_: Joe Biden's 'West Wing' Fantasy
-    
-*   _George Neumayr_: The Mythology of Biden as a Moderate
-    
-*   _Nathan Robinson_: Why Millennials Support Socialism
-    
-*   _Roger L. Simon_: Bernie Sanders Is Miseducating Our Youth
-    
-*   _David Fickling_: The 2010s Wrecked the Planet. Don't Despair Yet
-    
-*   _Patrick Buchanan_: Our Real Existential Crisis -- Extinction
-    
-*   _A.B. Stoddard_: In New Crises, Our Enemies See How Vulnerable We Are
-    
-*   _Lee Drutman_: America Is Now the Divided Republic the Framers Feared
-    
-*   _Joan Walsh_: How the Political Elites' Both-Sideism Led to Trump
     
 
 *   Previous
@@ -252,6 +252,26 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   2020 Democratic Presidential NominationHarvard-Harris
+    *   Biden30
+    *   Sanders17
+    *   Warren12
+    *   Buttigieg7
+    *   Bloomberg7
+    *   Yang3
+    *   Klobuchar2
+    *   Booker2
+    *   Gabbard1
+    *   Steyer2
+    *   Castro1
+    *   Delaney1
+    *   Williamson0Biden +13
+*   President Trump Job ApprovalHarvard-Harris
+    *   Approve47
+    *   Disapprove53Disapprove +6
+*   Direction of CountryHarvard-Harris
+    *   Right Direction39
+    *   Wrong Track53Wrong Track +14
 *   2020 Democratic Presidential NominationThe Hill/HarrisX
     *   Biden28
     *   Sanders16
@@ -266,34 +286,14 @@ Latest PollsAll Polls
     *   Castro2
     *   Delaney2
     *   Williamson1Biden +12
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve50
-    *   Disapprove50Tie
-*   2020 Democratic Presidential NominationEconomist/YouGov
-    *   Biden29
-    *   Sanders19
-    *   Warren18
-    *   Buttigieg8
-    *   Bloomberg3
-    *   Yang3
-    *   Klobuchar4
-    *   Booker2
-    *   Gabbard3
-    *   Steyer2
-    *   Castro1
-    *   Delaney0
-    *   Williamson0Biden +10
-*   President Trump Job ApprovalEconomist/YouGov
-    *   Approve44
-    *   Disapprove53Disapprove +9
 
 More Latest Polls In The News
 
+*   Tucker Carlson: Reign In Chamber Of Commerce Libertarianism That Has Allowed Greed To Flourish
 *   Pompeo: "The Decision That President Trump Made To Take Qasem Soleimani Down Saved American Lives"
 *   Geraldo Rivera: "Don't For A Minute" Cheer Killing Of Iranian General. "What We Have Unleashed?"
 *   Dem Rep. Doggett: I "Certainly Support" Withholding Impeachment Articles. There Could Be More
 *   Giuliani: They're Doing Impeachment To Hide "Full Scope" Of Democratic Party's Corruption In Ukraine
-*   Scarborough: "I'm So Confused" About Giuliani Accusing Democrats Of "Racketeering" In Ukraine
 
 *   Politics
 *   Policy
