@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksClosing Your Bedroom Door at Night Could Save Your Life1STIt Took a Court to Decide Whether Pringles Are Potato Chips2NDWhat Is Planck's Constant, and Why Does the Universe Depend on It?3RDThere's a Pooping Man in the Catalan Nativity Scene4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredComparisons.org | SponsoredAll Seniors Drivers Should Claim This Large Reward (Check If You Qualify)Comparisons.org | SponsoredTruthFinder People Search Subscription | SponsoredLocate anyone by entering their name (this is addicting)TruthFinder People Search Subscription | SponsoredComparisons.org | SponsoredColorado Drivers With No Tickets In 3 Years Should Do This On JanuaryComparisons.org | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksIt Took a Court to Decide Whether Pringles Are Potato Chips1STHow Artificial Intelligence Is Totally Changing Everything2NDThere's a Pooping Man in the Catalan Nativity Scene3RDWho Was the World's First King?4THSoGoodly | SponsoredThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly | SponsoredMentertained | SponsoredCosplay Girls That Took It Too Far..Try Not to Stare When You See #6Mentertained | SponsoredWorldemand | Sponsored17+ Actors You Didn't Know Were Gay - No. 8 Will Shock WomenWorldemand | SponsoredHorizontimes | SponsoredRemember Tiger Woods' Ex-wife? Try Not To Gasp When You See Her NowHorizontimes | Sponsored
 
 Advertisement
 
-animals - wild animalsWhat Do Reindeer Do When They're Not Pulling Santa's Sleigh?BY Laurie L. Doveculture - historyHow 'Pretty Boy' Floyd Became the FBI's Public Enemy No. 1BY Oisin Curranscience - engineeringHow Artificial Intelligence Is Totally Changing EverythingBY Patrick J. KigerMentertained | SponsoredCosplay Girls That Took It Too Far..Try Not to Stare When You See #6Mentertained | SponsoredBest Of Senior | SponsoredKelly Ripa's Son Is Probably The Most Handsome Man AliveBest Of Senior | Sponsored
+science - engineeringWhat's the Difference Between an Avenue, a Road and a Boulevard?BY Melanie Radzicki McManusscience - dictionaryWhat Is Planck's Constant, and Why Does the Universe Depend on It?BY Patrick J. Kigerscience - physical scienceCould an 'X17 Particle' Hint at a Fifth Force in the Universe?BY Mark ManciniHearTech Labs | SponsoredForget Prescription Hearing Aids Use This InsteadHearTech Labs | SponsoredThedelite | SponsoredBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhy Is the Tropic of Capricorn Important?Why Aren't Seat Belts Required on All School Buses?Shhh! Don't Tell. There's a Secret Apartment Atop the Eiffel TowerWho Was the World's First King?Get to Know the Greek Alphabet, From Alpha to OmegaThat Dead Weblink May Be Revived With the Wayback Machineby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhat's the Difference Between Baking Soda and Baking Powder?Why Aren't Seat Belts Required on All School Buses?Balut Is the Asian Street Food You Gotta Eat to BelieveShhh! Don't Tell. There's a Secret Apartment Atop the Eiffel TowerWhy Is the Tropic of Capricorn Important?What's the Difference Between Toilet Paper and Tissue?by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2020 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Closing Your Bedroom Door at Night Could Save Your LifeRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StoryVikings: Free Online GamePlay this for 1 minute and see why everyone is addictedVikings: Free Online Game|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. It Took a Court to Decide Whether Pringles Are Potato ChipsRead Next StorySoGoodlyThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly|SponsoredSponsoredRead Next StoryMentertainedCosplay Girls That Took It Too Far..Try Not to Stare When You See #6Mentertained|SponsoredSponsoredRead Next Story
