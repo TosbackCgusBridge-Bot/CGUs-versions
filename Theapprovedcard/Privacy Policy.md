@@ -1,1 +1,1 @@
-Buy This DomainTheapprovedcard.comCopyright 2019. All rights reserved. Privacy Policy
+Buy This DomainTheapprovedcard.comCopyright 2020. All rights reserved. Privacy Policy
