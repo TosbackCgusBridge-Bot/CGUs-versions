@@ -213,23 +213,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
+    *   Identity access management – An auditor’s view
     *   2020 Predictions: Technology
-    *   PayPal scam goes after account info, payment card data
-    *   The time is now for outsourced security services
-    *   Names, Social Security numbers exposed in Moss Adams breach
-    *   2019 Data breaches
+    *   New Magecart skimmers practice steganography, data transfer via WebSocket
+    *   Wyze Labs data breach exposes 2.4 million, includes PHI
+    *   Cities get smarter
     
-    *   Microsoft issues an advisory for a SharePoint vulnerability
+    *   Rising sea and spam levels? Emotet campaign uses Greta Thunberg as lure
     *   2020 Predictions: Cybersecurity Budget
-    *   Drupal’s Archive Tar patches multiple crititical vulnerabilities
-    *   School software vendor Active Network suffers data breach
-    *   PayPal scam goes after account info, payment card data
+    *   Wawa POS system compromised for 10 months, cybersecurity pros weigh in
+    *   Containing the ripple effect of cloud cyberattacks
+    *   Over 100 apps found to serve unwanted ads using 'Soraka' SDK
     
-    *   Ransomware attack on maritime facility prompts Coast Guard warning
-    *   Microsoft helps shutter domains run by North Korean cybergang Thallium
-    *   Attackers sink their meathooks into Landry's restaurants' payment card data
-    *   DHS finds no tampering of Durham County election devices
-    *   Leading people in the times of digital transformation
+    *   New Magecart skimmers practice steganography, data transfer via WebSocket
+    *   Ransomware forces Richmond Community Schools to close
+    *   Army joins Navy in banning TikTok
+    *   Soleimani killing will likely result in reprisal cyberattacks by Iran
+    *   Travelex sidelines online financial services following malware discovery
 
 Back to Top
 
