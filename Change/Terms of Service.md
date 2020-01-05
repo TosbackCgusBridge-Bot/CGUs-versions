@@ -20,6 +20,6 @@ Well this is embarrassing… We couldn't find the page you were looking for.
 
 *   Privacy
 *   Policies
-*   © 2019, Change.org PBC
+*   © 2020, Change.org PBC
 
 DeutschEnglish (Australia)English (Canada)English (India)English (United Kingdom)English (United States)Español (Argentina)Español (España)Español (Latinoamérica)Françaisहिन्दीBahasa IndonesiaItaliano日本語Português (Brasil)РусскийภาษาไทยTürkçe <img src="//bat.bing.com/action/0?ti=5321513&amp;Ver=2" height="0" width="0" style="display:none. visibility: hidden;">
