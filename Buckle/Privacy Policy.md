@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Double up on savings! Get an extra 33% off, or 50% off!
+Select Girls’ KanCan Signature Jeans are now 15% off. Shop Now
 
 *   Women
 *   Men
@@ -458,28 +458,6 @@ Services
 *   Gift Services
 *   Gift Card Donation Requests
 *   All Services
-
-Contact UsGuest Services:
-
-Phone: 800.607.9788  
-Mon-Fri 8am - 10pm CT  
-Sat 8am - 10pm CT  
-Sun 12pm - 6pm CT  
-Email: guest.services@buckle.com  
-Fax: 308.236.4493
-
-Buckle Credit Card Questions:
-
-Comenity Bank  
-Phone: 888.427.7786  
-TDD/TYY: 800.695.1788
-
-Corporate Office:
-
-The Buckle, Inc.  
-2407 W. 24th Street  
-Kearney, NE 68845  
-Phone: 800.626.1255
 
 Receive The Latest From BucklePlease enter your email address. The input is not a valid email address. GIFT CARD
 
