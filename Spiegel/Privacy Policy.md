@@ -13,7 +13,7 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   4\. Januar 2020
+*   5\. Januar 2020
 *   Abo
 *   DAX 13.219,14ǀ
 *   Schlagzeilenǀ
@@ -165,8 +165,8 @@ Anmelden
         *   Hotels
         *   S-Magazin
     
-
 *   Backstage
+
 *   English
     
     *   *   Front Page
@@ -177,6 +177,7 @@ Anmelden
         *   Zeitgeist
         *   Newsletter
 *   SPIEGEL AKADEMIE
+*   SPIEGEL Ed
 *   DER SPIEGEL live
 *   DER SPIEGEL
     
@@ -342,8 +343,8 @@ SPIEGEL GRUPPE
 *   SPIEGEL BIOGRAFIE
 *   DER SPIEGEL
 *   SPIEGEL CHRONIK
-*   SPIEGEL COACHING
 *   SPIEGEL GESCHICHTE
+*   SPIEGEL COACHING
 *   Dein SPIEGEL
 *   SPIEGEL WISSEN
 *   SPIEGEL BESTSELLER
@@ -352,8 +353,8 @@ SPIEGEL GRUPPE
 *   SPIEGEL BIOGRAFIE
 *   DER SPIEGEL
 *   SPIEGEL CHRONIK
-*   SPIEGEL COACHING
 *   SPIEGEL GESCHICHTE
+*   SPIEGEL COACHING
 *   Dein SPIEGEL
 
 12
