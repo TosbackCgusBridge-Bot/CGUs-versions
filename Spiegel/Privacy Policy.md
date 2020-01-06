@@ -13,7 +13,7 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   5\. Januar 2020
+*   6\. Januar 2020
 *   Abo
 *   DAX 13.219,14ǀ
 *   Schlagzeilenǀ
@@ -165,8 +165,8 @@ Anmelden
         *   Hotels
         *   S-Magazin
     
-*   Backstage
 
+*   Backstage
 *   English
     
     *   *   Front Page
@@ -177,7 +177,6 @@ Anmelden
         *   Zeitgeist
         *   Newsletter
 *   SPIEGEL AKADEMIE
-*   SPIEGEL Ed
 *   DER SPIEGEL live
 *   DER SPIEGEL
     
