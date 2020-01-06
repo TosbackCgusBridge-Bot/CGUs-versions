@@ -9,10 +9,33 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
+    *   Seasonal Steals: Coats Up to 70% Off
+    *   Sunday Style Steals Up to 75% Off
+    *   Vintage Addiction Bags Up to 80% Off
+    *   Savvy Cie: Diamonds, Gems &. More Up to 80% Off
+    *   Boots &. More Up to 70% Off
+    *   Stylish Steals: Men's Clothing Up to 75% Off
+    *   Men's Shoe Steals Up to 65% Off
+    *   Free Shipping: BergHOFF Up to 55% Off
+    *   LOVE Moschino
+    *   Scotch &. Soda
+    *   Miraclesuit &. Athena Swim Incl. Plus
+    *   Charles by Charles David Up to 55% Off
+    *   Keds x Kate Spade New York &. More from $30
+    *   Leather Weather: Jackets, Bottoms &. More
+    *   Trend Report: Good Luck Gem, Know One Cares &. More
+    *   Free Press &. Shimera
+    *   Bacco Bucci
+    *   Women's Boots Under $50
+    *   GoldynGlow Superfood Blends
+    *   Bebe &. Bella Probiotic Skin Care
+    *   Best for Baby: Coccoli &. More Up to 55% Off
+    *   Commuter Bags ft. Solo New York
     *   Versace Sun &. Accessories
     *   Go Couture Dress Blowout
     *   Thomas Pink Up to 70% Off
     *   Men's Italian Designer Shoes ft. Versace &. More
+    
     *   Italian Collection: Handbags Under $200
     *   Italian Designer Shoes &. More ft. Versace
     *   New Year, New Me: Active Up to 65% Off
@@ -33,14 +56,13 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   ASICS Men
     *   True Religion Up to 65% Off
     *   Beyond Yoga &. More Starting at $20
-    
     *   Travel Checklist: Maxi Dresses, Rompers &. More
     *   Sport at the Resort: Billabong &. O'Neill
     *   Ski Season: Goggles &. More Up to 70% Off
     *   Jump into 2020: Jumpsuits
     *   Resort Essentials: Swim &. Cover-Ups
-    *   Parkas &. Puffers Up to 65% Off Incl. Plus
     *   Boots for All Up to 60% Off
+    
     *   On the Go: Fanny Packs from $15
     *   Stack It Up: Eternity Rings &. More
     *   PYT Hot Tools &. More Up to 90% Off
@@ -49,47 +71,48 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   ASICS Kids
     *   On the Go: Kids' Activewear Under $20
     *   Levi's Kids Up to 55% Off
-    *   UGG
-    *   UGG Men
-    *   UGG Kids
-    *   UGG Men's Lounge &. More
-    *   UGG Sleep &. Lounge
     *   Skinn Cosmetics Up to 55% Off
-    *   The Perfect Layer: Men's Hoodies
     *   Home Decor Best Sellers Up to 50% Off
     *   Cargo Cosmetics
-    
     *   Etnies Men
     *   Play All Day: Imaginative Toys ft. Mattel
     *   Shiseido Ginza Tokyo Up to 45% Off
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    *   Hawke &. Co. Footwear Up to 70% Off
     *   Glam with an Edge: Decor by Interior Illusions
-    *   New Year, New You: Men's Boots Starting at $50
     *   New Year, New Plans: Calendars &. Planners
     *   Luxe Throws &. Bedding Up to 50% Off
     *   Luxe Home Scents ft. Portofino Candles
     *   Rustic Home Decor Up to 50% Off
     *   Storage for Every Room from $25
     *   Motion Sensor Trash Cans from $20
-    *   Dr. Hauschka: Natural &. Organic Makeup
     *   Smart Watch Bands, Earbud Cases &. More
     *   Find the Perfect Piece: The Art Shop
     *   Beach Ready: Towels Up to 65% Off
-    *   Cozy Throws Up to 60% Off
-    *   Holiday Storage &. Organization
-    *   Free Shipping: Hand-Painted Replicas
-    *   Skinny Denim Under $40
-    *   Great Lengths: Midi Dresses Under $60
-    *   One-Stop Sweater Shop Incl. Plus &. Petites
 *   WomenShop Sale Events
     
+    *   Seasonal Steals: Coats Up to 70% Off
+    *   Sunday Style Steals Up to 75% Off
+    *   Vintage Addiction Bags Up to 80% Off
+    *   Savvy Cie: Diamonds, Gems &. More Up to 80% Off
+    *   Boots &. More Up to 70% Off
+    *   LOVE Moschino
+    *   Miraclesuit &. Athena Swim Incl. Plus
+    *   Charles by Charles David Up to 55% Off
+    *   Keds x Kate Spade New York &. More from $30
+    *   Leather Weather: Jackets, Bottoms &. More
+    *   Trend Report: Good Luck Gem, Know One Cares &. More
+    *   Free Press &. Shimera
+    *   Women's Boots Under $50
+    *   GoldynGlow Superfood Blends
+    *   Bebe &. Bella Probiotic Skin Care
+    *   Commuter Bags ft. Solo New York
     *   Versace Sun &. Accessories
     *   Go Couture Dress Blowout
     *   Italian Collection: Handbags Under $200
     *   Italian Designer Shoes &. More ft. Versace
     *   New Year, New Me: Active Up to 65% Off
     *   Office Essentials: Chic Blazers
+    
     *   TOMS from $30
     *   Gemstones, Diamonds &. More Up to 80% Off
     *   Terre Mere Organic Beauty Up to 75% Off
@@ -102,24 +125,16 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Travel Checklist: Maxi Dresses, Rompers &. More
     *   Sport at the Resort: Billabong &. O'Neill
     *   Ski Season: Goggles &. More Up to 70% Off
-    
     *   Jump into 2020: Jumpsuits
     *   Resort Essentials: Swim &. Cover-Ups
-    *   Parkas &. Puffers Up to 65% Off Incl. Plus
     *   Boots for All Up to 60% Off
     *   On the Go: Fanny Packs from $15
     *   Stack It Up: Eternity Rings &. More
     *   PYT Hot Tools &. More Up to 90% Off
-    *   UGG
-    *   UGG Sleep &. Lounge
     *   Skinn Cosmetics Up to 55% Off
     *   Cargo Cosmetics
     *   Shiseido Ginza Tokyo Up to 45% Off
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    *   Dr. Hauschka: Natural &. Organic Makeup
-    *   Skinny Denim Under $40
-    *   Great Lengths: Midi Dresses Under $60
-    *   One-Stop Sweater Shop Incl. Plus &. Petites
     
     Shop By Category
     *   Clothing
@@ -131,48 +146,49 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Watches
 *   MenShop Sale Events
     
+    *   Stylish Steals: Men's Clothing Up to 75% Off
+    *   Men's Shoe Steals Up to 65% Off
+    *   Scotch &. Soda
+    *   Bacco Bucci
+    *   Commuter Bags ft. Solo New York
     *   Thomas Pink Up to 70% Off
     *   Men's Italian Designer Shoes ft. Versace &. More
+    
     *   Snow Ready: Parkas &. Down Up to 60% Off
     *   Keep It Sleek: Luggage ft. Out of Office Traveling
     *   ASICS Men
     *   True Religion Up to 65% Off
     *   Ski Season: Goggles &. More Up to 70% Off
-    
-    *   UGG Men
-    *   UGG Men's Lounge &. More
-    *   The Perfect Layer: Men's Hoodies
     *   Etnies Men
-    *   Hawke &. Co. Footwear Up to 70% Off
-    *   New Year, New You: Men's Boots Starting at $50
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Accessories
     *   Watches
 *   KidsShop Sale Events
     
+    *   Best for Baby: Coccoli &. More Up to 55% Off
     *   True Religion Kids Up to 65% Off
     *   Best in Snow: Kids' Outerwear Under $30
     *   ASICS Kids
     *   On the Go: Kids' Activewear Under $20
     *   Levi's Kids Up to 55% Off
-    *   UGG Kids
     *   Play All Day: Imaginative Toys ft. Mattel
     
     Shop By Category
-    *   Toy Shop
-    *   Girls' Sizes 2T-6X
     *   Boys' Sizes 2T-7
+    *   Girls' Sizes 2T-6X
+    *   Toy Shop
     *   Girls' Sizes 7-16
-    *   Girls' Shoes
     *   Boys' Sizes 8-20
-    *   Boys' Shoes
     *   Baby Girl
     *   Baby Boy
+    *   Girls' Shoes
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Free Shipping: BergHOFF Up to 55% Off
     *   Luxe Pillows &. Throws Up to 75% Off
     *   Be Mine: Great Gifts for Her from $20
     *   Pet Accessories We Love
@@ -180,41 +196,38 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Home Decor Best Sellers Up to 50% Off
     *   Glam with an Edge: Decor by Interior Illusions
     *   New Year, New Plans: Calendars &. Planners
+    
     *   Luxe Throws &. Bedding Up to 50% Off
     *   Luxe Home Scents ft. Portofino Candles
-    
     *   Rustic Home Decor Up to 50% Off
     *   Storage for Every Room from $25
     *   Motion Sensor Trash Cans from $20
     *   Smart Watch Bands, Earbud Cases &. More
     *   Find the Perfect Piece: The Art Shop
     *   Beach Ready: Towels Up to 65% Off
-    *   Cozy Throws Up to 60% Off
-    *   Holiday Storage &. Organization
-    *   Free Shipping: Hand-Painted Replicas
     
     Shop By Category
     *   Home Decor
+    *   Kitchen &. Tabletop
     *   Electronic &. Tech Accessories
     *   Outdoor Living
     *   Bath
-    *   Kitchen &. Tabletop
     *   Pet Accessories
     *   Luggage &. Travel
     *   Cleaning &. Organization
-    *   Holiday Decorations
     *   Bedding
     *   Accent Furniture
     *   Rugs &. Doormats
 *   BeautyShop Sale Events
     
+    *   GoldynGlow Superfood Blends
+    *   Bebe &. Bella Probiotic Skin Care
     *   Terre Mere Organic Beauty Up to 75% Off
     *   PYT Hot Tools &. More Up to 90% Off
     *   Skinn Cosmetics Up to 55% Off
     *   Cargo Cosmetics
     *   Shiseido Ginza Tokyo Up to 45% Off
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    *   Dr. Hauschka: Natural &. Organic Makeup
     
     Shop By Category
     *   Makeup
