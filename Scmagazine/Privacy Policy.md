@@ -213,23 +213,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Identity access management – An auditor’s view
-    *   2020 Predictions: Technology
-    *   New Magecart skimmers practice steganography, data transfer via WebSocket
-    *   Wyze Labs data breach exposes 2.4 million, includes PHI
+    *   Still growing after 30 years
     *   Cities get smarter
+    *   Wyze Labs data breach exposes 2.4 million, includes PHI
+    *   Citrix vulnerability places 80,000 companies at risk
+    *   Busted! 2019's top cybercrime news
     
-    *   Rising sea and spam levels? Emotet campaign uses Greta Thunberg as lure
-    *   2020 Predictions: Cybersecurity Budget
-    *   Wawa POS system compromised for 10 months, cybersecurity pros weigh in
-    *   Containing the ripple effect of cloud cyberattacks
-    *   Over 100 apps found to serve unwanted ads using 'Soraka' SDK
+    *   Ransomware shuts down The Heritage Company
+    *   Travelex sidelines online financial services following malware discovery
+    *   Inside the connected home and its implications for cybersecurity and privacy
+    *   123456 still a popular password
+    *   Names, Social Security numbers exposed in Moss Adams breach
     
+    *   CES defends choosing Ivanka Trump for keynote
+    *   DHS warns Iran retaliation could include cyberattacks
     *   New Magecart skimmers practice steganography, data transfer via WebSocket
     *   Ransomware forces Richmond Community Schools to close
     *   Army joins Navy in banning TikTok
-    *   Soleimani killing will likely result in reprisal cyberattacks by Iran
-    *   Travelex sidelines online financial services following malware discovery
 
 Back to Top
 
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
