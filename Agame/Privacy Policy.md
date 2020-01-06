@@ -29,17 +29,17 @@ View more results
     
     Best Games
     *   Fireboy and Watergirl: The Forest Temple
-    *   Rising Cities
     *   Fireboy and Watergirl 5: Elements
     *   Ono Card Game
-    *   Gyros.io
-    *   KOGAMA: Sky Land
     *   Bad Ice Cream: 2 Player Game
-    *   Crowd City
-    *   Wormax.io
-    *   Fireboy &. Watergirl 3: The Ice Temple
-    *   Family Barn
     *   Hole.io
+    *   Family Barn
+    *   Fireboy &. Watergirl 3: The Ice Temple
+    *   Kogama: Escape from Prison
+    *   Angry Snakes
+    *   Fireboy &. Watergirl 2: The Light Temple
+    *   Crowd City
+    *   Slotomania
 *   Action
     
     Top Categories
@@ -62,18 +62,18 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Jinx 2
-    *   Afghan Survival: Army Shooting Game
+    *   Scratch Wars A10
     *   Snail Bob 8
-    *   Conquer Antartica
-    *   Super Buddy Kick
-    *   Bomb It 6
-    *   Miami Crime Simulator 3D
-    *   Combat Strike 2: 3D Shooting Game Online Multiplayer
-    *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
-    *   Papa Louie 3: When Sundaes Attack
     *   AZ Tank Game
+    *   Super Buddy Kick
     *   Mutilate-a-Doll 2
+    *   Miami Crime Simulator 3D
+    *   Bomb It 6
+    *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
+    *   Mr. Bullet
+    *   Gun Builder 2
+    *   Fidget Spinner
+    *   Murder
 *   Adventure
     
     Top Categories
@@ -102,12 +102,12 @@ View more results
     *   The Last Survivors: 2 Player Zombie Game
     *   Mine Clone 4
     *   World Crafts
-    *   Escaping the Prison: Stickman Escapist Game
     *   Build Craft
-    *   Rio Rex
     *   Secret Office Kissing
     *   Dog Simulator: Puppy Craft
-    *   Vex 4
+    *   Adam and Eve: Snow
+    *   Fox Simulator
+    *   Rio Rex
 *   Puzzle
     
     Top Categories
@@ -131,17 +131,17 @@ View more results
     
     Best Games
     *   MahJongCon
-    *   Pirates and Treasures
-    *   Forest People
     *   Bubble Shooter
-    *   Medieval Castle: Hidden Pieces
-    *   1010 Animals
-    *   Love Balls
-    *   Butterfly Kyodai Classic
+    *   3 Pyramid Tripeaks 2
     *   Love Balls 2
+    *   Love Balls
     *   Happy Glass
-    *   Mahjong Connect Classic
+    *   Word Detector
+    *   Butterfly Kyodai Classic
+    *   1001 Arabian Nights
     *   TenTrix
+    *   Butterfly Kyodai HD
+    *   Mahjong Dimensions: 900 Seconds
 *   Girls
     
     Top Categories
@@ -164,18 +164,18 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Princess Gala Host: Fashion Game
-    *   My New Room
-    *   Goldie Princess: Skin Doctor
-    *   Ellie Love Trouble: Kissing Game
+    *   Eliza &. Annie: Winter Trends
+    *   Princesses: Waiting for Santa
+    *   Ellie: Get Ready With Me
+    *   Dotted Girl: Skin Doctor
     *   Dating My Crush: Makeover
-    *   Extreme Makeover
     *   Back To School: Princesses Rush
-    *   Princess Red Carpet Collection: Fashion Game
-    *   Floral Real Life Manicure
-    *   Valentine Night of Kisses
-    *   Cake Design
     *   Princess Rivalry
+    *   Goldie Princess: Skin Doctor
+    *   Extreme Makeover
+    *   Valentine Night of Kisses
+    *   Princesses Style Battle: Fashion Game
+    *   Witchy Style: Now &. Then
 *   Racing
     
     Top Categories
@@ -203,13 +203,13 @@ View more results
     *   Super Speed Racer
     *   Cars 3D
     *   Thug Racer
-    *   Moto X3m 2
     *   Neon Biker
-    *   Moto X3M 5: Pool Party
     *   Russian Car Driver
-    *   Death Chase
+    *   Moto X3M 5: Pool Party
+    *   Moto X3m 2
+    *   Moto X3M: Motorcycle Racing Game
     *   Off-Roader V6
-    *   ATV Quad Racing
+    *   Extreme Off-Road Cars 2
 *   Sports
     
     Top Categories
@@ -232,17 +232,17 @@ View more results
     
     Best Games
     *   Penalty Shooters 2: Football Game
-    *   Centre Court
-    *   Penalty Shooters
+    *   Archery World Tour
+    *   Stunt Skateboard 3D
     *   Circuit Racing Hero: Drift Game
-    *   8 Ball Billiards Classic
     *   Billiards Master Pro
-    *   Hunter 3D
-    *   Table Tennis Challenge
-    *   Moto X3m 3
-    *   Table Tennis Pro
-    *   Goalkeeper Challenge: Football Game
+    *   8 Ball Billiards Classic
+    *   Baby Hazel Sports Day
+    *   Penalty Shooters
     *   Moto X3M: Winter - Motorbike Game
+    *   Toon Cup 2016: Cartoon Game
+    *   Street Free Kick 3D
+    *   Basketball Stars 2019
 *   More
     
     *   Multiplayer
