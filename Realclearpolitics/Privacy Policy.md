@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Ray Takeyh_: U.S. Deals a Major Blow to Already Weakened Iranian Regime
+*   _Seth Frantzman_: Soleimani Killing Breaks the Myth of Iran's Power
     
-*   _Dexter Filkins_: The Dangers Posed by the Killing of Soleimani
+*   _Jonah Shepp_: The Real Risk of Assassinating Soleimani
     
-*   _James Robbins_: Trump Showed Restraint, Then Resolve, vs. Iran Attacks
+*   _Mike Pompeo_: 'Endless Wars Are the Direct Result of Weakness'
     
-*   _Richard Haass_: America Must Be Ready for Iranian Retaliation
+*   _Elaine Godfrey_: Joe Biden Is the Kumbaya Candidate
     
-*   _Christopher Bedford_: Killing Soleimani Shows Why It's Time to Leave Iraq
+*   _Dov Fischer_: The Racist Race to Erase Race From Democrat Race
     
-*   _Timothy Egan_: The Case for a One-Term Joe Biden Presidency
+*   _Dana Radcliffe_: Mitch McConnell, Meet Alexander Hamilton
     
-*   _Nathan Robinson_: If Biden's the Nominee, He Would Be Crushed by Trump
+*   _Betsy McCaughey_: On Trump Impeachment Trial, Don't Believe Chuck Schumer
     
-*   _Corey Lewandowski_: 2020 Forecast: House Switch &. a Bigger Win for Trump
+*   _Joshau Keating_: Can the President Just Kill Anyone He Wants Now?
     
-*   _Jeremy Stahl_: The Impeachment Stalemate Is Working Fine for Democrats
+*   _Michael Goodwin_: Dems Still Delusional About Trump After Soleimani Death
     
-*   _Petersen &. Szafir_: Trump Is Remaking the Federal Judiciary at a Historic Rate
+*   _Bill Schneider_: The Winning Democratic Message for 2020
     
-*   _Katie McDonough_: Abortion Without Roe
+*   _Scott Walker_: In 2020, Expect a Growing Economy and a Trump Win
     
-*   _James Piereson_: The Idea of an American Nation
+*   _Domenico Montanaro_: With a Month to Go, Anything Can Happen in Dem Race
     
-*   _Becket Adams_: Why 'Bombshell' Is a Dud
+*   _Victor Joecks_: Why Biden Is Going to Win the Nomination
     
-*   _Porter & Wood_: Are Americans Consuming Enough of the Right Information?
+*   _Rebecca Solnit_: My Dream Candidate Exists--Her Name Is Warren
     
-*   _Jeffrey McCall_: News Media Take Losing Streak Into 2020
+*   _Hugo Gurdon_: Soleimani Is Dead, and the Economy Is Alive
     
-*   _Antjuan Seawright_: Congressman John Lewis, Our North Star
+*   _Jonathan Chait_: No, Attacking Iran Won't Help Trump Get Reelected
     
-*   _Mona Charen_: Gertrude Himmelfarb, Rest in Peace
+*   _Victor Davis Hanson_: Iran, Not the U.S., Is in a Dilemma
     
-*   _Susan Crabtree_: Trump's Bold Move Continues to Squeeze the Iranian Regime
+*   _Oona Hathaway_: The Soleimani Strike Defied the U.S. Constitution
     
-*   _Kim Ghattas_: Qassem Soleimani Haunted the Arab World
+*   _Roger Simon_: Trump Derangement Syndrome Skyrockets Over Soleimani
     
-*   _Michael Doran_: The Final Demise of Mr. Obama's Mideast Strategy
+*   _Robert Reich_: Trump Substitutes Lawless Thuggery for American Justice
     
-*   _Daniel Byman_: Has Trump Thought Out What Comes After Killing Suleimani?
+*   _Jonathan Turley_: Dem Impeachment Case Collapses Under Weight of Time
     
-*   _Justin Wallin_: What to Expect in 2020: Five Predictions
+*   _Heather Digby Parton_: Bill Barr, Warrior for Theocracy: Why Didn't We Know?
     
-*   _Grady Means_: Real Achievements, Weak Opponents Set Up Trump 2020 Win
+*   _Adam Mill_: Comey Lied to the FISA Court, Should Be Arrested
     
-*   _Cillizza &. Enten_: Ranking the 5 Dems With Best Chance of Winning Nomination
+*   _Paul Krugman_: As Australia Burns, Apocalypse Becomes the New Normal
     
 
 *   Previous
@@ -252,6 +252,28 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
+*   Iowa Democratic Presidential CaucusCBS News/YouGov
+    *   Sanders23
+    *   Buttigieg23
+    *   Biden23
+    *   Warren16
+    *   Klobuchar7
+    *   Booker2
+    *   Yang2
+    *   Steyer2
+    *   Gabbard1
+    *   Bennet0Tie
+*   New Hampshire Democratic Presidential PrimaryCBS News/YouGov
+    *   Sanders27
+    *   Biden25
+    *   Buttigieg13
+    *   Warren18
+    *   Klobuchar7
+    *   Yang2
+    *   Gabbard1
+    *   Steyer3
+    *   Booker3
+    *   Williamson0Sanders +2
 *   2020 Democratic Presidential NominationHarvard-Harris
     *   Biden30
     *   Sanders17
@@ -269,31 +291,14 @@ Latest PollsAll Polls
 *   President Trump Job ApprovalHarvard-Harris
     *   Approve47
     *   Disapprove53Disapprove +6
-*   Direction of CountryHarvard-Harris
-    *   Right Direction39
-    *   Wrong Track53Wrong Track +14
-*   2020 Democratic Presidential NominationThe Hill/HarrisX
-    *   Biden28
-    *   Sanders16
-    *   Warren11
-    *   Buttigieg6
-    *   Bloomberg11
-    *   Yang2
-    *   Klobuchar2
-    *   Booker2
-    *   Gabbard2
-    *   Steyer2
-    *   Castro2
-    *   Delaney2
-    *   Williamson1Biden +12
 
 More Latest Polls In The News
 
+*   Sanders: "Assassination" Of Qassem Soleimani Is A "Dangerous Escalation," Brings Us Closer To War
+*   Lindsey Graham: Iran Is Trying To Take Over Iraq, America Is Not The Bad Guy
+*   Van Hollen: We Learned During The Iraq War That Administrations "Manipulate" Evidence For War
+*   Warren: "Reasonable Question To Ask" If Iran Strike Is A Distraction From Impeachment. "Why Now?"
 *   Tucker Carlson: Reign In Chamber Of Commerce Libertarianism That Has Allowed Greed To Flourish
-*   Pompeo: "The Decision That President Trump Made To Take Qasem Soleimani Down Saved American Lives"
-*   Geraldo Rivera: "Don't For A Minute" Cheer Killing Of Iranian General. "What We Have Unleashed?"
-*   Dem Rep. Doggett: I "Certainly Support" Withholding Impeachment Articles. There Could Be More
-*   Giuliani: They're Doing Impeachment To Hide "Full Scope" Of Democratic Party's Corruption In Ukraine
 
 *   Politics
 *   Policy
