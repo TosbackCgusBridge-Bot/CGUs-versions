@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Seth Frantzman_: Soleimani Killing Breaks the Myth of Iran's Power
+*   _Victor Davis Hanson_: What Is the Mideast in the Middle of Anymore?
     
-*   _Jonah Shepp_: The Real Risk of Assassinating Soleimani
+*   _Julian Zelizer_: Iran Conflict Confirms Trump Is Who Dems Think He Is
     
-*   _Mike Pompeo_: 'Endless Wars Are the Direct Result of Weakness'
+*   _Kurt Schlichter_: Trump Doctrine Humiliates U.S. Enemies and Liberals
     
-*   _Elaine Godfrey_: Joe Biden Is the Kumbaya Candidate
+*   _Robin Wright_: The Unravelling of the Mideast After Soleimani's Death
     
-*   _Dov Fischer_: The Racist Race to Erase Race From Democrat Race
+*   _Ali Hashem_: What Iran Lost With Soleimani's Killing
     
-*   _Dana Radcliffe_: Mitch McConnell, Meet Alexander Hamilton
+*   _Emily Jashinsky_: Gervais Made a Very Clever Golden Globes Maneuver
     
-*   _Betsy McCaughey_: On Trump Impeachment Trial, Don't Believe Chuck Schumer
+*   _Catherine Shoard_: Ricky Gervais Is Wrong: Politics at Globes Was Essential
     
-*   _Joshau Keating_: Can the President Just Kill Anyone He Wants Now?
+*   _Bruce Bawer_: What Happened to Howard Stern?
     
-*   _Michael Goodwin_: Dems Still Delusional About Trump After Soleimani Death
+*   _Matthew Yglesias_: The Strong Economy Is an Opportunity for Progressives
     
-*   _Bill Schneider_: The Winning Democratic Message for 2020
+*   _Rebecca Grant_: Can China Act Like a Grown-Up World Power? Stay Tuned.
     
-*   _Scott Walker_: In 2020, Expect a Growing Economy and a Trump Win
+*   _David Freedlander_: Ocasio-Cortez Changes D.C.--It Hasn't Changed Her
     
-*   _Domenico Montanaro_: With a Month to Go, Anything Can Happen in Dem Race
+*   _Ben Rhodes_: An Extraordinarily Dangerous Moment
     
-*   _Victor Joecks_: Why Biden Is Going to Win the Nomination
+*   _Brandon Weichert_: Trump's Counterpunching as Grand Strategy
     
-*   _Rebecca Solnit_: My Dream Candidate Exists--Her Name Is Warren
+*   _Alex Seitz-Wald_: Why Joe Biden Is Unsinkable
     
-*   _Hugo Gurdon_: Soleimani Is Dead, and the Economy Is Alive
+*   _Frank Miele_: Are Dems Crazy? How Can Biden Still Be Their No. 1 Choice?
     
-*   _Jonathan Chait_: No, Attacking Iran Won't Help Trump Get Reelected
+*   _David Siders_: Democrats Confront a Primary With No End in Sight
     
-*   _Victor Davis Hanson_: Iran, Not the U.S., Is in a Dilemma
+*   _George Parry_: The Dems' Strange Reaction to the Death of Soleimani
     
-*   _Oona Hathaway_: The Soleimani Strike Defied the U.S. Constitution
+*   _Murtaza Hussain_: How Soleimani Wielded His Enormous Power in Iraq
     
-*   _Roger Simon_: Trump Derangement Syndrome Skyrockets Over Soleimani
+*   _Bill Schneider_: The Dems' Conundrum: a 'Movement' or a Coalition?
     
-*   _Robert Reich_: Trump Substitutes Lawless Thuggery for American Justice
+*   _John Fund_: Do Dems Have the Answer to Trump? Doesn't Look Like It
     
-*   _Jonathan Turley_: Dem Impeachment Case Collapses Under Weight of Time
+*   _Mark Oprea_: Can Suburban Women Swing the Midwest Blue?
     
-*   _Heather Digby Parton_: Bill Barr, Warrior for Theocracy: Why Didn't We Know?
+*   _Rebecca Hagelin_: Black Americans Are Coming Home to the GOP
     
-*   _Adam Mill_: Comey Lied to the FISA Court, Should Be Arrested
+*   _Elizabeth Kolbert_: What Will Another Decade of Climate Crisis Bring?
     
-*   _Paul Krugman_: As Australia Burns, Apocalypse Becomes the New Normal
+*   _Jeff Patch_: A British Billionaire's Rich Footprint in U.S. Climate Politics
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Exerts Maximum Pressure on Iran
+*   Trump Says 52 Targets Already Lined Up If Iran Retaliates
 *   Sanders Raises Impressive $34.5 Million in 2019's Final Quarter
-*   Hemingway: Kevin McCarthy Is 2019 Winner. Russia Hoaxers Are Losers
-*   Buttigieg Criticizes Biden Over Ukraine Dealings as Vice President
+*   Pompeo: Endless Wars Are the Direct Result of Weakness
 *   2019 Census Estimates Foreshadow House Seat Gains, Losses
+*   Buttigieg Criticizes Biden Over Ukraine Dealings as Vice President
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -252,53 +252,34 @@ Latest PollsAll Polls
 *   House 2018
 *   State of the Union
 
-*   Iowa Democratic Presidential CaucusCBS News/YouGov
-    *   Sanders23
-    *   Buttigieg23
-    *   Biden23
-    *   Warren16
-    *   Klobuchar7
-    *   Booker2
-    *   Yang2
-    *   Steyer2
-    *   Gabbard1
-    *   Bennet0Tie
-*   New Hampshire Democratic Presidential PrimaryCBS News/YouGov
-    *   Sanders27
-    *   Biden25
-    *   Buttigieg13
-    *   Warren18
-    *   Klobuchar7
-    *   Yang2
-    *   Gabbard1
-    *   Steyer3
-    *   Booker3
-    *   Williamson0Sanders +2
-*   2020 Democratic Presidential NominationHarvard-Harris
-    *   Biden30
-    *   Sanders17
-    *   Warren12
+*   New Mexico Democratic Presidential PrimaryEmerson
+    *   Sanders28
+    *   Biden27
+    *   Yang10
+    *   Warren8
     *   Buttigieg7
-    *   Bloomberg7
-    *   Yang3
+    *   Bloomberg3
     *   Klobuchar2
     *   Booker2
-    *   Gabbard1
-    *   Steyer2
-    *   Castro1
-    *   Delaney1
-    *   Williamson0Biden +13
-*   President Trump Job ApprovalHarvard-Harris
-    *   Approve47
-    *   Disapprove53Disapprove +6
+    *   Gabbard2
+    *   Steyer1Sanders +1
+*   New Mexico: Trump vs. BidenEmerson
+    *   Biden54
+    *   Trump46Biden +8
+*   New Mexico: Trump vs. SandersEmerson
+    *   Sanders59
+    *   Trump41Sanders +18
+*   New Mexico: Trump vs. WarrenEmerson
+    *   Warren54
+    *   Trump46Warren +8
 
 More Latest Polls In The News
 
-*   Sanders: "Assassination" Of Qassem Soleimani Is A "Dangerous Escalation," Brings Us Closer To War
-*   Lindsey Graham: Iran Is Trying To Take Over Iraq, America Is Not The Bad Guy
-*   Van Hollen: We Learned During The Iraq War That Administrations "Manipulate" Evidence For War
-*   Warren: "Reasonable Question To Ask" If Iran Strike Is A Distraction From Impeachment. "Why Now?"
-*   Tucker Carlson: Reign In Chamber Of Commerce Libertarianism That Has Allowed Greed To Flourish
+*   Nikki Haley: Only People Mourning The Loss Of Soleimani Are Democratic Presidential Candidates
+*   Trump: Pelosi Trying To "Affect The Election Illegally" By Withholding Impeachment Articles
+*   Iraqi Journalist: Killing Soleimani "Ended An Era In Which Iran And The United States Coexisted In Iraq"
+*   McConnell Blasts Dems Who "Downplay Soleimani's Evil While Presenting Our President As The Villain"
+*   ABC's Martha Raddatz In Tehran: "These People Want Revenge" For Killing Of Qassem Soleimani
 
 *   Politics
 *   Policy
