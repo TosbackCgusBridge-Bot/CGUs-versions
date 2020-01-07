@@ -539,7 +539,7 @@ TAKE 50-70% OFF EVERYTHING!
 
 Details
 
-Shop Guys Shop Girls
+Shop Girls Shop Guys
 
 In Stores &. Online
 
