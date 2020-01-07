@@ -53,4 +53,4 @@ Further information and how to contact Facebook
 
 If you have any questions or complaints relating to the Facebook Data Policy, this Supplemental Portal Data Policy or otherwise, or wish to find out more about how to exercise your ability to access, rectify, port and erase the information collected through your Portal, you can refer to the “How to contact Facebook with questions” part of the Facebook Data Policy, your Facebook Settings, or here.
 
-Date of Last Revision: December 27, 2019
+Date of Last Revision: January 1, 2020
