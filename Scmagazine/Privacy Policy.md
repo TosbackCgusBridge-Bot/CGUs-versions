@@ -40,7 +40,7 @@ Skip to navigation Skip to main content Login Register Menu Close
 *   EventsOpen Submenu
     *   Events Back
         *   SC Awards
-        *   InfoSecWorld
+        *   InfoSec World
         *   Webcasts
         *   Virtual Conferences
         *   RiskSec
@@ -213,23 +213,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Still growing after 30 years
-    *   Cities get smarter
-    *   Wyze Labs data breach exposes 2.4 million, includes PHI
+    *   Ransomware attack on maritime facility prompts Coast Guard warning
     *   Citrix vulnerability places 80,000 companies at risk
-    *   Busted! 2019's top cybercrime news
-    
-    *   Ransomware shuts down The Heritage Company
-    *   Travelex sidelines online financial services following malware discovery
-    *   Inside the connected home and its implications for cybersecurity and privacy
-    *   123456 still a popular password
-    *   Names, Social Security numbers exposed in Moss Adams breach
-    
-    *   CES defends choosing Ivanka Trump for keynote
     *   DHS warns Iran retaliation could include cyberattacks
+    *   Cisco ASA and Firepower Appliance seeing increased attacks
+    *   Ransomware shuts down The Heritage Company
+    
+    *   Google reportedly suspends integrations with Xiaomi smart camera due to software bug
+    *   Wawa POS system compromised for 10 months, cybersecurity pros weigh in
+    *   Drupal’s Archive Tar patches multiple crititical vulnerabilities
+    *   Identity access management – An auditor’s view
     *   New Magecart skimmers practice steganography, data transfer via WebSocket
-    *   Ransomware forces Richmond Community Schools to close
-    *   Army joins Navy in banning TikTok
+    
+    *   Google reportedly suspends integrations with Xiaomi smart camera due to software bug
+    *   Google app vulnerability being exploited in the wild: Trend Micro
+    *   Cisco repairs 12 bugs in its Data Center Network Manager
+    *   Murphy given the reigns at Imperva
+    *   Solving man in the middle cyberattacks with cloud-native SDPs
 
 Back to Top
 
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
