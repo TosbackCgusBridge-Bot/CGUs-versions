@@ -465,6 +465,7 @@ You also have the right to opt out of the sale of your personal information. Cal
 *   Privacy / Website Terms Of Use
 *   Sitemap
 *   **Do not sell my personal information**
+*   Do not sell my personal information
 
 ©1995-2020 National Association of REALTORS® and Move, Inc. All rights reserved.  
 realtor.com® is the official site of the National Association of REALTORS® and is operated by Move, Inc., a subsidiary of News Corp.
