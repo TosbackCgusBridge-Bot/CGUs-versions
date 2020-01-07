@@ -155,7 +155,7 @@ We and our third-party providers use cookies, clear GIFs/pixel tags, JavaScript,
 
 **_Do Not Track (DNT)_.** Our Sites currently do not respond to “do not track” signals. You may, however, disable certain tracking mechanisms in the cookie preference settings of your web browser and opt out of certain third party ad cookies on our websites.
 
-6\. INTREST BASED ADS
+6\. INTEREST BASED ADS
 
 We work with third party ad networks, channel partners, measurement services and others (“third party ad companies”) to display advertising on our Services, and to manage our advertising on third party sites, mobile apps and online services. We and these third party ad companies may use cookies, pixels tags, and other tools to collect activity information on our Services (as well as on third party sites and services), as well as IP address, device ID, cookie and advertising IDs, and other identifiers, general location information, and, with your consent, your device’s geolocation information. we and these third party ad companies use this information to provide you more relevant ads and content and to evaluate the success of such ads and content. 
 
