@@ -8,7 +8,6 @@ Table of Contents
 *   Information Covered by this Privacy Notice
     *   Addendum for Users who purchased services from Constant Contact
     *   Addendum for Users who purchased Domain Registration services, including from Domain.com
-    *   Addendum for Users who purchased services from SinglePlatform
     *   Addendum for California Users
 *   Information We Collect From You
     *   Information You Voluntarily Provide Us
@@ -56,7 +55,6 @@ When you purchase a Service from us, your personal information will be collected
 
 *   Addendum for Users who purchased services from Constant Contact
 *   Addendum for Users who purchased Domain Registration services, including from Domain.com
-*   Addendum for Users who purchased services from SinglePlatform
 *   Addendum for California Users
 
 Information We Collect From You
@@ -329,7 +327,7 @@ THE NETHERLANDS
 Telephone: (+31) – (0)70 – 888 85 00  
 Fax: (+31) – (0)70 – 888 85 01
 
-**Last modified December 20, 2019**
+**Last modified January 6, 2020**
 
 Back To Top ©2020 Endurance International Group.
 
