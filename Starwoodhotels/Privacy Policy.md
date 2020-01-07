@@ -67,6 +67,12 @@ This Privacy Statement describes the privacy practices of the Marriott Group for
 
 Collectively, we refer to the Websites, the Apps and our Social Media Pages, as the “**Online Services**” and, together with the **Property Visits and Offline Interactions**, the “**Services**.” By using the Services, you agree to the terms and conditions of this Privacy Statement.
 
+California Privacy Statement Read the Statement
+
+Open
+
+Read the Marriott Group California Consumer Privacy Statement.
+
 Privacy Preferences
 
 At Marriott, we respect your privacy and want to provide you with the options, information, and choices below to express your preferences: what and how much you share with us and when and how you hear from us.
@@ -82,6 +88,18 @@ Communication Preferences
 Open
 
 We want to engage with you in a way that is valuable to you, including how often you want to hear from us. To set your preferences, please sign in to your loyalty account profile and select Communication Preferences. To unsubscribe, use the link at the bottom of any of our communications to you. NOTE: Even if you choose to opt out of communications, we will continue to send you transactional messages about your reservations or stays, including pre-arrival, confirmation and guest satisfaction surveys.
+
+Data Sharing Preferences
+
+Open
+
+Notice for California and Nevada Residents: To update your data sharing preferences under the California Consumer Privacy Act (CAL. CIV. CODE § 1798.135 (a)(1)) or the Nevada Privacy Law (NRS Ch. 603A, Sec. 2(2)), please:
+
+1\. Submit your preferences.
+
+2\. Visit our Tracking Preferences page.
+
+Read the Marriott Group California Consumer Privacy Statement.
 
 Privacy Rights
 
@@ -498,6 +516,6 @@ Loading...
 
 © 1996 – 2019 Marriott International, Inc. All rights reserved. Marriott Proprietary Information
 
-Tracking Preferences Terms of Use Program Terms &. Conditions Privacy Center Digital Accessibility Site Map Help*   Loading...
+Tracking Preferences Terms of Use Program Terms &. Conditions Privacy Center Do Not Sell My Personal Information Digital Accessibility Site Map Help*   Loading...
     
-prod9,1FB0871C-1CFB-501F-B13C-F9225255CE99
+prod8,A0C34372-563B-500D-8385-F4FCC117264D
