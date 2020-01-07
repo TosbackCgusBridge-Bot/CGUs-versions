@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksHow Artificial Intelligence Is Totally Changing Everything1STIt Took a Court to Decide Whether Pringles Are Potato Chips2NDThere's a Pooping Man in the Catalan Nativity Scene3RDWhy Aren't Seat Belts Required on All School Buses?4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredHUD VIZR | SponsoredEvery Driver in United States Should Have This New Navigation DeviceHUD VIZR | SponsoredHearTech Labs | SponsoredForget Prescription Hearing Aids Use This InsteadHearTech Labs | SponsoredKelley Blue Book | Sponsored56 New and Redesigned Cars, Trucks and SUVsKelley Blue Book | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksClosing Your Bedroom Door at Night Could Save Your Life1STIt Took a Court to Decide Whether Pringles Are Potato Chips2NDHow Artificial Intelligence Is Totally Changing Everything3RDThere's a Pooping Man in the Catalan Nativity Scene4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredWorldemand | Sponsored17+ Actors You Didn't Know Were Gay - No. 8 Will Shock WomenWorldemand | SponsoredTruthFinder People Search Subscription | SponsoredOne Thing All Liars Have in Common, Brace YourselfTruthFinder People Search Subscription | SponsoredDEMS | SponsoredThe Greatest Guitarists of All Time, RankedDEMS | Sponsored
 
 Advertisement
 
-culture - historyShhh! Don't Tell. There's a Secret Apartment Atop the Eiffel TowerBY Laurie L. Dovescience - environmental scienceWho Was the World's First King?BY Nathan Chandlerscience - environmental scienceWhy Does the 'Dirty Dancing' Lake Keep Draining?BY Stephanie ParkerSoGoodly | SponsoredThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly | SponsoredAuto Enthusiast | Search Ads | SponsoredShut the Front Door! These Luxury Vehicles Cost Under $50k!Auto Enthusiast | Search Ads | Sponsored
+science - engineeringWhat's the Difference Between an Avenue, a Road and a Boulevard?BY Melanie Radzicki McManusculture - historyShhh! Don't Tell. There's a Secret Apartment Atop the Eiffel TowerBY Laurie L. Dovetech - computerThat Dead Weblink May Be Revived With the Wayback MachineBY Nathan ChandlerEverydayKoala | SponsoredThese Twins Were Named "Most Beautiful In The World," Wait Till You See Them TodayEverydayKoala | SponsoredAuto Overload | Sponsored20 Photos Captured At Airports That Will Make You Laugh Out LoudAuto Overload | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksBalut Is the Asian Street Food You Gotta Eat to BelieveHow Did the Goldfish Become Everyone's First Pet?What's the Difference Between an Avenue, a Road and a Boulevard?4 Year-End Money Tips to Lower Your Tax Bill in 2020How 'Pretty Boy' Floyd Became the FBI's Public Enemy No. 1The Cornish Game Hen Is Neither Cornish Nor a Henby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksBalut Is the Asian Street Food You Gotta Eat to BelieveWhat's the Difference Between Baking Soda and Baking Powder?Why Aren't Seat Belts Required on All School Buses?What Is Planck's Constant, and Why Does the Universe Depend on It?What's the Difference Between Toilet Paper and Tissue?Why Does the 'Dirty Dancing' Lake Keep Draining?by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2020 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. How Artificial Intelligence Is Totally Changing EverythingRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StoryHUD VIZREvery Driver in United States Should Have This New Navigation DeviceHUD VIZR|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Closing Your Bedroom Door at Night Could Save Your LifeRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StoryWorldemand17+ Actors You Didn't Know Were Gay - No. 8 Will Shock WomenWorldemand|SponsoredSponsoredRead Next Story
