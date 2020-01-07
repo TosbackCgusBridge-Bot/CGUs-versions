@@ -8,26 +8,27 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Star Wars: The Rise of Skywalker (2019)
     *   Jumanji: The Next Level
     *   Little Women (2019)
+    *   The Grudge (2020)
     *   Frozen II
     *   Spies in Disguise
     *   Knives Out
     *   Uncut Gems
     *   Cats (2019)
-    *   Bombshell (2019)
     *   Richard Jewell
-    *   Ford v Ferrari
+    *   Bombshell (2019)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   The Grudge (2020)
-    *   Adoring (2020)
+    *   1917 (2019)
+    *   Just Mercy
+    *   Like a Boss
+    *   Underwater
+    *   Chhapaak
     *   See All Opening This Week
     
     Coming Soon
     
-    *   1917 (2019)
-    *   Just Mercy
     *   Like a Boss
     *   Underwater
     *   Bad Boys for Life
@@ -35,7 +36,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   The Gentlemen
     *   The Last Full Measure
     *   The Turning (2020)
+    *   Gretel &. Hansel
     *   The Rhythm Section
+    *   Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)
     *   See All Coming Soon
     
     Explore More
@@ -502,10 +505,6 @@ Offers
 *   Every 4 Tickets = $5 For You
     
     Buy tickets. Earn points. Get a $5 reward for a movie on us. BUY TICKETS
-    
-*   Binge All The Golden Globe Nominees With FandangoNOW
-    
-    Catch up with titles at home or those still in theaters! WATCH NOW
     
 
 New + Coming soon
