@@ -4,8 +4,6 @@
 *   FIND A STORE
 *   800.607.9788
 
-Select Girls’ KanCan Signature Jeans are now 15% off. Shop Now
-
 *   Women
 *   Men
 *   Kids
@@ -36,7 +34,6 @@ Select Girls’ KanCan Signature Jeans are now 15% off. Shop Now
         *   Buckle Exclusives
         *   buckle SELECT
         *   Gift Cards
-        *   Now Trending
         *   Shop by Outfits
         *   Special Offers
         *   Women's Brands
@@ -111,7 +108,6 @@ Select Girls’ KanCan Signature Jeans are now 15% off. Shop Now
         *   buckle SELECT
         *   Gift Cards
         *   Men's Brands
-        *   Now Trending
         *   Shop by Outfit
         *   Special Offers
         
