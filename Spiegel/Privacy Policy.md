@@ -13,9 +13,9 @@ Anmelden
 *   Wissenschaft
 *   mehr 
 
-*   6\. Januar 2020
+*   7\. Januar 2020
 *   Abo
-*   DAX 13.219,14ǀ
+*   DAX 13.126,99ǀ
 *   Schlagzeilenǀ
 
 *   Nachrichten
@@ -84,7 +84,6 @@ Anmelden
         *   Musik
         *   TV
         *   Literatur
-        *   Gutenberg
         *   Bestseller
         *   Buchrezensionen
     
@@ -367,6 +366,3 @@ SPIEGEL GRUPPE
 *   \-Nutzungsrechte
 *   \-Kontakt
 *   \-Hilfe
-
-  
-BESbswyBESbswyBESbswy
