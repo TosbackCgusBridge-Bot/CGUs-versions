@@ -117,7 +117,7 @@ Close submenu (Working at USPS)Working at USPS
 *   Career development
 *   Diversity &. inclusion
 
-ALERT: Mail service is disrupted in some parts of the southeast U.S. due to Hurricane Dorian. Learn more. Jump to page content
+6.4 magnitude earthquake strikes Puerto Rico, affecting USPS service in some locations. Learn more >. Jump to page content
 
 *   Who we are
     *   Postal profile
