@@ -63,9 +63,9 @@ Lenovo Explore Close
         *   AIO A340/Tab E8 Bundle
         *   AIO 730S/ Tab M10 Bundle
         
-        Clearance
+        Sale
         
-        The savings keep coming. Shop towers, all-in-ones &. more and enjoy end of year discounts
+        Click to visit desktop deals to enjoy weekly savings on traditional towers, all-in-ones &. more!
         
     *   Workstations
         
@@ -91,9 +91,9 @@ Lenovo Explore Close
         *   ThinkStation P330 Tiny
         *   ThinkStation P330 Tower
         
-        Clearance
+        Sale
         
-        Get the power you need with our highly rated workstations. Enjoy end of year savings now.
+        Get the power you need with our wide selection of highly rated workstations. Enjoy savings now!
         
     *   Tablets
         
@@ -118,9 +118,9 @@ Lenovo Explore Close
         
         The perfect family entertainment tablet
         
-        Clearance
+        Sale
         
-        Still searching for that perfect gift or a gift for yourself? Shop end of year savings on tablets &. smart devices!
+        Shop tablets &. smart devices for the whole family and save today!
         
     *   Accessories &. Software
         
@@ -180,9 +180,9 @@ Lenovo Explore Close
         *   Sale
         *   Monitor Accessories
         
-        Clearance
+        Sale
         
-        Shop end of year savings on monitors for work, home or gaming now!
+        Click to save now on monitors for work, home &. gaming!
         
     *   Gaming
         
@@ -213,9 +213,9 @@ Lenovo Explore Close
         *   Realspace Gaming Chair
         *   Legion Y740
         
-        Clearance
+        Shop Gaming
         
-        Shop laptops, desktops, consoles &. more and enjoy end of year savings on your favorite brands.
+        Shop everything gaming from consoles to headsets, &. check out your favorite brands like Xbox &. Nintendo
         
     *   Business
         
@@ -306,9 +306,9 @@ Lenovo Explore Close
         *   Trade In Program
         *   Outlet
         
-        Clearance
+        Sale
         
-        Shop the tech deals you've been eyeing &. get savings up to 65%. End the holidays with no regrets.
+        Don't miss out on weekly deals on laptops, desktops, monitors &. more!
         
 *   Phones
 *   Data Center
@@ -608,7 +608,7 @@ Lenovo Explore Close
 1-855-253-6686
 
 *   Search
-
+*   icon-compare0 Compare Compare (0)
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
@@ -677,7 +677,13 @@ Top Suggestions
 
 View all >.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
+
+Please add at least 2 products for compare
+
+Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
+
+Lenovo Privacy Statement Top
 
 protects better"/>.
 
