@@ -20,18 +20,18 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackCOOKWARE BLENDERS &. JUICERS AIR FRYERS PRESSURE COOKERS SHEETS MATTRESS PADS PILLOWSMATTRESSES Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 21 total items loaded in Media GalleryFollow @jcpenney SHOP NOWHOLIDAY DECOR, SLEEPWEAR, OUTERWEAR AND SWEATERSRecommended for You
+Near YouFind a StoreBackSHEETS MATTRESS PADS PILLOWSMATTRESSESDOWN &. DOWN ALTERNATIVE COMFORTERS BEDDING MEMORY FOAM PILLOWS &. TOPPERS BLANKETS &. THROWS   Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 21 total items loaded in Media GalleryFollow @jcpenney SHOP NOWHOLIDAY DECOR, SLEEPWEAR, OUTERWEAR AND SWEATERSRecommended for You
 
 *   $48after couponArizona Womens Denver Block Heel Riding Boots(131)
-*   $569 clearance
+*   $569 - $949 clearance
     
-    was $38 | 85% offCity Streets 3/4 Sleeve Holiday Swing Dresses(41)
+    was $38 | 75 - 85% offCity Streets 3/4 Sleeve Holiday Swing Dresses(42)
 *   $4999after couponLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(85)
 *   $6 - $48
     
-    Home Expressions Solid or Stripe Bath Towel Collection(477)
-*   $42after coupona.n.a Womens Alford Stacked Heel Motorcycle Boots(80)
-*   $3148after couponwas $140 North Pole Trading Co. Winter Wonderland Quilt Set(14)
+    Home Expressions Solid or Stripe Bath Towel Collection(479)
+*   $359after couponwas $32 North Pole Trading Co. Buffalo Plaid Family Unisex 2-pc. Pant Pajama Set Toddler(4)
+*   $2640after couponSt. John's Bay® Secretly Slender Straight- Leg Jeans(2034)
 
 Shop and Save at JCPenney
 
