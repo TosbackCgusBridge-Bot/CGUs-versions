@@ -24,7 +24,6 @@ Close submenu ( Girls ) Girls
 
 *   Jackets + Coats
 *   Dresses
-*   Matching Sets
 *   Accessories
 *   Shoes
 *   Fragrance
@@ -200,7 +199,6 @@ Close submenu ( Girls ) Girls
 *   Online Only
 *   Destroyed Denim
 *   Music + Pop Culture
-*   Matching Sets
 *   Aero One
 
 Close submenu ( Guys ) Guys
@@ -282,7 +280,6 @@ Menu Find a Store Aeropostale
     
     *   Jackets + Coats
     *   Dresses
-    *   Matching Sets
     *   Accessories
     *   Shoes
     *   Fragrance
@@ -309,7 +306,6 @@ Menu Find a Store Aeropostale
     *   Tops
     *   Bottoms
     *   Jackets + Coats
-    *   Matching Sets
     *   Accessories
     *   Shoes
     *   Fragrance
@@ -460,7 +456,6 @@ Menu Find a Store Aeropostale
         *   Online Only
         *   Destroyed Denim
         *   Music + Pop Culture
-        *   Matching Sets
         *   Aero One
     
     *   Guys
