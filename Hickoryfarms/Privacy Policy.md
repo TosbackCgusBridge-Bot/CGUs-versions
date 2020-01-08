@@ -88,9 +88,9 @@
     *   Premium Wine Gifts
     *   Office Gift BasketsMost Popular Premium Wine Gifts
 *   Sale
-    View All Categories Shop by Category*   Clearance Sale
+    View All Categories Shop by Category*   Final Clearance
 
-1.800.753.8558 Business Gifts End of season clearance - Take 60% off select gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
+1.800.753.8558 Business Gifts Save up to 75% on select gifts &. get free shipping on shipments $30+!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
 
 *   Gift Baskets
     
@@ -182,7 +182,7 @@
     *   Premium Wine Gifts
     *   Office Gift BasketsMost Popular Premium Wine Gifts
 *   Sale
-    View All Categories Shop by Category*   Clearance Sale
+    View All Categories Shop by Category*   Final Clearance
 
 1.800.753.8558 Business Gifts
 
@@ -317,4 +317,4 @@ Find A Store
 
 *   Find A Store
 
-© 2019 All Rights Reserved Privacy Policy Terms Of Use Site Map Compliance Play IconFeedback
+© 2020 All Rights Reserved Privacy Policy Terms Of Use Site Map Compliance Play IconFeedback
