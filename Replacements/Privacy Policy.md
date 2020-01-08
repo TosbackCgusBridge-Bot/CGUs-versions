@@ -180,10 +180,10 @@ Flatware Jewelry
 *   Our Story
 *   Services
 *   Specialty Shops
+*   Get Inspired
 *   Register Patterns
 *   Store
 *   Contact Us
-*   The Christmas Shoppe
 
 Privacy Policy
 
