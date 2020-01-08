@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -118,58 +116,6 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Victor Davis Hanson_: What Is the Mideast in the Middle of Anymore?
-    
-*   _Julian Zelizer_: Iran Conflict Confirms Trump Is Who Dems Think He Is
-    
-*   _Kurt Schlichter_: Trump Doctrine Humiliates U.S. Enemies and Liberals
-    
-*   _Robin Wright_: The Unravelling of the Mideast After Soleimani's Death
-    
-*   _Ali Hashem_: What Iran Lost With Soleimani's Killing
-    
-*   _Emily Jashinsky_: Gervais Made a Very Clever Golden Globes Maneuver
-    
-*   _Catherine Shoard_: Ricky Gervais Is Wrong: Politics at Globes Was Essential
-    
-*   _Bruce Bawer_: What Happened to Howard Stern?
-    
-*   _Matthew Yglesias_: The Strong Economy Is an Opportunity for Progressives
-    
-*   _Rebecca Grant_: Can China Act Like a Grown-Up World Power? Stay Tuned.
-    
-*   _David Freedlander_: Ocasio-Cortez Changes D.C.--It Hasn't Changed Her
-    
-*   _Ben Rhodes_: An Extraordinarily Dangerous Moment
-    
-*   _Brandon Weichert_: Trump's Counterpunching as Grand Strategy
-    
-*   _Alex Seitz-Wald_: Why Joe Biden Is Unsinkable
-    
-*   _Frank Miele_: Are Dems Crazy? How Can Biden Still Be Their No. 1 Choice?
-    
-*   _David Siders_: Democrats Confront a Primary With No End in Sight
-    
-*   _George Parry_: The Dems' Strange Reaction to the Death of Soleimani
-    
-*   _Murtaza Hussain_: How Soleimani Wielded His Enormous Power in Iraq
-    
-*   _Bill Schneider_: The Dems' Conundrum: a 'Movement' or a Coalition?
-    
-*   _John Fund_: Do Dems Have the Answer to Trump? Doesn't Look Like It
-    
-*   _Mark Oprea_: Can Suburban Women Swing the Midwest Blue?
-    
-*   _Rebecca Hagelin_: Black Americans Are Coming Home to the GOP
-    
-*   _Elizabeth Kolbert_: What Will Another Decade of Climate Crisis Bring?
-    
-*   _Jeff Patch_: A British Billionaire's Rich Footprint in U.S. Climate Politics
-    
-
-*   Previous
-*   Next
-
 Privacy Policy
 
 Thank you for visiting this website, a digital service presented to you by RealClearPolitics, LLC. ("RCP", "we" or "us"). Your privacy is important to us. As such, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used by this digital service and among RealClearPolitics network of affiliated and operated digital services ("RealClear Media Group"), which includes any online or mobile websites, applications or digital services owned, operated or offered by, on behalf of, or in conjunction with RCP or its Affiliates, including any online or mobile website, application or digital service installation through which this Privacy Policy appears (each a "Service," collectively the "Services"). "Users" are persons that use the Services.
@@ -217,69 +163,6 @@ If you have any further question about this Privacy Policy, please contact us at
 
   
   
-RecommendedPolitics
-
-*   Politics
-*   Markets
-*   World
-*   Science
-*   History
-*   Future
-*   Energy
-*   Health
-*   Policy
-*   Religion
-*   Defense
-*   Sports
-*   Education
-*   Books
-*   Investigations
-
-*   Trump Says 52 Targets Already Lined Up If Iran Retaliates
-*   Sanders Raises Impressive $34.5 Million in 2019's Final Quarter
-*   Pompeo: Endless Wars Are the Direct Result of Weakness
-*   2019 Census Estimates Foreshadow House Seat Gains, Losses
-*   Buttigieg Criticizes Biden Over Ukraine Dealings as Vice President
-*   Presidential Job Approval
-*   Cartoons of the Week
-
-Latest PollsAll Polls
-
-*   All Polls
-*   All Elections
-*   Senate 2018
-*   Governors 2018
-*   House 2018
-*   State of the Union
-
-*   New Mexico Democratic Presidential PrimaryEmerson
-    *   Sanders28
-    *   Biden27
-    *   Yang10
-    *   Warren8
-    *   Buttigieg7
-    *   Bloomberg3
-    *   Klobuchar2
-    *   Booker2
-    *   Gabbard2
-    *   Steyer1Sanders +1
-*   New Mexico: Trump vs. BidenEmerson
-    *   Biden54
-    *   Trump46Biden +8
-*   New Mexico: Trump vs. SandersEmerson
-    *   Sanders59
-    *   Trump41Sanders +18
-*   New Mexico: Trump vs. WarrenEmerson
-    *   Warren54
-    *   Trump46Warren +8
-
-More Latest Polls In The News
-
-*   Nikki Haley: Only People Mourning The Loss Of Soleimani Are Democratic Presidential Candidates
-*   Trump: Pelosi Trying To "Affect The Election Illegally" By Withholding Impeachment Articles
-*   Iraqi Journalist: Killing Soleimani "Ended An Era In Which Iran And The United States Coexisted In Iraq"
-*   McConnell Blasts Dems Who "Downplay Soleimani's Evil While Presenting Our President As The Villain"
-*   ABC's Martha Raddatz In Tehran: "These People Want Revenge" For Killing Of Qassem Soleimani
 
 *   Politics
 *   Policy
@@ -304,4 +187,4 @@ More Latest Polls In The News
 *   RSS
 *   View Mobile Site
 
-Copyright © 2020 RealClearHoldings, LLC. ©2019 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=null&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
+Copyright © 2020 RealClearHoldings, LLC. ©2019 RealClearPolitics | Go to full site
