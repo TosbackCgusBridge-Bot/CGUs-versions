@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off your order!
+Receive 30% off your order. free shipping, no minimum!
 
-code: PARTY pin: PROMOTION DETAILS
+code: FROSTY pin: PROMOTION DETAILS
 
 Customer Service Menu
 
