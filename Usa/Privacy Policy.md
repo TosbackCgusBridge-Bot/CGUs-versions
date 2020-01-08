@@ -150,7 +150,13 @@ Professional CAD/CAM tools built on Inventor and AutoCAD Learn more Free trial S
 MEDIA &.  
 ENTERTAINMENT COLLECTION
 
-Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Image courtesy of Volkswagen AutoCAD LT shortcuts (post-BF) Try, buy, or learn more about Autodesk products See all products
+Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Image courtesy of Volkswagen Promo Data: 2-day Flash Promotion January 2020
+
+2-DAY NEW YEAR'S SALE
+
+Save on AutoCAD, AutoCAD LT and Revit LT Suite.
+
+Buy now Try, buy, or learn more about Autodesk products See all products
 
 Software for 2D and 3D CAD. Subscription includes AutoCAD, specialized toolsets, and apps.
 
@@ -211,7 +217,7 @@ Product details
 
 $2,590/year
 
-Subscribe Feedback FOLLOW AUTODESK
+Subscribe FEEDBACK FOLLOW AUTODESK
 
 *   Facebook
 *   Instagram
