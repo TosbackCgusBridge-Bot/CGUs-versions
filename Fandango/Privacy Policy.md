@@ -67,7 +67,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   The Week in Movie Trailers: ‘A Quiet Place Part II,’ ‘Gretel &. Hansel,’ ‘Never Rarely Sometimes Always’ and More Read More
-    *   A Fantabulous ‘Birds of Prey’ Character Guide Read More
+    *   ‘1917,’ ‘Parasite’ and ‘The Irishman’ Lead DGA, WGA, PGA and BAFTA Movie Nominations Read More
     *   The Most Anticipated Movies of 2020 Are Directed by Women Read More
     
     Explore Content
@@ -100,7 +100,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     
     Already a Fandango VIP? Sign In
 
-Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Promo Code Policy Gift Card Terms Cookies and Tracking Mobile Apps FandangoNOW Policy VIP+ Program Terms Do Not Sell My Info Privacy PolicyTerms and PoliciesTerms of UseTicket PolicyPromo Code PolicyGift Card TermsCookies and TrackingMobile AppsFandangoNOW PolicyVIP+ Program TermsDo Not Sell My Info en Español | en Français | auf Deutsch
+Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Promo Code Policy Gift Card Terms Cookies and Tracking FandangoNOW Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseTicket PolicyPromo Code PolicyGift Card TermsCookies and TrackingFandangoNOW PolicyVIP+ Program Terms en Español | en Français | auf Deutsch
 
 **Last updated: December 10, 2019**
 
@@ -494,9 +494,9 @@ We have separate policies for workforce data, which is governed by the policies 
 
 Offers
 
-*   Get a $5 Concession Certificate
+*   Your Complete Guide To Awards Season!
     
-    When you purchase 2 or more Kernel Season’s products. SEE DETAILS
+    Get tickets to Award-nominated movies in theaters, like 1917 and Little Women, and find out which movies are available to watch at home right now. LEARN MORE
     
 *   FandangoNOW Fresh Picks
     
@@ -505,6 +505,10 @@ Offers
 *   Every 4 Tickets = $5 For You
     
     Buy tickets. Earn points. Get a $5 reward for a movie on us. BUY TICKETS
+    
+*   Get a $5 Concession Certificate
+    
+    When you purchase 2 or more Kernel Season’s products. SEE DETAILS
     
 
 New + Coming soon
@@ -555,7 +559,7 @@ Follow Us
 *   Fandango on Instagram
 *   Fandango on Youtube
 
-Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help Feedback My Fandango Live Chat
+Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help My Fandango Live Chat
 
 *   About Fandango
 *   Careers
