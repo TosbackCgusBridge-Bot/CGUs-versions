@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   Keep enterprise ROS robots up-to-date with snaps
 *   Discover cool apps with snap find
 *   OpenStack vs VMware: Bringing costs down
 *   This is why smart displays run Ubuntu Core
 *   MAAS 2.7, better networking features for server provisioning
-*   Design and Web team summary – 20 December 2019
 
 *    ›
