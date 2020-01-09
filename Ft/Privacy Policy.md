@@ -147,6 +147,22 @@ This policy is effective from 14 May 2018.
 
 Any changes we may make to this privacy policy will be posted on this page. If changes are significant, we may choose to notify you by email or to clearly indicate on our home page that the policy has been updated.
 
+**Privacy notice for California Consumer Privacy Act**
+
+This section is effective from 1 January 2020 and supplements the information in our Privacy Policy above. 
+
+**Rights for California residents**
+
+If you are a California resident, the California Consumer Privacy Act (CCPA) may provide you with additional rights regarding the use of your personal information. These rights include: 
+
+*   The right to access the personal information we process about you;
+*   The right to know what personal information is collected about you and if any information is sold or disclosed, and to whom;
+*   The right to request the deletion of your personal information, if applicable;
+*   The right to opt-out from the sale of your personal information, if applicable;
+*   The right to not be discriminated against for exercising any of the rights above. 
+
+You can exercise any applicable rights by emailing ccpa.privacy@ft.com or contacting our Customer Care. You may be required to submit proof of your identity and/or address, if we are unable to confirm your identity or cannot verify that you are a California resident. We endeavour to respond to a verifiable consumer request within 45 days. You may also designate an authorised agent to make a request on your behalf, subject to proof of identity and authorisation.
+
 Back to the Top Support Open in app Open in app Help Centre About Us Legal &. Privacy Terms &. Conditions Privacy Cookies Copyright Services Conferences &. Events Individual Subscriptions Group Subscriptions Republishing Contracts &. Tenders Analysts Research Executive Job Search Advertise with the FT Follow the FT on Twitter Ebooks Tools Portfolio ePaper Alerts Hub Lexicon MBA Rankings Economic Calendar News feed Newsletters Currency Converter Press Cuttings More from the FT Group Markets data delayed by at least 15 minutes. © THE FINANCIAL TIMES LTD . FT and ‘Financial Times’ are trademarks of The Financial Times Ltd.  
 The Financial Times and its journalism are subject to a self-regulation regime under the FT Editorial Code of Practice. Financial Times Close UK Edition International Edition Search the FT Search
 
