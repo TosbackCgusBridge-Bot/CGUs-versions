@@ -4,6 +4,8 @@
 *   FIND A STORE
 *   800.607.9788
 
+Select Girls’ KanCan Signature Jeans are now 15% off. Shop Now
+
 *   Women
 *   Men
 *   Kids
@@ -32,7 +34,6 @@
         *   New Arrivals
         *   Brill Boutique
         *   Buckle Exclusives
-        *   buckle SELECT
         *   Gift Cards
         *   Shop by Outfits
         *   Special Offers
@@ -105,7 +106,6 @@
         *   SHOP ALL MEN'S
         *   New Arrivals
         *   Buckle Exclusives
-        *   buckle SELECT
         *   Gift Cards
         *   Men's Brands
         *   Shop by Outfit
