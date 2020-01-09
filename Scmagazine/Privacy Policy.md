@@ -213,23 +213,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Army joins Navy in banning TikTok
-    *   Murphy given the reigns at Imperva
-    *   2020 cybersecurity predictions
-    *   PayPal scam goes after account info, payment card data
-    *   Microsoft helps shutter domains run by North Korean cybergang Thallium
-    
-    *   Army joins Navy in banning TikTok
+    *   Mimecast acquires Segasec
+    *   Wyze Labs data breach exposes 2.4 million, includes PHI
+    *   The psychology of ransomware
+    *   Breach of email accounts impacts 50,000 patients of Minnesota hospital
     *   Google reportedly suspends integrations with Xiaomi smart camera due to software bug
-    *   DHS finds no tampering of Durham County election devices
-    *   Microsoft helps shutter domains run by North Korean cybergang Thallium
-    *   Travelex sidelines online financial services following malware discovery
     
+    *   Achieving an audacious goal by treating cybersecurity like a science
+    *   Iran and the six important things happening now leading to a resilient critical infrastructure
+    *   Attackers sink their meathooks into Landry's restaurants' payment card data
+    *   Containing the ripple effect of cloud cyberattacks
+    *   DHS warns Iran retaliation could include cyberattacks
+    
+    *   Iran and the six important things happening now leading to a resilient critical infrastructure
     *   Breach of email accounts impacts 50,000 patients of Minnesota hospital
     *   Broadcom flips Symantec to Accenture Security
     *   $1 billion deal sends Armis to Insight Partners
     *   Mimecast acquires Segasec
-    *   The psychology of ransomware
 
 Back to Top
 
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
