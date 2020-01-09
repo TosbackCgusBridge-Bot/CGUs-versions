@@ -29,17 +29,17 @@ View more results
     
     Best Games
     *   Fireboy and Watergirl: The Forest Temple
-    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Fireboy and Watergirl 5: Elements
     *   Ono Card Game
     *   Fireboy &. Watergirl 3: The Ice Temple
-    *   Fireboy &. Watergirl 2: The Light Temple
     *   Bad Ice Cream 3: 2 Player Game
-    *   Family Barn
+    *   Mope.io
+    *   Fireboy &. Watergirl 2: The Light Temple
     *   Bullet Force Multiplayer: Shooting Game Online
     *   Goodgame Empire
-    *   Subway Clash 3D: Shooting Game Online Multiplayer
-    *   Slotomania
+    *   Wormate.io
+    *   Family Barn
+    *   Slippery Water Slides: Aquapark.io
 *   Action
     
     Top Categories
@@ -62,18 +62,18 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Bowman
     *   Bomb It 5
+    *   Bowman
     *   Stickman Archer 2
     *   Mr. Bullet
-    *   AZ Tank Game
     *   Miami Crime Simulator 3D
-    *   Snail Bob 8
+    *   AZ Tank Game
     *   Short Life
-    *   Sniper Reloaded
-    *   Apple Shooter: Arrow Game
     *   Snipers Wars: Multiplayer Army Game
     *   Bomb It 6
+    *   Snail Bob 8
+    *   Sniper Reloaded
+    *   Bomb it 7
 *   Adventure
     
     Top Categories
@@ -99,15 +99,15 @@ View more results
     *   World Craft 2
     *   Bob the Robber 4: Season 2 Russia
     *   Chrome Dino
-    *   Fireboy &. Watergirl 4: Crystal Temple
+    *   The Last Survivors: 2 Player Zombie Game
     *   Mine Clone 4
     *   Papa's Scooperia
-    *   Bob the Robber 5: Temple Adventure
+    *   World Crafts
     *   Fox Simulator
+    *   Epic Trains 3
+    *   Bob the Robber 5: Temple Adventure
     *   Build Craft
     *   Dog Simulator: Puppy Craft
-    *   Red Ball 4: Volume 2
-    *   Vex 4
 *   Puzzle
     
     Top Categories
@@ -131,17 +131,17 @@ View more results
     
     Best Games
     *   MahJongCon
+    *   Refuge Solitaire
     *   Bubble Shooter
     *   Jewelry Match
+    *   2020 Blocks
     *   Word Connect
-    *   DINO ROBOT - DINO CORPS
     *   1001 Arabian Nights
     *   Snow Queen 3
-    *   Refuge Solitaire
-    *   Mahjong Connect Classic
+    *   Bob the Robber: Thief Game
+    *   Operate Now: Eye Surgery
     *   Butterfly Kyodai Classic
-    *   3 Pandas
-    *   Garden Tales
+    *   Troll Face Quest: Horror 2
 *   Girls
     
     Top Categories
@@ -164,18 +164,18 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Bridezilla: Wedding Makeover
+    *   Baby Hazel: Hand Fracture
+    *   Little Mermaid Hair Salon
     *   Office Slacking 12
-    *   Ellie: Get Ready With Me
+    *   Bridezilla: Wedding Makeover
+    *   Goldie: Lip Injections
+    *   Love Tester 2.0
     *   Prom at the Princess College
-    *   Coloring Book: Shopkins
     *   Super Tattoo Artist 2
     *   Back To School: Princesses Rush
-    *   International Royal Beauty Contest
-    *   My New Room
-    *   Hair Do Design
-    *   Princess Car Dashboard
-    *   Dentist Salon Party
+    *   Ice Princess: Real Dentist Experience
+    *   Road to Royalty: Battle of Dolls
+    *   Coloring Book: Shopkins
 *   Racing
     
     Top Categories
@@ -203,13 +203,13 @@ View more results
     *   Hill Racing Challenge
     *   Super Speed Racer
     *   Cars 3D
-    *   Crazy Hill Driver
+    *   Thug Racer
     *   Moto X3M 6: Spooky Land
+    *   Crazy Hill Driver
     *   Formula Racer
     *   Russian Car Driver
     *   Russian Extreme Off-Road
-    *   Happy Wheels
-    *   Moto X3M 5: Pool Party
+    *   Neon Biker
 *   Sports
     
     Top Categories
@@ -231,18 +231,18 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Penalty Shooters 2: Football Game
-    *   Archery World Tour
     *   Dodgeball 2
     *   Billiards Pool
-    *   Stunt Skateboard 3D
+    *   Penalty Shooters 2: Football Game
+    *   Archery World Tour
+    *   Snooker
     *   Bowling Classic
+    *   Stunt Skateboard 3D
+    *   Crazy Stunt Cars
     *   1 On 1 Soccer: Classic
     *   Street Free Kick 3D
+    *   Pinch Hitter 2
     *   Moto X3M: Winter - Motorbike Game
-    *   World Cup Penalty 2018
-    *   Tennis
-    *   Snooker
 *   More
     
     *   Multiplayer
