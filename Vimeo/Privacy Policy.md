@@ -1,6 +1,6 @@
 Vimeo Privacy Policy
 
-Last Updated: December 11, 2019
+Last Updated: December 20, 2019
 
 This Privacy Policy explains the information that Vimeo collects when you use its products and services, how that information is used, with whom it may be shared, and your privacy choices.
 
