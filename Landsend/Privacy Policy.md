@@ -284,7 +284,7 @@ Policies
 *   Terms of Use
 *   Recall &. Safety Info
 *   CA Transparency Act
-*   CA Consumer Privacy Act
+*   Do Not Sell My Personal Information - CA Residents Only
 
 Stores
 
@@ -303,7 +303,7 @@ Lands' End Credit Card
 *   Terms of Use
 *   Recall &. Safety Info
 *   CA Transparency Act
-*   CA Consumer Privacy Act
+*   Do Not Sell My Personal Information - CA Residents Only
 
 *   © 2019 lands' end
 *   Sitemap
