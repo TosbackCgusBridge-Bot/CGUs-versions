@@ -30,16 +30,16 @@ View more results
     Best Games
     *   Fireboy and Watergirl: The Forest Temple
     *   Fireboy and Watergirl 5: Elements
-    *   Ono Card Game
-    *   Fireboy &. Watergirl 3: The Ice Temple
-    *   Bad Ice Cream 3: 2 Player Game
     *   Mope.io
-    *   Fireboy &. Watergirl 2: The Light Temple
-    *   Bullet Force Multiplayer: Shooting Game Online
-    *   Goodgame Empire
+    *   Clash of Tanks
+    *   Ono Card Game
+    *   Happy Snakes
     *   Wormate.io
-    *   Family Barn
     *   Slippery Water Slides: Aquapark.io
+    *   Worms.Zone
+    *   Fireboy &. Watergirl 3: The Ice Temple
+    *   Harvest Honors Classic: Multiplayer Harvester Game
+    *   Crowd City
 *   Action
     
     Top Categories
@@ -63,17 +63,17 @@ View more results
     
     Best Games
     *   Bomb It 5
-    *   Bowman
     *   Stickman Archer 2
-    *   Mr. Bullet
-    *   Miami Crime Simulator 3D
-    *   AZ Tank Game
-    *   Short Life
-    *   Snipers Wars: Multiplayer Army Game
-    *   Bomb It 6
-    *   Snail Bob 8
-    *   Sniper Reloaded
     *   Bomb it 7
+    *   Mr. Bullet
+    *   Jinx
+    *   Uphill Rush 7: Waterpark
+    *   Surfer Archers
+    *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
+    *   Miami Crime Simulator 3D
+    *   Whack Your Soulmate
+    *   Gun Blood
+    *   Battle Robot T-Rex Age
 *   Adventure
     
     Top Categories
@@ -102,11 +102,11 @@ View more results
     *   The Last Survivors: 2 Player Zombie Game
     *   Mine Clone 4
     *   Papa's Scooperia
-    *   World Crafts
-    *   Fox Simulator
-    *   Epic Trains 3
     *   Bob the Robber 5: Temple Adventure
-    *   Build Craft
+    *   World Crafts
+    *   Vex 4
+    *   Money Movers
+    *   Rio Rex
     *   Dog Simulator: Puppy Craft
 *   Puzzle
     
@@ -131,17 +131,17 @@ View more results
     
     Best Games
     *   MahJongCon
-    *   Refuge Solitaire
-    *   Bubble Shooter
-    *   Jewelry Match
     *   2020 Blocks
-    *   Word Connect
+    *   Bubble Shooter
+    *   Jewels Blitz
+    *   Candy Star
+    *   Mahjong Toy Chest
+    *   Harry The Hamster
     *   1001 Arabian Nights
-    *   Snow Queen 3
-    *   Bob the Robber: Thief Game
-    *   Operate Now: Eye Surgery
-    *   Butterfly Kyodai Classic
     *   Troll Face Quest: Horror 2
+    *   Butterfly Kyodai Classic
+    *   Bob the Robber: Thief Game
+    *   Mahjong Dimensions: 900 Seconds
 *   Girls
     
     Top Categories
@@ -165,17 +165,17 @@ View more results
     
     Best Games
     *   Baby Hazel: Hand Fracture
-    *   Little Mermaid Hair Salon
-    *   Office Slacking 12
-    *   Bridezilla: Wedding Makeover
     *   Goldie: Lip Injections
     *   Love Tester 2.0
-    *   Prom at the Princess College
-    *   Super Tattoo Artist 2
-    *   Back To School: Princesses Rush
     *   Ice Princess: Real Dentist Experience
     *   Road to Royalty: Battle of Dolls
-    *   Coloring Book: Shopkins
+    *   Celebs Facing the Fashion Challenge
+    *   Beauty's Transformation
+    *   Divas: Online Style Challenge
+    *   Latina Princess: Real Haircuts
+    *   My BFF's Wedding
+    *   Hand Skin Doctor
+    *   Shopaholic: Hollywood
 *   Racing
     
     Top Categories
@@ -199,17 +199,17 @@ View more results
     
     Best Games
     *   Madalin Stunt Cars 2
-    *   Lost Race: Car Game
     *   Hill Racing Challenge
     *   Super Speed Racer
+    *   Amazing Maze
     *   Cars 3D
     *   Thug Racer
-    *   Moto X3M 6: Spooky Land
-    *   Crazy Hill Driver
-    *   Formula Racer
-    *   Russian Car Driver
-    *   Russian Extreme Off-Road
+    *   Happy Wheels
     *   Neon Biker
+    *   Moto Trials Off Road 2
+    *   Russian Car Driver
+    *   Moto X3m 2
+    *   Moto X3M 5: Pool Party
 *   Sports
     
     Top Categories
@@ -231,18 +231,18 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Dodgeball 2
-    *   Billiards Pool
     *   Penalty Shooters 2: Football Game
     *   Archery World Tour
-    *   Snooker
-    *   Bowling Classic
-    *   Stunt Skateboard 3D
     *   Crazy Stunt Cars
-    *   1 On 1 Soccer: Classic
-    *   Street Free Kick 3D
-    *   Pinch Hitter 2
+    *   Stunt Skateboard 3D
+    *   Mini Golf Master
+    *   Table Tennis Challenge
+    *   Stickman Freeride: Bike Game
+    *   3D Bowling
+    *   8 Ball Online
     *   Moto X3M: Winter - Motorbike Game
+    *   Football Legends 2016
+    *   Basketball Stars 2019
 *   More
     
     *   Multiplayer
