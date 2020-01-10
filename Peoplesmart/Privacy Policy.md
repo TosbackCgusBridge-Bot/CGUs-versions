@@ -195,6 +195,6 @@ In summary:
 
 At no cost, you may request information each year regarding any disclosure of your Public or Personal information to third parties for their own direct marketing purposes during the preceding calendar year. You have the right not to be discriminated against for exercising any of the rights listed above. To request access to or deletion of your information, or to exercise any other data rights under California law, please contact us using one of the methods set forth above.
 
-Manage Your Listing Help Center Terms of Use Privacy Policy Opt-Out Policy FCRA Regulations Contact Us Sitemap Explore Find People Court Records Criminal Records County Records Privacy Education Members Help Sitemap Opt Out
+Manage Your Listing Help Center Terms of Use Privacy Policy Opt-Out Policy FCRA Regulations Contact Us Sitemap Explore Find People Court Records Criminal Records County Records Privacy Education Members Help Sitemap Do Not Sell My Info
 
 PeopleSmart is designed to help you find and connect with others. Search by name, email, phone number, and address. PeopleSmart is not a consumer reporting agency as defined by the Fair Credit Reporting Act (FCRA). To learn more, please see our Terms of Use and Privacy Policy. Information offered by PeopleSmart is not to be used for assessing or evaluating a person's eligibility for employment, housing, insurance, credit, or for any other purpose covered under the FCRA.
