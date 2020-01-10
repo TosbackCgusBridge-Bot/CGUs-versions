@@ -120,13 +120,13 @@ Play video: Immerse Yourself in the Action Like Never Before Close video: Immers
 *   Share on Twitter: Immerse Yourself in the Action Like Never Before
 *   Copy URL to Share: Immerse Yourself in the Action Like Never Before
 
-<img class="bg-img video-Ojve-ZyhlPg" data-linkname="en:set\_a:position\_1|\_2x1-2:video:electronics:8KMasterSeriesVideo-January-07-2020:gwt:image:Ojve-ZyhlPg" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Immerse Yourself in the Action Like Never Before Ojve-ZyhlPg 8K-Master-Series-Video" data-img1x="/content/dam/sony/homepage/2020-january/1-7/Z8H\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-january/1-7/Z8H\_500x246.jpg" src="/content/dam/sony/homepage/2020-january/1-7/Z8H\_500x246.jpg" alt="Immerse Yourself in the Action Like Never Before "/>. <img class="bg-img video-Ojve-ZyhlPg" alt="Immerse Yourself in the Action Like Never Before Mobile" data-linkname="en:set\_a:position\_1|\_2x1-2:video:electronics:8KMasterSeriesVideo-January-07-2020:gwt:image-mobile:Ojve-ZyhlPg" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Immerse Yourself in the Action Like Never Before Ojve-ZyhlPg 8K-Master-Series-Video" data-img1x="/content/dam/sony/homepage/2020-january/1-7/Z8H\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-january/1-7/Z8H\_500x246.jpg" src="/content/dam/sony/homepage/2020-january/1-7/Z8H\_600x600.jpg"/>.
+<img class="bg-img video-Ojve-ZyhlPg" data-linkname="en:set\_a:position\_1|\_2x1-2:video:electronics:8KMasterSeriesVideo-January-07-2020:gwt:image:Ojve-ZyhlPg" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Immerse Yourself in the Action Like Never Before Ojve-ZyhlPg 8K-Master-Series-Video" data-img1x="/content/dam/sony/homepage/2020-january/1-7/Z8H\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-january/1-7/Z8H\_500x246.jpg" src="/content/dam/sony/homepage/2020-january/1-7/Z8H\_500x246.jpg" alt="Immerse Yourself in the Action Like Never Before"/>. <img class="bg-img video-Ojve-ZyhlPg" alt="Immerse Yourself in the Action Like Never Before Mobile" data-linkname="en:set\_a:position\_1|\_2x1-2:video:electronics:8KMasterSeriesVideo-January-07-2020:gwt:image-mobile:Ojve-ZyhlPg" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Immerse Yourself in the Action Like Never Before Ojve-ZyhlPg 8K-Master-Series-Video" data-img1x="/content/dam/sony/homepage/2020-january/1-7/Z8H\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-january/1-7/Z8H\_500x246.jpg" src="/content/dam/sony/homepage/2020-january/1-7/Z8H\_600x600.jpg"/>.
 
 Save 25% on 12 months of PlayStation Plus:  https://play.st/2QVasJP   
   
 January's free games? 🐐 Two G.O.A.T.s 🐐 pic.twitter.com/vHRBN27ngg
 
-2 days ago View Tweet Instagram Post B69ttOsgSRr
+3 days ago View Tweet Instagram Post B69ttOsgSRr
 
 *   Share on Facebook: https://direct.playstation.com/en-us
 *   Share on Twitter: https://direct.playstation.com/en-us
