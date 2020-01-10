@@ -64,7 +64,7 @@ The content that you upload to the Service is not private.
 
 You voluntarily consent to upload and make the Content public.
 
-If you voluntarily **subscribe to our newsletter** or agreed to receive the newsletter during your registration, you will be asked to provide us with your email address. You can unsubscribe at any time using the unsubscribe option within the body of the newsletter or by contacting our data protection officer at: dpo@viumble.com
+If you voluntarily **subscribe to our newsletter** or agreed to receive the newsletter during your registration, you will be asked to provide us with your email address. You can unsubscribe at any time using the unsubscribe option within the body of the newsletter or by contacting our data protection officer at: dpo@viumbe.com
 
 We will use your email address in order to send you information related to our Services and to keep you up to date regarding new Services. We may also contact you to ensure the details you provided us are accurate (i.e., during registration) and to get your feedback on you purchase (if applicable).
 
@@ -368,6 +368,6 @@ Seattle, WA 98103.
 
 **13\.** **DATA PROTECTION OFFICER**
 
-If you have any requests regarding the data collected under this Privacy Policy, including without limitation, requests to remove, delete, amend, modify or transfer the data, please contact our Data Protection Officer at: dpo@viumble.com
+If you have any requests regarding the data collected under this Privacy Policy, including without limitation, requests to remove, delete, amend, modify or transfer the data, please contact our Data Protection Officer at: dpo@viumbe.com
 
 Please be sure to include your information in any correspondence to us so that we can respond to your inquiry in a timely manner.
