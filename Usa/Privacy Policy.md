@@ -6,8 +6,6 @@ Change country/language X
 
 Autodesk logo
 
-*   0
-
 *   Sign In
     
     Autodesk Account
@@ -150,13 +148,7 @@ Professional CAD/CAM tools built on Inventor and AutoCAD Learn more Free trial S
 MEDIA &.  
 ENTERTAINMENT COLLECTION
 
-Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Image courtesy of Volkswagen Promo Data: 2-day Flash Promotion January 2020
-
-2-DAY NEW YEAR'S SALE
-
-Save on AutoCAD, AutoCAD LT and Revit LT Suite.
-
-Buy now Try, buy, or learn more about Autodesk products See all products
+Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Image courtesy of Volkswagen Try, buy, or learn more about Autodesk products See all products
 
 Software for 2D and 3D CAD. Subscription includes AutoCAD, specialized toolsets, and apps.
 
@@ -166,9 +158,7 @@ Free trial
 
 Subscribe
 
-$1,449/year
-
-$1,610
+—/year
 
 Software for Building Information Modeling
 
@@ -178,7 +168,7 @@ Free trial
 
 Subscribe
 
-$2,310/year
+—/year
 
 Cost-effective 2D CAD
 
@@ -188,9 +178,9 @@ Free trial
 
 Subscribe
 
-$320/year
+—/year
 
-$400 Try, buy, or learn more about Autodesk products See all products Welcome to the new era of connected construction Introducing Autodesk Construction Cloud™
+Try, buy, or learn more about Autodesk products See all products Welcome to the new era of connected construction Introducing Autodesk Construction Cloud™
 
 We’ve combined advanced technology, a network of builders, and powerful predictive insights to connect all stages of the building lifecycle: design, plan, build, and operate.
 
@@ -205,7 +195,7 @@ See what's included
 
 Product details
 
-$2,825/year
+\---/year
 
 Subscribe
 
@@ -215,7 +205,7 @@ See what's included
 
 Product details
 
-$2,590/year
+\---/year
 
 Subscribe FEEDBACK FOLLOW AUTODESK
 
@@ -275,4 +265,4 @@ _Autodesk is a leader in 3D design, engineering and entertainment software._
 *   Affiliate Program
 *   Referral Program
 
-Privacy settings | Privacy/Cookies | About our Ads | Legal | Report Noncompliance | Site map | © 2019 Autodesk Inc. All rights reserved
+Privacy settings | Privacy/Cookies | About our Ads | Legal | Report Noncompliance | Site map | © 2020 Autodesk Inc. All rights reserved
