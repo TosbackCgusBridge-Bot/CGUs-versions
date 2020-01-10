@@ -149,7 +149,7 @@ Our VP of product management shares three critical areas to explore when evaluat
 Watch the video >. SOME OF THE COMPANIES THAT  
 HARNESS OUR POWER
 
-Ready to talk? Contact us  LET'S CONNECT!
+Ready to talk to the leader in digital media companies? Contact us  LET'S CONNECT!
 
 *   Privacy Policy
 *   Terms of Use
@@ -163,4 +163,4 @@ Ready to talk? Contact us  LET'S CONNECT!
 
 We may collect consumer data from clients and partners which we utilize to perform marketing and analytics services for our clients. Please visit our privacy policy for more detailed information, including the categories of data being collected and the purposes for which we utilize the data. In some cases, we may sell data so that our clients can independently use it for marketing and analytics purposes. To opt out of this data selling, please click on the "Do Not Sell My Personal Information" link above.
 
-© 2019 Conversant LLC. All rights reserved.
+© 2020 Conversant LLC. All rights reserved.
