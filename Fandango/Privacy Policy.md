@@ -102,7 +102,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Promo Code Policy Gift Card Terms Cookies and Tracking FandangoNOW Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseTicket PolicyPromo Code PolicyGift Card TermsCookies and TrackingFandangoNOW PolicyVIP+ Program Terms en Español | en Français | auf Deutsch
 
-**Last updated: December 10, 2019**
+**Last updated: January 9, 2019**
 
 This Privacy Policy explains how Fandango Media, LLC and its subsidiary companies, including the businesses operating under the Fandango, FandangoNOW, Rotten Tomatoes, Flixster, Movieclips, Movies.com, Activaterewards.com, MovieTickets.com, or M-GO brands ("Fandango", "we", "our" or "us"), collect, use, and share information from or about you when you use our websites, downloadable applications, interactive TV applications, voice-activated skills, other digital services, connected devices, and off-line services that link to this policy, or if you generate ratings/reviews/public comments/content on our properties or engage in business with us (the “Services”). Note that this Privacy Policy does not apply to our movie ticketing business that operates in Latin America, as that business has a separate privacy policy.
 
@@ -384,16 +384,11 @@ We may share your information with:
 *   **Social Networks:** We may share your information with social media platforms for example, if you click on a Facebook “like” button on the Services, the “like” may appear on your Facebook account. To control this sharing of information, please review and adjust your privacy settings for the relevant social network. Depending on your privacy settings and actions on such network, we may share contact information, identification and demographic information, user-generated content, device information and identifiers, connection and usage data, and social media information.
 *   **Service Providers:** We engage vendors to perform services for business purposes on our behalf and share information with them to enable them to provide us with such services, including research and analytics, hosting, transaction and payment processing, promotion administration, fraud prevention, identity management, acquisition and other services. Service providers may use such information for their operational purposes in order to provide their services to us.
     *   **Research and Measurement Companies:** We share information about content you view on the Services with video measurement services such as Nielsen TV Ratings, as well as other analytics providers. See Your Rights and Your Choices sections for more information.
-*   **Search Engines:**You may be able to engage with other members of the Services or the public. This may make the name and photo associated with your profile and any comments or user-generated content you provide visible to other members of the Services or the general public. If the information is available to the general public, it may also be searchable by search engines.
+*   **Search Engines:** You may be able to engage with other members of the Services or the public. This may make the name and photo associated with your profile and any comments or user-generated content you provide visible to other members of the Services or the general public. If the information is available to the general public, it may also be searchable by search engines.
 *   **Law Enforcement, Regulators, Anti-fraud Coalitions and Other Groups:** We share any of the categories of information we collect, as appropriate, with these third parties in order to: protect and enforce the legal rights, privacy, and safety of ourselves and our visitors. protect against possible fraud or other illegal activity. respond to requests from government and other authorities. and otherwise comply with legal process.
-
-**Other Sharing**
-
-We may share information about you, often along with a hashed or masked identifier, with third parties so they may better personalize your experience with them and the advertising and other offers they show or otherwise send you and to determine advertising effectiveness. With your appropriate consent when required, and consistent with applicable law, we may share your video viewing behavior with third parties including service providers, advertising companies, analytics partners, and social media sites.
-
-**Sale or Transfer of All or Part of Our Business or Assets**
-
-In the event that Fandango (or any Fandango business) is involved in a merger, acquisition, transfer of control, bankruptcy, reorganization or sale of assets, or diligence associated with such matters, we may sell or transfer the information described in this Privacy Policy as part of that transaction.
+*   **Other Sharing:** We may share information about you, often along with a hashed or masked identifier, with third parties so they may better personalize your experience with them and the advertising and other offers they show or otherwise send you and to determine advertising effectiveness. With your appropriate consent when required, and consistent with applicable law, we may share your video viewing behavior with third parties including service providers, advertising companies, analytics partners, and social media sites.
+*   **Sale or Transfer of All or Part of Our Business or Assets:** In the event that Fandango (or any Fandango business) is involved in a merger, acquisition, transfer of control, bankruptcy, reorganization or sale of assets, or diligence associated with such matters, we may sell or transfer the information described in this Privacy Policy as part of that transaction.
+*   **Sale of Personal Information:** Under California law, certain of the information sharing described above may be categorized as the “sale” of “personal information” under certain circumstances. To the extent that it does constitute such a “sale”, you may opt out of that sale through the mechanism described below.
 
 3\. LEGAL BASES FOR USE OF YOUR INFORMATION
 
@@ -446,7 +441,7 @@ Starting January 1, 2020, you may submit the following types of requests as foll
 *   Request Deletion: If you, or someone acting on your behalf, would like to request that we delete information that we hold about you, you or someone acting on your behalf can either click here for such request, or send an email to deletedata@fandango.com. Note that certain information about you will not be deleted if you request such a deletion, as may be permitted by law. Also note that we will not be able to provide you with certain Services upon a deletion. You will also need to clear your cookies and re-set your MAIDs, as referenced in the link.
 *   Do Not Sell My Personal Information: If you, or someone acting on your behalf, would like to request that we do not sell your personal information, you or someone acting on your behalf can either click here for such request, or send an email to donotsell@fandango.com. You will also need to clear your cookies and re-set your MAIDs, as referenced in the link. For more information about how to opt-out of receiving targeted advertising from certain third party advertisers, please see our Cookies Notice.
 
-Please note that you may be located in a jurisdiction where we are not obligated, or are unable, to fulfill a request. In such a case, your request may not be fulfilled.
+Please note that you may be located in a jurisdiction where we are not obligated, or are unable, to fulfill a request. In such a case, your request may not be fulfilled. In addition, the above requests do not apply to Fandango’s Owners, who are currently NBCUniversal and Warner Bros. To send them requests, please visit their websites.
 
 If you have any unresolved concerns, you may have the right to complain to your local data protection authority.
 
@@ -498,17 +493,17 @@ Offers
     
     Get tickets to Award-nominated movies in theaters, like 1917 and Little Women, and find out which movies are available to watch at home right now. LEARN MORE
     
-*   FandangoNOW Fresh Picks
-    
-    100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
-    
-*   Every 4 Tickets = $5 For You
-    
-    Buy tickets. Earn points. Get a $5 reward for a movie on us. BUY TICKETS
-    
 *   Get a $5 Concession Certificate
     
     When you purchase 2 or more Kernel Season’s products. SEE DETAILS
+    
+*   Play The Circle K Flip And Find Game
+    
+    For a chance to take home daily prizes, including a pair of movie tickets to see Dolittle. SEE DETAILS
+    
+*   Get A $10 Movie Ticket
+    
+    When you subscribe to the Hotstar Annual Pack. SEE DETAILS
     
 
 New + Coming soon
