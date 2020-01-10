@@ -299,7 +299,7 @@ Join now! Collect 10 nights, get 1 reward\* night
 *   Website feedback
 *   About us
 *   List your property
-*   Jobs
+*   Careers
 
 *   Hotels near me
 *   Travel Guides
