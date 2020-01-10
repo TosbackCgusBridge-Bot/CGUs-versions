@@ -213,23 +213,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Mimecast acquires Segasec
-    *   Wyze Labs data breach exposes 2.4 million, includes PHI
-    *   The psychology of ransomware
-    *   Breach of email accounts impacts 50,000 patients of Minnesota hospital
-    *   Google reportedly suspends integrations with Xiaomi smart camera due to software bug
-    
-    *   Achieving an audacious goal by treating cybersecurity like a science
-    *   Iran and the six important things happening now leading to a resilient critical infrastructure
-    *   Attackers sink their meathooks into Landry's restaurants' payment card data
-    *   Containing the ripple effect of cloud cyberattacks
-    *   DHS warns Iran retaliation could include cyberattacks
-    
-    *   Iran and the six important things happening now leading to a resilient critical infrastructure
-    *   Breach of email accounts impacts 50,000 patients of Minnesota hospital
-    *   Broadcom flips Symantec to Accenture Security
+    *   Hackers claiming to be from Iran deface U.S. gov't website
+    *   New Magecart skimmers practice steganography, data transfer via WebSocket
+    *   Rising sea and spam levels? Emotet campaign uses Greta Thunberg as lure
+    *   Solving man in the middle cyberattacks with cloud-native SDPs
     *   $1 billion deal sends Armis to Insight Partners
-    *   Mimecast acquires Segasec
+    
+    *   Sodinokibi ransomware ID'd as cause of Travelex business disruptions
+    *   Iran and the six important things happening now leading to a resilient critical infrastructure
+    *   Breach of email accounts impacts 50,000 patients of Minnesota hospital
+    *   2020 Predictions: Cybersecurity Budget
+    *   Experiential learning - the key to forgetting about the Forgetting Curve
+    
+    *   Experiential learning - the key to forgetting about the Forgetting Curve
+    *   Snake ransomware tries to slither its way into enterprise networks
+    *   Ransomware hits, but doesn’t stop, the Pittsburgh Unified School District
+    *   Facebook deepfakes ban falls short, lawmakers say
+    *   Attackers distill essence of Mirai IoT botnet into LiquorBot malware
 
 Back to Top
 
@@ -260,4 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
