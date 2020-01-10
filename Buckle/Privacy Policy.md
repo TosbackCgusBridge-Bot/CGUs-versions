@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Select Girls’ KanCan Signature Jeans are now 15% off. Shop Now
+Double up on savings! Get an extra 33% off, or 50% off!
 
 *   Women
 *   Men
@@ -167,12 +167,12 @@ Select Girls’ KanCan Signature Jeans are now 15% off. Shop Now
 *   Kids
     *   *   Featured
         
-        *   Boy's New Arrivals
-        *   Girl's New Arrivals
-        *   Boy's Sale
-        *   Girl's Sale
+        *   Boys' New Arrivals
+        *   Girls' New Arrivals
+        *   Boys' Sale
+        *   Girls' Sale
         
-        *   Girl's Clothing
+        *   Girls' Clothing
         
         *   Tops
         *   Jeans
@@ -182,7 +182,7 @@ Select Girls’ KanCan Signature Jeans are now 15% off. Shop Now
         *   T-Shirts
         *   Shop All
         
-        *   Boy's Clothing
+        *   Boys' Clothing
         
         *   Tops
         *   Jeans
@@ -235,8 +235,8 @@ Select Girls’ KanCan Signature Jeans are now 15% off. Shop Now
         
         *   Kid's Jeans
         
-        *   Girl's Jeans
-        *   Boy's Jeans
+        *   Girls' Jeans
+        *   Boys' Jeans
         
         *   Factory Seconds
         
@@ -326,13 +326,13 @@ Select Girls’ KanCan Signature Jeans are now 15% off. Shop Now
         *   Hats
         *   Shop All
         
-        *   Kid's Sale
+        *   Kids' Sale
         
-        *   Girl's Sale Tops
-        *   Girl's Sale Jeans
+        *   Girls' Sale Tops
+        *   Girls' Sale Jeans
         *   Shop All
-        *   Boy's Sale Tops
-        *   Boy's Sale Jeans
+        *   Boys' Sale Tops
+        *   Boys' Sale Jeans
         *   Shop All
         
         *   Outlet
