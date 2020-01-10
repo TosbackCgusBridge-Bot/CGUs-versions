@@ -61,7 +61,6 @@ Close submenu ( Bottoms ) Bottoms
 Close submenu ( Collections ) Collections
 
 *   View All
-*   Doorbusters
 *   New Arrivals
 *   Best Sellers
 *   Jeans Guide
@@ -244,7 +243,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Up to 80% Off Clearance** ** GIRLS GUYS + FS Over $50**
+**Buy 1 Get 1 Free Jeans** ** GIRLS GUYS + FS Over $50/Jeans Orders**
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -289,7 +288,6 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
-        *   Doorbusters
         *   New Arrivals
         *   Best Sellers
         *   Jeans Guide
@@ -504,45 +502,21 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
 
-IN STORES &. ONLINE!
+In Stores &. Online
 
-OUR BIGGEST CLEARANCE SALE STARTS NOW!
+JEANS BUY 1 GET 1 FREE &. FREE SHIP FOR A LIMITED TIME ONLY! Shop Girls Jeans Shop Guys Jeans
 
-UP TO
-
-80% OFF 100s OF NEW STYLES ADDED TO CLEARANCE!
-
-Prices as Marked
-
-Shop Girls Clearance Shop Guys Clearance
-
-IN STORES &. ONLINE!
-
-OUR BIGGEST CLEARANCE SALE STARTS NOW!
-
-UP TO
-
-80% OFF 100s OF NEW STYLES ADDED TO CLEARANCE
-
-Prices as Marked
-
-Shop Girls Clearance Shop Guys Clearance NEW TO CLEARANCE Girls New to Clearance Guys New to Clearance Girls New to Clearance Guys New to Clearance $9.99 &. UNDER $9.99 &. UNDER Girls $9.99 &. Under Guys $9.99 &. Under Girls $9.99 &. Under Guys $9.99 &. Under CLEARANCE TEES CLEARANCE TEES Girls Clearance Tees Guys Clearance Tees Girls Clearance Tees Guys Clearance Tees CLEARANCE TOPS Girls Clearance Tops Guys Clearance Tops Girls Clearance Tops Guys Clearance Tops CLEARANCE BOTTOMS Girls Clearance Bottoms Guys Clearance Bottoms Girls Clearance Bottoms Guys Clearance Bottoms
+\*Must Add 2 to Cart. Excludes Clearance.  
+\*\*Free Shipping on Your Entire Order When You Buy Jeans
 
 In Stores &. Online
 
-TAKE 50-70% OFF EVERYTHING!
+JEANS BUY 1 GET 1 FREE &. FREE SHIP FOR A LIMITED TIME ONLY!
 
-Details
+\*Must Add 2 Cart. Excludes Clearance.  
+\*\*Free Shipping On Your Entire Order When You Buy Jeans
 
-Shop Girls Shop Guys
-
-In Stores &. Online
-
-TAKE 50-70% OFF
-
-Details
-
-Shop Girls Shop Guys New! SOFT SPUN DENIM REINVENT THE REAL. NOW MORE SUSTAINABLE!
+Shop Girls Jeans Shop Guys Jeans New! SOFT SPUN DENIM REINVENT THE REAL. NOW MORE SUSTAINABLE!
 
 Our most popular denim fabric updated  
 with eco-friendly materials for a softer,  
@@ -564,7 +538,19 @@ with eco-friendly materials for a softer,
 more comfortable fit.
 
 Shop Girls Jeans **Buy 1 Get 1 Free**  
-Shop Guys Jeans **Buy 1 Get 1 Free** AERO SWEATERS
+Shop Guys Jeans **Buy 1 Get 1 Free**
+
+In Stores &. Online
+
+UP TO 80% OFF CLEARANCE Shop Girls Clearance Shop Guys Clearance
+
+In Stores &. Online
+
+UP TO 80% OFF CLEARANCE
+
+Details
+
+Shop Girls Clearance Shop Guys Clearance AERO SWEATERS
 
 The softest styles, the most comfortable crops. Stock up on these sewaters before they're sold out.
 
@@ -573,6 +559,18 @@ Shop Sweaters AERO SWEATERS
 The softest styles, the most comfortable crops. Stock up on these sewaters before they're sold out.
 
 Shop Sweaters
+
+In Stores &. Online
+
+TAKE 50-70% OFF EVERYTHING Shop Girls Shop Guys
+
+In Stores &. Online
+
+TAKE 50-70% OFF EVERYTHING
+
+Details
+
+Shop Girls Shop Guys
 
 In Stores &. Online
 
