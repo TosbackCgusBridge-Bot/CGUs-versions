@@ -1,12 +1,14 @@
 Privacy Policy
 
-_Effective as of May 25, 2018._
+_Effective as of January 1, 2019._
 
 We, at Kongregate Inc. (**“Kongregate,”** the **“Company,”** **“we”** or **“us”**), are committed to respecting your privacy and the integrity and security of your personal information. As the data controller of certain of your personal information, we want you to know how we handle it, how we use it, process it and/or share it, as well as the ways in which you can protect your own privacy.
 
 This Privacy Policy applies to www.kongregate.com, www.kartridge.com and all other sites or online service that is owned or operated by Kongregate (each, a **“Site,”** and collectively, the **“Sites,”**), all mobile games published by Kongregate (each, an **“App,”** and collectively, the **“Apps,”** and together with the Sites, the “Platform”), and Kongregate games that can be played through third party platforms, e.g., via consoles, PCs and/or social media sites such as Facebook (**“3rd Party Platform Games”**).
 
-By visiting our Sites, using the Apps, playing 3rd Party Platform Games or otherwise access any of our other products, services or content through any of our Platform or through 3rd Party Platform Games (collectively, “Services”), you agree to and accept this Privacy Policy, our Cookie Policy (which is incorporated into the Privacy Policy) and our User Agreement (of which the Privacy Policy is a part). We reserve the right to change our practices and this Privacy Policy at any time. When any changes are made, we will try to provide reasonable notice and will post the updated version on the Platform. We may also send an email or provide notice within some or all of our Services when this Privacy Policy changes. Each time a user accesses our Services, the Platform or 3rd Party Platform Games, the then current version of the Privacy Policy applies, and you agree that the information we collect will be subject to the Privacy Policy, as updated. We encourage you to check this page regularly so that you know our current practices. Should you have any questions about the changes, You are welcome to contact us at please contact us at support@kongregate.com. If You do not agree with the changes, then unfortunately, we must ask you to cease using our Platform and/or Services, as we must have all users under the same terms in order to provide equitable Services to all.
+By visiting our Sites, using the Apps, playing 3rd Party Platform Games or otherwise access any of our other products, services or content through any of our Platform or through 3rd Party Platform Games (collectively, “Services”), you agree to and accept this Privacy Policy, our Cookie Policy (which is incorporated into the Privacy Policy) and our User Agreement (of which the Privacy Policy is a part). We reserve the right to change our practices and this Privacy Policy at any time.
+
+“Amendments to Privacy Policy.“ We reserve the right to amend this Privacy Policy at our discretion and at any time. When any changes are made, we will try to provide reasonable notice and will post the updated version on the Platform. We may also send an email or provide notice within some or all of our Services when this Privacy Policy changes. Each time a user accesses our Services, the Platform or 3rd Party Platform Games, the then current version of the Privacy Policy applies, and you agree that the information we collect will be subject to the Privacy Policy, as updated. We encourage you to check this page regularly so that you know our current practices. Should you have any questions about the changes, you are welcome to contact us at 1-800-678-2319, or support@kongregate.com. If you do not agree with the changes, then unfortunately, we must ask you to cease using our Platform and/or Services, as we must have all users under the same terms in order to provide equitable Services to all.
 
 Our Privacy Policy explains:
 
@@ -16,7 +18,7 @@ Our Privacy Policy explains:
 *   How long we retain and how we protect the information. and
 *   What rights and link to control your personal data.
 
-We ask that you read this Privacy Policy carefully and familiarize yourself with its content. If you have any questions or concerns after reading this, please contact us at support@kongregate.com.
+We ask that you read this Privacy Policy carefully and familiarize yourself with its content. If you have any questions or concerns after reading this, please contact us at 1-800-678-2319, or support@kongregate.com.
 
 1\. What Information We Collect
 
@@ -106,9 +108,9 @@ Generally, we use both your personally identifiable information and certain non-
 
 3\. With Whom We Share Your Personal Data
 
-Unless we tell you first (such as at the time we collect information from you), or unless it is part of a specific program or feature in which you have elected to participate, we do not rent or sell personally identifiable information to others. We do not share email addresses with third parties for the purpose of sending their own emails to you without your consent. If you do not want us to share your personal information with these companies, then you can either contact us at support@kongregate.com or opt-out. To opt-out, please see **“Your Rights and Options”** below.
+Unless we tell you first (such as at the time we collect information from you), or unless it is part of a specific program or feature in which you have elected to participate, we do not rent or sell personally identifiable information to others. We do not share email addresses with third parties for the purpose of sending their own emails to you without your consent. If you do not want us to share your personal information with these companies, then you can either contact us at 1-800-678-2319, or support@kongregate.com or opt-out. To opt-out, please see **“Your Rights and Options”** below.
 
-We may share information we collect with our third party business partners, advertising companies, and other third parties or allow third parties to collect this information for the purposes described in this Privacy Policy:
+When we disclose personal information for a business purpose, we enter a data processing agreement that describes the purpose and requires the recipient to both keep that personal information confidential and not use it for any purpose except performing the services for which we have agreed upon. We may share information we collect with our third party business partners, advertising companies, and other third parties or allow third parties to collect this information for the purposes described in this Privacy Policy:
 
 *   **Service Providers.** We may use third party service providers to perform services for us such as to provide the infrastructure and IT services (including but not limited to data storage), process credit and debit card transactions, to provide customer services, collecting debt analysis and improve data and process customer inquiries and perform other statistical analyzes. In the performance of these services, the third party vendors may have access to your personal data but is only authorized to process it strictly on our behalf and in accordance with our instructions.
     
@@ -149,12 +151,30 @@ We may share information we collect with our third party business partners, adve
         
         With respect to onward transfers, we remain liable should the third parties to whom we transfer personal data process such information in a manner inconsistent with the Privacy Shield Principles.
         
-
-With respect to onward transfers, we remain liable should the third parties to whom we transfer personal data process such information in a manner inconsistent with the Privacy Shield Principles.
+        **Disclosure under California Consumer Privacy Act of 2018 (“CCPA”).** In the preceding twelve (12) months, we have not sold any personal information, but we have disclosed the following categories of personal information for a business purpose:
+        
+    *   **Category A:** Identifiers.
+        
+    *   **Category B:** California Customer Records personal information categories.
+    *   **Category D:** Commercial Information.
+    *   **Category F:** Internet or other similar network activity.
+    *   **Category G:** Geolocation data.
 
 4\. How Long We Retain Your Personal Data
 
 We keep your information only so long as we need it to provide our Services to you and fulfill the purposes described in this Privacy Policy. We do periodic status checks to review when personal data needs to be deleted. However, as we process your personal data for various purposes, the actual period for which the personal data will be stored will depend on the circumstances. For example, we may retain some information for a few years after you have closed your account with us if this is necessary to meet our legal obligations or to exercise, defend or establish legal rights. When we no longer need to use your information and there is no need for us to keep it to comply with our legal or regulatory obligations, we will either remove it from our systems or depersonalize it so that we cannot identify you.
+
+While we endeavor to honor your requests related to your personal data, we may not be fully able to honor the request until a later time or we may deny your deletion request if retaining the information is necessary for us or our service provider(s) to:
+
+*   Complete the transaction for which we collected the personal information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform our contract with you;
+*   Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities;
+*   Debug products to identify and repair errors that impair existing intended functionality;
+*   Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law;
+*   Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et. seq.);
+*   Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information’s deletion may likely render impossible or seriously impair the research’s achievement, if you previously provided informed consent;
+*   Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us;
+*   Comply with a legal obligation. and/or
+*   Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
 
 5\. How We Protect Your Information
 
@@ -164,9 +184,9 @@ It is important for you to protect against unauthorized access to any login or p
 
 6\. Our Policies Concerning Children
 
-**Our Services are Not Designed for Children.** Our Services, Platform and 3rd Party Platform Games are designed for and directed at people 18 years of age or older. No one under the age of 13 (or under 16 for children located in the European countries)(collectively, **“Children”**) may provide any personal information to us, and we do not knowingly collect information from Children. Children should not attempt to create an account or send any of your information to us, including your name, address, telephone number or email address. If Kongregate learns that we have collected personal information from Children without verification of parental consent in contravention of these measures, we will terminate access to the account immediately and will take all reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or other as required or allowed by law). If you believe that we might have any information from or about Children, please contact us at support@kongregate.com.
+**Our Services are Not Designed for Children.** Our Services, Platform and 3rd Party Platform Games are designed for and directed at people 18 years of age or older. No one under the age of 13 (or under 16 for children located in the European countries)(collectively, **“Children”**) may provide any personal information to us, and we do not knowingly collect information from Children. Children should not attempt to create an account or send any of your information to us, including your name, address, telephone number or email address. If Kongregate learns that we have collected personal information from Children without verification of parental consent in contravention of these measures, we will terminate access to the account immediately and will take all reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or other as required or allowed by law). If you believe that we might have any information from or about Children, please contact us at 1-800-678-2319 or at support@kongregate.com.
 
-**Right to Remove Posted Information — California Minors.** If you are under 18 years of age, reside in California, and have a registered account on the Platform, or through the 3rd Party Platform Games, you have the right to request removal of unwanted information that you publicly post on the Platform, or through the 3rd Party Platform Games. To request removal of such information, you can contact Kongregate using the email address associated with your account at support@kongregate.com stating that you reside in California. Upon receiving such a request, Kongregate will make sure that the information is not publicly available on our Platform, or through our 3rd Party Platform Games.
+**Right to Remove Posted Information — California Minors.** If you are under 18 years of age, reside in California, and have a registered account on the Platform, or through the 3rd Party Platform Games, you have the right to request removal of unwanted information that you publicly post on the Platform, or through the 3rd Party Platform Games. To request removal of such information, you can contact Kongregate using the email address associated with your account at 1-800-678-2319 or support@kongregate.com stating that you reside in California. Upon receiving such a request, Kongregate will make sure that the information is not publicly available on our Platform, or through our 3rd Party Platform Games.
 
 7\. Your Rights and Options
 
@@ -176,7 +196,7 @@ We understand that you may at times need further information from us regarding y
     
 *   **Right to rectification of personal data.** If you find that personal data that we process about you is inaccurate, you have the right to have us correct such personal data.
     
-*   **Right to erasure of personal data (right to be forgotten).** Under certain circumstances, such as if your personal data has been unlawfully processed or you have withdrawn your consent (if the processing of your personal data is based on consent), you have the right to request and obtain erasure of your personal data from us.
+*   **Right to erasure of personal data (right to be forgotten).** Under certain circumstances, such as if your personal data has been unlawfully processed or you have withdrawn your consent (if the processing of your personal data is based on consent), you have the right to request and obtain erasure of your personal data from us, subject to certain exceptions.
     
 *   **Right to restriction of processing.** Under certain circumstances, such as if you question the accuracy of your personal data or you have objected to our legitimate purpose to process your personal data, you have the right to request that we restrict the processing of your personal data until a solution has been found.
     
@@ -187,15 +207,17 @@ We understand that you may at times need further information from us regarding y
 *   **Right to lodge a complaint with a supervisory authority.** You have the right to lodge a complaint regarding our processing of your personal data with the supervisory authority of your place of residence, place of work or place of the alleged infringement.
     
 
-Please contact us at support@kongregate.com to make a request in respect of your rights. We will use commercially reasonable efforts to respond to your request within 30 days of receiving such request. If we cannot honor your request within the 30-day period, we will let you know the reasons why and when we expect to be able to fulfil your request.
+Non-Discrimination.  At the risk of stating the obvious, we want to be clear that we will not discriminate against you for exercising any of your CCPA rights or other privacy rights. Unless permitted by CCPA, we will not take any discriminatory actions, including, denying you goods or services, charging you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties. providing you a different level or quality of goods or services. or suggesting that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
 
-If our processing of your personal data is based on your consent, you have the right to withdraw such consent at any time (this will however not affect the processing based on your consent before its withdrawal) by contacting us at support@kongregate.com or by updating the settings in our Services (where applicable).
+Please contact us at 1-800-678-2319 or at support@kongregate.com to make a request in respect of your rights. We will use commercially reasonable efforts to respond to your request within 30 days of receiving such request. If we cannot honor your request within the 30-day period, we will let you know the reasons why and when we expect to be able to fulfil your request.
+
+If our processing of your personal data is based on your consent, you have the right to withdraw such consent at any time (this will however not affect the processing based on your consent before its withdrawal) by contacting us at 1-800-678-2319 or support@kongregate.com or by updating the settings in our Services (where applicable).
 
 We offer you choices about the information we collect, how we use and disclose this information and how we communicate with you.
 
 *   **Updating Your Profile.** If you wish to review, edit or delete information you have provided to Kongregate, you may access your account information on the Site at any time by clicking on your username at the top of the Site homepage. We retain and use your information as necessary as described in **“How Long We Retain Your Personal Data.”**
     
-*   **Opting Out of Promotional Emails from Kongregate.** If you are receiving Kongregate promotional emails and no longer wish to receive those email messages, you may opt out at the time you receive the message by following the instructions in that email, clicking on the unsubscribe link in our emails or contacting us at support@kongregate.com. Please allow up to ten (10) business days for your request to be processed. You will continue to receive non-marketing-related emails (e.g., material changes to the privacy policy, issues with the Platform or compromised data access).
+*   **Opting Out of Promotional Emails from Kongregate.** If you are receiving Kongregate promotional emails and no longer wish to receive those email messages, you may opt out at the time you receive the message by following the instructions in that email, clicking on the unsubscribe link in our emails or contacting us at 1-800-678-2319 or at support@kongregate.com. Please allow up to ten (10) business days for your request to be processed. You will continue to receive non-marketing-related emails (e.g., material changes to the privacy policy, issues with the Platform or compromised data access).
     
 *   **Opting Out of App Notifications.** Kongregate Apps may send push notifications to your mobile device to provide game information, news, updates, or other relevant information. You can manage these updates from the “settings” page from within the App or from your device control panel that manages these notifications.
     
@@ -239,19 +261,19 @@ _IMPORTANT INFORMATION FOR EUROPEAN USERS:_ When you use our Services, your data
 
 The personal data that we collect from you may be transferred to and stored at a destination outside the European Economic Area (**“EEA”**) and Switzerland, including at destinations that are not subject to a decision by the European Commission establishing an adequate level of protection of personal data. Currently, our servers are in the United States. Your personal data can be shared with other companies owned by our parent company, processed by staff working for us or for one of our suppliers, or shared with certain third parties who may be located outside the EEA and Switzerland. We will take all reasonable necessary steps to ensure that your personal data is treated securely and in accordance with this Privacy Policy and have adopted appropriate safeguards to protect it.
 
-Kongregate complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from our users in the European Union and Switzerland to the United States. We commit to cooperate with EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) and comply with the advice given by such authorities with regard to data transferred from the EU and Switzerland. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield program and to view our certification, please visit www.privacyshield.gov. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission and/or the Department of Transportation. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+Kongregate complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from our users in the European Union, the United Kingdom and/or Switzerland, as applicable, to the United States in reliance on Privacy Shield.  We commit to cooperate with EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) and comply with the advice given by such authorities with regard to data transferred from the EU and Switzerland. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles with respect to such information. To learn more about the Privacy Shield program and to view our certification, please visit  www.privacyshield.gov.   We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission and/or the Department of Transportation. If there is any conflict between the policies terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program and to view our certification, please visit  www.privacyshield.gov.
 
-In compliance with the Privacy Shield Principles, Kongregate commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Kongregate at support@Kongregate.com. Kongregate has further committed to refer unresolved Privacy Shield complaints to International Centre for Dispute Resolution-American Arbitration Association (ICDR-AAA), an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, you may seek further assistance, at no cost to you, from the ICDR-AAA at http://go.adr.org/privacyshield.html.
+In compliance with the Privacy Shield Principles, Kongregate commits to resolve complaints about our collection or use of your personal information. EU, English and/or Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Kongregate at support@Kongregate.com. Kongregate has further committed to refer unresolved Privacy Shield complaints to International Centre for Dispute Resolution-American Arbitration Association (ICDR-AAA), an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, you may seek further assistance, at no cost to you, from the ICDR-AAA at http://go.adr.org/privacyshield.html.
 
 In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the Privacy Shield Principles.
 
-9\. Questions or Concerns
+9\. Questions, Concerns or Requests
 
-For questions or concerns regarding the Privacy Policy or the use of personal information you submit to us, please contact us at support@kongregate.com or at:
+For questions, concerns or requests regarding the Privacy Policy or the use of personal information you submit to us, please contact us at 1-800-678-2319 or at support@kongregate.com or at:
 
 Kongregate Inc.  
 Floor 3, Suite 321  
 149 New Montgomery St  
 San Francisco, CA 94105
 
-_Last updated: December 19th, 2019_
+_Last updated: December 23rd, 2019_
