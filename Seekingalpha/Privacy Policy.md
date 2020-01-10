@@ -66,10 +66,15 @@ Sign inSUBSCRIBE
     *   Fixed Income
     *   Retirement
 *   ETFs
+    
     *   ETF Analysis
     *   ETF Screener
     *   Editors' Picks
     *   Let’s Talk ETFs
+    
+    *   ETF Performance - Sectors
+    *   ETF Performance - Countries
+    *   ETF Performance - Market Cap
 *   Investing Strategy
     *   Investing Strategy
     *   Editors' Picks
