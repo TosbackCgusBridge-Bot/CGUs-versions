@@ -196,6 +196,7 @@ Close submenu ( Girls ) Girls
 *   Just In
 *   Best Sellers
 *   Online Only
+*   Valentine's Day Shop
 *   Destroyed Denim
 *   Music + Pop Culture
 *   Aero One
@@ -452,6 +453,7 @@ Menu Find a Store Aeropostale
         *   Just In
         *   Best Sellers
         *   Online Only
+        *   Valentine's Day Shop
         *   Destroyed Denim
         *   Music + Pop Culture
         *   Aero One
