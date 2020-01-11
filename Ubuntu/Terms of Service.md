@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
-*   “MaaS. What number would you like?”
+*   The State of Robotics – Robotics Over the Holidays
+*   Infrastructure-as-Code mistakes and how to avoid them
+*   “MAAS. What number would you like?”
 *   Data Ops at petabyte scale
 *   Keep enterprise ROS robots up-to-date with snaps
-*   Discover cool apps with snap find
-*   OpenStack vs VMware: Bringing costs down
 
 *    ›
