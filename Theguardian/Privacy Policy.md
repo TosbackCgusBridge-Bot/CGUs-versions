@@ -74,6 +74,8 @@ Some of our other services have separate privacy policies. You can read them usi
     
 *   Guardian Crowd (pdf)
     
+*   Serelay app
+    
 
 Sometimes our sites and apps may contain links to third party sites and services. These sites and services have their own privacy policies. If you follow a link to a third party, you should read the privacy policy shown on their site.
 
