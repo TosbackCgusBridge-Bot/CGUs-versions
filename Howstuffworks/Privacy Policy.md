@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksThere's a Pooping Man in the Catalan Nativity Scene1STIt Took a Court to Decide Whether Pringles Are Potato Chips2NDBengal Cats Are Mini Leopard Hybrid Housecats3RDBrace Yourself: Bananas Are Berries, Strawberries Aren't4THSoGoodly | SponsoredThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly | SponsoredWorldemand | Sponsored17+ Actors You Didn't Know Were Gay - No. 8 Will Shock WomenWorldemand | SponsoredThedelite | SponsoredBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite | SponsoredDental Implants | SponsoredSee What Full Mouth Dental Implants Should Cost in 2020Dental Implants | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksClosing Your Bedroom Door at Night Could Save Your Life1STTry Ghee, the 'Liquid Gold' Better Than Butter2NDThere's a Pooping Man in the Catalan Nativity Scene3RDBengal Cats Are Mini Leopard Hybrid Housecats4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredBeverly Hills MD | Supplements | SponsoredDoctor: “Doing This Every Morning Can Snap Back Sagging Skin (No Creams Needed)”Beverly Hills MD | Supplements | SponsoredHearTech Labs | SponsoredForget Prescription Hearing Aids Use This InsteadHearTech Labs | SponsoredSUV | SponsoredWhat happens to all 2019 unsold cars and SUVs? Research For Best Luxury SUV 2019SUV | Sponsored
 
 Advertisement
 
-home &. garden - home improvementClosing Your Bedroom Door at Night Could Save Your LifeBY Carrie Whitney, Ph.D.lifestyle - foodTry Ghee, the 'Liquid Gold' Better Than ButterBY Muriel Vegamoney - personal financeCan You Take Out Life Insurance on Just Anyone?BY Dave RoosPlay Now | Caesars Casino Slots | SponsoredHere's the Thing Casinos Don't Want You to KnowPlay Now | Caesars Casino Slots | SponsoredRefinance24x7 | Senior Discount | SponsoredColorado: 7 Discounts Seniors Get Only if They KnowRefinance24x7 | Senior Discount | Sponsored
+animals - wild animalsCheetahs: The Big Cats That Can Totally Pass You on the InterstateBY Jesslyn Shieldsculture - historyHow 'Pretty Boy' Floyd Became the FBI's Public Enemy No. 1BY Oisin Curranlifestyle - foodIt Took a Court to Decide Whether Pringles Are Potato ChipsBY Jeremy GlassScience101 | SponsoredThe Worst Breeds To Adopt According To VeterinariansScience101 | SponsoredThedelite | SponsoredBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksBalut Is the Asian Street Food You Gotta Eat to BelieveShhh! Don't Tell. There's a Secret Apartment Atop the Eiffel TowerWhat Do Reindeer Do When They're Not Pulling Santa's Sleigh?How 'Pretty Boy' Floyd Became the FBI's Public Enemy No. 1How Artificial Intelligence Is Totally Changing EverythingWhy Aren't Seat Belts Required on All School Buses?by Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksBalut Is the Asian Street Food You Gotta Eat to BelieveWhat Do Reindeer Do When They're Not Pulling Santa's Sleigh?Shhh! Don't Tell. There's a Secret Apartment Atop the Eiffel TowerDeaf, Blind and Determined: How Helen Keller Learned to CommunicateBrace Yourself: Bananas Are Berries, Strawberries Aren'tHow Artificial Intelligence Is Totally Changing Everythingby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2020 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. There's a Pooping Man in the Catalan Nativity SceneRead Next StorySoGoodlyThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly|SponsoredSponsoredRead Next StoryWorldemand17+ Actors You Didn't Know Were Gay - No. 8 Will Shock WomenWorldemand|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Closing Your Bedroom Door at Night Could Save Your LifeRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StoryBeverly Hills MD | SupplementsDoctor: “Doing This Every Morning Can Snap Back Sagging Skin (No Creams Needed)”Beverly Hills MD | Supplements|SponsoredSponsoredRead Next Story
