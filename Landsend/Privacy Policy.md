@@ -36,9 +36,9 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 30% off your order. free shipping, no minimum!
+Receive 40% off your order!
 
-code: FROSTY pin: PROMOTION DETAILS
+code: SNOWFALL pin: PROMOTION DETAILS
 
 Customer Service Menu
 
@@ -288,7 +288,7 @@ Policies
 *   Terms of Use
 *   Recall &. Safety Info
 *   CA Transparency Act
-*   Do Not Sell My Personal Information - CA Residents Only
+*   CA Consumer Privacy Act
 
 Stores
 
@@ -307,7 +307,7 @@ Lands' End Credit Card
 *   Terms of Use
 *   Recall &. Safety Info
 *   CA Transparency Act
-*   Do Not Sell My Personal Information - CA Residents Only
+*   CA Consumer Privacy Act
 
 *   © 2019 lands' end
 *   Sitemap
