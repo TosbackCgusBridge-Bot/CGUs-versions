@@ -1,10 +1,10 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Double up on savings! Get an extra 33% off, or 50% off! Select Girls’ KanCan Signature Jeans are now 15% off. Shop Now
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Up to 50% off select denim! Shop Now Double up on savings! Get an extra 33% off, or 50% off!
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-Double up on savings! Get an extra 33% off, or 50% off!
+Up to 50% off select denim! Shop Now
 
 *   Women
 *   Men
