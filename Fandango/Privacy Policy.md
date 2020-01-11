@@ -66,9 +66,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie Trailers: ‘A Quiet Place Part II,’ ‘Gretel &. Hansel,’ ‘Never Rarely Sometimes Always’ and More Read More
+    *   The Week in Movie News: Christian Bale Joins ‘Thor: Love and Thunder, ‘Knives Out’ Sequel in the Works and More Read More
     *   ‘1917,’ ‘Parasite’ and ‘The Irishman’ Lead DGA, WGA, PGA and BAFTA Movie Nominations Read More
-    *   The Most Anticipated Movies of 2020 Are Directed by Women Read More
+    *   The Week in Movie Trailers: ‘The New Mutants,’ ‘Birds of Prey,’ ‘First Cow’ and More Read More
     
     Explore Content
     *   Movie Reviews
