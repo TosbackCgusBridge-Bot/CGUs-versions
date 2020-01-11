@@ -9,38 +9,39 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
-    *   SPANX
+    *   LAGOS Jewelry
+    *   Brooks
+    *   Brooks Men
+    *   Dolce &. Gabbana Accessories &. More Up to 50% Off
+    *   Dolce &. Gabbana Men's Shoes Up to 60% Off
+    *   Dolce &. Gabbana Kids' Shoes Up to 55% Off
+    *   Maggy London and London Times Incl. Plus &. Petites
+    *   Next-Season Styles Incl. Plus &. Petites
+    *   PUMA Men's Activewear
+    *   Resort Ready: re:named apparel from $20
+    *   Sleep &. Lingerie ft. French Connection
+    *   Keep the Cozy Going: Slippers, Boots &. More
+    *   Make a Statement: Men's Graphic Tees from $15
+    *   Korean Beauty: Leaders Cosmetics from $10
+    *   Home Decor: Wall Art, Pillows &. More
+    *   PUMA Kids' Activewear &. More
+    *   Resort-Ready Pairs: Shorts for Every Style
+    *   New Styles Added: SPANX
     *   Mario Badescu
     *   Splendid Up to 60% Off
     *   John Varvatos Star USA Up to 60% Off
     *   Jumpsuits &. Rompers Under $40 Incl. Plus &. Petites
-    *   TMRW Studio Bags Up to 60% Off
-    *   Our Favorite Styles Under $30 Incl. Plus &. Petites
+    
     *   Season's Best Leather Jackets Up to 65% Off
     *   Handmade in Bali: Devata Sterling &. 18K Jewelry
     *   Ones to Watch: Bodysuits from $20
     *   Jazz Up Your January: Shoes from $30
-    *   Trask Up to 70% Off
     *   Let's Go: Loafers &. Flats Up to 60% Off
     *   New Year's Resolutions: Organization from $15
     *   Pre de Provence: French Soaps &. More from $10
     *   Swims Up to 55% Off
-    *   Sleep Shop: Kickee Pants &. Leveret Pajamas
-    *   Splendid Kids &. More Up to 65% Off
-    *   Travel Light: Carry-On Luggage
-    *   Ready to Work: Styles ft. Calvin Klein
     *   Diesel
-    *   ARATTA Up to 70% Off
-    
-    *   n:PHILANTHROPY Up to 80% Off
-    *   Calvin Klein Outerwear &. More
-    *   Crazy for Croc: Handbags from $40
-    *   Layerable Faves: Cardigans
-    *   Outfit Makers: Sneakers from $30
-    *   SUSINA &. More Up to 60% Off
-    *   Roar into the '20s: Animal Print Shoes &. More
     *   Maison Forte
-    *   Desk-to-Dinner Hosiery
     *   K-Beauty ft. Asamo, Jayjun &. More from $10
     *   Vintage Wall Art Up to 65% Off
     *   Must-Have Hair Tools
@@ -50,95 +51,92 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Fiesta Dinnerware &. More Starting at $15
     *   Breville Pro Clad Cookware Up to 60% Off
     *   Kitchen Gadgets &. Storage from $15
-    *   Dogeared Jewelry
-    *   Saturdays NYC
-    *   Sport These: Button-Down Shirts
-    *   Olivia Welles Jewelry Up to 75% Off
-    
-    *   Top Toys Under $20
-    *   bObsweep Robotic Vacuums Up to 75% Off
     *   Candles, Diffusers &. More Under $20
     *   Sugar Me Smooth ft. Body Scrubs &. Hair Removal
+    *   T.M.Lewin
+    
+    *   Our Favorite Styles Under $30 Incl. Plus &. Petites
+    *   Trask Up to 70% Off
+    *   Ready to Work: Styles ft. Calvin Klein
+    *   n:PHILANTHROPY Up to 80% Off
+    *   Layerable Faves: Cardigans
+    *   Luxe Pillows &. Throws Up to 75% Off
+    *   Be Mine: Great Gifts for Her from $20
+    *   TMRW Studio Bags Up to 60% Off
+    *   Sleep Shop: Kickee Pants &. Leveret Pajamas
+    *   Splendid Kids &. More Up to 65% Off
+    *   Travel Light: Carry-On Luggage
+    *   ARATTA Up to 70% Off
+    *   bObsweep Robotic Vacuums Up to 75% Off
+    *   Top Toys Under $20
+    *   The Third Piece: Jackets, Toppers &. More
     *   Original Penguin Footwear Up to 60% Off
-    *   For Little Loungers: Butter Super Soft &. More
     *   Dermatologist's Choice Skin Care
-    *   Mezlan
     *   Free Shipping: Wall Art Up to 50% Off
     *   Dynamic Innovation Labs
     *   SMUG Beauty Contoured 3D Blackout Sleep Masks
-    *   Reserved Footwear Up to 70% Off
     *   Free Shipping: BergHOFF Up to 55% Off
-    *   GoldynGlow Superfood Blends
-    *   Bebe &. Bella Probiotic Skin Care
-    *   Luxe Pillows &. Throws Up to 75% Off
-    *   Be Mine: Great Gifts for Her from $20
-    *   Pet Accessories We Love
-    *   T.M.Lewin
-    *   Kitchen Essentials: Appliances &. More from $20
-    *   Diane von Furstenberg Up to 60% Off
-    *   The Third Piece: Jackets, Toppers &. More
 *   WomenShop Sale Events
     
-    *   SPANX
+    *   LAGOS Jewelry
+    *   Brooks
+    *   Dolce &. Gabbana Accessories &. More Up to 50% Off
+    *   Maggy London and London Times Incl. Plus &. Petites
+    *   Next-Season Styles Incl. Plus &. Petites
+    *   Resort Ready: re:named apparel from $20
+    *   Sleep &. Lingerie ft. French Connection
+    *   Keep the Cozy Going: Slippers, Boots &. More
+    *   Korean Beauty: Leaders Cosmetics from $10
+    *   Resort-Ready Pairs: Shorts for Every Style
+    *   New Styles Added: SPANX
     *   Mario Badescu
     *   Splendid Up to 60% Off
     *   Jumpsuits &. Rompers Under $40 Incl. Plus &. Petites
-    *   TMRW Studio Bags Up to 60% Off
-    *   Our Favorite Styles Under $30 Incl. Plus &. Petites
     *   Season's Best Leather Jackets Up to 65% Off
     *   Handmade in Bali: Devata Sterling &. 18K Jewelry
     *   Ones to Watch: Bodysuits from $20
     *   Jazz Up Your January: Shoes from $30
-    *   Trask Up to 70% Off
+    
     *   Let's Go: Loafers &. Flats Up to 60% Off
     *   Pre de Provence: French Soaps &. More from $10
-    *   Travel Light: Carry-On Luggage
-    *   Ready to Work: Styles ft. Calvin Klein
-    *   ARATTA Up to 70% Off
-    *   n:PHILANTHROPY Up to 80% Off
-    *   Calvin Klein Outerwear &. More
-    *   Crazy for Croc: Handbags from $40
-    
-    *   Layerable Faves: Cardigans
-    *   Outfit Makers: Sneakers from $30
-    *   SUSINA &. More Up to 60% Off
-    *   Roar into the '20s: Animal Print Shoes &. More
-    *   Desk-to-Dinner Hosiery
     *   K-Beauty ft. Asamo, Jayjun &. More from $10
     *   Must-Have Hair Tools
     *   Shine Bright: Lip Gloss Sets Up to 65% Off
-    *   Dogeared Jewelry
-    *   Olivia Welles Jewelry Up to 75% Off
     *   Sugar Me Smooth ft. Body Scrubs &. Hair Removal
+    *   Our Favorite Styles Under $30 Incl. Plus &. Petites
+    *   Trask Up to 70% Off
+    *   Ready to Work: Styles ft. Calvin Klein
+    *   n:PHILANTHROPY Up to 80% Off
+    *   Layerable Faves: Cardigans
+    *   TMRW Studio Bags Up to 60% Off
+    *   Travel Light: Carry-On Luggage
+    *   ARATTA Up to 70% Off
+    *   The Third Piece: Jackets, Toppers &. More
     *   Dermatologist's Choice Skin Care
     *   Dynamic Innovation Labs
     *   SMUG Beauty Contoured 3D Blackout Sleep Masks
-    *   GoldynGlow Superfood Blends
-    *   Bebe &. Bella Probiotic Skin Care
-    *   Diane von Furstenberg Up to 60% Off
-    *   The Third Piece: Jackets, Toppers &. More
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Handbags
     *   Lingerie &. Shapewear
+    *   Handbags
     *   Accessories
 *   MenShop Sale Events
     
+    *   Brooks Men
+    *   Dolce &. Gabbana Men's Shoes Up to 60% Off
+    *   PUMA Men's Activewear
+    *   Make a Statement: Men's Graphic Tees from $15
     *   John Varvatos Star USA Up to 60% Off
     *   Swims Up to 55% Off
-    *   Travel Light: Carry-On Luggage
+    
     *   Diesel
     *   Maison Forte
-    *   Saturdays NYC
-    
-    *   Sport These: Button-Down Shirts
-    *   Original Penguin Footwear Up to 60% Off
-    *   Mezlan
-    *   Reserved Footwear Up to 70% Off
     *   T.M.Lewin
+    *   Travel Light: Carry-On Luggage
+    *   Original Penguin Footwear Up to 60% Off
     
     Shop By Category
     *   Clothing
@@ -146,63 +144,62 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Dolce &. Gabbana Kids' Shoes Up to 55% Off
+    *   PUMA Kids' Activewear &. More
+    *   Chronicle Books
     *   Sleep Shop: Kickee Pants &. Leveret Pajamas
     *   Splendid Kids &. More Up to 65% Off
-    *   Chronicle Books
     *   Top Toys Under $20
-    *   For Little Loungers: Butter Super Soft &. More
     
     Shop By Category
     *   Toy Shop
-    *   Girls' Sizes 2T-6X
     *   Girls' Sizes 7-16
-    *   Boys' Sizes 8-20
-    *   Baby Boy
+    *   Girls' Sizes 2T-6X
     *   Boys' Sizes 2T-7
+    *   Girls' Shoes
+    *   Baby Boy
+    *   Boys' Shoes
     *   Baby Girl
     *   Baby Gear &. Essentials
+    *   Boys' Sizes 8-20
 *   HomeShop Sale Events
     
+    *   Home Decor: Wall Art, Pillows &. More
     *   New Year's Resolutions: Organization from $15
-    *   Travel Light: Carry-On Luggage
     *   Vintage Wall Art Up to 65% Off
     *   Free Shipping: Shun Cutlery Classic Collection
     *   Fiesta Dinnerware &. More Starting at $15
     *   Breville Pro Clad Cookware Up to 60% Off
     *   Kitchen Gadgets &. Storage from $15
-    *   bObsweep Robotic Vacuums Up to 75% Off
     
     *   Candles, Diffusers &. More Under $20
-    *   Free Shipping: Wall Art Up to 50% Off
-    *   Free Shipping: BergHOFF Up to 55% Off
     *   Luxe Pillows &. Throws Up to 75% Off
     *   Be Mine: Great Gifts for Her from $20
-    *   Pet Accessories We Love
-    *   Kitchen Essentials: Appliances &. More from $20
+    *   Travel Light: Carry-On Luggage
+    *   bObsweep Robotic Vacuums Up to 75% Off
+    *   Free Shipping: Wall Art Up to 50% Off
+    *   Free Shipping: BergHOFF Up to 55% Off
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Luggage &. Travel
-    *   Pet Accessories
     *   Cleaning &. Organization
     *   Holiday Decorations
     *   Rugs &. Doormats
     *   Bedding
 *   BeautyShop Sale Events
     
+    *   Korean Beauty: Leaders Cosmetics from $10
     *   Mario Badescu
     *   Pre de Provence: French Soaps &. More from $10
     *   K-Beauty ft. Asamo, Jayjun &. More from $10
     *   Must-Have Hair Tools
     *   Shine Bright: Lip Gloss Sets Up to 65% Off
     *   Sugar Me Smooth ft. Body Scrubs &. Hair Removal
-    
     *   Dermatologist's Choice Skin Care
     *   Dynamic Innovation Labs
     *   SMUG Beauty Contoured 3D Blackout Sleep Masks
-    *   GoldynGlow Superfood Blends
-    *   Bebe &. Bella Probiotic Skin Care
     
     Shop By Category
     *   Skin Care
