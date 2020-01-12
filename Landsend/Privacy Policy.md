@@ -61,11 +61,7 @@ Customer Service
 *   Site Map
 *   Glossary
 
-Find an answer fast
-
-Search the Lands' End Help Center.
-
-Search the Lands' End Help Center. Go LANDS’ END PRIVACY POLICY Effective December 10, 2019
+LANDS’ END PRIVACY POLICY Effective December 10, 2019
 
 Download PDF / Print
 
