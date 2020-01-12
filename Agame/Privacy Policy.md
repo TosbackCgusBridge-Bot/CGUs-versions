@@ -29,17 +29,17 @@ View more results
     
     Best Games
     *   Fireboy and Watergirl: The Forest Temple
-    *   Fireboy &. Watergirl 4: Crystal Temple
+    *   Belote
     *   Fireboy and Watergirl 5: Elements
-    *   Clash of Tanks
-    *   Happy Snakes
+    *   Stickman Fighter: Epic Battle
     *   Harvest Honors Classic: Multiplayer Harvester Game
-    *   Worms.Zone
-    *   Slippery Water Slides: Aquapark.io
     *   Ono Card Game
     *   Crowd City
     *   Superhex.Io
-    *   Stickman Fighter: Epic Battle
+    *   Happy Snakes
+    *   Goodgame Empire
+    *   Madalin Cars Multiplayer
+    *   Master Chess Multiplayer
 *   Action
     
     Top Categories
@@ -62,18 +62,18 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Bomb it 7
-    *   Bomb It 5
-    *   Stickman Archer 2
-    *   Mr. Bullet
     *   Thrill Rush 2
-    *   Surfer Archers
-    *   Pixel Gun Apocalypse 3: Gun Game Online Multiplayer
-    *   Uphill Rush 7: Waterpark
-    *   Deer Hunter
-    *   Stickman Archer Online
+    *   Sniper Code
+    *   Stickman Archer 2
+    *   Street Rage Fighter
+    *   Mr. Bullet
     *   Gun Blood
     *   Mutilate-a-Doll 2
+    *   Combat Strike 2: 3D Shooting Game Online Multiplayer
+    *   Deer Hunter
+    *   Get on Top Mobile: Robot Multiplayer Game
+    *   Stickman Archer Online
+    *   Uphill Rush 7: Waterpark
 *   Adventure
     
     Top Categories
@@ -99,15 +99,15 @@ View more results
     *   World Craft 2
     *   Bob the Robber 4: Season 2 Russia
     *   Chrome Dino
-    *   Fireboy &. Watergirl 4: Crystal Temple
+    *   Island of Secrets
+    *   The Last Survivors: 2 Player Zombie Game
     *   Mine Clone 4
-    *   Papa's Scooperia
     *   World Crafts
+    *   Papa's Scooperia
+    *   Escaping the Prison: Stickman Escapist Game
     *   Vex 4
     *   Bob the Robber 5: Temple Adventure
     *   Horse Simulator 3D
-    *   Money Movers
-    *   Rio Rex
 *   Puzzle
     
     Top Categories
@@ -131,17 +131,17 @@ View more results
     
     Best Games
     *   MahJongCon
-    *   Jewels Blitz
     *   Bubble Shooter
-    *   Candy Star
-    *   Mahjong Toy Chest
     *   Tiles
+    *   Merge Jewels
     *   Mahjong Dimension: 470 Seconds
-    *   1001 Arabian Nights
     *   Love Balls 2
     *   Candy Mahjong
-    *   Mahjong Dimensions: 900 Seconds
     *   Bubble Shooter
+    *   1001 Arabian Nights
+    *   4 in a Row Mania
+    *   TenTrix
+    *   Word Wipe
 *   Girls
     
     Top Categories
@@ -164,18 +164,18 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   Ellie: Get Ready With Me
-    *   Goldie: Lip Injections
-    *   Love Tester 2.0
-    *   Celebs Facing the Fashion Challenge
-    *   Beauty's Transformation
-    *   Divas: Online Style Challenge
     *   Color Me Jungle Animals
     *   Sisters: Break-Up Plan
-    *   Latina Princess: Real Haircuts
-    *   Ice Princess: Real Dentist Experience
+    *   Princess: Enchanted Forest Ball
     *   Blondie Wedding Prep: Dress Up Game
-    *   Pizza Real Life Cooking
+    *   Princesses: Fashion Favorites
+    *   Princess: Magical Fairy Tale Kiss
+    *   Mermaid Sauna Flirting
+    *   Color Me Christmas
+    *   Goldie Princess: Skin Doctor
+    *   Goldie: Lip Injections
+    *   Princesses at a Masquerade
+    *   Mommy BFFs: Pregnant Check-Up
 *   Racing
     
     Top Categories
@@ -200,16 +200,16 @@ View more results
     Best Games
     *   Madalin Stunt Cars 2
     *   Hill Racing Challenge
-    *   Amazing Maze
     *   Super Speed Racer
+    *   Real Dog Racing Simulator
     *   Cars 3D
-    *   Moto Trials Off Road 2
     *   Neon Biker
     *   Happy Wheels
     *   Moto X3m 2
-    *   Russian Car Driver
+    *   Moto Trials Off Road 2
     *   Bus Parking 3D
-    *   Off-Roader V6
+    *   Moto X3M: Motorcycle Racing Game
+    *   Parking Passion
 *   Sports
     
     Top Categories
@@ -232,17 +232,17 @@ View more results
     
     Best Games
     *   Penalty Shooters 2: Football Game
+    *   Pool Profi
     *   Archery World Tour
-    *   Stunt Skateboard 3D
-    *   Mini Golf Master
-    *   Table Tennis Challenge
-    *   8 Ball Online
-    *   Stickman Freeride: Bike Game
-    *   3D Bowling
-    *   Cricket World Championship
+    *   Subway Surf
     *   Crossbow 3D
-    *   Puppet Ice Hockey
     *   Easy Chess
+    *   Horse Racing: Betting Game
+    *   Stunt Skateboard 3D
+    *   Puppet Ice Hockey
+    *   Table Tennis Challenge
+    *   ATV Cruise
+    *   Real Freekick 3D Soccer Game
 *   More
     
     *   Multiplayer
