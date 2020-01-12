@@ -213,23 +213,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Sodinokibi ransomware ID'd as cause of Travelex business disruptions
-    *   Ransomware attack on maritime facility prompts Coast Guard warning
-    *   Apple scans iCloud content for child sexual abuse photos, privacy chief says
-    *   Three GozNym members sentenced domestically, internationally
-    *   DHS finds no tampering of Durham County election devices
+    *   2020 cybersecurity predictions
+    *   Leading people in the times of digital transformation
+    *   Bahraini oil company reportedly attacked by new 'Dustman' disk wiper
+    *   Ransomware forces Richmond Community Schools to close
+    *   $1 billion deal sends Armis to Insight Partners
     
-    *   Mozilla patches exploited zero-day flaw in Firefox
-    *   Murphy given the reigns at Imperva
-    *   Hackers claiming to be from Iran deface U.S. gov't website
+    *   Experiential learning - the key to forgetting about the Forgetting Curve
+    *   Bahraini oil company reportedly attacked by new 'Dustman' disk wiper
     *   Mimecast acquires Segasec
-    *   Names, Social Security numbers exposed in Moss Adams breach
+    *   Snake ransomware tries to slither its way into enterprise networks
+    *   DHS warns Iran retaliation could include cyberattacks
     
+    *   Bahraini oil company reportedly attacked by new 'Dustman' disk wiper
+    *   No immediate cyberthreat seen over Soleimani killing, but preparation is key
     *   Mozilla patches exploited zero-day flaw in Firefox
     *   Cisco patches multiple vulnerabilities
     *   Experiential learning - the key to forgetting about the Forgetting Curve
-    *   Snake ransomware tries to slither its way into enterprise networks
-    *   Ransomware hits, but doesn’t stop, the Pittsburgh Unified School District
 
 Back to Top
 
