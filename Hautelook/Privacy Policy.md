@@ -9,28 +9,52 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
 
 *   All EventsShop Sale Events
     
+    *   Style Steals ft. Tops &. Bottoms Up to 80% Off
+    *   Designer Sun Under $100 ft. Jimmy Choo
+    *   Hunter
+    *   Jenny Bird Jewelry Up to 80% Off
+    *   Steve Madden Bags Up to 55% Off
+    *   Seasonal Savings: Boots Under $50
+    *   Levi's Men Up to 60% Off
+    *   Men's Outerwear Blowout
+    *   Men's Shoe Steals Up to 70% Off
+    *   Hair Brands We Love from $10
+    *   Draper James Up to 60% Off
+    *   L\*Space Swim Up to 60% Off
+    *   Layer Now, Wear Solo Later: Tank Tops from $15
+    *   The Pairs to Wear Now: Straight Leg Denim
+    *   Wild Honey &. More from $20
+    *   Best Feet Forward: Socks &. Leggings
+    *   Men's Waterproof Shoes Up to 55% Off
+    *   Gevril Watches Up to 85% Off
+    *   Booties, Pumps &. More from $30
+    *   Closet Refresh: Boots &. More Up to 60% Off
+    *   Quality Cookware Starting at $15
+    *   Plan to Relax: Men's Loungewear
+    *   Kids' Sleepwear Up to 60% Off
+    *   Kids' Puddle Jumpers: Rain Boots
+    *   Further Food Supplements
+    *   The Art Shop: Framed Art Up to 80% Off
+    *   Bluetooth Solutions: Headphones &. More
+    
+    *   Oh, Baby: Footies, Blankets &. More
     *   NYDJ Incl. Plus &. Petites
-    *   Men's Active Outerwear ft. Mountain Hardwear
     *   One-Stop Dress Shop ft. Gabby Skye
     *   Party-Ready Styles Incl. Plus &. Petites and Shoes
-    *   Sports Bras &. Active Capris Up to 60% Off
     *   Marc Fisher LTD Up to 60% Off
     *   Our Best Bras Under $25
     *   Made in Italy: Meshmerise Under $80
     *   Luseta Beauty Hair Care from $10
     *   Fresh Finds: Shoes from $40
+    *   Men's Active Outerwear ft. Mountain Hardwear
     *   Perfect Black Boots from $40
-    *   Timeless Trenches: Raincoats &. More
-    *   LeSportsac Bags Starting at $20
-    *   XRAY Men's Clothing Up to 70% Off
     *   Dr. Martens Men
     *   Bulova &. Citizen Watches Up to 60% Off
     *   Framed Art Up to 60% Off
     *   XRAY Men's Shoes Up to 65% Off
+    *   LeSportsac Bags Starting at $20
     *   Tween Scene: Ten Sixty Sherman &. More
-    *   New Styles Added: SPANX
     *   Dolce &. Gabbana Accessories &. More Up to 50% Off
-    
     *   Dolce &. Gabbana Men's Shoes Up to 60% Off
     *   Dolce &. Gabbana Kids' Shoes Up to 55% Off
     *   LAGOS Jewelry
@@ -38,22 +62,20 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Brooks Men
     *   Maggy London and London Times Incl. Plus &. Petites
     *   Next-Season Styles Incl. Plus &. Petites
-    *   PUMA Men's Activewear
+    *   Resort-Ready Pairs: Shorts for Every Style
     *   Resort Ready: re:named apparel from $20
+    
     *   Sleep &. Lingerie ft. French Connection
+    *   bObsweep Robotic Vacuums Up to 75% Off
     *   Keep the Cozy Going: Slippers, Boots &. More
     *   Make a Statement: Men's Graphic Tees from $15
     *   Korean Beauty: Leaders Cosmetics from $10
     *   Home Decor: Wall Art, Pillows &. More
     *   PUMA Kids' Activewear &. More
     *   Mario Badescu
-    *   John Varvatos Star USA Up to 60% Off
-    *   Handmade in Bali: Devata Sterling &. 18K Jewelry
     *   New Year's Resolutions: Organization from $15
     *   Pre de Provence: French Soaps &. More from $10
     *   Swims Up to 55% Off
-    
-    *   Maison Forte
     *   K-Beauty ft. Asamo, Jayjun &. More from $10
     *   Vintage Wall Art Up to 65% Off
     *   Must-Have Hair Tools
@@ -61,53 +83,63 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Free Shipping: Shun Cutlery Classic Collection
     *   Fiesta Dinnerware &. More Starting at $15
     *   Breville Pro Clad Cookware Up to 60% Off
+    *   Sports Bras &. Active Capris Up to 60% Off
+    *   Timeless Trenches: Raincoats &. More
+    *   XRAY Men's Clothing Up to 70% Off
+    *   PUMA Men's Activewear
+    *   Sleep Shop: Kickee Pants &. Leveret Pajamas
+    *   Splendid Kids &. More Up to 65% Off
     *   Kitchen Gadgets &. Storage from $15
     *   Candles, Diffusers &. More Under $20
-    *   Sugar Me Smooth ft. Body Scrubs &. Hair Removal
-    *   Dermatologist's Choice Skin Care
     *   Free Shipping: Wall Art Up to 50% Off
-    *   Free Shipping: BergHOFF Up to 55% Off
-    *   Resort-Ready Pairs: Shorts for Every Style
-    *   Splendid Kids &. More Up to 65% Off
-    *   Travel Light: Carry-On Luggage
-    *   bObsweep Robotic Vacuums Up to 75% Off
-    *   Sleep Shop: Kickee Pants &. Leveret Pajamas
 *   WomenShop Sale Events
     
+    *   Style Steals ft. Tops &. Bottoms Up to 80% Off
+    *   Designer Sun Under $100 ft. Jimmy Choo
+    *   Hunter
+    *   Jenny Bird Jewelry Up to 80% Off
+    *   Steve Madden Bags Up to 55% Off
+    *   Seasonal Savings: Boots Under $50
+    *   Hair Brands We Love from $10
+    *   Draper James Up to 60% Off
+    *   L\*Space Swim Up to 60% Off
+    *   Layer Now, Wear Solo Later: Tank Tops from $15
+    *   The Pairs to Wear Now: Straight Leg Denim
+    *   Wild Honey &. More from $20
+    *   Best Feet Forward: Socks &. Leggings
+    *   Gevril Watches Up to 85% Off
+    *   Booties, Pumps &. More from $30
+    *   Closet Refresh: Boots &. More Up to 60% Off
+    *   Further Food Supplements
     *   NYDJ Incl. Plus &. Petites
     *   One-Stop Dress Shop ft. Gabby Skye
     *   Party-Ready Styles Incl. Plus &. Petites and Shoes
-    *   Sports Bras &. Active Capris Up to 60% Off
     *   Marc Fisher LTD Up to 60% Off
     *   Our Best Bras Under $25
     *   Made in Italy: Meshmerise Under $80
+    
     *   Luseta Beauty Hair Care from $10
     *   Fresh Finds: Shoes from $40
     *   Perfect Black Boots from $40
-    *   Timeless Trenches: Raincoats &. More
-    *   LeSportsac Bags Starting at $20
     *   Bulova &. Citizen Watches Up to 60% Off
-    *   New Styles Added: SPANX
+    *   LeSportsac Bags Starting at $20
     *   Dolce &. Gabbana Accessories &. More Up to 50% Off
     *   LAGOS Jewelry
     *   Brooks
-    
     *   Maggy London and London Times Incl. Plus &. Petites
     *   Next-Season Styles Incl. Plus &. Petites
+    *   Resort-Ready Pairs: Shorts for Every Style
     *   Resort Ready: re:named apparel from $20
     *   Sleep &. Lingerie ft. French Connection
     *   Keep the Cozy Going: Slippers, Boots &. More
     *   Korean Beauty: Leaders Cosmetics from $10
     *   Mario Badescu
-    *   Handmade in Bali: Devata Sterling &. 18K Jewelry
     *   Pre de Provence: French Soaps &. More from $10
     *   K-Beauty ft. Asamo, Jayjun &. More from $10
     *   Must-Have Hair Tools
     *   Shine Bright: Lip Gloss Sets Up to 65% Off
-    *   Sugar Me Smooth ft. Body Scrubs &. Hair Removal
-    *   Dermatologist's Choice Skin Care
-    *   Resort-Ready Pairs: Shorts for Every Style
-    *   Travel Light: Carry-On Luggage
+    *   Sports Bras &. Active Capris Up to 60% Off
+    *   Timeless Trenches: Raincoats &. More
     
     Shop By Category
     *   Clothing
@@ -115,74 +147,83 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   Lingerie &. Shapewear
     *   Jewelry
     *   Handbags
-    *   Accessories
     *   Watches
+    *   Accessories
 *   MenShop Sale Events
     
+    *   Levi's Men Up to 60% Off
+    *   Men's Outerwear Blowout
+    *   Men's Shoe Steals Up to 70% Off
+    *   Men's Waterproof Shoes Up to 55% Off
+    *   Gevril Watches Up to 85% Off
+    *   Plan to Relax: Men's Loungewear
     *   Men's Active Outerwear ft. Mountain Hardwear
-    *   XRAY Men's Clothing Up to 70% Off
     *   Dr. Martens Men
+    
     *   Bulova &. Citizen Watches Up to 60% Off
     *   XRAY Men's Shoes Up to 65% Off
     *   Dolce &. Gabbana Men's Shoes Up to 60% Off
     *   Brooks Men
-    
-    *   PUMA Men's Activewear
     *   Make a Statement: Men's Graphic Tees from $15
-    *   John Varvatos Star USA Up to 60% Off
     *   Swims Up to 55% Off
-    *   Maison Forte
-    *   Travel Light: Carry-On Luggage
+    *   XRAY Men's Clothing Up to 70% Off
+    *   PUMA Men's Activewear
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Accessories
     *   Watches
+    *   Accessories
 *   KidsShop Sale Events
     
+    *   Kids' Sleepwear Up to 60% Off
+    *   Kids' Puddle Jumpers: Rain Boots
+    *   Oh, Baby: Footies, Blankets &. More
     *   Tween Scene: Ten Sixty Sherman &. More
     *   Dolce &. Gabbana Kids' Shoes Up to 55% Off
     *   PUMA Kids' Activewear &. More
-    *   Splendid Kids &. More Up to 65% Off
     *   Sleep Shop: Kickee Pants &. Leveret Pajamas
+    *   Splendid Kids &. More Up to 65% Off
     
     Shop By Category
     *   Girls' Sizes 7-16
     *   Girls' Sizes 2T-6X
     *   Boys' Sizes 2T-7
+    *   Baby Girl
     *   Girls' Shoes
     *   Baby Boy
     *   Boys' Shoes
-    *   Baby Girl
-    *   Baby Gear &. Essentials
     *   Boys' Sizes 8-20
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Quality Cookware Starting at $15
+    *   The Art Shop: Framed Art Up to 80% Off
+    *   Bluetooth Solutions: Headphones &. More
     *   Framed Art Up to 60% Off
+    *   bObsweep Robotic Vacuums Up to 75% Off
     *   Home Decor: Wall Art, Pillows &. More
     *   New Year's Resolutions: Organization from $15
+    
     *   Vintage Wall Art Up to 65% Off
     *   Free Shipping: Shun Cutlery Classic Collection
     *   Fiesta Dinnerware &. More Starting at $15
     *   Breville Pro Clad Cookware Up to 60% Off
-    
     *   Kitchen Gadgets &. Storage from $15
     *   Candles, Diffusers &. More Under $20
     *   Free Shipping: Wall Art Up to 50% Off
-    *   Free Shipping: BergHOFF Up to 55% Off
-    *   Travel Light: Carry-On Luggage
-    *   bObsweep Robotic Vacuums Up to 75% Off
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Luggage &. Travel
-    *   Cleaning &. Organization
     *   Electronic &. Tech Accessories
+    *   Cleaning &. Organization
+    *   Luggage &. Travel
     *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   Hair Brands We Love from $10
+    *   Further Food Supplements
     *   Luseta Beauty Hair Care from $10
     *   Korean Beauty: Leaders Cosmetics from $10
     *   Mario Badescu
@@ -190,12 +231,10 @@ Easy Returns to Nordstrom Rack Store or by MailHauteLookFree Shipping on Orders 
     *   K-Beauty ft. Asamo, Jayjun &. More from $10
     *   Must-Have Hair Tools
     *   Shine Bright: Lip Gloss Sets Up to 65% Off
-    *   Sugar Me Smooth ft. Body Scrubs &. Hair Removal
-    *   Dermatologist's Choice Skin Care
     
     Shop By Category
-    *   Skin Care
     *   Hair Care
+    *   Skin Care
     *   Makeup
     *   Bath &. Body
     *   Fragrance
