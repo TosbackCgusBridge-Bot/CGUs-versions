@@ -213,23 +213,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   2020 cybersecurity predictions
-    *   Leading people in the times of digital transformation
+    *   Google app vulnerability being exploited in the wild: Trend Micro
+    *   Cisco repairs 12 bugs in its Data Center Network Manager
     *   Bahraini oil company reportedly attacked by new 'Dustman' disk wiper
-    *   Ransomware forces Richmond Community Schools to close
-    *   $1 billion deal sends Armis to Insight Partners
-    
+    *   No immediate cyberthreat seen over Soleimani killing, but preparation is key
     *   Experiential learning - the key to forgetting about the Forgetting Curve
-    *   Bahraini oil company reportedly attacked by new 'Dustman' disk wiper
-    *   Mimecast acquires Segasec
-    *   Snake ransomware tries to slither its way into enterprise networks
-    *   DHS warns Iran retaliation could include cyberattacks
     
+    *   Wyze Labs data breach exposes 2.4 million, includes PHI
+    *   Shades of Ashley Madison: Love Hotels search engine breached
+    *   $1 billion deal sends Armis to Insight Partners
+    *   2020 Predictions: Technology
+    *   Ransomware attack on maritime facility prompts Coast Guard warning
+    
+    *   Federally funded Unimax smartphone pre-loaded with malware
     *   Bahraini oil company reportedly attacked by new 'Dustman' disk wiper
     *   No immediate cyberthreat seen over Soleimani killing, but preparation is key
     *   Mozilla patches exploited zero-day flaw in Firefox
     *   Cisco patches multiple vulnerabilities
-    *   Experiential learning - the key to forgetting about the Forgetting Curve
 
 Back to Top
 
@@ -260,7 +260,7 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order.
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">.
 
 Advertisement. Closing in 15 seconds.
 
