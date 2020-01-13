@@ -1,4 +1,4 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Up to 50% off select denim! Shop Now Double up on savings! Get an extra 33% off, or 50% off!
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Up to 50% off select denim! Shop Now Double up on savings! Get an extra 33% off, or 50% off!
 
 *   United States
 *   FIND A STORE
@@ -548,4 +548,4 @@ Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
 
-Favorite Product Quick ShopClose Quick Shop×
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. Favorite Product Quick ShopClose Quick Shop×
