@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsEnable Accessibility
 
-*   My AccountSign InTrack MyOrders
+*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -20,14 +20,23 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackUp to 40% OFF  Better SleepSHEETS MATTRESS PADS PILLOWSMATTRESSESDOWN &. DOWN-ALTERNATIVE COMFORTERS BEDDING MEMORY FOAM PILLOWS &. TOPPERS BLANKETS &. THROWS  60 - 70% OFF COATS &. JACKETS FOR THE FAMILYselect styles **sale $12.80-$71.99** | reg. $32-$180
+Near YouFind a StoreBackUp to 40% OFF Better Sleep SHEETS MATTRESS PADS PILLOWSMATTRESSESDOWN &. DOWN-ALTERNATIVE COMFORTERS BEDDING MEMORY FOAM PILLOWS &. TOPPERS BLANKETS &. THROWS  60 - 70% OFF COATS &. JACKETS FOR THE FAMILYselect styles **sale $12.80-$71.99** | reg. $32-$180
 
 *   MEN
 *   WOMEN
 *   KIDS
 *   BABY
 
-Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 28 total items loaded in Media GalleryFollow @jcpenney SHOP NOWHOLIDAY DECOR, SLEEPWEAR, OUTERWEAR AND SWEATERS Shop and Save at JCPenney
+Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 28 total items loaded in Media GalleryFollow @jcpenney SHOP NOWHOLIDAY DECOR, SLEEPWEAR, OUTERWEAR AND SWEATERSRecommended for You
+
+*   $2549after couponwas $80 Arizona Womens Denver Block Heel Riding Boots(148)
+*   $483 - $806after couponwas $38 City Streets 3/4 Sleeve Holiday Swing Dresses(45)
+*   $149 - $1274after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(489)
+*   $2624 - $5249after couponwas $70 - $140 Liz Claiborne Quinn Basketweave Room-Darkening Grommet Top Single Curtain Panel(622)
+*   $679 - $1869after couponwas $44 St. John's Bay® Secretly Slender Straight- Leg Jeans(2050)
+*   $4499 - $11549after couponwas $140 - $330 Madison Park Mansfield Bedspread Mini Set(97)
+
+Shop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! We take pride in being a one-stop shop for all your needs, with as many options as you can imagine.
 
