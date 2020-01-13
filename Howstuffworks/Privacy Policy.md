@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksClosing Your Bedroom Door at Night Could Save Your Life1STWhat Do Reindeer Do When They're Not Pulling Santa's Sleigh?2NDGet to Know the Greek Alphabet, From Alpha to Omega3RDTry Ghee, the 'Liquid Gold' Better Than Butter4THBeverly Hills MD | Supplements | SponsoredDoctor: “Doing This Every Morning Can Snap Back Sagging Skin (No Creams Needed)”Beverly Hills MD | Supplements | SponsoredAuto Enthusiast | Search Ads | SponsoredShut the Front Door! These Luxury Vehicles Cost Under $50k!Auto Enthusiast | Search Ads | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | Sponsoredogee.com | SponsoredThese Tinted Lip Oils Selling Out Super Fast This Yearogee.com | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksIt Took a Court to Decide Whether Pringles Are Potato Chips1STBengal Cats Are Mini Leopard Hybrid Housecats2NDThere's a Pooping Man in the Catalan Nativity Scene3RDBrace Yourself: Bananas Are Berries, Strawberries Aren't4THAuto Overload | Sponsored20 Photos Captured At Airports That Will Make You Laugh Out LoudAuto Overload | SponsoredDailyforest | SponsoredThese Pictures From Iran Are Truly BizarreDailyforest | SponsoredSoGoodly | SponsoredThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly | SponsoredHearTech Labs | SponsoredForget Prescription Hearing Aids Use This InsteadHearTech Labs | Sponsored
 
 Advertisement
 
-culture - historyShhh! Don't Tell. There's a Secret Apartment Atop the Eiffel TowerBY Laurie L. Dovelifestyle - foodWhat's the Difference Between Baking Soda and Baking Powder?BY Melanie Radzicki McManusscience - environmental scienceWhy Is the Tropic of Cancer Important?BY Michelle KonstantinovskyVacations | SponsoredAffordable All-Inclusive Vacations That Are Simply Astonishing! Research Caribbean All Inclusive Vacation PackagesVacations | SponsoredAuto Today | Search Ads | Sponsored8 New Cars So Stacked It's Hard to Believe They Cost Under $20kAuto Today | Search Ads | Sponsored
+science - science vs. mythWhat's Really Going on at the 'Dog Suicide Bridge'?BY Nathan Chandlerlifestyle - foodBalut Is the Asian Street Food You Gotta Eat to BelieveBY Jeremy Glassscience - life scienceIs There Really a Cork Crisis?BY Wendy BowmanWorldemand | Sponsored17+ Actors You Didn't Know Were Gay - No. 8 Will Shock WomenWorldemand | SponsoredThedelite | SponsoredBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksBengal Cats Are Mini Leopard Hybrid HousecatsDeaf, Blind and Determined: How Helen Keller Learned to CommunicateIs There Really a Cork Crisis?What's the Difference Between an Avenue, a Road and a Boulevard?Pros and Cons of a Cash-out Mortgage Refinance9 Little-known Nuggets About Honest Abeby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksIs Holland the Same as the Netherlands?Deaf, Blind and Determined: How Helen Keller Learned to Communicate9 Little-known Nuggets About Honest AbeCould Electric Motor Conversions Save Classic Cars?What's the Difference Between Baking Soda and Baking Powder?Why Aren't Seat Belts Required on All School Buses?by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2020 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Closing Your Bedroom Door at Night Could Save Your LifeRead Next StoryBeverly Hills MD | SupplementsDoctor: “Doing This Every Morning Can Snap Back Sagging Skin (No Creams Needed)”Beverly Hills MD | Supplements|SponsoredSponsoredRead Next StoryAuto Enthusiast | Search AdsShut the Front Door! These Luxury Vehicles Cost Under $50k!Auto Enthusiast | Search Ads|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. It Took a Court to Decide Whether Pringles Are Potato ChipsRead Next StoryAuto Overload20 Photos Captured At Airports That Will Make You Laugh Out LoudAuto Overload|SponsoredSponsoredRead Next StoryDailyforestThese Pictures From Iran Are Truly BizarreDailyforest|SponsoredSponsoredRead Next Story
