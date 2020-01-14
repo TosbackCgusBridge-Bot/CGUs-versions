@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksIt Took a Court to Decide Whether Pringles Are Potato Chips1STBengal Cats Are Mini Leopard Hybrid Housecats2NDThere's a Pooping Man in the Catalan Nativity Scene3RDBrace Yourself: Bananas Are Berries, Strawberries Aren't4THAuto Overload | Sponsored20 Photos Captured At Airports That Will Make You Laugh Out LoudAuto Overload | SponsoredDailyforest | SponsoredThese Pictures From Iran Are Truly BizarreDailyforest | SponsoredSoGoodly | SponsoredThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly | SponsoredHearTech Labs | SponsoredForget Prescription Hearing Aids Use This InsteadHearTech Labs | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksIt Took a Court to Decide Whether Pringles Are Potato Chips1STBalut Is the Asian Street Food You Gotta Eat to Believe2NDThere's a Pooping Man in the Catalan Nativity Scene3RDIs Holland the Same as the Netherlands?4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredAuto Overload | Sponsored20 Photos Captured At Airports That Will Make You Laugh Out LoudAuto Overload | SponsoredEverydayKoala | SponsoredThese Twins Were Named "Most Beautiful In The World," Wait Till You See Them TodayEverydayKoala | SponsoredThedelite | SponsoredBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite | Sponsored
 
 Advertisement
 
-science - science vs. mythWhat's Really Going on at the 'Dog Suicide Bridge'?BY Nathan Chandlerlifestyle - foodBalut Is the Asian Street Food You Gotta Eat to BelieveBY Jeremy Glassscience - life scienceIs There Really a Cork Crisis?BY Wendy BowmanWorldemand | Sponsored17+ Actors You Didn't Know Were Gay - No. 8 Will Shock WomenWorldemand | SponsoredThedelite | SponsoredBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite | Sponsored
+lifestyle - foodBrace Yourself: Bananas Are Berries, Strawberries Aren'tBY Michelle Konstantinovskylifestyle - foodWhat's the Difference Between Baking Soda and Baking Powder?BY Melanie Radzicki McManusscience - life scienceIs There Really a Cork Crisis?BY Wendy BowmanWorldemand | Sponsored17+ Actors You Didn't Know Were Gay - No. 8 Will Shock WomenWorldemand | SponsoredTruthfinder | SponsoredEnter Any Name, Wait 105 Seconds, See Instant ResultsTruthfinder | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksIs Holland the Same as the Netherlands?Deaf, Blind and Determined: How Helen Keller Learned to Communicate9 Little-known Nuggets About Honest AbeCould Electric Motor Conversions Save Classic Cars?What's the Difference Between Baking Soda and Baking Powder?Why Aren't Seat Belts Required on All School Buses?by Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhat's the Difference Between Toilet Paper and Tissue?What's the Difference Between an Avenue, a Road and a Boulevard?Bengal Cats Are Mini Leopard Hybrid HousecatsDeaf, Blind and Determined: How Helen Keller Learned to CommunicateCould Electric Motor Conversions Save Classic Cars?Why Aren't Seat Belts Required on All School Buses?by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2020 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. It Took a Court to Decide Whether Pringles Are Potato ChipsRead Next StoryAuto Overload20 Photos Captured At Airports That Will Make You Laugh Out LoudAuto Overload|SponsoredSponsoredRead Next StoryDailyforestThese Pictures From Iran Are Truly BizarreDailyforest|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. It Took a Court to Decide Whether Pringles Are Potato ChipsRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StoryAuto Overload20 Photos Captured At Airports That Will Make You Laugh Out LoudAuto Overload|SponsoredSponsoredRead Next Story
