@@ -32,9 +32,9 @@ Lenovo Explore Close
         *   Yoga C940
         *   Chromebook
         
-        Sale
+        Get it now
         
-        Shop weekly deals on award-winning &. best-selling laptops now!
+        Shop weekly deals on our most popular laptops. Get AMD processing and enjoy up to 50% off.
         
     *   Desktops
         
@@ -57,11 +57,11 @@ Lenovo Explore Close
         *   ThinkStation
         
         *   Best Selling Desktops
-        *   ThinkCentre M720 SFF
-        *   ThinkStation P330 Tower
-        *   ThinkCentre M720 Tiny
-        *   AIO A340/Tab E8 Bundle
-        *   AIO 730S/ Tab M10 Bundle
+        *   ThinkCentre M715 Tiny
+        *   Lenovo Yoga A940
+        *   ThinkCentre M90n
+        *   IdeaCentre 310S Tower
+        *   IdeaCentre T540 Gaming
         
         Sale
         
@@ -608,7 +608,7 @@ Lenovo Explore Close
 1-855-253-6686
 
 *   Search
-*   icon-compare0 Compare Compare (0)
+
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
@@ -677,13 +677,7 @@ Top Suggestions
 
 View all >.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
-
-Please add at least 2 products for compare
-
-Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
-
-Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
 
 protects better"/>.
 
