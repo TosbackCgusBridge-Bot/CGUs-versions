@@ -5,40 +5,37 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 
 *   Movies Now Playing
     
+    *   1917 (2019)
     *   Star Wars: The Rise of Skywalker (2019)
     *   Jumanji: The Next Level
+    *   Like a Boss
+    *   Just Mercy
     *   Little Women (2019)
-    *   The Grudge (2020)
+    *   Underwater
     *   Frozen II
-    *   Spies in Disguise
     *   Knives Out
+    *   Spies in Disguise
     *   Uncut Gems
-    *   Cats (2019)
-    *   Richard Jewell
-    *   Bombshell (2019)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   1917 (2019)
-    *   Just Mercy
-    *   Like a Boss
-    *   Underwater
-    *   Chhapaak
+    *   Bad Boys for Life
+    *   Dolittle (2020)
+    *   The Wave (2020)
+    *   VHYes
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Like a Boss
-    *   Underwater
-    *   Bad Boys for Life
-    *   Dolittle (2020)
     *   The Gentlemen
-    *   The Last Full Measure
     *   The Turning (2020)
     *   Gretel &. Hansel
     *   The Rhythm Section
     *   Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)
+    *   Fantasy Island
+    *   What About Love
+    *   Sonic the Hedgehog
     *   See All Coming Soon
     
     Explore More
@@ -66,8 +63,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie News: Christian Bale Joins ‘Thor: Love and Thunder, ‘Knives Out’ Sequel in the Works and More Read More
-    *   ‘1917,’ ‘Parasite’ and ‘The Irishman’ Lead DGA, WGA, PGA and BAFTA Movie Nominations Read More
+    *   ‘Once Upon a Time in Hollywood’ Named Best Picture at the Critics’ Choice Awards Read More
+    *   2020 Oscar Nominations: ‘Joker’ Leads With 11! Read More
     *   The Week in Movie Trailers: ‘The New Mutants,’ ‘Birds of Prey,’ ‘First Cow’ and More Read More
     
     Explore Content
