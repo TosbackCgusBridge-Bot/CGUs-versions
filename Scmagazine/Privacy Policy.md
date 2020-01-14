@@ -213,17 +213,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Google app vulnerability being exploited in the wild: Trend Micro
-    *   Cisco repairs 12 bugs in its Data Center Network Manager
-    *   Bahraini oil company reportedly attacked by new 'Dustman' disk wiper
-    *   No immediate cyberthreat seen over Soleimani killing, but preparation is key
-    *   Experiential learning - the key to forgetting about the Forgetting Curve
-    
     *   Wyze Labs data breach exposes 2.4 million, includes PHI
     *   Shades of Ashley Madison: Love Hotels search engine breached
-    *   $1 billion deal sends Armis to Insight Partners
-    *   2020 Predictions: Technology
-    *   Ransomware attack on maritime facility prompts Coast Guard warning
+    *   Experiential learning - the key to forgetting about the Forgetting Curve
+    *   Achieving an audacious goal by treating cybersecurity like a science
+    *   Solving man in the middle cyberattacks with cloud-native SDPs
+    
+    *   Shades of Ashley Madison: Love Hotels search engine breached
+    *   Army joins Navy in banning TikTok
+    *   Experiential learning - the key to forgetting about the Forgetting Curve
+    *   Soleimani killing will likely result in reprisal cyberattacks by Iran
+    *   DHS finds no tampering of Durham County election devices
     
     *   Federally funded Unimax smartphone pre-loaded with malware
     *   Bahraini oil company reportedly attacked by new 'Dustman' disk wiper
@@ -263,5 +263,9 @@ Back to Top
 Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">.
 
 Advertisement. Closing in 15 seconds.
+
+X
+
+You can skip this ad in 2 seconds.
 
 x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
