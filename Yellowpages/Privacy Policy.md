@@ -135,7 +135,7 @@ We made some updates and clarifications to our Policy effective February 15, 201
 *   We've clarified that the policy's definition of Anonymous Information includes advertising IDs when they can't be used to identify you.
 *   We note that advertising IDs are used and shared to deliver ads to you and help advertisers assess the effectiveness of their ad campaigns. You have the choice to opt in to some advertising programs, or say no to others. You can make your choices at att.com/cmpchoice.
 
-× We've Updated Our Privacy Policy
+×We've Updated Our Privacy Policy
 
 We are updating our Privacy Policy. Our new policy is clearer about how we collect, use, and protect your information, and it is consistent with evolving state privacy and disclosure laws. Learn more below.
 
@@ -153,6 +153,10 @@ The Privacy Policy describes how we share your information. California may consi
 **Can I manage what gets shared or sold?**
 
 You can see options to manage your data here. We’ll keep your choices until you change them.
+
+**When is the new policy effective?**
+
+The section explaining your rights under the California Consumer Privacy Act is effective January 1, 2020. The full policy will be effective on March 16, 2020.
 
 Looking for the full Privacy Policy?
 
