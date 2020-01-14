@@ -2,7 +2,7 @@ Close
 
 Our Privacy Statement &. Cookie Policy
 
-All Thomson Reuters websites use cookies to improve your online experience. They were placed on your computer when you launched this website. You can change your cookie settings through your browser.
+Our Thomson Reuters Privacy Statement has changed to make our Privacy Statement clearer and more concise. In addition, it has been updated to address new laws in California. Please review our updated Privacy Statement.
 
 *   Privacy Statement
 *   Cookie Policy
