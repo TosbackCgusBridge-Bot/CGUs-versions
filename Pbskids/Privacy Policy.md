@@ -1,22 +1,15 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _activity_
-
-What parents should know about Common Core math. What parents should know about Common Core math. Learn more
-
-Toggle message bar
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS Toggle message bar
 
 *   Apps
 *   Shop
-
 *   Parents
+
 *   TV Times
 *   Settings PBS KIDS Settings_Close_Your Local PBS Station
     
     Choose your station for TV schedules and local features
     
     Select your local station
-    
-    *   Rocky Mountain PBS
-    *   Colorado Public Television: CPT12
     
     Results for 80202. Try another zip code.What is your zip code?PBS KIDS uses your zip code to find our stations in your area.Find your stationBackPBS KIDS Super Vision
     
