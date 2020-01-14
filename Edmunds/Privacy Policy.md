@@ -1,4 +1,4 @@
-Effective Date: December 23, 2019
+Effective Date: January 13, 2020
 
 California Residents: See California Consumer Privacy Act (CCPA) Rights and Disclosure for additional disclosure about our use and collection of your personal information.
 
@@ -54,7 +54,7 @@ You may discontinue collection of geolocation information by changing the app's 
 
 **Information We Collect Through Cookies and Other Technologies**
 
-When you visit the Edmunds Automotive Network, we may place pieces of code, commonly referred to as "cookies," or similar technology on your computer or other devices you use to access the Edmunds Automotive Network, such as your mobile phone or tablet. We use cookies to collect and retain information about you, such as your IP address and ZIP code, as soon as you visit the Edmunds Automotive Network.  We also use cookies to collect and retain additional information about you, or from activity on devices associated with you, such as your online activities over time on the Edmunds Automotive Network and across third-party Web sites and online services.
+When you visit the Edmunds Automotive Network, we may place pieces of code, commonly referred to as "cookies" on your computer or other devices you use to access the Edmunds Automotive Network, such as your mobile phone or tablet, or use other technology to collect and retain information about you, such as your IP address and ZIP code, as soon as you visit the Edmunds Automotive Network. We also use cookies and other technology to collect and retain additional information about you, or from activity on devices associated with you, such as your online activities over time on the Edmunds Automotive Network and across third-party Web sites and online services.
 
 In addition to use for our own internal business purposes described above, we may provide this information to, or share this information with, third parties, including third-party advertisers that display advertising on the Edmunds Automotive Network or third-party Web sites and online services with which we do business.  California residents: See "California Consumer Privacy Act (CCPA) Rights and Disclosures" below for more information.
 
@@ -122,9 +122,9 @@ To request removal of content under Section 22581 of the California Business and
 
 As explained below, commencing January 1, 2020, California residents have the right to opt-out from the sale of their "Personal Information" under the CCPA, and may submit such a request to Edmunds.com, Inc. ("Edmunds") at Do Not Sell My Personal Information.
 
-We gather certain types of information from and about the visitors to the Edmunds Automotive Network, and we believe our visitors should fully understand what information we gather from and about our visitors, and how we obtain, use, share and manage that information. The Edmunds Automotive Network consists of Edmunds.com and any other Web site that we identify as a part of the Edmunds Automotive Network. the mobile versions of our Web sites. any apps that we offer. and widgets, tools and content from our Web site that we offer for use or display by third-party web sites or apps.
+Edmunds gathers certain types of information from and about the visitors to the Edmunds Automotive Network. The Edmunds Automotive Network consists of Edmunds.com and any other Web site that Edmunds identifies as a part of the Edmunds Automotive Network. the mobile versions of Edmunds' Web sites. any apps that Edmunds offers. and widgets, tools and content from Edmunds' Web site that Edmunds offers for use or display by third-party web sites or apps.
 
-Edmunds does business with many dealers of consumer vehicles (which we refer to as "dealers") and companies that manufacturer and/or distribute consumer vehicles (which we refer to as "manufacturers").
+Edmunds does business with many dealers of consumer vehicles (which Edmunds refers to as "dealers") and companies that manufacturer and/or distribute consumer vehicles (which Edmunds refers to as "manufacturers").
 
 California Residents' CCPA Rights
 
@@ -132,7 +132,7 @@ Commencing January 1, 2020, a resident of California may request, no more than t
 
 *   A "Collection, Use, Share and Transfer Report" setting forth (a) the categories of Personal Information that Edmunds collected about such resident during the preceding 12 months, (b) the categories of sources from which such Personal Information was collected, (c) Edmunds business or commercial purpose for collecting or, if applicable, selling such Personal Information, (d) the categories of third parties with which Edmunds shared such Personal Information, and (e) the categories of such Personal Information that Edmunds has Transferred (as defined below).  The CCPA defines "Personal Information" as information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household.  The CCPA defines "selling Information" to include selling, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating that information to a third party for monetary or other valuable consideration (collectively, "Transfer").
   
-*   A copy, in electronic or written format, of the specific pieces of Personal Information that Edmund collected during the previous 12 months ("Copy of Personal  Information Request")
+*   A copy, in electronic or written format, of the specific pieces of Personal Information that Edmunds collected during the previous 12 months ("Copy of Personal  Information Request")
   
 
 In addition, commencing January 1, 2020, a resident of California may request that Edmunds:
@@ -142,11 +142,11 @@ In addition, commencing January 1, 2020, a resident of California may request th
 *   Not sell his or her Personal Information to any third parties ("Sale Opt-Out Request")
   
 
-We will not discriminate against any California resident because such resident exercised any of his or her rights under the CCPA.
+Edmunds will not discriminate against any California resident because such resident exercised any of his or her rights under the CCPA.
 
 CCPA Request Submission and Verification
 
-Only residents of California may submit a request under the CCPA.  Requests may be submitted online at https://www.edmunds.com/ccpa/ or by email to CCPArequests@edmunds.com.   In addition, California residents may submit a Sale Opt-Out Request by clicking on the "Do Not Sell My Personal Information" link on the Edmunds.com website, on the download page for our mobile app in the Apple App Store or in Google Play, or on the screen of our mobile app where we link to this Privacy Statement.
+Only residents of California may submit a request under the CCPA. Requests may be submitted online at https://www.edmunds.com/ccpa/ or by email to CCPArequests@edmunds.com. In addition, California residents may submit a Sale Opt-Out Request by clicking on the "Do Not Sell My Info" link on the Edmunds.com website, on the download page for Edmunds' mobile app in the Apple App Store or in Google Play, or on the screen of Edmunds' mobile app where Edmunds links to this Privacy Statement.
 
 In order for Edmunds to be able to verify and process your request, it must contain the following information:
 
@@ -159,17 +159,17 @@ In order for Edmunds to be able to verify and process your request, it must cont
 
 If you submit a Copy of Personal Information Request, you will need to provide Edmunds with a notarized Consumer Affidavit of Identity verifying your identity.  The notarized Affidavit should be delivered to Edmunds.com, Inc., Attention:  General Counsel, 2401 Colorado Ave., Santa Monica, CA 90404, or you can email a scanned copy to CCPArequest@edmunds.com. 
 
-If you have designated an "Authorized Agent" to submit any of the forgoing requests on your behalf, before we can verify and process such request you will need to provide Edmunds with a notarized Consumer Affidavit to Authorize Agent, and your Authorized Agent will need to provide Edmunds with a notarized Authorized Agent Affidavit of Identity. The notarized Affidavits should be sent to Edmunds.com, Inc., Attention:  General Counsel, 2401 Colorado Ave., Santa Monica, CA 90404, or you can email scanned copies to CCPArequest@edmunds.com. 
+If you have designated an "Authorized Agent" to submit any of the forgoing requests on your behalf, before Edmunds can verify and process such request you will need to provide Edmunds with a notarized Consumer Affidavit to Authorize Agent, and your Authorized Agent will need to provide Edmunds with a notarized Authorized Agent Affidavit of Identity. The notarized Affidavits should be sent to Edmunds.com, Inc., Attention:  General Counsel, 2401 Colorado Ave., Santa Monica, CA 90404, or you can email scanned copies to CCPArequest@edmunds.com. 
 
 In order for Edmunds to verify requests:
 
-*   We will send to the consumer, at the email address contained in the request, an email with a temporary link.  The consumer must click on the link in the email and confirm the request in order for us to be able to verify it.
+*   Edmunds will send to the consumer, at the email address contained in the request, an email with a temporary link. The consumer must click on the link in the email and confirm the request in order for Edmunds to be able to verify it.
   
-*   We will need to be able to find in our databases at least two of the following items of the consumer's Personal Information contained in the request: name (first and last). email address. phone number.
+*   Edmunds will need to be able to find in its databases at least two of the following items of the consumer's Personal Information contained in the request: name (first and last). email address. phone number.
   
-*   For a Copy of Personal Information Request, the information in your notarized Consumer Affidavit of Identity we receive must match the information in your request.
+*   If you submit a Copy of Personal Information Request, the information in the notarized Consumer Affidavit of Identity that you are required to provide to Edmunds must match the information in your request.
   
-*   If you submit a notarized Consumer Affidavit to Authorize Agent and a notarized Authorized Agent Affidavit of Identity, the information in those affidavits must match the information submitted in your request.
+*   If a request is submitted by someone other than the consumer who is the subject of such request, the information in the notarized Consumer Affidavit to Authorize Agent that the consumer is required to provide Edmunds and the notarized Authorized Agent Affidavit of Identity that the requestor is required to provide Edmunds must match the information submitted in such request.
   
 
 Collection, Use, Disclosure and Transfer of California Residents' Personal Information
@@ -178,60 +178,63 @@ Edmunds does not knowingly collect, receive, disclose or Transfer any data about
 
 Edmunds collects and/or receives the categories of Personal Information described below.
 
-*   We collect Personal Information that you voluntarily submit to Edmunds, including through the Edmunds Automotive Network, to our editorial and customer service departments, and through Edmunds' products and services used or implemented by third party websites and applications.  This Personal Information may include your first and last name, street address, email address, phone number, birth date, any Personal Information that you may include in your responses to any survey we request and, if you use an Edmunds product or service to discover or calculate your pre-qualified vehicle lease or loan payments, your self-reported approximate credit score.  If you use one of Edmunds' vehicle price quote or inquiry services or dealer communication services (collectively, "Dealer Inquiry and Communication Services") to call, or to email, text or chat with, a dealer or an agent acting on behalf of a dealer, or if we otherwise act as an intermediary through which communications between a dealer or such agent and you are transmitted, we collect (i) your phone number and/or email address that you use in connection with the Dealer Inquiry and Communication Services, and (ii) any other Personal Information that may be contained in (a) any recording of your conversation that may be made, or (b) the email, text or chat communications between you and that dealer or such agent. We refer to the forgoing Personal Information as "User-Provided Personal Information."
+*   Edmunds collects Personal Information that you voluntarily submit to Edmunds, including through the Edmunds Automotive Network, to Edmunds' editorial and customer service departments, and through Edmunds' products and services used or implemented by third party websites and applications. This Personal Information may include your first and last name, street address, email address, phone number, birth date, any Personal Information that you may include in your responses to any survey Edmunds requests and, if you use an Edmunds product or service to discover or calculate your pre-qualified vehicle lease or loan payments, your self-reported approximate credit score. If you use one of Edmunds' vehicle price quote or inquiry services or dealer communication services (collectively, "Dealer Inquiry and Communication Services") to call, or to email, text or chat with, a dealer or an agent acting on behalf of a dealer, or if Edmunds otherwise acts as an intermediary through which communications between a dealer or such agent and you are transmitted, Edmunds collects (i) your phone number and/or email address that you use in connection with the Dealer Inquiry and Communication Services, and (ii) any other Personal Information that may be contained in (a) any recording of your conversation that may be made, or (b) the email, text or chat communications between you and that dealer or such agent. Edmunds refers to the forgoing Personal Information as "User-Provided Personal Information."
   
-*   If you contact our customer service department by phone, or use our Dealer Inquiry and Communication Services to call, or to email, text or chat with, a dealer through your mobile device, when we obtain your phone number we may use it to obtain your name from a data provider.  In addition, when you log into or associate one of your social media accounts with the Edmunds Automotive Network, you allow Edmunds to access all of the elements of that social media account that you have made available to be shared (such as account IDs, usernames, profile photos and any Personal Information that may be contained in the message you send using that social media account).  We refer to the forgoing data as "Associated Personal Information."
+*   If you contact Edmunds' customer service department by phone, or use Edmunds' Dealer Inquiry and Communication Services to call, or to email, text or chat with, a dealer through your mobile device, when Edmunds obtains your phone number Edmunds may use it to obtain your name from a data provider. In addition, when you log into or associate one of your social media accounts with the Edmunds Automotive Network, you allow Edmunds to access all of the elements of that social media account that you have made available to be shared (such as account IDs, usernames, profile photos and any Personal Information that may be contained in the message you send using that social media account). Edmunds refers to the forgoing data as "Associated Personal Information."
   
-*   If you use an Edmunds product or service to discover or calculate your pre-qualified vehicle lease or loan payments, Edmunds transmits your name and address to a company that uses such information to obtain from a credit reporting agency, and then transmit to Edmunds, your credit score as calculated by that credit reporting agency and certain other information concerning your credit and credit history.  We refer to those items as "Credit Personal Information."
+*   If you use an Edmunds product or service to discover or calculate your pre-qualified vehicle lease or loan payments, Edmunds transmits your name and address to a company that uses such information to obtain from a credit reporting agency, and then transmit to Edmunds, your credit score as calculated by that credit reporting agency and certain other information concerning your credit and credit history. Edmunds refers to those items as "Credit Personal Information."
   
-*   When you use a mobile device on which an Edmunds mobile app is installed or visit other properties in the Edmunds Automotive Network via your mobile device, we collect your precise geolocation information (if you provide permission through that mobile device).  We refer to the forgoing data as "Precise Geolocation Personal Information."
+*   When you use a mobile device on which an Edmunds mobile app is installed or visit other properties in the Edmunds Automotive Network via your mobile device, Edmunds collects your precise geolocation information (if you provide permission through that mobile device). Edmunds refers to the forgoing data as "Precise Geolocation Personal Information."
   
-*   Upon the commencement of your visit to or use of the Edmunds Automotive Network, when technically possible we (i) collect your Internet Protocol (IP) address and information about the device you are using to access the Edmunds Automotive Network, and (ii) place pieces of code, commonly referred to as "cookies," on that device (and we use those cookies to collect and retain information about you, or from activity on devices associated with you, such as your online activities over time on the Edmunds Automotive Network and across third-party Web sites and online services).  When you visit the website of a dealer with which we do business, if that dealer permits we collect the fact that you have visited that website.  We refer to the foregoing information as "Browsing Data."
+*   Upon the commencement of your visit to or use of the Edmunds Automotive Network, when technically possible Edmunds (i) collects your Internet Protocol (IP) address and information about the device you are using to access the Edmunds Automotive Network, and (ii) places pieces of code (commonly referred to as "cookies") on that device or uses other technologies to collect and retain information about you, or from activity on devices associated with you, such as your online activities over time on the Edmunds Automotive Network and across third-party Web sites and online services. When you visit the website of a dealer with which Edmunds does business, if that dealer permits Edmunds collects the fact that you have visited that website. Edmunds refers to the foregoing information as "Browsing Data."
   
-*   We receive vehicle sales transaction data from certain dealers, manufacturers and data aggregators that may contain Personal Information of individuals who purchase and lease vehicles (and, if applicable, co-signers for loans and leases), including their first and last names, email and/or street address, phone number and birth date).  We refer to the forgoing Personal Information as "Vehicle Sales Personal Information." 
+*   Edmunds receives vehicle sales transaction data from certain dealers, manufacturers and data aggregators that may contain Personal Information of individuals who purchase and lease vehicles (and, if applicable, co-signers for loans and leases), including their first and last names, email and/or street address, phone number and birth date). Edmunds refers to the forgoing Personal Information as "Vehicle Sales Personal Information."
   
 
-We use Personal Information as follows: 
+Edmunds uses Personal Information as follows:
 
-*   We use all categories of Personal Information:
+*   Edmunds uses all categories of Personal Information:
   
 
 *   To customize or enhance your experience on the Edmunds Automotive Network (including the display of advertisements) and to provide products and services to you
-*   To communicate with you concerning our products and services and those of third parties with which we do business, and to send you send promotional and marketing communications 
+*   To communicate with you concerning Edmunds' products and services and those of third parties with which Edmunds does business, and to send you send promotional and marketing communications
 *   To evaluate, analyze, optimize, enhance and change Edmunds' products and services, and to develop new ones
-*   For reporting and analytics purposes, including demonstrating to the companies with which we do business the effectiveness of our products and services
+*   For reporting and analytics purposes, including demonstrating to the companies with which Edmunds does business the effectiveness of Edmunds' products and services
 *   To detect fraudulent activity and for security purposes
   
 
-*   If you are an Edmunds Insider, we may use your User-Submitted Personal Information to send you certain administrative and service messages in connection with the products and services available to you.
+*   If you are an Edmunds Insider, Edmunds may use your User-Submitted Personal Information to send you certain administrative and service messages in connection with the products and services available to you.
   
-*   We use your IP address to determine your city, state and ZIP code in order to display to you information customized for your region.  We use Precise Geolocation Personal Information to show you nearby inventory, dealers and pricing information, and we may use it to notify you when a vehicle that you "saved" or in which you expressed interest is available at a dealer near your current location. We may also use this information for analytics and reporting purposes.
+*   Edmunds uses your IP address to determine your city, state and ZIP code in order to display to you information customized for your region. Edmunds uses Precise Geolocation Personal Information to show you nearby inventory, dealers and pricing information, and Edmunds may use it to notify you when a vehicle that you "saved" or in which you expressed interest is available at a dealer near your current location. Edmunds may also use this information for analytics and reporting purposes.
   
-*   We use Vehicle Sales Personal Information and User-Provided Personal Information to determine if the visitor communications submitted through our Dealer Inquiry and Communication Services resulted in vehicle sales and for other analytics and reporting purposes.
+*   Edmunds uses Vehicle Sales Personal Information and User-Provided Personal Information to determine if the visitor communications submitted through Edmunds' Dealer Inquiry and Communication Services resulted in vehicle sales and for other analytics and reporting purposes.
   
-*   We use Browsing Data we collect on the Edmunds Automotive Network to serve advertising to you both on and off the Edmunds Automotive Network.  We use Browsing Data we collect on a dealer website for reporting and analytics purposes, including demonstrating to that dealer the effectiveness of our products and services.
+*   Edmunds uses Browsing Data Edmunds collects on the Edmunds Automotive Network to serve advertising to you both on and off the Edmunds Automotive Network. Edmunds uses Browsing Data Edmunds collects on a dealer website for reporting and analytics purposes, including demonstrating to that dealer the effectiveness of Edmunds' products and services.
   
-*   The only Credit Personal Information that we use is your credit score, which we use solely to calculate customized vehicle lease or loan payments for you.
-  
-
-We disclose and/or Transfer Personal Information as follows:
-
-*   We may disclose all categories of Personal information:
+*   The only Credit Personal Information that Edmunds uses is your credit score, which Edmunds uses solely to calculate customized vehicle lease or loan payments for you.
   
 
-*   To service providers with which we contract with to provide services to us and that need to use and process such Personal Information in order to provide such services 
-*   To dealers and manufacturers with which we do business or are considering doing business
+Edmunds discloses and/or Transfer Personal Information as follows:
+
+*   Edmunds may disclose all categories of Personal information:
+  
+
+*   To service providers with which Edmunds contracts with to provide services to us and that need to use and process such Personal Information in order to provide such services
+*   To dealers and manufacturers with which Edmunds does business or are considering doing business
 *   To actual or potential counterparties, and their representatives, counsel, advisors and agents, in connection with any merger by, or acquisition of, Edmunds or its parent company, or any sale or other transfer of assets by Edmunds or its parent company to another entity
-*   To law enforcement, governmental entities, our representatives, counsel, advisors and agents and other third parties (such as dealers and manufacturers) if we determine that disclosure of such information (i) is or may be required by law or legal process, or is requested by a governmental agency, (ii) is or may be reasonably necessary to enforce the Edmunds Automotive Network Visitor Agreement, or to take appropriate action if a visitor or other third party is determined by us to have violated that agreement, or (iii) is or may be reasonably necessary to protect the rights, property or safety of Edmunds or its parent company, the Edmunds Automotive Network, our visitors or other third parties (including, when applicable, consumers and dealers)
+*   To law enforcement, governmental entities, Edmunds' representatives, counsel, advisors and agents and other third parties (such as dealers and manufacturers) if Edmunds determines that disclosure of such information (i) is or may be required by law or legal process, or is requested by a governmental agency, (ii) is or may be reasonably necessary to enforce the Edmunds Automotive Network Visitor Agreement, or to take appropriate action if a visitor or other third party is determined by us to have violated that agreement, or (iii) is or may be reasonably necessary to protect the rights, property or safety of Edmunds or its parent company, the Edmunds Automotive Network, Edmunds' visitors or other third parties (including, when applicable, consumers and dealers)
   
 
-*   We Transfer User-Provided Personal Information to dealers, and also in some instances to manufacturers, and/or to their affiliated entities, distributors, agents and contractors.  We may also disclose User-Provided Personal Information to service providers that work with us to fulfill requests you submit to us, to facilitate communications between consumers and dealers, or provide other products and services.  In addition, when you log into or associate one of your social media accounts with our Dealer Inquiry and Communication Services, we Transfer certain User-Provided Information to the social media provider of that account, and the dealers with which you are communicating may have access to Associated Personal Information. 
+*   Edmunds Transfers User-Provided Personal Information to dealers, and also in some instances to manufacturers, and/or to their distributors, agents, contractors, service providers and affiliated entities. Edmunds may also disclose User-Provided Personal Information to service providers that work with us to fulfill requests you submit to us, to facilitate communications between consumers and dealers, or provide other products and services. In addition, when you log into or associate one of your social media accounts with Edmunds' Dealer Inquiry and Communication Services, Edmunds Transfers certain User-Provided Information to the social media provider of that account, and the dealers with which you are communicating may have access to Associated Personal Information.
   
-*   If you submit your information through a Dealer Inquiry and Communication Services that is co-branded (_i.e._, the page or screen on which it appears displays the name of both Edmunds and one of our partners), we Transfer your User-Provided Personal Information to that partner.
+*   If you submit your information through a Dealer Inquiry and Communication Services that is co-branded (_i.e._, the page or screen on which it appears displays the name of both Edmunds and one of Edmunds' partners), Edmunds Transfers your User-Provided Personal Information to that partner.
   
-*   We Transfer Browsing Data that we collect on the Edmunds Automotive Network to manufacturers and their agencies for advertising purposes, to social media for purposes of facilitating advertising on their platforms, and to companies who display advertising and/or provide targeted internet audience data and/or other services to advertisers.  We may also Transfer Browsing Data (together with User-Provided Personal Information) to companies that use that data to provide their own services to dealers and manufacturers.
+*   Edmunds Transfers Browsing Data that Edmunds collects on the Edmunds Automotive Network to manufacturers and their agencies for advertising purposes, to social media for purposes of facilitating advertising on their platforms, and to companies who display advertising and/or provide targeted internet audience data and/or other services to advertisers. Edmunds may also Transfer Browsing Data (together with User-Provided Personal Information) to companies that use that data to provide their own services to dealers and manufacturers.
   
-*   If you use an Edmunds product or service to discover or calculate your pre-qualified lease or loan payments for a vehicle, we Transfer to the dealer offering that vehicle for sale or lease your self-reported credit score and either the fact that we believe that you prequalify for those payment terms for that vehicle or that we did not have sufficient information to determine if you prequalify. If you have questions or concerns about Edmunds' CCPA privacy policies and practices, please email GeneralCounsel@edmunds.com.
+*   If you use an Edmunds product or service to discover or calculate your pre-qualified lease or loan payments for a vehicle, Edmunds Transfers to the dealer offering that vehicle for sale or lease your self-reported credit score and either the fact that Edmunds believes that you prequalify for those payment terms for that vehicle or that Edmunds did not have sufficient information to determine if you prequalify. .
+  
+
+If you have questions or concerns about Edmunds' CCPA privacy policies and practices, please email GeneralCounsel@edmunds.com.
 
 **Changes to this Privacy Statement**
 
