@@ -63,9 +63,9 @@ Lenovo Explore Close
         *   IdeaCentre 310S Tower
         *   IdeaCentre T540 Gaming
         
-        Sale
+        Shop AMD Desktops
         
-        Click to visit desktop deals to enjoy weekly savings on traditional towers, all-in-ones &. more!
+        High speed that gets you going. AMD Ryzen™ processors offer smooth performance &. unwavering features
         
     *   Workstations
         
@@ -207,6 +207,7 @@ Lenovo Explore Close
         *   Xbox
         
         *   New in Gaming
+        *   Gaming Storefront
         *   Oculus Rift S
         *   H500 Headset
         *   IdeaCentre T540 Desktop
@@ -300,6 +301,7 @@ Lenovo Explore Close
         *   Electronic Deals
         
         *   Additional Offers
+        *   AMD PC deals up to 50%
         *   Clearance
         *   Financing Options
         *   Discount Programs
