@@ -154,6 +154,7 @@ We disclose Personal Information:
 
 *   ****To our service providers: **** We disclose the information we collect from you to third parties who perform functions on our behalf such as website hosting, data analysis, payment processing, information technology and related infrastructure provisions, solicitation or acknowledgment of charitable gifts, aggregate analysis and marketing activities as well as professional advisors such as auditors and attorneys.
 *   **To our affiliates:** We share information with our related entities such as affiliates and subsidiaries for the purposes detailed in this Privacy Statement. Our affiliates and their respective locations are listed in this disclosure.
+*   **To other organizations:** We share your information, excluding e-mail address and phone number, with unaffiliated third parties for their own uses. You may choose to opt out as described in “How You Can Control the Collection and Use of Your Information” below.
 *   **You may elect to disclose Personal Information:** If you post information or materials on our message boards, chat, profile pages, blogs, and other services to which you are able to post information and content (including, without limitation, our Social Media Pages). Please note that any information you post or disclose through these services will become public and may be available to other users and the general public. We urge you to be very careful when deciding to disclose any information on the Services.
 
 Other Uses and Disclosures
