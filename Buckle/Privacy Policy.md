@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Up to 50% off select denim! Shop Now
+Double up on savings! Get an extra 33% off, or 50% off!
 
 *   Women
 *   Men
@@ -276,7 +276,7 @@ Up to 50% off select denim! Shop Now
         *   Sorel
         *   Blowfish
         *   UGG®
-        *   Puma
+        *   Hey Dude
         *   TOMS
         *   Corral
         *   Shop All
@@ -455,6 +455,28 @@ Services
 *   Gift Card Donation Requests
 *   All Services
 
+Contact UsGuest Services:
+
+Phone: 800.607.9788  
+Mon-Fri 8am - 10pm CT  
+Sat 8am - 10pm CT  
+Sun 12pm - 6pm CT  
+Email: guest.services@buckle.com  
+Fax: 308.236.4493
+
+Buckle Credit Card Questions:
+
+Comenity Bank  
+Phone: 888.427.7786  
+TDD/TYY: 800.695.1788
+
+Corporate Office:
+
+The Buckle, Inc.  
+2407 W. 24th Street  
+Kearney, NE 68845  
+Phone: 800.626.1255
+
 Receive The Latest From BucklePlease enter your email address. The input is not a valid email address. GIFT CARD
 
 *   Buy Now
@@ -537,8 +559,9 @@ RESERVE IN STORE
 1.  © 2020 Buckle Inc.
 2.  Terms
 3.  Privacy Policy
-4.  Transparency In Supply Chains
-5.  Accessibility
+4.  Do Not Sell My Personal Information
+5.  Transparency In Supply Chains
+6.  Accessibility
 
 Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries. Google Play and the Google Play logo are trademarks of Google LLC.Bag Size ExceededClose Cart Threshold Modal×
 
@@ -548,4 +571,4 @@ Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
 
-Favorite Product Quick ShopClose Quick Shop×<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">.
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. Favorite Product Quick ShopClose Quick Shop×
