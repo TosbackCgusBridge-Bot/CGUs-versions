@@ -30,7 +30,9 @@ Skip to main content <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PDDP
 
 Privacy Policy
 
-**Last Updated on June 30th, 2017.**
+**Privacy Policy**
+
+Last Updated on 1/14/2020
 
 The website or online service, and portions of other webpages or online content through which you have accessed this Privacy Policy (collectively, this “Site”), is owned and operated by EducationDynamics, LLC (hereafter referred to as "we," "us," "our" or "EducationDynamics"). This Privacy Policy describes how we treat personal information received about you when you visit our Site such as the collection and use of the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
 
@@ -45,7 +47,9 @@ Non-Personal Information:  We also collect Usage Information (as defined below)
 How We Collect Information:  We may collect information from you in the following ways:
 
 *   Information Provided by You.  We collect information provided by you when you (1) inquire about or obtain our services or products. (2) communicate with us or request information about or from us, whether via email or other means. (3) fill out forms or fields on the Services. (4) register as a user or sign-up for any of our newsletters, materials or services through the Services. (5) enter into online transactions. (6) create profiles. (7) provide college reviews or participate in our online surveys or questionnaires. (8) input information into our interactive programming features or participate in our online forums. (9) participate in any of our marketing initiatives, including contests, scholarship offers, events, or promotions. and (10) post to the Services or provide user-generated content or submissions to us, including without limitation media files, photos, videos, documents or other information, and contributions to a chat room, list serve, blog, or other open forum or community feature that we make available on the Services ("User Contributions").
+
 *   Information from Other Sources. We may collect information about you from other services that we may provide, our affiliates, third-party or public sources (such as from public forums, social networks, and blogs), other users of the Services, and our business partners.
+
 *   Automatic Information Collection. We and our service providers use automatic data collection technologies to collect and store Usage Information (as defined below). This information helps us evaluate how our visitors use and navigate the Site on an aggregate basis, including but not limited to the number and frequency of visitors to each Site, and the length of their visits. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.  We also may allow third-party advertising companies and ad networks to use automatic data collection technologies to collect Usage Information for purposes of providing interest based ads. See the Automatic Information Collected Technologies and Usage Information and the Third-Party Advertisers and Interest-Based Ads sections for more information.
 
 **How We Use the Information that We Collect**
@@ -76,7 +80,7 @@ We may use your information, including Personal Information, to:
 We may disclose or share information from or about you, including your Personal Information, as follows:
 
 *   With EducationDynamics’ affiliated companies (i.e., companies that control, are controlled by, or are under common control with us) for support of our internal and business operations, for cross-marketing purposes or in connection with a request made by you or your opt-in or consent.
-*   With our non-affiliated third-party business partners, service providers, and vendors to enable them to assist us in providing you the products or services you request through the Services or to provide us with support for our internal and business operations, such as customer service, data processing, data storage, research, analytics, web hosting, marketing, providing suggestions and strategies to improve our business processes and the services we provide, and delivery of promotional or transactional materials.  We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service. These companies are authorized to use your Personal Information only as necessary to provide these services to us.With other non-affiliated companies, parties, or organizations (with whom we maintain business relationships) when you engage in certain activities through the Services or services that are sponsored or provided by them, including, but not limited to requesting or purchasing products or services offered by these third parties, electing to receive information or communications from them, or electing to participate in contests, sweepstakes, games, scholarships, or other programs sponsored or provided by these third parties, in whole or in part.  For example, if you provide us with Personal Information for the purposes of being matched with an educational institution, we share your information with the educational institutions with whom you are matched so that they may contact you regarding educational or related opportunities. When we disclose your information to these third parties, your information will become subject to the information use and sharing practices of these third parties, and these third parties will not be restricted by this Privacy Policy with respect to their use and further sharing of your information.
+*   With our non-affiliated third-party business partners, service providers, and vendors to enable them to assist us in providing you the products or services you request through the Services or to provide us with support for our internal and business operations, such as customer service, data processing, data storage, research, analytics, web hosting, marketing, providing suggestions and strategies to improve our business processes and the services we provide, and delivery of promotional or transactional materials.  We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service. These companies are authorized to use your Personal Information only as necessary to provide these services to us. With other non-affiliated companies, parties, or organizations (with whom we maintain business relationships) when you engage in certain activities through the Services or services that are sponsored or provided by them, including, but not limited to requesting or purchasing products or services offered by these third parties, electing to receive information or communications from them, or electing to participate in contests, sweepstakes, games, scholarships, or other programs sponsored or provided by these third parties, in whole or in part.  For example, if you provide us with Personal Information for the purposes of being matched with an educational institution, we share your information with the educational institutions with whom you are matched so that they may contact you regarding educational or related opportunities. When we disclose your information to these third parties, your information will become subject to the information use and sharing practices of these third parties, and these third parties will not be restricted by this Privacy Policy with respect to their use and further sharing of your information.
 *   If you submit information to an advertiser or other third party that is made available on or through EducationDynamics, the information obtained during your visit to that advertiser’s website, and the information you give to the advertiser will be governed by the advertiser’s privacy policy. For further information on such advertiser’s use of your information, please visit the applicable privacy policy of such advertisers. Advertisers made available on this site have separate policy practices for which EducationDynamics has no responsibility or liability.
 *   In addition, from time to time, we may share Personal Information (such as e-mail addresses and other contact information such as name, email address and phone number) with selected third parties, so they may offer educational or non-educational goods and services that we believe may be of interest to our customers. To opt-out of our sharing of your information with such third parties, see the Your Choices about How We Use and Disclose Your Information section.
 *   With any person who, in our reasonable judgment, is authorized to receive your information, such as your agent, attorney, parent, legal guardian, or co-signor of a loan application.
@@ -100,7 +104,7 @@ The automatic collection technologies we and our service providers may use for t
 *   Web Beacons. Pages of the Services and any emails we send to you may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit us, for example, to count users who have visited those pages or opened our emails and for other related website analytics (e.g., recording the popularity of certain website content and verifying system and server integrity).
 *   Local Storage (LSs).  We use LSs such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSs such as HTML5 and Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSs.
 
-We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
+We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 For more information about managing your privacy settings regarding automatic collection of Usage Information, see the Your Choices about How We Use and Disclose Your Information section.
 
@@ -130,31 +134,12 @@ The Services and all electronic communications sent in connection with the Servi
 
 The Services may also allow you to engage with social media features, such as the Facebook Like button, Google Plus, and Twitter widgets, when you are logged into those services. These features may collect information about your IP address and which page you are visiting on the Services, and they may set a cookie to make sure the feature functions properly. Your interactions with these features and the information from or about you collected by them are governed by the privacy policies of the companies that provide them.
 
-**Special Notice to California Residents -- Your California Privacy Rights**
-
-California's Shine the Light law provides California residents with the right to receive disclosures about any sharing of their personal information with other companies.
-
-If you are a California resident and you provided your personal information to EducationDynamics, LLC, then, once each calendar year, you may submit a written request for information about the information we shared, if any, with other companies for their use in direct marketing. To submit your written request, please send a written request to:
-
-EducationDynamics, LLC
-
-Attn: Compliance Department   
-111 River Street, 10th Floor, Hoboken NJ 07030
-
-with "Request for California Privacy" in the letter subject line.
-
-You must include sufficient detail for us to locate your file. at a minimum, your name and postal address.
-
-Within 30 days of receiving your request, we will send you a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties.
-
-We reserve our right not to respond to requests sent more than once in a calendar year, or requests submitted to an address other than the one posted in this notice. Please note that the California Shine the Light law does not cover all information sharing. Our disclosure only includes information covered by the law.
-
 **Your Choices About Use and Disclosure of Your Information**
 
 We strive to provide you with choices regarding the Personal Information you provide to us. Below are some mechanisms that provide you with control over your information:
 
-*   Promotional Emails or other Electronic Communications. If you do not wish to receive promotional emails or other electronic communications from us, including but not limited to our e-newsletters, contact us at info@educationdynamics.com to opt-out or follow the unsubscribe process at the bottom of the promotional email or other electronic communication. Note that even if you opt-out, you may still receive transactional or account-related emails from us (e.g., emails related to the completion of your registration, correction of user data, password reset requests, reminder emails that you have requested, and any other similar communications essential to your transactions on or made through the Services). 
-*   Telephone Calls and Texts. If you do not wish to receive promotional telephone calls from us, contact us at info@educationdynamics.com to opt-out, and we will add your phone number to our internal Do Not Call List.  If you do not wish to receive texts, please follow the unsubscribe process in the text by typing “STOP” and sending it to us.  
+*   Promotional Emails or other Electronic Communications. If you do not wish to receive promotional emails or other electronic communications from us, including but not limited to our e-newsletters, contact us at info@educationdynamics.com to opt-out or follow the unsubscribe process at the bottom of the promotional email or other electronic communication. Note that even if you opt-out, you may still receive transactional or account-related emails from us (e.g., emails related to the completion of your registration, correction of user data, password reset requests, reminder emails that you have requested, and any other similar communications essential to your transactions on or made through the Services).
+*   Telephone Calls and Texts. If you do not wish to receive promotional telephone calls from us, contact us at info@educationdynamics.com to opt-out, and we will add your phone number to our internal Do Not Call List.  If you do not wish to receive texts, please follow the unsubscribe process in the text by typing “STOP” and sending it to us. 
 *   Automatic Information Collection Technologies and Advertising. Our systems currently recognize "do not track" signals from your browser. In addition, the "help" function of your browser should contain instructions on how to set your browser to not accept new cookies, to notify you when a cookie is issued, or how to disable cookies altogether. If Flash cookies are used on the Services, you can manage your Flash cookie settings, by visiting the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of the Services may be inaccessible or not function properly.
 *   Disclosure of Your Information to Third-Parties for Advertising. If you no longer want us to share your Personal Information with non-affiliated third parties for promotional purposes, contact us at info@educationdynamics.com to opt-out. Any opt-out request will only apply from the date of your request, and we will not be responsible for any communications that you may receive from third parties who received your Personal Information prior to your request. In these cases, please contact the third parties directly.
 
@@ -190,22 +175,234 @@ We may update or amend this Privacy Policy at any time. This Privacy Policy will
 
 If you have questions or concerns about this Privacy Policy, our information practices, or wish to make a request regarding your information, please contact us at any of the following:
 
-*   EducationDynamics, LLC, Attn: Attn: Compliance Department 111 River Street, 10th Floor, Hoboken NJ 07030 or
-*   Contact us by email at info@educationdynamics.com.
+Compliance Department, c/o EducationDynamics, LLC, 111 River Street, 10th Floor, Hoboken NJ 07030 or
+
+Contact us by email at info@educationdynamics.com.
 
 **Privacy Policy Scope**
 
 This Privacy Policy applies to the collection of information in association with any of the EducationDynamics, LLC websites and online services that link to this Privacy Policy. Some of our services or offerings may be governed by alternative or additional privacy policies. For example:
 
-*   Unigo Return on Education™ (MyROE™) service offered through www.unigo.com. See Unigo Return on Education™ Privacy Notice.
+Unigo Return on Education™ (MyROE™) service offered through www.unigo.com. See Unigo Return on Education™ Privacy Notice.
 
 This Privacy Policy does not apply to our products, services, and offerings for which a separate privacy policy or privacy terms apply. Those products, services, and offerings may include contests, contest entries, contest awards, scholarship applications, and scholarship awards. See the official rules, terms and privacy policy (if applicable) that apply to the specific product or service being offered.
 
 This Privacy Policy does not apply to Other EducationDynamics, LLC websites or online services (if any) that do not link to this Privacy Policy. third-party websites or features to which this Site may link. and information collected by any non-affiliated third party, even if related to this Site or our services or products.
 
-**Last Updated on June 30, 2017**. This Privacy Policy is effective immediately for all users. To review the previous policy, please click here.
+**Special Notice to California Residents -- Your California Privacy Rights**
 
-Please note that EducationDynamics, LLC has withdrawn from the TRUSTe Web Privacy Seal Program effective June 30, 2017
+California's Shine the Light law provides California residents with the right to receive disclosures about any sharing of their personal information with other companies.
+
+If you are a California resident and you provided your personal information to EducationDynamics, LLC, then, once each calendar year, you may submit a written request for information about the information we shared, if any, with other companies for their use in direct marketing. To submit your written request, please send a written request to:
+
+EducationDynamics, LLC
+
+Compliance Department, c/o EducationDynamics, LLC
+
+111 River Street, 10th Floor, Hoboken NJ 07030
+
+with "Request for California Privacy" in the letter subject line.
+
+You must include sufficient detail for us to locate your file. at a minimum, your name and postal address.
+
+Within 30 days of receiving your request, we will send you a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties.
+
+We reserve our right not to respond to requests sent more than once in a calendar year, or requests submitted to an address other than the one posted in this notice. Please note that the California Shine the Light law does not cover all information sharing. Our disclosure only includes information covered by the law.
+
+**PRIVACY POLICY – CALIFORNIA**
+
+This PRIVACY POLICY FOR CALIFORNIA RESIDENTS supplements the information contained in the Privacy Policy of EducationDynamics, LLC (collectively, “we,” “us,” or “our”) and applies solely to visitors, users, and others who reside in the State of California (“consumers” or “you”). Any terms defined in the California Consumer Privacy Act (“CCPA”) have the same meaning when used in this notice.
+
+**Information We Collect**
+
+We have collected the following categories of personal information from consumers within the last twelve (12) months:
+
+**Category**
+
+**Examples**
+
+**Collected**
+
+A. Identifiers.
+
+Real name, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, or other similar identifiers.
+
+YES
+
+B. Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)).
+
+Name, address, telephone number, or education. Some personal information included in this category may overlap with other categories.
+
+YES
+
+C. Protected classification characteristics under California or federal law.
+
+Age, citizenship, religion or creed, marital status, or veteran or military status.
+
+YES
+
+D. Commercial information.
+
+Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+
+YES
+
+E. Biometric information.
+
+Genetic, physiological, behavioral, and biological characteristics, or activity patterns used to extract a template or other identifier or identifying information, such as, fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke, gait, or other physical patterns, and sleep, health, or exercise data.
+
+NO
+
+F. Internet or other similar network activity.
+
+Browsing history, search history, information on a consumer's interaction with a website, application, or advertisement.
+
+YES
+
+G. Geolocation data.
+
+Physical location or movements.
+
+NO
+
+H. Sensory data.
+
+Audio, electronic, visual, thermal, olfactory, or similar information.
+
+NO
+
+I. Professional or employment-related information.
+
+Current or past job history or performance evaluations.
+
+NO
+
+J. Non-public education information (per the Family Educational Rights and Privacy Act (20 U.S.C. Section 1232g, 34 C.F.R. Part 99)).
+
+Education records directly related to a student maintained by an educational institution or party acting on its behalf, such as grades, transcripts, class lists, student schedules, student identification codes, student financial information, or student disciplinary records.
+
+YES
+
+K. Inferences drawn from other personal information.
+
+Profile reflecting a person's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+
+NO
+
+We obtain the categories of personal information listed above from the following categories of sources:
+
+*   Directly from consumers. For example, from information that consumers provide to us related to the services we provide.
+*   Directly and indirectly from schools, our marketing partners, affiliates, and service providers. For example, through information we collect from our partners in the course of providing or receiving services.
+*   Directly and indirectly from activity on our website(s). For example, from submissions through our website portal or website usage details collected automatically.
+
+**Use of Personal Information**
+
+We use or disclose the personal information we collect for one or more of the following business purposes:
+
+*   To fulfill the purpose for which the information is provided. For example, if you share your personal information to request info on any schools or programs, we will use that personal information to respond to your inquiry.
+*   To provide you with information, products or services that you request from us.
+*   To provide you with emails, event registrations, and other notices concerning our products or services, or events or news, that may be of interest to you.
+*   To improve our website and present its contents to you.
+*   For testing, research, analysis and product development.
+*   As necessary or appropriate to protect the rights, property or safety of us, our clients or others, or to enforce our Terms of Use.
+*   To respond to law enforcement requests and as required by applicable law, court order, or governmental regulations.
+
+We will not collect additional categories of personal information or use the personal information we collected for additional purposes without providing you notice or obtaining your consent where required by law.
+
+**Sharing Personal Information**
+
+We may sell your personal information to a third party or disclose your personal information for a business purpose.  When we disclose personal information for a business purpose, we enter into a contract that describes the purpose and requires the recipient to both keep that personal information confidential and not use it for any purpose except performing the contract.
+
+In the preceding twelve (12) months, we have disclosed the following categories of personal information for a business purpose:
+
+Category A:         Identifiers.
+
+Category B:         California Customer Records personal information categories.
+
+Category C:         Protected classification characteristics under California or federal law.
+
+Category D:         Commercial Information.
+
+Category F:         Internet or other similar network activity.
+
+Category J:          Non-public education information (per the Family Educational Rights and Privacy Act (20 U.S.C. Section 1232g, 34 C.F.R. Part 99)).
+
+Business purposes may include, but are not limited to: (1) auditing such as advertising analytics or auditing legal and regulatory compliance. (2) security such as detecting security breaches, protecting against fraud and malicious activity, or taking action against wrongdoers (e.g. fraudsters and hackers). (3) debugging such as identifying and fixing technical errors. (4) short-term uses including contextual ad customization that does not involve or contribute to profiling. (5) performing services such as account maintenance, customer service, or marketing. (6) internal research to develop or demonstrate technology. or (7) testing or improvement of any service or device “owned, manufactured, manufactured for, or controlled by” the business.
+
+In the preceding twelve (12) months, we have sold the following categories of personal information:
+
+Category A:         Identifiers.
+
+Category B:         California Customer Records personal information categories.
+
+Category C:         Protected classification characteristics under California or federal law.
+
+**Your Rights and Choices**
+
+The CCPA provides California residents with specific rights regarding their personal information. This section describes your CCPA rights and explains how to exercise those rights.
+
+_Access to Specific Information and Data Portability Rights_
+
+You have the right to request that we disclose certain information to you about our collection and use of your personal information. We will disclose the following information to you upon receiving your verifiable consumer request:
+
+*   The categories of personal information we collected about you.
+*   The categories of sources for the personal information we collected about you.
+*   Our business or commercial purpose for collecting that personal information.
+*   The categories of third parties with whom we share that personal information.
+*   The specific pieces of personal information we collected about you.
+*   Our business or commercial purpose for selling or disclosing that personal information, if applicable.
+*   If we sold or disclosed your personal information for a business purpose, two separate lists disclosing:  
+    *   Sales – Identifying the personal information categories that each category of recipient purchased. and
+    *   Disclosures for a business purpose – Identifying the personal information categories that each category of recipient obtained.
+
+_Deletion Request Rights_
+
+You have the right to request that we delete personal information that we collected from you, subject to certain exceptions. We will delete (and direct our service providers to delete) your personal information from our records upon receiving your verifiable consumer request, unless an exception applies.
+
+_Exercising Access, Data Portability, and Deletion Rights_
+
+To exercise the access, data portability, and deletion rights described above, please submit a request to us by either:
+
+Calling us at 1-888-266-6010
+
+Data Deletion Requests: https://Compliance.EducationDynamics.com/DataRequest/DeleteData?sourceurl=EL
+
+Data Access Requests: https://Compliance.EducationDynamics.com/DataRequest/RequestData?sourceurl=EL
+
+Only you or a person registered with the California Secretary of State that you authorize to act on your behalf, may make a request related to your personal information. You may also make a request on behalf of your minor child.
+
+We are not required to provide personal information to you more than twice within a 12-month period.
+
+We cannot respond to your request or provide you with personal information if we cannot reasonably verify your identity or authority to make the request or confirm the personal information relates to you.  We will not require you to create an account with us in order to make a request.  We will only use personal information provided in a request to verify your identity or authority to make the request.
+
+_Response Timing and Format_
+
+We endeavor to respond to a verifiable consumer request within 45 days of its receipt.  If we require more time, we will inform you of the reason and extension period in writing.  If you have an account with us, we will deliver our written response to that account.  If you do not have an account with us, we will deliver our written response by mail or electronically.  Any disclosures we provide will cover the 12-month period preceding our receipt of the verifiable consumer request.  The response we provide will also explain the reasons we cannot comply with a request, if applicable.  For data portability requests, we will select a format to provide your personal information that is readily useable and should allow you to transmit the information from one entity to another entity without hindrance.
+
+_Do Not Sell My Personal Information_
+
+You have the right to opt-out of the sale of your personal information. however, exercising this right does not affect any of your personal information that was sold prior to the filing of your opt-out request. To exercise your opt-out right, please submit a request at: https://Compliance.EducationDynamics.com/DataRequest/DoNotSellData?sourceurl=EL
+
+**Changes to Our Privacy Notice**
+
+We reserve the right to amend this privacy notice at our discretion and at any time. When we make changes to this privacy notice, we will notify you through a notice on our website or obtain consent where required by law.
+
+**Contact Information**
+
+If you have any questions or comments about this Privacy Policy For California Residents, the ways in which we collect and use your personal information, your choices and rights regarding such use, or wish to exercise your rights under California law, please do not hesitate to contact us at:
+
+Website: educationdynamics.com  
+Email: compliance@educationdynamics.com  
+Postal Address: EducationDynamics, LLC  
+Attn: Compliance Department  
+111 River Street, 10th Floor  
+Hoboken, NJ 07030
+
+**PRIVACY POLICY – NEVADA**
+
+Residents of the State of Nevada have the right to opt out of the sale of certain pieces of their information to third parties who will sell or license their information to others. If you are a Nevada resident and would like to make such a request, please email compliance@educationdynamics.com or submit a request at https://compliance.educationdynamics.com/DataRequest/DoNotSellData?sourceurl=EL
+
+Last Updated on 01/14/2020 This Privacy Policy is effective immediately for all users. To review the previous policy, please click here
 
 Help Section
 
