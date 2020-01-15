@@ -140,7 +140,11 @@ The IoT Trust Framework® includes a set of strategic principles necessary to he
 
 Visit our IoT Trust Framework page and download the full version or Framework Overview.
 
-Read the Framework Learn more about IoT OTA News Deep Dive: How Does the Consumer Sector Score on Privacy and Security? Building Trust 7 January 2020 Deep Dive: How Does the Consumer Sector Score on Privacy and Security?
+Read the Framework Learn more about IoT OTA News Deep Dive: U.S. Federal Government’s Security and Privacy Practices Building Trust 14 January 2020 Deep Dive: U.S. Federal Government’s Security and Privacy Practices
+
+In April 2019, the Internet Society’s Online Trust Alliance released its 10th Annual Online Trust Audit &. Honor Roll....
+
+Deep Dive: How Does the Consumer Sector Score on Privacy and Security? Building Trust 7 January 2020 Deep Dive: How Does the Consumer Sector Score on Privacy and Security?
 
 In April 2019 the Internet Society’s Online Trust Alliance released its 10th annual Online Trust Audit &. Honor Roll....
 
@@ -156,7 +160,7 @@ Deep Dive: A Look at Top Retailers’ Security Practices Building Trust 27 Novem
 
 In April 2019 the Internet Society’s Online Trust Audit released its 10th Online Trust Audit and Honor Roll. One...
 
-U.S. Presidential Campaigns Struggle With Cybersecurity In the News 14 October 2019 U.S. Presidential Campaigns Struggle With Cybersecurity U.S. News &. World Report Most presidential candidates’ websites don’t do enough to protect visitors’ privacy, report says In the News 10 October 2019 Most presidential candidates’ websites don’t do enough to protect visitors’ privacy, report says Boston Globe Load more Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team Megan Kruse photo Megan Kruse
+U.S. Presidential Campaigns Struggle With Cybersecurity In the News 14 October 2019 U.S. Presidential Campaigns Struggle With Cybersecurity U.S. News &. World Report Load more Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team Megan Kruse photo Megan Kruse
 
 Business Director, Online Trust Alliance
 
