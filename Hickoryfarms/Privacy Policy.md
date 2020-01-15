@@ -8,10 +8,9 @@
     *   Gift Towers &. Crates
     *   California Gift Baskets
     
-    Occasions*   Game Day
-    *   Holiday
+    Occasions*   Valentine's Day Gifts
+    *   Game Day
     *   Birthday Gifts
-    *   Gifts for a Group
     *   Gifts for Her
     *   Gifts for Him
     *   Thank You Gifts
@@ -82,15 +81,14 @@
     *   Gifts for Her
     *   Gifts for Him
     *   Thank You Gifts
-    *   Sympathy Gifts
+    *   Sympathy GiftsMost Popular Valentine's Day Gifts
 *   Business Gifts
     View All Categories Shop by Category*   Business Gifts
     *   Premium Wine Gifts
     *   Office Gift BasketsMost Popular Premium Wine Gifts
 *   Sale
-    View All Categories Shop by Category*   Final Clearance
 
-1.800.753.8558 Business Gifts Save up to 75% on select gifts &. get free shipping on shipments $30+!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
+1.800.753.8558 Business Gifts Free shipping on select gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
 
 *   Gift Baskets
     
@@ -102,10 +100,9 @@
     *   Gift Towers &. Crates
     *   California Gift Baskets
     
-    Occasions*   Game Day
-    *   Holiday
+    Occasions*   Valentine's Day Gifts
+    *   Game Day
     *   Birthday Gifts
-    *   Gifts for a Group
     *   Gifts for Her
     *   Gifts for Him
     *   Thank You Gifts
@@ -176,13 +173,12 @@
     *   Gifts for Her
     *   Gifts for Him
     *   Thank You Gifts
-    *   Sympathy Gifts
+    *   Sympathy GiftsMost Popular Valentine's Day Gifts
 *   Business Gifts
     View All Categories Shop by Category*   Business Gifts
     *   Premium Wine Gifts
     *   Office Gift BasketsMost Popular Premium Wine Gifts
 *   Sale
-    View All Categories Shop by Category*   Final Clearance
 
 1.800.753.8558 Business Gifts
 
@@ -317,4 +313,4 @@ Find A Store
 
 *   Find A Store
 
-© 2020 All Rights Reserved Privacy Policy Terms Of Use Site Map Compliance
+© 2020 All Rights Reserved Privacy Policy Terms Of Use Site Map Compliance Play IconFeedback
