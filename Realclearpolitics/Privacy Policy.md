@@ -1,3 +1,5 @@
+We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
+
 *   Policy
 *   Markets
 *   World
@@ -116,6 +118,58 @@
     *   About
     *   Media Kit
 
+*   _David Siders_: Why Tonight's Debate Could Be a Doozy
+    
+*   _Conrad Black_: Trump's Achievements Are Real--Voters Will Remember
+    
+*   _Virginia Heffernan_: Call Trump's Supporters What They Are: A Cult
+    
+*   _Salena Zito_: PA Congressional Races Ready for 2020 Bellwether Role
+    
+*   _Andrew Prokop_: The State of the Dem Race Before This Final Pre-Iowa Debate
+    
+*   _Rudy Giuliani_: Trump Exposed Iran's Weakness, for All to See
+    
+*   _Javier Solana_: Trump's Iranian Precipice
+    
+*   _Sharyl Attkisson_: FISA Court's Breathtaking Appointment of David Kris
+    
+*   _Jeffrey Toobin_: Why Dem Candidates Should Talk About Supreme Court
+    
+*   _Sohrab Ahmari_: The Silly Smear of Bill Barr as an Agent of a 'Catholic Cult'
+    
+*   _Kalev Leetaru_: Data Underscore Brokaw's Assertion of Media Negativity
+    
+*   _Lissandra Villa_: No Clear Frontrunner for Dems Ahead of Iowa Debate
+    
+*   _Grady Means_: Political Earthquake Propelling Trump and Sanders
+    
+*   _Marc Caputo &. Holly Otterbein_: The Coming Clash Between Bernie &. Biden
+    
+*   _Steve Hilton_: Trump's Successful Presidency Burying GOP Establishment
+    
+*   _Joel Mathis_: Of Course Warren and Sanders Are Fighting
+    
+*   _Charles Hurt_: Spartacus Drops His Sword
+    
+*   _Frederick Joseph_: Joe Biden Doesn't Deserve Black People
+    
+*   _Eli Lake_: Trump’s Latest Plan for Iran: Regime Disruption
+    
+*   _Sam Dagher_: Iran Hasn't Avenged Soleimani's Death Yet
+    
+*   _David Harsanyi_: We Can't Trust the Media to Report Honestly on Iran
+    
+*   _Nick Gillespie_: Iran's Theocracy Will Collapse Because of People Like Kimia
+    
+*   _Bhaskar Sunkara_: Sanders Leading in Iowa Is Good News for Democrats
+    
+*   _Ira Stoll_: Surge by Sanders Could Destroy Trillions in Equity
+    
+
+*   Previous
+*   Next
+
 Privacy Policy
 
 Thank you for visiting this website, a digital service presented to you by RealClearPolitics, LLC. ("RCP", "we" or "us"). Your privacy is important to us. As such, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used by this digital service and among RealClearPolitics network of affiliated and operated digital services ("RealClear Media Group"), which includes any online or mobile websites, applications or digital services owned, operated or offered by, on behalf of, or in conjunction with RCP or its Affiliates, including any online or mobile website, application or digital service installation through which this Privacy Policy appears (each a "Service," collectively the "Services"). "Users" are persons that use the Services.
@@ -163,6 +217,96 @@ If you have any further question about this Privacy Policy, please contact us at
 
   
   
+RecommendedPolitics
+
+*   Politics
+*   Markets
+*   World
+*   Science
+*   History
+*   Future
+*   Energy
+*   Health
+*   Policy
+*   Religion
+*   Defense
+*   Sports
+*   Education
+*   Books
+*   Investigations
+
+*   Booker's Rhetoric Soared, But His Campaign Sagged
+*   Democratic Debate Allows One More Jab Before Iowa Caucuses
+*   Solomon: Pelosi Will Look Back on Impeaching Trump With Deep Regret
+*   Iran Cracks Down as Protests Over Downing of Airliner Grow
+*   With Pompeo Out, Republicans Face Kansas Senate Race Headache
+*   Presidential Job Approval
+*   Cartoons of the Week
+
+Latest PollsAll Polls
+
+*   All Polls
+*   Democratic Primary
+*   General Election
+*   Senate 2020
+*   Governors 2020
+*   House 2020
+*   State of the Union
+
+*   Nevada Democratic Presidential CaucusUSA Today/Suffolk
+    *   Biden19
+    *   Sanders18
+    *   Warren11
+    *   Buttigieg8
+    *   Steyer8
+    *   Yang4
+    *   Klobuchar4
+    *   Booker2
+    *   Gabbard1
+    *   BloombergBiden +1
+*   North Carolina Democratic Presidential PrimaryPPP (D)
+    *   Biden31
+    *   Sanders18
+    *   Warren15
+    *   Bloomberg8
+    *   Buttigieg6
+    *   Yang5
+    *   Steyer3
+    *   Klobuchar3
+    *   Booker1
+    *   GabbardBiden +13
+*   2020 Democratic Presidential NominationThe Hill/HarrisX
+    *   Biden29
+    *   Sanders19
+    *   Warren11
+    *   Buttigieg4
+    *   Bloomberg7
+    *   Yang2
+    *   Klobuchar3
+    *   Steyer3
+    *   Gabbard
+    *   Booker
+    *   Bennet2Biden +10
+*   2020 Democratic Presidential NominationMorning Consult
+    *   Biden29
+    *   Sanders23
+    *   Warren14
+    *   Buttigieg8
+    *   Bloomberg8
+    *   Yang5
+    *   Klobuchar3
+    *   Steyer4
+    *   Gabbard2
+    *   Booker2
+    *   Bennet1Biden +6
+
+More Latest Polls In The News
+
+*   Van Jones on Debate: "There Was Nothing I Saw Tonight That Would Be Able To Take Donald Trump Out"
+*   Sanders: "I Didn't Say" A Woman Can't Win 2020 Election To Elizabeth Warren, This Is What The Media Wants
+*   Warren: "I Disagreed" With Bernie When He Told Me A Woman Can't Win, I've Won Every Single Election
+*   Sanders Campaign Organizer: Free Education, Gulags Needed To "Re-Educate" You Not To Be A "F\*cking Nazi"
+*   McCarthy: Pelosi Withheld Impeachment Articles To Help Biden's 2020 Campaign Keep Sanders "At Bay"
 
 *   Politics
 *   Policy
@@ -187,4 +331,4 @@ If you have any further question about this Privacy Policy, please contact us at
 *   RSS
 *   View Mobile Site
 
-Copyright © 2020 RealClearHoldings, LLC. ©2019 RealClearPolitics | Go to full site
+Copyright © 2020 RealClearHoldings, LLC. ©2019 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=null&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
