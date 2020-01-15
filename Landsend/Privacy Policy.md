@@ -1,6 +1,5 @@
 skip to content skip to navigation skip to search
 
-*   Track My Order
 *   Stores
 *   Gift Cards
 *   Business Outfitters
@@ -9,20 +8,9 @@ skip to content skip to navigation skip to search
 
 *   Call or Text 1-800-963-4816
 *   Ship To
-*   Help
-    *   Customer Service
-    *   Contact Us
-    *   Track My Order
-    *   Make a Return
-    *   Email Sign Up
-    *   FAQ
-    *   Chat
+*   Help Center
 
-Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Order History Edit Order Customer Service Chat Email
-
-Call or Text 1-800-963-4816
-
-Refer a Friend for 50% OFF Full Price Items! Bag 0
+Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Order History Edit Order Refer a Friend for 40% OFF Full Price Items! Bag 0
 
 *   Women
 *   Men
@@ -36,36 +24,21 @@ Refer a Friend for 50% OFF Full Price Items! Bag 0
 *   Sale
 *   Live chat
 
-Receive 40% off your order!
+Lands' End Sign In menu
 
-code: SNOWFALL pin: PROMOTION DETAILS
+0 Free Shipping on $75+
+
+Receive 30% off your order. free shipping, no minimum!
+
+code: ICEBERG pin: PROMOTION DETAILS
 
 Customer Service Menu
 
-Customer Service
+Help Center
 
-*   Customer Service Home
-*   FAQ
-*   Shipping
-*   Returns
-*   Contact Us
-*   Manage &. Track Orders
-*   Gift Cards
-*   Manage Email Subscription
-*   Services
-*   Legal Policies
-*   Technical Information
-*   Store Locator
-*   More Lands' End Sites
-*   Size Charts
-*   Site Map
-*   Glossary
+*   Help Center
 
-Find an answer fast
-
-Search the Lands' End Help Center.
-
-Search the Lands' End Help Center. Go LANDS’ END PRIVACY POLICY Effective December 10, 2019
+LANDS’ END PRIVACY POLICY Effective December 10, 2019
 
 Download PDF / Print
 
@@ -252,15 +225,12 @@ Lands’ End may update this Privacy Policy from time to time. Please check this
 
 sign up**Get exclusive Offers and News**Privacy Policy &. Contact Info sign up U.S. Customers only. No purchase necessary. Automated marketing messages will be sent to the phone number provided. Msg &. data rates may apply. Up to 8 messages per month. Privacy Policy Customer Service Chat
 
-*   Call Text Chat Email
-*   **Call or text us 1-800-963-4816**
-*   **Live Chat**
+*   Call Text Live Chat Email
 *   Help Center
-*   Track My Order
-*   Contact Us
-*   Shipping
+*   Orders
 *   Returns
-*   Site Map
+*   Shipping
+*   Get in Touch
 *   Change Country/Currency
 
 Company
@@ -272,6 +242,7 @@ Company
 *   Newsroom
 *   Lands' End Business
 *   International Sites
+*   The Journal
 
 Services
 
@@ -288,7 +259,7 @@ Policies
 *   Terms of Use
 *   Recall &. Safety Info
 *   CA Transparency Act
-*   CA Consumer Privacy Act
+*   Do Not Sell My Personal Information – CA Residents Only
 
 Stores
 
@@ -298,7 +269,48 @@ Stores
 
 Lands' End Credit Card
 
-*   Spend $1 on Lands' End Credit Card at Landsend.com or Lands' End stores = Earn 5 points **Spend $1 on Lands' End Credit Card at Landsend.com or Lands' End stores = Earn 5 points** **1**
+*   **Spend $1 on Lands' End Credit Card at Landsend.com or Lands' End stores = Earn 5 points** **1**
+*   Learn More &. Apply Now
+*   Manage Account
+
+Customer Service Chat
+
+*   Call Text Chat Email
+*   Help Center
+*   Orders
+*   Returns
+*   Shipping
+*   Get in Touch
+*   Change Country/Currency
+
+Company
+
+*   About Us
+*   Careers
+*   Sustainability
+*   Investor Relations
+*   Newsroom
+*   Lands' End Business
+*   International Sites
+*   The Journal
+
+Services
+
+*   Gift Cards
+*   Monogramming &. Embroidery
+*   Shop Catalogs
+*   Catalog Requests
+*   Refer a Friend
+
+Stores
+
+*   Find a complete list of retail store locations, departments and store hours.
+*   Store locator
+*   **Locate Your Store**
+
+Lands' End Credit Card
+
+*   **Spend $1 on Lands' End Credit Card at Landsend.com or Lands' End stores = Earn 5 points** **1**
 *   Learn More &. Apply Now
 *   Manage Account
 
@@ -307,16 +319,16 @@ Lands' End Credit Card
 *   Terms of Use
 *   Recall &. Safety Info
 *   CA Transparency Act
-*   CA Consumer Privacy Act
+*   Do Not Sell My Personal Information – CA Residents Only
 
-*   © 2019 lands' end
+*   ©2020 lands' end
 *   Sitemap
-*   Index
 
+  
 If you are using a screen reader and are having problems using this website, please call 1-800-963-4816 for assistance.
 
 Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-protected by **reCAPTCHA** Privacy - Terms Privacy - Terms <iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+protected by **reCAPTCHA**Privacy - TermsPrivacy - TermsIndex <iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
