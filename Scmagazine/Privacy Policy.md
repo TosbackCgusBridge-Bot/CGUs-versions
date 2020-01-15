@@ -213,23 +213,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Wyze Labs data breach exposes 2.4 million, includes PHI
-    *   Shades of Ashley Madison: Love Hotels search engine breached
-    *   Experiential learning - the key to forgetting about the Forgetting Curve
-    *   Achieving an audacious goal by treating cybersecurity like a science
-    *   Solving man in the middle cyberattacks with cloud-native SDPs
-    
-    *   Shades of Ashley Madison: Love Hotels search engine breached
+    *   Mimecast acquires Segasec
     *   Army joins Navy in banning TikTok
-    *   Experiential learning - the key to forgetting about the Forgetting Curve
-    *   Soleimani killing will likely result in reprisal cyberattacks by Iran
+    *   Russia's Fancy Bear successfully hacked Burisma during impeachment probe
     *   DHS finds no tampering of Durham County election devices
+    *   Google app vulnerability being exploited in the wild: Trend Micro
     
-    *   Federally funded Unimax smartphone pre-loaded with malware
-    *   Bahraini oil company reportedly attacked by new 'Dustman' disk wiper
-    *   No immediate cyberthreat seen over Soleimani killing, but preparation is key
-    *   Mozilla patches exploited zero-day flaw in Firefox
-    *   Cisco patches multiple vulnerabilities
+    *   Adobe rolls out a light Patch Tuesday offering
+    *   Microsoft helps shutter domains run by North Korean cybergang Thallium
+    *   Cable Haunt RCE vulnerability exposes millions of modems to exploitation
+    *   Travelex sidelines online financial services following malware discovery
+    *   Attackers sink their meathooks into Landry's restaurants' payment card data
+    
+    *   Russia's Fancy Bear successfully hacked Burisma during impeachment probe
+    *   Microsoft phases out Windows 7 support, now what?
+    *   Barr pushes Apple for additional help unlocking Pensacola gunman's iPhone
+    *   Cable Haunt RCE vulnerability exposes millions of modems to exploitation
+    *   Texas school district phished for $2.3 million
 
 Back to Top
 
@@ -263,9 +263,5 @@ Back to Top
 Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">.
 
 Advertisement. Closing in 15 seconds.
-
-X
-
-You can skip this ad in 2 seconds.
 
 x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
