@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksIt Took a Court to Decide Whether Pringles Are Potato Chips1STBalut Is the Asian Street Food You Gotta Eat to Believe2NDThere's a Pooping Man in the Catalan Nativity Scene3RDIs Holland the Same as the Netherlands?4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredAuto Overload | Sponsored20 Photos Captured At Airports That Will Make You Laugh Out LoudAuto Overload | SponsoredEverydayKoala | SponsoredThese Twins Were Named "Most Beautiful In The World," Wait Till You See Them TodayEverydayKoala | SponsoredThedelite | SponsoredBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksBalut Is the Asian Street Food You Gotta Eat to Believe1STThere's a Pooping Man in the Catalan Nativity Scene2NDWhat Do Reindeer Do When They're Not Pulling Santa's Sleigh?3RDWhat's the Difference Between Baking Soda and Baking Powder?4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredThedelite | SponsoredBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite | SponsoredHearTech Labs | SponsoredForget Prescription Hearing Aids Use This InsteadHearTech Labs | SponsoredAuto Overload | Sponsored20 Photos Captured At Airports That Will Make You Laugh Out LoudAuto Overload | Sponsored
 
 Advertisement
 
-lifestyle - foodBrace Yourself: Bananas Are Berries, Strawberries Aren'tBY Michelle Konstantinovskylifestyle - foodWhat's the Difference Between Baking Soda and Baking Powder?BY Melanie Radzicki McManusscience - life scienceIs There Really a Cork Crisis?BY Wendy BowmanWorldemand | Sponsored17+ Actors You Didn't Know Were Gay - No. 8 Will Shock WomenWorldemand | SponsoredTruthfinder | SponsoredEnter Any Name, Wait 105 Seconds, See Instant ResultsTruthfinder | Sponsored
+science - engineeringWhat's the Difference Between an Avenue, a Road and a Boulevard?BY Melanie Radzicki McManusculture - historyIs Holland the Same as the Netherlands?BY Wendy Bowmanculture - history9 Little-known Nuggets About Honest AbeBY John DonovanFinance101 | Sponsored\[Photos\] Wait Till You See The Inside. They Were Tired of Paying Rent, So They Built Themselves A Tiny House. See What It Looks Like FinishedFinance101 | SponsoredConsumer Cellular | SponsoredStart Saving–Switch TodayConsumer Cellular | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhat's the Difference Between Toilet Paper and Tissue?What's the Difference Between an Avenue, a Road and a Boulevard?Bengal Cats Are Mini Leopard Hybrid HousecatsDeaf, Blind and Determined: How Helen Keller Learned to CommunicateCould Electric Motor Conversions Save Classic Cars?Why Aren't Seat Belts Required on All School Buses?by Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhy Is the Tropic of Capricorn Important?It Took a Court to Decide Whether Pringles Are Potato ChipsTry Ghee, the 'Liquid Gold' Better Than ButterCould an 'X17 Particle' Hint at a Fifth Force in the Universe?What's the Difference Between Toilet Paper and Tissue?How Artificial Intelligence Is Totally Changing Everythingby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2020 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. It Took a Court to Decide Whether Pringles Are Potato ChipsRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StoryAuto Overload20 Photos Captured At Airports That Will Make You Laugh Out LoudAuto Overload|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Balut Is the Asian Street Food You Gotta Eat to BelieveRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StoryThedeliteBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite|SponsoredSponsoredRead Next Story
