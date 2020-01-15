@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsEnable Accessibility
 
-*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
+*   My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -22,7 +22,7 @@ Shop Departments
 
 Near YouFind a StoreBack40% OFF$40+ with code | Juniors’ Arizona jeans  
 select styles | reg. $42  
-BUY 1 GET 1 50% OFF\* Boys’ Arizona jeans select styles | reg. $30-$40 40% OFF $40+ with code | Guys’ Arizona jeans select styles | reg. $42-$50 BUY 1 GET 1 50% OFF\* Girls’ Arizona fashion jeans &. jeggings select styles | reg. $30-$37 60 - 70% OFF COATS &. JACKETS FOR THE FAMILY  
+BUY 1 GET 1 50% OFF\* Boys’ Arizona jeans select styles | reg. $30-$40 BUY 1 GET 1 40% OFF $40+ with code | Guys’ Arizona jeans select styles | reg. $42-$50 BUY 1 GET 1 50% OFF\* Girls’ Arizona fashion jeans &. jeggings select styles | reg. $30-$37 60 - 70% OFF COATS &. JACKETS FOR THE FAMILY  
 select styles **sale $12.80-$71.99** | reg. $32-$180  
 
 *   MEN
