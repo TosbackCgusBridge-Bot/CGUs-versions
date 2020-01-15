@@ -23,365 +23,317 @@ Active
 
 Always Active
 
-Save SettingsAllow All Mortgages Homes Banking Credit Cards Loans Investing Home Equity Insurance Personal Finance Retirement Sign In Mortgages
-
-*   Mortgages
-
-Get the Best Rates
-
-*   Mortgage rates
-*   Refinance rates
-*   30-year mortgage rates
-*   15-year mortgage rates
-*   20-year mortgage rates
-*   10-year mortgage rates
-*   Mortgage lender reviews
-*   Call for rates: (877) 359-7659
-
-Use Calculators
-
-*   Mortgage calculator
-*   How much house can you afford?
-*   Mortgage refinance calculator
-*   Mortgage payment calculator
-*   Amortization calculator
-*   All mortgage calculators
-
-Get Advice
-
-*   What to know about reverse mortgages
-*   Home buying guide
-*   Refinance your mortgage
-*   First-time homebuyer loans and programs
-*   Prepaying your mortgage
-*   Your guide to FHA loans
-*   Everything to know about VA loans
-
-Homes
-
-*   Homes
-
-Home Buying
-
-*   Determine your budget
-*   Find your home
-*   Get prequalified
-
-Get Advice
-
-*   Step-By-Step Homebuying Guide
-*   First-Time Homebuyer's Guide
-*   How Does Rent-To-Own Work?
-*   What To Look For When Buying A Home
-*   Homebuyer Mistakes To Avoid
-
-Learn How To
-
-*   Make An Offer On A House
-*   Decide Between Renting vs. Buying
-*   Ace the Final Walk-Through
-*   Find The Best Real Estate Agent
-*   Buying A Second Home
-
-Use Calculators
-
-*   How Much House Can I Afford?
-*   Rent Vs. Buy Calculator
-*   Cost of Living Calculator
-*   How Much Should I Put Down?
-
-Banking
-
-*   Banking
-
-Compare Accounts
-
-*   CD rates
-*   Savings accounts
-*   Money market accounts
-*   1-Year CD rates
-*   3-Year CD rates
-*   5-Year CD rates
-*   Checking accounts
-*   Bank ratings
-
-Use Calculators
-
-*   Savings calculator
-*   CD calculator
-*   Compound savings calculator
-*   All banking calculators
-
-Get Advice
-
-*   How to save money
-*   Federal Reserve news
-*   What is a money market account?
-*   Which certificate of deposit account is best?
-*   How to open a savings account
-
-Bank Reviews
-
-*   Capital One Bank
-*   Marcus by Goldman Sachs
-*   American Express National Bank
-*   CIT Bank
-*   Synchrony Bank
-*   Barclays Bank
-*   All Bank Reviews
-
-Credit Cards
-
-*   Credit Cards
-
-Compare by Category
-
-*   Best Credit Cards of 2020
-*   Rewards
-*   Travel
-*   Airline
-*   Cash Back
-*   No Annual Fee
-*   Balance Transfer
-*   0% APR
-*   Business
-*   Student
-
-Compare by Credit Needed
-
-*   Excellent Credit
-*   Good Credit
-*   Fair Credit
-*   Bad Credit
-*   No Credit History
-*   Secured Credit Cards
-
-Compare by Issuer
-
-*   American Express
-*   Bank of America
-*   Capital One
-*   Chase
-*   Citi
-*   Discover
-*   Wells Fargo
-
-Get Advice
-
-*   Credit Card Reviews
-*   Credit Card Payoff Calculator
-*   Balance Transfer Calculator
-*   All Credit Card Calculators
-
-Loans
-
-*   Loans
-
-Compare Lenders
-
-*   Personal loan rates
-*   Personal loan reviews
-*   Auto loan rates
-*   Student loan rates
-*   Student loan reviews
-
-Loan Types
-
-*   Personal loans
-*   Auto loans
-*   Debt consolidation loans
-*   Home improvement loans
-*   Student loans
-*   Medical loans
-*   Bad credit loans
-
-Use Calculators
-
-*   Loan calculator
-*   Auto loan calculator
-*   Personal loan calculator
-*   Auto refinance calculator
-*   Loan payment calculator
-*   Student loan calculator
-*   All calculators
-
-Get Advice
-
-*   Student loans guide
-*   Refinancing student loans
-*   Refinancing personal loans
-*   Refinancing auto loans
-*   How to get a personal loan
-*   Personal loan origination fees
-
-Investing
-
-*   Investing
-
-Best of
-
-*   Best Investments
-*   Best online brokers for stocks
-*   Best online brokers for beginners
-*   Best online brokers for mutual funds
-
-Brokerage Reviews
-
-*   TD Ameritrade Review
-*   Merrill Edge Review
-*   Ally Invest Review
-*   Fidelity Review
-*   Charles Schwab Review
-*   Vanguard Review
-*   Interactive Brokers Review
-*   Robinhood Review
-*   Tradestation Review
-*   E\*Trade Review
-*   WellsTrade Review
-*   All Brokerage Reviews
-
-Use Calculators
-
-*   Investment Earnings Calculator
-*   Annuity Calculator
-*   All Investing &. CD Calculators
-
-Get Advice
-
-*   Compare Online Brokerages
-*   What is the long-term capital gains tax?
-*   Passive income: What it is and 5 ideas for 2019
-*   How to buy stocks
-
-Home Equity
-
-*   Home Equity
-
-Compare Lenders
-
-*   Home equity loan rates
-*   Home equity line of credit rates
-*   Home equity lender reviews
-
-Use Calculators
-
-*   Home Equity Calculator
-*   Loan vs. Line Of Credit Calculator
-*   Debt consolidation calculator
-*   HELOC payoff calculator
-*   All home equity calculators
-
-Get Advice
-
-*   What is a home equity loan?
-*   HELOC vs. Home equity loan
-*   Consolidate your debt using home equity
-*   Home equity loans with bad credit
-
-Insurance
-
-*   Insurance
-
-Insurance Types
-
-*   Car insurance
-*   Homeowner's insurance
-*   Health insurance
-*   Life insurance
-
-Best of
-
-*   Best Car Insurance Companies
-*   Best Home Insurance Companies
-*   Best Cheap Car Insurance
-*   Top Car Insurance Comparison
-
-Company Reviews
-
-*   Geico Insurance
-*   State Farm Insurance
-*   Progressive Insurance
-*   Allstate Insurance
-*   Liberty Mutual Insurance
-*   Nationwide Insurance
-*   The General Insurance
-*   Farmers Insurance
-*   American Family Insurance
-*   Erie Insurance
-*   Amica Insurance
-*   Travelers Insurance
-
-Insurance by State
-
-*   Car Insurance California
-*   Car Insurance Florida
-*   Car Insurance Georgia
-*   Car Insurance Michigan
-*   Car Insurance New Jersey
-*   Car Insurance New York
-*   Car Insurance North Carolina
-*   Car Insurance Pennsylvania
-*   Car Insurance Texas
-*   Home Insurance Florida
-*   Home Insurance Texas
-
-Personal Finance
-
-*   Personal Finance
-
-Compare
-
-*   Current interest rates
-*   Compare rates
-
-Use Calculators
-
-*   Debt consolidation calculator
-*   Net worth calculator
-*   Personal finance calculators
-*   Cost of living calculator
-*   All calculators
-
-Get Advice
-
-*   Retirement advice
-*   Debt management
-*   Improve your credit score
-*   Career resources
-*   Tax advice
-*   Insurance basics
-*   Real estate tips
-*   Personal finance glossary
-
-Retirement
-
-*   Retirement
-
-Get Advice
-
-*   Best Roth IRA accounts
-*   Best retirement plans
-*   How to open a Roth IRA
-*   401(k) rollover guide
-*   Roth IRA vs. Roth 401(k)
-
-Use Calculators
-
-*   401(k) retirement calculator
-*   Retirement savings calculator
-*   Roth IRA calculator
-*   IRA minimum distribution calculator
-*   Social security benefits calculator
-*   All retirement calculators
-
-More Information
-
-*   What is an IRA?
-*   What is a Roth 401(k)?
-*   401(k) contribution limits
-*   Contributing to IRA during retirement
-*   Best age for Social Security retirement benefits
-*   Roth IRA 5 year rule
+Save SettingsAllow All
+
+*   Mortgages Get the Best Rates
+    
+    *   Mortgage rates
+    *   Refinance rates
+    *   30-year mortgage rates
+    *   15-year mortgage rates
+    *   20-year mortgage rates
+    *   10-year mortgage rates
+    *   Mortgage lender reviews
+    
+    Use Calculators
+    
+    *   Mortgage calculator
+    *   How much house can you afford?
+    *   Mortgage refinance calculator
+    *   Mortgage payment calculator
+    *   Amortization calculator
+    *   All mortgage calculators
+    
+    Get Advice
+    *   What to know about reverse mortgages
+    *   Home buying guide
+    *   Refinance your mortgage
+    *   First-time homebuyer loans and programs
+    *   Prepaying your mortgage
+    *   Your guide to FHA loans
+    *   Everything to know about VA loans
+*   Homes Home Buying
+    
+    *   Determine your budget
+    *   Find your home
+    *   Get prequalified
+    
+    Get Advice
+    
+    *   Step-By-Step Homebuying Guide
+    *   First-Time Homebuyer's Guide
+    *   How Does Rent-To-Own Work?
+    *   What To Look For When Buying A Home
+    *   Homebuyer Mistakes To Avoid
+    
+    Learn How To
+    
+    *   Make An Offer On A House
+    *   Decide Between Renting vs. Buying
+    *   Ace the Final Walk-Through
+    *   Find The Best Real Estate Agent
+    *   Buying A Second Home
+    
+    Use Calculators
+    *   How Much House Can I Afford?
+    *   Rent Vs. Buy Calculator
+    *   Cost of Living Calculator
+    *   How Much Should I Put Down?
+*   Banking Compare Accounts
+    
+    *   CD rates
+    *   Savings accounts
+    *   Money market accounts
+    *   1-Year CD rates
+    *   3-Year CD rates
+    *   5-Year CD rates
+    *   Checking accounts
+    *   Bank ratings
+    
+    Use Calculators
+    
+    *   Savings calculator
+    *   CD calculator
+    *   Compound savings calculator
+    *   All banking calculators
+    
+    Get Advice
+    
+    *   How to save money
+    *   Federal Reserve news
+    *   What is a money market account?
+    *   Which certificate of deposit account is best?
+    *   How to open a savings account
+    
+    Bank Reviews
+    *   Capital One Bank
+    *   Marcus by Goldman Sachs
+    *   American Express National Bank
+    *   CIT Bank
+    *   Synchrony Bank
+    *   Barclays Bank
+    *   All Bank Reviews
+*   Credit Cards Compare by Category
+    
+    *   Best Credit Cards of 2020
+    *   Rewards
+    *   Travel
+    *   Airline
+    *   Cash Back
+    *   No Annual Fee
+    *   Balance Transfer
+    *   0% APR
+    *   Business
+    *   Student
+    
+    Compare by Credit Needed
+    
+    *   Excellent Credit
+    *   Good Credit
+    *   Fair Credit
+    *   Bad Credit
+    *   No Credit History
+    *   Secured Credit Cards
+    
+    Compare by Issuer
+    
+    *   American Express
+    *   Bank of America
+    *   Capital One
+    *   Chase
+    *   Citi
+    *   Discover
+    *   Wells Fargo
+    
+    Get Advice
+    *   Credit Card Reviews
+    *   Credit Card Payoff Calculator
+    *   Balance Transfer Calculator
+    *   All Credit Card Calculators
+*   Loans Compare Lenders
+    
+    *   Personal loan rates
+    *   Personal loan reviews
+    *   Auto loan rates
+    *   Student loan rates
+    *   Student loan reviews
+    
+    Loan Types
+    
+    *   Personal loans
+    *   Auto loans
+    *   Debt consolidation loans
+    *   Home improvement loans
+    *   Student loans
+    *   Medical loans
+    *   Bad credit loans
+    
+    Use Calculators
+    
+    *   Loan calculator
+    *   Auto loan calculator
+    *   Personal loan calculator
+    *   Auto refinance calculator
+    *   Loan payment calculator
+    *   Student loan calculator
+    *   All calculators
+    
+    Get Advice
+    *   Student loans guide
+    *   Refinancing student loans
+    *   Refinancing personal loans
+    *   Refinancing auto loans
+    *   How to get a personal loan
+    *   Personal loan origination fees
+*   Investing Best of
+    
+    *   Best Investments
+    *   Best online brokers for stocks
+    *   Best online brokers for beginners
+    *   Best online brokers for mutual funds
+    
+    Brokerage Reviews
+    
+    *   TD Ameritrade Review
+    *   Merrill Edge Review
+    *   Ally Invest Review
+    *   Fidelity Review
+    *   Charles Schwab Review
+    *   Vanguard Review
+    *   Interactive Brokers Review
+    *   Robinhood Review
+    *   Tradestation Review
+    *   E\*Trade Review
+    *   WellsTrade Review
+    *   All Brokerage Reviews
+    
+    Use Calculators
+    
+    *   Investment Earnings Calculator
+    *   Annuity Calculator
+    *   All Investing &. CD Calculators
+    
+    Get Advice
+    *   Compare Online Brokerages
+    *   What is the long-term capital gains tax?
+    *   Passive income: What it is and 5 ideas for 2019
+    *   How to buy stocks
+*   Home Equity Compare Lenders
+    
+    *   Home equity loan rates
+    *   Home equity line of credit rates
+    *   Home equity lender reviews
+    
+    Use Calculators
+    
+    *   Home Equity Calculator
+    *   Loan vs. Line Of Credit Calculator
+    *   Debt consolidation calculator
+    *   HELOC payoff calculator
+    *   All home equity calculators
+    
+    Get Advice
+    *   What is a home equity loan?
+    *   HELOC vs. Home equity loan
+    *   Consolidate your debt using home equity
+    *   Home equity loans with bad credit
+*   Insurance Insurance Types
+    
+    *   Car insurance
+    *   Homeowner's insurance
+    *   Health insurance
+    *   Life insurance
+    
+    Best of
+    
+    *   Best Car Insurance Companies
+    *   Best Home Insurance Companies
+    *   Best Cheap Car Insurance
+    *   Top Car Insurance Comparison
+    
+    Company Reviews
+    
+    *   Geico Insurance
+    *   State Farm Insurance
+    *   Progressive Insurance
+    *   Allstate Insurance
+    *   Liberty Mutual Insurance
+    *   Nationwide Insurance
+    *   The General Insurance
+    *   Farmers Insurance
+    *   American Family Insurance
+    *   Erie Insurance
+    *   Amica Insurance
+    *   Travelers Insurance
+    
+    Insurance by State
+    *   Car Insurance California
+    *   Car Insurance Florida
+    *   Car Insurance Georgia
+    *   Car Insurance Michigan
+    *   Car Insurance New Jersey
+    *   Car Insurance New York
+    *   Car Insurance North Carolina
+    *   Car Insurance Pennsylvania
+    *   Car Insurance Texas
+    *   Home Insurance Florida
+    *   Home Insurance Texas
+*   Personal Finance Compare
+    
+    *   Current interest rates
+    *   Compare rates
+    
+    Use Calculators
+    
+    *   Debt consolidation calculator
+    *   Net worth calculator
+    *   Personal finance calculators
+    *   Cost of living calculator
+    *   All calculators
+    
+    Get Advice
+    *   Retirement advice
+    *   Debt management
+    *   Improve your credit score
+    *   Career resources
+    *   Tax advice
+    *   Insurance basics
+    *   Real estate tips
+    *   Personal finance glossary
+*   Retirement Get Advice
+    
+    *   Best Roth IRA accounts
+    *   Best retirement plans
+    *   How to open a Roth IRA
+    *   401(k) rollover guide
+    *   Roth IRA vs. Roth 401(k)
+    
+    Use Calculators
+    
+    *   401(k) retirement calculator
+    *   Retirement savings calculator
+    *   Roth IRA calculator
+    *   IRA minimum distribution calculator
+    *   Social security benefits calculator
+    *   All retirement calculators
+    
+    More Information
+    *   What is an IRA?
+    *   What is a Roth 401(k)?
+    *   401(k) contribution limits
+    *   Contributing to IRA during retirement
+    *   Best age for Social Security retirement benefits
+    *   Roth IRA 5 year rule
+
+*   Create Account
+
+☰
+
+*   Dashboard
+*   Alerts
+*   Settings
+*   Support
+*   Logout
 
 **Privacy Policy**  
 
@@ -666,35 +618,38 @@ California Civil Code 1798.115(c), 1798.130(a)(5)(c), 1798.130(c), and 1798.140 
 
   
 
-Category of Personal Information Is information collected by us? Is information transferred for valuable consideration? Is information transferred for business purposes? Audio, electronic, visual, thermal, olfactory, or similar information X X Commercial information (e.g., products or services purchased, or other purchasing or consuming histories or tendencies) X X Credit card number X X Debit card number X X Electronic network activity (e.g., browsing history) X X Email address X X Geolocation data X X Identifiers (e.g., name or alias) X X Insurance Policy Number X X Medical information X X Online identifier (e.g. IP address) X X Other financial information X X Passport Number X X Physical Characteristics X X Postal address X X Signature X X Social Security Number X X Telephone Number X X Transaction information X X December 19, 2019 4:37:51 PM EST <iframe src="//www.googletagmanager.com/ns.html?id=GTM-N74D8C" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Follow Us Maximize Your Money. Get Expert Advice &. Tools. Master Life's Financial Journey.
-
-You have money questions. Bankrate has answers. Our experts have been helping you master your money for four decades.
-
-Our tools, rates and advice help no matter where you are on life’s financial journey.
+Category of Personal Information Is information collected by us? Is information transferred for valuable consideration? Is information transferred for business purposes? Audio, electronic, visual, thermal, olfactory, or similar information X X Commercial information (e.g., products or services purchased, or other purchasing or consuming histories or tendencies) X X Credit card number X X Debit card number X X Electronic network activity (e.g., browsing history) X X Email address X X Geolocation data X X Identifiers (e.g., name or alias) X X Insurance Policy Number X X Medical information X X Online identifier (e.g. IP address) X X Other financial information X X Passport Number X X Physical Characteristics X X Postal address X X Signature X X Social Security Number X X Telephone Number X X Transaction information X X December 19, 2019 4:37:51 PM EST <iframe src="//www.googletagmanager.com/ns.html?id=GTM-N74D8C" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
 
 *   About Us
 *   Press Room
 *   Contact Us
 *   Careers
-*   Advertise With Us
 
+*   Advertise With Us
 *   Latest News
 *   Popular Topics
 *   Glossary
 *   Compare Rates
-*   Understand  
-    Bankrate's Averages
 
-How we make money
-
-Bankrate.com is an independent, advertising-supported publisher and comparison service. Bankrate is compensated in exchange for featured placement of sponsored products and services, or your clicking on links posted on this website. This compensation may impact how, where and in what order products appear. Bankrate.com does not include all companies or all available products.
-
+*   Understand Bankrate's Averages
 *   New Privacy Policy / Your California Privacy Rights
 *   Do Not Sell My Info
 *   Terms of Use
 *   GLBA Annual Notice
 *   Licenses
 *   Sitemap
+
+How we make money
+
+Bankrate.com is an independent, advertising-supported publisher and comparison service. Bankrate is compensated in exchange for featured placement of sponsored products and services, or your clicking on links posted on this website. This compensation may impact how, where and in what order products appear. Bankrate.com does not include all companies or all available products.
+
+Maximize Your Money. Get Expert Advice &. Tools. Master Life's Financial Journey.
+
+You have money questions. Bankrate has answers. Our experts have been helping you master your money for four decades.
+
+Our tools, rates and advice help no matter where you are on life’s financial journey.
+
+Facebook logo Twitter logo Follow Us
 
 Bankrate, LLC NMLS ID# 1427381 | NMLS Consumer Access  
 BR Tech Services, Inc NMLS ID# 1743443 | NMLS Consumer Access  
