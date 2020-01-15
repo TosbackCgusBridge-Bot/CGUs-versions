@@ -27,6 +27,7 @@ Toggle navigation
     *   Home Buying Tips
     *   Home Buying Checklist
     *   Home Buyers Reveal: 'What I Wish I Had Known Before Buying My First Home'
+    *   First-Time Home Buyer Resource Center
     *   More Home Buying Insights
 *   Sell
     
