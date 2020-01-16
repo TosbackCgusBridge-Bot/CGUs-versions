@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _David Siders_: Why Tonight's Debate Could Be a Doozy
+*   _Jeet Heer_: CNN Has Been Consistently Biased Against Bernie Sanders
     
-*   _Conrad Black_: Trump's Achievements Are Real--Voters Will Remember
+*   _Frank Bruni_: Warren and Klobuchar Teach the Boys a Lesson
     
-*   _Virginia Heffernan_: Call Trump's Supporters What They Are: A Cult
+*   _Frank Miele_: What Impeachment? Dem Debate Sets Stage for Trump Victory
     
-*   _Salena Zito_: PA Congressional Races Ready for 2020 Bellwether Role
+*   _Steve Israel_: Pelosi and Schumer's Strategy Is Damaging Republicans
     
-*   _Andrew Prokop_: The State of the Dem Race Before This Final Pre-Iowa Debate
+*   _Mollie Hemingway_: 27 Problems With Media's Latest Failed Attack on Barr
     
-*   _Rudy Giuliani_: Trump Exposed Iran's Weakness, for All to See
+*   _Ezra Klein_: The Case for Elizabeth Warren
     
-*   _Javier Solana_: Trump's Iranian Precipice
+*   _Tom Bevan_: Klobuchar's Debate Showing Could Boost Her Iowa Chances
     
-*   _Sharyl Attkisson_: FISA Court's Breathtaking Appointment of David Kris
+*   _Hans Ruhle_: How Obama Let Himself Be Fooled by Iran
     
-*   _Jeffrey Toobin_: Why Dem Candidates Should Talk About Supreme Court
+*   _Samantha Vinograd_: The World Hears Trump's Tone-Deafness on Democracy
     
-*   _Sohrab Ahmari_: The Silly Smear of Bill Barr as an Agent of a 'Catholic Cult'
+*   _Peter Wallison_: How Trump Has Brought Back the Reagan Coalition
     
-*   _Kalev Leetaru_: Data Underscore Brokaw's Assertion of Media Negativity
+*   _Suzanne Moore_: No, Women Don't Feel Guilt After Having an Abortion
     
-*   _Lissandra Villa_: No Clear Frontrunner for Dems Ahead of Iowa Debate
+*   _Libby Emmons_: Why I'm Not Going Back to the Women's March
     
-*   _Grady Means_: Political Earthquake Propelling Trump and Sanders
+*   _Susan Crabtree_: In Iowa Debate, Mild Feuding and No Fireworks
     
-*   _Marc Caputo &. Holly Otterbein_: The Coming Clash Between Bernie &. Biden
+*   _Russell Berman_: Why Sanders Keeps Talking About Biden's Iraq Vote
     
-*   _Steve Hilton_: Trump's Successful Presidency Burying GOP Establishment
+*   _Matthew Yglesias_: Did Biden Win the Debate by Default?
     
-*   _Joel Mathis_: Of Course Warren and Sanders Are Fighting
+*   _Grim_: Sanders's Most Vociferous Debate Opponent Was CNN
     
-*   _Charles Hurt_: Spartacus Drops His Sword
+*   _Andrew Romano_: Is Warren in the Best Position to Unify Democratic Party?
     
-*   _Frederick Joseph_: Joe Biden Doesn't Deserve Black People
+*   _Ronna McDaniel_: Democrats' Doom &. Gloom Can't Match Trump's Results
     
-*   _Eli Lake_: Trump’s Latest Plan for Iran: Regime Disruption
+*   _Dana Milbank_: Suddenly Trump Has Lost Enthusiasm for His Trial
     
-*   _Sam Dagher_: Iran Hasn't Avenged Soleimani's Death Yet
+*   _Charles Lipson_: Impeachment and the Fight Over the Deep State
     
-*   _David Harsanyi_: We Can't Trust the Media to Report Honestly on Iran
+*   _Josh Gerstein_: Michael Flynn Seeking to Withdraw Guilty Plea
     
-*   _Nick Gillespie_: Iran's Theocracy Will Collapse Because of People Like Kimia
+*   _Annette Lin_: Why Climate Denial Survives While Australia Burns
     
-*   _Bhaskar Sunkara_: Sanders Leading in Iowa Is Good News for Democrats
+*   _Edward Ring_: Environmentalists Caused Australia's Fires
     
-*   _Ira Stoll_: Surge by Sanders Could Destroy Trillions in Equity
+*   _Steve Hantler_: Could Missouri's Eric Greitens Make a Political Comeback?
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   In Iowa Debate, Mild Feuding and No Fireworks
+*   Old Friends, Bad Blood: War Simmers Between Sanders, Warren
+*   Trump at Milwaukee Rally: I Don't Believe Sanders Said a Woman Can't Win
 *   Booker's Rhetoric Soared, But His Campaign Sagged
-*   Democratic Debate Allows One More Jab Before Iowa Caucuses
-*   Solomon: Pelosi Will Look Back on Impeaching Trump With Deep Regret
-*   Iran Cracks Down as Protests Over Downing of Airliner Grow
-*   With Pompeo Out, Republicans Face Kansas Senate Race Headache
+*   Data Underscore Brokaw's Assertion of Media Negativity
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -253,60 +253,52 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
-*   Nevada Democratic Presidential CaucusUSA Today/Suffolk
-    *   Biden19
-    *   Sanders18
-    *   Warren11
-    *   Buttigieg8
-    *   Steyer8
-    *   Yang4
-    *   Klobuchar4
-    *   Booker2
-    *   Gabbard1
-    *   BloombergBiden +1
-*   North Carolina Democratic Presidential PrimaryPPP (D)
-    *   Biden31
-    *   Sanders18
-    *   Warren15
-    *   Bloomberg8
-    *   Buttigieg6
-    *   Yang5
-    *   Steyer3
+*   2020 Democratic Presidential NominationEconomist/YouGov
+    *   Biden27
+    *   Sanders20
+    *   Warren19
+    *   Buttigieg7
+    *   Bloomberg5
+    *   Yang3
     *   Klobuchar3
-    *   Booker1
-    *   GabbardBiden +13
-*   2020 Democratic Presidential NominationThe Hill/HarrisX
-    *   Biden29
-    *   Sanders19
-    *   Warren11
-    *   Buttigieg4
-    *   Bloomberg7
-    *   Yang2
-    *   Klobuchar3
-    *   Steyer3
-    *   Gabbard
-    *   Booker
-    *   Bennet2Biden +10
-*   2020 Democratic Presidential NominationMorning Consult
-    *   Biden29
-    *   Sanders23
-    *   Warren14
-    *   Buttigieg8
-    *   Bloomberg8
-    *   Yang5
-    *   Klobuchar3
-    *   Steyer4
+    *   Steyer1
     *   Gabbard2
     *   Booker2
-    *   Bennet1Biden +6
+    *   Bennet0Biden +7
+*   Florida Democratic Presidential PrimaryFlorida Atlantic University
+    *   Biden42
+    *   Sanders16
+    *   Warren10
+    *   Bloomberg7
+    *   Klobuchar6
+    *   Buttigieg3
+    *   Yang5
+    *   Booker3
+    *   Gabbard1
+    *   Steyer2
+    *   Bennet1
+    *   Delaney1Biden +26
+*   Wisconsin Democratic PrimaryMarquette
+    *   Biden23
+    *   Sanders19
+    *   Warren14
+    *   Buttigieg15
+    *   Bloomberg6
+    *   Yang6
+    *   Klobuchar4
+    *   Steyer1
+    *   Gabbard1Biden +4
+*   Wisconsin: Trump vs. BidenMarquette
+    *   Biden49
+    *   Trump45Biden +4
 
 More Latest Polls In The News
 
-*   Van Jones on Debate: "There Was Nothing I Saw Tonight That Would Be Able To Take Donald Trump Out"
-*   Sanders: "I Didn't Say" A Woman Can't Win 2020 Election To Elizabeth Warren, This Is What The Media Wants
-*   Warren: "I Disagreed" With Bernie When He Told Me A Woman Can't Win, I've Won Every Single Election
-*   Sanders Campaign Organizer: Free Education, Gulags Needed To "Re-Educate" You Not To Be A "F\*cking Nazi"
-*   McCarthy: Pelosi Withheld Impeachment Articles To Help Biden's 2020 Campaign Keep Sanders "At Bay"
+*   Kasparian: Why Would Bernie Go Out Of His Way To Say A Woman Couldn't Win? "It Doesn't Make Any Sense"
+*   Michael Moore On Sanders/Warren Sexism Feud: Mark January 13 As "The Day Trump Was Re-Elected"
+*   Sanders Field Org: "If You Can't Handle Me At My Most Communist, You Don't Deserve Me At My Most Anarchist"
+*   Scarborough: "No One Looked Good On The Debate Stage Last Night," Dems "Not Ready For Primetime"
+*   Van Jones: CNN Debate "Dispiriting," Nothing I Saw "That Would Be Able To Take Donald Trump Out"
 
 *   Politics
 *   Policy
