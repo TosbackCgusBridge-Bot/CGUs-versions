@@ -13,9 +13,9 @@ Menu
     Go to this section
     *   Main menu
     *   Who we are
-    *   Our businesses
+    *   Our businesses and customers
         *   Back
-        *   Our businesses
+        *   Our businesses and customers
         *   Overview
         *   Commercial Banking
         *   Global Banking and Markets
@@ -34,7 +34,7 @@ Menu
         *   Our brand
         *   Overview
         *   Sponsorship
-    *   Contact usOUR BUSINESSES We serve more than 40 million customers Close Navigation
+    *   Contact usOUR BUSINESSES AND CUSTOMERS We serve more than 40 million customers Close Navigation
 *   Our approach Skip to Investors Our approach
     
     At HSBC, how we do business is as important as  
