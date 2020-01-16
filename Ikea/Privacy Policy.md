@@ -8,7 +8,7 @@
 
 Menu IKEA
 
-*   Winter Sale
+*   Offers
 *   Products Products Products
     
     *   Furniture
@@ -269,8 +269,6 @@ Menu IKEA
     *   $10 and under
     
     Seasonal
-    *   Holiday Gift Guide
-        
     *   Winter Holidays
         
     *   Collections
@@ -284,7 +282,8 @@ Menu IKEA
     *   Kitchen &. appliances
     *   Home office
     *   Bathroom
-    *   Baby &. kids room
+    *   Baby room
+    *   Kids room
     *   Dining
     *   Hallway
     *   Laundry
@@ -300,7 +299,6 @@ Menu IKEA
     *   $10 and under
 *   Seasonal Seasonal
     *   Seasonal
-    *   Holiday Gift Guide
     *   Winter Holidays
     *   Collections
     *   Back to College
@@ -379,7 +377,7 @@ Go back to the IKEA homepage
 *   Twitter
 *   YouTube
 
-© Inter IKEA Systems B.V. 1999-2019
+© Inter IKEA Systems B.V. 1999-2020
 
 The IKEA website uses cookies, which make the site simpler to use. Find out more about browser cookies.
 
