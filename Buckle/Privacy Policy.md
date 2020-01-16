@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Double up on savings! Get an extra 33% off, or 50% off!
+Up to 50% off select denim! Shop Now
 
 *   Women
 *   Men
@@ -13,18 +13,9 @@ Double up on savings! Get an extra 33% off, or 50% off!
 *   Shoes
 *   Sale
 
-*   SearchSearchSubmit
-*   MY ACCOUNTHello, guest.
-    
-    *   Log In
-    |*   Register
-    
-    Guest Loyalty Rewards
-    
-    Join now to start earning!
-*   MY FAVORITESLogin to save favorite items to your Buckle account.
-    *   Login
-    |*   Register
+*   Search
+*   MY ACCOUNT
+*   MY FAVORITES
 *   MY BAG
 
 *   Women
@@ -343,7 +334,31 @@ Double up on savings! Get an extra 33% off, or 50% off!
         *   Men’s Factory Seconds
         *   Shop All Factory SecondsGive a Buckle Gift card
 
-SearchSubmitPrivacy Policy
+SearchSubmitTerms &. Conditions
+
+*   Privacy Policy
+*   Privacy Policy - Applicants
+*   Privacy Policy - California
+*   Terms of Use
+*   Fraud Alerts
+*   Buckle Affiliate Network
+*   Music/Celebrity Sponsorship Requests
+*   Social Giveaway Official Rules
+*   Accessibility Policy
+*   Buckle Select Terms &. Conditions
+
+Services
+
+*   Ship To Store
+*   Mobile App
+*   Guest Loyalty
+*   Personal Shopping
+*   Military Discount
+*   Gift Services
+*   Gift Card Donation Requests
+*   All Services
+
+Privacy Policy
 
 Buckle cares about the privacy of our guests. Our goal is to provide the best shopping experience possible for you, and we strive to achieve that goal through our various shopping channels, including in-store, online, mobile and via telephone. This Privacy &. Security Policy (“Policy”) describes the information we collect about you and what we do with it. By visiting a store or buckle.com, downloading Buckle’s mobile application or calling Guest Services, you are accepting the practices described in this Policy.
 
@@ -431,30 +446,6 @@ Please note that requests may require verification of identity and authenticity.
 
 This Privacy &. Security Policy supersedes all prior policies and is effective January 1, 2020.
 
-Terms &. Conditions
-
-*   Privacy Policy
-*   Privacy Policy - Applicants
-*   Privacy Policy - California
-*   Terms of Use
-*   Fraud Alerts
-*   Buckle Affiliate Network
-*   Music/Celebrity Sponsorship Requests
-*   Social Giveaway Official Rules
-*   Accessibility Policy
-*   Buckle Select Terms &. Conditions
-
-Services
-
-*   Ship To Store
-*   Mobile App
-*   Guest Loyalty
-*   Personal Shopping
-*   Military Discount
-*   Gift Services
-*   Gift Card Donation Requests
-*   All Services
-
 Contact UsGuest Services:
 
 Phone: 800.607.9788  
@@ -477,7 +468,7 @@ The Buckle, Inc.
 Kearney, NE 68845  
 Phone: 800.626.1255
 
-Receive The Latest From BucklePlease enter your email address. The input is not a valid email address. GIFT CARD
+Receive The Latest From BuckleSUBMIT GIFT CARD
 
 *   Buy Now
 *   Check Balance
@@ -556,12 +547,12 @@ STAY CONNECTED
 
 RESERVE IN STORE
 
-1.  © 2020 Buckle Inc.
-2.  Terms
-3.  Privacy Policy
-4.  Do Not Sell My Personal Information
-5.  Transparency In Supply Chains
-6.  Accessibility
+*   © 2020 Buckle Inc.
+*   Terms
+*   Privacy Policy
+*   Do Not Sell My Personal Information
+*   Transparency In Supply Chains
+*   Accessibility
 
 Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries. Google Play and the Google Play logo are trademarks of Google LLC.Bag Size ExceededClose Cart Threshold Modal×
 
@@ -571,4 +562,4 @@ Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. Favorite Product Quick ShopClose Quick Shop×
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">.
