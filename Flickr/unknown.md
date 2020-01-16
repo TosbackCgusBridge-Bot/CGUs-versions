@@ -353,7 +353,7 @@ You authorize SmugMug to collect, use, disclose and otherwise process informatio
 
 Address of Designated Agent
 
-ATTN: Ivan Makarov
+ATTN: Copyright Agent
 
 Flickr, Inc.
 
@@ -365,7 +365,7 @@ Mountain View, CA 94041, USA
 
 Email Address of Designated Agent: dmca@flickr.com
 
-Phone Number of Designated Agent: 650-265-0396
+Phone Number of Designated Agent: 833-522-8820
 
 *   About
 *   Jobs
