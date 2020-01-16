@@ -29,7 +29,7 @@ Close MENU **IS**
 
 **ES HYBRID**
 
-*   Starting at $41,7601\*
+*   Starting at $41,8101\*
 *   44-MPG combined rating2\*
 
 *   Build
@@ -61,7 +61,7 @@ Close MENU **IS**
 
 **LS HYBRID**
 
-*   Starting at $79,9601\*
+*   Starting at $80,0101\*
 *   354 TOTAL SYSTEM HP3\*
 
 *   BUILD
@@ -111,7 +111,7 @@ COMPARE **UX**
 
 **RX HYBRID**
 
-*   Starting at $46,7501\*
+*   Starting at $46,8001\*
 *   30-MPG COMBINED RATING10\*
 
 *   Build
@@ -127,7 +127,7 @@ COMPARE **UX**
 
 **LX**
 
-*   Starting at $86,38011\*
+*   Starting at $86,48011\*
 *   383-HP3\* V8, FULL-TIME 4WD
 
 *   Build
@@ -161,7 +161,7 @@ COMPARE **RC**
 
 **LC HYBRID**
 
-*   Starting at $97,4601\*
+*   Starting at $97,5101\*
 *   354 TOTAL SYSTEM HP3\*
 
 *   Build
@@ -187,7 +187,7 @@ COMPARE **UX HYBRID**
 
 **RX HYBRID**
 
-*   Starting at $46,7501\*
+*   Starting at $46,8001\*
 *   30-MPG COMBINED RATING10\*
 
 *   Build
@@ -195,7 +195,7 @@ COMPARE **UX HYBRID**
 
 **ES HYBRID**
 
-*   Starting at $41,7601\*
+*   Starting at $41,8101\*
 *   44-MPG COMBINED RATING2\*
 
 *   Build
@@ -203,7 +203,7 @@ COMPARE **UX HYBRID**
 
 **LS HYBRID**
 
-*   Starting at $79,9601\*
+*   Starting at $80,0101\*
 *   354 TOTAL SYSTEM HP3\*
 
 *   BUILD
@@ -211,7 +211,7 @@ COMPARE **UX HYBRID**
 
 **LC HYBRID**
 
-*   Starting at $97,4601\*
+*   Starting at $97,5101\*
 *   354 TOTAL SYSTEM HP3\*
 
 *   Build
@@ -245,7 +245,7 @@ COMPARE **RC F**
 
 **LC HYBRID**
 
-*   Starting at $97,4601\*
+*   Starting at $97,5101\*
 *   354 TOTAL SYSTEM HP3\*
 
 *   Build
