@@ -29,6 +29,7 @@ Search  Opens a dialog.
     *   Transfer and Pay
     *   Mobile Features
     *   Control TowerSM
+    *   ATM Banking
     
     Your Financial Goals
     
@@ -116,9 +117,8 @@ Search  Opens a dialog.
     
     *   Wealth Planning
     *   Private Banking
-    *   Investment Management
-    *   Specialized Wealth Services
-    *   Trust Services
+    *   Investment and Asset Management
+    *   Trust and Fiduciary Services
     
     Wealth Advice &. Guidance
     
@@ -167,7 +167,6 @@ Wells Fargo Digital Privacy and Cookies Policy
 Share this page
 
 *   LinkedInclick on this link to share this page in linkedin
-*   Google+click on this link to share this page in GooglePlus
 *   Emailclick on this link to share this page via email
 
 Choose a link above. We provide these links to external websites for your convenience. Wells Fargo does not endorse and is not responsible for their content, links, privacy policies, or security policies.
