@@ -1,7 +1,6 @@
 *   Gift Baskets
     
-    View All Categories Shop by Category*   Meat &. Cheese
-    *   Wine Gift Baskets
+    View All Categories Shop by Category*   Wine Gift Baskets
     *   Fruit Baskets
     *   Sweet &. Savory Gifts
     *   Gift Boxes
@@ -92,8 +91,7 @@
 
 *   Gift Baskets
     
-    View All Categories Shop by Category*   Meat &. Cheese
-    *   Wine Gift Baskets
+    View All Categories Shop by Category*   Wine Gift Baskets
     *   Fruit Baskets
     *   Sweet &. Savory Gifts
     *   Gift Boxes
