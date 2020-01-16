@@ -65,13 +65,13 @@ Close submenu ( Collections ) Collections
 *   Best Sellers
 *   Jeans Guide
 *   Online Only
-*   Hygge Shop
 *   Tribe Of Tees
 *   Basic Essentials
 *   Seriously Soft
 *   Active
 *   Lounge
 *   Uniform
+*   Hygge Shop
 
 Close submenu ( Guys ) Guys
 
@@ -116,12 +116,12 @@ Close submenu ( Collections ) Collections
 *   Best Sellers
 *   Jeans Guide
 *   Online Only
-*   Hygge Shop
 *   Back to Basics
 *   Music + Pop Culture
 *   Active
 *   Lounge
 *   Uniform
+*   Hygge Shop
 
 Close submenu ( Jeans ) Jeans
 
@@ -196,7 +196,7 @@ Close submenu ( Girls ) Girls
 *   Just In
 *   Best Sellers
 *   Online Only
-*   Valentine's Day Shop
+*   #HeartsAndAero
 *   Destroyed Denim
 *   Music + Pop Culture
 *   Aero One
@@ -293,13 +293,13 @@ Menu Find a Store Aeropostale
         *   Best Sellers
         *   Jeans Guide
         *   Online Only
-        *   Hygge Shop
         *   Tribe Of Tees
         *   Basic Essentials
         *   Seriously Soft
         *   Active
         *   Lounge
         *   Uniform
+        *   Hygge Shop
     
     *   View Home
     *   Tops
@@ -361,12 +361,12 @@ Menu Find a Store Aeropostale
         *   Best Sellers
         *   Jeans Guide
         *   Online Only
-        *   Hygge Shop
         *   Back to Basics
         *   Music + Pop Culture
         *   Active
         *   Lounge
         *   Uniform
+        *   Hygge Shop
     
     *   View Home
     *   Tops
@@ -453,7 +453,7 @@ Menu Find a Store Aeropostale
         *   Just In
         *   Best Sellers
         *   Online Only
-        *   Valentine's Day Shop
+        *   #HeartsAndAero
         *   Destroyed Denim
         *   Music + Pop Culture
         *   Aero One
@@ -554,11 +554,11 @@ Details
 
 Shop Girls Clearance Shop Guys Clearance AERO SWEATERS
 
-The softest styles, the most comfortable crops. Stock up on these sewaters before they're sold out.
+The softest styles, the most comfortable crops. Stock up on these sweaters before they're sold out.
 
 Shop Sweaters AERO SWEATERS
 
-The softest styles, the most comfortable crops. Stock up on these sewaters before they're sold out.
+The softest styles, the most comfortable crops. Stock up on these sweaters before they're sold out.
 
 Shop Sweaters
 
