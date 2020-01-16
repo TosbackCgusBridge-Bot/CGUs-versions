@@ -83,6 +83,12 @@ Open
 
 We want to learn what is relevant to you and ensure you have a personalized experience. As described in more detail in our Global Privacy Statement, we use digital tools like cookies and tags on our webpages. Cookies also help us provide, protect and improve our services. To adjust your preferences, please visit our Tracking Preferences page.
 
+Communication Preferences
+
+Open
+
+We want to engage with you in a way that is valuable to you, including how often you want to hear from us. To set your preferences, please sign in to your loyalty account profile and select Communication Preferences. To unsubscribe, use the link at the bottom of any of our communications to you. NOTE: Even if you choose to opt out of communications, we will continue to send you transactional messages about your reservations or stays, including pre-arrival, confirmation and guest satisfaction surveys.
+
 Data Sharing Preferences
 
 Open
@@ -451,7 +457,7 @@ You also can:
 *   Contact our data protection officer responsible for your country or region via MarriottDPO@marriott.com. In your email, please indicate the country from which you are contacting us
 *   Lodge a complaint with a data protection authority for your country or region or where an alleged infringement of applicable data protection laws occurs at http://ec.europa.eu/newsroom/article29/item-detail.cfm?item\_id=612080.
 
-Related Links Privacy Shield Guest Privacy Policy Terms of Use for United States and Canada SMS Messaging Terms of Use Top Destinations
+Related Links Privacy Shield Guest Privacy Policy Terms of Use for United States and Canada SMS Messaging Terms of Use Digital Entry Terms of Use Top Destinations
 
 *   Anaheim Hotels
 *   Atlanta Hotels
@@ -512,4 +518,4 @@ Loading...
 
 Tracking Preferences Terms of Use Program Terms &. Conditions Privacy Center Do Not Sell My Personal Information Digital Accessibility Site Map Help*   Loading...
     
-prod9,1F87C525-C9F9-5EC1-AB8F-FBF8C0FC4B24
+prod9,17BF0073-8EE1-5B0A-82DA-C1DC220F4B21
