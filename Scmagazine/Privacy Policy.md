@@ -213,23 +213,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Mimecast acquires Segasec
-    *   Army joins Navy in banning TikTok
-    *   Russia's Fancy Bear successfully hacked Burisma during impeachment probe
-    *   DHS finds no tampering of Durham County election devices
+    *   No immediate cyberthreat seen over Soleimani killing, but preparation is key
     *   Google app vulnerability being exploited in the wild: Trend Micro
-    
-    *   Adobe rolls out a light Patch Tuesday offering
-    *   Microsoft helps shutter domains run by North Korean cybergang Thallium
-    *   Cable Haunt RCE vulnerability exposes millions of modems to exploitation
-    *   Travelex sidelines online financial services following malware discovery
-    *   Attackers sink their meathooks into Landry's restaurants' payment card data
-    
-    *   Russia's Fancy Bear successfully hacked Burisma during impeachment probe
+    *   Cisco patches multiple vulnerabilities
+    *   New Magecart skimmers practice steganography, data transfer via WebSocket
     *   Microsoft phases out Windows 7 support, now what?
-    *   Barr pushes Apple for additional help unlocking Pensacola gunman's iPhone
-    *   Cable Haunt RCE vulnerability exposes millions of modems to exploitation
-    *   Texas school district phished for $2.3 million
+    
+    *   Ransomware hits, but doesn’t stop, the Pittsburgh Unified School District
+    *   Travelex sidelines online financial services following malware discovery
+    *   Mozilla patches exploited zero-day flaw in Firefox
+    *   Google reportedly suspends integrations with Xiaomi smart camera due to software bug
+    *   Microsoft phases out Windows 7 support, now what?
+    
+    *   APT40 hacking group linked to 13 alleged front companies in Hainan, China
+    *   Intel patches six security issues
+    *   Adobe rolls out a light Patch Tuesday offering
+    *   NSA reveals to Microsoft critical Windows 10 flaw
+    *   Nemty ransomware makers may be latest to adopt data leak strategy
 
 Back to Top
 
@@ -260,8 +260,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">.
-
-Advertisement. Closing in 15 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
