@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksIs There Really a Cork Crisis?1STWhy Is the Tropic of Capricorn Important?2NDBalut Is the Asian Street Food You Gotta Eat to Believe3RDIs Holland the Same as the Netherlands?4THHearTech Labs | SponsoredForget Prescription Hearing Aids Use This InsteadHearTech Labs | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredSoGoodly | SponsoredThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly | SponsoredYahoo Search | SponsoredThe Early Signs Of Type 2 Diabetes - Research Type 2 Diabetes TreatmentsYahoo Search | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksIt Took a Court to Decide Whether Pringles Are Potato Chips1STLapland Is the Land of Eight Seasons2NDBrace Yourself: Bananas Are Berries, Strawberries Aren't3RDBengal Cats Are Mini Leopard Hybrid Housecats4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredSoGoodly | SponsoredThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly | SponsoredKelley Blue Book | Sponsored10 Most Fuel Efficient SUVsKelley Blue Book | SponsoredPetlab Co. | SponsoredIf Your Dog Suffers From Bad Joints, Try This Simple TipPetlab Co. | Sponsored
 
 Advertisement
 
-science - engineeringHow Artificial Intelligence Is Totally Changing EverythingBY Patrick J. Kigermoney - personal financeCan You Take Out Life Insurance on Just Anyone?BY Dave Rooslifestyle - foodBrace Yourself: Bananas Are Berries, Strawberries Aren'tBY Michelle KonstantinovskyThedelite | SponsoredBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite | SponsoredAuto Overload | Sponsored20 Photos Captured At Airports That Will Make You Laugh Out LoudAuto Overload | Sponsored
+auto - car modelsCould Electric Motor Conversions Save Classic Cars?BY Cherise Threewittscience - engineeringHow Artificial Intelligence Is Totally Changing EverythingBY Patrick J. Kigerculture - peopleDeaf, Blind and Determined: How Helen Keller Learned to CommunicateBY John Donovansafari vacations | SponsoredAffordable African Safari Vacations That Are Simply Astonishing! Search For Luxury African Safari Vacation Packagessafari vacations | SponsoredHearTech Labs | SponsoredForget Prescription Hearing Aids Use This InsteadHearTech Labs | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksCould an 'X17 Particle' Hint at a Fifth Force in the Universe?What's the Difference Between an Avenue, a Road and a Boulevard?9 Little-known Nuggets About Honest AbeIt Took a Court to Decide Whether Pringles Are Potato ChipsCheetahs: The Big Cats That Can Totally Pass You on the InterstateIs Dry January a Recipe for February Binge?by Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksThe Story of Eric Rudolph, the Real 1996 Olympic Park BomberHow Morse Code Works and Still Lives On in the Digital AgeBalut Is the Asian Street Food You Gotta Eat to BelieveThe Smiley Quokka Is an Australian Super SurvivorWhat's the Difference Between Baking Soda and Baking Powder?What's the Difference Between an Avenue, a Road and a Boulevard?by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2020 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Is There Really a Cork Crisis?Read Next StoryHearTech LabsForget Prescription Hearing Aids Use This InsteadHearTech Labs|SponsoredSponsoredRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. It Took a Court to Decide Whether Pringles Are Potato ChipsRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StorySoGoodlyThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly|SponsoredSponsoredRead Next Story
