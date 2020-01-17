@@ -15,7 +15,7 @@
         *   Encryption
         *   Internet Way of Networking
         *   MANRS
-        *   Open Standards and Protocols
+        *   Open Standards Everywhere
         *   Time Security
 *   What you can do
     *   Take Action
