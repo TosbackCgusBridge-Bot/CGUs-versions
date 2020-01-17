@@ -88,7 +88,7 @@ Save SettingsAllow All
     *   3-Year CD rates
     *   5-Year CD rates
     *   Checking accounts
-    *   Bank ratings
+    *   Best Banks
     
     Use Calculators
     
