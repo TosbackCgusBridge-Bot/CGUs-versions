@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Jeet Heer_: CNN Has Been Consistently Biased Against Bernie Sanders
+*   _Christopher Bedford_: The Cult of Pelosi Is a Deadly Thing for Dems' Future
     
-*   _Frank Bruni_: Warren and Klobuchar Teach the Boys a Lesson
+*   _Francis Wilkinson_: Why Trump's Trial Makes Senate Republicans Squirm
     
-*   _Frank Miele_: What Impeachment? Dem Debate Sets Stage for Trump Victory
+*   _Paul Callan_: Democrats' Latest Document Dump Is a Sign of Weakness
     
-*   _Steve Israel_: Pelosi and Schumer's Strategy Is Damaging Republicans
+*   _Mohamed El-Erian_: Is Trump's Iran Strategy Working?
     
-*   _Mollie Hemingway_: 27 Problems With Media's Latest Failed Attack on Barr
+*   _John Cassidy_: The Uneasy Truce of Trump's Trade Deal With China
     
-*   _Ezra Klein_: The Case for Elizabeth Warren
+*   _Andy Puzder_: China Surrenders to Reality in the Trade Dispute
     
-*   _Tom Bevan_: Klobuchar's Debate Showing Could Boost Her Iowa Chances
+*   _James Oliphant_: Sanders-Warren Flap Makes a Debate Winner Out of Biden
     
-*   _Hans Ruhle_: How Obama Let Himself Be Fooled by Iran
+*   _Matt Taibbi_: CNN's Debate Performance Was Villainous and Shameful
     
-*   _Samantha Vinograd_: The World Hears Trump's Tone-Deafness on Democracy
+*   _Ellen Troxclair_: No, the Conservative Woman's Future Is Not Bleak
     
-*   _Peter Wallison_: How Trump Has Brought Back the Reagan Coalition
+*   _Abrams &. Holder_: Republicans Build Barriers to Voting for People of Color
     
-*   _Suzanne Moore_: No, Women Don't Feel Guilt After Having an Abortion
+*   _Christian Paz_: Trump's Outreach to Latinos Could Be Trouble for Dems
     
-*   _Libby Emmons_: Why I'm Not Going Back to the Women's March
+*   _Errol Louis_: Dems Need to Talk About What Change Is Possible
     
-*   _Susan Crabtree_: In Iowa Debate, Mild Feuding and No Fireworks
+*   _Steve Cortes_: Tuesday's Stark Midwest Contrast of Trump &. Dems
     
-*   _Russell Berman_: Why Sanders Keeps Talking About Biden's Iraq Vote
+*   _Benjamin Wallace-Wells_: Can Elizabeth Warren Unify Democrats?
     
-*   _Matthew Yglesias_: Did Biden Win the Debate by Default?
+*   _Tucker Carlson_: Forget Warren, It's Down to Biden or Sanders
     
-*   _Grim_: Sanders's Most Vociferous Debate Opponent Was CNN
+*   _Joe Lockhart_: Bernie Sanders Isn't Facing Enough Scrutiny
     
-*   _Andrew Romano_: Is Warren in the Best Position to Unify Democratic Party?
+*   _David Catron_: Sanders Supporters Shocked to Find Bias at CNN
     
-*   _Ronna McDaniel_: Democrats' Doom &. Gloom Can't Match Trump's Results
+*   _Dahlia Lithwick_: How Will the Senate Get Away With Its Sham Trial Now?
     
-*   _Dana Milbank_: Suddenly Trump Has Lost Enthusiasm for His Trial
+*   _Jenny Beth Martin_: Impeachment a Sham, From Start to Finish
     
-*   _Charles Lipson_: Impeachment and the Fight Over the Deep State
+*   _Froma Harrop_: Democrats Should Put an End to Caucuses
     
-*   _Josh Gerstein_: Michael Flynn Seeking to Withdraw Guilty Plea
+*   _Bernard Goldberg_: Dems' 'Blame America First' Ballad Won't Play Well in 2020
     
-*   _Annette Lin_: Why Climate Denial Survives While Australia Burns
+*   _Terry Glavin_: Wake Up, West: There's a Revolution Going on in Mideast
     
-*   _Edward Ring_: Environmentalists Caused Australia's Fires
+*   _Angelo Codevilla_: Iran, America &. the Incompetent Ruling Class
     
-*   _Steve Hantler_: Could Missouri's Eric Greitens Make a Political Comeback?
+*   _Scott Rosenberg_: Putin Won the Fight to Undermine Trust in U.S. Elections
     
 
 *   Previous
@@ -235,10 +235,10 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Emphasis on U.S. Exports, Trade Secrets in China Trade Deal
 *   In Iowa Debate, Mild Feuding and No Fireworks
+*   Jones: Nothing I Saw at Dems' Debate Could Take Trump Out
 *   Old Friends, Bad Blood: War Simmers Between Sanders, Warren
-*   Trump at Milwaukee Rally: I Don't Believe Sanders Said a Woman Can't Win
-*   Booker's Rhetoric Soared, But His Campaign Sagged
 *   Data Underscore Brokaw's Assertion of Media Negativity
 *   Presidential Job Approval
 *   Cartoons of the Week
@@ -253,6 +253,20 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
+*   New Hampshire Democratic Presidential PrimaryWHDH/Emerson
+    *   Sanders23
+    *   Biden14
+    *   Warren14
+    *   Buttigieg18
+    *   Klobuchar10
+    *   Gabbard5
+    *   Yang6
+    *   Steyer4
+    *   Booker
+    *   Bennet0Sanders +5
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve51
+    *   Disapprove47Approve +4
 *   2020 Democratic Presidential NominationEconomist/YouGov
     *   Biden27
     *   Sanders20
@@ -278,27 +292,14 @@ Latest PollsAll Polls
     *   Steyer2
     *   Bennet1
     *   Delaney1Biden +26
-*   Wisconsin Democratic PrimaryMarquette
-    *   Biden23
-    *   Sanders19
-    *   Warren14
-    *   Buttigieg15
-    *   Bloomberg6
-    *   Yang6
-    *   Klobuchar4
-    *   Steyer1
-    *   Gabbard1Biden +4
-*   Wisconsin: Trump vs. BidenMarquette
-    *   Biden49
-    *   Trump45Biden +4
 
 More Latest Polls In The News
 
-*   Kasparian: Why Would Bernie Go Out Of His Way To Say A Woman Couldn't Win? "It Doesn't Make Any Sense"
-*   Michael Moore On Sanders/Warren Sexism Feud: Mark January 13 As "The Day Trump Was Re-Elected"
-*   Sanders Field Org: "If You Can't Handle Me At My Most Communist, You Don't Deserve Me At My Most Anarchist"
-*   Scarborough: "No One Looked Good On The Debate Stage Last Night," Dems "Not Ready For Primetime"
-*   Van Jones: CNN Debate "Dispiriting," Nothing I Saw "That Would Be Able To Take Donald Trump Out"
+*   Mark Levin to Republican "Weak Links": Your Job Is To Stop Democrats, Not Aid And Abet Them With Witnesses
+*   Pelosi: Dems Have "Infallible" Case For Impeachment, "Any Further Evidence Should Not Be Avoided"
+*   Kasparian: Bernie Supported Women In Positions Of Power When It Wasn't Popular, Warren Story Makes No Sense
+*   Michael Moore On Sanders-Warren Sexism Feud: Mark January 13 As "The Day Trump Was Re-Elected"
+*   Sanders-Warren Post-Debate Conversation Picked Up By Mic: "You Called Me A Liar On National TV"
 
 *   Politics
 *   Policy
