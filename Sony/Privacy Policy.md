@@ -124,7 +124,7 @@ Play video: Sleek Design With More Color &. Contrast Close video: Sleek Design W
 
 New PlayStation games coming this week:  https://play.st/2shaZ0i  Dragon Ball Z: Kakarot, The Atelier Dusk trilogy, and more pic.twitter.com/UMjrEjSnGW
 
-3 days ago View Tweet Instagram Post B7Q6ZBeAihc
+4 days ago View Tweet Instagram Post B7Q6ZBeAihc
 
 *   Share on Facebook: https://direct.playstation.com/en-us
 *   Share on Twitter: https://direct.playstation.com/en-us
@@ -270,7 +270,6 @@ Other Sites
 *   Sony Pictures
 *   Sony Music
 *   Sony Mobile
-*   Sony Crackle
 *   Sony Square NYC
 
 United States
@@ -291,6 +290,6 @@ View on Instagram
 
 Follow us on Tumblr
 
-Visit us on TumblrFacebookTwitterInstagramTumblr© 2019 SONY CORPORATION OF AMERICA
+Visit us on TumblrFacebookTwitterInstagramTumblr© 2020 SONY CORPORATION OF AMERICA
 
 Terms and ConditionsPRIVACY POLICYCA PRIVACY NOTICEDO NOT SELL MY PERSONAL INFORMATION
