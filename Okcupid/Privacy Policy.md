@@ -401,7 +401,7 @@ You need to complete your basic info on the mobile app before you can use the de
 *   Support
 *   Blog
 *   Tech Blog
-*   Atlanta Dating
+*   Jewish Singles
 *   Privacy Policy
 *   Cookie Policy
 *   Terms and Conditions
