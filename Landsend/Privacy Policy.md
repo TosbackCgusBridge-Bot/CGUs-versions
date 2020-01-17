@@ -28,9 +28,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive 30% off your order. free shipping, no minimum!
+Receive 50% off any 1 item!
 
-code: ICEBERG pin: PROMOTION DETAILS
+code: COAT pin: PROMOTION DETAILS
 
 Customer Service Menu
 
