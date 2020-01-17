@@ -2,7 +2,7 @@
 
 *   Seeking Alpha
 
-Sign inMarketplaceSubscribe
+Sign inSubscribe
 
 *   My Portfolio
 *   Authors
@@ -90,6 +90,31 @@ Sign inMarketplaceSubscribe
     *   Marketplace Roundtable
     *   Investing Edge
     *   Alpha Trader
+*   Marketplace
+    
+    *   What’s New
+    *   Most Popular
+    *   Arbitrage
+    *   Bonds
+    *   Cannabis
+    *   Dividend Stocks
+    *   Earnings
+    
+    *   ETFs
+    *   Global
+    *   Gold
+    *   High Yield
+    *   Income
+    *   IPOs
+    *   M&A
+    
+    *   Microcaps
+    *   Short Ideas
+    *   REITs
+    *   Smallcaps
+    *   Tech
+    *   Value
+    *   Full Marketplace Directory
 
 Help &. Support
 
