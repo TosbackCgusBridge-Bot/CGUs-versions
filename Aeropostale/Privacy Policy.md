@@ -18,10 +18,8 @@ Effective as of January 1, 2020, we have made changes to our Privacy Policy. By 
 Close submenu ( Girls ) Girls
 
 *   View Home
-*   Open submenu ( Tops ) Tops
-
-*   Open submenu ( Bottoms ) Bottoms
-
+*   Tops
+*   Bottoms
 *   Jackets + Coats
 *   Dresses
 *   Accessories
@@ -32,31 +30,6 @@ Close submenu ( Girls ) Girls
 *   Clearance
 
 *   Open submenu ( Collections ) Collections
-
-Close submenu ( Tops ) Tops
-
-*   View All
-*   Tees
-*   Graphic Tees
-*   Polos
-*   Hoodies + Sweatshirts
-*   Long Sleeve
-*   Shirts + Blouses
-*   Sweaters
-*   Camis
-*   Tanks
-*   Active Tops
-
-Close submenu ( Bottoms ) Bottoms
-
-*   View All
-*   Jeans
-*   Jeggings
-*   Joggers
-*   Leggings + Active
-*   Pants
-*   Shorts
-*   Skirts
 
 Close submenu ( Collections ) Collections
 
@@ -71,15 +44,12 @@ Close submenu ( Collections ) Collections
 *   Active
 *   Lounge
 *   Uniform
-*   Hygge Shop
 
 Close submenu ( Guys ) Guys
 
 *   View Home
-*   Open submenu ( Tops ) Tops
-
-*   Open submenu ( Bottoms ) Bottoms
-
+*   Tops
+*   Bottoms
 *   Jackets + Coats
 *   Accessories
 *   Underwear
@@ -88,25 +58,6 @@ Close submenu ( Guys ) Guys
 *   Clearance
 
 *   Open submenu ( Collections ) Collections
-
-Close submenu ( Tops ) Tops
-
-*   View All
-*   Tees
-*   Graphic Tees
-*   Polos
-*   Hoodies + Sweatshirts
-*   Long Sleeve
-*   Shirts
-
-Close submenu ( Bottoms ) Bottoms
-
-*   View All
-*   Jeans
-*   Pants
-*   Joggers + Sweats
-*   Sleep
-*   Shorts
 
 Close submenu ( Collections ) Collections
 
@@ -121,7 +72,6 @@ Close submenu ( Collections ) Collections
 *   Active
 *   Lounge
 *   Uniform
-*   Hygge Shop
 
 Close submenu ( Jeans ) Jeans
 
@@ -244,7 +194,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Buy 1 Get 1 Free Jeans** ** GIRLS GUYS + FS Over $50/Jeans Orders**
+**Extra 30% Off Clearance** Use Code **EXTRA30**
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -255,29 +205,7 @@ Menu Find a Store Aeropostale
     
     *   View Home
     *   Tops
-        *   View All
-        *   Tees
-        *   Graphic Tees
-        *   Polos
-        *   Hoodies + Sweatshirts
-        *   Long Sleeve
-        *   Shirts + Blouses
-        *   Sweaters
-        *   Camis
-        *   Tanks
-        *   Active Tops
-    
     *   Bottoms
-        *   View All
-        *   Jeans
-        *   Jeggings
-        *   Joggers
-        *   Leggings + Active
-        *   Pants
-        *   Shorts
-        *   Skirts
-        
-    
     *   Jackets + Coats
     *   Dresses
     *   Accessories
@@ -299,54 +227,12 @@ Menu Find a Store Aeropostale
         *   Active
         *   Lounge
         *   Uniform
-        *   Hygge Shop
-    
-    *   View Home
-    *   Tops
-    *   Bottoms
-    *   Jackets + Coats
-    *   Accessories
-    *   Shoes
-    *   Fragrance
-    *   Bras + Undies
-    *   Extended Sizes
-    *   Clearance
-    
-    *   Collections
-        *   View All
-        *   New Arrivals
-        *   Best Sellers
-        *   Jeans Guide
-        *   Online Only
-        *   Hygge Shop
-        *   Tribe Of Tees
-        *   Basic Essentials
-        *   Seriously Soft
-        *   Active
-        *   Lounge
-        *   Uniform
     
 *   Guys
     
     *   View Home
     *   Tops
-        *   View All
-        *   Tees
-        *   Graphic Tees
-        *   Polos
-        *   Hoodies + Sweatshirts
-        *   Long Sleeve
-        *   Shirts
-    
     *   Bottoms
-        *   View All
-        *   Jeans
-        *   Pants
-        *   Joggers + Sweats
-        *   Sleep
-        *   Shorts
-        
-    
     *   Jackets + Coats
     *   Accessories
     *   Underwear
@@ -361,30 +247,6 @@ Menu Find a Store Aeropostale
         *   Best Sellers
         *   Jeans Guide
         *   Online Only
-        *   Back to Basics
-        *   Music + Pop Culture
-        *   Active
-        *   Lounge
-        *   Uniform
-        *   Hygge Shop
-    
-    *   View Home
-    *   Tops
-    *   Bottoms
-    *   Jackets + Coats
-    *   Accessories
-    *   Underwear
-    *   Cologne
-    *   Extended Sizes
-    *   Clearance
-    
-    *   Collections
-        *   View All
-        *   New Arrivals
-        *   Best Sellers
-        *   Jeans Guide
-        *   Online Only
-        *   Hygge Shop
         *   Back to Basics
         *   Music + Pop Culture
         *   Active
@@ -502,23 +364,26 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ORDERS OVER $50 Search Catalog Search
+ORDERS OVER $50 Search Catalog Search UP TO 80% OFF CLEARANCE FINAL DAYS!  
+IN STORES &. ONLINE Find a Store FINAL DAYS! IN STORES &. ONLINE UP TO 80% OFF CLEARANCE Find a Store
 
-In Stores &. Online
+ONLINE ONLY FOR A LIMITED TIME!
 
-JEANS BUY 1 GET 1 FREE &. FREE SHIP FOR A LIMITED TIME ONLY! Shop Girls Jeans Shop Guys Jeans
+TAKE AN EXTRA 30% OFF
 
-\*Must Add 2 to Cart. Excludes Clearance.  
-\*\*Free Shipping on Your Entire Order When You Buy Jeans
+STYLES ALREADY REDUCED UP TO 80%
 
-In Stores &. Online
+USE CODE EXTRA30
 
-JEANS BUY 1 GET 1 FREE &. FREE SHIP FOR A LIMITED TIME ONLY!
+Shop Girls Shop Guys
 
-\*Must Add 2 Cart. Excludes Clearance.  
-\*\*Free Shipping On Your Entire Order When You Buy Jeans
+ONLINE ONLY FOR A LIMITED TIME!
 
-Shop Girls Jeans Shop Guys Jeans New! SOFT SPUN DENIM REINVENT THE REAL. NOW MORE SUSTAINABLE!
+TAKE AN EXTRA 30% OFF
+
+STYLES ALREADY REDUCED UP TO 80%
+
+USE CODE EXTRA30 Shop Girls Shop Guys New! SOFT SPUN DENIM REINVENT THE REAL. NOW MORE SUSTAINABLE!
 
 Our most popular denim fabric updated  
 with eco-friendly materials for a softer,  
@@ -540,19 +405,7 @@ with eco-friendly materials for a softer,
 more comfortable fit.
 
 Shop Girls Jeans **Buy 1 Get 1 Free**  
-Shop Guys Jeans **Buy 1 Get 1 Free**
-
-In Stores &. Online
-
-UP TO 80% OFF CLEARANCE Shop Girls Clearance Shop Guys Clearance
-
-In Stores &. Online
-
-UP TO 80% OFF CLEARANCE
-
-Details
-
-Shop Girls Clearance Shop Guys Clearance AERO SWEATERS
+Shop Guys Jeans **Buy 1 Get 1 Free** AERO SWEATERS
 
 The softest styles, the most comfortable crops. Stock up on these sweaters before they're sold out.
 
@@ -606,15 +459,15 @@ In Stores &. Online
 
 Graphic Tees Specially washed for never-before-  
 felt softness. Expertly created for  
-everyday comfort &. ease. Girls Graphics **$7 &. Up**  
-Guys Graphics **$8 &. Up**
+everyday comfort &. ease. Girls Graphics **$5.87 &. Up**  
+Guys Graphics **$5.87 &. Up**
 
 In Stores &. Online
 
 Graphic Tees Specially washed for never-before-  
 felt softness. Expertly created for  
-everyday comfort &. ease. Girls Graphics **$7 &. Up**  
-Guys Graphics **$8 &. Up**
+everyday comfort &. ease. Girls Graphics **$5.87 &. Up**  
+Guys Graphics **$5.87 &. Up**
 
 In Stores &. Online
 
