@@ -413,7 +413,9 @@ Upcoming Conferences
 
 *   Software Architecture Feb 23–26, New York
 *   Strata &. AI Mar 15–18, San Jose
+*   Smart Cities &. Mobility Ecosystems Apr 15–16, Phoenix
 *   Strata &. AI Apr 20–23, London
+*   Smart Cities &. Mobility Ecosystems Jun 3–4, Miami
 *   Software Architecture Jun 15–18, Santa Clara
 *   Infrastructure &. Ops Jun 15–18, Santa Clara
 *   OSCON Jul 13–16, Portland
