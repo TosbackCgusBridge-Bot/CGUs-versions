@@ -213,23 +213,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   No immediate cyberthreat seen over Soleimani killing, but preparation is key
-    *   Google app vulnerability being exploited in the wild: Trend Micro
-    *   Cisco patches multiple vulnerabilities
-    *   New Magecart skimmers practice steganography, data transfer via WebSocket
-    *   Microsoft phases out Windows 7 support, now what?
-    
-    *   Ransomware hits, but doesn’t stop, the Pittsburgh Unified School District
-    *   Travelex sidelines online financial services following malware discovery
-    *   Mozilla patches exploited zero-day flaw in Firefox
-    *   Google reportedly suspends integrations with Xiaomi smart camera due to software bug
-    *   Microsoft phases out Windows 7 support, now what?
-    
-    *   APT40 hacking group linked to 13 alleged front companies in Hainan, China
-    *   Intel patches six security issues
     *   Adobe rolls out a light Patch Tuesday offering
-    *   NSA reveals to Microsoft critical Windows 10 flaw
-    *   Nemty ransomware makers may be latest to adopt data leak strategy
+    *   Google app vulnerability being exploited in the wild: Trend Micro
+    *   Cyberattack hits Las Vegas on opening day of CES
+    *   Microsoft phases out Windows 7 support, now what?
+    *   Google reportedly suspends integrations with Xiaomi smart camera due to software bug
+    
+    *   No immediate cyberthreat seen over Soleimani killing, but preparation is key
+    *   Shades of Ashley Madison: Love Hotels search engine breached
+    *   Cisco patches multiple vulnerabilities
+    *   CES defends choosing Ivanka Trump for keynote
+    *   Soleimani killing will likely result in reprisal cyberattacks by Iran
+    
+    *   Army (websites) defeated, but for the great good
+    *   Analysis of popular apps finds rampant sharing of personal data
+    *   Bitdefender, Sophos uncover more dangerous apps in Google Play
+    *   VMWare updates Tools fixing race condition
+    *   APT40 hacking group linked to 13 alleged front companies in Hainan, China
 
 Back to Top
 
@@ -248,6 +248,7 @@ Back to Top
 *   User Center
     *   Videos
     *   Executive Insight Guidelines
+    *   Subscribe
     *   Editorial Calendar
 
 *   Other SC Sites
