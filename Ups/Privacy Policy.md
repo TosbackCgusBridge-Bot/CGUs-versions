@@ -1,6 +1,6 @@
 1/1
 
-*   Severe Weather Impacting Areas in Washington...More
+*   Severe Weather Impacting Areas in California...More
 
 Close Skip To Main Content
 
