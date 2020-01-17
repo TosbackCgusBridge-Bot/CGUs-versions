@@ -110,7 +110,7 @@ Privacy at Tealium
 
 At Tealium, our mission is to honor your privacy preferences and safeguard your personal data when you engage with us and our technology. We are committed to earning your trust by our commitment to transparency, security, putting you in control of your privacy choices, and using your personal data for no other purpose than as communicated to you.
 
-Our technology platform — known as the Tealium Universal Data Hub — helps companies manage the data that flows between their customers or users and their digital properties (such as their web site, mobile apps, etc.). This helps companies better understand you as an individual, so they can tailor their communications, marketing, and experiences to serve you better.
+Our technology platform — known as the Tealium Customer Data Hub — helps companies manage the data that flows between their customers or users and their digital properties (such as their web site, mobile apps, etc.). This helps companies better understand you as an individual, so they can tailor their communications, marketing, and experiences to serve you better.
 
 This page will help you understand how your data is handled and how you can manage your privacy and consent preferences.
 
@@ -184,7 +184,7 @@ Attn: Legal Department
 San Diego, CA 92121  
 Main: +1 (858) 779-1344
 
-Tealium Universal Data Hub  
+Tealium Customer Data Hub  
 Tealium iQ  
 Tealium EventStream  
 Tealium AudienceStream  
@@ -206,7 +206,7 @@ X
 
 The Right Content
 
-Using the Tealium Universal Data Hub, we’ve compiled your content topic and medium preferences based on your previous interactions with our digital properties.
+Using the Tealium Customer Data Hub, we’ve compiled your content topic and medium preferences based on your previous interactions with our digital properties.
 
 X
 
