@@ -180,9 +180,9 @@ Lenovo Explore Close
         *   Sale
         *   Monitor Accessories
         
-        Sale
+        ThinkVision M14 Portable Monitor
         
-        Click to save now on monitors for work, home &. gaming!
+        Mobile display for on-the-go productivity
         
     *   Gaming
         
@@ -214,9 +214,9 @@ Lenovo Explore Close
         *   Realspace Gaming Chair
         *   Legion Y740
         
-        Shop Gaming
+        PlayStation 4
         
-        Shop everything gaming from consoles to headsets, &. check out your favorite brands like Xbox &. Nintendo
+        Experience three PS4™ games with an all-new bundle
         
     *   Business
         
@@ -308,9 +308,9 @@ Lenovo Explore Close
         *   Trade In Program
         *   Outlet
         
-        Sale
+        40% off YOGA
         
-        Don't miss out on weekly deals on laptops, desktops, monitors &. more!
+        Shop YOGA C930 through January &. save big on this top-rated 2-in-1
         
 *   Phones
 *   Data Center
