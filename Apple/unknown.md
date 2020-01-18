@@ -28,9 +28,8 @@ Date Range Date Range content loading
     
     View Device Requests
     
-    Device Requests by Year - Worldwide 70k60k50k40k30k20k10k0k79%201878%201767%201659%201560%201473%2013
-    *   Requests Received
-    *   Requests where Data Provided
+    Device Requests by Year - Worldwide
+    
 *   Financial Identifier
     
     Financial Identifier requests are based on financial identifiers such as credit/debit card or iTunes Gift Card.
@@ -83,18 +82,17 @@ Date Range Date Range content loading
     
     View Emergency Requests
     
-    Emergency Requests by Year - Worldwide 1000900800700600500400300200100088%201882%2017N/A2016N/A2015N/A2014N/A2013
-    *   Requests Received
-    *   Requests where Data Provided
+    Emergency Requests by Year - Worldwide
+    
 *   United States National Security
     
     U.S. National Security requests seek customer data in response to national security related investigations. National Security requests include orders received under the Foreign Intelligence Surveillance Act (“FISA”) and National Security Letters (“NSLs”). To date, Apple has not received any orders for bulk data.
     
-    Apple reports all national security requests received (NSLs and orders received under FISA) within bands permissible by law pursuant to the USA FREEDOM Act of 2015 (“USA Freedom”). Though we want to be more specific, these are currently the ranges and level of detail permitted under USA Freedom for reporting U.S. National Security requests.  
+    Apple reports national security requests received for Apple users/accounts (NSLs and orders received under FISA) within bands permissible by law pursuant to the USA FREEDOM Act of 2015 (“USA Freedom”). Though we want to be more specific, these are currently the ranges and level of detail permitted under USA Freedom for reporting U.S. National Security requests.  
     
     View U.S. National Security Requests
     
-    U.S. National Security Requests by Period Report Period Request Type Requests Received Users/Accounts 2019 H1 FISA Non-Content Legally required 6-month reporting delay Legally required 6-month reporting delay 2019 H1 FISA Content Legally required 6-month reporting delay Legally required 6-month reporting delay 2019 H1 NSLs 0 - 499 2,500 - 2,999 2018 H2 FISA Non-Content 0 - 499 9,000 - 9,499 2018 H2 FISA Content 0 - 499 14,000 - 14,499 2018 H2 NSLs 3 - 499 1,505 - 1,999 2018 H1 FISA Non-Content 0 - 499 7,500 - 7,999 2018 H1 FISA Content 0 - 499 13,500 - 13,999 2018 H1 NSLs 1 - 499 1,001 - 1,499 2017 H2 National Security 16,000 - 16,249 8,000 - 8,249 2017 H1 National Security 13,250 - 13,499 9,000 - 9,249 2016 H2 National Security 5,750 - 5,999 4,750 - 4,999 2016 H1 National Security 2,750 - 2,999 2,000 - 2,249 2015 H2 National Security 1,250 - 1,499 1,000 - 1,249 2015 H1 National Security 751 - 999 250 - 499 2014 H2 National Security 250 - 499 0 - 249 2014 H1 National Security 0 - 249 0 - 249 2013 H2 National Security 0 - 249 0 - 249 2013 H1 National Security 0 - 249 0 - 249
+    U.S. National Security Requests by Period Report Period Request Type Requests Received Users/Accounts 2019 H1 FISA Non-Content 0 - 499 11,000 - 11,499 2019 H1 FISA Content 0 - 499 18,000 - 18,499 2019 H1 NSLs 0 - 499 2,500 - 2,999 2018 H2 FISA Non-Content 0 - 499 9,000 - 9,499 2018 H2 FISA Content 0 - 499 14,000 - 14,499 2018 H2 NSLs 3 - 499 1,505 - 1,999 2018 H1 FISA Non-Content 0 - 499 7,500 - 7,999 2018 H1 FISA Content 0 - 499 13,500 - 13,999 2018 H1 NSLs 1 - 499 1,001 - 1,499 2017 H2 National Security 16,000 - 16,249 8,000 - 8,249 2017 H1 National Security 13,250 - 13,499 9,000 - 9,249 2016 H2 National Security 5,750 - 5,999 4,750 - 4,999 2016 H1 National Security 2,750 - 2,999 2,000 - 2,249 2015 H2 National Security 1,250 - 1,499 1,000 - 1,249 2015 H1 National Security 751 - 999 250 - 499 2014 H2 National Security 250 - 499 0 - 249 2014 H1 National Security 0 - 249 0 - 249 2013 H2 National Security 0 - 249 0 - 249 2013 H1 National Security 0 - 249 0 - 249
 *   United States Private Party
     
     U.S. Private Party (non-government) requests generally seek information about connections to Apple services, purchase transactions, or product registrations relating to an Apple customer - for example, civil or criminal litigation case proceedings where a subpoena is issued for information.
