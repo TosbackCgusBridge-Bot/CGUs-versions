@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Christopher Bedford_: The Cult of Pelosi Is a Deadly Thing for Dems' Future
+*   _Michael Zeldin_: Senators, Abide by Your Oath to Do Impartial Justice
     
-*   _Francis Wilkinson_: Why Trump's Trial Makes Senate Republicans Squirm
+*   _Roger Kimball_: If Senate Dems Were Impartial, They'd Toss Out the Case
     
-*   _Paul Callan_: Democrats' Latest Document Dump Is a Sign of Weakness
+*   _Timothy Egan_: Trump's Evil Is Contagious
     
-*   _Mohamed El-Erian_: Is Trump's Iran Strategy Working?
+*   _Susan Crabtree_: A Tale of 2 Whistleblowers: One Protected, One Not
     
-*   _John Cassidy_: The Uneasy Truce of Trump's Trade Deal With China
+*   _Tom McTague_: Did Trump Stumble Into a Foreign-Policy Triumph?
     
-*   _Andy Puzder_: China Surrenders to Reality in the Trade Dispute
+*   _Liz Harrington_: Collateral Damage From Killing Soleimani: Dems' Minds
     
-*   _James Oliphant_: Sanders-Warren Flap Makes a Debate Winner Out of Biden
+*   _Janan Ganesh_: Biden Represents a Portal to the Past for U.S. Allies
     
-*   _Matt Taibbi_: CNN's Debate Performance Was Villainous and Shameful
+*   _Sam Husseini_: Biden Is Not Telling the Truth About His Iraq War Record
     
-*   _Ellen Troxclair_: No, the Conservative Woman's Future Is Not Bleak
+*   _Scott Walker_: How Trump Can Win Wisconsin
     
-*   _Abrams &. Holder_: Republicans Build Barriers to Voting for People of Color
+*   _Chris Cillizza_: Martha McSally's Staggering Cynicism
     
-*   _Christian Paz_: Trump's Outreach to Latinos Could Be Trouble for Dems
+*   _David Marcus_: McSally's Reality Check for CNN's Partisan Clowns
     
-*   _Errol Louis_: Dems Need to Talk About What Change Is Possible
+*   _Philip Klein_: It's Looking More Like Trump Will Be Reelected
     
-*   _Steve Cortes_: Tuesday's Stark Midwest Contrast of Trump &. Dems
+*   _Kevin Walling_: Biden Is the Only Dem Candidate Who Can Beat Trump
     
-*   _Benjamin Wallace-Wells_: Can Elizabeth Warren Unify Democrats?
+*   _John Kass_: CNN's Shameful Treatment of Bernie Sanders
     
-*   _Tucker Carlson_: Forget Warren, It's Down to Biden or Sanders
+*   _Nate Silver_: Warren Needs to Play to Win--and That Includes Beating Sanders
     
-*   _Joe Lockhart_: Bernie Sanders Isn't Facing Enough Scrutiny
+*   _Daniel J. Flynn_: A Literal Show Trial Begins
     
-*   _David Catron_: Sanders Supporters Shocked to Find Bias at CNN
+*   _Susan Glasser_: There Will Be No Impartial Justice for Donald Trump
     
-*   _Dahlia Lithwick_: How Will the Senate Get Away With Its Sham Trial Now?
+*   _Mike Pence_: A Partisan Impeachment, a Profile in Courage
     
-*   _Jenny Beth Martin_: Impeachment a Sham, From Start to Finish
+*   _Alexander Nazaryan_: Congress Fights Back Against the Imperial Presidency
     
-*   _Froma Harrop_: Democrats Should Put an End to Caucuses
+*   _Lewis Uhler &. Peter Ferrara_: Trump Found a Foreign Policy Win Against Iran
     
-*   _Bernard Goldberg_: Dems' 'Blame America First' Ballad Won't Play Well in 2020
+*   _Michael D'Antonio_: Trump's Scare Campaigns Play With Our Emotions
     
-*   _Terry Glavin_: Wake Up, West: There's a Revolution Going on in Mideast
+*   _A.B. Stoddard_: This Was Biden's Best Week of the Whole Campaign
     
-*   _Angelo Codevilla_: Iran, America &. the Incompetent Ruling Class
+*   _Robert Reich_: Why I'm Still Hopeful About America
     
-*   _Scott Rosenberg_: Putin Won the Fight to Undermine Trust in U.S. Elections
+*   _Adriana Cohen_: Women Win in Trump's Economy
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Emphasis on U.S. Exports, Trade Secrets in China Trade Deal
+*   Dems' New Iowa Caucus Rules Could Spark Clashing Claims of Victory
+*   WH Rebuffs GAO on Ukraine Aid: "We Are Not Legally Bound"
+*   McConnell Mocks Pelosi Handing Out "Souvenir" Impeachment Pens
 *   In Iowa Debate, Mild Feuding and No Fireworks
-*   Jones: Nothing I Saw at Dems' Debate Could Take Trump Out
 *   Old Friends, Bad Blood: War Simmers Between Sanders, Warren
-*   Data Underscore Brokaw's Assertion of Media Negativity
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -264,9 +264,19 @@ Latest PollsAll Polls
     *   Steyer4
     *   Booker
     *   Bennet0Sanders +5
+*   California Democratic PrimaryKGTV-TV/SurveyUSA
+    *   Biden30
+    *   Sanders20
+    *   Warren20
+    *   Buttigieg8
+    *   Yang4
+    *   Bloomberg6
+    *   Steyer4
+    *   Gabbard2
+    *   Klobuchar2Biden +10
 *   President Trump Job ApprovalRasmussen Reports
-    *   Approve51
-    *   Disapprove47Approve +4
+    *   Approve49
+    *   Disapprove50Disapprove +1
 *   2020 Democratic Presidential NominationEconomist/YouGov
     *   Biden27
     *   Sanders20
@@ -279,19 +289,6 @@ Latest PollsAll Polls
     *   Gabbard2
     *   Booker2
     *   Bennet0Biden +7
-*   Florida Democratic Presidential PrimaryFlorida Atlantic University
-    *   Biden42
-    *   Sanders16
-    *   Warren10
-    *   Bloomberg7
-    *   Klobuchar6
-    *   Buttigieg3
-    *   Yang5
-    *   Booker3
-    *   Gabbard1
-    *   Steyer2
-    *   Bennet1
-    *   Delaney1Biden +26
 
 More Latest Polls In The News
 
