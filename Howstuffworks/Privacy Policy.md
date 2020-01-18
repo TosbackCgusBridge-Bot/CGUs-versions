@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksIt Took a Court to Decide Whether Pringles Are Potato Chips1STLapland Is the Land of Eight Seasons2NDBrace Yourself: Bananas Are Berries, Strawberries Aren't3RDBengal Cats Are Mini Leopard Hybrid Housecats4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredSoGoodly | SponsoredThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly | SponsoredKelley Blue Book | Sponsored10 Most Fuel Efficient SUVsKelley Blue Book | SponsoredPetlab Co. | SponsoredIf Your Dog Suffers From Bad Joints, Try This Simple TipPetlab Co. | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksThe 'SnotBot' Drone Is Making Scientific Research Easier on Whales1STBalut Is the Asian Street Food You Gotta Eat to Believe2NDThe Smiley Quokka Is an Australian Super Survivor3RDBrace Yourself: Bananas Are Berries, Strawberries Aren't4THWorldLifestyle | SponsoredAfter Girl's Dad Cuts Her Hair Off For Getting Birthday Highlights, Mom Steps InWorldLifestyle | SponsoredHearTech Labs | SponsoredForget Prescription Hearing Aids Use This InsteadHearTech Labs | SponsoredYahoo Search | SponsoredThe Early Signs Of Type 2 Diabetes - Research Type 2 Diabetes TreatmentsYahoo Search | SponsoredSoGoodly | SponsoredThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly | Sponsored
 
 Advertisement
 
-auto - car modelsCould Electric Motor Conversions Save Classic Cars?BY Cherise Threewittscience - engineeringHow Artificial Intelligence Is Totally Changing EverythingBY Patrick J. Kigerculture - peopleDeaf, Blind and Determined: How Helen Keller Learned to CommunicateBY John Donovansafari vacations | SponsoredAffordable African Safari Vacations That Are Simply Astonishing! Search For Luxury African Safari Vacation Packagessafari vacations | SponsoredHearTech Labs | SponsoredForget Prescription Hearing Aids Use This InsteadHearTech Labs | Sponsored
+animals - petsBengal Cats Are Mini Leopard Hybrid HousecatsBY Mark Manciniscience - engineeringHow Artificial Intelligence Is Totally Changing EverythingBY Patrick J. Kigerculture - peopleWhy Countries Use Economic Sanctions to Prevent ConflictBY Patrick J. KigerThedelite | SponsoredBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite | SponsoredGreeningz | SponsoredHilarious Teachers Caught On CameraGreeningz | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksThe Story of Eric Rudolph, the Real 1996 Olympic Park BomberHow Morse Code Works and Still Lives On in the Digital AgeBalut Is the Asian Street Food You Gotta Eat to BelieveThe Smiley Quokka Is an Australian Super SurvivorWhat's the Difference Between Baking Soda and Baking Powder?What's the Difference Between an Avenue, a Road and a Boulevard?by Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksThat Dead Weblink May Be Revived With the Wayback MachineWhat's the Difference Between Baking Soda and Baking Powder?It Took a Court to Decide Whether Pringles Are Potato ChipsWhy Is the Tropic of Cancer Important?Deaf, Blind and Determined: How Helen Keller Learned to CommunicateThe Cornish Game Hen Is Neither Cornish Nor a Henby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2020 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. It Took a Court to Decide Whether Pringles Are Potato ChipsRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StorySoGoodlyThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. The 'SnotBot' Drone Is Making Scientific Research Easier on WhalesRead Next StoryWorldLifestyleAfter Girl's Dad Cuts Her Hair Off For Getting Birthday Highlights, Mom Steps InWorldLifestyle|SponsoredSponsoredRead Next StoryHearTech LabsForget Prescription Hearing Aids Use This InsteadHearTech Labs|SponsoredSponsoredRead Next Story
