@@ -7,15 +7,35 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Rachel Roy Collection Up to 75% Off Incl. Plus
+    *   Madewell Starting at $25 Incl. Plus
+    *   Electric Yoga &. More Up to 65% Off
+    *   Madewell Handbags &. Accessories Up to 50% Off
+    *   Layer on the Trends: Jealous Tomato &. More
+    *   Fab Finds: Styles Under $25 Incl. Plus &. Petites
+    *   Peter Millar Up to 60% Off
+    *   Wanderlust Ready: Resort Sandals
+    *   Aesthetica Cosmetics Starting at $10
+    *   14K Gold Jewelry &. More Under $120
+    *   Holiday Storage Solutions &. More
+    *   Now Boarding: Stylish Luggage Up to 75% Off
+    *   Tommy Hilfiger Men's Shoes
+    *   Hybrid Green Label Up to 75% Off
+    *   Timberland Kids
+    *   Natural Deodorants: Rollers &. Sprays
+    *   Girls' Outerwear Up to 65% Off
+    *   Boys' Outerwear Up to 65% Off
+    *   Coats Up to 75% Off
+    *   Slimming Shapers, Bodysuits &. More Up to 60% Off
     *   AG
     *   Sharagano &. Nina Leonard Dresses
     *   Marc Jacobs Up to 50% Off
     *   AG Men
     *   Wear to Work: Booties &. More Up to 50% Off
     *   Ramy Brook
+    
     *   La Blanca Swimwear &. More
     *   Getaway Gear: Soft Pants, Tops &. More
-    *   Via Spiga Outerwear
     *   Kenneth Cole Reaction Suiting &. More Up to 70% Off
     *   Sun Brands We Love ft. Marc Jacobs
     *   Winter Boots Up to 60% Off
@@ -26,24 +46,11 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Wear to Work: Men's Oxfords &. Loafers
     *   Luxe Faux Fur Pillows &. More Up to 75% Off
     *   Koolaburra by UGG Kids
-    *   Champion Kids &. More
-    *   AG Kids &. More Up to 65% Off
-    *   Daily Deal: BIRKENSTOCK Arizona Sandals at $69.97
-    *   Designer Spotlight ft. BOSS Women's Clothing
-    *   Gracia
-    *   Chantelle Lingerie
-    
-    *   New Year, New Me: Birdiebee
-    *   Bobeau Incl. Plus &. Petites
-    *   Pair Up: Skirts and Tops Incl. Plus &. Petites
+    *   Via Spiga Outerwear
     *   Hickey Freeman
-    *   ECCO
     *   Bruno Magli
     *   Mini Melissa
-    *   Cover-Ups ft. Elan &. More
     *   Get Fit: Men's Activewear Up to 60% Off
-    *   Tommy Hilfiger Shoes from $30
-    *   Louise Et Cie
     *   Quirky &. Fun Towels, Coasters and More
     *   Ode Natural Soaps, Scrubs &. More
     *   Food-Based Luxury Skin Care ft. BYROE
@@ -52,39 +59,48 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Live Sweetly: Candy Club Treats
     *   Fun Valentine's Day Gifts for Her from $15
     *   Anthropologie Home
-    *   Tommy Bahama Men's Styles Incl. Big &. Tall
-    *   Tommy Bahama Up to 65% Off
-    *   Tommy Bahama Swim Up to 60% Off
-    *   Samuel B Jewelry
-    *   Handcrafted in Spain: UNOde50 Jewelry
-    *   Tommy Bahama Luggage
-    
     *   ORA Derma Roller &. Microdermabrasion Tools
+    
     *   Sarah Maxwell Daily Lash Ritual
     *   BED|STU Men
     *   Comforter Sets &. Throws from $40
-    *   Reebok Kids
     *   Free Shipping: Luxe Bedding Up to 85% Off
-    *   Joe-Ella Up to 65% Off
-    *   Reebok Men
     *   Stylish, Contemporary Humidifiers &. Diffusers
     *   Be Mine: Candles, Gifts &. More from $15
     *   Korean Beauty ft. Missha Skin Care
-    *   Free Shipping: Removable Wallpaper, Decals &. More
+    *   AG Kids &. More Up to 65% Off
     *   Quality Cookware Starting at $15
     *   Must-Have Dresses Under $80 Incl. Plus &. Petites
+    *   Designer Spotlight ft. BOSS Women's Clothing
+    *   Gracia
+    *   Chantelle Lingerie
+    *   Bobeau Incl. Plus &. Petites
+    *   Pair Up: Skirts and Tops Incl. Plus &. Petites
+    *   Cover-Ups ft. Elan &. More
+    *   Trend Alert: Utility Chic Incl. Plus &. Petites
+    *   Champion Kids &. More
+    *   Reebok Men
+    *   Urban Decay ft. New Game of Thrones Styles
+    *   Pearl Bath Bombs
+    *   Free Shipping: Removable Wallpaper, Decals &. More
     *   The Art Shop: Framed Art Up to 80% Off
     *   Bluetooth Solutions: Headphones &. More
     *   Framed Art Up to 60% Off
-    *   Home Decor: Wall Art, Pillows &. More
-    *   Pearl Bath Bombs
-    *   Ben Sherman Shoes Up to 65% Off
-    *   Urban Decay ft. New Game of Thrones Styles
-    *   BCBGeneration
-    *   Trend Alert: Utility Chic Incl. Plus &. Petites
-    *   Further Food Supplements
 *   WomenShop Sale Events
     
+    *   Rachel Roy Collection Up to 75% Off Incl. Plus
+    *   Madewell Starting at $25 Incl. Plus
+    *   Electric Yoga &. More Up to 65% Off
+    *   Madewell Handbags &. Accessories Up to 50% Off
+    *   Layer on the Trends: Jealous Tomato &. More
+    *   Fab Finds: Styles Under $25 Incl. Plus &. Petites
+    *   Wanderlust Ready: Resort Sandals
+    *   Aesthetica Cosmetics Starting at $10
+    *   14K Gold Jewelry &. More Under $120
+    *   Now Boarding: Stylish Luggage Up to 75% Off
+    *   Natural Deodorants: Rollers &. Sprays
+    *   Coats Up to 75% Off
+    *   Slimming Shapers, Bodysuits &. More Up to 60% Off
     *   AG
     *   Sharagano &. Nina Leonard Dresses
     *   Marc Jacobs Up to 50% Off
@@ -92,89 +108,80 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Ramy Brook
     *   La Blanca Swimwear &. More
     *   Getaway Gear: Soft Pants, Tops &. More
-    *   Via Spiga Outerwear
+    
     *   Sun Brands We Love ft. Marc Jacobs
     *   Winter Boots Up to 60% Off
     *   Korean Beauty: Huangjisoo
-    *   Daily Deal: BIRKENSTOCK Arizona Sandals at $69.97
-    *   Designer Spotlight ft. BOSS Women's Clothing
-    *   Gracia
-    *   Chantelle Lingerie
-    *   New Year, New Me: Birdiebee
-    *   Bobeau Incl. Plus &. Petites
-    *   Pair Up: Skirts and Tops Incl. Plus &. Petites
-    *   ECCO
-    
-    *   Cover-Ups ft. Elan &. More
-    *   Tommy Hilfiger Shoes from $30
-    *   Louise Et Cie
+    *   Via Spiga Outerwear
     *   Ode Natural Soaps, Scrubs &. More
     *   Food-Based Luxury Skin Care ft. BYROE
-    *   Tommy Bahama Up to 65% Off
-    *   Tommy Bahama Swim Up to 60% Off
-    *   Samuel B Jewelry
-    *   Handcrafted in Spain: UNOde50 Jewelry
-    *   Tommy Bahama Luggage
     *   ORA Derma Roller &. Microdermabrasion Tools
     *   Sarah Maxwell Daily Lash Ritual
     *   Korean Beauty ft. Missha Skin Care
     *   Must-Have Dresses Under $80 Incl. Plus &. Petites
-    *   Pearl Bath Bombs
-    *   Urban Decay ft. New Game of Thrones Styles
-    *   BCBGeneration
+    *   Designer Spotlight ft. BOSS Women's Clothing
+    *   Gracia
+    *   Chantelle Lingerie
+    *   Bobeau Incl. Plus &. Petites
+    *   Pair Up: Skirts and Tops Incl. Plus &. Petites
+    *   Cover-Ups ft. Elan &. More
     *   Trend Alert: Utility Chic Incl. Plus &. Petites
-    *   Further Food Supplements
+    *   Urban Decay ft. New Game of Thrones Styles
+    *   Pearl Bath Bombs
     
     Shop By Category
     *   Clothing
     *   Shoes
+    *   Lingerie &. Shapewear
     *   Jewelry
     *   Handbags
-    *   Lingerie &. Shapewear
     *   Accessories
 *   MenShop Sale Events
     
+    *   Peter Millar Up to 60% Off
+    *   Tommy Hilfiger Men's Shoes
+    *   Hybrid Green Label Up to 75% Off
     *   AG Men
     *   Kenneth Cole Reaction Suiting &. More Up to 70% Off
     *   Kenneth Cole Reaction Men's Shoes
     *   Wear to Work: Men's Oxfords &. Loafers
+    
     *   Hickey Freeman
     *   Bruno Magli
     *   Get Fit: Men's Activewear Up to 60% Off
-    
     *   Men's SeaVees Up to 55% Off
-    *   Tommy Bahama Men's Styles Incl. Big &. Tall
-    *   Tommy Bahama Luggage
     *   BED|STU Men
     *   Reebok Men
-    *   Ben Sherman Shoes Up to 65% Off
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Timberland Kids
+    *   Girls' Outerwear Up to 65% Off
+    *   Boys' Outerwear Up to 65% Off
     *   Melissa &. Doug
     *   Koolaburra by UGG Kids
-    *   Champion Kids &. More
-    *   AG Kids &. More Up to 65% Off
     *   Mini Melissa
-    *   Reebok Kids
-    *   Joe-Ella Up to 65% Off
+    *   AG Kids &. More Up to 65% Off
+    *   Champion Kids &. More
     
     Shop By Category
+    *   Girls' Sizes 7-16
     *   Girls' Shoes
     *   Girls' Sizes 2T-6X
-    *   Toy Shop
-    *   Girls' Sizes 7-16
     *   Boys' Sizes 2T-7
-    *   Boys' Shoes
     *   Boys' Sizes 8-20
-    *   Baby Boy
+    *   Toy Shop
     *   Baby Girl
+    *   Baby Boy
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Holiday Storage Solutions &. More
+    *   Now Boarding: Stylish Luggage Up to 75% Off
     *   Quickfit Furniture Covers Up to 45% Off
     *   Luxe Faux Fur Pillows &. More Up to 75% Off
     *   Quirky &. Fun Towels, Coasters and More
@@ -182,46 +189,46 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Live Sweetly: Candy Club Treats
     *   Fun Valentine's Day Gifts for Her from $15
     *   Anthropologie Home
-    *   Tommy Bahama Luggage
-    *   Comforter Sets &. Throws from $40
     
+    *   Comforter Sets &. Throws from $40
     *   Free Shipping: Luxe Bedding Up to 85% Off
     *   Stylish, Contemporary Humidifiers &. Diffusers
     *   Be Mine: Candles, Gifts &. More from $15
-    *   Free Shipping: Removable Wallpaper, Decals &. More
     *   Quality Cookware Starting at $15
+    *   Free Shipping: Removable Wallpaper, Decals &. More
     *   The Art Shop: Framed Art Up to 80% Off
     *   Bluetooth Solutions: Headphones &. More
     *   Framed Art Up to 60% Off
-    *   Home Decor: Wall Art, Pillows &. More
     
     Shop By Category
     *   Home Decor
-    *   Kitchen &. Tabletop
     *   Bedding
-    *   Pet Accessories
-    *   Electronic &. Tech Accessories
+    *   Kitchen &. Tabletop
     *   Luggage &. Travel
-    *   Rugs &. Doormats
-    *   Holiday Decorations
+    *   Pet Accessories
     *   Cleaning &. Organization
+    *   Electronic &. Tech Accessories
+    *   Holiday Decorations
+    *   Rugs &. Doormats
+    *   Bath
 *   BeautyShop Sale Events
     
+    *   Aesthetica Cosmetics Starting at $10
+    *   Natural Deodorants: Rollers &. Sprays
     *   Korean Beauty: Huangjisoo
     *   Ode Natural Soaps, Scrubs &. More
     *   Food-Based Luxury Skin Care ft. BYROE
     *   ORA Derma Roller &. Microdermabrasion Tools
     *   Sarah Maxwell Daily Lash Ritual
     *   Korean Beauty ft. Missha Skin Care
-    *   Pearl Bath Bombs
     *   Urban Decay ft. New Game of Thrones Styles
-    *   Further Food Supplements
+    *   Pearl Bath Bombs
     
     Shop By Category
+    *   Makeup
     *   Fragrance
     *   Skin Care
     *   Bath &. Body
-    *   Makeup
     *   Tools &. Accessories
     *   Hair Care
     *   Makeup Bags
