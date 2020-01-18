@@ -44,10 +44,6 @@ Download Ubuntu ›
 
 Further reading
 
-*   New Ubuntu Theme in Development for 20.04
-*   Kubernetes: a secure, flexible and automated edge for IoT developers
-*   Why you should upgrade Windows 7 to Ubuntu
-*   How to launch IoT devices – Part 1: Why it takes so long
-*   The State of Robotics – Robotics Over the Holidays
+_Loading..._
 
 *    ›
