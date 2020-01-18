@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Friday, January 17, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Saturday, January 18, 2020  
 
 DEBKAfile
 
@@ -46,6 +46,26 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   Dershowitz, Starr added to Trump defense for impeachment trial
+    
+    Jan 17, 2020 @ 21:01
+    
+*    Britain adds entire Hizballah movement to terrorist blacklist
+    
+    Jan 17, 2020 @ 17:45
+    
+*   Khamenei: Iran slapped a superpower in the face “with support of God”
+    
+    Jan 17, 2020 @ 17:44
+    
+*   Jerusalem police break up Muslim riot on Temple Mount
+    
+    Jan 17, 2020 @ 09:57
+    
+*   Israel’s Air Force inaugurates second F-35 squadron
+    
+    Jan 17, 2020 @ 09:50
+    
 *   Putin to cut short his Israel visit. New government in Moscow
     
     Jan 16, 2020 @ 13:59
@@ -53,43 +73,15 @@ Breaking news
 *   Thirty party lists sign on for March 2, 2020 election
     
     Jan 16, 2020 @ 08:19
-    
-*   Three incendiary balloons reach Sderot – 2nd Gaza attack in a day
-    
-    Jan 16, 2020 @ 08:16
-    
-*   Lists running for March election must be in by Wednesday midnight
-    
-    Jan 15, 2020 @ 18:55
-    
-*   Russian Premier Medvedev resigns with cabinet
-    
-    Jan 15, 2020 @ 17:44
-    
-*   Four rockets fired from Gaza, 2 intercepted. No one hurt
-    
-    Jan 15, 2020 @ 17:34
-    
-*   At least 3 pro-Iranian militiamen reported killed in T-4  raid
-    
-    Jan 15, 2020 @ 12:45
     
 
-*   Lists running for March election must be in by Wednesday midnight
+*   Jerusalem police break up Muslim riot on Temple Mount
     
-    Jan 15, 2020 @ 18:55
+    Jan 17, 2020 @ 09:57
     
-*   Russian Premier Medvedev resigns with cabinet
+*   Israel’s Air Force inaugurates second F-35 squadron
     
-    Jan 15, 2020 @ 17:44
-    
-*   Four rockets fired from Gaza, 2 intercepted. No one hurt
-    
-    Jan 15, 2020 @ 17:34
-    
-*   At least 3 pro-Iranian militiamen reported killed in T-4  raid
-    
-    Jan 15, 2020 @ 12:45
+    Jan 17, 2020 @ 09:50
     
 *   Putin to cut short his Israel visit. New government in Moscow
     
@@ -99,25 +91,25 @@ Breaking news
     
     Jan 16, 2020 @ 08:19
     
-*   Three incendiary balloons reach Sderot – 2nd Gaza attack in a day
+*   Dershowitz, Starr added to Trump defense for impeachment trial
     
-    Jan 16, 2020 @ 08:16
+    Jan 17, 2020 @ 21:01
     
-*   Lists running for March election must be in by Wednesday midnight
+*    Britain adds entire Hizballah movement to terrorist blacklist
     
-    Jan 15, 2020 @ 18:55
+    Jan 17, 2020 @ 17:45
     
-*   Russian Premier Medvedev resigns with cabinet
+*   Khamenei: Iran slapped a superpower in the face “with support of God”
     
-    Jan 15, 2020 @ 17:44
+    Jan 17, 2020 @ 17:44
     
-*   Four rockets fired from Gaza, 2 intercepted. No one hurt
+*   Jerusalem police break up Muslim riot on Temple Mount
     
-    Jan 15, 2020 @ 17:34
+    Jan 17, 2020 @ 09:57
     
-*   At least 3 pro-Iranian militiamen reported killed in T-4  raid
+*   Israel’s Air Force inaugurates second F-35 squadron
     
-    Jan 15, 2020 @ 12:45
+    Jan 17, 2020 @ 09:50
     
 *   Putin to cut short his Israel visit. New government in Moscow
     
@@ -127,13 +119,21 @@ Breaking news
     
     Jan 16, 2020 @ 08:19
     
-*   Three incendiary balloons reach Sderot – 2nd Gaza attack in a day
+*   Dershowitz, Starr added to Trump defense for impeachment trial
     
-    Jan 16, 2020 @ 08:16
+    Jan 17, 2020 @ 21:01
     
-*   Lists running for March election must be in by Wednesday midnight
+*    Britain adds entire Hizballah movement to terrorist blacklist
     
-    Jan 15, 2020 @ 18:55
+    Jan 17, 2020 @ 17:45
+    
+*   Khamenei: Iran slapped a superpower in the face “with support of God”
+    
+    Jan 17, 2020 @ 17:44
+    
+*   Jerusalem police break up Muslim riot on Temple Mount
+    
+    Jan 17, 2020 @ 09:57
     
 
 12PrevNext
