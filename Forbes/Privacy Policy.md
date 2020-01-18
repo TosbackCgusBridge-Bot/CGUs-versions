@@ -231,4 +231,4 @@
 *   Forbes Quote of the Day
 *   Advertise
 
-false <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1494993704116832&amp;ev=PageView&amp;noscript=1">. We've updated our Privacy Statement. Click here to learn more.
+false <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1494993704116832&amp;ev=PageView&amp;noscript=1">.
