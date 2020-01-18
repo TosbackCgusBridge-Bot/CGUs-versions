@@ -45,6 +45,7 @@ Skip to navigation Skip to main content Menu Close
         *   Virtual Conferences
         *   RiskSec
         *   SC Media's 30th Anniversary Celebration
+        *   Security Leadership Exchange
 *   Resource Library
 *   SC Security Ops CenterOpen Submenu
     *   SC Security Ops Center Back
@@ -213,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Adobe rolls out a light Patch Tuesday offering
-    *   Google app vulnerability being exploited in the wild: Trend Micro
-    *   Cyberattack hits Las Vegas on opening day of CES
-    *   Microsoft phases out Windows 7 support, now what?
-    *   Google reportedly suspends integrations with Xiaomi smart camera due to software bug
+    *   $1 billion deal sends Armis to Insight Partners
+    *   SC Labs' Product Reviews: Mobile device management and unified endpoint management
+    *   Ransomware hits, but doesn’t stop, the Pittsburgh Unified School District
+    *   Experiential learning - the key to forgetting about the Forgetting Curve
+    *   State actors may be behind ongoing cyberattack on Austria's foreign ministry
     
-    *   No immediate cyberthreat seen over Soleimani killing, but preparation is key
-    *   Shades of Ashley Madison: Love Hotels search engine breached
-    *   Cisco patches multiple vulnerabilities
-    *   CES defends choosing Ivanka Trump for keynote
-    *   Soleimani killing will likely result in reprisal cyberattacks by Iran
+    *   Barr pushes Apple for additional help unlocking Pensacola gunman's iPhone
+    *   Aussie P&N bank suffers data breach
+    *   Ransomware attack cost New Orleans $7 million and counting
+    *   Attackers distill essence of Mirai IoT botnet into LiquorBot malware
+    *   The psychology of ransomware
     
-    *   Army (websites) defeated, but for the great good
-    *   Analysis of popular apps finds rampant sharing of personal data
-    *   Bitdefender, Sophos uncover more dangerous apps in Google Play
-    *   VMWare updates Tools fixing race condition
-    *   APT40 hacking group linked to 13 alleged front companies in Hainan, China
+    *   Senate bill aimed at creating cybersecurity coordinators in states
+    *   Equifax class action suit settled
+    *   Renewed Emotet phishing activity targets UN, government and military users
+    *   Aussie P&N bank suffers data breach
+    *   PlanetDrugsDirect breached, PHI and payment info exposed.
 
 Back to Top
 
