@@ -34,7 +34,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   The Rhythm Section
     *   Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)
     *   Fantasy Island
-    *   What About Love (2015)
+    *   What About Love (2020)
     *   Sonic the Hedgehog
     *   See All Coming Soon
     
@@ -64,8 +64,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   ‘Once Upon a Time in Hollywood’ Named Best Picture at the Critics’ Choice Awards Read More
-    *   2020 Oscar Nominations: ‘Joker’ Leads With 11! Read More
-    *   The Week in Movie Trailers: ‘The New Mutants,’ ‘Birds of Prey,’ ‘First Cow’ and More Read More
+    *   The Week in Movie News: ‘Bad Boys 4’ and ’National Treasure 3’ in the Works, Taika Waititi for 'Star Wars' and More Read More
+    *   The Week in Movie Trailers: Marvel’s ‘Black Widow,’ ‘Morbius,’ ‘The Lovebirds’ and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -551,7 +551,7 @@ Follow Us
 *   Fandango on Instagram
 *   Fandango on Youtube
 
-Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help Feedback My Fandango Live Chat
+Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help My Fandango Live Chat
 
 *   About Fandango
 *   Careers
