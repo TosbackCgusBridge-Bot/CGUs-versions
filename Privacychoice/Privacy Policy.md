@@ -201,9 +201,3 @@ ASIA &. PACIFIC
 *   Worldwide (English)
 
 <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=497969107041437&amp;ev=PageView&amp;noscript=1">. HMA logoIcon HamburgerIcon HamburgerIcon closeSearchExpand / collapseIcon FacebookIcon TwiterIcon Google PlusIcon YoutubeWindows iconWindows icon fillAndroid iconAndroid icon fillMac iconMac icon fillIos iconiOS icon fillLinux iconLinux icon fillMultiDeviceMultiPlatformUnlimitedSuperspeedyBiggestNetworkEasy2useGuaranteedCareHideShieldReferringWebsite ownersMarketersDownload helpInstall helpBeginner’s guideWin guideLinux guideRouter setupCrossTechnologyBandwidth &. speedLimitsOnline privacyStreamingStreamingAccessAdvertsPublic WiFiResearchLocationsCheck MarkCheck MarkIcon checkmark tableEmail iconGmail iconShield iconDNS LeakIcon dashIcon infoDouble quotes
-
-**What’s your 2020 resolution?**
-
-We suggest total online privacy with HMA VPN.
-
-Get 67% off
