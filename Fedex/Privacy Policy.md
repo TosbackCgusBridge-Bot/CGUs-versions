@@ -240,7 +240,7 @@ Frequently asked questions Our Company About FedEx Our Portfolio Investor Relati
 *   English
 *   Español
 
-Follow FedEx © FedEx 1995-2019 Site Map | Terms of Use | Privacy &. Security ×
+Follow FedEx © FedEx 1995-2020 Site Map | Terms of Use | Privacy &. Security ×
 
 Supported Browsers
 
