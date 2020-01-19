@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksThe 'SnotBot' Drone Is Making Scientific Research Easier on Whales1STBalut Is the Asian Street Food You Gotta Eat to Believe2NDThe Smiley Quokka Is an Australian Super Survivor3RDBrace Yourself: Bananas Are Berries, Strawberries Aren't4THWorldLifestyle | SponsoredAfter Girl's Dad Cuts Her Hair Off For Getting Birthday Highlights, Mom Steps InWorldLifestyle | SponsoredHearTech Labs | SponsoredForget Prescription Hearing Aids Use This InsteadHearTech Labs | SponsoredYahoo Search | SponsoredThe Early Signs Of Type 2 Diabetes - Research Type 2 Diabetes TreatmentsYahoo Search | SponsoredSoGoodly | SponsoredThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksBrace Yourself: Bananas Are Berries, Strawberries Aren't1STWhy Is the Tropic of Cancer Important?2NDGelatinous, Squishy Mochi Is Having a Moment3RDWhat's the Difference Between Baking Soda and Baking Powder?4THKelley Blue Book | Sponsored10 Most Fuel Efficient SUVsKelley Blue Book | SponsoredThedelite | SponsoredBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite | SponsoredLuxury Cruises | Search Ads | SponsoredYou've Never Seen Luxury Like This On A Cruise Ship. Research Luxury Mediterranean CruisesLuxury Cruises | Search Ads | SponsoredObsev | SponsoredDiver Opens 340-Year-Old Jar, Looks Closer And Drops To His KneesObsev | Sponsored
 
 Advertisement
 
-animals - petsBengal Cats Are Mini Leopard Hybrid HousecatsBY Mark Manciniscience - engineeringHow Artificial Intelligence Is Totally Changing EverythingBY Patrick J. Kigerculture - peopleWhy Countries Use Economic Sanctions to Prevent ConflictBY Patrick J. KigerThedelite | SponsoredBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite | SponsoredGreeningz | SponsoredHilarious Teachers Caught On CameraGreeningz | Sponsored
+animals - petsBengal Cats Are Mini Leopard Hybrid HousecatsBY Mark Mancinihome &. garden - appliancesWhat's the Difference Between Toilet Paper and Tissue?BY Laurie L. Dovescience - innovationThe 'SnotBot' Drone Is Making Scientific Research Easier on WhalesBY Jesslyn ShieldsHearTech Labs | SponsoredForget Prescription Hearing Aids Use This InsteadHearTech Labs | SponsoredThe Grizzled | Sponsored\[50 Photos\] A-10 Warthog Facts You May Not KnowThe Grizzled | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksThat Dead Weblink May Be Revived With the Wayback MachineWhat's the Difference Between Baking Soda and Baking Powder?It Took a Court to Decide Whether Pringles Are Potato ChipsWhy Is the Tropic of Cancer Important?Deaf, Blind and Determined: How Helen Keller Learned to CommunicateThe Cornish Game Hen Is Neither Cornish Nor a Henby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksIt Took a Court to Decide Whether Pringles Are Potato ChipsIs There Really a Cork Crisis?How Artificial Intelligence Is Totally Changing EverythingTry Ghee, the 'Liquid Gold' Better Than ButterHow Morse Code Works and Still Lives On in the Digital AgeA Portrait of Jimmy Carter, America's Oldest Living President Everby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2020 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. The 'SnotBot' Drone Is Making Scientific Research Easier on WhalesRead Next StoryWorldLifestyleAfter Girl's Dad Cuts Her Hair Off For Getting Birthday Highlights, Mom Steps InWorldLifestyle|SponsoredSponsoredRead Next StoryHearTech LabsForget Prescription Hearing Aids Use This InsteadHearTech Labs|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Brace Yourself: Bananas Are Berries, Strawberries Aren'tRead Next StoryKelley Blue Book10 Most Fuel Efficient SUVsKelley Blue Book|SponsoredSponsoredRead Next StoryThedeliteBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite|SponsoredSponsoredRead Next Story
