@@ -44,6 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
-_Loading..._
+*   Design and Web team summary – 17 January 2020
+*   5 key steps to take your IoT device to market
+*   New Ubuntu Theme in Development for 20.04
+*   Kubernetes: a secure, flexible and automated edge for IoT developers
+*   Why you should upgrade Windows 7 to Ubuntu
 
 *    ›
