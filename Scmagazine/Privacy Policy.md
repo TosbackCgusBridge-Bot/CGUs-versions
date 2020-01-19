@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   $1 billion deal sends Armis to Insight Partners
-    *   SC Labs' Product Reviews: Mobile device management and unified endpoint management
-    *   Ransomware hits, but doesn’t stop, the Pittsburgh Unified School District
-    *   Experiential learning - the key to forgetting about the Forgetting Curve
-    *   State actors may be behind ongoing cyberattack on Austria's foreign ministry
-    
-    *   Barr pushes Apple for additional help unlocking Pensacola gunman's iPhone
-    *   Aussie P&N bank suffers data breach
-    *   Ransomware attack cost New Orleans $7 million and counting
     *   Attackers distill essence of Mirai IoT botnet into LiquorBot malware
-    *   The psychology of ransomware
+    *   Sodinokibi ransomware ID'd as cause of Travelex business disruptions
+    *   Broadcom flips Symantec to Accenture Security
+    *   Aussie P&N bank suffers data breach
+    *   No immediate cyberthreat seen over Soleimani killing, but preparation is key
     
+    *   Murphy given the reigns at Imperva
+    *   Bahraini oil company reportedly attacked by new 'Dustman' disk wiper
+    *   Breach of email accounts impacts 50,000 patients of Minnesota hospital
+    *   PlanetDrugsDirect breached, PHI and payment info exposed.
+    *   Sodinokibi ransomware ID'd as cause of Travelex business disruptions
+    
+    *   Ransomware attack cost New Orleans $7 million and counting
+    *   Trump urges Apple to unlock Pensacola gunman's iPhones
+    *   Report: FBI issues alert after two municipalities hacked via SharePoint
     *   Senate bill aimed at creating cybersecurity coordinators in states
     *   Equifax class action suit settled
-    *   Renewed Emotet phishing activity targets UN, government and military users
-    *   Aussie P&N bank suffers data breach
-    *   PlanetDrugsDirect breached, PHI and payment info exposed.
 
 Back to Top
 
@@ -262,4 +262,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
