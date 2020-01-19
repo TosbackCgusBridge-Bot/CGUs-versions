@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Saturday, January 18, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Sunday, January 19, 2020  
 
 DEBKAfile
 
@@ -46,6 +46,10 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   Palestinian knifes Israel man in Hebron
+    
+    Jan 18, 2020 @ 16:55
+    
 *   Dershowitz, Starr added to Trump defense for impeachment trial
     
     Jan 17, 2020 @ 21:01
@@ -69,12 +73,12 @@ Breaking news
 *   Putin to cut short his Israel visit. New government in Moscow
     
     Jan 16, 2020 @ 13:59
-    
-*   Thirty party lists sign on for March 2, 2020 election
-    
-    Jan 16, 2020 @ 08:19
     
 
+*   Khamenei: Iran slapped a superpower in the face “with support of God”
+    
+    Jan 17, 2020 @ 17:44
+    
 *   Jerusalem police break up Muslim riot on Temple Mount
     
     Jan 17, 2020 @ 09:57
@@ -87,9 +91,9 @@ Breaking news
     
     Jan 16, 2020 @ 13:59
     
-*   Thirty party lists sign on for March 2, 2020 election
+*   Palestinian knifes Israel man in Hebron
     
-    Jan 16, 2020 @ 08:19
+    Jan 18, 2020 @ 16:55
     
 *   Dershowitz, Starr added to Trump defense for impeachment trial
     
@@ -115,9 +119,9 @@ Breaking news
     
     Jan 16, 2020 @ 13:59
     
-*   Thirty party lists sign on for March 2, 2020 election
+*   Palestinian knifes Israel man in Hebron
     
-    Jan 16, 2020 @ 08:19
+    Jan 18, 2020 @ 16:55
     
 *   Dershowitz, Starr added to Trump defense for impeachment trial
     
@@ -130,10 +134,6 @@ Breaking news
 *   Khamenei: Iran slapped a superpower in the face “with support of God”
     
     Jan 17, 2020 @ 17:44
-    
-*   Jerusalem police break up Muslim riot on Temple Mount
-    
-    Jan 17, 2020 @ 09:57
     
 
 12PrevNext
