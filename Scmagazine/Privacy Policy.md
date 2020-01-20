@@ -214,17 +214,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Attackers distill essence of Mirai IoT botnet into LiquorBot malware
-    *   Sodinokibi ransomware ID'd as cause of Travelex business disruptions
-    *   Broadcom flips Symantec to Accenture Security
-    *   Aussie P&N bank suffers data breach
     *   No immediate cyberthreat seen over Soleimani killing, but preparation is key
+    *   Google reportedly suspends integrations with Xiaomi smart camera due to software bug
+    *   Facebook deepfakes ban falls short, lawmakers say
+    *   Mozilla patches exploited zero-day flaw in Firefox
+    *   Cyberattack hits Las Vegas on opening day of CES
     
-    *   Murphy given the reigns at Imperva
-    *   Bahraini oil company reportedly attacked by new 'Dustman' disk wiper
-    *   Breach of email accounts impacts 50,000 patients of Minnesota hospital
+    *   The psychology of ransomware
     *   PlanetDrugsDirect breached, PHI and payment info exposed.
+    *   Senate bill aimed at creating cybersecurity coordinators in states
     *   Sodinokibi ransomware ID'd as cause of Travelex business disruptions
+    *   Mozilla patches exploited zero-day flaw in Firefox
     
     *   Ransomware attack cost New Orleans $7 million and counting
     *   Trump urges Apple to unlock Pensacola gunman's iPhones
