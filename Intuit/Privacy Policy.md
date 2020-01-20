@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsEnable Accessibility
 
-*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
+*   My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -27,18 +27,18 @@ UP TO 60% OFF + Extra 10% off with coupon Mattresses | select styles
 19.99 Guys’ Arizona flex jeans select styles | reg. $42  
 9.99 Boys’ Arizona jeans select styles | reg. $30  
 14.99 Girls’ Arizona fashion jeans or jeggings select styles | reg. $30  
-Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 28 total items loaded in Media GalleryFollow @jcpenney SHOP THE LOCAL LOOK JCPenney is teaming up with fashion and lifestyle influencers to bring you a curated selection of their top picks. Check back every month to see new styles.  
+SHOP THE LOCAL LOOK JCPenney is teaming up with fashion and lifestyle influencers to bring you a curated selection of their top picks. Check back every month to see new styles.  
 SHOP NOW Shop our curated collection of tees, hair products and makeup—designed just for you.  
-Redeem your JCPenney gift card today. Recommended for You
+Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 28 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
 *   SPECIAL DEAL!
     
     $1869after couponwas $110 Liz Claiborne Womens Tilia Riding Boots Stacked Heel(31)
-*   $1869after couponwas $44 St. John's Bay Womens Mid Rise Straight Leg Jean(2061)
-*   $1699 - $8499after couponwas $60 - $209 400tc Wrinkle Guard Deep Pocket Sheet Set - JCPenney Home(2876)
-*   $2974 - $5949after couponwas $70 - $140 Liz Claiborne Quinn Basketweave Room-Darkening Grommet Top Single Curtain Panel(624)
+*   $1869after couponwas $44 St. John's Bay Womens Mid Rise Straight Leg Jean(2062)
+*   $1499 - $7499after couponwas $60 - $209 400tc Wrinkle Guard Deep Pocket Sheet Set - JCPenney Home(2876)
+*   $2624 - $5249after couponwas $70 - $140 Liz Claiborne Quinn Basketweave Room-Darkening Grommet Top Single Curtain Panel(624)
 *   $1529 - $3740after couponStafford Travel Wrinkle-Free Stretch Oxford Mens Button Down Collar Long Sleeve Dress Shirt(242)
-*   $1699after couponwas $80 Arizona Womens Denver Riding Boots Block Heel(165)
+*   $149 - $1274after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(495)
 
 Shop and Save at JCPenney
 
