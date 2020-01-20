@@ -7,24 +7,49 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   50-70% Off: Sterling Forever x @michelletakeaim
+    *   Our Favorite Brands Up to 70% Off ft. Love Token
+    *   Sweater Steals Under $30
+    *   Booties &. More Up to 65% Off
+    *   Men's Shoes Up to 65% Off
+    *   Luxe Faux: Donna Salyers' Fabulous Furs Blowout
+    *   Free Shipping: BergHOFF Up to 55% Off
+    *   Gear Up: Super Bowl-Ready Styles from $17
+    *   Burberry Women Up to 60% Off
+    *   Burberry Handbags &. Shoes
+    *   Burberry Accessories Up to 50% Off
+    *   Frye and Frye &. Co. Up to 60% Off
+    *   Burberry Kids Up to 50% Off
+    *   Burberry Men Up to 50% Off
+    *   Max Studio Incl. Plus
+    *   Frye Men Up to 55% Off
+    *   Gentle Skin Care: Declare Switzerland
+    *   Sosken &. More
+    *   Dress Forum
+    *   Exclusively Ours: Styles Incl. Plus &. Petites
+    *   Burberry Fragrances Up to 50% Off
+    *   Bedding &. Bath Essentials Up to 50% Off
+    *   Sugarlips Starting at $25
+    *   Date Night Pumps &. More Up to 60% Off
+    *   Lafonn Jewelry Up to 65% Off
+    *   Essential Extras: Men's Accessories Up to 70% Off
+    *   Baby Essentials: Diaper Bags, Blankets &. More
+    *   Sleep Tight: Kids' Pajamas Up to 60% Off
     *   T Tahari Incl. Plus &. Petites
     *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
     *   adidas Activewear
+    
     *   Scotch &. Soda
     *   Gemstones, Diamonds &. Sterling Silver from $25
     *   Resort Worthy: Maxi Dresses
     *   Women's Fragrances Under $50
     *   adidas Men's Activewear
     *   Jessica Simpson Bags Up to 70% Off
-    *   Slingbacks &. Slides Up to 60% Off
     *   Sandals, Pumps &. More from $40
-    *   Flip-Flops Up to 50% Off
     *   Fresh Finds: Booties &. More Up to 60% Off
-    *   Support System: Active Socks
     *   Men's Denim Under $50 ft. BLANKNYC
     *   Ready for the Dance: Dresses &. Shoes ft. Zunie
     *   Roberto Cavalli Watches &. More Up to 70% Off
-    *   Tahitian Pearl Jewelry &. More Under $90
     *   Crevo
     *   TOMS Kids Starting at $20
     *   Luxe Skin Care from $20
@@ -32,10 +57,10 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Free Shipping: Wall Decor &. Accents
     *   TOMS Men Up to 50% Off
     *   Sovereign Code Kids Up to 60% Off
-    *   Sharagano &. Nina Leonard Dresses
+    *   Flip-Flops Up to 50% Off
+    *   Slingbacks &. Slides Up to 60% Off
     *   Rachel Roy Collection Up to 75% Off Incl. Plus
     *   Madewell Starting at $25 Incl. Plus
-    
     *   Electric Yoga &. More Up to 65% Off
     *   Madewell Handbags &. Accessories Up to 50% Off
     *   Layer on the Trends: Jealous Tomato &. More
@@ -45,16 +70,14 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Aesthetica Cosmetics Starting at $10
     *   Now Boarding: Stylish Luggage Up to 75% Off
     *   14K Gold Jewelry &. More Under $120
+    
     *   Tommy Hilfiger Men's Shoes
-    *   Hybrid Green Label Up to 75% Off
-    *   Timberland Kids
+    *   Coats Up to 75% Off
+    *   Slimming Shapers, Bodysuits &. More Up to 60% Off
     *   Natural Deodorants: Rollers &. Sprays
     *   Holiday Storage Solutions &. More
     *   Girls' Outerwear Up to 65% Off
     *   Boys' Outerwear Up to 65% Off
-    *   AG
-    *   AG Men
-    *   Kenneth Cole Reaction Suiting &. More Up to 70% Off
     *   Quickfit Furniture Covers Up to 45% Off
     *   Melissa &. Doug
     *   Korean Beauty: Huangjisoo
@@ -62,39 +85,40 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Wear to Work: Men's Oxfords &. Loafers
     *   Luxe Faux Fur Pillows &. More Up to 75% Off
     *   Koolaburra by UGG Kids
-    *   Bruno Magli
     *   Quirky &. Fun Towels, Coasters and More
-    
     *   Ode Natural Soaps, Scrubs &. More
     *   Food-Based Luxury Skin Care ft. BYROE
-    *   Men's SeaVees Up to 55% Off
     *   Smart Watch Bands &. More Up to 70% Off
-    *   AG Kids &. More Up to 65% Off
-    *   Fun Valentine's Day Gifts for Her from $15
-    *   Anthropologie Home
-    *   Designer Spotlight ft. BOSS Women's Clothing
-    *   Gracia
-    *   Comforter Sets &. Throws from $40
-    *   Bobeau Incl. Plus &. Petites
-    *   Free Shipping: Removable Wallpaper, Decals &. More
-    *   Cover-Ups ft. Elan &. More
-    *   Coats Up to 75% Off
-    *   Slimming Shapers, Bodysuits &. More Up to 60% Off
     *   Live Sweetly: Candy Club Treats
+    *   Fun Valentine's Day Gifts for Her from $15
+    *   Comforter Sets &. Throws from $40
+    *   Support System: Active Socks
+    *   Hybrid Green Label Up to 75% Off
+    *   Timberland Kids
+    *   AG Kids &. More Up to 65% Off
     *   Stylish, Contemporary Humidifiers &. Diffusers
-    *   Be Mine: Candles, Gifts &. More from $15
-    *   The Art Shop: Framed Art Up to 80% Off
-    *   Bluetooth Solutions: Headphones &. More
-    *   Ramy Brook
-    *   La Blanca Swimwear &. More
-    *   Getaway Gear: Soft Pants, Tops &. More
-    *   Trend Alert: Utility Chic Incl. Plus &. Petites
-    *   ORA Derma Roller &. Microdermabrasion Tools
-    *   Sarah Maxwell Daily Lash Ritual
     *   Free Shipping: Luxe Bedding Up to 85% Off
-    *   Quality Cookware Starting at $15
+    *   Free Shipping: Removable Wallpaper, Decals &. More
+    *   Tahitian Pearl Jewelry &. More Under $90
 *   WomenShop Sale Events
     
+    *   50-70% Off: Sterling Forever x @michelletakeaim
+    *   Our Favorite Brands Up to 70% Off ft. Love Token
+    *   Sweater Steals Under $30
+    *   Booties &. More Up to 65% Off
+    *   Burberry Women Up to 60% Off
+    *   Burberry Handbags &. Shoes
+    *   Burberry Accessories Up to 50% Off
+    *   Frye and Frye &. Co. Up to 60% Off
+    *   Max Studio Incl. Plus
+    *   Gentle Skin Care: Declare Switzerland
+    *   Sosken &. More
+    *   Dress Forum
+    *   Exclusively Ours: Styles Incl. Plus &. Petites
+    *   Burberry Fragrances Up to 50% Off
+    *   Sugarlips Starting at $25
+    *   Date Night Pumps &. More Up to 60% Off
+    *   Lafonn Jewelry Up to 65% Off
     *   T Tahari Incl. Plus &. Petites
     *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
     *   adidas Activewear
@@ -103,43 +127,31 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Resort Worthy: Maxi Dresses
     *   Women's Fragrances Under $50
     *   Jessica Simpson Bags Up to 70% Off
-    *   Slingbacks &. Slides Up to 60% Off
+    
     *   Sandals, Pumps &. More from $40
-    *   Flip-Flops Up to 50% Off
     *   Fresh Finds: Booties &. More Up to 60% Off
-    *   Support System: Active Socks
     *   Roberto Cavalli Watches &. More Up to 70% Off
-    *   Tahitian Pearl Jewelry &. More Under $90
     *   Luxe Skin Care from $20
-    *   Sharagano &. Nina Leonard Dresses
+    *   Flip-Flops Up to 50% Off
+    *   Slingbacks &. Slides Up to 60% Off
     *   Rachel Roy Collection Up to 75% Off Incl. Plus
     *   Madewell Starting at $25 Incl. Plus
     *   Electric Yoga &. More Up to 65% Off
     *   Madewell Handbags &. Accessories Up to 50% Off
     *   Layer on the Trends: Jealous Tomato &. More
-    
     *   Fab Finds: Styles Under $25 Incl. Plus &. Petites
     *   Wanderlust Ready: Resort Sandals
     *   Aesthetica Cosmetics Starting at $10
     *   Now Boarding: Stylish Luggage Up to 75% Off
     *   14K Gold Jewelry &. More Under $120
+    *   Coats Up to 75% Off
+    *   Slimming Shapers, Bodysuits &. More Up to 60% Off
     *   Natural Deodorants: Rollers &. Sprays
-    *   AG
     *   Korean Beauty: Huangjisoo
     *   Ode Natural Soaps, Scrubs &. More
     *   Food-Based Luxury Skin Care ft. BYROE
-    *   Designer Spotlight ft. BOSS Women's Clothing
-    *   Gracia
-    *   Bobeau Incl. Plus &. Petites
-    *   Cover-Ups ft. Elan &. More
-    *   Coats Up to 75% Off
-    *   Slimming Shapers, Bodysuits &. More Up to 60% Off
-    *   Ramy Brook
-    *   La Blanca Swimwear &. More
-    *   Getaway Gear: Soft Pants, Tops &. More
-    *   Trend Alert: Utility Chic Incl. Plus &. Petites
-    *   ORA Derma Roller &. Microdermabrasion Tools
-    *   Sarah Maxwell Daily Lash Ritual
+    *   Support System: Active Socks
+    *   Tahitian Pearl Jewelry &. More Under $90
     
     Shop By Category
     *   Clothing
@@ -151,21 +163,22 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   MenShop Sale Events
     
+    *   Men's Shoes Up to 65% Off
+    *   Gear Up: Super Bowl-Ready Styles from $17
+    *   Burberry Men Up to 50% Off
+    *   Frye Men Up to 55% Off
+    *   Essential Extras: Men's Accessories Up to 70% Off
     *   adidas Men's Activewear
     *   Men's Denim Under $50 ft. BLANKNYC
     *   Roberto Cavalli Watches &. More Up to 70% Off
+    
     *   Crevo
     *   TOMS Men Up to 50% Off
     *   Peter Millar Up to 60% Off
     *   Tommy Hilfiger Men's Shoes
-    
-    *   Hybrid Green Label Up to 75% Off
-    *   AG Men
-    *   Kenneth Cole Reaction Suiting &. More Up to 70% Off
     *   Kenneth Cole Reaction Men's Shoes
     *   Wear to Work: Men's Oxfords &. Loafers
-    *   Bruno Magli
-    *   Men's SeaVees Up to 55% Off
+    *   Hybrid Green Label Up to 75% Off
     
     Shop By Category
     *   Shoes
@@ -174,14 +187,18 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Watches
 *   KidsShop Sale Events
     
+    *   Burberry Kids Up to 50% Off
+    *   Baby Essentials: Diaper Bags, Blankets &. More
+    *   Sleep Tight: Kids' Pajamas Up to 60% Off
     *   Ready for the Dance: Dresses &. Shoes ft. Zunie
     *   TOMS Kids Starting at $20
     *   Sovereign Code Kids Up to 60% Off
-    *   Timberland Kids
+    
     *   Girls' Outerwear Up to 65% Off
     *   Boys' Outerwear Up to 65% Off
     *   Melissa &. Doug
     *   Koolaburra by UGG Kids
+    *   Timberland Kids
     *   AG Kids &. More Up to 65% Off
     
     Shop By Category
@@ -191,45 +208,46 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Boys' Sizes 8-20
     *   Baby Girl
     *   Toy Shop
-    *   Girls' Shoes
     *   Baby Boy
+    *   Girls' Shoes
     *   Boys' Shoes
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Luxe Faux: Donna Salyers' Fabulous Furs Blowout
+    *   Free Shipping: BergHOFF Up to 55% Off
+    *   Bedding &. Bath Essentials Up to 50% Off
     *   Free Shipping: Quilts, Comforters &. More
     *   Free Shipping: Wall Decor &. Accents
     *   Now Boarding: Stylish Luggage Up to 75% Off
     *   Holiday Storage Solutions &. More
     *   Quickfit Furniture Covers Up to 45% Off
     *   Luxe Faux Fur Pillows &. More Up to 75% Off
+    
     *   Quirky &. Fun Towels, Coasters and More
     *   Smart Watch Bands &. More Up to 70% Off
-    *   Fun Valentine's Day Gifts for Her from $15
-    *   Anthropologie Home
-    
-    *   Comforter Sets &. Throws from $40
-    *   Free Shipping: Removable Wallpaper, Decals &. More
     *   Live Sweetly: Candy Club Treats
+    *   Fun Valentine's Day Gifts for Her from $15
+    *   Comforter Sets &. Throws from $40
     *   Stylish, Contemporary Humidifiers &. Diffusers
-    *   Be Mine: Candles, Gifts &. More from $15
-    *   The Art Shop: Framed Art Up to 80% Off
-    *   Bluetooth Solutions: Headphones &. More
     *   Free Shipping: Luxe Bedding Up to 85% Off
-    *   Quality Cookware Starting at $15
+    *   Free Shipping: Removable Wallpaper, Decals &. More
     
     Shop By Category
-    *   Home Decor
     *   Bedding
+    *   Home Decor
     *   Kitchen &. Tabletop
     *   Luggage &. Travel
     *   Pet Accessories
     *   Cleaning &. Organization
-    *   Electronic &. Tech Accessories
+    *   Bath
     *   Holiday Decorations
     *   Rugs &. Doormats
-    *   Bath
+    *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Gentle Skin Care: Declare Switzerland
+    *   Burberry Fragrances Up to 50% Off
     *   Women's Fragrances Under $50
     *   Luxe Skin Care from $20
     *   Aesthetica Cosmetics Starting at $10
@@ -237,12 +255,10 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Korean Beauty: Huangjisoo
     *   Ode Natural Soaps, Scrubs &. More
     *   Food-Based Luxury Skin Care ft. BYROE
-    *   ORA Derma Roller &. Microdermabrasion Tools
-    *   Sarah Maxwell Daily Lash Ritual
     
     Shop By Category
-    *   Fragrance
     *   Skin Care
+    *   Fragrance
     *   Makeup
     *   Bath &. Body
     *   Tools &. Accessories
