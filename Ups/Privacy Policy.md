@@ -1,8 +1,4 @@
-1/1
-
-*   Severe Weather Impacting Areas of the Upper Midwest...More
-
-Close Skip To Main Content
+Skip To Main Content
 
 *   Log In
 *   Sign Up
