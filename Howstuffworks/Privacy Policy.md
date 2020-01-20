@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksBrace Yourself: Bananas Are Berries, Strawberries Aren't1STWhy Is the Tropic of Cancer Important?2NDGelatinous, Squishy Mochi Is Having a Moment3RDWhat's the Difference Between Baking Soda and Baking Powder?4THKelley Blue Book | Sponsored10 Most Fuel Efficient SUVsKelley Blue Book | SponsoredThedelite | SponsoredBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite | SponsoredLuxury Cruises | Search Ads | SponsoredYou've Never Seen Luxury Like This On A Cruise Ship. Research Luxury Mediterranean CruisesLuxury Cruises | Search Ads | SponsoredObsev | SponsoredDiver Opens 340-Year-Old Jar, Looks Closer And Drops To His KneesObsev | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksIt Took a Court to Decide Whether Pringles Are Potato Chips1STThe Smiley Quokka Is an Australian Super Survivor2NDWhat's the Difference Between Baking Soda and Baking Powder?3RDTry Ghee, the 'Liquid Gold' Better Than Butter4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredHearTech Labs | SponsoredForget Prescription Hearing Aids Use This InsteadHearTech Labs | SponsoredGreeningz | SponsoredHilarious Teachers Caught On CameraGreeningz | SponsoredYourBump | SponsoredIf You Have Any Of These 29 Toys Around, You Just Became RichYourBump | Sponsored
 
 Advertisement
 
-animals - petsBengal Cats Are Mini Leopard Hybrid HousecatsBY Mark Mancinihome &. garden - appliancesWhat's the Difference Between Toilet Paper and Tissue?BY Laurie L. Dovescience - innovationThe 'SnotBot' Drone Is Making Scientific Research Easier on WhalesBY Jesslyn ShieldsHearTech Labs | SponsoredForget Prescription Hearing Aids Use This InsteadHearTech Labs | SponsoredThe Grizzled | Sponsored\[50 Photos\] A-10 Warthog Facts You May Not KnowThe Grizzled | Sponsored
+culture - historyA Portrait of Jimmy Carter, America's Oldest Living President EverBY Carrie Whitney, Ph.D.lifestyle - foodBrace Yourself: Bananas Are Berries, Strawberries Aren'tBY Michelle Konstantinovskyculture - historyThe Story of Eric Rudolph, the Real 1996 Olympic Park BomberBY John DonovanThedelite | SponsoredBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite | SponsoredSeniors Vacations | SponsoredAll-Inclusive Adults-Only Vacations That Are Simply Astonishing! Search For Jamaica Vacation All Inclusive Adults OnlySeniors Vacations | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksIt Took a Court to Decide Whether Pringles Are Potato ChipsIs There Really a Cork Crisis?How Artificial Intelligence Is Totally Changing EverythingTry Ghee, the 'Liquid Gold' Better Than ButterHow Morse Code Works and Still Lives On in the Digital AgeA Portrait of Jimmy Carter, America's Oldest Living President Everby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhy Is the Tropic of Cancer Important?When Should You Refinance Your Mortgage?Why Aren't Seat Belts Required on All School Buses?Lions, Tigers and … Ligers? Oh My!The 'SnotBot' Drone Is Making Scientific Research Easier on WhalesBengal Cats Are Mini Leopard Hybrid Housecatsby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2020 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Brace Yourself: Bananas Are Berries, Strawberries Aren'tRead Next StoryKelley Blue Book10 Most Fuel Efficient SUVsKelley Blue Book|SponsoredSponsoredRead Next StoryThedeliteBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. It Took a Court to Decide Whether Pringles Are Potato ChipsRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StoryHearTech LabsForget Prescription Hearing Aids Use This InsteadHearTech Labs|SponsoredSponsoredRead Next Story
