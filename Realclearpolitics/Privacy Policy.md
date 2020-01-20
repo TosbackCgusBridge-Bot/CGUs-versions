@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Tyler Cowen_: Round One Goes to Trump in U.S.-China Trade Battle
+*   _Liz Peek_: Desperate Democrats Badmouth Economy Even as It Booms
     
-*   _Zachary Karabell_: The U.S.-China Trade Deal Was Not Even a Modest Win
+*   _Robert Reich_: Trump's Working Class Supporters Less Secure Than Ever
     
-*   _Daniel McCarthy_: Why Are Democrats Committing Constitutional Suicide?
+*   _Amy Davidson Sorkin_: Are Dems Ready for Trump's Impeachment Trial?
     
-*   _Joe Lockhart_: Trump's Circus of Defense Lawyers
+*   _Byron York_: Two Deceptions at Heart of Democrats' Impeachment Brief
     
-*   _Conrad Black_: The Final Doomed Effort to Undo 2016 Election
+*   _Nina Turner_: Sanders Stands Up for African Americans, Biden Let Us Down
     
-*   _Albert Hunt_: All the Dem Frontrunners Could Survive Initial Iowa Test
+*   _Tucker Carlson_: 2020 Democrats Want Country to Be More Like California
     
-*   _David Axelrod_: When Clinton and Obama Had THEIR Meltdown
+*   _Andy Kroll_: Hackers Are Coming for 2020 Election--&. We're Not Ready
     
-*   _Tristan Justice_: Are Democrats Rigging Iowa Against Sanders Again?
+*   _David Simon_: Global Warming Is a Non-Problem That Warrants No Action
     
-*   _Anna North_: The Women's Marches Are Shrinking. Their Influence Isn't.
+*   _Michael Sainato_: Fighting the Fossil Fuel Economy in Appalachia
     
-*   _Maureen Ferguson_: Is Abortion Necessary for Women's Equality?
+*   _Robert Blackwill_: Energizing Diplomacy With China
     
-*   _Helen Lewis_: Meghan, Kate and the Architecture of Misogyny
+*   _Heather Mac Donald_: Ethnic Studies 101: Playing the Victim
     
-*   _Willis Krumholz_: How Trump Can Triple His Support Among Black Voters
+*   _Jamal Simmons_: The Test Elizabeth Warren Needs
     
-*   _Noah Berlatsky_: Racist Republican Voters May Be Violating Constitution
+*   _Roger Kimball_: Democrats Consume Themselves
     
-*   _Brian Bennett_: Inside Jared Kushner's Unusual White House Role
+*   _Libby Watson_: Let Democrats Fight Each Other!
     
-*   _Julie Kelly_: Michael Flynn: A Real Obama Era Whistleblower
+*   _David Harsanyi_: The Democrats' Economic Message Is Preposterous
     
-*   _Michael Bociurkiw_: Trump Can't Dodge the GAO Report Bombshell
+*   _Joseph Stiglitz_: The Truth About the Trump Economy
     
-*   _Alan Dershowitz_: Trump Had Right to Withhold Funds: GAO Is Wrong
+*   _Cora Mandy_: Impeachment Crusade Blinds Media to Trump Accomplishments
     
-*   _Michael Zeldin_: Senators, Abide by Your Oath to Do Impartial Justice
+*   _Jonathan Freedland_: The Impeachment Case Against Trump Is Strong
     
-*   _Roger Kimball_: If Senate Dems Were Impartial, They'd Toss Out the Case
+*   _Andrew McCarthy_: The Hole in the Impeachment Case
     
-*   _Timothy Egan_: Trump's Evil Is Contagious
+*   _Julian Zelizer_: What's Behind Dershowitz's Brazen Claims in Defense of Trump
     
-*   _Susan Crabtree_: A Tale of 2 Whistleblowers: One Protected, One Not
+*   _Kyle Smith_: Pelosi Is Set to Become Trump's Stooge
     
-*   _Tom McTague_: Did Trump Stumble Into a Foreign-Policy Triumph?
+*   _Carolyn Kormann_: Will Morrison Accept the Reality of the Climate Crisis?
     
-*   _Liz Harrington_: Collateral Damage From Killing Soleimani: Dems' Minds
+*   _Rupert Darwall_: Climate 'Religion' Is Fueling Australia's Wildfires
     
-*   _Janan Ganesh_: Biden Represents a Portal to the Past for U.S. Allies
+*   _Thomas Wright_: Taiwan Stands Up to Xi: How China Miscalculated
     
 
 *   Previous
@@ -253,6 +253,16 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
+*   New Jersey Democratic Presidential PrimaryEmerson
+    *   Biden28
+    *   Sanders25
+    *   Warren15
+    *   Bloomberg9
+    *   Buttigieg6
+    *   Yang6
+    *   Klobuchar4
+    *   Gabbard3
+    *   Delaney2Biden +3
 *   2020 Democratic Presidential NominationSurveyUSA
     *   Biden32
     *   Sanders21
@@ -286,9 +296,6 @@ Latest PollsAll Polls
     *   Steyer4
     *   Gabbard2
     *   Klobuchar2Biden +10
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve49
-    *   Disapprove50Disapprove +1
 
 More Latest Polls In The News
 
