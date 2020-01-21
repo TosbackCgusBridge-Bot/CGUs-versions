@@ -28,30 +28,40 @@ Save SettingsAllow All
 *   Mortgages Get the Best Rates
     
     *   Mortgage rates
-    *   Refinance rates
     *   30-year mortgage rates
-    *   15-year mortgage rates
     *   20-year mortgage rates
+    *   15-year mortgage rates
     *   10-year mortgage rates
-    *   Mortgage lender reviews
+    *   FHA loan rates
+    *   VA loan rates
+    
+    Refinance your Mortgage
+    
+    *   Refinance rates
+    *   FHA refinance rates
+    *   VA refinance rates
     
     Use Calculators
     
     *   Mortgage calculator
-    *   How much house can you afford?
     *   Mortgage refinance calculator
-    *   Mortgage payment calculator
+    *   How much house can you afford?
     *   Amortization calculator
+    *   Mortgage payment calculator
+    *   Interest only mortgage calculator
+    *   Mortgage tax deduction calculator
+    *   Loan to value calculator
     *   All mortgage calculators
     
-    Get Advice
-    *   What to know about reverse mortgages
-    *   Home buying guide
-    *   Refinance your mortgage
-    *   First-time homebuyer loans and programs
-    *   Prepaying your mortgage
-    *   Your guide to FHA loans
-    *   Everything to know about VA loans
+    Learn &. Get Advice
+    *   Understanding current interest rates
+    *   Where rates are trending
+    *   How to get the best mortgage rate
+    *   APR vs. Interest rate
+    *   First time homebuyer loans and programs
+    *   When to pay off your mortgage early
+    *   How to refinance your mortgage
+    *   Mortgage Lender Reviews
 *   Homes Home Buying
     
     *   Determine your budget
