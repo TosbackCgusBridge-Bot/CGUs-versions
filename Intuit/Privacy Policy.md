@@ -21,24 +21,24 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBack    UP TO 60% OFF + Extra 10% off with coupon Furniture | select styles | Furniture available online only.  
+Near YouFind a StoreBackFinal Hours Of COUPON CODE MLKDAYENDS IN00HOURS 41MINS 23SECS See Details\*Extra 30% off select apparel, shoes, accessories, fine jewelry and home purchases of $100 or more. Extra 25% off select purchases under $100. Extra 10% off furniture, mattresses, housewares, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches and salon products. Each offer good at jcp.com only, excluding taxes and shipping charges, 1/20/20. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Best Value, Daily Deals, Limited Time Specials, Levi's, Denizen from Levi’s, Disney Collection, Disney Tsum Tsum, French Toast, Fisher-Price, Fanatics, Licensed Team Sports Merchandise, Columbia, Carhartt, Nike, adidas, Reebok, Puma, Champion, Converse, Clarks, Skechers Women's Shoes, Skechers Athletic Shoes, Bobs from Skechers, Keds, Grasshoppers, Athletic Shoes, Goddess Lingerie, Dreamgirl, Jewelry Trunk Shows, Modern Bride Design Your Dream Ring, Pre-Owned Watches, Smartwatches, Garmin, Fitbit, Sephora, Food, Penney Lane, S'ip by S'well, Electronics, Brookstone, Sharper Image, In-Home Custom Design, Tempur-Pedic, Neato Robotics, iRobot, Sporting Goods/Outdoor Gear, Toys, Baby Gear, Personalized Jewelry, Wigs and Extensions, Purchase with Purchase Items, In-Store Services, Service Plans, Gift Cards, Closing Store purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code MLKDAY when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. Details    UP TO 60% OFF + Extra 10% off with coupon Furniture | select styles | Furniture available online only.  
 UP TO 60% OFF + Extra 10% off with coupon Mattresses | select styles  
 19.99 Juniors’ Arizona jeans select styles | reg. $42  
 19.99 Guys’ Arizona flex jeans select styles | reg. $42  
 9.99 Boys’ Arizona jeans select styles | reg. $30  
 14.99 Girls’ Arizona fashion jeans or jeggings select styles | reg. $30  
-SHOP THE LOCAL LOOK JCPenney is teaming up with fashion and lifestyle influencers to bring you a curated selection of their top picks. Check back every month to see new styles.  
+$19FENTY BEAUTY BY RIHANNAGloss Bomb Universal Lip Luminizer$39Laura Mercier TranslucentLoose Setting Powder$58-$134DOLCE &. GABBANALight Blue fragrance$20-$45Sol de Janeiro Brazilian Bum Bum CreamSHOP THE LOCAL LOOK JCPenney is teaming up with fashion and lifestyle influencers to bring you a curated selection of their top picks. Check back every month to see new styles.  
 SHOP NOW Shop our curated collection of tees, hair products and makeup—designed just for you.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 28 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
 *   SPECIAL DEAL!
     
-    $1869after couponwas $110 Liz Claiborne Womens Tilia Riding Boots Stacked Heel(31)
-*   $1869after couponwas $44 St. John's Bay Womens Mid Rise Straight Leg Jean(2062)
-*   $1499 - $7499after couponwas $60 - $209 400tc Wrinkle Guard Deep Pocket Sheet Set - JCPenney Home(2876)
-*   $2624 - $5249after couponwas $70 - $140 Liz Claiborne Quinn Basketweave Room-Darkening Grommet Top Single Curtain Panel(624)
-*   $1529 - $3740after couponStafford Travel Wrinkle-Free Stretch Oxford Mens Button Down Collar Long Sleeve Dress Shirt(242)
-*   $149 - $1274after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(495)
+    $1649after coupon$110$110sale $21.99$1649 with code MLKDAYLiz Claiborne Womens Tilia Riding Boots Stacked Heel(32)
+*   $1499 - $7499after coupon$60 - $209sale $19.99 - $99.99$1499 - $7499 with code MLKDAY400tc Wrinkle Guard Deep Pocket Sheet Set - JCPenney Home(2876)
+*   $1649after coupon$44$44sale $21.99$1649 with code MLKDAYSt. John's Bay Womens Mid Rise Straight Leg Jean(2064)
+*   $2624 - $5249after coupon$70 - $140sale $34.99 - $69.99$2624 - $5249 with code MLKDAYLiz Claiborne Quinn Basketweave Room-Darkening Grommet Top Single Curtain Panel(625)
+*   $149 - $1274after coupon$6 - $48sale $1.99 - $16.99$149 - $1274 with code MLKDAYHome Expressions Solid or Stripe Bath Towel Collection(495)
+*   $1349 - $33after coupon$17.99 - $44$1349 - $33 with code MLKDAYStafford Travel Wrinkle-Free Stretch Oxford Mens Button Down Collar Long Sleeve Dress Shirt(242)
 
 Shop and Save at JCPenney
 
