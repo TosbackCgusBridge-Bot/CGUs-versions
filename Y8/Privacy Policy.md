@@ -3,16 +3,16 @@
 *   games
 *   videos
 
-New Games Next in  00:00
+New Games Next in  11:07
 
-*   By Date Next addition in 00:00
+*   By Date Next addition in 11:07
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more LIBRARY
 
-*   New Games Next in 00:00
-*   Best of new games 1327 games
+*   New Games Next in 11:07
+*   Best of new games 1334 games
 *   Most Popular Games 20326 games
 *   Played Games 0 games
 *   Liked Games 0 games
@@ -20,23 +20,23 @@ Categories &. more LIBRARY
 
 CATEGORIES
 
-*   Games for girls 24,221 games
-*   Driving &. Racing Games 6,271 games
-*   Strategy &. RPG Games 3,638 games
+*   Games for girls 24,220 games
+*   Driving &. Racing Games 6,273 games
+*   Strategy &. RPG Games 3,637 games
 *   Management &. Sim Games 4,249 games
 *   Thinking Games 12,507 games
-*   Action &. Adventure Games 14,748 games
-*   Sports Games 3,308 games
+*   Action &. Adventure Games 14,752 games
+*   Sports Games 3,309 games
 *   Shooting Games 8,998 games
-*   Fighting Games 2,096 games
-*   Skill Games 10,883 games
-*   Arcade &. Classic Games 8,854 games
+*   Fighting Games 2,095 games
+*   Skill Games 10,882 games
+*   Arcade &. Classic Games 8,857 games
 *   Fun &. Crazy Games 4,785 games
 
 Play with friends  
-Powered by Y8 Account 131 Y8 Multiplayer Games 2,170 Y8 High Score Games 1,218 Y8 Achievements Games 856 Y8 Screenshots Games 1,589 Y8 Online Save Games 3,305 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 130 Y8 Multiplayer Games 2,170 Y8 High Score Games 1,218 Y8 Achievements Games 856 Y8 Screenshots Games 1,588 Y8 Online Save Games 3,304 All Y8 Games Games Last Highscore:
 
-**22,144** points on Crime City 3D 2 by stem
+**383** points on Rocket Clash 3D by Ruther
 
 Help us improve Bad translation? Social
 
