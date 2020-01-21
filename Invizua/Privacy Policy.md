@@ -1,3 +1,9 @@
+We use cookies to ensure the best experience on our website. If you continue to use our site we will assume you consent. To find out more see our Privacy Policy.
+
+If you decline, your information won’t be tracked. A single cookie will be used to remember your preference.
+
+AcceptDecline
+
 *   Home
 *   Products
     *   Omniscope Classic
