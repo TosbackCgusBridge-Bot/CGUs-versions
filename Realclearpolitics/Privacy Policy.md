@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Liz Peek_: Desperate Democrats Badmouth Economy Even as It Booms
+*   _Albert Hunt_: Will McConnell Be an Asset for Democrats in the Fall?
     
-*   _Robert Reich_: Trump's Working Class Supporters Less Secure Than Ever
+*   _Rebecca Grant_: None of the Dem Candidates Are Ready to Be President
     
-*   _Amy Davidson Sorkin_: Are Dems Ready for Trump's Impeachment Trial?
+*   _Damon Linker_: The Strongest Case for Joe Biden
     
-*   _Byron York_: Two Deceptions at Heart of Democrats' Impeachment Brief
+*   _Zephyr Teachout_: 'Middle Class' Joe Biden Has a Corruption Problem
     
-*   _Nina Turner_: Sanders Stands Up for African Americans, Biden Let Us Down
+*   _Scott MacDonald_: Phase One of Trump's Trade Deal Is a Win for U.S.
     
-*   _Tucker Carlson_: 2020 Democrats Want Country to Be More Like California
+*   _Ramesh Ponnuru_: Strong Economy Is in Spite of Tariffs, Not Because of Them
     
-*   _Andy Kroll_: Hackers Are Coming for 2020 Election--&. We're Not Ready
+*   _Derek Thompson_: Why Manhattan's Skyscrapers Are Empty
     
-*   _David Simon_: Global Warming Is a Non-Problem That Warrants No Action
+*   _Carl Cannon_: On January 20, Timeless Words That Echo From Past
     
-*   _Michael Sainato_: Fighting the Fossil Fuel Economy in Appalachia
+*   _Peter Van Buren_: The Covington Kids' Revenge, One Year Later
     
-*   _Robert Blackwill_: Energizing Diplomacy With China
+*   _Sean Illing_: How Misinformation Is Overwhelming Our Democracy
     
-*   _Heather Mac Donald_: Ethnic Studies 101: Playing the Victim
+*   _Rich Karlgaard_: Iran and China--Black Swans No One Mentions
     
-*   _Jamal Simmons_: The Test Elizabeth Warren Needs
+*   _Robert Kaplan_: Why the U.S.-China Cold War Will Be Different
     
-*   _Roger Kimball_: Democrats Consume Themselves
+*   _Suzanne Maloney_: Iran's Leaders Have a Problem They Can't Fix
     
-*   _Libby Watson_: Let Democrats Fight Each Other!
+*   _Julie Kelly_: Mendacity, Hubris and the Tragedy of Afghanistan
     
-*   _David Harsanyi_: The Democrats' Economic Message Is Preposterous
+*   _Maureen Dowd_: Starr Chamber: The Sequel
     
-*   _Joseph Stiglitz_: The Truth About the Trump Economy
+*   _Matthew Continetti_: Did Dems Learn Anything From Kavanaugh Fight?
     
-*   _Cora Mandy_: Impeachment Crusade Blinds Media to Trump Accomplishments
+*   _Asha Rangappa_: Trump Gets a Ukraine Probe, Just Not the One He Asked For
     
-*   _Jonathan Freedland_: The Impeachment Case Against Trump Is Strong
+*   _Peter Schweizer_: How 5 Biden Family Members Got Rich From His Connections
     
-*   _Andrew McCarthy_: The Hole in the Impeachment Case
+*   _Bill Scher_: Why a Unity Bid Didn't End the Sanders-Warren Rift
     
-*   _Julian Zelizer_: What's Behind Dershowitz's Brazen Claims in Defense of Trump
+*   _Betsy DeVos_: Religious Liberty in Our Schools Must Be Protected
     
-*   _Kyle Smith_: Pelosi Is Set to Become Trump's Stooge
+*   _Peggy Orenstein_: The Miseducation of the American Boy
     
-*   _Carolyn Kormann_: Will Morrison Accept the Reality of the Climate Crisis?
+*   _Libby Emmons_: New Rules Allow Men to Dominate Women's Sports
     
-*   _Rupert Darwall_: Climate 'Religion' Is Fueling Australia's Wildfires
+*   _Scott Segrest_: A Critical Defense of Common Sense
     
-*   _Thomas Wright_: Taiwan Stands Up to Xi: How China Miscalculated
+*   _Elliot Mincberg_: Why Courts Matter--and the Dangers of 'Trump Judges'
     
 
 *   Previous
@@ -253,6 +253,17 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
+*   Iowa Democratic Presidential CaucusFRA/David Binder (D)
+    *   Biden24
+    *   Sanders14
+    *   Warren18
+    *   Buttigieg16
+    *   Klobuchar11
+    *   Yang3
+    *   Booker
+    *   Steyer4
+    *   Gabbard1
+    *   Bloomberg1Biden +6
 *   New Jersey Democratic Presidential PrimaryEmerson
     *   Biden28
     *   Sanders25
@@ -263,47 +274,20 @@ Latest PollsAll Polls
     *   Klobuchar4
     *   Gabbard3
     *   Delaney2Biden +3
-*   2020 Democratic Presidential NominationSurveyUSA
-    *   Biden32
-    *   Sanders21
-    *   Warren14
-    *   Buttigieg9
-    *   Bloomberg9
-    *   Yang4
-    *   Klobuchar2
-    *   Steyer3
-    *   Gabbard2
-    *   Booker
-    *   BennetBiden +11
-*   New Hampshire Democratic Presidential PrimaryWHDH/Emerson
-    *   Sanders23
-    *   Biden14
-    *   Warren14
-    *   Buttigieg18
-    *   Klobuchar10
-    *   Gabbard5
-    *   Yang6
-    *   Steyer4
-    *   Booker
-    *   Bennet0Sanders +5
-*   California Democratic PrimaryKGTV-TV/SurveyUSA
-    *   Biden30
-    *   Sanders20
-    *   Warren20
-    *   Buttigieg8
-    *   Yang4
-    *   Bloomberg6
-    *   Steyer4
-    *   Gabbard2
-    *   Klobuchar2Biden +10
+*   President Trump Job ApprovalCNN
+    *   Approve45
+    *   Disapprove51Disapprove +6
+*   President Trump Job ApprovalGallup
+    *   Approve44
+    *   Disapprove54Disapprove +10
 
 More Latest Polls In The News
 
+*   Carlson: Debt Is Crushing An Entire Generation, Republicans Need A Plan Or They'll Be Left Behind
+*   CNN's Stelter to 'Media Matters' Writer: Is The "FOX Firewall" Holding Very Firm As Impeachment Trial Starts?
 *   GOP Sen. McSally Defends Calling CNN Reporter "Liberal Hack": "I Decided To Call A Liberal A Liberal"
 *   David Brooks: I Am Struck Dershowitz and Starr Joined Trump Defense, Schiff Will "Walk All Over Them"
 *   CNN's Cuomo on Sen. McSally: I Can't Believe People Would Vote For Her To Fill "McCain's Seat"
-*   Mark Levin to Republican "Weak Links": Your Job Is To Stop Democrats, Not Aid And Abet Them With Witnesses
-*   Michael Moore On Sanders-Warren Sexism Feud: Mark January 13 As "The Day Trump Was Re-Elected"
 
 *   Politics
 *   Policy
