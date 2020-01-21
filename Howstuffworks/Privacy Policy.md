@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksIt Took a Court to Decide Whether Pringles Are Potato Chips1STThe Smiley Quokka Is an Australian Super Survivor2NDWhat's the Difference Between Baking Soda and Baking Powder?3RDTry Ghee, the 'Liquid Gold' Better Than Butter4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredHearTech Labs | SponsoredForget Prescription Hearing Aids Use This InsteadHearTech Labs | SponsoredGreeningz | SponsoredHilarious Teachers Caught On CameraGreeningz | SponsoredYourBump | SponsoredIf You Have Any Of These 29 Toys Around, You Just Became RichYourBump | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksIt Took a Court to Decide Whether Pringles Are Potato Chips1STWhat's the Difference Between Baking Soda and Baking Powder?2NDWhy Is the Tropic of Capricorn Important?3RDBengal Cats Are Mini Leopard Hybrid Housecats4THReference | SponsoredThe controversial Scene That Took 'Gilligan's Island' Off AirReference | SponsoredHousehold Savings Tips | SponsoredNew Rule For Drivers Born Before 1969Household Savings Tips | SponsoredInfinitiKloud | SponsoredSmart USB Stick Backs Up Entire Computer (1 Click)InfinitiKloud | SponsoredCruises | SponsoredAffordable Luxury Cruises That Are Simply Astonishing!Cruises | Sponsored
 
 Advertisement
 
-culture - historyA Portrait of Jimmy Carter, America's Oldest Living President EverBY Carrie Whitney, Ph.D.lifestyle - foodBrace Yourself: Bananas Are Berries, Strawberries Aren'tBY Michelle Konstantinovskyculture - historyThe Story of Eric Rudolph, the Real 1996 Olympic Park BomberBY John DonovanThedelite | SponsoredBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite | SponsoredSeniors Vacations | SponsoredAll-Inclusive Adults-Only Vacations That Are Simply Astonishing! Search For Jamaica Vacation All Inclusive Adults OnlySeniors Vacations | Sponsored
+lifestyle - foodTry Ghee, the 'Liquid Gold' Better Than ButterBY Muriel Vegalifestyle - foodBrace Yourself: Bananas Are Berries, Strawberries Aren'tBY Michelle Konstantinovskyscience - innovationHow Morse Code Works and Still Lives On in the Digital AgeBY Mark ManciniThedelite | SponsoredBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhy Is the Tropic of Cancer Important?When Should You Refinance Your Mortgage?Why Aren't Seat Belts Required on All School Buses?Lions, Tigers and … Ligers? Oh My!The 'SnotBot' Drone Is Making Scientific Research Easier on WhalesBengal Cats Are Mini Leopard Hybrid Housecatsby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksCould an 'X17 Particle' Hint at a Fifth Force in the Universe?A Portrait of Jimmy Carter, America's Oldest Living President EverIs There Really a Cork Crisis?The Cornish Game Hen Is Neither Cornish Nor a HenDeaf, Blind and Determined: How Helen Keller Learned to CommunicateThe 'SnotBot' Drone Is Making Scientific Research Easier on Whalesby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2020 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. It Took a Court to Decide Whether Pringles Are Potato ChipsRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StoryHearTech LabsForget Prescription Hearing Aids Use This InsteadHearTech Labs|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. It Took a Court to Decide Whether Pringles Are Potato ChipsRead Next StoryReferenceThe controversial Scene That Took 'Gilligan's Island' Off AirReference|SponsoredSponsoredRead Next StoryHousehold Savings TipsNew Rule For Drivers Born Before 1969Household Savings Tips|SponsoredSponsoredRead Next Story
