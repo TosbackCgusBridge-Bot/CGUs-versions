@@ -215,22 +215,22 @@ Attention: Chief Digital Officer
     *   Recent
     
     *   No immediate cyberthreat seen over Soleimani killing, but preparation is key
-    *   Google reportedly suspends integrations with Xiaomi smart camera due to software bug
-    *   Facebook deepfakes ban falls short, lawmakers say
     *   Mozilla patches exploited zero-day flaw in Firefox
-    *   Cyberattack hits Las Vegas on opening day of CES
+    *   Iran and the six important things happening now leading to a resilient critical infrastructure
+    *   NSA reveals to Microsoft critical Windows 10 flaw
+    *   Apple scans iCloud content for child sexual abuse photos, privacy chief says
     
-    *   The psychology of ransomware
-    *   PlanetDrugsDirect breached, PHI and payment info exposed.
-    *   Senate bill aimed at creating cybersecurity coordinators in states
     *   Sodinokibi ransomware ID'd as cause of Travelex business disruptions
+    *   Nemty ransomware makers may be latest to adopt data leak strategy
+    *   Iran and the six important things happening now leading to a resilient critical infrastructure
     *   Mozilla patches exploited zero-day flaw in Firefox
+    *   Experiential learning - the key to forgetting about the Forgetting Curve
     
+    *   Betting firms given access to info on 28M minors in U.K. gov't education database
+    *   Get ahead of the cybersecurity curve
+    *   Travelex recovering from ransomware, but more firms at risk of VPN exploit
+    *   FBI policy promises states timely notification of election-related attacks
     *   Ransomware attack cost New Orleans $7 million and counting
-    *   Trump urges Apple to unlock Pensacola gunman's iPhones
-    *   Report: FBI issues alert after two municipalities hacked via SharePoint
-    *   Senate bill aimed at creating cybersecurity coordinators in states
-    *   Equifax class action suit settled
 
 Back to Top
 
@@ -262,4 +262,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+
+You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
