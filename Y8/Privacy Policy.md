@@ -3,17 +3,17 @@
 *   games
 *   videos
 
-New Games Next in  11:07
+New Games Next in  00:00
 
-*   By Date Next addition in 11:07
+*   By Date Next addition in 00:00
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more LIBRARY
 
-*   New Games Next in 11:07
-*   Best of new games 1334 games
-*   Most Popular Games 20326 games
+*   New Games Next in 00:00
+*   Best of new games 1337 games
+*   Most Popular Games 20336 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -21,22 +21,22 @@ Categories &. more LIBRARY
 CATEGORIES
 
 *   Games for girls 24,220 games
-*   Driving &. Racing Games 6,273 games
+*   Driving &. Racing Games 6,274 games
 *   Strategy &. RPG Games 3,637 games
-*   Management &. Sim Games 4,249 games
-*   Thinking Games 12,507 games
-*   Action &. Adventure Games 14,752 games
-*   Sports Games 3,309 games
-*   Shooting Games 8,998 games
-*   Fighting Games 2,095 games
-*   Skill Games 10,882 games
-*   Arcade &. Classic Games 8,857 games
+*   Management &. Sim Games 4,248 games
+*   Thinking Games 12,508 games
+*   Action &. Adventure Games 14,757 games
+*   Sports Games 3,308 games
+*   Shooting Games 9,004 games
+*   Fighting Games 2,096 games
+*   Skill Games 10,884 games
+*   Arcade &. Classic Games 8,863 games
 *   Fun &. Crazy Games 4,785 games
 
 Play with friends  
-Powered by Y8 Account 130 Y8 Multiplayer Games 2,170 Y8 High Score Games 1,218 Y8 Achievements Games 856 Y8 Screenshots Games 1,588 Y8 Online Save Games 3,304 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 136 Y8 Multiplayer Games 2,181 Y8 High Score Games 1,223 Y8 Achievements Games 856 Y8 Screenshots Games 1,598 Y8 Online Save Games 3,318 All Y8 Games Games Last Highscore:
 
-**383** points on Rocket Clash 3D by Ruther
+**50,960** points on Throne Defender by Dobryak
 
 Help us improve Bad translation? Social
 
