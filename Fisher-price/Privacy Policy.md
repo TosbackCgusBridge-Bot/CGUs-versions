@@ -715,11 +715,12 @@ Helpful Links
 *   Recall Information
 *   Modern Slavery Act Transparency Statement
 *   Submit Product Ideas
-*   Updated Privacy Statement
+*   Terms &. Conditions
 
 Follow Mattel
 
-*   Terms &. Conditions
+*   Updated Privacy Statement
+*   Cookies &. Technologies
 *   Do Not Sell My Personal Information (ADCHOICES)
 *   © 2019 Mattel. All Rights Reserved
 
