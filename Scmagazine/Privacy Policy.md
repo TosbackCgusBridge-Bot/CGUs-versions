@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   No immediate cyberthreat seen over Soleimani killing, but preparation is key
-    *   Mozilla patches exploited zero-day flaw in Firefox
-    *   Iran and the six important things happening now leading to a resilient critical infrastructure
-    *   NSA reveals to Microsoft critical Windows 10 flaw
+    *   Microsoft warns attackers are exploiting zero day in IE scripting engine
+    *   Hacker leaks more than 515,000 Telnet credentials in forum
+    *   Federally funded Unimax smartphone pre-loaded with malware
+    *   Trump urges Apple to unlock Pensacola gunman's iPhones
+    *   Cyberattack hits Las Vegas on opening day of CES
+    
+    *   Broadcom flips Symantec to Accenture Security
+    *   Adobe rolls out a light Patch Tuesday offering
+    *   Renewed Emotet phishing activity targets UN, government and military users
+    *   Attackers distill essence of Mirai IoT botnet into LiquorBot malware
     *   Apple scans iCloud content for child sexual abuse photos, privacy chief says
     
-    *   Sodinokibi ransomware ID'd as cause of Travelex business disruptions
-    *   Nemty ransomware makers may be latest to adopt data leak strategy
-    *   Iran and the six important things happening now leading to a resilient critical infrastructure
-    *   Mozilla patches exploited zero-day flaw in Firefox
-    *   Experiential learning - the key to forgetting about the Forgetting Curve
-    
+    *   FTCODE ransomware acquires info-stealing powers
+    *   Application isolation and virtualization provide a false sense of cybersecurity
+    *   Microsoft warns attackers are exploiting zero day in IE scripting engine
+    *   Hacker leaks more than 515,000 Telnet credentials in forum
     *   Betting firms given access to info on 28M minors in U.K. gov't education database
-    *   Get ahead of the cybersecurity curve
-    *   Travelex recovering from ransomware, but more firms at risk of VPN exploit
-    *   FBI policy promises states timely notification of election-related attacks
-    *   Ransomware attack cost New Orleans $7 million and counting
 
 Back to Top
 
@@ -262,8 +262,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
 
-You can skip this ad in 1 seconds.
+You can skip this ad in 2 seconds.
 
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
