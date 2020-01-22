@@ -209,11 +209,11 @@ Last Updated On: 04/29/2019
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksIt Took a Court to Decide Whether Pringles Are Potato Chips1STWhat's the Difference Between Baking Soda and Baking Powder?2NDWhy Is the Tropic of Capricorn Important?3RDBengal Cats Are Mini Leopard Hybrid Housecats4THReference | SponsoredThe controversial Scene That Took 'Gilligan's Island' Off AirReference | SponsoredHousehold Savings Tips | SponsoredNew Rule For Drivers Born Before 1969Household Savings Tips | SponsoredInfinitiKloud | SponsoredSmart USB Stick Backs Up Entire Computer (1 Click)InfinitiKloud | SponsoredCruises | SponsoredAffordable Luxury Cruises That Are Simply Astonishing!Cruises | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksWhy Is the Tropic of Cancer Important?1STWhat's the Difference Between Baking Soda and Baking Powder?2NDWhy Aren't Seat Belts Required on All School Buses?3RDTry Ghee, the 'Liquid Gold' Better Than Butter4THWikibuy | SponsoredThe Dead Giveaway That Tells You When Amazon’s Giving You A Better Price Than Other RetailersWikibuy | SponsoredKelley Blue Book | Sponsored10 Electric Cars That Last the LongestKelley Blue Book | SponsoredChevrolet Silverado | Search Ads | SponsoredThe New Chevrolet Silverado Is Simply Astonishing!Chevrolet Silverado | Search Ads | SponsoredSoGoodly | SponsoredThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly | Sponsored
 
 Advertisement
 
-lifestyle - foodTry Ghee, the 'Liquid Gold' Better Than ButterBY Muriel Vegalifestyle - foodBrace Yourself: Bananas Are Berries, Strawberries Aren'tBY Michelle Konstantinovskyscience - innovationHow Morse Code Works and Still Lives On in the Digital AgeBY Mark ManciniThedelite | SponsoredBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite | SponsoredWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | Sponsored
+science - innovationHow Morse Code Works and Still Lives On in the Digital AgeBY Mark Manciniauto - car modelsCould Electric Motor Conversions Save Classic Cars?BY Cherise Threewittanimals - petsBengal Cats Are Mini Leopard Hybrid HousecatsBY Mark ManciniGreeningz | SponsoredHilarious Teachers Caught On CameraGreeningz | SponsoredThedelite | SponsoredBig Bang Fans Can't Believe What Bernadette Looks Like In Real LifeThedelite | Sponsored
 
 Advertisement
 
@@ -221,7 +221,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksCould an 'X17 Particle' Hint at a Fifth Force in the Universe?A Portrait of Jimmy Carter, America's Oldest Living President EverIs There Really a Cork Crisis?The Cornish Game Hen Is Neither Cornish Nor a HenDeaf, Blind and Determined: How Helen Keller Learned to CommunicateThe 'SnotBot' Drone Is Making Scientific Research Easier on Whalesby Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksWhat's the Difference Between Toilet Paper and Tissue?What's the Difference Between an Avenue, a Road and a Boulevard?Gelatinous, Squishy Mochi Is Having a MomentWhy Libertarians Have a Love-hate Relationship With the 10th AmendmentIt Took a Court to Decide Whether Pringles Are Potato Chips9 Little-known Nuggets About Honest Abeby Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +244,4 @@ Sign Up
 
 **Copyright © 2020 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. It Took a Court to Decide Whether Pringles Are Potato ChipsRead Next StoryReferenceThe controversial Scene That Took 'Gilligan's Island' Off AirReference|SponsoredSponsoredRead Next StoryHousehold Savings TipsNew Rule For Drivers Born Before 1969Household Savings Tips|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Why Is the Tropic of Cancer Important?Read Next StoryWikibuyThe Dead Giveaway That Tells You When Amazon’s Giving You A Better Price Than Other RetailersWikibuy|SponsoredSponsoredRead Next StoryKelley Blue Book10 Electric Cars That Last the LongestKelley Blue Book|SponsoredSponsoredRead Next Story
