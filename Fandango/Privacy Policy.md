@@ -36,6 +36,7 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Fantasy Island
     *   What About Love (2020)
     *   Sonic the Hedgehog
+    *   Brahms: The Boy II
     *   The Call of the Wild (2020)
     *   The Invisible Man (2020)
     *   See All Coming Soon
@@ -507,14 +508,14 @@ Offers
 
 New + Coming soon
 
-*   Little Women (2019)
-*   Spies in Disguise
-*   1917 (2019)
-*   The Grudge (2020)
-*   Like a Boss
-*   Underwater
 *   Bad Boys for Life
 *   Dolittle (2020)
+*   The Turning (2020)
+*   The Gentlemen
+*   The Rhythm Section
+*   Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)
+*   Sonic the Hedgehog
+*   The Photograph (2020)
 
 Experience + Explore
 
