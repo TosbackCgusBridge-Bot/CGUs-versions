@@ -12,8 +12,6 @@ GitLab Security.
 
 For the Americas:
 
-Mel Farber.
-
 For Europe and the Middle East:
 
 Jan Urbanc.
