@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Albert Hunt_: Will McConnell Be an Asset for Democrats in the Fall?
+*   _Eric Felten_: No Slam 'Debunk': Analyzing the Dems' Repetitive Impeach Text
     
-*   _Rebecca Grant_: None of the Dem Candidates Are Ready to Be President
+*   _Paul Waldman_: WH Doubling Down on Dumb Impeachment Defense
     
-*   _Damon Linker_: The Strongest Case for Joe Biden
+*   _Susan Crabtree_: Trump Team: There's No Crime. Senate Must Acquit
     
-*   _Zephyr Teachout_: 'Middle Class' Joe Biden Has a Corruption Problem
+*   _Jeff Greenfield_: With Biden, Would Democrats Be Both Safe and Sorry?
     
-*   _Scott MacDonald_: Phase One of Trump's Trade Deal Is a Win for U.S.
+*   _Deroy Murdock_: Trump Rounds Third w/Enviable Big-League Record
     
-*   _Ramesh Ponnuru_: Strong Economy Is in Spite of Tariffs, Not Because of Them
+*   _Lacey Rose_: Hillary Clinton: Nobody Likes Bernie Sanders
     
-*   _Derek Thompson_: Why Manhattan's Skyscrapers Are Empty
+*   _Ethan Epstein_: Why Is Hillary Attacking Bernie Now?
     
-*   _Carl Cannon_: On January 20, Timeless Words That Echo From Past
+*   _Garret Epps_: Guns Are No Mere Symbol
     
-*   _Peter Van Buren_: The Covington Kids' Revenge, One Year Later
+*   _Patrick Buchanan_: Is Mass Civil Disobedience Our Future?
     
-*   _Sean Illing_: How Misinformation Is Overwhelming Our Democracy
+*   _Megan Donovan_: On Abortion Rights, Protecting Roe Isn't Enough
     
-*   _Rich Karlgaard_: Iran and China--Black Swans No One Mentions
+*   _Robby Soave_: Some in Media Continue the Covington Catholic Smear
     
-*   _Robert Kaplan_: Why the U.S.-China Cold War Will Be Different
+*   _Jeffrey Toobin_: How Trump's Unlikely Legal Team Will Try to Defend Him
     
-*   _Suzanne Maloney_: Iran's Leaders Have a Problem They Can't Fix
+*   _Rep. Doug Collins_: Pelosi Knows Impeachment Is Weak
     
-*   _Julie Kelly_: Mendacity, Hubris and the Tragedy of Afghanistan
+*   _Frank Bruni_: Senate Republicans Are Bathed in Shame
     
-*   _Maureen Dowd_: Starr Chamber: The Sequel
+*   _Cal Thomas_: Impeachment Will Be a 'Permanent Stain' on Dems' Legacy
     
-*   _Matthew Continetti_: Did Dems Learn Anything From Kavanaugh Fight?
+*   _Tori Sachs_: Can Michigan's Gary Peters Afford to Vote for Impeachment?
     
-*   _Asha Rangappa_: Trump Gets a Ukraine Probe, Just Not the One He Asked For
+*   _Gabriel DeBenedetti_: One of These 4 Dems Could Beat Trump, Right?
     
-*   _Peter Schweizer_: How 5 Biden Family Members Got Rich From His Connections
+*   _David Catron_: Dems Still Don't Know Why Trump Won in 2016
     
-*   _Bill Scher_: Why a Unity Bid Didn't End the Sanders-Warren Rift
+*   _Rucker &. Leonnig_: Behind Trump's Reckless Fixation on the Border
     
-*   _Betsy DeVos_: Religious Liberty in Our Schools Must Be Protected
+*   _Michael Goodwin_: Left's Hatred of Trump Is Becoming a National Tragedy
     
-*   _Peggy Orenstein_: The Miseducation of the American Boy
+*   _Josh Bivens_: Democrats Are Right to Focus on Income Inequality
     
-*   _Libby Emmons_: New Rules Allow Men to Dominate Women's Sports
+*   _Bryan Preston_: Under Trump, America May Be Strongest Since End of WWII
     
-*   _Scott Segrest_: A Critical Defense of Common Sense
+*   _Joshua Keating_: Democracy Is No Longer Protection From Authoritarianism
     
-*   _Elliot Mincberg_: Why Courts Matter--and the Dangers of 'Trump Judges'
+*   _Victor Davis Hanson_: Progressive Petards
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Trump's Legal Team: There Is No Crime So Senate Must Acquit
 *   A Tale of Two Whistleblowers: One Protected, One Not
-*   WH Rebuffs GAO on Ukraine Aid: "We Are Not Legally Bound"
-*   Blitzer to CNN's Raju: McSally Calling You "Liberal Hack" Was Disgusting
+*   Attkisson: State of the Swamp Assessment
+*   Pennsylvania House Races Serve as 2020 Harbinger
 *   In Iowa Debate, Mild Feuding and No Fireworks
-*   Old Friends, Bad Blood: War Simmers Between Sanders, Warren
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -253,41 +253,34 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
-*   Iowa Democratic Presidential CaucusFRA/David Binder (D)
-    *   Biden24
-    *   Sanders14
-    *   Warren18
-    *   Buttigieg16
-    *   Klobuchar11
-    *   Yang3
-    *   Booker
-    *   Steyer4
-    *   Gabbard1
-    *   Bloomberg1Biden +6
-*   New Jersey Democratic Presidential PrimaryEmerson
-    *   Biden28
-    *   Sanders25
-    *   Warren15
-    *   Bloomberg9
-    *   Buttigieg6
+*   President Trump Job ApprovalThe Hill/HarrisX
+    *   Approve47
+    *   Disapprove53Disapprove +6
+*   New Hampshire Democratic Presidential PrimaryBoston Globe/Suffolk
+    *   Sanders16
+    *   Biden15
+    *   Buttigieg12
+    *   Warren10
+    *   Klobuchar5
+    *   Gabbard5
     *   Yang6
-    *   Klobuchar4
-    *   Gabbard3
-    *   Delaney2Biden +3
-*   President Trump Job ApprovalCNN
-    *   Approve45
-    *   Disapprove51Disapprove +6
-*   President Trump Job ApprovalGallup
-    *   Approve44
-    *   Disapprove54Disapprove +10
+    *   Steyer3
+    *   Booker
+    *   Bennet1Sanders +1
+*   President Trump Job ApprovalMonmouth
+    *   Approve43
+    *   Disapprove52Disapprove +9
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve47
+    *   Disapprove53Disapprove +6
 
 More Latest Polls In The News
 
-*   Carlson: Debt Is Crushing An Entire Generation, Republicans Need A Plan Or They'll Be Left Behind
-*   CNN's Stelter to 'Media Matters' Writer: Is The "FOX Firewall" Holding Very Firm As Impeachment Trial Starts?
-*   GOP Sen. McSally Defends Calling CNN Reporter "Liberal Hack": "I Decided To Call A Liberal A Liberal"
-*   David Brooks: I Am Struck Dershowitz and Starr Joined Trump Defense, Schiff Will "Walk All Over Them"
-*   CNN's Cuomo on Sen. McSally: I Can't Believe People Would Vote For Her To Fill "McCain's Seat"
+*   Chris Wallace Asks Conway If Trump Releasing Ukraine Aid Was Coincidence: "Yes, Why Wouldn't It Be?"
+*   WH Counsel Cipollone: "They're Not Here To Steal One Election, They're Here To Steal Two Elections"
+*   Trump on Impeachment Trial: "That Whole Thing Is A Total Hoax, So I'm Sure It's Going To Work Out Fine"
+*   Chris Matthews: "No Crime, No Impeachable Offense" A Good Talking Point By Trumpites For Low Info Voters
+*   Ted Cruz: If Democrats Get To Call John Bolton As A Witness, The Republicans Get To Call Hunter Biden
 
 *   Politics
 *   Policy
