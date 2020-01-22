@@ -21,11 +21,12 @@ Close submenu ( Girls ) Girls
 *   Tops
 *   Bottoms
 *   Jackets + Coats
-*   Dresses
+*   Dresses + Jumpsuits
 *   Accessories
 *   Shoes
 *   Fragrance
 *   Bras + Undies
+*   Swimwear
 *   Extended Sizes
 *   Clearance
 
@@ -207,11 +208,12 @@ Menu Find a Store Aeropostale
     *   Tops
     *   Bottoms
     *   Jackets + Coats
-    *   Dresses
+    *   Dresses + Jumpsuits
     *   Accessories
     *   Shoes
     *   Fragrance
     *   Bras + Undies
+    *   Swimwear
     *   Extended Sizes
     *   Clearance
     
