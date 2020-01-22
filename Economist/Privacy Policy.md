@@ -273,7 +273,7 @@ To submit requests for information about any of your personal data which we have
 
 For information on the type of data we may collect from consumers and the 3rd parties this may be disclosed to, including our suppliers and other entities within our group, please refer to the relevant sections in this privacy policy.
 
-**Externel links**
+**External links**
 
 This Privacy Policy only applies to The Economist Group’s use of data. Our websites, services or products may, from Time-to-time, contain links to, use or be on external sites. The Economist Group is not responsible for the Privacy Policies or the content of such sites and we recommend that you read the Privacy Policies on any external sites you use. Similarly, if you are directed to our website from a third party we are not responsible for the Privacy Policy or practices of the third party. We strongly recommend you read their policy.
 
