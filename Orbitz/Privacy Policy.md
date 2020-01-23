@@ -11,11 +11,11 @@ Show Menu Hide Menu
 *   Shop Travel
     *   Hotels
     *   Flights
-    *   Packages
+    *   Vacation Packages
     *   Cars
     *   Vacation Rentals
     *   Cruises
-    *   Activities
+    *   Things to Do
     *   Deals
     *   Mobile
     *   Rewards
@@ -50,11 +50,11 @@ For customer service, call us toll-free at 1-800-397-3342. For customers outside
 
 *   Hotels
 *   Flights
-*   Packages
+*   Vacation Packages
 *   Cars
 *   Vacation Rentals
 *   Cruises
-*   Activities
+*   Things to Do
 *   Deals
 *   Mobile
 *   Rewards
@@ -73,19 +73,13 @@ Please enter a valid email address Please check you have entered your email addr
 
 Earn free travel rewards with Orbitz Rewards. opens in a new window By joining Orbitz Rewards, I accept all Terms and Conditions. opens in a new window Send me emails with travel deals, special offers, and other information. Sign Up By creating an account, I agree to the Terms of Use opens in a new window and the Privacy Policy opens in a new window.
 
-By creating an account, I agree to the Terms of Use opens in a new window , Privacy Policy opens in a new window and Orbitz Rewards opens in a new window Terms and Conditions. opens in a new window
+By creating an account, I agree to the Terms of Useopens in a new window, Privacy Policy opens in a new window and Orbitz Rewards Terms and Conditions. opens in a new window
 
 Already have an account? Sign In Sign In Sign in to your account Sign in to your account Sign In with Facebook Sign In with Google Sign In with Naver **OR** We apologize for our system failure. Please try again You may have entered an unknown email address or an incorrect password Authentication failure. Please try again As per our routine security check, we have reset your account password. Rest assured your account is safe with us – use the “Forgot password?” link to set a new password. Email address
 
 Password
 
-Keep me signed in Forgot password? Earn free travel rewards with Orbitz Rewards. By joining Orbitz Rewards, I accept all Terms and Conditions. Sign In Need an account? Sign Up Show us your human side... We can't tell if you're a human or a bot. I'm human Add your property Get the Orbitz app — text yourself a linkGet the Orbitz app — text yourself a linkSendOr scan the QR code!
-
-*   Book a hotel in the app, get 5% back in Orbucks
-*   Paperless itineraries
-*   Real-time trip updates
-
-By providing your number, you agree to receive a one-time automated text message with a link to get the app. Our app offers promotions and booking services. No purchase necessary. Standard text message rates may apply. Explore More Orbitz
+Keep me signed in Forgot password? Earn free travel rewards with Orbitz Rewards. By joining Orbitz Rewards, I accept all Terms and Conditions. Sign In Need an account? Sign Up Show us your human side... We can't tell if you're a human or a bot. I'm human Add your property Explore More Orbitz
 
 *   About Orbitz
 *   Investor Relations
@@ -123,6 +117,8 @@ Other Links
 *   Mobile
 *   Vacations by Interest
 *   Unique Accommodation
+*   Orbitz Reviews
+*   Orbitz Coupon
 
 Partner Services
 
