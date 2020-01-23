@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Eric Felten_: No Slam 'Debunk': Analyzing the Dems' Repetitive Impeach Text
+*   _Michael Goodwin_: 'End This Ridiculous Charade and Go Have an Election'
     
-*   _Paul Waldman_: WH Doubling Down on Dumb Impeachment Defense
+*   _Shanlon Wu_: Trump's Flawed 'Jekyll and Hyde' Impeachment Defense
     
-*   _Susan Crabtree_: Trump Team: There's No Crime. Senate Must Acquit
+*   _Kevin Williamson_: The Media Is Devoted to Not Covering Biden's Corruption
     
-*   _Jeff Greenfield_: With Biden, Would Democrats Be Both Safe and Sorry?
+*   _Art Cullen_: Relax, Democrats: Your Nominee Will Win
     
-*   _Deroy Murdock_: Trump Rounds Third w/Enviable Big-League Record
+*   _Tammy Bruce_: Why the Women's March Shrunk to a Mere 10K
     
-*   _Lacey Rose_: Hillary Clinton: Nobody Likes Bernie Sanders
+*   _Ylonda Gault_: I'll Never Be Ashamed of My Abortion
     
-*   _Ethan Epstein_: Why Is Hillary Attacking Bernie Now?
+*   _John McCormack_: As Democrats Move Left, a Backlash in Virginia?
     
-*   _Garret Epps_: Guns Are No Mere Symbol
+*   _Anne Krueger_: Trump's Backward March on Trade
     
-*   _Patrick Buchanan_: Is Mass Civil Disobedience Our Future?
+*   _Gideon Rachman_: How I Became a China Skeptic
     
-*   _Megan Donovan_: On Abortion Rights, Protecting Roe Isn't Enough
+*   _J.D. Vance_: A Class War for Our Time
     
-*   _Robby Soave_: Some in Media Continue the Covington Catholic Smear
+*   _Isaac Chotiner_: Glenn Greenwald on Brazil's Charges Against Him
     
-*   _Jeffrey Toobin_: How Trump's Unlikely Legal Team Will Try to Defend Him
+*   _Peter Beinart_: Why Has-Beens Love Trump
     
-*   _Rep. Doug Collins_: Pelosi Knows Impeachment Is Weak
+*   _Betsy McCaughey_: Trump Comes Out Swinging--Biden Camp Looks Nervous
     
-*   _Frank Bruni_: Senate Republicans Are Bathed in Shame
+*   _David Corn_: This Is a Momentous Test for the U.S. Political System
     
-*   _Cal Thomas_: Impeachment Will Be a 'Permanent Stain' on Dems' Legacy
+*   _Paul Sperry_: Whistleblower Overheard in '17 Discussing How to Remove Trump
     
-*   _Tori Sachs_: Can Michigan's Gary Peters Afford to Vote for Impeachment?
+*   _Noah Feldman_: Trump Defense Is Wrong About High Crimes, Obstruction
     
-*   _Gabriel DeBenedetti_: One of These 4 Dems Could Beat Trump, Right?
+*   _Mark Penn_: Democrats Need to End This Partisan Impeachment
     
-*   _David Catron_: Dems Still Don't Know Why Trump Won in 2016
+*   _Kurt Schlichter_: Did the New Sen. McSally Just Turn Her Race Around?
     
-*   _Rucker &. Leonnig_: Behind Trump's Reckless Fixation on the Border
+*   _Josh Kraushaar_: Attacking CNN Is a Losing Strategy for AZ's McSally
     
-*   _Michael Goodwin_: Left's Hatred of Trump Is Becoming a National Tragedy
+*   _Matt Taibbi_: Media Stupidity Is Uniting Left and Right
     
-*   _Josh Bivens_: Democrats Are Right to Focus on Income Inequality
+*   _Emily Stewart_: Clinton Jumps Into the 2020 Primary by Blasting Sanders
     
-*   _Bryan Preston_: Under Trump, America May Be Strongest Since End of WWII
+*   _Roger Kimball_: Trump Teaches a Lesson to the Crybabies Back Home
     
-*   _Joshua Keating_: Democracy Is No Longer Protection From Authoritarianism
+*   _Vali Nasr_: The Wrong Track for Confronting Iran
     
-*   _Victor Davis Hanson_: Progressive Petards
+*   _Fred Barnes_: Iran Blinks
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump's Legal Team: There Is No Crime So Senate Must Acquit
-*   A Tale of Two Whistleblowers: One Protected, One Not
-*   Attkisson: State of the Swamp Assessment
+*   Dems' "Hurry Up and Wait" Impeachment Gamble
+*   Addressing Davos Forum, Trump Touts "Spectacular" U.S. Economy
+*   Sanders Apologizes for Surrogate's Op-Ed Attacking Biden "Corruption"
 *   Pennsylvania House Races Serve as 2020 Harbinger
-*   In Iowa Debate, Mild Feuding and No Fireworks
+*   A Tale of Two Whistleblowers: One Protected, One Not
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -253,34 +253,62 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
-*   President Trump Job ApprovalThe Hill/HarrisX
-    *   Approve47
-    *   Disapprove53Disapprove +6
-*   New Hampshire Democratic Presidential PrimaryBoston Globe/Suffolk
-    *   Sanders16
-    *   Biden15
-    *   Buttigieg12
-    *   Warren10
+*   2020 Democratic Presidential NominationCNN
+    *   Biden24
+    *   Sanders27
+    *   Warren14
+    *   Buttigieg11
+    *   Bloomberg5
+    *   Klobuchar4
+    *   Yang4
+    *   Steyer2
+    *   Gabbard0
+    *   Bennet0
+    *   Delaney0Sanders +3
+*   2020 Democratic Presidential NominationMonmouth
+    *   Biden30
+    *   Sanders23
+    *   Warren14
+    *   Buttigieg6
+    *   Bloomberg9
     *   Klobuchar5
-    *   Gabbard5
-    *   Yang6
+    *   Yang3
+    *   Steyer1
+    *   Gabbard1
+    *   Bennet1
+    *   Delaney0Biden +7
+*   2020 Democratic Presidential NominationEconomist/YouGov
+    *   Biden28
+    *   Sanders18
+    *   Warren21
+    *   Buttigieg8
+    *   Bloomberg6
+    *   Klobuchar4
+    *   Yang3
+    *   Steyer2
+    *   Gabbard3
+    *   Bennet0
+    *   Delaney0Biden +7
+*   2020 Democratic Presidential NominationMorning Consult
+    *   Biden29
+    *   Sanders24
+    *   Warren15
+    *   Buttigieg8
+    *   Bloomberg10
+    *   Klobuchar3
+    *   Yang4
     *   Steyer3
-    *   Booker
-    *   Bennet1Sanders +1
-*   President Trump Job ApprovalMonmouth
-    *   Approve43
-    *   Disapprove52Disapprove +9
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve47
-    *   Disapprove53Disapprove +6
+    *   Gabbard2
+    *   Bennet1
+    *   Delaney1Biden +5
 
 More Latest Polls In The News
 
+*   Schiff: Trump's Misconduct Cannot Be Decided At The Ballot Box, For We Cannot Be Assured He Can Fairly Win
+*   Roberts Scolds Impeachment Teams After Tense After-Midnight Exchange: "Should Remember Where They Are"
+*   Nadler: Any Senator Who Won't Vote To Subpoena John Bolton Is "Complicit" In Trump's "Cover-Up"
 *   Chris Wallace Asks Conway If Trump Releasing Ukraine Aid Was Coincidence: "Yes, Why Wouldn't It Be?"
 *   WH Counsel Cipollone: "They're Not Here To Steal One Election, They're Here To Steal Two Elections"
-*   Trump on Impeachment Trial: "That Whole Thing Is A Total Hoax, So I'm Sure It's Going To Work Out Fine"
-*   Chris Matthews: "No Crime, No Impeachable Offense" A Good Talking Point By Trumpites For Low Info Voters
-*   Ted Cruz: If Democrats Get To Call John Bolton As A Witness, The Republicans Get To Call Hunter Biden
 
 *   Politics
 *   Policy
