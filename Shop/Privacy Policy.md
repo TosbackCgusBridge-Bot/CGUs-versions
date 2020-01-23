@@ -57,7 +57,7 @@ Lenovo Explore Close
         *   ThinkStation
         
         *   Best Selling Desktops
-        *   ThinkCentre M715 Tiny
+        *   ThinkCentre M75s
         *   Lenovo Yoga A940
         *   ThinkCentre M90n
         *   IdeaCentre 310S Tower
@@ -201,10 +201,10 @@ Lenovo Explore Close
         *   Featured
         *   Gaming Monitors
         *   Accessory Deals
-        *   PC Gaming
+        *   Shop PC Games
         *   Gaming PC Deals
-        *   Nintendo
         *   Xbox
+        *   Gaming Community
         
         *   New in Gaming
         *   Gaming Storefront
@@ -614,7 +614,7 @@ Lenovo Explore Close
 1-855-253-6686
 
 *   Search
-*   icon-compare0 Compare Compare (0)
+
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
@@ -683,13 +683,7 @@ Top Suggestions
 
 View all >.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
-
-Please add at least 2 products for compare
-
-Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
-
-Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
 
 protects better"/>.
 
