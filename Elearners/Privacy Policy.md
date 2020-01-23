@@ -443,7 +443,7 @@ About eLearners:
 
 Follow eLearners:
 
-By entering my email address and clicking "Subscribe" I agree to be contacted by eLearners, EducationDynamics, and preferred third-party partners of eLearners for additional education products and services. Privacy Policy. Privacy Policy | Terms of Use | Legal Notice
+By entering my email address and clicking "Subscribe" I agree to be contacted by eLearners, EducationDynamics, and preferred third-party partners of eLearners for additional education products and services. Privacy Policy. Privacy Policy | Terms of Use | Legal Notice | Do Not Sell (CA and NV residents)
 
 Copyright eLearners.com 1999 - 2020
 
