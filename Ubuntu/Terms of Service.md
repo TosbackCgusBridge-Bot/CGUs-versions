@@ -44,10 +44,10 @@ Download Ubuntu ›
 
 Further reading
 
+*   Migrating to enterprise servers with Ubuntu on IBM Z
 *   Ubuntu Server development summary – 21 January 2020
 *   problem-oriented
 *   Anbox Cloud disrupts mobile user experience
 *   Implementing an Android™ based cloud game streaming service with Anbox Cloud
-*   Design and Web team summary – 17 January 2020
 
 *    ›
