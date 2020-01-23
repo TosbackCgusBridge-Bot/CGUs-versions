@@ -91,7 +91,7 @@ Now there's a single access point you can rely on for comprehensive information 
 
 See how **Practitioner Insights** work
 
-1.  **Westsearch:**  Appears at the top of every page and lets you do a global search of all content, or search within the practice area.  
+1.  **WestSearch:**  Appears at the top of every page and lets you do a global search of all content, or search within the practice area.  
     
 2.  **Top news**: A rotating display of the day's leading legal news stories from Reuters.  
     
