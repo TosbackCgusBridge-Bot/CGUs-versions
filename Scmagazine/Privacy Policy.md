@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Microsoft warns attackers are exploiting zero day in IE scripting engine
-    *   Hacker leaks more than 515,000 Telnet credentials in forum
-    *   Federally funded Unimax smartphone pre-loaded with malware
     *   Trump urges Apple to unlock Pensacola gunman's iPhones
-    *   Cyberattack hits Las Vegas on opening day of CES
+    *   Facebook deepfakes ban falls short, lawmakers say
+    *   Russia's Fancy Bear successfully hacked Burisma during impeachment probe
+    *   Barr pushes Apple for additional help unlocking Pensacola gunman's iPhone
+    *   No immediate cyberthreat seen over Soleimani killing, but preparation is key
     
-    *   Broadcom flips Symantec to Accenture Security
-    *   Adobe rolls out a light Patch Tuesday offering
-    *   Renewed Emotet phishing activity targets UN, government and military users
-    *   Attackers distill essence of Mirai IoT botnet into LiquorBot malware
-    *   Apple scans iCloud content for child sexual abuse photos, privacy chief says
-    
-    *   FTCODE ransomware acquires info-stealing powers
-    *   Application isolation and virtualization provide a false sense of cybersecurity
-    *   Microsoft warns attackers are exploiting zero day in IE scripting engine
     *   Hacker leaks more than 515,000 Telnet credentials in forum
+    *   PlanetDrugsDirect breached, PHI and payment info exposed.
+    *   American Express, PayPal customers now targeted by 16Shop
     *   Betting firms given access to info on 28M minors in U.K. gov't education database
+    *   Renewed Emotet phishing activity targets UN, government and military users
+    
+    *   Greenwald calls Brazil's cybercrime allegations politically motivated
+    *   FireEye adds Cloudvisory to its stable
+    *   Mushtik botnet now shopping for Tomato routers
+    *   Mitsubishi Electric discloses June 2019 breach. Tick hacking group reportedly blamed
+    *   CyberRisk Alliance appoints David Longobardi Chief Content Officer
 
 Back to Top
 
