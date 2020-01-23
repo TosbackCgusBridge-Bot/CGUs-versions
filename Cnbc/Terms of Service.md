@@ -6,6 +6,6 @@ Please try again, or take a look at our homepage for the latest news and market 
 
 You may also be interested in these pages:
 
-Top News &. Analysis CNBC US Home Make It Futures &. Commodities Currencies Bonds Stocks Markets Politics
+Top News &. Analysis Make It Futures &. Commodities Currencies Bonds stocks Markets Politics
 
 Report a broken link | Help | Site map
