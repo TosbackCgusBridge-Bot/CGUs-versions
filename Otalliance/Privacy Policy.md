@@ -53,7 +53,7 @@
         *   About the Internet Society Foundation
     *   Regions
         *   Africa
-        *   Asia Pacific
+        *   Asia-Pacific
         *   Europe
         *   Latin America &. Caribbean
         *   Middle East
