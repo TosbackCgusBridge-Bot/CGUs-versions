@@ -1,4 +1,4 @@
-c680ed21-a416-4ea4-b3c0-4b9e7fc97b92
+f3e93ab1-c815-4e60-9ee6-94d61b5aad95
 
 *   Search Search
 *   Contact Us
@@ -21,7 +21,7 @@ Toggle Navigation
     *   Cable TV
     *   Home Phone
     *   Mobile
-    *   <div class="default linkComponent">. <div data-id="80972905-ffc2-43da-8418-dc9719f73262" class="text-left spectrum-icon-before ">. <a href="/latino-plans.html" target="\_self" data-target="#" data-linkname="Latino" data-linktype="hamburger\_nav">. <span class="linkLabel ">. Latino </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="80972905\\u002Dffc2\\u002D43da\\u002D8418\\u002Ddc9719f73262"\]').linkComponent(). }). </script>. </div>.
+    *   <div class="default linkComponent">. <div data-id="f386512b-1727-49cd-ac49-a9ed2398405e" class="text-left spectrum-icon-before ">. <a href="/latino-plans.html" target="\_self" data-target="#" data-linkname="Latino" data-linktype="hamburger\_nav">. <span class="linkLabel ">. Latino </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="f386512b\\u002D1727\\u002D49cd\\u002Dac49\\u002Da9ed2398405e"\]').linkComponent(). }). </script>. </div>.
     *   Business
 *   Manage Account
 *   Support
@@ -35,8 +35,8 @@ Toggle Navigation
 *   Internet
 *   Cable TV
 *   Home Phone
-*   <div class="default linkComponent">. <div data-id="2dee6ee7-ab06-4790-b0c6-a136f0a77684" class="text-left spectrum-icon-before ">. <a href="/mobile.html" target="\_parent" data-target="#" data-linkname="Mobile" data-linktype="global\_nav">. <span class="linkLabel ">. Mobile </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="2dee6ee7\\u002Dab06\\u002D4790\\u002Db0c6\\u002Da136f0a77684"\]').linkComponent(). }). </script>. </div>.
-*   <div class="default linkComponent">. <div data-id="39702071-21c6-4b03-875b-2c6391fce97f" class="text-left spectrum-icon-before ">. <a href="/latino-plans.html" target="\_self" data-target="#" data-linkname="Latino" data-linktype="global\_nav">. <span class="linkLabel ">. Latino </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="39702071\\u002D21c6\\u002D4b03\\u002D875b\\u002D2c6391fce97f"\]').linkComponent(). }). </script>. </div>.
+*   <div class="default linkComponent">. <div data-id="63315dbd-081a-4c93-ac00-96d9dd0b6538" class="text-left spectrum-icon-before ">. <a href="/mobile.html" target="\_parent" data-target="#" data-linkname="Mobile" data-linktype="global\_nav">. <span class="linkLabel ">. Mobile </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="63315dbd\\u002D081a\\u002D4c93\\u002Dac00\\u002D96d9dd0b6538"\]').linkComponent(). }). </script>. </div>.
+*   <div class="default linkComponent">. <div data-id="9f29c089-7bfa-46b7-a978-498225f92ac3" class="text-left spectrum-icon-before ">. <a href="/latino-plans.html" target="\_self" data-target="#" data-linkname="Latino" data-linktype="global\_nav">. <span class="linkLabel ">. Latino </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="9f29c089\\u002D7bfa\\u002D46b7\\u002Da978\\u002D498225f92ac3"\]').linkComponent(). }). </script>. </div>.
 *   Business
 
 Check Availability &. Offers \* Street Address Error: Enter your street address Apartment \* Zip Code Error: Enter your 5-digit ZIP code Go Why do I need to enter my exact address?
@@ -70,8 +70,8 @@ Shop Spectrum +
 *   Spectrum TV
 *   Spectrum Internet
 *   Spectrum Voice
-*   <div class="default linkComponent">. <div data-id="a8d87245-a112-40fa-875d-e6f019c8d609" class="text-left spectrum-icon-before ">. <a href="/latino-plans" target="\_self" data-target="#" data-linkname="Mi Plan Latino" data-linktype="global\_footer">. <span class="linkLabel ">. Mi Plan Latino </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="a8d87245\\u002Da112\\u002D40fa\\u002D875d\\u002De6f019c8d609"\]').linkComponent(). }). </script>. </div>.
-*   <div class="default linkComponent">. <div data-id="e4cccf4c-6969-47ae-9e78-cf7f6315a18b" class="text-left spectrum-icon-before ">. <a href="/mobile" target="\_self" data-target="#" data-linkname="Spectrum Mobile" data-linktype="global\_footer">. <span class="linkLabel ">. Spectrum Mobile </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="e4cccf4c\\u002D6969\\u002D47ae\\u002D9e78\\u002Dcf7f6315a18b"\]').linkComponent(). }). </script>. </div>.
+*   <div class="default linkComponent">. <div data-id="5e6fd4dd-e6ec-4fe4-ba0e-e21b6f3e7466" class="text-left spectrum-icon-before ">. <a href="/latino-plans" target="\_self" data-target="#" data-linkname="Mi Plan Latino" data-linktype="global\_footer">. <span class="linkLabel ">. Mi Plan Latino </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="5e6fd4dd\\u002De6ec\\u002D4fe4\\u002Dba0e\\u002De21b6f3e7466"\]').linkComponent(). }). </script>. </div>.
+*   <div class="default linkComponent">. <div data-id="02a3bb66-c711-4581-a63f-a8a0019d26ad" class="text-left spectrum-icon-before ">. <a href="/mobile" target="\_self" data-target="#" data-linkname="Spectrum Mobile" data-linktype="global\_footer">. <span class="linkLabel ">. Spectrum Mobile </span>. </a>. </div>. <script>. jQuery(document).ready(function () { jQuery('.linkComponent \[data-id="02a3bb66\\u002Dc711\\u002D4581\\u002Da63f\\u002Da8a0019d26ad"\]').linkComponent(). }). </script>. </div>.
 *   Spectrum Sports Networks
 *   Spectrum Premium Channels
 
@@ -103,13 +103,14 @@ Search Services by State+ Search for Services in Your Area      Select State
 *   Newsroom
 *   Community Impact
 *   Careers
-*   Accessibility
-
+*   Your Privacy Rights
 *   Terms of Service/Policies
+
 *   IP Interconnection
 *   FCC Public Inspection File
 *   Service Rates &. Disclosures
-*   Your Privacy Rights
+*   Rural Carrier Call Completion
+*   Accessibility
 
 *   California Privacy Policy
 *   California Consumer Do Not Sell My Personal Information
