@@ -120,17 +120,8 @@ Close submenu ( Guys Jeans ) Guys Jeans
 Close submenu ( Aero World ) Aero World
 
 *   View Home
-*   Tisakorean
-*   Jax
-*   Jeba
-*   Kai
-*   Julia
-*   cameron
-*   Kristya
-*   Tyler
 *   Claudia
 *   Julie
-
 *   Korostyle
 *   Logan
 *   Mathias
@@ -302,17 +293,8 @@ Menu Find a Store Aeropostale
 *   Aero World
     
     *   View Home
-    *   Tisakorean
-    *   Jax
-    *   Jeba
-    *   Kai
-    *   Julia
-    *   cameron
-    *   Kristya
-    *   Tyler
     *   Claudia
     *   Julie
-    
     *   Korostyle
     *   Logan
     *   Mathias
@@ -384,17 +366,6 @@ ORDERS OVER $50 Search Catalog Search
 
 In Stores &. Online
 
-50-70% OFF EVERYTHING
-
-50-70% OFF  
-EVERYTHING
-
-Including 100s of New Arrivals!
-
-Shop Girls Shop Guys
-
-In Stores &. Online
-
 AERO JEANS
 
 BUY 1 GET 1 FREE
@@ -403,13 +374,15 @@ Must Add 2 To Cart
 
 Shop Girls Jeans Shop Guys Jeans Previous
 
-Cheeky
+Cheeky  
+**Online Only**
 
 Slim Straight
 
-Curvy Bootcut
+Curvy Bootcut  
+**Online Only**
 
-Relaxed
+Straight
 
 Skinny
 
@@ -422,8 +395,7 @@ Athletic Skinny
 
 Mom
 
-Carpenter  
-**Online Only**
+Skinny
 
 Cheeky  
 **Online Only**
@@ -433,28 +405,7 @@ Slim Straight
 Curvy Bootcut  
 **Online Only**
 
-Relaxed  
-**Online Only**
-
-Skinny
-
-Slim
-
-Jeggings
-
-Athletic Skinny
-
-Mom
-
-Carpenter
-
-Cheeky
-
-Slim Straight
-
-Curvy Bootcut
-
-Relaxed
+Straight
 
 Skinny
 
@@ -467,8 +418,7 @@ Athletic Skinny
 
 Mom
 
-Carpenter  
-**Online Only**
+Skinny
 
 Cheeky  
 **Online Only**
@@ -478,10 +428,43 @@ Slim Straight
 Curvy Bootcut  
 **Online Only**
 
-Relaxed  
+Straight
+
+Skinny
+
+Slim
+
+Jeggings
+
+Athletic Skinny  
+**NEW!**
+
+Mom
+
+Skinny
+
+Cheeky  
 **Online Only**
+
+Slim Straight
+
+Curvy Bootcut  
+**Online Only**
+
+Straight
 
 Next
+
+In Stores &. Online
+
+50-70% OFF EVERYTHING
+
+50-70% OFF  
+EVERYTHING
+
+Including 100s of New Arrivals!
+
+Shop Girls Shop Guys
 
 In Stores &. Online
 
