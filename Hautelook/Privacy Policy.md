@@ -7,21 +7,33 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Designer Sun &. More ft. Gucci
+    *   Designer Bags ft. Moschino Up to 50% Off
+    *   Designer Shoes ft. Salvatore Ferragamo Up to 60% Off
+    *   Designer Styles Up to 65% Off
+    *   Poolside Upgrade: Resort-Ready Swim
+    *   Sanctuary Incl. Plus &. Petites
+    *   Designer Fragrances &. Cologne Under $100
+    *   Men's Designer Shoes ft. Versace &. More Up to 60% Off
+    *   Men's Designer Styles
+    *   Tech Jackets ft. Helly Hansen &. Mountain Hardwear
+    *   Naturalizer &. SOUL Naturalizer from $40
+    *   Exclusively Ours: Abound &. Free Press from $20
+    *   Boys' Dresswear ft. Isaac Mizrahi
+    *   SIBU Sea Berry Therapy Skin Care &. Supplements
+    *   Top Toy Brands: Mattel, Fisher-Price &. LEGO
+    *   Boys' Dress Shoes
     *   Johnny Was
     *   Via Spiga Up to 60% Off
-    *   Splendid &. Ella Moss Swim
-    *   Everyday Sneakers from $35
-    *   Grayson &. More
-    *   Daily Deal: Dr.Jart Skin Care Starting at $10
-    *   Daily Deal: Men's Hawke &. Co. Suede Boots at $35
-    *   Daily Deal: 2-in-1 Charging Stands at 60% Off
-    *   Daily Deal: CALPAK Travel Pillow &. Eye Masks at $29.97
-    *   Daily Deal: Salvatore Ferragamo Ties at $119.97
     *   Activewear Under $40
+    *   Grayson &. More
+    *   Splendid &. Ella Moss Swim
     *   Dresses We Love Under $60 ft. Tash + Sophie
+    
     *   Loveappella Under $45
     *   DL1961 Up to 60% Off
     *   In Bloom by Jonquil Under $35
+    *   Everyday Sneakers from $35
     *   Cozy Finds: Men's Fleece &. More Up to 60% Off
     *   Kelsi Dagger Brooklyn Under $100
     *   Free Shipping: Faux Plants &. Planters
@@ -31,80 +43,66 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   On-Trend 14K Gold &. More from $25
     *   English Laundry
     *   Kids' Sweaters &. Hoodies Under $20
-    
     *   Makeup Under $20
     *   1000-1200 Thread Count Sheet Set Blowout
-    *   TUMI
-    *   BCBGMAXAZRIA
-    *   Steve Madden from $40
-    *   J Brand &. More
-    *   HUE Under $30 Incl. Plus
-    *   Top It Off: Foxcroft &. More Under $50
     *   Men's Golf Shop ft. Callaway
-    *   Kenneth Cole Reaction &. More
-    *   Socialite Starting at $20
     *   Steve Madden Men
     *   Modern Fiction
     *   Saachi Leather &. Gemstone Jewelry from $20
-    *   Valentine's Day Gifting: Home Decor from $10
     *   $30 &. Under: Harper Canyon Shoes
     *   nodpod: Weighted Sleep Masks for Better Sleep
     *   Plant-Based Oil Products for Face &. Body
+    
     *   Men's Skin &. Shave Care Starting at $10
     *   Harper Canyon Under $20
     *   All Under $50: Lancome Makeup
     *   Mirenesse Australia Up to 60% Off
     *   Skin Care Edit: Kate Somerville Staples
     *   Zoe Ayla: Crystal Face Rollers &. More
-    
-    *   Kids' Active Shop: Styles Up to 50% Off
-    *   Work or Play: Suiting Up to 70% Off
     *   Hooded Throws Up to 50% Off
     *   Kitchen &. Home Decor from $15
     *   Aldo Men
     *   Classic Warmth: Men's Wool Coats Up to 60% Off
-    *   Sleek Sneakers from Heelys &. More
-    *   Men's Shoes Up to 65% Off
     *   Luxe Faux: Donna Salyers' Fabulous Furs Blowout
     *   Free Shipping: BergHOFF Up to 55% Off
-    *   Frye Men Up to 55% Off
     *   Gentle Skin Care: Declare Switzerland
-    *   Bedding &. Bath Essentials Up to 50% Off
-    *   Max Studio Incl. Plus
-    *   Free Shipping: Quilts, Comforters &. More
-    *   Luxury Bedding Sets Up to 45% Off
     *   Feminine Flair: Dresses Under $100 ft. Robbie Bee
-    *   Holiday Storage Solutions &. More
-    *   Quickfit Furniture Covers Up to 45% Off
-    *   Luxe Faux Fur Pillows &. More Up to 75% Off
-    *   Luxe Skin Care from $20
+    *   Free Shipping: Quilts, Comforters &. More
+    *   Valentine's Day Gifting: Home Decor from $10
+    *   Luxury Bedding Sets Up to 45% Off
+    *   TUMI
+    *   BCBGMAXAZRIA
+    *   Bedding &. Bath Essentials Up to 50% Off
     *   Free Shipping: Wall Decor &. Accents
+    *   Holiday Storage Solutions &. More
 *   WomenShop Sale Events
     
+    *   Designer Sun &. More ft. Gucci
+    *   Designer Bags ft. Moschino Up to 50% Off
+    *   Designer Shoes ft. Salvatore Ferragamo Up to 60% Off
+    *   Designer Styles Up to 65% Off
+    *   Poolside Upgrade: Resort-Ready Swim
+    *   Sanctuary Incl. Plus &. Petites
+    *   Designer Fragrances &. Cologne Under $100
+    *   Tech Jackets ft. Helly Hansen &. Mountain Hardwear
+    *   Naturalizer &. SOUL Naturalizer from $40
+    *   Exclusively Ours: Abound &. Free Press from $20
+    *   SIBU Sea Berry Therapy Skin Care &. Supplements
     *   Johnny Was
     *   Via Spiga Up to 60% Off
-    *   Splendid &. Ella Moss Swim
-    *   Everyday Sneakers from $35
-    *   Grayson &. More
-    *   Daily Deal: Dr.Jart Skin Care Starting at $10
     *   Activewear Under $40
+    *   Grayson &. More
+    *   Splendid &. Ella Moss Swim
     *   Dresses We Love Under $60 ft. Tash + Sophie
     *   Loveappella Under $45
     *   In Bloom by Jonquil Under $35
+    
+    *   Everyday Sneakers from $35
     *   Kelsi Dagger Brooklyn Under $100
     *   Exfoliating Sugar Cubes from Harper + Ari
     *   Georgette Klinger Skin Care
     *   On-Trend 14K Gold &. More from $25
     *   Makeup Under $20
-    *   TUMI
-    *   BCBGMAXAZRIA
-    *   Steve Madden from $40
-    
-    *   J Brand &. More
-    *   HUE Under $30 Incl. Plus
-    *   Top It Off: Foxcroft &. More Under $50
-    *   Kenneth Cole Reaction &. More
-    *   Socialite Starting at $20
     *   Saachi Leather &. Gemstone Jewelry from $20
     *   nodpod: Weighted Sleep Masks for Better Sleep
     *   Plant-Based Oil Products for Face &. Body
@@ -114,34 +112,32 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Skin Care Edit: Kate Somerville Staples
     *   Zoe Ayla: Crystal Face Rollers &. More
     *   Gentle Skin Care: Declare Switzerland
-    *   Max Studio Incl. Plus
     *   Feminine Flair: Dresses Under $100 ft. Robbie Bee
-    *   Luxe Skin Care from $20
+    *   TUMI
+    *   BCBGMAXAZRIA
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Lingerie &. Shapewear
     *   Handbags
+    *   Lingerie &. Shapewear
+    *   Accessories
 *   MenShop Sale Events
     
-    *   Daily Deal: Men's Hawke &. Co. Suede Boots at $35
-    *   Daily Deal: CALPAK Travel Pillow &. Eye Masks at $29.97
-    *   Daily Deal: Salvatore Ferragamo Ties at $119.97
+    *   Designer Sun &. More ft. Gucci
+    *   Men's Designer Shoes ft. Versace &. More Up to 60% Off
+    *   Men's Designer Styles
     *   DL1961 Up to 60% Off
     *   Cozy Finds: Men's Fleece &. More Up to 60% Off
     *   English Laundry
-    *   TUMI
-    *   Men's Golf Shop ft. Callaway
     
+    *   Men's Golf Shop ft. Callaway
     *   Steve Madden Men
     *   Modern Fiction
-    *   Work or Play: Suiting Up to 70% Off
     *   Aldo Men
     *   Classic Warmth: Men's Wool Coats Up to 60% Off
-    *   Men's Shoes Up to 65% Off
-    *   Frye Men Up to 55% Off
+    *   TUMI
     
     Shop By Category
     *   Clothing
@@ -149,79 +145,75 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Boys' Dresswear ft. Isaac Mizrahi
+    *   Top Toy Brands: Mattel, Fisher-Price &. LEGO
+    *   Boys' Dress Shoes
     *   Kids' Sweaters &. Hoodies Under $20
     *   $30 &. Under: Harper Canyon Shoes
     *   Harper Canyon Under $20
-    *   Kids' Active Shop: Styles Up to 50% Off
-    *   Sleek Sneakers from Heelys &. More
     
     Shop By Category
-    *   Girls' Sizes 7-16
     *   Girls' Sizes 2T-6X
+    *   Girls' Sizes 7-16
     *   Boys' Sizes 2T-7
-    *   Boys' Sizes 8-20
     *   Girls' Shoes
     *   Baby Girl
+    *   Boys' Sizes 8-20
     *   Baby Boy
     *   Boys' Shoes
     *   Baby Gear &. Essentials
+    *   Toy Shop
 *   HomeShop Sale Events
     
-    *   Daily Deal: 2-in-1 Charging Stands at 60% Off
-    *   Daily Deal: CALPAK Travel Pillow &. Eye Masks at $29.97
     *   Free Shipping: Faux Plants &. Planters
     *   Free Shipping: Down &. Memory Foam Essentials
     *   1000-1200 Thread Count Sheet Set Blowout
-    *   TUMI
-    *   Valentine's Day Gifting: Home Decor from $10
     *   Hooded Throws Up to 50% Off
     *   Kitchen &. Home Decor from $15
-    
     *   Luxe Faux: Donna Salyers' Fabulous Furs Blowout
     *   Free Shipping: BergHOFF Up to 55% Off
-    *   Bedding &. Bath Essentials Up to 50% Off
+    
     *   Free Shipping: Quilts, Comforters &. More
+    *   Valentine's Day Gifting: Home Decor from $10
     *   Luxury Bedding Sets Up to 45% Off
-    *   Holiday Storage Solutions &. More
-    *   Quickfit Furniture Covers Up to 45% Off
-    *   Luxe Faux Fur Pillows &. More Up to 75% Off
+    *   TUMI
+    *   Bedding &. Bath Essentials Up to 50% Off
     *   Free Shipping: Wall Decor &. Accents
+    *   Holiday Storage Solutions &. More
     
     Shop By Category
     *   Bedding
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Pet Accessories
-    *   Luggage &. Travel
     *   Cleaning &. Organization
+    *   Luggage &. Travel
     *   Electronic &. Tech Accessories
     *   Bath
     *   Holiday Decorations
-    *   Rugs &. Doormats
     *   Outdoor Living
     *   Accent Furniture
 *   BeautyShop Sale Events
     
-    *   Daily Deal: Dr.Jart Skin Care Starting at $10
+    *   Designer Fragrances &. Cologne Under $100
+    *   SIBU Sea Berry Therapy Skin Care &. Supplements
     *   Exfoliating Sugar Cubes from Harper + Ari
     *   Georgette Klinger Skin Care
     *   Makeup Under $20
     *   nodpod: Weighted Sleep Masks for Better Sleep
     *   Plant-Based Oil Products for Face &. Body
-    *   Men's Skin &. Shave Care Starting at $10
     
+    *   Men's Skin &. Shave Care Starting at $10
     *   All Under $50: Lancome Makeup
     *   Mirenesse Australia Up to 60% Off
     *   Skin Care Edit: Kate Somerville Staples
     *   Zoe Ayla: Crystal Face Rollers &. More
     *   Gentle Skin Care: Declare Switzerland
-    *   Luxe Skin Care from $20
     
     Shop By Category
     *   Makeup
     *   Skin Care
-    *   Tools &. Accessories
     *   Bath &. Body
+    *   Tools &. Accessories
     *   Fragrance
     *   Makeup Bags
 
