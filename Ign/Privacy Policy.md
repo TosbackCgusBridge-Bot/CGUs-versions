@@ -14,7 +14,7 @@ BRANDSAUDIENCEWORLDWIDEPRESSLEADERSHIPCAREERSCONTACT ZIFF DAVIS, LLC PRIVACY POL
 
 Version Française
 
-If you have any questions related to Data Subject Access Rights under GDPR, you can contact us through our DSAR Portal.​
+If you have any questions related to Data Subject Access Rights under GDPR or CCPA, you can contact us through our DSAR Portal.​
 
 1.  Privacy Policy Overview
 2.  What Categories of Information We May Process
