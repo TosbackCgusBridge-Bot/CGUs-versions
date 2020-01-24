@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -118,53 +116,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Michael Goodwin_: 'End This Ridiculous Charade and Go Have an Election'
+*   _Lili Loofbourow_: How Joe Biden Will Float to Victory
     
-*   _Shanlon Wu_: Trump's Flawed 'Jekyll and Hyde' Impeachment Defense
+*   _Rupert Darwall_: Trump Draws Battle Lines Against Dems, 'Prophets of Doom'
     
-*   _Kevin Williamson_: The Media Is Devoted to Not Covering Biden's Corruption
+*   _Steve Phillips_: 12 States Where Democrats Could Flip the Senate
     
-*   _Art Cullen_: Relax, Democrats: Your Nominee Will Win
+*   _Mollie Hemingway_: 6 Democratic Senators to Watch in Impeachment Trial
     
-*   _Tammy Bruce_: Why the Women's March Shrunk to a Mere 10K
+*   _Greg Sargent_: Schiff Asked GOP Senators a Tough Question
     
-*   _Ylonda Gault_: I'll Never Be Ashamed of My Abortion
+*   _David Harsanyi_: The Media Loves - And, I Mean, Really Loves - Adam Schiff
     
-*   _John McCormack_: As Democrats Move Left, a Backlash in Virginia?
+*   _Ella Nilsen_: Sanders's Path to the 2020 Democratic Nomination
     
-*   _Anne Krueger_: Trump's Backward March on Trade
+*   _Bernard Kerik_: Soft-on-Crime Liberals Are Ruining America's Greatest Cities
     
-*   _Gideon Rachman_: How I Became a China Skeptic
+*   _Ryan Bort_: Youth Climate Activists Fighting for Change in Davos
     
-*   _J.D. Vance_: A Class War for Our Time
+*   _Daniel Turner_: Why Isn't Greta Sailing to China to Whine at President Xi?
     
-*   _Isaac Chotiner_: Glenn Greenwald on Brazil's Charges Against Him
+*   _Ken Klippenstein_: Why Glenn Greenwald's Prosecution Is an Outrage
     
-*   _Peter Beinart_: Why Has-Beens Love Trump
+*   _Barbara Kay_: The Year of Reason in the Cancel-Culture Wars?
     
-*   _Betsy McCaughey_: Trump Comes Out Swinging--Biden Camp Looks Nervous
+*   _Miranda Devine_: Senate Trial the End of 3-Year Temper Tantrum by Dems
     
-*   _David Corn_: This Is a Momentous Test for the U.S. Political System
+*   _Andrew Gawthorpe_: GOP Has Turned Senate Trial Into Dangerous Sham
     
-*   _Paul Sperry_: Whistleblower Overheard in '17 Discussing How to Remove Trump
+*   _George Neumayr_: Trump's Trial by Charlatans
     
-*   _Noah Feldman_: Trump Defense Is Wrong About High Crimes, Obstruction
+*   _Susan Glasser_: Adam Schiff's Moment
     
-*   _Mark Penn_: Democrats Need to End This Partisan Impeachment
+*   _Mark Hemingway_: Media Keep Giving Schiff Benefit of the Doubt
     
-*   _Kurt Schlichter_: Did the New Sen. McSally Just Turn Her Race Around?
+*   _Robert Reich_: Abuses of Power in Trumpworld and Davos
     
-*   _Josh Kraushaar_: Attacking CNN Is a Losing Strategy for AZ's McSally
+*   _Piers Morgan_: Trump Is Laughing His Way Back to the White House
     
-*   _Matt Taibbi_: Media Stupidity Is Uniting Left and Right
+*   _Alexander &. Copeland_: In Battlegrounds, It's Not the Economy, Stupid. It's Trump
     
-*   _Emily Stewart_: Clinton Jumps Into the 2020 Primary by Blasting Sanders
+*   _Justin Haskins_: Latest Manufacturing Numbers Should Terrify Dems
     
-*   _Roger Kimball_: Trump Teaches a Lesson to the Crybabies Back Home
+*   _Charlotte Alter_: How Millennial Leaders Will Change America
     
-*   _Vali Nasr_: The Wrong Track for Confronting Iran
+*   _Philip Wegmann_: Sanders, Gagged in Senate, Suffers Rivals' Slings
     
-*   _Fred Barnes_: Iran Blinks
+*   _Chris Cillizza_: Clinton Hating on Sanders May Be Great News for Him
     
 
 *   Previous
@@ -235,11 +233,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Whistleblower Overheard in '17 Discussing How to Remove Trump
+*   Sanders, Gagged in the Senate, Suffers Rivals' Slings
+*   Trump: The Corruption in the Media Is Unbelievable
 *   Dems' "Hurry Up and Wait" Impeachment Gamble
-*   Addressing Davos Forum, Trump Touts "Spectacular" U.S. Economy
-*   Sanders Apologizes for Surrogate's Op-Ed Attacking Biden "Corruption"
 *   Pennsylvania House Races Serve as 2020 Harbinger
-*   A Tale of Two Whistleblowers: One Protected, One Not
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -253,62 +251,35 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
-*   2020 Democratic Presidential NominationCNN
-    *   Biden24
-    *   Sanders27
-    *   Warren14
-    *   Buttigieg11
-    *   Bloomberg5
-    *   Klobuchar4
-    *   Yang4
-    *   Steyer2
-    *   Gabbard0
-    *   Bennet0
-    *   Delaney0Sanders +3
-*   2020 Democratic Presidential NominationMonmouth
+*   2020 Democratic Presidential NominationEmerson
     *   Biden30
-    *   Sanders23
-    *   Warren14
+    *   Sanders27
+    *   Warren13
+    *   Bloomberg7
     *   Buttigieg6
-    *   Bloomberg9
-    *   Klobuchar5
-    *   Yang3
+    *   Yang8
+    *   Klobuchar4
     *   Steyer1
     *   Gabbard1
     *   Bennet1
-    *   Delaney0Biden +7
-*   2020 Democratic Presidential NominationEconomist/YouGov
-    *   Biden28
-    *   Sanders18
-    *   Warren21
-    *   Buttigieg8
-    *   Bloomberg6
-    *   Klobuchar4
-    *   Yang3
-    *   Steyer2
-    *   Gabbard3
-    *   Bennet0
-    *   Delaney0Biden +7
-*   2020 Democratic Presidential NominationMorning Consult
-    *   Biden29
-    *   Sanders24
-    *   Warren15
-    *   Buttigieg8
-    *   Bloomberg10
-    *   Klobuchar3
-    *   Yang4
-    *   Steyer3
-    *   Gabbard2
-    *   Bennet1
-    *   Delaney1Biden +5
+    *   Delaney1Biden +3
+*   General Election: Trump vs. BidenEmerson
+    *   Biden50
+    *   Trump50Tie
+*   General Election: Trump vs. SandersEmerson
+    *   Sanders51
+    *   Trump49Sanders +2
+*   General Election: Trump vs. WarrenEmerson
+    *   Warren50
+    *   Trump50Tie
 
 More Latest Polls In The News
 
-*   Schiff: Trump's Misconduct Cannot Be Decided At The Ballot Box, For We Cannot Be Assured He Can Fairly Win
-*   Roberts Scolds Impeachment Teams After Tense After-Midnight Exchange: "Should Remember Where They Are"
-*   Nadler: Any Senator Who Won't Vote To Subpoena John Bolton Is "Complicit" In Trump's "Cover-Up"
-*   Chris Wallace Asks Conway If Trump Releasing Ukraine Aid Was Coincidence: "Yes, Why Wouldn't It Be?"
-*   WH Counsel Cipollone: "They're Not Here To Steal One Election, They're Here To Steal Two Elections"
+*   Graham: No One Has Looked At How Hunter Biden Got Rich In Ukraine And His Father Didn't Know
+*   Biden Would Not Testify At Impeachment Trial: "Not Going To Turn It Into Farce, Political Theater"
+*   Victor Davis Hanson: Impeachment Will Be Used As A Vote Of No Confidence, Become A Political Weapon
+*   Voter Challenges Warren's Student Loan Forgiveness Plan: "Those Of Us Who Did Right Thing Get Screwed?"
+*   Trump: "I Would Love To Go" To Senate Trial "And Stare In Their Corrupt Faces"
 
 *   Politics
 *   Policy
