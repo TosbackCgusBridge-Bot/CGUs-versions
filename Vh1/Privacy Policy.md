@@ -9,7 +9,7 @@
     *   Love &. Hip Hop Miami
     *   Love &. Hip Hop New York
     *   Martha &. Snoop's Potluck Party Challenge
-    *   RuPaul's Drag Race UK
+    *   RuPaul's Drag Race
     *   Wild 'N OutSee all Shows
 *   App
 *   Watch Live TV
@@ -17,7 +17,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleBlack Ink Crew ChicagoBlack Ink Crew New YorkCartel CrewLove &. Hip Hop MiamiLove &. Hip Hop New YorkMartha &. Snoop's Potluck Party ChallengeRuPaul's Drag Race UKWild 'N Outsee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleBlack Ink Crew ChicagoBlack Ink Crew New YorkCartel CrewLove &. Hip Hop MiamiLove &. Hip Hop New YorkMartha &. Snoop's Potluck Party ChallengeRuPaul's Drag RaceWild 'N Outsee all Shows
 *   App
 *   Watch Live TV
 
