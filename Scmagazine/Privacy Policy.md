@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Trump urges Apple to unlock Pensacola gunman's iPhones
-    *   Facebook deepfakes ban falls short, lawmakers say
-    *   Russia's Fancy Bear successfully hacked Burisma during impeachment probe
-    *   Barr pushes Apple for additional help unlocking Pensacola gunman's iPhone
-    *   No immediate cyberthreat seen over Soleimani killing, but preparation is key
-    
-    *   Hacker leaks more than 515,000 Telnet credentials in forum
-    *   PlanetDrugsDirect breached, PHI and payment info exposed.
+    *   Best practices for reducing third-party risk
+    *   Nemty ransomware makers may be latest to adopt data leak strategy
     *   American Express, PayPal customers now targeted by 16Shop
-    *   Betting firms given access to info on 28M minors in U.K. gov't education database
     *   Renewed Emotet phishing activity targets UN, government and military users
+    *   Bitdefender, Sophos uncover more dangerous apps in Google Play
     
-    *   Greenwald calls Brazil's cybercrime allegations politically motivated
     *   FireEye adds Cloudvisory to its stable
-    *   Mushtik botnet now shopping for Tomato routers
-    *   Mitsubishi Electric discloses June 2019 breach. Tick hacking group reportedly blamed
-    *   CyberRisk Alliance appoints David Longobardi Chief Content Officer
+    *   Betting firms given access to info on 28M minors in U.K. gov't education database
+    *   Federally funded Unimax smartphone pre-loaded with malware
+    *   Get ahead of the cybersecurity curve
+    *   Bezos iPhone compromised by Saudi prince, report finds
+    
+    *   Privacy takes a hit, as storage bucket leaks cannabis dispensary POS data
+    *   Alphabet CEO supports EU push to temporarily ban facial recognition in public spaces
+    *   PupyRAT found sniffing around EU energy concern
+    *   Best practices for reducing third-party risk
+    *   Microsoft database misconfiguration exposes 250M customer support records
 
 Back to Top
 
@@ -262,8 +262,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
-
-You can skip this ad in 2 seconds.
-
-Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
