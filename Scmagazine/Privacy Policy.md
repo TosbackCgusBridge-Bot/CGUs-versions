@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Best practices for reducing third-party risk
-    *   Nemty ransomware makers may be latest to adopt data leak strategy
-    *   American Express, PayPal customers now targeted by 16Shop
-    *   Renewed Emotet phishing activity targets UN, government and military users
-    *   Bitdefender, Sophos uncover more dangerous apps in Google Play
+    *   Trump urges Apple to unlock Pensacola gunman's iPhones
+    *   Report: FBI issues alert after two municipalities hacked via SharePoint
+    *   Application isolation and virtualization provide a false sense of cybersecurity
+    *   NSA reveals to Microsoft critical Windows 10 flaw
+    *   Travelex recovering from ransomware, but more firms at risk of VPN exploit
     
-    *   FireEye adds Cloudvisory to its stable
-    *   Betting firms given access to info on 28M minors in U.K. gov't education database
-    *   Federally funded Unimax smartphone pre-loaded with malware
-    *   Get ahead of the cybersecurity curve
-    *   Bezos iPhone compromised by Saudi prince, report finds
+    *   Microsoft phases out Windows 7 support, now what?
+    *   Mushtik botnet now shopping for Tomato routers
+    *   Equifax class action suit settled
+    *   CyberRisk Alliance appoints David Longobardi Chief Content Officer
+    *   Including gender balance in security: The Journey of a CSO team
     
+    *   NYPD arrests ninth Methbot gang member
+    *   Why automating network security policies is the missing link to digital transformation
     *   Privacy takes a hit, as storage bucket leaks cannabis dispensary POS data
     *   Alphabet CEO supports EU push to temporarily ban facial recognition in public spaces
     *   PupyRAT found sniffing around EU energy concern
-    *   Best practices for reducing third-party risk
-    *   Microsoft database misconfiguration exposes 250M customer support records
 
 Back to Top
 
@@ -262,4 +262,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
