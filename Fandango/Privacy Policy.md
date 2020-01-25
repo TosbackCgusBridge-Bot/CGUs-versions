@@ -67,8 +67,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   ‘Once Upon a Time in Hollywood’ Named Best Picture at the Critics’ Choice Awards Read More
-    *   The Week in Movie News: ‘Bad Boys 4’ and ’National Treasure 3’ in the Works, Taika Waititi for 'Star Wars' and More Read More
-    *   The Week in Movie Trailers: Marvel’s ‘Black Widow,’ ‘Morbius,’ ‘The Lovebirds’ and More Read More
+    *   The Week in Movie News: ‘Captain Marvel 2’ Coming in 2022, Live-Action ‘Bambi’ in the Works and More Read More
+    *   The Week in Movie Trailers: Steve Carell in Jon Stewart’s ‘Irresistible,’ Liam Neeson in ‘Ordinary Love’ and More Read More
     
     Explore Content
     *   Movie Reviews
