@@ -63,7 +63,6 @@ Close submenu ( Guys ) Guys
 Close submenu ( Collections ) Collections
 
 *   View All
-*   Doorbusters
 *   New Arrivals
 *   Best Sellers
 *   Jeans Guide
@@ -71,7 +70,6 @@ Close submenu ( Collections ) Collections
 *   Back to Basics
 *   Music + Pop Culture
 *   Active
-*   Lounge
 *   Uniform
 
 Close submenu ( Jeans ) Jeans
@@ -242,7 +240,6 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
-        *   Doorbusters
         *   New Arrivals
         *   Best Sellers
         *   Jeans Guide
@@ -250,7 +247,6 @@ Menu Find a Store Aeropostale
         *   Back to Basics
         *   Music + Pop Culture
         *   Active
-        *   Lounge
         *   Uniform
     
 *   Jeans
@@ -366,6 +362,17 @@ ORDERS OVER $50 Search Catalog Search
 
 In Stores &. Online
 
+50-70% OFF EVERYTHING
+
+50-70% OFF  
+EVERYTHING
+
+Including 100s of New Arrivals!
+
+Shop Girls Shop Guys
+
+In Stores &. Online
+
 AERO JEANS
 
 BUY 1 GET 1 FREE
@@ -454,17 +461,6 @@ Curvy Bootcut
 Straight
 
 Next
-
-In Stores &. Online
-
-50-70% OFF EVERYTHING
-
-50-70% OFF  
-EVERYTHING
-
-Including 100s of New Arrivals!
-
-Shop Girls Shop Guys
 
 In Stores &. Online
 
