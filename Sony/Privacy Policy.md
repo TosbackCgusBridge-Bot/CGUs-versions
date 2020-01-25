@@ -124,7 +124,7 @@ More buttons? More buttons.
   
 The DualShock 4 Back Button Attachment is available now:  http://play.st/DS4BackButton  pic.twitter.com/ijfy4EzfYw
 
-3 days ago View Tweet Instagram Post B7XFm\_IlWpc
+4 days ago View Tweet Instagram Post B7XFm\_IlWpc
 
 Enjoy 8K Brilliance
 
