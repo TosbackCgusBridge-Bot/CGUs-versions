@@ -1,4 +1,4 @@
-Privacy Notice Last Updated: December 10, 2018
+Privacy Notice Last Updated: January 24, 2020
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -119,24 +119,66 @@ Additional Information for Certain Jurisdictions
 
 We provide additional information about the privacy, collection, and use of personal information of prospective and current customers of AWS Offerings located in certain jurisdictions.  
 
+*   California
+    
+    These additional disclosures are required by the California Consumer Privacy Act and are effective as of January 24, 2020:
+    
+    **Categories of personal information collected**. The personal information that we may collect, or may have collected from consumers in the preceding twelve months, fall into the following categories established by the California Consumer Privacy Act, depending on how you engage with the AWS Offerings:
+    
+    *   Identifiers, such as your name, alias, address, phone numbers, or IP address;
+    *   personal information as described in subdivision (e) of Section 1798.80 of the California Civil Code, such as a credit card number;
+    *   characteristics of protected classifications under California or US federal law, such as age or gender, for example if we conduct user surveys or analysis;  
+        
+    *   commercial information, such as purchase activity;
+    *   Internet or other electronic network activity information, including content interaction information, such as content downloads, streams, and playback details;
+    *   biometric information, such as your voice or appearance, for example if you choose to participate in a demonstration of a speech or image recognition service;  
+        
+    *   geolocation data, such as the location of your device or computer, for example if you enable location services to enhance your experience through event applications we offer;
+    *   audio, visual, electronic or other similar information, including when you communicate with us by phone or otherwise;
+    *   professional or employment-related information, for example data you may provide about your business;
+    *   inference data, such as information about your preferences. and
+    *   education information, such as information about enrollment status, fields of study, or degrees, honors, and awards received.
+    
+    For more information about the personal information we collect, click here.
+    
+    **Categories of personal information disclosed for a business purpose**. The personal information that we may have disclosed about consumers for a business purpose in the preceding twelve months fall into the following categories established by the California Consumer Privacy Act, depending on how you engage with the AWS Offerings:
+    
+    *   Identifiers, such as your name, address, or phone numbers, for example if we use a third party carrier to deliver AWS hardware;
+    *   personal information as described in subdivision (e) of Section 1798.80 of the California Civil Code, such as a credit card number, for example if we use a third party payment processor;
+    *   your age, gender, or other protected classifications under California or US federal law, for example if we conduct user surveys or analysis using a third party service provider;  
+        
+    *   commercial information, such as the details of a product or service you purchased if a third party service provider is assisting to provide that product or service to you;
+    *   Internet or other electronic network activity information, such as if we use a third party service provider to help us gather reports for analyzing the health of our devices and services;
+    *   biometric information, for example if you choose to participate in a demonstration of certain AWS services facilitated by a third party service provider;  
+        
+    *   geolocation data, for example if we enable transportation services from a third party in connection with an AWS event;  
+        
+    *   audio, visual, electronic or other similar information, for example if a third party service provider reviews recordings of customer support phone calls for quality assurance purposes;
+    *   professional or employment-related information, for example if we provide information to a third party service provider for verification or registration as part of the AWS Offerings. and
+    *   education information, for example if we facilitate employment or internship recruitment activities for participants in the AWS Educate program.
+    
+    For more information about the personal information we may disclose to third parties for a business purpose, click here and here.
+    
+    **Your Rights**. You may have the right under the California Consumer Privacy Act to request information about the collection of your personal information by us, or access to or deletion of your personal information. If you wish to do any of these things, please contact us (for AWS customers) or contact us at the address under Contacts, Notices, and Revisions above (for AWS customers and non-customers). Depending on your data choices, certain services may be limited or unavailable.
+    
+    **No sale of personal information**. In the preceding twelve months, we have not sold any personal information of consumers, as those terms are defined under the California Consumer Privacy Act.
+    
+    **No Discrimination**. We will not discriminate against any consumer for exercising their rights under the California Consumer Privacy Act.
+    
 *   Canada
     
-    For any prospective or current customers of AWS Offerings in Canada:
-    
-    Your Rights. Subject to applicable law, you have the right to:
+    **Your Rights**. Subject to applicable law, you have the right to:
     
     *   ask whether we hold personal information about you and request copies of such personal information and information about how it is processed;
     *   request that inaccurate personal information is corrected;
     *   request deletion of personal information that is no longer necessary for the purposes underlying the processing, processed based on withdrawn consent, or processed in non-compliance with applicable legal requirements. and
     *   lodge a complaint with us regarding our practices related to your personal information.
     
-    You can exercise your rights of access, rectification, erasure, restriction, or complaint by contacting us. If you wish to do any of these things and you are an AWS customer, please contact us. If you are not an AWS customer, please contact us at the address stated under Notice and Revisions above.
+    You can exercise your rights of access, rectification, erasure, restriction, or complaint by contacting us. If you wish to do any of these things and you are an AWS customer, please contact us. If you are not an AWS customer, please contact us at the address stated under Contacts, Notices, and Revisions above.
     
 *   European Economic Area
     
-    For any prospective or current customers of AWS Offerings in the European Economic Area (EEA):
-    
-    **Controller of Personal Information.** Amazon Web Services EMEA SARL, 5 rue Plaetis, L-2338 Luxembourg, is the data controller of personal information collected or processed through AWS Offerings. Amazon Web Services EMEA SARL, is the authorized representative of Amazon Web Services, Inc. in the EEA.
+    **Controller of Personal Information.** Amazon Web Services EMEA SARL, 38 Avenue John F. Kennedy, L-1855, Luxembourg, is the data controller of personal information collected or processed through AWS Offerings. Amazon Web Services EMEA SARL, is the authorized representative of Amazon Web Services, Inc. in the EEA.
     
     **Processing.** We process your personal information on one or more of the following legal bases:
     
@@ -146,17 +188,16 @@ We provide additional information about the privacy, collection, and use of pers
     *   respond to lawful requests and orders. or
     *   with your consent.
     
-    Your Rights. Subject to applicable law, you have the right to:
+    **Your Rights**. Subject to applicable law, you have the right to:
     
     *   ask whether we hold personal information about you and request copies of such personal information and information about how it is processed;
     *   request that inaccurate personal information is corrected;
     *   request deletion of personal information that is no longer necessary for the purposes underlying the processing, processed based on withdrawn consent, or processed in non-compliance with applicable legal requirements;
     *   request us to restrict the processing of personal information where the processing is inappropriate;
-    *   object to the processing of personal data;  
-        request portability of personal information that you have provided to us (which does not include information derived from the collected information), where the processing of such personal information is based on consent or a contract with you and is carried out by automated means. and 
+    *   object to the processing of personal data. request portability of personal information that you have provided to us (which does not include information derived from the collected information), where the processing of such personal information is based on consent or a contract with you and is carried out by automated means. and 
     *   lodge a complaint with our principal supervisory authority, the Commission Nationale pour la Protection des Données in Luxembourg www.cnpd.lu, or with a local authority.
     
-    You can exercise your rights of access, rectification, erasure, restriction, objection, and data portability by contacting us. If you wish to do any of these things and you are an AWS customer, please contact us. If you are not an AWS customer, please contact us at the address under Notice and Revisions above.
+    You can exercise your rights of access, rectification, erasure, restriction, objection, and data portability by contacting us. If you wish to do any of these things and you are an AWS customer, please contact us. If you are not an AWS customer, please contact us at the address under Contacts, Notices, and Revisions above.
     
     When you consent to our processing your personal information for a specified purpose, you may withdraw your consent at any time, and we will stop any further processing of your data for that purpose.
     
@@ -166,15 +207,11 @@ We provide additional information about the privacy, collection, and use of pers
     
 *   Japan
     
-    For any prospective or current customers of AWS Offerings in Japan:
-    
     Any personal information provided to or gathered by Amazon Web Services Japan K.K. is controlled primarily by Amazon Web Services Japan K.K. Any personal information collected by Amazon Web Services, Inc. is controlled primarily by Amazon Web Services, Inc. We use information in accordance with this Privacy Notice jointly with our domestic and foreign subsidiaries of Amazon.com, Inc., including Amazon Web Services, Inc., Amazon Web Services Japan K.K., Amazon Web Services EMEA SARL, and other global entities. Amazon Web Services Japan K.K. is the business operator primarily responsible for managing jointly used information. We might create de-identified information using your email address, name, address, customer ID, order ID, session ID, and other information.
     
 *   South Korea
     
-    For any prospective or current customers of AWS Offerings in South Korea:
-    
-    AWS has contracts in place with the following third party service provider(s) to perform functions on behalf of AWS in Korea, and they may have access to your personal information as needed to perform their functions described below:  
+    AWS has contracts in place with the following third party service provider(s) to perform functions on behalf of AWS in Korea, and they may have access to your personal information as needed to perform their functions described below:
     
     **_Name of Party_** 
     
