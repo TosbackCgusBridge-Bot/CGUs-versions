@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
+*   _Abby Johnson_: Shifting the Conversation: Being Pro-Life Is Pro-Woman
+    
+*   _Molly Jong-Fast_: The Plight of the Woman Trumpist
+    
+*   _President Donald Trump_: Every Child Is a Precious, Sacred Gift From God
+    
+*   _Chris Cillizza_: How Schiff Became Democrats' Impeachment Star
+    
+*   _Christian Whiton_: A Political Disaster Is Shaping Up for Dems in 2020
+    
+*   _Frank Rich_: Republican Senators Will Regret Their Inaction, Cowardice
+    
+*   _John Solomon_: Biden's 'Conspiracy Theory' Memo Doesn't Match the Facts
+    
+*   _Paul Krugman_: Biden, Sanders, Social Security and Smears
+    
+*   _Steve Cortes_: Why U.S. Security Establishment Can't Stand Trump
+    
+*   _Martin Wolf_: A Partial and Defective U.S.-China Trade Truce
+    
+*   _Helen Raleigh_: Phase One U.S.-China Trade Deal Is a Serious Win for U.S.
+    
+*   _Hassan Hassan_: Alarmists Were Wrong About the Soleimani Strike
+    
+*   _Ki-moon_: The World Is Closer Than Ever to Doomsday
+    
+*   _Kalev Leetaru_: Measuring a Trump-Size Mark on the Cable News Universe
+    
+*   _Tim Alberta_: How the Gun Show Became the Trump Show
+    
+*   _Samuel Abrams_: A New Mob at Sarah Lawrence College
+    
+*   _James Hamblin_: A Historic Quarantine
+    
+*   _Sen. Tim Scott_: The Real Motivation Behind Dems' Impeachment Push
+    
+*   _Dahlia Lithwick_: Trump Is Still Flouting the Law, Even During His Trial
+    
+*   _Josh Blackman_: Trump Acts Like a Politician. That's Not Impeachable
+    
+*   _Matt Ford_: Schiff's Case and the End of Implausible Deniability
+    
+*   _Kylee Zempel_: 70% of Americans Want Significant Abortion Restrictions
+    
+*   _Damon Linker_: Pro-Lifers Will Regret Their Alliance With Trump
+    
 *   _Sean Trende_: Can Any of These Candidates Win the Democratic Nomination?
-    
-*   _Karl Zinsmeister_: No Giver Is Safe: How the Left Is Poisoning Philanthropy
-    
-*   _Nicholas Kristof_: What's Really at Stake in Senate Impeachment Trial
-    
-*   _Liz Harrington_: Democrats Can't Take Chance of Voters Deciding 2020 Election
-    
-*   _Froma Harrop_: Democratic Attacks on Sanders Are Long Overdue
-    
-*   _Freddy Gray_: Bernie Devours Warren
-    
-*   _Nate Silver_: What Are the Chances of a Brokered Convention?
-    
-*   _Howard Fineman_: 2020 Campaign Officially Begins -- in Family Court
-    
-*   _Bernard Goldberg_: Trump's Real Impeachable Offense: Defeating Hillary
-    
-*   _Joe Biden_: Rescuing U.S. Foreign Policy After Trump
-    
-*   _Conrad Black_: Europe Fusses and Fidgets While Trump Defends U.S.
-    
-*   _Brahma Chellaney_: America’s Debilitating Middle-East Obsession
-    
-*   _James Carafano_: How Trump Could Build a NATO in the Middle East
-    
-*   _Kenneth F. McCallion_: Trump Pushed Russian Disinformation
-    
-*   _Eli Lake_: The FBI Scandal
-    
-*   _Brad Bannon_: Hypocrisy Is the Currency of the Realm for Republicans
-    
-*   _Susan Crabtree_: Critics: Senate to Fight Draft Rule Targeting Federalist Society
-    
-*   _Stephanie Mencimer_: End Times: One Reason Evangelicals Love Trump
-    
-*   _Philip Wegmann_: Presidential First: Trump to Speak at March for Life
-    
-*   _Lili Loofbourow_: How Joe Biden Will Float to Victory
-    
-*   _Rupert Darwall_: Trump Draws Battle Lines Against Dems, 'Prophets of Doom'
-    
-*   _Steve Phillips_: 12 States Where Democrats Could Flip the Senate
-    
-*   _Mollie Hemingway_: 6 Democratic Senators to Watch in Impeachment Trial
-    
-*   _Greg Sargent_: Schiff Asked GOP Senators a Tough Question
     
 
 *   Previous
@@ -253,35 +253,49 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
-*   2020 Democratic Presidential NominationEmerson
-    *   Biden30
-    *   Sanders27
-    *   Warren13
+*   2020 Democratic Presidential NominationABC News/Wash Post
+    *   Biden34
+    *   Sanders22
+    *   Warren14
     *   Bloomberg7
-    *   Buttigieg6
-    *   Yang8
+    *   Buttigieg4
+    *   Yang6
     *   Klobuchar4
     *   Steyer1
+    *   Gabbard0
+    *   Bennet2
+    *   Delaney0Biden +12
+*   Iowa Democratic Presidential CaucusNY Times/Siena
+    *   Biden17
+    *   Sanders25
+    *   Buttigieg18
+    *   Warren15
+    *   Klobuchar8
+    *   Yang3
+    *   Booker
+    *   Steyer3
     *   Gabbard1
-    *   Bennet1
-    *   Delaney1Biden +3
-*   General Election: Trump vs. BidenEmerson
-    *   Biden50
-    *   Trump50Tie
-*   General Election: Trump vs. SandersEmerson
-    *   Sanders51
-    *   Trump49Sanders +2
-*   General Election: Trump vs. WarrenEmerson
-    *   Warren50
-    *   Trump50Tie
+    *   Bloomberg1Sanders +7
+*   Missouri Democratic PrimaryMissouri Scout
+    *   Biden39
+    *   Bloomberg14
+    *   Warren9
+    *   Klobuchar8
+    *   Sanders7
+    *   Buttigieg6
+    *   Yang2
+    *   Steyer1Biden +25
+*   Iowa: Trump vs. BidenNY Times/Siena
+    *   Trump46
+    *   Biden44Trump +2
 
 More Latest Polls In The News
 
-*   Cruz: The Most Important Question In Impeachment Trial Is Can A President Investigate Corruption?
-*   Schumer: Republicans Can Call Hunter Biden, That Will Just Confirm What Trump's Doing Is Political
+*   Philbin Questions Schiff's Credibility: What Changed That We Don't Need To Hear From The Whistleblower?
+*   David Brooks: Can't Impeach Trump For Something That Hasn't Happened, Case For Removal Still "Slightly Weak"
+*   Schumer: Trump's Defense Made Compelling Case For Why Senate Should Call Witnesses, Documents
+*   Bernie Sanders to Hillary: "This Is Not The Kind Of Rhetoric That We Need" While Trying to Defeat Trump
 *   Trump Speaks At "March For Life" Rally: "Unborn Children Have Never Had A Stronger Defender In The White House"
-*   Schiff Closing Statement: "The Framers Could Not Protect Us From Ourselves If Right And Truth Don’t Matter"
-*   Mark Levin: Dems Interfering In 2020 By Preventing Republicans From Nominating Trump To Second Term
 
 *   Politics
 *   Policy
