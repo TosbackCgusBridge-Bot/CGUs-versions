@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Trump urges Apple to unlock Pensacola gunman's iPhones
-    *   Report: FBI issues alert after two municipalities hacked via SharePoint
-    *   Application isolation and virtualization provide a false sense of cybersecurity
-    *   NSA reveals to Microsoft critical Windows 10 flaw
-    *   Travelex recovering from ransomware, but more firms at risk of VPN exploit
-    
-    *   Microsoft phases out Windows 7 support, now what?
-    *   Mushtik botnet now shopping for Tomato routers
+    *   VMWare updates Tools fixing race condition
+    *   Vivin’s low-end cryptomining campaign enters third year of activity
     *   Equifax class action suit settled
-    *   CyberRisk Alliance appoints David Longobardi Chief Content Officer
+    *   Malware redirecting visitors found on 2,000 WordPress sites
+    *   Microsoft phases out Windows 7 support, now what?
+    
+    *   Renewed Emotet phishing activity targets UN, government and military users
+    *   PupyRAT found sniffing around EU energy concern
+    *   Aussie P&N bank suffers data breach
+    *   Samba issues patches for three vulnerabilities
     *   Including gender balance in security: The Journey of a CSO team
     
+    *   Critical vulnerabilities found in GE medical gear
+    *   Citrix fixes bug used in ransomware attacks. Auto maker GEDIA falls victim to exploit
     *   NYPD arrests ninth Methbot gang member
     *   Why automating network security policies is the missing link to digital transformation
     *   Privacy takes a hit, as storage bucket leaks cannabis dispensary POS data
-    *   Alphabet CEO supports EU push to temporarily ban facial recognition in public spaces
-    *   PupyRAT found sniffing around EU energy concern
 
 Back to Top
 
