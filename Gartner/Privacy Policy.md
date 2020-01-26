@@ -68,7 +68,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 637 4327 1 855 637 4327
+    1 855 595 9395 1 855 595 9395
     
 
 *   Solutions By Function
@@ -141,7 +141,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 637 4327 1 855 637 4327
+    1 855 595 9395 1 855 595 9395
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
