@@ -1,4 +1,8 @@
-Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS Toggle message bar
+Visit Your Profile _Not Logged In_ logout _Sign In_ To PBS KIDS _app_
+
+The Cat in the Hat Builds That app wins the People Voice webby!The Cat in the Hat Builds That app wins the People Voice webby!Get it today!
+
+Toggle message bar
 
 *   Apps
 *   Shop
