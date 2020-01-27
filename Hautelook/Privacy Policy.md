@@ -7,6 +7,37 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Best of Makeup Under $20 ft. MAC Cosmetics
+    *   Sam Edelman Clothing Starting at $20
+    *   Cold-Weather Accessory Blowout
+    *   Sunday Style Steals Up to 80% Off
+    *   Google Home Mini at 50% Off
+    *   Free Shipping: Dreamy Bedding Up to 75% Off
+    *   Pair Up with the Best: Boots Under $75
+    *   Rivka Friedman Jewelry Up to 70% Off
+    *   Men's Shoe Steals Up to 70% Off
+    *   Kitchen Storage &. Prep Tools Up to 50% Off
+    *   Swim Shop: One-Pieces Up to 60% Off
+    *   Swim Shop: Separates Up to 60% Off
+    *   Men's Swim Shop: Swim &. Resort Wear Up to 60% Off
+    *   Swim Shop: Cover-Ups Up to 60% Off
+    *   Swim Shop: Accessories &. More Up to 55% Off
+    *   Papillon Up to 80% Off
+    *   Swim Shop: Sandals &. Espadrilles Up to 60% Off
+    *   Kids' Swim Shop Up to 60% Off
+    *   Seaside Vibes: Love Stitch &. More
+    *   Dazzlepro Teeth Whitening Up to 85% Off
+    *   Michael Stars Up to 60% Off
+    *   The Third Piece: Blazers, Toppers &. More
+    *   Dr. Martens
+    *   Upcoming Trends: Sandals, Loafers &. More from $30
+    *   Men's Swim Shop: Shoes &. Accessories Up to 60% Off
+    *   Psycho Bunny Lounge Starting at $13
+    *   Free Shipping: Fine Art Up to 85% Off
+    *   Best for Baby: Sets, Footies &. More
+    
+    *   Kids' Character Pajamas Up to 65% Off
+    *   Skin Care Starting at $10 ft. Neutrogena
     *   Hobo Bags Up to 50% Off
     *   BLANKNYC Up to 60% Off
     *   Betsey Johnson &. Love...Ady Dresses
@@ -14,30 +45,26 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Catherine Catherine Malandrino Incl. Plus &. Petites
     *   Skin Care We Love ft. Murad
     *   Predire Paris Luxury Skin Care Starting at $15
-    *   Get Your Shine On: BECCA Highlighters &. More
     *   Diamonds, Gems &. More Up to 80% Off
     *   JBW Watches
     *   Katy Perry from $20
     *   Designer Spotlight ft. Walter Baker Up to 70% Off
-    *   BCBGeneration
-    *   Volcom Men Starting at $15
     *   Fresh Finds: Booties &. More from $40
     *   Free Shipping: Professional Garment Steamers
-    *   Samsonite Luggage Up to 60% Off
     *   Fun Footwear: Hearts, Unicorns &. More
     *   Volcom Boys &. More Under $30
-    *   Men's Boots Up to 65% Off
-    *   National Geographic Books
+    *   Volcom Men Starting at $15
+    *   Get Your Shine On: BECCA Highlighters &. More
     *   7 For All Mankind Up to 65% Off
     *   7 For All Mankind Kids Up to 60% Off
     *   7 For All Mankind Men Up to 60% Off
-    
     *   Trina Turk Clothing &. Swim Up to 65% Off
     *   Luxury Bedding ft. ED Ellen Degeneres &. Lacoste
     *   PUMA
     *   Franco Sarto Up to 55% Off
     *   Thacker New York Handbags
     *   PUMA Men
+    
     *   Rise to the Top: Styles Up to 70% Off
     *   Trina Turk Jewelry &. More
     *   HYFVE &. More Starting at $20
@@ -48,61 +75,63 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Clean Beauty: Medusa Makeup
     *   PUMA Active
     *   NEST Fragrances
-    *   Designer Sun &. More ft. Gucci
-    *   Designer Bags ft. Moschino Up to 50% Off
-    *   Designer Shoes ft. Salvatore Ferragamo Up to 60% Off
-    *   Designer Fragrances &. Cologne Under $100
-    *   Men's Designer Shoes ft. Versace &. More Up to 60% Off
-    *   Men's Designer Styles
-    *   Boys' Dresswear ft. Isaac Mizrahi
     *   SIBU Sea Berry Therapy Skin Care &. Supplements
-    
     *   Top Toy Brands: Mattel, Fisher-Price &. LEGO
     *   Boys' Dress Shoes
     *   Free Shipping: Faux Plants &. Planters
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Exfoliating Sugar Cubes from Harper + Ari
     *   Georgette Klinger Skin Care
-    *   English Laundry
     *   1000-1200 Thread Count Sheet Set Blowout
+    *   Men's Boots Up to 65% Off
     *   Valentine's Day Gifting: Home Decor from $10
     *   Luxury Bedding Sets Up to 45% Off
-    *   All Under $50: Lancome Makeup
     *   Hooded Throws Up to 50% Off
     *   Kitchen &. Home Decor from $15
-    *   Luxe Faux: Donna Salyers' Fabulous Furs Blowout
-    *   Plant-Based Oil Products for Face &. Body
-    *   Men's Skin &. Shave Care Starting at $10
-    *   nodpod: Weighted Sleep Masks for Better Sleep
-    *   Free Shipping: BergHOFF Up to 55% Off
-    *   Bedding &. Bath Essentials Up to 50% Off
-    *   Designer Styles Up to 65% Off
-    *   Poolside Upgrade: Resort-Ready Swim
-    *   Sanctuary Incl. Plus &. Petites
+    *   BCBGeneration
+    *   Samsonite Luggage Up to 60% Off
+    *   National Geographic Books
 *   WomenShop Sale Events
     
+    *   Best of Makeup Under $20 ft. MAC Cosmetics
+    *   Sam Edelman Clothing Starting at $20
+    *   Cold-Weather Accessory Blowout
+    *   Sunday Style Steals Up to 80% Off
+    *   Pair Up with the Best: Boots Under $75
+    *   Rivka Friedman Jewelry Up to 70% Off
+    *   Swim Shop: One-Pieces Up to 60% Off
+    *   Swim Shop: Separates Up to 60% Off
+    *   Swim Shop: Cover-Ups Up to 60% Off
+    *   Swim Shop: Accessories &. More Up to 55% Off
+    *   Papillon Up to 80% Off
+    *   Swim Shop: Sandals &. Espadrilles Up to 60% Off
+    *   Seaside Vibes: Love Stitch &. More
+    *   Dazzlepro Teeth Whitening Up to 85% Off
+    *   Michael Stars Up to 60% Off
+    *   The Third Piece: Blazers, Toppers &. More
+    *   Dr. Martens
+    *   Upcoming Trends: Sandals, Loafers &. More from $30
+    *   Skin Care Starting at $10 ft. Neutrogena
     *   Hobo Bags Up to 50% Off
     *   BLANKNYC Up to 60% Off
     *   Betsey Johnson &. Love...Ady Dresses
     *   Step into Comfort: Shoes from $40
     *   Catherine Catherine Malandrino Incl. Plus &. Petites
     *   Skin Care We Love ft. Murad
+    
     *   Predire Paris Luxury Skin Care Starting at $15
-    *   Get Your Shine On: BECCA Highlighters &. More
     *   Diamonds, Gems &. More Up to 80% Off
     *   JBW Watches
     *   Katy Perry from $20
     *   Designer Spotlight ft. Walter Baker Up to 70% Off
-    *   BCBGeneration
     *   Fresh Finds: Booties &. More from $40
-    *   Samsonite Luggage Up to 60% Off
+    *   Get Your Shine On: BECCA Highlighters &. More
     *   7 For All Mankind Up to 65% Off
     *   Trina Turk Clothing &. Swim Up to 65% Off
     *   PUMA
     *   Franco Sarto Up to 55% Off
     *   Thacker New York Handbags
     *   Rise to the Top: Styles Up to 70% Off
-    
     *   Trina Turk Jewelry &. More
     *   HYFVE &. More Starting at $20
     *   Abound &. More from $30
@@ -110,59 +139,52 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Clean Beauty: Medusa Makeup
     *   PUMA Active
     *   NEST Fragrances
-    *   Designer Sun &. More ft. Gucci
-    *   Designer Bags ft. Moschino Up to 50% Off
-    *   Designer Shoes ft. Salvatore Ferragamo Up to 60% Off
-    *   Designer Fragrances &. Cologne Under $100
     *   SIBU Sea Berry Therapy Skin Care &. Supplements
     *   Exfoliating Sugar Cubes from Harper + Ari
     *   Georgette Klinger Skin Care
-    *   All Under $50: Lancome Makeup
-    *   Plant-Based Oil Products for Face &. Body
-    *   Men's Skin &. Shave Care Starting at $10
-    *   nodpod: Weighted Sleep Masks for Better Sleep
-    *   Designer Styles Up to 65% Off
-    *   Poolside Upgrade: Resort-Ready Swim
-    *   Sanctuary Incl. Plus &. Petites
+    *   BCBGeneration
+    *   Samsonite Luggage Up to 60% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Handbags
     *   Jewelry
-    *   Accessories
     *   Watches
+    *   Accessories
     *   Lingerie &. Shapewear
 *   MenShop Sale Events
     
+    *   Men's Shoe Steals Up to 70% Off
+    *   Men's Swim Shop: Swim &. Resort Wear Up to 60% Off
+    *   Men's Swim Shop: Shoes &. Accessories Up to 60% Off
+    *   Psycho Bunny Lounge Starting at $13
     *   JBW Watches
     *   Volcom Men Starting at $15
-    *   Samsonite Luggage Up to 60% Off
-    *   Men's Boots Up to 65% Off
+    
     *   7 For All Mankind Men Up to 60% Off
     *   PUMA Men
-    
     *   Champion Men's Clothing &. More Under $40
-    *   Designer Sun &. More ft. Gucci
-    *   Men's Designer Shoes ft. Versace &. More Up to 60% Off
-    *   Men's Designer Styles
-    *   English Laundry
+    *   Men's Boots Up to 65% Off
+    *   Samsonite Luggage Up to 60% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Accessories
     *   Watches
+    *   Accessories
 *   KidsShop Sale Events
     
+    *   Kids' Swim Shop Up to 60% Off
+    *   Best for Baby: Sets, Footies &. More
+    *   Kids' Character Pajamas Up to 65% Off
     *   Fun Footwear: Hearts, Unicorns &. More
     *   Volcom Boys &. More Under $30
-    *   National Geographic Books
     *   7 For All Mankind Kids Up to 60% Off
     *   PUMA Kids
-    *   Boys' Dresswear ft. Isaac Mizrahi
     *   Top Toy Brands: Mattel, Fisher-Price &. LEGO
     *   Boys' Dress Shoes
+    *   National Geographic Books
     
     Shop By Category
     *   Girls' Shoes
@@ -170,60 +192,57 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Boys' Shoes
     *   Boys' Sizes 2T-7
     *   Girls' Sizes 2T-6X
-    *   Girls' Sizes 7-16
     *   Boys' Sizes 8-20
+    *   Girls' Sizes 7-16
     *   Baby Boy
     *   Baby Girl
+    *   Baby Gear &. Essentials
 *   HomeShop Sale Events
     
+    *   Google Home Mini at 50% Off
+    *   Free Shipping: Dreamy Bedding Up to 75% Off
+    *   Kitchen Storage &. Prep Tools Up to 50% Off
+    *   Free Shipping: Fine Art Up to 85% Off
     *   Free Shipping: Professional Garment Steamers
-    *   Samsonite Luggage Up to 60% Off
     *   Luxury Bedding ft. ED Ellen Degeneres &. Lacoste
     *   Free Shipping: Faux Plants &. Planters
+    
     *   Free Shipping: Down &. Memory Foam Essentials
     *   1000-1200 Thread Count Sheet Set Blowout
     *   Valentine's Day Gifting: Home Decor from $10
-    
     *   Luxury Bedding Sets Up to 45% Off
     *   Hooded Throws Up to 50% Off
     *   Kitchen &. Home Decor from $15
-    *   Luxe Faux: Donna Salyers' Fabulous Furs Blowout
-    *   Free Shipping: BergHOFF Up to 55% Off
-    *   Bedding &. Bath Essentials Up to 50% Off
+    *   Samsonite Luggage Up to 60% Off
     
     Shop By Category
     *   Bedding
     *   Home Decor
-    *   Kitchen &. Tabletop
     *   Cleaning &. Organization
-    *   Electronic &. Tech Accessories
-    *   Bath
+    *   Kitchen &. Tabletop
     *   Luggage &. Travel
-    *   Outdoor Living
-    *   Accent Furniture
+    *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
+    *   Best of Makeup Under $20 ft. MAC Cosmetics
+    *   Dazzlepro Teeth Whitening Up to 85% Off
+    *   Skin Care Starting at $10 ft. Neutrogena
     *   Skin Care We Love ft. Murad
     *   Predire Paris Luxury Skin Care Starting at $15
     *   Get Your Shine On: BECCA Highlighters &. More
+    
     *   Organic, Ethically-Sourced Herbal Teas &. Soaps
     *   Clean Beauty: Medusa Makeup
     *   NEST Fragrances
-    *   Designer Fragrances &. Cologne Under $100
-    
     *   SIBU Sea Berry Therapy Skin Care &. Supplements
     *   Exfoliating Sugar Cubes from Harper + Ari
     *   Georgette Klinger Skin Care
-    *   All Under $50: Lancome Makeup
-    *   Plant-Based Oil Products for Face &. Body
-    *   Men's Skin &. Shave Care Starting at $10
-    *   nodpod: Weighted Sleep Masks for Better Sleep
     
     Shop By Category
     *   Skin Care
-    *   Fragrance
     *   Bath &. Body
     *   Makeup
+    *   Fragrance
     *   Tools &. Accessories
     *   Nails
 
