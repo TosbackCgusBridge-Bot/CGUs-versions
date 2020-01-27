@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Abby Johnson_: Shifting the Conversation: Being Pro-Life Is Pro-Woman
+*   _Liz Peek_: Impeachment Has Been a Dud for Democrats
     
-*   _Molly Jong-Fast_: The Plight of the Woman Trumpist
+*   _Errol Louis_: Schiff Tries to Punch Through the Republican Wall
     
-*   _President Donald Trump_: Every Child Is a Precious, Sacred Gift From God
+*   _Rowan Scarborough_: Schiff and His Media Allies Are Worse Than Joe McCarthy
     
-*   _Chris Cillizza_: How Schiff Became Democrats' Impeachment Star
+*   _Jelani Cobb_: Impeachment and the Short-Term Thinking of the GOP
     
-*   _Christian Whiton_: A Political Disaster Is Shaping Up for Dems in 2020
+*   _Kyle Smith_: Hillary Clinton Is the World's Greatest Gift to Republicans
     
-*   _Frank Rich_: Republican Senators Will Regret Their Inaction, Cowardice
+*   _Frank Bruni_: Let Us All Now Weep for Donald Trump
     
-*   _John Solomon_: Biden's 'Conspiracy Theory' Memo Doesn't Match the Facts
+*   _Steven Hayward_: State of Things for Dems: Gloomy &. Getting Gloomier
     
-*   _Paul Krugman_: Biden, Sanders, Social Security and Smears
+*   _Ronald Brownstein_: A Reckoning Over Iowa
     
-*   _Steve Cortes_: Why U.S. Security Establishment Can't Stand Trump
+*   _Chuck DeVore_: Will Texas Flip Because of Blue-State Migrants? Don't Bet on It
     
-*   _Martin Wolf_: A Partial and Defective U.S.-China Trade Truce
+*   _Chuck Thompson_: Why Tourism Should Die—and Why It Won’t
     
-*   _Helen Raleigh_: Phase One U.S.-China Trade Deal Is a Serious Win for U.S.
+*   _Toby Young_: Make 2020 the Year Cancel Culture Gets Canceled
     
-*   _Hassan Hassan_: Alarmists Were Wrong About the Soleimani Strike
+*   _Benjamin Wallace-Wells_: Biden and Sanders Battle for the Working Class
     
-*   _Ki-moon_: The World Is Closer Than Ever to Doomsday
+*   _Roger Kimball_: The Grubby Corruption of Our Power Elite
     
-*   _Kalev Leetaru_: Measuring a Trump-Size Mark on the Cable News Universe
+*   _Elie Honig_: Trump's Legal Team Already Spinning Deception at Senate Trial
     
-*   _Tim Alberta_: How the Gun Show Became the Trump Show
+*   _Michael Goodwin_: In Strong Start, Trump Lawyers Put Impeachers on Trial
     
-*   _Samuel Abrams_: A New Mob at Sarah Lawrence College
+*   _Noah Feldman_: Maybe the Senate Isn't Up to the Job of Impeachment
     
-*   _James Hamblin_: A Historic Quarantine
+*   _Mark Penn_: Impeachment Is Just Political Rage--It's Time to End Trial
     
-*   _Sen. Tim Scott_: The Real Motivation Behind Dems' Impeachment Push
+*   _Christina Cauterucci_: The March for Life Became a Trump Rally
     
-*   _Dahlia Lithwick_: Trump Is Still Flouting the Law, Even During His Trial
+*   _Rita Joseph_: A Travesty of Law: Roe v. Wade Is Ripe for Reversal
     
-*   _Josh Blackman_: Trump Acts Like a Politician. That's Not Impeachable
+*   _Joseph Nye_: Do Morals Ever Matter in American Foreign Policy?
     
-*   _Matt Ford_: Schiff's Case and the End of Implausible Deniability
+*   _Julie Kelly_: Afghanistan Is Joe Biden's War
     
-*   _Kylee Zempel_: 70% of Americans Want Significant Abortion Restrictions
+*   _Bhaskar Sunkara_: Why Joe Rogan's Endorsement Is Good for Sanders
     
-*   _Damon Linker_: Pro-Lifers Will Regret Their Alliance With Trump
+*   _Giancarlo Sopo_: Sanders Isn't a 'Democratic Socialist'--He's a Marxist
     
-*   _Sean Trende_: Can Any of These Candidates Win the Democratic Nomination?
+*   _Myra Adams_: 'If Trump Wasn't Trump, He'd Be Reagan'
     
 
 *   Previous
@@ -253,49 +253,56 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
-*   2020 Democratic Presidential NominationABC News/Wash Post
-    *   Biden34
-    *   Sanders22
-    *   Warren14
-    *   Bloomberg7
-    *   Buttigieg4
-    *   Yang6
-    *   Klobuchar4
+*   Iowa Democratic Presidential CaucusUSA Today/Suffolk
+    *   Sanders19
+    *   Biden25
+    *   Buttigieg18
+    *   Warren13
+    *   Klobuchar6
+    *   Yang3
+    *   Steyer2
+    *   Gabbard1
+    *   BloombergBiden +6
+*   Iowa Democratic Presidential CaucusCBS News/YouGov
+    *   Sanders26
+    *   Biden25
+    *   Buttigieg22
+    *   Warren15
+    *   Klobuchar7
+    *   Yang1
     *   Steyer1
     *   Gabbard0
-    *   Bennet2
-    *   Delaney0Biden +12
-*   Iowa Democratic Presidential CaucusNY Times/Siena
-    *   Biden17
-    *   Sanders25
-    *   Buttigieg18
-    *   Warren15
-    *   Klobuchar8
-    *   Yang3
-    *   Booker
+    *   BloombergSanders +1
+*   New Hampshire Democratic Presidential PrimaryNBC News/Marist
+    *   Sanders22
+    *   Biden15
+    *   Buttigieg17
+    *   Warren13
+    *   Klobuchar10
+    *   Gabbard6
+    *   Yang5
     *   Steyer3
-    *   Gabbard1
-    *   Bloomberg1Sanders +7
-*   Missouri Democratic PrimaryMissouri Scout
-    *   Biden39
-    *   Bloomberg14
-    *   Warren9
-    *   Klobuchar8
-    *   Sanders7
-    *   Buttigieg6
-    *   Yang2
-    *   Steyer1Biden +25
-*   Iowa: Trump vs. BidenNY Times/Siena
-    *   Trump46
-    *   Biden44Trump +2
+    *   Booker
+    *   Bennet1Sanders +5
+*   New Hampshire Democratic Presidential PrimaryCNN/UNH
+    *   Sanders25
+    *   Biden16
+    *   Buttigieg15
+    *   Warren12
+    *   Klobuchar6
+    *   Gabbard5
+    *   Yang5
+    *   Steyer2
+    *   Booker
+    *   Bennet0Sanders +9
 
 More Latest Polls In The News
 
+*   Pro-Life Democrat Grills Buttigieg At FOX News Town Hall: Party Platform Says We Don't Belong
+*   Graham: In Two Hours, Trump's Defense Team Destroyed A Narrative Dems Made For 21 Hours
+*   Zakaria: "At Davos, Trump Invited Every Nation To Follow His Example. More And More Are Complying"
 *   Philbin Questions Schiff's Credibility: What Changed That We Don't Need To Hear From The Whistleblower?
-*   David Brooks: Can't Impeach Trump For Something That Hasn't Happened, Case For Removal Still "Slightly Weak"
-*   Schumer: Trump's Defense Made Compelling Case For Why Senate Should Call Witnesses, Documents
-*   Bernie Sanders to Hillary: "This Is Not The Kind Of Rhetoric That We Need" While Trying to Defeat Trump
-*   Trump Speaks At "March For Life" Rally: "Unborn Children Have Never Had A Stronger Defender In The White House"
+*   Megyn Kelly: CNN Became The Thing Trump Said They Were, Indistinguishable From MSNBC
 
 *   Politics
 *   Policy
