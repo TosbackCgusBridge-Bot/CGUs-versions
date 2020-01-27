@@ -214,17 +214,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   VMWare updates Tools fixing race condition
-    *   Vivin’s low-end cryptomining campaign enters third year of activity
-    *   Equifax class action suit settled
-    *   Malware redirecting visitors found on 2,000 WordPress sites
-    *   Microsoft phases out Windows 7 support, now what?
+    *   FTCODE ransomware acquires info-stealing powers
+    *   Privacy takes a hit, as storage bucket leaks cannabis dispensary POS data
+    *   Citrix fixes bug used in ransomware attacks. Auto maker GEDIA falls victim to exploit
+    *   NSA reveals to Microsoft critical Windows 10 flaw
+    *   Army (websites) defeated, but for the greater good
     
     *   Renewed Emotet phishing activity targets UN, government and military users
-    *   PupyRAT found sniffing around EU energy concern
-    *   Aussie P&N bank suffers data breach
-    *   Samba issues patches for three vulnerabilities
-    *   Including gender balance in security: The Journey of a CSO team
+    *   Report: FBI issues alert after two municipalities hacked via SharePoint
+    *   Mushtik botnet now shopping for Tomato routers
+    *   Russia's Fancy Bear successfully hacked Burisma during impeachment probe
+    *   American Express, PayPal customers now targeted by 16Shop
     
     *   Critical vulnerabilities found in GE medical gear
     *   Citrix fixes bug used in ransomware attacks. Auto maker GEDIA falls victim to exploit
@@ -262,4 +262,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
