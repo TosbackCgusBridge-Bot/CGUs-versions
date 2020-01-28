@@ -21,32 +21,12 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackFinal Hours Of COUPON CODE FLASH26ENDS IN00HOURS 41MINS 27SECS See Details"\*Extra 30% off select home purchases of $100 or more. Extra 25% off select purchases under $100. Extra 10% off furniture, mattresses, housewares, small electrics, fitness equipment and accessories, floor care and custom blinds and shades. Each offer good at jcp.com only, excluding taxes and shipping charges, 1/26/20. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Best Value, Daily Deals, Limited Time Specials, S'ip by S'well, Electronics, Brookstone, Sharper Image, In-Home Custom Design, Tempur-Pedic, Neato Robotics, iRobot, Sporting Goods/Outdoor Gear, Purchase with Purchase Items, In-Store Services, Service Plans, Gift Cards, Closing Store purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code FLASH26 when prompted at checkout or call 1.800.322.1189 and mention the code." Full Exclusions &. Details                                                                              
-
-*   SHOP NOW
-
-*   NIKE\*
-    
-*   ADIDAS\*
-    
-*   CHAMPION\*
-    
-*   SKECHERS\*
-    
-*   NEW BALANCE
-    
-*   VANS\*
-    
-*   PUMA\*
-    
-*   REEBOK\*
-    
-
-SHOP NOWSHEETS MATTRESS PADS PILLOWSMATTRESSESDOWN &. DOWN-ALTERNATIVE COMFORTERS BEDDING MEMORY FOAM PILLOWS &. TOPPERS BLANKETS &. THROWS  UP TO 60% OFF + Extra 10% off with coupon Furniture | select styles | Furniture available online only.  
-UP TO 60% OFF + Extra 10% off with coupon Mattresses | select styles  
-    SHOP VALENTINE'S DAY GIFTSSAVE UP TO 83%Your choice: 1/10 ct. t.w. diamond pendant, earrings or ring in sterling silver, reg $124.98 ea. Limited Time Special, while supplies last. Excluded from coupons and rewards.  SHOP SEPHORA FRAGRANCESSHOP THE LOCAL LOOK JCPenney is teaming up with fashion and lifestyle influencers to bring you a curated selection of their top picks. Check back every month to see new styles.  
+Near YouFind a StoreBackBUY 1 GET 1 40% OFF†Girls’ Xersion activewear select styles | reg. $14-$60 BUY 1 GET 1 40% OFF†Boys’ Xersion activewear select styles | reg. $14-$60 BUY 1 GET 1 40% OFF†Men’s Xersion activewear select styles | reg. $14-$50 Buy 1 Get 1 40% OFFGuys’ Arizona jeans select styles | reg. $42-$50  
+40% OFF$40+ with code | Juniors’ Arizona jeans select styles | reg. $42  
+40% OFF$40+ with code | Kids’ Arizona jeans select styles | reg. $30-$40  
+BEDDINGSHEETSBASIC BEDDINGBATH    SHOP VALENTINE'S DAY GIFTSSAVE UP TO 83%Your choice: 1/10 ct. t.w. diamond pendant, earrings or ring in sterling silver, reg $124.98 ea. Limited Time Special, while supplies last. Excluded from coupons and rewards.  SHOP SEPHORA FRAGRANCESSHOP THE LOCAL LOOK JCPenney is teaming up with fashion and lifestyle influencers to bring you a curated selection of their top picks. Check back every month to see new styles.  
 SHOP NOW Shop our curated collection of tees, hair products and makeup—designed just for you.  
-\*Nike, adidas, Skechers, Champion, Puma, Reebok &. athletic shoes excluded from coupons. Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 28 total items loaded in Media GalleryFollow @jcpenney Shop and Save at JCPenney
+†Buy one item at regular price, get a second item of equal or lesser value for 40% off or 50% off, while supplies last. Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 28 total items loaded in Media GalleryFollow @jcpenney Shop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! We take pride in being a one-stop shop for all your needs, with as many options as you can imagine.
 
