@@ -1,9 +1,3 @@
-Cookies help us keep internet content free. By continuing to use our website or by clicking "Got It", you agree to the use of cookies. **Learn More**
-
-If you decline, your information won’t be tracked when you visit this website. A single cookie will be used in your browser to remember your preference not to be tracked.
-
-AcceptDecline
-
 *   Careers
 *   Ad Quality
 *   Login
@@ -147,12 +141,12 @@ See our case study See our case study →
 *   4
 *   5
 
-New Research  
-Is your identity program built on a house of cards?  
-Download now >. 5 Building blocks of identity  
-Identifying people accurately isn't easy. But if you use the five keys to identity resolution, you'll produce measurable outcomes.  
+New Blog  
+After Google's announcement, Epsilon-Conversant is positioned to thrive  
+Read on the Epsilon blog >. 5 Building blocks of identity  
+Identifying people accurately isn't easy without the five keys to identity resolution.  
 Get the guide >. The Real Deal on Reach  
-Our VP of product management shares three critical areas to explore when evaluating identity vendors' reach capabilities.  
+Our team shares three critical areas to explore when evaluating identity vendors' reach capabilities.  
 Watch the video >. SOME OF THE COMPANIES THAT  
 HARNESS OUR POWER
 
