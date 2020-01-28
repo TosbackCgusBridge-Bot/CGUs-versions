@@ -99,14 +99,14 @@ Close Upload ★VIP
     *   granny
     *   family
     *   cumshot
-    *   masturbation
     *   big cock
+    *   masturbation
     *   petite
+    *   gangbang
     *   massage
     *   ass fuck
-    *   gangbang
-    *   big ass
     *   blonde
+    *   big ass
     *   brunette
     *   View All
 *   Categories
@@ -269,6 +269,17 @@ Close Upload ★VIP
 
 **Search Suggestions** start typing for suggestions ... **Suggested Pornstars** start typing for suggestions ... **Suggested Channels** start typing for suggestions ... **Suggested Keywords**
 
+*   my sisters hot
+*   huge cock
+*   college girls
+*   taboo mother
+*   sisters hot friend
+*   step
+*   milf
+*   mom and daughter
+*   first time anal
+*   threesome
+
 **Recent Searches** Clear
 
 JOIN VIP FOR $1
@@ -386,49 +397,6 @@ If any of the Content that you post to or through the Website contains ideas, su
 In the process of posting Content to the Website, you may be asked to provide some personally identifying information, such as your name, address, e-mail address, a password, and other documentation. You may also be asked to provide such information in order to use certain features of the Website.
 
 We will keep a record of the information you provide, including your personally identifiable information. That information may be linked in our records to other information you provide, including Content. We will not provide your name or other personally identifying information to our advertisers or business partners without your permission. Please note that some of the information you provide in registering for and using the Website, including the name used in registering for and using the Website or other personally identifying information, may be displayed to other members of the Website, and may become public. In addition, we may disclose the personally identifying information and documentation you provide in some limited circumstances.
-
-VIT Users
-
-Tube8 is collaborating with Tokken MSB Inc. (“**Tokken**”), which is an independent third party, for a cryptocurrency program (collectively, the “**VIT Platform**”).
-
-Tube8 registered users now have the opportunity to register for free as VIT users (each, a “**VIT User**”) in order to participate in Tokken’s cryptocurrency program on our Website and collect (“**VIT**”).
-
-VIT is a form of cryptocurrency, or a blockchain-based engagement monetization solution, that allows its user to be rewarded for simply interacting with various form of entertainment content. Participation in VIT’s Platform program is subject to Tokken’s terms and conditions, available at the following link: https://visionindustry.com/disclaimer . For more information, please follow Tokken’s FAQ link: https://visionindustry.com/faqs.
-
-Here is a summary of how it works:
-
-*   **Register.** In order to participate in Tokken’s cryptocurrency program and become a VIT User, Tube8 registered users will first need to register to that program and create an account directly on the VIT Platform (the “**VIT Account**”) by choosing a VIT ID, which will be your identifier on the VIT Platform, and a password.
-
-*   The VIT ID and password will act as ‘keys’ for connecting on the VIT Platform, and will be different and independent from the Tube8 registered user account. **_Avoid using any real names, address or any identifier as VIT ID._** Tokken is an independent third party which complete terms and conditions are found at: https://visionindustry.com/disclaimer .
-*   \*\*\***IMPORTANT**\*\*\*: Please take good note and make sure to remember your VIT ID and your password – they are the ‘keys’ to access your VIT Account, your VIT and your VIT Wallet (as described herein). If you lost or do not remember your password, please contact Tokken directly at info@visionindustry.com.
-
-*   **Connect.** Each VIT User, once registered, can connect through the Website in order to submit content, interact with other content or to access its personal wallet page (the “**VIT Wallet**”). A VIT User may also connect directly through Tokken’s website, https://visionindustry.com/, to access and to use its VIT Wallet.
-
-*   VIT Wallet Terms:
-
-*   The VIT Wallet is provided to all VIT Users on an as-is, self-serve basis. No custody service of any digital assets is provided by Tube8 or any of its related or affiliated entities.
-*   VIT Users are at all times required to conduct themselves diligently and prudently in safeguarding their VIT Account and its associated information, including any passwords, private keys, security question answers, and/or PIN codes.
-*   As diligent and prudent VIT Users, VIT Users are strongly recommended to familiarize themselves with the functionality of the VIT Wallet, namely by reading any provided or associated documentation and/or start with “test” transactions of small amounts.
-*   VIT Users hereby acknowledge that Tube8 has no method of recovering such associated information in the event that such information is lost, misplaced, forgotten, or otherwise caused to be unavailable to any user. VIT Users hereby recognizes that Tube8 doesn’t control the VIT Platform and shall incur no responsibility whatsoever in the event of any loss (whether such loss is of material value, opportunity value, or of any other nature) resulting from misuse or malfunction of the VIT Wallet.
-*   Moreover, each VIT User personally assumes the risk of total or partial loss of digital assets stored on the VIT Wallet (with possible risks existing due to factors that are both inside and outside of the VIT User’s control) and as such, VIT Users agree to take the appropriate precautions in their use of the VIT Wallet, in accordance with their knowledge and expertise with cryptocurrency assets (and their associated storage methods), the VIT User’s won risk tolerance, and any other relevant factors.
-
-*   **Interact.** Each VIT User will be able to interact (liking and/or commenting, each an “**Interaction**”) with all VIT Content or other VIT User’s comments.
-*   **Use Power.** Each Interaction will use a VIT User-selected amount of “ **Power**” – ranging from 10% to 100% of the daily available Power, therefore limiting the amount of Interactions each VIT User can use each day. The more Power is used on a single Interaction, the bigger the potential reward could be.
-*   **Get Rewarded.** Each Interaction from a VIT User with any VIT Content will be rewarded with VIT to the interacting VIT User, depending on various aspects, notably:
-
-*   The Power each VIT User used. and
-*   The popularity of VIT User’s Interactions (for example: many ‘likes’ and comments on a VIT User’s comment or videos).
-
-*   **Enjoy.** All earned VIT will be accessible via each VIT User’s VIT Wallet. VIT can be spent to:
-
-*   **Increase VIT User’s Power –** Allowing more daily Interactions.
-*   **Transfer VIT –** Allowing free transfer of VIT between VIT Users.
-*   **And More –** More information on uses, withdrawing or trading VIT with other cryptocurrencies are available directly on Tokken‘s website at https://visionindustry.com/. Additionally, you can also email Tokken directly at info@visionindustry.com for more information.
-
-*   **Withdrawing VIT** – In order to exchange VIT for other currencies, you first need to transfer your VIT from your VIT Wallet to an exchange or trading platform that supports VIT, such as IDAX (https://www.idax.pro) or Cryptopia (https://cryptopia.co.nz/). To do so, sign up for an account on such an exchange, and locate your deposit address for VIT. In your VIT Wallet, transfer any desired and available amount of VIT to that deposit address. Once this transfer is complete, your VIT balance should show up in your deposit address account, which will give you the ability to trade your VIT for any currency supported by your exchange or trading platform.
-
-*   **Tips.** To maximize the VIT rewards, try to create valuable/positive Interactions with other VIT Users.
-*   **Questions?** Tokken is an independent third party, which complete terms and conditions can be found at https://visionindustry.com/disclaimer . For more questions on how the VIT Platform works, please follow the FAQ link: https://visionindustry.com/faqs, or contact Tokken directly at info@visionindustry.com .
 
 Prohibited Uses
 
@@ -832,11 +800,6 @@ We do not disclose your Personal Information except in the limited circumstances
 
 *   We may disclose your Personal Information to members of our corporate group (that is, entities that control, are controlled by, or are under common control with us) to the extent this is necessary for the purposes of provision of services, customer management, customization of content, advertising, analytics, verifications, functionality and security, and compliance.
 *   **Service providers.** To our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, risk and fraud detection and mitigation, providing customer service, performing business and sales analysis, customization of content, analytics, security, supporting our Website functionality, surveys and other features offered through our Website. These service providers may have access to Personal Information needed to perform their functions but are not permitted to share or use such information for any other purposes.
-
-*   **VIT Users’ Information.** As described in our terms and conditions, Tube8 is collaborating with Tokken MSB Inc. ("**Tokken**"") to set up a " **VIT Platform**" in order to allow participating users to earn a cryptocurrency called (" **VIT**"). Tokken is an independent third party, which complete privacy policy can be found at https://visionindustry.com/disclaimer or at https://visionindustry.com/faqs .
-
-*   In order to allow our Tube8 registered users to participate in the VIT Program and collect VIT, as further explained in our terms and conditions, we required our Tube8 registered user to register a VIT Account and choose a VIT ID, which will act as a user identifier and will be shared with Tokken. Any additional information to be shared with Tokken will be "hashed", therefore, except each user’s VIT ID, no additional identity data or accessible Personal Information will be shared with Tokken.
-
 *   **Legal successors** . To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by us about our Website users is among the assets transferred. Should such a sale or transfer occur, we will use reasonable efforts to try to ensure that the entity to which we transfer your personal information uses it in a manner that is consistent with this privacy policy.
 
 We access, preserve and share your Personal Information with regulators, law enforcement or others where we reasonably believe such disclosure is needed to (a) satisfy any applicable law, regulation, legal process, or governmental request, (b) enforce applicable terms of use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address illegal or suspected illegal activities, security or technical issues, (d) protect against harm to the rights, property or safety of our company, our users, our employees, or others. or (e) to maintain and protect the security and integrity of our Website or infrastructure. In such cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
