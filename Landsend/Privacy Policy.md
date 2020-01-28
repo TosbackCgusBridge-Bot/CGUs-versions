@@ -28,9 +28,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive 40% off your order!
+Receive 40% off your order. free two-day shipping to most U.S. addresses!
 
-code: EMBERS pin: PROMOTION DETAILS
+code: SNOWBANK pin: PROMOTION DETAILS
 
 Customer Service Menu
 
