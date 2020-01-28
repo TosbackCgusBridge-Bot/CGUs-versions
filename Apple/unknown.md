@@ -28,9 +28,8 @@ Date Range Date Range content loading
     
     View Device Requests
     
-    Device Requests by Year - Worldwide 70k60k50k40k30k20k10k0k79%201878%201767%201659%201560%201473%2013
-    *   Requests Received
-    *   Requests where Data Provided
+    Device Requests by Year - Worldwide
+    
 *   Financial Identifier
     
     Financial Identifier requests are based on financial identifiers such as credit/debit card or iTunes Gift Card.
@@ -50,8 +49,9 @@ Date Range Date Range content loading
     
     View Account Requests
     
-    Account Requests by Year - Worldwide
-    
+    Account Requests by Year - Worldwide 10k9k8k7k6k5k4k3k2k1k0k82%201881%201775%201667%201560%201454%2013
+    *   Requests Received
+    *   Requests where Data Provided
 *   Account Preservation
     
     Account Preservation requests are based on account identifiers such as an Apple ID or email address.   
