@@ -118,53 +118,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Liz Peek_: Impeachment Has Been a Dud for Democrats
+*   _Mollie Hemingway_: Trump Is Right. Schiff Has Not Paid for Damaging U.S.
     
-*   _Errol Louis_: Schiff Tries to Punch Through the Republican Wall
+*   _Andrew Prokop_: John Bolton's Bombshell, Explained
     
-*   _Rowan Scarborough_: Schiff and His Media Allies Are Worse Than Joe McCarthy
+*   _Peter Wallison_: WH Lawyers Have Already Closed the Case on Impeachment
     
-*   _Jelani Cobb_: Impeachment and the Short-Term Thinking of the GOP
+*   _Francis Wilkinson_: It'll Get Worse for Republicans After Trump's Acquittal
     
-*   _Kyle Smith_: Hillary Clinton Is the World's Greatest Gift to Republicans
+*   _Schier &. Eberly_: 2020 Environment Points to Replay of Trump's 2016 Win
     
-*   _Frank Bruni_: Let Us All Now Weep for Donald Trump
+*   _David Brooks_: Joe Biden Is Stronger Than You Think
     
-*   _Steven Hayward_: State of Things for Dems: Gloomy &. Getting Gloomier
+*   _Jed Babbin_: Biden Is Worse Than a Stopped Clock
     
-*   _Ronald Brownstein_: A Reckoning Over Iowa
+*   _Reps. Khanna &. Rooney_: Why We Must Address Income Inequality
     
-*   _Chuck DeVore_: Will Texas Flip Because of Blue-State Migrants? Don't Bet on It
+*   _Jonah Goldberg_: Our Nation Is Paying for Trump's Refusal to Be Presidential
     
-*   _Chuck Thompson_: Why Tourism Should Die—and Why It Won’t
+*   _Mark Steyn_: 4 Years Later: National Review's Decline Continues
     
-*   _Toby Young_: Make 2020 the Year Cancel Culture Gets Canceled
+*   _Jeff Pearlman_: Basketball Legend Kobe Bryant Had Big Plans
     
-*   _Benjamin Wallace-Wells_: Biden and Sanders Battle for the Working Class
+*   _Maureen Dowd_: Notorious D.J.T. on Trial
     
-*   _Roger Kimball_: The Grubby Corruption of Our Power Elite
+*   _Andrew McCarthy_: The Democrats' Burisma Bait and Switch
     
-*   _Elie Honig_: Trump's Legal Team Already Spinning Deception at Senate Trial
+*   _Albert Hunt_: Why House Dems Will Keep Investigating Trump After the Trial
     
-*   _Michael Goodwin_: In Strong Start, Trump Lawyers Put Impeachers on Trial
+*   _Frank Miele_: Lies, Damned Lies and Adam Schiff's Moving Lips
     
-*   _Noah Feldman_: Maybe the Senate Isn't Up to the Job of Impeachment
+*   _Alexis Johnson_: As Roe Nears 50, Abortion Is Under Attack
     
-*   _Mark Penn_: Impeachment Is Just Political Rage--It's Time to End Trial
+*   _Erika Bachiochi_: The Troubling Ideals at the Heart of Abortion Rights
     
-*   _Christina Cauterucci_: The March for Life Became a Trump Rally
+*   _Daniel McCarthy_: Donald Trump, President of Peace
     
-*   _Rita Joseph_: A Travesty of Law: Roe v. Wade Is Ripe for Reversal
+*   _Fred Kaplan_: Let's Not Forget: Trump Still Has the Power to Destroy the World
     
-*   _Joseph Nye_: Do Morals Ever Matter in American Foreign Policy?
+*   _Mark Hemingway_: Iran-Linked Lobby Behind Obama Nuclear Deal Back in Action
     
-*   _Julie Kelly_: Afghanistan Is Joe Biden's War
+*   _Bill Plaschke_: How Can Kobe Bryant Be Gone?
     
-*   _Bhaskar Sunkara_: Why Joe Rogan's Endorsement Is Good for Sanders
+*   _Jeff Wise_: Kobe's Helicopter Likely Succumbed to Well-Known Danger
     
-*   _Giancarlo Sopo_: Sanders Isn't a 'Democratic Socialist'--He's a Marxist
+*   _Nicholas Waddy_: Trump vs. Thunberg: A Tale of Two Planet Earths
     
-*   _Myra Adams_: 'If Trump Wasn't Trump, He'd Be Reagan'
+*   _Edward-Isaac Dovere_: Obama's 2016 Warning: Trump Is a 'Fascist'
     
 
 *   Previous
@@ -235,9 +235,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   A Presidential First: Trump to Speak at March for Life
+*   Can Any of These Candidates Win the Democratic Nomination?
 *   Critics: Senate Ready to Fight Draft Rule Targeting Federalist Society
-*   Trump Camp Mocks Dems With Cartoon Schiff as Wile E. Coyote
+*   "Every Life Brings Love": Trump Slams "Radical" Dems at March for Life
 *   Sanders, Gagged in the Senate, Suffers Rivals' Slings
 *   Whistleblower Overheard in '17 Discussing How to Remove Trump
 *   Presidential Job Approval
@@ -253,6 +253,16 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
+*   Iowa Democratic Presidential CaucusEmerson
+    *   Sanders30
+    *   Biden21
+    *   Buttigieg10
+    *   Warren11
+    *   Klobuchar13
+    *   Yang5
+    *   Steyer5
+    *   Gabbard5
+    *   BloombergSanders +9
 *   Iowa Democratic Presidential CaucusUSA Today/Suffolk
     *   Sanders19
     *   Biden25
@@ -263,46 +273,34 @@ Latest PollsAll Polls
     *   Steyer2
     *   Gabbard1
     *   BloombergBiden +6
-*   Iowa Democratic Presidential CaucusCBS News/YouGov
-    *   Sanders26
-    *   Biden25
-    *   Buttigieg22
-    *   Warren15
-    *   Klobuchar7
+*   New Hampshire Democratic Presidential PrimaryBoston Herald/FPU
+    *   Sanders29
+    *   Biden22
+    *   Buttigieg10
+    *   Warren16
+    *   Klobuchar5
+    *   Gabbard3
     *   Yang1
+    *   Steyer0
+    *   Bennet2Sanders +7
+*   Utah Democratic PrimarySalt Lake Tribune/Suffolk
+    *   Sanders27
+    *   Warren14
+    *   Biden12
+    *   Bloomberg10
+    *   Buttigieg5
+    *   Yang5
+    *   Klobuchar3
     *   Steyer1
-    *   Gabbard0
-    *   BloombergSanders +1
-*   New Hampshire Democratic Presidential PrimaryNBC News/Marist
-    *   Sanders22
-    *   Biden15
-    *   Buttigieg17
-    *   Warren13
-    *   Klobuchar10
-    *   Gabbard6
-    *   Yang5
-    *   Steyer3
-    *   Booker
-    *   Bennet1Sanders +5
-*   New Hampshire Democratic Presidential PrimaryCNN/UNH
-    *   Sanders25
-    *   Biden16
-    *   Buttigieg15
-    *   Warren12
-    *   Klobuchar6
-    *   Gabbard5
-    *   Yang5
-    *   Steyer2
-    *   Booker
-    *   Bennet0Sanders +9
+    *   Gabbard1Sanders +13
 
 More Latest Polls In The News
 
+*   Pam Bondi: Biden/Ukraine Corruption Concerns Are Legitimate. "Nepotistic At Best, Nefarious At Worst"
+*   Schumer: If Republicans Do Not Allow Bolton And Mulvaney To Testify, They Are "Part Of The Cover-Up"
+*   Ken Starr: "We Are Living In What Can Aptly Be Described As The Age Of Impeachment," "How Did We Get Here?"
 *   Pro-Life Democrat Grills Buttigieg At FOX News Town Hall: Party Platform Says We Don't Belong
-*   Graham: In Two Hours, Trump's Defense Team Destroyed A Narrative Dems Made For 21 Hours
 *   Zakaria: "At Davos, Trump Invited Every Nation To Follow His Example. More And More Are Complying"
-*   Philbin Questions Schiff's Credibility: What Changed That We Don't Need To Hear From The Whistleblower?
-*   Megyn Kelly: CNN Became The Thing Trump Said They Were, Indistinguishable From MSNBC
 
 *   Politics
 *   Policy
