@@ -6,39 +6,40 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movies Now Playing
     
     *   Bad Boys for Life
-    *   Dolittle (2020)
     *   1917 (2019)
+    *   Dolittle (2020)
+    *   The Gentlemen
     *   Jumanji: The Next Level
+    *   The Turning (2020)
     *   Star Wars: The Rise of Skywalker (2019)
-    *   Just Mercy
     *   Little Women (2019)
+    *   Just Mercy
     *   Knives Out
     *   Frozen II
-    *   Like a Boss
-    *   Underwater
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   The Gentlemen
-    *   The Turning (2020)
-    *   Detective Chinatown 3
-    *   The Last Full Measure
-    *   Panga (2020)
-    *   Zombi Child
+    *   Gretel &. Hansel
+    *   The Rhythm Section
+    *   The Assistant (2020)
+    *   Created Equal: Clarence Thomas in His Own Words
+    *   Gul Makai
+    *   Incitement
+    *   The Traitor
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Gretel &. Hansel
-    *   The Rhythm Section
     *   Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)
     *   Fantasy Island
     *   What About Love (2020)
     *   Sonic the Hedgehog
+    *   The Photograph (2020)
     *   Brahms: The Boy II
     *   The Call of the Wild (2020)
     *   The Invisible Man (2020)
+    *   Onward
     *   See All Coming Soon
     
     Explore More
