@@ -365,9 +365,9 @@ To exercise the access, data portability, and deletion rights described above, p
 
 Calling us at 1-888-266-6010
 
-Data Deletion Requests: https://Compliance.EducationDynamics.com/DataRequest/DeleteData?sourceurl=EL
+Data Deletion Requests
 
-Data Access Requests: https://Compliance.EducationDynamics.com/DataRequest/RequestData?sourceurl=EL
+Data Access Requests
 
 Only you or a person registered with the California Secretary of State that you authorize to act on your behalf, may make a request related to your personal information. You may also make a request on behalf of your minor child.
 
@@ -381,7 +381,7 @@ We endeavor to respond to a verifiable consumer request within 45 days of its re
 
 _Do Not Sell My Personal Information_
 
-You have the right to opt-out of the sale of your personal information. however, exercising this right does not affect any of your personal information that was sold prior to the filing of your opt-out request. To exercise your opt-out right, please submit a request at: https://Compliance.EducationDynamics.com/DataRequest/DoNotSellData?sourceurl=EL
+You have the right to opt-out of the sale of your personal information. however, exercising this right does not affect any of your personal information that was sold prior to the filing of your opt-out request. To exercise your opt-out right, please submit a request.
 
 **Changes to Our Privacy Notice**
 
@@ -400,7 +400,7 @@ Hoboken, NJ 07030
 
 **PRIVACY POLICY – NEVADA**
 
-Residents of the State of Nevada have the right to opt out of the sale of certain pieces of their information to third parties who will sell or license their information to others. If you are a Nevada resident and would like to make such a request, please email compliance@educationdynamics.com or submit a request at https://compliance.educationdynamics.com/DataRequest/DoNotSellData?sourceurl=EL
+Residents of the State of Nevada have the right to opt out of the sale of certain pieces of their information to third parties who will sell or license their information to others. If you are a Nevada resident and would like to make such a request, please email compliance@educationdynamics.com or submit a request.
 
 Last Updated on 01/14/2020 This Privacy Policy is effective immediately for all users. To review the previous policy, please click here
 
