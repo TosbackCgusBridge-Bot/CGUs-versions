@@ -614,7 +614,7 @@ Lenovo Explore Close
 1-855-253-6686
 
 *   Search
-
+*   icon-compare0 Compare Compare (0)
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
@@ -664,10 +664,10 @@ Lenovo Explore Close
     *   Sign In To LenovoPro
     *   Learn more
 *   Contact
-    *   HELP PLACING AN ORDER 866-426-0911  
-        Hours: Mon-Fri 8AM-7PM ET
+    *   HELP PLACING AN ORDER 866-426-0911
     *   EXISTING ORDER HELP 855-253-6686 option #1
-    *   Hours
+    *   BUSINESS ORDER HELP 866-426-0911
+    *   FAQs &. HOURS >.
     *   24/7 CHAT NOW >.
 *   Account
     *   Sign In
@@ -683,7 +683,13 @@ Top Suggestions
 
 View all >.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
+
+Please add at least 2 products for compare
+
+Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
+
+Lenovo Privacy Statement Top
 
 protects better"/>.
 
@@ -1178,14 +1184,4 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Launches comment card in new windowFeedbackCreated with sketchtool.CHAT NOW
-
-How can we help
-
-you today?
-
-×SALES CHATEXISTING ORDER HELPSALES CHATEXISTING ORDER HELPBUSINESS SALESBUSINESS SALES
-
-Call us: 1-855-253-6686
-
-Check order status >Technical support or Repair status >
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement
