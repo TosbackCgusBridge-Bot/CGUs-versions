@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   FTCODE ransomware acquires info-stealing powers
-    *   Privacy takes a hit, as storage bucket leaks cannabis dispensary POS data
-    *   Citrix fixes bug used in ransomware attacks. Auto maker GEDIA falls victim to exploit
-    *   NSA reveals to Microsoft critical Windows 10 flaw
-    *   Army (websites) defeated, but for the greater good
-    
-    *   Renewed Emotet phishing activity targets UN, government and military users
+    *   Samba issues patches for three vulnerabilities
     *   Report: FBI issues alert after two municipalities hacked via SharePoint
-    *   Mushtik botnet now shopping for Tomato routers
-    *   Russia's Fancy Bear successfully hacked Burisma during impeachment probe
-    *   American Express, PayPal customers now targeted by 16Shop
+    *   Analysis of popular apps finds rampant sharing of personal data
+    *   Ransomware attack cost New Orleans $7 million and counting
+    *   Bots vs. Bad actors: How to spot the difference and protect yourself
     
+    *   Trump urges Apple to unlock Pensacola gunman's iPhones
+    *   PlanetDrugsDirect breached, PHI and payment info exposed.
+    *   Including gender balance in security: The Journey of a CSO team
+    *   Bots vs. Bad actors: How to spot the difference and protect yourself
+    *   Bezos iPhone compromised by Saudi prince, report finds
+    
+    *   Bill seeks to reform NSA surveillance, aiming at Section 215, FISA process
+    *   New York considers bills banning ransom payments
+    *   Bots vs. Bad actors: How to spot the difference and protect yourself
     *   Critical vulnerabilities found in GE medical gear
     *   Citrix fixes bug used in ransomware attacks. Auto maker GEDIA falls victim to exploit
-    *   NYPD arrests ninth Methbot gang member
-    *   Why automating network security policies is the missing link to digital transformation
-    *   Privacy takes a hit, as storage bucket leaks cannabis dispensary POS data
 
 Back to Top
 
@@ -262,4 +262,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
