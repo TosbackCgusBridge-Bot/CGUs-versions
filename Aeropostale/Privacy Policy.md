@@ -365,7 +365,7 @@ Menu Find a Store Aeropostale
 ORDERS OVER $50 Search Catalog Search
 
 Online only!  
-for a limited time 05:32:43
+for a limited time 00:00:00
 
 flash sale
 
