@@ -259,25 +259,38 @@ Join now! Collect 10 nights, get 1 reward\* night
     *   Hotels in Chicago
     *   Hotels in Orlando
     *   Hotels in New Orleans
-    *   Hotels in San Diego
     *   Hotels in Myrtle Beach
+    *   Hotels in San Diego
     *   Hotels in Nashville
     *   Hotels in San Francisco
-    *   Hotels in Denver
-    *   Hotels in Miami
-    *   Hotels in Washington
-    *   Hotels in Paris
-    *   Hotels in Boston
-    *   Hotels in Austin
     *   Hotels in Los Angeles
+    *   Hotels in Miami
+    *   Hotels in Paris
+    *   Hotels in Denver
+    *   Hotels in Washington
+    *   Hotels in Austin
     *   Hotels in Atlanta
-    *   Hotels in Atlantic City
     *   Hotels in San Antonio
+    *   Hotels in Boston
+    *   Hotels in Atlantic City
     *   Hotels in Key West
+    *   Hotels in London
     *   Hotels in Virginia Beach
-    *   Hotels in Ocean City
     *   Hotels in Seattle
-    *   Hotels in Savannah
+    *   Hotels in Ocean City
+*   Top Countries &. Regions
+    *   Hotels in Aruba
+    *   Hotels in Turks and Caicos
+    *   Hotels in Singapore
+    *   Hotels in Maldives
+    *   Hotels in Bermuda
+    *   Hotels in Malta
+    *   Hotels in Maui
+    *   Hotels in Kauai
+    *   Hotels in Oahu
+    *   Hotels in Cape Cod
+    *   Hotels in Outer Banks
+    *   Hotels in Florida Keys
 *   Support &. FAQs
     *   Your bookings
     *   FAQs
