@@ -36,10 +36,15 @@ Get the Best Rates
 *   10-year mortgage rates
 *   FHA loan rates
 *   VA loan rates
+*   ARM loan rates
 
 Refinance your Mortgage
 
 *   Refinance rates
+*   30-year refinance rates
+*   20-year refinance rates
+*   15-year refinance rates
+*   10-year refinance rates
 *   FHA refinance rates
 *   VA refinance rates
 
