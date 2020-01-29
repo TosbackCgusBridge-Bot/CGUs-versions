@@ -7,7 +7,35 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Kitchen Must-Haves from Cuisinart
+    *   Free Shipping: BergHOFF Up to 55% Off
+    *   Free Shipping: Motion Sensor Trash Cans
+    *   Bath &. Bedding Essentials Up to 70% Off
+    *   Entertain in Style: Nambe &. More Up to 60% Off
+    *   JOE'S Jeans
+    *   JOE'S Jeans Men Up to 65% Off
+    *   Boot Up: Combat, Ankle, Tall &. More Up to 60% Off
+    *   Designer Watches ft. Fendi, Versace &. More
+    *   Polished Perfection: Adrianna Papell &. More
+    *   Brooks Brothers Sportswear
+    *   Elodie Starting at $25
+    *   Maxis, Jumpsuits &. Rompers Under $40
+    *   Bath &. Body ft. Molton Brown from $12
+    *   Our Top Picks: Hair Tools ft. T3
+    *   Ash
+    *   14K Gold Jewelry Steals
+    *   JOE'S Jeans Kids Up to 55% Off
+    *   Matisse from $40
+    *   Free Shipping: Decor Accents Up to 45% Off
+    *   JOE'S Jeans Sun &. More Under $30
+    *   Smart Watch Bands &. More Up to 70% Off
+    *   6-Piece Towel Sets &. More Starting at $25
+    *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
+    *   Stride Rite
+    *   Supra Men's Sneakers Up to 60% Off
+    *   Clean Beauty ft. Honeybee Gardens
     *   Ted Baker London
+    
     *   Ted Baker London Men Up to 70% Off
     *   Ted Baker London Handbags Up to 50% Off
     *   Ted Baker London Shoes
@@ -19,78 +47,65 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Skin Care Tools ft. PMD Personal Microderm System
     *   Mustard Seed Under $45
     *   To Give or Get: Valentine's Day Styles
-    *   BCBGeneration
     *   Cole Haan Men's Shoes Up to 50% Off
     *   Vintage Foundry Up to 80% Off
     *   Swoon-Worthy Styles: Shoes Up to 60% Off
-    *   Google Home Mini at 50% Off
     *   Free Shipping: Hand-Painted Replicas
     *   So Gloss Nail Wraps
     *   Booties &. More from $30 ft. Juicy Couture
     *   Juicy Couture Girls
-    *   Swim Shop: Separates Up to 60% Off
-    *   Swim Shop: One-Pieces Up to 60% Off
-    *   Swim Shop: Cover-Ups Up to 60% Off
-    *   Swim Shop: Sandals &. Espadrilles Up to 60% Off
-    *   Men's Swim Shop: Swim &. Resort Wear Up to 60% Off
-    *   Kids' Swim Shop Up to 60% Off
-    
-    *   Swim Shop: Accessories &. More Up to 55% Off
     *   Best of Makeup Under $20 ft. MAC Cosmetics
     *   Sam Edelman Clothing Starting at $20
-    *   Cold-Weather Accessory Blowout
-    *   Sunday Style Steals Up to 80% Off
     *   Free Shipping: Dreamy Bedding Up to 75% Off
     *   Pair Up with the Best: Boots Under $75
     *   Rivka Friedman Jewelry Up to 70% Off
     *   Men's Shoe Steals Up to 70% Off
     *   Kitchen Storage &. Prep Tools Up to 50% Off
-    *   Papillon Up to 80% Off
-    *   Seaside Vibes: Love Stitch &. More
+    *   Swim Shop: One-Pieces Up to 60% Off
+    *   Swim Shop: Separates Up to 60% Off
+    *   Men's Swim Shop: Swim &. Resort Wear Up to 60% Off
+    
+    *   Swim Shop: Cover-Ups Up to 60% Off
+    *   Swim Shop: Accessories &. More Up to 55% Off
+    *   Swim Shop: Sandals &. Espadrilles Up to 60% Off
+    *   Kids' Swim Shop Up to 60% Off
     *   Dazzlepro Teeth Whitening Up to 85% Off
-    *   Michael Stars Up to 60% Off
-    *   The Third Piece: Blazers, Toppers &. More
-    *   Dr. Martens
-    *   Upcoming Trends: Sandals, Loafers &. More from $30
     *   Men's Swim Shop: Shoes &. Accessories Up to 60% Off
     *   Psycho Bunny Lounge Starting at $13
     *   Free Shipping: Fine Art Up to 85% Off
     *   Best for Baby: Sets, Footies &. More
     *   Kids' Character Pajamas Up to 65% Off
     *   Skin Care Starting at $10 ft. Neutrogena
-    *   Hobo Bags Up to 50% Off
-    *   BLANKNYC Up to 60% Off
-    *   Betsey Johnson &. Love...Ady Dresses
-    *   Step into Comfort: Shoes from $40
-    
-    *   Catherine Catherine Malandrino Incl. Plus &. Petites
+    *   Google Home Mini at 50% Off
     *   Skin Care We Love ft. Murad
     *   Predire Paris Luxury Skin Care Starting at $15
-    *   Diamonds, Gems &. More Up to 80% Off
-    *   JBW Watches
-    *   Katy Perry from $20
-    *   Designer Spotlight ft. Walter Baker Up to 70% Off
-    *   Fresh Finds: Booties &. More from $40
     *   Free Shipping: Professional Garment Steamers
-    *   Fun Footwear: Hearts, Unicorns &. More
-    *   Volcom Boys &. More Under $30
-    *   Volcom Men Starting at $15
-    *   Get Your Shine On: BECCA Highlighters &. More
     *   Luxury Bedding ft. ED Ellen Degeneres &. Lacoste
-    *   PUMA Men
     *   Organic, Ethically-Sourced Herbal Teas &. Soaps
     *   Clean Beauty: Medusa Makeup
-    *   SIBU Sea Berry Therapy Skin Care &. Supplements
     *   Free Shipping: Faux Plants &. Planters
     *   Men's Boots Up to 65% Off
-    *   Samsonite Luggage Up to 60% Off
-    *   Valentine's Day Gifting: Home Decor from $10
-    *   Luxury Bedding Sets Up to 45% Off
-    *   National Geographic Books
     *   Free Shipping: Down &. Memory Foam Essentials
-    *   1000-1200 Thread Count Sheet Set Blowout
+    *   Seaside Vibes: Love Stitch &. More
+    *   Michael Stars Up to 60% Off
+    *   The Third Piece: Blazers, Toppers &. More
+    *   Betsey Johnson &. Love...Ady Dresses
+    *   Designer Spotlight ft. Walter Baker Up to 70% Off
 *   WomenShop Sale Events
     
+    *   JOE'S Jeans
+    *   Boot Up: Combat, Ankle, Tall &. More Up to 60% Off
+    *   Designer Watches ft. Fendi, Versace &. More
+    *   Polished Perfection: Adrianna Papell &. More
+    *   Elodie Starting at $25
+    *   Maxis, Jumpsuits &. Rompers Under $40
+    *   Our Top Picks: Hair Tools ft. T3
+    *   Ash
+    *   14K Gold Jewelry Steals
+    *   Matisse from $40
+    *   JOE'S Jeans Sun &. More Under $30
+    *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
+    *   Clean Beauty ft. Honeybee Gardens
     *   Ted Baker London
     *   Ted Baker London Handbags Up to 50% Off
     *   Ted Baker London Shoes
@@ -100,72 +115,56 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Skin Care Tools ft. PMD Personal Microderm System
     *   Mustard Seed Under $45
     *   To Give or Get: Valentine's Day Styles
-    *   BCBGeneration
     *   Swoon-Worthy Styles: Shoes Up to 60% Off
+    
     *   So Gloss Nail Wraps
     *   Booties &. More from $30 ft. Juicy Couture
-    *   Swim Shop: Separates Up to 60% Off
-    *   Swim Shop: One-Pieces Up to 60% Off
-    *   Swim Shop: Cover-Ups Up to 60% Off
-    *   Swim Shop: Sandals &. Espadrilles Up to 60% Off
-    *   Swim Shop: Accessories &. More Up to 55% Off
     *   Best of Makeup Under $20 ft. MAC Cosmetics
     *   Sam Edelman Clothing Starting at $20
-    *   Cold-Weather Accessory Blowout
-    *   Sunday Style Steals Up to 80% Off
     *   Pair Up with the Best: Boots Under $75
     *   Rivka Friedman Jewelry Up to 70% Off
-    *   Papillon Up to 80% Off
-    
-    *   Seaside Vibes: Love Stitch &. More
+    *   Swim Shop: One-Pieces Up to 60% Off
+    *   Swim Shop: Separates Up to 60% Off
+    *   Swim Shop: Cover-Ups Up to 60% Off
+    *   Swim Shop: Accessories &. More Up to 55% Off
+    *   Swim Shop: Sandals &. Espadrilles Up to 60% Off
     *   Dazzlepro Teeth Whitening Up to 85% Off
-    *   Michael Stars Up to 60% Off
-    *   The Third Piece: Blazers, Toppers &. More
-    *   Dr. Martens
-    *   Upcoming Trends: Sandals, Loafers &. More from $30
     *   Skin Care Starting at $10 ft. Neutrogena
-    *   Hobo Bags Up to 50% Off
-    *   BLANKNYC Up to 60% Off
-    *   Betsey Johnson &. Love...Ady Dresses
-    *   Step into Comfort: Shoes from $40
-    *   Catherine Catherine Malandrino Incl. Plus &. Petites
     *   Skin Care We Love ft. Murad
     *   Predire Paris Luxury Skin Care Starting at $15
-    *   Diamonds, Gems &. More Up to 80% Off
-    *   JBW Watches
-    *   Katy Perry from $20
-    *   Designer Spotlight ft. Walter Baker Up to 70% Off
-    *   Fresh Finds: Booties &. More from $40
-    *   Get Your Shine On: BECCA Highlighters &. More
     *   Organic, Ethically-Sourced Herbal Teas &. Soaps
     *   Clean Beauty: Medusa Makeup
-    *   SIBU Sea Berry Therapy Skin Care &. Supplements
-    *   Samsonite Luggage Up to 60% Off
+    *   Seaside Vibes: Love Stitch &. More
+    *   Michael Stars Up to 60% Off
+    *   The Third Piece: Blazers, Toppers &. More
+    *   Betsey Johnson &. Love...Ady Dresses
+    *   Designer Spotlight ft. Walter Baker Up to 70% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Handbags
     *   Jewelry
+    *   Handbags
     *   Accessories
     *   Watches
     *   Lingerie &. Shapewear
 *   MenShop Sale Events
     
+    *   JOE'S Jeans Men Up to 65% Off
+    *   Designer Watches ft. Fendi, Versace &. More
+    *   Brooks Brothers Sportswear
+    *   JOE'S Jeans Sun &. More Under $30
+    *   Supra Men's Sneakers Up to 60% Off
     *   Ted Baker London Men Up to 70% Off
     *   Cole Haan Men's Outerwear &. More Up to 75% Off
+    
     *   Cole Haan Men's Shoes Up to 50% Off
     *   Vintage Foundry Up to 80% Off
-    *   Men's Swim Shop: Swim &. Resort Wear Up to 60% Off
     *   Men's Shoe Steals Up to 70% Off
+    *   Men's Swim Shop: Swim &. Resort Wear Up to 60% Off
     *   Men's Swim Shop: Shoes &. Accessories Up to 60% Off
-    
     *   Psycho Bunny Lounge Starting at $13
-    *   JBW Watches
-    *   Volcom Men Starting at $15
-    *   PUMA Men
     *   Men's Boots Up to 65% Off
-    *   Samsonite Luggage Up to 60% Off
     
     Shop By Category
     *   Clothing
@@ -174,72 +173,76 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Watches
 *   KidsShop Sale Events
     
+    *   JOE'S Jeans Kids Up to 55% Off
+    *   Stride Rite
     *   Juicy Couture Girls
     *   Kids' Swim Shop Up to 60% Off
     *   Best for Baby: Sets, Footies &. More
     *   Kids' Character Pajamas Up to 65% Off
-    *   Fun Footwear: Hearts, Unicorns &. More
-    *   Volcom Boys &. More Under $30
-    *   National Geographic Books
     
     Shop By Category
+    *   Baby
     *   Girls' Sizes 2T-6X
-    *   Boys' Sizes 2T-7
     *   Girls' Sizes 7-16
-    *   Boys' Sizes 8-20
     *   Girls' Shoes
-    *   Baby Gear &. Essentials
-    *   Baby Boy
-    *   Toy Shop
+    *   Boys' Sizes 2T-7
     *   Boys' Shoes
-    *   Baby Girl
+    *   Boys' Sizes 8-20
+    *   Toys
 *   HomeShop Sale Events
     
+    *   Kitchen Must-Haves from Cuisinart
+    *   Free Shipping: BergHOFF Up to 55% Off
+    *   Free Shipping: Motion Sensor Trash Cans
+    *   Bath &. Bedding Essentials Up to 70% Off
+    *   Entertain in Style: Nambe &. More Up to 60% Off
+    *   Free Shipping: Decor Accents Up to 45% Off
+    *   Smart Watch Bands &. More Up to 70% Off
+    *   6-Piece Towel Sets &. More Starting at $25
     *   Ted Baker London Home Up to 60% Off
-    *   Google Home Mini at 50% Off
+    
     *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Dreamy Bedding Up to 75% Off
     *   Kitchen Storage &. Prep Tools Up to 50% Off
     *   Free Shipping: Fine Art Up to 85% Off
+    *   Google Home Mini at 50% Off
     *   Free Shipping: Professional Garment Steamers
-    
     *   Luxury Bedding ft. ED Ellen Degeneres &. Lacoste
     *   Free Shipping: Faux Plants &. Planters
-    *   Samsonite Luggage Up to 60% Off
-    *   Valentine's Day Gifting: Home Decor from $10
-    *   Luxury Bedding Sets Up to 45% Off
     *   Free Shipping: Down &. Memory Foam Essentials
-    *   1000-1200 Thread Count Sheet Set Blowout
     
     Shop By Category
-    *   Bedding
     *   Home Decor
+    *   Bedding
+    *   Kitchen &. Tabletop
+    *   Bath
     *   Cleaning &. Organization
     *   Outdoor Living
     *   Luggage &. Travel
-    *   Kitchen &. Tabletop
-    *   Bath
+    *   Accent Furniture
     *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
+    *   Bath &. Body ft. Molton Brown from $12
+    *   Our Top Picks: Hair Tools ft. T3
+    *   Clean Beauty ft. Honeybee Gardens
     *   Skin Care Tools ft. PMD Personal Microderm System
     *   So Gloss Nail Wraps
     *   Best of Makeup Under $20 ft. MAC Cosmetics
+    
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Skin Care Starting at $10 ft. Neutrogena
     *   Skin Care We Love ft. Murad
-    
     *   Predire Paris Luxury Skin Care Starting at $15
-    *   Get Your Shine On: BECCA Highlighters &. More
     *   Organic, Ethically-Sourced Herbal Teas &. Soaps
     *   Clean Beauty: Medusa Makeup
-    *   SIBU Sea Berry Therapy Skin Care &. Supplements
     
     Shop By Category
     *   Skin Care
     *   Makeup
     *   Bath &. Body
     *   Nails
+    *   Hair Care
     *   Tools &. Accessories
     *   Fragrance
     *   Makeup Bags
