@@ -36,7 +36,6 @@ Close submenu ( Girls ) Girls
 Close submenu ( Collections ) Collections
 
 *   View All
-*   $7 Tees
 *   New Arrivals
 *   Best Sellers
 *   Jeans Guide
@@ -64,7 +63,6 @@ Close submenu ( Guys ) Guys
 Close submenu ( Collections ) Collections
 
 *   View All
-*   $7 Tees
 *   New Arrivals
 *   Best Sellers
 *   Jeans Guide
@@ -193,7 +191,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Online Only! $7 Graphic Tees GIRLS GUYS + FS Over $50**
+**Shop New Spring Arrivals GIRLS GUYS + FS Over $50**
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -218,7 +216,6 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
-        *   $7 Tees
         *   New Arrivals
         *   Best Sellers
         *   Jeans Guide
@@ -243,7 +240,6 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
-        *   $7 Tees
         *   New Arrivals
         *   Best Sellers
         *   Jeans Guide
@@ -363,19 +359,6 @@ Menu Find a Store Aeropostale
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
-
-Online only!  
-for a limited time 00:00:00
-
-flash sale
-
-$7
-
-$7 tees
-
-tees
-
-Shop Girls Shop Guys
 
 In Stores &. Online
 
