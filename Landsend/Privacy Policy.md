@@ -30,6 +30,8 @@ Lands' End Sign In menu
 
 Receive 40% off your order. free two-day shipping to most U.S. addresses!
 
+Only 0 HR 08 MIN 21 SEC Left!
+
 code: SNOWBANK pin: PROMOTION DETAILS
 
 Customer Service Menu
