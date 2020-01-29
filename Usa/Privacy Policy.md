@@ -152,7 +152,7 @@ ENTERTAINMENT COLLECTION
 
 Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Image courtesy of Volkswagen Promo Data: Lower price when you subscribe for 3 years Promo Data: Special Offer Jan 2020
 
-SPECIAL OFFER
+FINAL DAYS TO SAVE
 
 Save on AutoCAD, AutoCAD LT, Revit LT Suite and Fusion 360 today.
 
