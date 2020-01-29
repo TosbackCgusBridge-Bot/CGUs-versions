@@ -30,7 +30,7 @@ Scope
   
 This Privacy Policy applies to our collection, use and disclosure of personal information related to (a) current and former US owner(s) of Hyundai vehicles, (b) our websites (each a "**Site**") and mobile applications (each as "**App**") that link to or display this Privacy Policy, (c) our vehicle technologies and services that we make available via your vehicle, and (d) subscribers to Hyundai Blue Link and other subscription services (collectively the "**Services**"), as well as individuals that contact us, interact us or express interest in our vehicles.  
   
-**Additional Privacy Notices**. We may also provide additional privacy notices for specific services, such as the \[Hyundai Vehicle Owner Privacy Notice\], which applies to and provides additional information about our collection, use and disclosure of personal information related to our vehicle technologies and services.  
+**Additional Privacy Notices**. We may also provide additional privacy notices for specific services, such as the Hyundai Vehicle Owner Privacy Notice, which applies to and provides additional information about our collection, use and disclosure of personal information related to our vehicle technologies and services.  
   
 **Personal Information**. Personal information includes any information that identifies, relates to, describes, or is reasonably capable of being associated, or reasonably linked or linkable with a particular individual or household. Personal information includes information that can identify you, such as contact information, vehicle ownership information, geolocation data, web tracking information, payment card information, and demographic data.  
   
