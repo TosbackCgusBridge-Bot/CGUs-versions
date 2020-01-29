@@ -44,6 +44,7 @@
     *   News
     *   Executive Briefing Center
     *   Partners
+    *   Technology Partners
     *   Brand Assets
     *   Contact
 *   For Developers
@@ -98,6 +99,7 @@
     *   News
     *   Executive Briefing Center
     *   Partners
+    *   Technology Partners
     *   Brand Assets
     *   Contact
 *   For Developers
