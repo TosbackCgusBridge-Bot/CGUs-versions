@@ -269,6 +269,48 @@ Cookies
 8.  Enabling Cookies in Safari, Lynx, and More
 9.  What Cookies We Use, and Why
 
-Copyright © Time and Date AS 1995–2020. All rights reserved.
+How was your experience? Thank you for your feedback! Contact Us Love Our Site? Become a Supporter
 
-Feedback | Short URL | <a id=LRFL href="/information/feedback.html">Feedback</a>. | About Us | Advertising | Disclaimer | Privacy | Sitemap
+*   Browse our site **advert free.**
+*   Sun &. Moon times **precise to the second.**
+*   **Exclusive calendar templates** for PDF Calendar.
+
+© Time and Date AS 1995–2020
+
+Company
+
+*   About us
+*   Careers/Jobs
+*   Contact Us
+*   Contact Details
+*   Sitemap
+*   Newsletter
+
+Legal
+
+*   Link policy
+*   Advertising
+*   Disclaimer
+*   Terms &. Conditions
+*   Privacy Policy
+*   My Privacy
+
+Services
+
+*   World Clock
+*   Time Zones
+*   Calendar
+*   Weather
+*   Sun &. Moon
+*   Timers
+*   Calculators
+*   API
+
+Sites
+
+*   timeanddate.no
+*   timeanddate.de
+
+Follow Us
+
+© Time and Date AS 1995–2020. Privacy &. Terms
