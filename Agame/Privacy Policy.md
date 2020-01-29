@@ -28,18 +28,18 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   KOGAMA: Adopt a Son or Daughter and Form Your Family
     *   Fireboy and Watergirl: The Forest Temple
     *   Fireboy and Watergirl 5: Elements
+    *   KOGAMA: Adopt a Son or Daughter and Form Your Family
     *   Wormate.io
     *   Subway Clash 3D
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Special Strike Dust 2
     *   Ono Card Game
     *   Slither.io
-    *   Kogama: Festival Park
-    *   Hunter 3D
     *   Worms.Zone
+    *   Hunter 3D
+    *   Kogama: Festival Park
 *   Action
     
     Top Categories
@@ -66,14 +66,14 @@ View more results
     *   Subway Clash 3D
     *   Special Strike Dust 2
     *   Air Wars 2
-    *   Apple Shooter
     *   Slither.io
+    *   Apple Shooter
     *   Combat Reloaded
     *   Sniper Code
     *   Stickman Warriors
-    *   King Soldier
     *   Sniper Reloaded
     *   Short Life
+    *   King Soldier
 *   Adventure
     
     Top Categories
@@ -96,18 +96,18 @@ View more results
     *   Alphabetical Order
     
     Best Games
-    *   KOGAMA: Adopt a Son or Daughter and Form Your Family
     *   Fireboy and Watergirl 5: Elements
+    *   KOGAMA: Adopt a Son or Daughter and Form Your Family
     *   World Craft 2
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Subway Surf
-    *   Kogama: Festival Park
     *   Chrome Dino
     *   Adam and Eve 2
     *   Wolf Simulator: Wild Animals 3D
+    *   Kogama: Festival Park
     *   Fox Simulator
     *   World Crafts
-    *   Tiger Simulator 3D
+    *   Mine Clone 4
 *   Puzzle
     
     Top Categories
@@ -135,11 +135,11 @@ View more results
     *   Roll The Ball
     *   Butterfly Kyodai Classic
     *   Word Wipe
-    *   Gold Train FRVR
     *   1001 Arabian Nights
+    *   Gold Train FRVR
     *   Block Wood Puzzle
-    *   Match 3 Hidden Treasure Hunt
     *   Bubble Shooter
+    *   Match 3 Hidden Treasure Hunt
     *   Line Puzzle
     *   Mahjong Connect Classic
 *   Girls
@@ -166,16 +166,16 @@ View more results
     Best Games
     *   Beach Kiss
     *   Princesses Makeover
-    *   Miraculous Hero Kiss
     *   Ella: Hips Surgery
+    *   Miraculous Hero Kiss
     *   Dove Prom Dolly Dress Up
     *   My New Room
-    *   Cute Room Decoration
+    *   Celebrity Fashionistas
     *   Floral Real Life Manicure
     *   Goldie: Lip Injections
+    *   Cute Room Decoration
     *   Mommy BFFs: Pregnant Check-Up
     *   Pizza Real Life Cooking
-    *   Papa's Cupcakeria
 *   Racing
     
     Top Categories
@@ -204,10 +204,10 @@ View more results
     *   Lost Race: Car Game
     *   Xcross Madness
     *   Hill Racing Challenge
-    *   Kogama: Festival Park
     *   Speed Racing Pro 2
     *   Off Road Monster Trucks
     *   Thug Racer
+    *   Kogama: Festival Park
     *   Moto X3m 3
     *   Car Challenger
 *   Sports
@@ -234,12 +234,12 @@ View more results
     *   Penalty Shooters 2: Football Game
     *   Table Tennis Pro
     *   Horse Racing: Betting Game
-    *   Table Tennis World Tour
     *   Basketball Stars 2019
+    *   Table Tennis World Tour
     *   Xcross Madness
     *   Ultimate Boxing
-    *   Subway Surf
     *   Archery World Tour
+    *   Subway Surf
     *   Hunter 3D
     *   Moto X3m 3
     *   Swimming Pro: Race Game
