@@ -502,9 +502,9 @@ Offers
     
     For a chance to take home daily prizes, including a pair of movie tickets to see Dolittle. SEE DETAILS
     
-*   Get A $10 Movie Ticket
+*   Get a $15 Fandango Promo Code
     
-    When you subscribe to the Hotstar Annual Pack. SEE DETAILS
+    When you purchase $35 of Birds of Prey merchandise from Spencer's. SEE DETAILS
     
 
 New + Coming soon
