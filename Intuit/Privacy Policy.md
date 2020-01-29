@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsEnable Accessibility
 
-*   My AccountSign InTrack MyOrders
+*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -26,7 +26,16 @@ Near YouFind a StoreBackBUY 1 GET 1 40% OFF†Girls’ Xersion activewear selec
 40% OFF$40+ with code | Kids’ Arizona jeans select styles | reg. $30-$40  
 BEDDINGSHEETSBASIC BEDDINGBATH    SHOP VALENTINE'S DAY GIFTSSAVE UP TO 83%Your choice: 1/10 ct. t.w. diamond pendant, earrings or ring in sterling silver, reg $124.98 ea. Limited Time Special, while supplies last. Excluded from coupons and rewards.  SHOP SEPHORA FRAGRANCESSHOP THE LOCAL LOOK JCPenney is teaming up with fashion and lifestyle influencers to bring you a curated selection of their top picks. Check back every month to see new styles.  
 SHOP NOW Shop our curated collection of tees, hair products and makeup—designed just for you.  
-†Buy one item at regular price, get a second item of equal or lesser value for 40% off or 50% off, while supplies last. Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 28 total items loaded in Media GalleryFollow @jcpenney Shop and Save at JCPenney
+†Buy one item at regular price, get a second item of equal or lesser value for 40% off or 50% off, while supplies last. Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 28 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+
+*   $1154 - $1484after couponwas $44 St. John's Bay Womens Long Sleeve Button Open Front Cardigan(44)
+*   $2640after couponSt. John's Bay Womens Mid Rise Straight Leg Jean(2076)
+*   $36 - $8360after coupon400tc Wrinkle Guard Deep Pocket Sheet Set - JCPenney Home(2878)
+*   $2640after couponStafford Travel Wrinkle-Free Stretch Oxford Mens Button Down Collar Long Sleeve Dress Shirt(243)
+*   $42 - $84after couponLiz Claiborne Quinn Basketweave Room-Darkening Grommet Top Single Curtain Panel(625)
+*   $1499after couponwas $80 Arizona Womens Denver Riding Boots Block Heel(186)
+
+Shop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! We take pride in being a one-stop shop for all your needs, with as many options as you can imagine.
 
