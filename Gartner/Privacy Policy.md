@@ -68,7 +68,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 849 1157 1 855 849 1157
+    1 855 551 2901 1 855 551 2901
     
 
 *   Solutions By Function
@@ -141,7 +141,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 849 1157 1 855 849 1157
+    1 855 551 2901 1 855 551 2901
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
