@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Samba issues patches for three vulnerabilities
-    *   Report: FBI issues alert after two municipalities hacked via SharePoint
+    *   Best practices for reducing third-party risk
+    *   Equifax class action suit settled
+    *   Application isolation and virtualization provide a false sense of cybersecurity
     *   Analysis of popular apps finds rampant sharing of personal data
-    *   Ransomware attack cost New Orleans $7 million and counting
-    *   Bots vs. Bad actors: How to spot the difference and protect yourself
+    *   The Dearth of Skilled Cybersecurity Personnel
     
-    *   Trump urges Apple to unlock Pensacola gunman's iPhones
+    *   Vivin’s low-end cryptomining campaign enters third year of activity
+    *   Greenwald calls Brazil's cybercrime allegations politically motivated
+    *   Tampa Bay Times hit by Ryuk, new variant of stealer aimed at gov't, finance
+    *   Phishing campaign leads to UPS Store data breach
     *   PlanetDrugsDirect breached, PHI and payment info exposed.
-    *   Including gender balance in security: The Journey of a CSO team
-    *   Bots vs. Bad actors: How to spot the difference and protect yourself
-    *   Bezos iPhone compromised by Saudi prince, report finds
     
-    *   Bill seeks to reform NSA surveillance, aiming at Section 215, FISA process
-    *   New York considers bills banning ransom payments
-    *   Bots vs. Bad actors: How to spot the difference and protect yourself
-    *   Critical vulnerabilities found in GE medical gear
-    *   Citrix fixes bug used in ransomware attacks. Auto maker GEDIA falls victim to exploit
+    *   Zoom fixes meeting ID flaw allowing unauthorized entry
+    *   U.K. will allow Huawei limited role in 5G network
+    *   A new way to think about security in autonomous systems: Don’t
+    *   Tampa Bay Times hit by Ryuk, new variant of stealer aimed at gov't, finance
+    *   Pre-Olympics cybersecurity exercise kicks off in Tokyo
 
 Back to Top
 
