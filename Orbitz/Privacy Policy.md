@@ -11,15 +11,15 @@ Show Menu Hide Menu
 *   Shop Travel
     *   Hotels
     *   Flights
-    *   Vacation packages
+    *   Vacation Packages
     *   Cars
-    *   Vacation rentals
+    *   Vacation Rentals
     *   Cruises
-    *   Things to do
+    *   Things to Do
     *   Deals
     *   Mobile
     *   Rewards
-    *   Travel blog
+    *   Travel Blog
 
 *   List your property
 *   Account
@@ -50,15 +50,15 @@ For customer service, call us toll-free at 1-800-397-3342. For customers outside
 
 *   Hotels
 *   Flights
-*   Vacation packages
+*   Vacation Packages
 *   Cars
-*   Vacation rentals
+*   Vacation Rentals
 *   Cruises
-*   Things to do
+*   Things to Do
 *   Deals
 *   Mobile
 *   Rewards
-*   Travel blog
+*   Travel Blog
 *   More
     *   Mobile
 
