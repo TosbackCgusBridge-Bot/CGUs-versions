@@ -1,3 +1,5 @@
+close
+
 *   Gift Baskets
     
     View All Categories Shop by Category*   Wine Gift Baskets
@@ -87,7 +89,7 @@
     *   Office Gift BasketsMost Popular Premium Wine Gifts
 *   Sale
 
-1.800.753.8558 Business Gifts Free shipping on select gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation
+1.800.753.8558 Business Gifts Free shipping on select gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation close
 
 *   Gift Baskets
     
