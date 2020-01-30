@@ -28,11 +28,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive 40% off your order. free two-day shipping to most U.S. addresses!
+Receive an additional 50% off sale &. clearance styles!
 
-Only 0 HR 08 MIN 21 SEC Left!
-
-code: SNOWBANK pin: PROMOTION DETAILS
+code: SKIS pin: PROMOTION DETAILS
 
 Customer Service Menu
 
