@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Up to 50% off select denim! Shop Now
+Double up on savings! Get an extra 33% off, or 50% off!
 
 *   Women
 *   Men
@@ -165,23 +165,29 @@ Up to 50% off select denim! Shop Now
         
         *   Girls' Clothing
         
-        *   Tops
-        *   Jeans
         *   Bottoms
+        *   Bralettes
+        *   Coats &. Jackets
+        *   Jeans
+        *   Pants
         *   Shirts &. Blouses
-        *   Shoes
-        *   T-Shirts
+        *   Shorts
+        *   Sweatshirts
+        *   Tees
+        *   Tops
         *   Shop All
         
         *   Boys' Clothing
         
-        *   Tops
-        *   Jeans
         *   Bottoms
-        *   Shirts
-        *   Sweatshirts
-        *   T-Shirts
+        *   Coats &. Jackets
+        *   Jeans
         *   Shoes
+        *   Shorts
+        *   Sweatshirts
+        *   Swim
+        *   Tops
+        *   T-Shirts
         *   Shop AllGive a Buckle Gift card
 *   Jeans
     *   *   Women's Jeans
