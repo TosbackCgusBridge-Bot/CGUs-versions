@@ -470,7 +470,7 @@ Lenovo Explore Close
         *   Corporate Office
         *   ThinkSmart Series
         *   ThinkSmart Hub 500
-        *   Think Smart Manager
+        *   ThinkSmart Manager
         *   ThinkSmart View
         
         *   Always Free Shipping
@@ -1178,4 +1178,4 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Launches comment card in new windowFeedback
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement
