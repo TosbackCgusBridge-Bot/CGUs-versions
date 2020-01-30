@@ -1,5 +1,3 @@
-We use cookies to offer you a better experience and to help us understand how you use our site. This includes personalizing site content, our features, and advertising. By clicking I Agree, you accept the use of Cookie Policies and agree to our revised Privacy Policy.I Agree
-
 *   Policy
 *   Markets
 *   World
@@ -118,53 +116,53 @@ We use cookies to offer you a better experience and to help us understand how yo
     *   About
     *   Media Kit
 
-*   _Mark Leibovich_: Is a Good-Enough Candidacy Good Enough for Joe Biden?
+*   _David Harsanyi_: Israeli-Palestinian Peace Plan Is Needed Dose of Reality
     
-*   _Eric Lendrum_: Bernie Sanders Is the Democrat to Beat
+*   _Thomas Friedman_: Is Trump Bibi's Chump?
     
-*   _Jonathan Chait_: Running Sanders Against Trump Would Be Act of Insanity
+*   _Mark Hemingway_: NeverTrump: Most Overrepresented Demographic in Media
     
-*   _Emily Jashinsky_: CNN Creates Another Unintended Ad for Trump
+*   _Daniel Boguslaw_: Tom Perez Stacks the DNC Deck
     
-*   _Susan Glasser_: John Bolton and the Unwaveringly Pro-Trump G.O.P.
+*   _Laura McGann_: Biden Is the Only Dem With a Real Shot at Getting Things Done
     
-*   _Michael Tracey_: Dems' Dubious Impeachment Subtext of Treason
+*   _David Marcus_: How Alex P. Keaton Predicted New Conservative Movement
     
-*   _Tom Rogan_: Trump's Surprisingly Reasonable Mideast Peace Deal
+*   _Kalev Leetaru_: Blocked March for Life Tweets Raise Free Speech Concerns
     
-*   _Eli Lake_: Boris Johnson Jeopardizing U.S.-U.K. Alliance for Huawei
+*   _Paul Krugman_: Greta Thunberg Versus the Greedy Grifters
     
-*   _Will Leitch_: Fans Don't Want to Discuss Kobe's Failings, But We Have To
+*   _Charles Moore_: Do Alarmists Know Difference Between Weather, Climate?
     
-*   _Emmons &. Wilson_: The Washington Post Cancelled Its #1 Canceller
+*   _Steven Howard_: Kobe Bryant's Inspiring Redemption Story
     
-*   _Vilma Grunwald_: The Letter My Mum Left for Us
+*   _Greenwald &. Miranda_: The Far-Right Bolsonaro Movement Wants Us Dead
     
-*   _Conrad Black_: Shut Down This Tiring Farce
+*   _Carl Cannon_: Mr. Smith and the Quest for a Perfect Candidate
     
-*   _Dahlia Lithwick_: How Long Will Republicans Play Dumb About Bolton?
+*   _Charlie Cook_: Dem Picture to Remain Cloudy After Iowa, NH
     
-*   _Michael Goodwin_: Even w/Bolton, Impeachment Case Against Trump Will Fail
+*   _James Robbins_: Will Palestinians Accept Peace or Watch World Pass By?
     
-*   _Brad Bannon_: A Week Before Iowa, Sanders Surges While Warren Wanes
+*   _Malley &. Miller_: Real Goal of Trump's Mideast Plan Isn't Peace, It's Power
     
-*   _John Nichols_: DM Register Gave Warren More Than an Endorsement
+*   _Ian Bremmer_: How Trump's Peace Plan Will Change the Middle East
     
-*   _Brad Parscale_: Trump Rally Data Shows a Clear Winning Coalition in 2020
+*   _Daniel McCarthy_: Why John Bolton Won't Win His War on Trump
     
-*   _Haberman &. Karni_: Bloomberg Is Taunting Trump, and Trump Is Taking the Bait
+*   _Jonathan Stevenson_: The Method in John Bolton's Madness
     
-*   _Susan Crabtree_: Buttigieg Mum on Backing Northam on Late-Term Abortion
+*   _Tristan Justice_: Last-Second Game-Playing Looks Like Kavanaugh 2.0
     
-*   _Ben Schreckinger_: Lobbyist Bought Tropical Land From Biden's Brother
+*   _Barbara McQuade_: 6 Arguments for Trump's Defense Can All Be Rebutted
     
-*   _Peter Schweizer_: Public Service Has Made Bernie (and His Family) Rich
+*   _Minxin Pei_: The Coronavirus Is a Disease of Chinese Autocracy
     
-*   _Jen Psaki_: Trump's Defense Team Failed at Their Most Important Job
+*   _Timothy McLaughlin_: Hong Kong's Colliding Crises
     
-*   _Fred Fleitz_: Ambassador Bolton, Withdraw Your Book
+*   _Andy Puzder_: Arguing Against Vibrant Economy Getting Difficult for Dems
     
-*   _Witt &. Montgomery_: A New Backlash to Gun Control Begins in Virginia
+*   _Sean Collins_: The State of the Democratic Race, One Week Before Iowa
     
 
 *   Previous
@@ -235,9 +233,9 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Rally on Jersey Shore Shows Loyalty Beyond Heartland
+*   Mr. Smith and the Quest for a Perfect Candidate
 *   Buttigieg Won't Say If He Backs Northam on Late-Term Abortion
-*   Bondi Lays Out Case for Potential Corruption by Biden in Ukraine
+*   Trump Holds Rally With Rep. Van Drew in Wildwood, New Jersey
 *   Critics: Senate Ready to Fight Draft Rule Targeting Federalist Society
 *   Can Any of These Candidates Win the Democratic Nomination?
 *   Presidential Job Approval
@@ -253,42 +251,57 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
-*   California Democratic PrimaryBerkeley IGS
-    *   Sanders26
-    *   Biden15
-    *   Warren20
-    *   Buttigieg7
-    *   Bloomberg6
-    *   Klobuchar5
-    *   Yang4
-    *   Steyer2
-    *   GabbardSanders +6
-*   2020 Democratic Presidential NominationQuinnipiac
-    *   Biden26
+*   Iowa Democratic Presidential CaucusMonmouth
     *   Sanders21
+    *   Biden23
+    *   Buttigieg16
     *   Warren15
-    *   Bloomberg8
-    *   Buttigieg6
+    *   Klobuchar10
     *   Yang3
-    *   Klobuchar7
-    *   Steyer2
+    *   Steyer4
     *   Gabbard1
+    *   BloombergBiden +2
+*   Iowa Democratic Presidential CaucusIowa State University
+    *   Sanders24
+    *   Biden15
+    *   Buttigieg17
+    *   Warren19
+    *   Klobuchar11
+    *   Yang5
+    *   Steyer4
+    *   Gabbard2
+    *   Bloomberg1Sanders +5
+*   Florida Democratic Presidential PrimarySt. Pete Polls
+    *   Biden41
+    *   Sanders9
+    *   Bloomberg17
+    *   Warren7
+    *   Buttigieg6
+    *   Klobuchar5
+    *   Yang2
+    *   Booker
+    *   Steyer2
+    *   GabbardBiden +24
+*   2020 Democratic Presidential NominationEconomist/YouGov
+    *   Biden26
+    *   Sanders24
+    *   Warren20
+    *   Bloomberg4
+    *   Buttigieg7
+    *   Yang4
+    *   Klobuchar4
+    *   Steyer1
+    *   Gabbard3
     *   Bennet0
-    *   Delaney0Biden +5
-*   President Trump Job ApprovalQuinnipiac
-    *   Approve43
-    *   Disapprove52Disapprove +9
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve49
-    *   Disapprove50Disapprove +1
+    *   Patrick1Biden +2
 
 More Latest Polls In The News
 
+*   CNN's Lockhart Likens Dershowitz To Hitler: "Public Interest" Argument Similar To Rationalizing Genocide
+*   Dershowitz: Not Impeachable If Pres Does Something He Believes Will Help Him Get Elected In The Public Interest
+*   Philbin: House Failure To Enforce Subpoenas Renders Obstruction of Congress Theory Unprecedented
+*   MSNBC's Ari Melber: I Do Not See Overwhelming Evidence By Democrats To Support Conviction In The Senate
 *   Trump Team Closing Argument: "Why Not Trust The American People With This Decision?"
-*   Schiff: If Republicans Want To Dispute Bolton's Testimony, Let Them Call Mulvaney And Pompeo
-*   Cruz: The Legal Question Before The Senate Is Whether The President Has Authority To Investigate Corruption
-*   Herschmann: Imagine What Schiff Would Say If Trump's Son Was On The Payroll Of A Foreign Oligarch?
-*   CNN's Don Lemon Cracks Up As Rick Wilson, Wajahat Ali Trash Trump Supporters As Ignorant Rubes
 
 *   Politics
 *   Policy
