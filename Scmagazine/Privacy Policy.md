@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Best practices for reducing third-party risk
-    *   Equifax class action suit settled
-    *   Application isolation and virtualization provide a false sense of cybersecurity
-    *   Analysis of popular apps finds rampant sharing of personal data
-    *   The Dearth of Skilled Cybersecurity Personnel
+    *   Mushtik botnet now shopping for Tomato routers
+    *   PupyRAT found sniffing around EU energy concern
+    *   FTCODE ransomware acquires info-stealing powers
+    *   American Express, PayPal customers now targeted by 16Shop
+    *   Ransomware attack cost New Orleans $7 million and counting
     
-    *   Vivin’s low-end cryptomining campaign enters third year of activity
-    *   Greenwald calls Brazil's cybercrime allegations politically motivated
-    *   Tampa Bay Times hit by Ryuk, new variant of stealer aimed at gov't, finance
-    *   Phishing campaign leads to UPS Store data breach
-    *   PlanetDrugsDirect breached, PHI and payment info exposed.
+    *   Why automating network security policies is the missing link to digital transformation
+    *   Cornerstone Payment Systems leaves database open, exposes 6.7M records
+    *   FTCODE ransomware acquires info-stealing powers
+    *   Ransomware attack cost New Orleans $7 million and counting
+    *   Cyberattack halts Tissue Regenix's U.S.-based manufacturing operations
     
-    *   Zoom fixes meeting ID flaw allowing unauthorized entry
-    *   U.K. will allow Huawei limited role in 5G network
-    *   A new way to think about security in autonomous systems: Don’t
-    *   Tampa Bay Times hit by Ryuk, new variant of stealer aimed at gov't, finance
-    *   Pre-Olympics cybersecurity exercise kicks off in Tokyo
+    *   LabCorp suffers second data incident, patient PHI potentially exposed
+    *   Apple patches dozens of security issues
+    *   Cornerstone Payment Systems leaves database open, exposes 6.7M records
+    *   Billie Eilish sweeps Grammys, but Taylor Swift leads with most malware files
+    *   Wawa customer payment card data for sale
 
 Back to Top
 
