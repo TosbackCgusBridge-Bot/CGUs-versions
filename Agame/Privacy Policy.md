@@ -34,12 +34,12 @@ View more results
     *   Wormate.io
     *   Subway Clash 3D
     *   Fireboy &. Watergirl 4: Crystal Temple
-    *   Special Strike Dust 2
-    *   Ono Card Game
     *   Slither.io
+    *   Ono Card Game
     *   Worms.Zone
+    *   Special Strike Dust 2
     *   Hunter 3D
-    *   Kogama: Festival Park
+    *   Hole.io
 *   Action
     
     Top Categories
@@ -64,16 +64,16 @@ View more results
     Best Games
     *   Wormate.io
     *   Subway Clash 3D
-    *   Special Strike Dust 2
-    *   Air Wars 2
     *   Slither.io
     *   Apple Shooter
+    *   Special Strike Dust 2
     *   Combat Reloaded
     *   Sniper Code
     *   Stickman Warriors
-    *   Sniper Reloaded
     *   Short Life
-    *   King Soldier
+    *   Sniper Reloaded
+    *   Bad Ice Cream 2
+    *   Uphill Rush 7: Waterpark
 *   Adventure
     
     Top Categories
@@ -100,14 +100,14 @@ View more results
     *   KOGAMA: Adopt a Son or Daughter and Form Your Family
     *   World Craft 2
     *   Fireboy &. Watergirl 4: Crystal Temple
-    *   Subway Surf
+    *   Short Ride
     *   Chrome Dino
+    *   Subway Surf
     *   Adam and Eve 2
     *   Wolf Simulator: Wild Animals 3D
-    *   Kogama: Festival Park
-    *   Fox Simulator
-    *   World Crafts
     *   Mine Clone 4
+    *   World Crafts
+    *   Superhero New Adventure
 *   Puzzle
     
     Top Categories
@@ -136,12 +136,12 @@ View more results
     *   Butterfly Kyodai Classic
     *   Word Wipe
     *   1001 Arabian Nights
-    *   Gold Train FRVR
     *   Block Wood Puzzle
+    *   Gold Train FRVR
     *   Bubble Shooter
-    *   Match 3 Hidden Treasure Hunt
-    *   Line Puzzle
     *   Mahjong Connect Classic
+    *   Line Puzzle
+    *   Dream Pet Link
 *   Girls
     
     Top Categories
@@ -167,15 +167,15 @@ View more results
     *   Beach Kiss
     *   Princesses Makeover
     *   Ella: Hips Surgery
-    *   Miraculous Hero Kiss
     *   Dove Prom Dolly Dress Up
+    *   Miraculous Hero Kiss
     *   My New Room
-    *   Celebrity Fashionistas
     *   Floral Real Life Manicure
     *   Goldie: Lip Injections
-    *   Cute Room Decoration
-    *   Mommy BFFs: Pregnant Check-Up
     *   Pizza Real Life Cooking
+    *   Mommy BFFs: Pregnant Check-Up
+    *   Cute Room Decoration
+    *   Papa's Cupcakeria
 *   Racing
     
     Top Categories
@@ -202,14 +202,14 @@ View more results
     *   Horse Racing: Betting Game
     *   Real Dog Racing Simulator
     *   Lost Race: Car Game
-    *   Xcross Madness
     *   Hill Racing Challenge
+    *   Xcross Madness
     *   Speed Racing Pro 2
     *   Off Road Monster Trucks
     *   Thug Racer
-    *   Kogama: Festival Park
     *   Moto X3m 3
     *   Car Challenger
+    *   Swimming Pro: Race Game
 *   Sports
     
     Top Categories
@@ -233,12 +233,12 @@ View more results
     Best Games
     *   Penalty Shooters 2: Football Game
     *   Table Tennis Pro
-    *   Horse Racing: Betting Game
     *   Basketball Stars 2019
+    *   Horse Racing: Betting Game
     *   Table Tennis World Tour
-    *   Xcross Madness
-    *   Ultimate Boxing
     *   Archery World Tour
+    *   Ultimate Boxing
+    *   Xcross Madness
     *   Subway Surf
     *   Hunter 3D
     *   Moto X3m 3
