@@ -30,9 +30,11 @@ Service terms ›
 
 This agreement sets out Canonical’s standard service terms for both Ubuntu Advantage and Managed Services customers.
 
-Want fully-managed private Kubernetes clusters?
+Want fully managed private cloud?
 
-Our skilled in-house experts can set up and operate a Kubernetes cluster for you.
+Canonical provides managed services option for OpenStack. Our experts take responsibility for the design, deployment and operations
+
+Learn more ›
 
 Contact us
 
