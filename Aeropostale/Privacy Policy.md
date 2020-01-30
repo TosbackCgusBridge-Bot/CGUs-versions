@@ -92,7 +92,6 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Bootcut Jeans
 *   Skinny Jeans
 *   Mom Jeans
-*   Soft Spun
 *   Real Denim
 *   Flex Effects
 *   Eco-Friendly Repreve
@@ -154,6 +153,7 @@ Close submenu ( Guys ) Guys
 *   Just In
 *   Best Sellers
 *   Online Only
+*   #HeartsAndAero
 *   Real Denim
 *   Destroyed Denim
 *   Music + Pop Culture
@@ -264,7 +264,6 @@ Menu Find a Store Aeropostale
         *   Bootcut Jeans
         *   Skinny Jeans
         *   Mom Jeans
-        *   Soft Spun
         *   Real Denim
         *   Flex Effects
         *   Eco-Friendly Repreve
@@ -319,6 +318,7 @@ Menu Find a Store Aeropostale
         *   Just In
         *   Best Sellers
         *   Online Only
+        *   #HeartsAndAero
         *   Real Denim
         *   Destroyed Denim
         *   Music + Pop Culture
