@@ -26,16 +26,7 @@ Near YouFind a StoreBackBUY 1 GET 1 40% OFF†Girls’ Xersion activewear selec
 40% OFF$40+ with code | Kids’ Arizona jeans select styles | reg. $30-$40  
 BEDDINGSHEETSBASIC BEDDINGBATH    SHOP VALENTINE'S DAY GIFTSSAVE UP TO 83%Your choice: 1/10 ct. t.w. diamond pendant, earrings or ring in sterling silver, reg $124.98 ea. Limited Time Special, while supplies last. Excluded from coupons and rewards.  SHOP SEPHORA FRAGRANCESSHOP THE LOCAL LOOK JCPenney is teaming up with fashion and lifestyle influencers to bring you a curated selection of their top picks. Check back every month to see new styles.  
 SHOP NOW Shop our curated collection of tees, hair products and makeup—designed just for you.  
-†Buy one item at regular price, get a second item of equal or lesser value for 40% off or 50% off, while supplies last. Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 28 total items loaded in Media GalleryFollow @jcpenney Recommended for You
-
-*   $1154 - $1484after couponwas $44 St. John's Bay Womens Long Sleeve Button Open Front Cardigan(44)
-*   $2640after couponSt. John's Bay Womens Mid Rise Straight Leg Jean(2076)
-*   $36 - $8360after coupon400tc Wrinkle Guard Deep Pocket Sheet Set - JCPenney Home(2878)
-*   $2640after couponStafford Travel Wrinkle-Free Stretch Oxford Mens Button Down Collar Long Sleeve Dress Shirt(243)
-*   $42 - $84after couponLiz Claiborne Quinn Basketweave Room-Darkening Grommet Top Single Curtain Panel(625)
-*   $1499after couponwas $80 Arizona Womens Denver Riding Boots Block Heel(186)
-
-Shop and Save at JCPenney
+†Buy one item at regular price, get a second item of equal or lesser value for 40% off or 50% off, while supplies last. Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 28 total items loaded in Media GalleryFollow @jcpenney Shop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! We take pride in being a one-stop shop for all your needs, with as many options as you can imagine.
 
@@ -69,87 +60,56 @@ JCPenney is your one-stop shop for fantastic savings! Your journey towards bette
   
   
   
-Add To Cart
+Add To Cart My Account
 
-*   Signup for text\* or email alerts, offers and promotionsSign Up
-*   **\*Text Alerts:** Message and data rates may apply. By providing my mobile number, I agree to receive autodialed promotional alerts from JCPenney to that number. I understand that consent is not required to purchase goods or services. Up to 8 msgs/month from 527365 (JCPenney). Text HELP to 527365 for help and STOP to 527365 to cancel.  Terms &. Conditions. Privacy Notice.
-
-*   Give us a call **1-800-322-1189**
-*   Send us an email **support@jcp.com**
-*   Need help? **Customer Service**
-*   Ask us on Twitter **@askJCP**
-
-JCPenney Credit Card
-
-*   Pay Bill
-*   Manage Credit Card
-*   Apply Now
-*   Check Balance
+*   Track My Order
+*   Pay Bill &. Manage Account
+*   My JCP.com Account
+*   Apply for JCP Credit Card
 *   Credit Card Benefits
-
-JCPenney Rewards
-
-*   Enroll in Rewards
-*   Sign In to Rewards
+*   JCPenney Rewards
 
 Customer Service
 
-*   Returns
+*   Contact Us
+*   Return Policy
 *   Shipping Information
 *   Rebates
-*   Same Day Pickup
-*   My JCP.com Account
-*   Track My Order
+*   Recalls
+*   Gift Cards
 *   Servicio Al Cliente
-*   Help
 
-Store Services
+Stores
 
+*   Weekly Ad
 *   JCP Salon
 *   Sephora
-*   JCP Portraits
-*   JCP Optical
+*   Portraits
+*   Optical
 *   JCP Custom Window
 *   Kids Zone
-*   View All Store Services
 
-More Ways To Shop
-
-*   See Our ads
-*   Coupons
-*   Download the App
-*   Gift Cards
-
-Corporate Overview
+About Us
 
 *   Careers
 *   Company Info
 *   Community
 *   Media
 *   Investors
+*   Style by JCPenney
 
-Connect with us
+*   Be the first to know about the latest deals and more!Sign Up
+*   \*Text Alerts: Message and data rates may apply. See Details.
 
-*   Facebook
-*   Twitter
-*   Pinterest
-*   Instagram
-*   Youtube
-*   JCPenney Blog
-
-Check Out Our AppsJCPenney Credit
-
-*   Pay Bill
-*   Check Balance
-*   Apply Now
-
-*   Legal
-*   Recalls
-*   AdChoices
+Download Our App
 
 *   Privacy Notice
 *   Do Not Sell My Personal Information
 *   CA Privacy Rights
 *   CA Supply Chain Act
 
-© JCP Media, Inc. 2020 . All Rights ReservedCoupons undefined
+*   Terms and Conditions
+*   Legal
+*   AdChoices
+
+© JCP Media, Inc. 2020.  All Rights ReservedCoupons undefined
