@@ -46,7 +46,7 @@ Visit Indeed
 
 **Privacy Policy**
 
-Last updated December 16, 2019
+Last updated January 30, 2020
 
 **Summary of Indeed’s Privacy Policy** **1\. Introduction**
 
@@ -255,7 +255,7 @@ In the event that the electronic destination provided to Indeed is incorrect, yo
 
 **3.5 @Indeedmail Addresses**
 
-When communicating through Indeed’s message relay system, you will see an email address with an @indeedemail.com or @indeedmail.com ending. You understand that you retain no ownership rights in these email addresses, which are specific to Employers’ Job Listings, but are owned by Indeed. However, Indeed’s relay system will show the name associated with your account or job application in the “To:” or “From:” field.
+When communicating through Indeed’s message relay system, you will see an email address with an @indeedemail.com or @indeedmail.com ending. You understand that you retain no ownership rights in these email addresses, which are specific to Employers’ Job Listings, but are owned by Indeed. However, Indeed’s relay system will show the name associated with your account or job application in the “To:” or “From:” field. In addition, the above shall apply to any email addresses added to a thread when communicating via Indeed’s message relay system. Specifically, if you choose to add additional recipients to an ongoing email thread through Indeed’s message relay system, the additional recipient(s) will also be assigned @indeedemail.com or @indeedmail.com addresses as well. Please note that emails which include an email address ending in @indeedemail.com or @indeedmail.com will be stored on our systems. You should not send a message to an email address ending in @indeedemail.com or @indeedmail.com if you do not wish for this to happen.
 
 Please also note that since these message proxy and relay services depend on the functionality of third-party providers, there may be technical delays on the part of those email service providers.
 
