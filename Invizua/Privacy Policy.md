@@ -16,6 +16,7 @@ AcceptDecline
     *   Blog
     *   Custom Views
     *   Custom Blocks
+    *   Slack
 *   Support
     *   Help Center
     *   Knowledge Base
@@ -34,6 +35,7 @@ AcceptDecline
     *   Blog
     *   Custom Views
     *   Custom Blocks
+    *   Slack
 *   Support
     *   Help Center
     *   Knowledge Base
@@ -66,7 +68,7 @@ New Kings Beam House
 SE1 9PD, London, UK  
 +44 20 7351 4646
 
-Tweets by Visokio Resources
+Resources
 
 Try now Download
 
@@ -79,5 +81,9 @@ info@visokio.com
 support@visokio.com
 
 Enquiry form
+
+Discuss
+
+<img class="wp-image-17085" src="https://visokio.com/wp-content/uploads/2020/01/5cb480cd5f1b6d3fbadece79.png" alt="Discuss with the Visokio team about Omniscope" width="40" height="40" data-wp-editing="1" />
 
 © Visokio    |   Terms of use   |   Privacy Policy
