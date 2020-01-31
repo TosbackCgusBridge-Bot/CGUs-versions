@@ -116,58 +116,6 @@
     *   About
     *   Media Kit
 
-*   _David Harsanyi_: Israeli-Palestinian Peace Plan Is Needed Dose of Reality
-    
-*   _Thomas Friedman_: Is Trump Bibi's Chump?
-    
-*   _Mark Hemingway_: NeverTrump: Most Overrepresented Demographic in Media
-    
-*   _Daniel Boguslaw_: Tom Perez Stacks the DNC Deck
-    
-*   _Laura McGann_: Biden Is the Only Dem With a Real Shot at Getting Things Done
-    
-*   _David Marcus_: How Alex P. Keaton Predicted New Conservative Movement
-    
-*   _Kalev Leetaru_: Blocked March for Life Tweets Raise Free Speech Concerns
-    
-*   _Paul Krugman_: Greta Thunberg Versus the Greedy Grifters
-    
-*   _Charles Moore_: Do Alarmists Know Difference Between Weather, Climate?
-    
-*   _Steven Howard_: Kobe Bryant's Inspiring Redemption Story
-    
-*   _Greenwald &. Miranda_: The Far-Right Bolsonaro Movement Wants Us Dead
-    
-*   _Carl Cannon_: Mr. Smith and the Quest for a Perfect Candidate
-    
-*   _Charlie Cook_: Dem Picture to Remain Cloudy After Iowa, NH
-    
-*   _James Robbins_: Will Palestinians Accept Peace or Watch World Pass By?
-    
-*   _Malley &. Miller_: Real Goal of Trump's Mideast Plan Isn't Peace, It's Power
-    
-*   _Ian Bremmer_: How Trump's Peace Plan Will Change the Middle East
-    
-*   _Daniel McCarthy_: Why John Bolton Won't Win His War on Trump
-    
-*   _Jonathan Stevenson_: The Method in John Bolton's Madness
-    
-*   _Tristan Justice_: Last-Second Game-Playing Looks Like Kavanaugh 2.0
-    
-*   _Barbara McQuade_: 6 Arguments for Trump's Defense Can All Be Rebutted
-    
-*   _Minxin Pei_: The Coronavirus Is a Disease of Chinese Autocracy
-    
-*   _Timothy McLaughlin_: Hong Kong's Colliding Crises
-    
-*   _Andy Puzder_: Arguing Against Vibrant Economy Getting Difficult for Dems
-    
-*   _Sean Collins_: The State of the Democratic Race, One Week Before Iowa
-    
-
-*   Previous
-*   Next
-
 Privacy Policy
 
 Thank you for visiting this website, a digital service presented to you by RealClearPolitics, LLC. ("RCP", "we" or "us"). Your privacy is important to us. As such, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used by this digital service and among RealClearPolitics network of affiliated and operated digital services ("RealClear Media Group"), which includes any online or mobile websites, applications or digital services owned, operated or offered by, on behalf of, or in conjunction with RCP or its Affiliates, including any online or mobile website, application or digital service installation through which this Privacy Policy appears (each a "Service," collectively the "Services"). "Users" are persons that use the Services.
@@ -215,93 +163,6 @@ If you have any further question about this Privacy Policy, please contact us at
 
   
   
-RecommendedPolitics
-
-*   Politics
-*   Markets
-*   World
-*   Science
-*   History
-*   Future
-*   Energy
-*   Health
-*   Policy
-*   Religion
-*   Defense
-*   Sports
-*   Education
-*   Books
-*   Investigations
-
-*   Mr. Smith and the Quest for a Perfect Candidate
-*   Buttigieg Won't Say If He Backs Northam on Late-Term Abortion
-*   Trump Holds Rally With Rep. Van Drew in Wildwood, New Jersey
-*   Critics: Senate Ready to Fight Draft Rule Targeting Federalist Society
-*   Can Any of These Candidates Win the Democratic Nomination?
-*   Presidential Job Approval
-*   Cartoons of the Week
-
-Latest PollsAll Polls
-
-*   All Polls
-*   Democratic Primary
-*   General Election
-*   Senate 2020
-*   Governors 2020
-*   House 2020
-*   State of the Union
-
-*   Iowa Democratic Presidential CaucusMonmouth
-    *   Sanders21
-    *   Biden23
-    *   Buttigieg16
-    *   Warren15
-    *   Klobuchar10
-    *   Yang3
-    *   Steyer4
-    *   Gabbard1
-    *   BloombergBiden +2
-*   Iowa Democratic Presidential CaucusIowa State University
-    *   Sanders24
-    *   Biden15
-    *   Buttigieg17
-    *   Warren19
-    *   Klobuchar11
-    *   Yang5
-    *   Steyer4
-    *   Gabbard2
-    *   Bloomberg1Sanders +5
-*   Florida Democratic Presidential PrimarySt. Pete Polls
-    *   Biden41
-    *   Sanders9
-    *   Bloomberg17
-    *   Warren7
-    *   Buttigieg6
-    *   Klobuchar5
-    *   Yang2
-    *   Booker
-    *   Steyer2
-    *   GabbardBiden +24
-*   2020 Democratic Presidential NominationEconomist/YouGov
-    *   Biden26
-    *   Sanders24
-    *   Warren20
-    *   Bloomberg4
-    *   Buttigieg7
-    *   Yang4
-    *   Klobuchar4
-    *   Steyer1
-    *   Gabbard3
-    *   Bennet0
-    *   Patrick1Biden +2
-
-More Latest Polls In The News
-
-*   CNN's Lockhart Likens Dershowitz To Hitler: "Public Interest" Argument Similar To Rationalizing Genocide
-*   Dershowitz: Not Impeachable If Pres Does Something He Believes Will Help Him Get Elected In The Public Interest
-*   Philbin: House Failure To Enforce Subpoenas Renders Obstruction of Congress Theory Unprecedented
-*   MSNBC's Ari Melber: I Do Not See Overwhelming Evidence By Democrats To Support Conviction In The Senate
-*   Trump Team Closing Argument: "Why Not Trust The American People With This Decision?"
 
 *   Politics
 *   Policy
@@ -326,4 +187,4 @@ More Latest Polls In The News
 *   RSS
 *   View Mobile Site
 
-Copyright © 2020 RealClearHoldings, LLC. ©2019 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=null&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
+Copyright © 2020 RealClearHoldings, LLC. ©2019 RealClearPolitics | Go to full site
