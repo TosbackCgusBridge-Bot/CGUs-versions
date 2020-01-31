@@ -26,7 +26,6 @@ AcceptDecline
         *   Beauty
     *   Grocery
     *   All
-*   Resources
 *   Our Work
     *   Case Studies
         *   Cabela's
@@ -76,7 +75,6 @@ AcceptDecline
     *   Grocery
     *   All
     
-*   Resources
 *   Our Work
     
     *   Case Studies
