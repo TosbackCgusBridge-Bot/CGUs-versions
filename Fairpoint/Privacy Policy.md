@@ -520,7 +520,6 @@ Business Support
 
 Account Support
 
-*   Check My Email
 *   Help Understanding My Bill
 *   Check My Internet Speed Eligibility
 *   Seasonal Suspend &. Restore
