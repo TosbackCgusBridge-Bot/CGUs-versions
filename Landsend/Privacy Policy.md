@@ -30,6 +30,8 @@ Lands' End Sign In menu
 
 Receive an additional 50% off sale &. clearance styles!
 
+Only 0 HR 08 MIN 39 SEC Left!
+
 code: SKIS pin: PROMOTION DETAILS
 
 Customer Service Menu
