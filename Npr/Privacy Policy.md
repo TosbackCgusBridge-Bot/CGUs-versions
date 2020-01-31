@@ -11,7 +11,7 @@ Accessibility links
 
 *   Sign In
 *   NPR Shop
-*   Donate
+*   Donate **now**
 *   Open Navigation Menu
 
 Close Navigation Menu
