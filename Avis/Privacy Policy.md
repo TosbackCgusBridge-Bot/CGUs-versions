@@ -5,10 +5,6 @@ Terms of use | Avis Rent a Car <iframe src="//www.googletagmanager.com/ns.html?i
 
 *   Need an account? Create one now
 
-Enable Location
-
-**Location services must be enabled to choose your car. Please check your browser's setting.**
-
 Toggle navigation Menu
 
 *   Avis Preferred
