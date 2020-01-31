@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Mushtik botnet now shopping for Tomato routers
-    *   PupyRAT found sniffing around EU energy concern
-    *   FTCODE ransomware acquires info-stealing powers
-    *   American Express, PayPal customers now targeted by 16Shop
-    *   Ransomware attack cost New Orleans $7 million and counting
-    
-    *   Why automating network security policies is the missing link to digital transformation
-    *   Cornerstone Payment Systems leaves database open, exposes 6.7M records
-    *   FTCODE ransomware acquires info-stealing powers
-    *   Ransomware attack cost New Orleans $7 million and counting
-    *   Cyberattack halts Tissue Regenix's U.S.-based manufacturing operations
-    
-    *   LabCorp suffers second data incident, patient PHI potentially exposed
-    *   Apple patches dozens of security issues
-    *   Cornerstone Payment Systems leaves database open, exposes 6.7M records
-    *   Billie Eilish sweeps Grammys, but Taylor Swift leads with most malware files
+    *   Phishing campaign leads to UPS Store data breach
     *   Wawa customer payment card data for sale
+    *   Get ahead of the cybersecurity curve
+    *   FireEye adds Cloudvisory to its stable
+    *   A new way to think about security in autonomous systems: Don’t
+    
+    *   Get ahead of the cybersecurity curve
+    *   Privacy takes a hit, as storage bucket leaks cannabis dispensary POS data
+    *   Alphabet CEO supports EU push to temporarily ban facial recognition in public spaces
+    *   FTCODE ransomware acquires info-stealing powers
+    *   Greenwald calls Brazil's cybercrime allegations politically motivated
+    
+    *   Lawyers: Facebook is prepared to pay $550M to settle facial recognition lawsuit
+    *   Cybersecurity concerns ground Dept. of Interior drones
+    *   Report: Ryuk ransomware impacts websites of DOD contractor
+    *   Hackers ran ad scams after hijacking account at Facebook data partner LiveRamp
+    *   Report: United Nations withheld news of systems hack in European offices
 
 Back to Top
 
@@ -262,4 +262,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
+
+You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
