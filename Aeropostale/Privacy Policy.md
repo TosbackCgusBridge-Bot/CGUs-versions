@@ -89,9 +89,12 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Low Rise Jeans
 *   Curvy Jeans
 *   Cheeky Jeans
+*   Ankle Jeggings
+*   Cropped Jeggings
 *   Bootcut Jeans
 *   Skinny Jeans
 *   Mom Jeans
+*   Wide Leg Jeans
 *   Real Denim
 *   Flex Effects
 *   Eco-Friendly Repreve
@@ -191,7 +194,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Shop New Spring Arrivals GIRLS GUYS + FS Over $50**
+**Extra 15% Off** Use Code **GAMEDAY15** **  GIRLS GUYS**
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -261,9 +264,12 @@ Menu Find a Store Aeropostale
         *   Low Rise Jeans
         *   Curvy Jeans
         *   Cheeky Jeans
+        *   Ankle Jeggings
+        *   Cropped Jeggings
         *   Bootcut Jeans
         *   Skinny Jeans
         *   Mom Jeans
+        *   Wide Leg Jeans
         *   Real Denim
         *   Flex Effects
         *   Eco-Friendly Repreve
@@ -462,6 +468,23 @@ Straight
 
 Next
 
+Limited Time &. Online Only. TAKE AN
+
+EXTRA 15% OFF
+
+EXTRA  
+15% OFF
+
+ENTIRE SITE. 100s of Styles to Choose From Already 50-70% Off.  
+Use Code GAMEDAY15
+
+ENTIRE SITE. 100s of Styles to Choose From  
+Already 50-70% Off. Use Code GAMEDAY15
+
+Exclusions Apply
+
+Shop Girls Shop Guys
+
 In Stores &. Online
 
 Almost 40% of people experiencing  
@@ -496,7 +519,7 @@ Specially washed for never-before-felt
 softness. Expertly created for everyday  
 comfort &. ease.
 
-Shop Girls **$7 &. Up** Shop Guys **$8 &. Up**
+Shop Girls **$8 &. Up** Shop Guys **$8 &. Up**
 
 In Stores &. Online
 
