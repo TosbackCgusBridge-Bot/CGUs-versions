@@ -35,8 +35,8 @@ View more results
     *   Subway Clash 3D
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Slither.io
-    *   Ono Card Game
     *   Worms.Zone
+    *   Ono Card Game
     *   Special Strike Dust 2
     *   Hunter 3D
     *   Hole.io
@@ -99,14 +99,14 @@ View more results
     *   Fireboy and Watergirl 5: Elements
     *   KOGAMA: Adopt a Son or Daughter and Form Your Family
     *   World Craft 2
-    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Short Ride
+    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Chrome Dino
     *   Subway Surf
     *   Adam and Eve 2
+    *   World Crafts
     *   Wolf Simulator: Wild Animals 3D
     *   Mine Clone 4
-    *   World Crafts
     *   Superhero New Adventure
 *   Puzzle
     
@@ -140,8 +140,8 @@ View more results
     *   Gold Train FRVR
     *   Bubble Shooter
     *   Mahjong Connect Classic
-    *   Line Puzzle
     *   Dream Pet Link
+    *   Line Puzzle
 *   Girls
     
     Top Categories
@@ -168,11 +168,11 @@ View more results
     *   Princesses Makeover
     *   Ella: Hips Surgery
     *   Dove Prom Dolly Dress Up
-    *   Miraculous Hero Kiss
     *   My New Room
-    *   Floral Real Life Manicure
+    *   Miraculous Hero Kiss
     *   Goldie: Lip Injections
     *   Pizza Real Life Cooking
+    *   Floral Real Life Manicure
     *   Mommy BFFs: Pregnant Check-Up
     *   Cute Room Decoration
     *   Papa's Cupcakeria
@@ -200,8 +200,8 @@ View more results
     Best Games
     *   Madalin Stunt Cars 2
     *   Horse Racing: Betting Game
-    *   Real Dog Racing Simulator
     *   Lost Race: Car Game
+    *   Real Dog Racing Simulator
     *   Hill Racing Challenge
     *   Xcross Madness
     *   Speed Racing Pro 2
@@ -232,8 +232,8 @@ View more results
     
     Best Games
     *   Penalty Shooters 2: Football Game
-    *   Table Tennis Pro
     *   Basketball Stars 2019
+    *   Table Tennis Pro
     *   Horse Racing: Betting Game
     *   Table Tennis World Tour
     *   Archery World Tour
@@ -461,3 +461,5 @@ Languages
 *   Nederlands
 
 Copyright © 2020 SPIL GAMES All rights reserved.
+
+Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. (e.g IP Address) To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them. Your data may be stored by us and our service providers. In case the applicable data protection laws provide so, you may access, rectify, and erase the data or you may restrict or object to our processing of your data. Please contact us in such event. Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click "ACCEPT" to agree with the above mentioned. You can change your mind and change your consent choices at any time by returning to this site.AcceptSettingsVendor List | Privacy policy | FeaturesA reminder you can control your user privacy preferenceshere
