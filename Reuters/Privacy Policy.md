@@ -56,13 +56,7 @@ Thomson Reuters Legal
     *   Data privacy
     *   FinTech
     *   Law firm management
-*   SupportSupport Support
-    *   Contact us
-    *   Billing, returns &. refunds
-    *   Reference attorneys
-    *   Support by product
-    *   Product logins
-    *   See all support
+*   Support centerSupport center
 *   Try and buyTry and buy
 
 1.  Home
@@ -177,12 +171,11 @@ Free trial Search
     *   Data privacy
     *   FinTech
 *   Support
-    *   Contact us
-    *   Billing, returns, and refunds
-    *   Support by product
+    *   Support center
     *   Reference attorneys
     *   Legal notices
     *   About us
+    *   Contact us
 *   Connect
     *   Facebook
     *   Twitter
