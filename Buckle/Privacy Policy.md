@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Double up on savings! Get an extra 33% off, or 50% off!
+Up to 50% off select denim! Shop Now
 
 *   Women
 *   Men
@@ -243,25 +243,26 @@ Double up on savings! Get an extra 33% off, or 50% off!
 *   Shoes
     *   *   Women's Shoes
         
-        *   Sneakers
-        *   Flips &. Slides
-        *   Sandals
-        *   Wedges
-        *   Heels
-        *   Boots
         *   Booties
+        *   Boots
+        *   Casuals
+        *   Flips &. Slides
+        *   Heels
+        *   Sandals
+        *   Sneakers
+        *   Wedges
         *   Western Boots
         *   Sale Shoes
         *   Shop All
         
         *   Men's Shoes
         
+        *   Boots
         *   Casuals
-        *   Sneakers
+        *   Dress Shoes
         *   Flips
         *   Slides
-        *   Dress Shoes
-        *   Boots
+        *   Sneakers
         *   Sale Shoes
         *   Shop All
         
