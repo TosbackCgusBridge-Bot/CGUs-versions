@@ -95,10 +95,10 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Skinny Jeans
 *   Mom Jeans
 *   Wide Leg Jeans
+*   Skater Jeans
 *   Real Denim
 *   Flex Effects
 *   Eco-Friendly Repreve
-*   Premium Seriously Stretchy
 
 Close submenu ( Guys Jeans ) Guys Jeans
 
@@ -270,10 +270,10 @@ Menu Find a Store Aeropostale
         *   Skinny Jeans
         *   Mom Jeans
         *   Wide Leg Jeans
+        *   Skater Jeans
         *   Real Denim
         *   Flex Effects
         *   Eco-Friendly Repreve
-        *   Premium Seriously Stretchy
     
     *   Guys Jeans
         *   View All
@@ -366,14 +366,20 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
 
-In Stores &. Online
+Limited Time &. Online Only. TAKE AN
 
-50-70% OFF EVERYTHING
+EXTRA 15% OFF
 
-50-70% OFF  
-EVERYTHING
+EXTRA  
+15% OFF
 
-Including 100s of New Arrivals!
+ENTIRE SITE. 100s of Styles to Choose From Already 50-70% Off.  
+Use Code GAMEDAY15
+
+ENTIRE SITE. 100s of Styles to Choose From  
+Already 50-70% Off. Use Code GAMEDAY15
+
+Exclusions Apply
 
 Shop Girls Shop Guys
 
@@ -468,20 +474,14 @@ Straight
 
 Next
 
-Limited Time &. Online Only. TAKE AN
+In Stores &. Online
 
-EXTRA 15% OFF
+50-70% OFF EVERYTHING
 
-EXTRA  
-15% OFF
+50-70% OFF  
+EVERYTHING
 
-ENTIRE SITE. 100s of Styles to Choose From Already 50-70% Off.  
-Use Code GAMEDAY15
-
-ENTIRE SITE. 100s of Styles to Choose From  
-Already 50-70% Off. Use Code GAMEDAY15
-
-Exclusions Apply
+Including 100s of New Arrivals!
 
 Shop Girls Shop Guys
 
