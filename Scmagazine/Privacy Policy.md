@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Phishing campaign leads to UPS Store data breach
-    *   Wawa customer payment card data for sale
-    *   Get ahead of the cybersecurity curve
-    *   FireEye adds Cloudvisory to its stable
-    *   A new way to think about security in autonomous systems: Don’t
-    
-    *   Get ahead of the cybersecurity curve
-    *   Privacy takes a hit, as storage bucket leaks cannabis dispensary POS data
-    *   Alphabet CEO supports EU push to temporarily ban facial recognition in public spaces
-    *   FTCODE ransomware acquires info-stealing powers
+    *   Bezos iPhone compromised by Saudi prince, report finds
     *   Greenwald calls Brazil's cybercrime allegations politically motivated
-    
-    *   Lawyers: Facebook is prepared to pay $550M to settle facial recognition lawsuit
-    *   Cybersecurity concerns ground Dept. of Interior drones
-    *   Report: Ryuk ransomware impacts websites of DOD contractor
     *   Hackers ran ad scams after hijacking account at Facebook data partner LiveRamp
-    *   Report: United Nations withheld news of systems hack in European offices
+    *   Three Magecart operatives arrested in Indonesia
+    *   Critical vulnerabilities found in GE medical gear
+    
+    *   American Express, PayPal customers now targeted by 16Shop
+    *   New York considers bills banning ransom payments
+    *   Report: Ryuk ransomware impacts websites of DOD contractor
+    *   Lawyers: Facebook is prepared to pay $550M to settle facial recognition lawsuit
+    *   Hackers play on Coronavirus fears to spread Emotet
+    
+    *   Brexit cybersecurity implications hold steady during transition period
+    *   Ashley Madison breach victims further embarrassed by ransom demands five years later
+    *   Indian airline hacked, vulnerability exposed by ethical hacker
+    *   Hackers play on Coronavirus fears to spread Emotet
+    *   Burglary charges dropped against Coalfire pen testers
 
 Back to Top
 
@@ -264,6 +264,6 @@ Back to Top
 
 <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
 
-You can skip this ad in 1 seconds.
+You can skip this ad in 2 seconds.
 
 x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
