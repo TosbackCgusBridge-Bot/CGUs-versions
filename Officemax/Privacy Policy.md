@@ -40,20 +40,20 @@ Stock Quote and Chart
 
 Price
 
-$2.26
+$2.22
 
 Change
 
-\-0.08
+\-0.04
 
 Percent Change
 
-(0.00%)
+(-1.77%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Jan 21, 2020 Office Depot, Inc. Earns Perfect Score in Corporate Equality Index for Ninth Consecutive Year view more Recent News Jan 21, 2020 Office Depot, Inc. Earns Perfect Score in Corporate Equality Index for Ninth Consecutive Year view more Events Nov 6, 2019 at 9:00 AM EST Q3 2019 Office Depot Inc Earnings Conference Call view more Events Nov 6, 2019 at 9:00 AM EST Q3 2019 Office Depot Inc Earnings Conference Call view more Presentations Nov 06, 2019 Office Depot Third Quarter 2019 Earnings Webcast Presentation view more Presentations Nov 06, 2019 Office Depot Third Quarter 2019 Earnings Webcast Presentation view more
+Recent News Jan 31, 2020 Office Depot Announces Receipt of Timber Note Proceeds and Retirement of Non-recourse Debt view more Recent News Jan 31, 2020 Office Depot Announces Receipt of Timber Note Proceeds and Retirement of Non-recourse Debt view more Events Nov 6, 2019 at 9:00 AM EST Q3 2019 Office Depot Inc Earnings Conference Call view more Events Nov 6, 2019 at 9:00 AM EST Q3 2019 Office Depot Inc Earnings Conference Call view more Presentations Nov 06, 2019 Office Depot Third Quarter 2019 Earnings Webcast Presentation view more Presentations Nov 06, 2019 Office Depot Third Quarter 2019 Earnings Webcast Presentation view more
 
 *   Home
 *   News &. Events
