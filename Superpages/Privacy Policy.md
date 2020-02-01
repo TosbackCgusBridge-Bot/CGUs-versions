@@ -1,7 +1,6 @@
 *   *   About
     *   Solutions
     *   Careers
-    *   CCPA
 *   Log In
 
 *   About
@@ -457,6 +456,7 @@ About+
 Contact Us
 
 *   Privacy
+*   CCPA
 *   Terms of Use
 *   Product Terms &. Conditions
 *   Social Media Disclaimer
