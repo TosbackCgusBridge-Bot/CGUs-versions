@@ -28,11 +28,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive an additional 50% off sale &. clearance styles!
+Receive 30% off your order. free shipping no minimum!
 
-Only 0 HR 08 MIN 39 SEC Left!
-
-code: SKIS pin: PROMOTION DETAILS
+code: SNOWMAN pin: PROMOTION DETAILS
 
 Customer Service Menu
 
