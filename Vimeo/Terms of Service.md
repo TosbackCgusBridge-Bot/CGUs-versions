@@ -1,6 +1,6 @@
 Vimeo Terms of Service Agreement
 
-Last Updated: December 12, 2019
+Last Updated: January 30, 2020
 
 This **Vimeo Terms of Service Agreement** (the “**Agreement**” or “**Terms of Service**”) is made between Vimeo, Inc. (“**Vimeo**,” “**we**,” “**us**,” or “**our**”) and you, our customer (“**you**” or “**your**”). This Agreement governs your use of Vimeo.com and our VIMEO®-branded online video hosting and sharing services through our owned-and-operated websites, applications, and embeddable video players (collectively, the “**Services**”).
 
@@ -42,7 +42,7 @@ This Agreement includes our Privacy Policy and the addenda listed in **Section 1
 
 **Unlimited Bandwidth Fair Use Policy:** We provide self-serve users with unlimited bandwidth for standard uses of our embeddable video player for all accounts that are below the 99th percentile of bandwidth usage.
 
-If your account (or group of jointly-controlled accounts) is within the 99th percentile of bandwidth usage for self-serve accounts for any calendar month, then you must (a) upgrade to an Enterprise plan within thirty (30) days after receiving written notice from Vimeo. or (b) pay overage fees (based upon Vimeo’s then-current rates) starting on the day you receive written notice from us. If you elect to do neither, Vimeo may terminate your account upon ten (10) days’ written notice. Subject to your compliance with this Agreement, you will be entitled to a pro-rata refund for the unused portion of the subscription term, if any.
+If your account (or group of jointly-controlled accounts) is within the 99th percentile of bandwidth usage for self-serve accounts for any calendar month, then you must upgrade to an Enterprise plan. If you fail to do so, Vimeo may terminate your account upon ten (10) days’ written notice. Subject to your compliance with this Agreement, you will be entitled to a pro-rata refund for the unused portion of the subscription term, if any.
 
 We may restrict bandwidth or charge extra for the following uses of our player or video hosting tools (which should generally occur via our APIs (as defined below)): (1) plays on third-party sites without using our embeddable video player. (2) plays within third-party apps (e.g., mobile or connected TV apps). (3) plays when our player is connected to a third-party payment solution. or (4) plays when our player is connected to a third-party advertising solution.
 
@@ -162,7 +162,8 @@ You may not create an account if you are a member of a terror or hate group. You
 
 5.6 Accessibility and Ratings
 
-We provide means to allow you to include closed captioning in your videos. If required by applicable law, you must provide closed captioning in your videos.  
+We provide means to allow you to include closed captioning in your videos. If required by applicable law, you must provide closed captioning in your videos.
+
 We may allow you to filter videos based upon their user-defined content rating. We cannot guarantee that videos will be appropriately rated by others. You must rate your videos appropriately.
 
 6\. Licenses Granted by You
