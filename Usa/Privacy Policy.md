@@ -152,7 +152,7 @@ ENTERTAINMENT COLLECTION
 
 Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Image courtesy of Volkswagen Promo Data: Lower price when you subscribe for 3 years Promo Data: Special Offer Jan 2020
 
-FINAL DAYS TO SAVE
+LAST DAY
 
 Save on AutoCAD, AutoCAD LT, Revit LT Suite and Fusion 360 today.
 
@@ -217,7 +217,7 @@ Product details
 
 $2,590/year
 
-Subscribe Feedback FOLLOW AUTODESK
+Subscribe FEEDBACK FOLLOW AUTODESK
 
 *   Facebook
 *   Instagram
