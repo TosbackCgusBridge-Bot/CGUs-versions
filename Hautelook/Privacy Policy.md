@@ -7,11 +7,30 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   John Hardy Fine Jewelry Up to 50% Off
+    *   Lush Starting at $20
+    *   AllSaints
+    *   AllSaints Men
+    *   AllSaints Bags &. Accessories Up to 55% Off
+    *   New Balance
+    *   Angie
+    *   Love to Love These: Valentine's Day Looks
+    *   Camper Under $100
+    *   Jeffrey Campbell
+    *   Travis Mathew Up to 55% Off
+    *   New Balance Men
+    *   Felina Intimates
+    *   Last Chance: Winter Boots ft. SOREL
+    *   CZ by Kenneth Jay Lane Up to 70% Off
+    *   Free Shipping: Sheet Sets, Duvets &. More
+    *   New Balance Kids
+    *   Last Chance: Men's Winter Boots Under $80
+    *   Raymond Weil Luxury Swiss Watches
+    *   Pet Accessories Under $30
     *   NANETTE nanette lepore
     *   Schutz Up to 60% Off
     *   Fidelity Denim &. More
     *   Barbour Men Up to 45% Off
+    
     *   Dresses &. More ft. West Kei Incl. Plus &. Petites
     *   Koral &. More
     *   Under $100: Eyewear from Persol &. More
@@ -28,74 +47,54 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Aromatherapy Balms &. More by Scentered
     *   Almeda Vegan Protein
     *   2020 Vision: Planners &. More Up to 50% Off
-    *   Vince Camuto Up to 75% Off Incl. Plus
-    *   Vince Camuto Up to 50% Off
-    *   Valentino by Mario Valentino Up to 60% Off
-    *   Lovers + Friends &. More
-    *   For This Season &. Next: Wide-Leg Pants
-    *   X by Gottex Up to 70% Off
-    
     *   Robert Graham Up to 70% Off
-    *   Do + Be Under $45
     *   Free Shipping: Storage for Every Room
     *   PURA D'OR Hair Care Up to 65% Off
     *   Beach Ready: Towels Starting at $10
     *   Robert Graham Shoes Up to 60% Off
     *   All Dressed Up: Pippa &. Julie and More
     *   Play Dress Up: Girls' Dress Shoes
+    
     *   Premium Denim: Brands We Love Up to 60% Off
     *   Kitchen Must-Haves from Cuisinart
     *   Free Shipping: BergHOFF Up to 55% Off
     *   Free Shipping: Motion Sensor Trash Cans
     *   Bath &. Bedding Essentials Up to 70% Off
     *   Entertain in Style: Nambe &. More Up to 60% Off
-    *   JOE'S Jeans
-    *   JOE'S Jeans Men Up to 65% Off
-    *   Brooks Brothers Sportswear
-    *   Bath &. Body ft. Molton Brown from $12
-    *   Our Top Picks: Hair Tools ft. T3
-    *   14K Gold Jewelry Steals
-    *   JOE'S Jeans Kids Up to 55% Off
     *   Free Shipping: Decor Accents Up to 45% Off
     *   Smart Watch Bands &. More Up to 70% Off
     *   6-Piece Towel Sets &. More Starting at $25
-    *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
-    *   Stride Rite
     *   Supra Men's Sneakers Up to 60% Off
-    
     *   Clean Beauty ft. Honeybee Gardens
     *   Skin Care Tools ft. PMD Personal Microderm System
-    *   Cole Haan Men's Shoes Up to 50% Off
-    *   Vintage Foundry Up to 80% Off
-    *   To Give or Get: Valentine's Day Styles
     *   Free Shipping: Hand-Painted Replicas
-    *   So Gloss Nail Wraps
+    *   Date Night Checklist: Lashes, Lippies &. More
     *   Free Shipping: Dreamy Bedding Up to 75% Off
     *   Kitchen Storage &. Prep Tools Up to 50% Off
-    *   Swim Shop: One-Pieces Up to 60% Off
-    *   Swim Shop: Separates Up to 60% Off
-    *   Swim Shop: Cover-Ups Up to 60% Off
-    *   Swim Shop: Sandals &. Espadrilles Up to 60% Off
-    *   Dazzlepro Teeth Whitening Up to 85% Off
-    *   Men's Swim Shop: Shoes &. Accessories Up to 60% Off
     *   Free Shipping: Fine Art Up to 85% Off
-    *   Skin Care Starting at $10 ft. Neutrogena
-    *   Google Home Mini at 50% Off
     *   Free Shipping: Professional Garment Steamers
-    *   Date Night Checklist: Lashes, Lippies &. More
-    *   Polished Perfection: Adrianna Papell &. More
-    *   Maxis, Jumpsuits &. Rompers Under $40
-    *   Men's Swim Shop: Swim &. Resort Wear Up to 60% Off
-    *   Kids' Swim Shop Up to 60% Off
-    *   The Third Piece: Blazers, Toppers &. More
-    *   Luxury Bedding ft. ED Ellen Degeneres &. Lacoste
+    *   French Connection Outerwear &. More
+    *   Little Me Starting at $12
+    *   So Gloss Nail Wraps
 *   WomenShop Sale Events
     
-    *   John Hardy Fine Jewelry Up to 50% Off
+    *   Lush Starting at $20
+    *   AllSaints
+    *   AllSaints Bags &. Accessories Up to 55% Off
+    *   New Balance
+    *   Angie
+    *   Love to Love These: Valentine's Day Looks
+    *   Camper Under $100
+    *   Jeffrey Campbell
+    *   Felina Intimates
+    *   Last Chance: Winter Boots ft. SOREL
+    *   CZ by Kenneth Jay Lane Up to 70% Off
+    *   Raymond Weil Luxury Swiss Watches
     *   NANETTE nanette lepore
     *   Schutz Up to 60% Off
     *   Fidelity Denim &. More
     *   Dresses &. More ft. West Kei Incl. Plus &. Petites
+    
     *   Koral &. More
     *   Under $100: Eyewear from Persol &. More
     *   PJ Salvage
@@ -105,82 +104,62 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   The Sak &. The Sak Collective Up to 55% Off
     *   Aromatherapy Balms &. More by Scentered
     *   Almeda Vegan Protein
-    *   Vince Camuto Up to 75% Off Incl. Plus
-    *   Vince Camuto Up to 50% Off
-    *   Valentino by Mario Valentino Up to 60% Off
-    *   Lovers + Friends &. More
-    *   For This Season &. Next: Wide-Leg Pants
-    *   X by Gottex Up to 70% Off
-    
-    *   Do + Be Under $45
     *   PURA D'OR Hair Care Up to 65% Off
-    *   JOE'S Jeans
-    *   Our Top Picks: Hair Tools ft. T3
-    *   14K Gold Jewelry Steals
-    *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
     *   Clean Beauty ft. Honeybee Gardens
     *   Skin Care Tools ft. PMD Personal Microderm System
-    *   To Give or Get: Valentine's Day Styles
-    *   So Gloss Nail Wraps
-    *   Swim Shop: One-Pieces Up to 60% Off
-    *   Swim Shop: Separates Up to 60% Off
-    *   Swim Shop: Cover-Ups Up to 60% Off
-    *   Swim Shop: Sandals &. Espadrilles Up to 60% Off
-    *   Dazzlepro Teeth Whitening Up to 85% Off
-    *   Skin Care Starting at $10 ft. Neutrogena
     *   Date Night Checklist: Lashes, Lippies &. More
-    *   Polished Perfection: Adrianna Papell &. More
-    *   Maxis, Jumpsuits &. Rompers Under $40
-    *   The Third Piece: Blazers, Toppers &. More
+    *   French Connection Outerwear &. More
+    *   So Gloss Nail Wraps
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
     *   Lingerie &. Shapewear
-    *   Handbags
+    *   Jewelry
     *   Accessories
+    *   Handbags
+    *   Watches
 *   MenShop Sale Events
     
+    *   AllSaints Men
+    *   Travis Mathew Up to 55% Off
+    *   New Balance Men
+    *   Last Chance: Men's Winter Boots Under $80
     *   Barbour Men Up to 45% Off
     *   Under $100: Eyewear from Persol &. More
+    
     *   Men's Fragrances Under $50
     *   Lacoste Men's Shoes
     *   Robert Graham Up to 70% Off
     *   Robert Graham Shoes Up to 60% Off
     *   Premium Denim: Brands We Love Up to 60% Off
-    
-    *   JOE'S Jeans Men Up to 65% Off
-    *   Brooks Brothers Sportswear
     *   Supra Men's Sneakers Up to 60% Off
-    *   Cole Haan Men's Shoes Up to 50% Off
-    *   Vintage Foundry Up to 80% Off
-    *   Men's Swim Shop: Shoes &. Accessories Up to 60% Off
-    *   Men's Swim Shop: Swim &. Resort Wear Up to 60% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   New Balance Kids
     *   Play All Day: Little Tikes, KidKraft &. More
     *   Nicole Miller Girls
     *   All Dressed Up: Pippa &. Julie and More
     *   Play Dress Up: Girls' Dress Shoes
-    *   JOE'S Jeans Kids Up to 55% Off
-    *   Stride Rite
-    *   Kids' Swim Shop Up to 60% Off
+    *   Little Me Starting at $12
     
     Shop By Category
-    *   Girls
-    *   Boys
-    *   Girls' Shoes
     *   Baby
     *   Toys
+    *   Girls' Shoes
+    *   Girls
     *   Boys' Shoes
+    *   Boys
 *   HomeShop Sale Events
     
+    *   Free Shipping: Sheet Sets, Duvets &. More
+    *   Pet Accessories Under $30
     *   Luxe Pillows, Throws &. More Up to 70% Off
     *   2020 Vision: Planners &. More Up to 50% Off
     *   Free Shipping: Storage for Every Room
@@ -189,18 +168,16 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Free Shipping: BergHOFF Up to 55% Off
     *   Free Shipping: Motion Sensor Trash Cans
     *   Bath &. Bedding Essentials Up to 70% Off
+    
     *   Entertain in Style: Nambe &. More Up to 60% Off
     *   Free Shipping: Decor Accents Up to 45% Off
-    
     *   Smart Watch Bands &. More Up to 70% Off
     *   6-Piece Towel Sets &. More Starting at $25
     *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Dreamy Bedding Up to 75% Off
     *   Kitchen Storage &. Prep Tools Up to 50% Off
     *   Free Shipping: Fine Art Up to 85% Off
-    *   Google Home Mini at 50% Off
     *   Free Shipping: Professional Garment Steamers
-    *   Luxury Bedding ft. ED Ellen Degeneres &. Lacoste
     
     Shop By Category
     *   Home Decor
@@ -209,33 +186,28 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Bath
     *   Cleaning &. Organization
     *   Outdoor Living
-    *   Luggage &. Travel
+    *   Pet Accessories
     *   Rugs &. Doormats
+    *   Luggage &. Travel
     *   Accent Furniture
-    *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
     *   Men's Fragrances Under $50
     *   Aromatherapy Balms &. More by Scentered
     *   Almeda Vegan Protein
     *   PURA D'OR Hair Care Up to 65% Off
-    *   Bath &. Body ft. Molton Brown from $12
-    *   Our Top Picks: Hair Tools ft. T3
-    
     *   Clean Beauty ft. Honeybee Gardens
     *   Skin Care Tools ft. PMD Personal Microderm System
-    *   So Gloss Nail Wraps
-    *   Dazzlepro Teeth Whitening Up to 85% Off
-    *   Skin Care Starting at $10 ft. Neutrogena
     *   Date Night Checklist: Lashes, Lippies &. More
+    *   So Gloss Nail Wraps
     
     Shop By Category
+    *   Fragrance
     *   Makeup
-    *   Hair Care
     *   Nails
+    *   Hair Care
     *   Skin Care
     *   Bath &. Body
-    *   Fragrance
     *   Tools &. Accessories
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
@@ -413,6 +385,7 @@ FacebookTwitterPinterestInstagramSnapchatiPhoneiPadAndroid
 *   The Nordy Club
 *   Big Brothers Big Sisters
 *   Donate Clothes
+*   See You Tomorrow: A Resale Shop
 *   Gift Cards
 
 *   Member Care
