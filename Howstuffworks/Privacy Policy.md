@@ -39,11 +39,13 @@ Search Terms Please enter terms to search for. Search
 
 Control Your User Privacy Preferences
 
-Last modified: April 29, 2019
+Last modified: January 31, 2020
 
 **INTRODUCTION**
 
-System1 LLC respects your privacy and we are committed to protecting it through our compliance with this policy. HowStuffWorks is a division of Infospace Holdings LLC, a System1 LLC subsidiary.
+System1 LLC (including its subsidiaries) respects your privacy and we are committed to protecting it through our compliance with this privacy policy (the “Policy”) in connection with the online websites, applications and services (the “Services”) that we operate. This Policy also applies to our subsidiaries, including Infospace Holdings LLC, Qool Media Holdings LLC, Dotzup Holdings LLC, Concourse Media Holdings LLC, MapQuest Holdings LLC and Privacy One Group Ltd. (the “System1 Parties”).
+
+We respect your privacy and we are committed to protecting it through our compliance with this Policy. HowStuffWorks is a division of Infospace Holdings LLC, which is a System1 LLC subsidiary.
 
 Our services include our websites and applications that link to this privacy policy. This policy describes the types of information we may collect from you or that you may provide when you use our services and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
@@ -57,7 +59,7 @@ Please read this policy carefully to understand our policies and practices regar
 
 **EU-US PRIVACY SHIELD AND SWISS-US PRIVACY SHIELD**
 
-System1 LLC, and certain of its controlled US affiliates, HowStuffWorks, a division of Infospace Holdings LLC, and Qool Media Holdings LLC, comply with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. System1 has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+System1 LLC, and the System1 Parties comply with the EU-US Privacy Shield Framework (the “EU-US Privacy Shield”) and the Swiss-US Privacy Shield Framework (the “Swiss-US Privacy Shield”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. System1 has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability (the “Privacy Shield Principles”). If there is any conflict between the policies set forth in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern or prevail.
 
 To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/
 
@@ -75,8 +77,6 @@ Suite 201
 
 Venice, CA 90291
 
-Contact System1
-
 **INFORMATION WE COLLECT ABOUT YOU AND HOW WE COLLECT IT**
 
 We collect several types of information from and about users of our services, including information:
@@ -91,12 +91,16 @@ We collect this information:
 *   Automatically as you use our services. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies.
 *   From third parties, for example, our business partners.
 
-**Information You Provide to Us.** The information we collect through our services may include:
+**Information You Provide to Us.**
+
+The information we collect through our services may include:
 
 *   Information that you provide by filling in forms through our services. This includes information provided at the time of registering to use our services, subscribing to our service, posting material, or requesting further services. We may also ask you for information when you report a problem with our services.
 *   Records and copies of your correspondence (including email addresses), if you contact us.
 
-**Information We Collect Through Automatic Data Collection Technologies.** As you use our services, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
+**Information We Collect Through Automatic Data Collection Technologies.**
+
+As you use our services, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
 
 *   Details of your use of our services, including traffic data, location data, logs, and other communication data and the resources that you use on our services.
 *   Information about your computer and internet connection, including your IP address, operating system, and browser type.
@@ -133,7 +137,7 @@ We use information that we collect about you or that you provide to us, includin
 *   In any other way we may describe when you provide the information.
 *   For any other purpose with your consent.
 
-We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
+We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target or objective criteria.
 
 **DISCLOSURE OF YOUR INFORMATION**
 
@@ -171,7 +175,86 @@ We strive to provide you with choices regarding the personal information you pro
 
 We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change, or remove the personal registration information you provide to us and that we control. To choose not to receive future communications from us, please Contact us.
 
-You may also send us an email here to request access to, correct, or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+You may also contact System1 to request access to, correct, or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+
+**CALIFORNIA AND CCPA PRIVACY RIGHTS AND DISCLOSURES**
+
+This California Privacy Rights and Disclosure section addresses the legal obligations and rights laid out in the California Consumer Privacy Act (the “CCPA”) in order to comply with the requirements set forth in the CCPA for those businesses doing business in California and/or offer their services to California residents, including with respect to information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with California consumers or households (collectively, "California Information").
+
+**California Information We Collected and/or Shared**
+
+This section of the Policy provides the information California residents need to exercise their rights over their California Information. Here is information about the California Information we may have collected from and shared about consumers over the twelve months prior to the Effective Date of this Policy.
+
+In the year before the date this Policy was updated, on or through some of our Services we may have collected and/or shared (for operational purposes with providers who provide services for or to us in connection with developing, improving, providing and/or offering our Services) the following categories of California Information:
+
+*   Address and other identifiers -- such as email address, device type, web-browser, operating system or other similar identifiers;
+*   Unique and online identifiers -- such as IP address, device IDs derived from device type, or other similar identifiers;
+*   Characteristics of protected classifications -- such as race, ethnicity, or sexual orientation;
+*   Certain commercial information -- such as products or services purchased, obtained, or considered through our Services, or other purchasing or consuming histories or tendencies;
+*   Internet, gaming or other electronic network activity information -- such as browsing history, search history and information regarding an individual's interaction with an internet website, application, or advertisement;
+*   Location information – geo-location information about where you are accessing our Services (e.g. if you access our Services on your mobile or tablet device we may collect information about your device's precise location to the extent feasible);
+*   Online viewing activities and habits (e.g., videos viewed, pages viewed). and
+*   Inferences drawn from California Information, such as individual profiles, preferences, characteristics and behaviors.
+
+We may have collected these categories of California Information for the following purposes:
+
+*   Performing services on behalf of our various businesses, such as user retention, providing content recommendations and/or processing information;
+*   Fraud and crime prevention;
+*   Debugging errors in systems;
+*   Marketing and advertising;
+*   Internal research, analytics and development -- e.g., user-preference analytics. and
+*   Developing, maintaining, provisioning or upgrading networks, products, services, or devices.
+
+We may have obtained California Information from a variety of sources, including:
+
+*   Directly from you, including technical and usage information when you use our Services;
+*   Linked sites, such as social media sites, and other third-party platforms;
+*   Our various affiliated entities;
+*   Our joint-ventures and promotional and strategic partners;
+*   Information suppliers;
+*   Distributors, service providers and other vendors;
+*   Marketing mailing lists;
+*   Other users submitting California Information about you, such as to invite you to participate in an offering, make recommendations, or share content. and Publicly available sources.
+
+While the CCPA defines 'sale' very broadly, there is no industry-wide consensus whether enabling third parties to collect personal data via cookies and other similar tracking technologies for the purposes of delivering interest or location-based advertising and/or similar targeting activities constitutes a “sale” under the CCPA. However, a ‘sale” under the CCPA may be considered to include the sharing of California Information in exchange for anything of value. According to this broad definition, in the year before the date this Policy was updated, on or through some of our Services we may be deemed to have sold the following categories of California Information:
+
+*   Address and other identifiers -- such as email address, device type, web-browser, operating system or other similar identifiers;
+*   Unique and online identifiers -- such as IP address, device IDs derived from device type, or other similar identifiers;
+*   Characteristics of protected classifications -- such as race, ethnicity, or sexual orientation;
+*   Certain commercial information -- such as products or services purchased, obtained, or considered through our Services, or other purchasing or consuming histories or tendencies.
+*   Internet, gaming or other electronic network activity information -- such as browsing history, search history and information regarding an individual's interaction with an internet website, application, or advertisement;
+*   Location information – geo-location information about where you are accessing our Services (e.g. if you access our Services on your mobile or tablet device we may collect information about your device's precise location to the extent feasible);
+*   Online viewing activities and habits (e.g., videos viewed, pages viewed). and
+*   Inferences drawn from California Information, such as individual profiles, preferences, characteristics and behaviors.
+**Your California Privacy Rights to Request Disclosure of Information We Collect and Share About You**
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information about our practices related to the disclosure of your personal information by certain members of System1 and its affiliated entities to certain third parties for their direct marketing purposes. You may be able to opt-out of our sharing of your personal information with unaffiliated third parties for the third parties' direct marketing purposes in certain circumstances. Please contact us with your request.
+
+In addition, if you are a California resident, the CCPA grants you the right to request certain information about our practices with respect to California Information. In particular, you can request the following:
+
+*   The categories and specific pieces of your California Information that we've collected;
+*   The categories of sources from which we collected your California Information;
+*   The business or commercial purposes for which we collected or ‘sold’ your California Information. and
+*   The categories or types of third parties with which we have shared your California Information.
+
+You can submit a request to us for the following additional information:
+
+*   The categories or types of third parties to which we've sold your California Information, and the category or categories of California Information sold to each.
+*   The categories or types of California Information that we've shared with service providers who provide services for us, like processing your bill.
+
+To exercise your CCPA rights with respect to this information, please contact us. These requests for disclosure are generally free.
+
+**Your Right to Request the Deletion of California Information**
+
+Upon your request, we will delete the California Information we have collected about you, except for situations when that information is necessary for us to: provide you with a product or service that you requested. perform a contract we entered into with you. maintain the functionality or security of our systems. comply with or exercise rights provided by the law. or use the information internally in ways that are compatible with the context in which you provided the information to us, or that are reasonably aligned with your expectations based on your relationship with us.
+
+To exercise your right to request the deletion of your California Information, please contact us. These requests are generally free.
+
+**Your Right to Ask Us Not To Sell Your California Information**
+
+You can always tell us not to sell your California Information by contacting us.
+
+Once we receive and process your request, we will not sell your California Information unless you later allow us to do so.
 
 **DATA SECURITY**
 
@@ -205,15 +288,15 @@ Venice, CA 90291
 
 Contact System1
 
-Last Updated On: 04/29/2019
+Last Updated On: 01/31/2020
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksThis Is What Happens When You Work at a Desk for 20 Years1STHow Morse Code Works and Still Lives On in the Digital Age2NDBengal Cats Are Mini Leopard Hybrid Housecats3RDHow the White House Press Briefing Went From Daily to Done4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredTruthfinder | SponsoredEnter Any Name, Wait 105 Seconds, See Instant ResultsTruthfinder | SponsoredLuxury Cruises | Search Ads | SponsoredYou've Never Seen Luxury Like This On A Cruise Ship. Research Luxury Mediterranean CruisesLuxury Cruises | Search Ads | SponsoredAuto Enthusiast | Search Ads | Sponsored8 Cars So Cool It's Hard to Believe They Cost Under $20kAuto Enthusiast | Search Ads | Sponsored
+Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted LinksSusan B. Anthony: Suffragist, Abolitionist, Teetotaler and Renegade1STWhy Do We Say 'Holy Cow'?2NDRagdoll Cats Are the Floppiest, Friendliest Felines Around3RDWhat People Get Wrong About Rosa Parks and the Montgomery Bus Boycott4THWikibuy | SponsoredBefore You Renew Amazon Prime, Read ThisWikibuy | SponsoredLuxury Cruises | Search Ads | SponsoredYou've Never Seen Luxury Like This On A Cruise Ship. Research Luxury Mediterranean CruisesLuxury Cruises | Search Ads | SponsoredDental Implants | SponsoredDental Implant Costs in Aurora Might Actually Surprise YouDental Implants | SponsoredBest Luxury Cars 2019 | Search Ads | SponsoredDive Into The List Of The Best Luxury Cars Of 2020. Research Best Luxury Cars 2019.Best Luxury Cars 2019 | Search Ads | Sponsored
 
 Advertisement
 
-animals - animal factsMongoose vs. Cobra: Who'd Win in a Grudge Match? BY Jesslyn Shieldsadventure - destinationsWhat's the Worst Seat on the Plane?BY Nathan Chandlerauto - car modelsCould Electric Motor Conversions Save Classic Cars?BY Cherise ThreewittSoGoodly | SponsoredThey Were Named The Most Beautiful Twins In The World, Wait Till You See Them TodaySoGoodly | SponsoredOnline Background Checks | Peoplewhiz | SponsoredEnter A Name, Wait 9 Seconds, Then Brace YourselfOnline Background Checks | Peoplewhiz | Sponsored
+health - human bodyThis Is What Happens When You Work at a Desk for 20 YearsBY Michelle Konstantinovskyadventure - destinationsWhat's the Worst Seat on the Plane?BY Nathan Chandlerscience - environmental scienceWhat Are Single-use Plastics and Should They Be Banned?BY Stephanie VermillionAlaska Cruise | Search Ads | SponsoredTreat Yourself To Luxury At Sea. Research Best Alaska Cruise Line Offers.Alaska Cruise | Search Ads | SponsoredCelebrityBiographyWiki | Sponsored20 Cool Gadgets You'll Regret Not Getting Before They Sell OutCelebrityBiographyWiki | Sponsored
 
 Advertisement
 
@@ -221,7 +304,7 @@ Advertisement
 
 Advertisement
 
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksBrace Yourself: Bananas Are Berries, Strawberries Aren'tDeaf, Blind and Determined: How Helen Keller Learned to CommunicateSquirrels Can Be Left- or Right-handedQuiz: Can You Tell Climate Change Fact From Fiction?Neptune: An Ice Giant With Supersonic WindsWhat's the Difference Between an Avenue, a Road and a Boulevard?by Taboolaby Taboola
+Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksMongoose vs. Cobra: Who'd Win in a Grudge Match? Quiz: Can You Tell Climate Change Fact From Fiction?Neptune: An Ice Giant With Supersonic Winds7 'Facts' They Got Wrong in School About Christopher ColumbusBengal Cats Are Mini Leopard Hybrid HousecatsWhat's the Difference Between an Avenue, a Road and a Boulevard?by Taboolaby Taboola
 
 *   About
 *   Podcasts
@@ -244,4 +327,4 @@ Sign Up
 
 **Copyright © 2020 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. This Is What Happens When You Work at a Desk for 20 YearsRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StoryTruthfinderEnter Any Name, Wait 105 Seconds, See Instant ResultsTruthfinder|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. Susan B. Anthony: Suffragist, Abolitionist, Teetotaler and RenegadeRead Next StoryWikibuyBefore You Renew Amazon Prime, Read ThisWikibuy|SponsoredSponsoredRead Next StoryLuxury Cruises | Search AdsYou've Never Seen Luxury Like This On A Cruise Ship. Research Luxury Mediterranean CruisesLuxury Cruises | Search Ads|SponsoredSponsoredRead Next Story
