@@ -68,8 +68,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
 *   Movie News Featured Movie News
     
     *   ‘Once Upon a Time in Hollywood’ Named Best Picture at the Critics’ Choice Awards Read More
-    *   The Week in Movie News: ‘Captain Marvel 2’ Coming in 2022, Live-Action ‘Bambi’ in the Works and More Read More
-    *   The Week in Movie Trailers: Steve Carell in Jon Stewart’s ‘Irresistible,’ Liam Neeson in ‘Ordinary Love’ and More Read More
+    *   The Week in Movie News: An Expanded Version of ‘The Thing,’ Seth Rogen Takes on Memes and More Read More
+    *   The Week in Movie Trailers: ‘Fast &. Furious 9’ the ‘Big Lebowski’ Spin-Off ‘The Jesus Rolls’ and More Read More
     
     Explore Content
     *   Movie Reviews
