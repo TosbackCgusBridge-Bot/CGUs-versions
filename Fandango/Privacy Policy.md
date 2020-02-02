@@ -494,10 +494,6 @@ Offers
     
     Get tickets to Award-nominated movies in theaters, like 1917 and Little Women, and find out which movies are available to watch at home right now. LEARN MORE
     
-*   Get a $5 Concession Certificate
-    
-    When you purchase 2 or more Kernel Season’s products. SEE DETAILS
-    
 *   Play The Circle K Flip And Find Game
     
     For a chance to take home daily prizes, including a pair of movie tickets to see Dolittle. SEE DETAILS
