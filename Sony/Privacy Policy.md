@@ -120,7 +120,7 @@ See the List
 
 “We’re all feeling crazy sadness right now because Los Angeles, America and the whole world lost a hero. We’re literally standing here heartbroken in the house that @kobebryant built” - @aliciakeys #RIPMamba #GRAMMYs pic.twitter.com/IuHZe7cEgR
 
-5 days ago View Tweet Instagram Post B7zUCJuHuKE
+6 days ago View Tweet Instagram Post B7zUCJuHuKE
 
 Never Miss the Action
 
