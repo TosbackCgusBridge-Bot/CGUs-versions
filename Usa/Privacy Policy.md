@@ -150,13 +150,7 @@ Professional CAD/CAM tools built on Inventor and AutoCAD Learn more Free trial S
 MEDIA &.  
 ENTERTAINMENT COLLECTION
 
-Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Image courtesy of Volkswagen Promo Data: Lower price when you subscribe for 3 years Promo Data: Special Offer Jan 2020
-
-LAST DAY
-
-Save on AutoCAD, AutoCAD LT, Revit LT Suite and Fusion 360 today.
-
-Buy now Try, buy, or learn more about Autodesk products See all products
+Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Image courtesy of Volkswagen Promo Data: Lower price when you subscribe for 3 years Try, buy, or learn more about Autodesk products See all products
 
 Software for 2D and 3D CAD. Subscription includes AutoCAD, specialized toolsets, and apps.
 
@@ -166,9 +160,7 @@ Free trial
 
 Subscribe
 
-$1,449/year
-
-$1,610
+$1,610/year
 
 Software for Building Information Modeling
 
@@ -188,9 +180,9 @@ Free trial
 
 Subscribe
 
-$320/year
+$400/year
 
-$400 Try, buy, or learn more about Autodesk products See all products Welcome to the new era of connected construction Introducing Autodesk Construction Cloud™
+Try, buy, or learn more about Autodesk products See all products Welcome to the new era of connected construction Introducing Autodesk Construction Cloud™
 
 We’ve combined advanced technology, a network of builders, and powerful predictive insights to connect all stages of the building lifecycle: design, plan, build, and operate.
 
@@ -217,7 +209,7 @@ Product details
 
 $2,590/year
 
-Subscribe FEEDBACK FOLLOW AUTODESK
+Subscribe Feedback FOLLOW AUTODESK
 
 *   Facebook
 *   Instagram
