@@ -214,17 +214,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Bezos iPhone compromised by Saudi prince, report finds
+    *   Mushtik botnet now shopping for Tomato routers
+    *   NYPD arrests ninth Methbot gang member
+    *   Samba issues patches for three vulnerabilities
+    *   Cybersecurity concerns ground Dept. of Interior drones
     *   Greenwald calls Brazil's cybercrime allegations politically motivated
-    *   Hackers ran ad scams after hijacking account at Facebook data partner LiveRamp
-    *   Three Magecart operatives arrested in Indonesia
-    *   Critical vulnerabilities found in GE medical gear
     
-    *   American Express, PayPal customers now targeted by 16Shop
-    *   New York considers bills banning ransom payments
-    *   Report: Ryuk ransomware impacts websites of DOD contractor
-    *   Lawyers: Facebook is prepared to pay $550M to settle facial recognition lawsuit
-    *   Hackers play on Coronavirus fears to spread Emotet
+    *   Indian airline hacked, vulnerability exposed by ethical hacker
+    *   Billie Eilish sweeps Grammys, but Taylor Swift leads with most malware files
+    *   Bezos iPhone compromised by Saudi prince, report finds
+    *   Burglary charges dropped against Coalfire pen testers
+    *   NYPD arrests ninth Methbot gang member
     
     *   Brexit cybersecurity implications hold steady during transition period
     *   Ashley Madison breach victims further embarrassed by ransom demands five years later
@@ -264,6 +264,6 @@ Back to Top
 
 <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
 
-You can skip this ad in 2 seconds.
+You can skip this ad in 1 seconds.
 
 x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
