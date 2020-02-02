@@ -27,6 +27,15 @@ select styles | reg. $42 - $56
 50% OFFKids’ Arizona jeans select styles | **sale $14.99-$19.99** | reg. $30-$40  
 SHOP VALENTINE'S DAY GIFTSSAVE UP TO 83%Your choice: 1/10 ct. t.w. diamond pendant, earrings or ring in sterling silver, reg $124.98 ea. Limited Time Special, while supplies last. Excluded from coupons and rewards.  SHOP SEPHORA FRAGRANCESSHOP THE LOCAL LOOK JCPenney is teaming up with fashion and lifestyle influencers to bring you a curated selection of their top picks. Check back every month to see new styles.  
 SHOP NOW Shop our curated collection of tees, hair products and makeup—designed just for you.  
+Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 28 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+
+*   $1308 - $1682after couponwas $44 St. John's Bay Womens Long Sleeve Button Open Front Cardigan(45)
+*   $1699after couponwas $80 Arizona Womens Denver Riding Boots Block Heel(190)
+*   $1496 - $3740after couponStafford Travel Wrinkle Free Stretch Oxford Mens Button Down Collar Long Sleeve Dress Shirt(244)
+*   $2124after couponwas $44 St. John's Bay Womens Mid Rise Straight Leg Jean(2080)
+*   $2974 - $5949after couponwas $70 - $140 Liz Claiborne Quinn Basketweave Room-Darkening Grommet Top Single Curtain Panel(626)
+*   $1699 - $7874after couponwas $60 - $209 400tc Wrinkle Guard Deep Pocket Sheet Set - JCPenney Home(2879)
+
 Shop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! We take pride in being a one-stop shop for all your needs, with as many options as you can imagine.
