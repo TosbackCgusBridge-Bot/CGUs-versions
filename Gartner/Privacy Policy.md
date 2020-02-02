@@ -68,7 +68,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 715 5789 1 855 715 5789
+    1 855 448 4797 1 855 448 4797
     
 
 *   Solutions By Function
@@ -141,7 +141,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 715 5789 1 855 715 5789
+    1 855 448 4797 1 855 448 4797
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
