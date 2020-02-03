@@ -12,31 +12,31 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1366 games
-*   Most Popular Games 20383 games
+*   Best of new games 1365 games
+*   Most Popular Games 20387 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   Games for girls 24,223 games
-*   Driving &. Racing Games 6,299 games
+*   Games for girls 24,224 games
+*   Driving &. Racing Games 6,300 games
 *   Strategy &. RPG Games 3,636 games
-*   Management &. Sim Games 4,254 games
-*   Thinking Games 12,527 games
-*   Action &. Adventure Games 14,771 games
-*   Sports Games 3,310 games
-*   Shooting Games 9,022 games
+*   Management &. Sim Games 4,253 games
+*   Thinking Games 12,530 games
+*   Action &. Adventure Games 14,773 games
+*   Sports Games 3,312 games
+*   Shooting Games 9,023 games
 *   Fighting Games 2,094 games
-*   Skill Games 10,921 games
-*   Arcade &. Classic Games 8,912 games
-*   Fun &. Crazy Games 4,790 games
+*   Skill Games 10,925 games
+*   Arcade &. Classic Games 8,920 games
+*   Fun &. Crazy Games 4,792 games
 
 Play with friends  
 Powered by Y8 Account 139 Y8 Multiplayer Games 2,186 Y8 High Score Games 1,225 Y8 Achievements Games 856 Y8 Screenshots Games 1,603 Y8 Online Save Games 3,323 All Y8 Games Games Last Highscore:
 
-**259,439,259** points on Let's Journey: Lost Island by Sawasdee
+**26** points on Subway Clash 3D by Ruther
 
 Help us improve Bad translation? Social
 
