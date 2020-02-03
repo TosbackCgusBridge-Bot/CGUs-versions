@@ -28,9 +28,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive 30% off your order. free shipping no minimum!
+Receive up to 40% off your order. free shipping, no minimum!
 
-code: SNOWMAN pin: PROMOTION DETAILS
+code: SWEET pin: 1050PROMOTION DETAILS
 
 Customer Service Menu
 
