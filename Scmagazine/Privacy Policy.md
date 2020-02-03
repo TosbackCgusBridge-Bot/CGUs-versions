@@ -214,17 +214,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Mushtik botnet now shopping for Tomato routers
-    *   NYPD arrests ninth Methbot gang member
-    *   Samba issues patches for three vulnerabilities
-    *   Cybersecurity concerns ground Dept. of Interior drones
-    *   Greenwald calls Brazil's cybercrime allegations politically motivated
-    
-    *   Indian airline hacked, vulnerability exposed by ethical hacker
-    *   Billie Eilish sweeps Grammys, but Taylor Swift leads with most malware files
     *   Bezos iPhone compromised by Saudi prince, report finds
-    *   Burglary charges dropped against Coalfire pen testers
+    *   LabCorp suffers second data incident, patient PHI potentially exposed
+    *   Three Magecart operatives arrested in Indonesia
+    *   Hackers play on Coronavirus fears to spread Emotet
+    *   Report: Ryuk ransomware impacts websites of DOD contractor
+    
+    *   Why automating network security policies is the missing link to digital transformation
+    *   Privacy takes a hit, as storage bucket leaks cannabis dispensary POS data
     *   NYPD arrests ninth Methbot gang member
+    *   Cyberattack halts Tissue Regenix's U.S.-based manufacturing operations
+    *   The Dearth of Skilled Cybersecurity Personnel
     
     *   Brexit cybersecurity implications hold steady during transition period
     *   Ashley Madison breach victims further embarrassed by ransom demands five years later
@@ -262,8 +262,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
 
-You can skip this ad in 1 seconds.
+You can skip this ad in 2 seconds.
 
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
