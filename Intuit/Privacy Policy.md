@@ -21,20 +21,20 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackBLENDERSSLOW COOKERSTOASTER OVENSDEEP FRYERS &. AIR FRYERS    40% offGuys’ Arizona jeans   
+Near YouFind a StoreBackFinal Hours Of COUPON CODE GAMETIMEENDS IN00HOURS 41MINS 15SECS See Details\*Extra 30% off select apparel, shoes, accessories, fine jewelry and home purchases of $100 or more. Extra 25% off select purchases under $100. Extra 10% off select furniture, mattresses, electronics, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches, and salon products. Each offer good at jcp.com only, excluding taxes and shipping charges, 2/2/20. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Best Value, Limited Time Specials, adidas, Athletic Shoes, Baby Gear, Bobs from Skechers, Champion, Clarks, Columbia, Converse, Denizen from Levi’s, Disney Collection, Grasshoppers, Jewelry Trunk Shows, Keds, Levi's, Modern Bride Design Your Dream Ring, Nike, Personalized Jewelry, Puma, Reebok, Sephora, Skechers Athletic Shoes, Skechers Women's Shoes, Smartwatches, Team Sports Merchandise, Tempur-Pedic, Toys, In-Store Services, Service Plans, Gift Cards, Closing Store Purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply, see jcpenney.com/exclusions or store associate for details. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code GAMETIME when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. DetailsBLENDERSSLOW COOKERSTOASTER OVENSDEEP FRYERS &. AIR FRYERS    40% offGuys’ Arizona jeans   
 select styles | reg. $42 - $56  
-19.99Juniors’ Arizona jeans select styles | reg. $42  
+BUY 1 GET 1 50% OFF†Juniors’ Arizona jeans select styles | reg. $42  
 50% OFFKids’ Arizona jeans select styles | **sale $14.99-$19.99** | reg. $30-$40  
 SHOP VALENTINE'S DAY GIFTSSAVE UP TO 83%Your choice: 1/10 ct. t.w. diamond pendant, earrings or ring in sterling silver, reg $124.98 ea. Limited Time Special, while supplies last. Excluded from coupons and rewards.  SHOP SEPHORA FRAGRANCESSHOP THE LOCAL LOOK JCPenney is teaming up with fashion and lifestyle influencers to bring you a curated selection of their top picks. Check back every month to see new styles.  
 SHOP NOW Shop our curated collection of tees, hair products and makeup—designed just for you.  
-Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 28 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 28 total items loaded in Media GalleryFollow @jcpenney †Buy one item at regular price, get a second item of equal or lesser value for 50% off, while supplies last.Recommended for You
 
-*   $1308 - $1682after couponwas $44 St. John's Bay Womens Long Sleeve Button Open Front Cardigan(45)
-*   $1699after couponwas $80 Arizona Womens Denver Riding Boots Block Heel(190)
-*   $1496 - $3740after couponStafford Travel Wrinkle Free Stretch Oxford Mens Button Down Collar Long Sleeve Dress Shirt(244)
-*   $2124after couponwas $44 St. John's Bay Womens Mid Rise Straight Leg Jean(2080)
-*   $2974 - $5949after couponwas $70 - $140 Liz Claiborne Quinn Basketweave Room-Darkening Grommet Top Single Curtain Panel(626)
-*   $1699 - $7874after couponwas $60 - $209 400tc Wrinkle Guard Deep Pocket Sheet Set - JCPenney Home(2879)
+*   $1154after couponwas $44 St. John's Bay Womens Long Sleeve Button Open Front Cardigan(45)
+*   $1499after couponwas $80 Arizona Womens Denver Riding Boots Block Heel(190)
+*   $1649 - $33after couponStafford Mens Wrinkle Free Oxford Button Down Collar Dress Shirt(244)
+*   $2624 - $5249after couponwas $70 - $140 Liz Claiborne Quinn Basketweave Room-Darkening Grommet Top Single Curtain Panel(626)
+*   $659 - $33after couponSt. John's Bay Womens Mid Rise Straight Leg Jean(2080)
+*   $2699after couponwas $90 Worthington Sleeveless Sheath Dress(1)
 
 Shop and Save at JCPenney
 
