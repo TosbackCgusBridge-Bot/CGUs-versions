@@ -7,10 +7,37 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Last Call: Dresses Up to 70% Off
+    *   Tahitian Pearl Jewelry &. More Under $90
+    *   Vintage Addiction Bags Up to 80% Off
+    *   Boots, Pumps &. More Up to 60% Off
+    *   Sleepwear Up to 70% Off
+    *   Hair Tools Up to 60% Off
+    *   Men's Shoe Steals Up to 65% Off
+    *   Free Shipping: 1200-TC Sheet Sets Up to 65% Off
+    *   Tissot Watches
+    *   Sperry
+    *   Sperry Men
+    *   Spring Dresses, Tops &. More Under $50 Incl. Plus
+    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
+    *   Top Off Your Look: Blouses Up to 75% Off
+    *   Runway Report: Modern Utility Styles
+    *   Belstaff Up to 60% Off
+    *   Robert Barakett Starting at $25
+    *   Beauty All-Stars: Foundations &. More
+    *   Date Night Pumps Up to 60% Off
+    *   Date Night: Shoes for Him
+    *   2020 Art Trends: Neon Prints &. More
+    *   Dreambox Beauty
+    *   Sperry Kids
+    *   New Year, New Plans: 2020 Calendars &. Planners
+    *   New Baby Checklist: Styles Up to 55% Off
+    *   Hit Snooze: Kids' PJs Starting at $10
     *   Lucky Brand Incl. Plus
     *   Lucky Brand Shoes Up to 55% Off
     *   TOV
     *   Born Up to 60% Off
+    
     *   Lucky Brand Men Under $50
     *   Gemstones, Diamonds &. More Starting at $25
     *   Tommy Hilfiger Swim Up to 60% Off
@@ -28,11 +55,8 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Free Shipping: Wall Murals &. More from $15
     *   Cozy Home Self-Care Essentials from $10
     *   Jessica Simpson Girls
-    *   Hawke &. Co. Shoes Up to 70% Off
-    *   NANETTE nanette lepore
     *   Lush Starting at $20
     *   AllSaints
-    
     *   AllSaints Men
     *   AllSaints Bags &. Accessories Up to 55% Off
     *   New Balance
@@ -44,13 +68,13 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   New Balance Men
     *   Felina Intimates
     *   Last Chance: Winter Boots ft. SOREL
+    
     *   CZ by Kenneth Jay Lane Up to 70% Off
     *   Free Shipping: Sheet Sets, Duvets &. More
     *   New Balance Kids
     *   Last Chance: Men's Winter Boots Under $80
     *   Raymond Weil Luxury Swiss Watches
     *   Pet Accessories Under $30
-    *   Barbour Men Up to 45% Off
     *   Men's Fragrances Under $50
     *   Play All Day: Little Tikes, KidKraft &. More
     *   Luxe Pillows, Throws &. More Up to 70% Off
@@ -58,33 +82,40 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Lacoste Men's Shoes
     *   Aromatherapy Balms &. More by Scentered
     *   Almeda Vegan Protein
-    
     *   Free Shipping: Storage for Every Room
-    *   PURA D'OR Hair Care Up to 65% Off
-    *   Beach Ready: Towels Starting at $10
-    *   Robert Graham Shoes Up to 60% Off
-    *   Premium Denim: Brands We Love Up to 60% Off
-    *   Kitchen Must-Haves from Cuisinart
-    *   Free Shipping: BergHOFF Up to 55% Off
+    *   Hawke &. Co. Shoes Up to 70% Off
+    *   French Connection Outerwear &. More
+    *   Date Night Checklist: Lashes, Lippies &. More
     *   Free Shipping: Motion Sensor Trash Cans
     *   Bath &. Bedding Essentials Up to 70% Off
     *   Entertain in Style: Nambe &. More Up to 60% Off
-    *   Date Night Checklist: Lashes, Lippies &. More
-    *   Smart Watch Bands &. More Up to 70% Off
-    *   French Connection Outerwear &. More
-    *   Little Me Starting at $12
     *   Free Shipping: Decor Accents Up to 45% Off
+    *   Smart Watch Bands &. More Up to 70% Off
+    *   Little Me Starting at $12
+    *   PURA D'OR Hair Care Up to 65% Off
+    *   Beach Ready: Towels Starting at $10
+    *   Kitchen Must-Haves from Cuisinart
+    *   Free Shipping: BergHOFF Up to 55% Off
     *   6-Piece Towel Sets &. More Starting at $25
-    *   Clean Beauty ft. Honeybee Gardens
     *   Free Shipping: Hand-Painted Replicas
-    *   Free Shipping: Dreamy Bedding Up to 75% Off
-    *   Kitchen Storage &. Prep Tools Up to 50% Off
-    *   Free Shipping: Fine Art Up to 85% Off
     *   Dresses &. Jumpsuits
-    *   Fidelity Denim &. More
-    *   Dresses &. More ft. West Kei Incl. Plus &. Petites
 *   WomenShop Sale Events
     
+    *   Last Call: Dresses Up to 70% Off
+    *   Tahitian Pearl Jewelry &. More Under $90
+    *   Vintage Addiction Bags Up to 80% Off
+    *   Boots, Pumps &. More Up to 60% Off
+    *   Sleepwear Up to 70% Off
+    *   Hair Tools Up to 60% Off
+    *   Tissot Watches
+    *   Sperry
+    *   Spring Dresses, Tops &. More Under $50 Incl. Plus
+    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
+    *   Top Off Your Look: Blouses Up to 75% Off
+    *   Runway Report: Modern Utility Styles
+    *   Beauty All-Stars: Foundations &. More
+    *   Date Night Pumps Up to 60% Off
+    *   Dreambox Beauty
     *   Lucky Brand Incl. Plus
     *   Lucky Brand Shoes Up to 55% Off
     *   TOV
@@ -94,16 +125,15 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Teami Blends Detox Teas &. Supplements
     *   Vacation Vibes: Plus Shop Up to 70% Off
     *   All Under $60: On-Trend Bags ft. Pink Haley
+    
     *   All Under $15: Makeup Geek &. Jouer
     *   Terre Mere Organic Vegan Beauty Up to 70% Off
     *   Catherine Catherine Malandrino Shoes from $30
     *   Lingerie We Love: Full-Fit Bras
     *   Fresh Finds: Sandals &. More Up to 60% Off
-    *   NANETTE nanette lepore
     *   Lush Starting at $20
     *   AllSaints
     *   AllSaints Bags &. Accessories Up to 55% Off
-    
     *   New Balance
     *   Angie
     *   Love to Love These: Valentine's Day Looks
@@ -115,46 +145,49 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Raymond Weil Luxury Swiss Watches
     *   Aromatherapy Balms &. More by Scentered
     *   Almeda Vegan Protein
-    *   PURA D'OR Hair Care Up to 65% Off
-    *   Date Night Checklist: Lashes, Lippies &. More
     *   French Connection Outerwear &. More
-    *   Clean Beauty ft. Honeybee Gardens
+    *   Date Night Checklist: Lashes, Lippies &. More
+    *   PURA D'OR Hair Care Up to 65% Off
     *   Dresses &. Jumpsuits
-    *   Fidelity Denim &. More
-    *   Dresses &. More ft. West Kei Incl. Plus &. Petites
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie &. Shapewear
     *   Jewelry
     *   Handbags
+    *   Lingerie &. Shapewear
     *   Watches
     *   Accessories
 *   MenShop Sale Events
     
+    *   Men's Shoe Steals Up to 65% Off
+    *   Tissot Watches
+    *   Sperry Men
+    *   Belstaff Up to 60% Off
+    *   Robert Barakett Starting at $25
+    *   Date Night: Shoes for Him
     *   Lucky Brand Men Under $50
     *   Quality Sleep: Luxe Pillow &. Sheet Sets
+    
     *   Get Outside: Active Outerwear Up to 60% Off
-    *   Hawke &. Co. Shoes Up to 70% Off
     *   AllSaints Men
     *   Travis Mathew Up to 55% Off
     *   New Balance Men
-    
     *   Last Chance: Men's Winter Boots Under $80
-    *   Barbour Men Up to 45% Off
     *   Men's Fragrances Under $50
     *   Lacoste Men's Shoes
-    *   Robert Graham Shoes Up to 60% Off
-    *   Premium Denim: Brands We Love Up to 60% Off
+    *   Hawke &. Co. Shoes Up to 70% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Accessories
     *   Watches
+    *   Accessories
 *   KidsShop Sale Events
     
+    *   Sperry Kids
+    *   New Baby Checklist: Styles Up to 55% Off
+    *   Hit Snooze: Kids' PJs Starting at $10
     *   Jessica Simpson Girls
     *   New Balance Kids
     *   Play All Day: Little Tikes, KidKraft &. More
@@ -166,10 +199,13 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Toys
     *   Boys' Shoes
     *   Girls' Shoes
-    *   Boys
     *   Girls
+    *   Boys
 *   HomeShop Sale Events
     
+    *   Free Shipping: 1200-TC Sheet Sets Up to 65% Off
+    *   2020 Art Trends: Neon Prints &. More
+    *   New Year, New Plans: 2020 Calendars &. Planners
     *   Quality Sleep: Luxe Pillow &. Sheet Sets
     *   Free Shipping: Home Organization Starting at $20
     *   Free Shipping: Wall Murals &. More from $15
@@ -178,20 +214,17 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Pet Accessories Under $30
     *   Luxe Pillows, Throws &. More Up to 70% Off
     *   Free Shipping: Storage for Every Room
-    *   Beach Ready: Towels Starting at $10
-    *   Kitchen Must-Haves from Cuisinart
-    *   Free Shipping: BergHOFF Up to 55% Off
     
     *   Free Shipping: Motion Sensor Trash Cans
     *   Bath &. Bedding Essentials Up to 70% Off
     *   Entertain in Style: Nambe &. More Up to 60% Off
-    *   Smart Watch Bands &. More Up to 70% Off
     *   Free Shipping: Decor Accents Up to 45% Off
+    *   Smart Watch Bands &. More Up to 70% Off
+    *   Beach Ready: Towels Starting at $10
+    *   Kitchen Must-Haves from Cuisinart
+    *   Free Shipping: BergHOFF Up to 55% Off
     *   6-Piece Towel Sets &. More Starting at $25
     *   Free Shipping: Hand-Painted Replicas
-    *   Free Shipping: Dreamy Bedding Up to 75% Off
-    *   Kitchen Storage &. Prep Tools Up to 50% Off
-    *   Free Shipping: Fine Art Up to 85% Off
     
     Shop By Category
     *   Home Decor
@@ -203,27 +236,30 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Pet Accessories
     *   Rugs &. Doormats
     *   Accent Furniture
-    *   Luggage &. Travel
+    *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
+    *   Hair Tools Up to 60% Off
+    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
+    *   Beauty All-Stars: Foundations &. More
+    *   Dreambox Beauty
     *   Teami Blends Detox Teas &. Supplements
     *   All Under $15: Makeup Geek &. Jouer
+    
     *   Terre Mere Organic Vegan Beauty Up to 70% Off
     *   Men's Fragrances Under $50
     *   Aromatherapy Balms &. More by Scentered
     *   Almeda Vegan Protein
-    *   PURA D'OR Hair Care Up to 65% Off
     *   Date Night Checklist: Lashes, Lippies &. More
-    *   Clean Beauty ft. Honeybee Gardens
+    *   PURA D'OR Hair Care Up to 65% Off
     
     Shop By Category
-    *   Makeup
     *   Fragrance
-    *   Bath &. Body
+    *   Makeup
     *   Hair Care
+    *   Bath &. Body
     *   Skin Care
     *   Tools &. Accessories
-    *   Nails
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
