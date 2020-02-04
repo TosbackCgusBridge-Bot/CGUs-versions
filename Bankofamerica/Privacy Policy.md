@@ -70,14 +70,16 @@ Expand all panelsShow all panels | Hide all panelsUse our Mobile Banking app Che
 
 Create strong, unique passwords Expand all panels
 
-*   Strong passwords are 8 or more characters long and include a combination of numbers, symbols and upper- and lowercase letters
+*   Strong passwords are at least 8 characters in length and comprised of numbers, symbols, and upper &. lowercase letters.
 *   Use multifactor authentication when possible
+*   Change passwords regularly
 
 Protect your devices Expand all panelsKeep your phone, tablet and computer up to date with the latest browsers, operating systems and antivirus software Keep your account information secure Expand all panels
 
 *   Go paperless
 *   Never write your PIN on the back of your card
 *   Use trusted online payment methods, such as Bill Pay or Zelle® instead of writing checks
+*   Avoid sharing your online ID and Passcode, especially when using third-party money management apps. Learn More about protecting your personal information.
 
 **The best way to avoid getting tricked by scammers is to know the tricks they use – and the red flags that signal scams.**
 
