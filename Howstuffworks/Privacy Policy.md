@@ -119,7 +119,7 @@ We do not collect personal information automatically, but we may tie this inform
 
 **Third-Party Use of Cookies and Other Tracking Technologies**
 
-Some content or applications, including advertisements, on our services are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our services. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
+We do not collect personal information automatically, but we may tie this information to personal information about you that we collect or receive from other third-party sources or you provide to us.
 
 We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see Choices About How We Use and Disclose Your Information.
 
@@ -292,20 +292,6 @@ Last Updated On: 01/31/2020
 
 Print | Citation &. Date | Reprint
 
-Most Popular on HowStuffWorksSponsored LinksSponsored LinksPromoted LinksPromoted Links7 Atrocities Soviet Dictator Joseph Stalin Committed1STWhat's the Best Way to Leash Your Dog?2ND7 'Facts' They Got Wrong in School About Christopher Columbus3RD9 Little-known Nuggets About Honest Abe4THPickup Trucks | SponsoredUnsold Pickup Trucks Going For Pennies on The Dollar! Search For Best Deals On Pickup TrucksPickup Trucks | SponsoredAuto Overload | SponsoredPerfectly Timed Moments Captured When It All Went So WrongAuto Overload | SponsoredSenior Living | SponsoredLuxury Senior Living In Longmont Is Actually Affordable!Senior Living | Sponsored247 Sports | SponsoredThese Are The NFL's Most Hated Players Ever, Ranked247 Sports | Sponsored
-
-Advertisement
-
-culture - historyWhy the Ghost of Andrew Jackson Haunts the Modern U.S. PresidencyBY Nathan Chandlerhealth - wellness6 Anti-inflammatory Foods You Should Be EatingBY Alia Hoytscience - innovationHow Morse Code Works and Still Lives On in the Digital AgeBY Mark ManciniTruthfinder | SponsoredEnter Any Name, Wait 105 Seconds, See Instant ResultsTruthfinder | SponsoredCruises | SponsoredYou've Never Seen Luxury Like This on A Cruise ShipCruises | Sponsored
-
-Advertisement
-
-Advertisement
-
-Advertisement
-
-Recommended Sponsored LinksSponsored LinksPromoted LinksPromoted LinksHowStuffWorksA Portrait of Jimmy Carter, America's Oldest Living President EverHow the White House Press Briefing Went From Daily to DoneCould Electric Motor Conversions Save Classic Cars?What People Get Wrong About Rosa Parks and the Montgomery Bus BoycottWhy Do We Say 'Holy Cow'?Scientists Say: Hey, Hikers, Stop Stacking Rocks!by Taboolaby Taboola
-
 *   About
 *   Podcasts
 *   Privacy Policy
@@ -327,4 +313,4 @@ Sign Up
 
 **Copyright © 2020 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
 
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">. 7 Atrocities Soviet Dictator Joseph Stalin CommittedRead Next StoryPickup TrucksUnsold Pickup Trucks Going For Pennies on The Dollar! Search For Best Deals On Pickup TrucksPickup Trucks|SponsoredSponsoredRead Next StoryAuto OverloadPerfectly Timed Moments Captured When It All Went So WrongAuto Overload|SponsoredSponsoredRead Next Story
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">.
