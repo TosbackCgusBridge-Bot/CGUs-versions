@@ -1,10 +1,10 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Up to 50% off select denim! Shop Now Double up on savings! Get an extra 33% off, or 50% off!
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Up to 50% off select denim! Shop Now Double up on savings! Get an extra 20% off, 33% off, or 50% off!
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-Double up on savings! Get an extra 33% off, or 50% off!
+Up to 50% off select denim! Shop Now
 
 *   Women
 *   Men
