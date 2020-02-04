@@ -316,6 +316,7 @@ Join now! Collect 10 nights, get 1 reward\* night
 
 *   Hotels near me
 *   Travel Guides
+*   Vacation Rentals
 *   Top 50 cities
 *   All countries
 *   Site Index
