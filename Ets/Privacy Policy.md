@@ -30,13 +30,19 @@ Within this Privacy Notice, you will find information about:
 *   Special Notice to California Residents
 *   Special Notice to Residents in the European Economic Area, Switzerland and the U.K.
 
-Last Updated on July 26, 2019.
+Last Updated on January 24, 2020.
 
 Children
 
-We do not knowingly collect Personal Information on our Websites directly from children under the age of 16. Parents and schools may use our Website to create accounts for children, such as registering them for tests. We encourage parents and teachers to spend time online with children and to monitor their online activities.
+In most cases, we do not knowingly collect Personal Information directly from children under the age of 16 on our Websites. Parents and schools may use our Websites to create accounts for children, such as registering them for tests. We encourage parents and teachers to spend time online with children and to monitor their online activities. If you believe that a child has created an account on our Website, please contact us to have the account deactivated by sending us an email at etsinfo@ets.org or by calling us at 1-609-921-9000.
 
-If you believe that a child has created an account on our Website, please contact us to have the account deactivated by sending us an email at etsinfo@ets.org or by calling us at 1-609-921-9000.
+ETS does provide parents and teachers with the ability to download certain apps that they and their children or students can use for educational purposes, such as to improve reading fluency. Some of these apps are intended for use by children under 13.
+
+When children use these apps, ETS may collect the child's first name or nickname, age or grade in school, audio recordings of the child's voice when the child reads passages (or a transcript of the recording), the child's responses to questions that test skills such as reading comprehension, and other data relating to the child's use of the app, such as how long the child the spends using the app. Our apps do not collect any other Personal Information and they do not use cookies or other data collection technologies.
+
+ETS anonymizes the information collected by its educational apps and uses the information for research purposes. ETS does not maintain identifiable data about children, and children cannot make their own data publicly available via the apps. ETS does not (and will not permit any third party to) associate identifying information with research data.
+
+Parents and teachers can review and delete the child's information at any time in the app. Parents and teachers can restrict ETS's collection of additional information at any time by deleting the app. Parents or teachers who have any questions about how ETS handles children's data may contact ETS by sending us an email at etsinfo@ets.org or by calling us at 1-609-921-9000.
 
 Back to Top
 
@@ -210,7 +216,13 @@ Back to Top
 
 Special Notice to California Residents
 
-ETS does not sell any California consumer personal information.
+The California Consumer Privacy Act (or "CCPA") provides California residents with specific privacy rights, including the right to receive a privacy notice and to tell companies not to sell your personal information.
+
+As a nonprofit, ETS is not directly subject to the CCPA. However, we are deeply committed to protecting the privacy and security of all the personal information that is entrusted to us. We do not sell personal information.
+
+We have a global privacy program that protects your personal information no matter how or where it is collected, used or stored. We also comply with the privacy and security laws that are applicable to us. Our Privacy and Security Statement describes our privacy and security practices in detail.
+
+If you have any questions or concerns about your privacy, please Contact Us.
 
 Back to Top
 
