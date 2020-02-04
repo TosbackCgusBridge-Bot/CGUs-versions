@@ -157,12 +157,12 @@
         *   Privacy Policy
         *   Website Terms of Use
 *   About Us
+    *   Locations
+    *   News
+    *   Careers
     *   Company
-        *   News
         *   Leadership
         *   Values
-    *   Locations
-    *   Careers
     *   Investor Relations
     *   Community Matters
         *   Company Giving
@@ -192,9 +192,10 @@
 *   My Account   
 
 *   About Us
-    *   Company
     *   Locations
+    *   News
     *   Careers
+    *   Company
     *   Investor Relations
     *   Community Matters
     *   Social Responsibility
