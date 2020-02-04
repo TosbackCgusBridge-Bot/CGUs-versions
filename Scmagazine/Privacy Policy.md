@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Bezos iPhone compromised by Saudi prince, report finds
-    *   LabCorp suffers second data incident, patient PHI potentially exposed
-    *   Three Magecart operatives arrested in Indonesia
-    *   Hackers play on Coronavirus fears to spread Emotet
-    *   Report: Ryuk ransomware impacts websites of DOD contractor
-    
-    *   Why automating network security policies is the missing link to digital transformation
-    *   Privacy takes a hit, as storage bucket leaks cannabis dispensary POS data
-    *   NYPD arrests ninth Methbot gang member
-    *   Cyberattack halts Tissue Regenix's U.S.-based manufacturing operations
+    *   TA505 phishing campaign uses HTML redirectors to spread info stealer
+    *   Billie Eilish sweeps Grammys, but Taylor Swift leads with most malware files
+    *   SC Labs product reviews: Email security
     *   The Dearth of Skilled Cybersecurity Personnel
+    *   Cybersecurity lacking at most of the world’s major airports
     
-    *   Brexit cybersecurity implications hold steady during transition period
-    *   Ashley Madison breach victims further embarrassed by ransom demands five years later
-    *   Indian airline hacked, vulnerability exposed by ethical hacker
-    *   Hackers play on Coronavirus fears to spread Emotet
+    *   How a bill becomes a compliance ask
+    *   Report: United Nations withheld news of systems hack in European offices
     *   Burglary charges dropped against Coalfire pen testers
+    *   LabCorp suffers second data incident, patient PHI potentially exposed
+    *   Adobe patches critical Magento security vulnerabilities
+    
+    *   TA505 phishing campaign uses HTML redirectors to spread info stealer
+    *   Ransomware knocks city of Racine offline
+    *   Adobe patches critical Magento security vulnerabilities
+    *   Hacker pleads guilty to stealing Nintendo secrets
+    *   Compliance: Watch your step!
 
 Back to Top
 
