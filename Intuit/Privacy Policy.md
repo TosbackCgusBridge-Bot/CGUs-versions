@@ -21,20 +21,18 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackFinal Hours Of COUPON CODE GAMETIMEENDS IN00HOURS 41MINS 15SECS See Details\*Extra 30% off select apparel, shoes, accessories, fine jewelry and home purchases of $100 or more. Extra 25% off select purchases under $100. Extra 10% off select furniture, mattresses, electronics, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches, and salon products. Each offer good at jcp.com only, excluding taxes and shipping charges, 2/2/20. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Best Value, Limited Time Specials, adidas, Athletic Shoes, Baby Gear, Bobs from Skechers, Champion, Clarks, Columbia, Converse, Denizen from Levi’s, Disney Collection, Grasshoppers, Jewelry Trunk Shows, Keds, Levi's, Modern Bride Design Your Dream Ring, Nike, Personalized Jewelry, Puma, Reebok, Sephora, Skechers Athletic Shoes, Skechers Women's Shoes, Smartwatches, Team Sports Merchandise, Tempur-Pedic, Toys, In-Store Services, Service Plans, Gift Cards, Closing Store Purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply, see jcpenney.com/exclusions or store associate for details. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code GAMETIME when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. DetailsBLENDERSSLOW COOKERSTOASTER OVENSDEEP FRYERS &. AIR FRYERS    40% offGuys’ Arizona jeans   
-select styles | reg. $42 - $56  
-BUY 1 GET 1 50% OFF†Juniors’ Arizona jeans select styles | reg. $42  
-50% OFFKids’ Arizona jeans select styles | **sale $14.99-$19.99** | reg. $30-$40  
-SHOP VALENTINE'S DAY GIFTSSAVE UP TO 83%Your choice: 1/10 ct. t.w. diamond pendant, earrings or ring in sterling silver, reg $124.98 ea. Limited Time Special, while supplies last. Excluded from coupons and rewards.  SHOP SEPHORA FRAGRANCESSHOP THE LOCAL LOOK JCPenney is teaming up with fashion and lifestyle influencers to bring you a curated selection of their top picks. Check back every month to see new styles.  
-SHOP NOW Shop our curated collection of tees, hair products and makeup—designed just for you.  
-Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 28 total items loaded in Media GalleryFollow @jcpenney †Buy one item at regular price, get a second item of equal or lesser value for 50% off, while supplies last.Recommended for You
+Near YouFind a StoreBack HURRY, GET IT IN TIME! STANDARD SHIPPING FOR VALENTINE'S DAYENDS IN60HOURS 41MINS 20SECS \*Offer ends 02/06/20BATHWINDOWDECORFINE &. FASHION JEWELRYAfter Extra 25% off $100+ or Extra 20% off under $100 select styles 40-50% OFFGemstone jewelry  select styles 40-50% OFFDiamond jewelry select styles 40-50% OFFModern Bride select styles BUY 1 GET 1 FREE†Ambrielle bras | select styles | reg. $32-$44 Ambrielle event ends 2/19 Fun date. can’t wait!Shop casual date night Hit the town in styleShop fancy date night 25% OFFSexy Hair products select styles | reg. $16.95-$41.95 SHOP SEPHORA BEAUTY    25% OFFMen’s Levi’s® 511™ slim $52.13 | reg. $69.50 Additional offers and coupons do not apply to Levi’s®. 25% OFFWomen’s Levi’s® 721 high-rise skinny jeans $44.62 | reg. $59.50  Additional offers and coupons do not apply to Levi’s®. 25% OFFMen’s Levi’s® 505™ regular fit $44.63 | reg. $59.50 Additional offers and coupons do not apply to Levi’s®. BUY 1 GET 1 50% OFF†Juniors’ Arizona jeans select styles | reg. $39-$42 $21.99Guys’ Arizona jeans | select styles reg. $42 $22.99Boys’ Arizona fashion jeans | select styles reg. $40 SHOP NOWShop our curated collection of tees, hair products and makeup—designed just for you. SHOP THE LOCAL LOOKJCPenney is teaming up with fashion and lifestyle  influencers to bring you a curated selection of their top picks.Check back every month to see new styles. Next stop: the dance floorYour one-stop destination for taking prom to a place that’s uniquely yours.  †Buy one item at regular price, get a second item of equal or lesser value for 50% off or free, while supplies last. Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 28 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   $1154after couponwas $44 St. John's Bay Womens Long Sleeve Button Open Front Cardigan(45)
-*   $1499after couponwas $80 Arizona Womens Denver Riding Boots Block Heel(190)
-*   $1649 - $33after couponStafford Mens Wrinkle Free Oxford Button Down Collar Dress Shirt(244)
-*   $2624 - $5249after couponwas $70 - $140 Liz Claiborne Quinn Basketweave Room-Darkening Grommet Top Single Curtain Panel(626)
-*   $659 - $33after couponSt. John's Bay Womens Mid Rise Straight Leg Jean(2080)
-*   $2699after couponwas $90 Worthington Sleeveless Sheath Dress(1)
+*   $1231 - $1583after couponwas $44 St. John's Bay Womens Long Sleeve Button Open Front Cardigan(45)
+*   $1599after couponwas $80 Arizona Womens Denver Riding Boots Block Heel(193)
+*   $1759 - $3520after couponStafford Mens Wrinkle Free Oxford Button Down Collar Dress Shirt(244)
+*   $2799 - $5599after couponwas $70 - $140 Liz Claiborne Quinn Basketweave Room-Darkening Grommet Top Single Curtain Panel(626)
+*   $2879after couponwas $90 Worthington Sleeveless Sheath Dress(1)
+*   LIMITED TIME SPECIAL!
+    
+    $25 sale
+    
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(105)
 
 Shop and Save at JCPenney
 
