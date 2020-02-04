@@ -5,8 +5,8 @@ Lenovo Explore Close
     *   Laptops
         
         *   Always Free Shipping
-        *   Earn Rewards on All Purchases
-        *   Financing Available
+        *   Earn 3% rewards on all purchases
+        *   Low monthly payments
         
         *   Explore Laptops
         *   2 in 1 Laptops
@@ -39,8 +39,8 @@ Lenovo Explore Close
     *   Desktops
         
         *   Always Free Shipping
-        *   Earn Rewards on All Purchases
-        *   Financing Available
+        *   Earn 3% rewards on all purchases
+        *   Low monthly payments
         
         *   Explore Desktops
         *   Desktop Deals
@@ -70,8 +70,8 @@ Lenovo Explore Close
     *   Workstations
         
         *   Always Free Shipping
-        *   Earn Rewards on All Purchases
-        *   Financing Available
+        *   Earn 3% rewards on all purchases
+        *   Low monthly payments
         
         *   Explore Workstations
         *   Workstation Computers
@@ -98,8 +98,8 @@ Lenovo Explore Close
     *   Tablets
         
         *   Always Free Shipping
-        *   Earn Rewards on All Purchases
-        *   Financing Available
+        *   Earn 3% rewards on all purchases
+        *   Low monthly payments
         
         *   Explore Tablets
         *   With Android
@@ -125,8 +125,8 @@ Lenovo Explore Close
     *   Accessories &. Software
         
         *   Always Free Shipping
-        *   Earn Rewards on All Purchases
-        *   Financing Available
+        *   Earn 3% rewards on all purchases
+        *   Low monthly payments
         
         *   Accessories
         *   Docks
@@ -137,11 +137,11 @@ Lenovo Explore Close
         *   View All Accessories
         
         *   Software
+        *   Explore Software at Lenovo
         *   MS Office
-        *   Lenovo Vantage
         *   Adobe
+        *   Lenovo Vantage
         *   Cloud Security Software
-        *   View All Software
         
         *   Quick Links
         *   Accessory Deals
@@ -161,8 +161,8 @@ Lenovo Explore Close
     *   Monitors
         
         *   Always Free Shipping
-        *   Earn Rewards on All Purchases
-        *   Financing Available
+        *   Earn 3% rewards on all purchases
+        *   Low monthly payments
         
         *   Explore Monitors
         *   Monitors for Work
@@ -187,8 +187,8 @@ Lenovo Explore Close
     *   Gaming
         
         *   Always Free Shipping
-        *   Earn Rewards on All Purchases
-        *   Financing Available
+        *   Earn 3% rewards on all purchases
+        *   Low monthly payments
         
         *   Explore Gaming
         *   Laptops
@@ -221,14 +221,15 @@ Lenovo Explore Close
     *   Business
         
         *   Always Free Shipping
-        *   Earn Rewards on all Purchases
-        *   Financing Available
+        *   Earn 3% rewards on all purchases
+        *   Low monthly payments
         
         *   Business Solutions
         *   Small Business
         *   Data Center
         *   ThinkShield
         *   LenovoPRO for Small Business
+        *   Small Business Software Solutions
         *   View all Solutions
         
         *   Vertical Solutions
@@ -254,8 +255,8 @@ Lenovo Explore Close
     *   Support
         
         *   Always Free Shipping
-        *   Earn Rewards on All Purchases
-        *   Financing Available
+        *   Earn 3% rewards on all purchases
+        *   Low monthly payments
         
         *   Customer Support
         *   Help Placing An Order
@@ -283,8 +284,8 @@ Lenovo Explore Close
     *   Sale
         
         *   Always Free Shipping
-        *   Earn Rewards on All Purchases
-        *   Financing Available
+        *   Earn 3% rewards on all purchases
+        *   Low monthly payments
         
         *   Weekly Laptop Deals
         *   ThinkPad Deals
@@ -458,13 +459,13 @@ Lenovo Explore Close
         
         Shop Now for Premium Yoga Smart Tab Bundle Offers
         
-        Smart Home Deals
+        Tech From The Heart
         
-        Explore Smart Home Deals and More!
+        Save up to 41% off of Smart Devices and Tablets and earn 3X Rewards! Ends 2/9.
         
         *   Always Free Shipping
         *   Easy Returns
-        *   Financing Available
+        *   Low monthly payments
     *   Smart Office
         
         *   Corporate Office
@@ -475,7 +476,7 @@ Lenovo Explore Close
         
         *   Always Free Shipping
         *   Easy Returns
-        *   Financing Available
+        *   Low monthly payments
         
         ThinkSmart Hub
         
@@ -499,7 +500,7 @@ Lenovo Explore Close
         
         *   Always Free Shipping
         *   Easy Returns
-        *   Financing Available
+        *   Low monthly payments
         
         Marvel: Dimension of Heroes
         
@@ -536,7 +537,7 @@ Lenovo Explore Close
         
         *   Always Free Shipping
         *   Easy Returns
-        *   Financing Available
+        *   Low monthly payments
         
         Smart Device Support
         
