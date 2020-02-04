@@ -194,7 +194,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Extra 15% Off** Use Code **GAMEDAY15** **  GIRLS GUYS**
+**Shop New Spring Arrivals GIRLS GUYS + FS Over $50**
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -366,20 +366,14 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
 
-Limited Time &. Online Only. TAKE AN
+In Stores &. Online
 
-EXTRA 15% OFF
+50-70% OFF EVERYTHING
 
-EXTRA  
-15% OFF
+50-70% OFF  
+EVERYTHING
 
-ENTIRE SITE. 100s of Styles to Choose From Already 50-70% Off.  
-Use Code GAMEDAY15
-
-ENTIRE SITE. 100s of Styles to Choose From  
-Already 50-70% Off. Use Code GAMEDAY15
-
-Exclusions Apply
+Including 100s of New Arrivals!
 
 Shop Girls Shop Guys
 
@@ -473,17 +467,6 @@ Curvy Bootcut
 Straight
 
 Next
-
-In Stores &. Online
-
-50-70% OFF EVERYTHING
-
-50-70% OFF  
-EVERYTHING
-
-Including 100s of New Arrivals!
-
-Shop Girls Shop Guys
 
 In Stores &. Online
 
@@ -671,4 +654,4 @@ Stay Connected
 *   Use Student Discount
 *   Store FAQs
 
-© 2020 Aeropostale. All Rights Reserved. CHAT close dialogWant to snag15% OFFsitewide?GET 15% OFFI DON'T WANT 15% OFFNICE! Give us your email to snag15% offPlease enter aboveUnlock 15% offYOU’VE SNAGGED 15% OFFUse Codeat checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSContinue Shoppingclose dialog
+© 2020 Aeropostale. All Rights Reserved. CHAT
