@@ -1,6 +1,6 @@
 1/1
 
-*   Severe Weather Impacting Areas in Wyoming...More
+*   Severe Weather Impacting Areas in New Mexico and Wyoming...More
 
 Close Skip To Main Content
 
