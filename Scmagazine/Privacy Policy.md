@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   TA505 phishing campaign uses HTML redirectors to spread info stealer
-    *   Billie Eilish sweeps Grammys, but Taylor Swift leads with most malware files
-    *   SC Labs product reviews: Email security
-    *   The Dearth of Skilled Cybersecurity Personnel
-    *   Cybersecurity lacking at most of the world’s major airports
-    
-    *   How a bill becomes a compliance ask
-    *   Report: United Nations withheld news of systems hack in European offices
-    *   Burglary charges dropped against Coalfire pen testers
-    *   LabCorp suffers second data incident, patient PHI potentially exposed
-    *   Adobe patches critical Magento security vulnerabilities
-    
-    *   TA505 phishing campaign uses HTML redirectors to spread info stealer
-    *   Ransomware knocks city of Racine offline
-    *   Adobe patches critical Magento security vulnerabilities
+    *   You’re the new CISO — Now what?
+    *   Three Magecart operatives arrested in Indonesia
     *   Hacker pleads guilty to stealing Nintendo secrets
-    *   Compliance: Watch your step!
+    *   Pre-Olympics cybersecurity exercise kicks off in Tokyo
+    *   Hackers ran ad scams after hijacking account at Facebook data partner LiveRamp
+    
+    *   A new way to think about security in autonomous systems: Don’t
+    *   Lawyers: Facebook is prepared to pay $550M to settle facial recognition lawsuit
+    *   Cybersecurity executive changes
+    *   Wawa customer payment card data for sale
+    *   States weigh in on cybersecurity
+    
+    *   Twitter goes after Baby Peanut, API threat
+    *   Cybersecurity executive changes
+    *   Report ties Ekans/Snake ransomware to Megacortex, emphasizes ICS threat
+    *   Critical flaw in OpenSMTPD found, patched
+    *   Maze ransomware publicly shaming victims into paying
 
 Back to Top
 
@@ -262,8 +262,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
-
-You can skip this ad in 2 seconds.
-
-Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
