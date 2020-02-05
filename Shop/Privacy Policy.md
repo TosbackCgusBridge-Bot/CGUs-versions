@@ -214,9 +214,9 @@ Lenovo Explore Close
         *   Realspace Gaming Chair
         *   Legion Y740
         
-        PlayStation 4
+        Sign up &. save
         
-        Experience three PS4™ games with an all-new bundle
+        Save an extra 5% on Legion PC's when you join the Legion Community.
         
     *   Business
         
