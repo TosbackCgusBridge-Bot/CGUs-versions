@@ -68,7 +68,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 810 4609 1 855 810 4609
+    1 855 754 4719 1 855 754 4719
     
 
 *   Solutions By Function
@@ -141,7 +141,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
 *   Search
 *   Become a Client
     
-    1 855 810 4609 1 855 810 4609
+    1 855 754 4719 1 855 754 4719
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
