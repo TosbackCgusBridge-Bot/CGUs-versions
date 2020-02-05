@@ -84,7 +84,7 @@
     
     Advertising Cookies. To help support the Site and further tailor your experience, Forbes and its advertising partners (and/or their third-party analytics providers) may also use cookies on the Site to personalize the content and advertisements you may be shown. Such advertisements use cookies to provide you targeted advertisements that may be more consistent with your interests than non-targeted advertisements. Certain Forbes advertising partners may also use cookies to monitor or track the performance of their advertising content, including native advertising content (e.g., BrandVoice). Forbes does not provide user information to advertising partners except in connection with the Site or as required by law.
     
-    If you would like to manage your cookie preferences or learn more information about this practice and your right to decline (or opt-out of) cookies placed by some or all of these companies, please click here. If you are a California resident and to the extent our use of cookies qualifies as selling personal information under the CCPA, you can opt out of that sale by clicking the “Cookies on Forbes” tab, this link: Do Not Sell My Info, or by contacting us as indicated below.
+    If you would like to manage your cookie preferences or learn more information about this practice and your right to decline (or opt-out of) cookies placed by some or all of these companies, please click here. If you are a California resident and to the extent our use of cookies qualifies as selling personal information under the CCPA, you can opt out of that sale by clicking the “Cookies on Forbes” tab or by contacting us as indicated below.
     
     Please be aware that if you do choose to disable the receipt of cookies from our Site, you may not be able to use or benefit from certain features of the Site, particularly the features that are designed to personalize your experience.  To learn more about the use of cookies in online advertising including how to manage or delete them click here.
     
@@ -206,7 +206,13 @@
     
     How to Contact Us **Section Overview**: Please contact us if you have any questions or requests.
     
-    If you have any questions regarding this Privacy Statement or how to remove or modify your user information or related consents, please feel free to contact us at privacy@forbes.com or Forbes Media, Privacy Team - Customer Service, 499 Washington Blvd., 9th Floor, Jersey City, NJ 07310. The data controller of your user information is Forbes Media LLC.  Our EU representative can be contacted at privacy@forbes.com or Forbes Media - EU Representative, 151 Wardour Street, Offices 201-203, London, W1F 8WE.
+    If you are an individual in the EEA and would like to make a request pursuant to the General Data Protection Regulation (GDPR), click here.
+    
+    If you are a California resident and would like to make a request pursuant to the California Consumer Privacy Act (CCPA), click here.
+    
+    If you are a Nevada consumer and would like to make a request pursuant to Nevada Senate Bill 220, click here.
+    
+    If you have any other questions regarding this Privacy Statement or how to remove or modify your user information or related consents, please feel free to contact us at privacy@forbes.com or Forbes Media, Privacy Team - Customer Service, 499 Washington Blvd., 9th Floor, Jersey City, NJ 07310. The data controller of your user information is Forbes Media LLC.  Our EU representative can be contacted at privacy@forbes.com or Forbes Media - EU Representative, 151 Wardour Street, Offices 201-203, London, W1F 8WE.
     
     If you are a California resident who has a disability and requires assistance to access this Privacy Statement in an alternative format, contact us by any of the methods set out here. You can access a printable copy of this Privacy Statement by printing this page.
     
