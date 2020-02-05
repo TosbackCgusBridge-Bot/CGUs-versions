@@ -45,6 +45,7 @@
     *   CHALLENGES &. EVENTS
     *   Fitbit Local Events
     *   Fitbit Challenges
+    *   Ambassadors
     
 
 *   PRODUCTS
@@ -67,6 +68,7 @@ MOTIVATION
 *   CHALLENGES &. EVENTS
 *   Fitbit Local Events
 *   Fitbit Challenges
+*   Ambassadors
 
 *   Sign in
 *   My Cart0
@@ -135,6 +137,7 @@ Press Enter to submit Tap to search
     *   CHALLENGES &. EVENTS
     *   Fitbit Local Events
     *   Fitbit Challenges
+    *   Ambassadors
     
 
 *   PRODUCTS
@@ -157,6 +160,7 @@ MOTIVATION
 *   CHALLENGES &. EVENTS
 *   Fitbit Local Events
 *   Fitbit Challenges
+*   Ambassadors
 
 *   Sign in
 *   My Cart0
