@@ -8,30 +8,27 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   Bad Boys for Life
     *   1917 (2019)
     *   Dolittle (2020)
+    *   Gretel &. Hansel
     *   The Gentlemen
     *   Jumanji: The Next Level
-    *   The Turning (2020)
     *   Star Wars: The Rise of Skywalker (2019)
+    *   The Turning (2020)
     *   Little Women (2019)
-    *   Just Mercy
+    *   The Rhythm Section
     *   Knives Out
-    *   Frozen II
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Gretel &. Hansel
-    *   The Rhythm Section
-    *   The Assistant (2020)
-    *   Created Equal: Clarence Thomas in His Own Words
-    *   Gul Makai
-    *   Incitement
-    *   The Traitor
+    *   Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)
+    *   And Then We Danced
+    *   The Lodge (2020)
+    *   Malang (2020)
+    *   Waiting for Anya
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)
     *   Fantasy Island
     *   What About Love (2020)
     *   Sonic the Hedgehog
@@ -40,6 +37,8 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     *   The Call of the Wild (2020)
     *   The Invisible Man (2020)
     *   Onward
+    *   The Way Back (2020)
+    *   First Cow
     *   See All Coming Soon
     
     Explore More
@@ -67,9 +66,9 @@ GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   ‘Once Upon a Time in Hollywood’ Named Best Picture at the Critics’ Choice Awards Read More
+    *   Next 3 Female-Driven Action Movies: 'Birds of Prey,' 'A Quiet Place Part II,' 'Black Widow' Read More
     *   The Week in Movie News: An Expanded Version of ‘The Thing,’ Seth Rogen Takes on Memes and More Read More
-    *   The Week in Movie Trailers: ‘Fast &. Furious 9’ the ‘Big Lebowski’ Spin-Off ‘The Jesus Rolls’ and More Read More
+    *   The Week in Movie Trailers: Steve Carell in Jon Stewart’s ‘Irresistible,’ Liam Neeson in ‘Ordinary Love’ and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -494,6 +493,10 @@ Offers
     
     Get tickets to Award-nominated movies in theaters, like 1917 and Little Women, and find out which movies are available to watch at home right now. LEARN MORE
     
+*   Get A $10 Movie Ticket
+    
+    When you subscribe to the Hotstar Annual Pack. SEE DETAILS
+    
 *   Play The Circle K Flip And Find Game
     
     For a chance to take home daily prizes, including a pair of movie tickets to see Dolittle. SEE DETAILS
@@ -541,7 +544,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   January Celebrity Birthdays
+*   February Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Follow Us
