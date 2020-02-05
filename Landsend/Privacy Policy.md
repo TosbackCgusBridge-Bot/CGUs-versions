@@ -20,7 +20,6 @@ Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Orde
 *   Swim
 *   School
 *   Home
-*   New
 *   Sale
 *   Live chat
 
@@ -30,7 +29,7 @@ Lands' End Sign In menu
 
 Receive 30% off your order. free shipping no minimum!
 
-code: SNOWMAN pin: PROMOTION DETAILS
+code: ICING pin: PROMOTION DETAILS
 
 Customer Service Menu
 
