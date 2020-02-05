@@ -80,7 +80,7 @@ AWS Offerings may include third-party advertising and links to other websites an
 
 Access and Choice
 
-You can view, update, and delete certain information about your account and your interactions with AWS Offerings. Click here for a list of examples of information that you can access. If you cannot access or update your information yourself, you can always contact us for assistance.
+You can view, update, and delete certain information about your account and your interactions with AWS Offerings. Click here for a list of examples of information that you can access. If you cannot access or update your information yourself, you can always contact us for assistance.
 
 You have choices about the collection and use of your personal information. Many AWS Offerings include settings that provide you with options as to how your information is being used. You can choose not to provide certain information, but then you might not be able to take advantage of certain AWS Offerings.
 
@@ -194,7 +194,8 @@ We provide additional information about the privacy, collection, and use of pers
     *   request that inaccurate personal information is corrected;
     *   request deletion of personal information that is no longer necessary for the purposes underlying the processing, processed based on withdrawn consent, or processed in non-compliance with applicable legal requirements;
     *   request us to restrict the processing of personal information where the processing is inappropriate;
-    *   object to the processing of personal data. request portability of personal information that you have provided to us (which does not include information derived from the collected information), where the processing of such personal information is based on consent or a contract with you and is carried out by automated means. and 
+    *   object to the processing of personal data;
+    *   request portability of personal information that you have provided to us (which does not include information derived from the collected information), where the processing of such personal information is based on consent or a contract with you and is carried out by automated means. and 
     *   lodge a complaint with our principal supervisory authority, the Commission Nationale pour la Protection des Données in Luxembourg www.cnpd.lu, or with a local authority.
     
     You can exercise your rights of access, rectification, erasure, restriction, objection, and data portability by contacting us. If you wish to do any of these things and you are an AWS customer, please contact us. If you are not an AWS customer, please contact us at the address under Contacts, Notices, and Revisions above.
