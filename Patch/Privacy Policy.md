@@ -1,4 +1,4 @@
-Toggle navigation {{ user.display\_name }}
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5SJ8RNT" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Toggle navigation {{ user.display\_name }}
 
 *   Post
 *   Write article
@@ -342,4 +342,4 @@ Support
 
 Swipe for more from Patch »
 
-<img src = "https://b.scorecardresearch.com/p?c1=2&c2=21043158&cv=2.0&cj=1" />. <img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qKjWj1a0Sn00GK" style="display:none" height="1" width="1" alt="" />.
+<img src = "https://b.scorecardresearch.com/p?c1=2&c2=21043158&cv=2.0&cj=1" />. <img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qKjWj1a0Sn00GK" style="display:none" height="1" width="1" alt="" />. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1705686969667460&amp;ev=PageView&amp;noscript=1">.
