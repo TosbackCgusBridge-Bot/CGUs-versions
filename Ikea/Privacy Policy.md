@@ -243,7 +243,6 @@ Menu IKEA
     
     *   Last Chance
     *   New Lower Price
-    *   IKEA Sets
     *   $10 and under
     
     Seasonal
@@ -273,7 +272,6 @@ Menu IKEA
     *   Deals &. Steals
     *   Last Chance
     *   New Lower Price
-    *   IKEA Sets
     *   $10 and under
 *   Seasonal Seasonal
     *   Seasonal
