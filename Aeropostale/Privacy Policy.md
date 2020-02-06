@@ -377,6 +377,16 @@ Including 100s of New Arrivals!
 
 Shop Girls Shop Guys
 
+These six inspiring  
+individuals have united  
+from around the globe to  
+share their personal stories  
+and come together as one.
+
+These six inspiring individuals have united from  
+around the globe to share their personal stories  
+and come together as one.
+
 In Stores &. Online
 
 AERO JEANS
@@ -390,7 +400,13 @@ Shop Girls Jeans Shop Guys Jeans Previous
 Cheeky  
 **Online Only**
 
+Cheeky  
+**Online Only**
+
 Slim Straight
+
+Curvy Bootcut  
+**Online Only**
 
 Curvy Bootcut  
 **Online Only**
@@ -406,6 +422,9 @@ Jeggings
 Athletic Skinny  
 **NEW!**
 
+Athletic Skinny  
+**NEW!**
+
 Mom
 
 Skinny
@@ -413,7 +432,13 @@ Skinny
 Cheeky  
 **Online Only**
 
+Cheeky  
+**Online Only**
+
 Slim Straight
+
+Curvy Bootcut  
+**Online Only**
 
 Curvy Bootcut  
 **Online Only**
@@ -429,6 +454,9 @@ Jeggings
 Athletic Skinny  
 **NEW!**
 
+Athletic Skinny  
+**NEW!**
+
 Mom
 
 Skinny
@@ -436,7 +464,13 @@ Skinny
 Cheeky  
 **Online Only**
 
+Cheeky  
+**Online Only**
+
 Slim Straight
+
+Curvy Bootcut  
+**Online Only**
 
 Curvy Bootcut  
 **Online Only**
@@ -452,6 +486,9 @@ Jeggings
 Athletic Skinny  
 **NEW!**
 
+Athletic Skinny  
+**NEW!**
+
 Mom
 
 Skinny
@@ -459,7 +496,13 @@ Skinny
 Cheeky  
 **Online Only**
 
+Cheeky  
+**Online Only**
+
 Slim Straight
+
+Curvy Bootcut  
+**Online Only**
 
 Curvy Bootcut  
 **Online Only**
@@ -467,6 +510,16 @@ Curvy Bootcut
 Straight
 
 Next
+
+In Stores &. Online
+
+AERO JEANS
+
+BUY 1 GET 1 FREE
+
+Must Add 2 To Cart
+
+Shop Girls Jeans Shop Guys Jeans
 
 In Stores &. Online
 
