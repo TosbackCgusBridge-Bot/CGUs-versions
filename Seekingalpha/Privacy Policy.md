@@ -4,6 +4,27 @@
 
 Sign inMarketplaceSubscribe
 
+*   Premium
+    
+    *   Premium Overview
+    *   News Dashboard
+    *   Portfolio Ratings
+    *   Portfolio Factor Grades
+    *   Portfolio Up/Downgrades
+    *   Stock Ratings Screener
+    *   Upgrades &. Downgrades
+    *   Compare Stocks &. Funds
+    *   Stock Research (Tour)
+    *   Stock Ratings (Tour)
+    
+    *   Top Rated Stocks
+    *   Top Dividend Stocks
+    *   Top REITs
+    *   Top Yield Monsters
+    *   Top Tech Stocks
+    *   Top Growth Stocks
+    *   Top Value Stocks
+    *   Top Small Cap Stocks
 *   My Portfolio
 *   Authors
     *   My Authors
@@ -51,7 +72,6 @@ Sign inMarketplaceSubscribe
     *   Stock Ideas by Sector
     *   Stock Ideas Editors Picks
     *   Short Ideas
-*   Premium
 *   Dividends
     
     *   Dividend Ideas
@@ -332,4 +352,4 @@ By using this Site, you consent to the terms of our Privacy Policy and to Seekin
 
 _Updated: December 26, 2019_
 
-Seeking AlphaRSS Feeds|Sitemap|About Us|Feedback|Careers|Contact UsTerms of Use|Privacy|Market Data Disclaimer|© 2020 Seeking Alpha <img src="https://sb.scorecardresearch.com/p?c1=2&c2=8500672&cv=2.0&cj=1" width="0" height="0" />. <div style="position:fixed. top:0. left:0. display:none" width="1" height="1">. <img src="/xgCxM9By/xhr/api/v1/collector/noScript.gif?appId=PXxgCxM9By">. </div>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=228550053985270&amp;ev=PageView&amp;noscript=1">. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+Seeking AlphaRSS Feeds|Sitemap|About Us|Feedback|Careers|Contact UsTerms of Use|Privacy|Market Data Disclaimer|© 2020 Seeking Alpha <img src="https://sb.scorecardresearch.com/p?c1=2&c2=8500672&cv=2.0&cj=1" width="0" height="0" />. <div style="position:fixed. top:0. left:0. display:none" width="1" height="1">. <img src="/xgCxM9By/xhr/api/v1/collector/noScript.gif?appId=PXxgCxM9By">. </div>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=228550053985270&amp;ev=PageView&amp;noscript=1">.
