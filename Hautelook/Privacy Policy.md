@@ -7,6 +7,35 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Daily Deal: Kate Spade New York Crossbodies at $70
+    *   Daily Deal: Lucky Brand Heritage Pants at $39.97
+    *   Daily Deal: Wireless Earbuds &. More Up to 75% Off
+    *   Daily Deal: Koolaburra by UGG Victoria Boots at $67.48
+    *   Daily Deal: Timberland Women's Boots at $74.98
+    *   Daily Deal: Kids' Scooters at $24.97
+    *   Daily Deal: Girls' Tutu Dresses at $14.97
+    *   St. John Collection &. More Designers We Love
+    *   Luxe Sunglasses &. More ft. Linda Farrow Up 80% Off
+    *   NuFACE Facial Toning Devices
+    *   Vanity Room
+    *   Shift &. Sheath Dresses Under $80
+    *   Lime Crime Up to 50% Off
+    *   Moss Bros. Up to 60% Off
+    *   Onzie Yoga Apparel &. More
+    *   Panty Packs ft. AQS
+    *   Slim Styles: Men's Denim Up to 60% Off
+    *   Cupid's Picks: Our Favorite Bras
+    *   Mezlan &. More
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   Jewel Badgley Mischka Up to 60% Off
+    *   Bath &. Body Up to 50% Off
+    *   Home Decor Up to 40% Off
+    *   LOVE Moschino Bags Up to 50% Off
+    *   Swims Up to 55% Off
+    *   Sovereign Code Up to 65% Off
+    *   Dr. Scholl's from $40
+    *   Young Fabulous &. Broke
+    
     *   Free Shipping: BergHOFF Up to 60% Off
     *   Kitchen Gadgets &. Storage from $15
     *   bObsweep Robotic Vacuums Up to 75% Off
@@ -29,46 +58,24 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Free Shipping: Framed Art Up to 60% Off
     *   Kids' Champion &. More Up to 50% Off
     *   NARS Starting at $10
-    *   Young Fabulous &. Broke
     *   Diesel Men Starting at $15
-    *   In-Demand Denim: Skinny Jeans Under $30
-    *   Eliza J Up to 60% Off Incl. Plus &. Petites
-    *   Great Lengths: Midi Dresses Under $40
-    
-    *   Swarovski Jewelry
     *   Merrell Men
-    *   Merrell
     *   Threads 4 Thought Up to 65% Off
     *   Trask Men Up to 60% Off
-    *   Splendid Up to 60% Off
     *   Free Shipping: Bedding Essentials Up to 50% Off
     *   Moon and Jai Crystals &. Ritual Kits
+    
     *   Chargers, Phone Cases &. More ft. Native Union
     *   Healthy Living: Water Bottles, Food Prep &. More
     *   Melissa &. Doug
-    *   Co-Lab Wallets, Crossbodies &. More from $20
     *   Play Time: Kids' Shoes ft. Merrell
-    *   Last Call: Dresses Up to 70% Off
-    *   Tahitian Pearl Jewelry &. More Under $90
-    *   Boots, Pumps &. More Up to 60% Off
-    *   Sleepwear Up to 70% Off
     *   Hair Tools Up to 60% Off
     *   Men's Shoe Steals Up to 65% Off
-    *   Vintage Addiction Bags Up to 80% Off
-    *   Tissot Watches
-    *   Sperry
-    *   Sperry Men
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    *   Belstaff Up to 60% Off
-    *   Robert Barakett Starting at $25
     *   Beauty All-Stars: Foundations &. More
-    
     *   2020 Art Trends: Neon Prints &. More
     *   Dreambox Beauty
-    *   Sperry Kids
     *   New Year, New Plans: 2020 Calendars &. Planners
-    *   New Baby Checklist: Styles Up to 55% Off
-    *   Hit Snooze: Kids' PJs Starting at $10
     *   Teami Blends Detox Teas &. Supplements
     *   All Under $15: Makeup Geek &. Jouer
     *   Quality Sleep: Luxe Pillow &. Sheet Sets
@@ -77,24 +84,38 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Free Shipping: Wall Murals &. More from $15
     *   Cozy Home Self-Care Essentials from $10
     *   Free Shipping: Sheet Sets, Duvets &. More
-    *   Pet Accessories Under $30
-    *   Hawke &. Co. Shoes Up to 70% Off
     *   Luxe Pillows, Throws &. More Up to 70% Off
-    *   Free Shipping: Storage for Every Room
-    *   Beach Ready: Towels Starting at $10
     *   Free Shipping: 1200-TC Sheet Sets Up to 65% Off
     *   Date Night: Shoes for Him
     *   Clarks
-    *   When Nature &. Beauty Collide: Noyah Lip Care
-    *   Timberland for Her Up to 60% Off
-    *   Top Off Your Look: Blouses Up to 75% Off
+    *   Noyah Natural Lip Care
+    *   Great Lengths: Midi Dresses Under $40
+    *   Last Call: Dresses Up to 70% Off
     *   Runway Report: Modern Utility Styles
-    *   Lucky Brand Incl. Plus
 *   WomenShop Sale Events
     
+    *   Daily Deal: Kate Spade New York Crossbodies at $70
+    *   Daily Deal: Koolaburra by UGG Victoria Boots at $67.48
+    *   Daily Deal: Timberland Women's Boots at $74.98
+    *   St. John Collection &. More Designers We Love
+    *   Luxe Sunglasses &. More ft. Linda Farrow Up 80% Off
+    *   NuFACE Facial Toning Devices
+    *   Vanity Room
+    *   Shift &. Sheath Dresses Under $80
+    *   Lime Crime Up to 50% Off
+    *   Onzie Yoga Apparel &. More
+    *   Panty Packs ft. AQS
+    *   Cupid's Picks: Our Favorite Bras
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   Jewel Badgley Mischka Up to 60% Off
+    *   Bath &. Body Up to 50% Off
+    *   LOVE Moschino Bags Up to 50% Off
+    *   Dr. Scholl's from $40
+    *   Young Fabulous &. Broke
     *   Bony Levy Fine Jewelry Up to 50% Off
     *   Algenist Skin Care Up to 65% Off
     *   Boho Babe: Johnny Was &. More Up to 70% Off
+    
     *   RapidLash
     *   Mini to Maxi: Skirts Up to 70% Off Incl. Plus
     *   Vix Swim &. More
@@ -102,24 +123,8 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Trend Forecast: Prints, Bold Colors &. More from $15
     *   Active Socks &. Sports Bras
     *   NARS Starting at $10
-    *   Young Fabulous &. Broke
-    *   In-Demand Denim: Skinny Jeans Under $30
-    *   Eliza J Up to 60% Off Incl. Plus &. Petites
-    *   Great Lengths: Midi Dresses Under $40
-    *   Swarovski Jewelry
-    *   Merrell
-    *   Splendid Up to 60% Off
     *   Moon and Jai Crystals &. Ritual Kits
-    *   Co-Lab Wallets, Crossbodies &. More from $20
-    *   Last Call: Dresses Up to 70% Off
-    
-    *   Tahitian Pearl Jewelry &. More Under $90
-    *   Boots, Pumps &. More Up to 60% Off
-    *   Sleepwear Up to 70% Off
     *   Hair Tools Up to 60% Off
-    *   Vintage Addiction Bags Up to 80% Off
-    *   Tissot Watches
-    *   Sperry
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Beauty All-Stars: Foundations &. More
     *   Dreambox Beauty
@@ -127,37 +132,38 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   All Under $15: Makeup Geek &. Jouer
     *   Terre Mere Organic Vegan Beauty Up to 70% Off
     *   Clarks
-    *   When Nature &. Beauty Collide: Noyah Lip Care
-    *   Timberland for Her Up to 60% Off
-    *   Top Off Your Look: Blouses Up to 75% Off
+    *   Noyah Natural Lip Care
+    *   Great Lengths: Midi Dresses Under $40
+    *   Last Call: Dresses Up to 70% Off
     *   Runway Report: Modern Utility Styles
-    *   Lucky Brand Incl. Plus
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
-    *   Handbags
     *   Lingerie &. Shapewear
+    *   Shoes
+    *   Accessories
+    *   Handbags
     *   Watches
 *   MenShop Sale Events
     
+    *   Daily Deal: Lucky Brand Heritage Pants at $39.97
+    *   Moss Bros. Up to 60% Off
+    *   Slim Styles: Men's Denim Up to 60% Off
+    *   Mezlan &. More
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   Swims Up to 55% Off
     *   Timberland Men
     *   What Guys Want: Great Gifts for Him
     *   John Varvatos Star USA Men's Shoes &. More
+    
     *   Lorenzo Uomo Up to 60% Off
     *   Diesel Men Starting at $15
     *   Merrell Men
     *   Threads 4 Thought Up to 65% Off
     *   Trask Men Up to 60% Off
-    
     *   Men's Shoe Steals Up to 65% Off
-    *   Tissot Watches
-    *   Sperry Men
-    *   Belstaff Up to 60% Off
-    *   Robert Barakett Starting at $25
     *   Quality Sleep: Luxe Pillow &. Sheet Sets
-    *   Hawke &. Co. Shoes Up to 70% Off
     *   Date Night: Shoes for Him
     
     Shop By Category
@@ -167,23 +173,25 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Watches
 *   KidsShop Sale Events
     
+    *   Daily Deal: Kids' Scooters at $24.97
+    *   Daily Deal: Girls' Tutu Dresses at $14.97
+    *   Sovereign Code Up to 65% Off
     *   Nursery Room Finds: Primitives by Kathy
     *   Kids' Champion &. More Up to 50% Off
     *   Melissa &. Doug
     *   Play Time: Kids' Shoes ft. Merrell
-    *   Sperry Kids
-    *   New Baby Checklist: Styles Up to 55% Off
-    *   Hit Snooze: Kids' PJs Starting at $10
     
     Shop By Category
     *   Baby
-    *   Girls
     *   Toys
+    *   Girls
     *   Boys
     *   Boys' Shoes
     *   Girls' Shoes
 *   HomeShop Sale Events
     
+    *   Daily Deal: Wireless Earbuds &. More Up to 75% Off
+    *   Home Decor Up to 40% Off
     *   Free Shipping: BergHOFF Up to 60% Off
     *   Kitchen Gadgets &. Storage from $15
     *   bObsweep Robotic Vacuums Up to 75% Off
@@ -192,53 +200,52 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Free Shipping: Framed Art Up to 60% Off
     *   Free Shipping: Bedding Essentials Up to 50% Off
     *   Chargers, Phone Cases &. More ft. Native Union
+    
     *   Healthy Living: Water Bottles, Food Prep &. More
     *   2020 Art Trends: Neon Prints &. More
     *   New Year, New Plans: 2020 Calendars &. Planners
-    
     *   Quality Sleep: Luxe Pillow &. Sheet Sets
     *   Free Shipping: Home Organization Starting at $20
     *   Free Shipping: Wall Murals &. More from $15
     *   Cozy Home Self-Care Essentials from $10
     *   Free Shipping: Sheet Sets, Duvets &. More
-    *   Pet Accessories Under $30
     *   Luxe Pillows, Throws &. More Up to 70% Off
-    *   Free Shipping: Storage for Every Room
-    *   Beach Ready: Towels Starting at $10
     *   Free Shipping: 1200-TC Sheet Sets Up to 65% Off
     
     Shop By Category
     *   Home Decor
     *   Bedding
-    *   Cleaning &. Organization
     *   Kitchen &. Tabletop
-    *   Bath
-    *   Outdoor Living
-    *   Pet Accessories
+    *   Cleaning &. Organization
     *   Electronic &. Tech Accessories
-    *   Luggage &. Travel
+    *   Bath
     *   Rugs &. Doormats
+    *   Luggage &. Travel
+    *   Outdoor Living
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   NuFACE Facial Toning Devices
+    *   Lime Crime Up to 50% Off
+    *   Bath &. Body Up to 50% Off
     *   Algenist Skin Care Up to 65% Off
     *   RapidLash
     *   NARS Starting at $10
     *   Moon and Jai Crystals &. Ritual Kits
     *   Hair Tools Up to 60% Off
-    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     
+    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Beauty All-Stars: Foundations &. More
     *   Dreambox Beauty
     *   Teami Blends Detox Teas &. Supplements
     *   All Under $15: Makeup Geek &. Jouer
     *   Terre Mere Organic Vegan Beauty Up to 70% Off
-    *   When Nature &. Beauty Collide: Noyah Lip Care
+    *   Noyah Natural Lip Care
     
     Shop By Category
     *   Makeup
-    *   Hair Care
     *   Skin Care
+    *   Hair Care
     *   Bath &. Body
     *   Tools &. Accessories
     *   Fragrance
