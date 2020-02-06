@@ -1,6 +1,6 @@
 Skip to content Privacy Notice
 
-We’ve updated our Privacy Notice, as of December 12, 2019, to provide you with more information about the additional rights California residents have under the California Consumer Privacy Act (“CCPA”) effective January 1, 2020. If you are a California resident, please read about these additional rights here.
+Notice: We have updated our Privacy Notice as of February 5, 2020 to provide you with more information about the features we offer that allow our customers to better control who they contact through our products and services. Please read more here.
 
 Table of Contents
 
@@ -173,6 +173,10 @@ Occasionally, we enter into contracts with carefully selected third parties to a
 
 If you purchase a product or service from a third party through one of our brands, we will pass your personal information to such third party in order for them to fulfill your order.
 
+We offer features that allow you to better target who you contact through our products and services.  These features allow you to optimize your campaigns, segment your lists, and better customize your offerings to your customers.  In order to do this, we partner with third parties who can provide you with information about your contacts. If both you and your contacts are located outside of the European Union, this may include demographic information and geographic location.  We require that these third parties are contractually or legally permitted to share this information with you.
+
+In order to provide you with these features, we may send third parties certain pseudonymized personal data about your contacts.  These third parties are prohibited from using this personal data for any purpose beyond that for which it was shared.
+
 We also share non-personal information with certain third parties, including the media, industry observers, marketing and advertising partners, vendors, customers, potential customers or partners. For example, we disclose mobile search trends, email open rates by industry, campaign best practices or the number of users that have been exposed to, or clicked on, our websites or evaluated or purchased our products and services.
 
 Corporate Reorganizations
@@ -327,7 +331,7 @@ THE NETHERLANDS
 Telephone: (+31) – (0)70 – 888 85 00  
 Fax: (+31) – (0)70 – 888 85 01
 
-**Last modified January 6, 2020**
+**Last modified February 5, 2020**
 
 Back To Top ©2020 Endurance International Group.
 
