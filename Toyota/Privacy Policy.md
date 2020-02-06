@@ -14,7 +14,7 @@
 
 ZIP
 
-Contact Us Site Map Accessibility Your Privacy Rights Legal Terms CALIFORNIA PRIVACY Contact Us Site Map Accessibility Your Privacy Rights Legal Terms CALIFORNIA PRIVACY Need help? Have a question? Get instant answers 24/7.
+Contact Us Site Map Accessibility Your Privacy Rights Legal Terms California Privacy Contact Us Site Map Accessibility Your Privacy Rights Legal Terms California Privacy Need help? Have a question? Get instant answers 24/7.
 
 Whether you’re a Toyota owner or just have a question about our products, Toyota is committed to providing a rewarding customer experience. Select the most convenient way to reach us, and we look forward to assisting you.
 
@@ -290,47 +290,53 @@ Discontinued Vehicles
 
 Compare Toyota vs. the Competition
 
-*   Toyota Tacoma vs. Ford Ranger  
+*   2019 Toyota Tacoma vs. Ford Ranger  
     
-*   Toyota Tacoma vs. GMC Canyon  
+*   2019 Toyota Tacoma vs. GMC Canyon  
     
-*   Toyota Tacoma vs. Chevy Colorado  
+*   2019 Toyota Tacoma vs. Chevy Colorado  
     
-*   Toyota Tacoma vs. Honda Ridgeline  
+*   2019 Toyota Tacoma vs. Honda Ridgeline  
     
-*   Toyota Corolla vs. Mazda 3 Sedan  
+*   2020 Toyota Corolla vs. Nissan Sentra  
     
-*   Toyota Corolla vs. Honda Civic  
+*   2020 Toyota Corolla vs. Mazda 3 Sedan  
+    
+*   2020 Toyota Corolla vs. Honda Civic  
     
 *   2019 Toyota Corolla vs. 2019 Honda Civic  
     
-*   Toyota Camry vs. Honda Accord  
+*   2019 Toyota Camry vs. Honda Accord  
     
-*   Toyota Camry vs. Nissan Altima  
+*   2019 Toyota Camry vs. Nissan Altima  
     
-*   Toyota Prius vs. Kia Niro  
+*   2019 Toyota Prius vs. Kia Niro  
     
-*   Toyota Highlander vs. Honda Pilot  
+*   2019 Toyota Prius vs. Hyundai Ioniq  
     
-*   Toyota Prius vs. Hyundai Ioniq  
+*   2019 Toyota Highlander vs. Honda Pilot  
     
-*   Toyota C-HR vs. Honda HR-V  
+*   2019 Toyota C-HR vs. Honda HR-V  
     
-*   Toyota Sienna vs. Honda Odyssey  
+*   2019 Toyota Sienna vs. Honda Odyssey  
     
-*   Toyota Sienna vs. Chrysler Pacifica  
+*   2019 Toyota Sienna vs. Chrysler Pacifica  
     
-*   Toyota 4Runner vs. Jeep Grand Cherokee  
+*   2019 Toyota 4Runner vs. Jeep Grand Cherokee  
     
-*   Toyota Tundra vs. Chevrolet Silverado  
+*   2019 Toyota Tundra vs. Chevrolet Silverado  
     
-*   Toyota RAV4 vs. Honda CR-V  
+*   2019 Toyota Tundra vs. Nissan Titan  
     
-*   Toyota RAV4 vs. Subaru Forester  
+*   2019 Toyota RAV4 vs. Honda CR-V  
     
-*   Toyota RAV4 vs. Nissan Rogue  
+*   2019 Toyota RAV4 vs. Subaru Forester  
     
-*   Toyota Avalon vs. Buick LaCrosse  
+*   2019 Toyota RAV4 vs. Nissan Rogue  
+    
+*   2019 Toyota Avalon vs. Buick LaCrosse  
+    
+*   2019 Toyota Avalon vs. Nissan Maxima  
     
 *   Compare Vehicles  
     
@@ -1050,7 +1056,7 @@ _Effective Date: January 1, 2020_
 
 _Last Updated: January 1, 2020_
 
-Toyota Motor Sales, U.S.A., Inc. and Toyota Motor North America, Inc. and their wholly-owned subsidiaries that share common branding with them, together with Toyota Motor Corporation (collectively, "Toyota," "us," or "our") are committed to maintaining your confidence and trust as it relates to the privacy of your information. This privacy policy is for our customers, users and website visitors who are California residents (this "California Privacy Policy”) and supplements the information contained in Toyota’s Online Privacy Statement located at https://www.toyota.com/support/privacy-rights (the "Toyota Privacy Statement”).
+Toyota Motor Sales, U.S.A., Inc. and Toyota Motor North America, Inc. and their wholly-owned subsidiaries that share common branding with them, together with Toyota Motor Corporation (collectively, "Toyota," "us," or "our") are committed to maintaining your confidence and trust as it relates to the privacy of your information. This privacy policy is for our customers, users and website visitors who are California residents (this "California Privacy Policy") and supplements the information contained in Toyota’s Online Privacy Statement located at https://www.toyota.com/support/privacy-rights (the "Toyota Privacy Statement").
 
 **Quick Links**  
 I. OVERVIEW OF THIS CALIFORNIA PRIVACY POLICY  
@@ -1064,7 +1070,7 @@ IV. CONTACT US. EXERCISE YOUR RIGHTS
 
 **To which Toyota entities does this California Privacy Policy apply?** This California Privacy Policy only applies to those websites operated by Toyota. **Note this California Privacy Policy does not apply to any Toyota, Lexus or Scion dealers, local Toyota dealer associations, private distributors, Toyota Financial Services, Lexus Financial Services, or Toyota Insurance Management Solutions.** For information about your California privacy rights for any of these entities, please contact these entities directly.
 
-**What is “personal information”?** For the purposes of this California Privacy Policy, “personal information” is defined as information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular California consumer or California household. **Personal information does not include:**
+**What is "personal information"?** For the purposes of this California Privacy Policy, "personal information" is defined as information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular California consumer or California household. **Personal information does not include:**
 
 *   Publicly available information from government records.
 *   De-identified or aggregated information.
@@ -1075,7 +1081,7 @@ IV. CONTACT US. EXERCISE YOUR RIGHTS
 *   clinical trial data subject to the Federal Policy for the Protection of Human Subjects.
 *   personal information covered by certain sector-specific privacy laws, including the Fair Credit Reporting Act (FRCA), the Gramm-Leach-Bliley Act (GLBA) or California Financial Information Privacy Act (FIPA), and the Driver's Privacy Protection Act of 1994.
 
-**What are “California consumers”?** A “California consumer” is a natural person who resides in California. For the purposes of this California Privacy Policy, a California consumer does not include persons to the extent they are (i) acting as an employee, owner, director, officer or contractor of a company, partnership, sole proprietorship, nonprofit or government agency that is doing business with Toyota or (ii) acting as a job applicant to, an employee of, owner of, director of, officer of, medical staff member of, or contractor of Toyota.
+**What are "California consumers"?** A "California consumer" is a natural person who resides in California. For the purposes of this California Privacy Policy, a California consumer does not include persons to the extent they are (i) acting as an employee, owner, director, officer or contractor of a company, partnership, sole proprietorship, nonprofit or government agency that is doing business with Toyota or (ii) acting as a job applicant to, an employee of, owner of, director of, officer of, medical staff member of, or contractor of Toyota.
 
 **II. HOW WE COLLECT, USE, AND SHARE PERSONAL INFORMATION**
 
@@ -1489,7 +1495,7 @@ The use of Olympic Marks, Terminology and Imagery is authorized by the U.S. Olym
 *   6\. 2018 EPA-estimated 29 city/41 highway/34 combined mpg for Camry L. Actual mileage will vary.
 *   7\. 2018 EPA-estimated 29 city/41 hwy/34 combined mpg for Camry L. 28 city/39 hwy/32 combined mpg for LE, SE, XLE 4-Cylinder and XSE 4-Cylinder. 22 city/33 hwy/26 combined mpg for XLE V6. 22 city/32 hwy/26 combined mpg for XSE V6. 51 city/53 hwy/52 combined mpg for Hybrid LE. and 44 city/47 hwy/46 combined mpg for Hybrid SE and Hybrid XLE. Actual mileage will vary.
 *   8\. 2020 Prius Prime EPA-estimated 55 city/53 hwy/54 combined mpg. Actual mpg will vary based on driving habits, weather, temperature and road/traffic conditions. For more information on mpg, please see www.fueleconomy.gov.
-*   9\. 2020 Prius Prime EPA-estimated 133 combined MPGe. Actual MPGe will vary. Battery capacity will decrease with time and use. See www.fueleconomy.gov.
+*   9\. 2020 Prius Prime EPA-estimated 133 combined MPGe when fully charged. Actual MPGe will vary. Battery capacity will decrease with time and use. See www.fueleconomy.gov.
 *   10\. 2017 EPA-estimated mileage. Actual mileage will vary.
 *   11\. 2017 EPA-estimated 19 city/27 highway/22 combined mpg for Sienna FWD. Actual mileage will vary.
 *   12\. 2017 EPA-estimated 54 city/50 highway/52 combined mpg for Prius. Actual mileage will vary.
@@ -1531,7 +1537,9 @@ The use of Olympic Marks, Terminology and Imagery is authorized by the U.S. Olym
 *   48\. 2020 Yaris and Yaris Hatchback with automatic transmission EPA 32 city/40 highway/35 combined mpg estimates, and Yaris with manual transmission EPA 30 city/39 highway/34 combined mpg estimates. Actual mileage will vary.
 *   49\. 2020 RAV4 EPA-estimated 27 city/35 hwy/30 combined mpg for LE FWD and Limited FWD. 27 city/34 hwy/30 combined mpg for LE AWD. 28 city/35 hwy/30 combined mpg for XLE FWD and XLE Premium FWD. 27 city/33 hwy/29 combined mpg for XLE AWD and XLE Premium AWD. 25 city/33 hwy/28 combined mpg for Adventure. 25 city/32 hwy/27 combined mpg for TRD Off-Road. 25 city/33 hwy/28 combined mpg for Limited AWD. and 41 city/38 hwy/40 combined mpg for LE Hybrid, XLE Hybrid, XSE Hybrid and Limited Hybrid. Actual mileage will vary.
 *   50\. 2020 EPA-estimated 31 city/40 highway/34 combined mpg for Corolla SE with automatic transmission. Actual mileage will vary.
-*   51\. ToyotaCare for Prius and Prius Prime covers normal factory scheduled maintenance at no additional cost for two years or 25,000 miles, whichever comes first. 24-hour Roadside Assistance is also included for three years, unlimited mileage. Roadside Assistance does not include parts and fluids, except emergency fuel delivery. See Toyota dealer for details and exclusions. Valid only in the continental U.S. and Alaska.
+*   51\. ToyotaCare for Prius and Prius Prime covers normal factory scheduled maintenance for two years or 25,000 miles, whichever comes first. Certain models require a different maintenance schedule as described in their Maintenance Guide. 24-hour Roadside Assistance is also included for three years, unlimited mileage. Roadside Assistance does not include parts and fluids, except emergency fuel delivery. See Toyota dealer for details and exclusions. Valid only in the continental U.S. and Alaska.
 *   52\. This list represents the phones that have been tested for compatibility with Vehicle Bluetooth and Entune App Suite features to date. Test results are valid as of the date noted, using the specified versions of the Audio Multimedia System, App Suite and Operating Systems. Phone performance depends on software, coverage and carrier. This list will be updated on an on-going basis as new phones are constantly being tested. If you do not find your phone on this list, please refer to www.toyota.com/connect for more details. Please note that Toyota does not make recommendations on phone carriers, manufacturers, models or operating systems.
+*   53\. 2020 Highlander Hybrid AWD preliminary 35 city/35 hwy/35 combined mpg estimates determined by Toyota. Actual mileage will vary. 2020 Highlander Hybrid vs. 2020 competitors based on manufacturers' data as of 9/19/19.
+*   54\. 2020 Highlander Hybrid FWD preliminary 36 city/35 hwy/36 combined mpg estimates determined by Toyota. EPA estimates not available at time of posting. Actual mileage will vary.
 
 Cookie ConsentWe use the following categories of cookies on our website:Required Functional CookiesRequired cookies are essential to provide you with core functionality during use of the website. These functions include e.g. Local Specials, Offers, Dealer Locator, etc. We also collect basic site usage analytics to optimize the experience for our visitors.Performance CookiesPerformance cookies collect information about how our website is used (e.g. number of visits, time spent on the site). These cookies allow us to serve more relevant content for an enhanced shopping experience.CancelSave
