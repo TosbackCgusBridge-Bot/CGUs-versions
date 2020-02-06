@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   You’re the new CISO — Now what?
-    *   Three Magecart operatives arrested in Indonesia
+    *   Ashley Madison breach victims further embarrassed by ransom demands five years later
+    *   Report: United Nations withheld news of systems hack in European offices
+    *   Iowa Dems say reporting inconsistencies, not hack, caused delays in caucus results
+    *   Detecting malware patterns with cutting-edge graph search tools
     *   Hacker pleads guilty to stealing Nintendo secrets
-    *   Pre-Olympics cybersecurity exercise kicks off in Tokyo
-    *   Hackers ran ad scams after hijacking account at Facebook data partner LiveRamp
     
-    *   A new way to think about security in autonomous systems: Don’t
-    *   Lawyers: Facebook is prepared to pay $550M to settle facial recognition lawsuit
-    *   Cybersecurity executive changes
-    *   Wawa customer payment card data for sale
-    *   States weigh in on cybersecurity
-    
-    *   Twitter goes after Baby Peanut, API threat
-    *   Cybersecurity executive changes
-    *   Report ties Ekans/Snake ransomware to Megacortex, emphasizes ICS threat
-    *   Critical flaw in OpenSMTPD found, patched
+    *   Philips WiFi light bulb vulnerable to attack
+    *   Burglary charges dropped against Coalfire pen testers
     *   Maze ransomware publicly shaming victims into paying
+    *   Detecting malware patterns with cutting-edge graph search tools
+    *   Brexit cybersecurity implications hold steady during transition period
+    
+    *   Cybercriminals abuse Bitbucket to infect users with potpourri of malware
+    *   YouTube stresses deepfake ban
+    *   FBI warns of DDoS attack on state-level voter registration website
+    *   Malware attacks destroy Fondren Orthopedic Group patient records
+    *   Philips WiFi light bulb vulnerable to attack
 
 Back to Top
 
