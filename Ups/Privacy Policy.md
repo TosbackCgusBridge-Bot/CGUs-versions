@@ -1,6 +1,6 @@
 1/1
 
-*   Severe Weather Impacting Areas in New Mexico and Wyoming...More
+*   Winter Weather Impacting Areas of Oklahoma and Texas...More
 
 Close Skip To Main Content
 
