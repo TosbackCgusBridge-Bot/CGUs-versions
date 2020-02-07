@@ -124,7 +124,7 @@ New PlayStation Tournaments this month include Soul Calibur VI and NBA 2K20, in 
   
 Win 3 out of 4 matches in Stage 1 to earn a PS4 Theme for that game! pic.twitter.com/x1OCUXiJZe
 
-2 days ago View Tweet Instagram Post B70-8z9FhVa
+3 days ago View Tweet Instagram Post B70-8z9FhVa
 
 Wireless Headphones
 
