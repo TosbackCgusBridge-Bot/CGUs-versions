@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Ashley Madison breach victims further embarrassed by ransom demands five years later
+    *   Indian airline hacked, vulnerability exposed by ethical hacker
     *   Report: United Nations withheld news of systems hack in European offices
-    *   Iowa Dems say reporting inconsistencies, not hack, caused delays in caucus results
-    *   Detecting malware patterns with cutting-edge graph search tools
-    *   Hacker pleads guilty to stealing Nintendo secrets
+    *   Ringing in a new National Privacy Law?
+    *   Ransomware knocks city of Racine offline
+    *   Compliance: Watch your step!
     
-    *   Philips WiFi light bulb vulnerable to attack
-    *   Burglary charges dropped against Coalfire pen testers
-    *   Maze ransomware publicly shaming victims into paying
-    *   Detecting malware patterns with cutting-edge graph search tools
-    *   Brexit cybersecurity implications hold steady during transition period
-    
+    *   Evolving DDoS security toward self-defending networks
+    *   Hackers ran ad scams after hijacking account at Facebook data partner LiveRamp
     *   Cybercriminals abuse Bitbucket to infect users with potpourri of malware
-    *   YouTube stresses deepfake ban
-    *   FBI warns of DDoS attack on state-level voter registration website
+    *   Ringing in a new National Privacy Law?
     *   Malware attacks destroy Fondren Orthopedic Group patient records
-    *   Philips WiFi light bulb vulnerable to attack
+    
+    *   Five high-level flaws patched in Cisco Discovery Protocol
+    *   Cyberattackers bringing more weapons to bear on real estate deals
+    *   Malicious apps now post their own positive reviews on Google Play
+    *   CISOs burdened by unhealthy stress levels, survey study finds
+    *   How to spot common business email compromise tax scams
 
 Back to Top
 
