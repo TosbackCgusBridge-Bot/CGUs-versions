@@ -194,7 +194,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Shop New Spring Arrivals GIRLS GUYS + FS Over $50**
+**Buy an Online Only Style, Get 14% off** Use Code **EXTRA14** 
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -364,18 +364,19 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ORDERS OVER $50 Search Catalog Search
+ORDERS OVER $50 Search Catalog Search Online Only. Take an Extra 14% Off
 
-In Stores &. Online
+**Your Order When You Buy Any Online Only Style.**
 
-50-70% OFF EVERYTHING
+100s of Styles to Choose From Already 50-70% Off.
 
-50-70% OFF  
-EVERYTHING
+Use Code **EXTRA14**
 
-Including 100s of New Arrivals!
+100s of Styles to Choose From
 
-Shop Girls Shop Guys
+Already 50-70% Off. Use Code **EXTRA14**
+
+Exclusions Apply Shop Girls Online Only Shop Guys Online Only Exclusions Apply #HeartsAndAero Find Your Perfect Valentine's Day Gift Girls #HeartsAndAero Guys #HeartsAndAero Gift Cards
 
 These six inspiring  
 individuals have united  
@@ -513,6 +514,17 @@ Next
 
 In Stores &. Online
 
+50-70% OFF EVERYTHING
+
+50-70% OFF  
+EVERYTHING
+
+Including 100s of New Arrivals!
+
+Shop Girls Shop Guys
+
+In Stores &. Online
+
 AERO JEANS
 
 BUY 1 GET 1 FREE
@@ -555,7 +567,7 @@ Specially washed for never-before-felt
 softness. Expertly created for everyday  
 comfort &. ease.
 
-Shop Girls **$8 &. Up** Shop Guys **$8 &. Up**
+Shop Girls **Buy 1 Get 2 Free** Shop Guys **Buy 1 Get 2 Free**
 
 In Stores &. Online
 
