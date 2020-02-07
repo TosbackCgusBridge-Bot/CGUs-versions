@@ -1,6 +1,6 @@
 1/1
 
-*   Winter Weather Impacting Areas of Oklahoma and Texas...More
+*   Winter Weather Impacting Areas of Texas...More
 
 Close Skip To Main Content
 
