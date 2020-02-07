@@ -1,5 +1,7 @@
 GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In Sign Out
 
+Screen Reader Users: To optimize your experience with your screen reading software, please use our Flixster.com website, which has the same tickets as our Fandango.com and MovieTickets.com websites.
+
 *   Fandango
 *   Skip to Main Content Go
 
@@ -508,14 +510,14 @@ Offers
 
 New + Coming soon
 
-*   Bad Boys for Life
-*   Dolittle (2020)
-*   The Turning (2020)
-*   The Gentlemen
 *   The Rhythm Section
+*   Gretel &. Hansel
 *   Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)
 *   Sonic the Hedgehog
 *   The Photograph (2020)
+*   Fantasy Island
+*   The Call of the Wild (2020)
+*   The Invisible Man (2020)
 
 Experience + Explore
 
@@ -578,4 +580,4 @@ Fandango Affiliated Companies:
 *   Fandango Latin America
 *   Ingresso
 
-© 2019 Fandango
+© 2020 Fandango
