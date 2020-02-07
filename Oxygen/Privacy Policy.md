@@ -21,11 +21,12 @@ Main menu
         *   Criminal Confessions
         *   Dark Web Exposed
         *   Dateline: Secrets Uncovered
-        *   Homicide for the Holidays
-        *   Killer Siblings
+        *   In Ice Cold Blood
+        *   Kim Kardashian West: The Justice Project
         *   Murdered by Morning
-        *   Murder For Hire
         *   Snapped
+        *   The Witnesses
+        *   Up and Vanished
         *   Dark Web Exposed
         *   Famous Cases Explained
         *   How To Stay Safe
@@ -34,10 +35,10 @@ Main menu
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 1:39 License to Kill License to Kill: Dr. Christopher Duntsch 2:00 Criminal Confessions Criminal Confessions Returns with a New Season on Saturday, December 7th
+    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 2:36 The Witnesses A Memo To Elders And Allegations 1:33 The Witnesses How Some Of Jehovah's Witnesses Beliefs Create A ‘Perfect Situation’ For Pedophiles
 *   News
     *   Crime News
-    *   True Crime BuzzCrime News Brothers Embark On Killing Spree, Escape From Prison D'Wan Christian Sims Photo: National Center for Missing &. Exploited Children Crime News Man Claims He’s Missing Child From 25 Years Ago A jury found Roderick Covlin, 45, guilty of second-degree murder in the death of his estranged wife, Shele Danishfesky Covlin, nine years after she was found dead in the bathtub at her apartment. Photo: Getty Images Crime News Wife-Killer Went To Insane Lengths To Cover Up His Crime
+    *   True Crime BuzzThe Witnesses Preview 'The Witnesses,' Premiering Feb. 8 On Oxygen Very Real Oops! 7 Celebrities Caught With D\*ck Pics Up and Vanished Preview The New Season Of 'Up and Vanished'
 *   Podcasts
 *   Detective's Den
 *   Schedule
@@ -74,7 +75,7 @@ About Oxygen
 
 *   About Us
 *   FAQ
-*   Privacy Policy - New
+*   Privacy Policy
 *   Do Not Sell My Personal Information
 *   Terms of Service
 *   Closed Captioning
@@ -89,4 +90,4 @@ Get Involved
 *   Corporate Info
 *   AdChoices
 
-Stay Connected Facebook Twitter Instagram YouTube Newsletter Stay Connected Facebook Twitter Instagram YouTube Newsletter ©2019 Oxygen Media LLC. A Division of NBCUniversal
+Stay Connected Facebook Twitter Instagram YouTube Newsletter Stay Connected Facebook Twitter Instagram YouTube Newsletter ©2020 Oxygen Media LLC. A Division of NBCUniversal
