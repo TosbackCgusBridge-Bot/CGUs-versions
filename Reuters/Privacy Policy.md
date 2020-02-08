@@ -45,10 +45,11 @@ Thomson Reuters Legal
     **Small law firm software and solutions** Practice law, manage your law firm, and grow your practice with our complete suite of products. Learn more
 *   InsightsInsights Insights
     
-    *   Latest stories
-    *   Blog
+    *   Articles
+    *   White papers
     *   Case studies
-    *   All insights
+    *   Blog
+    *   Featured insights
     
     Popular topics
     *   Artificial intelligence
