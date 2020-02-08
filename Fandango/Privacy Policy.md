@@ -69,8 +69,8 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
 *   Movie News Featured Movie News
     
     *   Next 3 Female-Driven Action Movies: 'Birds of Prey,' 'A Quiet Place Part II,' 'Black Widow' Read More
-    *   The Week in Movie News: An Expanded Version of ‘The Thing,’ Seth Rogen Takes on Memes and More Read More
-    *   The Week in Movie Trailers: Steve Carell in Jon Stewart’s ‘Irresistible,’ Liam Neeson in ‘Ordinary Love’ and More Read More
+    *   The Week in Movie News: Sam Raimi to Direct ‘Doctor Strange 2,’ Disney to Release ‘Hamilton’ in Theaters and More Read More
+    *   The Week in Movie Trailers: ‘Minions’ Sequel, Chris Rock in the Next Chapter of ‘Saw’ and More Read More
     
     Explore Content
     *   Movie Reviews
