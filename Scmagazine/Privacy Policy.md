@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Indian airline hacked, vulnerability exposed by ethical hacker
-    *   Report: United Nations withheld news of systems hack in European offices
-    *   Ringing in a new National Privacy Law?
-    *   Ransomware knocks city of Racine offline
-    *   Compliance: Watch your step!
+    *   Cybersecurity executive changes
+    *   Burglary charges dropped against Coalfire pen testers
+    *   Hacker pleads guilty to stealing Nintendo secrets
+    *   Hang-ups, hold-ups and hurdles passing federal privacy legislation
+    *   Brexit cybersecurity implications hold steady during transition period
     
-    *   Evolving DDoS security toward self-defending networks
-    *   Hackers ran ad scams after hijacking account at Facebook data partner LiveRamp
-    *   Cybercriminals abuse Bitbucket to infect users with potpourri of malware
-    *   Ringing in a new National Privacy Law?
     *   Malware attacks destroy Fondren Orthopedic Group patient records
+    *   FBI warns of DDoS attack on state-level voter registration website
+    *   Apple patches dozens of security issues
+    *   How to spot common business email compromise tax scams
+    *   SC Labs product reviews: Email security
     
+    *   A tail of two ransomware attacks
+    *   The evolution of shared responsibility in cloud security
     *   Five high-level flaws patched in Cisco Discovery Protocol
     *   Cyberattackers bringing more weapons to bear on real estate deals
     *   Malicious apps now post their own positive reviews on Google Play
-    *   CISOs burdened by unhealthy stress levels, survey study finds
-    *   How to spot common business email compromise tax scams
 
 Back to Top
 
@@ -262,4 +262,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
