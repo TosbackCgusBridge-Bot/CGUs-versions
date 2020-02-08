@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsEnable Accessibility
 
-*   My AccountSign InTrack MyOrders
+*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -21,8 +21,30 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBack    BATHWINDOWDECORUP TO 60% OFF+ Extra 10% off with coupon Furniture | select styles | Furniture available online only. UP TO 60% OFF+ Extra 10% off with coupon Mattresses | select styles SAVE UP TO 83%Your choice: 1/10 ct. t.w. diamond pendant, earrings or ring in sterling silver, reg $124.98 ea. Limited Time Special, while supplies last. Excluded from coupons and rewards.   
-40-50% OFFGemstone jewelry  select styles 40-50% OFFDiamond jewelry select styles 40-50% OFFModern Bride select styles BUY 1 GET 1 FREE†Ambrielle bras | select styles | reg. $32-$44 Ambrielle event ends 2/19 Fun date. can’t wait!Shop casual date night Hit the town in styleShop fancy date night 25% OFFSexy Hair products select styles | reg. $16.95-$41.95 SHOP SEPHORA BEAUTYSHOP NOWShop our curated collection of tees, hair products and makeup—designed just for you. UP TO 60% OFFBabies’ &. toddlers’ Carter’s apparel &. sleepwear select styles  SHOP THE LOCAL LOOKJCPenney is teaming up with fashion and lifestyle  influencers to bring you a curated selection of their top picks.Check back every month to see new styles. Next stop: the dance floorYour one-stop destination for taking prom to a place that’s uniquely yours.  †Buy one item at regular price, get a second item of equal or lesser value for 50% off or free, while supplies last. Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 28 total items loaded in Media GalleryFollow @jcpenney Shop and Save at JCPenney
+Near YouFind a StoreBack 
+
+*   shop a.n.a jeans
+
+*   shop the look
+    
+*   a.n.a tops
+    
+*   a.n.a shoes
+    
+*   a.n.a fashion jewelry
+    
+
+shop a.n.a jeans    BATHWINDOWDECORUP TO 60% OFF+ Extra 10% off with coupon Furniture | select styles | Furniture available online only. UP TO 60% OFF+ Extra 10% off with coupon Mattresses | select styles SAVE UP TO 83%Your choice: 1/10 ct. t.w. diamond pendant, earrings or ring in sterling silver, reg $124.98 ea. Limited Time Special, while supplies last. Excluded from coupons and rewards.   
+40-50% OFFGemstone jewelry  select styles 40-50% OFFDiamond jewelry select styles 40-50% OFFModern Bride select styles BUY 1 GET 1 FREE†Ambrielle bras | select styles | reg. $32-$44 Ambrielle event ends 2/19 Fun date. can’t wait!Shop casual date night Hit the town in styleShop fancy date night 25% OFFSexy Hair products select styles | reg. $16.95-$41.95 SHOP SEPHORA BEAUTYSHOP NOWShop our curated collection of tees, hair products and makeup—designed just for you. UP TO 60% OFFBabies’ &. toddlers’ Carter’s apparel &. sleepwear select styles  SHOP THE LOCAL LOOKJCPenney is teaming up with fashion and lifestyle  influencers to bring you a curated selection of their top picks.Check back every month to see new styles. Next stop: the dance floorYour one-stop destination for taking prom to a place that’s uniquely yours.  †Buy one item at regular price, get a second item of equal or lesser value for 50% off or free, while supplies last. Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 31 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+
+*   $143after couponwas $12 Liz Claiborne Jacobean Bath Towel Collection(21)
+*   $1199 - $13499after couponwas $30 - $360 Maples Astrid Rectangular Indoor Rugs(25)
+*   $1519after couponwas $80 Arizona Womens Denver Riding Boots Block Heel(198)
+*   $1759 - $3520after couponStafford Mens Wrinkle Free Oxford Button Down Collar Dress Shirt(247)
+*   $1599 - $7874after couponwas $60 - $209 400tc Wrinkle Guard Deep Pocket Sheet Set - JCPenney Home(2880)
+*   $2879after couponwas $90 Worthington Sleeveless Sheath Dress(1)
+
+Shop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! We take pride in being a one-stop shop for all your needs, with as many options as you can imagine.
 
