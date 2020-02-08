@@ -43,6 +43,7 @@ Close submenu ( Collections ) Collections
 *   Tribe Of Tees
 *   Basic Essentials
 *   Seriously Soft
+*   Curvy
 *   Active
 *   Uniform
 
@@ -226,6 +227,7 @@ Menu Find a Store Aeropostale
         *   Tribe Of Tees
         *   Basic Essentials
         *   Seriously Soft
+        *   Curvy
         *   Active
         *   Uniform
     
