@@ -553,6 +553,8 @@ Pour accéder à la liste des cookies déposés et en configurer le dépôt cliq
 
 Vous avez également la possibilité de vous opposer au dépôt des cookies en accédant au site internet http://www.youronlinechoices.com/fr/controler-ses-cookies/.
 
+**LIVERAMP**: La technologie LiveRamp permet aux annonceurs d’afficher des offres pertinentes sur les sites web et/ou applications mobiles que vous visitez. Afin d’améliorer le ciblage publicitaire des annonceurs, LiveRamp opère un rapprochement et une analyse des données. Ces services reposent sur le dépôt de cookie sur votre navigateur ou sur l’utilisation de votre identifiant publicitaire mobile. LiveRamp collecte également votre adresse email chiffrée et hachée de manière irréversible qui permet la création d’une clé technique associée à vos cookies et/ou identifiants publicitaires mobiles. D’autres informations techniques peuvent être automatiquement collectées (telles que l’adresse IP, le système d’exploitation ou le type de navigateur). Ces cookies ne traquent pas votre navigation. Vous pouvez à tout moment et facilement vous y opposer cliquant ici
+
 13\. QU’EST-CE QUE LE DÉLÉGUÉ À LA PROTECTION DES DONNÉES DE LA REDOUTE 13.1. QUELLES SONT SES MISSIONS ?
 
 Le délégué à la protection des données nommé au sein de la Redoute a pour mission de veiller au respect de la réglementation et des règles décrites dans le présent document.
