@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Friday, February 7, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Saturday, February 8, 2020  
 
 DEBKAfile
 
@@ -46,6 +46,14 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*    Troops turn back Muslim worshipers’ buses heading for Temple Mount
+    
+    Feb 07, 2020 @ 09:16
+    
+*    Russia: Israel endangered civilian flight in purported air strike near Damascus
+    
+    Feb 07, 2020 @ 09:01
+    
 *   Terrorist car-rammer who injured 14 soldiers is captured
     
     Feb 06, 2020 @ 22:25
@@ -61,12 +69,12 @@ Breaking news
 *   Palestinian car-rammer injures 14 soldiers in Jerusalem
     
     Feb 06, 2020 @ 08:16
-    
-*   US Senate acquits President Trump of abuse of power dismisses impeachment
-    
-    Feb 05, 2020 @ 23:28
     
 
+*   Terrorist car-rammer who injured 14 soldiers is captured
+    
+    Feb 06, 2020 @ 22:25
+    
 *   Israeli soldier wounded in Palestinian drive-by shooting outside Dolev
     
     Feb 06, 2020 @ 15:55
@@ -79,9 +87,13 @@ Breaking news
     
     Feb 06, 2020 @ 08:16
     
-*   US Senate acquits President Trump of abuse of power dismisses impeachment
+*    Troops turn back Muslim worshipers’ buses heading for Temple Mount
     
-    Feb 05, 2020 @ 23:28
+    Feb 07, 2020 @ 09:16
+    
+*    Russia: Israel endangered civilian flight in purported air strike near Damascus
+    
+    Feb 07, 2020 @ 09:01
     
 *   Terrorist car-rammer who injured 14 soldiers is captured
     
@@ -99,9 +111,13 @@ Breaking news
     
     Feb 06, 2020 @ 08:16
     
-*   US Senate acquits President Trump of abuse of power dismisses impeachment
+*    Troops turn back Muslim worshipers’ buses heading for Temple Mount
     
-    Feb 05, 2020 @ 23:28
+    Feb 07, 2020 @ 09:16
+    
+*    Russia: Israel endangered civilian flight in purported air strike near Damascus
+    
+    Feb 07, 2020 @ 09:01
     
 *   Terrorist car-rammer who injured 14 soldiers is captured
     
@@ -110,14 +126,6 @@ Breaking news
 *   Israeli soldier wounded in Palestinian drive-by shooting outside Dolev
     
     Feb 06, 2020 @ 15:55
-    
-*   Israeli troops under fierce attack in Jenin kill two Palestinians
-    
-    Feb 06, 2020 @ 13:59
-    
-*   Palestinian car-rammer injures 14 soldiers in Jerusalem
-    
-    Feb 06, 2020 @ 08:16
     
 
 12PrevNext
