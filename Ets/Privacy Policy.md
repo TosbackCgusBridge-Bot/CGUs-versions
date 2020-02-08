@@ -30,8 +30,6 @@ Within this Privacy Notice, you will find information about:
 *   Special Notice to California Residents
 *   Special Notice to Residents in the European Economic Area, Switzerland and the U.K.
 
-Last Updated on January 24, 2020.
-
 Children
 
 In most cases, we do not knowingly collect Personal Information directly from children under the age of 16 on our Websites. Parents and schools may use our Websites to create accounts for children, such as registering them for tests. We encourage parents and teachers to spend time online with children and to monitor their online activities. If you believe that a child has created an account on our Website, please contact us to have the account deactivated by sending us an email at etsinfo@ets.org or by calling us at 1-609-921-9000.
@@ -89,7 +87,7 @@ Back to Top
 
 Use of Information by ETS Research
 
-ETS uses anonymized and pseudonymized information for various research initiatives. For example, ETS may consider how certain types of test takers (such as nonnative English speakers) respond to specific test questions. Similarly, educational apps, such as MyTurnToRead, collect data to help ETS understand and improve reading skills. ETS's research initiatives reflect our commitment to fairness and equity in testing, helping to ensure that our tests are accessible and free from bias. They also seek to improve teaching, learning and assessment.
+ETS uses anonymized and pseudonymized information for various research initiatives. For example, ETS may consider how certain types of test takers (such as nonnative English speakers) respond to specific test questions. Similarly, educational apps, such as Relay Reader, collect data to help ETS understand and improve reading skills. ETS's research initiatives reflect our commitment to fairness and equity in testing, helping to ensure that our tests are accessible and free from bias. They also seek to improve teaching, learning and assessment.
 
 ETS may process Personal Information as needed to create de-identified datasets for research. ETS will not (and will not permit any third party to) associate identifying information with research data. Our research results do not contain any identifiable data, and research data are not used to target or profile individuals.
 
@@ -305,13 +303,13 @@ Please contact us if you have any questions or comments about our privacy practi
 
 Back to Top
 
-Effective Date: July 26, 2019
-
 Updated to clarify that U.K. data will be handled in accordance with this statement post-Brexit.
 
 See also:
 
 *   ETS.org Terms of Use
+
+Last Updated on January 24, 2020.
 
 Promotional Links Related Links
 
