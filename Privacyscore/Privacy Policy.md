@@ -135,7 +135,7 @@ About us
 
 Download our mobile apps
 
-Copyright © 2005—2020 HMA!. All Rights Reserved
+Copyright © 2005—2020 HMA. All Rights Reserved
 
 This might suit you better
 
