@@ -15,9 +15,9 @@ Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Orde
 *   Women
 *   Men
 *   Kids
-*   Outerwear
-*   Bags
 *   Swim
+*   Bags
+*   Outerwear
 *   School
 *   Home
 *   Sale
@@ -27,9 +27,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive up to 40% off your order. free shipping, no minimum!
+Receive up to 50% off your order. free shipping, no minimum!
 
-code: SWEETS pin: PROMOTION DETAILS
+code: GIFTS pin: 1050PROMOTION DETAILS
 
 Customer Service Menu
 
