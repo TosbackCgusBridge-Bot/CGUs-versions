@@ -580,4 +580,8 @@ Fandango Affiliated Companies:
 *   Fandango Latin America
 *   Ingresso
 
-© 2020 Fandango
+© 2020 Fandango Got a minute?
+
+Help us improve Fandango by taking a short survey!
+
+Take the surveyNo Thanks
