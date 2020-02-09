@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Cybersecurity executive changes
-    *   Burglary charges dropped against Coalfire pen testers
+    *   Evolving DDoS security toward self-defending networks
+    *   A tail of two ransomware attacks
+    *   Why a facial recognition ban won't protect your privacy
+    *   By the numbers
+    *   Indian airline hacked, vulnerability exposed by ethical hacker
+    
+    *   Indian airline hacked, vulnerability exposed by ethical hacker
     *   Hacker pleads guilty to stealing Nintendo secrets
-    *   Hang-ups, hold-ups and hurdles passing federal privacy legislation
-    *   Brexit cybersecurity implications hold steady during transition period
+    *   Confidential Computing: The confidentiality of data in business is at peak recognition
+    *   Five high-level flaws patched in Cisco Discovery Protocol
+    *   First Look: Sonrai Public Cloud Security Platform
     
-    *   Malware attacks destroy Fondren Orthopedic Group patient records
-    *   FBI warns of DDoS attack on state-level voter registration website
-    *   Apple patches dozens of security issues
-    *   How to spot common business email compromise tax scams
-    *   SC Labs product reviews: Email security
-    
+    *   Facial-recognition tech questioned, defended at House committee hearing
+    *   Metamofo banking malware spreads around the world
     *   A tail of two ransomware attacks
     *   The evolution of shared responsibility in cloud security
     *   Five high-level flaws patched in Cisco Discovery Protocol
-    *   Cyberattackers bringing more weapons to bear on real estate deals
-    *   Malicious apps now post their own positive reviews on Google Play
 
 Back to Top
 
