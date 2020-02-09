@@ -97,9 +97,11 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Mom Jeans
 *   Wide Leg Jeans
 *   Skater Jeans
+*   90s Jeans
 *   Real Denim
 *   Flex Effects
 *   Eco-Friendly Repreve
+*   Premium Seriously Stretchy
 
 Close submenu ( Guys Jeans ) Guys Jeans
 
@@ -273,9 +275,11 @@ Menu Find a Store Aeropostale
         *   Mom Jeans
         *   Wide Leg Jeans
         *   Skater Jeans
+        *   90s Jeans
         *   Real Denim
         *   Flex Effects
         *   Eco-Friendly Repreve
+        *   Premium Seriously Stretchy
     
     *   Guys Jeans
         *   View All
