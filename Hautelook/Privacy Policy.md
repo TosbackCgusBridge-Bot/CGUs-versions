@@ -7,6 +7,33 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Gevril Watches Up to 85% Off
+    *   Tops &. Blouses Up to 75% Off
+    *   ZAC Zac Posen Up to 60% Off
+    *   Zip It Up: Active Jackets &. More Up to 60% Off
+    *   Get Now, Wear Now: Boots Under $75
+    *   Cold-Weather Accessories Up to 70% Off
+    *   Men's Shoe Steals Up to 70% Off
+    *   Best of Body Care Starting at $10
+    *   Urbanears Wireless Headphones Up to 75% Off
+    *   Spring Break Pool &. Beach Accessories from $15
+    *   Sam Edelman Up to 60% Off
+    *   Must-Have Spring Styles Incl. Plus &. Petites
+    *   Sam Edelman Clothing Up to 65% Off
+    *   Rachel Roy Collection
+    *   Velvet by Graham &. Spencer Up to 65% Off
+    *   cupcakes and cashmere
+    *   Sultry Staples: Lingerie Under $20
+    *   Freida Rothman &. More
+    *   Spring Cleaning: Home Organization Up to 50% Off
+    *   Denim Under $50
+    *   K-Beauty ft. Asamo, Jayjun &. More from $10
+    *   Chinese Laundry &. More from $30
+    *   Hair Tools Under $50 ft. Conair
+    *   Casually Cool: Men's Sneakers from $30
+    *   Dress Shirts Under $30
+    
+    *   Gear Up for Baby: Essentials Starting at $10
     *   Alo Yoga
     *   Designer Spotlight: Equipment &. More Up to 70% Off
     *   bareMinerals Up to 60% Off
@@ -16,122 +43,117 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Savvy Cie: Diamonds, Gems &. More Up to 80% Off
     *   Suzy Levian Jewelry
     *   Skin Care Up to 55% Off
-    *   Aratta Up to 70% Off
-    *   SUSINA &. More Up to 60% Off
-    *   Fergalicious from $30
     *   Messenger Bags Up to 70% Off
     *   Free Shipping: Bedding &. Bath Up to 60% Off
     *   Fresh Finds: Shoes from $40
     *   Turbie Twist Super-Absorbent Hair Towels
-    *   Emperia &. More: On-Trend Bags Under $40
     *   Diadora Men's Sneakers
-    *   Sleepover Ready: Kids' Pajamas Under $20
-    *   rag &. bone
-    *   rag &. bone Bags &. Accessories Up to 55% Off
-    *   rag &. bone Men
-    
-    *   rag &. bone Shoes
-    *   Spring into the Season: Floral Styles
-    *   Welcome to the Jungle: Animal Prints &. Camo
-    *   Stay in Motion: Active Joggers &. More
+    *   Aratta Up to 70% Off
     *   Fine Jewelry Up to 50% Off ft. Monica Vinader
+    *   rag &. bone
+    *   rag &. bone Men
+    *   rag &. bone Bags &. Accessories Up to 55% Off
+    *   rag &. bone Shoes
+    *   Stay in Motion: Active Joggers &. More
     *   Statement Makers: Home Decor Starting at $20
     *   Free Shipping: Pet-Friendly Sofa Covers &. More
     *   J Slides Up to 65% Off
+    
     *   Beauty Device Essentials Starting at $10
     *   Kids' Outerwear Under $30
-    *   Steve Madden Starting at $40
-    *   Steve Madden Men Starting at $40
-    *   Steve Madden Bags &. Accessories Up to 50% Off
-    *   Surf's Up: Men's Swim &. Clothing ft. Rip Curl
-    *   Keep Warm: Parkas &. Down Starting at $50
+    *   Welcome to the Jungle: Animal Prints &. Camo
+    *   Spring into the Season: Floral Styles
     *   Top Toys Under $20
-    *   Olivia Welles Jewelry Up to 75% Off
     *   Last Chance: Men's Boots Up to 70% Off
     *   Bar Cart Essentials Starting at $15
     *   Steve Madden Kids
-    *   Best of Hair: Kerastase &. More from $15
+    *   Sleepover Ready: Kids' Pajamas Under $20
     *   Dynamic Innovation Labs Starting at $35
-    
-    *   NuFACE Facial Toning Devices
     *   Lime Crime Up to 50% Off
-    *   Mezlan &. More
     *   Bath &. Body Up to 50% Off
     *   Home Decor Up to 40% Off
-    *   Swims Up to 55% Off
     *   Free Shipping: BergHOFF Up to 60% Off
     *   Kitchen Gadgets &. Storage from $15
     *   bObsweep Robotic Vacuums Up to 75% Off
     *   Free Shipping: Storage for Every Room
     *   Poo-Pourri Bathroom Scents from $10
-    *   Algenist Skin Care Up to 65% Off
-    *   RapidLash
     *   Free Shipping: Framed Art Up to 60% Off
     *   Free Shipping: Bedding Essentials Up to 50% Off
     *   Chargers, Phone Cases &. More ft. Native Union
-    *   2020 Art Trends: Neon Prints &. More
-    *   Noyah Natural Lip Care
-    *   New Year, New Plans: 2020 Calendars &. Planners
-    *   Free Shipping: 1200-TC Sheet Sets Up to 65% Off
+    *   SUSINA &. More Up to 60% Off
+    *   Fergalicious from $30
+    *   Emperia &. More: On-Trend Bags Under $40
+    *   NuFACE Facial Toning Devices
 *   WomenShop Sale Events
     
+    *   Gevril Watches Up to 85% Off
+    *   Tops &. Blouses Up to 75% Off
+    *   ZAC Zac Posen Up to 60% Off
+    *   Zip It Up: Active Jackets &. More Up to 60% Off
+    *   Get Now, Wear Now: Boots Under $75
+    *   Cold-Weather Accessories Up to 70% Off
+    *   Best of Body Care Starting at $10
+    *   Sam Edelman Up to 60% Off
+    *   Must-Have Spring Styles Incl. Plus &. Petites
+    *   Sam Edelman Clothing Up to 65% Off
+    *   Rachel Roy Collection
+    *   Velvet by Graham &. Spencer Up to 65% Off
+    *   cupcakes and cashmere
+    *   Sultry Staples: Lingerie Under $20
+    *   Freida Rothman &. More
+    *   K-Beauty ft. Asamo, Jayjun &. More from $10
+    *   Chinese Laundry &. More from $30
+    *   Hair Tools Under $50 ft. Conair
     *   Alo Yoga
     *   Designer Spotlight: Equipment &. More Up to 70% Off
     *   bareMinerals Up to 60% Off
     *   Resort Ready: Onia Swim
     *   Meghan LA &. More
+    
     *   Savvy Cie: Diamonds, Gems &. More Up to 80% Off
     *   Suzy Levian Jewelry
     *   Skin Care Up to 55% Off
-    *   Aratta Up to 70% Off
-    *   SUSINA &. More Up to 60% Off
-    *   Fergalicious from $30
     *   Messenger Bags Up to 70% Off
     *   Fresh Finds: Shoes from $40
     *   Turbie Twist Super-Absorbent Hair Towels
-    *   Emperia &. More: On-Trend Bags Under $40
+    *   Aratta Up to 70% Off
+    *   Fine Jewelry Up to 50% Off ft. Monica Vinader
     *   rag &. bone
     *   rag &. bone Bags &. Accessories Up to 55% Off
     *   rag &. bone Shoes
-    
-    *   Spring into the Season: Floral Styles
-    *   Welcome to the Jungle: Animal Prints &. Camo
     *   Stay in Motion: Active Joggers &. More
-    *   Fine Jewelry Up to 50% Off ft. Monica Vinader
     *   J Slides Up to 65% Off
     *   Beauty Device Essentials Starting at $10
-    *   Steve Madden Starting at $40
-    *   Steve Madden Bags &. Accessories Up to 50% Off
-    *   Olivia Welles Jewelry Up to 75% Off
-    *   Best of Hair: Kerastase &. More from $15
+    *   Welcome to the Jungle: Animal Prints &. Camo
+    *   Spring into the Season: Floral Styles
     *   Dynamic Innovation Labs Starting at $35
-    *   NuFACE Facial Toning Devices
     *   Lime Crime Up to 50% Off
     *   Bath &. Body Up to 50% Off
-    *   Algenist Skin Care Up to 65% Off
-    *   RapidLash
-    *   Noyah Natural Lip Care
+    *   SUSINA &. More Up to 60% Off
+    *   Fergalicious from $30
+    *   Emperia &. More: On-Trend Bags Under $40
+    *   NuFACE Facial Toning Devices
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Handbags
     *   Lingerie &. Shapewear
+    *   Handbags
     *   Accessories
     *   Watches
 *   MenShop Sale Events
     
+    *   Gevril Watches Up to 85% Off
+    *   Men's Shoe Steals Up to 70% Off
+    *   Denim Under $50
+    *   Casually Cool: Men's Sneakers from $30
+    *   Dress Shirts Under $30
     *   Scotch &. Soda
     *   Messenger Bags Up to 70% Off
     *   Diadora Men's Sneakers
     *   rag &. bone Men
-    *   Steve Madden Men Starting at $40
-    *   Surf's Up: Men's Swim &. Clothing ft. Rip Curl
-    *   Keep Warm: Parkas &. Down Starting at $50
     *   Last Chance: Men's Boots Up to 70% Off
-    *   Mezlan &. More
-    *   Swims Up to 55% Off
     
     Shop By Category
     *   Clothing
@@ -140,10 +162,11 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Watches
 *   KidsShop Sale Events
     
-    *   Sleepover Ready: Kids' Pajamas Under $20
+    *   Gear Up for Baby: Essentials Starting at $10
     *   Kids' Outerwear Under $30
     *   Top Toys Under $20
     *   Steve Madden Kids
+    *   Sleepover Ready: Kids' Pajamas Under $20
     
     Shop By Category
     *   Toys
@@ -154,28 +177,28 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Urbanears Wireless Headphones Up to 75% Off
+    *   Spring Break Pool &. Beach Accessories from $15
+    *   Spring Cleaning: Home Organization Up to 50% Off
     *   Free Shipping: Bedding &. Bath Up to 60% Off
     *   Statement Makers: Home Decor Starting at $20
     *   Free Shipping: Pet-Friendly Sofa Covers &. More
     *   Bar Cart Essentials Starting at $15
     *   Home Decor Up to 40% Off
+    
     *   Free Shipping: BergHOFF Up to 60% Off
     *   Kitchen Gadgets &. Storage from $15
     *   bObsweep Robotic Vacuums Up to 75% Off
-    
     *   Free Shipping: Storage for Every Room
     *   Poo-Pourri Bathroom Scents from $10
     *   Free Shipping: Framed Art Up to 60% Off
     *   Free Shipping: Bedding Essentials Up to 50% Off
     *   Chargers, Phone Cases &. More ft. Native Union
-    *   2020 Art Trends: Neon Prints &. More
-    *   New Year, New Plans: 2020 Calendars &. Planners
-    *   Free Shipping: 1200-TC Sheet Sets Up to 65% Off
     
     Shop By Category
     *   Home Decor
-    *   Bedding
     *   Kitchen &. Tabletop
+    *   Bedding
     *   Cleaning &. Organization
     *   Pet Accessories
     *   Electronic &. Tech Accessories
@@ -186,27 +209,26 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Rugs &. Doormats
 *   BeautyShop Sale Events
     
+    *   Best of Body Care Starting at $10
+    *   K-Beauty ft. Asamo, Jayjun &. More from $10
+    *   Hair Tools Under $50 ft. Conair
     *   bareMinerals Up to 60% Off
     *   Skin Care Up to 55% Off
     *   Turbie Twist Super-Absorbent Hair Towels
-    *   Beauty Device Essentials Starting at $10
-    *   Best of Hair: Kerastase &. More from $15
-    *   Dynamic Innovation Labs Starting at $35
     
-    *   NuFACE Facial Toning Devices
+    *   Beauty Device Essentials Starting at $10
+    *   Dynamic Innovation Labs Starting at $35
     *   Lime Crime Up to 50% Off
     *   Bath &. Body Up to 50% Off
-    *   Algenist Skin Care Up to 65% Off
-    *   RapidLash
-    *   Noyah Natural Lip Care
+    *   NuFACE Facial Toning Devices
     
     Shop By Category
     *   Skin Care
     *   Makeup
-    *   Hair Care
     *   Tools &. Accessories
     *   Bath &. Body
     *   Fragrance
+    *   Hair Care
     *   Makeup Bags
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
