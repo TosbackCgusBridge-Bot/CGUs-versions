@@ -1,4 +1,4 @@
-Last updated at: 09/04/2018
+Last updated at: February 9, 2020
 
 **The Register ("The Register", "our", "we") is owned and operated by Situation Publishing Limited**.
 
@@ -13,7 +13,7 @@ Introduction
 
 The Register strongly believes in respecting individuals' right to privacy. The Register will never use your personal data for any use beyond that stated or the permissions you give us or as required by law. This Privacy Policy ("**Privacy Policy**") aims to give you information on how The Register collects and processes your personal data when you use www.theregister.co.uk ("**Website**").
 
-This Privacy Policy should be read in conjunction with our Terms and Conditions of Use and our Cookie Policy.
+This Privacy Policy should be read in conjunction with our Terms and Conditions of Use our Cookie Policy, and for California consumers, our CCPA statement.
 
 The Website is not intended for children (those aged 13 and under) and we do not knowingly collect data relating to children.
 
@@ -28,7 +28,8 @@ When you register or use the Website you will be asked to "opt in" to our Privac
 *   Third Party Websites
 *   How long do we keep your information for?
 *   Your Rights
-*   Contacting us
+*   Your Rights
+*   Your California Privacy Rights
 
 What information do we collect? What is personal data?
 
@@ -155,7 +156,7 @@ The Register takes the protection of your information very seriously. We use enc
 
 The Register may store your personal data on secure servers either on our premises or in secure third party data centres.
 
-Cogeco Peer 1, whose servers are located in the EEA, hosts The Register's Website.
+Aptum Technologies Ltd, whose servers are located in the EEA and the USA, hosts The Register's Website
 
 Your Rights
 
@@ -175,7 +176,7 @@ You may, at any time, request that we correct personal data that we hold about y
 
 Please note that we may ask you to verify any new data that you provide to us and may take our own steps to check that the new data you have supplied us with is right. Further, we are not always obliged to erase personal data when asked to do so. if for any reason we believe that we have a good legal reason to continue processing personal data that you ask us to erase we will tell you what that reason is at the time we respond to your request.
 
-You can exercise this right at any time by writing to us using the contact details set out here and telling us that you are making a request to have your personal data rectified or erased and on what basis you are making that request. If you want us to replace inaccurate data with new data, you should tell us what that new data is. You do not have to fill in a specific form to make this kind of request. Alternatively, you can visit this address.
+You can exercise this right at any time by writing to us using the contact details set out here and telling us that you are making a request to have your personal data rectified or erased and on what basis you are making that request. If you want us to replace inaccurate data with new data, you should tell us what that new data is. You do not have to fill in a specific form to make this kind of request.
 
 Your Right to Restrict Processing
 
@@ -206,6 +207,10 @@ Exercising your rights
 When you write to us making a request to exercise your rights we are entitled to ask you to prove that you are who you say you are. We may ask you to provide copies of relevant ID documents to help us to verify your identity.
 
 It will help us to process your request if you clearly state which right you wish to exercise and, where relevant, why it is that you are exercising it. The clearer and more specific you can be the faster and more efficiently we can deal with your request. If you do not provide us with sufficient information then we may delay actioning your request until you have provided us with additional information (and where this is the case we will tell you).
+
+Your California Privacy Rights
+
+The California Consumer Privacy Act (“CCPA) provides certain rights for California consumers. If you are a consumer residing in California you may ask us about the information we release to other organisations for their marketing purposes. For a complete statement of these rights under the California Consumer Privacy Act (CCPA), including the right to opt out of the selling of your personal data and how you can exercise them please visit Your California Privacy Rights.
 
 Contacting us
 
