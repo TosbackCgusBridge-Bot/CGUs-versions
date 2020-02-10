@@ -101,6 +101,30 @@ Notice for California and Nevada Residents: To update your data sharing preferen
 
 Read the Marriott Group California Consumer Privacy Statement.
 
+Privacy Rights
+
+Open
+
+If you would like to request to access, change, delete, or restrict the use or object to the processing of your Personal Data that you have previously provided to us, or if you would like to receive an electronic copy of your Personal Data for purposes of transmitting it to another company (to the extent these rights are provided to you by law), please complete this form. If you have any questions about the form or our process, feel free to contact us at privacy@marriott.com, or by mail at:
+
+Marriott International, Inc.  
+Global Compliance, Privacy  
+10400 Fernwood Road  
+Bethesda, MD 20817  
+United States of America
+
+EEA Contact Information:  
+Marriott Hotels Limited  
+Global Compliance  
+Barnard’s Inn  
+86 Fetter Lane  
+London EC4A 1EN  
+United Kingdom
+
+For your protection, we only fulfill requests for the personal data associated with the email address and/or loyalty account number that you identify in your request, and we may need to verify your identity before fulfilling certain requests. When permitted by law, we may charge an appropriate fee to cover the costs of responding to your request.
+
+Marriott acknowledges and respects our guests’ privacy and we will try to comply with your request as soon as reasonably practicable and consistent with applicable law.
+
 Languages
 
 Open
@@ -159,6 +183,23 @@ In more limited circumstances, we also may collect:
 *   Guest preferences, enquiries and comments and any other personalized data (“**Personal Preferences**”), such as your interests, activities, hobbies, food and beverage choices, services and amenities of which you advise us or which we learn about during your visit
 
 If you submit any Personal Data about other people to us or our Service Providers (e.g., if you make a reservation for another individual), you represent that you have the authority to do so and you permit us to use the data in accordance with this Privacy Statement.
+
+How We Collect Personal Data
+
+Open
+
+We collect Personal Data in a variety of ways:
+
+*   **Online Services**. We collect Personal Data when you make a reservation, purchase goods and services from our Websites or Apps, communicate with us, or otherwise connect with us or post to social media pages, or sign up for a newsletter or participate in a survey, contest or promotional offer.
+*   **Property Visits and Offline Interactions**. We collect Personal Data when you visit our properties, Homes and Villas, or use on-property services and outlets, such as restaurants, concierge services, health clubs, child care services, and spas. We also collect Personal Data when you attend promotional events that we host or in which we participate, or when you provide your Personal Data to facilitate an event.
+*   **Customer Care Centers**. We collect Personal Data when you make a reservation over the phone, communicate with us by email, fax or via online chat services or contact customer service. These communications may be recorded for purposes of quality assurance and training.
+*   **Owners and Franchisees**. We collect Personal Data from Owners of Marriott Group branded properties that we manage. We also collect Personal Data from Franchisees of Marriott Group branded properties that are independently owned and operated under a franchise agreement with us. Owners and Franchisees are independent from the Marriott Group.
+*   **Homes and Villas Property Management Companies**. We collect Personal Data from companies and their service providers who manage Homes and Villas properties, your booking of Homes and Villas, and provide additional support to you during your stay at Homes and Villas (“**Homes and Villas Property Management Companies**”). Homes and Villas Property Management Companies are independent from the Marriott Group.
+*   **Authorized Licensees**. We collect Personal Data from companies when we enter into a license or similar agreement to sell goods and services under a Marriott Group brand (“**Authorized Licensees**”). Examples of Authorized Licensees include our time share partners, Marriott Vacations Worldwide Corporation and Vistana Signature Experiences, Inc. Examples of other Authorized Licensees include Cruise Yacht Optco Ltd. d/b/a The Ritz-Carlton Yacht Collection, developers of Marriott Group branded real estate and co-branded credit card partners. Authorized Licensees are independent from the Marriott Group.
+*   **Strategic Business Partners**. We collect Personal Data from companies with whom we partner to provide you with goods, services or offers based upon your experiences at our properties or Homes and Villas, or that we believe will be of interest to you (“**Strategic Business Partners**”). Examples of Strategic Business Partners include on-property outlets, travel and tour partners, time share partners, rental car providers and travel booking platforms. Strategic Business Partners are independent from the Marriott Group.
+*   **Other Sources**. We collect Personal Data from other sources, such as public databases, joint marketing partners and other third parties.
+*   **Internet-Connected Devices**. We collect Personal Data from internet-connected devices available in our properties. For example, a smart home assistant may be available for your use and to tailor your accommodations and experience.
+*   **Physical &. Mobile Location-Based Services**. We collect Personal Data if you download one of our Apps or choose to participate in certain programs. For example, we may collect the precise physical location of your device by using satellite, cell phone tower, WiFi signals, or other technologies. We will collect this data if you opt in through the App or other program (either during your initial login or later) to receive the special offers and to enable location-driven capabilities on your mobile device. If you have opted-in, the App or other program will continue to collect location data when you are in or near a participating property until you log off or close application (i.e., the App or other program will collect this data if it is running in the background) or if you use your phone’s or other device’s setting to disable location capabilities for the Marriott Group App or other program.
 
 Collection of Other Data
 
@@ -475,6 +516,6 @@ Loading...
 
 © 1996 – 2020 Marriott International, Inc. All rights reserved. Marriott Proprietary Information
 
-Terms of Use Program Terms &. Conditions Privacy Center Do Not Sell My Personal Information Digital Accessibility Site Map Help*   Loading...
+Tracking Preferences Terms of Use Program Terms &. Conditions Privacy Center Do Not Sell My Personal Information Digital Accessibility Site Map Help*   Loading...
     
-prod13,3A2D4EFB-394F-527C-86F6-2763FC36F3C8
+prod9,B059C343-8069-5E28-A599-B9BAE0DE5C12
