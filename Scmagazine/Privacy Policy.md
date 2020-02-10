@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Evolving DDoS security toward self-defending networks
-    *   A tail of two ransomware attacks
-    *   Why a facial recognition ban won't protect your privacy
-    *   By the numbers
-    *   Indian airline hacked, vulnerability exposed by ethical hacker
+    *   Metamofo banking malware spreads around the world
+    *   Facial-recognition tech questioned, defended at House committee hearing
+    *   Ashley Madison breach victims further embarrassed by ransom demands five years later
+    *   Philips WiFi light bulb vulnerable to attack
+    *   SC Labs product reviews: Email security
     
-    *   Indian airline hacked, vulnerability exposed by ethical hacker
-    *   Hacker pleads guilty to stealing Nintendo secrets
-    *   Confidential Computing: The confidentiality of data in business is at peak recognition
-    *   Five high-level flaws patched in Cisco Discovery Protocol
-    *   First Look: Sonrai Public Cloud Security Platform
+    *   Facial-recognition tech questioned, defended at House committee hearing
+    *   Ransomware knocks city of Racine offline
+    *   Hackers ran ad scams after hijacking account at Facebook data partner LiveRamp
+    *   You’re the new CISO — Now what?
+    *   Burglary charges dropped against Coalfire pen testers
     
+    *   Obama admin not 'well-postured,' hampered by partisan politics in response to Russian election interference
     *   Facial-recognition tech questioned, defended at House committee hearing
     *   Metamofo banking malware spreads around the world
     *   A tail of two ransomware attacks
     *   The evolution of shared responsibility in cloud security
-    *   Five high-level flaws patched in Cisco Discovery Protocol
 
 Back to Top
 
@@ -262,4 +262,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
