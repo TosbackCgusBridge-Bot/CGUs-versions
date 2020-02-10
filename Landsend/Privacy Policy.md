@@ -27,9 +27,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive up to 50% off your order. free shipping, no minimum!
+Receive up to 40% off your order. free shipping, no minimum!
 
-code: GIFTS pin: 1050PROMOTION DETAILS
+code: SWEETS pin: PROMOTION DETAILS
 
 Customer Service Menu
 
