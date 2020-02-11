@@ -1,6 +1,6 @@
 Free Shipping Over $99See DetailsEnable Accessibility
 
-*   My AccountSign InTrack MyOrders
+*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -21,21 +21,20 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackFinal Hours Of COUPON CODE SUPERB9ENDS IN00HOURS 41MINS 27SECS See Details\*Extra 30% off select apparel, shoes, accessories, fine jewelry and home purchases of $100 or more. Extra 25% off select purchases under $100. Extra 10% off select furniture, mattresses, electronics, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches, and salon products. Each offer good at jcp.com only, excluding taxes and shipping charges, 2/9/20. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Best Value, Limited Time Specials, adidas, Athletic Shoes, Baby Gear, Bobs from Skechers, Champion, Clarks, Columbia, Converse, Denizen from Levi’s, Disney Collection, Grasshoppers, Jewelry Trunk Shows, Keds, Levi's, Modern Bride Design Your Dream Ring, Nike, Personalized Jewelry, Puma, Reebok, Sephora, Skechers Athletic Shoes, Skechers Women's Shoes, Smartwatches, Team Sports Merchandise, Tempur-Pedic, Toys, In-Store Services, Service Plans, Gift Cards, Closing Store Purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply, see jcpenney.com/exclusions or store associate for details. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code SUPERB9 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. Details 
+Near YouFind a StoreBack COUNTDOWN TO VALENTINE'S DAYENDS IN72HOURS 41MINS 24SECS \*Offer ends 02/13/20Valentine’s Day Jewelry Sale Up to 70% off fine &. fashion jewelryAfter Extra 25% off $100+ or Extra 20% off with JCPenney Credit Cardselect styles | Ends 2/19
 
-*   shop a.n.a jeans
+*   Shop Now
 
-*   shop the look
+*   DIAMOND JEWELRY
     
-*   a.n.a tops
+*   GEMSTONE JEWELRY
     
-*   a.n.a shoes
+*   MODERN BRIDE
     
-*   a.n.a fashion jewelry
+*   GOLD &. FINE SILVER JEWELRY
     
 
-shop a.n.a jeansBEDDINGBATHWINDOWDECORUP TO 60% OFF+ Extra 10% off with coupon Furniture | select styles | Furniture available online only. UP TO 60% OFF+ Extra 10% off with coupon Mattresses | select styles SAVE UP TO 83%Your choice: 1/10 ct. t.w. diamond pendant, earrings or ring in sterling silver, reg $124.98 ea. Limited Time Special, while supplies last. Excluded from coupons and rewards.   
-40-50% OFFGemstone jewelry  select styles 40-50% OFFDiamond jewelry select styles 40-50% OFFModern Bride select styles BUY 1 GET 1 FREE†Ambrielle bras | select styles | reg. $32-$44 Ambrielle event ends 2/19 Fun date. can’t wait!Shop casual date night Hit the town in styleShop fancy date night 25% OFFSexy Hair products select styles | reg. $16.95-$41.95 SHOP SEPHORA BEAUTYSHOP NOWShop our curated collection of tees, hair products and makeup—designed just for you. UP TO 60% OFFBabies’ &. toddlers’ Carter’s apparel &. sleepwear select styles  SHOP THE LOCAL LOOKJCPenney is teaming up with fashion and lifestyle  influencers to bring you a curated selection of their top picks.Check back every month to see new styles. Next stop: the dance floorYour one-stop destination for taking prom to a place that’s uniquely yours.  †Buy one item at regular price, get a second item of equal or lesser value for 50% off or free, while supplies last. Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 31 total items loaded in Media GalleryFollow @jcpenney Shop and Save at JCPenney
+Shop NowBUY 1 GET 1 FREE†Ambrielle bras | select styles | reg. $32-$44 Ambrielle event ends 2/19 Fun date. can’t wait!Shop casual date night Hit the town in styleShop fancy date night 25% OFFSexy Hair products select styles | reg. $16.95-$41.95 SHOP SEPHORA BEAUTYBEDDINGBATHWINDOWDECORUP TO 60% OFF+ Extra 10% off with coupon Furniture | select styles Furniture available online only. UP TO 60% OFF+ Extra 10% off with coupon Mattresses | select styles 9.99a.n.a tee | select styles also available in women’s plus and petites’ sizes | reg. $13 24.99a.n.a woven top | select styles also available in petites’ sizes | reg. $35 19.99Men’s St. John’s Bay Chambray button-front shirt select styles | reg. $40 12.99Boys’ Arizona shirt-sleeve button-front shirt select styles | reg. $26-$27 SHOP NOWShop our curated collection of tees, hair products and makeup—designed just for you. UP TO 60% OFFBabies’ &. toddlers’ Carter’s apparel &. sleepwear select styles  SHOP THE LOCAL LOOKJCPenney is teaming up with fashion and lifestyle  influencers to bring you a curated selection of their top picks.Check back every month to see new styles. Next stop: the dance floorYour one-stop destination for taking prom to a place that’s uniquely yours.  †Buy one item at regular price, get a second item of equal or lesser value for 50% off or free, while supplies last. Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 31 total items loaded in Media GalleryFollow @jcpenney Shop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! We take pride in being a one-stop shop for all your needs, with as many options as you can imagine.
 
