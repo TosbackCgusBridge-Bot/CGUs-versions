@@ -32,9 +32,9 @@ Lenovo Explore Close
         *   Yoga C940
         *   IdeaPad S940
         
-        Get it now
+        Presidents Day
         
-        Shop weekly deals on our most popular laptops. Get AMD processing and enjoy up to 50% off.
+        Enjoy special offers on laptops for home, work, gaming &. more!
         
     *   Desktops
         
@@ -63,9 +63,9 @@ Lenovo Explore Close
         *   IdeaCentre 310S Tower
         *   IdeaCentre T540 Gaming
         
-        Desktop Sale
+        Presidents Day
         
-        Click here for the best deals on desktops for work, home, gaming &. more!
+        Save big on all-in-ones &. towers for home, gaming &. work
         
     *   Workstations
         
@@ -91,9 +91,9 @@ Lenovo Explore Close
         *   ThinkStation P330 Tiny
         *   ThinkStation P330 Tower
         
-        Sale
+        Presidents Day
         
-        Get the power you need with our wide selection of highly rated workstations. Enjoy savings now!
+        Reliable &. highly versatile, our workstations offer powerful performance for the heaviest workloads. Save now!
         
     *   Tablets
         
@@ -118,9 +118,9 @@ Lenovo Explore Close
         
         The perfect family entertainment tablet
         
-        Sale
+        Presidents Day
         
-        Shop tablets &. smart devices for the whole family and save today!
+        Save extra on our assortment of tablets for work, home &. play!
         
     *   Accessories &. Software
         
@@ -180,9 +180,9 @@ Lenovo Explore Close
         *   Sale
         *   Monitor Accessories
         
-        ThinkVision M14 Portable Monitor
+        Presidents Day
         
-        Mobile display for on-the-go productivity
+        Save on our most popular monitors for work, home &. gaming!
         
     *   Gaming
         
@@ -214,9 +214,9 @@ Lenovo Explore Close
         *   Realspace Gaming Chair
         *   Legion Y740
         
-        Sign up &. save
+        Presidents Day
         
-        Save an extra 5% on Legion PC's when you join the Legion Community.
+        We're more than just PC's. Shop popular brands like Xbox &. HyperX &. much more for all your gaming needs
         
     *   Business
         
@@ -309,9 +309,9 @@ Lenovo Explore Close
         *   Trade In Program
         *   Outlet
         
-        Weekly Sale
+        Presidents Day
         
-        Shop weekly deals on laptops, desktops, accessories &. more!
+        Enjoy special savings on Lenovo's wide assortment of PC's, monitors, electronics &. more!
         
 *   Phones
 *   Data Center
@@ -458,10 +458,6 @@ Lenovo Explore Close
         Yoga Smart Tab Bundles
         
         Shop Now for Premium Yoga Smart Tab Bundle Offers
-        
-        Tech From The Heart
-        
-        Save up to 41% off of Smart Devices and Tablets and earn 3X Rewards! Ends 2/9.
         
         *   Always Free Shipping
         *   Easy Returns
@@ -615,7 +611,7 @@ Lenovo Explore Close
 1-855-253-6686
 
 *   Search
-*   icon-compare0 Compare Compare (0)
+
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
@@ -684,13 +680,7 @@ Top Suggestions
 
 View all >.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
-
-Please add at least 2 products for compare
-
-Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
-
-Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
 
 protects better"/>.
 
@@ -1185,7 +1175,7 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Created with sketchtool.CHAT NOW
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Launches comment card in new windowFeedbackCreated with sketchtool.CHAT NOW
 
 How can we help
 
@@ -1195,4 +1185,4 @@ you today?
 
 Call us: 1-855-253-6686
 
-Check order status >Technical support or Repair status >Launches comment card in new windowFeedback
+Check order status >Technical support or Repair status >
