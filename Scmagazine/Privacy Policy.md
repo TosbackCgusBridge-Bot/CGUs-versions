@@ -214,17 +214,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Metamofo banking malware spreads around the world
-    *   Facial-recognition tech questioned, defended at House committee hearing
-    *   Ashley Madison breach victims further embarrassed by ransom demands five years later
-    *   Philips WiFi light bulb vulnerable to attack
-    *   SC Labs product reviews: Email security
-    
-    *   Facial-recognition tech questioned, defended at House committee hearing
-    *   Ransomware knocks city of Racine offline
-    *   Hackers ran ad scams after hijacking account at Facebook data partner LiveRamp
-    *   You’re the new CISO — Now what?
     *   Burglary charges dropped against Coalfire pen testers
+    *   Detecting malware patterns with cutting-edge graph search tools
+    *   Iowa Dems say reporting inconsistencies, not hack, caused delays in caucus results
+    *   First Look: Sonrai Public Cloud Security Platform
+    *   Evolving DDoS security toward self-defending networks
+    
+    *   Netanyahu's Likud Party election app leaked personal info on Israel's 6.4M voters
+    *   Critical flaw in OpenSMTPD found, patched
+    *   A tale of two ransomware attacks
+    *   Indian airline hacked, vulnerability exposed by ethical hacker
+    *   Cybersecurity concerns ground Dept. of Interior drones
     
     *   Obama admin not 'well-postured,' hampered by partisan politics in response to Russian election interference
     *   Facial-recognition tech questioned, defended at House committee hearing
@@ -262,4 +262,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+
+You can skip this ad in 2 seconds.
+
+Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
