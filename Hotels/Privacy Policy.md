@@ -285,12 +285,12 @@ Join now! Collect 10 nights, get 1 reward\* night
     *   Hotels in Maldives
     *   Hotels in Bermuda
     *   Hotels in Malta
+    *   Hotels in Jersey Shore
     *   Hotels in Maui
+    *   Hotels in Puerto Rico Island
     *   Hotels in Kauai
     *   Hotels in Oahu
     *   Hotels in Cape Cod
-    *   Hotels in Outer Banks
-    *   Hotels in Florida Keys
 *   Support &. FAQs
     *   Your bookings
     *   FAQs
