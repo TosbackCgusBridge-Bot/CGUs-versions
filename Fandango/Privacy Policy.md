@@ -7,40 +7,46 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
 
 *   Movies Now Playing
     
+    *   Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)
     *   Bad Boys for Life
     *   1917 (2019)
     *   Dolittle (2020)
-    *   Gretel &. Hansel
-    *   The Gentlemen
     *   Jumanji: The Next Level
+    *   The Gentlemen
+    *   Gretel &. Hansel
+    *   Knives Out
+    *   Little Women (2019)
     *   Star Wars: The Rise of Skywalker (2019)
     *   The Turning (2020)
-    *   Little Women (2019)
-    *   The Rhythm Section
-    *   Knives Out
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)
-    *   And Then We Danced
-    *   The Lodge (2020)
-    *   Malang (2020)
-    *   Waiting for Anya
+    *   Fantasy Island
+    *   The Photograph (2020)
+    *   Sonic the Hedgehog
+    *   Break On Thru: A Celebration of Ray Manzarek and The Doors
+    *   Downhill (2020)
+    *   Enter the Fat Dragon (2020)
+    *   First Lady (2020)
+    *   Ordinary Love (2020)
+    *   The Times of Bill Cunningham
+    *   A Simple Wedding
+    *   Spy Intervention
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Fantasy Island
-    *   What About Love (2020)
-    *   Sonic the Hedgehog
-    *   The Photograph (2020)
     *   Brahms: The Boy II
     *   The Call of the Wild (2020)
     *   The Invisible Man (2020)
     *   Onward
     *   The Way Back (2020)
     *   First Cow
+    *   I Still Believe
+    *   My Spy (2020)
+    *   Bloodshot (2020)
+    *   A Quiet Place Part II
     *   See All Coming Soon
     
     Explore More
@@ -68,7 +74,7 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Next 3 Female-Driven Action Movies: 'Birds of Prey,' 'A Quiet Place Part II,' 'Black Widow' Read More
+    *   Five Most Memorable Oscar Moments: 2020 Edition Read More
     *   The Week in Movie News: Sam Raimi to Direct ‘Doctor Strange 2,’ Disney to Release ‘Hamilton’ in Theaters and More Read More
     *   The Week in Movie Trailers: ‘Minions’ Sequel, Chris Rock in the Next Chapter of ‘Saw’ and More Read More
     
