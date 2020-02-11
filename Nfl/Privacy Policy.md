@@ -6,7 +6,7 @@
 *   Highlights
 *   NFL 100
 
-*   NFL Shop
+*   Combine
 *   Scores
 
 NFL.com - Privacy Policy English
