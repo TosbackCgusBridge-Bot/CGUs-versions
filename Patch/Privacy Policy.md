@@ -342,4 +342,4 @@ Support
 
 Swipe for more from Patch »
 
-<img src = "https://b.scorecardresearch.com/p?c1=2&c2=21043158&cv=2.0&cj=1" />. <img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qKjWj1a0Sn00GK" style="display:none" height="1" width="1" alt="" />. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1705686969667460&amp;ev=PageView&amp;noscript=1">.
+<img src = "https://b.scorecardresearch.com/p?c1=2&c2=21043158&cv=2.0&cj=1" />. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1705686969667460&amp;ev=PageView&amp;noscript=1">. <img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qKjWj1a0Sn00GK" style="display:none" height="1" width="1" alt="" />.
