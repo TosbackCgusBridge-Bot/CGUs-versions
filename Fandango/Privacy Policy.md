@@ -497,9 +497,9 @@ We have separate policies for workforce data, which is governed by the policies 
 
 Offers
 
-*   Your Complete Guide To Awards Season!
+*   FandangoNOW Fresh Picks
     
-    Get tickets to Award-nominated movies in theaters, like 1917 and Little Women, and find out which movies are available to watch at home right now. LEARN MORE
+    100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
     
 *   Get A $10 Movie Ticket
     
