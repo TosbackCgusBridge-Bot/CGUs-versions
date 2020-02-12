@@ -297,7 +297,7 @@ See what we’re up to, as well as what we’ve accomplished
 
 Progressive Art Collection
 
-Tour of our art installations, collection highlights, and more
+Tour our art installations, collection highlights, and more
 
 Careers
 
