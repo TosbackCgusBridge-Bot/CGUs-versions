@@ -12,10 +12,11 @@ close
     
     Occasions*   Valentine's Day Gifts
     *   Birthday Gifts
-    *   Gifts for Her
-    *   Gifts for Him
     *   Thank You Gifts
-    *   Sympathy GiftsMost Popular New! California Gift Baskets
+    *   Congratulations
+    *   Thinking of You
+    *   Sympathy Gifts
+    *   Get WellMost Popular New! California Gift Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Cheese Gifts
@@ -78,18 +79,19 @@ close
     View All Categories Shop by Category*   Valentine's Day Gifts
     
     Occasions*   Birthday Gifts
-    *   Gifts for Her
-    *   Gifts for Him
     *   Thank You Gifts
-    *   Sympathy GiftsMost Popular Valentine's Day Gifts
+    *   Congratulations
+    *   Thinking of You
+    *   Sympathy Gifts
+    *   Get WellMost Popular Valentine's Day Gifts
 *   Business Gifts
     View All Categories Shop by Category*   Business Gifts
     *   Premium Wine Gifts
     *   Office Gift BasketsMost Popular Premium Wine Gifts
 *   Sale
-    View All Categories Shop by Category*   2-Day Shipping Savings
+    View All Categories Shop by Category*   Next-Day Shipping Savings
 
-1.800.753.8558 Business Gifts $10 2-Day Shipping on Select Gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation close
+1.800.753.8558 Business Gifts $15 Next-Day Shipping on Select Gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation close
 
 *   Gift Baskets
     
@@ -103,10 +105,11 @@ close
     
     Occasions*   Valentine's Day Gifts
     *   Birthday Gifts
-    *   Gifts for Her
-    *   Gifts for Him
     *   Thank You Gifts
-    *   Sympathy GiftsMost Popular New! California Gift Baskets
+    *   Congratulations
+    *   Thinking of You
+    *   Sympathy Gifts
+    *   Get WellMost Popular New! California Gift Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Cheese Gifts
@@ -169,16 +172,17 @@ close
     View All Categories Shop by Category*   Valentine's Day Gifts
     
     Occasions*   Birthday Gifts
-    *   Gifts for Her
-    *   Gifts for Him
     *   Thank You Gifts
-    *   Sympathy GiftsMost Popular Valentine's Day Gifts
+    *   Congratulations
+    *   Thinking of You
+    *   Sympathy Gifts
+    *   Get WellMost Popular Valentine's Day Gifts
 *   Business Gifts
     View All Categories Shop by Category*   Business Gifts
     *   Premium Wine Gifts
     *   Office Gift BasketsMost Popular Premium Wine Gifts
 *   Sale
-    View All Categories Shop by Category*   2-Day Shipping Savings
+    View All Categories Shop by Category*   Next-Day Shipping Savings
 
 1.800.753.8558 Business Gifts
 
