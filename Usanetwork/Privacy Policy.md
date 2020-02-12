@@ -565,9 +565,9 @@ We have separate policies for workforce data.  For example, please see our Cand
 
 *   NBCUniversal
 *   Contact Us
-*   PRIVACY POLICY-NEW
+*   PRIVACY POLICY
 *   DO NOT SELL MY PERSONAL INFORMATION
 *   Supply Chain Values
 *   Terms of Service
 
-© 2020 NBCUniversal Media, LLC. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/8446030" height="1" width="1" alt="" /></a></div>.
+© 2020 NBCUniversal Media, LLC. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/567440" height="1" width="1" alt="" /></a></div>.
