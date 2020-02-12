@@ -497,7 +497,7 @@ COMPANY
 SERVICES
 
 *   Ship to Store
-*   Personal Shopping
+*   Personal Styling
 *   Military Discount
 
 GUEST SERVICES
@@ -532,7 +532,7 @@ COMPANY
 SERVICES
 
 *   Ship to Store
-*   Personal Shopping
+*   Personal Styling
 *   Military Discount
 
 GUEST SERVICES
@@ -569,6 +569,4 @@ Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">.  
-I am over the age of 13  
-View Privacy Policy
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">.
