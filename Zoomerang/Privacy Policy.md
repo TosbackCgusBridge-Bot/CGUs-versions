@@ -58,6 +58,10 @@ Download our infographic
 
 Our clients’ stories
 
+“Working with the team was a great experience. Smooth, fast process. Deep analysis. New methodologies (blend of quantitative/qualitative). Things like this help our industry move forward.”
+
+**– Marcello Formisano | Head of consumer planning and insights | Tata Global Beverages**
+
 “Beyond their expertise in the topic, the key strength of MetrixLab lies in their flexibility and dedication to our project.
 
 MetrixLab is not an agency of status-quo, you know there is always something brewing that might benefit you at some stage in terms of innovation.”
