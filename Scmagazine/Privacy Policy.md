@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Burglary charges dropped against Coalfire pen testers
-    *   Detecting malware patterns with cutting-edge graph search tools
-    *   Iowa Dems say reporting inconsistencies, not hack, caused delays in caucus results
-    *   First Look: Sonrai Public Cloud Security Platform
-    *   Evolving DDoS security toward self-defending networks
+    *   Cybersecurity executive changes
+    *   FBI warns of DDoS attack on state-level voter registration website
+    *   Spoiler alert: Attack simulation isn’t ethical hacking
+    *   Phishing emails lure victims with news of coronavirus' impact on shipping
+    *   Cyberattackers bringing more weapons to bear on real estate deals
     
-    *   Netanyahu's Likud Party election app leaked personal info on Israel's 6.4M voters
-    *   Critical flaw in OpenSMTPD found, patched
-    *   A tale of two ransomware attacks
-    *   Indian airline hacked, vulnerability exposed by ethical hacker
-    *   Cybersecurity concerns ground Dept. of Interior drones
-    
-    *   Obama admin not 'well-postured,' hampered by partisan politics in response to Russian election interference
-    *   Facial-recognition tech questioned, defended at House committee hearing
-    *   Metamofo banking malware spreads around the world
-    *   A tail of two ransomware attacks
+    *   Hang-ups, hold-ups and hurdles passing federal privacy legislation
+    *   Hacker pleads guilty to stealing Nintendo secrets
+    *   Iranian internet attacked Saturday, knocked partially offline
     *   The evolution of shared responsibility in cloud security
+    *   Detecting malware patterns with cutting-edge graph search tools
+    
+    *   Blackburn blocks vote on trio of election security bills in Senate
+    *   Phishing emails lure victims with news of coronavirus' impact on shipping
+    *   No glossing this over: Leaky Estée Lauder database exposes 440M records
+    *   Microsoft’s Patch Tuesday covers 99 CVE, 12 critical with one zero day included
+    *   Justice Dept. to reduce sentencing recommendation for Roger Stone
 
 Back to Top
 
@@ -262,8 +262,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
-
-You can skip this ad in 2 seconds.
-
-Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
