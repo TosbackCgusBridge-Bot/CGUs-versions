@@ -7,17 +7,39 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Joie Up to 80% Off
+    *   Joie Shoes
+    *   Kurt Geiger London
+    *   Exclusively Ours: Styles Incl. Plus &. Petites
+    *   Splish Splash: Rain Boots &. More Up to 50% Off
+    *   Shun Sora Collection Starting at $45
+    *   Free Shipping: BergHOFF Up to 60% Off
+    *   Quirky &. Fun Towels, Coasters and More
+    *   Kitchen Appliances &. More Starting at $20
+    *   FAVLUX &. More
+    *   Sultry Lingerie Incl. Full-Fit Bras
+    *   Beauty Steals: Our Best Brands from $10
+    *   Destination Sunshine: Sunglasses ft. RAEN
+    *   Disney Favorites for Kids Up to 60% Off
+    *   42 Gold
+    *   Liza Schwartz Jewelry Up to 60% Off
+    *   Find the Perfect Piece: The Art Shop
+    *   Crevo
+    *   Detox &. Wellness Teas from Teasane
+    *   NuReveal Organics Skin Care
+    *   Styles for Your Little Valentine Starting at $10
+    *   Psycho Bunny
     *   Lafayette 148 New York Up to 70% Off Incl. Plus
+    
     *   Donald Pliner Up to 65% Off
     *   Free People Movement
     *   Red Carter Swim
     *   New on HauteLook: Faherty
-    *   Donald Pliner Men Up to 65% Off
     *   Hart Schaffner Marx Up to 60% Off
+    *   Donald Pliner Men Up to 65% Off
     *   Avant Skin Care &. More Up to 75% Off
     *   Free Shipping: Bedding Essentials Up to 70% Off
     *   Keep It Sleek: Luggage Up to 70% Off
-    *   Refresh Your Basics: Tops, Tees &. More
     *   Charles by Charles David Under $70
     *   14K Gold Jewelry &. More Under $130
     *   Our Favorite Hair Care Brands
@@ -26,67 +48,51 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Fun &. Fancy: Girls' Dresses Up to 60% Off
     *   Boys' Dresswear ft. Isaac Mizrahi
     *   Kids' Dress Shoes Starting at $20
-    *   Sam Edelman Up to 60% Off
-    *   Alo Yoga
-    *   Tops &. Blouses Up to 75% Off
-    *   cupcakes and cashmere
-    *   Sam Edelman Clothing Up to 65% Off
-    *   Rachel Roy Collection Incl. Plus
-    *   ZAC Zac Posen Up to 60% Off
-    
-    *   Zip It Up: Active Jackets &. More Up to 60% Off
     *   Gevril Watches Up to 85% Off
-    *   Velvet by Graham &. Spencer Up to 65% Off
-    *   Designer Spotlight: Equipment &. More Up to 70% Off
+    *   ZAC Zac Posen Up to 60% Off
+    *   Zip It Up: Active Jackets &. More Up to 60% Off
     *   Get Now, Wear Now: Boots Under $75
     *   Men's Shoe Steals Up to 70% Off
     *   Best of Body Care Starting at $10
+    
+    *   Sam Edelman Up to 60% Off
     *   Freida Rothman &. More
-    *   Sultry Staples: Lingerie Under $20
     *   Spring Cleaning: Home Organization Up to 50% Off
     *   Denim Under $50
     *   K-Beauty ft. Asamo, Jayjun &. More from $10
-    *   Chinese Laundry &. More from $30
     *   Hair Tools Under $50 ft. Conair
     *   Casually Cool: Men's Sneakers from $30
     *   Dress Shirts Under $30
     *   Gear Up for Baby: Essentials Starting at $10
     *   Spring Break Pool &. Beach Accessories from $15
     *   bareMinerals Up to 60% Off
-    *   Resort Ready: Onia Swim
-    *   Scotch &. Soda
-    *   Meghan LA &. More
-    *   Savvy Cie: Diamonds, Gems &. More Up to 80% Off
-    *   Suzy Levian Jewelry
     *   Skin Care Up to 55% Off
-    *   Messenger Bags Up to 70% Off
-    
     *   Free Shipping: Bedding &. Bath Up to 60% Off
-    *   Fresh Finds: Shoes from $40
     *   Turbie Twist Super-Absorbent Hair Towels
     *   Diadora Men's Sneakers
-    *   Aratta Up to 70% Off
     *   Statement Makers: Home Decor Starting at $20
     *   Free Shipping: Pet-Friendly Sofa Covers &. More
     *   Beauty Device Essentials Starting at $10
     *   Bar Cart Essentials Starting at $15
-    *   Dynamic Innovation Labs Starting at $35
     *   Home Decor Up to 40% Off
-    *   Free Shipping: BergHOFF Up to 60% Off
-    *   Kitchen Gadgets &. Storage from $15
-    *   bObsweep Robotic Vacuums Up to 75% Off
-    *   SUSINA &. More Up to 60% Off
-    *   Fergalicious from $30
-    *   Emperia &. More: On-Trend Bags Under $40
     *   Cold-Weather Accessories Up to 70% Off
     *   Urbanears Wireless Headphones Up to 75% Off
-    *   Must-Have Spring Styles Incl. Plus &. Petites
-    *   Sleepover Ready: Kids' Pajamas Under $20
-    *   Free Shipping: Storage for Every Room
-    *   Poo-Pourri Bathroom Scents from $10
-    *   Free Shipping: Framed Art Up to 60% Off
+    *   Refresh Your Basics: Tops, Tees &. More
 *   WomenShop Sale Events
     
+    *   Joie Up to 80% Off
+    *   Joie Shoes
+    *   Kurt Geiger London
+    *   Exclusively Ours: Styles Incl. Plus &. Petites
+    *   Splish Splash: Rain Boots &. More Up to 50% Off
+    *   FAVLUX &. More
+    *   Sultry Lingerie Incl. Full-Fit Bras
+    *   Beauty Steals: Our Best Brands from $10
+    *   Destination Sunshine: Sunglasses ft. RAEN
+    *   42 Gold
+    *   Liza Schwartz Jewelry Up to 60% Off
+    *   Detox &. Wellness Teas from Teasane
+    *   NuReveal Organics Skin Care
     *   Lafayette 148 New York Up to 70% Off Incl. Plus
     *   Donald Pliner Up to 65% Off
     *   Free People Movement
@@ -94,142 +100,125 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   New on HauteLook: Faherty
     *   Avant Skin Care &. More Up to 75% Off
     *   Keep It Sleek: Luggage Up to 70% Off
-    *   Refresh Your Basics: Tops, Tees &. More
+    
     *   Charles by Charles David Under $70
     *   14K Gold Jewelry &. More Under $130
     *   Our Favorite Hair Care Brands
     *   Leather Bags &. More ft. Lancaster Paris
-    *   Sam Edelman Up to 60% Off
-    *   Alo Yoga
-    *   Tops &. Blouses Up to 75% Off
-    *   cupcakes and cashmere
-    *   Sam Edelman Clothing Up to 65% Off
-    *   Rachel Roy Collection Incl. Plus
+    *   Gevril Watches Up to 85% Off
     *   ZAC Zac Posen Up to 60% Off
     *   Zip It Up: Active Jackets &. More Up to 60% Off
-    *   Gevril Watches Up to 85% Off
-    *   Velvet by Graham &. Spencer Up to 65% Off
-    *   Designer Spotlight: Equipment &. More Up to 70% Off
     *   Get Now, Wear Now: Boots Under $75
-    
     *   Best of Body Care Starting at $10
+    *   Sam Edelman Up to 60% Off
     *   Freida Rothman &. More
-    *   Sultry Staples: Lingerie Under $20
     *   K-Beauty ft. Asamo, Jayjun &. More from $10
-    *   Chinese Laundry &. More from $30
     *   Hair Tools Under $50 ft. Conair
     *   bareMinerals Up to 60% Off
-    *   Resort Ready: Onia Swim
-    *   Meghan LA &. More
-    *   Savvy Cie: Diamonds, Gems &. More Up to 80% Off
-    *   Suzy Levian Jewelry
     *   Skin Care Up to 55% Off
-    *   Messenger Bags Up to 70% Off
-    *   Fresh Finds: Shoes from $40
     *   Turbie Twist Super-Absorbent Hair Towels
-    *   Aratta Up to 70% Off
     *   Beauty Device Essentials Starting at $10
-    *   Dynamic Innovation Labs Starting at $35
-    *   SUSINA &. More Up to 60% Off
-    *   Fergalicious from $30
-    *   Emperia &. More: On-Trend Bags Under $40
     *   Cold-Weather Accessories Up to 70% Off
-    *   Must-Have Spring Styles Incl. Plus &. Petites
+    *   Refresh Your Basics: Tops, Tees &. More
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Lingerie &. Shapewear
     *   Handbags
+    *   Lingerie &. Shapewear
     *   Accessories
     *   Watches
 *   MenShop Sale Events
     
-    *   Donald Pliner Men Up to 65% Off
+    *   Destination Sunshine: Sunglasses ft. RAEN
+    *   Crevo
+    *   Psycho Bunny
     *   Hart Schaffner Marx Up to 60% Off
+    *   Donald Pliner Men Up to 65% Off
     *   Keep It Sleek: Luggage Up to 70% Off
     *   Lugz Men's Shoes Starting at $30
+    
     *   Gevril Watches Up to 85% Off
     *   Men's Shoe Steals Up to 70% Off
-    
     *   Denim Under $50
     *   Casually Cool: Men's Sneakers from $30
     *   Dress Shirts Under $30
-    *   Scotch &. Soda
-    *   Messenger Bags Up to 70% Off
     *   Diadora Men's Sneakers
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Accessories
     *   Watches
+    *   Accessories
 *   KidsShop Sale Events
     
+    *   Disney Favorites for Kids Up to 60% Off
+    *   Styles for Your Little Valentine Starting at $10
     *   Fun &. Fancy: Girls' Dresses Up to 60% Off
     *   Boys' Dresswear ft. Isaac Mizrahi
     *   Kids' Dress Shoes Starting at $20
     *   Gear Up for Baby: Essentials Starting at $10
-    *   Sleepover Ready: Kids' Pajamas Under $20
     
     Shop By Category
-    *   Baby
     *   Girls
+    *   Baby
     *   Boys
     *   Boys' Shoes
     *   Girls' Shoes
+    *   Toys
 *   HomeShop Sale Events
     
+    *   Shun Sora Collection Starting at $45
+    *   Free Shipping: BergHOFF Up to 60% Off
+    *   Quirky &. Fun Towels, Coasters and More
+    *   Kitchen Appliances &. More Starting at $20
+    *   Find the Perfect Piece: The Art Shop
     *   Free Shipping: Bedding Essentials Up to 70% Off
     *   Keep It Sleek: Luggage Up to 70% Off
     *   Spring Cleaning: Home Organization Up to 50% Off
+    
     *   Spring Break Pool &. Beach Accessories from $15
     *   Free Shipping: Bedding &. Bath Up to 60% Off
     *   Statement Makers: Home Decor Starting at $20
     *   Free Shipping: Pet-Friendly Sofa Covers &. More
     *   Bar Cart Essentials Starting at $15
-    
     *   Home Decor Up to 40% Off
-    *   Free Shipping: BergHOFF Up to 60% Off
-    *   Kitchen Gadgets &. Storage from $15
-    *   bObsweep Robotic Vacuums Up to 75% Off
     *   Urbanears Wireless Headphones Up to 75% Off
-    *   Free Shipping: Storage for Every Room
-    *   Poo-Pourri Bathroom Scents from $10
-    *   Free Shipping: Framed Art Up to 60% Off
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Cleaning &. Organization
     *   Bedding
+    *   Luggage &. Travel
+    *   Cleaning &. Organization
     *   Pet Accessories
     *   Outdoor Living
     *   Bath
-    *   Luggage &. Travel
-    *   Electronic &. Tech Accessories
     *   Accent Furniture
+    *   Electronic &. Tech Accessories
     *   Rugs &. Doormats
-    *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   Beauty Steals: Our Best Brands from $10
+    *   Detox &. Wellness Teas from Teasane
+    *   NuReveal Organics Skin Care
     *   Avant Skin Care &. More Up to 75% Off
     *   Our Favorite Hair Care Brands
     *   Best of Body Care Starting at $10
+    
     *   K-Beauty ft. Asamo, Jayjun &. More from $10
     *   Hair Tools Under $50 ft. Conair
     *   bareMinerals Up to 60% Off
     *   Skin Care Up to 55% Off
     *   Turbie Twist Super-Absorbent Hair Towels
     *   Beauty Device Essentials Starting at $10
-    *   Dynamic Innovation Labs Starting at $35
     
     Shop By Category
     *   Skin Care
     *   Makeup
-    *   Tools &. Accessories
     *   Hair Care
+    *   Tools &. Accessories
     *   Bath &. Body
     *   Fragrance
 
