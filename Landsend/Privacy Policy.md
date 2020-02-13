@@ -27,9 +27,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive 30% off your order. free shipping, no minimum!
+Receive 40% off your order!
 
-code: ADMIRE pin: PROMOTION DETAILS
+code: FAMILY pin: PROMOTION DETAILS
 
 Customer Service Menu
 
