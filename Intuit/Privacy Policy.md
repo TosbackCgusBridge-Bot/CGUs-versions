@@ -21,7 +21,7 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBack COUNTDOWN TO VALENTINE'S DAYENDS IN48HOURS 41MINS 25SECS \*Offer ends 02/13/20 
+Near YouFind a StoreBack COUNTDOWN TO VALENTINE'S DAYENDS IN24HOURS 41MINS 24SECS \*Offer ends 02/13/20 
 
 *   Shop All
 
@@ -34,7 +34,22 @@ Near YouFind a StoreBack COUNTDOWN TO VALENTINE'S DAYENDS IN48HOURS 41MINS 25SEC
 *   GOLD &. FINE SILVER JEWELRY
     
 
-Shop AllBUY 1 GET 1 FREE†Ambrielle bras | select styles | reg. $32-$44 Ambrielle event ends 2/19 Fun date. can’t wait!Shop casual date night Hit the town in styleShop fancy date night 25% OFFSexy Hair products select styles | reg. $16.95-$41.95 SHOP SEPHORA BEAUTYBEDDINGBATHWINDOWDECORUP TO 60% OFF+ Extra 10% off with coupon Furniture | select styles Furniture available online only. UP TO 60% OFF+ Extra 10% off with coupon Mattresses | select styles 9.99a.n.a tee | select styles also available in women’s plus and petites’ sizes | reg. $13 24.99a.n.a woven top | select styles also available in petites’ sizes | reg. $35 19.99Men’s St. John’s Bay Chambray button-front shirt select styles | reg. $40 12.99Boys’ Arizona shirt-sleeve button-front shirt select styles | reg. $26-$27 SHOP NOWShop our curated collection of tees, hair products and makeup—designed just for you. UP TO 60% OFFBabies’ &. toddlers’ Carter’s apparel &. sleepwear select styles  SHOP THE LOCAL LOOKJCPenney is teaming up with fashion and lifestyle  influencers to bring you a curated selection of their top picks.Check back every month to see new styles. Next stop: the dance floorYour one-stop destination for taking prom to a place that’s uniquely yours.  †Buy one item at regular price, get a second item of equal or lesser value for 50% off or free, while supplies last. Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 31 total items loaded in Media GalleryFollow @jcpenney Shop and Save at JCPenney
+Shop AllBUY 1 GET 1 FREE†Ambrielle bras | select styles | reg. $32-$44 Ambrielle event ends 2/19 Fun date. can’t wait!Shop casual date night Hit the town in styleShop fancy date night BUY 1 GET 1 50% OFF†Sexy Hair products select styles | reg. $16.95-$41.95 SHOP SEPHORA BEAUTYBEDDINGBATHWINDOWDECORUP TO 60% OFF+ Extra 10% off with coupon Furniture | select styles Furniture available online only. UP TO 60% OFF+ Extra 10% off with coupon Mattresses | select styles 9.99a.n.a tee | select styles also available in women’s plus and petites’ sizes | reg. $13 24.99a.n.a woven top | select styles also available in petites’ sizes | reg. $35 19.99Men’s St. John’s Bay Chambray button-front shirt select styles | reg. $40 12.99Boys’ Arizona shirt-sleeve button-front shirt select styles | reg. $26-$27 SHOP NOWShop our curated collection of tees, hair products and makeup—designed just for you. UP TO 60% OFFBabies’ &. toddlers’ Carter’s apparel &. sleepwear select styles  SHOP THE LOCAL LOOKJCPenney is teaming up with fashion and lifestyle  influencers to bring you a curated selection of their top picks.Check back every month to see new styles. Next stop: the dance floorYour one-stop destination for taking prom to a place that’s uniquely yours.  †Buy one item at regular price, get a second item of equal or lesser value for 50% off or free, while supplies last. Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 31 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+
+*   $1519after couponwas $80 Arizona Womens Denver Riding Boots Block Heel(200)
+*   $1999after couponwas $35 a.n.a Womens Keyhole Neck Long Sleeve Peasant Top
+*   $1759 - $3520after couponStafford Mens Wrinkle Free Oxford Button Down Collar Dress Shirt(248)
+*   LIMITED TIME SPECIAL!
+    
+    $25 sale
+    
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(150)
+*   ADVERTISED DEAL!
+    
+    $12999after couponwas $499.98 Womens 1 CT. T.W. Genuine Diamond Sterling Silver Cocktail Ring(21)
+*   $2879after couponwas $90 Worthington Sleeveless Sheath Dress(1)
+
+Shop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! We take pride in being a one-stop shop for all your needs, with as many options as you can imagine.
 
