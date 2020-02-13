@@ -40,20 +40,20 @@ Stock Quote and Chart
 
 Price
 
-$2.45
+$2.42
 
 Change
 
-+0.025
+\-0.03
 
 Percent Change
 
-(+1.03%)
+(0.00%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Feb 06, 2020 Office Depot Appoints Quincy Allen and Shashank Samant to Company’s Board of Directors view more Recent News Feb 06, 2020 Office Depot Appoints Quincy Allen and Shashank Samant to Company’s Board of Directors view more Events Nov 6, 2019 at 9:00 AM EST Q3 2019 Office Depot Inc Earnings Conference Call view more Events Nov 6, 2019 at 9:00 AM EST Q3 2019 Office Depot Inc Earnings Conference Call view more Presentations Nov 06, 2019 Office Depot Third Quarter 2019 Earnings Webcast Presentation view more Presentations Nov 06, 2019 Office Depot Third Quarter 2019 Earnings Webcast Presentation view more
+Recent News Feb 12, 2020 Office Depot to Announce Fourth Quarter and Full Year 2019 Earnings Results Wednesday, February 26, 2020 view more Recent News Feb 12, 2020 Office Depot to Announce Fourth Quarter and Full Year 2019 Earnings Results Wednesday, February 26, 2020 view more Events Nov 6, 2019 at 9:00 AM EST Q3 2019 Office Depot Inc Earnings Conference Call view more Events Nov 6, 2019 at 9:00 AM EST Q3 2019 Office Depot Inc Earnings Conference Call view more Presentations Nov 06, 2019 Office Depot Third Quarter 2019 Earnings Webcast Presentation view more Presentations Nov 06, 2019 Office Depot Third Quarter 2019 Earnings Webcast Presentation view more
 
 *   Home
 *   News &. Events
