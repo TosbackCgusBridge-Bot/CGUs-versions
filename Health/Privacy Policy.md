@@ -1,5 +1,7 @@
 YOUR PRIVACY MATTERS
 
+Effective Date: January 1, 2020
+
 Hi we are Meredith! Meredith Corporation and our brands focus on providing you with destinations you can trust and rely on for every stage of your life to connect you to great content, products and services and personalize your experience with us.
 
 Our mission is to be clear and transparent about how and why we collect and use information and to empower you to control your personal information. You are not our product, you are our customer.
