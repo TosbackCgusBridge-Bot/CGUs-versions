@@ -99,11 +99,11 @@ View more results
     *   Fireboy and Watergirl 5: Elements
     *   World Craft 2
     *   Red Bounce Ball 5
-    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Chrome Dino
+    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Short Ride
-    *   Adam and Eve 2
     *   World Crafts
+    *   Adam and Eve 2
     *   Adam and Eve 3
     *   KOGAMA: Adopt a Son or Daughter and Form Your Family
     *   Subway Surf
@@ -167,12 +167,12 @@ View more results
     *   Princesses Makeover
     *   Beach Kiss
     *   Ella: Hips Surgery
-    *   My New Room
     *   Dotted Girl: Back Treatment
+    *   My New Room
     *   Dove Prom Dolly Dress Up
     *   Goldie: Lip Injections
-    *   Floral Real Life Manicure
     *   Pizza Real Life Cooking
+    *   Floral Real Life Manicure
     *   Ellie: Get Ready With Me
     *   3D Color by Number
     *   Extreme Makeover
@@ -202,12 +202,12 @@ View more results
     *   Lost Race: Car Game
     *   Thug Racer
     *   Xcross Madness
-    *   Horse Racing: Betting Game
     *   Top Speed Muscle Car: Simulator Game
+    *   Horse Racing: Betting Game
     *   Off Road Monster Trucks
-    *   Real Dog Racing Simulator
     *   Bus Man Parking 3D
     *   Speed Racing Pro 2
+    *   Real Dog Racing Simulator
     *   Hill Racing Challenge
     *   Cars 3D
 *   Sports
@@ -238,9 +238,9 @@ View more results
     *   Xcross Madness
     *   Horse Racing: Betting Game
     *   Ultimate Boxing
+    *   Pool Clash: 8 Ball Billiards Snooker
     *   Archery World Tour
     *   Subway Surf
-    *   Pool Clash: 8 Ball Billiards Snooker
     *   Stunt Skateboard 3D
     *   Football Legends 2016
 *   More
