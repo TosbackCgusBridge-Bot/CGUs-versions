@@ -89,9 +89,8 @@ close
     *   Premium Wine Gifts
     *   Office Gift BasketsMost Popular Premium Wine Gifts
 *   Sale
-    View All Categories Shop by Category*   Next-Day Shipping Savings
 
-1.800.753.8558 Business Gifts $15 Next-Day Shipping on Select Gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation close
+1.800.753.8558 Business Gifts Skip to content Menu 0 Sign In Search Catalog Catalog Navigation close
 
 *   Gift Baskets
     
@@ -182,7 +181,6 @@ close
     *   Premium Wine Gifts
     *   Office Gift BasketsMost Popular Premium Wine Gifts
 *   Sale
-    View All Categories Shop by Category*   Next-Day Shipping Savings
 
 1.800.753.8558 Business Gifts
 
