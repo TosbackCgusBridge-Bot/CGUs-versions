@@ -116,53 +116,53 @@
     *   About
     *   Media Kit
 
-*   _Brad Bannon_: Nothing Is Set in Stone in the Granite State
+*   _Mark Penn_: Sanders Drags Dems to Left. Will It Be 1972 All Over Again?
     
-*   _Amber Athey_: Trump Steals the Dems' Spotlight at New Hampshire Rally
+*   _Kimberly Ross_: Biden Is Like Hillary Clinton in 2016 - But Worse
     
-*   _Natasha Korecki_: Super PAC Warns of 'Doomsday' If Biden Is Forced Out
+*   _Sean Trende_: Six Takeaways From New Hampshire
     
-*   _Matthew Yglesias_: Warren's Once-Promising, Now-Imperiled Bid, Explained
+*   _David Corn_: If You Thought Things Were Crazy Before NH, Just Wait
     
-*   _Kelly Sadler_: Are the Democrats Headed for Civil War?
+*   _Ying Ma_: Trump Needs to Fix the Never-Trump Problem in White House
     
-*   _John Cassidy_: Trump's Budget Should Be a Gift to Democrats
+*   _Matt Ford_: Trump's Conquest of the Justice Department Is Complete
     
-*   _Stephen Moore_: How to Contain Spiraling Debt: It's the Spending, Stupid!
+*   _Melissa Mackenzie_: Coronavirus Shows Millennials Dangers of Communism
     
-*   _Sean Davis_: Mueller Prosecutors Misled DOJ on Stone Recommendation
+*   _Paul Krugman_: How the President Got Trickled Down
     
-*   _Michael Fullilove_: Trump's Acquittal Has Shaken My Faith in America
+*   _Kimberly Guilfoyle_: And the Winner of the Democratic Primaries Is ... Trump
     
-*   _James Gagliano_: Attacks on Police Are a Cause for Alarm
+*   _Elie Mystal_: Buttigieg and Klobuchar Still Can't Win Over Black Voters
     
-*   _Meghan Murphy_: Silicon Valley Says I'm Guilty, But You Can't Cancel Truth
+*   _Rex Murphy_: Jordan Peterson's Personal Torment
     
-*   _Molly Ball_: New Hampshire Dems Paralyzed by Fear of Making Wrong Choice
+*   _Wegmann &. Cannon_: Narrow Win in NH Bolsters Sanders' Frontrunner Status
     
-*   _Robert Stacy McCain_: As Biden Fades, Dems Are Losing Their Minds
+*   _Matthew Walther_: Is It Already Too Late for Establishment to Stop Bernie?
     
-*   _Martin &. Burns_: NH Usually Winnows the Field. This Year Might Be Different
+*   _Ben Domenech_: Why Joe Biden's Campaign Is Collapsing
     
-*   _Newt Gingrich_: Democrats, Get Ready for a Brokered Convention
+*   _Jonathan Chait_: Biden's Run Was a Disaster for Liberalism &. the Party
     
-*   _Jason Sattler_: Moderate Dems Have a Duty to Consider Sanders
+*   _Peter Funt_: Biden Would Show Selfless Patriotism by Quitting the Race
     
-*   _Stephen L. Miller_: 2020 a Mirror Image of 2016
+*   _Byron York_: What Happened to Elizabeth Warren?
     
-*   _Juan Williams_: The Door Is Open for Bloomberg
+*   _Matthew Yglesias_: Amy Klobuchar Is the Thinking Moderate Dem's Candidate
     
-*   _Conrad Black_: Never Mind the Dems, Trump Is the Man to Beat
+*   _William Galston_: Democrats, Don't Hit the Panic Button
     
-*   _Tom Ridge &. Joe Lieberman_: We're 1 Mutation Away From Biological Disaster
+*   _Howard Fineman_: After New Hampshire, Bloomberg Machine Sees Open Road
     
-*   _Roger L. Simon_: Socialized Medicine in the Shadow of Wuhan
+*   _Jill Filipovic_: This Should Disqualify Michael Bloomberg
     
-*   _Bernard Avishai_: The Unexpected Threat of Trump's Mideast Peace Plan
+*   _Susan Crabtree_: Trump Campaign Dismisses Sanders, Focuses on Bloomberg
     
-*   _Ziva Dahl_: Trump's Middle East Plan Gives Peace a Chance
+*   _Russell Berman_: The Night Socialism Went Mainstream
     
-*   _Paul Brandus_: No Guardrails on Trump After Senate Acquittal
+*   _Michael Walsh_: General Election May Offer Nation the Choice It Needs
     
 
 *   Previous
@@ -233,11 +233,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   What to Watch in New Hampshire's Primary on Tuesday Night
-*   N.H. Debate--Dems and the 'S' Word
-*   NH Rally: Trump Rips Pelosi's "Mumbling" Behind Him During SOTU
-*   Trump's Post-Impeachment Victory Lap
-*   Buttigieg Is a Serious Young Man. In N.H., it May Be Enough
+*   Sanders' Narrow Victory Over Buttigieg in N.H. Bolsters Frontrunner Status
+*   Trump Camp Dismisses Sanders, Homes In on Bloomberg
+*   NH Woman: MSNBC's Unfair Coverage Made Me Vote for Sanders
+*   Prosecutors Quit Roger Stone Case in Dispute Over Sentence
+*   Justice Department Brings New Suits Over Sanctuary Policies
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -251,57 +251,38 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
-*   2020 Democratic Presidential NominationMonmouth
-    *   Sanders26
-    *   Biden16
-    *   Bloomberg11
-    *   Warren13
-    *   Buttigieg13
-    *   Klobuchar6
-    *   Yang4
-    *   Steyer1
-    *   Gabbard1
-    *   Bennet0
-    *   Patrick0Sanders +10
-*   2020 Democratic Presidential NominationMorning Consult
-    *   Sanders25
-    *   Biden22
-    *   Bloomberg17
-    *   Warren11
-    *   Buttigieg11
-    *   Klobuchar3
-    *   Yang4
-    *   Steyer3
-    *   Gabbard1
-    *   Bennet1
-    *   Patrick0Sanders +3
-*   2020 Democratic Presidential NominationThe Hill/HarrisX
+*   North Carolina Democratic Presidential PrimaryHigh Point
+    *   Biden24
     *   Sanders20
-    *   Biden23
     *   Bloomberg16
-    *   Warren9
-    *   Buttigieg9
+    *   Warren11
+    *   Buttigieg8
     *   Klobuchar3
-    *   Yang3
-    *   Steyer3
-    *   Gabbard1
-    *   Bennet1
-    *   Patrick1Biden +3
-*   Arkansas Democratic PrimaryTalk Business/Hendrix College
-    *   Bloomberg20
-    *   Biden19
-    *   Sanders16
-    *   Buttigieg16
-    *   Warren9
-    *   Klobuchar5
-    *   Yang2Bloomberg +1
+    *   Steyer4
+    *   Gabbard2Biden +4
+*   2020 Democratic Presidential NominationEconomist/YouGov
+    *   Sanders22
+    *   Biden18
+    *   Bloomberg12
+    *   Warren15
+    *   Buttigieg10
+    *   Klobuchar7
+    *   Yang2
+    *   Steyer1
+    *   Gabbard4Sanders +4
+*   Alabama: Trump vs. SandersAL Daily News/Mason-Dixon
+    *   Trump60
+    *   Sanders37Trump +23
+*   Alabama: Trump vs. ButtigiegAL Daily News/Mason-Dixon
+    *   Trump58
+    *   Buttigieg37Trump +21
 
 More Latest Polls In The News
 
-*   Bernie Sanders NH Victory Speech: "Our Campaign Is Not Just About Beating Trump, It Is About Transforming This Country"
-*   Pete Buttigieg: Democrats, Republicans, Independents "Ready To Vote For Something New"
-*   Warren Warns Democratic Rivals: Don't "Burn Down The Rest Of The Party In Order To Be The Last Man Standing"
-*   Amy Klobuchar in New Hampshire: "Hello, America, I'm Amy Klobuchar And I Will Beat Donald Trump"
+*   Van Jones: Democrats Are Like The Avengers Against Thanos, Everybody Is Partially Able To Take Trump On
+*   Bloomberg: "I Bill Myself As The Un-Trump," There's Nothing He Can Say That Will Hurt Me
+*   Trump: "I Don't Want To Say Yet" Whether I'll Pardon Roger Stone. You Have Murderers Who Don't Get Nine Years
+*   Man On The Street Live On MSNBC: Socialism Is "Anti-Growth, Anti-Family, Anti-American... Anti-Life"
 *   NH Woman: I Voted For Bernie Sanders Because MSNBC's "Cynical" Coverage Of His Campaign Made Me "Angry"
 
 *   Politics
