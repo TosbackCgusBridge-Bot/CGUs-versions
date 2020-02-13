@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  00:00
+New Games Next in  11:27
 
-*   By Date Next addition in 00:00
+*   By Date Next addition in 11:27
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more LIBRARY
 
-*   New Games Next in 00:00
+*   New Games Next in 11:27
 *   Best of new games 1363 games
-*   Most Popular Games 20395 games
+*   Most Popular Games 20401 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,247 games
-*   Driving &. Racing 6,315 games
+*   For Girls 24,249 games
+*   Driving &. Racing 6,316 games
 *   Strategy &. RPG 3,637 games
 *   Management &. Sim 4,260 games
-*   Thinking 12,533 games
-*   Action &. Adventure 14,796 games
+*   Thinking 12,535 games
+*   Action &. Adventure 14,801 games
 *   Sports 3,314 games
-*   Shooting 9,033 games
-*   Fighting 2,095 games
-*   Skill 10,961 games
-*   Arcade &. Classic 8,932 games
-*   Fun &. Crazy 4,800 games
+*   Shooting 9,034 games
+*   Fighting 2,096 games
+*   Skill 10,963 games
+*   Arcade &. Classic 8,936 games
+*   Fun &. Crazy 4,802 games
 
 Play with friends  
-Powered by Y8 Account 139 Y8 Multiplayer Games 2,187 Y8 High Score Games 1,228 Y8 Achievements Games 860 Y8 Screenshots Games 1,607 Y8 Online Save Games 3,328 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 139 Y8 Multiplayer Games 2,187 Y8 High Score Games 1,228 Y8 Achievements Games 860 Y8 Screenshots Games 1,608 Y8 Online Save Games 3,329 All Y8 Games Games Last Highscore:
 
-**4,500** points on Impossible Bike Stunt 3D by trung\_khon
+**776,228,684** points on Let's Journey: Lost Island by Sawasdee
 
 Help us improve Bad translation? Social
 
