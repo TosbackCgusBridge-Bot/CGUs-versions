@@ -459,6 +459,10 @@ Lenovo Explore Close
         
         Shop Now for Premium Yoga Smart Tab Bundle Offers
         
+        Smart Presidential Savings!
+        
+        Smart savings that makes Black Friday look like a any other Friday!
+        
         *   Always Free Shipping
         *   Easy Returns
         *   Low monthly payments
