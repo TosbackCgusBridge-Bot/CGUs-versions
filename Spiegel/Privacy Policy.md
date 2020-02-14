@@ -33,3 +33,5 @@ Das PUR-Abo wird über Ihren iTunes-Account abgewickelt und mit Kaufbestätigung
 *   Impressum
 *   Datenschutz
 *   Nutzungsbedingungen
+
+x Accept all cookies Reject all cookies
