@@ -11,10 +11,10 @@
 *   Entertainment
 *   Adventure
 *   Animals
-*   Podcasts
-*   Video
+*   Reviews
 *   Quizzes
-*   More  MoneyLifestyleEntertainmentAdventureAnimalsPodcastsVideoQuizzes
+*   Podcasts
+*   More  MoneyLifestyleEntertainmentAdventureAnimalsReviewsQuizzesPodcasts
 
 Search Terms Please enter terms to search for. Search
 
@@ -29,9 +29,9 @@ Search Terms Please enter terms to search for. Search
 *   Money
 *   Science
 *   Tech
-*   Video
-*   Podcasts
+*   Reviews
 *   Quizzes
+*   Podcasts
 
   HowStuffWorks Privacy Policy
 
