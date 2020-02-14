@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Red and blue teams have changed — Here’s how your security strategy can keep up
-    *   Ransomware knocks city of Racine offline
-    *   Google patches Bluetooth vulnerability impacting most Android devices
-    *   Ringing in a new National Privacy Law?
-    *   States weigh in on cybersecurity
-    
-    *   How to spot common business email compromise tax scams
-    *   Dell patches SupportAssist vulnerability
-    *   Cybersecurity executive changes
+    *   Malproxying: Leave your malware at home
+    *   Mozilla issues patches for Firefox 73, Firefox ESR 68.5 and Thunderbird 68.5
+    *   A tale of two ransomware attacks
     *   No glossing this over: Leaky Estée Lauder database exposes 440M records
-    *   Malicious apps now post their own positive reviews on Google Play
+    *   The evolution of shared responsibility in cloud security
     
-    *   Cyberinsurance: The value from an incident response lens
-    *   Critical vulnerability found in IBM ServeRAID Manager
-    *   FBI tallied 467K cybercrime complaints in 2019, totaling $3.5B in losses
-    *   Cybersecurity executive changes
-    *   Adobe Patch Tuesday: Critical vulnerabilities in Flash Player, Framemaker patched
+    *   A tale of two ransomware attacks
+    *   Phishing emails lure victims with news of coronavirus' impact on shipping
+    *   Microsoft’s Patch Tuesday covers 99 CVE, 12 critical with one zero day included
+    *   Philips WiFi light bulb vulnerable to attack
+    *   Adobe patches critical Magento security vulnerabilities
+    
+    *   Florida county elections hit with ransomware before 2016 elections
+    *   WordPress GDPR Cookie Consent plugin patched
+    *   Mac cyberattacks double in 2019: Malwarebytes
+    *   Phishing campaign targets Americas with new variant of Loda RAT
+    *   Texas attack: Garrison, Nacogdoches schools hit with ransomware
 
 Back to Top
 
@@ -262,4 +262,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
