@@ -10,7 +10,7 @@ skip to content skip to navigation skip to search
 *   Ship To
 *   Help Center
 
-Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Order History Edit Order Refer a Friend for 50% OFF Full Price Items! Bag 0
+Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Order History Edit Order Refer a Friend for 40% OFF Full Price Items! Bag 0
 
 *   Women
 *   Men
@@ -63,7 +63,7 @@ Your use of this Site‚ and any disputes arising from it‚ are subject to this
 
 TYPES OF INFORMATION WE COLLECT:
 
-*   Identifying Information - Your name, unique personal identifier, online identifier, mailing address, email address, postal address and telephone/mobile number.
+*   Identifying Information - Your name, unique personal identifier, online identifier, mailing address, email address, postal address, telephone/mobile number, and age.
 *   Payment Information - Your credit/debit card number and billing address.
 *   Information You Post on Our Website – We may collect Information you post or share in a public space on our site, including our Product Review and Ratings or when you contact us through the “Live Chat” feature on our site, or by participating in a contest, sweepstakes, promotion or survey.
 *   Social Media Information. We may collect information (ID, profile picture, gender, age range, friends’ ID’s) you post on our social media pages or via your social media profile information.
