@@ -439,7 +439,7 @@ To learn more about relationship-based ads, online behavioral advertising and ou
 
 Bank of America, N.A. Member FDIC. Equal Housing Lender new window
 
-© 2019 Bank of America Corporation. All rights reserved.
+© 2020 Bank of America Corporation. All rights reserved.
 
 text alerts
 
