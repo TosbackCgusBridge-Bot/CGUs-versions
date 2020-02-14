@@ -661,6 +661,19 @@ Lenovo Explore Close
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
+*   Contact
+    *   HELP PLACING AN ORDER 855-253-6686
+    *   BUSINESS ORDER HELP 866-426-0911
+    *   EXISTING ORDER HELP 855-253-6686 option #1
+    *   FAQs &. HOURS >.
+    *   CHAT NOW >.
+*   Account
+    *   Sign In
+    *   My Account
+    *   Orders
+    *   Product registration
+    *   Logout
+*   Cart
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
