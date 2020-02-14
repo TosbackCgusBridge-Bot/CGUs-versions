@@ -3,6 +3,16 @@
 We use cookies to deliver the best possible experience on our website. To learn more, visit our Privacy Policy.  
 By continuing to use this site, or closing this box, you consent to our use of cookies.
 
+Log in Help
+
+*   Get help with
+*   Logging in
+*   Technical requests
+*   Applying for a job
+*   Other inquiries
+
+Search
+
 *   Solutions By Function
     
     *   Audit &. Risk
@@ -68,7 +78,7 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 558 8791 1 855 558 8791
+    1 855 652 7772 1 855 652 7772
     
 
 *   Solutions By Function
@@ -131,17 +141,9 @@ By continuing to use this site, or closing this box, you consent to our use of c
     *   Newsroom
 *   Careers
 
-*   Log in
-*   Help
-    *   Get help with
-    *   Logging in
-    *   Technical requests
-    *   Applying for a job
-    *   Other inquiries
-*   Search
 *   Become a Client
     
-    1 855 558 8791 1 855 558 8791
+    1 855 652 7772 1 855 652 7772
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
