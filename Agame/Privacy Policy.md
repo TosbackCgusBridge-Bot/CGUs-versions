@@ -36,9 +36,9 @@ View more results
     *   Ono Card Game
     *   Slither.io
     *   Fireboy &. Watergirl 4: Crystal Temple
-    *   KOGAMA: Adopt a Son or Daughter and Form Your Family
     *   Pool Clash: 8 Ball Billiards Snooker
     *   Master Chess Multiplayer
+    *   KOGAMA: Adopt a Son or Daughter and Form Your Family
     *   Crowd City
 *   Action
     
@@ -71,8 +71,8 @@ View more results
     *   Short Life
     *   Stickman Warriors
     *   Air Wars 2
-    *   Bad Ice Cream 2
     *   Miami Crime Simulator 3D
+    *   Bad Ice Cream 2
     *   Deer Hunter
 *   Adventure
     
@@ -100,14 +100,14 @@ View more results
     *   World Craft 2
     *   Red Bounce Ball 5
     *   Chrome Dino
-    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Short Ride
+    *   Fireboy &. Watergirl 4: Crystal Temple
     *   World Crafts
     *   Adam and Eve 2
     *   Adam and Eve 3
     *   KOGAMA: Adopt a Son or Daughter and Form Your Family
-    *   Subway Surf
     *   Troll Face Quest: Horror 2
+    *   Subway Surf
 *   Puzzle
     
     Top Categories
@@ -139,8 +139,8 @@ View more results
     *   Block Wood Puzzle
     *   Dream Pet Link
     *   Puzzletag
-    *   Mahjong Connect Classic
     *   Bubble Shooter
+    *   Mahjong Connect Classic
     *   TenTrix
 *   Girls
     
@@ -175,7 +175,7 @@ View more results
     *   Floral Real Life Manicure
     *   Ellie: Get Ready With Me
     *   3D Color by Number
-    *   Extreme Makeover
+    *   Burger Chef: Cooking Story
 *   Racing
     
     Top Categories
@@ -203,12 +203,12 @@ View more results
     *   Thug Racer
     *   Xcross Madness
     *   Top Speed Muscle Car: Simulator Game
-    *   Horse Racing: Betting Game
     *   Off Road Monster Trucks
+    *   Horse Racing: Betting Game
     *   Bus Man Parking 3D
     *   Speed Racing Pro 2
-    *   Real Dog Racing Simulator
     *   Hill Racing Challenge
+    *   Real Dog Racing Simulator
     *   Cars 3D
 *   Sports
     
@@ -234,14 +234,14 @@ View more results
     *   Penalty Shooters 2: Football Game
     *   Basketball Stars 2019
     *   Table Tennis Pro
-    *   Table Tennis World Tour
     *   Xcross Madness
-    *   Horse Racing: Betting Game
+    *   Table Tennis World Tour
     *   Ultimate Boxing
     *   Pool Clash: 8 Ball Billiards Snooker
+    *   Horse Racing: Betting Game
     *   Archery World Tour
-    *   Subway Surf
     *   Stunt Skateboard 3D
+    *   Subway Surf
     *   Football Legends 2016
 *   More
     
