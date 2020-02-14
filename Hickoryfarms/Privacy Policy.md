@@ -15,8 +15,7 @@ close
     *   Thank You Gifts
     *   Congratulations
     *   Thinking of You
-    *   Sympathy Gifts
-    *   Get WellMost Popular New! California Gift Baskets
+    *   Sympathy GiftsMost Popular New! California Gift Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Cheese Gifts
@@ -82,8 +81,7 @@ close
     *   Thank You Gifts
     *   Congratulations
     *   Thinking of You
-    *   Sympathy Gifts
-    *   Get WellMost Popular Valentine's Day Gifts
+    *   Sympathy GiftsMost Popular Valentine's Day Gifts
 *   Business Gifts
     View All Categories Shop by Category*   Business Gifts
     *   Premium Wine Gifts
@@ -107,8 +105,7 @@ close
     *   Thank You Gifts
     *   Congratulations
     *   Thinking of You
-    *   Sympathy Gifts
-    *   Get WellMost Popular New! California Gift Baskets
+    *   Sympathy GiftsMost Popular New! California Gift Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Cheese Gifts
@@ -174,8 +171,7 @@ close
     *   Thank You Gifts
     *   Congratulations
     *   Thinking of You
-    *   Sympathy Gifts
-    *   Get WellMost Popular Valentine's Day Gifts
+    *   Sympathy GiftsMost Popular Valentine's Day Gifts
 *   Business Gifts
     View All Categories Shop by Category*   Business Gifts
     *   Premium Wine Gifts
