@@ -22,11 +22,11 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
     
     Opening This Week = Limited Release
     
+    *   Downhill (2020)
     *   Fantasy Island
     *   The Photograph (2020)
     *   Sonic the Hedgehog
     *   Break On Thru: A Celebration of Ray Manzarek and The Doors
-    *   Downhill (2020)
     *   Enter the Fat Dragon (2020)
     *   First Lady (2020)
     *   Ordinary Love (2020)
@@ -516,9 +516,9 @@ Offers
 
 New + Coming soon
 
-*   The Rhythm Section
 *   Gretel &. Hansel
 *   Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)
+*   Downhill (2020)
 *   Sonic the Hedgehog
 *   The Photograph (2020)
 *   Fantasy Island
@@ -562,7 +562,7 @@ Follow Us
 *   Fandango on Instagram
 *   Fandango on Youtube
 
-Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help My Fandango Live Chat
+Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help Feedback My Fandango Live Chat
 
 *   About Fandango
 *   Careers
