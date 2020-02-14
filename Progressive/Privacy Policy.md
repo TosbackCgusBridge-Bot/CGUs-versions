@@ -124,9 +124,9 @@ Loading
 
 Monday - Friday: 8:00am to 8:00pm Eastern Time
 
-Or, see all products Or, learn more Back
+Or, see all products Or, learn more
 
-Bundle and save 5%ΔDisclosure or more on auto!
+Bundle and save 5%Δ or more on auto!
 
 *   Selected, Auto + Home
 *   Selected, Auto + Condo
@@ -136,37 +136,31 @@ Or, quote another product
 
 *   Selected, ATV
 *   Selected, Auto
-*   Selected, Boat/PWC
-*   Selected, Business
+*   Selected, Boat
 *   Selected, Car Shopping
 *   Selected, Classic Car
-*   Selected, Commercial Vehicle
+*   Selected, Commercial
 *   Selected, Condo
 *   Selected, Dental
 *   Selected, Electronic Device
 *   Selected, Flood
 *   Selected, Golf Cart
 *   Selected, Health
-*   Selected, Health - Medicare
-*   Selected, Health - Short Term
-*   Selected, Homeowners
-*   Selected, Homeshare
 *   Selected, Home Financing
 *   Selected, Home Refinancing
 *   Selected, Home Security
 *   Selected, Home Warranty
+*   Selected, Homeowners
+*   Selected, Homeshare
 *   Selected, ID Theft
-*   Selected, Life - Final Expense
-*   Selected, Life - Term
-*   Selected, Life - Universal
-*   Selected, Life - Whole
+*   Selected, Life
 *   Selected, Mexico Auto
 *   Selected, Mobile Home
 *   Selected, Motorcycle
 *   Selected, Personal Loans
 *   Selected, Pet
-*   Selected, RV/Trailer
 *   Selected, Renters
+*   Selected, RV/Trailer
 *   Selected, Segway
 *   Selected, Snowmobile
 *   Selected, Travel
@@ -174,7 +168,11 @@ Or, quote another product
 *   Selected, Vision
 *   Selected, Wedding &. Event
 
-Back Back to quote Close Site Navigation
+Back Select type of insurance Enter ZIP Code
+
+Loading
+
+Or, see all products Back to quote Close Site Navigation
 
 *   Explore Products
 *   Claims
@@ -230,6 +228,7 @@ Commercial
 
 Personal
 
+*   Dental
 *   Electronic Device
 *   Health
 *   ID Theft
@@ -237,6 +236,7 @@ Personal
 *   Pet
 *   Travel
 *   Umbrella
+*   Vision
 *   Wedding &. Event
 
 View all products
