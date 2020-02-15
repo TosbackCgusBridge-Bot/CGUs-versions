@@ -11,6 +11,7 @@ close
     *   California Gift Baskets
     
     Occasions*   Valentine's Day Gifts
+    *   Spring Gifts
     *   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
@@ -76,8 +77,10 @@ close
 *   Holiday
     
     View All Categories Shop by Category*   Valentine's Day Gifts
+    *   Easter Gifts
     
-    Occasions*   Birthday Gifts
+    Occasions*   Spring Gifts
+    *   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
     *   Thinking of You
@@ -101,6 +104,7 @@ close
     *   California Gift Baskets
     
     Occasions*   Valentine's Day Gifts
+    *   Spring Gifts
     *   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
@@ -166,8 +170,10 @@ close
 *   Holiday
     
     View All Categories Shop by Category*   Valentine's Day Gifts
+    *   Easter Gifts
     
-    Occasions*   Birthday Gifts
+    Occasions*   Spring Gifts
+    *   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
     *   Thinking of You
@@ -311,4 +317,4 @@ Find A Store
 
 *   Find A Store
 
-© 2020 All Rights Reserved Privacy Policy Terms Of Use Site Map Compliance Play IconFeedback
+© 2020 All Rights Reserved Privacy Policy Terms Of Use Site Map Compliance
