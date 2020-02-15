@@ -24,7 +24,7 @@ Close submenu ( Girls ) Girls
 *   Dresses + Jumpsuits
 *   Matching Sets
 *   Accessories
-*   Shoes
+*   Flip Flops + Slides
 *   Fragrance
 *   Bras + Undies
 *   Swimwear
@@ -122,14 +122,10 @@ Close submenu ( Aero World ) Aero World
 
 *   View Home
 *   Claudia
-*   Julie
 *   Korostyle
 *   Logan
-*   Mathias
-*   Niklas
 *   Orion
 *   Sina
-*   Sophia
 *   Winter
 
 Close submenu ( New Arrivals ) New Arrivals
@@ -145,7 +141,6 @@ Close submenu ( Girls ) Girls
 *   Just In
 *   Best Sellers
 *   Online Only
-*   #HeartsAndAero
 *   Destroyed Denim
 *   Music + Pop Culture
 *   Matching Sets
@@ -157,7 +152,6 @@ Close submenu ( Guys ) Guys
 *   Just In
 *   Best Sellers
 *   Online Only
-*   #HeartsAndAero
 *   Real Denim
 *   Destroyed Denim
 *   Music + Pop Culture
@@ -211,7 +205,7 @@ Menu Find a Store Aeropostale
     *   Dresses + Jumpsuits
     *   Matching Sets
     *   Accessories
-    *   Shoes
+    *   Flip Flops + Slides
     *   Fragrance
     *   Bras + Undies
     *   Swimwear
@@ -297,14 +291,10 @@ Menu Find a Store Aeropostale
     
     *   View Home
     *   Claudia
-    *   Julie
     *   Korostyle
     *   Logan
-    *   Mathias
-    *   Niklas
     *   Orion
     *   Sina
-    *   Sophia
     *   Winter
     
 *   New Arrivals
@@ -315,7 +305,6 @@ Menu Find a Store Aeropostale
         *   Just In
         *   Best Sellers
         *   Online Only
-        *   #HeartsAndAero
         *   Destroyed Denim
         *   Music + Pop Culture
         *   Matching Sets
@@ -326,7 +315,6 @@ Menu Find a Store Aeropostale
         *   Just In
         *   Best Sellers
         *   Online Only
-        *   #HeartsAndAero
         *   Real Denim
         *   Destroyed Denim
         *   Music + Pop Culture
@@ -428,25 +416,7 @@ NOW $19 Shop Girls Shorts GUYS SHORTS
 
 WAS $49.50
 
-NOW $20 Shop Guys Shorts Next
-
-These six inspiring  
-individuals have united  
-from around the globe to  
-share their personal stories  
-and come together as one.
-
-These six inspiring individuals have united from  
-around the globe to share their personal stories  
-and come together as one.
-
-In Stores &. Online
-
-AERO
-
-JEANS 60% OFF
-
-Shop Girls Jeans Shop Guys Jeans Previous
+NOW $20 Shop Guys Shorts Next Previous
 
 Curvy
 
@@ -548,9 +518,9 @@ Next
 
 In Stores &. Online
 
-AERO JEANS
+AERO
 
-60% OFF
+JEANS 60% OFF
 
 Shop Girls Jeans Shop Guys Jeans
 
