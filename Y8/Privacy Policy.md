@@ -12,7 +12,7 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1362 games
+*   Best of new games 1359 games
 *   Most Popular Games 20402 games
 *   Played Games 0 games
 *   Liked Games 0 games
@@ -20,23 +20,23 @@ Categories &. more LIBRARY
 
 CATEGORIES
 
-*   For Girls 24,250 games
-*   Driving &. Racing 6,317 games
+*   For Girls 24,248 games
+*   Driving &. Racing 6,318 games
 *   Strategy &. RPG 3,637 games
 *   Management &. Sim 4,260 games
-*   Thinking 12,531 games
-*   Action &. Adventure 14,805 games
-*   Sports 3,314 games
-*   Shooting 9,038 games
+*   Thinking 12,536 games
+*   Action &. Adventure 14,811 games
+*   Sports 3,316 games
+*   Shooting 9,039 games
 *   Fighting 2,096 games
-*   Skill 10,967 games
-*   Arcade &. Classic 8,937 games
-*   Fun &. Crazy 4,802 games
+*   Skill 10,972 games
+*   Arcade &. Classic 8,939 games
+*   Fun &. Crazy 4,804 games
 
 Play with friends  
 Powered by Y8 Account 139 Y8 Multiplayer Games 2,187 Y8 High Score Games 1,229 Y8 Achievements Games 861 Y8 Screenshots Games 1,609 Y8 Online Save Games 3,330 All Y8 Games Games Last Highscore:
 
-**7** points on Subway Clash 3D by It-s\_me
+**195,035** points on The Ultimate Clicker Squad by darklordsubaru
 
 Help us improve Bad translation? Social
 
