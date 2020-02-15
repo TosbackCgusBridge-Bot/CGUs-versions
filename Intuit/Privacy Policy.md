@@ -21,7 +21,7 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackFINAL HOURS! COUNTDOWN TO VALENTINE'S DAYENDS IN00HOURS 41MINS 31SECS  
+Near YouFind a StoreBack 
 
 *   Shop All
 
@@ -34,29 +34,25 @@ Near YouFind a StoreBackFINAL HOURS! COUNTDOWN TO VALENTINE'S DAYENDS IN00HOURS 
 *   GOLD &. FINE SILVER JEWELRY
     
 
-Shop AllBUY 1 GET 1 FREE†Ambrielle bras | select styles | reg. $32-$44 Ambrielle event ends 2/19 Fun date. can’t wait!Shop casual date night Hit the town in styleShop fancy date night BUY 1 GET 1 50% OFF†Sexy Hair products select styles | reg. $16.95-$41.95 SHOP SEPHORA BEAUTYBEDDINGBATHWINDOWDECORUP TO 60% OFF+ Extra 10% off with coupon Furniture | select styles Furniture available online only. UP TO 60% OFF+ Extra 10% off with coupon Mattresses | select styles 40% OFFMen’s Levi’s® 514™ Straight Advanced & Women’s Levi’s® 721 Skinny jeans select styles | reg. $24.50-$69.50 Additional offers &. coupons do not apply to Levi’s®.
+Shop AllBUY 1 GET 1 FREE†Ambrielle bras | select styles | reg. $32-$44 Ambrielle event ends 2/19 Fun date. can’t wait!Shop casual date night Hit the town in styleShop fancy date night BUY 1 GET 1 50% OFF†Sexy Hair products select styles | reg. $16.95-$41.95 SHOP SEPHORA BEAUTYBEDDINGBATHWINDOWDECORUP TO 60% OFF+ Extra 10% off with coupon Furniture | select styles Furniture available online only. UP TO 60% OFF+ Extra 10% off with coupon Mattresses | select styles Selections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.40% OFFMen’s Levi’s® 514™ Straight Advanced & Women’s Levi’s® 721 Skinny jeans select styles | reg. $24.50-$69.50 Additional offers &. coupons do not apply to Levi’s®.
 
 *   MEN
 *   WOMEN
 
 9.99a.n.a tee | select styles also available in women’s plus and petites’ sizes | reg. $13 24.99a.n.a woven top | select styles also available in petites’ sizes | reg. $35 19.99Men’s St. John’s Bay Chambray button-front shirt select styles | reg. $40 14.99Boys’ Arizona shirt-sleeve button-front shirt select styles | reg. $26-$27 SHOP NOWShop our curated collection of tees, hair products and makeup—designed just for you. UP TO 60% OFFBabies’ &. toddlers’ Carter’s apparel &. sleepwear select styles  SHOP THE LOCAL LOOKJCPenney is teaming up with fashion and lifestyle  influencers to bring you a curated selection of their top picks.Check back every month to see new styles. Next stop: the dance floorYour one-stop destination for taking prom to a place that’s uniquely yours.  †Buy one item at regular price, get a second item of equal or lesser value for 50% off or free, while supplies last. Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 31 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   $1519after couponwas $80 Arizona Womens Denver Riding Boots Block Heel(203)
-*   $1999after couponwas $35 a.n.a Womens Keyhole Neck Long Sleeve Peasant Top
-*   $1759 - $3520after couponStafford Mens Wrinkle Free Oxford Button Down Collar Dress Shirt(248)
+*   $1614after couponwas $80 Arizona Womens Denver Riding Boots Block Heel(203)
+*   $2124after couponwas $35 a.n.a Womens Keyhole Neck Long Sleeve Peasant Top
+*   $3740after couponStafford Mens Wrinkle Free Oxford Button Down Collar Dress Shirt(249)
+*   ADVERTISED DEAL!
+    
+    $12999after couponwas $499.98 Womens 1 CT. T.W. Genuine Diamond Sterling Silver Cocktail Ring(21)
+*   $6290after couponPremier Amour Cold Shoulder Sheath Dress
 *   LIMITED TIME SPECIAL!
     
     $25 sale
     
     was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(150)
-*   ADVERTISED DEAL!
-    
-    $12999after couponwas $499.98 Womens 1 CT. T.W. Genuine Diamond Sterling Silver Cocktail Ring(21)
-*   LIMITED TIME SPECIAL!
-    
-    $10 sale
-    
-    was $49.98 | 80% offLIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver(225)
 
 Shop and Save at JCPenney
 
