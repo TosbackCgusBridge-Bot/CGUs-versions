@@ -420,6 +420,7 @@ Buying
 *   Download your software
 *   Returns &. refunds
 *   Renewal options
+*   Autodesk Financing
 
 Support &. Learning
 
@@ -478,6 +479,7 @@ Buying
 *   Download your software
 *   Returns &. refunds
 *   Renewal options
+*   Autodesk Financing
 
 Support &. Learning
 
@@ -536,6 +538,7 @@ Buying
 *   Download your software
 *   Returns &. refunds
 *   Renewal options
+*   Autodesk Financing
 
 Support &. Learning
 
