@@ -75,8 +75,8 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
 *   Movie News Featured Movie News
     
     *   Five Most Memorable Oscar Moments: 2020 Edition Read More
-    *   The Week in Movie News: Sam Raimi to Direct ‘Doctor Strange 2,’ Disney to Release ‘Hamilton’ in Theaters and More Read More
-    *   The Week in Movie Trailers: ‘Minions’ Sequel, Chris Rock in the Next Chapter of ‘Saw’ and More Read More
+    *   The Week in Movie News: Rick Moranis Returns for ‘Shrunk,’ Guy Ritchie to Direct ‘Aladdin’ Sequel and More Read More
+    *   The Week in Movie Trailers: Wes Anderson’s ‘The French Dispatch,’ Dev Patel in ‘The Green Knight’ and More Read More
     
     Explore Content
     *   Movie Reviews
@@ -497,9 +497,9 @@ We have separate policies for workforce data, which is governed by the policies 
 
 Offers
 
-*   FandangoNOW Fresh Picks
+*   Get a $5 Fandango Reward
     
-    100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
+    When you spend $15 on participating snack brands. SEE DETAILS
     
 *   Get A $10 Movie Ticket
     
