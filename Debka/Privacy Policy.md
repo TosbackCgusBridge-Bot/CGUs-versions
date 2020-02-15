@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Thursday, February 13, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Saturday, February 15, 2020  
 
 DEBKAfile
 
@@ -46,78 +46,86 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
-*   Turkish-backed rebels down Syrian helicopter
+*   Germany backs Israel in denying Hague court jurisdiction
     
-    Feb 11, 2020 @ 17:49
+    Feb 14, 2020 @ 18:33
     
-*   Israel to Hamas: First make good on pledge to halt balloon offensive
+*   Israel missiles reported striking Damascus targets, killing seven
     
-    Feb 11, 2020 @ 17:38
+    Feb 14, 2020 @ 10:12
     
-*   Russian team leaves Ankara without Idlib deal
+*   Iran bars 9,000 candidates from running in parliament vote
     
-    Feb 11, 2020 @ 12:23
+    Feb 13, 2020 @ 19:33
     
-*   Saudi-Qatar talks on their dispute break down
+*    NATO chief: Iraq asks us to stay in the country
     
-    Feb 11, 2020 @ 12:00
+    Feb 13, 2020 @ 19:23
     
-*   A cluster of balloons tied to pipe bomb lands near kibbutz preschool
+*   IDF establish new Iran Command in multi-year Plan
     
-    Feb 11, 2020 @ 11:48
+    Feb 13, 2020 @ 19:14
+    
+*   Another round of exploding balloons reaches Eshkol region
+    
+    Feb 13, 2020 @ 14:14
     
 
-*   Israel to Hamas: First make good on pledge to halt balloon offensive
+*   Iran bars 9,000 candidates from running in parliament vote
     
-    Feb 11, 2020 @ 17:38
+    Feb 13, 2020 @ 19:33
     
-*   Russian team leaves Ankara without Idlib deal
+*    NATO chief: Iraq asks us to stay in the country
     
-    Feb 11, 2020 @ 12:23
+    Feb 13, 2020 @ 19:23
     
-*   Saudi-Qatar talks on their dispute break down
+*   IDF establish new Iran Command in multi-year Plan
     
-    Feb 11, 2020 @ 12:00
+    Feb 13, 2020 @ 19:14
     
-*   A cluster of balloons tied to pipe bomb lands near kibbutz preschool
+*   Another round of exploding balloons reaches Eshkol region
     
-    Feb 11, 2020 @ 11:48
+    Feb 13, 2020 @ 14:14
     
-*   Turkish-backed rebels down Syrian helicopter
+*   Germany backs Israel in denying Hague court jurisdiction
     
-    Feb 11, 2020 @ 17:49
+    Feb 14, 2020 @ 18:33
     
-*   Israel to Hamas: First make good on pledge to halt balloon offensive
+*   Israel missiles reported striking Damascus targets, killing seven
     
-    Feb 11, 2020 @ 17:38
+    Feb 14, 2020 @ 10:12
     
-*   Russian team leaves Ankara without Idlib deal
+*   Iran bars 9,000 candidates from running in parliament vote
     
-    Feb 11, 2020 @ 12:23
+    Feb 13, 2020 @ 19:33
     
-*   Saudi-Qatar talks on their dispute break down
+*    NATO chief: Iraq asks us to stay in the country
     
-    Feb 11, 2020 @ 12:00
+    Feb 13, 2020 @ 19:23
     
-*   A cluster of balloons tied to pipe bomb lands near kibbutz preschool
+*   IDF establish new Iran Command in multi-year Plan
     
-    Feb 11, 2020 @ 11:48
+    Feb 13, 2020 @ 19:14
     
-*   Turkish-backed rebels down Syrian helicopter
+*   Another round of exploding balloons reaches Eshkol region
     
-    Feb 11, 2020 @ 17:49
+    Feb 13, 2020 @ 14:14
     
-*   Israel to Hamas: First make good on pledge to halt balloon offensive
+*   Germany backs Israel in denying Hague court jurisdiction
     
-    Feb 11, 2020 @ 17:38
+    Feb 14, 2020 @ 18:33
     
-*   Russian team leaves Ankara without Idlib deal
+*   Israel missiles reported striking Damascus targets, killing seven
     
-    Feb 11, 2020 @ 12:23
+    Feb 14, 2020 @ 10:12
     
-*   Saudi-Qatar talks on their dispute break down
+*   Iran bars 9,000 candidates from running in parliament vote
     
-    Feb 11, 2020 @ 12:00
+    Feb 13, 2020 @ 19:33
+    
+*    NATO chief: Iraq asks us to stay in the country
+    
+    Feb 13, 2020 @ 19:23
     
 
 12PrevNext
