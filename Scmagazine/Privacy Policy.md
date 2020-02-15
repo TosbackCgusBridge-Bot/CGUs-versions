@@ -214,17 +214,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Malproxying: Leave your malware at home
-    *   Mozilla issues patches for Firefox 73, Firefox ESR 68.5 and Thunderbird 68.5
-    *   A tale of two ransomware attacks
-    *   No glossing this over: Leaky Estée Lauder database exposes 440M records
-    *   The evolution of shared responsibility in cloud security
-    
-    *   A tale of two ransomware attacks
-    *   Phishing emails lure victims with news of coronavirus' impact on shipping
-    *   Microsoft’s Patch Tuesday covers 99 CVE, 12 critical with one zero day included
+    *   Dell patches SupportAssist vulnerability
+    *   Voatz mobile voting app vulnerable, MIT researchers say
+    *   FBI warns of DDoS attack on state-level voter registration website
+    *   CISOs burdened by unhealthy stress levels, survey study finds
     *   Philips WiFi light bulb vulnerable to attack
-    *   Adobe patches critical Magento security vulnerabilities
+    
+    *   No glossing this over: Leaky Estée Lauder database exposes 440M records
+    *   Mac cyberattacks double in 2019: Malwarebytes
+    *   Microsoft’s Patch Tuesday covers 99 CVE, 12 critical with one zero day included
+    *   FBI warns of DDoS attack on state-level voter registration website
+    *   The evolution of shared responsibility in cloud security
     
     *   Florida county elections hit with ransomware before 2016 elections
     *   WordPress GDPR Cookie Consent plugin patched
