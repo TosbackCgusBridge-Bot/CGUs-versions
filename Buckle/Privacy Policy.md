@@ -1,10 +1,10 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Up to 50% off select denim! Shop Now Double up on savings! Get an extra 20% off, 33% off, or 50% off!
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Up to 50% off select denim! Shop Now Double up on savings! Get an extra 33% off, or 50% off! Feb. 14-23, 2020 - Earn BONUS POINTS when you use your BUCKLE CREDIT CARD. See Details
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-Double up on savings! Get an extra 20% off, 33% off, or 50% off!
+Feb. 14-23, 2020 - Earn BONUS POINTS when you use your BUCKLE CREDIT CARD. See Details
 
 *   Women
 *   Men
