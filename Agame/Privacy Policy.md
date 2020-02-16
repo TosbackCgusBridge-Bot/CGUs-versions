@@ -28,6 +28,8 @@ View more results
     *   Alphabetical Order
     
     Best Games
+    *   Rummy
+    *   Buraco
     *   Worms.Zone
     *   Belote
     *   Subway Clash 3D
@@ -38,8 +40,6 @@ View more results
     *   Slither.io
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Pool Clash: 8 Ball Billiards Snooker
-    *   Master Chess Multiplayer
-    *   KOGAMA: Adopt a Son or Daughter and Form Your Family
 *   Action
     
     Top Categories
@@ -63,6 +63,7 @@ View more results
     
     Best Games
     *   Subway Clash 3D
+    *   Extreme Pamplona: Bull Running Game
     *   Wormate.io
     *   Apple Shooter
     *   Slither.io
@@ -70,9 +71,8 @@ View more results
     *   Short Life
     *   Sniper Code
     *   Stickman Warriors
-    *   Air Wars 2
     *   Miami Crime Simulator 3D
-    *   Bad Ice Cream 2
+    *   Air Wars 2
     *   Deer Hunter
 *   Adventure
     
@@ -103,11 +103,11 @@ View more results
     *   Short Ride
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   World Crafts
-    *   Adam and Eve 2
     *   Adam and Eve 3
+    *   Adam and Eve 2
     *   Troll Face Quest: Horror 2
     *   Subway Surf
-    *   KOGAMA: Adopt a Son or Daughter and Form Your Family
+    *   Adam and Eve 4
 *   Puzzle
     
     Top Categories
@@ -138,9 +138,9 @@ View more results
     *   Block Wood Puzzle
     *   Dream Pet Link
     *   Word Wipe
-    *   Puzzletag
     *   Bubble Shooter
     *   Mahjong Connect Classic
+    *   Puzzletag
     *   TenTrix
 *   Girls
     
@@ -168,14 +168,14 @@ View more results
     *   Beach Kiss
     *   Ella: Hips Surgery
     *   My New Room
-    *   Dotted Girl: Back Treatment
     *   Dove Prom Dolly Dress Up
+    *   Dotted Girl: Back Treatment
     *   Goldie: Lip Injections
     *   Pizza Real Life Cooking
     *   Ellie: Get Ready With Me
     *   Floral Real Life Manicure
     *   Burger Chef: Cooking Story
-    *   3D Color by Number
+    *   Extreme Makeover
 *   Racing
     
     Top Categories
@@ -201,14 +201,14 @@ View more results
     *   Madalin Stunt Cars 2
     *   Lost Race: Car Game
     *   Thug Racer
-    *   Xcross Madness
     *   Top Speed Muscle Car: Simulator Game
+    *   Xcross Madness
     *   Bus Man Parking 3D
     *   Off Road Monster Trucks
     *   Horse Racing: Betting Game
+    *   Real Dog Racing Simulator
     *   Speed Racing Pro 2
     *   Hill Racing Challenge
-    *   Real Dog Racing Simulator
     *   Russian Car Driver
 *   Sports
     
@@ -231,18 +231,18 @@ View more results
     *   Alphabetical Order
     
     Best Games
+    *   Super Volleyball Brazil
     *   Penalty Shooters 2: Football Game
     *   Basketball Stars 2019
     *   Table Tennis Pro
+    *   Pool Clash: 8 Ball Billiards Snooker
     *   Xcross Madness
     *   Table Tennis World Tour
-    *   Pool Clash: 8 Ball Billiards Snooker
     *   Ultimate Boxing
-    *   Horse Racing: Betting Game
     *   Archery World Tour
     *   Stunt Skateboard 3D
+    *   Horse Racing: Betting Game
     *   Subway Surf
-    *   Football Legends 2016
 *   More
     
     *   Multiplayer
