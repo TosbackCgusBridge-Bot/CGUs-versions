@@ -23,6 +23,7 @@ Main menu
         *   Dateline: Secrets Uncovered
         *   In Ice Cold Blood
         *   Kim Kardashian West: The Justice Project
+        *   Killer Couples
         *   Murdered by Morning
         *   Snapped
         *   The Witnesses
@@ -35,10 +36,10 @@ Main menu
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 2:36 The Witnesses A Memo To Elders And Allegations 1:33 The Witnesses How Some Of Jehovah's Witnesses Beliefs Create A ‘Perfect Situation’ For Pedophiles
+    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 1:42 Crime News Teacher-Student Sex Scandals 1:00 Up and Vanished Up and Vanished Premieres February 15th
 *   News
     *   Crime News
-    *   True Crime BuzzThe Witnesses Preview 'The Witnesses,' Premiering Feb. 8 On Oxygen Very Real Oops! 7 Celebrities Caught With D\*ck Pics Up and Vanished Preview The New Season Of 'Up and Vanished'
+    *   True Crime BuzzThe Witnesses Preview 'The Witnesses,' Premiering Feb. 8 On Oxygen Up and Vanished Preview The New Season Of 'Up and Vanished' In Ice Cold Blood ‘In Ice Cold Blood,’ With Ice-T, Returns Feb.13
 *   Podcasts
 *   Detective's Den
 *   Schedule
