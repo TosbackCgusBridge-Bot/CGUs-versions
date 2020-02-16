@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Dell patches SupportAssist vulnerability
-    *   Voatz mobile voting app vulnerable, MIT researchers say
-    *   FBI warns of DDoS attack on state-level voter registration website
+    *   Facial recognition tech questioned, defended at House committee hearing
+    *   Florida county elections hit with ransomware before 2016 elections
     *   CISOs burdened by unhealthy stress levels, survey study finds
-    *   Philips WiFi light bulb vulnerable to attack
-    
-    *   No glossing this over: Leaky Estée Lauder database exposes 440M records
-    *   Mac cyberattacks double in 2019: Malwarebytes
-    *   Microsoft’s Patch Tuesday covers 99 CVE, 12 critical with one zero day included
-    *   FBI warns of DDoS attack on state-level voter registration website
-    *   The evolution of shared responsibility in cloud security
+    *   Metamorfo banking malware spreads around the world
+    *   Cybercriminals abuse Bitbucket to infect users with potpourri of malware
     
     *   Florida county elections hit with ransomware before 2016 elections
-    *   WordPress GDPR Cookie Consent plugin patched
-    *   Mac cyberattacks double in 2019: Malwarebytes
-    *   Phishing campaign targets Americas with new variant of Loda RAT
-    *   Texas attack: Garrison, Nacogdoches schools hit with ransomware
+    *   Phishing emails lure victims with news of coronavirus' impact on shipping
+    *   Voatz mobile voting app vulnerable, MIT researchers say
+    *   Iranian internet attacked Saturday, knocked partially offline
+    *   Cyberattackers bringing more weapons to bear on real estate deals
+    
+    *   Justice Dept. expands Huawei indictment, charging 5G espionage
+    *   French plastic surgery image repository left vulnerable but since corrected: report
+    *   Hidden Cobra adds to its malware arsenal: CISA
+    *   Idaho Central Credit Union reports two breaches
+    *   Email scam swindles $2.6M from Puerto Rican government corporation
 
 Back to Top
 
