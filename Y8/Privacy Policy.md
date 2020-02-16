@@ -12,31 +12,31 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1359 games
-*   Most Popular Games 20402 games
+*   Best of new games 1358 games
+*   Most Popular Games 20406 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,248 games
-*   Driving &. Racing 6,318 games
+*   For Girls 24,249 games
+*   Driving &. Racing 6,319 games
 *   Strategy &. RPG 3,637 games
 *   Management &. Sim 4,260 games
-*   Thinking 12,536 games
-*   Action &. Adventure 14,811 games
+*   Thinking 12,540 games
+*   Action &. Adventure 14,817 games
 *   Sports 3,316 games
-*   Shooting 9,039 games
+*   Shooting 9,041 games
 *   Fighting 2,096 games
-*   Skill 10,972 games
-*   Arcade &. Classic 8,939 games
-*   Fun &. Crazy 4,804 games
+*   Skill 10,973 games
+*   Arcade &. Classic 8,944 games
+*   Fun &. Crazy 4,805 games
 
 Play with friends  
 Powered by Y8 Account 139 Y8 Multiplayer Games 2,187 Y8 High Score Games 1,229 Y8 Achievements Games 861 Y8 Screenshots Games 1,609 Y8 Online Save Games 3,330 All Y8 Games Games Last Highscore:
 
-**195,035** points on The Ultimate Clicker Squad by darklordsubaru
+**2,552** points on Orion Sandbox Enhanced by tomasosurak
 
 Help us improve Bad translation? Social
 
