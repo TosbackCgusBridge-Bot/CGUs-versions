@@ -4,6 +4,27 @@
 
 Sign inMarketplaceSubscribe
 
+*   Premium
+    
+    *   Premium Overview
+    *   News Dashboard
+    *   Portfolio Ratings
+    *   Portfolio Factor Grades
+    *   Portfolio Up/Downgrades
+    *   Stock Ratings Screener
+    *   Upgrades &. Downgrades
+    *   Compare Stocks &. Funds
+    *   Stock Research (Tour)
+    *   Stock Ratings (Tour)
+    
+    *   Top Rated Stocks
+    *   Top Dividend Stocks
+    *   Top REITs
+    *   Top Yield Monsters
+    *   Top Tech Stocks
+    *   Top Growth Stocks
+    *   Top Value Stocks
+    *   Top Small Cap Stocks
 *   My Portfolio
 *   Authors
     *   My Authors
@@ -51,7 +72,6 @@ Sign inMarketplaceSubscribe
     *   Stock Ideas by Sector
     *   Stock Ideas Editors Picks
     *   Short Ideas
-*   Premium
 *   Dividends
     
     *   Dividend Ideas
