@@ -7,13 +7,13 @@ Show Menu Hide Menu
     *   Hotels
     *   Vacation Packages
     *   Cars
+    *   Event Tickets
+    *   DEALS!
+    *   Mobile
     *   Cruises
     *   Vacation Rentals
-    *   Event Tickets
-    *   Activities
-    *   DEALS!
+    *   Things to Do
     *   Travel Tips
-    *   Mobile
 
 *   List your property
 *   Account
@@ -43,23 +43,23 @@ For customer service, call us toll-free at 1-800-397-3342. For customers outside
 *   Hotels
 *   Vacation Packages
 *   Cars
+*   Event Tickets
+*   DEALS!
+*   Mobile
 *   Cruises
 *   Vacation Rentals
-*   Event Tickets
-*   Activities
-*   DEALS!
+*   Things to Do
 *   Travel Tips
-*   Mobile
 *   More
-    *   Cruises
-    *   Vacation Rentals
-    *   Activities
-    *   Travel Tips
     *   Mobile
+    *   Cruises
+    *   Vacation Rentals
+    *   Things to Do
+    *   Travel Tips
 *   More
     *   Cruises
     *   Vacation Rentals
-    *   Activities
+    *   Things to Do
     *   Travel Tips
 
 Beginning of main content Create an account Create your free account Create your free account Sign Up with Facebook Sign Up with Google Sign Up with Naver **OR** We apologize for our system failure. Please try again Account already exists Authentication failure. Please try again Action required!  
@@ -73,7 +73,7 @@ Please enter a valid email address Please check you have entered your email addr
 
 Earn free travel rewards with CheapCash. opens in a new window By joining CheapCash, I accept all Terms and Conditions. opens in a new window Send me emails with travel deals, special offers, and other information. Sign Up By creating an account, I agree to the Terms of Use opens in a new window and the Privacy Policy opens in a new window.
 
-By creating an account, I agree to the Terms of Use opens in a new window , Privacy Policy opens in a new window and CheapCash opens in a new window Terms and Conditions. opens in a new window
+By creating an account, I agree to the Terms of Useopens in a new window, Privacy Policy opens in a new window and CheapCash Terms and Conditions. opens in a new window
 
 Already have an account? Sign In Sign In Sign in to your account Sign in to your account Sign In with Facebook Sign In with Google Sign In with Naver **OR** We apologize for our system failure. Please try again You may have entered an unknown email address or an incorrect password Authentication failure. Please try again As per our routine security check, we have reset your account password. Rest assured your account is safe with us – use the “Forgot password?” link to set a new password. Email address
 
@@ -86,4 +86,5 @@ Please start your search from CheapTickets’s homepage.
 
 *   Privacy PolicyOpens in a new window.
 *   Terms of UseOpens in a new window.
-*   © 2019, Trip Network, Inc. (d/b/a CheapTickets) All rights reserved.
+*   Do Not Sell My Personal InformationOpens in a new window.
+*   © 2020, Trip Network, Inc, (d/b/a CheapTickets), An Expedia Group Company. All rights reserved.
