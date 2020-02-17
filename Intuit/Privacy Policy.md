@@ -1,12 +1,12 @@
 Free Shipping Over $99See DetailsEnable Accessibility
 
-*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
+*   My AccountSign InTrack MyOrders
 
 Shop Departments
 
 *   Same Day Pickup
 *   Weekly Ad
-*   Valentine's Day Gifts
+*   Prom Shop
 *   Deals
     *   Special Deals
     *   Deals Under $10
@@ -21,20 +21,7 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackDay 2 Of COUPON CODE LEADER2ENDS IN23HOURS 40MINS 49SECS \*Offer ends 02/17/20See Details\*Extra 30% off select apparel, shoes, accessories, fine jewelry and home purchases of $100 or more. Extra 25% off select purchases under $100. Extra 10% off select furniture, mattresses, electronics, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches, and salon products. Each offer good at jcp.com only, excluding taxes and shipping charges, 2/15/20-2/17/20. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Best Value, Limited Time Specials, adidas, Athletic Shoes, Baby Gear, Bobs from Skechers, Champion, Clarks, Columbia, Converse, Denizen from Levi’s, Disney Collection, Grasshoppers, Jewelry Trunk Shows, Keds, Levi's, Modern Bride Design Your Dream Ring, Nike, Personalized Jewelry, Puma, Reebok, Sephora, Skechers Athletic Shoes, Skechers Women's Shoes, Smartwatches, Team Sports Merchandise, Tempur-Pedic, Toys, In-Store Services, Service Plans, Gift Cards, Closing Store Purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply, see jcpenney.com/exclusions or store associate for details. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code LEADER2 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. DetailsUP TO 60% OFF+ Extra 10% off with coupon Furniture | select styles Furniture available online only. UP TO 60% OFF+ Extra 10% off with coupon Mattresses | select styles  
-
-*   Shop All
-
-*   DIAMOND JEWELRY
-    
-*   GEMSTONE JEWELRY
-    
-*   MODERN BRIDE
-    
-*   GOLD &. FINE SILVER JEWELRY
-    
-
-Shop AllSelections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.40% OFFMen’s Levi’s® 514™ Straight Advanced & Women’s Levi’s® 721 Skinny jeans select styles | reg. $24.50-$69.50 Additional offers &. coupons do not apply to Levi’s®.
+Near YouFind a StoreBackDay 3 Of COUPON CODE LEADER2ENDS IN23HOURS 41MINS 23SECS \*Offer ends 02/17/20See Details\*Extra 30% off select apparel, shoes, accessories, fine jewelry and home purchases of $100 or more. Extra 25% off select purchases under $100. Extra 10% off select furniture, mattresses, electronics, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches, and salon products. Each offer good at jcp.com only, excluding taxes and shipping charges, 2/15/20-2/17/20. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Best Value, Limited Time Specials, adidas, Athletic Shoes, Baby Gear, Bobs from Skechers, Champion, Clarks, Columbia, Converse, Denizen from Levi’s, Disney Collection, Grasshoppers, Jewelry Trunk Shows, Keds, Levi's, Modern Bride Design Your Dream Ring, Nike, Personalized Jewelry, Puma, Reebok, Sephora, Skechers Athletic Shoes, Skechers Women's Shoes, Smartwatches, Team Sports Merchandise, Tempur-Pedic, Toys, In-Store Services, Service Plans, Gift Cards, Closing Store Purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply, see jcpenney.com/exclusions or store associate for details. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code LEADER2 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. DetailsUP TO 60% OFF+ Extra 10% off with coupon Furniture | select styles Furniture available online only. UP TO 60% OFF+ Extra 10% off with coupon Mattresses | select styles Selections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.40% OFFMen’s Levi’s® 514™ Straight Advanced & Women’s Levi’s® 721 Skinny jeans select styles | reg. $24.50-$69.50 Additional offers &. coupons do not apply to Levi’s®.
 
 *   MEN
 *   WOMEN
