@@ -7,7 +7,38 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Vertigo Up to 80% Off
+    *   Spring Savings: Styles Up to 80% Off
+    *   Sterling Forever Jewelry Up to 60% Off
+    *   Tod's Sunglasses &. More Up to 75% Off
+    *   Men's Styles Up to 70% Off
+    *   Coats Up to 70% Off
+    *   Men's Shoes Up to 70% Off
+    *   Wearable Tech Up to 70% Off
+    *   GOOD AMERICAN Up to 65% Off
+    *   adidas
+    *   Botkier Shoes &. Handbags
+    *   Bally Men's Shoes
+    *   Maggy London &. London Times
+    *   Amanda &. Chelsea Incl. Plus and Petites
+    *   John Varvatos Star USA
+    *   Smoothers &. Shapers ft. Skinnygirl
+    *   adidas Kids' Activewear
+    *   Lafonn Jewelry Up to 65% Off
+    *   adidas Activewear
+    *   Louise Et Cie Up to 50% Off
+    *   PUR Starting at $10
+    *   Beach Ready: Towels Up to 60% Off
+    *   Baby Shower Gifts Starting at $10
+    *   Free Shipping: Comforters, Duvets &. More
+    *   adidas Men
+    *   Still Sweater Weather: Men's Pullovers &. More
+    *   Vegan &. Plant Derived Natural Skin Care
+    *   Cordani Up to 50% Off
+    *   adidas Kids
+    *   Pajama Party: Kids' Sleepwear Up to 65% Off
     *   Max Studio Incl. Plus &. Petites
+    
     *   Designer Sunglasses Under $100 ft. Jimmy Choo
     *   TUMI Handbags
     *   Breeze into Spring: Maxi Dresses Incl. Plus
@@ -17,8 +48,6 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Cover-Ups ft. Pool to Party
     *   Break a Sweat: Men's Hoodies, Pants &. More
     *   Fresh Finds: Sandals &. More Up to 60% Off
-    *   Gemstones, Diamonds &. More Starting at $25
-    *   Saucony
     *   Catherine Catherine Malandrino Shoes Up to 60% Off
     *   RVCA Starting at $15
     *   KENDALL + KYLIE
@@ -29,22 +58,21 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Spring Prints: Polka Dots, Ditsy Florals &. More
     *   Saucony Men
     *   Kids' Active Sneakers from Saucony &. More
-    *   Veronica Beard Up to 65% Off
+    *   Saucony
     *   Natori Lingerie &. Sleep Up to 60% Off
     *   Parker &. More Up to 80% Off
     *   James Perse Up to 60% Off
     *   TOV
     *   Badgley Mischka Up to 60% Off
-    
     *   Fall for These: Heart-Print Styles &. More
     *   Whatever the Weather: RAINS, London Fog &. More
     *   Swing into Spring: Golf Apparel ft. Callaway
     *   Handmade in Bali: Devata Sterling &. 18K Jewelry
-    *   Ready, Set, Jet: LeSportsac Bags from $20
     *   Multi-Masking: Korean Beauty from $15
     *   Free Shipping: Wall Decor &. Accents
+    
     *   Top Moda Up to 65% Off
-    *   New on HauteLook: Tretorn
+    *   Thomas Pink
     *   ORA Derma Roller &. Microdermabrasion Tools
     *   GEOX Kids
     *   Tommy Hilfiger Men's Footwear
@@ -52,48 +80,46 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Flats &. Loafers to Love from $40
     *   PUMA Men
     *   Mirenesse Australia Starting at $10
-    *   PUMA Men's Active
     *   Skin Care Brands We Love
-    *   14K Gold Jewelry Steals
-    *   Game On: Team Sportswear for Him
     *   Free Shipping: Luxe Faux Fur Pillows &. Throws
     *   PUMA Kids
     *   On the Go: Kids' Activewear ft. PUMA
     *   Instant Cameras ft. Instax Mini by Fujifilm
     *   Resort Ready: Men's Sandals &. More
-    *   Women's Fragrances Under $50
+    *   Gemstones, Diamonds &. More Starting at $25
     *   Embrace the Natural You: Bounce Curl
-    *   Dr. Martens Men
-    
     *   Vegan Beauty: NCLA Nail Polish &. Lip Care
     *   Free Shipping: Wall Art Up to 70% Off
     *   Luxe Bedding ft. Vera Wang &. More
-    *   BED|STU Men Up to 65% Off
-    *   Shun Sora Collection Starting at $45
     *   Free Shipping: BergHOFF Up to 60% Off
     *   Quirky &. Fun Towels, Coasters and More
-    *   Kitchen Appliances &. More Starting at $20
-    *   Beauty Steals: Our Best Brands from $10
-    *   Find the Perfect Piece: The Art Shop
-    *   Detox &. Wellness Teas from Teasane
-    *   NuReveal Organics Skin Care
-    *   Thomas Pink
+    *   New on HauteLook: Tretorn
     *   Tech Toys for Kids Up to 50% Off
+    *   Women's Fragrances Under $50
+    *   Kitchen Appliances &. More Starting at $20
+    *   Find the Perfect Piece: The Art Shop
     *   Free Shipping: Bedding Essentials Up to 70% Off
-    *   Spring Cleaning: Home Organization Up to 50% Off
-    *   Spring Break Pool &. Beach Accessories from $15
-    *   Urbanears Wireless Headphones Up to 75% Off
-    *   Get Psyched: Tie Dye Styles
+    *   Sandals, Pumps &. More Up to 70% Off
     *   All-Star Weekend: Tissot NBA Watches
-    *   Designer Steals: Rebecca Taylor &. More
-    *   Z By Zella
-    *   Feminine Dresses Under $40 Incl. Plus &. Petites
-    *   Sanctuary Incl. Plus &. Petites
-    *   Vacay All Day: Tiare Hawaii &. More
-    *   Exclusively Ours: Styles Incl. Plus &. Petites
-    *   Refresh Your Basics: Tops, Tees &. More
 *   WomenShop Sale Events
     
+    *   Vertigo Up to 80% Off
+    *   Spring Savings: Styles Up to 80% Off
+    *   Sterling Forever Jewelry Up to 60% Off
+    *   Tod's Sunglasses &. More Up to 75% Off
+    *   Coats Up to 70% Off
+    *   GOOD AMERICAN Up to 65% Off
+    *   adidas
+    *   Botkier Shoes &. Handbags
+    *   Maggy London &. London Times
+    *   Amanda &. Chelsea Incl. Plus and Petites
+    *   Smoothers &. Shapers ft. Skinnygirl
+    *   Lafonn Jewelry Up to 65% Off
+    *   adidas Activewear
+    *   Louise Et Cie Up to 50% Off
+    *   PUR Starting at $10
+    *   Vegan &. Plant Derived Natural Skin Care
+    *   Cordani Up to 50% Off
     *   Max Studio Incl. Plus &. Petites
     *   Designer Sunglasses Under $100 ft. Jimmy Choo
     *   TUMI Handbags
@@ -102,14 +128,13 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Naked Zebra Starting at $25
     *   Cover-Ups ft. Pool to Party
     *   Fresh Finds: Sandals &. More Up to 60% Off
-    *   Gemstones, Diamonds &. More Starting at $25
-    *   Saucony
     *   Catherine Catherine Malandrino Shoes Up to 60% Off
+    
     *   KENDALL + KYLIE
     *   No-Frills Face Moisturizer: Embryolisse Skin Care
     *   Hair Tools 101: Flat Irons, Brushes &. More
     *   Spring Prints: Polka Dots, Ditsy Florals &. More
-    *   Veronica Beard Up to 65% Off
+    *   Saucony
     *   Natori Lingerie &. Sleep Up to 60% Off
     *   Parker &. More Up to 80% Off
     *   James Perse Up to 60% Off
@@ -118,31 +143,19 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Fall for These: Heart-Print Styles &. More
     *   Whatever the Weather: RAINS, London Fog &. More
     *   Handmade in Bali: Devata Sterling &. 18K Jewelry
-    
-    *   Ready, Set, Jet: LeSportsac Bags from $20
     *   Multi-Masking: Korean Beauty from $15
     *   Top Moda Up to 65% Off
-    *   New on HauteLook: Tretorn
     *   ORA Derma Roller &. Microdermabrasion Tools
     *   Flats &. Loafers to Love from $40
     *   Mirenesse Australia Starting at $10
     *   Skin Care Brands We Love
-    *   14K Gold Jewelry Steals
-    *   Women's Fragrances Under $50
+    *   Gemstones, Diamonds &. More Starting at $25
     *   Embrace the Natural You: Bounce Curl
     *   Vegan Beauty: NCLA Nail Polish &. Lip Care
-    *   Beauty Steals: Our Best Brands from $10
-    *   Detox &. Wellness Teas from Teasane
-    *   NuReveal Organics Skin Care
-    *   Get Psyched: Tie Dye Styles
+    *   New on HauteLook: Tretorn
+    *   Women's Fragrances Under $50
+    *   Sandals, Pumps &. More Up to 70% Off
     *   All-Star Weekend: Tissot NBA Watches
-    *   Designer Steals: Rebecca Taylor &. More
-    *   Z By Zella
-    *   Feminine Dresses Under $40 Incl. Plus &. Petites
-    *   Sanctuary Incl. Plus &. Petites
-    *   Vacay All Day: Tiare Hawaii &. More
-    *   Exclusively Ours: Styles Incl. Plus &. Petites
-    *   Refresh Your Basics: Tops, Tees &. More
     
     Shop By Category
     *   Clothing
@@ -153,20 +166,23 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   MenShop Sale Events
     
+    *   Tod's Sunglasses &. More Up to 75% Off
+    *   Men's Styles Up to 70% Off
+    *   Men's Shoes Up to 70% Off
+    *   Bally Men's Shoes
+    *   John Varvatos Star USA
+    *   adidas Men
+    *   Still Sweater Weather: Men's Pullovers &. More
     *   Designer Sunglasses Under $100 ft. Jimmy Choo
     *   Break a Sweat: Men's Hoodies, Pants &. More
+    
     *   RVCA Starting at $15
     *   Saucony Men
     *   Swing into Spring: Golf Apparel ft. Callaway
+    *   Thomas Pink
     *   Tommy Hilfiger Men's Footwear
     *   PUMA Men
-    
-    *   PUMA Men's Active
-    *   Game On: Team Sportswear for Him
     *   Resort Ready: Men's Sandals &. More
-    *   Dr. Martens Men
-    *   BED|STU Men Up to 65% Off
-    *   Thomas Pink
     *   All-Star Weekend: Tissot NBA Watches
     
     Shop By Category
@@ -176,8 +192,13 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Watches
 *   KidsShop Sale Events
     
+    *   adidas Kids' Activewear
+    *   Baby Shower Gifts Starting at $10
+    *   adidas Kids
+    *   Pajama Party: Kids' Sleepwear Up to 65% Off
     *   Tea Collection Starting at $10
     *   Kids' Sets Under $30
+    
     *   Kids' Active Sneakers from Saucony &. More
     *   GEOX Kids
     *   PUMA Kids
@@ -185,67 +206,65 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Tech Toys for Kids Up to 50% Off
     
     Shop By Category
-    *   Girls' Shoes
-    *   Boys' Shoes
     *   Girls
-    *   Toys
-    *   Boys
+    *   Boys' Shoes
+    *   Girls' Shoes
     *   Baby
+    *   Boys
+    *   Toys
 *   HomeShop Sale Events
     
+    *   Wearable Tech Up to 70% Off
+    *   Beach Ready: Towels Up to 60% Off
+    *   Free Shipping: Comforters, Duvets &. More
     *   Thank You Cards &. Notebooks from $10
     *   Free Shipping: Wall Decor &. Accents
     *   Luxe Bathroom Decor from $10
     *   Free Shipping: Luxe Faux Fur Pillows &. Throws
     *   Instant Cameras ft. Instax Mini by Fujifilm
+    
     *   Free Shipping: Wall Art Up to 70% Off
     *   Luxe Bedding ft. Vera Wang &. More
-    *   Shun Sora Collection Starting at $45
-    
     *   Free Shipping: BergHOFF Up to 60% Off
     *   Quirky &. Fun Towels, Coasters and More
     *   Kitchen Appliances &. More Starting at $20
     *   Find the Perfect Piece: The Art Shop
     *   Free Shipping: Bedding Essentials Up to 70% Off
-    *   Spring Cleaning: Home Organization Up to 50% Off
-    *   Spring Break Pool &. Beach Accessories from $15
-    *   Urbanears Wireless Headphones Up to 75% Off
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
-    *   Cleaning &. Organization
     *   Bath
     *   Outdoor Living
     *   Luggage &. Travel
     *   Electronic &. Tech Accessories
     *   Rugs &. Doormats
+    *   Cleaning &. Organization
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   PUR Starting at $10
+    *   Vegan &. Plant Derived Natural Skin Care
     *   No-Frills Face Moisturizer: Embryolisse Skin Care
     *   Hair Tools 101: Flat Irons, Brushes &. More
     *   Multi-Masking: Korean Beauty from $15
     *   ORA Derma Roller &. Microdermabrasion Tools
+    
     *   Mirenesse Australia Starting at $10
     *   Skin Care Brands We Love
-    
-    *   Women's Fragrances Under $50
     *   Embrace the Natural You: Bounce Curl
     *   Vegan Beauty: NCLA Nail Polish &. Lip Care
-    *   Beauty Steals: Our Best Brands from $10
-    *   Detox &. Wellness Teas from Teasane
-    *   NuReveal Organics Skin Care
+    *   Women's Fragrances Under $50
     
     Shop By Category
     *   Skin Care
     *   Makeup
     *   Fragrance
-    *   Bath &. Body
     *   Hair Care
     *   Nails
     *   Tools &. Accessories
+    *   Bath &. Body
     *   Makeup Bags
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
