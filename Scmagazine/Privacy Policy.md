@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Facial recognition tech questioned, defended at House committee hearing
-    *   Florida county elections hit with ransomware before 2016 elections
-    *   CISOs burdened by unhealthy stress levels, survey study finds
-    *   Metamorfo banking malware spreads around the world
-    *   Cybercriminals abuse Bitbucket to infect users with potpourri of malware
-    
-    *   Florida county elections hit with ransomware before 2016 elections
-    *   Phishing emails lure victims with news of coronavirus' impact on shipping
+    *   French plastic surgery image repository left vulnerable but since corrected: report
+    *   Malware attacks destroy Fondren Orthopedic Group patient records
     *   Voatz mobile voting app vulnerable, MIT researchers say
-    *   Iranian internet attacked Saturday, knocked partially offline
-    *   Cyberattackers bringing more weapons to bear on real estate deals
+    *   Dell patches SupportAssist vulnerability
+    *   Iowa vote tally app debacle should inform security, tech in future elections
     
+    *   Hidden Cobra adds to its malware arsenal: CISA
+    *   No glossing this over: Leaky Estée Lauder database exposes 440M records
+    *   The evolution of shared responsibility in cloud security
+    *   Voatz mobile voting app vulnerable, MIT researchers say
+    *   Florida county elections hit with ransomware before 2016 elections
+    
+    *   IBM pulls out of RSA over coronavirus fears
     *   Justice Dept. expands Huawei indictment, charging 5G espionage
     *   French plastic surgery image repository left vulnerable but since corrected: report
     *   Hidden Cobra adds to its malware arsenal: CISA
     *   Idaho Central Credit Union reports two breaches
-    *   Email scam swindles $2.6M from Puerto Rican government corporation
 
 Back to Top
 
@@ -262,4 +262,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
