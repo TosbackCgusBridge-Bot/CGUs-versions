@@ -3,7 +3,7 @@
 *   Certified Used Vehicles
 *   Owners
 *   Espaňol
-*   Your Location:67337
+*   Set Location
 
 *   Toyota Toyota
 *   Select Vehicle
@@ -12,7 +12,7 @@
 *   Build &. Price
 *   Local Specials
 
-ZIP67337
+ZIP
 
 Contact Us Site Map Accessibility Your Privacy Rights Legal Terms California Privacy Contact Us Site Map Accessibility Your Privacy Rights Legal Terms California Privacy Need help? Have a question? Get instant answers 24/7.
 
