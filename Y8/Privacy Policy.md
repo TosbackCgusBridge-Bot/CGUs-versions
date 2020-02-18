@@ -12,8 +12,8 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1355 games
-*   Most Popular Games 20409 games
+*   Best of new games 1354 games
+*   Most Popular Games 20413 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -21,22 +21,22 @@ Categories &. more LIBRARY
 CATEGORIES
 
 *   For Girls 24,249 games
-*   Driving &. Racing 6,319 games
-*   Strategy &. RPG 3,637 games
+*   Driving &. Racing 6,320 games
+*   Strategy &. RPG 3,636 games
 *   Management &. Sim 4,260 games
-*   Thinking 12,541 games
-*   Action &. Adventure 14,822 games
-*   Sports 3,318 games
-*   Shooting 9,041 games
+*   Thinking 12,543 games
+*   Action &. Adventure 14,828 games
+*   Sports 3,317 games
+*   Shooting 9,043 games
 *   Fighting 2,096 games
-*   Skill 10,982 games
-*   Arcade &. Classic 8,948 games
+*   Skill 10,986 games
+*   Arcade &. Classic 8,953 games
 *   Fun &. Crazy 4,807 games
 
 Play with friends  
 Powered by Y8 Account 139 Y8 Multiplayer Games 2,188 Y8 High Score Games 1,229 Y8 Achievements Games 861 Y8 Screenshots Games 1,610 Y8 Online Save Games 3,331 All Y8 Games Games Last Highscore:
 
-**3,600** points on Gem Pop by Terri
+**438,220** points on Right Trick - Totemland by strass
 
 Help us improve Bad translation? Social
 
