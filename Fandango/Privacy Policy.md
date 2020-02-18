@@ -22,28 +22,24 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
     
     Opening This Week = Limited Release
     
-    *   Downhill (2020)
-    *   Fantasy Island
-    *   The Photograph (2020)
-    *   Sonic the Hedgehog
-    *   Break On Thru: A Celebration of Ray Manzarek and The Doors
-    *   Enter the Fat Dragon (2020)
-    *   First Lady (2020)
-    *   Ordinary Love (2020)
-    *   The Times of Bill Cunningham
-    *   A Simple Wedding
-    *   Spy Intervention
+    *   Brahms: The Boy II
+    *   The Call of the Wild (2020)
+    *   Emma (2020)
+    *   Goldie (2020)
+    *   Las Pildoras De Mi Novio
+    *   Just One More Kiss (2020)
+    *   Those Who Remained (2020)
+    *   True Fiction (2020)
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Brahms: The Boy II
-    *   The Call of the Wild (2020)
     *   The Invisible Man (2020)
     *   Onward
     *   The Way Back (2020)
     *   First Cow
     *   I Still Believe
+    *   The Hunt (2020)
     *   My Spy (2020)
     *   Bloodshot (2020)
     *   A Quiet Place Part II (2020)
