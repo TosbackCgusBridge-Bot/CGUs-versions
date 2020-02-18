@@ -179,6 +179,7 @@ Lenovo Explore Close
         *   Quick Links
         *   Sale
         *   Monitor Accessories
+        *   Monitor FAQ
         
         Presidents Day
         
