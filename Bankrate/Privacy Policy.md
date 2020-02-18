@@ -28,7 +28,6 @@ Save SettingsAllow All
 *   Mortgages Get the Best Rates
     
     *   Mortgage rates
-    *   FED mortgage rates
     *   30-year mortgage rates
     *   20-year mortgage rates
     *   15-year mortgage rates
@@ -60,7 +59,6 @@ Save SettingsAllow All
     *   All mortgage calculators
     
     Learn &. Get Advice
-    *   FED announcement news
     *   Understanding current interest rates
     *   Where rates are trending
     *   How to get the best mortgage rate
