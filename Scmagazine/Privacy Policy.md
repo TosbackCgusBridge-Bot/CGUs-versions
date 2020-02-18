@@ -214,17 +214,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   French plastic surgery image repository left vulnerable but since corrected: report
-    *   Malware attacks destroy Fondren Orthopedic Group patient records
-    *   Voatz mobile voting app vulnerable, MIT researchers say
-    *   Dell patches SupportAssist vulnerability
-    *   Iowa vote tally app debacle should inform security, tech in future elections
+    *   Czech authorities investigating Avast over recent data collection practices
+    *   Netanyahu's Likud Party election app leaked personal info on Israel's 6.4M voters
+    *   Texas attack: Garrison, Nacogdoches schools hit with ransomware
+    *   Email scam swindles $2.6M from Puerto Rican government corporation
+    *   FBI tallied 467K cybercrime complaints in 2019, totaling $3.5B in losses
     
-    *   Hidden Cobra adds to its malware arsenal: CISA
-    *   No glossing this over: Leaky Estée Lauder database exposes 440M records
-    *   The evolution of shared responsibility in cloud security
-    *   Voatz mobile voting app vulnerable, MIT researchers say
     *   Florida county elections hit with ransomware before 2016 elections
+    *   Philips WiFi light bulb vulnerable to attack
+    *   French plastic surgery image repository left vulnerable but since corrected: report
+    *   Netanyahu's Likud Party election app leaked personal info on Israel's 6.4M voters
+    *   No glossing this over: Leaky Estée Lauder database exposes 440M records
     
     *   IBM pulls out of RSA over coronavirus fears
     *   Justice Dept. expands Huawei indictment, charging 5G espionage
@@ -262,4 +262,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+
+You can skip this ad in 1 seconds.
+
+Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
