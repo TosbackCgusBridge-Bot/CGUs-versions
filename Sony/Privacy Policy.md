@@ -40,11 +40,10 @@ Main menuSONY
     *   Lenses
     *   Compact Cameras
     
-    View AllMobile &. Accessories
+    View AllMobile
     
     *   All Mobile, Tablets &. Smart Devices products
     *   Cell Phones
-    *   Accessories
     
     View AllVideo Cameras
     
@@ -124,7 +123,7 @@ Become the one-armed wolf.
   
 Restore your honor with 35% off Sekiro: Shadows Die Twice:  https://play.st/2S98xTv  pic.twitter.com/mr1TOk0k8J
 
-7 days ago View Tweet Instagram Post B8XiuTqg2AW
+8 days ago View Tweet Instagram Post B8XiuTqg2AW
 
 Happy Valentine’s Day
 
