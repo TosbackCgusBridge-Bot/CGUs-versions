@@ -40,7 +40,7 @@
 
 *   EMPIRE
 
-About Shockwave
+× About Shockwave
 
 *   About Shockwave
 *   Advertising
@@ -279,4 +279,4 @@ Part of the Addicting Games network.
 *   Copyright Compliance Policy
 
 Copyright © 2020 Addicting Games, Inc. all rights reserved.  
-Third-party trademarks are used solely for distributing the games indexed herein and no license or other affiliation is implied. <img height="1" width="1" src="https://www.facebook.com/tr?id=296565827942260&amp;ev=PageView&amp;noscript=1">. <img src="http://b.scorecardresearch.com/p?c1=2&c2=4000003&c4=www.shockwave.com&cv=2.0&cj=1" />. <div style="display:none;">. <img src="//pixel.quantserve.com/pixel/p-83WcMqNwWwE46.gif?labels=" border="0" height="1" width="1" alt="Quantcast"/>. </div>. <div>. <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-103628h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" />. </div>.
+Third-party trademarks are used solely for distributing the games indexed herein and no license or other affiliation is implied. <img height="1" width="1" src="https://www.facebook.com/tr?id=296565827942260&amp;ev=PageView&amp;noscript=1">. <img src="http://b.scorecardresearch.com/p?c1=2&c2=4000003&c4=www.shockwave.com&cv=2.0&cj=1" />. <div style="display:none;">. <img src="//pixel.quantserve.com/pixel/p-83WcMqNwWwE46.gif?labels=" border="0" height="1" width="1" alt="Quantcast"/>. </div>. <div>. <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-103628h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" />. </div>. ×
