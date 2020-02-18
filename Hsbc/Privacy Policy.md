@@ -44,11 +44,6 @@ Menu
     *   Main menu
     *   Our approach
     *   Our strategy
-        *   Back
-        *   Our strategy
-        *   Overview
-        *   Progress on our strategic priorities
-        *   The value of our network
     *   Our values
     *   How we do business
     *   Building a sustainable future
@@ -143,7 +138,7 @@ Menu
     *   ESG investors
     *   Investor FAQs
     *   Investor contacts
-    *   Investor information in Chinese - 投資者中文資訊 (opens in new window)ANNUAL RESULTS 2019 Get the webcast details Close Navigation
+    *   Investor information in Chinese - 投資者中文資訊 (opens in new window)ANNUAL RESULTS 2019 Find the documents and webcast details Close Navigation
 *   Media Skip to Careers Media
     
     Find the latest media releases, key speeches by executives, and details of recent awards.
