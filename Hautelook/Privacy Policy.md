@@ -7,7 +7,35 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Designer Sun ft. Tom Ford
+    *   Wear to Work: Shoes ft. Calvin Klein
+    *   NANETTE nanette lepore Incl. Plus
+    *   Cookware Faves ft. Le Creuset Marine Collection
+    *   Love at First Sight: On-Trend Dresses
+    *   For the Home Chef: Miyabi Cutlery Sets
+    *   Quality Cookware Up to 55% Off
+    *   Dinnerware Sets &. More Up to 65% Off
+    *   Calvin Klein Outerwear
+    *   Go Couture Dresses Up to 75% Off
+    *   Tailored Perfection: Suits Under $250
+    *   DR2 by Daniel Rainn &. Pleione Incl. Plus
+    *   Work It: Blazers Incl. Plus &. Petites
+    *   Felina Lingerie &. Sleep
+    *   Jessica Simpson Bags Up to 70% Off
+    *   Handcrafted in Spain: UNOde50 Jewelry
+    *   Mercedes Castillo Up to 55% Off
+    *   Our Favorite Makeup Brands ft. Urban Decay
+    *   Liquid IV: Hydration Powder Supplements
+    *   Lacoste Lounge
+    *   Fabletics Footwear
+    *   Neon &. Co. Hair Masks, Treatments &. More
+    *   Free Shipping: Decorative Pillows &. Throws
+    *   LEWIS N. CLARK Under $30
+    *   Lacoste Men's Footwear
+    *   Harper Canyon Under $20
+    *   National Geographic Books
     *   Frye Up to 60% Off
+    
     *   Frye Men Up to 55% Off
     *   Frye Bags &. Accessories Up to 50% Off
     *   Luxe Brands Up to 70% Off
@@ -30,21 +58,14 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Vertigo Up to 80% Off
     *   Spring Savings: Styles Up to 80% Off
     *   Sterling Forever Jewelry Up to 60% Off
-    *   Tod's Sunglasses &. More Up to 75% Off
     *   Men's Styles Up to 70% Off
     *   Coats Up to 70% Off
     *   Men's Shoes Up to 70% Off
     *   GOOD AMERICAN Up to 65% Off
-    *   adidas
-    *   Botkier Shoes &. Handbags
-    
     *   Bally Men's Shoes
-    *   Maggy London &. London Times
-    *   Amanda &. Chelsea Incl. Plus and Petites
-    *   Smoothers &. Shapers ft. Skinnygirl
     *   adidas Kids' Activewear
+    
     *   Lafonn Jewelry Up to 65% Off
-    *   Louise Et Cie Up to 50% Off
     *   PUR Starting at $10
     *   Beach Ready: Towels Up to 60% Off
     *   Baby Shower Gifts Starting at $10
@@ -52,59 +73,48 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   adidas Men
     *   Still Sweater Weather: Men's Pullovers &. More
     *   Vegan &. Plant Derived Natural Skin Care
-    *   Cordani Up to 50% Off
     *   adidas Kids
     *   Pajama Party: Kids' Sleepwear Up to 65% Off
-    *   adidas Activewear
-    *   Max Studio Incl. Plus &. Petites
-    *   Designer Sunglasses Under $100 ft. Jimmy Choo
-    *   TUMI Handbags
-    *   Breeze into Spring: Maxi Dresses Incl. Plus
-    *   Tea Collection Starting at $10
-    *   Made In Italy: Meshmerise Starting at $40
-    *   Naked Zebra Starting at $25
-    *   Cover-Ups ft. Pool to Party
-    *   Break a Sweat: Men's Hoodies, Pants &. More
-    *   Fresh Finds: Sandals &. More Up to 60% Off
-    *   Catherine Catherine Malandrino Shoes Up to 60% Off
-    *   RVCA Starting at $15
-    
-    *   KENDALL + KYLIE
     *   No-Frills Face Moisturizer: Embryolisse Skin Care
     *   Hair Tools 101: Flat Irons, Brushes &. More
     *   Thank You Cards &. Notebooks from $10
-    *   Kids' Sets Under $30
-    *   Spring Prints: Polka Dots, Ditsy Florals &. More
     *   Saucony Men
-    *   Kids' Active Sneakers from Saucony &. More
-    *   Saucony
     *   Multi-Masking: Korean Beauty from $15
     *   Free Shipping: Wall Decor &. Accents
     *   ORA Derma Roller &. Microdermabrasion Tools
-    *   Tommy Hilfiger Men's Footwear
-    *   Gemstones, Diamonds &. More Starting at $25
-    *   Mirenesse Australia Starting at $10
-    *   Skin Care Brands We Love
     *   Free Shipping: Luxe Faux Fur Pillows &. Throws
     *   Instant Cameras ft. Instax Mini by Fujifilm
     *   Free Shipping: Wall Art Up to 70% Off
     *   Luxe Bedding ft. Vera Wang &. More
-    *   Free Shipping: BergHOFF Up to 60% Off
-    *   Quirky &. Fun Towels, Coasters and More
-    *   Kitchen Appliances &. More Starting at $20
     *   Wearable Tech Up to 70% Off
     *   John Varvatos Star USA
     *   Luxe Bathroom Decor from $10
-    *   Find the Perfect Piece: The Art Shop
-    *   22544011\_Nordstrom Rack
     *   Nicole Miller Baby &. More
     *   Sandals, Pumps &. More Up to 70% Off
 *   WomenShop Sale Events
     
+    *   Designer Sun ft. Tom Ford
+    *   Wear to Work: Shoes ft. Calvin Klein
+    *   NANETTE nanette lepore Incl. Plus
+    *   Love at First Sight: On-Trend Dresses
+    *   Calvin Klein Outerwear
+    *   Go Couture Dresses Up to 75% Off
+    *   DR2 by Daniel Rainn &. Pleione Incl. Plus
+    *   Work It: Blazers Incl. Plus &. Petites
+    *   Felina Lingerie &. Sleep
+    *   Jessica Simpson Bags Up to 70% Off
+    *   Handcrafted in Spain: UNOde50 Jewelry
+    *   Mercedes Castillo Up to 55% Off
+    *   Our Favorite Makeup Brands ft. Urban Decay
+    *   Liquid IV: Hydration Powder Supplements
+    *   Fabletics Footwear
+    *   Neon &. Co. Hair Masks, Treatments &. More
+    *   LEWIS N. CLARK Under $30
     *   Frye Up to 60% Off
     *   Frye Bags &. Accessories Up to 50% Off
     *   Luxe Brands Up to 70% Off
     *   Josie Maran Up to 50% Off
+    
     *   Ella Moss &. Splendid Swim
     *   Current Air &. More Up to 65% Off
     *   Mad for Plaid: Tops, Jackets &. More
@@ -116,67 +126,42 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Vertigo Up to 80% Off
     *   Spring Savings: Styles Up to 80% Off
     *   Sterling Forever Jewelry Up to 60% Off
-    *   Tod's Sunglasses &. More Up to 75% Off
     *   Coats Up to 70% Off
     *   GOOD AMERICAN Up to 65% Off
-    *   adidas
-    *   Botkier Shoes &. Handbags
-    *   Maggy London &. London Times
-    *   Amanda &. Chelsea Incl. Plus and Petites
-    *   Smoothers &. Shapers ft. Skinnygirl
     *   Lafonn Jewelry Up to 65% Off
-    *   Louise Et Cie Up to 50% Off
-    
     *   PUR Starting at $10
     *   Vegan &. Plant Derived Natural Skin Care
-    *   Cordani Up to 50% Off
-    *   adidas Activewear
-    *   Max Studio Incl. Plus &. Petites
-    *   Designer Sunglasses Under $100 ft. Jimmy Choo
-    *   TUMI Handbags
-    *   Breeze into Spring: Maxi Dresses Incl. Plus
-    *   Made In Italy: Meshmerise Starting at $40
-    *   Naked Zebra Starting at $25
-    *   Cover-Ups ft. Pool to Party
-    *   Fresh Finds: Sandals &. More Up to 60% Off
-    *   Catherine Catherine Malandrino Shoes Up to 60% Off
-    *   KENDALL + KYLIE
     *   No-Frills Face Moisturizer: Embryolisse Skin Care
     *   Hair Tools 101: Flat Irons, Brushes &. More
-    *   Spring Prints: Polka Dots, Ditsy Florals &. More
-    *   Saucony
     *   Multi-Masking: Korean Beauty from $15
     *   ORA Derma Roller &. Microdermabrasion Tools
-    *   Gemstones, Diamonds &. More Starting at $25
-    *   Mirenesse Australia Starting at $10
-    *   Skin Care Brands We Love
     *   Sandals, Pumps &. More Up to 70% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
+    *   Accessories
     *   Handbags
     *   Lingerie &. Shapewear
-    *   Accessories
 *   MenShop Sale Events
     
+    *   Designer Sun ft. Tom Ford
+    *   Tailored Perfection: Suits Under $250
+    *   Lacoste Lounge
+    *   LEWIS N. CLARK Under $30
+    *   Lacoste Men's Footwear
     *   Frye Men Up to 55% Off
     *   Leather Bags, Backpacks &. More ft. Frye
     *   Get Outside: Men's Active Outerwear
+    
     *   Florsheim
-    *   Tod's Sunglasses &. More Up to 75% Off
     *   Men's Styles Up to 70% Off
     *   Men's Shoes Up to 70% Off
     *   Bally Men's Shoes
-    
     *   adidas Men
     *   Still Sweater Weather: Men's Pullovers &. More
-    *   Designer Sunglasses Under $100 ft. Jimmy Choo
-    *   Break a Sweat: Men's Hoodies, Pants &. More
-    *   RVCA Starting at $15
     *   Saucony Men
-    *   Tommy Hilfiger Men's Footwear
     *   John Varvatos Star USA
     
     Shop By Category
@@ -185,43 +170,44 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Harper Canyon Under $20
+    *   National Geographic Books
     *   Crocs Kids
     *   Joe Fresh Kids Starting at $10
     *   adidas Kids' Activewear
     *   Baby Shower Gifts Starting at $10
     *   adidas Kids
     *   Pajama Party: Kids' Sleepwear Up to 65% Off
-    *   Tea Collection Starting at $10
-    *   Kids' Sets Under $30
-    *   Kids' Active Sneakers from Saucony &. More
     *   Nicole Miller Baby &. More
     
     Shop By Category
     *   Baby
     *   Girls
     *   Boys
-    *   Boys' Shoes
     *   Girls' Shoes
+    *   Boys' Shoes
     *   Toys
 *   HomeShop Sale Events
     
+    *   Cookware Faves ft. Le Creuset Marine Collection
+    *   For the Home Chef: Miyabi Cutlery Sets
+    *   Quality Cookware Up to 55% Off
+    *   Dinnerware Sets &. More Up to 65% Off
+    *   Free Shipping: Decorative Pillows &. Throws
+    *   LEWIS N. CLARK Under $30
     *   Free Shipping: Wall Decals Up to 55% Off
     *   Free Shipping: Storage Must-Haves from $15
     *   Beach Ready: Towels Up to 60% Off
+    
     *   Free Shipping: Comforters, Duvets &. More
     *   Thank You Cards &. Notebooks from $10
     *   Free Shipping: Wall Decor &. Accents
     *   Free Shipping: Luxe Faux Fur Pillows &. Throws
     *   Instant Cameras ft. Instax Mini by Fujifilm
-    
     *   Free Shipping: Wall Art Up to 70% Off
     *   Luxe Bedding ft. Vera Wang &. More
-    *   Free Shipping: BergHOFF Up to 60% Off
-    *   Quirky &. Fun Towels, Coasters and More
-    *   Kitchen Appliances &. More Starting at $20
     *   Wearable Tech Up to 70% Off
     *   Luxe Bathroom Decor from $10
-    *   Find the Perfect Piece: The Art Shop
     
     Shop By Category
     *   Home Decor
@@ -236,20 +222,22 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Our Favorite Makeup Brands ft. Urban Decay
+    *   Liquid IV: Hydration Powder Supplements
+    *   Neon &. Co. Hair Masks, Treatments &. More
     *   Josie Maran Up to 50% Off
     *   Snow Teeth Whitening Starting at $10
     *   PUR Starting at $10
+    
     *   Vegan &. Plant Derived Natural Skin Care
     *   No-Frills Face Moisturizer: Embryolisse Skin Care
     *   Hair Tools 101: Flat Irons, Brushes &. More
     *   Multi-Masking: Korean Beauty from $15
     *   ORA Derma Roller &. Microdermabrasion Tools
-    *   Mirenesse Australia Starting at $10
-    *   Skin Care Brands We Love
     
     Shop By Category
-    *   Skin Care
     *   Makeup
+    *   Skin Care
     *   Hair Care
     *   Bath &. Body
     *   Tools &. Accessories
