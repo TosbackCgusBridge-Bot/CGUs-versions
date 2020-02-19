@@ -20,7 +20,7 @@
     
     Fitbit Versa 2
     
-    Fitbit Charge 3
+    Celebrate Heart Month
     
     Fitbit Premium
     
@@ -112,7 +112,7 @@ Press Enter to submit Tap to search
     
     Fitbit Versa 2
     
-    Fitbit Charge 3
+    Celebrate Heart Month
     
     Fitbit Premium
     
