@@ -21,12 +21,31 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackFinal Hours Of COUPON CODE LEADER2ENDS IN00HOURS 41MINS 00SECS See Details\*Extra 30% off select apparel, shoes, accessories, fine jewelry and home purchases of $100 or more. Extra 25% off select purchases under $100. Extra 10% off select furniture, mattresses, electronics, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches, and salon products. Each offer good at jcp.com only, excluding taxes and shipping charges, 2/15/20-2/17/20. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Best Value, Limited Time Specials, adidas, Athletic Shoes, Baby Gear, Bobs from Skechers, Champion, Clarks, Columbia, Converse, Denizen from Levi’s, Disney Collection, Grasshoppers, Jewelry Trunk Shows, Keds, Levi's, Modern Bride Design Your Dream Ring, Nike, Personalized Jewelry, Puma, Reebok, Sephora, Skechers Athletic Shoes, Skechers Women's Shoes, Smartwatches, Team Sports Merchandise, Tempur-Pedic, Toys, In-Store Services, Service Plans, Gift Cards, Closing Store Purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply, see jcpenney.com/exclusions or store associate for details. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code LEADER2 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. DetailsUP TO 60% OFF+ Extra 10% off with coupon Furniture | select styles Furniture available online only. UP TO 60% OFF+ Extra 10% off with coupon Mattresses | select styles Selections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.40% OFFMen’s Levi’s® 514™ Straight Advanced & Women’s Levi’s® 721 Skinny jeans select styles | reg. $24.50-$69.50 Additional offers &. coupons do not apply to Levi’s®.
+Near YouFind a StoreBackUP TO 50% OFF HOME SALEselect styles
 
-*   MEN
-*   WOMEN
+*   SHOP NOW
 
-9.99a.n.a tee | select styles also available in women’s plus and petites’ sizes | reg. $13 24.99a.n.a woven top | select styles also available in petites’ sizes | reg. $35 19.99Men’s St. John’s Bay Chambray button-front shirt select styles | reg. $40 14.99Boys’ Arizona shirt-sleeve button-front shirt select styles | reg. $26-$27 SHOP NOWShop our curated collection of tees, hair products and makeup—designed just for you. Next stop: the dance floorYour one-stop destination for taking prom to a place that’s uniquely yours.  Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 31 total items loaded in Media GalleryFollow @jcpenney Shop and Save at JCPenney
+*   WINDOW
+    
+*   BATH
+    
+*   SHEETS
+    
+*   DECOR
+    
+
+SHOP NOWUP TO 60% OFF+ Extra 10% off with coupon Furniture | select styles Furniture available online only. UP TO 60% OFF+ Extra 10% off with coupon Mattresses | select styles 9.99a.n.a tee | select styles also available in women’s plus and petites’ sizes | reg. $13 24.99a.n.a woven top | select styles also available in petites’ sizes | reg. $35 19.99Men’s St. John’s Bay Chambray button-front shirt select styles | reg. $40 14.99Boys’ Arizona shirt-sleeve button-front shirt select styles | reg. $26-$27 Selections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.SHOP NOWShop our curated collection of tees, hair products and makeup—designed just for you. Next stop: the dance floorYour one-stop destination for taking prom to a place that’s uniquely yours.  Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 31 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+
+*   $1444after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(316)
+*   $1614after couponwas $80 Arizona Womens Denver Riding Boots Block Heel(205)
+*   $2124after couponwas $35 a.n.a Womens Keyhole Neck Long Sleeve Peasant Top
+*   $3740after couponStafford Mens Wrinkle Free Oxford Button Down Collar Dress Shirt(249)
+*   $6290after couponPremier Amour Cold Shoulder Sheath Dress
+*   ADVERTISED DEAL!
+    
+    $12999after couponwas $499.98 Womens 1 CT. T.W. Genuine Diamond Sterling Silver Cocktail Ring(21)
+
+Shop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! We take pride in being a one-stop shop for all your needs, with as many options as you can imagine.
 
