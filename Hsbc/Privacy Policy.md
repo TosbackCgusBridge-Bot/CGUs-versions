@@ -17,10 +17,9 @@ Menu
         *   Back
         *   Our businesses and customers
         *   Overview
+        *   Wealth and Personal Banking
         *   Commercial Banking
         *   Global Banking and Markets
-        *   Global Private Banking
-        *   Retail Banking and Wealth Management
     *   Leadership
     *   Our history
         *   Back
