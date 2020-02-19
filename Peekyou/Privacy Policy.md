@@ -56,7 +56,7 @@ Recently Added Privacy Policy, sammytown
 
 Provo, UT
 
-Privacy Policy lives in Provo, Utah. On the internet, Privacy goes by the alias sammytown.
+Privacy Policy lives in Provo, Utah. Online, Privacy goes by the alias sammytown.
 
 What is PeekScore? Public Records &. Background Checks 2% 
 
@@ -88,7 +88,7 @@ Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-8%  2% 
+5%  2% 
 
 Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -118,7 +118,7 @@ Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-8%  Arrest Records &. Driving Infractions
+5%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -333,49 +333,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Social Profiles 2% 
-
-*   Lauren Weinstein
-    
-    Tech Systems &. Policy Analysis: Internet, Privacy, plus his other sundry topics. - lauren.vortex.com - twitter.com/laurenweinstein
-    
-*   i Hate Privacy Policy....0\_o
-    
-*   i Hate Privacy Policy....0\_o
-    
-*   Adv. Prashant Mali
-    
-    Cyber Law, Cyber Security Policy, Privacy Law expert in India
-    
-*   Show More ...
-
-*   Pedro Paranaguá
-    
-    Advisor to the ruling party at Brazil's House of Representatives for Internet, copyright, cybercrime, patent, online privacy, and related issues
-    
-*   Serge Masse
-    
-    Apps for dolphins and people - Privacy Policy: your data is private.
-    
-*   Jules Polonetsky
-    
-    DC area
-    
-*   Debra Farber
-    
-    Data Privacy Expert | Public Policy at Visa | WISP Co-Founder | IANS Faculty | Public Speaker
-    
-*   Andrea Giannangelo
-    
-    Founder and Chairman of http://www.iubenda.com , Privacy Policy generator for websites. Web Designer by the age of 10.
-    
-*   Beacon Hill Apartments
-    
-    Beacon Hill Apartments is an Auburn Hills, MI apartment community. 248-373-5080 bhapts.com/privacy-policy bhapts.com/terms-of-use
-    
-*   Show Less ...
-
-Pinterest 2% 
+Social Profiles 4%  Pinterest 2% 
 
 *   Privacy policy - maaenterprise033
     
@@ -420,7 +378,7 @@ Wikipedia 2% 
     
 *   Show Less ...
 
-Music 8%  Photo Albums 2% 
+Music 4%  Photo Albums 2% 
 
 *   Help
     
@@ -450,7 +408,7 @@ Music 8%  Photo Albums 2% 
     
 *   Show Less ...
 
-Web Search 8%  Images 2% 
+Web Search 4%  Images 2% 
 
 16
 
@@ -468,8 +426,6 @@ instagramx
 
 myspacex
 
-10
-
 3
 
 facebookx
@@ -479,8 +435,6 @@ twitterx
 instagramx
 
 myspacex
-
-googleplusx
 
 pinterestx
 
