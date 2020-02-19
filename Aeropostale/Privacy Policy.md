@@ -416,25 +416,7 @@ NOW $19 Shop Girls Shorts GUYS SHORTS
 
 WAS $49.50
 
-NOW $20 Shop Guys Shorts Next
-
-These six inspiring  
-individuals have united  
-from around the globe to  
-share their personal stories  
-and come together as one.
-
-These six inspiring individuals have united from  
-around the globe to share their personal stories  
-and come together as one.
-
-In Stores &. Online
-
-AERO
-
-JEANS 60% OFF
-
-Shop Girls Jeans Shop Guys Jeans Previous
+NOW $20 Shop Guys Shorts Next Previous
 
 Curvy
 
@@ -536,9 +518,9 @@ Next
 
 In Stores &. Online
 
-AERO JEANS
+AERO
 
-60% OFF
+JEANS 60% OFF
 
 Shop Girls Jeans Shop Guys Jeans
 
