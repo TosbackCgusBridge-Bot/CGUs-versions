@@ -7,17 +7,17 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
 
 *   Movies Now Playing
     
+    *   Sonic the Hedgehog
     *   Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)
+    *   Fantasy Island
+    *   The Photograph (2020)
     *   Bad Boys for Life
     *   1917 (2019)
-    *   Dolittle (2020)
+    *   Parasite (2019)
     *   Jumanji: The Next Level
+    *   Dolittle (2020)
+    *   Downhill (2020)
     *   The Gentlemen
-    *   Gretel &. Hansel
-    *   Knives Out
-    *   Little Women (2019)
-    *   Star Wars: The Rise of Skywalker (2019)
-    *   The Turning (2020)
     *   See All Now Playing
     
     Opening This Week = Limited Release
@@ -26,6 +26,7 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
     *   The Call of the Wild (2020)
     *   Emma (2020)
     *   Goldie (2020)
+    *   Impractical Jokers: The Movie
     *   Las Pildoras De Mi Novio
     *   Just One More Kiss (2020)
     *   Those Who Remained (2020)
