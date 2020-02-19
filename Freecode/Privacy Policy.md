@@ -45,6 +45,24 @@ We encourage you to review the entire Policy. Please click on any of the links b
 15.  Questions?
     
 
+**Privacy Shield Framework and Related Information**
+
+Slashdot complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Data.   For purposes of this Policy, “Personal Data” means information that (i) is transferred from the EU to the United States, (ii) is recorded in any form, (iii) is about, or relates to, an identified or identifiable individual, and (iv) can be linked to that individual. Slashdot has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. \[https://www.privacyshield.gov/list\]
+
+ 
+
+Slashdot is responsible for the processing of Personal Data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Slashdot complies with the Privacy Shield Principles for all onward transfers of Personal Data from the EU, including the onward transfer liability provisions.
+
+With respect to Personal Data received or transferred pursuant to the Privacy Shield Framework, Slashdot is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Slashdot may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+In compliance with the Privacy Shield Principles, Slashdot commits to resolve complaints about our collection or use of your Personal Data. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Slashdot at: Slashdot Media LLC, PO Box 2452, La Jolla, CA 92038 or email us at privacy@slashdotmedia.com.
+
+Further, we require service providers to whom we disclose Personal Data and who are not subject to laws based on the European Union General Data Protection Regulation to either subscribe to the United States / European Union Privacy Shield principles or agree to provide at least the same level of protection for Personal Data as is required by the relevant Privacy Shield principles, for instance by entering into Standard Contractual Clauses, as promulgated by the European Commission. If the third party does not comply with its privacy obligations, Slashdot will take commercially reasonable steps to prevent or stop the use or disclosure of Personal Data.
+
+Slashdot has further committed to refer unresolved Privacy Shield complaints to European Data Protection Authorities (EU DPAs) or the Swiss Federal Data Protection and Information Commissioner (FDPIC), alternative dispute resolution providers located in each EU country or Switzerland, respectively. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit the DPA in your country (find a EU list here and a Swiss list here) for more information or to file a complaint. The services of EU and Swiss DPAs are provided at no cost to you.
+
+Under certain conditions, more fully described on the Privacy Shield website \[https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint\], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
 **A. The information we gather**
 
 We gather the two types of information about users, “Personal Information” which is information is about, or relates to, an identified or identifiable individual, or that can be linked to that individual (such as name, email address, etc.) and “Aggregate Information” which is information that cannot be used to identify you (such as frequency of visits to one of our Sites, browser type, etc.) Please note that we may convert Personal Information into Aggregate information via one or more processes at our discretion.
@@ -222,6 +240,8 @@ We will respond to all legitimate requests within forty-five days, or as permitt
 Canadian citizens, except under circumstances defined by law, are entitled to access their own Personal Information, to the extent covered by applicable law, collected by Slashdot by writing to: Slashdot Media, LLC dba Slashdot Media, PO Box 2452, La Jolla, CA 92038.  If you believe that the Personal Information about you that we have collected is incomplete or inaccurate, please contact us and we will correct the information upon verification of the omission or error and of the identity of the person requesting the change.
 
 **L. EEA Rights under the GDPR**
+
+Users who are resident in the European Economic Area (EEA) have additional rights under the General Data Protection Regulation (GDPR) and applicable law. EEA users benefit from our certification to Privacy Shield, which is described at the beginning of this Privacy Policy.
 
 To make this section more reader-friendly, we use everyday words such as use, transfer and storage to describe what we do with your Personal Information – but this Notice covers processing of any kind that is subject to EEA data protection law.
 
