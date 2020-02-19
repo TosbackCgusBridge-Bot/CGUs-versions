@@ -383,7 +383,7 @@ If you are a California resident, we process your personal data in accordance wi
 
 **Sale.** We do not sell your personal data. So, we do not offer an opt-out to the sale of personal data.
 
-**Rights.** You have the right to request that we (i) disclose what personal data we collect, use, disclose, and sell and (ii) delete your personal data. You may make these requests yourself or through an authorized agent. If you use an authorized agent, we may request information from you or the agent demonstrating that the agent is acting on your behalf.
+**Rights.** You have the right to request that we (i) disclose what personal data we collect, use, disclose, and sell and (ii) delete your personal data. You may make these requests yourself or through an authorized agent. If you use an authorized agent, we provide your agent with detailed guidance on how to exercise your CCPA rights.
 
 If you have a Microsoft account, you must exercise your rights through the Microsoft privacy dashboard, which requires you to log in to your Microsoft account. If you have an additional request or questions after using the dashboard, you may contact Microsoft at the address in the How to contact us section or use our web form. If you do not have an account, you may exercise your rights by contacting us as described above. We may ask for additional information, such as your country of residence, email address, and phone number, to validate your request before honoring the request.
 
