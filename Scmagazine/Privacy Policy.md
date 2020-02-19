@@ -214,23 +214,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
+    *   Fox Kitten APT campaign exploits VPN flaws hours after public disclosure
+    *   Inside the weakest link: How good and bad actors view endpoint security
+    *   The evolution of shared responsibility in cloud security
     *   Czech authorities investigating Avast over recent data collection practices
-    *   Netanyahu's Likud Party election app leaked personal info on Israel's 6.4M voters
-    *   Texas attack: Garrison, Nacogdoches schools hit with ransomware
-    *   Email scam swindles $2.6M from Puerto Rican government corporation
-    *   FBI tallied 467K cybercrime complaints in 2019, totaling $3.5B in losses
+    *   Adobe Patch Tuesday: Critical vulnerabilities in Flash Player, Framemaker patched
     
-    *   Florida county elections hit with ransomware before 2016 elections
-    *   Philips WiFi light bulb vulnerable to attack
-    *   French plastic surgery image repository left vulnerable but since corrected: report
-    *   Netanyahu's Likud Party election app leaked personal info on Israel's 6.4M voters
-    *   No glossing this over: Leaky Estée Lauder database exposes 440M records
-    
-    *   IBM pulls out of RSA over coronavirus fears
-    *   Justice Dept. expands Huawei indictment, charging 5G espionage
-    *   French plastic surgery image repository left vulnerable but since corrected: report
-    *   Hidden Cobra adds to its malware arsenal: CISA
+    *   Cyberattackers bringing more weapons to bear on real estate deals
+    *   Report: Extortionists threaten websites with AdSense ban caused by bot traffic
+    *   U.S. indicts four Chinese military members over Equifax breach
+    *   The evolution of shared responsibility in cloud security
     *   Idaho Central Credit Union reports two breaches
+    
+    *   Lokibot now using fake Epic Games installer to fool victims
+    *   Report: Extortionists threaten websites with AdSense ban caused by bot traffic
+    *   Dell sells RSA to Symphony Technology Group in $2B deal
+    *   Fox Kitten APT campaign exploits VPN flaws hours after public disclosure
+    *   Cyberinsurance: The value from an incident response lens
 
 Back to Top
 
@@ -264,6 +264,6 @@ Back to Top
 
 <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
 
-You can skip this ad in 1 seconds.
+You can skip this ad in 2 seconds.
 
 Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
