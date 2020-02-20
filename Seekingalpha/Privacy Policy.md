@@ -7,15 +7,14 @@ Sign inMarketplaceSubscribe
 *   Premium
     
     *   Premium Overview
+    *   Compare Stocks &. Funds
     *   News Dashboard
+    *   Notable Calls
     *   Portfolio Ratings
     *   Portfolio Factor Grades
     *   Portfolio Up/Downgrades
     *   Stock Ratings Screener
     *   Upgrades &. Downgrades
-    *   Compare Stocks &. Funds
-    *   Stock Research (Tour)
-    *   Stock Ratings (Tour)
     
     *   Top Rated Stocks
     *   Top Dividend Stocks
