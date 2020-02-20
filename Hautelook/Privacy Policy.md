@@ -7,15 +7,43 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Designer Sun ft. Tom Ford
-    *   Wear to Work: Shoes ft. Calvin Klein
-    *   NANETTE nanette lepore Incl. Plus
+    *   BIRKENSTOCK
+    *   True Religion Up to 65% Off
+    *   True Religion Men Up to 70% Off
+    *   Cloth &. Stone
+    *   BIRKENSTOCK Men
+    *   Daily Deal: Motion Sensor Trash Cans Up to 50% Off
+    *   Daily Deal: Koolaburra by UGG Tynlee Boots at $74.98
+    *   Daily Deal: Sperry Women's Duck Boots at $84.97
+    *   Daily Deal: GV2 Moon Valley Watches Up to 84% Off
+    *   Daily Deal: Kids' Free Country Puffers at 70% Off
+    *   Daily Deal: Joseph Abboud Suede Loafers at $30
+    *   Festival-Ready Styles ft. Angie
+    *   True Religion Kids Up to 65% Off
+    *   Turn Up the Texture: Ribbed &. Waffle Knits
+    *   Date Night: Shoes ft. Jessica Simpson
+    *   GUESS Outerwear Up to 65% Off
+    *   TR Premium
+    *   Set to Sweat: Active Under $40
+    *   Cozy Classics: Robes Up to 60% Off
+    *   Exclusively Ours: Shoes from $30 ft. Abound
+    *   Ready, Set, Sail: Nylon Bags &. More from $30
+    *   On-Trend 14K Gold &. More from $23
+    *   Home Decor Starting at $15
+    *   Ted Baker London Men's Shoes
+    *   BIRKENSTOCK Kids
+    *   Korean Beauty: COSRX &. More Starting at $10
+    *   Treat Yourself: Body Care Under $20
     *   Cookware Faves ft. Le Creuset Marine Collection
-    *   Love at First Sight: On-Trend Dresses
     *   For the Home Chef: Miyabi Cutlery Sets
+    
     *   Quality Cookware Up to 55% Off
     *   Dinnerware Sets &. More Up to 65% Off
+    *   Designer Sun ft. Tom Ford
+    *   NANETTE nanette lepore Incl. Plus
     *   Calvin Klein Outerwear
+    *   Wear to Work: Shoes ft. Calvin Klein
+    *   Love at First Sight: On-Trend Dresses
     *   Go Couture Dresses Up to 75% Off
     *   Tailored Perfection: Suits Under $250
     *   DR2 by Daniel Rainn &. Pleione Incl. Plus
@@ -35,70 +63,62 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Harper Canyon Under $20
     *   National Geographic Books
     *   Frye Up to 60% Off
-    
     *   Frye Men Up to 55% Off
-    *   Frye Bags &. Accessories Up to 50% Off
-    *   Luxe Brands Up to 70% Off
     *   Josie Maran Up to 50% Off
-    *   Ella Moss &. Splendid Swim
-    *   Current Air &. More Up to 65% Off
-    *   Mad for Plaid: Tops, Jackets &. More
     *   Leather Bags, Backpacks &. More ft. Frye
+    
     *   Crocs Kids
-    *   Cole Haan Outerwear Up to 75% Off
-    *   It Knits: Tops Under $40
     *   Get Outside: Men's Active Outerwear
-    *   Sofft Up to 50% Off
     *   Free Shipping: Wall Decals Up to 55% Off
     *   Snow Teeth Whitening Starting at $10
-    *   Betsey Johnson Up to 50% Off
     *   Free Shipping: Storage Must-Haves from $15
     *   Florsheim
     *   Joe Fresh Kids Starting at $10
-    *   Vertigo Up to 80% Off
-    *   Spring Savings: Styles Up to 80% Off
-    *   Sterling Forever Jewelry Up to 60% Off
-    *   Men's Styles Up to 70% Off
-    *   Coats Up to 70% Off
     *   Men's Shoes Up to 70% Off
-    *   GOOD AMERICAN Up to 65% Off
     *   Bally Men's Shoes
-    *   adidas Kids' Activewear
-    
-    *   Lafonn Jewelry Up to 65% Off
     *   PUR Starting at $10
     *   Beach Ready: Towels Up to 60% Off
-    *   Baby Shower Gifts Starting at $10
     *   Free Shipping: Comforters, Duvets &. More
     *   adidas Men
-    *   Still Sweater Weather: Men's Pullovers &. More
     *   Vegan &. Plant Derived Natural Skin Care
-    *   adidas Kids
-    *   Pajama Party: Kids' Sleepwear Up to 65% Off
     *   No-Frills Face Moisturizer: Embryolisse Skin Care
     *   Hair Tools 101: Flat Irons, Brushes &. More
     *   Thank You Cards &. Notebooks from $10
-    *   Saucony Men
-    *   Multi-Masking: Korean Beauty from $15
     *   Free Shipping: Wall Decor &. Accents
-    *   ORA Derma Roller &. Microdermabrasion Tools
     *   Free Shipping: Luxe Faux Fur Pillows &. Throws
     *   Instant Cameras ft. Instax Mini by Fujifilm
-    *   Free Shipping: Wall Art Up to 70% Off
-    *   Luxe Bedding ft. Vera Wang &. More
     *   Wearable Tech Up to 70% Off
-    *   John Varvatos Star USA
     *   Luxe Bathroom Decor from $10
     *   Nicole Miller Baby &. More
-    *   Sandals, Pumps &. More Up to 70% Off
+    *   Luxe Brands Up to 70% Off
+    *   Cole Haan Outerwear Up to 75% Off
+    *   It Knits: Tops Under $40
+    *   Spring Savings: Styles Up to 80% Off
 *   WomenShop Sale Events
     
+    *   BIRKENSTOCK
+    *   True Religion Up to 65% Off
+    *   Cloth &. Stone
+    *   Daily Deal: Koolaburra by UGG Tynlee Boots at $74.98
+    *   Daily Deal: Sperry Women's Duck Boots at $84.97
+    *   Festival-Ready Styles ft. Angie
+    *   Turn Up the Texture: Ribbed &. Waffle Knits
+    *   Date Night: Shoes ft. Jessica Simpson
+    *   GUESS Outerwear Up to 65% Off
+    *   Set to Sweat: Active Under $40
+    *   Cozy Classics: Robes Up to 60% Off
+    *   Exclusively Ours: Shoes from $30 ft. Abound
+    *   Ready, Set, Sail: Nylon Bags &. More from $30
+    *   On-Trend 14K Gold &. More from $23
+    *   Korean Beauty: COSRX &. More Starting at $10
+    *   Treat Yourself: Body Care Under $20
     *   Designer Sun ft. Tom Ford
-    *   Wear to Work: Shoes ft. Calvin Klein
     *   NANETTE nanette lepore Incl. Plus
-    *   Love at First Sight: On-Trend Dresses
     *   Calvin Klein Outerwear
+    *   Wear to Work: Shoes ft. Calvin Klein
+    *   Love at First Sight: On-Trend Dresses
     *   Go Couture Dresses Up to 75% Off
+    
     *   DR2 by Daniel Rainn &. Pleione Incl. Plus
     *   Work It: Blazers Incl. Plus &. Petites
     *   Felina Lingerie &. Sleep
@@ -111,84 +131,71 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Neon &. Co. Hair Masks, Treatments &. More
     *   LEWIS N. CLARK Under $30
     *   Frye Up to 60% Off
-    *   Frye Bags &. Accessories Up to 50% Off
-    *   Luxe Brands Up to 70% Off
     *   Josie Maran Up to 50% Off
-    
-    *   Ella Moss &. Splendid Swim
-    *   Current Air &. More Up to 65% Off
-    *   Mad for Plaid: Tops, Jackets &. More
-    *   Cole Haan Outerwear Up to 75% Off
-    *   It Knits: Tops Under $40
-    *   Sofft Up to 50% Off
     *   Snow Teeth Whitening Starting at $10
-    *   Betsey Johnson Up to 50% Off
-    *   Vertigo Up to 80% Off
-    *   Spring Savings: Styles Up to 80% Off
-    *   Sterling Forever Jewelry Up to 60% Off
-    *   Coats Up to 70% Off
-    *   GOOD AMERICAN Up to 65% Off
-    *   Lafonn Jewelry Up to 65% Off
     *   PUR Starting at $10
     *   Vegan &. Plant Derived Natural Skin Care
     *   No-Frills Face Moisturizer: Embryolisse Skin Care
     *   Hair Tools 101: Flat Irons, Brushes &. More
-    *   Multi-Masking: Korean Beauty from $15
-    *   ORA Derma Roller &. Microdermabrasion Tools
-    *   Sandals, Pumps &. More Up to 70% Off
+    *   Luxe Brands Up to 70% Off
+    *   Cole Haan Outerwear Up to 75% Off
+    *   It Knits: Tops Under $40
+    *   Spring Savings: Styles Up to 80% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
+    *   Lingerie &. Shapewear
     *   Jewelry
     *   Accessories
     *   Handbags
-    *   Lingerie &. Shapewear
 *   MenShop Sale Events
     
+    *   True Religion Men Up to 70% Off
+    *   BIRKENSTOCK Men
+    *   Daily Deal: Joseph Abboud Suede Loafers at $30
+    *   TR Premium
+    *   Ted Baker London Men's Shoes
     *   Designer Sun ft. Tom Ford
     *   Tailored Perfection: Suits Under $250
     *   Lacoste Lounge
     *   LEWIS N. CLARK Under $30
+    
     *   Lacoste Men's Footwear
     *   Frye Men Up to 55% Off
     *   Leather Bags, Backpacks &. More ft. Frye
     *   Get Outside: Men's Active Outerwear
-    
     *   Florsheim
-    *   Men's Styles Up to 70% Off
     *   Men's Shoes Up to 70% Off
     *   Bally Men's Shoes
     *   adidas Men
-    *   Still Sweater Weather: Men's Pullovers &. More
-    *   Saucony Men
-    *   John Varvatos Star USA
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Daily Deal: Kids' Free Country Puffers at 70% Off
+    *   True Religion Kids Up to 65% Off
+    *   BIRKENSTOCK Kids
     *   Harper Canyon Under $20
     *   National Geographic Books
     *   Crocs Kids
     *   Joe Fresh Kids Starting at $10
-    *   adidas Kids' Activewear
-    *   Baby Shower Gifts Starting at $10
-    *   adidas Kids
-    *   Pajama Party: Kids' Sleepwear Up to 65% Off
     *   Nicole Miller Baby &. More
     
     Shop By Category
-    *   Baby
     *   Girls
+    *   Baby
     *   Boys
+    *   Toys
     *   Girls' Shoes
     *   Boys' Shoes
-    *   Toys
 *   HomeShop Sale Events
     
+    *   Daily Deal: Motion Sensor Trash Cans Up to 50% Off
+    *   Home Decor Starting at $15
     *   Cookware Faves ft. Le Creuset Marine Collection
     *   For the Home Chef: Miyabi Cutlery Sets
     *   Quality Cookware Up to 55% Off
@@ -196,24 +203,22 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Free Shipping: Decorative Pillows &. Throws
     *   LEWIS N. CLARK Under $30
     *   Free Shipping: Wall Decals Up to 55% Off
+    
     *   Free Shipping: Storage Must-Haves from $15
     *   Beach Ready: Towels Up to 60% Off
-    
     *   Free Shipping: Comforters, Duvets &. More
     *   Thank You Cards &. Notebooks from $10
     *   Free Shipping: Wall Decor &. Accents
     *   Free Shipping: Luxe Faux Fur Pillows &. Throws
     *   Instant Cameras ft. Instax Mini by Fujifilm
-    *   Free Shipping: Wall Art Up to 70% Off
-    *   Luxe Bedding ft. Vera Wang &. More
     *   Wearable Tech Up to 70% Off
     *   Luxe Bathroom Decor from $10
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Bedding
     *   Electronic &. Tech Accessories
+    *   Bedding
     *   Bath
     *   Cleaning &. Organization
     *   Outdoor Living
@@ -222,24 +227,24 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Korean Beauty: COSRX &. More Starting at $10
+    *   Treat Yourself: Body Care Under $20
     *   Our Favorite Makeup Brands ft. Urban Decay
     *   Liquid IV: Hydration Powder Supplements
     *   Neon &. Co. Hair Masks, Treatments &. More
     *   Josie Maran Up to 50% Off
+    
     *   Snow Teeth Whitening Starting at $10
     *   PUR Starting at $10
-    
     *   Vegan &. Plant Derived Natural Skin Care
     *   No-Frills Face Moisturizer: Embryolisse Skin Care
     *   Hair Tools 101: Flat Irons, Brushes &. More
-    *   Multi-Masking: Korean Beauty from $15
-    *   ORA Derma Roller &. Microdermabrasion Tools
     
     Shop By Category
     *   Makeup
     *   Skin Care
-    *   Hair Care
     *   Bath &. Body
+    *   Hair Care
     *   Tools &. Accessories
     *   Makeup Bags
 
