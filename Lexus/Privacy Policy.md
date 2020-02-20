@@ -95,7 +95,7 @@ COMPARE **UX**
 
 **NX HYBRID**
 
-*   Starting at $39,2701\*
+*   Starting at $39,4201\*
 *   31-MPG COMBINED ESTIMATE8\*
 
 *   Build
@@ -179,7 +179,7 @@ COMPARE **UX HYBRID**
 
 **NX HYBRID**
 
-*   Starting at $39,2701\*
+*   Starting at $39,4201\*
 *   31-MPG COMBINED ESTIMATE8\*
 
 *   Build
@@ -507,4 +507,4 @@ Chrome™ Notice for Safari® Users
 To ensure your experience on lexus.com is as exceptional as our vehicles, we no longer support safari® 8 and older. We do, however, support version 9.0+ and other browsers. to upgrade your current browser, click here. or to install a new one, select a link below.
 
 Firefox® Google  
-Chrome™ Cookie ConsentWe use the following categories of cookies on our website:Required Functional CookiesRequired cookies are essential to provide you with core functionality during use of the website. These functions include e.g. Local Specials, Offers, Dealer Locator, etc. We also collect basic site usage analytics to optimize the experience for our visitors.Performance CookiesPerformance cookies collect information about how our website is used (e.g. number of visits, time spent on the site). These cookies allow us to serve more relevant content for an enhanced shopping experience.CancelSave
+Chrome™
