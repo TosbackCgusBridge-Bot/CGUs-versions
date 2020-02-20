@@ -119,53 +119,53 @@
     *   About
     *   Media Kit
 
-*   _Kevin Brock_: McCabe and the Danger of a Double Standard for Justice
+*   _Peter Beinart_: Among Ordinary Democrats, Sanders Is Strikingly Popular
     
-*   _Sarada Peri_: Trump and Republicans Are Going to Cheat to Win in 2020
+*   _Mollie Hemingway_: Panicked Democrat Establishment Turns to Bloomberg
     
-*   _David Harsanyi_: Why Haven't Obama Officials Faced Consequences for Lying?
+*   _Kalev Leetaru_: In TV Mentions, Bloomberg Surges to the Fore
     
-*   _Nate Silver_: Does Sanders Have a Ceiling? Maybe. Can He Win Anyway? Yes
+*   _Robin Abcarian_: Calm Down, Dems. You Can Still Beat Trump in Nov
     
-*   _Jason Sattler_: Can Bloomberg's Cash Buy the Democratic Nomination?
+*   _David Harsanyi_: Democrats Still Haven't Come to Terms With 2016
     
-*   _Sharyl Attkisson_: Why Trump's Secured 2nd Term No Matter Who Dems Pick
+*   _Michael Conway_: Trump Disrespects Rule of Law With Attacks on Judges
     
-*   _Anne Krueger_: Trump's 'Currency Manipulation' Con
+*   _Margot Cleveland_: Partisan Bias in Letter Demanding Barr's Resignation
     
-*   _Jeffrey Wasserstrom_: Global Impact: China's 1989 vs. Hong Kong's 2019
+*   _Clay Risen_: To Save Scouting, the Boy Scouts May Have to Go
     
-*   _Ken Blackwell_: Black History Month: Justice Thomas Shouldn't Be Ignored
+*   _Richard Bernstein_: Boys Will Be Girls &. Feminists Will Be Furious
     
-*   _Morton Kondracke_: Neal Simon's Roadmap Out of Our Partisan Morass
+*   _Carl Cannon_: Betty Friedan's Groundbreaking 'Mystique'
     
-*   _Dan Pfeiffer_: Democrats Beware: Don't Be Like Mitt Romney in 2012
+*   _Scott Jennings_: Dems Facing Dilemma Over Front-Running Sanders
     
-*   _Bill Whalen_: Biden's Stuck Between Barack Obama and a Hard Place
+*   _Emily Stewart_: Bloomberg and His Billions Are What Democrats Need to Win
     
-*   _Nicholas Kristof_: I Worry About Sanders, and His Coattails
+*   _Harold Meyerson_: There's No Way Bloomberg Can Beat Trump
     
-*   _Byron York_: Who's Complaining About Investigations Now?
+*   _Tom Bevan_: One Thing Michael Bloomberg's Money Can't Buy
     
-*   _Julian Zelizer_: Donald Trump Is the Most Radical 2020 Candidate
+*   _Joseph Curl_: Are the Dems Headed to a Contested Convention?
     
-*   _Christopher Bedford_: The Trouble With Media's Never-Trump Waterboys
+*   _Jeffrey Toobin_: The Trouble With Trump's Pardons
     
-*   _Eric Kaufmann_: Is Political Correctness Making the Left Unelectable?
+*   _Philip Wegmann_: WH: Trump Has 'Every Right' to Act in Criminal Cases
     
-*   _Raul Reyes_: Trump's 'Sanctuary Cities' Siege Is a Trick
+*   _Robert Reich_: Trump &. Barr Have Bulldozed All Progress Since Watergate
     
-*   _Kristian Ramos_: Latino Support for Trump Is Real--&. It's a Problem for Dems
+*   _Jonathan Turley_: In Defense of William Barr
     
-*   _James Rosen_: Does Peter Bergen Truly Understand Trump?
+*   _Alan Maass_: The Future of Democratic Socialism Starts Here
     
-*   _Uri Friedman_: America's Allies Are Unconvinced on Cold War With China
+*   _Kevin Williamson_: Trouble in the Workers' Paradise
     
-*   _David Goldman_: Time's Running Out: U.S. Needs High-Tech Manhattan Project
+*   _Rebecca Traister_: Maine's Immoderate Susan Collins
     
-*   _Mark Hemingway_: FBI Raids James Biden-Tied Business
+*   _Sean Davis_: So God Made A Bloomberg
     
-*   _Juan Williams_: Don't Count Biden Out of the Democratic Race
+*   _Timothy McLaughlin_: Coronavirus Is Devastating Chinese Tourism
     
 
 *   Previous
@@ -236,11 +236,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   White House: Trump Has "Every Right" to Act in Criminal Cases
 *   Bloomberg Makes Debate Stage, Facing Dem Rivals for 1st Time
-*   Buried in IG Report: How an FBI Team in Rome Gave Steele Secrets
-*   Short: There Must Be Accountability for Bias at DOJ Against Trump
+*   Sanders: Bloomberg Has No Right to Buy This Nomination
 *   Some Congressional Dems Worry Sanders Nomination Would Hurt Ticket
-*   Trump Got Impeached--But Is Biden Campaign the Casualty?
+*   Buried in IG Report: How an FBI Team in Rome Gave Steele Secrets
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -254,6 +254,31 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
+*   South Carolina Democratic Presidential PrimaryUMass Lowell
+    *   Biden23
+    *   Sanders21
+    *   Steyer13
+    *   Buttigieg11
+    *   Warren11
+    *   Klobuchar9
+    *   Gabbard4Biden +2
+*   South Carolina Democratic Presidential PrimaryChange Research
+    *   Biden23
+    *   Sanders23
+    *   Steyer20
+    *   Buttigieg15
+    *   Warren9
+    *   Klobuchar8
+    *   Gabbard1Tie
+*   2020 Democratic Presidential NominationABC News/Wash Post
+    *   Sanders32
+    *   Biden16
+    *   Bloomberg14
+    *   Warren12
+    *   Buttigieg8
+    *   Klobuchar7
+    *   Steyer2
+    *   Gabbard1Sanders +16
 *   2020 Democratic Presidential NominationEmerson
     *   Sanders29
     *   Biden22
@@ -261,25 +286,16 @@ Latest PollsAll Polls
     *   Warren12
     *   Buttigieg8
     *   Klobuchar6
-    *   Gabbard4
-    *   Steyer3Sanders +7
-*   General Election: Trump vs. SandersEmerson
-    *   Sanders51
-    *   Trump49Sanders +2
-*   General Election: Trump vs. ButtigiegEmerson
-    *   Buttigieg49
-    *   Trump51Trump +2
-*   General Election: Trump vs. KlobucharEmerson
-    *   Klobuchar49
-    *   Trump51Trump +2
+    *   Steyer3
+    *   Gabbard4Sanders +7
 
 More Latest Polls In The News
 
-*   Sanders: Bloomberg Doesn't Have The Right To Buy This Election, "Obscene" That He Skipped Early States
-*   Meghan McCain: "You Guys Have Done A Piss-Poor Job Of Convincing Me I Should Vote For A Democrat"
-*   Sen. Cotton: Fake News Angrier At Me For Raising Questions About Coronavirus Origins Than At Chinese
-*   Mark Penn: "This Is Really The Last Hope For Accountability" On Trump-Russia Investigation Spying
-*   Marc Short: There Must Be Accountability For The Bias At The Department Of Justice Against Trump
+*   Trump: Top "Scum" At FBI Would Be In Jail For 50 Years If They Did To Democrats What They Did To Me
+*   Bernie Sanders to Mike Bloomberg: You Have A "Grotesque And Immoral" Amount Of Wealth
+*   Buttigieg: Dems Shouldn't Have To Choose Between Candidates That Want To Burn Party Down or Buy It
+*   Bloomberg Won't Release Alleged Sexual Harassment Victims From NDAs That Were "Made Consensually"
+*   Chris Matthews: Bernie Sanders Is "Full Of It," Would Lose 49 States To Trump Like McGovern In 1972
 
 *   Politics
 *   Policy
