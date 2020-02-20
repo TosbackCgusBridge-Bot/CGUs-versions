@@ -10,7 +10,7 @@ skip to content skip to navigation skip to search
 *   Ship To
 *   Help Center
 
-Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Order History Edit Order Refer a Friend for 40% OFF Full Price Items! Bag 0
+Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Order History Edit Order Refer a Friend for 50% OFF Full Price Items! Bag 0
 
 *   Women
 *   Men
@@ -28,6 +28,8 @@ Lands' End Sign In menu
 0 Free Shipping on $75+
 
 Receive 40% off your order!
+
+Only 0 HR 08 MIN 49 SEC Left!
 
 code: FAMILY pin: PROMOTION DETAILS
 
