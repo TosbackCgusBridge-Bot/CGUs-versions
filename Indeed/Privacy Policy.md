@@ -1,4 +1,4 @@
-HR Tech Privacy
+HR Tech Privacy Back to Indeed
 
 *   Home
 *   Our Sites
@@ -575,7 +575,7 @@ We also cover these topics more expansively in our Full Privacy Policy: sections
 
 To learn more about Indeed’s approach to California’s “_Do not sell my personal information_” requirement, why it applies to your use of our Site, and how you can exercise this right, please go to https://www.indeed.com/legal/ccpa-dns. There, we explain how California has defined as “sales” under the CCPA certain transfers of Personal Data between Indeed and its affiliates that are integral to the products and services we offer to our users. We do **not** “sell” your Personal Data in the traditional sense. More information on Indeed’s affiliates and our inter-affiliate transfers can be found in our Privacy Center at https://hrtechprivacy.com/.
 
-California’s “_Shine the Light_” law (Civil Code section 1798.83) also permits California residents once per calendar year to request and receive information about a business’ disclosure of certain categories of Personal Data to other companies for direct marketing purposes. If you are a California resident and a user of our Site, you can request a copy of this information from Indeed by sending an email to privacy-dept @ indeed.com (remove spaces). Please include your name and email address with your request. Indeed reserves the right to request additional Personal Data from you to confirm your identity before responding to this request.
+Under California’s “_Shine the Light_” law (Civil Code section 1798.83), California residents have certain rights regarding the disclosure of their Personal Data to third parties for their own direct marketing purposes. Indeed’s policy is not to disclose your Personal Data to third parties for the third parties’ direct marketing purposes if you have exercised your option to prevent that information from being disclosed to third parties for those purposes. If you wish to not have your personal information shared for those purposes, you may request that we delete your Personal Data by following the steps outlined in Section 10 of this Privacy Policy.
 
 **13.3 The Right to Non-Discrimination for Exercising Your Privacy Rights**
 
