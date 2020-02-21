@@ -1,16 +1,16 @@
-Top StoriesFeatured MavensPressInvestorsMaven
+MavenTop StoriesFeatured MavensPressInvestors
 
-*   Featured Mavens
-*   Press
-*   Investors
+1.  Maven Coalition
 
-Maven CorpRoundtableFacebook ZooMavensLogin
+3.  Maven
 
-*   Maven Coalition
+5.  Pages
 
-*   Home
+PRIVACY POLICY
 
-PRIVACY POLICYbyMavenStaffDec 27, 2019-edited
+MavenStaff
+
+Dec 27, 2019
 
 **Effective Date:** **January 1, 2020**
 
@@ -55,7 +55,7 @@ We may also obtain information about you from other sources. For example, we may
 We use the information we collect to provide our Services and to customize your experience with the Services, including to show content and advertising that we think is likely to be of interest to you. We also use the information we collect to:
 
 *   Communicate with you about products, services, and events offered by Maven and others, and provide news and information we think will be of interest to you;
-*   Monitor and analyze trends, usage, and activities in connection with our Services.
+*   Monitor and analyze trends, usage, and activities in connection with our Services;
 *   Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Maven and others;
 *   Facilitate contests, sweepstakes, and promotions and process and deliver entries and rewards. and
 *   Carry out any other purpose described to you at the time the information was collected.
@@ -68,10 +68,10 @@ To allow Partners to earn advertising from their content, we share identifiers t
 
 We may also share the information we collect as follows:
 
-*   With vendors, service providers, and consultants that perform services for us, including email providers, IT service providers, and web hosting providers.
+*   With vendors, service providers, and consultants that perform services for us, including email providers, IT service providers, and web hosting providers;
 *   In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements;
 *   If we believe your actions are inconsistent with our user agreements or policies, if we believe you have violated the law, or to protect the rights, property, and safety of Maven, Partners, or others;
-*   In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company.
+*   In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;
 *   Between and among our current and future parents, affiliates, subsidiaries, and other companies under common control and ownership, including but not limited to Say Media. and
 *   With your consent or at your direction.
 
@@ -79,7 +79,7 @@ We may also share aggregated information that cannot reasonably be used to ident
 
 **SOCIAL SHARING FEATURES**
 
-The Services may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Services or with Partners with other media_._ Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+The Services may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Services or with Partners with other media\*.\* Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
 
 **ADVERTISING AND ANALYTICS SERVICES PROVIDED BY OTHERS**
 
@@ -93,7 +93,7 @@ Maven is based in the United States and we process and store information in the 
 
 **Account Information**
 
-You may update certain account information you provide to us at any time by logging into your account_._ If you wish to delete or deactivate your account, please email us at **service@maven.io**, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
+You may update certain account information you provide to us at any time by logging into your account\*.\* If you wish to delete or deactivate your account, please email us at **service@maven.io**, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
 
 **Cookies**
 
@@ -134,9 +134,9 @@ We store the information we collect on you for as long as is necessary for the p
 
 If you have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data privacy authority where you reside. For contact details of your Data Protection Authority, please see:
 
-http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index\_en.htm.
+.
 
-**Privacy Notice for California Residents**
+\[Archived content\]Data Protection Authorities - European CommissionAlternate members of the Article 29 Working Partyec.europa.eu **Privacy Notice for California Residents**
 
 **Effective Date:** January 1, 2020
 
@@ -253,7 +253,7 @@ We may share your personal information with the following categories of third pa
 *   Service providers.
 *   Partners. “Partners” third-party content creators and publishers
 
-**_Disclosures of Personal Information for a Business Purpose_**
+_**Disclosures of Personal Information for a Business Purpose**_
 
 In the preceding twelve (12) months, we have disclosed the following categories of personal information for a business purpose:
 
@@ -280,7 +280,7 @@ We disclose your personal information for a business purpose to the following ca
 *   Service providers.
 *   Partners.
 
-**_Sales of Personal Information_**
+_**Sales of Personal Information**_
 
 In the preceding twelve (12) months, we have shared/sold the following categories of personal information:
 
@@ -310,7 +310,7 @@ We sell your personal information to the following categories of third parties:
 
 The CCPA provides consumers (California residents) with specific rights regarding their personal information. This section describes your CCPA rights and explains how to exercise those rights.
 
-**_Access to Specific Information and Data Portability Rights_**
+_**Access to Specific Information and Data Portability Rights**_
 
 You have the right to request that we disclose certain information to you about our collection and use of your personal information over the past 12 months. Once we receive and confirm your verifiable consumer request (see Exercising Access, Data Portability, and Deletion Rights), we will disclose to you:
 
@@ -323,7 +323,7 @@ You have the right to request that we disclose certain information to you about 
     *   sales, identifying the personal information categories that each category of recipient purchased. and
     *   disclosures for a business purpose, identifying the personal information categories that each category of recipient obtained.
 
-**_Deletion Request Rights_**
+_**Deletion Request Rights**_
 
 You have the right to request that we delete any of your personal information that we collected from you and retained, subject to certain exceptions. Once we receive and confirm your verifiable consumer request (see Exercising Access, Data Portability, and Deletion Rights), we will delete (and direct our service providers to delete) your personal information from our records, unless an exception applies.
 
@@ -339,7 +339,7 @@ We may deny your deletion request if retaining the information is necessary for 
 8.  Comply with a legal obligation.
 9.  Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
 
-**_Exercising Access, Data Portability, and Deletion Rights_**
+_**Exercising Access, Data Portability, and Deletion Rights**_
 
 To exercise the access, data portability, and deletion rights described above, please submit a verifiable consumer request to us by either:
 
@@ -362,7 +362,7 @@ We will only use personal information provided in a verifiable consumer request 
 
 For instructions on exercising sale opt-out rights, see Personal Information Sales Opt-Out and Opt-In Rights.
 
-**_Response Timing and Format_**
+_**Response Timing and Format**_
 
 We aim to respond to a verifiable consumer request within forty-five (45) days of its receipt. If we require more time (up to 90 days), we will inform you of the reason and extension period in writing.
 
@@ -372,7 +372,7 @@ Any disclosures we provide may only cover the 12-month period preceding the veri
 
 We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
 
-**_Personal Information Sales Opt-Out and Opt-In Rights_**
+_**Personal Information Sales Opt-Out and Opt-In Rights**_
 
 If you are 16 years of age or older, you have the right to direct us to not sell your personal information at any time (the "right to opt-out"). We do not sell the personal information of consumers we actually know are less than 16 years of age, unless we receive affirmative authorization (the "right to opt-in") from either the consumer who is at least 13 but not yet 16 years of age, or the parent or guardian of a consumer less than 13 years of age. Consumers who opt-in to personal information sales may opt-out of future sales at any time.
 
@@ -403,4 +403,4 @@ If you have any questions about this Privacy Policy, please contact us at: 1500 
     
 *   Comment
 
-Comments Sort: Newest
+Comments
