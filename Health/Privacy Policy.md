@@ -1,6 +1,6 @@
 YOUR PRIVACY MATTERS
 
-Effective Date: January 1, 2020
+Effective Date: February 12, 2020
 
 Hi we are Meredith! Meredith Corporation and our brands focus on providing you with destinations you can trust and rely on for every stage of your life to connect you to great content, products and services and personalize your experience with us.
 
@@ -23,9 +23,7 @@ Read this policy in full, here.  Here are the highlights:
 *   **Online identifiers** (such as IP address, internal and third party identifiers, advertising identifiers and device information like unique device ID)
 *   **Location Data** (like your address, city, and zip code, collected in limited circumstances)
 *   **Internet Activity Information** (such as browsing history, information on how you interact with our Sites (e.g. which articles or ads you click on, whether you click on links in our emails), and your interactions with social media platform features)
-
-§  **Inferences about Your Interests, Preferences and other Behavioral Data** (such as hobbies, and interests (e.g. your favorite foods, purchases or recipes) and consuming tendencies)
-
+*   **Inferences about Your Interests, Preferences and other Behavioral Data** (such as hobbies, and interests (e.g. your favorite foods, purchases or recipes) and consuming tendencies)
 *   **Publicly Available Information** (such as your posts and submissions to blogs, video-sharing services, and other interactive forums)
 
 **MORE**
@@ -329,9 +327,7 @@ Meredith is responsible for the processing of personal information it receives u
 
 The U.S. Federal Trade Commission has jurisdiction over Meredith’s compliance with its obligations under the EU-U.S. Privacy Shield.  In certain situations, Meredith may be required to disclose personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. 
 
-In compliance with the Privacy Shield Principles, Meredith commits to resolve complaints about our collection or use of your personal information.  EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at privacy@meredith.com.
-
-Meredith has further committed to refer unresolved Privacy Shield complaints to JAMS, an established alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit JAMS or call 800-352-5267 to file a complaint.  If the arbitrator finds that you cannot afford to pay JAMS's filing, administrative, hearing and/or other fees and you cannot obtain a waiver from JAMS, Meredith will pay them for you.
+In compliance with the Privacy Shield Principles, Meredith commits to resolve complaints about our collection or use of your personal information.  EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at privacy@meredith.com If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, you may submit your complaint at no cost to you to JAMS, our independent recourse mechanism, at https://www.jamsadr.com/eu-us-privacy-shield. In the event there are residual complaints that have not been resolved by JAMS, or any other means, you may seek a non-monetary remedy through binding arbitration to be provided to you in accordance with the Privacy Shield Principles.
 
 §  **Changes to Our Privacy Policy.** Digital technology is rapidly evolving. If we decide to change our Privacy Statement in the future, we'll post the changes here and indicate at the top of the policy the last date on which it was updated. Unless otherwise noted, all changes will be effective when posted.
 
@@ -530,6 +526,8 @@ If you have any questions or concerns about the Meredith Corporation. Privacy St
 
 **Meredith Corporation**
 
+Attn: Privacy Officer
+
 1716 Locust Street
 
 Des Moines, Iowa 50309
@@ -537,5 +535,3 @@ Des Moines, Iowa 50309
 privacy@meredith.com
 
 1-515-284-3000
-
-Attn: Privacy Officer
