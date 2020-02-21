@@ -83,6 +83,7 @@ Close submenu ( Jeans ) Jeans
 Close submenu ( Girls Jeans ) Girls Jeans
 
 *   View All
+*   Buy 1 Get 1 Free
 *   Destroyed Denim
 *   Jeggings
 *   High Rise Jeans
@@ -105,6 +106,7 @@ Close submenu ( Girls Jeans ) Girls Jeans
 Close submenu ( Guys Jeans ) Guys Jeans
 
 *   View All
+*   Buy 1 Get 1 Free
 *   Destroyed Denim
 *   Skinny Jeans
 *   Slim Jeans
@@ -189,7 +191,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**60% Off Everything**  GIRLS GUYS **+ Free Ship $50**
+**Buy 1 Get 1 Free Jeans** ** GIRLS GUYS + FS Over $50**
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -253,6 +255,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls Jeans
         *   View All
+        *   Buy 1 Get 1 Free
         *   Destroyed Denim
         *   Jeggings
         *   High Rise Jeans
@@ -274,6 +277,7 @@ Menu Find a Store Aeropostale
     
     *   Guys Jeans
         *   View All
+        *   Buy 1 Get 1 Free
         *   Destroyed Denim
         *   Skinny Jeans
         *   Slim Jeans
@@ -354,69 +358,18 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ORDERS OVER $50 Search Catalog Search AERO PRESIDENTS' DAY SALE 60% OFF EVERYTHING
+ORDERS OVER $50 Search Catalog Search
 
-Including Our Collection of Jeans &. New Arrivals In Stores &. Online!
+In Stores &. Online
 
-Including Our Collection of Jeans &. New Arrivals In Stores &. Online!
+50-70% OFF EVERYTHING
 
-Exclusions Apply Exclusions Apply Shop Girls Shop Guys Find a Store Find a Store Previous GIRLS SHORTS
+50-70% OFF  
+EVERYTHING
 
-WAS $46.50
+Including 100s of New Arrivals!
 
-NOW $19 Shop Girls Shorts GUYS SHORTS
-
-WAS $49.50
-
-NOW $20 Shop Guys Shorts GIRLS HOODIES
-
-WAS $49.50
-
-NOW $20 Shop Girls Hoodies GUYS HOODIES
-
-WAS $49.50
-
-NOW $20 Shop Guys Hoodies GIRLS JEANS
-
-WAS $46.50
-
-NOW $19 Shop Girls Jeans GUYS JEANS
-
-WAS $54.50
-
-NOW $22 Shop Guys Jeans GIRLS SHORTS
-
-WAS $46.50
-
-NOW $19 Shop Girls Shorts GUYS SHORTS
-
-WAS $49.50
-
-NOW $20 Shop Guys Shorts GIRLS HOODIES
-
-WAS $49.50
-
-NOW $20 Shop Girls Hoodies GUYS HOODIES
-
-WAS $49.50
-
-NOW $20 Shop Guys Hoodies GIRLS JEANS
-
-WAS $46.50
-
-NOW $19 Shop Girls Jeans GUYS JEANS
-
-WAS $54.50
-
-NOW $22 Shop Guys Jeans GIRLS SHORTS
-
-WAS $46.50
-
-NOW $19 Shop Girls Shorts GUYS SHORTS
-
-WAS $49.50
-
-NOW $20 Shop Guys Shorts Next Previous
+Shop Girls Shop Guys Previous
 
 Curvy
 
@@ -518,9 +471,18 @@ Next
 
 In Stores &. Online
 
-AERO
+AERO JEANS
 
-JEANS 60% OFF
+BUY 1 GET 1 FREE
+
+Shop Girls Jeans Shop Guys Jeans
+
+In Stores &. Online
+
+AERO JEANS
+
+BUY 1 GET 1  
+FREE
 
 Shop Girls Jeans Shop Guys Jeans
 
@@ -568,7 +530,7 @@ HOODIES &. SWEATSHIRTS
 So soft and cozy, you'll want to  
 wear them out (and in).
 
-Shop Girls **$20 &. Up** Shop Guys **$20 &. Up**
+Shop Girls **$18 &. Up** Shop Guys **$18 &. Up**
 
 WELCOME TO  
 #AEROWORLD
