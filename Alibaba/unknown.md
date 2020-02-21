@@ -4,8 +4,6 @@
 
 Prohibition of duplicate product listing is to improve user’s experience over the e-commerce platform.
 
-  
-
 **2.    Definition**
 
 Duplicate product listing refers to listing a product with information and descriptions that are identical or similar to those of a previously listed and currently available product on the same platform by the same member.
@@ -17,8 +15,6 @@ Similar product listings refer to:
 (a)   identical product images with similar titles, product categories, keywords, attributes and descriptions. or
 
 (b)   different product images but substantially similar titles, product categories, keywords, attributes and descriptions.
-
-  
 
 **3.    Penalty**
 
