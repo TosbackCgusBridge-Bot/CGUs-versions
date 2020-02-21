@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  00:00
+New Games Next in  09:29
 
-*   By Date Next addition in 00:00
+*   By Date Next addition in 09:29
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more LIBRARY
 
-*   New Games Next in 00:00
-*   Best of new games 1351 games
-*   Most Popular Games 20417 games
+*   New Games Next in 09:29
+*   Best of new games 1361 games
+*   Most Popular Games 20422 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,249 games
-*   Driving &. Racing 6,323 games
-*   Strategy &. RPG 3,636 games
-*   Management &. Sim 4,260 games
-*   Thinking 12,536 games
-*   Action &. Adventure 14,830 games
-*   Sports 3,315 games
-*   Shooting 9,046 games
+*   For Girls 24,250 games
+*   Driving &. Racing 6,325 games
+*   Strategy &. RPG 3,637 games
+*   Management &. Sim 4,259 games
+*   Thinking 12,538 games
+*   Action &. Adventure 14,832 games
+*   Sports 3,316 games
+*   Shooting 9,052 games
 *   Fighting 2,095 games
-*   Skill 10,993 games
-*   Arcade &. Classic 8,971 games
-*   Fun &. Crazy 4,807 games
+*   Skill 10,997 games
+*   Arcade &. Classic 8,979 games
+*   Fun &. Crazy 4,809 games
 
 Play with friends  
-Powered by Y8 Account 139 Y8 Multiplayer Games 2,189 Y8 High Score Games 1,229 Y8 Achievements Games 861 Y8 Screenshots Games 1,611 Y8 Online Save Games 3,331 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 139 Y8 Multiplayer Games 2,188 Y8 High Score Games 1,230 Y8 Achievements Games 861 Y8 Screenshots Games 1,611 Y8 Online Save Games 3,331 All Y8 Games Games Last Highscore:
 
-**1,190,160** points on Lethal Race by zain
+**43** points on Masked Forces Zombie Survival by tesa
 
 Help us improve Bad translation? Social
 
