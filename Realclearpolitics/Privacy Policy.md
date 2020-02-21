@@ -119,53 +119,53 @@
     *   About
     *   Media Kit
 
-*   _Peter Beinart_: Among Ordinary Democrats, Sanders Is Strikingly Popular
+*   _Dominic Green_: With a Dem Field This Weak, Bloomberg Isn't Beaten
     
-*   _Mollie Hemingway_: Panicked Democrat Establishment Turns to Bloomberg
+*   _Chris Cillizza_: Stopping Sanders Just Got a Lot Harder for Dem Establishment
     
-*   _Kalev Leetaru_: In TV Mentions, Bloomberg Surges to the Fore
+*   _Sarah Jones_: Where Has This Elizabeth Warren Been?
     
-*   _Robin Abcarian_: Calm Down, Dems. You Can Still Beat Trump in Nov
+*   _Ben Weingarten_: Grenell at DNI: Loss for Deep State, Win for America First
     
-*   _David Harsanyi_: Democrats Still Haven't Come to Terms With 2016
+*   _David Andelman_: Richard Grenell Is a Disastrous DNI Choice
     
-*   _Michael Conway_: Trump Disrespects Rule of Law With Attacks on Judges
+*   _Victor Davis Hanson_: China's Government Is Like Something Out of '1984'
     
-*   _Margot Cleveland_: Partisan Bias in Letter Demanding Barr's Resignation
+*   _Wilfed Reilly_: Sorry, New York Times, But America Began in 1776
     
-*   _Clay Risen_: To Save Scouting, the Boy Scouts May Have to Go
+*   _Zack Beauchamp_: Identity Politics Isn't Hurting Liberalism. It's Saving It.
     
-*   _Richard Bernstein_: Boys Will Be Girls &. Feminists Will Be Furious
+*   _Ericka Andersen_: If They Want Paid Leave, Dems Should Compromise
     
-*   _Carl Cannon_: Betty Friedan's Groundbreaking 'Mystique'
+*   _Charles Lipson_: Debate Exposes 3 Major Vulnerabilities for Bloomberg's Bid
     
-*   _Scott Jennings_: Dems Facing Dilemma Over Front-Running Sanders
+*   _Ruy Teixeira_: Beware Bernie Sanders' Promised Voter Turnout
     
-*   _Emily Stewart_: Bloomberg and His Billions Are What Democrats Need to Win
+*   _Susan Crabtree_: Bloomberg's High-Stakes Debut Ends Up as a Bust
     
-*   _Harold Meyerson_: There's No Way Bloomberg Can Beat Trump
+*   _Richard Wolffe_: Sanders Is Cruising Amid Five Rivals' Sideshow
     
-*   _Tom Bevan_: One Thing Michael Bloomberg's Money Can't Buy
+*   _Andrew Cockburn_: Democrat Blues: Party Insiders Fear, Loathe Grassroots
     
-*   _Joseph Curl_: Are the Dems Headed to a Contested Convention?
+*   _Beauchamp_: 3 Winners, 4 Losers From the Nevada Dem Debate
     
-*   _Jeffrey Toobin_: The Trouble With Trump's Pardons
+*   _Christian Whiton_: Republicans' Plan to Win Back House: Fight Like Trump
     
-*   _Philip Wegmann_: WH: Trump Has 'Every Right' to Act in Criminal Cases
+*   _LZ Granderson_: Trump's Pardons Show His Contempt for the Law
     
-*   _Robert Reich_: Trump &. Barr Have Bulldozed All Progress Since Watergate
+*   _Mark Penn_: The Political Prosecution of Roger Stone Should Be Overturned
     
-*   _Jonathan Turley_: In Defense of William Barr
+*   _Barr_: Protecting the 2020 Elections and Your Vote
     
-*   _Alan Maass_: The Future of Democratic Socialism Starts Here
+*   _Timothy Egan_: California Diaspora May Turn the Tables on Trump
     
-*   _Kevin Williamson_: Trouble in the Workers' Paradise
+*   _Newt Gingrich_: Gov. Newsom on CA's Homeless Crisis: 'We Own This Issue'
     
-*   _Rebecca Traister_: Maine's Immoderate Susan Collins
+*   _David Krucoff_: Douglass County, Maryland, Is the Best Form of D.C. Statehood
     
-*   _Sean Davis_: So God Made A Bloomberg
+*   _Li Yuan_: Virus Fight Exposes Weakness at the Heart of China's System
     
-*   _Timothy McLaughlin_: Coronavirus Is Devastating Chinese Tourism
+*   _Charles Hurt_: Bloomberg: The Incredible Shrinking Candidate
     
 
 *   Previous
@@ -236,11 +236,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   White House: Trump Has "Every Right" to Act in Criminal Cases
-*   Bloomberg Makes Debate Stage, Facing Dem Rivals for 1st Time
-*   Sanders: Bloomberg Has No Right to Buy This Nomination
+*   Bloomberg's High-Stakes Debut Ends Up as a Bust
+*   Minnesota Nice Gets Nasty: Klobuchar Snaps at Buttigieg
+*   Trump: What If Top FBI Scum Did to Democrats What They Did to Me?
+*   Haley Taps Key Conservative, Fueling 2024 Speculation
 *   Some Congressional Dems Worry Sanders Nomination Would Hurt Ticket
-*   Buried in IG Report: How an FBI Team in Rome Gave Steele Secrets
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -254,48 +254,47 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
-*   South Carolina Democratic Presidential PrimaryUMass Lowell
-    *   Biden23
-    *   Sanders21
-    *   Steyer13
-    *   Buttigieg11
-    *   Warren11
-    *   Klobuchar9
-    *   Gabbard4Biden +2
-*   South Carolina Democratic Presidential PrimaryChange Research
-    *   Biden23
-    *   Sanders23
-    *   Steyer20
-    *   Buttigieg15
-    *   Warren9
-    *   Klobuchar8
-    *   Gabbard1Tie
-*   2020 Democratic Presidential NominationABC News/Wash Post
-    *   Sanders32
+*   Nevada Democratic Presidential CaucusKLAS-TV/Emerson
+    *   Sanders30
     *   Biden16
-    *   Bloomberg14
+    *   Buttigieg17
     *   Warren12
-    *   Buttigieg8
-    *   Klobuchar7
-    *   Steyer2
-    *   Gabbard1Sanders +16
-*   2020 Democratic Presidential NominationEmerson
-    *   Sanders29
-    *   Biden22
-    *   Bloomberg14
-    *   Warren12
-    *   Buttigieg8
-    *   Klobuchar6
-    *   Steyer3
-    *   Gabbard4Sanders +7
+    *   Steyer10
+    *   Klobuchar11
+    *   Gabbard2Sanders +13
+*   South Carolina Democratic Presidential PrimaryWinthrop
+    *   Biden24
+    *   Sanders19
+    *   Steyer15
+    *   Buttigieg7
+    *   Warren6
+    *   Klobuchar5
+    *   Gabbard1Biden +5
+*   California Democratic PrimaryMonmouth
+    *   Sanders24
+    *   Biden17
+    *   Bloomberg13
+    *   Buttigieg9
+    *   Warren10
+    *   Klobuchar4
+    *   Steyer5
+    *   Gabbard2Sanders +7
+*   Minnesota Democratic PrimaryUMass Lowell
+    *   Klobuchar27
+    *   Sanders21
+    *   Warren16
+    *   Buttigieg10
+    *   Biden9
+    *   Bloomberg9
+    *   Gabbard4Klobuchar +6
 
 More Latest Polls In The News
 
+*   Warren: I Bet Bloomberg Willl Spend $100 Million More On Ads To "Erase Everyone's Memory" Of Debate
+*   Plouffe: "Sanders In All Likelihood Is The Nominee Unless It Gets Taken Away From Him At The Convention"
+*   Sanders vs. Bloomberg: "The Best Known Socialist In The Country Is A Millionaire Who Owns Three Houses"
 *   Trump: Top "Scum" At FBI Would Be In Jail For 50 Years If They Did To Democrats What They Did To Me
-*   Bernie Sanders to Mike Bloomberg: You Have A "Grotesque And Immoral" Amount Of Wealth
 *   Buttigieg: Dems Shouldn't Have To Choose Between Candidates That Want To Burn Party Down or Buy It
-*   Bloomberg Won't Release Alleged Sexual Harassment Victims From NDAs That Were "Made Consensually"
-*   Chris Matthews: Bernie Sanders Is "Full Of It," Would Lose 49 States To Trump Like McGovern In 1972
 
 *   Politics
 *   Policy
