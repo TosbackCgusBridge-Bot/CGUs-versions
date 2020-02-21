@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Double up on savings! Get an extra 33% off, or 50% off!
+Feb. 14-23, 2020 - Earn BONUS POINTS when you use your BUCKLE CREDIT CARD. See Details
 
 *   Women
 *   Men
