@@ -1,8 +1,6 @@
 <. Back to list Alibaba.com Product Listing Information-Editing Guidelines
 
-**General Guidelines:**  
-
-  
+**General Guidelines:**
 
 1\. Alibaba.com prohibits the publication of product information related to prohibited, illegal and counterfeit products. Please refer to our Product Listing Policy.   
   
