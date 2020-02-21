@@ -24,6 +24,7 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
     
     *   Brahms: The Boy II
     *   The Call of the Wild (2020)
+    *   My Hero Academia: Heroes Rising
     *   Emma (2020)
     *   Goldie (2020)
     *   Impractical Jokers: The Movie
