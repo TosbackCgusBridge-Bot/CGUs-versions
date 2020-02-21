@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Metamorfo banking malware spreads around the world
-    *   Voatz mobile voting app vulnerable, MIT researchers say
-    *   Hidden Cobra adds to its malware arsenal: CISA
+    *   French plastic surgery image repository left vulnerable but since corrected: report
+    *   FBI tallied 467K cybercrime complaints in 2019, totaling $3.5B in losses
+    *   Adobe, VMWare issue patches for critical vulnerabilities
+    *   Email scam swindles $2.6M from Puerto Rican government corporation
+    *   Trump names Grenell as acting DNI
+    
+    *   Iranian internet attacked Saturday, knocked partially offline
+    *   Google patches Bluetooth vulnerability impacting most Android devices
     *   Lokibot now using fake Epic Games installer to fool victims
-    *   Mozilla issues patches for Firefox 73, Firefox ESR 68.5 and Thunderbird 68.5
-    
-    *   Malicious apps now post their own positive reviews on Google Play
-    *   Cybersecurity executive changes
-    *   Czech authorities investigating Avast over recent data collection practices
-    *   A tale of two ransomware attacks
-    *   Idaho Central Credit Union reports two breaches
-    
-    *   Trump offered Assange pardon to deny Russia behind DNC hack, lawyer tells court
-    *   Ring mandating 2FA logins, ceases some third-party activity
+    *   MGM admits to 2019 data breach affecting 10.6 million customers
     *   CISA issues warns critical infrastructure sectors after successful ransomware attack on pipeline operator
-    *   World Health Organization warns about coronavirus phishing scams
-    *   The four levels of automated remediation
+    
+    *   Trump berated Maguire after lawmakers were briefed on Russia's active interference in 2020 election
+    *   Stone gets 40 months and a rebuke from judge for lying to Congress
+    *   Microsoft patches IE vulnerability being exploited in the wild
+    *   Adobe, VMWare issue patches for critical vulnerabilities
+    *   MGM admits to 2019 data breach affecting 10.6 million customers
 
 Back to Top
 
