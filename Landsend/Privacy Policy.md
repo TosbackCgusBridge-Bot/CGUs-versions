@@ -27,11 +27,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive 40% off your order!
+Receive up to 40% off your order!
 
-Only 0 HR 08 MIN 49 SEC Left!
-
-code: FAMILY pin: PROMOTION DETAILS
+code: FROZEN pin: PROMOTION DETAILS
 
 Customer Service Menu
 
