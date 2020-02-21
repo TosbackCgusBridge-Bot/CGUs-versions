@@ -9,7 +9,7 @@
 Menu IKEA
 
 *   Offers
-*   Products Products Products
+*   Products Products Products New at IKEA Offers Ideas &. Inspiration
     
     *   Furniture
         *   Furniture
@@ -30,6 +30,7 @@ Menu IKEA
         *   Bar tables &. chairs
         *   Café furniture
         *   Room dividers
+        *   Explore Furniture
     *   Sofas &. armchairs
         *   Sofas &. armchairs
         *   Sofas &. loveseats
@@ -39,6 +40,7 @@ Menu IKEA
         *   Ottomans
         *   Sofa covers
         *   Sofa legs
+        *   Explore Sofas &. armchairs
     *   Beds &. mattresses
         *   Beds &. mattresses
         *   Beds
@@ -50,6 +52,7 @@ Menu IKEA
         *   Mattress bases
         *   Bed legs
         *   Slatted bed bases
+        *   Explore Beds &. mattresses
     *   Bathroom
         *   Bathroom
         *   Bathroom furniture sets
@@ -63,6 +66,7 @@ Menu IKEA
         *   Sinks
         *   Showers
         *   Faucets
+        *   Explore Bathroom
     *   Kitchen &. appliances
         *   Kitchen &. appliances
         *   Kitchen cabinets &. fronts
@@ -77,6 +81,7 @@ Menu IKEA
         *   Pantry
         *   Kitchen lighting
         *   Backsplashes &. wall panels
+        *   Explore Kitchen &. appliances
     *   Storage &. organization
         *   Storage &. organization
         *   Bookcases &. shelving units
@@ -94,6 +99,7 @@ Menu IKEA
         *   TV &. media furniture
         *   Bags
         *   Moving supplies
+        *   Explore Storage &. organization
     *   Baby &. kids
         *   Baby &. kids
         *   Baby
@@ -112,12 +118,14 @@ Menu IKEA
         *   Kids decoration &. accessories
         *   Toys &. play
         *   Safety
+        *   Explore Baby &. kids
     *   Rugs
         *   Rugs
         *   Rugs
         *   Bath mats
         *   Door mats
         *   Outdoor flooring
+        *   Explore Rugs
     *   Home textiles
         *   Home textiles
         *   Bedding
@@ -131,6 +139,7 @@ Menu IKEA
         *   Kitchen textiles
         *   Outdoor cushions
         *   Table linen
+        *   Explore Home textiles
     *   Smart home
         *   Smart home
         *   Smart home
@@ -138,6 +147,7 @@ Menu IKEA
         *   Appliances
         *   Cords &. chargers
         *   Mobile &. tablet accessories
+        *   Explore Smart home
     *   Home décor
         *   Home décor
         *   Wall décor
@@ -152,6 +162,7 @@ Menu IKEA
         *   Paper shop
         *   Home fragrance
         *   Plants &. flowers
+        *   Explore Home décor
     *   Cookware &. tableware
         *   Cookware &. tableware
         *   Dinnerware
@@ -167,6 +178,8 @@ Menu IKEA
         *   Table linen
         *   Kitchen textiles
         *   Napkins &. napkin holders
+        *   Explore Cookware &. tableware
+    *   \+ More
     *   Lighting
         *   Lighting
         *   Lamps &. light fixtures
@@ -175,6 +188,7 @@ Menu IKEA
         *   LED Light bulbs
         *   Decorative lighting
         *   Outdoor lighting
+        *   Explore Lighting
     *   Outdoor
         *   Outdoor
         *   Outdoor furniture
@@ -187,10 +201,12 @@ Menu IKEA
         *   Outdoor flooring
         *   Outdoor rugs
         *   Grills
+        *   Explore Outdoor
     *   Pet accessories
         *   Pet accessories
         *   Cats
         *   Dogs
+        *   Explore Pet accessories
     *   Laundry &. cleaning
         *   Laundry &. cleaning
         *   Ironing boards
@@ -199,6 +215,7 @@ Menu IKEA
         *   Bins &. bags
         *   Cleaning accessories
         *   Dishwashing accessories
+        *   Explore Laundry &. cleaning
     *   Home improvement
         *   Home improvement
         *   Knobs &. handles
@@ -209,6 +226,7 @@ Menu IKEA
         *   Backsplashes &. wall panels
         *   Moving supplies
         *   Acoustic panels
+        *   Explore Home improvement
     *   IKEA food &. restaurant
         *   IKEA food &. restaurant
         *   Beverages
@@ -220,6 +238,7 @@ Menu IKEA
         *   Sauces, jam &. condiments
         *   Snacks &. on the go
         *   Vegetables &. side dishes
+        *   Explore IKEA food &. restaurant
     *   Gardening &. plants
         *   Gardening &. plants
         *   Flower pots &. stands
@@ -227,16 +246,19 @@ Menu IKEA
         *   Plant stands &. movers
         *   Watering cans
         *   Plants &. flowers
+        *   Explore Gardening &. plants
     *   Home safety
         *   Home safety
         *   Child safety
         *   Home safety
+        *   Explore Home safety
     *   Leisure &. travel
         *   Leisure &. travel
         *   Books
         *   Games &. recreation
         *   Paper shop
         *   Bags
+        *   Explore Leisure &. travel
     *   Series
     
     Deals &. Steals
@@ -246,11 +268,7 @@ Menu IKEA
     *   $10 and under
     
     Seasonal
-    *   Winter Holidays
-        
     *   Collections
-        
-    *   Back to College
         
 *   Rooms Rooms
     *   Rooms
@@ -275,9 +293,7 @@ Menu IKEA
     *   $10 and under
 *   Seasonal Seasonal
     *   Seasonal
-    *   Winter Holidays
     *   Collections
-    *   Back to College
 *   *   Customer Service
     *   IKEA Family
     *   IKEA for Business
@@ -316,6 +332,7 @@ Go back to the IKEA homepage
     *   Return Policy
     *   Warranties
     *   Feedback
+    *   Track My Order
 
 *   **Shop &. Learn**
     
@@ -324,6 +341,7 @@ Go back to the IKEA homepage
     *   IKEA Catalog
     *   IKEA Brochures
     *   IKEA Family
+    *   IKEA For Business
     *   IKEA Planning Tools
     *   Buying Guides
     *   Gift Cards
