@@ -249,17 +249,6 @@ Close Upload ★VIP
 
 **Search Suggestions** start typing for suggestions ... **Suggested Pornstars** start typing for suggestions ... **Suggested Channels** start typing for suggestions ... **Suggested Keywords**
 
-*   cock tight pussy
-*   caught by sister
-*   gangbang
-*   big ass
-*   amateur wife
-*   ebony
-*   friends hot mom
-*   tiny teen
-*   my friends hot
-*   cum
-
 **Recent Searches** Clear
 
 JOIN VIP FOR $1
