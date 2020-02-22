@@ -43,7 +43,6 @@
     *   Community
     
     *   CHALLENGES &. EVENTS
-    *   Fitbit Local Events
     *   Fitbit Challenges
     *   Ambassadors
     
@@ -66,7 +65,6 @@ MOTIVATION
 *   Success Stories
 *   Community
 *   CHALLENGES &. EVENTS
-*   Fitbit Local Events
 *   Fitbit Challenges
 *   Ambassadors
 
@@ -135,7 +133,6 @@ Press Enter to submit Tap to search
     *   Community
     
     *   CHALLENGES &. EVENTS
-    *   Fitbit Local Events
     *   Fitbit Challenges
     *   Ambassadors
     
@@ -158,7 +155,6 @@ MOTIVATION
 *   Success Stories
 *   Community
 *   CHALLENGES &. EVENTS
-*   Fitbit Local Events
 *   Fitbit Challenges
 *   Ambassadors
 
