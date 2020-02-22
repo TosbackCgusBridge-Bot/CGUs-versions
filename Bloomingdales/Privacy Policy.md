@@ -1718,9 +1718,9 @@ Back to top Email this page Recipient Email \* Your Email \* Your Name \* Print 
 
 Does this answer your question? Yes No s
 
-*   Highlights of Bloomingdale’s Notice of Privacy Practices
 *   What is the return and exchange policy?
 *   Bloomingdale's Terms of Use
+*   Highlights of Bloomingdale’s Notice of Privacy Practices
 *   Product Recalls
 *   What is the shipping policy?
 
