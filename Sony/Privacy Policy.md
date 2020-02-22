@@ -123,7 +123,7 @@ Join the PlayStation Player Celebration for exclusive community prizes and more.
   
 Here's how to play and win:  https://play.st/38Fxpbn  pic.twitter.com/Ce1mBE3u3v
 
-2 days ago View Tweet Instagram Post B3-qqYxlIc3
+3 days ago View Tweet Instagram Post B3-qqYxlIc3
 
 A New 4K Handycam
 
