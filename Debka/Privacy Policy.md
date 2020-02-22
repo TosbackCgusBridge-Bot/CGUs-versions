@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Friday, February 21, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Saturday, February 22, 2020  
 
 DEBKAfile
 
@@ -46,86 +46,86 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
-*   Fourth Israeli infected hours before disembarking from virus ship
+*   Corona ship passenger brings first case to Israel
     
-    Feb 20, 2020 @ 09:15
+    Feb 21, 2020 @ 17:55
     
-*   First Syrian flight in 8 years lands at Aleppo airport
+*   Palestinian woman arrested in attempted Jerusalem knifing spree
     
-    Feb 19, 2020 @ 12:49
+    Feb 21, 2020 @ 12:17
     
-*   First Israelis leave cruise ship at end of 14-day quarantine
+*   Iran elects a new parliament after candidates list heavily purged
     
-    Feb 19, 2020 @ 08:38
+    Feb 21, 2020 @ 10:39
     
-*   Despite Palestinian rockets and balloons, Israel eases Gaza restrictions
+*   US sanctions Iranian officials for “preventing free elections”
     
-    Feb 18, 2020 @ 22:04
+    Feb 21, 2020 @ 10:26
     
-*   Netanyahu trial opens two weeks after Israel’s election
+*    Fresh coronavirus cases outside Chinese mainland
     
-    Feb 18, 2020 @ 17:56
+    Feb 21, 2020 @ 10:18
     
-*   RPG shell tied to balloons from Gaza
+*   Turkey asks US to post Patriot missiles against Syrian attacks
     
-    Feb 18, 2020 @ 11:13
+    Feb 21, 2020 @ 08:50
     
 
-*   First Israelis leave cruise ship at end of 14-day quarantine
+*   Iran elects a new parliament after candidates list heavily purged
     
-    Feb 19, 2020 @ 08:38
+    Feb 21, 2020 @ 10:39
     
-*   Despite Palestinian rockets and balloons, Israel eases Gaza restrictions
+*   US sanctions Iranian officials for “preventing free elections”
     
-    Feb 18, 2020 @ 22:04
+    Feb 21, 2020 @ 10:26
     
-*   Netanyahu trial opens two weeks after Israel’s election
+*    Fresh coronavirus cases outside Chinese mainland
     
-    Feb 18, 2020 @ 17:56
+    Feb 21, 2020 @ 10:18
     
-*   RPG shell tied to balloons from Gaza
+*   Turkey asks US to post Patriot missiles against Syrian attacks
     
-    Feb 18, 2020 @ 11:13
+    Feb 21, 2020 @ 08:50
     
-*   Fourth Israeli infected hours before disembarking from virus ship
+*   Corona ship passenger brings first case to Israel
     
-    Feb 20, 2020 @ 09:15
+    Feb 21, 2020 @ 17:55
     
-*   First Syrian flight in 8 years lands at Aleppo airport
+*   Palestinian woman arrested in attempted Jerusalem knifing spree
     
-    Feb 19, 2020 @ 12:49
+    Feb 21, 2020 @ 12:17
     
-*   First Israelis leave cruise ship at end of 14-day quarantine
+*   Iran elects a new parliament after candidates list heavily purged
     
-    Feb 19, 2020 @ 08:38
+    Feb 21, 2020 @ 10:39
     
-*   Despite Palestinian rockets and balloons, Israel eases Gaza restrictions
+*   US sanctions Iranian officials for “preventing free elections”
     
-    Feb 18, 2020 @ 22:04
+    Feb 21, 2020 @ 10:26
     
-*   Netanyahu trial opens two weeks after Israel’s election
+*    Fresh coronavirus cases outside Chinese mainland
     
-    Feb 18, 2020 @ 17:56
+    Feb 21, 2020 @ 10:18
     
-*   RPG shell tied to balloons from Gaza
+*   Turkey asks US to post Patriot missiles against Syrian attacks
     
-    Feb 18, 2020 @ 11:13
+    Feb 21, 2020 @ 08:50
     
-*   Fourth Israeli infected hours before disembarking from virus ship
+*   Corona ship passenger brings first case to Israel
     
-    Feb 20, 2020 @ 09:15
+    Feb 21, 2020 @ 17:55
     
-*   First Syrian flight in 8 years lands at Aleppo airport
+*   Palestinian woman arrested in attempted Jerusalem knifing spree
     
-    Feb 19, 2020 @ 12:49
+    Feb 21, 2020 @ 12:17
     
-*   First Israelis leave cruise ship at end of 14-day quarantine
+*   Iran elects a new parliament after candidates list heavily purged
     
-    Feb 19, 2020 @ 08:38
+    Feb 21, 2020 @ 10:39
     
-*   Despite Palestinian rockets and balloons, Israel eases Gaza restrictions
+*   US sanctions Iranian officials for “preventing free elections”
     
-    Feb 18, 2020 @ 22:04
+    Feb 21, 2020 @ 10:26
     
 
 12PrevNext
