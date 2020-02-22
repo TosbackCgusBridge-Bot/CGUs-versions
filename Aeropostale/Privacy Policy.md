@@ -37,11 +37,11 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
+*   Essentials
 *   Best Sellers
 *   Jeans Guide
 *   Online Only
 *   Tribe Of Tees
-*   Basic Essentials
 *   Seriously Soft
 *   Curvy
 *   Active
@@ -65,10 +65,10 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
+*   Essentials
 *   Best Sellers
 *   Jeans Guide
 *   Online Only
-*   Back to Basics
 *   Music + Pop Culture
 *   Active
 *   Uniform
@@ -217,11 +217,11 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
+        *   Essentials
         *   Best Sellers
         *   Jeans Guide
         *   Online Only
         *   Tribe Of Tees
-        *   Basic Essentials
         *   Seriously Soft
         *   Curvy
         *   Active
@@ -242,10 +242,10 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
+        *   Essentials
         *   Best Sellers
         *   Jeans Guide
         *   Online Only
-        *   Back to Basics
         *   Music + Pop Culture
         *   Active
         *   Uniform
