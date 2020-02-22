@@ -7,11 +7,35 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Ray-Ban
+    *   Season's Best: Swim Up to 55% Off ft. Maaji
+    *   Via Spiga Up to 60% Off
+    *   Resort Ready: Shahida Parides &. More
+    *   Statement Jewelry Starting at $18
+    *   Melissa
+    *   Mini Melissa
+    *   Walter Baker
+    *   Playful Prints: BeachLunchLounge &. More
+    *   Supplies by Union Bay &. Unionbay
+    *   ECCO for Her Up to 55% Off
+    *   English Laundry Up to 65% Off
+    *   skinChemists Up to 80% Off
+    *   Skarlett Blue Sleep &. Lingerie
+    *   Resort Report: Kids' Swimwear, Ray-Ban Sun &. More
+    *   Own Your Spotlight: JOI Mirrors &. More
+    *   Floris London: Luxury Fragrances for Her
+    *   Cole Haan Men Up to 75% Off
+    *   Luxe Men's Shoes Under $100
+    *   Nordstrom Home Decor Up to 50% Off
+    *   7 For All Mankind Kids Up to 65% Off
+    *   Sandals &. Slides for Spring Starting at $20
+    *   New on HauteLook: Amour Vert &. More
     *   Vince Camuto Shoes
     *   Vince Camuto Up to 75% Off Incl. Plus &. Petites
     *   Democracy &. KUT from the Kloth Incl. Plus &. Petites
     *   Resort Ready: Bags &. Shoes
     *   Michael Todd Beauty Soniclear &. More Up to 60% Off
+    
     *   Brooks Brothers
     *   Vince Camuto Outerwear Up to 60% Off
     *   Lovely in Lace: Romantic Lingerie &. More
@@ -26,23 +50,12 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Kate Spade New York Home Up to 50% Off
     *   Play All Day: Imaginative Toys ft. Mattel
     *   TOMS Kids
-    *   Pack Your Bag: CabinZero
     *   BIRKENSTOCK
     *   True Religion Up to 65% Off
-    *   Festival-Ready Styles ft. Angie
-    *   Cloth &. Stone
     *   True Religion Kids Up to 65% Off
     *   True Religion Men Up to 70% Off
-    
-    *   Turn Up the Texture: Ribbed &. Waffle Knits
-    *   Date Night: Shoes ft. Jessica Simpson
-    *   GUESS Outerwear Up to 65% Off
     *   BIRKENSTOCK Men
     *   TR Premium
-    *   Set to Sweat: Active Under $40
-    *   Cozy Classics: Robes Up to 60% Off
-    *   Exclusively Ours: Shoes from $30 ft. Abound
-    *   Ready, Set, Sail: Nylon Bags &. More from $30
     *   On-Trend 14K Gold &. More from $23
     *   Home Decor Starting at $15
     *   Ted Baker London Men's Shoes
@@ -51,42 +64,51 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Treat Yourself: Body Care Under $20
     *   Cookware Faves ft. Le Creuset Marine Collection
     *   For the Home Chef: Miyabi Cutlery Sets
+    
     *   Quality Cookware Up to 55% Off
     *   Dinnerware Sets &. More Up to 65% Off
-    *   Tailored Perfection: Suits Under $250
-    *   Handcrafted in Spain: UNOde50 Jewelry
-    *   Our Favorite Makeup Brands ft. Urban Decay
     *   Liquid IV: Hydration Powder Supplements
-    *   Lacoste Lounge
     *   Neon &. Co. Hair Masks, Treatments &. More
     *   Free Shipping: Decorative Pillows &. Throws
-    
     *   Lacoste Men's Footwear
-    *   Harper Canyon Under $20
-    *   National Geographic Books
     *   Josie Maran Up to 50% Off
-    *   Free Shipping: Wall Decals Up to 55% Off
-    *   Snow Teeth Whitening Starting at $10
-    *   Free Shipping: Storage Must-Haves from $15
-    *   Florsheim
-    *   PUR Starting at $10
-    *   Beach Ready: Towels Up to 60% Off
-    *   Free Shipping: Comforters, Duvets &. More
-    *   Vegan &. Plant Derived Natural Skin Care
-    *   Thank You Cards &. Notebooks from $10
-    *   Free Shipping: Wall Decor &. Accents
-    *   Wearable Tech Up to 70% Off
-    *   Luxe Bathroom Decor from $10
     *   Luxe Brands Up to 70% Off
     *   Cole Haan Outerwear Up to 75% Off
     *   Vince Camuto Handbags &. Accessories Up to 50% Off
     *   Tommy Hilfiger Up to 50% Off
     *   Vintage Foundry Up to 80% Off
+    *   Pack Your Bag: CabinZero
+    *   Festival-Ready Styles ft. Angie
+    *   Set to Sweat: Active Under $40
     *   NANETTE nanette lepore Incl. Plus
     *   Love at First Sight: On-Trend Dresses
     *   Work It: Blazers Incl. Plus &. Petites
+    *   Cloth &. Stone
+    *   Free Shipping: Wall Decals Up to 55% Off
+    *   Snow Teeth Whitening Starting at $10
+    *   Free Shipping: Storage Must-Haves from $15
+    *   Wearable Tech Up to 70% Off
+    *   Beach Ready: Towels Up to 60% Off
+    *   Free Shipping: Comforters, Duvets &. More
+    *   Thank You Cards &. Notebooks from $10
 *   WomenShop Sale Events
     
+    *   Ray-Ban
+    *   Season's Best: Swim Up to 55% Off ft. Maaji
+    *   Via Spiga Up to 60% Off
+    *   Resort Ready: Shahida Parides &. More
+    *   Statement Jewelry Starting at $18
+    *   Melissa
+    *   Walter Baker
+    *   Playful Prints: BeachLunchLounge &. More
+    *   Supplies by Union Bay &. Unionbay
+    *   ECCO for Her Up to 55% Off
+    *   skinChemists Up to 80% Off
+    *   Skarlett Blue Sleep &. Lingerie
+    *   Own Your Spotlight: JOI Mirrors &. More
+    *   Floris London: Luxury Fragrances for Her
+    *   Sandals &. Slides for Spring Starting at $20
+    *   New on HauteLook: Amour Vert &. More
     *   Vince Camuto Shoes
     *   Vince Camuto Up to 75% Off Incl. Plus &. Petites
     *   Democracy &. KUT from the Kloth Incl. Plus &. Petites
@@ -96,105 +118,96 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Lovely in Lace: Romantic Lingerie &. More
     *   Makeup Kits Up to 55% Off
     *   Socialite Starting at $20
+    
     *   Designer Dresses Up to 70% Off
     *   CZ by Kenneth Jay Lane Up to 65% Off
     *   Statement Steals: Bags Up to 65% Off
     *   Pumps That Pop Up to 55% Off
-    *   Pack Your Bag: CabinZero
     *   BIRKENSTOCK
     *   True Religion Up to 65% Off
-    *   Festival-Ready Styles ft. Angie
-    *   Cloth &. Stone
-    *   Turn Up the Texture: Ribbed &. Waffle Knits
-    *   Date Night: Shoes ft. Jessica Simpson
-    *   GUESS Outerwear Up to 65% Off
-    *   Set to Sweat: Active Under $40
-    
-    *   Cozy Classics: Robes Up to 60% Off
-    *   Exclusively Ours: Shoes from $30 ft. Abound
-    *   Ready, Set, Sail: Nylon Bags &. More from $30
     *   On-Trend 14K Gold &. More from $23
     *   Korean Beauty: COSRX &. More Starting at $10
     *   Treat Yourself: Body Care Under $20
-    *   Handcrafted in Spain: UNOde50 Jewelry
-    *   Our Favorite Makeup Brands ft. Urban Decay
     *   Liquid IV: Hydration Powder Supplements
     *   Neon &. Co. Hair Masks, Treatments &. More
     *   Josie Maran Up to 50% Off
-    *   Snow Teeth Whitening Starting at $10
-    *   PUR Starting at $10
-    *   Vegan &. Plant Derived Natural Skin Care
     *   Luxe Brands Up to 70% Off
     *   Cole Haan Outerwear Up to 75% Off
     *   Vince Camuto Handbags &. Accessories Up to 50% Off
     *   Tommy Hilfiger Up to 50% Off
+    *   Pack Your Bag: CabinZero
+    *   Festival-Ready Styles ft. Angie
+    *   Set to Sweat: Active Under $40
     *   NANETTE nanette lepore Incl. Plus
     *   Love at First Sight: On-Trend Dresses
     *   Work It: Blazers Incl. Plus &. Petites
+    *   Cloth &. Stone
+    *   Snow Teeth Whitening Starting at $10
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
     *   Lingerie &. Shapewear
+    *   Jewelry
     *   Handbags
     *   Accessories
 *   MenShop Sale Events
     
+    *   Ray-Ban
+    *   English Laundry Up to 65% Off
+    *   Cole Haan Men Up to 75% Off
+    *   Luxe Men's Shoes Under $100
     *   Brooks Brothers
     *   Reebok Men's Activewear Under $50
-    *   Pack Your Bag: CabinZero
     *   True Religion Men Up to 70% Off
+    
     *   BIRKENSTOCK Men
     *   TR Premium
-    
     *   Ted Baker London Men's Shoes
-    *   Tailored Perfection: Suits Under $250
-    *   Lacoste Lounge
     *   Lacoste Men's Footwear
-    *   Florsheim
     *   Vintage Foundry Up to 80% Off
+    *   Pack Your Bag: CabinZero
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Mini Melissa
+    *   Resort Report: Kids' Swimwear, Ray-Ban Sun &. More
+    *   7 For All Mankind Kids Up to 65% Off
     *   Play All Day: Imaginative Toys ft. Mattel
     *   TOMS Kids
     *   True Religion Kids Up to 65% Off
     *   BIRKENSTOCK Kids
-    *   Harper Canyon Under $20
-    *   National Geographic Books
     
     Shop By Category
-    *   Toys
     *   Girls
     *   Boys
+    *   Toys
     *   Girls' Shoes
-    *   Boys' Shoes
     *   Baby
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Nordstrom Home Decor Up to 50% Off
     *   Luxury Bath Towels Up to 65% Off
     *   Kate Spade New York Home Up to 50% Off
-    *   Pack Your Bag: CabinZero
     *   Home Decor Starting at $15
     *   Cookware Faves ft. Le Creuset Marine Collection
     *   For the Home Chef: Miyabi Cutlery Sets
     *   Quality Cookware Up to 55% Off
     *   Dinnerware Sets &. More Up to 65% Off
-    *   Free Shipping: Decorative Pillows &. Throws
     
+    *   Free Shipping: Decorative Pillows &. Throws
+    *   Pack Your Bag: CabinZero
     *   Free Shipping: Wall Decals Up to 55% Off
     *   Free Shipping: Storage Must-Haves from $15
+    *   Wearable Tech Up to 70% Off
     *   Beach Ready: Towels Up to 60% Off
     *   Free Shipping: Comforters, Duvets &. More
     *   Thank You Cards &. Notebooks from $10
-    *   Free Shipping: Wall Decor &. Accents
-    *   Wearable Tech Up to 70% Off
-    *   Luxe Bathroom Decor from $10
     
     Shop By Category
     *   Home Decor
@@ -204,29 +217,30 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Electronic &. Tech Accessories
     *   Cleaning &. Organization
     *   Outdoor Living
-    *   Accent Furniture
+    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   skinChemists Up to 80% Off
+    *   Own Your Spotlight: JOI Mirrors &. More
+    *   Floris London: Luxury Fragrances for Her
     *   Michael Todd Beauty Soniclear &. More Up to 60% Off
     *   Makeup Kits Up to 55% Off
     *   Korean Beauty: COSRX &. More Starting at $10
-    *   Treat Yourself: Body Care Under $20
-    *   Our Favorite Makeup Brands ft. Urban Decay
-    *   Liquid IV: Hydration Powder Supplements
     
+    *   Treat Yourself: Body Care Under $20
+    *   Liquid IV: Hydration Powder Supplements
     *   Neon &. Co. Hair Masks, Treatments &. More
     *   Josie Maran Up to 50% Off
     *   Snow Teeth Whitening Starting at $10
-    *   PUR Starting at $10
-    *   Vegan &. Plant Derived Natural Skin Care
     
     Shop By Category
-    *   Makeup
     *   Skin Care
+    *   Makeup
     *   Bath &. Body
-    *   Tools &. Accessories
-    *   Hair Care
+    *   Fragrance
     *   Makeup Bags
+    *   Hair Care
+    *   Tools &. Accessories
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
