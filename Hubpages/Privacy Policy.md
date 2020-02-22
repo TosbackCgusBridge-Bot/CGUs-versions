@@ -1,4 +1,4 @@
-MavenTop StoriesFeatured MavensPressInvestors
+Top StoriesPressFeatured MavensInvestors
 
 1.  Maven Coalition
 
