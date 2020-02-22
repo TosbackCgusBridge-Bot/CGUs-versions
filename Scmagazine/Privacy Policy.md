@@ -215,17 +215,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   French plastic surgery image repository left vulnerable but since corrected: report
-    *   FBI tallied 467K cybercrime complaints in 2019, totaling $3.5B in losses
-    *   Adobe, VMWare issue patches for critical vulnerabilities
-    *   Email scam swindles $2.6M from Puerto Rican government corporation
-    *   Trump names Grenell as acting DNI
-    
-    *   Iranian internet attacked Saturday, knocked partially offline
-    *   Google patches Bluetooth vulnerability impacting most Android devices
-    *   Lokibot now using fake Epic Games installer to fool victims
-    *   MGM admits to 2019 data breach affecting 10.6 million customers
+    *   Microsoft patches IE vulnerability being exploited in the wild
+    *   Mac cyberattacks double in 2019: Malwarebytes
+    *   Blackburn blocks vote on trio of election security bills in Senate
+    *   Venables, Gerstell and Geer to headline CSA Summit
     *   CISA issues warns critical infrastructure sectors after successful ransomware attack on pipeline operator
+    
+    *   Justice Dept. to reduce sentencing recommendation for Roger Stone
+    *   Report: Extortionists threaten websites with AdSense ban caused by bot traffic
+    *   No glossing this over: Leaky Estée Lauder database exposes 440M records
+    *   French plastic surgery image repository left vulnerable but since corrected: report
+    *   Blackburn blocks vote on trio of election security bills in Senate
     
     *   Trump berated Maguire after lawmakers were briefed on Russia's active interference in 2020 election
     *   Stone gets 40 months and a rebuke from judge for lying to Congress
@@ -264,4 +264,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
