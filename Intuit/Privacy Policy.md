@@ -21,28 +21,20 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBack 
+Near YouFind a StoreBackSelections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken. 
 
 *   SHOP NOW
 
-*   Womens Xersion
+*   Women
     
-*   Nike\*\*
+*   Men
     
-*   adidas\*\*
+*   Girls
     
-*   Mens Xersion
-    
-*   Girls Active
-    
-*   Boys Active
-    
-*   adidas shoes\*\*
-    
-*   Xersion Tees
+*   Boys
     
 
-SHOP NOW\*\*NIke and adidas excluded from coupons. 
+SHOP NOWShop all NikeNike excluded from couponsShop all adidasadidas excluded from couponsUP TO 60% OFF+ Extra 10% off with coupon Furniture | select styles Furniture available online only. UP TO 60% OFF+ Extra 10% off with coupon Mattresses | select styles  
 
 *   SHOP NOW
 
@@ -55,16 +47,14 @@ SHOP NOW\*\*NIke and adidas excluded from coupons. 
 *   Home Decor
     
 
-SHOP NOWUP TO 60% OFF+ Extra 10% off with coupon Furniture | select styles Furniture available online only. UP TO 60% OFF+ Extra 10% off with coupon Mattresses | select styles Selections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.SHOP NOWShop our curated collection of tees, hair products and makeup—designed just for you. Next stop: the dance floorYour one-stop destination for taking prom to a place that’s uniquely yours.  Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 31 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+SHOP NOWSHOP NOWShop our curated collection of tees, hair products and makeup—designed just for you. Next stop: the dance floorYour one-stop destination for taking prom to a place that’s uniquely yours.  Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 31 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   $1359after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(320)
+*   $1359after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(303)
 *   $1439after couponwas $35 a.n.a Womens Keyhole Neck Long Sleeve Peasant Top
-*   $1519after couponwas $80 Arizona Womens Denver Riding Boots Block Heel(206)
 *   $3999after couponwas $74 Premier Amour Cold Shoulder Sheath Dress
-*   $1759 - $3520after couponStafford Mens Wrinkle Free Oxford Button Down Collar Dress Shirt(252)
-*   RED BOW DEAL!
-    
-    $18749after couponwas $499.98 Womens 1 CT. T.W. Genuine Diamond Sterling Silver Cocktail Ring(21)
+*   $1519after couponwas $80 Arizona Womens Denver Riding Boots Block Heel(206)
+*   $1759 - $3520after couponStafford Mens Wrinkle Free Oxford Button Down Collar Dress Shirt(253)
+*   $7999 - $8999after couponwas $260 - $300 JCPenney Home Audrey 10-pc. Comforter Set(3)
 
 Shop and Save at JCPenney
 
