@@ -25,17 +25,20 @@ Lenovo Explore Close
         *   Lenovo
         
         *   Best Selling Laptops
-        *   X1 Carbon Gen 7
         *   X1 Extreme Gen 2
         *   ThinkPad T490
-        *   Legion Y740
-        *   Yoga C940
+        *   Legion Y540
+        *   Yoga C740
+        *   Flex 15
+        *   IdeaPad L340
+        
+        *   Last Chance &. Top Deals
         *   IdeaPad S940
-        
-        Presidents Day
-        
-        Enjoy special offers on laptops for home, work, gaming &. more!
-        
+        *   X1 Carbon Gen 7
+        *   ThinkPad P1 Gen 2
+        *   Yoga C940
+        *   ThinkPad X1 Yoga Gen 4
+        *   ThinkPad P73
     *   Desktops
         
         *   Always Free Shipping
@@ -172,19 +175,25 @@ Lenovo Explore Close
         *   View All Monitors
         
         *   Best Selling Monitors
-        *   ThinkVision X1
-        *   On-the-go M14
-        *   P24q Monitor
+        *   E24 Wide FHD
+        *   M14 Portable
+        *   P27h QHD USB-C
+        *   P24q QHD
+        *   Tiny-In-One 23.8" Gen3
+        *   Y27q Legion Gaming
+        
+        *   Shop New Monitors
+        *   L27q QHD
+        *   C32q QHD
+        *   Y27gq Legion Gaming
+        *   G25 Gaming
+        *   P27u Wide UHD IPS (4K)
+        *   M14 Portable
         
         *   Quick Links
         *   Sale
         *   Monitor Accessories
         *   Monitor FAQ
-        
-        Presidents Day
-        
-        Save on our most popular monitors for work, home &. gaming!
-        
     *   Gaming
         
         *   Always Free Shipping
@@ -616,7 +625,7 @@ Lenovo Explore Close
 1-855-253-6686
 
 *   Search
-*   icon-compare0 Compare Compare (0)
+
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
@@ -698,13 +707,7 @@ Top Suggestions
 
 View all >.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
-
-Please add at least 2 products for compare
-
-Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
-
-Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
 
 protects better"/>.
 
