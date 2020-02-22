@@ -119,53 +119,53 @@
     *   About
     *   Media Kit
 
-*   _Dominic Green_: With a Dem Field This Weak, Bloomberg Isn't Beaten
+*   _Matt Taibbi_: The Bloomberg Myth Explodes on Live TV
     
-*   _Chris Cillizza_: Stopping Sanders Just Got a Lot Harder for Dem Establishment
+*   _Derek Thompson_: Bernie Sanders Is George McGovern
     
-*   _Sarah Jones_: Where Has This Elizabeth Warren Been?
+*   _Julie Kelly_: Does 'Truth' Still Matter for Obama Intel Officials?
     
-*   _Ben Weingarten_: Grenell at DNI: Loss for Deep State, Win for America First
+*   _Jonathan Stevenson_: Will Grenell Destroy the Intelligence Community?
     
-*   _David Andelman_: Richard Grenell Is a Disastrous DNI Choice
+*   _Debra Heine_: K.T. McFarland: Intel Community Targeted Its Political Enemies
     
-*   _Victor Davis Hanson_: China's Government Is Like Something Out of '1984'
+*   _Mark Hemingway_: NY Times Goes All In on Flawed 1619 Project
     
-*   _Wilfed Reilly_: Sorry, New York Times, But America Began in 1776
+*   _Thomas Edsall_: The Audacity of Trump's Hatred
     
-*   _Zack Beauchamp_: Identity Politics Isn't Hurting Liberalism. It's Saving It.
+*   _Sen. Tim Scott_: Trump's Black Support Will Rise at Least 50% in 2020
     
-*   _Ericka Andersen_: If They Want Paid Leave, Dems Should Compromise
+*   _Sammon &. Dayen_: Would Dems Really Take Nomination From Top Vote Getter?
     
-*   _Charles Lipson_: Debate Exposes 3 Major Vulnerabilities for Bloomberg's Bid
+*   _Ed Rendell_: Dems Shouldn't Count Out Biden or Fear a Brokered Convention
     
-*   _Ruy Teixeira_: Beware Bernie Sanders' Promised Voter Turnout
+*   _Ann Ravel_: Third Parties Deserve Shot at Debate Stage
     
-*   _Susan Crabtree_: Bloomberg's High-Stakes Debut Ends Up as a Bust
+*   _Eric Levitz_: 5 Unanswered Questions That Will Help Decide Dem Nominee
     
-*   _Richard Wolffe_: Sanders Is Cruising Amid Five Rivals' Sideshow
+*   _Patrick Buchanan_: Was Las Vegas Debate Fatal for Bloomberg?
     
-*   _Andrew Cockburn_: Democrat Blues: Party Insiders Fear, Loathe Grassroots
+*   _Ezra Klein_: Bloomberg's Plan to Buy Dem Nomination Endangers Democracy
     
-*   _Beauchamp_: 3 Winners, 4 Losers From the Nevada Dem Debate
+*   _Victor Joecks_: Only Trump Can Beat Trump
     
-*   _Christian Whiton_: Republicans' Plan to Win Back House: Fight Like Trump
+*   _Susan Crabtree_: Re-energized Warren Looks to Regain Support in NV &. Beyond
     
-*   _LZ Granderson_: Trump's Pardons Show His Contempt for the Law
+*   _Gregg Jarrett_: Roger Stone's Sentence Proves Barr Right
     
-*   _Mark Penn_: The Political Prosecution of Roger Stone Should Be Overturned
+*   _Andrew Cohen_: 'The Truth Still Matters': Stone's Judge Does Us a Favor
     
-*   _Barr_: Protecting the 2020 Elections and Your Vote
+*   _Russ Vought_: Trump Takes Aim at Bureaucratic Bullying
     
-*   _Timothy Egan_: California Diaspora May Turn the Tables on Trump
+*   _Hindery &. Sloan_: President Trump's Coup on the American Dream
     
-*   _Newt Gingrich_: Gov. Newsom on CA's Homeless Crisis: 'We Own This Issue'
+*   _David Harsanyi_: Sanders Is Wrong: We Are Better Off Today Than Ever Before
     
-*   _David Krucoff_: Douglass County, Maryland, Is the Best Form of D.C. Statehood
+*   _Nicholas Kristof_: Pull Yourself Up by Bootstraps? Go Ahead, Try It ...
     
-*   _Li Yuan_: Virus Fight Exposes Weakness at the Heart of China's System
+*   _Andy Puzder_: Democratic Candidates Look Clueless on the Economy
     
-*   _Charles Hurt_: Bloomberg: The Incredible Shrinking Candidate
+*   _Ronald Brownstein_: Bernie Sanders Gets a Pass
     
 
 *   Previous
@@ -236,11 +236,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Re-energized Warren Looks to Regain Support in NV and Beyond
 *   Bloomberg's High-Stakes Debut Ends Up as a Bust
+*   MSNBC's Deutsch Is "Panicked," Says Sanders Can't Beat Trump
 *   Minnesota Nice Gets Nasty: Klobuchar Snaps at Buttigieg
-*   Trump: What If Top FBI Scum Did to Democrats What They Did to Me?
 *   Haley Taps Key Conservative, Fueling 2024 Speculation
-*   Some Congressional Dems Worry Sanders Nomination Would Hurt Ticket
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -259,42 +259,37 @@ Latest PollsAll Polls
     *   Biden16
     *   Buttigieg17
     *   Warren12
-    *   Steyer10
     *   Klobuchar11
+    *   Steyer10
     *   Gabbard2Sanders +13
-*   South Carolina Democratic Presidential PrimaryWinthrop
-    *   Biden24
-    *   Sanders19
-    *   Steyer15
-    *   Buttigieg7
-    *   Warren6
-    *   Klobuchar5
-    *   Gabbard1Biden +5
-*   California Democratic PrimaryMonmouth
-    *   Sanders24
-    *   Biden17
-    *   Bloomberg13
-    *   Buttigieg9
-    *   Warren10
-    *   Klobuchar4
-    *   Steyer5
-    *   Gabbard2Sanders +7
-*   Minnesota Democratic PrimaryUMass Lowell
-    *   Klobuchar27
-    *   Sanders21
+*   Nevada Democratic Presidential CaucusData for Progress (D)
+    *   Sanders35
+    *   Biden16
+    *   Buttigieg15
     *   Warren16
-    *   Buttigieg10
-    *   Biden9
-    *   Bloomberg9
-    *   Gabbard4Klobuchar +6
+    *   Klobuchar8
+    *   Steyer8
+    *   Gabbard2Sanders +19
+*   Massachusetts Democratic Presidential PrimaryUMass Lowell
+    *   Sanders21
+    *   Warren20
+    *   Buttigieg15
+    *   Biden14
+    *   Bloomberg12
+    *   Klobuchar9
+    *   Gabbard3
+    *   Steyer2Sanders +1
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve49
+    *   Disapprove51Disapprove +2
 
 More Latest Polls In The News
 
-*   Warren: I Bet Bloomberg Willl Spend $100 Million More On Ads To "Erase Everyone's Memory" Of Debate
+*   Sanders: Trump Would “Chew \[Bloomberg\] Up And Spit Him Out” In A General Election Debate
+*   Warren Challenges Bloomberg To Sign Contract Releasing Former Employees From NDAs
+*   Bloomberg Admits Defeat In First Debate Performance: "Real Winner" Of The Debate Was Donald Trump
 *   Plouffe: "Sanders In All Likelihood Is The Nominee Unless It Gets Taken Away From Him At The Convention"
-*   Sanders vs. Bloomberg: "The Best Known Socialist In The Country Is A Millionaire Who Owns Three Houses"
-*   Trump: Top "Scum" At FBI Would Be In Jail For 50 Years If They Did To Democrats What They Did To Me
-*   Buttigieg: Dems Shouldn't Have To Choose Between Candidates That Want To Burn Party Down or Buy It
+*   MSNBC's Donny Deutsch Is "Absolutely Panicked" That Bernie Sanders Is Running Away With Presidential Nomination
 
 *   Politics
 *   Policy
