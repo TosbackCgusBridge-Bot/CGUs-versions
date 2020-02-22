@@ -272,8 +272,8 @@ In certain circumstances, the Privacy Shield Framework provides the right to inv
 For questions, concerns or requests regarding the Privacy Policy or the use of personal information you submit to us, please contact us at 1-800-678-2319 or at support@kongregate.com or at:
 
 Kongregate Inc.  
-Floor 3, Suite 321  
+Floor 4, Suite 321  
 149 New Montgomery St  
 San Francisco, CA 94105
 
-_Last updated: January 10th, 2020_
+_Last updated: February 21st, 2020_
