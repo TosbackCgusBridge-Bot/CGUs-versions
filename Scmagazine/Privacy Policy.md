@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Microsoft patches IE vulnerability being exploited in the wild
-    *   Mac cyberattacks double in 2019: Malwarebytes
-    *   Blackburn blocks vote on trio of election security bills in Senate
-    *   Venables, Gerstell and Geer to headline CSA Summit
-    *   CISA issues warns critical infrastructure sectors after successful ransomware attack on pipeline operator
-    
-    *   Justice Dept. to reduce sentencing recommendation for Roger Stone
-    *   Report: Extortionists threaten websites with AdSense ban caused by bot traffic
-    *   No glossing this over: Leaky Estée Lauder database exposes 440M records
-    *   French plastic surgery image repository left vulnerable but since corrected: report
-    *   Blackburn blocks vote on trio of election security bills in Senate
-    
-    *   Trump berated Maguire after lawmakers were briefed on Russia's active interference in 2020 election
+    *   Cracking the code on cloud security for higher education
+    *   IBM pulls out of RSA over coronavirus fears
+    *   AT&T, Verizon join RSA exodus over Coronavirus fears
+    *   Dell sells RSA to Symphony Technology Group in $2B deal
     *   Stone gets 40 months and a rebuke from judge for lying to Congress
-    *   Microsoft patches IE vulnerability being exploited in the wild
-    *   Adobe, VMWare issue patches for critical vulnerabilities
-    *   MGM admits to 2019 data breach affecting 10.6 million customers
+    
+    *   Lokibot now using fake Epic Games installer to fool victims
+    *   Phishing campaign targets Americas with new variant of Loda RAT
+    *   Voatz mobile voting app vulnerable, MIT researchers say
+    *   FBI tallied 467K cybercrime complaints in 2019, totaling $3.5B in losses
+    *   Czech authorities investigating Avast over recent data collection practices
+    
+    *   Facebook’s European dating service held up over data protection, privacy concerns
+    *   Magecart Group 12 named as actor behind Olympic ticket POS attack
+    *   AT&T, Verizon join RSA exodus over Coronavirus fears
+    *   Protect your data assets – Building a secure NAS from the ground up
+    *   Trump berated Maguire after lawmakers were briefed on Russia's active interference in 2020 election
 
 Back to Top
 
