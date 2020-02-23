@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Up to 50% off select denim! Shop Now
+Feb. 14-23, 2020 - Earn BONUS POINTS when you use your BUCKLE CREDIT CARD. See Details
 
 *   Women
 *   Men
