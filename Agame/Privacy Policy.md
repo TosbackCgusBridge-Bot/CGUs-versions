@@ -51,13 +51,13 @@ View more results
     
     All Action Best Games
     *   Subway Clash 3D
-    *   Wormate.io
     *   Apple Shooter
+    *   Wormate.io
     *   Winter Clash 3D
     *   Slither.io
     *   Combat Reloaded
-    *   Miami Crime Simulator 3D
     *   Short Life
+    *   Miami Crime Simulator 3D
     *   Bad Ice Cream 2
     *   Sniper Code
     *   Deer Hunter
@@ -83,16 +83,16 @@ View more results
     *   World Craft 2
     *   Red Bounce Ball 5
     *   Chrome Dino
-    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Adam and Eve 2
     *   Adam and Eve 3
-    *   World Crafts
+    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Troll Face Quest: Horror 2
-    *   Subway Surf
+    *   World Crafts
     *   Adam and Eve 4
-    *   Dumb Ways to Die: Original
-    *   Miami Crime Simulator 3D
+    *   Subway Surf
     *   Adam and Eve
+    *   Monkey Go Happy: Witchcraft
+    *   Dumb Ways to Die: Original
 *   Puzzle
     
     Top Categories
@@ -114,14 +114,14 @@ View more results
     *   1001 Arabian Nights
     *   Bubble Shooter Classic
     *   Block Wood Puzzle
-    *   Mahjong Connect Classic
     *   Bubble Shooter
     *   Dream Pet Link
-    *   Mahjong Link
+    *   Mahjong Connect Classic
     *   TenTrix
+    *   Mahjong Link
     *   Word Wipe
     *   Gold Train FRVR
-    *   Line Puzzle
+    *   Road Trip FRVR
 *   Girls
     
     Top Categories
@@ -137,9 +137,10 @@ View more results
     *   Make Up
     
     All Girls Best Games
+    *   Lady Bug and Friends Maker
     *   Princesses Makeover
-    *   Beach Kiss
     *   Ella: Hips Surgery
+    *   Beach Kiss
     *   My New Room
     *   Goldie: Lip Injections
     *   Dove Prom Dolly Dress Up
@@ -147,10 +148,9 @@ View more results
     *   Villains Inspiring Fashion Trends
     *   Ellie: Get Ready With Me
     *   Extreme Makeover
+    *   Princess Juliet: Castle Escape
     *   Floral Real Life Manicure
     *   Love Tester 3
-    *   Pizza Real Life Cooking
-    *   3D Color by Number
 *   Racing
     
     Top Categories
@@ -171,15 +171,15 @@ View more results
     *   Thug Racer
     *   Top Speed Muscle Car: Simulator Game
     *   Xcross Madness
-    *   Bus Man Parking 3D
     *   Off Road Monster Trucks
     *   Real Dog Racing Simulator
+    *   Bus Man Parking 3D
+    *   Moto X3M: Motorcycle Racing Game
     *   Horse Racing: Betting Game
     *   Cars 3D
-    *   Moto X3M: Motorcycle Racing Game
     *   Russian Car Driver
     *   Hill Racing Challenge
-    *   Speed Racing Pro 2
+    *   Off-Roader V6
 *   Sports
     
     Top Categories
