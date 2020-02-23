@@ -123,7 +123,7 @@ Join the PlayStation Player Celebration for exclusive community prizes and more.
   
 Here's how to play and win:  https://play.st/38Fxpbn  pic.twitter.com/Ce1mBE3u3v
 
-3 days ago View Tweet Instagram Post B3-qqYxlIc3
+4 days ago View Tweet Instagram Post B3-qqYxlIc3
 
 A New 4K Handycam
 
@@ -174,15 +174,11 @@ With Modern Style
 
 <img class="bg-img" data-linkname="en:set\_b:position\_3|\_2x1-3:image:electronics:WF1000xM3Earbuds-February-18-2020:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Truly Wireless Design WF-1000xM3-Earbuds" data-img1x="/content/dam/sony/homepage/2019-august/august-19/WF-1000XM3-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-19/WF-1000XM3-600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-19/WF-1000XM3-600x600.jpg" alt="Truly Wireless Design"/>. <img class="bg-img" data-linkname="en:set\_b:position\_3|\_2x1-3:image:electronics:WF1000xM3Earbuds-February-18-2020:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Truly Wireless Design WF-1000xM3-Earbuds" data-img1x="/content/dam/sony/homepage/2019-august/august-19/WF-1000XM3-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-19/WF-1000XM3-600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-19/WF-1000XM3-600x600.jpg" alt="Truly Wireless Design Mobile"/>.
 
-Bringing You the Best Gaming, Audio, and Alpha Camera Technology
+*   Share on Facebook: https://www.youtube.com/sonyxperia
+*   Share on Twitter: https://www.youtube.com/sonyxperia
+*   Copy URL to Share: https://www.youtube.com/sonyxperia
 
-Learn More About the Xperia 5
-
-*   Share on Facebook: Bringing You the Best Gaming, Audio, and Alpha Camera Technology
-*   Share on Twitter: Bringing You the Best Gaming, Audio, and Alpha Camera Technology
-*   Copy URL to Share: Bringing You the Best Gaming, Audio, and Alpha Camera Technology
-
-<img class="bg-img" data-linkname="en:set\_b:position\_3|\_1x1-4:image:mobile:Xperia5-February-18-2020:mob:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Bringing You the Best Gaming, Audio, and Alpha Camera Technology Xperia-5" data-img1x="/content/dam/sony/homepage/2020-february/2-18/Xperia5-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-february/2-18/Xperia5-745x500.jpg" src="/content/dam/sony/homepage/2020-february/2-18/Xperia5-745x500.jpg" alt="Bringing You the Best Gaming, Audio, and Alpha Camera Technology"/>. <img class="bg-img" data-linkname="en:set\_b:position\_3|\_1x1-4:image:mobile:Xperia5-February-18-2020:mob:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Bringing You the Best Gaming, Audio, and Alpha Camera Technology Xperia-5" data-img1x="/content/dam/sony/homepage/2020-february/2-18/Xperia5-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-february/2-18/Xperia5-745x500.jpg" src="/content/dam/sony/homepage/2020-february/2-18/Xperia5-600x600.jpg" alt="Bringing You the Best Gaming, Audio, and Alpha Camera Technology Mobile"/>. Instagram Post B7jihD4hh9K
+<img class="bg-img" data-linkname="en:set\_b:position\_3|\_1x1-4:image:mobile:XperiaTeaser-February-18-2020:mob:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="https://www.youtube.com/sonyxperia Xperia-Teaser" data-img1x="/content/dam/sony/homepage/2020-february/2-18/Xperia-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-february/2-18/Xperia-745x500.jpg" src="/content/dam/sony/homepage/2020-february/2-18/Xperia-745x500.jpg" alt="https://www.youtube.com/sonyxperia"/>. <img class="bg-img" data-linkname="en:set\_b:position\_3|\_1x1-4:image:mobile:XperiaTeaser-February-18-2020:mob:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="https://www.youtube.com/sonyxperia Xperia-Teaser" data-img1x="/content/dam/sony/homepage/2020-february/2-18/Xperia-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-february/2-18/Xperia-745x500.jpg" src="/content/dam/sony/homepage/2020-february/2-18/Xperia-600x600.jpg" alt="https://www.youtube.com/sonyxperia Mobile"/>. Instagram Post B7jihD4hh9K
 
 Get Into a Romantic Mood
 
