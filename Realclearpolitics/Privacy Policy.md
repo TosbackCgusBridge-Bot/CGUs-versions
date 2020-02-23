@@ -119,6 +119,40 @@
     *   About
     *   Media Kit
 
+*   _Newt Gingrich_: 2 Winners, 1 Big Loser in Democratic Presidential Debate
+    
+*   _Gabriel DeBenedetti_: Beating Up Bloomberg Is Reinvigorating Dem Field
+    
+*   _Damon Linker_: Why Do All the Dem Candidates Seem So Unappealing?
+    
+*   _Roger Simon_: Media's Russia Meddling Is Becoming a Joke
+    
+*   _Kathy Gilsinan_: Sanders Is the Russian Trolls' Next Favorite Candidate
+    
+*   _Philip Wegmann_: RNC Brings In Record January Haul, Dwarfing Dems' Total
+    
+*   _Arick Wierson_: How the Bloomberg Team Can Fix Things Before Next Debate
+    
+*   _Conrad Black_: The Picture for Dems Is Likely to Grow Steadily Darker
+    
+*   _Andrew Sullivan_: Trump's Presidency Isn't Dark Comedy--It's Absurd Tragedy
+    
+*   _Rebecca Grant_: Is War in Afghanistan Finally Nearing an End?
+    
+*   _Ashley Tellis_: U.S.-Indian Partnership Has Prospered Under Trump
+    
+*   _Zeynep Tufekci_: How Coronavirus Reveals Authoritarianism's Fatal Flaw
+    
+*   _James Delingpole_: Are the Democrats Fracking Insane?
+    
+*   _Hua Hsu_: Climate Crisis: Searching for New Words to Make People Care
+    
+*   _Ben Domenech_: Twitter Makes Ideological Defamation Its Official Policy
+    
+*   _JoAnn Wypijewski_: Why Harvey Weinstein Might Walk
+    
+*   _Myra Adams_: Will America Elect a Jewish President?
+    
 *   _Matt Taibbi_: The Bloomberg Myth Explodes on Live TV
     
 *   _Derek Thompson_: Bernie Sanders Is George McGovern
@@ -132,40 +166,6 @@
 *   _Mark Hemingway_: NY Times Goes All In on Flawed 1619 Project
     
 *   _Thomas Edsall_: The Audacity of Trump's Hatred
-    
-*   _Sen. Tim Scott_: Trump's Black Support Will Rise at Least 50% in 2020
-    
-*   _Sammon &. Dayen_: Would Dems Really Take Nomination From Top Vote Getter?
-    
-*   _Ed Rendell_: Dems Shouldn't Count Out Biden or Fear a Brokered Convention
-    
-*   _Ann Ravel_: Third Parties Deserve Shot at Debate Stage
-    
-*   _Eric Levitz_: 5 Unanswered Questions That Will Help Decide Dem Nominee
-    
-*   _Patrick Buchanan_: Was Las Vegas Debate Fatal for Bloomberg?
-    
-*   _Ezra Klein_: Bloomberg's Plan to Buy Dem Nomination Endangers Democracy
-    
-*   _Victor Joecks_: Only Trump Can Beat Trump
-    
-*   _Susan Crabtree_: Re-energized Warren Looks to Regain Support in NV &. Beyond
-    
-*   _Gregg Jarrett_: Roger Stone's Sentence Proves Barr Right
-    
-*   _Andrew Cohen_: 'The Truth Still Matters': Stone's Judge Does Us a Favor
-    
-*   _Russ Vought_: Trump Takes Aim at Bureaucratic Bullying
-    
-*   _Hindery &. Sloan_: President Trump's Coup on the American Dream
-    
-*   _David Harsanyi_: Sanders Is Wrong: We Are Better Off Today Than Ever Before
-    
-*   _Nicholas Kristof_: Pull Yourself Up by Bootstraps? Go Ahead, Try It ...
-    
-*   _Andy Puzder_: Democratic Candidates Look Clueless on the Economy
-    
-*   _Ronald Brownstein_: Bernie Sanders Gets a Pass
     
 
 *   Previous
@@ -236,11 +236,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   RNC Brings In Record January Haul, Dwarfing Dems' Total
 *   Re-energized Warren Looks to Regain Support in NV and Beyond
+*   Sanders: Trump Would Chew Bloomberg Up and Spit Him Out
 *   Bloomberg's High-Stakes Debut Ends Up as a Bust
-*   MSNBC's Deutsch Is "Panicked," Says Sanders Can't Beat Trump
 *   Minnesota Nice Gets Nasty: Klobuchar Snaps at Buttigieg
-*   Haley Taps Key Conservative, Fueling 2024 Speculation
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -254,34 +254,39 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
-*   Nevada Democratic Presidential CaucusKLAS-TV/Emerson
-    *   Sanders30
-    *   Biden16
-    *   Buttigieg17
-    *   Warren12
-    *   Klobuchar11
-    *   Steyer10
-    *   Gabbard2Sanders +13
+*   Minnesota Democratic PrimaryStar Tribune/Mason-Dixon
+    *   Klobuchar29
+    *   Sanders23
+    *   Warren11
+    *   Biden8
+    *   Buttigieg3
+    *   Bloomberg3
+    *   Gabbard1Klobuchar +6
 *   Nevada Democratic Presidential CaucusData for Progress (D)
     *   Sanders35
-    *   Biden16
     *   Buttigieg15
+    *   Biden16
     *   Warren16
     *   Klobuchar8
     *   Steyer8
     *   Gabbard2Sanders +19
-*   Massachusetts Democratic Presidential PrimaryUMass Lowell
-    *   Sanders21
-    *   Warren20
-    *   Buttigieg15
-    *   Biden14
+*   Nevada Democratic Presidential CaucusKLAS-TV/Emerson
+    *   Sanders30
+    *   Buttigieg17
+    *   Biden16
+    *   Warren12
+    *   Klobuchar11
+    *   Steyer10
+    *   Gabbard2Sanders +13
+*   California Democratic PrimaryUMass Lowell
+    *   Sanders24
+    *   Biden13
     *   Bloomberg12
-    *   Klobuchar9
-    *   Gabbard3
-    *   Steyer2Sanders +1
-*   President Trump Job ApprovalRasmussen Reports
-    *   Approve49
-    *   Disapprove51Disapprove +2
+    *   Warren16
+    *   Buttigieg12
+    *   Klobuchar7
+    *   Steyer2
+    *   Gabbard4Sanders +8
 
 More Latest Polls In The News
 
