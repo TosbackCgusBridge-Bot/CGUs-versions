@@ -8,7 +8,7 @@ Sign Up or Log In User ID User ID PASSWORD SHOW PASSWORD Remember Me LOGIN Forgo
 
 Get exclusive benefits when you open a FedEx account.
 
-CREATE ACCOUNT Menu undefined Top Searched Door Tag Insight Supplies Claims Billing Home FedEx Trust Center FedEx Privacy Notice FedEx Privacy Notice FedEx Privacy Notice Global Privacy Policy Created with Sketch. Global privacy policy Privacy notice Cookie notice Binding corporate rules
+CREATE ACCOUNT Menu Top Searched Door Tag Insight Supplies Claims Billing Home FedEx Trust Center FedEx Privacy Notice FedEx Privacy Notice FedEx Privacy Notice Global Privacy Policy Created with Sketch. Global privacy policy Privacy notice Cookie notice Binding corporate rules
 
 Your trust matters to us. That is why we protect your information and use it responsibly, while continuing to deliver the excellent service you expect from FedEx. We are committed to protecting your privacy and the security of your personal data. We have created this Privacy Notice to explain how FedEx collects and uses personal data.
 
