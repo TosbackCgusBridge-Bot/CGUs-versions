@@ -215,17 +215,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Cracking the code on cloud security for higher education
-    *   IBM pulls out of RSA over coronavirus fears
-    *   AT&T, Verizon join RSA exodus over Coronavirus fears
-    *   Dell sells RSA to Symphony Technology Group in $2B deal
-    *   Stone gets 40 months and a rebuke from judge for lying to Congress
-    
+    *   Trump offered Assange pardon to deny Russia behind DNC hack, lawyer tells court
+    *   Phishing emails lure victims with news of coronavirus' impact on shipping
     *   Lokibot now using fake Epic Games installer to fool victims
-    *   Phishing campaign targets Americas with new variant of Loda RAT
-    *   Voatz mobile voting app vulnerable, MIT researchers say
-    *   FBI tallied 467K cybercrime complaints in 2019, totaling $3.5B in losses
-    *   Czech authorities investigating Avast over recent data collection practices
+    *   IBM pulls out of RSA over coronavirus fears
+    *   Three answers to the cybersecurity skills gap
+    
+    *   Inside the weakest link: How good and bad actors view endpoint security
+    *   Texas attack: Garrison, Nacogdoches schools hit with ransomware
+    *   Hidden Cobra adds to its malware arsenal: CISA
+    *   Adobe Patch Tuesday: Critical vulnerabilities in Flash Player, Framemaker patched
+    *   Justice Dept. to reduce sentencing recommendation for Roger Stone
     
     *   Facebook’s European dating service held up over data protection, privacy concerns
     *   Magecart Group 12 named as actor behind Olympic ticket POS attack
@@ -264,4 +264,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
