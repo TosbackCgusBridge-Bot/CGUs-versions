@@ -9,7 +9,7 @@
 Menu IKEA
 
 *   Offers
-*   Products Products Products New at IKEA Offers Ideas &. Inspiration
+*   Products Products Products New at IKEA
     
     *   Furniture
         *   Furniture
@@ -263,8 +263,10 @@ Menu IKEA
     
     Deals &. Steals
     
+    *   Offers
     *   Last Chance
     *   New Lower Price
+    *   IKEA Sets
     *   $10 and under
     
     Seasonal
@@ -272,13 +274,13 @@ Menu IKEA
         
 *   Rooms Rooms
     *   Rooms
+    *   Ideas &. Inspiration
     *   Bedroom
     *   Living room
     *   Kitchen &. appliances
     *   Home office
     *   Bathroom
-    *   Baby room
-    *   Kids room
+    *   Baby &. kids room
     *   Dining
     *   Hallway
     *   Laundry
