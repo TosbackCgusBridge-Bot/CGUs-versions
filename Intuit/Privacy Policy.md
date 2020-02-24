@@ -21,20 +21,7 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackSelections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken. 
-
-*   SHOP NOW
-
-*   Women
-    
-*   Men
-    
-*   Girls
-    
-*   Boys
-    
-
-SHOP NOWShop all NikeNike excluded from couponsShop all adidasadidas excluded from couponsUP TO 60% OFF+ Extra 10% off with coupon Furniture | select styles Furniture available online only. UP TO 60% OFF+ Extra 10% off with coupon Mattresses | select styles  
+Near YouFind a StoreBack 
 
 *   SHOP NOW
 
@@ -47,20 +34,27 @@ SHOP NOWShop all NikeNike excluded from couponsShop all adidasadidas excluded fr
 *   Home Decor
     
 
-SHOP NOWSHOP NOWShop our curated collection of tees, hair products and makeup—designed just for you. Next stop: the dance floorYour one-stop destination for taking prom to a place that’s uniquely yours.  Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 31 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+SHOP NOWSelections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken. 
 
-*   RED BOW DEAL!
+*   SHOP NOW
+
+*   Women
     
-    $18749after couponwas $499.98 Womens 1 CT. T.W. Genuine Diamond Sterling Silver Cocktail Ring(21)
+*   Men
+    
+*   Girls
+    
+*   Boys
+    
+
+SHOP NOWShop all NikeNike excluded from couponsShop all adidasadidas excluded from couponsSHOP NOWShop our curated collection of tees, hair products and makeup—designed just for you. Next stop: the dance floorYour one-stop destination for taking prom to a place that’s uniquely yours.  Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 31 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+
+*   $1359after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(324)
 *   $3999after couponwas $74 Premier Amour Cold Shoulder Sheath Dress
 *   $1439after couponwas $35 a.n.a Womens Keyhole Neck Long Sleeve Peasant Top
-*   $8 - $5760after couponJCPenney Home™ Quick Dri Textured Solid Bath Towels(1645)
-*   $44after couponWorthington Womens Beckwith Heeled Sandals(30)
-*   LIMITED TIME SPECIAL!
-    
-    $10 sale
-    
-    was $49.98 | 80% offLIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver(227)
+*   $7699 - $8399after couponwas $280 - $300 JCPenney Home Audrey 10-pc. Comforter Set(3)
+*   $1519after couponwas $80 Arizona Womens Denver Riding Boots Block Heel(206)
+*   $1599 - $7874after couponwas $60 - $209 400tc Wrinkle Guard Deep Pocket Sheet Set - JCPenney Home(2882)
 
 Shop and Save at JCPenney
 
