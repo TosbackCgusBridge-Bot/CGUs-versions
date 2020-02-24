@@ -24,8 +24,8 @@ View more results
     *   Worms.Zone
     *   Subway Clash 3D
     *   Fireboy and Watergirl: The Forest Temple
-    *   Fireboy and Watergirl 5: Elements
     *   Ono Card Game
+    *   Fireboy and Watergirl 5: Elements
     *   Wormate.io
     *   Pool Clash: 8 Ball Billiards Snooker
     *   Slither.io
@@ -53,17 +53,17 @@ View more results
     *   Subway Clash 3D
     *   Apple Shooter
     *   Wormate.io
-    *   Winter Clash 3D
     *   Slither.io
+    *   Winter Clash 3D
     *   Combat Reloaded
     *   Short Life
     *   Miami Crime Simulator 3D
     *   Bad Ice Cream 2
-    *   Sniper Code
     *   Deer Hunter
+    *   Sniper Code
+    *   Zombies Paradiso
     *   Bomb It 6
     *   Stickman Warriors
-    *   Sniper Reloaded
 *   Adventure
     
     Top Categories
@@ -85,14 +85,14 @@ View more results
     *   Chrome Dino
     *   Adam and Eve 2
     *   Adam and Eve 3
-    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Troll Face Quest: Horror 2
+    *   Fireboy &. Watergirl 4: Crystal Temple
     *   World Crafts
     *   Adam and Eve 4
     *   Subway Surf
     *   Adam and Eve
-    *   Monkey Go Happy: Witchcraft
     *   Dumb Ways to Die: Original
+    *   Monkey Go Happy: Witchcraft
 *   Puzzle
     
     Top Categories
@@ -114,14 +114,14 @@ View more results
     *   1001 Arabian Nights
     *   Bubble Shooter Classic
     *   Block Wood Puzzle
-    *   Bubble Shooter
     *   Dream Pet Link
-    *   Mahjong Connect Classic
+    *   Bubble Shooter
     *   TenTrix
+    *   Mahjong Connect Classic
     *   Mahjong Link
-    *   Word Wipe
     *   Gold Train FRVR
     *   Road Trip FRVR
+    *   Word Wipe
 *   Girls
     
     Top Categories
@@ -145,12 +145,12 @@ View more results
     *   Goldie: Lip Injections
     *   Dove Prom Dolly Dress Up
     *   Baby Hazel Goes Sick
-    *   Villains Inspiring Fashion Trends
     *   Ellie: Get Ready With Me
-    *   Extreme Makeover
-    *   Princess Juliet: Castle Escape
-    *   Floral Real Life Manicure
+    *   Villains Inspiring Fashion Trends
     *   Love Tester 3
+    *   Extreme Makeover
+    *   Floral Real Life Manicure
+    *   Princess Juliet: Castle Escape
 *   Racing
     
     Top Categories
@@ -197,11 +197,11 @@ View more results
     *   Penalty Shooters 2: Football Game
     *   Basketball Stars 2019
     *   Table Tennis Pro
-    *   Pool Clash: 8 Ball Billiards Snooker
     *   Stunt Skateboard 3D
+    *   Pool Clash: 8 Ball Billiards Snooker
     *   Xcross Madness
-    *   Ultimate Boxing
     *   Table Tennis World Tour
+    *   Ultimate Boxing
     *   Archery World Tour
     *   Subway Surf
     *   Football Legends 2016
