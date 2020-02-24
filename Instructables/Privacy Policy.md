@@ -390,7 +390,7 @@ Pусский
 
 繁體中文
 
-Feedback FOLLOW AUTODESK
+FEEDBACK FOLLOW AUTODESK
 
 *   Facebook
 *   Instagram
