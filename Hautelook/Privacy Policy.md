@@ -7,21 +7,55 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Sunday Style Steals Up to 80% Off
+    *   On-Trend Sunglasses Up to 80% Off
+    *   Free Shipping: BergHOFF Up to 55% Off
+    *   Season's Best Swim Up to 70% Off
+    *   Sandals &. Pumps from $30
+    *   Smart Watch Bands &. More Up to 70% Off
+    *   On-Trend Bags ft. Thacker Up to 60% Off
+    *   Style Steals: Men's Clothing Up to 70% Off
+    *   Men's Shoe Steals Up to 70% Off
+    *   Phone Chargers Up to 65% Off
+    *   Headphones &. Tech Accessories Up to 70% Off
+    *   Spring Jacket Shop: Raincoats &. Trenches Up to 65% Off
+    *   Spring Jacket Shop: Leather &. Suede Up to 65% Off
+    *   Naturalizer &. SOUL Naturalizer from $40
+    *   Spring Jacket Shop: Men's Rain &. Weather Styles Up to 65% Off
+    *   Spring Jacket Shop: Active &. Performance Up to 65% Off
+    *   Spring Jacket Shop: Denim &. Utility Up to 65% Off
+    *   Spring Jacket Shop: Dusters &. More Up to 65% Off
+    *   Work Week Chic: Laundry by Shelli Segal &. More
+    *   Spring Jacket Shop: Men's Denim, Leather &. More Up to 65% Off
+    *   Best of Palettes ft. LORAC &. BECCA Cosmetics
+    *   Papillon Up to 75% Off
+    *   Better Together: Graphic Tees &. Denim Shorts
+    *   Jen7 Denim Up to 65% Off
+    *   Waterproof Shoes ft. Cougar
+    *   Spring Jacket Shop: Kids' Styles Up to 65% Off
+    *   Puddle Jumpers: Hunter Kids &. More
+    *   Delsey Up to 60% Off
+    *   Londontown Nail Polish Starting at $10
+    *   Ettika Jewelry Starting at $15
+    *   SIBU Sea Berry Therapy Skin Care &. Supplements
+    *   Kids' Character PJs ft. AME
+    *   Best for Baby: Coccoli &. More
+    
+    *   Free Shipping: Fine Art Up to 90% Off
+    *   Maison Forte
     *   Elie Tahari
     *   Levi's Incl. Plus
-    *   Outdoor Voices
     *   Levi's Men Up to 60% Off
+    *   Outdoor Voices
+    *   Alternative Apparel Up to 65% Off
     *   Schutz Up to 60% Off
-    *   Saturday Swim Shop: Rachel Rachel Roy &. BECCA
     *   KENDALL + KYLIE
-    *   The Original Makeup Eraser
     *   Underneath It All: Shapewear We Love
     *   Aldo &. Call It Spring from $35
     *   Fresh Finds: Flats, Sandals &. More Up to 60% Off
     *   Levi's Kids Up to 55% Off
     *   Diamonds, Gems &. More Up to 80% Off
     *   Bruno Magli Up to 50% Off
-    *   Alternative Apparel Up to 65% Off
     *   Gordon Rush
     *   Free Shipping: Boho-Chic Decor from $15
     *   Top Hair Brands Starting at $10
@@ -32,7 +66,6 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Roberto Cavalli Watches &. More Up to 50% Off
     *   Melissa
     *   Mini Melissa
-    
     *   Ray-Ban
     *   Season's Best: Swim Up to 55% Off ft. Maaji
     *   Resort Ready: Shahida Parides &. More
@@ -41,6 +74,7 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Via Spiga Up to 60% Off
     *   Supplies by Union Bay &. Unionbay
     *   ECCO for Her Up to 55% Off
+    
     *   Statement Jewelry Starting at $18
     *   English Laundry Up to 65% Off
     *   skinChemists Up to 80% Off
@@ -54,46 +88,57 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   7 For All Mankind Kids Up to 65% Off
     *   Sandals &. Slides for Spring Starting at $20
     *   Michael Todd Beauty Soniclear &. More Up to 60% Off
-    *   Brooks Brothers
     *   Makeup Kits Up to 55% Off
-    *   CZ by Kenneth Jay Lane Up to 65% Off
-    *   Reebok Men's Activewear Under $50
-    
     *   Luxury Bath Towels Up to 65% Off
     *   Kate Spade New York Home Up to 50% Off
     *   Play All Day: Imaginative Toys ft. Mattel
     *   TOMS Kids
     *   Home Decor Starting at $15
-    *   Ted Baker London Men's Shoes
     *   Korean Beauty: COSRX &. More Starting at $10
     *   Treat Yourself: Body Care Under $20
     *   Cookware Faves ft. Le Creuset Marine Collection
+    *   Saturday Swim Shop: Rachel Rachel Roy &. BECCA
+    *   The Original Makeup Eraser
+    *   New on HauteLook: Amour Vert &. More
+    *   Vintage Foundry Up to 80% Off
     *   For the Home Chef: Miyabi Cutlery Sets
     *   Quality Cookware Up to 55% Off
     *   Dinnerware Sets &. More Up to 65% Off
-    *   Liquid IV: Hydration Powder Supplements
-    *   Neon &. Co. Hair Masks, Treatments &. More
     *   Free Shipping: Decorative Pillows &. Throws
     *   Free Shipping: Wall Decals Up to 55% Off
     *   Free Shipping: Storage Must-Haves from $15
-    *   Beach Ready: Towels Up to 60% Off
-    *   New on HauteLook: Amour Vert &. More
-    *   Vintage Foundry Up to 80% Off
-    *   Pack Your Bag: CabinZero
-    *   Free Shipping: Comforters, Duvets &. More
-    *   Wearable Tech Up to 70% Off
 *   WomenShop Sale Events
     
+    *   Sunday Style Steals Up to 80% Off
+    *   On-Trend Sunglasses Up to 80% Off
+    *   Season's Best Swim Up to 70% Off
+    *   Sandals &. Pumps from $30
+    *   On-Trend Bags ft. Thacker Up to 60% Off
+    *   Spring Jacket Shop: Raincoats &. Trenches Up to 65% Off
+    *   Spring Jacket Shop: Leather &. Suede Up to 65% Off
+    *   Naturalizer &. SOUL Naturalizer from $40
+    *   Spring Jacket Shop: Active &. Performance Up to 65% Off
+    *   Spring Jacket Shop: Denim &. Utility Up to 65% Off
+    *   Spring Jacket Shop: Dusters &. More Up to 65% Off
+    *   Work Week Chic: Laundry by Shelli Segal &. More
+    *   Best of Palettes ft. LORAC &. BECCA Cosmetics
+    *   Papillon Up to 75% Off
+    *   Better Together: Graphic Tees &. Denim Shorts
+    *   Jen7 Denim Up to 65% Off
+    *   Waterproof Shoes ft. Cougar
+    *   Delsey Up to 60% Off
+    *   Londontown Nail Polish Starting at $10
+    *   Ettika Jewelry Starting at $15
+    *   SIBU Sea Berry Therapy Skin Care &. Supplements
     *   Elie Tahari
     *   Levi's Incl. Plus
     *   Outdoor Voices
     *   Schutz Up to 60% Off
-    *   Saturday Swim Shop: Rachel Rachel Roy &. BECCA
     *   KENDALL + KYLIE
-    *   The Original Makeup Eraser
     *   Underneath It All: Shapewear We Love
     *   Aldo &. Call It Spring from $35
     *   Fresh Finds: Flats, Sandals &. More Up to 60% Off
+    
     *   Diamonds, Gems &. More Up to 80% Off
     *   Bruno Magli Up to 50% Off
     *   Top Hair Brands Starting at $10
@@ -105,7 +150,6 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Ray-Ban
     *   Season's Best: Swim Up to 55% Off ft. Maaji
     *   Resort Ready: Shahida Parides &. More
-    
     *   Walter Baker
     *   Playful Prints: BeachLunchLounge &. More
     *   Via Spiga Up to 60% Off
@@ -119,13 +163,11 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Sandals &. Slides for Spring Starting at $20
     *   Michael Todd Beauty Soniclear &. More Up to 60% Off
     *   Makeup Kits Up to 55% Off
-    *   CZ by Kenneth Jay Lane Up to 65% Off
     *   Korean Beauty: COSRX &. More Starting at $10
     *   Treat Yourself: Body Care Under $20
-    *   Liquid IV: Hydration Powder Supplements
-    *   Neon &. Co. Hair Masks, Treatments &. More
+    *   Saturday Swim Shop: Rachel Rachel Roy &. BECCA
+    *   The Original Makeup Eraser
     *   New on HauteLook: Amour Vert &. More
-    *   Pack Your Bag: CabinZero
     
     Shop By Category
     *   Clothing
@@ -137,28 +179,35 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   MenShop Sale Events
     
+    *   On-Trend Sunglasses Up to 80% Off
+    *   Style Steals: Men's Clothing Up to 70% Off
+    *   Men's Shoe Steals Up to 70% Off
+    *   Spring Jacket Shop: Men's Rain &. Weather Styles Up to 65% Off
+    *   Spring Jacket Shop: Men's Denim, Leather &. More Up to 65% Off
+    *   Delsey Up to 60% Off
+    *   Maison Forte
     *   Levi's Men Up to 60% Off
+    
     *   Alternative Apparel Up to 65% Off
     *   Gordon Rush
     *   Roberto Cavalli Watches &. More Up to 50% Off
     *   Ray-Ban
     *   English Laundry Up to 65% Off
     *   Cole Haan Men Up to 75% Off
-    
     *   Luxe Men's Shoes Under $100
-    *   Brooks Brothers
-    *   Reebok Men's Activewear Under $50
-    *   Ted Baker London Men's Shoes
     *   Vintage Foundry Up to 80% Off
-    *   Pack Your Bag: CabinZero
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Accessories
     *   Watches
 *   KidsShop Sale Events
     
+    *   Spring Jacket Shop: Kids' Styles Up to 65% Off
+    *   Puddle Jumpers: Hunter Kids &. More
+    *   Kids' Character PJs ft. AME
+    *   Best for Baby: Coccoli &. More
     *   Levi's Kids Up to 55% Off
     *   Mini Melissa
     *   Resort Report: Kids' Swimwear, Ray-Ban Sun &. More
@@ -167,69 +216,72 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   TOMS Kids
     
     Shop By Category
-    *   Girls' Shoes
     *   Girls
-    *   Toys
+    *   Girls' Shoes
     *   Boys
+    *   Toys
     *   Baby
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Free Shipping: BergHOFF Up to 55% Off
+    *   Smart Watch Bands &. More Up to 70% Off
+    *   Phone Chargers Up to 65% Off
+    *   Headphones &. Tech Accessories Up to 70% Off
+    *   Free Shipping: Fine Art Up to 90% Off
     *   Free Shipping: Boho-Chic Decor from $15
     *   Pet Accessories Up to 45% Off
     *   Nordstrom Home Decor Up to 50% Off
     *   Luxury Bath Towels Up to 65% Off
+    
     *   Kate Spade New York Home Up to 50% Off
     *   Home Decor Starting at $15
     *   Cookware Faves ft. Le Creuset Marine Collection
     *   For the Home Chef: Miyabi Cutlery Sets
     *   Quality Cookware Up to 55% Off
-    
     *   Dinnerware Sets &. More Up to 65% Off
     *   Free Shipping: Decorative Pillows &. Throws
     *   Free Shipping: Wall Decals Up to 55% Off
     *   Free Shipping: Storage Must-Haves from $15
-    *   Beach Ready: Towels Up to 60% Off
-    *   Pack Your Bag: CabinZero
-    *   Free Shipping: Comforters, Duvets &. More
-    *   Wearable Tech Up to 70% Off
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Bath
-    *   Bedding
     *   Electronic &. Tech Accessories
+    *   Bath
+    *   Pet Accessories
     *   Cleaning &. Organization
+    *   Bedding
     *   Outdoor Living
     *   Luggage &. Travel
-    *   Pet Accessories
     *   Accent Furniture
 *   BeautyShop Sale Events
     
-    *   The Original Makeup Eraser
+    *   Best of Palettes ft. LORAC &. BECCA Cosmetics
+    *   Londontown Nail Polish Starting at $10
+    *   SIBU Sea Berry Therapy Skin Care &. Supplements
     *   Top Hair Brands Starting at $10
     *   Sky Organics: Essential Oils, Bath Bombs &. More
     *   Clean Beauty: dome BEAUTY Under $15
     *   skinChemists Up to 80% Off
+    
     *   Own Your Spotlight: JOI Mirrors &. More
     *   Floris London: Luxury Fragrances for Her
-    
     *   Michael Todd Beauty Soniclear &. More Up to 60% Off
     *   Makeup Kits Up to 55% Off
     *   Korean Beauty: COSRX &. More Starting at $10
     *   Treat Yourself: Body Care Under $20
-    *   Liquid IV: Hydration Powder Supplements
-    *   Neon &. Co. Hair Masks, Treatments &. More
+    *   The Original Makeup Eraser
     
     Shop By Category
     *   Skin Care
     *   Makeup
+    *   Hair Care
     *   Bath &. Body
+    *   Nails
     *   Fragrance
     *   Tools &. Accessories
     *   Makeup Bags
-    *   Hair Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
