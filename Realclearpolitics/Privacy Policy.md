@@ -119,53 +119,53 @@
     *   About
     *   Media Kit
 
-*   _Newt Gingrich_: 2 Winners, 1 Big Loser in Democratic Presidential Debate
+*   _Medina &. Herndon_: How Bernie Sanders Dominated in Nevada
     
-*   _Gabriel DeBenedetti_: Beating Up Bloomberg Is Reinvigorating Dem Field
+*   _Matthew Yglesias_: Why Mainstream Democrats Shouldn't Fear Bernie Sanders
     
-*   _Damon Linker_: Why Do All the Dem Candidates Seem So Unappealing?
+*   _Cowan & Bennett_: Stand Up to Bernie or Doom the Democratic Party
     
-*   _Roger Simon_: Media's Russia Meddling Is Becoming a Joke
+*   _Tucker Carlson_: Ruling Class, Not Russia, Is Attacking Our Democratic System
     
-*   _Kathy Gilsinan_: Sanders Is the Russian Trolls' Next Favorite Candidate
+*   _Jeffrey Crouch_: Our Founders Didn’t Intend for Pardons to Work Like This
     
-*   _Philip Wegmann_: RNC Brings In Record January Haul, Dwarfing Dems' Total
+*   _Jonathan Turley_: Roger Stone Deserves a New Trial, Not a Pardon
     
-*   _Arick Wierson_: How the Bloomberg Team Can Fix Things Before Next Debate
+*   _Carter Malkasian_: How the Good War Went Bad
     
-*   _Conrad Black_: The Picture for Dems Is Likely to Grow Steadily Darker
+*   _Edward-Isaac Dovere_: The Democratic Establishment Is Broken
     
-*   _Andrew Sullivan_: Trump's Presidency Isn't Dark Comedy--It's Absurd Tragedy
+*   _Roger Kimball_: Mike Bloomberg, American Julianus
     
-*   _Rebecca Grant_: Is War in Afghanistan Finally Nearing an End?
+*   _Robert Reich_: We Must Spend Heavily on Green New Deal, Medicare for All
     
-*   _Ashley Tellis_: U.S.-Indian Partnership Has Prospered Under Trump
+*   _Nathanael Blake_: I Didn't Vote for Trump in '16. I Hope He Wins in 2020
     
-*   _Zeynep Tufekci_: How Coronavirus Reveals Authoritarianism's Fatal Flaw
+*   _Ryan Lizza_: Sanders Eviscerates Conventional Wisdom About Electablity
     
-*   _James Delingpole_: Are the Democrats Fracking Insane?
+*   _Susan Crabtree_: After Nevada Win, Sanders Claims 'Uniter' Mantel
     
-*   _Hua Hsu_: Climate Crisis: Searching for New Words to Make People Care
+*   _Joe Lockhart_: Bloomberg Needs to Take Down Sanders -- Immediately
     
-*   _Ben Domenech_: Twitter Makes Ideological Defamation Its Official Policy
+*   _Corey Lewandowski_: The Dem Nominee Won't Be Democratically Chosen
     
-*   _JoAnn Wypijewski_: Why Harvey Weinstein Might Walk
+*   _William McRaven_: We Should Be Afraid If Maguire Can't Speak Truth
     
-*   _Myra Adams_: Will America Elect a Jewish President?
+*   _Michael Goodwin_: Deep State Snakes Slither Back After Swamp Draining
     
-*   _Matt Taibbi_: The Bloomberg Myth Explodes on Live TV
+*   _Dahlia Lithwick_: The King Lear Era of Donald Trump's Presidency
     
-*   _Derek Thompson_: Bernie Sanders Is George McGovern
+*   _Andrew McCarthy_: Dems Cook Up Weak Sequel to Russia Collusion Hoax
     
-*   _Julie Kelly_: Does 'Truth' Still Matter for Obama Intel Officials?
+*   _Chris Cillizza_: Sanders Declares War on the Democratic Establishment
     
-*   _Jonathan Stevenson_: Will Grenell Destroy the Intelligence Community?
+*   _James Robbin_: 'Socialism' and the Battle for the Democratic Party
     
-*   _Debra Heine_: K.T. McFarland: Intel Community Targeted Its Political Enemies
+*   _Aída Chávez_: How Young Latinos Delivered Nevada to Tio Bernie
     
-*   _Mark Hemingway_: NY Times Goes All In on Flawed 1619 Project
+*   _David Siders_: Bloomberg Quietly Plotting Brokered Convention Strategy
     
-*   _Thomas Edsall_: The Audacity of Trump's Hatred
+*   _Kurt Schlichter_: Do Sanders Voters Realize They'll Get Screwed Again?
     
 
 *   Previous
@@ -254,6 +254,14 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
+*   South Carolina Democratic Presidential PrimaryCBS News/YouGov
+    *   Biden28
+    *   Sanders23
+    *   Steyer18
+    *   Buttigieg10
+    *   Warren12
+    *   Klobuchar4
+    *   Gabbard1Biden +5
 *   Minnesota Democratic PrimaryStar Tribune/Mason-Dixon
     *   Klobuchar29
     *   Sanders23
@@ -262,39 +270,30 @@ Latest PollsAll Polls
     *   Buttigieg3
     *   Bloomberg3
     *   Gabbard1Klobuchar +6
-*   Nevada Democratic Presidential CaucusData for Progress (D)
-    *   Sanders35
-    *   Buttigieg15
+*   Michigan Democratic Presidential PrimaryUniv. of Wis/State Journal
+    *   Sanders25
     *   Biden16
-    *   Warren16
-    *   Klobuchar8
-    *   Steyer8
-    *   Gabbard2Sanders +19
-*   Nevada Democratic Presidential CaucusKLAS-TV/Emerson
+    *   Bloomberg13
+    *   Warren13
+    *   Buttigieg11
+    *   Klobuchar8Sanders +9
+*   Wisconsin Democratic PrimaryUniv. of Wis/State Journal
     *   Sanders30
-    *   Buttigieg17
-    *   Biden16
-    *   Warren12
-    *   Klobuchar11
-    *   Steyer10
-    *   Gabbard2Sanders +13
-*   California Democratic PrimaryUMass Lowell
-    *   Sanders24
     *   Biden13
-    *   Bloomberg12
-    *   Warren16
+    *   Warren12
     *   Buttigieg12
-    *   Klobuchar7
-    *   Steyer2
-    *   Gabbard4Sanders +8
+    *   Bloomberg13
+    *   Klobuchar9
+    *   Steyer
+    *   GabbardSanders +17
 
 More Latest Polls In The News
 
-*   Sanders: Trump Would “Chew \[Bloomberg\] Up And Spit Him Out” In A General Election Debate
-*   Warren Challenges Bloomberg To Sign Contract Releasing Former Employees From NDAs
-*   Bloomberg Admits Defeat In First Debate Performance: "Real Winner" Of The Debate Was Donald Trump
-*   Plouffe: "Sanders In All Likelihood Is The Nominee Unless It Gets Taken Away From Him At The Convention"
-*   MSNBC's Donny Deutsch Is "Absolutely Panicked" That Bernie Sanders Is Running Away With Presidential Nomination
+*   Giridharadas: "Historic" Sanders Campaign Is "A Wake-Up Moment" For The "Power Establishment"
+*   James Carville: "You're A Fool" If You Think Bernie Sanders Can Win By Expanding The Electorate
+*   Lindsey Graham Says He Will Call 21 People To Testify In Senate Judiciary Investigation Into FISA Abuses
+*   Buttigieg: Sanders "Believes In An Inflexible, Ideological Revolution" That Leaves Out Most Dems &. Americans
+*   Chris Matthews Compares Bernie Sanders Winning Nevada To France Falling to The Nazis In 1940
 
 *   Politics
 *   Policy
