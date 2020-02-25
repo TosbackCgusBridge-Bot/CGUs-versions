@@ -8,35 +8,34 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
 *   Movies Now Playing
     
     *   Sonic the Hedgehog
+    *   The Call of the Wild (2020)
     *   Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)
-    *   Fantasy Island
-    *   The Photograph (2020)
+    *   Brahms: The Boy II
     *   Bad Boys for Life
     *   1917 (2019)
+    *   Fantasy Island
     *   Parasite (2019)
     *   Jumanji: The Next Level
-    *   Dolittle (2020)
-    *   Downhill (2020)
-    *   The Gentlemen
+    *   The Photograph (2020)
+    *   Impractical Jokers: The Movie
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Brahms: The Boy II
-    *   The Call of the Wild (2020)
-    *   My Hero Academia: Heroes Rising
-    *   Emma (2020)
-    *   Goldie (2020)
-    *   Impractical Jokers: The Movie
-    *   Las Pildoras De Mi Novio
-    *   Just One More Kiss (2020)
-    *   Those Who Remained (2020)
-    *   True Fiction (2020)
+    *   The Invisible Man (2020)
+    *   Blood on Her Name
+    *   Burden (2020)
+    *   Free Burma Rangers
+    *   Greed (2020)
+    *   Lost in America (2020)
+    *   Saint Frances
+    *   Wendy (2020)
+    *   The Whistlers (2020)
+    *   A White, White Day
     *   See All Opening This Week
     
     Coming Soon
     
-    *   The Invisible Man (2020)
     *   Onward
     *   The Way Back (2020)
     *   First Cow
@@ -45,6 +44,7 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
     *   My Spy (2020)
     *   Bloodshot (2020)
     *   A Quiet Place Part II (2020)
+    *   Mulan (2020)
     *   See All Coming Soon
     
     Explore More
@@ -72,9 +72,9 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Five Most Memorable Oscar Moments: 2020 Edition Read More
-    *   The Week in Movie News: Rick Moranis Returns for ‘Shrunk,’ Guy Ritchie to Direct ‘Aladdin’ Sequel and More Read More
-    *   The Week in Movie Trailers: Wes Anderson’s ‘The French Dispatch,’ Dev Patel in ‘The Green Knight’ and More Read More
+    *   Next 3 Exciting Family Adventures: 'Onward,' 'Mulan,' 'Peter Rabbit 2: The Runaway' Read More
+    *   The Week in Movie News: ‘Sleight’ Director Tapped for ‘Star Wars,’ Eli Roth to Make a ‘Borderlands’ Movie and More Read More
+    *   The Week in Movie Trailers: Daniel Radcliffe in ‘Escape from Pretoria,’ Toni Collette in ‘Dream Horse’ and More Read More
     
     Explore Content
     *   Movie Reviews
