@@ -66,9 +66,9 @@ Lenovo Explore Close
         *   IdeaCentre 310S Tower
         *   IdeaCentre T540 Gaming
         
-        Presidents Day
+        Sale
         
-        Save big on all-in-ones &. towers for home, gaming &. work
+        Click to visit desktop deals to enjoy weekly savings on traditional towers, all-in-ones &. more!
         
     *   Workstations
         
@@ -94,9 +94,9 @@ Lenovo Explore Close
         *   ThinkStation P330 Tiny
         *   ThinkStation P330 Tower
         
-        Presidents Day
+        Sale
         
-        Reliable &. highly versatile, our workstations offer powerful performance for the heaviest workloads. Save now!
+        Get the power you need with our wide selection of highly rated workstations. Enjoy savings now!
         
     *   Tablets
         
@@ -120,10 +120,6 @@ Lenovo Explore Close
         Tab M10
         
         The perfect family entertainment tablet
-        
-        Presidents Day
-        
-        Save extra on our assortment of tablets for work, home &. play!
         
     *   Accessories &. Software
         
@@ -224,9 +220,9 @@ Lenovo Explore Close
         *   Realspace Gaming Chair
         *   Legion Y740
         
-        Presidents Day
+        Shop Gaming
         
-        We're more than just PC's. Shop popular brands like Xbox &. HyperX &. much more for all your gaming needs
+        Shop everything gaming from consoles to headsets, and check our your favorite brands like Xbox &. Nintendo.
         
     *   Business
         
@@ -319,9 +315,9 @@ Lenovo Explore Close
         *   Trade In Program
         *   Outlet
         
-        Presidents Day
+        Sale
         
-        Enjoy special savings on Lenovo's wide assortment of PC's, monitors, electronics &. more!
+        Don't miss out on weekly deals on laptops, desktops, monitors &. more!
         
 *   Phones
 *   Data Center
