@@ -119,53 +119,53 @@
     *   About
     *   Media Kit
 
-*   _Medina &. Herndon_: How Bernie Sanders Dominated in Nevada
+*   _Sumantra Maitra_: The Possibilities of a U.S.-Indo Alliance Are YUGE
     
-*   _Matthew Yglesias_: Why Mainstream Democrats Shouldn't Fear Bernie Sanders
+*   _Suketu Mehta_: Trump and Modi Share a Dangerous View of the World
     
-*   _Cowan & Bennett_: Stand Up to Bernie or Doom the Democratic Party
+*   _Sean Trende_: Unthinkability Bias Comes for the Democrats
     
-*   _Tucker Carlson_: Ruling Class, Not Russia, Is Attacking Our Democratic System
+*   _Jim VandeHei_: Dem Establishment Shouldn't Panic--Sanders Can Beat Trump
     
-*   _Jeffrey Crouch_: Our Founders Didn’t Intend for Pardons to Work Like This
+*   _Saritha Prabhu_: Why Trump's Support Among Minorities Is Steadily Rising
     
-*   _Jonathan Turley_: Roger Stone Deserves a New Trial, Not a Pardon
+*   _Stephen Carter_: Why Black Voters Keep Picking Democrats
     
-*   _Carter Malkasian_: How the Good War Went Bad
+*   _Uri Friedman_: What Dems Aren't Admitting About Trump's Foreign Policy
     
-*   _Edward-Isaac Dovere_: The Democratic Establishment Is Broken
+*   _Tony Shaffer_: Donald Trump Is Ending the Endless Wars
     
-*   _Roger Kimball_: Mike Bloomberg, American Julianus
+*   _Samantha Vinograd_: For Trump, It's Ego Over Security When It Comes to Intel
     
-*   _Robert Reich_: We Must Spend Heavily on Green New Deal, Medicare for All
+*   _Ted Galen Carpenter_: How Obama's Good 'Intentions' Destroyed Libya
     
-*   _Nathanael Blake_: I Didn't Vote for Trump in '16. I Hope He Wins in 2020
+*   _Ariana Berengaut_: Democracies Are Better at Fighting Outbreaks
     
-*   _Ryan Lizza_: Sanders Eviscerates Conventional Wisdom About Electablity
+*   _Gabriel DeBenedetti_: No, You Drop Out: Why the Dem Field Isn't Shrinking
     
-*   _Susan Crabtree_: After Nevada Win, Sanders Claims 'Uniter' Mantel
+*   _Anand Giridharadas_: Sanders Is a Wake-Up Call for the Dem Establishment
     
-*   _Joe Lockhart_: Bloomberg Needs to Take Down Sanders -- Immediately
+*   _Sean Davis_: Is Dem Establishment Using Bloomberg to Deny Sanders?
     
-*   _Corey Lewandowski_: The Dem Nominee Won't Be Democratically Chosen
+*   _Julian Zelizer_: Reagan vs. Carter Holds a Crucial Lesson for 2020 Dems
     
-*   _William McRaven_: We Should Be Afraid If Maguire Can't Speak Truth
+*   _David Harsanyi_: Claims of Russian Election Meddling Are Still a Scam
     
-*   _Michael Goodwin_: Deep State Snakes Slither Back After Swamp Draining
+*   _Maureen Dowd_: Donald Trump: America's Parasite
     
-*   _Dahlia Lithwick_: The King Lear Era of Donald Trump's Presidency
+*   _David Catron_: Trump Expands Republican Base as Dems Disintegrate
     
-*   _Andrew McCarthy_: Dems Cook Up Weak Sequel to Russia Collusion Hoax
+*   _Jeff Greenfield_: More Cash May Not Repair Bloomberg's Monumental Failure
     
-*   _Chris Cillizza_: Sanders Declares War on the Democratic Establishment
+*   _David Brooks_: The Nuclear Family Was a Mistake
     
-*   _James Robbin_: 'Socialism' and the Battle for the Democratic Party
+*   _Kay Hymowitz_: Nuclear Family Is the Worst Family Form--Except for All Others
     
-*   _Aída Chávez_: How Young Latinos Delivered Nevada to Tio Bernie
+*   _Frank Miele_: Reforming the Impeachment Process for the 21st Century
     
-*   _David Siders_: Bloomberg Quietly Plotting Brokered Convention Strategy
+*   _Jelani Cobb_: How Did the Democratic Party End Up Here?
     
-*   _Kurt Schlichter_: Do Sanders Voters Realize They'll Get Screwed Again?
+*   _Dominic Green_: Dem Leadership Has Indulged Its Radicals for Too Long
     
 
 *   Previous
@@ -236,11 +236,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   RNC Brings In Record January Haul, Dwarfing Dems' Total
-*   Re-energized Warren Looks to Regain Support in NV and Beyond
-*   Sanders: Trump Would Chew Bloomberg Up and Spit Him Out
+*   India Pours On the Pageantry With Colorful Welcome for Trump
+*   After Nevada Win, Sanders Claims "Uniter" Mantel
+*   Davis: Is Dem Establishment Using Bloomberg to Deny Sanders?
 *   Bloomberg's High-Stakes Debut Ends Up as a Bust
-*   Minnesota Nice Gets Nasty: Klobuchar Snaps at Buttigieg
+*   RNC Brings In Record January Haul, Dwarfing Dems' Total
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -254,45 +254,44 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
-*   South Carolina Democratic Presidential PrimaryCBS News/YouGov
-    *   Biden28
+*   South Carolina Democratic Presidential PrimaryNBC News/Marist
+    *   Biden27
     *   Sanders23
-    *   Steyer18
+    *   Steyer15
+    *   Buttigieg9
+    *   Warren8
+    *   Klobuchar5
+    *   Gabbard3Biden +4
+*   South Carolina Democratic Presidential PrimaryPPP (D)
+    *   Biden36
+    *   Sanders21
+    *   Steyer7
+    *   Buttigieg7
+    *   Warren8
+    *   Klobuchar3
+    *   Gabbard6Biden +15
+*   Oklahoma Democratic PrimarySooner Poll
+    *   Bloomberg20
+    *   Biden21
+    *   Sanders13
     *   Buttigieg10
-    *   Warren12
-    *   Klobuchar4
-    *   Gabbard1Biden +5
-*   Minnesota Democratic PrimaryStar Tribune/Mason-Dixon
-    *   Klobuchar29
-    *   Sanders23
-    *   Warren11
-    *   Biden8
-    *   Buttigieg3
-    *   Bloomberg3
-    *   Gabbard1Klobuchar +6
-*   Michigan Democratic Presidential PrimaryUniv. of Wis/State Journal
-    *   Sanders25
-    *   Biden16
-    *   Bloomberg13
-    *   Warren13
+    *   Warren9
+    *   Klobuchar7Biden +1
+*   Texas Democratic PrimaryUniversity of Houston
+    *   Sanders20
+    *   Biden20
+    *   Warren17
+    *   Bloomberg12
     *   Buttigieg11
-    *   Klobuchar8Sanders +9
-*   Wisconsin Democratic PrimaryUniv. of Wis/State Journal
-    *   Sanders30
-    *   Biden13
-    *   Warren12
-    *   Buttigieg12
-    *   Bloomberg13
-    *   Klobuchar9
-    *   Steyer
-    *   GabbardSanders +17
+    *   Klobuchar7
+    *   Gabbard3Tie
 
 More Latest Polls In The News
 
+*   Bernie Sanders '60 Minutes' Interview: "Unfair To Say Everything Is Bad" About Cuban Revolution, Castro
 *   Giridharadas: "Historic" Sanders Campaign Is "A Wake-Up Moment" For The "Power Establishment"
 *   James Carville: "You're A Fool" If You Think Bernie Sanders Can Win By Expanding The Electorate
 *   Lindsey Graham Says He Will Call 21 People To Testify In Senate Judiciary Investigation Into FISA Abuses
-*   Buttigieg: Sanders "Believes In An Inflexible, Ideological Revolution" That Leaves Out Most Dems &. Americans
 *   Chris Matthews Compares Bernie Sanders Winning Nevada To France Falling to The Nazis In 1940
 
 *   Politics
