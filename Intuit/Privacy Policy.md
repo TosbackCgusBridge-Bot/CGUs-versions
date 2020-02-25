@@ -21,20 +21,7 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBack 
-
-*   SHOP NOW
-
-*   Window
-    
-*   Bath
-    
-*   Sheets
-    
-*   Home Decor
-    
-
-SHOP NOWSelections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken. 
+Near YouFind a StoreBackSelections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken. 
 
 *   SHOP NOW
 
@@ -47,14 +34,29 @@ SHOP NOWSelections may vary by store, while supplies last. Clearance percentages
 *   Boys
     
 
-SHOP NOWShop all NikeNike excluded from couponsShop all adidasadidas excluded from couponsSHOP NOWShop our curated collection of tees, hair products and makeup—designed just for you. Next stop: the dance floorYour one-stop destination for taking prom to a place that’s uniquely yours.  Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 31 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+SHOP NOWShop all NikeNike excluded from couponsShop all adidasadidas excluded from coupons 
 
-*   $1359after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(324)
-*   $3999after couponwas $74 Premier Amour Cold Shoulder Sheath Dress
-*   $1439after couponwas $35 a.n.a Womens Keyhole Neck Long Sleeve Peasant Top
-*   $7699 - $8399after couponwas $280 - $300 JCPenney Home Audrey 10-pc. Comforter Set(3)
-*   $1519after couponwas $80 Arizona Womens Denver Riding Boots Block Heel(206)
+*   SHOP NOW
+
+*   Window
+    
+*   Bath
+    
+*   Sheets
+    
+*   Home Decor
+    
+
+SHOP NOWSHOP NOWShop our curated collection of tees, hair products and makeup—designed just for you. Next stop: the dance floorYour one-stop destination for taking prom to a place that’s uniquely yours.  Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 31 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+
+*   $239after couponwas $20 Liz Claiborne Jacobean Bath Towel Collection(21)
+*   $8 - $6080after couponJCPenney Home Performance Bath Towel Collection(316)
+*   $4998
+    
+    LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver(229)
 *   $1599 - $7874after couponwas $60 - $209 400tc Wrinkle Guard Deep Pocket Sheet Set - JCPenney Home(2882)
+*   $7999 - $8999after couponwas $260 - $300 JCPenney Home Audrey 10-pc. Comforter Set(3)
+*   $1599 - $1935after couponwas $44 Worthington Perfect Trouser Modern Fit Bootcut Trouser(449)
 
 Shop and Save at JCPenney
 
