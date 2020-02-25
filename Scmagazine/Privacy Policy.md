@@ -215,17 +215,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Trump offered Assange pardon to deny Russia behind DNC hack, lawyer tells court
-    *   Phishing emails lure victims with news of coronavirus' impact on shipping
-    *   Lokibot now using fake Epic Games installer to fool victims
-    *   IBM pulls out of RSA over coronavirus fears
-    *   Three answers to the cybersecurity skills gap
+    *   Microsoft patches IE vulnerability being exploited in the wild
+    *   Stone gets 40 months and a rebuke from judge for lying to Congress
+    *   Trump berated Maguire after lawmakers were briefed on Russia's active interference in 2020 election
+    *   U.S. indicts four Chinese military members over Equifax breach
+    *   Facebook’s European dating service held up over data protection, privacy concerns
     
-    *   Inside the weakest link: How good and bad actors view endpoint security
-    *   Texas attack: Garrison, Nacogdoches schools hit with ransomware
-    *   Hidden Cobra adds to its malware arsenal: CISA
-    *   Adobe Patch Tuesday: Critical vulnerabilities in Flash Player, Framemaker patched
-    *   Justice Dept. to reduce sentencing recommendation for Roger Stone
+    *   Blackburn blocks vote on trio of election security bills in Senate
+    *   Voatz mobile voting app vulnerable, MIT researchers say
+    *   Venables, Gerstell and Geer to headline CSA Summit
+    *   Trump names Grenell as acting DNI
+    *   WordPress GDPR Cookie Consent plugin patched
     
     *   Facebook’s European dating service held up over data protection, privacy concerns
     *   Magecart Group 12 named as actor behind Olympic ticket POS attack
