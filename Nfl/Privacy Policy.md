@@ -2,7 +2,7 @@
 *   Scores
 *   Schedule
 *   Standings
-*   Super Bowl
+*   Combine
 *   Highlights
 *   NFL 100
 
