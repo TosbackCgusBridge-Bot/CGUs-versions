@@ -150,7 +150,13 @@ Professional CAD/CAM tools built on Inventor and AutoCAD Learn more Free trial S
 MEDIA &.  
 ENTERTAINMENT COLLECTION
 
-Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Image courtesy of Volkswagen TEST: New PC Design Promo Data: Lower price when you subscribe for 3 years Promo Data: FY21 Trade-in perpetual Offer US Try, buy, or learn more about Autodesk products See all products
+Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Image courtesy of Volkswagen Promo Data: Lower price when you subscribe for 3 years Promo Data: Feb Flash Sale 2020
+
+February Flash Sale
+
+Save big on our most popular software.
+
+Buy now Try, buy, or learn more about Autodesk products See all products
 
 Software for 2D and 3D CAD. Subscription includes AutoCAD, specialized toolsets, and apps.
 
