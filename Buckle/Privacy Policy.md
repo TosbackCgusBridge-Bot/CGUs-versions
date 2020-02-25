@@ -1,10 +1,10 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Up to 50% off select denim! Shop Now Double up on savings! Get an extra 33% off, or 50% off
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Guest Loyalty Members earn 2X POINTS on any Oakley purchase. shop now HIT REFRESH with new-season essentials. explore spring! Spring into savings with UP TO 50% OFF new to sale. shop now
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-Up to 50% off select denim! Shop Now
+Spring into savings with UP TO 50% OFF new to sale. shop now
 
 *   Women
 *   Men
@@ -26,6 +26,7 @@ Up to 50% off select denim! Shop Now
         *   Brill Boutique
         *   Buckle Exclusives
         *   Gift Cards
+        *   HIT REFRESH with Spring
         *   Shop by Outfits
         *   Special Offers
         *   Women's Brands
@@ -97,6 +98,7 @@ Up to 50% off select denim! Shop Now
         *   New Arrivals
         *   Buckle Exclusives
         *   Gift Cards
+        *   HIT REFRESH with Spring
         *   Men's Brands
         *   Shop by Outfit
         *   Special Offers
