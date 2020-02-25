@@ -1,6 +1,6 @@
-We have updated our privacy policy. Read it here.close X
+Please read our updated privacy policy.close X
 
-We use cookies to provide you with a more relevant experience on our website. By using this website, you consent to our use of cookies as described here.
+We use cookies to provide you with a more relevant experience on our website. By using this website, you consent to our use of cookies as described in the privacy policy.
 
 Skip to Content       Confirm Your Location
 
