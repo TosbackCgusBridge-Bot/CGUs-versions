@@ -10,7 +10,7 @@ skip to content skip to navigation skip to search
 *   Ship To
 *   Help Center
 
-Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Order History Edit Order Refer a Friend for 50% OFF Full Price Items! Bag 0
+Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Order History Edit Order Refer a Friend for 40% OFF Full Price Items! Bag 0
 
 *   Women
 *   Men
@@ -27,9 +27,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive up to 40% off your order!
+Receive 50% off any 1 item!
 
-code: FROZEN pin: PROMOTION DETAILS
+code: ARCTIC pin: PROMOTION DETAILS
 
 Customer Service Menu
 
@@ -222,7 +222,7 @@ Changes to this Privacy Policy
 
 Lands’ End may update this Privacy Policy from time to time. Please check this Privacy Policy periodically for changes. We will also notify you of material changes either by email or by a notice on this Site
 
-sign up**Get exclusive Offers and News**Privacy Policy &. Contact Info sign up U.S. Customers only. No purchase necessary. Automated marketing messages will be sent to the phone number provided. Msg &. data rates may apply. Up to 8 messages per month. Privacy Policy Customer Service Chat
+sign up**Get exclusive Offers and News**Privacy Policy &. Contact Info sign up U.S. Customers only. No purchase necessary. Automated marketing messages will be sent to the phone number provided. Msg &. data rates may apply. Up to 8 messages per month. Privacy Policy Customer Service
 
 *   Call Text Live Chat Email
 *   Help Center
@@ -272,7 +272,7 @@ Lands' End Credit Card
 *   Learn More &. Apply Now
 *   Manage Account
 
-Customer Service Chat
+Customer Service
 
 *   Call Text Chat Email
 *   Help Center
