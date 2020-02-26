@@ -119,53 +119,53 @@
     *   About
     *   Media Kit
 
-*   _Sumantra Maitra_: The Possibilities of a U.S.-Indo Alliance Are YUGE
+*   _Nathan Robinson_: Blocking Sanders at Convention Would Be a Poison Pill
     
-*   _Suketu Mehta_: Trump and Modi Share a Dangerous View of the World
+*   _Ben Mathis-Lilley_: Why Did the Dem Establishment Get So Stuck on Biden?
     
-*   _Sean Trende_: Unthinkability Bias Comes for the Democrats
+*   _Bill Whalen_: As California Goes, How Will Newsom and Harris Lean?
     
-*   _Jim VandeHei_: Dem Establishment Shouldn't Panic--Sanders Can Beat Trump
+*   _Karol Markowicz_: Goddesses or Victims: Dems' Unreal View of Womanhood
     
-*   _Saritha Prabhu_: Why Trump's Support Among Minorities Is Steadily Rising
+*   _John Harris_: Confessions of a Slow Learner: Politics in U.S. Really Is Sexist
     
-*   _Stephen Carter_: Why Black Voters Keep Picking Democrats
+*   _Wilson Miller_: Did Obama's DOJ Leak Flynn's Russia Phone Call?
     
-*   _Uri Friedman_: What Dems Aren't Admitting About Trump's Foreign Policy
+*   _Albert Hunt_: Bill Barr Is Trying His Best to Be Trump's Roy Cohn
     
-*   _Tony Shaffer_: Donald Trump Is Ending the Endless Wars
+*   _Mike Eging_: Efforts to Cut Drug Prices Would Harm Rare-Disease Patients
     
-*   _Samantha Vinograd_: For Trump, It's Ego Over Security When It Comes to Intel
+*   _James Holmes_: China vs. U.S.: Boxing or Wrestlemania in the Pacific?
     
-*   _Ted Galen Carpenter_: How Obama's Good 'Intentions' Destroyed Libya
+*   _Tim Roemer_: U.S. and India: The Significance of Closer Strategic Ties
     
-*   _Ariana Berengaut_: Democracies Are Better at Fighting Outbreaks
+*   _Howard Fineman_: Like Trump, Bernie Sanders Isn't Backing Down
     
-*   _Gabriel DeBenedetti_: No, You Drop Out: Why the Dem Field Isn't Shrinking
+*   _Byron York_: Is Intel Community Planning to Meddle in 2020 Election?
     
-*   _Anand Giridharadas_: Sanders Is a Wake-Up Call for the Dem Establishment
+*   _Matt Taibbi_: Russia Isn't Dividing Us -- Our Leaders Are
     
-*   _Sean Davis_: Is Dem Establishment Using Bloomberg to Deny Sanders?
+*   _Philip Wegmann_: Barbs Not on Menu at Pre-Debate S.C. Dinner
     
-*   _Julian Zelizer_: Reagan vs. Carter Holds a Crucial Lesson for 2020 Dems
+*   _Sally Goldenberg_: Bloomberg's Debate Strategy: Nuke Bernie
     
-*   _David Harsanyi_: Claims of Russian Election Meddling Are Still a Scam
+*   _Victor Davis Hanson_: 'Gray Matter'–Deficient Americans
     
-*   _Maureen Dowd_: Donald Trump: America's Parasite
+*   _Jurecic &. Wittes_: Trump's Most Dangerous Destruction Yet
     
-*   _David Catron_: Trump Expands Republican Base as Dems Disintegrate
+*   _Deroy Murdock_: Stone Gets Prison, McCabe Gets a CNN Contract
     
-*   _Jeff Greenfield_: More Cash May Not Repair Bloomberg's Monumental Failure
+*   _Tyler Cowen_: How Fast Can a Virus Destroy a Supply Chain?
     
-*   _David Brooks_: The Nuclear Family Was a Mistake
+*   _John Steele Gordon_: Coronavirus Only a Bump in Road for World Economy
     
-*   _Kay Hymowitz_: Nuclear Family Is the Worst Family Form--Except for All Others
+*   _Carl Cannon_: Polling Catholics: Faith, Policy &. the 2020 Election
     
-*   _Frank Miele_: Reforming the Impeachment Process for the 21st Century
+*   _Roger L. Simon_: Hangin' with the Bernie Bros. on Nevada Victory Night
     
-*   _Jelani Cobb_: How Did the Democratic Party End Up Here?
+*   _Dan Froomkin_: Wake-up Call for Somnolent, Shambling Media Establishment
     
-*   _Dominic Green_: Dem Leadership Has Indulged Its Radicals for Too Long
+*   _Larry O'Connor_: MSM Can't Get Enough of Failed Never-Trump Pundits
     
 
 *   Previous
@@ -236,11 +236,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   India Pours On the Pageantry With Colorful Welcome for Trump
+*   At Pre-Debate S.C. Dinner, Barbs Are Not on the Menu
 *   After Nevada Win, Sanders Claims "Uniter" Mantel
-*   Davis: Is Dem Establishment Using Bloomberg to Deny Sanders?
-*   Bloomberg's High-Stakes Debut Ends Up as a Bust
+*   India Pours On the Pageantry With Colorful Welcome for Trump
 *   RNC Brings In Record January Haul, Dwarfing Dems' Total
+*   Bloomberg's High-Stakes Debut Ends Up as a Bust
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -254,45 +254,48 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
-*   South Carolina Democratic Presidential PrimaryNBC News/Marist
-    *   Biden27
-    *   Sanders23
-    *   Steyer15
+*   North Carolina Democratic Presidential PrimaryPPP (D)
+    *   Sanders20
+    *   Biden23
+    *   Bloomberg17
+    *   Warren11
     *   Buttigieg9
-    *   Warren8
-    *   Klobuchar5
-    *   Gabbard3Biden +4
-*   South Carolina Democratic Presidential PrimaryPPP (D)
-    *   Biden36
-    *   Sanders21
-    *   Steyer7
-    *   Buttigieg7
-    *   Warren8
-    *   Klobuchar3
-    *   Gabbard6Biden +15
-*   Oklahoma Democratic PrimarySooner Poll
-    *   Bloomberg20
-    *   Biden21
-    *   Sanders13
-    *   Buttigieg10
-    *   Warren9
-    *   Klobuchar7Biden +1
-*   Texas Democratic PrimaryUniversity of Houston
+    *   Klobuchar4
+    *   Steyer3
+    *   Gabbard1Biden +3
+*   North Carolina Democratic Presidential PrimaryCivitas (R)
     *   Sanders20
     *   Biden20
-    *   Warren17
-    *   Bloomberg12
-    *   Buttigieg11
-    *   Klobuchar7
-    *   Gabbard3Tie
+    *   Bloomberg20
+    *   Warren9
+    *   Buttigieg3
+    *   Klobuchar6
+    *   Steyer
+    *   GabbardTie
+*   Maryland Democratic PrimaryGoucher College
+    *   Sanders24
+    *   Biden18
+    *   Bloomberg16
+    *   Buttigieg7
+    *   Warren6
+    *   Klobuchar6Sanders +6
+*   2020 Democratic Presidential NominationThe Hill/HarrisX
+    *   Sanders28
+    *   Biden17
+    *   Bloomberg19
+    *   Warren8
+    *   Buttigieg12
+    *   Klobuchar3
+    *   Steyer3
+    *   Gabbard2Sanders +9
 
 More Latest Polls In The News
 
-*   Bernie Sanders '60 Minutes' Interview: "Unfair To Say Everything Is Bad" About Cuban Revolution, Castro
-*   Giridharadas: "Historic" Sanders Campaign Is "A Wake-Up Moment" For The "Power Establishment"
-*   James Carville: "You're A Fool" If You Think Bernie Sanders Can Win By Expanding The Electorate
-*   Lindsey Graham Says He Will Call 21 People To Testify In Senate Judiciary Investigation Into FISA Abuses
-*   Chris Matthews Compares Bernie Sanders Winning Nevada To France Falling to The Nazis In 1940
+*   Sanders Defends Cuba Remarks: When Dictatorships Do Something Good, You Acknowledge That
+*   Bloomberg vs. Warren: "Enough Is Never Enough" For You, I Never Told A Woman To Have An Abortion
+*   Warren: The Core Of The Democratic Party Will Never Trust Bloomberg, He Is "The Riskiest Candidate"
+*   DNC Spokesperson: We Are Very Clear That We Speak Out Against Brutal Dictatorships Like Castro
+*   Trump Spars With CNN's Acosta: "Our Record Delivering the Truth Is A Lot Better Than Yours"
 
 *   Politics
 *   Policy
