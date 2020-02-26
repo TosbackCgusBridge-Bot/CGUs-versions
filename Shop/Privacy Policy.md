@@ -121,6 +121,10 @@ Lenovo Explore Close
         
         The perfect family entertainment tablet
         
+        Sale
+        
+        Find the perfect tablet or smart device for you and the whole family. Enjoy weekly discounts today!
+        
     *   Accessories &. Software
         
         *   Always Free Shipping
