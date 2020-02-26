@@ -21,10 +21,11 @@ View more results
     *   Multiplayer Casino
     
     All Multiplayer Best Games
+    *   Tranca
+    *   Truco Paulista
     *   Worms.Zone
     *   Subway Clash 3D
     *   Fireboy and Watergirl: The Forest Temple
-    *   Truco Paulista
     *   Ono Card Game
     *   Fireboy and Watergirl 5: Elements
     *   Wormate.io
@@ -34,7 +35,6 @@ View more results
     *   Master Chess Multiplayer
     *   Crowd City
     *   Bad Ice Cream 2
-    *   Hole.io
 *   Action
     
     Top Categories
@@ -54,16 +54,16 @@ View more results
     *   Apple Shooter
     *   Wormate.io
     *   Slither.io
-    *   Winter Clash 3D
     *   Combat Reloaded
-    *   Short Life
-    *   Miami Crime Simulator 3D
-    *   Bad Ice Cream 2
+    *   Winter Clash 3D
     *   Zombies Paradiso
+    *   Short Life
+    *   Bad Ice Cream 2
+    *   Bomb it 7
+    *   Miami Crime Simulator 3D
     *   Deer Hunter
     *   Sniper Code
     *   Bomb It 6
-    *   Bomb it 7
 *   Adventure
     
     Top Categories
@@ -79,6 +79,7 @@ View more results
     *   Escaping
     
     All Adventure Best Games
+    *   Jessica the Youtuber
     *   Fireboy and Watergirl 5: Elements
     *   World Craft 2
     *   Red Bounce Ball 5
@@ -86,11 +87,10 @@ View more results
     *   Chrome Dino
     *   Adam and Eve 3
     *   World Crafts
-    *   Crazy Pig Simulator
     *   Troll Face Quest: Horror 2
     *   Fireboy &. Watergirl 4: Crystal Temple
-    *   Subway Surf
     *   Adam and Eve 4
+    *   Subway Surf
     *   Dumb Ways to Die: Original
     *   Adam and Eve
 *   Puzzle
@@ -115,11 +115,11 @@ View more results
     *   Bubble Shooter Classic
     *   Block Wood Puzzle
     *   Bubble Shooter
+    *   Road Trip FRVR
     *   Dream Pet Link
     *   TenTrix
     *   Mahjong Link
     *   Mahjong Connect Classic
-    *   Road Trip FRVR
     *   Gold Train FRVR
     *   Word Wipe
 *   Girls
@@ -141,16 +141,16 @@ View more results
     *   Beach Kiss
     *   My New Room
     *   Goldie: Lip Injections
-    *   Baby Hazel Goes Sick
-    *   Dove Prom Dolly Dress Up
-    *   Ellie: Get Ready With Me
     *   Villains Inspiring Fashion Trends
+    *   Baby Hazel Goes Sick
+    *   Ellie: Get Ready With Me
+    *   Dove Prom Dolly Dress Up
+    *   Fairy Tale Princess Makeover
     *   Love Tester 3
     *   Extreme Makeover
-    *   Floral Real Life Manicure
     *   Dirty Palace Cleaning
-    *   Pizza Real Life Cooking
-    *   3D Color by Number
+    *   Floral Real Life Manicure
+    *   Pixel Art: Color by Number
 *   Racing
     
     Top Categories
@@ -173,12 +173,12 @@ View more results
     *   Xcross Madness
     *   Off Road Monster Trucks
     *   Real Dog Racing Simulator
+    *   Cars 3D
     *   Horse Racing: Betting Game
     *   Bus Man Parking 3D
-    *   Cars 3D
     *   Russian Car Driver
-    *   Moto X3M: Motorcycle Racing Game
     *   Off-Roader V6
+    *   Formula Racer
     *   Hill Racing Challenge
 *   Sports
     
@@ -198,16 +198,16 @@ View more results
     *   Basketball Stars 2019
     *   Table Tennis Pro
     *   Stunt Skateboard 3D
-    *   Pool Clash: 8 Ball Billiards Snooker
     *   Xcross Madness
-    *   Ultimate Boxing
+    *   Pool Clash: 8 Ball Billiards Snooker
     *   Table Tennis World Tour
     *   Archery World Tour
+    *   Ultimate Boxing
     *   Subway Surf
     *   Football Legends 2016
     *   Horse Racing: Betting Game
-    *   Moto X3m 3
     *   Bowling Classic
+    *   Moto X3m 3
 *   More
     
     *   Multiplayer
@@ -230,7 +230,7 @@ View more results
         
         Recommended Games
         
-        *   Roblox
+        *   Star Stable
         *   Warframe
         *   World of Warships
         *   Agame Stunt Cars
