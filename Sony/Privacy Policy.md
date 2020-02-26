@@ -127,17 +127,17 @@ Community Goal 1
   
 Go ⏳ pic.twitter.com/g1WvFYyQii
 
-23 hours ago View Tweet Instagram Post B70-8z9FhVa
+1 day ago View Tweet Instagram Post B70-8z9FhVa
 
-Truly Wireless Design
+New Ultra-Wide Lens
 
-With Modern Style
+From the G-Series
 
-*   Share on Facebook: Truly Wireless Design
-*   Share on Twitter: Truly Wireless Design
-*   Copy URL to Share: Truly Wireless Design
+*   Share on Facebook: New Ultra-Wide Lens
+*   Share on Twitter: New Ultra-Wide Lens
+*   Copy URL to Share: New Ultra-Wide Lens
 
-<img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-5:image:electronics:WF1000xM3Earbuds-February-24-2020:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Truly Wireless Design WF-1000xM3-Earbuds" data-img1x="/content/dam/sony/homepage/2019-august/august-19/WF-1000XM3-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-19/WF-1000XM3-600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-19/WF-1000XM3-600x600.jpg" alt="Truly Wireless Design"/>. <img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-5:image:electronics:WF1000xM3Earbuds-February-24-2020:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Truly Wireless Design WF-1000xM3-Earbuds" data-img1x="/content/dam/sony/homepage/2019-august/august-19/WF-1000XM3-600x600.jpg" data-img2x="/content/dam/sony/homepage/2019-august/august-19/WF-1000XM3-600x600.jpg" src="/content/dam/sony/homepage/2019-august/august-19/WF-1000XM3-600x600.jpg" alt="Truly Wireless Design Mobile"/>. Survey×Which smartphone feature is most important to you?
+<img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-5:image:electronics:GLens-February-24-2020:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="New Ultra-Wide Lens G-Lens" data-img1x="/content/dam/sony/homepage/2020-february/2-24/GWideLens-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-february/2-24/GWideLens-600x600.jpg" src="/content/dam/sony/homepage/2020-february/2-24/GWideLens-600x600.jpg" alt="New Ultra-Wide Lens"/>. <img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-5:image:electronics:GLens-February-24-2020:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="New Ultra-Wide Lens G-Lens" data-img1x="/content/dam/sony/homepage/2020-february/2-24/GWideLens-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-february/2-24/GWideLens-600x600.jpg" src="/content/dam/sony/homepage/2020-february/2-24/GWideLens-600x600.jpg" alt="New Ultra-Wide Lens Mobile"/>. Survey×Which smartphone feature is most important to you?
 
 *   Screen size
 *   Color
