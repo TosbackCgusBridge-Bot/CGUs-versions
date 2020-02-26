@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
+    *   Email scam swindles $2.6M from Puerto Rican government corporation
+    *   McAfee’s Grobman pushes for a post-quantum world mindset
     *   Microsoft patches IE vulnerability being exploited in the wild
-    *   Stone gets 40 months and a rebuke from judge for lying to Congress
-    *   Trump berated Maguire after lawmakers were briefed on Russia's active interference in 2020 election
-    *   U.S. indicts four Chinese military members over Equifax breach
-    *   Facebook’s European dating service held up over data protection, privacy concerns
-    
-    *   Blackburn blocks vote on trio of election security bills in Senate
-    *   Voatz mobile voting app vulnerable, MIT researchers say
-    *   Venables, Gerstell and Geer to headline CSA Summit
-    *   Trump names Grenell as acting DNI
-    *   WordPress GDPR Cookie Consent plugin patched
-    
-    *   Facebook’s European dating service held up over data protection, privacy concerns
-    *   Magecart Group 12 named as actor behind Olympic ticket POS attack
     *   AT&T, Verizon join RSA exodus over Coronavirus fears
-    *   Protect your data assets – Building a secure NAS from the ground up
-    *   Trump berated Maguire after lawmakers were briefed on Russia's active interference in 2020 election
+    *   FBI tallied 467K cybercrime complaints in 2019, totaling $3.5B in losses
+    
+    *   MGM admits to 2019 data breach affecting 10.6 million customers
+    *   Cracking the code on cloud security for higher education
+    *   Magecart Group 12 named as actor behind Olympic ticket POS attack
+    *   ZyXEL NAS devices receive critical firmware patch
+    *   Texas attack: Garrison, Nacogdoches schools hit with ransomware
+    
+    *   McAfee’s Grobman pushes for a post-quantum world mindset
+    *   ZyXEL NAS devices receive critical firmware patch
+    *   Google issues Chrome update patching possible zero day
+    *   Security perimeters in the cloud aren’t dead—They’re ephemeral
+    *   Phishers using strong tactics and poor bait in Office 365 scam
 
 Back to Top
 
@@ -264,4 +264,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
+
+You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
