@@ -21,7 +21,7 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackSelections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken. 
+Near YouFind a StoreBack\*Selections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken. 
 
 *   SHOP NOW
 
@@ -49,14 +49,14 @@ SHOP NOWShop all NikeNike excluded from couponsShop all adidasadidas excluded fr
 
 SHOP NOWSHOP NOWShop our curated collection of tees, hair products and makeup—designed just for you. Next stop: the dance floorYour one-stop destination for taking prom to a place that’s uniquely yours.  Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 31 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   $239after couponwas $20 Liz Claiborne Jacobean Bath Towel Collection(21)
+*   $1759 - $3520after couponStafford Mens Wrinkle Free Oxford Button Down Collar Dress Shirt(253)
 *   $8 - $6080after couponJCPenney Home Performance Bath Towel Collection(316)
-*   $4998
+*   $143after couponwas $12 Liz Claiborne Jacobean Bath Towel Collection(21)
+*   $12498
     
-    LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver(229)
-*   $1599 - $7874after couponwas $60 - $209 400tc Wrinkle Guard Deep Pocket Sheet Set - JCPenney Home(2882)
-*   $7999 - $8999after couponwas $260 - $300 JCPenney Home Audrey 10-pc. Comforter Set(3)
-*   $1599 - $1935after couponwas $44 Worthington Perfect Trouser Modern Fit Bootcut Trouser(449)
+    LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(167)
+*   $3999after couponwas $74 Premier Amour Cold Shoulder Sheath Dress
+*   $1599 - $1935after couponwas $44 Worthington Perfect Trouser Modern Fit Bootcut Trouser(450)
 
 Shop and Save at JCPenney
 
