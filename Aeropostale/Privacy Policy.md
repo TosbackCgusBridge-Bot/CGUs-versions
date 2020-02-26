@@ -37,11 +37,11 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
-*   Essentials
 *   Best Sellers
 *   Jeans Guide
 *   Online Only
 *   Tribe Of Tees
+*   Basic Essentials
 *   Seriously Soft
 *   Curvy
 *   Active
@@ -64,11 +64,12 @@ Close submenu ( Guys ) Guys
 Close submenu ( Collections ) Collections
 
 *   View All
+*   $7 Tees
 *   New Arrivals
-*   Essentials
 *   Best Sellers
 *   Jeans Guide
 *   Online Only
+*   Back to Basics
 *   Music + Pop Culture
 *   Active
 *   Uniform
@@ -191,7 +192,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Extra 15% Off Essentials Use Code FLASH15 + FS Over $50**
+**Online Only! $7 Graphic Tees GIRLS GUYS + FS Over $50**
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -217,11 +218,11 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
-        *   Essentials
         *   Best Sellers
         *   Jeans Guide
         *   Online Only
         *   Tribe Of Tees
+        *   Basic Essentials
         *   Seriously Soft
         *   Curvy
         *   Active
@@ -241,11 +242,12 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
+        *   $7 Tees
         *   New Arrivals
-        *   Essentials
         *   Best Sellers
         *   Jeans Guide
         *   Online Only
+        *   Back to Basics
         *   Music + Pop Culture
         *   Active
         *   Uniform
@@ -360,20 +362,27 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
 
-Limited Time &. Online Only. TAKE AN
+In Stores &. Online
 
-EXTRA 15% OFF
+50-70% OFF EVERYTHING
 
-EXTRA  
-15% OFF
+50-70% OFF  
+EVERYTHING
 
-3+ Items From Our **Essentials Shop**  
-Use Code FLASH15
+Including 100s of New Arrivals!
 
-3+ Items From Our **Essentials Shop**  
-Use Code FLASH15
+Shop Girls Shop Guys
 
-Exclusions Apply
+Online only!  
+for a limited time 00:00:00
+
+flash sale
+
+$7
+
+$7 tees
+
+tees
 
 Shop Girls Shop Guys Previous
 
@@ -491,17 +500,6 @@ BUY 1 GET 1
 FREE
 
 Shop Girls Jeans Shop Guys Jeans
-
-In Stores &. Online
-
-50-70% OFF EVERYTHING
-
-50-70% OFF  
-EVERYTHING
-
-Including 100s of New Arrivals!
-
-Shop Girls Shop Guys
 
 In Stores &. Online
 
