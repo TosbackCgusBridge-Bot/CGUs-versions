@@ -34,6 +34,7 @@
     *   HOW WE CONNECT
     *   Compatible Devices
     *   Works with Fitbit
+    *   Smartwatch Apps &. Clock Faces
     
 *   MOTIVATION
     
@@ -57,6 +58,7 @@ TECHNOLOGY
 *   HOW WE CONNECT
 *   Compatible Devices
 *   Works with Fitbit
+*   Smartwatch Apps &. Clock Faces
 
 MOTIVATION
 
@@ -124,6 +126,7 @@ Press Enter to submit Tap to search
     *   HOW WE CONNECT
     *   Compatible Devices
     *   Works with Fitbit
+    *   Smartwatch Apps &. Clock Faces
     
 *   MOTIVATION
     
@@ -147,6 +150,7 @@ TECHNOLOGY
 *   HOW WE CONNECT
 *   Compatible Devices
 *   Works with Fitbit
+*   Smartwatch Apps &. Clock Faces
 
 MOTIVATION
 
