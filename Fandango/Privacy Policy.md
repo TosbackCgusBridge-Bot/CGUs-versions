@@ -23,6 +23,7 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
     Opening This Week = Limited Release
     
     *   The Invisible Man (2020)
+    *   My Hero Academia: Heroes Rising
     *   Blood on Her Name
     *   Burden (2020)
     *   Free Burma Rangers
@@ -108,7 +109,7 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
 
 Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Promo Code Policy Gift Card Terms Cookies and Tracking FandangoNOW Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseTicket PolicyPromo Code PolicyGift Card TermsCookies and TrackingFandangoNOW PolicyVIP+ Program Terms en Español | en Français | auf Deutsch
 
-**Last updated: January 9, 2019**
+**Last updated: January 9, 2020**
 
 This Privacy Policy explains how Fandango Media, LLC and its subsidiary companies, including the businesses operating under the Fandango, FandangoNOW, Rotten Tomatoes, Flixster, Movieclips, Movies.com, Activaterewards.com, MovieTickets.com, or M-GO brands ("Fandango", "we", "our" or "us"), collect, use, and share information from or about you when you use our websites, downloadable applications, interactive TV applications, voice-activated skills, other digital services, connected devices, and off-line services that link to this policy, or if you generate ratings/reviews/public comments/content on our properties or engage in business with us (the “Services”). Note that this Privacy Policy does not apply to our movie ticketing business that operates in Latin America, as that business has a separate privacy policy.
 
@@ -569,7 +570,7 @@ Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Ge
 *   Affiliate Program
 *   Fandango Rewards
 *   Site Index
-*   NEW: Your Privacy Rights - Privacy Policy
+*   Your Privacy Rights - Privacy Policy
 *   Terms and Policies
 *   AdChoices
 *   Do Not Sell My Info
