@@ -127,7 +127,7 @@ Community Goal 1
   
 Go ⏳ pic.twitter.com/g1WvFYyQii
 
-1 day ago View Tweet Instagram Post B70-8z9FhVa
+2 days ago View Tweet Instagram Post B70-8z9FhVa
 
 New Ultra-Wide Lens
 
