@@ -158,7 +158,6 @@ Close submenu ( Guys ) Guys
 *   Real Denim
 *   Destroyed Denim
 *   Music + Pop Culture
-*   Aero One
 
 Close submenu ( Clearance ) Clearance
 
@@ -324,7 +323,6 @@ Menu Find a Store Aeropostale
         *   Real Denim
         *   Destroyed Denim
         *   Music + Pop Culture
-        *   Aero One
     
 *   Clearance
     
