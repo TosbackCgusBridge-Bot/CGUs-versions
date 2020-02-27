@@ -1266,9 +1266,7 @@ Stores &. Events My Account USD Have an Account? SIGN IN
         *   Member Benefits
     *   Wish Lists
 
-USD Change Recent Searches
-
-*   Recent Searches Clear
+USD Change Recent Searches Recent Searches Clear
 
 *   WOMEN
 *   SHOES
@@ -1724,7 +1722,7 @@ Does this answer your question? Yes No s
 *   Product Recalls
 *   What is the shipping policy?
 
-SAVE 10%: Sign Up for Emails or Texts! FREE SHIPPING EVERY DAY! PLUS, FREE RETURNS
+SAVE 15%: Sign Up for Emails or Texts! FREE SHIPPING EVERY DAY! PLUS, FREE RETURNS
 
 Loyallists: No Minimum. Everyone Else: $150+
 
