@@ -423,7 +423,7 @@ disclose the personal information (in addition to our service providers)\*\* •
   
 \*\* Service providers which only use data on our behalf are not third parties under the CCPA.  
   
-We work with authorized vendors like Google to deliver interest-based sponsorship credits as described above. For information on how you can limit use of your information for interest-based messages, please see your privacy choices.  
+We work with authorized vendors like Google to deliver interest-based sponsorship credits as described above. For information on how you can limit use of your information for interest-based messages, including how to opt out of sharing of your information with our sponsorship vendor Google for delivery of “interest-based” sponsorship credits, please see your privacy choices.  
   
 Please note that we may also disclose your personal information to service providers, for legal requirements, to protect our Services and users, or in connection with business transfers.
 
