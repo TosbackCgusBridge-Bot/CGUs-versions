@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Email scam swindles $2.6M from Puerto Rican government corporation
-    *   McAfee’s Grobman pushes for a post-quantum world mindset
-    *   Microsoft patches IE vulnerability being exploited in the wild
-    *   AT&T, Verizon join RSA exodus over Coronavirus fears
-    *   FBI tallied 467K cybercrime complaints in 2019, totaling $3.5B in losses
+    *   The four levels of automated remediation
+    *   Venables, Gerstell and Geer to headline CSA Summit
+    *   Security perimeters in the cloud aren’t dead—They’re ephemeral
+    *   Rutter’s convenience stores suffer POS data breach
+    *   Three answers to the cybersecurity skills gap
     
-    *   MGM admits to 2019 data breach affecting 10.6 million customers
-    *   Cracking the code on cloud security for higher education
-    *   Magecart Group 12 named as actor behind Olympic ticket POS attack
-    *   ZyXEL NAS devices receive critical firmware patch
+    *   Czech authorities investigating Avast over recent data collection practices
     *   Texas attack: Garrison, Nacogdoches schools hit with ransomware
+    *   WordPress GDPR Cookie Consent plugin patched
+    *   Phishers using strong tactics and poor bait in Office 365 scam
+    *   Justice Dept. expands Huawei indictment, charging 5G espionage
     
+    *   The winners of the 2020 SC Awards Honored in the U.S.
     *   McAfee’s Grobman pushes for a post-quantum world mindset
     *   ZyXEL NAS devices receive critical firmware patch
     *   Google issues Chrome update patching possible zero day
     *   Security perimeters in the cloud aren’t dead—They’re ephemeral
-    *   Phishers using strong tactics and poor bait in Office 365 scam
 
 Back to Top
 
@@ -264,8 +264,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
