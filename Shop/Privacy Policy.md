@@ -623,7 +623,7 @@ Lenovo Explore Close
 *   Search
 
 *   LenovoPro
-    *   Sign In To LenovoPro
+    *   Sign In To LenovoPRO
     *   Learn more
 *   Rewards My Lenovo RewardsCreated with Sketch.
 *   Contact
