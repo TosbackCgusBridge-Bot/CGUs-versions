@@ -119,53 +119,53 @@
     *   About
     *   Media Kit
 
-*   _Nathan Robinson_: Blocking Sanders at Convention Would Be a Poison Pill
+*   _Will Bunch_: Elites Who Missed Trump Rise Blowing It Again w/Bernie
     
-*   _Ben Mathis-Lilley_: Why Did the Dem Establishment Get So Stuck on Biden?
+*   _David Harsanyi_: How Can Bernie Sanders Happen in America?
     
-*   _Bill Whalen_: As California Goes, How Will Newsom and Harris Lean?
+*   _Jesse Jackson_: Sanders' Socialism Is Like Denmark, Not Cuba
     
-*   _Karol Markowicz_: Goddesses or Victims: Dems' Unreal View of Womanhood
+*   _Roger Kimball_: Media Serves Up Comedy in Effort to Get Trump
     
-*   _John Harris_: Confessions of a Slow Learner: Politics in U.S. Really Is Sexist
+*   _Robin Abcarian_: Schiff, on Being Inside Trump's Head: 'It's Pretty Scary in There'
     
-*   _Wilson Miller_: Did Obama's DOJ Leak Flynn's Russia Phone Call?
+*   _Kalev Leetaru_: Twitter 'Misinformation' Demo App Stirs Free Speech Questions
     
-*   _Albert Hunt_: Bill Barr Is Trying His Best to Be Trump's Roy Cohn
+*   _Eric Levitz_: 5 Ways a Coronavirus Pandemic Could Change the Election
     
-*   _Mike Eging_: Efforts to Cut Drug Prices Would Harm Rare-Disease Patients
+*   _Matthew Bunson_: The Catholic Vote and the 2020 Election
     
-*   _James Holmes_: China vs. U.S.: Boxing or Wrestlemania in the Pacific?
+*   _David Mark_: Why Trump's Base Is Stronger Than Bernie's
     
-*   _Tim Roemer_: U.S. and India: The Significance of Closer Strategic Ties
+*   _Jack Johnson_: $1,750+ Ticket Prices for Dem Debate Spark Disgust
     
-*   _Howard Fineman_: Like Trump, Bernie Sanders Isn't Backing Down
+*   _A.B. Stoddard_: Neal Simon's 'Contract to Unite America'
     
-*   _Byron York_: Is Intel Community Planning to Meddle in 2020 Election?
+*   _Philip Wegmann_: Shouting Match Breaks Out on South Carolina Debate Stage
     
-*   _Matt Taibbi_: Russia Isn't Dividing Us -- Our Leaders Are
+*   _Richard Wolffe_: Moderates Just Blew Their Best Shot to Stop Sanders
     
-*   _Philip Wegmann_: Barbs Not on Menu at Pre-Debate S.C. Dinner
+*   _John Harris_: Dems Needed a Good Debate, Got an Incoherent Mess Instead
     
-*   _Sally Goldenberg_: Bloomberg's Debate Strategy: Nuke Bernie
+*   _Jeet Heer_: A Debate With No Winners, Only Survivors
     
-*   _Victor Davis Hanson_: 'Gray Matter'–Deficient Americans
+*   _Conrad Black_: Sanders Presents Democratic Party With a Fatal Choice
     
-*   _Jurecic &. Wittes_: Trump's Most Dangerous Destruction Yet
+*   _Steven Petrow_: Bernie Backers, Please Don't Repeat My Mistake of 1972
     
-*   _Deroy Murdock_: Stone Gets Prison, McCabe Gets a CNN Contract
+*   _Ross Rosenfeld_: What the Pundits Don't Get About Bernie Sanders
     
-*   _Tyler Cowen_: How Fast Can a Virus Destroy a Supply Chain?
+*   _Allen West_: Dems Talk the Race Talk, President Trump Walks the Walk
     
-*   _John Steele Gordon_: Coronavirus Only a Bump in Road for World Economy
+*   _Rachel Bitecofer_: Hate Is on the Ballot in 2020
     
-*   _Carl Cannon_: Polling Catholics: Faith, Policy &. the 2020 Election
+*   _Ilan Berman_: In Iran, an Electoral Flop
     
-*   _Roger L. Simon_: Hangin' with the Bernie Bros. on Nevada Victory Night
+*   _Gordon Chang_: Coronavirus Creating Economic Chaos for China
     
-*   _Dan Froomkin_: Wake-up Call for Somnolent, Shambling Media Establishment
+*   _Stephen Roach_: When China Sneezes
     
-*   _Larry O'Connor_: MSM Can't Get Enough of Failed Never-Trump Pundits
+*   _Dana Loesch_: How CNN Set Me Up for the Near-Riot Parkland Town Hall
     
 
 *   Previous
@@ -236,11 +236,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   At Pre-Debate S.C. Dinner, Barbs Are Not on the Menu
+*   Shouting Match Breaks Out on South Carolina Debate Stage
+*   Brady PAC Backs Cunningham in Divisive North Carolina Senate Primary
+*   Full Replay of Democratic Debate in Charleston, South Carolina
 *   After Nevada Win, Sanders Claims "Uniter" Mantel
-*   India Pours On the Pageantry With Colorful Welcome for Trump
 *   RNC Brings In Record January Haul, Dwarfing Dems' Total
-*   Bloomberg's High-Stakes Debut Ends Up as a Bust
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -254,48 +254,47 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
-*   North Carolina Democratic Presidential PrimaryPPP (D)
-    *   Sanders20
-    *   Biden23
-    *   Bloomberg17
-    *   Warren11
-    *   Buttigieg9
-    *   Klobuchar4
-    *   Steyer3
-    *   Gabbard1Biden +3
-*   North Carolina Democratic Presidential PrimaryCivitas (R)
-    *   Sanders20
-    *   Biden20
-    *   Bloomberg20
-    *   Warren9
-    *   Buttigieg3
-    *   Klobuchar6
-    *   Steyer
-    *   GabbardTie
-*   Maryland Democratic PrimaryGoucher College
-    *   Sanders24
-    *   Biden18
-    *   Bloomberg16
-    *   Buttigieg7
-    *   Warren6
-    *   Klobuchar6Sanders +6
-*   2020 Democratic Presidential NominationThe Hill/HarrisX
-    *   Sanders28
-    *   Biden17
-    *   Bloomberg19
+*   South Carolina Democratic Presidential PrimaryEast Carolina U.
+    *   Biden31
+    *   Sanders23
+    *   Steyer20
     *   Warren8
-    *   Buttigieg12
-    *   Klobuchar3
+    *   Buttigieg6
+    *   Klobuchar2
+    *   Gabbard2Biden +8
+*   South Carolina Democratic Presidential PrimaryClemson
+    *   Biden35
+    *   Sanders13
+    *   Steyer17
+    *   Warren8
+    *   Buttigieg8
+    *   Klobuchar4
+    *   Gabbard2Biden +18
+*   California Democratic PrimaryKQED/NPR
+    *   Sanders37
+    *   Biden12
+    *   Warren20
+    *   Bloomberg6
+    *   Buttigieg11
+    *   Klobuchar5
     *   Steyer3
-    *   Gabbard2Sanders +9
+    *   Gabbard2Sanders +17
+*   Virginia Democratic PrimaryData for Progress (D)
+    *   Sanders28
+    *   Bloomberg17
+    *   Biden19
+    *   Buttigieg12
+    *   Warren17
+    *   Klobuchar5
+    *   Gabbard1Sanders +9
 
 More Latest Polls In The News
 
+*   AG Bill Barr: Progressives Want To "Convert Us Into 25-Year-Olds Living In The Government's Basement"
+*   Reporter to Trump on NYT: Do You Think People Who Have An Opinion Contrary To Yours Should Be Sued?
 *   Sanders Defends Cuba Remarks: When Dictatorships Do Something Good, You Acknowledge That
 *   Bloomberg vs. Warren: "Enough Is Never Enough" For You, I Never Told A Woman To Have An Abortion
 *   Warren: The Core Of The Democratic Party Will Never Trust Bloomberg, He Is "The Riskiest Candidate"
-*   DNC Spokesperson: We Are Very Clear That We Speak Out Against Brutal Dictatorships Like Castro
-*   Trump Spars With CNN's Acosta: "Our Record Delivering the Truth Is A Lot Better Than Yours"
 
 *   Politics
 *   Policy
