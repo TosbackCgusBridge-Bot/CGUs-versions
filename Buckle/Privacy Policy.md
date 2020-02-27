@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-HIT REFRESH with new-season essentials. explore spring!
+Spring into savings with UP TO 50% OFF new to sale. shop now
 
 *   Women
 *   Men
@@ -90,7 +90,9 @@ HIT REFRESH with new-season essentials. explore spring!
         *   Socks
         *   Sunglasses &. Glasses
         *   Watches
-        *   Shop AllGive a Buckle Gift card
+        *   Shop All
+        
+        Give a Buckle Gift card
 *   Men
     *   *   Featured
         
@@ -155,7 +157,9 @@ HIT REFRESH with new-season essentials. explore spring!
         *   Wallets
         *   Watches
         *   Other
-        *   Shop AllGive a Buckle Gift card
+        *   Shop All
+        
+        Give a Buckle Gift card
 *   Kids
     *   *   Featured
         
@@ -189,7 +193,9 @@ HIT REFRESH with new-season essentials. explore spring!
         *   Swim
         *   Tops
         *   T-Shirts
-        *   Shop AllGive a Buckle Gift card
+        *   Shop All
+        
+        Give a Buckle Gift card
 *   Jeans
     *   *   Women's Jeans
         
@@ -240,7 +246,9 @@ HIT REFRESH with new-season essentials. explore spring!
         
         *   Women’s Factory Seconds
         *   Men’s Factory Seconds
-        *   Shop All Factory Seconds JeansGive a Buckle Gift card
+        *   Shop All Factory Seconds Jeans
+        
+        Give a Buckle Gift card
 *   Shoes
     *   *   Women's Shoes
         
@@ -291,7 +299,9 @@ HIT REFRESH with new-season essentials. explore spring!
         *   New Balance
         *   Crevo
         *   Sorel
-        *   Shop AllGive a Buckle Gift card
+        *   Shop All
+        
+        Give a Buckle Gift card
 *   Sale
     *   *   Featured Sale
         
@@ -340,7 +350,9 @@ HIT REFRESH with new-season essentials. explore spring!
         *   All Men’s Outlet
         *   Women’s Factory Seconds
         *   Men’s Factory Seconds
-        *   Shop All Factory SecondsGive a Buckle Gift card
+        *   Shop All Factory Seconds
+        
+        Give a Buckle Gift card
 
 SearchSubmitTerms &. Conditions
 
@@ -557,16 +569,19 @@ STAY CONNECTED
 
 RESERVE IN STORE
 
-*   © 2020 Buckle Inc.
 *   Terms
 *   Privacy Policy
 *   Transparency In Supply Chains
 *   Accessibility
 
-Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries. Google Play and the Google Play logo are trademarks of Google LLC.Bag Size ExceededClose Cart Threshold Modal×
+© 2020 Buckle Inc.Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries. Google Play and the Google Play logo are trademarks of Google LLC.Bag Size ExceededClose Cart Threshold Modal×
 
 Did you mean to add items to your wish list?
 
 Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
+
+  
+I am over the age of 13  
+View Privacy Policy
