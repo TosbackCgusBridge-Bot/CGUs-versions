@@ -166,15 +166,15 @@ In April 2019 the Internet Society’s Online Trust Audit released its 10th Onli
 
 Load more Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team Megan Kruse photo Megan Kruse
 
-Business Director, Online Trust Alliance
+Director, Partner Engagement and Communications
 
 Kenneth Olmstead photo Kenneth Olmstead
 
-Internet Privacy &. Security Analyst
+Senior Internet Security and Privacy Expert
 
 Jeff Wilbur photo Jeff Wilbur
 
-Technical Director, Online Trust Alliance
+Senior Director, Online Trust
 
 *   About the Internet Society
 *   About the IETF
