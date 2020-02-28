@@ -21,89 +21,18 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackFinal Hours Of COUPON CODE NEWLOOK6ENDS IN00HOURS 41MINS 20SECS See Details\*Extra 25% off select apparel, shoes, accessories, fine jewelry, and home purchases of $100 or more. Extra 20% off select apparel, shoes, accessories, fine jewelry, and home purchases under $100. Extra 10% off select furniture, mattresses, electronics, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches, and salon products. Each offer good in store and at jcp.com, excluding taxes and shipping charges, 2/20/20-2/26/20. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Best Value, Limited Time Specials, adidas, Athletic Shoes, Baby Gear, Bobs from Skechers, Champion, Clarks, Columbia, Converse, Denizen from Levi’s, Disney Collection, Grasshoppers, Jewelry Trunk Shows, Keds, Levi's, Modern Bride Design Your Dream Ring, Nike, Personalized Jewelry, Puma, Reebok, Sephora, Skechers Athletic Shoes, Skechers Women's Shoes, Smartwatches, Team Sports Merchandise, Tempur-Pedic, Toys, In-Store Services, Service Plans, Gift Cards, Closing Store Purchases, current orders and prior purchases, or in combination with other coupon(s). Extra % off furniture, mattresses, custom blinds and shades offer does not apply to stores in Puerto Rico. Additionally, in Puerto Rico, does not apply to Diesel, Fossil, Kenneth Cole, Michael Kors, Rado and Skagen Watches, Cosmetics, Bassett, Gift Wrap &. More, Optical, and Universal Sunglasses. Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply, see jcpenney.com/exclusions or store associate for details. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code NEWLOOK6 when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. Details\*Selections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken. 
+Near YouFind a StoreBackwindowhousewaressheetsbathShop AdidasShop ChampionShop NikeShop Puma25% OFFHaircare | select styles  Online only, pricing may vary in store. SHOP SEPHORA BEAUTYFrom supplements to sunscreen, beautify your body &. mind Selections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.SHOP NOWShop our curated collection of tees, hair products and makeup—designed just for you. Next stop: the dance floorYour one-stop destination for taking prom to a place that’s uniquely yours.  Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 31 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   SHOP NOW
-
-*   Women
+*   $4998
     
-*   Men
+    LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver(229)
+*   $12498
     
-*   Girls
-    
-*   Boys
-    
-
-SHOP NOWShop all NikeNike excluded from couponsShop all adidasadidas excluded from coupons 
-
-*   SHOP NOW
-
-*   Window
-    
-*   Bath
-    
-*   Sheets
-    
-*   Home Decor
-    
-
-SHOP NOWSHOP NOWShop our curated collection of tees, hair products and makeup—designed just for you. Next stop: the dance floorYour one-stop destination for taking prom to a place that’s uniquely yours.  Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 31 total items loaded in Media GalleryFollow @jcpenney Recommended for You
-
-*   $1359after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(303)
-*   $7999 - $8999after couponwas $260 - $300 JCPenney Home Audrey 10-pc. Comforter Set(3)
-*   $3999after couponwas $74 Premier Amour Cold Shoulder Sheath Dress
-*   $1439after couponwas $35 a.n.a Womens Keyhole Neck Long Sleeve Peasant Top
-*   $1599 - $7199after couponwas $60 - $200 400tc Wrinkle Guard Deep Pocket Sheet Set - JCPenney Home(2882)
-*   $2799 - $5039after couponwas $50 - $90 JCPenney Home Wallace Blackout Grommet-Top Curtain Panel(210)
-
-Sponsored Items
-
-*   BUY 1 GET 1 50% OFF
-    
-    $23
-    
-    Matrix Biolage Oil Renew Multi-Taking Oil-In-Cream Hair Cream-6.8 oz.(1)
-*   $3199 - $49799after couponwas $50 - $830 Covington Home Marathon Borders Rectangular Rugs(1)Add To Cart
-*   $20610after couponGoogle Nest Hello Video Doorbell(351)
-*   $9499
-    
-    North States In-Out Sand 8-Panel Play YardAdd To Cart
-*   $539
-    
-    Dyson® Ball Multi Floor 2 Upright Vacuum(241)Add To Cart
-*   $3759after couponwas $79 Sensorpedic Micro-Feather Plush Down 2-Pack Soft Density PillowsAdd To Cart
-*   $12999
-    
-    Step2 Great Gourmet Kitchen(10)Add To Cart
-*   $62910after couponwas $6,990 JBW Jet Setter Mens 3 CT. T.W. Diamond Two-Tone Stainless Steel Watch JB-6213-D(229)Add To Cart
-*   $3359after couponwas $70 EcoPedic Eco-Classic 250 Thread Count Down Alternative Medium Density Pillow 2-PackAdd To Cart
-*   $4319after couponwas $78 Wrangler Riggs Workwear® Ranger Pants(374)Add To Cart
-*   BEST VALUE!
-    
-    $1999
-    
-    Umbra® Little Black Dress Jewelry Organizer(2)Add To Cart
-*   $74 - $120
-    
-    Donna Karan Cashmere Mist Eau De Parfum(236)Add To Cart
-*   $4999 sale
-    
-    was $59.50 | 16% offLevi's® Classic Bootcut Jeans(125)Add To Cart
-*   $30
-    
-    Michael Kors Sexy Amber Rollerball(14)Add To Cart
-*   $455 - $639after couponwas $11.50 Vanity Fair Beyond Comfort Knit Brief Panty 13213(47)Add To Cart
-*   $9999
-    
-    Baby Trend Lil Snooze Deluxe Nursery Center Play Yard(1)Add To Cart
-*   $8250after couponwas $220 J.M. Haggar Classic Fit Stretch Suit Jacket(48)Add To Cart
-*   $1499
-    
-    Fisher-Price Laugh &. Learn Click &. Learn Laptop(10)Add To Cart
-*   $2999 sale
-    
-    was $60 | 50% offRachael Ray Create Delicious 12.5" Deep Skillet Aluminum Non-Stick Skillet(56)Add To Cart
-*   $1519after couponwas $28 Guy Harvey Mens Crew Neck Long Sleeve T-ShirtAdd To Cart
+    LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(171)
+*   $1444after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(308)
+*   $12749 - $14449after couponwas $280 - $300 JCPenney Home Audrey 10-pc. Comforter Set(3)
+*   $1495 - $1869after couponwas $44 St. John's Bay Womens Mid Rise Straight Leg Jean(2113)
+*   $2056 - $2124after couponwas $44 Worthington Perfect Trouser Modern Fit Bootcut Trouser(451)
 
 Shop and Save at JCPenney
 
