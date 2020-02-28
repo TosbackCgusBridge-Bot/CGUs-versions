@@ -172,8 +172,7 @@ Menu
         *   Overview
         *   Commercial Banking
         *   Global Banking and Markets
-        *   Global Private Banking
-        *   Retail Banking and Wealth Management
+        *   Wealth and Personal Banking
         *   Technology, Operations and Services
         *   Global Functions
     *   Where we hire
@@ -416,7 +415,7 @@ Select banking type. Personal banking selected.Banking selector (auto-suggestion
 
 Account in
 
-Location selector (auto-suggestions will appear below field) 37 results are availableToggle Account in dropdown
+Location selector (auto-suggestions will appear below field) 38 results are availableToggle Account in dropdown
 
 *   Most popular
 *   Hong Kong
@@ -458,6 +457,7 @@ Location selector (auto-suggestions will appear below field) 37 results are avai
 *   UAE
 *   UK
 *   UK - first direct
+*   Uruguay
 *   USA
 *   Vietnam
 
@@ -507,5 +507,3 @@ If you’d like to accept all optional cookies, select ‘Accept all cookies’.
 To learn more about how we use cookies, visit our Cookie notice.
 
 Accept all cookiesManage cookie settings
-
-Notification appeared: Cookies on this website
