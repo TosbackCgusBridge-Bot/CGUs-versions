@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   The four levels of automated remediation
+    *   Facebook’s European dating service held up over data protection, privacy concerns
+    *   Email scam swindles $2.6M from Puerto Rican government corporation
     *   Venables, Gerstell and Geer to headline CSA Summit
-    *   Security perimeters in the cloud aren’t dead—They’re ephemeral
+    *   Ring mandating 2FA logins, ceases some third-party activity
+    *   The four levels of automated remediation
+    
+    *   Mac cyberattacks double in 2019: Malwarebytes
+    *   French plastic surgery image repository left vulnerable but since corrected: report
     *   Rutter’s convenience stores suffer POS data breach
-    *   Three answers to the cybersecurity skills gap
+    *   IBM pulls out of RSA over coronavirus fears
+    *   DISA breach likely exposed personal data on at least 200K
     
-    *   Czech authorities investigating Avast over recent data collection practices
-    *   Texas attack: Garrison, Nacogdoches schools hit with ransomware
-    *   WordPress GDPR Cookie Consent plugin patched
-    *   Phishers using strong tactics and poor bait in Office 365 scam
-    *   Justice Dept. expands Huawei indictment, charging 5G espionage
-    
+    *   Munson Healthcare data breach exposes PHI
+    *   Clearview AI client list breached
+    *   Bug bounty hunter numbers rising dramatically: HackerOne
+    *   Tips for those of all ages interested in pursuing a career in cybersecurity
     *   The winners of the 2020 SC Awards Honored in the U.S.
-    *   McAfee’s Grobman pushes for a post-quantum world mindset
-    *   ZyXEL NAS devices receive critical firmware patch
-    *   Google issues Chrome update patching possible zero day
-    *   Security perimeters in the cloud aren’t dead—They’re ephemeral
 
 Back to Top
 
