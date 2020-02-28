@@ -8,7 +8,7 @@ Privacy Policy &. Terms of Use
     
     > II.    Security
     
-    We are committed to handling your personal information with high standards of information security. We take appropriate physical, electronic, and administrative steps to maintain the security and accuracy of personal information we collect, including limiting the number of people who have physical access to our database servers, as well as employing electronic security systems and password protections that guard against unauthorized access. You may purchase online merchandise by calling toll-free 1.888.888.4757, 24 hours a day, seven days a week. One of our customer service associates will gladly take your order.
+    We are committed to handling your personal information with high standards of information security. We take appropriate physical, electronic, and administrative steps to maintain the security and accuracy of personal information we collect, including limiting the number of people who have physical access to our database servers, as well as employing electronic security systems and password protections that guard against unauthorized access. You may purchase online merchandise by calling toll-free 1.888.888.4757, 7 Days a week, 6 am to Midnight Central Time. One of our customer service associates will gladly take your order.
     
     > III.    Privacy Policy
     
@@ -179,7 +179,7 @@ Privacy Policy &. Terms of Use
     
     We'll be happy to provide additional information or answer any questions. Please call us at toll-free 1.866.908.1192 or write to our Customer Care department at P.O. Box 650589, Dallas, TX 75265-0589.
     
-    Last Updated December 30, 2019
+    Last Updated February 27, 2020
     
     Close
     
