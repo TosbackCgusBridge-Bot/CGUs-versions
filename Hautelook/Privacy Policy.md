@@ -7,13 +7,36 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Daily Deal: Dyson Airwrap at $449.97
-    *   Daily Deal: UGG Fuzz Yeah Slippers at $49.97
-    *   Daily Deal: Portable Cold Brew Coffee Makers from $39.97
-    *   Lucky Brand Incl. Plus
+    *   Hudson Jeans Up to 65% Off
+    *   Valentino by Mario Valentino
+    *   Hudson Jeans Men Up to 60% Off
+    *   Hudson Jeans Kids Up to 60% Off
+    *   Born
+    *   Tahari Swim &. More
+    *   Great Lengths: Midi Dresses Under $40
+    *   Victoria Beckham Sunglasses &. More Up to 80% Off
+    *   14K Gold Jewelry Steals
+    *   Volcom
+    *   Mustard Seed Starting at $20
+    *   Rip Curl &. More
+    *   Sterling Silver Jewelry from Breuning &. More
+    *   Dyson Airwrap Styler Complete at $449.97
+    *   Predire Paris Luxury Skin Care Starting at $15
+    *   Havaianas from $15
+    *   Throwback Thursday: '90s-Inspired Shoe Styles
+    *   Our Favorite Spring Shoes for Men from $30
+    *   Free Shipping: Dreamy Bedding Up to 75% Off
+    *   Best of Hair Tools ft. T3
+    *   KEEN
+    *   Take Flight: Carry-On Luggage
+    *   Educational Toys ft. Fisher-Price
+    *   KEEN Men
+    *   Au Naturale: Vegan, Chemical-Free &. Organic Makeup
+    *   Sleek Sneakers for Kids from $20
     *   Jeffrey Campbell Up to 60% Off
     *   Betsey Johnson &. Love...Ady Dresses
     *   Samuel B Jewelry Up to 55% Off
+    
     *   Men's Fragrances Under $50
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Dress Shoes ft. Allen Edmonds
@@ -29,24 +52,13 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Lucky Brand Handbags &. More
     *   Supra Men Up to 60% Off
     *   Resort Ready: Kids' Sandals from Havaianas &. More
-    *   Warm Weather Ahead: Spring Styles for Men
     *   Kitchen Blowout: Must-Haves from Cuisinart
     *   Beach &. Pool Essentials ft. Sunnylife
     *   Free Shipping: Faux Plants &. Planters
-    *   Franco Sarto Up to 55% Off
-    *   Parisian-Inspired Chic: Spring Looks from FRNCH
-    *   Chaco
     *   Skin Care Faves ft. Perricone MD
     *   BECCA Cosmetics &. More from $9.97
-    *   ASTR the Label
-    
-    *   Perfectly Pleated: Plisse Styles &. More
-    *   Feminine Flair: Dresses Under $85
     *   Ben Sherman Up to 60% Off
-    *   Leggings ft. Commando
-    *   STS BLUE Denim Under $40
     *   Free Shipping: Bedding, Hooded Blankets &. More
-    *   Sleep Sets Under $30 Incl. Plus
     *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
     *   Porsamo Bleu Watches Up to 80% Off
     *   Free Shipping: Sheet Sets, Duvets &. More
@@ -54,87 +66,72 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Juicy Couture Girls: Clothing &. Shoes
     *   Fromm: Tools Starting at $10
     *   Ben Sherman Shoes Up to 65% Off
+    
     *   Chaco Men
-    *   Kendra Scott Up to 60% Off
-    *   Eileen Fisher Shoes
     *   PRESCRIPTIVES Makeup Up to 50% Off
     *   Luxury Fragrances ft. Gucci, Burberry &. More
-    *   David Donahue Up to 60% Off
-    *   Beyond Beige: Men's Chinos Up to 75% Off
     *   Best Tressed: Shampoos, Conditioners &. More
     *   Skin Care &. Microdermabrasion Tools from $10
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Free Shipping: Chic Home Decor Up to 45% Off
     *   Spring Ready: Canvas Sneakers for Him
-    *   Z By Zella Girls
     *   Free Shipping: BergHOFF Up to 55% Off
     *   Smart Watch Bands &. More Up to 70% Off
-    *   Men's Shoe Steals Up to 70% Off
     *   Phone Chargers Up to 65% Off
     *   Headphones &. Tech Accessories Up to 70% Off
-    
     *   Spring Jacket Shop: Raincoats &. Trenches Up to 65% Off
     *   Spring Jacket Shop: Leather &. Suede Up to 65% Off
     *   Spring Jacket Shop: Men's Rain &. Weather Styles Up to 65% Off
     *   Spring Jacket Shop: Active &. Performance Up to 65% Off
     *   Spring Jacket Shop: Denim &. Utility Up to 65% Off
     *   Spring Jacket Shop: Dusters &. More Up to 65% Off
-    *   Spring Jacket Shop: Men's Denim, Leather &. More Up to 65% Off
+    *   Beach Ready: Towels Starting at $10
     *   Best of Palettes ft. LORAC &. BECCA Cosmetics
     *   Spring Jacket Shop: Kids' Styles Up to 65% Off
     *   Londontown Nail Polish Starting at $10
     *   SIBU Sea Berry Therapy Skin Care &. Supplements
+    *   Warm Weather Ahead: Spring Styles for Men
+    *   Spring Jacket Shop: Men's Denim, Leather &. More Up to 65% Off
     *   Free Shipping: Fine Art Up to 90% Off
-    *   Maison Forte
     *   Free Shipping: Boho-Chic Decor from $15
     *   Pet Accessories Up to 45% Off
-    *   Sky Organics: Essential Oils, Bath Bombs &. More
-    *   Clean Beauty: dome BEAUTY Under $15
     *   Nordstrom Home Decor Up to 50% Off
-    *   The Original Makeup Eraser
-    *   Bobeau Incl. Plus &. Petites
-    *   Love Stitch &. More
-    *   Beach Ready: Towels Starting at $10
-    *   Diamonds, Gems &. More Up to 80% Off
-    *   Luxury Bath Towels Up to 65% Off
-    *   Sunday Style Steals Up to 80% Off
-    *   Work Week Chic: Laundry by Shelli Segal &. More
-    *   New Styles Added: Eileen Fisher Incl. Plus &. Petites
-    *   Utility Chic: Cargo Styles, Joggers &. More
-    *   Season's Best Bralettes Under $30
-    *   Kate Spade New York Home Up to 50% Off
 *   WomenShop Sale Events
     
-    *   Daily Deal: UGG Fuzz Yeah Slippers at $49.97
-    *   Lucky Brand Incl. Plus
+    *   Hudson Jeans Up to 65% Off
+    *   Valentino by Mario Valentino
+    *   Born
+    *   Tahari Swim &. More
+    *   Great Lengths: Midi Dresses Under $40
+    *   Victoria Beckham Sunglasses &. More Up to 80% Off
+    *   14K Gold Jewelry Steals
+    *   Mustard Seed Starting at $20
+    *   Rip Curl &. More
+    *   Sterling Silver Jewelry from Breuning &. More
+    *   Predire Paris Luxury Skin Care Starting at $15
+    *   Havaianas from $15
+    *   Throwback Thursday: '90s-Inspired Shoe Styles
+    *   Best of Hair Tools ft. T3
+    *   KEEN
+    *   Take Flight: Carry-On Luggage
+    *   Au Naturale: Vegan, Chemical-Free &. Organic Makeup
     *   Jeffrey Campbell Up to 60% Off
     *   Betsey Johnson &. Love...Ady Dresses
     *   Samuel B Jewelry Up to 55% Off
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   1.STATE &. More from $40
+    
     *   Looks to Love: Moon River &. More from $20
     *   Slimming Shapers, Bodysuits &. More
     *   Blue Moon Pink Star Sleep Under $25
     *   philosophy Starting at $15
     *   Women's Lifestyle Sneakers ft. Diadora &. Champion
     *   Lucky Brand Handbags &. More
-    *   Franco Sarto Up to 55% Off
-    *   Parisian-Inspired Chic: Spring Looks from FRNCH
-    *   Chaco
     *   Skin Care Faves ft. Perricone MD
     *   BECCA Cosmetics &. More from $9.97
-    *   ASTR the Label
-    *   Perfectly Pleated: Plisse Styles &. More
-    *   Feminine Flair: Dresses Under $85
-    *   Leggings ft. Commando
-    *   STS BLUE Denim Under $40
-    *   Sleep Sets Under $30 Incl. Plus
     *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
     *   Porsamo Bleu Watches Up to 80% Off
-    
     *   Fromm: Tools Starting at $10
-    *   Kendra Scott Up to 60% Off
-    *   Eileen Fisher Shoes
     *   Luxury Fragrances ft. Gucci, Burberry &. More
     *   Best Tressed: Shampoos, Conditioners &. More
     *   Skin Care &. Microdermabrasion Tools from $10
@@ -146,45 +143,36 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Best of Palettes ft. LORAC &. BECCA Cosmetics
     *   Londontown Nail Polish Starting at $10
     *   SIBU Sea Berry Therapy Skin Care &. Supplements
-    *   Sky Organics: Essential Oils, Bath Bombs &. More
-    *   Clean Beauty: dome BEAUTY Under $15
-    *   The Original Makeup Eraser
-    *   Bobeau Incl. Plus &. Petites
-    *   Love Stitch &. More
-    *   Diamonds, Gems &. More Up to 80% Off
-    *   Sunday Style Steals Up to 80% Off
-    *   Work Week Chic: Laundry by Shelli Segal &. More
-    *   New Styles Added: Eileen Fisher Incl. Plus &. Petites
-    *   Utility Chic: Cargo Styles, Joggers &. More
-    *   Season's Best Bralettes Under $30
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie &. Shapewear
     *   Jewelry
     *   Handbags
+    *   Lingerie &. Shapewear
     *   Watches
+    *   Accessories
 *   MenShop Sale Events
     
+    *   Hudson Jeans Men Up to 60% Off
+    *   Volcom
+    *   Our Favorite Spring Shoes for Men from $30
+    *   Take Flight: Carry-On Luggage
+    *   KEEN Men
     *   Men's Fragrances Under $50
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Dress Shoes ft. Allen Edmonds
     *   Work to Play: Button-Up Shirts ft. Stone Rose
+    
     *   Supra Men Up to 60% Off
-    *   Warm Weather Ahead: Spring Styles for Men
     *   Ben Sherman Up to 60% Off
     *   Porsamo Bleu Watches Up to 80% Off
     *   Ben Sherman Shoes Up to 65% Off
-    
     *   Chaco Men
-    *   David Donahue Up to 60% Off
-    *   Beyond Beige: Men's Chinos Up to 75% Off
     *   Spring Ready: Canvas Sneakers for Him
-    *   Men's Shoe Steals Up to 70% Off
     *   Spring Jacket Shop: Men's Rain &. Weather Styles Up to 65% Off
+    *   Warm Weather Ahead: Spring Styles for Men
     *   Spring Jacket Shop: Men's Denim, Leather &. More Up to 65% Off
-    *   Maison Forte
     
     Shop By Category
     *   Clothing
@@ -193,10 +181,12 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Watches
 *   KidsShop Sale Events
     
+    *   Hudson Jeans Kids Up to 60% Off
+    *   Educational Toys ft. Fisher-Price
+    *   Sleek Sneakers for Kids from $20
     *   Kids' Surf and Skate Styles ft. O'Neill &. Volcom
     *   Resort Ready: Kids' Sandals from Havaianas &. More
     *   Juicy Couture Girls: Clothing &. Shoes
-    *   Z By Zella Girls
     *   Spring Jacket Shop: Kids' Styles Up to 65% Off
     
     Shop By Category
@@ -205,9 +195,10 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Girls' Shoes
     *   Boys' Shoes
     *   Baby
+    *   Toys
 *   HomeShop Sale Events
     
-    *   Daily Deal: Portable Cold Brew Coffee Makers from $39.97
+    *   Free Shipping: Dreamy Bedding Up to 75% Off
     *   Free Shipping: Wall Murals &. More Up to 40% Off
     *   Kitchen Blowout: Must-Haves from Cuisinart
     *   Beach &. Pool Essentials ft. Sunnylife
@@ -217,56 +208,54 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Free Shipping: Towel Sets Up to 70% Off
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Free Shipping: Chic Home Decor Up to 45% Off
-    *   Free Shipping: BergHOFF Up to 55% Off
     
+    *   Free Shipping: BergHOFF Up to 55% Off
     *   Smart Watch Bands &. More Up to 70% Off
     *   Phone Chargers Up to 65% Off
     *   Headphones &. Tech Accessories Up to 70% Off
+    *   Beach Ready: Towels Starting at $10
     *   Free Shipping: Fine Art Up to 90% Off
     *   Free Shipping: Boho-Chic Decor from $15
     *   Pet Accessories Up to 45% Off
     *   Nordstrom Home Decor Up to 50% Off
-    *   Beach Ready: Towels Starting at $10
-    *   Luxury Bath Towels Up to 65% Off
-    *   Kate Spade New York Home Up to 50% Off
     
     Shop By Category
     *   Home Decor
     *   Bedding
-    *   Bath
     *   Kitchen &. Tabletop
     *   Electronic &. Tech Accessories
-    *   Outdoor Living
+    *   Bath
     *   Pet Accessories
+    *   Outdoor Living
     *   Luggage &. Travel
     *   Accent Furniture
     *   Cleaning &. Organization
 *   BeautyShop Sale Events
     
-    *   Daily Deal: Dyson Airwrap at $449.97
+    *   Dyson Airwrap Styler Complete at $449.97
+    *   Predire Paris Luxury Skin Care Starting at $15
+    *   Best of Hair Tools ft. T3
+    *   Au Naturale: Vegan, Chemical-Free &. Organic Makeup
     *   Men's Fragrances Under $50
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   philosophy Starting at $15
     *   Skin Care Faves ft. Perricone MD
     *   BECCA Cosmetics &. More from $9.97
+    
     *   Fromm: Tools Starting at $10
     *   PRESCRIPTIVES Makeup Up to 50% Off
     *   Luxury Fragrances ft. Gucci, Burberry &. More
-    
     *   Best Tressed: Shampoos, Conditioners &. More
     *   Skin Care &. Microdermabrasion Tools from $10
     *   Best of Palettes ft. LORAC &. BECCA Cosmetics
     *   Londontown Nail Polish Starting at $10
     *   SIBU Sea Berry Therapy Skin Care &. Supplements
-    *   Sky Organics: Essential Oils, Bath Bombs &. More
-    *   Clean Beauty: dome BEAUTY Under $15
-    *   The Original Makeup Eraser
     
     Shop By Category
     *   Skin Care
     *   Makeup
-    *   Fragrance
     *   Bath &. Body
+    *   Fragrance
     *   Nails
     *   Hair Care
     *   Tools &. Accessories
