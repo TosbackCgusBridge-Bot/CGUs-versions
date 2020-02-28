@@ -152,7 +152,7 @@ ENTERTAINMENT COLLECTION
 
 Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Image courtesy of Volkswagen Promo Data: Lower price when you subscribe for 3 years Promo Data: Feb Flash Sale 2020
 
-February Flash Sale
+Last day
 
 Save big on our most popular software.
 
