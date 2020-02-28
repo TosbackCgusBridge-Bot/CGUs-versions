@@ -75,7 +75,7 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
     
     *   Next 3 Exciting Family Adventures: 'Onward,' 'Mulan,' 'Peter Rabbit 2: The Runaway' Read More
     *   The Week in Movie News: ‘Sleight’ Director Tapped for ‘Star Wars,’ Eli Roth to Make a ‘Borderlands’ Movie and More Read More
-    *   The Week in Movie Trailers: Daniel Radcliffe in ‘Escape from Pretoria,’ Toni Collette in ‘Dream Horse’ and More Read More
+    *   Disney's 'Mulan': The Biggest Differences Between the Animated and Live-Action Movies Read More
     
     Explore Content
     *   Movie Reviews
