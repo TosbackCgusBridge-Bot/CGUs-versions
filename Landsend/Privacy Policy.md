@@ -10,7 +10,7 @@ skip to content skip to navigation skip to search
 *   Ship To
 *   Help Center
 
-Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Order History Edit Order Refer a Friend for 50% OFF Full Price Items! Bag 0
+Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Order History Edit Order Refer a Friend for 40% OFF Full Price Items! Bag 0
 
 *   Women
 *   Men
@@ -27,9 +27,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive 50% off any 1 item!
+Receive up to 40% off your order!
 
-code: ARCTIC pin: PROMOTION DETAILS
+code: SNOW pin: PROMOTION DETAILS
 
 Customer Service Menu
 
