@@ -411,7 +411,6 @@ Click here for version 3.3
 
 Upcoming Conferences
 
-*   Software Architecture Feb 23–26, New York
 *   Strata &. AI Mar 15–18, San Jose
 *   Smart Cities &. Mobility Ecosystems Apr 15–16, Phoenix
 *   Strata &. AI Apr 20–23, London
