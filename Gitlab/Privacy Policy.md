@@ -12,6 +12,8 @@ GitLab Security.
 
 For the Americas:
 
+Johnathan Hunt Jeff Burrows.
+
 For Europe and the Middle East:
 
 Jan Urbanc.
