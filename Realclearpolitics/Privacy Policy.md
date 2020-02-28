@@ -119,53 +119,53 @@
     *   About
     *   Media Kit
 
-*   _Will Bunch_: Elites Who Missed Trump Rise Blowing It Again w/Bernie
+*   _Thomas Friedman_: Dems, Want to Defeat Trump? Form a Team of Rivals
     
-*   _David Harsanyi_: How Can Bernie Sanders Happen in America?
+*   _Amber Athey_: Bless Their Hearts: Every Dem Is a Loser in SC Debate
     
-*   _Jesse Jackson_: Sanders' Socialism Is Like Denmark, Not Cuba
+*   _Jim Naureckas_: Corporate Media: From Denial to Anger on Sanders?
     
-*   _Roger Kimball_: Media Serves Up Comedy in Effort to Get Trump
+*   _Steven Petrow_: Sanders Nomination Would Make 2020 a Repeat of 1972
     
-*   _Robin Abcarian_: Schiff, on Being Inside Trump's Head: 'It's Pretty Scary in There'
+*   _Mark Hemingway_: Media Ethics and the Trump-Russia Leak Wars
     
-*   _Kalev Leetaru_: Twitter 'Misinformation' Demo App Stirs Free Speech Questions
+*   _Elie Honig_: Trump's Silly Argument About Ginsburg and Sotomayor
     
-*   _Eric Levitz_: 5 Ways a Coronavirus Pandemic Could Change the Election
+*   _David Clarke_: Trump Calls out Sotomayor for Her Political Activism
     
-*   _Matthew Bunson_: The Catholic Vote and the 2020 Election
+*   _Teri Christoph_: Did Dems on Judiciary Skip Ethics 101?
     
-*   _David Mark_: Why Trump's Base Is Stronger Than Bernie's
+*   _Jon Meacham_: Why Religion Is the Best Hope Against Trump
     
-*   _Jack Johnson_: $1,750+ Ticket Prices for Dem Debate Spark Disgust
+*   _Salena Zito_: Why's Media Silent Over Attack on Republican Volunteers?
     
-*   _A.B. Stoddard_: Neal Simon's 'Contract to Unite America'
+*   _Kalev Leetaru_: 2020 Race Steamrolls Nearly All Else in TV Coverage
     
-*   _Philip Wegmann_: Shouting Match Breaks Out on South Carolina Debate Stage
+*   _Freddy Gray_: Best News for Sanders Is That His Dem Rivals Are So Weak
     
-*   _Richard Wolffe_: Moderates Just Blew Their Best Shot to Stop Sanders
+*   _Michelle Cottle_: Cheer Up, Dems: There Were Hopeful Moments in Debate
     
-*   _John Harris_: Dems Needed a Good Debate, Got an Incoherent Mess Instead
+*   _Charles Pierce_: Biden Is What Happens When Democrats Lack Imagination
     
-*   _Jeet Heer_: A Debate With No Winners, Only Survivors
+*   _Albert Hunt_: Sanders Nomination Would Be a Catastrophe for Democrats
     
-*   _Conrad Black_: Sanders Presents Democratic Party With a Fatal Choice
+*   _Sean Trende_: Taking President Sanders Seriously
     
-*   _Steven Petrow_: Bernie Backers, Please Don't Repeat My Mistake of 1972
+*   _Matt Purple_: Dem Candidates Are Floundering on Foreign Policy
     
-*   _Ross Rosenfeld_: What the Pundits Don't Get About Bernie Sanders
+*   _Cook &. McGraw_: Coronavirus Gets a Trumpian Response
     
-*   _Allen West_: Dems Talk the Race Talk, President Trump Walks the Walk
+*   _Carl Cannon_: 'Woke' Capitalism and the 2020 Election
     
-*   _Rachel Bitecofer_: Hate Is on the Ballot in 2020
+*   _John Tierney_: Campaign Against Plastic Harms the Planet &. the Public
     
-*   _Ilan Berman_: In Iran, an Electoral Flop
+*   _Thomas Edsall_: Does Anyone Know How to Fight Back Against Trump Racism?
     
-*   _Gordon Chang_: Coronavirus Creating Economic Chaos for China
+*   _Steve Cortes_: Why Race-Baiting Will Backfire on the Dour Democrats
     
-*   _Stephen Roach_: When China Sneezes
+*   _Jim Newell_: Why Did Biden Say He Was Arrested Trying to Meet Mandela?
     
-*   _Dana Loesch_: How CNN Set Me Up for the Near-Riot Parkland Town Hall
+*   _Julia Ioffe_: Why Exactly Does Putin Love Bernie Sanders?
     
 
 *   Previous
@@ -236,11 +236,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   "Woke" Capitalism and the 2020 Election
 *   Shouting Match Breaks Out on South Carolina Debate Stage
+*   Trump Blasts Pelosi for "Trying to Create Panic" on Coronavirus
 *   Brady PAC Backs Cunningham in Divisive North Carolina Senate Primary
-*   Full Replay of Democratic Debate in Charleston, South Carolina
-*   After Nevada Win, Sanders Claims "Uniter" Mantel
-*   RNC Brings In Record January Haul, Dwarfing Dems' Total
+*   After Nevada Win, Sanders Claims "Uniter" Mantle
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -254,47 +254,38 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
-*   South Carolina Democratic Presidential PrimaryEast Carolina U.
-    *   Biden31
-    *   Sanders23
-    *   Steyer20
-    *   Warren8
-    *   Buttigieg6
-    *   Klobuchar2
-    *   Gabbard2Biden +8
-*   South Carolina Democratic Presidential PrimaryClemson
-    *   Biden35
-    *   Sanders13
-    *   Steyer17
-    *   Warren8
-    *   Buttigieg8
-    *   Klobuchar4
-    *   Gabbard2Biden +18
-*   California Democratic PrimaryKQED/NPR
-    *   Sanders37
-    *   Biden12
-    *   Warren20
-    *   Bloomberg6
-    *   Buttigieg11
-    *   Klobuchar5
-    *   Steyer3
-    *   Gabbard2Sanders +17
-*   Virginia Democratic PrimaryData for Progress (D)
+*   Utah Democratic PrimaryDeseret News/Hinckley
     *   Sanders28
-    *   Bloomberg17
-    *   Biden19
+    *   Bloomberg19
+    *   Warren15
+    *   Buttigieg18
+    *   Biden6
+    *   Klobuchar4
+    *   Steyer
+    *   GabbardSanders +9
+*   2020 Democratic Presidential NominationFOX News
+    *   Sanders31
+    *   Biden18
+    *   Bloomberg16
+    *   Warren10
     *   Buttigieg12
-    *   Warren17
     *   Klobuchar5
-    *   Gabbard1Sanders +9
+    *   Steyer2
+    *   Gabbard1Sanders +13
+*   General Election: Trump vs. SandersFOX News
+    *   Sanders49
+    *   Trump42Sanders +7
+*   General Election: Trump vs. BidenFOX News
+    *   Biden49
+    *   Trump41Biden +8
 
 More Latest Polls In The News
 
+*   CNN's Angela Rye to Black Trump Supporters, Diamond and Silk &. Katrina Pierson: "Shame On You"
 *   AG Bill Barr: Progressives Want To "Convert Us Into 25-Year-Olds Living In The Government's Basement"
+*   Obama Tells Pro-Trump PAC To Cease And Desist Biden Attack Ad Quoting "Dreams From My Father"
 *   Reporter to Trump on NYT: Do You Think People Who Have An Opinion Contrary To Yours Should Be Sued?
-*   Sanders Defends Cuba Remarks: When Dictatorships Do Something Good, You Acknowledge That
-*   Bloomberg vs. Warren: "Enough Is Never Enough" For You, I Never Told A Woman To Have An Abortion
-*   Warren: The Core Of The Democratic Party Will Never Trust Bloomberg, He Is "The Riskiest Candidate"
+*   Tulsi Gabbard on South Carolina Democratic Debate: "I Couldn't Watch Much Of It, To Be Honest"
 
 *   Politics
 *   Policy
