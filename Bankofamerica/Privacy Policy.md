@@ -1,4 +1,4 @@
-<style>body{visibility:visible}</style>Skip to main content warning-icon You are using an unsupported browser version.Learn more or update your browser. close browser upgrade notice × Bank of America Privacy &. Security
+<style>body{visibility:visible}</style>Skip to main contentBank of America Privacy &. Security
 
 *   Sign in
 *   Sign in
@@ -111,17 +111,21 @@ Expand all panelsShow all panels | Hide all panelsImposter: "I'm with the IRS an
 **Trending now**  
 Remember: Never abbreviate the year 2020 on checks or when signing documents. A criminal can, for example, easily change 2/16/20 to 2/16/2019 in order to facilitate a financial crime.
 
-Update your privacy choices
+Set your privacy choices
 
-You can review and revise your marketing and information-sharing choices online.  
-(You may also visit a  
-financial center or call 888.341.5000)
+  
+You control how we market to you and share your information.
 
-You can review and revise your marketing and information-sharing choices online. (You may also visit a financial center or call 888.341.5000)
+  
+You control how we market to you and share your information.
 
-Update your privacy choices
+Review your privacy choices
 
-Previously opted out of email from us? Visit this page to opt back in
+You may also visit a financial center or call 888‑341‑5000 to review and update your privacy choices.  
+  
+**Want promotional emails?**  
+  
+If you previously opted out of marketing emails and want to opt back in, you can easily update your email preferences.
 
 Security Tools
 
