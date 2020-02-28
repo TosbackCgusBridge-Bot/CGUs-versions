@@ -614,9 +614,9 @@ Lenovo Explore Close
     *   ABOUT LENOVO
     *   Diversity
     *   Investors Relations
-    *   Story Hub
+    *   StoryHub
     *   Careers
-    *   Culture
+    *   Sustainability
 
 1-855-253-6686
 
