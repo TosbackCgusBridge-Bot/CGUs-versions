@@ -20,14 +20,14 @@ Close submenu ( Girls ) Girls
 *   View Home
 *   Tops
 *   Bottoms
-*   Jackets
 *   Dresses + Jumpsuits
 *   Matching Sets
+*   Jackets
+*   Swimwear
 *   Accessories
 *   Flip Flops + Slides
-*   Fragrance
 *   Bras + Undies
-*   Swimwear
+*   Fragrance
 *   Extended Sizes
 *   Clearance
 
@@ -64,7 +64,6 @@ Close submenu ( Guys ) Guys
 Close submenu ( Collections ) Collections
 
 *   View All
-*   $7 Tees
 *   New Arrivals
 *   Best Sellers
 *   Jeans Guide
@@ -124,6 +123,10 @@ Close submenu ( Guys Jeans ) Guys Jeans
 Close submenu ( Aero World ) Aero World
 
 *   View Home
+*   Kristya
+*   Miranda
+*   Claudio
+*   Pipe
 *   Claudia
 *   Korostyle
 *   Logan
@@ -147,7 +150,9 @@ Close submenu ( Girls ) Girls
 *   Destroyed Denim
 *   Music + Pop Culture
 *   Matching Sets
-*   Aero One
+*   Mexico City
+*   Swim
+*   Flip Flops + Slides
 
 Close submenu ( Guys ) Guys
 
@@ -158,6 +163,7 @@ Close submenu ( Guys ) Guys
 *   Real Denim
 *   Destroyed Denim
 *   Music + Pop Culture
+*   Mexico City
 
 Close submenu ( Clearance ) Clearance
 
@@ -191,7 +197,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Online Only! $7 Graphic Tees GIRLS GUYS + FS Over $50**
+**Buy 1 Get 1 Free Jeans + Shorts** ** GIRLS GUYS + FS $50**
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -203,14 +209,14 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Tops
     *   Bottoms
-    *   Jackets
     *   Dresses + Jumpsuits
     *   Matching Sets
+    *   Jackets
+    *   Swimwear
     *   Accessories
     *   Flip Flops + Slides
-    *   Fragrance
     *   Bras + Undies
-    *   Swimwear
+    *   Fragrance
     *   Extended Sizes
     *   Clearance
     
@@ -241,7 +247,6 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
-        *   $7 Tees
         *   New Arrivals
         *   Best Sellers
         *   Jeans Guide
@@ -295,6 +300,10 @@ Menu Find a Store Aeropostale
 *   Aero World
     
     *   View Home
+    *   Kristya
+    *   Miranda
+    *   Claudio
+    *   Pipe
     *   Claudia
     *   Korostyle
     *   Logan
@@ -313,7 +322,9 @@ Menu Find a Store Aeropostale
         *   Destroyed Denim
         *   Music + Pop Culture
         *   Matching Sets
-        *   Aero One
+        *   Mexico City
+        *   Swim
+        *   Flip Flops + Slides
     
     *   Guys
         *   View All
@@ -323,6 +334,7 @@ Menu Find a Store Aeropostale
         *   Real Denim
         *   Destroyed Denim
         *   Music + Pop Culture
+        *   Mexico City
     
 *   Clearance
     
@@ -360,144 +372,141 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
 
-In Stores &. Online
-
-50-70% OFF EVERYTHING
-
-50-70% OFF  
-EVERYTHING
-
-Including 100s of New Arrivals!
-
-Shop Girls Shop Guys
-
-Online only!  
-for a limited time 00:00:00
-
-flash sale
-
-$7
-
-$7 tees
-
-tees
-
-Shop Girls Shop Guys Previous
-
-Curvy
-
-Slim Straight
-
-Cheeky  
-**Online Only**
-
-Cheeky  
-**Online Only**
-
-Straight
-
-Skinny
-
-Slim
-
-Jeggings
-
-Athletic Skinny  
-**NEW!**
-
-Athletic Skinny  
-**NEW!**
-
-Mom
-
-Skinny
-
-Curvy
-
-Slim Straight
-
-Cheeky  
-**Online Only**
-
-Cheeky  
-**Online Only**
-
-Straight
-
-Skinny
-
-Slim
-
-Jeggings
-
-Athletic Skinny  
-**NEW!**
-
-Athletic Skinny  
-**NEW!**
-
-Mom
-
-Skinny
-
-Curvy
-
-Slim Straight
-
-Cheeky  
-**Online Only**
-
-Cheeky  
-**Online Only**
-
-Straight
-
-Skinny
-
-Slim
-
-Jeggings
-
-Athletic Skinny  
-**NEW!**
-
-Athletic Skinny  
-**NEW!**
-
-Mom
-
-Skinny
-
-Curvy
-
-Slim Straight
-
-Cheeky  
-**Online Only**
-
-Cheeky  
-**Online Only**
-
-Straight
-
-Next
-
-In Stores &. Online
-
-AERO JEANS
+In Stores &. Online Mix &. Match
 
 BUY 1 GET 1 FREE
 
-Shop Girls Jeans Shop Guys Jeans
+JEANS &. SHORTS
 
-In Stores &. Online
+\* Must Add 2 to Cart
 
-AERO JEANS
+Shop Girls Shop Guys Store Locator
 
-BUY 1 GET 1  
-FREE
+In Stores &. Online Mix &. Match
 
-Shop Girls Jeans Shop Guys Jeans
+BUY 1 GET  
+1 FREE
+
+JEANS &. SHORTS
+
+\* Must Add 2 to Cart
+
+Shop Girls Shop Guys Store Locator Previous
+
+Curvy
+
+Slim Straight
+
+Cheeky  
+**Online Only**
+
+Cheeky  
+**Online Only**
+
+Straight
+
+Skinny
+
+Slim
+
+Jeggings
+
+Athletic Skinny  
+**NEW!**
+
+Athletic Skinny  
+**NEW!**
+
+Low Rise Midi
+
+Skinny
+
+Hi Rise Curvy
+
+Slim Cuffed
+
+Cheeky  
+**Online Only**
+
+Cheeky  
+**Online Only**
+
+Slim Cut Off
+
+Mom
+
+Skinny
+
+Curvy
+
+Slim Straight
+
+Straight
+
+Skinny
+
+Slim
+
+Jeggings
+
+Athletic Skinny  
+**NEW!**
+
+Athletic Skinny  
+**NEW!**
+
+Mom
+
+Skinny
+
+Curvy
+
+Slim Straight
+
+Cheeky  
+**Online Only**
+
+Cheeky  
+**Online Only**
+
+Straight
+
+Skinny
+
+Slim
+
+Jeggings
+
+Athletic Skinny  
+**NEW!**
+
+Athletic Skinny  
+**NEW!**
+
+Low Rise Midi
+
+Skinny
+
+Hi Rise Curvy
+
+Slim Cuffed
+
+Cheeky  
+**Online Only**
+
+Cheeky  
+**Online Only**
+
+Slim Cut Off
+
+Next
+
+PERFECTLY  
+PAIRED
+
+New Spring Dresses &. Sets
+
+Shop Dresses &. Sets
 
 In Stores &. Online
 
@@ -507,7 +516,7 @@ homelessness in the United States are under
 
 A PAIR OF JEANS.
 
-**JANUARY 22ND - FEBRUARY 29TH,**  
+**JANUARY 22ND - MARCH 7TH,**  
 Donate a pair of jeans in stores &. get an  
 additional 20% off your next purchase.  
   
@@ -515,7 +524,7 @@ Join at **dosomething.org/jeans**
 for a chance to win a grand prize  
 of $10,000 for your school.
 
-**JANUARY 22ND - FEBRUARY 29TH,**  
+**JANUARY 22ND - MARCH 7TH,**  
 Donate a pair of jeans in stores &. get an additional  
 20% off your next purchase.  
   
@@ -527,14 +536,16 @@ Learn more
 
 In Stores &. Online
 
-AERO  
-GRAPHIC TEES
+AERO TEES
+
+BUY 1 GET 2  
+FREE
 
 Specially washed for never-before-felt  
 softness. Expertly created for everyday  
 comfort &. ease.
 
-Shop Girls **Buy 1 Get 2 Free** Shop Guys **Buy 1 Get 2 Free**
+Shop Girls Shop Guys
 
 In Stores &. Online
 
@@ -545,18 +556,18 @@ wear them out (and in).
 
 Shop Girls **$18 &. Up** Shop Guys **$18 &. Up**
 
-WELCOME TO  
+AERO x MEXICO  
 #AEROWORLD
 
-Meet the six NEW individuals leaving their  
-impressions on the world-and us.  
-Hear their stories. Shop their looks.
+Introducing our  
+limited-edition global "Oneness" collection inspired  
+by the vibrant streets of Mexico City.
 
-Meet the six NEW individuals leaving their  
-impressions on the world-and us.  
-Hear their stories. Shop their looks.
+Introducing our  
+limited-edition global "Oneness" collection  
+inspired by the vibrant streets of Mexico City.
 
-Enter Aero World
+Shop the Collection
 
 Where we come together as one.  
 Tag **@aeropostale** and **#AeroWorld** for a chance to be  
