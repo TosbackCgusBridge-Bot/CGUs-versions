@@ -22,6 +22,7 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
     
     Opening This Week = Limited Release
     
+    *   Impractical Jokers: The Movie
     *   The Invisible Man (2020)
     *   My Hero Academia: Heroes Rising
     *   Blood on Her Name
@@ -32,7 +33,6 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
     *   Saint Frances
     *   Wendy (2020)
     *   The Whistlers (2020)
-    *   A White, White Day
     *   See All Opening This Week
     
     Coming Soon
@@ -73,8 +73,8 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Next 3 Exciting Family Adventures: 'Onward,' 'Mulan,' 'Peter Rabbit 2: The Runaway' Read More
-    *   The Week in Movie News: ‘Sleight’ Director Tapped for ‘Star Wars,’ Eli Roth to Make a ‘Borderlands’ Movie and More Read More
+    *   The Week in Movie Trailers: The Return of ‘Candyman,’ Animated Feature ‘Rumble’ and More Read More
+    *   The Week in Movie News: James Mangold to Direct ‘Indiana Jones 5,’ ‘Jurassic World 3’ Title Revealed and More Read More
     *   Disney's 'Mulan': The Biggest Differences Between the Animated and Live-Action Movies Read More
     
     Explore Content
