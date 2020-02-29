@@ -422,6 +422,7 @@ Upcoming Conferences
 *   TensorFlow Oct 19–22, Santa Clara
 *   Software Architecture Nov 16–19, Berlin
 *   Infrastructure &. Ops Nov 16–19, Berlin
+*   Software Architecture Feb 22–25, New York
 
 The O'Reilly Approach
 
