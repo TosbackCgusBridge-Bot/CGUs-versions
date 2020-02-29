@@ -81,36 +81,36 @@
   
 Read the Internet Society’s roadmap for our work ahead – and let’s join together to support our vision that the Internet is for everyone.
 
-Local action. Global change. Local action. Global change.
+<img src="https://www.internetsociety.org/wp-content/uploads/2017/05/ISOC-Light-RGB\_Logo\_250x83.png" title="ISOC-Light-RGB\_Logo\_250x83" alt="ISOC-Light-RGB\_Logo\_250x83" />. Local action. Global change. Local action. Global change.
 
 Learn what it takes to build and sustain your own community network at a local Community Network Summit.
 
-MANRS Observatory: Monitoring the State of Internet Routing Security MANRS Observatory: Monitoring the State of Internet Routing Security
+<img src="https://www.internetsociety.org/wp-content/uploads/2020/01/20170722\_163824\_DSCF6505-e1568899349225-180x104-1.jpg" title="20170722\_163824\_DSCF6505-e1568899349225-180x104" alt="20170722\_163824\_DSCF6505-e1568899349225-180x104" />. MANRS Observatory: Monitoring the State of Internet Routing Security MANRS Observatory: Monitoring the State of Internet Routing Security
 
 We launched a new online tool that measures the level of networks’ compliance to MANRS.
 
-Learn More Learn More
+<img src="https://www.internetsociety.org/wp-content/uploads/2020/01/manrs-observatory-180x163-1.png" title="manrs-observatory-180x163" alt="manrs-observatory-180x163" />. Learn More Learn More
 
 Did you know that the open standards that power the Internet are created by the Internet Engineering Task Force (IETF)?
 
-Join the team Join the team
+<img src="https://www.internetsociety.org/wp-content/uploads/2020/01/ietf-logo-250x143-1.gif" title="IETF Logo" alt="IETF Logo" />. Join the team Join the team
 
 Do you want to join us in building a bigger, stronger Internet? Read our open job descriptions.
 
-Are Organizations Ready for New Privacy Regulations? Are Organizations Ready for New Privacy Regulations?
+<img src="https://www.internetsociety.org/wp-content/uploads/2020/01/isoc\_team-180x120-1.jpg" title="isoc\_team-180x120" alt="isoc\_team-180x120" />. Are Organizations Ready for New Privacy Regulations? Are Organizations Ready for New Privacy Regulations?
 
 Privacy regulations around the world are evolving. We looked at 1,200 privacy statements to see if organizations are ready.
 
-Member Login en
+<img src="https://www.internetsociety.org/wp-content/uploads/2020/01/PrivacyDD.cover\_small-e1568899538866-180x231-1.png" title="PrivacyDD.cover\_small-e1568899538866-180x231" alt="PrivacyDD.cover\_small-e1568899538866-180x231" />. Member Login en
 
 *   en
 *   fr
 *   es
 *   More languages
 
-Donate ×search  Donate Online Trust Alliance (OTA) OTA Home Publications Best Practices IoT Committees All Resources
+Donate Donate Online Trust Alliance (OTA) OTA Home Publications Best Practices IoT Committees All Resources
 
-The Internet Society’s Online Trust Alliance (OTA) identifies and promotes security and privacy best practices that build consumer confidence in the Internet. Leading public and private organizations, vendors, researchers, and policymakers contribute to and follow OTA’s guidance to help make online transactions safer and better protect users’ data. **OTA Goals:**
+<img class="post-img post-img-right 3750 alignright" src="https://www.internetsociety.org/wp-content/uploads/2017/08/ota-logo-976px-300x104.png" alt="" width="300" height="104" />The Internet Society’s Online Trust Alliance (OTA) identifies and promotes security and privacy best practices that build consumer confidence in the Internet. Leading public and private organizations, vendors, researchers, and policymakers contribute to and follow OTA’s guidance to help make online transactions safer and better protect users’ data. **OTA Goals:**
 
 *   Through independent research and benchmark reporting, educate stakeholders on Internet issues impacting user trust and brand reputation;
 *   Drive multistakeholder initiatives to develop and advance best practices to protect users’ security, privacy, and identity;
@@ -118,7 +118,7 @@ The Internet Society’s Online Trust Alliance (OTA) identifies and promotes se
 *   Establish and foster partnerships and collaborative learning opportunities. and
 *   Empower users to act in their own privacy and security interests.
 
-Some examples of OTA’s work products include: Online Trust Audit and Honor Roll
+Some examples of OTA’s work products include: Online Trust Audit and Honor Roll <img src="https://www.internetsociety.org/wp-content/uploads/2019/05/ota\_honor\_roll\_2018-450x397.png" title="ota\_honor\_roll\_2018" alt="ota\_honor\_roll\_2018" />.
 
 The Online Trust Audit &. Honor Roll assesses nearly 1,200 organizations, recognizing excellence in online consumer protection, data security, and responsible privacy practices. This 10th annual audit of more than 1,200 predominantly consumer-facing websites is the largest undertaken by OTA, and was expanded this year to include payment services, video streaming, sports sites, and healthcare.
 
@@ -140,39 +140,39 @@ The IoT Trust Framework® includes a set of strategic principles necessary to he
 
 Visit our IoT Trust Framework page and download the full version or Framework Overview.
 
-Read the Framework Learn more about IoT OTA News Deep Dive: Scoring ISPs and Hosts on Privacy and Security Building Trust 21 January 2020 Deep Dive: Scoring ISPs and Hosts on Privacy and Security
+Read the Framework Learn more about IoT OTA News Deep Dive: Scoring ISPs and Hosts on Privacy and Security <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2020/01/ota-deep-dive-isps-hosts-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Deep Dive: Scoring ISPs and Hosts on Privacy and Security Thumbnail" title="Deep Dive: Scoring ISPs and Hosts on Privacy and Security Thumbnail" />. Building Trust 21 January 2020 Deep Dive: Scoring ISPs and Hosts on Privacy and Security
 
 In April 2019 the Internet Society’s Online Trust Alliance (OTA) released its 10th Annual Online Trust Audit &. Honor...
 
-Deep Dive: U.S. Federal Government’s Security and Privacy Practices Building Trust 14 January 2020 Deep Dive: U.S. Federal Government’s Security and Privacy Practices
+Deep Dive: U.S. Federal Government’s Security and Privacy Practices <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2020/01/ota-deep-dive-federal-government-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Deep Dive: U.S. Federal Government&#8217;s Security and Privacy Practices Thumbnail" title="Deep Dive: U.S. Federal Government&#8217;s Security and Privacy Practices Thumbnail" />. Building Trust 14 January 2020 Deep Dive: U.S. Federal Government’s Security and Privacy Practices
 
 In April 2019, the Internet Society’s Online Trust Alliance released its 10th Annual Online Trust Audit &. Honor Roll....
 
-Deep Dive: How Does the Consumer Sector Score on Privacy and Security? Building Trust 7 January 2020 Deep Dive: How Does the Consumer Sector Score on Privacy and Security?
+Deep Dive: How Does the Consumer Sector Score on Privacy and Security? <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2020/01/ota-deep-dive-consumers-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Deep Dive: How Does the Consumer Sector Score on Privacy and Security? Thumbnail" title="Deep Dive: How Does the Consumer Sector Score on Privacy and Security? Thumbnail" />. Building Trust 7 January 2020 Deep Dive: How Does the Consumer Sector Score on Privacy and Security?
 
 In April 2019 the Internet Society’s Online Trust Alliance released its 10th annual Online Trust Audit &. Honor Roll....
 
-Deep Dive: How the News and Media Sector Scores on Security and Privacy Building Trust 19 December 2019 Deep Dive: How the News and Media Sector Scores on Security and Privacy
+Deep Dive: How the News and Media Sector Scores on Security and Privacy <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2019/12/ota-2019-deep-dive-news-media-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Deep Dive: How the News and Media Sector Scores on Security and Privacy Thumbnail" title="Deep Dive: How the News and Media Sector Scores on Security and Privacy Thumbnail" />. Building Trust 19 December 2019 Deep Dive: How the News and Media Sector Scores on Security and Privacy
 
 In April 2019 the Internet Society’s Online Trust Alliance released its 10th annual Online Trust Audit &. Honor Roll....
 
-Online Trust Audit for 2020 Presidential Campaigns Update Building Trust 4 December 2019 Online Trust Audit for 2020 Presidential Campaigns Update
+Online Trust Audit for 2020 Presidential Campaigns Update <img width="600" height="600" src="https://www.internetsociety.org/wp-content/uploads/2019/12/joshua-sukoff-5DDYHjk\_KMU-unsplash-600x600.jpg" class="attachment-square size-square wp-post-image" alt="Online Trust Audit for 2020 Presidential Campaigns Update Thumbnail" title="Online Trust Audit for 2020 Presidential Campaigns Update Thumbnail" srcset="https://www.internetsociety.org/wp-content/uploads/2019/12/joshua-sukoff-5DDYHjk\_KMU-unsplash-600x600.jpg 600w, https://www.internetsociety.org/wp-content/uploads/2019/12/joshua-sukoff-5DDYHjk\_KMU-unsplash-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" />. Building Trust 4 December 2019 Online Trust Audit for 2020 Presidential Campaigns Update
 
 On 7 October 2019, the Internet Society’s Online Trust Alliance (OTA) released the Online Trust Audit for 2020 U.S....
 
-Deep Dive: A Look at Top Retailers’ Security Practices Building Trust 27 November 2019 Deep Dive: A Look at Top Retailers’ Security Practices
+Deep Dive: A Look at Top Retailers’ Security Practices <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2019/11/Retailers-Security-Practices-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Deep Dive: A Look at Top Retailers&#8217. Security Practices Thumbnail" title="Deep Dive: A Look at Top Retailers&#8217. Security Practices Thumbnail" />. Building Trust 27 November 2019 Deep Dive: A Look at Top Retailers’ Security Practices
 
 In April 2019 the Internet Society’s Online Trust Audit released its 10th Online Trust Audit and Honor Roll. One...
 
-Load more Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team Megan Kruse photo Megan Kruse
+Load more Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team <img src="https://www.internetsociety.org/wp-content/uploads/2019/05/Megan-Closer-150x150.png" alt="Megan Kruse" title="Megan Kruse" />Megan Kruse photo Megan Kruse
 
 Director, Partner Engagement and Communications
 
-Kenneth Olmstead photo Kenneth Olmstead
+<img src="https://www.internetsociety.org/wp-content/uploads/2018/11/kenny.olmstead-150x150.jpg" alt="Kenneth Olmstead" title="Kenneth Olmstead" />Kenneth Olmstead photo Kenneth Olmstead
 
 Senior Internet Security and Privacy Expert
 
-Jeff Wilbur photo Jeff Wilbur
+<img src="https://www.internetsociety.org/wp-content/uploads/2018/10/Jeff-Wilbur\_2\_resized-150x150.jpg" alt="Jeff Wilbur" title="Jeff Wilbur" />Jeff Wilbur photo Jeff Wilbur
 
 Senior Director, Online Trust
 
@@ -199,4 +199,4 @@ CH-1201 Geneva
 
 Follow us:
 
-Follow Internet Society on Twitter Follow Internet Society on LinkedIn Follow Internet Society on Facebook Follow Internet Society on Instagram Follow Internet Society on YouTube Internet Society RSS Feed Copyright © 2020 Internet Society We care about your privacy and strive to limit our use of cookies to those that help improve our site and keep it relevant. By continuing to use this site, you agree to the use of cookies. To learn more about how you can control use of cookies see our Cookie Policy
+Follow Internet Society on Twitter Follow Internet Society on LinkedIn Follow Internet Society on Facebook Follow Internet Society on Instagram Follow Internet Society on YouTube Internet Society RSS Feed Copyright © 2020 Internet Society <style>.lazyload{display:none;}</style>. We care about your privacy and strive to limit our use of cookies to those that help improve our site and keep it relevant. By continuing to use this site, you agree to the use of cookies. To learn more about how you can control use of cookies see our Cookie Policy
