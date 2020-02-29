@@ -34,6 +34,7 @@ Save SettingsAllow All
     *   10-year mortgage rates
     *   FHA loan rates
     *   VA loan rates
+    *   Jumbo loan rates
     *   ARM loan rates
     
     Refinance your Mortgage
@@ -44,6 +45,7 @@ Save SettingsAllow All
     *   15-year refinance rates
     *   10-year refinance rates
     *   FHA refinance rates
+    *   Jumbo refinance rates
     *   VA refinance rates
     
     Use Calculators
