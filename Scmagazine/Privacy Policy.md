@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Facebook’s European dating service held up over data protection, privacy concerns
-    *   Email scam swindles $2.6M from Puerto Rican government corporation
+    *   Fox Kitten APT campaign exploits VPN flaws hours after public disclosure
+    *   The winners of the 2020 SC Awards Honored in the U.S.
     *   Venables, Gerstell and Geer to headline CSA Summit
-    *   Ring mandating 2FA logins, ceases some third-party activity
-    *   The four levels of automated remediation
-    
-    *   Mac cyberattacks double in 2019: Malwarebytes
-    *   French plastic surgery image repository left vulnerable but since corrected: report
-    *   Rutter’s convenience stores suffer POS data breach
-    *   IBM pulls out of RSA over coronavirus fears
+    *   Dell sells RSA to Symphony Technology Group in $2B deal
     *   DISA breach likely exposed personal data on at least 200K
     
-    *   Munson Healthcare data breach exposes PHI
-    *   Clearview AI client list breached
-    *   Bug bounty hunter numbers rising dramatically: HackerOne
-    *   Tips for those of all ages interested in pursuing a career in cybersecurity
+    *   CISA warns critical infrastructure sectors after successful ransomware attack on pipeline operator
+    *   Iran maintaining on-going cyber efforts, no response yet to Soleimani killing
+    *   Security perimeters in the cloud aren’t dead—They’re ephemeral
+    *   Dell sells RSA to Symphony Technology Group in $2B deal
     *   The winners of the 2020 SC Awards Honored in the U.S.
+    
+    *   SC Podcast: Investigating the human side of cybersecurity
+    *   SC Podcast: On the web, who's a bot and who's a person
+    *   RSA 2020: Equifax CISO touts company's transparency it as seeks breach redemption
+    *   The winners of the 2020 SC Awards Honored in the U.S.
+    *   Machine learning log analysis platforms - the new wing man to SIEM?
 
 Back to Top
 
