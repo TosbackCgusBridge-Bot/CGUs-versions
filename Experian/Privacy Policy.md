@@ -1,69 +1,126 @@
 *   Consumer
 *   Small Business
 *   Business
-*   More...
 
 *   About Experian
 *   Consumer Support
 *   Credit Advice
 *   Global Sites
 
-× Experian Site Sections
+Experian Global Sites
+
+*   Argentina
+*   Australia
+*   Austria
+*   Belgium
+*   Brazil
+*   Bulgaria
+*   Canada
+*   Chile
+*   China
+*   Colombia
+*   Czech Republic
+
+*   Denmark
+*   Finland
+*   France
+*   Germany
+*   Greece
+*   Hong Kong
+*   India
+*   Ireland
+*   Italy
+*   Japan
+
+*   Malaysia
+*   Mexico
+*   Netherlands
+*   New Zealand
+*   Norway
+*   Peru
+*   Poland
+*   Russia
+*   Singapore
+*   South Africa
+*   South Korea
+
+*   Spain
+*   Sweden
+*   Switzerland
+*   Thailand
+*   Taiwan
+*   Turkey
+*   UAE
+*   United Kingdom
+*   United States
+*   Vietnam
+
+Toggle navigation Search
+
+Toggle navigation
 
 *   About Experian
 *   Consumer Support
 *   Credit Advice
 *   Global Sites
+*   Consumer
+*   Small Business
+*   Business
 
-Close
+1.  Privacy
+2.  Online Credit Reports
 
-More Pages Privacy
+Privacy Privacy
 
 *   Approach to Privacy
+
 *   Privacy Policies
     *   Ask Experian
-    *   OmniActivationTM Strategic Services
-    *   AutoCheck®
-    *   AutoCount®
+    *   OmniActivation Strategic Services
+    *   AutoCheck
+    *   AutoCount
     *   Business Verification by Phone
     *   CCPA Privacy Policy
     *   Client Registration
     *   ConsumerInfo.com, Inc. Policy
     *   CSID Privacy Policy
-    *   Data SelectSM
+    *   Data Select
     *   Experian EU-U.S. Privacy Shield Privacy Policy
-    *   Experian ConnectSM
+    *   Experian Connect
     *   Experian’s Usage of Marketing Data
     *   IDnotify Privacy Policy
     *   Online Business Credit Reports
     *   Online Credit Reports
     *   Permission Email
-    *   ScorecardSM
+    *   Scorecard
     *   Small Business Prospecting Tool
+
 *   Opting Out
-    *   Direct Mail
-    *   Email
-    *   Online Targeted Advertising
-    *   Partner Opt Out
-    *   Preapproved Offers
-    *   Telemarketing
+
 *   Request Experian Marketing Data Report
+
 *   Recent Updates
+
+*   GDPR Sub-Processors
+
 *   California Consumer Privacy Act
+
 *   Contact Us About Privacy
 
-Online Personal Credit Reports and Scores En Español
+Online Personal Credit Reports and Scores
+
+En Español
 
 **Updated: January 9, 2015**
 
-This Web Site is jointly offered by Experian Information Solutions, Inc. ("Experian") and ConsumerInfo.com, Inc. ("CIC"), an Experian® company. When you are on portions of this site provided by Experian, such as when you request and view your free annual consumer credit disclosure or purchase a VantageScore® credit score, Experian's Privacy Policy applies (Experian). When you purchase products provided by CIC, such as credit monitoring or credit score products, CIC's Privacy Policy applies (CIC).
+This Web Site is jointly offered by Experian Information Solutions, Inc. ("Experian") and ConsumerInfo.com, Inc. ("CIC"), an Experian® company. When you are on portions of this site provided by Experian, such as when you request and view your free annual consumer credit disclosure or purchase a VantageScore® credit score, Experian's Privacy Policy applies (Experian). When you purchase products provided by CIC, such as credit monitoring or credit score products, CIC's Privacy Policy applies (CIC).
 
 **Experian Privacy Policy:**
 
 Experian is one of the national credit reporting agencies. Our credit-reporting business is regulated by the federal Fair Credit Reporting Act and companion state laws. We are also held accountable by various other laws and industry standards as well as your expectations. We are sensitive to your interest in privacy, and we are committed to letting you know what information is being collected, how the information is being used, and in providing you choices in the use of the information. Each time we request identification information from you, we will explain why we are asking and how we will use your information. The online personal credit report service is provided to consumers in accordance with the Fair Credit Reporting Act and with Experian's Information Values. For a full explanation, you may link to Experian's Information Values at the bottom of this page. When you have finished viewing our Information Values, simply click on the X in the upper right hand corner to close the window and return to this page.
 
-**Collection And Use Of Your Information For Ordering A Credit Report** **and/or Score  
-**We will not release an individual's personal credit report and/or score without verifying the identity of the requester, and we will make every effort to verify that the requester is the subject of the requested report and/or score. We require that you provide us with the requested personal information during the online ordering process to help ensure that we provide your credit report and/or score only to you. Additionally, we will ask you several multiple choice questions about your credit history and other information that only you should know. We cannot deliver your personal credit report and/or score online if you do not provide us with this information or if you provide us with incorrect information. We take these precautions for your privacy and security protection.  If you are unable to order your credit report and/or score through this online system, we may contact you at the address we have on file to assist you in obtaining your credit report and/or score in another manner.  We may also contact any user of this online system for audit and verification purposes in order to comply with laws and regulations governing the credit reporting industry. For example, we may institute random mail or telephonic confirmations to ensure that our system is secure.
+**Collection And Use Of Your Information For Ordering A Credit Report and/or Score**  
+We will not release an individual's personal credit report and/or score without verifying the identity of the requester, and we will make every effort to verify that the requester is the subject of the requested report and/or score. We require that you provide us with the requested personal information during the online ordering process to help ensure that we provide your credit report and/or score only to you. Additionally, we will ask you several multiple choice questions about your credit history and other information that only you should know. We cannot deliver your personal credit report and/or score online if you do not provide us with this information or if you provide us with incorrect information. We take these precautions for your privacy and security protection.  If you are unable to order your credit report and/or score through this online system, we may contact you at the address we have on file to assist you in obtaining your credit report and/or score in another manner.  We may also contact any user of this online system for audit and verification purposes in order to comply with laws and regulations governing the credit reporting industry. For example, we may institute random mail or telephonic confirmations to ensure that our system is secure.
 
 The personal information you provide to us in connection with ordering your credit report and/or score online will not be shared with any third parties, except as permitted by law. Your information may be shared with an Experian affiliate for fulfillment of your request and will not be used for any other purpose except as permitted by law, which may include without limitation sharing or other uses with your consent. Non-personal data may be used to develop enhancements to this product and other Experian consumer products. We may use data to make changes to our product, as deemed necessary to continue to ensure your security and privacy online. 
 
@@ -72,7 +129,7 @@ The personal information you provide to us in connection with ordering your cred
 If you request an investigation of an item that you believe to be inaccurate or incomplete on your personal credit report, all information relevant to your request will be provided to the credit grantor/data supplier for investigation purposes in compliance with the FCRA.
 
 **Storage Of Your Information**  
-Experian will store the information you provide to us during your visit for fraud detection and verification purposes. We will store your email address and online personal credit report number in order to facilitate the processing of a request for investigation. If you provide your email address, Experian will store it with your online credit report number so that we can notify you when your investigation is completed. Your email address does not become part of your credit information and will not be shared with third parties except for legal and subpoena purposes, which may include without limitation sharing or other uses with your consent. We will not use your email address for marketing purposes unless you have opted in as described below in the Opt-in for Experian marketing information.
+Experian will store the information you provide to us during your visit for fraud detection and verification purposes. We will store your email address and online personal credit report number in order to facilitate the processing of a request for investigation. If you provide your email address, Experian will store it with your online credit report number so that we can notify you when your investigation is completed. Your email address does not become part of your credit information and will not be shared with third parties except for legal and subpoena purposes, which may include without limitation sharing or other uses with your consent. We will not use your email address for marketing purposes unless you have opted in as described below in the Opt-in for Experian marketing information.
 
 **Web Logs And Cookies**
 
@@ -101,7 +158,7 @@ Please note: This privacy policy applies only to this on-line Web site and appli
 Consumerinfo.com (CIC) Privacy Policy:
 
 **What Is Our Commitment To You:**  
-We are sensitive to your privacy concerns, and are committed to letting you know what information is being collected on our Sites, how the information is being used and what choices you have regarding the collection and use of the information. Please take a moment to review this privacy notice and feel free to contact us with any questions at privacy@consumerinfo.com.
+We are sensitive to your privacy concerns, and are committed to letting you know what information is being collected on our Sites, how the information is being used and what choices you have regarding the collection and use of the information. Please take a moment to review this privacy notice and feel free to contact us with any questions at privacy@consumerinfo.com.
 
 **What Types Of Information Do We Collect About You?**  
 The primary reason we collect personal and credit information about you is to provide products and services that you have requested and to enroll you into our membership products. The type of information we collect, and the primary purpose for which it is collected includes:
@@ -129,7 +186,7 @@ You have choices when it comes to learning about new offers or services you can 
 
 *   New Order Opt-out Option: While placing an order for the purchase of a credit report or monitoring service, you may select to opt out of receiving special offers and newsletters from us and our affiliated companies directly on your order form.
 *   Email Opt-out Options: Each marketing email we send includes instructions and an opt-out link. Alternatively, you may opt out by calling our Customer Care Center toll-free at 1 877 284 7942. You may exercise this opt out choice at any time.
-*   Refusing Cookies: Subject to the section below pertaining to cookies and web beacons, you have the ability to prohibit being served an advertisement based on cookie technology. We utilize reputable third-party vendors to serve advertisements. If however, you are not comfortable with cookies, you can adjust the settings within your browser to further prohibit being served a cookie. Please see the browser's instructions to perform this task. The National Advertising Initiative (NAI) has developed an opt-out tool with the express purpose of allowing consumers to "opt-out" of the targeted advertising delivered by its member networks. You can visit the NAI opt-out page and opt-out of this cookie tracking. Please visit: http://www.networkadvertising.org/optout\_nonppii.asp for more information.
+*   Refusing Cookies: Subject to the section below pertaining to cookies and web beacons, you have the ability to prohibit being served an advertisement based on cookie technology. We utilize reputable third-party vendors to serve advertisements. If however, you are not comfortable with cookies, you can adjust the settings within your browser to further prohibit being served a cookie. Please see the browser's instructions to perform this task. The National Advertising Initiative (NAI) has developed an opt-out tool with the express purpose of allowing consumers to "opt-out" of the targeted advertising delivered by its member networks. You can visit the NAI opt-out page and opt-out of this cookie tracking. Please visit: http://www.networkadvertising.org/optout\_nonppii.asp for more information.
 *   Partner sharing Opt-out Options: If a business partner refers you to our Site, you may choose not to have your information shared with that partner by opting-out directly on your order form.
 *   Affiliate sharing Opt-out Options: While placing an order for the purchase of a credit report or monitoring service, you may select to opt-out of receiving offers from our affiliated companies directly on your order form. Please note that suppressed contact information will not be used for any other purpose other than to ensure compliance with your opt-out request and to comply with the CAN-SPAM Act of 2003 and any other applicable state and/or federal laws regarding your choices when it comes to commercial email marketing.
 
@@ -139,7 +196,7 @@ A cookie is a small piece of information that many Web sites use to help make sh
 If you want to prevent a third-party advertising network from setting and/or reading cookies on your computer, you may wish to alter the cookie settings within your browser. Please review the instructions for your browser on how this is performed. Please see "Offering You Choices-Marketing Options" above for information on how to opt-out of sharing your Information.
 
 **What Is Our Policy Relating To Former Customers?**  
-Our policy regarding the collection and use of information about former customers is the same as that regarding the collection and use about existing customers (refer to section titled **What types of information do we collect about you?**).
+Our policy regarding the collection and use of information about former customers is the same as that regarding the collection and use about existing customers (refer to section titled What types of information do we collect about you?).
 
 **How Do We Protect Your Information?**  
 We restrict access to nonpublic personal information about you to those of our employees who need to know that information in order to provide products to you. We maintain physical, electronic, and procedural safeguards designed to protect your nonpublic personal information.
@@ -159,6 +216,50 @@ Please note that our offline privacy notice (not covering information collected 
 
 Please keep in mind that this Privacy Notice only applies to your use of your promotional membership. If you choose to continue using this or any additional products after the expiration of your complimentary membership, you will be asked to re-enroll at a separate Web site with a different privacy notice.
 
+*   Industries
+*   Automotive
+*   Banks
+*   Credit Unions
+*   Debt Collection
+*   Health
+*   Mortgage
+*   FinTech
+*   Public Sector
+*   Telecommunications
+*   Utilities
+
+*   Solutions and Services
+*   Account Aggregation
+*   Data Breach Resolution
+*   Data Quality
+*   Decisioning
+*   Experian Marketing Services
+*   Fraud Management
+*   Partner Solutions
+*   Regulatory Compliance
+*   Risk Management
+*   Consulting Services
+
+*   Data
+*   Big Data
+*   Business Data
+*   Consumer Credit Data
+*   Consumer Data &. Insights
+*   Data Quality
+*   Rental Data
+
+*   Additional Resources
+*   Business Resources
+*   Experian Social Media
+*   Reporting to Experian
+
+*   Blogs
+*   Experian Insights
+*   Business Information
+*   Data Breach Resolution
+*   Data Quality Trends
+*   Healthcare
+
 *   Legal Terms &. Conditions
 *   Privacy Policy
 *   CA Privacy Policy
@@ -166,52 +267,8 @@ Please keep in mind that this Privacy Notice only applies to your use of your pr
 *   Press
 *   Careers
 *   Investor Relations
-*   Developer Portal
 *   Contact Us
 
-©2020 Experian Information Solutions, Inc. All rights reserved. Experian and the Experian marks used herein are service marks or registered trademarks of Experian Information Solutions, Inc. Other product and company names mentioned herein are the property of their respective owners. Experian Global Sites
+©2020 Experian Information Solutions, Inc. All rights reserved.
 
-*   Argentina
-*   Australia
-*   Austria
-*   Belgium
-*   Brazil
-*   Bulgaria
-*   Chile
-*   China
-*   Colombia
-
-*   Czech Republic
-*   Denmark
-*   France
-*   Germany
-*   Greece
-*   Hong Kong
-*   India
-*   Indonesia
-*   Ireland
-*   Italy
-*   Japan
-
-*   Malaysia
-*   Mexico
-*   Netherlands
-*   New Zealand
-*   Norway
-*   Peru
-*   Poland
-*   Russia
-*   Singapore
-*   South Africa
-*   South Korea
-
-*   Spain
-*   Taiwan
-*   Thailand
-*   Turkey
-*   UAE
-*   United Kingdom
-*   United States
-*   Vietnam
-
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8P4KW" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+Experian and the Experian marks used herein are service marks or registered trademarks of Experian Information Solutions, Inc. Other product and company names mentioned herein are the property of their respective owners.
