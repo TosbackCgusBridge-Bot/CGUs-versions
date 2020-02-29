@@ -108,6 +108,7 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   FOIA
 *   Information Quality
 *   Accessibility
+*   Guidance
 *   Disclaimer
 *   USA.gov
 *   Ready.gov
@@ -116,15 +117,3 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Contact us
 *   Staff Directory
 *   Need help?
-
-× We'd welcome your feedback!
-
-Thank you for visiting our website. You have been selected to participate in a brief customer satisfaction survey to let us know how we can improve your experience.
-
-The survey is designed to measure your entire experience, please look for it at the conclusion of your visit.
-
-This survey is conducted by an independent company ForeSee, on behalf of the site you are visiting.
-
-No, thanks Yes, I'll give feedback
-
-×
