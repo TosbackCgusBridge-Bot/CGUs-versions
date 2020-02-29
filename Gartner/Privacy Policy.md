@@ -78,7 +78,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 307 2990 1 855 307 2990
+    1 855 403 7018 1 855 403 7018
     
 
 *   Solutions By Function
@@ -143,7 +143,7 @@ Search
 
 *   Become a Client
     
-    1 855 307 2990 1 855 307 2990
+    1 855 403 7018 1 855 403 7018
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
