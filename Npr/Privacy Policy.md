@@ -86,7 +86,7 @@ Close Navigation Menu
 
 May 7, 20139:51 AM ET NPR Online Privacy Policy Highlights
 
-**Note:** The NPR Online Privacy Policy ("Privacy Policy") has been updated with an effective date of January 1, 2020. Please review the updated Privacy Policy carefully before using the NPR Services. By using any of the NPR Services, you consent to the terms of the updated Privacy Policy. This section highlights important features of the Privacy Policy. Please scroll down to see the full Privacy Policy or click on "Read more" to learn more about a specific area.
+**Note:** The NPR Online Privacy Policy ("Privacy Policy") has been updated with an effective date of February 28, 2020. Please review the updated Privacy Policy carefully before using the NPR Services. By using any of the NPR Services, you consent to the terms of the updated Privacy Policy. This section highlights important features of the Privacy Policy. Please scroll down to see the full Privacy Policy or click on "Read more" to learn more about a specific area.
 
 **Scope of Privacy Policy**
 
@@ -112,7 +112,7 @@ We and our service providers collect a variety of contact and other information 
 
 *   Register for an NPR account, application programming interface (API) content access, or any NPR email newsletter.
 *   Email, text or otherwise share a story from any of the NPR Services.
-*   Contact us for information or to ask a question.
+*   Contact us with a message.
 *   Make a purchase from the NPR Shop.
 *   Post, upload, or otherwise submit a comment, story idea, essay, photo, or other content to NPR.
 *   Register for an NPR tour or event or any contest we sponsor.
@@ -185,7 +185,7 @@ Read More in the Full Privacy Policy ↓
 *   If you provide registration information to us, you can sign in to your NPR account or contact us to update or correct that information at any time.
 *   If you do not want us to share your name, contact or other information with Member stations, you can contact us.
 *   You can stop the delivery of marketing emails or email newsletters from NPR by following the unsubscribe instructions in any such email you receive. You also can sign in to your NPR account to manage your NPR email newsletter subscriptions or contact us.
-*   You have choices about the collection and use of your information by third parties for the display of certain personalized or "interest-based" online sponsorship credits, as described in our section on interest-based messages in the "Your Choices" section of the Privacy Policy.
+*   You have choices about the collection and use of your information by third parties for the display of certain personalized or "interest-based" online sponsorship credits, as described in our section on "interest-based" messages in the "Your Choices" section of the Privacy Policy.
 *   If you grant your consent to our collection of your precise mobile device location information, you can revoke your consent at any time by using the privacy settings of your device and/or the settings of the applicable NPR mobile application.
 *   You have choices to prevent or limit the collection of information through cookies, pixel tags and other technology as further described in our section on cookies in the "Your Choices" section of the Privacy Policy. Further information about our use of cookies, pixel tags and other tracking technologies can be found here.
 
@@ -207,7 +207,7 @@ Read More in the Full Privacy Policy ↓
 
 Full Version of NPR Online Privacy Policy
 
-**Effective Date January 1, 2020**
+**Effective Date February 28, 2020**
 
 Welcome to the NPR Online Privacy Policy ("Privacy Policy"). This Privacy Policy describes the information National Public Radio, Inc. and its affiliated organizations (owned or controlled by, or under common ownership or control with, National Public Radio, Inc.) (collectively, "NPR," "we" or "us") collect or allow others to collect from you and your computer or device when you use NPR.org or other sites, NPR One or other applications, email newsletters, digital platforms or other interactive services provided by NPR that link to or refer to this Privacy Policy (collectively, the "NPR Services" or "our Services"). This Privacy Policy also explains how that information may be used and shared and the choices you have to limit or prevent certain uses or sharing of that information. Please note that this Privacy Policy does not govern the websites and services of NPR's Member stations, or the websites and services of third parties that may link to or be linked to from the NPR Services.
 
@@ -231,7 +231,7 @@ We and service providers working on our behalf will collect any information that
 
 *   Register for an NPR account, application programming interface (API) content access, or any NPR email newsletter.
 *   Email, text or otherwise share a story from any of the NPR Services.
-*   Contact us for information or to ask a question.
+*   Contact us with a message.
 *   Make a purchase from the NPR Shop.
 *   Post, upload, or otherwise submit to NPR a comment, story idea, essay, photo, or other content or user-generated material ("User Materials").
 *   Register for an NPR tour or event or any contest we sponsor.
@@ -332,13 +332,17 @@ You have the following choices to update, correct and limit the collection and u
 
 **_Google Analytics._** To prevent data from being collected by Google Universal Analytics, use the opt-out browser add-on developed by Google for this purpose available here.
 
-**_Interest-based sponsorship credits._** To opt out of receiving personalized or "interest-based" online sponsorship credits from our service providers, our vendors and other participating companies, visit https://optout.aboutads.info. For information about controlling the collection of cross-app data from your mobile device for personalized or "interest-based" advertising or sponsorship credit purposes, visit http://youradchoices.com/appchoices. UK users, other European Economic Area (EEA) users and Swiss users can learn more and access opt-out tools from http://www.youronlinechoices.eu/. Google also offers opt-out features to limit the use of your information for interest-based sponsorship credits at https://adssettings.google.com/.
+" **_Interest-based" sponsorship credits._** To opt out of receiving personalized or "interest-based" online sponsorship credits from our service providers, our vendors and other participating companies, visit https://optout.aboutads.info. For information about controlling the collection of cross-app data from your mobile device for personalized or "interest-based" advertising or sponsorship credit purposes, visit http://youradchoices.com/appchoices. UK users, European Economic Area (EEA) users and Swiss users can learn more and access opt-out tools from http://www.youronlinechoices.eu/. You also may press the button below (at the bottom of this section) to opt out of the sharing of your information with our sponsorship vendor Google for delivery of "interest-based" sponsorship credits on NPR.org. If you opt out, Google may continue to serve you non-personalized, non-"interest-based" sponsorship credits on NPR.org. Google also offers opt-out features to limit the use of your information for "interest-based" sponsorship credits at https://adssettings.google.com/.
 
 You also may adjust the settings on your device. For iOS mobile devices, go to "Settings" from your device's home screen, scroll down to "Privacy", select "Advertising", and turn on "Limit Ad Tracking." For Android mobile devices, go to "Google Settings" on your device, select "Ads". and check the box labeled "Opt Out of Interest-Based Ads" or "Opt Out of Ads Personalization." (These device settings options may change in the future or otherwise may differ for certain devices. consult your device manufacturer's support literature for the most current information).
 
-You can block NPR.org and our other sites from setting cookies used for interest-based sponsorship credits by using browsers or browser plugins with privacy features.
+You can block NPR.org and our other sites from setting cookies used for "interest-based" sponsorship credits by using browsers or browser plugins with privacy features.
 
-Note that if you opt out, you may still receive the same number of sponsorship credits as before but they may not be as relevant to your interests. Opting out of third-party interest-based sponsorship credits is a cookie-based process and will only affect the specific computer, device, and browser on which your opt-out choice is applied. If you subsequently delete your browser cookies, you will need to opt out again. For more information about opting out of interest-based messages, visit https://youradchoices.com/control .
+Note that if you opt out, you may still receive the same number of sponsorship credits as before but they may not be as relevant to your interests. Opting out of third-party "interest-based" sponsorship credits, and opting out of sharing of your information with our sponsorship vendor Google for delivery of "interest-based" sponsorship credits on NPR.org by pressing the opt-out button below, is a cookie-based process and will only affect the specific computer, device, and browser on which your opt-out choice is applied. If you subsequently delete your browser cookies or if your browser cookies expire, you will need to opt out again. For more information about opting out of "interest-based" messages, visit https://youradchoices.com/control.
+
+To opt out of the sharing of your information with our sponsorship vendor Google for delivery of "interest-based" sponsorship credits on NPR.org (as described above), press this button:
+
+Opt Out
 
 **_Precise location information_** **.** If you consent to our collection of your precise device location through an NPR mobile application, you can withdraw your consent at any time and prevent the further collection of your precise location by accessing the privacy settings of your mobile device and/or the settings of the NPR mobile application.
 
@@ -423,13 +427,13 @@ disclose the personal information (in addition to our service providers)\*\* •
   
 \*\* Service providers which only use data on our behalf are not third parties under the CCPA.  
   
-We work with authorized vendors like Google to deliver interest-based sponsorship credits as described above. For information on how you can limit sharing and use of your information for interest-based messages, including how to opt out of sharing of your information with our sponsorship vendor Google for delivery of “interest-based” sponsorship credits, please see Your Choices.  
+We work with authorized vendors like Google to deliver "interest-based" sponsorship credits as described above. For information on how you can limit sharing and use of your information for "interest-based" messages, including how to opt out of sharing of your information with our sponsorship vendor Google for delivery of “interest-based” sponsorship credits, please see Your Choices.  
   
 Please note that we may also disclose your personal information to service providers, for legal requirements, to protect our Services and users, or in connection with business transfers.
 
 **Your California Privacy Choices**
 
-We offer California residents the ability to make the requests listed below. However, in certain circumstances we may decline your request, including, but not limited to, circumstances where fulfilling a request may interfere with the exercise of freedom of speech or freedom of the press, journalistic activities, or other rights provided under other applicable laws. If we deny your request, we will communicate our decision to you. We will not penalize you for making a request.
+We offer California residents the ability to make the requests listed below. However, in certain circumstances we may decline your request, including, but not limited to, circumstances where fulfilling a request may interfere with the exercise of freedom of speech or freedom of the press, journalistic activities, or other rights provided under other applicable laws. If we deny your request, we will communicate our decision to you. You will not be penalized for making a request.
 
 *   **Information**. You can request information about how we have collected, used and shared your personal information during the past 12 months. We have also made this information available to California residents without having to request it by including it in this notice, in the above chart.
 *   **Access**. You can request a copy of the personal information that we maintain about you.
