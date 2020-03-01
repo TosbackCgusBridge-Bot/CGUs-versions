@@ -9,6 +9,10 @@ Enable Location
 
 **Location services must be enabled to choose your car. Please check your browser's setting.**
 
+Maintenance updates are in progress. Reservations are not affected, however, some functionality may not be available during this time.
+
+Maintenance updates are in progress. Reservations are not affected, however, some functionality may not be available during this time.
+
 Toggle navigation Menu
 
 *   Avis Preferred
@@ -267,7 +271,7 @@ Security &. Privacy
 *   California – Do Not Sell My Personal Information
 *   Copyright Notices
 
-United StatesCanadaAustraliaNew Zealand------------------------ArgentinaArmeniaAustriaBahamasBelgiumBosniaBrazilChinaBulgariaChileColombiaCroatiaDenmarkDominican RepublicEcuadorEl SalvadorFaroe IslandsFijiFinlandFranceGermanyGuadeloupeGuatemalaGuamHondurasHongkongHungaryIndiaIndonesiaIrelandIsraelItalyJamaicaJapanKoreaKuwaitLebanonMacedoniaMalaysiaMartiniqueMexicoMongoliaMoroccoNetherlandNicaraguaNorwayPakistanPanamaPeruPhilippinesPolandPortugalPuerto RicoRomaniaRussiaSaudi ArabiaSingaporeSouth AfricaSpainSt Maarten/St MartinSurinameSwedenSwitzerlandTahitiTaiwanThailandTurkeyTurks and CaicosUkraineUnited Arab EmiratesUnited KingdomVanuatuVirgin IslandsYugoslavia English Français Español Português Get the #1 Ranked Rental Car Travel App in Customer Satisfaction >.
+United StatesCanadaAustraliaNew Zealand------------------------ArgentinaArmeniaAustriaBahamasBelgiumBosniaBrazilChinaBulgariaChileColombiaCroatiaDenmarkDominican RepublicEcuadorEl SalvadorFaroe IslandsFijiFinlandFranceGermanyGuadeloupeGuatemalaGuamHondurasHongkongHungaryIndiaIndonesiaIrelandIsraelItalyJamaicaJapanKoreaKuwaitLebanonMacedoniaMalaysiaMartiniqueMexicoMoroccoNetherlandNicaraguaNorwayPakistanPanamaPeruPhilippinesPolandPortugalPuerto RicoRomaniaRussiaSaudi ArabiaSingaporeSouth AfricaSpainSt Maarten/St MartinSurinameSwedenSwitzerlandTahitiTaiwanThailandTurkeyTurks and CaicosUkraineUnited Arab EmiratesUnited KingdomVanuatuVirgin IslandsYugoslavia English Français Español Português Get the #1 Ranked Rental Car Travel App in Customer Satisfaction >.
 
 GET THE AVIS APP
 
