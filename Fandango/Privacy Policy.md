@@ -496,9 +496,9 @@ We have separate policies for workforce data, which is governed by the policies 
 
 Offers
 
-*   Get a $5 Fandango Reward
+*   Use Code LEAP29 For 29% Off
     
-    When you spend $15 on participating snack brands. SEE DETAILS
+    Rent or buy the newest releases for 29% off. TODAY only. Extra Day. Extra Savings. No subscription needed. START SAVING
     
 *   Get A $10 Movie Ticket
     
