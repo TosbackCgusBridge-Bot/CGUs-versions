@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Fox Kitten APT campaign exploits VPN flaws hours after public disclosure
     *   The winners of the 2020 SC Awards Honored in the U.S.
-    *   Venables, Gerstell and Geer to headline CSA Summit
-    *   Dell sells RSA to Symphony Technology Group in $2B deal
-    *   DISA breach likely exposed personal data on at least 200K
+    *   Justice Dept. expands Huawei indictment, charging 5G espionage
+    *   Trump offered Assange pardon to deny Russia behind DNC hack, lawyer tells court
+    *   Trump names Grenell as acting DNI
+    *   Ring mandating 2FA logins, ceases some third-party activity
     
-    *   CISA warns critical infrastructure sectors after successful ransomware attack on pipeline operator
-    *   Iran maintaining on-going cyber efforts, no response yet to Soleimani killing
-    *   Security perimeters in the cloud aren’t dead—They’re ephemeral
-    *   Dell sells RSA to Symphony Technology Group in $2B deal
-    *   The winners of the 2020 SC Awards Honored in the U.S.
-    
-    *   SC Podcast: Investigating the human side of cybersecurity
-    *   SC Podcast: On the web, who's a bot and who's a person
+    *   Cyberinsurance: The value from an incident response lens
+    *   Google issues Chrome update patching possible zero day
     *   RSA 2020: Equifax CISO touts company's transparency it as seeks breach redemption
-    *   The winners of the 2020 SC Awards Honored in the U.S.
-    *   Machine learning log analysis platforms - the new wing man to SIEM?
+    *   Email scam swindles $2.6M from Puerto Rican government corporation
+    *   Ring mandating 2FA logins, ceases some third-party activity
+    
+    *   Trump again nominates Ratcliffe for DNI post
+    *   Cisco issues 17 security updates
+    *   USA Freedom Act reauthorizations in doubt after Paul says Trump supports FISA reform
+    *   SC Media RSA 2020 Video roundup
+    *   Is the CISO a second-class executive?
 
 Back to Top
 
