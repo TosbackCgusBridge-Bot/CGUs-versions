@@ -30,8 +30,8 @@ View more results
     *   Pool Clash: 8 Ball Billiards Snooker
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Slither.io
-    *   Master Chess Multiplayer
     *   Crowd City
+    *   Master Chess Multiplayer
     *   Bad Ice Cream 2
     *   Hole.io
     *   Madalin Cars Multiplayer
@@ -57,13 +57,13 @@ View more results
     *   Slither.io
     *   Winter Clash 3D
     *   Short Life
-    *   Zombies Paradiso
     *   Bad Ice Cream 2
-    *   Deer Hunter
+    *   Zombies Paradiso
     *   Sniper Code
     *   Miami Crime Simulator 3D
+    *   Deer Hunter
     *   Gun Blood
-    *   Sniper Reloaded
+    *   Stickman Warriors
 *   Adventure
     
     Top Categories
@@ -82,17 +82,17 @@ View more results
     *   Fireboy and Watergirl 5: Elements
     *   World Craft 2
     *   Red Bounce Ball 5
-    *   Adam and Eve 2
     *   Chrome Dino
+    *   Adam and Eve 2
     *   World Crafts
-    *   Adam and Eve 3
     *   Dumb Ways to Die: Original
     *   Subway Surf
     *   Adam and Eve 4
-    *   Fireboy &. Watergirl 4: Crystal Temple
+    *   Adam and Eve 3
     *   Fox Simulator
-    *   Troll Face Quest: Horror 2
+    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Monkey Go Happy: Witchcraft
+    *   Troll Face Quest: Horror 2
 *   Puzzle
     
     Top Categories
@@ -117,11 +117,11 @@ View more results
     *   Bubble Shooter
     *   TenTrix
     *   Gold Train FRVR
-    *   Mahjong Link
     *   Mahjong Connect Classic
+    *   Mahjong Link
     *   Dream Pet Link
     *   Road Trip FRVR
-    *   Word Wipe
+    *   Line Puzzle
 *   Girls
     
     Top Categories
@@ -179,7 +179,7 @@ View more results
     *   Formula Racer
     *   Off-Roader V6
     *   Hill Racing Challenge
-    *   Madalin Cars Multiplayer
+    *   Moto X3M: Motorcycle Racing Game
 *   Sports
     
     Top Categories
@@ -201,9 +201,9 @@ View more results
     *   Stunt Skateboard 3D
     *   Xcross Madness
     *   Pool Clash: 8 Ball Billiards Snooker
-    *   Subway Surf
     *   Archery World Tour
     *   Ultimate Boxing
+    *   Subway Surf
     *   Football Legends 2016
     *   Horse Racing: Betting Game
     *   Moto X3m 3
