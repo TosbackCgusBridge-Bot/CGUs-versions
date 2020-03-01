@@ -81,7 +81,7 @@ Skip to main content
     *   Healthy Sleep
     *   Healthy Teens
     
-    Featured Topics*   Slideshow Which Food Has More Saturated Fat?
+    Featured Topics*   Article Smart Grocery Shopping When You Have Diabetes
     *   Quiz Do You Know the Benefits of Walking?
 *   Family &  
     Pregnancy Family &. Pregnancy Family &. Pregnancy All About Pregnancy
