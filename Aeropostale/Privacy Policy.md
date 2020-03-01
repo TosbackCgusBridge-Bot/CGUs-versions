@@ -567,7 +567,7 @@ Introducing our
 limited-edition global "Oneness" collection  
 inspired by the vibrant streets of Mexico City.
 
-Shop the Collection
+Shop the Girls Collection Shop the Guys Collection
 
 Where we come together as one.  
 Tag **@aeropostale** and **#AeroWorld** for a chance to be  
