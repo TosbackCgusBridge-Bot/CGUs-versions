@@ -1,176 +1,45 @@
-Skip to main content
-
-*   Who We Are
-*   Our History
-*   Newsroom
-*   Values
-*   Careers
-*   Businesses
-    *   X
-    *   1.  International
-            1.  CNBC InternationalCNBC InternationalThe leading global broadcaster of live business and financial news and information, reporting directly from the major financial markets around the globe.CNBC International
-            2.  hayuhayuhayu is the first all-reality subscription video-on-demand service of its kind – curated and fully integrated with social media – and available in the UK, Ireland &. Australiahayu
-            3.  Global Distribution and InternationalGlobal Distribution and InternationalBrings together NBCUniversal International’s channels, distribution and production businesses people across the globe. The division includes Universal Networks International, International Television Distribution and International Television Production.Global Distribution and International
-        2.  Broadcast
-            
-            1.  NBC EntertainmentNBC EntertainmentDevelops and schedules programming for the network’s primetime, late-night, and daytime schedules.NBC Entertainment
-            2.  NBC NewsNBC NewsGlobal leader in news across all broadcast and digital platforms including NBC Nightly News with Lester Holt, TODAY and Meet the Press.NBC News
-            3.  NBC OlympicsNBC OlympicsProduces, programs and promotes NBCUniversal's multiplatform Olympics coverage, delivering the largest audiences in U.S. television history.NBC Olympics
-            4.  NBC SportsNBC SportsServes today's passionate sports fans with coverage of the Summer and Winter Olympics, NHL, Premier League, Formula One, MLS, Tour de France and more.NBC Sports
-            5.  TelemundoTelemundoAn industry leader in the production and distribution of high-quality Spanish-language content across its multiplatform portfolio.Telemundo
-            
-            Local Media
-            1.  Cozi TVCozi TVNational multicast network that delivers an easy-to-watch, comfortable and familiar viewing experience to family audiences.Cozi TV
-            2.  NBC Sports Regional NetworksNBC Sports Regional NetworksNBC Sports Regional Networks is NBC Sports Group’s portfolio of nine regional networks that delivers more than 2,200 live sporting events and original content to more than 35 million homes.NBC Sports Regional Networks
-            3.  NBCUniversal Owned Television StationsNBCUniversal Owned Television StationsIncludes 42 NBC and Telemundo local television stations that produce the best regional news, information and entertainment content.NBCUniversal Owned Television Stations
-            4.  TeleXitosTeleXitosTeleXitos is the Telemundo Station Group’s national multicast network that serves as a destination for viewers who want to watch their favorite action and adventure television series and movies from the 1970s to 2000s in Spanish and without subtitles. TeleXitos
-        3.  Cable
-            1.  Bravo MediaBravo MediaOriginal pop culture programming including the best in food, fashion, beauty and reality.Bravo Media
-            2.  CNBCCNBCThe world leader in business news featuring real-time financial market and business coverage to approximately 371 million homes worldwide.CNBC
-            3.  E! EntertainmentE! EntertainmentThe only global, multiplatform brand for all things pop culture. News, reality and original scripted content.E! Entertainment
-            4.  Golf ChannelGolf ChannelA multimedia golf entertainment &. service company featuring exclusive partnerships with the world’s top tours and more live golf coverage than all other networks combined.Golf Channel
-            5.  MSNBCMSNBC The premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives.MSNBC
-            6.  NBC Sports Network (NBCSN)NBC Sports Network (NBCSN)Serves today's passionate sports fans with coverage of the Summer and Winter Olympics, NHL, Premier League, Formula One, MLS, Tour de France and more.NBC Sports Network (NBCSN)
-            7.  Oxygen MediaOxygen MediaOxygen Media is a multiplatform crime destination brand for women.Oxygen Media
-            8.  SYFYSYFYA leader in imagination-based entertainment, including year round original series, events, blockbuster movies, classic science fiction &. fantasy.SYFY
-            9.  The Olympic Channel: Home of Team USAThe Olympic Channel: Home of Team USAOlympic Channel: Home of Team USA is a partnership between the International Olympic Committee, the United States Olympic Committee, and NBCUniversal. The TV network offers fans year-round programming of Olympic Sports from around the world, highlighting their favorite American athletes and teams.The Olympic Channel: Home of Team USA
-            10.  Universal KidsUniversal KidsAs a kid-focused ecosystem with great TV content at the center, Universal Kids is programmed for the 2-12 year old audience, with a fresh mix of animated content, unscripted entertainment, and proven international hits. Universal Kids
-            11.  UNIVERSOUNIVERSOModern general entertainment for Latinos, bringing the world's top sports franchises and edgy, emotional programming to more than 40 million households.UNIVERSO
-            12.  USA NetworkUSA NetworkA powerful portfolio of scripted and unscripted drama and comedy originals seen in more than 102 million U.S. homes. USA Network
-        4.  Digital Businesses
-            1.  BluprintBluprintBluprint
-            2.  FandangoFandangoThe nation's leading moviegoer destination. Sells tickets to more than 24,000 screens nationwide.Fandango
-            3.  GolfNowGolfNowUses leading-edge technology to offers nearly 2 million registered golfers more ways to stay connected to their favorite courses and tee times.GolfNow
-            4.  HuluHuluA premium streaming TV destination that seeks to captivate and connect viewers with the stories they love.Hulu
-            5.  PeacockPeacockPeacock is NBCUniversal’s upcoming streaming service, launching in 2020. Peacock will offer exclusive originals, hit shows, new and classic movies, and a broad range topical content across news, sports, late-night and reality.Peacock
-            6.  SportsEngineSportsEngineHelping the world play smarter and live more, SportsEngine, Inc., an NBC Sports Group company, is the leading provider of Sport Life Management web software and mobile applications for youth, amateur, and professional sports.SportsEngine
-        5.  Film
-            
-            1.  DreamWorks AnimationDreamWorks AnimationDreamWorks Animation
-            2.  Focus FeaturesFocus FeaturesProduces, acquires, and releases movies from rising and established talent and filmmakers. Offers a diverse slate for a wide range of moviegoers.Focus Features
-            3.  Universal Brand DevelopmentUniversal Brand DevelopmentUniversal Brand Development globally drives expansion of the company’s intellectual properties, franchises, characters and stories through innovative physical and digital products, content, and consumer experiences.Universal Brand Development
-            4.  Universal PicturesUniversal PicturesCreates and distributes theatrical and non-theatrical filmed entertainment for a growing global marketplace.Universal Pictures
-            5.  Universal Pictures Home EntertainmentUniversal Pictures Home EntertainmentUniversal Pictures Home Entertainment (UPHE) is a unit of Universal PicturesUniversal Pictures Home Entertainment
-            6.  Universal Pictures InternationalUniversal Pictures InternationalThe international marketing and distribution division for Universal Pictures.Universal Pictures International
-            
-            Parks
-            1.  Universal Orlando ResortUniversal Orlando ResortOffers guests unique and popular entertainment experiences. Its renowned theme parks feature some of the world’s most thrilling film and TV based attractions.Universal Orlando Resort
-            2.  Universal Studios HollywoodUniversal Studios HollywoodGet ready for the ultimate Hollywood movie experience!Universal Studios Hollywood
-            3.  Universal Studios JapanUniversal Studios JapanOffers guests unique and popular entertainment experiences. Its renowned theme park features some of the world’s most thrilling film and TV based attractions.Universal Studios Japan
-            4.  Universal Studios SingaporeUniversal Studios SingaporeOffers guests unique and popular entertainment experiences. Its renowned theme park features some of the world’s most thrilling film and TV based attractions.Universal Studios Singapore
-            5.  Universal Beijing ResortUniversal Beijing ResortUniversal Beijing Resort is a widely anticipated theme park destination that will feature the Universal Studios Beijing theme park, the Universal CityWalk Beijing retail, dining and entertainment complex and two hotels.Universal Beijing Resort
-        6.  TV Studios Production
-            1.  Telemundo StudiosTelemundo StudiosTelemundo Studios is a full service facilities company owned and operated by Telemundo / NBCUniversal.Telemundo Studios
-            2.  Universal Content ProductionsUniversal Content ProductionsCreates innovative and critically acclaimed original scripted content for all media platforms.Universal Content Productions
-            3.  Universal TelevisionUniversal TelevisionOne of the largest and most successful television production companies in the U.S. Produces primetime series, late night and reality programs for a variety of platforms.Universal Television
-*   Search
-*   Twitter
-*   Facebook
-*   Instagram
-
-*   Menu
-    *   Menu
-    *   Who We Are
-    *   Our History
-    *   Newsroom
-    *   Values
-    *   Careers
-    *   Businesses
-        *   Back To Menu
-        *   *   BROADCAST
-                *   NBC Entertainment
-                *   NBC News
-                *   NBC Olympics
-                *   NBC Sports
-                *   Telemundo
-            *   LOCAL MEDIA
-                *   Cozi TV
-                *   NBC Sports Regional Networks
-                *   NBCUniversal Owned Television Stations
-                *   TeleXitos
-            *   CABLE
-                *   Bravo Media
-                *   CNBC
-                *   E! Entertainment
-                *   Golf Channel
-                *   MSNBC
-                *   NBC Sports Network (NBCSN)
-                *   Oxygen Media
-                *   SYFY
-                *   The Olympic Channel: Home of Team USA
-                *   Universal Kids
-                *   UNIVERSO
-                *   USA Network
-        *   *   DIGITAL BUSINESSES
-                *   Bluprint
-                *   Fandango
-                *   GolfNow
-                *   Hulu
-                *   Peacock
-                *   SportsEngine
-            *   FILM
-                *   DreamWorks Animation
-                *   Focus Features
-                *   Universal Brand Development
-                *   Universal Pictures
-                *   Universal Pictures Home Entertainment
-                *   Universal Pictures International
-            *   PARKS
-                *   Universal Orlando Resort
-                *   Universal Studios Hollywood
-                *   Universal Studios Japan
-                *   Universal Studios Singapore
-                *   Universal Beijing Resort
-        *   *   TV STUDIOS PRODUCTION
-                *   Telemundo Studios
-                *   Universal Content Productions
-                *   Universal Television
-            
-            *   INTERNATIONAL
-                *   CNBC International
-                *   hayu
-                *   Global Distribution and International
-    *   Stay Up-To-Date
-        *   Twitter
-        *   Facebook
-        *   Instagram
-*   NBCUniversal
-*   Search
-
-NBCUniversal Search form Search
-
-X
-
-Privacy
+Please Rotate Your Device 90 For the best experience, turn your mobile device portrait mode. Main navigation Home ABOUT HISTORY Values BRANDS NEWSROOM CAREERS Follow us on Twitter Like us on Facebook instagram Search Skip to main content NBCU Privacy Center
 
 *   Privacy Policy
 *   Cookie Notice
 
-Privacy PolicyKoreanChineseslovenskýEspañol (Americas)ItalianoPortuguês (Portugal)Português(Brasil)NederlandsEnglishPolskiSwedishJapaneseHrvatskiMagyarDanishCрпскиEspañol (Spain)RomânDeutschPусскийSlovenščinaFrançaisCeštinaEnglish
+Last Updated: December 16, 2019
 
-Last Updated: 16 December 2019
+*   English
+*   Ceština
+*   Chinese
+*   Cрпски
+*   Danish
+*   Deutsch
+*   Español (Americas)
+*   Español (Spain)
+*   Français
+*   Hrvatski
+*   Italiano
+*   Japanese
+*   Korean
+*   Magyar
+*   Nederlands
+*   Polski
+*   Português (Portugal)
+*   Português(Brasil)
+*   Pусский
+*   Român
+*   Slovenský
+*   Slovenščina
+*   Swedish
 
-This Privacy Policy explains how NBCUniversal and its affiliates (“ **NBCUniversal Affiliates**”) (collectively “ **we**” or “ **us**”) collect, use, and share information from or about you when you use our websites, downloadable applications, interactive TV applications, voice-activated skills, other digital services, connected devices such as theme-park devices, and off-line services that link to this policy,  or if you engage in business with us (“ **NBCUniversal Services** or **Services**”).  
+English DOWNLOAD PDF download Privacy Policy
+
+This Privacy Policy explains how NBCUniversal and its affiliates (“ **NBCUniversal Affiliates**”) (collectively “ **we**” or “ **us**”) collect, use, and share information from or about you when you use our websites, downloadable applications, interactive TV applications, voice-activated skills, other digital services, connected devices such as theme-park devices, and off-line services that link to this policy,  or if you engage in business with us (“ **NBCUniversal Services** or **Services**”).  
 
 This Privacy Policy applies to the NBCUniversal Services throughout the world. Any additional privacy terms that relate to specific NBCUniversal products or services should be read in conjunction with this Policy.
 
-As one of the world’s leading media and entertainment companies, we offer NBCUniversal Services through a wide range of businesses and under many different brands. The data controller of your personal information will be the NBCUniversal company which provides services to you or does business with you. You can find out more information about NBCUniversal, including a list of our NBCUniversal Affiliates, here .
+As one of the world’s leading media and entertainment companies, we offer NBCUniversal Services through a wide range of businesses and under many different brands. The data controller of your personal information will be the NBCUniversal company which provides services to you or does business with you. You can find out more information about NBCUniversal, including a list of our NBCUniversal Affiliates, here .
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY TO UNDERSTAND HOW WE HANDLE YOUR INFORMATION. BY USING THE SERVICES, YOU ACKNOWLEDGE YOU HAVE READ AND UNDERSTAND THE PRIVACY POLICY AND THAT WE WILL COLLECT, USE AND SHARE YOUR INFORMATION AS SET FORTH BELOW.
 
-1.  **Personal Information We Collect and Purposes**
-2.  **When We Share Your Information**
-3.  **Legal Bases For Use of Your Information**
-4.  **Children**
-5.  **Your Rights**
-6.  **Your Choices**
-7.  **How We Protect Your Information**
-8.  **How Long We Keep Your Information**
-9.  **International Transfers**
-10.  **Updates to our Privacy Policy**
-11.  **Contact Us**
-
-**1\. PERSONAL INFORMATION WE COLLECT AND PURPOSES**
+Expand All PERSONAL INFORMATION WE COLLECT AND PURPOSES
 
 The tables below explain the categories of information we collect and the purposes for which we use them.  Each NBCUniversal Service’s collection and use may vary. Please note that we may use any or all of this information to comply with the law, detect or prevent fraud, and to defend our legal rights. Further detail about each of the purposes is set out in the “Additional Information on Purposes” table below.
 
@@ -353,7 +222,7 @@ For example: contact information, nationality, job title, age, date of birth, ge
 *   Compliance and risk management activities for business relationships
 
 *   Your or your company’s responses to our due diligence questions
-*   Third party compliance screening tools and databases, such as those provided by LexisNexis Risk Solutions. Click here for more information.
+*   Third party compliance screening tools and databases, such as those provided by LexisNexis Risk Solutions. Click here for more information.
 
 **Additional information on purposes of use**
 
@@ -411,16 +280,16 @@ For example: contact information, nationality, job title, age, date of birth, ge
 
 We may combine all the information we collect from or receive about you for the outlined purposes. We may aggregate or deidentify your information and may use, share, rent or sell aggregated or deidentified information for any purpose, and such information is not subject to this Privacy Policy.
 
-**2\. WHEN WE SHARE YOUR INFORMATION**
+WHEN WE SHARE YOUR INFORMATION
 
 We may share your information with:
 
-*   **Related Companies:** NBCUniversal Affiliates, such as Sky, as well as our parent company Comcast Corporation and its affiliate, Comcast Cable, to help better tailor services, products, marketing, and advertising to you and to other existing and potential customers. We may share identification and demographics, device information and identifiers, and research and feedback for purposes such as improving and tailoring services.  In addition business information may be shared for business operational purposes.
-*   **Advertisers, Advertising Networks, and Other Third Parties:** We may share information about how you use the NBCUniversal Services and interact with content or ads to better tailor services, products, marketing and advertising on our Services and on third-party platforms. To enable these purposes, we may share certain demographics information, user-generated content, device information and identifiers, connection and usage data, geolocation data, public and commercial information, and social media information. These third parties may use their own tracking technologies to collect or request information about you, please see our Cookie Notice.
+*   **Related Companies:** NBCUniversal Affiliates, such as Sky, as well as our parent company Comcast Corporation and its affiliate, Comcast Cable, to help better tailor services, products, marketing, and advertising to you and to other existing and potential customers. We may share identification and demographics, device information and identifiers, and research and feedback for purposes such as improving and tailoring services.  In addition business information may be shared for business operational purposes.
+*   **Advertisers, Advertising Networks, and Other Third Parties:** We may share information about how you use the NBCUniversal Services and interact with content or ads to better tailor services, products, marketing and advertising on our Services and on third-party platforms. To enable these purposes, we may share certain demographics information, user-generated content, device information and identifiers, connection and usage data, geolocation data, public and commercial information, and social media information. These third parties may use their own tracking technologies to collect or request information about you, please see our Cookie Notice.
 *   **Partners**: We may share your information with third party partners. For instance, if you enter a contest or sweepstakes sponsored by a third party, we may share the information you provide for that entry with the sponsor. Depending on the partnership, we may share certain information including contact information (at your direction), identification and demographic information, transactional information, user-generated content that you provide, research and feedback, device information and identifiers, connection and usage information, public and commercial information, and social media information.
 *   **Social Networks:**We may share your information with social media platforms for example, if you click on a Facebook “like” button on an NBCUniversal Service, the “like” may appear on your Facebook account. To control this sharing of information, please review and adjust your privacy settings for the relevant social network.   Depending on your privacy settings and actions on such network, we may share contact information, identification and demographic information, user-generated content, device information and identifiers, connection and usage data, and social media information.
-*   **Service Providers:** We engage vendors to perform business purposes on our behalf and share information with them to enable them to provide us with such business purposes, including research and analytics, hosting, transaction and payment processing, promotion administration, fraud prevention, identity management, acquisition and other services. Service providers may use such information for their operational purposes in order to provide their services to us.
-    *   **Research and Measurement Companies:** We share information about content you view on the NBCUniversal Services with video measurement services such as Nielsen TV Ratings, as well as other analytics providers. See  Your Rights and Your Choices sections for more information.
+*   **Service Providers:** We engage vendors to perform business purposes on our behalf and share information with them to enable them to provide us with such business purposes, including research and analytics, hosting, transaction and payment processing, promotion administration, fraud prevention, identity management, acquisition and other services. Service providers may use such information for their operational purposes in order to provide their services to us.
+    *   **Research and Measurement Companies:** We share information about content you view on the NBCUniversal Services with video measurement services such as Nielsen TV Ratings, as well as other analytics providers. See  Your Rights and Your Choices sections for more information.
 *   **Search Engines**: Depending on the NBCUniversal Service, you may be able to engage with other members of the Service or the public. This may make the name and photo associated with your profile and any comments or user-generated content you provide visible to other members of that Service or the general public. If the information is available to the general public, it may also be searchable by search engines. 
 *   **Law Enforcement, Regulators, Anti-fraud Coalitions and other groups**: We share any of the categories of information we collect, as appropriate, with these third parties in order to: protect and enforce the legal rights, privacy, and safety of ourselves and our visitors. protect against possible fraud or other illegal activity. respond to requests from government and other authorities. and otherwise comply with legal process.
 
@@ -432,12 +301,12 @@ We may share information about you along with a hashed or masked identifier, wit
 
 In the event that NBCUniversal or any NBCUniversal Affiliate is involved in a merger, acquisition, transfer of control, bankruptcy, reorganization or sale of assets, or diligence associated with such matters, we may sell or transfer the information described in this Privacy Policy as part of that transaction.
 
-**3\. Legal Bases for Use of Your Information**
+Legal Bases for Use of Your Information
 
 The laws of some jurisdictions, such as the European Union, require companies to tell you about the legal basis for using, sharing, or disclosing your information. To the extent those laws apply, we may rely on the following legal bases:
 
-*   **Performance of a contract:** where use of your information is necessary to provide you with NBCUniversal Services under a contract, for example the relevant Terms of Service.
-*   **Legitimate interest:** where use of your information is necessary for our or others legitimate interests and where the use is not outweighed by your rights and interests. Below are some examples of such interests:
+*   **Performance of a contract:** where use of your information is necessary to provide you with NBCUniversal Services under a contract, for example the relevant Terms of Service.
+*   **Legitimate interest:** where use of your information is necessary for our or others legitimate interests and where the use is not outweighed by your rights and interests. Below are some examples of such interests:
     *   providing NBCUniversal Services
     *   improving our Services and developing new ones
     *   recognizing and better understanding our users, including across platforms
@@ -446,14 +315,14 @@ The laws of some jurisdictions, such as the European Union, require companies to
     *   building and managing business relationships
     *   conducting compliance and risk management activities
     *   providing and managing access to our systems
-*   **Legal obligation:** where use of your information is necessary to comply with laws and regulations such as those relating to anti-bribery and corruption and anti-money-laundering, complying with requests from government bodies or courts, or responding to litigation.
-*   **With consent:** we may ask for your consent to process your information in a certain way.  Where we rely on this basis, you have the right to withdraw your consent at any time – please see the Your Rights and Your Choices sections below to do this.
+*   **Legal obligation:** where use of your information is necessary to comply with laws and regulations such as those relating to anti-bribery and corruption and anti-money-laundering, complying with requests from government bodies or courts, or responding to litigation.
+*   **With consent:** we may ask for your consent to process your information in a certain way.  Where we rely on this basis, you have the right to withdraw your consent at any time – please see the Your Rights and Your Choices sections below to do this.
 
-**4\. CHILDREN**
+CHILDREN
 
-Most of the NBCUniversal Services are intended for users of all ages. Information about the practices of NBCUniversal Services directed to children under the age of 13 in the United States or 16 in the European Union or where we have actual knowledge a child is under such ages can be found in our Children's Privacy Policy. If you are a parent or guardian and believe your child under 13 in the United States or under 16 in the European Union has provided us with personal information without consent, please contact us at privacy@nbcuni.com.
+Most of the NBCUniversal Services are intended for users of all ages. Information about the practices of NBCUniversal Services directed to children under the age of 13 in the United States or 16 in the European Union or where we have actual knowledge a child is under such ages can be found in our Children's Privacy Policy. If you are a parent or guardian and believe your child under 13 in the United States or under 16 in the European Union has provided us with personal information without consent, please contact us at privacy@nbcuni.com.
 
-**5\. YOUR RIGHTS**
+YOUR RIGHTS
 
 Depending on where you live, you may have certain rights with respect to your information. For example, under local laws, including in the European Union, you may be able to ask us to:
 
@@ -468,11 +337,11 @@ Some NBCUniversal Services can only be provided if we have your information, the
 
 We will take reasonable steps to verify your identity, including authenticating you through the email address. We may require further documentation such as a password and user ID before granting access to your information.
 
-California residents with rights under the CCPA, or their authorized agents, may click here for access or deletion requests or may call 1-800-447-0663.  
+California residents with rights under the CCPA, or their authorized agents, may click here for access or deletion requests or may call 1-800-447-0663.  
 
-U.S. residents who wish to learn more about access or deletion requests may click here
+U.S. residents who wish to learn more about access or deletion requests may click here
 
-If you are based outside the U.S. and would like to exercise any individual right you may have please contact us at privacy@nbcuni.com.  Please include “My Rights” in the subject line and provide a clear explanation of which right you are exercising and your country of residence in the body of the email.
+If you are based outside the U.S. and would like to exercise any individual right you may have please contact us at privacy@nbcuni.com.  Please include “My Rights” in the subject line and provide a clear explanation of which right you are exercising and your country of residence in the body of the email.
 
 Your rights and our responses will vary based on your state or country of residency. Please note that you may be located in a jurisdiction where we are not obligated, or are unable, to fulfill a request.  In such a case, your request may not be fulfilled.
 
@@ -486,7 +355,7 @@ Depending on what Services you use, we may share the following categories of inf
 
 *   identification and demographics. device information and identifiers, such as IP address, and unique advertising identifiers and cookies. connection and usage information, such as browsing history or app usage. geolocation information, such as city. and inference data.
 
-If you would like to opt out of NBCUniversal’s use of your information for such purposes (to the extent this is considered a sale), you may do so as outlined on the following page: Do Not Sell My Personal Information.
+If you would like to opt out of NBCUniversal’s use of your information for such purposes (to the extent this is considered a sale), you may do so as outlined on the following page: Do Not Sell My Personal Information.
 
 **Third Parties’ List – Shine the Light (California Residents only)**
 
@@ -502,22 +371,22 @@ If you are a Nevada resident who has purchased goods or services from NBCUnivers
 
 For customers of Universal Studios Japan, NBCUniversal and Universal Studios Japan may use your personal information jointly as follows:
 
-*   The information set forth in Section 1 of this Privacy Policy, Personal Information We Collect and Purposes.
-*   The scope of entities who will use the personal information are set forth in Section 2 of this Privacy Policy, When We Share Your Information.
+*   The information set forth in Section 1 of this Privacy Policy, Personal Information We Collect and Purposes; 
+*   The scope of entities who will use the personal information are set forth in Section 2 of this Privacy Policy, When We Share Your Information; 
 
-For questions, requests, or complaints related to the jointly-used personal information, you may contact USJ, LLC, who is responsible for the management of the jointly used personal information, at privacy@usj.co.jp.
+For questions, requests, or complaints related to the jointly-used personal information, you may contact USJ, LLC, who is responsible for the management of the jointly used personal information, at privacy@usj.co.jp.
 
-For customers of Universal Studios Japan who have questions or complaints related to Universal Studios Japan’s privacy practices, you may contact Universal Studios Japan directly by emailing privacy@usj.co.jp,or calling 0570-20-0606, or writing to 2-1-33 Sakurajima, Konohana-ku, Osaka 554-0031 Japan, USJ LLC. For issues related to Club Universal please visit the Club Universal Inquiry page.
+For customers of Universal Studios Japan who have questions or complaints related to Universal Studios Japan’s privacy practices, you may contact Universal Studios Japan directly by emailing privacy@usj.co.jp,or calling 0570-20-0606, or writing to 2-1-33 Sakurajima, Konohana-ku, Osaka 554-0031 Japan, USJ LLC. For issues related to Club Universal please visit the Club Universal Inquiry page.
 
-**6\. YOUR CHOICES**
+YOUR CHOICES
 
 **Cookies and Similar Technologies**
 
-We and our service providers, advertisers, and other third parties use cookies and similar technologies (e.g., HTTP cookies, HTML 5, flash local storage cookies, web beacons, GIFs, embedded scripts, ETags/cache browsers, and software development kits) to recognize you on, off, and across NBCUniversal Services and your devices. For more information about the use of cookies and similar technologies on the NBCUniversal Services (including your opt-out choices) please see our Cookie Notice.  
+We and our service providers, advertisers, and other third parties use cookies and similar technologies (e.g., HTTP cookies, HTML 5, flash local storage cookies, web beacons, GIFs, embedded scripts, ETags/cache browsers, and software development kits) to recognize you on, off, and across NBCUniversal Services and your devices. For more information about the use of cookies and similar technologies on the NBCUniversal Services (including your opt-out choices) please see our Cookie Notice.  
 
 **Mobile App and Connected Devices**
 
-Depending on the device you use, you may be able to manage your advertising and location preferences through your device settings and as outlined in our Cookie Notice.  Many operating systems provide their own instructions on how to prevent the delivery of tailored in-application advertisements. We do not control how the applicable platform operator allows you to manage personalized in-application advertisements. You should review your device manufacturer’s support materials and/or the device settings for the respective operating systems for more detail on how to manage such preferences.
+Depending on the device you use, you may be able to manage your advertising and location preferences through your device settings and as outlined in our Cookie Notice.  Many operating systems provide their own instructions on how to prevent the delivery of tailored in-application advertisements. We do not control how the applicable platform operator allows you to manage personalized in-application advertisements. You should review your device manufacturer’s support materials and/or the device settings for the respective operating systems for more detail on how to manage such preferences.
 
 You can stop all collection of information by a mobile app by uninstalling the app.
 
@@ -525,49 +394,50 @@ You can stop all collection of information by a mobile app by uninstalling the a
 
 NBCUniversal video services may feature Nielsen proprietary measurement software that will allow you to contribute to market research, like Nielsen’s TV Ratings.
 
-To learn more about Nielsen digital measurement products and your choices in regard to them, including in mobile apps and connected devices, please visit http://www.nielsen.com/digitalprivacy for more information.
+To learn more about Nielsen digital measurement products and your choices in regard to them, including in mobile apps and connected devices, please visit http://www.nielsen.com/digitalprivacy for more information.
 
 **Third-Party Online Services**
 
 NBCUniversal Services may contain links to third party services. These other sites (even if co-branded as NBCUniversal) may collect information about you and use this information in accordance with their own privacy policies and terms of service. We do not control those third parties’ policies or practices. Where NBCUniversal collects personal information on a co-branded website or service, we will provide a link to our privacy policy as appropriate. In some circumstances, NBCUniversal may host some websites on behalf of others and those entities may place or permit the placement of cookies and other tracking technology. NBCUniversal is not responsible for these tracking practices.
 
-**7\. HOW WE PROTECT YOUR INFORMATION**
+HOW WE PROTECT YOUR INFORMATION
 
 We maintain organizational, technical, and physical safeguards to help protect the information we collect and use. These safeguards vary depending upon a variety of factors including the sensitivity of the information we collect and use. Despite all reasonable practices, no security method is infallible.
 
-**8\. HOW LONG WE KEEP YOUR INFORMATION**
+HOW LONG WE KEEP YOUR INFORMATION
 
 We will keep your information only for as long as it is necessary to fulfill the purposes described above, unless a longer retention is required or permitted by law. We may delete or de-identify your information sooner if we receive a verifiable deletion request, subject to exemptions under applicable law. The retention period that applies to your information may vary depending on the NBCUniversal Services you use and how you interact with them. Some NBCUniversal Services may provide additional details on their data retention practices, so we encourage you to consult their website and/or FAQs.
 
-**9\. INTERNATIONAL TRANSFERS**
+INTERNATIONAL TRANSFERS
 
 NBCUniversal is a global company and has its headquarters in the United States. We may transfer your information to Related Companies, service providers, and other third parties located outside of your country of residence, including in the United States. This is necessary to provide our Services and for the purposes outlined in this Privacy Policy.  Data privacy laws vary from country to country and may not be equivalent to, or as protective as, the laws in your home country.  We take steps to ensure that reasonable safeguards are in place with aim to ensure an appropriate level of protection for your information, in accordance with applicable law. These measures include data transfer agreements. By providing us with your information, you acknowledge any such transfer, storage or use.
 
-**10\. UPDATES TO OUR PRIVACY POLICY** 
+UPDATES TO OUR PRIVACY POLICY
 
 We reserve the right to amend this Privacy Policy at any time to reflect changes to our practices or the law. We will make the revised Privacy Policy accessible through the NBCUniversal Services.  Please check the NBCUniversal Services periodically for updates.
 
-The date at the top of the Privacy Policy tells you when it was last updated. If we make material changes to the way we collect or use your information, you will be provided with appropriate notice, including by, but not limited to, posting the updated Privacy Policy on this website, and providing notice in accordance with legal requirements. Any changes to this Privacy Policy will become effective when the revised Privacy Policy is posted.  By continuing to use the NBCUniversal Services following any changes to this Privacy Policy, you acknowledge you have read and understand the updated Privacy Policy, and you understand that we will collect, use, and share information as stated therein.   
+The date at the top of the Privacy Policy tells you when it was last updated. If we make material changes to the way we collect or use your information, you will be provided with appropriate notice, including by, but not limited to, posting the updated Privacy Policy on this website, and providing notice in accordance with legal requirements. Any changes to this Privacy Policy will become effective when the revised Privacy Policy is posted.  By continuing to use the NBCUniversal Services following any changes to this Privacy Policy, you acknowledge you have read and understand the updated Privacy Policy, and you understand that we will collect, use, and share information as stated therein.
 
-**11\. CONTACT US**
+CONTACT US
 
-For any questions or complaints about this Privacy Policy or our privacy practices, please **contact us** at  privacy@nbcuni.com or 30 Rockefeller Plaza, New York, NY 10112, USA, NBCUniversal Legal Department Attn: Chief Privacy Officer.
+For any questions or complaints about this Privacy Policy or our privacy practices, please **contact us** at  privacy@nbcuni.com or 30 Rockefeller Plaza, New York, NY 10112, USA, NBCUniversal Legal Department Attn: Chief Privacy Officer.
 
-The **UK Representative** of our US-based NBCUniversal Affiliates is NBCUniversal International Limited.  To contact the UK Representative, please email privacy@nbcuni.com and include the text “For the UK Representative” in the subject line.  Alternatively, you can write to: Privacy Legal Department, NBCUniversal International Limited, 1 Central St Giles, St Giles High Street, London WC2H 8NU, United Kingdom. 
+The **UK Representative** of our US-based NBCUniversal Affiliates is NBCUniversal International Limited.  To contact the UK Representative, please email privacy@nbcuni.com and include the text “For the UK Representative” in the subject line.  Alternatively, you can write to: Privacy Legal Department, NBCUniversal International Limited, 1 Central St Giles, St Giles High Street, London WC2H 8NU, United Kingdom. 
 
-The **EU Representative** of our US-based NBCUniversal Affiliates is Universal Studios International B.V.  To contact the EU Representative, please email privacy@nbcuni.com and include the text “For the EU Representative” in the subject line.  Alternatively, you can write to: Privacy Legal Department, Moermanskkade 421, 1013 BC Amsterdam, The Netherlands.
+The **EU Representative** of our US-based NBCUniversal Affiliates is Universal Studios International B.V.  To contact the EU Representative, please email privacy@nbcuni.com and include the text “For the EU Representative” in the subject line.  Alternatively, you can write to: Privacy Legal Department, Moermanskkade 421, 1013 BC Amsterdam, The Netherlands.
 
-**Germany:** If you are using NBCUniversal Services provided by **Universal Pictures Germany GmbH or Universal Pictures International Germany GmbH**, you can contact our German Data Protection Officer by emailing privacy@nbcuni.com and including the text “For the German DPO” in the subject line.
+**Germany:** If you are using NBCUniversal Services provided by **Universal Pictures Germany GmbH or Universal Pictures International Germany GmbH**, you can contact our German Data Protection Officer by emailing privacy@nbcuni.com and including the text “For the German DPO” in the subject line.
 
-You can contact the **Data Protection Officer for NBCUniversal Global Networks Deutschland GmbH** by emailing datenschutz@sky.de or by writing to Sky Deutschland Fernsehen GmbH &. Co.KG, Datenschutz, Medienallee 26, 85774 Unterföhring erreichen, Deutschland.
+You can contact the **Data Protection Officer for NBCUniversal Global Networks Deutschland GmbH** by emailing datenschutz@sky.de or by writing to Sky Deutschland Fernsehen GmbH &. Co.KG, Datenschutz, Medienallee 26, 85774 Unterföhring erreichen, Deutschland.
 
-We have separate policies for workforce data.  For example, please see our Candidate Privacy Statement to find out more about the information we collect during our recruitment process.
+We have separate policies for workforce data.  For example, please see our Candidate Privacy Statement to find out more about the information we collect during our recruitment process.
 
-*   NBCUniversal
-*   Contact Us
-*   PRIVACY POLICY
-*   DO NOT SELL MY PERSONAL INFORMATION
-*   Supply Chain Values
-*   Terms of Service
+Follow us on Twitter Like us on Facebook instagram
 
-© 2020 NBCUniversal Media, LLC. <div><a href="http://www.omniture.com" title="Web Analytics"><img src="/4635453" height="1" width="1" alt="" /></a></div>.
+Footer menu Privacy Policy Do Not Sell My Personal Information Supply Chain Values Terms Of Service
+
+© 2020 NBCUNIVERSAL MEDIA, LLC.
+
+We and our partners use cookies on this site to improve our service, perform analytics, personalize advertising, measure advertising performance, and remember website preferences.  By using the site, you consent to these cookies. For more information on cookies including how to manage your consent visit our Cookie Policy.
+
+Accept
