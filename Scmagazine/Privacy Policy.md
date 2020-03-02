@@ -215,17 +215,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   The winners of the 2020 SC Awards Honored in the U.S.
-    *   Justice Dept. expands Huawei indictment, charging 5G espionage
-    *   Trump offered Assange pardon to deny Russia behind DNC hack, lawyer tells court
+    *   Fox Kitten APT campaign exploits VPN flaws hours after public disclosure
     *   Trump names Grenell as acting DNI
-    *   Ring mandating 2FA logins, ceases some third-party activity
+    *   Stone gets 40 months and a rebuke from judge for lying to Congress
+    *   Machine learning log analysis platforms - the new wing man to SIEM?
+    *   Bug bounty hunter numbers rising dramatically: HackerOne
     
-    *   Cyberinsurance: The value from an incident response lens
-    *   Google issues Chrome update patching possible zero day
-    *   RSA 2020: Equifax CISO touts company's transparency it as seeks breach redemption
-    *   Email scam swindles $2.6M from Puerto Rican government corporation
-    *   Ring mandating 2FA logins, ceases some third-party activity
+    *   ZyXEL NAS devices receive critical firmware patch
+    *   Hidden Cobra adds to its malware arsenal: CISA
+    *   Machine learning log analysis platforms - the new wing man to SIEM?
+    *   Security perimeters in the cloud aren’t dead—They’re ephemeral
+    *   USA Freedom Act reauthorizations in doubt after Paul says Trump supports FISA reform
     
     *   Trump again nominates Ratcliffe for DNI post
     *   Cisco issues 17 security updates
