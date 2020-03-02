@@ -7,28 +7,51 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Spring Forward: Outerwear Up to 70% Off
+    *   Spring Dresses Up to 70% Off Incl. Plus &. Petites
+    *   Sandals &. More Up to 60% Off
+    *   Sterling Forever Jewelry Up to 60% Off
+    *   Goodbye Winter: Last-Chance Men's Style Blowout
+    *   Men's Shoe Steals Up to 75% Off
+    *   Luv Betsey by Betsey Johnson Bags Up to 65% Off
+    *   bObsweep Up to 75% Off
+    *   Dr. Martens
+    *   IPPOLITA Jewelry
+    *   Dr. Martens Men
+    *   Michael Stars Up to 60%
+    *   Betsey Johnson Swim Up to 60% Off
+    *   Short &. Sweet: Mini Dresses Under $30
+    *   New Spring Arrivals: Melloday Incl. Plus &. Petites
+    *   Skin Care We Love Starting at $10
+    *   Now Trending: Crops, Flares &. More
+    *   Jessica Simpson Lingerie &. Sleep
+    *   Free Shipping: 1000 Thread Count Sheet Sets
+    *   SUSINA Shoes &. More
+    *   Men's Casual Wear ft. Nudie, Rolla's &. Neuw
+    *   New Arrivals: Makeup Under $20
+    *   PYT Hot Tools &. More Up to 90% Off
+    *   Baby Gift Essentials: Blankets, Footies &. More
     *   Women's Running Shoes ft. Brooks
     *   Men's Running Shoes ft. Brooks
     *   Great Hues: Spring Styles ft. BCBGeneration
     *   Rebecca Minkoff
     *   Silver, Gemstones &. Diamonds Up to 80% Off
+    *   Teami Blends Detox Teas &. Supplements
     *   HIIT the Gym: Activewear for Him
     *   Men's Sport Sunglasses Starting at $30
+    
     *   Fresh Finds: Sandals &. More Up to 50% Off
-    *   Blanc Noir: Street-Chic Active Up to 70% Off
     *   Kenneth Cole Reaction Up to 70% Off
-    *   Dyson Airwrap Styler Complete at $449.97
-    *   Teami Blends Detox Teas &. Supplements
     *   Free Shipping: Hand-Painted Replicas
     *   Active Socks &. Sports Bras
     *   Spring Ready: Plus Dresses &. Jumpsuits Under $85
     *   Abound Starting at $10
-    *   Spring Ready: Petite Styles Up to 65% Off
     *   Enhance Your Routine: Facial Tools We Love
     *   Most Wanted USA Handbags
     *   Hawke &. Co. Footwear Up to 70% Off
     *   Aldo Men
     *   Be. Professional Hair Tools Up to 75% Off
+    *   Spring Ready: Petite Styles Up to 65% Off
     *   Easter Essentials: Girls' Styles Up to 60% Off
     *   Easter Essentials: Boys' Styles Up to 60% Off
     *   Easter Essentials: Basket Goodies Up to 60% Off
@@ -37,7 +60,6 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Designer Shoes Up to 60% Off ft. Dolce &. Gabbana
     *   Designer Styles Up to 70% Off
     *   Men's Designer Shoes Up to 60% Off ft. Dolce &. Gabbana
-    
     *   Designer Watches &. Accessories Up to 50% Off
     *   West Kei Incl. Plus &. Petites
     *   Work Styles ft. Calvin Klein Incl. Plus &. Petites
@@ -50,16 +72,12 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   Fashion Forward: Spring Tights
     *   Raymond Weil Luxury Swiss Watches
+    
     *   Demeter Fragrance Library Up to 55% Off
     *   Skin Care Essentials Under $20
     *   Best of Tech Under $25
     *   J Brand Up to 65% Off
-    *   Hudson Jeans Up to 65% Off
-    *   Hudson Jeans Men Up to 60% Off
-    *   Hudson Jeans Kids Up to 60% Off
-    *   14K Gold Jewelry Steals
-    *   Volcom
-    *   Sterling Silver Jewelry from Breuning &. More
+    *   Men's Designer Styles Up to 80% Off
     *   Predire Paris Luxury Skin Care Starting at $15
     *   Our Favorite Spring Shoes for Men from $30
     *   Free Shipping: Dreamy Bedding Up to 75% Off
@@ -68,52 +86,56 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   KEEN Men
     *   Au Naturale: Vegan, Chemical-Free &. Organic Makeup
     *   Sleek Sneakers for Kids from $20
-    
     *   Men's Fragrances Under $50
-    *   Dazzlepro Teeth Whitening Up to 85% Off
-    *   Dress Shoes ft. Allen Edmonds
-    *   Work to Play: Button-Up Shirts ft. Stone Rose
+    *   Blanc Noir: Street-Chic Active Up to 70% Off
     *   philosophy Starting at $15
     *   Free Shipping: Wall Murals &. More Up to 40% Off
-    *   Supra Men Up to 60% Off
     *   Kitchen Blowout: Must-Haves from Cuisinart
     *   Beach &. Pool Essentials ft. Sunnylife
+    *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Beach Ready: Towels Starting at $10
     *   Free Shipping: Faux Plants &. Planters
-    *   Skin Care Faves ft. Perricone MD
-    *   BECCA Cosmetics &. More from $9.97
     *   Free Shipping: Bedding, Hooded Blankets &. More
     *   Free Shipping: Sheet Sets, Duvets &. More
     *   Free Shipping: Towel Sets Up to 70% Off
-    *   Fromm: Tools Starting at $10
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Free Shipping: Chic Home Decor Up to 45% Off
-    *   Betsey Johnson &. Love...Ady Dresses
-    *   Smart Watch Bands &. More Up to 70% Off
-    *   Men's Designer Styles Up to 80% Off
-    *   Free Shipping: BergHOFF Up to 55% Off
-    *   Phone Chargers Up to 65% Off
-    *   Headphones &. Tech Accessories Up to 70% Off
-    *   Free Shipping: Fine Art Up to 90% Off
-    *   Tahari Swim &. More
-    *   Great Lengths: Midi Dresses Under $40
-    *   Warm Weather Ahead: Spring Styles for Men
+    *   Splendid Kids Up to 60% Off
+    *   Dyson Airwrap Styler Complete at $449.97
     *   Lucky Brand Incl. Plus
 *   WomenShop Sale Events
     
+    *   Spring Forward: Outerwear Up to 70% Off
+    *   Spring Dresses Up to 70% Off Incl. Plus &. Petites
+    *   Sandals &. More Up to 60% Off
+    *   Sterling Forever Jewelry Up to 60% Off
+    *   Luv Betsey by Betsey Johnson Bags Up to 65% Off
+    *   Dr. Martens
+    *   IPPOLITA Jewelry
+    *   Michael Stars Up to 60%
+    *   Betsey Johnson Swim Up to 60% Off
+    *   Short &. Sweet: Mini Dresses Under $30
+    *   New Spring Arrivals: Melloday Incl. Plus &. Petites
+    *   Skin Care We Love Starting at $10
+    *   Now Trending: Crops, Flares &. More
+    *   Jessica Simpson Lingerie &. Sleep
+    *   SUSINA Shoes &. More
+    *   New Arrivals: Makeup Under $20
+    *   PYT Hot Tools &. More Up to 90% Off
     *   Women's Running Shoes ft. Brooks
     *   Great Hues: Spring Styles ft. BCBGeneration
     *   Rebecca Minkoff
     *   Silver, Gemstones &. Diamonds Up to 80% Off
-    *   Fresh Finds: Sandals &. More Up to 50% Off
     *   Teami Blends Detox Teas &. Supplements
+    *   Fresh Finds: Sandals &. More Up to 50% Off
     *   Active Socks &. Sports Bras
     *   Spring Ready: Plus Dresses &. Jumpsuits Under $85
     *   Abound Starting at $10
-    *   Spring Ready: Petite Styles Up to 65% Off
     *   Enhance Your Routine: Facial Tools We Love
+    
     *   Most Wanted USA Handbags
     *   Be. Professional Hair Tools Up to 75% Off
+    *   Spring Ready: Petite Styles Up to 65% Off
     *   Designer Handbags ft. Alexander McQueen
     *   Designer Shoes Up to 60% Off ft. Dolce &. Gabbana
     *   Designer Styles Up to 70% Off
@@ -124,7 +146,6 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Vacation Ready: Flying Tomato &. More
     *   Miraclesuit &. Athena Swim Incl. Plus
     *   Crocs
-    
     *   Spring Sneakers from $40
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   Fashion Forward: Spring Tights
@@ -132,20 +153,11 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Demeter Fragrance Library Up to 55% Off
     *   Skin Care Essentials Under $20
     *   J Brand Up to 65% Off
-    *   Hudson Jeans Up to 65% Off
-    *   14K Gold Jewelry Steals
-    *   Sterling Silver Jewelry from Breuning &. More
     *   Predire Paris Luxury Skin Care Starting at $15
     *   Best of Hair Tools ft. T3
     *   Au Naturale: Vegan, Chemical-Free &. Organic Makeup
-    *   Dazzlepro Teeth Whitening Up to 85% Off
     *   philosophy Starting at $15
-    *   Skin Care Faves ft. Perricone MD
-    *   BECCA Cosmetics &. More from $9.97
-    *   Fromm: Tools Starting at $10
-    *   Betsey Johnson &. Love...Ady Dresses
-    *   Tahari Swim &. More
-    *   Great Lengths: Midi Dresses Under $40
+    *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Lucky Brand Incl. Plus
     
     Shop By Category
@@ -154,31 +166,29 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Jewelry
     *   Handbags
     *   Watches
-    *   Accessories
     *   Lingerie &. Shapewear
+    *   Accessories
 *   MenShop Sale Events
     
+    *   Goodbye Winter: Last-Chance Men's Style Blowout
+    *   Men's Shoe Steals Up to 75% Off
+    *   Dr. Martens Men
+    *   Men's Casual Wear ft. Nudie, Rolla's &. Neuw
     *   Men's Running Shoes ft. Brooks
     *   HIIT the Gym: Activewear for Him
     *   Men's Sport Sunglasses Starting at $30
     *   Kenneth Cole Reaction Up to 70% Off
     *   Hawke &. Co. Footwear Up to 70% Off
+    
     *   Aldo Men
     *   Men's Designer Shoes Up to 60% Off ft. Dolce &. Gabbana
     *   Designer Watches &. Accessories Up to 50% Off
     *   Raymond Weil Luxury Swiss Watches
-    *   Hudson Jeans Men Up to 60% Off
-    
-    *   Volcom
+    *   Men's Designer Styles Up to 80% Off
     *   Our Favorite Spring Shoes for Men from $30
     *   KEEN Men
     *   Men's Fragrances Under $50
     *   Dazzlepro Teeth Whitening Up to 85% Off
-    *   Dress Shoes ft. Allen Edmonds
-    *   Work to Play: Button-Up Shirts ft. Stone Rose
-    *   Supra Men Up to 60% Off
-    *   Men's Designer Styles Up to 80% Off
-    *   Warm Weather Ahead: Spring Styles for Men
     
     Shop By Category
     *   Shoes
@@ -187,81 +197,79 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Watches
 *   KidsShop Sale Events
     
+    *   Baby Gift Essentials: Blankets, Footies &. More
     *   Easter Essentials: Girls' Styles Up to 60% Off
     *   Easter Essentials: Boys' Styles Up to 60% Off
     *   Easter Essentials: Basket Goodies Up to 60% Off
     *   Easter Essentials: Kids' Shoes from $20
-    *   Hudson Jeans Kids Up to 60% Off
     *   Educational Toys ft. Fisher-Price
     *   Sleek Sneakers for Kids from $20
+    *   Splendid Kids Up to 60% Off
     
     Shop By Category
     *   Girls
     *   Toys
-    *   Boys
     *   Girls' Shoes
+    *   Boys
     *   Baby
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   bObsweep Up to 75% Off
+    *   Free Shipping: 1000 Thread Count Sheet Sets
     *   Free Shipping: Hand-Painted Replicas
     *   Free Shipping: Quilts, Comforters &. More
     *   Best of Tech Under $25
     *   Free Shipping: Dreamy Bedding Up to 75% Off
     *   Free Shipping: Wall Murals &. More Up to 40% Off
     *   Kitchen Blowout: Must-Haves from Cuisinart
+    
     *   Beach &. Pool Essentials ft. Sunnylife
     *   Beach Ready: Towels Starting at $10
     *   Free Shipping: Faux Plants &. Planters
     *   Free Shipping: Bedding, Hooded Blankets &. More
-    
     *   Free Shipping: Sheet Sets, Duvets &. More
     *   Free Shipping: Towel Sets Up to 70% Off
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Free Shipping: Chic Home Decor Up to 45% Off
-    *   Smart Watch Bands &. More Up to 70% Off
-    *   Free Shipping: BergHOFF Up to 55% Off
-    *   Phone Chargers Up to 65% Off
-    *   Headphones &. Tech Accessories Up to 70% Off
-    *   Free Shipping: Fine Art Up to 90% Off
     
     Shop By Category
     *   Bedding
     *   Home Decor
+    *   Bath
     *   Electronic &. Tech Accessories
     *   Kitchen &. Tabletop
-    *   Bath
     *   Outdoor Living
-    *   Accent Furniture
-    *   Pet Accessories
     *   Luggage &. Travel
+    *   Accent Furniture
     *   Cleaning &. Organization
+    *   Pet Accessories
 *   BeautyShop Sale Events
     
-    *   Dyson Airwrap Styler Complete at $449.97
+    *   Skin Care We Love Starting at $10
+    *   New Arrivals: Makeup Under $20
+    *   PYT Hot Tools &. More Up to 90% Off
     *   Teami Blends Detox Teas &. Supplements
     *   Enhance Your Routine: Facial Tools We Love
     *   Be. Professional Hair Tools Up to 75% Off
     *   Terre Mere Organic Vegan Beauty Up to 75% Off
     *   Demeter Fragrance Library Up to 55% Off
+    
     *   Skin Care Essentials Under $20
     *   Predire Paris Luxury Skin Care Starting at $15
-    
     *   Best of Hair Tools ft. T3
     *   Au Naturale: Vegan, Chemical-Free &. Organic Makeup
     *   Men's Fragrances Under $50
-    *   Dazzlepro Teeth Whitening Up to 85% Off
     *   philosophy Starting at $15
-    *   Skin Care Faves ft. Perricone MD
-    *   BECCA Cosmetics &. More from $9.97
-    *   Fromm: Tools Starting at $10
+    *   Dazzlepro Teeth Whitening Up to 85% Off
+    *   Dyson Airwrap Styler Complete at $449.97
     
     Shop By Category
     *   Skin Care
+    *   Tools &. Accessories
+    *   Fragrance
     *   Bath &. Body
     *   Makeup
-    *   Fragrance
-    *   Tools &. Accessories
     *   Hair Care
     *   Nails
 
