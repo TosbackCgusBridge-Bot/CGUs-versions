@@ -496,10 +496,6 @@ We have separate policies for workforce data, which is governed by the policies 
 
 Offers
 
-*   Use Code LEAP29 For 29% Off
-    
-    Rent or buy the newest releases for 29% off. TODAY only. Extra Day. Extra Savings. No subscription needed. START SAVING
-    
 *   Get A $10 Movie Ticket
     
     When you subscribe to the Hotstar Annual Pack. SEE DETAILS
@@ -507,10 +503,6 @@ Offers
 *   Play The Circle K Flip And Find Game
     
     For a chance to take home daily prizes, including a pair of movie tickets to see Dolittle. SEE DETAILS
-    
-*   Get a $15 Fandango Promo Code
-    
-    When you purchase $35 of Birds of Prey merchandise from Spencer's. SEE DETAILS
     
 
 New + Coming soon
