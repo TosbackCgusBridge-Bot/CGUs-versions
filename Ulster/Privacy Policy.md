@@ -154,4 +154,4 @@ Follow us:
 
 Ulster.ac.uk uses cookies to give users the best experience possible. Find out more about cookies
 
-Close<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1380040395442892&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=307591029993045&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1077797089096105&amp;ev=PageView&amp;noscript=1">.
+Close<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1380040395442892&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1077797089096105&amp;ev=PageView&amp;noscript=1">.
