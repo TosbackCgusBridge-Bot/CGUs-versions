@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Fox Kitten APT campaign exploits VPN flaws hours after public disclosure
-    *   Trump names Grenell as acting DNI
-    *   Stone gets 40 months and a rebuke from judge for lying to Congress
-    *   Machine learning log analysis platforms - the new wing man to SIEM?
-    *   Bug bounty hunter numbers rising dramatically: HackerOne
-    
-    *   ZyXEL NAS devices receive critical firmware patch
-    *   Hidden Cobra adds to its malware arsenal: CISA
-    *   Machine learning log analysis platforms - the new wing man to SIEM?
-    *   Security perimeters in the cloud aren’t dead—They’re ephemeral
+    *   Shared responsibility evolves
+    *   MGM admits to 2019 data breach affecting 10.6 million customers
     *   USA Freedom Act reauthorizations in doubt after Paul says Trump supports FISA reform
+    *   March 2020 Stats
+    *   Munson Healthcare data breach exposes PHI
     
-    *   Trump again nominates Ratcliffe for DNI post
-    *   Cisco issues 17 security updates
-    *   USA Freedom Act reauthorizations in doubt after Paul says Trump supports FISA reform
-    *   SC Media RSA 2020 Video roundup
     *   Is the CISO a second-class executive?
+    *   SC Media RSA 2020 Video roundup
+    *   Red and blue teams have changed
+    *   The winners of the 2020 SC Awards Honored in the U.S.
+    *   ZyXEL NAS devices receive critical firmware patch
+    
+    *   Poised for a giant leap forward
+    *   The hottest topic: Ransomware
+    *   Where enterprise CISOs go wrong
+    *   Follow the cybersecurity money
+    *   Striving for diversity
 
 Back to Top
 
@@ -264,4 +264,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+
+You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
