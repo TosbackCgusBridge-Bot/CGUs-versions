@@ -7,45 +7,46 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
 
 *   Movies Now Playing
     
+    *   The Invisible Man (2020)
     *   Sonic the Hedgehog
     *   The Call of the Wild (2020)
-    *   Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)
-    *   Brahms: The Boy II
+    *   My Hero Academia: Heroes Rising
     *   Bad Boys for Life
-    *   1917 (2019)
-    *   Fantasy Island
-    *   Parasite (2019)
-    *   Jumanji: The Next Level
-    *   The Photograph (2020)
+    *   Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)
     *   Impractical Jokers: The Movie
+    *   1917 (2019)
+    *   Brahms: The Boy II
+    *   Fantasy Island
+    *   Jumanji: The Next Level
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Impractical Jokers: The Movie
-    *   The Invisible Man (2020)
-    *   My Hero Academia: Heroes Rising
-    *   Blood on Her Name
-    *   Burden (2020)
-    *   Free Burma Rangers
-    *   Greed (2020)
-    *   Lost in America (2020)
-    *   Saint Frances
-    *   Wendy (2020)
-    *   The Whistlers (2020)
+    *   Emma (2020)
+    *   First Cow
+    *   Onward
+    *   The Way Back (2020)
+    *   Baaghi 3
+    *   Beneath Us (2020)
+    *   The Booksellers (2020)
+    *   The Burnt Orange Heresy
+    *   Foxtrot Six
+    *   Hope Gap
+    *   Only (2020)
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Onward
-    *   The Way Back (2020)
-    *   First Cow
     *   I Still Believe
     *   The Hunt (2020)
     *   My Spy (2020)
     *   Bloodshot (2020)
     *   A Quiet Place Part II (2020)
     *   Mulan (2020)
+    *   The Lovebirds (2020)
+    *   Peter Rabbit 2: The Runaway
+    *   The New Mutants
+    *   Saint Maud
     *   See All Coming Soon
     
     Explore More
@@ -73,7 +74,7 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie Trailers: The Return of ‘Candyman,’ Animated Feature ‘Rumble’ and More Read More
+    *   Next 3 Female-Driven Thrillers: 'The Hunt,' 'A Quiet Place Part II,' 'The New Mutants' Read More
     *   The Week in Movie News: James Mangold to Direct ‘Indiana Jones 5,’ ‘Jurassic World 3’ Title Revealed and More Read More
     *   Disney's 'Mulan': The Biggest Differences Between the Animated and Live-Action Movies Read More
     
@@ -500,9 +501,17 @@ Offers
     
     When you subscribe to the Hotstar Annual Pack. SEE DETAILS
     
+*   Get a $5 Fandango Reward
+    
+    When you spend $15 on participating snack brands. SEE DETAILS
+    
 *   Play The Circle K Flip And Find Game
     
     For a chance to take home daily prizes, including a pair of movie tickets to see Dolittle. SEE DETAILS
+    
+*   Fandango VIP
+    
+    Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
     
 
 New + Coming soon
@@ -543,7 +552,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   February Celebrity Birthdays
+*   March Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Follow Us
