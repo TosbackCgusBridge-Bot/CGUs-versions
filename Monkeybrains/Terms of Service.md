@@ -25,9 +25,17 @@ Monkeybrains.net San Francisco-based ISP since 1998
 *   BUSINESS
 *   EVENTS
 
-NOTABLE PRESS MENTIONS &. REVIEWS
+NOTABLE PRESS MENTIONS &. REVIEWS _February 28th, 2020_  
+By Preson Rhea  
+San Francisco Fiber to Housing Partnership  
+Read more >>.
 
-_May 1, 2018_  
+_August 23, 2019_  
+By the Mayor's Office of Housing and Community Development  
+San Francisco "Fiber to Housing" Program Provides Internet for Low-Income Families  
+Read more >>.
+
+_October 20, 2019_  
 By Alisha Green  
 Monkeybrains collaborates with the City to help close the digital divide in San Francisco.  
 Read more >>.
