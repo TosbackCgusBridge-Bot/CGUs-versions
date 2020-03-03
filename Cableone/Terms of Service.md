@@ -31,7 +31,7 @@ Skip to main content
 
 Internet Acceptable Use Policy Acceptable Use Policy
 
-Effective May 30, 2019
+Effective March 2, 2020
 
 Important Note: Sparklight™, may revise this Acceptable Use Policy from time to time without notice by editing the information on this page. Accordingly, users of the Sparklight residential services should consult this page regularly to ensure that their activities conform to the most recent version. In the event of a conflict between any subscriber agreement and this policy, the terms of this policy will govern. Questions regarding this policy can be directed to legal@cableone.net. Complaints of violations of this policy by Sparklight users can be directed to abuse@cableone.net. Visit http://www.Sparklight.com/legal/open-internet to review Sparklight's Network Management Disclosure Statement.
 
@@ -133,6 +133,14 @@ Customers who exceed the above data plans associated with their Internet service
 Customers on "Plus" plans have designated data plans assigned to the levels of service subscribed. Customers who exceed their data plans are automatically provided with an additional 100GB block of data to be used during their data period, at an additional cost. A maximum charge of 5 blocks of 100GB of data will be provided per data period. Additional Data Block Details
 
 Internet Service Plan Name Data Plan Lite Plus 100GB Data Plan Starter Plus 300GB Data Plan Streamer &. Gamer Plus 600GB Data Plan Turbo Plus 900GB Data Plan GigaONE ® Plus 1200GB Data Plan
+
+Names, speeds, and data plans are subject to change
+
+Customers who (a) use more than 5TB of data who have opted into an unlimited data option or (b) receive a maximum of 5 additional blocks of data during a data period may be subject to speed reductions for the remainder of their data period.
+
+Customers on "Wireless Home Internet" plans have designated data plans assigned to the levels of service subscribed. Customers who exceed their data plans are automatically provided with an additional 100GB block of data to be used during their data period, at an additional cost. A maximum charge of 5 blocks of 100GB of data will be provided per data period. Additional Data Block Details
+
+Internet Service Plan Name Data Plan 30 x 3 Wireless Home Internet 400GB Data Plan
 
 Names, speeds, and data plans are subject to change
 
