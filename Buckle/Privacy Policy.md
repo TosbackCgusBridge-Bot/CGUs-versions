@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Spring into savings with UP TO 50% OFF new to sale. shop now
+HIT REFRESH with new-season essentials. explore spring!
 
 *   Women
 *   Men
