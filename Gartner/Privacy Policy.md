@@ -78,7 +78,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 610 0984 1 855 610 0984
+    1 855 754 4748 1 855 754 4748
     
 
 *   Solutions By Function
@@ -143,7 +143,7 @@ Search
 
 *   Become a Client
     
-    1 855 610 0984 1 855 610 0984
+    1 855 754 4748 1 855 754 4748
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
