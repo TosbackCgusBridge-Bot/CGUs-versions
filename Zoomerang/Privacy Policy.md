@@ -24,7 +24,11 @@ How well do you understand your campaign performance? Follow our flowchart!
 
 Whitepaper: How to create more powerful packaging design
 
-Our solutions Advertising &. brand Product innovation Point-of-purchase influencers Pre-testing Customer value Packaging design Social insights Case stories Co-creating with Philips Edgewell measurement program Facebook video ads Amstel Bock pack design Philips concept test Yahoo ad testing Our latest research and insights 4 key learnings from TMRE 2019
+Our solutions Advertising &. brand Product innovation Point-of-purchase influencers Pre-testing Customer value Packaging design Social insights Case stories Co-creating with Philips Edgewell measurement program Facebook video ads Amstel Bock pack design Philips concept test Yahoo ad testing Our latest research and insights The future of creative testing is AI-powered
+
+Celebrating 2 years of being a top 3 fastest growing market research agency in the UK!
+
+4 key learnings from TMRE 2019
 
 What can you do within 24 hours?
 
@@ -43,10 +47,6 @@ Ditch the focus group for our faster, cheaper and more agile digital alternative
 Video: How to maximize your Facebook and Instagram video advertising
 
 Emotions sell brands: How to capture the emotional resonance of your brands, ads and products
-
-Sell more products in store: Optimize all your sales conversion tactics
-
-5 steps to creating successful branded video content
 
 Our story
 
@@ -127,6 +127,22 @@ Search Search for:
 
 Copyright © 2020 MetrixLab. All rights reserved. Privacy Statement, Terms and Conditions, Cookie Declaration
 
-×
+feedbackYour opinion is important to us×
+
+What are your thoughts about our website? Share them and help us improve!
+
+Did you reach your goal during this site visit?YesPartlyNoWhat is the purpose of your visit?Select your answerFind out more about MetrixLab' solutionsReading MetrixLab's news articlesContact MetrixLabLooking into job opportunitiesOther visit purposeWhat was the reason that you were not (completely) successful?Select your answerI could't find the informationThe information is not correctThere was a technical failureI lost interestOther reasonWhat should we change about our website to help you reach your goal?How much effort did it take to achieve your goal?12345Very low effortVery much effortWhat can we do to make sure you can reach your goal easierThank you for your answers! Is there anything you would like to say about your visit?Please describe yourself in relation to this visit. I'm a:Client  
+Potential client  
+Journalist  
+Student  
+Job seeker  
+MetrixLab employee  
+Other  
+send
+
+Thanks for your feedback!  
+**Would you like to receive more information about usability or digital insights?** Fill out the form below and click send.
+
+Name: E-mail: Send!No thanks!© Powered by MetrixLab ×
 
 **Thank you for getting in touch!** **We have received your message. One of our colleagues will get back to you as soon as possible.** **Have a great day** <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W3Z854N" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
