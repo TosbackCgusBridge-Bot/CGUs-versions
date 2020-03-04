@@ -6,6 +6,7 @@ Toggle navigation
 *   For Advertisers
     *   Our Reach
     *   Advertising solutions
+*   For Publishers
 *   About Us
     *   Our Vision
     *   Team
