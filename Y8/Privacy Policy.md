@@ -12,31 +12,31 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1303 games
-*   Most Popular Games 20426 games
+*   Best of new games 1325 games
+*   Most Popular Games 20433 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,312 games
-*   Driving &. Racing 6,314 games
-*   Strategy &. RPG 3,605 games
-*   Management &. Sim 4,254 games
-*   Thinking 12,524 games
-*   Action &. Adventure 14,573 games
-*   Sports 3,311 games
-*   Shooting 9,028 games
-*   Fighting 2,081 games
-*   Skill 10,946 games
-*   Arcade &. Classic 8,925 games
-*   Fun &. Crazy 4,794 games
+*   For Girls 24,336 games
+*   Driving &. Racing 6,320 games
+*   Strategy &. RPG 3,606 games
+*   Management &. Sim 4,257 games
+*   Thinking 12,525 games
+*   Action &. Adventure 14,574 games
+*   Sports 3,312 games
+*   Shooting 9,027 games
+*   Fighting 2,080 games
+*   Skill 10,947 games
+*   Arcade &. Classic 8,927 games
+*   Fun &. Crazy 4,797 games
 
 Play with friends  
-Powered by Y8 Account 142 Y8 Multiplayer Games 2,196 Y8 High Score Games 1,239 Y8 Achievements Games 869 Y8 Screenshots Games 1,623 Y8 Online Save Games 3,345 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 142 Y8 Multiplayer Games 2,199 Y8 High Score Games 1,245 Y8 Achievements Games 872 Y8 Screenshots Games 1,630 Y8 Online Save Games 3,351 All Y8 Games Games Last Highscore:
 
-**123,843** points on Paragon World by nguyen
+**11,098** points on Moto X3M: Winter by nguyen
 
 Help us improve Bad translation? Social
 
