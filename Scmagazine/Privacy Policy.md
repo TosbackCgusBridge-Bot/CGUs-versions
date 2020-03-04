@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Shared responsibility evolves
-    *   MGM admits to 2019 data breach affecting 10.6 million customers
-    *   USA Freedom Act reauthorizations in doubt after Paul says Trump supports FISA reform
-    *   March 2020 Stats
-    *   Munson Healthcare data breach exposes PHI
-    
-    *   Is the CISO a second-class executive?
-    *   SC Media RSA 2020 Video roundup
-    *   Red and blue teams have changed
     *   The winners of the 2020 SC Awards Honored in the U.S.
-    *   ZyXEL NAS devices receive critical firmware patch
+    *   Security perimeters in the cloud aren’t dead—They’re ephemeral
+    *   AT&T, Verizon join RSA exodus over Coronavirus fears
+    *   Google issues Chrome update patching possible zero day
+    *   Microsoft patches IE vulnerability being exploited in the wild
     
-    *   Poised for a giant leap forward
-    *   The hottest topic: Ransomware
-    *   Where enterprise CISOs go wrong
-    *   Follow the cybersecurity money
-    *   Striving for diversity
+    *   Machine learning log analysis platforms - the new wing man to SIEM?
+    *   Microsoft patches IE vulnerability being exploited in the wild
+    *   Campaign staffer’s husband arrested for DDoSing former Rep. Katie Hill's opponent
+    *   The winners of the 2020 SC Awards Honored in the U.S.
+    *   SC Media RSA 2020 Video roundup
+    
+    *   Walgreens mobile app leaked PII, PHI on 'small percentage' of customers
+    *   Data-stealing ransomware hits parts maker for Tesla, Boeing and Lockheed Martin
+    *   Election integrity preserved in fictitious city of Adversaria during Operation Blackout tabletop exercise
+    *   Harman CISO: AI-based 'cyber analysts' can fix false alarm problem in EDR solutions
+    *   Cybersecurity: Poised for a giant leap forward
 
 Back to Top
 
@@ -264,8 +264,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
