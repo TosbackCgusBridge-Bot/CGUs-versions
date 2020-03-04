@@ -1,4 +1,4 @@
-Skip Main Navigation Menu Marriott Bonvoy
+Travel Information: COVID-19 Update Skip Main Navigation Menu Marriott Bonvoy
 
 *   *   English
 *   Help
@@ -518,4 +518,4 @@ Loading...
 
 Tracking Preferences Terms of Use Program Terms &. Conditions Privacy Center Do Not Sell My Personal Information Digital Accessibility Site Map Help*   Loading...
     
-prod8,F5EBDB1C-8FD0-59AF-9EE5-60278FC050E8
+prod10,F555C058-B42F-54A3-8251-0A1B2D37FC59
