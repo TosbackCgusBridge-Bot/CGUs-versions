@@ -124,7 +124,7 @@ The Final Fantasy VII Remake demo is out now on PS4.
   
 Full details on what to expect when storming Mako Reactor 1:  http://play.st/2TxZlI5  pic.twitter.com/5OV7Oc6Pt4
 
-21 hours ago View Tweet Instagram Post B70-8z9FhVa
+1 day ago View Tweet Instagram Post B70-8z9FhVa
 
 Truly Wireless Design
 
@@ -142,17 +142,29 @@ Find Out About the Latest Features
 
 Play video: Introducing a New Ultra-Wide G-Master Lens Close video: Introducing a New Ultra-Wide G-Master Lens <img class="bg-img video-Vm-KcmAOz\_Y" data-linkname="en:set\_a:position\_1|\_2x2-6:video:electronics:GMasterLensVideo-March-02-2020:gwt:image:Vm-KcmAOz\_Y" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Introducing a New Ultra-Wide G-Master Lens Vm-KcmAOz\_Y G-Master-Lens-Video" data-img1x="/content/dam/sony/homepage/2020-march/3-2/GLens-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-march/3-2/GLens-600x600.jpg" src="/content/dam/sony/homepage/2020-march/3-2/GLens-600x600.jpg" alt="Introducing a New Ultra-Wide G-Master Lens"/>. <img class="bg-img video-Vm-KcmAOz\_Y" alt="Introducing a New Ultra-Wide G-Master Lens Mobile" data-linkname="en:set\_a:position\_1|\_2x2-6:video:electronics:GMasterLensVideo-March-02-2020:gwt:image-mobile:Vm-KcmAOz\_Y" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Introducing a New Ultra-Wide G-Master Lens Vm-KcmAOz\_Y G-Master-Lens-Video" data-img1x="/content/dam/sony/homepage/2020-march/3-2/GLens-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-march/3-2/GLens-600x600.jpg" src="/content/dam/sony/homepage/2020-march/3-2/GLens-600x600.jpg"/>.
 
-Embrace Your Powers and Become a Hero to Protect Earth From Otherworldly Threats
+From the Creators of “Spider-Man: Into the Spider-Verse" Comes a Brand-New Animated Movie
+
+Watch the Trailer for “Connected”
+
+Play video: From the Creators of “Spider-Man: Into the Spider-Verse" Comes a Brand-New Animated Movie Close video: From the Creators of “Spider-Man: Into the Spider-Verse" Comes a Brand-New Animated Movie
+
+*   Share on Facebook: From the Creators of “Spider-Man: Into the Spider-Verse" Comes a Brand-New Animated Movie
+*   Share on Twitter: From the Creators of “Spider-Man: Into the Spider-Verse" Comes a Brand-New Animated Movie
+*   Copy URL to Share: From the Creators of “Spider-Man: Into the Spider-Verse" Comes a Brand-New Animated Movie
+
+<img class="bg-img video-toBGv7yvIV8" data-linkname="en:set\_e:position\_2|\_5x2-1:video:movies:ConnectedTrailer-March-02-2020:sp:image:toBGv7yvIV8" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="From the Creators of “Spider-Man: Into the Spider-Verse&#34. Comes a Brand-New Animated Movie toBGv7yvIV8 Connected-Trailer" data-img1x="/content/dam/sony/homepage/2020-march/3-2/connected-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-march/3-2/connected-1276x500.jpg" src="/content/dam/sony/homepage/2020-march/3-2/connected-1276x500.jpg" alt="From the Creators of “Spider-Man: Into the Spider-Verse&#34. Comes a Brand-New Animated Movie"/>. <img class="bg-img video-toBGv7yvIV8" alt="From the Creators of “Spider-Man: Into the Spider-Verse&#34. Comes a Brand-New Animated Movie Mobile" data-linkname="en:set\_e:position\_2|\_5x2-1:video:movies:ConnectedTrailer-March-02-2020:sp:image-mobile:toBGv7yvIV8" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="From the Creators of “Spider-Man: Into the Spider-Verse&#34. Comes a Brand-New Animated Movie toBGv7yvIV8 Connected-Trailer" data-img1x="/content/dam/sony/homepage/2020-march/3-2/connected-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-march/3-2/connected-1276x500.jpg" src="/content/dam/sony/homepage/2020-march/3-2/connected-600x600.jpg"/>.
+
+Embrace Your Powers &. Become a Hero
 
 “Marvel’s Avengers” Arrives September 4 on PS4™
 
-Play video: Embrace Your Powers and Become a Hero to Protect Earth From Otherworldly Threats Close video: Embrace Your Powers and Become a Hero to Protect Earth From Otherworldly Threats
+Play video: Embrace Your Powers &. Become a Hero Close video: Embrace Your Powers &. Become a Hero
 
-*   Share on Facebook: Embrace Your Powers and Become a Hero to Protect Earth From Otherworldly Threats
-*   Share on Twitter: Embrace Your Powers and Become a Hero to Protect Earth From Otherworldly Threats
-*   Copy URL to Share: Embrace Your Powers and Become a Hero to Protect Earth From Otherworldly Threats
+*   Share on Facebook: Embrace Your Powers &. Become a Hero
+*   Share on Twitter: Embrace Your Powers &. Become a Hero
+*   Copy URL to Share: Embrace Your Powers &. Become a Hero
 
-<img class="bg-img video-Utb1Q3zOpZs" data-linkname="en:set\_e:position\_2|\_5x2-1:video:playstation:MarvelsAvengersTrailer-March-02-2020:ps:image:Utb1Q3zOpZs" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Embrace Your Powers and Become a Hero to Protect Earth From Otherworldly Threats Utb1Q3zOpZs Marvels-Avengers-Trailer" data-img1x="/content/dam/sony/homepage/2020-february/2-24/MarvelsAvengersGame-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-february/2-24/MarvelsAvengersGame-1276x500.jpg" src="/content/dam/sony/homepage/2020-february/2-24/MarvelsAvengersGame-1276x500.jpg" alt="Embrace Your Powers and Become a Hero to Protect Earth From Otherworldly Threats"/>. <img class="bg-img video-Utb1Q3zOpZs" alt="Embrace Your Powers and Become a Hero to Protect Earth From Otherworldly Threats Mobile" data-linkname="en:set\_e:position\_2|\_5x2-1:video:playstation:MarvelsAvengersTrailer-March-02-2020:ps:image-mobile:Utb1Q3zOpZs" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Embrace Your Powers and Become a Hero to Protect Earth From Otherworldly Threats Utb1Q3zOpZs Marvels-Avengers-Trailer" data-img1x="/content/dam/sony/homepage/2020-february/2-24/MarvelsAvengersGame-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-february/2-24/MarvelsAvengersGame-1276x500.jpg" src="/content/dam/sony/homepage/2020-february/2-24/MarvelsAvengersGame-600x600.jpg"/>. <img class="bg-img" data-linkname="en:set\_b:position\_3|\_2x2-1:poll:gaming:SpringGamesPoll-March-02-2020:ps:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name=" Spring-Games-Poll" data-img1x="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg" data-img2x="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg" src="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg"/>. <img class="bg-img" data-linkname="en:set\_b:position\_3|\_2x2-1:poll:gaming:SpringGamesPoll-March-02-2020:ps:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name=" Spring-Games-Poll" data-img1x="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg" data-img2x="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg" src="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg"/>. Instagram Post B8xwcpIjMD1
+<img class="bg-img video-Utb1Q3zOpZs" data-linkname="en:set\_b:position\_3|\_2x2-1:video:playstation:MarvelsAvengersTrailer-March-02-2020:ps:image:Utb1Q3zOpZs" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Embrace Your Powers &amp. Become a Hero Utb1Q3zOpZs Marvels-Avengers-Trailer" data-img1x="/content/dam/sony/homepage/2020-february/2-24/MarvelsAvengersGame-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-february/2-24/MarvelsAvengersGame-600x600.jpg" src="/content/dam/sony/homepage/2020-february/2-24/MarvelsAvengersGame-600x600.jpg" alt="Embrace Your Powers &amp. Become a Hero"/>. <img class="bg-img video-Utb1Q3zOpZs" alt="Embrace Your Powers &amp. Become a Hero Mobile" data-linkname="en:set\_b:position\_3|\_2x2-1:video:playstation:MarvelsAvengersTrailer-March-02-2020:ps:image-mobile:Utb1Q3zOpZs" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Embrace Your Powers &amp. Become a Hero Utb1Q3zOpZs Marvels-Avengers-Trailer" data-img1x="/content/dam/sony/homepage/2020-february/2-24/MarvelsAvengersGame-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-february/2-24/MarvelsAvengersGame-600x600.jpg" src="/content/dam/sony/homepage/2020-february/2-24/MarvelsAvengersGame-600x600.jpg"/>. Instagram Post B8xwcpIjMD1
 
 Enhanced Listening
 
