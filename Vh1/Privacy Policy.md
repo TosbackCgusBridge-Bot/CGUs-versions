@@ -5,7 +5,7 @@
     *   TV Schedule
     *   Black Ink Crew Chicago
     *   Black Ink Crew New York
-    *   Cartel Crew
+    *   Love &. Hip Hop Atlanta
     *   Love &. Hip Hop Miami
     *   Love &. Hip Hop New York
     *   Martha &. Snoop's Potluck Party Challenge
@@ -17,7 +17,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleBlack Ink Crew ChicagoBlack Ink Crew New YorkCartel CrewLove &. Hip Hop MiamiLove &. Hip Hop New YorkMartha &. Snoop's Potluck Party ChallengeRuPaul's Drag RaceWild 'N Outsee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleBlack Ink Crew ChicagoBlack Ink Crew New YorkLove &. Hip Hop AtlantaLove &. Hip Hop MiamiLove &. Hip Hop New YorkMartha &. Snoop's Potluck Party ChallengeRuPaul's Drag RaceWild 'N Outsee all Shows
 *   App
 *   Watch Live TV
 
