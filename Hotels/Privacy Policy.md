@@ -6,7 +6,7 @@ Skip to main content.English (United States)USD
     *   Contact us
     *   Website feedback
 *   Your bookings
-*   Create account
+*   Sign up
 *   Sign in
 
 *   Deals
