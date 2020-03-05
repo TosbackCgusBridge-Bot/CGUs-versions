@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Spring into savings with UP TO 50% OFF new to sale. shop now
+HIT REFRESH with new-season essentials. explore spring!
 
 *   Women
 *   Men
@@ -579,7 +579,3 @@ Did you mean to add items to your wish list?
 Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
-
-  
-I am over the age of 13  
-View Privacy Policy
