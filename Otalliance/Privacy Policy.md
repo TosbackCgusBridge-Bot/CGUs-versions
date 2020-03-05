@@ -1,11 +1,7 @@
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5LKZWMW" height="0" width="0" style="display:none;visibility:hidden"></iframe>. icon-1-darkicon-1-darkicon-1-lighticon-2-darkicon-2-lighticon-3-darkicon-3-lighticon-4-darkicon-4-lighticon-5-darkicon-5-lighticon-6-darkicon-6-lighticon-7-darkicon-7-lighticon-8-darkicon-8-lighticon-9-darkISOC-IconISOC-IconISOC-IconShapeISOC-IconISOC-IconISOC-IconPage 1icon-comma-darkicon-comma-lightFill 1ISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconShapeISOC-IconISOC-IconISOC-IconBLOCKSISOC-IconISOC-IconISOC-IconISOC-IconLISTISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconLEFTISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconShapeDOWN ARROWSEARCHISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-Icon-Dark-RGBISOC-Society-logoisoc-logo Member Login
 
 *   The Internet
-    *   About the Internet
-        *   History of the Internet
-        *   Facts &. Figures
-        *   Who Makes the Internet Work
-        *   Glossary of Internet Terms
+
 *   What we’re doing
     *   Growing the Internet
         *   Community Networks
@@ -16,7 +12,6 @@
         *   Internet Way of Networking
         *   MANRS
         *   Open Standards Everywhere
-        *   Time Security
 *   What you can do
     *   Take Action
         *   Attend an event
@@ -41,40 +36,29 @@
         *   MANRS
         *   Online Trust Alliance (OTA)
 *   About Us
-    *   About Internet Society
-        *   Mission
-        *   Board of Trustees
-        *   Chapters
-        *   Organization Members
-        *   Affiliates and Partners
-        *   Team
-        *   Action Plan: 2020
-        *   Organization Reports &. Policies
-        *   About the Internet Society Foundation
-    *   Regions
-        *   Africa
-        *   Asia-Pacific
-        *   Europe
-        *   Latin America &. Caribbean
-        *   Middle East
-        *   North America
     *   Events
         *   All Events
         *   African Peering and Interconnection Forum (AfPIF)
-        *   Community Network Summits
         *   IETF Meetings
         *   InterCommunity
         *   NDSS Symposium
-*   News
-    *   News
-        *   Press Releases
-        *   Internet Society in the news
-        *   Blog
-        *   Statements
-        *   Speeches
-    *   For Journalists:
-        *   Media Center
-
+*   Facts &. Figures
+*   Who Makes the Internet Work
+*   Affiliates and Partners
+*   Organization Reports &. Policies
+*   About the Internet Society Foundation
+*   Africa
+*   Asia-Pacific
+*   Europe
+*   Latin America &. Caribbean
+*   Middle East
+*   North America
+*   Press Releases
+*   Internet Society in the news
+*   Blog
+*   Statements
+*   Speeches
+*   For Journalists:
 2020 Action Plan 2020 Action Plan
 
 **A Bigger and Stronger Internet**  
