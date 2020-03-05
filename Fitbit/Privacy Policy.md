@@ -18,11 +18,11 @@
     *   NOT SURE WHICH PRODUCT IS RIGHT FOR YOU?
     *   Take the Quiz
     
-    Fitbit Versa 2
+    It's Sleep Awareness Week
     
-    Celebrate Heart Month
+    Shop sleep trackers
     
-    Fitbit Premium
+    Versa 2- with sleep score
     
 *   TECHNOLOGY
     
@@ -110,11 +110,11 @@ Press Enter to submit Tap to search
     *   NOT SURE WHICH PRODUCT IS RIGHT FOR YOU?
     *   Take the Quiz
     
-    Fitbit Versa 2
+    It's Sleep Awareness Week
     
-    Celebrate Heart Month
+    Shop sleep trackers
     
-    Fitbit Premium
+    Versa 2- with sleep score
     
 *   TECHNOLOGY
     
