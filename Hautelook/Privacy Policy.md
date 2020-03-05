@@ -7,16 +7,39 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Just Add Water: Swim &. Cover-Ups Up to 60% Off
-    *   Donald Pliner Up to 60% Off
-    *   Swiss-Made Watches Up to 50% Off
-    *   ECCO Men
-    *   Yumi Kim &. More
+    *   Free People Starting at $20
+    *   Free People Movement Starting at $25
+    *   Anthropologie Home
+    *   Step into Comfort: Sandals, Flats &. More
+    *   New on HauteLook: Joseph Ribkoff
+    *   Daily Deal: Sam Edelman Patty Sandals at $39.97
+    *   Daily Deal: Vince Camuto Floral Tops at $19.97
+    *   Italian Collection: Handbags Under $200
+    *   Free People Intimates
+    *   Charles by Charles David Up to 55% Off
+    *   Update Your Fit: Men's Modern Slim Fit Jeans
+    *   George Brown
+    *   7 For All Mankind Kids Up to 65% Off
+    *   Say It in Style: Graphic Tees
+    *   ALOR Fine Jewelry: 18K Gold &. More
+    *   Joe-Ella
+    *   Glister Hair Tools Up to 70% Off
+    *   Ode Natural Soaps, Body Oils &. More
+    *   Free Shipping: Storage for Every Room
+    *   SWISSGEAR
+    *   Exclusively Ours: Public Opinion Shoes
+    *   Exclusively Ours: Public Opinion Clothing
     *   Shun Cutlery: Sora &. Kanso Collections
     *   Free Shipping: BergHOFF Up to 60% Off
     *   Smart Kitchenware Starting at $15
+    
     *   Glass Water Bottles Up to 50% Off
+    *   Just Add Water: Swim &. Cover-Ups Up to 60% Off
+    *   Donald Pliner Up to 60% Off
+    *   Yumi Kim &. More
+    *   Swiss-Made Watches Up to 50% Off
     *   Dresses ft. Eliza J Incl. Plus &. Petites
+    *   ECCO Men
     *   HYFVE &. More From $20
     *   Nine West Up to 50% Off
     *   Elodie Starting at $20
@@ -31,65 +54,57 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Join the Bark Side: Star Wars Pet Apparel from $15
     *   Festival Vibes: Tween Styles Up to 60% Off
     *   BOSS Men Up to 55% Off
-    *   BOSS Women
-    
-    *   Blu Pepper Incl. Plus
     *   BOSS Men's Shoes
-    *   Date Night: Clothing &. Shoes Incl. Plus &. Petites
-    *   Jumpsuits &. Rompers Under $40 Incl. Plus &. Petites
-    *   Joules Raincoats
     *   Stride Rite
     *   BOSS Fragrance &. Cologne Up to 50% Off
-    *   Circus by Sam Edelman
     *   Korean Beauty: Leaders Cosmetics from $15
+    
     *   Home Decor Up to 45% Off
     *   Slumber Party: Kids' Pajamas Under $20
     *   Teva Men
     *   Luxe Home Scents &. Candles Up to 60% Off
-    *   Spring Forward: Outerwear Up to 70% Off
-    *   Sandals &. More Up to 60% Off
-    *   Sterling Forever Jewelry Up to 60% Off
-    *   Goodbye Winter: Last-Chance Men's Style Blowout
     *   Men's Shoe Steals Up to 75% Off
-    *   Luv Betsey by Betsey Johnson Bags Up to 65% Off
     *   bObsweep Up to 75% Off
-    *   IPPOLITA Jewelry
-    *   Dr. Martens Men
     *   Skin Care We Love Starting at $10
-    *   Free Shipping: 1000 Thread Count Sheet Sets
-    *   Men's Casual Wear ft. Nudie, Rolla's &. Neuw
-    
+    *   Michael Stars Up to 60%
     *   New Arrivals: Makeup Under $20
     *   PYT Hot Tools &. More Up to 90% Off
-    *   Baby Gift Essentials: Blankets, Footies &. More
     *   Teami Blends Detox Teas &. Supplements
     *   Free Shipping: Hand-Painted Replicas
     *   Enhance Your Routine: Facial Tools We Love
-    *   Betsey Johnson Swim Up to 60% Off
-    *   Michael Stars Up to 60%
-    *   Now Trending: Crops, Flares &. More
-    *   Great Hues: Spring Styles ft. BCBGeneration
-    *   Terre Mere Organic Vegan Beauty Up to 75% Off
-    *   Demeter Fragrance Library Up to 55% Off
+    *   BOSS Women
+    *   Free Shipping: Quilts, Comforters &. More
     *   Best of Tech Under $25
     *   Free Shipping: Dreamy Bedding Up to 75% Off
-    *   Free Shipping: Wall Murals &. More Up to 40% Off
-    *   Teva
-    *   Dr. Martens
-    *   Splendid Kids Up to 60% Off
+    *   Date Night: Clothing &. Shoes Incl. Plus &. Petites
+    *   Jumpsuits &. Rompers Under $40 Incl. Plus &. Petites
     *   Spring Dresses Up to 70% Off Incl. Plus &. Petites
-    *   Hawke &. Co. Footwear Up to 70% Off
-    *   Aldo Men
     *   Be. Professional Hair Tools Up to 75% Off
-    *   Free Shipping: Quilts, Comforters &. More
+    *   Spring Forward: Outerwear Up to 70% Off
+    *   Free Shipping: 1000 Thread Count Sheet Sets
 *   WomenShop Sale Events
     
+    *   Free People Starting at $20
+    *   Free People Movement Starting at $25
+    *   Step into Comfort: Sandals, Flats &. More
+    *   New on HauteLook: Joseph Ribkoff
+    *   Daily Deal: Sam Edelman Patty Sandals at $39.97
+    *   Daily Deal: Vince Camuto Floral Tops at $19.97
+    *   Italian Collection: Handbags Under $200
+    *   Free People Intimates
+    *   Charles by Charles David Up to 55% Off
+    *   Say It in Style: Graphic Tees
+    *   ALOR Fine Jewelry: 18K Gold &. More
+    *   Glister Hair Tools Up to 70% Off
+    *   Ode Natural Soaps, Body Oils &. More
+    *   SWISSGEAR
     *   Just Add Water: Swim &. Cover-Ups Up to 60% Off
     *   Donald Pliner Up to 60% Off
-    *   Swiss-Made Watches Up to 50% Off
     *   Yumi Kim &. More
+    *   Swiss-Made Watches Up to 50% Off
     *   Dresses ft. Eliza J Incl. Plus &. Petites
     *   HYFVE &. More From $20
+    
     *   Nine West Up to 50% Off
     *   Elodie Starting at $20
     *   Suzy Levian Jewelry
@@ -97,60 +112,46 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Spring Break-Ready Luggage &. Travel Accessories
     *   Free Press &. Shimera
     *   SmartyPants Vitamins
-    *   BOSS Women
-    *   Blu Pepper Incl. Plus
-    *   Jumpsuits &. Rompers Under $40 Incl. Plus &. Petites
-    *   Joules Raincoats
     *   BOSS Fragrance &. Cologne Up to 50% Off
     *   Korean Beauty: Leaders Cosmetics from $15
-    *   Spring Forward: Outerwear Up to 70% Off
-    
-    *   Sandals &. More Up to 60% Off
-    *   Sterling Forever Jewelry Up to 60% Off
-    *   Luv Betsey by Betsey Johnson Bags Up to 65% Off
-    *   IPPOLITA Jewelry
     *   Skin Care We Love Starting at $10
+    *   Michael Stars Up to 60%
     *   New Arrivals: Makeup Under $20
     *   PYT Hot Tools &. More Up to 90% Off
     *   Teami Blends Detox Teas &. Supplements
     *   Enhance Your Routine: Facial Tools We Love
-    *   Betsey Johnson Swim Up to 60% Off
-    *   Michael Stars Up to 60%
-    *   Now Trending: Crops, Flares &. More
-    *   Great Hues: Spring Styles ft. BCBGeneration
-    *   Terre Mere Organic Vegan Beauty Up to 75% Off
-    *   Demeter Fragrance Library Up to 55% Off
-    *   Teva
-    *   Dr. Martens
+    *   BOSS Women
+    *   Jumpsuits &. Rompers Under $40 Incl. Plus &. Petites
     *   Spring Dresses Up to 70% Off Incl. Plus &. Petites
     *   Be. Professional Hair Tools Up to 75% Off
+    *   Spring Forward: Outerwear Up to 70% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Handbags
     *   Lingerie &. Shapewear
+    *   Handbags
     *   Watches
     *   Accessories
 *   MenShop Sale Events
     
+    *   Update Your Fit: Men's Modern Slim Fit Jeans
+    *   George Brown
+    *   SWISSGEAR
+    *   Exclusively Ours: Public Opinion Shoes
+    *   Exclusively Ours: Public Opinion Clothing
     *   Swiss-Made Watches Up to 50% Off
     *   ECCO Men
     *   Spring Break Style: Surf &. Skate Looks
+    
     *   Men's Luxe Shoes Up to 65% Off
     *   Spring Break-Ready Luggage &. Travel Accessories
     *   BOSS Men Up to 55% Off
     *   BOSS Men's Shoes
     *   BOSS Fragrance &. Cologne Up to 50% Off
-    
     *   Teva Men
-    *   Goodbye Winter: Last-Chance Men's Style Blowout
     *   Men's Shoe Steals Up to 75% Off
-    *   Dr. Martens Men
-    *   Men's Casual Wear ft. Nudie, Rolla's &. Neuw
-    *   Hawke &. Co. Footwear Up to 70% Off
-    *   Aldo Men
     
     Shop By Category
     *   Clothing
@@ -159,70 +160,72 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Watches
 *   KidsShop Sale Events
     
+    *   7 For All Mankind Kids Up to 65% Off
+    *   Joe-Ella
     *   Petit Lem
     *   Festival Vibes: Tween Styles Up to 60% Off
     *   Stride Rite
     *   Slumber Party: Kids' Pajamas Under $20
-    *   Baby Gift Essentials: Blankets, Footies &. More
-    *   Splendid Kids Up to 60% Off
     
     Shop By Category
     *   Girls
-    *   Baby
     *   Boys
+    *   Baby
     *   Boys' Shoes
     *   Girls' Shoes
-    *   Toys
 *   HomeShop Sale Events
     
+    *   Anthropologie Home
+    *   Free Shipping: Storage for Every Room
+    *   SWISSGEAR
     *   Shun Cutlery: Sora &. Kanso Collections
     *   Free Shipping: BergHOFF Up to 60% Off
     *   Smart Kitchenware Starting at $15
     *   Glass Water Bottles Up to 50% Off
     *   Spring Break-Ready Luggage &. Travel Accessories
     *   Join the Bark Side: Star Wars Pet Apparel from $15
+    
     *   Home Decor Up to 45% Off
     *   Luxe Home Scents &. Candles Up to 60% Off
-    
     *   bObsweep Up to 75% Off
-    *   Free Shipping: 1000 Thread Count Sheet Sets
     *   Free Shipping: Hand-Painted Replicas
+    *   Free Shipping: Quilts, Comforters &. More
     *   Best of Tech Under $25
     *   Free Shipping: Dreamy Bedding Up to 75% Off
-    *   Free Shipping: Wall Murals &. More Up to 40% Off
-    *   Free Shipping: Quilts, Comforters &. More
+    *   Free Shipping: 1000 Thread Count Sheet Sets
     
     Shop By Category
     *   Bedding
-    *   Home Decor
     *   Kitchen &. Tabletop
-    *   Pet Accessories
-    *   Luggage &. Travel
-    *   Electronic &. Tech Accessories
+    *   Home Decor
     *   Cleaning &. Organization
-    *   Outdoor Living
+    *   Pet Accessories
+    *   Electronic &. Tech Accessories
+    *   Luggage &. Travel
     *   Bath
+    *   Outdoor Living
+    *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   Glister Hair Tools Up to 70% Off
+    *   Ode Natural Soaps, Body Oils &. More
     *   philosophy Starting at $10
     *   SmartyPants Vitamins
     *   BOSS Fragrance &. Cologne Up to 50% Off
     *   Korean Beauty: Leaders Cosmetics from $15
+    
     *   Skin Care We Love Starting at $10
     *   New Arrivals: Makeup Under $20
-    
     *   PYT Hot Tools &. More Up to 90% Off
     *   Teami Blends Detox Teas &. Supplements
     *   Enhance Your Routine: Facial Tools We Love
-    *   Terre Mere Organic Vegan Beauty Up to 75% Off
-    *   Demeter Fragrance Library Up to 55% Off
     *   Be. Professional Hair Tools Up to 75% Off
     
     Shop By Category
     *   Skin Care
+    *   Bath &. Body
     *   Fragrance
     *   Makeup
-    *   Bath &. Body
     *   Tools &. Accessories
     *   Hair Care
     *   Makeup Bags
