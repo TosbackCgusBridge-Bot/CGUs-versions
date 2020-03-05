@@ -109,6 +109,7 @@ Close submenu ( Guys Jeans ) Guys Jeans
 *   Buy 1 Get 1 Free
 *   Destroyed Denim
 *   Skinny Jeans
+*   Ultra Stacked Skinny Jeans
 *   Slim Jeans
 *   Straight Jeans
 *   Slim Bootcut Jeans
@@ -286,6 +287,7 @@ Menu Find a Store Aeropostale
         *   Buy 1 Get 1 Free
         *   Destroyed Denim
         *   Skinny Jeans
+        *   Ultra Stacked Skinny Jeans
         *   Slim Jeans
         *   Straight Jeans
         *   Slim Bootcut Jeans
