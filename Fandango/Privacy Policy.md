@@ -505,9 +505,9 @@ Offers
     
     When you spend $15 on participating snack brands. SEE DETAILS
     
-*   Play The Circle K Flip And Find Game
+*   Fandango Gift Cards
     
-    For a chance to take home daily prizes, including a pair of movie tickets to see Dolittle. SEE DETAILS
+    Give the gift of movies. Perfect for every occasion. BUY GIFT CARDS
     
 *   Fandango VIP
     
