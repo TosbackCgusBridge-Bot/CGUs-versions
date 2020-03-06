@@ -46,6 +46,4 @@ Download Ubuntu ›
 
 Further reading
 
-_Loading..._
-
-*    ›
+*   _Loading..._
