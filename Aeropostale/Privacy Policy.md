@@ -198,7 +198,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Buy 1 Get 1 Free Jeans + Shorts** ** GIRLS GUYS + FS $50**
+**Buy 1 Get 1 Free Jeans/Shorts** **\+ FS on Jeans/Shorts Orders**
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -374,26 +374,45 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
 
-In Stores &. Online Mix &. Match
+In Stores &. Online
 
 BUY 1 GET 1 FREE
 
 JEANS &. SHORTS
 
-\* Must Add 2 to Cart
+Shop Girls
 
-Shop Girls Shop Guys Store Locator
++
 
-In Stores &. Online Mix &. Match
+Now for a Limited Time!
 
-BUY 1 GET  
-1 FREE
+FREE SHIPPING
+
+ON ANY JEANS OR SHORTS PURCHASE
+
+Shop Guys
+
+\*Exclusions Apply
+
+In Stores &. Online
+
+BUY 1 GET 1 FREE
 
 JEANS &. SHORTS
 
-\* Must Add 2 to Cart
++
 
-Shop Girls Shop Guys Store Locator Previous
+Now for a Limited Time!
+
+FREE SHIPPING
+
+ON ANY JEANS OR SHORTS PURCHASE
+
+Shop Girls Shop Guys
+
+\*Exclusions Apply
+
+Previous
 
 Curvy
 
@@ -556,7 +575,7 @@ HOODIES &. SWEATSHIRTS
 So soft and cozy, you'll want to  
 wear them out (and in).
 
-Shop Girls **$18 &. Up** Shop Guys **$18 &. Up**
+Shop Girls **$14 &. Up** Shop Guys **$18 &. Up**
 
 AERO x MEXICO  
 #AEROWORLD
