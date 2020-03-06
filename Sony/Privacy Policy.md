@@ -124,7 +124,7 @@ The Final Fantasy VII Remake demo is out now on PS4.
   
 Full details on what to expect when storming Mako Reactor 1:  http://play.st/2TxZlI5  pic.twitter.com/5OV7Oc6Pt4
 
-2 days ago View Tweet Instagram Post B70-8z9FhVa
+3 days ago View Tweet Instagram Post B70-8z9FhVa
 
 Truly Wireless Design
 
