@@ -1,8 +1,6 @@
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TM96J9" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
 
 *   About
-*   Advertisers
-*   Blog
 *   Contact
 
 Intermarkets Privacy Policyv
@@ -162,41 +160,15 @@ Personal data we collect may be transferred to, and stored and processed in, the
 
 If you are a resident of the EEA or Switzerland, we respect your rights according to Chapter 3 of the EU General Data Protection Regulation. In order to verify your identity, we may require you to provide us with personal information prior to accessing any records containing information about you.
 
-LATEST ON TWITTER
-
-The Powerhouses of the Internet Are Turning Hostile to Websites | SparkToro sparktoro.com/blog/t…
-
-About a year ago
-
-This just in from the blog: Justin Hansen Honored For Q2 Publisher Success! INTERMARKETS + @STAQ intermarkets.net/201…
-
-About a year ago
-
-Congratulations to our own Justin Hansen, Yield Manager, for winning the Q2 Top of the @STAQ award. Much deserved and we are all proud of you! staq.com/blog
-
-About a year ago
-
-Congrats to our own Justin Hansen for winning the Q2 Top of the @STAQ award! Justin was able to double the CPM of one of our publishers in less than a month! staq.com/blog/2018/9…
-
-About a year ago
-
-ICYMI: Publishers Turn to White-Glove Services for Ad Buying and Management Needs econtentmag.com/Arti…
-
-About a year ago
-
   
   
 
 Contact Us | Request for Proposal  
   
 703.242.7878 | solutions@intermarket.net  
-11951 Freedom Dr. 11th Floor | Reston VA, 20190
+140B Purcellville Gateway Dr. #542 | Purcellville, VA 20132
 
-LATEST FROM THE BLOGAd Tech Needs Humans to be SuccessfulSeptember 19, 2018
-
-SEE MORE
-
-Home | About | Advertisers | Blog | Careers | Contact
+Home | About | Careers | Contact
 
   
 Copyright © 2018 Intermarkets, Inc. All rights reserved.  
