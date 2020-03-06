@@ -21,59 +21,64 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackFINAL HOURS! COUPON CODE 4GOSAVEENDS IN00HOURS 41MINS 32SECS See Details\*Extra 20% off select apparel, shoes, accessories, fine jewelry and home purchases with your JCPenney Credit Card or extra 15% off any other way you pay. Extra 10% off select furniture, mattresses, electronics, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches, and salon products any way you pay. Each offer good in store and at jcp.com, excluding taxes and shipping charges, 2/27/20-3/4/20. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Full amount of purchase must be on the JCPenney Credit Card to get the 20% off discount. Subject to credit approval. Does not apply to Best Value, Limited Time Specials, adidas, Athletic Shoes, Baby Gear, Bobs from Skechers, Champion, Clarks, Columbia, Converse, Denizen from Levi’s, Disney Collection, Grasshoppers, Jewelry Trunk Shows, Keds, Levi's, Modern Bride Design Your Dream Ring, Nike, Personalized Jewelry, Puma, Reebok, Sephora, Skechers Athletic Shoes, Skechers Women's Shoes, Smartwatches, Team Sports Merchandise, Tempur-Pedic, Toys, In-Store Services, Service Plans, Gift Cards, Closing Store Purchases, current orders and prior purchases, or in combination with other coupon(s). Extra % off furniture, mattresses, custom blinds and shades offer does not apply to stores in Puerto Rico. Additionally, in Puerto Rico, does not apply to Diesel, Fossil, Kenneth Cole, Michael Kors, Rado and Skagen Watches, Cosmetics, Bassett, Gift Wrap &. More, Optical, and Universal Sunglasses. Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply, see jcpenney.com/exclusions or store associate for details. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code 4GOSAVE when prompted at checkout or call 1.800.322.1189 and mention the code.Full Exclusions &. DetailswindowhousewaressheetsbathShop adidas\*Shop Champion\*Shop Nike\*Shop Puma\*25% OFFHaircare | select styles  Online only, pricing may vary in store. SHOP SEPHORA BEAUTYFrom supplements to sunscreen, beautify your body &. mind Selections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.Next stop: the dance floorYour one-stop destination for taking prom  to a place that’s uniquely yours.  Shop VacationPack your bags with essentials for the whole family Pinch-worthy picksCelebrate the luck of the stylish with charming looks for St. Patrick’s Day!   Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 31 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+Near YouFind a StoreBack 
 
-*   $2974 - $5354after couponwas $50 - $90 JCPenney Home Wallace Blackout Grommet-Top Curtain Panel(211)
-*   $850 - $6120after couponJCPenney Home™ Quick Dri Textured Solid Bath Towels(1653)
-*   $1869after couponwas $72 Xersion Water Resistant Lightweight Puffer Jacket(313)
-*   $42498after couponWomens 1 CT. T.W. Genuine Diamond Sterling Silver Cocktail Ring(23)
-*   $11899 - $14449after couponwas $260 - $300 JCPenney Home Audrey 10-pc. Comforter Set(3)
-*   $219 - $12
+*   Shop swimwear
+
+*   Women
     
-    Xersion Womens Performance Tank Top(298)
+*   Men
+    
+*   Boys
+    
+*   Girls
+    
+
+Shop swimwearWomen’s tees &. shortsMen’s tees &. shortsCasual dressesAccessoriesBeach towelsLuggageTravel-size luxuriesBeddingWindowBathDecorSelections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.Next stop: the dance floorYour one-stop destination for taking prom  to a place that’s uniquely yours.  Shop VacationPack your bags with essentials for the whole family Pinch-worthy picksCelebrate the luck of the stylish with charming looks for St. Patrick’s Day!   Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 31 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+
+*   $1359after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(334)
+*   $111 - $319after couponwas $7 Xersion-Womens Performance Tee(1631)
+*   $703 - $1999after couponwas $44 St. John's Bay Womens Mid Rise Straight Leg Jean(2129)
+*   $1599 - $7874after couponwas $60 - $209 400tc Wrinkle Guard Deep Pocket Sheet Set - JCPenney Home(2882)
+*   $3999after couponwas $74 Premier Amour Cold Shoulder Sheath Dress
+*   $1999after couponwas $35 a.n.a Womens Keyhole Neck Long Sleeve Peasant Top
 
 Sponsored Items
 
-*   $62910after couponwas $6,990 JBW Jet Setter Mens 3 CT. T.W. Diamond Two-Tone Stainless Steel Watch JB-6213-D(230)Add To Cart
 *   $12999
     
     Step2 Great Gourmet Kitchen(10)Add To Cart
-*   BEST VALUE!
-    
-    $1999
-    
-    Umbra® Little Black Dress Jewelry Organizer(2)Add To Cart
-*   $2499 - $44
-    
-    Vanity Fair® Beauty Back™ Full-Figure Back Smoothing Wireless Bra - 71380(624)Add To Cart
 *   $1552after couponwas $23 Matrix Biolage 3butter Control Day Cream Leave in Conditioner(6)
-*   $2999 sale
+*   $455 - $799after couponwas $11.50 Vanity Fair Beyond Comfort Knit Brief Panty 13213(47)Add To Cart
+*   $2879 - $44999after couponwas $90 - $1,500 Covington Home Evan Rectangular Rug(21)Add To Cart
+*   $1583 - $2399after couponwas $44 Lee® Slim Fit Sculpting Skinny Jean(47)Add To Cart
+*   $6399after couponwas $120 Farberware Cookstart 15-pc. Cookware Set(61)Add To Cart
+*   $80
     
-    was $60 | 50% offRachael Ray Create Delicious 12.5" Deep Skillet Aluminum Non-Stick Skillet(56)Add To Cart
-*   $3999 sale
+    Ayesha Curry™ Home Collection 2-pc. 9.25" &. 11.5" Skillet Set(10)Add To Cart
+*   $70
     
-    was $80 | 50% offAyesha Curry™ Home Collection 2-pc. 9.25" &. 11.5" Skillet Set(10)Add To Cart
-*   $3599 clearance
+    Rachael Ray Create Delicious 12.5" Deep Skillet(58)Add To Cart
+*   $560 sale
     
-    was $59.99 | 40% offLego Classic Large Creative Brick Box 10698(8)
-*   $3399 - $56439after couponwas $50 - $830 Covington Home Marathon Stripes Rectangular Indoor/Outdoor Rugs(3)Add To Cart
-*   $3740after couponLee® Instantly Slims Classic Jean(624)Add To Cart
-*   $2549after couponwas $44 Wrangler® Slim Fit Original Cowboy Cut Jeans(75)Add To Cart
-*   $4079after couponwas $80 Tommy Bahama Charcoal Infused Memory Foam Gusseted Medium Density Pillow
-*   $5099after couponwas $100 Sensorpedic Sofloft 2-Pack  Extra Firm Density Pillow(45)
-*   $48510after couponDyson® Ball Multi Floor 2 Upright Vacuum(241)Add To Cart
-*   $6544after couponwas $129 Restonic TempaGel Max Cooling Gel Beads Pillow 2-Pack
-*   $44820after couponGoogle Nest Cam IQ Indoor Security Camera 2-Pack(25)
+    was $7 | 20% offUmbra Touch Soap DishAdd To Cart
+*   $59415after couponwas $6,990 JBW Jet Setter Mens 3 CT. T.W. Diamond Two-Tone Stainless Steel Watch JB-6213-E(228)Add To Cart
+*   $7120after couponSensorpedic Memoryloft Deluxe Gusseted 2-Pack Memory Foam Medium Density PillowAdd To Cart
+*   $6159 - $8024after couponwas $129 - $179 Restonic TempaGel Max Cooling Gel Beads Pillow 2-Pack
+*   $2399after couponwas $44 Wrangler® Original Fit Cowboy Jeans(138)Add To Cart
+*   $4999
+    
+    Lego Duplo My First Large Playground Brick Box 10864
+*   $4999 sale
+    
+    was $100 | 50% offCirculon® Symmetry 10" &. 12" Hard-Anodized French Skillet Set(160)
+*   $20610after couponGoogle Nest Hello Video Doorbell(352)
+*   $36899after couponwas $539 Dyson® Ball Multi Floor 2 Upright Vacuum(241)Add To Cart
 *   $10499
     
     North States Superyard Colorplay 8-PanelAdd To Cart
-*   $30
-    
-    Michael Kors Sexy Amber Rollerball(14)Add To Cart
-*   $74 - $120
-    
-    Donna Karan Cashmere Mist Eau De Parfum(236)Add To Cart
-*   $510after couponCirculon 11-Pc. Aluminum Non-Stick Cookware Set(27)Add To Cart
+*   $3839after couponwas $80 Tommy Bahama Charcoal Infused Memory Foam Gusseted Medium Density Pillow
+*   $3359after couponwas $70 EcoPedic Eco-Classic 250 Thread Count Down Alternative Medium Density Pillow 2-PackAdd To Cart
 
 Shop and Save at JCPenney
 
