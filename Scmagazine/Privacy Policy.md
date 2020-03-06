@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   The winners of the 2020 SC Awards Honored in the U.S.
-    *   Campaign staffer’s husband arrested for DDoSing former Rep. Katie Hill's opponent
+    *   J.Crew says year-old breach exposed customer account info
     *   First Look: MAFAZO Ignyte Assurance Platform
-    *   Iran maintaining on-going cyber efforts, no response yet to Soleimani killing
-    *   Follow the cybersecurity money
+    *   The hottest topic: Ransomware
+    *   Banning end-to-end encryption is an authoritarian move, warns social scientist
+    *   KrØØk vulnerability could allow crooks to intercept WiFi data packets
     
-    *   Bug bounty hunter numbers rising dramatically: HackerOne
-    *   Shared responsibility evolves
-    *   Trump again nominates Ratcliffe for DNI post
-    *   Protect your domain and protect your customers: The top three domain-based attack tactics
-    *   Election integrity preserved in fictitious city of Adversaria during Operation Blackout tabletop exercise
+    *   The winners of the 2020 SC Awards Honored in the U.S.
+    *   Telecom firms urge FCC flexibility as carriers replace Chinese equipment
+    *   SC Podcast: RSA, coronavirus and cybersecurity…
+    *   ZyXEL NAS devices receive critical firmware patch
+    *   Tips for those of all ages interested in pursuing a career in cybersecurity
     
-    *   L.A. voting machines struggle to link to voter registration database, lines stretch long on Super Tuesday
-    *   CrowdStrike report: In a first, majority of attacks in 2019 were malware-free (video)
-    *   White hat hackers find thousands of vulnerabilities: DoD
-    *   Super Tuesday prompts election security vigilance, government warning
-    *   City of Cartersville paid $380k ransom to restore access to files
+    *   SC Podcast: Mitigating Coronavirus: Purell and a good business continuity plan
+    *   How privacy and security affect product design
+    *   KrØØk vulnerability could allow crooks to intercept WiFi data packets
+    *   J.Crew says year-old breach exposed customer account info
+    *   Bug prompts Let's Encrypt to revoke over 3M TLS certificates
 
 Back to Top
 
@@ -264,8 +264,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
