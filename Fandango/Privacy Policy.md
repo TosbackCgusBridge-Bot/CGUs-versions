@@ -74,8 +74,8 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Next 3 Female-Driven Thrillers: 'The Hunt,' 'A Quiet Place Part II,' 'The New Mutants' Read More
-    *   The Week in Movie News: James Mangold to Direct ‘Indiana Jones 5,’ ‘Jurassic World 3’ Title Revealed and More Read More
+    *   The Week in Movie News: New Batmobile Revealed, ‘Doctor Strange’ Director Teams With Chris Evans and More Read More
+    *   The Week in Movie Trailers: Disney’s ‘Artemis Fowl,’ Tom Hanks in ‘Greyhound’ and More Read More
     *   Disney's 'Mulan': The Biggest Differences Between the Animated and Live-Action Movies Read More
     
     Explore Content
@@ -497,9 +497,9 @@ We have separate policies for workforce data, which is governed by the policies 
 
 Offers
 
-*   Get A $10 Movie Ticket
+*   'Trolls World Tour' Gift with Purchase
     
-    When you subscribe to the Hotstar Annual Pack. SEE DETAILS
+    Get a free song download\* of "The Other Side" by SZA &. Justin Timberlake with ticket purchase! \*terms apply BUY TICKETS
     
 *   Get a $5 Fandango Reward
     
