@@ -1,119 +1,21 @@
-Terms of use | Avis Rent a Car <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KMF9MM" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Log into your Avis Account. Sign In to your Avis Account
-
-Please enter your My Avis password to login
-
-For full Avis and Amazon benefits, after logging in with Amazon you'll need to log in to Avis and link your accounts.
-
-Login is not required to complete your reservation
-
-Remember Me YES NO Log In Log In
+Terms of use | Avis Rent a Car <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KMF9MM" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Log into your Avis Account. For full Avis and Amazon benefits, after logging in with Amazon you'll need to log in to Avis and link your accounts. Remember Me YES NO Log In
 
 *   Forgot username?
 *   Forgot password?
-*   Not You?
 
 *   Need an account? Create one now
-*   If you already have a 6 digit Wizard number, Go Here!
 
-Cancel {{vm.customer.firstName | uppercase}}
-
-Avis {{vm.customer.membershipStatus}}
-
-{{vm.loyaltyDetails.points | number}} Available Points
-
-Enjoy more benefits with an Avis Preferred Account.
-
-Your Rental is Ready!
-
-{{rentalHistory.pickLoc.name+', '+rentalHistory.pickLoc.locationCode}} Enhance My Rental
-
-{{rentalHistory.vehicle.makeModel}}
-
-Mileage {{features.value}}
-
-Your rental ends today
-
-Your rental ends in  
-{{rentalHistory.rentalEndsIn}} Days
-
-Your rental has ended
-
-Your rental ends in  
-{{rentalHistory.hoursInRental}} hour hours
-
-Starting Fuel {{features.value}} Gal {{features.value}} litres
-
-Current Fuel {{features.value}} Gal {{features.value}} litres
-
-Enhance My Rental
-
-{{rentalHistory.vehicle.makeModel}}
-
-Your rental ends today
-
-Your rental ends in {{rentalHistory.rentalEndsIn}} Days
-
-Your rental has ended
-
-Your rental ends in  
-{{rentalHistory.hoursInRental}} hour hours
-
-Enhance My Rental
-
-Confirmation: {{rentalHistory.confirmationNumber}}
-
-{{rentalHistory.pickLoc.name+', '+rentalHistory.pickLoc.locationCode}}
-
-View Details **Select Today's Rental**
-
-{{rentalHistory.pickLoc.name+', '+rentalHistory.pickLoc.locationCode}}
-
-View Details Choose My Vehicle
-
-No Upcoming Reservations.
-
-Please activate your profile to view upcoming reservations.
-
-  
-
-We are sorry, we are unable to retrieve your Upcoming Reservations currently. Please try again later or contact Customer Care for further assistance.
-
-Upcoming Concur Trips
-
-Click to add a car to your Trip.
-
-{{trips.fromCode}} - {{trips.toCode}} 
-
-Please select a booking type I am booking this trip for Business Leisure My Rentals My Profile My Rentals Create My Profile My Profile My Profile
-
-Link My Amazon and Avis Accounts
-
-Connect Avis Account Log Out of Amazon Log Out Not You Enable Location
+Enable Location
 
 **Location services must be enabled to choose your car. Please check your browser's setting.**
 
-Maintenance updates are in progress. Reservations are not affected, however, some functionality may not be available during this time.
-
-Maintenance updates are in progress. Reservations are not affected, however, some functionality may not be available during this time.
-
-Toggle navigation Menu 1
+Toggle navigation Menu
 
 *   Avis Preferred
 *   Sign Up
 *   Log In
-*   _Update-close_
-    *   Please update your credit card information.Update _Update-close_
-*   1
-    
-    Only {{vm.customerData.profCompStep}} steps to go between you and Avis Preferred status. Only {{vm.customerData.profCompStep}} step to go between you and Avis Preferred status. Almost done! Please update the terms and condition section to go to Avis Preferred status.
-    
-    Once you complete your profile you'll be able to skip the counter, earn points and more.
-    
-    Complete your Profile
-*   Welcome, {{vm.customer.firstName | uppercase }} Welcome {{vm.customer.firstName | titleCase}}
-*   Welcome, {{vm.customer.firstName | uppercase}} Welcome {{vm.customer.firstName | titleCase}}
-
-Only {{vm.customerData.profCompStep}} steps to go between you and Avis Preferred status. Only {{vm.customerData.profCompStep}} step to go between you and Avis Preferred status. Almost done! Please update the terms and condition section to go to Avis Preferred status.
+*   Welcome,
+*   Welcome,
 
 Once you complete your profile you'll be able to skip the counter, earn points and more.
 
@@ -161,21 +63,8 @@ Complete your Profile
 *   Avis Preferred
 *   Sign Up
 *   Log In
-*   {{vm.notificationSize}}
-    
-    Only {{vm.customerData.profCompStep}} steps to go between you and Avis Preferred status. Only {{vm.customerData.profCompStep}} step to go between you and Avis Preferred status. Almost done! Please update the terms and condition section to go to Avis Preferred status.
-    
-    Once you complete your profile you'll be able to skip the counter, earn points and more.
-    
-    Complete your Profile
-*   Log In
-*   Welcome, {{vm.customer.firstName| uppercase}} Welcome {{vm.customer.firstName| titleCase}}
-    
-    Please update your credit card information. Update
-    
-*   Welcome, {{vm.customer.firstName | uppercase}} Welcome {{vm.customer.firstName | titleCase}}
-*   Log Out
-*   Not You
+*   Welcome,
+*   Welcome,
 *   Feedback
 
 **AVIS RENT A CAR – AVIS APPS**
@@ -378,7 +267,7 @@ Security &. Privacy
 *   California – Do Not Sell My Personal Information
 *   Copyright Notices
 
-{{lang.language}} Get the #1 Ranked Rental Car Travel App in Customer Satisfaction >.
+United StatesCanadaAustraliaNew Zealand------------------------ArgentinaArmeniaAustriaBahamasBelgiumBosniaBrazilChinaBulgariaChileColombiaCroatiaDenmarkDominican RepublicEcuadorEl SalvadorFaroe IslandsFijiFinlandFranceGermanyGuadeloupeGuatemalaGuamHondurasHongkongHungaryIndiaIndonesiaIrelandIsraelItalyJamaicaJapanKoreaKuwaitLebanonMacedoniaMalaysiaMartiniqueMexicoMongoliaMoroccoNetherlandNicaraguaNorwayPakistanPanamaPeruPhilippinesPolandPortugalPuerto RicoRomaniaRussiaSaudi ArabiaSingaporeSouth AfricaSpainSt Maarten/St MartinSurinameSwedenSwitzerlandTahitiTaiwanThailandTurkeyTurks and CaicosUkraineUnited Arab EmiratesUnited KingdomVanuatuVirgin IslandsYugoslavia English Français Español Português Get the #1 Ranked Rental Car Travel App in Customer Satisfaction >.
 
 GET THE AVIS APP
 
