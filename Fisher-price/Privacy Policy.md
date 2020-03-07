@@ -721,8 +721,8 @@ Follow Mattel
 
 *   Updated Privacy Statement
 *   Cookies &. Technologies
-
-*   © 2019 Mattel. All Rights Reserved
+*   Do Not Sell My Personal Information (ADCHOICES)
+*   © 2020 Mattel. All Rights Reserved
 
 Do you want to continue? You are about to visit a website that operates under a separate privacy policy and other terms.  
 Cancel Yes
