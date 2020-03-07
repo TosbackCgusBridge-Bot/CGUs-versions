@@ -362,6 +362,7 @@ SearchSubmitTerms &. Conditions
 *   Buckle Affiliate Network
 *   Music/Celebrity Sponsorship Requests
 *   Social Giveaway Official Rules
+*   Sweepstakes Official Rules
 *   Accessibility Policy
 *   Buckle Select Terms &. Conditions
 
@@ -579,7 +580,3 @@ Did you mean to add items to your wish list?
 Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
-
-  
-I am over the age of 13  
-View Privacy Policy
