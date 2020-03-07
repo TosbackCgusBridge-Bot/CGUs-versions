@@ -134,8 +134,8 @@ READY TO MAKE ANYTHING
 
 We've combined our most powerful software and services to create one simple package, for one great price—Autodesk industry collections.
 
-learn more   _Volkswagen uses generative design to help reimagine the classic VW bus._  
-_Watch video_
+learn more   _Claudius Peters fabricates an industrial-equipment part based on generative design._  
+_Read story_
 
 ARCHITECTURE, ENGINEERING &.  
 CONSTRUCTION COLLECTION
@@ -150,7 +150,7 @@ Professional CAD/CAM tools built on Inventor and AutoCAD Learn more Free trial S
 MEDIA &.  
 ENTERTAINMENT COLLECTION
 
-Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Image courtesy of Volkswagen Promo Data: FY21 Trade-in perpetual Offer US Bifrost tutorials March 2020 Try, buy, or learn more about Autodesk products See all products
+Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Promo Data: FY21 Trade-in perpetual Offer US Bifrost tutorials March 2020 Try, buy, or learn more about Autodesk products See all products
 
 Software for 2D and 3D CAD. Subscription includes AutoCAD, specialized toolsets, and apps.
 
