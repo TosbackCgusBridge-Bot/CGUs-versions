@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   J.Crew says year-old breach exposed customer account info
-    *   First Look: MAFAZO Ignyte Assurance Platform
-    *   The hottest topic: Ransomware
-    *   Banning end-to-end encryption is an authoritarian move, warns social scientist
-    *   KrØØk vulnerability could allow crooks to intercept WiFi data packets
-    
-    *   The winners of the 2020 SC Awards Honored in the U.S.
-    *   Telecom firms urge FCC flexibility as carriers replace Chinese equipment
-    *   SC Podcast: RSA, coronavirus and cybersecurity…
-    *   ZyXEL NAS devices receive critical firmware patch
-    *   Tips for those of all ages interested in pursuing a career in cybersecurity
+    *   Bug prompts Let's Encrypt to revoke over 3M TLS certificates
+    *   Trump again nominates Ratcliffe for DNI post
+    *   Accenture acquires Context Information Security
+    *   Striving for diversity
+    *   Shared responsibility evolves
     
     *   SC Podcast: Mitigating Coronavirus: Purell and a good business continuity plan
-    *   How privacy and security affect product design
-    *   KrØØk vulnerability could allow crooks to intercept WiFi data packets
-    *   J.Crew says year-old breach exposed customer account info
-    *   Bug prompts Let's Encrypt to revoke over 3M TLS certificates
+    *   Machine learning log analysis platforms - the new wing man to SIEM?
+    *   The hottest topic: Ransomware
+    *   Don't install that security certificate. it's a malware scam
+    *   SC Media RSA 2020 Video roundup
+    
+    *   International Women’s Day 2020: Gains made in cybersecurity but the job is not done
+    *   Coronavirus sparks phishing, disinformation, tabletop exercises and handwashing
+    *   Virgin Media leaves database open, thousands of records exposed
+    *   Cisco fixes three high-level bugs, but a fourth remains unpatched
+    *   Accenture acquires Context Information Security
 
 Back to Top
 
