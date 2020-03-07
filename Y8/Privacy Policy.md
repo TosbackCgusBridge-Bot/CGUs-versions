@@ -12,31 +12,31 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1321 games
-*   Most Popular Games 20445 games
+*   Best of new games 1330 games
+*   Most Popular Games 20453 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,339 games
-*   Driving &. Racing 6,324 games
-*   Strategy &. RPG 3,606 games
+*   For Girls 24,341 games
+*   Driving &. Racing 6,325 games
+*   Strategy &. RPG 3,607 games
 *   Management &. Sim 4,256 games
-*   Thinking 12,529 games
-*   Action &. Adventure 14,576 games
+*   Thinking 12,531 games
+*   Action &. Adventure 14,581 games
 *   Sports 3,314 games
-*   Shooting 9,029 games
-*   Fighting 2,082 games
-*   Skill 10,952 games
-*   Arcade &. Classic 8,924 games
-*   Fun &. Crazy 4,798 games
+*   Shooting 9,030 games
+*   Fighting 2,084 games
+*   Skill 10,958 games
+*   Arcade &. Classic 8,936 games
+*   Fun &. Crazy 4,799 games
 
 Play with friends  
-Powered by Y8 Account 142 Y8 Multiplayer Games 2,199 Y8 High Score Games 1,245 Y8 Achievements Games 872 Y8 Screenshots Games 1,632 Y8 Online Save Games 3,351 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 142 Y8 Multiplayer Games 2,199 Y8 High Score Games 1,245 Y8 Achievements Games 872 Y8 Screenshots Games 1,633 Y8 Online Save Games 3,355 All Y8 Games Games Last Highscore:
 
-**11,005** points on Head Hunter Reborn by AlwayzGwapo
+**122** points on Helix Jump by White\_Crow\_908
 
 Help us improve Bad translation? Social
 
