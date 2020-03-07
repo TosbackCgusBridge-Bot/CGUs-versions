@@ -98,6 +98,7 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Wide Leg Jeans
 *   Skater Jeans
 *   90s Jeans
+*   Boyfriend Jeans
 *   Real Denim
 *   Flex Effects
 *   Eco-Friendly Repreve
@@ -277,6 +278,7 @@ Menu Find a Store Aeropostale
         *   Wide Leg Jeans
         *   Skater Jeans
         *   90s Jeans
+        *   Boyfriend Jeans
         *   Real Denim
         *   Flex Effects
         *   Eco-Friendly Repreve
