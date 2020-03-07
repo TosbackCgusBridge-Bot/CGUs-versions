@@ -7,9 +7,31 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Original Penguin Up to 65% Off
+    *   Stuart Weitzman
+    *   Wacoal Under $40
+    *   Splendid Up to 60% Off
+    *   Adrianna Papell
+    *   Kate Spade New York Outerwear
+    *   Best of Fragrance ft. Gucci, Chloe &. More
+    *   Bright Ideas for Spring: White Denim
+    *   CALPAK ft. the Terrazzo Collection
+    *   All Under $120: Leather Handbags ft. The Sak
+    *   Easter Dress Up: Girls' Styles Up to 60% Off
+    *   Dress Shirts Under $30 ft. Report Collection
+    *   Ready for Sun: Flip-Flops from $15
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   Ambient, Accent or Task: Lighting for Every Room
+    *   Easter Dress Up: Boys' Styles Up to 55% Off
+    *   D24K by D'OR Skin Care
+    *   Easter Dress Up: Girls' Shoes from $20
+    *   Exclusively Ours: Public Opinion Clothing
+    *   Space-Saving Solutions: Food Storage Sets
+    *   Designer Dresses Up to 70% Off
     *   Designer Sun Up to 70% Off ft. Fendi
-    *   Donna Karan New York
     *   Brands We Love: BCBGMAXAZRIA &. More
+    
+    *   Donna Karan New York
     *   Marc Fisher LTD Up to 65% Off
     *   Do + Be
     *   Our Favorite Beauty Brands Starting at $10
@@ -18,175 +40,162 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Pink Haley Handbags Under $60
     *   Olivia Welles Jewelry Up to 75% Off
     *   Yummie Tummie by Heather Thomson
-    *   Free People Starting at $20
     *   Play All Day: Little Tikes, KidKraft &. More
-    *   Spring Forward: Men's Styles ft. Burnside
     *   Perry Ellis Up to 60% Off
     *   Skechers from $30
+    *   Spring Forward: Men's Styles ft. Burnside
     *   NxN Beauty: Cleansers &. More
-    *   Anthropologie Home
     *   Decorative Pillows &. Throws from $10
     *   Free Shipping: Luxury Sheets, Comforters &. More
+    *   Free People Starting at $20
     *   Free People Movement Starting at $25
     *   Free People Intimates
-    
-    *   Step into Comfort: Sandals, Flats &. More
-    *   Say It in Style: Graphic Tees
-    *   New on HauteLook: Joseph Ribkoff
-    *   Charles by Charles David Up to 55% Off
     *   Update Your Fit: Men's Modern Slim Fit Jeans
     *   George Brown
     *   7 For All Mankind Kids Up to 65% Off
     *   ALOR Fine Jewelry: 18K Gold &. More
+    
     *   Joe-Ella
     *   Glister Hair Tools Up to 70% Off
     *   Ode Natural Soaps, Body Oils &. More
+    *   Anthropologie Home
     *   Free Shipping: Storage for Every Room
-    *   SWISSGEAR
     *   Exclusively Ours: Public Opinion Shoes
-    *   Exclusively Ours: Public Opinion Clothing
     *   Shun Cutlery: Sora &. Kanso Collections
     *   Free Shipping: BergHOFF Up to 60% Off
     *   Smart Kitchenware Starting at $15
     *   Glass Water Bottles Up to 50% Off
-    *   Swiss-Made Watches Up to 50% Off
     *   ECCO Men
-    *   Suzy Levian Jewelry
-    
     *   philosophy Starting at $10
-    *   Spring Break Style: Surf &. Skate Looks
     *   Men's Luxe Shoes Up to 65% Off
     *   SmartyPants Vitamins
-    *   Petit Lem
     *   Join the Bark Side: Star Wars Pet Apparel from $15
-    *   Festival Vibes: Tween Styles Up to 60% Off
     *   Korean Beauty: Leaders Cosmetics from $15
     *   Home Decor Up to 45% Off
-    *   Teva Men
     *   Luxe Home Scents &. Candles Up to 60% Off
     *   bObsweep Up to 75% Off
-    *   Skin Care We Love Starting at $10
     *   Free Shipping: 1000 Thread Count Sheet Sets
-    *   New Arrivals: Makeup Under $20
-    *   PYT Hot Tools &. More Up to 90% Off
     *   Free Shipping: Hand-Painted Replicas
-    *   Free Shipping: Quilts, Comforters &. More
-    *   Italian Collection: Handbags Under $200
-    *   Best of Tech Under $25
 *   WomenShop Sale Events
     
+    *   Stuart Weitzman
+    *   Wacoal Under $40
+    *   Splendid Up to 60% Off
+    *   Adrianna Papell
+    *   Kate Spade New York Outerwear
+    *   Best of Fragrance ft. Gucci, Chloe &. More
+    *   Bright Ideas for Spring: White Denim
+    *   CALPAK ft. the Terrazzo Collection
+    *   All Under $120: Leather Handbags ft. The Sak
+    *   Ready for Sun: Flip-Flops from $15
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   D24K by D'OR Skin Care
+    *   Designer Dresses Up to 70% Off
     *   Designer Sun Up to 70% Off ft. Fendi
-    *   Donna Karan New York
     *   Brands We Love: BCBGMAXAZRIA &. More
+    *   Donna Karan New York
     *   Marc Fisher LTD Up to 65% Off
     *   Do + Be
+    
     *   Our Favorite Beauty Brands Starting at $10
     *   Flying Monkey Denim Under $50
     *   Activewear Up to 70% Off
     *   Pink Haley Handbags Under $60
     *   Olivia Welles Jewelry Up to 75% Off
     *   Yummie Tummie by Heather Thomson
-    *   Free People Starting at $20
     *   Skechers from $30
     *   NxN Beauty: Cleansers &. More
+    *   Free People Starting at $20
     *   Free People Movement Starting at $25
     *   Free People Intimates
-    *   Step into Comfort: Sandals, Flats &. More
-    
-    *   Say It in Style: Graphic Tees
-    *   New on HauteLook: Joseph Ribkoff
-    *   Charles by Charles David Up to 55% Off
     *   ALOR Fine Jewelry: 18K Gold &. More
     *   Glister Hair Tools Up to 70% Off
     *   Ode Natural Soaps, Body Oils &. More
-    *   SWISSGEAR
-    *   Swiss-Made Watches Up to 50% Off
-    *   Suzy Levian Jewelry
     *   philosophy Starting at $10
     *   SmartyPants Vitamins
     *   Korean Beauty: Leaders Cosmetics from $15
-    *   Skin Care We Love Starting at $10
-    *   New Arrivals: Makeup Under $20
-    *   PYT Hot Tools &. More Up to 90% Off
-    *   Italian Collection: Handbags Under $200
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
     *   Lingerie &. Shapewear
-    *   Handbags
+    *   Jewelry
     *   Accessories
+    *   Handbags
     *   Watches
 *   MenShop Sale Events
     
-    *   Spring Forward: Men's Styles ft. Burnside
+    *   Original Penguin Up to 65% Off
+    *   CALPAK ft. the Terrazzo Collection
+    *   Dress Shirts Under $30 ft. Report Collection
+    *   Bulova &. Citizen Watches Up to 60% Off
+    *   Exclusively Ours: Public Opinion Clothing
     *   Perry Ellis Up to 60% Off
+    
+    *   Spring Forward: Men's Styles ft. Burnside
     *   Update Your Fit: Men's Modern Slim Fit Jeans
     *   George Brown
-    *   SWISSGEAR
     *   Exclusively Ours: Public Opinion Shoes
-    
-    *   Exclusively Ours: Public Opinion Clothing
-    *   Swiss-Made Watches Up to 50% Off
     *   ECCO Men
-    *   Spring Break Style: Surf &. Skate Looks
     *   Men's Luxe Shoes Up to 65% Off
-    *   Teva Men
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Watches
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Easter Dress Up: Girls' Styles Up to 60% Off
+    *   Easter Dress Up: Boys' Styles Up to 55% Off
+    *   Easter Dress Up: Girls' Shoes from $20
     *   Play All Day: Little Tikes, KidKraft &. More
     *   7 For All Mankind Kids Up to 65% Off
     *   Joe-Ella
-    *   Petit Lem
-    *   Festival Vibes: Tween Styles Up to 60% Off
     
     Shop By Category
     *   Girls
     *   Toys
     *   Boys
+    *   Girls' Shoes
     *   Baby
 *   HomeShop Sale Events
     
-    *   Anthropologie Home
+    *   CALPAK ft. the Terrazzo Collection
+    *   Ambient, Accent or Task: Lighting for Every Room
+    *   Space-Saving Solutions: Food Storage Sets
     *   Decorative Pillows &. Throws from $10
     *   Free Shipping: Luxury Sheets, Comforters &. More
+    *   Anthropologie Home
     *   Free Shipping: Storage for Every Room
-    *   SWISSGEAR
     *   Shun Cutlery: Sora &. Kanso Collections
     *   Free Shipping: BergHOFF Up to 60% Off
+    
     *   Smart Kitchenware Starting at $15
     *   Glass Water Bottles Up to 50% Off
-    
     *   Join the Bark Side: Star Wars Pet Apparel from $15
     *   Home Decor Up to 45% Off
     *   Luxe Home Scents &. Candles Up to 60% Off
     *   bObsweep Up to 75% Off
     *   Free Shipping: 1000 Thread Count Sheet Sets
     *   Free Shipping: Hand-Painted Replicas
-    *   Free Shipping: Quilts, Comforters &. More
-    *   Best of Tech Under $25
     
     Shop By Category
-    *   Bedding
     *   Home Decor
     *   Kitchen &. Tabletop
+    *   Bedding
     *   Cleaning &. Organization
     *   Pet Accessories
-    *   Electronic &. Tech Accessories
-    *   Luggage &. Travel
     *   Bath
+    *   Luggage &. Travel
+    *   Electronic &. Tech Accessories
     *   Holiday Decorations
     *   Outdoor Living
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Best of Fragrance ft. Gucci, Chloe &. More
+    *   D24K by D'OR Skin Care
     *   Our Favorite Beauty Brands Starting at $10
     *   NxN Beauty: Cleansers &. More
     *   Glister Hair Tools Up to 70% Off
@@ -194,18 +203,14 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   philosophy Starting at $10
     *   SmartyPants Vitamins
     *   Korean Beauty: Leaders Cosmetics from $15
-    *   Skin Care We Love Starting at $10
-    *   New Arrivals: Makeup Under $20
-    *   PYT Hot Tools &. More Up to 90% Off
     
     Shop By Category
-    *   Makeup
     *   Skin Care
+    *   Makeup
     *   Fragrance
     *   Bath &. Body
     *   Hair Care
     *   Tools &. Accessories
-    *   Makeup Bags
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
