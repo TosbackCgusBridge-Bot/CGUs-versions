@@ -215,17 +215,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Bug prompts Let's Encrypt to revoke over 3M TLS certificates
+    *   Super Tuesday prompts election security vigilance, government warning
+    *   KrØØk vulnerability could allow crooks to intercept WiFi data packets
     *   Trump again nominates Ratcliffe for DNI post
-    *   Accenture acquires Context Information Security
-    *   Striving for diversity
-    *   Shared responsibility evolves
+    *   The winners of the 2020 SC Awards Honored in the U.S.
+    *   Cybersecurity: Poised for a giant leap forward
     
-    *   SC Podcast: Mitigating Coronavirus: Purell and a good business continuity plan
-    *   Machine learning log analysis platforms - the new wing man to SIEM?
-    *   The hottest topic: Ransomware
-    *   Don't install that security certificate. it's a malware scam
-    *   SC Media RSA 2020 Video roundup
+    *   Super Tuesday prompts election security vigilance, government warning
+    *   Where enterprise CISOs go wrong
+    *   Data-stealing ransomware hits parts maker for Tesla, Boeing and Lockheed Martin
+    *   Coronavirus sparks phishing, disinformation, tabletop exercises and handwashing
+    *   Striving for diversity
     
     *   International Women’s Day 2020: Gains made in cybersecurity but the job is not done
     *   Coronavirus sparks phishing, disinformation, tabletop exercises and handwashing
