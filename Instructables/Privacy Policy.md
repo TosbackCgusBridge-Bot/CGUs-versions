@@ -6,8 +6,6 @@ Change country/language X
 
 Autodesk logo
 
-*   0
-
 *   Sign In
     
     Autodesk Account
@@ -392,7 +390,7 @@ Pусский
 
 繁體中文
 
-Feedback FOLLOW AUTODESK
+FEEDBACK FOLLOW AUTODESK
 
 *   Facebook
 *   Instagram
