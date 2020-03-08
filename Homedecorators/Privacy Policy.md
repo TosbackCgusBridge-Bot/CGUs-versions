@@ -1,6 +1,6 @@
 Compare <img src="https://images.homedepot-static.com/productImages/c31f3112-3a04-45e6-80b2-2849f1428fd0/svn/home-decorators-collection-bathroom-vanities-with-tops-15101-vs61c-wt-64\_400\_compressed.jpg" alt="Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/0a/0ac508cc-6bdf-4b81-932d-1338ae45e9a2\_400\_compressed.jpg" alt="Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink" class="secondary-image has-secondary-image"/>.
 
-More Options Available Best Seller Home Decorators Collection Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink Model#  15101-VS61C-WT View the Windlowe Collection (175) $1,11930 $1,599.00 Save $479.70 (30%) $1,11930 $1,599.00 Save $479.70 (30%) Free delivery
+More Options Available Best Seller Home Decorators Collection Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink Model#  15101-VS61C-WT View the Windlowe Collection (176) $1,11930 $1,599.00 Save $479.70 (30%) $1,11930 $1,599.00 Save $479.70 (30%) Free delivery
 
 Set your store to see local  
 availability
@@ -12,17 +12,12 @@ More Options Available Exclusive Home Decorators Collection Coastal Oak 7.5 in. 
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/bbb79aff-8a3d-46d7-9a62-db87822aa09e/svn/winterton-oak-home-decorators-collection-laminate-wood-flooring-hc01-64\_400\_compressed.jpg" alt="Winterton Oak 12 mm Thick x 7-7/16 in. Wide x 50-5/8 in. Length Laminate Flooring (18.2 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/f8/f84d1c17-635d-4056-a4a9-c1f5ad7fb743\_400\_compressed.jpg" alt="Winterton Oak 12 mm Thick x 7-7/16 in. Wide x 50-5/8 in. Length Laminate Flooring (18.2 sq. ft. / case)" class="secondary-image has-secondary-image"/>. Home Decorators Collection Winterton Oak 12 mm Thick x 7-7/16 in. Wide x 50-5/8 in. Length Laminate Flooring (18.2 sq. ft. / case) Model#  HC01 (232) $199 /sq. ft. ( $36.21  /case) $199 /sq. ft. ( $36.21  /case) Standard delivery
-
-Set your store to see local  
-availability
-
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/d755e244-d4f4-4d78-bb74-a6918fdfbcec/svn/home-decorators-collection-bathroom-vanities-with-tops-md-v1791-64\_400\_compressed.jpg" alt="Fremont 72 in. W x 22 in. D Double Vanity in Grey with Granite Vanity Top in Grey with White Sink" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/c7/c71f210c-3230-4ff7-bb74-13f1ebbfd9e8\_400\_compressed.jpg" alt="Fremont 72 in. W x 22 in. D Double Vanity in Grey with Granite Vanity Top in Grey with White Sink" class="secondary-image has-secondary-image"/>. Home Decorators Collection Fremont 72 in. W x 22 in. D Double Vanity in Grey with Granite Vanity Top in Grey with White Sink Model#  MD-V1791 View the Fremont Collection (77) $1,09900 $1,399.00 Save $300.00 (21%) $1,09900 $1,399.00 Save $300.00 (21%) Free delivery
 
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/fe61ed4e-5bc2-4ded-906b-93fe3b3703d5/svn/home-decorators-collection-bathroom-vanities-with-tops-md-v1218-64\_400\_compressed.jpg" alt="31 in. W x 35 in. H x 20 in. D Vanity in Cherry with Granite Vanity Top in Beige with White Basin" />. Home Decorators Collection 31 in. W x 35 in. H x 20 in. D Vanity in Cherry with Granite Vanity Top in Beige with White Basin Model#  MD-V1218 (249) $35940 $599.00 Save $239.60 (40%) $35940 $599.00 Save $239.60 (40%) Free delivery
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/fe61ed4e-5bc2-4ded-906b-93fe3b3703d5/svn/home-decorators-collection-bathroom-vanities-with-tops-md-v1218-64\_400\_compressed.jpg" alt="31 in. W x 35 in. H x 20 in. D Vanity in Cherry with Granite Vanity Top in Beige with White Basin" />. Home Decorators Collection 31 in. W x 35 in. H x 20 in. D Vanity in Cherry with Granite Vanity Top in Beige with White Basin Model#  MD-V1218 (251) $35940 $599.00 Save $239.60 (40%) $35940 $599.00 Save $239.60 (40%) Free delivery
 
 Set your store to see local  
 availability
@@ -53,14 +48,21 @@ More Options Available Best Seller Home Decorators Collection 12 in. x 24 in. Ca
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/556a1536-e205-4a9d-841b-7ea16729a707/svn/home-decorators-collection-bamboo-flooring-hd13004a-64\_400\_compressed.jpg" alt="Strand Woven Distressed Dark Honey 1/2 in. T x Multi Width x 72 in. L Engineered Click Bamboo Flooring" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/ab/aba0d04d-49b5-4b39-89a4-cc5d0893bf66\_400\_compressed.jpg" alt="Strand Woven Distressed Dark Honey 1/2 in. T x Multi Width x 72 in. L Engineered Click Bamboo Flooring" class="secondary-image has-secondary-image"/>.
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/c0867ac9-1ebc-49a4-9434-dbd8ea3598bf/svn/home-decorators-collection-bathroom-vanities-with-tops-10806-vs61h-dw-64\_400\_compressed.jpg" alt="Hamilton 61 in. W x 22 in. D Double Bath Vanity in Ivory with Granite Vanity Top in Grey" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/3b/3bab41db-7a98-4741-9fc7-3d7fc7f2222d\_400\_compressed.jpg" alt="Hamilton 61 in. W x 22 in. D Double Bath Vanity in Ivory with Granite Vanity Top in Grey" class="secondary-image has-secondary-image"/>.
 
-Best Seller Home Decorators Collection Strand Woven Distressed Dark Honey 1/2 in. T x Multi Width x 72 in. L Engineered Click Bamboo Flooring Model#  HD13004A (260) $269 /sq. ft. ( $58.79  /case) $269 /sq. ft. ( $58.79  /case) Standard delivery
+More Options Available Home Decorators Collection Hamilton 61 in. W x 22 in. D Double Bath Vanity in Ivory with Granite Vanity Top in Grey Model#  10806-VS61H-DW View the Hamilton Collection (466) $1,12425 $1,499.00 Save $374.75 (25%) $1,12425 $1,499.00 Save $374.75 (25%) Limit 5 per order Free delivery
 
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/a2ffe41d-ff36-4f26-975f-340a77ba9a30/svn/subdued-gray-color-and-matte-finish-home-decorators-collection-laminate-wood-flooring-360831-23546-64\_400\_compressed.jpg" alt="Disher Oak 8mm Thick x 8.03 in. Wide x 47.64 in. Length Laminate Flooring (21.26 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/52/52ff810a-af10-48cd-98ee-ad82609668d4\_400\_compressed.jpg" alt="Disher Oak 8mm Thick x 8.03 in. Wide x 47.64 in. Length Laminate Flooring (21.26 sq. ft. / case)" class="secondary-image has-secondary-image"/>. Home Decorators Collection Disher Oak 8mm Thick x 8.03 in. Wide x 47.64 in. Length Laminate Flooring (21.26 sq. ft. / case) Model#  360831-23546 (49) $158 /sq. ft. ( $33.59  /case) $158 /sq. ft. ( $33.59  /case) Standard delivery
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/a2ffe41d-ff36-4f26-975f-340a77ba9a30/svn/subdued-gray-color-and-matte-finish-home-decorators-collection-laminate-wood-flooring-360831-23546-64\_400\_compressed.jpg" alt="Disher Oak 8mm Thick x 8.03 in. Wide x 47.64 in. Length Laminate Flooring (21.26 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/52/52ff810a-af10-48cd-98ee-ad82609668d4\_400\_compressed.jpg" alt="Disher Oak 8mm Thick x 8.03 in. Wide x 47.64 in. Length Laminate Flooring (21.26 sq. ft. / case)" class="secondary-image has-secondary-image"/>. Home Decorators Collection Disher Oak 8mm Thick x 8.03 in. Wide x 47.64 in. Length Laminate Flooring (21.26 sq. ft. / case) Model#  360831-23546 (50) $158 /sq. ft. ( $33.59  /case) $158 /sq. ft. ( $33.59  /case) Standard delivery
+
+Set your store to see local  
+availability
+
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/556a1536-e205-4a9d-841b-7ea16729a707/svn/home-decorators-collection-bamboo-flooring-hd13004a-64\_400\_compressed.jpg" alt="Strand Woven Distressed Dark Honey 1/2 in. T x Multi Width x 72 in. L Engineered Click Bamboo Flooring" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/ab/aba0d04d-49b5-4b39-89a4-cc5d0893bf66\_400\_compressed.jpg" alt="Strand Woven Distressed Dark Honey 1/2 in. T x Multi Width x 72 in. L Engineered Click Bamboo Flooring" class="secondary-image has-secondary-image"/>.
+
+Best Seller Home Decorators Collection Strand Woven Distressed Dark Honey 1/2 in. T x Multi Width x 72 in. L Engineered Click Bamboo Flooring Model#  HD13004A (260) $269 /sq. ft. ( $58.79  /case) $269 /sq. ft. ( $58.79  /case) Standard delivery
 
 Set your store to see local  
 availability
@@ -72,9 +74,9 @@ More Options Available Exclusive Home Decorators Collection Merwry 52 in. Integr
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/c0867ac9-1ebc-49a4-9434-dbd8ea3598bf/svn/home-decorators-collection-bathroom-vanities-with-tops-10806-vs61h-dw-64\_400\_compressed.jpg" alt="Hamilton 61 in. W x 22 in. D Double Bath Vanity in Ivory with Granite Vanity Top in Grey" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/3b/3bab41db-7a98-4741-9fc7-3d7fc7f2222d\_400\_compressed.jpg" alt="Hamilton 61 in. W x 22 in. D Double Bath Vanity in Ivory with Granite Vanity Top in Grey" class="secondary-image has-secondary-image"/>.
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/2a6cbf8b-18f4-4105-9f93-a95ec529ad53/svn/hickory-textured-home-decorators-collection-laminate-wood-flooring-34074sq-64\_400\_compressed.jpg" alt="Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide x 50-25/32 in. Length Laminate Flooring (15.45 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/ba/ba3a14bb-bd8b-4a67-bed7-e56c34aa2c6e\_400\_compressed.jpg" alt="Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide x 50-25/32 in. Length Laminate Flooring (15.45 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
 
-More Options Available Home Decorators Collection Hamilton 61 in. W x 22 in. D Double Bath Vanity in Ivory with Granite Vanity Top in Grey Model#  10806-VS61H-DW View the Hamilton Collection (465) $1,12425 $1,499.00 Save $374.75 (25%) $1,12425 $1,499.00 Save $374.75 (25%) Limit 5 per order Free delivery
+Home Decorators Collection Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide x 50-25/32 in. Length Laminate Flooring (15.45 sq. ft. / case) Model#  34074SQ (362) $149 /sq. ft. ( $23.02  /case) $149 /sq. ft. ( $23.02  /case) Standard delivery
 
 Set your store to see local  
 availability
@@ -86,9 +88,23 @@ More Options Available Exclusive Home Decorators Collection Noble Oak 7.5 in. x 
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/2a6cbf8b-18f4-4105-9f93-a95ec529ad53/svn/hickory-textured-home-decorators-collection-laminate-wood-flooring-34074sq-64\_400\_compressed.jpg" alt="Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide x 50-25/32 in. Length Laminate Flooring (15.45 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/ba/ba3a14bb-bd8b-4a67-bed7-e56c34aa2c6e\_400\_compressed.jpg" alt="Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide x 50-25/32 in. Length Laminate Flooring (15.45 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/929d3e28-242b-456f-8c79-cd79185c5c0d/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-yg493b-bn-64\_400\_compressed.jpg" alt="Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/ad/adb1e618-e39f-4a13-a05b-0058b5076980\_400\_compressed.jpg" alt="Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control" class="secondary-image has-secondary-image"/>.
 
-Home Decorators Collection Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide x 50-25/32 in. Length Laminate Flooring (15.45 sq. ft. / case) Model#  34074SQ (362) $149 /sq. ft. ( $23.02  /case) $149 /sq. ft. ( $23.02  /case) Standard delivery
+More Options Available Exclusive Home Decorators Collection Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control Model#  YG493B-BN (299) $19900 $249.00 Save $50.00 (20%) $19900 $249.00 Save $50.00 (20%) Limit 10 per order Free delivery
+
+Set your store to see local  
+availability
+
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/1cbce671-3f3c-4103-a186-7a341aeb20b1/svn/home-decorators-collection-bathroom-vanities-with-tops-md-v2126-64\_400\_compressed.jpg" alt="Sadie 67 in. W x 21.5 in. D Vanity in Matte Pearl with Marble Vanity Top in Natural White with White Sink" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/5c/5c9ce935-7060-4c0a-9ccf-daa9ebfc37a1\_400\_compressed.jpg" alt="Sadie 67 in. W x 21.5 in. D Vanity in Matte Pearl with Marble Vanity Top in Natural White with White Sink" class="secondary-image has-secondary-image"/>.
+
+More Options Available Home Decorators Collection Sadie 67 in. W x 21.5 in. D Vanity in Matte Pearl with Marble Vanity Top in Natural White with White Sink Model#  MD-V2126 View the Sadie Collection (150) $97425 $1,299.00 Save $324.75 (25%) $97425 $1,299.00 Save $324.75 (25%) Free delivery
+
+Set your store to see local  
+availability
+
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/e37543aa-87cc-4ec1-b0f1-15152cf8930f/svn/home-decorators-collection-bathroom-vanities-with-tops-15101-vs37c-wt-64\_400\_compressed.jpg" alt="Windlowe 37 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/45/4595a515-fb22-4e95-bf16-471bc8983d9c\_400\_compressed.jpg" alt="Windlowe 37 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink" class="secondary-image has-secondary-image"/>.
+
+More Options Available Home Decorators Collection Windlowe 37 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink Model#  15101-VS37C-WT View the Windlowe Collection (147) $69930 $999.00 Save $299.70 (30%) $69930 $999.00 Save $299.70 (30%) Free delivery
 
 Set your store to see local  
 availability
@@ -100,25 +116,32 @@ More Options Available Home Decorators Collection High Gloss Perry Hickory 8 mm 
 Set your store to see local  
 availability
 
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/0ceb730f-0685-4d10-a8c4-47f598453cee/svn/home-decorators-collection-bathroom-vanities-with-tops-md-v1834-64\_400\_compressed.jpg" alt="Sadie 67 in. W x 21.5 in. D Vanity in Dove Grey with Marble Vanity Top in Natural White with White Sinks" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/20/202e0104-3802-4592-87d1-9df415afe30f\_400\_compressed.jpg" alt="Sadie 67 in. W x 21.5 in. D Vanity in Dove Grey with Marble Vanity Top in Natural White with White Sinks" class="secondary-image has-secondary-image"/>.
+
+More Options Available Home Decorators Collection Sadie 67 in. W x 21.5 in. D Vanity in Dove Grey with Marble Vanity Top in Natural White with White Sinks Model#  MD-V1834 View the Sadie Collection (177) $90930 $1,299.00 Save $389.70 (30%) $90930 $1,299.00 Save $389.70 (30%) Free delivery
+
+Set your store to see local  
+availability
+
 Add to Cart Compare <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/40/40f04b8a-feec-4d6a-9199-ba8759433c92\_400\_compressed.jpg" alt="2 in. Cordless Faux Wood" />.
 
 More Options Available
 
-Exclusive Home Decorators Collection 2 in. Cordless Faux Wood (8505) $2297 - $7997 Free delivery
+Exclusive Home Decorators Collection 2 in. Cordless Faux Wood (8509) $2297 - $7997 Free delivery
 
 Set your store to see local  
 availability
 
-Choose Options Compare <img src="https://images.homedepot-static.com/productImages/1cbce671-3f3c-4103-a186-7a341aeb20b1/svn/home-decorators-collection-bathroom-vanities-with-tops-md-v2126-64\_400\_compressed.jpg" alt="Sadie 67 in. W x 21.5 in. D Vanity in Matte Pearl with Marble Vanity Top in Natural White with White Sink" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/5c/5c9ce935-7060-4c0a-9ccf-daa9ebfc37a1\_400\_compressed.jpg" alt="Sadie 67 in. W x 21.5 in. D Vanity in Matte Pearl with Marble Vanity Top in Natural White with White Sink" class="secondary-image has-secondary-image"/>.
-
-More Options Available Home Decorators Collection Sadie 67 in. W x 21.5 in. D Vanity in Matte Pearl with Marble Vanity Top in Natural White with White Sink Model#  MD-V2126 View the Sadie Collection (150) $97425 $1,299.00 Save $324.75 (25%) $97425 $1,299.00 Save $324.75 (25%) Free delivery
-
-Set your store to see local  
-availability
-
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/3a32477f-3c41-49a3-9141-21fc392338b9/svn/faux-stone-gray-home-decorators-collection-freestanding-electric-fireplaces-103034-64\_400\_compressed.jpg" alt="Highland 40 in. Media Console Electric Fireplace TV Stand in Faux Stone Gray" />.
+Choose Options Compare <img src="https://images.homedepot-static.com/productImages/3a32477f-3c41-49a3-9141-21fc392338b9/svn/faux-stone-gray-home-decorators-collection-freestanding-electric-fireplaces-103034-64\_400\_compressed.jpg" alt="Highland 40 in. Media Console Electric Fireplace TV Stand in Faux Stone Gray" />.
 
 More Options Available Best Seller Home Decorators Collection Highland 40 in. Media Console Electric Fireplace TV Stand in Faux Stone Gray Model#  103034 (627) $29900 $29900 Standard delivery
+
+Set your store to see local  
+availability
+
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/97ea0aa6-b36f-4f7e-8fc2-cb027af5b1f7/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-59252-64\_400\_compressed.jpg" alt="Ashby Park 52 in. White Color Changing Integrated LED Brushed Nickel Ceiling Fan with Light Kit and Remote Control" />.
+
+More Options Available Exclusive Home Decorators Collection Ashby Park 52 in. White Color Changing Integrated LED Brushed Nickel Ceiling Fan with Light Kit and Remote Control Model#  59252 (148) $13900 $13900 Free delivery
 
 Set your store to see local  
 availability
@@ -130,35 +153,16 @@ More Options Available Exclusive Home Decorators Collection Kensgrove 72 in. LED
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/f909e177-4d5a-4d12-9364-7ee775eeb653/svn/assorted-colors-home-decorators-collection-faux-wood-blinds-534104-64\_400\_compressed.jpg" alt="2&quot. Cordless Faux Wood" />.
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/368f0868-feed-4312-b9c1-bd7d3534e4c0/svn/multiple-colors-home-decorators-collection-cellular-shades-534126-64\_400\_compressed.jpg" alt="Cordless Light Filtering Cellular Shade" />. CUSTOM
 
 Custom Options Available Guaranteed to Fit
 
-Home Decorators Collection 2" Cordless Faux Wood Model#  534104 (405) Starting at $5723 Free delivery
+Home Decorators Collection Cordless Light Filtering Cellular Shade Model#  534126 (370) Starting at $6900 Free delivery
 
 Set your store to see local  
 availability
 
-Build and Buy Compare <img src="https://images.homedepot-static.com/productImages/7efd5cfe-725e-4ce6-b09d-e563cc5c1339/svn/brown-hand-scraped-home-decorators-collection-laminate-wood-flooring-hl1002-64\_400\_compressed.jpg" alt="Hand Scraped Canyon Grenadillo 8 mm Thick x 5-9/16 in. Wide x 47-3/4 in. Length Laminate Flooring (18.45 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/20/20cbd3b3-ca90-4a71-b04c-34f869711beb\_400\_compressed.jpg" alt="Hand Scraped Canyon Grenadillo 8 mm Thick x 5-9/16 in. Wide x 47-3/4 in. Length Laminate Flooring (18.45 sq. ft. / case)" class="secondary-image has-secondary-image"/>. Home Decorators Collection Hand Scraped Canyon Grenadillo 8 mm Thick x 5-9/16 in. Wide x 47-3/4 in. Length Laminate Flooring (18.45 sq. ft. / case) Model#  HL1002 (232) $109 /sq. ft. ( $20.09  /case) $1.89 Save 42% $109 /sq. ft. ( $20.09  /case) $1.89 Save 42% Standard delivery
-
-Set your store to see local  
-availability
-
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/46246eba-716a-4dfb-96ed-e86df1b9e01a/svn/warm-cherry-home-decorators-collection-vinyl-plank-flooring-44415-64\_400\_compressed.jpg" alt="Warm Cherry 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/f2/f2507b38-0d99-4fa0-9f02-48f25bab41a6\_400\_compressed.jpg" alt="Warm Cherry 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
-
-More Options Available Exclusive Home Decorators Collection Warm Cherry 7.5 in. x 47.6 in. Luxury Vinyl Plank Flooring (24.74 sq. ft. / case) Model#  44415 (864) $239 /sq. ft. ( $59.12  /case) $239 /sq. ft. ( $59.12  /case) Standard delivery
-
-Set your store to see local  
-availability
-
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/af4381ea-f3ea-48d7-901c-c84a6ebe6ac5/svn/gray-home-decorators-collection-freestanding-electric-fireplaces-103058-64\_400\_compressed.jpg" alt="Highland 50 in. Faux Stone Mantel Electric Fireplace in Gray" />.
-
-More Options Available Home Decorators Collection Highland 50 in. Faux Stone Mantel Electric Fireplace in Gray Model#  103058 (511) $52900 $52900 Standard delivery
-
-Set your store to see local  
-availability
-
-Add to Cart
+Build and Buy
 
 Select 2 to 4 Items to Compare
 
