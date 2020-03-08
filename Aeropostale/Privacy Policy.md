@@ -679,4 +679,4 @@ Stay Connected
 *   Use Student Discount
 *   Store FAQs
 
-© 2020 Aeropostale. All Rights Reserved. CHAT
+© 2020 Aeropostale. All Rights Reserved. CHAT close dialogWant to snag15% OFFsitewide?GET 15% OFFI DON'T WANT 15% OFFNICE! Give us your email to snag15% offPlease enter aboveUnlock 15% offYOU’VE SNAGGED 15% OFFUse Codeat checkoutCHECK OUT TODAY'S BEST DEALS:SHOP GIRLSSHOP GUYSSHOP NEW ARRIVALSContinue Shoppingclose dialog
