@@ -215,17 +215,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Super Tuesday prompts election security vigilance, government warning
-    *   KrØØk vulnerability could allow crooks to intercept WiFi data packets
-    *   Trump again nominates Ratcliffe for DNI post
-    *   The winners of the 2020 SC Awards Honored in the U.S.
-    *   Cybersecurity: Poised for a giant leap forward
+    *   City of Cartersville paid $380k ransom to restore access to files
+    *   SC Podcast: RSA, coronavirus and cybersecurity…
+    *   J.Crew says year-old breach exposed customer account info
+    *   First Look: MAFAZO Ignyte Assurance Platform
+    *   Shared responsibility evolves
     
-    *   Super Tuesday prompts election security vigilance, government warning
-    *   Where enterprise CISOs go wrong
-    *   Data-stealing ransomware hits parts maker for Tesla, Boeing and Lockheed Martin
-    *   Coronavirus sparks phishing, disinformation, tabletop exercises and handwashing
-    *   Striving for diversity
+    *   Accenture acquires Context Information Security
+    *   Shared responsibility evolves
+    *   White hat hackers find thousands of vulnerabilities: DoD
+    *   The hottest topic: Ransomware
+    *   Election integrity preserved in fictitious city of Adversaria during Operation Blackout tabletop exercise
     
     *   International Women’s Day 2020: Gains made in cybersecurity but the job is not done
     *   Coronavirus sparks phishing, disinformation, tabletop exercises and handwashing
@@ -264,4 +264,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
