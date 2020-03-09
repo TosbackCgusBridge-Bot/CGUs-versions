@@ -1,10 +1,10 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Guest Loyalty Members earn 2X POINTS on any Oakley or Ray-Ban purchase. shop now HIT REFRESH with new-season essentials. explore spring! Spring into savings with UP TO 50% OFF new to sale. shop now
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Free backpack cooler with a $75 brand purchase. Shop now! Enter for your chance to win a $500 shopping experience. Count me in! Limited Time! Earn 2X points.Shop now!
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-HIT REFRESH with new-season essentials. explore spring!
+Free backpack cooler with a $75 brand purchase. Shop now!
 
 *   Women
 *   Men
