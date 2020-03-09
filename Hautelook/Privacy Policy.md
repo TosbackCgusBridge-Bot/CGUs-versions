@@ -7,9 +7,34 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Spring for These: Styles Under $20
+    *   Gevril Watches Up to 85% Off
+    *   Activewear Up to 70% Off
+    *   Wüsthof Cutlery: Gourmet Collection Up to 60% Off
+    *   Sandals, Pumps &. More Up to 60% Off
+    *   Smart Watch Bands &. More Up to 70% Off
+    *   Men's Shoes Up to 70% Off
+    *   Savvy Cie: Diamonds, Gems &. More Up to 80% Off
+    *   Ramy Brook
+    *   PJ Salvage Under $45
+    *   Cropped Pants and Shorts Incl. Plus &. Petites
+    *   Catherine Catherine Malandrino Incl. Plus &. Petites
+    *   Function Meets Fashion: Utility Styles
+    *   KORKS &. Kork-Ease
+    *   His Spring Staples: Short Sleeve Shirts Under $40
+    *   Catherine Catherine Malandrino Shoes
+    *   Hit Snooze: Bedding Essentials Up to 75% Off
+    *   Spring Forward: Sandals Up to 60% Off
+    *   Billion Dollar Brows: Brow Kits, Powders &. More
+    *   French Connection Men's Shoes
+    *   Office Upgrades: Dress Shirts, Suiting &. More
+    *   Baby Basics Up to 60% Off
+    *   Sweet Dreams: Kids' Sleepwear Up to 60% Off
+    *   Cool Kicks for Baby and Toddler Up to 55% Off
     *   Designer Spotlight: Helmut Lang &. More
     *   Casual to Classy: Spring Dresses
     *   Diesel
+    
     *   Spring Skirts from $25 Incl. Plus &. Petites
     *   Stateside Up to 60% Off
     *   Johnston &. Murphy Men
@@ -25,20 +50,19 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Ready, Set, Go: Kids' Sets Under $25
     *   Date Night: Shoes for Him
     *   Make It Magical: Kids' Styles ft. Unicorns
-    *   Designer Dresses Up to 70% Off
+    *   Original Penguin Up to 65% Off
     *   Wacoal Under $40
     *   Stuart Weitzman
-    
     *   Splendid Up to 60% Off
     *   Adrianna Papell
     *   Kate Spade New York Outerwear
-    *   Original Penguin Up to 65% Off
     *   Bright Ideas for Spring: White Denim
     *   CALPAK ft. the Terrazzo Collection
     *   All Under $120: Leather Handbags ft. The Sak
     *   Easter Dress Up: Girls' Styles Up to 60% Off
     *   Dress Shirts Under $30 ft. Report Collection
     *   Ready for Sun: Flip-Flops from $15
+    
     *   Bulova &. Citizen Watches Up to 60% Off
     *   Best of Fragrance ft. Gucci, Chloe &. More
     *   Ambient, Accent or Task: Lighting for Every Room
@@ -46,33 +70,40 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   D24K by D'OR Skin Care
     *   Easter Dress Up: Girls' Shoes from $20
     *   Our Favorite Beauty Brands Starting at $10
-    *   Olivia Welles Jewelry Up to 75% Off
     *   Play All Day: Little Tikes, KidKraft &. More
-    *   Perry Ellis Up to 60% Off
     *   Spring Forward: Men's Styles ft. Burnside
-    
     *   NxN Beauty: Cleansers &. More
     *   Decorative Pillows &. Throws from $10
     *   Free Shipping: Luxury Sheets, Comforters &. More
-    *   George Brown
     *   Glister Hair Tools Up to 70% Off
     *   Ode Natural Soaps, Body Oils &. More
     *   Free Shipping: Storage for Every Room
-    *   Exclusively Ours: Public Opinion Shoes
     *   Shun Cutlery: Sora &. Kanso Collections
     *   Free Shipping: BergHOFF Up to 60% Off
     *   Smart Kitchenware Starting at $15
     *   Glass Water Bottles Up to 50% Off
-    *   philosophy Starting at $10
-    *   SmartyPants Vitamins
+    *   Designer Dresses Up to 70% Off
     *   Space-Saving Solutions: Food Storage Sets
     *   Join the Bark Side: Star Wars Pet Apparel from $15
     *   Home Decor Up to 45% Off
     *   Luxe Home Scents &. Candles Up to 60% Off
-    *   bObsweep Up to 75% Off
-    *   Free Shipping: 1000 Thread Count Sheet Sets
+    *   22595864\_Nine West
 *   WomenShop Sale Events
     
+    *   Spring for These: Styles Under $20
+    *   Gevril Watches Up to 85% Off
+    *   Activewear Up to 70% Off
+    *   Sandals, Pumps &. More Up to 60% Off
+    *   Savvy Cie: Diamonds, Gems &. More Up to 80% Off
+    *   Ramy Brook
+    *   PJ Salvage Under $45
+    *   Cropped Pants and Shorts Incl. Plus &. Petites
+    *   Catherine Catherine Malandrino Incl. Plus &. Petites
+    *   Function Meets Fashion: Utility Styles
+    *   KORKS &. Kork-Ease
+    *   Catherine Catherine Malandrino Shoes
+    *   Spring Forward: Sandals Up to 60% Off
+    *   Billion Dollar Brows: Brow Kits, Powders &. More
     *   Designer Spotlight: Helmut Lang &. More
     *   Casual to Classy: Spring Dresses
     *   Spring Skirts from $25 Incl. Plus &. Petites
@@ -81,15 +112,14 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Steve Madden Handbags &. Accessories
     *   Ready for Spring Rain: Joules &. More
     *   Live-In Lounge: Sleep ft. Socialite
+    
     *   Luseta Beauty Hair Care from $10
     *   Rockport
     *   Fresh Finds: Sandals &. More Up to 60% Off
     *   Hair Tools Starting at $15
-    *   Designer Dresses Up to 70% Off
     *   Wacoal Under $40
     *   Stuart Weitzman
     *   Splendid Up to 60% Off
-    
     *   Adrianna Papell
     *   Kate Spade New York Outerwear
     *   Bright Ideas for Spring: White Denim
@@ -100,33 +130,34 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Best of Fragrance ft. Gucci, Chloe &. More
     *   D24K by D'OR Skin Care
     *   Our Favorite Beauty Brands Starting at $10
-    *   Olivia Welles Jewelry Up to 75% Off
     *   NxN Beauty: Cleansers &. More
     *   Glister Hair Tools Up to 70% Off
     *   Ode Natural Soaps, Body Oils &. More
-    *   philosophy Starting at $10
-    *   SmartyPants Vitamins
+    *   Designer Dresses Up to 70% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie &. Shapewear
-    *   Jewelry
     *   Handbags
+    *   Lingerie &. Shapewear
     *   Watches
+    *   Jewelry
     *   Accessories
 *   MenShop Sale Events
     
+    *   Gevril Watches Up to 85% Off
+    *   Men's Shoes Up to 70% Off
+    *   His Spring Staples: Short Sleeve Shirts Under $40
+    *   French Connection Men's Shoes
+    *   Office Upgrades: Dress Shirts, Suiting &. More
     *   Diesel
+    
     *   Date Night: Shoes for Him
     *   Original Penguin Up to 65% Off
     *   CALPAK ft. the Terrazzo Collection
     *   Dress Shirts Under $30 ft. Report Collection
     *   Bulova &. Citizen Watches Up to 60% Off
-    *   Perry Ellis Up to 60% Off
     *   Spring Forward: Men's Styles ft. Burnside
-    *   George Brown
-    *   Exclusively Ours: Public Opinion Shoes
     
     Shop By Category
     *   Clothing
@@ -135,6 +166,9 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Watches
 *   KidsShop Sale Events
     
+    *   Baby Basics Up to 60% Off
+    *   Sweet Dreams: Kids' Sleepwear Up to 60% Off
+    *   Cool Kicks for Baby and Toddler Up to 55% Off
     *   Ready, Set, Go: Kids' Sets Under $25
     *   Make It Magical: Kids' Styles ft. Unicorns
     *   Easter Dress Up: Girls' Styles Up to 60% Off
@@ -143,45 +177,48 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Play All Day: Little Tikes, KidKraft &. More
     
     Shop By Category
-    *   Toys
-    *   Girls' Shoes
     *   Baby
     *   Girls
+    *   Girls' Shoes
+    *   Toys
     *   Boys
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Wüsthof Cutlery: Gourmet Collection Up to 60% Off
+    *   Smart Watch Bands &. More Up to 70% Off
+    *   Hit Snooze: Bedding Essentials Up to 75% Off
     *   2020 Art Trends: Pop Culture &. More
     *   CALPAK ft. the Terrazzo Collection
     *   Ambient, Accent or Task: Lighting for Every Room
     *   Decorative Pillows &. Throws from $10
     *   Free Shipping: Luxury Sheets, Comforters &. More
     *   Free Shipping: Storage for Every Room
+    
     *   Shun Cutlery: Sora &. Kanso Collections
     *   Free Shipping: BergHOFF Up to 60% Off
-    
     *   Smart Kitchenware Starting at $15
     *   Glass Water Bottles Up to 50% Off
     *   Space-Saving Solutions: Food Storage Sets
     *   Join the Bark Side: Star Wars Pet Apparel from $15
     *   Home Decor Up to 45% Off
     *   Luxe Home Scents &. Candles Up to 60% Off
-    *   bObsweep Up to 75% Off
-    *   Free Shipping: 1000 Thread Count Sheet Sets
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Bedding
+    *   Electronic &. Tech Accessories
     *   Cleaning &. Organization
     *   Pet Accessories
+    *   Bedding
     *   Luggage &. Travel
     *   Bath
     *   Holiday Decorations
-    *   Electronic &. Tech Accessories
     *   Outdoor Living
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Billion Dollar Brows: Brow Kits, Powders &. More
     *   Luseta Beauty Hair Care from $10
     *   Hair Tools Starting at $15
     *   Best of Fragrance ft. Gucci, Chloe &. More
@@ -190,16 +227,14 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   NxN Beauty: Cleansers &. More
     *   Glister Hair Tools Up to 70% Off
     *   Ode Natural Soaps, Body Oils &. More
-    *   philosophy Starting at $10
-    *   SmartyPants Vitamins
     
     Shop By Category
     *   Hair Care
-    *   Skin Care
     *   Makeup
     *   Fragrance
-    *   Bath &. Body
+    *   Skin Care
     *   Tools &. Accessories
+    *   Bath &. Body
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
