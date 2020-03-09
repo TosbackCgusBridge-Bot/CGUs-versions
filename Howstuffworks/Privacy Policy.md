@@ -311,5 +311,3 @@ Keep up to date on: Latest Buzz · Stuff Shows &. Podcasts · Tours · Weird &. 
 Sign Up
 
 **Copyright © 2020 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company**
-
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19985763&amp;cv=2.0&amp;cj=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1616822481910123&amp;ev=PageView&amp;noscript=1">.
