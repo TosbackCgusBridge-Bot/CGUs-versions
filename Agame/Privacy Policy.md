@@ -32,9 +32,9 @@ View more results
     *   Crowd City
     *   Hole.io
     *   Master Chess Multiplayer
+    *   Fireboy &. Watergirl 3: The Ice Temple
     *   Bad Ice Cream 2
     *   Slither.io
-    *   Fireboy &. Watergirl 3: The Ice Temple
 *   Action
     
     Top Categories
@@ -60,10 +60,10 @@ View more results
     *   Stickman Warriors
     *   Deer Hunter
     *   SuperHOT
-    *   Pixel Gun Apocalypse 3
     *   Bad Ice Cream 2
+    *   Pixel Gun Apocalypse 3
     *   Slither.io
-    *   Sniper Reloaded
+    *   Electricman 2: Stickman Fighting Game
 *   Adventure
     
     Top Categories
@@ -82,17 +82,17 @@ View more results
     *   Fireboy and Watergirl 5: Elements
     *   World Craft 2
     *   Chrome Dino
-    *   Red Bounce Ball 5
     *   Adam and Eve 2
-    *   World Crafts
     *   Dumb Ways to Die: Original
+    *   Red Bounce Ball 5
+    *   World Crafts
     *   Subway Surf
+    *   Adam and Eve 4
     *   Fox Simulator
     *   Fireboy &. Watergirl 4: Crystal Temple
-    *   Adam and Eve 4
     *   Rio Rex
-    *   Mine Clone 4
     *   Bob the Robber 4: Season 2 Russia
+    *   Money Movers
 *   Puzzle
     
     Top Categories
@@ -117,8 +117,8 @@ View more results
     *   TenTrix
     *   Bubble Shooter
     *   Gold Train FRVR
-    *   Line Puzzle
     *   Mahjong Link
+    *   Line Puzzle
     *   Mahjong Connect Classic
     *   Free the Key
     *   Word Wipe
@@ -142,15 +142,15 @@ View more results
     *   My New Room
     *   High School Breakup Drama
     *   Goldie: Lip Injections
-    *   Beach Kiss
     *   Ellie: Get Ready With Me
+    *   Beach Kiss
     *   Rocking World Tour Fashion
     *   Love Tester 3
     *   Villains Inspiring Fashion Trends
     *   Baby Hazel Goes Sick
-    *   Dove Prom Dolly Dress Up
     *   Extreme Makeover
-    *   Miraculous Hero Kiss
+    *   Dove Prom Dolly Dress Up
+    *   Ellie Skin Doctor
 *   Racing
     
     Top Categories
@@ -174,12 +174,12 @@ View more results
     *   Xcross Madness
     *   Cars 3D
     *   Off-Roader V6
-    *   Moto X3m 2
     *   Russian Car Driver
     *   Hill Racing Challenge
+    *   Moto X3m 2
     *   Horse Racing: Betting Game
     *   Moto X3M: Motorcycle Racing Game
-    *   Madalin Cars Multiplayer
+    *   Drift Cars
 *   Sports
     
     Top Categories
@@ -201,13 +201,13 @@ View more results
     *   Archery World Tour
     *   Pool Clash: 8 Ball Billiards Snooker
     *   Ultimate Boxing
-    *   Subway Surf
     *   Xcross Madness
+    *   Subway Surf
     *   Stunt Skateboard 3D
     *   Football Legends 2016
     *   Horse Racing: Betting Game
     *   Hunter 3D
-    *   Penalty Shooters
+    *   Billards
 *   More
     
     *   Multiplayer
