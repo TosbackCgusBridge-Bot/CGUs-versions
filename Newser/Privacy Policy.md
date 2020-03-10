@@ -41,9 +41,9 @@ How secure is my personal information?
 
 How do I opt out of targeted advertistments?
 
-*   If you’d like to opt out from receiving targeted advertisements from those companies that have placed an advertising cookie on your computer, mobile device, or other similar device, please click on the links below.
+*   If you'd like to opt out from receiving targeted advertisements from those companies that have placed an advertising cookie on your computer, mobile device, or other similar device, please click on the links below.
 *   Digital Advertising Alliance: http://www.aboutads.info/choices
-*   Network Advertising Initiative: http://www.networkadvertising.org/managing/opt\_out.asp
+*   Network Advertising Initiative:http://www.networkadvertising.org
 *   JumpTap: https://opt.jumptap.com/optout/opt
 
 How will I know when there are changes to this Privacy Policy?
