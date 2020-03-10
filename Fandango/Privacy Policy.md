@@ -7,46 +7,46 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
 
 *   Movies Now Playing
     
+    *   Onward
     *   The Invisible Man (2020)
+    *   The Way Back (2020)
     *   Sonic the Hedgehog
     *   The Call of the Wild (2020)
-    *   My Hero Academia: Heroes Rising
+    *   Emma (2020)
     *   Bad Boys for Life
     *   Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)
     *   Impractical Jokers: The Movie
+    *   My Hero Academia: Heroes Rising
     *   1917 (2019)
-    *   Brahms: The Boy II
-    *   Fantasy Island
-    *   Jumanji: The Next Level
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Emma (2020)
-    *   First Cow
-    *   Onward
-    *   The Way Back (2020)
-    *   Baaghi 3
-    *   Beneath Us (2020)
-    *   The Booksellers (2020)
-    *   The Burnt Orange Heresy
-    *   Foxtrot Six
-    *   Hope Gap
-    *   Only (2020)
+    *   Bloodshot (2020)
+    *   The Hunt (2020)
+    *   I Still Believe
+    *   Big Time Adolescence
+    *   Cruel Peter
+    *   Human Nature (2020)
+    *   Inside the Rain (2020)
+    *   M.O.M. (Mothers of Monsters)
+    *   Miss Fisher and the Crypt of Tears
+    *   Never Rarely Sometimes Always
+    *   The Roads Not Taken (2020)
     *   See All Opening This Week
     
     Coming Soon
     
-    *   I Still Believe
-    *   The Hunt (2020)
-    *   My Spy (2020)
-    *   Bloodshot (2020)
     *   A Quiet Place Part II (2020)
     *   Mulan (2020)
     *   The Lovebirds (2020)
     *   Peter Rabbit 2: The Runaway
     *   The New Mutants
     *   Saint Maud
+    *   Trolls World Tour
+    *   My Spy (2020)
+    *   Antlers
+    *   Charm City Kings (2020)
     *   See All Coming Soon
     
     Explore More
@@ -562,7 +562,7 @@ Follow Us
 *   Fandango on Instagram
 *   Fandango on Youtube
 
-Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help Feedback My Fandango Live Chat
+Get Updates On All Things Movies Privacy Policy Submit Thanks for signing up! Get Fandango Apps Fandango iOS App Fandango Android App Help My Fandango Live Chat
 
 *   About Fandango
 *   Careers
