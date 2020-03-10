@@ -129,6 +129,7 @@ About us
 *   Careers
 *   Press
 *   Privacy &. Legal
+*   Supplier Guidelines
 *   Security
 *   Affiliate Program
 *   Student Discount
