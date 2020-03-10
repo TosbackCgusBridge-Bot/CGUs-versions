@@ -59,11 +59,11 @@ Lenovo Explore Close
         *   ThinkStation
         
         *   Best Selling Desktops
-        *   ThinkCentre M75s
-        *   Lenovo Yoga A940
-        *   ThinkCentre M90n
-        *   IdeaCentre 310S Tower
-        *   IdeaCentre T540 Gaming
+        *   M630e Tiny
+        *   Yoga A940 27” 4K Intel
+        *   M90n Nano
+        *   510A Tower Intel
+        *   T540 Gaming Towe
         
         Sale
         
@@ -174,12 +174,10 @@ Lenovo Explore Close
         *   View All Monitors
         
         *   Best Selling Monitors
-        *   E24 Wide FHD
         *   M14 Portable
         *   P27h QHD USB-C
         *   P24q QHD
         *   Tiny-In-One 23.8" Gen3
-        *   Y27q Legion Gaming
         
         *   Shop New Monitors
         *   L27q QHD
@@ -343,7 +341,7 @@ Lenovo Explore Close
         *   Internet of Things (IoT)
         
         *   ‏‏‎
-        *   Telco and NFV
+        *   CoSPs
         *   OEM
         *   SAP
         *   View All Solutions
@@ -1197,7 +1195,7 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Launches comment card in new windowFeedbackCreated with sketchtool.CHAT NOW
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Created with sketchtool.CHAT NOW
 
 How can we help
 
@@ -1207,4 +1205,4 @@ you today?
 
 Call us: 1-855-253-6686
 
-Check order status >Technical support or Repair status >
+Check order status >Technical support or Repair status >Launches comment card in new windowFeedback
