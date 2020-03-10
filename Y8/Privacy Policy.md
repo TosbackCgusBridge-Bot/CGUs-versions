@@ -12,7 +12,7 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1329 games
+*   Best of new games 1328 games
 *   Most Popular Games 20473 games
 *   Played Games 0 games
 *   Liked Games 0 games
@@ -20,23 +20,23 @@ Categories &. more LIBRARY
 
 CATEGORIES
 
-*   For Girls 24,345 games
+*   For Girls 24,346 games
 *   Driving &. Racing 6,327 games
-*   Strategy &. RPG 3,607 games
-*   Management &. Sim 4,257 games
-*   Thinking 12,534 games
-*   Action &. Adventure 14,594 games
-*   Sports 3,314 games
-*   Shooting 9,031 games
+*   Strategy &. RPG 3,608 games
+*   Management &. Sim 4,255 games
+*   Thinking 12,537 games
+*   Action &. Adventure 14,573 games
+*   Sports 3,316 games
+*   Shooting 9,028 games
 *   Fighting 2,084 games
-*   Skill 10,969 games
-*   Arcade &. Classic 8,945 games
+*   Skill 10,956 games
+*   Arcade &. Classic 8,931 games
 *   Fun &. Crazy 4,798 games
 
 Play with friends  
-Powered by Y8 Account 142 Y8 Multiplayer Games 2,199 Y8 High Score Games 1,246 Y8 Achievements Games 872 Y8 Screenshots Games 1,639 Y8 Online Save Games 3,358 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 142 Y8 Multiplayer Games 2,201 Y8 High Score Games 1,249 Y8 Achievements Games 873 Y8 Screenshots Games 1,643 Y8 Online Save Games 3,361 All Y8 Games Games Last Highscore:
 
-**5,500** points on City Police Enforcer by xxmostxhatedxgodxx
+**45** points on Masked Forces Zombie Survival by tesa
 
 Help us improve Bad translation? Social
 
