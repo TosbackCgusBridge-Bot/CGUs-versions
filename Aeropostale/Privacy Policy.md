@@ -199,7 +199,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Buy 1 Get 1 Free Jeans/Shorts** **\+ FS on Jeans/Shorts Orders**
+**Extra 15% Off Tees** Use Code **DAY1 + Free Ship $50**
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -376,39 +376,45 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
 
-In Stores &. Online
+IN
 
-BUY 1 GET 1 FREE
+THE
 
-JEANS &. SHORTS
+BAG
 
-Shop Girls
+SPRING BREAK EDITION
 
-+
+DAY #1: TRAVEL TEES
 
-Now for a Limited Time!
+15% OFF YOUR
 
-FREE SHIPPING
+ENTIRE PURCHASE
 
-ON ANY JEANS OR SHORTS PURCHASE
+WHEN YOU BUY TEES
 
-Shop Guys
+Use Code: DAY1
+
+Shop Girls Shop Guys
 
 \*Exclusions Apply
 
-In Stores &. Online
+IN
 
-BUY 1 GET 1 FREE
+THE
 
-JEANS &. SHORTS
+BAG
 
-+
+SPRING BREAK EDITION
 
-Now for a Limited Time!
+DAY #1: TRAVEL TEES
 
-FREE SHIPPING
+15% OFF YOUR
 
-ON ANY JEANS OR SHORTS PURCHASE
+ENTIRE PURCHASE
+
+WHEN YOU BUY TEES
+
+Use Code: DAY1
 
 Shop Girls Shop Guys
 
