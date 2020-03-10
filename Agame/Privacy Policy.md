@@ -24,15 +24,15 @@ View more results
     *   Worms.Zone
     *   Subway Clash 3D
     *   Ono Card Game
-    *   Fireboy and Watergirl: The Forest Temple
     *   Fireboy and Watergirl 5: Elements
+    *   Fireboy and Watergirl: The Forest Temple
     *   Pool Clash: 8 Ball Billiards Snooker
     *   Wormate.io
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Crowd City
     *   Hole.io
-    *   Master Chess Multiplayer
     *   Fireboy &. Watergirl 3: The Ice Temple
+    *   Master Chess Multiplayer
     *   Bad Ice Cream 2
     *   Slither.io
 *   Action
@@ -54,16 +54,16 @@ View more results
     *   Apple Shooter
     *   Combat Reloaded
     *   Wormate.io
+    *   Exploration Lite: Mining
     *   Short Life
     *   Miami Crime Simulator 3D
-    *   Gun Blood
-    *   Stickman Warriors
     *   Deer Hunter
+    *   Stickman Warriors
+    *   Gun Blood
     *   SuperHOT
-    *   Bad Ice Cream 2
-    *   Pixel Gun Apocalypse 3
-    *   Slither.io
     *   Electricman 2: Stickman Fighting Game
+    *   Bad Ice Cream 2
+    *   Sniper Reloaded
 *   Adventure
     
     Top Categories
@@ -83,14 +83,14 @@ View more results
     *   World Craft 2
     *   Chrome Dino
     *   Adam and Eve 2
-    *   Dumb Ways to Die: Original
-    *   Red Bounce Ball 5
-    *   World Crafts
-    *   Subway Surf
-    *   Adam and Eve 4
     *   Fox Simulator
+    *   Dumb Ways to Die: Original
+    *   Adam and Eve 4
+    *   World Crafts
     *   Fireboy &. Watergirl 4: Crystal Temple
+    *   Subway Surf
     *   Rio Rex
+    *   Red Bounce Ball 5
     *   Bob the Robber 4: Season 2 Russia
     *   Money Movers
 *   Puzzle
@@ -109,8 +109,8 @@ View more results
     
     All Puzzle Best Games
     *   MahJongCon
-    *   Roll The Ball
     *   Butterfly Kyodai Classic
+    *   Roll The Ball
     *   1001 Arabian Nights
     *   Bubble Shooter Classic
     *   Block Wood Puzzle
@@ -121,7 +121,7 @@ View more results
     *   Line Puzzle
     *   Mahjong Connect Classic
     *   Free the Key
-    *   Word Wipe
+    *   Garden Tales
 *   Girls
     
     Top Categories
@@ -137,20 +137,20 @@ View more results
     *   Make Up
     
     All Girls Best Games
-    *   Princesses Makeover
+    *   Meet Ellie
     *   Ella: Hips Surgery
+    *   Princesses Makeover
     *   My New Room
     *   High School Breakup Drama
     *   Goldie: Lip Injections
     *   Ellie: Get Ready With Me
     *   Beach Kiss
-    *   Rocking World Tour Fashion
-    *   Love Tester 3
-    *   Villains Inspiring Fashion Trends
     *   Baby Hazel Goes Sick
-    *   Extreme Makeover
+    *   Villains Inspiring Fashion Trends
+    *   Love Tester 3
+    *   Rocking World Tour Fashion
     *   Dove Prom Dolly Dress Up
-    *   Ellie Skin Doctor
+    *   Extreme Makeover
 *   Racing
     
     Top Categories
@@ -170,16 +170,16 @@ View more results
     *   Madalin Stunt Cars 2
     *   Thug Racer
     *   Top Speed Muscle Car: Simulator Game
-    *   Real Dog Racing Simulator
     *   Xcross Madness
+    *   Real Dog Racing Simulator
     *   Cars 3D
     *   Off-Roader V6
+    *   Solid Rider: Dirt Bike Game
     *   Russian Car Driver
+    *   Horse Racing: Betting Game
     *   Hill Racing Challenge
     *   Moto X3m 2
-    *   Horse Racing: Betting Game
-    *   Moto X3M: Motorcycle Racing Game
-    *   Drift Cars
+    *   City Car Stunts 2
 *   Sports
     
     Top Categories
@@ -203,8 +203,8 @@ View more results
     *   Ultimate Boxing
     *   Xcross Madness
     *   Subway Surf
-    *   Stunt Skateboard 3D
     *   Football Legends 2016
+    *   Stunt Skateboard 3D
     *   Horse Racing: Betting Game
     *   Hunter 3D
     *   Billards
