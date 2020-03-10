@@ -21,79 +21,106 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackFINAL HOURS! COUPON CODE MARCH234ENDS IN00HOURS 41MINS 34SECS See Details\*Extra 25% off select apparel, shoes, accessories, fine jewelry and home purchases of $100 or more. Extra 20% off select purchases under $100. Extra 10% off select furniture, mattresses, electronics, small electrics, fitness equipment and accessories, floor care, custom blinds and shades, watches, and salon products. Each offer good at jcp.com only, excluding taxes and shipping charges, 3/5/20-3/8/20. One use per coupon, one coupon per customer. must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Best Value, Limited Time Specials, adidas, Athletic Shoes, Baby Gear, Bobs from Skechers, Champion, Clarks, Columbia, Converse, Denizen from Levi’s, Disney Collection, Grasshoppers, Jewelry Trunk Shows, Keds, Levi's, Modern Bride Design Your Dream Ring, Nike, Personalized Jewelry, Puma, Reebok, Sephora, Skechers Athletic Shoes, Skechers Women's Shoes, Smartwatches, Team Sports Merchandise, Tempur-Pedic, Toys, In-Store Services, Service Plans, Gift Cards, Closing Store Purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards and JCPenney Credit Card new account in-store discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply, see jcpenney.com/exclusions or store associate for details. REPRODUCTIONS WILL NOT BE ACCEPTED. INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code MARCH234 when prompted at checkout or call 1.800.322.1189 and mention the code. Full Exclusions &. Details 
+Near YouFind a StoreBackDressesDress shoesHandbags &. walletsFashion jewelry 
 
-*   Shop swimwear
+*   Suits &. suit separates
 
-*   Women
+*   Sport coats
     
-*   Men
+*   Dress shirts
     
-*   Boys
+*   Accessories
     
-*   Girls
+*   Shoes
     
 
-Shop swimwearWomen’s tees &. shortsMen’s tees &. shortsCasual dressesAccessoriesBeach towelsLuggageTravel-size luxuriesBeddingWindowBathDecorMore ways to shop for springNext stop: the dance floorYour one-stop destination for taking prom to a place that’s uniquely yours.  Pinch-worthy picksCelebrate the luck of the stylish with charming  looks for St. Patrick’s Day!   Shop the local lookJCPenney is teaming up with fashion and lifestyle influencers to bring you a curated selection of their top picks. Check back every month to see new styles.  
-Shop VacationPack your bags with essentials for the whole family Selections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken. Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 31 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+Suits &. suit separates 
 
-*   $1599 - $7199after couponwas $60 - $200 400tc Wrinkle Guard Deep Pocket Sheet Set - JCPenney Home(2882)
+*   Shop Liz Claiborne Classics
+
+*   Sheets
+    
+*   Comforters
+    
+*   Duvets
+    
+*   Towels
+    
+
+Shop Liz Claiborne ClassicsSave 80%Your choice: 1/10 ct. t.w. diamond hoops in sterling silver $25 ea., $49.99 ea. for non-Rewards members. reg $124.98 ea. 283-8005, 8007.  Limited Time Special. Engagement ringsWatchesGemstone jewelryMore ways to shop for springNext stop: the dance floorYour one-stop destination for taking prom to a place that’s uniquely yours.  Pinch-worthy picksCelebrate the luck of the stylish with charming  looks for St. Patrick’s Day!   Shop the local lookJCPenney is teaming up with fashion and lifestyle influencers to bring you a curated selection of their top picks. Check back every month to see new styles.  
+Shop VacationPack your bags with essentials for the whole family Selections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.†Buy two items at regular price, get a third item of equal or lesser value for free, while supplies last.  
+††Buy three items at regular price, get three items of equal or lesser value for free, while supplies last.  
+Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 31 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+
+*   $1935 - $3520after couponWorthington Perfect Trouser Modern Fit Bootcut Trouser(463)
+*   LIMITED TIME SPECIAL!
+    
+    $25 sale
+    
+    was $124.98 | 80% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver(129)
+*   $399 - $2399after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1661)
+*   $1359after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(316)
 *   LIMITED TIME SPECIAL!
     
     $10 sale
     
     was $49.98 | 80% offLIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver(231)
-*   $1759after couponwas $44 Stafford Mens Wrinkle Free Oxford Button Down Collar Dress Shirt(258)
-*   $1439 - $1999after couponwas $40 Gloria Vanderbilt® Amanda Jeans(1515)
-*   $111 - $560after couponXersion-Womens Performance Tee(1638)
-*   $1935 - $3520after couponWorthington Perfect Trouser Modern Fit Bootcut Trouser(463)
+*   ADVERTISED DEAL!
+    
+    $14999after couponwas $499.98 Womens 1 CT. T.W. Genuine Diamond Sterling Silver Cocktail Ring(23)
 
 Sponsored Items
 
-*   $1012after couponwas $15 Matrix Biolage Colorlast Deep Treatment Moisture Hair Treatment - 3.4 oz.(1)Add To Cart
-*   $560 sale
-    
-    was $7 | 20% offUmbra Touch Soap DishAdd To Cart
-*   $2111 - $3520after couponVanity Fair Beyond Comfort Wireless Comfort Full Figure Bra-71282(54)Add To Cart
-*   $2499
-    
-    Dr. Browns Options 5-pk Newborn Feeding SetAdd To Cart
-*   $59415after couponwas $6,990 JBW Jet Setter Mens 3 CT. T.W. Diamond Two-Tone Stainless Steel Watch JB-6213-D(231)Add To Cart
-*   $4999 sale
-    
-    was $100 | 50% offCirculon® Symmetry 10" &. 12" Hard-Anodized French Skillet Set(160)Add To Cart
-*   $2879 - $44474after couponwas $50 - $830 Covington Home Marathon Lattice Rectangular Rugs(1)Add To Cart
-*   $240
-    
-    Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set(192)Add To Cart
-*   $6399after couponwas $120 Farberware Cookstart 15-pc. Cookware Set(61)Add To Cart
-*   $7499
-    
-    Step2 Rain Showers Splash Pond Water Table(172)Add To Cart
 *   BEST VALUE!
     
-    $9999
+    $20
     
-    As Seen on TV Blue Diamond 10-Pc. Cookware Set(30)Add To Cart
-*   $1499
+    Umbra Touch Waste Basket(2)Add To Cart
+*   $62910after couponwas $6,990 JBW Jet Setter Mens 3 CT. T.W. Diamond Two-Tone Stainless Steel Watch JB-6213-D(231)Add To Cart
+*   $1012after couponwas $15 Matrix Biolage Colorlast Deep Treatment Moisture Hair Treatment - 3.4 oz.(2)Add To Cart
+*   BUY 2 GET 1 FOR FREE
     
-    Fisher-Price Laugh &. Learn Click &. Learn Laptop(10)Add To Cart
-*   $74 - $120
+    $2639 - $44
     
-    Donna Karan Cashmere Mist Eau De Parfum(236)Add To Cart
+    Vanity Fair Beyond Comfort Wireless Comfort Full Figure Bra-71282(54)Add To Cart
+*   $3599 clearance
+    
+    was $59.99 | 40% offLego Classic Large Creative Brick Box 10698(8)
+*   $7999
+    
+    Step2 Best Chef's Kitchen(39)Add To Cart
+*   $2499
+    
+    Dr. Brown’s® Newborn Feeding SetAdd To Cart
+*   $5599after couponwas $120 Farberware Cookstart 15-pc. Cookware Set(61)Add To Cart
+*   $4519 - $71736after couponwas $90 - $1,500 Covington Home Evan Rectangular Rug(21)Add To Cart
+*   $70
+    
+    Rachael Ray Create Delicious 12.5" Deep Skillet(58)Add To Cart
 *   $10499
     
     North States Superyard Colorplay 8-PanelAdd To Cart
 *   $20610after couponGoogle Nest Hello Video Doorbell(352)
-*   $1999 - $2799after couponwas $50 Lee® Flex Motion Trouser(7)Add To Cart
-*   $4999
+*   $4999 sale
     
-    Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill PanAdd To Cart
-*   $2399after couponwas $44 Wrangler® Relaxed Fit Original Cowboy Jeans(23)Add To Cart
-*   $45899after couponwas $669 Dyson® V8 Animal Cord-Free Vacuum(177)
+    was $100 | 50% offCirculon® Symmetry 10" &. 12" Hard-Anodized French Skillet Set(160)Add To Cart
+*   $240
+    
+    Ayesha Curry™ Home Collection 12-pc. Cookware Set(23)Add To Cart
+*   $5640 sale
+    
+    was $94 | 40% offClarks Womens Delana Jazz Strap SandalsAdd To Cart
+*   $2799after couponwas $50 Lee® Flex Motion Trouser(7)Add To Cart
 *   $30
     
     Michael Kors Wonderlust Rollerball(13)Add To Cart
+*   $74 - $120
+    
+    Donna Karan Cashmere Mist Eau De Parfum(236)Add To Cart
+*   $1499
+    
+    Fisher-Price Laugh &. Learn Click &. Learn Laptop(10)Add To Cart
+*   $2399after couponwas $44 Wrangler® Slim Fit Original Cowboy Cut Jeans(32)Add To Cart
 
 Shop and Save at JCPenney
 
