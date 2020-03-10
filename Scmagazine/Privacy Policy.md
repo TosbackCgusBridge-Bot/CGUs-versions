@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   City of Cartersville paid $380k ransom to restore access to files
-    *   SC Podcast: RSA, coronavirus and cybersecurity…
-    *   J.Crew says year-old breach exposed customer account info
-    *   First Look: MAFAZO Ignyte Assurance Platform
-    *   Shared responsibility evolves
+    *   Trump again nominates Ratcliffe for DNI post
+    *   CrowdStrike report: In a first, majority of attacks in 2019 were malware-free (video)
+    *   Coronavirus sparks phishing, disinformation, tabletop exercises and handwashing
+    *   Walgreens mobile app leaked PII, PHI on 'small percentage' of customers
+    *   SC Media RSA 2020 Video roundup
     
-    *   Accenture acquires Context Information Security
-    *   Shared responsibility evolves
-    *   White hat hackers find thousands of vulnerabilities: DoD
-    *   The hottest topic: Ransomware
+    *   Striving for diversity
+    *   Flaw impacts most new Intel chipsets
+    *   Cisco fixes three high-level bugs, but a fourth remains unpatched
+    *   Applying the 80/20 Rule to Cloud Security
     *   Election integrity preserved in fictitious city of Adversaria during Operation Blackout tabletop exercise
     
+    *   Former federal CIO: Efforts to ban Huawei ‘don’t make any sense to me’
+    *   Why Microsoft's decision to seek security advice from Linux is a good first step
     *   International Women’s Day 2020: Gains made in cybersecurity but the job is not done
     *   Coronavirus sparks phishing, disinformation, tabletop exercises and handwashing
     *   Virgin Media leaves database open, thousands of records exposed
-    *   Cisco fixes three high-level bugs, but a fourth remains unpatched
-    *   Accenture acquires Context Information Security
 
 Back to Top
 
@@ -264,4 +264,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+
+You can skip this ad in 2 seconds.
+
+Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
