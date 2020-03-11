@@ -7,12 +7,33 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   AG
+    *   Dyson Up to 40% Off
+    *   AG Men Up to 50% Off
+    *   Clarks
+    *   Jumping for Jackets: Styles Incl. Plus &. Petites
+    *   Fiesta Dinnerware &. More Starting at $15
+    *   Hampton Forge Cutlery &. Flatware Up to 55% Off
+    *   Kitchen Best Sellers Up to 70% Off
+    *   Sandals Under $40
+    *   Halogen Incl. Plus &. Petites
+    *   ZAC Zac Posen Handbags
+    *   Pet-Friendly Covers, Beds &. More
+    *   Erborian Korean Skin Therapy
+    *   Belts ft. MICHAEL Michael Kors
+    *   Magnanni Shoes &. Belts
+    *   14K Gold Jewelry Steals
+    *   Maison Forte
+    *   Waterproof Pairs &. More: Kids' Shoes ft. Native
+    *   Kids' Denim Up to 65% Off
+    *   Spring for These: Styles Under $20
     *   UGG
     *   UGG Men's Shoes &. More
-    *   Refresh Your Basics: Tops, Tees &. More
+    
     *   Dream of the Weekend: ASTR &. More Up to 60% Off
     *   JAG Jeans &. More
     *   UGG Sleep &. Lounge Starting at $30
+    *   Refresh Your Basics: Tops, Tees &. More
     *   Ruffled &. Floral Styles Under $50
     *   Seychelles
     *   Rip Curl Starting at $15
@@ -22,125 +43,96 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Spring Home Update: Decor, Accents &. More
     *   K-Beauty ft. Asamo, Jayjun &. More from $10
     *   OshKosh
-    *   Spring for These: Styles Under $20
     *   Gevril Watches Up to 85% Off
     *   Activewear Up to 70% Off
     *   Wüsthof Cutlery: Gourmet Collection Up to 60% Off
     *   Sandals, Pumps &. More Up to 60% Off
     *   Smart Watch Bands &. More Up to 70% Off
     *   Men's Shoes Up to 70% Off
-    *   Ramy Brook
-    *   PJ Salvage Under $45
-    
-    *   Cropped Pants and Shorts Incl. Plus &. Petites
-    *   Catherine Catherine Malandrino Incl. Plus &. Petites
-    *   KORKS &. Kork-Ease
     *   His Spring Staples: Short Sleeve Shirts Under $40
     *   Office Upgrades: Dress Shirts, Suiting &. More
-    *   Catherine Catherine Malandrino Shoes
     *   Hit Snooze: Bedding Essentials Up to 75% Off
-    *   Spring Forward: Sandals Up to 60% Off
+    
     *   Billion Dollar Brows: Brow Kits, Powders &. More
     *   French Connection Men's Shoes
     *   Baby Basics Up to 60% Off
     *   Sweet Dreams: Kids' Sleepwear Up to 60% Off
     *   Cool Kicks for Baby and Toddler Up to 55% Off
-    *   Designer Spotlight: Helmut Lang &. More
-    *   Casual to Classy: Spring Dresses
-    *   Diesel
-    *   Spring Skirts from $25 Incl. Plus &. Petites
-    *   Stateside Up to 60% Off
     *   Johnston &. Murphy Men
-    *   BLVD &. More Under $40
-    *   Steve Madden Handbags &. Accessories
-    *   Ready for Spring Rain: Joules &. More
-    *   Live-In Lounge: Sleep ft. Socialite
     *   Luseta Beauty Hair Care from $10
-    
-    *   Rockport
-    *   Fresh Finds: Sandals &. More Up to 60% Off
     *   2020 Art Trends: Pop Culture &. More
     *   Hair Tools Starting at $15
-    *   Ready, Set, Go: Kids' Sets Under $25
     *   Date Night: Shoes for Him
-    *   Make It Magical: Kids' Styles ft. Unicorns
     *   Best of Fragrance ft. Gucci, Chloe &. More
     *   Ambient, Accent or Task: Lighting for Every Room
     *   D24K by D'OR Skin Care
-    *   Our Favorite Beauty Brands Starting at $10
-    *   NxN Beauty: Cleansers &. More
     *   Decorative Pillows &. Throws from $10
     *   Free Shipping: Luxury Sheets, Comforters &. More
     *   Free Shipping: Storage for Every Room
-    *   Shun Cutlery: Sora &. Kanso Collections
     *   Space-Saving Solutions: Food Storage Sets
     *   Savvy Cie: Diamonds, Gems &. More Up to 80% Off
-    *   Function Meets Fashion: Utility Styles
-    *   Free Shipping: BergHOFF Up to 60% Off
-    *   Smart Kitchenware Starting at $15
-    *   Glass Water Bottles Up to 50% Off
-    *   Join the Bark Side: Star Wars Pet Apparel from $15
+    *   PJ Salvage Under $45
+    *   Cropped Pants and Shorts Incl. Plus &. Petites
+    *   Designer Spotlight: Helmut Lang &. More
+    *   Spring Skirts from $25 Incl. Plus &. Petites
 *   WomenShop Sale Events
     
+    *   AG
+    *   Dyson Up to 40% Off
+    *   Clarks
+    *   Jumping for Jackets: Styles Incl. Plus &. Petites
+    *   Sandals Under $40
+    *   Halogen Incl. Plus &. Petites
+    *   ZAC Zac Posen Handbags
+    *   Erborian Korean Skin Therapy
+    *   Belts ft. MICHAEL Michael Kors
+    *   14K Gold Jewelry Steals
+    *   Spring for These: Styles Under $20
     *   UGG
-    *   Refresh Your Basics: Tops, Tees &. More
     *   Dream of the Weekend: ASTR &. More Up to 60% Off
     *   JAG Jeans &. More
     *   UGG Sleep &. Lounge Starting at $30
+    *   Refresh Your Basics: Tops, Tees &. More
     *   Ruffled &. Floral Styles Under $50
+    
     *   Seychelles
     *   Marika Active
     *   K-Beauty ft. Asamo, Jayjun &. More from $10
-    *   Spring for These: Styles Under $20
     *   Gevril Watches Up to 85% Off
     *   Activewear Up to 70% Off
     *   Sandals, Pumps &. More Up to 60% Off
-    *   Ramy Brook
-    *   PJ Salvage Under $45
-    *   Cropped Pants and Shorts Incl. Plus &. Petites
-    *   Catherine Catherine Malandrino Incl. Plus &. Petites
-    *   KORKS &. Kork-Ease
-    *   Catherine Catherine Malandrino Shoes
-    *   Spring Forward: Sandals Up to 60% Off
-    
     *   Billion Dollar Brows: Brow Kits, Powders &. More
-    *   Designer Spotlight: Helmut Lang &. More
-    *   Casual to Classy: Spring Dresses
-    *   Spring Skirts from $25 Incl. Plus &. Petites
-    *   Stateside Up to 60% Off
-    *   BLVD &. More Under $40
-    *   Steve Madden Handbags &. Accessories
-    *   Ready for Spring Rain: Joules &. More
-    *   Live-In Lounge: Sleep ft. Socialite
     *   Luseta Beauty Hair Care from $10
-    *   Rockport
-    *   Fresh Finds: Sandals &. More Up to 60% Off
     *   Hair Tools Starting at $15
     *   Best of Fragrance ft. Gucci, Chloe &. More
     *   D24K by D'OR Skin Care
-    *   Our Favorite Beauty Brands Starting at $10
-    *   NxN Beauty: Cleansers &. More
     *   Savvy Cie: Diamonds, Gems &. More Up to 80% Off
-    *   Function Meets Fashion: Utility Styles
+    *   PJ Salvage Under $45
+    *   Cropped Pants and Shorts Incl. Plus &. Petites
+    *   Designer Spotlight: Helmut Lang &. More
+    *   Spring Skirts from $25 Incl. Plus &. Petites
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Handbags
     *   Jewelry
     *   Watches
     *   Lingerie &. Shapewear
+    *   Handbags
     *   Accessories
 *   MenShop Sale Events
     
+    *   AG Men Up to 50% Off
+    *   Magnanni Shoes &. Belts
+    *   Maison Forte
     *   UGG Men's Shoes &. More
     *   Rip Curl Starting at $15
     *   Gevril Watches Up to 85% Off
+    
     *   Men's Shoes Up to 70% Off
     *   His Spring Staples: Short Sleeve Shirts Under $40
     *   Office Upgrades: Dress Shirts, Suiting &. More
     *   French Connection Men's Shoes
-    *   Diesel
     *   Date Night: Shoes for Him
     
     Shop By Category
@@ -150,63 +142,61 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Waterproof Pairs &. More: Kids' Shoes ft. Native
+    *   Kids' Denim Up to 65% Off
     *   Make a Splash: Kids' Swimwear Up to 60% Off
     *   OshKosh
     *   Baby Basics Up to 60% Off
     *   Sweet Dreams: Kids' Sleepwear Up to 60% Off
     *   Cool Kicks for Baby and Toddler Up to 55% Off
-    *   Ready, Set, Go: Kids' Sets Under $25
-    *   Make It Magical: Kids' Styles ft. Unicorns
     
     Shop By Category
-    *   Baby
     *   Girls
+    *   Baby
     *   Boys
     *   Boys' Shoes
     *   Girls' Shoes
-    *   Toys
 *   HomeShop Sale Events
     
+    *   Dyson Up to 40% Off
+    *   Fiesta Dinnerware &. More Starting at $15
+    *   Hampton Forge Cutlery &. Flatware Up to 55% Off
+    *   Kitchen Best Sellers Up to 70% Off
+    *   Pet-Friendly Covers, Beds &. More
     *   Kitchen Gadgets &. Storage from $15
     *   Spring Home Update: Decor, Accents &. More
     *   Wüsthof Cutlery: Gourmet Collection Up to 60% Off
+    
     *   Smart Watch Bands &. More Up to 70% Off
     *   Hit Snooze: Bedding Essentials Up to 75% Off
     *   2020 Art Trends: Pop Culture &. More
     *   Ambient, Accent or Task: Lighting for Every Room
     *   Decorative Pillows &. Throws from $10
-    
     *   Free Shipping: Luxury Sheets, Comforters &. More
     *   Free Shipping: Storage for Every Room
-    *   Shun Cutlery: Sora &. Kanso Collections
     *   Space-Saving Solutions: Food Storage Sets
-    *   Free Shipping: BergHOFF Up to 60% Off
-    *   Smart Kitchenware Starting at $15
-    *   Glass Water Bottles Up to 50% Off
-    *   Join the Bark Side: Star Wars Pet Apparel from $15
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Cleaning &. Organization
     *   Electronic &. Tech Accessories
-    *   Bedding
     *   Pet Accessories
-    *   Luggage &. Travel
+    *   Bedding
     *   Bath
     *   Holiday Decorations
-    *   Outdoor Living
     *   Accent Furniture
+    *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Dyson Up to 40% Off
+    *   Erborian Korean Skin Therapy
     *   K-Beauty ft. Asamo, Jayjun &. More from $10
     *   Billion Dollar Brows: Brow Kits, Powders &. More
     *   Luseta Beauty Hair Care from $10
     *   Hair Tools Starting at $15
     *   Best of Fragrance ft. Gucci, Chloe &. More
     *   D24K by D'OR Skin Care
-    *   Our Favorite Beauty Brands Starting at $10
-    *   NxN Beauty: Cleansers &. More
     
     Shop By Category
     *   Hair Care
