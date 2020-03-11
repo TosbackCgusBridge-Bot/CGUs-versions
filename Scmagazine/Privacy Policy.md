@@ -1,4 +1,4 @@
-Skip to navigation Skip to main content Menu Close
+Skip to navigation Skip to main content Subscribe Menu Close
 
 *   NewsOpen Submenu
     *   News Back
@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Trump again nominates Ratcliffe for DNI post
-    *   CrowdStrike report: In a first, majority of attacks in 2019 were malware-free (video)
-    *   Coronavirus sparks phishing, disinformation, tabletop exercises and handwashing
-    *   Walgreens mobile app leaked PII, PHI on 'small percentage' of customers
-    *   SC Media RSA 2020 Video roundup
+    *   Trolley Talk, RSA 2020 edition: SC’s third annual cable car chats (full video)
+    *   Data-stealing ransomware hits parts maker for Tesla, Boeing and Lockheed Martin
+    *   COVID-19 boosts remote work, security concerns
+    *   SC Podcast: Mitigating Coronavirus: Purell and a good business continuity plan
+    *   Five reasons why COVID-19 will bolster the cyber-security industry
     
-    *   Striving for diversity
-    *   Flaw impacts most new Intel chipsets
-    *   Cisco fixes three high-level bugs, but a fourth remains unpatched
-    *   Applying the 80/20 Rule to Cloud Security
-    *   Election integrity preserved in fictitious city of Adversaria during Operation Blackout tabletop exercise
+    *   Cybersecurity: Poised for a giant leap forward
+    *   Super Tuesday prompts election security vigilance, government warning
+    *   SC Media’s complete coverage: Threat and Preparation
+    *   Microsoft Patch Tuesday finds 115 vulnerabilities patched, 26 critical
+    *   SC Podcast: Mitigating Coronavirus: Purell and a good business continuity plan
     
-    *   Former federal CIO: Efforts to ban Huawei ‘don’t make any sense to me’
-    *   Why Microsoft's decision to seek security advice from Linux is a good first step
-    *   International Women’s Day 2020: Gains made in cybersecurity but the job is not done
-    *   Coronavirus sparks phishing, disinformation, tabletop exercises and handwashing
-    *   Virgin Media leaves database open, thousands of records exposed
+    *   Years-long malware operation hides njRAT in cracked hacking tools
+    *   Jury spares accused Vault 7 leaker from espionage conviction
+    *   Two RSA attendees contract Coronavirus
+    *   SC Media’s complete coverage: Threat and Preparation
+    *   Microsoft Patch Tuesday finds 115 vulnerabilities patched, 26 critical
 
 Back to Top
 
@@ -264,8 +264,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
-
-You can skip this ad in 2 seconds.
-
-Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
