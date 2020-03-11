@@ -37,6 +37,7 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
+*   Shorts + Tanks
 *   Best Sellers
 *   Jeans Guide
 *   Online Only
@@ -65,6 +66,7 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
+*   Shorts + Tanks
 *   Best Sellers
 *   Jeans Guide
 *   Online Only
@@ -199,7 +201,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Extra 15% Off Tees** Use Code **DAY1 + Free Ship $50**
+**Extra 15% Off Shorts + Tanks** Use Code **DAY2 + Free Ship $50**
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -225,6 +227,7 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
+        *   Shorts + Tanks
         *   Best Sellers
         *   Jeans Guide
         *   Online Only
@@ -250,6 +253,7 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
+        *   Shorts + Tanks
         *   Best Sellers
         *   Jeans Guide
         *   Online Only
@@ -384,15 +388,15 @@ BAG
 
 SPRING BREAK EDITION
 
-DAY #1: TRAVEL TEES
+DAY #2: SHORT STORIES
 
 15% OFF YOUR
 
 ENTIRE PURCHASE
 
-WHEN YOU BUY TEES
+WHEN YOU BUY ANY SHORTS, TANKS OR CAMIS
 
-Use Code: DAY1
+Use Code: DAY2
 
 Shop Girls Shop Guys
 
@@ -406,15 +410,15 @@ BAG
 
 SPRING BREAK EDITION
 
-DAY #1: TRAVEL TEES
+DAY #2: SHORT STORIES
 
 15% OFF YOUR
 
 ENTIRE PURCHASE
 
-WHEN YOU BUY TEES
+WHEN YOU BUY ANY SHORTS, TANKS OR CAMIS
 
-Use Code: DAY1
+Use Code: DAY2
 
 Shop Girls Shop Guys
 
