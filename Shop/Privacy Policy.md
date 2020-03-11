@@ -63,7 +63,8 @@ Lenovo Explore Close
         *   Yoga A940 27” 4K Intel
         *   M90n Nano
         *   510A Tower Intel
-        *   T540 Gaming Towe
+        *   T540 Gaming Tower
+        *   310s Tower AMD
         
         Sale
         
@@ -178,6 +179,8 @@ Lenovo Explore Close
         *   P27h QHD USB-C
         *   P24q QHD
         *   Tiny-In-One 23.8" Gen3
+        *   S22e 21.5” LED Backlit LCD
+        *   T27i Wide FHD
         
         *   Shop New Monitors
         *   L27q QHD
@@ -318,7 +321,7 @@ Lenovo Explore Close
         
         Sale
         
-        Don't miss out on weekly deals on laptops, desktops, monitors &. more!
+        Save over 55% during our annual sale now
         
 *   Phones
 *   Data Center
@@ -1195,7 +1198,7 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Created with sketchtool.CHAT NOW
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Launches comment card in new windowFeedbackCreated with sketchtool.CHAT NOW
 
 How can we help
 
@@ -1205,4 +1208,4 @@ you today?
 
 Call us: 1-855-253-6686
 
-Check order status >Technical support or Repair status >Launches comment card in new windowFeedback
+Check order status >Technical support or Repair status >
