@@ -64,7 +64,7 @@ Search
     
     What We Do
     
-    *   Research
+    *   Research &. Advisory
     *   Conferences
     *   Consulting
     *   Digital Markets
@@ -78,7 +78,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 803 7854 1 855 803 7854
+    \+ 1 800 213 4848 + 1 800 213 4848
     
 
 *   Solutions By Function
@@ -127,7 +127,7 @@ Search
     *   Strategic Planning
     *   Top Insights
 *   What We Do
-    *   Research
+    *   Research &. Advisory
     *   Conferences
     *   Consulting
     *   Digital Markets
@@ -143,7 +143,7 @@ Search
 
 *   Become a Client
     
-    1 855 803 7854 1 855 803 7854
+    \+ 1 800 213 4848 + 1 800 213 4848
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
