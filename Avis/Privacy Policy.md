@@ -14,8 +14,8 @@ Toggle navigation Menu
 *   Avis Preferred
 *   Sign Up
 *   Log In
-*   Welcome,
-*   Welcome,
+*   WELCOME,
+*   WELCOME,
 
 Once you complete your profile you'll be able to skip the counter, earn points and more.
 
@@ -59,12 +59,16 @@ Complete your Profile
     *   US FAQs
     *   Worldwide Telephone Numbers
     *   TTY/TDD Information
+*   travel
+    *   travel
+    *   Business Travel Road Trip Games
+    *   Family Travel Road Trip Games
 
 *   Avis Preferred
 *   Sign Up
 *   Log In
 *   Welcome,
-*   Welcome,
+*   WELCOME,
 *   Feedback
 
 **AVIS RENT A CAR – AVIS APPS**
