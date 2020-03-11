@@ -40,7 +40,6 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
     *   A Quiet Place Part II (2020)
     *   Mulan (2020)
     *   The Lovebirds (2020)
-    *   Peter Rabbit 2: The Runaway
     *   The New Mutants
     *   Saint Maud
     *   Trolls World Tour
@@ -516,14 +515,14 @@ Offers
 
 New + Coming soon
 
-*   Gretel &. Hansel
-*   Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)
-*   Downhill (2020)
-*   Sonic the Hedgehog
-*   The Photograph (2020)
-*   Fantasy Island
-*   The Call of the Wild (2020)
-*   The Invisible Man (2020)
+*   Onward
+*   The Way Back (2020)
+*   Bloodshot (2020)
+*   I Still Believe
+*   A Quiet Place Part II (2020)
+*   Mulan (2020)
+*   The Lovebirds (2020)
+*   The New Mutants
 
 Experience + Explore
 
