@@ -10,7 +10,7 @@ skip to content skip to navigation skip to search
 *   Ship To
 *   Help Center
 
-Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Order History Edit Order Refer a Friend for 50% OFF Full Price Items! Bag 0
+Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Order History Edit Order Refer a Friend for 40% OFF Full Price Items! Bag 0
 
 *   Women
 *   Men
@@ -28,9 +28,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive up to 40% off your order!
+Receive 40% off 1 full-price item!
 
-code: WARMUP pin: PROMOTION DETAILS
+code: CHERRY pin: PROMOTION DETAILS
 
 Customer Service Menu
 
