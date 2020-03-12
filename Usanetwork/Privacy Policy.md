@@ -437,7 +437,3 @@ Follow us on Twitter Like us on Facebook instagram
 Footer menu Privacy Policy Do Not Sell My Personal Information Supply Chain Values Terms Of Service
 
 © 2020 NBCUNIVERSAL MEDIA, LLC.
-
-We and our partners use cookies on this site to improve our service, perform analytics, personalize advertising, measure advertising performance, and remember website preferences.  By using the site, you consent to these cookies. For more information on cookies including how to manage your consent visit our Cookie Policy.
-
-Accept
