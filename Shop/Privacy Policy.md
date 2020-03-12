@@ -1172,6 +1172,7 @@ SHOP BY INDUSTRY
 
 RESOURCES
 
+*   Gaming Community
 *   Resource Center
 *   Partner Portal
 *   LenovoPRO
