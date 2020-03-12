@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Trolley Talk, RSA 2020 edition: SC’s third annual cable car chats (full video)
+    *   Zero day found in Zoho One Desktop Central
+    *   CrowdStrike report: In a first, majority of attacks in 2019 were malware-free (video)
     *   Data-stealing ransomware hits parts maker for Tesla, Boeing and Lockheed Martin
-    *   COVID-19 boosts remote work, security concerns
-    *   SC Podcast: Mitigating Coronavirus: Purell and a good business continuity plan
-    *   Five reasons why COVID-19 will bolster the cyber-security industry
+    *   Can your network operator stop your smart washer from airing your dirty laundry?
+    *   Virgin Media leaves database open, thousands of records exposed
     
-    *   Cybersecurity: Poised for a giant leap forward
-    *   Super Tuesday prompts election security vigilance, government warning
+    *   Don’t get fooled again: Fake coronavirus emails impersonate the WHO to deliver FormBook trojan
+    *   City of Cartersville paid $380k ransom to restore access to files
+    *   KrØØk vulnerability could allow crooks to intercept WiFi data packets
+    *   Harman CISO: AI-based 'cyber analysts' can fix false alarm problem in EDR solutions
     *   SC Media’s complete coverage: Threat and Preparation
-    *   Microsoft Patch Tuesday finds 115 vulnerabilities patched, 26 critical
-    *   SC Podcast: Mitigating Coronavirus: Purell and a good business continuity plan
     
+    *   Malicious coronavirus map hides AZORult info-stealing malware
     *   Years-long malware operation hides njRAT in cracked hacking tools
     *   Jury spares accused Vault 7 leaker from espionage conviction
     *   Two RSA attendees contract Coronavirus
     *   SC Media’s complete coverage: Threat and Preparation
-    *   Microsoft Patch Tuesday finds 115 vulnerabilities patched, 26 critical
 
 Back to Top
 
@@ -264,4 +264,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
