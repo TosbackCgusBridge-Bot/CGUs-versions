@@ -25,8 +25,8 @@ Always Active
 
 Save SettingsAllow All Open navigation
 
-*   Sale Sign Mortgages
-*   Home Homes
+*   Home Mortgages
+*   Sale Sign Homes
 *   Bank Banking
 *   Credit Card Credit Cards
 *   Loan Loans
@@ -34,9 +34,9 @@ Save SettingsAllow All Open navigation
 *   Home Equity Home Equity
 *   House Insurance Insurance
 *   Personal Finance Personal Finance
-*   Retirement Retirement
+*   Retirement
 
-Main Menu Sale Sign Mortgages Mortgages overview
+Main Menu Home Mortgages Mortgages overview
 
 *   Get the Best Rates
 *   Mortgage rates
@@ -80,7 +80,7 @@ Main Menu Sale Sign Mortgages Mortgages overview
 *   How to refinance your mortgage
 *   Mortgage Lender Reviews
 
-Main Menu Home Homes Homes overview
+Main Menu Sale Sign Homes Homes overview
 
 *   Home Buying
 *   Determine your budget
@@ -337,7 +337,7 @@ Main Menu Personal Finance Personal Finance Personal Finance overview
 *   Real estate tips
 *   Personal finance glossary
 
-Main Menu Retirement Retirement Retirement overview
+Main Menu Retirement Retirement overview
 
 *   Get Advice
 *   Best Roth IRA accounts
