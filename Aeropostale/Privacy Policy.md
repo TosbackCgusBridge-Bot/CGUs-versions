@@ -37,7 +37,6 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
-*   Shorts + Tanks
 *   Best Sellers
 *   Jeans Guide
 *   Online Only
@@ -66,7 +65,6 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
-*   Shorts + Tanks
 *   Best Sellers
 *   Jeans Guide
 *   Online Only
@@ -118,11 +116,8 @@ Close submenu ( Guys Jeans ) Guys Jeans
 *   Slim Bootcut Jeans
 *   Athletic Skinny Jeans
 *   Loose Jeans
-*   Soft Spun
-*   Real Denim
 *   Flex Effects
 *   Max Stretch
-*   Carpenter Jeans
 
 Close submenu ( Aero World ) Aero World
 
@@ -157,6 +152,7 @@ Close submenu ( Girls ) Girls
 *   Mexico City
 *   Swim
 *   Flip Flops + Slides
+*   Spring Break
 
 Close submenu ( Guys ) Guys
 
@@ -168,6 +164,7 @@ Close submenu ( Guys ) Guys
 *   Destroyed Denim
 *   Music + Pop Culture
 *   Mexico City
+*   Spring Break
 
 Close submenu ( Clearance ) Clearance
 
@@ -201,7 +198,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Extra 15% Off Shorts + Tanks** Use Code **DAY2 + Free Ship $50**
+**Extra 15% Off Spring Break Shops** Use Code **DAY3 + Free Ship $50**
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -227,7 +224,6 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
-        *   Shorts + Tanks
         *   Best Sellers
         *   Jeans Guide
         *   Online Only
@@ -253,7 +249,6 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
-        *   Shorts + Tanks
         *   Best Sellers
         *   Jeans Guide
         *   Online Only
@@ -299,11 +294,8 @@ Menu Find a Store Aeropostale
         *   Slim Bootcut Jeans
         *   Athletic Skinny Jeans
         *   Loose Jeans
-        *   Soft Spun
-        *   Real Denim
         *   Flex Effects
         *   Max Stretch
-        *   Carpenter Jeans
     
 *   Aero World
     
@@ -333,6 +325,7 @@ Menu Find a Store Aeropostale
         *   Mexico City
         *   Swim
         *   Flip Flops + Slides
+        *   Spring Break
     
     *   Guys
         *   View All
@@ -343,6 +336,7 @@ Menu Find a Store Aeropostale
         *   Destroyed Denim
         *   Music + Pop Culture
         *   Mexico City
+        *   Spring Break
     
 *   Clearance
     
@@ -388,15 +382,15 @@ BAG
 
 SPRING BREAK EDITION
 
-DAY #2: SHORT STORIES
+DAY #3: VACAY VIBES
 
 15% OFF YOUR
 
 ENTIRE PURCHASE
 
-WHEN YOU BUY ANY SHORTS, TANKS OR CAMIS
+WHEN YOU BUY ANYTHING IN OUR SPRING BREAK SHOP
 
-Use Code: DAY2
+Use Code: DAY3
 
 Shop Girls Shop Guys
 
@@ -410,15 +404,15 @@ BAG
 
 SPRING BREAK EDITION
 
-DAY #2: SHORT STORIES
+DAY #3: VACAY VIBES
 
 15% OFF YOUR
 
 ENTIRE PURCHASE
 
-WHEN YOU BUY ANY SHORTS, TANKS OR CAMIS
+WHEN YOU BUY ANYTHING IN OUR SPRING BREAK SHOP
 
-Use Code: DAY2
+Use Code: DAY3
 
 Shop Girls Shop Guys
 
