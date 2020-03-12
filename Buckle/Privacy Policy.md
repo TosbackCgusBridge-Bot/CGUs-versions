@@ -1,10 +1,10 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Free backpack cooler with a $75 brand purchase. Shop now! Enter for your chance to win a $500 shopping experience. Count me in! Limited Time! Earn 2X points. Shop now!
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Free backpack cooler with a $75 brand purchase. Shop now! Enter for your chance to win a $500 shopping experience. Count me in! Limited Time! Earn 2X points. Shop now!
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-Enter for your chance to win a $500 shopping experience. Count me in!
+Limited Time! Earn 2X points. Shop now!
 
 *   Women
 *   Men
@@ -291,14 +291,14 @@ Enter for your chance to win a $500 shopping experience. Count me in!
         *   Men's Featured Brands
         
         *   Hey Dude
-        *   TOMS
-        *   Timberland®
-        *   Reef
         *   Steve Madden
-        *   Puma
-        *   New Balance
-        *   Crevo
-        *   Sorel
+        *   Kustom
+        *   Reef
+        *   Outpost Makers
+        *   Cobian
+        *   Departwest
+        *   Ariat
+        *   Timberland®
         *   Shop All
         
         Give a Buckle Gift card
@@ -422,7 +422,7 @@ Buckle does not monetize the personal information of any of our guests, but we d
 Buckle carefully selects third party companies and allows them to collect certain information (i.e. domain type, browser version, service provider and IP address) by placing cookies when you choose to visit Buckle.com. We use third parties to help us provide services related to payments, site activity, surveys, database maintenance, email administration, recruiting, sweepstakes and marketing. Following are examples of third parties that we may share your information with:
 
 *   Buckle uses Google Analytics to report marketing program effectiveness. This third party company analyzes the information it collects on our behalf and returns it back to Buckle.com through a secure web connection. Google Analytics is contractually prohibited from using our data for any other purposes. For more information about Google Analytics, the data it collects and how that service processes your information, please visit "How Google Uses Data When You Use Our Partners' Sites or Apps" at _Google - Privacy Policy_. For more information, including how to opt-out, consult Google's privacy policy by clicking the following link: _Google Privacy._
-*   Comenity Bank, who issues and owns the Buckle Card credit card accounts, and Buckle may share certain information about you. To view Comenity Bank’s privacy policy, click on the following link: _https://d.comenity.net/buckle/common/privacy/PrivacyLanding.xhtml_
+*   Comenity Bank, who issues and owns the Buckle Card credit card accounts, and Buckle may share certain information about you. To view Comenity Bank’s privacy policy, click on the following link: _https://d.comenity.net/buckle/common/privacy/Priva..._
 *   Buckle has partnered with talentReef, Inc. (“talentReef”) to assist with our recruitment process. If you create an account in Buckle.com’s “Job &. Careers” section or submit an online job application to Buckle.com, you will be providing your personal information directly to talentReef. For more information about privacy for Buckle’s job applicants, please visit Buckle’s Privacy and Security Policy for Applicants, which may be viewed by clicking this link: _Privacy Policy - Applicant_.
 *   To fill international orders, buckle.com partners with Pitney Bowes Global Ecommerce, formerly known as Borderfree, Inc. (“Borderfree”). Borderfree agrees not to sell, transfer or otherwise use your information other than for processing international shipments. Borderfree will collect your personal information during checkout and will provide this information to Buckle in connection with Borderfree performing its obligations under our agreement. Borderfree may also provide your personal information to certain service providers, including but not limited to delivery agents, customs brokers and fraud management parties, but will always limit the information provided to be that which is reasonably sufficient for those service providers to carry out their responsibilities. As of the effective date of this policy, Borderfree participates in and has certified its compliance with the EU-U.S. Privacy Shield Frameworks. For more information about Borderfree, the data it collects and how they process your information, please visit Borderfree’s privacy policy by clicking the following link: _Borderfree – Privacy Policy_.
 *   For marketing analytics and troubleshooting issues guests may experience on the website, Buckle.com uses Mouseflow, a third-party analytics tool, to track page content and click/touch, movement, scroll, and keystroke activity. You can opt-out at _https://mouseflow.com/opt-out/_.
@@ -581,6 +581,6 @@ Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
 
-  
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">.  
 I am over the age of 13  
 View Privacy Policy
