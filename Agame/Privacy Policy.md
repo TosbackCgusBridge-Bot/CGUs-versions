@@ -34,7 +34,7 @@ View more results
     *   Fireboy &. Watergirl 3: The Ice Temple
     *   Master Chess Multiplayer
     *   Bad Ice Cream 2
-    *   Slither.io
+    *   Stickman Fighter: Epic Battle
 *   Action
     
     Top Categories
@@ -60,10 +60,10 @@ View more results
     *   Stickman Warriors
     *   Gun Blood
     *   Electricman 2: Stickman Fighting Game
-    *   Exploration Lite: Mining
     *   SuperHOT
-    *   Bad Ice Cream 2
     *   Super Buddy Kick
+    *   Bad Ice Cream 2
+    *   Stickman Fighter: Epic Battle
 *   Adventure
     
     Top Categories
@@ -87,11 +87,11 @@ View more results
     *   Dumb Ways to Die: Original
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   World Crafts
-    *   Subway Surf
     *   Rio Rex
+    *   Subway Surf
     *   Adam and Eve 4
-    *   Red Bounce Ball 5
     *   Bob the Robber 4: Season 2 Russia
+    *   Red Bounce Ball 5
     *   Money Movers
 *   Puzzle
     
@@ -113,15 +113,15 @@ View more results
     *   Roll The Ball
     *   1001 Arabian Nights
     *   Bubble Shooter Classic
-    *   Block Wood Puzzle
     *   TenTrix
+    *   Block Wood Puzzle
     *   Bubble Shooter
     *   Gold Train FRVR
     *   Mahjong Link
     *   Line Puzzle
     *   Mahjong Connect Classic
     *   Free the Key
-    *   Word Wipe
+    *   Garden Tales
 *   Girls
     
     Top Categories
@@ -143,14 +143,14 @@ View more results
     *   High School Breakup Drama
     *   Goldie: Lip Injections
     *   Ellie: Get Ready With Me
+    *   Love Tester 3
     *   Beach Kiss
     *   Villains Inspiring Fashion Trends
-    *   Rocking World Tour Fashion
-    *   Love Tester 3
     *   Extreme Makeover
+    *   Rocking World Tour Fashion
     *   Dove Prom Dolly Dress Up
-    *   Baby Hazel Goes Sick
     *   Burger Chef: Cooking Story
+    *   Ellie Skin Doctor
 *   Racing
     
     Top Categories
@@ -173,10 +173,10 @@ View more results
     *   Xcross Madness
     *   Real Dog Racing Simulator
     *   Cars 3D
-    *   Solid Rider: Dirt Bike Game
-    *   Off-Roader V6
     *   Russian Car Driver
     *   Moto X3m 2
+    *   Off-Roader V6
+    *   Moto X3m 3
     *   City Car Stunts 2
     *   Horse Racing: Betting Game
     *   Hill Racing Challenge
@@ -200,13 +200,13 @@ View more results
     *   Table Tennis World Tour
     *   Archery World Tour
     *   Pool Clash: 8 Ball Billiards Snooker
-    *   Ultimate Boxing
     *   Xcross Madness
-    *   Subway Surf
+    *   Ultimate Boxing
     *   Stunt Skateboard 3D
+    *   Subway Surf
     *   Football Legends 2016
-    *   Horse Racing: Betting Game
     *   Moto X3m 3
+    *   Horse Racing: Betting Game
     *   Hunter 3D
 *   More
     
