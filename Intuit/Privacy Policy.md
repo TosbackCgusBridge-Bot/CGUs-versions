@@ -21,7 +21,20 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackDressesDress shoesHandbags &. walletsFashion jewelry 
+Near YouFind a StoreBack 
+
+*   Shop women
+
+*   Suits &. separates
+    
+*   Tops
+    
+*   Dress shoes
+    
+*   Handbags &. wallets
+    
+
+Shop women 
 
 *   Suits &. suit separates
 
@@ -52,68 +65,81 @@ Shop VacationPack your bags with essentials for the whole family Selections may 
 ††Buy three items at regular price, get three items of equal or lesser value for free, while supplies last.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   $1359after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(308)
-*   $111 - $560after couponXersion-Womens Performance Tee(1641)
-*   $1999after couponwas $44 Worthington Womens Long Sleeve Open Front Cardigan(1)
-*   $719 - $799after couponwas $13 a.n.a Womens V Neck Sleeveless Tank Top
-*   $1599 - $7199after couponwas $60 - $200 400tc Wrinkle Guard Deep Pocket Sheet Set - JCPenney Home(2882)
+*   $2799 - $5039after couponwas $50 - $90 JCPenney Home Wallace Blackout Grommet-Top Curtain Panel(214)
+*   $1599 - $3199after couponwas $30 - $100 Home Expressions Cotton Designs Printed Sheet Sets(82)
 *   $7999 - $8999after couponwas $260 - $300 JCPenney Home Audrey 10-pc. Comforter Set(5)
+*   $1935 - $3520after couponWorthington Perfect Trouser Modern Fit Bootcut Trouser(467)
+*   $111 - $560after couponXersion-Womens Performance Tee(1646)
+*   LIMITED TIME SPECIAL!
+    
+    $10 sale
+    
+    was $49.98 | 80% offLIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver(231)
 
 Sponsored Items
 
-*   $3599 clearance
-    
-    was $59.99 | 40% offLego Classic Large Creative Brick Box 10698(8)
-*   $2499
-    
-    Dr. Browns Options 5-pk Newborn Feeding SetAdd To Cart
-*   $2111after couponwas $44 Vanity Fair Beauty Back Wireless T-Shirt Comfort Full Coverage Bra-71380(68)Add To Cart
 *   $1552after couponwas $23 Matrix Biolage 3butter Control Day Cream Leave in Conditioner(6)
-*   $14670after couponwas $1,090 JBW Hendrix Men's 1/4 CT. T.W. Diamond Black Leather Strap Watch JB-6211L-G(69)Add To Cart
-*   $7499
+*   $1699
     
-    Step2 Rain Showers Splash Pond Water Table(172)Add To Cart
-*   $6420 sale
-    
-    was $107 | 40% offClarks Womens Jillian Leap Flat SandalsAdd To Cart
-*   $70
-    
-    Rachael Ray Create Delicious 12.5" Deep Skillet(58)Add To Cart
-*   $11999 sale
-    
-    was $240 | 50% offAyesha Curry™ Home Collection 12-pc. Cookware Set(23)Add To Cart
+    Dr. Browns 3-Pk. 8-Oz. Baby BottleAdd To Cart
+*   $62910after couponwas $6,990 JBW Jet Setter Mens 3 CT. T.W. Diamond Two-Tone Stainless Steel Watch JB-6213-D(232)Add To Cart
 *   $2879 - $44474after couponwas $50 - $830 Covington Home Marathon Lattice Rectangular Rugs(1)Add To Cart
-*   $20610after couponGoogle Nest Hello Video Doorbell(352)
+*   BUY 2 GET 1 FOR FREE
+    
+    $2519 - $44
+    
+    Vanity Fair® Beauty Back Full Figure Strapless Bra - 74380(134)Add To Cart
 *   $10499
     
     North States Superyard Colorplay 8-PanelAdd To Cart
-*   BEST VALUE!
+*   $240
     
-    $8
+    Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set(192)Add To Cart
+*   $7499
     
-    Umbra Corsa Soap DishAdd To Cart
-*   $18750after couponFarberware® Classic Series 15-pc. Stainless Steel Cookware Set(69)
-*   $5599after couponwas $120 Circulon 9" and 11" Skillet(5)Add To Cart
-*   $30
+    Step2 Rain Showers Splash Pond Water Table(172)Add To Cart
+*   $5640 sale
     
-    Michael Kors Wonderlust Rollerball(13)Add To Cart
-*   $575 - $2639after couponwas $48 Lee® Relaxed Fit Straight Leg Jeans - Tall(100)Add To Cart
-*   $1499
+    was $94 | 40% offClarks Womens Delana Jazz Strap Sandals(1)Add To Cart
+*   $80
     
-    Fisher-Price Laugh &. Learn Click &. Learn Laptop(10)Add To Cart
+    Ayesha Curry™ Home Collection 2-pc. 9.25" &. 11.5" Skillet Set(10)Add To Cart
+*   $2959after couponwas $60 Umbra Showcase Floating Shelf(8)Add To Cart
 *   $74 - $120
     
     Donna Karan Cashmere Mist Eau De Parfum(236)Add To Cart
-*   $2399after couponwas $44 Wrangler® Original Fit Cowboy Jeans(29)Add To Cart
+*   $20610after couponGoogle Nest Hello Video Doorbell(352)
+*   $1499
+    
+    Fisher-Price Laugh &. Learn Click &. Learn Laptop(10)Add To Cart
+*   $2399 - $2799after couponwas $50 Lee® Flex Motion Trouser(7)Add To Cart
+*   $4999
+    
+    Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill PanAdd To Cart
+*   $35999after couponwas $669 Dyson® V8 Animal Cord-Free Vacuum(177)
+*   $68 - $112
+    
+    Michael Kors Sexy Amber(49)Add To Cart
+*   $2399after couponwas $44 Wrangler® Original Fit Cowboy Jeans(138)Add To Cart
+*   BEST VALUE!
+    
+    $9999
+    
+    As Seen on TV Blue Diamond 10-Pc. Cookware Set(30)Add To Cart
 
 Shop and Save at JCPenney
 
-At JCPenney, we're always helping you find amazing deals on all your favorite items. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! We take pride in being a one-stop shop for all your needs, with as many options as you can imagine. Shop our mattresses and save on brands such as Sealy and Serta. You’ll find every size, from twin mattresses all the way to California king, and in the firmness you prefer. Don’t forget to stock up on sheets and adorn your bed with the stylish, cozy essentials you love. Shop the latest styles in women's apparel and check out the variety of women's dresses available at amazing prices. Save on men's hoodies and sweatshirts, women's sweaters and cardigans, fall accessories, and clothing for kids. Buy stylish new furniture and home décor from brands you love and trust. Save on the best couches and coffee tables from Signature Design by Ashley. Find a myriad of options for lighting and rugs, as well as those small accent pieces for walls and shelves.
+At JCPenney, we're always helping you find amazing deals on all your favorite spring fashion trends. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! We take pride in being a one-stop shop for all your needs, with as many options as you can imagine as well as your favorite brands such as Nike, Adidas, Levi’s, Dockers, and Vans. Shop the latest styles in women's clothing and check out the variety of women's blouses and sundresses available at amazing prices, including new floral dresses and polka dot dresses. Save on men's polos and khakis, girls dresses and capris, sunglasses, and Bermuda shorts for the family.
 
   
 
-For the tech savvy, we have a wide selection of cool gadgets that will make excellent gifts for any occasion. From brands like Sharper Image and Brookstone, bring your home into the future with smart home tech that’s sure to make life a little easier. Discover games for kids, fitness trackers, and smartwatches for the family. If having a piece of jewelry for every event is your thing, browse through our selection of fine jewelry. From gold necklaces to diamond earrings, men’s watches to silver jewelry, save big on the finest collections today. JCPenney is your one-stop shop for fantastic savings! Your journey towards better value starts and ends with us, online or at your closest JCPenney store!
+Shop our mattresses on sale and save on brands such as Sealy and Serta. You’ll find every size, from twin mattresses all the way to California king, and in the firmness you prefer. Don’t forget to stock up on sheets and adorn your bed with stylish comforter sets and the bright essentials you love. Buy stylish new furniture and home décor from brands you love and trust. Save on the best couches and coffee tables from Signature Design by Ashley. Find a myriad of options for lighting and rugs, as well as those small accent pieces for walls and shelves.
 
+  
+
+For the tech savvy, we have a wide selection of cool gadgets that will make excellent gifts for any occasion. From brands like Sharper Image and Brookstone, bring your home into the future with smart home tech that’s sure to make life a little easier. Discover games for kids, fitness trackers, and smartwatches for the family. And if having a piece of jewelry for every event is your thing, browse through our selection of fine jewelry. From engagement rings to diamond earrings, men’s watches to silver jewelry, save big on the finest collections today. JCPenney is your one-stop shop for fantastic savings. Your journey towards better value starts and ends with us – online or at your closest JCPenney store!
+
+  
   
 Add To Cart My Account
 
