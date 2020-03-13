@@ -118,6 +118,7 @@ Close submenu ( Guys Jeans ) Guys Jeans
 *   Loose Jeans
 *   Flex Effects
 *   Max Stretch
+*   Eco-Friendly
 
 Close submenu ( Aero World ) Aero World
 
@@ -296,6 +297,7 @@ Menu Find a Store Aeropostale
         *   Loose Jeans
         *   Flex Effects
         *   Max Stretch
+        *   Eco-Friendly
     
 *   Aero World
     
@@ -382,7 +384,7 @@ BAG
 
 SPRING BREAK EDITION
 
-DAY #3: VACAY VIBES
+DAY #4: VACAY VIBES
 
 15% OFF YOUR
 
@@ -404,7 +406,7 @@ BAG
 
 SPRING BREAK EDITION
 
-DAY #3: VACAY VIBES
+DAY #4: VACAY VIBES
 
 15% OFF YOUR
 
