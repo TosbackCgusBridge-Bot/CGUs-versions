@@ -17,25 +17,24 @@
 *   Polls
     *   Latest Polls
     *   Trump Job Approval
-    *   Democratic State Polls
-    *   National Democratic Polls
+    *   Democratic Primary Polls
     *   General Election Polls
-    *   Direction of Country
-    *   Senate Polls
     *   Generic Congressional Ballot
+    *   Senate Polls
+    *   Direction of Country
     *   Political Leaders Favorability
     *   State of the Union Polls
     *   All Latest Election Polls
 *   Election 2020
-    *   Democratic Delegate Count
-    *   Democratic Popular Vote
-    *   Nomination Betting Odds
-    *   Democratic Primary Polls
+    *   Democratic Nomination
+    *   Latest Delegate Count
+    *   Map - Dem Popular Vote
+    *   Democratic Betting Odds
     *   General Election Polls
     *   Election Calendar
     *   Senate Polls
     *   Governor Polls
-    *   Generic Congressional Ballot
+    *   Generic Ballot
     *   Latest Election 2020 Polls
 *   Video
 *   Writers
@@ -62,25 +61,24 @@
     *   Polls
         *   Latest Polls
         *   Trump Job Approval
-        *   Democratic State Polls
-        *   National Democratic Polls
+        *   Democratic Primary Polls
         *   General Election Polls
-        *   Direction of Country
-        *   Senate Polls
         *   Generic Congressional Ballot
+        *   Senate Polls
+        *   Direction of Country
         *   Political Leaders Favorability
         *   State of the Union Polls
         *   All Latest Election Polls
     *   RCP Election 2020
-        *   Democratic Delegate Count
-        *   Democratic Popular Vote
-        *   Nomination Betting Odds
-        *   Democratic Primary Polls
+        *   Democratic Nomination
+        *   Latest Delegate Count
+        *   Map - Dem Popular Vote
+        *   Democratic Betting Odds
         *   General Election Polls
         *   Election Calendar
         *   Senate Polls
         *   Governor Polls
-        *   Generic Congressional Ballot
+        *   Generic Ballot
         *   Latest Election 2020 Polls
     *   Video
     *   Writers
@@ -120,53 +118,53 @@
     *   About
     *   Media Kit
 
-*   _Joy Pullmann_: 'Trump's Chernobyl': Media Wuhan Virus Frenzy Fuels Panic
+*   _Richard Wolffe_: Script Flipped: Biden Alive, Trump Looking Vulnerable
     
-*   _Lili Loofbourow_: Why Trump Can't Just Tweet Through the Coronavirus
+*   _George Neumayr_: Dems Overestimate Biden's Success
     
-*   _Derek Thompson_: Give People Money Immediately
+*   _Seitz-Wald &. Talbot_: Biden's Delicate Dance to Win Over the Bernie Bros
     
-*   _Marc Lotter_: Joe Biden: The Democrats' Consolation Candidate
+*   _Tom Rogan_: XI Jinping's Coronavirus Body of Lies
     
-*   _Bill Schneider_: The Big Issue for Democrats Is Beating Donald Trump
+*   _Brian Bennett_: Trump Uses Speech to Blame Foreigners - Again
     
-*   _Jack Brewer_: Trump Is Delivering for Black Americans Where Dems Failed
+*   _Carl Cannon_: Viral Identity Politics
     
-*   _Howard Fineman_: Biden's Luck Finally Has Changed. Will It Hold?
+*   _Robert Armstrong_: Coronavirus Is Not a Crisis of Globalization
     
-*   _Bill de Blasio_: The Dem Primary Isn't Over. Neither Is Sanders' Candidacy
+*   _Shlaes &. Wesbury_: How to Get the Stock Market Back
     
-*   _Rich Lowry_: How China's Attempts to Suppress News Fueled Wuhan Virus
+*   _Benn Steil_: How Dems Dealt w/the Sanders of 1944 &. Put Truman In as VP
     
-*   _Ferdinando Giugliano_: Italy's Lockdown Tests the Limits of Democracy
+*   _Froma Harrop_: AOC Must Choose Between the Future &. Political Abyss
     
-*   _Zachary Karabell_: Virus Won't Be an Economic Catastrophe, Unless We Let It
+*   _Mark Hemingway_: Translator's Avowal to FBI of 'No Collusion'
     
-*   _Burns &. Martin_: With Wins in MI &. 3 Other States, Biden Takes Command
+*   _Michael Goodwin_: Trump Speech Exactly What Americans Needed to Hear
     
-*   _Amber Athey_: No, Biden Doesn't Look Ready for Trump
+*   _Julian Zelizer_: Last Night's Address Won't Erase Trump's Bumbling Response
     
-*   _Chris Cillizza_: Why Biden's Confrontation Over Guns Is Probably Good for Him
+*   _Philip Wegmann_: Coronavirus Shifts Trump to a War-Time Footing
     
-*   _Philip Wegmann_: To Sanders' Chagrin, Polls Got It Right in Michigan This Time
+*   _Omar Hassan_: COVID-19 Panic Will Bankrupt More People Than It Kills
     
-*   _Chris Buskirk_: Wuhan Virus Exposes Danger of Reliance Upon China
+*   _Andy Puzder_: Trump's Response Will Protect U.S. Workers &. Businesses
     
-*   _Robert Schlesinger_: Virus Crisis Requires Trump Be Everything He's Not
+*   _Madeleine Albright_: Biden Will Restore America's Stature in the World
     
-*   _Madison Gesiotto_: Donald Trump Was Right All This Time About China
+*   _Sen. Tom Cotton_: Joe Biden Is China's Choice for President
     
-*   _Noah Smith_: Best Virus Response? QE Plus Infrastructure Spending
+*   _Rep. James Clyburn_: Biden Not Perfect, But He's Best Dem for the Job
     
-*   _Anna North_: The Coronavirus Will Cause a Child Care Crisis in America
+*   _Jane McAlevey_: Bernie Sanders: Now More Than Ever
     
-*   _Madeline Osburn_: Trump's Pro-Life Power Play Reshapes Republican Party
+*   _Roger L. Simon_: Joe Biden's Coming Disappearing Act
     
-*   _Elisabeth Stone_: My Terrifying Abortion Before Roe v. Wade
+*   _Greg Sargent_: Trump Will Corrupt Everything in Sight to Beat Biden
     
-*   _Satya Marar_: Want to Save Public Schools? Embrace School Choice
+*   _John Solomon_: Memos Show FBI's Russia Collusion Case Fell Apart in Jan '17
     
-*   _Josh Hammer_: Judge's Slap at William Barr Was Shameful Politicking
+*   _Kristin Huang_: Wuhan Doctor Says Officials Muzzled Her for Sharing Report
     
 
 *   Previous
@@ -237,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Coronavirus Shifts Trump to a "Wartime" Footing
+*   Trump Officials Criticize China: Outbreak "Covered Up" for Months
+*   Full Video, Transcript of Trump's Oval Office Address
 *   To Sanders' Chagrin, Polls Got It Right in Michigan This Time
 *   IGs in Trump's Crosshairs: Watching the Watchdogs
-*   Pinsky: Virus Panic Must Stop, Press Needs to Be Held Accountable
-*   Pence and Coronavirus: Science, Faith &. History Come to the Fore
-*   Aide Defends Sanders' 2009 "Cash for Clunkers" Vote
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -255,27 +253,30 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
-*   2020 Democratic Presidential NominationEconomist/YouGov
-    *   Biden53
-    *   Sanders38
-    *   Gabbard2Biden +15
-*   General Election: Trump vs. BidenEconomist/YouGov
-    *   Biden47
-    *   Trump43Biden +4
-*   General Election: Trump vs. SandersEconomist/YouGov
-    *   Sanders47
-    *   Trump43Sanders +4
-*   Arizona Senate - McSally vs. KellyOH Predictive Insights
-    *   Kelly49
-    *   McSally42Kelly +7
+*   Florida Democratic Presidential PrimaryEmerson
+    *   Biden65
+    *   Sanders27
+    *   Gabbard2Biden +38
+*   Illinois Democratic PrimaryEmerson
+    *   Biden57
+    *   Sanders36
+    *   Gabbard2Biden +21
+*   Ohio Democratic Presidential PrimaryEmerson
+    *   Biden57
+    *   Sanders35
+    *   Gabbard1Biden +22
+*   Florida Democratic Presidential PrimaryUNF
+    *   Biden66
+    *   Sanders22
+    *   Gabbard1Biden +44
 
 More Latest Polls In The News
 
+*   Bernie Sanders: I Think Biden Can Beat Trump, But I Have The "Stronger" Campaign To Do That
+*   Rep. Porter vs. CDC Director: Coronavirus Testing Costs $1,330, Administration Can Make It Free
+*   Limbaugh: Remember The Swine Flu Panic? 60 Million Americans Infected, 300,000 Hospitalized
 *   Don Lemon Blows Up On Kasich For Not Hating Trump's Coronavirus Address: "I Thought He Did Fine"
 *   Acosta: Trump Calling Coronavirus A "Foreign Virus" Smacks Of "Xenophobia," Stephen Miller Wrote This
-*   Trump on Coronavirus: Most Comprehensive Effort To Confront A "Foreign Virus" In Modern History
-*   Infectious Disease "Medical Detective" Michael Osterholm: Coronavirus "Is Going To Unfold For Months To Come"
-*   Bernie Sanders Not Dropping Out: You Can't Win The Presidency With Just Support From Older Voters
 
 *   Politics
 *   Policy
