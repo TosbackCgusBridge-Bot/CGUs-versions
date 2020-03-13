@@ -18,11 +18,11 @@
     *   NOT SURE WHICH PRODUCT IS RIGHT FOR YOU?
     *   Take the Quiz
     
-    It's Sleep Awareness Week
+    Versa 2
     
-    Shop sleep trackers
+    Charge 3
     
-    Versa 2- with sleep score
+    Inspire HR
     
 *   TECHNOLOGY
     
@@ -110,11 +110,11 @@ Press Enter to submit Tap to search
     *   NOT SURE WHICH PRODUCT IS RIGHT FOR YOU?
     *   Take the Quiz
     
-    It's Sleep Awareness Week
+    Versa 2
     
-    Shop sleep trackers
+    Charge 3
     
-    Versa 2- with sleep score
+    Inspire HR
     
 *   TECHNOLOGY
     
