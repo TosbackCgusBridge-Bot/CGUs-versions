@@ -1,6 +1,7 @@
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5P4V6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Skip to main content
 
-*   *   Sign In
+*   *   For Business
+    *   Sign In
     *   Try Now
 *   *   Online Learning
         *   Individuals
@@ -24,7 +25,7 @@
         *   Next Architecture
         *   Next Economy
         *   All Articles
-    *   Our Approach
+    *   What’s New
 
 Privacy Policy
 
