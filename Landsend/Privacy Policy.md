@@ -28,9 +28,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive 40% off 1 full-price item!
+Receive up to 40% off your order!
 
-code: CHERRY pin: PROMOTION DETAILS
+code: SHOWERS pin: PROMOTION DETAILS
 
 Customer Service Menu
 
