@@ -54,7 +54,7 @@ Close Navigation Menu
     
     *   How I Built This with Guy Raz
     *   Wait Wait... Don't Tell Me!
-    *   Planet Money
+    *   TED Radio Hour
     *   Hidden Brain
     
     *   More Shows &. Podcasts
