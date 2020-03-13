@@ -204,6 +204,8 @@ Get a Demo
 
 Copyright All Rights Reserved © 2008-2020
 
+This website uses cookies. By clicking “Accept” you agree to the use of cookies. Accept Learn MorePrivacy &. Cookies Policy Close Necessary Always Enabled
+
 X
 
 The Right Content
@@ -232,4 +234,4 @@ The Right Match
 
 Utilizing a service to reveal what 3rd party services a visitor’s presumed company uses on their site. We then compare those against our own list of integrations, and if there are any matches, present those logos here.
 
-X This website uses cookies. By clicking “Accept” you agree to the use of cookies. Accept Learn MorePrivacy &. Cookies Policy Close Necessary Always Enabled
+X
