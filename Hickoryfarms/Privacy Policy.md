@@ -9,7 +9,8 @@ close
     *   Gift Towers &. Crates
     *   California Gift Baskets
     
-    Occasions*   Spring Gifts
+    Occasions*   Easter Gifts
+    *   Spring Gifts
     *   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
@@ -81,7 +82,7 @@ close
     *   Thank You Gifts
     *   Congratulations
     *   Thinking of You
-    *   Sympathy GiftsMost Popular Spring Gifts Gifts for All Occasions
+    *   Sympathy GiftsMost Popular Easter Gifts Gifts for All Occasions
 *   Business Gifts
     View All Categories Shop by Category*   Thank You Gifts
     *   Birthday Gifts
@@ -91,7 +92,7 @@ close
     *   Sympathy GiftsMost Popular Premium Wine Gifts
 *   Sale
 
-1.800.753.8558 Business Gifts Skip to content Menu 0 Sign In Search Catalog Catalog Navigation close
+1.800.753.8558 Business Gifts Free standard shipping on select gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation close
 
 *   Gift Baskets
     
@@ -102,7 +103,8 @@ close
     *   Gift Towers &. Crates
     *   California Gift Baskets
     
-    Occasions*   Spring Gifts
+    Occasions*   Easter Gifts
+    *   Spring Gifts
     *   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
@@ -174,7 +176,7 @@ close
     *   Thank You Gifts
     *   Congratulations
     *   Thinking of You
-    *   Sympathy GiftsMost Popular Spring Gifts Gifts for All Occasions
+    *   Sympathy GiftsMost Popular Easter Gifts Gifts for All Occasions
 *   Business Gifts
     View All Categories Shop by Category*   Thank You Gifts
     *   Birthday Gifts
