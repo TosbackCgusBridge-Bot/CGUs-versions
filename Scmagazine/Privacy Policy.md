@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Zero day found in Zoho One Desktop Central
-    *   CrowdStrike report: In a first, majority of attacks in 2019 were malware-free (video)
-    *   Data-stealing ransomware hits parts maker for Tesla, Boeing and Lockheed Martin
-    *   Can your network operator stop your smart washer from airing your dirty laundry?
-    *   Virgin Media leaves database open, thousands of records exposed
+    *   How privacy and security affect product design
+    *   Accenture acquires Context Information Security
+    *   Cisco fixes three high-level bugs, but a fourth remains unpatched
+    *   Super Tuesday prompts election security vigilance, government warning
+    *   Protect your domain and protect your customers: The top three domain-based attack tactics
     
-    *   Don’t get fooled again: Fake coronavirus emails impersonate the WHO to deliver FormBook trojan
-    *   City of Cartersville paid $380k ransom to restore access to files
-    *   KrØØk vulnerability could allow crooks to intercept WiFi data packets
-    *   Harman CISO: AI-based 'cyber analysts' can fix false alarm problem in EDR solutions
-    *   SC Media’s complete coverage: Threat and Preparation
-    
-    *   Malicious coronavirus map hides AZORult info-stealing malware
-    *   Years-long malware operation hides njRAT in cracked hacking tools
-    *   Jury spares accused Vault 7 leaker from espionage conviction
+    *   Coronavirus impact. When flexible working is the new normal
+    *   Microsoft Patch Tuesday finds 115 vulnerabilities patched, 26 critical
+    *   SC Product Reviews: Data loss prevention
+    *   Cisco fixes three high-level bugs, but a fourth remains unpatched
     *   Two RSA attendees contract Coronavirus
-    *   SC Media’s complete coverage: Threat and Preparation
+    
+    *   Necurs botnet operation dismantled. millions of malicious domains disabled
+    *   Fed report castigates U.S. ability to fend off a cyberattack, suggests major reforms
+    *   Bipartisan bill re-ups USA Freedom reauthorizations, aims at surveillance reform
+    *   Microsoft issues out-of-band fix for leaked 'EternalDarkness' bug
+    *   Intel issues nine security advisories
 
 Back to Top
 
