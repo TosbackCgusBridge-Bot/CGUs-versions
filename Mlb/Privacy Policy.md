@@ -1,4 +1,4 @@
-Globe iconLogin iconRecap iconSearch iconTickets icon ScoresSchedule2020 Spring Training2020 Regular Season2019 PostseasonImportant DatesProbable PitchersTeam by Team ScheduleNational BroadcastsSunday Night BroadcastsStandings2020 Spring Training Standings2019 Regular Season Standings2019 Wild Card StandingsAdvanced StandingsStats2019 Regular Season Stats2019 Postseason Stats2019 Sortable Team StatsSpring Training Sortable StatsStatcast LeadersBaseball SavantMilestone TrackerTop Prospect StatsOffseason LeaguesGlossaryPlayersPlayers A to ZInjury UpdatesDepth ChartsTransactionsStarting LineupsProspect RankingsMobile Player AlertsMLB Players AssociationProbable PitchersVideoIn this sectionNEW: Advanced Video SearchWatch Live GamesCondensed GamesGame RecapsMLB in 60 SecondsDaily FastCastInstant ReplayMLB NetworkPodcastsBusiness of BaseballFeaturedMost PopularHome RunsWalk-OffsTop Defensive PlaysGrand SlamsBest of StatcastExtra Inning MomentsChatting CageLegendary MomentsCarry the FreightNewsIn this sectionProbable PitchersTop ProspectsInjury UpdatesTransactionsStarting LineupsHall of FameLongformAwardsMLB DraftAll-Star GameFeaturedPipelinePlay BallField of DreamsLondon SeriesMLB PhotosOffbeatGlossaryRare FeatsHot Stove TrackerBest of the DecadePlay BallPlayBall.orgHank Aaron InvitationalVideosPhotosNewsPitch SmartPlay Ball Near YouStates PlayMLB TOURRBIPitch, Hit &. RunJr. Home Run DerbyMLB PipelineYouth AcademiesBreakthrough SeriesElite Development InvitationalUSA BaseballUSA SoftballDream SeriesTrailblazer SeriesFantasyMLB Beat the StreakYahoo Fantasy BaseballR.B.I. Baseball 19MLB Home Run Derby 2020MLB Line DriveCloser ReportInjury ReportProspect RankingsMLB ChampionsAppsMLBMLB BallparkMiLB First PitchR.B.I. Baseball 19MLB Home Run Derby 2020MLB Beat the StreakMLB Line DriveMLB FAQsMLB Ballpark FAQsTicketsGeneral Ticket InformationSeason TicketsFan ValueStubHub.comWorld Baseball ClassicInternational EventsMLB.TVBuy MLB.TVBuy MLB AudioWatch MLB.TVMLB.TV 2020 Spring Training ScheduleWatch MLB.TV Official TrailerBuy MLB.TV Gift CardsMLB.TV Supported DevicesMLB.TV with Extra InningsMLB.TV Help Center/FAQMLB.TV Blackouts FAQContact UsForgot Password?ShopAuctionAuthenticationAutographedJerseysCapsMen'sWomen'sKidsCollectibles &. MemorabiliaHome &. OfficeGift CertificatesEuropean ShopWinePhoto StoreTeamsAL EastBaltimore OriolesBaltimoreBoston Red SoxBostonNew York YankeesNY YankeesTampa Bay RaysTampa BayToronto Blue JaysTorontoAL CentralChicago White SoxChi White SoxCleveland IndiansClevelandDetroit TigersDetroitKansas City RoyalsKansas CityMinnesota TwinsMinnesotaAL WestHouston AstrosHoustonLos Angeles AngelsLA AngelsOakland AthleticsOaklandSeattle MarinersSeattleTexas RangersTexasNL EastAtlanta BravesAtlantaMiami MarlinsMiamiNew York MetsNY MetsPhiladelphia PhilliesPhiladelphiaWashington NationalsWashingtonNL CentralChicago CubsChi CubsCincinnati RedsCincinnatiMilwaukee BrewersMilwaukeePittsburgh PiratesPittsburghSt. Louis CardinalsSt. LouisNL WestArizona DiamondbacksArizonaColorado RockiesColoradoLos Angeles DodgersLA DodgersSan Diego PadresSan DiegoSan Francisco GiantsSan FranciscoENENES日本語한국어Log InTicketsMLB.TVShopScoresScheduleStandingsStatsPlayersVideoNewsPlay BallFantasyAppsTeamsEN MLB Privacy Policy Privacy Policy The Privacy Policy has been updated as of January 1, 2020. For details on exercising rights under the California Consumer Privacy Act, click here.
+Globe iconLogin iconRecap iconSearch iconTickets icon NewsIn this sectionProbable PitchersTop ProspectsInjury UpdatesTransactionsStarting LineupsHall of FameLongformAwardsMLB DraftAll-Star GameFeaturedPipelinePlay BallField of DreamsLondon SeriesMLB PhotosOffbeatGlossaryRare FeatsHot Stove TrackerBest of the DecadeScoresSchedule2019 PostseasonImportant DatesProbable PitchersTeam by Team ScheduleNational BroadcastsSunday Night BroadcastsStandings2020 Spring Training Standings2019 Regular Season Standings2019 Wild Card StandingsAdvanced StandingsStats2019 Regular Season Stats2019 Postseason Stats2019 Sortable Team StatsSpring Training Sortable StatsStatcast LeadersBaseball SavantMilestone TrackerTop Prospect StatsOffseason LeaguesGlossaryPlayersPlayers A to ZInjury UpdatesDepth ChartsTransactionsStarting LineupsProspect RankingsMobile Player AlertsMLB Players AssociationProbable PitchersVideoIn this sectionNEW: Advanced Video SearchWatch Live GamesCondensed GamesGame RecapsMLB in 60 SecondsDaily FastCastInstant ReplayMLB NetworkPodcastsBusiness of BaseballFeaturedMost PopularHome RunsWalk-OffsTop Defensive PlaysGrand SlamsBest of StatcastExtra Inning MomentsChatting CageLegendary MomentsCarry the FreightPlay BallPlayBall.orgHank Aaron InvitationalVideosPhotosNewsPitch SmartPlay Ball Near YouStates PlayMLB TOURRBIPitch, Hit &. RunJr. Home Run DerbyMLB PipelineYouth AcademiesBreakthrough SeriesElite Development InvitationalUSA BaseballUSA SoftballDream SeriesTrailblazer SeriesFantasyMLB Beat the StreakYahoo Fantasy BaseballR.B.I. Baseball 19MLB Home Run Derby 2020MLB Line DriveCloser ReportInjury ReportProspect RankingsMLB ChampionsAppsMLBMLB BallparkMiLB First PitchR.B.I. Baseball 19MLB Home Run Derby 2020MLB Beat the StreakMLB Line DriveMLB FAQsMLB Ballpark FAQsTicketsGeneral Ticket InformationSeason TicketsFan ValueStubHub.comWorld Baseball ClassicInternational EventsMLB.TVBuy MLB.TVBuy MLB AudioWatch MLB.TVWatch MLB.TV Official TrailerBuy MLB.TV Gift CardsMLB.TV Supported DevicesMLB.TV with Extra InningsMLB.TV Help Center/FAQMLB.TV Blackouts FAQContact UsForgot Password?ShopAuctionAuthenticationAutographedJerseysCapsMen'sWomen'sKidsCollectibles &. MemorabiliaHome &. OfficeGift CertificatesEuropean ShopWinePhoto StoreTeamsAL EastBaltimore OriolesBaltimoreBoston Red SoxBostonNew York YankeesNY YankeesTampa Bay RaysTampa BayToronto Blue JaysTorontoAL CentralChicago White SoxChi White SoxCleveland IndiansClevelandDetroit TigersDetroitKansas City RoyalsKansas CityMinnesota TwinsMinnesotaAL WestHouston AstrosHoustonLos Angeles AngelsLA AngelsOakland AthleticsOaklandSeattle MarinersSeattleTexas RangersTexasNL EastAtlanta BravesAtlantaMiami MarlinsMiamiNew York MetsNY MetsPhiladelphia PhilliesPhiladelphiaWashington NationalsWashingtonNL CentralChicago CubsChi CubsCincinnati RedsCincinnatiMilwaukee BrewersMilwaukeePittsburgh PiratesPittsburghSt. Louis CardinalsSt. LouisNL WestArizona DiamondbacksArizonaColorado RockiesColoradoLos Angeles DodgersLA DodgersSan Diego PadresSan DiegoSan Francisco GiantsSan FranciscoENENES日本語한국어Log InTicketsMLB.TVShopNewsScoresScheduleStandingsStatsPlayersVideoPlay BallFantasyAppsTeamsEN MLB Privacy Policy Privacy Policy The Privacy Policy has been updated as of March 12, 2020. For details on exercising rights under the California Consumer Privacy Act, click here.
 
 **PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING THIS WEBSITE, APPLICATION OR ANY OTHER MLB ADVANCED MEDIA, L.P. PRODUCT OR SERVICE.**
 
@@ -70,7 +70,7 @@ Our Access to Your Contacts. When you use our Games, we may solicit your permiss
 
 Third Party Cookies and Web Beacons. Network Advertisers. We allow and use select third parties, such as those who deliver advertisements, content, or social networking or which provide other services associated with the MLB Properties, to collect data and/or serve ads when you visit MLB Properties. We may also make available certain data you have given to us (e.g., IP address) or that we have collected through publicly available means to third parties engaged in targeting advertisements on the MLB Properties including for use in accordance with such third party's privacy policy. Network advertisers may use information (not including your name, address, email address or telephone number) about your visits to MLB Properties in order to provide advertisements about goods and services of interest to you. This may happen through permission given to such third parties to set cookies, web beacons or similar technologies in certain locations within the MLB Properties, including but not limited to certain of our emails. Third party companies that manage and deliver advertisements to websites and applications such as ours are commonly referred to as "network advertisers." A permitted network advertiser may use cookies, web beacons or similar technologies to collect information about your interaction with the MLB Properties in order to tailor certain advertisements and content delivered within the MLB Properties and on other websites within such network advertiser's ad network. These companies may also use non-cookie technologies to recognize your computer or device and/or to collect and record information about your web surfing activity including your activities on or off MLB Properties. Please keep in mind that your web browser may not permit you to block the use of these non-cookie technologies, and those browser settings that block cookies may have no effect on such techniques. You may learn more about network advertising industry practices and opt out of targeted behavioral advertising from many major third party network advertisers and to know your choices about not having this information used by these companies via the information and tools available here and here.
 
-To facilitate the activity described above, we use a third party to convert your email address into a unique code (hashed email address), which is then provided to the advertiser.
+To facilitate the activity described above, we use a third party to convert your email address into a unique code (hashed email address or telephone number), which is then provided to the advertiser.
 
 Other Advertising. We share certain data with Social Networks (as defined below) such as Twitter, Facebook, LinkedIn and Snapchat to allow us to target existing users and customers with highly relevant advertising campaigns. We will not share your name, address, email address or telephone number for the purposes of such campaigns. Instead, a unique code (hashed email address) is shared with the applicable Social Network in order for that identifier to be matched against existing users of the relevant Social Network and to identify potentially relevant audiences for targeted advertising. We use services such as LinkedIn Matched Audiences and Facebook Custom Audiences for these purposes. If you do not wish to receive advertisements in this way, please follow the links in the paragraph above.
 
@@ -155,11 +155,14 @@ Category of Personal Information Collected Source(s) from which that information
 *   Ticketing partners (e.g. Tickets.com, Ticketmaster)
 *   E-commerce partners (e.g. MLBShop.com, Auctions, Fanatics)
 *   Social Media
+*   Partners and licensees
 
 *   Order fulfillment
 *   Subscription management
 *   Personalization
 *   Promotions
+
+Partners and licensees
 
 Data processing and analytics vendors
 
@@ -173,11 +176,14 @@ Email address
 *   Ticketing partners
 *   E-commerce partners
 *   Social Media
+*   Partners and licensees
 
 *   Order fulfillment
 *   Subscription management
 *   Security and access control
 *   Provision of services purchased or requested
+
+Partners and licensees
 
 Data processing and analytics vendors
 
@@ -199,9 +205,12 @@ None Street Address
 *   Ticketing partners
 *   E-commerce partners
 *   Social Media
+*   Partners and licensees
 
 *   Order fulfillment
 *   Subscription management
+
+Partners and licensees
 
 Data processing and analytics vendors
 
@@ -214,6 +223,7 @@ Telephone number
 *   MLB Properties
 *   Ticketing partners
 *   E-commerce partners
+*   Partners and licensees
 
 *   Order fulfillment
 *   Subscription management
@@ -230,10 +240,13 @@ Birth date / age
 *   Ticketing partners
 *   E-commerce partners
 *   Social Media
+*   Partners and licensees
 
 *   Security and access control
 *   Provision of services purchased or requested
 *   Legal compliance
+
+Partners and licensees
 
 Data processing and analytics vendors
 
@@ -336,15 +349,10 @@ The entities producing the event or activity, if other than an MLB Entity Prefer
 
 *   MLB Properties
 *   Ticketing partners
+*   Partners and licensees
 
 *   Providing services, products or subscriptions
 *   Tailoring products and services in accordance with preferences
-
-Data processing and analytics vendors Data collected from third parties
-
-*   Data and analytics vendors providing aggregated and anonymized data (e.g. Adobe, Acxiom, Google, Facebook, Amazon)
-
-*   Provider and improve services and products
 
 Data processing and analytics vendors
 
