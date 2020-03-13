@@ -36,7 +36,6 @@ Menutimeanddate.comSearch ×Site / ArticlesCity / CountrySocial ×Share this pag
     *   Calendar Info
     *   Calendar 2020
     *   Calendar 2021
-    *   Leap Year 2020
     *   Monthly Calendar
     *   Printable Calendar (PDF)
     *   Add Your Own Calendar Events
@@ -232,9 +231,9 @@ Time and Date AS
 Kanalsletta 4  
 NO-4033 Stavanger  
 Norway  
-webmaster@timeanddate.comBecome a Supporter
+webmaster@timeanddate.com Become a Supporter
 
-Help us keep up the good work. More
+Help us keep up the good work.
 
 timeanddate.com
 
