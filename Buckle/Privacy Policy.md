@@ -1,10 +1,10 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Free backpack cooler with a $75 brand purchase. Shop now! Enter for your chance to win a $500 shopping experience. Count me in! Limited Time! Earn 2X points. Shop now!
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Free backpack cooler with a $75 brand purchase. Shop now! Enter for your chance to win a $500 shopping experience. Count me in!
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-Limited Time! Earn 2X points. Shop now!
+Free backpack cooler with a $75 brand purchase. Shop now!
 
 *   Women
 *   Men
@@ -365,6 +365,7 @@ SearchSubmitTerms &. Conditions
 *   Sweepstakes Official Rules
 *   Accessibility Policy
 *   Buckle Select Terms &. Conditions
+*   Buckle Gift Card Terms
 
 Services
 
@@ -581,6 +582,6 @@ Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">.  
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.  
 I am over the age of 13  
 View Privacy Policy
