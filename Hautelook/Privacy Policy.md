@@ -7,8 +7,31 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   National Jewel Day: Effy Jewelry Up to 65% Off
+    *   MICHELE Watches
+    *   Active Swim &. More Up to 60% Off
+    *   DL1961 Up to 65% Off
+    *   Z By Zella Incl. Plus
+    *   Dresses &. Separates Incl. Plus &. Petites
+    *   Mario Badescu Sets from $20
+    *   Travis Mathew Starting at $15
+    *   Dolce Vita Up to 60% Off
+    *   Ready for Easter: Dresses Incl. Plus &. Petites
+    *   Printed Tops Up to 70% Off Incl. Plus &. Petites
+    *   Sperry Men
+    *   Surf-Inspired Men's Styles ft. Quiksilver
+    *   Hop to It: Kids' Easter Styles, Toys &. More
+    *   Rain Shoes &. More ft. Sperry Up to 60% Off
+    *   Sperry Kids
+    *   Quality Sleep: Luxe Pillow &. Sheet Sets
+    *   Kenneth Cole Reaction Men
+    *   Tosca Blu &. Golo
+    *   Bathroom Decor &. Accessories Under $25
+    *   Best in Show: Pet Accessories We Love
+    *   Melissa &. Doug
     *   Trina Turk Up to 65% Off
     *   Schutz Up to 60% Off
+    
     *   Bruno Magli Men
     *   Robert Graham Up to 60% Off
     *   It Knits: Tops Up to 70% Off Incl. Plus &. Petites
@@ -26,21 +49,14 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Top Toy Brands ft. Mattel &. Fisher-Price
     *   True Religion Kids Up to 60% Off
     *   Perfect for Easter: Nine West Girls Under $30
-    *   Spring for These: Styles Under $20
-    *   Max Studio Incl. Plus &. Petites
     *   Urban Decay Up to 50% Off
-    *   New Balance
-    
-    *   Emory Park from $20
     *   New Balance Men
     *   Tahitian Pearl Jewelry &. More Under $90
-    *   Spring Bottoms Up to 70% Off Incl. Plus &. Petites
     *   New Balance Kids
     *   Free Shipping: Dreamy Bedding Up to 65% Off
-    *   Spring Staples: Wedges, Espadrilles &. More
     *   adidas Kids' Activewear &. More
-    *   On-Trend Shoes: Snake Print, Clear &. More
     *   Samsonite Luggage
+    
     *   Skin Care Tools Up to 65% Off
     *   Men's Resort Shoes ft. Onia
     *   Candles, Notebooks &. More from $15
@@ -48,89 +64,79 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Fiesta Dinnerware &. More Starting at $15
     *   Hampton Forge Cutlery &. Flatware Up to 55% Off
     *   Kitchen Best Sellers Up to 70% Off
-    *   AG
-    *   AG Men Up to 50% Off
     *   Pet-Friendly Covers, Beds &. More
     *   Erborian Korean Skin Therapy
     *   Magnanni Shoes &. Belts
-    *   14K Gold Jewelry Steals
-    
     *   Maison Forte
-    *   Dyson Up to 40% Off
-    *   Kids' Denim Up to 65% Off
     *   Kitchen Gadgets &. Storage from $15
     *   Spring Home Update: Decor, Accents &. More
     *   K-Beauty ft. Asamo, Jayjun &. More from $10
     *   Wüsthof Cutlery: Gourmet Collection Up to 60% Off
-    *   Smart Watch Bands &. More Up to 70% Off
-    *   Refresh Your Basics: Tops, Tees &. More
-    *   Billion Dollar Brows: Brow Kits, Powders &. More
-    *   2020 Art Trends: Pop Culture &. More
-    *   Ambient, Accent or Task: Lighting for Every Room
-    *   Space-Saving Solutions: Food Storage Sets
-    *   Designer Sunglasses Under $100 ft. MCM
-    *   Ella Moss Swim
+    *   Max Studio Incl. Plus &. Petites
+    *   Spring Bottoms Up to 70% Off Incl. Plus &. Petites
     *   Jumping for Jackets: Styles Incl. Plus &. Petites
-    *   Halogen Incl. Plus &. Petites
-    *   Waterproof Pairs &. More: Kids' Shoes ft. Native
+    *   Dyson Up to 40% Off
+    *   Smart Watch Bands &. More Up to 70% Off
     *   Hit Snooze: Bedding Essentials Up to 75% Off
-    *   Designer Spotlight: Helmut Lang &. More
-    *   Spring Skirts from $25 Incl. Plus &. Petites
+    *   2020 Art Trends: Pop Culture &. More
 *   WomenShop Sale Events
     
+    *   National Jewel Day: Effy Jewelry Up to 65% Off
+    *   MICHELE Watches
+    *   Active Swim &. More Up to 60% Off
+    *   DL1961 Up to 65% Off
+    *   Z By Zella Incl. Plus
+    *   Dresses &. Separates Incl. Plus &. Petites
+    *   Mario Badescu Sets from $20
+    *   Dolce Vita Up to 60% Off
+    *   Ready for Easter: Dresses Incl. Plus &. Petites
+    *   Printed Tops Up to 70% Off Incl. Plus &. Petites
+    *   Rain Shoes &. More ft. Sperry Up to 60% Off
+    *   Tosca Blu &. Golo
     *   Trina Turk Up to 65% Off
     *   Schutz Up to 60% Off
     *   It Knits: Tops Up to 70% Off Incl. Plus &. Petites
     *   Mirenesse Australia Starting at $10
+    
     *   Breeze into Spring: J.O.A. &. More
     *   In Bloom by Jonquil Under $35
     *   Season's Best: Leather Jackets Up to 65% Off
     *   Handmade in Bali: Devata Sterling &. 18K Jewelry
     *   Aimee Kestenberg &. More Up to 55% Off
     *   Eurosoft Up to 60% Off
-    *   Spring for These: Styles Under $20
-    *   Max Studio Incl. Plus &. Petites
     *   Urban Decay Up to 50% Off
-    *   New Balance
-    *   Emory Park from $20
     *   Tahitian Pearl Jewelry &. More Under $90
-    *   Spring Bottoms Up to 70% Off Incl. Plus &. Petites
-    
-    *   Spring Staples: Wedges, Espadrilles &. More
-    *   On-Trend Shoes: Snake Print, Clear &. More
     *   Samsonite Luggage
     *   Skin Care Tools Up to 65% Off
-    *   AG
     *   Erborian Korean Skin Therapy
-    *   14K Gold Jewelry Steals
-    *   Dyson Up to 40% Off
     *   K-Beauty ft. Asamo, Jayjun &. More from $10
-    *   Refresh Your Basics: Tops, Tees &. More
-    *   Billion Dollar Brows: Brow Kits, Powders &. More
-    *   Designer Sunglasses Under $100 ft. MCM
-    *   Ella Moss Swim
+    *   Max Studio Incl. Plus &. Petites
+    *   Spring Bottoms Up to 70% Off Incl. Plus &. Petites
     *   Jumping for Jackets: Styles Incl. Plus &. Petites
-    *   Halogen Incl. Plus &. Petites
-    *   Designer Spotlight: Helmut Lang &. More
-    *   Spring Skirts from $25 Incl. Plus &. Petites
+    *   Dyson Up to 40% Off
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
+    *   Shoes
     *   Handbags
-    *   Accessories
     *   Lingerie &. Shapewear
+    *   Watches
 *   MenShop Sale Events
     
+    *   Travis Mathew Starting at $15
+    *   Sperry Men
+    *   Surf-Inspired Men's Styles ft. Quiksilver
+    *   Quality Sleep: Luxe Pillow &. Sheet Sets
+    *   Kenneth Cole Reaction Men
     *   Bruno Magli Men
     *   Robert Graham Up to 60% Off
+    
     *   Robert Graham Shoes
     *   Lorenzo Uomo Up to 60% Off
     *   New Balance Men
     *   Samsonite Luggage
     *   Men's Resort Shoes ft. Onia
-    *   AG Men Up to 50% Off
     *   Magnanni Shoes &. Belts
     *   Maison Forte
     
@@ -140,24 +146,28 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Hop to It: Kids' Easter Styles, Toys &. More
+    *   Sperry Kids
+    *   Melissa &. Doug
     *   Top Toy Brands ft. Mattel &. Fisher-Price
     *   True Religion Kids Up to 60% Off
     *   Perfect for Easter: Nine West Girls Under $30
     *   New Balance Kids
     *   adidas Kids' Activewear &. More
     *   Chronicle Books
-    *   Kids' Denim Up to 65% Off
-    *   Waterproof Pairs &. More: Kids' Shoes ft. Native
     
     Shop By Category
     *   Toys
     *   Boys
-    *   Girls
     *   Girls' Shoes
     *   Boys' Shoes
+    *   Girls
     *   Baby
 *   HomeShop Sale Events
     
+    *   Quality Sleep: Luxe Pillow &. Sheet Sets
+    *   Bathroom Decor &. Accessories Under $25
+    *   Best in Show: Pet Accessories We Love
     *   Free Shipping: Storage Must-Haves from $15
     *   Stylish Tech: Wireless Earbuds &. Headphones
     *   Free Shipping: Dreamy Bedding Up to 65% Off
@@ -165,46 +175,44 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Candles, Notebooks &. More from $15
     *   Fiesta Dinnerware &. More Starting at $15
     *   Hampton Forge Cutlery &. Flatware Up to 55% Off
+    
     *   Kitchen Best Sellers Up to 70% Off
     *   Pet-Friendly Covers, Beds &. More
-    
-    *   Dyson Up to 40% Off
     *   Kitchen Gadgets &. Storage from $15
     *   Spring Home Update: Decor, Accents &. More
     *   Wüsthof Cutlery: Gourmet Collection Up to 60% Off
+    *   Dyson Up to 40% Off
     *   Smart Watch Bands &. More Up to 70% Off
-    *   2020 Art Trends: Pop Culture &. More
-    *   Ambient, Accent or Task: Lighting for Every Room
-    *   Space-Saving Solutions: Food Storage Sets
     *   Hit Snooze: Bedding Essentials Up to 75% Off
+    *   2020 Art Trends: Pop Culture &. More
     
     Shop By Category
-    *   Home Decor
     *   Kitchen &. Tabletop
+    *   Home Decor
     *   Electronic &. Tech Accessories
     *   Bedding
     *   Pet Accessories
     *   Cleaning &. Organization
     *   Luggage &. Travel
-    *   Outdoor Living
     *   Bath
+    *   Outdoor Living
     *   Holiday Decorations
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Mario Badescu Sets from $20
     *   Mirenesse Australia Starting at $10
     *   Urban Decay Up to 50% Off
     *   Skin Care Tools Up to 65% Off
     *   Erborian Korean Skin Therapy
-    *   Dyson Up to 40% Off
     *   K-Beauty ft. Asamo, Jayjun &. More from $10
-    *   Billion Dollar Brows: Brow Kits, Powders &. More
+    *   Dyson Up to 40% Off
     
     Shop By Category
     *   Makeup
     *   Skin Care
-    *   Bath &. Body
     *   Fragrance
+    *   Bath &. Body
     *   Tools &. Accessories
     *   Makeup Bags
     *   Hair Care
