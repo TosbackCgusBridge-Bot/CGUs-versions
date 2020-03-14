@@ -78,7 +78,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 604 1467 1 855 604 1467
+    1 855 754 5588 1 855 754 5588
     
 
 *   Solutions By Function
@@ -143,7 +143,7 @@ Search
 
 *   Become a Client
     
-    1 855 604 1467 1 855 604 1467
+    1 855 754 5588 1 855 754 5588
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
