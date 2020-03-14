@@ -130,6 +130,8 @@ Autodesk logo
 
 Keyboard **ALT + g** to toggle grid overlay
 
+A message from Autodesk about COVID-19
+
 READY TO MAKE ANYTHING
 
 We've combined our most powerful software and services to create one simple package, for one great price—Autodesk industry collections.
