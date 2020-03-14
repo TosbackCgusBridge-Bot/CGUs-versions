@@ -2,7 +2,7 @@
 *   Scores
 *   Schedule
 *   Standings
-*   Combine
+*   Draft
 *   Highlights
 *   NFL 100
 
