@@ -73,9 +73,9 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie News: New Batmobile Revealed, ‘Doctor Strange’ Director Teams With Chris Evans and More Read More
-    *   The Week in Movie Trailers: Disney’s ‘Artemis Fowl,’ Tom Hanks in ‘Greyhound’ and More Read More
-    *   Disney's 'Mulan': The Biggest Differences Between the Animated and Live-Action Movies Read More
+    *   The Week in Movie News: Karyn Kusama to Direct ‘Dracula,’ Disney Finds Its ‘Peter Pan &. Wendy’ and More Read More
+    *   The Week in Movie Trailers: Pixar’s ‘Soul,’ Disney’s ‘Jungle Cruise,’ Marvel’s ‘Black Widow’ and More Read More
+    *   Kelly Reichardt Discusses 'First Cow,' a Western Unlike Any Other Read More
     
     Explore Content
     *   Movie Reviews
