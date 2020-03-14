@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Friday, March 13, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Saturday, March 14, 2020  
 
 DEBKAfile
 
@@ -46,6 +46,26 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   IDF postpones training and drills for reservists
+    
+    Mar 13, 2020 @ 22:56
+    
+*   Trump declares national emergency as coronavirus spreads
+    
+    Mar 13, 2020 @ 22:52
+    
+*   Gantz demands Knesset vote for new Speaker
+    
+    Mar 13, 2020 @ 13:24
+    
+*   Synagogues to comply with directives for containing coronavirus
+    
+    Mar 13, 2020 @ 11:11
+    
+*   Coronavirus: Nearly 2,000 medical staff in quarantine
+    
+    Mar 13, 2020 @ 10:55
+    
 *   Israel closes schools with immediate effect
     
     Mar 12, 2020 @ 17:09
@@ -62,42 +82,78 @@ Breaking news
     
     Mar 12, 2020 @ 07:35
     
-*   New Al Qods chief on first visit to Syria
+*   IDF postpones training and drills for reservists
     
-    Mar 11, 2020 @ 21:24
+    Mar 13, 2020 @ 22:56
     
-*   Public gatherings held down to 100. Israel cofirms 82 coronavirus cases
+*   Trump declares national emergency as coronavirus spreads
     
-    Mar 11, 2020 @ 20:21
+    Mar 13, 2020 @ 22:52
     
-*   Orly Levi withdraws support from Gantz-led minority government
+*   Gantz demands Knesset vote for new Speaker
     
-    Mar 10, 2020 @ 22:14
+    Mar 13, 2020 @ 13:24
     
-*   As coronavirus cases rise to 61, Israel adds restrictions
+*   Synagogues to comply with directives for containing coronavirus
     
-    Mar 10, 2020 @ 21:02
+    Mar 13, 2020 @ 11:11
     
-*   Ten more Israelis contract coronavirus, raising total to 39
+*   Coronavirus: Nearly 2,000 medical staff in quarantine
     
-    Mar 08, 2020 @ 23:02
+    Mar 13, 2020 @ 10:55
+    
+*   Israel closes schools with immediate effect
+    
+    Mar 12, 2020 @ 17:09
+    
+*   Coronavirus cases in Israel pass 100 mark
+    
+    Mar 12, 2020 @ 10:17
+    
+*   Trump travel ban from Europe shocks global markets
+    
+    Mar 12, 2020 @ 08:56
+    
+*   Two US, 1 British military personnel killed in Katyusha attack on US Taji base in Iraq
+    
+    Mar 12, 2020 @ 07:35
     
 
-*   Public gatherings held down to 100. Israel cofirms 82 coronavirus cases
+*   Israel closes schools with immediate effect
     
-    Mar 11, 2020 @ 20:21
+    Mar 12, 2020 @ 17:09
     
-*   Orly Levi withdraws support from Gantz-led minority government
+*   Coronavirus cases in Israel pass 100 mark
     
-    Mar 10, 2020 @ 22:14
+    Mar 12, 2020 @ 10:17
     
-*   As coronavirus cases rise to 61, Israel adds restrictions
+*   Trump travel ban from Europe shocks global markets
     
-    Mar 10, 2020 @ 21:02
+    Mar 12, 2020 @ 08:56
     
-*   Ten more Israelis contract coronavirus, raising total to 39
+*   Two US, 1 British military personnel killed in Katyusha attack on US Taji base in Iraq
     
-    Mar 08, 2020 @ 23:02
+    Mar 12, 2020 @ 07:35
+    
+*   IDF postpones training and drills for reservists
+    
+    Mar 13, 2020 @ 22:56
+    
+*   Trump declares national emergency as coronavirus spreads
+    
+    Mar 13, 2020 @ 22:52
+    
+*   Gantz demands Knesset vote for new Speaker
+    
+    Mar 13, 2020 @ 13:24
+    
+*   Synagogues to comply with directives for containing coronavirus
+    
+    Mar 13, 2020 @ 11:11
+    
+*   Coronavirus: Nearly 2,000 medical staff in quarantine
+    
+    Mar 13, 2020 @ 10:55
     
 *   Israel closes schools with immediate effect
     
@@ -115,41 +171,21 @@ Breaking news
     
     Mar 12, 2020 @ 07:35
     
-*   New Al Qods chief on first visit to Syria
+*   IDF postpones training and drills for reservists
     
-    Mar 11, 2020 @ 21:24
+    Mar 13, 2020 @ 22:56
     
-*   Public gatherings held down to 100. Israel cofirms 82 coronavirus cases
+*   Trump declares national emergency as coronavirus spreads
     
-    Mar 11, 2020 @ 20:21
+    Mar 13, 2020 @ 22:52
     
-*   Orly Levi withdraws support from Gantz-led minority government
+*   Gantz demands Knesset vote for new Speaker
     
-    Mar 10, 2020 @ 22:14
+    Mar 13, 2020 @ 13:24
     
-*   As coronavirus cases rise to 61, Israel adds restrictions
+*   Synagogues to comply with directives for containing coronavirus
     
-    Mar 10, 2020 @ 21:02
-    
-*   Ten more Israelis contract coronavirus, raising total to 39
-    
-    Mar 08, 2020 @ 23:02
-    
-*   Israel closes schools with immediate effect
-    
-    Mar 12, 2020 @ 17:09
-    
-*   Coronavirus cases in Israel pass 100 mark
-    
-    Mar 12, 2020 @ 10:17
-    
-*   Trump travel ban from Europe shocks global markets
-    
-    Mar 12, 2020 @ 08:56
-    
-*   Two US, 1 British military personnel killed in Katyusha attack on US Taji base in Iraq
-    
-    Mar 12, 2020 @ 07:35
+    Mar 13, 2020 @ 11:11
     
 
 123PrevNext
