@@ -43,7 +43,7 @@ Last modified: January 31, 2020
 
 **INTRODUCTION**
 
-System1 LLC (including its subsidiaries) respects your privacy and we are committed to protecting it through our compliance with this privacy policy (the “Policy”) in connection with the online websites, applications and services (the “Services”) that we operate. This Policy also applies to our subsidiaries, including Infospace Holdings LLC, Qool Media Holdings LLC, Dotzup Holdings LLC, Concourse Media Holdings LLC, MapQuest Holdings LLC and Privacy One Group Ltd. (the “System1 Parties”).
+System1 LLC (including its subsidiaries) respects your privacy and we are committed to protecting it through our compliance with this privacy policy (the “Policy”) in connection with the online websites, applications and services (the “Services”) that we operate. This Policy also applies to the following System1 subsidiaries, including Infospace Holdings LLC, Qool Media Holdings LLC, Dotzup Holdings LLC, Concourse Media Holdings LLC and MapQuest Holdings LLC (the “System1 Parties”).
 
 We respect your privacy and we are committed to protecting it through our compliance with this Policy. HowStuffWorks is a division of Infospace Holdings LLC, which is a System1 LLC subsidiary.
 
