@@ -84,8 +84,8 @@ Serving: **United States**
     *   East
     *   National
 *   Events
-    *   Farm Futures Business Summit 2020
-    *   New York Farm Show
+    *   Farm Progress Show
+    *   Husker Harvest Days
 
 Whoops!
 
