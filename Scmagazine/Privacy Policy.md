@@ -215,23 +215,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   How privacy and security affect product design
-    *   Accenture acquires Context Information Security
-    *   Cisco fixes three high-level bugs, but a fourth remains unpatched
-    *   Super Tuesday prompts election security vigilance, government warning
-    *   Protect your domain and protect your customers: The top three domain-based attack tactics
-    
-    *   Coronavirus impact. When flexible working is the new normal
-    *   Microsoft Patch Tuesday finds 115 vulnerabilities patched, 26 critical
-    *   SC Product Reviews: Data loss prevention
-    *   Cisco fixes three high-level bugs, but a fourth remains unpatched
-    *   Two RSA attendees contract Coronavirus
-    
-    *   Necurs botnet operation dismantled. millions of malicious domains disabled
     *   Fed report castigates U.S. ability to fend off a cyberattack, suggests major reforms
-    *   Bipartisan bill re-ups USA Freedom reauthorizations, aims at surveillance reform
+    *   White hat hackers find thousands of vulnerabilities: DoD
+    *   COVID-19 boosts remote work, security concerns
+    *   Coronavirus sparks phishing, disinformation, tabletop exercises and handwashing
+    *   Russian cybercrime forums seen selling malware-sabotaged COVID-19 map
+    
     *   Microsoft issues out-of-band fix for leaked 'EternalDarkness' bug
+    *   Former federal CIO: Efforts to ban Huawei ‘don’t make any sense to me’
+    *   Australia's privacy watchdog sues Facebook over Cambridge Analytica
     *   Intel issues nine security advisories
+    *   Microsoft Patch Tuesday finds 115 vulnerabilities patched, 26 critical
+    
+    *   Russian cybercrime forums seen selling malware-sabotaged COVID-19 map
+    *   Ransomware halts health organization's ability to inform public on COVID-19
+    *   Coronavirus tracking app locks up Android phones for ransom
+    *   SC Media’s complete coverage: Threat and Preparation
+    *   Necurs botnet operation dismantled. millions of malicious domains disabled
 
 Back to Top
 
