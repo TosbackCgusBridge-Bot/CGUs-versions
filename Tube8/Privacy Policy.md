@@ -227,17 +227,6 @@ Close Upload ★VIP
 
 **Search Suggestions** start typing for suggestions ... **Suggested Pornstars** start typing for suggestions ... **Suggested Channels** start typing for suggestions ... **Suggested Keywords**
 
-*   fuck
-*   friends hot mom
-*   step mom
-*   my friends hot
-*   teen anal
-*   cumshot compilation
-*   moms teach sex
-*   asian
-*   cock tight pussy
-*   massage
-
 **Recent Searches** Clear
 
 JOIN VIP FOR $1
