@@ -88,7 +88,7 @@ Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-4%  2% 
+3%  2% 
 
 Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -118,7 +118,7 @@ Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-4%  Arrest Records &. Driving Infractions
+3%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -261,53 +261,7 @@ Twitter 2% 
     
 *   Show Less ...
 
-Instagram 2% 
-
-*   \_\_privacypolicy - \_\_privacypolicy
-    
-*   Privacy Policy. - privacypolicy.6974
-    
-*   Privacy Policy - insta\_privacy\_policy
-    
-*   Privacy\_Policy - protected.privacy
-    
-*   Show More ...
-
-*   Privacy Policy - mrprivacypolicy
-    
-*   privacy\_policy\_ - privacy\_policy\_
-    
-*   privacy policy - privacypolicy5831
-    
-*   Privacy Policy - turkyturky667
-    
-*   Privacy policy - privacydoor7
-    
-*   privacy policy updatedߑ젭 ayambuttermilk
-    
-*   Konstantin - \_privacy.\_.policy\_
-    
-*   NO CONSENT To Privacy Policy - dmvbigdummy
-    
-*   Karen McDowall - privacy\_\_\_policy
-    
-*   INSTAGRAM PRIVACY POLICY - insta\_help\_privacy
-    
-*   InstagramRep. - privacy\_policy\_direct\_
-    
-*   Privacy Policy ߦ렯 Best Photos - bookonpage
-    
-*   privacy\_policy\_privacy\_terms - privacy\_policy\_privacy\_terms
-    
-*   Djavid - \_privacy\_policy
-    
-*   Mark Smith - privacy\_policy\_insta
-    
-*   Find Me - weveupdatedourprivacypolicy
-    
-*   Show Less ...
-
-Myspace 2% 
+Instagram 3%  Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -331,7 +285,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Social Profiles 4%  Pinterest 2% 
+Social Profiles 3%  Pinterest 2% 
 
 *   Privacy policy - maaenterprise033
     
@@ -340,7 +294,7 @@ Social Profiles 4%  Pinterest 2% 
 *   Learn about instant apps Google Play Instant Apps are Play Store apps you can open before requiring - girlfriendnomore1
     
 
-Wikipedia 1% 
+Wikipedia 2% 
 
 *   Privacy policy
     
@@ -376,7 +330,7 @@ Wikipedia 1% 
     
 *   Show Less ...
 
-Music 3%  Photo Albums 1% 
+Music 3%  Photo Albums 2% 
 
 *   Help
     
@@ -406,23 +360,13 @@ Music 3%  Photo Albums 1% 
     
 *   Show Less ...
 
-Web Search 3%  Images 1% 
+Web Search 3%  Images 2% 
 
 14
 
 20
 
-20
-
 9
-
-facebookx
-
-twitterx
-
-instagramx
-
-myspacex
 
 3
 
@@ -430,7 +374,13 @@ facebookx
 
 twitterx
 
-instagramx
+myspacex
+
+pinterestx
+
+facebookx
+
+twitterx
 
 myspacex
 
