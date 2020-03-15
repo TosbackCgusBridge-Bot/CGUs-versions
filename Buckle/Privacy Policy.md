@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Free backpack cooler with a $75 brand purchase. Shop now!
+Enter for your chance to win a $500 shopping experience. Count me in!
 
 *   Women
 *   Men
@@ -581,3 +581,7 @@ Did you mean to add items to your wish list?
 Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
+
+  
+I am over the age of 13  
+View Privacy Policy
