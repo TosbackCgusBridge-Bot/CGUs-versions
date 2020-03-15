@@ -215,17 +215,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Fed report castigates U.S. ability to fend off a cyberattack, suggests major reforms
-    *   White hat hackers find thousands of vulnerabilities: DoD
-    *   COVID-19 boosts remote work, security concerns
-    *   Coronavirus sparks phishing, disinformation, tabletop exercises and handwashing
+    *   Can your network operator stop your smart washer from airing your dirty laundry?
+    *   Cookie-stealing Android trojan likely used for spam distribution campaign
+    *   Virgin Media leaves database open, thousands of records exposed
+    *   Former federal CIO: Efforts to ban Huawei ‘don’t make any sense to me’
     *   Russian cybercrime forums seen selling malware-sabotaged COVID-19 map
     
-    *   Microsoft issues out-of-band fix for leaked 'EternalDarkness' bug
-    *   Former federal CIO: Efforts to ban Huawei ‘don’t make any sense to me’
-    *   Australia's privacy watchdog sues Facebook over Cambridge Analytica
-    *   Intel issues nine security advisories
-    *   Microsoft Patch Tuesday finds 115 vulnerabilities patched, 26 critical
+    *   Jury spares accused Vault 7 leaker from espionage conviction
+    *   Russian cybercrime forums seen selling malware-sabotaged COVID-19 map
+    *   Why Microsoft's decision to seek security advice from Linux is a good first step
+    *   Fed report castigates U.S. ability to fend off a cyberattack, suggests major reforms
+    *   Coronavirus impact. When flexible working is the new normal
     
     *   Russian cybercrime forums seen selling malware-sabotaged COVID-19 map
     *   Ransomware halts health organization's ability to inform public on COVID-19
@@ -264,4 +264,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World March 30- April 1, 2020 | Lake Buena Vista, FL
