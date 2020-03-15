@@ -12,31 +12,31 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1331 games
-*   Most Popular Games 20513 games
+*   Best of new games 1332 games
+*   Most Popular Games 20518 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,351 games
+*   For Girls 24,352 games
 *   Driving &. Racing 6,335 games
-*   Strategy &. RPG 3,608 games
-*   Management &. Sim 4,256 games
-*   Thinking 12,542 games
-*   Action &. Adventure 14,569 games
-*   Sports 3,319 games
-*   Shooting 9,031 games
+*   Strategy &. RPG 3,609 games
+*   Management &. Sim 4,257 games
+*   Thinking 12,545 games
+*   Action &. Adventure 14,570 games
+*   Sports 3,320 games
+*   Shooting 9,032 games
 *   Fighting 2,083 games
-*   Skill 10,959 games
-*   Arcade &. Classic 8,948 games
-*   Fun &. Crazy 4,798 games
+*   Skill 10,961 games
+*   Arcade &. Classic 8,956 games
+*   Fun &. Crazy 4,797 games
 
 Play with friends  
 Powered by Y8 Account 142 Y8 Multiplayer Games 2,201 Y8 High Score Games 1,249 Y8 Achievements Games 873 Y8 Screenshots Games 1,646 Y8 Online Save Games 3,362 All Y8 Games Games Last Highscore:
 
-**81** points on Helix Jump by irfan
+**2,050** points on Marbles Shooter by ShrekDaddy
 
 Help us improve Bad translation? Social
 
