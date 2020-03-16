@@ -7,6 +7,30 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Vertigo Up to 80% Off
+    *   Suit Yourself: Swim Up to 70% Off
+    *   Sunday Style Steals Up to 80% Off
+    *   Free Shipping: BergHOFF Up to 55% Off
+    *   Men's Shoe Steals Up to 65% Off
+    *   Too Good to Miss: Boots &. More Up to 60% Off
+    *   Men's Style Steals Up to 70% Off
+    *   Roberto Cavalli Watches &. More Up to 70% Off
+    *   Alo Starting at $30
+    *   MOTHER
+    *   Aquatalia
+    *   Aquatalia Men Up to 60% Off
+    *   Amanda &. Chelsea Incl. Plus and Petites
+    *   Breezy Spring Styles ft. Fringe, Crochet &. More
+    *   Alexia Admor &. More incl. Plus
+    *   Alo Men Up to 50% Off
+    *   Fit for Him: Relaxed Denim Up to 65% Off
+    *   Fresh Flats &. More ft. Marc Joseph
+    *   Lafonn Jewelry Up to 65% Off
+    *   Mia Belle Girls Up to 55% Off
+    *   Marc Joseph New York Men
+    *   Makeup Essentials: Blushes, Brushes &. More
+    *   Free Shipping: Bedding Up to 65% Off
+    *   Baby Checklist: Diaper Bags, Toys &. More
     *   Lingerie Shop: T-Shirt Bras Up to 55% Off
     *   Lingerie Shop: Full-Coverage Bras Up to 55% Off
     *   Lingerie Shop: Boyshorts, Panties &. Thongs Up to 55% Off
@@ -14,30 +38,30 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Lingerie Shop: Shapewear Up to 55% Off
     *   Steve Madden Men
     *   Lingerie Shop: Strapless Bras Up to 55% Off
+    
     *   Lingerie Shop: Sleep, Lounge &. Robes Up to 55% Off
     *   Philosophy Apparel Incl. Plus &. Petites
     *   Lingerie Shop: Wireless, Comfort &. Bralettes Up to 55% Off
     *   Lingerie Shop: Bodysuits &. Teddies Up to 55% Off
     *   Lingerie Shop: Camis &. Tanks Up to 55% Off
     *   Trending Now: Shoes ft. Steve Madden from $40
-    *   MICHELE Watches
-    *   Spring Forward: Petite Styles Under $80
     *   Spring Faves: Plus Dresses &. Jumpsuits Under $85
     *   Look Sharp: Suiting &. More Under $150
-    *   Polo Ralph Lauren Shoes Up to 65% Off
     *   Free Shipping: Framed Art Up to 60% Off
     *   Silver, Gemstones &. Diamonds Starting at $25
     *   Prints Charming: Men's Swim ft. Party Pants
-    *   Soludos Up to 50% Off
     *   it Luggage Up to 60% Off
     *   Fresh Finds: Sandals &. More from $40
     *   Stylish Phone Cases ft. Karl Lagerfeld Paris
     *   Beauty For Real: Cruelty-Free Makeup Essentials
-    
-    *   Spring Favorites: Girls' Rompers &. More Up to 60% Off
     *   Steve Madden Girls
+    *   Spring Favorites: Girls' Rompers &. More Up to 60% Off
+    *   Soludos Up to 50% Off
+    *   Polo Ralph Lauren Shoes Up to 65% Off
+    *   Spring Forward: Petite Styles Under $80
     *   Spring Favorites: Boys' Polos &. More Up to 65% Off
     *   National Jewel Day: Effy Jewelry Up to 65% Off
+    *   MICHELE Watches
     *   Active Swim &. More Up to 60% Off
     *   DL1961 Up to 65% Off
     *   Z By Zella Incl. Plus
@@ -46,7 +70,8 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Travis Mathew Starting at $15
     *   Dolce Vita Up to 60% Off
     *   Printed Tops Up to 70% Off Incl. Plus &. Petites
-    *   Sperry Men
+    
+    *   Ready for Easter: Dresses Incl. Plus &. Petites
     *   Surf-Inspired Men's Styles ft. Quiksilver
     *   Hop to It: Kids' Easter Styles, Toys &. More
     *   Rain Shoes &. More ft. Sperry Up to 60% Off
@@ -57,38 +82,41 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Bathroom Decor &. Accessories Under $25
     *   Best in Show: Pet Accessories We Love
     *   Melissa &. Doug
-    *   Trina Turk Up to 65% Off
     *   Bruno Magli Men
-    *   Robert Graham Up to 60% Off
-    
     *   Mirenesse Australia Starting at $10
-    *   Handmade in Bali: Devata Sterling &. 18K Jewelry
     *   Robert Graham Shoes
-    *   Lorenzo Uomo Up to 60% Off
     *   Free Shipping: Storage Must-Haves from $15
     *   Stylish Tech: Wireless Earbuds &. Headphones
     *   Top Toy Brands ft. Mattel &. Fisher-Price
     *   True Religion Kids Up to 60% Off
     *   Perfect for Easter: Nine West Girls Under $30
     *   Urban Decay Up to 50% Off
-    *   New Balance Men
     *   Free Shipping: Dreamy Bedding Up to 65% Off
     *   Skin Care Tools Up to 65% Off
-    *   Men's Resort Shoes ft. Onia
     *   Candles, Notebooks &. More from $15
     *   Fiesta Dinnerware &. More Starting at $15
     *   Hampton Forge Cutlery &. Flatware Up to 55% Off
     *   Kitchen Best Sellers Up to 70% Off
     *   Pet-Friendly Covers, Beds &. More
-    *   Erborian Korean Skin Therapy
     *   Kitchen Gadgets &. Storage from $15
     *   Spring Home Update: Decor, Accents &. More
-    *   Ready for Easter: Dresses Incl. Plus &. Petites
-    *   Wüsthof Cutlery: Gourmet Collection Up to 60% Off
-    *   Smart Watch Bands &. More Up to 70% Off
-    *   Hit Snooze: Bedding Essentials Up to 75% Off
+    *   Sperry Men
 *   WomenShop Sale Events
     
+    *   Vertigo Up to 80% Off
+    *   Suit Yourself: Swim Up to 70% Off
+    *   Sunday Style Steals Up to 80% Off
+    *   Too Good to Miss: Boots &. More Up to 60% Off
+    *   Roberto Cavalli Watches &. More Up to 70% Off
+    *   Alo Starting at $30
+    *   MOTHER
+    *   Aquatalia
+    *   Amanda &. Chelsea Incl. Plus and Petites
+    *   Breezy Spring Styles ft. Fringe, Crochet &. More
+    *   Alexia Admor &. More incl. Plus
+    *   Fresh Flats &. More ft. Marc Joseph
+    *   Lafonn Jewelry Up to 65% Off
+    *   Makeup Essentials: Blushes, Brushes &. More
     *   Lingerie Shop: T-Shirt Bras Up to 55% Off
     *   Lingerie Shop: Full-Coverage Bras Up to 55% Off
     *   Lingerie Shop: Boyshorts, Panties &. Thongs Up to 55% Off
@@ -99,18 +127,18 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Philosophy Apparel Incl. Plus &. Petites
     *   Lingerie Shop: Wireless, Comfort &. Bralettes Up to 55% Off
     *   Lingerie Shop: Bodysuits &. Teddies Up to 55% Off
+    
     *   Lingerie Shop: Camis &. Tanks Up to 55% Off
     *   Trending Now: Shoes ft. Steve Madden from $40
-    *   MICHELE Watches
-    *   Spring Forward: Petite Styles Under $80
     *   Spring Faves: Plus Dresses &. Jumpsuits Under $85
     *   Silver, Gemstones &. Diamonds Starting at $25
-    *   Soludos Up to 50% Off
     *   it Luggage Up to 60% Off
     *   Fresh Finds: Sandals &. More from $40
-    
     *   Beauty For Real: Cruelty-Free Makeup Essentials
+    *   Soludos Up to 50% Off
+    *   Spring Forward: Petite Styles Under $80
     *   National Jewel Day: Effy Jewelry Up to 65% Off
+    *   MICHELE Watches
     *   Active Swim &. More Up to 60% Off
     *   DL1961 Up to 65% Off
     *   Z By Zella Incl. Plus
@@ -118,15 +146,12 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Mario Badescu Sets from $20
     *   Dolce Vita Up to 60% Off
     *   Printed Tops Up to 70% Off Incl. Plus &. Petites
+    *   Ready for Easter: Dresses Incl. Plus &. Petites
     *   Rain Shoes &. More ft. Sperry Up to 60% Off
     *   Tosca Blu &. Golo
-    *   Trina Turk Up to 65% Off
     *   Mirenesse Australia Starting at $10
-    *   Handmade in Bali: Devata Sterling &. 18K Jewelry
     *   Urban Decay Up to 50% Off
     *   Skin Care Tools Up to 65% Off
-    *   Erborian Korean Skin Therapy
-    *   Ready for Easter: Dresses Incl. Plus &. Petites
     
     Shop By Category
     *   Clothing
@@ -137,34 +162,40 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Handbags
 *   MenShop Sale Events
     
+    *   Men's Shoe Steals Up to 65% Off
+    *   Men's Style Steals Up to 70% Off
+    *   Roberto Cavalli Watches &. More Up to 70% Off
+    *   Aquatalia Men Up to 60% Off
+    *   Alo Men Up to 50% Off
+    *   Fit for Him: Relaxed Denim Up to 65% Off
+    *   Marc Joseph New York Men
     *   Steve Madden Men
     *   Look Sharp: Suiting &. More Under $150
-    *   Polo Ralph Lauren Shoes Up to 65% Off
     *   Prints Charming: Men's Swim ft. Party Pants
-    *   it Luggage Up to 60% Off
-    *   Travis Mathew Starting at $15
-    *   Sperry Men
-    *   Surf-Inspired Men's Styles ft. Quiksilver
     
+    *   it Luggage Up to 60% Off
+    *   Polo Ralph Lauren Shoes Up to 65% Off
+    *   Travis Mathew Starting at $15
+    *   Surf-Inspired Men's Styles ft. Quiksilver
     *   Quality Sleep: Luxe Pillow &. Sheet Sets
     *   Kenneth Cole Reaction Men
     *   Bruno Magli Men
-    *   Robert Graham Up to 60% Off
     *   Robert Graham Shoes
-    *   Lorenzo Uomo Up to 60% Off
-    *   New Balance Men
-    *   Men's Resort Shoes ft. Onia
+    *   Sperry Men
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Accessories
 *   KidsShop Sale Events
     
-    *   Spring Favorites: Girls' Rompers &. More Up to 60% Off
+    *   Mia Belle Girls Up to 55% Off
+    *   Baby Checklist: Diaper Bags, Toys &. More
     *   Steve Madden Girls
+    *   Spring Favorites: Girls' Rompers &. More Up to 60% Off
     *   Spring Favorites: Boys' Polos &. More Up to 65% Off
     *   Hop to It: Kids' Easter Styles, Toys &. More
+    
     *   Sperry Kids
     *   Melissa &. Doug
     *   Top Toy Brands ft. Mattel &. Fisher-Price
@@ -172,14 +203,16 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Perfect for Easter: Nine West Girls Under $30
     
     Shop By Category
-    *   Toys
     *   Girls
+    *   Toys
     *   Boys
     *   Baby
     *   Girls' Shoes
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Free Shipping: BergHOFF Up to 55% Off
+    *   Free Shipping: Bedding Up to 65% Off
     *   Free Shipping: Framed Art Up to 60% Off
     *   it Luggage Up to 60% Off
     *   Stylish Phone Cases ft. Karl Lagerfeld Paris
@@ -187,26 +220,23 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Bathroom Decor &. Accessories Under $25
     *   Best in Show: Pet Accessories We Love
     *   Free Shipping: Storage Must-Haves from $15
+    
     *   Stylish Tech: Wireless Earbuds &. Headphones
     *   Free Shipping: Dreamy Bedding Up to 65% Off
     *   Candles, Notebooks &. More from $15
-    
     *   Fiesta Dinnerware &. More Starting at $15
     *   Hampton Forge Cutlery &. Flatware Up to 55% Off
     *   Kitchen Best Sellers Up to 70% Off
     *   Pet-Friendly Covers, Beds &. More
     *   Kitchen Gadgets &. Storage from $15
     *   Spring Home Update: Decor, Accents &. More
-    *   Wüsthof Cutlery: Gourmet Collection Up to 60% Off
-    *   Smart Watch Bands &. More Up to 70% Off
-    *   Hit Snooze: Bedding Essentials Up to 75% Off
     
     Shop By Category
     *   Kitchen &. Tabletop
     *   Home Decor
-    *   Electronic &. Tech Accessories
     *   Bedding
     *   Pet Accessories
+    *   Electronic &. Tech Accessories
     *   Cleaning &. Organization
     *   Luggage &. Travel
     *   Bath
@@ -215,12 +245,12 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Makeup Essentials: Blushes, Brushes &. More
     *   Beauty For Real: Cruelty-Free Makeup Essentials
     *   Mario Badescu Sets from $20
     *   Mirenesse Australia Starting at $10
     *   Urban Decay Up to 50% Off
     *   Skin Care Tools Up to 65% Off
-    *   Erborian Korean Skin Therapy
     
     Shop By Category
     *   Makeup
