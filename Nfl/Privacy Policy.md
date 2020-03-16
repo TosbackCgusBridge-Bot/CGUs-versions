@@ -4,9 +4,9 @@
 *   Standings
 *   Draft
 *   Highlights
-*   NFL 100
+*   Free Agency
 
-*   Combine
+*   Draft
 *   Scores
 
 NFL.com - Privacy Policy English
