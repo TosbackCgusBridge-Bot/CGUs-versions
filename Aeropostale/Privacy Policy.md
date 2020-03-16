@@ -378,6 +378,17 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
 
+In Stores &. Online
+
+50-70% OFF EVERYTHING
+
+50-70% OFF  
+EVERYTHING
+
+Including 100s of New Arrivals!
+
+Shop Girls Shop Guys
+
 In Stores &. Online Mix &. Match
 
 BUY 1 GET 1 FREE
