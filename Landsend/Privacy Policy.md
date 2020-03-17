@@ -28,9 +28,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive up to 40% off your order!
+Receive up to 40% off your order. free shipping, no minimum!
 
-code: SHOWERS pin: PROMOTION DETAILS
+code: RAINY pin: PROMOTION DETAILS
 
 Customer Service Menu
 
