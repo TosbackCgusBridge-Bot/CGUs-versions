@@ -3,10 +3,31 @@ Nordstrom RackHauteLook
 *   Invite a Friend, Get $20
 *   Log In / Sign Up
 
-HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
+HauteLookFree Shipping on Orders for a Limited Time\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   SPANX
+    *   Converse Starting at $30
+    *   Converse Men Starting at $30
+    *   Miraclesuit, Athena &. More
+    *   tarte Cosmetics
+    *   Frye Handbags
+    *   Row A
+    *   Flying Tomato and More Incl. Plus &. Petites
+    *   Frye Men
+    *   Frye Men's Clothing &. More
+    *   Woven Tops Up to 75% Off Incl. Plus &. Petites
+    *   Converse Kids Starting at $20
+    *   Converse Kids' Clothing Up to 50% Off
+    *   Fergalicious from $30
+    *   Free Shipping: Home Organization Up to 50% Off
+    *   Gomelsky by Shinola &. More: Watches Up to 60% Off
+    *   Faherty
+    *   Sesderma Skin Care Up to 50% Off
+    *   On-Trend 14K Gold &. More from $23
+    *   In Bloom: Girls' Floral Dresses &. More
+    *   Kids' Sleepwear ft. Leveret
     *   Vertigo Up to 80% Off
     *   Suit Yourself: Swim Up to 70% Off
     *   Sunday Style Steals Up to 80% Off
@@ -16,6 +37,7 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Men's Style Steals Up to 70% Off
     *   Roberto Cavalli Watches &. More Up to 70% Off
     *   Alo Starting at $30
+    
     *   MOTHER
     *   Aquatalia
     *   Aquatalia Men Up to 60% Off
@@ -38,7 +60,6 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Lingerie Shop: Shapewear Up to 55% Off
     *   Steve Madden Men
     *   Lingerie Shop: Strapless Bras Up to 55% Off
-    
     *   Lingerie Shop: Sleep, Lounge &. Robes Up to 55% Off
     *   Philosophy Apparel Incl. Plus &. Petites
     *   Lingerie Shop: Wireless, Comfort &. Bralettes Up to 55% Off
@@ -47,6 +68,7 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Trending Now: Shoes ft. Steve Madden from $40
     *   Spring Faves: Plus Dresses &. Jumpsuits Under $85
     *   Look Sharp: Suiting &. More Under $150
+    
     *   Free Shipping: Framed Art Up to 60% Off
     *   Silver, Gemstones &. Diamonds Starting at $25
     *   Prints Charming: Men's Swim ft. Party Pants
@@ -60,49 +82,35 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Polo Ralph Lauren Shoes Up to 65% Off
     *   Spring Forward: Petite Styles Under $80
     *   Spring Favorites: Boys' Polos &. More Up to 65% Off
-    *   National Jewel Day: Effy Jewelry Up to 65% Off
-    *   MICHELE Watches
-    *   Active Swim &. More Up to 60% Off
-    *   DL1961 Up to 65% Off
-    *   Z By Zella Incl. Plus
-    *   Dresses &. Separates Incl. Plus &. Petites
     *   Mario Badescu Sets from $20
-    *   Travis Mathew Starting at $15
-    *   Dolce Vita Up to 60% Off
-    *   Printed Tops Up to 70% Off Incl. Plus &. Petites
-    
-    *   Ready for Easter: Dresses Incl. Plus &. Petites
-    *   Surf-Inspired Men's Styles ft. Quiksilver
-    *   Hop to It: Kids' Easter Styles, Toys &. More
-    *   Rain Shoes &. More ft. Sperry Up to 60% Off
-    *   Sperry Kids
+    *   Sperry Men
     *   Quality Sleep: Luxe Pillow &. Sheet Sets
     *   Kenneth Cole Reaction Men
-    *   Tosca Blu &. Golo
     *   Bathroom Decor &. Accessories Under $25
     *   Best in Show: Pet Accessories We Love
-    *   Melissa &. Doug
-    *   Bruno Magli Men
     *   Mirenesse Australia Starting at $10
-    *   Robert Graham Shoes
     *   Free Shipping: Storage Must-Haves from $15
     *   Stylish Tech: Wireless Earbuds &. Headphones
-    *   Top Toy Brands ft. Mattel &. Fisher-Price
-    *   True Religion Kids Up to 60% Off
-    *   Perfect for Easter: Nine West Girls Under $30
-    *   Urban Decay Up to 50% Off
     *   Free Shipping: Dreamy Bedding Up to 65% Off
-    *   Skin Care Tools Up to 65% Off
     *   Candles, Notebooks &. More from $15
     *   Fiesta Dinnerware &. More Starting at $15
     *   Hampton Forge Cutlery &. Flatware Up to 55% Off
     *   Kitchen Best Sellers Up to 70% Off
     *   Pet-Friendly Covers, Beds &. More
-    *   Kitchen Gadgets &. Storage from $15
-    *   Spring Home Update: Decor, Accents &. More
-    *   Sperry Men
 *   WomenShop Sale Events
     
+    *   SPANX
+    *   Converse Starting at $30
+    *   Miraclesuit, Athena &. More
+    *   tarte Cosmetics
+    *   Frye Handbags
+    *   Row A
+    *   Flying Tomato and More Incl. Plus &. Petites
+    *   Woven Tops Up to 75% Off Incl. Plus &. Petites
+    *   Fergalicious from $30
+    *   Gomelsky by Shinola &. More: Watches Up to 60% Off
+    *   Sesderma Skin Care Up to 50% Off
+    *   On-Trend 14K Gold &. More from $23
     *   Vertigo Up to 80% Off
     *   Suit Yourself: Swim Up to 70% Off
     *   Sunday Style Steals Up to 80% Off
@@ -115,6 +123,7 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Breezy Spring Styles ft. Fringe, Crochet &. More
     *   Alexia Admor &. More incl. Plus
     *   Fresh Flats &. More ft. Marc Joseph
+    
     *   Lafonn Jewelry Up to 65% Off
     *   Makeup Essentials: Blushes, Brushes &. More
     *   Lingerie Shop: T-Shirt Bras Up to 55% Off
@@ -127,7 +136,6 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Philosophy Apparel Incl. Plus &. Petites
     *   Lingerie Shop: Wireless, Comfort &. Bralettes Up to 55% Off
     *   Lingerie Shop: Bodysuits &. Teddies Up to 55% Off
-    
     *   Lingerie Shop: Camis &. Tanks Up to 55% Off
     *   Trending Now: Shoes ft. Steve Madden from $40
     *   Spring Faves: Plus Dresses &. Jumpsuits Under $85
@@ -137,21 +145,8 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Beauty For Real: Cruelty-Free Makeup Essentials
     *   Soludos Up to 50% Off
     *   Spring Forward: Petite Styles Under $80
-    *   National Jewel Day: Effy Jewelry Up to 65% Off
-    *   MICHELE Watches
-    *   Active Swim &. More Up to 60% Off
-    *   DL1961 Up to 65% Off
-    *   Z By Zella Incl. Plus
-    *   Dresses &. Separates Incl. Plus &. Petites
     *   Mario Badescu Sets from $20
-    *   Dolce Vita Up to 60% Off
-    *   Printed Tops Up to 70% Off Incl. Plus &. Petites
-    *   Ready for Easter: Dresses Incl. Plus &. Petites
-    *   Rain Shoes &. More ft. Sperry Up to 60% Off
-    *   Tosca Blu &. Golo
     *   Mirenesse Australia Starting at $10
-    *   Urban Decay Up to 50% Off
-    *   Skin Care Tools Up to 65% Off
     
     Shop By Category
     *   Clothing
@@ -160,57 +155,57 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Jewelry
     *   Watches
     *   Handbags
+    *   Accessories
 *   MenShop Sale Events
     
+    *   Converse Men Starting at $30
+    *   Frye Men
+    *   Frye Men's Clothing &. More
+    *   Faherty
     *   Men's Shoe Steals Up to 65% Off
     *   Men's Style Steals Up to 70% Off
     *   Roberto Cavalli Watches &. More Up to 70% Off
     *   Aquatalia Men Up to 60% Off
     *   Alo Men Up to 50% Off
     *   Fit for Him: Relaxed Denim Up to 65% Off
+    
     *   Marc Joseph New York Men
     *   Steve Madden Men
     *   Look Sharp: Suiting &. More Under $150
     *   Prints Charming: Men's Swim ft. Party Pants
-    
     *   it Luggage Up to 60% Off
     *   Polo Ralph Lauren Shoes Up to 65% Off
-    *   Travis Mathew Starting at $15
-    *   Surf-Inspired Men's Styles ft. Quiksilver
+    *   Sperry Men
     *   Quality Sleep: Luxe Pillow &. Sheet Sets
     *   Kenneth Cole Reaction Men
-    *   Bruno Magli Men
-    *   Robert Graham Shoes
-    *   Sperry Men
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Converse Kids Starting at $20
+    *   Converse Kids' Clothing Up to 50% Off
+    *   In Bloom: Girls' Floral Dresses &. More
+    *   Kids' Sleepwear ft. Leveret
     *   Mia Belle Girls Up to 55% Off
     *   Baby Checklist: Diaper Bags, Toys &. More
     *   Steve Madden Girls
     *   Spring Favorites: Girls' Rompers &. More Up to 60% Off
     *   Spring Favorites: Boys' Polos &. More Up to 65% Off
-    *   Hop to It: Kids' Easter Styles, Toys &. More
-    
-    *   Sperry Kids
-    *   Melissa &. Doug
-    *   Top Toy Brands ft. Mattel &. Fisher-Price
-    *   True Religion Kids Up to 60% Off
-    *   Perfect for Easter: Nine West Girls Under $30
     
     Shop By Category
     *   Girls
-    *   Toys
     *   Boys
     *   Baby
     *   Girls' Shoes
     *   Boys' Shoes
+    *   Toys
 *   HomeShop Sale Events
     
+    *   Free Shipping: Home Organization Up to 50% Off
     *   Free Shipping: BergHOFF Up to 55% Off
     *   Free Shipping: Bedding Up to 65% Off
     *   Free Shipping: Framed Art Up to 60% Off
@@ -219,8 +214,8 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Quality Sleep: Luxe Pillow &. Sheet Sets
     *   Bathroom Decor &. Accessories Under $25
     *   Best in Show: Pet Accessories We Love
-    *   Free Shipping: Storage Must-Haves from $15
     
+    *   Free Shipping: Storage Must-Haves from $15
     *   Stylish Tech: Wireless Earbuds &. Headphones
     *   Free Shipping: Dreamy Bedding Up to 65% Off
     *   Candles, Notebooks &. More from $15
@@ -228,38 +223,35 @@ HauteLookFree Shipping on Orders Over $89\* 45-Day Returns to Nordstrom Rack
     *   Hampton Forge Cutlery &. Flatware Up to 55% Off
     *   Kitchen Best Sellers Up to 70% Off
     *   Pet-Friendly Covers, Beds &. More
-    *   Kitchen Gadgets &. Storage from $15
-    *   Spring Home Update: Decor, Accents &. More
     
     Shop By Category
     *   Kitchen &. Tabletop
-    *   Home Decor
     *   Bedding
+    *   Home Decor
     *   Pet Accessories
-    *   Electronic &. Tech Accessories
     *   Cleaning &. Organization
+    *   Electronic &. Tech Accessories
     *   Luggage &. Travel
     *   Bath
     *   Outdoor Living
-    *   Holiday Decorations
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   tarte Cosmetics
+    *   Sesderma Skin Care Up to 50% Off
     *   Makeup Essentials: Blushes, Brushes &. More
     *   Beauty For Real: Cruelty-Free Makeup Essentials
     *   Mario Badescu Sets from $20
     *   Mirenesse Australia Starting at $10
-    *   Urban Decay Up to 50% Off
-    *   Skin Care Tools Up to 65% Off
     
     Shop By Category
     *   Makeup
     *   Skin Care
     *   Fragrance
+    *   Hair Care
     *   Bath &. Body
     *   Tools &. Accessories
     *   Makeup Bags
-    *   Hair Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
@@ -453,4 +445,4 @@ Get a $20 credit each time a friend you invite makes their first purchase. Limit
 
 Or you can use your personal referral link to invite
 
-Shipping &. ReturnsFree shipping is applied to orders over $89 before tax (limited time only). International orders and all items over 5lbs. excluded.Easy ReturnsReturn to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US and $10.95 for Canada. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.Unlock Your Exclusive RewardsTake a minute to complete your profile to view your Nordy Club status and available points.Complete My ProfileSkip for now
+Shipping &. ReturnsFree shipping is applied to standard orders for a limited time. International orders and all items over 5lbs. excluded.Easy ReturnsReturn to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US and $10.95 for Canada. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.Unlock Your Exclusive RewardsTake a minute to complete your profile to view your Nordy Club status and available points.Complete My ProfileSkip for now
