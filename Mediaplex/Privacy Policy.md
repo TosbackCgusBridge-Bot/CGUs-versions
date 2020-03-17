@@ -10,24 +10,36 @@ AcceptDecline
 *   Contact
 
 *   Products
+    
     *   Digital Media Solutions
     *   Prospect
     *   Publishers
+    
 *   Industries
+    
     *   Retail
     *   Restaurants
     *   Travel
+        
         *   Tourism
+        
     *   Financial Services
     *   Media &. Entertainment
+        
         *   Movies
         *   TV
+        
     *   CPG
+        
         *   Beauty
+        
     *   Grocery
     *   All
+    
 *   Our Work
+    
     *   Case Studies
+        
         *   Cabela's
         *   Cracker Barrel
         *   Crate&kids
@@ -39,45 +51,7 @@ AcceptDecline
         *   Visit Savannah
         *   Tampa Bay Times
         *   Dairy brand
-    *   Creative
-*   About Us
-    *   Why Conversant
-    *   Power of Conversant
-    *   Management
-    *   Pressroom
-    *   Locations
-    *   Partners
-    *   Giving Back
-
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5F8LTBG" height="0" width="0" style="display:none;visibility:hidden"></iframe>. ✕
-
-*   Products
-    
-    *   Digital Media Solutions
-    *   Prospect
-    *   Publishers
-    
-*   Industries
-    
-    *   Retail
-    *   Restaurants
-    *   Travel
         
-        *   Tourism
-        
-    *   Financial Services
-    *   Media &. Entertainment
-        
-        *   Movies
-        *   TV
-        
-    *   CPG
-    *   Grocery
-    *   All
-    
-*   Our Work
-    
-    *   Case Studies
     *   Creative
     
 *   About Us
@@ -90,14 +64,8 @@ AcceptDecline
     *   Partners
     *   Giving Back
     
-*   DO NOT REMOVE: Last Item is hidden but needs to be here
 
-*   Careers
-*   Ad Quality
-*   Login
-*   Contact
-
-HUMANS  
+✕ <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5F8LTBG" height="0" width="0" style="display:none;visibility:hidden"></iframe>. ✕ HUMANS  
 OVER  
 HYPE™ EVOLVE FROM Digital Distractions  
 to REAL Interactions
