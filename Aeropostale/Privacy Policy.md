@@ -205,6 +205,17 @@ Close submenu ( Guys ) Guys
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
 
+UNITY IS MORE IMPORTANT THAN EVER
+
+Amidst the progression of COVID-19, we must work together to ensure the health  
+and safety of each other. We're better as one. Community is everything.  
+Learn More &. Stay Safe
+
+Amidst the progression of COVID-19, we must work  
+together to ensure the health and safety of each other.  
+We're better as one. Community is everything.  
+Learn More &. Stay Safe
+
 Menu Find a Store Aeropostale
 
 *   Girls
@@ -377,17 +388,6 @@ Menu Find a Store Aeropostale
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
-
-In Stores &. Online
-
-50-70% OFF EVERYTHING
-
-50-70% OFF  
-EVERYTHING
-
-Including 100s of New Arrivals!
-
-Shop Girls Shop Guys
 
 In Stores &. Online Mix &. Match
 
