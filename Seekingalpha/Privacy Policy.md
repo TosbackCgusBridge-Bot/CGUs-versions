@@ -29,7 +29,7 @@ Sign inMarketplaceSubscribe
     *   My Authors
     *   Author Email Alerts
     *   Latest StockTalks
-*   Screeners
+*   Top Stocks
     *   Ratings Screener
     *   ETF Screener
 *   Latest News
