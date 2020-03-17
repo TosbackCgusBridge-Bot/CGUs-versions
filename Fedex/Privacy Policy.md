@@ -4,7 +4,7 @@
 *   Locations All Location Types Find a Location
 *   Support New Customer Center Small Business Center FedEx Service Guide Account Management Tools File a Claim Billing &. Invoicing Customer Support
 
-Sign Up or Log In User ID User ID PASSWORD SHOW PASSWORD Remember Me LOGIN Forgot Password/User ID?
+Sign Up or Log In User ID User ID PASSWORD SHOW PASSWORD Remember Me LOG IN Forgot Password/User ID?
 
 Get exclusive benefits when you open a FedEx account.
 
