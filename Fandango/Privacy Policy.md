@@ -8,44 +8,40 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
 *   Movies Now Playing
     
     *   Onward
+    *   I Still Believe
+    *   Bloodshot (2020)
     *   The Invisible Man (2020)
-    *   The Way Back (2020)
+    *   The Hunt (2020)
     *   Sonic the Hedgehog
+    *   The Way Back (2020)
     *   The Call of the Wild (2020)
     *   Emma (2020)
     *   Bad Boys for Life
     *   Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)
-    *   Impractical Jokers: The Movie
-    *   My Hero Academia: Heroes Rising
-    *   1917 (2019)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Bloodshot (2020)
-    *   The Hunt (2020)
-    *   I Still Believe
-    *   Big Time Adolescence
-    *   Cruel Peter
-    *   Human Nature (2020)
-    *   Inside the Rain (2020)
-    *   M.O.M. (Mothers of Monsters)
-    *   Miss Fisher and the Crypt of Tears
-    *   Never Rarely Sometimes Always
-    *   The Roads Not Taken (2020)
+    *   Children of the Sea
+    *   The Climb (2020)
+    *   Deerskin (2020)
+    *   Dosed
+    *   Human Capital (2020)
+    *   The Grizzlies
+    *   Phoenix, Oregon
     *   See All Opening This Week
     
     Coming Soon
     
-    *   A Quiet Place Part II (2020)
-    *   Mulan (2020)
-    *   The Lovebirds (2020)
-    *   The New Mutants
     *   Saint Maud
     *   Trolls World Tour
     *   My Spy (2020)
-    *   Antlers
     *   Charm City Kings (2020)
+    *   Black Widow (2020)
+    *   Run Sweetheart Run (2020)
+    *   The High Note (2020)
+    *   Run (2020)
+    *   Scoob!
     *   See All Coming Soon
     
     Explore More
@@ -496,21 +492,21 @@ We have separate policies for workforce data, which is governed by the policies 
 
 Offers
 
-*   'Trolls World Tour' Gift with Purchase
+*   Fandango VIP
     
-    Get a free song download\* of "The Other Side" by SZA &. Justin Timberlake with ticket purchase! \*terms apply BUY TICKETS
+    Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
     
 *   Get a $5 Fandango Reward
     
     When you spend $15 on participating snack brands. SEE DETAILS
     
-*   Fandango Gift Cards
+*   FandangoNOW Fresh Picks
     
-    Give the gift of movies. Perfect for every occasion. BUY GIFT CARDS
+    100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
     
-*   Fandango VIP
+*   Get A $10 Movie Ticket
     
-    Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
+    When you subscribe to the Hotstar Annual Pack. SEE DETAILS
     
 
 New + Coming soon
@@ -519,10 +515,10 @@ New + Coming soon
 *   The Way Back (2020)
 *   Bloodshot (2020)
 *   I Still Believe
-*   A Quiet Place Part II (2020)
-*   Mulan (2020)
-*   The Lovebirds (2020)
-*   The New Mutants
+*   The Invisible Man (2020)
+*   The Hunt (2020)
+*   Emma (2020)
+*   The Call of the Wild (2020)
 
 Experience + Explore
 
