@@ -215,17 +215,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Telecom firms urge FCC flexibility as carriers replace Chinese equipment
-    *   Eight million EU retail sales records exposed on AWS MongoDB
-    *   Coronavirus sparks phishing, disinformation, tabletop exercises and handwashing
-    *   Jury spares accused Vault 7 leaker from espionage conviction
+    *   How privacy and security affect product design
+    *   Foreign APT groups use coronavirus phishing lures to drop RAT malware
+    *   Coronavirus impact. When flexible working is the new normal
+    *   Accenture acquires Context Information Security
     *   SC Media’s complete coverage: Threat and Preparation
     
-    *   Microsoft issues out-of-band fix for leaked 'EternalDarkness' bug
-    *   Password found to rescue victims of malicious COVID-19 tracker app
-    *   Eight million EU retail sales records exposed on AWS MongoDB
-    *   Cisco fixes three high-level bugs, but a fourth remains unpatched
-    *   Coronavirus impact. When flexible working is the new normal
+    *   Two RSA attendees contract Coronavirus
+    *   Ransomware halts health organization's ability to inform public on COVID-19
+    *   Necurs botnet operation dismantled. millions of malicious domains disabled
+    *   SC Podcast: Mitigating Coronavirus: Purell and a good business continuity plan
+    *   Durham, N.C. bull rushed by ransomware. recovery underway
     
     *   Be wary of medical-related emails: Proofpoint
     *   Foreign APT groups use coronavirus phishing lures to drop RAT malware
@@ -264,8 +264,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
-
-You can skip this ad in 2 seconds.
-
-Join us for InfoSec World June  22-24, 2020 | Lake Buena Vista, FL
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World June  22-24, 2020 | Lake Buena Vista, FL
