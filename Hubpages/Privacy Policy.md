@@ -14,7 +14,7 @@ Dec 27, 2019
 
 **Effective Date:** **January 1, 2020**
 
-Maven Coalition, Inc., together with its subsidiaries and its affiliated businesses including Sports Illustrated, TheStreet, HubPages, Inc., and Say Media, Inc. (collectively, “Maven,” “we,” or “us”), offers a digital media platform that allows partners to create and monetize content by allowing Maven and its partners to show advertisements on such content. We refer to these content creators as “Partners” and to the websites and apps that participate in our coalition as “Partner Content.”
+Maven Coalition, Inc., a Delaware corporation (“**Maven**,” “**we**,” or “**us**”), offers a digital media platform that allows partners to create and monetize content by allowing Maven and its partners to show advertisements on such content. We refer to these content creators as “Partners” and to the websites and apps that participate in our coalition as “Partner Content.
 
 This Privacy Policy explains how Maven collects, uses, and discloses information about you when you visit our websites and Partner Content, open an account or publish content with us, contact our customer service team, engage with us on social media, or otherwise interact with us. We collectively refer to these touchpoints as our “Services.”
 
@@ -223,7 +223,7 @@ Some personal information included in this category may overlap with other categ
 
 We obtain the categories of personal information listed above from the following categories of sources:
 
-*   Directly from you. For example, from forms you complete or products and services you purchase from us. from content or other materials you enter or upload to our Platform or Services. “Platform” or “Services” includes the following websites and related services: maven.io, the websites listed **here**, hubpages.com, saymedia.com, si.com, thestreet.com and other Partner sites that link to these Terms.
+*   Directly from you. For example, from forms you complete or products and services you purchase from us. from content or other materials you enter or upload to our Platform or Services. “Platform” or “Services” includes the websites listed **here** and other Partner sites that link to our Terms of Use.
 *   Indirectly from you. For example, from observing your actions on our Website. This may be done by us or by third parties with whom we have agreements to operate within or in conjunction with our Platform or Services.
 
 **Use of Personal Information**
@@ -341,10 +341,11 @@ We may deny your deletion request if retaining the information is necessary for 
 
 _**Exercising Access, Data Portability, and Deletion Rights**_
 
-To exercise the access, data portability, and deletion rights described above, please submit a verifiable consumer request to us by either:
+To exercise the access, data portability, and deletion rights described above, please submit a verifiable consumer request to us by:
 
-*   Emailing us at “**CCPA-maven@maven.io**”
-*   Calling us at 1-866-321-8726
+*   Emailing us at “**CCPA-maven@maven.io**”;
+*   Completing the CCPA User Request Form located **here**;
+*   \[For print-related Sports Illustrated magazine requests only\] Calling us at 1-866-321-8726
 
 Only you, or someone legally authorized to act on your behalf, may make a verifiable consumer request related to your personal information. You may also make a verifiable consumer request on behalf of your minor child.
 
