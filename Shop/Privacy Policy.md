@@ -14,7 +14,7 @@ Lenovo Explore Close
         *   Gaming Laptops
         *   Student Laptops
         *   Workstation Laptops
-        *   View All Laptops
+        *   Filter Laptops by Specs
         
         *   By Brand
         *   ThinkPad
@@ -27,7 +27,7 @@ Lenovo Explore Close
         *   Best Selling Laptops
         *   X1 Extreme Gen 2
         *   ThinkPad T490
-        *   Yoga C740
+        *   Yoga C940
         *   Flex 15
         *   IdeaPad L340
         *   Legion Y545
@@ -36,9 +36,9 @@ Lenovo Explore Close
         *   IdeaPad S940
         *   X1 Carbon Gen 7
         *   ThinkPad P1 Gen 2
-        *   Yoga C940
         *   ThinkPad X1 Yoga Gen 4
-        *   ThinkPad P73
+        *   Home Office Essentials
+        *   Remote Learning Basics
     *   Desktops
         
         *   Always Free Shipping
@@ -299,19 +299,21 @@ Lenovo Explore Close
         *   Earn 3% rewards on all purchases
         *   Low monthly payments
         
-        *   Weekly Laptop Deals
+        *   Weekly PC &. Workstation Deals
         *   ThinkPad Deals
         *   Home Laptop Deals
         *   2-in-1 Laptop Deals
+        *   Desktop Deals
         *   Gaming PC Deals
+        *   Workstation Deals
         
         *   Other Weekly Deals
-        *   Desktop Deals
         *   Monitor Deals
-        *   Workstations Deals
         *   Accessories &. Electronics
         *   Tablets and Smart Devices
         *   Electronic Deals
+        *   Home Office Essentials
+        *   Remote Learning Basics
         
         *   Additional Offers
         *   AMD PC deals up to 50%
@@ -623,7 +625,7 @@ Lenovo Explore Close
 1-855-253-6686
 
 *   Search
-*   icon-compare0 Compare Compare (0)
+
 *   LenovoPro
     *   Sign In To LenovoPRO
     *   Learn more
@@ -705,13 +707,7 @@ Top Suggestions
 
 View all >.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
-
-Please add at least 2 products for compare
-
-Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
-
-Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
 
 protects better"/>.
 
