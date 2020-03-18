@@ -23,11 +23,8 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
     Opening This Week = Limited Release
     
     *   Children of the Sea
-    *   The Climb (2020)
-    *   Deerskin (2020)
     *   Dosed
     *   Human Capital (2020)
-    *   The Grizzlies
     *   Phoenix, Oregon
     *   See All Opening This Week
     
@@ -492,9 +489,9 @@ We have separate policies for workforce data, which is governed by the policies 
 
 Offers
 
-*   Fandango VIP
+*   FandangoNOW's Ultimate 4K Sweeps!
     
-    Change of plans? No sweat. Refund or exchange your tickets as a Fandango VIP. JOIN NOW FOR FREE
+    Rent or buy your favorite movies &. TV for a chance to win a complete Roku home entertainment system and more. LEARN MORE
     
 *   Get a $5 Fandango Reward
     
