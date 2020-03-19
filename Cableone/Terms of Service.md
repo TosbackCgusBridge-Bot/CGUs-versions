@@ -1,8 +1,4 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N979W7" height="0" width="0" style="display:none. visibility:hidden;">. </iframe>. Turn on more accessible mode Turn off more accessible mode
-
-This site will be unavailable due to maintenance each night 8/11 through 8/16/2019 between 11:30 pm and 5:00 am MST. We appreciate your patience!
-
-Feedback Skip to main content
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N979W7" height="0" width="0" style="display:none. visibility:hidden;">. </iframe>. Turn on more accessible mode Turn off more accessible mode Sparklight Responds to Coronavirus (COVID-19) to Help Keep Communities Connected. Feedback Skip to main content
 
 *   *   Residential Business Support
     *   Internet
