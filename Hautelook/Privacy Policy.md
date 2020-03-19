@@ -5,20 +5,44 @@ Nordstrom RackHauteLook
 *   Invite a Friend, Get $20
 *   Log In / Sign Up
 
-HauteLookFree Shipping for a Limited Time\* 45-Day Returns to Nordstrom Rack
+HauteLookFree Shipping for a Limited Time\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
-    *   Cole Haan Shoes Up to 50% Off
-    *   Cole Haan Men's Shoes Up to 55% Off
-    *   Cole Haan Outerwear Up to 75% Off
-    *   LOVE Moschino
-    *   Cole Haan Handbags Up to 60% Off
+    *   7 For All Mankind
+    *   Movado Watches
+    *   Calvin Klein and More Incl. Plus &. Petites
+    *   Smooth Style: Silk &. Satin Looks Incl. Plus
+    *   7 For All Mankind Men
+    *   Daily Deal: Socialite Bodysuits at $18.38
+    *   Daily Deal: Vince Camuto Aleema Pumps at $55.98
+    *   Daily Deal: Ted Baker London Polos at 55% Off
+    *   Daily Deal: Ilse Jacobsen Hornbaek Sneakers at $47.98
+    *   French Connection Up to 65% Off
+    *   BLANKNYC Jackets &. More
+    *   Palettes We Love Up to 55% Off
+    *   Handcrafted in Spain: UNOde50 Jewelry
+    *   KG by Kurt Geiger Up to 65% Off
+    *   MIA &. MIA Amore from $25
+    *   Boho Bags Under $100
+    *   Kids' Swim, Sandals &. More Up to 65% Off
+    *   Trending Now: Gold Jewelry &. More
+    *   Free Shipping: Quilts, Comforters &. More
+    *   Florsheim
+    *   Jared Lang
+    *   Levi's Kids Up to 55% Off
+    *   Update Your Bar Cart: Drinkware &. More from $15
+    *   Fresh Faced: Masks Up to 85% Off
     *   Free Shipping: Removable Wallpaper, Decals &. More
     *   Easter Home Decor Starting at $15
     *   Spring Update: Dish Towels &. More from $10
-    *   Upgrade Your Table: Dinnerware &. More from $10
+    *   Cole Haan Shoes Up to 50% Off
+    
+    *   Cole Haan Men's Shoes Up to 55% Off
+    *   LOVE Moschino
+    *   Cole Haan Outerwear Up to 75% Off
     *   Lush Starting at $20
+    *   Cole Haan Handbags Up to 60% Off
     *   Sanctuary Incl. Plus &. Petites
     *   Cole Haan Men's Clothing &. More Up to 65% Off
     *   Colorful Swim Up to 60% Off ft. Tart &. Bikini Lab
@@ -32,142 +56,116 @@ HauteLookFree Shipping for a Limited Time\* 45-Day Returns to Nordstrom Rack
     *   Nordstrom Rack Exclusives ft. Harper Canyon
     *   SPROX Starting at $15
     *   SPANX
-    *   Miraclesuit, Athena &. More
     *   Converse Starting at $30
     *   Converse Men Starting at $30
     *   tarte Cosmetics
-    *   Frye Handbags
-    
-    *   Row A
-    *   Flying Tomato and More Incl. Plus &. Petites
     *   Frye Men
     *   Frye Men's Clothing &. More
-    *   Woven Tops Up to 75% Off Incl. Plus &. Petites
     *   Converse Kids Starting at $20
     *   Converse Kids' Clothing Up to 50% Off
-    *   Fergalicious from $30
     *   Free Shipping: Home Organization Up to 50% Off
     *   Gomelsky by Shinola &. More: Watches Up to 60% Off
     *   Faherty
+    
     *   Sesderma Skin Care Up to 50% Off
     *   On-Trend 14K Gold &. More from $23
     *   In Bloom: Girls' Floral Dresses &. More
     *   Kids' Sleepwear ft. Leveret
-    *   Vertigo Up to 80% Off
-    *   Suit Yourself: Swim Up to 70% Off
     *   Free Shipping: BergHOFF Up to 55% Off
     *   Men's Shoe Steals Up to 65% Off
-    *   Too Good to Miss: Boots &. More Up to 60% Off
-    *   Men's Style Steals Up to 70% Off
-    *   Roberto Cavalli Watches &. More Up to 70% Off
-    *   Alo Starting at $30
-    *   MOTHER
     *   Aquatalia Men Up to 60% Off
-    *   Alo Men Up to 50% Off
-    *   Fit for Him: Relaxed Denim Up to 65% Off
-    *   Lafonn Jewelry Up to 65% Off
-    
-    *   Mia Belle Girls Up to 55% Off
     *   Marc Joseph New York Men
-    *   Makeup Essentials: Blushes, Brushes &. More
     *   Free Shipping: Bedding Up to 65% Off
-    *   Baby Checklist: Diaper Bags, Toys &. More
     *   Lingerie Shop: T-Shirt Bras Up to 55% Off
-    *   Lingerie Shop: Full-Coverage Bras Up to 55% Off
+    *   Upgrade Your Table: Dinnerware &. More from $10
     *   Lingerie Shop: Boyshorts, Panties &. Thongs Up to 55% Off
     *   Lingerie Shop: Shapewear Up to 55% Off
-    *   Steve Madden Men
     *   Lingerie Shop: Strapless Bras Up to 55% Off
-    *   Lingerie Shop: Sleep, Lounge &. Robes Up to 55% Off
     *   Lingerie Shop: Wireless, Comfort &. Bralettes Up to 55% Off
     *   Lingerie Shop: Bodysuits &. Teddies Up to 55% Off
     *   Lingerie Shop: Camis &. Tanks Up to 55% Off
     *   Free Shipping: Framed Art Up to 60% Off
     *   Stylish Phone Cases ft. Karl Lagerfeld Paris
     *   Beauty For Real: Cruelty-Free Makeup Essentials
-    *   Polo Ralph Lauren Shoes Up to 65% Off
-    *   Mario Badescu Sets from $20
     *   Quality Sleep: Luxe Pillow &. Sheet Sets
     *   Bathroom Decor &. Accessories Under $25
     *   Best in Show: Pet Accessories We Love
     *   Free Shipping: Storage Must-Haves from $15
     *   Stylish Tech: Wireless Earbuds &. Headphones
-    *   Free Shipping: Dreamy Bedding Up to 65% Off
-    *   Candles, Notebooks &. More from $15
+    *   Lingerie Shop: Full-Coverage Bras Up to 55% Off
+    *   Lingerie Shop: Sleep, Lounge &. Robes Up to 55% Off
 *   WomenShop Sale Events
     
+    *   7 For All Mankind
+    *   Movado Watches
+    *   Calvin Klein and More Incl. Plus &. Petites
+    *   Smooth Style: Silk &. Satin Looks Incl. Plus
+    *   Daily Deal: Socialite Bodysuits at $18.38
+    *   Daily Deal: Vince Camuto Aleema Pumps at $55.98
+    *   Daily Deal: Ilse Jacobsen Hornbaek Sneakers at $47.98
+    *   French Connection Up to 65% Off
+    *   Palettes We Love Up to 55% Off
+    *   Handcrafted in Spain: UNOde50 Jewelry
+    *   KG by Kurt Geiger Up to 65% Off
+    *   MIA &. MIA Amore from $25
+    *   Boho Bags Under $100
+    *   Trending Now: Gold Jewelry &. More
+    *   Fresh Faced: Masks Up to 85% Off
     *   Cole Haan Shoes Up to 50% Off
-    *   Cole Haan Outerwear Up to 75% Off
     *   LOVE Moschino
-    *   Cole Haan Handbags Up to 60% Off
+    *   Cole Haan Outerwear Up to 75% Off
     *   Lush Starting at $20
+    *   Cole Haan Handbags Up to 60% Off
     *   Sanctuary Incl. Plus &. Petites
     *   Colorful Swim Up to 60% Off ft. Tart &. Bikini Lab
+    
     *   Spring Kimonos &. Dusters Incl. Plus &. Petites
     *   Calvin Klein Activewear &. More
     *   Fragrance Gift Sets Starting at $25
     *   Statement Jewelry from $18
     *   K-Beauty: Real Mary by Rated Green Hair Care
     *   SPANX
-    *   Miraclesuit, Athena &. More
     *   Converse Starting at $30
     *   tarte Cosmetics
-    *   Frye Handbags
-    *   Row A
-    *   Flying Tomato and More Incl. Plus &. Petites
-    *   Woven Tops Up to 75% Off Incl. Plus &. Petites
-    *   Fergalicious from $30
     *   Gomelsky by Shinola &. More: Watches Up to 60% Off
-    
     *   Sesderma Skin Care Up to 50% Off
     *   On-Trend 14K Gold &. More from $23
-    *   Vertigo Up to 80% Off
-    *   Suit Yourself: Swim Up to 70% Off
-    *   Too Good to Miss: Boots &. More Up to 60% Off
-    *   Roberto Cavalli Watches &. More Up to 70% Off
-    *   Alo Starting at $30
-    *   MOTHER
-    *   Lafonn Jewelry Up to 65% Off
-    *   Makeup Essentials: Blushes, Brushes &. More
     *   Lingerie Shop: T-Shirt Bras Up to 55% Off
-    *   Lingerie Shop: Full-Coverage Bras Up to 55% Off
     *   Lingerie Shop: Boyshorts, Panties &. Thongs Up to 55% Off
     *   Lingerie Shop: Shapewear Up to 55% Off
     *   Lingerie Shop: Strapless Bras Up to 55% Off
-    *   Lingerie Shop: Sleep, Lounge &. Robes Up to 55% Off
     *   Lingerie Shop: Wireless, Comfort &. Bralettes Up to 55% Off
     *   Lingerie Shop: Bodysuits &. Teddies Up to 55% Off
     *   Lingerie Shop: Camis &. Tanks Up to 55% Off
     *   Beauty For Real: Cruelty-Free Makeup Essentials
-    *   Mario Badescu Sets from $20
+    *   Lingerie Shop: Full-Coverage Bras Up to 55% Off
+    *   Lingerie Shop: Sleep, Lounge &. Robes Up to 55% Off
     
     Shop By Category
     *   Clothing
     *   Lingerie &. Shapewear
-    *   Shoes
     *   Jewelry
+    *   Shoes
     *   Watches
     *   Handbags
-    *   Accessories
 *   MenShop Sale Events
     
+    *   Movado Watches
+    *   7 For All Mankind Men
+    *   Daily Deal: Ted Baker London Polos at 55% Off
+    *   Florsheim
+    *   Jared Lang
     *   Cole Haan Men's Shoes Up to 55% Off
     *   Cole Haan Men's Clothing &. More Up to 65% Off
     *   Men's Active Outerwear ft. Save the Duck
+    
     *   Converse Men Starting at $30
     *   Frye Men
     *   Frye Men's Clothing &. More
     *   Faherty
     *   Men's Shoe Steals Up to 65% Off
-    *   Men's Style Steals Up to 70% Off
-    
-    *   Roberto Cavalli Watches &. More Up to 70% Off
     *   Aquatalia Men Up to 60% Off
-    *   Alo Men Up to 50% Off
-    *   Fit for Him: Relaxed Denim Up to 65% Off
     *   Marc Joseph New York Men
-    *   Steve Madden Men
-    *   Polo Ralph Lauren Shoes Up to 65% Off
     *   Quality Sleep: Luxe Pillow &. Sheet Sets
     
     Shop By Category
@@ -177,6 +175,8 @@ HauteLookFree Shipping for a Limited Time\* 45-Day Returns to Nordstrom Rack
     *   Watches
 *   KidsShop Sale Events
     
+    *   Kids' Swim, Sandals &. More Up to 65% Off
+    *   Levi's Kids Up to 55% Off
     *   Sovereign Code Under $30
     *   Nordstrom Rack Exclusives ft. Harper Canyon
     *   SPROX Starting at $15
@@ -184,8 +184,6 @@ HauteLookFree Shipping for a Limited Time\* 45-Day Returns to Nordstrom Rack
     *   Converse Kids' Clothing Up to 50% Off
     *   In Bloom: Girls' Floral Dresses &. More
     *   Kids' Sleepwear ft. Leveret
-    *   Mia Belle Girls Up to 55% Off
-    *   Baby Checklist: Diaper Bags, Toys &. More
     
     Shop By Category
     *   Girls
@@ -193,47 +191,47 @@ HauteLookFree Shipping for a Limited Time\* 45-Day Returns to Nordstrom Rack
     *   Baby
     *   Girls' Shoes
     *   Boys' Shoes
-    *   Toys
 *   HomeShop Sale Events
     
+    *   Free Shipping: Quilts, Comforters &. More
+    *   Update Your Bar Cart: Drinkware &. More from $15
     *   Free Shipping: Removable Wallpaper, Decals &. More
     *   Easter Home Decor Starting at $15
     *   Spring Update: Dish Towels &. More from $10
-    *   Upgrade Your Table: Dinnerware &. More from $10
     *   Free Shipping: Home Organization Up to 50% Off
     *   Free Shipping: BergHOFF Up to 55% Off
     *   Free Shipping: Bedding Up to 65% Off
-    *   Free Shipping: Framed Art Up to 60% Off
     
+    *   Upgrade Your Table: Dinnerware &. More from $10
+    *   Free Shipping: Framed Art Up to 60% Off
     *   Stylish Phone Cases ft. Karl Lagerfeld Paris
     *   Quality Sleep: Luxe Pillow &. Sheet Sets
     *   Bathroom Decor &. Accessories Under $25
     *   Best in Show: Pet Accessories We Love
     *   Free Shipping: Storage Must-Haves from $15
     *   Stylish Tech: Wireless Earbuds &. Headphones
-    *   Free Shipping: Dreamy Bedding Up to 65% Off
-    *   Candles, Notebooks &. More from $15
     
     Shop By Category
+    *   Bedding
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Bedding
     *   Cleaning &. Organization
     *   Electronic &. Tech Accessories
     *   Pet Accessories
     *   Bath
-    *   Luggage &. Travel
     *   Outdoor Living
+    *   Luggage &. Travel
     *   Accent Furniture
+    *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   Palettes We Love Up to 55% Off
+    *   Fresh Faced: Masks Up to 85% Off
     *   Fragrance Gift Sets Starting at $25
     *   K-Beauty: Real Mary by Rated Green Hair Care
     *   tarte Cosmetics
     *   Sesderma Skin Care Up to 50% Off
-    *   Makeup Essentials: Blushes, Brushes &. More
     *   Beauty For Real: Cruelty-Free Makeup Essentials
-    *   Mario Badescu Sets from $20
     
     Shop By Category
     *   Makeup
@@ -434,4 +432,4 @@ Get a $20 credit each time a friend you invite makes their first purchase. Limit
 
 Or you can use your personal referral link to invite
 
-Shipping &. ReturnsFree shipping is applied to standard orders for a limited time. International orders and all items over 5lbs. excluded.Easy ReturnsReturn to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailSimply use our self-service Returns page to get startedStart Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US and $10.95 for Canada. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.Unlock Your Exclusive RewardsTake a minute to complete your profile to view your Nordy Club status and available points.Complete My ProfileSkip for now
+Shipping &. ReturnsFree shipping is applied to standard orders for a limited time. International orders and all items over 5lbs. excluded.Temporary Extended Returns in Response to COVID-19For all items purchased online on or after February 1, 2020, we will accept in-store returns up to 45 days after stores reopen. We are continuing to accept returns by mail. the extended return period above applies. Purchases made after stores reopen will be subject to our standard 45-day return policy.Return to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack up to 45 days after stores reopen.Find Your RackReturn by MailUse our self-service Returns page to get started and return your item.Start Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US and $10.95 for Canada. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.Unlock Your Exclusive RewardsTake a minute to complete your profile to view your Nordy Club status and available points.Complete My ProfileSkip for now
