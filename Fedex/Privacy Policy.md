@@ -6,7 +6,7 @@
 
 Sign Up or Log In User ID User ID PASSWORD SHOW PASSWORD Remember Me LOG IN Forgot Password/User ID?
 
-Open an account to save up to 40% on eligible shipments.
+Get exclusive benefits when you open a FedEx account.
 
 CREATE ACCOUNT Menu Top Searched Door Tag Insight Supplies Claims Billing Home FedEx Trust Center FedEx Privacy Notice FedEx Privacy Notice FedEx Privacy Notice Global Privacy Policy Created with Sketch. Global privacy policy Privacy notice Cookie notice Binding corporate rules
 
