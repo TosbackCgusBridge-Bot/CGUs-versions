@@ -15,7 +15,7 @@ close
     *   Thank You Gifts
     *   Congratulations
     *   Thinking of You
-    *   Sympathy GiftsMost Popular New! California Gift Baskets
+    *   Sympathy GiftsMost Popular New!
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Cheese Gifts
@@ -109,7 +109,7 @@ close
     *   Thank You Gifts
     *   Congratulations
     *   Thinking of You
-    *   Sympathy GiftsMost Popular New! California Gift Baskets
+    *   Sympathy GiftsMost Popular New!
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Cheese Gifts
