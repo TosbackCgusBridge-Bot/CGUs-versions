@@ -18,11 +18,12 @@
 *   Careers
 *   Contact
 
-MetrixLab MetrixLab We help you make smarter business decisions faster.
+MetrixLab MetrixLab We help you make smarter business decisions faster. Our response to COVID-19
 
-We know that you, like all of us, are feeling the impact of the coronavirus (COVID-19). We understand that for our clients, having access to the latest research on consumer behavior and attitudes is more important than ever. With digital in our DNA, we’ve been able to adapt our operation to continue with the highest flexibility and minimal impact. You can expect the same high-quality service and support you normally receive from us. As always, contact us with any questions.
-
-Whitepaper: How to create more powerful packaging design
+We know that you, like all of us, are feeling the impact of the coronavirus (COVID-19).  
+We understand that for our clients, having access to the latest research on consumer behavior and attitudes is more important than ever. With digital in our DNA, we’ve been able to adapt our operation to continue with the highest flexibility and minimal impact.  
+You can expect the same high-quality service and support you normally receive from us.  
+As always, contact us with any questions.
 
 Our solutions Advertising &. brand Product innovation Point-of-purchase influencers Pre-testing Customer value Packaging design Social insights Case stories Co-creating with Philips Edgewell measurement program Facebook video ads Amstel Bock pack design Philips concept test Yahoo ad testing Our latest research and insights The future of creative testing is AI-powered
 
