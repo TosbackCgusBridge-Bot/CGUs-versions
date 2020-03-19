@@ -399,9 +399,7 @@ GRAPHIC
 
 TEES
 
-Shop Girls Shop Guys Store Locator
-
-In Stores &. Online Mix &. Match
+Shop Girls Shop Guys
 
 BUY 1 GET 1 FREE
 
@@ -409,9 +407,7 @@ JEANS &. SHORTS
 
 \* Must Add 2 to Cart
 
-Shop Girls Shop Guys Store Locator
-
-In Stores &. Online Mix &. Match
+Shop Girls Shop Guys
 
 BUY 1 GET  
 1 FREE
@@ -420,7 +416,7 @@ JEANS &. SHORTS
 
 \* Must Add 2 to Cart
 
-Shop Girls Shop Guys Store Locator Previous
+Shop Girls Shop Guys Previous
 
 Curvy
 
@@ -537,8 +533,6 @@ New Spring Dresses &. Sets
 
 Shop Dresses &. Sets
 
-In Stores &. Online
-
 Almost 40% of people experiencing  
 homelessness in the United States are under  
 18\. The clothing item they most often request?
@@ -563,8 +557,6 @@ for your school.
 
 Learn more
 
-In Stores &. Online
-
 AERO TEES
 
 BUY 1 GET 2  
@@ -575,8 +567,6 @@ softness. Expertly created for everyday
 comfort &. ease.
 
 Shop Girls Shop Guys
-
-In Stores &. Online
 
 NEW!
 
@@ -610,8 +600,6 @@ featured on our site **#InAero**
 Where we come together as one.  
 Tag **@aeropostale** and **#AeroWorld** for a chance to  
 be featured on our site **#InAero**
-
-In Stores &. Online
 
 CLEARANCE
 
