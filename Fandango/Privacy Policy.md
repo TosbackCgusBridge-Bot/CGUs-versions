@@ -497,9 +497,9 @@ Offers
     
     When you spend $15 on participating snack brands. SEE DETAILS
     
-*   FandangoNOW Fresh Picks
+*   Fandango Gift Cards
     
-    100 movies. Always fresh. Not on Netflix. Rent them all starting at $2.49. WATCH NOW
+    Give the gift of movies. Perfect for every occasion. BUY GIFT CARDS
     
 *   Get A $10 Movie Ticket
     
