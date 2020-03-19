@@ -171,6 +171,8 @@
         *   Caller ID Spoofing
         *   Call Before You Dig
         *   Coronavirus Updates
+            *   Customer Information
+            *   Keep America Connected Pledge
 *   About Us
     *   Locations
     *   News
@@ -393,6 +395,8 @@ Support
     *   Caller ID Spoofing
     *   Call Before You Dig
     *   Coronavirus Updates
+        *   Customer Information
+        *   Keep America Connected Pledge
 
   
 Terms &. Policies
