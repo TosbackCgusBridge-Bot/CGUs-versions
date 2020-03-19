@@ -1,10 +1,9 @@
 Free Shipping Over $49See DetailsEnable Accessibility
 
-*   My AccountSign InTrack MyOrders
+*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
 
 Shop Departments
 
-*   Same Day Pickup
 *   Weekly Ad
 *   Prom Shop
 *   Deals
@@ -34,67 +33,72 @@ Near YouFind a StoreBack 
 *   Towels
     
 
-Shop Liz Claiborne ClassicsSave 80%Your choice: 1/10 ct. t.w. diamond hoops in sterling silver $25 ea., $49.99 ea. for non-Rewards members. reg $124.98 ea. 283-8005, 8007.  Limited Time Special. Engagement ringsWatchesGemstone jewelryMore ways to shop for spring Pinch-worthy picksCelebrate the luck of the stylish with charming looks for St. Patrick’s Day!  Shop the local lookJCPenney is teaming up with fashion and lifestyle influencers to bring you a curated selection of their top picks. Check back every month to see new styles. CELEBRATE WOMEN’S HISTORY MONTHJoin us in celebrating Women’s History Month &. International Women’s Day! STARTING AT $1.99Women's cold-weather accessories select styles STARTING AT $4.99Men's cold-weather accessoriesselect stylesSTARTING AT $9.99Women's outerwearselect stylesSTARTING AT $9.99Men's outerwearselect stylesSelections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.†Buy two items at regular price, get a third item of equal or lesser value for free, while supplies last.  
+Shop Liz Claiborne ClassicsSave 80%Your choice: 1/10 ct. t.w. diamond hoops in sterling silver $25 ea., $49.99 ea. for non-Rewards members. reg $124.98 ea. 283-8005, 8007.  Limited Time Special. Engagement ringsWatchesGemstone jewelryShop the local lookJCPenney is teaming up with fashion and lifestyle influencers to bring you a curated selection of their top picks. Check back every month to see new styles. CELEBRATE WOMEN’S HISTORY MONTHJoin us in celebrating Women’s History Month &. International Women’s Day! STARTING AT $1.99Women's cold-weather accessories select styles STARTING AT $4.99Men's cold-weather accessoriesselect stylesSTARTING AT $9.99Women's outerwearselect stylesSTARTING AT $9.99Men's outerwearselect stylesSelections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.†Buy two items at regular price, get a third item of equal or lesser value for free, while supplies last.  
 ††Buy three items at regular price, get three items of equal or lesser value for free, while supplies last.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   $719after couponwas $13 a.n.a Womens V Neck Sleeveless Tank Top(3)
-*   $3999after couponwas $74 Perceptions Short Sleeve Lace Fit &. Flare Dress
-*   $111 - $560after couponXersion-Womens Performance Tee(1651)
-*   $1680after couponwas $30 Liz Claiborne Womens Round Neck Sleeveless Blouse(2)
+*   $719after couponwas $13 a.n.a Womens V Neck Sleeveless Tank Top(4)
+*   $3999after couponwas $74 Perceptions Short Sleeve Lace Fit &. Flare Dress(1)
+*   $111 - $319after couponwas $7 Xersion-Womens Performance Tee(1651)
 *   $239 - $1599after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(529)
-*   $1279 - $1999after couponwas $40 Gloria Vanderbilt® Amanda Jeans(1518)
+*   $1680after couponwas $30 Liz Claiborne Womens Round Neck Sleeveless Blouse(2)
+*   $1999after couponwas $55 Worthington Womens Beckwith Heeled Sandals(33)
 
 Sponsored Items
 
+*   $1449after couponwas $23 Matrix Biolage 3butter Control Day Cream Leave in Conditioner(6)
+*   $3599 clearance
+    
+    was $59.99 | 40% offLego Classic Large Creative Brick Box 10698(8)
+*   $5599after couponwas $120 Farberware Cookstart 15-pc. Cookware Set(61)Add To Cart
+*   BUY 3 GET 3 FOR FREE
+    
+    BUY MORE AND SAVE
+    
+    $13
+    
+    Bali Comfort Revolution Easylite Knit Brief Panty Dfel61(28)Add To Cart
+*   $4519 - $71736after couponwas $90 - $1,500 Covington Home Evan Rectangular Rug(21)Add To Cart
+*   BEST VALUE!
+    
+    $45
+    
+    Umbra Barrel Shower Caddy(9)Add To Cart
+*   $5599after couponwas $120 Circulon 9" and 11" Skillet(5)Add To Cart
+*   $2399after couponwas $44 Wrangler® Original Fit Cowboy Jeans(138)Add To Cart
 *   $10499
     
     North States Superyard Colorplay 8-PanelAdd To Cart
-*   $2119after couponwas $60 Umbra Showcase Floating Shelf(8)Add To Cart
-*   $2879 - $44474after couponwas $50 - $830 Covington Home Marathon Lattice Rectangular Rugs(1)Add To Cart
-*   $1449after couponwas $23 Matrix Biolage Oil Renew Multi-Taking Oil-In-Cream Hair Cream-6.8 oz.(1)Add To Cart
-*   BUY 2 GET 1 FOR FREE
+*   $54
     
-    $42 - $44
+    Donna Karan Cashmere Mist Body Creme(6)Add To Cart
+*   $20610after couponGoogle Nest Hello Video Doorbell(352)
+*   BEST VALUE!
     
-    Vanity Fair® Beauty Back™ Full-Figure Back Smoothing Wireless Bra - 71380(627)Add To Cart
-*   $240
+    $9999
     
-    Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set(192)Add To Cart
+    As Seen on TV Blue Diamond 10-Pc. Cookware Set(30)Add To Cart
+*   $1499
+    
+    Fisher-Price Laugh &. Learn Click &. Learn Laptop(10)
 *   $4999 sale
     
     was $92 | 45% offClarks Womens Danelly Shine Round Toe Slip-On ShoeAdd To Cart
-*   $20610after couponGoogle Nest Hello Video Doorbell(352)
-*   $4319after couponwas $78 Wrangler Riggs Workwear® Ranger Pants(374)Add To Cart
-*   $1999
-    
-    As seen on TV Blue Diamond 10" Frypan(272)Add To Cart
 *   $39999 sale
     
     was $669 | 40% offDyson® V8 Animal Cord-Free Vacuum(178)
 *   $4999
     
     Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill PanAdd To Cart
-*   $68 - $112
-    
-    Michael Kors Sexy Amber(49)Add To Cart
-*   $74 - $120
-    
-    Donna Karan Cashmere Mist Eau De Parfum(236)Add To Cart
-*   $22499after couponwas $600 Circulon 11-Pc. Aluminum Non-Stick Cookware Set(27)Add To Cart
-*   $1599
-    
-    Fisher-Price Classic Xylophone(7)
-*   $9999 sale
-    
-    was $129 | 22% offBissell® SpinWave® Hard Floor Spin MopAdd To Cart
-*   $3999 sale
-    
-    was $70 | 42% offGreenPan Rio Non-Stick Frying Pan
 *   $1199
     
     Dr. Browns Options Wide Neck Baby Bottle 2-pkAdd To Cart
-*   $2639after couponwas $48 Lee® Relaxed All Day Pant - Plus(534)Add To Cart
+*   $68 - $112
+    
+    Michael Kors Sexy Amber(49)Add To Cart
+*   $240
+    
+    Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set(192)Add To Cart
 
 Shop and Save at JCPenney
 
