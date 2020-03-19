@@ -215,6 +215,8 @@ Cars/Minivan
     
 *   Corolla  
     
+*   Corolla Hatchback  
+    
 *   Corolla Hybrid  
     
 *   Mirai  
@@ -226,6 +228,8 @@ Cars/Minivan
 *   Sienna  
     
 *   Yaris  
+    
+*   Yaris Hatchback  
     
 
 Trucks
