@@ -1,1 +1,1 @@
-We are currently down for system maintenance. Please check back in a few hours!
+LinkWithin is no longer available. We appologize for the inconvenience. Please email support@linkwithin.com if you have any questions.
