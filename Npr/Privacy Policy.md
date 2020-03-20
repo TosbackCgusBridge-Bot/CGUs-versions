@@ -52,10 +52,10 @@ Close Navigation Menu
     
     Featured
     
-    *   How I Built This with Guy Raz
-    *   Wait Wait... Don't Tell Me!
+    *   Coronavirus Daily
+    *   Planet Money
+    *   Invisibilia
     *   TED Radio Hour
-    *   Hidden Brain
     
     *   More Shows &. Podcasts
 *   Search
