@@ -28,9 +28,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive 40% off any 1 item!
+Receive 40% off your order!
 
-code: LUCK pin: PROMOTION DETAILS
+code: OCEAN pin: PROMOTION DETAILS
 
 Customer Service Menu
 
