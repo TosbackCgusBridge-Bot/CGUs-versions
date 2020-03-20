@@ -1,3 +1,5 @@
+We’re monitoring the impact of the COVID-19 coronavirus around the world. Stay connected with service updates.
+
 *   Shipping Create a Shipment Shipping Rates &. Delivery Times Shipping Rates &. Delivery Times Schedule &. Manage Pickups Packing &. Shipping Supplies International Shipping Guide In-Store Shipping Services ALL SHIPPING SERVICES
 *   Tracking Tracking ID Tracking ID TRACK Advanced Shipment Tracking Manage Your Delivery ALL TRACKING SERVICES
 *   Design &. Print Start Online Printing Order Custom Design Templates Posters, Signs &. Banners Marketing Materials Get Coupons &. Deals ALL PRINTING SERVICES
