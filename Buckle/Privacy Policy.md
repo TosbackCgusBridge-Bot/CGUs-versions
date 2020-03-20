@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Free backpack cooler with a $75 brand purchase. Shop now!
+Enter for your chance to win a $500 shopping experience. Count me in!
 
 *   Women
 *   Men
@@ -26,7 +26,6 @@ Free backpack cooler with a $75 brand purchase. Shop now!
         *   Brill Boutique
         *   Buckle Exclusives
         *   Gift Cards
-        *   HIT REFRESH with Spring
         *   Shop by Outfits
         *   Special Offers
         *   Women's Brands
@@ -100,7 +99,6 @@ Free backpack cooler with a $75 brand purchase. Shop now!
         *   New Arrivals
         *   Buckle Exclusives
         *   Gift Cards
-        *   HIT REFRESH with Spring
         *   Men's Brands
         *   Shop by Outfit
         *   Special Offers
