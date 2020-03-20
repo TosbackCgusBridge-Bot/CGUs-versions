@@ -12,7 +12,7 @@ Skip to main content
     *   Allergies
     *   Arthritis
     *   Cancer
-    *   Cold, Flu &. Cough
+    *   Coronavirus (COVID-19)
     *   Depression
     *   Diabetes
     *   Eye Health
@@ -37,8 +37,8 @@ Skip to main content
     *   Children's Conditions A-Z
     *   Surgeries and Procedures A-Z
     
-    Featured Topics*   Slideshow Get Help for Migraine Relief
-    *   Slideshow Things That Can Hurt Your Joints
+    Featured Topics*   WebMD News Latest News and Updates On Coronavirus
+    *   Slideshow Get Help for Migraine Relief
 *   Drugs &  
     Supplements Drugs &. Supplements Drugs &. Supplements Find &. Review
     
@@ -112,7 +112,7 @@ Skip to main content
     Experts News &. Experts News &. Experts Health News
     
     *   Coronavirus Outbreak: Latest News &. Updates
-    *   Who's at Highest Risk for Coronavirus?
+    *   Surgeon General On How to Practice Social Distancing
     *   Preparing for Coronavirus: Dos and Don'ts
     *   Your Top Coronavirus Questions Answered Here
     *   Why You Should Talk to Your Kids About Coronavirus
@@ -123,8 +123,8 @@ Skip to main content
     *   WebMD Blogs
     *   News Center
     
-    Featured Topics*   WebMD Investigates Why Can't We Sleep?
-    *   Newsletters Sign Up to Receive Our Free Newsletters
+    Featured Topics*   WebMD News Latest News and Updates On Coronavirus
+    *   Newsletters Sign Up to Receive Our Free Coroanvirus Newsletter
 *   Mobile Apps
 *   Subscriptions
 
