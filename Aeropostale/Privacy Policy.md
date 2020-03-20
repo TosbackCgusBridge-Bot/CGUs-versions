@@ -64,7 +64,6 @@ Close submenu ( Guys ) Guys
 Close submenu ( Collections ) Collections
 
 *   View All
-*   $7 Tees
 *   New Arrivals
 *   Best Sellers
 *   Jeans Guide
@@ -201,7 +200,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Online Only! $7 Graphic Tees GIRLS GUYS + FS Over $50**
+**Buy 1 Get 1 Free Jeans + Shorts** ** GIRLS GUYS + FS $50**
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -262,7 +261,6 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
-        *   $7 Tees
         *   New Arrivals
         *   Best Sellers
         *   Jeans Guide
@@ -391,30 +389,19 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
 
-Online only
+50-70% OFF
 
-$7
+ENTIRE SITE
 
-GRAPHIC
-
-TEES
+\*Excludes Clearance
 
 Shop Girls Shop Guys
 
-BUY 1 GET 1 FREE
+50-70% OFF
 
-JEANS &. SHORTS
+ENTIRE SITE
 
-\* Must Add 2 to Cart
-
-Shop Girls Shop Guys
-
-BUY 1 GET  
-1 FREE
-
-JEANS &. SHORTS
-
-\* Must Add 2 to Cart
+\*Excludes Clearance
 
 Shop Girls Shop Guys Previous
 
@@ -526,6 +513,23 @@ Slim Cut Off
 
 Next
 
+BUY 1 GET 1 FREE
+
+JEANS &. SHORTS
+
+\* Must Add 2 to Cart
+
+Shop Girls Shop Guys
+
+BUY 1 GET  
+1 FREE
+
+JEANS &. SHORTS
+
+\* Must Add 2 to Cart
+
+Shop Girls Shop Guys
+
 PERFECTLY  
 PAIRED
 
@@ -578,7 +582,7 @@ Classic styles in shrunken silhouettes.
 Especially perfect with high-waisted  
 Aero bottoms.
 
-Shop Girls **$16 &. Up**
+Shop Girls **$6 &. Up**
 
 AERO x MEXICO  
 #AEROWORLD
