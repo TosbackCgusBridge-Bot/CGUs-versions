@@ -1,4 +1,4 @@
-GET A $5 REWARD. Buy Tickets. Earn Points. Details Gift Cards | Offers | Sign In Sign Out
+A Message to Our Movie Fans Read More Gift Cards | Offers | Sign In Sign Out
 
 Screen Reader Users: To optimize your experience with your screen reading software, please use our Flixster.com website, which has the same tickets as our Fandango.com and MovieTickets.com websites.
 
@@ -496,14 +496,6 @@ Offers
 *   Get a $5 Fandango Reward
     
     When you spend $15 on participating snack brands. SEE DETAILS
-    
-*   Fandango Gift Cards
-    
-    Give the gift of movies. Perfect for every occasion. BUY GIFT CARDS
-    
-*   Get A $10 Movie Ticket
-    
-    When you subscribe to the Hotstar Annual Pack. SEE DETAILS
     
 
 New + Coming soon
