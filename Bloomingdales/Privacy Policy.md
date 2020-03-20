@@ -1279,7 +1279,7 @@ USD Change Recent Searches Recent Searches Clear
 *   EDITORIAL
 *   GIFTS
 
-Live Chat CALL US **ANY TIME**:1.800.777.0000  
+We're working hard to support our customers during the COVID-19 crisis. We're sorry, we are experiencing heavy call volume and substantial hold times. Browse our FAQs or type your question into the "Ask Us" search bar below to get answers fast. We appreciate your business, patience and understanding during this global crisis. Live Chat CALL US **ANY TIME**:1.800.777.0000  
   
 We're available 24 hours, 7 days a week. menu
 
@@ -1301,7 +1301,7 @@ We're available 24 hours, 7 days a week. menu
 *   International
 *   Contact Us
 
-Search WHAT'S NEW My bWallet In-Store Pickup Wish List HELP TOPICS Orders Pricing &. Promotions Returns Shipping &. Delivery Bloomingdale's Credit Card My Account &. Profile Loyallist Rewards Furniture &. Mattresses Wedding Registry &. Gifts Product Information Customer Protection Center Stores International Contact Us Bloomingdale's and bloomingdales.com Notice of Privacy Practices Published 04/25/2011 01:50 PM   |    Updated 03/12/2020 03:21 PM This Notice of Privacy Practices was updated in December 2019.  
+Search WHAT'S NEW My bWallet In-Store Pickup Wish List HELP TOPICS Orders Pricing &. Promotions Returns Shipping &. Delivery Bloomingdale's Credit Card My Account &. Profile Loyallist Rewards Furniture &. Mattresses Wedding Registry &. Gifts Customer Protection Center Stores International Bloomingdale's and bloomingdales.com Notice of Privacy Practices Published 04/25/2011 01:50 PM   |    Updated 03/12/2020 03:21 PM This Notice of Privacy Practices was updated in December 2019.  
 This statement applies to 'Personal Information' collected, processed or stored by Bloomingdale's, a Macy's Inc. company. Personal information may be shared between or processed for retailing purposes by any Macy’s Inc. entity, operating under the brand names Macy's or Bloomingdale's. (hereinafter 'Family of Business'). This Notice describes the extent of collection and usage for these Macy's, Inc. 'Family of Business' and services. however, not all entities participate in all uses and collection described in this document.  
 To view your separate Department Store National Bank (DSNB) Privacy Statement for your Bloomingdale’s credit card or to read more information about our credit services, please click here.  
 This Notice of Privacy Practices explains:  
