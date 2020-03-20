@@ -130,7 +130,7 @@ Autodesk logo
 
 Keyboard **ALT + g** to toggle grid overlay
 
-A message from Autodesk about COVID-19
+Autodesk offers free and extended access to cloud collaboration products
 
 READY TO MAKE ANYTHING
 
