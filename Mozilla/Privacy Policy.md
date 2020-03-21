@@ -48,7 +48,7 @@ Check out the Benefits
 
 *   Firefox Close Firefox menu
     
-    *   Firefox Desktop Browser
+    *   Firefox Browser for Desktop
         
         Get the browser that gives more power to you on Windows, macOS or Linux.
         
@@ -57,7 +57,7 @@ Check out the Benefits
         *   Extensions
         *   Support
         *   Privacy
-    *   Firefox Mobile Browsers
+    *   Firefox Browser for Mobile
         
         Take Firefox and Firefox Focus with you. For Android and iOS.
         
@@ -68,7 +68,7 @@ Check out the Benefits
         *   iOS Support
         *   Android Support
     
-    *   Pocket by Firefox
+    *   Pocket
         
         Save content. Absorb knowledge.
         
@@ -76,7 +76,7 @@ Check out the Benefits
         
         Make the most of your Firefox experience, across every device.
         
-    *   Firefox for Enterprise
+    *   Firefox Browser for Enterprise
         
         Same speed and safety you trust, designed just for business.
         
