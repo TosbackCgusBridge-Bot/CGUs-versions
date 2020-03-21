@@ -5,7 +5,7 @@ Free Shipping Over $49See DetailsEnable Accessibility
 Shop Departments
 
 *   Weekly Ad
-*   Prom Shop
+*   Active &. Wellness
 *   Deals
     *   Special Deals
     *   Deals Under $10
@@ -20,23 +20,81 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackHumidifiersAir purifiersFloorcareSheetsBed pillowsToppersWomenMenGirlsBoysWomenMenKidsWomenMenGirlsBoysComfy basicsCasual apparelPajama setsLearning gamesShop the local lookJCPenney is teaming up with fashion and lifestyle influencers to bring you a curated selection of their top picks. Check back every month to see new styles. CELEBRATE WOMEN’S HISTORY MONTHJoin us in celebrating Women’s History Month &. International Women’s Day! STARTING AT $1.99Women's cold-weather accessories select styles STARTING AT $4.99Men's cold-weather accessoriesselect stylesSTARTING AT $9.99Women's outerwearselect stylesSTARTING AT $9.99Men's outerwearselect stylesSelections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.†Buy two items at regular price, get a third item of equal or lesser value for free, while supplies last.  
+Near YouFind a StoreBackHumidifiersAir purifiersFloorcareAir fryersBlenders &. juicersPressure cookersSheetsBed pillowsToppers 
+
+*   Shop Nike
+
+*   Women
+    
+*   Men
+    
+*   Kids
+    
+*   Shoes
+    
+
+Shop NikeWomenMenGirlsBoysWomenMenKidsBoys clothingGirls clothingPajama setsLearning toys &. gamesShop the local lookJCPenney is teaming up with fashion and lifestyle influencers to bring you a curated selection of their top picks. Check back every month to see new styles. CELEBRATE WOMEN’S HISTORY MONTHJoin us in celebrating Women’s History Month &. International Women’s Day! STARTING AT $1.99Women's cold-weather accessories select styles STARTING AT $4.99Men's cold-weather accessoriesselect stylesSTARTING AT $9.99Women's outerwearselect stylesSTARTING AT $9.99Men's outerwearselect stylesSelections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.†Buy two items at regular price, get a third item of equal or lesser value for free, while supplies last.  
 ††Buy three items at regular price, get three items of equal or lesser value for free, while supplies last.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   $674 - $749after couponwas $13 a.n.a Womens V Neck Sleeveless Tank Top(6)
-*   $749 - $1274after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(346)
-*   $3749after couponwas $74 Perceptions Short Sleeve Lace Fit &. Flare Dress(1)
-*   $104 - $299after couponwas $7 Xersion-Womens Performance Tee(1654)
-*   $450 - $36after couponHome Expressions Solid or Stripe Bath Towel Collection(529)
-*   $1874after couponwas $55 Worthington Womens Beckwith Heeled Sandals(33)
+*   DOORBUSTER!
+    
+    $9099after couponwas $260 - $300 JCPenney Home Audrey 10-pc. Comforter Set(6)
+*   $494 - $1874after couponwas $44 St. John's Bay Womens Mid Rise Straight Leg Jean(2154)
+*   $749 - $899after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(347)
+*   $494 - $33after couponWorthington Perfect Trouser Modern Fit Bootcut Trouser(470)
+*   $3999 sale
+    
+    was $60 | 33% offNike Downshifter 9 Mens Running Shoes(27)
+*   $750 - $57after couponJCPenney Home Performance Bath Towel Collection(326)
 
 Sponsored Items
 
+*   BUY 2 GET 1 FOR FREE
+    
+    $879 - $44
+    
+    Vanity Fair Beyond Comfort Wireless Comfort Full Figure Bra-71282(54)Add To Cart
+*   $1449after couponwas $23 Matrix Biolage 3butter Control Day Cream Leave in Conditioner(6)
+*   $9499
+    
+    North States In-Out Sand 8-Panel Play YardAdd To Cart
+*   $4236 - $66954after couponwas $90 - $1,500 Covington Home Evan Rectangular Rug(21)Add To Cart
+*   $5249after couponwas $120 Farberware Cookstart 15-pc. Cookware Set(61)Add To Cart
+*   BEST VALUE!
+    
+    $9999
+    
+    As Seen on TV Blue Diamond 10-Pc. Cookware Set(30)Add To Cart
+*   BEST VALUE!
+    
+    $45
+    
+    Umbra Barrel Shower Caddy(9)Add To Cart
+*   $14999 sale
+    
+    was $240 | 37% offRachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set(192)Add To Cart
+*   $4049after couponwas $78 Wrangler Riggs Workwear® Ranger Pants(374)Add To Cart
+*   $20610after couponGoogle Nest Hello Video Doorbell(353)
+*   $74 - $120
+    
+    Donna Karan Cashmere Mist Eau De Parfum(236)Add To Cart
+*   $1499
+    
+    Fisher-Price Laugh &. Learn Click &. Learn Laptop(10)
 *   $3599 clearance
     
     was $59.99 | 40% offLego Classic Large Creative Brick Box 10698(8)
-*   $5249after couponwas $120 Farberware Cookstart 15-pc. Cookware Set(61)Add To Cart
+*   $92
+    
+    Clarks Womens Danelly Shine Round Toe Slip-On ShoeAdd To Cart
+*   $20999after couponwas $600 Circulon 11-Pc. Aluminum Non-Stick Cookware Set(27)Add To Cart
+*   $1199
+    
+    Dr. Browns Options Wide Neck Baby Bottle 2-pkAdd To Cart
+*   $68 - $112
+    
+    Michael Kors Sexy Amber(49)Add To Cart
 *   BUY 3 GET 3 FOR FREE
     
     BUY MORE AND SAVE
@@ -44,51 +102,10 @@ Sponsored Items
     $13
     
     Bali Comfort Revolution Easylite Knit Brief Panty Dfel61(28)Add To Cart
-*   BUY 2 GET 1 FOR FREE
-    
-    $2639 - $44
-    
-    Vanity Fair Beyond Comfort Wireless Comfort Full Figure Bra-71282(54)Add To Cart
-*   $1449after couponwas $23 Matrix Biolage Oil Renew Multi-Taking Oil-In-Cream Hair Cream-6.8 oz.(1)Add To Cart
-*   $4236 - $66954after couponwas $90 - $1,500 Covington Home Evan Rectangular Rug(21)Add To Cart
-*   $98after couponCirculon 12-In Covered Pan 2-pc. Aluminum Non-Stick Skillet(17)Add To Cart
-*   BEST VALUE!
-    
-    $10
-    
-    Umbra Buddy Bath Squeegee(1)
-*   $9499
-    
-    North States In-Out Sand 8-Panel Play YardAdd To Cart
-*   $4049after couponwas $78 Wrangler Riggs Workwear® Ranger Pants(374)Add To Cart
-*   $5999 sale
-    
-    was $94 | 36% offClarks Womens Delana Jazz Strap Sandals(1)Add To Cart
-*   BEST VALUE!
-    
-    $9999
-    
-    As Seen on TV Blue Diamond 10-Pc. Cookware Set(30)Add To Cart
-*   $1499
-    
-    Fisher-Price Laugh &. Learn Click &. Learn Laptop(10)
-*   $14999 sale
-    
-    was $240 | 37% offRachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set(192)Add To Cart
-*   $44820after couponGoogle Nest Cam IQ Indoor Security Camera 2-Pack(25)
-*   $30
-    
-    Michael Kors Sexy Amber Rollerball(14)Add To Cart
-*   $1874 - $2624after couponwas $50 Lee® Flex Motion Trouser(7)Add To Cart
 *   $4999
     
     Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill PanAdd To Cart
-*   $54
-    
-    Donna Karan Cashmere Mist Body Creme(6)Add To Cart
-*   $1199
-    
-    Dr. Browns Options Wide Neck Baby Bottle 2-pkAdd To Cart
+*   $659 - $2249after couponwas $44 Lee® Plain Front Relaxed All Day Twill Pant(781)Add To Cart
 
 Shop and Save at JCPenney
 
