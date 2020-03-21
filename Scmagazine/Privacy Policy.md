@@ -222,23 +222,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   SC Media’s complete coverage: Threat and Preparation
-    *   Fed report castigates U.S. ability to fend off a cyberattack, suggests major reforms
-    *   Checkmarx sold for $1.15 billion
     *   Zero day found in Zoho One Desktop Central
-    *   ETSI OSM replaces live hackfest with virtual event
-    
-    *   Secure Access Service Edge (SASE) – key points for early adopters
-    *   Necurs botnet operation dismantled. millions of malicious domains disabled
-    *   Don’t get fooled again: Fake coronavirus emails impersonate the WHO to deliver FormBook trojan
-    *   ETSI OSM replaces live hackfest with virtual event
+    *   Microsoft issues out-of-band fix for leaked 'EternalDarkness' bug
+    *   Fed report castigates U.S. ability to fend off a cyberattack, suggests major reforms
+    *   Eight million EU retail sales records exposed on AWS MongoDB
     *   Spyware disguised as COVID-19 tracker app actually keeps track of users
     
-    *   VPNs: Not a cybersecurity slam dunk for telecommuters in the age of COVID-19
-    *   SC Media’s complete coverage: Threat and Preparation
     *   Report: NutriBullet's website injected with skimmer three times by Magecart Group 8
-    *   Cybercriminals weaponize the World Health Organization name to lure phishing victims
-    *   Adobe patches 41 vulnerabilities, 22 in Photoshop
+    *   Rogers’ vendor leaves database open
+    *   Threat actors play on people’s desire to help cure Coronavirus
+    *   Zero day found in Zoho One Desktop Central
+    *   VMware squashes critical code execution bug in hypervisors
+    
+    *   TrickBot banking trojan introduces RDP brute forcing module
+    *   Five tips for managing remote workers during a pandemic
+    *   Five billion records exposed in open 'data breach database'
+    *   SC Stats: Coronavirus spurring thousands of new domains, many malicious
+    *   SC Media’s complete coverage: Threat and Preparation
 
 Back to Top
 
@@ -271,8 +271,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World June  22-24, 2020 | Lake Buena Vista, FL
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World June  22-24, 2020 | Lake Buena Vista, FL
