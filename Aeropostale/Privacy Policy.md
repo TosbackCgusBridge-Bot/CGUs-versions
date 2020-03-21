@@ -200,7 +200,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Buy 1 Get 1 Free Jeans + Shorts** ** GIRLS GUYS + FS $50**
+**Extra 20% Off GIRLS GUYS + Free Shipping Over $50**
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -389,19 +389,33 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
 
-50-70% OFF
+#STAYATHOME Take an
 
-ENTIRE SITE
+EXTRA 20% OFF
 
-\*Excludes Clearance
+EVERY. SINGLE. THING.
+
+NO EXCLUSIONS
+
+That Includes Styles Already Reduced 50-70%,
+
+BOGO Jeans &. Shorts, Clearance &. More.
+
+Online Only. Discount Taken At Checkout.
 
 Shop Girls Shop Guys
 
-50-70% OFF
+#STAYATHOME Take an
 
-ENTIRE SITE
+EXTRA 20% OFF
 
-\*Excludes Clearance
+EVERY. SINGLE. THING. NO EXCLUSIONS
+
+That Includes Styles Already Reduced 50-70%,
+
+BOGO Jeans &. Shorts, Clearance &. More.
+
+Online Only. Discount Taken At Checkout.
 
 Shop Girls Shop Guys Previous
 
