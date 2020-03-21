@@ -24,10 +24,9 @@ Sencha.com
         *   Sencha Themer
         *   Sencha Stencils
 *   Services
-    *   Services
-        *   Professional Services
-        *   Training
-        *   Partners
+    *   Professional Services
+    *   Training
+    *   Partners
 *   Solutions
     *   Why Develop with Sencha?
     *   Sencha Solutions for
@@ -36,10 +35,9 @@ Sencha.com
         *   Managers
         *   Ext JS for OEM
 *   Resources
-    *   Resources
-        *   Resource Center
-        *   Docs
-        *   Examples
+    *   Resource Center
+    *   Documentation
+    *   Demos
 *   Quality Assurance
 
 *   日本語
@@ -342,7 +340,7 @@ info@sencha.com
     You can always update your communications preferences later.  
       
     Sencha, Inc. may share your information with its parent company, Idera, Inc., its affiliates globally and its partners. For further details on how your data is used and stored, please review our Sencha Privacy Policy.
-*   PhoneThis field is for validation purposes and should be left unchanged.
+*   NameThis field is for validation purposes and should be left unchanged.
 
 This iframe contains the logic required to handle Ajax powered Gravity Forms. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K6P32Q9" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
 
