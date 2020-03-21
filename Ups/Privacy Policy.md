@@ -177,8 +177,8 @@ Legal
 
 Copyright ©1994- 2020 United Parcel Service of America, Inc. All rights reserved.
 
-This website uses cookies
+Close This website uses cookies
 
-We do this to better understand how visitors use our site and to offer you a more personal experience. We share information about your use of our site with social media and analytics partners in accordance with our Privacy Notice. You can manage your preferences by selecting Cookie Settings.
+We do this to better understand how visitors use our site and to offer you a more personal experience. Please see our Privacy Notice for more information. You can manage your preferences by selecting Cookie Settings.
 
-Close Play IconFeedback
+Play IconFeedback
