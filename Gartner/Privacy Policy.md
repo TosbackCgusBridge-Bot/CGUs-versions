@@ -78,7 +78,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 750 4192 1 855 750 4192
+    1 855 805 7971 1 855 805 7971
     
 
 *   Solutions By Function
@@ -143,7 +143,7 @@ Search
 
 *   Become a Client
     
-    1 855 750 4192 1 855 750 4192
+    1 855 805 7971 1 855 805 7971
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
