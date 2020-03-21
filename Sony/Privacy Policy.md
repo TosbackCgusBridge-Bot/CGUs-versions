@@ -122,7 +122,7 @@ At Sony Square NYC
 
 Control’s first expansion The Foundation sends Jesse on a deeper journey through the Oldest House on March 26:  http://play.st/2vj1I9k  pic.twitter.com/BS1Yk4qxF1
 
-4 days ago View Tweet Instagram Post B8hhzadFKKl
+5 days ago View Tweet Instagram Post B8hhzadFKKl
 
 Noise-Canceling Power
 
@@ -165,15 +165,15 @@ Play video: With Nanotech Pumping Through His Veins, Vin Diesel Shares What It�
 
 Crafted with Pulse Insights <img class="bg-img" data-linkname="en:set\_b:position\_3|\_2x2-1:poll:playstation:SpringGamesPoll-March-16-2020:ps:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name=" Spring-Games-Poll" data-img1x="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg" data-img2x="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg" src="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg"/>. <img class="bg-img" data-linkname="en:set\_b:position\_3|\_2x2-1:poll:playstation:SpringGamesPoll-March-16-2020:ps:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name=" Spring-Games-Poll" data-img1x="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg" data-img2x="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg" src="/content/dam/sony/homepage/2019-february/2-11/SRPoll\_TYScreen\_600x600wte.jpg"/>. Instagram Post B88awZpFV2b
 
-Perfect For Parties
+Great For Indoor Listening
 
 Try Our Portable Speaker
 
-*   Share on Facebook: Perfect For Parties
-*   Share on Twitter: Perfect For Parties
-*   Copy URL to Share: Perfect For Parties
+*   Share on Facebook: Great For Indoor Listening
+*   Share on Twitter: Great For Indoor Listening
+*   Copy URL to Share: Great For Indoor Listening
 
-<img class="bg-img" data-linkname="en:set\_b:position\_3|\_2x1-3:image:electronics:OutdoorSpeaker-March-16-2020:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Perfect For Parties Outdoor-Speaker" data-img1x="/content/dam/sony/homepage/2020-march/3-9/GTKPG10-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-march/3-9/GTKPG10-600x600.jpg" src="/content/dam/sony/homepage/2020-march/3-9/GTKPG10-600x600.jpg" alt="Perfect For Parties "/>. <img class="bg-img" data-linkname="en:set\_b:position\_3|\_2x1-3:image:electronics:OutdoorSpeaker-March-16-2020:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Perfect For Parties Outdoor-Speaker" data-img1x="/content/dam/sony/homepage/2020-march/3-9/GTKPG10-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-march/3-9/GTKPG10-600x600.jpg" src="/content/dam/sony/homepage/2020-march/3-9/GTKPG10-600x600.jpg" alt="Perfect For Parties Mobile"/>.
+<img class="bg-img" data-linkname="en:set\_b:position\_3|\_2x1-3:image:electronics:OutdoorSpeaker-March-16-2020:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Great For Indoor Listening Outdoor-Speaker" data-img1x="/content/dam/sony/homepage/2020-march/3-9/GTKPG10-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-march/3-9/GTKPG10-600x600.jpg" src="/content/dam/sony/homepage/2020-march/3-9/GTKPG10-600x600.jpg" alt="Great For Indoor Listening"/>. <img class="bg-img" data-linkname="en:set\_b:position\_3|\_2x1-3:image:electronics:OutdoorSpeaker-March-16-2020:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Great For Indoor Listening Outdoor-Speaker" data-img1x="/content/dam/sony/homepage/2020-march/3-9/GTKPG10-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-march/3-9/GTKPG10-600x600.jpg" src="/content/dam/sony/homepage/2020-march/3-9/GTKPG10-600x600.jpg" alt="Great For Indoor Listening Mobile"/>.
 
 See Professional Photographers Capture a Total Eclipse Using an a7R III Camera
 
