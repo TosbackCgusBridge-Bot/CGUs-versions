@@ -594,6 +594,8 @@ Legal Disclaimers
 
 \*\*\*Limited warranties are contingent on age and mileage. Whatever comes first concludes the warranty.
 
+^Now through April 30, 2020 get 0% APR Financing for 63 months on all new 2020 Ascent, Forester, Outback, Legacy, and Impreza Models.  No down payment required.  Monthly payment of $15.87 per $1,000 financed.  Offer may vary by location. Other rates and payment terms available. Cannot be combined with any other incentive. Financing for well-qualified applicants only. Length of contract is limited. Subject to credit approval, vehicle insurance approval and vehicle availability. See participating retailers for details. Must take delivery from retailer stock by April 30, 2020.
+
 Subaru has the utmost respect for the environment and is a proud partner of Leave No Trace. Care was taken not to harm the environment when taking this photo.
 
 Subaru, SUBARU BOXER, BRZ, Forester, Impreza, Legacy, Outback, STI, Tribeca, WRX, XV Crosstrek, EyeSight and STARLINK are registered trademarks.
