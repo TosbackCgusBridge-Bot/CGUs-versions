@@ -222,23 +222,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Zero day found in Zoho One Desktop Central
-    *   Microsoft issues out-of-band fix for leaked 'EternalDarkness' bug
-    *   Fed report castigates U.S. ability to fend off a cyberattack, suggests major reforms
-    *   Eight million EU retail sales records exposed on AWS MongoDB
-    *   Spyware disguised as COVID-19 tracker app actually keeps track of users
+    *   Russian cybercrime forums seen selling malware-sabotaged COVID-19 map
+    *   Twitter changing safety guidelines regarding COVID-19 posts
+    *   Necurs botnet operation dismantled. millions of malicious domains disabled
+    *   SC Stats: Coronavirus spurring thousands of new domains, many malicious
+    *   Coronavirus news being used to sneak malware past AV programs
     
-    *   Report: NutriBullet's website injected with skimmer three times by Magecart Group 8
-    *   Rogers’ vendor leaves database open
-    *   Threat actors play on people’s desire to help cure Coronavirus
-    *   Zero day found in Zoho One Desktop Central
-    *   VMware squashes critical code execution bug in hypervisors
+    *   Coronavirus news being used to sneak malware past AV programs
+    *   COVID-19: You won’t get a pass on cybersecurity
+    *   Malicious coronavirus map hides AZORult info-stealing malware
+    *   Adobe patches 41 vulnerabilities, 22 in Photoshop
+    *   Five tips for managing remote workers during a pandemic
     
+    *   Report: Account takeover and data scraping attacks on e-retailers up as COVID-19 surges
+    *   Coronavirus news being used to sneak malware past AV programs
+    *   Drupal, Google and Cisco post security advisories
     *   TrickBot banking trojan introduces RDP brute forcing module
     *   Five tips for managing remote workers during a pandemic
-    *   Five billion records exposed in open 'data breach database'
-    *   SC Stats: Coronavirus spurring thousands of new domains, many malicious
-    *   SC Media’s complete coverage: Threat and Preparation
 
 Back to Top
 
