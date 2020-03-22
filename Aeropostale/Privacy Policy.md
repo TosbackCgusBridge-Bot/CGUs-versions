@@ -152,7 +152,7 @@ Close submenu ( Girls ) Girls
 *   Matching Sets
 *   Mexico City
 *   Swim
-*   Flip Flops + Slides
+*   Jewelry
 *   Spring Break
 *   Tiny Tops
 
@@ -166,6 +166,7 @@ Close submenu ( Guys ) Guys
 *   Destroyed Denim
 *   Music + Pop Culture
 *   Mexico City
+*   Flip Flops + Slides
 *   Spring Break
 
 Close submenu ( Clearance ) Clearance
@@ -338,7 +339,7 @@ Menu Find a Store Aeropostale
         *   Matching Sets
         *   Mexico City
         *   Swim
-        *   Flip Flops + Slides
+        *   Jewelry
         *   Spring Break
         *   Tiny Tops
     
@@ -351,6 +352,7 @@ Menu Find a Store Aeropostale
         *   Destroyed Denim
         *   Music + Pop Culture
         *   Mexico City
+        *   Flip Flops + Slides
         *   Spring Break
     
 *   Clearance
@@ -389,7 +391,7 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
 
-#STAYATHOME Take an
+#StayHomeWithAero Take an
 
 EXTRA 20% OFF
 
@@ -405,7 +407,7 @@ Online Only. Discount Taken At Checkout.
 
 Shop Girls Shop Guys
 
-#STAYATHOME Take an
+#StayHomeWithAero Take an
 
 EXTRA 20% OFF
 
