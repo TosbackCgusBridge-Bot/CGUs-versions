@@ -21,6 +21,7 @@ View more results
     *   Multiplayer Casino
     
     All Multiplayer Best Games
+    *   Worms.Zone
     *   Belote
     *   Ono Card Game
     *   Subway Clash 3D
@@ -29,12 +30,11 @@ View more results
     *   Pool Clash: 8 Ball Billiards Snooker
     *   Wormate.io
     *   Fireboy &. Watergirl 4: Crystal Temple
+    *   Minigolf
     *   Crowd City
     *   Stickman Fighter: Epic Battle
     *   Slither.io
-    *   Master Chess Multiplayer
     *   Empire: World War 3
-    *   Hole.io
 *   Action
     
     Top Categories
@@ -55,14 +55,14 @@ View more results
     *   Apple Shooter
     *   Combat Reloaded
     *   Deer Hunter
-    *   Wormate.io
     *   King Soldier
+    *   Wormate.io
     *   Short Life
     *   Stickman Fighter: Epic Battle
     *   Slither.io
     *   Super Buddy Kick
-    *   Stickman Warriors
     *   Fruit Blaster
+    *   Stickman Warriors
     *   Mr. Bullet
 *   Adventure
     
@@ -88,8 +88,8 @@ View more results
     *   Monkey Go Happy: Witchcraft
     *   Chrome Dino
     *   Troll Face Quest: Horror 2
-    *   Fox Simulator
     *   World Crafts
+    *   Fox Simulator
     *   Dumb Ways to Die: Original
     *   Bob the Robber 4: Season 2 Russia
     *   Rio Rex
@@ -114,14 +114,14 @@ View more results
     *   Bubble Shooter Classic
     *   Roll The Ball
     *   1001 Arabian Nights
-    *   Puzzletag
     *   Gold Train FRVR
-    *   Mahjong Link
+    *   Puzzletag
     *   Line Puzzle
+    *   Mahjong Link
     *   Dream Pet Link
     *   Free the Key
+    *   Word Wipe
     *   Garden Tales
-    *   Bubble Shooter
 *   Girls
     
     Top Categories
@@ -137,19 +137,19 @@ View more results
     *   Make Up
     
     All Girls Best Games
-    *   Princesses vs Princes Selfie Battle
     *   My New Room
     *   High School Breakup Drama
     *   Sailor Moon Creator
     *   Ella: Hips Surgery
+    *   Baby Hazel: Hand Fracture
     *   Goldie: Lip Injections
     *   Princesses Makeover
+    *   Dreamhouse Quiz
     *   Villains vs. Princesses: School Fashion
     *   Ellie: Get Ready With Me
     *   The Celebrity Way of Life
-    *   Burger Chef: Cooking Story
-    *   Dove Prom Dolly Dress Up
     *   Princesses: Just Another Galaxy
+    *   Princesses vs Princes Selfie Battle
     *   Miraculous Hero Kiss
 *   Racing
     
@@ -173,12 +173,12 @@ View more results
     *   Top Speed Muscle Car: Simulator Game
     *   Xcross Madness
     *   City Car Stunts 2
-    *   Cars 3D
-    *   Agame Stunt Cars
-    *   Hill Racing Challenge
-    *   Real Dog Racing Simulator
     *   Bus Man Parking 3D
+    *   Cars 3D
+    *   Hill Racing Challenge
+    *   Agame Stunt Cars
     *   Parking Passion
+    *   Real Dog Racing Simulator
     *   Off-Roader V6
 *   Sports
     
@@ -200,14 +200,14 @@ View more results
     *   Archery World Tour
     *   Ultimate Boxing
     *   Pool Clash: 8 Ball Billiards Snooker
-    *   Xcross Madness
     *   Stunt Skateboard 3D
+    *   Xcross Madness
     *   Table Tennis World Tour
     *   Subway Surf
+    *   Baseball
     *   Football Legends 2016
     *   Horse Racing: Betting Game
     *   Hunter 3D
-    *   Football Masters: Euro 2020
 *   More
     
     *   Multiplayer
