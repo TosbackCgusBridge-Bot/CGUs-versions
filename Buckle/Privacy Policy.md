@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Up to 50% Off 100s of New Markdowns. shop now\>.
+Due to concerns of COVID-19, we are closing all Buckle stores, effective March 17th. learn more\>.
 
 *   Women
 *   Men
