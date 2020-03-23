@@ -222,17 +222,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Russian cybercrime forums seen selling malware-sabotaged COVID-19 map
-    *   Twitter changing safety guidelines regarding COVID-19 posts
-    *   Necurs botnet operation dismantled. millions of malicious domains disabled
-    *   SC Stats: Coronavirus spurring thousands of new domains, many malicious
+    *   Microsoft issues out-of-band fix for leaked 'EternalDarkness' bug
     *   Coronavirus news being used to sneak malware past AV programs
-    
-    *   Coronavirus news being used to sneak malware past AV programs
-    *   COVID-19: You won’t get a pass on cybersecurity
-    *   Malicious coronavirus map hides AZORult info-stealing malware
+    *   Cymatic offers free cybersecurity tool for schools for remote learning
     *   Adobe patches 41 vulnerabilities, 22 in Photoshop
-    *   Five tips for managing remote workers during a pandemic
+    *   Secure Access Service Edge (SASE) – key points for early adopters
+    
+    *   Some cybercriminals consider laying off health care targets amid COVID-19 crisis
+    *   COVID-19: You won’t get a pass on cybersecurity
+    *   Coronavirus tracking app locks up Android phones for ransom
+    *   SC Media’s complete coverage: Threat and Preparation
+    *   Five billion records exposed in open 'data breach database'
     
     *   Report: Account takeover and data scraping attacks on e-retailers up as COVID-19 surges
     *   Coronavirus news being used to sneak malware past AV programs
@@ -271,4 +271,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World June  22-24, 2020 | Lake Buena Vista, FL
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World June  22-24, 2020 | Lake Buena Vista, FL
