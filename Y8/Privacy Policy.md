@@ -12,31 +12,31 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1308 games
-*   Most Popular Games 20587 games
+*   Best of new games 1305 games
+*   Most Popular Games 20596 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,359 games
+*   For Girls 24,362 games
 *   Driving &. Racing 6,334 games
 *   Strategy &. RPG 3,607 games
 *   Management &. Sim 4,255 games
-*   Thinking 12,548 games
-*   Action &. Adventure 14,484 games
-*   Sports 3,318 games
-*   Shooting 9,017 games
+*   Thinking 12,549 games
+*   Action &. Adventure 14,486 games
+*   Sports 3,317 games
+*   Shooting 9,016 games
 *   Fighting 2,082 games
-*   Skill 10,920 games
-*   Arcade &. Classic 8,906 games
-*   Fun &. Crazy 4,788 games
+*   Skill 10,922 games
+*   Arcade &. Classic 8,913 games
+*   Fun &. Crazy 4,787 games
 
 Play with friends  
-Powered by Y8 Account 142 Y8 Multiplayer Games 2,202 Y8 High Score Games 1,249 Y8 Achievements Games 874 Y8 Screenshots Games 1,648 Y8 Online Save Games 3,362 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 142 Y8 Multiplayer Games 2,202 Y8 High Score Games 1,249 Y8 Achievements Games 874 Y8 Screenshots Games 1,649 Y8 Online Save Games 3,362 All Y8 Games Games Last Highscore:
 
-**102** points on Masked Forces by HARDY
+**41** points on Death Run 3D by Sonto33
 
 Help us improve Bad translation? Social
 
