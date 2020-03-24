@@ -330,13 +330,7 @@ Advertising vendors Usage data
 *   Delivering optimized services, experiences and products
 *   Advertising
 
-Data processing and analytics vendors Voice recordings
-
-*   MLB Properties
-
-*   Request fulfillment
-
-None Data specific to an event, activity, or product (e.g. fan clubs, fantasy camps, 5k runs)
+Data processing and analytics vendors Data specific to an event, activity, or product (e.g. fan clubs, fantasy camps, 5k runs)
 
 *   MLB Properties
 *   Ticketing partners
