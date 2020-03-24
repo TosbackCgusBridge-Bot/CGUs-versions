@@ -206,10 +206,7 @@
     *   Locations
     *   Employment Verification
 
-*   My Account
-    *   Check Email
-    *   View or Pay My Bill
-    *   MyCCI.net
+*   My Account   
 
 *   About Us
     *   Locations
@@ -558,12 +555,9 @@ Business Support
 
 Account Support
 
-*   Check Email
-*   View or Pay My Bill
 *   Help Understanding My Bill
 *   Check My Internet Speed Eligibility
 *   Seasonal Suspend &. Restore
-*   MyCCI.net Support
 
 Phone Book
 
