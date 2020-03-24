@@ -186,6 +186,7 @@ Mozilla Privacy
 
 *   Mozilla Websites, Communications &. Cookies
 *   Firefox Browser
+*   Firefox Better Web
 *   Firefox for Fire TV
 *   Firefox Reality
 *   Firefox OS
