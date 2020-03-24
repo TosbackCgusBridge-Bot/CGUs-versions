@@ -7,25 +7,10 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
 
 *   Movies Now Playing
     
-    *   Onward
-    *   I Still Believe
-    *   Bloodshot (2020)
-    *   The Invisible Man (2020)
-    *   The Hunt (2020)
-    *   Sonic the Hedgehog
-    *   The Way Back (2020)
-    *   The Call of the Wild (2020)
-    *   Emma (2020)
-    *   Bad Boys for Life
-    *   Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Children of the Sea
-    *   Dosed
-    *   Human Capital (2020)
-    *   Phoenix, Oregon
     *   See All Opening This Week
     
     Coming Soon
@@ -34,10 +19,8 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
     *   Trolls World Tour
     *   My Spy (2020)
     *   Charm City Kings (2020)
-    *   Black Widow (2020)
     *   Run Sweetheart Run (2020)
     *   The High Note (2020)
-    *   Run (2020)
     *   Scoob!
     *   See All Coming Soon
     
