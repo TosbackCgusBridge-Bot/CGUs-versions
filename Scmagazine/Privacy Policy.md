@@ -222,23 +222,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Microsoft issues out-of-band fix for leaked 'EternalDarkness' bug
-    *   Coronavirus news being used to sneak malware past AV programs
-    *   Cymatic offers free cybersecurity tool for schools for remote learning
-    *   Adobe patches 41 vulnerabilities, 22 in Photoshop
-    *   Secure Access Service Edge (SASE) – key points for early adopters
+    *   Twitter changing safety guidelines regarding COVID-19 posts
+    *   Report: NutriBullet's website injected with skimmer three times by Magecart Group 8
+    *   VMware squashes critical code execution bug in hypervisors
+    *   ETSI OSM replaces live hackfest with virtual event
+    *   Ransomware halts health organization's ability to inform public on COVID-19
     
-    *   Some cybercriminals consider laying off health care targets amid COVID-19 crisis
-    *   COVID-19: You won’t get a pass on cybersecurity
+    *   Coronavirus news being used to sneak malware past AV programs
+    *   Blisk browser left open, 2.9 million records exposed
     *   Coronavirus tracking app locks up Android phones for ransom
-    *   SC Media’s complete coverage: Threat and Preparation
-    *   Five billion records exposed in open 'data breach database'
-    
     *   Report: Account takeover and data scraping attacks on e-retailers up as COVID-19 surges
-    *   Coronavirus news being used to sneak malware past AV programs
-    *   Drupal, Google and Cisco post security advisories
-    *   TrickBot banking trojan introduces RDP brute forcing module
-    *   Five tips for managing remote workers during a pandemic
+    *   Twitter changing safety guidelines regarding COVID-19 posts
+    
+    *   FSB contractor breach exposes secret cyber weapons program leveraging IoT vulnerabilities
+    *   FBI warns of COVID-19 phishing scams promising stimulus checks, vaccines
+    *   Mirai variant Mukashi searching out Zixel NAS devices
+    *   Maze ransomware attackers extort vaccine testing facility
+    *   Pwn2Own contest yields 13 bugs, as virtual format expands talent pool
 
 Back to Top
 
@@ -271,4 +271,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World June  22-24, 2020 | Lake Buena Vista, FL
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+
+You can skip this ad in 1 seconds.
+
+Join us for InfoSec World June  22-24, 2020 | Lake Buena Vista, FL
