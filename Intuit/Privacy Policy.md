@@ -1,6 +1,6 @@
 Free Shipping Over $49See DetailsEnable Accessibility
 
-*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
+*   My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -33,59 +33,57 @@ Near YouFind a StoreBackHumidifiersAir purifiersFloorcareAir fryersBlenders &. j
 *   Shoes
     
 
-Shop NikeWomenMenGirlsBoysWomenMenKidsBoys clothingGirls clothingPajama setsLearning toys &. gamesShop the local lookJCPenney is teaming up with fashion and lifestyle influencers to bring you a curated selection of their top picks. Check back every month to see new styles. CELEBRATE WOMEN’S HISTORY MONTHJoin us in celebrating Women’s History Month &. International Women’s Day! STARTING AT $1.99Women's cold-weather accessories select styles STARTING AT $4.99Men's cold-weather accessoriesselect stylesSTARTING AT $9.99Women's outerwearselect stylesSTARTING AT $9.99Men's outerwearselect stylesSelections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.†Buy two items at regular price, get a third item of equal or lesser value for free, while supplies last.  
+Shop NikeWomenMenGirlsBoysWomenMenKidsSlippersBoys clothingGirls clothingPajama setsLearning toys &. gamesSTARTING AT $1.99Women's cold-weather accessories select styles STARTING AT $4.99Men's cold-weather accessoriesselect stylesSTARTING AT $9.99Women's outerwearselect stylesSTARTING AT $9.99Men's outerwearselect stylesSelections may vary by store, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.†Buy two items at regular price, get a third item of equal or lesser value for free, while supplies last.  
 ††Buy three items at regular price, get three items of equal or lesser value for free, while supplies last.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   $494 - $33after couponWorthington Perfect Trouser Modern Fit Bootcut Trouser(470)
-*   $1499after couponwas $72 Xersion Water Resistant Lightweight Puffer Jacket(323)
-*   SPECIAL DEAL!
-    
-    $3999 sale
-    
-    was $60 | 33% offNike Downshifter 9 Mens Running Shoes(27)
-*   $1124after couponwas $44 Worthington Womens Long Sleeve Open Front Cardigan(8)
-*   DOORBUSTER!
-    
-    $9099after couponwas $260 - $300 JCPenney Home Audrey 10-pc. Comforter Set(7)
+*   $749after couponwas $13 a.n.a Womens V Neck Sleeveless Tank Top(7)
+*   $104 - $299after couponwas $7 Xersion-Womens Performance Tee(1656)
+*   $1499 - $5624after couponwas $50 - $150 JCPenney Home Ultra Performance 575 Sateen Deep Pocket Sheet Set(147)
+*   $1874after couponwas $50 Pop Highbar Womens Sneakers(352)
+*   $599 - $1874after couponwas $40 Gloria Vanderbilt® Amanda Jeans(1521)
 *   $450 - $36after couponHome Expressions Solid or Stripe Bath Towel Collection(529)
 
 Sponsored Items
 
-*   BEST VALUE!
+*   BUY 1 GET 1 50% OFF
     
-    $20
+    $15
     
-    Umbra Touch Waste Basket(2)Add To Cart
-*   $2999 - $46479after couponwas $50 - $830 Covington Home Marathon Borders Rectangular Rugs(1)Add To Cart
-*   $1449after couponwas $23 Matrix Biolage 3butter Control Day Cream Leave in Conditioner(6)
+    Matrix Biolage Hyrdrasource Deep Treatment Moisture Hair Treatment - 3.4 oz.(2)Add To Cart
 *   $9499
     
     North States In-Out Sand 8-Panel Play YardAdd To Cart
+*   $5249after couponwas $120 Farberware Cookstart 15-pc. Cookware Set(61)Add To Cart
 *   BUY 2 GET 1 FOR FREE
     
     $879 - $44
     
     Vanity Fair Beyond Comfort Wireless Comfort Full Figure Bra-71282(54)Add To Cart
-*   $1499
+*   $2999 - $46479after couponwas $50 - $830 Covington Home Marathon Borders Rectangular Rugs(1)Add To Cart
+*   $20610after couponGoogle Nest Hello Video Doorbell(353)
+*   $3599 clearance
     
-    Fisher-Price Laugh &. Learn Click &. Learn Laptop(10)
+    was $59.99 | 40% offLego Classic Large Creative Brick Box 10698(8)
 *   BEST VALUE!
     
     $9999
     
     As Seen on TV Blue Diamond 10-Pc. Cookware Set(30)Add To Cart
-*   $3599 clearance
+*   $1499
     
-    was $59.99 | 40% offLego Classic Large Creative Brick Box 10698(8)
-*   $20610after couponGoogle Nest Hello Video Doorbell(353)
-*   $659 - $2249after couponwas $44 Lee® Plain Front Relaxed All Day Twill Pant(781)Add To Cart
-*   $74 - $120
+    Fisher-Price Laugh &. Learn Click &. Learn Laptop(10)
+*   $2624after couponwas $50 Lee® Flex Motion Trouser(7)Add To Cart
+*   $13999after couponwas $400 Circulon® Momentum 11-pc. Nonstick Cookware Set(133)
+*   $118
     
-    Donna Karan Cashmere Mist Eau De Parfum(236)Add To Cart
+    Michael Kors Eau De Parfum Michael Kors(50)Add To Cart
 *   $14999 sale
     
     was $240 | 37% offRachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set(192)Add To Cart
+*   $92
+    
+    Clarks Womens Danelly Shine Round Toe Slip-On ShoeAdd To Cart
 *   BUY 3 GET 3 FOR FREE
     
     BUY MORE AND SAVE
@@ -93,25 +91,19 @@ Sponsored Items
     $13
     
     Bali Comfort Revolution Easylite Knit Brief Panty Dfel61(28)Add To Cart
-*   $98after couponCirculon 12-In Covered Pan 2-pc. Aluminum Non-Stick Skillet(17)Add To Cart
-*   $92
-    
-    Clarks Womens Danelly Shine Round Toe Slip-On ShoeAdd To Cart
-*   $33499 sale
-    
-    was $360 | 7% offBissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum(2265)Add To Cart
-*   $4999
-    
-    Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill PanAdd To Cart
-*   $1199
-    
-    Dr. Browns Options Wide Neck Baby Bottle 2-pkAdd To Cart
-*   $68 - $112
-    
-    Michael Kors Sexy Amber(49)Add To Cart
 *   $56999 sale
     
     was $669 | 14% offDyson® V8 Animal Cord-Free Vacuum(178)
+*   $4999
+    
+    Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill PanAdd To Cart
+*   $30after couponUmbra Glo 8x10 Nickel 1-Opening Tabletop Frame(21)Add To Cart
+*   $74 - $120
+    
+    Donna Karan Cashmere Mist Eau De Parfum(236)Add To Cart
+*   $1199
+    
+    Dr. Browns Options Wide Neck Baby Bottle 2-pkAdd To Cart
 
 Shop and Save at JCPenney
 
