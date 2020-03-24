@@ -340,7 +340,7 @@ info@sencha.com
     You can always update your communications preferences later.  
       
     Sencha, Inc. may share your information with its parent company, Idera, Inc., its affiliates globally and its partners. For further details on how your data is used and stored, please review our Sencha Privacy Policy.
-*   CommentsThis field is for validation purposes and should be left unchanged.
+*   PhoneThis field is for validation purposes and should be left unchanged.
 
 This iframe contains the logic required to handle Ajax powered Gravity Forms. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K6P32Q9" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
 
