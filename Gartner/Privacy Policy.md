@@ -57,6 +57,7 @@ Search
     
     Featured Insights
     
+    *   Coronavirus (COVID-19)
     *   Cost Optimization
     *   Executive Guidance
     *   Strategic Planning
@@ -78,7 +79,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 659 7297 1 855 659 7297
+    1 855 460 1935 1 855 460 1935
     
 
 *   Solutions By Function
@@ -122,6 +123,7 @@ Search
     *   Supply Chain
     
     Featured Insights
+    *   Coronavirus (COVID-19)
     *   Cost Optimization
     *   Executive Guidance
     *   Strategic Planning
@@ -143,7 +145,7 @@ Search
 
 *   Become a Client
     
-    1 855 659 7297 1 855 659 7297
+    1 855 460 1935 1 855 460 1935
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
