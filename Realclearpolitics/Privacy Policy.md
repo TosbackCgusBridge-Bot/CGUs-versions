@@ -118,53 +118,53 @@
     *   About
     *   Media Kit
 
-*   _Heather MacDonald_: Total Shutdowns Carry Costs That Also Must Be Weighed
+*   _Brendan O'Neill_: Resisting Coronavirus Panic With Reason and Evidence
     
-*   _Mary Pfeiffer_: Hydroxychloroquine Helped This Patient. Can It Help More?
+*   _Ezra Klein_: How the COVID-19 Recession Could Become a Depression
     
-*   _Frida Ghitis_: Democracies Can Handle the Pandemic Challenge
+*   _Sen. Susan Collins_: Why Are Democrats Holding Up Help to the American People?
     
-*   _Guy Sorman_: Xi Jinping Is Our Principal Adversary in the World
+*   _Jennifer Senior_: Trump's News Conferences Are Propaganda
     
-*   _Salena Zito_: Veterans Running for Office Put Crisis Before Politics
+*   _Andrew Klavan_: Is There a Vaccine for Media's Trump Derangement?
     
-*   _Burns &. Martin_: How It All Came Apart for Bernie Sanders
+*   _Bill Scher_: Think Biden Has a Young Voter Problem? Think Again.
     
-*   _Sahil Kapur_: Dems Sound the Alarm on Biden's Young Voter Problem
+*   _McChrystal &. Fussell_: What Fighting Al Qaeda Taught Us About Coronavirus
     
-*   _David Marcus_: No, CNN, 'Humanity' Not to Blame for Virus. China Is
+*   _Jim Geraghty_: The Comprehensive Timeline of China's COVID-19 Lies
     
-*   _Emily Stewart_: The Coronavirus Recession Is Already Here
+*   _Kori Schake_: Self-Interested 'America First' Strategy Will Not Help the U.S.
     
-*   _Amity Shlaes_: A Proven Economic Path to Recovery
+*   _Angelo Codevilla_: How Fear Is Hurting Everyone Except Big Biz, Big Govt
     
-*   _Rick Reilly_: What Are We Going to Do Without Sports?
+*   _Carl Cannon_: Epidemics Then &. Now: A Shining Example of Journalism's Role
     
-*   _Juliette Kayyem_: The Crisis Could Last 18 Months. Be Prepared
+*   _Maureen Dowd_: Thank God the Doctor Is In
     
-*   _Mark Penn_: America Needs a 60-Day Plan to Battle Virus &. Save Economy
+*   _Victor Davis Hanson_: Good News Amidst Media-Driven Nihilism
     
-*   _Jake Tapper_: President Trump Needs to Stop Making Things Worse
+*   _Brian Wesbury_: Cut the Politicians' Pay
     
-*   _Michael Goodwin_: Shameful Media Still Slamming Trump During Crisis
+*   _Thomas Friedman_: A Plan to Get America Back to Work
     
-*   _Wu_: How the Virus Got Out of Wuhan
+*   _Jordain Carney_: Senate Democrats Block Mammoth Coronavirus Stimulus
     
-*   _Carl M. Cannon_: 'Woke' Capitalism and the Impact of Coronavirus
+*   _Naftali Bennett_: Isolating Elderly Is More Important Than Social Distancing
     
-*   _Elizabeth Drew_: Why the Democrats Are Going With Biden
+*   _Madeleine Albright_: Coronavirus Demands Global Cooperation
     
-*   _Patrick Allitt_: Is Democratic Socialism Alive and Well in U.S.?
+*   _Rep. Michael Cloud_: After Lies &. Cover-Ups, Move Past Reliance on China
     
-*   _Nathan Robinson_: Senators' Insider Trading a Symbol of Moral Bankruptcy
+*   _Kuan-lin Liu_: Will Sinophobia Be Our Downfall in Fight Against Coronavirus?
     
-*   _Kayleigh McEnany_: Biden and the Left: Too Many Excuses for China
+*   _Gordan Chang_: China's Real Disease: Not Coronavirus
     
-*   _Philip Wegmann_: Trump's Faith-Based Pivot: Anti-Viral Rx Would Be God's 'Gift'
+*   _A.B. Stoddard_: Trump at the Podium, for Better or (Mostly) Worse
     
-*   _Anna Wiener_: San Francisco Accepts Reality, Shelters in Place
+*   _Jay Cost_: Trump's Path to Re-Election in November
     
-*   _Aaron Ginn_: COVID-19: Evidence Over Hysteria
+*   _Romer &. Garber_: How to Prevent a Coronavirus Depression
     
 
 *   Previous
@@ -235,11 +235,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
-*   Trump Passes Up Chance to Even Score With Burr
-*   Trump's Team, Senators to Negotiate $1 Trillion Economic Rescue Deal
-*   Full Presser: Trump, Coronavirus Task Force Give Friday Update
+*   "Woke" Capitalism and the Impact of Coronavirus
+*   Trump's Faith-Based Pivot: Anti-Viral Rx Would Be God's "Gift"
+*   Bennett: Isolating Elderly Is More Important Than Social Distancing
 *   Politicizing Coronavirus: Will Dems' Dark-Money Ads Work?
-*   Beijing Fears COVID-19 Is Turning Point for China
+*   Trump Passes Up Chance to Even Score With Burr
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -253,25 +253,25 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
-*   2020 Democratic Presidential NominationEmerson
-    *   Biden54
-    *   Sanders42Biden +12
-*   General Election: Trump vs. BidenEmerson
-    *   Biden53
-    *   Trump47Biden +6
-*   General Election: Trump vs. SandersEmerson
-    *   Sanders53
-    *   Trump47Sanders +6
-*   President Trump Job ApprovalEmerson
-    *   Approve46
-    *   Disapprove45Approve +1
+*   President Trump Job ApprovalMonmouth
+    *   Approve48
+    *   Disapprove48Tie
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve45
+    *   Disapprove52Disapprove +7
+*   Direction of CountryRasmussen Reports
+    *   Right Direction40
+    *   Wrong Track55Wrong Track +15
+*   Direction of CountryMonmouth
+    *   Right Direction39
+    *   Wrong Track55Wrong Track +16
 
 More Latest Polls In The News
 
-*   Steve Bannon: We Need A "Full Shutdown" Right Now. "Go Full Hammer On The Virus"
-*   Cuomo: "Self-Destructive" And "Disrespectful" People Ignoring Quarantine Are "Making A Mistake"
-*   Ocasio-Cortez: President Not Using Defense Production Act Powers To Produce Medical Supplies Will "Cost Lives"
-*   Former FDA Chief Scott Gottlieb: "Life’s Never Going To Be Perfectly Normal Until We Get To A Vaccine"
+*   McConnell: Democrats Turning Coronavirus Relief Bill Into A "Left-Wing Episode Of Supermarket Sweep"
+*   Fauci: The Response Of Trump Admin Has Been Impressive, I Can't Imagine Anybody Could Be Doing More
+*   Collins: "Can Not Believe" Dems Won't Pass Coronavirus Relief Bill. "Is This What We've Come To?"
+*   Kudlow: "We're Going To Have To Make Some Difficult Tradeoffs," Cure Can't Be Worse Than The Disease
 *   Maddow: If Trump Won't Stop Lying, Media Should Stop Broadcasting Coronavirus Pressers Live
 
 *   Politics
