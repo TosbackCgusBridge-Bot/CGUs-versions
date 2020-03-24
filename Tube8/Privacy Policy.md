@@ -225,17 +225,6 @@ Close Upload ★VIP
 
 **Search Suggestions** start typing for suggestions ... **Suggested Pornstars** start typing for suggestions ... **Suggested Channels** start typing for suggestions ... **Suggested Keywords**
 
-*   exploited college
-*   moms teach sex
-*   my friends hot
-*   anal creampie
-*   first
-*   latina
-*   hot
-*   friends hot mom
-*   big natural tits
-*   hairy pussy
-
 **Recent Searches** Clear
 
 JOIN VIP FOR $1
