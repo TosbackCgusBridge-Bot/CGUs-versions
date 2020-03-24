@@ -79,7 +79,9 @@ Already have an account? Sign In Sign In Sign in to your account Sign in to your
 
 Password
 
-Keep me signed in Forgot password? Earn free travel rewards with Orbitz Rewards. By joining Orbitz Rewards, I accept all Terms and Conditions. Sign In Need an account? Sign Up Show us your human side... We can't tell if you're a human or a bot. I'm human Add your property Explore More Orbitz
+Keep me signed in Forgot password? Earn free travel rewards with Orbitz Rewards. By joining Orbitz Rewards, I accept all Terms and Conditions. Sign In By signing in, I agree to the Orbitz Rewards Terms and Conditions. opens in a new window
+
+Need an account? Sign Up Show us your human side... We can't tell if you're a human or a bot. I'm human Add your property Explore More Orbitz
 
 *   About Orbitz
 *   Investor Relations
