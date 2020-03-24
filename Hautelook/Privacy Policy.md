@@ -9,6 +9,22 @@ HauteLookFree Shipping on Orders Over $89\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
+    *   Natori Up to 65% Off
+    *   Reiss Up to 65% Off
+    *   Beyond Yoga
+    *   n:Philanthropy Up to 75% Off
+    *   Bony Levy ft. 14K Gold Jewelry
+    *   Printed Tops Under $45 Incl. Plus &. Petites
+    *   Splendid
+    *   Get Comfy: New Shoes for Spring
+    *   English Laundry Up to 65% Off
+    *   Psycho Bunny Lounge
+    *   Easter Home Decor Up to 50% Off
+    *   Trending Now: Sport Sandals
+    *   Men's Comfort Shoes from Rockport &. More
+    *   Candles, Diffusers &. More ft. NEST Fragrances
+    *   Stay Cozy: Kids' Sweatshirts, Joggers &. More
+    *   Olivia Miller
     *   Sterling Forever Jewelry Up to 75% Off
     *   Pants Under $32: Wide-Leg, Stretch &. More
     *   Dream-Worthy Steals: Sleep Up to 70% Off
@@ -22,9 +38,13 @@ HauteLookFree Shipping on Orders Over $89\* New! Temporary Extended Returns
     *   Polka Dots and Ditsy Prints Incl. Plus &. Petites
     *   Swim Faves Under $20
     *   Lacoste Men's Shoes
+    
     *   Terre Mere Organic Beauty Up to 75% Off
     *   Pop Sonic Starting at $10
+    *   Girls' Essentials Up to 70% Off
+    *   Boys' Essentials Up to 65% Off
     *   Dr. Martens Kids
+    *   Petit Pois by Viviana G
     *   GUESS Shoes
     *   Style Essentials: Men's Tees, Shorts &. More
     *   Girls' Pajamas Under $20
@@ -37,11 +57,9 @@ HauteLookFree Shipping on Orders Over $89\* New! Temporary Extended Returns
     *   West Kei Incl. Plus &. Petites
     *   Young Fabulous &. Broke
     *   Lucky Brand Men Under $40
-    *   Get Comfy: Lounge, Active &. Sneakers
-    
+    *   Rivka Friedman Jewelry Up to 70% Off
     *   Hosiery &. More ft. Wolford
     *   Liquid IV: Hydration Powder Supplements
-    *   Girls' Essentials Up to 70% Off
     *   Leather Bags &. Briefcases Up to 80% Off
     *   Our Favorite Hair Care Brands Starting at $10
     *   Spring Ready: Sandals Up to 65% Off
@@ -50,54 +68,46 @@ HauteLookFree Shipping on Orders Over $89\* New! Temporary Extended Returns
     *   Fresh Finds: Sandals, Pumps &. More Up to 65% Off
     *   Free Shipping: Professional Garment Steamers
     *   Dress Shop: Floral Styles Up to 70% Off
-    *   Dress Shop: Midis &. Maxis Up to 70% Off
-    *   Dress Shop: Lace Styles Up to 70% Off
-    *   Dress Shop: Jumpsuits &. Rompers from $25
+    
     *   Dress Shop: Polished Styles Under $70
-    *   Dress Shop: Printed Styles Up to 70% Off
     *   Dress Shop: Bodycon Styles &. More from $25
     *   Dress Shop: T-Shirt Styles Starting at $20
-    *   Dress Shop: Girls' Styles Up to 65% Off
-    *   Dress Shop: Plus-Size &. Petite Styles Up to 70% Off
-    *   Chantelle Intimates Under $35
-    *   Swim Essentials: Chic One-Pieces
-    *   Complete the Look: Animal Print Shoes &. More
-    *   Perfect Pairs: Sleek Pumps &. Heels
     *   Edward Bess Starting at $10
     *   Easter Ready: Men's Shoes
-    *   Hickey Freeman Up to 65% Off
     *   Free Shipping: Down &. Memory Foam Essentials
-    *   Boys' Easter Looks ft. Nautica
-    
     *   Makeup Faves Starting at $10
-    *   Easter Ready: Girls' Shoes from $20
-    *   Easter Ready: Boys' Shoes from $20
-    *   Antonio Maurizi
     *   Best of Skin Care: Moisturizers, Cleansers &. More
     *   Luxe Faux Fur Pillows &. Throws Up to 80% Off
     *   Fragrance Favorites ft. Calvin Klein
     *   Hair Tools Up to 80% Off
-    *   Petit Pois by Viviana G
-    *   Flats Under $40 ft. Me Too
-    *   Palettes We Love Up to 55% Off
-    *   Free Shipping: Quilts, Comforters &. More
+    *   Kitchen Best Sellers Up to 70% Off
     *   Update Your Bar Cart: Drinkware &. More from $15
-    *   Fresh Faced: Masks Up to 85% Off
     *   Free Shipping: Removable Wallpaper, Decals &. More
     *   Spring Update: Dish Towels &. More from $10
-    *   Free Shipping: Home Organization Up to 50% Off
-    *   Cute &. Casual: Comfy Tops &. More
     *   Ezekiel
-    *   Best of Skin Care Sets ft. Kate Somerville
-    *   Rivka Friedman Jewelry Up to 70% Off
-    *   Boys' Essentials Up to 65% Off
-    *   Report Collection Up to 65% Off
-    *   Kitchen Best Sellers Up to 70% Off
-    *   Keep Them Entertained: Educational Toys
     *   Upgrade Your Table: Dinnerware &. More from $10
-    *   Lingerie Shop: T-Shirt Bras Up to 55% Off
+    *   Best of Skin Care Sets ft. Kate Somerville
+    *   Get Comfy: Lounge, Active &. Sneakers
+    *   Dress Shop: Midis &. Maxis Up to 70% Off
+    *   Dress Shop: Lace Styles Up to 70% Off
+    *   Dress Shop: Jumpsuits &. Rompers from $25
+    *   Dress Shop: Printed Styles Up to 70% Off
+    *   Dress Shop: Girls' Styles Up to 65% Off
+    *   Dress Shop: Plus-Size &. Petite Styles Up to 70% Off
+    *   Free Shipping: Quilts, Comforters &. More
+    *   Cute &. Casual: Comfy Tops &. More
 *   WomenShop Sale Events
     
+    *   Natori Up to 65% Off
+    *   Reiss Up to 65% Off
+    *   Beyond Yoga
+    *   n:Philanthropy Up to 75% Off
+    *   Bony Levy ft. 14K Gold Jewelry
+    *   Printed Tops Under $45 Incl. Plus &. Petites
+    *   Splendid
+    *   Get Comfy: New Shoes for Spring
+    *   Trending Now: Sport Sandals
+    *   Candles, Diffusers &. More ft. NEST Fragrances
     *   Sterling Forever Jewelry Up to 75% Off
     *   Pants Under $32: Wide-Leg, Stretch &. More
     *   Dream-Worthy Steals: Sleep Up to 70% Off
@@ -110,14 +120,16 @@ HauteLookFree Shipping on Orders Over $89\* New! Temporary Extended Returns
     *   Swim Faves Under $20
     *   Terre Mere Organic Beauty Up to 75% Off
     *   Pop Sonic Starting at $10
+    *   Petit Pois by Viviana G
     *   GUESS Shoes
     *   Love Your Skin: Beauty Tools Starting at $10
     *   Nicole Miller Swim Under $20
     *   Rock Revival &. More
     *   PAIGE
+    
     *   West Kei Incl. Plus &. Petites
     *   Young Fabulous &. Broke
-    *   Get Comfy: Lounge, Active &. Sneakers
+    *   Rivka Friedman Jewelry Up to 70% Off
     *   Hosiery &. More ft. Wolford
     *   Liquid IV: Hydration Powder Supplements
     *   Leather Bags &. Briefcases Up to 80% Off
@@ -125,55 +137,45 @@ HauteLookFree Shipping on Orders Over $89\* New! Temporary Extended Returns
     *   Spring Ready: Sandals Up to 65% Off
     *   Tommy Hilfiger Shoes
     *   Fresh Finds: Sandals, Pumps &. More Up to 65% Off
-    
     *   Dress Shop: Floral Styles Up to 70% Off
-    *   Dress Shop: Midis &. Maxis Up to 70% Off
-    *   Dress Shop: Lace Styles Up to 70% Off
-    *   Dress Shop: Jumpsuits &. Rompers from $25
     *   Dress Shop: Polished Styles Under $70
-    *   Dress Shop: Printed Styles Up to 70% Off
     *   Dress Shop: Bodycon Styles &. More from $25
     *   Dress Shop: T-Shirt Styles Starting at $20
-    *   Dress Shop: Plus-Size &. Petite Styles Up to 70% Off
-    *   Chantelle Intimates Under $35
-    *   Swim Essentials: Chic One-Pieces
-    *   Complete the Look: Animal Print Shoes &. More
-    *   Perfect Pairs: Sleek Pumps &. Heels
     *   Edward Bess Starting at $10
     *   Makeup Faves Starting at $10
     *   Best of Skin Care: Moisturizers, Cleansers &. More
     *   Fragrance Favorites ft. Calvin Klein
     *   Hair Tools Up to 80% Off
-    *   Petit Pois by Viviana G
-    *   Flats Under $40 ft. Me Too
-    *   Palettes We Love Up to 55% Off
-    *   Fresh Faced: Masks Up to 85% Off
-    *   Cute &. Casual: Comfy Tops &. More
     *   Best of Skin Care Sets ft. Kate Somerville
-    *   Rivka Friedman Jewelry Up to 70% Off
-    *   Lingerie Shop: T-Shirt Bras Up to 55% Off
+    *   Get Comfy: Lounge, Active &. Sneakers
+    *   Dress Shop: Midis &. Maxis Up to 70% Off
+    *   Dress Shop: Lace Styles Up to 70% Off
+    *   Dress Shop: Jumpsuits &. Rompers from $25
+    *   Dress Shop: Printed Styles Up to 70% Off
+    *   Dress Shop: Plus-Size &. Petite Styles Up to 70% Off
+    *   Cute &. Casual: Comfy Tops &. More
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie &. Shapewear
     *   Jewelry
+    *   Lingerie &. Shapewear
     *   Handbags
 *   MenShop Sale Events
     
+    *   English Laundry Up to 65% Off
+    *   Psycho Bunny Lounge
+    *   Men's Comfort Shoes from Rockport &. More
     *   Men's Shoe Steals Up to 80% Off
     *   Lacoste Men's Shoes
     *   Style Essentials: Men's Tees, Shorts &. More
+    
     *   Lucky Brand Men Under $40
     *   Liquid IV: Hydration Powder Supplements
     *   Leather Bags &. Briefcases Up to 80% Off
-    
     *   Comfortable Style: Loungewear for Him
     *   Easter Ready: Men's Shoes
-    *   Hickey Freeman Up to 65% Off
-    *   Antonio Maurizi
     *   Ezekiel
-    *   Report Collection Up to 65% Off
     
     Shop By Category
     *   Clothing
@@ -181,73 +183,65 @@ HauteLookFree Shipping on Orders Over $89\* New! Temporary Extended Returns
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Stay Cozy: Kids' Sweatshirts, Joggers &. More
+    *   Olivia Miller
+    *   Girls' Essentials Up to 70% Off
+    *   Boys' Essentials Up to 65% Off
     *   Dr. Martens Kids
     *   Girls' Pajamas Under $20
     *   Boys' Pajamas Under $20
     *   Finds for Little Ones: Carriage Boutique &. More
-    *   Girls' Essentials Up to 70% Off
     *   Dress Shop: Girls' Styles Up to 65% Off
-    
-    *   Boys' Easter Looks ft. Nautica
-    *   Easter Ready: Girls' Shoes from $20
-    *   Easter Ready: Boys' Shoes from $20
-    *   Boys' Essentials Up to 65% Off
-    *   Keep Them Entertained: Educational Toys
     
     Shop By Category
     *   Girls
-    *   Boys
     *   Baby
+    *   Boys
     *   Girls' Shoes
-    *   Boys' Shoes
-    *   Toys
 *   HomeShop Sale Events
     
+    *   Easter Home Decor Up to 50% Off
     *   Free Shipping: BergHOFF Up to 65% Off
     *   Free Shipping: Professional Garment Steamers
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Luxe Faux Fur Pillows &. Throws Up to 80% Off
-    *   Free Shipping: Quilts, Comforters &. More
-    *   Update Your Bar Cart: Drinkware &. More from $15
+    *   Kitchen Best Sellers Up to 70% Off
     
+    *   Update Your Bar Cart: Drinkware &. More from $15
     *   Free Shipping: Removable Wallpaper, Decals &. More
     *   Spring Update: Dish Towels &. More from $10
-    *   Free Shipping: Home Organization Up to 50% Off
-    *   Kitchen Best Sellers Up to 70% Off
     *   Upgrade Your Table: Dinnerware &. More from $10
+    *   Free Shipping: Quilts, Comforters &. More
     
     Shop By Category
-    *   Kitchen &. Tabletop
     *   Bedding
+    *   Kitchen &. Tabletop
     *   Home Decor
     *   Cleaning &. Organization
+    *   Holiday Decorations
     *   Luggage &. Travel
-    *   Rugs &. Doormats
-    *   Accent Furniture
     *   Outdoor Living
     *   Bath
-    *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   Candles, Diffusers &. More ft. NEST Fragrances
     *   Terre Mere Organic Beauty Up to 75% Off
     *   Pop Sonic Starting at $10
     *   Love Your Skin: Beauty Tools Starting at $10
     *   Liquid IV: Hydration Powder Supplements
     *   Our Favorite Hair Care Brands Starting at $10
+    
     *   Edward Bess Starting at $10
     *   Makeup Faves Starting at $10
-    
     *   Best of Skin Care: Moisturizers, Cleansers &. More
     *   Fragrance Favorites ft. Calvin Klein
     *   Hair Tools Up to 80% Off
-    *   Palettes We Love Up to 55% Off
-    *   Fresh Faced: Masks Up to 85% Off
     *   Best of Skin Care Sets ft. Kate Somerville
     
     Shop By Category
+    *   Fragrance
     *   Makeup
     *   Skin Care
-    *   Fragrance
     *   Bath &. Body
     *   Hair Care
     *   Tools &. Accessories
