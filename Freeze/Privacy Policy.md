@@ -1,7 +1,0 @@
-Also try: software, download music, download, download software Ads related to free downloads
-
-*   100% **Free** Antivirus (2020) - Best **Free** Antivirus Softwarewww.antivirussoftwareguide.com/Best-Software/Free-AntivirusBest **Free** Antivirus Software 2020. Get **Free** Antivirus Protection Today. Protect Your Computer From Viruses &. Malware. Let Us Help You Find The Perfect Antivirus.
-*   AVG™ **Free** Antivirus 2020 - 100% **Free**, Secure **Download**www.avg.com/Antivirus/Free**Free** Forever - Fast &. Easy PC Virus Protection. **Download** AVG Antivirus Now! Stops Viruses, Spyware, Ransomware and Other Malware. Easy Installation.
-*   Avast **Free** Antivirus 2020 - 100% **Free** &. Easy **Download**www.avast.com/Free/AntivirusFast, Light and Easy to Use. Improved Security for Your PC. **Download** now! Real-Time Protection and Intelligent Threat-Detection Keeps Your PC Secured.
-*   Crank Software - Better UIs - Embedded GUI Design Softwarewww.cranksoftware.com/download/freeAccelerate and Simplify Embedded GUI Design &. Development for Embedded Platforms. **Download** the **Free** Trial Today!
-*   iExplorer 3www.macroplant.comThe Ultimate Iphone, Ipod &. Ipad Manager. Award Winning. **Free** Trial!
