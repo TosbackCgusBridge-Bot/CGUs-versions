@@ -271,4 +271,4 @@ Please keep in mind that this Privacy Notice only applies to your use of your pr
 
 ©2020 Experian Information Solutions, Inc. All rights reserved.
 
-Experian and the Experian marks used herein are service marks or registered trademarks of Experian Information Solutions, Inc. Other product and company names mentioned herein are the property of their respective owners.
+Experian and the Experian trademarks used herein are trademarks or registered trademarks of Experian. Other product or company names mentioned herein are the property of their respective owners.
