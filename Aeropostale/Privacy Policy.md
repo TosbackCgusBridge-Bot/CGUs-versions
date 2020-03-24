@@ -206,11 +206,7 @@ Close submenu ( Guys ) Guys
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
 
-UNITY IS MORE IMPORTANT THAN EVER
-
-Amidst the progression of COVID-19, we must work together to ensure the health  
-and safety of each other. We're better as one. Community is everything.  
-Learn More &. Stay Safe
+UNITY IS MORE IMPORTANT THAN EVER Amidst the progression of COVID-19, we must work together to ensure the health and safety of each other. We're better as one. Community is everything. Learn More &. Stay Safe
 
 Amidst the progression of COVID-19, we must work  
 together to ensure the health and safety of each other.  
