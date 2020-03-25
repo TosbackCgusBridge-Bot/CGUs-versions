@@ -83,7 +83,6 @@ Close submenu ( Jeans ) Jeans
 Close submenu ( Girls Jeans ) Girls Jeans
 
 *   View All
-*   Buy 1 Get 1 Free
 *   Destroyed Denim
 *   Jeggings
 *   High Rise Jeans
@@ -107,7 +106,6 @@ Close submenu ( Girls Jeans ) Girls Jeans
 Close submenu ( Guys Jeans ) Guys Jeans
 
 *   View All
-*   Buy 1 Get 1 Free
 *   Destroyed Denim
 *   Skinny Jeans
 *   Ultra Stacked Skinny Jeans
@@ -201,7 +199,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**Extra 20% Off GIRLS GUYS + Free Shipping Over $50**
+**60% Off Everything**  GIRLS GUYS **+ Free Ship $50**
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -272,7 +270,6 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls Jeans
         *   View All
-        *   Buy 1 Get 1 Free
         *   Destroyed Denim
         *   Jeggings
         *   High Rise Jeans
@@ -295,7 +292,6 @@ Menu Find a Store Aeropostale
     
     *   Guys Jeans
         *   View All
-        *   Buy 1 Get 1 Free
         *   Destroyed Denim
         *   Skinny Jeans
         *   Ultra Stacked Skinny Jeans
@@ -387,35 +383,38 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
 
-#StayHomeWithAero Take an
+**#StayHomeWithAero**
 
-EXTRA 20% OFF
+60%
 
-EVERY. SINGLE. THING.
+(or More)  
+Off Everything
 
-NO EXCLUSIONS
-
-That Includes Styles Already Reduced 50-70%,
-
-BOGO Jeans &. Shorts, Clearance &. More.
-
-Online Only. Discount Taken At Checkout.
+Including Jeans, Shorts, Tees &.  
+Stay Home Essentials.
 
 Shop Girls Shop Guys
 
-#StayHomeWithAero Take an
+**#StayHomeWithAero**
 
-EXTRA 20% OFF
+60% (or More)  
+Off Everything
 
-EVERY. SINGLE. THING. NO EXCLUSIONS
+Including Jeans, Shorts, Tees &.  
+Stay Home Essentials.
 
-That Includes Styles Already Reduced 50-70%,
+Shop Girls Shop Guys
 
-BOGO Jeans &. Shorts, Clearance &. More.
+**#StayHomeWithAero**
 
-Online Only. Discount Taken At Checkout.
+Hoodies &. Joggers
 
-Shop Girls Shop Guys Previous
+Get your cozy on! &. stock up on comfort &. style
+
+Get your cozy on! &. stock up on  
+comfort &. style
+
+**Girls Hoodies Now $19.80** Was $49.50 **Guys Hoodies Now $19.80** Was $49.50 **Girls Joggers Now $15.80** Was $39.50 **Guys Joggers Now $17.80** Was $44.50 Previous
 
 Curvy
 
@@ -525,20 +524,17 @@ Slim Cut Off
 
 Next
 
-BUY 1 GET 1 FREE
+60% (or More) Off
 
-JEANS &. SHORTS
+  
 
-\* Must Add 2 to Cart
+Jeans &. Shorts
 
 Shop Girls Shop Guys
 
-BUY 1 GET  
-1 FREE
+60% (or More) Off
 
-JEANS &. SHORTS
-
-\* Must Add 2 to Cart
+Jeans &. Shorts
 
 Shop Girls Shop Guys
 
@@ -573,10 +569,9 @@ for your school.
 
 Learn more
 
-AERO TEES
+60% (or More)
 
-BUY 1 GET 2  
-FREE
+Off Aero Tees
 
 Specially washed for never-before-felt  
 softness. Expertly created for everyday  
@@ -594,7 +589,7 @@ Classic styles in shrunken silhouettes.
 Especially perfect with high-waisted  
 Aero bottoms.
 
-Shop Girls **$6 &. Up**
+Shop Girls **$7 &. Up**
 
 AERO x MEXICO  
 #AEROWORLD
