@@ -130,7 +130,7 @@ Autodesk logo
 
 Keyboard **ALT + g** to toggle grid overlay
 
-Autodesk offers free and extended access to cloud collaboration products
+COVID-19: Autodesk offers free and extended access to cloud collaboration products
 
 READY TO MAKE ANYTHING
 
@@ -152,7 +152,7 @@ Professional CAD/CAM tools built on Inventor and AutoCAD Learn more Free trial S
 MEDIA &.  
 ENTERTAINMENT COLLECTION
 
-Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Promo Data: Lower price when you subscribe for 3 years Promo Data: FY21 Trade-in perpetual Offer US Try, buy, or learn more about Autodesk products See all products
+Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products) Promo Data: FY21 Trade-in perpetual Offer US Try, buy, or learn more about Autodesk products See all products
 
 Software for 2D and 3D CAD. Subscription includes AutoCAD, specialized toolsets, and apps.
 
@@ -162,7 +162,7 @@ Free trial
 
 Subscribe
 
-$1,610/year
+$1,690/year
 
 Software for Building Information Modeling
 
@@ -172,7 +172,7 @@ Free trial
 
 Subscribe
 
-$2,310/year
+$2,425/year
 
 Cost-effective 2D CAD
 
@@ -182,7 +182,7 @@ Free trial
 
 Subscribe
 
-$400/year
+$420/year
 
 Try, buy, or learn more about Autodesk products See all products Welcome to the new era of connected construction Introducing Autodesk Construction Cloud™
 
@@ -199,7 +199,7 @@ See what's included
 
 Product details
 
-$2,825/year
+$2,965/year
 
 Subscribe
 
@@ -209,7 +209,7 @@ See what's included
 
 Product details
 
-$2,590/year
+$2,720/year
 
 Subscribe FEEDBACK FOLLOW AUTODESK
 
