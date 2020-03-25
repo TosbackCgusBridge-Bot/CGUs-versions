@@ -222,23 +222,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Twitter changing safety guidelines regarding COVID-19 posts
-    *   Report: NutriBullet's website injected with skimmer three times by Magecart Group 8
-    *   VMware squashes critical code execution bug in hypervisors
-    *   ETSI OSM replaces live hackfest with virtual event
-    *   Ransomware halts health organization's ability to inform public on COVID-19
-    
-    *   Coronavirus news being used to sneak malware past AV programs
-    *   Blisk browser left open, 2.9 million records exposed
-    *   Coronavirus tracking app locks up Android phones for ransom
-    *   Report: Account takeover and data scraping attacks on e-retailers up as COVID-19 surges
-    *   Twitter changing safety guidelines regarding COVID-19 posts
-    
-    *   FSB contractor breach exposes secret cyber weapons program leveraging IoT vulnerabilities
-    *   FBI warns of COVID-19 phishing scams promising stimulus checks, vaccines
+    *   COVID-19: You won’t get a pass on cybersecurity
+    *   VPNs: Not a cybersecurity slam dunk for telecommuters in the age of COVID-19
     *   Mirai variant Mukashi searching out Zixel NAS devices
-    *   Maze ransomware attackers extort vaccine testing facility
-    *   Pwn2Own contest yields 13 bugs, as virtual format expands talent pool
+    *   Eight million EU retail sales records exposed on AWS MongoDB
+    *   Bug leads Facebook to mark COVID-19 posts as spam
+    
+    *   ETSI OSM replaces live hackfest with virtual event
+    *   Canon breach exposes personal data of current, former GE employees, beneficiaries
+    *   HHS attack amid coronavirus scare slows systems
+    *   Spyware disguised as COVID-19 tracker app actually keeps track of users
+    *   Five non-phishing types of cyberattacks to prepare for
+    
+    *   Open redirect on Dept. of HHS website benefits COVID-19 phishing scam
+    *   Free cybersecurity tools coming online to protect WFH staffers
+    *   Zero-day being used to turn LILIN DVRs into botnets
+    *   Canon breach exposes personal data of current, former GE employees, beneficiaries
+    *   SC Media’s complete coverage: Threat and Preparation
 
 Back to Top
 
@@ -271,8 +271,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
-
-You can skip this ad in 1 seconds.
-
-Join us for InfoSec World June  22-24, 2020 | Lake Buena Vista, FL
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World June  22-24, 2020 | Lake Buena Vista, FL
