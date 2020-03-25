@@ -1,6 +1,6 @@
 1/1
 
-*   UPS is Open for Business...More
+*   UPS is open for business: Service impacts related to Coronavirus...More
 
 Close Skip To Main Content
 
