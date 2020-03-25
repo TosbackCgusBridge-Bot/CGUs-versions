@@ -16,7 +16,7 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
     Coming Soon
     
     *   Saint Maud
-    *   Trolls World Tour
+    *   Trolls World Tour (2020)
     *   My Spy (2020)
     *   Charm City Kings (2020)
     *   Run Sweetheart Run (2020)
@@ -50,7 +50,7 @@ Screen Reader Users: To optimize your experience with your screen reading softwa
 *   Movie News Featured Movie News
     
     *   The Week in Movie News: Karyn Kusama to Direct ‘Dracula,’ Disney Finds Its ‘Peter Pan &. Wendy’ and More Read More
-    *   The Week in Movie Trailers: Pixar’s ‘Soul,’ Disney’s ‘Jungle Cruise,’ Marvel’s ‘Black Widow’ and More Read More
+    *   What to Watch on FandangoNOW: ‘Birds of Prey,’ ‘Bloodshot,’ and College Basketball Movies Read More
     *   Kelly Reichardt Discusses 'First Cow,' a Western Unlike Any Other Read More
     
     Explore Content
