@@ -25,20 +25,20 @@ Always Active
 
 Save SettingsAllow All Open navigation
 
-*   Home Mortgages
-*   Sale Sign Homes
-*   Bank Banking
-*   Credit Card Credit Cards
-*   Loan Loans
-*   Money Investing
-*   Home Equity Home Equity
-*   House Insurance Insurance
-*   Personal Finance Personal Finance
+*   BR Mortgages
+*   BR Homes
+*   BR Banking
+*   Credit cards
+*   BR Loans
+*   Investing
+*   BR Home equity
+*   BR Insurance
+*   BR Personal finance
 *   Retirement
 
-Main Menu Home Mortgages Mortgages overview
+Main Menu BR Mortgages Mortgages overview
 
-*   Get the Best Rates
+*   Get the best rates
 *   Find your personalized rate with LoanMatch™
 *   Mortgage rates
 *   30-year mortgage rates
@@ -47,20 +47,18 @@ Main Menu Home Mortgages Mortgages overview
 *   10-year mortgage rates
 *   FHA loan rates
 *   VA loan rates
-*   Jumbo loan rates
 *   ARM loan rates
 
-*   Refinance your Mortgage
+*   Refinance your mortgage
 *   Refinance rates
 *   30-year refinance rates
 *   20-year refinance rates
 *   15-year refinance rates
 *   10-year refinance rates
 *   FHA refinance rates
-*   Jumbo refinance rates
 *   VA refinance rates
 
-*   Use Calculators
+*   Use calculators
 *   Mortgage calculator
 *   Mortgage refinance calculator
 *   How much house can you afford?
@@ -71,7 +69,7 @@ Main Menu Home Mortgages Mortgages overview
 *   Loan to value calculator
 *   All mortgage calculators
 
-*   Learn &. Get Advice
+*   Learn &. get advice
 *   Understanding current interest rates
 *   Where rates are trending
 *   How to get the best mortgage rate
@@ -79,54 +77,54 @@ Main Menu Home Mortgages Mortgages overview
 *   First time homebuyer loans and programs
 *   When to pay off your mortgage early
 *   How to refinance your mortgage
-*   Mortgage Lender Reviews
+*   Mortgage lender reviews
 
-Main Menu Sale Sign Homes Homes overview
+Main Menu BR Homes Homes overview
 
-*   Home Buying
+*   Home buying
 *   Determine your budget
 *   Find your home
 *   Get prequalified
 
-*   Get Advice
-*   Step-By-Step Homebuying Guide
-*   First-Time Homebuyer's Guide
-*   How Does Rent-To-Own Work?
-*   What To Look For When Buying A Home
-*   Homebuyer Mistakes To Avoid
+*   Get advice
+*   Step-by-step homebuying guide
+*   First-time homebuyer's guide
+*   How does rent-to-own work?
+*   What to look for when buying a home
+*   Homebuyer mistakes to avoid
 
-*   Learn How To
-*   Make An Offer On A House
-*   Decide Between Renting vs. Buying
-*   Ace the Final Walk-Through
-*   Find The Best Real Estate Agent
-*   Buying A Second Home
+*   Learn how to
+*   Make an offer on a house
+*   Decide between renting vs. buying
+*   Ace the final walk-through
+*   Find The best real estate agent
+*   Buying a second home
 
-*   Use Calculators
-*   How Much House Can I Afford?
-*   Rent Vs. Buy Calculator
-*   Cost of Living Calculator
-*   How Much Should I Put Down?
+*   Use calculators
+*   How much house can I afford?
+*   Rent vs. buy calculator
+*   Cost of living calculator
+*   How much should I put down?
 
-Main Menu Bank Banking Banking overview
+Main Menu BR Banking Banking overview
 
-*   Compare Accounts
+*   Compare accounts
 *   CD rates
 *   Savings accounts
 *   Money market accounts
-*   1-Year CD rates
-*   3-Year CD rates
-*   5-Year CD rates
+*   1-year CD rates
+*   3-year CD rates
+*   5-year CD rates
 *   Checking accounts
-*   Best Banks
+*   Best banks
 
-*   Use Calculators
+*   Use calculators
 *   Savings calculator
 *   CD calculator
 *   Compound savings calculator
 *   All banking calculators
 
-*   Get Advice
+*   Get advice
 *   How to save money
 *   Federal Reserve news
 *   What is a savings account?
@@ -134,38 +132,37 @@ Main Menu Bank Banking Banking overview
 *   Which certificate of deposit account is best?
 *   How to open a savings account
 
-*   Bank Reviews
+*   Bank reviews
 *   Capital One Bank
 *   Marcus by Goldman Sachs
 *   American Express National Bank
 *   CIT Bank
 *   Synchrony Bank
 *   Barclays Bank
-*   All Bank Reviews
+*   All bank reviews
 
-Main Menu Credit Card Credit Cards Credit Cards overview
+Main Menu Credit cards Credit cards overview
 
-*   Compare by Category
-*   Best Credit Cards of 2020
+*   Compare by category
+*   Best credit cards of 2020
 *   Rewards
 *   Travel
 *   Airline
-*   Cash Back
-*   No Annual Fee
-*   Balance Transfer
+*   Cash back
+*   No annual fee
+*   Balance transfer
 *   0% APR
-*   Business
 *   Student
 
-*   Compare by Credit Needed
-*   Excellent Credit
-*   Good Credit
-*   Fair Credit
-*   Bad Credit
-*   No Credit History
-*   Secured Credit Cards
+*   Compare by credit needed
+*   Excellent credit
+*   Good credit
+*   Fair credit
+*   Bad credit
+*   No credit history
+*   Secured credit cards
 
-*   Compare by Issuer
+*   Compare by issuer
 *   American Express
 *   Bank of America
 *   Capital One
@@ -174,15 +171,15 @@ Main Menu Credit Card Credit Cards Credit Cards overview
 *   Discover
 *   Wells Fargo
 
-*   Get Advice
-*   Credit Card Reviews
-*   Credit Card Payoff Calculator
-*   Balance Transfer Calculator
-*   All Credit Card Calculators
+*   Get advice
+*   Credit card reviews
+*   Credit card payoff calculator
+*   Balance transfer calculator
+*   All credit card calculators
 
-Main Menu Loan Loans Loans overview
+Main Menu BR Loans Loans overview
 
-*   Compare Lenders
+*   Compare lenders
 *   Best personal loan rates
 *   Low-interest personal loans
 *   Personal loans for bad credit
@@ -194,7 +191,7 @@ Main Menu Loan Loans Loans overview
 *   Auto loan rates
 *   Student loan rates
 
-*   Loan Types
+*   Loan types
 *   Personal loans
 *   Auto loans
 *   Debt consolidation loans
@@ -202,7 +199,7 @@ Main Menu Loan Loans Loans overview
 *   Student loans
 *   Medical loans
 
-*   Use Calculators
+*   Use calculators
 *   Loan calculator
 *   Auto loan calculator
 *   Personal loan calculator
@@ -211,7 +208,7 @@ Main Menu Loan Loans Loans overview
 *   Student loan calculator
 *   All calculators
 
-*   Get Advice
+*   Get advice
 *   Student loan reviews
 *   Personal loan reviews
 *   Student loans guide
@@ -221,15 +218,15 @@ Main Menu Loan Loans Loans overview
 *   Refinancing auto loans
 *   Personal loan origination fees
 
-Main Menu Money Investing Investing overview
+Main Menu Investing Investing overview
 
 *   Best of
-*   Best Investments
+*   Best investments
 *   Best online brokers for stocks
 *   Best online brokers for beginners
 *   Best online brokers for mutual funds
 
-*   Brokerage Reviews
+*   Brokerage reviews
 *   TD Ameritrade Review
 *   Merrill Edge Review
 *   Ally Invest Review
@@ -241,54 +238,48 @@ Main Menu Money Investing Investing overview
 *   Tradestation Review
 *   E\*Trade Review
 *   WellsTrade Review
-*   All Brokerage Reviews
+*   All brokerage reviews
 
-*   Use Calculators
-*   Investment Earnings Calculator
-*   Annuity Calculator
-*   All Investing &. CD Calculators
+*   Use calculators
+*   Investment earnings calculator
+*   Annuity calculator
+*   All investing &. CD calculators
 
-*   Get Advice
-*   Compare Online Brokerages
+*   Get advice
+*   Compare online brokerages
 *   What is the long-term capital gains tax?
 *   Passive income: What it is and 5 ideas for 2019
 *   How to buy stocks
 
-Main Menu Home Equity Home Equity Home Equity overview
+Main Menu BR Home equity Home equity overview
 
-*   Compare Lenders
+*   Compare lenders
 *   Home equity loan rates
 *   Home equity line of credit rates
 *   Home equity lender reviews
 
-*   Use Calculators
-*   Home Equity Calculator
-*   Loan vs. Line Of Credit Calculator
+*   Use calculators
+*   Home equity calculator
+*   Loan vs. line of credit calculator
 *   Debt consolidation calculator
 *   HELOC payoff calculator
 *   All home equity calculators
 
-*   Get Advice
-*   What is a home equity loan?
-*   HELOC vs. Home equity loan
-*   Consolidate your debt using home equity
-*   Home equity loans with bad credit
+Main Menu BR Insurance Insurance overview
 
-Main Menu House Insurance Insurance Insurance overview
-
-*   Insurance Types
+*   Insurance types
 *   Car insurance
 *   Homeowner's insurance
 *   Health insurance
 *   Life insurance
 
 *   Best of
-*   Best Car Insurance Companies
-*   Best Home Insurance Companies
-*   Best Cheap Car Insurance
-*   Top Car Insurance Comparison
+*   Best car insurance companies
+*   Best home insurance companies
+*   Best cheap car insurance
+*   Top car insurance comparison
 
-*   Company Reviews
+*   Company reviews
 *   Geico Insurance
 *   State Farm Insurance
 *   Progressive Insurance
@@ -302,7 +293,7 @@ Main Menu House Insurance Insurance Insurance overview
 *   Amica Insurance
 *   Travelers Insurance
 
-*   Insurance by State
+*   Insurance by state
 *   Car Insurance California
 *   Car Insurance Florida
 *   Car Insurance Georgia
@@ -315,20 +306,20 @@ Main Menu House Insurance Insurance Insurance overview
 *   Home Insurance Florida
 *   Home Insurance Texas
 
-Main Menu Personal Finance Personal Finance Personal Finance overview
+Main Menu BR Personal finance Personal finance overview
 
 *   Compare
 *   Current interest rates
 *   Compare rates
 
-*   Use Calculators
+*   Use calculators
 *   Debt consolidation calculator
 *   Net worth calculator
 *   Personal finance calculators
 *   Cost of living calculator
 *   All calculators
 
-*   Get Advice
+*   Get advice
 *   Retirement advice
 *   Debt management
 *   Improve your credit score
@@ -340,14 +331,14 @@ Main Menu Personal Finance Personal Finance Personal Finance overview
 
 Main Menu Retirement Retirement overview
 
-*   Get Advice
+*   Get advice
 *   Best Roth IRA accounts
 *   Best retirement plans
 *   How to open a Roth IRA
 *   401(k) rollover guide
 *   Roth IRA vs. Roth 401(k)
 
-*   Use Calculators
+*   Use calculators
 *   401(k) retirement calculator
 *   Retirement savings calculator
 *   Roth IRA calculator
@@ -355,7 +346,7 @@ Main Menu Retirement Retirement overview
 *   Social security benefits calculator
 *   All retirement calculators
 
-*   More Information
+*   More information
 *   What is an IRA?
 *   What is a Roth 401(k)?
 *   401(k) contribution limits
