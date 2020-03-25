@@ -316,7 +316,11 @@ Promotional Links Related Links
 *   General Licensing Permission Form
 *   Research Licensing Permission Form
 
-Navigation for Legal Home Navigation for Legal HomeTerms of UsePrivacy and SecurityPermissionsTrademark Use▼
+Navigation for Legal Home Navigation for Legal HomeTerms of Use▼
+
+*   SMS Terms of Service
+
+Privacy and SecurityPermissionsTrademark Use▼
 
 *   Trademarks Owned by ETS
 
