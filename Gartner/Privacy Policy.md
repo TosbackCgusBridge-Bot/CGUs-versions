@@ -79,7 +79,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 460 1935 1 855 460 1935
+    1 855 455 1289 1 855 455 1289
     
 
 *   Solutions By Function
@@ -145,7 +145,7 @@ Search
 
 *   Become a Client
     
-    1 855 460 1935 1 855 460 1935
+    1 855 455 1289 1 855 455 1289
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
