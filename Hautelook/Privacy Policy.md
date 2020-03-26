@@ -9,15 +9,38 @@ HauteLookFree Shipping on Orders Over $89\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
+    *   Daily Deal: Dolce Vita Pixy Loafers Under $55
+    *   Daily Deal: bObsweep Up to 75% Off
+    *   Hobo Handbags Up to 60% Off
+    *   TOMS Starting at $35
+    *   TOMS Men Starting at $30
+    *   Socialite Under $35
+    *   TOMS Kids Starting at $20
+    *   Keep It Casual: Dresses Incl. Plus &. Petites
+    *   Warm Weather Ready: Denim Shorts Under $30
+    *   Molton Brown Starting at $10
+    *   On-Trend Tops, Dresses &. More from $20
+    *   Pam &. Gela Up to 70% Off
+    *   Cover-Ups ft. Boho Me
+    *   Vintage Foundry Up to 80% Off
+    *   CZ by Kenneth Jay Lane Up to 60% Off
+    *   Personalized Jewelry &. More
+    *   Free Shipping: Wall Murals &. More from $15
+    *   Threads 4 Thought Up to 70% Off
+    *   Shorts Up to 60% Off
+    *   Nanette Lepore Intimates &. Sleep Under $30
+    *   On-Trend Looks for Girls ft. Roxy
+    *   On-Trend Looks for Boys ft. Quiksilver
+    *   NYDJ Incl. Plus &. Petites
     *   Clean &. Tidy: Floor Care &. Organization Up to 60% Off
     *   Smart Home Accessories &. More from $15
     *   Wireless &. Bluetooth Accessories Starting at $15
+    
     *   Luxe Bedding ft. Jonathan Adler
     *   Best of Home: Cozy Throws &. More Up to 50% Off
     *   Tommy Bahama Men's Styles Incl. Big &. Tall
     *   Tommy Bahama Up to 65% Off
     *   TOV
-    *   Your New Faves: Loungewear Incl. Plus
     *   Jeffrey Campbell
     *   X by Gottex Under $40
     *   Samuel B Jewelry Up to 50% Off
@@ -33,71 +56,57 @@ HauteLookFree Shipping on Orders Over $89\* New! Temporary Extended Returns
     *   Sun's Out, Toes Out: Flip-Flops &. Slides
     *   Free Shipping: Towel Sets Up to 75% Off
     *   Forecasting Cuteness: Kids' Raincoats &. More
-    *   NYDJ Incl. Plus &. Petites
     *   Natori Up to 65% Off
     *   Reiss Up to 65% Off
-    *   Beyond Yoga
-    
-    *   n:Philanthropy Up to 75% Off
     *   Bony Levy ft. 14K Gold Jewelry
-    *   Printed Tops Under $45 Incl. Plus &. Petites
-    *   Splendid
-    *   Get Comfy: New Shoes for Spring
     *   English Laundry Up to 65% Off
     *   Psycho Bunny Lounge
     *   Men's Comfort Shoes from Rockport &. More
+    
     *   Stay Cozy: Kids' Sweatshirts, Joggers &. More
     *   Olivia Miller
-    *   Sterling Forever Jewelry Up to 75% Off
-    *   Pants Under $32: Wide-Leg, Stretch &. More
-    *   Dream-Worthy Steals: Sleep Up to 70% Off
     *   Free Shipping: BergHOFF Up to 65% Off
-    *   Women's Shoe Blowout
     *   Men's Shoe Steals Up to 80% Off
     *   Lacoste Men's Shoes
     *   Terre Mere Organic Beauty Up to 75% Off
     *   Pop Sonic Starting at $10
-    *   Dr. Martens Kids
-    *   Style Essentials: Men's Tees, Shorts &. More
-    *   Girls' Pajamas Under $20
     *   Love Your Skin: Beauty Tools Starting at $10
-    *   Boys' Pajamas Under $20
-    *   Finds for Little Ones: Carriage Boutique &. More
     *   Liquid IV: Hydration Powder Supplements
     *   Our Favorite Hair Care Brands Starting at $10
     *   Free Shipping: Professional Garment Steamers
-    
-    *   Dress Shop: Floral Styles Up to 70% Off
-    *   Dress Shop: Polished Styles Under $70
-    *   Dress Shop: Bodycon Styles &. More from $25
-    *   Dress Shop: T-Shirt Styles Starting at $20
-    *   Edward Bess Starting at $10
     *   Free Shipping: Down &. Memory Foam Essentials
-    *   Makeup Faves Starting at $10
     *   Luxe Faux Fur Pillows &. Throws Up to 80% Off
     *   Kitchen Best Sellers Up to 70% Off
-    *   Update Your Bar Cart: Drinkware &. More from $15
-    *   Ezekiel
     *   Best of Skin Care Sets ft. Kate Somerville
-    *   Dress Shop: Midis &. Maxis Up to 70% Off
-    *   Dress Shop: Lace Styles Up to 70% Off
-    *   Trending Now: Sport Sandals
     *   Candles, Diffusers &. More ft. NEST Fragrances
-    *   Dress Shop: Girls' Styles Up to 65% Off
-    *   Always Relaxed: Boho Styles ft. Angie Incl. Plus
     *   Rock Revival &. More
     *   West Kei Incl. Plus &. Petites
+    *   Your New Faves: Loungewear Incl. Plus
     *   Lace, Florals and More Incl. Plus &. Petites
     *   Joe Fresh Kids Up to 50% Off
-    *   Dress Shop: Jumpsuits &. Rompers from $25
-    *   Dress Shop: Printed Styles Up to 70% Off
-    *   Dress Shop: Plus-Size &. Petite Styles Up to 70% Off
-    *   Free Shipping: Quilts, Comforters &. More
+    *   Beyond Yoga
+    *   n:Philanthropy Up to 75% Off
+    *   Dream-Worthy Steals: Sleep Up to 70% Off
+    *   Dress Shop: Floral Styles Up to 70% Off
+    *   Dress Shop: Polished Styles Under $70
 *   WomenShop Sale Events
     
+    *   Daily Deal: Dolce Vita Pixy Loafers Under $55
+    *   Hobo Handbags Up to 60% Off
+    *   TOMS Starting at $35
+    *   Socialite Under $35
+    *   Keep It Casual: Dresses Incl. Plus &. Petites
+    *   Warm Weather Ready: Denim Shorts Under $30
+    *   Molton Brown Starting at $10
+    *   On-Trend Tops, Dresses &. More from $20
+    *   Pam &. Gela Up to 70% Off
+    *   Cover-Ups ft. Boho Me
+    *   CZ by Kenneth Jay Lane Up to 60% Off
+    *   Personalized Jewelry &. More
+    *   Nanette Lepore Intimates &. Sleep Under $30
+    *   NYDJ Incl. Plus &. Petites
     *   Tommy Bahama Up to 65% Off
     *   TOV
-    *   Your New Faves: Loungewear Incl. Plus
     *   Jeffrey Campbell
     *   X by Gottex Under $40
     *   Samuel B Jewelry Up to 50% Off
@@ -105,46 +114,29 @@ HauteLookFree Shipping on Orders Over $89\* New! Temporary Extended Returns
     *   New on HauteLook: Makeup ft. PRESCRIPTIVES
     *   Tommy Bahama Luggage
     *   Matisse
+    
     *   Great Heights: High Heels &. Wedges
     *   Great Heights: Low &. Mid Heels
     *   Sun's Out, Toes Out: Flip-Flops &. Slides
-    *   NYDJ Incl. Plus &. Petites
     *   Natori Up to 65% Off
     *   Reiss Up to 65% Off
-    *   Beyond Yoga
-    *   n:Philanthropy Up to 75% Off
     *   Bony Levy ft. 14K Gold Jewelry
-    *   Printed Tops Under $45 Incl. Plus &. Petites
-    *   Splendid
-    *   Get Comfy: New Shoes for Spring
-    *   Sterling Forever Jewelry Up to 75% Off
-    *   Pants Under $32: Wide-Leg, Stretch &. More
-    *   Dream-Worthy Steals: Sleep Up to 70% Off
-    
-    *   Women's Shoe Blowout
     *   Terre Mere Organic Beauty Up to 75% Off
     *   Pop Sonic Starting at $10
     *   Love Your Skin: Beauty Tools Starting at $10
     *   Liquid IV: Hydration Powder Supplements
     *   Our Favorite Hair Care Brands Starting at $10
-    *   Dress Shop: Floral Styles Up to 70% Off
-    *   Dress Shop: Polished Styles Under $70
-    *   Dress Shop: Bodycon Styles &. More from $25
-    *   Dress Shop: T-Shirt Styles Starting at $20
-    *   Edward Bess Starting at $10
-    *   Makeup Faves Starting at $10
     *   Best of Skin Care Sets ft. Kate Somerville
-    *   Dress Shop: Midis &. Maxis Up to 70% Off
-    *   Dress Shop: Lace Styles Up to 70% Off
-    *   Trending Now: Sport Sandals
     *   Candles, Diffusers &. More ft. NEST Fragrances
-    *   Always Relaxed: Boho Styles ft. Angie Incl. Plus
     *   Rock Revival &. More
     *   West Kei Incl. Plus &. Petites
+    *   Your New Faves: Loungewear Incl. Plus
     *   Lace, Florals and More Incl. Plus &. Petites
-    *   Dress Shop: Jumpsuits &. Rompers from $25
-    *   Dress Shop: Printed Styles Up to 70% Off
-    *   Dress Shop: Plus-Size &. Petite Styles Up to 70% Off
+    *   Beyond Yoga
+    *   n:Philanthropy Up to 75% Off
+    *   Dream-Worthy Steals: Sleep Up to 70% Off
+    *   Dress Shop: Floral Styles Up to 70% Off
+    *   Dress Shop: Polished Styles Under $70
     
     Shop By Category
     *   Clothing
@@ -152,94 +144,92 @@ HauteLookFree Shipping on Orders Over $89\* New! Temporary Extended Returns
     *   Jewelry
     *   Lingerie &. Shapewear
     *   Handbags
+    *   Accessories
 *   MenShop Sale Events
     
+    *   TOMS Men Starting at $30
+    *   Vintage Foundry Up to 80% Off
+    *   Threads 4 Thought Up to 70% Off
+    *   Shorts Up to 60% Off
     *   Tommy Bahama Men's Styles Incl. Big &. Tall
     *   Tommy Bahama Luggage
     *   Back to Basics: Men's Socks &. Underwear from $8
+    
     *   Sleek Men's Sneakers Up to 70% Off
     *   English Laundry Up to 65% Off
     *   Psycho Bunny Lounge
-    
     *   Men's Comfort Shoes from Rockport &. More
     *   Men's Shoe Steals Up to 80% Off
     *   Lacoste Men's Shoes
-    *   Style Essentials: Men's Tees, Shorts &. More
     *   Liquid IV: Hydration Powder Supplements
-    *   Ezekiel
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
 *   KidsShop Sale Events
     
+    *   TOMS Kids Starting at $20
+    *   On-Trend Looks for Girls ft. Roxy
+    *   On-Trend Looks for Boys ft. Quiksilver
     *   Forecasting Cuteness: Kids' Raincoats &. More
     *   Stay Cozy: Kids' Sweatshirts, Joggers &. More
     *   Olivia Miller
-    *   Dr. Martens Kids
-    *   Girls' Pajamas Under $20
-    *   Boys' Pajamas Under $20
-    *   Finds for Little Ones: Carriage Boutique &. More
-    *   Dress Shop: Girls' Styles Up to 65% Off
     *   Joe Fresh Kids Up to 50% Off
     
     Shop By Category
     *   Girls
-    *   Baby
     *   Boys
+    *   Baby
     *   Girls' Shoes
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Daily Deal: bObsweep Up to 75% Off
+    *   Free Shipping: Wall Murals &. More from $15
     *   Clean &. Tidy: Floor Care &. Organization Up to 60% Off
     *   Smart Home Accessories &. More from $15
     *   Wireless &. Bluetooth Accessories Starting at $15
     *   Luxe Bedding ft. Jonathan Adler
     *   Best of Home: Cozy Throws &. More Up to 50% Off
     *   Smart Watchbands &. More Up to 70% Off
+    
     *   Tommy Bahama Luggage
     *   Free Shipping: Towel Sets Up to 75% Off
-    
     *   Free Shipping: BergHOFF Up to 65% Off
     *   Free Shipping: Professional Garment Steamers
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Luxe Faux Fur Pillows &. Throws Up to 80% Off
     *   Kitchen Best Sellers Up to 70% Off
-    *   Update Your Bar Cart: Drinkware &. More from $15
-    *   Free Shipping: Quilts, Comforters &. More
     
     Shop By Category
-    *   Bedding
-    *   Electronic &. Tech Accessories
     *   Home Decor
+    *   Electronic &. Tech Accessories
+    *   Bedding
     *   Kitchen &. Tabletop
     *   Bath
     *   Cleaning &. Organization
     *   Luggage &. Travel
     *   Rugs &. Doormats
     *   Holiday Decorations
-    *   Outdoor Living
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Molton Brown Starting at $10
     *   Spa Day: Bath Bombs &. More Starting at $10
     *   New on HauteLook: Makeup ft. PRESCRIPTIVES
     *   Terre Mere Organic Beauty Up to 75% Off
     *   Pop Sonic Starting at $10
     *   Love Your Skin: Beauty Tools Starting at $10
     *   Liquid IV: Hydration Powder Supplements
-    
     *   Our Favorite Hair Care Brands Starting at $10
-    *   Edward Bess Starting at $10
-    *   Makeup Faves Starting at $10
     *   Best of Skin Care Sets ft. Kate Somerville
     *   Candles, Diffusers &. More ft. NEST Fragrances
     
     Shop By Category
+    *   Skin Care
     *   Makeup
     *   Fragrance
-    *   Skin Care
     *   Bath &. Body
     *   Hair Care
     *   Tools &. Accessories
