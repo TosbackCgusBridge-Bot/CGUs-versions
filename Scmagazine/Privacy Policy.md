@@ -222,23 +222,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   COVID-19: You won’t get a pass on cybersecurity
-    *   VPNs: Not a cybersecurity slam dunk for telecommuters in the age of COVID-19
-    *   Mirai variant Mukashi searching out Zixel NAS devices
-    *   Eight million EU retail sales records exposed on AWS MongoDB
     *   Bug leads Facebook to mark COVID-19 posts as spam
+    *   COVID-19 decoy doc, Cloudflare service used to spread 'BlackWater' malware
+    *   Some cybercriminals consider laying off health care targets amid COVID-19 crisis
+    *   FSB contractor breach exposes secret cyber weapons program leveraging IoT vulnerabilities
+    *   Password found to rescue victims of malicious COVID-19 tracker app
     
-    *   ETSI OSM replaces live hackfest with virtual event
-    *   Canon breach exposes personal data of current, former GE employees, beneficiaries
-    *   HHS attack amid coronavirus scare slows systems
-    *   Spyware disguised as COVID-19 tracker app actually keeps track of users
-    *   Five non-phishing types of cyberattacks to prepare for
-    
-    *   Open redirect on Dept. of HHS website benefits COVID-19 phishing scam
-    *   Free cybersecurity tools coming online to protect WFH staffers
+    *   COVID-19 exposes gaps in cybersecurity safety net as millions work from home
     *   Zero-day being used to turn LILIN DVRs into botnets
-    *   Canon breach exposes personal data of current, former GE employees, beneficiaries
+    *   Drupal, Google and Cisco post security advisories
+    *   Blisk browser left open, 2.9 million records exposed
+    *   Coronavirus news being used to sneak malware past AV programs
+    
+    *   Tupperware site hacked with credit card skimmer
+    *   APT41 activity down during China COVID-19 quarantines. massive campaign undeterred
     *   SC Media’s complete coverage: Threat and Preparation
+    *   Every presidential campaign website executes suspicious third-party code
+    *   Hijacked routers and attempted WHO hack highlight latest COVID-19 attacks
 
 Back to Top
 
