@@ -1279,7 +1279,17 @@ USD Change Recent Searches Recent Searches Clear
 *   EDITORIAL
 *   GIFTS
 
-We're working hard to support our customers during the COVID-19 crisis. We're sorry, we are experiencing heavy call volume and substantial hold times. Browse our FAQs or type your question into the "Ask Us" search bar below to get answers fast. We appreciate your business, patience and understanding during this global crisis. Live Chat CALL US **ANY TIME**:1.800.777.0000  
+We're working hard to support our customers during the COVID-19 crisis
+
+We're sorry, we are experiencing heavy call volume and substantial hold times.
+
+Browse our FAQs or type your question into the "Ask Us" search bar below to get answers fast.
+
+We appreciate your business, patience and understanding during this global crisis.
+
+View The Latest Information &. FAQs
+
+Live Chat CALL US **ANY TIME**:1.800.777.0000  
   
 We're available 24 hours, 7 days a week. menu
 
