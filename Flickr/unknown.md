@@ -372,10 +372,18 @@ Phone Number of Designated Agent: 833-522-8820
 *   Blog
 *   Developers
 *   Guidelines
+*   Privacy
+*   Terms
 *   Help
 *   Report abuse
 *   Help forum
 *   English
+*   SmugMug+Flickr.
+
+*   Privacy
+*   Terms
+
+SmugMug+Flickr. Connecting people through photography.
 
 *   About
 *   Jobs
@@ -383,6 +391,9 @@ Phone Number of Designated Agent: 833-522-8820
 *   Developers
 *   Guidelines
 *   Report abuse
+*   Privacy
+*   Terms
+*   Help
 *   Help forum
 *   English
 
