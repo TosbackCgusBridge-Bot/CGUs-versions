@@ -43,9 +43,10 @@ Close submenu ( Collections ) Collections
 *   Tribe Of Tees
 *   Basic Essentials
 *   Seriously Soft
-*   Curvy
 *   Active
-*   Uniform
+*   Get Cozy
+*   Get Connected
+*   Vid Chat Vibes
 
 Close submenu ( Guys ) Guys
 
@@ -64,14 +65,15 @@ Close submenu ( Guys ) Guys
 Close submenu ( Collections ) Collections
 
 *   View All
+*   Get Cozy
+*   Get Connected
+*   Vid Chat Vibes
 *   New Arrivals
 *   Best Sellers
 *   Jeans Guide
 *   Online Only
 *   Back to Basics
-*   Music + Pop Culture
 *   Active
-*   Uniform
 
 Close submenu ( Jeans ) Jeans
 
@@ -150,8 +152,8 @@ Close submenu ( Girls ) Girls
 *   Matching Sets
 *   Mexico City
 *   Swim
-*   Jewelry
 *   Spring Break
+*   Jewelry
 *   Tiny Tops
 
 Close submenu ( Guys ) Guys
@@ -238,9 +240,10 @@ Menu Find a Store Aeropostale
         *   Tribe Of Tees
         *   Basic Essentials
         *   Seriously Soft
-        *   Curvy
         *   Active
-        *   Uniform
+        *   Get Cozy
+        *   Get Connected
+        *   Vid Chat Vibes
     
 *   Guys
     
@@ -256,14 +259,15 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
+        *   Get Cozy
+        *   Get Connected
+        *   Vid Chat Vibes
         *   New Arrivals
         *   Best Sellers
         *   Jeans Guide
         *   Online Only
         *   Back to Basics
-        *   Music + Pop Culture
         *   Active
-        *   Uniform
     
 *   Jeans
     
@@ -331,8 +335,8 @@ Menu Find a Store Aeropostale
         *   Matching Sets
         *   Mexico City
         *   Swim
-        *   Jewelry
         *   Spring Break
+        *   Jewelry
         *   Tiny Tops
     
     *   Guys
