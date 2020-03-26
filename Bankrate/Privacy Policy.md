@@ -28,7 +28,7 @@ Save SettingsAllow All Open navigation
 *   BR Mortgages
 *   BR Homes
 *   BR Banking
-*   Credit cards
+*   BR Credit cards
 *   BR Loans
 *   Investing
 *   BR Home equity
@@ -141,7 +141,7 @@ Main Menu BR Banking Banking overview
 *   Barclays Bank
 *   All bank reviews
 
-Main Menu Credit cards Credit cards overview
+Main Menu BR Credit cards Credit cards overview
 
 *   Compare by category
 *   Best credit cards of 2020
