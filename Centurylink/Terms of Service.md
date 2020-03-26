@@ -2,7 +2,7 @@
 *   Small Business
 *   Enterprise
 
-Contact Us CenturyLink Residential Shop Internet Bundles DIRECTV® Home Phone Check For Deals At My Home Special Offers Moving? Streaming TV My CenturyLink My Account Quick Bill Pay Enroll Support Support Center Contact Us Guidance Center Business Small Business Enterprise Partners Public Sector Wholesale About Us Company Information Find everthing  
+Contact Us CenturyLink Residential Shop Internet Bundles TV Home Phone Check For Deals At My Home Special Offers Moving? Streaming TV My CenturyLink My Account Quick Bill Pay Enroll Support Support Center Contact Us Guidance Center Business Small Business Enterprise Partners Public Sector Wholesale About Us Company Information Find everthing  
 you need to know  
 about us. Investor Relations View financial  
 information  
