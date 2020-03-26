@@ -701,27 +701,27 @@ About Mattel
 
 *   Careers
 *   Corporate
+*   Corporate Contacts
 *   Newsroom
-*   Toy Store Locations
 
 For the Collector
 
 *   Barbie® Signature
 *   Hot Wheels® Collectors
-*   Customer Service
+*   Toy Store Locations
 
 Helpful Links
 
+*   Customer Service
 *   Recall Information
 *   Modern Slavery Act Transparency Statement
-*   Submit Product Ideas
 *   Terms &. Conditions
 
 Follow Mattel
 
 *   Updated Privacy Statement
 *   Cookies &. Technologies
-
+*   Do Not Sell My Personal Information (ADCHOICES)
 *   © 2020 Mattel. All Rights Reserved
 
 Do you want to continue? You are about to visit a website that operates under a separate privacy policy and other terms.  
