@@ -37,7 +37,7 @@ Instant Notifications
 
 You'll receive push notifications when your resume is viewed, or when new jobs appear in your most recent search. Making it easy for you to jump right back into your job search.
 
-see how you can up your career status Career Development &. Learning Workplace Tips for hourly workers impacted by coronavirus-related financial strains Read Article How to Search 3 ways remote work can improve your mental health and relationships Read Article Your personalized career path from CareerBuilder’s Chief People Officer Read Article Read More Articles Employers Looking to Post a Job?
+see how you can up your career status Career Development &. Learning Job interview tips in the age of social distancing Read Article Workplace Tips for hourly workers impacted by coronavirus-related financial strains Read Article How to Search 3 ways remote work can improve your mental health and relationships Read Article Read More Articles Employers Looking to Post a Job?
 
 We have end-to-end solutions that can keep up with you and your standards.
 
