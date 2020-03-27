@@ -411,14 +411,29 @@ Shop Girls Shop Guys
 
 **#StayHomeWithAero**
 
-Hoodies &. Joggers
+Get Connected
 
-Get your cozy on! &. stock up on comfort &. style
+**#StayHomeWithAero**
 
-Get your cozy on! &. stock up on  
-comfort &. style
+Effortless outfits.  
+Colorful coziness.  
+(Front)camera-ready  
+fashion.
 
-**Girls Hoodies Now $19.80** Was $49.50 **Guys Hoodies Now $19.80** Was $49.50 **Girls Joggers Now $15.80** Was $39.50 **Guys Joggers Now $17.80** Was $44.50 Previous
+Effortless outfits. Colorful coziness.  
+(Front) camera-ready fashion
+
+**Girls Get Cozy** ****Guys Get Cozy********Get Cozy
+
+Vid Chat Vibes
+
+Get Connected
+
+Get Cozy
+
+Vid Chat Vibes
+
+Previous
 
 Curvy
 
@@ -528,72 +543,39 @@ Slim Cut Off
 
 Next
 
-60% (or More) Off
-
-  
+**#StayHomeWithAero 60%(or More) Off**
 
 Jeans &. Shorts
 
-Shop Girls Shop Guys
+Soft enough to lounge in. Flexible enough  
+to handle anything.
 
-60% (or More) Off
+Soft enough to lounge in.  
+Flexible enough to handle anything.
 
-Jeans &. Shorts
+**Girls Jeans $22.80** Was $56.50 **Guys Jeans $21.80** Was $54.50 **Girls Shorts $18.80** Was $46.50 **Guys Shorts $19.80** Was $49.50
 
-Shop Girls Shop Guys
+**#StayHomeWithAero 60%(or More) Off**
 
-PERFECTLY  
-PAIRED
+Aero Tees
 
-New Spring Dresses &. Sets
+Super chill. Ultra soft. Next-level comfortable.
 
-Shop Dresses &. Sets
+Super chill. Ultra soft.  
+Next-level comfortable.
 
-Almost 40% of people experiencing  
-homelessness in the United States are under  
-18\. The clothing item they most often request?
+**Girls Tees $9.80** Was $24.50 **Guys Tees $9.80** Was $24.50
 
-A PAIR OF JEANS.
+**#StayHomeWithAero 60%(or More) Off**
 
-**JANUARY 22ND - MARCH 7TH,**  
-Donate a pair of jeans in stores &. get an  
-additional 20% off your next purchase.  
-  
-Join at **dosomething.org/jeans**  
-for a chance to win a grand prize  
-of $10,000 for your school.
+Aero Dresses
 
-**JANUARY 22ND - MARCH 7TH,**  
-Donate a pair of jeans in stores &. get an additional  
-20% off your next purchase.  
-  
-Join at **dosomething.org/jeans** for a  
-chance to win a grand prize of $10,000  
-for your school.
+Sunshine you can wear-even while you stay inside.
 
-Learn more
+Sunshine you can wear-  
+even while you stay inside.
 
-60% (or More)
-
-Off Aero Tees
-
-Specially washed for never-before-felt  
-softness. Expertly created for everyday  
-comfort &. ease.
-
-Shop Girls Shop Guys
-
-NEW!
-
-NEW!
-
-TINY TOPS
-
-Classic styles in shrunken silhouettes.  
-Especially perfect with high-waisted  
-Aero bottoms.
-
-Shop Girls **$7 &. Up**
+**Dresses $15.80** Was $39.50
 
 AERO x MEXICO  
 #AEROWORLD
@@ -606,45 +588,23 @@ Introducing our
 limited-edition global "Oneness" collection  
 inspired by the vibrant streets of Mexico City.
 
-Shop the Girls Collection Shop the Guys Collection
+Enter Aero World
 
-Where we come together as one.  
-Tag **@aeropostale** and **#AeroWorld** for a chance to be  
-featured on our site **#InAero**
+#StayHomeWithAero
 
-Where we come together as one.  
-Tag **@aeropostale** and **#AeroWorld** for a chance to  
-be featured on our site **#InAero**
+Just because we're staying home,  
+doesn't mean we can't stay  
+connected. Let's come together to  
+support one another. Unity is more  
+important than ever.
 
-CLEARANCE
+#StayHomeWithAero
 
-UP TO
+Just because we're staying home, doesn't mean we can't  
+stay connected. Let's come together to support one  
+another. Unity is more important than ever.
 
-80% OFF
-
-Can't-miss styles. OMG prices.
-
-Shop Girls Shop Guys Meet Rylie
-
-Rylie was adopted by Aero through Best Friends Animal  
-Society. Follow her journey as the newest member of  
-the Aero family on Instagram **@RylieTheRescue**.
-
-Rylie was adopted by Aero through Best Friends  
-Animal Society. Follow her journey as the newest  
-member of the Aero family on Instagram  
-**@RylieTheRescue**.
-
-To join Aero in donating over $400,000 to Best Friends  
-Animal Society, round up your change to the nearest  
-dollar or donate the amount of your choice in stores.
-
-To join Aero in donating over $400,000 to Best  
-Friends Animal Society, round up your change to  
-the nearest dollar or donate the amount of your  
-choice in stores.
-
-Learn More About Rylie Learn More About Rylie <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS
+<div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>.**** ****SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS
 
 For more information, please see our **Privacy Policy**. California residents, see our **California Privacy Notice** and **Do Not Sell My Personal Information** page.
 
@@ -693,4 +653,4 @@ Stay Connected
 *   Use Student Discount
 *   Store FAQs
 
-© 2020 Aeropostale. All Rights Reserved. CHAT
+© 2020 Aeropostale. All Rights Reserved.**** CHAT
