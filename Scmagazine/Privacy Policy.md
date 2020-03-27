@@ -222,17 +222,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Bug leads Facebook to mark COVID-19 posts as spam
+    *   Free cybersecurity tools coming online to protect WFH staffers
     *   COVID-19 decoy doc, Cloudflare service used to spread 'BlackWater' malware
-    *   Some cybercriminals consider laying off health care targets amid COVID-19 crisis
-    *   FSB contractor breach exposes secret cyber weapons program leveraging IoT vulnerabilities
-    *   Password found to rescue victims of malicious COVID-19 tracker app
-    
-    *   COVID-19 exposes gaps in cybersecurity safety net as millions work from home
-    *   Zero-day being used to turn LILIN DVRs into botnets
-    *   Drupal, Google and Cisco post security advisories
-    *   Blisk browser left open, 2.9 million records exposed
+    *   Report: Account takeover and data scraping attacks on e-retailers up as COVID-19 surges
+    *   Every presidential campaign website executes suspicious third-party code
     *   Coronavirus news being used to sneak malware past AV programs
+    
+    *   Drupal, Google and Cisco post security advisories
+    *   Password found to rescue victims of malicious COVID-19 tracker app
+    *   8 million EU retail sales records exposed on AWS MongoDB
+    *   APT41 activity down during China COVID-19 quarantines. massive campaign undeterred
+    *   SC Stats: Coronavirus spurring thousands of new domains, many malicious
     
     *   Tupperware site hacked with credit card skimmer
     *   APT41 activity down during China COVID-19 quarantines. massive campaign undeterred
