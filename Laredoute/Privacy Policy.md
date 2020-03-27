@@ -394,7 +394,7 @@ Afin de pouvoir débiter le compte lors de la facturation ou de la créditer sui
 
 Si vous avez fait le choix d’enregistrer vos cartes bancaires, celles-ci sont désactivées automatiquement à l’expiration de la date de validité de la carte.
 
-Lors de la souscription à un abonnement La Redoute et Moi, vos données bancaires sont conservées par le prestataire OGONE de façon sécurisée. Vous avez la possibilité de vous y opposer lors de la souscription de votre abonnement et à tout moment en exerçant vos droits.
+Lors de la souscription à un abonnement La Redoute et Moi, vos données bancaires sont conservées par le prestataire OGONE de façon sécurisée. Cette conservation est nécessaire pour permettre le renouvellement tacite du contrat. La résiliation de l’abonnement La Redoute et Moi entraine la suppression des données bancaires conservées spécifiquement pour le renouvellement tacite.
 
 Pour plus d’informations sur les durées de conservation appliquées par la Redoute, vous pouvez contacter le délégué à la protection des données (cf. point 12).
 
