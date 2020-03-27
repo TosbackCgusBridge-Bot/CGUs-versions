@@ -1287,7 +1287,7 @@ Browse our FAQs or type your question into the "Ask Us" search bar below to get 
 
 We appreciate your business, patience and understanding during this global crisis.
 
-View The Latest Information &. FAQs
+LEARN MORE I FAQ
 
 Live Chat CALL US **ANY TIME**:1.800.777.0000  
   
