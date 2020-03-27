@@ -5,14 +5,36 @@ Nordstrom RackHauteLook
 *   Invite a Friend, Get $20
 *   Log In / Sign Up
 
-HauteLookFree Shipping on Orders Over $89\* New! Temporary Extended Returns
+HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
-    *   Daily Deal: Dolce Vita Pixy Loafers Under $55
-    *   Daily Deal: bObsweep Up to 75% Off
+    *   Designer Shoes for Spring
+    *   Designer Styles Up to 75% Off
+    *   Men's Designer Shoes Up to 60% Off ft. Dolce &. Gabbana
+    *   Designer Watches ft. Dior
+    *   Sugarlips Under $50
+    *   Spring Outerwear Up to 70% Off
+    *   Cozy Styles Under $40 Incl. Plus &. Petites
+    *   Laundry by Shelli Segal Incl. Plus &. Petites
+    *   Men's Designer Styles Up to 75% Off
+    *   Men's Designer Denim ft. BLDWN
+    *   Oliver Peoples Sunglasses &. More
+    *   Danielle Nicole Up to 50% Off
+    *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
+    *   Pumps Under $40
+    *   Jenny Bird Jewelry Up to 80% Off
+    *   Cozy PJs, Loungewear &. Socks
+    *   Backyard Fun: Outdoor Toys ft. Little Tikes
+    *   Get Comfy: Butter Super Soft &. More
+    *   Stay Cozy: Shoes to Lounge Around In
+    *   Royale USA Hair Tools Up to 90% Off
+    *   Suncare Essentials ft. Sun Bum
+    *   Men's Slippers Starting at $20
+    *   NYDJ Incl. Plus &. Petites
     *   Hobo Handbags Up to 60% Off
     *   TOMS Starting at $35
+    
     *   TOMS Men Starting at $30
     *   Socialite Under $35
     *   TOMS Kids Starting at $20
@@ -31,208 +53,183 @@ HauteLookFree Shipping on Orders Over $89\* New! Temporary Extended Returns
     *   Nanette Lepore Intimates &. Sleep Under $30
     *   On-Trend Looks for Girls ft. Roxy
     *   On-Trend Looks for Boys ft. Quiksilver
-    *   NYDJ Incl. Plus &. Petites
     *   Clean &. Tidy: Floor Care &. Organization Up to 60% Off
     *   Smart Home Accessories &. More from $15
     *   Wireless &. Bluetooth Accessories Starting at $15
-    
     *   Luxe Bedding ft. Jonathan Adler
     *   Best of Home: Cozy Throws &. More Up to 50% Off
     *   Tommy Bahama Men's Styles Incl. Big &. Tall
     *   Tommy Bahama Up to 65% Off
-    *   TOV
-    *   Jeffrey Campbell
-    *   X by Gottex Under $40
+    
     *   Samuel B Jewelry Up to 50% Off
     *   Spa Day: Bath Bombs &. More Starting at $10
     *   New on HauteLook: Makeup ft. PRESCRIPTIVES
     *   Smart Watchbands &. More Up to 70% Off
-    *   Tommy Bahama Luggage
     *   Back to Basics: Men's Socks &. Underwear from $8
     *   Sleek Men's Sneakers Up to 70% Off
-    *   Matisse
-    *   Great Heights: High Heels &. Wedges
-    *   Great Heights: Low &. Mid Heels
-    *   Sun's Out, Toes Out: Flip-Flops &. Slides
     *   Free Shipping: Towel Sets Up to 75% Off
     *   Forecasting Cuteness: Kids' Raincoats &. More
-    *   Natori Up to 65% Off
-    *   Reiss Up to 65% Off
-    *   Bony Levy ft. 14K Gold Jewelry
-    *   English Laundry Up to 65% Off
-    *   Psycho Bunny Lounge
     *   Men's Comfort Shoes from Rockport &. More
-    
-    *   Stay Cozy: Kids' Sweatshirts, Joggers &. More
-    *   Olivia Miller
     *   Free Shipping: BergHOFF Up to 65% Off
-    *   Men's Shoe Steals Up to 80% Off
-    *   Lacoste Men's Shoes
     *   Terre Mere Organic Beauty Up to 75% Off
     *   Pop Sonic Starting at $10
     *   Love Your Skin: Beauty Tools Starting at $10
-    *   Liquid IV: Hydration Powder Supplements
-    *   Our Favorite Hair Care Brands Starting at $10
+    *   Joe Fresh Kids Up to 50% Off
     *   Free Shipping: Professional Garment Steamers
     *   Free Shipping: Down &. Memory Foam Essentials
-    *   Luxe Faux Fur Pillows &. Throws Up to 80% Off
-    *   Kitchen Best Sellers Up to 70% Off
     *   Best of Skin Care Sets ft. Kate Somerville
     *   Candles, Diffusers &. More ft. NEST Fragrances
+    *   Dress Shop: Floral Styles Up to 70% Off
     *   Rock Revival &. More
     *   West Kei Incl. Plus &. Petites
-    *   Your New Faves: Loungewear Incl. Plus
+    *   X by Gottex Under $40
     *   Lace, Florals and More Incl. Plus &. Petites
-    *   Joe Fresh Kids Up to 50% Off
-    *   Beyond Yoga
-    *   n:Philanthropy Up to 75% Off
     *   Dream-Worthy Steals: Sleep Up to 70% Off
-    *   Dress Shop: Floral Styles Up to 70% Off
     *   Dress Shop: Polished Styles Under $70
 *   WomenShop Sale Events
     
-    *   Daily Deal: Dolce Vita Pixy Loafers Under $55
+    *   Designer Shoes for Spring
+    *   Designer Styles Up to 75% Off
+    *   Designer Watches ft. Dior
+    *   Sugarlips Under $50
+    *   Spring Outerwear Up to 70% Off
+    *   Cozy Styles Under $40 Incl. Plus &. Petites
+    *   Laundry by Shelli Segal Incl. Plus &. Petites
+    *   Oliver Peoples Sunglasses &. More
+    *   Danielle Nicole Up to 50% Off
+    *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
+    *   Pumps Under $40
+    *   Jenny Bird Jewelry Up to 80% Off
+    *   Cozy PJs, Loungewear &. Socks
+    *   Stay Cozy: Shoes to Lounge Around In
+    *   Royale USA Hair Tools Up to 90% Off
+    *   Suncare Essentials ft. Sun Bum
+    *   NYDJ Incl. Plus &. Petites
     *   Hobo Handbags Up to 60% Off
     *   TOMS Starting at $35
     *   Socialite Under $35
     *   Keep It Casual: Dresses Incl. Plus &. Petites
     *   Warm Weather Ready: Denim Shorts Under $30
     *   Molton Brown Starting at $10
+    
     *   On-Trend Tops, Dresses &. More from $20
     *   Pam &. Gela Up to 70% Off
     *   Cover-Ups ft. Boho Me
     *   CZ by Kenneth Jay Lane Up to 60% Off
     *   Personalized Jewelry &. More
     *   Nanette Lepore Intimates &. Sleep Under $30
-    *   NYDJ Incl. Plus &. Petites
     *   Tommy Bahama Up to 65% Off
-    *   TOV
-    *   Jeffrey Campbell
-    *   X by Gottex Under $40
     *   Samuel B Jewelry Up to 50% Off
     *   Spa Day: Bath Bombs &. More Starting at $10
     *   New on HauteLook: Makeup ft. PRESCRIPTIVES
-    *   Tommy Bahama Luggage
-    *   Matisse
-    
-    *   Great Heights: High Heels &. Wedges
-    *   Great Heights: Low &. Mid Heels
-    *   Sun's Out, Toes Out: Flip-Flops &. Slides
-    *   Natori Up to 65% Off
-    *   Reiss Up to 65% Off
-    *   Bony Levy ft. 14K Gold Jewelry
     *   Terre Mere Organic Beauty Up to 75% Off
     *   Pop Sonic Starting at $10
     *   Love Your Skin: Beauty Tools Starting at $10
-    *   Liquid IV: Hydration Powder Supplements
-    *   Our Favorite Hair Care Brands Starting at $10
     *   Best of Skin Care Sets ft. Kate Somerville
     *   Candles, Diffusers &. More ft. NEST Fragrances
+    *   Dress Shop: Floral Styles Up to 70% Off
     *   Rock Revival &. More
     *   West Kei Incl. Plus &. Petites
-    *   Your New Faves: Loungewear Incl. Plus
+    *   X by Gottex Under $40
     *   Lace, Florals and More Incl. Plus &. Petites
-    *   Beyond Yoga
-    *   n:Philanthropy Up to 75% Off
     *   Dream-Worthy Steals: Sleep Up to 70% Off
-    *   Dress Shop: Floral Styles Up to 70% Off
     *   Dress Shop: Polished Styles Under $70
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
-    *   Lingerie &. Shapewear
+    *   Shoes
     *   Handbags
+    *   Lingerie &. Shapewear
+    *   Watches
     *   Accessories
 *   MenShop Sale Events
     
+    *   Men's Designer Shoes Up to 60% Off ft. Dolce &. Gabbana
+    *   Designer Watches ft. Dior
+    *   Men's Designer Styles Up to 75% Off
+    *   Men's Designer Denim ft. BLDWN
+    *   Oliver Peoples Sunglasses &. More
+    *   Men's Slippers Starting at $20
     *   TOMS Men Starting at $30
+    
     *   Vintage Foundry Up to 80% Off
     *   Threads 4 Thought Up to 70% Off
     *   Shorts Up to 60% Off
     *   Tommy Bahama Men's Styles Incl. Big &. Tall
-    *   Tommy Bahama Luggage
     *   Back to Basics: Men's Socks &. Underwear from $8
-    
     *   Sleek Men's Sneakers Up to 70% Off
-    *   English Laundry Up to 65% Off
-    *   Psycho Bunny Lounge
     *   Men's Comfort Shoes from Rockport &. More
-    *   Men's Shoe Steals Up to 80% Off
-    *   Lacoste Men's Shoes
-    *   Liquid IV: Hydration Powder Supplements
     
     Shop By Category
     *   Shoes
     *   Clothing
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Backyard Fun: Outdoor Toys ft. Little Tikes
+    *   Get Comfy: Butter Super Soft &. More
     *   TOMS Kids Starting at $20
     *   On-Trend Looks for Girls ft. Roxy
     *   On-Trend Looks for Boys ft. Quiksilver
     *   Forecasting Cuteness: Kids' Raincoats &. More
-    *   Stay Cozy: Kids' Sweatshirts, Joggers &. More
-    *   Olivia Miller
     *   Joe Fresh Kids Up to 50% Off
     
     Shop By Category
     *   Girls
     *   Boys
-    *   Baby
+    *   Toys
     *   Girls' Shoes
+    *   Baby
     *   Boys' Shoes
 *   HomeShop Sale Events
     
-    *   Daily Deal: bObsweep Up to 75% Off
     *   Free Shipping: Wall Murals &. More from $15
     *   Clean &. Tidy: Floor Care &. Organization Up to 60% Off
     *   Smart Home Accessories &. More from $15
     *   Wireless &. Bluetooth Accessories Starting at $15
     *   Luxe Bedding ft. Jonathan Adler
     *   Best of Home: Cozy Throws &. More Up to 50% Off
-    *   Smart Watchbands &. More Up to 70% Off
     
-    *   Tommy Bahama Luggage
+    *   Smart Watchbands &. More Up to 70% Off
     *   Free Shipping: Towel Sets Up to 75% Off
     *   Free Shipping: BergHOFF Up to 65% Off
     *   Free Shipping: Professional Garment Steamers
     *   Free Shipping: Down &. Memory Foam Essentials
-    *   Luxe Faux Fur Pillows &. Throws Up to 80% Off
-    *   Kitchen Best Sellers Up to 70% Off
     
     Shop By Category
-    *   Home Decor
     *   Electronic &. Tech Accessories
+    *   Home Decor
     *   Bedding
-    *   Kitchen &. Tabletop
     *   Bath
     *   Cleaning &. Organization
+    *   Kitchen &. Tabletop
     *   Luggage &. Travel
-    *   Rugs &. Doormats
+    *   Outdoor Living
     *   Holiday Decorations
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Royale USA Hair Tools Up to 90% Off
+    *   Suncare Essentials ft. Sun Bum
     *   Molton Brown Starting at $10
     *   Spa Day: Bath Bombs &. More Starting at $10
     *   New on HauteLook: Makeup ft. PRESCRIPTIVES
     *   Terre Mere Organic Beauty Up to 75% Off
     *   Pop Sonic Starting at $10
     *   Love Your Skin: Beauty Tools Starting at $10
-    *   Liquid IV: Hydration Powder Supplements
-    *   Our Favorite Hair Care Brands Starting at $10
     *   Best of Skin Care Sets ft. Kate Somerville
     *   Candles, Diffusers &. More ft. NEST Fragrances
     
     Shop By Category
-    *   Skin Care
-    *   Makeup
-    *   Fragrance
-    *   Bath &. Body
-    *   Hair Care
     *   Tools &. Accessories
+    *   Skin Care
+    *   Hair Care
+    *   Makeup
+    *   Bath &. Body
+    *   Fragrance
+    *   Men’s Grooming
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
@@ -426,4 +423,4 @@ Get a $20 credit each time a friend you invite makes their first purchase. Limit
 
 Or you can use your personal referral link to invite
 
-Shipping &. ReturnsFree shipping is applied to orders over $89 before tax (limited time only). International orders and all items over 5lbs. excluded.Temporary Extended Returns in Response to COVID-19For all items purchased online on or after February 1, 2020, we will accept in-store returns up to 45 days after stores reopen. We are continuing to accept returns by mail. the extended return period above applies. Purchases made after stores reopen will be subject to our standard 45-day return policy.Return to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack up to 45 days after stores reopen.Find Your RackReturn by MailUse our self-service Returns page to get started and return your item.Start Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US and $10.95 for Canada. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.Unlock Your Exclusive RewardsTake a minute to complete your profile to view your Nordy Club status and available points.Complete My ProfileSkip for now
+Shipping &. ReturnsFree shipping is applied to orders over $100 before tax. International orders and all items over 5lbs. excluded.Temporary Extended Returns in Response to COVID-19For all items purchased online on or after February 1, 2020, we will accept in-store returns up to 45 days after stores reopen. We are continuing to accept returns by mail. the extended return period above applies. Purchases made after stores reopen will be subject to our standard 45-day return policy.Return to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack up to 45 days after stores reopen.Find Your RackReturn by MailUse our self-service Returns page to get started and return your item.Start Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US and $10.95 for Canada. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.Unlock Your Exclusive RewardsTake a minute to complete your profile to view your Nordy Club status and available points.Complete My ProfileSkip for now
