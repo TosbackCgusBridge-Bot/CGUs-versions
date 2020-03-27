@@ -33,10 +33,8 @@ Lenovo Explore Close
         *   Legion Y545
         
         *   Last Chance &. Top Deals
-        *   IdeaPad S940
         *   X1 Carbon Gen 7
         *   ThinkPad P1 Gen 2
-        *   ThinkPad X1 Yoga Gen 4
         *   Home Office Essentials
         *   Remote Learning Basics
     *   Desktops
@@ -177,25 +175,20 @@ Lenovo Explore Close
         *   View All Monitors
         
         *   Best Selling Monitors
-        *   M14 Portable
-        *   P27h QHD USB-C
         *   P24q QHD
-        *   Tiny-In-One 23.8" Gen3
-        *   S22e 21.5” LED Backlit LCD
-        *   T27i Wide FHD
-        
-        *   Shop New Monitors
-        *   L27q QHD
         *   C32q QHD
         *   Y27gq Legion Gaming
-        *   G25 Gaming
         *   P27u Wide UHD IPS (4K)
-        *   M14 Portable
         
         *   Quick Links
         *   Sale
         *   Monitor Accessories
         *   Monitor FAQ
+        
+        SALE
+        
+        Save on your setup for school, work or home with weekly monitor deals.
+        
     *   Gaming
         
         *   Always Free Shipping
@@ -317,7 +310,7 @@ Lenovo Explore Close
         *   Remote Learning Basics
         
         *   Additional Offers
-        *   AMD PC deals up to 50%
+        *   AMD PC deals up to 30%
         *   Clearance
         *   Financing Options
         *   Discount Programs
@@ -1204,14 +1197,4 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Launches comment card in new windowFeedbackCreated with sketchtool.CHAT NOW
-
-How can we help
-
-you today?
-
-×SALES CHATEXISTING ORDER HELPSALES CHATEXISTING ORDER HELPBUSINESS SALESBUSINESS SALES
-
-Call us: 1-855-253-6686
-
-Check order status >Technical support or Repair status >
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement
