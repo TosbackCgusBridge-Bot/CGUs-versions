@@ -4,8 +4,10 @@ Toggle navigation
     *   softonic.com
     *   Solutions
 *   For Advertisers
-    *   Our Reach
+    *   Making the difference
+    *   softonic in numbers
     *   Advertising solutions
+    *   Case Studies
 *   For Publishers
 *   About Us
     *   Our Vision
@@ -20,6 +22,7 @@ Toggle navigation
     *   News
     *   Assets
 *   Contact
+*   FAQs
 
 **LEGAL INFORMATION** 
 
