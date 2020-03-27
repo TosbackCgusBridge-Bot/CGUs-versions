@@ -109,7 +109,7 @@ Expand all panelsShow all panels | Hide all panelsImposter: "I'm with the IRS an
 \* Zelle and the Zelle related marks are wholly owned by Early Warning Services, LLC and are used herein under license.
 
 **Trending now**  
-Remember: Never abbreviate the year 2020 on checks or when signing documents. A criminal can, for example, easily change 2/16/20 to 2/16/2019 in order to facilitate a financial crime.
+Remember: Always be vigilant to protect against scams. Never click on unsolicited links in text messages or emails, especially those asking for cash, gift cards or wire donations to charities. Visit ftc.gov/scams for more information.
 
 Set your privacy choices
 
