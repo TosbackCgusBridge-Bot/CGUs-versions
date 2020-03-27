@@ -1,8 +1,6 @@
 A Message to Our Movie Fans Read More Gift Cards | Offers | Sign In Sign Out
 
-Screen Reader Users: To optimize your experience with your screen reading software, please use our Flixster.com website, which has the same tickets as our Fandango.com and MovieTickets.com websites.
-
-*   Fandango
+*   Fandango Screen Reader Users: To optimize your experience with your screen reading software, please use our Flixster.com website, which has the same tickets as our Fandango.com and MovieTickets.com websites.
 *   Skip to Main Content Go
 
 *   Movies Now Playing
