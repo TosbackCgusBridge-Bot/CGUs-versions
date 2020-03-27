@@ -12,31 +12,31 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1298 games
-*   Most Popular Games 20619 games
+*   Best of new games 1243 games
+*   Most Popular Games 20629 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,364 games
+*   For Girls 24,366 games
 *   Driving &. Racing 6,338 games
-*   Strategy &. RPG 3,607 games
+*   Strategy &. RPG 3,608 games
 *   Management &. Sim 4,258 games
-*   Thinking 12,550 games
-*   Action &. Adventure 14,495 games
-*   Sports 3,319 games
-*   Shooting 9,021 games
-*   Fighting 2,082 games
-*   Skill 10,931 games
-*   Arcade &. Classic 8,939 games
-*   Fun &. Crazy 4,788 games
+*   Thinking 12,541 games
+*   Action &. Adventure 14,489 games
+*   Sports 3,318 games
+*   Shooting 9,020 games
+*   Fighting 2,080 games
+*   Skill 10,901 games
+*   Arcade &. Classic 8,932 games
+*   Fun &. Crazy 4,787 games
 
 Play with friends  
 Powered by Y8 Account 142 Y8 Multiplayer Games 2,204 Y8 High Score Games 1,249 Y8 Achievements Games 874 Y8 Screenshots Games 1,654 Y8 Online Save Games 3,363 All Y8 Games Games Last Highscore:
 
-**27** points on DD Happy Glass by pham\_cuc
+**13** points on EvoWars.Y8 by xiaomei
 
 Help us improve Bad translation? Social
 
@@ -85,49 +85,49 @@ Register Log in My Profile 0 points
 
 Game Categories
 
-*   For Girls 24,364 games
-*   Shooting 9,021 games
+*   Shooting 9,020 games
 *   Driving &. Racing 6,338 games
-*   Fighting 2,082 games
-*   Strategy &. RPG 3,607 games
-*   Sports 3,319 games
+*   For Girls 24,366 games
+*   Fighting 2,080 games
+*   Sports 3,318 games
+*   Strategy &. RPG 3,608 games
+*   Thinking 12,541 games
+*   Fun &. Crazy 4,787 games
+*   Arcade &. Classic 8,932 games
 *   Management &. Sim 4,258 games
-*   Skill 10,931 games
-*   Thinking 12,550 games
-*   Action &. Adventure 14,495 games
-*   Arcade &. Classic 8,939 games
-*   Fun &. Crazy 4,788 games
+*   Action &. Adventure 14,489 games
+*   Skill 10,901 games
 
 Tags
 
-*   Dress Up15,966
-*   2 player1,234
-*   Makeover / Make-up3,610
-*   Basketball299
+*   Dress Up15,967
+*   Decorate1,983
+*   Makeover / Make-up3,609
+*   2 player1,233
+*   Simulation954
 *   Car2,745
 *   Cooking1,605
-*   Dragon Ball Z46
-*   Simulation953
-*   War1,059
+*   Basketball299
 *   Gun1,445
+*   War1,058
 *   Escape1,457
+*   Dragon Ball Z46
 *   Bowling120
-*   Tower Defense468
+*   Factory68
+*   Baseball101
+*   Tower Defense469
 *   Y8 Account3,363
-*   Ball2,860
+*   Submarine108
 *   Y8 Highscore2,204
-*   Memory897
-*   Racket143
+*   Memory896
+*   Mahjong343
 *   Y8 Screenshot874
-*   Virus74
-*   Surfboard42
+*   Virus73
 *   Puppy115
-*   Zombie1,707
+*   Zombie1,704
 *   Y8 Save1,654
 *   Street649
 *   Sonic87
-*   Balancing565
-*   Street Fighting121
 
 × ×
 
