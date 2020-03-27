@@ -1,3 +1,7 @@
+We are continuing to respond to the impact of COVID-19 around the world. See our latest updates.
+
+Before finalizing your shipment, please confirm your recipient is "OPEN" for business.
+
 *   Shipping Create a Shipment Shipping Rates &. Delivery Times Shipping Rates &. Delivery Times Schedule &. Manage Pickups Packing &. Shipping Supplies International Shipping Guide In-Store Shipping Services ALL SHIPPING SERVICES
 *   Tracking Tracking ID Tracking ID TRACK Advanced Shipment Tracking Manage Your Delivery ALL TRACKING SERVICES
 *   Design &. Print Start Online Printing Order Custom Design Templates Posters, Signs &. Banners Marketing Materials Get Coupons &. Deals ALL PRINTING SERVICES
@@ -6,7 +10,7 @@
 
 Sign Up or Log In User ID User ID PASSWORD SHOW PASSWORD Remember Me LOG IN Forgot Password/User ID?
 
-Open an account to save up to 40% on eligible shipments.
+Get exclusive benefits when you open a FedEx account.
 
 CREATE ACCOUNT Menu Top Searched Door Tag Insight Supplies Claims Billing Home FedEx Trust Center FedEx Privacy Notice FedEx Privacy Notice FedEx Privacy Notice Global Privacy Policy Created with Sketch. Global privacy policy Privacy notice Cookie notice Binding corporate rules
 
