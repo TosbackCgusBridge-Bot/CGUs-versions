@@ -234,8 +234,8 @@ View more results
         *   Warframe
         *   World of Warships
         *   Phase 10
-        *   Fireboy and Watergirl: The Forest Temple
-        *   Bubble Shooter
+        *   Goodgame Empire
+        *   Farmerama
         *   Moto X3M: Motorcycle Racing Game
         *   Bomb It 6
         *   Traffic Run!
