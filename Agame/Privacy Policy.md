@@ -21,20 +21,20 @@ View more results
     *   Multiplayer Casino
     
     All Multiplayer Best Games
+    *   Worms.Zone
     *   Ono Card Game
+    *   Roulette
     *   Kogama: The Elevator
     *   Subway Clash 3D
     *   Fireboy and Watergirl 5: Elements
-    *   Kogama: Animations
     *   Fireboy and Watergirl: The Forest Temple
-    *   Pool Clash: 8 Ball Billiards Snooker
     *   Draw and Guess
-    *   Minigolf
+    *   Pool Clash: 8 Ball Billiards Snooker
     *   Stickman Fighter: Epic Battle
     *   Empire: World War 3
     *   Slither.io
+    *   Minigolf
     *   Fireboy &. Watergirl 4: Crystal Temple
-    *   Crowd City
 *   Action
     
     Top Categories
@@ -51,6 +51,7 @@ View more results
     
     All Action Best Games
     *   Subway Clash 3D
+    *   Heroica: The Adventures Lego Game
     *   Apple Shooter
     *   Combat Reloaded
     *   King Soldier
@@ -58,12 +59,11 @@ View more results
     *   Stickman Fighter: Epic Battle
     *   Slither.io
     *   Short Life
-    *   Super Buddy Kick
     *   Fruit Blaster
-    *   Wormate.io
+    *   Super Buddy Kick
     *   Mr. Bullet
+    *   Wormate.io
     *   Gun Builder 2
-    *   Stickman Warriors
 *   Adventure
     
     Top Categories
@@ -81,13 +81,13 @@ View more results
     All Adventure Best Games
     *   Kogama: The Elevator
     *   Fireboy and Watergirl 5: Elements
-    *   Kogama: Animations
     *   World Craft 2
     *   Adam and Eve 2
     *   Adam and Eve
     *   Adam and Eve 3
     *   Adam and Eve 4
     *   Troll Face Quest: Horror 2
+    *   KOGAMA: Kowara
     *   Chrome Dino
     *   Monkey Go Happy: Witchcraft
     *   World Crafts
@@ -110,8 +110,8 @@ View more results
     All Puzzle Best Games
     *   MahJongCon
     *   Butterfly Kyodai Classic
-    *   TenTrix
     *   Bubble Shooter Classic
+    *   TenTrix
     *   Roll The Ball
     *   Word Wipe
     *   Free the Key
@@ -121,7 +121,7 @@ View more results
     *   Dream Pet Link
     *   Garden Tales
     *   Road Trip FRVR
-    *   Line Puzzle
+    *   Yummy Tales
 *   Girls
     
     Top Categories
@@ -137,20 +137,20 @@ View more results
     *   Make Up
     
     All Girls Best Games
+    *   Princess Juliet: Castle Escape
     *   My New Room
-    *   Lady Bug and Friends Maker
     *   Villains vs. Princesses: School Fashion
     *   High School Breakup Drama
-    *   Princess Juliet: Castle Escape
+    *   Lady Bug and Friends Maker
     *   Goldie: Lip Injections
-    *   Ella: Hips Surgery
     *   Burger Chef: Cooking Story
-    *   Princesses Makeover
+    *   Ella: Hips Surgery
     *   The Celebrity Way of Life
+    *   Princesses Makeover
     *   Ellie: Get Ready With Me
-    *   Floral Real Life Manicure
     *   Dove Prom Dolly Dress Up
-    *   Miraculous Hero Kiss
+    *   Floral Real Life Manicure
+    *   Lily Real Makeup
 *   Racing
     
     Top Categories
@@ -170,8 +170,9 @@ View more results
     *   Madalin Stunt Cars 2
     *   Thug Racer
     *   Russian Car Driver
-    *   City Car Stunts 2
     *   Agame Stunt Cars
+    *   City Car Stunts 2
+    *   Ambulance Madness
     *   Hill Racing Challenge
     *   Bus Man Parking 3D
     *   Xcross Madness
@@ -179,7 +180,6 @@ View more results
     *   Top Speed Muscle Car: Simulator Game
     *   Parking Passion
     *   Horse Racing: Betting Game
-    *   Real Dog Racing Simulator
 *   Sports
     
     Top Categories
@@ -198,15 +198,15 @@ View more results
     *   Basketball Stars 2019
     *   Table Tennis Pro
     *   Ultimate Boxing
-    *   Archery World Tour
     *   Pool Clash: 8 Ball Billiards Snooker
+    *   Archery World Tour
     *   Stunt Skateboard 3D
     *   Xcross Madness
     *   Subway Surf
     *   Table Tennis World Tour
     *   Horse Racing: Betting Game
-    *   Football Masters: Euro 2020
     *   Football Legends 2016
+    *   Football Masters: Euro 2020
     *   Real Freekick 3D Soccer Game
 *   More
     
