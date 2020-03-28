@@ -58,7 +58,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT.
 
-What is PeekScore? Public Records &. Background Checks 2% 
+What is PeekScore? Public Records &. Background Checks 3% 
 
 Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -88,7 +88,7 @@ Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-3%  2% 
+7%  3% 
 
 Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -118,7 +118,7 @@ Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-3%  Arrest Records &. Driving Infractions
+7%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -215,53 +215,7 @@ Facebook 2% 
     
 *   Show Less ...
 
-Twitter 2% 
-
-*   CDC - CDCgov
-    
-*   Free Privacy Policy - FreePrivacy1
-    
-*   FOIAPost - FOIAPost
-    
-*   Jolynn Dellinger - MindingPrivacy
-    
-*   Show More ...
-
-*   HealthCare.gov - HealthCareGov
-    
-*   Secretary Alex Azar - SecAzar
-    
-*   NIH - NIH
-    
-*   Justice Department - TheJusticeDept
-    
-*   HHS.gov - HHSGov
-    
-*   Mental Health NIMH - NIMHgov
-    
-*   USAID Policy - USAIDPolicy
-    
-*   U.S. FDA - US\_FDA
-    
-*   ARL Public Policy - ARLpolicy
-    
-*   Federal Reserve - federalreserve
-    
-*   CDC\_eHealth - CDC\_eHealth
-    
-*   KerriKupecDOJ - KerriKupecDOJ
-    
-*   U.S. FDA - FDArecalls
-    
-*   Mabuhay Miles - PALMabuhayMiles
-    
-*   U.S. Census Bureau - uscensusbureau
-    
-*   Cristiano Ronaldo - Cristiano
-    
-*   Show Less ...
-
-Instagram 2% 
+Twitter 6%  Instagram 2% 
 
 *   Privacy Policy. - privacypolicy.6974
     
@@ -329,7 +283,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Social Profiles 3%  Pinterest 2% 
+Social Profiles 6%  Pinterest 2% 
 
 *   Privacy policy - maaenterprise033
     
@@ -374,7 +328,7 @@ Wikipedia 2% 
     
 *   Show Less ...
 
-Music 3%  Photo Albums 2% 
+Music 6%  Photo Albums 2% 
 
 *   Help
     
@@ -404,29 +358,25 @@ Music 3%  Photo Albums 2% 
     
 *   Show Less ...
 
-Web Search 3%  Images 2% 
+Web Search 6%  Images 2% 
 
 14
-
-20
 
 19
 
 9
 
-facebookx
+3
 
-twitterx
+facebookx
 
 instagramx
 
 myspacex
 
-3
+pinterestx
 
 facebookx
-
-twitterx
 
 instagramx
 
