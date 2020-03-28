@@ -700,8 +700,8 @@ Shop Our Brands
 About Mattel
 
 *   Careers
+*   Contact Us
 *   Corporate
-*   Corporate Contacts
 *   Newsroom
 
 For the Collector
