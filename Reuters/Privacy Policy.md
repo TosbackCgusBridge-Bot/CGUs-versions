@@ -16,7 +16,7 @@ Ok to continue
 *   Log inLog in
 *   Cart (0)
 
-Thomson Reuters LEGAL
+Thomson Reuters Legal
 
 *   ProductsProducts Top products
     
