@@ -172,7 +172,6 @@
         *   Call Before You Dig
         *   Coronavirus Updates
             *   Customer Information
-            *   Keep Americans Connected Pledge
 *   About Us
     *   Locations
     *   News
@@ -396,7 +395,6 @@ Support
     *   Call Before You Dig
     *   Coronavirus Updates
         *   Customer Information
-        *   Keep Americans Connected Pledge
 
   
 Terms &. Policies
