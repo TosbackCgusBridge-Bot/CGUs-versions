@@ -33,6 +33,7 @@ The Walt Disney Company has a rich tradition of bringing great stories, characte
 *   Our global data transfer, storage, and processing practices
 *   How we manage updates to this policy
 *   How to contact us with comments and questions
+*   California residents’ rights
 *   Definitions of terms in the policy
 
 Learn More
