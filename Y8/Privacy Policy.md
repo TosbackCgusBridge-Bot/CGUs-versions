@@ -12,31 +12,31 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1243 games
-*   Most Popular Games 20629 games
+*   Best of new games 1234 games
+*   Most Popular Games 20638 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,366 games
+*   For Girls 24,363 games
 *   Driving &. Racing 6,338 games
 *   Strategy &. RPG 3,608 games
 *   Management &. Sim 4,258 games
 *   Thinking 12,541 games
-*   Action &. Adventure 14,489 games
+*   Action &. Adventure 14,491 games
 *   Sports 3,318 games
-*   Shooting 9,020 games
+*   Shooting 9,019 games
 *   Fighting 2,080 games
-*   Skill 10,901 games
-*   Arcade &. Classic 8,932 games
-*   Fun &. Crazy 4,787 games
+*   Skill 10,906 games
+*   Arcade &. Classic 8,944 games
+*   Fun &. Crazy 4,789 games
 
 Play with friends  
 Powered by Y8 Account 142 Y8 Multiplayer Games 2,204 Y8 High Score Games 1,249 Y8 Achievements Games 874 Y8 Screenshots Games 1,654 Y8 Online Save Games 3,363 All Y8 Games Games Last Highscore:
 
-**13** points on EvoWars.Y8 by xiaomei
+**131,839** points on Hide Online by Fungi
 
 Help us improve Bad translation? Social
 
@@ -85,49 +85,49 @@ Register Log in My Profile 0 points
 
 Game Categories
 
-*   Shooting 9,020 games
+*   For Girls 24,363 games
 *   Driving &. Racing 6,338 games
-*   For Girls 24,366 games
 *   Fighting 2,080 games
-*   Sports 3,318 games
+*   Shooting 9,019 games
 *   Strategy &. RPG 3,608 games
+*   Arcade &. Classic 8,944 games
+*   Action &. Adventure 14,491 games
+*   Skill 10,906 games
 *   Thinking 12,541 games
-*   Fun &. Crazy 4,787 games
-*   Arcade &. Classic 8,932 games
+*   Sports 3,318 games
 *   Management &. Sim 4,258 games
-*   Action &. Adventure 14,489 games
-*   Skill 10,901 games
+*   Fun &. Crazy 4,789 games
 
 Tags
 
-*   Dress Up15,967
-*   Decorate1,983
-*   Makeover / Make-up3,609
+*   Free78,123
+*   Seduction82
+*   War1,057
+*   Adrenaline370
+*   Dress Up15,964
+*   Love1,031
+*   Mining204
 *   2 player1,233
+*   Car2,746
+*   Gun1,444
 *   Simulation954
-*   Car2,745
-*   Cooking1,605
-*   Basketball299
-*   Gun1,445
-*   War1,058
+*   Makeover / Make-up3,609
 *   Escape1,457
+*   Basketball299
+*   Food3,126
+*   Cooking1,605
 *   Dragon Ball Z46
+*   Shopping106
+*   Decorate1,982
 *   Bowling120
+*   Skeleton202
 *   Factory68
-*   Baseball101
 *   Tower Defense469
 *   Y8 Account3,363
-*   Submarine108
 *   Y8 Highscore2,204
 *   Memory896
-*   Mahjong343
 *   Y8 Screenshot874
 *   Virus73
-*   Puppy115
-*   Zombie1,704
-*   Y8 Save1,654
-*   Street649
-*   Sonic87
 
 × ×
 
