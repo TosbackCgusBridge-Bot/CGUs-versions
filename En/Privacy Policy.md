@@ -3,7 +3,7 @@ Toggle navigation
 *   For Users
     *   softonic.com
     *   Solutions
-*   For Advertisers
+*   Advertise With Us
     *   Making the difference
     *   softonic in numbers
     *   Advertising solutions
