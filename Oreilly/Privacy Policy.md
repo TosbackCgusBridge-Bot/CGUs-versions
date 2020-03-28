@@ -12,19 +12,6 @@
         *   Features
         *   Custom Services
         *   Pricing
-    *   Conferences
-        *   Infrastructure &. Ops Conference
-        *   Open Source Software Conference
-        *   Software Architecture Conference
-        *   Strata Data &. AI Conference
-        *   TensorFlow World
-    *   Radar
-        *   AI/ML
-        *   Future of the Firm
-        *   Innovation &. Disruption
-        *   Next Architecture
-        *   Next Economy
-        *   All Articles
     *   What’s New
 
 Privacy Policy
@@ -409,19 +396,6 @@ Click here for version 2.0
 Click here for version 3.4
 
 Click here for version 3.3
-
-Upcoming Conferences
-
-*   Smart Cities &. Mobility Ecosystems Jun 3–4, Miami
-*   Software Architecture Jun 15–18, Santa Clara
-*   Infrastructure &. Ops Jun 15–18, Santa Clara
-*   OSCON Jul 13–16, Portland
-*   Strata &. AI Sep 14–17, New York
-*   Smart Cities &. Mobility Ecosystems Oct 7–8, Phoenix
-*   TensorFlow Oct 19–22, Santa Clara
-*   Software Architecture Nov 16–19, Berlin
-*   Infrastructure &. Ops Nov 16–19, Berlin
-*   Software Architecture Feb 22–25, New York
 
 The O'Reilly Approach
 
