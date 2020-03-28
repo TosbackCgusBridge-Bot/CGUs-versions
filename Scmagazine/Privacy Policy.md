@@ -1,6 +1,7 @@
 Skip to navigation Skip to main content Subscribe Menu Close
 
 *   NewsOpen Submenu
+    
     *   News Back
         
         *   **Cybercrime**
@@ -23,17 +24,20 @@ Skip to navigation Skip to main content Subscribe Menu Close
             *   Government/Defense
         
         *   **Corporate News**
+    
+    *   News Back
+        *   COVID-19 Coverage
 *   ReviewsOpen Submenu
     *   Reviews Back
-        *   Technology Research Reports
         *   Licensing &. Product Reviews
         *   About Product Reviews
         *   Group Tests
         *   First Look
-        *   Emerging Products
+*   Emerging Products
 *   In DepthOpen Submenu
     *   In Depth Back
         *   SC Media's 30th Anniversary Celebration
+        *   Technology Research Reports
         *   SC Media Print Archive
         *   Reboot
         *   Features
@@ -222,23 +226,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
+    *   Network security automation your way
+    *   Pwn2Own contest yields 13 bugs, as virtual format expands talent pool
+    *   TrickBot banking trojan introduces RDP brute forcing module
+    *   Spyware disguised as COVID-19 tracker app actually keeps track of users
+    *   Rogers’ vendor leaves database open
+    
     *   Free cybersecurity tools coming online to protect WFH staffers
-    *   COVID-19 decoy doc, Cloudflare service used to spread 'BlackWater' malware
-    *   Report: Account takeover and data scraping attacks on e-retailers up as COVID-19 surges
-    *   Every presidential campaign website executes suspicious third-party code
-    *   Coronavirus news being used to sneak malware past AV programs
+    *   FBI warns of COVID-19 phishing scams promising stimulus checks, vaccines
+    *   FSB contractor breach exposes secret cyber weapons program leveraging IoT vulnerabilities
+    *   Five billion records exposed in open 'data breach database'
+    *   Apple releases more than 30 security patches
     
-    *   Drupal, Google and Cisco post security advisories
-    *   Password found to rescue victims of malicious COVID-19 tracker app
-    *   8 million EU retail sales records exposed on AWS MongoDB
-    *   APT41 activity down during China COVID-19 quarantines. massive campaign undeterred
-    *   SC Stats: Coronavirus spurring thousands of new domains, many malicious
-    
-    *   Tupperware site hacked with credit card skimmer
-    *   APT41 activity down during China COVID-19 quarantines. massive campaign undeterred
-    *   SC Media’s complete coverage: Threat and Preparation
-    *   Every presidential campaign website executes suspicious third-party code
-    *   Hijacked routers and attempted WHO hack highlight latest COVID-19 attacks
+    *   Maze ransomware group claims Chubb as victim
+    *   Default exploited by 'Zoom bombers' could by used by cybercrooks
+    *   New Milum trojan used against Mid-Eastern targets
+    *   Apple releases more than 30 security patches
+    *   DEER.IO caught in FBI's headlights. cybercrime platform gets shut down
 
 Back to Top
 
