@@ -1,7 +1,3 @@
-We are continuing to respond to the impact of COVID-19 around the world. See our latest updates.
-
-Before finalizing your shipment, please confirm your recipient is "OPEN" for business.
-
 *   Shipping Create a Shipment Shipping Rates &. Delivery Times Shipping Rates &. Delivery Times Schedule &. Manage Pickups Packing &. Shipping Supplies International Shipping Guide In-Store Shipping Services ALL SHIPPING SERVICES
 *   Tracking Tracking ID Tracking ID TRACK Advanced Shipment Tracking Manage Your Delivery ALL TRACKING SERVICES
 *   Design &. Print Start Online Printing Order Custom Design Templates Posters, Signs &. Banners Marketing Materials Get Coupons &. Deals ALL PRINTING SERVICES
