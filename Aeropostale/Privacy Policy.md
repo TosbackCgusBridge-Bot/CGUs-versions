@@ -36,6 +36,9 @@ Close submenu ( Girls ) Girls
 Close submenu ( Collections ) Collections
 
 *   View All
+*   Get Cozy
+*   Get Connected
+*   Vid Chat Vibes
 *   New Arrivals
 *   Best Sellers
 *   Jeans Guide
@@ -44,9 +47,6 @@ Close submenu ( Collections ) Collections
 *   Basic Essentials
 *   Seriously Soft
 *   Active
-*   Get Cozy
-*   Get Connected
-*   Vid Chat Vibes
 
 Close submenu ( Guys ) Guys
 
@@ -233,6 +233,9 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
+        *   Get Cozy
+        *   Get Connected
+        *   Vid Chat Vibes
         *   New Arrivals
         *   Best Sellers
         *   Jeans Guide
@@ -241,9 +244,6 @@ Menu Find a Store Aeropostale
         *   Basic Essentials
         *   Seriously Soft
         *   Active
-        *   Get Cozy
-        *   Get Connected
-        *   Vid Chat Vibes
     
 *   Guys
     
