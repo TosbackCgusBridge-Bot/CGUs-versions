@@ -474,10 +474,6 @@ Offers
     
     Rent or buy your favorite movies &. TV for a chance to win a complete Roku home entertainment system and more. LEARN MORE
     
-*   Get a $5 Fandango Reward
-    
-    When you spend $15 on participating snack brands. SEE DETAILS
-    
 
 New + Coming soon
 
