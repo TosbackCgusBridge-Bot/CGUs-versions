@@ -226,23 +226,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Network security automation your way
+    *   Adobe patches 41 vulnerabilities, 22 in Photoshop
+    *   Unpatched Windows Zero-Day flaws exploited, Microsoft says
+    *   Best Buy gift cards, USB drive used to spread infostealer
+    *   Justice to drop charges against two companies indicted by Mueller
+    *   COVID-19 decoy doc, Cloudflare service used to spread 'BlackWater' malware
+    
     *   Pwn2Own contest yields 13 bugs, as virtual format expands talent pool
-    *   TrickBot banking trojan introduces RDP brute forcing module
-    *   Spyware disguised as COVID-19 tracker app actually keeps track of users
-    *   Rogers’ vendor leaves database open
-    
-    *   Free cybersecurity tools coming online to protect WFH staffers
-    *   FBI warns of COVID-19 phishing scams promising stimulus checks, vaccines
-    *   FSB contractor breach exposes secret cyber weapons program leveraging IoT vulnerabilities
-    *   Five billion records exposed in open 'data breach database'
+    *   Canon breach exposes personal data of current, former GE employees, beneficiaries
+    *   Zero-day being used to turn LILIN DVRs into botnets
+    *   Adobe patches 41 vulnerabilities, 22 in Photoshop
     *   Apple releases more than 30 security patches
     
+    *   Cybersecurity super group swoops in to fight COVID-19 related hacks
+    *   Best Buy gift cards, USB drive used to spread infostealer
+    *   Ransomware attacks vs Kimchuk, Visser reveal supply chain threat to DOD
+    *   SC Media’s complete coverage: Threat and Preparation
     *   Maze ransomware group claims Chubb as victim
-    *   Default exploited by 'Zoom bombers' could by used by cybercrooks
-    *   New Milum trojan used against Mid-Eastern targets
-    *   Apple releases more than 30 security patches
-    *   DEER.IO caught in FBI's headlights. cybercrime platform gets shut down
 
 Back to Top
 
