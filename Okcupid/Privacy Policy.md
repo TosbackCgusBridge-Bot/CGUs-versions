@@ -364,7 +364,7 @@ You need to complete your basic info on the mobile app before you can use the de
 *   Support
 *   Blog
 *   Tech Blog
-*   Vegetarian Dating
+*   Jewish Singles
 *   Privacy Policy
 *   Cookie Policy
 *   Terms and Conditions
@@ -386,4 +386,85 @@ Save yourself (a lot) of time
 
 Get a day’s worth of attention in one 30-minute Boost.
 
-Boost nowNo thanks
+Boost nowNo thanks Privacy Preference CenterWhen you visit any web site, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device. We have provided a simple tool below to accept or refuse them as you wish. More informationAllow All Manage Consent PreferencesStrictly Necessary Cookies Strictly Necessary Cookies
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.    You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+
+Cookies Details‎Performance Cookies Performance Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.
+
+Cookies Details‎Functional Cookies Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages.    If you do not allow these cookies then some or all of these services may not function properly.
+
+Cookies Details‎Advertising Cookies Advertising Cookies
+
+These cookies may be set through our site by us and our advertising partners to make advertising messages more relevant to you. They perform functions like preventing the same ad from continuously reappearing, ensuring that ads are properly displayed for advertisers, selecting advertisements that are based on your interests and measuring the number of ads displayed and their performance, such as how many people clicked on a given ad. They may be used by partners to build a profile of your interests and show you relevant adverts on other sites. If you do not allow these cookies, the ads may be less relevant to your interests.
+
+*   Measurement Required Cookies
+    
+    The collection of information about your use of the content, and combination with previously collected information, used to measure, understand, and report on your usage of the service. This does not include personalisation, the collection of information about your use of this service to subsequently personalise content and/or advertising for you in other contexts, i.e. on other service, such as websites or apps, over time.
+    
+
+*   Ad selection, delivery, reporting Required Cookies
+    
+    The collection of information, and combination with previously collected information, to select and deliver advertisements for you, and to measure the delivery and effectiveness of such advertisements. This includes using previously collected information about your interests to select ads, processing data about what advertisements were shown, how often they were shown, when and where they were shown, and whether you took any action related to the advertisement, including for example clicking an ad or making a purchase. This does not include personalisation, which is the collection and processing of information about your use of this service to subsequently personalise advertising and/or content for you in other contexts, such as websites or apps, over time.
+    
+
+*   Content selection, delivery, reporting Required Cookies
+    
+    The collection of information, and combination with previously collected information, to select and deliver content for you, and to measure the delivery and effectiveness of such content. This includes using previously collected information about your interests to select content, processing data about what content was shown, how often or how long it was shown, when and where it was shown, and whether the you took any action related to the content, including for example clicking on content. This does not include personalisation, which is the collection and processing of information about your use of this service to subsequently personalise content and/or advertising for you in other contexts, such as websites or apps, over time.
+    
+
+*   Personalisation Required Cookies
+    
+    The collection and processing of information about your use of this service to subsequently personalise advertising and/or content for you in other contexts, such as on other websites or apps, over time. Typically, the content of the site or app is used to make inferences about your interests, which inform future selection of advertising and/or content.
+    
+
+*   Information storage and access Required Cookies
+    
+    The storage of information, or access to information that is already stored, on your device such as advertising identifiers, device identifiers, cookies, and similar technologies.
+    
+
+List of IAB Vendors‎Cookies Details‎Confirm My ChoicesBack Button
+
+Back
+
+Performance CookiesVendor Search Search IconFilter Icon
+
+Clear Fliters
+
+Information storage and accessApply
+
+All Consent Allowed
+
+Select All VendorsAll Consent Allowed
+
+*   33Acrosshost descriptionView CookiesREPLACE-WITH-DYANMIC-HOST-ID
+    *   Namecookie nameHostcookie hostDurationcookie durationTypecookie typeCategorycookie categoryDescriptioncookie category
+
+*   33AcrossView Privacy Notice
+    
+    3 Purposes
+    
+    REPLACE-WITH-DYANMIC-VENDOR-IDArrow
+    
+    Consent Purposes
+    
+    Location Based Ads
+    
+    Consent Allowed
+    
+    Legitimate Interest Purposes
+    
+    Personalize
+    
+    Require Opt-Out
+    
+    Features
+    
+    Location Based Ads
+    
+
+Confirm My Choices
