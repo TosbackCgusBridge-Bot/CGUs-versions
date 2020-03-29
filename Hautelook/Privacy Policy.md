@@ -9,11 +9,29 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
-    *   Hurley Men Starting at $15
+    *   Johnny Was Up to 65% Off
+    *   Casual Dresses from $30 Incl. Plus &. Petites
+    *   Valentino by Mario Valentino
+    *   Love, Nickie Lew &. More
+    *   Dolce Vita Swim &. More
+    *   Printed Tops Under $45 Incl. Plus &. Petites
+    *   Active Under $35
+    *   BED|STU, Kelsi Dagger Brooklyn &. Vintage Foundry
+    *   Brooks Brothers
+    *   Men's Outerwear Up to 70% Off ft. Andrew Marc
+    *   Silver, Gemstones &. Diamonds Up to 80% Off
+    *   Polished Pairs: Spring Shoes
+    *   Home Storage Solutions Starting at $15
+    *   Women's &. Men's Fragrances ft. Vince Camuto
+    *   Fresh Finds: Sandals &. More Up to 60% Off
+    *   Splendid Kids Under $30
+    *   NuvaLash Natural Lash &. Brow-Enhancing Serum
+    *   Ben Sherman Shoes Up to 65% Off
     *   Hurley Kids Up to 55% Off
     *   Madewell Incl. Plus
     *   Madewell Shoes
     *   Champion Active
+    
     *   Madewell Handbags &. Accessories Up to 50% Off
     *   Champion Men Under $50
     *   Dress the Population &. More
@@ -28,41 +46,21 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Raymond Weil Luxury Swiss Watches
     *   Merrell Kids
     *   Louise Et Cie
-    *   Ben Sherman Shoes Up to 65% Off
-    *   Designer Shoes for Spring
-    *   Designer Styles Up to 75% Off
+    *   Hurley Men Starting at $15
     *   Men's Designer Shoes Up to 60% Off ft. Dolce &. Gabbana
-    *   Sugarlips Under $50
-    *   Spring Outerwear Up to 70% Off
-    *   Cozy Styles Under $40 Incl. Plus &. Petites
-    
-    *   Laundry by Shelli Segal Incl. Plus &. Petites
     *   Men's Designer Styles Up to 75% Off
     *   Men's Designer Denim ft. BLDWN
-    *   Oliver Peoples Sunglasses &. More
-    *   Danielle Nicole Up to 50% Off
     *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
-    *   Pumps Under $40
-    *   Cover-Ups ft. Boho Me
     *   Jenny Bird Jewelry Up to 80% Off
-    *   Stay Cozy: Shoes to Lounge Around In
     *   Men's Slippers Starting at $20
     *   Royale USA Hair Tools Up to 90% Off
+    
     *   Suncare Essentials ft. Sun Bum
     *   Backyard Fun: Outdoor Toys ft. Little Tikes
-    *   TOMS Starting at $35
     *   TOMS Men Starting at $30
-    *   TOMS Kids Starting at $20
     *   Molton Brown Starting at $10
     *   Vintage Foundry Up to 80% Off
-    *   CZ by Kenneth Jay Lane Up to 60% Off
-    *   Personalized Jewelry &. More
     *   Free Shipping: Wall Murals &. More from $15
-    *   Threads 4 Thought Up to 70% Off
-    *   Shorts Up to 60% Off
-    *   On-Trend Looks for Girls ft. Roxy
-    *   On-Trend Looks for Boys ft. Quiksilver
-    
     *   Clean &. Tidy: Floor Care &. Organization Up to 60% Off
     *   Smart Home Accessories &. More from $15
     *   Wireless &. Bluetooth Accessories Starting at $15
@@ -71,28 +69,32 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Spa Day: Bath Bombs &. More Starting at $10
     *   New on HauteLook: Makeup ft. PRESCRIPTIVES
     *   Smart Watchbands &. More Up to 70% Off
-    *   Sleek Men's Sneakers Up to 70% Off
     *   Free Shipping: Towel Sets Up to 75% Off
-    *   Get Comfy: Butter Super Soft &. More
-    *   Hobo Handbags Up to 60% Off
-    *   Free Shipping: Professional Garment Steamers
-    *   Candles, Diffusers &. More ft. NEST Fragrances
+    *   Free Shipping: BergHOFF Up to 65% Off
     *   Dress Shop: Floral Styles Up to 70% Off
     *   Dress Shop: Polished Styles Under $70
-    *   Cozy PJs, Loungewear &. Socks
-    *   X by Gottex Under $40
-    *   Lace, Florals and More Incl. Plus &. Petites
-    *   Dream-Worthy Steals: Sleep Up to 70% Off
-    *   Socialite Under $35
-    *   Keep It Casual: Dresses Incl. Plus &. Petites
-    *   On-Trend Tops, Dresses &. More from $20
-    *   Free Shipping: BergHOFF Up to 65% Off
+    *   Get Comfy: Butter Super Soft &. More
+    *   Keep the Kids Busy: Toys Under $20
 *   WomenShop Sale Events
     
+    *   Johnny Was Up to 65% Off
+    *   Casual Dresses from $30 Incl. Plus &. Petites
+    *   Valentino by Mario Valentino
+    *   Love, Nickie Lew &. More
+    *   Dolce Vita Swim &. More
+    *   Printed Tops Under $45 Incl. Plus &. Petites
+    *   Active Under $35
+    *   BED|STU, Kelsi Dagger Brooklyn &. Vintage Foundry
+    *   Silver, Gemstones &. Diamonds Up to 80% Off
+    *   Polished Pairs: Spring Shoes
+    *   Women's &. Men's Fragrances ft. Vince Camuto
+    *   Fresh Finds: Sandals &. More Up to 60% Off
+    *   NuvaLash Natural Lash &. Brow-Enhancing Serum
     *   Madewell Incl. Plus
     *   Madewell Shoes
     *   Champion Active
     *   Madewell Handbags &. Accessories Up to 50% Off
+    
     *   Dress the Population &. More
     *   Nation LTD &. More
     *   Designer Dresses Up to 70% Off
@@ -100,66 +102,39 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Kaanas
     *   Raymond Weil Luxury Swiss Watches
     *   Louise Et Cie
-    *   Designer Shoes for Spring
-    *   Designer Styles Up to 75% Off
-    *   Sugarlips Under $50
-    *   Spring Outerwear Up to 70% Off
-    *   Cozy Styles Under $40 Incl. Plus &. Petites
-    *   Laundry by Shelli Segal Incl. Plus &. Petites
-    *   Oliver Peoples Sunglasses &. More
-    *   Danielle Nicole Up to 50% Off
     *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
-    *   Pumps Under $40
-    *   Cover-Ups ft. Boho Me
-    
     *   Jenny Bird Jewelry Up to 80% Off
-    *   Stay Cozy: Shoes to Lounge Around In
     *   Royale USA Hair Tools Up to 90% Off
     *   Suncare Essentials ft. Sun Bum
-    *   TOMS Starting at $35
     *   Molton Brown Starting at $10
-    *   CZ by Kenneth Jay Lane Up to 60% Off
-    *   Personalized Jewelry &. More
     *   Spa Day: Bath Bombs &. More Starting at $10
     *   New on HauteLook: Makeup ft. PRESCRIPTIVES
-    *   Hobo Handbags Up to 60% Off
-    *   Candles, Diffusers &. More ft. NEST Fragrances
     *   Dress Shop: Floral Styles Up to 70% Off
     *   Dress Shop: Polished Styles Under $70
-    *   Cozy PJs, Loungewear &. Socks
-    *   X by Gottex Under $40
-    *   Lace, Florals and More Incl. Plus &. Petites
-    *   Dream-Worthy Steals: Sleep Up to 70% Off
-    *   Socialite Under $35
-    *   Keep It Casual: Dresses Incl. Plus &. Petites
-    *   On-Trend Tops, Dresses &. More from $20
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Handbags
     *   Lingerie &. Shapewear
-    *   Accessories
+    *   Handbags
     *   Watches
 *   MenShop Sale Events
     
-    *   Hurley Men Starting at $15
+    *   Brooks Brothers
+    *   Men's Outerwear Up to 70% Off ft. Andrew Marc
+    *   Ben Sherman Shoes Up to 65% Off
     *   Champion Men Under $50
     *   Tailor Vintage Up to 70% Off
     *   Raymond Weil Luxury Swiss Watches
-    *   Ben Sherman Shoes Up to 65% Off
+    *   Hurley Men Starting at $15
+    
     *   Men's Designer Shoes Up to 60% Off ft. Dolce &. Gabbana
     *   Men's Designer Styles Up to 75% Off
     *   Men's Designer Denim ft. BLDWN
-    
-    *   Oliver Peoples Sunglasses &. More
     *   Men's Slippers Starting at $20
     *   TOMS Men Starting at $30
     *   Vintage Foundry Up to 80% Off
-    *   Threads 4 Thought Up to 70% Off
-    *   Shorts Up to 60% Off
-    *   Sleek Men's Sneakers Up to 70% Off
     
     Shop By Category
     *   Shoes
@@ -168,36 +143,35 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Watches
 *   KidsShop Sale Events
     
+    *   Splendid Kids Under $30
     *   Hurley Kids Up to 55% Off
     *   Giftable Finds: Kids' Shoes, Toys &. More
     *   Spring Style: Baby Sets &. More Up to 60% Off
     *   Merrell Kids
     *   Backyard Fun: Outdoor Toys ft. Little Tikes
-    *   TOMS Kids Starting at $20
-    *   On-Trend Looks for Girls ft. Roxy
-    *   On-Trend Looks for Boys ft. Quiksilver
     *   Get Comfy: Butter Super Soft &. More
+    *   Keep the Kids Busy: Toys Under $20
     
     Shop By Category
     *   Girls
-    *   Boys
     *   Baby
+    *   Boys
     *   Toys
     *   Girls' Shoes
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Home Storage Solutions Starting at $15
     *   Free Shipping: Sheet Sets &. More Up to 70% Off
     *   Free Shipping: Wall Murals &. More from $15
     *   Clean &. Tidy: Floor Care &. Organization Up to 60% Off
     *   Smart Home Accessories &. More from $15
     *   Wireless &. Bluetooth Accessories Starting at $15
-    *   Luxe Bedding ft. Jonathan Adler
     
+    *   Luxe Bedding ft. Jonathan Adler
     *   Best of Home: Cozy Throws &. More Up to 50% Off
     *   Smart Watchbands &. More Up to 70% Off
     *   Free Shipping: Towel Sets Up to 75% Off
-    *   Free Shipping: Professional Garment Steamers
     *   Free Shipping: BergHOFF Up to 65% Off
     
     Shop By Category
@@ -205,21 +179,22 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Electronic &. Tech Accessories
     *   Home Decor
     *   Bath
-    *   Cleaning &. Organization
     *   Kitchen &. Tabletop
+    *   Cleaning &. Organization
     *   Luggage &. Travel
     *   Outdoor Living
     *   Holiday Decorations
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Women's &. Men's Fragrances ft. Vince Camuto
+    *   NuvaLash Natural Lash &. Brow-Enhancing Serum
     *   Crystal Face Rollers &. More Up to 80% Off
     *   Royale USA Hair Tools Up to 90% Off
     *   Suncare Essentials ft. Sun Bum
     *   Molton Brown Starting at $10
     *   Spa Day: Bath Bombs &. More Starting at $10
     *   New on HauteLook: Makeup ft. PRESCRIPTIVES
-    *   Candles, Diffusers &. More ft. NEST Fragrances
     
     Shop By Category
     *   Tools &. Accessories
