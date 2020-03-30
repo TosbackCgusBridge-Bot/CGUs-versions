@@ -226,17 +226,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Adobe patches 41 vulnerabilities, 22 in Photoshop
-    *   Unpatched Windows Zero-Day flaws exploited, Microsoft says
-    *   Best Buy gift cards, USB drive used to spread infostealer
-    *   Justice to drop charges against two companies indicted by Mueller
-    *   COVID-19 decoy doc, Cloudflare service used to spread 'BlackWater' malware
+    *   VMware squashes critical code execution bug in hypervisors
+    *   Network security automation your way
+    *   Every presidential campaign website executes suspicious third-party code
+    *   Five tips for managing remote workers during a pandemic
+    *   Cybersecurity super group swoops in to fight COVID-19 related hacks
     
-    *   Pwn2Own contest yields 13 bugs, as virtual format expands talent pool
-    *   Canon breach exposes personal data of current, former GE employees, beneficiaries
-    *   Zero-day being used to turn LILIN DVRs into botnets
-    *   Adobe patches 41 vulnerabilities, 22 in Photoshop
-    *   Apple releases more than 30 security patches
+    *   Threat actors play on people’s desire to help cure Coronavirus
+    *   Rogers’ vendor leaves database open
+    *   TrickBot banking trojan introduces RDP brute forcing module
+    *   Best Buy gift cards, USB drive used to spread infostealer
+    *   Threat parallels: Coronavirus and cybersecurity
     
     *   Cybersecurity super group swoops in to fight COVID-19 related hacks
     *   Best Buy gift cards, USB drive used to spread infostealer
@@ -275,4 +275,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. Join us for InfoSec World June  22-24, 2020 | Lake Buena Vista, FL
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
