@@ -1,4 +1,4 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Up to 50% Off 100s of New Markdowns. shop now\>. Due to concerns of COVID-19, we are closing all Buckle stores, effective March 17th. learn more\>.
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Up to 50% Off 100s of New Markdowns. shop now\>. Due to concerns of COVID-19, we are closing all Buckle stores, effective March 17th. learn more\>.
 
 *   United States
 *   FIND A STORE
@@ -578,6 +578,6 @@ Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
 
-  
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">.  
 I am over the age of 13  
 View Privacy Policy
