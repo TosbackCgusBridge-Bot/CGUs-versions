@@ -1,6 +1,6 @@
 Free Shipping Over $49See DetailsEnable Accessibility
 
-*   Start Earning Rewards!Sign In create account My AccountSign InTrack MyOrders
+*   My AccountSign InTrack MyOrders
 
 Shop Departments
 
@@ -20,20 +20,7 @@ Shop Departments
     *   More Categories
 *   Coupons
 
-Near YouFind a StoreBackCasual Easter faves made for hangin' out
-
-*   Shop now
-
-*   Women
-    
-*   Men
-    
-*   Boys
-    
-*   Girls
-    
-
-Shop nowUP TO 50% OFF Easter prepselect styles
+Near YouFind a StoreBackUP TO 50% OFF Easter prepselect styles
 
 *   Shop home
 
@@ -50,65 +37,90 @@ Shop nowUP TO 50% OFF Easter prepselect styles
 *   Pressure cookers
     
 
-Shop homeWomenMenKidsShoesadidasChampionHumidifiersAir purifiersFloor careSheetsBed pillowsMattressesWomenMenKidsShop Sephora BeautyStarting at $8Shop SalonStarting at $27STARTING AT $1.99Women's cold-weather accessories select styles STARTING AT $4.99Men's cold-weather accessoriesselect stylesSTARTING AT $9.99Women's outerwearselect stylesSTARTING AT $9.99Men's outerwearselect stylesSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken. Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+Shop homeGet your baskets readyThe hoppiest gifts &. toys delivered straight to your door. \*Excluded from coupons.
 
-*   $125 - $179after couponwas $7 Xersion-Womens Performance Tee(1657)
-*   $899after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(350)
-*   $2099 - $35after couponPop Highbar Womens Sneakers(352)
-*   $629after couponwas $13 a.n.a-Womens Round Neck Short Sleeve T-Shirt(14)
-*   $629after couponwas $13 a.n.a Womens V Neck Sleeveless Tank Top(7)
-*   $1399 - $5249after couponwas $50 - $150 JCPenney Home Ultra Performance 575 Sateen Deep Pocket Sheet Set(149)
+*   Shop Easter
+
+*   Easter baskets\*
+    
+*   Disney Collection\*
+    
+*   Family games\*
+    
+*   Building blocks\*
+    
+*   Family puzzles\*
+    
+*   Outdoor toys\*
+    
+
+Shop Easter$14 Slippersselect stylesUP TO 70% OFFFashion silver &. fashion jewelryselect styles | reg. $10-$7040% OFFPamper gifts for herselect styles | reg. $14-$3030% OFFSunglassesselect styles | reg. $24-$32Casual Easter faves made for hangin' out
+
+*   Shop now
+
+*   Women
+    
+*   Men
+    
+*   Boys
+    
+*   Girls
+    
+
+Shop nowSTARTING AT $8Sephora Collection Instant Masksselect styles | Excluded from coupons.$19.99Sharper Image hot &. cold aromatherapyneck &. shoulder wrap | reg. $29$29.99Conair foot spa with bubbles &. heatreg. $4025-40% OFFNailcare**$5.99-$7.12** | reg. $9.50-$9.99WomenMenKidsShoesadidasChampionSTARTING AT $1.99Women's cold-weather accessories select styles STARTING AT $4.99Men's cold-weather accessoriesselect stylesSTARTING AT $9.99Women's outerwearselect stylesSTARTING AT $9.99Men's outerwearselect stylesSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken. Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+
+*   $104 - $299after couponwas $7 Xersion-Womens Performance Tee(1657)
+*   $1999 sale
+    
+    was $42 | 52% offPlaytex Love My Curves Beautiful LIft With Embroidery Underwire Bra - US4513(4383)
+*   $749 - $1499after couponwas $72 Xersion Water Resistant Lightweight Puffer Jacket(325)
+*   $599after couponwas $13 a.n.a Womens V Neck Sleeveless Tank Top(7)
+*   $524after couponwas $13 a.n.a-Womens Round Neck Short Sleeve T-Shirt(14)
+*   $374 - $2249after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(330)
 
 Sponsored Items
 
-*   $3999
-    
-    Lego Disney Frozen 2 Princess Elsa'S Jewelry Box Creation 41168(10)
+*   $1552after couponwas $23 Matrix Biolage 3butter Control Day Cream Leave in Conditioner(6)
+*   $4236 - $66954after couponwas $90 - $1,500 Covington Home Evan Rectangular Rug(21)Add To Cart
+*   $2249after couponwas $44 Vanity Fair Beyond Comfort Wireless Comfort Full Figure Bra-71282(54)Add To Cart
 *   $1499
     
     Fisher-Price Laugh &. Learn Click &. Learn Laptop(10)
-*   $1552after couponwas $23 Matrix Biolage 3butter Control Day Cream Leave in Conditioner(6)
-*   $791 - $2449after couponwas $44 Vanity Fair Beyond Comfort Wireless Comfort Full Figure Bra-71282(54)Add To Cart
-*   $28 - $47950after couponCovington Home Medallion Indoor/Outdoor Rectangular Rug(4)Add To Cart
-*   $20610after couponGoogle Nest Hello Video Doorbell(353)
-*   BEST VALUE!
-    
-    $1299
-    
-    Umbra® Joey Pump/Scrubby Combo(2)Add To Cart
-*   $11999 sale
-    
-    was $240 | 50% offAyesha Curry™ Home Collection 12-pc. Cookware Set(23)Add To Cart
-*   $4899after couponwas $120 Farberware Cookstart 15-pc. Cookware Set(61)Add To Cart
-*   $791 - $2099after couponwas $44 Lee® Plain Front Relaxed All Day Twill Pant(781)Add To Cart
-*   $14999 sale
-    
-    was $240 | 37% offRachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set(192)Add To Cart
-*   $5799 sale
-    
-    was $70 | 17% offKitchenAid® 3.5 Cup Mini Food Chopper KFC3516(1298)Add To Cart
-*   $1199
-    
-    Dr. Browns Options Wide Neck Baby Bottle 2-pkAdd To Cart
-*   $4999
-    
-    Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill PanAdd To Cart
+*   $791 - $2249after couponwas $44 Lee® Plain Front Relaxed All Day Twill Pant(782)Add To Cart
 *   $74 - $120
     
     Donna Karan Cashmere Mist Eau De Parfum(236)Add To Cart
-*   $56999 sale
+*   $10710after couponGoogle Nest Protect Smoke and Carbon Monoxide Alarm - Battery - 2nd Generation(403)
+*   $1199
     
-    was $669 | 14% offDyson® V8 Animal Cord-Free Vacuum(178)
+    Dr. Browns Options Wide Neck Baby Bottle 2-pkAdd To Cart
+*   $1124after couponUmbra Soap Dispenser(2)Add To Cart
+*   $13999 sale
+    
+    was $240 | 41% offRachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set(192)Add To Cart
+*   $10999
+    
+    Step2 Up and Down Roller Coaster(329)
+*   $4999
+    
+    Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill PanAdd To Cart
+*   $118
+    
+    Michael Kors Eau De Parfum Michael Kors(50)Add To Cart
 *   $3999 sale
     
     was $70 | 42% offGreenPan Rio Non-Stick Frying Pan
 *   $20999after couponwas $600 Circulon 11-Pc. Aluminum Non-Stick Cookware Set(27)Add To Cart
-*   $118
+*   $3999
     
-    Michael Kors Eau De Parfum Michael Kors(50)Add To Cart
-*   $10999
+    As Seen on TV Blue Diamond Ceramic 11" Non-Stick Square Griddle(21)Add To Cart
+*   $3999 - $80
     
-    Step2 Up and Down Roller Coaster(329)
+    Ayesha Curry™ Home Collection 2-pc. 9.25" &. 11.5" Skillet Set(10)Add To Cart
+*   $175after couponFarberware® Classic Series 15-pc. Stainless Steel Cookware Set(69)
+*   $50999 sale
+    
+    was $669 | 23% offDyson® V8 Animal Cord-Free Vacuum(178)
 
 Shop and Save at JCPenney
 
