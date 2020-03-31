@@ -171,7 +171,9 @@
         *   Caller ID Spoofing
         *   Call Before You Dig
         *   Coronavirus Updates
-            *   Customer Information
+            *   Company Preparedness &. Response
+            *   Help at Home
+            *   Help at Work
 *   About Us
     *   Locations
     *   News
@@ -394,7 +396,10 @@ Support
     *   Caller ID Spoofing
     *   Call Before You Dig
     *   Coronavirus Updates
-        *   Customer Information
+        *   Company Preparedness &. Response
+            *   Keep Americans Connected Pledge
+        *   Help at Home
+        *   Help at Work
 
   
 Terms &. Policies
