@@ -13,13 +13,15 @@ A Message to Our Movie Fans Read More Gift Cards | Offers | Sign In Sign Out
     
     Coming Soon
     
-    *   Saint Maud
     *   Trolls World Tour (2020)
     *   My Spy (2020)
-    *   Charm City Kings (2020)
+    *   Bad Trip (2020)
     *   Run Sweetheart Run (2020)
     *   The High Note (2020)
-    *   Scoob!
+    *   The SpongeBob Movie: Sponge on the Run
+    *   The Green Knight (2020)
+    *   Artemis Fowl (2020)
+    *   Irresistible (2020)
     *   See All Coming Soon
     
     Explore More
