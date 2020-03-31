@@ -21,12 +21,13 @@ View more results
     *   Multiplayer Casino
     
     All Multiplayer Best Games
+    *   Truco Argentino
     *   Ono Card Game
     *   Worms.Zone
     *   Subway Clash 3D
     *   Fireboy and Watergirl 5: Elements
-    *   Roulette
     *   Fireboy and Watergirl: The Forest Temple
+    *   Truco Paulista
     *   Draw and Guess
     *   Pool Clash: 8 Ball Billiards Snooker
     *   Minigolf
@@ -34,7 +35,6 @@ View more results
     *   Stickman Fighter: Epic Battle
     *   Empire: World War 3
     *   Fireboy &. Watergirl 4: Crystal Temple
-    *   Crowd City
 *   Action
     
     Top Categories
@@ -51,19 +51,19 @@ View more results
     
     All Action Best Games
     *   Subway Clash 3D
-    *   Heroica: The Adventures Lego Game
     *   Combat Reloaded
-    *   Apple Shooter
     *   King Soldier
-    *   Deer Hunter
+    *   Apple Shooter
     *   Slither.io
+    *   Deer Hunter
     *   Stickman Fighter: Epic Battle
-    *   Short Life
-    *   Fruit Blaster
-    *   Super Buddy Kick
     *   CS Portable
+    *   Short Life
+    *   Super Buddy Kick
+    *   Fruit Blaster
     *   Mr. Bullet
     *   Sniper Reloaded
+    *   Naruto Online
 *   Adventure
     
     Top Categories
@@ -81,18 +81,18 @@ View more results
     All Adventure Best Games
     *   Fireboy and Watergirl 5: Elements
     *   World Craft 2
-    *   Adam and Eve
     *   Adam and Eve 2
+    *   Adam and Eve
     *   Adam and Eve 3
-    *   Adam and Eve 4
     *   Troll Face Quest: Horror 2
+    *   Adam and Eve 4
     *   Chrome Dino
+    *   World Crafts
     *   Monkey Go Happy: Witchcraft
     *   Bob the Robber 4: Season 2 Russia
-    *   World Crafts
     *   Dumb Ways to Die: Original
-    *   Fox Simulator
     *   Subway Surf
+    *   Fox Simulator
 *   Puzzle
     
     Top Categories
@@ -115,13 +115,13 @@ View more results
     *   Bubble Shooter Classic
     *   TenTrix
     *   Roll The Ball
-    *   Word Wipe
     *   Free the Key
-    *   Gold Train FRVR
+    *   Word Wipe
+    *   Love Match: Matchmaker Puzzle Game
+    *   The Book of Hidden Objects
     *   Mahjong Link
+    *   Gold Train FRVR
     *   1001 Arabian Nights
-    *   Road Trip FRVR
-    *   Garden Tales
 *   Girls
     
     Top Categories
@@ -143,14 +143,14 @@ View more results
     *   Burger Chef: Cooking Story
     *   Goldie: Lip Injections
     *   The Celebrity Way of Life
-    *   Ella: Hips Surgery
-    *   Princesses Makeover
-    *   Dove Prom Dolly Dress Up
     *   Divas: Online Style Challenge
+    *   Princesses Makeover
+    *   Ella: Hips Surgery
+    *   Dove Prom Dolly Dress Up
     *   Floral Real Life Manicure
-    *   Ellie: Get Ready With Me
     *   3D Color by Number
-    *   Lily Real Makeup
+    *   Ellie: Get Ready With Me
+    *   Spring Break Besties
 *   Racing
     
     Top Categories
@@ -169,17 +169,17 @@ View more results
     *   Lost Race: Car Game
     *   Madalin Stunt Cars 2
     *   Thug Racer
-    *   Russian Car Driver
     *   Agame Stunt Cars
+    *   Russian Car Driver
     *   City Car Stunts 2
     *   Bus Man Parking 3D
     *   Hill Racing Challenge
     *   Xcross Madness
     *   Cars 3D
     *   Formula Racer
+    *   Real Dog Racing Simulator
     *   Parking Passion
     *   Horse Racing: Betting Game
-    *   Real Dog Racing Simulator
 *   Sports
     
     Top Categories
@@ -206,8 +206,8 @@ View more results
     *   Horse Racing: Betting Game
     *   Table Tennis World Tour
     *   Real Freekick 3D Soccer Game
-    *   World Cup 2014: Free Kick
     *   Swimming Pro: Race Game
+    *   Penalty Shooters
 *   More
     
     *   Multiplayer
