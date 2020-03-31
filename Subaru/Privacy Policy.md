@@ -1,4 +1,4 @@
-COVID-19 Update: We're commited to helping our customers and neighbors deal with this challenge.    Learn More
+COVID-19 Update: We're committed to helping our customers and neighbors deal with this challenge.    Learn More
 
 Skip to Content       Confirm Your Location
 
