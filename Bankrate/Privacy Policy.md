@@ -265,6 +265,12 @@ Main Menu BR Home equity Home equity overview
 *   HELOC payoff calculator
 *   All home equity calculators
 
+*   Get advice
+*   What is a home equity loan?
+*   HELOC vs. Home equity loan
+*   Consolidate your debt using home equity
+*   Home equity loans with bad credit
+
 Main Menu BR Insurance Insurance overview
 
 *   Insurance types
