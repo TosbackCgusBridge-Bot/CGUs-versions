@@ -18,11 +18,13 @@
     *   NOT SURE WHICH PRODUCT IS RIGHT FOR YOU?
     *   Take the Quiz
     
-    Versa 2
+    NEW
     
-    Charge 3
+    Fitbit Charge 4™
     
-    Inspire HR
+    Fitbit Versa 2™
+    
+    Accessories
     
 *   TECHNOLOGY
     
@@ -110,11 +112,13 @@ Press Enter to submit Tap to search
     *   NOT SURE WHICH PRODUCT IS RIGHT FOR YOU?
     *   Take the Quiz
     
-    Versa 2
+    NEW
     
-    Charge 3
+    Fitbit Charge 4™
     
-    Inspire HR
+    Fitbit Versa 2™
+    
+    Accessories
     
 *   TECHNOLOGY
     
