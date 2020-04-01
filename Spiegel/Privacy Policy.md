@@ -28,7 +28,7 @@ Sie sind bereits Abonnent? Bitte schließen Sie dieses Fenster, um sich anzumeld
 
 iTunes Abo wiederherstellen
 
-Das PUR-Abo wird über Ihren iTunes-Account abgewickelt und mit Kaufbestätigung bezahlt. 24 Stunden vor Ablauf verlängert sich das Abo automatisch um einen Monat zum Preis von zurzeit €4,99. In den Einstellungen Ihres iTunes-Accounts können Sie das Abo jederzeit kündigen. Um das PUR-Abo außerhalb dieser App zu nutzen, müssen Sie das Abo direkt nach dem Kauf mit einem SPIEGEL-ID-Konto verknüpfen. Mit dem Kauf akzeptieren Sie unsere Allgemeinen Geschäftsbedingungen und unsere Datenschutzerklärung.
+Das PUR-Abo wird über Ihren iTunes-Account abgewickelt und mit Kaufbestätigung bezahlt. 24 Stunden vor Ablauf verlängert sich das Abo automatisch um einen Monat zum Preis von zurzeit €4,99. In den Einstellungen Ihres iTunes-Accounts können Sie das Abo jederzeit kündigen. Um das PUR-Abo außerhalb dieser App zu nutzen, müssen Sie das Abo direkt nach dem Kauf mit einem SPIEGEL-ID-Konto verknüpfen. Mit dem Kauf akzeptieren Sie unsere Allgemeinen Geschäftsbedingungen und unsere Datenschutzerklärung .
 
 *   Impressum
 *   Datenschutz
