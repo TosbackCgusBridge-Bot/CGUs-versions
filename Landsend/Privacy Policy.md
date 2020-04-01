@@ -28,9 +28,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive 30% off your order!
+Receive 40% off your order!
 
-code: COOL pin: PROMOTION DETAILS
+code: LEAF pin: PROMOTION DETAILS
 
 Customer Service Menu
 
