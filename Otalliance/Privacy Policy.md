@@ -1,11 +1,7 @@
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5LKZWMW" height="0" width="0" style="display:none;visibility:hidden"></iframe>. icon-1-darkicon-1-darkicon-1-lighticon-2-darkicon-2-lighticon-3-darkicon-3-lighticon-4-darkicon-4-lighticon-5-darkicon-5-lighticon-6-darkicon-6-lighticon-7-darkicon-7-lighticon-8-darkicon-8-lighticon-9-darkISOC-IconISOC-IconISOC-IconShapeISOC-IconISOC-IconISOC-IconPage 1icon-comma-darkicon-comma-lightFill 1ISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconShapeISOC-IconISOC-IconISOC-IconBLOCKSISOC-IconISOC-IconISOC-IconISOC-IconLISTISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconLEFTISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconShapeDOWN ARROWSEARCHISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-Icon-Dark-RGBISOC-Society-logoisoc-logo Member Login
 
 *   The Internet
-    *   About the Internet
-        *   History of the Internet
-        *   Facts &. Figures
-        *   Who Makes the Internet Work
-        *   Glossary of Internet Terms
+
 *   What we’re doing
     *   Growing the Internet
         *   Community Networks
@@ -31,64 +27,51 @@
     *   Resource library
         *   All Resources
         *   Policy Briefs
-        *   OTA Resources
     *   Publications
         *   Global Internet Report
     *   Programs
         *   Deploy360
         *   IXP Toolkit
         *   MANRS
-        *   Online Trust Alliance (OTA)
 *   About Us
-    *   About Internet Society
-        *   Mission
-        *   Board of Trustees
-        *   Chapters
-        *   Organization Members
-        *   Affiliates and Partners
-        *   Team
-        *   Action Plan: 2020
-        *   Organization Reports &. Policies
-        *   About the Internet Society Foundation
-    *   Regions
-        *   Africa
-        *   Asia-Pacific
-        *   Europe
-        *   Latin America &. Caribbean
-        *   Middle East
-        *   North America
     *   Events
         *   All Events
         *   African Peering and Interconnection Forum (AfPIF)
-        *   Community Network Summits
         *   IETF Meetings
         *   InterCommunity
         *   NDSS Symposium
-*   News
-    *   News
-        *   Press Releases
-        *   Internet Society in the news
-        *   Blog
-        *   Statements
-        *   Speeches
-    *   For Journalists:
-        *   Media Center
-
+*   Facts &. Figures
+*   Who Makes the Internet Work
+*   Affiliates and Partners
+*   Organization Reports &. Policies
+*   About the Internet Society Foundation
+*   Africa
+*   Asia-Pacific
+*   Europe
+*   Latin America &. Caribbean
+*   Middle East
+*   North America
+*   Press Releases
+*   Internet Society in the news
+*   Blog
+*   Statements
+*   Speeches
+*   For Journalists:
 2020 Action Plan 2020 Action Plan
 
 **A Bigger and Stronger Internet**  
   
 Read the Internet Society’s roadmap for our work ahead – and let’s join together to support our vision that the Internet is for everyone.
 
-<img src="https://www.internetsociety.org/wp-content/uploads/2017/05/ISOC-Light-RGB\_Logo\_250x83.png" title="ISOC-Light-RGB\_Logo\_250x83" alt="ISOC-Light-RGB\_Logo\_250x83" />. Local action. Global change. Local action. Global change.
+<img src="https://www.internetsociety.org/wp-content/uploads/2017/05/ISOC-Light-RGB\_Logo\_250x83.png" title="ISOC-Light-RGB\_Logo\_250x83" alt="ISOC-Light-RGB\_Logo\_250x83" />. 2019 Impact Report 2019 Impact Report
 
-Learn what it takes to build and sustain your own community network at a local Community Network Summit.
+In the first-ever Internet Society Impact Report, we present some of our important work in 2019.
 
-<img src="https://www.internetsociety.org/wp-content/uploads/2020/01/20170722\_163824\_DSCF6505-e1568899349225-180x104-1.jpg" title="20170722\_163824\_DSCF6505-e1568899349225-180x104" alt="20170722\_163824\_DSCF6505-e1568899349225-180x104" />. MANRS Observatory: Monitoring the State of Internet Routing Security MANRS Observatory: Monitoring the State of Internet Routing Security
+<img src="https://www.internetsociety.org/wp-content/uploads/2020/03/CTG3790-1.jpg" title="CTG3790 (1)" alt="CTG3790 (1)" />. 2019 Impact Report: Community Networks 2019 Impact Report: Community Networks
 
-We launched a new online tool that measures the level of networks’ compliance to MANRS.
+Community networks — networks built, managed, and used by local communities — are cornerstones of the Internet Society’s work.
 
-<img src="https://www.internetsociety.org/wp-content/uploads/2020/01/manrs-observatory-180x163-1.png" title="manrs-observatory-180x163" alt="manrs-observatory-180x163" />. Learn More Learn More
+<img src="https://www.internetsociety.org/wp-content/uploads/2020/03/IMG\_3257-1.jpg" title="IMG\_3257 (1)" alt="IMG\_3257 (1)" />. Learn More Learn More
 
 Did you know that the open standards that power the Internet are created by the Internet Engineering Task Force (IETF)?
 
@@ -96,11 +79,11 @@ Did you know that the open standards that power the Internet are created by the 
 
 Do you want to join us in building a bigger, stronger Internet? Read our open job descriptions.
 
-<img src="https://www.internetsociety.org/wp-content/uploads/2020/01/isoc\_team-180x120-1.jpg" title="isoc\_team-180x120" alt="isoc\_team-180x120" />. Are Organizations Ready for New Privacy Regulations? Are Organizations Ready for New Privacy Regulations?
+<img src="https://www.internetsociety.org/wp-content/uploads/2020/01/isoc\_team-180x120-1.jpg" title="isoc\_team-180x120" alt="isoc\_team-180x120" />. 2019 Impact Report: Encryption 2019 Impact Report: Encryption
 
-Privacy regulations around the world are evolving. We looked at 1,200 privacy statements to see if organizations are ready.
+At the Internet Society, we believe that encryption is an essential part of the trusted Internet.
 
-<img src="https://www.internetsociety.org/wp-content/uploads/2020/01/PrivacyDD.cover\_small-e1568899538866-180x231-1.png" title="PrivacyDD.cover\_small-e1568899538866-180x231" alt="PrivacyDD.cover\_small-e1568899538866-180x231" />. Member Login en
+<img src="https://www.internetsociety.org/wp-content/uploads/2020/03/Encryption-Cover-2.jpg" title="Encryption-Cover" alt="Encryption-Cover" />. Member Login en
 
 *   en
 *   fr
