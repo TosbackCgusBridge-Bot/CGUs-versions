@@ -124,7 +124,7 @@ Play video: Find Out More About the Future of Gaming Close video: Find Out More 
 
 New PlayStation games coming this week:  http://play.st/2WPm716  Resident Evil 3, Persona 5 Royal, and more pic.twitter.com/6oN7JIXtMM
 
-1 day ago View Tweet Instagram Post B5LVYQHFDjQ
+2 days ago View Tweet Instagram Post B5LVYQHFDjQ
 
 Clean Your Camera Gear
 
