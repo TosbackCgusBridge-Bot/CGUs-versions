@@ -4,7 +4,7 @@ Wanneer u onze services gebruikt, vertrouwt u ons uw gegevens toe. We begrijpen 
 
 Dit privacybeleid is bedoeld om u inzicht te geven in de gegevens die we verzamelen, waarom we deze gegevens verzamelen en hoe u deze gegevens kunt updaten, beheren, exporteren en verwijderen.
 
-Datum van inwerkingtreding 15 oktober 2019 | Gearchiveerde versies | Pdf downloadenInhoudsopgaveInleidingGegevens die Google verzameltWaarom Google gegevens verzameltUw privacyoptiesUw gegevens delenUw gegevens veilig houdenUw gegevens exporteren en verwijderenJe gegevens bewarenNaleving en samenwerking met regelgevende instantiesOver dit beleidGerelateerde privacyprocedures
+Datum van inwerkingtreding 31 maart 2020 | Gearchiveerde versies | Pdf downloadenInhoudsopgaveInleidingGegevens die Google verzameltWaarom Google gegevens verzameltUw privacyoptiesUw gegevens delenUw gegevens veilig houdenUw gegevens exporteren en verwijderenJe gegevens bewarenNaleving en samenwerking met regelgevende instantiesOver dit beleidGerelateerde privacyprocedures
 
 We bouwen een reeks services waarmee miljoenen mensen dagelijks de wereld op nieuwe manieren kunnen verkennen en er interactie mee kunnen hebben. Onze services bestaan onder meer uit:
 
@@ -308,13 +308,13 @@ We evalueren dit privacybeleid regelmatig en zorgen ervoor dat we uw gegevens ve
 
 Gegevensdoorgiften
 
-We beschikken over servers over de hele wereld en uw gegevens kunnen worden verwerkt op servers die zich buiten het land bevinden waarin u woont. Gegevensbeschermingswetgeving verschilt per land en sommige landen bieden meer bescherming dan andere. Ongeacht waar uw gegevens worden verwerkt, passen we dezelfde bescherming toe zoals beschreven in dit beleid. We voldoen ook aan bepaalde juridische kaders die verband houden met de overdracht van gegevens, zoals de Privacy Shield-kaders tussen de EU en de VS en tussen Zwitserland en de VS.
+We hebben servers over de hele wereld en uw informatie kan worden verwerkt op servers die zich bevinden buiten het land waar u woont. Gegevensbeschermingswetgeving verschilt per land en sommige landen bieden meer bescherming dan andere. Ongeacht waar uw informatie wordt verwerkt, passen we dezelfde bescherming toe zoals beschreven in dit beleid. We voldoen ook aan bepaalde juridische kaders die verband houden met de overdracht van gegevens, zoals het EU-U.S. Privacy Shield (EU-VS privacyschild) en het Swiss-U.S. Privacy Shield (Zwitserland-VS privacyschild).
 
 Wanneer we formele schriftelijke klachten ontvangen, reageren we door contact op te nemen met de persoon die de klacht heeft ingediend. We werken samen met de betreffende regelgevende instanties, waaronder lokale autoriteiten voor gegevensbescherming, om klachten over de overdracht van uw gegevens te verhelpen die we niet rechtstreeks met u kunnen oplossen.
 
 Europese vereisten
 
-Indien de gegevensbeschermingswetgeving van de Europese Unie (EU) van toepassing is op uw gegevens, bieden we de in dit beleid beschreven opties, zodat u gebruik kunt maken van het recht op inzage om uw gegevens te updaten, te wissen en de verwerking ervan te beperken. U heeft ook het recht om bezwaar te maken tegen de verwerking van uw gegevens of om de gegevens te exporteren naar een andere service.
+Indien de gegevensbeschermingswetgeving van de Europese Unie (EU) of het Verenigd Koninkrijk van toepassing is op uw gegevens, bieden we de in dit beleid beschreven opties, zodat u gebruik kunt maken van het recht op inzage om uw gegevens te updaten, te wissen en de verwerking ervan te beperken. U heeft ook het recht om bezwaar te maken tegen de verwerking van uw gegevens of om de gegevens te exporteren naar een andere service.
 
 Voor gebruikers woonachtig in de Europese Economische Ruimte of Zwitserland is Google Ireland Limited de verwerkingsverantwoordelijke voor uw informatie, tenzij anderszins aangegeven in een servicespecifieke privacymededeling. Met andere woorden, Google Ireland Limited is de aangesloten Google-entiteit die verantwoordelijk is voor de verwerking van uw informatie en de naleving van de toepasselijke privacywetgeving.
 
