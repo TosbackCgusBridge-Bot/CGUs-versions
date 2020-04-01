@@ -4,7 +4,7 @@ Lorsque vous utilisez nos services, vous nous faites confiance pour le traitemen
 
 Les présentes Règles de confidentialité visent à vous indiquer quelles informations nous collectons et pour quelle raison, ainsi que la façon de les mettre à jour, de les gérer, de les exporter et de les supprimer.
 
-À compter du 15 octobre 2019 | Versions archivées | Télécharger au format PDFSommaireIntroductionInformations collectées par GoogleRaisons pour lesquelles nous collectons des informationsVos paramètres de confidentialitéPartager vos informationsSécuriser vos informationsExporter et supprimer vos informationsConservation de vos informationsConformité et coopération avec des organismes de réglementationÀ propos des présentes règlesPratiques similaires en matière de confidentialité
+À compter du 31 mars 2020 | Versions archivées | Télécharger au format PDFSommaireIntroductionInformations collectées par GoogleRaisons pour lesquelles nous collectons des informationsVos paramètres de confidentialitéPartager vos informationsSécuriser vos informationsExporter et supprimer vos informationsConservation de vos informationsConformité et coopération avec des organismes de réglementationÀ propos des présentes règlesPratiques similaires en matière de confidentialité
 
 Notre gamme de services permet tous les jours à des millions de personnes d'explorer le monde et d'interagir avec celui-ci de manière innovante. Voici certains des services que nous proposons :
 
@@ -308,13 +308,13 @@ Nous révisons régulièrement les présentes Règles de confidentialité et nou
 
 Transferts de données
 
-Nous disposons de serveurs aux quatre coins du monde. Il est donc possible que vos informations soient traitées par des serveurs situés en dehors de votre pays de résidence. Les lois sur la protection des données varient en fonction des pays. Dans certains pays, les données sont mieux protégées que dans d'autres. Quel que soit l'endroit où vos informations sont traitées, nous appliquons les mêmes protections, qui sont décrites dans les présentes règles. Nous nous conformons également à certains cadres légaux en lien avec le transfert de données, tels que les EU-US et Swiss-US Privacy Shield Frameworks.
+Nous disposons de serveurs aux quatre coins du monde. Il est donc possible que vos informations soient traitées par des serveurs situés en dehors de votre pays de résidence. Les lois sur la protection des données varient en fonction des pays. Dans certains pays, les données sont mieux protégées que dans d'autres. Quel que soit l'endroit où vos informations sont traitées, nous appliquons les mêmes protections, qui sont décrites dans les présentes règles. Nous nous conformons également à certains cadres légaux en lien avec le transfert de données, tels que les EU-U.S. et Swiss-U.S. Privacy Shield Frameworks.
 
 Lorsque nous recevons une réclamation écrite officielle, nous y répondons en prenant contact avec l'utilisateur qui l'a formulée. Nous coopérons avec les autorités compétentes, y compris les autorités locales chargées de la protection des données, pour résoudre tout litige concernant le transfert de vos données que nous ne pouvons pas régler directement avec vous.
 
 Exigences européennes
 
-Si la législation de l'Union européenne (UE) s'applique au traitement de vos informations, nous mettons à votre disposition les outils décrits dans les présentes règles afin de vous permettre d'exercer votre droit de demande d'accès, de mise à jour, de suppression et de restriction du traitement de vos informations. Vous avez également le droit de vous opposer au traitement de vos informations ou d'exporter ces dernières vers un autre service.
+Si la législation de l'Union européenne (UE) ou du Royaume-Uni s'applique au traitement de vos informations, nous mettons à votre disposition les outils décrits dans les présentes règles afin de vous permettre d'exercer votre droit de demande d'accès, de mise à jour, de suppression et de restriction du traitement de vos informations. Vous avez également le droit de vous opposer au traitement de vos informations ou d'exporter ces dernières vers un autre service.
 
 Pour les utilisateurs résidant dans l'Espace économique européen ou en Suisse, le responsable du traitement chargé de vos informations est Google Ireland Limited, sauf indication contraire dans un avis de confidentialité propre à un service. En d'autres termes, Google Ireland Limited est la société affiliée de Google chargée de traiter vos informations et de respecter les lois applicables en matière de respect de la vie privée.
 
