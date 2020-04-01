@@ -16,7 +16,7 @@ Ok to continue
 *   Log inLog in
 *   Cart (0)
 
-Thomson Reuters Legal
+Thomson Reuters LEGAL
 
 *   ProductsProducts Top products
     
@@ -49,6 +49,7 @@ Thomson Reuters Legal
     *   White papers
     *   Case studies
     *   Blog
+    *   Events
     *   Featured insights
     
     Popular topics
