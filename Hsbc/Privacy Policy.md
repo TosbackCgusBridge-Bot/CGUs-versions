@@ -120,7 +120,6 @@ Menu
         *   Shareholder information
         *   Overview
         *   Manage your shareholding
-        *   Dividend calculator
         *   Dividend history and timetable
         *   Scrip dividend
         *   Annual General Meeting
