@@ -49,9 +49,9 @@ A Message to Our Movie Fans Read More Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Week in Movie News: Karyn Kusama to Direct ‘Dracula,’ Disney Finds Its ‘Peter Pan &. Wendy’ and More Read More
-    *   What to Watch on FandangoNOW: ‘Birds of Prey,’ ‘Bloodshot,’ and College Basketball Movies Read More
-    *   Kelly Reichardt Discusses 'First Cow,' a Western Unlike Any Other Read More
+    *   Check Out This Behind the Scene Look at 'Bad Boys For Life' Read More
+    *   What to Watch on FandangoNOW: ‘Bad Boys for Life,’ ’Sonic the Hedgehog’ and April Fool’s Day Movies Read More
+    *   Know Before You Watch: ‘Trolls World Tour’ Read More
     
     Explore Content
     *   Movie Reviews
