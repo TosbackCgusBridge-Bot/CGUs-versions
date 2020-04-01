@@ -4,7 +4,7 @@ Quando você usa nossos serviços, está confiando a nós suas informações. En
 
 Esta Política de Privacidade destina-se a ajudar você a entender quais informações coletamos, por que as coletamos e como você pode atualizar, gerenciar, exportar e excluir essas informações.
 
-Em vigor a partir de 15 de outubro de 2019 | Versões arquivadas | Fazer o download do PDFÍndiceIntroduçãoInformações coletadas pelo GooglePor que o Google coleta dadosSeus controles de privacidadeCompartilhamento de informaçõesManter suas informações segurasExportar e excluir informaçõesRetenção das suas informaçõesCompliance e cooperação com regulamentadoresSobre esta políticaPráticas de privacidade relacionadas
+Em vigor a partir de 31 de março de 2020 | Versões arquivadas | Fazer o download do PDFÍndiceIntroduçãoInformações coletadas pelo GooglePor que o Google coleta dadosSeus controles de privacidadeCompartilhamento de informaçõesManter suas informações segurasExportar e excluir informaçõesRetenção das suas informaçõesCompliance e cooperação com regulamentadoresSobre esta políticaPráticas de privacidade relacionadas
 
 Criamos uma gama de serviços que ajudam diariamente milhões de pessoas a descobrir e interagir com o mundo de novas maneiras. Nossos serviços incluem:
 
@@ -308,7 +308,7 @@ Revisamos regularmente esta Política de Privacidade e nos certificamos de que p
 
 Transferências de dados
 
-Temos servidores em todo o mundo e suas informações podem ser processadas em servidores localizados fora do país em que você vive. As leis de proteção de dados variam de acordo com o país, sendo que algumas oferecem mais proteção que outras. Independentemente do local onde suas informações são processadas, aplicamos as mesmas proteções descritas nesta política. Também atuamos em conformidade com determinadas estruturas legais relacionadas à transferência de dados, como as estruturas Privacy Shields entre União Europeia e Estados Unidos e Suíça e Estados Unidos.
+Temos servidores em todo o mundo e suas informações podem ser processadas em servidores localizados fora do país em que você vive. As leis de proteção de dados variam de acordo com o país, sendo que algumas oferecem mais proteção que outras. Independentemente do local onde suas informações são processadas, aplicamos as mesmas proteções descritas nesta política. Também atuamos em conformidade com determinadas estruturas legais relacionadas à transferência de dados, como as estruturas do EU-U.S. e Swiss-U.S. Privacy Shield (Escudo de Proteção da Privacidade entre os Estados Unidos e a União Europeia e entre os Estados Unidos e a Suíça).
 
 Quando recebemos reclamações formais por escrito, respondemos entrando em contato com o requerente. Trabalhamos com as autoridades reguladoras apropriadas, inclusive autoridades locais de proteção de dados, para resolver quaisquer reclamações referentes à transferência de dados que não possamos resolver diretamente com você.
 
