@@ -226,23 +226,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Sale of Dharma ransomware source code draws hackers' scrutiny, but the price is right
-    *   Adobe patches critical flaw in Creative Cloud
-    *   Report: Account takeover and data scraping attacks on e-retailers up as COVID-19 surges
-    *   FBI warns of COVID-19 phishing scams promising stimulus checks, vaccines
-    *   Cybersecurity super group swoops in to fight COVID-19 related hacks
-    
-    *   Unpatched Windows Zero-Day flaws exploited, Microsoft says
+    *   Pwn2Own contest yields 13 bugs, as virtual format expands talent pool
     *   DEER.IO caught in FBI's headlights. cybercrime platform gets shut down
-    *   COVID-19 exposes gaps in cybersecurity safety net as millions work from home
-    *   Twitter changing safety guidelines regarding COVID-19 posts
-    *   Report: NutriBullet's website injected with skimmer three times by Magecart Group 8
+    *   FBI warns of COVID-19 phishing scams promising stimulus checks, vaccines
+    *   Five tips for managing remote workers during a pandemic
+    *   Coalition of nonprofits push to secure remote workforce
     
-    *   GOP canvassing app credentials exposed in code repository
-    *   Sale of Dharma ransomware source code draws hackers' scrutiny, but the price is right
-    *   Zero-day vulnerabilities used against DrayTek routers and switches
-    *   Adobe patches critical flaw in Creative Cloud
+    *   COVID-19 puts corporate WFH capabilities to the test
+    *   Cybercriminals weaponize the World Health Organization name to lure phishing victims
+    *   COVID-19 exposes gaps in cybersecurity safety net as millions work from home
+    *   Five tips for managing remote workers during a pandemic
     *   Working From Home in the Age of COVID-19
+    
+    *   Privacy in critical care after telehealth demands jump
+    *   New Marriott data breach impacts 5.2 million guests
+    *   Coalition of nonprofits push to secure remote workforce
+    *   2020 Vision: Cybersecurity through a business lens
+    *   GOP canvassing app credentials exposed in code repository
 
 Back to Top
 
@@ -275,6 +275,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
-
-You can skip this ad in 1 seconds.
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
