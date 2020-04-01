@@ -137,7 +137,7 @@ Skip to main content
     *   My Account
     *   Sign Out
 
-WebMD Privacy PolicySubscribe
+Share on FacebookShare on TwitterShare on PinterestWebMD Privacy PolicySubscribe
 
 About Us
 
