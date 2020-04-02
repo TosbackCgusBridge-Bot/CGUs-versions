@@ -226,23 +226,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Pwn2Own contest yields 13 bugs, as virtual format expands talent pool
-    *   DEER.IO caught in FBI's headlights. cybercrime platform gets shut down
-    *   FBI warns of COVID-19 phishing scams promising stimulus checks, vaccines
-    *   Five tips for managing remote workers during a pandemic
-    *   Coalition of nonprofits push to secure remote workforce
-    
-    *   COVID-19 puts corporate WFH capabilities to the test
-    *   Cybercriminals weaponize the World Health Organization name to lure phishing victims
+    *   Mirai variant Mukashi searching out Zixel NAS devices
+    *   Upgraded malicious Word, Excel attachments targeting WFH employees
     *   COVID-19 exposes gaps in cybersecurity safety net as millions work from home
-    *   Five tips for managing remote workers during a pandemic
-    *   Working From Home in the Age of COVID-19
+    *   TrickBot banking trojan introduces RDP brute forcing module
+    *   Zero-day being used to turn LILIN DVRs into botnets
     
-    *   Privacy in critical care after telehealth demands jump
-    *   New Marriott data breach impacts 5.2 million guests
-    *   Coalition of nonprofits push to secure remote workforce
-    *   2020 Vision: Cybersecurity through a business lens
-    *   GOP canvassing app credentials exposed in code repository
+    *   Working From Home in the Age of COVID-19
+    *   Maze ransomware attackers extort vaccine testing facility
+    *   Pwn2Own contest yields 13 bugs, as virtual format expands talent pool
+    *   Best Buy gift cards, USB drive used to spread infostealer
+    *   Upgraded malicious Word, Excel attachments targeting WFH employees
+    
+    *   Med group's breach disclosure claims SSNs unaffected. leaked docs suggest otherwise
+    *   Microsoft adds to Edge browser security
+    *   Data dump contains PII on over 4.9M Georgians. origin unknown
+    *   IoT proliferation and widespread 5G: A perfect botnet storm
+    *   FBI warns of Kwampirs attacks, COVID-19 scams
 
 Back to Top
 
