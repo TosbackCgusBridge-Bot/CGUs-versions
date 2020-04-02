@@ -515,7 +515,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   March Celebrity Birthdays
+*   April Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Follow Us
