@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Due to concerns of COVID-19, we are closing all Buckle stores, effective March 17th. learn more\>.
+Up to 50% Off 100s of New Markdowns. shop now\>.
 
 *   Women
 *   Men
@@ -577,3 +577,7 @@ Did you mean to add items to your wish list?
 Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
+
+  
+I am over the age of 13  
+View Privacy Policy
