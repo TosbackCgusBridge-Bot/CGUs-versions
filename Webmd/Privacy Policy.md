@@ -114,9 +114,9 @@ Skip to main content
     
     *   Coronavirus Outbreak: Latest News &. Updates
     *   Surgeon General On How to Practice Social Distancing
-    *   Preparing for Coronavirus: Dos and Don'ts
-    *   Your Top Coronavirus Questions Answered Here
-    *   Why You Should Talk to Your Kids About Coronavirus
+    *   Coronavirus Dos and Don'ts
+    *   How Long Does Coronavirus Live On Surfaces?
+    *   Video: How to Decontaminate When You Get Home
     
     Experts &. Community
     
