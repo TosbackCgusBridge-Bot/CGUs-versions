@@ -400,7 +400,7 @@ Click here for version 3.3
 The O'Reilly Approach
 
 *   Our Company
-*   Teach/Speak/Write
+*   Teach/Write/Train
 *   Careers
 *   Community Partners
 
