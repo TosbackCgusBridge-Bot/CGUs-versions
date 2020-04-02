@@ -52,7 +52,7 @@ Submit Cancel
 
 You have successfully opted out of online behavioral advertising. The opt-out will take effect upon your next visit using the same device to Bank of America Sites.
 
-Here's what you need to know (and do) to stay as safe as possible
+Here's what you need to know (and do) to stay as safe as possibleRead about trending scams
 
 **Your privacy and security is our top priority! Here are the ways we protect you:**  
 
@@ -92,6 +92,7 @@ The most common types of scams will target you through fake emails (a technique 
 *   Told to purchase gift cards and provide codes as a form of payment
 *   Asked to cash a check for a stranger or send money via wire transfer or Zelle®
 *   Asked to deposit a check that overpays for something you're selling, and then send the difference elsewhere
+*   Tempted to buy products online that seem too good to be true or are hard to find
 
 **The best ways to avoid getting scammed**  
 If you provide your information or send money to a scammer, there is often little we can do to help get your money back.
