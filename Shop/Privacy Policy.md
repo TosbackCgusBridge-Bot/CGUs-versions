@@ -26,17 +26,16 @@ Lenovo Explore Close
         
         *   Best Selling Laptops
         *   X1 Extreme Gen 2
-        *   ThinkPad T490
+        *   X1 Carbon Gen 7
         *   Yoga C940
         *   Yoga C740
         *   Legion Y545
         *   Chromebooks
         
-        *   Last Chance &. Top Deals
-        *   X1 Carbon Gen 7
-        *   ThinkPad P1 Gen 2
-        *   Home Office Essentials
-        *   Remote Learning Basics
+        SALE
+        
+        Click to shop weekly deals on our most popular laptop's for work, home, school &. gaming
+        
     *   Desktops
         
         *   Always Free Shipping
@@ -306,8 +305,7 @@ Lenovo Explore Close
         *   Accessories &. Electronics
         *   Tablets and Smart Devices
         *   Electronic Deals
-        *   Home Office Essentials
-        *   Remote Learning Basics
+        *   Server Deals
         
         *   Additional Offers
         *   AMD PC deals up to 30%
@@ -619,7 +617,7 @@ Lenovo Explore Close
 1-855-253-6686
 
 *   Search
-
+*   icon-compare0 Compare Compare (0)
 *   LenovoPro
     *   Sign In To LenovoPRO
     *   Learn more
@@ -701,7 +699,13 @@ Top Suggestions
 
 View all >.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
+
+Please add at least 2 products for compare
+
+Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
+
+Lenovo Privacy Statement Top
 
 protects better"/>.
 
@@ -1197,7 +1201,7 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Created with sketchtool.CHAT NOW
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Launches comment card in new windowFeedbackCreated with sketchtool.CHAT NOW
 
 How can we help
 
@@ -1207,4 +1211,4 @@ you today?
 
 Call us: 1-855-253-6686
 
-Check order status >Technical support or Repair status >Launches comment card in new windowFeedback
+Check order status >Technical support or Repair status >
