@@ -415,29 +415,14 @@ Shop Girls Shop Guys
 
 **#StayHomeWithAero**
 
-Get Connected
-
-**#StayHomeWithAero**
-
-Effortless outfits.  
-Colorful coziness.  
-(Front)camera-ready  
-fashion.
+Effortless outfits. Colorful  
+coziness. (Front)camera-  
+ready fashion.
 
 Effortless outfits. Colorful coziness.  
 (Front) camera-ready fashion
 
-**Girls Get Cozy** ****Guys Get Cozy********Get Cozy
-
-Vid Chat Vibes
-
-Get Connected
-
-Get Cozy
-
-Vid Chat Vibes
-
-Previous
+**Girls Get Cozy** ****Guys Get Cozy**** ****Previous
 
 Curvy
 
