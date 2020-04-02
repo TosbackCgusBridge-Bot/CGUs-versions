@@ -2,7 +2,7 @@
 
 *   Seeking Alpha
 
-Sign inMarketplaceSubscribe x Welcome to Seeking Alpha! See how Seeking Alpha helps you **beat the market**
+Sign inMarketplaceSubscribe
 
 *   Premium
     
