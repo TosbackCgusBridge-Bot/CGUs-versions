@@ -59,10 +59,6 @@ Complete your Profile
     *   US FAQs
     *   Worldwide Telephone Numbers
     *   TTY/TDD Information
-*   travel
-    *   travel
-    *   Business Travel Road Trip Games
-    *   Family Travel Road Trip Games
 
 *   Avis Preferred
 *   Sign Up
@@ -253,8 +249,6 @@ Avis Partners
 *   Military &. Veterans
 *   Airline Points Partners
 *   Hotel Points Partners
-*   Moving Truck Rental
-*   Cargo Van Rental
 
 Company Info
 
@@ -271,7 +265,7 @@ Security &. Privacy
 *   California – Do Not Sell My Personal Information
 *   Copyright Notices
 
-United StatesCanadaAustraliaNew Zealand------------------------ArgentinaArmeniaAustriaBahamasBelgiumBosniaBrazilChinaBulgariaChileColombiaCroatiaDenmarkDominican RepublicEcuadorEl SalvadorFaroe IslandsFijiFinlandFranceGermanyGuadeloupeGuatemalaGuamHondurasHongkongHungaryIndiaIndonesiaIrelandIsraelItalyJamaicaJapanKoreaKuwaitLebanonMacedoniaMalaysiaMartiniqueMexicoMongoliaMoroccoNetherlandNicaraguaNorwayPakistanPanamaPeruPhilippinesPolandPortugalPuerto RicoRomaniaRussiaSaudi ArabiaSingaporeSouth AfricaSpainSt Maarten/St MartinSurinameSwedenSwitzerlandTahitiTaiwanThailandTurkeyTurks and CaicosUkraineUnited Arab EmiratesUnited KingdomVanuatuVirgin IslandsYugoslavia English Français Español Português Get the #1 Ranked Rental Car Travel App in Customer Satisfaction >.
+United StatesCanadaAustraliaNew Zealand------------------------ArgentinaArmeniaAustriaBahamasBelgiumBosniaBrazilChinaBulgariaChileColombiaCroatiaDenmarkDominican RepublicEcuadorEl SalvadorFaroe IslandsFijiFinlandFranceGermanyGuadeloupeGuatemalaGuamHondurasHongkongHungaryIndiaIndonesiaIrelandIsraelItalyJamaicaJapanKoreaKuwaitLebanonMacedoniaMalaysiaMartiniqueMexicoMoroccoNetherlandNicaraguaNorwayPakistanPanamaPeruPhilippinesPolandPortugalPuerto RicoRomaniaRussiaSaudi ArabiaSingaporeSouth AfricaSpainSt Maarten/St MartinSurinameSwedenSwitzerlandTahitiTaiwanThailandTurkeyTurks and CaicosUkraineUnited Arab EmiratesUnited KingdomVanuatuVirgin IslandsYugoslavia English Français Español Português Get the #1 Ranked Rental Car Travel App in Customer Satisfaction >.
 
 GET THE AVIS APP
 
