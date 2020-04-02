@@ -33,7 +33,6 @@ Menu
         *   Our brand
         *   Overview
         *   Sponsorship
-    *   HSBC in two minutes
     *   Contact usOUR BUSINESSES AND CUSTOMERS We serve more than 40 million customers Close Navigation
 *   Our approach Skip to Investors Our approach
     
@@ -165,6 +164,7 @@ Menu
         *   Overview
         *   Meet our people
         *   Career development
+        *   Welcoming diversity
         *   Benefits
     *   Our business areas and teams
         *   Back
@@ -507,3 +507,5 @@ If you’d like to accept all optional cookies, select ‘Accept all cookies’.
 To learn more about how we use cookies, visit our Cookie notice.
 
 Accept all cookiesManage cookie settings
+
+Notification appeared: Cookies on this website
