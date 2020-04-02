@@ -124,7 +124,17 @@ Play video: Find Out More About the Future of Gaming Close video: Find Out More 
 
 New PlayStation games coming this week:  http://play.st/2WPm716  Resident Evil 3, Persona 5 Royal, and more pic.twitter.com/6oN7JIXtMM
 
-2 days ago View Tweet Instagram Post B5LVYQHFDjQ
+3 days ago View Tweet
+
+New Wireless Headphones
+
+With Extra Bass™
+
+*   Share on Facebook: New Wireless Headphones
+*   Share on Twitter: New Wireless Headphones
+*   Copy URL to Share: New Wireless Headphones
+
+<img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-4:image:electronics:WFXB700Headphones-March-30-2020:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="New Wireless Headphones WF-XB700-Headphones" data-img1x="/content/dam/sony/homepage/2020-march/3-30/WF-XB700\_KV\_L-600x600-2.jpg" data-img2x="/content/dam/sony/homepage/2020-march/3-30/WF-XB700\_KV\_L-600x600-2.jpg" src="/content/dam/sony/homepage/2020-march/3-30/WF-XB700\_KV\_L-600x600-2.jpg" alt="New Wireless Headphones"/>. <img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-4:image:electronics:WFXB700Headphones-March-30-2020:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="New Wireless Headphones WF-XB700-Headphones" data-img1x="/content/dam/sony/homepage/2020-march/3-30/WF-XB700\_KV\_L-600x600-2.jpg" data-img2x="/content/dam/sony/homepage/2020-march/3-30/WF-XB700\_KV\_L-600x600-2.jpg" src="/content/dam/sony/homepage/2020-march/3-30/WF-XB700\_KV\_L-600x600-2.jpg" alt="New Wireless Headphones Mobile"/>.
 
 Clean Your Camera Gear
 
