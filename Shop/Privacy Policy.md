@@ -34,7 +34,7 @@ Lenovo Explore Close
         
         SALE
         
-        Click to shop weekly deals on our most popular laptop's for work, home, school &. gaming
+        Click to shop weekly deals on our most popular laptops for work, home, school &. gaming
         
     *   Desktops
         
@@ -617,7 +617,7 @@ Lenovo Explore Close
 1-855-253-6686
 
 *   Search
-*   icon-compare0 Compare Compare (0)
+
 *   LenovoPro
     *   Sign In To LenovoPRO
     *   Learn more
@@ -699,13 +699,7 @@ Top Suggestions
 
 View all >.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
-
-Please add at least 2 products for compare
-
-Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
-
-Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
 
 protects better"/>.
 
