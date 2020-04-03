@@ -226,23 +226,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Mirai variant Mukashi searching out Zixel NAS devices
-    *   Upgraded malicious Word, Excel attachments targeting WFH employees
-    *   COVID-19 exposes gaps in cybersecurity safety net as millions work from home
-    *   TrickBot banking trojan introduces RDP brute forcing module
-    *   Zero-day being used to turn LILIN DVRs into botnets
-    
-    *   Working From Home in the Age of COVID-19
-    *   Maze ransomware attackers extort vaccine testing facility
-    *   Pwn2Own contest yields 13 bugs, as virtual format expands talent pool
-    *   Best Buy gift cards, USB drive used to spread infostealer
-    *   Upgraded malicious Word, Excel attachments targeting WFH employees
-    
-    *   Med group's breach disclosure claims SSNs unaffected. leaked docs suggest otherwise
-    *   Microsoft adds to Edge browser security
+    *   Cybercriminals targeting Zoom, Google and Teams domains
+    *   COVID-19 hurts travel and event fraudsters, but buoys online carding schemes
+    *   Canon breach exposes personal data of current, former GE employees, beneficiaries
     *   Data dump contains PII on over 4.9M Georgians. origin unknown
+    *   FSB contractor breach exposes secret cyber weapons program leveraging IoT vulnerabilities
+    
     *   IoT proliferation and widespread 5G: A perfect botnet storm
-    *   FBI warns of Kwampirs attacks, COVID-19 scams
+    *   Tupperware site hacked with credit card skimmer
+    *   GOP canvassing app credentials exposed in code repository
+    *   14 million Key Ring users exposed in open database
+    *   COVID-19 hurts travel and event fraudsters, but buoys online carding schemes
+    
+    *   COVID-19 hurts travel and event fraudsters, but buoys online carding schemes
+    *   As unemployment claims soar, cyber workforce remains strong
+    *   Chrome browser update knocks out eight bugs
+    *   SC Product Reviews: SIEM
+    *   Med group's breach disclosure claims SSNs unaffected. leaked docs suggest otherwise
 
 Back to Top
 
@@ -275,4 +275,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
+
+You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
