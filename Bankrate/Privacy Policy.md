@@ -26,14 +26,12 @@ Always Active
 Save SettingsAllow All Open navigation
 
 *   BR Mortgages
-*   BR Homes
 *   BR Banking
 *   BR Credit cards
 *   BR Loans
 *   Investing
 *   BR Home equity
 *   BR Insurance
-*   BR Personal finance
 *   Retirement
 
 Main Menu BR Mortgages Mortgages overview
@@ -79,33 +77,6 @@ Main Menu BR Mortgages Mortgages overview
 *   How to refinance your mortgage
 *   Mortgage lender reviews
 
-Main Menu BR Homes Homes overview
-
-*   Home buying
-*   Determine your budget
-*   Find your home
-*   Get prequalified
-
-*   Get advice
-*   Step-by-step homebuying guide
-*   First-time homebuyer's guide
-*   How does rent-to-own work?
-*   What to look for when buying a home
-*   Homebuyer mistakes to avoid
-
-*   Learn how to
-*   Make an offer on a house
-*   Decide between renting vs. buying
-*   Ace the final walk-through
-*   Find The best real estate agent
-*   Buying a second home
-
-*   Use calculators
-*   How much house can I afford?
-*   Rent vs. buy calculator
-*   Cost of living calculator
-*   How much should I put down?
-
 Main Menu BR Banking Banking overview
 
 *   Compare accounts
@@ -131,6 +102,7 @@ Main Menu BR Banking Banking overview
 *   What is a money market account?
 *   Which certificate of deposit account is best?
 *   How to open a savings account
+*   Tax advice
 
 *   Bank reviews
 *   Capital One Bank
@@ -176,6 +148,7 @@ Main Menu BR Credit cards Credit cards overview
 *   Credit card payoff calculator
 *   Balance transfer calculator
 *   All credit card calculators
+*   Improving your credit
 
 Main Menu BR Loans Loans overview
 
@@ -217,6 +190,7 @@ Main Menu BR Loans Loans overview
 *   Refinancing personal loans
 *   Refinancing auto loans
 *   Personal loan origination fees
+*   Debt management
 
 Main Menu Investing Investing overview
 
@@ -311,29 +285,6 @@ Main Menu BR Insurance Insurance overview
 *   Car Insurance Texas
 *   Home Insurance Florida
 *   Home Insurance Texas
-
-Main Menu BR Personal finance Personal finance overview
-
-*   Compare
-*   Current interest rates
-*   Compare rates
-
-*   Use calculators
-*   Debt consolidation calculator
-*   Net worth calculator
-*   Personal finance calculators
-*   Cost of living calculator
-*   All calculators
-
-*   Get advice
-*   Retirement advice
-*   Debt management
-*   Improve your credit score
-*   Career resources
-*   Tax advice
-*   Insurance basics
-*   Real estate tips
-*   Personal finance glossary
 
 Main Menu Retirement Retirement overview
 
