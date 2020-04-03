@@ -1,4 +1,4 @@
-GEICO RESPECTS YOUR PRIVACY
+Print this page GEICO RESPECTS YOUR PRIVACY
 
 Protecting your privacy is very important to us. Customers like you have trusted us with their insurance needs since 1936, and we take our obligation to safeguard and secure your personal information very seriously. We want you to understand how we protect your privacy and when we collect and use your information.
 
