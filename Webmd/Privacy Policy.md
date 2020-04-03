@@ -116,7 +116,7 @@ Skip to main content
     *   Surgeon General On How to Practice Social Distancing
     *   Coronavirus Dos and Don'ts
     *   How Long Does Coronavirus Live On Surfaces?
-    *   Video: How to Decontaminate When You Get Home
+    *   See Our Map for Coronavirus Spread
     
     Experts &. Community
     
