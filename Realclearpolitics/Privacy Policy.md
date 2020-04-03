@@ -115,53 +115,53 @@
     *   About
     *   Media Kit
 
-*   _Michael Walsh_: Trump Steps Up as He Faces Decisive Leadership Test
+*   _Lionel Shriver_: I'm Shaken--and Not Because I'm Afraid of Getting Sick
     
-*   _John Harris_: Traits That Worked For Trump Now Threaten His Undoing
+*   _Juliette Kayyem_: Canceling Everything Is the Easy Part
     
-*   _Peter Wallison_: Low U.S. Death Rate Means Mitigation Efforts Are Working
+*   _Kyung Lah_: One Block in America. Six Businesses on the Brink of Disaster
     
-*   _Francine Prose_: Coronavirus Is a Problem - For the Working-Class
+*   _Christopher Bedford_: Media's Pro-China Propaganda Catches Up With Them
     
-*   _Sheryl Sandberg_: Here's How to Be Counted During the Pandemic
+*   _Jill Lawrence_: Trump's Chaotic Presidency Causes Division and Death
     
-*   _James Carville_: Education the Key to Winning the Coronavirus War
+*   _Liz Peek_: 5 Reasons Trump's Daily Briefings Are Dangerous...to Democrats
     
-*   _Tammy Bruce_: The Left's Despicable Attacks on Dr. Birx
+*   _Steve Caldeira_: Cleansers, Once Shunned, Now Welcomed to Fight Covid-19
     
-*   _Susan Crabtree_: Religious Freedom in the Time of Coronavirus
+*   _Zachary Karabell_: The Fed's Unprecedented Bailout of Everyone and Everything
     
-*   _Eli Lake_: FBI Cannot Be Trusted With Surveillance of Americans
+*   _Thomas Edsall_: Covid-19 Is Twisting 2020 Beyond All Recognition
     
-*   _Robert Shiller_: Two Pandemics: One Medical, One Financial
+*   _Dennis Prager_: Why Are Left and Right Divided Over Coronavirus?
     
-*   _Ben Domenech_: One-Size-Fits-All Strategy Right Into a Great Depression?
+*   _Carl Cannon_: What Einstein Might Teach Us About Our Viral Divide
     
-*   _Margaret Talev_: Shutting Down the Economy Is Shafting the Working Class
+*   _Charlie Campbell_: China's Coronavirus Numbers and the Fog of Skewed Data
     
-*   _Sen. Ron Johnson_: A New York Doctor's Antidote to Fear of COVID-19
+*   _John Cassidy_: Is It Too Late to Prevent Mass Unemployment?
     
-*   _Andrew Joseph_: How to Determine How Bad It Will Get in Each Community
+*   _John Holler_: Into Hibernation We Go
     
-*   _David Patrikarakos_: Beware China's Masked Diplomacy
+*   _Sohrab Ahmari_: Post-Corona, Anger Will Escalate Over Chinese Trade
     
-*   _Michael Fuchs_: The U.S.-China Blame Game Is Undermining Diplomacy
+*   _Chow Chung-yan_: Beijing's Covid-19 Mistakes Are No Excuse for U.S., Europe
     
-*   _Bill Whalen_: Joe Exotic Meets Joe Quixotic
+*   _Sen. Marco Rubio_: Is the WHO Putting the World's Health First?
     
-*   _Osita Nwanevu_: Go For the Jugular, Joe Biden
+*   _Simon Tisdall_: Don't Assume the 'Trump Bump' in Polls Will Last
     
-*   _Nolan Finley_: I Believe Tara Reade
+*   _Jordan Weissmann_: Trump Is Right: We Should Bring Back Infrastructure Week
     
-*   _Brian Stelter_: Journalists Challenge Trump's 'Revisionist History' on Response
+*   _Ryan Saavedra_: Kavanaugh, Biden &. the Partisanship of NYT, WP, CNN
     
-*   _James Pinkerton_: Trump vs. Biden? Maybe. Trump vs. the Media? Absolutely
+*   _Amanda Marcotte_: Media Has Good Reasons for Not Covering Biden Accuser
     
-*   _Philip Wegmann_: Missing Medical Supplies Become Part of 2020 Debate
+*   _Myra Adams_: Approval Ratings Amid Crises: Comparing Trump, Obama, Bush
     
-*   _Dr. Tom Frieden_: Former CDC Head: What Went Wrong With Testing
+*   _Tom Rogan_: Susan Rice Reminds Xi Jinping Why He Misses Obama
     
-*   _Christine Dolan_: Obama's Failure to Restock Respirators Created a 2020 Crisis
+*   _Vali Nasr_: China's Doing More to Fight Covid-19 Than Trump
     
 
 *   Previous
@@ -232,11 +232,11 @@ RecommendedPolitics
 *   Books
 *   Investigations
 
+*   Religious Freedom in the Time of Coronavirus
 *   Sen. Johnson: A New York Doctor's Antidote to Fear of COVID-19
+*   Full Presser: Trump, Coronavirus Task Force Give Wednesday Update
 *   Missing Medical Supplies Become Part of 2020 Debate
-*   Full Presser: Trump, Coronavirus Task Force Give Tuesday Update
 *   IG Finds Problems FBI Wiretaps Extend Beyond Russia Probe
-*   Unpacking China's Viral Propaganda War
 *   Presidential Job Approval
 *   Cartoons of the Week
 
@@ -250,6 +250,9 @@ Latest PollsAll Polls
 *   House 2020
 *   State of the Union
 
+*   President Trump Job ApprovalRasmussen Reports
+    *   Approve48
+    *   Disapprove50Disapprove +2
 *   Wisconsin: Trump vs. BidenMarquette
     *   Biden48
     *   Trump45Biden +3
@@ -259,17 +262,14 @@ Latest PollsAll Polls
 *   Wisconsin Democratic PrimaryMarquette
     *   Biden62
     *   Sanders34Biden +28
-*   2020 Democratic Presidential NominationEconomist/YouGov
-    *   Biden55
-    *   Sanders40Biden +15
 
 More Latest Polls In The News
 
-*   Reporter to Trump: How Will Illegal Immigrants "Survive" Without Government Aid During Coronavirus Crisis?
-*   CNN King: "Shameless" Trump Using COVID Briefing To Tout Program Stopping Cartels From Exploiting Crisis
-*   NY Gov. Cuomo: Models Now Predict COVID-19 Apex At End Of April, "Which Means Another Month Of This"
-*   Bernie Sanders: Trump Downplayed The Threat From Coronavirus "From The Very Beginning"
-*   McConnell: Impeachment Distracted Trump Administration From Early Coronavirus Threat
+*   Chris Cuomo Describes Coronavirus: "Wicked Phantasmagorical Experiences"
+*   Mark Levin: "Reprobate" Adam Schiff Giving "Aid And Comfort" To The Enemy. First Ukraine, Now China
+*   Biden: I Hope Trump Can "Learn Some Lessons" From Obama Admin On How To Handle Coronavirus
+*   Adam Schiff: We Need A "9/11-Style Commission" To Review Trump's "Catastrophic" Coronavirus Response
+*   Gavin Newsom: I'd Be Lying To Say Trump Has Not Been Responsive To Our Coronavirus Needs
 
 *   Politics
 *   Policy
