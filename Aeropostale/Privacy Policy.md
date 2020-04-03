@@ -1,6 +1,6 @@
 Effective as of January 1, 2020, we have made changes to our Privacy Policy. By continuing to use the Aeropostale website, you agree to our updated Privacy Policy.
 
-  United States We now ship to your location with Borderfree. I'm shipping to: Afghanistan Algeria Angola Anguilla Antigua and Barbuda Armenia Australia Azerbaijan Bahamas Barbados Belarus Belize Benin Bermuda Bhutan Bolivia Botswana Brazil Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Canada Cape Verde Cayman Islands Central African Republic Chad China Christmas Island Cocos (Keeling) Islands Congo, Democratic Republic of the Congo, Republic of the Cook Islands Curaçao Côte d'Ivoire Denmark Djibouti Dominica El Salvador Equatorial Guinea Eritrea Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland French Guiana French Polynesia Gabon Gambia Ghana Grenada Guadeloupe Guinea Guyana Haiti Holy See (Vatican City State) Hong Kong Jamaica Japan Jersey Kazakhstan Kenya Kiribati Korea, Republic of Kyrgyzstan Lebanon Lesotho Liberia Macao Malawi Malaysia Maldives Mali Marshall Islands Martinique Mauritania Micronesia, Federated States of Mongolia Montserrat Morocco Mozambique Myanmar Namibia Nauru New Caledonia New Zealand Nicaragua Niger Niue North Macedonia, Republic of Norway Pakistan Palau Papua New Guinea Peru Romania Russian Federation Réunion Saint Barthélemy Saint Kitts and Nevis Saint Lucia Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Senegal Sierra Leone Singapore Sint Maarten (Dutch part) Solomon Islands Suriname Swaziland Sweden Taiwan Tajikistan Tanzania, United Republic of Thailand Togo Tonga Tunisia Turks and Caicos Islands Tuvalu Uganda United Arab Emirates United States Vanuatu Vietnam Virgin Islands, British Wallis and Futuna Yemen Zambia Zimbabwe I'd like to see prices in: Australian Dollar Bahamian Dollar Bahraini Dinar Balboa Barbados Dollar Belize Dollar Boliviano Bosnian Convertible Mark Brazilian Real British Pound Bulgarian Lev CFA Franc BCEAO CFA Franc BEAC Canadian Dollar Cayman Islands Dollar Chilean Peso Colombian Peso Cordoba Oro Costa Rican Colon Croatian Kuna Czech Koruna Danish Krone Dominican Peso Egyptian Pound Euro Guarani Hong Kong Dollar Hungarian Forint Indian Rupee Israeli Shekel Jamaican Dollar Japanese Yen Jordanian Dinar Korean Won Kuwaiti Dinar Lebanese Pound Lempira Lilangeni Malayan Ringgit Mexican Peso Moroccan Dirham Namibia Dollar Nepalese Rupee Netherlands Antillan Guilder New Romanian Leu New Zealand Dollar Norwegian Krone Omani Rial Pakistan Rupee Peruvian Nuevo Sol Philippine Peso Polish Zloty Qatari Riyal Quetzal Riel Rufiyaa Russian Ruble Saudi Riyal Singapore Dollar South African Rand Sri Lanka Rupee Swedish Krona Swiss Franc Taiwan Dollar Taka Tenge Thai Baht Turkish Lira US Dollar Ukraine Hryvnia United Arab Emirates Dirham Uruguay New Peso Yuan Renminbi Aeropostale
+  United States We now ship to your location with Borderfree. I'm shipping to: Algeria Angola Anguilla Antigua and Barbuda Armenia Australia Azerbaijan Bahamas Belarus Belize Benin Bermuda Bhutan Bolivia Botswana Brazil Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Canada Cape Verde Central African Republic Chad China Christmas Island Cocos (Keeling) Islands Congo, Democratic Republic of the Congo, Republic of the Cook Islands Côte d'Ivoire Denmark Djibouti Dominica El Salvador Equatorial Guinea Eritrea Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland French Guiana French Polynesia Gabon Gambia Ghana Grenada Guadeloupe Guinea Guyana Haiti Holy See (Vatican City State) Hong Kong Jamaica Japan Jersey Kazakhstan Kenya Kiribati Korea, Republic of Kyrgyzstan Lebanon Lesotho Liberia Macao Malawi Malaysia Maldives Mali Marshall Islands Martinique Mauritania Micronesia, Federated States of Mongolia Montserrat Morocco Mozambique Myanmar Namibia Nauru New Caledonia New Zealand Nicaragua Niger Niue North Macedonia, Republic of Norway Pakistan Palau Papua New Guinea Peru Romania Russian Federation Réunion Saint Barthélemy Saint Kitts and Nevis Saint Lucia Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Senegal Sierra Leone Singapore Sint Maarten (Dutch part) Solomon Islands Suriname Swaziland Sweden Taiwan Tajikistan Tanzania, United Republic of Thailand Togo Tonga Tunisia Turks and Caicos Islands Tuvalu Uganda United Arab Emirates United States Vanuatu Vietnam Virgin Islands, British Wallis and Futuna Yemen Zambia Zimbabwe I'd like to see prices in: Australian Dollar Bahamian Dollar Bahraini Dinar Balboa Barbados Dollar Belize Dollar Boliviano Bosnian Convertible Mark Brazilian Real British Pound Bulgarian Lev CFA Franc BCEAO CFA Franc BEAC Canadian Dollar Cayman Islands Dollar Chilean Peso Colombian Peso Cordoba Oro Costa Rican Colon Croatian Kuna Czech Koruna Danish Krone Dominican Peso Egyptian Pound Euro Guarani Hong Kong Dollar Hungarian Forint Indian Rupee Israeli Shekel Jamaican Dollar Japanese Yen Jordanian Dinar Korean Won Kuwaiti Dinar Lebanese Pound Lempira Lilangeni Malayan Ringgit Mexican Peso Moroccan Dirham Namibia Dollar Nepalese Rupee Netherlands Antillan Guilder New Romanian Leu New Zealand Dollar Norwegian Krone Omani Rial Pakistan Rupee Peruvian Nuevo Sol Philippine Peso Polish Zloty Qatari Riyal Quetzal Riel Rufiyaa Russian Ruble Saudi Riyal Singapore Dollar South African Rand Sri Lanka Rupee Swedish Krona Swiss Franc Taiwan Dollar Taka Tenge Thai Baht Turkish Lira US Dollar Ukraine Hryvnia United Arab Emirates Dirham Uruguay New Peso Yuan Renminbi Aeropostale
 
 *   Open submenu ( Girls ) Girls
 *   Open submenu ( Guys ) Guys
@@ -36,6 +36,7 @@ Close submenu ( Girls ) Girls
 Close submenu ( Collections ) Collections
 
 *   View All
+*   Couch Busters
 *   Get Cozy
 *   Get Connected
 *   Vid Chat Vibes
@@ -65,6 +66,7 @@ Close submenu ( Guys ) Guys
 Close submenu ( Collections ) Collections
 
 *   View All
+*   Couch Busters
 *   Get Cozy
 *   Get Connected
 *   Vid Chat Vibes
@@ -233,6 +235,7 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
+        *   Couch Busters
         *   Get Cozy
         *   Get Connected
         *   Vid Chat Vibes
@@ -259,6 +262,7 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
+        *   Couch Busters
         *   Get Cozy
         *   Get Connected
         *   Vid Chat Vibes
@@ -387,31 +391,121 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
 
-**#StayHomeWithAero**
+#StayHomeWithAero
 
-60%
+60% (or More) Off Everything
 
-(or More)  
-Off Everything
-
-Including Jeans, Shorts, Tees &.  
-Stay Home Essentials.
-
-Excludes Fragrance
+\*Exclusions Apply
 
 Shop Girls Shop Guys
 
-**#StayHomeWithAero**
+\+ NEW Girls &. Guys Couchbusters:
 
-60% (or More)  
+Serious comfort. Incredible savings. For a Limited Time. All Girls Couchbusters All Guys Couchbusters
+
+\* Select Styles
+
+Shorts
+
+$17.87
+
+&. Under
+
+Girls Couchbuster Shorts  
+Guys Couchbuster Shorts
+
+Tees
+
+$6.87
+
+Girls Couchbuster Tees  
+Guys Couchbuster Tees
+
+Jeans
+
+$17.87
+
+&. Under
+
+Girls Couchbuster Jeans  
+Guys Couchbuster Jeans
+
+Hoodies &. Joggers
+
+$14.87
+
+&. Under
+
+Girls Couchbuster Fleece  
+Guys Couchbuster Fleece
+
+Polos
+
+$9.87
+
+&. Under
+
+Girls Couchbuster Polos  
+Guys Couchbuster Polos
+
+#StayHomeWithAero
+
+60
+
+% (or More)  
 Off Everything
 
-Including Jeans, Shorts, Tees &.  
-Stay Home Essentials.
-
-Excludes Fragrance
+Exclusions Apply
 
 Shop Girls Shop Guys
+
+\+ NEW Girls &. Guys  
+Couchbusters:
+
+Serious comfort. Incredible savings.  
+For a Limited Time.
+
+Shorts $17.87 &. Under
+
+All Girls Couchbusters  
+All Guys Couchbusters
+
+Girls Couchbuster Shorts  
+Guys Couchbuster Shorts
+
+**Tees**
+
+$6.87
+
+Girls Couchbuster Tees  
+Guys Couchbuster Tees
+
+**Jeans**
+
+$17.87
+
+**&. Under**
+
+Girls Couchbuster Jeans  
+Guys Couchbuster Jeans
+
+**Polos**
+
+$9.87
+
+**&. Under**
+
+Girls Couchbuster Polos  
+Guys Couchbuster Polos
+
+**Hoodies &. Joggers**
+
+$14.87
+
+**&. Under**
+
+Girls Couchbuster Fleece  
+Guys Couchbuster Fleece
 
 **#StayHomeWithAero**
 
@@ -422,7 +516,36 @@ ready fashion.
 Effortless outfits. Colorful coziness.  
 (Front) camera-ready fashion
 
-**Girls Get Cozy** ****Guys Get Cozy**** ****Previous
+**Girls Get Cozy** **Guys Get Cozy**
+
+**Online Shopping is  
+Better Together**
+
+Send your bestie an Aero e-gift-card.  
+Then set a date for a virtual spree.
+
+**Online Shopping is  
+Better Together**
+
+Send your bestie an Aero e-gift-card.  
+Then set a date for a virtual spree.
+
+**Send an eGift Card**
+
+New Hoodie + New High Score = WIN-WIN
+
+New Hoodie + New High Score  
+\= WIN-WIN
+
+For the guys in your life...  
+(Your boyfriend, brother, best friend, etc.)  
+Time to step up their home game.
+
+For the guys in your life...  
+(Your boyfriend, brother, best friend, etc.)  
+Time to step up their home game.
+
+Shop Guys Cozy Previous
 
 Curvy
 
@@ -542,7 +665,7 @@ to handle anything.
 Soft enough to lounge in.  
 Flexible enough to handle anything.
 
-**Girls Jeans $22.80** Was $56.50 **Guys Jeans $21.80** Was $54.50 **Girls Shorts $18.80** Was $46.50 **Guys Shorts $19.80** Was $49.50
+**Girls Jeans $17.87** Was $56.50 **Guys Jeans $17.87** Was $54.50 **Girls Shorts $17.87** Was $46.50 **Guys Shorts $17.87** Was $49.50
 
 **#StayHomeWithAero 60%(or More) Off**
 
@@ -579,21 +702,15 @@ inspired by the vibrant streets of Mexico City.
 
 Enter Aero World
 
-#StayHomeWithAero
+Share your faves with **@aeropostale**  
+**#StayHomeWithAero** for a chance to be  
+featured in our emails.
 
-Just because we're staying home,  
-doesn't mean we can't stay  
-connected. Let's come together to  
-support one another. Unity is more  
-important than ever.
+Share your faves with **@aeropostale**  
+**#StayHomeWithAero** for a chance to be  
+featured in our emails.
 
-#StayHomeWithAero
-
-Just because we're staying home, doesn't mean we can't  
-stay connected. Let's come together to support one  
-another. Unity is more important than ever.
-
-<div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>.**** ****SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS
+<div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS
 
 For more information, please see our **Privacy Policy**. California residents, see our **California Privacy Notice** and **Do Not Sell My Personal Information** page.
 
@@ -642,4 +759,4 @@ Stay Connected
 *   Use Student Discount
 *   Store FAQs
 
-© 2020 Aeropostale. All Rights Reserved.**** CHAT
+© 2020 Aeropostale. All Rights Reserved. CHAT
