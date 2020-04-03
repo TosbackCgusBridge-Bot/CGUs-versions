@@ -3,7 +3,7 @@ EXTRA 30% OFF $100 or more with code: 4BUNNY DetailsEnable Accessibility
 *   Sign InSign InCreate Account
     *   Track My Orders
     *   My Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   New &. Now
 *   Home &. Lifestyle
@@ -17,109 +17,75 @@ EXTRA 30% OFF $100 or more with code: 4BUNNY DetailsEnable Accessibility
 *   Salon
 *   Sephora Beauty
 
-UP TO 50% OFF Easter prepselect styles
+Food storageSlow cookersPressure cookersCookwareWomenMenGirlsBoys 
 
-*   Shop home
+*   Shop bras
 
-*   Small appliances
+*   Women’s Panties
     
-*   Dining &. tabletop
+*   Men's basics
     
-*   Cookware
+*   Girls' basics
     
-*   Cutlery
-    
-*   Air fryers
-    
-*   Pressure cookers
+*   Boys' basics
     
 
-Shop homeGet your baskets readyThe hoppiest gifts &. toys delivered straight to your door. \*Excluded from coupons.
+Shop brasTowelsSheetsBlanketsBed pillowsSTARTING AT $8Sephora Collection Instant Masksselect styles | Excluded from coupons.$19.99Sharper Image hot &. cold aromatherapyneck &. shoulder wrap | reg. $29$29.99Conair foot spa with bubbles &. heatreg. $4025-40% OFFNailcare**$5.99-$7.12** | reg. $9.50-$9.99Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken. Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Shop Easter
-
-*   Easter baskets\*
-    
-*   Disney Collection\*
-    
-*   Family games\*
-    
-*   Building blocks\*
-    
-*   Family puzzles\*
-    
-*   Outdoor toys\*
-    
-
-Shop Easter$14 Slippersselect stylesUP TO 70% OFFFashion silver &. fashion jewelryselect styles | reg. $10-$7040% OFFPamper gifts for herselect styles | reg. $14-$3030% OFFSunglassesselect styles | reg. $24-$32Casual Easter faves made for hangin' out
-
-*   Shop now
-
-*   Women
-    
-*   Men
-    
-*   Boys
-    
-*   Girls
-    
-
-Shop nowSTARTING AT $8Sephora Collection Instant Masksselect styles | Excluded from coupons.$19.99Sharper Image hot &. cold aromatherapyneck &. shoulder wrap | reg. $29$29.99Conair foot spa with bubbles &. heatreg. $4025-40% OFFNailcare**$5.99-$7.12** | reg. $9.50-$9.99WomenMenKidsShoesadidasChampionSTARTING AT $1.99Women's cold-weather accessories select styles STARTING AT $4.99Men's cold-weather accessoriesselect stylesSTARTING AT $9.99Women's outerwearselect stylesSTARTING AT $9.99Men's outerwearselect stylesSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken. Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
-
-*   $125 - $359after couponwas $7 Xersion-Womens Performance Tee(1657)
-*   $524after couponwas $13 a.n.a-Womens Round Neck Short Sleeve T-Shirt(16)
-*   $899 - $1529after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(303)
+*   $179 - $359after couponwas $7 Xersion-Womens Performance Tee(1657)
+*   $524after couponwas $13 a.n.a-Womens Round Neck Short Sleeve T-Shirt(17)
 *   $2249 - $3750after couponPop Highbar Womens Sneakers(353)
 *   $1499 - $5624after couponwas $50 - $150 JCPenney Home Ultra Performance 575 Sateen Deep Pocket Sheet Set(149)
-*   $599after couponwas $13 a.n.a Womens V Neck Sleeveless Tank Top(8)
+*   $6375 - $6775 sale
+    
+    was $85 - $90 | 24 - 25% offNike Air Max Motion 2 Womens Running Shoes(15)
+*   $269after couponwas $20 Arizona Mens Crew Neck Long Sleeve Thermal Top(33)
 
 Sponsored Items
 
-*   $1874after couponwas $34 Range Kleen 4-Pack Drip BowlsAdd To Cart
-*   $791 - $2249after couponwas $44 Vanity Fair Beyond Comfort Wireless Comfort Full Figure Bra-71282(54)Add To Cart
-*   $62910after couponGoogle Nest Cam IQ Outdoor Security Camera 2-Pack(48)
-*   $2499
+*   $20610after couponGoogle Nest Hello Video Doorbell(353)
+*   $24999 sale
     
-    Educational Insights My First Game: Petting ZooAdd To Cart
-*   $27999 sale
-    
-    was $349.99 | 20% offSamsung Galaxy Mens Multi-Function Black Smart Watch-Sm-R800nzsaxar(334)Add To Cart
+    was $279.99 | 10% offSamsung Galaxy Active 2 40mm Womens Multi-Function Silver Tone Smart Watch-Sm-R830nzsaxar(23)Add To Cart
 *   $1499
     
-    Fisher-Price Laugh &. Learn Click &. Learn Laptop(10)
-*   $74 - $120
-    
-    Donna Karan Cashmere Mist Eau De Parfum(236)Add To Cart
+    Fisher-Price Laugh &. Learn Click &. Learn Laptop(10)Add To Cart
+*   $1874after couponwas $34 Range Kleen 4-Pack Drip BowlsAdd To Cart
+*   $2249 - $2624after couponwas $42 - $44 Vanity Fair® Beauty Back™ Full-Figure Back Smoothing Wireless Bra - 71380(629)Add To Cart
 *   $11299 sale
     
     was $139 | 18% offKitchen Aid 7-Cup Food Processor(1028)Add To Cart
-*   $1124after couponUmbra Soap Dispenser(2)Add To Cart
-*   $791 - $2249after couponwas $44 Lee® Plain Front Relaxed All Day Twill Pant(782)Add To Cart
-*   $3999 sale
-    
-    was $70 | 42% offGreenPan Rio Non-Stick Frying Pan(1)
-*   $4999
-    
-    Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill PanAdd To Cart
 *   $3999
     
     As Seen on TV Blue Diamond Ceramic 11" Non-Stick Square Griddle(21)Add To Cart
+*   $4999
+    
+    Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill PanAdd To Cart
+*   $791 - $2249after couponwas $44 Lee® Sculpting Pull On Womens Mid Rise Slim Fit Jean(45)Add To Cart
 *   $45999 sale
     
     was $539 | 14% offDyson® Ball Multi Floor 2 Upright Vacuum(243)
-*   $68 - $112
+*   $3999 sale
     
-    Michael Kors Sexy Amber(50)Add To Cart
-*   $2199
+    was $70 | 42% offGreenPan Rio Non-Stick Frying Pan(1)
+*   $30
     
-    Educational Insights Kanoodle Head To Head(2)Add To Cart
-*   $35
+    Michael Kors Sexy Amber Rollerball(14)Add To Cart
+*   $10999
     
-    Educational Insights Fluorescent Light Filters Setof 4(1)Add To Cart
-*   $2249after couponwas $42 - $44 Vanity Fair® Beauty Back™ Full-Figure Back Smoothing Wireless Bra - 71380(629)Add To Cart
+    Step2 Up and Down Roller Coaster(329)
+*   $74 - $120
+    
+    Donna Karan Cashmere Mist Eau De Parfum(236)Add To Cart
+*   $1349after couponwas $19 Range Kleen Full Size Oven LinerAdd To Cart
+*   $17999 sale
+    
+    was $199.99 | 10% offSamsung Galaxy Active Mens Black Smart Watch-Sm-R500nzkaxar(169)Add To Cart
+*   $2249after couponwas $37 Range Kleen 4-Pk. Drip BowlAdd To Cart
 *   $29999 sale
     
-    was $360 | 16% offBissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum(2273)
+    was $360 | 16% offBissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum(2275)
+*   $1874 - $2624after couponwas $40 - $42 Vanity Fair® Beauty Back™ Full-Coverage Underwire Bra - 75345(180)Add To Cart
 
 Shop and Save at JCPenney
 
