@@ -226,23 +226,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Cybercriminals targeting Zoom, Google and Teams domains
-    *   COVID-19 hurts travel and event fraudsters, but buoys online carding schemes
+    *   New Marriott data breach impacts 5.2 million guests
+    *   SC Media’s complete coverage: Threat and Preparation
+    *   Maze ransomware attackers extort vaccine testing facility
+    *   Hijacked routers and attempted WHO hack highlight latest COVID-19 attacks
+    *   Coalition of nonprofits push to secure remote workforce
+    
+    *   New Milum trojan used against Mid-Eastern targets
+    *   Coalition of nonprofits push to secure remote workforce
+    *   FBI warns of Kwampirs attacks, COVID-19 scams
+    *   Open redirect on Dept. of HHS website benefits COVID-19 phishing scam
     *   Canon breach exposes personal data of current, former GE employees, beneficiaries
-    *   Data dump contains PII on over 4.9M Georgians. origin unknown
-    *   FSB contractor breach exposes secret cyber weapons program leveraging IoT vulnerabilities
     
-    *   IoT proliferation and widespread 5G: A perfect botnet storm
-    *   Tupperware site hacked with credit card skimmer
-    *   GOP canvassing app credentials exposed in code repository
-    *   14 million Key Ring users exposed in open database
-    *   COVID-19 hurts travel and event fraudsters, but buoys online carding schemes
-    
+    *   Microsoft defends health care orgs, Mozilla funds innovation to fight COVID-19
+    *   Cure worse than disease? Patching riskier under COVID-19 work-from-home policies
+    *   Jupiter, Fla., fighting REvil/Sodinokibi ransomware and Coronavirus
     *   COVID-19 hurts travel and event fraudsters, but buoys online carding schemes
     *   As unemployment claims soar, cyber workforce remains strong
-    *   Chrome browser update knocks out eight bugs
-    *   SC Product Reviews: SIEM
-    *   Med group's breach disclosure claims SSNs unaffected. leaked docs suggest otherwise
 
 Back to Top
 
@@ -275,8 +275,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
