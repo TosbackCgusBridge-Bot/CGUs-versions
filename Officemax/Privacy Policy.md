@@ -44,11 +44,11 @@ $1.62
 
 Change
 
-+0.04
+0
 
 Percent Change
 
-(+2.53%)
+(0.00%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
