@@ -1,9 +1,9 @@
 new icn messageflickr-free-ic3d pan white
 
-*   Explore
+*   Explore New
     *   Recent Photos
     *   Trending
-    *   Events Beta
+    *   Events
     *   The Commons
     *   Flickr Galleries
     *   World Map
@@ -16,7 +16,7 @@ new icn messageflickr-free-ic3d pan white
 *   Log In
 *   Sign Up
 
-*   Explore
+*   Explore New
 *   Trending
 *   Events Beta
 *   The Commons
