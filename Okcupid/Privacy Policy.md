@@ -364,7 +364,7 @@ You need to complete your basic info on the mobile app before you can use the de
 *   Support
 *   Blog
 *   Tech Blog
-*   Bisexual Dating
+*   Christian Singles
 *   Privacy Policy
 *   Cookie Policy
 *   Terms and Conditions
@@ -386,7 +386,11 @@ Save yourself (a lot) of time
 
 Get a day’s worth of attention in one 30-minute Boost.
 
-Boost nowNo thanks Privacy Preference CenterWhen you visit any web site, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device. We have provided a simple tool below to accept or refuse them as you wish. More informationAllow All Manage Consent PreferencesStrictly Necessary Cookies Strictly Necessary Cookies
+Boost nowNo thanks Privacy Preference CenterWhen you visit any web site, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device. We have provided a simple tool below to accept or refuse them as you wish.  
+  
+By giving your consent to the purposes below, you also authorize this website and its partners to process the following data: Offline data matching, Device linking and Precise geographic location data  
+  
+More informationAllow All Manage Consent PreferencesStrictly Necessary Cookies Strictly Necessary Cookies
 
 These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.    You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
 
