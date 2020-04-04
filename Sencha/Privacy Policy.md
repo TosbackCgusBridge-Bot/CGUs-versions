@@ -1,68 +1,46 @@
-Sencha.com
-
-*   Buy Now
-    *   Review Order
-    *   Compare Licenses
-    *   Renew My License
-    *   FAQs
-*   Free Trial
-*   Products
-    *   Products
-        *   Ext JS
-        *   ExtAngular
-        *   ExtReact
-        *   ExtWebComponents
-        *   GXT
-        *   Community Edition
-        *   IDE &. Editor Plugins
-    *   Dev Tools
-        *   Sencha Test
-        *   Sencha Architect
-        *   Sencha Cmd
-        *   Sencha Inspector
-    *   Design Tools
-        *   Sencha Themer
-        *   Sencha Stencils
-*   Services
-    *   Professional Services
-    *   Training
-    *   Partners
-*   Solutions
-    *   Why Develop with Sencha?
-    *   Sencha Solutions for
-        *   Developer
-        *   Ext JS for Open Source
-        *   Managers
-        *   Ext JS for OEM
+*   Database Tools
+    *   *   IDERA Powerful Database Management
+        *   AquaFold Cross-Platform Database Productivity
+        *   Precise Database and Application Performance
+        *   WhereScape Data Warehouse Automation
+        *   Uptime IT Infrastructure Performance Monitoring
+        *   Webyog Administration for MySQL
+*   Developer Tools
+    *   *   Embarcadero Fast Cross-Platform Application Development
+        *   Froala Editing for Rich Text and Web Applications
+        *   Lansa Low-Code Application  
+            Development
+        *   Sencha Rapidly Design and Deploy Web Applications
+        *   Whole Tomato Software Visual Studio Productivity Tools
+        *   FusionCharts JavaScript Charting Components for Data Visualizations
+*   DevOps Tools
+    *   *   Assembla Secure Enterprise Cloud Version Control
+        *   Kiuwan Application Security Testing
+        *   Ranorex Testing Automation
+        *   TestRail Test Case Management and QA
+        *   Travis CI Test and Deploy with Confidence
+*   About Us
+    *   *   Brands
+        *   Leadership
 *   Resources
-    *   Resource Center
-    *   Documentation
-    *   Demos
-*   Quality Assurance
 
-*   日本語
-*   Support
-*   Docs
-*   Blog
-*   SenchaDevs
-*   Checkout
-*   SearchBlog ▾
+Privacy Statement
 
-Sencha Home / Sencha Licensing / Privacy Policy_Originally Published on January 24, 2004 | Modified and Effective on October 10, 2019_
+_Originally Published on January 24, 2004 | Modified and Effective on February 3, 2020_
 
-Idera Inc., together with its United States subsidiaries, Assembla, Inc., AquaFold, Inc., CodeGear LLC, Embarcadero Technologies, Inc., Lansa, Inc., Precise Software Solutions, Inc., Ranorex, Inc., Sencha, Inc., Travis CI Corporation, Uptime Software, Inc., Webyog, Inc., WhereScape USA, Inc. and Whole Tomato Software, LLC (collectively, the “Company”), is committed to respecting and protecting the privacy of our customers, partners, webinars attendees and website visitors. Specifically, we do not sell, rent or trade email lists with other companies for marketing purposes. In this Privacy Statement we describe the Company’s privacy practices in relation to the use of the Company’s Websites (as defined below) and the related applications, services, products and programs offered by the Company (collectively, “Services”), as well as individuals’ choices regarding use, access and correction of personal information.
+Idera, Inc., together with its United States subsidiaries, Assembla, Inc., AquaFold, Inc., CodeGear LLC, Embarcadero Technologies, Inc., LANSA Holdings, Inc., LANSA, Inc., Precise Software Solutions, Inc., Ranorex Inc., Sencha, Inc., Travis CI Corporation, Webyog, Inc., WhereScape, Inc. and Whole Tomato Software, LLC (collectively, the “Company”), is committed to respecting and protecting the privacy of our customers, partners, webinars attendees and website visitors. Specifically, we do not sell, rent or trade email lists with other companies for marketing purposes. In this Privacy Statement we describe the Company’s privacy practices in relation to the use of the Company’s Websites (as defined below) and the related applications, services, products and programs offered by the Company (collectively, “Services”), as well as individuals’ choices regarding use, access and correction of personal information.
 
 If you have questions or complaints regarding the Company’s Privacy Statement or associated practices, please contact us at compliance@idera.com.
 
 1\. Websites covered
 
-This Privacy Statement covers the information practices, including how the Company collects, uses, shares and secures the personal information you provide to websites that link to this Privacy Statement, which are the following websites www.idera.com. www.assembla.com. www.aquafold.com. www.embarcadero.com. www.lansa.com. www.ranorex.com. www.sencha.com, www.travis-ci.org, www.webyog.com, www.wherescape.com and www.wholetomato.com (collectively referred to as the “Websites”).
+This Privacy Statement covers the information practices, including how the Company collects, uses, shares and secures the personal information you provide to websites that link to this Privacy Statement, which are the following websites www.idera.com, www.assembla.com, www.aquafold.com, www.embarcadero.com, www.lansa.com, www.ranorex.com, www.sencha.com, www.travis-ci.org, www.travis-ci.com, www.webyog.com , www.wherescape.com and www.wholetomato.com (collectively referred to as the “Websites”).
 
 2\. Collection of Personal Information
 
 Personal information means any information that may be used to identify you, such as, your name, title, phone number, email address, or mailing address.
 
-In general, you can browse our website without giving us any personal information. We use web analytics software to analyze traffic to this web site in order to understand our customer’s and visitor’s needs and to continually improve our site for them. This software collects only anonymous, aggregate statistics.
+In general, you can browse our website without giving us any personal information. We use web analytics software to analyze traffic to this web site in order to understand our customer's and visitor's needs and to continually improve our site for them. This software collects only anonymous, aggregate statistics.
 
 If you want to subscribe to a periodic communication such as a newsletter, we ask you to simply provide your business email address (“Optional Information”). Additional activities on our site may require you to be registered, for example, to read a white paper, download trial or free software, when you express an interest in obtaining additional information about the Services or register for an event. As part of the registration process, we may ask you for additional personal information, such as name, company name, address, phone number, and email address (“Required Information”). We use that information for several general purposes: to tell you about products and services if you so request, to fulfill your request, to contact you if we need to obtain or provide additional information. to verify the accuracy of our records, to contact you regarding customer satisfaction surveys.
 
@@ -74,67 +52,67 @@ As you navigate the Company’s website, the Company may also collect informatio
 
 3\. Use of Personal Information and The Legal Bases on Which We Rely
 
-_Providing our Websites and Services._ The Company uses Data about the Company’s customers to perform the Services requested and fulfill its obligations under applicable terms of use/service and for the use of its Websites. where you have not entered into a contract with the Company, we base the processing of your Data on our legitimate interest to operate and administer our Websites and to provide you with the content you access and request. For example, to download content from our Websites or if you fill out one of our web forms, the Company will use the information provided to contact you about your interest in the Services.
+Providing our Websites and Services. The Company uses Data about the Company’s customers to perform the Services requested and fulfill its obligations under applicable terms of use/service and for the use of its Websites. where you have not entered into a contract with the Company, we base the processing of your Data on our legitimate interest to operate and administer our Websites and to provide you with the content you access and request. For example, to download content from our Websites or if you fill out one of our web forms, the Company will use the information provided to contact you about your interest in the Services.
 
-_Managing user registrations_. If you have registered for an account with us, we process your Data by managing your user account for the purpose of performing our contract with you according to applicable terms of service;
+Managing user registrations. If you have registered for an account with us, we process your Data by managing your user account for the purpose of performing our contract with you according to applicable terms of service;
 
-_Promoting the security of our Websites and Services._ The Company processes your Data by tracking use of its Websites and Services, creating aggregated, non-personal data, verifying accounts and activity, investigating suspicious activity and enforcing our terms and policies, to the extent this is necessary for our legitimate interest in promoting the safety and security of the services, systems and applications and in protecting our rights and the rights of others. For example, to check for license compliance validation either using the license key or your account details. Some software products can also use license information to inform you of the availability of applicable updates.
+Promoting the security of our Websites and Services. The Company processes your Data by tracking use of its Websites and Services, creating aggregated, non-personal data, verifying accounts and activity, investigating suspicious activity and enforcing our terms and policies, to the extent this is necessary for our legitimate interest in promoting the safety and security of the services, systems and applications and in protecting our rights and the rights of others. For example, to check for license compliance validation either using the license key or your account details. Some software products can also use license information to inform you of the availability of applicable updates.
 
-_Developing and improving our Websites and Services._ We process your Data to analyze trends and to track your usage of and interactions with our Websites and services to the extent it is necessary for our legitimate interest in developing and improving our Websites and services and providing our users with more relevant content and service offerings, or where we seek your valid consent.
+Developing and improving our Websites and Services. We process your Data to analyze trends and to track your usage of and interactions with our Websites and services to the extent it is necessary for our legitimate interest in developing and improving our Websites and services and providing our users with more relevant content and service offerings, or where we seek your valid consent.
 
-_Handling contact and user support requests_. If you fill out one of our web forms or request user support, or if you contact us by other means including via a phone call, we process your Data to perform our contract with you and to the extent it is necessary for our legitimate interest in fulfilling your requests and communicating with you;
+Handling contact and user support requests. If you fill out one of our web forms or request user support, or if you contact us by other means including via a phone call, we process your Data to perform our contract with you and to the extent it is necessary for our legitimate interest in fulfilling your requests and communicating with you.
 
-_Reviewing compliance with applicable usage terms_. We process your Data to review compliance with the applicable usage terms in our customer’s contract to the extent that it is in our legitimate interest to ensure adherence to the relevant terms.
+Reviewing compliance with applicable usage terms. We process your Data to review compliance with the applicable usage terms in our customer’s contract to the extent that it is in our legitimate interest to ensure adherence to the relevant terms.
 
-_Assessing and improving user experience._ The Company processes device and usage data as described in Section 7 below, which in some cases may be associated with your Data, in order to analyze trends, assess and improve the overall user experience to the extent it is necessary for our legitimate interest in developing and improving the service offering, or where we seek your valid consent. In addition, the Company uses Website Navigational Information to operate and improve the Company’s Websites. The Company may also use Website Navigational Information alone or in combination with Data about customers and Data about webinar attendees to provide personalized information about the Company. For additional information about the use of Website Navigational Information, please see the Section 7 below.
+Assessing and improving user experience. The Company processes device and usage data as described in Section 7 below, which in some cases may be associated with your Data, in order to analyze trends, assess and improve the overall user experience to the extent it is necessary for our legitimate interest in developing and improving the service offering, or where we seek your valid consent. In addition, the Company uses Website Navigational Information to operate and improve the Company’s Websites. The Company may also use Website Navigational Information alone or in combination with Data about customers and Data about webinar attendees to provide personalized information about the Company. For additional information about the use of Website Navigational Information, please see the Section 7 below.
 
-_Managing event registrations and attendance._ The Company also uses Data about webinars attendees to plan and host corporate events, host online forums and social networks in which you have registered or that may participate, including sending related communications to you, to perform our contract with you. Additional information on the Company’s privacy practices with respect to Data about webinars attendees may be found in additional privacy statements on the event Websites, as the case may be. The Company may also use Data about customers and webinar attendees for marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in the Services and to send you information about the Company and its affiliates product recommendations related to our contract with you or your interest. The Company may also receive information about customers and attendees from other sources, including third parties from whom we have purchased data, and combine this information with Data we already have about you.
+Managing event registrations and attendance. The Company also uses Data about webinars attendees to plan and host corporate events, host online forums and social networks in which you have registered or that may participate, including sending related communications to you, to perform our contract with you. Additional information on the Company’s privacy practices with respect to Data about webinars attendees may be found in additional privacy statements on the event Websites, as the case may be. The Company may also use Data about customers and webinar attendees for marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in the Services and to send you information about the Company and its affiliates product recommendations related to our contract with you or your interest. The Company may also receive information about customers and attendees from other sources, including third parties from whom we have purchased data, and combine this information with Data we already have about you.
 
-_Managing contests or promotions_. If you register for a contest or promotion, we process your Data to perform our contract with you. Some contests or promotions have additional rules containing information about how we will process your Data.
+Managing contests or promotions. If you register for a contest or promotion, we process your Data to perform our contract with you. Some contests or promotions have additional rules containing information about how we will process your Data.
 
-_Developing and improving our Websites and Services_. We process your Data to analyze trends and to track your usage of and interactions with our Websites and Services to the extent it is necessary for our legitimate interest in developing and improving our Websites and Services and providing our users with more relevant content and service offerings, or where we seek your valid consent.
+Developing and improving our Websites and Services. We process your Data to analyze trends and to track your usage of and interactions with our Websites and Services to the extent it is necessary for our legitimate interest in developing and improving our Websites and Services and providing our users with more relevant content and service offerings, or where we seek your valid consent.
 
-_Assessing capacity requirements_. The Company processes your Data to assess the capacity requirements of its services to the extent that it is in its legitimate interest to ensure that it is meeting the necessary capacity requirements of its service offerings.
+Assessing capacity requirements. The Company processes your Data to assess the capacity requirements of its services to the extent that it is in its legitimate interest to ensure that it is meeting the necessary capacity requirements of its service offerings.
 
-_Identifying customer opportunities_. The Company processes your Data to assess new potential customer opportunities to the extent that it is in its legitimate interest to ensure that it is meeting the demands of its customers and their users’ experiences.
+Identifying customer opportunities. The Company processes your Data to assess new potential customer opportunities to the extent that it is in its legitimate interest to ensure that it is meeting the demands of its customers and their users’ experiences.
 
-_Displaying personalized advertisements and content._ We process your Data to conduct marketing research, advertise to you, provide personalized information about us on and off our websites and to provide other personalized content based upon your activities and interests to the extent it is necessary for our legitimate interest in advertising our websites or, where necessary, to the extent you have provided your prior consent, which can be withdraw at any time without having to provide any specific reason for such objection.
+Displaying personalized advertisements and content. We process your Data to conduct marketing research, advertise to you, provide personalized information about us on and off our websites and to provide other personalized content based upon your activities and interests to the extent it is necessary for our legitimate interest in advertising our websites or, where necessary, to the extent you have provided your prior consent, which can be withdraw at any time without having to provide any specific reason for such objection.
 
-_Sending marketing communications_. We will process your Data to send you marketing information, product recommendations and other non-transactional communications (e.g., marketing newsletters, telemarketing calls, SMS, or push notifications) about us and our affiliates and partners, including information about our products, promotions or events as necessary for our legitimate interest in conducting direct marketing or to the extent you have provided your prior consent, which can be withdraw at any time without having to provide any specific reason for such objection.
+Sending marketing communications. We will process your Data to send you marketing information, product recommendations and other non-transactional communications (e.g., marketing newsletters, telemarketing calls, SMS, or push notifications) about us and our affiliates and partners, including information about our products, promotions or events as necessary for our legitimate interest in conducting direct marketing or to the extent you have provided your prior consent, which can be withdraw at any time without having to provide any specific reason for such objection.
 
-_Managing payments_. If you have provided financial information to us, the Company processes your Data to verify that information and to collect payments to the extent that doing so is necessary to complete the transaction and perform our contract with you.
+Managing payments. If you have provided financial information to us, the Company processes your Data to verify that information and to collect payments to the extent that doing so is necessary to complete the transaction and perform our contract with you.
 
-_Complying with legal obligations._ We process your Data when cooperating with public and government authorities, courts or regulators in accordance with our legal obligations under applicable laws to the extent this requires the processing or disclosure of Data to protect our rights or is necessary for our legitimate interest in protecting against misuse or abuse of our websites, protecting personal property or safety, pursuing remedies available to us and limiting our damages, complying with judicial proceedings, court orders or legal processes or to respond to lawful requests.
+Complying with legal obligations. We process your Data when cooperating with public and government authorities, courts or regulators in accordance with our legal obligations under applicable laws to the extent this requires the processing or disclosure of Data to protect our rights or is necessary for our legitimate interest in protecting against misuse or abuse of our websites, protecting personal property or safety, pursuing remedies available to us and limiting our damages, complying with judicial proceedings, court orders or legal processes or to respond to lawful requests.
 
-_Where the Company needs to collect and process Data by law, or under a contract that it has entered into with you, and you fail to provide the required Data when requested, the Company may not be able to perform its contract with you._
+Where the Company needs to collect and process Data by law, or under a contract that it has entered into with you, and you fail to provide the required Data when requested, the Company may not be able to perform its contract with you.
 
 4\. Disclosure of Personal Information
 
-_Business Partners_.
+Business Partners.
 
 From time to time, the Company may partner with other companies to jointly offer products, services or programs (such as webinars or downloadable content) such as our channel partners to fulfill product trials and information requests, and provide customers and prospective customers with information about the Company and its products. To do this, we may pass your information to them for that purpose only, and they are prohibited from using that information for any other purpose. The Company does not share Data about the Company attendees with business partners unless: (1) you specifically opt in to such sharing via an event registration form. or (2) you attend a Company event and allow the Company or any of its business partners to scan your attendee badge. If you do not wish for your information to be shared in this manner, you may choose not to opt in via event registration forms and elect not to have your badge scanned at Company events. If you choose to share your information with business partners in the manners described above, your information will be subject to the business partners’ respective privacy statements. The Company sometimes hires vendor companies to provide limited services on our behalf, including packaging, mailing and delivering items, sending postal mail, providing technical support, and processing event registrations. We provide those companies only the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
 
-_Third Parties_.
+Third Parties.
 
 Section 7 of this Privacy Statement, Website Navigational Information, specifically addresses the information we or third parties collect through cookies and web beacons, and how you can control cookies through your Web browser. We may also disclose your personal information to any third party with your prior consent.
 
-_Service Providers_.
+Service Providers.
 
 The Company may share Data about the Company website visitors, customers and webinar attendees with the Company’s contracted service providers so that these service providers can provide services on our behalf. These service providers are authorized to use your personal information only as necessary to provide the requested services to us. Without limiting the foregoing, the Company may also share Data about the Company website visitors, customers and webinar attendees with the Company’s service providers to ensure the quality of information provided, and with third–party social networking and media websites, such as Facebook, for marketing and advertising on those websites. Unless described in this Privacy Statement, the Company does not share, sell, rent, or trade any information with third parties for their promotional purposes.
 
-_Billing_.
+Billing.
 
 The Company uses a third-party service provider to manage credit card processing. This service provider is not permitted to store, retain, or use Billing Information except for the sole purpose of credit card processing on the Company’s behalf.
 
-_Company Affiliates_.
+Company Affiliates.
 
 The Company may share Data about the Company’s customers with Idera corporate group and companies that we acquire in the future when they are made part of the Idera corporate group, to the extent such sharing of data is necessary to fulfill a request you have submitted via our Websites or for customer support, marketing, technical operations and account management purposes. A list of companies currently within the Idera corporate group is available at https://www.ideracorp.com/brands. The data protection laws in certain countries may be more or less extensive than laws in the country in which you are located. However, Idera and its offices and subsidiaries are governed by this Privacy Statement and will use your personal information only as set forth in this Privacy Statement.
 
-_Compelled Disclosure_.
+Compelled Disclosure.
 
 The Company may also disclose your personal information if required to do so by law or in the good faith belief that such action is necessary in connection with a sale, merger, transfer, exchange or other disposition (whether of assets, stock or otherwise) of all or a portion of a business of the Company and/or its subsidiaries or to (1) conform to legal requirements or comply with legal process served on the Company or this website. (2) protect and defend the rights or property of the Company and this website. (3) enforce its agreements with you, or (4) act in urgent circumstances to protect personal safety or the public. In individual instances, the Company may also share with professional advisers acting as processors or joint controllers including lawyers, bankers, auditors and insurers based in countries in which we operate who provide consultancy, banking, legal, insurance and accounting services, and to the extent we are legally obliged to share or have a legitimate interest in sharing your Data.
 
-_Any Data or other information you choose to submit in communities, forums, blogs or chat rooms on our Websites may be read, collected and used by others who visit these forums, depending on your account settings._
+Any Data or other information you choose to submit in communities, forums, blogs or chat rooms on our Websites may be read, collected and used by others who visit these forums, depending on your account settings.
 
 5\. Children and Privacy
 
@@ -146,57 +124,57 @@ The Company take precautions including organizational, technical and physical me
 
 7\. Use of Cookies, Usage Data
 
-_Cookies, Web Beacons and IP Addresses_.
+Cookies, Web Beacons and IP Addresses.
 
 The Company uses commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate the Company’s Websites (“Website Navigational Information”). As described more fully below, we and our partners use these cookies or similar technologies to analyze trends, administer Websites and Services, track users’ movements around our Websites and Services, serve targeted advertisements and gather demographic information about our user base as a whole. This section describes the types of Website Navigational Information used on the Company’s Websites and Services, and how this information may be used.
 
-_Log Files, IP Addresses, URLs and Other Data_.
+Log Files, IP Addresses, URLs and Other Data.
 
 As is true of most Company Websites, we gather certain information automatically to analyze trends in the aggregate and administer the Company’s Websites and Services. This information may include your Internet Protocol (IP) address (or the proxy server you use to access the World Wide Web), device and application identification numbers, your location, your browser type, your Internet service provider and/or mobile carrier, the pages and files you viewed, your searches, your operating system and system configuration information, and date/time stamps associated with your usage. Due to Internet communications standards, when you visit or use the Company’s Websites and Services, we automatically receive the URL of the website from which you came and the website to which you go when you leave our Website. This information is used to analyze overall trends, to help us improve our Websites and Services, to track and aggregate non-personal information, and to provide the Websites and Services. For example, the Company uses IP addresses to monitor the regions from which customers and website visitors navigate the Company’s Websites. The Company also collects IP addresses from customers when they log into the Services as part of the Company’s “Identity Confirmation” and “IP Range Restrictions” security features.
 
-_Cookies_  
-The Company uses cookies to make interactions with the Company’s Websites easy and meaningful. When you visit one of the Company’s Websites, the Company’s servers send a cookie to your computer or device. Standing alone, cookies do not personally identify you. they merely recognize your Web browser. Unless you choose to identify yourself to the Company, either by responding to a promotional offer, opening an account, or filling out a Web form (such as a “Request a Demo” or a “Request a Quote” Web form) or have previously identified yourself to the Company, you remain anonymous to the Company. The Company uses cookies that are session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer or device when you close your browser software or turn off your computer. Persistent cookies remain on your computer or device after you close your browser or turn off your computer. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on the Company’s Websites or Services. 
+Cookies
+
+The Company uses cookies to make interactions with the Company’s Websites easy and meaningful. When you visit one of the Company’s Websites, the Company’s servers send a cookie to your computer or device. Standing alone, cookies do not personally identify you. they merely recognize your Web browser. Unless you choose to identify yourself to the Company, either by responding to a promotional offer, opening an account, or filling out a Web form (such as a “Request a Demo” or a “Request a Quote” Web form) or have previously identified yourself to the Company, you remain anonymous to the Company. The Company uses cookies that are session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer or device when you close your browser software or turn off your computer. Persistent cookies remain on your computer or device after you close your browser or turn off your computer. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on the Company’s Websites or Services.
 
 The following sets out how the Company uses different categories of cookies.
 
-_Required Cookies:_
+Required Cookies:
 
-Required cookies enable you to navigate the Company’s Websites and use its features, such as accessing secure areas of the Websites and using the Company Services.  
-If you have chosen to identify yourself to the Company, the Company may place on your browser cookies containing an encrypted, unique identifier. These cookies allow the Company to uniquely identify you when you are logged into the Company’s Websites and Services and to process your online transactions and requests. Therefore, there is no option to opt out of these cookies because they are essential to operate the Websites.
+Required cookies enable you to navigate the Company’s Websites and use its features, such as accessing secure areas of the Websites and using the Company Services. If you have chosen to identify yourself to the Company, the Company may place on your browser cookies containing an encrypted, unique identifier. These cookies allow the Company to uniquely identify you when you are logged into the Company’s Websites and Services and to process your online transactions and requests. Therefore, there is no option to opt out of these cookies because they are essential to operate the Websites.
 
-_Functionality Cookies_:
+Functionality Cookies:
 
-Functionality cookies allow the Company’s Websites and Services to remember information you have entered or choices you make (such as your username, language, or your region) and provide enhanced, more personal features. These cookies also enable you to optimize your use of the Company’s Websites and Services after logging in. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize. Functional cookies may also be used to improve how the Company’s Websites and Services function and perform, to enhance and customize your interactions with the Company, and to help us provide you with more relevant messages, including marketing communications. These cookies collect information about how website visitors use our Websites and Services, including which pages visitors go to most often and if they receive error messages from certain pages. The Company may use its own technology (under the Company brand name or an affiliated brand name) or third parties to track and analyze usage and volume statistical information from website visitors, attendees, and customers, to provide enhanced interactions and more relevant communications, and to track the performance of the Company’s advertisements. The Company and its third-party partners may also utilize HTML5 local storage or Flash cookies for these purposes. Flash cookies and HTML local storage are different from browser cookies because of the amount of, type of, and how data is stored. The Company also uses Flash cookies, to store your preferences or display content based upon what you view on the Company Websites and Services to personalize your visit. In particular, we use Google Analytics (“Google Analytics”), a web analytics service provided by Google, Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Google Analytics uses cookies to help us analyze how our websites are used, including the number of visitors, the websites from which visitors have navigated to our websites, and the pages on our websites to which visitors navigate. This information is used by us to improve the Company’s Websites. To opt out from data collection by Google Analytics, you can download and install a browser add-on, which is available at https://tools.google.com/dlpage/gaoptout?hl=en. To learn how to control cookies via your individual browser settings, visit https://www.aboutcookies.org . To learn how to manage privacy and storage setting for Flash cookies, visit https://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager.html#117118 . Note that opting out of functional cookies may impact the functionality of our Websites and degrade your user experience.
+Functionality cookies allow the Company’s Websites and Services to remember information you have entered or choices you make (such as your username, language, or your region) and provide enhanced, more personal features. These cookies also enable you to optimize your use of the Company’s Websites and Services after logging in. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize. Functional cookies may also be used to improve how the Company's Websites and Services function and perform, to enhance and customize your interactions with the Company, and to help us provide you with more relevant messages, including marketing communications. These cookies collect information about how website visitors use our Websites and Services, including which pages visitors go to most often and if they receive error messages from certain pages. The Company may use its own technology (under the Company brand name or an affiliated brand name) or third parties to track and analyze usage and volume statistical information from website visitors, attendees, and customers, to provide enhanced interactions and more relevant communications, and to track the performance of the Company's advertisements. The Company and its third-party partners may also utilize HTML5 local storage or Flash cookies for these purposes. Flash cookies and HTML local storage are different from browser cookies because of the amount of, type of, and how data is stored. The Company also uses Flash cookies, to store your preferences or display content based upon what you view on the Company Websites and Services to personalize your visit. In particular, we use Google Analytics (“Google Analytics”), a web analytics service provided by Google, Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Google Analytics uses cookies to help us analyze how our websites are used, including the number of visitors, the websites from which visitors have navigated to our websites, and the pages on our websites to which visitors navigate. This information is used by us to improve the Company’s Websites. To opt out from data collection by Google Analytics, you can download and install a browser add-on, which is available at https://tools.google.com/dlpage/gaoptout?hl=en. To learn how to control cookies via your individual browser settings, visit https://www.aboutcookies.org . To learn how to manage privacy and storage setting for Flash cookies, visit https://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager.html#117 118 . Note that opting out of functional cookies may impact the functionality of our Websites and degrade your user experience.
 
-_Targeting or Advertising Cookies_:
+Targeting or Advertising Cookies:
 
-The Company sometimes uses cookies delivered by third parties to show you ads for the Company products and services that we think may interest you on any devices you may use and to track the performance of the Company advertisements. For example, in these cases, cookies remember information such as which browsers have visited the Company’s Websites. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after the Company receives it. If the Company is using one of its own cookie-related products on our own Website, then a cookie related to ads may appear on our Website under the Company or one of our affiliated company’s name. The Company also contracts with third-party advertising networks that collect IP addresses and other information from Web beacons (see below) on the Company’s Websites and Services, from emails, and on third-party Websites. Ad networks follow your online activities over time and across different sites or other online services by collecting Website Navigational Information through automated means, including through the use of cookies. These technologies may recognize you across the different devices you use, such as a desktop or laptop computer, smartphone or tablet. Third parties use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other Websites or mobile applications on any of your devices. This process also helps us manage and track the effectiveness of our marketing efforts. Third parties, with whom the Company partners to provide certain features on our Websites or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. To manage the use of targeting or advertising cookies on the Websites, consult your individual browser settings for cookies. To lear how to manage privacy and storage settings for Flash cookies, click https://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager.html#117118 . Various browsers may also offer their own management tools for removing HTML5 local storage.
+The Company sometimes uses cookies delivered by third parties to show you ads for the Company products and services that we think may interest you on any devices you may use and to track the performance of the Company advertisements. For example, in these cases, cookies remember information such as which browsers have visited the Company’s Websites. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after the Company receives it. If the Company is using one of its own cookie-related products on our own Website, then a cookie related to ads may appear on our Website under the Company or one of our affiliated company's name. The Company also contracts with third-party advertising networks that collect IP addresses and other information from Web beacons (see below) on the Company’s Websites and Services, from emails, and on third-party Websites. Ad networks follow your online activities over time and across different sites or other online services by collecting Website Navigational Information through automated means, including through the use of cookies. These technologies may recognize you across the different devices you use, such as a desktop or laptop computer, smartphone or tablet. Third parties use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other Websites or mobile applications on any of your devices. This process also helps us manage and track the effectiveness of our marketing efforts. Third parties, with whom the Company partners to provide certain features on our Websites or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. To manage the use of targeting or advertising cookies on the Websites, consult your individual browser settings for cookies. To lear how to manage privacy and storage settings for Flash cookies, click https://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager.html#117 118 . Various browsers may also offer their own management tools for removing HTML5 local storage.
 
-_Do Not Track_.
+Do Not Track.
 
-Currently, various browsers — including Internet Explorer, Firefox, and Safari — offer a “do not track” or “DNT” option that relies on a technology known as a DNT header, which sends a signal to Websites’ visited by the user about the user’s browser DNT preference setting. The Company does not currently commit to responding to browsers’ DNT signals with respect to the Company’s Websites, in part, because no common industry standard for DNT has been adopted by industry groups, technology companies or regulators, including no consistent standard of interpreting user intent. The Company takes privacy and meaningful choice seriously and will make efforts to continue to monitor developments around DNT browser technology and the implementation of a standard.
+Currently, various browsers — including Internet Explorer, Firefox, and Safari — offer a “do not track” or “DNT” option that relies on a technology known as a DNT header, which sends a signal to Websites’ visited by the user about the user's browser DNT preference setting. The Company does not currently commit to responding to browsers' DNT signals with respect to the Company's Websites, in part, because no common industry standard for DNT has been adopted by industry groups, technology companies or regulators, including no consistent standard of interpreting user intent. The Company takes privacy and meaningful choice seriously and will make efforts to continue to monitor developments around DNT browser technology and the implementation of a standard.
 
-_Usage Data._
+Usage Data.
 
 As it is true of most websites, we gather certain information automatically in connection with the use of the Website by individual users. This information may include IP address, device and application identification numbers, browser type, location, the pages and files viewed, operating system and system configuration information and date/time stamps associated with your usage. This information is used to analyze overall trends, to help us provide and improve our Websites and to guarantee their security and continued proper functioning. In addition, we gather certain information automatically as part of your use of the Company cloud products and services, specifically for Assembla and Travis CI entities. This information may include IP address (or proxy server), device and application identification numbers, location, browser type, internet service provider, the pages and files viewed, searches and other actions you take, operating system and system configuration information and date/time stamps associated with your usage. This information is used to maintain the security of the Services, to provide necessary functionality, as well as to improve performance of the Services, to assess and improve customer and user experience of the Services, to review compliance with applicable usage terms, to identify future opportunities for development of the Services, to assess capacity requirements, to identify customer opportunities and for the security of the Company generally (in addition to the security of our products and Services). Some of the device and usage data collected within the Services, whether alone or in conjunction with other data, could be personally identifying to you. Please note that this usage data is primarily used for the purposes of identifying the uniqueness of each user logging on (as opposed to specific individuals), apart from where it is strictly required to identify an individual for security purposes or as required as part of our provision of the Services to our customers (where we act as a processor).
 
 8\. Links to Other Websites and Public Forums
 
-Our Websites contain links to information on other websites. We do not have any control over these other websites, and therefore we cannot be responsible for the protection and privacy of any information that you provide while visiting those websites. Those websites are not governed by this Privacy Policy, and if you have questions about how a website uses your information, consult that website’s privacy statement. Portions of this website may also make chat rooms, forums, message boards, and/or news groups available to visitors. Please remember that any information that is disclosed in these areas becomes public information and exercise caution when deciding to disclose any personal information.
+Our Websites contain links to information on other websites. We do not have any control over these other websites, and therefore we cannot be responsible for the protection and privacy of any information that you provide while visiting those websites. Those websites are not governed by this Privacy Policy, and if you have questions about how a website uses your information, consult that website's privacy statement. Portions of this website may also make chat rooms, forums, message boards, and/or news groups available to visitors. Please remember that any information that is disclosed in these areas becomes public information and exercise caution when deciding to disclose any personal information.
 
 9\. For EU and UK Individuals: Your Rights Under GDPR
 
-If you reside or otherwise find yourself in the territory of Europe or in the UK, we are committed to facilitate the exercise of your rights granted by the EU General Data Protection Regulation and any applicable UK data protection regulation. Otherwise, you can contact us at compliance@idera.com at any time to discuss your privacy concerns. Privacy rights under the EU General Data Protection Regulation include:
+If you reside or otherwise find yourself in the territory of Europe, we are committed to facilitate the exercise of your rights granted by the EU General Data Protection Regulation. Otherwise, you can contact us at compliance@idera.com at any time to discuss your privacy concerns. privacy rights under the eu general data protection regulation include
 
-_Transparency and the right to information._ Through this policy we explain how we use and share your information. However, if you have questions or concerns you can contact us any time.
+Transparency and the right to information. Through this policy we explain how we use and share your information. However, if you have questions or concerns you can contact us any time.
 
-_Right of access, objection, restriction of processing, erasure, and portability. You also have the right to withdraw your consent at any time_ when we process your personal data based on your consent. To exercise these rights, please contact us. Requests to access, change, or delete your information will be addresses within a reasonable timeframe. Please note that if you have registered for an account with the Company, you may generally update your user settings, profile, organization’s settings or event registration by logging into the applicable website or Services with your username and password and editing your settings or profile.
+Right of access, objection, restriction of processing, erasure, and portability. You also have the right to withdraw your consent at any time when we process your personal data based on your consent. To exercise these rights, please contact us. Requests to access, change, or delete your information will be addresses within a reasonable timeframe. Please note that if you have registered for an account with the Company, you may generally update your user settings, profile, organization’s settings or event registration by logging into the applicable website or Services with your username and password and editing your settings or profile.
 
-_Right to opt-out to direct marketing_. You have the right to opt-out at any time to receiving marketing materials from us by following the opt-out instructions in our commercial emails, by contacting us, or by adjusting your preferences under your profile details on the Company Websites. Please note that we reserve the right to send you other communications, including service announcements and administrative messages relating to your account, without offering you the opportunity to opt out of receiving them.
+Right to opt-out to direct marketing. You have the right to opt-out at any time to receiving marketing materials from us by following the opt-out instructions in our commercial emails, by contacting us, or by adjusting your preferences under your profile details on the Company Websites. Please note that we reserve the right to send you other communications, including service announcements and administrative messages relating to your account, without offering you the opportunity to opt out of receiving them.
 
-_Right not to be subject to an automated decision, including profiling_. We do not make automated decisions using your Data in our Websites or in our Services. We use cookies and similar technologies on our Company Websites to personalize your experience on the Company Websites and recommending software products and services that may be of interest to you. For additional information see Section 7 above.
+Right not to be subject to an automated decision, including profiling. We do not make automated decisions using your Data in our Websites or in our Services. We use cookies and similar technologies on our Company Websites to personalize your experience on the Company Websites and recommending software products and services that may be of interest to you. For additional information see Section 7 above.
 
-_Right to lodge a complaint with a supervisory authority_. If you consider that the processing of your personal data infringes your privacy rights according to the General Data Protection Regulation, you have the right to lodge a complaint with a supervisory authority, in the member state of your habitual residence, place of work, or place of the alleged infringement. Contact details for the EU data protection authorities can be found at https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index\_en.htm.
+Right to lodge a complaint with a supervisory authority. If you consider that the processing of your personal data infringes your privacy rights according to the General Data Protection Regulation, you have the right to lodge a complaint with a supervisory authority, in the member state of your habitual residence, place of work, or place of the alleged infringement. Contact details for the EU data protection authorities can be found at https://ec.europa.eu/justice/article-29/structure/data-protection- authorities/index\_en.htm.
 
 10\. For EU, UK and Swiss Individuals: Privacy Shield Notice for Personal Data Transfers to the United States
 
@@ -212,13 +190,13 @@ In compliance with the Privacy Shield Principles, the Company commits to resolve
 
 Please note that the Company also receives some data via other compliance mechanisms, including data processing agreements based on the EU Standard Contractual Clauses.
 
-If your complaint involves human resources data transferred to the United States from the EU, UK and/or Switzerland in the context of the employment relationship, and the Company does not address it satisfactorily, the Company commits to cooperate with the panel established by the EU data protection authorities (DPA Panel), the UK DPA Panel and/or the Swiss Federal Data Protection and Information Commissioner, as applicable and to comply with the advice given by the DPA panel and/or Commissioner, as applicable with regard to such human resources data. To pursue an unresolved human resources complaint, you should contact the state or national data protection or labor authority in the appropriate jurisdiction. Complaints related to human resources data should not be addressed to the BBB EU PRIVACY SHIELD.
+If your complaint involves human resources data transferred to the United States from the EU, UK and/or Switzerland in the context of the employment relationship, and the Company does not address it satisfactorily, the Company commits to cooperate with the panel established by the EU data protection authorities (DPA Panel), the UK DPA Panel and/or the Swiss Federal Data Protection and Information Commissioner, as applicable and to comply with the advice given by the DPA panel and/or Commissioner, as applicable with regard to such human resources data. To pursue an unresolved human resources complaint, you should contact the state or national data protection or labor authority in the appropriate jurisdiction. Complaints related to human resources data should not be addressed to the BBB EU PRIVACY SHIELD.
 
-Contact details for the EU data protection authorities can be found at http://ec.europa.eu/justice/data-protection/bodies/authorities/index\_en.htm
+Contact details for the EU data protection authorities can be found at http://ec.europa.eu/justice/data-protection/bodies/authorities/index\_en.htm
 
-For more information about Idera Human Resource data and the Human Resource Privacy Policy, please contact humanresources@idera.com. As an employee, you can always review Idera Human Resource Privacy Policy here .
+For more information about Idera Human Resource data and the Human Resource Privacy Policy, please contact humanresources@idera.com. As an employee, you can always review Idera Human Resource Privacy Policy here.
 
-If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See Privacy Shield Annex 1 at https://www.privacyshield.gov/article?id=ANNEX-I-introduction.
+If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See Privacy Shield Annex 1 at https://www.privacyshield.gov/article?id=ANNEX-I-introduction.
 
 The Company is subject to the investigatory and enforcement powers of the US Federal Trade Commission. The Company may be required to disclose personal information that we handle under the Privacy Shield in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
@@ -240,7 +218,7 @@ When you decide to delete certain information in your account, we will fulfill y
 
 14\. Unsubscribe
 
-You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may unsubscribe here or by contacting us at any time at compliance@idera.com . Please note that opting out of marketing communications does not opt you out of receiving important business communications related to your current relationship with us, such as communications about your subscriptions or event registrations, service announcements or security information.
+You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may unsubscribe here or by contacting us at any time at compliance@idera.com. Please note that opting out of marketing communications does not opt you out of receiving important business communications related to your current relationship with us, such as communications about your subscriptions or event registrations, service announcements or security information.
 
 15\. Information about International Transfers
 
@@ -264,88 +242,10 @@ Attn: Legal Department
 Suite 700  
 Houston, Texas 77092
 
-Sencha.com
-
-US: 1 (800) 212-2802
-
-info@sencha.com
-
-*   Products
-    *   Ext JS
-    *   ExtAngular
-    *   ExtReact
-    *   ExtWebComponents
-    *   GXT
-    *   Sencha Test
-    *   Stencils
-
-*   Services
-    *   Professional Services
-    *   Training
-    *   Partners
-
-*   Support
-    *   Documentation
-
-*   Company
-    *   Overview
-    *   Case Studies
-    *   Blog
-    *   In the News
-    *   Press Releases
-    *   Careers
-    *   Contact Us
-
-*   Resources
-    *   Resource Center
-    *   Webinars
-    *   Docs
-    *   Examples
-
-*   Store
-    *   Buy Now
-    *   Pricing
-    *   Licensing
-    *   Ordering Information
-    *   Authorized Resellers
-
-© 2020 Sencha Inc. All rights reserved.
-
-*   GDPR
-*   Privacy Policy
-*   Terms of Use
-*   Copyright Infringement Notification
+*   About Us
+*   News
+*   Careers
 *   Contact Us
-
-⊖ Sign up for Sencha News
-
-*   First Name\*
-*   Last Name\*
-*   Company\*
-*   Email\*
-*   Country\*Select Country\*United StatesCanadaUnited KingdomGermanyFranceNetherlandsSwedenSwitzerlandJapanSouth KoreaAustraliaAfghanistanAland IslandsAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua and BarbudaArgentinaArmeniaArubaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBosnia and HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBrunei DarussalamBulgariaBurkina FasoBurundiCambodiaCameroonCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (Keeling) IslandsColombiaComorosCongo, Democratic Republic of theCongo, Republic of theCook IslandsCosta RicaCroatiaCyprusCzech RepublicCôte d'IvoireDenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland Islands (Malvinas)Faroe IslandsFijiFinlandFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea-BissauGuyanaHaitiHeard Island and Mcdonald IslandsHoly See (Vatican City State)HondurasHong KongHungaryIcelandIndiaIndonesiaIraqIrelandIsle of ManIsraelItalyJamaicaJerseyJordanKazakhstanKenyaKiribatiKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyan Arab JamahiriyaLiechtensteinLithuaniaLuxembourgMacaoMacedoniaMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesia Federated StatesMoldovaMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlands AntillesNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorthern Mariana IslandsNorwayOmanPakistanPalauPalestinian Territory OccupiedPanamaPapua New GuineaParaguayPeruPhilippinesPitcairnPolandPortugalPuerto RicoQatarRomaniaRussian FederationRwandaRéunionSaint BarthélemySaint Helena Ascension and Tristan Da CunhaSaint Kitts and NevisSaint LuciaSaint MartinSaint Pierre and MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSao Tome And PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia and The South Sandwich IslandsSpainSri LankaSurinameSvalbard and Jan MayenSwazilandTaiwanTajikistanTanzaniaThailandTimor-LesteTogoTokelauTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTurks and Caicos IslandsTuvaluUgandaUkraineUnited Arab EmiratesUruguayUzbekistanVanuatuVenezuelaVietnamVirgin Islands, BritishVirgin Islands, U.S.Wallis and FutunaWestern SaharaYemenZambiaZimbabwe
-*   City\*
-*   Postal Code\*
-*   State\*Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyomingArmed Forces AmericasArmed Forces EuropeArmed Forces Pacific
-*   Province/Territory\*Select Province/Territory\*AlbertaBritish ColumbiaManitobaNew BrunswickNewfoundland &. LabradorNorthwest TerritoriesNova ScotiaNunavutOntarioPrince Edward IslandQuebecSaskatchewanYukon
-*   State\*Select State\*AguascalientesBaja CaliforniaBaja California SurChihuahuaColimaCampecheCoahuilaChiapasFederal DistrictDurangoGuerreroGuanajuatoHidalgoJaliscoMéxico StateMichoacánMorelosNayaritNuevo LeónOaxacaPueblaQuerétaroQuintana RooSinaloaSan Luis PotosíSonoraTabascoTlaxcalaTamaulipasVeracruzYucatánZacatecas
-*   State\*Select State\*AcreAlagoasAmazonasAmapáBahiaCearáDistrito FederalEspírito SantoGoiásMaranhãoMinas GeraisMato Grosso do SulMato GrossoParáParaíbaPernambucoPiauíParanáRio de JaneiroRio Grande do NorteRondôniaRoraimaRio Grande do SulSanta CatarinaSergipeSão PauloTocantins
-*   \*
-    *    I have read, understand and agree to Sencha’s terms and conditions and privacy statement.
-*   \*
-    
-    *    I agree to receive Sencha marketing communications via email and phone calls.
-    
-      
-    You can always update your communications preferences later.  
-      
-    Sencha, Inc. may share your information with its parent company, Idera, Inc., its affiliates globally and its partners. For further details on how your data is used and stored, please review our Sencha Privacy Policy.
-*   CommentsThis field is for validation purposes and should be left unchanged.
-
-This iframe contains the logic required to handle Ajax powered Gravity Forms. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K6P32Q9" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
-
-Blog
-
-Page
-
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1882987898627194&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=52303&amp;fmt=gif">.
+*   Media Assets
+*   Legal
+*   2020 © Idera, Inc. All rights reserved.
