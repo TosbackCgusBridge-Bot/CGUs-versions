@@ -124,7 +124,7 @@ Play video: Find Out More About the Future of Gaming Close video: Find Out More 
 
 New PlayStation games coming this week:  http://play.st/2WPm716  Resident Evil 3, Persona 5 Royal, and more pic.twitter.com/6oN7JIXtMM
 
-4 days ago View Tweet
+5 days ago View Tweet
 
 New Wireless Headphones
 
