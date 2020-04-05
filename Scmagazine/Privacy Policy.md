@@ -226,17 +226,17 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   New Marriott data breach impacts 5.2 million guests
-    *   SC Media’s complete coverage: Threat and Preparation
-    *   Maze ransomware attackers extort vaccine testing facility
-    *   Hijacked routers and attempted WHO hack highlight latest COVID-19 attacks
-    *   Coalition of nonprofits push to secure remote workforce
+    *   Mirai variant Mukashi searching out Zixel NAS devices
+    *   Upgraded malicious Word, Excel attachments targeting WFH employees
+    *   Unpatched Windows Zero-Day flaws exploited, Microsoft says
+    *   14 million Key Ring users exposed in open database
+    *   Microsoft defends health care orgs, Mozilla funds innovation to fight COVID-19
     
-    *   New Milum trojan used against Mid-Eastern targets
-    *   Coalition of nonprofits push to secure remote workforce
-    *   FBI warns of Kwampirs attacks, COVID-19 scams
-    *   Open redirect on Dept. of HHS website benefits COVID-19 phishing scam
-    *   Canon breach exposes personal data of current, former GE employees, beneficiaries
+    *   Default exploited by 'Zoom bombers' could by used by cybercrooks
+    *   Mirai variant Mukashi searching out Zixel NAS devices
+    *   Privacy in critical care after telehealth demands jump
+    *   Data dump contains PII on over 4.9M Georgians. origin unknown
+    *   As unemployment claims soar, cyber workforce remains strong
     
     *   Microsoft defends health care orgs, Mozilla funds innovation to fight COVID-19
     *   Cure worse than disease? Patching riskier under COVID-19 work-from-home policies
