@@ -50,8 +50,8 @@ View more results
     *   Zombie Games
     
     All Action Best Games
+    *   Avatar: Aang On!
     *   Subway Clash 3D
-    *   Tank Attack: Army Game
     *   Apple Shooter
     *   Slither.io
     *   CS Portable
@@ -59,10 +59,10 @@ View more results
     *   Sniper Reloaded
     *   Short Life
     *   Super Buddy Kick
-    *   Bomb It 6
     *   Gun Builder 2
-    *   Mr. Bullet
+    *   Bomb It 6
     *   Army Force Strike: 3D Shooting Game Online Multiplayer
+    *   Mr. Bullet
     *   Mexico Rex
 *   Adventure
     
@@ -87,12 +87,12 @@ View more results
     *   Troll Face Quest: Horror 2
     *   Adam and Eve 4
     *   While We Sleep: Slendrina is HERE
-    *   World Crafts
     *   Subway Surf
+    *   World Crafts
     *   Bob the Robber 4: Season 2 Russia
     *   Fox Simulator
+    *   Kogama: The Elevator
     *   Dumb Ways to Die: Original
-    *   Chrome Dino
 *   Puzzle
     
     Top Categories
@@ -114,14 +114,14 @@ View more results
     *   Block Wood Puzzle
     *   Jewelry Match
     *   Bubble Shooter
+    *   Number Crunch: Multiplication
     *   Line Puzzle
     *   Mahjong Connect Classic
     *   3D Mahjong: No Time Limit
-    *   Jigsaw Puzzle: Cute Cartoon Bears
-    *   Mahjong Link
     *   Free the Key
-    *   TenTrix
+    *   Mahjong Link
     *   Farm Connect 2
+    *   TenTrix
 *   Girls
     
     Top Categories
@@ -142,14 +142,14 @@ View more results
     *   High School Breakup Drama
     *   Dark Chocolate Blackberry Cheesecake: Sara's Cooking Class
     *   Floral Real Life Manicure
-    *   Dove Prom Dolly Dress Up
     *   Ellie: Lifestyle Photographer
+    *   Dove Prom Dolly Dress Up
     *   Spring Break Besties
     *   Extreme Dental Emergency
     *   Hand Skin Doctor
+    *   Shoe Designer
     *   Ella: Hips Surgery
     *   Miraculous Hero Kiss
-    *   Shoe Designer
     *   Couples Autumn Outfits
 *   Racing
     
@@ -166,16 +166,16 @@ View more results
     *   Uphill Rush Games
     
     All Racing Best Games
-    *   Madalin Stunt Cars 2
     *   Off-Road Cycle 3D
+    *   Madalin Stunt Cars 2
+    *   Hill Racing Challenge
     *   Thug Racer
     *   City Car Stunts 2
     *   Russian Car Driver
-    *   Hill Racing Challenge
-    *   Lost Race: Car Game
     *   Formula Racer
-    *   Moto X3M 5: Pool Party
     *   Real Dog Racing Simulator
+    *   Moto X3M 5: Pool Party
+    *   Lost Race: Car Game
     *   Xcross Madness
     *   Horse Racing: Betting Game
     *   Cars 3D
@@ -195,19 +195,19 @@ View more results
     
     All Sports Best Games
     *   Penalty Shooters 2: Football Game
+    *   Off-Road Cycle 3D
     *   Ultimate Cricket
     *   Table Tennis Pro
-    *   Off-Road Cycle 3D
     *   Ultimate Boxing
-    *   Basketball Stars 2019
     *   Pool Clash: 8 Ball Billiards Snooker
+    *   Basketball Stars 2019
     *   Stunt Skateboard 3D
     *   Subway Surf
     *   Xcross Madness
     *   Horse Racing: Betting Game
     *   Football Masters: Euro 2020
-    *   Swimming Pro: Race Game
     *   Toon Cup 2016: Cartoon Game
+    *   Swimming Pro: Race Game
 *   More
     
     *   Multiplayer
