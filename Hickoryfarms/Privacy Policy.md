@@ -1,4 +1,4 @@
-close dialogFree shipping ends today! Order by 3:00PM ET14hours:09minutes:13secondsShop Nowclose dialog close
+close
 
 *   Gift Baskets
     
@@ -10,7 +10,6 @@ close dialogFree shipping ends today! Order by 3:00PM ET14hours:09minutes:13seco
     *   California Gift Baskets
     
     Occasions*   Easter Gifts
-    *   Spring Gifts
     *   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
@@ -77,8 +76,7 @@ close dialogFree shipping ends today! Order by 3:00PM ET14hours:09minutes:13seco
     
     View All Categories Shop by Category*   Easter Gifts
     
-    Occasions*   Spring Gifts
-    *   Birthday Gifts
+    Occasions*   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
     *   Thinking of You
@@ -92,7 +90,7 @@ close dialogFree shipping ends today! Order by 3:00PM ET14hours:09minutes:13seco
     *   Sympathy GiftsMost Popular Premium Wine Gifts
 *   Sale
 
-1.800.753.8558 Business Gifts Free standard shipping on select gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation close
+1.800.753.8558 Business Gifts Free standard shipping on select gifts extended! Order by 3pm EST tomorrow!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation close
 
 *   Gift Baskets
     
@@ -104,7 +102,6 @@ close dialogFree shipping ends today! Order by 3:00PM ET14hours:09minutes:13seco
     *   California Gift Baskets
     
     Occasions*   Easter Gifts
-    *   Spring Gifts
     *   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
@@ -171,8 +168,7 @@ close dialogFree shipping ends today! Order by 3:00PM ET14hours:09minutes:13seco
     
     View All Categories Shop by Category*   Easter Gifts
     
-    Occasions*   Spring Gifts
-    *   Birthday Gifts
+    Occasions*   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
     *   Thinking of You
@@ -319,4 +315,4 @@ Find A Store
 
 *   Find A Store
 
-© 2020 All Rights Reserved Privacy Policy Terms Of Use Site Map Compliance Play IconFeedback close dialogFree shipping ends today! Order by 3:00PM ET14hours:09minutes:13secondsShop Nowclose dialog
+© 2020 All Rights Reserved Privacy Policy Terms Of Use Site Map Compliance Play IconFeedback
