@@ -1,4 +1,4 @@
-Sales: **855.712.8729**   Support: **800.675.7430**
+Sales: **855.856.1516**   Support: **800.675.7430**
 
 Sign Up Login
 
@@ -33,11 +33,11 @@ Sign Up Login
 *   Login
 *   Sign Up
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1833255713665121&amp;ev=PageView&amp;noscript=1">. VANCO PAYMENT SOLUTIONS – PRIVACY POLICY
+VANCO PAYMENT SOLUTIONS – PRIVACY POLICY
 
-Last updated: April 5, 2019
+Last updated: April 6, 2020
 
-Vanco Companies (“Vanco,” “we,” or “us”) understands the importance of your privacy and we take our responsibility to protect your information seriously. This Privacy Policy (the “Policy”) describes the types of information that we collect from you, how we use and share that information, and certain choices you may have regarding your information. This Policy applies to information we collect from you through your use of our services, including ASAP, Charms, PT Avenue, RevTrak WebStore, ConnexPoint™, RegWerks, Vanco Events, GivePlus, GivePlus Mobile, GivePlus Text, GivePlus Kiosk, GivePlus Swipe, and PMX (the “Services”). It also applies to information we collect from you through our website(s), direct communications and inquiries, or otherwise.
+Vanco Companies (“Vanco,” “we,” or “us”) understands the importance of your privacy and we take our responsibility to protect your information seriously. This Privacy Policy (the “Policy”) describes the types of information that we collect from you, how we use and share that information, and certain choices you may have regarding your information. This Policy applies to information we collect from you through your use of our services, including ASAP, Charms, PT Avenue, RevTrak WebStore, ConnexPoint™, RegWerks, Vanco Events, Vanco Mobile, GivePlus, GivePlus Mobile, GivePlus Text, GivePlus Kiosk, GivePlus Swipe, and PMX (the “Services”). It also applies to information we collect from you through our website(s), direct communications and inquiries, or otherwise.
 
 Please read this Policy carefully before using our website or Services. By using our website and Services, you agree to the terms of this Policy and our collection, use, and disclosure of information as described below. If you do not agree with the practices described in this Policy, you may choose not to use the website or our Services. Your use of our Services is also subject to any applicable Terms of Service or other agreements.
 
@@ -185,7 +185,7 @@ Bloomington, MN 55431
 
 **CALL US**
 
-**Sales:** 855.712.8729
+**Sales:** 855.856.1516
 
 **Support:** 800.675.7430
 
@@ -229,9 +229,9 @@ CALL US
 
 **Support:** (800) 675-7430
 
-**Sales:** (855) 712-8729
+**Sales:** (855) 856-1516
 
 **Login**
 
 Copyright © 2020 Vanco. All rights reserved.  
-Vanco is a registered ISO of Wells Fargo Bank, N.A., Concord, CA Privacy Policy | Terms and Conditions PCI Certified <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCFS6FD" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+Vanco is a registered ISO of Wells Fargo Bank, N.A., Concord, CA Privacy Policy | Terms and Conditions PCI Certified <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCFS6FD" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1833255713665121&amp;ev=PageView&amp;noscript=1">.
