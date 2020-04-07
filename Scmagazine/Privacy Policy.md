@@ -226,23 +226,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   How to Protect Your Applications From Sophisticated Bot Attacks
-    *   Best Buy gift cards, USB drive used to spread infostealer
-    *   Jupiter, Fla., fighting REvil/Sodinokibi ransomware and Coronavirus
-    *   Microsoft adds to Edge browser security
-    *   Upgraded malicious Word, Excel attachments targeting WFH employees
+    *   FSB contractor breach exposes secret cyber weapons program leveraging IoT vulnerabilities
+    *   2020 Vision: Cybersecurity through a business lens
+    *   Tupperware site hacked with credit card skimmer
+    *   Maze ransomware group claims Chubb as victim
+    *   Hijacked routers and attempted WHO hack highlight latest COVID-19 attacks
     
-    *   SC Product Reviews: SIEM
-    *   Coalition of nonprofits push to secure remote workforce
-    *   Cybercriminals targeting Zoom, Google and Teams domains
-    *   Apple releases more than 30 security patches
-    *   APT41 activity down during China COVID-19 quarantines. massive campaign undeterred
-    
-    *   Microsoft defends health care orgs, Mozilla funds innovation to fight COVID-19
     *   Cure worse than disease? Patching riskier under COVID-19 work-from-home policies
-    *   Jupiter, Fla., fighting REvil/Sodinokibi ransomware and Coronavirus
-    *   COVID-19 hurts travel and event fraudsters, but buoys online carding schemes
-    *   As unemployment claims soar, cyber workforce remains strong
+    *   14 million Key Ring users exposed in open database
+    *   FBI warns of COVID-19 phishing scams promising stimulus checks, vaccines
+    *   Working From Home in the Age of COVID-19
+    *   Hijacked routers and attempted WHO hack highlight latest COVID-19 attacks
+    
+    *   OGUsers hacked again, user records uploaded by competitor
+    *   Rush to adopt online learning under COVID-19 exposes schools to cyberattacks
+    *   COVID-19 by the numbers
+    *   Mozilla patches two Firefox vulnerabilities active in the wild
+    *   NYC schools step away as Zoom sets remediation plan
 
 Back to Top
 
@@ -275,8 +275,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
