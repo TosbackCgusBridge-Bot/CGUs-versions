@@ -13,15 +13,14 @@ A Message to Our Movie Fans Read More Gift Cards | Offers | Sign In Sign Out
     
     Coming Soon
     
-    *   Trolls World Tour (2020)
     *   My Spy (2020)
     *   Bad Trip (2020)
     *   Run Sweetheart Run (2020)
     *   The High Note (2020)
-    *   The SpongeBob Movie: Sponge on the Run
     *   The Green Knight (2020)
-    *   Artemis Fowl (2020)
     *   Irresistible (2020)
+    *   Soul (2020)
+    *   Tenet
     *   See All Coming Soon
     
     Explore More
@@ -475,6 +474,10 @@ Offers
 *   FandangoNOW's Ultimate 4K Sweeps!
     
     Rent or buy your favorite movies &. TV for a chance to win a complete Roku home entertainment system and more. LEARN MORE
+    
+*   Receive $15 to Stream Movies
+    
+    When you buy $30 of Monster between March-June. SEE DETAILS
     
 
 New + Coming soon
