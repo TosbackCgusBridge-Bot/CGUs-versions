@@ -1,11 +1,11 @@
 EXTRA 30% OFF $100 or more with code: 4BUNNY DetailsEnable Accessibility
 
-*   Sign InSign InCreate Account
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed.Sign InSign InCreate Account
     *   Track My Orders
     *   My Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
-*   New &. Now
+*   Staying At Home
 *   Home &. Lifestyle
 *   Women
 *   Men
@@ -17,80 +17,97 @@ EXTRA 30% OFF $100 or more with code: 4BUNNY DetailsEnable Accessibility
 *   Salon
 *   Sephora Beauty
 
-WFH WomenWFH MenWFH TechFood storageSlow cookersPressure cookersCookwareWomenMenGirlsBoys 
+WFH WomenWFH MenWFH TechWFH ToysFun for the whole familyWin at staying in | select styles
 
-*   Shop bras
+*   Shop all games
 
-*   Women’s Panties
+*   Karaoke
     
-*   Men's basics
+*   Puzzles\*
     
-*   Girls' basics
+*   Kids' arts &. crafts\*
     
-*   Boys' basics
+*   Kids' learning toys\*
     
 
-Shop brasTowelsSheetsBlanketsBed pillowsSTARTING AT $8Sephora Collection Instant Masksselect styles | Excluded from coupons.$19.99Sharper Image hot &. cold aromatherapyneck &. shoulder wrap | reg. $29$29.99Conair foot spa with bubbles &. heatreg. $4025-40% OFFNailcare**$5.99-$7.12** | reg. $9.50-$9.99Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken. Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+Shop all gamesSave on backyard fun essentials
 
-*   $899after couponwas $60 Arizona Womens Galen Block Heel Zip Booties(351)
-*   $524after couponwas $13 a.n.a-Womens Round Neck Short Sleeve T-Shirt(18)
-*   $599after couponwas $13 a.n.a Womens V Neck Sleeveless Tank Top(8)
+*   Shop swimwear
+
+*   Sprinklers
+    
+*   Outdoor toys
+    
+*   Kids' swimwear\*
+    
+*   Women's swimwear
+    
+*   Men's swim trunks
+    
+*   Sunscreen at Sephora inside JCPenney\*
+    
+
+Shop swimwearSheetsBed pillowsComfortersMattressesWomenMenGirlsBoysNikeChampionSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+†Buy one item at regular price, get a second item of equal or lesser value for free, while supplies last.  
+\*Select toys, select kids' swimwear and Sephora Excluded From Coupons  
+\*Additional offers and coupons do not apply to Levi’s®.  
+  
+  
+Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+
+*   $899 - $1799after couponwas $72 Xersion Water Resistant Lightweight Puffer Jacket(325)
+*   $719 - $1874after couponwas $40 Gloria Vanderbilt® Amanda Jeans(1523)
 *   $1499after couponwas $44 Worthington Womens Long Sleeve Open Front Cardigan(10)
-*   $3224after couponwas $74 Perceptions Short Sleeve Lace Fit &. Flare Dress(2)
-*   $1499after couponwas $40 Peyton &. Parker Short Sleeve Floral Sundress(2)
+*   $1499 - $6749after couponwas $60 - $200 400tc Wrinkle Guard Deep Pocket Sheet Set - JCPenney Home(2885)
+*   $2249 - $3750after couponPop Highbar Womens Sneakers(353)
+*   $6375 - $6775 sale
+    
+    was $85 - $90 | 24 - 25% offNike Air Max Motion 2 Womens Running Shoes(15)
 
 Sponsored Items
 
-*   BUY 3 GET 3 FOR FREE
-    
-    BUY MORE AND SAVE
-    
-    $1150
-    
-    Vanity Fair Beyond Comfort Knit High Cut Panty 13212(44)Add To Cart
-*   $1874after couponwas $34 Range Kleen 4-Pack Drip BowlsAdd To Cart
-*   $2999after couponwas $54 Lock &. Lock 4-pc. 7.6-cup Food ContainerAdd To Cart
-*   $2250after couponwas $40 Sealy® SafetyCase™ Protective Crib Mattress Encasement (1)Add To Cart
 *   $17999 sale
     
     was $300 | 40% offRachael Ray Create Delicious 11-Pc. Cookware Set(43)Add To Cart
-*   $54
+*   $2249after couponwas $44 Vanity Fair Beyond Comfort Wireless Comfort Full Figure Bra-71282(54)Add To Cart
+*   $2249after couponwas $40 Lock &. Lock 10-pc. Food ContainerAdd To Cart
+*   $2250after couponwas $40 Sealy® SafetyCase™ Protective Crib Mattress Encasement (1)Add To Cart
+*   $1874after couponwas $34 Range Kleen 4-Pack Drip BowlsAdd To Cart
+*   $1999
     
-    Donna Karan Cashmere Mist Body Creme(6)Add To Cart
+    Fisher-Price Laugh &. Learn Smart Stages Sis(48)Add To Cart
 *   $20610after couponGoogle Nest Hello Video Doorbell(354)
 *   $175after couponFarberware® Classic Series 15-pc. Stainless Steel Cookware Set(69)
-*   DOORBUSTER!
-    
-    $1599 sale
-    
-    was $19.99 | 20% offFisher-Price Laugh &. Learn Smart Stages Sis(48)Add To Cart
-*   $791 - $2249after couponwas $44 Lee® Sculpting Pull On Womens Mid Rise Slim Fit Jean(46)Add To Cart
+*   $2999after couponwas $58 Wrangler® Slim-Fit Premium Performance Cowboy-Cut Jeans(154)Add To Cart
+*   $2249after couponwas $44 Lee® Relaxed Fit Jeans(2284)Add To Cart
 *   $3999
     
     As Seen on TV Blue Diamond Ceramic 11" Non-Stick Square Griddle(21)Add To Cart
-*   $118
-    
-    Michael Kors Eau De Parfum Michael Kors(50)Add To Cart
 *   $56999 sale
     
     was $669 | 14% offDyson® V8 Animal Cord-Free Vacuum(178)
-*   $1124after couponUmbra Soap Dispenser(2)Add To Cart
 *   $4999
     
     Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill Pan(37)Add To Cart
+*   $74 - $120
+    
+    Donna Karan Cashmere Mist Eau De Parfum(236)Add To Cart
+*   $30
+    
+    Michael Kors Sexy Amber Rollerball(14)Add To Cart
+*   $11999 sale
+    
+    was $150 | 20% offVenice Pro Ceramic Nonstick 8" and 10" Open Frypan Set(14)Add To Cart
+*   $13999 sale
+    
+    was $240 | 41% offRachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set(192)Add To Cart
+*   $2249after couponwas $37 Range Kleen 4-Pk. Drip BowlAdd To Cart
 *   $33499 sale
     
     was $360 | 7% offBissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum(2279)
-*   $10999
-    
-    Step2 Up and Down Roller Coaster(329)
 *   $24999 sale
     
-    was $279.99 | 10% offSamsung Galaxy Active 2 40mm Womens Multi-Function Silver Tone Smart Watch-Sm-R830nzsaxar(23)Add To Cart
-*   $2249after couponwas $44 Vanity Fair Beyond Comfort Wireless Comfort Full Figure Bra-71282(54)Add To Cart
-*   $3999 sale
-    
-    was $70 | 42% offGreenPan Rio Non-Stick Frying Pan(1)
+    was $279.99 | 10% offSamsung Galaxy Active 2 40mm Womens Multi-Function Rose Goldtone Smart Watch-Sm-R830nzdaxar(23)Add To Cart
 
 Shop and Save at JCPenney
 
