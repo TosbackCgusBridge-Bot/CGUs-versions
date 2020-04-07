@@ -18,7 +18,7 @@ new icn messageflickr-free-ic3d pan white
 
 *   Explore New
 *   Trending
-*   Events Beta
+*   Events
 *   The Commons
 *   Flickr Galleries
 *   Flickr Blog
