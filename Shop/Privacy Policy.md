@@ -60,9 +60,7 @@ Lenovo Explore Close
         *   M630e Tiny
         *   Yoga A940 27” 4K Intel
         *   M90n Nano
-        *   510A Tower Intel
         *   T540 Gaming Tower
-        *   310s Tower AMD
         
         Sale
         
@@ -139,7 +137,7 @@ Lenovo Explore Close
         
         *   Software
         *   MS Office
-        *   Adobe
+        *   Security &. Antivirus
         *   Explore Software at Lenovo
         *   Lenovo Vantage
         *   Cloud Security Software
@@ -315,9 +313,9 @@ Lenovo Explore Close
         *   Trade In Program
         *   Outlet
         
-        SALE
+        Work From Home
         
-        Check out weekly deals on laptops, desktops, monitors, smart devices &. so much more!
+        Lenovo offers a wide range of essentials to keep you productive at home. Shop everything you need from office chairs to monitors &. more
         
 *   Phones
 *   Data Center
@@ -1195,4 +1193,14 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Launches comment card in new windowFeedbackCreated with sketchtool.CHAT NOW
+
+How can we help
+
+you today?
+
+×SALES CHATEXISTING ORDER HELPSALES CHATEXISTING ORDER HELPBUSINESS SALESBUSINESS SALES
+
+Call us: 1-855-253-6686
+
+Check order status >Technical support or Repair status >
