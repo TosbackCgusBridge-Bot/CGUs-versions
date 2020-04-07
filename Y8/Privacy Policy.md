@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  00:00
+New Games Next in  06:13
 
-*   By Date Next addition in 00:00
+*   By Date Next addition in 06:13
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more LIBRARY
 
-*   New Games Next in 00:00
-*   Best of new games 1221 games
-*   Most Popular Games 20691 games
+*   New Games Next in 06:13
+*   Best of new games 1219 games
+*   Most Popular Games 20681 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,387 games
-*   Driving &. Racing 6,338 games
-*   Strategy &. RPG 3,608 games
-*   Management &. Sim 4,257 games
-*   Thinking 12,545 games
+*   For Girls 24,389 games
+*   Driving &. Racing 6,337 games
+*   Strategy &. RPG 3,607 games
+*   Management &. Sim 4,259 games
+*   Thinking 12,540 games
 *   Action &. Adventure 14,517 games
-*   Sports 3,315 games
-*   Shooting 9,027 games
-*   Fighting 2,079 games
-*   Skill 10,920 games
-*   Arcade &. Classic 8,970 games
-*   Fun &. Crazy 4,796 games
+*   Sports 3,307 games
+*   Shooting 9,025 games
+*   Fighting 2,078 games
+*   Skill 10,913 games
+*   Arcade &. Classic 8,961 games
+*   Fun &. Crazy 4,795 games
 
 Play with friends  
 Powered by Y8 Account 142 Y8 Multiplayer Games 2,204 Y8 High Score Games 1,249 Y8 Achievements Games 874 Y8 Screenshots Games 1,660 Y8 Online Save Games 3,364 All Y8 Games Games Last Highscore:
 
-**1,701** points on Death Run 3D by GlitterGirlMusic
+**79,607** points on Hide Online by El\_Pro99
 
 Help us improve Bad translation? Social
 
@@ -85,49 +85,49 @@ Register Log in My Profile 0 points
 
 Game Categories
 
-*   Driving &. Racing 6,338 games
-*   For Girls 24,387 games
-*   Shooting 9,027 games
-*   Fighting 2,079 games
-*   Sports 3,315 games
-*   Strategy &. RPG 3,608 games
-*   Management &. Sim 4,257 games
+*   For Girls 24,389 games
+*   Driving &. Racing 6,337 games
+*   Sports 3,307 games
+*   Shooting 9,025 games
+*   Fighting 2,078 games
+*   Management &. Sim 4,259 games
+*   Strategy &. RPG 3,607 games
+*   Arcade &. Classic 8,961 games
+*   Fun &. Crazy 4,795 games
+*   Skill 10,913 games
 *   Action &. Adventure 14,517 games
-*   Fun &. Crazy 4,796 games
-*   Arcade &. Classic 8,970 games
-*   Thinking 12,545 games
-*   Skill 10,920 games
+*   Thinking 12,540 games
 
 Tags
 
-*   Baseball100
-*   Car2,746
-*   Dress Up15,986
-*   Escape1,459
-*   Makeover / Make-up3,625
+*   2 player1,240
+*   Dress Up15,988
 *   Shoot 'Em Up3,369
-*   Bowling120
-*   Flying2,278
-*   Upgrade5,132
-*   Fairy505
+*   Escape1,459
+*   Makeover / Make-up3,627
+*   Car2,744
 *   House206
 *   Hidden1,601
+*   Flying2,277
+*   Baseball100
+*   Fairy506
+*   Upgrade5,126
+*   Bowling120
 *   Y8 Account3,364
-*   Mouse Skill10,431
-*   Medieval381
+*   Skating242
+*   Mouse Skill10,429
 *   Knight380
-*   Decorate1,984
-*   Dungeon226
+*   Delivery240
+*   Decorate1,983
 *   Shark110
-*   Board460
-*   Frog172
-*   Princess1,772
+*   Banana89
+*   Board461
+*   Princess1,773
 *   Seduction82
-*   Water1,178
+*   Water1,177
 *   Aircraft929
 *   Firework43
 *   Grooming744
-*   Dice59
 
 × ×
 
