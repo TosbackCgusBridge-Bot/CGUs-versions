@@ -9,7 +9,7 @@
 *   Draft
 *   Scores
 
-NFL.com - Privacy Policy English
+NFL.com - Privacy Policy English French German Portuguese Spanish
 
 **Effective Date: August 16, 2001  
 Updated: January 1, 2020**  
