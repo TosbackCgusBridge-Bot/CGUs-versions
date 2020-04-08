@@ -1,4 +1,4 @@
-close
+close dialogYour time is running out to shop Easter gifts! 38hours:10minutes:01secondsEaster Giftsclose dialog close
 
 *   Gift Baskets
     
@@ -90,7 +90,7 @@ close
     *   Sympathy GiftsMost Popular Premium Wine Gifts
 *   Sale
 
-1.800.753.8558 Business Gifts Free standard shipping on select gifts extended! Order by 3pm EST tomorrow!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation close
+1.800.753.8558 Business Gifts Final Hours for Easter delivery! 2-day shipping ends 3pm EST tomorrow Skip to content Menu 0 Sign In Search Catalog Catalog Navigation close
 
 *   Gift Baskets
     
@@ -315,4 +315,4 @@ Find A Store
 
 *   Find A Store
 
-© 2020 All Rights Reserved Privacy Policy Terms Of Use Site Map Compliance Play IconFeedback
+© 2020 All Rights Reserved Privacy Policy Terms Of Use Site Map Compliance Play IconFeedback close dialogYour time is running out to shop Easter gifts! 38hours:10minutes:01secondsEaster Giftsclose dialog
