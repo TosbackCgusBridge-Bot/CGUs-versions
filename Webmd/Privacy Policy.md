@@ -1,4 +1,4 @@
-Sign up for our free WebMD Daily Newsletter Get doctor-approved health tips, news, and more. Subscribe By clicking "Subscribe," I agree to the WebMD Terms and Conditions and Privacy Policy. I also agree to receive emails from WebMD and I understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
+Skip to main content
 
 *   Coronavirus Update
 *   Check Your Symptoms
@@ -137,7 +137,7 @@ Sign up for our free WebMD Daily Newsletter Get doctor-approved health tips, new
     *   My Account
     *   Sign Out
 
-Share on FacebookShare on TwitterShare on PinterestWebMD Privacy PolicySubscribe
+WebMD Privacy PolicySubscribe
 
 About Us
 
