@@ -9,6 +9,34 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
+    *   Closet to Bathroom: Organization Up to 60% Off
+    *   Bedding Update: ED Ellen DeGeneres &. More
+    *   Weighted Blankets, Throws &. More Up to 50% Off
+    *   Kitchen Gadgets &. Storage from $15
+    *   Quirky &. Fun Towels, Coasters and More
+    *   Kate Spade New York Up to 60% Off
+    *   Kate Spade New York Accessories Up to 50% Off
+    *   Kate Spade New York Shoes Up to 50% Off
+    *   Kate Spade New York Clothing Up to 70% Off
+    *   Refresh Your Basics: Tops, Tees &. More from $20
+    *   Kate Spade New York Home &. More Up to 50% Off
+    *   Do + Be &. More Under $45
+    *   All-Day Cozy: PJs &. Slippers
+    *   KENDALL + KYLIE Swim &. More
+    *   Lingerie Faves ft. Real Underwear
+    *   Loafers We Love from $40
+    *   Aldo &. Call It Spring from $30
+    *   Levi's Men
+    *   Hair Care Essentials Starting at $15
+    *   K-Beauty ft. Asamo from $10
+    *   Girls' Spring Dresses Under $20
+    *   Volcom Men Under $30
+    *   To Boot New York
+    *   Tech Accessories Up to 60% Off
+    *   Our Exclusive Brands ft. Harper Canyon
+    *   Adrienne Vittadini Girls
+    *   At-Home Workout: Activewear
+    
     *   Ted Baker London Up to 65% Off
     *   Ted Baker London Men Up to 70% Off
     *   Ted Baker London Shoes
@@ -30,21 +58,16 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Moon and Jai Crystals &. Ritual Kits
     *   Cozy Night In: Journals, Candles &. More from $15
     *   Stylish Water Bottles &. Tumblers ft. S'well
-    *   Sunday Steals: Styles Up to 80% Off
     *   Pink Haley Handbags Up to 55% Off
     *   Rivka Friedman Jewelry Up to 65% Off
     *   Sandals Under $40 for Every Outfit
     *   Free Shipping: BergHOFF Up to 60% Off
     *   Men's Shoe Steals Up to 70% Off
     *   Marc Jacobs Bags, Shoes &. Accessories Up to 75% Off
-    *   HOKA ONE ONE
     
+    *   HOKA ONE ONE
     *   HOKA ONE ONE Men
-    *   Easy Glam: Maxi Dresses Incl. Plus &. Petites
-    *   Sports Bras &. Active Shorts Under $30
-    *   Utility, Windbreaker &. Rain Jackets ft. NOIZE
     *   Frozen, Paw Patrol &. More: Shoes from Josmo
-    *   Report
     *   Baby Essentials Up to 60% Off
     *   Get the Skinny Fit: Men's Denim Starting at $40
     *   1200 Thread Count Sheets Sets Up to 65% Off
@@ -52,58 +75,44 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Sleep Well: Kids' Pajamas Under $20
     *   Celebrity Strands Hair Extensions Up to 70% Off
     *   Own Your Spotlight: JOI Mirrors &. More
-    *   Habitual Up to 60% Off
-    *   Spring Denim Under $40
-    *   WILDFOX Up to 70% Off
-    *   Love Stitch Under $50
-    *   Franco Sarto
-    *   Melissa
-    *   Tank Top Styles from $14
-    *   Mustard Seed Under $50
-    *   '90s Vibes: Men's Flannels, Denim &. More
     *   Skin Care We Love ft. Perricone MD
-    *   Designer Sneakers ft. P448
     *   Free Shipping: Framed Art Up to 70% Off
-    *   Fresh Finds: Sandals &. More Up to 60% Off
-    *   Bruno Magli Watches Up to 60% Off
-    *   14K Gold Jewelry Steals
     *   '90s Vibes: Men's Shoes ft. FILA &. Skechers
-    
     *   Teami Blends Detox Teas &. Supplements
-    *   '90s Vibes: Kids' Shoes ft. Tommy Hilfiger
-    *   BCBG Girls &. More Up to 60% Off
     *   Free Shipping: Wall Decor, Pillows &. More from $20
-    *   Men's Flip-Flops from FLOJOS &. More
     *   Spa Accessories Up to 72% Off
     *   Premier Luxury Skin Care
-    *   Men's Oxfords ft. George Brown &. More
-    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Free Shipping: Sheet Sets Up to 80% Off
-    *   Hera Hair Tools &. More Starting at $10
-    *   So Gloss Nail Wraps
     *   Free Shipping: Pillows &. Throws Up to 75% Off
-    *   Shun Cutlery: Sora &. Kanso Collections
-    *   Brands That Give Back: Kids' Shoes
-    *   Kitchen Best Sellers Up to 60% Off
     *   Serta Cozy Comforters &. More Up to 60% Off
-    *   '90s Vibes: Sneakers &. More
     *   P448 Men Up to 60% Off
     *   Kitchen Organization Blowout
-    *   Linen Styles Up to 70% Off Incl. Plus &. Petites
-    *   At-Home Chic: Blouses &. More
-    *   Brands That Give Back: Women's Clothing
-    *   Drinkware That Gives Back: CAUS Tumblers &. More
-    *   Free Shipping: Faux Plants &. Planters
+    *   Brands That Give Back: Kids' Shoes
+    *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Brands That Give Back: Women's Shoes
-    *   Storage Containers &. Food Prep Gadgets from $15
 *   WomenShop Sale Events
     
+    *   Kate Spade New York Up to 60% Off
+    *   Kate Spade New York Accessories Up to 50% Off
+    *   Kate Spade New York Shoes Up to 50% Off
+    *   Kate Spade New York Clothing Up to 70% Off
+    *   Refresh Your Basics: Tops, Tees &. More from $20
+    *   Do + Be &. More Under $45
+    *   All-Day Cozy: PJs &. Slippers
+    *   KENDALL + KYLIE Swim &. More
+    *   Lingerie Faves ft. Real Underwear
+    *   Loafers We Love from $40
+    *   Aldo &. Call It Spring from $30
+    *   Hair Care Essentials Starting at $15
+    *   K-Beauty ft. Asamo from $10
+    *   At-Home Workout: Activewear
     *   Ted Baker London Up to 65% Off
     *   Ted Baker London Shoes
     *   Ted Baker London Handbags Up to 50% Off
     *   Ted Baker London Watches &. Accessories Up to 50% Off
     *   Tart &. More Incl. Plus
     *   Spring Styles Under $20 Incl. Plus &. Petites
+    
     *   Sapanyu Jewelry: Raw Gems, Stacking Rings &. More
     *   Abound &. BP. Shoes from $30
     *   Spring Trend Outerwear ft. Bagatelle
@@ -112,66 +121,41 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Full-Coverage Bras ft. Elomi
     *   Champion Shoes &. More
     *   Moon and Jai Crystals &. Ritual Kits
-    *   Sunday Steals: Styles Up to 80% Off
     *   Pink Haley Handbags Up to 55% Off
     *   Rivka Friedman Jewelry Up to 65% Off
     *   Sandals Under $40 for Every Outfit
     *   Marc Jacobs Bags, Shoes &. Accessories Up to 75% Off
     *   HOKA ONE ONE
-    *   Easy Glam: Maxi Dresses Incl. Plus &. Petites
-    *   Sports Bras &. Active Shorts Under $30
-    *   Utility, Windbreaker &. Rain Jackets ft. NOIZE
-    *   Report
     *   D24K by D'OR Skin Care
-    
-    *   Habitual Up to 60% Off
-    *   Spring Denim Under $40
-    *   WILDFOX Up to 70% Off
-    *   Love Stitch Under $50
-    *   Franco Sarto
-    *   Melissa
-    *   Tank Top Styles from $14
-    *   Mustard Seed Under $50
     *   Skin Care We Love ft. Perricone MD
-    *   Designer Sneakers ft. P448
-    *   Fresh Finds: Sandals &. More Up to 60% Off
-    *   Bruno Magli Watches Up to 60% Off
-    *   14K Gold Jewelry Steals
     *   Teami Blends Detox Teas &. Supplements
     *   Spa Accessories Up to 72% Off
     *   Premier Luxury Skin Care
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    *   Hera Hair Tools &. More Starting at $10
-    *   So Gloss Nail Wraps
-    *   '90s Vibes: Sneakers &. More
-    *   Linen Styles Up to 70% Off Incl. Plus &. Petites
-    *   At-Home Chic: Blouses &. More
-    *   Brands That Give Back: Women's Clothing
     *   Brands That Give Back: Women's Shoes
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
     *   Handbags
+    *   Jewelry
     *   Lingerie &. Shapewear
-    *   Watches
     *   Accessories
+    *   Watches
 *   MenShop Sale Events
     
+    *   Levi's Men
+    *   Volcom Men Under $30
+    *   To Boot New York
     *   Ted Baker London Men Up to 70% Off
     *   Ted Baker London Watches &. Accessories Up to 50% Off
     *   Ted Baker London Men's Shoes
+    
     *   Sandro Moscoloni
     *   Men's Shoe Steals Up to 70% Off
     *   HOKA ONE ONE Men
     *   Get the Skinny Fit: Men's Denim Starting at $40
-    
-    *   '90s Vibes: Men's Flannels, Denim &. More
-    *   Bruno Magli Watches Up to 60% Off
     *   '90s Vibes: Men's Shoes ft. FILA &. Skechers
-    *   Men's Flip-Flops from FLOJOS &. More
-    *   Men's Oxfords ft. George Brown &. More
     *   P448 Men Up to 60% Off
     
     Shop By Category
@@ -181,69 +165,75 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Watches
 *   KidsShop Sale Events
     
+    *   Girls' Spring Dresses Under $20
+    *   Our Exclusive Brands ft. Harper Canyon
+    *   Adrienne Vittadini Girls
     *   Joules Kids
     *   Warm Weather Ready: Kids' Styles Up to 60% Off
     *   Frozen, Paw Patrol &. More: Shoes from Josmo
     *   Baby Essentials Up to 60% Off
     *   Sleep Well: Kids' Pajamas Under $20
-    *   '90s Vibes: Kids' Shoes ft. Tommy Hilfiger
-    *   BCBG Girls &. More Up to 60% Off
     *   Brands That Give Back: Kids' Shoes
     
     Shop By Category
     *   Girls
     *   Girls' Shoes
-    *   Boys' Shoes
     *   Baby
+    *   Boys' Shoes
     *   Boys
     *   Toys
 *   HomeShop Sale Events
     
+    *   Closet to Bathroom: Organization Up to 60% Off
+    *   Bedding Update: ED Ellen DeGeneres &. More
+    *   Weighted Blankets, Throws &. More Up to 50% Off
+    *   Kitchen Gadgets &. Storage from $15
+    *   Quirky &. Fun Towels, Coasters and More
+    *   Kate Spade New York Home &. More Up to 50% Off
+    *   Tech Accessories Up to 60% Off
     *   Cozy Night In: Journals, Candles &. More from $15
     *   Stylish Water Bottles &. Tumblers ft. S'well
+    
     *   Free Shipping: BergHOFF Up to 60% Off
     *   1200 Thread Count Sheets Sets Up to 65% Off
     *   Free Shipping: Framed Art Up to 70% Off
     *   Free Shipping: Wall Decor, Pillows &. More from $20
     *   Free Shipping: Sheet Sets Up to 80% Off
     *   Free Shipping: Pillows &. Throws Up to 75% Off
-    
-    *   Shun Cutlery: Sora &. Kanso Collections
-    *   Kitchen Best Sellers Up to 60% Off
     *   Serta Cozy Comforters &. More Up to 60% Off
     *   Kitchen Organization Blowout
-    *   Drinkware That Gives Back: CAUS Tumblers &. More
-    *   Free Shipping: Faux Plants &. Planters
-    *   Storage Containers &. Food Prep Gadgets from $15
     
     Shop By Category
     *   Home Decor
-    *   Kitchen &. Tabletop
     *   Bedding
+    *   Kitchen &. Tabletop
     *   Cleaning &. Organization
+    *   Electronic &. Tech Accessories
     *   Rugs &. Doormats
+    *   Holiday Decorations
     *   Luggage &. Travel
+    *   Accent Furniture
     *   Outdoor Living
+    *   Bath
 *   BeautyShop Sale Events
     
+    *   Hair Care Essentials Starting at $15
+    *   K-Beauty ft. Asamo from $10
     *   Moon and Jai Crystals &. Ritual Kits
     *   D24K by D'OR Skin Care
     *   Celebrity Strands Hair Extensions Up to 70% Off
     *   Own Your Spotlight: JOI Mirrors &. More
+    
     *   Skin Care We Love ft. Perricone MD
     *   Teami Blends Detox Teas &. Supplements
-    
     *   Spa Accessories Up to 72% Off
     *   Premier Luxury Skin Care
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
-    *   Hera Hair Tools &. More Starting at $10
-    *   So Gloss Nail Wraps
     
     Shop By Category
     *   Skin Care
     *   Hair Care
     *   Tools &. Accessories
-    *   Nails
     *   Bath &. Body
     *   Makeup
     *   Men’s Grooming
