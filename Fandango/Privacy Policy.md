@@ -48,8 +48,8 @@ A Message to Our Movie Fans Read More Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Check Out This Behind the Scene Look at 'Bad Boys For Life' Read More
-    *   What to Watch on FandangoNOW: ‘Bad Boys for Life,’ ’Sonic the Hedgehog’ and April Fool’s Day Movies Read More
+    *   Check Out This Behind the Scenes Look at 'Bad Boys For Life' Read More
+    *   What to Watch on FandangoNOW: ‘Trolls World Tour,’ ‘Like a Boss’ and Recommendations for Easter and Passover Read More
     *   Know Before You Watch: ‘Trolls World Tour’ Read More
     
     Explore Content
@@ -478,6 +478,10 @@ Offers
 *   Receive $15 to Stream Movies
     
     When you buy $30 of Monster between March-June. SEE DETAILS
+    
+*   Premiering at home on Friday
+    
+    Get 50% off Dreamworks Animation when you pre-order on FandangoNOW today! PRE-ORDER NOW
     
 
 New + Coming soon
