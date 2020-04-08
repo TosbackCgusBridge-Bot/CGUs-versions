@@ -30,7 +30,7 @@ Lands' End Sign In menu
 
 Receive 40% off your order!
 
-code: MIST pin: PROMOTION DETAILS
+code: SING pin: PROMOTION DETAILS
 
 Customer Service Menu
 
