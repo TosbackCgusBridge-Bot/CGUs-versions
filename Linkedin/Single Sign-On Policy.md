@@ -56,7 +56,7 @@ Check out more information about LinkedIn features in Microsoft apps and servi
 
 Last updated: June 20, 2018
 
-Activate to view larger image.Was this answer helpful?YesNo
+Was this answer helpful?YesNo
 
 Sorry this article didn’t answer your question, we’d love to hear how we can improve it.
 
