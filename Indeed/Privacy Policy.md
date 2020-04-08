@@ -1,4 +1,4 @@
-HR Tech Privacy
+HR Tech Privacy Back to Indeed
 
 *   Home
 *   Our Sites
@@ -451,7 +451,7 @@ You may also use certain third-party sites or services that you link to from Ind
 
 Please see sections 11 of this Privacy Policy for information related to this.
 
-5\. Additional Uses and Disclosures of Non-Personal Data
+**5\. Additional Uses and Disclosures of Non-Personal Data**
 
 In addition to the other uses and disclosures of information set forth in this Privacy Policy, and notwithstanding anything in this Privacy Policy to the contrary, we may use and disclose, for any purpose, any Non-Personal Data, except where we are required to do otherwise under applicable law. If we combine any Non-Personal Data with Personal Data, then we will only use and disclose such combined information for the purposes described in sections 4 and 9 of this Privacy Policy while it is so combined.
 
