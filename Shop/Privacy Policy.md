@@ -7,6 +7,7 @@ Lenovo Explore Close
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
         *   Low monthly payments
+        *   Price Match Guaranteed
         
         *   Explore Laptops
         *   2 in 1 Laptops
@@ -41,6 +42,7 @@ Lenovo Explore Close
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
         *   Low monthly payments
+        *   Price Match Guaranteed
         
         *   Explore Desktops
         *   Desktop Deals
@@ -71,6 +73,7 @@ Lenovo Explore Close
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
         *   Low monthly payments
+        *   Price Match Guaranteed
         
         *   Explore Workstations
         *   Workstation Computers
@@ -99,6 +102,7 @@ Lenovo Explore Close
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
         *   Low monthly payments
+        *   Price Match Guaranteed
         
         *   Explore Tablets
         *   With Android
@@ -126,6 +130,7 @@ Lenovo Explore Close
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
         *   Low monthly payments
+        *   Price Match Guaranteed
         
         *   Accessories
         *   Docks
@@ -163,6 +168,7 @@ Lenovo Explore Close
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
         *   Low monthly payments
+        *   Price Match Guaranteed
         
         *   Explore Monitors
         *   Monitors for Work
@@ -191,6 +197,7 @@ Lenovo Explore Close
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
         *   Low monthly payments
+        *   Price Match Guaranteed
         
         *   Explore Gaming
         *   Laptops
@@ -225,6 +232,7 @@ Lenovo Explore Close
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
         *   Low monthly payments
+        *   Price Match Guaranteed
         
         *   Business Solutions
         *   Small Business
@@ -259,6 +267,7 @@ Lenovo Explore Close
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
         *   Low monthly payments
+        *   Price Match Guaranteed
         
         *   Customer Support
         *   Help Placing An Order
@@ -289,6 +298,7 @@ Lenovo Explore Close
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
         *   Low monthly payments
+        *   Price Match Guaranteed
         
         *   Weekly PC &. Workstation Deals
         *   ThinkPad Deals
@@ -315,7 +325,7 @@ Lenovo Explore Close
         
         Work From Home
         
-        Lenovo offers a wide range of essentials to keep you productive at home. Shop everything you need from office chairs to monitors &. more
+        Lenovo offers a wide range of essentials to keep you productive at home. Shop furniture, monitors &. more
         
 *   Phones
 *   Data Center
@@ -1193,7 +1203,7 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Launches comment card in new windowFeedbackCreated with sketchtool.CHAT NOW
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Created with sketchtool.CHAT NOW
 
 How can we help
 
@@ -1203,4 +1213,4 @@ you today?
 
 Call us: 1-855-253-6686
 
-Check order status >Technical support or Repair status >
+Check order status >Technical support or Repair status >Launches comment card in new windowFeedback
