@@ -152,7 +152,20 @@ Professional CAD/CAM tools built on Inventor and AutoCAD Learn more Free trial S
 MEDIA &.  
 ENTERTAINMENT COLLECTION
 
-Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products) Try, buy, or learn more about Autodesk products See all products
+Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products) Promo Data: April 2day Sale 2020
+
+*   Subscribe for 3 years. Get 10% off.
+    
+*   Purchase with Autodesk Financing
+    
+*   Trade in your perpetual license. Save 25%.
+    
+*   Why buy with Autodesk?
+    
+    See more reasons
+    
+
+Try, buy, or learn more about Autodesk products See all products
 
 Software for 2D and 3D CAD. Subscription includes AutoCAD, specialized toolsets, and apps.
 
