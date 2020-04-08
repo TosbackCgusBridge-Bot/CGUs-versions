@@ -262,7 +262,7 @@ About.USPS.com
 Related sites
 
 *   Business Customer Gateway
-*   Postal inspectors
+*   U.S. Postal Inspection Service
 *   Inspector General
 *   Postal Explorer
 *   National Postal Museum
