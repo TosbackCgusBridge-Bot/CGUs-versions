@@ -226,23 +226,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   FSB contractor breach exposes secret cyber weapons program leveraging IoT vulnerabilities
-    *   2020 Vision: Cybersecurity through a business lens
-    *   Tupperware site hacked with credit card skimmer
-    *   Maze ransomware group claims Chubb as victim
-    *   Hijacked routers and attempted WHO hack highlight latest COVID-19 attacks
+    *   Ransomware attacks vs Kimchuk, Visser reveal supply chain threat to DOD
+    *   COVID-19 by the numbers
+    *   NYC schools step away as Zoom sets remediation plan
+    *   Upgraded malicious Word, Excel attachments targeting WFH employees
+    *   Rush to adopt online learning under COVID-19 exposes schools to cyberattacks
     
-    *   Cure worse than disease? Patching riskier under COVID-19 work-from-home policies
-    *   14 million Key Ring users exposed in open database
-    *   FBI warns of COVID-19 phishing scams promising stimulus checks, vaccines
-    *   Working From Home in the Age of COVID-19
-    *   Hijacked routers and attempted WHO hack highlight latest COVID-19 attacks
+    *   COVID-19 puts corporate WFH capabilities to the test
+    *   Chrome browser update knocks out eight bugs
+    *   IoT proliferation and widespread 5G: A perfect botnet storm
+    *   Microsoft defends health care orgs, Mozilla funds innovation to fight COVID-19
+    *   GOP canvassing app credentials exposed in code repository
     
+    *   Global COVID-19 apps found suffering from flaws, malicious copycats
+    *   The inside scoop on insider threats
     *   OGUsers hacked again, user records uploaded by competitor
     *   Rush to adopt online learning under COVID-19 exposes schools to cyberattacks
     *   COVID-19 by the numbers
-    *   Mozilla patches two Firefox vulnerabilities active in the wild
-    *   NYC schools step away as Zoom sets remediation plan
 
 Back to Top
 
@@ -275,4 +275,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+
+You can skip this ad in 1 seconds.
