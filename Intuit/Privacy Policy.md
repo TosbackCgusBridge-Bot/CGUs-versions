@@ -1,9 +1,9 @@
 EXTRA 30% OFF $100 or more with code: 4BUNNY DetailsEnable Accessibility
 
-*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed.Sign InSign InCreate Account
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed. Weekly Ads Hop Shop &. SaveValid Apr 6th - Apr 8thEaster SaleValid Mar 26th - Apr 8thEaster Home SaleValid Mar 26th - Apr 8thView All AdsSign InSign InCreate Account
     *   Track My Orders
     *   My Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   Staying At Home
 *   Home &. Lifestyle
@@ -17,7 +17,7 @@ EXTRA 30% OFF $100 or more with code: 4BUNNY DetailsEnable Accessibility
 *   Salon
 *   Sephora Beauty
 
-WFH WomenWFH MenWFH TechWFH ToysFun for the whole familyWin at staying in | select styles
+Work From Home WomenWork From Home MenWork From Home TechPlay At Home Fun for the whole familyWin at staying in | select styles
 
 *   Shop all games
 
@@ -38,7 +38,7 @@ Shop all gamesSave on backyard fun essentials
     
 *   Outdoor toys
     
-*   Kids' swimwear\*
+*   Kids' swimwear
     
 *   Women's swimwear
     
@@ -55,59 +55,16 @@ Shop swimwearSheetsBed pillowsComfortersMattressesWomenMenGirlsBoysNikeChampionS
   
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   $899 - $1799after couponwas $72 Xersion Water Resistant Lightweight Puffer Jacket(325)
-*   $719 - $1874after couponwas $40 Gloria Vanderbilt® Amanda Jeans(1523)
-*   $1499after couponwas $44 Worthington Womens Long Sleeve Open Front Cardigan(10)
-*   $1499 - $6749after couponwas $60 - $200 400tc Wrinkle Guard Deep Pocket Sheet Set - JCPenney Home(2885)
-*   $2249 - $3750after couponPop Highbar Womens Sneakers(353)
+*   $179after couponwas $7 Xersion-Womens Performance Tee(1657)
+*   $524after couponwas $13 a.n.a-Womens Round Neck Short Sleeve T-Shirt(18)
+*   $224 - $1499after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(530)
 *   $6375 - $6775 sale
     
     was $85 - $90 | 24 - 25% offNike Air Max Motion 2 Womens Running Shoes(15)
-
-Sponsored Items
-
-*   $17999 sale
+*   $2249 - $3750after couponPop Highbar Womens Sneakers(353)
+*   $6750 sale
     
-    was $300 | 40% offRachael Ray Create Delicious 11-Pc. Cookware Set(43)Add To Cart
-*   $2249after couponwas $44 Vanity Fair Beyond Comfort Wireless Comfort Full Figure Bra-71282(54)Add To Cart
-*   $2249after couponwas $40 Lock &. Lock 10-pc. Food ContainerAdd To Cart
-*   $2250after couponwas $40 Sealy® SafetyCase™ Protective Crib Mattress Encasement (1)Add To Cart
-*   $1874after couponwas $34 Range Kleen 4-Pack Drip BowlsAdd To Cart
-*   $1999
-    
-    Fisher-Price Laugh &. Learn Smart Stages Sis(48)Add To Cart
-*   $20610after couponGoogle Nest Hello Video Doorbell(354)
-*   $175after couponFarberware® Classic Series 15-pc. Stainless Steel Cookware Set(69)
-*   $2999after couponwas $58 Wrangler® Slim-Fit Premium Performance Cowboy-Cut Jeans(154)Add To Cart
-*   $2249after couponwas $44 Lee® Relaxed Fit Jeans(2284)Add To Cart
-*   $3999
-    
-    As Seen on TV Blue Diamond Ceramic 11" Non-Stick Square Griddle(21)Add To Cart
-*   $56999 sale
-    
-    was $669 | 14% offDyson® V8 Animal Cord-Free Vacuum(178)
-*   $4999
-    
-    Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill Pan(37)Add To Cart
-*   $74 - $120
-    
-    Donna Karan Cashmere Mist Eau De Parfum(236)Add To Cart
-*   $30
-    
-    Michael Kors Sexy Amber Rollerball(14)Add To Cart
-*   $11999 sale
-    
-    was $150 | 20% offVenice Pro Ceramic Nonstick 8" and 10" Open Frypan Set(14)Add To Cart
-*   $13999 sale
-    
-    was $240 | 41% offRachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set(192)Add To Cart
-*   $2249after couponwas $37 Range Kleen 4-Pk. Drip BowlAdd To Cart
-*   $33499 sale
-    
-    was $360 | 7% offBissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum(2279)
-*   $24999 sale
-    
-    was $279.99 | 10% offSamsung Galaxy Active 2 40mm Womens Multi-Function Rose Goldtone Smart Watch-Sm-R830nzdaxar(23)Add To Cart
+    was $90 | 25% offNike Air Max Excee Womens Running Shoes(1)
 
 Shop and Save at JCPenney
 
