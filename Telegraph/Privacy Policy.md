@@ -96,7 +96,7 @@ http://www.youronlinechoices.com
 
 9.1 We may disclose your personal information if we are approached by a potential buyer of our business, if we required to do so by law or in good-faith believing such action is necessary to comply with the law.
 
-9.2 We sometimes share your personal information with third parties who are our subcontractors or providers of various products and services on our behalf e.g. the providers of the services available on our “Offers” page: http://www.telegraph.co.uk/sponsored/offers/.
+9.2 We sometimes share your personal information with third parties who are our subcontractors or providers of various products and services on our behalf e.g. the providers of the services available on our “Offers” page: https://www.telegraph.co.uk/sponsored/offers/.
 
 9.3 We never sell personal information, or pass it to third parties for marketing purposes without your permission.
 
