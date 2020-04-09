@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Wednesday, April 8, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Thursday, April 9, 2020  
 
 DEBKAfile
 
@@ -46,78 +46,78 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   Sanders retires from 2020 US presidential campaign
+    
+    Apr 08, 2020 @ 19:14
+    
+*   US coronavirus deaths hit daily record
+    
+    Apr 08, 2020 @ 09:22
+    
+*   New UK Labor leader Starmer apologizes for party anti-Semitism
+    
+    Apr 08, 2020 @ 09:10
+    
+*   Incoming flights bring surgical masks, reagents for covid-19 tests
+    
+    Apr 08, 2020 @ 09:07
+    
 *   Israel Arab detained as alleged Iran spy
     
     Apr 07, 2020 @ 18:58
-    
-*   Schools to reopen in stages after Passover holiday
-    
-    Apr 07, 2020 @ 18:35
-    
-*   Revised Passover lockdown schedule in Israel
-    
-    Apr 07, 2020 @ 18:23
-    
-*   Knesset passes into law the NIS500 grants for elderly and children
-    
-    Apr 07, 2020 @ 11:42
-    
-*   Coronavirus deaths in Israel rise to 60
-    
-    Apr 07, 2020 @ 11:32
     
 
-*   Schools to reopen in stages after Passover holiday
+*   US coronavirus deaths hit daily record
     
-    Apr 07, 2020 @ 18:35
+    Apr 08, 2020 @ 09:22
     
-*   Revised Passover lockdown schedule in Israel
+*   New UK Labor leader Starmer apologizes for party anti-Semitism
     
-    Apr 07, 2020 @ 18:23
+    Apr 08, 2020 @ 09:10
     
-*   Knesset passes into law the NIS500 grants for elderly and children
+*   Incoming flights bring surgical masks, reagents for covid-19 tests
     
-    Apr 07, 2020 @ 11:42
-    
-*   Coronavirus deaths in Israel rise to 60
-    
-    Apr 07, 2020 @ 11:32
+    Apr 08, 2020 @ 09:07
     
 *   Israel Arab detained as alleged Iran spy
     
     Apr 07, 2020 @ 18:58
     
-*   Schools to reopen in stages after Passover holiday
+*   Sanders retires from 2020 US presidential campaign
     
-    Apr 07, 2020 @ 18:35
+    Apr 08, 2020 @ 19:14
     
-*   Revised Passover lockdown schedule in Israel
+*   US coronavirus deaths hit daily record
     
-    Apr 07, 2020 @ 18:23
+    Apr 08, 2020 @ 09:22
     
-*   Knesset passes into law the NIS500 grants for elderly and children
+*   New UK Labor leader Starmer apologizes for party anti-Semitism
     
-    Apr 07, 2020 @ 11:42
+    Apr 08, 2020 @ 09:10
     
-*   Coronavirus deaths in Israel rise to 60
+*   Incoming flights bring surgical masks, reagents for covid-19 tests
     
-    Apr 07, 2020 @ 11:32
+    Apr 08, 2020 @ 09:07
     
 *   Israel Arab detained as alleged Iran spy
     
     Apr 07, 2020 @ 18:58
     
-*   Schools to reopen in stages after Passover holiday
+*   Sanders retires from 2020 US presidential campaign
     
-    Apr 07, 2020 @ 18:35
+    Apr 08, 2020 @ 19:14
     
-*   Revised Passover lockdown schedule in Israel
+*   US coronavirus deaths hit daily record
     
-    Apr 07, 2020 @ 18:23
+    Apr 08, 2020 @ 09:22
     
-*   Knesset passes into law the NIS500 grants for elderly and children
+*   New UK Labor leader Starmer apologizes for party anti-Semitism
     
-    Apr 07, 2020 @ 11:42
+    Apr 08, 2020 @ 09:10
+    
+*   Incoming flights bring surgical masks, reagents for covid-19 tests
+    
+    Apr 08, 2020 @ 09:07
     
 
 12PrevNext
