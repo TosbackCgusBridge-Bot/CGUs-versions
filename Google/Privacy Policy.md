@@ -468,7 +468,7 @@ Verweis-URL
 
 Eine Verweis-URL (Uniform Resource Locator) ist die Information, die ein Webbrowser in der Regel an eine Ziel-Website übermittelt, wenn Sie auf einen Link zu der betreffenden Website klicken. Die Verweis-URL enthält die URL der letzten Website, die im Browser aufgerufen wurde.
 
-Android-Gerät mit Google-Apps
+Zusätzliche InformationenAndroid-Gerät mit Google-Apps
 
 Android-Geräte mit Google-Apps sind Geräte, die von Google oder einem unserer Partner verkauft werden und umfassen Smartphones, Kameras, Fahrzeuge, Wearables und Fernseher. Diese Geräte nutzen Google Play-Dienste und andere vorinstallierte Apps. Dazu zählen Dienste wie Gmail, Maps, die Kamera- und Telefon-App Ihres Smartphones, die Sprachausgabe, die Tastatureingabe und Sicherheitsfunktionen.
 
