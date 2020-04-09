@@ -430,7 +430,7 @@ URL referenciador
 
 URL (Localizador uniforme de recursos) referenciador é a informação transmitida a uma página da Web de destino por um navegador da Web, geralmente quando você clica em um link para essa página. O URL referenciador contém o URL da última página da Web acessada pelo navegador.
 
-anúncios personalizados
+Contexto adicionalanúncios personalizados
 
 Também é possível ver anúncios personalizados com base em informações do anunciante. Se você tiver feito compras no site de um anunciante, por exemplo, ele pode usar as informações dessa visita para exibir anúncios para você. Saiba mais
 
