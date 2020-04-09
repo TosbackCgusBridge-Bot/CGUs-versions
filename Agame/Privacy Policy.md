@@ -26,15 +26,15 @@ View more results
     *   Subway Clash 3D
     *   Fireboy and Watergirl 5: Elements
     *   Pool Clash: 8 Ball Billiards Snooker
-    *   Draw and Guess
     *   Fireboy &. Watergirl 2: The Light Temple
+    *   Draw and Guess
     *   Kogama: The Elevator
-    *   Slither.io
     *   Gartic.io
-    *   Crowd City
+    *   Slither.io
     *   Army Force Strike: 3D Shooting Game Online Multiplayer
+    *   Crowd City
     *   Master Chess Multiplayer
-    *   Master Checkers: Multiplayer
+    *   Madalin Cars Multiplayer
 *   Action
     
     Top Categories
@@ -54,13 +54,13 @@ View more results
     *   CS Portable
     *   Slither.io
     *   Deer Hunter
-    *   Apple Shooter
     *   Sniper Reloaded
-    *   Short Life
+    *   Apple Shooter
     *   Army Force Strike: 3D Shooting Game Online Multiplayer
+    *   Short Life
     *   Super Buddy Kick
-    *   Gun Builder 2
     *   Mr. Bullet
+    *   Gun Builder 2
     *   Bomb It 6
     *   Mexico Rex
     *   Age of War
@@ -88,11 +88,11 @@ View more results
     *   Subway Surf
     *   Adam and Eve 4
     *   While We Sleep: Slendrina is HERE
-    *   World Crafts
     *   Bob the Robber 4: Season 2 Russia
+    *   World Crafts
     *   Fox Simulator
     *   Dumb Ways to Die: Original
-    *   Kogama: The Elevator
+    *   Chrome Dino
 *   Puzzle
     
     Top Categories
@@ -117,11 +117,11 @@ View more results
     *   Line Puzzle
     *   Mahjong Connect Classic
     *   3D Mahjong: No Time Limit
-    *   Free the Key
+    *   Forest of Wonder
     *   Word Wipe
+    *   Free the Key
     *   Mahjong Link
     *   Farm Connect 2
-    *   Forest of Wonder
 *   Girls
     
     Top Categories
@@ -137,7 +137,6 @@ View more results
     *   Make Up
     
     All Girls Best Games
-    *   E Girls Transformation
     *   Ellie: Lifestyle Photographer
     *   Burger Chef: Cooking Story
     *   Goldie: Lip Injections
@@ -145,9 +144,13 @@ View more results
     *   Dove Prom Dolly Dress Up
     *   Floral Real Life Manicure
     *   Shoe Designer
-    *   Hand Skin Doctor
     *   Beach Kiss
+    *   Hand Skin Doctor
     *   Cute Room Decoration
+    *   Princess Graduation Party Night
+    *   Ella: Hips Surgery
+    *   Couples Autumn Outfits
+    *   Ice Queen: Twins Birth
 *   Racing
     
     Top Categories
@@ -164,8 +167,8 @@ View more results
     
     All Racing Best Games
     *   Off-Road Cycle 3D
-    *   Madalin Stunt Cars 2
     *   Hill Racing Challenge
+    *   Madalin Stunt Cars 2
     *   City Car Stunts 2
     *   Thug Racer
     *   Russian Car Driver
@@ -176,7 +179,7 @@ View more results
     *   Cars 3D
     *   Horse Racing: Betting Game
     *   Maximum Acceleration: 3D Drift Game
-    *   Bus Man Parking 3D
+    *   Agame Stunt Cars
 *   Sports
     
     Top Categories
@@ -192,19 +195,19 @@ View more results
     
     All Sports Best Games
     *   Penalty Shooters 2: Football Game
+    *   Sprinter
     *   Off-Road Cycle 3D
     *   Table Tennis Pro
     *   Ultimate Boxing
-    *   Pool Clash: 8 Ball Billiards Snooker
     *   Subway Surf
+    *   Pool Clash: 8 Ball Billiards Snooker
     *   Stunt Skateboard 3D
     *   Basketball Stars 2019
     *   Xcross Madness
     *   Horse Racing: Betting Game
     *   Toon Cup 2016: Cartoon Game
-    *   Swimming Pro: Race Game
-    *   Football Masters: Euro 2020
     *   Mini Golf Master
+    *   Football Masters: Euro 2020
 *   More
     
     *   Multiplayer
