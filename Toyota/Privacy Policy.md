@@ -310,37 +310,39 @@ Compare Toyota vs. the Competition
     
 *   2019 Toyota Corolla vs. 2019 Honda Civic  
     
+*   2020 Toyota Corolla Hatchback vs. Subaru Impreza 5-Door  
+    
+*   2020 Toyota Corolla Hatchback vs. Mazda 3 Hatchback  
+    
+*   2020 Toyota Corolla Hatchback vs. Honda Civic Hatchback  
+    
+*   2020 Toyota Corolla Hatchback vs. Hyundai Elantra GT  
+    
+*   2020 Toyota Camry vs. Honda Accord  
+    
 *   2019 Toyota Camry vs. Honda Accord  
+    
+*   2020 Toyota Camry vs. Nissan Altima  
     
 *   2019 Toyota Camry vs. Nissan Altima  
     
-*   2019 Toyota Prius vs. Kia Niro  
-    
-*   2019 Toyota Prius vs. Hyundai Ioniq  
-    
 *   2019 Toyota Highlander vs. Honda Pilot  
     
-*   2019 Toyota C-HR vs. Honda HR-V  
-    
 *   2019 Toyota Sienna vs. Honda Odyssey  
+    
+*   2020 Toyota Sienna vs. Honda Odyssey  
+    
+*   2020 Toyota Sienna vs. Chrysler Pacifica  
     
 *   2019 Toyota Sienna vs. Chrysler Pacifica  
     
 *   2019 Toyota 4Runner vs. Jeep Grand Cherokee  
     
+*   2020 Toyota Tundra vs. Chevrolet Silverado  
+    
 *   2019 Toyota Tundra vs. Chevrolet Silverado  
     
 *   2019 Toyota Tundra vs. Nissan Titan  
-    
-*   2019 Toyota RAV4 vs. Honda CR-V  
-    
-*   2019 Toyota RAV4 vs. Subaru Forester  
-    
-*   2019 Toyota RAV4 vs. Nissan Rogue  
-    
-*   2019 Toyota Avalon vs. Buick LaCrosse  
-    
-*   2019 Toyota Avalon vs. Nissan Maxima  
     
 *   Compare Vehicles  
     
