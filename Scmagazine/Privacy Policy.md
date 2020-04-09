@@ -27,13 +27,13 @@ Skip to navigation Skip to main content Subscribe Menu Close
     
     *   News Back
         *   COVID-19 Coverage
-        *   Emerging Products
 *   ReviewsOpen Submenu
     *   Reviews Back
         *   Licensing &. Product Reviews
         *   About Product Reviews
         *   Group Tests
         *   First Look
+        *   Emerging Products
 *   In DepthOpen Submenu
     *   In Depth Back
         *   SC Media's 30th Anniversary Celebration
@@ -213,12 +213,11 @@ New York, New York 10001
 
 Attention: Chief Digital Officer  
 
-*   Cybersecurity asset management: Where we are and how we got here
-    
-    Why does asset management matter for cybersecurity?
-    
-    Life as a CISO: How do CISOs make sense of all the cybersecurity tools?
-    
+Cybersecurity asset management: Where we are and how we got here
+
+Why does asset management matter for cybersecurity?
+
+Life as a CISO: How do CISOs make sense of all the cybersecurity tools?
 
 *   MOST POPULAR
     
@@ -226,23 +225,23 @@ Attention: Chief Digital Officer
     *   Emailed
     *   Recent
     
-    *   Ransomware attacks vs Kimchuk, Visser reveal supply chain threat to DOD
-    *   COVID-19 by the numbers
+    *   COVID-19 hurts travel and event fraudsters, but buoys online carding schemes
+    *   Maropost database with 95 million left open and unsecure
+    *   Default exploited by 'Zoom bombers' could by used by cybercrooks
+    *   Data dump contains PII on over 4.9M Georgians. origin unknown
+    *   Cure worse than disease? Patching riskier under COVID-19 work-from-home policies
+    
+    *   Cure worse than disease? Patching riskier under COVID-19 work-from-home policies
+    *   Best Buy gift cards, USB drive used to spread infostealer
     *   NYC schools step away as Zoom sets remediation plan
-    *   Upgraded malicious Word, Excel attachments targeting WFH employees
-    *   Rush to adopt online learning under COVID-19 exposes schools to cyberattacks
-    
-    *   COVID-19 puts corporate WFH capabilities to the test
-    *   Chrome browser update knocks out eight bugs
-    *   IoT proliferation and widespread 5G: A perfect botnet storm
-    *   Microsoft defends health care orgs, Mozilla funds innovation to fight COVID-19
-    *   GOP canvassing app credentials exposed in code repository
-    
-    *   Global COVID-19 apps found suffering from flaws, malicious copycats
+    *   FBI warns of Kwampirs attacks, COVID-19 scams
     *   The inside scoop on insider threats
-    *   OGUsers hacked again, user records uploaded by competitor
-    *   Rush to adopt online learning under COVID-19 exposes schools to cyberattacks
-    *   COVID-19 by the numbers
+    
+    *   Free cybersecurity tools coming online to protect WFH staffers
+    *   Interpol warns hospitals about COVID-19-based ransomware threat
+    *   Maropost database with 95 million left open and unsecure
+    *   Researchers fool devices' biometric scanners with replicated fingerprints
+    *   Coronavirus turns up the heat on cybersecurity projects
 
 Back to Top
 
@@ -275,6 +274,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
 
 You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
