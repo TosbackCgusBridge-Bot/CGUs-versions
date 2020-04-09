@@ -468,7 +468,7 @@ Verwijzende URL
 
 Een verwijzende URL (Uniform Resource Locator) bevat informatie die een webbrowser overdraagt naar een bestemmingswebsite. Dit gebeurt meestal wanneer u op een link naar die webpagina klikt. De verwijzende URL bevat de URL van de laatste webpagina die de browser heeft bezocht.
 
-aangepaste zoekresultaten
+Aanvullende contextaangepaste zoekresultaten
 
 Als u bijvoorbeeld bent ingelogd op uw Google-account en de optie 'Web- en app-activiteit' heeft ingeschakeld, kunt u relevantere zoekresultaten te zien krijgen die zijn gebaseerd op uw eerdere zoekopdrachten en activiteiten in andere Google-services. Meer informatie vindt u hier. U kunt ook aangepaste zoekresultaten ontvangen wanneer u bent uitgelogd. Als u geen prijs stelt op dit niveau van aangepast zoeken, kunt u privé zoeken en browsen of personalisatie van zoekresultaten als u bent uitgelogd uitschakelen.
 
