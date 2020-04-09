@@ -12,8 +12,8 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1226 games
-*   Most Popular Games 20688 games
+*   Best of new games 1227 games
+*   Most Popular Games 20699 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -21,22 +21,22 @@ Categories &. more LIBRARY
 CATEGORIES
 
 *   For Girls 24,390 games
-*   Driving &. Racing 6,338 games
+*   Driving &. Racing 6,340 games
 *   Strategy &. RPG 3,607 games
 *   Management &. Sim 4,259 games
-*   Thinking 12,547 games
-*   Action &. Adventure 14,520 games
+*   Thinking 12,542 games
+*   Action &. Adventure 14,524 games
 *   Sports 3,307 games
-*   Shooting 9,026 games
+*   Shooting 9,029 games
 *   Fighting 2,078 games
-*   Skill 10,920 games
-*   Arcade &. Classic 8,971 games
-*   Fun &. Crazy 4,795 games
+*   Skill 10,928 games
+*   Arcade &. Classic 8,982 games
+*   Fun &. Crazy 4,794 games
 
 Play with friends  
-Powered by Y8 Account 142 Y8 Multiplayer Games 2,204 Y8 High Score Games 1,249 Y8 Achievements Games 874 Y8 Screenshots Games 1,660 Y8 Online Save Games 3,364 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 142 Y8 Multiplayer Games 2,204 Y8 High Score Games 1,249 Y8 Achievements Games 875 Y8 Screenshots Games 1,660 Y8 Online Save Games 3,364 All Y8 Games Games Last Highscore:
 
-**111** points on The Ultimate Clicker Squad by Ayalguu
+**1** points on Mutant Fighting Arena by stavros1577
 
 Help us improve Bad translation? Social
 
@@ -86,44 +86,44 @@ Register Log in My Profile 0 points
 Game Categories
 
 *   For Girls 24,390 games
-*   Driving &. Racing 6,338 games
-*   Shooting 9,026 games
+*   Driving &. Racing 6,340 games
+*   Shooting 9,029 games
 *   Fighting 2,078 games
-*   Action &. Adventure 14,520 games
-*   Strategy &. RPG 3,607 games
 *   Sports 3,307 games
+*   Action &. Adventure 14,524 games
+*   Strategy &. RPG 3,607 games
 *   Management &. Sim 4,259 games
-*   Arcade &. Classic 8,971 games
-*   Skill 10,920 games
-*   Thinking 12,547 games
-*   Fun &. Crazy 4,795 games
+*   Thinking 12,542 games
+*   Skill 10,928 games
+*   Arcade &. Classic 8,982 games
+*   Fun &. Crazy 4,794 games
 
 Tags
 
+*   Dress Up15,989
 *   2 player1,243
-*   Puzzle8,392
-*   Multiplayer445
+*   Tank563
+*   Puzzle8,394
+*   Defense2,405
+*   Stick677
 *   Poker23
 *   Escape1,459
 *   3+ Player92
+*   Trap735
+*   Upgrade5,130
+*   Multiplayer445
 *   Interactive Fiction472
-*   Defense2,403
-*   Stick677
-*   Upgrade5,127
-*   Dress Up15,989
 *   Celebrity686
+*   Dentist63
 *   Sumo25
-*   Trap733
-*   Scary294
-*   Platform4,572
-*   Mouse Skill10,447
-*   Alien1,050
+*   Platform4,573
+*   Difference717
+*   Mouse Skill10,456
 *   Terrorist111
-*   Car2,746
-*   Kissing260
-*   Collecting7,707
-*   Tank563
-*   Funny644
+*   Mushroom38
+*   Car2,745
+*   Collecting7,709
+*   Funny645
 *   Helicopter309
 *   Truck1,012
 *   Monkey356
