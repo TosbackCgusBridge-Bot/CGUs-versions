@@ -245,6 +245,17 @@ Close Upload ★VIP
 
 **Search Suggestions** start typing for suggestions ... **Suggested Pornstars** start typing for suggestions ... **Suggested Channels** start typing for suggestions ... **Suggested Keywords**
 
+*   my sisters hot
+*   mom and daughter
+*   casting
+*   girls do porn
+*   taboo mother
+*   mother
+*   orgasm compilation
+*   girls
+*   hot mom
+*   brazzers step mom
+
 **Recent Searches** Clear
 
 JOIN VIP FOR $1
@@ -874,9 +885,6 @@ REQUEST A COPY OF MY PERSONAL DATA DELETE MY PERSONAL DATA TUBE8 - Parental Cont
 
 Tube 8 is rated with RTA.  
 Parents, you can easily block access to this site. Please read this page for more information.
-
-Tube8 is also a member of the INHOPE.  
-Please read this page for more information.
 
 TUBE8 - Content Partner Program
 
