@@ -88,7 +88,7 @@ Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-6%  2% 
+16%  2% 
 
 Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -118,7 +118,7 @@ Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-6%  Arrest Records &. Driving Infractions
+16%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -327,7 +327,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Social Profiles 6%  Pinterest 2% 
+Social Profiles 16%  Pinterest 2% 
 
 *   Privacy policy - maaenterprise033
     
@@ -336,7 +336,87 @@ Social Profiles 6%  Pinterest 2% 
 *   Learn about instant apps Google Play Instant Apps are Play Store apps you can open before requiring - girlfriendnomore1
     
 
-Wikipedia 6%  Music 6%  Photo Albums 6%  Web Search 6%  Images 2% 
+Wikipedia 2% 
+
+*   Privacy policy
+    
+*   Privacy policy
+    
+    Wikimedia:Privacy policy This page is a soft redirect.. See also. Wikipedia:Wikimedia policy
+    
+*   Wikipedia:Privacy policy
+    
+    This page is a policy on the Simple English Wikipedia. Many people agree with it. They see it as a standard idea that all users should follow. When changing this page (except for minor errors like typos), please check that other people agree with your changes. Use the talk page when you are not sure or when you want to suggest a change.
+    
+*   Wikipedia 15 Privacy Policy
+    
+    Use of info. Types of Information We Receive From You, How We Get It, &. How We Use It Information Related to Your Use of the Wikipedia 15 Site. We want to make this site and other Wikimedia Sites better for you by learning more about how you use them.
+    
+*   Show More ...
+
+*   Information privacy
+    
+    Information privacy is the relationship between the collection and dissemination of data, technology, the public expectation of privacy, legal and political issues surrounding them. It is also known as data privacy or data protection. Data privacy is a challenging since it attempts to use data while protecting an individual's privacy preferences and personally identifiable information. The fields of computer …
+    
+*   Privacy
+    
+    As technology has advanced, the way in which privacy is protected and violated has changed with it. In the case of some technologies, such as the printing press or the Internet, the increased ability to share information can lead to new ways in which privacy can be breached.It is generally agreed that the first publication advocating privacy in the United States was the article by Samuel ...
+    
+*   Policy
+    
+    A policy is a deliberate system of principles to guide decisions and achieve rational outcomes. A policy is a statement of intent, and is implemented as a procedure or protocol. Policies are generally adopted by a governance body within an organization. Policies can assist in both subjective and objective decision making.Policies to assist in subjective decision making usually assist senior ...
+    
+*   Show Less ...
+
+Music 16%  Photo Albums 2% 
+
+*   Help
+    
+    FLICKR USERS: As of May 29, 2018, Flickr is owned and operated by Flickr, Inc. This Privacy Policy will apply to information collected through your use of the Services including information that was transferred to us in the acquisition.
+    
+*   Help
+    
+    Jan 22, 2020 · Flickr, Inc. ("Flickr") is passionately committed to the privacy of our customers. This Privacy Policy explains how Flickr collects, uses and discloses information from and about you when you use the Flickr services, including the Flickr mobile and Apple TV applications and Flickr website (collectively, the "Services").
+    
+*   Flickr's Privacy Policy
+    
+*   Flickr Privacy Policy and Notice | Homeland Security
+    
+    Flickr is a third-party social networking photo and image sharing tool and its privacy policy can be found at info.yahoo.com/privacy/us/yahoo/flickr/details.html. The DHS privacy policy and Privacy Impact Assessment (PIA) govern the Department’s use of Flickr from a privacy perspective.
+    
+*   Show More ...
+
+*   Privacy Policy
+    
+    Flickr is a great website for uploading your photos to share with the world, or even just your friends and family. For over 12 years more than 50 \[…\] Flickr login Problems
+    
+*   How do I accept Smugmug's TOS/Privacy Policy
+    
+    May 25, 2018 · If you do nothing in that time, your account will simply transition to SmugMug’s Terms of Service for Flickr and Privacy Policy for Flickr after the acquisition. If you do not consent to SmugMug’s Terms and Privacy Policy, you will need to delete your Flickr account through your Account Settings." Posted 23 months ago. (permalink)
+    
+*   Flickr | Verizon Media Policies
+    
+    In your Privacy Settings, you can choose to make your photos default to public for anyone to access, you can restrict access to a limited number of other Flickr users, or you can keep those photos private so only you can access them.
+    
+*   Flickr
+    
+    To learn more about our privacy practices with respect to Flickr, please select your Yahoo Privacy Center.
+    
+*   Flickr: The Help Forum: Privacy setting help.
+    
+    May 27, 2014 · Flickr is almost certainly the best online photo management and sharing application in the world. Show off your favorite photos and videos to the world, securely and privately show content to your friends and family, or blog the photos and videos you take with a cameraphone.
+    
+*   Help
+    
+    Jan 01, 2020 · Flickr is not responsible or liable for any third party access to or use of the User Content you post or your Registration Data. You are encouraged to read, understand and use the privacy settings and mechanisms in your Account Settings to manage how your User Content is accessed and used by the public and other users of the Services.
+    
+*   Help
+    
+    May 09, 2018 · The Flickr APIs are owned by SmugMug, Inc. and/or its subsidiaries, including Flickr, Inc. ("SmugMug"), which collectively operate the Flickr business division of SmugMug ("Flickr"), and are licensed to you on a worldwide (except as limited below), non-exclusive, non-sublicenseable basis on the terms and conditions set forth herein.
+    
+*   Show Less ...
+
+Web Search 16%  Images 2% 
 
 15
 
@@ -344,7 +424,7 @@ Wikipedia 6%  Music 6%  Photo Albums 6%  Web Search 6%  Images 2% 
 
 19
 
-9
+8
 
 facebookx
 
