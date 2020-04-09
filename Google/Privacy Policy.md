@@ -468,7 +468,7 @@ URL de provenance
 
 Une URL (abréviation de Uniform Resource Locator) de provenance est une information transmise à une page Web de destination par un navigateur Web, généralement lorsque vous cliquez sur un lien vers cette page. L'URL de provenance contient l'URL de la dernière page Web consultée à l'aide du navigateur.
 
-annonces personnalisées
+Contexte supplémentaireannonces personnalisées
 
 Vous pouvez également voir des annonces personnalisées sélectionnées sur la base d'informations provenant de l'annonceur. Si vous avez effectué des achats sur le site Web d'un annonceur, par exemple, ce dernier peut utiliser les informations relatives à cette visite pour diffuser des annonces auprès de vous. En savoir plus
 
