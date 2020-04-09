@@ -39,7 +39,6 @@ SearchMenu Close
     *   Change Delivery
     *   Manage Inbound/Outbound Shipments:  
         _Quantum View_
-    *   Brokerage &. Compliance
     
     UPS My Choice
     *   Manage Home Deliveries:  
@@ -91,25 +90,14 @@ SearchMenu Close
     
     *   Individual Shipper
     *   Small Business
-    *   Business Shipping: Mid-to-Large Businesses
-    *   Customized Solutions
     
     By Industry
     
-    *   Healthcare
-    *   Consumer Goods &. Retail
-    *   High Tech
-    *   Industrial Products
-    *   Automotive
     *   **See All**
     
     Explore All Services Knowledge Center Knowledge Center
     *   Optimizing Operations
-    *   Adopting Innovation
-    *   Growing Business
-    *   Expanding Globally
-    *   UPS Blog: _Longitudes_
-    *   ResourcesExplore All Articles
+    *   Expanding GloballyExplore All Articles
 
 Customer Service Customer Service Need help now?
 
