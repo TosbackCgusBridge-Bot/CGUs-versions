@@ -1,4 +1,4 @@
-<style>body{visibility:visible}</style>Skip to main content warning-icon You are using an unsupported browser version.Learn more or update your browser. close browser upgrade notice × Bank of America Privacy &. Security
+<style>body{visibility:visible}</style>Skip to main contentBank of America Privacy &. Security
 
 *   Sign in
 *   Sign in
