@@ -38,7 +38,7 @@ Skip to main content
     *   Children's Conditions A-Z
     *   Surgeries and Procedures A-Z
     
-    Featured Topics*   WebMD News Latest News and Updates On Coronavirus
+    Featured Topics*   Symptom Checker COVID-19: Check Your Symptoms Now
     *   Slideshow Get Help for Migraine Relief
 *   Drugs &  
     Supplements Drugs &. Supplements Drugs &. Supplements Find &. Review
@@ -112,9 +112,9 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Coronavirus Outbreak: Latest News &. Updates
-    *   Surgeon General On How to Practice Social Distancing
-    *   Coronavirus Dos and Don'ts
+    *   Get the Latest Coronavirus News Here
+    *   COVID-19: Check Your Symptoms Now
+    *   How to Decontaminate When You Get Home
     *   How Long Does Coronavirus Live On Surfaces?
     *   See Our Map for Coronavirus Spread
     
@@ -137,7 +137,7 @@ Skip to main content
     *   My Account
     *   Sign Out
 
-WebMD Privacy PolicySubscribe
+Share on FacebookShare on TwitterShare on PinterestWebMD Privacy PolicySubscribe
 
 About Us
 
