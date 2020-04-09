@@ -19,7 +19,7 @@ Show Menu Hide Menu
 
 *   List your property
 *   Account
-    *   Sign in to see exclusive Insider Prices.
+    *   Sign in to see exclusive Insider Prices
     *   Sign In
     *   New? Create an Account
 *   Hello, 's Account
@@ -39,6 +39,7 @@ Show Menu Hide Menu
 *   My Trips
 *   Support
     *   Customer Support
+    *   Manage My Trip
     *   Feedback
 *   Español
 
