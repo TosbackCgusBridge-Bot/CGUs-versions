@@ -1,4 +1,4 @@
-_Revision date: December 18, 2018_
+_Revision date: March 05, 2020_
 
 DeviantArt respects your privacy and is fully committed to protect your personal information and use it properly and in compliance with data privacy laws.
 
@@ -30,7 +30,7 @@ How do we collect such Information?
 
 There are two main methods we use:
 
-1.  We collect information through your use of the Site or Services. In other words, when you are visiting or using our Site or Services, including when you browse the Site or a User Account, edit your Account and upload information and content, and/or download and use any Site feature or services, we are aware of it and will usually gather, collect and record such uses, sessions and related information, either independently or with the help of third-party services as detailed herein, including through the use of "cookies" and other tracking technologies, as further detailed above.
+1.  We collect information through your use of the Site or Services. In other words, when you are visiting or using our Site or Services, including when you browse the Site or a User Account, edit your Account and upload information and content, and/or download and use any Site feature or services, we are aware of it and will usually gather, collect and record such uses, sessions and related information, either independently or with the help of third-party services as detailed herein, including through the use of "cookies" and other tracking technologies, as further detailed below.
 2.  We collect information which you provide us voluntarily. For example, we collect the PII you provide us when you register to our Services. when you sign-in to our Services via third party services. when you place purchases. when you submit or upload such PII as you use any of our Services (e.g. Artist Materials). and/or when you contact us directly by any communication channel.
 
 We also collect information from third party sources as described above.
@@ -124,6 +124,56 @@ Making changes
 You may review your PII by logging in and navigating to your Settings page on the website. Once there, you may modify information that is incorrect and delete certain information from your profile. You can also change your permission settings for us to send you e-mail newsletters.
 
 To delete your PII, you must manually change your data fields to null values. Please note that some information associated with you cannot be deleted. Data related to transactions for products and services through the DeviantArt Print Shop is retained indefinitely and we may retain other PII associated with you in archived/backup copies for our records or as otherwise required by law.
+
+Use of Cookies and Similar Technologies
+
+A cookie is a small file of letters and numbers downloaded on to your computer when you access certain websites. In general, cookies allow a website to recognize a userâ€™s computer. The most important thing to know about cookies placed by DeviantArt is that they make our website a bit more user-friendly, for example, by remembering site preferences and language settings.  
+  
+Cookies should be divided in two types:
+
+*   "First-party cookies" - Cookies that are placed by DeviantArt
+*   "Third-party cookies" - Cookies that are placed and used by Third Party Services.
+
+It is important to note that DeviantArt cannot access Third-party cookies. nor can other Third-Party Services access the data in the First-party cookies we use on our website.
+
+We may also use other technologies with similar functionality to cookies, such as web beacons, pixels, mobile identifiers, and tracking URLs, to obtain Log Data (as described in the Privacy Policy).  
+  
+Duration: Depending on their function, Cookies may have different durations. There are session cookies and persistent cookies:  
+
+*   Session cookies only last for your online session. It means that the browser deletes these cookies once you close your browser.
+*   Persistent cookies stay on your device after the browser has been closed and last for the period of time specified in the cookie.
+
+Categories: The cookies used on our website fall into one of four categories: Essential, Performance, Functional and Marketing cookies.
+
+*   _Essential Cookies_ enable core functionality such as security and network management, and accessibility.
+*   _Performance cookies_ let us understand how you use our website (e.g. which pages you visit). These cookies are essential to us being able to enhance and maintain our platform.
+*   _Functional cookies_ are cookies used to remember choices Users make to improve their experience.
+*   _Marketing cookies_ are used to collect information about the impact of our marketing campaigns addressing personalized content, recomendations or optimized features
+
+Please check out the table below to receive more information about the type, categories, purpose and duration of cookies placed by DeviantArt and Third Party Services.  
+  
+
+Type Name Purpose Duration Cookie auth Identify logged users 1 month Essential Cookie auth\_secure Security never Essential Cookie userinfo Identify logged users 1 month Essential Cookie td image grid sizing for SSR (eclipse) session Essential Cookie tw image grid sizing for SSR (green site) 7 day Essential Cookie hubtoken websocket push messages session Essential Cookie tpc Oauth login for stash session Essential Cookie vd Used for Advertising 1 month Marketing Local Storage chatDB Allow chat feature persistent Essential Local Storage console\_dapi\_recent, console\_recent Recently used endpoints list in API developer console persistent Performance Local Storage custombox.recent.colors Remembers colors used in custom boxes persistent Functional Local Storage FilmQuality Allow the use of player settings persistent Essential Local Storage statusUpdateSubmitCounter Number of status updates submitted via eclipse persistent Functional Local Storage intents, intents\_other List of signup intents selected by user persistent Essential
+
+Third Party Cookies:
+
+Type Name Third party Purpose Duration Beacon and Cookie \_pxhd PerimeterX  
+(https://www.perimeterx.com/legal/privacy/) Security 1 y Essential Beacon and Cookie \_ga, \_gat, \_gid, \_utm\* Google Analytics  
+(https://policies.google.com/privacy?hl=en-US) Analytics 2y Performance Beacon and Cookie r/collect Google Doubleclick Ads (through Google Analytics)  
+https://policies.google.com/privacy?hl=en-US Analytics session Marketing Beacon and Cookie large number, varies Google Doubleclick Ads and other Ads networks  
+https://policies.google.com/privacy?hl=en-US Advertising varies Marketing Beacon and Cookie JSESSIONID New Relic  
+(https://newrelic.com/termsandconditions/privacy) System Monitoring session Essential Script and Cookie TS#, XSRF-TOKEN, Wix.com  
+https://www.wix.com/about/privacy Security session Essential Script and Cookie frog.wix.com Wix.com  
+https://www.wix.com/about/privacy Identify logged users persistent Essential Script and Cookie fed,fedops.logger.sessionId Wix.com  
+https://www.wix.com/about/privacy System monitoring persistent Essential Local Storage debug, debugpanel-height, debugpanel-tab, debugpanel-visible Wix.com  
+https://www.wix.com/about/privacy System Monitoring persistent Essential Local Storage firebase:host:wix-engage-visitors-prod-27.firebaseio.com Wix.com Allow the Chat feature persistent Essential
+
+Your Choices  
+You can change your cookie settings by clicking in this link
+
+Alternatively, it is also possible to stop your browser from accepting cookies altogether by changing your browser's cookie settings. You can usually find these settings in the "options" or "preferences" menu of your browser.
+
+Please note that deleting our cookies or disabling future cookies or tracking technologies may prevent you from accessing certain areas or features of our Services, or may otherwise adversely affect your user experience.
 
 Security
 
