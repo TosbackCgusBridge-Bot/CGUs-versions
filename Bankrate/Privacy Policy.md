@@ -45,6 +45,7 @@ Main Menu BR Mortgages Mortgages overview
 *   10-year mortgage rates
 *   FHA loan rates
 *   VA loan rates
+*   Jumbo loan rates
 *   ARM loan rates
 
 *   Refinance your mortgage
@@ -55,6 +56,7 @@ Main Menu BR Mortgages Mortgages overview
 *   10-year refinance rates
 *   FHA refinance rates
 *   VA refinance rates
+*   Jumbo refinance rates
 
 *   Use calculators
 *   Mortgage calculator
