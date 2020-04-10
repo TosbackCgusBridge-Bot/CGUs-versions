@@ -1,6 +1,6 @@
-EXTRA 30% OFF $100 or more with code: 4BUNNY DetailsEnable Accessibility
+EXTRA 20% OFF under $75 with code: BASKET8 DetailsEnable Accessibility
 
-*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed. Weekly Ads Hop Shop &. SaveValid Apr 6th - Apr 8thEaster SaleValid Mar 26th - Apr 8thEaster Home SaleValid Mar 26th - Apr 8thView All AdsSign InSign InCreate Account
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed. Weekly Ads Easter SaleValid Apr 9th - Apr 12thEngagement GuideValid Jan 24th - Sep 1stView All AdsSign InSign InCreate Account
     *   Track My Orders
     *   My Rewards
     *   JCP Credit CardCart
@@ -17,20 +17,20 @@ EXTRA 30% OFF $100 or more with code: 4BUNNY DetailsEnable Accessibility
 *   Salon
 *   Sephora Beauty
 
-Work From Home WomenWork From Home MenWork From Home TechPlay At Home Fun for the whole familyWin at staying in | select styles
+MenGirlsBoysUP TO 40% OFF Xersion for the family|select styles
 
-*   Shop all games
+*   Shop now
 
-*   Karaoke
+*   Women
     
-*   Puzzles\*
+*   Men
     
-*   Kids' arts &. crafts\*
+*   Girls
     
-*   Kids' learning toys\*
+*   Boys
     
 
-Shop all gamesSave on backyard fun essentials
+Shop nowNikeChampionSheetsBed pillowsComfortersMattressesSave on backyard fun essentials
 
 *   Shop swimwear
 
@@ -47,67 +47,84 @@ Shop all gamesSave on backyard fun essentials
 *   Sunscreen at Sephora inside JCPenney\*
     
 
-Shop swimwearSheetsBed pillowsComfortersMattressesWomenMenGirlsBoysNikeChampionSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
-†Buy one item at regular price, get a second item of equal or lesser value for free, while supplies last.  
+Shop swimwearFun for the whole familyWin at staying in | select styles
+
+*   Shop all games
+
+*   Karaoke
+    
+*   Puzzles\*
+    
+*   Kids' arts &. crafts\*
+    
+*   Kids' learning toys\*
+    
+
+Shop all gamesWork From Home WomenWork From Home MenWork From Home TechPlay At Home Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 \*Select toys, select kids' swimwear and Sephora Excluded From Coupons  
 \*Additional offers and coupons do not apply to Levi’s®.  
   
-  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   $524after couponwas $13 a.n.a-Womens Round Neck Short Sleeve T-Shirt(18)
-*   $179after couponwas $7 Xersion-Womens Performance Tee(1657)
-*   $599after couponwas $13 a.n.a Womens V Neck Sleeveless Tank Top(8)
-*   $224 - $1499after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(530)
-*   $6375 - $6775 sale
+*   $399 - $2399after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1680)
+*   $2699 sale
     
-    was $85 - $90 | 24 - 25% offNike Air Max Motion 2 Womens Running Shoes(15)
-*   $2249 - $3750after couponPop Highbar Womens Sneakers(353)
+    was $42 | 35% offPlaytex Love My Curves Beautiful LIft With Embroidery Underwire Bra - US4513(4395)
+*   $639 - $4399after couponwas $16 - $124 Liz Claiborne Luxury Egyptian Hygrocotton Loops Bath Towel(121)
+*   $40 - $11250after couponJCPenney Home Ultra Performance 575 Sateen Deep Pocket Sheet Set(150)
+*   $719 - $799after couponwas $13 a.n.a Womens V Neck Sleeveless Tank Top(8)
+*   $799 - $2499 sale
+    
+    was $40 | 37 - 80% offGloria Vanderbilt® Amanda Jeans(1524)
 
 Sponsored Items
 
 *   $8999 sale
     
     was $94 | 4% offWaterpik WF-06W010 Whitening Water Flosser(110)Add To Cart
-*   $13999 sale
+*   $6749after couponwas $120 Farberware Cookstart 15-pc. Cookware Set(61)Add To Cart
+*   $17999 sale
     
-    was $240 | 41% offRachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set(192)Add To Cart
-*   $2249after couponwas $44 Vanity Fair Beyond Comfort Wireless Comfort Full Figure Bra-71282(54)Add To Cart
-*   $5249after couponwas $120 Farberware Cookstart 15-pc. Cookware Set(61)Add To Cart
-*   $2249after couponwas $37 Range Kleen 4-Pk. Drip BowlAdd To Cart
-*   $2999after couponwas $56 Wrangler All Terrain Gear Reinforced Utility Mens Regular Fit Flat Front PantAdd To Cart
-*   $2999after couponwas $54 Lock &. Lock 4-pc. 7.6-cup Food ContainerAdd To Cart
-*   $2250after couponwas $40 Sealy® SafetyCase™ Protective Crib Mattress Encasement (1)Add To Cart
-*   $20610after couponGoogle Nest Hello Video Doorbell(354)
-*   $2249after couponwas $44 Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit)(628)Add To Cart
-*   $24999 sale
+    was $300 | 40% offRachael Ray Create Delicious 11-Pc. Cookware Set(43)Add To Cart
+*   $799after couponwas $11.50 Vanity Fair Beyond Comfort Knit High Cut Panty 13212(44)Add To Cart
+*   $1999after couponwas $34 Range Kleen 4-Pack Drip BowlsAdd To Cart
+*   $999
     
-    was $279.99 | 10% offSamsung Galaxy Active 2 40mm Womens Multi-Function Silver Tone Smart Watch-Sm-R830nzsaxar(23)Add To Cart
-*   $1999
+    Hasbro Playskool Friends Mr. Potato Head Classic(1)
+*   $2399after couponwas $44 Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit)(628)Add To Cart
+*   $20610after couponGoogle Nest Hello Video Doorbell(355)
+*   $2399after couponwas $40 Lock &. Lock 6-pc. Food ContainerAdd To Cart
+*   $3599after couponwas $56 Wrangler All Terrain Gear Reinforced Utility Mens Regular Fit Flat Front PantAdd To Cart
+*   $56999 sale
     
-    Fisher-Price Laugh &. Learn Smart Stages Sis(48)Add To Cart
-*   $3999 sale
-    
-    was $70 | 42% offGreenPan Rio Non-Stick Frying Pan(1)
+    was $669 | 14% offDyson® V8 Animal Cord-Free Vacuum(178)
 *   $4999
     
     Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill Pan(37)Add To Cart
 *   $3999
     
     As Seen on TV Blue Diamond Ceramic 11" Non-Stick Square Griddle(21)Add To Cart
-*   $1874after couponwas $34 Range Kleen 4-Pack Drip BowlsAdd To Cart
-*   $45999 sale
-    
-    was $539 | 14% offDyson® Ball Multi Floor 2 Upright Vacuum(243)
 *   $17999 sale
     
-    was $300 | 40% offRachael Ray Create Delicious 11-Pc. Cookware Set(43)Add To Cart
-*   $3499 - $44
+    was $199.99 | 10% offSamsung Galaxy Active Mens Black Smart Watch-Sm-R500nzkaxar(170)Add To Cart
+*   $1499
+    
+    Fisher-Price Laugh &. Learn Click &. Learn Laptop(10)
+*   BUY 1 GET 1 50% OFF
+    
+    $42 - $44
     
     Vanity Fair® Beauty Back™ Full-Figure Back Smoothing Wireless Bra - 71380(632)Add To Cart
+*   $2959after couponwas $44 Vanity Fair Beyond Comfort Wireless Comfort Full Figure Bra-71282(54)Add To Cart
 *   $33499 sale
     
-    was $360 | 7% offBissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum(2283)
+    was $360 | 7% offBissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum(2287)
+*   $3999 sale
+    
+    was $70 | 42% offGreenPan Rio Non-Stick Frying Pan(1)
+*   $18999 sale
+    
+    was $240 | 20% offRachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set(192)Add To Cart
 
 Shop and Save at JCPenney
 
