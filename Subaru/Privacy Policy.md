@@ -1,5 +1,3 @@
-COVID-19 Update: We're committed to helping our customers and neighbors deal with this challenge.    Learn More
-
 Skip to Content       Confirm Your Location
 
 We'd like to show you nearby Subaru retailers, special offers, pricing, and vehicle inventory that are available in your area.
@@ -10,16 +8,16 @@ Invalid Zip Code. To connect with Subaru of Hawaii, please click here.
 
 or Use my current location Your Subaru Retailer Subaru Retailers Near You More Subaru Retailers
 
-*   Schomp Subaru (7 Miles)
-*   Groove Subaru (8 Miles)
-*   Mike Shaw Subaru (9 Miles)
-*   AutoNation Subaru West (10 Miles)
-*   AutoNation Subaru Arapahoe (12 Miles)
-*   Flatirons Subaru (21 Miles)
+*   Money Subaru (89 Miles)
+*   DuTeau Subaru (116 Miles)
+*   Baxter Subaru (158 Miles)
+*   Briggs Subaru of Topeka (164 Miles)
+*   Beardmore Subaru (165 Miles)
+*   Subaru of Wichita (167 Miles)
 
 Submit
 
-*   Your Location: **80202**
+*   Your Location: **66952**
 *   For Owners
 *   Customer Support
 *   Search
@@ -649,5 +647,4 @@ Your location cannot be displayed.
 
 To connect with Subaru of Hawaii, please click here
 
-<img height="1" width="1" style="display:none" alt="" src="https://www.facebook.com/tr?id=1139158252766221&ev=PageView&noscript=1" />. <div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1065529365/?value=0&guid=ON&script=0"/>. </div>. <img src="//bat.bing.com/action/0?ti=5066940&Ver=2" height="0" width="0" style="display:none. visibility: hidden;" alt="" />. By using this website, you consent to our use  
-of cookies as described in our privacy policy
+<img height="1" width="1" style="display:none" alt="" src="https://www.facebook.com/tr?id=1139158252766221&ev=PageView&noscript=1" />. <div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1065529365/?value=0&guid=ON&script=0"/>. </div>. <img src="//bat.bing.com/action/0?ti=5066940&Ver=2" height="0" width="0" style="display:none. visibility: hidden;" alt="" />.
