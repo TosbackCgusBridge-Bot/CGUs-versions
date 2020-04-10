@@ -103,6 +103,7 @@ Search our Help Centre
 7.  Your rights
 8.  Where this Privacy Policy applies
 9.  Changes to this Privacy Policy
+10.  Privacy notice for California Consumer Privacy Act
 
 Privacy policy
 
@@ -263,11 +264,15 @@ Rights for California residents
 
 If you are a California resident, the California Consumer Privacy Act (CCPA) may provide you with additional rights regarding the use of your personal information. These rights include: 
 
-*   The right to access the personal information we process about you;
-*   The right to know what personal information is collected about you and if any information is sold or disclosed, and to whom;
-*   The right to request the deletion of your personal information, if applicable;
-*   The right to opt-out from the sale of your personal information, if applicable;
-*   The right to not be discriminated against for exercising any of the rights above. 
+The right to access the personal information we process about you;
+
+The right to know what personal information is collected about you and if any information is sold or disclosed, and to whom;
+
+The right to request the deletion of your personal information, if applicable;
+
+The right to opt-out from the sale of your personal information, if applicable;
+
+The right to not be discriminated against for exercising any of the rights above. 
 
 You can exercise any applicable rights by emailing ccpa.privacy@ft.com or contacting our Customer Care. You may be required to submit proof of your identity and/or address, if we are unable to confirm your identity or cannot verify that you are a California resident. We endeavor to respond to a verifiable consumer  request within 45 days. You may also designate an authorised agent to make a request on your behalf, subject to proof of identity and authorisation. 
 
