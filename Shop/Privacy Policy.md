@@ -33,9 +33,9 @@ Lenovo Explore Close
         *   Legion Y545
         *   Chromebooks
         
-        SALE
+        PC's ready to ship
         
-        Click to shop weekly deals on our most popular laptops for work, home, school &. gaming
+        Shop laptops &. desktops that ship out quick - and for free!
         
     *   Desktops
         
@@ -59,14 +59,16 @@ Lenovo Explore Close
         *   ThinkStation
         
         *   Best Selling Desktops
+        *   M720 Tiny
+        *   A540 24 inch AIO
         *   M630e Tiny
-        *   Yoga A940 27” 4K Intel
-        *   M90n Nano
+        *   M720e SFF
         *   T540 Gaming Tower
+        *   M920 SFF
         
-        Sale
+        PC's ready to ship
         
-        Click to visit desktop deals to enjoy weekly savings on traditional towers, all-in-ones &. more!
+        Shop laptops &. desktops that ship out quick - and for free!
         
     *   Workstations
         
@@ -303,7 +305,7 @@ Lenovo Explore Close
         *   Weekly PC &. Workstation Deals
         *   ThinkPad Deals
         *   Home Laptop Deals
-        *   2-in-1 Laptop Deals
+        *   2 in 1 Laptop Deals
         *   Desktop Deals
         *   Gaming PC Deals
         *   Workstation Deals
@@ -316,7 +318,7 @@ Lenovo Explore Close
         *   Server Deals
         
         *   Additional Offers
-        *   AMD PC deals up to 30%
+        *   PCs ready to ship now
         *   Clearance
         *   Financing Options
         *   Discount Programs
@@ -1203,4 +1205,14 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Launches comment card in new windowFeedbackCreated with sketchtool.CHAT NOW
+
+How can we help
+
+you today?
+
+×SALES CHATEXISTING ORDER HELPSALES CHATEXISTING ORDER HELPBUSINESS SALESBUSINESS SALES
+
+Call us: 1-855-253-6686
+
+Ask us about our price match policy >Check order status >Technical support or Repair status >
