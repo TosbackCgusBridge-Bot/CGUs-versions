@@ -130,14 +130,20 @@ Autodesk logo
 
 Keyboard **ALT + g** to toggle grid overlay
 
-COVID-19: Autodesk offers free and extended access to cloud collaboration products
+Autodesk industry collections
 
-READY TO MAKE ANYTHING
+COVID-19 support
+
+Ready to make anything
 
 We've combined our most powerful software and services to create one simple package, for one great price—Autodesk industry collections.
 
 learn more   _Claudius Peters fabricates an industrial-equipment part based on generative design._  
-_Read story_
+_Read story_ We’re in this together. We’re here to help.
+
+As COVID-19 impacts the world, Autodesk is committed to giving our customers and our communities the support and resources they need—for staying connected, collaborating effectively, and maintaining business continuity—during this challenging time.
+
+VISIT THE COVID-19 RESOURCE CENTER
 
 ARCHITECTURE, ENGINEERING &.  
 CONSTRUCTION COLLECTION
@@ -152,7 +158,7 @@ Professional CAD/CAM tools built on Inventor and AutoCAD Learn more Free trial S
 MEDIA &.  
 ENTERTAINMENT COLLECTION
 
-Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Incentives Hub Overview: Default Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products) Promo Data: April 2day Sale 2020
+Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Incentives Hub Overview: Default Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products)
 
 *   Subscribe for 3 years. Get 10% off.
     
@@ -175,9 +181,7 @@ Free trial
 
 Subscribe
 
-$1,521/year
-
-$1,690
+$1,690/year
 
 Software for Building Information Modeling
 
@@ -197,9 +201,9 @@ Free trial
 
 Subscribe
 
-$315/year
+$420/year
 
-$420 Try, buy, or learn more about Autodesk products See all products Welcome to the new era of connected construction Introducing Autodesk Construction Cloud™
+Try, buy, or learn more about Autodesk products See all products Welcome to the new era of connected construction Introducing Autodesk Construction Cloud™
 
 We’ve combined advanced technology, a network of builders, and powerful predictive insights to connect all stages of the building lifecycle: design, plan, build, and operate.
 
