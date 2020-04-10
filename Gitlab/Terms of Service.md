@@ -503,7 +503,7 @@ In this Agreement, unless the context otherwise requires:
 
 (b) challenges or disputes the validly of any of Vendor's Intellectual Property Rights. or
 
-(c) purports to assign any of its rights or obligations under this Agreement save as in accordance with clause 20 (Assignment and Subcontracting). 14. Consequences of termination
+(c) purports to assign any of its rights or obligations under this Agreement save as in accordance with clause 19 (Assignment and Subcontracting). 14. Consequences of termination
 
 14.1 All rights and obligations of the parties shall cease to have effect immediately on termination of this Agreement except that termination shall not affect:
 
