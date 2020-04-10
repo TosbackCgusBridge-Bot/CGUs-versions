@@ -225,23 +225,23 @@ Life as a CISO: How do CISOs make sense of all the cybersecurity tools?
     *   Emailed
     *   Recent
     
-    *   COVID-19 hurts travel and event fraudsters, but buoys online carding schemes
-    *   Maropost database with 95 million left open and unsecure
-    *   Default exploited by 'Zoom bombers' could by used by cybercrooks
-    *   Data dump contains PII on over 4.9M Georgians. origin unknown
+    *   SC Podcast: Resilience, trust and the cyber moonshot with Unisys' Tom Patterson
+    *   Sale of Dharma ransomware source code draws hackers' scrutiny, but the price is right
+    *   14 million Key Ring users exposed in open database
     *   Cure worse than disease? Patching riskier under COVID-19 work-from-home policies
+    *   Microsoft adds to Edge browser security
     
-    *   Cure worse than disease? Patching riskier under COVID-19 work-from-home policies
-    *   Best Buy gift cards, USB drive used to spread infostealer
-    *   NYC schools step away as Zoom sets remediation plan
-    *   FBI warns of Kwampirs attacks, COVID-19 scams
-    *   The inside scoop on insider threats
+    *   Ransomware attacks vs Kimchuk, Visser reveal supply chain threat to DOD
+    *   SC Media’s complete coverage: Threat and Preparation
+    *   Rush to adopt online learning under COVID-19 exposes schools to cyberattacks
+    *   Privacy in critical care after telehealth demands jump
+    *   Interpol warns hospitals about COVID-19-based ransomware threat
     
+    *   Malvertising campaign spoofs Malwarebytes website to deliver Raccoon info-stealer
+    *   Putting zero trust into action
     *   Free cybersecurity tools coming online to protect WFH staffers
     *   Interpol warns hospitals about COVID-19-based ransomware threat
     *   Maropost database with 95 million left open and unsecure
-    *   Researchers fool devices' biometric scanners with replicated fingerprints
-    *   Coronavirus turns up the heat on cybersecurity projects
 
 Back to Top
 
@@ -274,7 +274,7 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
 You can skip this ad in 1 seconds.
 
