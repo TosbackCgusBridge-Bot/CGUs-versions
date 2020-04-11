@@ -32,6 +32,7 @@ Policies &. Guidelines
 *   API
 *   Community
 *   Cookies
+*   Data Processing
 
 Flickr Terms &. Conditions of Use
 
