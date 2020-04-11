@@ -17,7 +17,7 @@ Primary navigation
 Select LanguageShqipالعربيةAzərbaycan diliBosanskiБългарски简体中文繁體中文HrvatskiČeskyDanskNederlandsEnglishEestiSuomiFrançais (Canada)Français (Européen)ქართულიDeutschΕλληνικάעבריתMagyarItaliano日本語한국어КыргызчаLatviešuLietuviųмакедонскиBahasa MelayuМонголNorskPolskiPortuguês (Brasil)Português (Portugal)RomânăРусскийSrpskiSlovenčinaSlovenščinaEspañolEspañol (España)SvenskaТоҷикӣภาษาไทยTürkçeTurkmenУкраїнськаاردوЎзбекчаTiếng Việt
 
 P&G Global Consumer Privacy Policy  
-_Date last updated: 1/1/2020_  
+_Date last updated: 03/31/2020_  
 
 We work hard to build and maintain a relationship of trust with you. So, when it comes to handling your information, we do so carefully and sensibly, and in ways that live up to that trust. This policy lets you know how we do that, including what information we collect, how we use and protect it, and how you can decide what we do with it. Our goal is to help you understand how we use your information to improve our content, products, advertisements, and services.
 
@@ -170,6 +170,8 @@ We may also use your personal information to better understand you and our custo
 *   To identify prospective consumers
 
 Another way we use your information is to track your use of products, services and websites to make sure that what you hear from us is relevant and useful to you as an individual. For example, we may send you information about Gillette® products if you have shown interest in our shaving products by visiting Gillette.com. When we do this, we may identify you or your device and associate you with different devices you may use in order to deliver more relevant advertising to you. We will use your information – a cookie ID or device ID -- to limit the number of times you see the same advertisement from Gillette. We want you to hear from us about the products you use and love without you hearing the same message We may also use your personal information to learn more about what consumers want so that we can make new products or improve the ones we already have.
+
+We also collect and use your information, including information provided by a third party (e.g., refer-a-friend program), to administer and maintain our financial incentive, rewards, discounts (e.g., price or service coupons) and loyalty programs (collectively, “Rewards Programs”). We use the information you provide in these programs to verify your identity, offer unique rewards, track your program status, and to facilitate the exchange of program points for products, promotional materials, training workshops, and other items. If you consent to participate in any of our Rewards Programs, you may withdraw that consent at any time by contacting us using the contact details in this Privacy Policy or in accordance with the instructions set forth in the applicable Rewards Program’s terms and conditions. We may use the information gathered from, or related to, participants in our Rewards Programs for any other purpose or in any other manner set forth in this Privacy Policy. For more information on how we calculate the value of your personal information for Rewards Programs as required under the California Consumer Privacy Act (“CCPA”), please click here.
 
   
 How We Safeguard Your Information
@@ -529,13 +531,13 @@ For more information about the categories of personal information we collect, bu
 *   the categories of third parties with whom we shared the personal information. and
 *   the categories of personal information about you that we sold or disclosed for a business purpose, and the categories of third parties to whom we sold or disclosed that information for a business purpose.
 
-In addition, you have the right to request that we delete certain personal information we have collected from you. To submit a request for general disclosure, access all the information we have about you or to ask to delete your data you can **contact us here** or call us at **(877) 701-0404** . To help protect your privacy and maintain security, we take steps to verify your identity before granting you access to your personal information or considering your deletion request. Upon receipt of your request, we will send you a verification form by email or postal mail. To complete your request, please respond to the verification form when you receive it. To verify your identity, we may require you to provide any of the following information: Name, email address, postal address, or date of birth. In addition, if you ask us to provide you with specific pieces of personal information, we will require you to sign a declaration under penalty of perjury that you are the consumer whose personal information is the subject of the request.
+In addition, you have the right to request that we delete certain personal information we have collected from you. To submit a request for general disclosure **contact us here** , to access all the information we have about you **contact us here** or to ask to delete your data as described above you can **contact us here** or call us at **(877) 701-0404** in any case. To help protect your privacy and maintain security, we take steps to verify your identity before granting you access to your personal information or considering your deletion request. Upon receipt of your request, we will send you a verification form by email or postal mail. To complete your request, please respond to the verification form when you receive it. To verify your identity, we may require you to provide any of the following information: Name, email address, postal address, or date of birth. In addition, if you ask us to provide you with specific pieces of personal information, we will require you to sign a declaration under penalty of perjury that you are the consumer whose personal information is the subject of the request.
 
 Please understand that P&G cannot delete personal information in those situations where our retention is required for our own internal business purposes or otherwise permitted by the CCPA (such as fraud prevention or legal compliance). In these situations, we will retain your information in accordance with our records retention program and securely delete it at the end of the retention period.
 
-Finally, you also have the right to opt out of the sale of your personal information. To exercise that right, please complete the process by **contacting us here** or call us at **(877) 701-0404.**
+Finally, you also have the right to opt out of the sale of your personal information.
 
-For more information about how we have shared your information with third parties such that it constitutes a “sale” under CCPA during the 12-month period prior to the date this privacy policy was last updated, please see the below chart. We do not knowingly sell personal information of minors under 16 years of age.
+For more information about how we have shared your information with third parties such that it constitutes a “sale” under CCPA during the 12-month period prior to the date this privacy policy was last updated, please see the below chart. We do not knowingly sell personal information of minors under 16 years of age. To exercise your right to opt out of sale, please follow the instructions in the chart immediately below .
 
 **“Sales” of Personal Information**
 
@@ -545,13 +547,17 @@ For more information about how we have shared your information with third partie
 
 **Geolocation Data**
 
-To opt out of sales of your data, **click here** or call us at (877) 701-0404.
+If you want us to update our internal records so we do not share your personal information from our brand programs with a third party in a way that may be defined as a “sale,” click here **or call us at (877) 701-0404.**
+
+Please note that P&G may also transfer your personal information to third parties through cookies or tracking technologies for advertising and joint marketing purposes. To exercise your “Do Not Sell” right related to website cookies and tracking technologies, please go to the applicable brand website, access our California Do Not “Sell” Request Center available at the bottom of the page and set your preferences. Because some of these third parties operate differently by website and device, you may need to take this step for each P&G website you use.
 
 **Demographic Information and Preferences**
 
 **Any other information with your consent**
 
 Under the CCPA, you may designate an authorized agent to make a request on your behalf but the agent will need to complete the verification process, including the submission of proof that it has been designated to act on your behalf. For access and deletion requests made by an authorized agent on your behalf, we also may require you to verify your own identity directly with us (as described above). We will not deny, charge different prices for, or provide a different level or quality of goods or services if you choose to exercise your rights under the CCPA.
+
+**Rewards Programs calculation.** Under the CCPA, you may be entitled to be informed as to why financial incentive programs, or price or service differences, are permitted under the law, including (i) a good-faith estimate of the value of your personal information that forms the basis for offering the financial incentive or price or service difference, and (ii) a description of the method we used to calculate the value of your personally identifiable information. Generally, we do not assign monetary or other value to personal information. However, in the event we are required by law to assign such value in the context of Rewards Programs, or price or service differences, we have valued the personal information collected and used as being equal to the value of the discount or financial incentive provided, and the calculation of the value is based upon a practical and good-faith effort often involving the (i) categories of personal information collected (e.g., names, email addresses), (ii) the transferability of such personal information for us and our Rewards Programs, (iii) the discounted price offered, (iv) the volume of consumers enrolled in our Rewards Programs, and (v) the product or service to which the Rewards Programs, or price or service differences, applies. The disclosure of the value described herein is not intended to waive, nor should be interpreted as a waiver to, our proprietary or business confidential information, including trade secrets, and does not constitute any representation with regard to generally accepted accounting principles or financial accounting standards.
 
 **california notice for minors.** We may offer interactive services which allow teens under the age of 18 to upload their own content (e.g., videos, comments, status updates, or pictures). This content can be removed or deleted any time by following the instructions on our sites. If you have questions about how to do this, contact us . Be aware that such posts may have been copied, forwarded, or posted elsewhere by others and we are not responsible for any such actions. You will, in such cases, have to contact other site owners to request removal of your content.
 
@@ -579,53 +585,3 @@ Please contact us directly with any questions or concerns you may have about you
 *   Adchoices 
 
 © 2020 Procter &. Gamble. All claims valid only in the U.S.
-
-California Do Not “Sell” Request CenterAs a California resident, you have the right to opt out of the “sale” of your personal information. P&G does not transfer your personal information to third parties in exchange for money but may share information with certain third parties for targeted advertising and joint marketing efforts. P&G shares your personal information through cookies and data extracts. To exercise your “Do Not Sell” right related to website cookies and tracking technologies, set your preferences below. Because some of these third parties operate differently by website and device, you may need to take this step on additional websites and devices you use. Manage Consent PreferencesCookies/Tracking Technologies Cookies/Tracking Technologies
-
-Click this button to exercise your right to opt-out of the transfer of your personal information by cookies or tracking technologies to third parties for advertising and joint marketing purposes.  
-  
-
-Data Extracts  
-As a consumer you may have engaged with us in other ways than visiting our websites. For example, you may have registered for one of our brand programs. If you want us to update our internal records so we do not share your personal information from our brand programs with a third party in a way that may be defined as a “sale,” please submit your request using **this webform.**  
-  
-For further details on how P&G processes your personal information, please see our **privacy policy.** Confirm My ChoicesBack Button
-
-Back
-
-Performance CookiesVendor Search Search IconFilter Icon
-
-Clear Fliters
-
-Information storage and accessApply
-
-All Consent Allowed
-
-Select All VendorsAll Consent Allowed
-
-*   33Acrosshost descriptionView CookiesREPLACE-WITH-DYANMIC-HOST-ID
-    *   Namecookie nameHostcookie hostDurationcookie durationTypecookie typeCategorycookie categoryDescriptioncookie category
-
-*   33AcrossView Privacy Notice
-    
-    3 Purposes
-    
-    REPLACE-WITH-DYANMIC-VENDOR-IDArrow
-    
-    Consent Purposes
-    
-    Location Based Ads
-    
-    Consent Allowed
-    
-    Legitimate Interest Purposes
-    
-    Personalize
-    
-    Require Opt-Out
-    
-    Features
-    
-    Location Based Ads
-    
-
-Confirm My Choices
