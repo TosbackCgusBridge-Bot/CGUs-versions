@@ -21,15 +21,12 @@ Main menu
         *   Cold Justice
         *   Dateline: Secrets Uncovered
         *   Deadly Cults
-        *   In Ice Cold Blood
         *   Kim Kardashian West: The Justice Project
         *   Killer Couples
         *   Mark of a Killer
-        *   Murdered by Morning
         *   Snapped
         *   The DNA of Murder with Paul Holes
         *   The Forgotten West Memphis Three
-        *   Up and Vanished
         *   Dark Web Exposed
         *   Famous Cases Explained
         *   How To Stay Safe
@@ -39,10 +36,10 @@ Main menu
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 2:05 Kim Kardashian West: The Justice Project Kim Kardashian West: The Justice Project Airs Sunday, April 5th 1:09 Kim Kardashian West: The Justice Project Pennsylvania Lt. Gov. John Fetterman On Criminal Justice Reform
+    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 1:35 Snapped Snapped 2419: Marcela Whaley 2:44 Catching a Serial Killer: Sam Little What Was Serial Killer Sam Little's MO?
 *   News
     *   Crime News
-    *   True Crime BuzzCandace Muzny poses during a portrait session for the K&N Pro Series East at Bristol Motor Speedway on March 16, 2012 in Bristol, Tennessee. Photo: Getty Images Crime News Ex-NASCAR Driver Candace Muzny Accidentally Drowned Cordell Richards Crime News Florida Teens Torture And Kill Man Chained To A Tree Helen Rattamasribounreuang and Keven Anderson Photo: West Virginia State Police Crime News West Virginia Parents Of Murdered Daughters Found Dead
+    *   True Crime BuzzLori Vallow Daybell is seen during her hearing on Friday, March 6, 2020, in Rexburg, Idaho. Photo: John Roark/The Idaho Post-Register/AP Crime News Lori Vallow's Lawyer Requests All Evidence In Case Crime News Elderly Woman Arrested For Murder With 'Cold Justice' Help Kelly Investigates the Crime Scene Crime News 'Cold Justice' Helps Solve 31-Year-Old Missouri Murder
 *   Podcasts
 *   Detective's Den
 *   Schedule
