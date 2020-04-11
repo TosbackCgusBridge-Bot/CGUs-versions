@@ -9,15 +9,43 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
-    *   MICHELE Watches
+    *   Goals Shop: Active Up to 65% Off
+    *   Goals Shop: Home Organization Up to 50% Off
+    *   Goals Shop: Men's Active &. More Up to 65% Off
+    *   Goals Shop: Active &. Lifestyle Shoes from $40
+    *   Free People FP Movement
+    *   Velvet Torch Under $35
+    *   Fidelity Denim Up to 70% Off
+    *   Fun for Every Look: Sandals from $25
+    *   Goals Shop: Fitness Trackers &. More Up to 50% Off
+    *   Goals Shop: Men's Active Shoes from $40
+    *   Goals Shop: Kids' Active Shoes from $30
+    *   Goals Shop: Kids' Active Up to 65% Off
+    *   Kitchen Best Sellers ft. Wusthof Cutlery &. More
+    *   HUE &. More Under $35 Incl. Plus
+    *   OnTwelfth &. More Under $45
+    *   Tommy Hilfiger Swim
+    *   Wear Now, Wear Later: Boots from $40
+    *   The Original Makeup Eraser
+    *   Dazzlepro Teeth Whitening Up to 85% Off
+    *   14K Gold, Gemstones &. More from $30
+    *   Liquid IV: Hydration Powder Supplements
+    *   Low Maintenance: Flat Sandals from $40
+    *   Chan Luu: Layering Necklaces &. Bracelets
+    *   alice + olivia Handbags
+    *   Free Shipping: Barware, Dinnerware &. More
+    *   Multi-Masking: Korean Beauty from $10
+    *   Free Shipping: Fine Art Up to 90% Off
+    *   Free Shipping: Storage Must-Haves from $15
+    *   Drinkware That Gives Back: CAUS Tumblers &. More
+    
+    *   Comfy Styles Under $50 Incl. Plus &. Petites
     *   Algenist Skin Care Up to 65% Off
     *   James Perse &. More Up to 60% Off
     *   Dolce Vita Up to 60% Off
-    *   Free People FP Movement
     *   Polished Perfection: H Halston &. More Up to 70% Off
     *   Men's Sandals ft. Havaianas
     *   Billabong &. More Under $50
-    *   Tops, Tanks and More Incl. Plus &. Petites from $20
     *   Pumps for Spring
     *   Handcrafted in Spain: UNOde50 Jewelry
     *   Intimates We Love: Cosabella
@@ -27,85 +55,75 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Always Fresh: Espadrille Sandals &. More
     *   Dressed-Up Casual: Sport Coats &. Denim
     *   Elevated Essentials: Designer Polos
-    *   Boys' Sandals ft. REEF
-    *   Luxe Luggage Up to 65% Off
-    *   Betsey Johnson Active &. More
     *   Top Toys for Kids 8 &. Older
     *   Top Toys for Kids 3-7
     *   Top Toys for Kids Under 3
+    *   Boys' Sandals ft. REEF
     *   Pamper Your Pet: Apparel &. More Up to 60% Off
     *   Home Fragrances Starting at $15
     *   Hair Hero: Kerastase
-    *   Designer Sunglasses Under $100 ft. Emilio Pucci
+    *   Luxe Luggage Up to 65% Off
+    *   Betsey Johnson Active &. More
+    *   MICHELE Watches
+    *   Tops, Tanks and More Incl. Plus &. Petites from $20
     *   Magnanni Shoes &. Accessories
-    
-    *   Laundry by Shelli Segal Incl. Plus &. Petites
-    *   Designer Swim Up to 60% Off
-    *   Step into Comfort: Sandals &. More
-    *   Jackets &. More Up to 65% Off Incl. Plus &. Petites
     *   Made in Italy: Meshmerise Starting at $30
-    *   Blu Pepper Incl. Plus Under $40
+    
     *   Men's Outdoor Shoes from adidas &. More
-    *   Le Mystere
-    *   Clutches &. More ft. Jessica McClintock
     *   Olivia Welles Jewelry Up to 75% Off
-    *   Take a Hike: adidas Outdoor &. More
     *   Hart Schaffner Marx
     *   ORA Derma Roller &. Microdermabrasion Tools
     *   Free Shipping: Donna Salyers' Fabulous Faux Furs
     *   Decorative Pillows, Throws &. More Up to 55% Off
     *   Fragrances ft. Jovoy &. More Up to 60% Off
     *   Rainy Day Essentials: Kids' Raincoats &. More
-    *   Closet to Bathroom: Organization Up to 60% Off
     *   Bedding Update: ED Ellen DeGeneres &. More
     *   Kitchen Gadgets &. Storage from $15
-    *   Kate Spade New York Up to 60% Off
-    *   Kate Spade New York Shoes Up to 50% Off
-    *   Kate Spade New York Home &. More Up to 50% Off
-    *   At-Home Workout: Activewear
     *   Hair Care Essentials Starting at $15
     *   K-Beauty ft. Asamo from $10
-    *   Girls' Spring Dresses Under $20
-    *   Volcom Men Under $30
     *   To Boot New York
-    
     *   Tech Accessories Up to 60% Off
-    *   Our Exclusive Brands ft. Harper Canyon
-    *   Adrienne Vittadini Girls
-    *   Sandro Moscoloni
     *   Moon and Jai Crystals &. Ritual Kits
     *   Cozy Night In: Journals, Candles &. More from $15
     *   Stylish Water Bottles &. Tumblers ft. S'well
     *   Free Shipping: BergHOFF Up to 60% Off
     *   1200 Thread Count Sheets Sets Up to 65% Off
-    *   D24K by D'OR Skin Care
-    *   Celebrity Strands Hair Extensions Up to 70% Off
-    *   Own Your Spotlight: JOI Mirrors &. More
     *   Free Shipping: Framed Art Up to 70% Off
-    *   Free Shipping: Wall Decor, Pillows &. More from $20
-    *   Serta Cozy Comforters &. More Up to 60% Off
     *   Kitchen Organization Blowout
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Predire Paris Luxury Skin Care Starting at $10
     *   Floris London: Luxury Fragrances for Her
     *   Wall Decals Up to 55% Off
-    *   Kate Spade New York Accessories Up to 50% Off
     *   Quirky &. Fun Towels, Coasters and More
-    *   Kate Spade New York Clothing Up to 70% Off
-    *   Refresh Your Basics: Tops, Tees &. More from $20
-    *   All-Day Cozy: PJs &. Slippers
-    *   Levi's Men
-    *   Spring Styles Under $20 Incl. Plus &. Petites
+    *   Serta Cozy Comforters &. More Up to 60% Off
+    *   Find Your Fit: Slim Fit Suiting &. More Starting at $30
 *   WomenShop Sale Events
     
-    *   MICHELE Watches
+    *   Goals Shop: Active Up to 65% Off
+    *   Goals Shop: Active &. Lifestyle Shoes from $40
+    *   Free People FP Movement
+    *   Velvet Torch Under $35
+    *   Fidelity Denim Up to 70% Off
+    *   Fun for Every Look: Sandals from $25
+    *   HUE &. More Under $35 Incl. Plus
+    *   OnTwelfth &. More Under $45
+    *   Tommy Hilfiger Swim
+    *   Wear Now, Wear Later: Boots from $40
+    *   The Original Makeup Eraser
+    *   Dazzlepro Teeth Whitening Up to 85% Off
+    *   14K Gold, Gemstones &. More from $30
+    *   Liquid IV: Hydration Powder Supplements
+    *   Low Maintenance: Flat Sandals from $40
+    *   Chan Luu: Layering Necklaces &. Bracelets
+    *   alice + olivia Handbags
+    *   Multi-Masking: Korean Beauty from $10
+    *   Comfy Styles Under $50 Incl. Plus &. Petites
     *   Algenist Skin Care Up to 65% Off
     *   James Perse &. More Up to 60% Off
     *   Dolce Vita Up to 60% Off
-    *   Free People FP Movement
     *   Polished Perfection: H Halston &. More Up to 70% Off
+    
     *   Billabong &. More Under $50
-    *   Tops, Tanks and More Incl. Plus &. Petites from $20
     *   Pumps for Spring
     *   Handcrafted in Spain: UNOde50 Jewelry
     *   Intimates We Love: Cosabella
@@ -113,38 +131,21 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Mirenesse Australia Starting at $10
     *   Coccinelle Handbags
     *   Always Fresh: Espadrille Sandals &. More
+    *   Hair Hero: Kerastase
     *   Luxe Luggage Up to 65% Off
     *   Betsey Johnson Active &. More
-    *   Hair Hero: Kerastase
-    *   Designer Sunglasses Under $100 ft. Emilio Pucci
-    *   Laundry by Shelli Segal Incl. Plus &. Petites
-    *   Designer Swim Up to 60% Off
-    *   Step into Comfort: Sandals &. More
-    *   Jackets &. More Up to 65% Off Incl. Plus &. Petites
-    
+    *   MICHELE Watches
+    *   Tops, Tanks and More Incl. Plus &. Petites from $20
     *   Made in Italy: Meshmerise Starting at $30
-    *   Blu Pepper Incl. Plus Under $40
-    *   Le Mystere
-    *   Clutches &. More ft. Jessica McClintock
     *   Olivia Welles Jewelry Up to 75% Off
-    *   Take a Hike: adidas Outdoor &. More
     *   ORA Derma Roller &. Microdermabrasion Tools
     *   Fragrances ft. Jovoy &. More Up to 60% Off
-    *   Kate Spade New York Up to 60% Off
-    *   Kate Spade New York Shoes Up to 50% Off
-    *   At-Home Workout: Activewear
     *   Hair Care Essentials Starting at $15
     *   K-Beauty ft. Asamo from $10
     *   Moon and Jai Crystals &. Ritual Kits
-    *   D24K by D'OR Skin Care
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Predire Paris Luxury Skin Care Starting at $10
     *   Floris London: Luxury Fragrances for Her
-    *   Kate Spade New York Accessories Up to 50% Off
-    *   Kate Spade New York Clothing Up to 70% Off
-    *   Refresh Your Basics: Tops, Tees &. More from $20
-    *   All-Day Cozy: PJs &. Slippers
-    *   Spring Styles Under $20 Incl. Plus &. Petites
     
     Shop By Category
     *   Clothing
@@ -152,22 +153,22 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Jewelry
     *   Lingerie &. Shapewear
     *   Handbags
-    *   Accessories
     *   Watches
+    *   Accessories
 *   MenShop Sale Events
     
+    *   Goals Shop: Men's Active &. More Up to 65% Off
+    *   Goals Shop: Men's Active Shoes from $40
     *   Men's Sandals ft. Havaianas
     *   Dressed-Up Casual: Sport Coats &. Denim
     *   Elevated Essentials: Designer Polos
     *   Luxe Luggage Up to 65% Off
+    
     *   Magnanni Shoes &. Accessories
     *   Men's Outdoor Shoes from adidas &. More
-    
     *   Hart Schaffner Marx
-    *   Volcom Men Under $30
     *   To Boot New York
-    *   Sandro Moscoloni
-    *   Levi's Men
+    *   Find Your Fit: Slim Fit Suiting &. More Starting at $30
     
     Shop By Category
     *   Shoes
@@ -175,81 +176,85 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Accessories
 *   KidsShop Sale Events
     
-    *   Boys' Sandals ft. REEF
+    *   Goals Shop: Kids' Active Shoes from $30
+    *   Goals Shop: Kids' Active Up to 65% Off
     *   Top Toys for Kids 8 &. Older
     *   Top Toys for Kids 3-7
     *   Top Toys for Kids Under 3
+    *   Boys' Sandals ft. REEF
     *   Rainy Day Essentials: Kids' Raincoats &. More
-    *   Girls' Spring Dresses Under $20
-    *   Our Exclusive Brands ft. Harper Canyon
-    *   Adrienne Vittadini Girls
     
     Shop By Category
-    *   Girls
     *   Toys
-    *   Baby
     *   Boys' Shoes
     *   Girls' Shoes
+    *   Girls
     *   Boys
+    *   Baby
 *   HomeShop Sale Events
     
+    *   Goals Shop: Home Organization Up to 50% Off
+    *   Goals Shop: Fitness Trackers &. More Up to 50% Off
+    *   Kitchen Best Sellers ft. Wusthof Cutlery &. More
+    *   Free Shipping: Barware, Dinnerware &. More
+    *   Free Shipping: Fine Art Up to 90% Off
+    *   Free Shipping: Storage Must-Haves from $15
+    *   Drinkware That Gives Back: CAUS Tumblers &. More
     *   Pamper Your Pet: Apparel &. More Up to 60% Off
     *   Home Fragrances Starting at $15
     *   Free Shipping: Donna Salyers' Fabulous Faux Furs
     *   Decorative Pillows, Throws &. More Up to 55% Off
-    *   Closet to Bathroom: Organization Up to 60% Off
     *   Bedding Update: ED Ellen DeGeneres &. More
+    
     *   Kitchen Gadgets &. Storage from $15
-    *   Kate Spade New York Home &. More Up to 50% Off
     *   Tech Accessories Up to 60% Off
     *   Cozy Night In: Journals, Candles &. More from $15
-    
     *   Stylish Water Bottles &. Tumblers ft. S'well
     *   Free Shipping: BergHOFF Up to 60% Off
     *   1200 Thread Count Sheets Sets Up to 65% Off
     *   Free Shipping: Framed Art Up to 70% Off
-    *   Free Shipping: Wall Decor, Pillows &. More from $20
-    *   Serta Cozy Comforters &. More Up to 60% Off
     *   Kitchen Organization Blowout
     *   Wall Decals Up to 55% Off
     *   Quirky &. Fun Towels, Coasters and More
+    *   Serta Cozy Comforters &. More Up to 60% Off
     
     Shop By Category
-    *   Home Decor
     *   Kitchen &. Tabletop
+    *   Home Decor
     *   Bedding
     *   Cleaning &. Organization
     *   Pet Accessories
     *   Electronic &. Tech Accessories
     *   Luggage &. Travel
-    *   Accent Furniture
     *   Outdoor Living
     *   Bath
     *   Holiday Decorations
+    *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   The Original Makeup Eraser
+    *   Dazzlepro Teeth Whitening Up to 85% Off
+    *   Liquid IV: Hydration Powder Supplements
+    *   Multi-Masking: Korean Beauty from $10
     *   Algenist Skin Care Up to 65% Off
     *   Mirenesse Australia Starting at $10
     *   Hair Hero: Kerastase
     *   ORA Derma Roller &. Microdermabrasion Tools
+    
     *   Fragrances ft. Jovoy &. More Up to 60% Off
     *   Hair Care Essentials Starting at $15
     *   K-Beauty ft. Asamo from $10
-    
     *   Moon and Jai Crystals &. Ritual Kits
-    *   D24K by D'OR Skin Care
-    *   Celebrity Strands Hair Extensions Up to 70% Off
-    *   Own Your Spotlight: JOI Mirrors &. More
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Predire Paris Luxury Skin Care Starting at $10
     *   Floris London: Luxury Fragrances for Her
     
     Shop By Category
     *   Skin Care
-    *   Hair Care
     *   Makeup
-    *   Tools &. Accessories
+    *   Hair Care
     *   Fragrance
+    *   Tools &. Accessories
     *   Bath &. Body
     *   Men’s Grooming
     *   Nails
