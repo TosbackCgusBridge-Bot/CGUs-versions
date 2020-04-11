@@ -225,23 +225,23 @@ Life as a CISO: How do CISOs make sense of all the cybersecurity tools?
     *   Emailed
     *   Recent
     
-    *   SC Podcast: Resilience, trust and the cyber moonshot with Unisys' Tom Patterson
-    *   Sale of Dharma ransomware source code draws hackers' scrutiny, but the price is right
-    *   14 million Key Ring users exposed in open database
-    *   Cure worse than disease? Patching riskier under COVID-19 work-from-home policies
-    *   Microsoft adds to Edge browser security
-    
-    *   Ransomware attacks vs Kimchuk, Visser reveal supply chain threat to DOD
-    *   SC Media’s complete coverage: Threat and Preparation
-    *   Rush to adopt online learning under COVID-19 exposes schools to cyberattacks
-    *   Privacy in critical care after telehealth demands jump
-    *   Interpol warns hospitals about COVID-19-based ransomware threat
-    
-    *   Malvertising campaign spoofs Malwarebytes website to deliver Raccoon info-stealer
-    *   Putting zero trust into action
+    *   As unemployment claims soar, cyber workforce remains strong
+    *   Researchers fool devices' biometric scanners with replicated fingerprints
     *   Free cybersecurity tools coming online to protect WFH staffers
-    *   Interpol warns hospitals about COVID-19-based ransomware threat
-    *   Maropost database with 95 million left open and unsecure
+    *   Ransomware attacks vs Kimchuk, Visser reveal supply chain threat to DOD
+    *   Microsoft defends health care orgs, Mozilla funds innovation to fight COVID-19
+    
+    *   WordPress WooCommerce sites targeted by credit card skimmers
+    *   CoinMiner found in third-party Zoom download
+    *   HackerOne bug bounty hunters give to COVID-19 relief fund
+    *   Putting zero trust into action
+    *   ACLU: Privacy Concerns abound over location tracking to stop Covid-19 spread
+    
+    *   San Francisco airport websites compromised to swipe credentials
+    *   Travelex paid $2.3 million ransom, report
+    *   Zscaler to acquire Cloudneeti
+    *   Coronavirus-driven online shopping driving more payment card skimming
+    *   HackerOne bug bounty hunters give to COVID-19 relief fund
 
 Back to Top
 
