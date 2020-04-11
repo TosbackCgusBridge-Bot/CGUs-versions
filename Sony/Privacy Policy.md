@@ -124,7 +124,7 @@ Play video: The Boys Are Back Together For One Last Ride Close video: The Boys A
 
 It may be early, but we already think Doom Eternal is one of the year's best games. Here's why:  http://play.st/3aFmD6b  pic.twitter.com/vDq4FhEORB
 
-4 days ago View Tweet Instagram Post B-sUIV6h9WW
+5 days ago View Tweet Instagram Post B-sUIV6h9WW
 
 Clean Your Camera Gear
 
