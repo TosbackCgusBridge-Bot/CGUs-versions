@@ -45,12 +45,14 @@ Skip to main content
     
     *   Drugs
     *   Supplements
+    *   View All
     
     Tools
     
     *   Manage Your Medications
     *   Pill Identifier
     *   Check for Interactions
+    *   View All
     
     Drug Basics &. Safety
     
@@ -137,7 +139,7 @@ Skip to main content
     *   My Account
     *   Sign Out
 
-WebMD Privacy PolicySubscribe
+Share on FacebookShare on TwitterShare on PinterestWebMD Privacy PolicySubscribe
 
 About Us
 
