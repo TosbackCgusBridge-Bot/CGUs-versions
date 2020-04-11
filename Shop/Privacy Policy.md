@@ -119,9 +119,9 @@ Lenovo Explore Close
         *   For a Gift
         *   Best Bargain
         
-        Tab M10
+        Tab M10 (FHD) Plus
         
-        The perfect family entertainment tablet
+        The best selling family entertainment tablet
         
         Sale
         
@@ -162,7 +162,6 @@ Lenovo Explore Close
         *   ThinkPad Thunderbolt 3 Dock
         *   C2G USB-C Docking Station
         *   Legion H500 Pro Gaming Headset
-        *   Lenovo 400 Wireless Mouse
         *   Everyday Laptop Backpack
         *   Ultra Slim Laptop Sleeve
     *   Monitors
