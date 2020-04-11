@@ -471,17 +471,13 @@ We have separate policies for workforce data, which is governed by the policies 
 
 Offers
 
-*   FandangoNOW's Ultimate 4K Sweeps!
+*   Watch the World Premiere Now
     
-    Rent or buy your favorite movies &. TV for a chance to win a complete Roku home entertainment system and more. LEARN MORE
+    Available to rent on FandangoNOW! WATCH NOW
     
 *   Receive $15 to Stream Movies
     
     When you buy $30 of Monster between March-June. SEE DETAILS
-    
-*   Premiering at home on Friday
-    
-    Get 50% off Dreamworks Animation when you pre-order on FandangoNOW today! PRE-ORDER NOW
     
 
 New + Coming soon
