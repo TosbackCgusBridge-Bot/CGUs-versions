@@ -225,19 +225,19 @@ Life as a CISO: How do CISOs make sense of all the cybersecurity tools?
     *   Emailed
     *   Recent
     
-    *   As unemployment claims soar, cyber workforce remains strong
-    *   Researchers fool devices' biometric scanners with replicated fingerprints
-    *   Free cybersecurity tools coming online to protect WFH staffers
-    *   Ransomware attacks vs Kimchuk, Visser reveal supply chain threat to DOD
-    *   Microsoft defends health care orgs, Mozilla funds innovation to fight COVID-19
-    
-    *   WordPress WooCommerce sites targeted by credit card skimmers
-    *   CoinMiner found in third-party Zoom download
-    *   HackerOne bug bounty hunters give to COVID-19 relief fund
-    *   Putting zero trust into action
+    *   Coronavirus turns up the heat on cybersecurity projects
+    *   Interpol warns hospitals about COVID-19-based ransomware threat
     *   ACLU: Privacy Concerns abound over location tracking to stop Covid-19 spread
+    *   FBI warns of Kwampirs attacks, COVID-19 scams
+    *   Microsoft adds to Edge browser security
     
-    *   San Francisco airport websites compromised to swipe credentials
+    *   Coronavirus-driven online shopping driving more payment card skimming
+    *   Cybercriminals targeting Zoom, Google and Teams domains
+    *   CoinMiner found in third-party Zoom download
+    *   SC Product Reviews: SIEM
+    *   Chrome browser update knocks out eight bugs
+    
+    *   San Francisco airport websites hacked to swipe personal device credentials
     *   Travelex paid $2.3 million ransom, report
     *   Zscaler to acquire Cloudneeti
     *   Coronavirus-driven online shopping driving more payment card skimming
@@ -274,8 +274,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
 
 You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
