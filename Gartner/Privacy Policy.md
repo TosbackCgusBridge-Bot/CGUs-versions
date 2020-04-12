@@ -79,7 +79,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 650 5170 1 855 650 5170
+    1 855 272 6012 1 855 272 6012
     
 
 *   Solutions By Function
@@ -145,7 +145,7 @@ Search
 
 *   Become a Client
     
-    1 855 650 5170 1 855 650 5170
+    1 855 272 6012 1 855 272 6012
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
