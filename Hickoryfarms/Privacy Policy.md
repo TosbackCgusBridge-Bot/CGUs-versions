@@ -75,6 +75,7 @@ close
 *   Holiday
     
     View All Categories Shop by Category*   Easter Gifts
+    *   Mother's Day Gifts
     
     Occasions*   Birthday Gifts
     *   Thank You Gifts
@@ -167,6 +168,7 @@ close
 *   Holiday
     
     View All Categories Shop by Category*   Easter Gifts
+    *   Mother's Day Gifts
     
     Occasions*   Birthday Gifts
     *   Thank You Gifts
