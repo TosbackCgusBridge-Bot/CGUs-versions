@@ -9,143 +9,150 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
+    *   Rachel Rachel Roy Up to 80% Off Incl. Plus
+    *   Athena Swim &. More from $25
+    *   Italian Collection: Handbags Up to 65% Off
+    *   Milk Makeup
+    *   Frank &. Eileen
+    *   cupcakes and cashmere &. More Up to 60% Off
+    *   Cozy Up: Luxe Laid-Back Styles Up to 65% Off
+    *   Onia Up to 70% Off
+    *   Nine West Up to 50% off
+    *   Fresh Finds: Sandals &. Sneakers from $40
+    *   Silver, Gemstones &. Diamonds from $25
+    *   Shapewear Under $35
+    *   Backyard Fun: Men's Swim from $15
+    *   Functionable Fashion: Utility Styles
+    *   Designer Sandals &. More Up to 60% Off
+    *   Great Heights: Wedges Up to 60% Off
+    *   Free Shipping: Wall Murals Starting at $15
+    *   Born Men
+    *   Chaco Kids at $35
+    *   skinChemists Up to 85% Off
+    *   Dynamic Innovation Labs Starting at $20
+    *   Pearl Bath Bombs Starting at $10
+    *   Boho-Chic Decor Up to 65% Off
+    *   Candles for Every Mood Starting at $12
+    *   WFH in Style: Men's Dress Shoes Up to 75% Off
+    *   Kids' Premium Denim ft. 7 For All Mankind
     *   Goals Shop: Active Up to 65% Off
     *   Goals Shop: Home Organization Up to 50% Off
-    *   Goals Shop: Men's Active &. More Up to 65% Off
+    *   Kitchen Best Sellers ft. Wusthof Cutlery &. More
+    *   Goals Shop: Men's Active Shoes from $40
     *   Goals Shop: Active &. Lifestyle Shoes from $40
-    *   Free People FP Movement
+    
     *   Velvet Torch Under $35
     *   Fidelity Denim Up to 70% Off
     *   Fun for Every Look: Sandals from $25
     *   Goals Shop: Fitness Trackers &. More Up to 50% Off
-    *   Goals Shop: Men's Active Shoes from $40
+    *   Goals Shop: Men's Active &. More Up to 65% Off
     *   Goals Shop: Kids' Active Shoes from $30
     *   Goals Shop: Kids' Active Up to 65% Off
-    *   Kitchen Best Sellers ft. Wusthof Cutlery &. More
-    *   HUE &. More Under $35 Incl. Plus
     *   OnTwelfth &. More Under $45
-    *   Tommy Hilfiger Swim
-    *   Wear Now, Wear Later: Boots from $40
+    *   HUE &. More Under $35 Incl. Plus
     *   The Original Makeup Eraser
     *   Dazzlepro Teeth Whitening Up to 85% Off
+    *   Free Shipping: Storage Must-Haves from $15
+    *   Drinkware That Gives Back: CAUS Tumblers &. More
     *   14K Gold, Gemstones &. More from $30
     *   Liquid IV: Hydration Powder Supplements
-    *   Low Maintenance: Flat Sandals from $40
     *   Chan Luu: Layering Necklaces &. Bracelets
     *   alice + olivia Handbags
     *   Free Shipping: Barware, Dinnerware &. More
     *   Multi-Masking: Korean Beauty from $10
     *   Free Shipping: Fine Art Up to 90% Off
-    *   Free Shipping: Storage Must-Haves from $15
-    *   Drinkware That Gives Back: CAUS Tumblers &. More
-    
     *   Comfy Styles Under $50 Incl. Plus &. Petites
-    *   Algenist Skin Care Up to 65% Off
-    *   James Perse &. More Up to 60% Off
-    *   Dolce Vita Up to 60% Off
-    *   Polished Perfection: H Halston &. More Up to 70% Off
+    *   Tommy Hilfiger Swim
+    *   MICHELE Watches
     *   Men's Sandals ft. Havaianas
-    *   Billabong &. More Under $50
-    *   Pumps for Spring
     *   Handcrafted in Spain: UNOde50 Jewelry
-    *   Intimates We Love: Cosabella
-    *   Rip Curl, Billabong &. More Surf Swim
     *   Mirenesse Australia Starting at $10
-    *   Coccinelle Handbags
-    *   Always Fresh: Espadrille Sandals &. More
     *   Dressed-Up Casual: Sport Coats &. Denim
     *   Elevated Essentials: Designer Polos
     *   Top Toys for Kids 8 &. Older
     *   Top Toys for Kids 3-7
     *   Top Toys for Kids Under 3
+    
     *   Boys' Sandals ft. REEF
     *   Pamper Your Pet: Apparel &. More Up to 60% Off
     *   Home Fragrances Starting at $15
     *   Hair Hero: Kerastase
-    *   Luxe Luggage Up to 65% Off
-    *   Betsey Johnson Active &. More
-    *   MICHELE Watches
-    *   Tops, Tanks and More Incl. Plus &. Petites from $20
     *   Magnanni Shoes &. Accessories
-    *   Made in Italy: Meshmerise Starting at $30
-    
     *   Men's Outdoor Shoes from adidas &. More
-    *   Olivia Welles Jewelry Up to 75% Off
-    *   Hart Schaffner Marx
     *   ORA Derma Roller &. Microdermabrasion Tools
     *   Free Shipping: Donna Salyers' Fabulous Faux Furs
     *   Decorative Pillows, Throws &. More Up to 55% Off
     *   Fragrances ft. Jovoy &. More Up to 60% Off
-    *   Rainy Day Essentials: Kids' Raincoats &. More
     *   Bedding Update: ED Ellen DeGeneres &. More
     *   Kitchen Gadgets &. Storage from $15
     *   Hair Care Essentials Starting at $15
     *   K-Beauty ft. Asamo from $10
-    *   To Boot New York
     *   Tech Accessories Up to 60% Off
-    *   Moon and Jai Crystals &. Ritual Kits
     *   Cozy Night In: Journals, Candles &. More from $15
     *   Stylish Water Bottles &. Tumblers ft. S'well
     *   Free Shipping: BergHOFF Up to 60% Off
     *   1200 Thread Count Sheets Sets Up to 65% Off
-    *   Free Shipping: Framed Art Up to 70% Off
     *   Kitchen Organization Blowout
+    *   Quirky &. Fun Towels, Coasters and More
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Predire Paris Luxury Skin Care Starting at $10
     *   Floris London: Luxury Fragrances for Her
     *   Wall Decals Up to 55% Off
-    *   Quirky &. Fun Towels, Coasters and More
-    *   Serta Cozy Comforters &. More Up to 60% Off
     *   Find Your Fit: Slim Fit Suiting &. More Starting at $30
+    *   Algenist Skin Care Up to 65% Off
+    *   Wear Now, Wear Later: Boots from $40
+    *   Low Maintenance: Flat Sandals from $40
+    *   Free People FP Movement
 *   WomenShop Sale Events
     
+    *   Rachel Rachel Roy Up to 80% Off Incl. Plus
+    *   Athena Swim &. More from $25
+    *   Italian Collection: Handbags Up to 65% Off
+    *   Milk Makeup
+    *   Frank &. Eileen
+    *   cupcakes and cashmere &. More Up to 60% Off
+    *   Cozy Up: Luxe Laid-Back Styles Up to 65% Off
+    *   Nine West Up to 50% off
+    *   Fresh Finds: Sandals &. Sneakers from $40
+    *   Silver, Gemstones &. Diamonds from $25
+    *   Functionable Fashion: Utility Styles
+    *   Designer Sandals &. More Up to 60% Off
+    *   Great Heights: Wedges Up to 60% Off
+    *   skinChemists Up to 85% Off
+    *   Dynamic Innovation Labs Starting at $20
+    *   Pearl Bath Bombs Starting at $10
     *   Goals Shop: Active Up to 65% Off
     *   Goals Shop: Active &. Lifestyle Shoes from $40
-    *   Free People FP Movement
     *   Velvet Torch Under $35
     *   Fidelity Denim Up to 70% Off
     *   Fun for Every Look: Sandals from $25
-    *   HUE &. More Under $35 Incl. Plus
     *   OnTwelfth &. More Under $45
-    *   Tommy Hilfiger Swim
-    *   Wear Now, Wear Later: Boots from $40
+    *   HUE &. More Under $35 Incl. Plus
     *   The Original Makeup Eraser
+    
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   14K Gold, Gemstones &. More from $30
     *   Liquid IV: Hydration Powder Supplements
-    *   Low Maintenance: Flat Sandals from $40
     *   Chan Luu: Layering Necklaces &. Bracelets
     *   alice + olivia Handbags
     *   Multi-Masking: Korean Beauty from $10
     *   Comfy Styles Under $50 Incl. Plus &. Petites
-    *   Algenist Skin Care Up to 65% Off
-    *   James Perse &. More Up to 60% Off
-    *   Dolce Vita Up to 60% Off
-    *   Polished Perfection: H Halston &. More Up to 70% Off
-    
-    *   Billabong &. More Under $50
-    *   Pumps for Spring
-    *   Handcrafted in Spain: UNOde50 Jewelry
-    *   Intimates We Love: Cosabella
-    *   Rip Curl, Billabong &. More Surf Swim
-    *   Mirenesse Australia Starting at $10
-    *   Coccinelle Handbags
-    *   Always Fresh: Espadrille Sandals &. More
-    *   Hair Hero: Kerastase
-    *   Luxe Luggage Up to 65% Off
-    *   Betsey Johnson Active &. More
+    *   Tommy Hilfiger Swim
     *   MICHELE Watches
-    *   Tops, Tanks and More Incl. Plus &. Petites from $20
-    *   Made in Italy: Meshmerise Starting at $30
-    *   Olivia Welles Jewelry Up to 75% Off
+    *   Handcrafted in Spain: UNOde50 Jewelry
+    *   Mirenesse Australia Starting at $10
+    *   Hair Hero: Kerastase
     *   ORA Derma Roller &. Microdermabrasion Tools
     *   Fragrances ft. Jovoy &. More Up to 60% Off
     *   Hair Care Essentials Starting at $15
     *   K-Beauty ft. Asamo from $10
-    *   Moon and Jai Crystals &. Ritual Kits
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Predire Paris Luxury Skin Care Starting at $10
     *   Floris London: Luxury Fragrances for Her
+    *   Algenist Skin Care Up to 65% Off
+    *   Wear Now, Wear Later: Boots from $40
+    *   Low Maintenance: Flat Sandals from $40
+    *   Free People FP Movement
     
     Shop By Category
     *   Clothing
@@ -157,105 +164,111 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Accessories
 *   MenShop Sale Events
     
-    *   Goals Shop: Men's Active &. More Up to 65% Off
+    *   Onia Up to 70% Off
+    *   Backyard Fun: Men's Swim from $15
+    *   Born Men
+    *   WFH in Style: Men's Dress Shoes Up to 75% Off
     *   Goals Shop: Men's Active Shoes from $40
+    *   Goals Shop: Men's Active &. More Up to 65% Off
+    
     *   Men's Sandals ft. Havaianas
     *   Dressed-Up Casual: Sport Coats &. Denim
     *   Elevated Essentials: Designer Polos
-    *   Luxe Luggage Up to 65% Off
-    
     *   Magnanni Shoes &. Accessories
     *   Men's Outdoor Shoes from adidas &. More
-    *   Hart Schaffner Marx
-    *   To Boot New York
     *   Find Your Fit: Slim Fit Suiting &. More Starting at $30
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Chaco Kids at $35
+    *   Kids' Premium Denim ft. 7 For All Mankind
     *   Goals Shop: Kids' Active Shoes from $30
     *   Goals Shop: Kids' Active Up to 65% Off
     *   Top Toys for Kids 8 &. Older
     *   Top Toys for Kids 3-7
     *   Top Toys for Kids Under 3
     *   Boys' Sandals ft. REEF
-    *   Rainy Day Essentials: Kids' Raincoats &. More
     
     Shop By Category
     *   Toys
     *   Boys' Shoes
     *   Girls' Shoes
-    *   Girls
     *   Boys
+    *   Girls
     *   Baby
 *   HomeShop Sale Events
     
+    *   Free Shipping: Wall Murals Starting at $15
+    *   Boho-Chic Decor Up to 65% Off
+    *   Candles for Every Mood Starting at $12
     *   Goals Shop: Home Organization Up to 50% Off
-    *   Goals Shop: Fitness Trackers &. More Up to 50% Off
     *   Kitchen Best Sellers ft. Wusthof Cutlery &. More
-    *   Free Shipping: Barware, Dinnerware &. More
-    *   Free Shipping: Fine Art Up to 90% Off
+    *   Goals Shop: Fitness Trackers &. More Up to 50% Off
     *   Free Shipping: Storage Must-Haves from $15
     *   Drinkware That Gives Back: CAUS Tumblers &. More
+    *   Free Shipping: Barware, Dinnerware &. More
+    *   Free Shipping: Fine Art Up to 90% Off
     *   Pamper Your Pet: Apparel &. More Up to 60% Off
     *   Home Fragrances Starting at $15
+    
     *   Free Shipping: Donna Salyers' Fabulous Faux Furs
     *   Decorative Pillows, Throws &. More Up to 55% Off
     *   Bedding Update: ED Ellen DeGeneres &. More
-    
     *   Kitchen Gadgets &. Storage from $15
     *   Tech Accessories Up to 60% Off
     *   Cozy Night In: Journals, Candles &. More from $15
     *   Stylish Water Bottles &. Tumblers ft. S'well
     *   Free Shipping: BergHOFF Up to 60% Off
     *   1200 Thread Count Sheets Sets Up to 65% Off
-    *   Free Shipping: Framed Art Up to 70% Off
     *   Kitchen Organization Blowout
-    *   Wall Decals Up to 55% Off
     *   Quirky &. Fun Towels, Coasters and More
-    *   Serta Cozy Comforters &. More Up to 60% Off
+    *   Wall Decals Up to 55% Off
     
     Shop By Category
-    *   Kitchen &. Tabletop
     *   Home Decor
+    *   Kitchen &. Tabletop
     *   Bedding
     *   Cleaning &. Organization
-    *   Pet Accessories
     *   Electronic &. Tech Accessories
+    *   Pet Accessories
+    *   Bath
     *   Luggage &. Travel
     *   Outdoor Living
-    *   Bath
     *   Holiday Decorations
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Milk Makeup
+    *   skinChemists Up to 85% Off
+    *   Dynamic Innovation Labs Starting at $20
+    *   Pearl Bath Bombs Starting at $10
     *   The Original Makeup Eraser
     *   Dazzlepro Teeth Whitening Up to 85% Off
     *   Liquid IV: Hydration Powder Supplements
     *   Multi-Masking: Korean Beauty from $10
-    *   Algenist Skin Care Up to 65% Off
     *   Mirenesse Australia Starting at $10
+    
     *   Hair Hero: Kerastase
     *   ORA Derma Roller &. Microdermabrasion Tools
-    
     *   Fragrances ft. Jovoy &. More Up to 60% Off
     *   Hair Care Essentials Starting at $15
     *   K-Beauty ft. Asamo from $10
-    *   Moon and Jai Crystals &. Ritual Kits
     *   Korean Beauty: DAENG GI MEO RI Herbal Hair Care
     *   Predire Paris Luxury Skin Care Starting at $10
     *   Floris London: Luxury Fragrances for Her
+    *   Algenist Skin Care Up to 65% Off
     
     Shop By Category
     *   Skin Care
     *   Makeup
     *   Hair Care
+    *   Bath &. Body
     *   Fragrance
     *   Tools &. Accessories
-    *   Bath &. Body
     *   Men’s Grooming
     *   Nails
 
