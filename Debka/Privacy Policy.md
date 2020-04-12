@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Saturday, April 11, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Sunday, April 12, 2020  
 
 DEBKAfile
 
@@ -46,6 +46,14 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   Netanyahu halts all incoming flights. Covid-19 fatalities pass 100
+    
+    Apr 11, 2020 @ 22:22
+    
+*    Coronavirus confirmed in 10,505 cases, causes 95 deaths
+    
+    Apr 11, 2020 @ 10:37
+    
 *   Mild quake in southern Israel
     
     Apr 10, 2020 @ 22:26
@@ -65,16 +73,16 @@ Breaking news
 *   OPEC agrees to cut oil output by 10 million bpd to prop falling prices
     
     Apr 10, 2020 @ 11:08
-    
-*   Two new IDF training bases planned for Jordan Valley
-    
-    Apr 10, 2020 @ 10:55
-    
-*   Saudis call a two-week truce in Yemen war
-    
-    Apr 09, 2020 @ 14:47
     
 
+*   Global deaths from coronavirus rise to 100,000
+    
+    Apr 10, 2020 @ 22:22
+    
+*   In South Korea “cured” covid-19 patients are re-infected
+    
+    Apr 10, 2020 @ 22:21
+    
 *   PM Netanyahu promises to ease lockdown after Passover
     
     Apr 10, 2020 @ 22:13
@@ -83,13 +91,13 @@ Breaking news
     
     Apr 10, 2020 @ 11:08
     
-*   Two new IDF training bases planned for Jordan Valley
+*   Netanyahu halts all incoming flights. Covid-19 fatalities pass 100
     
-    Apr 10, 2020 @ 10:55
+    Apr 11, 2020 @ 22:22
     
-*   Saudis call a two-week truce in Yemen war
+*    Coronavirus confirmed in 10,505 cases, causes 95 deaths
     
-    Apr 09, 2020 @ 14:47
+    Apr 11, 2020 @ 10:37
     
 *   Mild quake in southern Israel
     
@@ -111,13 +119,13 @@ Breaking news
     
     Apr 10, 2020 @ 11:08
     
-*   Two new IDF training bases planned for Jordan Valley
+*   Netanyahu halts all incoming flights. Covid-19 fatalities pass 100
     
-    Apr 10, 2020 @ 10:55
+    Apr 11, 2020 @ 22:22
     
-*   Saudis call a two-week truce in Yemen war
+*    Coronavirus confirmed in 10,505 cases, causes 95 deaths
     
-    Apr 09, 2020 @ 14:47
+    Apr 11, 2020 @ 10:37
     
 *   Mild quake in southern Israel
     
@@ -126,14 +134,6 @@ Breaking news
 *   Global deaths from coronavirus rise to 100,000
     
     Apr 10, 2020 @ 22:22
-    
-*   In South Korea “cured” covid-19 patients are re-infected
-    
-    Apr 10, 2020 @ 22:21
-    
-*   PM Netanyahu promises to ease lockdown after Passover
-    
-    Apr 10, 2020 @ 22:13
     
 
 12PrevNext
