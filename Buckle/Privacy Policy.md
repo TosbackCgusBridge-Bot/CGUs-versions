@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Limited Time! 15% Off Hurley Active. shop now
+Don’t Wait! Buy One, Get One 50% Off Dresses, Rompers, &. Skirts. shop now
 
 *   Women
 *   Men
