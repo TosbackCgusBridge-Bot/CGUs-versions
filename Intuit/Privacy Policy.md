@@ -1,9 +1,9 @@
 EXTRA 20% OFF under $75 with code: BASKET8 DetailsEnable Accessibility
 
-*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed.Sign InSign InCreate Account
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed. Weekly Ads Easter SaleValid Apr 9th - Apr 12thEngagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   My Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   Staying At Home
 *   Home &. Lifestyle
@@ -17,7 +17,7 @@ EXTRA 20% OFF under $75 with code: BASKET8 DetailsEnable Accessibility
 *   Salon
 *   Sephora Beauty
 
-MenGirlsBoysUP TO 40% OFF Xersion for the family|select styles
+SheetsBed pillowsComfortersMattressesMenGirlsBoysUP TO 40% OFF Xersion for the family|select styles
 
 *   Shop now
 
@@ -30,7 +30,7 @@ MenGirlsBoysUP TO 40% OFF Xersion for the family|select styles
 *   Boys
     
 
-Shop nowNikeChampionSheetsBed pillowsComfortersMattressesSave on backyard fun essentials
+Shop nowNikeChampionSave on backyard fun essentials
 
 *   Shop swimwear
 
@@ -66,63 +66,61 @@ Shop all gamesWork From Home WomenWork From Home MenWork From Home TechPlay At H
   
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   $799 - $2499 sale
+*   $719 - $1040after coupona.n.a-Womens Round Neck Short Sleeve T-Shirt(18)
+*   $139 - $199 clearance
     
-    was $40 | 37 - 80% offGloria Vanderbilt® Amanda Jeans(1524)
-*   $40 - $11250after couponJCPenney Home Ultra Performance 575 Sateen Deep Pocket Sheet Set(150)
-*   $139 - $399 clearance
-    
-    was $7 | 43 - 80% offXersion-Womens Performance Tee(1658)
+    was $7 | 71 - 80% offXersion-Womens Performance Tee(1659)
+*   $239 - $1599after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(530)
+*   $719 - $799after couponwas $13 a.n.a Womens V Neck Sleeveless Tank Top(8)
 *   $6375 - $6775 sale
     
     was $85 - $90 | 24 - 25% offNike Air Max Motion 2 Womens Running Shoes(15)
-*   $719 - $799after couponwas $13 a.n.a Womens V Neck Sleeveless Tank Top(8)
-*   $399 - $2399after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1680)
+*   $1039 - $2399after couponwas $26 - $60 Home Expressions Microfiber Plus Ultra Soft Easy Care Wrinkle Resistant Sheet Set(1690)
 
 Sponsored Items
 
+*   $879 - $3699 sale
+    
+    was $44 | 16 - 80% offVanity Fair Beyond Comfort Wireless Comfort Full Figure Bra-71282(54)Add To Cart
 *   $3199after couponwas $54 Lock &. Lock 4-pc. 7.6-cup Food ContainerAdd To Cart
-*   $3599after couponwas $56 Wrangler All Terrain Gear Reinforced Utility Mens Regular Fit Flat Front PantAdd To Cart
 *   $8999 sale
     
     was $94 | 4% offWaterpik WF-06W010 Whitening Water Flosser(110)Add To Cart
-*   $2959after couponwas $44 Vanity Fair Beyond Comfort Wireless Comfort Full Figure Bra-71282(54)Add To Cart
 *   $999
     
     Hasbro Playskool Friends Mr. Potato Head Classic(1)
+*   $4319after couponwas $78 Wrangler Riggs Workwear® Ranger Pants(374)Add To Cart
 *   $20610after couponGoogle Nest Hello Video Doorbell(355)
-*   $4999
-    
-    Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill Pan(37)Add To Cart
-*   $3999
-    
-    As Seen on TV Blue Diamond Ceramic 11" Non-Stick Square Griddle(21)Add To Cart
-*   $17999 sale
-    
-    was $300 | 40% offRachael Ray Create Delicious 11-Pc. Cookware Set(43)Add To Cart
-*   $1319 - $2999 sale
-    
-    was $44 | 31 - 70% offLee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit)(628)Add To Cart
-*   $3999 sale
-    
-    was $70 | 42% offGreenPan Rio Non-Stick Frying Pan(1)
+*   $2399after couponwas $44 Lee Womens Straight Leg Jean(29)Add To Cart
 *   $1499
     
     Fisher-Price Laugh &. Learn Click &. Learn Laptop(10)
-*   $33499 sale
+*   $17999 sale
     
-    was $360 | 7% offBissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum(2293)
+    was $300 | 40% offRachael Ray Create Delicious 11-Pc. Cookware Set(43)Add To Cart
+*   $4999
+    
+    Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill Pan(37)Add To Cart
 *   $56999 sale
     
     was $669 | 14% offDyson® V8 Animal Cord-Free Vacuum(178)
+*   $33499 sale
+    
+    was $360 | 7% offBissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum(2301)
 *   $1999after couponwas $34 Range Kleen 4-Pack Drip BowlsAdd To Cart
-*   $2799after couponwas $50 Lock &. Lock 14-pc. Food ContainerAdd To Cart
+*   $3999 sale
+    
+    was $70 | 42% offGreenPan Rio Non-Stick Frying Pan(1)
+*   $3999
+    
+    As Seen on TV Blue Diamond Ceramic 11" Non-Stick Square Griddle(21)Add To Cart
+*   $2399after couponwas $40 Lock &. Lock 10-pc. Food ContainerAdd To Cart
+*   $2399after couponwas $40 Lock &. Lock 6-pc. Food ContainerAdd To Cart
 *   $24after couponwas $40 Sealy® SafetyCase™ Protective Crib Mattress Encasement (1)Add To Cart
 *   $24999 sale
     
-    was $279.99 | 10% offSamsung Galaxy Active 2 40mm Womens Multi-Function Silver Tone Smart Watch-Sm-R830nzsaxar(23)Add To Cart
-*   $2399after couponwas $40 Lock &. Lock 6-pc. Food ContainerAdd To Cart
-*   $4319after couponwas $78 Wrangler Riggs Workwear® Ranger Pants(374)Add To Cart
+    was $279.99 | 10% offSamsung Galaxy Active 2 40mm Womens Multi-Function Rose Goldtone Smart Watch-Sm-R830nzdaxar(23)Add To Cart
+*   $2799after couponwas $50 Lock &. Lock 14-pc. Food ContainerAdd To Cart
 
 Shop and Save at JCPenney
 
