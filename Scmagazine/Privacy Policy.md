@@ -225,17 +225,17 @@ Life as a CISO: How do CISOs make sense of all the cybersecurity tools?
     *   Emailed
     *   Recent
     
-    *   Coronavirus turns up the heat on cybersecurity projects
-    *   Interpol warns hospitals about COVID-19-based ransomware threat
-    *   ACLU: Privacy Concerns abound over location tracking to stop Covid-19 spread
+    *   Coalition of nonprofits push to secure remote workforce
+    *   Phishing emails impersonate White House, Trump, give false COVID-19 guidance
     *   FBI warns of Kwampirs attacks, COVID-19 scams
-    *   Microsoft adds to Edge browser security
+    *   Coronavirus turns up the heat on cybersecurity projects
+    *   Data dump contains PII on over 4.9M Georgians. origin unknown
     
-    *   Coronavirus-driven online shopping driving more payment card skimming
-    *   Cybercriminals targeting Zoom, Google and Teams domains
-    *   CoinMiner found in third-party Zoom download
-    *   SC Product Reviews: SIEM
-    *   Chrome browser update knocks out eight bugs
+    *   Maropost database with 95 million left open and unsecure
+    *   Coronavirus turns up the heat on cybersecurity projects
+    *   OGUsers hacked again, user records uploaded by competitor
+    *   Mozilla and Google release second batch of patches in one week
+    *   Microsoft adds to Edge browser security
     
     *   San Francisco airport websites hacked to swipe personal device credentials
     *   Travelex paid $2.3 million ransom, report
@@ -274,6 +274,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
 You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
