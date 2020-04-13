@@ -245,17 +245,6 @@ Close Upload ★VIP
 
 **Search Suggestions** start typing for suggestions ... **Suggested Pornstars** start typing for suggestions ... **Suggested Channels** start typing for suggestions ... **Suggested Keywords**
 
-*   big natural tits
-*   girl
-*   my friends hot
-*   casting couch
-*   moms teach sex
-*   first time
-*   friends hot mom
-*   homemade
-*   ass
-*   creampie compilation
-
 **Recent Searches** Clear
 
 JOIN VIP FOR $1
