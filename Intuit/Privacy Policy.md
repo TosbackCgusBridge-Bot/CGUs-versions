@@ -1,6 +1,6 @@
 EXTRA 20% OFF under $75 with code: BASKET8 DetailsEnable Accessibility
 
-*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed. Weekly Ads Easter SaleValid Apr 9th - Apr 12thEngagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed.Sign InSign InCreate Account
     *   Track My Orders
     *   My Rewards
     *   JCP Credit CardCart
@@ -71,56 +71,56 @@ Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded
     
     was $7 | 71 - 80% offXersion-Womens Performance Tee(1659)
 *   $239 - $1599after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(530)
-*   $719 - $799after couponwas $13 a.n.a Womens V Neck Sleeveless Tank Top(8)
 *   $6375 - $6775 sale
     
-    was $85 - $90 | 24 - 25% offNike Air Max Motion 2 Womens Running Shoes(15)
+    was $85 - $90 | 24 - 25% offNike Air Max Motion 2 Womens Running Shoes(16)
 *   $1039 - $2399after couponwas $26 - $60 Home Expressions Microfiber Plus Ultra Soft Easy Care Wrinkle Resistant Sheet Set(1690)
+*   $639 - $4399after couponwas $16 - $124 Liz Claiborne Luxury Egyptian Hygrocotton Loops Bath Towel(121)
 
 Sponsored Items
 
-*   $879 - $3699 sale
+*   $999
     
-    was $44 | 16 - 80% offVanity Fair Beyond Comfort Wireless Comfort Full Figure Bra-71282(54)Add To Cart
+    Hasbro Playskool Friends Mr. Potato Head Classic(1)
 *   $3199after couponwas $54 Lock &. Lock 4-pc. 7.6-cup Food ContainerAdd To Cart
 *   $8999 sale
     
     was $94 | 4% offWaterpik WF-06W010 Whitening Water Flosser(110)Add To Cart
-*   $999
-    
-    Hasbro Playskool Friends Mr. Potato Head Classic(1)
+*   $2959after couponwas $44 Vanity Fair Beyond Comfort Wireless Comfort Full Figure Bra-71282(54)Add To Cart
 *   $4319after couponwas $78 Wrangler Riggs Workwear® Ranger Pants(374)Add To Cart
-*   $20610after couponGoogle Nest Hello Video Doorbell(355)
-*   $2399after couponwas $44 Lee Womens Straight Leg Jean(29)Add To Cart
-*   $1499
+*   $1999
     
-    Fisher-Price Laugh &. Learn Click &. Learn Laptop(10)
-*   $17999 sale
-    
-    was $300 | 40% offRachael Ray Create Delicious 11-Pc. Cookware Set(43)Add To Cart
+    Fisher-Price Laugh &. Learn Smart Stages Sis(48)Add To Cart
 *   $4999
     
     Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill Pan(37)Add To Cart
-*   $56999 sale
-    
-    was $669 | 14% offDyson® V8 Animal Cord-Free Vacuum(178)
-*   $33499 sale
-    
-    was $360 | 7% offBissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum(2301)
-*   $1999after couponwas $34 Range Kleen 4-Pack Drip BowlsAdd To Cart
-*   $3999 sale
-    
-    was $70 | 42% offGreenPan Rio Non-Stick Frying Pan(1)
+*   $20610after couponGoogle Nest Hello Video Doorbell(355)
 *   $3999
     
     As Seen on TV Blue Diamond Ceramic 11" Non-Stick Square Griddle(21)Add To Cart
-*   $2399after couponwas $40 Lock &. Lock 10-pc. Food ContainerAdd To Cart
+*   $1319 - $2999 sale
+    
+    was $44 | 31 - 70% offLee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit)(628)Add To Cart
+*   $6749after couponwas $120 Farberware Cookstart 15-pc. Cookware Set(61)Add To Cart
+*   $14999 - $17999 sale
+    
+    was $300 | 40 - 50% offRachael Ray Create Delicious 11-Pc. Cookware Set(43)Add To Cart
+*   $1999after couponwas $34 Range Kleen 4-Pack Drip BowlsAdd To Cart
+*   $33499 sale
+    
+    was $360 | 7% offBissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum(2303)
+*   $56999 sale
+    
+    was $669 | 14% offDyson® V8 Animal Cord-Free Vacuum(178)
+*   $7999 sale
+    
+    was $99.99 | 20% offSamsung Galaxy Fit Womens Multi-Function White Smart Watch-Sm-R370nzsaxar(33)Add To Cart
 *   $2399after couponwas $40 Lock &. Lock 6-pc. Food ContainerAdd To Cart
 *   $24after couponwas $40 Sealy® SafetyCase™ Protective Crib Mattress Encasement (1)Add To Cart
-*   $24999 sale
+*   $3599after couponwas $56 Wrangler All Terrain Gear Reinforced Utility Mens Regular Fit Flat Front PantAdd To Cart
+*   $3999 sale
     
-    was $279.99 | 10% offSamsung Galaxy Active 2 40mm Womens Multi-Function Rose Goldtone Smart Watch-Sm-R830nzdaxar(23)Add To Cart
-*   $2799after couponwas $50 Lock &. Lock 14-pc. Food ContainerAdd To Cart
+    was $70 | 42% offGreenPan Rio Non-Stick Frying Pan(1)
 
 Shop and Save at JCPenney
 
