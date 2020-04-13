@@ -1,10 +1,10 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Limited Time! 15% Off Hurley Active. shop now Hurry! 15% Off Men’s BKE Shirts &. Shorts. shop now Don’t Wait! Buy One, Get One 50% Off Dresses, Rompers, &. Skirts. shop now
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Up to 50% Off our favorite sale finds. shop now Due to concerns of COVID-19, we are closing all Buckle stores, effective March 17th. learn more >
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-Don’t Wait! Buy One, Get One 50% Off Dresses, Rompers, &. Skirts. shop now
+Due to concerns of COVID-19, we are closing all Buckle stores, effective March 17th. learn more >
 
 *   Women
 *   Men
