@@ -36,10 +36,10 @@ Main menu
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 1:35 Snapped Snapped 2419: Marcela Whaley 2:44 Catching a Serial Killer: Sam Little What Was Serial Killer Sam Little's MO?
+    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 1:21 The DNA of Murder with Paul Holes Linking Kathleen Heisey to Her Killer 1:00 Catching a Serial Killer: Sam Little Catching a Serial Killer: Sam Little Airs Sunday, 4/12 at 7/6c
 *   News
     *   Crime News
-    *   True Crime BuzzLori Vallow Daybell is seen during her hearing on Friday, March 6, 2020, in Rexburg, Idaho. Photo: John Roark/The Idaho Post-Register/AP Crime News Lori Vallow's Lawyer Requests All Evidence In Case Crime News Elderly Woman Arrested For Murder With 'Cold Justice' Help Kelly Investigates the Crime Scene Crime News 'Cold Justice' Helps Solve 31-Year-Old Missouri Murder
+    *   True Crime BuzzCandace Muzny poses during a portrait session for the K&N Pro Series East at Bristol Motor Speedway on March 16, 2012 in Bristol, Tennessee. Photo: Getty Images Crime News Ex-NASCAR Driver Candace Muzny Accidentally Drowned Kelly Investigates the Crime Scene Crime News 'Cold Justice' Helps Solve 31-Year-Old Missouri Murder Kathleen Heisey Crime News Who Killed California Principal Kathleen Heisey?
 *   Podcasts
 *   Detective's Den
 *   Schedule
