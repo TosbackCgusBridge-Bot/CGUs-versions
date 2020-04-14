@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Due to concerns of COVID-19, we are closing all Buckle stores, effective March 17th. learn more >
+Up to 50% Off our favorite sale finds. shop now
 
 *   Women
 *   Men
