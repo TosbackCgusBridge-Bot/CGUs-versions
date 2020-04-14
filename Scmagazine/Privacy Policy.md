@@ -213,11 +213,11 @@ New York, New York 10001
 
 Attention: Chief Digital Officer  
 
-Cybersecurity asset management: Where we are and how we got here
+Knowing your assets is job one
 
-Why does asset management matter for cybersecurity?
+Q&A: Tips &. tricks for asset management
 
-Life as a CISO: How do CISOs make sense of all the cybersecurity tools?
+Life as a CISO: A Q&A with Ray Espinoza of Cobalt.io
 
 *   MOST POPULAR
     
@@ -225,23 +225,23 @@ Life as a CISO: How do CISOs make sense of all the cybersecurity tools?
     *   Emailed
     *   Recent
     
-    *   Coalition of nonprofits push to secure remote workforce
-    *   Phishing emails impersonate White House, Trump, give false COVID-19 guidance
-    *   FBI warns of Kwampirs attacks, COVID-19 scams
-    *   Coronavirus turns up the heat on cybersecurity projects
-    *   Data dump contains PII on over 4.9M Georgians. origin unknown
-    
-    *   Maropost database with 95 million left open and unsecure
-    *   Coronavirus turns up the heat on cybersecurity projects
-    *   OGUsers hacked again, user records uploaded by competitor
-    *   Mozilla and Google release second batch of patches in one week
+    *   Researchers fool devices' biometric scanners with replicated fingerprints
+    *   COVID-19 hurts travel and event fraudsters, but buoys online carding schemes
+    *   Free cybersecurity tools coming online to protect WFH staffers
+    *   Cure worse than disease? Patching riskier under COVID-19 work-from-home policies
     *   Microsoft adds to Edge browser security
     
-    *   San Francisco airport websites hacked to swipe personal device credentials
-    *   Travelex paid $2.3 million ransom, report
     *   Zscaler to acquire Cloudneeti
-    *   Coronavirus-driven online shopping driving more payment card skimming
-    *   HackerOne bug bounty hunters give to COVID-19 relief fund
+    *   Zero-day bug found in procurement solution used by government bodies
+    *   COVID-19 has changed business, but threat actors and tools remain strangely familiar
+    *   Microsoft defends health care orgs, Mozilla funds innovation to fight COVID-19
+    *   NYC schools step away as Zoom sets remediation plan
+    
+    *   Pranksters installing MBRLocker wiper, blame Vitali Kremez, MalwareHunterTeam for attack
+    *   Compromised email account leads to Saint Francis Ministries data breach
+    *   VMware issues 10.0 CVSS rating on vCenter Server vulnerability
+    *   Why the information security of your company depends on machine learning
+    *   San Francisco airport websites hacked to swipe personal device credentials
 
 Back to Top
 
@@ -274,8 +274,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
