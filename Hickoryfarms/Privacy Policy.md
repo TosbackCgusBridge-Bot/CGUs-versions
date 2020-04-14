@@ -9,7 +9,7 @@ close
     *   Gift Towers &. Crates
     *   California Gift Baskets
     
-    Occasions*   Easter Gifts
+    Occasions*   Mother's Day Gifts
     *   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
@@ -74,14 +74,13 @@ close
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Easter Gifts
-    *   Mother's Day Gifts
+    View All Categories Shop by Category*   Mother's Day Gifts
     
     Occasions*   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
     *   Thinking of You
-    *   Sympathy GiftsMost Popular Easter Gifts Gifts for All Occasions
+    *   Sympathy GiftsMost Popular Gifts for All Occasions
 *   Business Gifts
     View All Categories Shop by Category*   Thank You Gifts
     *   Birthday Gifts
@@ -102,7 +101,7 @@ close
     *   Gift Towers &. Crates
     *   California Gift Baskets
     
-    Occasions*   Easter Gifts
+    Occasions*   Mother's Day Gifts
     *   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
@@ -167,14 +166,13 @@ close
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Easter Gifts
-    *   Mother's Day Gifts
+    View All Categories Shop by Category*   Mother's Day Gifts
     
     Occasions*   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
     *   Thinking of You
-    *   Sympathy GiftsMost Popular Easter Gifts Gifts for All Occasions
+    *   Sympathy GiftsMost Popular Gifts for All Occasions
 *   Business Gifts
     View All Categories Shop by Category*   Thank You Gifts
     *   Birthday Gifts
