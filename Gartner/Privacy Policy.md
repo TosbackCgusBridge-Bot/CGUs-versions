@@ -57,6 +57,7 @@ Search
     
     Featured Insights
     
+    *   Benchmarking
     *   Coronavirus (COVID-19)
     *   Cost Optimization
     *   Executive Guidance
@@ -79,7 +80,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 283 4014 1 855 283 4014
+    1 855 810 5645 1 855 810 5645
     
 
 *   Solutions By Function
@@ -123,6 +124,7 @@ Search
     *   Supply Chain
     
     Featured Insights
+    *   Benchmarking
     *   Coronavirus (COVID-19)
     *   Cost Optimization
     *   Executive Guidance
@@ -145,7 +147,7 @@ Search
 
 *   Become a Client
     
-    1 855 283 4014 1 855 283 4014
+    1 855 810 5645 1 855 810 5645
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
