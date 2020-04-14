@@ -13,14 +13,14 @@ A Message to Our Movie Fans Read More Gift Cards | Offers | Sign In Sign Out
     
     Coming Soon
     
-    *   My Spy (2020)
-    *   Bad Trip (2020)
     *   Run Sweetheart Run (2020)
     *   The High Note (2020)
     *   The Green Knight (2020)
     *   Irresistible (2020)
     *   Soul (2020)
     *   Tenet
+    *   Mulan (2020)
+    *   The SpongeBob Movie: Sponge on the Run
     *   See All Coming Soon
     
     Explore More
