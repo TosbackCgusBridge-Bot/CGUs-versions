@@ -2,7 +2,7 @@ We use cookies to ensure the best experience on our website. If you continue to 
 
 If you decline, your information won’t be tracked. A single cookie will be used to remember your preference.
 
-AcceptDecline
+Accept Decline
 
 *   Home
 *   Products
