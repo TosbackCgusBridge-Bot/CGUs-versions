@@ -411,30 +411,30 @@ If you have questions or complaints regarding this Policy, please first contact 
 *   Small Business
 *   Mobile
 *   Language
-    *   Bahasa Indonesia
-    *   Bahasa Malaysia
-    *   Čeština
-    *   Dansk
-    *   Deutsch
-    *   English
-    *   Español
-    *   繁體中文
-    *   Français
-    *   한국어
-    *   Italiano
-    *   简体中文
-    *   Nederlands
-    *   日本語
-    *   Norsk
-    *   Polski
-    *   Português
-    *   Română
-    *   Русский
-    *   Svenska
-    *   Tagalog
-    *   ภาษาไทย
-    *   Türkçe
-    *   العربية
+    *   العربية (Arabic)
+    *   Čeština (Czech)
+    *   Dansk (Danish)
+    *   Deutsch (German)
+    *   **English (English)**
+    *   Español (Spanish)
+    *   Français (French)
+    *   Bahasa Indonesia (Bahasa Indonesia)
+    *   Italiano (Italian)
+    *   日本語 (Japanese)
+    *   한국어 (Korean)
+    *   Bahasa Malaysia (Malay)
+    *   Nederlands (Dutch)
+    *   Norsk (Norwegian)
+    *   Polski (Polish)
+    *   Português (Portuguese)
+    *   Română (Romanian)
+    *   Русский (Russian)
+    *   Svenska (Swedish)
+    *   ภาษาไทย (Thai)
+    *   Tagalog (Tagalog)
+    *   Türkçe (Turkish)
+    *   简体中文 (Chinese (Simplified))
+    *   正體中文 (Chinese (Traditional))
 *   Online Learning
 *   ProFinder
 
