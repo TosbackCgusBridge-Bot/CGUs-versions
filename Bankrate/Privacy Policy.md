@@ -645,4 +645,4 @@ Bankrate, LLC NMLS ID# 1427381 | NMLS Consumer Access
 BR Tech Services, Inc NMLS ID# 1743443 | NMLS Consumer Access  
 © 2020 Bankrate, LLC a Red Ventures Company All Rights Reserved.
 
-United States United Kingdom <img src="//bat.bing.com/action/0?ti=4064189&amp;Ver=2" height="0" width="0" style="display:none. visibility: hidden;">. <img height="1" width="1" src="https://www.facebook.com/tr?id=2085058148404940&amp;ev=PageView &amp;noscript=1">. <img src="//trc.taboola.com/1014189/log/3/unip?en=page\_view" width="0" height="0" style="display:none">.
+United States United Kingdom
