@@ -1,9 +1,5 @@
-Previous1/2Next
+1/1
 
-*   UPS is open for business: Service impacts related to Coronavirus...More
-*   Severe Weather Impacting Areas in Michigan...More
-*   UPS is open for business: Service impacts related to Coronavirus...More
-*   Severe Weather Impacting Areas in Michigan...More
 *   UPS is open for business: Service impacts related to Coronavirus...More
 
 Close Skip To Main Content
