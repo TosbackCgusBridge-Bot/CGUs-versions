@@ -59,6 +59,8 @@ Skip to navigation Skip to main content Subscribe Menu Close
 
 Toggle Search Menu Search... Submit About SC Media
 
+SC Media >. Privacy Policy
+
 Privacy Policy
 
 **US Privacy Policy**
@@ -225,23 +227,23 @@ Life as a CISO: A Q&A with Ray Espinoza of Cobalt.io
     *   Emailed
     *   Recent
     
-    *   Researchers fool devices' biometric scanners with replicated fingerprints
-    *   COVID-19 hurts travel and event fraudsters, but buoys online carding schemes
-    *   Free cybersecurity tools coming online to protect WFH staffers
-    *   Cure worse than disease? Patching riskier under COVID-19 work-from-home policies
-    *   Microsoft adds to Edge browser security
-    
-    *   Zscaler to acquire Cloudneeti
-    *   Zero-day bug found in procurement solution used by government bodies
-    *   COVID-19 has changed business, but threat actors and tools remain strangely familiar
-    *   Microsoft defends health care orgs, Mozilla funds innovation to fight COVID-19
-    *   NYC schools step away as Zoom sets remediation plan
-    
+    *   COVID-19 by the numbers
+    *   As unemployment claims soar, cyber workforce remains strong
     *   Pranksters installing MBRLocker wiper, blame Vitali Kremez, MalwareHunterTeam for attack
-    *   Compromised email account leads to Saint Francis Ministries data breach
-    *   VMware issues 10.0 CVSS rating on vCenter Server vulnerability
-    *   Why the information security of your company depends on machine learning
-    *   San Francisco airport websites hacked to swipe personal device credentials
+    *   Best practices for implementing a DLP solution
+    *   Malvertising campaign spoofs Malwarebytes website to deliver Raccoon info-stealer
+    
+    *   Best practices for implementing a DLP solution
+    *   Mozilla and Google release second batch of patches in one week
+    *   Cure worse than disease? Patching riskier under COVID-19 work-from-home policies
+    *   CoinMiner found in third-party Zoom download
+    *   Pranksters installing MBRLocker wiper, blame Vitali Kremez, MalwareHunterTeam for attack
+    
+    *   Collectibles app's user credentials collected by dark web forum user
+    *   Microsoft April Patch Tuesday fixes three currently exploited vulnerabilities
+    *   Virtual panel: How supply chains can survive COVID-19’s cyber impact
+    *   Coronavirus-related scams rack up $12 million
+    *   Adobe offers up a light Patch Tuesday for April
 
 Back to Top
 
@@ -274,4 +276,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+
+You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
