@@ -551,20 +551,6 @@ Effortless outfits. Colorful coziness.
 
 **Girls Get Cozy** **Guys Get Cozy**
 
-**Online Shopping is  
-Better Together**
-
-Send your bestie an Aero e-gift-card.  
-Then set a date for a virtual spree.
-
-**Online Shopping is  
-Better Together**
-
-Send your bestie an Aero e-gift-card.  
-Then set a date for a virtual spree.
-
-**Send an eGift Card**
-
 New Hoodie + New High Score = WIN-WIN
 
 New Hoodie + New High Score  
@@ -578,7 +564,33 @@ For the guys in your life...
 (Your boyfriend, brother, best friend, etc.)  
 Time to step up their home game.
 
-Shop Guys Cozy Previous
+Shop Guys Cozy
+
+At Aero, we're committed to a  
+better, brighter future.  
+do better, look better, feel  
+better... it's in our jeans.
+
+At Aero, we're committed to a  
+better, brighter future.  
+do better, look better, feel  
+better... it's in our jeans.
+
+Aero's Sustainability Efforts Shop Girls Tees Shop Guys Tees
+
+**Online Shopping is  
+Better Together**
+
+Send your bestie an Aero e-gift-card.  
+Then set a date for a virtual spree.
+
+**Online Shopping is  
+Better Together**
+
+Send your bestie an Aero e-gift-card.  
+Then set a date for a virtual spree.
+
+**Send an eGift Card** Previous
 
 Curvy
 
@@ -788,7 +800,7 @@ Stay Connected
 
 *   Visit A Store
 *   Find Store Coupons
-*   Live Chat (9am - 12am EST) Call Us
+*   Live Chat (9am - 11pm EST) Call Us
 *   Use Student Discount
 *   Store FAQs
 
