@@ -72,6 +72,9 @@ This Privacy Policy covers information collected through the following websites 
 *   The Black Friday
 *   Deals of America
 *   Best Gifts
+*   PCMag Shop
+*   Mashable Shop
+*   IGN Store
 
 Applications:
 
