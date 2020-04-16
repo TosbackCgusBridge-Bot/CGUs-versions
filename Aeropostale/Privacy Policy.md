@@ -399,7 +399,7 @@ ORDERS OVER $50 Search Catalog Search
 
 Shop Girls Shop Guys
 
-\+ NEW Girls &. Guys Couchbusters:
+\+ LAST DAY! Girls &. Guys Couchbusters:
 
 Serious comfort. Incredible savings. For a Limited Time. All Girls Couchbusters All Guys Couchbusters
 
@@ -472,7 +472,7 @@ Exclusions Apply
 
 Shop Girls Shop Guys
 
-\+ NEW Girls &. Guys  
+\+ LAST DAY! Girls &. Guys  
 Couchbusters:
 
 Serious comfort. Incredible savings. For a Limited Time.
