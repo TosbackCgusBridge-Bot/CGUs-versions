@@ -403,6 +403,7 @@ The O'Reilly Approach
 *   Teach/Write/Train
 *   Careers
 *   Community Partners
+*   Diversity
 
 Solutions
 
@@ -411,10 +412,10 @@ Solutions
 *   For Individuals
 *   For Government
 *   For Education
+*   Marketing Solutions
 
 Support
 
-*   Customer Service
 *   Contact Us
 *   Privacy Policy
 
