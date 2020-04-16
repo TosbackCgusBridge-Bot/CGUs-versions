@@ -227,23 +227,23 @@ Life as a CISO: A Q&A with Ray Espinoza of Cobalt.io
     *   Emailed
     *   Recent
     
-    *   COVID-19 by the numbers
-    *   As unemployment claims soar, cyber workforce remains strong
-    *   Pranksters installing MBRLocker wiper, blame Vitali Kremez, MalwareHunterTeam for attack
-    *   Best practices for implementing a DLP solution
-    *   Malvertising campaign spoofs Malwarebytes website to deliver Raccoon info-stealer
-    
-    *   Best practices for implementing a DLP solution
-    *   Mozilla and Google release second batch of patches in one week
-    *   Cure worse than disease? Patching riskier under COVID-19 work-from-home policies
+    *   COVID-19 hurts travel and event fraudsters, but buoys online carding schemes
     *   CoinMiner found in third-party Zoom download
-    *   Pranksters installing MBRLocker wiper, blame Vitali Kremez, MalwareHunterTeam for attack
+    *   Rush to adopt online learning under COVID-19 exposes schools to cyberattacks
+    *   ACLU: Privacy Concerns abound over location tracking to stop Covid-19 spread
+    *   The inside scoop on insider threats
     
-    *   Collectibles app's user credentials collected by dark web forum user
-    *   Microsoft April Patch Tuesday fixes three currently exploited vulnerabilities
-    *   Virtual panel: How supply chains can survive COVID-19’s cyber impact
+    *   The inside scoop on insider threats
+    *   WordPress WooCommerce sites targeted by credit card skimmers
+    *   SC Podcast: Resilience, trust and the cyber moonshot with Unisys' Tom Patterson
+    *   Google, Apple collaboration on Bluetooth-based Covid-19 contact tracing prioritizes privacy
     *   Coronavirus-related scams rack up $12 million
-    *   Adobe offers up a light Patch Tuesday for April
+    
+    *   TikTok app inherently unsafe and a privacy risk
+    *   Oracle wins Patch Tuesday rolling out 397 security fixes, 450 CVEs
+    *   Nemty comes up empty, as cyber gang ditches ransomware for newer encryptor
+    *   Researchers see a boom in Zoom domains, stolen accounts
+    *   Intel forced to discontinue multiple products due to vulnerabilities
 
 Back to Top
 
@@ -281,3 +281,5 @@ Some areas of this page may shift around if you resize the browser window. Be su
 You can skip this ad in 1 seconds.
 
 x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+
+Attend this virtual event taking place today! April 15-17, 2020
