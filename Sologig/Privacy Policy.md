@@ -291,39 +291,4 @@ If you think you have been a victim of fraud, immediately report the committed f
 
 Partner Sites: Full-Time Jobs | Jobs.net | Consulting Job | Restaurant Jobs | Employment Resources | Salary Calculator | Entry level Jobs | Internships | Healthcare Jobs | Therapy Jobs | Allied Health Jobs | Nursing Jobs | Resume Writing
 
-About Us
-
-*   About Sologig
-*   Privacy
-*   Terms &. Conditions
-*   Data Subject Access Rights
-
-  
-Browse Jobs
-
-*   Civil Engineering Jobs
-*   Java Developer Jobs
-*   PHP Developer Jobs
-*   Ruby Developer Jobs
-*   All Jobs
-
-Employers
-
-*   Post Jobs
-*   Sologig for Employers
-
-  
-Partner Sites
-
-*   Management Jobs
-*   Healthcare Jobs
-*   MoneyJobs.com
-*   Entry Level Jobs
-*   Retail Jobs
-*   Transportation Jobs
-*   Resume Writing
-
-Sologig Office 200 N. LaSalle St  
-Suite 1100  
-Chicago, IL 60601  
 © 2020 Sologig.com. <img src="//sb.scorecardresearch.com/p?c1=2&c2=6035061&c3=&c4=&c5=&c6=&c15=&cj=1" />. <div>. <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-803759h&cg=0&cc=1&ts=noscript" width="1" height="1" alt="" />. </div>.
