@@ -1,6 +1,6 @@
-EXTRA 20% OFF under $75 with code: SPRING44 DetailsEnable Accessibility
+EXTRA 25% OFF under $75 with code: SPRING44 DetailsEnable Accessibility
 
-*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed. Weekly Ads Mother’s Day Jewelry SaleValid Apr 13th - May 10thEngagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed.Sign InSign InCreate Account
     *   Track My Orders
     *   My Rewards
     *   JCP Credit CardCart
@@ -53,57 +53,56 @@ Beach TowelsSunscreen at SephoraInside JCPenneyPool FloatsWater GamesUP TO 50% O
   
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   $399 - $2399after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1681)
+*   $599after couponwas $13 a.n.a-Womens Round Neck Short Sleeve T-Shirt(19)
 *   $224 - $1499after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(530)
-*   $1599 - $5999after couponwas $60 - $200 400tc Wrinkle Guard Deep Pocket Sheet Set - JCPenney Home(2885)
+*   $6375 - $6775 sale
+    
+    was $85 - $90 | 24 - 25% offNike Air Max Motion 2 Womens Running Shoes(16)
+*   $1124 - $2249after couponwas $26 - $60 Home Expressions Microfiber Plus Ultra Soft Easy Care Wrinkle Resistant Sheet Set(1691)
 *   $4875 sale
     
     was $65 | 25% offNike® Tanjun Womens Running Shoes(150)
-*   $379 - $799 sale
-    
-    was $13 - $19 | 38 - 80% offa.n.a Womens Scoop Neck Short Sleeve T-Shirt(382)
-*   $1599 - $6749after couponwas $50 - $150 JCPenney Home Ultra Performance 575 Sateen Deep Pocket Sheet Set(152)
+*   $2024after couponwas $39 Flirtitude Womens Crew Neck Long Sleeve Tie Dye Pullover Sweatshirt - Juniors(2)
 
 Sponsored Items
 
+*   $5250after couponEmeril Lagasse Quarter Womens Sneakers(4)Add To Cart
 *   $8999 sale
     
     was $94 | 4% offWaterpik WF-06W010 Whitening Water Flosser(110)Add To Cart
-*   $3199after couponwas $54 Lock &. Lock 4-pc. 7.6-cup Food ContainerAdd To Cart
-*   $4319after couponwas $78 Wrangler Riggs Workwear® Ranger Pants(374)Add To Cart
-*   $2399after couponwas $44 Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit)(628)Add To Cart
+*   $4049after couponwas $78 Wrangler Riggs Workwear® Ranger Pants(374)Add To Cart
 *   $20610after couponGoogle Nest Hello Video Doorbell(355)
-*   $4999
-    
-    Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill Pan(37)Add To Cart
-*   $90after couponFarberware Cookstart 15-pc. Cookware Set(61)Add To Cart
 *   $17999 sale
     
     was $300 | 40% offRachael Ray Create Delicious 11-Pc. Cookware Set(43)Add To Cart
-*   $56999 sale
+*   $4999
     
-    was $669 | 14% offDyson® V8 Animal Cord-Free Vacuum(179)
+    Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill Pan(37)Add To Cart
 *   $1999
     
     Fisher-Price Laugh &. Learn Smart Stages Sis(48)Add To Cart
-*   $3999 sale
+*   $1874after couponwas $34 Range Kleen 4-Pack Drip BowlsAdd To Cart
+*   $1319 - $2999 sale
     
-    was $70 | 42% offGreenPan Rio Non-Stick Frying Pan(1)
+    was $44 | 31 - 70% offLee® Relaxed Fit Jeans(2284)Add To Cart
+*   $33499 sale
+    
+    was $360 | 7% offBissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum(2307)Add To Cart
 *   $3999
     
     As Seen on TV Blue Diamond Ceramic 11" Non-Stick Square Griddle(21)Add To Cart
+*   $56999 sale
+    
+    was $669 | 14% offDyson® V8 Animal Cord-Free Vacuum(179)
+*   $3999 sale
+    
+    was $70 | 42% offGreenPan Rio Non-Stick Frying Pan(1)
+*   $84after couponFarberware Cookstart 15-pc. Cookware Set(61)Add To Cart
+*   $3374after couponwas $56 Wrangler All Terrain Gear Reinforced Utility Mens Regular Fit Flat Front PantAdd To Cart
 *   $24999 sale
     
-    was $279.99 | 10% offSamsung Galaxy Active 2 40mm Mens Multi-Function Black Smart Watch-Sm-R830nzkaxar(27)Add To Cart
-*   $25999 sale
-    
-    was $309 | 15% offBissell® ProHeat 2X® Revolution™ Pet Carpet Cleaner(1173)
-*   $1999after couponwas $34 Range Kleen 4-Pack Drip BowlsAdd To Cart
-*   $2399after couponwas $40 Lock &. Lock 10-pc. Food ContainerAdd To Cart
-*   $2799after couponwas $50 Lock &. Lock 14-pc. Food ContainerAdd To Cart
-*   $3199after couponwas $54 Lock &. Lock 14-pc. Food ContainerAdd To Cart
-*   $2399after couponwas $40 Lock &. Lock 6-pc. Food ContainerAdd To Cart
-*   $3599after couponwas $56 Wrangler All Terrain Gear Reinforced Utility Mens Regular Fit Flat Front PantAdd To Cart
+    was $279.99 | 10% offSamsung Galaxy Active 2 40mm Womens Multi-Function Rose Goldtone Smart Watch-Sm-R830nzdaxar(24)Add To Cart
+*   $2249after couponwas $40 Lock &. Lock 10-pc. Food ContainerAdd To Cart
 
 Shop and Save at JCPenney
 
