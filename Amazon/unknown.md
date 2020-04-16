@@ -1,4 +1,6 @@
-Amazon Device Support  › Fire TV Support › Terms and Conditions on Fire TV› Amazon Services Terms of Use
+Find more solutions
+
+Go Amazon Device Support  › Fire TV Support › Terms and Conditions on Fire TV› Amazon Services Terms of Use
 
 **Last updated: 4 September, 2019**
 
@@ -55,5 +57,3 @@ Please select what best describes the information:
 This information is confusing or wrong This isn't the information I was looking for I don't like this policy Submit
 
 Thanks! While we're unable to respond directly to your feedback, we'll use this information to improve our online Help.
-
-Go
