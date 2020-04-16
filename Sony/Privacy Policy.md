@@ -98,17 +98,15 @@ Main menuSONY
 
 Search Sony We're proud to announce the Sony Global Relief Fund for COVID-19, a $100 million fund to support those around the world affected by the novel coronavirus. Learn more about the three areas the fund will be supporting. 
 
-Experience a Legendary New Beginning With Cloud &. Other Iconic Characters
+Introducing Play At Home—Get Two Free PlayStation® Exclusive Games
 
-Play “Final Fantasy VII Remake” on PS4™
+Learn More
 
-Play video: Experience a Legendary New Beginning With Cloud &. Other Iconic Characters Close video: Experience a Legendary New Beginning With Cloud &. Other Iconic Characters
+*   Share on Facebook: Introducing Play At Home—Get Two Free PlayStation® Exclusive Games
+*   Share on Twitter: Introducing Play At Home—Get Two Free PlayStation® Exclusive Games
+*   Copy URL to Share: Introducing Play At Home—Get Two Free PlayStation® Exclusive Games
 
-*   Share on Facebook: Experience a Legendary New Beginning With Cloud &. Other Iconic Characters
-*   Share on Twitter: Experience a Legendary New Beginning With Cloud &. Other Iconic Characters
-*   Copy URL to Share: Experience a Legendary New Beginning With Cloud &. Other Iconic Characters
-
-<img class="bg-img video-ERgrFVhL-n4" data-linkname="en:set\_a:\_3x2-1:video:playstation:FinalFantasyPreLaunchTrailer-April-13-2020:ps:image:ERgrFVhL-n4" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Experience a Legendary New Beginning With Cloud &amp. Other Iconic Characters ERgrFVhL-n4 Final-Fantasy-Pre-Launch-Trailer" data-img1x="/content/dam/sony/homepage/2020-april/4-14/FinalFantasyRemake-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-april/4-14/FinalFantasyRemake-745x500.jpg" src="/content/dam/sony/homepage/2020-april/4-14/FinalFantasyRemake-745x500.jpg" alt="Experience a Legendary New Beginning With Cloud &amp. Other Iconic Characters"/>. <img class="bg-img video-ERgrFVhL-n4" alt="Experience a Legendary New Beginning With Cloud &amp. Other Iconic Characters Mobile" data-linkname="en:set\_a:\_3x2-1:video:playstation:FinalFantasyPreLaunchTrailer-April-13-2020:ps:image-mobile:ERgrFVhL-n4" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Experience a Legendary New Beginning With Cloud &amp. Other Iconic Characters ERgrFVhL-n4 Final-Fantasy-Pre-Launch-Trailer" data-img1x="/content/dam/sony/homepage/2020-april/4-14/FinalFantasyRemake-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-april/4-14/FinalFantasyRemake-745x500.jpg" src="/content/dam/sony/homepage/2020-april/4-14/FinalFantasyRemake-600x600.jpg"/>.
+<img class="bg-img" data-linkname="en:set\_a:\_3x2-1:image:playstation:PlayatHomeInitiative-April-13-2020:ps:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Introducing Play At Home—Get Two Free PlayStation® Exclusive Games Play-at-Home-Initiative" data-img1x="/content/dam/sony/homepage/2020-april/4-14/PlayatHome-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-april/4-14/PlayatHome-745x500.jpg" src="/content/dam/sony/homepage/2020-april/4-14/PlayatHome-745x500.jpg" alt="Introducing Play At Home—Get Two Free PlayStation® Exclusive Games"/>. <img class="bg-img" data-linkname="en:set\_a:\_3x2-1:image:playstation:PlayatHomeInitiative-April-13-2020:ps:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Introducing Play At Home—Get Two Free PlayStation® Exclusive Games Play-at-Home-Initiative" data-img1x="/content/dam/sony/homepage/2020-april/4-14/PlayatHome-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-april/4-14/PlayatHome-745x500.jpg" src="/content/dam/sony/homepage/2020-april/4-14/PlayatHome-600x600.jpg" alt="Introducing Play At Home—Get Two Free PlayStation® Exclusive Games Mobile"/>.
 
 Enhance Your Days With Extra Bass™
 
@@ -122,9 +120,9 @@ Play video: Enhance Your Days With Extra Bass™ Close video: Enhance Your Days 
 
 <img class="bg-img video-eq3YUfn2SQE" data-linkname="en:set\_a:\_2x1-2:video:electronics:WFXB700Headphones-April-13-2020:gwt:image:eq3YUfn2SQE" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Enhance Your Days With Extra Bass™ eq3YUfn2SQE WF-XB700-Headphones" data-img1x="/content/dam/sony/homepage/2020-april/4-6/WF-XB700-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-april/4-14/WF-XB700\_500x246.jpg" src="/content/dam/sony/homepage/2020-april/4-14/WF-XB700\_500x246.jpg" alt="Enhance Your Days With Extra Bass™"/>. <img class="bg-img video-eq3YUfn2SQE" alt="Enhance Your Days With Extra Bass™ Mobile" data-linkname="en:set\_a:\_2x1-2:video:electronics:WFXB700Headphones-April-13-2020:gwt:image-mobile:eq3YUfn2SQE" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Enhance Your Days With Extra Bass™ eq3YUfn2SQE WF-XB700-Headphones" data-img1x="/content/dam/sony/homepage/2020-april/4-6/WF-XB700-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-april/4-14/WF-XB700\_500x246.jpg" src="/content/dam/sony/homepage/2020-april/4-6/WF-XB700-600x600.jpg"/>.
 
-Choose wisely and you may survive Until Dawn - now $9.99 at PS Store:  http://play.st/2y8Tj9r  pic.twitter.com/r3cHuwVwdI
+Announcing the Play At Home initiative:  http://play.st/2wARMIW  Stay safe and pick up Uncharted: The Nathan Drake Collection and Journey for free from April 15 through May 5 #PlayAtHome 💙 pic.twitter.com/BSlbcwosgU
 
-2 days ago View Tweet Instagram Post B-sUIV6h9WW
+1 day ago View Tweet Instagram Post B-sUIV6h9WW
 
 Superior Picture Quality
 
