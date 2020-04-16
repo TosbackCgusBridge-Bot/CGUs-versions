@@ -153,7 +153,7 @@ COMPARE **RC**
 
 **LC**
 
-*   Starting at $92,9501\*
+*   Starting at $92,95012\*
 *   471-HP3\* 5.0L V8
 
 *   Build
@@ -161,7 +161,7 @@ COMPARE **RC**
 
 **LC HYBRID**
 
-*   Starting at $97,5101\*
+*   Starting at $97,51012\*
 *   354 TOTAL SYSTEM HP3\*
 
 *   Build
@@ -211,7 +211,7 @@ COMPARE **UX HYBRID**
 
 **LC HYBRID**
 
-*   Starting at $97,5101\*
+*   Starting at $97,51012\*
 *   354 TOTAL SYSTEM HP3\*
 
 *   Build
@@ -237,7 +237,7 @@ COMPARE **RC F**
 
 **LC**
 
-*   Starting at $92,9501\*
+*   Starting at $92,95012\*
 *   471-HP3\* 5.0L V8
 
 *   Build
@@ -245,7 +245,7 @@ COMPARE **RC F**
 
 **LC HYBRID**
 
-*   Starting at $97,5101\*
+*   Starting at $97,51012\*
 *   354 TOTAL SYSTEM HP3\*
 
 *   Build
@@ -383,6 +383,8 @@ click here Important Info Important Info
 
 \[11\] MSRP excludes delivery, processing and handling fee of $1,295, which may be subject to change at any time. Excludes taxes, title, license and optional equipment. Dealer price will vary.
 
+\[12\] MSRP excludes delivery, processing and handling fee of $1,025, which may be subject to change at any time. Excludes taxes, title, license and optional equipment. Dealer price will vary.
+
 DO NOT SELL MY PERSONAL INFORMATION Leasing &. Finance
 
 *   Apply For Credit
@@ -507,4 +509,4 @@ Chrome™ Notice for Safari® Users
 To ensure your experience on lexus.com is as exceptional as our vehicles, we no longer support safari® 8 and older. We do, however, support version 9.0+ and other browsers. to upgrade your current browser, click here. or to install a new one, select a link below.
 
 Firefox® Google  
-Chrome™ Cookie ConsentWe use the following categories of cookies on our website:Required Functional CookiesRequired cookies are essential to provide you with core functionality during use of the website. These functions include e.g. Local Specials, Offers, Dealer Locator, etc. We also collect basic site usage analytics to optimize the experience for our visitors.Performance CookiesPerformance cookies collect information about how our website is used (e.g. number of visits, time spent on the site). These cookies allow us to serve more relevant content for an enhanced shopping experience.CancelSave
+Chrome™
