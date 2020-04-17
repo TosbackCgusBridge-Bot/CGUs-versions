@@ -227,23 +227,23 @@ Life as a CISO: A Q&A with Ray Espinoza of Cobalt.io
     *   Emailed
     *   Recent
     
-    *   COVID-19 hurts travel and event fraudsters, but buoys online carding schemes
-    *   CoinMiner found in third-party Zoom download
-    *   Rush to adopt online learning under COVID-19 exposes schools to cyberattacks
-    *   ACLU: Privacy Concerns abound over location tracking to stop Covid-19 spread
-    *   The inside scoop on insider threats
-    
-    *   The inside scoop on insider threats
-    *   WordPress WooCommerce sites targeted by credit card skimmers
-    *   SC Podcast: Resilience, trust and the cyber moonshot with Unisys' Tom Patterson
-    *   Google, Apple collaboration on Bluetooth-based Covid-19 contact tracing prioritizes privacy
-    *   Coronavirus-related scams rack up $12 million
-    
-    *   TikTok app inherently unsafe and a privacy risk
-    *   Oracle wins Patch Tuesday rolling out 397 security fixes, 450 CVEs
     *   Nemty comes up empty, as cyber gang ditches ransomware for newer encryptor
-    *   Researchers see a boom in Zoom domains, stolen accounts
-    *   Intel forced to discontinue multiple products due to vulnerabilities
+    *   Coronavirus-related scams rack up $12 million
+    *   Mozilla and Google release second batch of patches in one week
+    *   Oracle wins Patch Tuesday rolling out 397 security fixes, 450 CVEs
+    *   Mozilla patches two Firefox vulnerabilities active in the wild
+    
+    *   Oracle wins Patch Tuesday rolling out 397 security fixes, 450 CVEs
+    *   Breaking out of password Groundhog Day
+    *   TikTok app inherently unsafe and a privacy risk
+    *   Virtual panel: How supply chains can survive COVID-19’s cyber impact
+    *   Researchers fool devices' biometric scanners with replicated fingerprints
+    
+    *   Ragnar Locker’s well-conceived ransomware attack on Energias de Portugal
+    *   U.S. offers up to $5M for info on North Korean cyber activity
+    *   Help SC honor Women and Diversity in Cybersecurity with your recommendations
+    *   California software developer hit with W-2 scam
+    *   Texas judge OKs expanded mail-in voting during COVID-19 pandemic
 
 Back to Top
 
