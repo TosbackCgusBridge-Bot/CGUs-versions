@@ -1,8 +1,8 @@
 Vimeo Terms of Service Agreement
 
-Last Updated: January 30, 2020
+Last Updated: April 16, 2020
 
-This **Vimeo Terms of Service Agreement** (the “**Agreement**” or “**Terms of Service**”) is made between Vimeo, Inc. (“**Vimeo**,” “**we**,” “**us**,” or “**our**”) and you, our customer (“**you**” or “**your**”). This Agreement governs your use of Vimeo.com and our VIMEO®-branded online video hosting and sharing services through our owned-and-operated websites, applications, and embeddable video players (collectively, the “**Services**”).
+This **Vimeo Terms of Service Agreement** (the “**Agreement**” or “**Terms of Service**”) is made between Vimeo, Inc. (“**Vimeo**,” “**we**,” “**us**,” or “**our**”) and you, our customer (“**you**” or “**your**”). This Agreement governs your use of Vimeo owned-and-operated websites, applications, and embeddable video players (collectively, the “**Services**”). This includes our Vimeo, Vimeo OTT, and Livestream services. Your use of our Magisto, Chant, and Videofy services is governed exclusively by the Vimeo Creator Tools Terms of Service Agreement.
 
 **Notice**: Section 11 of this Agreement contains a mandatory ARBITRATION AGREEMENT for certain privacy claims that you or Vimeo could assert. By using our Services and accepting this Agreement, you (1) agree to binding arbitration of these claims before a neutral arbitrator. and (2) waive your rights to go to court, have a jury hear your case, or participate as part of a class of plaintiffs with respect to such claims. Content
 
@@ -217,11 +217,11 @@ You will indemnify, defend, and hold harmless Vimeo and its subsidiaries, parent
 
 8\. Term and Termination
 
-This Agreement begins when you first use our Services and continues so long as you use our Service or have an account with us, whichever is longer. Paid accounts will continue for the subscription period and will renew in accordance with **Section 4** above. With respect to Basic (free) memberships, Vimeo may terminate this Agreement at any time by providing thirty (30) days’ written notice, and users may terminate at any time by deleting their accounts.
+This Agreement begins when you first use our Services and continues so long as you use our Service or have an account with us, whichever is longer. Paid accounts will continue for the subscription period and will renew in accordance with **Section 4** above. With respect to users who do not have a subscription plan, Vimeo may terminate this Agreement at any time by providing thirty (30) days’ written notice, and users may terminate at any time by deleting their accounts.
 
 If you breach this Agreement, Vimeo may, at its option: (a) terminate this Agreement immediately, with or without advance written notice. (b) suspend, delete, or limit access to your account or any content within it. and (c) to the extent permitted by applicable law, retain any amounts payable to you (which you forfeit). If Vimeo deletes your account for breach, you may not re-register.
 
-In the event of any termination or expiration, the following sections will survive: **Section 7.2** (Indemnification), **Section 9** (Disclaimers), **Section 10** (Limitation of Liability), **Section 11** (Disputes, Arbitration, and Choice of Law), and **Section 12** (General Provisions).
+In the event of any termination or expiration, the following sections will survive: **Section 6.4** (Other Content. Feedback), **Section 7.2** (Indemnification), **Section 9** (Disclaimers), **Section 10** (Limitation of Liability), **Section 11** (Disputes, Arbitration, and Choice of Law), and **Section 12** (General Provisions).
 
 9\. Disclaimers
 
@@ -264,7 +264,9 @@ The exclusive means of resolving any Covered Privacy Claim (defined below) shall
 
 12\. General Provisions
 
-**Reservation of Rights, Severability, Force Majeure:** Vimeo reserves all rights not expressly granted herein. Vimeo’s rights and remedies are cumulative. No failure or delay by Vimeo in exercising any right will waive any further exercise of that right. If any term of this Agreement is found invalid or unenforceable by a court of competent jurisdiction, that term will be limited or severed. Vimeo will not be liable for any delay or failure caused by a force majeure event.
+**Reservation of Rights, Severability:** Vimeo reserves all rights not expressly granted herein. Vimeo’s rights and remedies are cumulative. No failure or delay by Vimeo in exercising any right will waive any further exercise of that right. If any term of this Agreement is found invalid or unenforceable by a court of competent jurisdiction, that term will be limited or severed.
+
+**Force Majeure:** Vimeo will not be liable for any delay or failure caused by (a) acts of God/natural disasters (including hurricanes and earthquakes). (b) disease, epidemic, or pandemic. (c) terrorist attack, civil war, civil commotion or riots, armed conflict, sanctions or embargoes. (d) nuclear, chemical, or biological contamination. (e) collapse of buildings, fire, explosion, or accident. (f) labor or trade strikes. (g) interruption, loss, or malfunction of a utility, transportation, or telecommunications service. (h) any order by a government or public authority, including a quarantine, travel restriction, or other prohibition. or (i) any other circumstance not within Vimeo’s reasonable control, whether or not foreseeable (each a “**force majeure event**”). In the event of a force majeure event, Vimeo shall be relieved from full performance of the contractual obligation until the event passes or no longer prevents performance.
 
 **Relationship:** You and Vimeo are independent contractors of one another. neither party is an agent, partner, or joint venturer of the other. This Agreement binds the parties and their successors, personal representatives, and permitted assigns. You may not assign this Agreement to any person whose account has been terminated by Vimeo or who is prohibited from registering. any such assignment will be void.
 
