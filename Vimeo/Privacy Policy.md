@@ -1,6 +1,6 @@
 Vimeo Privacy Policy
 
-Last Updated: December 20, 2019
+Last Updated: April 16, 2020
 
 This Privacy Policy explains the information that Vimeo collects when you use its products and services, how that information is used, with whom it may be shared, and your privacy choices.
 
@@ -79,7 +79,7 @@ We may use your data for the following purposes:
 *   **Communicating with you:** We use your data when we communicate with you (e.g., when we respond to a customer support or other inquiry).
 *   **Improving our services:** We use your data to understand how our services are being used and how we can improve them. In general, we analyze aggregated data, rather than specific user data. We may, however, need to analyze a specific case to address a specific problem (e.g., a bug that affects only a few accounts).
 *   **Customizing your experience:** We use your data to personalize the service to you. This may include remembering your preferences for language or volume or displaying videos that you might enjoy, based upon your viewing choices.
-*   **Marketing and advertising:** We use your data to show you ads on third-party sites. We may also use your data in delivering third-party advertisements to you. This may include "targeted ads" based upon your activities.
+*   **Marketing and advertising:** We use your data to show you ads on third-party sites and to send you offers. We may also use your data in delivering third-party advertisements to you. This may include "targeted ads" based upon your activities.
 *   **Exercising our rights:** Where reasonably necessary, we use your data to exercise our legal rights and prevent abuse of our service. For example, we may use your data to detect and prevent fraud, spam, or content that violates our Terms of Service.
 *   **Legal compliance:** We use your data where we are legally required to do so. For example, we may need to gather your data to respond to a subpoena or court order.
 *   **Protecting your information:** Where appropriate, we may anonymize, backup, and delete certain data.
@@ -160,7 +160,7 @@ Some of our subscription plans enable you to grant account-level access rights t
 
 Videos
 
-We enable you to manage the privacy settings of your videos. Your options, which depend on your subscription plan, may include:
+We enable you to manage the privacy settings of your videos. On Vimeo.com, for example, your options, which depend on your subscription plan, may include:
 
 *   **Public (or "anyone"):** Your video will be publicly-available.
 *   **Just you (i.e., "only me"):** Your video will be available to you and authorized Team Members.
@@ -168,7 +168,7 @@ We enable you to manage the privacy settings of your videos. Your options, which
 *   **Password-protected:** Your video may be accessed by anyone who enters the password you have set.
 *   **Private link:** Your video may be accessed by anyone who enters the link assigned to it.
 
-You may change these settings at any time. Changes will be applied on a go-forward basis. You should exercise caution in granting access to others. Once you have granted access to someone else, you lose a degree of control over the distribution of your video as those persons may share the password and/or link with other people. Regardless of your profile or video privacy settings, Vimeo reserves the right to inspect them for compliance with its Terms of Service, to provide customer support, or to address technical issues.
+We provide similar options for our Livestream.com services. You may change these settings at any time. Changes will be applied on a go-forward basis. You should exercise caution in granting access to others. Once you have granted access to someone else, you lose a degree of control over the distribution of your video as those persons may share the password and/or link with other people. Regardless of your profile or video privacy settings, Vimeo reserves the right to inspect them for compliance with its Terms of Service, to provide customer support, or to address technical issues.
 
 10\. Communications from Us Emails
 
@@ -190,7 +190,7 @@ You may receive other people's data in using our service. If you receive informa
 
 We may provide links to online services that we do not own or operate. These services fall outside of this Privacy Policy and we have no control over the data they collect. For example, if you click on an advertisement, you may be taken to the advertiser's website. Once on a third-party site, your data may be collected by others. We encourage you to read the privacy policies of such services before using them.
 
-You may use our service through third-party sites and to send you offers. For example, you may watch a video that is embedded on a third-party site or use one of our apps on a third-party platform. This Privacy Policy covers our apps and video players, but does not cover any third-party site or any third-party video player.
+You may use our service through third-party sites. For example, you may watch a video that is embedded on a third-party site or use one of our apps on a third-party platform. This Privacy Policy covers our apps and video players, but does not cover any third-party site or any third-party video player.
 
 14\. International Data Transfers and Certain User Rights 14.1 Location of Data
 
@@ -198,7 +198,7 @@ Vimeo is based in the United States. We provide services globally using computer
 
 14.2 GDPR (EEA Users)
 
-This **Section 14.2** applies only to natural persons residing in the European Economic Area (for the purpose of this section only, "you" or "your" shall be limited accordingly). It is Vimeo's policy to comply with the EEA's General Data Protection Regulation (GDPR). In accordance with the GDPR, we may transfer your personal information from your home country to the U.S. (or other countries) based upon the following legal bases:
+This **Section 14.2** applies only to natural persons residing in the European Economic Area (for the purpose of this section only, "you" or "your" shall be limited accordingly). It is Vimeo's policy to comply with the EU's General Data Protection Regulation (GDPR). In accordance with the GDPR, we may transfer your personal information from your home country to the U.S. (or other countries) based upon the following legal bases:
 
 *   Legitimate business interests: We could not provide our services or comply with our legal obligations without transferring your personal information to the U.S.
 *   Our use of Standard Contractual Clauses (also known as "Model Clauses") where appropriate.
@@ -210,7 +210,7 @@ If you have a request, complaint or inquiry, please contact our Data Protection 
 
 14.3 Privacy Shield (EEA, UK and Swiss Users)
 
-This **Section 14.3** applies only to natural persons residing in the European Economic Area, the United Kingdom and Switzerland (for the purpose of this section only, "you" or "your" shall be limited accordingly). Vimeo complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework (collectively, "**Privacy Shield**") as established by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the EU, the United Kingdom and/or Switzerland, as applicable, to the U.S.
+This **Section 14.3** applies only to natural persons residing in the European Economic Area (EEA), the United Kingdom and Switzerland (for the purpose of this section only, "you" or "your" shall be limited accordingly). Vimeo complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework (collectively, "**Privacy Shield**") as established by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the EEA, the United Kingdom and/or Switzerland, as applicable, to the U.S.
 
 Vimeo adheres to the Privacy Shield principles of notice, choice, onward transfer, security, data integrity, access, and enforcement (the **"Privacy Shield Principles"**). Vimeo has established policies and procedures to ensure compliance with the Privacy Shield Principles and will conduct an annual internal assessment to ensure such compliance. If there is any conflict between the terms of this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
 
