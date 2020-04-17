@@ -17,8 +17,8 @@ Search fidelity.com or get a quote
 *   Accounts &. Trade
     *   Portfolio Log In Required
     *   Portfolio
-    *   Account Positions Log In Required
-    *   Account Positions
+    *   AccountPositions Log In Required
+    *   AccountPositions
     *   Trade Log In Required
     *   Trade
     *   Active Trader Pro
@@ -28,16 +28,16 @@ Search fidelity.com or get a quote
     *   Cash Management
     *   BillPay Log In Required
     *   BillPay
-    *   Full ViewLog In Required
+    *   Full View Log In Required
     *   Full View
-    *   Security SettingsLog In Required
+    *   Security Settings Log In Required
     *   Security Settings
     *   Account Features Log In Required
     *   Account Features
     *   Statements Log In Required
     *   Statements
     *   Tax Forms &. Information
-    *   Retirement DistributionsLog In Required
+    *   Retirement Distributions Log In Required
 *   Planning &. Advice
     *   What We Offer
     *   My Goals
