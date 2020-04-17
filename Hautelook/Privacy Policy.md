@@ -9,133 +9,136 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
-    *   Daily Deal: Cole Haan Nantucket Espadrilles at $69.97
-    *   Daily Deal: MIA Ellen Sandals at $39.97
-    *   Daily Deal: 9-Piece Storage Baskets at $29.97
-    *   Le Creuset Starting at $30
+    *   Basics Shop: Denim, Shorts &. More Up to 65% Off
+    *   Basics Shop: Jackets &. Outerwear Up to 70% Off
+    *   Basics Shop: Tops from $20 Incl. Plus &. Petites
+    *   Basics Shop: Dresses Incl. Plus &. Petites from $20
+    *   Basics Shop: Sleep, Lounge &. Intimates Under $35
+    *   Basics Shop: Men's Tees, Hoodies &. More from $15
+    *   Basics Shop: Men's Lounge, Underwear &. Socks from $10
+    *   Badgley Mischka Up to 55% Off
+    *   Basics Shop: Men's Denim, Chinos &. Shorts from $25
+    *   Basics Shop: Men's Activewear from $15
+    *   Basics Shop: Girls' Styles Up to 65% Off
+    *   Basics Shop: Boys' Styles Up to 65% Off
+    *   Shoes ft. Tommy Hilfiger Up to 60% Off
+    *   Rejuvenate Your Skin: Dr. Jart &. More
+    *   Dogeared Jewelry Up to 50% Off
+    *   Backyard Lounging: Fun Towels from $15
+    *   April Showers: Rain Boots &. Shoes for Her
+    *   Free Shipping: Dreamy Bedding Up to 75% Off
+    *   Tommy Hilfiger Kids' Shoes
+    *   Kenneth Cole Reaction Men's Shoes
+    *   Tommy Hilfiger Men's Shoes
+    *   Dyson Up to 60% Off
+    
+    *   Luxury Fragrances for Him Starting at $25
     *   Luxe Brands Up to 65% Off
     *   Walter Baker Up to 70% Off
     *   Frye Handbags
     *   Franco Sarto Up to 50% Off
-    *   Original Penguin Up to 60% Off
     *   Plus Spring Essentials Under $50
     *   Jealous Tomato &. More Incl. Plus Under $50
     *   What to Wear Now: Comfort Shoes &. Sandals
     *   Ready, Set, Spring: Kids' Sets Under $25
+    *   Original Penguin Up to 60% Off
     *   On-Trend Sneakers from $40
     *   Glam with an Edge: Decor by Interior Illusions
     *   Aldo Men's Shoes
     *   Rip Curl Men Under $30
     *   Miles Baby &. More Starting at $10
-    *   Dyson Up to 60% Off
-    *   Luxury Fragrances for Him Starting at $25
-    *   Via Spiga Outerwear &. More Up to 65% Off
-    
-    *   Original Penguin Shoes Up to 60% Off
     *   bObsweep Up to 75% Off
     *   Free Shipping: Professional Garment Steamers
-    *   LOVE Moschino Handbags
-    *   Angie &. More Incl. Plus
-    *   Exclusive Styles from $15 Incl. Plus &. Petites
-    *   Velvet by Graham &. Spencer Up to 65% Off
-    *   Top It Off: Styles Up to 70% Off
-    *   Linea Paolo Up to 60% Off
+    *   MICHAEL Michael Kors Girls from $15
+    *   Cozy Comforts: Men's Slippers Starting at $25
     *   Jack &. Jones Starting at $15
-    *   Ready for Sunshine: Sandals
     *   Best of Hair Care Starting at $10
     *   Quality Sleep: Luxe Pillow &. Sheet Sets
-    *   Performance Sunglasses ft. Costa Del Mar
-    *   adidas Accessories
-    *   Designer Shoes ft. Butter Up to 60% Off
-    *   Joe Fresh Kids Under $25
+    
+    *   Jewelry Shop: Diamonds ft. Dana Rebecca
     *   Jewelry Shop: Gold ft. Lana Jewelry
     *   Jewelry Shop: Sterling Silver ft. IPPOLITA
     *   Jewelry Shop: Pearls ft. Splendid Pearls
     *   Jewelry Shop: Rose Gold ft. Monica Vinader
-    
-    *   Mavi Denim Men at $60
-    *   At-Home Playground: Outdoor Toys, Swim &. More
     *   Casually Cool: Men's Sneakers Up to 75% Off
+    *   Le Creuset Starting at $30
+    *   Via Spiga Outerwear &. More Up to 65% Off
+    *   Joe Fresh Kids Under $25
     *   Florsheim
+    *   Angie &. More Incl. Plus
+    *   Exclusive Styles from $15 Incl. Plus &. Petites
+    *   Top It Off: Styles Up to 70% Off
     *   Free Shipping: Contemporary Lamps &. More
-    *   Luxe Bedding ft. Lacoste
-    *   Organization Essentials Starting at $15
-    *   Men's Shoe Steals Up to 65% Off
-    *   MICHAEL Michael Kors Girls from $15
-    *   Cozy Comforts: Men's Slippers Starting at $25
-    *   Now Trending: Cropped Styles Up to 65% Off
     *   Smart Watch Bands &. More Up to 70% Off
     *   Luxe Bedding &. Bath Towels Up to 70% Off
-    *   Flats Up to 65% Off
-    *   Jewelry Shop: Diamonds ft. Dana Rebecca
-    *   Home Fragrances Starting at $15
-    *   Diadora Men
     *   Jewelry Shop: Lucite &. Statement ft. Alexis Bittar
     *   Ben Sherman Shoes
-    *   Ben Sherman Up to 70% Off
     *   Brands We Love ft. Urban Decay
+    *   Original Penguin Shoes Up to 60% Off
+    *   Luxe Bedding ft. Lacoste
+    *   Organization Essentials Starting at $15
 *   WomenShop Sale Events
     
-    *   Daily Deal: Cole Haan Nantucket Espadrilles at $69.97
-    *   Daily Deal: MIA Ellen Sandals at $39.97
+    *   Basics Shop: Denim, Shorts &. More Up to 65% Off
+    *   Basics Shop: Jackets &. Outerwear Up to 70% Off
+    *   Basics Shop: Tops from $20 Incl. Plus &. Petites
+    *   Basics Shop: Dresses Incl. Plus &. Petites from $20
+    *   Basics Shop: Sleep, Lounge &. Intimates Under $35
+    *   Badgley Mischka Up to 55% Off
+    *   Shoes ft. Tommy Hilfiger Up to 60% Off
+    *   Rejuvenate Your Skin: Dr. Jart &. More
+    *   Dogeared Jewelry Up to 50% Off
+    *   April Showers: Rain Boots &. Shoes for Her
+    *   Dyson Up to 60% Off
     *   Luxe Brands Up to 65% Off
     *   Walter Baker Up to 70% Off
     *   Frye Handbags
     *   Franco Sarto Up to 50% Off
     *   Plus Spring Essentials Under $50
+    
     *   Jealous Tomato &. More Incl. Plus Under $50
     *   What to Wear Now: Comfort Shoes &. Sandals
     *   On-Trend Sneakers from $40
-    *   Dyson Up to 60% Off
-    *   Via Spiga Outerwear &. More Up to 65% Off
-    *   LOVE Moschino Handbags
-    *   Angie &. More Incl. Plus
-    *   Exclusive Styles from $15 Incl. Plus &. Petites
-    *   Velvet by Graham &. Spencer Up to 65% Off
-    
-    *   Top It Off: Styles Up to 70% Off
-    *   Linea Paolo Up to 60% Off
-    *   Ready for Sunshine: Sandals
     *   Best of Hair Care Starting at $10
-    *   Performance Sunglasses ft. Costa Del Mar
-    *   adidas Accessories
-    *   Designer Shoes ft. Butter Up to 60% Off
+    *   Jewelry Shop: Diamonds ft. Dana Rebecca
     *   Jewelry Shop: Gold ft. Lana Jewelry
     *   Jewelry Shop: Sterling Silver ft. IPPOLITA
     *   Jewelry Shop: Pearls ft. Splendid Pearls
     *   Jewelry Shop: Rose Gold ft. Monica Vinader
-    *   Now Trending: Cropped Styles Up to 65% Off
-    *   Flats Up to 65% Off
-    *   Jewelry Shop: Diamonds ft. Dana Rebecca
+    *   Via Spiga Outerwear &. More Up to 65% Off
+    *   Angie &. More Incl. Plus
+    *   Exclusive Styles from $15 Incl. Plus &. Petites
+    *   Top It Off: Styles Up to 70% Off
     *   Jewelry Shop: Lucite &. Statement ft. Alexis Bittar
     *   Brands We Love ft. Urban Decay
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
+    *   Shoes
+    *   Lingerie &. Shapewear
     *   Handbags
     *   Accessories
-    *   Lingerie &. Shapewear
 *   MenShop Sale Events
     
-    *   Original Penguin Up to 60% Off
-    *   Aldo Men's Shoes
-    *   Rip Curl Men Under $30
+    *   Basics Shop: Men's Tees, Hoodies &. More from $15
+    *   Basics Shop: Men's Lounge, Underwear &. Socks from $10
+    *   Basics Shop: Men's Denim, Chinos &. Shorts from $25
+    *   Basics Shop: Men's Activewear from $15
+    *   Kenneth Cole Reaction Men's Shoes
+    *   Tommy Hilfiger Men's Shoes
     *   Dyson Up to 60% Off
     *   Luxury Fragrances for Him Starting at $25
-    *   Original Penguin Shoes Up to 60% Off
-    *   Jack &. Jones Starting at $15
-    *   Performance Sunglasses ft. Costa Del Mar
+    *   Original Penguin Up to 60% Off
     
-    *   Mavi Denim Men at $60
+    *   Aldo Men's Shoes
+    *   Rip Curl Men Under $30
+    *   Cozy Comforts: Men's Slippers Starting at $25
+    *   Jack &. Jones Starting at $15
     *   Casually Cool: Men's Sneakers Up to 75% Off
     *   Florsheim
-    *   Men's Shoe Steals Up to 65% Off
-    *   Cozy Comforts: Men's Slippers Starting at $25
-    *   Diadora Men
     *   Ben Sherman Shoes
-    *   Ben Sherman Up to 70% Off
+    *   Original Penguin Shoes Up to 60% Off
     
     Shop By Category
     *   Clothing
@@ -143,48 +146,50 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Basics Shop: Girls' Styles Up to 65% Off
+    *   Basics Shop: Boys' Styles Up to 65% Off
+    *   Tommy Hilfiger Kids' Shoes
     *   Ready, Set, Spring: Kids' Sets Under $25
     *   Miles Baby &. More Starting at $10
-    *   Joe Fresh Kids Under $25
-    *   At-Home Playground: Outdoor Toys, Swim &. More
     *   MICHAEL Michael Kors Girls from $15
+    *   Joe Fresh Kids Under $25
     
     Shop By Category
     *   Girls
-    *   Baby
     *   Boys
-    *   Girls' Shoes
-    *   Toys
+    *   Baby
     *   Boys' Shoes
+    *   Girls' Shoes
 *   HomeShop Sale Events
     
-    *   Daily Deal: 9-Piece Storage Baskets at $29.97
-    *   Le Creuset Starting at $30
-    *   Glam with an Edge: Decor by Interior Illusions
+    *   Backyard Lounging: Fun Towels from $15
+    *   Free Shipping: Dreamy Bedding Up to 75% Off
     *   Dyson Up to 60% Off
+    *   Glam with an Edge: Decor by Interior Illusions
     *   bObsweep Up to 75% Off
     *   Free Shipping: Professional Garment Steamers
     *   Quality Sleep: Luxe Pillow &. Sheet Sets
     
+    *   Le Creuset Starting at $30
     *   Free Shipping: Contemporary Lamps &. More
-    *   Luxe Bedding ft. Lacoste
-    *   Organization Essentials Starting at $15
     *   Smart Watch Bands &. More Up to 70% Off
     *   Luxe Bedding &. Bath Towels Up to 70% Off
-    *   Home Fragrances Starting at $15
+    *   Luxe Bedding ft. Lacoste
+    *   Organization Essentials Starting at $15
     
     Shop By Category
     *   Bedding
     *   Home Decor
     *   Electronic &. Tech Accessories
+    *   Bath
+    *   Outdoor Living
     *   Cleaning &. Organization
     *   Luggage &. Travel
-    *   Bath
     *   Kitchen &. Tabletop
-    *   Outdoor Living
     *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   Rejuvenate Your Skin: Dr. Jart &. More
     *   Dyson Up to 60% Off
     *   Luxury Fragrances for Him Starting at $25
     *   Best of Hair Care Starting at $10
@@ -193,9 +198,10 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     Shop By Category
     *   Makeup
     *   Men’s Grooming
+    *   Skin Care
     *   Hair Care
     *   Tools &. Accessories
-    *   Makeup Bags
+    *   Bath &. Body
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
