@@ -158,7 +158,7 @@ Professional CAD/CAM tools built on Inventor and AutoCAD Learn more Free trial S
 MEDIA &.  
 ENTERTAINMENT COLLECTION
 
-Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Incentives Hub Overview: Default Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products)
+Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Incentives Hub Overview: Default Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products) Promo Data: EOQ April 2020
 
 *   Subscribe for 3 years. Get 10% off.
     
