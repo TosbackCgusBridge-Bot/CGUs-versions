@@ -80,7 +80,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 828 8394 1 855 828 8394
+    1 855 629 8387 1 855 629 8387
     
 
 *   Solutions By Function
@@ -147,7 +147,7 @@ Search
 
 *   Become a Client
     
-    1 855 828 8394 1 855 828 8394
+    1 855 629 8387 1 855 629 8387
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
