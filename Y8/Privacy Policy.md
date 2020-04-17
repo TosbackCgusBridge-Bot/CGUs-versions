@@ -12,8 +12,8 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1228 games
-*   Most Popular Games 20745 games
+*   Best of new games 1231 games
+*   Most Popular Games 20749 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -21,22 +21,22 @@ Categories &. more LIBRARY
 CATEGORIES
 
 *   For Girls 24,389 games
-*   Driving &. Racing 6,343 games
-*   Strategy &. RPG 3,608 games
-*   Management &. Sim 4,259 games
-*   Thinking 12,546 games
+*   Driving &. Racing 6,344 games
+*   Strategy &. RPG 3,609 games
+*   Management &. Sim 4,262 games
+*   Thinking 12,548 games
 *   Action &. Adventure 14,530 games
-*   Sports 3,307 games
-*   Shooting 9,035 games
+*   Sports 3,308 games
+*   Shooting 9,036 games
 *   Fighting 2,078 games
-*   Skill 10,962 games
-*   Arcade &. Classic 9,043 games
+*   Skill 10,963 games
+*   Arcade &. Classic 9,052 games
 *   Fun &. Crazy 4,801 games
 
 Play with friends  
 Powered by Y8 Account 142 Y8 Multiplayer Games 2,204 Y8 High Score Games 1,248 Y8 Achievements Games 877 Y8 Screenshots Games 1,662 Y8 Online Save Games 3,363 All Y8 Games Games Last Highscore:
 
-**86** points on Masked Forces by DAG
+**215,051** points on Hide Online by El\_Pro99
 
 Help us improve Bad translation? Social
 
@@ -86,48 +86,48 @@ Register Log in My Profile 0 points
 Game Categories
 
 *   For Girls 24,389 games
-*   Shooting 9,035 games
-*   Driving &. Racing 6,343 games
+*   Driving &. Racing 6,344 games
 *   Fighting 2,078 games
-*   Arcade &. Classic 9,043 games
+*   Shooting 9,036 games
+*   Sports 3,308 games
 *   Action &. Adventure 14,530 games
-*   Skill 10,962 games
-*   Sports 3,307 games
-*   Thinking 12,546 games
+*   Strategy &. RPG 3,609 games
+*   Thinking 12,548 games
 *   Fun &. Crazy 4,801 games
-*   Strategy &. RPG 3,608 games
-*   Management &. Sim 4,259 games
+*   Management &. Sim 4,262 games
+*   Arcade &. Classic 9,052 games
+*   Skill 10,963 games
 
 Tags
 
-*   Escape1,458
-*   Platform4,576
-*   Mouse Skill10,541
-*   Seduction82
-*   Aircraft930
-*   Tennis76
-*   Balloons417
-*   Funny646
+*   Snake283
+*   Multiplayer446
+*   Puzzle8,424
 *   The Simpsons69
-*   Romance303
+*   Seduction82
+*   Escape1,458
+*   Aircraft930
+*   Funny647
+*   Balloons417
+*   Romance305
 *   Coloring502
+*   Mouse Skill10,551
+*   Tennis76
+*   Sumo25
+*   Stick678
 *   Difference719
+*   Shockwave223
+*   Ninja562
+*   Platform4,577
 *   Table tennis50
+*   Not on Kong198
 *   Dress Up15,989
-*   Monkey356
 *   Love1,041
 *   House206
-*   Banana89
 *   Witch180
 *   Kissing261
-*   Cat939
-*   Magic367
-*   Makeover / Make-up3,629
-*   2 player1,249
-*   Multiplayer446
-*   Cooking1,608
-*   Racing1,825
-*   Defense2,409
+*   Magic368
+*   Makeover / Make-up3,630
 
 × ×
 
