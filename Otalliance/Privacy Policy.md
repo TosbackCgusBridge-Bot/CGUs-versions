@@ -106,7 +106,7 @@ At the Internet Society, we believe that encryption is an essential part of the 
 *   es
 *   More languages
 
-Donate Donate Online Trust Alliance (OTA) OTA Home Publications Best Practices IoT Committees All Resources
+Donate ×search  Donate Online Trust Alliance (OTA) OTA Home Publications Best Practices IoT Committees All Resources
 
 <img class="post-img post-img-right 3750 alignright" src="https://www.internetsociety.org/wp-content/uploads/2017/08/ota-logo-976px-300x104.png" alt="" width="300" height="104" />The Internet Society’s Online Trust Alliance (OTA) identifies and promotes security and privacy best practices that build consumer confidence in the Internet. Leading public and private organizations, vendors, researchers, and policymakers contribute to and follow OTA’s guidance to help make online transactions safer and better protect users’ data. **OTA Goals:**
 
@@ -138,29 +138,21 @@ The IoT Trust Framework® includes a set of strategic principles necessary to he
 
 Visit our IoT Trust Framework page and download the full version or Framework Overview.
 
-Read the Framework Learn more about IoT OTA News Deep Dive: Scoring ISPs and Hosts on Privacy and Security <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2020/01/ota-deep-dive-isps-hosts-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Deep Dive: Scoring ISPs and Hosts on Privacy and Security Thumbnail" title="Deep Dive: Scoring ISPs and Hosts on Privacy and Security Thumbnail" />. Building Trust 21 January 2020 Deep Dive: Scoring ISPs and Hosts on Privacy and Security
+Read the Framework Learn more about IoT OTA News U.S. Presidential Campaigns Struggle With Cybersecurity <img src="https://www.internetsociety.org/wp-content/uploads/2019/10/us-news-and-world-report.jpg" alt="us-news-and-world-report" title="us-news-and-world-report" />. In the News 14 October 2019 U.S. Presidential Campaigns Struggle With Cybersecurity U.S. News &. World Report Most presidential candidates’ websites don’t do enough to protect visitors’ privacy, report says <img src="https://www.internetsociety.org/wp-content/uploads/2017/11/boston-globe-250x42.png" alt="Boston Globe logo" title="Boston Globe logo" />. In the News 10 October 2019 Most presidential candidates’ websites don’t do enough to protect visitors’ privacy, report says Boston Globe OTA’s Trust Audit Scores U.S. Presidential Candidates’ Campaigns, Finds Major Failures in Privacy Statements Press Releases 8 October 2019 OTA’s Trust Audit Scores U.S. Presidential Candidates’ Campaigns, Finds Major Failures in Privacy Statements
 
-In April 2019 the Internet Society’s Online Trust Alliance (OTA) released its 10th Annual Online Trust Audit &. Honor...
+Reston, VA. – October 8, 2019 – The Internet Society’s Online Trust Alliance (OTA), which identifies and promotes security and privacy...
 
-Deep Dive: U.S. Federal Government’s Security and Privacy Practices <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2020/01/ota-deep-dive-federal-government-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Deep Dive: U.S. Federal Government&#8217;s Security and Privacy Practices Thumbnail" title="Deep Dive: U.S. Federal Government&#8217;s Security and Privacy Practices Thumbnail" />. Building Trust 14 January 2020 Deep Dive: U.S. Federal Government’s Security and Privacy Practices
+The Internet Society’s Online Trust Alliance Announces Methodology for Eleventh Online Trust Audit and Honor Roll Press Releases 25 September 2019 The Internet Society’s Online Trust Alliance Announces Methodology for Eleventh Online Trust Audit and Honor Roll
 
-In April 2019, the Internet Society’s Online Trust Alliance released its 10th Annual Online Trust Audit &. Honor Roll....
+Criteria updated to include increased focus on encryption and global privacy regulations. international retail segments added
 
-Deep Dive: How Does the Consumer Sector Score on Privacy and Security? <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2020/01/ota-deep-dive-consumers-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Deep Dive: How Does the Consumer Sector Score on Privacy and Security? Thumbnail" title="Deep Dive: How Does the Consumer Sector Score on Privacy and Security? Thumbnail" />. Building Trust 7 January 2020 Deep Dive: How Does the Consumer Sector Score on Privacy and Security?
+OTA Analysis Finds Most Organizations Not Ready For New Privacy Regulations Press Releases 17 September 2019 OTA Analysis Finds Most Organizations Not Ready For New Privacy Regulations
 
-In April 2019 the Internet Society’s Online Trust Alliance released its 10th annual Online Trust Audit &. Honor Roll....
+Reston, VA. – September 17, 2019 – The Internet Society’s Online Trust Alliance (OTA), which identifies and promotes security...
 
-Deep Dive: How the News and Media Sector Scores on Security and Privacy <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2019/12/ota-2019-deep-dive-news-media-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Deep Dive: How the News and Media Sector Scores on Security and Privacy Thumbnail" title="Deep Dive: How the News and Media Sector Scores on Security and Privacy Thumbnail" />. Building Trust 19 December 2019 Deep Dive: How the News and Media Sector Scores on Security and Privacy
+Internet Society’s Online Trust Alliance Reports Cyber Incidents Cost $45B in 2018 Press Releases 9 July 2019 Internet Society’s Online Trust Alliance Reports Cyber Incidents Cost $45B in 2018
 
-In April 2019 the Internet Society’s Online Trust Alliance released its 10th annual Online Trust Audit &. Honor Roll....
-
-Online Trust Audit for 2020 Presidential Campaigns Update <img width="600" height="600" src="https://www.internetsociety.org/wp-content/uploads/2019/12/joshua-sukoff-5DDYHjk\_KMU-unsplash-600x600.jpg" class="attachment-square size-square wp-post-image" alt="Online Trust Audit for 2020 Presidential Campaigns Update Thumbnail" title="Online Trust Audit for 2020 Presidential Campaigns Update Thumbnail" srcset="https://www.internetsociety.org/wp-content/uploads/2019/12/joshua-sukoff-5DDYHjk\_KMU-unsplash-600x600.jpg 600w, https://www.internetsociety.org/wp-content/uploads/2019/12/joshua-sukoff-5DDYHjk\_KMU-unsplash-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" />. Building Trust 4 December 2019 Online Trust Audit for 2020 Presidential Campaigns Update
-
-On 7 October 2019, the Internet Society’s Online Trust Alliance (OTA) released the Online Trust Audit for 2020 U.S....
-
-Deep Dive: A Look at Top Retailers’ Security Practices <img width="600" height="550" src="https://www.internetsociety.org/wp-content/uploads/2019/11/Retailers-Security-Practices-600x550.jpg" class="attachment-square size-square wp-post-image" alt="Deep Dive: A Look at Top Retailers&#8217. Security Practices Thumbnail" title="Deep Dive: A Look at Top Retailers&#8217. Security Practices Thumbnail" />. Building Trust 27 November 2019 Deep Dive: A Look at Top Retailers’ Security Practices
-
-In April 2019 the Internet Society’s Online Trust Audit released its 10th Online Trust Audit and Honor Roll. One...
+Reston, VA – July 9, 2019 – The Internet Society’s Online Trust Alliance (OTA), which identifies and promotes security and privacy...
 
 Load more Follow OTA Follow OTA on Twitter Follow OTA on LinkedIn Follow ISOC on Facebook Follow ISOC on YouTube Team <img src="https://www.internetsociety.org/wp-content/uploads/2019/05/Megan-Closer-150x150.png" alt="Megan Kruse" title="Megan Kruse" />Megan Kruse photo Megan Kruse
 
