@@ -1,4 +1,4 @@
-EXTRA 25% OFF under $75 with code: SPRING44 DetailsEnable Accessibility
+EXTRA 30% OFF $75 or more with code: SPRING44 DetailsEnable Accessibility
 
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed.Sign InSign InCreate Account
     *   Track My Orders
@@ -34,7 +34,7 @@ Office ChairsDesksWall ArtTech GadgetsOn-call coverageLook your best while shari
 *   Sephora Beauty
     
 
-Shop All BrighterdaysaheadStarting at $7.99select styles
+Shop AllShop All GiftsUp to 70% off Jewelry Giftsselect styles BrighterdaysaheadStarting at $7.99select styles
 
 *   Shop Casual Apparel
 
@@ -47,7 +47,7 @@ Grilling ToolsOutdoor Games Get outdoors & soak up the sun!
 
 *   Shop Swim for the Family
 
-Beach TowelsSunscreen at SephoraInside JCPenneyPool FloatsWater GamesUP TO 50% OFF XersionWalk, jog, hike—recharge, whatever your rhythm.   25% OFF Nike, Champion &. adidasShop brands that are built to last. Select styles. Excluded from coupons.   UP TO 50% OFF HomeRejuvenate your space &. make it feel like new.BedroomBathroomSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+Beach TowelsSunscreen at SephoraInside JCPenneyPool FloatsWater GamesUP TO 50% OFF XersionWalk, jog, hike—recharge, whatever your rhythm.   25% OFF Nike, Champion &. adidasShop brands that are built to last. Select styles. Excluded from coupons.   TowelsSheetsBlanketsBed PillowsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 \*Select toys, select kids' swimwear and Sephora Excluded From Coupons  
 \*Additional offers and coupons do not apply to Levi’s®.  
   
@@ -62,47 +62,47 @@ Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded
 *   $4875 sale
     
     was $65 | 25% offNike® Tanjun Womens Running Shoes(150)
-*   $2024after couponwas $39 Flirtitude Womens Crew Neck Long Sleeve Tie Dye Pullover Sweatshirt - Juniors(2)
+*   $599 - $4124after couponwas $16 - $124 Liz Claiborne Luxury Egyptian Hygrocotton Loops Bath Towel(121)
 
 Sponsored Items
 
+*   $20610after couponGoogle Nest Hello Video Doorbell(355)
 *   $5250after couponEmeril Lagasse Quarter Womens Sneakers(4)Add To Cart
 *   $8999 sale
     
     was $94 | 4% offWaterpik WF-06W010 Whitening Water Flosser(110)Add To Cart
-*   $4049after couponwas $78 Wrangler Riggs Workwear® Ranger Pants(374)Add To Cart
-*   $20610after couponGoogle Nest Hello Video Doorbell(355)
-*   $17999 sale
-    
-    was $300 | 40% offRachael Ray Create Delicious 11-Pc. Cookware Set(43)Add To Cart
-*   $4999
-    
-    Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill Pan(37)Add To Cart
-*   $1999
-    
-    Fisher-Price Laugh &. Learn Smart Stages Sis(48)Add To Cart
-*   $1874after couponwas $34 Range Kleen 4-Pack Drip BowlsAdd To Cart
-*   $1319 - $2999 sale
-    
-    was $44 | 31 - 70% offLee® Relaxed Fit Jeans(2284)Add To Cart
-*   $33499 sale
-    
-    was $360 | 7% offBissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum(2307)Add To Cart
-*   $3999
-    
-    As Seen on TV Blue Diamond Ceramic 11" Non-Stick Square Griddle(21)Add To Cart
+*   $2249after couponwas $40 Lock &. Lock 10-pc. Food Container
+*   $2474after couponwas $48 Lee® Relaxed Fit Straight Leg Jeans - Plus(554)Add To Cart
+*   $1349after couponwas $19 Range Kleen Full Size Oven Liner
 *   $56999 sale
     
     was $669 | 14% offDyson® V8 Animal Cord-Free Vacuum(179)
+*   $1499
+    
+    Fisher-Price Laugh &. Learn Click &. Learn Laptop(10)
+*   $4999
+    
+    Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill Pan(37)Add To Cart
+*   $17999 sale
+    
+    was $300 | 40% offRachael Ray Create Delicious 11-Pc. Cookware Set(43)
+*   $175after couponFarberware® Classic Series 15-pc. Stainless Steel Cookware Set(69)
+*   $25999
+    
+    Samsung Galaxy Womens Multi-Function Rose Goldtone Smart Watch-Sm-R810nzdaxar(243)Add To Cart
 *   $3999 sale
     
     was $70 | 42% offGreenPan Rio Non-Stick Frying Pan(1)
-*   $84after couponFarberware Cookstart 15-pc. Cookware Set(61)Add To Cart
-*   $3374after couponwas $56 Wrangler All Terrain Gear Reinforced Utility Mens Regular Fit Flat Front PantAdd To Cart
-*   $24999 sale
+*   $33499 sale
     
-    was $279.99 | 10% offSamsung Galaxy Active 2 40mm Womens Multi-Function Rose Goldtone Smart Watch-Sm-R830nzdaxar(24)Add To Cart
-*   $2249after couponwas $40 Lock &. Lock 10-pc. Food ContainerAdd To Cart
+    was $360 | 7% offBissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum(2308)Add To Cart
+*   $3999
+    
+    As Seen on TV Blue Diamond Ceramic 11" Non-Stick Square Griddle(21)Add To Cart
+*   $1499after couponwas $30 Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container
+*   $1319 - $2999 sale
+    
+    was $44 | 31 - 70% offLee® Relaxed Fit Jeans(2284)Add To Cart
 
 Shop and Save at JCPenney
 
