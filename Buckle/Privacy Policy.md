@@ -1,10 +1,10 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Up to 50% Off our favorite sale finds. shop now Due to concerns of COVID-19, we are closing all Buckle stores, effective March 17th. learn more >
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Take 30% Off Free People. shop now Get 20% Off Ray-Ban &. Oakley Sunglasses. shop women's &. shop men's 15% Off Departwest &. Outpost Makers Get 30% Off RVCA. shop women's &. shop men's Due to concerns of COVID-19, we are closing all Buckle stores, effective March 17th. learn more >
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-Up to 50% Off our favorite sale finds. shop now
+Take 30% Off Free People. shop now
 
 *   Women
 *   Men
