@@ -1,6 +1,6 @@
 EXTRA 30% OFF $75 or more with code: SPRING44 DetailsEnable Accessibility
 
-*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed.Sign InSign InCreate Account
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed. Weekly Ads Mother’s Day Jewelry SaleValid Apr 13th - May 10thEngagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   My Rewards
     *   JCP Credit CardCart
@@ -45,7 +45,7 @@ TeesPolosShortsSandals Fire upthe grill &the games 
 Grilling ToolsOutdoor Games Get outdoors & soak up the sun!  
 \+ 40% off swimwear that makes a splash | select styles   
 
-*   Shop Swim for the Family
+*   Shop Family Swim
 
 Beach TowelsSunscreen at SephoraInside JCPenneyPool FloatsWater GamesUP TO 50% OFF XersionWalk, jog, hike—recharge, whatever your rhythm.   25% OFF Nike, Champion &. adidasShop brands that are built to last. Select styles. Excluded from coupons.   TowelsSheetsBlanketsBed PillowsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 \*Select toys, select kids' swimwear and Sephora Excluded From Coupons  
@@ -67,42 +67,47 @@ Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded
 Sponsored Items
 
 *   $20610after couponGoogle Nest Hello Video Doorbell(355)
-*   $5250after couponEmeril Lagasse Quarter Womens Sneakers(4)Add To Cart
-*   $8999 sale
-    
-    was $94 | 4% offWaterpik WF-06W010 Whitening Water Flosser(110)Add To Cart
-*   $2249after couponwas $40 Lock &. Lock 10-pc. Food Container
-*   $2474after couponwas $48 Lee® Relaxed Fit Straight Leg Jeans - Plus(554)Add To Cart
-*   $1349after couponwas $19 Range Kleen Full Size Oven Liner
-*   $56999 sale
-    
-    was $669 | 14% offDyson® V8 Animal Cord-Free Vacuum(179)
-*   $1499
-    
-    Fisher-Price Laugh &. Learn Click &. Learn Laptop(10)
-*   $4999
-    
-    Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill Pan(37)Add To Cart
+*   $5250after couponEmeril Lagasse Quarter Womens Sneakers(4)
 *   $17999 sale
     
     was $300 | 40% offRachael Ray Create Delicious 11-Pc. Cookware Set(43)
-*   $175after couponFarberware® Classic Series 15-pc. Stainless Steel Cookware Set(69)
-*   $25999
+*   $8999 sale
     
-    Samsung Galaxy Womens Multi-Function Rose Goldtone Smart Watch-Sm-R810nzdaxar(243)Add To Cart
-*   $3999 sale
-    
-    was $70 | 42% offGreenPan Rio Non-Stick Frying Pan(1)
-*   $33499 sale
-    
-    was $360 | 7% offBissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum(2308)Add To Cart
-*   $3999
-    
-    As Seen on TV Blue Diamond Ceramic 11" Non-Stick Square Griddle(21)Add To Cart
-*   $1499after couponwas $30 Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container
+    was $94 | 4% offWaterpik WF-06W010 Whitening Water Flosser(110)Add To Cart
 *   $1319 - $2999 sale
     
     was $44 | 31 - 70% offLee® Relaxed Fit Jeans(2284)Add To Cart
+*   $1349after couponwas $19 Range Kleen Full Size Oven Liner
+*   $1999
+    
+    Fisher-Price Laugh &. Learn Smart Stages Sis(48)Add To Cart
+*   $2249after couponwas $40 Lock &. Lock 10-pc. Food Container
+*   $4999
+    
+    Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill Pan(37)Add To Cart
+*   $84after couponFarberware Cookstart 15-pc. Cookware Set(61)
+*   $56999 sale
+    
+    was $669 | 14% offDyson® V8 Animal Cord-Free Vacuum(179)
+*   $33499 sale
+    
+    was $360 | 7% offBissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum(2310)Add To Cart
+*   $3999 sale
+    
+    was $70 | 42% offGreenPan Rio Non-Stick Frying Pan(1)
+*   $3999
+    
+    As Seen on TV Blue Diamond Ceramic 11" Non-Stick Square Griddle(21)Add To Cart
+*   $25999
+    
+    Samsung Galaxy Womens Multi-Function Rose Goldtone Smart Watch-Sm-R810nzdaxar(243)Add To Cart
+*   $62910after couponGoogle Nest Cam IQ Outdoor Security Camera 2-Pack(49)
+*   $2474after couponwas $48 Lee® Relaxed Fit Straight Leg Jeans - Plus(554)Add To Cart
+*   $879 - $2999 sale
+    
+    was $44 | 31 - 80% offLee® Slim Fit Sculpting Skinny Jean(41)Add To Cart
+*   $2249after couponwas $44 Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit)(628)Add To Cart
+*   $2249after couponwas $44 Lee® Plain Front Relaxed All Day Twill Pant(782)Add To Cart
 
 Shop and Save at JCPenney
 
