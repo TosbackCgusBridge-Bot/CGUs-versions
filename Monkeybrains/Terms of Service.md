@@ -30,7 +30,7 @@ NOTABLE PRESS MENTIONS &. REVIEWS
 _April 15th, 2020_  
 By Brian X Chen  
 The Virus Revealed Our Essential Tech (and Weeded Out the Excess)  
-Read more >>. By Nick Bastone  
+Read more >>.  
 
 _March 26th, 2020_  
 By Thomas Claburn  
