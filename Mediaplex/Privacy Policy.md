@@ -122,7 +122,7 @@ Our team shares three critical areas to explore when evaluating identity vendors
 Watch the video >. SOME OF THE COMPANIES THAT  
 HARNESS OUR POWER
 
-Ready to talk to the leader in digital media companies? Contact us  LET'S CONNECT!
+Ready to talk to the leader in digital media companies? Contact us  LET'S CONNECT NOW!
 
 *   Privacy Policy
 *   Terms of Use
