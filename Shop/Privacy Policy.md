@@ -475,6 +475,10 @@ Lenovo Explore Close
         
         Shop Now for Premium Yoga Smart Tab Bundle Offers
         
+        Smart Home Deals
+        
+        Explore Smart Home Deals and More!
+        
         *   Always Free Shipping
         *   Easy Returns
         *   Low monthly payments
@@ -705,12 +709,9 @@ Lenovo Explore Close
     *   Logout
 *   Cart
 
-*   *   in All Lenovo
-    *   in Shop
-    *   in Discover
-    *   in Support
-
 Top Suggestions
+
+View all >.
 
 Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
 
