@@ -17,24 +17,22 @@
 *   Polls
     *   Latest Polls
     *   Trump Job Approval
-    *   Democratic Primary Polls
+    *   Trump Vs. Biden
+    *   Political Leaders Favorability
     *   General Election Polls
     *   Generic Congressional Ballot
     *   Senate Polls
     *   Direction of Country
-    *   Political Leaders Favorability
     *   State of the Union Polls
     *   All Latest Election Polls
 *   Election 2020
-    *   Democratic Nomination
-    *   Latest Delegate Count
-    *   Map - Dem Popular Vote
-    *   Democratic Betting Odds
+    *   RCP National Average
     *   General Election Polls
     *   Election Calendar
     *   Senate Polls
     *   Governor Polls
     *   Generic Ballot
+    *   Democratic Delegate Count
     *   Latest Election 2020 Polls
 *   Video
 *   Writers
@@ -61,24 +59,22 @@
     *   Polls
         *   Latest Polls
         *   Trump Job Approval
-        *   Democratic Primary Polls
+        *   Trump Vs. Biden
+        *   Political Leaders Favorability
         *   General Election Polls
         *   Generic Congressional Ballot
         *   Senate Polls
         *   Direction of Country
-        *   Political Leaders Favorability
         *   State of the Union Polls
         *   All Latest Election Polls
     *   RCP Election 2020
-        *   Democratic Nomination
-        *   Latest Delegate Count
-        *   Map - Dem Popular Vote
-        *   Democratic Betting Odds
+        *   RCP National Average
         *   General Election Polls
         *   Election Calendar
         *   Senate Polls
         *   Governor Polls
         *   Generic Ballot
+        *   Democratic Delegate Count
         *   Latest Election 2020 Polls
     *   Video
     *   Writers
