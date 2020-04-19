@@ -32,14 +32,15 @@ Main menu
         *   How To Stay Safe
         *   Searching For
         *   Martinis &. Murder
+        *   Accident, Suicide, or Murder
     *   Channel Finder
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 1:21 The DNA of Murder with Paul Holes Linking Kathleen Heisey to Her Killer 1:00 Catching a Serial Killer: Sam Little Catching a Serial Killer: Sam Little Airs Sunday, 4/12 at 7/6c
+    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 2:26 Relentless With Kate Snow A Beloved Chicago Dermatologist Didn't Call Home One Night In 2006 7:52 Dark Web Exposed LIVESTREAM CRIMES: Murder, Mayhem and Social Media
 *   News
     *   Crime News
-    *   True Crime BuzzCandace Muzny poses during a portrait session for the K&N Pro Series East at Bristol Motor Speedway on March 16, 2012 in Bristol, Tennessee. Photo: Getty Images Crime News Ex-NASCAR Driver Candace Muzny Accidentally Drowned Kelly Investigates the Crime Scene Crime News 'Cold Justice' Helps Solve 31-Year-Old Missouri Murder Kathleen Heisey Crime News Who Killed California Principal Kathleen Heisey?
+    *   True Crime BuzzDavid and Gretchen Anthony Photo: The Jupiter Police Department Crime News Missing Woman’s Friends Got Texts Saying She Had COVID-19 Natalia Uriarte and Francisco Uriarte Photo: Facebook. Chula Vista Police Department Crime News Husband On Run After Allegedly Stabbing Wife To Death Crime News Squeaky Fromme 'Didn't Feel Bad' For Tate Murder Victims
 *   Podcasts
 *   Detective's Den
 *   Schedule
