@@ -115,6 +115,8 @@ Learn about VPN
 *   Online Freedom
 *   Access
 *   Blog
+*   Watch BBC iPlayer with HMA
+*   Streaming with HMA VPN
 
 Help
 
