@@ -1,6 +1,4 @@
-Close
-
-Our Privacy Statement &. Cookie Policy
+Close Our Privacy Statement &. Cookie Policy
 
 Our Thomson Reuters Privacy Statement has changed to make our Privacy Statement clearer and more concise. In addition, it has been updated to address new laws in California. Please review our updated Privacy Statement.
 
@@ -9,16 +7,14 @@ Our Thomson Reuters Privacy Statement has changed to make our Privacy Statement 
 
 Ok to continue
 
-*   Global directoryGlobal directory
+*   Global directory Global directory
 
-*   Product loginsProduct logins
-*   Contact usContact us
-*   Log inLog in
-*   Cart (0)
+*   Product logins Product logins
+*   Contact us Contact us
 
 Thomson Reuters Legal
 
-*   ProductsProducts Top products
+*   Products Products Top products
     
     *   Westlaw
     *   Practical Law
@@ -30,7 +26,7 @@ Thomson Reuters Legal
     Featured
     
     **Quick Check on Westlaw Edge ** Discover the transformative power of intelligent document analysis. Learn more
-*   SolutionsSolutions Solutions
+*   Solutions Solutions Solutions
     
     *   Streamline legal research
     *   Legal guidance
@@ -43,7 +39,7 @@ Thomson Reuters Legal
     Featured
     
     **Small law firm software and solutions** Practice law, manage your law firm, and grow your practice with our complete suite of products. Learn more
-*   InsightsInsights Insights
+*   Insights Insights Insights
     
     *   Articles
     *   White papers
@@ -58,8 +54,8 @@ Thomson Reuters Legal
     *   Data privacy
     *   FinTech
     *   Law firm management
-*   Support centerSupport center
-*   Try and buyTry and buy
+*   Support center Support center
+*   Try and buy Try and buy
 
 1.  Home
 2.  Products
