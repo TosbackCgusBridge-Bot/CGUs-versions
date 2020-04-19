@@ -250,7 +250,7 @@ Download the FedEx Privacy Notice (PDF)
 
 We have compiled a list of the top questions we hear from our customers. If you are looking for more information, check our FAQs.
 
-FREQUENTLY ASKED QUESTIONS Our Company About FedEx Our Portfolio Investor Relations Careers FedEx Blog Corporate Responsibility Newsroom Contact Us More From FedEx FedEx Compatible Developer Resource Center FedEx Logistics Language United States English
+FREQUENTLY ASKED QUESTIONS Our Company About FedEx Our Portfolio Investor Relations Careers Corporate Responsibility Newsroom Contact Us More From FedEx FedEx Compatible Developer Resource Center FedEx Logistics Language United States English
 
 *   English
 *   Español
