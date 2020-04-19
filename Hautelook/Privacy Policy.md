@@ -9,161 +9,166 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
+    *   Designer Sunglasses Up to 75% Off ft. Prada
+    *   Designer Styles Up to 80% Off
+    *   Reiss Men Up to 65% Off
+    *   Alexia Admor Up to 70% Off
+    *   Saturday Swim Steals: BECCA &. More
+    *   Rachel Pally &. More Up to 65% Off
     *   Rock Revival Starting at $30
+    *   Cute for the Camera: MINKPINK &. More
+    *   CeCe by Cynthia Steffe &. More Up to 75% Off Incl. Plus
+    *   Virtual Meeting Ready: Hair Tools Up to 60% Off
+    *   Trending Now: Gorjana Jewelry &. More from $20
+    *   Decor Update: Pillows, Accents &. More from $20
+    *   Nautica Outerwear &. More
+    *   Seychelles Up to 50% Off
+    *   Luxe Sandals ft. Cocobelle Up to 55% Off
+    *   Boots for Spring &. Beyond Up to 60% Off
+    *   Saturday Swim Steals: Men's Styles Up to 60% Off
+    *   Fresh Finds: Sandals &. More from $35
+    *   David Donahue Up to 60% Off
+    *   Men's Boots Up to 70% Off
+    *   Crocs Men
+    *   Crevo Men Starting at $30
+    *   Virtual Playdate Faves: Kids' Sets, Toys &. More
+    *   Trending Now: Kids' Tie-Dye Styles &. More
+    *   Sprox Kids
     *   LAGOS Jewelry
     *   alice + olivia Up to 70% Off
+    *   Frye Men Up to 55% Off
+    
     *   Meghan LA &. More Starting at $25
     *   Catherine Catherine Malandrino
-    *   Springtime Sunnies: Quay &. More Under $25
-    *   Frye Men Up to 55% Off
     *   Amanda &. Chelsea Incl. Plus and Petites
+    *   Springtime Sunnies: Quay &. More Under $25
     *   Dress It Up: Heels at Every Height
+    *   Chic Coats ft. DKNY
     *   Warm Weather Ready: Cutout Booties &. Sandals
     *   DKNY Sport &. More
     *   DKNY Intimates &. Sleep
-    *   Chic Coats ft. DKNY
     *   Spring Day Styles from $20 Incl. Plus &. Petites
-    *   Home Organization Essentials Starting at $20
+    *   it Luggage Up to 60% Off
+    *   Tosca Blu Handbags &. Shoes
     *   Loafers We Love from Our Top Brands
     *   Dress to Impress: Sport Coats Under $200
     *   Virtual Happy Hour Ready: Men's Tops from $20
     *   Warfield &. Grand
-    *   Bedding Refresh: Comforters &. More Up to 55% Off
     *   Roxy Girls &. More Up to 60% Off
-    *   Quiksilver &. More Up to 60% Off
-    *   Time to Stock Up: Bath &. Body Basics
     *   Sneakers for the Family Under $40
+    *   Time to Stock Up: Bath &. Body Basics
+    *   Bedding Refresh: Comforters &. More Up to 55% Off
     *   Basics Shop: Jackets &. Outerwear Up to 70% Off
     *   Basics Shop: Tops from $20 Incl. Plus &. Petites
     *   Basics Shop: Denim, Shorts &. More Up to 65% Off
-    
     *   Basics Shop: Dresses Incl. Plus &. Petites from $20
     *   Basics Shop: Men's Tees, Hoodies &. More from $15
     *   Basics Shop: Men's Lounge, Underwear &. Socks from $10
     *   Basics Shop: Sleep, Lounge &. Intimates Under $35
-    *   Badgley Mischka Up to 55% Off
     *   Basics Shop: Girls' Styles Up to 65% Off
+    
     *   Basics Shop: Boys' Styles Up to 65% Off
     *   Basics Shop: Men's Denim, Chinos &. Shorts from $25
     *   Basics Shop: Men's Activewear from $15
-    *   Shoes ft. Tommy Hilfiger Up to 60% Off
     *   Rejuvenate Your Skin: Dr. Jart &. More
     *   Dogeared Jewelry Up to 50% Off
     *   Tommy Hilfiger Kids' Shoes
     *   Kenneth Cole Reaction Men's Shoes
     *   Tommy Hilfiger Men's Shoes
-    *   April Showers: Rain Boots &. Shoes for Her
     *   Free Shipping: Dreamy Bedding Up to 75% Off
-    *   Le Creuset Starting at $30
-    *   Ready, Set, Spring: Kids' Sets Under $25
+    *   Luxury Fragrances for Him Starting at $25
     *   Glam with an Edge: Decor by Interior Illusions
     *   Aldo Men's Shoes
-    *   Via Spiga Outerwear &. More Up to 65% Off
-    *   Rip Curl Men Under $30
-    *   Miles Baby &. More Starting at $10
     *   bObsweep Up to 75% Off
     *   Free Shipping: Professional Garment Steamers
     *   Best of Hair Care Starting at $10
-    
-    *   Quality Sleep: Luxe Pillow &. Sheet Sets
-    *   Backyard Lounging: Fun Towels from $15
-    *   Original Penguin Up to 60% Off
-    *   Jewelry Shop: Sterling Silver ft. IPPOLITA
-    *   Cozy Comforts: Men's Slippers Starting at $25
-    *   Exclusive Styles from $15 Incl. Plus &. Petites
-    *   Top It Off: Styles Up to 70% Off
-    *   Free Shipping: Contemporary Lamps &. More
-    *   Smart Watch Bands &. More Up to 70% Off
-    *   Luxe Bedding &. Bath Towels Up to 70% Off
-    *   Jewelry Shop: Lucite &. Statement ft. Alexis Bittar
     *   Original Penguin Shoes Up to 60% Off
     *   Luxe Bedding ft. Lacoste
     *   Organization Essentials Starting at $15
-    *   Tosca Blu Handbags &. Shoes
-    *   it Luggage Up to 60% Off
-    *   Luxe Brands Up to 65% Off
-    *   Walter Baker Up to 70% Off
-    *   Plus Spring Essentials Under $50
-    *   Luxury Fragrances for Him Starting at $25
-    *   Jewelry Shop: Diamonds ft. Dana Rebecca
-    *   Jewelry Shop: Gold ft. Lana Jewelry
-    *   Jewelry Shop: Rose Gold ft. Monica Vinader
-    *   Jewelry Shop: Pearls ft. Splendid Pearls
-    *   Brands We Love ft. Urban Decay
+    *   Luxe Bedding &. Bath Towels Up to 70% Off
+    *   Quiksilver &. More Up to 60% Off
+    *   Quality Sleep: Luxe Pillow &. Sheet Sets
+    *   Home Organization Essentials Starting at $20
+    *   Backyard Lounging: Fun Towels from $15
+    *   Le Creuset Starting at $30
+    *   Free Shipping: Contemporary Lamps &. More
+    *   Smart Watch Bands &. More Up to 70% Off
 *   WomenShop Sale Events
     
+    *   Designer Sunglasses Up to 75% Off ft. Prada
+    *   Designer Styles Up to 80% Off
+    *   Alexia Admor Up to 70% Off
+    *   Saturday Swim Steals: BECCA &. More
+    *   Rachel Pally &. More Up to 65% Off
     *   Rock Revival Starting at $30
+    *   Cute for the Camera: MINKPINK &. More
+    *   CeCe by Cynthia Steffe &. More Up to 75% Off Incl. Plus
+    *   Virtual Meeting Ready: Hair Tools Up to 60% Off
+    *   Trending Now: Gorjana Jewelry &. More from $20
+    *   Nautica Outerwear &. More
+    *   Seychelles Up to 50% Off
+    *   Luxe Sandals ft. Cocobelle Up to 55% Off
+    *   Boots for Spring &. Beyond Up to 60% Off
+    *   Fresh Finds: Sandals &. More from $35
     *   LAGOS Jewelry
     *   alice + olivia Up to 70% Off
     *   Meghan LA &. More Starting at $25
     *   Catherine Catherine Malandrino
-    *   Springtime Sunnies: Quay &. More Under $25
     *   Amanda &. Chelsea Incl. Plus and Petites
+    
+    *   Springtime Sunnies: Quay &. More Under $25
     *   Dress It Up: Heels at Every Height
+    *   Chic Coats ft. DKNY
     *   Warm Weather Ready: Cutout Booties &. Sandals
     *   DKNY Sport &. More
     *   DKNY Intimates &. Sleep
-    *   Chic Coats ft. DKNY
     *   Spring Day Styles from $20 Incl. Plus &. Petites
+    *   it Luggage Up to 60% Off
+    *   Tosca Blu Handbags &. Shoes
     *   Loafers We Love from Our Top Brands
-    *   Time to Stock Up: Bath &. Body Basics
     *   Sneakers for the Family Under $40
+    *   Time to Stock Up: Bath &. Body Basics
     *   Basics Shop: Jackets &. Outerwear Up to 70% Off
     *   Basics Shop: Tops from $20 Incl. Plus &. Petites
     *   Basics Shop: Denim, Shorts &. More Up to 65% Off
     *   Basics Shop: Dresses Incl. Plus &. Petites from $20
     *   Basics Shop: Sleep, Lounge &. Intimates Under $35
-    
-    *   Badgley Mischka Up to 55% Off
-    *   Shoes ft. Tommy Hilfiger Up to 60% Off
     *   Rejuvenate Your Skin: Dr. Jart &. More
     *   Dogeared Jewelry Up to 50% Off
-    *   April Showers: Rain Boots &. Shoes for Her
-    *   Via Spiga Outerwear &. More Up to 65% Off
     *   Best of Hair Care Starting at $10
-    *   Jewelry Shop: Sterling Silver ft. IPPOLITA
-    *   Exclusive Styles from $15 Incl. Plus &. Petites
-    *   Top It Off: Styles Up to 70% Off
-    *   Jewelry Shop: Lucite &. Statement ft. Alexis Bittar
-    *   Tosca Blu Handbags &. Shoes
-    *   it Luggage Up to 60% Off
-    *   Luxe Brands Up to 65% Off
-    *   Walter Baker Up to 70% Off
-    *   Plus Spring Essentials Under $50
-    *   Jewelry Shop: Diamonds ft. Dana Rebecca
-    *   Jewelry Shop: Gold ft. Lana Jewelry
-    *   Jewelry Shop: Rose Gold ft. Monica Vinader
-    *   Jewelry Shop: Pearls ft. Splendid Pearls
-    *   Brands We Love ft. Urban Decay
     
     Shop By Category
     *   Clothing
-    *   Jewelry
     *   Shoes
+    *   Jewelry
     *   Lingerie &. Shapewear
-    *   Handbags
     *   Accessories
+    *   Handbags
 *   MenShop Sale Events
     
+    *   Designer Sunglasses Up to 75% Off ft. Prada
+    *   Reiss Men Up to 65% Off
+    *   Saturday Swim Steals: Men's Styles Up to 60% Off
+    *   David Donahue Up to 60% Off
+    *   Men's Boots Up to 70% Off
+    *   Crocs Men
+    *   Crevo Men Starting at $30
     *   Frye Men Up to 55% Off
+    *   it Luggage Up to 60% Off
     *   Dress to Impress: Sport Coats Under $200
     *   Virtual Happy Hour Ready: Men's Tops from $20
+    
     *   Warfield &. Grand
     *   Sneakers for the Family Under $40
     *   Basics Shop: Men's Tees, Hoodies &. More from $15
     *   Basics Shop: Men's Lounge, Underwear &. Socks from $10
     *   Basics Shop: Men's Denim, Chinos &. Shorts from $25
     *   Basics Shop: Men's Activewear from $15
-    
     *   Kenneth Cole Reaction Men's Shoes
     *   Tommy Hilfiger Men's Shoes
-    *   Aldo Men's Shoes
-    *   Rip Curl Men Under $30
-    *   Original Penguin Up to 60% Off
-    *   Cozy Comforts: Men's Slippers Starting at $25
-    *   Original Penguin Shoes Up to 60% Off
-    *   it Luggage Up to 60% Off
     *   Luxury Fragrances for Him Starting at $25
+    *   Aldo Men's Shoes
+    *   Original Penguin Shoes Up to 60% Off
     
     Shop By Category
     *   Clothing
@@ -171,62 +176,66 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Virtual Playdate Faves: Kids' Sets, Toys &. More
+    *   Trending Now: Kids' Tie-Dye Styles &. More
+    *   Sprox Kids
     *   Roxy Girls &. More Up to 60% Off
-    *   Quiksilver &. More Up to 60% Off
     *   Basics Shop: Girls' Styles Up to 65% Off
     *   Basics Shop: Boys' Styles Up to 65% Off
     *   Tommy Hilfiger Kids' Shoes
-    *   Ready, Set, Spring: Kids' Sets Under $25
-    *   Miles Baby &. More Starting at $10
+    *   Quiksilver &. More Up to 60% Off
     
     Shop By Category
     *   Girls
     *   Boys
     *   Baby
+    *   Toys
     *   Girls' Shoes
     *   Boys' Shoes
 *   HomeShop Sale Events
     
-    *   Home Organization Essentials Starting at $20
+    *   Decor Update: Pillows, Accents &. More from $20
     *   Bedding Refresh: Comforters &. More Up to 55% Off
     *   Free Shipping: Dreamy Bedding Up to 75% Off
-    *   Le Creuset Starting at $30
     *   Glam with an Edge: Decor by Interior Illusions
     *   bObsweep Up to 75% Off
     *   Free Shipping: Professional Garment Steamers
-    
-    *   Quality Sleep: Luxe Pillow &. Sheet Sets
-    *   Backyard Lounging: Fun Towels from $15
-    *   Free Shipping: Contemporary Lamps &. More
-    *   Smart Watch Bands &. More Up to 70% Off
-    *   Luxe Bedding &. Bath Towels Up to 70% Off
     *   Luxe Bedding ft. Lacoste
     *   Organization Essentials Starting at $15
+    
+    *   Luxe Bedding &. Bath Towels Up to 70% Off
+    *   Quality Sleep: Luxe Pillow &. Sheet Sets
+    *   Home Organization Essentials Starting at $20
+    *   Backyard Lounging: Fun Towels from $15
+    *   Le Creuset Starting at $30
+    *   Free Shipping: Contemporary Lamps &. More
+    *   Smart Watch Bands &. More Up to 70% Off
     
     Shop By Category
     *   Bedding
     *   Home Decor
-    *   Luggage &. Travel
     *   Electronic &. Tech Accessories
     *   Cleaning &. Organization
+    *   Luggage &. Travel
     *   Bath
     *   Outdoor Living
     *   Kitchen &. Tabletop
     *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   Virtual Meeting Ready: Hair Tools Up to 60% Off
     *   Time to Stock Up: Bath &. Body Basics
     *   Rejuvenate Your Skin: Dr. Jart &. More
-    *   Best of Hair Care Starting at $10
     *   Luxury Fragrances for Him Starting at $25
-    *   Brands We Love ft. Urban Decay
+    *   Best of Hair Care Starting at $10
     
     Shop By Category
     *   Skin Care
-    *   Makeup
     *   Men’s Grooming
     *   Hair Care
     *   Bath &. Body
+    *   Makeup
+    *   Tools &. Accessories
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
