@@ -17,7 +17,7 @@
 *   Polls
     *   Latest Polls
     *   Trump Job Approval
-    *   Trump Vs. Biden
+    *   Trump vs. Biden
     *   Political Leaders Favorability
     *   General Election Polls
     *   Generic Congressional Ballot
@@ -27,6 +27,8 @@
     *   All Latest Election Polls
 *   Election 2020
     *   RCP National Average
+    *   Latest Betting Odds
+    *   Electoral College Map
     *   General Election Polls
     *   Election Calendar
     *   Senate Polls
@@ -59,7 +61,7 @@
     *   Polls
         *   Latest Polls
         *   Trump Job Approval
-        *   Trump Vs. Biden
+        *   Trump vs. Biden
         *   Political Leaders Favorability
         *   General Election Polls
         *   Generic Congressional Ballot
@@ -69,6 +71,8 @@
         *   All Latest Election Polls
     *   RCP Election 2020
         *   RCP National Average
+        *   Latest Betting Odds
+        *   Electoral College Map
         *   General Election Polls
         *   Election Calendar
         *   Senate Polls
