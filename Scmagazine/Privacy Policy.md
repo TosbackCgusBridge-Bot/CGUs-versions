@@ -281,17 +281,17 @@ Life as a CISO: A Q&A with Ray Espinoza of Cobalt.io
     *   Emailed
     *   Recent
     
-    *   Help SC honor Women and Diversity in Cybersecurity with your recommendations
-    *   U.S. offers up to $5M for info on North Korean cyber activity
-    *   The Top 5 most common vulnerability remediation mistakes
-    *   Breaking out of password Groundhog Day
-    *   Microsoft April Patch Tuesday fixes several currently exploited vulnerabilities
-    
-    *   Compromised email account leads to Saint Francis Ministries data breach
     *   A call for women...
-    *   Ragnar Locker’s well-conceived ransomware attack on Energias de Portugal
+    *   Bug brokers put two Zoom zero-days on the market
+    *   Intel forced to discontinue multiple products due to vulnerabilities
+    *   Virtual panel: How supply chains can survive COVID-19’s cyber impact
+    *   Google, Apple collaboration on Bluetooth-based Covid-19 contact tracing prioritizes privacy
+    
+    *   Breaking out of password Groundhog Day
     *   ACLU: Privacy Concerns abound over location tracking to stop Covid-19 spread
-    *   Nemty comes up empty, as cyber gang ditches ransomware for newer encryptor
+    *   Microsoft April Patch Tuesday fixes several currently exploited vulnerabilities
+    *   San Francisco airport websites hacked to swipe personal device credentials
+    *   A 10-point plan for securing remote workers
     
     *   Nation-state hackers reportedly hunting for COVID-19 research
     *   Bug brokers put two Zoom zero-days on the market
