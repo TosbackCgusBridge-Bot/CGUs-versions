@@ -1,10 +1,10 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Take 30% Off Free People. shop now Get 20% Off Ray-Ban &. Oakley Sunglasses. shop women's &. shop men's 15% Off Departwest &. Outpost Makers Get 30% Off RVCA. shop women's &. shop men's Due to concerns of COVID-19, we are closing all Buckle stores, effective March 17th. learn more >
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Good vibes, better sale with our new markdowns. shop now One small thing to make your day memorable. shop new arrivals Due to concerns of COVID-19, we are closing all Buckle stores, effective March 17th. learn more >
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-Due to concerns of COVID-19, we are closing all Buckle stores, effective March 17th. learn more >
+One small thing to make your day memorable. shop new arrivals
 
 *   Women
 *   Men
@@ -577,5 +577,3 @@ Did you mean to add items to your wish list?
 Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
-
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.
