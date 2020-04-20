@@ -281,17 +281,17 @@ Life as a CISO: A Q&A with Ray Espinoza of Cobalt.io
     *   Emailed
     *   Recent
     
-    *   A call for women...
-    *   Bug brokers put two Zoom zero-days on the market
+    *   Coronavirus-related scams rack up $12 million
+    *   WordPress WooCommerce sites targeted by credit card skimmers
+    *   Help SC honor Women and Diversity in Cybersecurity with your recommendations
+    *   VMware issues 10.0 CVSS rating on vCenter Server vulnerability
     *   Intel forced to discontinue multiple products due to vulnerabilities
-    *   Virtual panel: How supply chains can survive COVID-19’s cyber impact
-    *   Google, Apple collaboration on Bluetooth-based Covid-19 contact tracing prioritizes privacy
     
-    *   Breaking out of password Groundhog Day
-    *   ACLU: Privacy Concerns abound over location tracking to stop Covid-19 spread
-    *   Microsoft April Patch Tuesday fixes several currently exploited vulnerabilities
-    *   San Francisco airport websites hacked to swipe personal device credentials
-    *   A 10-point plan for securing remote workers
+    *   Adobe offers up a light Patch Tuesday for April
+    *   Nemty comes up empty, as cyber gang ditches ransomware for newer encryptor
+    *   Canadian government, university targeted with COVID-19-themed phishing emails
+    *   Intel forced to discontinue multiple products due to vulnerabilities
+    *   Collectibles app's user credentials collected, posted on dark web forum
     
     *   Nation-state hackers reportedly hunting for COVID-19 research
     *   Bug brokers put two Zoom zero-days on the market
@@ -330,4 +330,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+
+You can skip this ad in 2 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
