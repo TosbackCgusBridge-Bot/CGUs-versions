@@ -94,9 +94,11 @@ Menutimeanddate.comSearch ×Site / ArticlesCity / CountrySocial ×Share this pag
     *   Date Pattern Calculator
     *   Fun Fact Articles
 
-Home   Site information   Privacy Statement for timeanddate.comPrivacy Statement for timeanddate.com
+Home   Site information   Privacy StatementPrivacy Statement
 
 We have a firm commitment to your privacy and data transparency at timeanddate.com.
+
+We value your privacy.
 
 This page discloses our information gathering and dissemination practices for timeanddate.com. It also includes information regarding the processing of privacy information as stated in the new EU General Data Protection Regulation (GDPR) of May 25, 2018.
 
