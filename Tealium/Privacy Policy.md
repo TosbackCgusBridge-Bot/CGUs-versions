@@ -37,6 +37,7 @@
     *   Tealium Learning Center
     *   Education
 *   Company
+    *   Contact
     *   Leadership
     *   Careers
     *   Blog
@@ -46,7 +47,6 @@
     *   Partners
     *   Technology Partners
     *   Brand Assets
-    *   Contact
 *   For Developers
     *   Docs Overview
     *   Product Guides
@@ -92,6 +92,7 @@
     *   Tealium Learning Center
     *   Education
 *   Company
+    *   Contact
     *   Leadership
     *   Careers
     *   Blog
@@ -101,7 +102,6 @@
     *   Partners
     *   Technology Partners
     *   Brand Assets
-    *   Contact
 *   For Developers
     *   Docs Overview
     *   Product Guides
