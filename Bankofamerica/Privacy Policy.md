@@ -52,7 +52,12 @@ Submit Cancel
 
 You have successfully opted out of online behavioral advertising. The opt-out will take effect upon your next visit using the same device to Bank of America Sites.
 
-Here's what you need to know (and do) to stay as safe as possibleRead about trending scams
+Here's what you need to know (and do) to stay as safe as possible
+
+Protect yourself from scams related to the coronavirus  
+Scammers are taking advantage of fears surrounding the coronavirus. The best way to avoid being scammed is to know their tricks.  
+Trending scams  
+Federal Trade Commission's Coronavirus Scam Tips layer
 
 **Your privacy and security is our top priority! Here are the ways we protect you:**  
 
@@ -83,7 +88,11 @@ Protect your devices Expand all panelsKeep your phone, tablet and computer up to
 
 **The best way to avoid getting tricked by scammers is to know the tricks they use – and the red flags that signal scams.**
 
-**Know the red flags**  
+*   Always remain vigilant as criminals are looking to profit from coronavirus scams.
+*   **You should not be contacted by anyone regarding the Economic Impact Payment, otherwise known as “stimulus payment”:** Don't respond to phone, mail, email, text or social media requesting verification of personal information, fees, or banking information in order to receive a payment. For more information including eligibility and any action you need to take, visit www.irs.gov/coronavirus/economic-impact-payments. layer
+*   **Always keep your information private.** If we need to reach out to you, we will never ask for confidential information such as your passcode, personal identification number (PIN) or other account information. If you receive an unsolicited email, text or call asking for confidential information, ignore it.
+*   **Beware of offers that are too good to be true.** Scammers may promise to deliver hard-to-find goods or coronavirus-related products or supplies.
+
 The most common types of scams will target you through fake emails (a technique known as phishing), text messages (SMSishing or smishing) voice calls (vishing), letters or even someone who shows up at your front door unexpectedly. No matter which technique the scammer uses, you may be:
 
 *   Instructed to not trust Bank of America or to respond to questions in ways that aren’t the truth
@@ -109,8 +118,7 @@ Expand all panelsShow all panels | Hide all panelsImposter: "I'm with the IRS an
 
 \* Zelle and the Zelle related marks are wholly owned by Early Warning Services, LLC and are used herein under license.
 
-**Trending now**  
-Remember: Always be vigilant to protect against scams. Never click on unsolicited links in text messages or emails, especially those asking for cash, gift cards or wire donations to charities. Visit ftc.gov/scams for more information.
+**Trending now**Be alert for scams! Don’t give your personal information to “sign-up” or get your “stimulus payment” early. Visit the Federal Trade Commission’s Coronavirus scam tips to recognize potential fraud, at consumer.ftc.gov
 
 Set your privacy choices
 
