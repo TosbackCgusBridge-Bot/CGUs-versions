@@ -48,7 +48,6 @@ Skip to navigation Skip to main content Subscribe Menu Close
         *   InfoSec World
         *   Webcasts
         *   Virtual Conferences
-        *   RiskSec
         *   SC Media's 30th Anniversary Celebration
         *   Security Leadership Exchange
 *   Resource Library
@@ -281,23 +280,23 @@ Life as a CISO: A Q&A with Ray Espinoza of Cobalt.io
     *   Emailed
     *   Recent
     
-    *   Coronavirus-related scams rack up $12 million
-    *   WordPress WooCommerce sites targeted by credit card skimmers
-    *   Help SC honor Women and Diversity in Cybersecurity with your recommendations
-    *   VMware issues 10.0 CVSS rating on vCenter Server vulnerability
-    *   Intel forced to discontinue multiple products due to vulnerabilities
+    *   GitHub users being hit with credential stealing phishing messages
+    *   Travelex paid $2.3 million ransom, report
+    *   Coronavirus-driven online shopping driving more payment card skimming
+    *   California software developer hit with W-2 scam
+    *   Why the information security of your company depends on machine learning
     
-    *   Adobe offers up a light Patch Tuesday for April
+    *   COVID-19 by the numbers
+    *   Virtual panel: How supply chains can survive COVID-19’s cyber impact
+    *   California software developer hit with W-2 scam
+    *   ACLU: Privacy Concerns abound over location tracking to stop Covid-19 spread
     *   Nemty comes up empty, as cyber gang ditches ransomware for newer encryptor
-    *   Canadian government, university targeted with COVID-19-themed phishing emails
-    *   Intel forced to discontinue multiple products due to vulnerabilities
-    *   Collectibles app's user credentials collected, posted on dark web forum
     
+    *   23 million Webkinz login credentials found on the dark web
+    *   Maze ransomware attack catches IT services firm Cognizant unawares
+    *   More CFOs feeling the heat with ransomware
     *   Nation-state hackers reportedly hunting for COVID-19 research
     *   Bug brokers put two Zoom zero-days on the market
-    *   Google patches another critical vulnerability in Chrome
-    *   Security advisories issued for eight Cisco products, two critical
-    *   Free cybersecurity tools coming online to protect WFH staffers
 
 Back to Top
 
@@ -332,6 +331,6 @@ Back to Top
 
 Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
-You can skip this ad in 2 seconds.
+You can skip this ad in 1 seconds.
 
 x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
