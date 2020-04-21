@@ -46,7 +46,7 @@ Visit Indeed
 
 **Privacy Policy**
 
-Last updated April 15, 2020
+Last updated April 20, 2020
 
 **Summary of Indeed’s Privacy Policy** **1\. Introduction**
 
@@ -526,6 +526,8 @@ Indeed users are able to edit and update most of their Personal Data held by Ind
 Alternatively, if you do not wish to do this, you may make a formal request to delete your Personal Data held by Indeed. In order to do so, please fill out this form. Once your request has been confirmed, Indeed will initiate the necessary steps to execute this exercise, including the deletion of your Indeed account. Where the deletion request relates to Personal Data that you previously requested be made public on Indeed (e.g. a Job Seeker posting a public resume), we will make reasonable efforts to inform any other controllers of this request. If you have interacted with Indeed using more than one email address, please submit a subsequent request with the additional email addresses so that we may delete this personal data as well.
 
 **PLEASE NOTE: by requesting the deletion of your Personal Data, you will no longer be able to create an account with Indeed using the same email address. If you simply wish to close your account, please click the “close my account” button in your account page. Additionally, if you use Indeed Apply for an application or take any other action on the Site using the same email address associated with your deletion request, you may not receive certain communications associated with those actions from Indeed or other Indeed users.**
+
+**If you are a Job Seeker and want to delete a job application performed from Indeed’s Site, please contact the prospective Employer directly to request deletion of your application. If you are a Job Seeker who submitted a job application to work at Indeed, please refer to our** **Applicant Privacy Policy** **for additional instructions on how to exercise your rights.** 
 
 **10.6 Withdrawing Consent**
 
