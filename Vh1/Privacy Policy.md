@@ -8,8 +8,8 @@
     *   Black Ink Crew New York
     *   Cartel Crew
     *   Love &. Hip Hop Atlanta
-    *   Love &. Hip Hop Miami
     *   RuPaul's Drag Race
+    *   Secret Celebrity RuPaul's Drag Race
     *   T.I. &. Tiny: Friends &. Family Hustle
     *   Wild 'N OutSee all Shows
 *   App
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleBlack Ink Crew ChicagoBlack Ink Crew ComptonBlack Ink Crew New YorkCartel CrewLove &. Hip Hop AtlantaLove &. Hip Hop MiamiRuPaul's Drag RaceT.I. &. Tiny: Friends &. Family HustleWild 'N Outsee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleBlack Ink Crew ChicagoBlack Ink Crew ComptonBlack Ink Crew New YorkCartel CrewLove &. Hip Hop AtlantaRuPaul's Drag RaceSecret Celebrity RuPaul's Drag RaceT.I. &. Tiny: Friends &. Family HustleWild 'N Outsee all Shows
 *   App
 *   VH100 PODCAST
 *   Watch Live TV
