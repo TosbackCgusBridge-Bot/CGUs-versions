@@ -2,7 +2,7 @@ Cookies help us keep internet content free. By continuing to use our website or 
 
 If you decline, your information won’t be tracked when you visit this website. A single cookie will be used in your browser to remember your preference not to be tracked.
 
-Accept Decline
+Accept Decline Skip to main navigation Skip to main content Skip to contact form Skip to side nav Skip to footer
 
 *   Careers
 *   Ad Quality
