@@ -122,6 +122,6 @@ Arlington, VA 22202
 (703) 739-5127  
 kids@pbs.org
 
-PBS KIDS | TV Times | Help  
+PBS KIDS | TV Times | Help | Terms of Use  
   
 Copyright © 1995-2020 Public Broadcasting Service (PBS). All rights reserved.
