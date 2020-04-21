@@ -25,7 +25,11 @@ We understand that for our clients, having access to the latest research on cons
 You can expect the same high-quality service and support you normally receive from us.  
 As always, contact us with any questions.
 
-Our solutions Advertising &. brand Product innovation Point-of-purchase influencers Pre-testing Customer value Packaging design Social insights Case stories Co-creating with Philips Edgewell measurement program Facebook video ads Amstel Bock pack design Philips concept test Yahoo ad testing Our latest research and insights The future of creative testing is AI-powered
+Our solutions Advertising &. brand Product innovation Point-of-purchase influencers Pre-testing Customer value Packaging design Social insights Case stories Co-creating with Philips Edgewell measurement program Facebook video ads Amstel Bock pack design Philips concept test Yahoo ad testing Our latest research and insights Make room, grocers: More brands are taking control of their category
+
+Video: The evolution of bartender recommendations: 2007-2019
+
+The future of creative testing is AI-powered
 
 Celebrating 2 years of being a top 3 fastest growing market research agency in the UK!
 
@@ -44,10 +48,6 @@ Webinar: Accelerating insights with artificial intelligence and new technologies
 Quiz: How much do you know about the influence of the bartender?
 
 Ditch the focus group for our faster, cheaper and more agile digital alternative
-
-Video: How to maximize your Facebook and Instagram video advertising
-
-Emotions sell brands: How to capture the emotional resonance of your brands, ads and products
 
 Our story
 
