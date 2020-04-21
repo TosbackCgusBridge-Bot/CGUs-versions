@@ -14,7 +14,6 @@ Apps and Services Menu Gizmo
 *   Smart Home
 *   Wild and Seek
 *   Navigator
-*   Care Smart app
 
 *   Message+
 *   Hum
@@ -24,7 +23,6 @@ Apps and Services Menu Gizmo
 *   Smart Home
 *   Wild and Seek
 *   Navigator
-*   Care Smart app
 
 Gizmo Introducción
 
