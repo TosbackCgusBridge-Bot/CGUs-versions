@@ -12,31 +12,31 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1249 games
-*   Most Popular Games 20763 games
+*   Best of new games 1251 games
+*   Most Popular Games 20768 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,405 games
-*   Driving &. Racing 6,345 games
-*   Strategy &. RPG 3,609 games
+*   For Girls 24,292 games
+*   Driving &. Racing 6,346 games
+*   Strategy &. RPG 3,611 games
 *   Management &. Sim 4,262 games
-*   Thinking 12,556 games
-*   Action &. Adventure 14,538 games
-*   Sports 3,310 games
-*   Shooting 9,036 games
+*   Thinking 12,559 games
+*   Action &. Adventure 14,539 games
+*   Sports 3,312 games
+*   Shooting 9,038 games
 *   Fighting 2,081 games
-*   Skill 10,981 games
-*   Arcade &. Classic 9,072 games
-*   Fun &. Crazy 4,802 games
+*   Skill 10,985 games
+*   Arcade &. Classic 9,081 games
+*   Fun &. Crazy 4,944 games
 
 Play with friends  
 Powered by Y8 Account 142 Y8 Multiplayer Games 2,204 Y8 High Score Games 1,248 Y8 Achievements Games 877 Y8 Screenshots Games 1,662 Y8 Online Save Games 3,363 All Y8 Games Games Last Highscore:
 
-**43,200** points on Path of Hero by Mrshootermaster
+**64** points on Masked Forces Unlimited by hisfather
 
 Help us improve Bad translation? Social
 
@@ -85,49 +85,49 @@ Register Log in My Profile 0 points
 
 Game Categories
 
-*   For Girls 24,405 games
 *   Fighting 2,081 games
-*   Shooting 9,036 games
-*   Driving &. Racing 6,345 games
-*   Sports 3,310 games
-*   Strategy &. RPG 3,609 games
-*   Skill 10,981 games
-*   Arcade &. Classic 9,072 games
-*   Action &. Adventure 14,538 games
+*   Action &. Adventure 14,539 games
+*   For Girls 24,292 games
+*   Driving &. Racing 6,346 games
+*   Strategy &. RPG 3,611 games
+*   Shooting 9,038 games
+*   Sports 3,312 games
+*   Thinking 12,559 games
 *   Management &. Sim 4,262 games
-*   Thinking 12,556 games
-*   Fun &. Crazy 4,802 games
+*   Fun &. Crazy 4,944 games
+*   Skill 10,985 games
+*   Arcade &. Classic 9,081 games
 
 Tags
 
-*   Dress Up16,003
-*   Makeover / Make-up3,641
-*   2 player1,251
-*   Multiplayer446
-*   Escape1,458
-*   Mining205
-*   Kids5,402
-*   Aircraft930
-*   Tower Defense469
+*   Dress Up16,001
+*   2 player1,252
+*   Makeover / Make-up3,640
 *   Car2,752
+*   Fairy506
+*   Kissing261
+*   Truck1,010
+*   Multiplayer446
+*   Terrorist111
+*   Escape1,458
+*   Kids5,405
+*   First Person Shooter562
+*   Mining205
+*   Aircraft930
+*   Number711
 *   Helicopter308
+*   Tower Defense469
+*   Spaceship1,437
+*   Zombie1,713
 *   Relaxing70
+*   Egypt14
 *   Romance305
 *   House206
-*   Planet375
-*   Decorate1,986
+*   Decorate1,984
 *   Seduction82
-*   Offroad226
-*   Puzzle8,442
+*   Puzzle8,445
 *   Funny648
-*   Rollerblade11
 *   Train142
-*   Truck1,009
-*   Mouse Skill10,592
-*   Tennis76
-*   Balloons417
-*   The Simpsons69
-*   Coloring503
 
 × ×
 
@@ -320,4 +320,4 @@ If You have any questions, queries, comments, or requests, We are happy to recei
 *   Privacy Policy
 *   Cookie Policy
 
-We use cookies for advertising, content recommendations, and traffic measurement. By using this website, you consent to the Privacy Policy and Cookie Policy. Got it
+We use cookies for advertising, content recommendations, and traffic measurement. By using this website, you consent to the Privacy Policy and Cookie Policy. Got it 92% Did you like “Park the Taxi” game? Yes No
