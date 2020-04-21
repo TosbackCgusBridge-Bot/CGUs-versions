@@ -1,6 +1,6 @@
-EXTRA 30% OFF $75 or more with code: SPRING44 DetailsEnable Accessibility
+EXTRA 30% OFF $75 or more with code: FLASH12 Details Enable Accessibility
 
-*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed. Weekly Ads Mother’s Day Jewelry SaleValid Apr 13th - May 10thEngagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed.Sign InSign InCreate Account
     *   Track My Orders
     *   My Rewards
     *   JCP Credit CardCart
@@ -17,11 +17,7 @@ EXTRA 30% OFF $75 or more with code: SPRING44 DetailsEnable Accessibility
 *   Salon
 *   Sephora Beauty
 
- Your new HQA whole new meaning to 'corner office'
-
-*   Work-From-Home Shop
-
-Office ChairsDesksWall ArtTech GadgetsOn-call coverageLook your best while sharing screens with co-workers or friends.
+TowelsSheetsBlanketsBed PillowsShop All GiftsUp to 70% off Jewelry Giftsselect stylesOn-call coverageLook your best while sharing screens with co-workers or friends.
 
 *   Shop All
 
@@ -34,11 +30,7 @@ Office ChairsDesksWall ArtTech GadgetsOn-call coverageLook your best while shari
 *   Sephora Beauty
     
 
-Shop AllShop All GiftsUp to 70% off Jewelry Giftsselect styles BrighterdaysaheadStarting at $7.99select styles
-
-*   Shop Casual Apparel
-
-TeesPolosShortsSandals Fire upthe grill &the games 
+Shop AllCasual spring styles, starting at $7.99for brighter days aheadselect stylesTeesPolosShortsSandalsUP TO 50% OFF XersionWalk, jog, hike—recharge, whatever your rhythm.   25% OFF Nike, Champion &. adidasShop brands that are built to last. Select styles. Excluded from coupons.    Fire upthe grill &the games 
 
 *   Shop Outdoor Dining
 
@@ -47,24 +39,28 @@ Grilling ToolsOutdoor Games Get outdoors & soak up the sun!
 
 *   Shop Family Swim
 
-Beach TowelsSunscreen at SephoraInside JCPenneyPool FloatsWater GamesUP TO 50% OFF XersionWalk, jog, hike—recharge, whatever your rhythm.   25% OFF Nike, Champion &. adidasShop brands that are built to last. Select styles. Excluded from coupons.   TowelsSheetsBlanketsBed PillowsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+Beach TowelsSunscreen at SephoraInside JCPenneyPool FloatsWater Games Your new HQA whole new meaning to 'corner office'
+
+*   Work-From-Home Shop
+
+Office ChairsDesksWall ArtTech GadgetsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 \*Select toys, select kids' swimwear and Sephora Excluded From Coupons  
 \*Additional offers and coupons do not apply to Levi’s®.  
   
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   $599after couponwas $13 a.n.a-Womens Round Neck Short Sleeve T-Shirt(19)
-*   $6375 - $6775 sale
-    
-    was $85 - $90 | 24 - 25% offNike Air Max Motion 2 Womens Running Shoes(16)
-*   $224 - $1499after couponwas $6 - $48 Home Expressions Solid or Stripe Bath Towel Collection(531)
+*   $449 - $2849after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(338)
 *   $4875 sale
     
     was $65 | 25% offNike® Tanjun Womens Running Shoes(150)
-*   $599 - $4124after couponwas $16 - $124 Liz Claiborne Luxury Egyptian Hygrocotton Loops Bath Towel(122)
-*   $4875 sale
+*   $6375 - $6775 sale
     
-    was $65 | 25% offNike Revolution 5 Womens Running Shoes(13)
+    was $85 - $90 | 24 - 25% offNike Air Max Motion 2 Womens Running Shoes(16)
+*   $1124 - $2249after couponwas $26 - $60 Home Expressions Microfiber Plus Ultra Soft Easy Care Wrinkle Resistant Sheet Set(1691)
+*   $449 - $2849after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1682)
+*   $6750 sale
+    
+    was $90 | 25% offNike Air Max Excee Womens Running Shoes(1)
 
 Sponsored Items
 
@@ -72,51 +68,46 @@ Sponsored Items
     
     was $94 | 4% offWaterpik WF-06W010 Whitening Water Flosser(110)Add To Cart
 *   $5250after couponEmeril Lagasse Quarter Womens Sneakers(4)
-*   SPECIAL DEAL!
-    
-    $3999 sale
-    
-    was $75 | 46% offItouch Slim Womens Multicolor Smart Watch-Itl7468b08d-P10(124)Add To Cart
+*   $339 - $53899after couponwas $1,200 - $1,650 Beautyrest ® BR800™ Medium - Mattress Only(3)Add To Cart
 *   CLOSEOUT!
     
     $459 - $1,39899after couponwas $1,480 - $3,420 Serta Icomfort Blue Fusion 100 Firm Tight-Top Hybrid Mattress(163)Add To Cart
 *   $2249after couponwas $44 Lee® Plain Front Relaxed All Day Twill Pant(782)Add To Cart
-*   $1499after couponwas $30 Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container
-*   $13999 sale
-    
-    was $240 | 41% offRachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set(192)
 *   $4999
     
     Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill Pan(37)Add To Cart
-*   $20610after couponGoogle Nest Hello Video Doorbell(355)
-*   $84after couponFarberware Cookstart 15-pc. Cookware Set(61)
-*   $1499
+*   $17999 sale
     
-    Fisher-Price Laugh &. Learn Click &. Learn Laptop(10)
+    was $300 | 40% offRachael Ray Create Delicious 11-Pc. Cookware Set(17)
 *   $1349after couponwas $19 Range Kleen Full Size Oven Liner
+*   $20610after couponGoogle Nest Hello Video Doorbell(355)
+*   $1499after couponwas $30 Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container
+*   $3999
+    
+    As Seen on TV Blue Diamond Ceramic 11" Non-Stick Square Griddle(21)Add To Cart
 *   $3999 sale
     
     was $70 | 42% offGreenPan Rio Non-Stick Frying Pan(1)
 *   $56999 sale
     
     was $669 | 14% offDyson® V8 Animal Cord-Free Vacuum(179)
-*   $3999
+*   $84after couponFarberware Cookstart 15-pc. Cookware Set(61)
+*   $1499
     
-    As Seen on TV Blue Diamond Ceramic 11" Non-Stick Square Griddle(21)Add To Cart
-*   SPECIAL DEAL!
+    Fisher-Price Laugh &. Learn Click &. Learn Laptop(10)
+*   $13999 sale
     
-    $5999 sale
-    
-    was $85 | 29% offItouch Air SE Womens Black Smart Watch-Ita41101r75c-003
-*   $7999 sale
-    
-    was $99.99 | 20% offSamsung Galaxy Fit Womens Multi-Function White Smart Watch-Sm-R370nzsaxar(33)Add To Cart
-*   $2999 sale
-    
-    was $65 | 53% offItouch Playzoom Boys Green Smart Watch-Ipz03480s06a-Dop(256)
+    was $240 | 41% offRachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set(192)
 *   $33499 sale
     
-    was $360 | 7% offBissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum(2311)Add To Cart
+    was $360 | 7% offBissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum(2312)Add To Cart
+*   $25999
+    
+    Samsung Galaxy Womens Multi-Function Rose Goldtone Smart Watch-Sm-R810nzdaxar(243)Add To Cart
+*   $40899 - $639after couponwas $1,000 - $1,750 Serta® Sleeptrue® Lindridge Firm - Mattress Only(4)Add To Cart
+*   $1319 - $2999 sale
+    
+    was $44 | 31 - 70% offLee® Relaxed Fit Jeans(2284)Add To Cart
 
 Shop and Save at JCPenney
 
