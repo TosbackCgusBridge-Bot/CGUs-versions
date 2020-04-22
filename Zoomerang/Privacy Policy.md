@@ -47,7 +47,7 @@ Webinar: Accelerating insights with artificial intelligence and new technologies
 
 Quiz: How much do you know about the influence of the bartender?
 
-Ditch the focus group for our faster, cheaper and more agile digital alternative
+How does a digital qualitative solution compare to focus groups?
 
 Our story
 
