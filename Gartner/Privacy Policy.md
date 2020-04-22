@@ -76,11 +76,12 @@ Search
     *   About Us
     *   Careers
     *   Contact Us
+    *   Corporate Responsibility
     *   Investor Relations
     *   NewsroomCareers
 *   Become a Client
     
-    \+ 1 800 213 4848 + 1 800 213 4848
+    1 855 670 4129 1 855 670 4129
     
 
 *   Solutions By Function
@@ -141,13 +142,14 @@ Search
     *   About Us
     *   Careers
     *   Contact Us
+    *   Corporate Responsibility
     *   Investor Relations
     *   Newsroom
 *   Careers
 
 *   Become a Client
     
-    \+ 1 800 213 4848 + 1 800 213 4848
+    1 855 670 4129 1 855 670 4129
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
