@@ -28,9 +28,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive 40% off your order!
+Receive 50% off all swimwear, water shoes and more. 40% off everything else!
 
-code: SANDY pin: PROMOTION DETAILS
+code: SPLASH pin: PROMOTION DETAILS
 
 Customer Service Menu
 
