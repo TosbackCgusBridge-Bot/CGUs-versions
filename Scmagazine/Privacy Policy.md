@@ -280,23 +280,23 @@ Life as a CISO: A Q&A with Ray Espinoza of Cobalt.io
     *   Emailed
     *   Recent
     
-    *   GitHub users being hit with credential stealing phishing messages
-    *   Travelex paid $2.3 million ransom, report
-    *   Coronavirus-driven online shopping driving more payment card skimming
-    *   California software developer hit with W-2 scam
+    *   Bug brokers put two Zoom zero-days on the market
+    *   More CFOs feeling the heat with ransomware
+    *   Texas judge OKs expanded mail-in voting during COVID-19 pandemic
+    *   23 million Webkinz login credentials found on the dark web
     *   Why the information security of your company depends on machine learning
     
-    *   COVID-19 by the numbers
+    *   Help SC honor Women and Diversity in Cybersecurity with your recommendations
+    *   Google patches another critical vulnerability in Chrome
+    *   Coronavirus-related scams rack up $12 million
+    *   San Francisco airport websites hacked to swipe personal device credentials
     *   Virtual panel: How supply chains can survive COVID-19’s cyber impact
-    *   California software developer hit with W-2 scam
-    *   ACLU: Privacy Concerns abound over location tracking to stop Covid-19 spread
-    *   Nemty comes up empty, as cyber gang ditches ransomware for newer encryptor
     
-    *   23 million Webkinz login credentials found on the dark web
-    *   Maze ransomware attack catches IT services firm Cognizant unawares
-    *   More CFOs feeling the heat with ransomware
-    *   Nation-state hackers reportedly hunting for COVID-19 research
-    *   Bug brokers put two Zoom zero-days on the market
+    *   Supreme Court takes on case that could modernize, redefine CFAA
+    *   Fitness software maker Kinomap leaves database open exposing 42 million users
+    *   Healthcare IT workers struggle to secure IoT devices during COVID-19
+    *   Phishing campaign aims to steal Zoom credentials using fake layoff notifications
+    *   Remote workers' lack of corporate firewalls blamed for rise in malicious device activity
 
 Back to Top
 
