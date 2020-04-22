@@ -208,13 +208,6 @@ Close submenu ( Guys ) Guys
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
 
-UNITY IS MORE IMPORTANT THAN EVER Amidst the progression of COVID-19, we must work together to ensure the health and safety of each other. We're better as one. Community is everything. Learn More &. Stay Safe
-
-Amidst the progression of COVID-19, we must work  
-together to ensure the health and safety of each other.  
-We're better as one. Community is everything.  
-Learn More &. Stay Safe
-
 Menu Find a Store Aeropostale
 
 *   Girls
@@ -390,6 +383,14 @@ Menu Find a Store Aeropostale
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
+
+Good Things Take Time. Over the last few weeks, we've implemented extra precautionary measures in our warehouse to ensure the health and  
+safety of our customers and associates. Because of this your shipment may experience delays. Thank you for your patience and understanding. Learn More &. Stay Safe
+
+Good Things Take Time. Over the last few weeks, we've implemented extra  
+precautionary measures in our warehouse to ensure the health and safety of  
+our customers and associates. Because of this your shipment may experience  
+delays. Thank you for your patience and understanding. Learn More &. Stay Safe
 
 60% or More
 
