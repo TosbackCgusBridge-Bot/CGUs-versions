@@ -21,6 +21,7 @@ Menu
         *   Commercial Banking
         *   Global Banking and Markets
     *   Leadership
+    *   HSBC news
     *   Our history
         *   Back
         *   Our history
@@ -151,7 +152,7 @@ Menu
     *   Awards
     *   Social media
     *   Media contactsMEDIA CONTACTS How journalists can get in touch Close Navigation
-*   Careers Skip to Online banking Careers
+*   Careers Skip to Insight Careers
     
     Endless possibilities, diverse outlooks. Build your  
     career at HSBC.
@@ -193,6 +194,7 @@ Menu
     *   Careers FAQs
     *   Careers events
     *   Careers contactsLIFE AT HSBC Find out what makes us different Close Navigation
+*   Insight
 *   Online banking
 *   Contact
 
