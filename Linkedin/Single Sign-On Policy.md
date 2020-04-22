@@ -64,10 +64,10 @@ Note: This form won’t submit a case. We’ll just use it to make this article 
 
 Please tell us why this answer wasn’t helpful: This field is required.
 
-*   This answer was not helpful because: It’s inaccurate
-*   This answer was not helpful because: It’s incomplete
-*   This answer was not helpful because: It’s confusing
-*   This answer was not helpful because: It wasn’t what I was looking for
-*   This answer was not helpful because: Other
+*   This answer was not helpful because:It’s inaccurate
+*   This answer was not helpful because:It’s incomplete
+*   This answer was not helpful because:It’s confusing
+*   This answer was not helpful because:It wasn’t what I was looking for
+*   This answer was not helpful because:Other
 
 CancelSubmit
