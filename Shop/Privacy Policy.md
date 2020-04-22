@@ -203,26 +203,26 @@ Lenovo Explore Close
         *   Explore Gaming
         *   Laptops
         *   Desktops
-        *   Consoles
-        *   AR/VR
         *   Accessories
+        *   Oculus Rift S
+        *   Gaming Monitors
         *   View All Gaming
         
         *   Featured
-        *   Gaming Monitors
-        *   Accessory Deals
-        *   Shop PC Games
-        *   Gaming PC Deals
-        *   Xbox
+        *   Gaming Storefront
         *   Gaming Community
+        *   IdeaPad &. IdeaCentre Gaming
+        *   Gaming PC Deals
+        *   Gaming Accessories Deals
+        *   Shop PC Games
         
         *   New in Gaming
-        *   Gaming Storefront
-        *   Oculus Rift S
-        *   H500 Headset
-        *   IdeaCentre T540 Desktop
-        *   Realspace Gaming Chair
-        *   Legion Y740
+        *   Legion Laptops
+        *   Legion Desktops
+        *   Legion Headsets
+        *   Legion Mice
+        *   Legion Keyboards
+        *   Legion Monitors
         
         Shop Gaming
         
@@ -276,6 +276,7 @@ Lenovo Explore Close
         *   Warranty Lookup
         *   Order Replacement Parts
         *   Shopping Help
+        *   Work from Home Support
         
         *   Order Support
         *   Existing Order Help
@@ -468,8 +469,6 @@ Lenovo Explore Close
         
         *   Explore Smart Accessories
         *   Smart Home Accessories
-        *   Lenovo Smart Bulb
-        *   Lenovo Smart Plug
         
         Yoga Smart Tab Bundles
         
@@ -1209,4 +1208,14 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Created with sketchtool.CHAT NOW
+
+How can we help
+
+you today?
+
+×SALES CHATEXISTING ORDER HELPSALES CHATEXISTING ORDER HELPBUSINESS SALESBUSINESS SALES
+
+Call us: 1-855-253-6686
+
+Ask us about our price match policy >Check order status >Technical support or Repair status >Launches comment card in new windowFeedback
