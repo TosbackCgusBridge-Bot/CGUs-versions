@@ -12,31 +12,31 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1251 games
-*   Most Popular Games 20768 games
+*   Best of new games 1248 games
+*   Most Popular Games 20780 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,292 games
-*   Driving &. Racing 6,346 games
+*   For Girls 24,072 games
+*   Driving &. Racing 6,347 games
 *   Strategy &. RPG 3,611 games
 *   Management &. Sim 4,262 games
-*   Thinking 12,559 games
-*   Action &. Adventure 14,539 games
-*   Sports 3,312 games
-*   Shooting 9,038 games
+*   Thinking 12,563 games
+*   Action &. Adventure 14,538 games
+*   Sports 3,311 games
+*   Shooting 9,039 games
 *   Fighting 2,081 games
-*   Skill 10,985 games
-*   Arcade &. Classic 9,081 games
+*   Skill 10,994 games
+*   Arcade &. Classic 9,080 games
 *   Fun &. Crazy 4,944 games
 
 Play with friends  
-Powered by Y8 Account 142 Y8 Multiplayer Games 2,204 Y8 High Score Games 1,248 Y8 Achievements Games 877 Y8 Screenshots Games 1,662 Y8 Online Save Games 3,363 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 142 Y8 Multiplayer Games 2,204 Y8 High Score Games 1,248 Y8 Achievements Games 877 Y8 Screenshots Games 1,663 Y8 Online Save Games 3,363 All Y8 Games Games Last Highscore:
 
-**64** points on Masked Forces Unlimited by hisfather
+**3** points on Weapon Quest 3D by fathi\_askr
 
 Help us improve Bad translation? Social
 
@@ -85,49 +85,49 @@ Register Log in My Profile 0 points
 
 Game Categories
 
+*   Shooting 9,039 games
+*   For Girls 24,072 games
 *   Fighting 2,081 games
-*   Action &. Adventure 14,539 games
-*   For Girls 24,292 games
-*   Driving &. Racing 6,346 games
+*   Action &. Adventure 14,538 games
+*   Driving &. Racing 6,347 games
+*   Sports 3,311 games
 *   Strategy &. RPG 3,611 games
-*   Shooting 9,038 games
-*   Sports 3,312 games
-*   Thinking 12,559 games
+*   Skill 10,994 games
+*   Thinking 12,563 games
 *   Management &. Sim 4,262 games
 *   Fun &. Crazy 4,944 games
-*   Skill 10,985 games
-*   Arcade &. Classic 9,081 games
+*   Arcade &. Classic 9,080 games
 
 Tags
 
-*   Dress Up16,001
-*   2 player1,252
+*   Series5,534
+*   Dress Up16,003
+*   2 player1,251
 *   Makeover / Make-up3,640
+*   Jedi28
+*   Kids5,407
+*   Escape1,458
+*   Ninja565
+*   First Person Shooter562
+*   Throwing1,039
 *   Car2,752
-*   Fairy506
-*   Kissing261
-*   Truck1,010
 *   Multiplayer446
 *   Terrorist111
-*   Escape1,458
-*   Kids5,405
-*   First Person Shooter562
+*   Kissing261
+*   Card496
+*   Truck1,012
+*   Fairy506
+*   Arkanoid361
 *   Mining205
 *   Aircraft930
-*   Number711
+*   Racing1,828
 *   Helicopter308
 *   Tower Defense469
-*   Spaceship1,437
 *   Zombie1,713
 *   Relaxing70
-*   Egypt14
 *   Romance305
 *   House206
 *   Decorate1,984
-*   Seduction82
-*   Puzzle8,445
-*   Funny648
-*   Train142
 
 × ×
 
