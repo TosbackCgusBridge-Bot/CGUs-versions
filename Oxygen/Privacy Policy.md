@@ -37,10 +37,10 @@ Main menu
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 2:26 Relentless With Kate Snow A Beloved Chicago Dermatologist Didn't Call Home One Night In 2006 7:52 Dark Web Exposed LIVESTREAM CRIMES: Murder, Mayhem and Social Media
+    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 1:11 Cold Justice Kittie Koseck's Family Doubts Her 1993 Death Was A Suicide 1:21 Snapped How Was Michael Gargiulo Caught?
 *   News
     *   Crime News
-    *   True Crime BuzzDavid and Gretchen Anthony Photo: The Jupiter Police Department Crime News Missing Woman’s Friends Got Texts Saying She Had COVID-19 Natalia Uriarte and Francisco Uriarte Photo: Facebook. Chula Vista Police Department Crime News Husband On Run After Allegedly Stabbing Wife To Death Crime News Squeaky Fromme 'Didn't Feel Bad' For Tate Murder Victims
+    *   True Crime BuzzTony and Katherine Butterfield Photo: West Jordan Police Department Crime News 'Loving' Parents Killed Fighting Off Home Intruder Crime News Tenants Report Landlords Pushing ‘Sex For Rent’ Deals Ashley Ellerin Crime News Investigator Talks ‘Gruesome’ 'Hollywood Ripper' Murder
 *   Podcasts
 *   Detective's Den
 *   Schedule
