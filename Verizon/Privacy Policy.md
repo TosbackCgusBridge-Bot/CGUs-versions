@@ -11,18 +11,18 @@ Apps and Services Menu Gizmo
 *   Smart Family
 *   Gizmo
 *   AppFlash
-*   Smart Home
 *   Wild and Seek
 *   Navigator
+*   Care Smart
 
 *   Message+
 *   Hum
 *   Smart Family
 *   Gizmo
 *   AppFlash
-*   Smart Home
 *   Wild and Seek
 *   Navigator
+*   Care Smart
 
 Gizmo Introducción
 
