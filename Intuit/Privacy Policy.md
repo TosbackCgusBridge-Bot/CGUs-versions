@@ -5,7 +5,7 @@ EXTRA 30% OFF $75 or more with code: FLASH12 Details Enable Accessibility
     *   My Rewards
     *   JCP Credit CardCart
 
-*   Staying At Home
+*   Mother's Day &. Trending
 *   Home &. Lifestyle
 *   Women
 *   Men
@@ -44,23 +44,25 @@ Beach TowelsSunscreen at SephoraInside JCPenneyPool FloatsWater Games Your new 
 *   Work-From-Home Shop
 
 Office ChairsDesksWall ArtTech GadgetsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
-\*Select toys, select kids' swimwear and Sephora Excluded From Coupons  
-\*Additional offers and coupons do not apply to Levi’s®.  
-  
+\*Select toys, select kids' swimwear and Sephora Excluded From Coupons.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   $449 - $2849after couponwas $10 - $76 JCPenney Home Performance Bath Towel Collection(338)
 *   $4875 sale
     
-    was $65 | 25% offNike® Tanjun Womens Running Shoes(150)
+    was $65 | 25% offNike Revolution 5 Womens Running Shoes(13)
 *   $6375 - $6775 sale
     
     was $85 - $90 | 24 - 25% offNike Air Max Motion 2 Womens Running Shoes(16)
-*   $1124 - $2249after couponwas $26 - $60 Home Expressions Microfiber Plus Ultra Soft Easy Care Wrinkle Resistant Sheet Set(1691)
-*   $449 - $2849after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1682)
-*   $6750 sale
+*   LIMITED TIME SPECIAL!
     
-    was $90 | 25% offNike Air Max Excee Womens Running Shoes(1)
+    $20 sale
+    
+    was $124.98 | 84% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(181)
+*   $449 - $2849after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1682)
+*   $5625 sale
+    
+    was $75 | 25% offNike® Reax Run Womens Running Shoes(59)
+*   $1499 - $6299after couponwas $50 - $150 JCPenney Home Ultra Performance 575 Sateen Deep Pocket Sheet Set(154)
 
 Sponsored Items
 
@@ -68,46 +70,46 @@ Sponsored Items
     
     was $94 | 4% offWaterpik WF-06W010 Whitening Water Flosser(110)Add To Cart
 *   $5250after couponEmeril Lagasse Quarter Womens Sneakers(4)
-*   $339 - $53899after couponwas $1,200 - $1,650 Beautyrest ® BR800™ Medium - Mattress Only(3)Add To Cart
 *   CLOSEOUT!
     
     $459 - $1,39899after couponwas $1,480 - $3,420 Serta Icomfort Blue Fusion 100 Firm Tight-Top Hybrid Mattress(163)Add To Cart
-*   $2249after couponwas $44 Lee® Plain Front Relaxed All Day Twill Pant(782)Add To Cart
+*   $339 - $53899after couponwas $1,200 - $1,650 Beautyrest ® BR800™ Medium - Mattress Only(3)Add To Cart
+*   $1499after couponwas $30 Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container
 *   $4999
     
     Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill Pan(37)Add To Cart
 *   $17999 sale
     
     was $300 | 40% offRachael Ray Create Delicious 11-Pc. Cookware Set(17)
-*   $1349after couponwas $19 Range Kleen Full Size Oven Liner
 *   $20610after couponGoogle Nest Hello Video Doorbell(355)
-*   $1499after couponwas $30 Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container
+*   $1349after couponwas $19 Range Kleen Full Size Oven Liner
+*   $2249after couponwas $44 Lee® Relaxed Fit Jeans(2284)Add To Cart
 *   $3999
     
     As Seen on TV Blue Diamond Ceramic 11" Non-Stick Square Griddle(21)Add To Cart
-*   $3999 sale
-    
-    was $70 | 42% offGreenPan Rio Non-Stick Frying Pan(1)
 *   $56999 sale
     
     was $669 | 14% offDyson® V8 Animal Cord-Free Vacuum(179)
+*   $3999 sale
+    
+    was $70 | 42% offGreenPan Rio Non-Stick Frying Pan(1)
 *   $84after couponFarberware Cookstart 15-pc. Cookware Set(61)
 *   $1499
     
     Fisher-Price Laugh &. Learn Click &. Learn Laptop(10)
-*   $13999 sale
-    
-    was $240 | 41% offRachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set(192)
 *   $33499 sale
     
-    was $360 | 7% offBissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum(2312)Add To Cart
+    was $360 | 7% offBissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum(2315)Add To Cart
 *   $25999
     
     Samsung Galaxy Womens Multi-Function Rose Goldtone Smart Watch-Sm-R810nzdaxar(243)Add To Cart
-*   $40899 - $639after couponwas $1,000 - $1,750 Serta® Sleeptrue® Lindridge Firm - Mattress Only(4)Add To Cart
-*   $1319 - $2999 sale
+*   $13999 sale
     
-    was $44 | 31 - 70% offLee® Relaxed Fit Jeans(2284)Add To Cart
+    was $240 | 41% offRachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set(192)
+*   $33999 sale
+    
+    was $350 | 2% offBISSELL® Pet Hair Eraser® Upright Vacuum(831)Add To Cart
+*   $40899 - $639after couponwas $1,000 - $1,750 Serta® Sleeptrue® Lindridge Firm - Mattress Only(4)Add To Cart
 
 Shop and Save at JCPenney
 
