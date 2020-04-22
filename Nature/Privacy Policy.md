@@ -15,7 +15,7 @@
         *   How We Work
         *   Our History
     *   Where We Work
-        *   Local: Texas
+        *   Local: Colorado
         *   Africa
         *   Asia Pacific
         *   Canada
