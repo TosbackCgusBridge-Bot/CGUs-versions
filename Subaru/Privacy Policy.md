@@ -590,7 +590,9 @@ Legal Disclaimers
 
 \*\* EPA-estimated fuel economy. Actual mileage may vary. For Crosstrek Hybrid, EPA-estimated MPG equivalent on a full battery charge. Actual mileage will vary.
 
-\*\*\*Limited warranties are contingent on age and mileage. Whatever comes first concludes the warranty.
+\*\*\*Limited warranties are contingent on age and mileage. Whatever comes first concludes the warranty.  
+  
+‡$1 helps provide at least 10 meals secured by Feeding America on behalf of local member food banks.
 
 ^Now through April 30, 2020 get 0% APR Financing for 63 months on all new 2020 Ascent, Forester, Outback, Legacy, and Impreza Models.  No down payment required.  Monthly payment of $15.87 per $1,000 financed.  Offer may vary by location. Other rates and payment terms available. Cannot be combined with any other incentive. Financing for well-qualified applicants only. Length of contract is limited. Subject to credit approval, vehicle insurance approval and vehicle availability. See participating retailers for details. Must take delivery from retailer stock by April 30, 2020.
 
@@ -606,6 +608,8 @@ Subaru of America, Inc. reserves the right to make changes at any time without n
 \* Manufacturer's suggested retail price does not include destination and delivery charges, tax, title and registration fees. Destination and delivery includes handling and inland freight fees and may vary in some states. Prices, specifications, options, features and models subject to change without notice.
 
 \*\* EPA-estimated fuel economy. Actual mileage may vary. For Crosstrek Hybrid, EPA-estimated MPG equivalent on a full battery charge. Actual mileage will vary.
+
+‡$1 helps provide at least 10 meals secured by Feeding America on behalf of local member food banks.
 
 \*\*\*Limited warranties are contingent on age and mileage. Whatever comes first concludes the warranty.
 
