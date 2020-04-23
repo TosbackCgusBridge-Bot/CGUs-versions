@@ -1,6 +1,8 @@
-EXTRA 30% OFF $75 or more with code: FLASH12 Details Enable Accessibility
+Our COVID-19 response  DetailsLast day! EXTRA 30% OFF $75+ with code: FLASH12 Details EXTRA 25% OFF under $75 with code: FLASH12 Details Free Shipping Over $49  DetailsOur COVID-19 response  DetailsLast day! EXTRA 30% OFF $75+ with code: FLASH12 Details 
 
-*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed.Sign InSign InCreate Account
+Enable Accessibility
+
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed. Weekly Ads Mother’s Day Jewelry SaleValid Apr 13th - May 10thEngagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   My Rewards
     *   JCP Credit CardCart
@@ -17,99 +19,96 @@ EXTRA 30% OFF $75 or more with code: FLASH12 Details Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-TowelsSheetsBlanketsBed PillowsShop All GiftsUp to 70% off Jewelry Giftsselect stylesOn-call coverageLook your best while sharing screens with co-workers or friends.
+TowelsSheetsBlanketsBed PillowsShop All GiftsUp to 70% off Jewelry Giftsselect stylesCasual spring styles, starting at $7.99for brighter days aheadselect stylesTeesPolosShortsSandals Your new HQA whole new meaning to 'corner office'
 
-*   Shop All
+*   Work-From-Home Shop
 
-*   Women's Tops
-    
-*   Fashion Jewelry
-    
-*   Haircare
-    
-*   Sephora Beauty
-    
-
-Shop AllCasual spring styles, starting at $7.99for brighter days aheadselect stylesTeesPolosShortsSandalsUP TO 50% OFF XersionWalk, jog, hike—recharge, whatever your rhythm.   25% OFF Nike, Champion &. adidasShop brands that are built to last. Select styles. Excluded from coupons.    Fire upthe grill &the games 
-
-*   Shop Outdoor Dining
-
-Grilling ToolsOutdoor Games Get outdoors & soak up the sun!  
+Office ChairsDesksWall ArtTech GadgetsUP TO 50% OFF XersionWalk, jog, hike—recharge, whatever your rhythm.   25% OFF Nike, Champion &. adidasShop brands that are built to last. Select styles. Excluded from coupons.    Get outdoors & soak up the sun!  
 \+ 40% off swimwear that makes a splash | select styles   
 
 *   Shop Family Swim
 
-Beach TowelsSunscreen at SephoraInside JCPenneyPool FloatsWater Games Your new HQA whole new meaning to 'corner office'
-
-*   Work-From-Home Shop
-
-Office ChairsDesksWall ArtTech GadgetsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+Beach TowelsSunscreen at SephoraInside JCPenneyPool FloatsWater GamesSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 \*Select toys, select kids' swimwear and Sephora Excluded From Coupons.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   $4875 sale
+*   Nike Air Max Excee Womens Running Shoes
     
-    was $65 | 25% offNike Revolution 5 Womens Running Shoes(13)
-*   $6375 - $6775 sale
+    $67.50sale
     
-    was $85 - $90 | 24 - 25% offNike Air Max Motion 2 Womens Running Shoes(16)
-*   LIMITED TIME SPECIAL!
+    ~$90~1
+*   Home Expressions Easy Care Percale Solid and Print Wrinkle Resistant Sheet Sets and Pillowcases $11.24 - $37.49with code~$30 - $100~135
+*   JCPenney Home Performance Bath Towel Collection $4.49 - $28.49with code~$10 - $76~338
+*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $4.49 - $28.49with code~$10 - $72~1682
+*   Nike® Tanjun Womens Running Shoes
     
-    $20 sale
+    $48.75sale
     
-    was $124.98 | 84% offLIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver(181)
-*   $449 - $2849after couponwas $10 - $72 JCPenney Home™ Quick Dri Textured Solid Bath Towels(1682)
-*   $5625 sale
+    ~$65~150
+*   Xersion-Womens Performance Tee
     
-    was $75 | 25% offNike® Reax Run Womens Running Shoes(59)
-*   $1499 - $6299after couponwas $50 - $150 JCPenney Home Ultra Performance 575 Sateen Deep Pocket Sheet Set(154)
+    $1.39 - $1.99clearance
+    
+    ~$7~1659
 
 Sponsored Items
 
-*   $8999 sale
+*   Waterpik WF-06W010 Whitening Water Flosser
     
-    was $94 | 4% offWaterpik WF-06W010 Whitening Water Flosser(110)Add To Cart
-*   $5250after couponEmeril Lagasse Quarter Womens Sneakers(4)
-*   CLOSEOUT!
+    $89.99sale
     
-    $459 - $1,39899after couponwas $1,480 - $3,420 Serta Icomfort Blue Fusion 100 Firm Tight-Top Hybrid Mattress(163)Add To Cart
-*   $339 - $53899after couponwas $1,200 - $1,650 Beautyrest ® BR800™ Medium - Mattress Only(3)Add To Cart
-*   $1499after couponwas $30 Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container
-*   $4999
+    ~$94~111
+*   Emeril Lagasse Quarter Womens Sneakers $52.50with code4
+*   Range Kleen Full Size Oven Liner $13.49with code~$19~
+*   Beautyrest ® BR800™ Firm - Mattress Only $408.99 - $639with code~$1,300 - $2,000~33
+*   Serta® Sleeptrue® Lindridge Firm - Mattress Only $408.99 - $639with code~$1,000 - $1,750~4
+*   Google Nest Cam IQ Indoor Security Camera 2-Pack $448.20with code26
+*   Rachael Ray Create Delicious 11-Pc. Cookware Set
     
-    Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill Pan(37)Add To Cart
-*   $17999 sale
+    $179.99sale
     
-    was $300 | 40% offRachael Ray Create Delicious 11-Pc. Cookware Set(17)
-*   $20610after couponGoogle Nest Hello Video Doorbell(355)
-*   $1349after couponwas $19 Range Kleen Full Size Oven Liner
-*   $2249after couponwas $44 Lee® Relaxed Fit Jeans(2284)Add To Cart
-*   $3999
+    ~$300~17
+*   Google Nest Hello Video Doorbell $206.10with code355
+*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $14.99with code~$30~
+*   Lee® Plain Front Relaxed All Day Twill Pant $22.49with code~$44~783
+*   Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill Pan
     
-    As Seen on TV Blue Diamond Ceramic 11" Non-Stick Square Griddle(21)Add To Cart
-*   $56999 sale
+    $49.99
     
-    was $669 | 14% offDyson® V8 Animal Cord-Free Vacuum(179)
-*   $3999 sale
+    37
+*   As Seen on TV Blue Diamond Ceramic 11" Non-Stick Square Griddle
     
-    was $70 | 42% offGreenPan Rio Non-Stick Frying Pan(1)
-*   $84after couponFarberware Cookstart 15-pc. Cookware Set(61)
-*   $1499
+    $39.99
     
-    Fisher-Price Laugh &. Learn Click &. Learn Laptop(10)
-*   $33499 sale
+    21
+*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
     
-    was $360 | 7% offBissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum(2315)Add To Cart
-*   $25999
+    $14.99
     
-    Samsung Galaxy Womens Multi-Function Rose Goldtone Smart Watch-Sm-R810nzdaxar(243)Add To Cart
-*   $13999 sale
+    10
+*   Farberware Cookstart 15-pc. Cookware Set $84with code61
+*   Dyson® V8 Animal Cord-Free Vacuum
     
-    was $240 | 41% offRachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set(192)
-*   $33999 sale
+    $569.99sale
     
-    was $350 | 2% offBISSELL® Pet Hair Eraser® Upright Vacuum(831)Add To Cart
-*   $40899 - $639after couponwas $1,000 - $1,750 Serta® Sleeptrue® Lindridge Firm - Mattress Only(4)Add To Cart
+    ~$669~179
+*   GreenPan Rio Non-Stick Frying Pan
+    
+    $39.99sale
+    
+    ~$70~1
+*   Samsung Galaxy Womens Multi-Function Rose Goldtone Smart Watch-Sm-R810nzdaxar
+    
+    $259.99
+    
+    243
+*   Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set
+    
+    $139.99sale
+    
+    ~$240~192
+*   Lee® Relaxed Fit Straight Leg Jeans - Plus $24.74with code~$48~554
+*   Serta Icomfort Blue Fusion 100 Firm Tight-Top Hybrid Mattress $459 - $1398.99with code~$1,480 - $3,420~163
 
 Shop and Save at JCPenney
 
@@ -162,6 +161,7 @@ About Us
 *   Media
 *   Investors
 *   Style by JCPenney
+*   Site Map
 
 *   Be the first to know about the latest deals and more!Sign Up
 *   \*Text Alerts: Message and data rates may apply. See Details.
