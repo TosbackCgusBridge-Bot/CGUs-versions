@@ -280,23 +280,23 @@ Life as a CISO: A Q&A with Ray Espinoza of Cobalt.io
     *   Emailed
     *   Recent
     
+    *   Quantifying risk: Making the case for greater endpoint protection
+    *   Canadian government, university targeted with COVID-19-themed phishing emails
+    *   VMware issues 10.0 CVSS rating on vCenter Server vulnerability
+    *   The Top 5 most common vulnerability remediation mistakes
+    *   TikTok app inherently unsafe and a privacy risk
+    
+    *   Ragnar Locker’s well-conceived ransomware attack on Energias de Portugal
+    *   Canadian government, university targeted with COVID-19-themed phishing emails
+    *   Compromised email account leads to Saint Francis Ministries data breach
     *   Bug brokers put two Zoom zero-days on the market
-    *   More CFOs feeling the heat with ransomware
-    *   Texas judge OKs expanded mail-in voting during COVID-19 pandemic
-    *   23 million Webkinz login credentials found on the dark web
-    *   Why the information security of your company depends on machine learning
-    
     *   Help SC honor Women and Diversity in Cybersecurity with your recommendations
-    *   Google patches another critical vulnerability in Chrome
-    *   Coronavirus-related scams rack up $12 million
-    *   San Francisco airport websites hacked to swipe personal device credentials
-    *   Virtual panel: How supply chains can survive COVID-19’s cyber impact
     
-    *   Supreme Court takes on case that could modernize, redefine CFAA
-    *   Fitness software maker Kinomap leaves database open exposing 42 million users
-    *   Healthcare IT workers struggle to secure IoT devices during COVID-19
-    *   Phishing campaign aims to steal Zoom credentials using fake layoff notifications
-    *   Remote workers' lack of corporate firewalls blamed for rise in malicious device activity
+    *   Online leak undermines city's claim that no personal data was affected by cyberattack
+    *   Eight-year-old zero day vulnerabilities found in iOS email app
+    *   Details on 267M Facebook users sold for cheap on dark web
+    *   Resellers reportedly using bots to buy up in-demand Nintendo Switches
+    *   SBA emergency loan applicants' data likely exposed
 
 Back to Top
 
@@ -329,8 +329,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
 
 You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
