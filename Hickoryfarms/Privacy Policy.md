@@ -80,7 +80,7 @@ close
     *   Thank You Gifts
     *   Congratulations
     *   Thinking of You
-    *   Sympathy GiftsMost Popular Gifts for All Occasions
+    *   Sympathy GiftsMost Popular Mother's Day Gifts Gifts for All Occasions
 *   Business Gifts
     View All Categories Shop by Category*   Thank You Gifts
     *   Birthday Gifts
@@ -90,7 +90,7 @@ close
     *   Sympathy GiftsMost Popular Premium Wine Gifts
 *   Sale
 
-1.800.753.8558 Business Gifts Skip to content Menu 0 Sign In Search Catalog Catalog Navigation close
+1.800.753.8558 Business Gifts Free standard shipping on select gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation close
 
 *   Gift Baskets
     
@@ -172,7 +172,7 @@ close
     *   Thank You Gifts
     *   Congratulations
     *   Thinking of You
-    *   Sympathy GiftsMost Popular Gifts for All Occasions
+    *   Sympathy GiftsMost Popular Mother's Day Gifts Gifts for All Occasions
 *   Business Gifts
     View All Categories Shop by Category*   Thank You Gifts
     *   Birthday Gifts
