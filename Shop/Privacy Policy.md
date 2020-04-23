@@ -1208,7 +1208,7 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Created with sketchtool.CHAT NOW
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Launches comment card in new windowFeedbackCreated with sketchtool.CHAT NOW
 
 How can we help
 
@@ -1218,4 +1218,4 @@ you today?
 
 Call us: 1-855-253-6686
 
-Ask us about our price match policy >Check order status >Technical support or Repair status >Launches comment card in new windowFeedback
+Ask us about our price match policy >Check order status >Technical support or Repair status >
