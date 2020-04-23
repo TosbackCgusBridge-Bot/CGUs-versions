@@ -81,7 +81,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 670 4129 1 855 670 4129
+    1 855 522 8677 1 855 522 8677
     
 
 *   Solutions By Function
@@ -149,7 +149,7 @@ Search
 
 *   Become a Client
     
-    1 855 670 4129 1 855 670 4129
+    1 855 522 8677 1 855 522 8677
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
