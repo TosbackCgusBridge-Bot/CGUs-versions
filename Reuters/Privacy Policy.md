@@ -16,7 +16,7 @@ Ok to continue
 *   Log inLog in
 *   Cart (0)
 
-Thomson Reuters Legal
+Thomson Reuters LEGAL
 
 *   ProductsProducts Top products
     
@@ -29,7 +29,7 @@ Thomson Reuters Legal
     
     Featured
     
-    **Quick Check on Westlaw Edge ** Discover the transformative power of intelligent document analysis. Learn more
+    **Introducing Quick Check Quotation Analysis on Westlaw Edge** Gain unparalleled confidence in your work and easily spot errors or omissions in your opponents’ work. Learn more
 *   SolutionsSolutions Solutions
     
     *   Streamline legal research
