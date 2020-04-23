@@ -19,6 +19,7 @@
         *   Phone
         *   Bundles
         *   Security Systems
+        *   Resource Center
     *   Medium &. Enterprise
         *   Data Networking
             *   Switched Ethernet
@@ -249,6 +250,7 @@ Select Location
         *   Phone
         *   Bundles
         *   Security Systems
+        *   Resource Center
     *   Medium &. Enterprise
         *   Data Networking
         *   Voice
