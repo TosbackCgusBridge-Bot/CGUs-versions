@@ -17,7 +17,7 @@ Primary navigation
 Select LanguageShqipالعربيةAzərbaycan diliBosanskiБългарски简体中文繁體中文HrvatskiČeskyDanskNederlandsEnglishEestiSuomiFrançais (Canada)Français (Européen)ქართულიDeutschΕλληνικάעבריתMagyarItaliano日本語한국어КыргызчаLatviešuLietuviųмакедонскиBahasa MelayuМонголNorskPolskiPortuguês (Brasil)Português (Portugal)RomânăРусскийSrpskiSlovenčinaSlovenščinaEspañolEspañol (España)SvenskaТоҷикӣภาษาไทยTürkçeTurkmenУкраїнськаاردوЎзбекчаTiếng Việt
 
 P&G Global Consumer Privacy Policy  
-_Date last updated: 03/31/2020_  
+_Date last updated: 04/20/2020_  
 
 We work hard to build and maintain a relationship of trust with you. So, when it comes to handling your information, we do so carefully and sensibly, and in ways that live up to that trust. This policy lets you know how we do that, including what information we collect, how we use and protect it, and how you can decide what we do with it. Our goal is to help you understand how we use your information to improve our content, products, advertisements, and services.
 
@@ -283,6 +283,72 @@ N/A
 
 Click here
 
+**Health care professionals.** If you are a health care professional and have provided your information to us, please contact us through the appropriate country numbers and email addresses listed below.
+
+**Country**
+
+**Responsible Medical**
+
+**e-mail address for medical inquiries by customers**
+
+Austria
+
+Holper-Schichel, Yvonne
+
+MedservicemsmMSM.im@pg.com
+
+Belgium
+
+Savoye, Thomas
+
+infochmbel.im@pg.com
+
+Czech / Slowakia
+
+Chromkova, Hana
+
+prgreception.im@pg.com
+
+France
+
+Safaei, Azadeh
+
+ServiceConsommateurMerckMF@e-deal.net
+
+Germany
+
+Harmanus, Simone
+
+MedservicemsmMSM.im@pg.com
+
+Hungary
+
+Molnar, Krisztina
+
+medinfohungary.im@pg.com
+
+Poland
+
+Juszczynska, Katarzyna
+
+kontaktphc.im@pg.com
+
+Portugal
+
+Costa, Rita
+
+viverbemmepo.im@pg.com
+
+Spain
+
+Ros, Josep Oriol
+
+UK / Ireland
+
+Matthews, Oliver
+
+info@sseas.com
+
   
 Cookies
 
@@ -340,9 +406,9 @@ This section applies only to our processing of personal data of EU country resid
 
 **entities.** Different P&G entities may be the controller of your personal data. A data controller is the entity which directs the processing activity and is principally responsible for the data. The chart below identifies our data controllers for EU country data. For example, when you register for email on one of our French (.fr) websites, the P&G entity listed next to that country name will be the controller of that personal data (e.g., Procter &. Gamble France SAS (LE 577).
 
-Countries
+**Countries**
 
-Data Controller
+**Data Controller**
 
 Austria
 
@@ -535,9 +601,9 @@ In addition, you have the right to request that we delete certain personal infor
 
 Please understand that P&G cannot delete personal information in those situations where our retention is required for our own internal business purposes or otherwise permitted by the CCPA (such as fraud prevention or legal compliance). In these situations, we will retain your information in accordance with our records retention program and securely delete it at the end of the retention period.
 
-Finally, you also have the right to opt out of the sale of your personal information.
+Finally, you also have the right to opt out of the sale of your personal information. To exercise that right, please complete the process by **contacting us here** or call us at **(877) 701-0404**.
 
-For more information about how we have shared your information with third parties such that it constitutes a “sale” under CCPA during the 12-month period prior to the date this privacy policy was last updated, please see the below chart. We do not knowingly sell personal information of minors under 16 years of age. To exercise your right to opt out of sale, please follow the instructions in the chart immediately below .
+For more information about how we have shared your information with third parties such that it constitutes a “sale” under CCPA during the 12-month period prior to the date this privacy policy was last updated, please see the below chart. We do not knowingly sell personal information of minors under 16 years of age.
 
 **“Sales” of Personal Information**
 
@@ -547,7 +613,9 @@ For more information about how we have shared your information with third partie
 
 **Geolocation Data**
 
-If you want us to update our internal records so we do not share your personal information from our brand programs with a third party in a way that may be defined as a “sale,” click here **or call us at (877) 701-0404.**
+To opt out of sales of your data, **click here** or call us at **(877) 701-0404**.
+
+If you want us to update our internal records so we do not share your personal information from our brand programs with a third party in a way that may be defined as a “sale,” click here or call us at **(877) 701-0404**.
 
 Please note that P&G may also transfer your personal information to third parties through cookies or tracking technologies for advertising and joint marketing purposes. To exercise your “Do Not Sell” right related to website cookies and tracking technologies, please go to the applicable brand website, access our California Do Not “Sell” Request Center available at the bottom of the page and set your preferences. Because some of these third parties operate differently by website and device, you may need to take this step for each P&G website you use.
 
@@ -585,53 +653,3 @@ Please contact us directly with any questions or concerns you may have about you
 *   Adchoices 
 
 © 2020 Procter &. Gamble. All claims valid only in the U.S.
-
-California Do Not “Sell” Request CenterAs a California resident, you have the right to opt out of the “sale” of your personal information. P&G does not transfer your personal information to third parties in exchange for money but may share information with certain third parties for targeted advertising and joint marketing efforts. P&G shares your personal information through cookies and data extracts. To exercise your “Do Not Sell” right related to website cookies and tracking technologies, set your preferences below. Because some of these third parties operate differently by website and device, you may need to take this step on additional websites and devices you use. Manage Consent PreferencesCookies/Tracking Technologies Cookies/Tracking Technologies
-
-Click this button to exercise your right to opt-out of the transfer of your personal information by cookies or tracking technologies to third parties for advertising and joint marketing purposes.  
-  
-
-Data Extracts  
-As a consumer you may have engaged with us in other ways than visiting our websites. For example, you may have registered for one of our brand programs. If you want us to update our internal records so we do not share your personal information from our brand programs with a third party in a way that may be defined as a “sale,” please submit your request using **this webform.**  
-  
-For further details on how P&G processes your personal information, please see our **privacy policy.** Confirm My ChoicesBack Button
-
-Back
-
-Performance CookiesVendor Search Search IconFilter Icon
-
-Clear Fliters
-
-Information storage and accessApply
-
-All Consent Allowed
-
-Select All VendorsAll Consent Allowed
-
-*   33Acrosshost descriptionView CookiesREPLACE-WITH-DYANMIC-HOST-ID
-    *   Namecookie nameHostcookie hostDurationcookie durationTypecookie typeCategorycookie categoryDescriptioncookie category
-
-*   33AcrossView Privacy Notice
-    
-    3 Purposes
-    
-    REPLACE-WITH-DYANMIC-VENDOR-IDArrow
-    
-    Consent Purposes
-    
-    Location Based Ads
-    
-    Consent Allowed
-    
-    Legitimate Interest Purposes
-    
-    Personalize
-    
-    Require Opt-Out
-    
-    Features
-    
-    Location Based Ads
-    
-
-Confirm My Choices
