@@ -37,10 +37,10 @@ Main menu
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 1:11 Cold Justice Kittie Koseck's Family Doubts Her 1993 Death Was A Suicide 1:21 Snapped How Was Michael Gargiulo Caught?
+    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 1:01 Snapped Devoted Father Vanishes From Arkansas 7:52 Dark Web Exposed LIVESTREAM CRIMES: Murder, Mayhem and Social Media
 *   News
     *   Crime News
-    *   True Crime BuzzTony and Katherine Butterfield Photo: West Jordan Police Department Crime News 'Loving' Parents Killed Fighting Off Home Intruder Crime News Tenants Report Landlords Pushing ‘Sex For Rent’ Deals Ashley Ellerin Crime News Investigator Talks ‘Gruesome’ 'Hollywood Ripper' Murder
+    *   True Crime BuzzCorey Trumbull and Stormy Johnson Photo: Las Vegas Metropolitan Police Department Crime News Man Accused Of Killing Girlfriend's 11-Year-Old Son Candace Muzny poses during a portrait session for the K&N Pro Series East at Bristol Motor Speedway on March 16, 2012 in Bristol, Tennessee. Photo: Getty Images Crime News Ex-NASCAR Driver Candace Muzny Accidentally Drowned Tony and Katherine Butterfield Photo: West Jordan Police Department Crime News 'Loving' Parents Killed Fighting Off Home Intruder
 *   Podcasts
 *   Detective's Den
 *   Schedule
