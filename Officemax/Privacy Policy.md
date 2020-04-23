@@ -40,20 +40,20 @@ Stock Quote and Chart
 
 Price
 
-$1.81
+$1.84
 
 Change
 
-\-0.055
++0.03
 
 Percent Change
 
-(-2.95%)
+(+1.66%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Apr 20, 2020 Office Depot Streamlines Capital Structure by Refinancing Existing Credit Facility and Repaying Term Loan view more Recent News Apr 20, 2020 Office Depot Streamlines Capital Structure by Refinancing Existing Credit Facility and Repaying Term Loan view more Events Mar 10, 2020 at 3:30 PM EDT Office Depot Presents at BofA Securities 2020 Consumer &. Retail Technology Conference view more Events Mar 10, 2020 at 3:30 PM EDT Office Depot Presents at BofA Securities 2020 Consumer &. Retail Technology Conference view more Presentations Feb 26, 2020 Office Depot Fourth Quarter 2019 Earnings Webcast Presentation view more Presentations Feb 26, 2020 Office Depot Fourth Quarter 2019 Earnings Webcast Presentation view more
+Recent News Apr 22, 2020 Office Depot to Announce First Quarter 2020 Earnings Results Wednesday, May 6, 2020 view more Recent News Apr 22, 2020 Office Depot to Announce First Quarter 2020 Earnings Results Wednesday, May 6, 2020 view more Events Mar 10, 2020 at 3:30 PM EDT Office Depot Presents at BofA Securities 2020 Consumer &. Retail Technology Conference view more Events Mar 10, 2020 at 3:30 PM EDT Office Depot Presents at BofA Securities 2020 Consumer &. Retail Technology Conference view more Presentations Feb 26, 2020 Office Depot Fourth Quarter 2019 Earnings Webcast Presentation view more Presentations Feb 26, 2020 Office Depot Fourth Quarter 2019 Earnings Webcast Presentation view more
 
 *   Home
 *   News &. Events
