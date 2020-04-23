@@ -1,6 +1,6 @@
 Effective as of January 1, 2020, we have made changes to our Privacy Policy. By continuing to use the Aeropostale website, you agree to our updated Privacy Policy.
 
-  United States We now ship to your location with Borderfree. I'm shipping to: Algeria Angola Anguilla Armenia Australia Azerbaijan Bahamas Belarus Belize Benin Bermuda Bhutan Bolivia Botswana Brazil Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Canada Cape Verde Central African Republic Chad China Christmas Island Cocos (Keeling) Islands Congo, Democratic Republic of the Congo, Republic of the Cook Islands Côte d'Ivoire Denmark Djibouti Dominica El Salvador Equatorial Guinea Eritrea Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland French Guiana French Polynesia Gabon Gambia Grenada Guadeloupe Guinea Guyana Haiti Holy See (Vatican City State) Hong Kong Jamaica Japan Jersey Kazakhstan Kenya Kiribati Korea, Republic of Kyrgyzstan Lebanon Lesotho Liberia Macao Malawi Malaysia Maldives Mali Marshall Islands Martinique Micronesia, Federated States of Mongolia Morocco Mozambique Myanmar Namibia Nauru New Caledonia New Zealand Nicaragua Niger Niue North Macedonia, Republic of Norway Pakistan Palau Papua New Guinea Peru Romania Russian Federation Saint Barthélemy Saint Kitts and Nevis Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Senegal Sierra Leone Singapore Sint Maarten (Dutch part) Solomon Islands Suriname Swaziland Sweden Taiwan Tajikistan Tanzania, United Republic of Thailand Togo Tonga Tunisia Turks and Caicos Islands Tuvalu Uganda United Arab Emirates United States Vanuatu Vietnam Wallis and Futuna Yemen Zambia Zimbabwe I'd like to see prices in: Australian Dollar Bahamian Dollar Bahraini Dinar Balboa Barbados Dollar Belize Dollar Boliviano Bosnian Convertible Mark Brazilian Real British Pound Bulgarian Lev CFA Franc BCEAO CFA Franc BEAC Canadian Dollar Cayman Islands Dollar Chilean Peso Colombian Peso Cordoba Oro Costa Rican Colon Croatian Kuna Czech Koruna Danish Krone Dominican Peso Egyptian Pound Euro Guarani Hong Kong Dollar Hungarian Forint Indian Rupee Israeli Shekel Jamaican Dollar Japanese Yen Jordanian Dinar Korean Won Kuwaiti Dinar Lebanese Pound Lempira Lilangeni Malayan Ringgit Mexican Peso Moroccan Dirham Namibia Dollar Nepalese Rupee Netherlands Antillan Guilder New Romanian Leu New Zealand Dollar Norwegian Krone Omani Rial Pakistan Rupee Peruvian Nuevo Sol Philippine Peso Polish Zloty Qatari Riyal Quetzal Riel Rufiyaa Russian Ruble Saudi Riyal Singapore Dollar South African Rand Sri Lanka Rupee Swedish Krona Swiss Franc Taiwan Dollar Taka Tenge Thai Baht Turkish Lira US Dollar Ukraine Hryvnia United Arab Emirates Dirham Uruguay New Peso Yuan Renminbi Aeropostale
+  United States We now ship to your location with Borderfree. I'm shipping to: Algeria Angola Anguilla Armenia Australia Azerbaijan Bahamas Belarus Belize Benin Bhutan Bolivia Botswana Brazil Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Canada Cape Verde Central African Republic Chad China Christmas Island Cocos (Keeling) Islands Comoros Congo, Democratic Republic of the Congo, Republic of the Cook Islands Côte d'Ivoire Denmark Djibouti Dominica El Salvador Equatorial Guinea Eritrea Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland French Guiana French Polynesia Gabon Gambia Grenada Guadeloupe Guinea Guyana Haiti Holy See (Vatican City State) Hong Kong Jamaica Japan Jersey Kazakhstan Kenya Kiribati Korea, Republic of Kyrgyzstan Lebanon Lesotho Liberia Macao Malawi Malaysia Mali Marshall Islands Martinique Micronesia, Federated States of Mongolia Morocco Mozambique Myanmar Namibia Nauru New Caledonia New Zealand Nicaragua Niger Niue North Macedonia, Republic of Norway Pakistan Palau Papua New Guinea Peru Romania Russian Federation Saint Barthélemy Saint Kitts and Nevis Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Senegal Sierra Leone Singapore Sint Maarten (Dutch part) Solomon Islands Suriname Swaziland Sweden Taiwan Tajikistan Tanzania, United Republic of Thailand Togo Tonga Tunisia Turks and Caicos Islands Tuvalu Uganda United Arab Emirates United States Vanuatu Vietnam Wallis and Futuna Yemen Zambia Zimbabwe I'd like to see prices in: Australian Dollar Bahamian Dollar Bahraini Dinar Balboa Barbados Dollar Belize Dollar Boliviano Bosnian Convertible Mark Brazilian Real British Pound Bulgarian Lev CFA Franc BCEAO CFA Franc BEAC Canadian Dollar Cayman Islands Dollar Chilean Peso Colombian Peso Cordoba Oro Costa Rican Colon Croatian Kuna Czech Koruna Danish Krone Dominican Peso Egyptian Pound Euro Guarani Hong Kong Dollar Hungarian Forint Indian Rupee Israeli Shekel Jamaican Dollar Japanese Yen Jordanian Dinar Korean Won Kuwaiti Dinar Lebanese Pound Lempira Lilangeni Malayan Ringgit Mexican Peso Moroccan Dirham Namibia Dollar Nepalese Rupee Netherlands Antillan Guilder New Romanian Leu New Zealand Dollar Norwegian Krone Omani Rial Pakistan Rupee Peruvian Nuevo Sol Philippine Peso Polish Zloty Qatari Riyal Quetzal Riel Rufiyaa Russian Ruble Saudi Riyal Singapore Dollar South African Rand Sri Lanka Rupee Swedish Krona Swiss Franc Taiwan Dollar Taka Tenge Thai Baht Turkish Lira US Dollar Ukraine Hryvnia United Arab Emirates Dirham Uruguay New Peso Yuan Renminbi Aeropostale
 
 *   Open submenu ( Girls ) Girls
 *   Open submenu ( Guys ) Guys
@@ -87,6 +87,7 @@ Close submenu ( Jeans ) Jeans
 Close submenu ( Girls Jeans ) Girls Jeans
 
 *   View All
+*   $17.87 Jeans
 *   Destroyed Denim
 *   Jeggings
 *   High Rise Jeans
@@ -110,6 +111,7 @@ Close submenu ( Girls Jeans ) Girls Jeans
 Close submenu ( Guys Jeans ) Guys Jeans
 
 *   View All
+*   $17.87 Jeans
 *   Destroyed Denim
 *   Skinny Jeans
 *   Ultra Stacked Skinny Jeans
@@ -271,6 +273,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls Jeans
         *   View All
+        *   $17.87 Jeans
         *   Destroyed Denim
         *   Jeggings
         *   High Rise Jeans
@@ -293,6 +296,7 @@ Menu Find a Store Aeropostale
     
     *   Guys Jeans
         *   View All
+        *   $17.87 Jeans
         *   Destroyed Denim
         *   Skinny Jeans
         *   Ultra Stacked Skinny Jeans
@@ -392,6 +396,8 @@ precautionary measures in our warehouse to ensure the health and safety of
 our customers and associates. Because of this your shipment may experience  
 delays. Thank you for your patience and understanding. Learn More &. Stay Safe
 
+Ends Today! Aero Tees + Shorts = #OOTD at **Our Lowest Prices!**
+
 60% or More
 
 Off  
@@ -401,13 +407,11 @@ Shop Girls Shop Guys
 
 \*Exclusions Apply
 
-Aero Tees + Shorts = #OOTD at **Our Lowest Prices!**
+Ends Today! Aero Tees + Shorts = #OOTD  
+at **Our Lowest Prices!**
 
 60% or More  
 Off Everything
-
-Aero Tees + Shorts = #OOTD  
-at **Our Lowest Prices!**
 
 Shop Girls Shop Guys
 
