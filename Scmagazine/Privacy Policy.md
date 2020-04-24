@@ -280,23 +280,23 @@ Life as a CISO: A Q&A with Ray Espinoza of Cobalt.io
     *   Emailed
     *   Recent
     
-    *   Quantifying risk: Making the case for greater endpoint protection
-    *   Canadian government, university targeted with COVID-19-themed phishing emails
-    *   VMware issues 10.0 CVSS rating on vCenter Server vulnerability
-    *   The Top 5 most common vulnerability remediation mistakes
-    *   TikTok app inherently unsafe and a privacy risk
+    *   Researchers see a boom in Zoom domains, stolen accounts
+    *   Breaking out of password Groundhog Day
+    *   U.S. offers up to $5M for info on North Korean cyber activity
+    *   The three-sphere circus of compliance
+    *   Google patches another critical vulnerability in Chrome
     
-    *   Ragnar Locker’s well-conceived ransomware attack on Energias de Portugal
-    *   Canadian government, university targeted with COVID-19-themed phishing emails
-    *   Compromised email account leads to Saint Francis Ministries data breach
-    *   Bug brokers put two Zoom zero-days on the market
-    *   Help SC honor Women and Diversity in Cybersecurity with your recommendations
+    *   Smart TVs spoofed to deliver billions of fake ad impressions
+    *   Fitness software maker Kinomap leaves database open exposing 42 million users
+    *   Paay open database exposes 2.5M transactions, challenges PCI compliance
+    *   Google patches another critical vulnerability in Chrome
+    *   A 10-point plan for securing remote workers
     
-    *   Online leak undermines city's claim that no personal data was affected by cyberattack
-    *   Eight-year-old zero day vulnerabilities found in iOS email app
-    *   Details on 267M Facebook users sold for cheap on dark web
-    *   Resellers reportedly using bots to buy up in-demand Nintendo Switches
-    *   SBA emergency loan applicants' data likely exposed
+    *   Cybersecurity should be No. 1 pick on NFL Draft Day
+    *   Microsoft patches Word and Office 365 for Autodesk FBX library flaws
+    *   Emotet banking trojan possibly being prepped for a new attack
+    *   Paay open database exposes 2.5M transactions, challenges PCI compliance
+    *   Malvertising scam leverages domain names that sound like legit COVID-19 sites
 
 Back to Top
 
