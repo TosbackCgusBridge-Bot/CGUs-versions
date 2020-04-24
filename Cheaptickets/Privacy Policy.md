@@ -35,6 +35,7 @@ Show Menu Hide Menu
 *   My Trips
 *   Support
     *   Customer Support
+    *   Manage My Trip
     *   Feedback
 
 For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
@@ -62,7 +63,7 @@ For customer service, call us toll-free at 1-800-397-3342. For customers outside
     *   Things to Do
     *   Travel Tips
 
-Beginning of main content Create an account Create your free account Create your free account Sign Up with Facebook Sign Up with Google Sign Up with Apple Sign Up with Naver **OR** We apologize for our system failure. Please try again Account already exists Authentication failure. Please try again Action required!  
+Beginning of main content Create an account Create your free account Create your free account Sign Up with Google Sign Up with Apple Sign Up with Naver Sign Up with Facebook **OR** We apologize for our system failure. Please try again Account already exists Authentication failure. Please try again Action required!  
 To finish creating your account, please click the link we just sent to First name
 
 Last name
@@ -75,7 +76,7 @@ Earn free travel rewards with CheapCash. opens in a new window By joining CheapC
 
 By creating an account, I agree to the Terms of Useopens in a new window, Privacy Policy opens in a new window and CheapCash Terms and Conditions. opens in a new window
 
-Already have an account? Sign In Sign In Sign in to your account Sign in to your account Sign In with Facebook Sign In with Google Sign In with Apple Sign In with Naver **OR** We apologize for our system failure. Please try again You may have entered an unknown email address or an incorrect password Authentication failure. Please try again As per our routine security check, we have reset your account password. Rest assured your account is safe with us – use the “Forgot password?” link to set a new password. Email address
+Already have an account? Sign In Sign In Sign in to your account Sign in to your account Sign In with Google Sign In with Apple Sign In with Naver Sign In with Facebook **OR** We apologize for our system failure. Please try again You may have entered an unknown email address or an incorrect password Authentication failure. Please try again As per our routine security check, we have reset your account password. Rest assured your account is safe with us – use the “Forgot password?” link to set a new password. Email address
 
 Password
 
