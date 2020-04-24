@@ -29,9 +29,9 @@ Lenovo Explore Close
         *   X1 Extreme Gen 2
         *   X1 Carbon Gen 7
         *   Yoga C940
-        *   Yoga C740
-        *   Legion Y545
-        *   IdeaPad 1
+        *   Legion Y740
+        *   IdeaPad S540
+        *   IdeaPad L340 Gaming
         
         PC's ready to ship
         
@@ -204,16 +204,15 @@ Lenovo Explore Close
         *   Laptops
         *   Desktops
         *   Accessories
-        *   Oculus Rift S
         *   Gaming Monitors
         *   View All Gaming
         
         *   Featured
-        *   Gaming Storefront
-        *   Gaming Community
-        *   IdeaPad &. IdeaCentre Gaming
         *   Gaming PC Deals
         *   Gaming Accessories Deals
+        *   IdeaPad &. IdeaCentre Gaming
+        *   Gaming Storefront
+        *   Gaming Community
         *   Shop PC Games
         
         *   New in Gaming
@@ -224,10 +223,13 @@ Lenovo Explore Close
         *   Legion Keyboards
         *   Legion Monitors
         
-        Shop Gaming
-        
-        Shop everything gaming from consoles to headsets, and check our your favorite brands like Xbox &. Nintendo.
-        
+        *   Shop More Gaming
+        *   Hyper X
+        *   Mad catz
+        *   Playstation
+        *   Razr
+        *   Turtle Beach
+        *   Xbox
     *   Business
         
         *   Always Free Shipping
@@ -276,7 +278,6 @@ Lenovo Explore Close
         *   Warranty Lookup
         *   Order Replacement Parts
         *   Shopping Help
-        *   Work from Home Support
         
         *   Order Support
         *   Existing Order Help
