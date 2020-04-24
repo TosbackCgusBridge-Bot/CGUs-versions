@@ -9,10 +9,37 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
-    *   Mindful Brands Up to 65% Off ft. Eileen Fisher
-    *   Daily Deal: Circus by Sam Edelman Clara Sandals at $34.97
-    *   Daily Deal: Marc Fisher LTD Glenna Sandals at $59.97
-    *   Daily Deal: Scott Living Chenille Throws at $29.97
+    *   Burberry Handbags, Accessories &. More
+    *   Burberry
+    *   Burberry Shoes
+    *   Burberry Men
+    *   Lacoste Lounge Men Under $30
+    *   Easy Chic: Elevated Casual Dresses &. More
+    *   Betsey Johnson &. Love...Ady Under $50
+    *   90 Degree by Reflex Under $35
+    *   Big Night In: Tops, Dresses &. More
+    *   All in One: Bodysuits from $20
+    *   Exclusively Ours: Abound Starting at $20
+    *   High Heel Sandals &. Pumps
+    *   Luxe Faux Fur Pillows &. More
+    *   Free Press &. Shimera Under $35
+    *   Forever Ready for Sun: Espadrilles Up to 60% Off
+    *   Updated Suiting Up to 60% Off
+    *   Calvin Klein Men's Shoes
+    *   Low &. Block Heel Sandals and Pumps
+    *   Burberry Kids
+    *   Girls' Swim Up to 70% Off
+    *   Home Bar Upgrades Starting at $10
+    *   Boys' Swim Up to 65% Off
+    *   Exclusively Ours: Men's Shoes ft. Public Opinion
+    *   Glam at Home: Makeup ft. Laura Geller New York
+    *   Kids' Sleek Sneakers ft. Heelys
+    *   Kids' Shoe Steals Up to 60% Off
+    *   Merrell Kids
+    
+    *   Organization Solutions for Every Room
+    *   Lacoste Men's Shoes
+    *   Alo
     *   Joan Vass Up to 75% Off
     *   ViX Swim
     *   Johnny Was Up to 65% Off
@@ -31,83 +58,62 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Bugatchi Men's Clothing Up to 60% Off
     *   Bugatchi Men's Shoes Up to 65% Off
     *   $50 &. Under: SeaVees Men's Sneakers
-    *   Tween Scene: Beautees &. More
     *   Dr. Scholl's Kids
-    *   Designer Watches ft. Versace
-    *   Top Toys Under $20
+    *   Tween Scene: Beautees &. More
     *   Luxe Bedding ft. Ted Baker London &. More
     *   Kate Spade New York Home from $15
     *   Cozy at Home: Candles, Throws &. More
     *   Home Organization Essentials Up to 60% Off
     
     *   AG Up to 65% Off
-    *   Max Studio Up to 70% Off Incl. Plus &. Petites
-    *   Alo
     *   AG Men Up to 55% Off
-    *   Date Night at Home: Dresses Under $70
-    *   Born
     *   Hair Care at Home: Hair Masks, Serums &. More
-    *   Kooba Handbags
-    *   Sanctuary from $20 Incl. Plus &. Petites
-    *   Karen Kane Up to 70% Off
-    *   Alternative Under $30
-    *   Lucky Brand Shoes Up to 50% Off
-    *   Sun's Out, Toes Out: Sandals &. More Up to 60% Off
-    *   Flair for Your Hair: Accessories from $7
     *   Wave Hello to These: O'Neill Kids &. More
     *   Converse Kids Starting at $10
     *   Men's Flip-Flops Starting at $20
     *   Cool Kicks: Girls' Sneakers from $20
-    *   Flip-Flops ft. Havaianas
-    *   Kendra Scott
-    *   FRAME Up to 70% Off
-    *   FRAME Men Up to 70% Off
     *   Home Decor Refresh: Stylish Decor Up to 50% Off
-    *   Boys' Dresswear Up to 65% Off
-    *   Girls' Dresses Starting at $12.97
     *   Step It Up: Men's Oxfords &. Loafers Up to 60% Off
     *   Self-Care Essentials ft. philosophy
     *   Kitchen Favorites Up to 60% Off
-    *   Men's Shoe Steals Up to 65% Off
     *   Cozy Bedding Up to 70% Off
-    
     *   Scents We Love ft. NEST Fragrances
     *   Decor Update: Pillows, Accents &. More from $20
-    *   Bedding Refresh: Comforters &. More Up to 55% Off
-    *   Virtual Meeting Ready: Hair Tools Up to 60% Off
-    *   Basics Shop: Jackets &. Outerwear Up to 70% Off
-    *   Basics Shop: Tops from $20 Incl. Plus &. Petites
-    *   Home Organization Essentials Starting at $20
-    *   Basics Shop: Dresses Incl. Plus &. Petites from $20
-    *   Basics Shop: Men's Tees, Hoodies &. More from $15
-    *   Basics Shop: Men's Lounge, Underwear &. Socks from $10
-    *   Basics Shop: Sleep, Lounge &. Intimates Under $35
-    *   Basics Shop: Girls' Styles Up to 65% Off
     *   Maaji Swim &. Active
-    *   Basics Shop: Men's Denim, Chinos &. Shorts from $25
-    *   Basics Shop: Men's Activewear from $15
+    *   Home Organization Essentials Starting at $20
     *   Stone Rose Up to 65%
     *   Robert Graham Footwear
-    *   Robert Graham Up to 65% Off
-    *   Leather Bags &. More ft. Robert Graham
-    *   Keds Kids
+    *   Mindful Brands Up to 65% Off ft. Eileen Fisher
+    *   Top Toys Under $20
     *   Champion Men Starting at $10
+    *   Designer Watches ft. Versace
     *   DR2 by Daniel Rainn &. Pleione from $20 Incl. Plus
     *   Swim Up to 65% Off
-    *   Basics Shop: Boys' Styles Up to 65% Off
-    *   Backyard Lounging: Fun Towels from $15
-    *   Free Shipping: Dreamy Bedding Up to 75% Off
-    *   Designer Sunglasses Up to 75% Off ft. Prada
-    *   Basics Shop: Denim, Shorts &. More Up to 65% Off
+    *   Date Night at Home: Dresses Under $70
+    *   Sanctuary from $20 Incl. Plus &. Petites
+    *   Bedding Refresh: Comforters &. More Up to 55% Off
 *   WomenShop Sale Events
     
-    *   Mindful Brands Up to 65% Off ft. Eileen Fisher
-    *   Daily Deal: Circus by Sam Edelman Clara Sandals at $34.97
-    *   Daily Deal: Marc Fisher LTD Glenna Sandals at $59.97
+    *   Burberry Handbags, Accessories &. More
+    *   Burberry
+    *   Burberry Shoes
+    *   Easy Chic: Elevated Casual Dresses &. More
+    *   Betsey Johnson &. Love...Ady Under $50
+    *   90 Degree by Reflex Under $35
+    *   Big Night In: Tops, Dresses &. More
+    *   All in One: Bodysuits from $20
+    *   Exclusively Ours: Abound Starting at $20
+    *   High Heel Sandals &. Pumps
+    *   Free Press &. Shimera Under $35
+    *   Forever Ready for Sun: Espadrilles Up to 60% Off
+    *   Low &. Block Heel Sandals and Pumps
+    *   Glam at Home: Makeup ft. Laura Geller New York
+    *   Alo
     *   Joan Vass Up to 75% Off
     *   ViX Swim
     *   Johnny Was Up to 65% Off
     *   Aquatalia
+    
     *   Jeffrey Campbell
     *   Vanity Room Incl. Plus Under $55
     *   Elodie Under $45
@@ -116,69 +122,46 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Kurt Geiger London Handbags &. Shoes
     *   Keep Your Hands Free: Backpacks from $20
     *   Makeup Brushes &. Palettes We Love from $15
-    *   Designer Watches ft. Versace
     *   AG Up to 65% Off
-    *   Max Studio Up to 70% Off Incl. Plus &. Petites
-    *   Alo
-    *   Date Night at Home: Dresses Under $70
-    *   Born
     *   Hair Care at Home: Hair Masks, Serums &. More
-    
-    *   Kooba Handbags
-    *   Sanctuary from $20 Incl. Plus &. Petites
-    *   Karen Kane Up to 70% Off
-    *   Alternative Under $30
-    *   Lucky Brand Shoes Up to 50% Off
-    *   Sun's Out, Toes Out: Sandals &. More Up to 60% Off
-    *   Flair for Your Hair: Accessories from $7
-    *   Flip-Flops ft. Havaianas
-    *   Kendra Scott
-    *   FRAME Up to 70% Off
     *   Self-Care Essentials ft. philosophy
     *   Scents We Love ft. NEST Fragrances
-    *   Virtual Meeting Ready: Hair Tools Up to 60% Off
-    *   Basics Shop: Jackets &. Outerwear Up to 70% Off
-    *   Basics Shop: Tops from $20 Incl. Plus &. Petites
-    *   Basics Shop: Dresses Incl. Plus &. Petites from $20
-    *   Basics Shop: Sleep, Lounge &. Intimates Under $35
     *   Maaji Swim &. Active
+    *   Mindful Brands Up to 65% Off ft. Eileen Fisher
+    *   Designer Watches ft. Versace
     *   DR2 by Daniel Rainn &. Pleione from $20 Incl. Plus
     *   Swim Up to 65% Off
-    *   Designer Sunglasses Up to 75% Off ft. Prada
-    *   Basics Shop: Denim, Shorts &. More Up to 65% Off
+    *   Date Night at Home: Dresses Under $70
+    *   Sanctuary from $20 Incl. Plus &. Petites
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Lingerie &. Shapewear
-    *   Accessories
     *   Handbags
-    *   Jewelry
     *   Watches
+    *   Accessories
+    *   Jewelry
 *   MenShop Sale Events
     
+    *   Burberry Men
+    *   Lacoste Lounge Men Under $30
+    *   Calvin Klein Men's Shoes
+    *   Exclusively Ours: Men's Shoes ft. Public Opinion
+    *   Lacoste Men's Shoes
     *   Mindful Brands Up to 65% Off ft. Good Man Brand
     *   Keep Your Hands Free: Backpacks from $20
     *   Bugatchi Men's Clothing Up to 60% Off
     *   Bugatchi Men's Shoes Up to 65% Off
+    
     *   $50 &. Under: SeaVees Men's Sneakers
-    *   Designer Watches ft. Versace
     *   AG Men Up to 55% Off
     *   Men's Flip-Flops Starting at $20
-    *   FRAME Men Up to 70% Off
     *   Step It Up: Men's Oxfords &. Loafers Up to 60% Off
-    *   Men's Shoe Steals Up to 65% Off
-    
-    *   Basics Shop: Men's Tees, Hoodies &. More from $15
-    *   Basics Shop: Men's Lounge, Underwear &. Socks from $10
-    *   Basics Shop: Men's Denim, Chinos &. Shorts from $25
-    *   Basics Shop: Men's Activewear from $15
     *   Stone Rose Up to 65%
     *   Robert Graham Footwear
-    *   Robert Graham Up to 65% Off
-    *   Leather Bags &. More ft. Robert Graham
     *   Champion Men Starting at $10
-    *   Designer Sunglasses Up to 75% Off ft. Prada
+    *   Designer Watches ft. Versace
     
     Shop By Category
     *   Clothing
@@ -187,43 +170,44 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Watches
 *   KidsShop Sale Events
     
-    *   Tween Scene: Beautees &. More
+    *   Burberry Kids
+    *   Girls' Swim Up to 70% Off
+    *   Boys' Swim Up to 65% Off
+    *   Kids' Sleek Sneakers ft. Heelys
+    *   Kids' Shoe Steals Up to 60% Off
+    *   Merrell Kids
+    
     *   Dr. Scholl's Kids
-    *   Top Toys Under $20
+    *   Tween Scene: Beautees &. More
     *   Wave Hello to These: O'Neill Kids &. More
     *   Converse Kids Starting at $10
     *   Cool Kicks: Girls' Sneakers from $20
-    
-    *   Boys' Dresswear Up to 65% Off
-    *   Girls' Dresses Starting at $12.97
-    *   Basics Shop: Girls' Styles Up to 65% Off
-    *   Keds Kids
-    *   Basics Shop: Boys' Styles Up to 65% Off
+    *   Top Toys Under $20
     
     Shop By Category
     *   Girls
     *   Boys
-    *   Baby
     *   Girls' Shoes
     *   Toys
+    *   Baby
     *   Boys' Shoes
 *   HomeShop Sale Events
     
-    *   Daily Deal: Scott Living Chenille Throws at $29.97
+    *   Luxe Faux Fur Pillows &. More
+    *   Home Bar Upgrades Starting at $10
+    *   Organization Solutions for Every Room
     *   Orthopedic Memory Foam Pet Beds &. More
     *   Luxe Bedding ft. Ted Baker London &. More
     *   Kate Spade New York Home from $15
     *   Cozy at Home: Candles, Throws &. More
+    
     *   Home Organization Essentials Up to 60% Off
     *   Home Decor Refresh: Stylish Decor Up to 50% Off
-    
     *   Kitchen Favorites Up to 60% Off
     *   Cozy Bedding Up to 70% Off
     *   Decor Update: Pillows, Accents &. More from $20
-    *   Bedding Refresh: Comforters &. More Up to 55% Off
     *   Home Organization Essentials Starting at $20
-    *   Backyard Lounging: Fun Towels from $15
-    *   Free Shipping: Dreamy Bedding Up to 75% Off
+    *   Bedding Refresh: Comforters &. More Up to 55% Off
     
     Shop By Category
     *   Bedding
@@ -232,24 +216,24 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Kitchen &. Tabletop
     *   Pet Accessories
     *   Luggage &. Travel
-    *   Outdoor Living
     *   Bath
-    *   Accent Furniture
+    *   Outdoor Living
     *   Electronic &. Tech Accessories
+    *   Accent Furniture
+    *   Rugs &. Doormats
 *   BeautyShop Sale Events
     
+    *   Glam at Home: Makeup ft. Laura Geller New York
     *   Makeup Brushes &. Palettes We Love from $15
     *   Hair Care at Home: Hair Masks, Serums &. More
-    *   Flair for Your Hair: Accessories from $7
     *   Self-Care Essentials ft. philosophy
     *   Scents We Love ft. NEST Fragrances
-    *   Virtual Meeting Ready: Hair Tools Up to 60% Off
     
     Shop By Category
-    *   Fragrance
-    *   Hair Care
-    *   Skin Care
     *   Makeup
+    *   Fragrance
+    *   Skin Care
+    *   Hair Care
     *   Bath &. Body
     *   Tools &. Accessories
     *   Men’s Grooming
