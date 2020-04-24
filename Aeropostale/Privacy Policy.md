@@ -396,119 +396,205 @@ precautionary measures in our warehouse to ensure the health and safety of
 our customers and associates. Because of this your shipment may experience  
 delays. Thank you for your patience and understanding. Learn More &. Stay Safe
 
-Ends Today! Aero Tees + Shorts = #OOTD at **Our Lowest Prices!**
-
-60% or More
-
+60% or  
+More  
 Off  
-Everything
+Everything!
+
+60% or More  
+Off Everything!
 
 Shop Girls Shop Guys
 
 \*Exclusions Apply
 
-Ends Today! Aero Tees + Shorts = #OOTD  
-at **Our Lowest Prices!**
+\*Exclusions Apply
 
-60% or More  
-Off Everything
+Summer Refresh: Aero Shorts &. Tees That Feel Like Summer at **Our Best Prices of The Season!**
 
-Shop Girls Shop Guys
+Summer Refresh: Aero Shorts &. Tees at  
+**Our Best Prices of The Season!**
 
-Exclusions Apply
+Cute &.  
+Cozy
 
-Tees Starting at $6.87
+Cute &. Cozy
 
-Shop Girls Tees
+Girls Shorts
 
-Shorts Starting at $13.87
+Starting at
+
+$13.87
+
+Lounge-worthy softness.  
+New curve loving fits.
 
 Shop Girls Shorts
 
-Shorts Starting at $17.87
+Super High Rise
+
+Super High Rise
+
+High Rise
+
+High Rise
+
+Low Rise
+
+Low Rise
+
+Curvy  
+**NEW!**
+
+Curvy  
+**NEW!**
+
+Vintage High Rise
+
+Vintage High Rise
+
+Mom  
+**NEW!**
+
+Mom  
+**NEW!**
+
+Bermuda
+
+Bermuda
+
+Midi
+
+Midi
+
+Twill Midi
+
+Twill Midi
+
+Super High Rise
+
+Super High Rise
+
+High Rise
+
+High Rise
+
+Low Rise
+
+Low Rise
+
+Curvy  
+**NEW!**
+
+Curvy  
+**NEW!**
+
+Vintage High Rise
+
+Vintage High Rise
+
+Mom  
+**NEW!**
+
+Mom  
+**NEW!**
+
+*   1
+*   2
+*   3
+*   4
+*   5
+*   6
+*   7
+*   8
+*   9
+
+Classic Jogger
+
+Cargo
+
+Active Jogger
+
+Long Cargo  
+**Online Only**
+
+Slim Cut-Off
+
+Beach Chino
+
+Slim Cuffed
+
+Classic Chino
+
+Long Board Chino
+
+Classic Jogger
+
+Cargo
+
+Active Jogger
+
+Long Cargo  
+**Online Only**
+
+Slim Cut-Off
+
+Beach Chino
+
+*   1
+*   2
+*   3
+*   4
+*   5
+*   6
+*   7
+*   8
+*   9
+
+Cool &.  
+Comfortable
+
+Guys Shorts
+
+Starting at
+
+$15.87
+
+Next-level of comfort.  
+New Elevated fabric.
 
 Shop Guys Shorts
 
-Tees Starting at $6.87
+Girls &. Guys Tees &. Tanks
 
-Shop Guys Tees
+Starting at
 
-**For a limited time.**  
-So soft and stretchy, they're  
-just as comfy as your  
-favorite sweats.
+$6.87
 
-Jeans
+Color your #AeroWorld with  
+graphics that say it all.
 
-$17.87  
-&. Under
+Shop Girls Tees Shop Guys Tees Shop Girls Tanks Shop Guys Tanks Previous
 
-**For a limited time.**
+Athletic Skinny  
+**NEW!**
 
-So soft and stretchy, they're just as  
-comfy as your favorite sweats.
+Athletic Skinny  
+**NEW!**
 
-Jeans $ 17.87 &. Under
-
-Shop Girls Jeans Shop Guys Jeans
-
-New Hoodie + New High Score = WIN-WIN
-
-New Hoodie + New High Score  
-\= WIN-WIN
-
-For the guys in your life...  
-(Your boyfriend, brother, best friend, etc.)  
-Time to step up their home game.
-
-For the guys in your life...  
-(Your boyfriend, brother, best friend, etc.)  
-Time to step up their home game.
-
-Shop Guys Cozy
-
-**#StayHomeWithAero**
-
-Effortless outfits. Colorful  
-coziness. (Front)camera-  
-ready fashion.
-
-Effortless outfits. Colorful coziness.  
-(Front) camera-ready fashion
-
-**Girls Get Cozy** **Guys Get Cozy** Previous
+Skinny
 
 Curvy
-
-Slim Straight
-
-Cheeky  
-**Online Only**
-
-Cheeky  
-**Online Only**
 
 Straight
 
 Skinny
 
-Slim
+Slim Straight
 
 Jeggings
 
-Athletic Skinny  
-**NEW!**
-
-Athletic Skinny  
-**NEW!**
-
-Low Rise Midi
-
-Skinny
-
-Hi Rise Curvy
-
-Slim Cuffed
+Slim
 
 Cheeky  
 **Online Only**
@@ -516,122 +602,115 @@ Cheeky
 Cheeky  
 **Online Only**
 
-Slim Cut Off
+Super Skinny
 
 Mom
 
+Athletic Skinny  
+**NEW!**
+
+Athletic Skinny  
+**NEW!**
+
+90's Jeans  
+**NEW!**
+
+90's Jeans  
+**NEW!**
+
 Skinny
 
 Curvy
-
-Slim Straight
 
 Straight
 
 Skinny
 
-Slim
+Slim Straight
 
 Jeggings
 
-Athletic Skinny  
-**NEW!**
+Slim
 
-Athletic Skinny  
-**NEW!**
+Cheeky  
+**Online Only**
+
+Cheeky  
+**Online Only**
+
+Super Skinny
 
 Mom
 
+Athletic Skinny  
+**NEW!**
+
+Athletic Skinny  
+**NEW!**
+
 Skinny
 
 Curvy
-
-Slim Straight
-
-Cheeky  
-**Online Only**
-
-Cheeky  
-**Online Only**
 
 Straight
 
 Skinny
 
-Slim
+Slim Straight
 
 Jeggings
 
-Athletic Skinny  
-**NEW!**
+Slim
+
+Cheeky  
+**Online Only**
+
+Cheeky  
+**Online Only**
+
+Super Skinny
+
+Mom
 
 Athletic Skinny  
 **NEW!**
 
-Low Rise Midi
+Athletic Skinny  
+**NEW!**
+
+90's Jeans  
+**NEW!**
+
+90's Jeans  
+**NEW!**
 
 Skinny
 
-Hi Rise Curvy
+Curvy
 
-Slim Cuffed
-
-Cheeky  
-**Online Only**
-
-Cheeky  
-**Online Only**
-
-Slim Cut Off
+Straight
 
 Next
 
-**#StayHomeWithAero 60%(or More) Off**
+So soft and stretchy.  
+they're just as comfy as  
+your favorite sweats.
 
-Jeans &. Shorts
+**For a Limited Time.**
 
-Soft enough to lounge in. Flexible enough  
-to handle anything.
+**For a Limited Time.**
 
-Soft enough to lounge in.  
-Flexible enough to handle anything.
+Girls &. Guys Jeans
 
-**Girls Jeans $17.87** Was $56.50 **Guys Jeans $17.87** Was $54.50 **Girls Shorts $13.87** Was $46.50 **Guys Shorts $17.87** Was $49.50
+$17.87
 
-At Aero, we're committed to a  
-better, brighter future.  
-do better, look better, feel  
-better... it's in our jeans.
+**&. Under**
 
-At Aero, we're committed to a  
-better, brighter future.  
-do better, look better, feel  
-better... it's in our jeans.
+So soft and stretchy.  
+they're just as comfy as  
+your favorite sweats.
 
-Aero's Sustainability Efforts Shop Girls Tees Shop Guys Tees
-
-AERO x MEXICO  
-#AEROWORLD
-
-Introducing our  
-limited-edition global "Oneness" collection inspired  
-by the vibrant streets of Mexico City.
-
-Introducing our  
-limited-edition global "Oneness" collection  
-inspired by the vibrant streets of Mexico City.
-
-Enter Aero World
-
-Share your faves with **@aeropostale**  
-**#StayHomeWithAero** for a chance to be  
-featured in our emails.
-
-Share your faves with **@aeropostale**  
-**#StayHomeWithAero** for a chance to be  
-featured in our emails.
-
-<div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS
+Shop Girls Jeans Shop Guys Jeans Aero's Sustainability Efforts Shop Girls Tees Shop Guys Tees <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS
 
 For more information, please see our **Privacy Policy**. California residents, see our **California Privacy Notice** and **Do Not Sell My Personal Information** page.
 
