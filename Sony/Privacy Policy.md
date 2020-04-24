@@ -124,7 +124,7 @@ Ready your Keyblade and unlock the entire Xehanort saga.
   
 Kingdom Hearts All In One Package now 70% off:  https://play.st/2yqTeyo  pic.twitter.com/ZD0rY5VSXw
 
-3 days ago View Tweet Instagram Post B-dax1Elhor
+4 days ago View Tweet Instagram Post B-dax1Elhor
 
 Superior Picture Quality
 
@@ -219,15 +219,15 @@ Go Behind-the-Scenes of “Outlander”
 
 <img class="bg-img" data-linkname="en:set\_a:\_3x2-1:image:tv:OutlanderLP-April-20-2020:sptv:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="The Frasers Have Experienced a Lot in Season 5—Relive the Highs &amp. Lows Outlander-LP" data-img1x="/content/dam/sony/homepage/2020-april/4-20/OutlanderWedding-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-april/4-20/OutlanderWedding-745x500.jpg" src="/content/dam/sony/homepage/2020-april/4-20/OutlanderWedding-745x500.jpg" alt="The Frasers Have Experienced a Lot in Season 5—Relive the Highs &amp. Lows"/>. <img class="bg-img" data-linkname="en:set\_a:\_3x2-1:image:tv:OutlanderLP-April-20-2020:sptv:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="The Frasers Have Experienced a Lot in Season 5—Relive the Highs &amp. Lows Outlander-LP" data-img1x="/content/dam/sony/homepage/2020-april/4-20/OutlanderWedding-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-april/4-20/OutlanderWedding-745x500.jpg" src="/content/dam/sony/homepage/2020-april/4-20/OutlanderWedding-600x600.jpg" alt="The Frasers Have Experienced a Lot in Season 5—Relive the Highs &amp. Lows Mobile"/>.
 
-Empower Your Kids With Their Own Coding Kids
+Empower Your Kids With Their Own Coding Kits
 
 Explore KOOV
 
-*   Share on Facebook: Empower Your Kids With Their Own Coding Kids
-*   Share on Twitter: Empower Your Kids With Their Own Coding Kids
-*   Copy URL to Share: Empower Your Kids With Their Own Coding Kids
+*   Share on Facebook: Empower Your Kids With Their Own Coding Kits
+*   Share on Twitter: Empower Your Kids With Their Own Coding Kits
+*   Copy URL to Share: Empower Your Kids With Their Own Coding Kits
 
-<img class="bg-img" data-linkname="en:set\_a:\_2x1-2:image:electronics:KOOV-April-20-2020:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Empower Your Kids With Their Own Coding Kids KOOV" data-img1x="/content/dam/sony/homepage/2020-april/4-20/SONY\_KOOV-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-april/4-20/SONY\_KOOV-500x246.jpg" src="/content/dam/sony/homepage/2020-april/4-20/SONY\_KOOV-500x246.jpg" alt="Empower Your Kids With Their Own Coding Kids"/>. <img class="bg-img" data-linkname="en:set\_a:\_2x1-2:image:electronics:KOOV-April-20-2020:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Empower Your Kids With Their Own Coding Kids KOOV" data-img1x="/content/dam/sony/homepage/2020-april/4-20/SONY\_KOOV-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-april/4-20/SONY\_KOOV-500x246.jpg" src="/content/dam/sony/homepage/2020-april/4-20/SONY\_KOOV-600x600.jpg" alt="Empower Your Kids With Their Own Coding Kids Mobile"/>. Instagram Post B\_GUQQZHc\_4 Instagram Post B\_A7vA8F6qq
+<img class="bg-img" data-linkname="en:set\_a:\_2x1-2:image:electronics:KOOV-April-20-2020:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Empower Your Kids With Their Own Coding Kits KOOV" data-img1x="/content/dam/sony/homepage/2020-april/4-20/SONY\_KOOV-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-april/4-20/SONY\_KOOV-500x246.jpg" src="/content/dam/sony/homepage/2020-april/4-20/SONY\_KOOV-500x246.jpg" alt="Empower Your Kids With Their Own Coding Kits"/>. <img class="bg-img" data-linkname="en:set\_a:\_2x1-2:image:electronics:KOOV-April-20-2020:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Empower Your Kids With Their Own Coding Kits KOOV" data-img1x="/content/dam/sony/homepage/2020-april/4-20/SONY\_KOOV-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-april/4-20/SONY\_KOOV-500x246.jpg" src="/content/dam/sony/homepage/2020-april/4-20/SONY\_KOOV-600x600.jpg" alt="Empower Your Kids With Their Own Coding Kits Mobile"/>. Instagram Post B\_GUQQZHc\_4 Instagram Post B\_A7vA8F6qq
 
 Built For Speed
 
