@@ -136,7 +136,11 @@ If you have a concern about our processing of personal data that we are not able
 
 .
 
-\[Archived content\]Data Protection Authorities - European CommissionAlternate members of the Article 29 Working Partyec.europa.eu **Privacy Notice for California Residents**
+\[Archived content\]Data Protection Authorities - European Commission
+
+Alternate members of the Article 29 Working Party
+
+ec.europa.eu **Privacy Notice for California Residents**
 
 **Effective Date:** January 1, 2020
 
