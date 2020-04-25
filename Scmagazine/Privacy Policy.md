@@ -280,23 +280,23 @@ Life as a CISO: A Q&A with Ray Espinoza of Cobalt.io
     *   Emailed
     *   Recent
     
-    *   Researchers see a boom in Zoom domains, stolen accounts
-    *   Breaking out of password Groundhog Day
-    *   U.S. offers up to $5M for info on North Korean cyber activity
-    *   The three-sphere circus of compliance
-    *   Google patches another critical vulnerability in Chrome
+    *   Maze ransomware attack catches IT services firm Cognizant unawares
+    *   COVID-19 upends supply chain, 3rd-party risk rises
+    *   The Top 5 most common vulnerability remediation mistakes
+    *   GitHub users being hit with credential stealing phishing messages
+    *   Remote workers' lack of corporate firewalls blamed for rise in malicious device activity
     
-    *   Smart TVs spoofed to deliver billions of fake ad impressions
-    *   Fitness software maker Kinomap leaves database open exposing 42 million users
-    *   Paay open database exposes 2.5M transactions, challenges PCI compliance
-    *   Google patches another critical vulnerability in Chrome
-    *   A 10-point plan for securing remote workers
+    *   Oracle wins Patch Tuesday rolling out 397 security fixes, 450 CVEs
+    *   Nintendo confirms 160,000 user accounts hacked
+    *   GitHub users being hit with credential stealing phishing messages
+    *   A call for women...
+    *   Clearview AI source code, facial recognition apps, data exposed
     
-    *   Cybersecurity should be No. 1 pick on NFL Draft Day
-    *   Microsoft patches Word and Office 365 for Autodesk FBX library flaws
-    *   Emotet banking trojan possibly being prepped for a new attack
-    *   Paay open database exposes 2.5M transactions, challenges PCI compliance
-    *   Malvertising scam leverages domain names that sound like legit COVID-19 sites
+    *   COVID-19 by the numbers
+    *   CNN, People, CNBC brands used in pandemic survival book scam
+    *   Nintendo confirms 160,000 user accounts hacked
+    *   Connecticut town drops drone program to combat COVID-19 spread over privacy concerns
+    *   WHO confirms credentials leak included staff working on COVID-19 response
 
 Back to Top
 
@@ -329,6 +329,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
-
-You can skip this ad in 1 seconds.
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
