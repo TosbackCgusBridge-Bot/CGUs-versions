@@ -7,7 +7,7 @@ Enable Accessibility
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed. Weekly Ads Mother’s Day Jewelry SaleValid Apr 13th - May 10thEngagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   My Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   Mother's Day &. Trending
 *   Home &. Lifestyle
@@ -21,30 +21,35 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-$14.99 Women'sSt. John's Bay Shortsselect styles$14.99Liz Claiborne Top$19.99AmbrielleRobe &. Chemise Setselect styles65% OFFGold Jewelryselect styles$10.99 Babies' Carter'sBodysuit Setselect styles$7.99Liz ClaiborneBath Towel$19.99Cooks 16-Cup Rice Cooker$15.99 Men's St. John's Bay Shortsselect stylesOn every mom's list...Spoil her with sparkle &. scents.UP TO 70% OFF Jewelry Gifts\*EXTRA 25% OFF\* with code **JCPSHOP3** | select stylesFragrance at Sephora inside JCPenneyExcluded from coupons.Morning, Sunshine!**SAVE ON**select home &kitchen essentials  
-Shop AllSmall ElectricsCookwareCoffee MakersBakewareShe can't be beatGear up and get movin' with Mom.  
-Shop AllTreat yourself to something new!Select spring faves from a.n.a &. St. John's Bay, starting at $5.99a.n.aSt. John's BayUP TO40% OFF HomeFinishing touches breathe life into your space.  
-Shop AllBeddingWindowRugsDecorLearn More Shop Gift CardsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+$14.99 Women'sSt. John's Bay Shortsselect styles$14.99Liz Claiborne Top$19.99AmbrielleRobe &. Chemise Set  
+  
+65% OFFGold Jewelryselect styles$10.99 Babies' Carter'sBodysuit Setselect styles$7.99Liz ClaiborneBath Towel$89.99Cooks Contour Belly 10pc. Cookware Set$15.99 Men's St. John's Bay ShortsOn every mom's list...Spoil her with sparkle &. scents.UP TO 70% OFF Jewelry Giftsafter EXTRA 25% OFF\* with code **JCPSHOP3** | select stylesFragrance at Sephora inside JCPenneyExcluded from coupons.Morning, Sunshine!**SAVE ON**select home &kitchen essentials  
+Shop AllSmall ElectricsCookwareCoffee MakersBakewareUP TO40% OFF HomeFinishing touches breathe lifeinto your space.  
+Shop AllBeddingWindowRugsDecorShe can't be beatGear up and get movin' with Mom.  
+Shop AllTreat yourself to something new!Select spring faves from a.n.a &. St. John's Bay, starting at $5.99a.n.aSt. John's BayLearn More Shop Gift CardsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
+*   Nike Revolution 5 Womens Running Shoes
+    
+    $65
+    
+    13
 *   Home Expressions Microfiber Plus Ultra Soft Easy Care Wrinkle Resistant Sheet Set $10.39 - $23.99with code~$26 - $60~1692
-*   Nike Air Max Motion 2 Womens Running Shoes
+*   400tc Wrinkle Guard Deep Pocket Sheet Set - JCPenney Home $19.99 - $79.99with code~$60 - $200~2885
+*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $10.40with code22
+*   Nike® Reax Run Womens Running Shoes
     
-    $85 - $90
+    $75
     
-    16
-*   a.n.a Womens Scoop Neck Short Sleeve T-Shirt
+    59
+*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
-    $3.79 - $9.99sale
+    $20sale
     
-    ~$13 - $19~382
-*   a.n.a Womens V Neck Sleeveless Tank Top $7.99with code~$13~8
-*   JCPenney Home Ultra Performance 575 Sateen Deep Pocket Sheet Set $15.99 - $71.99with code~$50 - $150~154
-*   Home Expressions Solid or Stripe Bath Towel Collection $2.39 - $15.99with code~$6 - $48~531
+    ~$124.98~181
 
 Sponsored Items
 
-*   Emeril Lagasse Quarter Womens Sneakers $56with code4
 *   Rachael Ray Create Delicious 11-Pc. Cookware Set
     
     $179.99sale
@@ -52,54 +57,45 @@ Sponsored Items
     ~$300~17
 *   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $24with code
 *   Beautyrest ® BR800™ Firm - Mattress Only $333.99 - $513.99with code~$1,300 - $2,000~33
-*   Serta Icomfort Blue Fusion 100 Firm Tight-Top Hybrid Mattress $459 - $1398.99with code~$1,480 - $3,420~163
-*   Blue Diamond Infused Grill Genie Aluminum Non-Stick Grill Pan
-    
-    $49.99
-    
-    37
 *   Lee® Flex Motion Trouser
     
     $24.99 - $29.99sale
     
     ~$50~7
+*   Serta® Sleeptrue® Lindridge Firm - Mattress Only $308.99 - $539with code~$1,000 - $1,750~4
+*   Dyson® V8 Animal Cord-Free Vacuum
+    
+    $569.99sale
+    
+    ~$669~179
 *   Fisher-Price Laugh &. Learn Click &. Learn Laptop
     
     $14.99
     
     10
 *   Range Kleen Full Size Oven Liner $14.39with code~$19~
-*   Google Nest Hello Video Doorbell $206.10with code355
-*   Dyson® V8 Animal Cord-Free Vacuum
-    
-    $569.99sale
-    
-    ~$669~179
-*   As Seen on TV Blue Diamond Ceramic 11" Non-Stick Square Griddle
-    
-    $39.99
-    
-    21
-*   Google Nest Cam IQ Indoor Security Camera 2-Pack $448.20with code26
+*   Google Nest Hello Video Doorbell $206.10with code356
 *   Farberware Cookstart 15-pc. Cookware Set $71.99with code~$120~61
 *   GreenPan Rio Non-Stick Frying Pan
     
     $39.99sale
     
     ~$70~1
-*   Samsung Galaxy Active 2 40mm Womens Multi-Function Rose Goldtone Smart Watch-Sm-R830nzdaxar
+*   Samsung Galaxy Active Mens Black Smart Watch-Sm-R500nzkaxar
     
-    $249.99sale
+    $179.99sale
     
-    ~$279.99~24
-*   Lee® Relaxed All Day Pant - Plus $22.39with code~$48~534
+    ~$199.99~172
+*   Google Nest Cam IQ Outdoor Security Camera 2-Pack $629.10with code49
 *   Lee® Relaxed Fit Straight Leg Jeans - Plus
     
-    $9.59 - $27.99sale
+    $11.99 - $27.99sale
     
     ~$48~554
+*   Serta Icomfort Blue Fusion 100 Firm Tight-Top Hybrid Mattress $459 - $1398.99with code~$1,480 - $3,420~163
+*   Lee® Relaxed All Day Pant - Plus $22.39with code~$48~534
 *   Lee® Plain Front Relaxed All Day Twill Pant $19.99 - $23.99with code~$44~783
-*   Serta® Sleeptrue® Lindridge Firm - Mattress Only $308.99 - $539with code~$1,000 - $1,750~4
+*   Lee® Flex Motion Straight Leg Pant- Tall $26.39with code~$50~23
 
 Shop and Save at JCPenney
 
