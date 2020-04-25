@@ -40,24 +40,15 @@ close
     *   Assortments
     *   Strip Steaks
     *   Porterhouse Steaks
-    *   Tomahawk SteaksMost Popular Fine Meats
+    *   Tomahawk SteaksMost Popular Fine Meats Gourmet Meals
 *   Gourmet Food
     
-    View All Categories Shop by Category*   Snacks
+    View All Categories Shop by Category*   Gourmet Meals
+    *   Fine Meats
+    *   Snacks
     *   Condiments
-    *   Gourmet Meals
     *   Desserts
     *   Coffee, Tea &. Cocoa
-    
-    Snacks*   Nuts
-    *   Crackers
-    *   Popcorn
-    *   Candy &. Confections
-    
-    Condiments*   Mustard
-    *   Sauces
-    *   Spreads
-    *   Rubs
     
     Meals*   Appetizers
     *   Side Dishes
@@ -66,6 +57,16 @@ close
     *   Burgers &. Brats
     *   Fine Meats
     *   Desserts
+    
+    Condiments*   Mustard
+    *   Sauces
+    *   Spreads
+    *   Rubs
+    
+    Snacks*   Nuts
+    *   Crackers
+    *   Popcorn
+    *   Candy &. Confections
 *   Sweets
     View All Categories Shop by Category*   Chocolates
     *   Mints
@@ -132,24 +133,15 @@ close
     *   Assortments
     *   Strip Steaks
     *   Porterhouse Steaks
-    *   Tomahawk SteaksMost Popular Fine Meats
+    *   Tomahawk SteaksMost Popular Fine Meats Gourmet Meals
 *   Gourmet Food
     
-    View All Categories Shop by Category*   Snacks
+    View All Categories Shop by Category*   Gourmet Meals
+    *   Fine Meats
+    *   Snacks
     *   Condiments
-    *   Gourmet Meals
     *   Desserts
     *   Coffee, Tea &. Cocoa
-    
-    Snacks*   Nuts
-    *   Crackers
-    *   Popcorn
-    *   Candy &. Confections
-    
-    Condiments*   Mustard
-    *   Sauces
-    *   Spreads
-    *   Rubs
     
     Meals*   Appetizers
     *   Side Dishes
@@ -158,6 +150,16 @@ close
     *   Burgers &. Brats
     *   Fine Meats
     *   Desserts
+    
+    Condiments*   Mustard
+    *   Sauces
+    *   Spreads
+    *   Rubs
+    
+    Snacks*   Nuts
+    *   Crackers
+    *   Popcorn
+    *   Candy &. Confections
 *   Sweets
     View All Categories Shop by Category*   Chocolates
     *   Mints
