@@ -45,14 +45,12 @@ Skip to main content
     
     *   Drugs
     *   Supplements
-    *   View All
     
     Tools
     
     *   Manage Your Medications
     *   Pill Identifier
     *   Check for Interactions
-    *   View All
     
     Drug Basics &. Safety
     
