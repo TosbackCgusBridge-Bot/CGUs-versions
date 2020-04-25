@@ -37,7 +37,7 @@ Instant Notifications
 
 You'll receive push notifications when your resume is viewed, or when new jobs appear in your most recent search. Making it easy for you to jump right back into your job search.
 
-see how you can up your career status Career Development &. Learning 5 steps to improve your skills from home Read Article Monthly jobs report: March 2020 review Read Article How to balance work with kids out of school Read Article Read More Articles Employers Looking to Post a Job?
+see how you can up your career status Career Development &. Learning Companies hiring now during coronavirus - for these jobs Read Article 5 tips to find entry-level jobs after graduation Read Article Who's Hiring CareerBuilder COVID Data: Who’s hiring April 10-16 Read Article Read More Articles Employers Looking to Post a Job?
 
 We have end-to-end solutions that can keep up with you and your standards.
 
