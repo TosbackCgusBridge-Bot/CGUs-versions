@@ -30,6 +30,8 @@ Lands' End Sign In menu
 
 Receive up to 50% off your order!
 
+Only 0 HR 05 MIN 13 SEC Left!
+
 code: SWEET pin: PROMOTION DETAILS
 
 Customer Service Menu
