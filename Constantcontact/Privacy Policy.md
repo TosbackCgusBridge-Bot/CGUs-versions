@@ -346,7 +346,6 @@ Back To Top ©2020 Endurance International Group.
     *   Locations
 *   Our Brands
 *   Our Customers
-*   Our Partners
 *   Careers
 *   Press
     *   Press Overview
