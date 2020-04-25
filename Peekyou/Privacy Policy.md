@@ -58,7 +58,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT.
 
-What is PeekScore? Public Records &. Background Checks 2% 
+What is PeekScore? Public Records &. Background Checks 3% 
 
 Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -88,7 +88,7 @@ Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-36%  2% 
+23%  3% 
 
 Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -118,7 +118,7 @@ Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-36%  Arrest Records &. Driving Infractions
+23%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -327,7 +327,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Social Profiles 36%  Pinterest 2% 
+Social Profiles 22%  Pinterest 2% 
 
 *   Privacy policy - maaenterprise033
     
@@ -368,7 +368,7 @@ Wikipedia 2% 
     
 *   Show Less ...
 
-Music 36%  Photo Albums 2% 
+Music 22%  Photo Albums 2% 
 
 *   Help
     
@@ -416,7 +416,7 @@ Music 36%  Photo Albums 2% 
     
 *   Show Less ...
 
-Web Search 36%  Images 2% 
+Web Search 22%  Images 2% 
 
 15
 
@@ -451,7 +451,6 @@ pinterestx
 *   Do Not Sell My PI
 *   Terms of Service
 *   Directory
-*   Blog
 *   Daily Searches
 
 Copyright 2020 PeekYou.com. A Patent Pending People Search Process. All Rights Reserved.
