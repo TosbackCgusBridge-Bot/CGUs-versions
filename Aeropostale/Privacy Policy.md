@@ -37,6 +37,7 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   $17.87 Jeans
+*   Twisted for Tie Dye
 *   Get Cozy
 *   Get Connected
 *   Vid Chat Vibes
@@ -47,7 +48,6 @@ Close submenu ( Collections ) Collections
 *   Tribe Of Tees
 *   Basic Essentials
 *   Seriously Soft
-*   Active
 
 Close submenu ( Guys ) Guys
 
@@ -67,6 +67,7 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   $17.87 Jeans
+*   Twisted for Tie Dye
 *   Get Cozy
 *   Get Connected
 *   Vid Chat Vibes
@@ -231,6 +232,7 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   $17.87 Jeans
+        *   Twisted for Tie Dye
         *   Get Cozy
         *   Get Connected
         *   Vid Chat Vibes
@@ -241,7 +243,6 @@ Menu Find a Store Aeropostale
         *   Tribe Of Tees
         *   Basic Essentials
         *   Seriously Soft
-        *   Active
     
 *   Guys
     
@@ -258,6 +259,7 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   $17.87 Jeans
+        *   Twisted for Tie Dye
         *   Get Cozy
         *   Get Connected
         *   Vid Chat Vibes
