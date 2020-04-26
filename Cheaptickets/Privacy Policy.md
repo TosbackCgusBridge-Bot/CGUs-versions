@@ -80,7 +80,7 @@ Already have an account? Sign In Sign In Sign in to your account Sign in to your
 
 Password
 
-Keep me signed in Forgot password? Earn free travel rewards with CheapCash. By joining CheapCash, I accept all Terms and Conditions. Sign In By signing in, I agree to the CheapCash Terms and Conditions. opens in a new window
+Keep me signed in Forgot password? Earn free travel rewards with CheapCashopens in a new window. By joining CheapCash, I accept all Terms and Conditionsopens in a new window. Sign In By signing in, I agree to the CheapCash Terms and Conditions. opens in a new window
 
 Need an account? Sign Up Page not found
 
