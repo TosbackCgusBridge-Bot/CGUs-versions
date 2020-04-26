@@ -9,12 +9,40 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
+    *   Hobo Handbags
+    *   Tommy Bahama Swim
+    *   Young Fabulous &. Broke Up to 60% Off
+    *   Z By Zella Incl. Plus
+    *   Chaco
+    *   Easy Chic: Linen Styles Up to 70% Off Incl. Plus
+    *   Our Best Brands Up to 70% Off ft. Z&L Europe
+    *   Diesel Men Up to 60% Off
+    *   Socialite Incl. Plus Under $45
+    *   Treat Your Feet: Comfort Sandals Up to 60% Off
+    *   Comfort Bralettes Under $30
+    *   Decorative Pillows, Throws &. More Up to 55% Off
+    *   Easy On, Easy Off: Slip-On Shoes Up to 60% Off
+    *   Mustard Seed &. More From $25
+    *   Fragrance for Her Up to 50% Off
+    *   Free Shipping: Framed Art Up to 60% Off
+    *   Chaco Men
+    *   Stock Up: Men's Swim Up to 70% Off
+    *   Men's Comfort Shoes ft. Skechers
+    *   Fresh Finds: Mules &. More from $40
+    *   Cute for the Camera: Kids' Styles Starting at $10
+    *   Tie-Dye &. More: Original Paperbacks Up to 60% Off
+    *   Trending Now: Kids' Cozy Hoodies, Tees &. More
+    *   All Under $30: Joe Fresh Kids' Shoes
+    *   Naked Zebra Under $50
+    *   adidas Accessories
     *   John Varvatos Star USA Up to 60% Off
     *   adidas
     *   New on HauteLook: Wolf Gourmet
     *   adidas Men
     *   adidas Active Up to 55% Off
+    
     *   adidas Men's Active &. More
+    *   Easy Chic: Elevated Casual Dresses &. More
     *   adidas Kids
     *   BLANKNYC Denim Up to 60% Off
     *   T Tahari Incl. Plus &. Petites
@@ -23,145 +51,133 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Laid-Back Styles from $20 Incl. Plus &. Petites
     *   Men's Shoes ft. John Varvatos Star USA
     *   adidas Kids' Active Up to 50% Off
+    *   Lacoste Men's Shoes
     *   Tees Starting at $15
     *   Maison Forte Up to 50% Off
     *   Kenneth Cole New York Men
     *   Kenneth Cole Shoes Up to 65% Off
     *   Antelope
-    *   Ready for Sunshine: Kids' Styles Up to 65% Off
     *   Starting at $15: Nicole Miller Girls
-    *   Stay Hydrated: Insulated Stainless Steel Bottles
-    *   Tie-Dye &. More: Original Paperbacks Up to 60% Off
+    *   Ready for Sunshine: Kids' Styles Up to 65% Off
     *   Dress for Fun: TOV Tops &. More
     *   Get Some Rest: Bedding Up to 65% Off
     *   At-Home Spa Day: Molton Brown &. More
-    *   Naked Zebra Under $50
-    *   adidas Accessories
-    
     *   Burberry Handbags, Accessories &. More
     *   Burberry
     *   Burberry Shoes
     *   Burberry Men
-    *   Easy Chic: Elevated Casual Dresses &. More
-    *   Betsey Johnson &. Love...Ady Under $50
-    *   90 Degree by Reflex Under $35
-    *   Big Night In: Tops, Dresses &. More
-    *   All in One: Bodysuits from $20
-    *   Exclusively Ours: Abound Starting at $20
-    *   High Heel Sandals &. Pumps
     *   Luxe Faux Fur Pillows &. More
-    *   Free Press &. Shimera Under $35
-    *   Forever Ready for Sun: Espadrilles Up to 60% Off
-    *   Lacoste Men's Shoes
     *   Calvin Klein Men's Shoes
-    *   Low &. Block Heel Sandals and Pumps
     *   Girls' Swim Up to 70% Off
     *   Home Bar Upgrades Starting at $10
     *   Exclusively Ours: Men's Shoes ft. Public Opinion
     *   Glam at Home: Makeup ft. Laura Geller New York
+    
     *   Kids' Sleek Sneakers ft. Heelys
     *   Kids' Shoe Steals Up to 60% Off
     *   Merrell Kids
     *   Lacoste Lounge Men Under $30
     *   Updated Suiting Up to 60% Off
-    *   Boys' Swim Up to 65% Off
-    *   Organization Solutions for Every Room
-    
+    *   Burberry Kids
+    *   Mindful Brands Up to 65% Off ft. Eileen Fisher
     *   Orthopedic Memory Foam Pet Beds &. More
-    *   Makeup Brushes &. Palettes We Love from $15
-    *   Bugatchi Men's Clothing Up to 60% Off
+    *   Johnny Was Up to 65% Off
     *   Bugatchi Men's Shoes Up to 65% Off
     *   $50 &. Under: SeaVees Men's Sneakers
-    *   Dr. Scholl's Kids
-    *   Tween Scene: Beautees &. More
     *   Luxe Bedding ft. Ted Baker London &. More
     *   Kate Spade New York Home from $15
     *   Cozy at Home: Candles, Throws &. More
     *   Home Organization Essentials Up to 60% Off
     *   Hair Care at Home: Hair Masks, Serums &. More
-    *   Maaji Swim &. Active
-    *   Top Toys Under $20
-    *   Burberry Kids
-    *   Mindful Brands Up to 65% Off ft. Eileen Fisher
-    *   Self-Care Essentials ft. philosophy
-    *   Johnny Was Up to 65% Off
-    *   ViX Swim
-    *   Alo
-    *   Date Night at Home: Dresses Under $70
-    *   Mindful Brands Up to 65% Off ft. Good Man Brand
-    *   Men's Flip-Flops Starting at $20
     *   Home Decor Refresh: Stylish Decor Up to 50% Off
     *   Kitchen Favorites Up to 60% Off
     *   Cozy Bedding Up to 70% Off
-    *   Decor Update: Pillows, Accents &. More from $20
+    *   Dress Shirts Starting at $30 ft. Tommy Hilfiger
+    *   Stay Hydrated: Insulated Stainless Steel Bottles
+    *   Betsey Johnson &. Love...Ady Under $50
+    *   90 Degree by Reflex Under $35
+    *   Big Night In: Tops, Dresses &. More
+    *   Boys' Swim Up to 65% Off
+    *   Organization Solutions for Every Room
+    *   Makeup Brushes &. Palettes We Love from $15
+    *   Alo
+    *   Date Night at Home: Dresses Under $70
+    *   Maaji Swim &. Active
 *   WomenShop Sale Events
     
+    *   Hobo Handbags
+    *   Tommy Bahama Swim
+    *   Young Fabulous &. Broke Up to 60% Off
+    *   Chaco
+    *   Easy Chic: Linen Styles Up to 70% Off Incl. Plus
+    *   Our Best Brands Up to 70% Off ft. Z&L Europe
+    *   Socialite Incl. Plus Under $45
+    *   Treat Your Feet: Comfort Sandals Up to 60% Off
+    *   Comfort Bralettes Under $30
+    *   Easy On, Easy Off: Slip-On Shoes Up to 60% Off
+    *   Mustard Seed &. More From $25
+    *   Fragrance for Her Up to 50% Off
+    *   Fresh Finds: Mules &. More from $40
+    *   Naked Zebra Under $50
+    *   adidas Accessories
     *   adidas
     *   adidas Active Up to 55% Off
+    *   Easy Chic: Elevated Casual Dresses &. More
     *   BLANKNYC Denim Up to 60% Off
     *   T Tahari Incl. Plus &. Petites
     *   Tie-Dye Styles &. More Up to 65% Off Incl. Plus
+    
     *   Dr. Scholl's
     *   Laid-Back Styles from $20 Incl. Plus &. Petites
     *   Kenneth Cole Shoes Up to 65% Off
     *   Antelope
     *   Dress for Fun: TOV Tops &. More
     *   At-Home Spa Day: Molton Brown &. More
-    *   Naked Zebra Under $50
-    *   adidas Accessories
     *   Burberry Handbags, Accessories &. More
     *   Burberry
     *   Burberry Shoes
-    *   Easy Chic: Elevated Casual Dresses &. More
+    *   Glam at Home: Makeup ft. Laura Geller New York
+    *   Mindful Brands Up to 65% Off ft. Eileen Fisher
+    *   Johnny Was Up to 65% Off
+    *   Hair Care at Home: Hair Masks, Serums &. More
     *   Betsey Johnson &. Love...Ady Under $50
-    
     *   90 Degree by Reflex Under $35
     *   Big Night In: Tops, Dresses &. More
-    *   All in One: Bodysuits from $20
-    *   Exclusively Ours: Abound Starting at $20
-    *   High Heel Sandals &. Pumps
-    *   Free Press &. Shimera Under $35
-    *   Forever Ready for Sun: Espadrilles Up to 60% Off
-    *   Low &. Block Heel Sandals and Pumps
-    *   Glam at Home: Makeup ft. Laura Geller New York
     *   Makeup Brushes &. Palettes We Love from $15
-    *   Hair Care at Home: Hair Masks, Serums &. More
-    *   Maaji Swim &. Active
-    *   Mindful Brands Up to 65% Off ft. Eileen Fisher
-    *   Self-Care Essentials ft. philosophy
-    *   Johnny Was Up to 65% Off
-    *   ViX Swim
     *   Alo
     *   Date Night at Home: Dresses Under $70
+    *   Maaji Swim &. Active
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Handbags
     *   Lingerie &. Shapewear
+    *   Handbags
     *   Accessories
     *   Jewelry
 *   MenShop Sale Events
     
+    *   Diesel Men Up to 60% Off
+    *   Chaco Men
+    *   Stock Up: Men's Swim Up to 70% Off
+    *   Men's Comfort Shoes ft. Skechers
+    *   Tie-Dye &. More: Original Paperbacks Up to 60% Off
     *   John Varvatos Star USA Up to 60% Off
     *   adidas Men
     *   adidas Men's Active &. More
     *   Men's Shoes ft. John Varvatos Star USA
+    *   Lacoste Men's Shoes
+    
     *   Tees Starting at $15
     *   Maison Forte Up to 50% Off
     *   Kenneth Cole New York Men
-    *   Tie-Dye &. More: Original Paperbacks Up to 60% Off
     *   Burberry Men
-    
-    *   Lacoste Men's Shoes
     *   Calvin Klein Men's Shoes
     *   Exclusively Ours: Men's Shoes ft. Public Opinion
     *   Lacoste Lounge Men Under $30
-    *   Bugatchi Men's Clothing Up to 60% Off
     *   Bugatchi Men's Shoes Up to 65% Off
     *   $50 &. Under: SeaVees Men's Sneakers
-    *   Mindful Brands Up to 65% Off ft. Good Man Brand
-    *   Men's Flip-Flops Starting at $20
+    *   Dress Shirts Starting at $30 ft. Tommy Hilfiger
     
     Shop By Category
     *   Clothing
@@ -169,20 +185,20 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Cute for the Camera: Kids' Styles Starting at $10
+    *   Trending Now: Kids' Cozy Hoodies, Tees &. More
+    *   All Under $30: Joe Fresh Kids' Shoes
     *   adidas Kids
     *   adidas Kids' Active Up to 50% Off
-    *   Ready for Sunshine: Kids' Styles Up to 65% Off
     *   Starting at $15: Nicole Miller Girls
+    *   Ready for Sunshine: Kids' Styles Up to 65% Off
+    
     *   Girls' Swim Up to 70% Off
     *   Kids' Sleek Sneakers ft. Heelys
     *   Kids' Shoe Steals Up to 60% Off
-    
     *   Merrell Kids
-    *   Boys' Swim Up to 65% Off
-    *   Dr. Scholl's Kids
-    *   Tween Scene: Beautees &. More
-    *   Top Toys Under $20
     *   Burberry Kids
+    *   Boys' Swim Up to 65% Off
     
     Shop By Category
     *   Girls
@@ -190,15 +206,14 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Baby
     *   Girls' Shoes
     *   Boys' Shoes
-    *   Toys
 *   HomeShop Sale Events
     
+    *   Decorative Pillows, Throws &. More Up to 55% Off
+    *   Free Shipping: Framed Art Up to 60% Off
     *   New on HauteLook: Wolf Gourmet
-    *   Stay Hydrated: Insulated Stainless Steel Bottles
     *   Get Some Rest: Bedding Up to 65% Off
     *   Luxe Faux Fur Pillows &. More
     *   Home Bar Upgrades Starting at $10
-    *   Organization Solutions for Every Room
     *   Orthopedic Memory Foam Pet Beds &. More
     *   Luxe Bedding ft. Ted Baker London &. More
     
@@ -208,28 +223,28 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Home Decor Refresh: Stylish Decor Up to 50% Off
     *   Kitchen Favorites Up to 60% Off
     *   Cozy Bedding Up to 70% Off
-    *   Decor Update: Pillows, Accents &. More from $20
+    *   Stay Hydrated: Insulated Stainless Steel Bottles
+    *   Organization Solutions for Every Room
     
     Shop By Category
-    *   Bedding
     *   Home Decor
+    *   Bedding
     *   Kitchen &. Tabletop
     *   Cleaning &. Organization
     *   Pet Accessories
     *   Bath
-    *   Luggage &. Travel
     *   Rugs &. Doormats
-    *   Outdoor Living
-    *   Electronic &. Tech Accessories
+    *   Luggage &. Travel
     *   Accent Furniture
     *   Holiday Decorations
+    *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
+    *   Fragrance for Her Up to 50% Off
     *   At-Home Spa Day: Molton Brown &. More
     *   Glam at Home: Makeup ft. Laura Geller New York
-    *   Makeup Brushes &. Palettes We Love from $15
     *   Hair Care at Home: Hair Masks, Serums &. More
-    *   Self-Care Essentials ft. philosophy
+    *   Makeup Brushes &. Palettes We Love from $15
     
     Shop By Category
     *   Makeup
