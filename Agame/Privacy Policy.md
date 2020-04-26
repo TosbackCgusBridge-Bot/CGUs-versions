@@ -16,11 +16,11 @@ View more results
     
     *   Dress Up
     *   Kissing
-    *   Love Games
     *   Make Up
+    *   Love Games
     *   Kids
-    *   Beauty Games
     *   Princess
+    *   Beauty Games
     *   Dating
     
     All Girls Best Games
@@ -43,8 +43,8 @@ View more results
     Top Categories
     
     *   Driving Games
-    *   Parking
     *   Motor Racing
+    *   Parking
     *   Offroad Games
     *   Stunt Driving
     *   Boat Racing
@@ -73,8 +73,8 @@ View more results
     *   Match 3
     *   Mobile
     *   Hidden Objects
-    *   Bubble Shooter
     *   Brain Games
+    *   Bubble Shooter
     *   Mahjong
     *   Maze
     *   Jewel Games
@@ -94,62 +94,6 @@ View more results
     *   Roll The Ball
     *   TenTrix
     *   Mahjong Link
-*   Action
-    
-    Top Categories
-    
-    *   Fun Games
-    *   Boy Games
-    *   Flash Games
-    *   One player
-    *   Friv Games
-    *   Y8 Games
-    *   HTML5
-    *   Fighting
-    
-    All Action Best Games
-    *   Subway Clash 3D
-    *   CS Portable
-    *   Sniper Reloaded
-    *   Deer Hunter
-    *   Miami Crime Simulator 3D
-    *   Army Force Strike: 3D Shooting Game Online Multiplayer
-    *   Super Buddy Kick
-    *   Pixel Gun Apocalypse 3
-    *   Short Life
-    *   Bomb It 6
-    *   Combat Reloaded
-    *   Gun Builder 2
-    *   Apple Shooter
-    *   Age of War
-*   Multiplayer
-    
-    Top Categories
-    
-    *   2 player
-    *   .io Games
-    *   Social Games
-    *   Qplay Games
-    *   Multiplayer War
-    *   MMO
-    *   Multiplayer Action 3D
-    *   Bomb It Games
-    
-    All Multiplayer Best Games
-    *   Ono Card Game
-    *   Fireboy and Watergirl 5: Elements
-    *   Subway Clash 3D
-    *   Fireboy &. Watergirl 2: The Light Temple
-    *   Pool Clash: 8 Ball Billiards Snooker
-    *   Gartic.io
-    *   Draw and Guess
-    *   Ludo 4 Players
-    *   Worms.Zone
-    *   Kogama: Escape from Prison
-    *   Army Force Strike: 3D Shooting Game Online Multiplayer
-    *   KOGAMA: Adopt a Son or Daughter and Form Your Family
-    *   Master Chess Multiplayer
-    *   Madalin Cars Multiplayer
 *   Shooting
     
     Top Categories
@@ -178,6 +122,62 @@ View more results
     *   Mr. Bullet
     *   Hunter 3D
     *   Winter Clash 3D
+*   Action
+    
+    Top Categories
+    
+    *   Fun Games
+    *   Boy Games
+    *   Flash Games
+    *   One player
+    *   Y8 Games
+    *   Friv Games
+    *   HTML5
+    *   Fighting
+    
+    All Action Best Games
+    *   Subway Clash 3D
+    *   CS Portable
+    *   Sniper Reloaded
+    *   Deer Hunter
+    *   Miami Crime Simulator 3D
+    *   Army Force Strike: 3D Shooting Game Online Multiplayer
+    *   Super Buddy Kick
+    *   Pixel Gun Apocalypse 3
+    *   Short Life
+    *   Bomb It 6
+    *   Combat Reloaded
+    *   Gun Builder 2
+    *   Apple Shooter
+    *   Age of War
+*   Multiplayer
+    
+    Top Categories
+    
+    *   2 player
+    *   .io Games
+    *   Social Games
+    *   Multiplayer War
+    *   Qplay Games
+    *   Multiplayer Action 3D
+    *   Bomb It Games
+    *   MMO
+    
+    All Multiplayer Best Games
+    *   Ono Card Game
+    *   Fireboy and Watergirl 5: Elements
+    *   Subway Clash 3D
+    *   Fireboy &. Watergirl 2: The Light Temple
+    *   Pool Clash: 8 Ball Billiards Snooker
+    *   Gartic.io
+    *   Draw and Guess
+    *   Ludo 4 Players
+    *   Worms.Zone
+    *   Kogama: Escape from Prison
+    *   Army Force Strike: 3D Shooting Game Online Multiplayer
+    *   KOGAMA: Adopt a Son or Daughter and Form Your Family
+    *   Master Chess Multiplayer
+    *   Madalin Cars Multiplayer
 *   Adventure
     
     Top Categories
@@ -185,10 +185,10 @@ View more results
     *   Scary Games
     *   Escaping
     *   Detective Games
-    *   Anime and Manga
     *   Horror Games
+    *   Anime and Manga
     *   Trollface Quest Games
-    *   Platform Games
+    *   Point &. Click
     *   Ninja Games
     
     All Adventure Best Games
@@ -214,11 +214,11 @@ View more results
         
     *   Puzzle
         
+    *   Shooting
+        
     *   Action
         
     *   Multiplayer
-        
-    *   Shooting
         
     *   Adventure
         
