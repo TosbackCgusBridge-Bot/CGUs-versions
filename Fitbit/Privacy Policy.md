@@ -18,13 +18,13 @@
     *   NOT SURE WHICH PRODUCT IS RIGHT FOR YOU?
     *   Take the Quiz
     
+    Mother's Day Sale
+    
     NEW
     
     Fitbit Charge 4™
     
     Fitbit Versa 2™
-    
-    Accessories
     
 *   TECHNOLOGY
     
