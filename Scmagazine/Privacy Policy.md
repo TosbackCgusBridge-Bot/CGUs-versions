@@ -280,23 +280,23 @@ Life as a CISO: A Q&A with Ray Espinoza of Cobalt.io
     *   Emailed
     *   Recent
     
-    *   Maze ransomware attack catches IT services firm Cognizant unawares
-    *   COVID-19 upends supply chain, 3rd-party risk rises
-    *   The Top 5 most common vulnerability remediation mistakes
-    *   GitHub users being hit with credential stealing phishing messages
-    *   Remote workers' lack of corporate firewalls blamed for rise in malicious device activity
+    *   Phishing campaign aims to steal Zoom credentials using fake layoff notifications
+    *   Nation-state hackers reportedly hunting for COVID-19 research
+    *   Cybersecurity snubbed in stimulus package
+    *   Eight-year-old zero day vulnerabilities found in iOS email app
+    *   Supreme Court takes on case that could modernize, redefine CFAA
     
-    *   Oracle wins Patch Tuesday rolling out 397 security fixes, 450 CVEs
-    *   Nintendo confirms 160,000 user accounts hacked
-    *   GitHub users being hit with credential stealing phishing messages
-    *   A call for women...
-    *   Clearview AI source code, facial recognition apps, data exposed
+    *   Details on 267M Facebook users sold for cheap on dark web
+    *   WHO confirms credentials leak included staff working on COVID-19 response
+    *   Texas judge OKs expanded mail-in voting during COVID-19 pandemic
+    *   U.S. offers up to $5M for info on North Korean cyber activity
+    *   APT32 actively spearphishing Chinese officials in a search for COVID-19 data
     
+    *   Cybersecurity snubbed in stimulus package
     *   COVID-19 by the numbers
     *   CNN, People, CNBC brands used in pandemic survival book scam
     *   Nintendo confirms 160,000 user accounts hacked
     *   Connecticut town drops drone program to combat COVID-19 spread over privacy concerns
-    *   WHO confirms credentials leak included staff working on COVID-19 response
 
 Back to Top
 
