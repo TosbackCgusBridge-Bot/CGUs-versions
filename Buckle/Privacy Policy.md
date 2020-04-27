@@ -1,10 +1,10 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Buy one, get one 25% Off select Affliction, American Fighter &. Hurley tees. shop now Buy one, get one 30% Off women’s regular priced swim. shop now $10 Off select women’s shorts. shop now Only $9.97, the women’s BKE Color Block V-Neck T-Shirt. shop now Due to concerns of COVID-19, we are closing all Buckle stores, effective March 17th. learn more >
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content New markdowns on the makings of a good outfit. save with style Celebrate your style with new favorites that just go together. shop new arrivals Due to concerns of COVID-19, we are closing all Buckle stores, effective March 17th. learn more >
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-Due to concerns of COVID-19, we are closing all Buckle stores, effective March 17th. learn more >
+Celebrate your style with new favorites that just go together. shop new arrivals
 
 *   Women
 *   Men
@@ -578,4 +578,6 @@ Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.
+  
+I am over the age of 13  
+View Privacy Policy
