@@ -280,17 +280,17 @@ Life as a CISO: A Q&A with Ray Espinoza of Cobalt.io
     *   Emailed
     *   Recent
     
-    *   Phishing campaign aims to steal Zoom credentials using fake layoff notifications
-    *   Nation-state hackers reportedly hunting for COVID-19 research
-    *   Cybersecurity snubbed in stimulus package
-    *   Eight-year-old zero day vulnerabilities found in iOS email app
-    *   Supreme Court takes on case that could modernize, redefine CFAA
+    *   Online leak undermines Torrance's claim that no personal data was affected by cyberattack
+    *   Ragnar Locker’s well-conceived ransomware attack on Energias de Portugal
+    *   Microsoft patches Word and Office 365 for Autodesk FBX library flaws
+    *   Cybersecurity should be No. 1 pick on NFL Draft Day
+    *   The Top 5 most common vulnerability remediation mistakes
     
-    *   Details on 267M Facebook users sold for cheap on dark web
-    *   WHO confirms credentials leak included staff working on COVID-19 response
     *   Texas judge OKs expanded mail-in voting during COVID-19 pandemic
-    *   U.S. offers up to $5M for info on North Korean cyber activity
-    *   APT32 actively spearphishing Chinese officials in a search for COVID-19 data
+    *   A 10-point plan for securing remote workers
+    *   Google patches another critical vulnerability in Chrome
+    *   Supreme Court takes on case that could modernize, redefine CFAA
+    *   The Top 5 most common vulnerability remediation mistakes
     
     *   Cybersecurity snubbed in stimulus package
     *   COVID-19 by the numbers
@@ -329,4 +329,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+
+You can skip this ad in 2 seconds.
