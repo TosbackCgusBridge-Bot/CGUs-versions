@@ -1,4 +1,4 @@
-Skip Main Navigation Menu Marriott Bonvoy
+Our Top Priority — Our Guests: COVID-19 update and extended cancellation policy Skip Main Navigation Menu Marriott Bonvoy
 
 *   *   English
 *   Help
@@ -13,7 +13,7 @@ Back
     
     Loading...
     
-    CLOSE
+            CLOSE
 *   Deals &. Packages
     
     Loading...
@@ -518,4 +518,4 @@ Loading...
 
 Terms of Use Program Terms &. Conditions Privacy Center Do Not Sell My Personal Information Digital Accessibility Site Map Help*   Loading...
     
-prod10,36CD8623-1740-5093-8F22-6BA22E930D6F
+prod10,86C62390-37D3-572E-99EC-72B4BF17DB0D
