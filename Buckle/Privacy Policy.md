@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Celebrate your style with new favorites that just go together. shop new arrivals
+New markdowns on the makings of a good outfit. save with style
 
 *   Women
 *   Men
