@@ -46,7 +46,7 @@ Visit Indeed
 
 **Privacy Policy**
 
-Last updated April 24, 2020
+Last updated April 27, 2020
 
 **Summary of Indeed’s Privacy Policy** **1\. Introduction**
 
@@ -337,7 +337,7 @@ When Job Seekers click on a job advertisement or apply for a job powered by Inde
 
 Indeed provides two-way message proxy and relay services to the users of our Indeed products (“Relay Service”), including, but not limited to: Indeed Resume, Indeed Apply, Post a Job, Indeed Chat, Indeed Onboarding, Indeed Text2Apply, Indeed Community, private calling, and other electronic communication services whether in the form of phone, text, video or audio. By utilizing any Relay Service, you acknowledge that you are asking Indeed to send these messages on your behalf. This includes your resumes, cover letters, applications, messages, questionnaire answers, responses, offer letters and other materials. Indeed may provide read receipts to the sender of a message through a Relay Service indicating that the recipient has viewed the message.
 
-We process, monitor, review, store and analyze such content, which may include Personal Data, including via automated means, for data analysis, quality control, enforcement of the Site Rules and other Indeed policies, content moderation, and to improve the Site or any other Indeed product or service. Examples of such improvements would be improving the open rate of messages by optimizing their delivery, optimizing our search results, improving Job Listings, permitting applicants to manage their applications after transmitting them to Indeed, ensuring you are provided with personally relevant product features and communications, and preventing fraud and spam. Some of this activity is performed on Indeed’s behalf by service providers, as described in Section 4.16 of this Privacy Policy. As a result of this activity, or due to technical malfunction, in certain circumstances such content may be delayed or may not be delivered to the intended recipient. Indeed may (but is not obligated to) notify you in such an event. By using a Relay Service or otherwise providing User Content through the Site, you agree to this activity and acknowledge that this activity is necessary for maintaining the quality of the Site and for providing the Relay Service.
+We process, monitor, review, store and analyze such content, which may include Personal Data, including via automated means, for data analysis, quality control, enforcement of the Site Rules and other Indeed policies, content moderation, and to improve the Site or any other Indeed product or service. Examples of such improvements would be improving the open rate of messages by optimizing their delivery, optimizing our search results, improving Job Listings, permitting applicants to manage their applications after transmitting them to Indeed, ensuring you are provided with personally relevant product features and communications, and preventing fraud and spam. Some of this activity is performed on Indeed’s behalf by service providers, as described in the section of this Privacy Policy titled ‘Transfers of Information to Service Providers’. As a result of this activity, or due to technical malfunction, in certain circumstances such content may be delayed or may not be delivered to the intended recipient. Indeed may (but is not obligated to) notify you in such an event. By using a Relay Service or otherwise providing User Content through the Site, you agree to this activity and acknowledge that this activity is necessary for maintaining the quality of the Site and for providing the Relay Service.
 
 **4.8 Sending You Text Messages About Employer Appointments**
 
@@ -567,9 +567,9 @@ If you believe your data protection rights have been infringed by Indeed, you ha
 
 **13\. Your California Privacy Rights**
 
-By availing yourself of the rights afforded in this section of our Privacy Policy, you are declaring that you are a California resident:
+By availing yourself of the rights afforded in this section of our Privacy Policy, you are declaring that you are a California resident.
 
-Other residents: You may make a verified request to Indeed regarding your Personal Data. While Indeed does not sell your Personal Data, you can nonetheless make a formal request to delete your Personal Data held by Indeed. This process is detailed in Section 10 of our Privacy Policy, which also describes the designated address information for making requests to Indeed regarding your Personal Data.
+All users may make a verified request to Indeed regarding their Personal Data. While Indeed does not sell your Personal Data, you can nonetheless make a formal request to delete your Personal Data held by Indeed. This process is detailed in Section 10 of our Privacy Policy, which also describes the designated address information for making requests to Indeed regarding your Personal Data.
 
 **13.1 The Right to Know Your Personal Data**
 
@@ -577,11 +577,11 @@ You have the right to request that we disclose the Personal Data we collect, use
 
 The following sections of our Summary of Indeed’s Privacy Policy explain the categories of Personal Data we collected over the past twelve (12) months (section 3), why we collected this information (section 4), and the third parties with which we shared it (section 5). 
 
-We also cover these topics more expansively in our Full Privacy Policy: sections 2.1-2.3 explain the categories of Personal Data we collect. sections 4, 5, and 9 explain the purposes for which we use your Personal Data. and sections 4.12 – 4.16, 8, 9 and 11 explain our disclosure of your Personal Data to third parties.
+We also cover these topics more expansively in our Full Privacy Policy: sections 2.1-2.3 explain the categories of Personal Data we collect. sections 4, 5, and 9 explain the purposes for which we use your Personal Data. and sections 4.15 – 4.19, 8, 9 and 11 explain our disclosure of your Personal Data to third parties.
 
 **13.2 The Right to Opt-out of the Sale of Your Personal Data**
 
-To learn more about Indeed’s approach to California’s “_Do not sell my personal information_” requirement, why it applies to your use of our Site, and how you can exercise this right, please go to https://www.indeed.com/legal/ccpa-dns. There, we explain how California has defined as “sales” under the CCPA certain transfers of Personal Data between Indeed and its affiliates that are integral to the products and services we offer to our users. We do **not** “sell” your Personal Data in the traditional sense. More information on Indeed’s affiliates and our inter-affiliate transfers can be found in our Privacy Center at https://hrtechprivacy.com/.
+To learn more about Indeed’s approach to California’s “_Do not sell my personal information_” requirement, why it applies to your use of our Site, and how you can exercise this right, please go to https://www.indeed.com/legal/ccpa-dns. There, we explain how California has defined as “sales” under the California Consumer Protection Act (the “CCPA”) certain transfers of Personal Data between Indeed and its affiliates that are integral to the products and services we offer to our users. We do **not** “sell” your Personal Data in the traditional sense. More information on Indeed’s affiliates and our inter-affiliate transfers can be found in our Privacy Center at https://hrtechprivacy.com.
 
 Under California’s “_Shine the Light_” law (Civil Code section 1798.83), California residents have certain rights regarding the disclosure of their Personal Data to third parties for their own direct marketing purposes. Indeed’s policy is not to disclose your Personal Data to third parties for the third parties’ direct marketing purposes if you have exercised your option to prevent that information from being disclosed to third parties for those purposes. If you wish to not have your personal information shared for those purposes, you may request that we delete your Personal Data by following the steps outlined in Section 10 of this Privacy Policy.
 
