@@ -1,6 +1,6 @@
-Our COVID-19 response  DetailsLast Day! EXTRA 25% OFF $100+ with code: JCPSHOP3 Details  
-EXTRA 20% OFF under $100 with code: JCPSHOP3 Details  
-Free Shipping Over $49  DetailsOur COVID-19 response  DetailsLast Day! EXTRA 25% OFF $100+ with code: JCPSHOP3 Details  
+Our COVID-19 response  DetailsEXTRA 25% OFF $75 or more with code: GIFTMOM Details   
+EXTRA 20% OFF under $75 with code: GIFTMOM Details Order by 12PM 4/30 to get it by Mother’s Day! Details  
+Our COVID-19 response  DetailsEXTRA 25% OFF $75 or more with code: GIFTMOM Details   
 
 Enable Accessibility
 
@@ -21,52 +21,57 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-$14.99 Women'sSt. John's Bay Shortsselect styles$14.99Liz Claiborne Top$19.99AmbrielleRobe &. Chemise Set  
-  
-65% OFFGold Jewelryselect styles$10.99 Babies' Carter'sBodysuit Setselect styles$7.99Liz ClaiborneBath Towel$89.99Cooks Contour Belly 10pc. Cookware Set$15.99 Men's St. John's Bay ShortsOn every mom's list...Spoil her with sparkle &. scents.UP TO 70% OFF Jewelry Giftsafter EXTRA 25% OFF\* with code **JCPSHOP3** | select stylesFragrance at Sephora inside JCPenneyExcluded from coupons.Morning, Sunshine!**SAVE ON**select home &kitchen essentials  
-Shop AllSmall ElectricsCookwareCoffee MakersBakewareUP TO40% OFF HomeFinishing touches breathe lifeinto your space.  
-Shop AllBeddingWindowRugsDecorShe can't be beatGear up and get movin' with Mom.  
-Shop AllTreat yourself to something new!Select spring faves from a.n.a &. St. John's Bay, starting at $5.99a.n.aSt. John's BayLearn More Shop Gift CardsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+Take-The-Cake GiftsNo-Sweat GiftsMe-Time GiftsMovie Night With MomOn every mom's list...Spoil her with sparkle &. scents.UP TO 70% OFF Jewelry Giftsafter EXTRA 25% OFF\* with code **GIFTMOM** | select stylesFragrance at Sephora inside JCPenneyExcluded from coupons.Morning, Sunshine!**UP TO 30% OFF  
+**Everything you need to treat Mom to breakfast in bed  
+Shop AllSmall ElectricsCookwareCoffee MakersBakewarePatio PicnicTreat yourself Elevate your spirits with fresh, new styles.Shop AllLiz Claiborne Dressesa.n.a TopsFashion JewelrySandalsPamper MomSpecial gifts to help her relax.  
+Shop GiftsPajamas &. RobesSpa &. RelaxationHaircareSkincare atSephora inside JCPenneyUP TO 40% OFF All Liz Claiborne
+
+*   Shop Now
+
+*   Apparel
+    
+*   Sandals
+    
+*   Pajamas &. Robes
+    
+*   Fashion Jewelry
+    
+*   Handbags
+    
+*   Bath Towels
+    
+
+Shop NowUP TO40% OFF HomeFinishing touches breathelife into your space.  
+Shop AllBeddingWindowRugsDecorLearn More Shop Gift CardsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Home Expressions Solid or Stripe Bath Towel Collection $2.39 - $15.99with code~$6 - $48~531
-*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $10.40with code22
-*   Liz Claiborne Luxury Egyptian Hygrocotton Loops Bath Towel $6.39 - $43.99with code~$16 - $124~124
-*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
+*   Liz Claiborne Womens 2-pc. Capri Pajama Set Short Sleeve Crew Neck $15.99with code~$34~
+*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $4.79 - $30.39with code~$10 - $72~1682
+*   a.n.a Womens V Neck Sleeveless Tank Top $7.19 - $7.99with code~$13~8
+*   Nike Air Max Motion 2 Womens Running Shoes
     
-    $20sale
+    $85 - $90
     
-    ~$124.98~181
-*   Nike® Tanjun Womens Running Shoes
+    16
+*   St. John's Bay-Womens Crew Neck Short Sleeve T-Shirt $6.39 - $11.20with code29
+*   a.n.a Womens Scoop Neck Short Sleeve T-Shirt
     
-    $65
+    $3.79 - $9.99sale
     
-    150
-*   Nike Revolution 5 Womens Running Shoes
-    
-    $65
-    
-    13
+    ~$13 - $19~382
 
 Sponsored Items
 
-*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $24with code
-*   Lee® Plain Front Relaxed All Day Twill Pant $19.99 - $23.99with code~$44~783
-*   Range Kleen Full Size Oven Liner $14.39with code~$19~
-*   Serta Icomfort Blue Fusion 100 Firm Tight-Top Hybrid Mattress $459 - $1398.99with code~$1,480 - $3,420~163
-*   Beautyrest ® BR800™ Medium - Mattress Only $279 - $439with code~$1,200 - $1,650~3
-*   GreenPan Rio Non-Stick Frying Pan
-    
-    $39.99sale
-    
-    ~$70~1
-*   Farberware Cookstart 15-pc. Cookware Set $71.99with code~$120~61
 *   Fisher-Price Laugh &. Learn Click &. Learn Laptop
     
     $14.99
     
     10
-*   Google Nest Hello Video Doorbell $206.10with code356
+*   Lee® Wrinkle Free Relaxed Straight Leg Pant $23.99with code~$44~17
+*   Range Kleen Full Size Oven Liner $14.39with code~$19~
+*   Serta® Sleeptrue® Lindridge Firm - Mattress Only $359 - $588.99with code~$1,000 - $1,750~4
+*   Beautyrest ® BR800™ Medium - Mattress Only $378.99 - $539with code~$1,200 - $1,650~3
+*   Google Nest Hello Video Doorbell $206.10with code357
 *   Rachael Ray Create Delicious 11-Pc. Cookware Set
     
     $179.99sale
@@ -77,27 +82,22 @@ Sponsored Items
     $459.99sale
     
     ~$539~243
+*   Farberware Cookstart 15-pc. Cookware Set $67.49with code~$120~61
+*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $24with code
 *   Google Nest Cam IQ Indoor Security Camera 2-Pack $448.20with code26
-*   Samsung Galaxy Active 2 40mm Womens Multi-Function Rose Goldtone Smart Watch-Sm-R830nzdaxar
+*   Samsung Galaxy Fit Womens Multi-Function White Smart Watch-Sm-R370nzsaxar
     
-    $229.99sale
+    $69.99sale
     
-    ~$279.99~24
-*   Beautyrest ® BR800™ Firm - Mattress Only $333.99 - $513.99with code~$1,300 - $2,000~33
-*   Serta® Sleeptrue® Lindridge Firm - Mattress Only $308.99 - $539with code~$1,000 - $1,750~4
-*   Fisher-Price Linkimals Smooth Moves Sloth
-    
-    $29.99
-    
-    34
-*   Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set
-    
-    $189.99sale
-    
-    ~$240~192
-*   Lee® Flex Motion Straight Leg Pant $23.99with code~$50~36
-*   Lee® Relaxed All Day Pant - Plus $22.39with code~$48~534
+    ~$99.99~33
+*   Beautyrest ® BR800™ Firm - Mattress Only $408.99 - $639with code~$1,300 - $2,000~33
+*   Lee® Relaxed Fit Straight Leg Jeans - Plus $26.39with code~$48~554
+*   Serta Icomfort Blue Fusion 100 Firm Tight-Top Hybrid Mattress $459 - $1398.99with code~$1,480 - $3,420~163
 *   Lock &. Lock 10-pc. Food Container $32with code
+*   Lee® Flex Motion Straight Leg Pant $27.99with code~$50~36
+*   Lee® Relaxed All Day Pant- Tall $26.39with code~$48~110
+*   Lee® Plain Front Relaxed All Day Twill Pant $23.99with code~$44~783
+*   Lee® Flex Motion Straight Leg Pant- Tall $27.99with code~$50~23
 
 Shop and Save at JCPenney
 
