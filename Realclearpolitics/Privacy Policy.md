@@ -29,7 +29,7 @@
     *   RCP National Average
     *   Latest Betting Odds
     *   Electoral College Map
-    *   General Election Polls
+    *   President Polls
     *   Election Calendar
     *   Senate Polls
     *   Governor Polls
@@ -73,7 +73,7 @@
         *   RCP National Average
         *   Latest Betting Odds
         *   Electoral College Map
-        *   General Election Polls
+        *   President Polls
         *   Election Calendar
         *   Senate Polls
         *   Governor Polls
