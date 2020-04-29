@@ -280,23 +280,23 @@ Life as a CISO: A Q&A with Ray Espinoza of Cobalt.io
     *   Emailed
     *   Recent
     
-    *   The Top 5 most common vulnerability remediation mistakes
-    *   Emotet banking trojan possibly being prepped for a new attack
-    *   A 10-point plan for securing remote workers
-    *   23 million Webkinz login credentials found on the dark web
-    *   APT32 actively spearphishing Chinese officials in a search for COVID-19 data
-    
-    *   Details on 267M Facebook users sold for cheap on dark web
-    *   Researchers see a boom in Zoom domains, stolen accounts
-    *   Smart TVs spoofed to deliver billions of fake ad impressions
-    *   The Top 5 most common vulnerability remediation mistakes
     *   Online leak undermines Torrance's claim that no personal data was affected by cyberattack
+    *   A call for women...
+    *   GitHub users being hit with credential stealing phishing messages
+    *   More CFOs feeling the heat with ransomware
+    *   20M Aptoide accounts exposed by leak on hacker forum
     
-    *   Sophos victimized by a zero-day in its XG Firewall product
     *   Cyberattack strikes down Colorado’s Parkview Medical Center
-    *   The quick and the breached: Futureproofing security operations
-    *   Israeli cyber defenders warn of attacks on water supply
-    *   Cybersecurity snubbed in stimulus package
+    *   Ragnar Locker’s well-conceived ransomware attack on Energias de Portugal
+    *   Clearview AI source code, facial recognition apps, data exposed
+    *   Microsoft Teams vulnerability patched, could lead to account takeover
+    *   Maze ransomware attack catches IT services firm Cognizant unawares
+    
+    *   ExecuPharm employee info compromised following reported ransomware attack
+    *   Shade ransomware gang gives up keys, apologizes to victims
+    *   COVID-19's impact on package deliveries creates golden opportunity for scammers
+    *   Microsoft Teams vulnerability patched, could lead to account takeover
+    *   Google, Apple tighten protections on contact tracing. Americans worry over privacy
 
 Back to Top
 
@@ -329,6 +329,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
 You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
