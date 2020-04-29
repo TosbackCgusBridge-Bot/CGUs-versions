@@ -27,7 +27,7 @@ Skip to main content
 
 Internet Acceptable Use Policy Acceptable Use Policy
 
-Effective March 2, 2020
+Effective April 29, 2020
 
 Important Note: Sparklight™, may revise this Acceptable Use Policy from time to time without notice by editing the information on this page. Accordingly, users of the Sparklight residential services should consult this page regularly to ensure that their activities conform to the most recent version. In the event of a conflict between any subscriber agreement and this policy, the terms of this policy will govern. Questions regarding this policy can be directed to legal@cableone.net. Complaints of violations of this policy by Sparklight users can be directed to abuse@cableone.net. Visit http://www.Sparklight.com/legal/open-internet to review Sparklight's Network Management Disclosure Statement.
 
@@ -154,6 +154,16 @@ Names, speeds, and data plans are subject to change
 
 Customers on Plus Internet service plans in these communities do not have designated data plans assigned to the levels of service subscribed. However, customers on these Internet service plans who use more than 5TB of data during a data period may be subject to speed reductions for the remainder of their data period.
 
+Customers on Freedom Connect Internet service plans (available in select areas only).
+
+Internet Service Plan Name Data Plan Freedom Connect 300 Unlimited Freedom Connect 600 Unlimited Freedom Connect Gig Unlimited
+
+Names, speeds, and data plans are subject to change
+
+**Data Policy**
+
+\*Customers on unlimited data plans who use more than 5TB of data during a data period may be subject to speed reductions for the remainder of their data period.
+
 **How does Sparklight address Excessive Use or uncharacteristic use?**
 
 The Sparklight residential service offering is a consumer product designed for personal use of the Internet. Therefore, if Sparklight in its sole but reasonable discretion determines that a customer has exceeded the Excessive Use threshold or is using the Service in a manner significantly uncharacteristic of a typical residential user, Sparklight reserves the right to (a) adjust, suspend or terminate Service accounts at any time and without notice. or (b) require the user to upgrade his service level or pay additional fees in accordance with Sparklight's then-current, applicable rates and charges for such Service. or (c) use any technology to be chosen by Sparklight at its sole discretion to slow the user's service for purposes of conserving bandwidth and/or (d) require customers to utilize a specific modem(s) that provide efficient use of the network. .
@@ -267,5 +277,3 @@ More
 *   Sparklight Remote Connect
 
 Copyright 2020, Sparklight . All Rights Reserved. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1676078032639904&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=429775174175430&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=655713804869086&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1479184562239549&amp;ev=PageView&amp;noscript=1">.
-
-BESbswy
