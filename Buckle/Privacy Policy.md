@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-New markdowns on the makings of a good outfit. save with style
+Due to concerns of COVID-19, we are closing all Buckle stores, effective March 17th. learn more >
 
 *   Women
 *   Men
