@@ -28,9 +28,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive up to 50% off your order!
+Receive 40% off your order!
 
-code: SWEET pin: PROMOTION DETAILS
+code: PEACH pin: PROMOTION DETAILS
 
 Customer Service Menu
 
