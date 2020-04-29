@@ -1,34 +1,39 @@
-DER SPIEGEL Der Spiegel Der Spiegel Anmelden Pfeil nach rechts Abmelden Pfeil nach rechts Icon: Spiegel Icon: Warnung Leider konnten wir einen Cookie nicht abspeichern, der zur Nutzung unserer Seite nötig ist. Ist Ihr Computer über ein Unternehmensnetzwerk verbunden? Wir raten Ihnen, bei Ihrer IT-Abteilung um eine Ausnahmeregel für DER SPIEGEL zu bitten. Haben Sie eine Browser-Erweiterung oder den Browser so konfiguriert, dass das Setzen von Cookies verboten ist? Bitte fügen Sie eine Ausnahmeregel für DER SPIEGEL hinzu.  
-Falls Sie weiterhin Probleme haben, finden Sie hier mehr Informationen. Herzlich willkommen! Weiter mit Werbung lesen
+DER SPIEGEL Der Spiegel Der Spiegel Anmelden Pfeil nach rechts Abmelden Pfeil nach rechts Icon: Spiegel Icon: Warnung We were unfortunately unable to place the cookie that is necessary for the use of our site. Is your computer connected to the internet through a company network? We recommend that you ask your IT department for an exception for DER SPIEGEL content. Have you configured a browser extension or the browser itself such that cookies are blocked? Please add DER SPIEGEL to your list of exceptions.  
+Should you continue to have problems, you can find more information here. Welcome! Continue reading with advertisements
 
-Nutzen Sie unsere Seite wie gewohnt mit Werbung und Tracking (Zustimmung ist jederzeit widerrufbar)
+You may read our site as usual with advertisements and tracking (you may revoke your consent at any time).
 
-Akzeptieren Pfeil nach rechts
+Accept Pfeil nach rechts
 
-Details zu Werbe- und Analyse-Trackern in unserer Datenschutzerklärung
+Details about ad and analysis tracking can be found in our data privacy statement
 
-... oder PUR-Abo abschließen
+… or you can sign up for a PUR subscription
 
-Nutzen Sie uns ohne Werbetracking, nahezu ohne Werbung. €4,99/Monat, für Kunden von SPIEGEL+ €1,99.
+Read our site without ad tracking and almost completely devoid of advertising for €4.99/month. Customers of SPIEGEL+ pay just €1.99.
 
-Nutzen Sie unsere Seite ohne Werbetracking, nahezu ohne Werbung.  
-€4,99 monatlich
+Read the site free of ad tracking and almost completely free of advertising. €4.99 per month.
 
-mehr zum PUR-Abo PUR-Abo kaufen Pfeil nach rechts
+More on PUR (sign-up in German) Purchase PUR subscription Pfeil nach rechts
 
-Details zum PUR-Abo finden Sie hier.
+Read more about PUR here.
 
-Sie haben das PUR-Abo soeben erfolgreich gekauft? Dann laden Sie diese Seite bitte neu oder schließen Sie bitte dieses Fenster!
+You have already purchased a PUR subscription? Then reload the page or close this window.
 
-Bereits PUR-Abonnent? Hier anmelden.
+Already a PUR subscriber? Log in here.
 
-Bereits PUR-Abonnent, aber mit einem anderen Nutzer-Konto? Hier abmelden.
+You already subscribe to PUR but under a different user account? Log off here.
 
-Sie sind bereits Abonnent? Bitte schließen Sie dieses Fenster, um sich anzumelden.
+You already subscribe to PUR? Please close this window to log on.
 
-iTunes Abo wiederherstellen
+Reactivate iTunes subscription
 
-Das PUR-Abo wird über Ihren iTunes-Account abgewickelt und mit Kaufbestätigung bezahlt. 24 Stunden vor Ablauf verlängert sich das Abo automatisch um einen Monat zum Preis von zurzeit €4,99. In den Einstellungen Ihres iTunes-Accounts können Sie das Abo jederzeit kündigen. Um das PUR-Abo außerhalb dieser App zu nutzen, müssen Sie das Abo direkt nach dem Kauf mit einem SPIEGEL-ID-Konto verknüpfen. Mit dem Kauf akzeptieren Sie unsere Allgemeinen Geschäftsbedingungen und unsere Datenschutzerklärung .
+PUR subscriptions are processed via your iTunes account and are paid for via purchase confirmation. Twenty-four hours before expiration, the subscription automatically renews for an additional month at the current price of €4.99. In your iTunes account settings, you can cancel your subscription at any time. To use your PUR subscription outside of this app, you must link your subscription with your SPIEGEL ID-account immediately after purchase. By purchasing a PUR subscription, you are accepting our General Terms &. Conditions and our Data Privacy statement .
+
+*   Imprint
+*   Privacy Policy
+*   General Terms and Conditions
+
+*   Zur deutschen Seite wechseln
 
 *   Impressum
 *   Datenschutz
