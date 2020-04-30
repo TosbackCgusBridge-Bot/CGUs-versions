@@ -1447,6 +1447,7 @@ Helpful Links
 *   Safety Recalls &  
     Service Campaigns
 *   Dealers
+*   Deals and Incentives
 *   Toyota Financial Services
 *   ToyotaCare
 *   Toyota Safety Sense™
