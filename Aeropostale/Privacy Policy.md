@@ -139,6 +139,8 @@ Close submenu ( Aero World ) Aero World
 *   Sina
 *   Winter
 
+*   Eco-Friendly
+
 Close submenu ( New Arrivals ) New Arrivals
 
 *   View Home
@@ -325,6 +327,8 @@ Menu Find a Store Aeropostale
     *   Sina
     *   Winter
     
+    *   Eco-Friendly
+    
 *   New Arrivals
     
     *   View Home
@@ -398,6 +402,8 @@ precautionary measures in our warehouse to ensure the health and safety of
 our customers and associates. Because of this your shipment may experience  
 delays. Thank you for your patience and understanding. Learn More &. Stay Safe
 
+ENDS TODAY!
+
 60% or  
 More  
 Off  
@@ -406,16 +412,17 @@ Everything!
 60% or More  
 Off Everything!
 
+\*Exclusions Apply
+
 Shop Girls Shop Guys
 
 \*Exclusions Apply
 
-\*Exclusions Apply
+Here today. Gone Tomorrow. **LAST CHANCE** For Best Prices On Aero Shorts &. Tees!
 
-Summer Refresh: Aero Shorts &. Tees That Feel Like Summer at **Our Best Prices of The Season!**
-
-Summer Refresh: Aero Shorts &. Tees at  
-**Our Best Prices of The Season!**
+Here Today. Gone Tomorrow.  
+**LAST CHANCE** For Best Prices  
+On Aero Shorts &. Tees!
 
 Cute &.  
 Cozy
