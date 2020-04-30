@@ -333,6 +333,7 @@ Support
 *   FAQs
 *   Contact Patch
 *   Community Guidelines
+*   Posting Instructions
 
 *   Patch Network
 *   Terms of Use
