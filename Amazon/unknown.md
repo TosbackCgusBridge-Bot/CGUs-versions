@@ -1,6 +1,6 @@
 Find more solutions
 
-Go Amazon Device Support  › Fire TV Support › Terms and Conditions on Fire TV› Amazon Services Terms of Use
+Go Amazon Device Support  › Fire TV Support › Terms &. Conditions› Amazon Services Terms of Use
 
 **Last updated: 4 September, 2019**
 
