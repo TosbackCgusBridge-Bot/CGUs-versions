@@ -29,6 +29,7 @@ I ACCEPT Close <div class="noscript-message">In order to view this page correctl
         *   Encryption
         *   Secure Public Wi-Fi
         *   Online Banking
+        *   No Log Policy
 *   Download
 *   Help
 *   My account
@@ -117,6 +118,7 @@ Learn about VPN
 *   Blog
 *   Watch BBC iPlayer with HMA
 *   Streaming with HMA VPN
+*   No Log Policy
 
 Help
 
