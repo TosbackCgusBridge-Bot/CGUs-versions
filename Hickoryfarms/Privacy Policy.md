@@ -14,7 +14,8 @@ close
     *   Thank You Gifts
     *   Congratulations
     *   Thinking of You
-    *   Sympathy GiftsMost Popular New! California Gift Baskets
+    *   Sympathy Gifts
+    *   Care PackagesMost Popular New! California Gift Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Cheese Gifts
@@ -81,7 +82,8 @@ close
     *   Thank You Gifts
     *   Congratulations
     *   Thinking of You
-    *   Sympathy GiftsMost Popular Mother's Day Gifts Gifts for All Occasions
+    *   Sympathy Gifts
+    *   Care PackagesMost Popular Mother's Day Gifts Gifts for All Occasions
 *   Business Gifts
     View All Categories Shop by Category*   Thank You Gifts
     *   Birthday Gifts
@@ -107,7 +109,8 @@ close
     *   Thank You Gifts
     *   Congratulations
     *   Thinking of You
-    *   Sympathy GiftsMost Popular New! California Gift Baskets
+    *   Sympathy Gifts
+    *   Care PackagesMost Popular New! California Gift Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Cheese Gifts
@@ -174,7 +177,8 @@ close
     *   Thank You Gifts
     *   Congratulations
     *   Thinking of You
-    *   Sympathy GiftsMost Popular Mother's Day Gifts Gifts for All Occasions
+    *   Sympathy Gifts
+    *   Care PackagesMost Popular Mother's Day Gifts Gifts for All Occasions
 *   Business Gifts
     View All Categories Shop by Category*   Thank You Gifts
     *   Birthday Gifts
