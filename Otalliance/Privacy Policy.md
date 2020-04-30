@@ -1,4 +1,4 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5LKZWMW" height="0" width="0" style="display:none;visibility:hidden"></iframe>. icon-1-darkicon-1-darkicon-1-lighticon-2-darkicon-2-lighticon-3-darkicon-3-lighticon-4-darkicon-4-lighticon-5-darkicon-5-lighticon-6-darkicon-6-lighticon-7-darkicon-7-lighticon-8-darkicon-8-lighticon-9-darkISOC-IconISOC-IconISOC-IconShapeISOC-IconISOC-IconISOC-IconPage 1icon-comma-darkicon-comma-lightFill 1ISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconShapeISOC-IconISOC-IconISOC-IconBLOCKSISOC-IconISOC-IconISOC-IconISOC-IconLISTISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconLEFTISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconShapeDOWN ARROWSEARCHISOC-IconISOC-IconISOC-IconISOC-IconISOC-IconISOC-Icon-Dark-RGBISOC-Society-logoisoc-logo Member Login
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5LKZWMW" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Member Login
 
 *   The Internet
     *   About the Internet
@@ -106,7 +106,7 @@ At the Internet Society, we believe that encryption is an essential part of the 
 *   es
 *   More languages
 
-Donate Donate Online Trust Alliance (OTA) OTA Home Publications Best Practices IoT Committees All Resources
+Donate ×search  Donate Online Trust Alliance (OTA) OTA Home Publications Best Practices IoT Committees All Resources
 
 <img class="post-img post-img-right 3750 alignright" src="https://www.internetsociety.org/wp-content/uploads/2017/08/ota-logo-976px-300x104.png" alt="" width="300" height="104" />The Internet Society’s Online Trust Alliance (OTA) identifies and promotes security and privacy best practices that build consumer confidence in the Internet. Leading public and private organizations, vendors, researchers, and policymakers contribute to and follow OTA’s guidance to help make online transactions safer and better protect users’ data. **OTA Goals:**
 
