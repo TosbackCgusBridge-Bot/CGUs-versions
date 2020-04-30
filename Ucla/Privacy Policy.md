@@ -106,7 +106,7 @@ If you provided UCLA with personal information, you may review and update that i
 
 Opt Out Option and Correcting Your Information
 
-You may opt out of receiving promotional emails and SMS messages from UCLA at any time by visiting http://www.ucla.edu/preferences and changing your communication preferences. To opt out of SMS messages, you can also text UCLASTOP from the cell phone that you have registered with UCLA. In addition, you can opt out of receiving emails by following the instructions in those emails, but note that we may still send you non-opted-in emails, such as emails about your account or our ongoing business or academic relations. You may also request changes to your contact preferences and the personal information by writing to:
+You may opt out of receiving promotional emails and SMS messages from UCLA at any time by visiting https://www.ucla.edu/preferences and changing your communication preferences. To opt out of SMS messages, you can also text UCLASTOP from the cell phone that you have registered with UCLA. In addition, you can opt out of receiving emails by following the instructions in those emails, but note that we may still send you non-opted-in emails, such as emails about your account or our ongoing business or academic relations. You may also request changes to your contact preferences and the personal information by writing to:
 
 UCLA Records Management Office | 10920 Wilshire Blvd, Suite 530 | Los Angeles, CA 90095
 
