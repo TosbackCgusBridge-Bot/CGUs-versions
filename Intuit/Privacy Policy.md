@@ -1,13 +1,13 @@
-Our COVID-19 response  DetailsEXTRA 25% OFF $75 or more with code: GIFTMOM Details   
-EXTRA 20% OFF under $75 with code: GIFTMOM Details Order by 12PM 4/30 to get it by Mother’s Day! Details  
-Our COVID-19 response  DetailsEXTRA 25% OFF $75 or more with code: GIFTMOM Details   
+Our COVID-19 response  DetailsEXTRA 30% OFF ends 5/6 with code: 4FAMILY Details  
+Order by 12PM 4/30 to get it by Mother’s Day! Details  
+Our COVID-19 response  DetailsEXTRA 30% OFF ends 5/6 with code: 4FAMILY Details  
 
 Enable Accessibility
 
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed. Weekly Ads Mother’s Day Jewelry SaleValid Apr 13th - May 10thEngagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   My Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   Mother's Day &. Trending
 *   Home &. Lifestyle
@@ -21,10 +21,8 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-UP TO 70% OFF Jewelry Giftsafter EXTRA 25% OFF\* with code **GIFTMOM** | select stylesFragrance at Sephora inside JCPenneyExcluded from coupons.Morning, Sunshine!**UP TO 30% OFF  
-**Everything you need to treat Mom to breakfast in bed  
-Shop AllSmall ElectricsCookwareCoffee MakersBakewareTreat YourselfUP TO 40% OFF Fresh New Looks  
-Shop AllLiz Claiborne Dressesa.n.a TopsFashion JewelrySandalsUP TO 40% OFF All Liz Claiborne
+UP TO 70% OFF Jewelry Giftsafter EXTRA 25% OFF\* with code **MOMGEM**| select stylesFragrance at Sephora inside JCPenneyExcluded from coupons.UP TO50% OFFCloset casual classics for warmer temps.  
+Shop All Casual ApparelWomen's TopsMen's ShortsWomen's JeansGirls' ShirtsUP TO 40% OFF All Liz Claiborne
 
 *   Shop Now
 
@@ -41,29 +39,16 @@ Shop AllLiz Claiborne Dressesa.n.a TopsFashion JewelrySandalsUP TO 40% OFF All L
 *   Bath Towels
     
 
-Shop NowPamper MomSpecial gifts to help her relax.  
-Shop GiftsPajamas &. RobesSpa &. RelaxationHaircareSkincare atSephora inside JCPenney25% OFF Nike, Champion &. adidasShop brands that are built to last. Select styles. Excluded from coupons.   UP TO40% OFF HomeFinishing touches breathelife into your space.  
-Shop AllBeddingWindowRugsDecorLearn More Shop Gift CardsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+Shop Now25% OFF Nike, Champion &. adidasShop brands that are built to last. Select styles. Excluded from coupons.   Get in gear! Outdoor essentials to beat the heat—and your goals. Active WatchesSunscreen atSephora inside JCPenneyRefresh yourroomsUP TO 40% OFF!select styles  
+Shop All HomeSheetsCurtains, Blinds &. ShadesBeddingPillowsLearn More Shop Gift CardsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Home Expressions Solid or Stripe Bath Towel Collection $2.39 - $15.99with code~$6 - $48~532
-*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $10.40with code22
-*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
-    
-    $20sale
-    
-    ~$124.98~181
-*   Serta® Special Edition II Plush - Mattress Only $228.99 - $398.99with code~$625 - $1,050~
-*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
-    
-    $20sale
-    
-    ~$124.98~129
-*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver
-    
-    $20sale
-    
-    ~$124.98~133
+*   Home Expressions Microfiber Plus Ultra Soft Easy Care Wrinkle Resistant Sheet Set $9.09 - $20.99with code~$26 - $60~1693
+*   Liz Claiborne Womens 2-pc. Capri Pajama Set Short Sleeve Crew Neck $13.99with code~$34~
+*   St. John's Bay-Womens Crew Neck Short Sleeve T-Shirt $5.59 - $9.80with code29
+*   Home Expressions Solid or Stripe Bath Towel Collection $2.09 - $13.99with code~$6 - $48~532
+*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $4.19 - $26.59with code~$10 - $72~1682
+*   Liz Claiborne Signature Plush Bath Towel Collection $4.89 - $31.49with code~$12 - $96~534
 
 Sponsored Items
 
@@ -71,58 +56,62 @@ Sponsored Items
     
     $499
     
-    26064
-*   Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set
-    
-    $189.99sale
-    
-    ~$240~192
-*   Serta® Sleeptrue® Lindridge Firm - Mattress Only $359 - $588.99with code~$1,000 - $1,750~4
-*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
-    
-    $14.99
-    
-    10
-*   Beautyrest ® BR800™ Firm - Mattress Only $408.99 - $639with code~$1,300 - $2,000~33
-*   Range Kleen Full Size Oven Liner $14.39with code~$19~
-*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $24with code
-*   Farberware Cookstart 15-pc. Cookware Set $67.49with code~$120~61
-*   Google Nest Cam IQ Indoor Security Camera 2-Pack $448.20with code26
-*   Lee® Relaxed All Day Pant - Plus $26.39with code~$48~534
+    26111
+*   Emeril Lagasse Quarter Womens Sneakers $49with code4
 *   Serta Icomfort Blue Fusion 100 Firm Tight-Top Hybrid Mattress $459 - $1398.99with code~$1,480 - $3,420~163
-*   Dyson® Ball Multi Floor 2 Upright Vacuum
+*   Serta® Sleeptrue® Lindridge Firm - Mattress Only $359 - $588.99with code~$1,000 - $1,750~4
+*   Beautyrest ® BR800™ Firm - Mattress Only $408.99 - $639with code~$1,300 - $2,000~33
+*   Lee Womens Mid Rise Straight Flat Front Pant
     
-    $459.99sale
+    $10.99clearance
     
-    ~$539~243
-*   Google Nest Hello Video Doorbell $206.10with code357
-*   Samsung Galaxy Fit Mens Multi-Function Black Smart Watch-Sm-R370nzkaxar
-    
-    $69.99sale
-    
-    ~$99.99~33
-*   Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit) $23.99with code~$44~628
+    ~$44~20
 *   Fisher-Price Classic Xylophone
     
     $15.99
     
     7
-*   Fisher-Price Laugh &. Learn Smart Stages Sis
+*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
     
-    $19.99
+    $14.99
     
-    48
+    10
+*   Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set
+    
+    $189.99sale
+    
+    ~$240~192
 *   Fisher-Price Linkimals Smooth Moves Sloth
     
     $29.99
     
     34
+*   Range Kleen Full Size Oven Liner $12.59with code~$19~
+*   Fisher-Price Laugh &. Learn Smart Stages Sis
+    
+    $19.99
+    
+    48
+*   Fisher-Price Linkimals A To Z Otter
+    
+    $19.99
+    
+    23
+*   Google Nest Hello Video Doorbell $206.10with code357
+*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $21with code
+*   Lee® Sculpting Pull On Womens Mid Rise Slim Fit Jean $20.99with code~$44~46
+*   Fisher-Price Laugh &. Learn Smart Stages Puppy
+    
+    $19.99
+    
+    59
+*   Lock &. Lock 10-pc. Food Container $28with code
+*   Range Kleen 4-Pack Drip Bowls $17.49with code~$34~
 *   Rachael Ray Create Delicious 11-Pc. Cookware Set
     
     $179.99sale
     
     ~$300~17
-*   Lee® Plain Front Relaxed All Day Twill Pant $23.99with code~$44~783
 
 Shop and Save at JCPenney
 
