@@ -134,12 +134,20 @@ Lenovo Explore Close
         *   Low monthly payments
         *   Price Match Guaranteed
         
-        *   Accessories
-        *   Docks
-        *   Chargers &. Batteries
-        *   Mice &. Keyboard
-        *   Cases &. Bags
+        *   Explore Accessories
         *   Cables &. Adapters
+        *   Cases &. Bags
+        *   Chargers &. Batteries
+        *   Docks
+        *   Furniture
+        *   Headsets &. Headphones
+        
+        *   Explore Accessories
+        *   Keyboards &. Mice
+        *   Memory &. Storage
+        *   Pens &. Supplies
+        *   Printers
+        *   Wireless &. Networking
         *   View All Accessories
         
         *   Software
@@ -151,19 +159,12 @@ Lenovo Explore Close
         *   View All Software
         
         *   Quick Links
-        *   Accessory Deals
-        *   Electronics Deals
+        *   Home Office Solutions
+        *   New Arrivals
         *   Gaming Accessories
+        *   Accessory Bundles
         *   Student Accessories
-        *   Small Business Accessories
-        *   Compatibility Finder
-        
-        *   Best Selling Accessories
-        *   ThinkPad Thunderbolt 3 Dock
-        *   C2G USB-C Docking Station
-        *   Legion H500 Pro Gaming Headset
-        *   Everyday Laptop Backpack
-        *   Ultra Slim Laptop Sleeve
+        *   Accessory &. Electronics Deals
     *   Monitors
         
         *   Always Free Shipping
@@ -633,7 +634,7 @@ Lenovo Explore Close
     *   Learn more
 *   Rewards My Lenovo RewardsCreated with Sketch.
 *   Contact
-    *   HELP PLACING AN ORDER 855-253-6686
+    *   HELP PLACING AN ORDER ${contactNumber}
     *   BUSINESS ORDER HELP 866-426-0911
     *   EXISTING ORDER HELP 855-253-6686 option #1
     *   FAQs &. HOURS >.
@@ -1211,7 +1212,7 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Launches comment card in new windowFeedbackCreated with sketchtool.CHAT NOW
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Created with sketchtool.CHAT NOW
 
 How can we help
 
@@ -1221,4 +1222,4 @@ you today?
 
 Call us: 1-855-253-6686
 
-Ask us about our price match policy >Check order status >Technical support or Repair status >
+Ask us about our price match policy >Check order status >Technical support or Repair status >Launches comment card in new windowFeedback
