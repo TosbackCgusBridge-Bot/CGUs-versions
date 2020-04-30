@@ -280,23 +280,23 @@ Life as a CISO: A Q&A with Ray Espinoza of Cobalt.io
     *   Emailed
     *   Recent
     
-    *   Online leak undermines Torrance's claim that no personal data was affected by cyberattack
-    *   A call for women...
-    *   GitHub users being hit with credential stealing phishing messages
-    *   More CFOs feeling the heat with ransomware
-    *   20M Aptoide accounts exposed by leak on hacker forum
-    
-    *   Cyberattack strikes down Colorado’s Parkview Medical Center
-    *   Ragnar Locker’s well-conceived ransomware attack on Energias de Portugal
-    *   Clearview AI source code, facial recognition apps, data exposed
-    *   Microsoft Teams vulnerability patched, could lead to account takeover
+    *   23 million Webkinz login credentials found on the dark web
+    *   Healthcare IT workers struggle to secure IoT devices during COVID-19
     *   Maze ransomware attack catches IT services firm Cognizant unawares
+    *   Clearview AI source code, facial recognition apps, data exposed
+    *   Cybersecurity snubbed in stimulus package
     
+    *   The quick and the breached: Futureproofing security operations
+    *   Phishing campaign aims to steal Zoom credentials using fake layoff notifications
+    *   Survey: COVID-19 has changed cyber pros' roles, increased incident totals
+    *   Cybersecurity should be No. 1 pick on NFL Draft Day
+    *   Microsoft patches Word and Office 365 for Autodesk FBX library flaws
+    
+    *   Adobe issues patches 21 critical vulnerabilities in Illustrator and Bridge
+    *   Build a data-driven defense strategy to fight cybercrime
     *   ExecuPharm employee info compromised following reported ransomware attack
     *   Shade ransomware gang gives up keys, apologizes to victims
     *   COVID-19's impact on package deliveries creates golden opportunity for scammers
-    *   Microsoft Teams vulnerability patched, could lead to account takeover
-    *   Google, Apple tighten protections on contact tracing. Americans worry over privacy
 
 Back to Top
 
@@ -329,7 +329,7 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
 
 You can skip this ad in 1 seconds.
 
