@@ -1,6 +1,6 @@
 Pages Blanches Annuaire Inversé Se référencer Conditions Générales d’Utilisation du site PagesJaunes
 
-Version du 27/05/2019
+Version du 30/04/2020
 
 Mentions légales
 
@@ -88,6 +88,8 @@ Les Conditions d’Utilisation sont opposables à l’Utilisateur pendant toute 
 
 Services de consultation d’avis : ce service permet à tout Utilisateur de consulter des avis consommateurs sur les Professionnels. L’Utilisateur est informé que certains avis sont fournis par nos Partenaires « Avis Vérifiés », « Critizr »,  « Custplace», « GarageScore », « Guest Suite »,  « Immodvisor »,  « FidCar », « Q3 Advocacy » et « Opinion System ». Ces avis sont identifiables sur le service par le biais d’une signalétique « Avis par Avis Vérifiés » et/ou « Avis par Critizr » et/ou « Avis par Custplace» et/ou « Avis par GarageScore » et/ou « Avis par Guest Suite » et/ou « Avis par Immodvisor » et/ou « FidCar » et/ou « Q3 Advocacy » et/ou « Avis par Opinion System ». Pour des raisons éditoriales les pseudonymes des clients de nos partenaires ont été générés automatiquement par Solocal. Ces avis sont soumis aux conditions générales ainsi qu’aux règles de modération du Partenaire concerné. Solocal ne revoit ni ne contrôle les avis fournis par des Partenaires et ne sera en aucun cas tenu pour responsable des Contenus Partenaires. Solocal se réserve néanmoins le droit de supprimer à son entière discrétion sans préavis et pour toute raison, tout Contenu Partenaires.
 
+Service « **Passer commande** » : il permet aux Utilisateurs de passer commande via un formulaire sur la fiche détaillée du Professionnel. Le Professionnel reçoit la commande par email avec les coordonnées de l’Utilisateur, et après l’avoir acceptée, la prépare et informe l’Utilisateur pour qu’il vienne la chercher. Solocal ne reçoit aucun paiement. Le paiement est effectué sur place directement par l’Utilisateur au Professionnel. Solocal intervient comme simple intermédiaire de mise en relation entre l’Utilisateur et le Professionnel, et n’est pas revendeur des produits et/ou services proposés par les Professionnels sur le Site. »
+
 4.2 Services du Compte
 
 *   **Le service « Mes avis »** : il permet aux Utilisateurs de rechercher, trouver, écrire et poster des avis consommateurs sur les Professionnels . à cet égard, Solocal en tant qu’Editeur du Service, décide seul des activités éligibles au Service.
@@ -152,7 +154,7 @@ E-mail : Solocal
 
 9 – Responsabilité De Solocal
 
-L’Utilisateur reconnaît que la responsabilité de Solocal ne saurait être retenue, de quelque manière que ce soit, et à quelque titre que ce soit, pour tous dommages directs (notamment immatériels) et/ou indirects, relatifs à (i) l’Utilisation des Services (notamment contenu, accès…) par l’Utilisateur, ce dernier demeurant le seul responsable à ce titre et/ou (ii) découlant de l’utilisation du Site notamment d’une éventuelle mise en relation avec un professionnel, ou un autre site internet tiers.
+L’Utilisateur reconnaît que la responsabilité de Solocal ne saurait être retenue, de quelque manière que ce soit, et à quelque titre que ce soit, pour tous dommages directs (notamment immatériels) et/ou indirects, relatifs à (i) l’Utilisation des Services (notamment contenu, accès…) par l’Utilisateur, ce dernier demeurant le seul responsable à ce titre et/ou (ii) découlant de l’utilisation du Site notamment d’une éventuelle mise en relation avec un professionnel, ou un autre site internet tiers. En particulier, le Professionnel est seul responsable du traitement des commandes, des réclamations et du SAV liés aux produits et/ou services qu’il vend par l’intermédiaire du service « Passer commande » et à ce titre, garantit Solocal de toute condamnation ou autres conséquences qui pourraient résulter de l’action d’Utilisateurs.
 
 Solocal se réserve le droit de mener toutes actions nécessaires pour garantir le parfait respect de ses obligations par l’Utilisateur.
 
