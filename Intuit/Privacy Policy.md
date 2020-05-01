@@ -1,6 +1,5 @@
 Our COVID-19 response  DetailsEXTRA 30% OFF ends 5/6 with code: 4FAMILY Details  
-Order by 12PM 4/30 to get it by Mother’s Day! Details  
-Our COVID-19 response  DetailsEXTRA 30% OFF ends 5/6 with code: 4FAMILY Details  
+Free Shipping Over $49  DetailsOur COVID-19 response  DetailsEXTRA 30% OFF ends 5/6 with code: 4FAMILY Details  
 
 Enable Accessibility
 
@@ -21,7 +20,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-UP TO 70% OFF Jewelry Giftsafter EXTRA 25% OFF\* with code **MOMGEM**| select stylesFragrance at Sephora inside JCPenneyExcluded from coupons.UP TO50% OFFCloset casual classics for warmer temps.  
+UP TO50% OFFCloset casual classics for warmer temps.  
 Shop All Casual ApparelWomen's TopsMen's ShortsWomen's JeansGirls' ShirtsUP TO 40% OFF All Liz Claiborne
 
 *   Shop Now
@@ -43,75 +42,20 @@ Shop Now25% OFF Nike, Champion &. adidasShop brands that are built to last. Sele
 Shop All HomeSheetsCurtains, Blinds &. ShadesBeddingPillowsLearn More Shop Gift CardsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
+*   JCPenney Home Ultra Performance 575 Sateen Deep Pocket Sheet Set $13.99 - $62.99with code~$50 - $150~156
+*   Clarks Womens Brinkley Jazz Flip-Flops
+    
+    $33sale
+    
+    ~$55~294
 *   Home Expressions Microfiber Plus Ultra Soft Easy Care Wrinkle Resistant Sheet Set $9.09 - $20.99with code~$26 - $60~1693
-*   Liz Claiborne Womens 2-pc. Capri Pajama Set Short Sleeve Crew Neck $13.99with code~$34~
-*   St. John's Bay-Womens Crew Neck Short Sleeve T-Shirt $5.59 - $9.80with code29
-*   Home Expressions Solid or Stripe Bath Towel Collection $2.09 - $13.99with code~$6 - $48~532
-*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $4.19 - $26.59with code~$10 - $72~1682
-*   Liz Claiborne Signature Plush Bath Towel Collection $4.89 - $31.49with code~$12 - $96~534
-
-Sponsored Items
-
-*   KitchenAid® Artisan® Series 5 Quart Tilt-Head Stand Mixer KSM150PS
+*   Nike Air Max Motion 2 Womens Running Shoes
     
-    $499
+    $85 - $90
     
-    26111
-*   Emeril Lagasse Quarter Womens Sneakers $49with code4
-*   Serta Icomfort Blue Fusion 100 Firm Tight-Top Hybrid Mattress $459 - $1398.99with code~$1,480 - $3,420~163
-*   Serta® Sleeptrue® Lindridge Firm - Mattress Only $359 - $588.99with code~$1,000 - $1,750~4
-*   Beautyrest ® BR800™ Firm - Mattress Only $408.99 - $639with code~$1,300 - $2,000~33
-*   Lee Womens Mid Rise Straight Flat Front Pant
-    
-    $10.99clearance
-    
-    ~$44~20
-*   Fisher-Price Classic Xylophone
-    
-    $15.99
-    
-    7
-*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
-    
-    $14.99
-    
-    10
-*   Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set
-    
-    $189.99sale
-    
-    ~$240~192
-*   Fisher-Price Linkimals Smooth Moves Sloth
-    
-    $29.99
-    
-    34
-*   Range Kleen Full Size Oven Liner $12.59with code~$19~
-*   Fisher-Price Laugh &. Learn Smart Stages Sis
-    
-    $19.99
-    
-    48
-*   Fisher-Price Linkimals A To Z Otter
-    
-    $19.99
-    
-    23
-*   Google Nest Hello Video Doorbell $206.10with code357
-*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $21with code
-*   Lee® Sculpting Pull On Womens Mid Rise Slim Fit Jean $20.99with code~$44~46
-*   Fisher-Price Laugh &. Learn Smart Stages Puppy
-    
-    $19.99
-    
-    59
-*   Lock &. Lock 10-pc. Food Container $28with code
-*   Range Kleen 4-Pack Drip Bowls $17.49with code~$34~
-*   Rachael Ray Create Delicious 11-Pc. Cookware Set
-    
-    $179.99sale
-    
-    ~$300~17
+    16
+*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $4.19 - $26.59with code~$10 - $72~1683
+*   Liz Claiborne Luxury Egyptian Hygrocotton Loops Bath Towel $5.59 - $38.49with code~$16 - $124~125
 
 Shop and Save at JCPenney
 
