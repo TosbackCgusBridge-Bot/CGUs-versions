@@ -114,7 +114,6 @@ Autodesk logo
     *   Renewal options
     *   Options
     *   Subscriber benefits
-    *   Maintenance plan benefits
     *   Educational institutions
     *   Financing
 *   About Autodesk
