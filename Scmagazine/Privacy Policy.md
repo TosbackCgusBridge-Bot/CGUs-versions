@@ -280,23 +280,23 @@ Life as a CISO: A Q&A with Ray Espinoza of Cobalt.io
     *   Emailed
     *   Recent
     
-    *   23 million Webkinz login credentials found on the dark web
+    *   Reports of COVID-19 malware threats heavier in states with increased testing
+    *   Resellers reportedly using bots to buy up in-demand Nintendo Switches
+    *   Emotet banking trojan possibly being prepped for a new attack
+    *   Google, Apple tighten protections on contact tracing. Americans worry over privacy
+    *   GitHub users being hit with credential stealing phishing messages
+    
+    *   Microsoft Teams vulnerability patched, could lead to account takeover
     *   Healthcare IT workers struggle to secure IoT devices during COVID-19
-    *   Maze ransomware attack catches IT services firm Cognizant unawares
-    *   Clearview AI source code, facial recognition apps, data exposed
-    *   Cybersecurity snubbed in stimulus package
+    *   COVID-19's impact on package deliveries creates golden opportunity for scammers
+    *   Emotet banking trojan possibly being prepped for a new attack
+    *   ExecuPharm employee info compromised following reported ransomware attack
     
-    *   The quick and the breached: Futureproofing security operations
-    *   Phishing campaign aims to steal Zoom credentials using fake layoff notifications
+    *   PhantomLance campaign slipped trojanized apps into marketplaces for years
     *   Survey: COVID-19 has changed cyber pros' roles, increased incident totals
-    *   Cybersecurity should be No. 1 pick on NFL Draft Day
-    *   Microsoft patches Word and Office 365 for Autodesk FBX library flaws
-    
     *   Adobe issues patches 21 critical vulnerabilities in Illustrator and Bridge
     *   Build a data-driven defense strategy to fight cybercrime
     *   ExecuPharm employee info compromised following reported ransomware attack
-    *   Shade ransomware gang gives up keys, apologizes to victims
-    *   COVID-19's impact on package deliveries creates golden opportunity for scammers
 
 Back to Top
 
@@ -329,8 +329,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
