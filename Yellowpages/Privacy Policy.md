@@ -17,12 +17,11 @@ Skip Navigation
         *   TBS &. TNT
         *   Warner Bros.
         *   Otter Media
+        *   Xandr
     *   AT&T Latin America
         *   AT&T Latin America Profile
         *   Mexico
         *   Vrio
-    *   Xandr
-        *   Xandr Profile
 *   Investors
     *   Investor Profile
     *   News &. Events
@@ -50,7 +49,6 @@ Skip Navigation
     *   All News
     *   AT&T Communications News
     *   WarnerMedia News
-    *   Xandr News
     *   AT&T Latin America News
     *   Public Policy
     *   Blogs
