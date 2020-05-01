@@ -1,10 +1,10 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content New markdowns on the makings of a good outfit. save with style Celebrate your style with new favorites that just go together. shop new arrivals Due to concerns of COVID-19, we are closing all Buckle stores, effective March 17th. learn more >
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content 25% Off select short sleeve button up shirts. shop now 30% Off select dresses. shop now Great style for the best women in your life - mom! shop our mother’s day collection
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-Celebrate your style with new favorites that just go together. shop new arrivals
+25% Off select short sleeve button up shirts. shop now
 
 *   Women
 *   Men
