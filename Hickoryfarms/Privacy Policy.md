@@ -15,7 +15,7 @@ close
     *   Congratulations
     *   Thinking of You
     *   Sympathy Gifts
-    *   Care PackagesMost Popular New! California Gift Baskets
+    *   Care PackagesMost Popular Mother's Day Gifts Wine Gift Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Cheese Gifts
@@ -110,7 +110,7 @@ close
     *   Congratulations
     *   Thinking of You
     *   Sympathy Gifts
-    *   Care PackagesMost Popular New! California Gift Baskets
+    *   Care PackagesMost Popular Mother's Day Gifts Wine Gift Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Cheese Gifts
