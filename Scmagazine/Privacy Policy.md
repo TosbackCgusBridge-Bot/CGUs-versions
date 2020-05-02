@@ -268,11 +268,11 @@ For users in the United States, any changes or modifications will be effective i
 
 For users in the EEA, any changes or modifications will be effective upon your express consent as you will be notified of any changes by virtue of a pop-up, banner, or other notification mechanism when you seek to access our services after we issue a change or modification. Upon consent, the revisions on the services shall apply to all use of our services and all acts or omissions occurring after the effective date of the revised Privacy Policy.
 
-Knowing your assets is job one
+Work-from-home has huge, built-in security challenges
 
-Q&A: Tips &. tricks for asset management
+Building a better asset management program
 
-Life as a CISO: A Q&A with Ray Espinoza of Cobalt.io
+Security basics: If you can’t make them sexy, make them simple
 
 *   MOST POPULAR
     
@@ -280,23 +280,23 @@ Life as a CISO: A Q&A with Ray Espinoza of Cobalt.io
     *   Emailed
     *   Recent
     
-    *   Reports of COVID-19 malware threats heavier in states with increased testing
+    *   WHO confirms credentials leak included staff working on COVID-19 response
     *   Resellers reportedly using bots to buy up in-demand Nintendo Switches
-    *   Emotet banking trojan possibly being prepped for a new attack
+    *   The quick and the breached: Futureproofing security operations
     *   Google, Apple tighten protections on contact tracing. Americans worry over privacy
-    *   GitHub users being hit with credential stealing phishing messages
+    *   Shade ransomware gang gives up keys, apologizes to victims
     
-    *   Microsoft Teams vulnerability patched, could lead to account takeover
-    *   Healthcare IT workers struggle to secure IoT devices during COVID-19
-    *   COVID-19's impact on package deliveries creates golden opportunity for scammers
-    *   Emotet banking trojan possibly being prepped for a new attack
-    *   ExecuPharm employee info compromised following reported ransomware attack
+    *   COVID-19 by the numbers
+    *   Sophos victimized by a zero-day in its XG Firewall product
+    *   Reports of COVID-19 malware threats heavier in states with increased testing
+    *   WHO confirms credentials leak included staff working on COVID-19 response
+    *   The quick and the breached: Futureproofing security operations
     
-    *   PhantomLance campaign slipped trojanized apps into marketplaces for years
-    *   Survey: COVID-19 has changed cyber pros' roles, increased incident totals
-    *   Adobe issues patches 21 critical vulnerabilities in Illustrator and Bridge
-    *   Build a data-driven defense strategy to fight cybercrime
-    *   ExecuPharm employee info compromised following reported ransomware attack
+    *   Reports of COVID-19 malware threats heavier in states with increased testing
+    *   5 ways COVID-19 is reshaping the cybercrime economy
+    *   Aggah malspam campaign updated with new payloads
+    *   VMWare patches XSS vulnerability in ESXI
+    *   Microsoft warns of ransomware attacks with 'motley crew' of payloads
 
 Back to Top
 
