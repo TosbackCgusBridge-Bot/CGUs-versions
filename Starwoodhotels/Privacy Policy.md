@@ -105,7 +105,7 @@ Privacy Rights
 
 Open
 
-If you would like to request to access, change, delete, or restrict the use or object to the processing of your Personal Data that you have previously provided to us, or if you would like to receive an electronic copy of your Personal Data for purposes of transmitting it to another company (to the extent these rights are provided to you by law), please complete this form. If you have any questions about the form or our process, feel free to contact us at privacy@marriott.com, or by mail at:
+If you would like to request to access, change, delete, or restrict the use or object to the processing of your Personal Data that you have previously provided to us, or if you would like to receive an electronic copy of your Personal Data for purposes of transmitting it to another company (to the extent these rights are provided to you by law), please complete this form . If you have any questions about the form or our process, feel free to contact us at privacy@marriott.com, or by mail at:
 
 Marriott International, Inc.  
 Global Compliance, Privacy  
@@ -518,4 +518,4 @@ Loading...
 
 Tracking Preferences Terms of Use Program Terms &. Conditions Privacy Center Do Not Sell My Personal Information Digital Accessibility Site Map Help*   Loading...
     
-prod8,1671CF75-147E-546A-8E81-8F7449FFAD52
+prod8,03A9B9FB-5522-5477-9C3E-B86EA2941078
