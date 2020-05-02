@@ -237,6 +237,10 @@ Services and Device Information
 
 When you access and use the Services, WebMD automatically collects and stores in its server logs information from your browser or mobile device such as your IP address or unique device identifier, browser information (including referring URL), your preferences and settings, cookies and information about the content you have viewed and actions taken (e.g., search queries, ad engagement, clicks and the associated dates and times). WebMD may also collect device-specific information when you install and use an App including your device model, operating system information, advertising ID (which is a unique, user-resettable identification number for advertising associated with a mobile device) and App version and usage information. When enabled by you, we collect precise location information provided by your mobile device, which you may disable through the device settings.
 
+Precise Geolocation Data
+
+When enabled by you, we collect precise location information provided by your mobile device. We do so to provide you more relevant content including advertising based on your location. You may disable the collection and use of your location data through your device settings. To change location settings on your device, please refer to your device’s official knowledge base.
+
 Cookies and Other Tracking Technologies
 
 We and our partners use cookies to collect information about your use of the Services. “Cookies” are small data files assigned to your browser when you visit a WebMD Site which enable recognition of your browser and collect and store information about your use of the Services, as described above. In addition to cookies, we and our partners use other tracking technologies that collect information about your use of the Services, including mobile identifiers and "web beacons" which are small graphic files (sometimes called “clear GIFs” or “web pixels”) embedded in a web page or email typically used to monitor activity and send relevant information back to a home server (which can belong to the host site, a network advertiser or some other third party). The information collected by such tracking technologies may be combined with other information that our partners have access to, including your name, email address and physical address, so that we can send you materials, either electronically or by direct mail, that may be of interest to you. 
@@ -248,6 +252,17 @@ We also work with third party ad networks to display advertising on our WebMD Si
 For more information about our how cookies and other tracking technologies are used in connection with the Services, please read our Cookie Policy.
 
 When you download and install one of our Apps onto your mobile device we assign a random number to your App installation. This number cannot be used to identify you personally, and we cannot identify you personally unless you choose to become a registered user of the App. We use this random number in a manner similar to our use of cookies as described in this Privacy Policy and in our Cookie Policy. Unlike cookies, the random number is assigned to your installation of the App itself and not a browser, because the App does not work through your browser. Therefore the random number cannot be removed through settings. If you do not want us to use the random number for the purposes for which we use cookies, please do not use the Apps. Our use of cookies and other tracking technologies on our mobile optimized sites and our flagship WebMD App are similar to our use on our desktop sites. Your choices to reject cookies, use the Network Advertising Initiative and the opt-out mechanism described below in the section "Your Choices and Rights" are available on our flagship WebMD App and on our mobile optimized sites.
+
+Cross-Device Tracking
+
+We and our service providers collect and store information about users' interactions with unaffiliated websites and applications that use our technologies, including cookies and similar tracking technologies. This allows us to infer the presence of a common user or household behind multiple devices. We do so in order to:
+
+*   provide personalized advertising on each device that is inferred from the browsing patterns on all of the devices;
+*   detect and prevent fraud;
+*   allow users to use our service on one device and pick up seamlessly where they left off on another device; 
+*   limit the number of times a user is shown the same advertisement, across known or inferred devices
+
+For information on your advertising choices and opt-out, please see the "Your Choices and Rights" section of this Privacy Notice.
 
 How Information Collected About You Is Used
 
@@ -379,7 +394,7 @@ To view our certification status click here.
 
 WebMD.com, MedicineNet.com, eMedicineHealth.com, and RxList.com comply with the HONcode standard for trustworthy health information, which can be verified here.
 
-Last updated on December 31, 2019 © 2019 WebMD, LLC. All rights reserved. Today on WebMD Risky Mistakes Pet Owners Make
+Last updated on May 01, 2020 © 2020 WebMD, LLC. All rights reserved. Today on WebMD Risky Mistakes Pet Owners Make
 
 Some of these might surprise you.
 
