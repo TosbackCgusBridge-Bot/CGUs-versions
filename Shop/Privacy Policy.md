@@ -662,7 +662,9 @@ Lenovo Explore Close
     *   Learn more
 *   Contact Us
     *   HELP PLACING AN ORDER ${contactNumber}
-    *   Hours
+    *   BUSINESS ORDER HELP 866-426-0911
+    *   EXISTING ORDER HELP 855-253-6686 option #1
+    *   FAQs &. HOURS >.
     *   24/7 CHAT NOW >.
 *   Account
     *   My Account
@@ -1204,14 +1206,4 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Launches comment card in new windowFeedbackCreated with sketchtool.CHAT NOW
-
-How can we help
-
-you today?
-
-×SALES CHATEXISTING ORDER HELPSALES CHATEXISTING ORDER HELPBUSINESS SALESBUSINESS SALES
-
-Call us: 1-855-253-6686
-
-Ask us about our price match policy >Check order status >Technical support or Repair status >
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement **Need help with an order? Talk with a Sales Representative 1-855-253-6686 #2** **or chatChat Now** **Need help with an order? Talk with a Sales Representative 1-855-253-6686 #2** **or chatChat Now**×Launches comment card in new windowFeedback
