@@ -9,182 +9,182 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
-    *   Backyard Fun: Kids' Styles &. More Up to 65% Off
-    *   Backyard Fun: Women's Swim, Clothing &. More
-    *   Backyard Fun: Decor, Accessories &. More from $15
-    *   Backyard Fun: Men's Styles Up to 65% Off
-    *   Hudson Jeans Up to 65% Off
-    *   Hudson Jeans Men Up to 65% Off
-    *   7 For All Mankind Up to 65% Off
-    *   7 For All Mankind Men Up to 70% Off
-    *   Jump for Joy: Spring Jumpsuits Under $40
-    *   Bally Men Up to 50% Off
+    *   Lucky Brand Incl. Plus
+    *   BCBGeneration Up to 60% Off
+    *   Polished Picks Up to 75% Off ft. Adrianna Papell
+    *   Designer Sunglasses Under $100
     *   Shoe Shop: Casual &. Flat Sandals
     *   Shoe Shop: Lifestyle Sneakers
     *   Shoe Shop: Flip-Flops &. Slides
-    *   Cool for the Pool: Cover-Ups &. More
-    *   Spring Day Steals: FAVLUX &. More Under $40
-    *   Leather Boots &. More ft. BED|STU Up to 65% Off
-    *   Stay Cool: Camis from $20
-    *   Hudson Jeans Kids Up to 60% Off
-    *   7 For All Mankind Kids Up to 65% Off
+    *   Block Heel Sandals &. More Up to 60% Off
+    *   Plus Finds: Comfy &. Cozy Styles from $17
+    *   The Casual Life: Petite Styles from $17
+    *   Weekend Workout: Sports Bras &. Shorts Under $35
     *   Shoe Shop: Women's Running &. Active Shoes
     *   Shoe Shop: Men's Lifestyle Sneakers
     *   Shoe Shop: Men's Running &. Active Shoes
     *   Shoe Shop: Comfort Styles
-    *   Kenneth Cole Reaction
-    *   XRAY Up to 60% Off
-    *   Free Shipping: Sheet Sets, Duvets &. More
-    *   Melissa Up to 60% Off
-    *   Wear for Fun: On-Trend Shoes
-    *   Outdoor Play: Sun Hats &. More ft. Eugenia Kim
-    *   One-Stop Hair Shop: Tools, Conditioner &. More
-    *   Rockport Men Up to 50% Off
-    *   Whatever the Weather: London Fog, Lole &. More
-    
-    *   Free Shipping: Decor for Every Style
+    *   CALPAK
+    *   Exclusively Ours: Suiting, Dress Shirts, Ties &. More
+    *   Give Some Sparkle: Last-Minute Gifts for Mom
+    *   b.tempt'd by Wacoal Under $25
+    *   Free Shipping: Framed Art Up to 65% Off
+    *   Mezlan Up to 50% Off
+    *   Earth Origins from $40
+    *   Fresh Finds: Women's Shoes Up to 60% Off
+    *   Trending Now: Kids' Active Starting at $10
+    *   Men's Joggers Up to 65% Off
+    *   Unicorns &. Glitter: Girls' Shoes from $20
+    *   Just In: Makeup ft. Lime Crime
+    *   Mommy &. Me: Women's and Girls' Shoes
     *   Shoe Shop: Men's Casual Styles
     *   Shoe Shop: Strappy Sandals, Heels &. Pumps
     *   Shoe Shop: Loafers &. Flats
     *   Shoe Shop: Espadrilles
+    
     *   Shoe Shop: Men's Dress Styles
     *   Shoe Shop: Slippers
     *   Shoe Shop: Sporty Sandals &. Sneakers
     *   Shoe Shop: Prints, Textures &. More
     *   Shoe Shop: Kids' Sandals, Slides &. More
     *   Shoe Shop: Kids' Sneakers
-    *   MCM Handbags
-    *   Vince Camuto Up to 70% Off Incl. Plus &. Petites
+    *   Backyard Fun: Women's Swim, Clothing &. More
+    *   Backyard Fun: Kids' Styles &. More Up to 65% Off
+    *   Backyard Fun: Decor, Accessories &. More from $15
+    *   Backyard Fun: Men's Styles Up to 65% Off
+    *   7 For All Mankind Up to 65% Off
+    *   7 For All Mankind Men Up to 70% Off
+    *   Jump for Joy: Spring Jumpsuits Under $40
+    *   Bally Men Up to 50% Off
+    *   Cool for the Pool: Cover-Ups &. More
+    *   Spring Day Steals: FAVLUX &. More Under $40
+    *   Leather Boots &. More ft. BED|STU Up to 65% Off
+    *   Stay Cool: Camis from $20
+    *   Kenneth Cole Reaction
+    *   XRAY Up to 60% Off
+    *   Free Shipping: Sheet Sets, Duvets &. More
+    *   7 For All Mankind Kids Up to 65% Off
+    *   Melissa Up to 60% Off
+    *   Wear for Fun: On-Trend Shoes
+    *   Outdoor Play: Sun Hats &. More ft. Eugenia Kim
+    *   One-Stop Hair Shop: Tools, Conditioner &. More
+    *   Rockport Men Up to 50% Off
+    *   Whatever the Weather: London Fog, Lole &. More
     *   Bedding Steals Up to 65% Off
-    *   Vince Camuto Shoes Up to 60% Off
-    *   Good Luck Gem &. More Incl. Plus and Petites
-    *   For the (Backyard) Deck: O'Neill &. More
     *   Skechers Kids Starting at $25
     *   Skin Care Tools Starting at $10
-    *   Champion
     *   Soul of London Starting at $30
+    
     *   Puddle Jumpers: Kids' Boots ft. Hunter
     *   Gordon Rush
     *   Men's Brands We Love Up to 70% Off
     *   Stay In, Work Out: Men's Activewear from $15
-    *   Skechers Starting at $30
     *   Home Updates: Stylish Wall Decor &. Accents
     *   O'Neill Men &. More Starting at $15
     *   Skechers Men Starting at $40
     *   Show Your Love: Heart Jewelry Gifts for Mom
     *   Free Shipping: Faux Plants &. Planters
     *   Get Creative: At-Home Activities Starting at $10
-    
     *   Free Shipping: Pillow &. Throw Blowout
-    *   Play Dress Up: Kids' Styles Up to 60% Off
-    *   The Perfect Pair: Shorts to Go with Your Shoes
     *   Skin Care Starting at $10
-    *   The Perfect Pair: Socks to Go with Your Shoes
-    *   Modern Kids' Styles ft. Sovereign Code
-    *   Baguette &. Opal Jewelry
-    *   Shell &. Mother of Pearl Jewelry
     *   At-Home Chef: Quality Cookware ft. Cuisinart
     *   Ninja Kitchen Appliances
     *   Bathroom Revamp: Accessories Up to 50% Off
     *   Tackle the Clutter: Storage for Every Room
     *   Home Decor Steals Up to 60% Off
-    *   Spring Style Essentials from $20 Incl. Plus
-    *   Jerusalem Sandals
-    *   Zanzara
-    *   Spring Knit Tops Under $27 Incl. Plus &. Petites
-    *   Caslon &. Halogen from $15 Incl. Plus and Petites
-    *   Spring Faves: Shorts from $20 Incl. Plus &. Petites
-    *   Donald Pliner Men Up to 65% Off
-    *   Free Shipping: BergHOFF Up to 50% Off
-    *   Now &. Zen: Yogawear Starting at $25
     *   Smart Watch Bands &. More Up to 70% Off
     *   Make Mom's Day: Fragrance Gift Sets Up to 50% Off
     *   2020 Art Trends: Metallic Prints &. More
     *   Walk in Style: Pet Apparel &. Accessories
+    *   Free Shipping: BergHOFF Up to 50% Off
     *   Luxe Bathroom Towels Up to 70% Off
     *   Best Sleep Ever: Down &. Memory Foam Essentials
     *   Home Decor Blowout
-    *   Free Shipping: Framed Art Up to 60% Off
+    *   Hudson Jeans Men Up to 65% Off
+    *   Free Shipping: Decor for Every Style
     *   Home Organization Blowout
+    *   Hudson Jeans Up to 65% Off
+    *   Hudson Jeans Kids Up to 60% Off
 *   WomenShop Sale Events
     
-    *   Backyard Fun: Women's Swim, Clothing &. More
-    *   Hudson Jeans Up to 65% Off
-    *   7 For All Mankind Up to 65% Off
-    *   Jump for Joy: Spring Jumpsuits Under $40
+    *   Lucky Brand Incl. Plus
+    *   BCBGeneration Up to 60% Off
+    *   Polished Picks Up to 75% Off ft. Adrianna Papell
+    *   Designer Sunglasses Under $100
     *   Shoe Shop: Casual &. Flat Sandals
     *   Shoe Shop: Lifestyle Sneakers
     *   Shoe Shop: Flip-Flops &. Slides
+    *   Block Heel Sandals &. More Up to 60% Off
+    *   Plus Finds: Comfy &. Cozy Styles from $17
+    *   The Casual Life: Petite Styles from $17
+    *   Weekend Workout: Sports Bras &. Shorts Under $35
+    *   Shoe Shop: Women's Running &. Active Shoes
+    *   Shoe Shop: Comfort Styles
+    *   CALPAK
+    *   Give Some Sparkle: Last-Minute Gifts for Mom
+    *   b.tempt'd by Wacoal Under $25
+    *   Earth Origins from $40
+    *   Fresh Finds: Women's Shoes Up to 60% Off
+    *   Just In: Makeup ft. Lime Crime
+    *   Mommy &. Me: Women's and Girls' Shoes
+    *   Shoe Shop: Strappy Sandals, Heels &. Pumps
+    *   Shoe Shop: Loafers &. Flats
+    
+    *   Shoe Shop: Espadrilles
+    *   Shoe Shop: Slippers
+    *   Shoe Shop: Sporty Sandals &. Sneakers
+    *   Shoe Shop: Prints, Textures &. More
+    *   Backyard Fun: Women's Swim, Clothing &. More
+    *   7 For All Mankind Up to 65% Off
+    *   Jump for Joy: Spring Jumpsuits Under $40
     *   Cool for the Pool: Cover-Ups &. More
     *   Spring Day Steals: FAVLUX &. More Under $40
     *   Leather Boots &. More ft. BED|STU Up to 65% Off
     *   Stay Cool: Camis from $20
-    *   Shoe Shop: Women's Running &. Active Shoes
-    *   Shoe Shop: Comfort Styles
     *   Melissa Up to 60% Off
     *   Wear for Fun: On-Trend Shoes
     *   Outdoor Play: Sun Hats &. More ft. Eugenia Kim
     *   One-Stop Hair Shop: Tools, Conditioner &. More
     *   Whatever the Weather: London Fog, Lole &. More
-    *   Shoe Shop: Strappy Sandals, Heels &. Pumps
-    *   Shoe Shop: Loafers &. Flats
-    *   Shoe Shop: Espadrilles
-    
-    *   Shoe Shop: Slippers
-    *   Shoe Shop: Sporty Sandals &. Sneakers
-    *   Shoe Shop: Prints, Textures &. More
-    *   MCM Handbags
-    *   Vince Camuto Up to 70% Off Incl. Plus &. Petites
-    *   Vince Camuto Shoes Up to 60% Off
-    *   Good Luck Gem &. More Incl. Plus and Petites
-    *   For the (Backyard) Deck: O'Neill &. More
     *   Skin Care Tools Starting at $10
-    *   Champion
-    *   Skechers Starting at $30
     *   Show Your Love: Heart Jewelry Gifts for Mom
     *   Skin Care Starting at $10
-    *   Baguette &. Opal Jewelry
-    *   Shell &. Mother of Pearl Jewelry
-    *   Spring Style Essentials from $20 Incl. Plus
-    *   Spring Knit Tops Under $27 Incl. Plus &. Petites
-    *   Caslon &. Halogen from $15 Incl. Plus and Petites
-    *   Spring Faves: Shorts from $20 Incl. Plus &. Petites
-    *   Now &. Zen: Yogawear Starting at $25
     *   Make Mom's Day: Fragrance Gift Sets Up to 50% Off
+    *   Hudson Jeans Up to 65% Off
     
     Shop By Category
     *   Shoes
     *   Clothing
-    *   Jewelry
     *   Accessories
+    *   Jewelry
     *   Lingerie &. Shapewear
     *   Handbags
     *   Watches
 *   MenShop Sale Events
     
-    *   Backyard Fun: Men's Styles Up to 65% Off
-    *   Hudson Jeans Men Up to 65% Off
-    *   7 For All Mankind Men Up to 70% Off
-    *   Bally Men Up to 50% Off
+    *   Designer Sunglasses Under $100
     *   Shoe Shop: Men's Lifestyle Sneakers
     *   Shoe Shop: Men's Running &. Active Shoes
+    *   CALPAK
+    *   Exclusively Ours: Suiting, Dress Shirts, Ties &. More
+    *   Mezlan Up to 50% Off
+    *   Men's Joggers Up to 65% Off
+    *   Shoe Shop: Men's Casual Styles
+    *   Shoe Shop: Men's Dress Styles
+    *   Backyard Fun: Men's Styles Up to 65% Off
+    *   7 For All Mankind Men Up to 70% Off
+    
+    *   Bally Men Up to 50% Off
     *   Kenneth Cole Reaction
     *   XRAY Up to 60% Off
     *   Rockport Men Up to 50% Off
-    *   Shoe Shop: Men's Casual Styles
-    *   Shoe Shop: Men's Dress Styles
-    
     *   Soul of London Starting at $30
     *   Gordon Rush
     *   Men's Brands We Love Up to 70% Off
     *   Stay In, Work Out: Men's Activewear from $15
     *   O'Neill Men &. More Starting at $15
     *   Skechers Men Starting at $40
-    *   The Perfect Pair: Shorts to Go with Your Shoes
-    *   The Perfect Pair: Socks to Go with Your Shoes
-    *   Jerusalem Sandals
-    *   Zanzara
-    *   Donald Pliner Men Up to 65% Off
+    *   Hudson Jeans Men Up to 65% Off
     
     Shop By Category
     *   Shoes
@@ -192,29 +192,31 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Accessories
 *   KidsShop Sale Events
     
-    *   Backyard Fun: Kids' Styles &. More Up to 65% Off
-    *   Hudson Jeans Kids Up to 60% Off
-    *   7 For All Mankind Kids Up to 65% Off
+    *   Trending Now: Kids' Active Starting at $10
+    *   Unicorns &. Glitter: Girls' Shoes from $20
+    *   Mommy &. Me: Women's and Girls' Shoes
     *   Shoe Shop: Kids' Sandals, Slides &. More
     *   Shoe Shop: Kids' Sneakers
+    *   Backyard Fun: Kids' Styles &. More Up to 65% Off
+    
+    *   7 For All Mankind Kids Up to 65% Off
     *   Skechers Kids Starting at $25
     *   Puddle Jumpers: Kids' Boots ft. Hunter
     *   Get Creative: At-Home Activities Starting at $10
-    *   Play Dress Up: Kids' Styles Up to 60% Off
-    *   Modern Kids' Styles ft. Sovereign Code
+    *   Hudson Jeans Kids Up to 60% Off
     
     Shop By Category
-    *   Girls
     *   Girls' Shoes
+    *   Girls
     *   Boys
     *   Boys' Shoes
-    *   Baby
     *   Toys
+    *   Baby
 *   HomeShop Sale Events
     
+    *   Free Shipping: Framed Art Up to 65% Off
     *   Backyard Fun: Decor, Accessories &. More from $15
     *   Free Shipping: Sheet Sets, Duvets &. More
-    *   Free Shipping: Decor for Every Style
     *   Bedding Steals Up to 65% Off
     *   Home Updates: Stylish Wall Decor &. Accents
     *   Free Shipping: Faux Plants &. Planters
@@ -224,14 +226,14 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Bathroom Revamp: Accessories Up to 50% Off
     
     *   Home Decor Steals Up to 60% Off
-    *   Free Shipping: BergHOFF Up to 50% Off
     *   Smart Watch Bands &. More Up to 70% Off
     *   2020 Art Trends: Metallic Prints &. More
     *   Walk in Style: Pet Apparel &. Accessories
+    *   Free Shipping: BergHOFF Up to 50% Off
     *   Luxe Bathroom Towels Up to 70% Off
     *   Best Sleep Ever: Down &. Memory Foam Essentials
     *   Home Decor Blowout
-    *   Free Shipping: Framed Art Up to 60% Off
+    *   Free Shipping: Decor for Every Style
     
     Shop By Category
     *   Home Decor
@@ -241,13 +243,14 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Bath
     *   Pet Accessories
     *   Electronic &. Tech Accessories
+    *   Luggage &. Travel
     *   Outdoor Living
     *   Rugs &. Doormats
     *   Accent Furniture
     *   Holiday Decorations
-    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   Just In: Makeup ft. Lime Crime
     *   One-Stop Hair Shop: Tools, Conditioner &. More
     *   Skin Care Tools Starting at $10
     *   Skin Care Starting at $10
