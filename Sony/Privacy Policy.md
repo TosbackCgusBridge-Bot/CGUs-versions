@@ -124,7 +124,7 @@ Play video: Enhance Your Days With Extra Bass™ Close video: Enhance Your Days 
 
 Updated release dates: The Last of Us Part II and Ghost of Tsushima come to PS4 this summer:  http://play.st/3aIjuSj  pic.twitter.com/5AAPgO6tFw
 
-4 days ago View Tweet Instagram Post B9-DEjFlHq6
+5 days ago View Tweet Instagram Post B9-DEjFlHq6
 
 “Venom: Let There Be Carnage”
 
