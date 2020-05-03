@@ -280,23 +280,23 @@ Security basics: If you can’t make them sexy, make them simple
     *   Emailed
     *   Recent
     
-    *   WHO confirms credentials leak included staff working on COVID-19 response
-    *   Resellers reportedly using bots to buy up in-demand Nintendo Switches
-    *   The quick and the breached: Futureproofing security operations
-    *   Google, Apple tighten protections on contact tracing. Americans worry over privacy
-    *   Shade ransomware gang gives up keys, apologizes to victims
-    
     *   COVID-19 by the numbers
-    *   Sophos victimized by a zero-day in its XG Firewall product
-    *   Reports of COVID-19 malware threats heavier in states with increased testing
-    *   WHO confirms credentials leak included staff working on COVID-19 response
-    *   The quick and the breached: Futureproofing security operations
+    *   Shade ransomware gang gives up keys, apologizes to victims
+    *   Fitness software maker Kinomap leaves database open exposing 42 million users
+    *   Connecticut town drops drone program to combat COVID-19 spread over privacy concerns
+    *   Buyer beware, risk ahead
     
+    *   Buyer beware, risk ahead
+    *   Paay open database exposes 2.5M transactions, challenges PCI compliance
+    *   Fitness software maker Kinomap leaves database open exposing 42 million users
+    *   Online leak undermines Torrance's claim that no personal data was affected by cyberattack
     *   Reports of COVID-19 malware threats heavier in states with increased testing
-    *   5 ways COVID-19 is reshaping the cybercrime economy
-    *   Aggah malspam campaign updated with new payloads
-    *   VMWare patches XSS vulnerability in ESXI
-    *   Microsoft warns of ransomware attacks with 'motley crew' of payloads
+    
+    *   Banking trojan attack exposes dangers of not securing MDM solutions
+    *   Vulnerability management
+    *   The new cybersecurity resilience
+    *   Rethinking cyber risk
+    *   CISOs score big on employee risk
 
 Back to Top
 
@@ -329,4 +329,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
