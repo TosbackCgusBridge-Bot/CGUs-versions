@@ -47,8 +47,8 @@ View more results
     *   Parking
     *   Offroad Games
     *   Stunt Driving
-    *   Boat Racing
     *   Motocross
+    *   Boat Racing
     *   Horse Racing
     
     All Racing Best Games
@@ -66,6 +66,34 @@ View more results
     *   Thug Racer
     *   Madalin Cars Multiplayer
     *   Xcross Madness
+*   Shooting
+    
+    Top Categories
+    
+    *   Sniper Games
+    *   First-Person Shooter
+    *   Gun Games
+    *   Aim &. Shoot
+    *   Arrow Games
+    *   Hunting Games
+    *   Run &. Shoot
+    *   Shoot &. Throw
+    
+    Best Games
+    *   Subway Clash 3D
+    *   CS Portable
+    *   Miami Crime Simulator 3D
+    *   Deer Hunter
+    *   Sniper Reloaded
+    *   Army Force Strike: 3D Shooting Game Online Multiplayer
+    *   Pixel Gun Apocalypse 3
+    *   Archery World Tour
+    *   Hunter 3D
+    *   Apple Shooter
+    *   Mr. Bullet
+    *   Combat Reloaded
+    *   Sniper Code
+    *   Winter Clash 3D
 *   Puzzle
     
     Top Categories
@@ -94,34 +122,6 @@ View more results
     *   Word Wipe
     *   Mahjong Link
     *   Bubble Hit
-*   Shooting
-    
-    Top Categories
-    
-    *   Sniper Games
-    *   Gun Games
-    *   First-Person Shooter
-    *   Aim &. Shoot
-    *   Arrow Games
-    *   Hunting Games
-    *   Run &. Shoot
-    *   Shoot &. Throw
-    
-    Best Games
-    *   Subway Clash 3D
-    *   CS Portable
-    *   Miami Crime Simulator 3D
-    *   Deer Hunter
-    *   Sniper Reloaded
-    *   Army Force Strike: 3D Shooting Game Online Multiplayer
-    *   Pixel Gun Apocalypse 3
-    *   Archery World Tour
-    *   Hunter 3D
-    *   Apple Shooter
-    *   Mr. Bullet
-    *   Combat Reloaded
-    *   Sniper Code
-    *   Winter Clash 3D
 *   Action
     
     Top Categories
@@ -158,8 +158,8 @@ View more results
     *   .io Games
     *   Social Games
     *   Multiplayer War
-    *   Qplay Games
     *   Multiplayer Action 3D
+    *   Qplay Games
     *   Bomb It Games
     *   MMO
     
@@ -184,12 +184,12 @@ View more results
     
     *   Scary Games
     *   Escaping
-    *   Detective Games
     *   Horror Games
+    *   Detective Games
     *   Anime and Manga
     *   Trollface Quest Games
     *   Point &. Click
-    *   Ninja Games
+    *   Ragdoll Games
     
     All Adventure Best Games
     *   Fireboy and Watergirl 5: Elements
@@ -212,9 +212,9 @@ View more results
         
     *   Racing
         
-    *   Puzzle
-        
     *   Shooting
+        
+    *   Puzzle
         
     *   Action
         
