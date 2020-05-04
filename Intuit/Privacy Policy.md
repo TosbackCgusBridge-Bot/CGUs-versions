@@ -20,8 +20,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-UP TO50% OFFCloset casual classics for warmer temps.  
-Shop All Casual ApparelWomen's TopsMen's ShortsWomen's JeansGirls' ShirtsUP TO 40% OFF All Liz Claiborne
+UP TO 40% OFF All Liz Claiborne
 
 *   Shop Now
 
@@ -38,7 +37,8 @@ Shop All Casual ApparelWomen's TopsMen's ShortsWomen's JeansGirls' ShirtsUP TO 4
 *   Bath Towels
     
 
-Shop Now25% OFF Nike, Champion &. adidasShop brands that are built to last. Select styles. Excluded from coupons.   Get in gear! Outdoor essentials to beat the heat—and your goals. Active WatchesSunscreen atSephora inside JCPenneyRefresh yourroomsUP TO 40% OFF!select styles  
+Shop NowUP TO50% OFFCloset casual classics for warmer temps.  
+Shop All Casual ApparelWomen's TopsMen's ShortsWomen's JeansGirls' Shirts25% OFF Nike, Champion &. adidasShop brands that are built to last. Select styles. Excluded from coupons.   Get in gear! Outdoor essentials to beat the heat—and your goals. Active WatchesSunscreen atSephora inside JCPenneyRefresh yourroomsUP TO 40% OFF!select styles  
 Shop All HomeSheetsCurtains, Blinds &. ShadesBeddingPillowsLearn More Shop Gift CardsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
@@ -47,69 +47,73 @@ Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded
     
     $20sale
     
-    ~$124.98~181
-*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $6.99with code~$13~22
-*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
-    
-    $20sale
-    
-    ~$124.98~129
+    ~$124.98~182
+*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $5.59with code~$13~23
 *   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver
     
     $20sale
     
     ~$124.98~134
-*   Serta® Special Edition II Plush - Mattress Only $228.99 - $398.99with code~$625 - $1,050~
+*   LIMITED TIME SPECIAL! Q7 Sport Black Smart Watch-Q7s3557b64c-003
+    
+    $9.99sale
+    
+    ~$75~54
+*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+    
+    $20sale
+    
+    ~$124.98~129
 
 Sponsored Items
 
-*   Serta® Sleeptrue® Lindridge Firm - Mattress Only $359 - $588.99with code~$1,000 - $1,750~4
-*   Beautyrest ® BR800™ Medium - Mattress Only $378.99 - $539with code~$1,200 - $1,650~3
-*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
-    
-    $14.99
-    
-    10
-*   Serta Icomfort Blue Fusion 100 Firm Tight-Top Hybrid Mattress $459 - $1398.99with code~$1,480 - $3,420~163
 *   Beautyrest ® BR800™ Firm - Mattress Only $408.99 - $639with code~$1,300 - $2,000~33
-*   Fisher-Price Classic Xylophone
-    
-    $15.99
-    
-    7
 *   Range Kleen Full Size Oven Liner $12.59with code~$19~
+*   Beautyrest ® BR800™ Medium - Mattress Only $378.99 - $539with code~$1,200 - $1,650~3
+*   Serta® Sleeptrue® Lindridge Firm - Mattress Only $359 - $588.99with code~$1,000 - $1,750~4
+*   Serta Icomfort Blue Fusion 100 Firm Tight-Top Hybrid Mattress $459 - $1398.99with code~$1,480 - $3,420~163
 *   Fisher-Price Laugh &. Learn Smart Stages Puppy
     
     $19.99
     
     59
+*   Fisher-Price Classic Xylophone
+    
+    $15.99
+    
+    7
+*   Lee® Relaxed Fit Straight Leg Jeans - Plus $20.29with code~$48~554
+*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
+    
+    $14.99
+    
+    10
+*   Lee® Relaxed Fit Straight Leg Jeans - Tall $20.29 - $33.60with code139
 *   Fisher-Price Linkimals Smooth Moves Sloth
     
     $29.99
     
     34
-*   Lee® Relaxed Fit Straight Leg Jeans - Plus $20.29with code~$48~554
-*   Range Kleen 4-Pack Drip Bowls $17.49with code~$34~
-*   Fisher-Price Linkimals A To Z Otter
-    
-    $19.99
-    
-    23
-*   Lee® Wrinkle Free Relaxed Straight Leg Pant $18.19with code~$44~17
 *   Fisher-Price Laugh &. Learn Smart Stages Sis
     
     $19.99
     
     48
-*   Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit) $18.19with code~$44~628
-*   Lee® Flex Motion Straight Leg Pant $20.99with code~$50~36
-*   Lee® Relaxed Fit Denim Jeans $18.19with code~$44~1316
+*   Lee® Relaxed All Day Pant - Plus $20.29with code~$48~534
+*   Range Kleen 4-Pack Drip Bowls $17.49with code~$34~
+*   Lee® Flex Motion Bootcut Jeans $20.99with code~$50~30
 *   Fisher-Price Learn with Me Zebra Walker
     
     $24.99
     
     38
 *   Google Nest Hello Video Doorbell $206.10with code358
+*   Fisher-Price Linkimals A To Z Otter
+    
+    $19.99
+    
+    23
+*   Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit) $18.19with code~$44~628
 *   Lee® Relaxed Fit Jeans $18.19with code~$44~2285
 
 Shop and Save at JCPenney
