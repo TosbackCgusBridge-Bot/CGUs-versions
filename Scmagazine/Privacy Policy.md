@@ -280,17 +280,17 @@ Security basics: If you can’t make them sexy, make them simple
     *   Emailed
     *   Recent
     
-    *   COVID-19 by the numbers
+    *   COVID-19's impact on package deliveries creates golden opportunity for scammers
+    *   Malvertising scam leverages domain names that sound like legit COVID-19 sites
+    *   Emotet banking trojan possibly being prepped for a new attack
     *   Shade ransomware gang gives up keys, apologizes to victims
-    *   Fitness software maker Kinomap leaves database open exposing 42 million users
-    *   Connecticut town drops drone program to combat COVID-19 spread over privacy concerns
-    *   Buyer beware, risk ahead
+    *   Vulnerability management
     
-    *   Buyer beware, risk ahead
-    *   Paay open database exposes 2.5M transactions, challenges PCI compliance
-    *   Fitness software maker Kinomap leaves database open exposing 42 million users
-    *   Online leak undermines Torrance's claim that no personal data was affected by cyberattack
-    *   Reports of COVID-19 malware threats heavier in states with increased testing
+    *   Cybersecurity snubbed in stimulus package
+    *   Banking trojan attack exposes dangers of not securing MDM solutions
+    *   Rethinking cyber risk
+    *   Aggah malspam campaign updated with new payloads
+    *   Phishing campaign aims to steal Zoom credentials using fake layoff notifications
     
     *   Banking trojan attack exposes dangers of not securing MDM solutions
     *   Vulnerability management
