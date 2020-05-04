@@ -1,10 +1,10 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content 25% Off select short sleeve button up shirts. shop now 30% Off select dresses. shop now Great style for the best women in your life - mom! shop our mother’s day collection
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content New markdowns are heating things up. shop new to sale Need now, wear on repeat. shop new arrivals
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-30% Off select dresses. shop now
+Need now, wear on repeat. shop new arrivals
 
 *   Women
 *   Men
@@ -577,3 +577,7 @@ Did you mean to add items to your wish list?
 Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
+
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">.  
+I am over the age of 13  
+View Privacy Policy
