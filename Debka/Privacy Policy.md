@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Sunday, May 3, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Monday, May 4, 2020  
 
 DEBKAfile
 
@@ -46,6 +46,10 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   High Court hears five petitions against allowing Netanyahu to be PM
+    
+    May 03, 2020 @ 11:13
+    
 *   Elderly allowed to return to work as coronavirus figures slow down
     
     May 03, 2020 @ 07:40
@@ -73,12 +77,12 @@ Breaking news
 *   Serious coronavirus cases continue to slide
     
     May 01, 2020 @ 07:52
-    
-*   Syria: Israel fires missiles from Golan into Quneitra region
-    
-    May 01, 2020 @ 07:46
     
 
+*   Confusion over reopening schools on Sunday
+    
+    May 02, 2020 @ 09:54
+    
 *   North Korean leader reappears after 20 days
     
     May 02, 2020 @ 09:45
@@ -91,9 +95,9 @@ Breaking news
     
     May 01, 2020 @ 07:52
     
-*   Syria: Israel fires missiles from Golan into Quneitra region
+*   High Court hears five petitions against allowing Netanyahu to be PM
     
-    May 01, 2020 @ 07:46
+    May 03, 2020 @ 11:13
     
 *   Elderly allowed to return to work as coronavirus figures slow down
     
@@ -123,9 +127,9 @@ Breaking news
     
     May 01, 2020 @ 07:52
     
-*   Syria: Israel fires missiles from Golan into Quneitra region
+*   High Court hears five petitions against allowing Netanyahu to be PM
     
-    May 01, 2020 @ 07:46
+    May 03, 2020 @ 11:13
     
 *   Elderly allowed to return to work as coronavirus figures slow down
     
@@ -138,10 +142,6 @@ Breaking news
 *   Some Israeli hospitals think about closing empty coronavirus wards
     
     May 02, 2020 @ 10:02
-    
-*   Confusion over reopening schools on Sunday
-    
-    May 02, 2020 @ 09:54
     
 
 12PrevNext
