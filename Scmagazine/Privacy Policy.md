@@ -280,23 +280,23 @@ Security basics: If you can’t make them sexy, make them simple
     *   Emailed
     *   Recent
     
-    *   COVID-19's impact on package deliveries creates golden opportunity for scammers
-    *   Malvertising scam leverages domain names that sound like legit COVID-19 sites
-    *   Emotet banking trojan possibly being prepped for a new attack
-    *   Shade ransomware gang gives up keys, apologizes to victims
-    *   Vulnerability management
-    
-    *   Cybersecurity snubbed in stimulus package
-    *   Banking trojan attack exposes dangers of not securing MDM solutions
-    *   Rethinking cyber risk
-    *   Aggah malspam campaign updated with new payloads
+    *   SBA emergency loan applicants' data likely exposed
+    *   Buyer beware, risk ahead
+    *   Fitness software maker Kinomap leaves database open exposing 42 million users
+    *   Cyberattack strikes down Colorado’s Parkview Medical Center
     *   Phishing campaign aims to steal Zoom credentials using fake layoff notifications
     
+    *   Shade ransomware gang gives up keys, apologizes to victims
+    *   Healthcare IT workers struggle to secure IoT devices during COVID-19
+    *   The quick and the breached: Futureproofing security operations
+    *   COVID-19's impact on package deliveries creates golden opportunity for scammers
+    *   Rethinking cyber risk
+    
+    *   Trump cites cybersecurity concerns issuing order to protect power grid
     *   Banking trojan attack exposes dangers of not securing MDM solutions
     *   Vulnerability management
     *   The new cybersecurity resilience
     *   Rethinking cyber risk
-    *   CISOs score big on employee risk
 
 Back to Top
 
@@ -329,4 +329,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
