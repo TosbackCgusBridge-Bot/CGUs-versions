@@ -102,7 +102,6 @@ Autodesk logo
     *   File viewers
     *   Updates &. service packs
 *   Buy
-    *   Buy Online
     *   Purchase by phone:  
         1-855-664-9297
     *   Find a reseller
@@ -414,7 +413,6 @@ Products
 
 Buying
 
-*   Buy online
 *   Special offers
 *   Manage your account
 *   Help with buying
@@ -473,7 +471,6 @@ Products
 
 Buying
 
-*   Buy online
 *   Special offers
 *   Manage your account
 *   Help with buying
@@ -532,7 +529,6 @@ Products
 
 Buying
 
-*   Buy online
 *   Special offers
 *   Manage your account
 *   Help with buying
