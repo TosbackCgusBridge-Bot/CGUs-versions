@@ -717,13 +717,13 @@ Starting at
 
 Girls $14.87
 
-Girls Backyard Buster Jeans
+Girls Backyard Buster Jeans Shop Girls Jeans
 
 Starting at
 
 Guys $17.87
 
-Guys Backyard Buster Jeans Aero's Sustainability Efforts Shop Girls Tees Shop Guys Tees <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS
+Guys Backyard Buster Jeans Shop Guys Jeans Aero's Sustainability Efforts Shop Girls Tees Shop Guys Tees <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS
 
 For more information, please see our **Privacy Policy**. California residents, see our **California Privacy Notice** and **Do Not Sell My Personal Information** page.
 
