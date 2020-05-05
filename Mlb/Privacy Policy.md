@@ -403,6 +403,8 @@ If you are a resident of California, pursuant to California Civil Code Section 1
     **Email**: dataprivacy@mlb.com
 *   Notification of Changes. If we make an important change to this Privacy Policy, we will post a notification and link within the MLB Properties so that you may review the updated policy.
 
+<img height="1" width="1" border="0" alt="" src="https://s.amazon-adsystem.com/iui3?d=forester-did&amp;ex-fargs=%3Fid%3Df676acbf-94c1-b002-cf3b-a141543520c3%26type%3DUNKNOWN%26m%3D1&amp;ex-fch=416613&amp;ex-src=https://www.mlb.com/&amp;ex-hargs=v%3D1.0%3Bc%3D3109057730001%3Bp%3DF676ACBF-94C1-B002-CF3B-A141543520C3">.
+
 *   OFFICIAL INFORMATION
     *   Official Info
     *   About MLB
@@ -441,15 +443,12 @@ If you are a resident of California, pursuant to California Civil Code Section 1
     *   LasMayores.com
     *   MLBCommunity.org
     *   AllStarGame.com
-    *   MLB.com/DR
     *   MLB.com/Kids
     *   MLB Photostore
     *   Offseason Leagues
     *   PlayBall.org
 *   CAREERS
-    *   Careers with MLB.com
-    *   Careers with the Commissioner's Office
-    *   Careers at MLB Network
+    *   Careers Home
 
 Connect with MLB
 
@@ -457,5 +456,6 @@ Connect with MLB
 *   Privacy Policy
 *   Legal Notices
 *   Contact Us
+*   Cookie Preferences
 
-© 2020 MLB Advanced Media, LP. All rights reserved. <img height="1" width="1" border="0" alt="" src="https://s.amazon-adsystem.com/iui3?d=forester-did&amp;ex-fargs=%3Fid%3Df676acbf-94c1-b002-cf3b-a141543520c3%26type%3DUNKNOWN%26m%3D1&amp;ex-fch=416613&amp;ex-src=https://www.mlb.com/&amp;ex-hargs=v%3D1.0%3Bc%3D3109057730001%3Bp%3DF676ACBF-94C1-B002-CF3B-A141543520C3">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TGJ9RZ" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MD6MQQP" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+© 2020 MLB Advanced Media, LP. All rights reserved. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TGJ9RZ" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MD6MQQP" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
