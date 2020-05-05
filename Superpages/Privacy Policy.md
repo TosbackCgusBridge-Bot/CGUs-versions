@@ -13,7 +13,6 @@
     *   Thryv
     *   Internet Directories
     *   Real Yellow Pages
-    *   Online Display &. Social Media
     *   Search Engine Optimization
     *   Search Engine Marketing Services (SEM)
     *   Online Listings Management
@@ -44,7 +43,6 @@ Pay Bills, View Reporting, Manage Your Listings
 *   Thryv
 *   Internet Directories
 *   Real Yellow Pages
-*   Online Display &. Social Media
 *   Search Engine Optimization
 *   Search Engine Marketing
 *   Online Listings Management
@@ -398,7 +396,6 @@ Products
 *   Thryv
 *   Internet Directories
 *   The Real Yellow Pages
-*   Online Display &. Social Media
 *   Search Engine Optimization
 *   Search Engine Marketing
 *   Online Listings Management
@@ -428,7 +425,6 @@ Products+
 *   Thryv
 *   Internet Directories
 *   The Real Yellow Pages
-*   Online Display &. Social Media
 *   Search Engine Optimization
 *   Search Engine Marketing
 *   Online Listings Management
