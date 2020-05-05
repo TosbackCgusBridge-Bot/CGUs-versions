@@ -74,14 +74,14 @@ Search
     
     Conferences About
     *   About Us
-    *   Careers
+    *   Client Success Stories
     *   Contact Us
     *   Corporate Responsibility
     *   Investor Relations
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 848 5379 1 855 848 5379
+    1 855 811 3814 1 855 811 3814
     
 
 *   Solutions By Function
@@ -140,7 +140,7 @@ Search
 *   Conferences
 *   About
     *   About Us
-    *   Careers
+    *   Client Success Stories
     *   Contact Us
     *   Corporate Responsibility
     *   Investor Relations
@@ -149,7 +149,7 @@ Search
 
 *   Become a Client
     
-    1 855 848 5379 1 855 848 5379
+    1 855 811 3814 1 855 811 3814
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
