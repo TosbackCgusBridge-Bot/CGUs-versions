@@ -1,157 +1,57 @@
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-MGFFD8" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Skip to navigation Skip to content **Show navigation** Ulster University Search this website Search
+Coronavirus (COVID-19) : Key Information
 
-*   Home
-*   Courses
-    *   *   Courses
-        *   Course finder
-    *   Undergraduate
-    *   Postgraduate
-    *   Short courses
-    *   Part-time courses
-    *   eLearning
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MGFFD8" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
 
-*   Apply
-    *   *   Apply
-        *   How to apply
-        *   Admissions
-        *   Research students
-        *   International students
-        
-        *   Fees and finance
-        *   Undergraduate
-        *   Postgraduate
-        *   Part-time
-        *   Bursaries
-        *   Scholarships
-        
-        *   Entrance requirements
-        *   Equivalence of qualifications
-*   Ulster Life
-    *   *   Ulster Life
-        *   Accommodation
-        *   Campuses
-        *   Careers
-        *   Key facts
-        *   Sport
-        *   Students' Union
-        *   Student Support
-        *   Events
-        *   Open days
-        
-        *   Go to Ulster
-        *   Undergraduate
-        *   Postgraduate
-        *   Part-time
-        *   eLearning
-        *   Short courses
-        *   International
-        
-        *   **Information for...**
-        *   Parents and families
-        *   Teachers and Advisers
-        *   Further Education students
-        *   Associate students
-        *   GB students
-*   Research &. Innovation
-    *   *   Research &. Innovation
-        *   Our research
-        *   Work with us
-        *   Innovation
-        *   Research Institutes
-        
-        *   PhD/Research degrees
-        *   Current opportunities
-        *   How to apply
-        *   Funding
-        *   FAQs
-        *   Contact
-        
-        *   **More information**
-        *   REF 2014
-        *   Access Ulster
-*   Business
-    *   *   Business
-        *   Career Development &. Employment Opportunities
-        *   Conference Office
-        *   Development &. Alumni Relations Office
-        *   Innovation Ulster Ltd
-        *   Business Support Services
-        *   Continuing Professional Development
+Cookies &. Privacy
 
-*   Alumni
-*   International
-*   Current students
-*   Staff
-*   A-Z index
+Information on how cookies are used on ulster.ac.uk.
 
-1.  Home
-2.  Page Not Found
+Cookies &. Privacy
 
-Page Not Found
+Ulster University puts small files (known as 'cookies') onto your computer to collect information about how you browse the site.
 
-If you entered a web address please check it was correct.
+Cookies are used to:
 
-To find the information you need you can
+*   measure how you use the website so it can be updated and improved based on your needs
+*   remember the notifications you've seen so that we don't show them to you again
+*   remember your course compare selections
 
-*   Use course finder to find out about courses at Ulster University, compare and apply online
-*   Search all Ulster University's websites
-*   Browse from the homepage
-*   Browse the A-Z index
+> ulster.ac.uk cookies aren't used to identify you personally
 
-Site Links Courses
+You'll normally see a message on the site before we store a cookie on your computer.
 
-*   Course finder
-*   Undergraduate
-*   Postgraduate
-*   Part-time
-*   Short courses
+Find out more about how to manage cookies.
 
-Faculties
+How cookies are used on ulster.ac.ukMeasuring website usage (Google Analytics)
 
-*   Computing and Engineering
-*   Life and Health Sciences
-*   Social Sciences
-*   Ulster University Business School
-*   Arts
-*   Art, Design &. the Built Environment
+We use Google Analytics software to collect information about how you use ulster.ac.uk. We do this to help make sure the site is meeting the needs of its users and to help us make improvements.
 
-Quick links
+Google Analytics stores information about:
 
-*   Job opportunities
-*   About Ulster University
-*   News
+*   the pages you visit on ulster.ac.uk - how long you spend on each ulster.ac.uk page
+*   how you got to the site
+*   what you click on while you're visiting the site
 
-Students and staff
+We don't collect or store your personal information (eg your name or address) so this information can't be used to identify who you are.
 
-*   Staff
-*   Current students
+Use of cookie's message
 
-Contact details Find us
+You may see a cookie message when you first visit ulster.ac.uk. We'll store a cookie so that your computer knows you've seen it and knows not to show it again.
 
-*   Belfast
-*   Coleraine
-*   Jordanstown
-*   Magee
+Chat
 
-*   Find out more about Ulster University, Belfast campus
-*   Find out more about Ulster University, Coleraine campus
-*   Find out more about Ulster University, Jordanstown campus
-*   Find out more about Ulster University, Magee campus
+We use live chat software on our website, this is provided by Click4Assistance, a 3rd party UK based Software Company.
 
-Follow us:
+Information regarding how the data is processed and stored can be viewed here.
 
-*   Twitter
-*   Facebook
-*   Flickr
-*   YouTube  
+Cookies Accessibility Copyright Freedom of Information Modern Slavery Statement
 
-© Copyright 2015 Ulster University
+© Copyright 2020 Ulster University - Ulster University is a registered charity (registered with the Charity Commission for Northern Ireland NIC100166).
 
-*   Cookies &. Privacy
-*   Copyright
-*   Freedom of Information
-*   Contact Us
+ulster.ac.uk uses cookies to give users the best experience possible.
 
-Ulster.ac.uk uses cookies to give users the best experience possible. Find out more about cookies
+Find out more 
 
-Close<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1380040395442892&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1077797089096105&amp;ev=PageView&amp;noscript=1">.
+*    Dismiss
+
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1380040395442892&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1077797089096105&amp;ev=PageView&amp;noscript=1">.
