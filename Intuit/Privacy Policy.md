@@ -1,4 +1,5 @@
 Our COVID-19 response  DetailsEXTRA 30% OFF ends 5/6 with code: 4FAMILY Details  
+Jewelry Flash Sale! EXTRA 40% OFF w/ code: JEWELS14 Details  
 Free Shipping Over $49  DetailsOur COVID-19 response  DetailsEXTRA 30% OFF ends 5/6 with code: 4FAMILY Details  
 
 Enable Accessibility
@@ -20,13 +21,13 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-UP TO 40% OFF All Liz Claiborne
+UP TO 50% OFFCloset casual classics for warmer temps.Women's Topsselect stylesMen's Shortsselect stylesWomen's Jeansselect stylesGirls' Shirtsselect stylesUP TO 40% OFF All Liz Claiborne
 
 *   Shop Now
 
 *   Apparel
     
-*   Sandals
+*   Shoes
     
 *   Women's Swimwear
     
@@ -37,18 +38,17 @@ UP TO 40% OFF All Liz Claiborne
 *   Bath Towels
     
 
-Shop NowUP TO50% OFFCloset casual classics for warmer temps.  
-Shop All Casual ApparelWomen's TopsMen's ShortsWomen's JeansGirls' Shirts25% OFF Nike, Champion &. adidasShop brands that are built to last. Select styles. Excluded from coupons.   Get in gear! Outdoor essentials to beat the heat—and your goals. Active WatchesSunscreen atSephora inside JCPenneyRefresh yourroomsUP TO 40% OFF!select styles  
-Shop All HomeSheetsCurtains, Blinds &. ShadesBeddingPillowsLearn More Shop Gift CardsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+Shop Now25-50% OFF Swimwear for the familyDip your toes into these deals!Women's Swimwearselect stylesKids' Swimwearselect stylesMen's Swimwearselect stylesRefresh yourroomsUP TO 40% OFF!select styles  
+Shop All HomeSheetsCurtains, Blinds &. ShadesBeddingPillowsGet in gear! Outdoor essentials to beat the heat—and your goals. Active WatchesSunscreen atSephora inside JCPenneyShop Star WarsShop Local LookLearn More Shop Gift CardsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Home Expressions Solid or Stripe Bath Towel Collection $2.09 - $13.99with code~$6 - $48~532
+*   Home Expressions Solid or Stripe Bath Towel Collection $4.20 - $33.60with code532
 *   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
     $20sale
     
     ~$124.98~182
-*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $5.59with code~$13~23
+*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $6.29with code~$13~23
 *   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver
     
     $20sale
@@ -67,11 +67,19 @@ Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded
 
 Sponsored Items
 
-*   Beautyrest ® BR800™ Firm - Mattress Only $408.99 - $639with code~$1,300 - $2,000~33
+*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
+    
+    $14.99
+    
+    10
 *   Range Kleen Full Size Oven Liner $12.59with code~$19~
-*   Beautyrest ® BR800™ Medium - Mattress Only $378.99 - $539with code~$1,200 - $1,650~3
-*   Serta® Sleeptrue® Lindridge Firm - Mattress Only $359 - $588.99with code~$1,000 - $1,750~4
+*   Brim 0.8L Electric Kettle
+    
+    $149.99sale
+    
+    ~$150~21
 *   Serta Icomfort Blue Fusion 100 Firm Tight-Top Hybrid Mattress $459 - $1398.99with code~$1,480 - $3,420~163
+*   Serta® Sleeptrue® Lindridge Firm - Mattress Only $308.99 - $539with code~$1,000 - $1,750~4
 *   Fisher-Price Laugh &. Learn Smart Stages Puppy
     
     $19.99
@@ -82,39 +90,35 @@ Sponsored Items
     $15.99
     
     7
-*   Lee® Relaxed Fit Straight Leg Jeans - Plus $20.29with code~$48~554
-*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
-    
-    $14.99
-    
-    10
-*   Lee® Relaxed Fit Straight Leg Jeans - Tall $20.29 - $33.60with code139
-*   Fisher-Price Linkimals Smooth Moves Sloth
-    
-    $29.99
-    
-    34
-*   Fisher-Price Laugh &. Learn Smart Stages Sis
-    
-    $19.99
-    
-    48
-*   Lee® Relaxed All Day Pant - Plus $20.29with code~$48~534
-*   Range Kleen 4-Pack Drip Bowls $17.49with code~$34~
-*   Lee® Flex Motion Bootcut Jeans $20.99with code~$50~30
-*   Fisher-Price Learn with Me Zebra Walker
-    
-    $24.99
-    
-    38
-*   Google Nest Hello Video Doorbell $206.10with code358
+*   Lee® Instantly Slims Classic Jean- Tall $23.09with code~$48~161
 *   Fisher-Price Linkimals A To Z Otter
     
     $19.99
     
     23
-*   Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit) $18.19with code~$44~628
-*   Lee® Relaxed Fit Jeans $18.19with code~$44~2285
+*   Range Kleen 4-Pack Drip Bowls $17.49with code~$34~
+*   Fisher-Price Laugh &. Learn Smart Stages Sis
+    
+    $19.99
+    
+    48
+*   Fisher-Price Learn with Me Zebra Walker
+    
+    $24.99
+    
+    38
+*   Lee® Wrinkle Free Relaxed Straight Leg Pant $20.99with code~$44~17
+*   Fisher-Price Linkimals Smooth Moves Sloth
+    
+    $29.99
+    
+    34
+*   Lee® Plain Front Relaxed All Day Twill Pant $20.99with code~$44~783
+*   Lee® Instantly Slims Classic Jean- Plus $23.09with code~$48~131
+*   Lee® Flex Motion Bootcut Jeans $24.49with code~$50~30
+*   Lee® Relaxed All Day Pant - Plus $23.09with code~$48~534
+*   Lee® Flex Motion Straight Leg Jean $24.49with code~$50~104
+*   Lee® Relaxed Fit Straight Leg Jeans - Plus $23.09with code~$48~554
 
 Shop and Save at JCPenney
 
