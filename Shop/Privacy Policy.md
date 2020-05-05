@@ -585,9 +585,6 @@ Lenovo Explore Close
         *   Education
         *   Small Business
     *   Data Center Services
-        
-        *   Why Lenovo in the Data Center
-        
         *   Explore Services
         *   Solution Services
         *   Implementation Services
@@ -626,7 +623,7 @@ Lenovo Explore Close
 1-855-253-6686
 
 *   Search
-*   icon-compare0 Compare Compare (0)
+
 *   LenovoPro
     *   Sign In To LenovoPRO
     *   Learn more
@@ -710,13 +707,7 @@ Top Suggestions
 
 View all >.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
-
-Please add at least 2 products for compare
-
-Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
-
-Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
 
 protects better"/>.
 
@@ -1212,7 +1203,7 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement **Need help with an order? Talk with a Sales Representative 1-855-253-6686 #2** **or chatChat Now** **Need help with an order? Talk with a Sales Representative 1-855-253-6686 #2** **or chatChat Now**×Created with sketchtool.CHAT NOW
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Launches comment card in new windowFeedbackCreated with sketchtool.CHAT NOW
 
 How can we help
 
@@ -1222,4 +1213,4 @@ you today?
 
 Call us: 1-855-253-6686
 
-Ask us about our price match policy >Check order status >Technical support or Repair status >Launches comment card in new windowFeedback
+Ask us about our price match policy >Check order status >Technical support or Repair status >
