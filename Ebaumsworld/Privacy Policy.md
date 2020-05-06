@@ -363,8 +363,8 @@ Our Service does not respond to Do Not Track signals. For more information about
 
 You may send Viumbe requests, responses, questions and complaints, by contacting Viumbe at contact@viumbe.com, or by post mail to:  
 Viumbe, LLC  
-146 N. Canal St. Suite 210  
-Seattle, WA 98103.
+61 Greenpoint Ave Suite 101  
+Brooklyn, NY 11222.
 
 **13\.** **DATA PROTECTION OFFICER**
 
