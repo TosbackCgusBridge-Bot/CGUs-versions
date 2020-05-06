@@ -120,7 +120,7 @@ Expand all panelsShow all panels | Hide all panelsImposter: "I'm with the IRS an
 
 **Trending now**Be alert for scams! Don’t give your personal information to “sign-up” or get your “stimulus payment” early. Visit the Federal Trade Commission’s Coronavirus scam tips to recognize potential fraud, at consumer.ftc.gov
 
-Set your privacy choices
+Fraud prevention checklistSet your privacy choices
 
   
 You control how we market to you and share your information.
