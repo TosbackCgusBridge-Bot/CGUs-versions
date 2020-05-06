@@ -46,7 +46,7 @@ Visit Indeed
 
 **Privacy Policy**
 
-Last updated April 27, 2020
+Last updated May 5, 2020
 
 **Summary of Indeed’s Privacy Policy** **1\. Introduction**
 
@@ -71,7 +71,7 @@ We collect information:
 *   you choose to provide to us through our Site e.g. contact details, resume details, location data;
 *   through your activity on Indeed e.g. information from your device and actions taken on the Site, e.g., searches you run or jobs you click on;
 *   when you apply to jobs, use screener or assessment questions or automated phone screening, or log in from third party sites. and
-*   where you are an Employer providing necessary Employer information, e.g., for verification and billing purposes.
+*   where you use chargeable services or are an Employer providing necessary Employer information, e.g., for verification and billing purposes.
 
 Full details of the types of Personal Data we collect from you are set out in **sections 2.1 – 2.3**, and details of the legal basis for such collection are set out in **section 2.6** of our full Privacy Policy.
 
@@ -85,7 +85,7 @@ We collect and use your information in order to help Job Seekers find jobs, to h
 *   make your resume available to third-parties, depending on your privacy settings (e.g. private or public resume); 
 *   match Job Seekers with Employer Job Listings; 
 *   prevent fraud, spam and other potentially fraudulent or illegal activities; 
-*   facilitate payment, if you are an Employer; 
+*   facilitate payment, in connection with chargeable services; 
 *   carry out automated processing in order to provide many of our services; 
 *   enhance and optimize our services and security for Job Seekers and Employers by data sharing with our Affiliated Entities and Websites; 
 *   improve our Services, maintain product quality and protect users. and 
@@ -175,9 +175,11 @@ If you use any automated phone screening product, Indeed will record and store y
 
 **_– When Providing Employer Information_**
 
-If you are an Employer, Indeed may request that you provide certain Personal Data to Indeed in order to verify your account. This information may include, but may not be limited to, your Federal Employer Identification Number (EIN), Business Registration information, or a utility bill, the name and email address of an Employer representative.
+If you are an Employer, Indeed may request that you provide certain Personal Data to Indeed in order to verify your account. This information may include, but may not be limited to, your Federal Employer Identification Number (EIN), Business Registration information, or a utility bill, the name and email address of an Employer representative. This information will be used for internal purposes only, subject to any request by law enforcement or a court order.
 
-This information will be used for internal purposes only, subject to any request by law enforcement or a court order. In connection with chargeable services, we will also collect payment information (e.g., the last four digits of credit card numbers and related verification information). Please note that Indeed only has access to the last four digits of Employer credit card numbers, and does not store full credit card numbers.
+**_–_ _When Using Chargeable Services_**
+
+In connection with chargeable services, we will also collect payment information (e.g., the last four digits of credit, debit, or other payment card numbers and related verification information). Please note that Indeed only has access to the last four digits of credit, debit, or other payment card numbers, and does not store full card numbers or related card security codes.
 
 **2.2 Information Collected When You Apply for Jobs or Access Indeed from Some Third-Party Websites**
 
@@ -367,7 +369,7 @@ Indeed reserves the right to verify and confirm the identity of any party associ
 
 **4.12 Facilitating Payment**
 
-If you provide credit, debit or other payment card and related details to us in order to make a payment, Indeed will use such information only for the purpose of processing the payment (e.g., the last four digits of credit card numbers and related verification information). Any credit card and related billing and payment information that you provide to Indeed may be shared by Indeed with companies who work on Indeed’s behalf, such as payment processors and/or credit agencies, solely for the purposes of checking credit, effecting payment to Indeed and servicing your account.
+If you provide credit, debit or other payment card and related details to us in order to make a payment, Indeed will use such information only for the purpose of processing the payment (e.g., the last four digits of credit card numbers and related verification information). Any credit, debit, or other payment card and related billing and payment information that you provide to Indeed may be shared by Indeed with companies who work on Indeed’s behalf, such as payment processors and/or credit agencies, solely for the purposes of checking credit, effecting payment to Indeed and servicing your account.
 
 **4.13 Automated Processing of Your Personal Data**
 
@@ -427,7 +429,7 @@ Indeed may transfer your Personal Data in limited situations to certain third-pa
 
 –  **_Facilitating Payments_**
 
-Indeed may also share any credit card and related billing and payment information that you provide to Indeed with companies who work on Indeed’s behalf, such as payment processors and/or credit agencies, solely for the purposes of checking credit, effecting payment to Indeed and servicing your account. Examples of those vendors include: CVENT.
+Indeed may also share any credit, debit, or other payment card and related billing and payment information that you provide to Indeed with companies who work on Indeed’s behalf, such as payment processors and/or credit agencies, solely for the purposes of checking credit, effecting payment to Indeed and servicing your account. Examples of those vendors include: CVENT.
 
 **_– Installing or Using an Indeed App_**
 
