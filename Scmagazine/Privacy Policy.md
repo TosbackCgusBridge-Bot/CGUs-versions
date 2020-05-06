@@ -280,23 +280,23 @@ Security basics: If you can’t make them sexy, make them simple
     *   Emailed
     *   Recent
     
-    *   SBA emergency loan applicants' data likely exposed
-    *   Buyer beware, risk ahead
-    *   Fitness software maker Kinomap leaves database open exposing 42 million users
+    *   CISOs score big on employee risk
+    *   Online leak undermines Torrance's claim that no personal data was affected by cyberattack
     *   Cyberattack strikes down Colorado’s Parkview Medical Center
-    *   Phishing campaign aims to steal Zoom credentials using fake layoff notifications
-    
-    *   Shade ransomware gang gives up keys, apologizes to victims
-    *   Healthcare IT workers struggle to secure IoT devices during COVID-19
+    *   Cybersecurity should be No. 1 pick on NFL Draft Day
     *   The quick and the breached: Futureproofing security operations
-    *   COVID-19's impact on package deliveries creates golden opportunity for scammers
-    *   Rethinking cyber risk
     
-    *   Trump cites cybersecurity concerns issuing order to protect power grid
-    *   Banking trojan attack exposes dangers of not securing MDM solutions
-    *   Vulnerability management
-    *   The new cybersecurity resilience
-    *   Rethinking cyber risk
+    *   Exposure of 7.4B records at Le Figaro highlights ongoing problems with misconfigured databases
+    *   Eight-year-old zero day vulnerabilities found in iOS email app
+    *   Brute forcing RDP credentials on the rise
+    *   VMWare patches XSS vulnerability in ESXI
+    *   The quick and the breached: Futureproofing security operations
+    
+    *   Cut costs while bolstering cybersecurity during Covid-19
+    *   GoDaddy takes seven months to discover data breach
+    *   Exposure of 7.4B records at Le Figaro highlights ongoing problems with misconfigured databases
+    *   Notification emails impersonate Microsoft Teams to steal credentials
+    *   Salt exploit attacks expose underestimated threat vector: Infrastructure-as-Code tools
 
 Back to Top
 
@@ -329,4 +329,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
