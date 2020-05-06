@@ -9,9 +9,34 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
+    *   Free Shipping: BergHOFF Up to 55% Off
+    *   Kitchen Appliance Best Sellers ft. Smeg
+    *   Stay Cozy in Bed: Anthropologie Home &. More
+    *   Backyard Accessories &. Decor from $20
+    *   Running Shoes ft. Brooks, ASICS &. HOKA ONE ONE
+    *   Z By Zella Starting at $17
+    *   Men's Running Shoes ft. Brooks &. ASICS
+    *   Dresses Under $30 Incl. Plus &. Petites
+    *   Luxe Brands Up to 70% Off ft. Paul &. Joe Sister
+    *   White Hot: Jeans, Denim Jackets &. More
+    *   ECCO Men
+    *   Flora Nikrooz &. More
+    *   Z By Zella Girl Starting at $13
+    *   Make a Splash: Kids' Swim Up to 65% Off
+    *   Top Off Your Look: Hats &. Hair Accessories
+    *   SUSINA Shoes &. More Up to 60% Off
+    *   Get Pumped: Bold Contemporary Heels
+    *   Premium Dress Shirts ft. BOSS Up to 70% Off
+    *   Easy WFH Hair: Dry Shampoo &. More
+    *   Kids' Active Shoes
+    *   So Fetch: Pet Accessories &. More
+    *   Tidy Up Your Kitchen: Storage Essentials
+    *   Men's Active ft. Z By Zella Up to 65% Off
+    *   Sunday Style Steals Under $20
     *   Free People
     *   Free People FP Movement
     *   Barefoot Dreams Up to 55% Off
+    
     *   Playful Printed Dresses
     *   SOREL Up to 50% Off
     *   Stateside &. More Up to 65% Off
@@ -22,83 +47,63 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   1200 Thread Count Sheets Sets Up to 60% Off
     *   KORKS &. Kork-Ease
     *   Tea Collection Starting at $10
-    *   Hickey Freeman Up to 65% Off
     *   Graphic Tees Under $25
     *   Formal Shoes for Him
     *   Faherty Brand Up to 70% Off
     *   SPROX
-    *   Commando
-    *   FitFlop Up to 60% Off
-    *   Throwback Styles: Shoes ft. bebe &. GUESS
-    *   Florsheim
-    *   Sunday Style Steals Under $20
     *   Utilize These: Trench Coats, Rain Jackets &. More
     *   For Now &. Later: Booties and Boots Up to 65% Off
     *   Men's Shoe Steals Up to 70% Off
     *   Theory
     *   Theory Men
-    *   Taylor &. More Up to 60% Off Incl. Plus &. Petites
-    
-    *   Bobeau Up to 70% Off Incl. Plus &. Petites
-    *   Becca Swim Up to 70% Off
     *   Billabong, Rip Curl &. More for Him
     *   Merrell Men
-    *   Mules &. Slides Up to 60% Off
-    *   Merrell
-    *   1.State &. More Up to 60% Off
     *   Glam for the Cam: Lipsticks, Blushes &. More
     *   Fragrance Gift Sets ft. Burberry
     *   Baby Essentials Starting at $10
     *   First Steps: Baby &. Toddler Shoes
     *   Fun for Bedtime: Kids' Sleepwear ft. Leveret
     *   Chaco Kids
+    
     *   Silk Pillowcases ft. Blissy
-    *   Lucky Brand Incl. Plus
-    *   BCBGeneration Up to 60% Off
-    *   Polished Picks Up to 75% Off ft. Adrianna Papell
-    *   Block Heel Sandals &. More Up to 60% Off
-    *   Plus Finds: Comfy &. Cozy Styles from $17
-    *   The Casual Life: Petite Styles from $17
-    *   Weekend Workout: Sports Bras &. Shorts Under $35
-    *   CALPAK
-    *   Exclusively Ours: Suiting, Dress Shirts, Ties &. More
-    *   b.tempt'd by Wacoal Under $25
     *   Free Shipping: Framed Art Up to 65% Off
     *   Mezlan Up to 50% Off
-    *   Earth Origins from $40
-    *   Fresh Finds: Women's Shoes Up to 60% Off
-    *   Trending Now: Kids' Active Starting at $10
-    
-    *   Men's Joggers Up to 65% Off
-    *   Unicorns &. Glitter: Girls' Shoes from $20
     *   Just In: Makeup ft. Lime Crime
-    *   Designer Sunglasses Under $100
     *   Backyard Fun: Women's Swim, Clothing &. More
     *   Backyard Fun: Kids' Styles &. More Up to 65% Off
     *   Backyard Fun: Decor, Accessories &. More from $15
-    *   Bally Men Up to 50% Off
-    *   Kenneth Cole Reaction
     *   Outdoor Play: Sun Hats &. More ft. Eugenia Kim
     *   One-Stop Hair Shop: Tools, Conditioner &. More
-    *   Rockport Men Up to 50% Off
     *   Bedding Steals Up to 65% Off
-    *   Skin Care Tools Starting at $10
-    *   Give Some Sparkle: Last-Minute Gifts for Mom
     *   Free Shipping: Faux Plants &. Planters
     *   Free Shipping: Pillow &. Throw Blowout
-    *   At-Home Chef: Quality Cookware ft. Cuisinart
-    *   Ninja Kitchen Appliances
-    *   Bathroom Revamp: Accessories Up to 50% Off
-    *   Tackle the Clutter: Storage for Every Room
-    *   Home Decor Steals Up to 60% Off
     *   Monica Vinader Fine Jewelry Up to 75% Off
     *   Free Shipping: Sheet Sets, Duvets &. More
     *   Free Shipping: Decor for Every Style
     *   Home Updates: Stylish Wall Decor &. Accents
-    *   Smart Watch Bands &. More Up to 70% Off
-    *   Billabong, Rip Curl &. More Under $50
+    *   Commando
+    *   FitFlop Up to 60% Off
+    *   Throwback Styles: Shoes ft. bebe &. GUESS
+    *   Hickey Freeman Up to 65% Off
+    *   Laundry by Shelli Segal Up to 75% Off Incl. Plus
+    *   Florsheim
+    *   Bobeau Up to 70% Off Incl. Plus &. Petites
+    *   Lucky Brand Incl. Plus
+    *   Plus Finds: Comfy &. Cozy Styles from $17
+    *   The Casual Life: Petite Styles from $17
 *   WomenShop Sale Events
     
+    *   Running Shoes ft. Brooks, ASICS &. HOKA ONE ONE
+    *   Z By Zella Starting at $17
+    *   Dresses Under $30 Incl. Plus &. Petites
+    *   Luxe Brands Up to 70% Off ft. Paul &. Joe Sister
+    *   White Hot: Jeans, Denim Jackets &. More
+    *   Flora Nikrooz &. More
+    *   Top Off Your Look: Hats &. Hair Accessories
+    *   SUSINA Shoes &. More Up to 60% Off
+    *   Get Pumped: Bold Contemporary Heels
+    *   Easy WFH Hair: Dry Shampoo &. More
+    *   Sunday Style Steals Under $20
     *   Free People
     *   Free People FP Movement
     *   Playful Printed Dresses
@@ -108,43 +113,26 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Pieces That Pop: Tops &. More ft. Endless Rose
     *   Freida Rothman &. More Up to 60% Off
     *   Skin Care Up to 60% Off
+    
     *   KORKS &. Kork-Ease
-    *   Commando
-    *   FitFlop Up to 60% Off
-    *   Throwback Styles: Shoes ft. bebe &. GUESS
-    *   Sunday Style Steals Under $20
     *   Utilize These: Trench Coats, Rain Jackets &. More
     *   For Now &. Later: Booties and Boots Up to 65% Off
     *   Theory
-    *   Taylor &. More Up to 60% Off Incl. Plus &. Petites
-    *   Bobeau Up to 70% Off Incl. Plus &. Petites
-    *   Becca Swim Up to 70% Off
-    *   Mules &. Slides Up to 60% Off
-    *   Merrell
-    *   1.State &. More Up to 60% Off
-    
     *   Glam for the Cam: Lipsticks, Blushes &. More
     *   Fragrance Gift Sets ft. Burberry
-    *   Lucky Brand Incl. Plus
-    *   BCBGeneration Up to 60% Off
-    *   Polished Picks Up to 75% Off ft. Adrianna Papell
-    *   Block Heel Sandals &. More Up to 60% Off
-    *   Plus Finds: Comfy &. Cozy Styles from $17
-    *   The Casual Life: Petite Styles from $17
-    *   Weekend Workout: Sports Bras &. Shorts Under $35
-    *   CALPAK
-    *   b.tempt'd by Wacoal Under $25
-    *   Earth Origins from $40
-    *   Fresh Finds: Women's Shoes Up to 60% Off
     *   Just In: Makeup ft. Lime Crime
-    *   Designer Sunglasses Under $100
     *   Backyard Fun: Women's Swim, Clothing &. More
     *   Outdoor Play: Sun Hats &. More ft. Eugenia Kim
     *   One-Stop Hair Shop: Tools, Conditioner &. More
-    *   Skin Care Tools Starting at $10
-    *   Give Some Sparkle: Last-Minute Gifts for Mom
     *   Monica Vinader Fine Jewelry Up to 75% Off
-    *   Billabong, Rip Curl &. More Under $50
+    *   Commando
+    *   FitFlop Up to 60% Off
+    *   Throwback Styles: Shoes ft. bebe &. GUESS
+    *   Laundry by Shelli Segal Up to 75% Off Incl. Plus
+    *   Bobeau Up to 70% Off Incl. Plus &. Petites
+    *   Lucky Brand Incl. Plus
+    *   Plus Finds: Comfy &. Cozy Styles from $17
+    *   The Casual Life: Petite Styles from $17
     
     Shop By Category
     *   Clothing
@@ -152,44 +140,39 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Jewelry
     *   Accessories
     *   Lingerie &. Shapewear
-    *   Watches
-    *   Handbags
 *   MenShop Sale Events
     
-    *   Hickey Freeman Up to 65% Off
+    *   Men's Running Shoes ft. Brooks &. ASICS
+    *   ECCO Men
+    *   Premium Dress Shirts ft. BOSS Up to 70% Off
+    *   Men's Active ft. Z By Zella Up to 65% Off
     *   Graphic Tees Under $25
     *   Formal Shoes for Him
     *   Faherty Brand Up to 70% Off
-    *   Florsheim
+    
     *   Men's Shoe Steals Up to 70% Off
     *   Theory Men
     *   Billabong, Rip Curl &. More for Him
     *   Merrell Men
-    
-    *   CALPAK
-    *   Exclusively Ours: Suiting, Dress Shirts, Ties &. More
     *   Mezlan Up to 50% Off
-    *   Men's Joggers Up to 65% Off
-    *   Designer Sunglasses Under $100
-    *   Bally Men Up to 50% Off
-    *   Kenneth Cole Reaction
-    *   Rockport Men Up to 50% Off
+    *   Hickey Freeman Up to 65% Off
+    *   Florsheim
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
+    *   Z By Zella Girl Starting at $13
+    *   Make a Splash: Kids' Swim Up to 65% Off
+    *   Kids' Active Shoes
     *   Tea Collection Starting at $10
     *   SPROX
     *   Baby Essentials Starting at $10
     *   First Steps: Baby &. Toddler Shoes
     *   Fun for Bedtime: Kids' Sleepwear ft. Leveret
     *   Chaco Kids
-    *   Trending Now: Kids' Active Starting at $10
-    *   Unicorns &. Glitter: Girls' Shoes from $20
     *   Backyard Fun: Kids' Styles &. More Up to 65% Off
     
     Shop By Category
@@ -201,51 +184,50 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Toys
 *   HomeShop Sale Events
     
+    *   Free Shipping: BergHOFF Up to 55% Off
+    *   Kitchen Appliance Best Sellers ft. Smeg
+    *   Stay Cozy in Bed: Anthropologie Home &. More
+    *   Backyard Accessories &. Decor from $20
+    *   So Fetch: Pet Accessories &. More
+    *   Tidy Up Your Kitchen: Storage Essentials
     *   Barefoot Dreams Up to 55% Off
     *   1200 Thread Count Sheets Sets Up to 60% Off
     *   Silk Pillowcases ft. Blissy
+    
     *   Free Shipping: Framed Art Up to 65% Off
     *   Backyard Fun: Decor, Accessories &. More from $15
     *   Bedding Steals Up to 65% Off
     *   Free Shipping: Faux Plants &. Planters
     *   Free Shipping: Pillow &. Throw Blowout
-    
-    *   At-Home Chef: Quality Cookware ft. Cuisinart
-    *   Ninja Kitchen Appliances
-    *   Bathroom Revamp: Accessories Up to 50% Off
-    *   Home Decor Steals Up to 60% Off
     *   Free Shipping: Sheet Sets, Duvets &. More
     *   Free Shipping: Decor for Every Style
     *   Home Updates: Stylish Wall Decor &. Accents
-    *   Smart Watch Bands &. More Up to 70% Off
     
     Shop By Category
-    *   Home Decor
     *   Bedding
-    *   Luggage &. Travel
-    *   Electronic &. Tech Accessories
-    *   Cleaning &. Organization
+    *   Home Decor
+    *   Pet Accessories
     *   Kitchen &. Tabletop
-    *   Bath
     *   Outdoor Living
     *   Rugs &. Doormats
-    *   Pet Accessories
-    *   Holiday Decorations
+    *   Electronic &. Tech Accessories
+    *   Bath
+    *   Cleaning &. Organization
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Easy WFH Hair: Dry Shampoo &. More
     *   Skin Care Up to 60% Off
     *   Glam for the Cam: Lipsticks, Blushes &. More
     *   Fragrance Gift Sets ft. Burberry
     *   Just In: Makeup ft. Lime Crime
     *   One-Stop Hair Shop: Tools, Conditioner &. More
-    *   Skin Care Tools Starting at $10
     
     Shop By Category
     *   Makeup
-    *   Fragrance
-    *   Men’s Grooming
     *   Skin Care
+    *   Men’s Grooming
+    *   Fragrance
     *   Hair Care
     *   Tools &. Accessories
     *   Bath &. Body
