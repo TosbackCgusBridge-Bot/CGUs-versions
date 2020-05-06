@@ -28,16 +28,16 @@ View more results
     *   Dove Prom Dolly Dress Up
     *   Dark Chocolate Blackberry Cheesecake: Sara's Cooking Class
     *   Year Round Fashionista: Curly
-    *   Cute Room Decoration
     *   Ellie Love Trouble
+    *   Cute Room Decoration
     *   Floral Real Life Manicure
-    *   Beach Kiss
     *   BFFs Dressing Room
     *   How To Become Popular at School with Princess
     *   Dotted Girl: Back Treatment
-    *   Ice Queen: Beauty Makeover
-    *   Burger Chef: Cooking Story
+    *   Beach Kiss
     *   Goldie: Lip Injections
+    *   Ice Queen: Beauty Makeover
+    *   Ice Slushy Maker
 *   Racing
     
     Top Categories
@@ -54,16 +54,16 @@ View more results
     All Racing Best Games
     *   Maximum Acceleration: 3D Drift Game
     *   Hill Racing Challenge
+    *   City Car Stunts 2
     *   Off-Road Cycle 3D
     *   Madalin Stunt Cars 2
-    *   City Car Stunts 2
     *   Real Dog Racing Simulator
     *   Moto X3M 5: Pool Party
     *   Cars 3D
     *   Off-Roader V6
     *   Formula Racer
-    *   Madalin Cars Multiplayer
     *   Stock Car Hero
+    *   Madalin Cars Multiplayer
     *   Xcross Madness
     *   Race City
 *   Shooting
@@ -89,11 +89,11 @@ View more results
     *   Pixel Gun Apocalypse 3
     *   Archery World Tour
     *   Hunter 3D
-    *   Apple Shooter
     *   Mr. Bullet
+    *   Apple Shooter
     *   Combat Reloaded
+    *   Shot Trigger
     *   Sniper Code
-    *   Winter Clash 3D
 *   Puzzle
     
     Top Categories
@@ -115,13 +115,13 @@ View more results
     *   Aztec Adventure
     *   Jewelry Match
     *   Mahjong Connect Classic
-    *   Line Puzzle
-    *   Farm Connect 2
     *   Cartoon Rabbit Jigsaw Puzzles
+    *   Farm Connect 2
+    *   Line Puzzle
     *   TenTrix
     *   Word Wipe
     *   Bubble Hit
-    *   Forest of Wonder
+    *   Word Connect
 *   Action
     
     Top Categories
@@ -144,12 +144,12 @@ View more results
     *   Naruto Online
     *   Army Force Strike: 3D Shooting Game Online Multiplayer
     *   Super Buddy Kick
-    *   Short Life
     *   Stickman Warriors
-    *   Pixel Gun Apocalypse 3
+    *   Short Life
     *   Bomb It 6
-    *   Age of War
+    *   Pixel Gun Apocalypse 3
     *   Wormate.io
+    *   Age of War
 *   Multiplayer
     
     Top Categories
@@ -175,8 +175,8 @@ View more results
     *   Naruto Online
     *   Kogama: Escape from Prison
     *   Madalin Cars Multiplayer
-    *   Army Force Strike: 3D Shooting Game Online Multiplayer
     *   Crowd City
+    *   Army Force Strike: 3D Shooting Game Online Multiplayer
     *   Master Chess Multiplayer
 *   Adventure
     
@@ -195,14 +195,14 @@ View more results
     *   Fireboy and Watergirl 5: Elements
     *   World Craft 2
     *   Troll Face Quest: Horror 2
-    *   KOGAMA: Kowara
     *   Adam and Eve 3
+    *   KOGAMA: Kowara
     *   Adam and Eve 2
     *   Adam and Eve
     *   Bob the Robber 4: Season 2 Russia
     *   Adam and Eve 4
-    *   Ouija Voices
     *   Dumb Ways to Die: Original
+    *   Ouija Voices
     *   Miami Crime Simulator 3D
     *   World Crafts
     *   Dog Simulator: Puppy Craft
