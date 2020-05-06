@@ -38,10 +38,10 @@ Main menu
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 2:11 Snapped What Happened To Michael Severance? 2:28 Killer Couples The Different Sides of Nicholas Godejohn
+    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 1:29 An Unexpected Killer Woman Brutally Killed At Louisiana Home 0:35 Cold Justice 'Cold Justice' Investigates Keith Jones' Fort Myers Motel Murder
 *   News
     *   Crime News
-    *   True Crime BuzzLori Vallow Daybell is seen during her hearing on Friday, March 6, 2020, in Rexburg, Idaho. Photo: John Roark/The Idaho Post-Register/AP Crime News Lori Vallow's Request For Bond Reduction Denied Sylvia White Crime News North Carolina Mom Kills Stepson, Husband Decades Apart Crime News Elderly Woman Arrested For Murder With 'Cold Justice' Help
+    *   True Crime BuzzCrime News Elderly Woman Arrested For Murder With 'Cold Justice' Help Jonathan Fava and Kelly Lynn Bray Photo: Facebook Crime News Death Of NY Couple Was A Drunken Accident, Police Say Lori Vallow Daybell is seen during her hearing on Friday, March 6, 2020, in Rexburg, Idaho. Photo: John Roark/The Idaho Post-Register/AP Crime News Lori Vallow's Husband Sent 'Chilling' Texts Before Death
 *   Podcasts
 *   Detective's Den
 *   Schedule
