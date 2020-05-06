@@ -221,10 +221,10 @@ Lenovo Explore Close
         *   Legion Keyboards
         *   Legion Monitors
         
-        Shop Gaming
-        
-        Shop everything gaming from consoles to headsets, and check our your favorite brands like Xbox &. Nintendo.
-        
+        *   Quick Links
+        *   Hyper X
+        *   Headsets &. Headphones
+        *   Lenovo Legion 5i
     *   Business
         
         *   Always Free Shipping
@@ -1203,14 +1203,4 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Launches comment card in new windowFeedbackCreated with sketchtool.CHAT NOW
-
-How can we help
-
-you today?
-
-×SALES CHATEXISTING ORDER HELPSALES CHATEXISTING ORDER HELPBUSINESS SALESBUSINESS SALES
-
-Call us: 1-855-253-6686
-
-Ask us about our price match policy >Check order status >Technical support or Repair status >
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement
