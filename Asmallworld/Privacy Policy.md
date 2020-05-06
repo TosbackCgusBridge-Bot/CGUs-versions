@@ -1,4 +1,4 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KCPGM7" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Login Login Apply for MembershipApply Menu
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KCPGM7" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Apply Login Apply for MembershipApply Menu
 
 *   Explorer
 *   Travel
@@ -159,4 +159,4 @@ Your username and a temporary password have been emailed to the address you prov
 
 Should you need any other assistance, please contact support@asw.com.
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=870931293042212&amp;ev=PageView&amp;noscript=1">.
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=870931293042212&amp;ev=PageView&amp;noscript=1">
