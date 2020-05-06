@@ -21,7 +21,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-UP TO 50% OFFCloset casual classics for warmer temps.Women's Topsselect stylesMen's Shortsselect stylesWomen's Jeansselect stylesGirls' Shirtsselect stylesUP TO 40% OFF All Liz Claiborne
+UP TO 50% OFFCloset casual classics for warmer temps.Women's Topsselect stylesMen's Shortsselect stylesWomen's Dressesselect stylesGirls' Shirtsselect stylesUP TO 40% OFF All Liz Claiborne
 
 *   Shop Now
 
@@ -39,7 +39,7 @@ UP TO 50% OFFCloset casual classics for warmer temps.Women's Topsselect stylesMe
     
 
 Shop Now25-50% OFF Swimwear for the familyDip your toes into these deals!Women's Swimwearselect stylesKids' Swimwearselect stylesMen's Swimwearselect stylesRefresh yourroomsUP TO 40% OFF!select styles  
-Shop All HomeSheetsCurtains, Blinds &. ShadesBeddingPillowsGet in gear! Outdoor essentials to beat the heat—and your goals. Active WatchesSunscreen atSephora inside JCPenneyShop Star WarsShop Local LookLearn More Shop Gift CardsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+Shop All HomeSheetsCurtains, Blinds &. ShadesBeddingPillowsGet in gear! Outdoor essentials to beat the heat—and your goals. Active WatchesSunscreen atSephora inside JCPenneyLearn More Shop Gift CardsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
 *   Home Expressions Solid or Stripe Bath Towel Collection $4.20 - $33.60with code532
@@ -72,14 +72,20 @@ Sponsored Items
     $14.99
     
     10
-*   Range Kleen Full Size Oven Liner $12.59with code~$19~
 *   Brim 0.8L Electric Kettle
     
     $149.99sale
     
     ~$150~21
 *   Serta Icomfort Blue Fusion 100 Firm Tight-Top Hybrid Mattress $459 - $1398.99with code~$1,480 - $3,420~163
+*   Beautyrest ® BR800™ Medium - Mattress Only $279 - $439with code~$1,200 - $1,650~3
 *   Serta® Sleeptrue® Lindridge Firm - Mattress Only $308.99 - $539with code~$1,000 - $1,750~4
+*   Fisher-Price Linkimals A To Z Otter
+    
+    $19.99
+    
+    23
+*   Range Kleen Full Size Oven Liner $12.59with code~$19~
 *   Fisher-Price Laugh &. Learn Smart Stages Puppy
     
     $19.99
@@ -90,35 +96,29 @@ Sponsored Items
     $15.99
     
     7
-*   Lee® Instantly Slims Classic Jean- Tall $23.09with code~$48~161
-*   Fisher-Price Linkimals A To Z Otter
-    
-    $19.99
-    
-    23
 *   Range Kleen 4-Pack Drip Bowls $17.49with code~$34~
-*   Fisher-Price Laugh &. Learn Smart Stages Sis
-    
-    $19.99
-    
-    48
 *   Fisher-Price Learn with Me Zebra Walker
     
     $24.99
     
     38
-*   Lee® Wrinkle Free Relaxed Straight Leg Pant $20.99with code~$44~17
+*   Fisher-Price Laugh &. Learn Smart Stages Sis
+    
+    $19.99
+    
+    48
 *   Fisher-Price Linkimals Smooth Moves Sloth
     
     $29.99
     
     34
-*   Lee® Plain Front Relaxed All Day Twill Pant $20.99with code~$44~783
-*   Lee® Instantly Slims Classic Jean- Plus $23.09with code~$48~131
-*   Lee® Flex Motion Bootcut Jeans $24.49with code~$50~30
+*   Lee® Relaxed Fit Straight Leg Jeans - Tall $23.09 - $33.60with code139
+*   Lee® Relaxed Fit Jeans $20.99with code~$44~2285
+*   Lee® Wrinkle Free Relaxed Straight Leg Pant $20.99with code~$44~17
+*   Lee® Instantly Slims Classic Jean- Tall $23.09with code~$48~161
 *   Lee® Relaxed All Day Pant - Plus $23.09with code~$48~534
-*   Lee® Flex Motion Straight Leg Jean $24.49with code~$50~104
 *   Lee® Relaxed Fit Straight Leg Jeans - Plus $23.09with code~$48~554
+*   Lee® Plain Front Relaxed All Day Twill Pant $20.99with code~$44~783
 
 Shop and Save at JCPenney
 
