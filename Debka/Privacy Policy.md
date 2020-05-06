@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Tuesday, May 5, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Wednesday, May 6, 2020  
 
 DEBKAfile
 
@@ -46,6 +46,18 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   Syrian opposition: Israeli bombing at Ez-Zour kills 15
+    
+    May 05, 2020 @ 13:11
+    
+*   Knesset panel grants Shin Bet digital tracking another 3 weeks
+    
+    May 05, 2020 @ 10:39
+    
+*   Syria alleges Israeli Aleppo air strike from Iraq
+    
+    May 05, 2020 @ 10:28
+    
 *   High Court hears five petitions against allowing Netanyahu to be PM
     
     May 03, 2020 @ 11:13
@@ -83,6 +95,18 @@ Breaking news
     
     May 02, 2020 @ 09:54
     
+*   Syrian opposition: Israeli bombing at Ez-Zour kills 15
+    
+    May 05, 2020 @ 13:11
+    
+*   Knesset panel grants Shin Bet digital tracking another 3 weeks
+    
+    May 05, 2020 @ 10:39
+    
+*   Syria alleges Israeli Aleppo air strike from Iraq
+    
+    May 05, 2020 @ 10:28
+    
 *   High Court hears five petitions against allowing Netanyahu to be PM
     
     May 03, 2020 @ 11:13
@@ -103,21 +127,21 @@ Breaking news
     
     May 02, 2020 @ 09:54
     
+*   Syrian opposition: Israeli bombing at Ez-Zour kills 15
+    
+    May 05, 2020 @ 13:11
+    
+*   Knesset panel grants Shin Bet digital tracking another 3 weeks
+    
+    May 05, 2020 @ 10:39
+    
+*   Syria alleges Israeli Aleppo air strike from Iraq
+    
+    May 05, 2020 @ 10:28
+    
 *   High Court hears five petitions against allowing Netanyahu to be PM
     
     May 03, 2020 @ 11:13
-    
-*   Elderly allowed to return to work as coronavirus figures slow down
-    
-    May 03, 2020 @ 07:40
-    
-*   North and South Korea trade gunshots
-    
-    May 03, 2020 @ 07:31
-    
-*   Some Israeli hospitals think about closing empty coronavirus wards
-    
-    May 02, 2020 @ 10:02
     
 
 12PrevNext
