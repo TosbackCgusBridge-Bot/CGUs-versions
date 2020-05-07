@@ -280,23 +280,23 @@ Security basics: If you can’t make them sexy, make them simple
     *   Emailed
     *   Recent
     
-    *   CISOs score big on employee risk
-    *   Online leak undermines Torrance's claim that no personal data was affected by cyberattack
-    *   Cyberattack strikes down Colorado’s Parkview Medical Center
-    *   Cybersecurity should be No. 1 pick on NFL Draft Day
-    *   The quick and the breached: Futureproofing security operations
+    *   Average ransom payment up 33 percent in Q1, Sodinokibi and Ryuk top variants
+    *   Rethinking cyber risk
+    *   5 ways COVID-19 is reshaping the cybercrime economy
+    *   Credentials from Wuhan COVID-19 lab leaked
+    *   Build a data-driven defense strategy to fight cybercrime
     
-    *   Exposure of 7.4B records at Le Figaro highlights ongoing problems with misconfigured databases
-    *   Eight-year-old zero day vulnerabilities found in iOS email app
-    *   Brute forcing RDP credentials on the rise
-    *   VMWare patches XSS vulnerability in ESXI
-    *   The quick and the breached: Futureproofing security operations
-    
-    *   Cut costs while bolstering cybersecurity during Covid-19
+    *   Nintendo confirms 160,000 user accounts hacked
     *   GoDaddy takes seven months to discover data breach
-    *   Exposure of 7.4B records at Le Figaro highlights ongoing problems with misconfigured databases
-    *   Notification emails impersonate Microsoft Teams to steal credentials
-    *   Salt exploit attacks expose underestimated threat vector: Infrastructure-as-Code tools
+    *   Maintaining resiliency in a newly remote age
+    *   The quick and the breached: Futureproofing security operations
+    *   Sophos victimized by a zero-day in its XG Firewall product
+    
+    *   44M leaked Pakistani mobile user records apparently belong to Jazz
+    *   No reprieve for health care orgs as ransomware hits hospital operator, plastic surgeons
+    *   900,000 WordPress sites attacked via XSS vulnerabilities
+    *   Vulnerabilities in two VPNs opened door to fake, malicious updates
+    *   'About Coronavirus' app locks Android screens with repackaged malware
 
 Back to Top
 
@@ -329,4 +329,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
