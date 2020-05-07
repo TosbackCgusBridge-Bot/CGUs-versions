@@ -88,7 +88,7 @@ Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-10%  3% 
+4%  3% 
 
 Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -118,7 +118,7 @@ Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-10%  Arrest Records &. Driving Infractions
+3%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -159,7 +159,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 3% 
+Facebook 2% 
 
 *   Priscuss Pricy - priscuss.pricy
     
@@ -211,99 +211,7 @@ Facebook 3% 
     
 *   Show Less ...
 
-Twitter 3% 
-
-*   Free Privacy Policy - FreePrivacy1
-    
-*   US Attorney Ryan Patrick - USAttyPatrick
-    
-*   FOIAPost - FOIAPost
-    
-*   CDC - CDCgov
-    
-*   Show More ...
-
-*   IRS - IRSnews
-    
-*   Justice Department - TheJusticeDept
-    
-*   NHS - NHSuk
-    
-*   U.S. Census Bureau - uscensusbureau
-    
-*   Jolynn Dellinger - MindingPrivacy
-    
-*   U.S. FDA - US\_FDA
-    
-*   U.S. Marshals - USMarshalsHQ
-    
-*   ARL Public Policy - ARLpolicy
-    
-*   USAID Policy - USAIDPolicy
-    
-*   HHS.gov - HHSGov
-    
-*   Federal Reserve - federalreserve
-    
-*   U.S. FDA - FDArecalls
-    
-*   Mental Health NIMH - NIMHgov
-    
-*   Mabuhay Miles - PALMabuhayMiles
-    
-*   NIH - NIH
-    
-*   Cristiano Ronaldo - Cristiano
-    
-*   Show Less ...
-
-Instagram 2% 
-
-*   privacy\_policy - spermfuldik
-    
-*   privacy\_policy\_privacy\_terms - privacy\_policy\_privacy\_terms
-    
-*   privacy\_policy\_privacy\_terms - privacy\_policy\_privacy\_terms
-    
-*   Privacy Policy - mrprivacypolicy
-    
-*   Show More ...
-
-*   Instagram Privacy Policies - privacy.policy191838
-    
-*   privacy policy3 - privacy\_policy3
-    
-*   Djavid - \_privacy\_policy
-    
-*   NO CONSENT To Privacy Policy - dmvbigdummy
-    
-*   mrs.mav - privacy\_policy7
-    
-*   Konstantin - \_privacy.\_.policy\_
-    
-*   privacy.policy.admin - privacy.policy.admin
-    
-*   Find Me - weveupdatedourprivacypolicy
-    
-*   Instagram privacy Policy - privacy.policy.security
-    
-*   google\_privacy\_policy\_ar - google\_privacy\_policy\_ar1
-    
-*   NO CONSENT To Privacy Policy - outdapotrecords
-    
-*   privacy\_policy\_4 - privacy\_policy\_4
-    
-*   privacy\_policy\_us - privacy\_policy\_us
-    
-*   Starz Birdman Jr. - privacy\_policy
-    
-*   NO CONSENT To Privacy Policy - therealitzdope
-    
-*   InstagramRep. - privacy\_policy\_direct\_
-    
-*   Show Less ...
-
-Myspace 2% 
+Twitter 3%  Instagram 3%  Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -327,16 +235,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Social Profiles 10%  Pinterest 2% 
-
-*   Privacy policy - maaenterprise033
-    
-*   https://www.playstudios.com/privacy-policy/ - mcdougald18035
-    
-*   Learn about instant apps Google Play Instant Apps are Play Store apps you can open before requiring - girlfriendnomore1
-    
-
-Wikipedia 2% 
+Social Profiles 3%  Pinterest 3%  Wikipedia 2% 
 
 *   Privacy policy
     
@@ -368,7 +267,7 @@ Wikipedia 2% 
     
 *   Show Less ...
 
-Music 10%  Photo Albums 2% 
+Music 3%  Photo Albums 2% 
 
 *   Help
     
@@ -416,35 +315,15 @@ Music 10%  Photo Albums 2% 
     
 *   Show Less ...
 
-Web Search 9%  Images 2% 
+Web Search 3%  Images 2% 
 
 15
 
-20
-
-19
-
-8
+9
 
 facebookx
 
-twitterx
-
-instagramx
-
 myspacex
-
-3
-
-facebookx
-
-twitterx
-
-instagramx
-
-myspacex
-
-pinterestx
 
 *   About PeekYou
 *   Privacy Policy
