@@ -84,6 +84,7 @@ Violations of this AUP may be reported to: abuse@centurylinkservices.net.
 *   Contact Us
 *   GDPR
 *   LATAM
+*   Peering Policy
 
 Get Connected. See what's next for CenturyLink.
 
