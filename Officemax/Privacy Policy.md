@@ -40,20 +40,20 @@ Stock Quote and Chart
 
 Price
 
-$1.85
+$2.13
 
 Change
 
-\-0.15
++0.28
 
 Percent Change
 
-(-7.50%)
+(+15.14%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
 view details  
-Recent News Apr 22, 2020 Office Depot to Announce First Quarter 2020 Earnings Results Wednesday, May 6, 2020 view more Recent News Apr 22, 2020 Office Depot to Announce First Quarter 2020 Earnings Results Wednesday, May 6, 2020 view more Events May 6, 2020 at 9:00 AM EDT Q1 2020 Office Depot Inc Earnings Conference Call view more Events May 6, 2020 at 9:00 AM EDT Q1 2020 Office Depot Inc Earnings Conference Call view more Presentations Feb 26, 2020 Office Depot Fourth Quarter 2019 Earnings Webcast Presentation view more Presentations Feb 26, 2020 Office Depot Fourth Quarter 2019 Earnings Webcast Presentation view more
+Recent News May 06, 2020 Office Depot, Inc. Adopts Limited Duration Shareholder Rights Plan view more Recent News May 06, 2020 Office Depot, Inc. Adopts Limited Duration Shareholder Rights Plan view more Events May 6, 2020 at 9:00 AM EDT Q1 2020 Office Depot Inc Earnings Conference Call view more Events May 6, 2020 at 9:00 AM EDT Q1 2020 Office Depot Inc Earnings Conference Call view more Presentations May 06, 2020 Office Depot First Quarter 2020 Earnings Webcast Presentation view more Presentations May 06, 2020 Office Depot First Quarter 2020 Earnings Webcast Presentation view more
 
 *   Home
 *   News &. Events
