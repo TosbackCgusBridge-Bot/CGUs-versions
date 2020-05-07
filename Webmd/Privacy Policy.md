@@ -114,9 +114,9 @@ Skip to main content
     
     *   Get the Latest Coronavirus News Here
     *   COVID-19: Check Your Symptoms Now
-    *   How to Decontaminate When You Get Home
+    *   Watch Daily Interviews With Leading Experts
     *   How Long Does Coronavirus Live On Surfaces?
-    *   See Our Map for Coronavirus Spread
+    *   Tracking COVID-19: See Our Interactive Map
     
     Experts &. Community
     
