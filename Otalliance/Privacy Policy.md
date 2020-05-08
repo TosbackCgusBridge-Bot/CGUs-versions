@@ -10,6 +10,7 @@
     *   Growing the Internet
         *   Community Networks
         *   Internet Exchange Points (IXPs)
+        *   Measuring the Internet
     *   Strengthening the Internet
         *   Encryption
         *   Internet Way of Networking
