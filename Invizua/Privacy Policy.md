@@ -11,15 +11,17 @@ Accept Decline
     *   Compare
     *   Pricing
 *   Partners
-*   Community
+*   Resources
+    *   Help Center
+    *   Knowledge Base
     *   Forums
+    *   Slack
     *   Blog
     *   Custom Views
     *   Custom Blocks
-    *   Slack
+    *   Demos
+    *   Download
 *   Support
-    *   Help Center
-    *   Knowledge Base
 *   Contact Us
 *   Try now
 
@@ -30,15 +32,17 @@ Accept Decline
     *   Compare
     *   Pricing
 *   Partners
-*   Community
+*   Resources
+    *   Help Center
+    *   Knowledge Base
     *   Forums
+    *   Slack
     *   Blog
     *   Custom Views
     *   Custom Blocks
-    *   Slack
+    *   Demos
+    *   Download
 *   Support
-    *   Help Center
-    *   Knowledge Base
 *   Contact Us
 *   Try now
 
