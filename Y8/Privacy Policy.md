@@ -12,31 +12,31 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1310 games
-*   Most Popular Games 20842 games
+*   Best of new games 1307 games
+*   Most Popular Games 20846 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,109 games
-*   Driving &. Racing 6,347 games
-*   Strategy &. RPG 3,614 games
+*   For Girls 24,107 games
+*   Driving &. Racing 6,348 games
+*   Strategy &. RPG 3,615 games
 *   Management &. Sim 4,267 games
-*   Thinking 12,586 games
-*   Action &. Adventure 14,554 games
-*   Sports 3,317 games
-*   Shooting 9,058 games
+*   Thinking 12,590 games
+*   Action &. Adventure 14,558 games
+*   Sports 3,318 games
+*   Shooting 9,059 games
 *   Fighting 2,067 games
-*   Skill 11,054 games
-*   Arcade &. Classic 9,150 games
-*   Fun &. Crazy 4,953 games
+*   Skill 11,056 games
+*   Arcade &. Classic 9,156 games
+*   Fun &. Crazy 4,954 games
 
 Play with friends  
 Powered by Y8 Account 143 Y8 Multiplayer Games 2,210 Y8 High Score Games 1,257 Y8 Achievements Games 888 Y8 Screenshots Games 1,681 Y8 Online Save Games 3,379 All Y8 Games Games Last Highscore:
 
-**48,325** points on Spiders Arena 2 by L.A.I.S.A
+**130** points on Masked Forces by DAG
 
 Help us improve Bad translation? Social
 
