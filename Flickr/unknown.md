@@ -1,6 +1,6 @@
 new icn messageflickr-free-ic3d pan white
 
-*   Explore New
+*   Explore
     *   Recent Photos
     *   Trending
     *   Events
@@ -16,7 +16,7 @@ new icn messageflickr-free-ic3d pan white
 *   Log In
 *   Sign Up
 
-*   Explore New
+*   Explore
 *   Trending
 *   Events
 *   The Commons
