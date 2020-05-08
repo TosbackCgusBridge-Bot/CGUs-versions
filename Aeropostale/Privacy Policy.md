@@ -390,29 +390,25 @@ precautionary measures in our warehouse to ensure the health and safety of
 our customers and associates. Because of this your shipment may experience  
 delays. Thank you for your patience and understanding. Learn More &. Stay Safe
 
-Get Ready For Summer with
+50-70% Off  
+Everything &
 
-50-70% Off Everything  
-&. New Backyard Busters!
+50-70% Off Everything
 
-\*Exclusions Apply
+Backyard  
+Busters!
+
+&. Backyard Busters!
 
 \*Exclusions Apply
 
 Shop Girls Shop Guys Shop Girls Backyard Busters Shop Guys Backyard Busters Shop Girls Shop Guys Girls Backyard Busters Guys Backyard Busters
 
-#TrendingNow:
+**Bring The Heat From Home!**  
+Fire Summer Looks That Deserve  
+A Feature #AeroWorld
 
-TIE DYE
-
-Hot Summer Tie Dyes  
-The Perfect Match For  
-Aero Shorts
-
-Hot Summer Tie Dyes  
-The Perfect Match For Aero Shorts
-
-Shop Girls Tie Dye Shop Guys Tie Dye
+\*Exclusions Apply
 
 **Backyard Buster Shorts**
 
