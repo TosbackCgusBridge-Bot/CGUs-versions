@@ -122,7 +122,7 @@ Did you watch the trailer for Huntdown yet? Watch it again.
   
 Details on the co-op arcade shooter hitting PS4 next week:  http://play.st/2KPrVR7  pic.twitter.com/cU5qvo1qzj
 
-3 days ago View Tweet Instagram Post B\_S9EnBlFOY
+4 days ago View Tweet Instagram Post B\_S9EnBlFOY
 
 Enhance Your Days
 
