@@ -23,6 +23,11 @@ Privacy Policy
     *   1\. Introduction
     *   2\. Information Collected
     *   4\. Purposes, Uses and Disclosures of Information
+    *   5\. Additional Uses and Disclosures of Non-Personal Data
+    *   6\. Security
+    *   7\. Cookies
+    *   8\. Links to Third-Party Sites
+    *   9\. Acquisitions and Other Reorganizations
     *   10\. Exercising Rights With Respect to Personal Data
     *   12\. General Inquiries and Complaints
     *   13\. Your California Privacy Rights
