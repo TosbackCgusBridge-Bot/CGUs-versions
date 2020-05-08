@@ -93,7 +93,7 @@ close
     *   Sympathy GiftsMost Popular Premium Wine Gifts
 *   Sale
 
-1.800.753.8558 Business Gifts Final Hours for Mother's Day delivery! Next-day shipping ends 3pm EST tomorrow Skip to content Menu 0 Sign In Search Catalog Catalog Navigation close
+1.800.753.8558 Business Gifts Skip to content Menu 0 Sign In Search Catalog Catalog Navigation close
 
 *   Gift Baskets
     
@@ -321,4 +321,4 @@ Find A Store
 
 *   Find A Store
 
-© 2020 All Rights Reserved Privacy Policy Terms Of Use Site Map Compliance Play IconFeedback
+© 2020 All Rights Reserved Privacy Policy Terms Of Use Site Map Compliance
