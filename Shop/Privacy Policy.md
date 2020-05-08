@@ -26,11 +26,11 @@ Lenovo Explore Close
         *   Lenovo
         
         *   Best Selling Laptops
+        *   X1 Carbon Gen 8
         *   X1 Extreme Gen 2
-        *   X1 Carbon Gen 7
         *   Yoga C940
         *   Legion Y740
-        *   IdeaPad S540
+        *   IdeaPad 3
         *   IdeaPad L340 Gaming
         
         PC's ready to ship
@@ -163,6 +163,7 @@ Lenovo Explore Close
         *   Accessory Bundles
         *   Student Accessories
         *   Accessory &. Electronics Deals
+        *   Find Compatible Accessories
     *   Monitors
         
         *   Always Free Shipping
@@ -213,7 +214,7 @@ Lenovo Explore Close
         *   Gaming Community
         *   Shop PC Games
         
-        *   New in Gaming
+        *   Legion
         *   Legion Laptops
         *   Legion Desktops
         *   Legion Headsets
@@ -620,7 +621,7 @@ Lenovo Explore Close
     *   Careers
     *   Sustainability
 
-1-855-253-6686
+1-855-253-6686 option #2
 
 *   Search
 
@@ -1211,6 +1212,10 @@ you today?
 
 ×SALES CHATEXISTING ORDER HELPSALES CHATEXISTING ORDER HELPBUSINESS SALESBUSINESS SALES
 
-Call us: 1-855-253-6686
+**\*\*Call us:**
+
+Personal: 1-855-253-6686
+
+Business: 1-866-426-0911
 
 Ask us about our price match policy >Check order status >Technical support or Repair status >
