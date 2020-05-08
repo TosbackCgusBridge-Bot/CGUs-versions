@@ -59,13 +59,14 @@ Toggle navigation Search
 
 Toggle navigation
 
+*   Consumer
+*   Small Business
+*   Business
+
 *   About Experian
 *   Consumer Support
 *   Credit Advice
 *   Global Sites
-*   Consumer
-*   Small Business
-*   Business
 
 1.  Privacy
 2.  Online Credit Reports
