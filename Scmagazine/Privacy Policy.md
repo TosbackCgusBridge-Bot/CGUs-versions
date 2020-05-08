@@ -280,23 +280,23 @@ Security basics: If you can’t make them sexy, make them simple
     *   Emailed
     *   Recent
     
-    *   Average ransom payment up 33 percent in Q1, Sodinokibi and Ryuk top variants
-    *   Rethinking cyber risk
-    *   5 ways COVID-19 is reshaping the cybercrime economy
-    *   Credentials from Wuhan COVID-19 lab leaked
-    *   Build a data-driven defense strategy to fight cybercrime
-    
-    *   Nintendo confirms 160,000 user accounts hacked
-    *   GoDaddy takes seven months to discover data breach
-    *   Maintaining resiliency in a newly remote age
-    *   The quick and the breached: Futureproofing security operations
+    *   The new cybersecurity resilience
+    *   Israeli cyber defenders warn of attacks on water supply
     *   Sophos victimized by a zero-day in its XG Firewall product
+    *   Aggah malspam campaign updated with new payloads
+    *   The quick and the breached: Futureproofing security operations
     
+    *   VMWare patches XSS vulnerability in ESXI
+    *   COVID-19's impact on package deliveries creates golden opportunity for scammers
+    *   Adobe issues patches 21 critical vulnerabilities in Illustrator and Bridge
+    *   No reprieve for health care orgs as ransomware hits hospital operator, plastic surgeons
+    *   Buyer beware, risk ahead
+    
+    *   SAP says 7 cloud products not currently up to security standards
+    *   New York City schools OK tailored Zoom platform for remote learning
     *   44M leaked Pakistani mobile user records apparently belong to Jazz
     *   No reprieve for health care orgs as ransomware hits hospital operator, plastic surgeons
     *   900,000 WordPress sites attacked via XSS vulnerabilities
-    *   Vulnerabilities in two VPNs opened door to fake, malicious updates
-    *   'About Coronavirus' app locks Android screens with repackaged malware
 
 Back to Top
 
@@ -329,4 +329,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
