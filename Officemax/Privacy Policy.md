@@ -24,7 +24,6 @@ Skip to main navigation
     *   Committee Charters
 *   Investor Resources
     *   Shareholder Services
-    *   Timber Notes FAQs
     *   Investor Alerts
 *   Contact Us
 
@@ -40,15 +39,15 @@ Stock Quote and Chart
 
 Price
 
-$2.01
+$2.06
 
 Change
 
-\-0.12
++0.05
 
 Percent Change
 
-(-5.63%)
+(+2.49%)
 
 Copyright West LLC. Minimum 15 minutes delayed.
 
