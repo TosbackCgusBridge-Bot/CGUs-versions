@@ -148,6 +148,7 @@ Lenovo Explore Close
         *   Pens &. Supplies
         *   Wireless &. Networking
         *   View All Accessories
+        *   View All Brands
         
         *   Software
         *   MS Office
@@ -259,7 +260,7 @@ Lenovo Explore Close
         
         JOIN FOR FREE
         
-        Businesses save up to 5% on Think and get Lenovo's best business pricing, guaranteed.
+        Save up to an extra 5% on PCs &. Servers, plus business financing. Call 866-426-0911.
         
     *   Support
         
