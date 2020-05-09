@@ -6,6 +6,7 @@
 >         *   1.1.2 Copyright Notice
 >         *   1.1.3 Fark logos and trademarks
 >         *   1.1.4 Fark's Privacy Policy
+>         *   1.1.5 Third Party Notices
 > 
 > Legal Stuff Fark's Legal and Privacy Statement Terms Of Service
 > 
@@ -150,3 +151,9 @@
 > All updates to this policy will be posted here.
 > 
 > Note: This policy also covers the personal information you provide to Fark Customer Support.
+> 
+> Third Party Notices
+> 
+> Embedded YouTube videos and their metadata are covered by the Google Terms Of Service and Google's Privacy Policy.
+> 
+> Tags on links are provided by the IBM Watson's Natural Language Understanding service.
