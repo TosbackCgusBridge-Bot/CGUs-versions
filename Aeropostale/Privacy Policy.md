@@ -202,7 +202,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-**50-70% Off Everything**  GIRLS GUYS **+ Free Ship $50**
+**50-70% Off Everything**  **+ Free Shipping Over $50** Details
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
