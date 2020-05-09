@@ -1,13 +1,13 @@
-Our COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: FORMOM9 Details  
-EXTRA 25% OFF under $75 with code: FORMOM9 Details  
-Free Shipping Over $49  DetailsOur COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: FORMOM9 Details  
+Our COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: SHOEPERK Details  
+Flash Sale! EXTRA 40% OFF Women’s sandals with code: SHOEPERK More  
+Free Shipping Over $49  DetailsOur COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: SHOEPERK Details  
 
 Enable Accessibility
 
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed. Weekly Ads Mother’s Day Jewelry SaleValid Apr 13th - May 10thEngagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   Mother's Day &. Trending
 *   Home &. Lifestyle
@@ -42,91 +42,75 @@ Shop Now25-50% OFF Swimwear for the familyDip your toes into these deals!Women's
 Shop All HomeSheetsCurtains, Blinds &. ShadesBeddingPillowsLearn More Shop Gift CardsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Home Expressions Solid or Stripe Bath Towel Collection $4.50 - $36with code532
+*   Liz Claiborne Womens 2-pc. Capri Pajama Set Short Sleeve Crew Neck $20.40with code~$34~
 *   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
     $20sale
     
     ~$124.98~183
-*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $6.74with code~$13~23
-*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver
+*   Nike Air Max Motion 2 Womens Running Shoes
     
-    $20sale
+    $63.75 - $67.50sale
     
-    ~$124.98~135
-*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
-    
-    $20sale
-    
-    ~$124.98~129
-*   LIMITED TIME SPECIAL! Q7 Sport Black Smart Watch-Q7s3557b64c-003
-    
-    $9.99sale
-    
-    ~$75~54
+    ~$85 - $90~17
+*   JCPenney Home Performance Bath Towel Collection $4.49 - $28.49with code~$10 - $76~340
+*   a.n.a Womens V Neck Sleeveless Tank Top $7.49with code~$13~9
+*   a.n.a Womens Scoop Neck Short Sleeve T-Shirt $7.49 - $12.75with code382
 
 Sponsored Items
 
+*   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~134
 *   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $83.99with code~$180~55
-*   Rachael Ray Create Delicious 10.25-Inch Deep Skillet
+*   Waterpik WF-06W010 Whitening Water Flosser
+    
+    $89.99sale
+    
+    ~$94~113
+*   Lock &. Lock 10-pc. Food Container $22.49with code~$40~
+*   Serta® Sleeptrue® Lindridge Firm - Mattress Only $308.99 - $539with code~$1,000 - $1,750~4
+*   Rachael Ray Create Delicious 9.5" Covered Deep Skillet
     
     $39.99sale
     
-    ~$70~22
-*   Brim 0.8L Electric Kettle
-    
-    $149.99sale
-    
-    ~$150~21
-*   Serta Icomfort Blue Fusion 100 Firm Tight-Top Hybrid Mattress $459 - $1398.99with code~$1,480 - $3,420~163
-*   Serta® Sleeptrue® Lindridge Firm - Mattress Only $308.99 - $539with code~$1,000 - $1,750~4
-*   Rachael Ray Create Delicious 14.25" Aluminum Non-Stick Wok
-    
-    $49.99sale
-    
-    ~$80~22
-*   Farberware 12-Pc. Cookware Set $62.99with code~$190~50
+    ~$60~31
 *   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $83.99with code~$180~35
+*   Shea Moisture Jamaican Black Castor Oil Conditioner - 11 oz. $9.89with code82
+*   Farberware Cookstart 15-pc. Cookware Set $62.99with code~$120~61
+*   Serta Icomfort Blue Fusion 100 Firm Tight-Top Hybrid Mattress $459 - $1398.99with code~$1,480 - $3,420~163
+*   Shea Moisture Coconut &. Hibiscus Hair Cream-12 oz. $11.69with code210
+*   Lock &. Lock 14-pc. Food Container $26.24with code~$50~
+*   Tommee Tippee Advanced Anti Colic Baby Bottles – Clear 9 oz
+    
+    $8.99
+    
+    43
 *   Rachael Ray Create Delicious 12.5" Deep Skillet Aluminum Non-Stick Skillet
     
     $39.99sale
     
     ~$60~31
-*   Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set
-    
-    $139.99sale
-    
-    ~$240~192
 *   Circulon® Symmetry 10" &. 12" Hard-Anodized French Skillet Set
     
     $69.99sale
     
     ~$100~160
-*   Circulon® Symmetry 11-pc. Hard-Anodized Cookware Set
-    
-    $379.99sale
-    
-    ~$600~117
-*   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~134
+*   Covington Home Evan Rectangular Rug $63with code21
 *   Ayesha Curry™ Home Collection 2-pc. 9.25" &. 11.5" Skillet Set
     
     $80
     
     10
-*   Farberware® Classic Series 15-pc. Stainless Steel Cookware Set $175with code71
-*   Range Kleen Full Size Oven Liner $13.49with code~$19~
-*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
+*   Tommee Tippee Closer to Nature Added Cereal Baby Bottle - Clear 11oz
     
-    $14.99
+    $7.19clearance
     
-    10
-*   Fisher-Price Linkimals Smooth Moves Sloth
+    ~$8.99~12
+*   Shea Moisture Coconut &. Hibiscus Conditioner - 13 oz. $9.89with code73
+*   Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set
     
-    $29.99
+    $139.99sale
     
-    34
-*   Lock &. Lock 14-pc. Food Container $26.24with code~$50~
-*   Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit) $22.49with code~$44~629
+    ~$240~192
 
 Shop and Save at JCPenney
 
