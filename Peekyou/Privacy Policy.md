@@ -58,7 +58,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT.
 
-What is PeekScore? Public Records &. Background Checks 3% 
+What is PeekScore? Public Records &. Background Checks 2% 
 
 Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -88,7 +88,7 @@ Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-9%  3% 
+22%  2% 
 
 Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -118,7 +118,7 @@ Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-9%  Arrest Records &. Driving Infractions
+22%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -159,7 +159,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 3% 
+Facebook 2% 
 
 *   Prıvacy PoIicy - indah.ndotii
     
@@ -203,7 +203,7 @@ Facebook 3% 
     
 *   Show Less ...
 
-Twitter 3% 
+Twitter 2% 
 
 *   Free Privacy Policy - FreePrivacy1
     
@@ -249,7 +249,7 @@ Twitter 3% 
     
 *   Show Less ...
 
-Instagram 3% 
+Instagram 2% 
 
 *   Privacy Policy - privacy.policy.insta
     
@@ -295,7 +295,7 @@ Instagram 3% 
     
 *   Show Less ...
 
-Myspace 3% 
+Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -319,7 +319,7 @@ Myspace 3% 
     
 *   Show Less ...
 
-Social Profiles 9%  Pinterest 3% 
+Social Profiles 22%  Pinterest 2% 
 
 *   Privacy policy - maaenterprise033
     
@@ -328,7 +328,7 @@ Social Profiles 9%  Pinterest 3% 
 *   Learn about instant apps Google Play Instant Apps are Play Store apps you can open before requiring - girlfriendnomore1
     
 
-Wikipedia 3% 
+Wikipedia 2% 
 
 *   Privacy policy
     
@@ -360,7 +360,7 @@ Wikipedia 3% 
     
 *   Show Less ...
 
-Music 9%  Photo Albums 2% 
+Music 22%  Photo Albums 2% 
 
 *   Help
     
@@ -408,15 +408,15 @@ Music 9%  Photo Albums 2% 
     
 *   Show Less ...
 
-Web Search 8%  Images 2% 
+Web Search 22%  Images 2% 
 
-14
+13
 
 20
 
 18
 
-9
+7
 
 facebookx
 
