@@ -81,7 +81,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 497 2635 1 855 497 2635
+    1 855 289 8562 1 855 289 8562
     
 
 *   Solutions By Function
@@ -149,7 +149,7 @@ Search
 
 *   Become a Client
     
-    1 855 497 2635 1 855 497 2635
+    1 855 289 8562 1 855 289 8562
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
