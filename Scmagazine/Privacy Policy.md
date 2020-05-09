@@ -280,23 +280,23 @@ Security basics: If you can’t make them sexy, make them simple
     *   Emailed
     *   Recent
     
-    *   The new cybersecurity resilience
-    *   Israeli cyber defenders warn of attacks on water supply
-    *   Sophos victimized by a zero-day in its XG Firewall product
-    *   Aggah malspam campaign updated with new payloads
-    *   The quick and the breached: Futureproofing security operations
+    *   Microsoft Azure Sphere Security Research Challenge offers $100K bounty
+    *   Cut costs while bolstering cybersecurity during Covid-19
+    *   Rethinking cyber risk
+    *   Brute forcing RDP credentials on the rise
+    *   Vulnerability management
     
-    *   VMWare patches XSS vulnerability in ESXI
-    *   COVID-19's impact on package deliveries creates golden opportunity for scammers
+    *   The staying power in resiliency
+    *   Cut costs while bolstering cybersecurity during Covid-19
     *   Adobe issues patches 21 critical vulnerabilities in Illustrator and Bridge
-    *   No reprieve for health care orgs as ransomware hits hospital operator, plastic surgeons
-    *   Buyer beware, risk ahead
+    *   900,000 WordPress sites attacked via XSS vulnerabilities
+    *   SAP says 7 cloud products not currently up to security standards
     
+    *   Favicons found housing credit card skimming malware
+    *   Vulnerabilities in two Schneider Electric ICS products reminiscent of Stuxnet
+    *   2FA app weaponized to infect Mac users with Dacls RAT
     *   SAP says 7 cloud products not currently up to security standards
     *   New York City schools OK tailored Zoom platform for remote learning
-    *   44M leaked Pakistani mobile user records apparently belong to Jazz
-    *   No reprieve for health care orgs as ransomware hits hospital operator, plastic surgeons
-    *   900,000 WordPress sites attacked via XSS vulnerabilities
 
 Back to Top
 
