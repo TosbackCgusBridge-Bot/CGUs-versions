@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Friday, May 8, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Saturday, May 9, 2020  
 
 DEBKAfile
 
@@ -46,6 +46,10 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   Coronavirus cases drop by more than 100
+    
+    May 08, 2020 @ 09:14
+    
 *   Esper is reported pushing to cut US Sinai peacekeeping mission
     
     May 08, 2020 @ 08:00
@@ -73,12 +77,12 @@ Breaking news
 *   Knesset passes rotation bill approving Netanyahu-Gantz coalition
     
     May 07, 2020 @ 12:17
-    
-*   High Court clears way for Netanyahu-Gantz coalition
-    
-    May 07, 2020 @ 08:25
     
 
+*   No crowds on Mt. Meron for this Lag BeOmer due to covid restrictions
+    
+    May 07, 2020 @ 17:54
+    
 *   Only 7 new coronavirus cases reported since Wednesday
     
     May 07, 2020 @ 16:52
@@ -91,9 +95,9 @@ Breaking news
     
     May 07, 2020 @ 12:17
     
-*   High Court clears way for Netanyahu-Gantz coalition
+*   Coronavirus cases drop by more than 100
     
-    May 07, 2020 @ 08:25
+    May 08, 2020 @ 09:14
     
 *   Esper is reported pushing to cut US Sinai peacekeeping mission
     
@@ -123,9 +127,9 @@ Breaking news
     
     May 07, 2020 @ 12:17
     
-*   High Court clears way for Netanyahu-Gantz coalition
+*   Coronavirus cases drop by more than 100
     
-    May 07, 2020 @ 08:25
+    May 08, 2020 @ 09:14
     
 *   Esper is reported pushing to cut US Sinai peacekeeping mission
     
@@ -138,10 +142,6 @@ Breaking news
 *   Iraq’s former spy chief sworn in as prime minister
     
     May 07, 2020 @ 17:56
-    
-*   No crowds on Mt. Meron for this Lag BeOmer due to covid restrictions
-    
-    May 07, 2020 @ 17:54
     
 
 12PrevNext
