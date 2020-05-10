@@ -42,59 +42,72 @@ Shop Now25-50% OFF Swimwear for the familyDip your toes into these deals!Women's
 Shop All HomeSheetsCurtains, Blinds &. ShadesBeddingPillowsLearn More Shop Gift CardsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Liz Claiborne Womens 2-pc. Capri Pajama Set Short Sleeve Crew Neck $20.40with code~$34~
+*   Home Expressions Solid or Stripe Bath Towel Collection $4.50 - $36with code532
 *   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
     $20sale
     
     ~$124.98~183
-*   Nike Air Max Motion 2 Womens Running Shoes
+*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver
     
-    $63.75 - $67.50sale
+    $20sale
     
-    ~$85 - $90~17
-*   JCPenney Home Performance Bath Towel Collection $4.49 - $28.49with code~$10 - $76~340
-*   a.n.a Womens V Neck Sleeveless Tank Top $7.49with code~$13~9
-*   a.n.a Womens Scoop Neck Short Sleeve T-Shirt $7.49 - $12.75with code382
+    ~$124.98~136
+*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+    
+    $20sale
+    
+    ~$124.98~129
+*   LIMITED TIME SPECIAL! Q7 Sport Black Smart Watch-Q7s3557b64c-003
+    
+    $9.99sale
+    
+    ~$75~55
+*   JCPenney Home Ultra Performance 575 Sateen Deep Pocket Sheet Set $14.99 - $62.99with code~$50 - $150~159
 
 Sponsored Items
 
-*   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~134
-*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $83.99with code~$180~55
 *   Waterpik WF-06W010 Whitening Water Flosser
     
     $89.99sale
     
-    ~$94~113
+    ~$94~114
+*   Beautyrest ® BR800™ Medium - Mattress Only $279 - $439with code~$1,200 - $1,650~3
 *   Lock &. Lock 10-pc. Food Container $22.49with code~$40~
-*   Serta® Sleeptrue® Lindridge Firm - Mattress Only $308.99 - $539with code~$1,000 - $1,750~4
-*   Rachael Ray Create Delicious 9.5" Covered Deep Skillet
-    
-    $39.99sale
-    
-    ~$60~31
-*   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $83.99with code~$180~35
-*   Shea Moisture Jamaican Black Castor Oil Conditioner - 11 oz. $9.89with code82
-*   Farberware Cookstart 15-pc. Cookware Set $62.99with code~$120~61
 *   Serta Icomfort Blue Fusion 100 Firm Tight-Top Hybrid Mattress $459 - $1398.99with code~$1,480 - $3,420~163
+*   Serta® Sleeptrue® Lindridge Firm - Mattress Only $308.99 - $539with code~$1,000 - $1,750~4
+*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $83.99with code~$180~55
+*   Rachael Ray Create Delicious 11-Pc. Cookware Set
+    
+    $179.99sale
+    
+    ~$300~17
+*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $14.99with code~$30~
+*   Shea Moisture Jamaican Black Castor Oil Conditioner - 11 oz. $9.89with code82
+*   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $83.99with code~$180~35
+*   Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set
+    
+    $139.99sale
+    
+    ~$240~192
+*   Farberware 12-Pc. Cookware Set $62.99with code~$190~50
 *   Shea Moisture Coconut &. Hibiscus Hair Cream-12 oz. $11.69with code210
-*   Lock &. Lock 14-pc. Food Container $26.24with code~$50~
-*   Tommee Tippee Advanced Anti Colic Baby Bottles – Clear 9 oz
-    
-    $8.99
-    
-    43
+*   Farberware® Classic Series 15-pc. Stainless Steel Cookware Set $175with code71
 *   Rachael Ray Create Delicious 12.5" Deep Skillet Aluminum Non-Stick Skillet
     
     $39.99sale
     
     ~$60~31
-*   Circulon® Symmetry 10" &. 12" Hard-Anodized French Skillet Set
+*   Tommee Tippee Advanced Anti Colic Baby Bottles – Clear 9 oz
     
-    $69.99sale
+    $8.99
     
-    ~$100~160
-*   Covington Home Evan Rectangular Rug $63with code21
+    43
+*   Rachael Ray Create Delicious 14.25" Aluminum Non-Stick Wok
+    
+    $49.99sale
+    
+    ~$80~22
 *   Ayesha Curry™ Home Collection 2-pc. 9.25" &. 11.5" Skillet Set
     
     $80
@@ -105,12 +118,7 @@ Sponsored Items
     $7.19clearance
     
     ~$8.99~12
-*   Shea Moisture Coconut &. Hibiscus Conditioner - 13 oz. $9.89with code73
-*   Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set
-    
-    $139.99sale
-    
-    ~$240~192
+*   Covington Home Evan Rectangular Rug $63with code21
 
 Shop and Save at JCPenney
 
