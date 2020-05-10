@@ -280,23 +280,23 @@ Security basics: If you can’t make them sexy, make them simple
     *   Emailed
     *   Recent
     
-    *   Microsoft Azure Sphere Security Research Challenge offers $100K bounty
-    *   Cut costs while bolstering cybersecurity during Covid-19
-    *   Rethinking cyber risk
-    *   Brute forcing RDP credentials on the rise
-    *   Vulnerability management
-    
-    *   The staying power in resiliency
-    *   Cut costs while bolstering cybersecurity during Covid-19
-    *   Adobe issues patches 21 critical vulnerabilities in Illustrator and Bridge
-    *   900,000 WordPress sites attacked via XSS vulnerabilities
-    *   SAP says 7 cloud products not currently up to security standards
-    
+    *   Roblox hacker enabled by insider threats. expert offers tips to curb rogue employees
+    *   CISOs score big on employee risk
     *   Favicons found housing credit card skimming malware
-    *   Vulnerabilities in two Schneider Electric ICS products reminiscent of Stuxnet
-    *   2FA app weaponized to infect Mac users with Dacls RAT
+    *   COVID-19 inspires Nigerian scammers to launch waves of BEC campaigns
+    *   Exposure of 7.4B records at Le Figaro highlights ongoing problems with misconfigured databases
+    
     *   SAP says 7 cloud products not currently up to security standards
-    *   New York City schools OK tailored Zoom platform for remote learning
+    *   Adobe issues patches 21 critical vulnerabilities in Illustrator and Bridge
+    *   The new cybersecurity resilience
+    *   Banking trojan attack exposes dangers of not securing MDM solutions
+    *   Average ransom payment up 33 percent in Q1, Sodinokibi and Ryuk top variants
+    
+    *   COVID-19 inspires Nigerian scammers to launch waves of BEC campaigns
+    *   Hacker hijacks Milwaukee Bucks star's Twitter account, posts offensive trash talk
+    *   Zero-click vulnerability found in Samsung mobile phones
+    *   Cisco pushes out almost three dozen security updates
+    *   House Intel Committee releases closed-door testimonies from Russia election interference probe
 
 Back to Top
 
@@ -329,4 +329,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
