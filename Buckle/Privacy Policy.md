@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-New markdowns are heating things up. shop new to sale
+Need now, wear on repeat. shop new arrivals
 
 *   Women
 *   Men
