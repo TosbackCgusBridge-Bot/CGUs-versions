@@ -280,17 +280,17 @@ Security basics: If you can’t make them sexy, make them simple
     *   Emailed
     *   Recent
     
-    *   Roblox hacker enabled by insider threats. expert offers tips to curb rogue employees
-    *   CISOs score big on employee risk
-    *   Favicons found housing credit card skimming malware
-    *   COVID-19 inspires Nigerian scammers to launch waves of BEC campaigns
-    *   Exposure of 7.4B records at Le Figaro highlights ongoing problems with misconfigured databases
+    *   Cut costs while bolstering cybersecurity during Covid-19
+    *   Zero-click vulnerability found in Samsung mobile phones
+    *   Survey: COVID-19 has changed cyber pros' roles, increased incident totals
+    *   PhantomLance campaign slipped trojanized apps into marketplaces for years
+    *   Aggah malspam campaign updated with new payloads
     
-    *   SAP says 7 cloud products not currently up to security standards
-    *   Adobe issues patches 21 critical vulnerabilities in Illustrator and Bridge
-    *   The new cybersecurity resilience
-    *   Banking trojan attack exposes dangers of not securing MDM solutions
-    *   Average ransom payment up 33 percent in Q1, Sodinokibi and Ryuk top variants
+    *   5 ways COVID-19 is reshaping the cybercrime economy
+    *   Maintaining resiliency in a newly remote age
+    *   No reprieve for health care orgs as ransomware hits hospital operator, plastic surgeons
+    *   Build a data-driven defense strategy to fight cybercrime
+    *   Vulnerabilities in two VPNs opened door to fake, malicious updates
     
     *   COVID-19 inspires Nigerian scammers to launch waves of BEC campaigns
     *   Hacker hijacks Milwaukee Bucks star's Twitter account, posts offensive trash talk
@@ -329,4 +329,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
