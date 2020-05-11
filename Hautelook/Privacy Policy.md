@@ -9,19 +9,43 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
+    *   Spring Fling: Jackets Up to 65% Off
+    *   Short Sleeve Tops Under $25
+    *   Free Shipping: Storage for Every Room Up to 50% Off
+    *   Give Spring the Boot: Styles Under $50
+    *   Smart Watch Bands &. More Up to 50% Off
+    *   Men's Shoe Steals Up to 65% Off
+    *   Franco Sarto Starting at $40
+    *   Crops &. Shorts from $20 Incl. Plus and Petites
+    *   Exclusively Ours: Handbags Up to 50% Off
+    *   Top Picks: Styles from $15 Incl. Plus &. Petites
+    *   Aldo &. Call It Spring Starting at $30
+    *   Keep It Casual: BDG &. More from $20
+    *   Tailored Savings: Suiting &. More Up to 75% Off
+    *   Brooks Brothers Men
+    *   Spring Favorites: On-Trend Jewelry
+    *   Boconi Belts, Bags &. More Up to 75% Off
+    *   Valentino by Mario Valentino
+    *   TOMS Men Starting at $30
+    *   Bring on Bedtime: Kids' Pajamas Up to 50% Off
+    *   Sweet Sets for Baby Up to 60% Off
+    *   Take a Break in the Sun: SPF Essentials
+    *   Men's Boots Up to 70% Off
+    *   Trunks Surf &. Swim Co.
+    *   Veronica Beard Up to 65% Off
+    *   Sleek Sneakers for Kids
+    *   Exclusive Styles from $13 Incl. Plus &. Petites
     *   Rebecca Minkoff Handbags
     *   Michael Stars &. More Up to 60% Off
+    
     *   Vince Shoes Up to 60% Off
-    *   The North Face Starting at $60
     *   GOOD AMERICAN Up to 65% Off
     *   Hurley Kids Up to 55% Off
     *   Sanctuary Up to 70% Off Incl. Plus &. Petites
     *   Do + Be Under $45
-    *   Hurley Men Starting at $15
     *   Allen Edmonds Up to 60% Off
     *   Personalized Jewelry &. Diamonds Starting at $20
     *   Ready for Sun: Sandals Under $50
-    *   Aratta Up to 70% Off
     *   Men's Designer Basics Up to 75% Off
     *   Fresh Finds: Sandals Up to 60% Off
     *   Comfort in Every Step: LifeStride
@@ -32,19 +56,17 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Samsonite Luggage Up to 65% Off
     *   Kids' Shoe Steals Up to 65% Off
     *   Pair Up: Panty Packs Under $20
-    
-    *   Wacoal Under $40
-    *   Men's Boots Up to 70% Off
-    *   PAIGE Up to 70% Off
     *   True Religion Up to 65% Off
     *   True Religion Men Up to 70% Off
     *   True Religion Kids Up to 65% Off
+    *   The North Face Starting at $60
     *   Easy Essentials: Knit Tops Under $40 Incl. Plus
     *   Donna Morgan Incl. Plus &. Petites
     *   Spring Active Steals Under $30
     *   Easy to Clean: Nylon Bags Up to 65% Off
     *   The North Face Men
     *   Boots &. Booties Up to 60% Off
+    
     *   Sun's Out, Toe's Out: Sandals Up to 60% Off
     *   Cool Kicks: Sneakers ft. PUMA &. More
     *   Men's Hoodies &. Sweatshirts Up to 75% Off
@@ -56,50 +78,55 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Everyday Makeup Essentials Starting at $10
     *   Best Dressed Virtual Guest: J.O.A. &. More
     *   Charles by Charles David from $40
-    
-    *   PAIGE Men Up to 65% Off
-    *   Suzy Levian Jewelry &. Handbags
     *   Fun in the Sun: Kids' Tanks, Shorts, Toys &. More
-    *   Karl Lagerfeld Men's Shoes Up to 65% Off
+    *   Sunglasses Up to 75% Off ft. Chloe
     *   Bedding Steals Up to 50% Off
-    *   Complete the Look: Leather Wallets, Belts &. More
     *   At-Home Spa Essentials
-    *   Frye Men's Shoes, Accessories &. More
     *   Best of Makeup: NARS &. More
-    *   Bruno Magli Men
     *   Mood-Boosting Fragrances Under $50
     *   Free Shipping: BergHOFF Up to 55% Off
     *   Kitchen Appliance Best Sellers ft. Smeg
     *   Stay Cozy in Bed: Anthropologie Home &. More
     *   Backyard Accessories &. Decor from $20
-    *   Easy WFH Hair: Dry Shampoo &. More
     *   So Fetch: Pet Accessories &. More
     *   Tidy Up Your Kitchen: Storage Essentials
     *   1200 Thread Count Sheets Sets Up to 60% Off
-    *   Silk Pillowcases ft. Blissy
-    *   Sunglasses Up to 75% Off ft. Chloe
+    *   Hurley Men Starting at $15
+    *   Aratta Up to 70% Off
+    *   Karl Lagerfeld Men's Shoes Up to 65% Off
 *   WomenShop Sale Events
     
+    *   Spring Fling: Jackets Up to 65% Off
+    *   Short Sleeve Tops Under $25
+    *   Give Spring the Boot: Styles Under $50
+    *   Franco Sarto Starting at $40
+    *   Crops &. Shorts from $20 Incl. Plus and Petites
+    *   Exclusively Ours: Handbags Up to 50% Off
+    *   Top Picks: Styles from $15 Incl. Plus &. Petites
+    *   Aldo &. Call It Spring Starting at $30
+    *   Keep It Casual: BDG &. More from $20
+    *   Spring Favorites: On-Trend Jewelry
+    *   Valentino by Mario Valentino
+    *   Take a Break in the Sun: SPF Essentials
+    *   Veronica Beard Up to 65% Off
+    *   Exclusive Styles from $13 Incl. Plus &. Petites
     *   Rebecca Minkoff Handbags
     *   Michael Stars &. More Up to 60% Off
     *   Vince Shoes Up to 60% Off
-    *   The North Face Starting at $60
     *   GOOD AMERICAN Up to 65% Off
     *   Sanctuary Up to 70% Off Incl. Plus &. Petites
     *   Do + Be Under $45
     *   Personalized Jewelry &. Diamonds Starting at $20
     *   Ready for Sun: Sandals Under $50
-    *   Aratta Up to 70% Off
     *   Fresh Finds: Sandals Up to 60% Off
     *   Comfort in Every Step: LifeStride
+    
     *   Show Your Skin Some Love: Tools, Masks &. More
     *   Fragrance for Him Under $50
     *   Samsonite Luggage Up to 65% Off
     *   Pair Up: Panty Packs Under $20
-    *   Wacoal Under $40
-    *   PAIGE Up to 70% Off
     *   True Religion Up to 65% Off
-    
+    *   The North Face Starting at $60
     *   Easy Essentials: Knit Tops Under $40 Incl. Plus
     *   Donna Morgan Incl. Plus &. Petites
     *   Spring Active Steals Under $30
@@ -112,37 +139,38 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Everyday Makeup Essentials Starting at $10
     *   Best Dressed Virtual Guest: J.O.A. &. More
     *   Charles by Charles David from $40
-    *   Suzy Levian Jewelry &. Handbags
+    *   Sunglasses Up to 75% Off ft. Chloe
     *   At-Home Spa Essentials
     *   Best of Makeup: NARS &. More
     *   Mood-Boosting Fragrances Under $50
-    *   Easy WFH Hair: Dry Shampoo &. More
-    *   Sunglasses Up to 75% Off ft. Chloe
+    *   Aratta Up to 70% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie &. Shapewear
     *   Handbags
     *   Jewelry
+    *   Lingerie &. Shapewear
     *   Accessories
 *   MenShop Sale Events
     
-    *   Hurley Men Starting at $15
+    *   Men's Shoe Steals Up to 65% Off
+    *   Tailored Savings: Suiting &. More Up to 75% Off
+    *   Brooks Brothers Men
+    *   Boconi Belts, Bags &. More Up to 75% Off
+    *   TOMS Men Starting at $30
+    *   Men's Boots Up to 70% Off
+    *   Trunks Surf &. Swim Co.
     *   Allen Edmonds Up to 60% Off
+    
     *   Men's Designer Basics Up to 75% Off
     *   Samsonite Luggage Up to 65% Off
-    *   Men's Boots Up to 70% Off
     *   True Religion Men Up to 70% Off
     *   The North Face Men
-    
     *   Men's Hoodies &. Sweatshirts Up to 75% Off
     *   Sport These: Men's Sneakers ft. PUMA
-    *   PAIGE Men Up to 65% Off
+    *   Hurley Men Starting at $15
     *   Karl Lagerfeld Men's Shoes Up to 65% Off
-    *   Complete the Look: Leather Wallets, Belts &. More
-    *   Frye Men's Shoes, Accessories &. More
-    *   Bruno Magli Men
     
     Shop By Category
     *   Clothing
@@ -150,6 +178,9 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Bring on Bedtime: Kids' Pajamas Up to 50% Off
+    *   Sweet Sets for Baby Up to 60% Off
+    *   Sleek Sneakers for Kids
     *   Hurley Kids Up to 55% Off
     *   Trending Now: Kids' Joggers, Leggings &. More
     *   Kids' Shoe Steals Up to 65% Off
@@ -160,52 +191,54 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     Shop By Category
     *   Boys
     *   Girls
-    *   Toys
     *   Baby
+    *   Toys
     *   Girls' Shoes
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Free Shipping: Storage for Every Room Up to 50% Off
+    *   Smart Watch Bands &. More Up to 50% Off
     *   Kitchen Must-Haves: Appliances &. More from $15
     *   Wall Art &. Decor Up to 50% Off
     *   Bedding Steals Up to 50% Off
     *   Free Shipping: BergHOFF Up to 55% Off
+    
     *   Kitchen Appliance Best Sellers ft. Smeg
     *   Stay Cozy in Bed: Anthropologie Home &. More
-    
     *   Backyard Accessories &. Decor from $20
     *   So Fetch: Pet Accessories &. More
     *   Tidy Up Your Kitchen: Storage Essentials
     *   1200 Thread Count Sheets Sets Up to 60% Off
-    *   Silk Pillowcases ft. Blissy
     
     Shop By Category
-    *   Bedding
     *   Kitchen &. Tabletop
+    *   Bedding
     *   Pet Accessories
     *   Home Decor
+    *   Luggage &. Travel
     *   Cleaning &. Organization
     *   Outdoor Living
-    *   Luggage &. Travel
+    *   Electronic &. Tech Accessories
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Take a Break in the Sun: SPF Essentials
     *   Show Your Skin Some Love: Tools, Masks &. More
     *   Fragrance for Him Under $50
     *   Everyday Makeup Essentials Starting at $10
     *   At-Home Spa Essentials
     *   Best of Makeup: NARS &. More
     *   Mood-Boosting Fragrances Under $50
-    *   Easy WFH Hair: Dry Shampoo &. More
     
     Shop By Category
     *   Makeup
     *   Skin Care
-    *   Hair Care
-    *   Fragrance
-    *   Tools &. Accessories
-    *   Bath &. Body
     *   Men’s Grooming
+    *   Fragrance
+    *   Bath &. Body
+    *   Tools &. Accessories
+    *   Hair Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
