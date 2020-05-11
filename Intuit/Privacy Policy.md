@@ -1,6 +1,6 @@
-Our COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: SHOEPERK Details  
-Flash Sale! EXTRA 40% OFF Women’s sandals with code: SHOEPERK More  
-Free Shipping Over $49  DetailsOur COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: SHOEPERK Details  
+Our COVID-19 response  DetailsFinal day! EXTRA 30% OFF $75+ with code: SHOEPERK Details  
+OR EXTRA 25% OFF UNDER $75 with code: SHOEPERK Details  
+Free Shipping Over $49  DetailsOur COVID-19 response  DetailsFinal day! EXTRA 30% OFF $75+ with code: SHOEPERK Details  
 
 Enable Accessibility
 
@@ -21,7 +21,33 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-UP TO 50% OFFCloset casual classics for warmer temps.Women's Topsselect stylesMen's Shortsselect stylesWomen's Dressesselect stylesGirls' Shirtsselect stylesUP TO 40% OFF All Liz Claiborne
+Video Player is loading.Play VideoPlayMuteCurrent Time 0:00/Duration 0:00Loaded: 0%Stream Type LIVESeek to live, currently playing liveLIVERemaining Time -0:00 1xPlayback Rate
+
+Chapters
+
+*   Chapters
+
+Descriptions
+
+*   descriptions off, selected
+
+Captions
+
+*   captions and subtitles off, selected
+
+Audio Track
+
+Fullscreen
+
+This is a modal window.
+
+Beginning of dialog window. Escape will cancel and close the window.
+
+TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal Dialog
+
+End of dialog window.
+
+Here's to you, Mom!She's always been there for us—nowit's our turn to celebrate her.UP TO 50% OFFCloset casual classics for warmer temps.Women's Topsselect stylesMen's Shortsselect stylesWomen's Dressesselect stylesGirls' Shirtsselect stylesUP TO 40% OFF All Liz Claiborne
 
 *   Shop Now
 
@@ -67,58 +93,50 @@ Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded
 
 Sponsored Items
 
+*   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~134
+*   Rachael Ray Create Delicious 10.25-Inch Deep Skillet
+    
+    $39.99sale
+    
+    ~$70~22
+*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $14.99with code~$30~
 *   Waterpik WF-06W010 Whitening Water Flosser
     
     $89.99sale
     
     ~$94~114
-*   Beautyrest ® BR800™ Medium - Mattress Only $279 - $439with code~$1,200 - $1,650~3
-*   Lock &. Lock 10-pc. Food Container $22.49with code~$40~
-*   Serta Icomfort Blue Fusion 100 Firm Tight-Top Hybrid Mattress $459 - $1398.99with code~$1,480 - $3,420~163
 *   Serta® Sleeptrue® Lindridge Firm - Mattress Only $308.99 - $539with code~$1,000 - $1,750~4
+*   Farberware® Classic Series 15-pc. Stainless Steel Cookware Set $175with code71
+*   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $83.99with code~$180~35
 *   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $83.99with code~$180~55
 *   Rachael Ray Create Delicious 11-Pc. Cookware Set
     
     $179.99sale
     
     ~$300~17
-*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $14.99with code~$30~
-*   Shea Moisture Jamaican Black Castor Oil Conditioner - 11 oz. $9.89with code82
-*   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $83.99with code~$180~35
-*   Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set
-    
-    $139.99sale
-    
-    ~$240~192
+*   Serta Icomfort Blue Fusion 100 Firm Tight-Top Hybrid Mattress $459 - $1398.99with code~$1,480 - $3,420~163
 *   Farberware 12-Pc. Cookware Set $62.99with code~$190~50
-*   Shea Moisture Coconut &. Hibiscus Hair Cream-12 oz. $11.69with code210
-*   Farberware® Classic Series 15-pc. Stainless Steel Cookware Set $175with code71
+*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $55.99 - $83.99with code~$140 - $160~94
+*   Circulon® Symmetry 11-pc. Hard-Anodized Cookware Set
+    
+    $379.99sale
+    
+    ~$600~117
 *   Rachael Ray Create Delicious 12.5" Deep Skillet Aluminum Non-Stick Skillet
     
     $39.99sale
     
     ~$60~31
-*   Tommee Tippee Advanced Anti Colic Baby Bottles – Clear 9 oz
+*   Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set
     
-    $8.99
+    $139.99sale
     
-    43
-*   Rachael Ray Create Delicious 14.25" Aluminum Non-Stick Wok
-    
-    $49.99sale
-    
-    ~$80~22
-*   Ayesha Curry™ Home Collection 2-pc. 9.25" &. 11.5" Skillet Set
-    
-    $80
-    
-    10
-*   Tommee Tippee Closer to Nature Added Cereal Baby Bottle - Clear 11oz
-    
-    $7.19clearance
-    
-    ~$8.99~12
+    ~$240~192
+*   Shea Moisture Coconut &. Hibiscus Conditioner - 13 oz. $9.89with code73
 *   Covington Home Evan Rectangular Rug $63with code21
+*   Shea Moisture Coconut &. Hibiscus Hair Cream-12 oz. $11.69with code210
+*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
+*   Shea Moisture Jamaican Black Castor Oil Conditioner - 11 oz. $9.89with code82
 
 Shop and Save at JCPenney
 
