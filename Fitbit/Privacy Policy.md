@@ -18,13 +18,15 @@
     *   NOT SURE WHICH PRODUCT IS RIGHT FOR YOU?
     *   Take the Quiz
     
-    Mother's Day Sale
-    
     NEW
     
-    Fitbit Charge 4™
+    Shop Charge 4
     
-    Fitbit Versa 2™
+    Women's Health Week
+    
+    Shop Versa 2
+    
+    Shop Accessories
     
 *   TECHNOLOGY
     
