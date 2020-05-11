@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Sunday, May 10, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Monday, May 11, 2020  
 
 DEBKAfile
 
@@ -46,6 +46,18 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   Five new coronavirus deaths in Israel. Infection down
+    
+    May 10, 2020 @ 21:27
+    
+*   Right-wing Yamina party opts for opposition
+    
+    May 10, 2020 @ 21:17
+    
+*   New coronavirus clusters cause concern as countries ease out of lockdown
+    
+    May 10, 2020 @ 19:15
+    
 *   Global coronavirus infections surpass four million
     
     May 10, 2020 @ 08:17
@@ -65,35 +77,35 @@ Breaking news
 *   Esper is reported pushing to cut US Sinai peacekeeping mission
     
     May 08, 2020 @ 08:00
-    
-*   President Rivlin receives 72 MKs’ signatures for Netanyahu as PM
-    
-    May 07, 2020 @ 18:57
-    
-*   Iraq’s former spy chief sworn in as prime minister
-    
-    May 07, 2020 @ 17:56
-    
-*   No crowds on Mt. Meron for this Lag BeOmer due to covid restrictions
-    
-    May 07, 2020 @ 17:54
     
 
+*   Active virus cases in Israel slide below 5,000
+    
+    May 09, 2020 @ 21:09
+    
+*   Russia dims Victory Day events after 10,817 new covid-19 cases
+    
+    May 09, 2020 @ 17:46
+    
+*   Coronavirus cases drop by more than 100
+    
+    May 08, 2020 @ 09:14
+    
 *   Esper is reported pushing to cut US Sinai peacekeeping mission
     
     May 08, 2020 @ 08:00
     
-*   President Rivlin receives 72 MKs’ signatures for Netanyahu as PM
+*   Five new coronavirus deaths in Israel. Infection down
     
-    May 07, 2020 @ 18:57
+    May 10, 2020 @ 21:27
     
-*   Iraq’s former spy chief sworn in as prime minister
+*   Right-wing Yamina party opts for opposition
     
-    May 07, 2020 @ 17:56
+    May 10, 2020 @ 21:17
     
-*   No crowds on Mt. Meron for this Lag BeOmer due to covid restrictions
+*   New coronavirus clusters cause concern as countries ease out of lockdown
     
-    May 07, 2020 @ 17:54
+    May 10, 2020 @ 19:15
     
 *   Global coronavirus infections surpass four million
     
@@ -115,33 +127,21 @@ Breaking news
     
     May 08, 2020 @ 08:00
     
-*   President Rivlin receives 72 MKs’ signatures for Netanyahu as PM
+*   Five new coronavirus deaths in Israel. Infection down
     
-    May 07, 2020 @ 18:57
+    May 10, 2020 @ 21:27
     
-*   Iraq’s former spy chief sworn in as prime minister
+*   Right-wing Yamina party opts for opposition
     
-    May 07, 2020 @ 17:56
+    May 10, 2020 @ 21:17
     
-*   No crowds on Mt. Meron for this Lag BeOmer due to covid restrictions
+*   New coronavirus clusters cause concern as countries ease out of lockdown
     
-    May 07, 2020 @ 17:54
+    May 10, 2020 @ 19:15
     
 *   Global coronavirus infections surpass four million
     
     May 10, 2020 @ 08:17
-    
-*   Active virus cases in Israel slide below 5,000
-    
-    May 09, 2020 @ 21:09
-    
-*   Russia dims Victory Day events after 10,817 new covid-19 cases
-    
-    May 09, 2020 @ 17:46
-    
-*   Coronavirus cases drop by more than 100
-    
-    May 08, 2020 @ 09:14
     
 
 12PrevNext
