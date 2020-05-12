@@ -36,19 +36,18 @@ Skip to navigation Skip to main content Subscribe Menu Close
         *   Emerging Products
 *   In DepthOpen Submenu
     *   In Depth Back
-        *   SC Media's 30th Anniversary Celebration
         *   Technology Research Reports
         *   SC Media Print Archive
         *   Reboot
         *   Features
         *   Director's Cut Videos
+        *   SC Media's 30th Anniversary Celebration
 *   EventsOpen Submenu
     *   Events Back
         *   SC Awards
         *   InfoSec World
         *   Webcasts
         *   Virtual Conferences
-        *   SC Media's 30th Anniversary Celebration
         *   Security Leadership Exchange
 *   Resource Library
 *   SC Security Ops CenterOpen Submenu
@@ -280,17 +279,17 @@ Security basics: If you can’t make them sexy, make them simple
     *   Emailed
     *   Recent
     
-    *   Cut costs while bolstering cybersecurity during Covid-19
-    *   Zero-click vulnerability found in Samsung mobile phones
-    *   Survey: COVID-19 has changed cyber pros' roles, increased incident totals
-    *   PhantomLance campaign slipped trojanized apps into marketplaces for years
-    *   Aggah malspam campaign updated with new payloads
+    *   Vulnerability management
+    *   House Intel Committee releases closed-door testimonies from Russia election interference probe
+    *   The staying power in resiliency
+    *   Adobe issues patches 21 critical vulnerabilities in Illustrator and Bridge
+    *   44M leaked Pakistani mobile user records apparently belong to Jazz
     
-    *   5 ways COVID-19 is reshaping the cybercrime economy
-    *   Maintaining resiliency in a newly remote age
-    *   No reprieve for health care orgs as ransomware hits hospital operator, plastic surgeons
-    *   Build a data-driven defense strategy to fight cybercrime
-    *   Vulnerabilities in two VPNs opened door to fake, malicious updates
+    *   COVID-19's impact on package deliveries creates golden opportunity for scammers
+    *   House Intel Committee releases closed-door testimonies from Russia election interference probe
+    *   Buyer beware, risk ahead
+    *   Shade ransomware gang gives up keys, apologizes to victims
+    *   Roblox hacker enabled by insider threats. expert offers tips to curb rogue employees
     
     *   COVID-19 inspires Nigerian scammers to launch waves of BEC campaigns
     *   Hacker hijacks Milwaukee Bucks star's Twitter account, posts offensive trash talk
@@ -329,4 +328,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+
+You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
