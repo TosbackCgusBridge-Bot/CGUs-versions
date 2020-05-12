@@ -38,6 +38,7 @@ Search fidelity.com or get a quote
     *   Statements
     *   Tax Forms &. Information
     *   Retirement Distributions Log In Required
+    *   Fidelity Rewards+Log In Required
 *   Planning &. Advice
     *   What We Offer
     *   My Goals
