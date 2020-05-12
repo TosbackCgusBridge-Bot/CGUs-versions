@@ -26,18 +26,18 @@ View more results
     All Girls Best Games
     *   Baby Hazel: Hair Care
     *   Dove Prom Dolly Dress Up
-    *   Year Round Fashionista: Curly
     *   Floral Real Life Manicure
+    *   Year Round Fashionista: Curly
     *   Ice Slushy Maker
     *   Dark Chocolate Blackberry Cheesecake: Sara's Cooking Class
     *   Beach Kiss
     *   Goldie: Lip Injections
     *   Car Salon
+    *   Mommy BFFs: Pregnant Check-Up
     *   How To Become Popular at School with Princess
     *   Dotted Girl: Back Treatment
+    *   Love Tester 3
     *   Cute Room Decoration
-    *   Dentist Dr. Teeth
-    *   Mommy BFFs: Pregnant Check-Up
 *   Racing
     
     Top Categories
@@ -59,8 +59,8 @@ View more results
     *   Off-Road Cycle 3D
     *   Real Dog Racing Simulator
     *   Moto X3M 5: Pool Party
-    *   Cars 3D
     *   Off-Roader V6
+    *   Cars 3D
     *   Stock Car Hero
     *   City Stunts
     *   Xcross Madness
@@ -83,8 +83,8 @@ View more results
     *   Subway Clash 3D
     *   Miami Crime Simulator 3D
     *   Deer Hunter
-    *   CS Portable
     *   Shot Trigger
+    *   CS Portable
     *   Sniper Reloaded
     *   Army Force Strike: 3D Shooting Game Online Multiplayer
     *   Pixel Gun Apocalypse 3
@@ -92,8 +92,8 @@ View more results
     *   Apple Shooter
     *   Hunter 3D
     *   Mr. Bullet
-    *   Winter Clash 3D
     *   Tank Trouble 2
+    *   Winter Clash 3D
 *   Puzzle
     
     Top Categories
@@ -110,8 +110,8 @@ View more results
     All Puzzle Best Games
     *   MahJongCon
     *   Bubble Shooter Classic
-    *   Block Wood Puzzle
     *   Bubble Shooter
+    *   Block Wood Puzzle
     *   Mahjong Connect Classic
     *   Aztec Adventure
     *   Jewelry Match
@@ -120,8 +120,8 @@ View more results
     *   TenTrix
     *   Line Puzzle
     *   Word Connect
-    *   Bubble Hit
     *   Word Wipe
+    *   Mahjong Link
 *   Multiplayer
     
     Top Categories
@@ -146,10 +146,10 @@ View more results
     *   Ludo 4 Players
     *   Crowd City
     *   Master Chess Multiplayer
-    *   Skydom
-    *   Kogama: Escape from Prison
     *   Wormate.io
+    *   Skydom
     *   Ludo Hero
+    *   Empire: World War 3
 *   Action
     
     Top Categories
@@ -159,7 +159,7 @@ View more results
     *   Flash Games
     *   One player
     *   Y8 Games
-    *   Friv Games
+    *   Friv
     *   HTML5
     *   Fighting
     
@@ -167,14 +167,14 @@ View more results
     *   Subway Clash 3D
     *   Miami Crime Simulator 3D
     *   Deer Hunter
-    *   CS Portable
     *   Shot Trigger
+    *   CS Portable
     *   Stickman Warriors
     *   Sniper Reloaded
     *   Bomb It 6
     *   Super Buddy Kick
-    *   Short Life
     *   Wormate.io
+    *   Short Life
     *   Army Force Strike: 3D Shooting Game Online Multiplayer
     *   Pixel Gun Apocalypse 3
     *   Naruto Online
