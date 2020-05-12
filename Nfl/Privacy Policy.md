@@ -7,7 +7,7 @@
 *   Free Agency
 
 *   Draft
-*   NFL Shop
+*   Scores
 
 NFL.com - Privacy Policy English French German Portuguese Spanish
 
