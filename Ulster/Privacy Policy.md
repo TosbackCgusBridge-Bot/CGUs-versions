@@ -2,8 +2,6 @@ Coronavirus (COVID-19) : Key Information
 
 The message in NI remains unchanged. We urge all our staff and students to #StayatHome #SaveLives.
 
-Further guidance will be issued following Stormont Executive briefings on Monday.
-
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MGFFD8" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
 
 Cookies &. Privacy
