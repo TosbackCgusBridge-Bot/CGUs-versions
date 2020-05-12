@@ -3,17 +3,17 @@
 *   games
 *   videos
 
-New Games Next in  02:35
+New Games Next in  00:00
 
-*   By Date Next addition in 02:35
+*   By Date Next addition in 00:00
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more LIBRARY
 
-*   New Games Next in 02:35
-*   Best of new games 1307 games
-*   Most Popular Games 20875 games
+*   New Games Next in 00:00
+*   Best of new games 1309 games
+*   Most Popular Games 20882 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -24,19 +24,19 @@ CATEGORIES
 *   Driving &. Racing 6,350 games
 *   Strategy &. RPG 3,617 games
 *   Management &. Sim 4,267 games
-*   Thinking 12,600 games
-*   Action &. Adventure 14,568 games
-*   Sports 3,319 games
+*   Thinking 12,605 games
+*   Action &. Adventure 14,574 games
+*   Sports 3,318 games
 *   Shooting 9,060 games
-*   Fighting 2,067 games
-*   Skill 11,073 games
-*   Arcade &. Classic 9,173 games
+*   Fighting 2,068 games
+*   Skill 11,078 games
+*   Arcade &. Classic 9,176 games
 *   Fun &. Crazy 4,955 games
 
 Play with friends  
-Powered by Y8 Account 142 Y8 Multiplayer Games 2,210 Y8 High Score Games 1,260 Y8 Achievements Games 891 Y8 Screenshots Games 1,685 Y8 Online Save Games 3,381 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 142 Y8 Multiplayer Games 2,211 Y8 High Score Games 1,260 Y8 Achievements Games 891 Y8 Screenshots Games 1,685 Y8 Online Save Games 3,382 All Y8 Games Games Last Highscore:
 
-**590,974** points on Dragon Fortress by anouar1679
+**150** points on Masked Forces by DAG
 
 Help us improve Bad translation? Social
 
