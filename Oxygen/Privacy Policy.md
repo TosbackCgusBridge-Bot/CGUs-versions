@@ -16,32 +16,31 @@ Main menu
 
 *   Shows
     *   All Shows
+        *   Accident, Suicide, or Murder
         *   Catching a Serial Killer: Sam Little
         *   Chicago P.D.
         *   Cold Justice
+        *   Dark Web Exposed
         *   Dateline: Secrets Uncovered
         *   Deadly Cults
-        *   Kim Kardashian West: The Justice Project
+        *   Famous Cases Explained
+        *   How To Stay Safe
         *   Killer Couples
+        *   Kim Kardashian West: The Justice Project
         *   Mark of a Killer
+        *   Martinis &. Murder
+        *   Searching For
         *   Snapped
         *   The DNA of Murder with Paul Holes
         *   The Forgotten West Memphis Three
-        *   Dark Web Exposed
-        *   Famous Cases Explained
-        *   How To Stay Safe
-        *   Searching For
-        *   Dateline: Secrets Uncovered
-        *   Martinis &. Murder
-        *   Accident, Suicide, or Murder
     *   Channel Finder
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 1:29 An Unexpected Killer Woman Brutally Killed At Louisiana Home 0:35 Cold Justice 'Cold Justice' Investigates Keith Jones' Fort Myers Motel Murder
+    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 7:52 Dark Web Exposed LIVESTREAM CRIMES: Murder, Mayhem and Social Media 5:59 Snapped What Was Wendi Mae Davidson's Motive?
 *   News
     *   Crime News
-    *   True Crime BuzzCrime News Elderly Woman Arrested For Murder With 'Cold Justice' Help Jonathan Fava and Kelly Lynn Bray Photo: Facebook Crime News Death Of NY Couple Was A Drunken Accident, Police Say Lori Vallow Daybell is seen during her hearing on Friday, March 6, 2020, in Rexburg, Idaho. Photo: John Roark/The Idaho Post-Register/AP Crime News Lori Vallow's Husband Sent 'Chilling' Texts Before Death
+    *   True Crime BuzzAdam Slater Photo: Riverside County Sheriff’s Department Crime News Man Allegedly Stabbed Wife, Threw Baby Over A Cliff Carla and Rodney McCoy Crime News Who Killed Texas High School Cheerleader Carla Walker? Candace Muzny poses during a portrait session for the K&N Pro Series East at Bristol Motor Speedway on March 16, 2012 in Bristol, Tennessee. Photo: Getty Images Crime News Ex-NASCAR Driver Candace Muzny Accidentally Drowned
 *   Podcasts
 *   Detective's Den
 *   Schedule
