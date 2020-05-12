@@ -45,7 +45,7 @@ Lenovo Explore Close
         *   Price Match Guaranteed
         
         *   Explore Desktops
-        *   Desktop Deals
+        *   Filter Desktops by Specs
         *   Gaming Desktops
         *   Workstations
         *   Small Business Desktops
@@ -59,11 +59,11 @@ Lenovo Explore Close
         *   ThinkStation
         
         *   Best Selling Desktops
+        *   Desktop Deals
         *   M720 Tiny
-        *   A540 24 inch AIO
+        *   A340 24 inch AIO
         *   M630e Tiny
         *   M720e SFF
-        *   T540 Gaming Tower
         *   M920 SFF
         
         PC's ready to ship
@@ -577,7 +577,6 @@ Lenovo Explore Close
         *   Asset Management
         *   Customization
         *   Post Deployment
-        *   SMB Easy Deploy
         
         *   Managed Services
         *   Device as a Service (DaaS)
@@ -1211,7 +1210,7 @@ How can we help
 
 you today?
 
-×SALES CHATEXISTING ORDER HELPSALES CHATEXISTING ORDER HELPBUSINESS SALESBUSINESS SALES
+×HOMEHOMEBUSINESSBUSINESSEXISTING ORDER HELPEXISTING ORDER HELP
 
 **\*\*Call us:**
 
@@ -1219,4 +1218,4 @@ Personal: 1-855-253-6686
 
 Business: 1-866-426-0911
 
-Ask us about our price match policy >Check order status >Technical support or Repair status >
+Ask us about our price match policy >Check order status >. Technical support or Repair status >
