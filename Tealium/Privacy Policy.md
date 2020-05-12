@@ -29,6 +29,7 @@
         *   Tealium InfoSec
     *   Adobe + Tealium
     *   Amazon Web Services + Tealium
+    *   Facebook + Tealium
 *   Integrations
 *   Resources
     *   Resource Library (hub)
@@ -84,6 +85,7 @@
         *   Tealium InfoSec
     *   Adobe + Tealium
     *   Amazon Web Services + Tealium
+    *   Facebook + Tealium
 *   Integrations
 *   Resources
     *   Resource Library (hub)
