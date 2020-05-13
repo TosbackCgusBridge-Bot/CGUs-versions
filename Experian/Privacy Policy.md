@@ -90,7 +90,6 @@ Privacy Privacy
     *   Experian EU-U.S. Privacy Shield Privacy Policy
     *   Experian Connect
     *   Experian’s Usage of Marketing Data
-    *   IDnotify Privacy Policy
     *   Online Business Credit Reports
     *   Online Credit Reports
     *   Permission Email
