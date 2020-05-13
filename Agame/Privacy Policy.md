@@ -27,17 +27,17 @@ View more results
     *   Baby Hazel: Hair Care
     *   Dove Prom Dolly Dress Up
     *   Floral Real Life Manicure
+    *   Beach Kiss
     *   Year Round Fashionista: Curly
     *   Ice Slushy Maker
-    *   Dark Chocolate Blackberry Cheesecake: Sara's Cooking Class
-    *   Beach Kiss
     *   Goldie: Lip Injections
-    *   Car Salon
+    *   Dark Chocolate Blackberry Cheesecake: Sara's Cooking Class
     *   Mommy BFFs: Pregnant Check-Up
-    *   How To Become Popular at School with Princess
-    *   Dotted Girl: Back Treatment
+    *   Car Salon
     *   Love Tester 3
+    *   How To Become Popular at School with Princess
     *   Cute Room Decoration
+    *   Dotted Girl: Back Treatment
 *   Racing
     
     Top Categories
@@ -54,8 +54,8 @@ View more results
     All Racing Best Games
     *   Maximum Acceleration: 3D Drift Game
     *   Hill Racing Challenge
-    *   City Car Stunts 2
     *   Madalin Stunt Cars 2
+    *   City Car Stunts 2
     *   Off-Road Cycle 3D
     *   Real Dog Racing Simulator
     *   Moto X3M 5: Pool Party
@@ -82,12 +82,12 @@ View more results
     Best Games
     *   Subway Clash 3D
     *   Miami Crime Simulator 3D
-    *   Deer Hunter
     *   Shot Trigger
+    *   Deer Hunter
     *   CS Portable
     *   Sniper Reloaded
-    *   Army Force Strike: 3D Shooting Game Online Multiplayer
     *   Pixel Gun Apocalypse 3
+    *   Army Force Strike: 3D Shooting Game Online Multiplayer
     *   Archery World Tour
     *   Apple Shooter
     *   Hunter 3D
@@ -113,8 +113,8 @@ View more results
     *   Bubble Shooter
     *   Block Wood Puzzle
     *   Mahjong Connect Classic
-    *   Aztec Adventure
     *   Jewelry Match
+    *   Aztec Adventure
     *   Cartoon Rabbit Jigsaw Puzzles
     *   Farm Connect 2
     *   TenTrix
@@ -145,11 +145,11 @@ View more results
     *   Pool Clash: 8 Ball Billiards Snooker
     *   Ludo 4 Players
     *   Crowd City
-    *   Master Chess Multiplayer
     *   Wormate.io
-    *   Skydom
-    *   Ludo Hero
+    *   Master Chess Multiplayer
     *   Empire: World War 3
+    *   Ludo Hero
+    *   Kogama: Escape from Prison
 *   Action
     
     Top Categories
@@ -166,17 +166,17 @@ View more results
     All Action Best Games
     *   Subway Clash 3D
     *   Miami Crime Simulator 3D
-    *   Deer Hunter
     *   Shot Trigger
+    *   Deer Hunter
     *   CS Portable
     *   Stickman Warriors
     *   Sniper Reloaded
-    *   Bomb It 6
     *   Super Buddy Kick
     *   Wormate.io
+    *   Bomb It 6
     *   Short Life
-    *   Army Force Strike: 3D Shooting Game Online Multiplayer
     *   Pixel Gun Apocalypse 3
+    *   Army Force Strike: 3D Shooting Game Online Multiplayer
     *   Naruto Online
 *   Adventure
     
@@ -203,8 +203,8 @@ View more results
     *   Bob the Robber 4: Season 2 Russia
     *   World Crafts
     *   Miami Crime Simulator 3D
-    *   Ouija Voices
     *   Chrome Dino
+    *   Ouija Voices
     *   Dumb Ways to Die: Original
 *   More
     
