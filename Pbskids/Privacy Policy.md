@@ -7,7 +7,7 @@
 *   TV Times
 *   Settings
 
-For Families Visiting PBS KIDS: Last modified: December 6, 2018
+For Families Visiting PBS KIDS: Last modified: May 12, 2020
 
 PBS is a nonprofit institution that strives to serve the American public. We value the trust you have placed in us for many years to make quality educational children's content. Sometimes, we may need to collect information about our users and their use of our services to help us achieve that goal.
 
@@ -27,7 +27,7 @@ What information do we collect?
 *   Search queries. Our Services may include search fields that allow you to search (only within the Services) for content or answers to questions. We collect information about what items and topics you query, and any additional search terms.
 *   Your content. We collect comments and other information that children post through interactive online features. However, all such information is either canned or moderated to avoid collecting personal information and to help maintain a safe environment for users. Some of our Services allow children to use their device's camera to take photos. In most instances, these photos are only able to be stored locally on the device. We do not collect them. In the event that we do allow children to upload photos, such photos are moderated.
 *   Correspondence you send to us. We may store correspondence with parents related to our Services.
-*   Information about how our Services are used. We may collect information such as preferences, avatars, high scores, connections between friends, what happens in a game, or what videos are watched.
+*   Information about how our Services are used. We may collect information such as preferences, avatars, high scores, connections between friends, what happens in a game, what videos are watched, or pages you view and links you click on within the Services.
 *   Device information. We may collect information about your device, including hardware model, operating system version, and unique identifiers.
 
   
