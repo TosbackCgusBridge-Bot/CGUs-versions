@@ -45,12 +45,12 @@ Lenovo Explore Close
         *   Price Match Guaranteed
         
         *   Explore Desktops
-        *   Filter Desktops by Specs
         *   Gaming Desktops
         *   Workstations
         *   Small Business Desktops
         *   Tiny Desktops
         *   View All Desktops
+        *   Filter Desktops by Specs
         
         *   By Brand
         *   ThinkCentre
@@ -59,12 +59,12 @@ Lenovo Explore Close
         *   ThinkStation
         
         *   Best Selling Desktops
-        *   Desktop Deals
         *   M720 Tiny
         *   A340 24 inch AIO
         *   M630e Tiny
         *   M720e SFF
         *   M920 SFF
+        *   Desktop Deals
         
         PC's ready to ship
         
