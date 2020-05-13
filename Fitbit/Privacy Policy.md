@@ -389,14 +389,12 @@ Explore products Follow us
 Support
 
 *   Product Help
-*   How to Videos
 *   Wear &. Care
 *   Community
 
 Support
 
 *   Product Help
-*   How to Videos
 *   Wear &. Care
 *   Community
 
