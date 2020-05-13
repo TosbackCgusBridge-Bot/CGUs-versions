@@ -4,7 +4,7 @@ Before finalizing your shipment, please confirm your recipient is "OPEN" for bus
 
 *   Shipping Create a Shipment Shipping Rates &. Delivery Times Shipping Rates &. Delivery Times Schedule &. Manage Pickups Packing &. Shipping Supplies International Shipping Guide In-Store Shipping Services ALL SHIPPING SERVICES
 *   Tracking Tracking ID Tracking ID TRACK Advanced Shipment Tracking Manage Your Delivery ALL TRACKING SERVICES
-*   Design &. Print Start Online Printing Order Custom Design Templates Posters, Signs &. Banners Marketing Materials Get Coupons &. Deals ALL PRINTING SERVICES
+*   Design &. Print Upload a Print-Ready File Custom Design Templates Explore Print Products Browse Services Get Coupons &. Deals ALL PRODUCTS &. SERVICES
 *   Locations All Location Types Find a Location
 *   Support New Customer Center Small Business Center FedEx Service Guide Account Management Tools File a Claim Billing &. Invoicing Customer Support
 
