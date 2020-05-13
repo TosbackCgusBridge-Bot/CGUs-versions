@@ -324,6 +324,7 @@ View the Fidelity Investments and the Fidelity Funds Privacy Notice (PDF)
 *   FidSafe
 *   FINRA's BrokerCheck
 *   Guest Access
+*   Health Savings Account
 
 Stay Connected Locate an Investor Center by ZIP Code Please enter a valid ZIP code
 
