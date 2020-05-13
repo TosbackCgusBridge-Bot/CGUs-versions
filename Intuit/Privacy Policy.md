@@ -24,7 +24,11 @@ Memorial Day Home SALEUP TO 60% OFF + Extra 10% OFF with coupon\*select styles
 
 *   Shop Now
 
-FurnitureMattressesUP TO 40% OFFcasual apparelstarting at $8.99!Shop AllUP TO 40% OFFOutdoor EntertainingFire up the grill for your barb-e-cuties!select styles
+Mattresses SaleFurniture Sale**UP TO 40% OFF casual apparel**
+
+select styles
+
+UP TO 40% OFFOutdoor EntertainingFire up the grill for your barb-e-cuties!select styles
 
 *   Shop All Outdoor Fun
 
@@ -42,82 +46,62 @@ Learn More Shop Gift CardsShop Father's Day GiftsSelections may vary, while sup
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
 *   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $14.99with code~$6 - $48~532
-*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
-    
-    $20sale
-    
-    ~$124.98~183
-*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver
-    
-    $20sale
-    
-    ~$124.98~136
-*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
-    
-    $20sale
-    
-    ~$124.98~129
 *   JCPenney Home Ultra Performance 575 Sateen Deep Pocket Sheet Set $26 - $78with code~$50 - $150~159
-*   Home Expressions Lisette Rod-Pocket Sheer Panel
-    
-    $9.99 - $19.99sale
-    
-    ~$20 - $40~1237
+*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $7.49with code~$13~24
+*   Liz Claiborne Luxury Egyptian Hygrocotton Loops Bath Towel $5.99 - $41.24with code~$16 - $124~128
+*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $7.50 - $54with code1683
+*   a.n.a Womens Scoop Neck Short Sleeve T-Shirt $7.49 - $12.75with code382
 
 Sponsored Items
 
-*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $14.99with code~$30~
+*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $126with code55
 *   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $126with code35
-*   Farberware® Classic Series 15-pc. Stainless Steel Cookware Set $175with code71
-*   Rachael Ray Create Delicious 11-Pc. Cookware Set
-    
-    $179.99sale
-    
-    ~$300~17
+*   Circulon® Momentum 11-pc. Nonstick Cookware Set $280with code134
 *   Waterpik WF-06W010 Whitening Water Flosser
     
     $89.99sale
     
     ~$94~114
-*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $98 - $112with code94
-*   Farberware Cookstart 15-pc. Cookware Set $84with code61
-*   Rachael Ray Create Delicious 12.5" Deep Skillet Aluminum Non-Stick Skillet
+*   Lock &. Lock 10-pc. Food Container $22.49with code~$40~
+*   Covington Home Evan Rectangular Rug $48.36with code~$90~21
+*   Rachael Ray Create Delicious 9.5" Covered Deep Skillet
     
     $39.99sale
     
     ~$60~31
-*   Circulon® Symmetry 10" &. 12" Hard-Anodized French Skillet Set
-    
-    $100
-    
-    160
 *   Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set
     
     $189.99sale
     
     ~$240~192
-*   Covington Home Evan Rectangular Rug $48.36with code~$90~21
-*   Ayesha Curry™ Home Collection 2-pc. 9.25" &. 11.5" Skillet Set
+*   Rachael Ray Create Delicious 12.5" Deep Skillet Aluminum Non-Stick Skillet
     
-    $80
+    $39.99sale
     
-    10
-*   Circulon® Symmetry 11-pc. Hard-Anodized Cookware Set
+    ~$60~31
+*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $126with code55
+*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
+*   Shea Moisture Jamaican Black Castor Oil Conditioner - 11 oz. $9.89with code82
+*   Rachael Ray Create Delicious 14.25" Aluminum Non-Stick Wok
     
-    $600
+    $49.99sale
     
-    117
-*   Serta® Sleeptrue® Lindridge Firm - Mattress Only $308.99 - $539with code~$1,000 - $1,750~4
+    ~$80~22
+*   Circulon 11-Pc. Aluminum Non-Stick Cookware Set $420with code27
 *   Serta Icomfort Blue Fusion 100 Firm Tight-Top Hybrid Mattress $459 - $1398.99with code~$1,480 - $3,420~163
 *   Shea Moisture Coconut &. Hibiscus Hair Cream-12 oz. $11.69with code210
-*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
-*   Circulon Elementum Hard Anodized 10-pc. Cookware Set
-    
-    $325
-    
-    76
 *   Shea Moisture Coconut &. Hibiscus Conditioner - 13 oz. $9.89with code73
-*   Shea Moisture Jamaican Black Castor Oil Conditioner - 11 oz. $9.89with code82
+*   Tommee Tippee Advanced Anti Colic Baby Bottles – Clear 9 oz
+    
+    $8.99
+    
+    43
+*   Tommee Tippee Closer to Nature Added Cereal Baby Bottle - Clear 11oz
+    
+    $7.19clearance
+    
+    ~$8.99~12
+*   Serta® Sleeptrue® Lindridge Firm - Mattress Only $308.99 - $539with code~$1,000 - $1,750~4
 
 Shop and Save at JCPenney
 
