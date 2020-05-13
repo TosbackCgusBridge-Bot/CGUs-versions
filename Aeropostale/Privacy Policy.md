@@ -96,7 +96,6 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Cropped Jeggings
 *   Bootcut Jeans
 *   Skinny Jeans
-*   Mom Jeans
 *   Wide Leg Jeans
 *   Skater Jeans
 *   90s Jeans
@@ -279,7 +278,6 @@ Menu Find a Store Aeropostale
         *   Cropped Jeggings
         *   Bootcut Jeans
         *   Skinny Jeans
-        *   Mom Jeans
         *   Wide Leg Jeans
         *   Skater Jeans
         *   90s Jeans
