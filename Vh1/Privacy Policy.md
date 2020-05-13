@@ -3,11 +3,11 @@
     *   Full Episodes
     *   Shows A-Z
     *   TV Schedule
-    *   Black Ink Crew Chicago
     *   Black Ink Crew New York
     *   Love &. Hip Hop Atlanta
     *   Love &. Hip Hop Miami
     *   RuPaul's Drag Race
+    *   RuPaul’s Drag Race All Stars
     *   Secret Celebrity RuPaul's Drag Race
     *   T.I. &. Tiny: Friends &. Family Hustle
     *   To Catch A Beautician
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleBlack Ink Crew ChicagoBlack Ink Crew New YorkLove &. Hip Hop AtlantaLove &. Hip Hop MiamiRuPaul's Drag RaceSecret Celebrity RuPaul's Drag RaceT.I. &. Tiny: Friends &. Family HustleTo Catch A BeauticianWild 'N Outsee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleBlack Ink Crew New YorkLove &. Hip Hop AtlantaLove &. Hip Hop MiamiRuPaul's Drag RaceRuPaul’s Drag Race All StarsSecret Celebrity RuPaul's Drag RaceT.I. &. Tiny: Friends &. Family HustleTo Catch A BeauticianWild 'N Outsee all Shows
 *   App
 *   VH100 PODCAST
 *   Watch Live TV
