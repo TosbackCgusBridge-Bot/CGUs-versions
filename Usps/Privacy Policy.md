@@ -117,7 +117,7 @@ Close submenu (Working at USPS)Working at USPS
 *   Career development
 *   Diversity &. inclusion
 
-See how USPS is delivering for America both for customers and employees Jump to page content
+See how USPS is delivering for customers and employees Jump to page content
 
 *   Who we are
     *   Postal profile
