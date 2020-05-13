@@ -279,23 +279,23 @@ Security basics: If you can’t make them sexy, make them simple
     *   Emailed
     *   Recent
     
-    *   Vulnerability management
-    *   House Intel Committee releases closed-door testimonies from Russia election interference probe
-    *   The staying power in resiliency
-    *   Adobe issues patches 21 critical vulnerabilities in Illustrator and Bridge
-    *   44M leaked Pakistani mobile user records apparently belong to Jazz
+    *   Microsoft warns of ransomware attacks with 'motley crew' of payloads
+    *   Thunderbolt ports vulnerable to hands-on hacks
+    *   Rethinking cyber risk
+    *   VMWare patches XSS vulnerability in ESXI
+    *   2FA app weaponized to infect Mac users with Dacls RAT
     
-    *   COVID-19's impact on package deliveries creates golden opportunity for scammers
+    *   Build a data-driven defense strategy to fight cybercrime
+    *   Aggah malspam campaign updated with new payloads
+    *   'About Coronavirus' app locks Android screens with repackaged malware
     *   House Intel Committee releases closed-door testimonies from Russia election interference probe
-    *   Buyer beware, risk ahead
-    *   Shade ransomware gang gives up keys, apologizes to victims
-    *   Roblox hacker enabled by insider threats. expert offers tips to curb rogue employees
+    *   Notification emails impersonate Microsoft Teams to steal credentials
     
+    *   First Look: Guardicore Infection Monkey version: 1.7
+    *   Thunderbolt ports vulnerable to hands-on hacks
     *   COVID-19 inspires Nigerian scammers to launch waves of BEC campaigns
     *   Hacker hijacks Milwaukee Bucks star's Twitter account, posts offensive trash talk
     *   Zero-click vulnerability found in Samsung mobile phones
-    *   Cisco pushes out almost three dozen security updates
-    *   House Intel Committee releases closed-door testimonies from Russia election interference probe
 
 Back to Top
 
@@ -328,8 +328,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. X
 
 You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
