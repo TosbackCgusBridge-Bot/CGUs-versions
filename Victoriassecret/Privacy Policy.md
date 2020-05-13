@@ -2,4 +2,4 @@ Loading...
 
 **Page is taking longer to load than expected.**
 
-Online Privacy Policy
+Online Privacy Policy Print Privacy Policy
