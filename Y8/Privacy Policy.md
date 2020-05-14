@@ -3,17 +3,17 @@
 *   games
 *   videos
 
-New Games Next in  03:46
+New Games Next in  05:52
 
-*   By Date Next addition in 03:46
+*   By Date Next addition in 05:52
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more LIBRARY
 
-*   New Games Next in 03:46
-*   Best of new games 1316 games
-*   Most Popular Games 20885 games
+*   New Games Next in 05:52
+*   Best of new games 1315 games
+*   Most Popular Games 20897 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -24,19 +24,19 @@ CATEGORIES
 *   Driving &. Racing 6,352 games
 *   Strategy &. RPG 3,618 games
 *   Management &. Sim 4,267 games
-*   Thinking 12,607 games
-*   Action &. Adventure 14,576 games
+*   Thinking 12,609 games
+*   Action &. Adventure 14,578 games
 *   Sports 3,318 games
 *   Shooting 9,060 games
 *   Fighting 2,068 games
-*   Skill 11,082 games
-*   Arcade &. Classic 9,182 games
-*   Fun &. Crazy 4,955 games
+*   Skill 11,094 games
+*   Arcade &. Classic 9,190 games
+*   Fun &. Crazy 4,956 games
 
 Play with friends  
-Powered by Y8 Account 142 Y8 Multiplayer Games 2,215 Y8 High Score Games 1,260 Y8 Achievements Games 891 Y8 Screenshots Games 1,686 Y8 Online Save Games 3,386 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 142 Y8 Multiplayer Games 2,217 Y8 High Score Games 1,261 Y8 Achievements Games 892 Y8 Screenshots Games 1,689 Y8 Online Save Games 3,389 All Y8 Games Games Last Highscore:
 
-**6,318** points on Orion Sandbox Enhanced by hoangkimngungu
+**3,218** points on Pixel Road Taxi Depot by Menma
 
 Help us improve Bad translation? Social
 
@@ -82,9 +82,6 @@ Register Log in My Profile 0 points
 *     日本語
 *     Indonesia
 *     العربية
-
-*   games
-*   videos
 
 New Games Most Popular Games × ×
 
