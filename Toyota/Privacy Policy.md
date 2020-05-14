@@ -1426,6 +1426,7 @@ ToyotaProud Mobility Partner SIGN UP FOR TOYOTA UPDATES DO NOT SELL MY PERSONAL 
 *   Accessories
 *   Find Your Match
 *   Toyota Certified Used Vehicles
+*   Buy Parts &. Accessories
 
 Vehicles
 
@@ -1438,7 +1439,6 @@ Vehicles
 *   Hybrids
 *   Hybrid Cars
 *   Hybrid SUVs
-*   Concept Vehicles
 *   TRD Pro Series
 *   Nightshade Series
 
@@ -1466,6 +1466,7 @@ About Toyota
 
 *   Careers
 *   Our Company
+*   Shop Toyota Merchandise
 *   Toyota USA Newsroom
 *   Toyota Worldwide
 *   Toyota Racing
