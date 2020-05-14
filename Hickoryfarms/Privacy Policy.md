@@ -78,6 +78,7 @@ close
 *   Holiday
     
     View All Categories Shop by Category*   Memorial Day
+    *   Father's Day Gifts
     
     Occasions*   Birthday Gifts
     *   Thank You Gifts
@@ -175,6 +176,7 @@ close
 *   Holiday
     
     View All Categories Shop by Category*   Memorial Day
+    *   Father's Day Gifts
     
     Occasions*   Birthday Gifts
     *   Thank You Gifts
