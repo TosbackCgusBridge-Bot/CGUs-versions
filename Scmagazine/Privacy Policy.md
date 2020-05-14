@@ -279,23 +279,23 @@ Security basics: If you can’t make them sexy, make them simple
     *   Emailed
     *   Recent
     
-    *   Microsoft warns of ransomware attacks with 'motley crew' of payloads
-    *   Thunderbolt ports vulnerable to hands-on hacks
-    *   Rethinking cyber risk
-    *   VMWare patches XSS vulnerability in ESXI
-    *   2FA app weaponized to infect Mac users with Dacls RAT
-    
-    *   Build a data-driven defense strategy to fight cybercrime
     *   Aggah malspam campaign updated with new payloads
-    *   'About Coronavirus' app locks Android screens with repackaged malware
-    *   House Intel Committee releases closed-door testimonies from Russia election interference probe
-    *   Notification emails impersonate Microsoft Teams to steal credentials
+    *   Salt exploit attacks expose underestimated threat vector: Infrastructure-as-Code tools
+    *   VMware issues workarounds for Salt vulnerabilities in vRealize Operations Manager
+    *   Microsoft Azure Sphere Security Research Challenge offers $100K bounty
+    *   Microsoft again surpasses 100 vulnerabilities on Patch Tuesday
     
-    *   First Look: Guardicore Infection Monkey version: 1.7
-    *   Thunderbolt ports vulnerable to hands-on hacks
-    *   COVID-19 inspires Nigerian scammers to launch waves of BEC campaigns
-    *   Hacker hijacks Milwaukee Bucks star's Twitter account, posts offensive trash talk
-    *   Zero-click vulnerability found in Samsung mobile phones
+    *   Rethinking cyber risk
+    *   MobiFriends data on 3.6 million users available for download online
+    *   New York City schools OK tailored Zoom platform for remote learning
+    *   Vulnerabilities in two Schneider Electric ICS products reminiscent of Stuxnet
+    *   44M leaked Pakistani mobile user records apparently belong to Jazz
+    
+    *   Ransomware attack prompts Texas courts to disable websites, servers
+    *   Pitney Bowes hit with second ransomware attack
+    *   WeLeakData hack reveals hackers' private messages
+    *   VMware issues workarounds for Salt vulnerabilities in vRealize Operations Manager
+    *   Adobe Reader and Acrobat in the spotlight for Patch Tuesday updates
 
 Back to Top
 
@@ -328,6 +328,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
 You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
