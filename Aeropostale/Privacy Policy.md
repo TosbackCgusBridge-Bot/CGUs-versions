@@ -388,6 +388,8 @@ precautionary measures in our warehouse to ensure the health and safety of
 our customers and associates. Because of this your shipment may experience  
 delays. Thank you for your patience and understanding. Learn More &. Stay Safe
 
+**Ends Today!**  
+
 50-70% Off  
 Everything &
 
