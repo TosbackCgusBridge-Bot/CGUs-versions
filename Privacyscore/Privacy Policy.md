@@ -117,8 +117,9 @@ Learn about VPN
 *   Access
 *   Blog
 *   Watch BBC iPlayer with HMA
-*   Streaming with HMA VPN
 *   No Log Policy
+*   Streaming with HMA VPN
+*   Watch Amazon Prime with HMA VPN
 
 Help
 
