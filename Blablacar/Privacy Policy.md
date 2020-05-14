@@ -227,7 +227,7 @@ Any changes we may make to our Privacy Notice in the future will be posted on th
 If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your Personal Data, please use one of the following means:
 
 *   via our contact page. or
-*   via email to our Data Protection Officer under dpo-uk@blablacar.com. or
+*   via email to our Data Protection Officer under dataprotection@blablacar.com. or
 *   by letter to:
 
 Comuto SA
