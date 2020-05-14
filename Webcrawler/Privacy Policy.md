@@ -1,7 +1,1 @@
-*   web
-*   images
-*   videos
-*   news
-
-Search Preferences  
-Help © 2018 InfoSpace Holdings LLC About • Privacy • Terms • Contact Us
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KWD7WCF" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
