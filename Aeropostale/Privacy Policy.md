@@ -36,7 +36,7 @@ Close submenu ( Girls ) Girls
 Close submenu ( Collections ) Collections
 
 *   View All
-*   Backyard Busters
+*   🔥 Deals
 *   Twisted for Tie Dye
 *   Get Cozy
 *   New Arrivals
@@ -65,7 +65,7 @@ Close submenu ( Guys ) Guys
 Close submenu ( Collections ) Collections
 
 *   View All
-*   Backyard Busters
+*   🔥 Deals
 *   Twisted for Tie Dye
 *   Get Cozy
 *   New Arrivals
@@ -91,14 +91,10 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   High Rise Jeans
 *   Low Rise Jeans
 *   Curvy Jeans
-*   Cheeky Jeans
 *   Ankle Jeggings
-*   Cropped Jeggings
 *   Bootcut Jeans
 *   Skinny Jeans
 *   Wide Leg Jeans
-*   Skater Jeans
-*   90s Jeans
 *   Boyfriend Jeans
 *   Real Denim
 *   Flex Effects
@@ -155,7 +151,7 @@ Close submenu ( Girls ) Girls
 *   Matching Sets
 *   Mexico City
 *   Swim
-*   Spring Break
+*   Vacay Vibes
 *   Jewelry
 *   Tiny Tops
 
@@ -168,7 +164,7 @@ Close submenu ( Guys ) Guys
 *   Real Denim
 *   Destroyed Denim
 *   Flip Flops + Slides
-*   Spring Break
+*   Vacay Vibes
 
 Close submenu ( Clearance ) Clearance
 
@@ -226,7 +222,7 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
-        *   Backyard Busters
+        *   🔥 Deals
         *   Twisted for Tie Dye
         *   Get Cozy
         *   New Arrivals
@@ -252,7 +248,7 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
-        *   Backyard Busters
+        *   🔥 Deals
         *   Twisted for Tie Dye
         *   Get Cozy
         *   New Arrivals
@@ -273,14 +269,10 @@ Menu Find a Store Aeropostale
         *   High Rise Jeans
         *   Low Rise Jeans
         *   Curvy Jeans
-        *   Cheeky Jeans
         *   Ankle Jeggings
-        *   Cropped Jeggings
         *   Bootcut Jeans
         *   Skinny Jeans
         *   Wide Leg Jeans
-        *   Skater Jeans
-        *   90s Jeans
         *   Boyfriend Jeans
         *   Real Denim
         *   Flex Effects
@@ -331,7 +323,7 @@ Menu Find a Store Aeropostale
         *   Matching Sets
         *   Mexico City
         *   Swim
-        *   Spring Break
+        *   Vacay Vibes
         *   Jewelry
         *   Tiny Tops
     
@@ -343,7 +335,7 @@ Menu Find a Store Aeropostale
         *   Real Denim
         *   Destroyed Denim
         *   Flip Flops + Slides
-        *   Spring Break
+        *   Vacay Vibes
     
 *   Clearance
     
@@ -388,31 +380,26 @@ precautionary measures in our warehouse to ensure the health and safety of
 our customers and associates. Because of this your shipment may experience  
 delays. Thank you for your patience and understanding. Learn More &. Stay Safe
 
-**Ends Today!**  
-
-50-70% Off  
-Everything &
+It's 🔥! Sweet Sweet Summer Sale With
 
 50-70% Off Everything
 
-Backyard  
-Busters!
+&. Blazing-Hot Deals on Aero Shorts, Tees, Tanks &. More!
 
-&. Backyard Busters!
+50-70% Off Everything
 
-\*Exclusions Apply
-
-Shop Girls Shop Guys Shop Girls Backyard Busters Shop Guys Backyard Busters Shop Girls Shop Guys Girls Backyard Busters Guys Backyard Busters
-
-**Bring The Heat From Home!**  
-Fire Summer Looks That Deserve  
-A Feature #AeroWorld
+Blazing-Hot Deals on Aero  
+Shorts, Tees, Tanks &. More!
 
 \*Exclusions Apply
 
-**Backyard Buster Shorts**
+Shop Girls Shop Guys Shop Girls 🔥 Deals Shop Guys 🔥 Deals Shop Girls Shop Guys Girls 🔥 Deals Guys 🔥 Deals
 
-**Backyard Buster Shorts**
+\*Exclusions Apply
+
+**Girls 🔥 Shorts Deals**
+
+**Girls 🔥 Shorts Deals**
 
 Cute &.  
 Cozy
@@ -423,12 +410,12 @@ Girls Shorts
 
 Starting at
 
-$13.87
+$15.87
 
 Lounge-worthy softness.  
 New curve loving fits.
 
-Shop Girls Shorts Girls Backyard Buster Shorts
+Shop Girls Shorts Girls 🔥 Shorts Deals
 
 Super High Rise
 
@@ -550,9 +537,9 @@ Beach Chino
 *   8
 *   9
 
-**Backyard Buster Shorts**
+**Guys 🔥 Shorts Deals**
 
-**Backyard Buster Shorts**
+**Guys 🔥 Shorts Deals**
 
 Cool &.  
 Comfortable
@@ -566,15 +553,11 @@ $15.87
 Next-level of comfort.  
 New Elevated fabric.
 
-Shop Guys Shorts Guys Backyard Buster Shorts
+Shop Guys Shorts Guys 🔥 Shorts Deals
 
-**Backyard Buster  
-Tees &. Tanks**
+**🔥 Tees &. Tanks Deals**
 
-**Backyard Buster  
-Tees &. Tanks**
-
-Girls &. Guys Tees &. Tanks
+**🔥 Tees &. Tanks Deals**
 
 Starting at
 
@@ -583,7 +566,7 @@ $6.87
 Color your #AeroWorld with  
 graphics that say it all.
 
-Shop Girls Tees Shop Guys Tees Girls Backyard Buster Tees Guys Backyard Buster Tees Previous
+Shop Girls Tees Shop Guys Tees Girls 🔥 Tees Deals Guys 🔥Tees Deals Previous
 
 Athletic Skinny  
 **NEW!**
@@ -701,9 +684,9 @@ Straight
 
 Next
 
-**Backyard Buster Jeans**
+**Aero 🔥 Jeans Deals**
 
-**Backyard Buster Jeans**
+**Aero 🔥 Jeans Deals**
 
 So soft and stretchy.  
 they're just as comfy as  
@@ -713,13 +696,23 @@ Starting at
 
 Girls $14.87
 
-Girls Backyard Buster Jeans Shop Girls Jeans
+Girls 🔥 Jeans Deals Shop Girls Jeans
 
 Starting at
 
 Guys $17.87
 
-Guys Backyard Buster Jeans Shop Guys Jeans Aero's Sustainability Efforts Shop Girls Tees Shop Guys Tees <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS
+Guys 🔥 Jeans Deals Shop Guys Jeans
+
+At Aero, we're committed to a better, brighter future.  
+do better, look better, feel better... it's in our jeans.
+
+At Aero, we're committed to a  
+better, brighter future.  
+do better, look better, feel  
+better... it's in our jeans.
+
+Aero's Sustainability Efforts <div class="browser-compatibility-alert">. <i class="fa fa-exclamation-triangle fa-2x pull-left"></i>. <p class="browser-error">Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.</p>. </div>. SIGN UP for email SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &. OFFERS
 
 For more information, please see our **Privacy Policy**. California residents, see our **California Privacy Notice** and **Do Not Sell My Personal Information** page.
 
