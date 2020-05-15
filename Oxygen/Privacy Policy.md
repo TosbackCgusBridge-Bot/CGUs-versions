@@ -37,10 +37,10 @@ Main menu
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 7:52 Dark Web Exposed LIVESTREAM CRIMES: Murder, Mayhem and Social Media 5:59 Snapped What Was Wendi Mae Davidson's Motive?
+    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 4:54 Dying To Belong Dying to Belong 105 Bonus: Lethal Reconnection 2:05 Snapped What Happened To Rev. Dwight Moore?
 *   News
     *   Crime News
-    *   True Crime BuzzAdam Slater Photo: Riverside County Sheriff’s Department Crime News Man Allegedly Stabbed Wife, Threw Baby Over A Cliff Carla and Rodney McCoy Crime News Who Killed Texas High School Cheerleader Carla Walker? Candace Muzny poses during a portrait session for the K&N Pro Series East at Bristol Motor Speedway on March 16, 2012 in Bristol, Tennessee. Photo: Getty Images Crime News Ex-NASCAR Driver Candace Muzny Accidentally Drowned
+    *   True Crime BuzzCrime News Polygamist Cult Leader Murders Wife, 4-Year-Old Boy Crime News Elderly Woman Arrested For Murder With 'Cold Justice' Help Candace Muzny poses during a portrait session for the K&N Pro Series East at Bristol Motor Speedway on March 16, 2012 in Bristol, Tennessee. Photo: Getty Images Crime News Ex-NASCAR Driver Candace Muzny Accidentally Drowned
 *   Podcasts
 *   Detective's Den
 *   Schedule
@@ -91,4 +91,4 @@ Get Involved
 *   Corporate Info
 *   AdChoices
 
-Stay Connected Facebook Twitter Instagram YouTube Newsletter Stay Connected Facebook Twitter Instagram YouTube Newsletter ©2020 Oxygen Media LLC. A Division of NBCUniversal
+Stay Connected Facebook Twitter Instagram YouTube Newsletter Stay Connected Facebook Twitter Instagram YouTube Newsletter ©2020 Oxygen Media LLC. A Division of NBCUniversal sponsoredsponsoredsponsored
