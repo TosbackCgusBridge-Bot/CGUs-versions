@@ -26,14 +26,14 @@ View more results
     All Girls Best Games
     *   Baby Hazel: Hair Care
     *   Dove Prom Dolly Dress Up
-    *   Floral Real Life Manicure
     *   Beach Kiss
-    *   Year Round Fashionista: Curly
-    *   Ice Slushy Maker
-    *   Goldie: Lip Injections
-    *   Dark Chocolate Blackberry Cheesecake: Sara's Cooking Class
     *   Mommy BFFs: Pregnant Check-Up
+    *   Goldie: Lip Injections
+    *   Ice Slushy Maker
+    *   Floral Real Life Manicure
+    *   Year Round Fashionista: Curly
     *   Car Salon
+    *   Dark Chocolate Blackberry Cheesecake: Sara's Cooking Class
     *   Love Tester 3
     *   How To Become Popular at School with Princess
     *   Cute Room Decoration
@@ -57,15 +57,15 @@ View more results
     *   Madalin Stunt Cars 2
     *   City Car Stunts 2
     *   Off-Road Cycle 3D
-    *   Real Dog Racing Simulator
     *   Moto X3M 5: Pool Party
+    *   Real Dog Racing Simulator
     *   Off-Roader V6
     *   Cars 3D
-    *   Stock Car Hero
     *   City Stunts
+    *   Stock Car Hero
     *   Xcross Madness
-    *   Formula Racer
     *   Madalin Cars Multiplayer
+    *   Formula Racer
 *   Shooting
     
     Top Categories
@@ -89,8 +89,8 @@ View more results
     *   Pixel Gun Apocalypse 3
     *   Army Force Strike: 3D Shooting Game Online Multiplayer
     *   Archery World Tour
-    *   Apple Shooter
     *   Hunter 3D
+    *   Apple Shooter
     *   Mr. Bullet
     *   Tank Trouble 2
     *   Winter Clash 3D
@@ -119,8 +119,8 @@ View more results
     *   Farm Connect 2
     *   TenTrix
     *   Line Puzzle
-    *   Word Connect
     *   Word Wipe
+    *   Word Connect
     *   Mahjong Link
 *   Multiplayer
     
@@ -147,9 +147,9 @@ View more results
     *   Crowd City
     *   Wormate.io
     *   Master Chess Multiplayer
+    *   Worms.Zone
     *   Empire: World War 3
     *   Ludo Hero
-    *   Kogama: Escape from Prison
 *   Action
     
     Top Categories
@@ -171,10 +171,10 @@ View more results
     *   CS Portable
     *   Stickman Warriors
     *   Sniper Reloaded
-    *   Super Buddy Kick
     *   Wormate.io
-    *   Bomb It 6
+    *   Super Buddy Kick
     *   Short Life
+    *   Bomb It 6
     *   Pixel Gun Apocalypse 3
     *   Army Force Strike: 3D Shooting Game Online Multiplayer
     *   Naruto Online
@@ -202,10 +202,10 @@ View more results
     *   Dog Simulator: Puppy Craft
     *   Bob the Robber 4: Season 2 Russia
     *   World Crafts
-    *   Miami Crime Simulator 3D
     *   Chrome Dino
-    *   Ouija Voices
+    *   Miami Crime Simulator 3D
     *   Dumb Ways to Die: Original
+    *   Ouija Voices
 *   More
     
     *   Girls
