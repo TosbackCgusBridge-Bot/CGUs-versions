@@ -122,7 +122,7 @@ Learn More
 
 Think you've finished Final Fantasy VII Remake? The fight's just begun. Here's 7 things to do once you've beat the campaign:  https://play.st/3cnjrg2  pic.twitter.com/VfOnCmK5Rz
 
-3 days ago View Tweet Instagram Post CADzJZGJDeH
+4 days ago View Tweet Instagram Post CADzJZGJDeH
 
 New Wireless Headphones
 
@@ -296,4 +296,4 @@ Follow us on Tumblr
 
 Visit us on TumblrFacebookTwitterInstagramTumblr© 2020 SONY CORPORATION OF AMERICA
 
-Terms and ConditionsPRIVACY POLICYCA PRIVACY NOTICEDO NOT SELL MY PERSONAL INFORMATION
+Terms and ConditionsPRIVACY POLICYCA PRIVACY NOTICE
