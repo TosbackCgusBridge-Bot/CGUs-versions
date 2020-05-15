@@ -104,7 +104,7 @@ Bundle discount! Save on auto when you add property
 
 +Add Home +Add Condo +Add Renters
 
-Bundle discount! Save up to 10%† on auto when you add to property
+Save an average of 12% on auto when you add to propertyΔ
 
 +Add Auto
 
@@ -114,7 +114,7 @@ Bundle discount! Save on auto when you add property
 
 +Add Home +Add Condo +Add Renters
 
-Bundle discount! Save up to 10%† on auto when you add to property
+Save an average of 12% on auto when you add to propertyΔ
 
 +Add Auto
 
@@ -126,7 +126,7 @@ Monday - Friday: 8:00am to 8:00pm Eastern Time
 
 Or, see all products Or, learn more
 
-Bundle and save 5%Δ or more on auto!
+Bundle and save an average of 12% on auto!Δ
 
 *   Selected, Auto + Home
 *   Selected, Auto + Condo
