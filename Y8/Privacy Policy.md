@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  05:52
+New Games Next in  02:13
 
-*   By Date Next addition in 05:52
+*   By Date Next addition in 02:13
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more LIBRARY
 
-*   New Games Next in 05:52
-*   Best of new games 1315 games
-*   Most Popular Games 20897 games
+*   New Games Next in 02:13
+*   Best of new games 1333 games
+*   Most Popular Games 20903 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,118 games
+*   For Girls 24,132 games
 *   Driving &. Racing 6,352 games
 *   Strategy &. RPG 3,618 games
 *   Management &. Sim 4,267 games
-*   Thinking 12,609 games
-*   Action &. Adventure 14,578 games
-*   Sports 3,318 games
-*   Shooting 9,060 games
+*   Thinking 12,611 games
+*   Action &. Adventure 14,582 games
+*   Sports 3,319 games
+*   Shooting 9,062 games
 *   Fighting 2,068 games
-*   Skill 11,094 games
-*   Arcade &. Classic 9,190 games
+*   Skill 11,100 games
+*   Arcade &. Classic 9,195 games
 *   Fun &. Crazy 4,956 games
 
 Play with friends  
-Powered by Y8 Account 142 Y8 Multiplayer Games 2,217 Y8 High Score Games 1,261 Y8 Achievements Games 892 Y8 Screenshots Games 1,689 Y8 Online Save Games 3,389 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 142 Y8 Multiplayer Games 2,222 Y8 High Score Games 1,261 Y8 Achievements Games 892 Y8 Screenshots Games 1,694 Y8 Online Save Games 3,395 All Y8 Games Games Last Highscore:
 
-**3,218** points on Pixel Road Taxi Depot by Menma
+**165** points on Masked Forces by DAG
 
 Help us improve Bad translation? Social
 
