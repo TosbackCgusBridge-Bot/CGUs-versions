@@ -1,13 +1,14 @@
-Our COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: FRESH9 DetailsOR EXTRA 25% OFF Under $75 with code: FRESH9 Details   
-Flash Sale! EXTRA 35% OFF Bedding with code: FRESH9 Details  
-Free Shipping Over $49  DetailsOur COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: FRESH9 Details
+Our COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: SWIMPERK Details  
+EXTRA 25% OFF Under $75 with code: SWIMPERK Details   
+Flash Sale! EXTRA 40% OFF Swimwear with code: SWIMPERK Details  
+Free Shipping Over $49  DetailsOur COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: SWIMPERK Details  
 
 Enable Accessibility
 
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed. Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   Father's Day &. Trending
 *   Home &. Lifestyle
@@ -21,18 +22,11 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-  
-  
-MattressFurniture**UP TO 40% OFF casual apparel**
+Women's SwimwearGirls' SwimwearBoys' SwimwearMen's Swimwear**UP TO 40% OFF casual apparel**
 
 select styles
 
-UP TO 40% OFFOutdoor EntertainingFire up the grill for your barb-e-cuties!select styles
-
-*   Shop All Outdoor Fun
-
-40-50% OFF  
-Women's &. Men's Swimwearselect styles | sale $17.99-$53.99UP TO 20% OFF Blendersselect styles 20% OFF Disney Collection Toys ©Disney | select styles Excluded from coupons.Starting at $17.99 Outdoor Oasis Beach Towelselect stylesUP TO 40% OFFSummer lovin' styles  
+UP TO 40% OFFSummer lovin' styles  
 select styles
 
 *   Shop Now
@@ -41,17 +35,19 @@ Women's Dresses starting at $24.99also in women's plus | select stylesWomen's S
 
 *   Shop Now
 
-Learn More Shop Gift CardsShop Father's Day GiftsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+Heat Advisory!Summer's no bummer with these products built to take the heat.Shop Heat-Protecting HaircareShop Summer-Ready Sephora BeautyExcluded from coupon.UP TO 40% OFFNesting necessities  
+
+*   Shop Healthy Sleep
+
+SheetsPillowsMattress PadsBlankets &. ThrowsLearn More Shop Gift CardsShop Father's Day GiftsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
 *   JCPenney Home Performance Bath Towel Collection $4.49 - $28.49with code~$10 - $76~341
-*   a.n.a Womens V Neck Sleeveless Tank Top $7.49with code~$13~10
-*   St. John's Bay Mid Rise Capris $13.49with code~$32~30
-*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+*   Home Expressions Lisette Rod-Pocket Sheer Panel
     
-    $20sale
+    $4.99 - $19.99sale
     
-    ~$124.98~131
+    ~$16 - $40~1238
 *   Nike Air Max Motion 2 Womens Running Shoes
     
     BUY 1 GET 1 50% OFF
@@ -59,13 +55,14 @@ Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded
     ~$85 - $90~
     
     17
-*   Liz Claiborne Signature Plush Bath Towel Collection $5.24 - $35.99with code~$12 - $96~534
+*   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $14.99with code~$6 - $48~532
+*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $7.49with code~$13~24
+*   a.n.a Womens Scoop Neck Short Sleeve T-Shirt $7.49 - $12.75with code382
 
 Sponsored Items
 
-*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $14.99with code~$30~
 *   Circulon® Momentum 11-pc. Nonstick Cookware Set $280with code134
-*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $126with code55
+*   Covington Home Evan Rectangular Rug $48.36with code~$90~21
 *   Waterpik WF-06W010 Whitening Water Flosser
     
     $89.99sale
@@ -76,45 +73,50 @@ Sponsored Items
     $39.99sale
     
     ~$70~22
+*   Lock &. Lock 10-pc. Food Container $22.49with code~$40~
 *   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $126with code35
-*   Covington Home Evan Rectangular Rug $48.36with code~$90~21
-*   Farberware® Classic Series 15-pc. Stainless Steel Cookware Set $175with code71
-*   Rachael Ray Create Delicious 14.25" Aluminum Non-Stick Wok
-    
-    $49.99sale
-    
-    ~$80~22
-*   Farberware Cookstart 15-pc. Cookware Set $84with code61
-*   Rachael Ray Create Delicious 9.5" Covered Deep Skillet
+*   Rachael Ray Create Delicious 12.5" Deep Skillet Aluminum Non-Stick Skillet
     
     $39.99sale
     
     ~$60~31
-*   Shea Moisture Coconut &. Hibiscus Hair Cream-12 oz. $11.69with code210
-*   Circulon 11-Pc. Aluminum Non-Stick Cookware Set $420with code27
-*   Circulon® Symmetry 10" &. 12" Hard-Anodized French Skillet Set
+*   Farberware Cookstart 15-pc. Cookware Set $84with code61
+*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $126with code55
+*   Farberware® Classic Series 15-pc. Stainless Steel Cookware Set $175with code71
+*   Ayesha Curry™ Home Collection 2-pc. 9.25" &. 11.5" Skillet Set
     
-    $100
+    $80
     
-    160
+    10
+*   Shea Moisture Jamaican Black Castor Oil Conditioner - 11 oz. $9.89with code82
 *   Circulon® Symmetry 11-pc. Hard-Anodized Cookware Set
     
     $600
     
     117
-*   Shea Moisture Coconut &. Hibiscus Conditioner - 13 oz. $9.89with code73
-*   Shea Moisture Jamaican Black Castor Oil Conditioner - 11 oz. $9.89with code82
+*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
+*   Circulon® Symmetry 10" &. 12" Hard-Anodized French Skillet Set
+    
+    $100
+    
+    160
+*   Shea Moisture Coconut &. Hibiscus Hair Cream-12 oz. $11.69with code210
 *   Tommee Tippee Advanced Anti Colic Baby Bottles – Clear 9 oz
     
     $8.99
     
     43
+*   Circulon Elementum Hard Anodized 10-pc. Cookware Set
+    
+    $325
+    
+    76
 *   Tommee Tippee Closer to Nature Added Cereal Baby Bottle - Clear 11oz
     
     $7.19clearance
     
     ~$8.99~12
-*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
+*   Shea Moisture Coconut &. Hibiscus Conditioner - 13 oz. $9.89with code73
 
 Shop and Save at JCPenney
 
