@@ -28,9 +28,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive 40% off your order!
+Receive up to 50% off your order!
 
-code: FRIENDS pin: PROMOTION DETAILS
+code: SHINE pin: PROMOTION DETAILS
 
 Customer Service Menu
 
