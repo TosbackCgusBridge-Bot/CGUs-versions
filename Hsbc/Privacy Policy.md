@@ -22,6 +22,7 @@ Menu
         *   Global Banking and Markets
     *   Leadership
     *   HSBC news
+    *   Coronavirus
     *   Our history
         *   Back
         *   Our history
