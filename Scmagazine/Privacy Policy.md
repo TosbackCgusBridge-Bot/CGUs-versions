@@ -279,23 +279,23 @@ Security basics: If you can’t make them sexy, make them simple
     *   Emailed
     *   Recent
     
-    *   Aggah malspam campaign updated with new payloads
-    *   Salt exploit attacks expose underestimated threat vector: Infrastructure-as-Code tools
-    *   VMware issues workarounds for Salt vulnerabilities in vRealize Operations Manager
-    *   Microsoft Azure Sphere Security Research Challenge offers $100K bounty
-    *   Microsoft again surpasses 100 vulnerabilities on Patch Tuesday
-    
-    *   Rethinking cyber risk
-    *   MobiFriends data on 3.6 million users available for download online
-    *   New York City schools OK tailored Zoom platform for remote learning
-    *   Vulnerabilities in two Schneider Electric ICS products reminiscent of Stuxnet
-    *   44M leaked Pakistani mobile user records apparently belong to Jazz
-    
-    *   Ransomware attack prompts Texas courts to disable websites, servers
-    *   Pitney Bowes hit with second ransomware attack
     *   WeLeakData hack reveals hackers' private messages
-    *   VMware issues workarounds for Salt vulnerabilities in vRealize Operations Manager
+    *   Ransomware attack prompts Texas courts to disable websites, servers
+    *   Microsoft Azure Sphere Security Research Challenge offers $100K bounty
+    *   SAP says 7 cloud products not currently up to security standards
+    *   Cisco pushes out almost three dozen security updates
+    
+    *   'About Coronavirus' app locks Android screens with repackaged malware
     *   Adobe Reader and Acrobat in the spotlight for Patch Tuesday updates
+    *   New York City schools OK tailored Zoom platform for remote learning
+    *   Senate passes bipartisan amendment to protect surveillance targets, delays FISA reauthorization
+    *   The new cybersecurity resilience
+    
+    *   Senate passes bipartisan amendment to protect surveillance targets, delays FISA reauthorization
+    *   CISA releases analysis of three Hidden Cobra malware variants
+    *   FBI, CISA warn China targeting orgs conducting Covid-19-related vaccine, treatment research
+    *   Magellan Health warns ransomware attack exposed PII
+    *   Ransomware attack prompts Texas courts to disable websites, servers
 
 Back to Top
 
@@ -328,8 +328,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
