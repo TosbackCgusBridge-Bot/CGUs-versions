@@ -8,7 +8,7 @@ Enable Accessibility
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed. Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   Father's Day &. Trending
 *   Home &. Lifestyle
@@ -22,7 +22,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-Women's SwimwearGirls' SwimwearBoys' SwimwearMen's Swimwear**UP TO 40% OFF casual apparel**
+60% OFFCity Streets Swimwearselect styles30-40% OFFKids Swimwear select stylesUP TO 60% OFFWomen's Swimwearselect styles50% OFF Men's Swimwearselect styles**UP TO 40% OFF casual apparel**
 
 select styles
 
@@ -35,6 +35,10 @@ Women's Dresses starting at $24.99also in women's plus | select stylesWomen's S
 
 *   Shop Now
 
+25% OFF Men'sNike Apparel
+
+*   Shop Now
+
 Heat Advisory!Summer's no bummer with these products built to take the heat.Shop Heat-Protecting HaircareShop Summer-Ready Sephora BeautyExcluded from coupon.UP TO 40% OFFNesting necessities  
 
 *   Shop Healthy Sleep
@@ -42,81 +46,79 @@ Heat Advisory!Summer's no bummer with these products built to take the heat.Shop
 SheetsPillowsMattress PadsBlankets &. ThrowsLearn More Shop Gift CardsShop Father's Day GiftsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   JCPenney Home Performance Bath Towel Collection $4.49 - $28.49with code~$10 - $76~341
+*   Liz Claiborne Signature Plush Bath Towel Collection $5.24 - $35.99with code~$12 - $96~534
 *   Home Expressions Lisette Rod-Pocket Sheer Panel
     
     $4.99 - $19.99sale
     
     ~$16 - $40~1238
-*   Nike Air Max Motion 2 Womens Running Shoes
+*   St. John's Bay Mid Rise Capris $13.49with code~$32~30
+*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
-    BUY 1 GET 1 50% OFF
+    $20sale
     
-    ~$85 - $90~
+    ~$124.98~184
+*   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $14.99with code~$6 - $48~533
+*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver
     
-    17
-*   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $14.99with code~$6 - $48~532
-*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $7.49with code~$13~24
-*   a.n.a Womens Scoop Neck Short Sleeve T-Shirt $7.49 - $12.75with code382
+    $20sale
+    
+    ~$124.98~137
 
 Sponsored Items
 
-*   Circulon® Momentum 11-pc. Nonstick Cookware Set $280with code134
-*   Covington Home Evan Rectangular Rug $48.36with code~$90~21
+*   Covington Home Evan Rectangular Rug $53.61with code~$90~21
 *   Waterpik WF-06W010 Whitening Water Flosser
     
     $89.99sale
     
     ~$94~114
-*   Rachael Ray Create Delicious 10.25-Inch Deep Skillet
-    
-    $39.99sale
-    
-    ~$70~22
+*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $98 - $112with code94
 *   Lock &. Lock 10-pc. Food Container $22.49with code~$40~
-*   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $126with code35
+*   Farberware Cookstart 15-pc. Cookware Set $84with code61
 *   Rachael Ray Create Delicious 12.5" Deep Skillet Aluminum Non-Stick Skillet
     
     $39.99sale
     
     ~$60~31
-*   Farberware Cookstart 15-pc. Cookware Set $84with code61
-*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $126with code55
+*   Circulon® Momentum 11-pc. Nonstick Cookware Set $280with code134
+*   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $126with code35
 *   Farberware® Classic Series 15-pc. Stainless Steel Cookware Set $175with code71
-*   Ayesha Curry™ Home Collection 2-pc. 9.25" &. 11.5" Skillet Set
+*   Rachael Ray Create Delicious 9.5" Covered Deep Skillet
     
-    $80
+    $39.99sale
     
-    10
+    ~$60~31
+*   Shea Moisture Coconut &. Hibiscus Conditioner - 13 oz. $9.89with code73
 *   Shea Moisture Jamaican Black Castor Oil Conditioner - 11 oz. $9.89with code82
+*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
 *   Circulon® Symmetry 11-pc. Hard-Anodized Cookware Set
     
     $600
     
     117
-*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
-*   Circulon® Symmetry 10" &. 12" Hard-Anodized French Skillet Set
+*   Ayesha Curry™ Home Collection 2-pc. 9.25" &. 11.5" Skillet Set
     
-    $100
+    $80
     
-    160
-*   Shea Moisture Coconut &. Hibiscus Hair Cream-12 oz. $11.69with code210
-*   Tommee Tippee Advanced Anti Colic Baby Bottles – Clear 9 oz
-    
-    $8.99
-    
-    43
-*   Circulon Elementum Hard Anodized 10-pc. Cookware Set
-    
-    $325
-    
-    76
+    10
 *   Tommee Tippee Closer to Nature Added Cereal Baby Bottle - Clear 11oz
     
     $7.19clearance
     
     ~$8.99~12
-*   Shea Moisture Coconut &. Hibiscus Conditioner - 13 oz. $9.89with code73
+*   Tommee Tippee Advanced Anti Colic Baby Bottles – Clear 9 oz
+    
+    $8.99
+    
+    44
+*   Shea Moisture Coconut &. Hibiscus Hair Cream-12 oz. $11.69with code210
+*   Circulon Elementum Hard Anodized 10-pc. Cookware Set
+    
+    $325
+    
+    76
+*   Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit) $22.49with code~$44~629
 
 Shop and Save at JCPenney
 
