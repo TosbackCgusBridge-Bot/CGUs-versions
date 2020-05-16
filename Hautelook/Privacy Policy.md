@@ -9,183 +9,195 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
+    *   St. John Collection Up to 65% Off
+    *   Under Armour Kids Starting at $15
+    *   Under Armour Men Starting at $17
+    *   LOVE Moschino
+    *   Printed Woven Tops from $20
+    *   Date Night In: Dresses, Tops &. More
+    *   Vintage Foundry Up to 80% Off
+    *   NIC+ZOE &. More Incl. Plus &. Petites
+    *   FAVLUX &. More Under $35
+    *   Comforters, Quilts, &. More Up to 55% Off
+    *   New Balance
+    *   Kelsi Dagger Brooklyn &. More Up to 60% Off
+    *   Active Under $30
+    *   For Dads &. Grads: Gifts from $15
+    *   Hello, Sunshine: Sandals Under $50
+    *   Bath &. Body Up to 60% Off
+    *   Frills Ahead: Girls' Dresses Up to 60% Off
+    *   For Dads &. Grads: Watches ft. Citizen
+    *   New Balance Kids
+    *   New Balance Men
+    *   Date Night at Home: Sport Coats &. Denim
+    *   Trending Now: Men's Polos from $15
+    *   Designer Fragrances for Him ft. Kenneth Cole
+    
     *   Swim Shop: Separates
     *   Swim Shop: One-Pieces
     *   Swim Shop: Cover-Ups
-    *   Swim Shop: Shoes &. Accessories
     *   Swim Shop: Men's Styles
     *   Swim Shop: Kids' Styles &. Shoes
     *   Swim Shop: Men's Shoes &. Accessories
     *   Warm Weather Ready: Denim Shorts Up to 65% Off
-    *   Get Now, Wear Later: Glam Shoes
     *   WFH Style Upgrades ft. Badgley Mischka
     *   Splash of Color: Tops from $20 Incl. Plus
     *   BeachLunchLounge Incl. Plus &. Petites
-    *   Designer Fragrances for Him ft. Kenneth Cole
     *   Persaman New York Handbags
     *   Character Favorites for Kids Up to 60% Off
     *   Sterling Silver Jewelry
     *   Fergalicious Up to 50% Off
+    *   Swim Shop: Shoes &. Accessories
     *   Louise Et Cie Up to 60% Off
+    *   Get Now, Wear Later: Glam Shoes
     *   Home Cooking: Cookware &. More Starting at $13
     *   At-Home Makeover: Hair Care &. More Under $20
     *   BIRKENSTOCK
-    
     *   BIRKENSTOCK Men
-    *   Spring Dresses Up to 65% Off Incl. Plus &. Petites
-    *   Rebecca Minkoff &. More Up to 65% Off
     *   BIRKENSTOCK Kids
-    *   Calvin Klein
-    *   WFH Refresh: Comfy Knits with a Twist
-    *   Leather Handbags Starting at $30
     *   Men's Premium Denim Up to 60% Off ft. AG
-    *   Swiss Luxury Watches ft. Tissot
-    *   Amanda &. Chelsea Incl. Plus and Petites
-    *   GOOD LUCK GEM &. More Under $40
+    
     *   Revive Your Skin: Dr. Jart &. More
-    *   Sneakers ft. Keds Starting at $30
-    *   Lounge Around: PJs, Robes &. More
-    *   Ready for a Hike: Women's Outdoor Shoes
     *   Staycation Ready: Casual Shirts Up to 60% Off
     *   Men's Hiking &. Outdoor Shoes
     *   Jessica Simpson Girls &. More
     *   Kids' Sets Up to 60% Off
     *   Shun Cutlery: Sora &. Kanso Collections
     *   Cookware Faves Up to 50% Off
-    
     *   Set the Table: Kate Spade New York Home &. More
-    *   Calvin Klein Men
-    *   Calvin Klein Kids
     *   Calvin Klein Men's Lounge &. Underwear Under $20
-    *   Calvin Klein Shoes
-    *   Keep the Kids Busy: Toys Starting at $10
     *   Stylish Tech: Earbuds &. More
     *   Watches for Dad Under $100
-    *   Makeup Up to 50% Off
-    *   Step in Style: Men's Dress Shoes Under $100
+    *   Spring Dresses Up to 65% Off Incl. Plus &. Petites
+    *   Rebecca Minkoff &. More Up to 65% Off
+    *   WFH Refresh: Comfy Knits with a Twist
+    *   GOOD LUCK GEM &. More Under $40
     *   Designer Fragrances for Her ft. Gucci
-    *   Saint Laurent Sunglasses Up to 70% Off &. More
-    *   Calvin Klein Bedding Starting at $13
     *   Free Shipping: Storage for Every Room Up to 50% Off
     *   Smart Watch Bands &. More Up to 50% Off
-    *   Take a Break in the Sun: SPF Essentials
     *   Kitchen Must-Haves: Appliances &. More from $15
-    *   Wall Art &. Decor Up to 50% Off
-    *   Calvin Klein Intimates &. Active Under $35
+    *   Designer Sunglasses ft. Gucci
+    *   Makeup Up to 50% Off
+    *   Calvin Klein Bedding Starting at $13
 *   WomenShop Sale Events
     
+    *   St. John Collection Up to 65% Off
+    *   LOVE Moschino
+    *   Printed Woven Tops from $20
+    *   Date Night In: Dresses, Tops &. More
+    *   NIC+ZOE &. More Incl. Plus &. Petites
+    *   FAVLUX &. More Under $35
+    *   New Balance
+    *   Kelsi Dagger Brooklyn &. More Up to 60% Off
+    *   Active Under $30
+    *   Hello, Sunshine: Sandals Under $50
+    *   Bath &. Body Up to 60% Off
+    *   Designer Fragrances for Him ft. Kenneth Cole
     *   Swim Shop: Separates
     *   Swim Shop: One-Pieces
     *   Swim Shop: Cover-Ups
-    *   Swim Shop: Shoes &. Accessories
     *   Warm Weather Ready: Denim Shorts Up to 65% Off
-    *   Get Now, Wear Later: Glam Shoes
     *   WFH Style Upgrades ft. Badgley Mischka
     *   Splash of Color: Tops from $20 Incl. Plus
+    
     *   BeachLunchLounge Incl. Plus &. Petites
-    *   Designer Fragrances for Him ft. Kenneth Cole
     *   Persaman New York Handbags
     *   Sterling Silver Jewelry
     *   Fergalicious Up to 50% Off
+    *   Swim Shop: Shoes &. Accessories
     *   Louise Et Cie Up to 60% Off
+    *   Get Now, Wear Later: Glam Shoes
     *   At-Home Makeover: Hair Care &. More Under $20
     *   BIRKENSTOCK
-    *   Spring Dresses Up to 65% Off Incl. Plus &. Petites
-    
-    *   Rebecca Minkoff &. More Up to 65% Off
-    *   Calvin Klein
-    *   WFH Refresh: Comfy Knits with a Twist
-    *   Leather Handbags Starting at $30
-    *   Swiss Luxury Watches ft. Tissot
-    *   Amanda &. Chelsea Incl. Plus and Petites
-    *   GOOD LUCK GEM &. More Under $40
     *   Revive Your Skin: Dr. Jart &. More
-    *   Sneakers ft. Keds Starting at $30
-    *   Lounge Around: PJs, Robes &. More
-    *   Ready for a Hike: Women's Outdoor Shoes
-    *   Calvin Klein Shoes
-    *   Makeup Up to 50% Off
+    *   Spring Dresses Up to 65% Off Incl. Plus &. Petites
+    *   Rebecca Minkoff &. More Up to 65% Off
+    *   WFH Refresh: Comfy Knits with a Twist
+    *   GOOD LUCK GEM &. More Under $40
     *   Designer Fragrances for Her ft. Gucci
-    *   Saint Laurent Sunglasses Up to 70% Off &. More
-    *   Take a Break in the Sun: SPF Essentials
-    *   Calvin Klein Intimates &. Active Under $35
+    *   Designer Sunglasses ft. Gucci
+    *   Makeup Up to 50% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Handbags
     *   Jewelry
-    *   Lingerie &. Shapewear
+    *   Handbags
     *   Watches
+    *   Lingerie &. Shapewear
 *   MenShop Sale Events
     
+    *   Under Armour Men Starting at $17
+    *   Vintage Foundry Up to 80% Off
+    *   For Dads &. Grads: Gifts from $15
+    *   For Dads &. Grads: Watches ft. Citizen
+    *   New Balance Men
+    *   Date Night at Home: Sport Coats &. Denim
+    *   Trending Now: Men's Polos from $15
     *   Swim Shop: Men's Styles
+    
     *   Swim Shop: Men's Shoes &. Accessories
     *   BIRKENSTOCK Men
     *   Men's Premium Denim Up to 60% Off ft. AG
-    *   Swiss Luxury Watches ft. Tissot
     *   Staycation Ready: Casual Shirts Up to 60% Off
-    
     *   Men's Hiking &. Outdoor Shoes
-    *   Calvin Klein Men
     *   Calvin Klein Men's Lounge &. Underwear Under $20
     *   Watches for Dad Under $100
-    *   Step in Style: Men's Dress Shoes Under $100
-    *   Saint Laurent Sunglasses Up to 70% Off &. More
+    *   Designer Sunglasses ft. Gucci
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Watches
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Under Armour Kids Starting at $15
+    *   Frills Ahead: Girls' Dresses Up to 60% Off
+    *   New Balance Kids
     *   Swim Shop: Kids' Styles &. Shoes
     *   Character Favorites for Kids Up to 60% Off
     *   BIRKENSTOCK Kids
     *   Jessica Simpson Girls &. More
     *   Kids' Sets Up to 60% Off
-    *   Calvin Klein Kids
-    *   Keep the Kids Busy: Toys Starting at $10
     
     Shop By Category
     *   Girls
-    *   Boys
     *   Girls' Shoes
     *   Baby
-    *   Toys
+    *   Boys
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Comforters, Quilts, &. More Up to 55% Off
     *   Home Cooking: Cookware &. More Starting at $13
     *   Shun Cutlery: Sora &. Kanso Collections
     *   Cookware Faves Up to 50% Off
     *   Set the Table: Kate Spade New York Home &. More
     *   Stylish Tech: Earbuds &. More
-    *   Calvin Klein Bedding Starting at $13
     *   Free Shipping: Storage for Every Room Up to 50% Off
     *   Smart Watch Bands &. More Up to 50% Off
     *   Kitchen Must-Haves: Appliances &. More from $15
-    *   Wall Art &. Decor Up to 50% Off
+    *   Calvin Klein Bedding Starting at $13
     
     Shop By Category
     *   Electronic &. Tech Accessories
     *   Kitchen &. Tabletop
     *   Cleaning &. Organization
-    *   Home Decor
     *   Bath
+    *   Luggage &. Travel
     *   Bedding
-    *   Outdoor Living
+    *   Home Decor
     *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   Bath &. Body Up to 60% Off
     *   Designer Fragrances for Him ft. Kenneth Cole
     *   At-Home Makeover: Hair Care &. More Under $20
     *   Revive Your Skin: Dr. Jart &. More
-    *   Makeup Up to 50% Off
     *   Designer Fragrances for Her ft. Gucci
-    *   Take a Break in the Sun: SPF Essentials
+    *   Makeup Up to 50% Off
     
     Shop By Category
     *   Skin Care
