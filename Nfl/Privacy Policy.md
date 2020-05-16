@@ -19,6 +19,7 @@ We use our own and third-party cookies to improve your experience and our servic
     *   FREE AGENCY
     *   WAYS TO WATCH
     *   NFL NETWORK
+    *   NFL FILMS
     *   COMBINE
 
 NFL SHOP Action related nav
