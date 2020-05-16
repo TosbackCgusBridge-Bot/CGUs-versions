@@ -1,4 +1,4 @@
-HR Tech Privacy Back to Indeed
+HR Tech Privacy
 
 *   Home
 *   Our Sites
@@ -7,7 +7,6 @@ HR Tech Privacy Back to Indeed
     *   SimplyHired
     *   Syft
     *   Resume.com
-    *   ClickIQ
     *   ResumePerfector.com
     *   Workopolis
     *   EngineerJobs
