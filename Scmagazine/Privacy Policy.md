@@ -269,9 +269,9 @@ For users in the EEA, any changes or modifications will be effective upon your e
 
 Work-from-home has huge, built-in security challenges
 
-Building a better asset management program
+Best practices for IT asset management during a pandemic
 
-Security basics: If you can’t make them sexy, make them simple
+When it rains, it pours: Today’s cloud asset management challenges
 
 *   MOST POPULAR
     
@@ -279,23 +279,23 @@ Security basics: If you can’t make them sexy, make them simple
     *   Emailed
     *   Recent
     
-    *   WeLeakData hack reveals hackers' private messages
-    *   Ransomware attack prompts Texas courts to disable websites, servers
-    *   Microsoft Azure Sphere Security Research Challenge offers $100K bounty
+    *   What is the Zero Trust Framework in cybersecurity and 5 considerations for building a Zero Trust IT environment
+    *   Vulnerability management
     *   SAP says 7 cloud products not currently up to security standards
-    *   Cisco pushes out almost three dozen security updates
-    
+    *   22 million emails found in mystery open database
     *   'About Coronavirus' app locks Android screens with repackaged malware
-    *   Adobe Reader and Acrobat in the spotlight for Patch Tuesday updates
-    *   New York City schools OK tailored Zoom platform for remote learning
-    *   Senate passes bipartisan amendment to protect surveillance targets, delays FISA reauthorization
-    *   The new cybersecurity resilience
     
+    *   New York City schools OK tailored Zoom platform for remote learning
+    *   Roblox hacker enabled by insider threats. expert offers tips to curb rogue employees
+    *   House Intel Committee releases closed-door testimonies from Russia election interference probe
+    *   P2P payment apps, users urged to curb COVID-19 advance fee fraud
+    *   Vulnerabilities in two VPNs opened door to fake, malicious updates
+    
+    *   P2P payment apps, users urged to curb COVID-19 advance fee fraud
     *   Senate passes bipartisan amendment to protect surveillance targets, delays FISA reauthorization
     *   CISA releases analysis of three Hidden Cobra malware variants
     *   FBI, CISA warn China targeting orgs conducting Covid-19-related vaccine, treatment research
     *   Magellan Health warns ransomware attack exposed PII
-    *   Ransomware attack prompts Texas courts to disable websites, servers
 
 Back to Top
 
