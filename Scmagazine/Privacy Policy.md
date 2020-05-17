@@ -279,23 +279,23 @@ When it rains, it pours: Today’s cloud asset management challenges
     *   Emailed
     *   Recent
     
-    *   What is the Zero Trust Framework in cybersecurity and 5 considerations for building a Zero Trust IT environment
-    *   Vulnerability management
-    *   SAP says 7 cloud products not currently up to security standards
-    *   22 million emails found in mystery open database
-    *   'About Coronavirus' app locks Android screens with repackaged malware
-    
-    *   New York City schools OK tailored Zoom platform for remote learning
-    *   Roblox hacker enabled by insider threats. expert offers tips to curb rogue employees
-    *   House Intel Committee releases closed-door testimonies from Russia election interference probe
-    *   P2P payment apps, users urged to curb COVID-19 advance fee fraud
-    *   Vulnerabilities in two VPNs opened door to fake, malicious updates
-    
-    *   P2P payment apps, users urged to curb COVID-19 advance fee fraud
-    *   Senate passes bipartisan amendment to protect surveillance targets, delays FISA reauthorization
-    *   CISA releases analysis of three Hidden Cobra malware variants
-    *   FBI, CISA warn China targeting orgs conducting Covid-19-related vaccine, treatment research
+    *   COVID-19 inspires Nigerian scammers to launch waves of BEC campaigns
+    *   GoDaddy takes seven months to discover data breach
     *   Magellan Health warns ransomware attack exposed PII
+    *   Exposure of 7.4B records at Le Figaro highlights ongoing problems with misconfigured databases
+    *   Vulnerabilities in two Schneider Electric ICS products reminiscent of Stuxnet
+    
+    *   SAP says 7 cloud products not currently up to security standards
+    *   Hacker hijacks Milwaukee Bucks star's Twitter account, posts offensive trash talk
+    *   MobiFriends data on 3.6 million users available for download online
+    *   Mozilla patches three critical vulnerabilities in Firefox
+    *   What's lost, gained as Black Hat and DEF CON go virtual
+    
+    *   Ramsay spy framework built to subvert air-gapped defenses
+    *   What's lost, gained as Black Hat and DEF CON go virtual
+    *   22 million emails found in mystery open database
+    *   REvil hackers double ransom for celebrity law firm, threaten to release Trump 'dirty laundry'
+    *   Burr steps aside as Senate Intel committee chair during coronavirus stock sale probe
 
 Back to Top
 
