@@ -20,8 +20,8 @@ View more results
     *   Love Games
     *   Kids
     *   Beauty Games
-    *   Princess
     *   Dating
+    *   Princess
     
     All Girls Best Games
     *   Baby Hazel: Hair Care
@@ -43,13 +43,13 @@ View more results
     Top Categories
     
     *   Driving Games
-    *   Motor Racing
     *   Parking
+    *   Motor Racing
     *   Offroad Games
     *   Stunt Driving
     *   Motocross
-    *   Boat Racing
     *   Horse Racing
+    *   Boat Racing
     
     All Racing Best Games
     *   Maximum Acceleration: 3D Drift Game
@@ -101,11 +101,11 @@ View more results
     *   Match 3
     *   Mobile
     *   Hidden Objects
-    *   Brain Games
     *   Mahjong
     *   Bubble Shooter
-    *   Maze
+    *   Brain Games
     *   Jewel Games
+    *   Maze
     
     All Puzzle Best Games
     *   MahJongCon
@@ -158,9 +158,9 @@ View more results
     *   Fun Games
     *   Flash Games
     *   One player
-    *   Y8 Games
     *   Friv
     *   HTML5
+    *   Y8 Games
     *   Fighting
     
     All Action Best Games
