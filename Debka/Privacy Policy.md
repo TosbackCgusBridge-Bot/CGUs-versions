@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Saturday, May 16, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Sunday, May 17, 2020  
 
 DEBKAfile
 
@@ -46,7 +46,23 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
-*   Rehovot school worker tests positive for coronavirus
+*   The decline in serious coronavirus cases in Israel stays steady
+    
+    May 16, 2020 @ 12:03
+    
+*   Iran cites record-high coronavirus infection. Italy opens to travel
+    
+    May 16, 2020 @ 11:50
+    
+*   Pompeo warns ICC of “consequences” for illegal Israel probe
+    
+    May 16, 2020 @ 10:01
+    
+*   Soldiers open fire under Palestinian bomb attack
+    
+    May 16, 2020 @ 09:16
+    
+*   Rehovot school teacher tests positive for coronavirus
     
     May 15, 2020 @ 19:15
     
@@ -61,29 +77,9 @@ Breaking news
 *   Australian “devastated” over death of soldier
     
     May 15, 2020 @ 09:04
-    
-*   The school system reopens next week
-    
-    May 14, 2020 @ 20:33
     
 
-*   Jordan’s King: Israeli annexation plans could end peace accord
-    
-    May 15, 2020 @ 17:33
-    
-*   The Sunday reopening of schools faces hitches. Infection remains low
-    
-    May 15, 2020 @ 11:54
-    
-*   Australian “devastated” over death of soldier
-    
-    May 15, 2020 @ 09:04
-    
-*   The school system reopens next week
-    
-    May 14, 2020 @ 20:33
-    
-*   Rehovot school worker tests positive for coronavirus
+*   Rehovot school teacher tests positive for coronavirus
     
     May 15, 2020 @ 19:15
     
@@ -99,11 +95,23 @@ Breaking news
     
     May 15, 2020 @ 09:04
     
-*   The school system reopens next week
+*   The decline in serious coronavirus cases in Israel stays steady
     
-    May 14, 2020 @ 20:33
+    May 16, 2020 @ 12:03
     
-*   Rehovot school worker tests positive for coronavirus
+*   Iran cites record-high coronavirus infection. Italy opens to travel
+    
+    May 16, 2020 @ 11:50
+    
+*   Pompeo warns ICC of “consequences” for illegal Israel probe
+    
+    May 16, 2020 @ 10:01
+    
+*   Soldiers open fire under Palestinian bomb attack
+    
+    May 16, 2020 @ 09:16
+    
+*   Rehovot school teacher tests positive for coronavirus
     
     May 15, 2020 @ 19:15
     
@@ -118,6 +126,22 @@ Breaking news
 *   Australian “devastated” over death of soldier
     
     May 15, 2020 @ 09:04
+    
+*   The decline in serious coronavirus cases in Israel stays steady
+    
+    May 16, 2020 @ 12:03
+    
+*   Iran cites record-high coronavirus infection. Italy opens to travel
+    
+    May 16, 2020 @ 11:50
+    
+*   Pompeo warns ICC of “consequences” for illegal Israel probe
+    
+    May 16, 2020 @ 10:01
+    
+*   Soldiers open fire under Palestinian bomb attack
+    
+    May 16, 2020 @ 09:16
     
 
 12PrevNext
