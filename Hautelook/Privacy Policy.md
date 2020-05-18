@@ -9,30 +9,47 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
-    *   Best of Home Brands ft. Le Creuset
+    *   Style Steals Under $20 Incl. Plus &. Petites
+    *   Season's Best: Jackets &. Coats Up to 60% Off
+    *   Kitchen Blowout ft. Wolf Gourmet &. More
+    *   Women's Shoe Blowout
+    *   Sterling Forever Jewelry Up to 60% Off
+    *   Men's Shoe Steals Up to 70% Off
+    *   Luggage Blowout
+    *   Splendid &. More Up to 60% Off
+    *   Lucky Brand Incl. Plus
+    *   Trina Turk Swim
+    *   Men's Underwear ft. SAXX
+    *   Lighter Layers: Styles Incl. Plus and Petites
+    *   Original Penguin Shoes Up to 65% Off
+    *   Date Night at Home: Sport Coats &. Denim
+    *   Kids' Pajamas Up to 55% Off
+    *   Nike Women Starting at $40
+    *   Nike Men Starting at $45
+    *   Nike Kids Starting at $40
+    *   Nike Women's Clothing Starting at $25
+    *   Nike Men's Clothing Starting at $15
+    *   Nike Kids' Clothing Starting at $15
+    *   Maggy London &. London Times Incl. Plus &. Petites
+    *   Just Like Dad: Men's &. Boys' Suiting Under $250
+    *   Rockport Up to 50% Off
     *   Floor Care: bObsweep Up to 75% Off
     *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
     *   Melloday Under $50 Incl. Plus &. Petites
-    *   Workout Ready: Men's Active Shoes
+    
+    *   Spring Style: Activewear Essentials
     *   Young Fabulous &. Broke &. More Up to 60% Off
     *   Down to Details: WFH Blouses Up to 60% Off
     *   Spring Shorts &. More Incl. Plus and Petites
-    *   Go Time: Women's Running Shoes
-    *   Fresh Finds: Sandals Up to 65% Off
-    *   Spring Style: Activewear Essentials
-    *   Helmut Lang Men Up to 60% Off
-    *   Kenneth Cole Shoes Up to 65% Off
     *   Born From $40
-    *   Men's Denim Under $50
-    *   Wardrobe Staples: Men's White Dress Shirts
+    *   Fresh Finds: Sandals Up to 65% Off
+    *   Kenneth Cole Shoes Up to 65% Off
     *   Botkier Handbags
     *   Refresh Your Routine: Skin Care Starting at $10
-    *   Kids' Active Shoes
+    *   Helmut Lang Men Up to 60% Off
+    *   Men's Denim Under $50
     *   Trending Now: Kids' Surf &. Skate Styles
-    *   Date Night at Home: Sport Coats &. Denim
-    *   Trending Now: Men's Polos from $15
     *   St. John Collection Up to 65% Off
-    
     *   LOVE Moschino
     *   Printed Woven Tops from $20
     *   Date Night In: Dresses, Tops &. More
@@ -47,8 +64,9 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Hello, Sunshine: Sandals Under $50
     *   Bath &. Body Up to 60% Off
     *   Frills Ahead: Girls' Dresses Up to 60% Off
+    
     *   For Dads &. Grads: Watches ft. Citizen
-    *   New Balance Kids
+    *   Designer Sunglasses ft. Gucci
     *   New Balance Men
     *   Designer Fragrances for Him ft. Kenneth Cole
     *   Swim Shop: Separates
@@ -56,41 +74,49 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Swim Shop: Cover-Ups
     *   Swim Shop: Men's Styles
     *   Swim Shop: Kids' Styles &. Shoes
-    
     *   Swim Shop: Men's Shoes &. Accessories
-    *   Character Favorites for Kids Up to 60% Off
-    *   Sterling Silver Jewelry
-    *   Swim Shop: Shoes &. Accessories
-    *   Home Cooking: Cookware &. More Starting at $13
-    *   At-Home Makeover: Hair Care &. More Under $20
+    *   Best of Home Brands ft. Le Creuset
+    *   Go Time: Women's Running Shoes
+    *   Workout Ready: Men's Active Shoes
+    *   Kids' Active Shoes
+    *   Wardrobe Staples: Men's White Dress Shirts
     *   Revive Your Skin: Dr. Jart &. More
-    *   Men's Hiking &. Outdoor Shoes
     *   Shun Cutlery: Sora &. Kanso Collections
     *   Cookware Faves Up to 50% Off
     *   Set the Table: Kate Spade New York Home &. More
-    *   Calvin Klein Bedding Starting at $13
     *   Stylish Tech: Earbuds &. More
-    *   Makeup Up to 50% Off
-    *   Spring Dresses Up to 65% Off Incl. Plus &. Petites
-    *   Under Armour Kids Starting at $15
-    *   Under Armour Men Starting at $17
-    *   Designer Sunglasses ft. Gucci
-    *   Free Shipping: Storage for Every Room Up to 50% Off
-    *   Smart Watch Bands &. More Up to 50% Off
-    *   WFH Style Upgrades ft. Badgley Mischka
-    *   Splash of Color: Tops from $20 Incl. Plus
+    *   Trending Now: Men's Polos from $15
+    *   New Balance Kids
+    *   Swim Shop: Shoes &. Accessories
+    *   Character Favorites for Kids Up to 60% Off
+    *   Home Cooking: Cookware &. More Starting at $13
+    *   At-Home Makeover: Hair Care &. More Under $20
+    *   Calvin Klein Bedding Starting at $13
 *   WomenShop Sale Events
     
+    *   Style Steals Under $20 Incl. Plus &. Petites
+    *   Season's Best: Jackets &. Coats Up to 60% Off
+    *   Women's Shoe Blowout
+    *   Sterling Forever Jewelry Up to 60% Off
+    *   Luggage Blowout
+    *   Splendid &. More Up to 60% Off
+    *   Lucky Brand Incl. Plus
+    *   Trina Turk Swim
+    *   Lighter Layers: Styles Incl. Plus and Petites
+    *   Nike Women Starting at $40
+    *   Nike Women's Clothing Starting at $25
+    *   Maggy London &. London Times Incl. Plus &. Petites
+    *   Rockport Up to 50% Off
     *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
     *   Melloday Under $50 Incl. Plus &. Petites
+    *   Spring Style: Activewear Essentials
     *   Down to Details: WFH Blouses Up to 60% Off
     *   Spring Shorts &. More Incl. Plus and Petites
-    *   Go Time: Women's Running Shoes
-    *   Fresh Finds: Sandals Up to 65% Off
-    *   Spring Style: Activewear Essentials
-    *   Kenneth Cole Shoes Up to 65% Off
     *   Born From $40
+    *   Fresh Finds: Sandals Up to 65% Off
+    *   Kenneth Cole Shoes Up to 65% Off
     *   Botkier Handbags
+    
     *   Refresh Your Routine: Skin Care Starting at $10
     *   St. John Collection Up to 65% Off
     *   LOVE Moschino
@@ -99,109 +125,109 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   NIC+ZOE &. More Incl. Plus &. Petites
     *   FAVLUX &. More Under $35
     *   New Balance
-    
     *   Kelsi Dagger Brooklyn &. More Up to 60% Off
     *   Active Under $30
     *   Hello, Sunshine: Sandals Under $50
     *   Bath &. Body Up to 60% Off
+    *   Designer Sunglasses ft. Gucci
     *   Designer Fragrances for Him ft. Kenneth Cole
     *   Swim Shop: Separates
     *   Swim Shop: One-Pieces
     *   Swim Shop: Cover-Ups
-    *   Sterling Silver Jewelry
+    *   Go Time: Women's Running Shoes
+    *   Revive Your Skin: Dr. Jart &. More
     *   Swim Shop: Shoes &. Accessories
     *   At-Home Makeover: Hair Care &. More Under $20
-    *   Revive Your Skin: Dr. Jart &. More
-    *   Makeup Up to 50% Off
-    *   Spring Dresses Up to 65% Off Incl. Plus &. Petites
-    *   Designer Sunglasses ft. Gucci
-    *   WFH Style Upgrades ft. Badgley Mischka
-    *   Splash of Color: Tops from $20 Incl. Plus
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
     *   Accessories
     *   Handbags
     *   Lingerie &. Shapewear
+    *   Jewelry
     *   Watches
 *   MenShop Sale Events
     
-    *   Workout Ready: Men's Active Shoes
+    *   Men's Shoe Steals Up to 70% Off
+    *   Luggage Blowout
+    *   Men's Underwear ft. SAXX
+    *   Original Penguin Shoes Up to 65% Off
+    *   Date Night at Home: Sport Coats &. Denim
+    *   Nike Men Starting at $45
+    *   Nike Men's Clothing Starting at $15
+    *   Just Like Dad: Men's &. Boys' Suiting Under $250
     *   Helmut Lang Men Up to 60% Off
     *   Men's Denim Under $50
-    *   Wardrobe Staples: Men's White Dress Shirts
-    *   Date Night at Home: Sport Coats &. Denim
-    *   Trending Now: Men's Polos from $15
+    
     *   Vintage Foundry Up to 80% Off
     *   For Dads &. Grads: Gifts from $15
-    
     *   For Dads &. Grads: Watches ft. Citizen
+    *   Designer Sunglasses ft. Gucci
     *   New Balance Men
     *   Swim Shop: Men's Styles
     *   Swim Shop: Men's Shoes &. Accessories
-    *   Men's Hiking &. Outdoor Shoes
-    *   Under Armour Men Starting at $17
-    *   Designer Sunglasses ft. Gucci
+    *   Workout Ready: Men's Active Shoes
+    *   Wardrobe Staples: Men's White Dress Shirts
+    *   Trending Now: Men's Polos from $15
     
     Shop By Category
     *   Clothing
-    *   Accessories
     *   Shoes
+    *   Accessories
     *   Watches
 *   KidsShop Sale Events
     
-    *   Kids' Active Shoes
+    *   Kids' Pajamas Up to 55% Off
+    *   Nike Kids Starting at $40
+    *   Nike Kids' Clothing Starting at $15
+    *   Just Like Dad: Men's &. Boys' Suiting Under $250
     *   Trending Now: Kids' Surf &. Skate Styles
     *   Frills Ahead: Girls' Dresses Up to 60% Off
-    *   New Balance Kids
     *   Swim Shop: Kids' Styles &. Shoes
+    *   Kids' Active Shoes
+    *   New Balance Kids
     *   Character Favorites for Kids Up to 60% Off
-    *   Under Armour Kids Starting at $15
     
     Shop By Category
     *   Girls
     *   Girls' Shoes
+    *   Boys' Shoes
     *   Boys
     *   Baby
-    *   Boys' Shoes
 *   HomeShop Sale Events
     
-    *   Best of Home Brands ft. Le Creuset
+    *   Kitchen Blowout ft. Wolf Gourmet &. More
+    *   Luggage Blowout
     *   Floor Care: bObsweep Up to 75% Off
     *   Comforters, Quilts, &. More Up to 55% Off
-    *   Home Cooking: Cookware &. More Starting at $13
+    *   Best of Home Brands ft. Le Creuset
     *   Shun Cutlery: Sora &. Kanso Collections
-    *   Cookware Faves Up to 50% Off
     
+    *   Cookware Faves Up to 50% Off
     *   Set the Table: Kate Spade New York Home &. More
-    *   Calvin Klein Bedding Starting at $13
     *   Stylish Tech: Earbuds &. More
-    *   Free Shipping: Storage for Every Room Up to 50% Off
-    *   Smart Watch Bands &. More Up to 50% Off
+    *   Home Cooking: Cookware &. More Starting at $13
+    *   Calvin Klein Bedding Starting at $13
     
     Shop By Category
-    *   Electronic &. Tech Accessories
     *   Kitchen &. Tabletop
     *   Bedding
     *   Luggage &. Travel
-    *   Cleaning &. Organization
+    *   Electronic &. Tech Accessories
     *   Bath
+    *   Cleaning &. Organization
     *   Home Decor
-    *   Holiday Decorations
 *   BeautyShop Sale Events
     
     *   Refresh Your Routine: Skin Care Starting at $10
     *   Bath &. Body Up to 60% Off
     *   Designer Fragrances for Him ft. Kenneth Cole
-    *   At-Home Makeover: Hair Care &. More Under $20
     *   Revive Your Skin: Dr. Jart &. More
-    *   Makeup Up to 50% Off
+    *   At-Home Makeover: Hair Care &. More Under $20
     
     Shop By Category
     *   Skin Care
-    *   Makeup
     *   Men’s Grooming
     *   Hair Care
     *   Bath &. Body
