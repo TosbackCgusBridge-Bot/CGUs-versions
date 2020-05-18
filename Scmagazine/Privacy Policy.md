@@ -279,17 +279,17 @@ When it rains, it pours: Today’s cloud asset management challenges
     *   Emailed
     *   Recent
     
-    *   COVID-19 inspires Nigerian scammers to launch waves of BEC campaigns
-    *   GoDaddy takes seven months to discover data breach
-    *   Magellan Health warns ransomware attack exposed PII
-    *   Exposure of 7.4B records at Le Figaro highlights ongoing problems with misconfigured databases
-    *   Vulnerabilities in two Schneider Electric ICS products reminiscent of Stuxnet
+    *   Cisco pushes out almost three dozen security updates
+    *   Microsoft Azure Sphere Security Research Challenge offers $100K bounty
+    *   Favicons found housing credit card skimming malware
+    *   Salt exploit attacks expose underestimated threat vector: Infrastructure-as-Code tools
+    *   Thunderbolt ports vulnerable to hands-on hacks
     
-    *   SAP says 7 cloud products not currently up to security standards
-    *   Hacker hijacks Milwaukee Bucks star's Twitter account, posts offensive trash talk
-    *   MobiFriends data on 3.6 million users available for download online
+    *   Banking trojan attack exposes dangers of not securing MDM solutions
     *   Mozilla patches three critical vulnerabilities in Firefox
-    *   What's lost, gained as Black Hat and DEF CON go virtual
+    *   WeLeakData hack reveals hackers' private messages
+    *   Vulnerability management
+    *   Trump cites cybersecurity concerns issuing order to protect power grid
     
     *   Ramsay spy framework built to subvert air-gapped defenses
     *   What's lost, gained as Black Hat and DEF CON go virtual
@@ -328,4 +328,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+
+You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
