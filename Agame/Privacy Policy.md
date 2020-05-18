@@ -26,18 +26,18 @@ View more results
     All Girls Best Games
     *   Baby Hazel: Hair Care
     *   Dove Prom Dolly Dress Up
-    *   Meet Ellie
     *   Mommy BFFs: Pregnant Check-Up
-    *   Goldie: Lip Injections
     *   Car Salon
-    *   Princess Style Guide: Sporty Chic - Fashion Game
+    *   Goldie: Lip Injections
     *   Ice Slushy Maker
+    *   Princess Style Guide: Sporty Chic - Fashion Game
     *   Year Round Fashionista: Curly
-    *   Beach Kiss
-    *   Dark Chocolate Blackberry Cheesecake: Sara's Cooking Class
     *   Floral Real Life Manicure
-    *   Ocean Voyage with Princesses
+    *   Dark Chocolate Blackberry Cheesecake: Sara's Cooking Class
+    *   Beach Kiss
     *   Love Tester 3
+    *   How To Become Popular at School with Princess
+    *   Cute Room Decoration
 *   Racing
     
     Top Categories
@@ -56,11 +56,11 @@ View more results
     *   Hill Racing Challenge
     *   Madalin Stunt Cars 2
     *   City Car Stunts 2
-    *   Off-Road Cycle 3D
-    *   Moto X3M 5: Pool Party
     *   City Stunts
-    *   Real Dog Racing Simulator
+    *   Moto X3M 5: Pool Party
     *   Off-Roader V6
+    *   Off-Road Cycle 3D
+    *   Real Dog Racing Simulator
     *   Cars 3D
     *   Stock Car Hero
     *   Madalin Cars Multiplayer
@@ -85,8 +85,8 @@ View more results
     *   Miami Crime Simulator 3D
     *   Deer Hunter
     *   Sniper Reloaded
-    *   CS Portable
     *   Pixel Gun Apocalypse 3
+    *   CS Portable
     *   Archery World Tour
     *   Army Force Strike: 3D Shooting Game Online Multiplayer
     *   Hunter 3D
@@ -110,18 +110,18 @@ View more results
     All Puzzle Best Games
     *   MahJongCon
     *   Bubble Shooter Classic
-    *   Bubble Shooter
     *   Block Wood Puzzle
+    *   Bubble Shooter
     *   Mahjong Connect Classic
     *   Jewelry Match
-    *   Aztec Adventure
     *   Cartoon Rabbit Jigsaw Puzzles
+    *   Aztec Adventure
     *   TenTrix
     *   Farm Connect 2
     *   Line Puzzle
     *   Word Wipe
     *   Mahjong Link
-    *   Word Connect
+    *   Bubble Hit
 *   Multiplayer
     
     Top Categories
@@ -143,13 +143,13 @@ View more results
     *   Gartic.io
     *   Draw and Guess
     *   Pool Clash: 8 Ball Billiards Snooker
-    *   Ludo 4 Players
     *   Crowd City
     *   Worms.Zone
-    *   Wormate.io
-    *   Kogama: Zoo
+    *   Ludo 4 Players
     *   Madalin Cars Multiplayer
+    *   Wormate.io
     *   Master Chess Multiplayer
+    *   Empire: World War 3
 *   Action
     
     Top Categories
@@ -168,14 +168,14 @@ View more results
     *   Shot Trigger
     *   Miami Crime Simulator 3D
     *   Deer Hunter
-    *   Stickman Warriors
     *   Wormate.io
-    *   Sniper Reloaded
+    *   Stickman Warriors
     *   Short Life
-    *   CS Portable
+    *   Sniper Reloaded
     *   Pixel Gun Apocalypse 3
-    *   Super Buddy Kick
     *   Bomb It 6
+    *   Super Buddy Kick
+    *   CS Portable
     *   Gun Builder 2
     *   Army Force Strike: 3D Shooting Game Online Multiplayer
 *   Adventure
@@ -195,11 +195,11 @@ View more results
     *   Fireboy and Watergirl 5: Elements
     *   World Craft 2
     *   Adam and Eve 3
-    *   Troll Face Quest: Horror 2
     *   Adam and Eve 2
-    *   Adam and Eve
-    *   Adam and Eve 4
+    *   Troll Face Quest: Horror 2
     *   Dog Simulator: Puppy Craft
+    *   Adam and Eve 4
+    *   Adam and Eve
     *   Bob the Robber 4: Season 2 Russia
     *   Dumb Ways to Die: Original
     *   Chrome Dino
