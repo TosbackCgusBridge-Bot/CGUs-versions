@@ -91,4 +91,4 @@ Get Involved
 *   Corporate Info
 *   AdChoices
 
-Stay Connected Facebook Twitter Instagram YouTube Newsletter Stay Connected Facebook Twitter Instagram YouTube Newsletter ©2020 Oxygen Media LLC. A Division of NBCUniversal
+Stay Connected Facebook Twitter Instagram YouTube Newsletter Stay Connected Facebook Twitter Instagram YouTube Newsletter ©2020 Oxygen Media LLC. A Division of NBCUniversal sponsoredsponsoredsponsored
