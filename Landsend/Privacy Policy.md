@@ -28,9 +28,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive up to 50% off your order!
+Receive 60% off all swimsuits. 40% off everything else!
 
-code: SHINE pin: PROMOTION DETAILS
+code: SWIMSUIT pin: PROMOTION DETAILS
 
 Customer Service Menu
 
