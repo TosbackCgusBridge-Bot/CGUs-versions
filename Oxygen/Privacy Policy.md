@@ -25,22 +25,19 @@ Main menu
         *   Deadly Cults
         *   Famous Cases Explained
         *   How To Stay Safe
-        *   Killer Couples
         *   Kim Kardashian West: The Justice Project
         *   Mark of a Killer
         *   Martinis &. Murder
         *   Searching For
         *   Snapped
-        *   The DNA of Murder with Paul Holes
-        *   The Forgotten West Memphis Three
     *   Channel Finder
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 4:54 Dying To Belong Dying to Belong 105 Bonus: Lethal Reconnection 2:05 Snapped What Happened To Rev. Dwight Moore?
+    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 2:05 Snapped What Happened To Rev. Dwight Moore? 2:28 Killer Couples The Different Sides of Nicholas Godejohn
 *   News
     *   Crime News
-    *   True Crime BuzzCrime News Polygamist Cult Leader Murders Wife, 4-Year-Old Boy Crime News Elderly Woman Arrested For Murder With 'Cold Justice' Help Candace Muzny poses during a portrait session for the K&N Pro Series East at Bristol Motor Speedway on March 16, 2012 in Bristol, Tennessee. Photo: Getty Images Crime News Ex-NASCAR Driver Candace Muzny Accidentally Drowned
+    *   True Crime BuzzGeoffrey Paschel Photo: Knox County Sheriff's Office Crime News Is '90 Day Fiance' Star Revealing His Full Criminal Past? Crime News Elderly Woman Arrested For Murder With 'Cold Justice' Help Crime News 'West Memphis Three' Killer Knew Boys, Profiler Theorizes
 *   Podcasts
 *   Detective's Den
 *   Schedule
@@ -91,4 +88,4 @@ Get Involved
 *   Corporate Info
 *   AdChoices
 
-Stay Connected Facebook Twitter Instagram YouTube Newsletter Stay Connected Facebook Twitter Instagram YouTube Newsletter ©2020 Oxygen Media LLC. A Division of NBCUniversal sponsoredsponsoredsponsored
+Stay Connected Facebook Twitter Instagram YouTube Newsletter Stay Connected Facebook Twitter Instagram YouTube Newsletter ©2020 Oxygen Media LLC. A Division of NBCUniversal
