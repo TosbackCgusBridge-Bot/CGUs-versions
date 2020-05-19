@@ -1,4 +1,4 @@
-**COVID-19 Update:** Toyota is taking action to help our community through this crisis. We're all in this together. Learn more.
+Today. Tomorrow. Toyota. It's our promise to you. We're open for service and offering many ways to save. Learn more.
 
 *   Search
 *   FAQ
@@ -259,6 +259,8 @@ Crossovers &. SUVs
     
 *   Sequoia  
     
+*   Venza  
+    
 
 Hybrids &. Fuel Cell
 
@@ -278,6 +280,8 @@ Hybrids &. Fuel Cell
     
 *   RAV4 Hybrid  
     
+*   Venza  
+    
 
 Discontinued Vehicles
 
@@ -290,8 +294,6 @@ Discontinued Vehicles
 *   Prius _v_  
     
 *   RAV4 EV  
-    
-*   Venza  
     
 
 Compare Toyota vs. the Competition
