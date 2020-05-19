@@ -49,7 +49,7 @@ Information We Collect
 We collect the following types of Personal Information from you when you use our Websites:
 
 *   Contact Information that allows us to communicate with you, such as your name, username, mailing address, telephone numbers, email address or other addresses that allow us to send you messages.
-*   Relationship Information that helps us do business with you. For test takers, this may include the types of tests that you want to take, your school affiliation, expected degree and graduation date, and similar information that can help us offer you personalized content. It may also include demographic data, such as language(s) spoken, which helps support ETS Research. For professionals, this may include your professional credentials and affiliations and the products and services that may interest you or your school. For test center administrators, they may include information about your relationship with your test center and the tests you administer.
+*   Relationship Information that helps us do business with you. For test takers, this may include the types of tests that you want to take, your school affiliation, expected degree and graduation date, and similar information that can help us offer you personalized content. It may also include demographic data, such as language(s) spoken, which helps support ETS Research. For professionals, this may include your professional credentials and affiliations and the products and services that may interest you or your school. For test center administrators, they may include information about your relationship with your test center and the tests you administer. If you use our platforms, such as GradConnect, we may collect additional relationship information to help match you with educational programs, fellowships, scholarships and similar offerings.
 *   Transaction Information about your activities with ETS, including your test registration records, test administration records, purchase history, order information about your use of our content (such as if you access your scores online, use test prep material or complete surveys), customer or TCA account information (such as if you email us for support) and payment card information as needed to process your payments.
 
 In some cases, we may need to collect additional sensitive information from test takers and test center administrators in order to administer tests securely or to fulfill other requests that you may make. In particular:
@@ -69,7 +69,9 @@ How We Use Your Personal Information
 We may use your Personal Information to:
 
 *   Provide you with the products, content or services selected by you, such as to register you for and deliver tests, and send you service-related communications, such as identity verification, score delivery, customer service and account management.
-*   Subject to your choices, provide you with marketing communications, surveys and offers for products and services from ETS and our partners, including personalized offers based on your usage of our products and to manage your communications preferences.
+*   Subject to your choices, provide you with marketing communications, surveys and offers for products and services from ETS and our partners, including personalized offers based on your interests and educational goals and to manage your communications preferences.
+*   Understand how you and others use our products and platforms, for analytics and modeling and to create recommendations and insights and to understand educational trends.
+*   Deliver messages and sponsored content to you from educational institutions and other partners via platforms, such as GradConnect.
 *   Improve our products and services (including for test usability and design, security and research), and to identify, develop and offer new or expanded products and services.
 *   Understand how you use our products, content and services, including associating you with different devices that you may use to access our content, to help personalize your experience on the Website, and customize the content and/or format of the pages you visit.
 *   Manage our everyday business needs, such as payment processing and financial account management, test center management, contract management, Website administration, business continuity and disaster recovery, security and fraud prevention, corporate governance, reporting and legal compliance.
@@ -102,6 +104,7 @@ We will only disclose your Personal Information as follows:
 *   We may disclose your Personal Information to our affiliates, who will only use your Personal Information for the purposes listed above.
 *   We may disclose your Personal Information to third parties that provide services to us. For example, when you register for a test, we will provide certain registration information to third parties that administer the tests in your area. We use service providers for other functions as well, including data hosting and other business activities such as printing, mailing and/or payment processing. We require such third-party processors to use your Personal Information in accordance with our instructions, and they may not use your Personal Information for their own purposes.
 *   We may disclose your Personal Information as needed to provide services to you. For example, you may instruct us to disclose your test scores to schools and others. We may also share your Personal Information with our partners, but only to the extent that you have a relationship with such partner or you authorize the sharing. For example, we may share information with test prep providers, if you elect to use the materials or as needed to validate referrals and operate the platforms.
+*   We may disclose your Personal Information with your consent. For example, if you choose to participate in our Search Services or similar programs, we will share your information with participating schools and organizations so they can communicate with you about their programs.
 *   We may also disclose Personal Information in accordance with applicable law, in connection with any sale or transfer of our business or assets, to assert or defend our rights and property, or to prevent harm to others. For example, we may disclose Personal Information to third parties when we investigate claims of misconduct or other incidents that may occur in our test centers. We will also always disclose Personal Information when required to do so by law, such as in response to a subpoena, including to law enforcement agencies and courts in the United States and other countries where we operate.
 
 Please note that we may also use and disclose information about you that is not personally identifiable. For example, we may publish reports that contain aggregated and statistical data. These reports do not contain any Personal Information.
@@ -113,6 +116,8 @@ Your Rights and Choices
 When you register for a test online or create an account, we ask you to provide your contact details, including email address, telephone and mobile phone details. We use this information so that we can quickly provide you with information regarding the products and services you have requested.
 
 If we have your consent (or if you have not objected), we may send other communications to you, such as surveys and information about other testing products and services. You can limit these communications at any time. To opt out of emails, simply click the link labeled "Unsubscribe" at the bottom of any email we send you. To revoke permissions that you may have given to send text messages, text STOP in response to any message. Remember, however, that we may still send emails or call you in order to provide the testing services you have purchased or otherwise requested from us.
+
+If you have signed up for Search Service or otherwise given us permission to share your Personal Information with schools and other organizations, you can opt-out at any time by contacting us via email at etsinfo@ets.org.
 
 We also respect your right to reasonably access and correct your Personal Information, and ETS complies with all laws regarding access, correction and deletion. If you have an online account, you can log into your account at any time to access and update the information you have provided to us (with the exception of your name, gender, birthdate or Social Security number, if provided). If you need assistance updating your Personal Information or if you would like to request that we delete your information, please contact us via email at etsinfo@ets.org. Please understand that we will have to verify your identity prior to fulfilling these requests. Additionally, to help ensure the accuracy of our data, we may require appropriate evidence prior to making a change. (For example, if you wish to change your name, we will require proof that your name has been changed legally, such as a marriage certificate or court decree.)
 
@@ -309,7 +314,7 @@ See also:
 
 *   ETS.org Terms of Use
 
-Last Updated on January 24, 2020.
+Last Updated on May 1, 2020.
 
 Promotional Links Related Links
 
