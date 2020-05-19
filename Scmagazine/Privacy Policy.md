@@ -279,17 +279,17 @@ When it rains, it pours: Today’s cloud asset management challenges
     *   Emailed
     *   Recent
     
-    *   Cisco pushes out almost three dozen security updates
-    *   Microsoft Azure Sphere Security Research Challenge offers $100K bounty
-    *   Favicons found housing credit card skimming malware
-    *   Salt exploit attacks expose underestimated threat vector: Infrastructure-as-Code tools
-    *   Thunderbolt ports vulnerable to hands-on hacks
+    *   P2P payment apps, users urged to curb COVID-19 advance fee fraud
+    *   Vulnerabilities in two Schneider Electric ICS products reminiscent of Stuxnet
+    *   Hacker hijacks Milwaukee Bucks star's Twitter account, posts offensive trash talk
+    *   Ransomware attack prompts Texas courts to disable websites, servers
+    *   Notification emails impersonate Microsoft Teams to steal credentials
     
-    *   Banking trojan attack exposes dangers of not securing MDM solutions
-    *   Mozilla patches three critical vulnerabilities in Firefox
-    *   WeLeakData hack reveals hackers' private messages
-    *   Vulnerability management
-    *   Trump cites cybersecurity concerns issuing order to protect power grid
+    *   VMware issues workarounds for Salt vulnerabilities in vRealize Operations Manager
+    *   Zero-click vulnerability found in Samsung mobile phones
+    *   900,000 WordPress sites attacked via XSS vulnerabilities
+    *   Microsoft Azure Sphere Security Research Challenge offers $100K bounty
+    *   Ramsay spy framework built to subvert air-gapped defenses
     
     *   Ramsay spy framework built to subvert air-gapped defenses
     *   What's lost, gained as Black Hat and DEF CON go virtual
