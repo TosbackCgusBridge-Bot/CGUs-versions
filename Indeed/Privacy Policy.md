@@ -50,7 +50,7 @@ Visit Indeed
 
 **Privacy Policy**
 
-Last updated May 8, 2020
+Last updated May 18, 2020
 
 **Summary of Indeed’s Privacy Policy** **1\. Introduction**
 
@@ -389,7 +389,7 @@ Information shared by you with Indeed may be shared with any Indeed affiliated e
 
 For the purposes of this Policy, “affiliates” means any entity that directly or indirectly, controls, is controlled by, or is under common control of or with an Indeed entity, now or in the future. “Control” for these purposes means having a majority of shares or the right and ability to direct management. And this includes Indeed affiliated entities located outside the European Economic Area (“EEA”) or Switzerland.
 
-Examples of our affiliates and affiliated websites include: Glassdoor, Simply Hired, Syft, Resume.com, Workopolis, Click IQ, Wowjobs.com, Engineerjobs.com, RescueMyResumes.com and Resumeperfector.com. 
+Examples of our affiliates and affiliated websites include: Glassdoor, Simply Hired, Syft, Resume.com, Workopolis, Wowjobs.com, Engineerjobs.com, RescueMyResumes.com and Resumeperfector.com. 
 
 Such data sharing with Indeed affiliates will be performed for a number of specific reasons.
 
