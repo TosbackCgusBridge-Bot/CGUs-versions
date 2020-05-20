@@ -279,23 +279,23 @@ When it rains, it pours: Today’s cloud asset management challenges
     *   Emailed
     *   Recent
     
-    *   P2P payment apps, users urged to curb COVID-19 advance fee fraud
-    *   Vulnerabilities in two Schneider Electric ICS products reminiscent of Stuxnet
-    *   Hacker hijacks Milwaukee Bucks star's Twitter account, posts offensive trash talk
-    *   Ransomware attack prompts Texas courts to disable websites, servers
-    *   Notification emails impersonate Microsoft Teams to steal credentials
+    *   House Intel Committee releases closed-door testimonies from Russia election interference probe
+    *   Ramsay spy framework built to subvert air-gapped defenses
+    *   Burr steps aside as Senate Intel committee chair during coronavirus stock sale probe
+    *   MobiFriends data on 3.6 million users available for download online
+    *   Zero-click vulnerability found in Samsung mobile phones
     
     *   VMware issues workarounds for Salt vulnerabilities in vRealize Operations Manager
-    *   Zero-click vulnerability found in Samsung mobile phones
-    *   900,000 WordPress sites attacked via XSS vulnerabilities
-    *   Microsoft Azure Sphere Security Research Challenge offers $100K bounty
-    *   Ramsay spy framework built to subvert air-gapped defenses
-    
-    *   Ramsay spy framework built to subvert air-gapped defenses
-    *   What's lost, gained as Black Hat and DEF CON go virtual
+    *   Pitney Bowes hit with second ransomware attack
     *   22 million emails found in mystery open database
-    *   REvil hackers double ransom for celebrity law firm, threaten to release Trump 'dirty laundry'
-    *   Burr steps aside as Senate Intel committee chair during coronavirus stock sale probe
+    *   Zero-click vulnerability found in Samsung mobile phones
+    *   Using an SDP client to create a secure, hyperconnected smart city
+    
+    *   Six need-to-know takeaways from the Verizon breach report
+    *   WolfRAT malware targets WhatsApp, Messenger
+    *   British airline easyJet breached, data of 9 million customers compromised
+    *   FBI cracks Pensacola shooter's iPhone without Apple's help, discovers al Qaeda connection
+    *   Arkansas, Illinois COVID-19 unemployment websites leak data
 
 Back to Top
 
@@ -328,8 +328,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
 
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+You can skip this ad in 2 seconds.
