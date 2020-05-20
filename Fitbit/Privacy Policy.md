@@ -20,13 +20,11 @@
     
     NEW
     
-    Shop Charge 4
+    Fitbit Charge 4™
     
-    Women's Health Week
+    Fitbit Versa 2™
     
-    Shop Versa 2
-    
-    Shop Accessories
+    Accessories
     
 *   TECHNOLOGY
     
