@@ -265,16 +265,16 @@ Close Upload ★VIP
 
 **Search Suggestions** start typing for suggestions ... **Suggested Pornstars** start typing for suggestions ... **Suggested Channels** start typing for suggestions ... **Suggested Keywords**
 
-*   big ass
-*   threesome
-*   amateur wife
-*   milf
 *   massage hidden camera
-*   old man fuck
-*   casting couch
-*   step
+*   homemade
+*   brandi love
+*   sister in law
 *   extreme hardcore gangbang
-*   ass to mouth
+*   first anal
+*   bbc
+*   cock
+*   cum in throat
+*   virgin first
 
 **Recent Searches** Clear
 
@@ -869,9 +869,9 @@ As of January 1, 2020, the California Consumer Privacy Act of 2018 ("**CCPA**") 
 *   Appoint an agent to exercise their rights provided for by the CCPA, provided that a duly executed notarized power of attorney is presented and provided that the agent has information deemed sufficient to allow us to verify the identity of the Consumer in question and to locate his/her information in our systems;
 *   Not be subjected to discrimination for the exercise of these rights. We will not deny California residents the use of our service, neither will we provide a different level or quality or services for exercising any of their CCPA rights, unless as permitted under the CCPA.
 
-This Website does not sell nor has it sold in the past 12 months personal information to third parties for monetary or other valuable considerations. We may however disclose certain personal information with third parties, service providers and entities within our corporate group in order to enable them to perform certain services on our behalf and namely to make the Website work properly. Regardless, we respect the California residents' right to exclude personal information from such sharing arrangements and to thereby opt-out of any future sale of their personal information.
+This Website does not sell nor has it sold in the past 12 months personal information to third parties for monetary or other valuable considerations. We may however disclose certain personal information with third parties, service providers and entities within our corporate group in order to enable them to perform certain services on our behalf and namely to make the Website work properly. Regardless, we respect the California residents’ right to exclude personal information from such sharing arrangements and to thereby opt-out of any future sale of their personal information.
 
-If the CCPA is applicable to you and you would like to record such preference, please click on the following link for "Do Not Sell My Personal Information".
+If the CCPA is applicable to you and you would like to exercise your rights, please contact "support@tube8.com".
 
 Changes to Our Privacy Policy
 
