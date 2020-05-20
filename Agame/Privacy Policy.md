@@ -27,16 +27,16 @@ View more results
     *   Baby Hazel: Hair Care
     *   Dove Prom Dolly Dress Up
     *   Mommy BFFs: Pregnant Check-Up
-    *   Princess Style Guide: Sporty Chic - Fashion Game
+    *   Year Round Fashionista: Curly
     *   Car Salon
     *   Goldie: Lip Injections
-    *   Year Round Fashionista: Curly
     *   Ice Slushy Maker
-    *   Dark Chocolate Blackberry Cheesecake: Sara's Cooking Class
+    *   Princess Style Guide: Sporty Chic - Fashion Game
     *   Floral Real Life Manicure
+    *   Dark Chocolate Blackberry Cheesecake: Sara's Cooking Class
     *   Beach Kiss
-    *   Princess Style Vlog: Spring Refreshment
     *   Love Tester 3
+    *   Mermaid Sauna Flirting
     *   How To Become Popular at School with Princess
 *   Racing
     
@@ -56,15 +56,15 @@ View more results
     *   Hill Racing Challenge
     *   Madalin Stunt Cars 2
     *   City Car Stunts 2
-    *   City Stunts
     *   Moto X3M 5: Pool Party
     *   Off-Roader V6
+    *   City Stunts
     *   Real Dog Racing Simulator
     *   Off-Road Cycle 3D
     *   Cars 3D
     *   Stock Car Hero
-    *   Madalin Cars Multiplayer
     *   Xcross Madness
+    *   Madalin Cars Multiplayer
     *   Horse Racing
 *   Shooting
     
@@ -84,9 +84,9 @@ View more results
     *   Shot Trigger
     *   Miami Crime Simulator 3D
     *   Deer Hunter
-    *   Sniper Reloaded
     *   Pixel Gun Apocalypse 3
     *   Archery World Tour
+    *   Sniper Reloaded
     *   CS Portable
     *   Army Force Strike: 3D Shooting Game Online Multiplayer
     *   Hunter 3D
@@ -118,10 +118,10 @@ View more results
     *   Aztec Adventure
     *   TenTrix
     *   Farm Connect 2
-    *   Line Puzzle
     *   Word Wipe
-    *   Mahjong Link
+    *   Line Puzzle
     *   1001 Arabian Nights
+    *   Mahjong Link
 *   Multiplayer
     
     Top Categories
@@ -145,10 +145,10 @@ View more results
     *   Draw and Guess
     *   Pool Clash: 8 Ball Billiards Snooker
     *   Crowd City
-    *   Ludo 4 Players
     *   Wormate.io
-    *   Madalin Cars Multiplayer
+    *   Ludo 4 Players
     *   Skydom
+    *   Madalin Cars Multiplayer
     *   Master Chess Multiplayer
 *   Action
     
@@ -172,12 +172,12 @@ View more results
     *   Stickman Warriors
     *   Short Life
     *   Bomb It 6
-    *   Sniper Reloaded
-    *   Zombies Paradiso
     *   Pixel Gun Apocalypse 3
+    *   Zombies Paradiso
     *   Super Buddy Kick
-    *   CS Portable
     *   Gun Builder 2
+    *   Sniper Reloaded
+    *   CS Portable
 *   Adventure
     
     Top Categories
@@ -197,13 +197,13 @@ View more results
     *   Adam and Eve 3
     *   Adam and Eve 2
     *   Troll Face Quest: Horror 2
-    *   Adam and Eve 4
     *   Dog Simulator: Puppy Craft
+    *   Adam and Eve 4
     *   Adam and Eve
     *   Bob the Robber 4: Season 2 Russia
     *   Dumb Ways to Die: Original
-    *   Chrome Dino
     *   World Crafts
+    *   Chrome Dino
     *   Ouija Voices
     *   Miami Crime Simulator 3D
 *   More
@@ -405,11 +405,6 @@ COMPANY INFO
 *   Cookie Consent
 *   About Us
 
-RESOURCES
-
-*   Advertise with Us
-*   Submit a Game
-
 SUPPORT
 
 *   Help
@@ -424,3 +419,5 @@ Languages
 *   Nederlands
 
 Copyright © 2020 SPIL GAMES All rights reserved.
+
+Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. (e.g IP Address) To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them. Your data may be stored by us and our service providers. In case the applicable data protection laws provide so, you may access, rectify, and erase the data or you may restrict or object to our processing of your data. Please contact us in such event. Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click "ACCEPT" to agree with the above mentioned. You can change your mind and change your consent choices at any time by returning to this site.AcceptSettingsVendor List | Privacy policy | FeaturesA reminder you can control your user privacy preferenceshere
