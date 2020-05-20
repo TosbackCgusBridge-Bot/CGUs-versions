@@ -32,7 +32,7 @@ Receive 60% off all swimsuits. 40% off everything else!
 
 code: SWIMSUIT pin: PROMOTION DETAILS
 
-Customer Service Menu
+Shop Swim Customer Service Menu
 
 Help Center
 
