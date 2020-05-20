@@ -27,17 +27,17 @@ Enable Accessibility
 
 select styles
 
-UP TO 40% OFFOutdoor EntertainingFire up the grill for your barb-e-cuties!select styles
-
-*   Shop All Outdoor Fun
-
-40-50% OFF  
-Women's &. Men's Swimwearselect styles | sale $17.99-$53.99UP TO 20% OFF Blendersselect styles 20% OFF Disney Collection Toys ©Disney | select styles Excluded from coupons.Outdoor Oasis Beach Towelselect stylesUP TO 40% OFFSummer lovin' styles  
+UP TO 40% OFFSummer lovin' styles  
 select styles
 
 *   Shop Now
 
-Women's Dresses starting at $24.99also in women's plus | select stylesWomen's Sandals starting at $19.99select stylesGirls' Dressesstarting at $14.99select stylesGirls' Sandals starting at $19.99select stylesUP TO 50% OFF XersionMotivation to moveselect styles
+Women's Dresses starting at $24.99also in women's plus | select stylesWomen's Sandals starting at $19.99select stylesGirls' Dressesstarting at $14.99select stylesGirls' Sandals starting at $19.99select stylesUP TO 40% OFFOutdoor EntertainingFire up the grill for your barb-e-cuties!select styles
+
+*   Shop All Outdoor Fun
+
+40-50% OFF  
+Women's &. Men's Swimwearselect styles | sale $17.99-$53.99UP TO 20% OFF Blendersselect styles 20% OFF Disney Collection Toys ©Disney | select styles Excluded from coupons.Outdoor Oasis Beach Towelselect stylesUP TO 50% OFF XersionMotivation to moveselect styles
 
 *   Shop Now
 
@@ -52,75 +52,81 @@ UP TO 40% OFFNesting necessities
 SheetsPillowsMattress PadsBlankets &. ThrowsHeat Advisory!Summer's no bummer with these products built to take the heat.Shop Heat-Protecting HaircareShop Summer-Ready Sephora BeautyExcluded from coupon.Learn MoreShop Gift CardsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Liz Claiborne Womens Split Crew Neck Short Sleeve Henley Shirt $12.15with code~$27~10
+*   Home Expressions Solid or Stripe Bath Towel Collection $2.73 - $21.84with code~$6 - $48~533
+*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
+    
+    $20sale
+    
+    ~$124.98~184
+*   JCPenney Home Ultra Performance 575 Sateen Deep Pocket Sheet Set
+    
+    $19.99 - $89.99sale
+    
+    ~$50 - $150~161
 *   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
     $20sale
     
     ~$124.98~131
-*   Nike Revolution 5 Womens Running Shoes
+*   Home Expressions Lisette Rod-Pocket Sheer Panel
     
-    BUY 1 GET 1 50% OFF
+    $9.99 - $19.99sale
     
-    $65
-    
-    14
-*   a.n.a Womens V Neck Sleeveless Tank Top $7.49with code~$13~10
-*   Liz Claiborne Luxury Egyptian Hygrocotton Loops Bath Towel $7.28 - $56.42with code~$16 - $124~130
-*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $4.55 - $32.76with code~$10 - $72~1683
+    ~$20 - $40~1238
+*   Sealy® Davlin LTD Plush Pillowtop - Mattress Only $353.99 - $599with code~$1,030 - $1,820~9
 
 Sponsored Items
 
-*   Circulon® Momentum 11-pc. Nonstick Cookware Set $280with code134
-*   Lock &. Lock 14-pc. Food Container $26.24with code~$50~
+*   Lock &. Lock 10-pc. Food Container $22.49with code~$40~
 *   Waterpik WF-06W010 Whitening Water Flosser
     
     $89.99sale
     
     ~$94~115
-*   Lock &. Lock 10-pc. Food Container $22.49with code~$40~
-*   Farberware Cookstart 15-pc. Cookware Set $84with code61
-*   Ayesha Curry™ Home Collection 2-pc. 9.25" &. 11.5" Skillet Set
-    
-    $80
-    
-    10
-*   Rachael Ray Create Delicious 9.5" Covered Deep Skillet
-    
-    $39.99sale
-    
-    ~$60~31
-*   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $126with code35
-*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $98 - $112with code94
-*   Farberware® Classic Series 15-pc. Stainless Steel Cookware Set $175with code71
-*   Shea Moisture Coconut &. Hibiscus Hair Cream-12 oz. $4.68with code~$12.99~210
-*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $3.96with code~$10.99~86
+*   Lock &. Lock 14-pc. Food Container $26.24with code~$50~
+*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $14.99with code~$30~
+*   Circulon® Momentum 11-pc. Nonstick Cookware Set $280with code134
 *   Shea Moisture Jamaican Black Castor Oil Conditioner - 11 oz. $9.89with code82
 *   Rachael Ray Create Delicious 12.5" Deep Skillet Aluminum Non-Stick Skillet
     
     $39.99sale
     
     ~$60~31
+*   Circulon 11-Pc. Aluminum Non-Stick Cookware Set $420with code27
 *   Circulon® Symmetry 11-pc. Hard-Anodized Cookware Set
     
     $600
     
     117
-*   Tommee Tippee Advanced Anti Colic Baby Bottles – Clear 9 oz
+*   Circulon® Symmetry 10" &. 12" Hard-Anodized French Skillet Set
     
-    $8.99
+    $100
     
-    44
+    160
 *   Circulon Elementum Hard Anodized 10-pc. Cookware Set
     
     $325
     
     76
+*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
+*   Tommee Tippee Advanced Anti Colic Baby Bottles – Clear 9 oz
+    
+    $8.99
+    
+    44
+*   Brim 0.8L Electric Kettle
+    
+    $149.99sale
+    
+    ~$150~21
+*   Lee® Flex Motion Trouser $26.24with code~$50~7
 *   Tommee Tippee Closer to Nature Added Cereal Baby Bottle - Clear 11oz
     
     $7.19clearance
     
     ~$8.99~12
+*   Lee® Wrinkle Free Relaxed Straight Leg Pant $22.49with code~$44~17
+*   Lee® Relaxed Fit Jeans $22.49with code~$44~2285
 *   Lee® Plain Front Relaxed All Day Twill Pant $22.49with code~$44~783
 
 Shop and Save at JCPenney
