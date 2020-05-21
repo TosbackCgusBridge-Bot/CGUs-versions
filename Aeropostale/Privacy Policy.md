@@ -36,7 +36,8 @@ Close submenu ( Girls ) Girls
 Close submenu ( Collections ) Collections
 
 *   View All
-*   🔥 Deals
+*   🔥 Deals Extended
+*   Red White + Blue
 *   Twisted for Tie Dye
 *   Get Cozy
 *   New Arrivals
@@ -65,7 +66,8 @@ Close submenu ( Guys ) Guys
 Close submenu ( Collections ) Collections
 
 *   View All
-*   🔥 Deals
+*   🔥 Deals Extended
+*   Red White + Blue
 *   Twisted for Tie Dye
 *   Get Cozy
 *   New Arrivals
@@ -221,7 +223,8 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
-        *   🔥 Deals
+        *   🔥 Deals Extended
+        *   Red White + Blue
         *   Twisted for Tie Dye
         *   Get Cozy
         *   New Arrivals
@@ -247,7 +250,8 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
-        *   🔥 Deals
+        *   🔥 Deals Extended
+        *   Red White + Blue
         *   Twisted for Tie Dye
         *   Get Cozy
         *   New Arrivals
@@ -378,35 +382,38 @@ precautionary measures in our warehouse to ensure the health and safety of
 our customers and associates. Because of this your shipment may experience  
 delays. Thank you for your patience and understanding. Learn More &. Stay Safe
 
-Ends Today! Ends Today!  
-It's 🔥! Sweet Sweet Summer Sale With
+🔥 Deals Extended For a Limited Time
 
-50-70% Off Everything
+Shop your favorite Aero Shorts &. Tees before they're gone!
 
-&. Blazing-Hot Deals on Aero Shorts, Tees, Tanks &. More!
+🔥 Deals Extended For  
+a Limited Time
 
-50-70% Off Everything
+Shop your favorite Aero Shorts  
+&. Tees before they're gone!
 
-Blazing-Hot Deals on Aero  
-Shorts, Tees, Tanks &. More!
+Shop Girls 🔥 Deals Shop Guys 🔥 Deals
 
-\*Exclusions Apply
+EARLY ACCESS: In Stores &. Online
 
-Shop Girls Shop Guys Shop Girls 🔥 Deals Shop Guys 🔥 Deals Shop Girls Shop Guys Girls 🔥 Deals Guys 🔥 Deals
+Memorial Day Extravaganza Starts Now!
 
-\*Exclusions Apply
+50-70% Off  
+Everything!
+
+Shop Girls Shop Guys
 
 Nice to See You Again!
 
 Certain Aero Locations Are Carefully Reopening
 
-&. offering Free pick up in stores. We're taking extra  
+&. offering FREE storefront pick up. We're taking extra  
 precautions to keep our customers and associates safe.
 
 Nice to See  
 You Again!
 
-&. offering Free pick up in stores. We're taking extra  
+&. offering FREE storefront pick up. We're taking extra  
 precautions to keep our customers and associates safe.
 
 Find A Store Free Store Pick Up Learn More &. Stay Safe Find A Store Free Store Pick Up Learn More &. Stay Safe
@@ -420,16 +427,14 @@ Cozy
 
 Cute &. Cozy
 
-Girls Shorts
-
 Starting at
 
-$15.87
+$13.87
 
 Lounge-worthy softness.  
 New curve loving fits.
 
-Shop Girls Shorts Girls 🔥 Shorts Deals
+Girls Shorts Girls 🔥 Shorts Deals
 
 Super High Rise
 
@@ -558,8 +563,6 @@ Beach Chino
 Cool &.  
 Comfortable
 
-Guys Shorts
-
 Starting at
 
 $15.87
@@ -567,7 +570,7 @@ $15.87
 Next-level of comfort.  
 New Elevated fabric.
 
-Shop Guys Shorts Guys 🔥 Shorts Deals
+Guys Shorts Guys 🔥 Shorts Deals
 
 **🔥 Tees &. Tanks Deals**
 
@@ -710,13 +713,13 @@ Starting at
 
 Girls $14.87
 
-Girls 🔥 Jeans Deals Shop Girls Jeans
+Girls 🔥 Jeans Deals
 
 Starting at
 
 Guys $17.87
 
-Guys 🔥 Jeans Deals Shop Guys Jeans
+Guys 🔥 Jeans Deals
 
 At Aero, we're committed to a better, brighter future.  
 do better, look better, feel better... it's in our jeans.
