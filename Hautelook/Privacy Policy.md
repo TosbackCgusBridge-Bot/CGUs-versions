@@ -9,6 +9,33 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
+    *   Limited-Time Price Drops Up to 75% Off
+    *   Ray-Ban &. More
+    *   Designer Styles Up to 65% Off
+    *   Men's Designer Styles Up to 75% Off
+    *   Designer Shoes Up to 65% Off
+    *   Men's Designer Shoes ft. Bally Up to 60% Off
+    *   Now Trending: Cropped Styles Under $40
+    *   Superfoxx &. More Under $45
+    *   Comfort &. Style: Sleek Shoes Up to 70% Off
+    *   Spring Active Steals Under $25
+    *   Style in a Cinch: Paperbag Pants &. More
+    *   Mustard Seed Starting at $25
+    *   Best Selling Wall Art
+    *   Great Heights: High Heels Up to 65% Off
+    *   Great Heights: Low Heels Up to 65% Off
+    *   Kenneth Cole Reaction Men's Clothing &. More Up to 70% Off
+    *   Kenneth Cole Reaction Men's Shoes
+    *   Schutz Up to 70% Off
+    *   Your Space, Your Style: Home Accents from $10
+    *   Accessory Brands We Love ft. MICHAEL Michael Kors
+    *   Reebok Men's Clothing
+    *   Matt &. Nat Handbags
+    *   Keen Kids
+    
+    *   Tween Scene: Kids' Styles Up to 65% Off
+    *   Rebecca Taylor
+    *   Exclusive Styles from $15 Incl. Plus &. Petites
     *   Kalorik Kitchen Appliances
     *   BergHOFF EuroCAST &. More Up to 50% Off
     *   Sam Edelman Up to 60% Off
@@ -28,56 +55,52 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Summer-Ready Men's Shoes ft. Crocs
     *   Camera Ready: Hair Care &. Tools Up to 50% Off
     *   Sovereign Code Up to 65% Off
-    *   Rachel Rachel Roy Incl. Plus
-    *   Rebecca Taylor
-    
-    *   Exclusive Styles from $15 Incl. Plus &. Petites
-    *   Ones to Watch: Bodysuits from $20
     *   Men's Comfort Shoes ft. Florsheim &. More
+    
     *   Wave Hello: Men's Surf Styles ft. Rip Curl
     *   Refresh Your Space: Home Decor Starting at $15
-    *   Seychelles Up to 60% Off
-    *   Season's Best: Jackets &. Coats Up to 60% Off
     *   Kitchen Blowout ft. Wolf Gourmet &. More
-    *   Women's Shoe Blowout
-    *   Sterling Forever Jewelry Up to 60% Off
     *   Men's Shoe Steals Up to 70% Off
     *   Original Penguin Shoes Up to 65% Off
-    *   Kids' Pajamas Up to 55% Off
     *   Floor Care: bObsweep Up to 75% Off
-    *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
-    *   Spring Style: Activewear Essentials
-    *   Bath &. Body Up to 60% Off
-    *   Home Cooking: Cookware &. More Starting at $13
-    *   Casual Comfort Sneakers &. Sandals from $40
+    *   Refresh Your Routine: Skin Care Starting at $10
+    *   Comforters, Quilts, &. More Up to 55% Off
+    *   Alo
     *   Original Penguin Up to 65% Off
     *   Gear Up for Baby: Diaper Bags, Blankets &. More
-    
     *   Johnston &. Murphy
     *   Aldo Men
     *   Virtual Playdate Essentials ft. Kids' Sets &. Toys
     *   WALLIN &. BROS
-    *   Nike Men Starting at $45
-    *   Nike Kids Starting at $40
-    *   Nike Women's Clothing Starting at $25
-    *   Nike Men's Clothing Starting at $15
-    *   Nike Kids' Clothing Starting at $15
-    *   Alo
-    *   Men's Underwear ft. SAXX
-    *   Nike Women Starting at $40
-    *   Spring Shorts &. More Incl. Plus and Petites
     *   Style Steals Under $20 Incl. Plus &. Petites
+    *   Season's Best: Jackets &. Coats Up to 60% Off
     *   Splendid &. More Up to 60% Off
     *   Maggy London &. London Times Incl. Plus &. Petites
-    *   Lucky Brand Incl. Plus
-    *   Just Like Dad: Men's &. Boys' Suiting Under $250
-    *   Workout Ready: Men's Active Shoes
-    *   Refresh Your Routine: Skin Care Starting at $10
-    *   Comforters, Quilts, &. More Up to 55% Off
+    *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
+    *   Spring Shorts &. More Incl. Plus and Petites
+    *   Spring Style: Activewear Essentials
+    *   Home Cooking: Cookware &. More Starting at $13
 *   WomenShop Sale Events
     
+    *   Limited-Time Price Drops Up to 75% Off
+    *   Ray-Ban &. More
+    *   Designer Shoes Up to 65% Off
+    *   Now Trending: Cropped Styles Under $40
+    *   Superfoxx &. More Under $45
+    *   Comfort &. Style: Sleek Shoes Up to 70% Off
+    *   Spring Active Steals Under $25
+    *   Style in a Cinch: Paperbag Pants &. More
+    *   Mustard Seed Starting at $25
+    *   Great Heights: High Heels Up to 65% Off
+    *   Great Heights: Low Heels Up to 65% Off
+    *   Schutz Up to 70% Off
+    *   Accessory Brands We Love ft. MICHAEL Michael Kors
+    *   Matt &. Nat Handbags
+    *   Rebecca Taylor
+    *   Exclusive Styles from $15 Incl. Plus &. Petites
     *   Sam Edelman Up to 60% Off
     *   Sam Edelman Clothing Up to 60% Off
+    
     *   Velvet Torch Under $35
     *   Spring Lineup: Leather Jackets &. More
     *   Dr. Scholl's Up to 55% Off
@@ -86,111 +109,105 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Season's Best: Bralettes Under $25
     *   Flats for Summer Up to 70% Off
     *   Camera Ready: Hair Care &. Tools Up to 50% Off
-    *   Rachel Rachel Roy Incl. Plus
-    *   Rebecca Taylor
-    *   Exclusive Styles from $15 Incl. Plus &. Petites
-    *   Ones to Watch: Bodysuits from $20
-    *   Seychelles Up to 60% Off
-    *   Season's Best: Jackets &. Coats Up to 60% Off
-    
-    *   Women's Shoe Blowout
-    *   Sterling Forever Jewelry Up to 60% Off
-    *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
-    *   Spring Style: Activewear Essentials
-    *   Bath &. Body Up to 60% Off
-    *   Casual Comfort Sneakers &. Sandals from $40
-    *   Nike Women's Clothing Starting at $25
+    *   Refresh Your Routine: Skin Care Starting at $10
     *   Alo
-    *   Nike Women Starting at $40
-    *   Spring Shorts &. More Incl. Plus and Petites
     *   Style Steals Under $20 Incl. Plus &. Petites
+    *   Season's Best: Jackets &. Coats Up to 60% Off
     *   Splendid &. More Up to 60% Off
     *   Maggy London &. London Times Incl. Plus &. Petites
-    *   Lucky Brand Incl. Plus
-    *   Refresh Your Routine: Skin Care Starting at $10
+    *   KUT from the Kloth &. Democracy Incl. Plus &. Petites
+    *   Spring Shorts &. More Incl. Plus and Petites
+    *   Spring Style: Activewear Essentials
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
     *   Lingerie &. Shapewear
+    *   Jewelry
     *   Accessories
     *   Handbags
+    *   Watches
 *   MenShop Sale Events
     
+    *   Limited-Time Price Drops Up to 75% Off
+    *   Ray-Ban &. More
+    *   Men's Designer Styles Up to 75% Off
+    *   Men's Designer Shoes ft. Bally Up to 60% Off
+    *   Kenneth Cole Reaction Men's Clothing &. More Up to 70% Off
+    *   Kenneth Cole Reaction Men's Shoes
+    *   Reebok Men's Clothing
     *   Father's Day Gifting: Dress Shirts, Ties &. More
     *   Lucky Brand Men Up to 60% Off
     *   Backyard Luau: Men's Hawaiian Shirts Up to 70% Off
+    
     *   Summer-Ready Men's Shoes ft. Crocs
     *   Men's Comfort Shoes ft. Florsheim &. More
     *   Wave Hello: Men's Surf Styles ft. Rip Curl
     *   Men's Shoe Steals Up to 70% Off
     *   Original Penguin Shoes Up to 65% Off
     *   Original Penguin Up to 65% Off
-    
     *   Johnston &. Murphy
     *   Aldo Men
     *   WALLIN &. BROS
-    *   Nike Men Starting at $45
-    *   Nike Men's Clothing Starting at $15
-    *   Men's Underwear ft. SAXX
-    *   Just Like Dad: Men's &. Boys' Suiting Under $250
-    *   Workout Ready: Men's Active Shoes
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Limited-Time Price Drops Up to 75% Off
+    *   Keen Kids
+    *   Tween Scene: Kids' Styles Up to 65% Off
     *   TOMS Kids
     *   Dive into Summer: Kids' Swim from $10
     *   Sovereign Code Up to 65% Off
-    *   Kids' Pajamas Up to 55% Off
     *   Gear Up for Baby: Diaper Bags, Blankets &. More
     *   Virtual Playdate Essentials ft. Kids' Sets &. Toys
-    *   Nike Kids Starting at $40
-    *   Nike Kids' Clothing Starting at $15
-    *   Just Like Dad: Men's &. Boys' Suiting Under $250
     
     Shop By Category
-    *   Boys
     *   Girls
+    *   Boys
     *   Baby
+    *   Toys
     *   Girls' Shoes
     *   Boys' Shoes
-    *   Toys
 *   HomeShop Sale Events
     
+    *   Limited-Time Price Drops Up to 75% Off
+    *   Best Selling Wall Art
+    *   Your Space, Your Style: Home Accents from $10
     *   Kalorik Kitchen Appliances
     *   BergHOFF EuroCAST &. More Up to 50% Off
     *   Refresh Your Space: Home Decor Starting at $15
     *   Kitchen Blowout ft. Wolf Gourmet &. More
     *   Floor Care: bObsweep Up to 75% Off
-    *   Home Cooking: Cookware &. More Starting at $13
     *   Comforters, Quilts, &. More Up to 55% Off
+    *   Home Cooking: Cookware &. More Starting at $13
     
     Shop By Category
+    *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
     *   Luggage &. Travel
-    *   Home Decor
     *   Cleaning &. Organization
     *   Outdoor Living
+    *   Bath
+    *   Holiday Decorations
     *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Limited-Time Price Drops Up to 75% Off
     *   Camera Ready: Hair Care &. Tools Up to 50% Off
-    *   Bath &. Body Up to 60% Off
     *   Refresh Your Routine: Skin Care Starting at $10
     
     Shop By Category
     *   Skin Care
     *   Hair Care
+    *   Makeup
     *   Tools &. Accessories
     *   Bath &. Body
     *   Men’s Grooming
-    *   Makeup
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
