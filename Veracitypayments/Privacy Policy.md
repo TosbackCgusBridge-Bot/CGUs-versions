@@ -1,4 +1,4 @@
-Sales: **855.707.6910**   Support: **800.675.7430**
+Sales: **855.936.2310**   Support: **800.675.7430**
 
 Sign Up Login
 
@@ -173,9 +173,9 @@ Professional Services
 
 **HEADQUARTERS**
 
-400 Northridge Rd. | Suite 1200
+5600 American Blvd W. | Suite 400
 
-Atlanta, GA 30350
+Bloomington, MN 55437
 
 **OPERATIONS**
 
@@ -185,7 +185,7 @@ Bloomington, MN 55431
 
 **CALL US**
 
-**Sales:** 855.707.6910
+**Sales:** 855.936.2310
 
 **Support:** 800.675.7430
 
@@ -229,7 +229,7 @@ CALL US
 
 **Support:** (800) 675-7430
 
-**Sales:** (855) 707-6910
+**Sales:** (855) 936-2310
 
 **Login**
 
