@@ -28,11 +28,11 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive 60% off all swimsuits. 40% off everything else!
+Receive 50% off your order!
 
-code: SWIMSUIT pin: PROMOTION DETAILS
+code: HOLIDAY pin: PROMOTION DETAILS
 
-Shop Swim Customer Service Menu
+We are open and shipping online orders. Retail locations are temporarily closed.  Read More Here. Customer Service Menu
 
 Help Center
 
@@ -330,4 +330,4 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-protected by **reCAPTCHA**Privacy - TermsPrivacy - TermsIndex <iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+protected by **reCAPTCHA**Privacy - TermsPrivacy - TermsIndex
