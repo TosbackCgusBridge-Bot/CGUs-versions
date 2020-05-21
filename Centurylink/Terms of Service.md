@@ -83,6 +83,7 @@ Violations of this AUP may be reported to: abuse@centurylinkservices.net.
 *   CCTS
 *   Contact Us
 *   GDPR
+*   California Privacy Rights (CCPA)
 *   LATAM
 *   Peering Policy
 
