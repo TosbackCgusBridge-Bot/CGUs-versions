@@ -10,7 +10,7 @@ Choosing not to see interest-based ads will not affect other services that use c
 
 We use cookies to manage your choice to not receive interest-based ads. If you delete these cookies or use a different browser, you will have to choose not to receive interest-based ads again. Similarly, if your browser restricts or does not support cookies, we may not be able to remember your choice not to see interest-based ads on that browser. To help avoid having to repeat your choice you can login with your Amazon account and make the selection above to enable us to honor your choice whenever we recognize your Amazon account.
 
-Amazon participates in the Digital Advertising Alliance (DAA) and the Network Advertising Initiative (NAI). You can obtain further information on interest-based ads and opt-out of receiving interest-based ads from third party advertisers and ad networks who are members of the NAI or who follow the DAA’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt out pages on the NAI website and DAA website.
+Amazon participates in the Digital Advertising Alliance (DAA). You can obtain further information on interest-based ads and opt-out of receiving interest-based ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the DAA’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt out pages on the NAI website and DAA website.
 
 Share your feedback
 
