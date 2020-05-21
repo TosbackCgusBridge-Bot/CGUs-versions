@@ -127,25 +127,15 @@ This policy became effective on 2 May 2018.
 *   Terms of Service
 *   Investor Relations
 
-Copyright © 2004 - 2020 ASMALLWORLD AG ×Login Login Forgot Login details? ×Forgot Login Details?
-
-If you are registered with ASMALLWORLD, please enter your email address below and we will send you your login credentials.
-
-Email Address The email address that you have provided does not match any in our database. Please try a different address or contact support@asmallworld.net.
-
-If you can no longer access the email you used to create your account or are experiencing other issues, please email support@asw.com.
-
-×Forgot Login Details? Thank you!
-
-Your username and a temporary password have been emailed to the address you provided. When you receive the message, you can log in and reset your password to one of your choice.
-
-Should you need any other assistance, please contact support@asw.com.
-
-×Error
+Copyright © 2004 - 2020 ASMALLWORLD AG ×Error
 
 An Error Has Occurred.
 
-CloseClose ×Login Login Forgot Login details? ×Forgot Login Details?
+CloseClose Login Login Forgot Login details?
+
+If you need any help creating your account please email support@asw.com
+
+Forgot Login Details?
 
 If you are registered with ASMALLWORLD, please enter your email address below and we will send you your login credentials.
 
@@ -153,7 +143,7 @@ Email Address The email address that you have provided does not match any in our
 
 If you can no longer access the email you used to create your account or are experiencing other issues, please email support@asw.com.
 
-×Forgot Login Details? Thank you!
+Forgot Login Details? Thank you!
 
 Your username and a temporary password have been emailed to the address you provided. When you receive the message, you can log in and reset your password to one of your choice.
 
