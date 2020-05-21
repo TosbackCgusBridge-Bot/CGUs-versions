@@ -1,4 +1,4 @@
-Globe iconLogin iconRecap iconSearch iconTickets icon NewsIn this sectionProbable PitchersTop ProspectsInjury UpdatesTransactionsStarting LineupsHall of FameLongformAwardsMLB DraftAll-Star GameFeaturedPipelinePlay BallField of DreamsTrivia &. QuizzesMLB PhotosOffbeatGlossaryRare FeatsHot Stove TrackerBest of the DecadeVideoIn this sectionMLB At HomeNEW: Advanced Video SearchWatch Live GamesCondensed GamesGame RecapsDaily FastCastInstant ReplayMLB NetworkPodcastsBusiness of BaseballFeaturedMost PopularHome RunsWalk-OffsTop Defensive PlaysGrand SlamsBest of StatcastExtra Inning MomentsChatting CageLegendary MomentsCarry the FreightScoresStats2019 Regular Season Stats2019 Postseason Stats2019 Sortable Team StatsSpring Training Sortable StatsStatcast LeadersBaseball SavantMilestone TrackerTop Prospect StatsOffseason LeaguesGlossaryStandings2020 Spring Training Standings2019 Regular Season Standings2019 Wild Card StandingsAdvanced StandingsSchedule2019 PostseasonImportant DatesProbable PitchersTeam by Team ScheduleNational BroadcastsSunday Night BroadcastsPlayersPlayers A to ZInjury UpdatesDepth ChartsTransactionsStarting LineupsProspect RankingsMobile Player AlertsMLB Players AssociationProbable PitchersPlay BallPlayBall.orgHank Aaron InvitationalVideosPhotosNewsPitch SmartPlay Ball Near YouStates PlayMLB TOURRBIPitch, Hit &. RunJr. Home Run DerbyMLB PipelineYouth AcademiesBreakthrough SeriesElite Development InvitationalUSA BaseballUSA SoftballDream SeriesTrailblazer SeriesFantasyMLB Beat the StreakYahoo Fantasy BaseballR.B.I. Baseball 20MLB Home Run Derby 2020Closer ReportInjury ReportProspect RankingsMLB ChampionsAppsMLBMLB BallparkMiLB First PitchR.B.I. Baseball 20MLB Home Run Derby 2020MLB Beat the StreakMLB FAQsMLB Ballpark FAQsTicketsGeneral Ticket InformationSeason TicketsFan ValueBallpark ToursStubHub.comWorld Baseball ClassicInternational EventsMLB.TVWatch MLB.TVMLB.TV Free PreviewBuy MLB.TV Gift CardsMLB.TV Supported DevicesMLB.TV with Extra InningsMLB.TV Help Center/FAQMLB.TV Blackouts FAQContact UsForgot Password?ShopAuctionAuthenticationAutographedJerseysCapsMen'sWomen'sKidsCollectibles &. MemorabiliaHome &. OfficeGift CertificatesEuropean ShopWinePhoto StoreTeamsAL EastBaltimore OriolesBaltimoreBoston Red SoxBostonNew York YankeesNY YankeesTampa Bay RaysTampa BayToronto Blue JaysTorontoAL CentralChicago White SoxChi White SoxCleveland IndiansClevelandDetroit TigersDetroitKansas City RoyalsKansas CityMinnesota TwinsMinnesotaAL WestHouston AstrosHoustonLos Angeles AngelsLA AngelsOakland AthleticsOaklandSeattle MarinersSeattleTexas RangersTexasNL EastAtlanta BravesAtlantaMiami MarlinsMiamiNew York MetsNY MetsPhiladelphia PhilliesPhiladelphiaWashington NationalsWashingtonNL CentralChicago CubsChi CubsCincinnati RedsCincinnatiMilwaukee BrewersMilwaukeePittsburgh PiratesPittsburghSt. Louis CardinalsSt. LouisNL WestArizona DiamondbacksArizonaColorado RockiesColoradoLos Angeles DodgersLA DodgersSan Diego PadresSan DiegoSan Francisco GiantsSan FranciscoENENES日本語한국어Log inTicketsMLB.TVShopNewsVideoScoresStatsStandingsSchedulePlayersPlay BallFantasyAppsTeamsEN MLB Privacy Policy Privacy Policy The Privacy Policy has been updated as of March 12, 2020. For details on exercising rights under the California Consumer Privacy Act, click here.
+Globe iconLogin iconRecap iconSearch iconTickets icon NewsIn this sectionProbable PitchersTop ProspectsInjury UpdatesTransactionsStarting LineupsHall of FameLongformAwardsMLB DraftAll-Star GameFeaturedPipelinePlay BallField of DreamsTrivia &. QuizzesMLB PhotosOffbeatGlossaryRare FeatsHot Stove TrackerBest of the DecadeVideoIn this sectionMLB At HomeNEW: Advanced Video SearchWatch Live GamesCondensed GamesGame RecapsDaily FastCastInstant ReplayMLB NetworkPodcastsBusiness of BaseballFeaturedMost PopularHome RunsWalk-OffsTop Defensive PlaysGrand SlamsBest of StatcastExtra Inning MomentsChatting CageLegendary MomentsCarry the FreightScoresStats2019 Regular Season Stats2019 Postseason Stats2019 Sortable Team StatsSpring Training Sortable StatsStatcast LeadersBaseball SavantMilestone TrackerTop Prospect StatsOffseason LeaguesGlossaryStandings2020 Spring Training Standings2019 Regular Season Standings2019 Wild Card StandingsAdvanced StandingsSchedule2019 PostseasonImportant DatesProbable PitchersTeam by Team ScheduleNational BroadcastsSunday Night BroadcastsPlayersPlayers A to ZInjury UpdatesDepth ChartsTransactionsStarting LineupsProspect RankingsMobile Player AlertsMLB Players AssociationProbable PitchersPlay BallPlayBall.orgHank Aaron InvitationalVideosPhotosNewsPitch SmartPlay Ball Near YouStates PlayMLB TOURRBIPitch, Hit &. RunJr. Home Run DerbyMLB PipelineYouth AcademiesBreakthrough SeriesElite Development InvitationalUSA BaseballUSA SoftballDream SeriesTrailblazer SeriesFantasyMLB Beat the StreakYahoo Fantasy BaseballR.B.I. Baseball 20MLB Home Run Derby 2020Closer ReportInjury ReportProspect RankingsMLB ChampionsAppsMLBMLB BallparkMiLB First PitchR.B.I. Baseball 20MLB Home Run Derby 2020MLB Beat the StreakMLB FAQsMLB Ballpark FAQsTicketsGeneral Ticket InformationSeason TicketsFan ValueBallpark ToursStubHub.comWorld Baseball ClassicInternational EventsMLB.TVWatch MLB.TVMLB.TV Free PreviewBuy MLB.TV Gift CardsMLB.TV Supported DevicesMLB.TV with Extra InningsMLB.TV Help Center/FAQMLB.TV Blackouts FAQContact UsForgot Password?ShopAuctionAuthenticationAutographedJerseysCapsMen'sWomen'sKidsCollectibles &. MemorabiliaHome &. OfficeGift CertificatesEuropean ShopPhoto StoreTeamsAL EastBaltimore OriolesBaltimoreBoston Red SoxBostonNew York YankeesNY YankeesTampa Bay RaysTampa BayToronto Blue JaysTorontoAL CentralChicago White SoxChi White SoxCleveland IndiansClevelandDetroit TigersDetroitKansas City RoyalsKansas CityMinnesota TwinsMinnesotaAL WestHouston AstrosHoustonLos Angeles AngelsLA AngelsOakland AthleticsOaklandSeattle MarinersSeattleTexas RangersTexasNL EastAtlanta BravesAtlantaMiami MarlinsMiamiNew York MetsNY MetsPhiladelphia PhilliesPhiladelphiaWashington NationalsWashingtonNL CentralChicago CubsChi CubsCincinnati RedsCincinnatiMilwaukee BrewersMilwaukeePittsburgh PiratesPittsburghSt. Louis CardinalsSt. LouisNL WestArizona DiamondbacksArizonaColorado RockiesColoradoLos Angeles DodgersLA DodgersSan Diego PadresSan DiegoSan Francisco GiantsSan FranciscoENENES日本語한국어Log inTicketsMLB.TVShopNewsVideoScoresStatsStandingsSchedulePlayersPlay BallFantasyAppsTeamsEN MLB Privacy Policy Privacy Policy The Privacy Policy has been updated as of March 12, 2020. For details on exercising rights under the California Consumer Privacy Act, click here.
 
 **PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING THIS WEBSITE, APPLICATION OR ANY OTHER MLB ADVANCED MEDIA, L.P. PRODUCT OR SERVICE.**
 
@@ -458,4 +458,61 @@ Connect with MLB
 *   Contact Us
 *   Cookie Settings
 
-© 2020 MLB Advanced Media, LP. All rights reserved. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TGJ9RZ" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MD6MQQP" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+© 2020 MLB Advanced Media, LP. All rights reserved. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TGJ9RZ" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MD6MQQP" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Privacy Preference CenterYour PrivacyYour Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. Privacy Policy
+
+*   Strictly Necessary CookiesStrictly Necessary Cookies Strictly Necessary Cookies
+    
+    These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.    You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+    
+*   Functional CookiesFunctional Cookies Functional Cookies
+    
+    These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages.    If you do not allow these cookies then some or all of these services may not function properly.
+    
+*   Performance CookiesPerformance Cookies Performance Cookies
+    
+    These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.    All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+    
+*   Targeting CookiesTargeting Cookies Targeting Cookies
+    
+    These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.    They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+    
+
+Back ButtonAdvertising CookiesFilter ButtonSelect All VendorsSelect All Hosts
+
+Select All
+
+*   REPLACE-WITH-DYANMIC-HOST-ID33Across33AcrossView Third Party Cookies
+    *   Namecookie nameHostcookie hostDurationcookie durationTypecookie typeCategorycookie categoryDescriptioncookie category
+
+*   REPLACE-WITH-DYANMIC-VENDOR-ID33Across
+    
+    3 Purposes
+    
+    View Privacy Notice
+    
+    Consent Purposes
+    
+    Location Based Ads
+    
+    Consent Allowed
+    
+    Legitimate Interest Purposes
+    
+    Personalize
+    
+    Require Opt-Out
+    
+    Features
+    
+    Location Based Ads
+    
+
+Clear Fliters
+
+Information storage and accessApplyConfirm My Choices Allow All
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Cookies Settings Accept All Cookies
