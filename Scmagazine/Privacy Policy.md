@@ -279,23 +279,23 @@ When it rains, it pours: Today’s cloud asset management challenges
     *   Emailed
     *   Recent
     
-    *   House Intel Committee releases closed-door testimonies from Russia election interference probe
-    *   Ramsay spy framework built to subvert air-gapped defenses
-    *   Burr steps aside as Senate Intel committee chair during coronavirus stock sale probe
-    *   MobiFriends data on 3.6 million users available for download online
-    *   Zero-click vulnerability found in Samsung mobile phones
-    
-    *   VMware issues workarounds for Salt vulnerabilities in vRealize Operations Manager
-    *   Pitney Bowes hit with second ransomware attack
-    *   22 million emails found in mystery open database
-    *   Zero-click vulnerability found in Samsung mobile phones
-    *   Using an SDP client to create a secure, hyperconnected smart city
-    
-    *   Six need-to-know takeaways from the Verizon breach report
-    *   WolfRAT malware targets WhatsApp, Messenger
-    *   British airline easyJet breached, data of 9 million customers compromised
     *   FBI cracks Pensacola shooter's iPhone without Apple's help, discovers al Qaeda connection
-    *   Arkansas, Illinois COVID-19 unemployment websites leak data
+    *   Microsoft again surpasses 100 vulnerabilities on Patch Tuesday
+    *   WolfRAT malware targets WhatsApp, Messenger
+    *   FBI, CISA warn China targeting orgs conducting Covid-19-related vaccine, treatment research
+    *   CISA releases analysis of three Hidden Cobra malware variants
+    
+    *   DHL shipping scam takes a low-pressure approach
+    *   Microsoft again surpasses 100 vulnerabilities on Patch Tuesday
+    *   Thunderbolt ports vulnerable to hands-on hacks
+    *   Mozilla patches three critical vulnerabilities in Firefox
+    *   Pitney Bowes hit with second ransomware attack
+    
+    *   Covid-related malspam campaign impersonates U.S. Treasury to steal taxpayer credentials
+    *   Email phishing scam impersonates LogMeIn to trick remote workers
+    *   Alleged Collection 1 hacker nabbed. ransomware campaign targeting hospitals disrupted
+    *   Bigger budgets have not entailed more security
+    *   Six need-to-know takeaways from the Verizon breach report
 
 Back to Top
 
@@ -328,6 +328,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
-
-You can skip this ad in 2 seconds.
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
