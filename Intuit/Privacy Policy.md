@@ -1,7 +1,6 @@
-Our COVID-19 response  DetailsLast day! EXTRA 30% OFF $75+ with code: BATHPERK Details  
-EXTRA 25% OFF under $75 with code: BATHPERK Details  
-Last day! EXTRA 35% OFF with code: BATHPERK Details  
-Free Shipping Over $49  DetailsOur COVID-19 response  DetailsLast day! EXTRA 30% OFF $75+ with code: BATHPERK Details  
+Our COVID-19 response  DetailsMemorial Day Sale! EXTRA 30% OFF $75+ w/ code: SUNFUN More  
+EXTRA 25% OFF under $75 with code: SUNFUN Details  
+Free Shipping Over $49  DetailsOur COVID-19 response  DetailsMemorial Day Sale! EXTRA 30% OFF $75+ w/ code: SUNFUN More  
 
 Enable Accessibility
 
@@ -23,57 +22,53 @@ Enable Accessibility
 *   Sephora Beauty
 
 \*Select styles | Exclusions apply  
-**UP TO 40% OFF casual apparel**
-
-select styles
-
-UP TO 40% OFFSummer lovin' styles  
-select styles
+ 
 
 *   Shop Now
 
-Women's Dresses starting at $24.99also in women's plus | select stylesWomen's Sandals starting at $19.99select stylesGirls' Dressesstarting at $14.99select stylesGirls' Sandals starting at $19.99select stylesUP TO 40% OFFOutdoor EntertainingFire up the grill for your barb-e-cuties!select styles
+*   $12.99 Women's a.n.a or St. John's Shorts, select styles
+    
+*   $17.99 Men's St. John's Bay Shorts, select styles
+    
+*   $14.99 Girls' Arizona Shorts, select styles
+    
+*   $19.99 Boys' Arizona Shorts, select styles
+    
 
-*   Shop All Outdoor Fun
+*   $5.99 Women's a.n.a or St. John's Bay Tee, select styles
+    
+*   $12.99 Men's St. John's Bay Polo, select styles
+    
+*   $9.99 Girls' Arizona Top, select styles
+    
+*   $8.99 Boys' Arizona Graphic Tee, select styles
+    
 
-40-50% OFF  
-Women's &. Men's Swimwearselect styles | sale $17.99-$53.99UP TO 20% OFF Blendersselect styles 20% OFF Disney Collection Toys ©Disney | select styles Excluded from coupons.Outdoor Oasis Beach Towelselect stylesUP TO 50% OFF XersionMotivation to moveselect styles
+Shop NowSummer beauty savings!The essentials you need to look your bestUP TO 50% OFF Memorial Day Beauty Saleselect styles | excluded from coupons. | while suppies lastUP TO 15% OFF Haircare ProductsFrizz fighters, tress tamers &. moreselect stylesUP TO 60% OFFSunshine's callingTurn your away message onand live it up outside.select styles
 
-*   Shop Now
+*   Shop All Swimwear
 
-25% OFF Men'sNike Apparel
+30% OFFCity Streets Swimwearselect styles30-40% OFFKids Swimwear select stylesUP TO 60% OFFWomen's Swimwearselect styles50% OFF Men's Swimwearselect stylesUP TO 50% OFFAll XersionFor neighborhood walks orlunges in the living room
 
-*   Shop Now
+*   Shop All
 
-UP TO 40% OFFNesting necessities  
-
-*   Shop Healthy Sleep
-
-SheetsPillowsMattress PadsBlankets &. ThrowsHeat Advisory!Summer's no bummer with these products built to take the heat.Shop Heat-Protecting HaircareShop Summer-Ready Sephora BeautyExcluded from coupon.Learn MoreShop Gift CardsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+25% OFF Athletic Shoes For HimExcluded from coupons.25% OFF Athletic Shoes For HerExcluded from coupons.Learn MoreShop Gift CardsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Home Expressions Solid or Stripe Bath Towel Collection $2.73 - $21.84with code~$6 - $48~533
+*   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $14.99with code~$6 - $48~533
 *   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
     $20sale
     
     ~$124.98~184
-*   JCPenney Home Ultra Performance 575 Sateen Deep Pocket Sheet Set
-    
-    $19.99 - $89.99sale
-    
-    ~$50 - $150~162
+*   JCPenney Home Ultra Performance 575 Sateen Deep Pocket Sheet Set $14.99 - $44.99with code~$50 - $150~162
+*   Sealy® Davlin LTD Plush Pillowtop - Mattress Only $353.99 - $599with code~$1,030 - $1,820~9
 *   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
     $20sale
     
     ~$124.98~131
-*   Sealy® Davlin LTD Plush Pillowtop - Mattress Only $353.99 - $599with code~$1,030 - $1,820~9
-*   JCPenney Home Emma Quilt
-    
-    $54.99 - $74.99sale
-    
-    ~$100 - $140~417
+*   JCPenney Home Emma Quilt $41.24 - $56.24with code~$100 - $140~417
 
 Sponsored Items
 
@@ -82,61 +77,60 @@ Sponsored Items
     $149.99sale
     
     ~$150~21
+*   Samsung Galaxy Active 2 40mm Womens Multi-Function Rose Goldtone Smart Watch-Sm-R830nzdaxar
+    
+    $279.99
+    
+    25
 *   Waterpik WF-06W010 Whitening Water Flosser
     
     $89.99sale
     
     ~$94~115
+*   Lee® Plain Front Relaxed All Day Twill Pant $22.49with code~$44~783
+*   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~134
 *   Lee® Flex Motion Trouser
     
     $24.99 - $34.99sale
     
     ~$50~7
+*   Lee® Wrinkle Free Relaxed Straight Leg Pant $22.49with code~$44~17
 *   Lee® Relaxed Fit Jeans $22.49with code~$44~2285
-*   Lee® Plain Front Relaxed All Day Twill Pant $22.49with code~$44~783
-*   Lee® Relaxed All Day Pant - Plus $24.74with code~$48~534
-*   Fisher-Price Classic Xylophone
+*   Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit) $22.49with code~$44~629
+*   Samsung Galaxy Mens Multi-Function Black Smart Watch-Sm-R800nzsaxar
     
-    $15.99
+    $279.99
     
-    7
+    340
 *   Fisher-Price Laugh &. Learn Click &. Learn Laptop
     
     $14.99
     
     10
-*   Fisher-Price Linkimals Smooth Moves Sloth
+*   Lee® Relaxed Fit Straight Leg Jeans - Plus $24.74with code~$48~554
+*   Lee® Relaxed All Day Pant- Tall $24.74with code~$48~110
+*   Fisher-Price Classic Xylophone
     
-    $29.99
+    $15.99
     
-    34
-*   Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit) $22.49with code~$44~629
+    7
 *   Fisher-Price Laugh &. Learn Smart Stages Sis
     
     $19.99
     
     48
-*   Lee® Relaxed Fit Straight Leg Jeans - Plus $24.74with code~$48~554
-*   Fisher-Price Linkimals A To Z Otter
-    
-    $19.99
-    
-    23
-*   Lee® Relaxed All Day Pant- Tall $24.74with code~$48~110
-*   Lock &. Lock 10-pc. Food Container $22.49with code~$40~
-*   Farberware 12-Pc. Cookware Set $62.99with code~$190~51
-*   Fisher-Price Learn with Me Zebra Walker
-    
-    $24.99
-    
-    38
-*   Lee® Instantly Slims Classic Jean- Plus $24.74with code~$48~131
-*   Farberware Cookstart 15-pc. Cookware Set $84with code61
+*   Lock &. Lock 14-pc. Food Container $37.50with code
+*   Lee® Sculpting Pull On Jean - Tall $24.74with code~$48~15
 *   Fisher-Price Laugh &. Learn Smart Stages Puppy
     
     $19.99
     
     60
+*   Samsung Galaxy Active Mens Green Smart Watch-Sm-R500nzgaxar
+    
+    $199.99
+    
+    174
 
 Shop and Save at JCPenney
 
