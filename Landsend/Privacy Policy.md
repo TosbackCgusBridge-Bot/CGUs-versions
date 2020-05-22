@@ -32,7 +32,7 @@ Receive 50% off your order!
 
 code: HOLIDAY pin: PROMOTION DETAILS
 
-We are open and shipping online orders. Retail locations are temporarily closed.  Read More Here. Customer Service Menu
+Customer Service Menu
 
 Help Center
 
@@ -330,4 +330,4 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-protected by **reCAPTCHA**Privacy - TermsPrivacy - TermsIndex
+protected by **reCAPTCHA**Privacy - TermsPrivacy - TermsIndex <iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
