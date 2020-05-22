@@ -1,6 +1,5 @@
 Skip to main content
 
-*   Coronavirus Update
 *   Check Your Symptoms
 *   Find A Doctor
 *   Find A Dentist
