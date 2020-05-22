@@ -556,6 +556,7 @@ Owners
 *   Benefits of Ownership
 *   Service, Parts &. Accessories
 *   Guaranteed Trade-In Program
+*   Trade Up Advantage Program
 *   Vehicle Recalls
 *   Subaru Certified Collision
 
