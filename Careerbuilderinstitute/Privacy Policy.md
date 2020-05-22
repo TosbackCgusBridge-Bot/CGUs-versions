@@ -36,7 +36,7 @@ Instant Notifications
 
 You'll receive push notifications when your resume is viewed, or when new jobs appear in your most recent search. Making it easy for you to jump right back into your job search.
 
-see how you can up your career status Career Development &. Learning How to find a job when unemployment is high Read Article Tips to find a job after college and during a recession Read Article Who’s hiring this week and what the jobs report means for you Read Article Read More Articles Employers Looking to Post a Job?
+see how you can up your career status Career Development &. Learning Companies hiring this week (May 18) Read Article How to find a job when unemployment is high Read Article Tips to find a job after college and during a recession Read Article Read More Articles Employers Looking to Post a Job?
 
 We have end-to-end solutions that can keep up with you and your standards.
 
