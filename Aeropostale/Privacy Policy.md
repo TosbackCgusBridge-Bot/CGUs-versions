@@ -121,16 +121,16 @@ Close submenu ( Guys Jeans ) Guys Jeans
 Close submenu ( Aero World ) Aero World
 
 *   View Home
+*   Noor
+*   Alexio
+*   Conrad
+*   Gabriella
+*   Luis
+*   Teydie
 *   Kristya
 *   Miranda
 *   Claudio
 *   Pipe
-*   Claudia
-*   Korostyle
-*   Logan
-*   Orion
-*   Sina
-*   Winter
 
 *   Eco-Friendly
 
@@ -299,16 +299,16 @@ Menu Find a Store Aeropostale
 *   Aero World
     
     *   View Home
+    *   Noor
+    *   Alexio
+    *   Conrad
+    *   Gabriella
+    *   Luis
+    *   Teydie
     *   Kristya
     *   Miranda
     *   Claudio
     *   Pipe
-    *   Claudia
-    *   Korostyle
-    *   Logan
-    *   Orion
-    *   Sina
-    *   Winter
     
     *   Eco-Friendly
     
@@ -394,7 +394,7 @@ Shop your favorite Aero Shorts
 
 Shop Girls 🔥 Deals Shop Guys 🔥 Deals
 
-EARLY ACCESS: In Stores &. Online
+In Stores &. Online
 
 Memorial Day Extravaganza Starts Now!
 
