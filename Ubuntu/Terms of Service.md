@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Kubernetes GitOps with Azure Arc and Charmed Kubernetes
+*   Innovating and scaling efficiently with Kubernetes and MicroK8s
 *   Experimental feature: progressive releases
-*   Eclipse 2020 IoT developer survey is live
-*   New GPU and GUI features announced for WSL at Build
