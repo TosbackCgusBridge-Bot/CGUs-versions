@@ -1,6 +1,6 @@
 Vimeo Terms of Service Agreement
 
-Last Updated: April 16, 2020
+Last Updated: May 21, 2020
 
 This **Vimeo Terms of Service Agreement** (the “**Agreement**” or “**Terms of Service**”) is made between Vimeo, Inc. (“**Vimeo**,” “**we**,” “**us**,” or “**our**”) and you, our customer (“**you**” or “**your**”). This Agreement governs your use of Vimeo owned-and-operated websites, applications, and embeddable video players (collectively, the “**Services**”). This includes our Vimeo, Vimeo OTT, and Livestream services. Your use of our Magisto, Chant, and Videofy services is governed exclusively by the Vimeo Creator Tools Terms of Service Agreement.
 
@@ -52,11 +52,13 @@ We may restrict bandwidth or charge extra for the following uses of our player o
 
 **Monetization:** We may allow you to sell digital goods or earn money through advertising. Your sales of videos are governed by our Seller Addendum.
 
-**Downloadable Software:** We may offer applications for devices (“**Apps**”) directly or through third-party stores. Apps are governed by our App Addendum.
+**Downloadable Software:** We may offer applications for devices (“**Apps**”) directly or through third-party stores. Subject to your compliance with these Terms of Service, Vimeo grants you a limited, non-exclusive, non-transferable, revocable license to download and use the Apps. We may update Apps from time to time to add new features and/or correct bugs. You shall ensure that you are using the most recent version of the App that is compatible with your device. We cannot guarantee that you will be able to use the most recent version of the App on your device. Apps offered through third-party stores are subject to our Third-Party Service Addendum.
 
 **Developer Tools:** We may offer application programming interfaces (“**APIs**”) that allow developers to build applications connected to our Services. Our APIs and related documentation are governed by our API License Addendum.
 
 **Enterprise Services:** We may offer Services pursuant to an individually-negotiated agreement. Enterprise services are governed by our Enterprise Terms.
+
+**Third Parties:** We may provide links to and integrations with websites or services operated by others. Your use of each such website or service is subject to its terms of service and our Third-Party Service Addendum.
 
 3\. Accounts
 
@@ -126,6 +128,7 @@ You may not submit any content that:
 *   Depicts animal cruelty or extreme violence towards animals;
 *   Promotes fraudulent or dubious business schemes or proposes an unlawful transaction;
 *   Makes false or misleading claims about vaccination safety;
+*   Conveys false or misleading health-related information that has a serious potential to cause public harm;
 *   Claims that mass tragedies are hoaxes or false flag operations;
 *   Depicts or encourages self-harm. or
 *   Violates any applicable law.
@@ -268,11 +271,11 @@ The exclusive means of resolving any Covered Privacy Claim (defined below) shall
 
 **Force Majeure:** Vimeo will not be liable for any delay or failure caused by (a) acts of God/natural disasters (including hurricanes and earthquakes). (b) disease, epidemic, or pandemic. (c) terrorist attack, civil war, civil commotion or riots, armed conflict, sanctions or embargoes. (d) nuclear, chemical, or biological contamination. (e) collapse of buildings, fire, explosion, or accident. (f) labor or trade strikes. (g) interruption, loss, or malfunction of a utility, transportation, or telecommunications service. (h) any order by a government or public authority, including a quarantine, travel restriction, or other prohibition. or (i) any other circumstance not within Vimeo’s reasonable control, whether or not foreseeable (each a “**force majeure event**”). In the event of a force majeure event, Vimeo shall be relieved from full performance of the contractual obligation until the event passes or no longer prevents performance.
 
-**Relationship:** You and Vimeo are independent contractors of one another. neither party is an agent, partner, or joint venturer of the other. This Agreement binds the parties and their successors, personal representatives, and permitted assigns. You may not assign this Agreement to any person whose account has been terminated by Vimeo or who is prohibited from registering. any such assignment will be void.
-
-**Third Parties:** We may provide links to and integrations with websites operated by others. The website operator, not Vimeo, is solely responsible for the content thereof, and your use of each such website will be subject to its terms of service. We may disable integrations with any third party at any time, with or without notice. Except as expressly stated herein, nothing in this Agreement confers any right on any third party.
+**Relationship:** You and Vimeo are independent contractors of one another. neither party is an agent, partner, or joint venturer of the other. This Agreement binds the parties and their successors, personal representatives, and permitted assigns. You may not assign this Agreement to any person whose account has been terminated by Vimeo or who is prohibited from registering. any such assignment will be void. Except as expressly stated herein, nothing in this Agreement confers any right on any third party.
 
 **Entire Agreement:** This Agreement constitutes the entire understanding of the parties and supersedes all prior understandings regarding the subject matter hereof and may not be modified except in accordance with **Section 1** or in a document executed by authorized representatives of Vimeo. If you have a signed agreement with Vimeo, any conflicting term of that agreement will prevail over the terms hereof, but only as to the subject matter of that agreement.
+
+The English version of this Agreement shall control. For convenience, we may provide translated versions of this Agreement.
 
 **Addenda:** This Agreement incorporates the following documents (and no others) by reference:
 
@@ -280,7 +283,7 @@ The exclusive means of resolving any Covered Privacy Claim (defined below) shall
 *   Cookie Policy
 *   Copyright Policy
 *   Government Entity Addendum
-*   App Addendum
+*   Third-Party Service Addendum
 *   Vimeo Create Addendum
 *   Vimeo On Demand Viewer Agreement
 *   Stock Footage License Agreement
