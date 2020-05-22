@@ -34,10 +34,10 @@ Main menu
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 2:12 The Forgotten West Memphis Three Revisiting The 'West Memphis Three' Crime Scene 2:05 Snapped What Happened To Rev. Dwight Moore?
+    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 4:13 Snapped Snapped Bonus: Killer Debra Dillard's Son Opens Up (Season 26, Episode 4) 1:13 Deadly Cults Quadruple Murder In Salida California Was 'Truly A Nightmare On Elm Street'
 *   News
     *   Crime News
-    *   True Crime BuzzJames Hurley Photo: Gallatin County Sheriff’s Office Crime News Grandmother May Face Death For Grandson's Alleged Murder Crime News Alaskan Serial Killer Hunted Down Victims In Wilderness Geoffrey Paschel Photo: Knox County Sheriff's Office Crime News Is '90 Day Fiance' Star Revealing His Full Criminal Past?
+    *   True Crime BuzzRyan And Katie Crime News Woman Recruits Army Buddy To Kill Solider For Insurance Money Jamarquis Black and Pheonecia Ratliff Photo: Facebook Crime News Young Mom Kidnapped, Killed By Ex In Murder-Suicide Heather Grogg and Danielle Tyler Photo: National Center For Missing and Endangered Crime News Women Were Allegedly Killed In Connection To Murder
 *   Podcasts
 *   Detective's Den
 *   Schedule
@@ -88,4 +88,4 @@ Get Involved
 *   Corporate Info
 *   AdChoices
 
-Stay Connected Facebook Twitter Instagram YouTube Newsletter Stay Connected Facebook Twitter Instagram YouTube Newsletter ©2020 Oxygen Media LLC. A Division of NBCUniversal advertisementadvertisementadvertisement
+Stay Connected Facebook Twitter Instagram YouTube Newsletter Stay Connected Facebook Twitter Instagram YouTube Newsletter ©2020 Oxygen Media LLC. A Division of NBCUniversal
