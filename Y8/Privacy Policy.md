@@ -3,17 +3,17 @@
 *   games
 *   videos
 
-New Games Next in  07:11
+New Games Next in  00:00
 
-*   By Date Next addition in 07:11
+*   By Date Next addition in 00:00
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more LIBRARY
 
-*   New Games Next in 07:11
-*   Best of new games 1368 games
-*   Most Popular Games 20955 games
+*   New Games Next in 00:00
+*   Best of new games 1370 games
+*   Most Popular Games 20960 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -21,22 +21,22 @@ Categories &. more LIBRARY
 CATEGORIES
 
 *   For Girls 24,136 games
-*   Driving &. Racing 6,356 games
+*   Driving &. Racing 6,355 games
 *   Strategy &. RPG 3,619 games
 *   Management &. Sim 4,269 games
-*   Thinking 12,628 games
-*   Action &. Adventure 14,604 games
+*   Thinking 12,630 games
+*   Action &. Adventure 14,607 games
 *   Sports 3,322 games
-*   Shooting 9,067 games
+*   Shooting 9,068 games
 *   Fighting 2,071 games
-*   Skill 11,139 games
-*   Arcade &. Classic 9,257 games
+*   Skill 11,142 games
+*   Arcade &. Classic 9,269 games
 *   Fun &. Crazy 4,957 games
 
 Play with friends  
 Powered by Y8 Account 143 Y8 Multiplayer Games 2,223 Y8 High Score Games 1,263 Y8 Achievements Games 895 Y8 Screenshots Games 1,704 Y8 Online Save Games 3,398 All Y8 Games Games Last Highscore:
 
-**138,736** points on Hide Online by abetakakazu
+**193** points on Masked Forces by DAG
 
 Help us improve Bad translation? Social
 
@@ -268,11 +268,32 @@ IX. Contacting Us
 
 If You have any questions, queries, comments, or requests, We are happy to receive and answer them. Please feel free to contact Us by sending an email at privacy@y8.com.
 
-*   Contact Form
+© 2020 Y8.COM. All rights reserved. Y8 Games
+
+*   All Games
+*   New Games
+*   Best of New
+*   Most Popular
+*   All Tags
 *   Upload
-*   Games for Your Website
+
+Updates
+
+*   Blog
+*   Forum
+*   Twitter
+*   Facebook
+*   Instagram
+*   Discord
+
+Company
+
 *   Terms of Use
 *   Privacy Policy
 *   Cookie Policy
+*   Contact Form
+*   Email Us
+
+Follow us
 
 We use cookies for advertising, content recommendations, and traffic measurement. By using this website, you consent to the Privacy Policy and Cookie Policy. Got it 92% Did you like “Park the Taxi” game? Yes No
