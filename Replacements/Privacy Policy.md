@@ -174,7 +174,7 @@ My Account Contact Us Shopping Cart Sign Out
     
     *   Dinnerware Sets &. More
     *   Overstocks
-    *   LookbooksShop dinnerware overstocks &. more >.
+    *   LookbooksShop our Overstocks Memorial Day Event >.
 
 *   Our Story
 *   Services
