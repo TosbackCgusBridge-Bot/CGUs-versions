@@ -1,9 +1,5 @@
-Previous1/2Next
+1/1
 
-*   UPS is open for business: Service impacts related to Coronavirus...More
-*   Flooding is Impacting Areas in Michigan...More
-*   UPS is open for business: Service impacts related to Coronavirus...More
-*   Flooding is Impacting Areas in Michigan...More
 *   UPS is open for business: Service impacts related to Coronavirus...More
 
 Close Skip To Main Content
@@ -176,3 +172,5 @@ Copyright ©1994- 2020 United Parcel Service of America, Inc. All rights reserv
 Close This website uses cookies
 
 We do this to better understand how visitors use our site and to offer you a more personal experience. Please see our Privacy Notice for more information. You can manage your preferences by selecting Cookie Settings.
+
+Play IconFeedback
