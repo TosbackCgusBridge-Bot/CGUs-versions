@@ -30,7 +30,7 @@ Enable Accessibility
     
 *   $17.99 Men's St. John's Bay Shorts, select styles
     
-*   $14.99 Girls' Arizona Shorts, select styles
+*   $21.99 Girls' Arizona Shorts, select styles
     
 *   $19.99 Boys' Arizona Shorts, select styles
     
@@ -48,89 +48,75 @@ Shop NowSummer beauty savings!The essentials you need to look your bestUP TO 50%
 
 *   Shop All Swimwear
 
-30% OFFCity Streets Swimwearselect styles30-40% OFFKids Swimwear select stylesUP TO 60% OFFWomen's Swimwearselect styles50% OFF Men's Swimwearselect stylesUP TO 50% OFFAll XersionFor neighborhood walks orlunges in the living room
+30% OFFCity Streets Swimwearselect styles30-40% OFFKids Swimwear select stylesUP TO 50% OFFWomen's Swimwearselect styles50% OFF Men's Swimwearselect stylesUP TO 50% OFFDress like a pro from the drivingrange to the fairway greens. select styles  
+Shop NowUP TO 50% OFFAll XersionFor neighborhood walks orlunges in the living room
 
 *   Shop All
 
-25% OFF Athletic Shoes For HimExcluded from coupons.25% OFF Athletic Shoes For HerExcluded from coupons.Learn MoreShop Gift CardsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+25% OFF Select Athletic Shoes For HimExcluded from coupons.25% OFF Select Athletic Shoes For HerExcluded from coupons.Learn MoreShop Gift CardsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $14.99with code~$6 - $48~533
+*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Pendant Necklace in Sterling Silver
+    
+    $20sale
+    
+    ~$124.98~137
+*   JCPenney Home Emma Quilt $41.24 - $56.24with code~$100 - $140~417
 *   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
     $20sale
     
     ~$124.98~184
-*   JCPenney Home Ultra Performance 575 Sateen Deep Pocket Sheet Set $14.99 - $44.99with code~$50 - $150~162
-*   Sealy® Davlin LTD Plush Pillowtop - Mattress Only $353.99 - $599with code~$1,030 - $1,820~9
-*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
-    
-    $20sale
-    
-    ~$124.98~131
-*   JCPenney Home Emma Quilt $41.24 - $56.24with code~$100 - $140~417
+*   Liz Claiborne Womens Split Crew Neck Short Sleeve Henley Shirt $8.10with code~$27~10
+*   St. John's Bay Mid Rise Capris $9.74with code~$32~31
+*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $4.49 - $4.50with code~$13~25
 
 Sponsored Items
 
+*   Samsung Galaxy Fit Mens Multi-Function Black Smart Watch-Sm-R370nzkaxar
+    
+    $99.99
+    
+    38
+*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $22.50with code
 *   Brim 0.8L Electric Kettle
     
     $149.99sale
     
     ~$150~21
-*   Samsung Galaxy Active 2 40mm Womens Multi-Function Rose Goldtone Smart Watch-Sm-R830nzdaxar
-    
-    $279.99
-    
-    25
+*   Lee® Wrinkle Free Relaxed Straight Leg Pant $22.49with code~$44~17
 *   Waterpik WF-06W010 Whitening Water Flosser
     
     $89.99sale
     
     ~$94~115
-*   Lee® Plain Front Relaxed All Day Twill Pant $22.49with code~$44~783
-*   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~134
-*   Lee® Flex Motion Trouser
-    
-    $24.99 - $34.99sale
-    
-    ~$50~7
-*   Lee® Wrinkle Free Relaxed Straight Leg Pant $22.49with code~$44~17
-*   Lee® Relaxed Fit Jeans $22.49with code~$44~2285
-*   Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit) $22.49with code~$44~629
-*   Samsung Galaxy Mens Multi-Function Black Smart Watch-Sm-R800nzsaxar
-    
-    $279.99
-    
-    340
-*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
-    
-    $14.99
-    
-    10
-*   Lee® Relaxed Fit Straight Leg Jeans - Plus $24.74with code~$48~554
-*   Lee® Relaxed All Day Pant- Tall $24.74with code~$48~110
-*   Fisher-Price Classic Xylophone
-    
-    $15.99
-    
-    7
 *   Fisher-Price Laugh &. Learn Smart Stages Sis
     
     $19.99
     
     48
-*   Lock &. Lock 14-pc. Food Container $37.50with code
+*   Lee® Flex Motion Straight Leg Pant- Tall $26.24with code~$50~24
+*   Lee® Flex Motion Straight Leg Pant $26.24with code~$50~36
+*   Fisher-Price Classic Xylophone
+    
+    $15.99
+    
+    7
+*   Lee® Relaxed Fit Jeans $22.49with code~$44~2285
 *   Lee® Sculpting Pull On Jean - Tall $24.74with code~$48~15
-*   Fisher-Price Laugh &. Learn Smart Stages Puppy
+*   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~134
+*   Lee® Relaxed Fit Straight Leg Jeans - Plus $24.74with code~$48~554
+*   Lee® Relaxed All Day Pant- Tall $24.74with code~$48~110
+*   Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit) $22.49with code~$44~629
+*   Google Nest Hello Video Doorbell $206.10with code360
+*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
     
-    $19.99
+    $14.99
     
-    60
-*   Samsung Galaxy Active Mens Green Smart Watch-Sm-R500nzgaxar
-    
-    $199.99
-    
-    174
+    10
+*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $83.99with code~$180~55
+*   Google Nest Cam IQ Outdoor Security Camera 2-Pack $629.10with code49
+*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $83.99with code~$180~55
 
 Shop and Save at JCPenney
 
