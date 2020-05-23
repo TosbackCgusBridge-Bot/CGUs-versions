@@ -12,6 +12,7 @@
     *   T.I. &. Tiny: Friends &. Family Hustle
     *   To Catch A Beautician
     *   Wild 'N OutSee all Shows
+*   App
 *   VH100 PODCAST
 *   Watch Live TV
 *   TV Provider Sign Out
@@ -19,6 +20,7 @@
 VH1 MenuVH1
 
 *   ShowsFull EpisodesShows A-ZTV ScheduleBlack Ink Crew New YorkLove &. Hip Hop AtlantaLove &. Hip Hop MiamiRuPaul's Drag RaceRuPaul’s Drag Race All StarsSecret Celebrity RuPaul's Drag RaceT.I. &. Tiny: Friends &. Family HustleTo Catch A BeauticianWild 'N Outsee all Shows
+*   App
 *   VH100 PODCAST
 *   Watch Live TV
 
