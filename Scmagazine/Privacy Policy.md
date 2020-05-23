@@ -279,23 +279,23 @@ When it rains, it pours: Today’s cloud asset management challenges
     *   Emailed
     *   Recent
     
-    *   Vulnerabilities in two Schneider Electric ICS products reminiscent of Stuxnet
     *   Cisco pushes out almost three dozen security updates
-    *   Ransomware attack prompts Texas courts to disable websites, servers
-    *   REvil hackers extort law firm with Lady Gaga, Nicki Minaj, Elton John as clients
+    *   Home Chef confirms data breach after eight million records sold on dark web
+    *   British airline easyJet breached, data of 9 million customers compromised
+    *   Modular backdoor sneaked into video game developers' servers
     *   WeLeakData hack reveals hackers' private messages
     
-    *   VMware issues workarounds for Salt vulnerabilities in vRealize Operations Manager
-    *   Bigger budgets have not entailed more security
-    *   Alleged Collection 1 hacker nabbed. ransomware campaign targeting hospitals disrupted
-    *   Pitney Bowes hit with second ransomware attack
-    *   COVID-19 inspires Nigerian scammers to launch waves of BEC campaigns
-    
-    *   Nigerian ‘Scattered Canary’ gang exploits CARES Act with fraudulent unemployment claims
+    *   First Look: Guardicore Infection Monkey version: 1.7
+    *   Senate passes bipartisan amendment to protect surveillance targets, delays FISA reauthorization
     *   Colorado and Ohio become latest states to disclose PUA program data leaks
-    *   Device owners demand opt-out power from COVID-19 contact tracing apps
-    *   Modular backdoor sneaked into video game developers' servers
-    *   Cybersecurity makes World Economic Forum’s top 10 Covid-19 global fallout list
+    *   Cisco pushes out almost three dozen security updates
+    *   Six need-to-know takeaways from the Verizon breach report
+    
+    *   Attackers' use of virtual machine to hide ransomware is a first, say researchers
+    *   Patch round-up: Cisco repairs RCE bug. notable fixes from VMware, Google, Adobe
+    *   Israeli websites defaced, as more offensive cyber activity flares up in Middle East
+    *   Ratcliffe confirmed as DNI on second nomination
+    *   Achieving “security in sunshine” through a security champions program
 
 Back to Top
 
@@ -328,8 +328,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
