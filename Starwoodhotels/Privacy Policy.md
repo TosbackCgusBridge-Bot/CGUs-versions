@@ -1,4 +1,4 @@
-Skip Main Navigation Menu Marriott Bonvoy
+COVID-19 Updates: Learn about our commitment to cleanliness and our extended cancellation policies . Skip Main Navigation Menu Marriott Bonvoy
 
 *   *   English
 *   Help
@@ -13,7 +13,7 @@ Back
     
     Loading...
     
-    CLOSE
+            CLOSE
 *   Deals &. Packages
     
     Loading...
@@ -578,6 +578,6 @@ Loading...
 
 © 1996 – 2020 Marriott International, Inc. All rights reserved. Marriott Proprietary Information
 
-Terms of Use Program Terms &. Conditions Privacy Center Do Not Sell My Personal Information Digital Accessibility Site Map Help*   Loading...
+Tracking Preferences Terms of Use Program Terms &. Conditions Privacy Center Do Not Sell My Personal Information Digital Accessibility Site Map Help*   Loading...
     
-prod9,CABC777D-C276-54BB-A23E-346256153AD7
+prod8,4466FB0E-38B4-5BA3-8CF8-FBFEFFC229AC
