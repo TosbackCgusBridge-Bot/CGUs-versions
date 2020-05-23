@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Kubernetes on Windows with MicroK8s and WSL 2
 *   Kubernetes GitOps with Azure Arc and Charmed Kubernetes
 *   Innovating and scaling efficiently with Kubernetes and MicroK8s
-*   Experimental feature: progressive releases
