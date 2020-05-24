@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-EXCLUSIVE styles that will keep you living your best styled life. Save on our Gimmicks Collection
+In Season, on SALE. shop new markdowns now
 
 *   Women
 *   Men
