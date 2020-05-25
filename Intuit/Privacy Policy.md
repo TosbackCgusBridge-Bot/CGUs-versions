@@ -7,7 +7,7 @@ Enable Accessibility
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed. Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   Father's Day &. Trending
 *   Home &. Lifestyle
@@ -49,90 +49,78 @@ Shop NowSummer beauty savings!The essentials you need to look your bestUP TO 50%
 *   Shop All Swimwear
 
 30% OFFCity Streets Swimwearselect styles30-40% OFFKids Swimwear select stylesUP TO 50% OFFWomen's Swimwearselect styles50% OFF Men's Swimwearselect stylesUP TO 50% OFFDress like a pro from the drivingrange to the fairway greens. select styles  
-Shop Now25% OFF Select Athletic Shoes For HimExcluded from coupons.25% OFF Select Athletic Shoes For HerExcluded from coupons.UP TO 50% OFFAll XersionFor neighborhood walks orlunges in the living room
+Shop Golf Now25% OFF Select Athletic Shoes For HimExcluded from coupons.25% OFF Select Athletic Shoes For HerExcluded from coupons.UP TO 50% OFFAll XersionFor neighborhood walks orlunges in the living room
 
 *   Shop All
 
 Learn MoreShop Gift CardsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Sealy® Davlin LTD Plush Pillowtop - Mattress Only $353.99 - $599with code~$1,030 - $1,820~10
-*   St. John's Bay-Womens V Neck Short Sleeve T-Shirt $4.49with code~$14~14
-*   Nike Revolution 5 Womens Running Shoes
-    
-    $48.75sale
-    
-    ~$65~14
-*   Liz Claiborne Signature Plush Bath Towel Collection $5.24 - $35.99with code~$12 - $96~534
-*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
-    
-    $20sale
-    
-    ~$124.98~131
-*   a.n.a Womens V Neck Sleeveless Tank Top $8.24with code~$13~10
+*   Liz Claiborne Luxury Egyptian Hygrocotton Loops Bath Towel $5.99 - $41.24with code~$16 - $124~132
+*   JCPenney Home Emma Quilt $41.24 - $56.24with code~$100 - $140~417
+*   St. John's Bay Sleeveless Floral A-Line Dress $16.49with code~$44~2
+*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $4.49 - $4.50with code~$13~25
+*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $4.49 - $28.49with code~$10 - $72~1684
+*   Liz Claiborne Womens Split Crew Neck Short Sleeve Henley Shirt $8.10with code~$27~10
 
 Sponsored Items
 
-*   Waterpik WF-06W010 Whitening Water Flosser
-    
-    $89.99sale
-    
-    ~$94~115
-*   Bissell® ProHeat 2X® Revolution™ Pet Carpet Cleaner
-    
-    $259.99sale
-    
-    ~$309~1229
 *   Samsung Galaxy Fit Mens Multi-Function Black Smart Watch-Sm-R370nzkaxar
     
     $99.99
     
     38
-*   Fisher-Price Laugh &. Learn Smart Stages Sis
-    
-    $19.99
-    
-    48
+*   Google Nest Protect Smoke and Carbon Monoxide Alarm - Battery - 2nd Generation $107.10with code430
 *   Brim 0.8L Electric Kettle
     
     $149.99sale
     
     ~$150~21
+*   Bissell® ProHeat 2X® Revolution™ Pet Carpet Cleaner
+    
+    $259.99sale
+    
+    ~$309~1229
+*   Waterpik WF-06W010 Whitening Water Flosser
+    
+    $89.99sale
+    
+    ~$94~115
+*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $22.50with code
 *   Fisher-Price Laugh &. Learn Smart Stages Puppy
     
     $19.99
     
     60
+*   Fisher-Price Laugh &. Learn Smart Stages Sis
+    
+    $19.99
+    
+    48
+*   Lee® Relaxed Fit Jeans $22.49with code~$44~2285
+*   Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit) $22.49with code~$44~629
+*   Google Nest Hello Video Doorbell $206.10with code360
+*   Farberware Cookstart 15-pc. Cookware Set $62.99with code~$120~61
+*   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~134
 *   Fisher-Price Classic Xylophone
     
     $15.99
     
     7
-*   Lee® Flex Motion Straight Leg Pant $26.24with code~$50~36
-*   Lee® Relaxed All Day Pant - Plus $24.74with code~$48~534
-*   Lee® Relaxed Fit Jeans $22.49with code~$44~2285
-*   Lee® Instantly Slims Classic Jean- Tall $24.74with code~$48~161
-*   Lee® Wrinkle Free Relaxed Straight Leg Pant $22.49with code~$44~17
+*   Lee® Instantly Slims Classic Jean- Plus $24.74with code~$48~131
 *   Fisher-Price Linkimals A To Z Otter
     
     $19.99
     
     23
+*   Google Nest Cam IQ Indoor Security Camera 2-Pack $448.20with code26
 *   Fisher-Price Laugh &. Learn Click &. Learn Laptop
     
     $14.99
     
     10
-*   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~134
-*   Rachael Ray Create Delicious 10.25-Inch Deep Skillet
-    
-    $39.99sale
-    
-    ~$70~22
-*   Lee® Flex Motion Bootcut Jeans $26.24with code~$50~30
-*   Google Nest Hello Video Doorbell $206.10with code360
-*   Lee® Flex Motion Straight Leg Pant- Plus $27.74with code~$54~18
-*   Lee Lee Relaxed Jean Womens Mid Rise Straight Stretch Relaxed Fit Jean - Tall $24.74with code~$48~
+*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $83.99with code~$180~55
+*   Lee® Relaxed Fit Straight Leg Jeans - Plus $24.74with code~$48~554
 
 Shop and Save at JCPenney
 
