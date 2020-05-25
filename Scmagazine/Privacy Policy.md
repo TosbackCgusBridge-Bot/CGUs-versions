@@ -279,16 +279,16 @@ When it rains, it pours: Today’s cloud asset management challenges
     *   Emailed
     *   Recent
     
-    *   CISA releases analysis of three Hidden Cobra malware variants
-    *   WolfRAT malware targets WhatsApp, Messenger
-    *   Colorado, Florida &. Ohio become latest states to disclose PUA program data leaks
-    *   Ramsay spy framework built to subvert air-gapped defenses
-    *   Patch round-up: Cisco repairs RCE bug. notable fixes from VMware, Google, Adobe
-    
+    *   Adobe Reader and Acrobat in the spotlight for Patch Tuesday updates
     *   Attackers' use of virtual machine to hide ransomware is a first, say researchers
-    *   Covid-related malspam campaign impersonates U.S. Treasury to steal taxpayer credentials
-    *   Pitney Bowes hit with second ransomware attack
-    *   Colorado, Florida &. Ohio become latest states to disclose PUA program data leaks
+    *   Home Chef confirms data breach after eight million records sold on dark web
+    *   Patch round-up: Cisco repairs RCE bug. notable fixes from VMware, Google, Adobe
+    *   Achieving “security in sunshine” through a security champions program
+    
+    *   REvil hackers extort law firm with Lady Gaga, Nicki Minaj, Elton John as clients
+    *   Ramsay spy framework built to subvert air-gapped defenses
+    *   Magellan Health warns ransomware attack exposed PII
+    *   Device owners demand opt-out power from COVID-19 contact tracing apps
     *   Patch round-up: Cisco repairs RCE bug. notable fixes from VMware, Google, Adobe
     
     *   Phishing campaigns leverage Google Firebase storage
