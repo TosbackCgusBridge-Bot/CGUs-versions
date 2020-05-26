@@ -1,6 +1,6 @@
 For California Consumers, please click here for information on your rights under the California Consumer Protection Act to access and control the use your data.
 
-**Last Updated: December 26, 2019**
+**Last Updated: May 25, 2020**
 
 Publishers Clearing House ("PCH") respects your privacy. We take seriously our obligation to protect the information or "data" about you that we collect, process or share with others. This Privacy Policy governs all websites and digital properties owned or operated by PCH ("Website") and applies to all registrants, entrants, visitors and other users of such Website ("Users").
 
@@ -106,6 +106,8 @@ We use other third party vendors such as lettershops, e-mail service providers, 
 
 When you register with our Website, we may share your name and information with third parties who may contact you with relevant offers. If you wish to opt out of such exchanges you may click here .
 
+We share information with our service provider LiveRamp. Such information may include your encrypted email, IP address or information about your browser or operating system. LiveRamp may use our first party cookie identifier on your browser to match your shared information to their marketing databases in order to provide back a disguised privacy identifier for our use in real time bidding in digital advertising. These third parties may in turn link further demographic or interest- based information to your browser. To opt out or learn more visit https://liveramp.com/opt\_out/
+
 We may share your personally identifiable information with our affiliates, our technical consultants, auditors, attorneys and other third parties who work with us to make our Website and services available.
 
 6\. What are Cookies and other tracking technologies?
@@ -135,6 +137,8 @@ If you have provided consumer data directly to our third-party marketing partner
 We will retain your data for as long as your account is active and the data is needed for contest processing or to provide you the goods and services that you may have ordered.
 
 If you wish to cancel your account or request that we no longer use your information to provide you services contact us at privacychoices@cc.pch.com . We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We will respond to your request within a reasonable timeframe.
+
+If you wish to access, update or and learn more about the information we may collect about you please contact us at privacychoices@cc.pch.com
 
 Residents of some states have additional rights to control access to and use of their data. Please see the state-specific statements of privacy rights below.
 
