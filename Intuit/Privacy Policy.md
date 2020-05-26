@@ -1,6 +1,5 @@
-Our COVID-19 response  DetailsMemorial Day Sale! EXTRA 30% OFF $75+ w/ code: SUNFUN More  
-EXTRA 25% OFF under $75 with code: SUNFUN Details  
-Free Shipping Over $49  DetailsOur COVID-19 response  DetailsMemorial Day Sale! EXTRA 30% OFF $75+ w/ code: SUNFUN More  
+Our COVID-19 response  Details1 Day! Memorial Day Flash Sale EXTRA 30% OFF w/ code: DEAL4YOU Details  
+Free Shipping Over $49  DetailsOur COVID-19 response  Details1 Day! Memorial Day Flash Sale EXTRA 30% OFF w/ code: DEAL4YOU Details  
 
 Enable Accessibility
 
@@ -44,7 +43,7 @@ Enable Accessibility
 *   $8.99 Boys' Arizona Graphic Tee, select styles
     
 
-Shop NowSummer beauty savings!The essentials you need to look your bestUP TO 50% OFF Memorial Day Beauty Saleselect styles | excluded from coupons. | while suppies lastUP TO 15% OFF Haircare ProductsFrizz fighters, tress tamers &. moreselect stylesUP TO 60% OFFSunshine's callingTurn your away message onand live it up outside.select styles
+Shop NowSummer beauty savings!The essentials you need to look your bestUP TO 50% OFF Memorial Day Beauty Saleselect styles | excluded from coupons. | while supplies lastUP TO 15% OFF Haircare ProductsFrizz fighters, tress tamers &. moreselect stylesUP TO 60% OFFSunshine's callingTurn your away message onand live it up outside.select styles
 
 *   Shop All Swimwear
 
@@ -56,71 +55,75 @@ Shop Golf Now25% OFF Select Athletic Shoes For HimExcluded from coupons.25% OFF 
 Learn MoreShop Gift CardsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Liz Claiborne Luxury Egyptian Hygrocotton Loops Bath Towel $5.99 - $41.24with code~$16 - $124~132
-*   JCPenney Home Emma Quilt $41.24 - $56.24with code~$100 - $140~417
-*   St. John's Bay Sleeveless Floral A-Line Dress $16.49with code~$44~2
-*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $4.49 - $4.50with code~$13~25
-*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $4.49 - $28.49with code~$10 - $72~1684
-*   Liz Claiborne Womens Split Crew Neck Short Sleeve Henley Shirt $8.10with code~$27~10
+*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
+    
+    $20sale
+    
+    ~$124.98~184
+*   Sealy® Davlin LTD Plush Pillowtop - Mattress Only $353.99 - $599with code~$1,030 - $1,820~10
+*   Sealy Essentials™ Ivory Treasure - Mattress Only $149 - $298.99with code~$430 - $920~29
+*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+    
+    $20sale
+    
+    ~$124.98~131
+*   JCPenney Home Emma Quilt $38.49 - $52.49with code~$100 - $140~417
+*   Outdoor Oasis™ Gazebo Netting $105with code46
 
 Sponsored Items
 
-*   Samsung Galaxy Fit Mens Multi-Function Black Smart Watch-Sm-R370nzkaxar
+*   Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set
     
-    $99.99
+    $189.99sale
     
-    38
-*   Google Nest Protect Smoke and Carbon Monoxide Alarm - Battery - 2nd Generation $107.10with code430
-*   Brim 0.8L Electric Kettle
-    
-    $149.99sale
-    
-    ~$150~21
-*   Bissell® ProHeat 2X® Revolution™ Pet Carpet Cleaner
-    
-    $259.99sale
-    
-    ~$309~1229
+    ~$240~192
 *   Waterpik WF-06W010 Whitening Water Flosser
     
     $89.99sale
     
-    ~$94~115
-*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $22.50with code
+    ~$94~116
+*   Google Nest Hello Video Doorbell $206.10with code361
+*   Bissell® ProHeat 2X® Revolution™ Pet Carpet Cleaner
+    
+    $259.99sale
+    
+    ~$309~1234
+*   Lee® Plain Front Relaxed All Day Twill Pant $20.99with code~$44~783
 *   Fisher-Price Laugh &. Learn Smart Stages Puppy
     
     $19.99
     
     60
+*   Samsung Galaxy Fit Mens Multi-Function Black Smart Watch-Sm-R370nzkaxar
+    
+    $99.99
+    
+    38
+*   Lee® Flex Motion Straight Leg Pant $24.49with code~$50~36
+*   Brim 0.8L Electric Kettle
+    
+    $149.99sale
+    
+    ~$150~21
+*   Lee® Relaxed Fit Jeans $20.99with code~$44~2285
 *   Fisher-Price Laugh &. Learn Smart Stages Sis
     
     $19.99
     
     48
-*   Lee® Relaxed Fit Jeans $22.49with code~$44~2285
-*   Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit) $22.49with code~$44~629
-*   Google Nest Hello Video Doorbell $206.10with code360
-*   Farberware Cookstart 15-pc. Cookware Set $62.99with code~$120~61
-*   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~134
-*   Fisher-Price Classic Xylophone
+*   Lee® Instantly Slims Classic Jean- Tall $23.09with code~$48~161
+*   Lee® Relaxed All Day Pant- Tall $23.09with code~$48~110
+*   Farberware 12-Pc. Cookware Set $62.99with code~$190~52
+*   Lee® Relaxed All Day Pant - Plus $23.09with code~$48~534
+*   Lee® Flex Motion Straight Leg Jean
     
-    $15.99
+    $24.99 - $34.99sale
     
-    7
-*   Lee® Instantly Slims Classic Jean- Plus $24.74with code~$48~131
-*   Fisher-Price Linkimals A To Z Otter
-    
-    $19.99
-    
-    23
-*   Google Nest Cam IQ Indoor Security Camera 2-Pack $448.20with code26
-*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
-    
-    $14.99
-    
-    10
+    ~$50~104
 *   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $83.99with code~$180~55
-*   Lee® Relaxed Fit Straight Leg Jeans - Plus $24.74with code~$48~554
+*   Lee® Flex Motion Straight Leg Pant- Plus $25.89with code~$54~18
+*   Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit) $20.99with code~$44~629
+*   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~134
 
 Shop and Save at JCPenney
 
