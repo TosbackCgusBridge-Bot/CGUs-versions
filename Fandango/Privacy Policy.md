@@ -20,6 +20,7 @@ A Message to Our Movie Fans Read More Gift Cards | Offers | Sign In Sign Out
     *   Wonder Woman 1984
     *   Antebellum
     *   A Quiet Place Part II (2020)
+    *   Candyman (2020)
     *   See All Coming Soon
     
     Explore More
