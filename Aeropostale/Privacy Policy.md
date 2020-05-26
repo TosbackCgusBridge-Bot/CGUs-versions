@@ -382,24 +382,24 @@ precautionary measures in our warehouse to ensure the health and safety of
 our customers and associates. Because of this your shipment may experience  
 delays. Thank you for your patience and understanding. Learn More &. Stay Safe
 
-🔥 Deals Extended For a Limited Time
+Last Chance 🔥 Deals!
 
 Shop your favorite Aero Shorts &. Tees before they're gone!
 
-🔥 Deals Extended For  
-a Limited Time
+Last Chance 🔥 Deals!
 
 Shop your favorite Aero Shorts  
 &. Tees before they're gone!
 
-Shop Girls 🔥 Deals Shop Guys 🔥 Deals
+Shop Girls 🔥 Deals Shop Guys 🔥 Deals ENDS  
+TODAY!
 
-In Stores &. Online
-
-Memorial Day Extravaganza Starts Now!
+Memorial Day Extravaganza!
 
 50-70% Off  
 Everything!
+
+In Stores &. Online
 
 Shop Girls Shop Guys
 
