@@ -81,7 +81,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 520 8074 1 855 520 8074
+    1 855 273 7104 1 855 273 7104
     
 
 *   Solutions By Function
@@ -149,7 +149,7 @@ Search
 
 *   Become a Client
     
-    1 855 520 8074 1 855 520 8074
+    1 855 273 7104 1 855 273 7104
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
