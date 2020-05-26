@@ -279,17 +279,17 @@ When it rains, it pours: Today’s cloud asset management challenges
     *   Emailed
     *   Recent
     
-    *   Adobe Reader and Acrobat in the spotlight for Patch Tuesday updates
-    *   Attackers' use of virtual machine to hide ransomware is a first, say researchers
-    *   Home Chef confirms data breach after eight million records sold on dark web
-    *   Patch round-up: Cisco repairs RCE bug. notable fixes from VMware, Google, Adobe
-    *   Achieving “security in sunshine” through a security champions program
+    *   REvil attackers who threatened celebrity law firm, Trump, strike food distributor
+    *   WeLeakData hack reveals hackers' private messages
+    *   FBI, CISA warn China targeting orgs conducting Covid-19-related vaccine, treatment research
+    *   VMware issues workarounds for Salt vulnerabilities in vRealize Operations Manager
+    *   Colorado, Florida &. Ohio become latest states to disclose PUA program data leaks
     
-    *   REvil hackers extort law firm with Lady Gaga, Nicki Minaj, Elton John as clients
-    *   Ramsay spy framework built to subvert air-gapped defenses
-    *   Magellan Health warns ransomware attack exposed PII
     *   Device owners demand opt-out power from COVID-19 contact tracing apps
-    *   Patch round-up: Cisco repairs RCE bug. notable fixes from VMware, Google, Adobe
+    *   22 million emails found in mystery open database
+    *   Pitney Bowes hit with second ransomware attack
+    *   FBI, CISA warn China targeting orgs conducting Covid-19-related vaccine, treatment research
+    *   Six need-to-know takeaways from the Verizon breach report
     
     *   Phishing campaigns leverage Google Firebase storage
     *   Attackers' use of virtual machine to hide ransomware is a first, say researchers
@@ -328,4 +328,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+
+You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
