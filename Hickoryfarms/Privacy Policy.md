@@ -9,14 +9,14 @@ close
     *   Gift Towers &. Crates
     *   California Gift Baskets
     
-    Occasions*   Memorial Day
+    Occasions*   Father's Day Gifts
     *   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
     *   Graduation Gifts
     *   Thinking of You
     *   Sympathy Gifts
-    *   Care PackagesMost Popular Memorial Day Wine Gift Baskets
+    *   Care PackagesMost Popular Father's Day Gifts Wine Gift Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Cheese Gifts
@@ -77,8 +77,7 @@ close
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Memorial Day
-    *   Father's Day Gifts
+    View All Categories Shop by Category*   Father's Day Gifts
     
     Occasions*   Birthday Gifts
     *   Thank You Gifts
@@ -86,7 +85,7 @@ close
     *   Graduation Gifts
     *   Thinking of You
     *   Sympathy Gifts
-    *   Care PackagesMost Popular Memorial Day Gifts for All Occasions
+    *   Care PackagesMost Popular Father's Day Gifts Gifts for All Occasions
 *   Business Gifts
     View All Categories Shop by Category*   Thank You Gifts
     *   Birthday Gifts
@@ -96,7 +95,7 @@ close
     *   Sympathy GiftsMost Popular Premium Wine Gifts
 *   Sale
 
-1.800.753.8558 Business Gifts Skip to content Menu 0 Sign In Search Catalog Catalog Navigation close
+1.800.753.8558 Business Gifts Free standard shipping on select gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation close
 
 *   Gift Baskets
     
@@ -107,14 +106,14 @@ close
     *   Gift Towers &. Crates
     *   California Gift Baskets
     
-    Occasions*   Memorial Day
+    Occasions*   Father's Day Gifts
     *   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
     *   Graduation Gifts
     *   Thinking of You
     *   Sympathy Gifts
-    *   Care PackagesMost Popular Memorial Day Wine Gift Baskets
+    *   Care PackagesMost Popular Father's Day Gifts Wine Gift Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Cheese Gifts
@@ -175,8 +174,7 @@ close
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Memorial Day
-    *   Father's Day Gifts
+    View All Categories Shop by Category*   Father's Day Gifts
     
     Occasions*   Birthday Gifts
     *   Thank You Gifts
@@ -184,7 +182,7 @@ close
     *   Graduation Gifts
     *   Thinking of You
     *   Sympathy Gifts
-    *   Care PackagesMost Popular Memorial Day Gifts for All Occasions
+    *   Care PackagesMost Popular Father's Day Gifts Gifts for All Occasions
 *   Business Gifts
     View All Categories Shop by Category*   Thank You Gifts
     *   Birthday Gifts
