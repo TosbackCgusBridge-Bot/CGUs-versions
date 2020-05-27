@@ -121,6 +121,7 @@ Learn about VPN
 *   No Log Policy
 *   Streaming with HMA VPN
 *   Watch Amazon Prime with HMA VPN
+*   Watch Bundesliga with HMA VPN
 
 Help
 
