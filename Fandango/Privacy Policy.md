@@ -49,7 +49,7 @@ A Message to Our Movie Fans Read More Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   Check Out This Behind the Scenes Look at 'Bad Boys For Life' Read More
-    *   What to Watch on FandangoNOW: ‘Scoob!,’ ‘The Painter and the Thief’ and Movies to Watch for Memorial Day Read More
+    *   What to Watch on FandangoNOW: ‘The Hunt’ and ‘Never Rarely Sometimes Always’ Are New to Own Digitally Read More
     *   Know Before You Watch: ‘Trolls World Tour’ Read More
     
     Explore Content
