@@ -1,12 +1,14 @@
-Our COVID-19 response  Details1 Day! Memorial Day Flash Sale EXTRA 30% OFF w/ code: DEAL4YOU Details  
-Free Shipping Over $49  DetailsOur COVID-19 response  Details1 Day! Memorial Day Flash Sale EXTRA 30% OFF w/ code: DEAL4YOU Details  
+Our COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: 7NEWLOOK Details  
+EXTRA 25% OFF under $75 with code: 7NEWLOOK Details  
+St. John’s Bay Flash Sale! EXTRA 40% OFF w/ code: 7NEWLOOK Details  
+Free Shipping Over $49  DetailsOur COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: 7NEWLOOK Details  
 
 Enable Accessibility
 
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed. Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   Father's Day &. Trending
 *   Home &. Lifestyle
@@ -20,110 +22,102 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-\*Select styles | Exclusions apply  
- 
-
-*   Shop Now
-
-*   $12.99 Women's a.n.a or St. John's Shorts, select styles
-    
-*   $17.99 Men's St. John's Bay Shorts, select styles
-    
-*   $21.99 Girls' Arizona Shorts, select styles
-    
-*   $19.99 Boys' Arizona Shorts, select styles
-    
-
-*   $5.99 Women's a.n.a or St. John's Bay Tee, select styles
-    
-*   $12.99 Men's St. John's Bay Polo, select styles
-    
-*   $9.99 Girls' Arizona Top, select styles
-    
-*   $8.99 Boys' Arizona Graphic Tee, select styles
-    
-
-Shop NowSummer beauty savings!The essentials you need to look your bestUP TO 50% OFF Memorial Day Beauty Saleselect styles | excluded from coupons. | while supplies lastUP TO 15% OFF Haircare ProductsFrizz fighters, tress tamers &. moreselect stylesUP TO 60% OFFSunshine's callingTurn your away message onand live it up outside.select styles
-
-*   Shop All Swimwear
-
-30% OFFCity Streets Swimwearselect styles30-40% OFFKids Swimwear select stylesUP TO 50% OFFWomen's Swimwearselect styles50% OFF Men's Swimwearselect stylesUP TO 50% OFFDress like a pro from the drivingrange to the fairway greens. select styles  
-Shop Golf Now25% OFF Select Athletic Shoes For HimExcluded from coupons.25% OFF Select Athletic Shoes For HerExcluded from coupons.UP TO 50% OFFAll XersionFor neighborhood walks orlunges in the living room
+UP TO 30% OFFKitchen essentials to takethe stress out of cooking  
 
 *   Shop All
 
-Learn MoreShop Gift CardsSelections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
-Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+Kitchen Appliances CookwareUP TO 60% OFFSunshine's callingTurn your away message onand live it up outside.select styles
 
+*   Shop All Swimwear
+
+30% OFFCity Streets Swimwearselect styles30-40% OFFKids Swimwear select stylesUP TO 50% OFFWomen's Swimwearselect styles30% OFF Men's Swimwearselect styles25% OFF Select Athletic Shoes For HimExcluded from coupons.25% OFF Select Athletic Shoes For HerExcluded from coupons.UP TO 50% OFFAll XersionFor neighborhood walks orlunges in the living room
+
+*   Shop All
+
+UP TO 50% OFFDress like a pro from the drivingrange to the fairway greens. select styles  
+Shop Golf NowHeat Advisory!Summer's no bummer with these products built to take the heat.Shop Heat-Protecting HaircareShop Summer-Ready Sephora BeautyExcluded from coupon.Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+Learn MoreShop Gift Cards Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+
+*   Liz Claiborne Signature Plush Bath Towel Collection $5.24 - $35.99with code~$12 - $96~534
+*   Sealy® Davlin LTD Plush Pillowtop - Mattress Only $353.99 - $599with code~$1,030 - $1,820~10
 *   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
-    $20sale
+    $124.98
     
-    ~$124.98~184
-*   Sealy® Davlin LTD Plush Pillowtop - Mattress Only $353.99 - $599with code~$1,030 - $1,820~10
-*   Sealy Essentials™ Ivory Treasure - Mattress Only $149 - $298.99with code~$430 - $920~29
+    184
+*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $6.74with code~$13~26
+*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $4.49 - $28.49with code~$10 - $72~1684
 *   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
-    $20sale
+    $124.98
     
-    ~$124.98~131
-*   JCPenney Home Emma Quilt $38.49 - $52.49with code~$100 - $140~417
-*   Outdoor Oasis™ Gazebo Netting $105with code46
+    131
 
 Sponsored Items
 
-*   Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set
-    
-    $189.99sale
-    
-    ~$240~192
-*   Waterpik WF-06W010 Whitening Water Flosser
-    
-    $89.99sale
-    
-    ~$94~116
-*   Google Nest Hello Video Doorbell $206.10with code361
-*   Bissell® ProHeat 2X® Revolution™ Pet Carpet Cleaner
-    
-    $259.99sale
-    
-    ~$309~1234
-*   Lee® Plain Front Relaxed All Day Twill Pant $20.99with code~$44~783
-*   Fisher-Price Laugh &. Learn Smart Stages Puppy
-    
-    $19.99
-    
-    60
 *   Samsung Galaxy Fit Mens Multi-Function Black Smart Watch-Sm-R370nzkaxar
     
     $99.99
     
     38
-*   Lee® Flex Motion Straight Leg Pant $24.49with code~$50~36
+*   Google Nest Hello Video Doorbell $206.10with code361
+*   Waterpik WF-06W010 Whitening Water Flosser
+    
+    $89.99sale
+    
+    ~$94~116
+*   Bissell® SpinWave® Hard Floor Spin Mop
+    
+    $129
+    
+*   Dyson® V8 Animal Cord-Free Vacuum
+    
+    $569.99sale
+    
+    ~$669~183
 *   Brim 0.8L Electric Kettle
     
     $149.99sale
     
     ~$150~21
-*   Lee® Relaxed Fit Jeans $20.99with code~$44~2285
 *   Fisher-Price Laugh &. Learn Smart Stages Sis
     
     $19.99
     
     48
-*   Lee® Instantly Slims Classic Jean- Tall $23.09with code~$48~161
-*   Lee® Relaxed All Day Pant- Tall $23.09with code~$48~110
-*   Farberware 12-Pc. Cookware Set $62.99with code~$190~52
-*   Lee® Relaxed All Day Pant - Plus $23.09with code~$48~534
-*   Lee® Flex Motion Straight Leg Jean
+*   Lee® Flex Motion Bootcut Jeans $26.24with code~$50~30
+*   Fisher-Price Laugh &. Learn Smart Stages Puppy
     
-    $24.99 - $34.99sale
+    $19.99
     
-    ~$50~104
-*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $83.99with code~$180~55
-*   Lee® Flex Motion Straight Leg Pant- Plus $25.89with code~$54~18
-*   Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit) $20.99with code~$44~629
+    60
+*   Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit) $22.49with code~$44~629
+*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
+    
+    $14.99
+    
+    10
+*   Lee® Relaxed All Day Pant - Plus $24.74with code~$48~534
+*   Fisher-Price Classic Xylophone
+    
+    $15.99
+    
+    7
+*   Lee® Relaxed Fit Jeans $22.49with code~$44~2285
+*   Lee® Plain Front Relaxed All Day Twill Pant $22.49with code~$44~783
+*   Lee Lee Relaxed Jean Womens Mid Rise Straight Stretch Relaxed Fit Jean - Tall $24.74with code~$48~
 *   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~134
+*   Fisher-Price Linkimals A To Z Otter
+    
+    $19.99
+    
+    23
+*   Rachael Ray Create Delicious 9.5" Covered Deep Skillet
+    
+    $39.99sale
+    
+    ~$60~31
+*   Lee® Instantly Slims Classic Jean- Tall $24.74with code~$48~161
 
 Shop and Save at JCPenney
 
