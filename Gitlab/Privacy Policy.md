@@ -6,21 +6,9 @@ GitLab is an open source project and collaborative community, as well as a compa
 
 Data Protection
 
-Oversight of Data Security is handled by GitLab's respective Data Protection Officers. Should you wish to make modifications, deletions, or additions to any personal data you believe to be captured by GitLab, or if you have any general security concerns, please contact the Data Protection Office (DPO) for your respective territory at the following email address:
+Oversight of Data Security is handled by GitLab's respective Data Protection Officers. Should you wish to make modifications, deletions, or additions to any personal data you believe to be captured by GitLab, or if you have any general security concerns, please contact the Data Protection Office (DPO) for your respective territory at \[dpo@gitlab.com\](mailto:dpo@gitlab.com).
 
-GitLab Security.
-
-For the Americas:
-
-Johnathan Hunt Jeff Burrows.
-
-For Europe and the Middle East:
-
-Jan Urbanc.
-
-For Asia Pacific:
-
-Robert Mitchell. What Information GitLab Collects and Why Information from Website Visitors
+What Information GitLab Collects and Why Information from Website Visitors
 
 Like most website operators, GitLab collects basic non-personally-identifying information from Website visitors of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. We collect this information to better understand how visitors use the Website, to improve our Websites and experience for visitors, and to monitor the security of the Websites. From time to time, GitLab may publicly release non-personally-identifying information collected from Website visitors in the aggregate, e.g., by publishing a report on trends in the usage of the Website.
 
