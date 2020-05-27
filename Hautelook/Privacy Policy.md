@@ -9,195 +9,181 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
+    *   Home Decor Refresh: Planters &. More
+    *   $35 &. Under: Entrance-Making Doormats
+    *   Badgley Mischka &. Jewel Badgley Mischka Up to 65% Off
+    *   Linea Paolo Up to 65% Off
+    *   Give Sweats a Break: Men's Comfort Jeans
+    *   Abound Starting at $15
+    *   IT Cosmetics
+    *   Stack Up: Bracelets &. Rings
+    *   Style in a Cinch: Belts for Every Look
+    *   Make It Strappy: Slingbacks &. Gladiator Sandals
+    *   Best of Hair Care Under $20
+    *   Kick Off Summer: Girls' Dresses Up to 60% Off
+    *   Kick Off Summer: Boys' Looks Up to 60% Off
+    *   All Under $30: Girls' Dress Shoes
+    *   Boys' Dress Shoes Starting at $25
     *   TUMI Handbags
+    *   Wireless Earbuds &. More Up to 75% Off
+    *   Long Weekend Steals: Men's Styles Up to 80% Off
     *   Urban Decay Up to 50% Off
+    
     *   Naked Zebra from $25
-    *   Summer Swim Faves: Vitamin A, ViX &. More
     *   Summer Style: Straw Handbags &. More
     *   Complete the Look: Jackets Up to 70% Off
-    *   Scotch &. Soda Men Up to 60% Off
     *   Dress It Up: Men's Shoes ft. Gordon Rush
-    *   Boots Up to 65% Off
-    *   Sandals Up to 65% Off
     *   Backyard Glam: Summer Jewelry
-    *   Now &. Zen: Yogawear Starting at $20
-    *   Kids' Active Styles Starting at $12
+    *   Sandals Up to 65% Off
+    *   Boots Up to 65% Off
     *   Tommy Hilfiger Men's Shoes from $35
     *   Cozy Throws from $20
-    *   All Under $35: Tommy Hilfiger Kids' Shoes
     *   Fragrances for Him Under $30
+    *   All Under $35: Tommy Hilfiger Kids' Shoes
     *   Tissot Watches Up to 50% Off
-    *   Dive into Summer: Swim Under $30
-    *   Caslon &. Halogen Up to 60% Off Incl. Plus &. Petites
-    *   Sleep Essentials: Kids' PJs &. More Up to 55% Off
-    
-    *   Pet Accessories Up to 56% Off
-    *   Day &. Mood Handbags
+    *   Summer Swim Faves: Vitamin A, ViX &. More
+    *   Scotch &. Soda Men Up to 60% Off
+    *   Now &. Zen: Yogawear Starting at $20
+    *   Kids' Active Styles Starting at $12
+    *   Wusthof Cutlery: Classic Collection Up to 50% Off
     *   Maison Forte Up to 50% Off
     *   Best of Skin Care: Dr. Jart &. More
-    *   Dooney &. Bourke
-    *   7 For All Mankind Up to 70% Off
-    *   7 For All Mankind Men Up to 60% Off
-    *   NANETTE nanette lepore Incl. Plus
-    *   Scotch &. Soda and More
-    *   Catch Some Waves: Active Swim Up to 60% Off
-    *   Skirts Under $30 Incl. Plus &. Petites
-    *   Summer Refresh: Men's Sneakers at $35
-    *   Intimates and Sleep Under $30
-    *   Fresh Finds: Flat Sandals Up to 60% Off
-    *   $20 &. Under: Glam Beauty Finds &. More
-    *   ECCO for Her Up to 55% Off
-    *   Something for Your BFF: Pet Accessories from $10
-    *   Wusthof Cutlery: Classic Collection Up to 50% Off
-    *   Wireless Earbuds &. More Up to 75% Off
-    *   Easy On, Easy Off: Mules Up to 55% Off
-    *   Men's Shoes Up to 70% Off
     
-    *   Kids' Shoe Steals Up to 65% Off
-    *   Long Weekend Steals: Men's Styles Up to 80% Off
-    *   Summer Sneakers Up to 60% Off
-    *   English Laundry Up to 60% Off
+    *   Summer Refresh: Men's Sneakers at $35
+    *   $20 &. Under: Glam Beauty Finds &. More
+    *   Something for Your BFF: Pet Accessories from $10
     *   Ted Baker London Men's Shoes Up to 55% Off
-    *   Trending Now: Kids' Loungewear Up to 60% Off
     *   Great Greenery: Planters &. Faux Plants from $20
-    *   Father's Day Finds: Men's Shoes ft. Ben Sherman
     *   Beauty Best Sellers
-    *   Sleek Sneakers for Him ft. K-Swiss
     *   Luxe Faux Fur Pillows &. More
-    *   Luxe Bath &. Body ft. Molton Brown
-    *   Fragrances for Her Starting at $20
     *   Best Selling Wall Art
     *   Your Space, Your Style: Home Accents from $10
-    *   Kalorik Kitchen Appliances
-    *   BergHOFF EuroCAST &. More Up to 50% Off
     *   Layer It On: Necklaces
     *   Luxe Towel Sets Up to 75% Off
-    *   Ted Baker London Shoes Up to 60% Off
+    *   Men's Shoes Up to 70% Off
+    *   Kids' Shoe Steals Up to 65% Off
+    *   Aratta Up to 70% Off
+    *   Kenneth Cole New York Men's Shoes
+    *   Sleep Essentials: Kids' PJs &. More Up to 55% Off
+    *   Pet Accessories Up to 56% Off
 *   WomenShop Sale Events
     
+    *   Badgley Mischka &. Jewel Badgley Mischka Up to 65% Off
+    *   Linea Paolo Up to 65% Off
+    *   Abound Starting at $15
+    *   IT Cosmetics
+    *   Stack Up: Bracelets &. Rings
+    *   Style in a Cinch: Belts for Every Look
+    *   Make It Strappy: Slingbacks &. Gladiator Sandals
+    *   Best of Hair Care Under $20
     *   TUMI Handbags
     *   Urban Decay Up to 50% Off
     *   Naked Zebra from $25
-    *   Summer Swim Faves: Vitamin A, ViX &. More
     *   Summer Style: Straw Handbags &. More
     *   Complete the Look: Jackets Up to 70% Off
-    *   Boots Up to 65% Off
-    *   Sandals Up to 65% Off
+    
     *   Backyard Glam: Summer Jewelry
-    *   Now &. Zen: Yogawear Starting at $20
+    *   Sandals Up to 65% Off
+    *   Boots Up to 65% Off
     *   Fragrances for Him Under $30
     *   Tissot Watches Up to 50% Off
-    *   Dive into Summer: Swim Under $30
-    *   Caslon &. Halogen Up to 60% Off Incl. Plus &. Petites
-    *   Pet Accessories Up to 56% Off
-    *   Day &. Mood Handbags
+    *   Summer Swim Faves: Vitamin A, ViX &. More
+    *   Now &. Zen: Yogawear Starting at $20
     *   Best of Skin Care: Dr. Jart &. More
-    
-    *   Dooney &. Bourke
-    *   7 For All Mankind Up to 70% Off
-    *   NANETTE nanette lepore Incl. Plus
-    *   Scotch &. Soda and More
-    *   Catch Some Waves: Active Swim Up to 60% Off
-    *   Skirts Under $30 Incl. Plus &. Petites
-    *   Intimates and Sleep Under $30
-    *   Fresh Finds: Flat Sandals Up to 60% Off
     *   $20 &. Under: Glam Beauty Finds &. More
-    *   ECCO for Her Up to 55% Off
-    *   Easy On, Easy Off: Mules Up to 55% Off
-    *   Summer Sneakers Up to 60% Off
     *   Beauty Best Sellers
-    *   Luxe Bath &. Body ft. Molton Brown
-    *   Fragrances for Her Starting at $20
     *   Layer It On: Necklaces
-    *   Ted Baker London Shoes Up to 60% Off
+    *   Aratta Up to 70% Off
+    *   Pet Accessories Up to 56% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie &. Shapewear
     *   Jewelry
-    *   Handbags
     *   Accessories
+    *   Handbags
     *   Watches
+    *   Lingerie &. Shapewear
 *   MenShop Sale Events
     
-    *   Scotch &. Soda Men Up to 60% Off
+    *   Give Sweats a Break: Men's Comfort Jeans
+    *   Long Weekend Steals: Men's Styles Up to 80% Off
     *   Dress It Up: Men's Shoes ft. Gordon Rush
     *   Tommy Hilfiger Men's Shoes from $35
     *   Tissot Watches Up to 50% Off
-    *   Maison Forte Up to 50% Off
-    *   7 For All Mankind Men Up to 60% Off
-    *   Summer Refresh: Men's Sneakers at $35
+    *   Scotch &. Soda Men Up to 60% Off
     
-    *   Men's Shoes Up to 70% Off
-    *   Long Weekend Steals: Men's Styles Up to 80% Off
-    *   English Laundry Up to 60% Off
+    *   Maison Forte Up to 50% Off
+    *   Summer Refresh: Men's Sneakers at $35
     *   Ted Baker London Men's Shoes Up to 55% Off
-    *   Father's Day Finds: Men's Shoes ft. Ben Sherman
-    *   Sleek Sneakers for Him ft. K-Swiss
+    *   Men's Shoes Up to 70% Off
+    *   Kenneth Cole New York Men's Shoes
     
     Shop By Category
     *   Shoes
     *   Clothing
-    *   Accessories
     *   Watches
+    *   Accessories
 *   KidsShop Sale Events
     
-    *   Kids' Active Styles Starting at $12
+    *   Kick Off Summer: Girls' Dresses Up to 60% Off
+    *   Kick Off Summer: Boys' Looks Up to 60% Off
+    *   All Under $30: Girls' Dress Shoes
+    *   Boys' Dress Shoes Starting at $25
     *   All Under $35: Tommy Hilfiger Kids' Shoes
-    *   Sleep Essentials: Kids' PJs &. More Up to 55% Off
+    *   Kids' Active Styles Starting at $12
     *   Kids' Shoe Steals Up to 65% Off
-    *   Trending Now: Kids' Loungewear Up to 60% Off
+    *   Sleep Essentials: Kids' PJs &. More Up to 55% Off
     
     Shop By Category
+    *   Boys
     *   Girls
     *   Girls' Shoes
-    *   Boys
     *   Boys' Shoes
-    *   Toys
     *   Baby
+    *   Toys
 *   HomeShop Sale Events
     
-    *   Cozy Throws from $20
-    *   Something for Your BFF: Pet Accessories from $10
-    *   Wusthof Cutlery: Classic Collection Up to 50% Off
+    *   Home Decor Refresh: Planters &. More
+    *   $35 &. Under: Entrance-Making Doormats
     *   Wireless Earbuds &. More Up to 75% Off
+    *   Cozy Throws from $20
+    *   Wusthof Cutlery: Classic Collection Up to 50% Off
+    *   Something for Your BFF: Pet Accessories from $10
+    
     *   Great Greenery: Planters &. Faux Plants from $20
     *   Luxe Faux Fur Pillows &. More
-    
     *   Best Selling Wall Art
     *   Your Space, Your Style: Home Accents from $10
-    *   Kalorik Kitchen Appliances
-    *   BergHOFF EuroCAST &. More Up to 50% Off
     *   Luxe Towel Sets Up to 75% Off
     
     Shop By Category
     *   Home Decor
-    *   Kitchen &. Tabletop
-    *   Bath
     *   Electronic &. Tech Accessories
-    *   Rugs &. Doormats
+    *   Outdoor Living
     *   Pet Accessories
-    *   Cleaning &. Organization
-    *   Holiday Decorations
+    *   Bath
+    *   Kitchen &. Tabletop
+    *   Rugs &. Doormats
     *   Luggage &. Travel
+    *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   IT Cosmetics
+    *   Best of Hair Care Under $20
     *   Urban Decay Up to 50% Off
     *   Fragrances for Him Under $30
     *   Best of Skin Care: Dr. Jart &. More
     *   $20 &. Under: Glam Beauty Finds &. More
     *   Beauty Best Sellers
-    *   Luxe Bath &. Body ft. Molton Brown
-    *   Fragrances for Her Starting at $20
     
     Shop By Category
     *   Makeup
     *   Skin Care
-    *   Fragrance
-    *   Hair Care
-    *   Bath &. Body
     *   Men’s Grooming
+    *   Hair Care
+    *   Fragrance
+    *   Bath &. Body
     *   Tools &. Accessories
     *   Makeup Bags
 
