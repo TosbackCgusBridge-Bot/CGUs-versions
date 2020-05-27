@@ -29,7 +29,7 @@ Lenovo Explore Close
         *   X1 Carbon Gen 8
         *   X1 Extreme Gen 2
         *   Yoga C940
-        *   Legion Y740
+        *   Legion 5
         *   IdeaPad 3
         *   IdeaPad L340 Gaming
         
@@ -45,10 +45,10 @@ Lenovo Explore Close
         *   Price Match Guaranteed
         
         *   Explore Desktops
-        *   Gaming Desktops
-        *   Workstations
         *   Small Business Desktops
+        *   Gaming Desktops
         *   Tiny Desktops
+        *   Workstations
         *   View All Desktops
         *   Filter Desktops by Specs
         
@@ -1204,4 +1204,18 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Created with sketchtool.CHAT NOW
+
+How can we help
+
+you today?
+
+×HOME SALESHOME SALESBUSINESS SALESBUSINESS SALESEXISTING ORDER HELPEXISTING ORDER HELP
+
+**\*\*Call us:**
+
+Personal: 1-855-253-6686
+
+Business: 1-866-426-0911
+
+Ask us about our price match policy >Check order status >. Technical support or Repair status >
