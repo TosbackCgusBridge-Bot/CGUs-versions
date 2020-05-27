@@ -196,7 +196,6 @@ Close submenu ( Guys ) Guys
 *   Clearance Tees
 *   Tops
 *   Bottoms
-*   Accessories
 
 **50-70% Off Everything**  **+ Free Shipping Over $50** Details
 
@@ -362,7 +361,6 @@ Menu Find a Store Aeropostale
         *   Clearance Tees
         *   Tops
         *   Bottoms
-        *   Accessories
     
 
 *   Select Country
@@ -391,10 +389,14 @@ Last Chance 🔥 Deals!
 Shop your favorite Aero Shorts  
 &. Tees before they're gone!
 
-Shop Girls 🔥 Deals Shop Guys 🔥 Deals ENDS  
-TODAY!
+Shop Girls 🔥 Deals Shop Guys 🔥 Deals WE GOT  
+YOU!
 
-Memorial Day Extravaganza!
+WE  
+GOT  
+YOU!
+
+EXTENDED: Memorial Day Extravaganza!
 
 50-70% Off  
 Everything!
