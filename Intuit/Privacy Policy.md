@@ -26,41 +26,30 @@ UP TO 30% OFFKitchen essentials to takethe stress out of cooking
 
 *   Shop All
 
-Kitchen Appliances CookwareUP TO 60% OFFSunshine's callingTurn your away message onand live it up outside.select styles
+Kitchen Appliances CookwareUP TO 40% OFFSunshine's callingTurn your away message onand live it up outside.select styles
 
 *   Shop All Swimwear
 
-30% OFFCity Streets Swimwearselect styles30-40% OFFKids Swimwear select stylesUP TO 50% OFFWomen's Swimwearselect styles30% OFF Men's Swimwearselect styles25% OFF Select Athletic Shoes For HimExcluded from coupons.25% OFF Select Athletic Shoes For HerExcluded from coupons.UP TO 50% OFFAll XersionFor neighborhood walks orlunges in the living room
+UP TO 30% OFFCity Streets Swimwearselect styles30-40% OFFKids Swimwear select styles20% OFFWomen's Swimwearselect styles30% OFF Men's Swimwearselect styles25% OFF Select Athletic Shoes For HimExcluded from coupons.25% OFF Select Athletic Shoes For HerExcluded from coupons.UP TO 50% OFFAll XersionFor neighborhood walks orlunges in the living room
 
 *   Shop All
 
-UP TO 50% OFFDress like a pro from the drivingrange to the fairway greens. select styles  
-Shop Golf NowHeat Advisory!Summer's no bummer with these products built to take the heat.Shop Heat-Protecting HaircareShop Summer-Ready Sephora BeautyExcluded from coupon.Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+Heat Advisory!Summer's no bummer with these products built to take the heat.Shop Heat-Protecting HaircareShop Summer-Ready Sephora BeautyExcluded from coupon.Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Learn MoreShop Gift Cards Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
+*   Sealy Essentials™ Ivory Treasure - Mattress Only $149 - $298.99with code~$430 - $920~29
+*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $6.74with code~$13~27
 *   Liz Claiborne Signature Plush Bath Towel Collection $5.24 - $35.99with code~$12 - $96~534
-*   Sealy® Davlin LTD Plush Pillowtop - Mattress Only $353.99 - $599with code~$1,030 - $1,820~10
-*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
+*   JCPenney Home Emma Quilt $41.24 - $56.24with code~$100 - $140~417
+*   a.n.a Womens Knit Waist Short $14.99with code~$30~6
+*   Nike Air Max Motion 2 Womens Running Shoes
     
-    $124.98
+    $63.75 - $67.50sale
     
-    184
-*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $6.74with code~$13~26
-*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $4.49 - $28.49with code~$10 - $72~1684
-*   LIMITED TIME SPECIAL! 1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
-    
-    $124.98
-    
-    131
+    ~$85 - $90~18
 
 Sponsored Items
 
-*   Samsung Galaxy Fit Mens Multi-Function Black Smart Watch-Sm-R370nzkaxar
-    
-    $99.99
-    
-    38
-*   Google Nest Hello Video Doorbell $206.10with code361
 *   Waterpik WF-06W010 Whitening Water Flosser
     
     $89.99sale
@@ -75,49 +64,47 @@ Sponsored Items
     $569.99sale
     
     ~$669~183
-*   Brim 0.8L Electric Kettle
+*   Samsung Galaxy Fit Mens Multi-Function Black Smart Watch-Sm-R370nzkaxar
     
-    $149.99sale
+    $99.99
     
-    ~$150~21
+    38
+*   Google Nest Hello Video Doorbell $206.10with code361
 *   Fisher-Price Laugh &. Learn Smart Stages Sis
     
     $19.99
     
     48
-*   Lee® Flex Motion Bootcut Jeans $26.24with code~$50~30
+*   Brim 0.8L Electric Kettle
+    
+    $149.99sale
+    
+    ~$150~22
+*   Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit) $22.49with code~$44~629
+*   Lee® Relaxed All Day Pant - Plus $24.74with code~$48~534
+*   Lee® Plain Front Relaxed All Day Twill Pant $22.49with code~$44~783
 *   Fisher-Price Laugh &. Learn Smart Stages Puppy
     
     $19.99
     
     60
-*   Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit) $22.49with code~$44~629
+*   Lee® Flex Motion Straight Leg Jean
+    
+    $24.99 - $34.99sale
+    
+    ~$50~104
+*   Farberware 12-Pc. Cookware Set $62.99with code~$190~52
 *   Fisher-Price Laugh &. Learn Click &. Learn Laptop
     
     $14.99
     
     10
-*   Lee® Relaxed All Day Pant - Plus $24.74with code~$48~534
-*   Fisher-Price Classic Xylophone
-    
-    $15.99
-    
-    7
-*   Lee® Relaxed Fit Jeans $22.49with code~$44~2285
-*   Lee® Plain Front Relaxed All Day Twill Pant $22.49with code~$44~783
-*   Lee Lee Relaxed Jean Womens Mid Rise Straight Stretch Relaxed Fit Jean - Tall $24.74with code~$48~
+*   Lee® Relaxed Fit Straight Leg Jeans - Plus $24.74with code~$48~554
+*   Lee® Relaxed All Day Pant- Tall $24.74with code~$48~110
+*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $22.50with code
+*   Lee® Flex Motion Straight Leg Pant- Plus $27.74with code~$54~18
 *   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~134
-*   Fisher-Price Linkimals A To Z Otter
-    
-    $19.99
-    
-    23
-*   Rachael Ray Create Delicious 9.5" Covered Deep Skillet
-    
-    $39.99sale
-    
-    ~$60~31
-*   Lee® Instantly Slims Classic Jean- Tall $24.74with code~$48~161
+*   Lee® Flex Motion Straight Leg Pant- Tall $26.24with code~$50~24
 
 Shop and Save at JCPenney
 
