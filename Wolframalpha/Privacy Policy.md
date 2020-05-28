@@ -111,7 +111,6 @@
     *   *   About
             *   Company Background
             *   Wolfram Blog
-            *   Announcements
             *   Events
             *   Contact Us
         
@@ -395,7 +394,6 @@ Legal
 *   View all...
 
 *   Company
-*   Announcements
 *   Events
 *   About Wolfram
 *   Careers
@@ -404,7 +402,6 @@ Legal
 *   Connect
 *   Wolfram Community
 *   Wolfram Blog
-*   Newsletter
 
 © 2020 Wolfram. All rights reserved.
 
