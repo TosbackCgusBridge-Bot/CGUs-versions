@@ -442,7 +442,6 @@ Brand &. Lifestyle
 *   Request Brochure
 *   Newsletter Signup
 *   Press Releases
-*   Ad choices
 *   Privacy
 *   California Privacy
 *   Legal
