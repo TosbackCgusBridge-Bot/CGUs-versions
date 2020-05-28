@@ -34,7 +34,7 @@ NFL SHOP Action related nav
 *   Terms &. Conditions
 *   Clear Bag Policy
 
-EnglishSpanishFrenchGermanPortugueseEnglish NFL.COM - Privacy Policy
+Privacy Policy - NFL.com EnglishSpanishFrenchGermanPortugueseEnglish NFL.COM - Privacy Policy
 
 **Effective Date: August 16, 2001**
 
