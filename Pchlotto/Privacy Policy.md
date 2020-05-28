@@ -92,7 +92,7 @@ We assign a unique generic user ID ("GUID") to each User. GUIDs are anonymized, 
 
 We share a User's Google Advertising ID with application tracking companies so that they can track and report to us whether a User has viewed, clicked on our accepted an advertiser's offer or downloaded an advertiser's app.
 
-We use third-party service providers to verify a User's address, in order to ensure our commercial messages reach the intended User and to process any User orders prior to shipping, submit a list of User names and addresses to the third-party for
+We use third-party service providers to verify a User's address, in order to ensure our commercial messages reach the intended User and to process any User orders prior to shipping, submit a list of User names and addresses to the third-party for fulfilment and validation.
 
 We may provide User contact information and data to selected third-party advertisers and publishers to present offers directly to our Users that are geared towards their interests.
 
