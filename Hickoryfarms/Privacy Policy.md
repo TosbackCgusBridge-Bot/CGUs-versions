@@ -95,7 +95,7 @@ close
     *   Sympathy GiftsMost Popular Premium Wine Gifts
 *   Sale
 
-1.800.753.8558 Business Gifts Free standard shipping on select gifts!\* Skip to content Menu 0 Sign In Search Catalog Catalog Navigation close
+1.800.753.8558 Business Gifts Free Shipping on Select Gifts!\* Father’s Day is June 21st! Skip to content Menu 0 Sign In Search Catalog Catalog Navigation close
 
 *   Gift Baskets
     
