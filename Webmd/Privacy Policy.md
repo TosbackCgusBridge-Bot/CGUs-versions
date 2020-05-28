@@ -123,7 +123,7 @@ Skip to main content
     *   WebMD Blogs
     *   News Center
     
-    Featured Topics*   WebMD News Latest News and Updates On Coronavirus
+    Featured Topics*   WebMD News Get the Latest Coronavirus News &. Updates
     *   Newsletters Sign Up to Receive Our Free Coroanvirus Newsletter
 *   Mobile Apps
 *   Subscriptions
