@@ -81,6 +81,7 @@ Thrive in the sun with styles made for summer. shop new arrivals
         
         *   Bags &. Wallets
         *   Belts
+        *   Face Masks
         *   Fragrance
         *   Hair Accessories
         *   Hats
