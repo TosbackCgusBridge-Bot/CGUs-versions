@@ -28,9 +28,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive 50% off your order!
+Receive an additional 50% off sale &. clearance styles. 40% off full-price styles!
 
-code: HOLIDAY pin: PROMOTION DETAILS
+code: BERRY pin: PROMOTION DETAILS
 
 Customer Service Menu
 
