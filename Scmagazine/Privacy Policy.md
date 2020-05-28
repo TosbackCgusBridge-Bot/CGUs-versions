@@ -279,23 +279,23 @@ When it rains, it pours: Today’s cloud asset management challenges
     *   Emailed
     *   Recent
     
-    *   MobiFriends data on 3.6 million users available for download online
-    *   Device owners demand opt-out power from COVID-19 contact tracing apps
-    *   Cybersecurity makes World Economic Forum’s top 10 Covid-19 global fallout list
     *   WeLeakData hack reveals hackers' private messages
-    *   Arkansas, Illinois COVID-19 unemployment websites leak data
+    *   Cybersecurity among six sectors booming during Covid-19, with Q1 funding exceeding $1.5B
+    *   Cybersecurity makes World Economic Forum’s top 10 Covid-19 global fallout list
+    *   Barr says review of Russia investigation won't result in criminal probes of Obama, Biden
+    *   VMware issues workarounds for Salt vulnerabilities in vRealize Operations Manager
     
-    *   Modular backdoor sneaked into video game developers' servers
-    *   REvil hackers double ransom for celebrity law firm, threaten to release Trump 'dirty laundry'
-    *   Covid-related malspam campaign impersonates U.S. Treasury to steal taxpayer credentials
-    *   First Look: Guardicore Infection Monkey version: 1.7
+    *   22 million emails found in mystery open database
+    *   Barr says review of Russia investigation won't result in criminal probes of Obama, Biden
+    *   Senate passes bipartisan amendment to protect surveillance targets, delays FISA reauthorization
     *   WolfRAT malware targets WhatsApp, Messenger
+    *   ZeuS byproduct ‘Silent Night’ Zbot ‘not a game-changer’
     
+    *   How security can enable business continuity by protecting newly remote employees
+    *   Zero-day credential phishing attack aimed at C-suite execs impersonates U.S. Supreme Court
+    *   Malicious actor holds at least 31 stolen SQL databases for ransom
+    *   Hacker group announces jailbreak for iOS 11 - 13.5
     *   Turla's ComRAT v4 uses Gmail web UI to receive commands, steal data
-    *   Phishing campaigns leverage Google Firebase storage
-    *   Attackers' use of virtual machine to hide ransomware is a first, say researchers
-    *   Patch round-up: Cisco repairs RCE bug. notable fixes from VMware, Google, Adobe
-    *   Israeli websites defaced, as more offensive cyber activity flares up in Middle East
 
 Back to Top
 
@@ -328,4 +328,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+
+You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
