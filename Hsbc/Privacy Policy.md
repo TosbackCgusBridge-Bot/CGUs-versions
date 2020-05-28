@@ -390,6 +390,7 @@ Download all Remove all
 *   Investors
 *   Media
 *   Careers
+*   Insight
 
 *   Visit Twitter (opens in new window)
 *   Visit Linkedin (opens in new window)
@@ -512,3 +513,5 @@ If you’d like to accept all optional cookies, select ‘Accept all cookies’.
 To learn more about how we use cookies, visit our Cookie notice.
 
 Accept all cookiesManage cookie settings
+
+Notification appeared: Cookies on this website
