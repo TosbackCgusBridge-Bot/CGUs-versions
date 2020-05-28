@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
-*   Kubernetes for Data Science: meet Kubeflow
-*   ZFS focus on Ubuntu 20.04 LTS: what’s new?
-*   Kubernetes on Windows with MicroK8s and WSL 2
+*   Ubuntu on WSL 2 Is Generally Available
+*   Hybrid cloud and multi-cloud: what is the difference?
+*   Design and Web team summary – 27 May 2020
