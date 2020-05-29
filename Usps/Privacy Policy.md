@@ -67,9 +67,17 @@ Close submenu (Mailer resources)Mailer resources
 
 Close submenu (Social responsibility)Social responsibility
 
-*   Community activities
+*   Open submenu (Community activities)Community activities
 *   Securing the mail
 *   Sustainability
+
+Close submenu (Community activities)Community activities
+
+*   Semipostal stamps
+*   Diversity initiatives
+*   Dog bite awareness week
+*   NALC food drive
+*   Finding missing children
 
 Close submenu (Performance)Performance
 
@@ -154,6 +162,11 @@ See how USPS is delivering for customers and employees Jump to page content
     *   Government services
     *   Social responsibility
         *   Community activities
+            *   Semipostal stamps
+            *   Diversity initiatives
+            *   Dog bite awareness week
+            *   NALC food drive
+            *   Finding missing children
         *   Securing the mail
         *   Sustainability
     *   Performance
