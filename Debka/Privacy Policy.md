@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Thursday, May 28, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Friday, May 29, 2020  
 
 DEBKAfile
 
@@ -44,11 +44,15 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   Americans advised to exercise high vigilance in West Bank and Gaza
+    
+    May 29, 2020 @ 07:23
+    
 *   US coronavirus deaths exceed 100,000
     
     May 28, 2020 @ 08:38
     
-*   Prestigious Jerusalem high school closed over covid-19
+*   Covid-19 cases rise to 12 at prestigious Jerusalem high school
     
     May 28, 2020 @ 08:31
     
@@ -63,33 +67,9 @@ Breaking news
 *   Russia cautions Libya’s Haftar to accept an immediate ceasefire
     
     May 26, 2020 @ 19:05
-    
-*   China loses bid to run Israel’s biggest desalination plant after US warning
-    
-    May 26, 2020 @ 12:48
     
 
-*   Gantz defends justice system without naming Netanyahu
-    
-    May 27, 2020 @ 11:21
-    
-*   Australia welcomes Israeli court finding of accused pedophile fit for trial
-    
-    May 27, 2020 @ 08:51
-    
-*   Russia cautions Libya’s Haftar to accept an immediate ceasefire
-    
-    May 26, 2020 @ 19:05
-    
-*   China loses bid to run Israel’s biggest desalination plant after US warning
-    
-    May 26, 2020 @ 12:48
-    
-*   US coronavirus deaths exceed 100,000
-    
-    May 28, 2020 @ 08:38
-    
-*   Prestigious Jerusalem high school closed over covid-19
+*   Covid-19 cases rise to 12 at prestigious Jerusalem high school
     
     May 28, 2020 @ 08:31
     
@@ -105,15 +85,15 @@ Breaking news
     
     May 26, 2020 @ 19:05
     
-*   China loses bid to run Israel’s biggest desalination plant after US warning
+*   Americans advised to exercise high vigilance in West Bank and Gaza
     
-    May 26, 2020 @ 12:48
+    May 29, 2020 @ 07:23
     
 *   US coronavirus deaths exceed 100,000
     
     May 28, 2020 @ 08:38
     
-*   Prestigious Jerusalem high school closed over covid-19
+*   Covid-19 cases rise to 12 at prestigious Jerusalem high school
     
     May 28, 2020 @ 08:31
     
@@ -124,6 +104,26 @@ Breaking news
 *   Australia welcomes Israeli court finding of accused pedophile fit for trial
     
     May 27, 2020 @ 08:51
+    
+*   Russia cautions Libya’s Haftar to accept an immediate ceasefire
+    
+    May 26, 2020 @ 19:05
+    
+*   Americans advised to exercise high vigilance in West Bank and Gaza
+    
+    May 29, 2020 @ 07:23
+    
+*   US coronavirus deaths exceed 100,000
+    
+    May 28, 2020 @ 08:38
+    
+*   Covid-19 cases rise to 12 at prestigious Jerusalem high school
+    
+    May 28, 2020 @ 08:31
+    
+*   Gantz defends justice system without naming Netanyahu
+    
+    May 27, 2020 @ 11:21
     
 
 12PrevNext
