@@ -19,6 +19,13 @@
         *   Phone
         *   Bundles
         *   Security Systems
+        *   Digital Marketing
+            *   Website Design &. Hosting
+            *   Search Engine Optimization
+            *   Pay Per Click
+            *   Social Media Promote
+            *   Local Presence Management
+            *   Email Hosting
         *   Resource Center
     *   Medium &. Enterprise
         *   Data Networking
@@ -251,6 +258,7 @@ Select Location
         *   Phone
         *   Bundles
         *   Security Systems
+        *   Digital Marketing
         *   Resource Center
     *   Medium &. Enterprise
         *   Data Networking
