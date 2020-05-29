@@ -12,8 +12,8 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1371 games
-*   Most Popular Games 20992 games
+*   Best of new games 1376 games
+*   Most Popular Games 20996 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -21,22 +21,22 @@ Categories &. more LIBRARY
 CATEGORIES
 
 *   For Girls 24,141 games
-*   Driving &. Racing 6,362 games
-*   Strategy &. RPG 3,619 games
+*   Driving &. Racing 6,367 games
+*   Strategy &. RPG 3,620 games
 *   Management &. Sim 4,271 games
-*   Thinking 12,639 games
-*   Action &. Adventure 14,623 games
+*   Thinking 12,641 games
+*   Action &. Adventure 14,628 games
 *   Sports 3,317 games
-*   Shooting 9,071 games
+*   Shooting 9,073 games
 *   Fighting 2,074 games
-*   Skill 11,173 games
-*   Arcade &. Classic 9,300 games
-*   Fun &. Crazy 4,959 games
+*   Skill 11,177 games
+*   Arcade &. Classic 9,308 games
+*   Fun &. Crazy 4,960 games
 
 Play with friends  
-Powered by Y8 Account 143 Y8 Multiplayer Games 2,223 Y8 High Score Games 1,263 Y8 Achievements Games 896 Y8 Screenshots Games 1,704 Y8 Online Save Games 3,398 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 143 Y8 Multiplayer Games 2,223 Y8 High Score Games 1,263 Y8 Achievements Games 896 Y8 Screenshots Games 1,705 Y8 Online Save Games 3,398 All Y8 Games Games Last Highscore:
 
-**815,215** points on Hide Online by Unreachable
+**3,060** points on Diseviled: Stolen Kingdom by mister
 
 Help us improve Bad translation? Social
 
