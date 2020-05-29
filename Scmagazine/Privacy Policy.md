@@ -279,23 +279,23 @@ When it rains, it pours: Today’s cloud asset management challenges
     *   Emailed
     *   Recent
     
-    *   WeLeakData hack reveals hackers' private messages
-    *   Cybersecurity among six sectors booming during Covid-19, with Q1 funding exceeding $1.5B
-    *   Cybersecurity makes World Economic Forum’s top 10 Covid-19 global fallout list
-    *   Barr says review of Russia investigation won't result in criminal probes of Obama, Biden
-    *   VMware issues workarounds for Salt vulnerabilities in vRealize Operations Manager
+    *   Email phishing scam impersonates LogMeIn to trick remote workers
+    *   What is the Zero Trust Framework in cybersecurity and 5 considerations for building a Zero Trust IT environment
+    *   Colorado, Florida &. Ohio become latest states to disclose PUA program data leaks
+    *   Burr steps aside as Senate Intel committee chair during coronavirus stock sale probe
+    *   Netwalker ransomware actors go fileless to make attacks untraceable
     
-    *   22 million emails found in mystery open database
-    *   Barr says review of Russia investigation won't result in criminal probes of Obama, Biden
-    *   Senate passes bipartisan amendment to protect surveillance targets, delays FISA reauthorization
-    *   WolfRAT malware targets WhatsApp, Messenger
+    *   REvil attackers who threatened celebrity law firm, Trump, strike food distributor
     *   ZeuS byproduct ‘Silent Night’ Zbot ‘not a game-changer’
+    *   Ratcliffe confirmed as DNI on second nomination
+    *   StrandHogg 2.0 bug enables Android app hijacking, poses patching challenge
+    *   REvil hackers double ransom for celebrity law firm, threaten to release Trump 'dirty laundry'
     
-    *   How security can enable business continuity by protecting newly remote employees
-    *   Zero-day credential phishing attack aimed at C-suite execs impersonates U.S. Supreme Court
-    *   Malicious actor holds at least 31 stolen SQL databases for ransom
-    *   Hacker group announces jailbreak for iOS 11 - 13.5
-    *   Turla's ComRAT v4 uses Gmail web UI to receive commands, steal data
+    *   Test platform leaks Bank of America clients' Covid-19 PPP loan applications
+    *   Facial recognition fails accuracy test raises privacy concerns. ACLU sues Clearview AI
+    *   House pulls vote on FISA bill
+    *   PonyFinal deployed in human-operated ransomware attacks
+    *   StrandHogg 2.0 bug enables Android app hijacking, poses patching challenge
 
 Back to Top
 
@@ -328,8 +328,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
