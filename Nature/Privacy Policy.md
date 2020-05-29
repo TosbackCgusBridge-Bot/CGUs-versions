@@ -5,7 +5,6 @@
 *   English
 
 *   Donate
-*   Give Monthly
 *   About Us
     *   About Us
     *   Who We Are
@@ -81,7 +80,6 @@
 *   Search
 *   Renew
 *   Donate
-*   Give Monthly
 
 Search
 
