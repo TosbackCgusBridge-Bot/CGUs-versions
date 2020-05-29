@@ -402,6 +402,7 @@ Legal
 *   Connect
 *   Wolfram Community
 *   Wolfram Blog
+*   Newsletter
 
 © 2020 Wolfram. All rights reserved.
 
