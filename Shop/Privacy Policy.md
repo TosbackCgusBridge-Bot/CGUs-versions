@@ -31,7 +31,7 @@ Lenovo Explore Close
         *   Yoga C940
         *   Legion 5
         *   IdeaPad 3
-        *   IdeaPad L340 Gaming
+        *   Lenovo New Products
         
         Memorial Day Sale
         
@@ -180,10 +180,12 @@ Lenovo Explore Close
         *   View All Monitors
         
         *   Best Selling Monitors
-        *   P24q QHD
-        *   C32q QHD
-        *   Y27gq Legion Gaming
-        *   P27u Wide UHD IPS (4K)
+        *   L24q 24" QHD
+        *   Q27q 27" QHD WLED
+        *   Legion Y25f 24.5" AMD FreeSync
+        *   T22v 22" FHD VoIP with Webcam
+        *   P27u 27" 4K UHD with USB-C
+        *   P44w 44" Curved HDR 4K
         
         *   Quick Links
         *   Sale
