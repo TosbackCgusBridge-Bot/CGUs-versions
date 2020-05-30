@@ -17,7 +17,6 @@ Main menu
 *   Shows
     *   All Shows
         *   Accident, Suicide, or Murder
-        *   Catching a Serial Killer: Sam Little
         *   Chicago P.D.
         *   Cold Justice
         *   Dark Web Exposed
@@ -34,10 +33,10 @@ Main menu
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 4:13 Snapped Snapped Bonus: Killer Debra Dillard's Son Opens Up (Season 26, Episode 4) 1:13 Deadly Cults Quadruple Murder In Salida California Was 'Truly A Nightmare On Elm Street'
+    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 1:29 Accident, Suicide, or Murder The Scene Of Debra Holden's Death Appeared Consistent With Suicide 7:52 Dark Web Exposed LIVESTREAM CRIMES: Murder, Mayhem and Social Media
 *   News
     *   Crime News
-    *   True Crime BuzzRyan And Katie Crime News Woman Recruits Army Buddy To Kill Solider For Insurance Money Jamarquis Black and Pheonecia Ratliff Photo: Facebook Crime News Young Mom Kidnapped, Killed By Ex In Murder-Suicide Heather Grogg and Danielle Tyler Photo: National Center For Missing and Endangered Crime News Women Were Allegedly Killed In Connection To Murder
+    *   True Crime BuzzEfthimios Michael Zachary Mikedis Photo: Marion County Sheriff's Office Crime News Florida Man Allegedly Drugged, Sexually Assaulted Woman Photo: Bay County Sheriffs Office Crime News Elderly Man Shot Intruder During Dramatic Home Invasion Breonna Taylor Photo: Facebook Crime News Cop Involved In Breonna Taylor Shooting Was Sued Before
 *   Podcasts
 *   Detective's Den
 *   Schedule
