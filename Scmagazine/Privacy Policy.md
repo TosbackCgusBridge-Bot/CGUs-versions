@@ -1,58 +1,29 @@
 Skip to navigation Skip to main content Subscribe Menu Close
 
-*   NewsOpen Submenu
-    
-    *   News Back
-        
-        *   **Cybercrime**
-            *   Data Breaches
-            *   Ransomware
-            *   Phishing
-            *   Cryptocurrency
-            *   Malware
-            *   Insider Threats
-            *   APTs/Cyberespionage
-            *   Executive Insight
-        
-        *   **Network Security**
-            *   Mobile Security
-            *   Cloud Security
-            *   Privacy &. Compliance
-            *   IoT
-            *   Vulnerabilities
-            *   Email Security
-            *   Government/Defense
-        
-        *   **Corporate News**
-    
-    *   News Back
-        *   COVID-19 Coverage
-*   ReviewsOpen Submenu
-    *   Reviews Back
-        *   Licensing &. Product Reviews
-        *   About Product Reviews
-        *   Group Tests
-        *   First Look
-        *   Emerging Products
-*   In DepthOpen Submenu
-    *   In Depth Back
-        *   Technology Research Reports
-        *   SC Media Print Archive
-        *   Reboot
-        *   Features
-        *   Director's Cut Videos
-        *   SC Media's 30th Anniversary Celebration
-*   EventsOpen Submenu
-    *   Events Back
-        *   SC Awards
-        *   InfoSec World
-        *   Webcasts
-        *   Virtual Conferences
-        *   Security Leadership Exchange
+*   News
+    *   COVID-19 Coverage
+*   Reviews
+    *   Licensing &. Product Reviews
+    *   About Product Reviews
+    *   Group Tests
+    *   First Look
+    *   Emerging Products
+*   In Depth
+    *   Technology Research Reports
+    *   SC Media Print Archive
+    *   Reboot
+    *   Features
+    *   Director’s Cut Videos
+    *   SC Media’s 30th Anniversary Celebration
+*   Events
+    *   SC Awards
+    *   InfoSec World
+    *   Webcasts
+    *   Virtual Conferences
+    *   Security Leadership Exchange
 *   Resource Library
-*   SC Security Ops CenterOpen Submenu
-    *   SC Security Ops Center Back
-        *   SC Podcasts
+*   SC Security Ops Center
+    *   SC Podcasts
 *   SC UK
 
 Toggle Search Menu Search... Submit About SC Media
@@ -279,23 +250,23 @@ When it rains, it pours: Today’s cloud asset management challenges
     *   Emailed
     *   Recent
     
-    *   Email phishing scam impersonates LogMeIn to trick remote workers
-    *   What is the Zero Trust Framework in cybersecurity and 5 considerations for building a Zero Trust IT environment
-    *   Colorado, Florida &. Ohio become latest states to disclose PUA program data leaks
-    *   Burr steps aside as Senate Intel committee chair during coronavirus stock sale probe
-    *   Netwalker ransomware actors go fileless to make attacks untraceable
-    
-    *   REvil attackers who threatened celebrity law firm, Trump, strike food distributor
+    *   Nigerian ‘Scattered Canary’ gang exploits CARES Act with fraudulent unemployment claims
+    *   Covid-related malspam campaign impersonates U.S. Treasury to steal taxpayer credentials
+    *   26M LiveJournal bloggers’ credentials a hit on dark web six years later
     *   ZeuS byproduct ‘Silent Night’ Zbot ‘not a game-changer’
-    *   Ratcliffe confirmed as DNI on second nomination
-    *   StrandHogg 2.0 bug enables Android app hijacking, poses patching challenge
-    *   REvil hackers double ransom for celebrity law firm, threaten to release Trump 'dirty laundry'
+    *   PonyFinal deployed in human-operated ransomware attacks
     
+    *   Israeli websites defaced, as more offensive cyber activity flares up in Middle East
+    *   Facial recognition fails accuracy test raises privacy concerns. ACLU sues Clearview AI
+    *   PonyFinal deployed in human-operated ransomware attacks
+    *   Email phishing scam impersonates LogMeIn to trick remote workers
+    *   Shiny Hunters’ latest hit: Minted among 73.1M records offered
+    
+    *   How insurance CISOs can address cloud migration security concerns
+    *   Trump EO takes aim at social media firms. seeks to remove Section 230 protections
     *   Test platform leaks Bank of America clients' Covid-19 PPP loan applications
     *   Facial recognition fails accuracy test raises privacy concerns. ACLU sues Clearview AI
     *   House pulls vote on FISA bill
-    *   PonyFinal deployed in human-operated ransomware attacks
-    *   StrandHogg 2.0 bug enables Android app hijacking, poses patching challenge
 
 Back to Top
 
