@@ -36,9 +36,9 @@ NFL SHOP Action related nav
 
 Privacy Policy - NFL.com EnglishSpanishFrenchGermanPortugueseEnglish NFL.COM - Privacy Policy
 
-**Effective Date: August 16, 2001**
+**Effective Date: May 29, 2020**
 
-**Updated: January 1, 2020**
+**Updated: May 29, 2020**
 
 NFL Enterprises LLC, the National Football League, and the other members of the NFL Family (collectively, "NFL," "we," "our," "us") respect your privacy and value your trust and confidence. This privacy policy (the "Privacy Policy") applies to our websites, mobile applications, and other online and mobile services that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree that you have read and understood the terms of this Privacy Policy.
 
@@ -99,7 +99,7 @@ We are committed to maintaining your trust, and we want you to understand when a
 
 *   **Service Providers**: We may share your information with service providers that perform certain functions or services on our behalf (such as to host the Services, fulfill orders, provide products and services, manage databases, perform analyses, process credit card payments, provide customer service, or send communications for us). We may share information with third-parties, such as social networking platforms, so that they may send tailored communications on our behalf via their platforms. These companies are authorized to use your personal information only as necessary to provide these services to us.
 *   **Subsidiaries and Affiliates**: We may share your information with all members of the NFL Family, including, without limitation, our subsidiaries and affiliates (e.g., NFL Properties LLC, NFL International LLC, NFL Enterprises LLC, NFL Ventures, L.P., and NFL Ventures, Inc.).
-*   **Member Clubs**: We may share your information with Member Clubs where you have indicated a preference, each of whom has its own privacy policy, which is available on the Member Club's respective website.
+*   **Member Clubs**: We may share your information with Member Clubs where you have indicated a preference or based upon your location, each of whom has its own privacy notice, which is available on the Member Club's respective website.
 *   **Select Business Partners**: With your prior permission, we may share your information with select business partners so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. For example, you may be presented with an opportunity to have certain information shared with our third party business partners when you enter a contest or sweepstakes or elect to receive marketing offers or other information. If you do not elect to have your information shared, it will not be shared with such third parties. We take measures to help ensure that our partners protect the confidentiality, integrity, and security of any information we share with them. However, we are not responsible for the privacy practices of our business partners, which may use your information for their own purposes.
 *   **Contests and Sweepstakes**: In some cases, a third party may operate or host a contest or sweepstakes on the Services, and collect your information. In those cases, we urge you to review the third party's privacy policy for that contest or sweepstakes before participating. We take measures to help ensure that our partners protect the confidentiality, integrity, and security of any information we share with them. However, we are not responsible for the privacy practices of our business partners, which may use your information for their own purposes. Please read their respective privacy policies for more information.
 *   **Third-Party Ad Serving and Audience and Traffic Measurement Services**: We may use third-parties to serve advertisements on the Services. These third parties may set their own cookies or similar web technologies to collect information about users' online activities over time and across different websites. To manage your preferences you may opt out here http://preferences-mgr.truste.com/. The Services may feature Nielsen proprietary measurement software, which will allow users to contribute to market research, such as Nielsen TV Ratings. Nielsen believes that you should have a choice about whether to contribute to our research and insights. To opt out of Nielsen measurement, you need only to activate the "Limit Ad Tracking" (for iOS devices) or "Opt out of Ads Personalization" (for Android devices) option in your devices settings. For web, please visit: http://www.nielsen.com/digitalprivacy to learn more about the Nielsen digital measurement products and your choices in regard to them.
@@ -302,13 +302,12 @@ If you are aware of changes or inaccuracies in your information, you should info
     
     *   \*\*\*\*\*
     *   FAQ
-    *   Jobs: League
+    *   Careers
     *   Terms &. Conditions
     *   Media Guides
     
     *   \*\*\*\*\*
     *   Rule Book
-    *   Jobs: Team
     *   Accessibility
     *   Record &. Fact Book
 *   Initiatives Initiatives nav
