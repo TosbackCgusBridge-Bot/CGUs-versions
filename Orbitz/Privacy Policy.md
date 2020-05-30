@@ -11,7 +11,7 @@ Show Menu Hide Menu
     *   Cars
     *   Vacation Rentals
     *   Cruises
-    *   Things to Do
+    *   Things to do
     *   Deals
     *   Mobile
     *   Rewards
@@ -51,7 +51,7 @@ For customer service, call us toll-free at 1-800-397-3342. For customers outside
 *   Cars
 *   Vacation Rentals
 *   Cruises
-*   Things to Do
+*   Things to do
 *   Deals
 *   Mobile
 *   Rewards
