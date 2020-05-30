@@ -28,9 +28,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Up to 60% off your order!
+Receive 50% off your order!
 
-code: EMERALD pin: PROMOTION DETAILS
+code: GEMS pin: PROMOTION DETAILS
 
 Customer Service Menu
 
