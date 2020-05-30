@@ -36,7 +36,6 @@
         *   Impact Report
         *   Global Internet Report
     *   Programs
-        *   Deploy360
         *   IXP Toolkit
         *   MANRS
 *   About Us
@@ -67,7 +66,7 @@
 *   News
     *   News
         *   Press Releases
-        *   Internet Society in the news
+        *   Internet Society In the News
         *   Blog
         *   Statements
         *   Speeches
