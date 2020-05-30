@@ -36,7 +36,7 @@ Instant Notifications
 
 You'll receive push notifications when your resume is viewed, or when new jobs appear in your most recent search. Making it easy for you to jump right back into your job search.
 
-see how you can up your career status Career Development &. Learning How to Search The transition from a military to civilian career just got easier Read Article Companies hiring this week (May 18) Read Article How to find a job when unemployment is high Read Article Read More Articles Employers Looking to Post a Job?
+see how you can up your career status Career Development &. Learning Companies hiring now - plus available jobs in high-demand industries Read Article How to Search The transition from a military to civilian career just got easier Read Article Companies hiring this week (May 18) Read Article Read More Articles Employers Looking to Post a Job?
 
 We have end-to-end solutions that can keep up with you and your standards.
 
