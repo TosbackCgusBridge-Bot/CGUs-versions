@@ -36,8 +36,8 @@ Close submenu ( Girls ) Girls
 Close submenu ( Collections ) Collections
 
 *   View All
-*   🔥 Deals Extended
-*   Red White + Blue
+*   Summer Essentials
+*   Pride
 *   Twisted for Tie Dye
 *   Get Cozy
 *   New Arrivals
@@ -66,8 +66,8 @@ Close submenu ( Guys ) Guys
 Close submenu ( Collections ) Collections
 
 *   View All
-*   🔥 Deals Extended
-*   Red White + Blue
+*   Summer Essentials
+*   Pride
 *   Twisted for Tie Dye
 *   Get Cozy
 *   New Arrivals
@@ -200,7 +200,7 @@ Close submenu ( Guys ) Guys
 **50-70% Off Everything**  **+ Free Shipping Over $50** Details
 
 *   Select Country
-*   My Account My Account Login Register @media only screen and (min-width: 1025px){ /\* .pt\_product-search-result .search-results-container, .pt\_product-search-noresult .search-results-container, .pt\_content-search-result .search-results-container { box-sizing: border-box. margin: auto. width: calc(100% - 20px). max-width: 1600px !important. margin: 0 auto !important. position: relative !important. display: block !important. right: -0.75% !important. } \*/ ul.search-result-items .grid-tile { width: 23.85% !important. box-sizing: border-box. margin-bottom:5% !important. } .search-result-items .grid-tile { margin: 0 0 1% 0.75% !important. width: calc(33% - 7px). } .pt\_product-search-result .search-results-container, .pt\_product-search-noresult .search-results-container, .pt\_content-search-result .search-results-container { box-sizing: border-box. margin: auto. width: calc(100% - -27px) !important. max-width: none !important. } #secondary, .secondary-container { float: left. width: 13.75rem. position: relative. left: 1.65vw. } .breadcrumb { font-size: 0.75em. letter-spacing: 0.01562rem. line-height: 1em. box-sizing: border-box. margin: auto. width: calc(100% - 20px). max-width: 1280px. padding: 0.875rem 0. margin: auto. width: calc(100% - 20px). max-width: none !important. position: relative. left: 1vw. } } /\* @media only screen and (min-width: 1025px){ .pt\_product-search-result .search-results-container, .pt\_product-search-noresult .search-results-container, .pt\_content-search-result .search-results-container { box-sizing: border-box. margin: auto. width: calc(100% - 0px) !important. margin-left: 2.7vw !important. max-width: none !important. } .primary-content, .account-banner-wrp { box-sizing: border-box. float: right. margin-left: -1px. padding: 0 0 1.25rem. position: relative. width: 78% !important. margin-right: -7vw. } #secondary, .secondary-container { float: left. width: 13.75rem. position: relative. margin-left: 1.5vw !important. } } \*/ /\* #search-result-items .product-tile .product-image .thumb-link img { width:26vw !important. height:19.5vw !important. object-fit:cover !important. } \*/ @media (min-width: 1025px){ ul.search-result-items .grid-tile { /\*width: 23.333% !important;\*/ /\*width: 23.333% !important;\*/ box-sizing: border-box. /\*margin-bottom:0% !important;\*/ } /\* .pt\_product-search-result .search-results-container, .pt\_product-search-noresult .search-results-container, .pt\_content-search-result .search-results-container { box-sizing: border-box. margin: 0 auto. display:block !important. position:relative. width: calc(100% - 20px). max-width: 1600px. } .breadcrumb { font-size: 0.75em. letter-spacing: 0.01562rem. line-height: 1em. box-sizing: border-box. margin: auto. width: calc(100% - 20px). max-width: 1280px. padding: 0.875rem 0. margin: auto. width: calc(100% - 20px). max-width: 1600px !important. } \*/ .search-result-items .grid-tile.new-row, .search-result-items .grid-tile.first, .search-result-items .grid-tile:first-child { margin-left: 0.75% !important. } } /\* @media (min-width: 1900px){ #search-result-items .product-tile .product-image .thumb-link img { width:26vw !important. height:16.5vw !important. object-fit:cover !important. } } \*/ /\* @media only screen and (max-width: 1025px){ #primary-logo-dos{ position: relative. z-index: 100000. left: -12px !important. top: 1px. width: 179px. } } @media only screen and (min-width: 1025px){ .menu-category { } } \*/ @media only screen and (min-width: 1025px){ ul.menu-category>li:nth-of-type(5)>span>a::before { position: relative. z-index: 100000. left: 0px. top: 4px. } ul.menu-category>li:nth-of-type(5)>span>a{ } } /\* @media only screen and (max-width: 320px){ .primary-logo a { content: url(https://staging-webstore-aeropostale.demandware.net/on/demandware.static/-/Sites-aeropostale-Library/default/dw7860ca72/images/logo/AERO19\_003b5c.png). position: relative. z-index: 100000. left: -10px. top: 4px. width: 161px. } } .primary-logo a{ content: url(https://staging-webstore-aeropostale.demandware.net/on/demandware.static/-/Sites-aeropostale-Library/default/dw7860ca72/images/logo/AERO19\_003b5c.pn). position: relative. z-index: 100000. left: -11px. top: 4px. width: 179px. width: -moz-max-content. } \*/ /\* #primary-logo-dos{ position: relative. z-index: 100000. left: -6px. top: 6px. width: 179px. } #primary-logo-tres { position: relative. z-index: 100000. left: -11px. top: 4px. width: 179px. margin-bottom: -5px. } @media only screen and (max-width: 320px){ #primary-logo-dos{ position: relative. z-index: 100000. left: -11px. top: 4px. width: 161px. } #primary-logo-tres { position: relative. z-index: 100000. left: -11px. top: 4px. width: 179px. margin-bottom: -5px. } } \*/ .primary-logo svg{ } .mobile-menu-logo svg{ } .unselectable{ display:none !important. } .newGroundTest{ display:none !important. } .referfriend-link{ display:none !important. } #extole-zone-confirmation{ display:none. } label\[for=shipping-method-ECONOMY\_GROUND-1\]{ display: none. } /\* .shipping-methods-list .form-row:nth-child(4){ display: none !important. } \*/ /\* .step-1::before { content: url(https://development.aeropostale.com/on/demandware.static/-/Sites-aeropostale-Library/default/dwb83bd93a/GIFTGUIDE\_MENU\_ANIMATION.gif). position: relative. z-index: 100000. left: 0px. top: 4px. } \*/ .header-banner { /\*background: #233452 !important;\*/ /\*background: #000!important;\*/ background: #1e3352;!important. } /\* .bopisConfirmation-Message { display: none !important. } .bopisConfirmation-Message { display: none !important. } label\[for=shipping-method-ISPU\]{ display: none !important. } .availability-storepickup{ display:none. } @media only screen and (min-width: 1025px){ .shopping-cart-table .item-delivery-options { width: 90%. display:none !important. margin-left: 3%. margin-top: 3%. } } @media only screen and (max-width: 1025px){ .shopping-cart-table .item-delivery-options { display:none !important. } } \*/ @media only screen and (min-width: 1025px) and (max-width: 1310px){ .menu-category { text-align: center. margin-left: 2%. } } @media only screen and (min-width: 1311px){ .menu-category { text-align: center. margin-left: 5%. } } /\* .menu-category li:nth-child(2) .menu-vertical:nth-child(1) ul li:nth-child(3){ display:none !important. } .menu-category li:nth-child(3) .menu-vertical:nth-child(1) ul li:nth-child(3){ display:none !important. } @media only screen and (min-width: 1026px){ .menu-category ul.menu-category>li:nth-of-type(1)>div>ul:nth-of-type(1)>li:nth-of-type(2)>ul>li:nth-of-type(7)>a{ display:none !important. } .menu-category ul.menu-category>li:nth-of-type(1)>div>ul:nth-of-type(1)>li:nth-of-type(2)>ul>li:nth-of-type(6)>a{ display:none !important. } .menu-category ul.menu-category>li:nth-of-type(2)>div>ul:nth-of-type(1)>li:nth-of-type(2)>ul>li:nth-of-type(4)>a{ display:none !important. } } @media only screen and (max-width: 1025px){ #primary-logo-dos{ position: relative. z-index: 100000. left: -12px !important. top: 1px. width: 179px. } .fakeCategoryOne-girls{ display:none !important. } .fakeCategoryOne-guys{ display:none !important. } #mm-2>ul>li:nth-of-type(6)>a{ display:none !important. } #mm-2>ul>li:nth-of-type(5)>a{ display:none !important. } } \*/ /\* a:empty{ display:none !important. } \*/ /\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*/ /\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*/ /\*\*\*\*\* Header code to add Swim top nav for break-points \*/ /\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*/ /\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*/ @media only screen and (min-width : 1200px) and (max-width : 1310px) { .header-search { width: 10.375rem !important. } nav\[role="navigation"\] { width: 68% !important. } } @media only screen and (min-width : 1025px) and (max-width : 1108px) { .top-banner .top-banner-container { padding: 0 1rem !important. } .header-search { width: 10.375rem !important. } nav\[role="navigation"\] { width: 65% !important. } } .order-information-container div.store-hours::after { content:"Please wait until you've received your Ready for Pickup Confirmation email before going to the store.". text-indent: 0. display: block. line-height: initial. color:#c03. font-size:12px. font-weight: bold. } @media only screen and (min-width: 1025px){ .level-1 >. li{ padding-bottom:19px. } } /\* .promotional-message:nth-child(1){ color:#036. font-weight:bold. } .promotional-message:nth-child(2){ color:#c03. font-weight:bold. } \*/ @media only screen and (min-width: 1025px){ div.header-promotion.slick-initialized.slick-slider{ margin:0 auto. width:380px. } } /\* .header-promotion{ display:none. } \*/ @media only screen and (max-width: 320px){ .secondHeader{ font-size:9px. } .product-name{ padding-bottom:10px. } } @media only screen and (max-width: 1025px){ div.header-promotion.slick-initialized.slick-slider{ margin:0 auto. width:320px. } } .slick-initialized{ display:block. } My Account My Account Login Register Track My Order Wish List Logout  
+*   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
 
 Menu Find a Store Aeropostale
 
@@ -222,8 +222,8 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
-        *   🔥 Deals Extended
-        *   Red White + Blue
+        *   Summer Essentials
+        *   Pride
         *   Twisted for Tie Dye
         *   Get Cozy
         *   New Arrivals
@@ -249,8 +249,8 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
-        *   🔥 Deals Extended
-        *   Red White + Blue
+        *   Summer Essentials
+        *   Pride
         *   Twisted for Tie Dye
         *   Get Cozy
         *   New Arrivals
@@ -380,26 +380,34 @@ precautionary measures in our warehouse to ensure the health and safety of
 our customers and associates. Because of this your shipment may experience  
 delays. Thank you for your patience and understanding. Learn More &. Stay Safe
 
-🔥 Deals End Today!
+Hotter Temps. Cooler Savings.
 
-Shop your favorite Aero Shorts &. Tees before they're gone!
+50-70% Off Everything!
 
-🔥 Deals End Today!
+Feat. Aero Shorts, Tees, Tanks &. **NEW Summer Essentials**
 
-Shop your favorite Aero Shorts  
-&. Tees before they're gone!
+\*Exclusions Apply
 
-Shop Girls 🔥 Deals Shop Guys 🔥 Deals ENDS  
-TODAY!
-
-Memorial Day Extravaganza!
+Hotter Temps. Cooler Savings.
 
 50-70% Off  
 Everything!
 
-In Stores &. Online
+Feat. Aero Shorts, Tees, Tanks  
+&. **NEW Summer Essentials**
 
-Shop Girls Shop Guys
+Shop Girls Shop Guys Girls Summer Essentials Guys Summer Essentials
+
+Bring The Heat  
+From Home
+
+Summer Looks  
+That Deserve A  
+Feature #AeroWorld
+
+**Bring The Heat From Home**  
+Summer Looks That Deserve  
+A Feature #AeroWorld
 
 Nice to See You Again!
 
@@ -416,9 +424,9 @@ precautions to keep our customers and associates safe.
 
 Find A Store Free Store Pick Up Learn More &. Stay Safe Find A Store Free Store Pick Up Learn More &. Stay Safe
 
-**Girls 🔥 Shorts Deals**
+**Girls Shorts Deals**
 
-**Girls 🔥 Shorts Deals**
+**Girls Shorts Deals**
 
 Cute &.  
 Cozy
@@ -427,12 +435,12 @@ Cute &. Cozy
 
 Starting at
 
-$13.87
+$11.87
 
 Lounge-worthy softness.  
 New curve loving fits.
 
-Girls Shorts Girls 🔥 Shorts Deals
+Girls Shorts Girls Summer Essential Shorts
 
 Super High Rise
 
@@ -554,9 +562,9 @@ Beach Chino
 *   8
 *   9
 
-**Guys 🔥 Shorts Deals**
+**Guys Shorts Deals**
 
-**Guys 🔥 Shorts Deals**
+**Guys Shorts Deals**
 
 Cool &.  
 Comfortable
@@ -568,11 +576,11 @@ $15.87
 Next-level of comfort.  
 New Elevated fabric.
 
-Guys Shorts Guys 🔥 Shorts Deals
+Guys Shorts Guys Summer Essential Shorts
 
-**🔥 Tees &. Tanks Deals**
+**Tees &. Tanks Deals**
 
-**🔥 Tees &. Tanks Deals**
+**Tees &. Tanks Deals**
 
 Starting at
 
@@ -581,7 +589,7 @@ $6.87
 Color your #AeroWorld with  
 graphics that say it all.
 
-Shop Girls Tees Shop Guys Tees Girls 🔥 Tees Deals Guys 🔥Tees Deals Previous
+Shop Girls Tees Shop Guys Tees Girls Summer Essential Tees Guys Summer Essential Tees Previous
 
 Athletic Skinny  
 **NEW!**
@@ -699,9 +707,9 @@ Straight
 
 Next
 
-**Aero 🔥 Jeans Deals**
+**Aero Jeans Deals**
 
-**Aero 🔥 Jeans Deals**
+**Aero Jeans Deals**
 
 So soft and stretchy.  
 they're just as comfy as  
@@ -711,13 +719,13 @@ Starting at
 
 Girls $14.87
 
-Girls 🔥 Jeans Deals
+Girls Summer Essential Jeans Shop Girls Jeans
 
 Starting at
 
 Guys $17.87
 
-Guys 🔥 Jeans Deals
+Guys Summer Essential Jeans Shop Guys Jeans
 
 At Aero, we're committed to a better, brighter future.  
 do better, look better, feel better... it's in our jeans.
