@@ -12,7 +12,7 @@ Select Page
     *   \[Tabs\]
         *   \[Custom\]
 
-MarketingCharts’ Privacy Policy Marketing Charts Privacy Policy
+MarketingCharts’ Privacy PolicyMarketing Charts Privacy Policy
 
 We are as mad at spam as you are. We get tons of it ourselves and wouldn’t even imagine adding to this constant barrage of unsolicited bulk email. So our privacy policy is quite simple: we won’t use your email address for any other purpose than the one for which you originally gave it to us: sending you our newsletter and sponsorship content. This may include contacting subscribers to update information once in a while, and, from time to time, inviting some readers to participate in a readership survey. Occasionally we also notify our readers of relevant events and products.
 
@@ -30,7 +30,7 @@ We won’t rent, swap or sell our lists to advertisers, other web sites or list 
 
 We consider our lists a business asset and we reserve the right to sell them if someone was to acquire one of our newsletters. Any potential acquirer would have to commit to respecting this privacy policy and change it only with your active consent.
 
-The Information We Hold Site
+The Information We HoldSite
 
 We do not capture any personal identification information on our site visitors, only anonymous information as detailed in the sections below this one.
 
@@ -94,8 +94,6 @@ Miami, FL 33131
 
 646-543-8460
 
-<img src="/wp-content/uploads/2017/07/MC\_LOGO.png"/>
-
 *   About Us
 *   Digital Store
 *   Services
@@ -131,7 +129,7 @@ Subscribe to Our Newsletter
 
 **Error:** Password and password confirmation do not match
 
-Download Now Pin It on Pinterest
+Download NowPin It on Pinterest
 
 Share This
 
@@ -140,6 +138,8 @@ Share This
 *   Pinterest
 *   LinkedIn
 
+<img alt="" src="https://dev.marketingcharts.com/wp-content/uploads/2018/09/MC-Logo-2.png" />
+
 *   About Us
 *   Digital Store
 *   Services
@@ -147,4 +147,4 @@ Share This
 *   Privacy Policy
 *   Licensing, Copyright &. Fair Use Policy
 
-We use cookies to ensure that we give you the best experience on our website. By continuing to use our website, you are agreeing to our use of cookies.AcceptNoPrivacy PolicyRevoke Cookies<link rel='stylesheet' id='et-gf-open-sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' type='text/css' media='all'/>. <link rel='stylesheet' id='divi-fonts-css' href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext' type='text/css' media='all'/>. <link rel='stylesheet' id='et-builder-googlefonts-cached-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic&#038;ver=5.1.1#038;subset=cyrillic,greek,vietnamese,latin,greek-ext,latin-ext,cyrillic-ext' type='text/css' media='all'/>. <link rel='stylesheet' id='google-font-montserrat-css' href='//fonts.googleapis.com/css?family=Montserrat%3A400&#038;ver=5.1.1' type='text/css' media='all'/>. <link rel='stylesheet' id='google-font-roboto-slab-css' href='//fonts.googleapis.com/css?family=Roboto+Slab%3A400&#038;ver=5.1.1' type='text/css' media='all'/>. <link href='//fonts.googleapis.com/css?family=Open+Sans:300|Open+Sans:400|Open+Sans:700' rel='stylesheet' type='text/css'>. Exact matches only Search in title Search in content Search in comments Search in excerptFilter by Custom Post Type
+We use cookies to ensure that we give you the best experience on our website. By continuing to use our website, you are agreeing to our use of cookies.AcceptNoPrivacy PolicyRevoke Cookies Exact matches only Search in title Search in content Search in comments Search in excerptFilter by Custom Post Type
