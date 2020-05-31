@@ -156,7 +156,7 @@ Professional CAD/CAM tools built on Inventor and AutoCAD Learn more Free trial S
 MEDIA &.  
 ENTERTAINMENT COLLECTION
 
-Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Incentives Hub Overview: Default Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products) Promo Data: Old Geo Promo Container Test Promo Data: May Flash 2020
+Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Incentives Hub Overview: Default Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products) Promo Data: Old Geo Promo Container Test
 
 *   Subscribe for 3 years. Get 10% off.
     
@@ -179,9 +179,7 @@ Free trial
 
 Subscribe
 
-$1,521/year
-
-$1,690
+$1,690/year
 
 Software for Building Information Modeling
 
@@ -201,9 +199,9 @@ Free trial
 
 Subscribe
 
-$336/year
+$420/year
 
-$420 Try, buy, or learn more about Autodesk products See all products Welcome to the new era of connected construction Introducing Autodesk Construction Cloud™
+Try, buy, or learn more about Autodesk products See all products Welcome to the new era of connected construction Introducing Autodesk Construction Cloud™
 
 We’ve combined advanced technology, a network of builders, and powerful predictive insights to connect all stages of the building lifecycle: design, plan, build, and operate.
 
