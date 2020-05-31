@@ -26,60 +26,45 @@ $12.99Women's a.n.a or St. John's Bay Shortsselect styles$5.99Women's St. John's
 
 *   Shop All
 
-Kitchen Appliances CookwareFurnitureMattresses Clean slateUP TO 40% OFF neutral styles makesummer a breeze.select styles  
-Shop Casual ApparelVideo Player is loading.Play VideoPlayMuteCurrent Time 0:00/Duration 0:00Loaded: 0%Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback Rate
+Kitchen Appliances CookwareFurnitureMattresses **Clean slate**UP TO 40% OFF neutral styles make summer a breeze.select styles
 
-Chapters
+*   Shop Casual Apparel
 
-*   Chapters
-
-Descriptions
-
-*   descriptions off, selected
-
-Captions
-
-*   captions and subtitles off, selected
-
-Audio Track
-
-Fullscreen
-
-This is a modal window.
-
-Beginning of dialog window. Escape will cancel and close the window.
-
-TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal Dialog
-
-End of dialog window.
-
-UP TO 40% OFFselect stylesLiz Claibornea.n.aVan HeusenIZODHeat Advisory!Summer's no bummer with these products built to take the heat.Shop Heat-Protecting HaircareShop Summer-Ready Sephora BeautyExcluded from coupon.Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
-Learn MoreShop Gift Cards Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
-
-*   Sealy® Davlin LTD Plush Pillowtop - Mattress Only $353.99 - $599with code~$1,030 - $1,820~10
-*   Sealy Essentials™ Ivory Treasure - Mattress Only $149 - $298.99with code~$430 - $920~29
-*   JCPenney Home Ultra Performance 575 Sateen Deep Pocket Sheet Set $14.99 - $62.99with code~$50 - $150~165
-*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
+*   Liz Claiborne
     
-    $20sale
+*   a.n.a
     
-    ~$124.98~184
-*   Liz Claiborne Womens V Neck Short Sleeve Blouse $16.65with code~$37~10
+*   Van Heusen
+    
+*   IZOD
+    
+
+Shop Casual ApparelHeat Advisory!Summer's no bummer with these products built to take the heat.Shop Heat-Protecting HaircareShop Summer-Ready Sephora BeautyExcluded from coupon.Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+Learn MoreShop Gift Cards Recommended for You
+
+*   St. John's Bay Womens Mid Rise 11" Bermuda Short $9.74with code~$32~5
 *   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
     $20sale
     
     ~$124.98~131
+*   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $14.99with code~$6 - $48~534
+*   Nike Revolution 5 Womens Running Shoes
+    
+    $48.75sale
+    
+    ~$65~14
+*   St. John's Bay Mid Rise Capris $11.24with code~$32~34
+*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $4.49 - $28.49with code~$10 - $72~1685
 
 Sponsored Items
 
-*   Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set
-    
-    $189.99sale
-    
-    ~$240~192
-*   Lee® Relaxed Fit Denim Jeans $22.49with code~$44~1316
 *   Google Nest Hello Video Doorbell $206.10with code362
+*   Bissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum
+    
+    $360
+    
+    2356
 *   Brim 0.8L Electric Kettle
     
     $149.99sale
@@ -90,40 +75,40 @@ Sponsored Items
     $89.99sale
     
     ~$94~116
-*   Fisher-Price Laugh &. Learn Smart Stages Sis
-    
-    $19.99
-    
-    48
-*   Bissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum
-    
-    $360
-    
-    2355
+*   Lee® Plain Front Relaxed All Day Twill Pant $22.49with code~$44~783
 *   Dyson® V8 Animal Cord-Free Vacuum
     
     $569.99sale
     
     ~$669~184
-*   Lee® Relaxed All Day Pant - Plus $24.74with code~$48~534
-*   Lee® Flex Motion Straight Leg Jean $26.24with code~$50~104
-*   Farberware 12-Pc. Cookware Set $62.99with code~$190~52
-*   Lee® Instantly Slims Classic Jean- Tall $24.74with code~$48~161
-*   Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit) $22.49with code~$44~629
-*   Lee® Plain Front Relaxed All Day Twill Pant $22.49with code~$44~783
-*   Lee® Sculpting Pull On Jean - Tall $24.74with code~$48~15
-*   Fisher-Price Laugh &. Learn Smart Stages Puppy
+*   Fisher-Price Laugh &. Learn Smart Stages Sis
     
     $19.99
     
-    60
-*   Farberware Cookstart 15-pc. Cookware Set $62.99with code~$120~61
+    48
+*   Lee® Flex Motion Straight Leg Jean $26.24with code~$50~104
+*   Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit) $22.49with code~$44~629
+*   Farberware 12-Pc. Cookware Set $62.99with code~$190~52
+*   Lee® Relaxed All Day Pant - Plus $24.74with code~$48~534
+*   Lee® Relaxed All Day Pant- Tall $24.74with code~$48~110
+*   Lee® Flex Motion Straight Leg Pant $26.24with code~$50~36
 *   Fisher-Price Classic Xylophone
     
     $15.99
     
     7
-*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $22.50with code
+*   Fisher-Price Laugh &. Learn Smart Stages Puppy
+    
+    $19.99
+    
+    60
+*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $83.99with code~$180~55
+*   Farberware Cookstart 15-pc. Cookware Set $62.99with code~$120~61
+*   Lee® Instantly Slims Classic Jean- Plus
+    
+    $11.99 - $32.99sale
+    
+    ~$48~131
 
 Shop and Save at JCPenney
 
