@@ -250,23 +250,23 @@ When it rains, it pours: Today’s cloud asset management challenges
     *   Emailed
     *   Recent
     
-    *   Nigerian ‘Scattered Canary’ gang exploits CARES Act with fraudulent unemployment claims
-    *   Covid-related malspam campaign impersonates U.S. Treasury to steal taxpayer credentials
-    *   26M LiveJournal bloggers’ credentials a hit on dark web six years later
-    *   ZeuS byproduct ‘Silent Night’ Zbot ‘not a game-changer’
-    *   PonyFinal deployed in human-operated ransomware attacks
+    *   Kentucky is 6th state to disclose leak of unemployment claims amid Covid-19
+    *   Arkansas, Illinois COVID-19 unemployment websites leak data
+    *   Six need-to-know takeaways from the Verizon breach report
+    *   Barr says review of Russia investigation won't result in criminal probes of Obama, Biden
+    *   Six Cisco servers compromised when hackers exploited SaltStack Salt flaws
     
-    *   Israeli websites defaced, as more offensive cyber activity flares up in Middle East
-    *   Facial recognition fails accuracy test raises privacy concerns. ACLU sues Clearview AI
-    *   PonyFinal deployed in human-operated ransomware attacks
-    *   Email phishing scam impersonates LogMeIn to trick remote workers
+    *   How security can enable business continuity by protecting newly remote employees
+    *   FBI cracks Pensacola shooter's iPhone without Apple's help, discovers al Qaeda connection
+    *   Netwalker ransomware actors go fileless to make attacks untraceable
+    *   StrandHogg 2.0 bug enables Android app hijacking, poses patching challenge
+    *   Six Cisco servers compromised when hackers exploited SaltStack Salt flaws
+    
+    *   Six Cisco servers compromised when hackers exploited SaltStack Salt flaws
+    *   States' lack of DMARC adoption ups risk of Covid-19 email spoofing scams
     *   Shiny Hunters’ latest hit: Minted among 73.1M records offered
-    
-    *   How insurance CISOs can address cloud migration security concerns
-    *   Trump EO takes aim at social media firms. seeks to remove Section 230 protections
-    *   Test platform leaks Bank of America clients' Covid-19 PPP loan applications
-    *   Facial recognition fails accuracy test raises privacy concerns. ACLU sues Clearview AI
-    *   House pulls vote on FISA bill
+    *   Kentucky is 6th state to disclose leak of unemployment claims amid Covid-19
+    *   Minneapolis reportedly hit with DoS attack amid protests over Floyd killing
 
 Back to Top
 
@@ -299,4 +299,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
