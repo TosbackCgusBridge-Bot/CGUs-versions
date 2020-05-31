@@ -11,7 +11,7 @@ PR8 1LJ
 
 Introduction
 
-The Register strongly believes in respecting individuals' right to privacy. The Register will never use your personal data for any use beyond that stated or the permissions you give us or as required by law. This Privacy Policy ("**Privacy Policy**") aims to give you information on how The Register collects and processes your personal data when you use www.theregister.co.uk ("**Website**").
+The Register strongly believes in respecting individuals' right to privacy. The Register will never use your personal data for any use beyond that stated or the permissions you give us or as required by law. This Privacy Policy ("**Privacy Policy**") aims to give you information on how The Register collects and processes your personal data when you use www.theregister.com ("**Website**").
 
 This Privacy Policy should be read in conjunction with our Terms and Conditions of Use, our Cookie Policy, and for California consumers, our CCPA statement.
 
