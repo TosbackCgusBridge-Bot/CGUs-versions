@@ -174,14 +174,7 @@ Senior Internet Security and Privacy Expert
 
 Senior Director, Online Trust
 
-*   About the Internet Society
-*   About the IETF
 *   Careers
-*   Contact Us
-*   Follow Us
-*   Sharing Our Content
-*   Affiliated Sites
-*   Privacy Policy
 
 **USA**  
 11710 Plaza America Drive, Suite 400  
