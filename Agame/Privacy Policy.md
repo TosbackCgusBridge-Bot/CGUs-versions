@@ -30,14 +30,14 @@ View more results
     *   Goldie Princess: Skin Doctor
     *   Lady Bug and Friends Maker
     *   Mermaid Sauna Flirting
-    *   Car Salon
     *   Bad Teeth Makeover
-    *   Floral Real Life Manicure
-    *   Babysitter Madness
+    *   Car Salon
     *   Year Round Fashionista: Curly
-    *   Girls Photo Shopping Dress Up: Fashion Game
+    *   Floral Real Life Manicure
     *   Eliza's Heavenly Wedding
     *   Ice Slushy Maker
+    *   Babysitter Madness
+    *   Dark Chocolate Blackberry Cheesecake: Sara's Cooking Class
 *   Racing
     
     Top Categories
@@ -56,12 +56,12 @@ View more results
     *   Madalin Stunt Cars 2
     *   Hill Racing Challenge
     *   City Car Stunts 2
-    *   Horse Racing
     *   Real Dog Racing Simulator
-    *   Burnout Drift: Car Driving Game 3D
-    *   Off-Roader V6
+    *   Horse Racing
     *   Stock Car Hero
+    *   Off-Roader V6
     *   City Stunts
+    *   Burnout Drift: Car Driving Game 3D
     *   Cars 3D
     *   Xcross Madness
     *   Madalin Cars Multiplayer
@@ -84,12 +84,12 @@ View more results
     *   Shot Trigger
     *   Miami Crime Simulator 3D
     *   Archery World Tour
-    *   Deer Hunter
     *   Pixel Gun Apocalypse 3
+    *   Deer Hunter
     *   Animal Hunt 3D
     *   Sniper Reloaded
-    *   Apple Shooter
     *   King Soldier
+    *   Apple Shooter
     *   Winter Clash 3D
     *   Tank Trouble 2
     *   Mr. Bullet
@@ -114,14 +114,14 @@ View more results
     *   Bubble Shooter
     *   Mahjong Connect Classic
     *   1001 Arabian Nights
-    *   3D Mahjong
     *   TenTrix
     *   Garden Tales
+    *   3D Mahjong
     *   Gold Train FRVR
-    *   Farm Connect 2
-    *   Word Wipe
     *   Mahjong Link
+    *   Farm Connect 2
     *   Jewelry Match
+    *   Word Wipe
 *   Multiplayer
     
     Top Categories
@@ -148,8 +148,8 @@ View more results
     *   Kogama: PvP
     *   Ludo 4 Players
     *   Master Chess Multiplayer
-    *   Empire: World War 3
     *   Madalin Cars Multiplayer
+    *   Empire: World War 3
 *   Action
     
     Top Categories
@@ -167,15 +167,15 @@ View more results
     *   Subway Clash 3D
     *   Shot Trigger
     *   Miami Crime Simulator 3D
+    *   Pixel Gun Apocalypse 3
     *   Deer Hunter
     *   Short Life
-    *   Pixel Gun Apocalypse 3
     *   Stickman Warriors
     *   Gun Builder 2
-    *   Super Buddy Kick
     *   Bomb It 6
-    *   Wormate.io
     *   Slither.io
+    *   Super Buddy Kick
+    *   Wormate.io
     *   Sniper Reloaded
     *   Naruto Online
 *   Adventure
@@ -198,13 +198,13 @@ View more results
     *   Adam and Eve 3
     *   Dog Simulator: Puppy Craft
     *   RoBBie
-    *   Bob the Robber 4: Season 2 Russia
     *   Adam and Eve 4
+    *   Bob the Robber 4: Season 2 Russia
     *   Adam and Eve 2
     *   Tiger Simulator 3D
     *   World Crafts
-    *   Chrome Dino
     *   Adam and Eve
+    *   Chrome Dino
     *   Ouija Voices
 *   More
     
