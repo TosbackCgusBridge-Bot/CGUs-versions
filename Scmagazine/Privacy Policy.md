@@ -250,17 +250,17 @@ When it rains, it pours: Today’s cloud asset management challenges
     *   Emailed
     *   Recent
     
-    *   Kentucky is 6th state to disclose leak of unemployment claims amid Covid-19
-    *   Arkansas, Illinois COVID-19 unemployment websites leak data
-    *   Six need-to-know takeaways from the Verizon breach report
-    *   Barr says review of Russia investigation won't result in criminal probes of Obama, Biden
-    *   Six Cisco servers compromised when hackers exploited SaltStack Salt flaws
-    
     *   How security can enable business continuity by protecting newly remote employees
     *   FBI cracks Pensacola shooter's iPhone without Apple's help, discovers al Qaeda connection
-    *   Netwalker ransomware actors go fileless to make attacks untraceable
+    *   26M LiveJournal bloggers’ credentials a hit on dark web six years later
+    *   Achieving “security in sunshine” through a security champions program
+    *   Patch round-up: Cisco repairs RCE bug. notable fixes from VMware, Google, Adobe
+    
     *   StrandHogg 2.0 bug enables Android app hijacking, poses patching challenge
-    *   Six Cisco servers compromised when hackers exploited SaltStack Salt flaws
+    *   Nigerian ‘Scattered Canary’ gang exploits CARES Act with fraudulent unemployment claims
+    *   Email phishing scam impersonates LogMeIn to trick remote workers
+    *   Shiny Hunters’ latest hit: Minted among 73.1M records offered
+    *   Ramsay spy framework built to subvert air-gapped defenses
     
     *   Six Cisco servers compromised when hackers exploited SaltStack Salt flaws
     *   States' lack of DMARC adoption ups risk of Covid-19 email spoofing scams
@@ -299,4 +299,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+
+You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
