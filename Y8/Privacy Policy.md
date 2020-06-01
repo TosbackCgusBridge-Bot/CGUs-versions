@@ -12,25 +12,25 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1383 games
-*   Most Popular Games 21011 games
+*   Best of new games 1381 games
+*   Most Popular Games 21021 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,144 games
-*   Driving &. Racing 6,371 games
-*   Strategy &. RPG 3,620 games
+*   For Girls 24,143 games
+*   Driving &. Racing 6,372 games
+*   Strategy &. RPG 3,621 games
 *   Management &. Sim 4,272 games
-*   Thinking 12,651 games
-*   Action &. Adventure 14,630 games
+*   Thinking 12,652 games
+*   Action &. Adventure 14,631 games
 *   Sports 3,317 games
-*   Shooting 9,080 games
+*   Shooting 9,078 games
 *   Fighting 2,074 games
-*   Skill 11,184 games
-*   Arcade &. Classic 9,324 games
+*   Skill 11,185 games
+*   Arcade &. Classic 9,339 games
 *   Fun &. Crazy 4,962 games
 
 Play with friends  
