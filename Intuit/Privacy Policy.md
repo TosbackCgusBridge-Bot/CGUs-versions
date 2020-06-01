@@ -40,75 +40,92 @@ Kitchen Appliances CookwareFurnitureMattresses **Clean slate**UP TO 40% OFF ne
     
 
 Shop Casual ApparelHeat Advisory!Summer's no bummer with these products built to take the heat.Shop Heat-Protecting HaircareShop Summer-Ready Sephora BeautyExcluded from coupon.Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
-Learn MoreShop Gift Cards Recommended for You
+Learn MoreShop Gift Cards Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
 *   St. John's Bay Womens Mid Rise 11" Bermuda Short $9.74with code~$32~5
-*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
-    
-    $20sale
-    
-    ~$124.98~131
-*   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $14.99with code~$6 - $48~534
-*   Nike Revolution 5 Womens Running Shoes
-    
-    $48.75sale
-    
-    ~$65~14
 *   St. John's Bay Mid Rise Capris $11.24with code~$32~34
-*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $4.49 - $28.49with code~$10 - $72~1685
+*   Liz Claiborne Womens Split Crew Neck Short Sleeve Henley Shirt $12.15with code~$27~10
+*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $6.74with code~$13~27
+*   JCPenney Home Emma Quilt $41.24 - $56.24with code~$100 - $140~418
+*   JCPenney Home Ultra Performance 575 Sateen Deep Pocket Sheet Set $14.99 - $62.99with code~$50 - $150~165
 
 Sponsored Items
 
-*   Google Nest Hello Video Doorbell $206.10with code362
-*   Bissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum
+*   Bissell® SpinWave® Hard Floor Spin Mop
     
-    $360
+    $129
     
-    2356
 *   Brim 0.8L Electric Kettle
     
     $149.99sale
     
     ~$150~22
+*   Samsung Galaxy Fit Mens Multi-Function Black Smart Watch-Sm-R370nzkaxar
+    
+    $99.99
+    
+    38
+*   Google Nest Hello Video Doorbell $206.10with code362
 *   Waterpik WF-06W010 Whitening Water Flosser
     
     $89.99sale
     
     ~$94~116
-*   Lee® Plain Front Relaxed All Day Twill Pant $22.49with code~$44~783
-*   Dyson® V8 Animal Cord-Free Vacuum
+*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
     
-    $569.99sale
+    $14.99
     
-    ~$669~184
+    10
 *   Fisher-Price Laugh &. Learn Smart Stages Sis
     
     $19.99
     
     48
-*   Lee® Flex Motion Straight Leg Jean $26.24with code~$50~104
-*   Lee® Instantly Slims Relaxed Fit Straight Jean (Classic Fit) $22.49with code~$44~629
-*   Farberware 12-Pc. Cookware Set $62.99with code~$190~52
-*   Lee® Relaxed All Day Pant - Plus $24.74with code~$48~534
-*   Lee® Relaxed All Day Pant- Tall $24.74with code~$48~110
-*   Lee® Flex Motion Straight Leg Pant $26.24with code~$50~36
-*   Fisher-Price Classic Xylophone
-    
-    $15.99
-    
-    7
 *   Fisher-Price Laugh &. Learn Smart Stages Puppy
     
     $19.99
     
     60
-*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $83.99with code~$180~55
+*   Fisher-Price Classic Xylophone
+    
+    $15.99
+    
+    7
 *   Farberware Cookstart 15-pc. Cookware Set $62.99with code~$120~61
-*   Lee® Instantly Slims Classic Jean- Plus
+*   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $83.99with code~$180~36
+*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $22.50with code
+*   Fisher-Price Linkimals A To Z Otter
     
-    $11.99 - $32.99sale
+    $19.99
     
-    ~$48~131
+    23
+*   Fisher-Price Linkimals Smooth Moves Sloth
+    
+    $29.99
+    
+    34
+*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $83.99with code~$140 - $160~94
+*   Fisher-Price Learn with Me Zebra Walker
+    
+    $24.99
+    
+    39
+*   Samsung Galaxy Womens Multi-Function Rose Goldtone Smart Watch-Sm-R810nzdaxar
+    
+    $259.99
+    
+    249
+*   Farberware® Classic Series 15-pc. Stainless Steel Cookware Set $175with code71
+*   Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set
+    
+    $189.99sale
+    
+    ~$240~192
+*   Circulon® Symmetry 10" &. 12" Hard-Anodized French Skillet Set
+    
+    $69.99sale
+    
+    ~$100~160
 
 Shop and Save at JCPenney
 
