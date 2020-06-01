@@ -1,10 +1,10 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content In Season, on SALE. shop new markdowns now Thrive in the sun with styles made for summer. shop new arrivals Buckle has begun to open our stores. Find Your Store for up-to-date information. EXCLUSIVE styles that will keep you living your best styled life. Save on our Gimmicks Collection
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Buckle has begun to open our stores. Find Your Store for up-to-date information. For a limited time, $40 off select SOREL styles. shop now Live the styled life in NEW Arrivals. shop now
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-Thrive in the sun with styles made for summer. shop new arrivals
+Live the styled life in NEW Arrivals. shop now
 
 *   Women
 *   Men
