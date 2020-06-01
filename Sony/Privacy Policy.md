@@ -120,7 +120,7 @@ Learn More
 
 PS4 Tournaments: Open Series — Starting June 1, compete in participating titles for a shot at rewards like PS4 themes, avatars, and cash prizes. Details:  http://play.st/2X4fesy  pic.twitter.com/8VpoMrL67t
 
-4 days ago View Tweet Instagram Post B\_RFl3sFAtH
+5 days ago View Tweet Instagram Post B\_RFl3sFAtH
 
 A New Compact Camera
 
