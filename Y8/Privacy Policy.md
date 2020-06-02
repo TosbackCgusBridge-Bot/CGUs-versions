@@ -12,29 +12,33 @@ New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1381 games
-*   Most Popular Games 21021 games
+*   Best of new games 1397 games
+*   Most Popular Games 21031 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,143 games
-*   Driving &. Racing 6,372 games
+*   For Girls 24,160 games
+*   Driving &. Racing 6,373 games
 *   Strategy &. RPG 3,621 games
 *   Management &. Sim 4,272 games
-*   Thinking 12,652 games
-*   Action &. Adventure 14,631 games
-*   Sports 3,317 games
+*   Thinking 12,656 games
+*   Action &. Adventure 14,632 games
+*   Sports 3,318 games
 *   Shooting 9,078 games
 *   Fighting 2,074 games
-*   Skill 11,185 games
-*   Arcade &. Classic 9,339 games
-*   Fun &. Crazy 4,962 games
+*   Skill 11,190 games
+*   Arcade &. Classic 9,344 games
+*   Fun &. Crazy 4,963 games
 
 Play with friends  
-Powered by Y8 Account 143 Y8 Multiplayer Games 2,223 Y8 High Score Games 1,263 Y8 Achievements Games 896 Y8 Screenshots Games 1,705 Y8 Online Save Games 3,398 All Y8 Games Games Help us improve Bad translation? Social
+Powered by Y8 Account 143 Y8 Multiplayer Games 2,223 Y8 High Score Games 1,263 Y8 Achievements Games 896 Y8 Screenshots Games 1,705 Y8 Online Save Games 3,398 All Y8 Games Games Last Highscore:
+
+**17,828** points on Moto X3M by NicknameIsUsed
+
+Help us improve Bad translation? Social
 
 *   Upload
 *   Game Publishers
