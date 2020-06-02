@@ -9,209 +9,209 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
-    *   Shinola Watches Up to 50% Off
-    *   BOSS Men Up to 70% Off
-    *   BOSS Women Up to 70% Off
+    *   IPPOLITA Fine Jewelry Up to 70% Off
+    *   SPANX Starting at $15
+    *   Vince Camuto Up to 70% Off Incl. Plus &. Petites
+    *   Vince Camuto Shoes Up to 65% Off
+    *   Hudson Jeans Up to 70% Off
+    *   Flared Dresses Up to 65% Off Incl. Plus &. Petites
+    *   Vince Camuto Handbags &. More
+    *   Summer Linen Styles Up to 70% Off Incl. Plus
+    *   Flowy Tops Under $25 Incl. Plus &. Petites
+    *   Spring Style: Activewear Essentials
+    *   Vince Camuto Men Up to 70% Off
+    *   Great Gifts for Dad: Polos Under $35
+    *   Sandals Under $40
+    *   Chaco
+    *   Kenneth Cole Up to 65% Off
+    *   For Dad: Men's Slippers
+    *   Girls' Dresses Up to 60% Off
+    *   Blankets, Comforters &. More Up to 60% Off
+    *   Vince Camuto Luggage Up to 75% Off
+    *   Merrell Kids
+    *   Chaco Men
+    *   JAG Jeans Incl. Plus &. Petites
+    *   Bring on Summer: Tops &. More ft. BLVD
+    *   Hart Schaffner Marx Up to 50% Off
+    *   Hudson Jeans Men Up to 60% Off
+    
+    *   Backyard BBQ: Summer Shorts Up to 70% Off
+    *   Must-Have Spring Jackets Up to 65% Off
+    *   Pumps &. More Up to 70% Off
+    *   Men's Shoe Steals Up to 65% Off
+    *   Walter Baker
+    *   Summer Skirts Under $30 Incl. Plus &. Petites
+    *   Style to the Maxi: Summer Dresses Under $40
+    *   Swim Essentials: Chic One-Pieces
+    *   Shoes ft. Nine West Up to 60% Off
+    *   Free Press &. Shimera Under $30
+    *   Hudson Jeans Kids Up to 55% Off
+    *   Comfort Sandals &. Pumps Up to 60% Off
+    *   Dive into Summer: Men's Swim Starting at $15
+    *   Rope These In: Espadrilles
+    *   Sleep Well: Kids' Pajamas ft. Leveret
+    *   UGG
+    *   UGG Kids
+    *   Tommy Bahama Men's Styles Incl. Big &. Tall
+    *   Tommy Bahama Up to 70% Off
+    *   Easy Style: Cloth &. Stone and More Up to 70% Off
+    *   Summer Must-Haves: Plus Styles from $20
+    *   Summer Must-Haves: Petite Styles from $20
+    *   UGG Sleep &. Lounge
+    *   Free Shipping: Decor for Every Style
+    *   Just Add Water: Swim &. Cover-Ups Up to 65% Off
+    
+    *   Live-In Lounge: Sleep &. More Under $40
+    *   Summer Refresh: Men's Loafers &. Slip-Ons
+    *   Sandals Under $30
+    *   UGG Home Up to 50% Off
+    *   Tommy Bahama Luggage Up to 75% Off
+    *   UGG Men
+    *   Best of Skin Care Under $20
+    *   Fresh Finds: Mules Up to 55% Off
+    *   Trending Now: Kids' Sets Up to 60% Off
+    *   Kids' Casual Shoes: Joe Fresh &. More
+    *   Easy Summer Sandals ft. Crocs
     *   Converse Men
-    *   Converse from $40
-    *   Max Studio Up to 75% Off Incl. Plus &. Petites
-    *   TOV
-    *   Short Sleeve Tops Under $25 Incl. Plus
-    *   BOSS Men's Cologne &. Accessories Up to 50% Off
-    *   Naturalizer &. SOUL Naturalizer Up to 60% Off
     *   BOSS Men's Shoes Up to 60% Off
-    *   WFH Edit: Dressed-Up Tops
-    *   Converse Kids
-    *   Breeze into Summer: Cutout Shoes
     *   Refresh Your Walls: Framed Art Up to 63% Off
-    *   Shapewear We Love Under $40
-    *   Performance Stretch Suiting Up to 75% Off
     *   NEST Fragrances
     *   Pet Accessories Starting at $20
-    *   Aratta Up to 70% Off
-    *   Converse Kids' Apparel &. More
-    *   ASICS Men
-    *   Madewell Starting at $20 Incl. Plus &. Petites
-    *   Eileen Fisher Up to 65% Off
-    
-    *   Socialite Under $40
-    *   Great Gifts for Dads: Zegna Sunglasses &. More
-    *   Embroidered &. Ruffled Styles Under $40 Incl. Plus
-    *   Champion Active Under $40
-    *   Robert Graham Up to 70% Off
-    *   Champion Men Starting at $15
-    *   Lacoste Men's Shoes
-    *   Lucky Brand Shoes Up to 60% Off
-    *   Espadrilles Up to 60% Off
-    *   Play All Day: Toys ft. Fisher-Price
-    *   Best for Baby: Styles Up to 65% Off
-    *   Summer Ready: Kids' Sandals from $22
-    *   Kids' Water Shoes ft. Crocs
-    *   Sleek Shoes for Dad ft. Robert Graham
     *   Bath &. Body Under $20
-    *   For Dad: Men's Luxe Shoes ft. To Boot New York
     *   Free Shipping: Faux Plants &. Planters
-    *   Kids' Swim Up to 60% Off
-    *   Timberland Kids
-    *   Summer Basics: Our Best Men's Brands Up to 70% Off
     *   Home Decor Refresh: Planters &. More
-    *   $35 &. Under: Entrance-Making Doormats
-    *   Kenneth Cole New York Men's Shoes
-    *   IT Cosmetics
-    
-    *   ASICS
-    *   Best of Hair Care Under $20
-    *   Urban Decay Up to 50% Off
-    *   Cozy Throws from $20
-    *   Fragrances for Him Under $30
-    *   Pet Accessories Up to 56% Off
-    *   Something for Your BFF: Pet Accessories from $10
-    *   Luxe Towel Sets Up to 75% Off
+    *   Refresh Your Space: Indoor &. Outdoor Decor
     *   Framed Art Up to 70% Off
-    *   Lorenzo Uomo Up to 70% Off
-    *   JOE'S Jeans Men Up to 65% Off
-    *   Mezlan
-    *   Intimates &. Sleep We Love Under $30
-    *   JOE'S Jeans Up to 65% Off
-    *   ASICS Kids
-    *   JOE'S Jeans Kids Up to 55% Off
-    *   Wusthof Cutlery: Classic Collection Up to 50% Off
-    *   Wireless Earbuds &. More Up to 75% Off
-    *   Love Stitch &. West Kei Under $50 Incl. Plus
-    *   Set to Sweat: Active Under $30
-    *   Spring Jackets from $30 Incl. Plus &. Petites
-    *   Abound Starting at $15
-    *   Complete the Look: Jackets Up to 70% Off
-    *   Now &. Zen: Yogawear Starting at $20
+    *   Sunday Style Steals Up to 80% Off
+    *   Free Shipping: Wall Decor &. Accents
+    *   $35 &. Under: Entrance-Making Doormats
 *   WomenShop Sale Events
     
-    *   Shinola Watches Up to 50% Off
-    *   BOSS Women Up to 70% Off
-    *   Converse from $40
-    *   Max Studio Up to 75% Off Incl. Plus &. Petites
-    *   TOV
-    *   Short Sleeve Tops Under $25 Incl. Plus
-    *   BOSS Men's Cologne &. Accessories Up to 50% Off
-    *   Naturalizer &. SOUL Naturalizer Up to 60% Off
-    *   WFH Edit: Dressed-Up Tops
-    *   Breeze into Summer: Cutout Shoes
-    *   Shapewear We Love Under $40
-    *   NEST Fragrances
-    *   Aratta Up to 70% Off
-    *   Madewell Starting at $20 Incl. Plus &. Petites
-    *   Eileen Fisher Up to 65% Off
-    *   Socialite Under $40
-    *   Great Gifts for Dads: Zegna Sunglasses &. More
-    *   Embroidered &. Ruffled Styles Under $40 Incl. Plus
+    *   IPPOLITA Fine Jewelry Up to 70% Off
+    *   SPANX Starting at $15
+    *   Vince Camuto Up to 70% Off Incl. Plus &. Petites
+    *   Vince Camuto Shoes Up to 65% Off
+    *   Hudson Jeans Up to 70% Off
+    *   Flared Dresses Up to 65% Off Incl. Plus &. Petites
+    *   Vince Camuto Handbags &. More
+    *   Summer Linen Styles Up to 70% Off Incl. Plus
+    *   Flowy Tops Under $25 Incl. Plus &. Petites
+    *   Spring Style: Activewear Essentials
+    *   Sandals Under $40
+    *   Chaco
+    *   Kenneth Cole Up to 65% Off
+    *   Vince Camuto Luggage Up to 75% Off
+    *   JAG Jeans Incl. Plus &. Petites
+    *   Bring on Summer: Tops &. More ft. BLVD
+    *   Backyard BBQ: Summer Shorts Up to 70% Off
+    *   Must-Have Spring Jackets Up to 65% Off
+    *   Pumps &. More Up to 70% Off
+    *   Walter Baker
+    *   Summer Skirts Under $30 Incl. Plus &. Petites
+    *   Style to the Maxi: Summer Dresses Under $40
     
-    *   Champion Active Under $40
-    *   Lucky Brand Shoes Up to 60% Off
-    *   Espadrilles Up to 60% Off
+    *   Swim Essentials: Chic One-Pieces
+    *   Shoes ft. Nine West Up to 60% Off
+    *   Free Press &. Shimera Under $30
+    *   Comfort Sandals &. Pumps Up to 60% Off
+    *   Rope These In: Espadrilles
+    *   UGG
+    *   Tommy Bahama Up to 70% Off
+    *   Easy Style: Cloth &. Stone and More Up to 70% Off
+    *   Summer Must-Haves: Plus Styles from $20
+    *   Summer Must-Haves: Petite Styles from $20
+    *   UGG Sleep &. Lounge
+    *   Just Add Water: Swim &. Cover-Ups Up to 65% Off
+    *   Live-In Lounge: Sleep &. More Under $40
+    *   Sandals Under $30
+    *   Tommy Bahama Luggage Up to 75% Off
+    *   Best of Skin Care Under $20
+    *   Fresh Finds: Mules Up to 55% Off
+    *   Easy Summer Sandals ft. Crocs
+    *   NEST Fragrances
     *   Bath &. Body Under $20
-    *   IT Cosmetics
-    *   ASICS
-    *   Best of Hair Care Under $20
-    *   Urban Decay Up to 50% Off
-    *   Fragrances for Him Under $30
-    *   Pet Accessories Up to 56% Off
-    *   Intimates &. Sleep We Love Under $30
-    *   JOE'S Jeans Up to 65% Off
-    *   Love Stitch &. West Kei Under $50 Incl. Plus
-    *   Set to Sweat: Active Under $30
-    *   Spring Jackets from $30 Incl. Plus &. Petites
-    *   Abound Starting at $15
-    *   Complete the Look: Jackets Up to 70% Off
-    *   Now &. Zen: Yogawear Starting at $20
+    *   Sunday Style Steals Up to 80% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
     *   Lingerie &. Shapewear
-    *   Watches
+    *   Jewelry
+    *   Handbags
 *   MenShop Sale Events
     
-    *   Shinola Watches Up to 50% Off
-    *   BOSS Men Up to 70% Off
-    *   Converse Men
-    *   BOSS Men's Cologne &. Accessories Up to 50% Off
-    *   BOSS Men's Shoes Up to 60% Off
-    *   Performance Stretch Suiting Up to 75% Off
-    *   ASICS Men
-    *   Great Gifts for Dads: Zegna Sunglasses &. More
-    *   Robert Graham Up to 70% Off
+    *   Vince Camuto Men Up to 70% Off
+    *   Great Gifts for Dad: Polos Under $35
+    *   For Dad: Men's Slippers
+    *   Chaco Men
+    *   Hart Schaffner Marx Up to 50% Off
+    *   Hudson Jeans Men Up to 60% Off
+    *   Men's Shoe Steals Up to 65% Off
     
-    *   Champion Men Starting at $15
-    *   Lacoste Men's Shoes
-    *   Sleek Shoes for Dad ft. Robert Graham
-    *   For Dad: Men's Luxe Shoes ft. To Boot New York
-    *   Summer Basics: Our Best Men's Brands Up to 70% Off
-    *   Kenneth Cole New York Men's Shoes
-    *   Lorenzo Uomo Up to 70% Off
-    *   JOE'S Jeans Men Up to 65% Off
-    *   Mezlan
+    *   Dive into Summer: Men's Swim Starting at $15
+    *   Tommy Bahama Men's Styles Incl. Big &. Tall
+    *   Summer Refresh: Men's Loafers &. Slip-Ons
+    *   Tommy Bahama Luggage Up to 75% Off
+    *   UGG Men
+    *   Converse Men
+    *   BOSS Men's Shoes Up to 60% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
-    *   Converse Kids
-    *   Converse Kids' Apparel &. More
-    *   Play All Day: Toys ft. Fisher-Price
-    *   Best for Baby: Styles Up to 65% Off
-    *   Summer Ready: Kids' Sandals from $22
-    *   Kids' Water Shoes ft. Crocs
-    *   Kids' Swim Up to 60% Off
-    *   Timberland Kids
-    *   ASICS Kids
-    *   JOE'S Jeans Kids Up to 55% Off
+    *   Girls' Dresses Up to 60% Off
+    *   Merrell Kids
+    *   Hudson Jeans Kids Up to 55% Off
+    *   Sleep Well: Kids' Pajamas ft. Leveret
+    *   UGG Kids
+    *   Trending Now: Kids' Sets Up to 60% Off
+    *   Kids' Casual Shoes: Joe Fresh &. More
     
     Shop By Category
-    *   Girls' Shoes
     *   Girls
-    *   Boys
-    *   Toys
     *   Baby
+    *   Boys
+    *   Girls' Shoes
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Blankets, Comforters &. More Up to 60% Off
+    *   Vince Camuto Luggage Up to 75% Off
+    *   Free Shipping: Decor for Every Style
+    *   UGG Home Up to 50% Off
     *   Refresh Your Walls: Framed Art Up to 63% Off
     *   Pet Accessories Starting at $20
+    
     *   Free Shipping: Faux Plants &. Planters
     *   Home Decor Refresh: Planters &. More
-    *   $35 &. Under: Entrance-Making Doormats
-    *   Cozy Throws from $20
-    
-    *   Something for Your BFF: Pet Accessories from $10
-    *   Luxe Towel Sets Up to 75% Off
+    *   Refresh Your Space: Indoor &. Outdoor Decor
     *   Framed Art Up to 70% Off
-    *   Wusthof Cutlery: Classic Collection Up to 50% Off
-    *   Wireless Earbuds &. More Up to 75% Off
+    *   Free Shipping: Wall Decor &. Accents
+    *   $35 &. Under: Entrance-Making Doormats
     
     Shop By Category
     *   Home Decor
     *   Outdoor Living
     *   Pet Accessories
+    *   Bedding
     *   Luggage &. Travel
     *   Cleaning &. Organization
     *   Kitchen &. Tabletop
-    *   Bedding
 *   BeautyShop Sale Events
     
+    *   Best of Skin Care Under $20
     *   NEST Fragrances
     *   Bath &. Body Under $20
-    *   IT Cosmetics
-    *   Best of Hair Care Under $20
-    *   Urban Decay Up to 50% Off
-    *   Fragrances for Him Under $30
     
     Shop By Category
     *   Skin Care
     *   Bath &. Body
     *   Men’s Grooming
+    *   Fragrance
     *   Makeup
     *   Hair Care
 
