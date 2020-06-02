@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   What’s the deal with edge computing?
+*   Open source software for open infrastructure
 *   Multus: how to escape the Kubernetes eth0 prison
-*   Snapcraft development tips: how to troubleshoot snaps with services
-*   Ubuntu on WSL 2 Is Generally Available
