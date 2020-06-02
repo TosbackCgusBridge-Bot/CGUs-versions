@@ -238,11 +238,11 @@ For users in the United States, any changes or modifications will be effective i
 
 For users in the EEA, any changes or modifications will be effective upon your express consent as you will be notified of any changes by virtue of a pop-up, banner, or other notification mechanism when you seek to access our services after we issue a change or modification. Upon consent, the revisions on the services shall apply to all use of our services and all acts or omissions occurring after the effective date of the revised Privacy Policy.
 
-Work-from-home has huge, built-in security challenges
+Keeping your eyes on the asset management prize
 
-Best practices for IT asset management during a pandemic
+Why unmanaged device discovery is critical for asset management programs
 
-When it rains, it pours: Today’s cloud asset management challenges
+Q&A: Developing an asset management strategy
 
 *   MOST POPULAR
     
@@ -250,23 +250,23 @@ When it rains, it pours: Today’s cloud asset management challenges
     *   Emailed
     *   Recent
     
-    *   How security can enable business continuity by protecting newly remote employees
-    *   FBI cracks Pensacola shooter's iPhone without Apple's help, discovers al Qaeda connection
-    *   26M LiveJournal bloggers’ credentials a hit on dark web six years later
-    *   Achieving “security in sunshine” through a security champions program
-    *   Patch round-up: Cisco repairs RCE bug. notable fixes from VMware, Google, Adobe
+    *   Hacker group announces jailbreak for iOS 11 - 13.5
+    *   'Sandworm Team' hackers from Russia are exploiting Exim, warns NSA
+    *   WolfRAT malware targets WhatsApp, Messenger
+    *   5 Steps organizations should take to ensure CCPA compliance
+    *   Execs, dignitaries call on nations to help end cyberattacks on health care orgs
     
+    *   British airline easyJet breached, data of 9 million customers compromised
+    *   ZeuS byproduct ‘Silent Night’ Zbot ‘not a game-changer’
+    *   PonyFinal deployed in human-operated ransomware attacks
+    *   Home Chef confirms data breach after eight million records sold on dark web
     *   StrandHogg 2.0 bug enables Android app hijacking, poses patching challenge
-    *   Nigerian ‘Scattered Canary’ gang exploits CARES Act with fraudulent unemployment claims
-    *   Email phishing scam impersonates LogMeIn to trick remote workers
-    *   Shiny Hunters’ latest hit: Minted among 73.1M records offered
-    *   Ramsay spy framework built to subvert air-gapped defenses
     
+    *   Anonymous capitalizes on Minneapolis unrest with police, municipal cyberattacks
+    *   VMware discloses important local privilege escalation bug found in 3 products
+    *   'Sandworm Team' hackers from Russia are exploiting Exim, warns NSA
+    *   5 Steps organizations should take to ensure CCPA compliance
     *   Six Cisco servers compromised when hackers exploited SaltStack Salt flaws
-    *   States' lack of DMARC adoption ups risk of Covid-19 email spoofing scams
-    *   Shiny Hunters’ latest hit: Minted among 73.1M records offered
-    *   Kentucky is 6th state to disclose leak of unemployment claims amid Covid-19
-    *   Minneapolis reportedly hit with DoS attack amid protests over Floyd killing
 
 Back to Top
 
