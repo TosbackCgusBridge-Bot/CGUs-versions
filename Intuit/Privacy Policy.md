@@ -1,7 +1,7 @@
-Our COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: HOORAY9 Details  
-EXTRA 25% OFF under $75 with code: HOORAY9 Details  
-Free Shipping Over $49  DetailsUP TO 60% OFF DOORBUSTERS Online only for a limited time—Shop Now  
-Our COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: HOORAY9 Details  
+Our COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: WINDOW18 Details  
+EXTRA 25% OFF under $75 with code: WINDOW18 Details  
+Window Flash Sale! EXTRA 35% OFF w/ code: WINDOW18 Details  
+Free Shipping Over $49  DetailsOur COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: WINDOW18 Details  
 
 Enable Accessibility
 
@@ -22,7 +22,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-$12.99Women's a.n.a or St. John's Bay Shortsselect styles$5.99Women's St. John's Bay Teeselect styles$4.99Women's Xersion Tankselect styles$17.99Men's St. John's Bay Button-Down Shirtselect styles$7.99Girl's Arizona Bike Shortsselect styles$34.99 ANY SIZEHome Expressions 7-Zone Memory FoamMattress  Topper$79.99Cooks 6-Qt. Fast Pot Multi-Cooker45% OFFDiamond Jewelryselect stylesUP TO 35% OFFKitchen essentials to takethe stress out of cooking  
+UP TO 35% OFFKitchen essentials to takethe stress out of cooking  
 
 *   Shop All
 
@@ -40,94 +40,7 @@ Kitchen Appliances CookwareFurnitureMattresses **Clean slate**UP TO 40% OFF ne
     
 
 Shop Casual ApparelHeat Advisory!Summer's no bummer with these products built to take the heat.Shop Heat-Protecting HaircareShop Summer-Ready Sephora BeautyExcluded from coupon.Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
-Learn MoreShop Gift Cards Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
-
-*   St. John's Bay Womens Mid Rise 11" Bermuda Short $9.74with code~$32~5
-*   St. John's Bay Mid Rise Capris $11.24with code~$32~34
-*   Liz Claiborne Womens Split Crew Neck Short Sleeve Henley Shirt $12.15with code~$27~10
-*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $6.74with code~$13~27
-*   JCPenney Home Emma Quilt $41.24 - $56.24with code~$100 - $140~418
-*   JCPenney Home Ultra Performance 575 Sateen Deep Pocket Sheet Set $14.99 - $62.99with code~$50 - $150~165
-
-Sponsored Items
-
-*   Bissell® SpinWave® Hard Floor Spin Mop
-    
-    $129
-    
-*   Brim 0.8L Electric Kettle
-    
-    $149.99sale
-    
-    ~$150~22
-*   Samsung Galaxy Fit Mens Multi-Function Black Smart Watch-Sm-R370nzkaxar
-    
-    $99.99
-    
-    38
-*   Google Nest Hello Video Doorbell $206.10with code362
-*   Waterpik WF-06W010 Whitening Water Flosser
-    
-    $89.99sale
-    
-    ~$94~116
-*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
-    
-    $14.99
-    
-    10
-*   Fisher-Price Laugh &. Learn Smart Stages Sis
-    
-    $19.99
-    
-    48
-*   Fisher-Price Laugh &. Learn Smart Stages Puppy
-    
-    $19.99
-    
-    60
-*   Fisher-Price Classic Xylophone
-    
-    $15.99
-    
-    7
-*   Farberware Cookstart 15-pc. Cookware Set $62.99with code~$120~61
-*   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $83.99with code~$180~36
-*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $22.50with code
-*   Fisher-Price Linkimals A To Z Otter
-    
-    $19.99
-    
-    23
-*   Fisher-Price Linkimals Smooth Moves Sloth
-    
-    $29.99
-    
-    34
-*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $83.99with code~$140 - $160~94
-*   Fisher-Price Learn with Me Zebra Walker
-    
-    $24.99
-    
-    39
-*   Samsung Galaxy Womens Multi-Function Rose Goldtone Smart Watch-Sm-R810nzdaxar
-    
-    $259.99
-    
-    249
-*   Farberware® Classic Series 15-pc. Stainless Steel Cookware Set $175with code71
-*   Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set
-    
-    $189.99sale
-    
-    ~$240~192
-*   Circulon® Symmetry 10" &. 12" Hard-Anodized French Skillet Set
-    
-    $69.99sale
-    
-    ~$100~160
-
-Shop and Save at JCPenney
+Learn MoreShop Gift Cards Shop and Save at JCPenney
 
 At JCPenney, we're always helping you find amazing deals on all your favorite spring fashion trends. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! We take pride in being a one-stop shop for all your needs, with as many options as you can imagine as well as your favorite brands such as Nike, Adidas, Levi’s, Dockers, and Vans. Shop the latest styles in women's clothing and check out the variety of women's blouses and sundresses available at amazing prices, including new floral dresses and polka dot dresses. Save on men's polos and khakis, girls dresses and capris, sunglasses, and Bermuda shorts for the family.
 
