@@ -19,6 +19,7 @@ A Message to Our Movie Fans Read More Gift Cards | Offers | Sign In Sign Out
     *   The SpongeBob Movie: Sponge on the Run
     *   Wonder Woman 1984
     *   Antebellum
+    *   Bill &. Ted Face the Music
     *   A Quiet Place Part II (2020)
     *   Candyman (2020)
     *   See All Coming Soon
@@ -526,7 +527,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   May Celebrity Birthdays
+*   June Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Follow Us
