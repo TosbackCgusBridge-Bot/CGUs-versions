@@ -1,4 +1,4 @@
-We use our own and third-party cookies to improve your experience and our services. By continuing and using the site, including by remaining on the landing page, you consent to the use of cookies. Click here for more information on our **Cookie Policy**.Got it! Skip to main content Advertising Open menu button Primary nav
+We use our own and third-party cookies to improve your experience and our services. By continuing and using the site, including by remaining on the landing page, you consent to the use of cookies. Click here for more information on our **Cookie Policy**.Got it! Skip to main content Open menu button Primary nav
 
 *   NEWS
 *   SCORES
