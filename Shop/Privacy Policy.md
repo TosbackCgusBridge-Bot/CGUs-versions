@@ -33,9 +33,9 @@ Lenovo Explore Close
         *   IdeaPad 3
         *   Lenovo New Products
         
-        Memorial Day Sale
+        Sale
         
-        From ultra thin to ultra powerful - shop our selection of laptops and enjoy instant savings today!
+        Shop our weekly sale on laptops for work, home or school &. save today!
         
     *   Desktops
         
@@ -66,9 +66,9 @@ Lenovo Explore Close
         *   M920 SFF
         *   Desktop Deals
         
-        Memorial Day Sale
+        Sale
         
-        From powerful yet tiny dekstops to sleek All in Ones for the whole family, Lenovo has you covered for all your desktop needs.
+        Click to visit desktop deals &. enjoy weekly savings on traditional towers, all in ones &. more!
         
     *   Workstations
         
@@ -95,9 +95,9 @@ Lenovo Explore Close
         *   ThinkStation P330 Tiny
         *   ThinkStation P330 Tower
         
-        Memorial Day Sale
+        Sale
         
-        Power &. reliability with options for any workspace. Enjoy instant savings today!
+        Get the power you need with our wide selection of highly rated workstations. Enjoy savings now!
         
     *   Tablets
         
@@ -123,9 +123,9 @@ Lenovo Explore Close
         
         The best selling family entertainment tablet
         
-        Memorial Day Sale
+        Sale
         
-        Shop and save big on smart devices &. tablets for the whole family!
+        Find the perfect tablet or smart device for you and the whole family. Enjoy weekly discounts today!
         
     *   Accessories &. Software
         
@@ -192,9 +192,9 @@ Lenovo Explore Close
         *   Monitor Accessories
         *   Monitor FAQ
         
-        Memorial Day Sale
+        Sale
         
-        Complete your office or gaming setup today! Shop our wide selection of monitors for the entire family &. save big
+        Shop weekly deals &. complete your work from home, gaming, or school setup today!
         
     *   Gaming
         
@@ -296,7 +296,7 @@ Lenovo Explore Close
         
         Things to consider when choosing a laptop
         
-    *   Memorial Day
+    *   Sale
         
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
@@ -327,9 +327,9 @@ Lenovo Explore Close
         *   Trade In Program
         *   Outlet
         
-        Memorial Day Sale
+        Work From Home
         
-        Shop our wide range of products and enjoy doorbuster pricing this Memorial Day
+        Shop our wide range of essentials to keep you productive at home!
         
 *   Phones
 *   Data Center
@@ -1207,7 +1207,7 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement **Need help with an order? Talk to a representative at 1-855-253-6686 #2** **or chatChat Now** **Need help with an order? Talk to a representative at 1-855-253-6686 #2** **or chatChat Now**×Created with sketchtool.CHAT NOW
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Created with sketchtool.CHAT NOW
 
 How can we help
 
