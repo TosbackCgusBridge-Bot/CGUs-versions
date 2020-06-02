@@ -90,8 +90,8 @@ SAM may offer contests, sweepstakes, and promotions that are sponsored by third-
 
 SAM may use advertising servers developed by third parties to display ads on this Website. Some of these ads may contain cookies that are set by third parties (advertisers, sponsors) and may use anonymized information (not including your name, address, email address, telephone number) about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. We do not have access to these cookies or any information that they transmit. The SAM privacy statement does not cover any use of information that a third-party ad server may have collected from you. Please note that SAM does not engage in the practice of showing or tracking users for interest-based advertisements on its child-directed sites.
 
-For more information on ad serving, please go to http://www.allaboutcookies.org/ad-serving/ . If you would like to know your choices about not having information used by these third parties, please go to:  
-http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options .
+For more information on ad serving, please go to https://www.allaboutcookies.org/ad-serving/ . If you would like to know your choices about not having information used by these third parties, please go to:  
+https://www.networkadvertising.org/understanding-online-advertising/what-are-my-options .
 
 A Notice About External Links
 
@@ -125,7 +125,7 @@ Users in the European Union may have the right under certain circumstances:
 
 You can exercise the rights listed above at any time by contacting us as indicated in the "How To Contact Us" section of this privacy statement. We will apply your preferences going forward. You agree that if you exercise any of the rights listed above (except to receive a copy of your personal information), you may no longer and will no longer access the Website, and we will no longer provide any services associated with the Website (if any) to you.
 
-If your request or concern is not satisfactorily resolved by us, you may approach your local data protection authority, (to locate your data protection authority see http://ec.europa.eu/justice/data-protection/bodies/authorities/index\_en.html ).
+If your request or concern is not satisfactorily resolved by us, you may approach your local data protection authority, (to locate your data protection authority see https://ec.europa.eu/info/law/law-topic/data-protection\_en ).
 
 Residents of California: Your Rights and Choices
 
