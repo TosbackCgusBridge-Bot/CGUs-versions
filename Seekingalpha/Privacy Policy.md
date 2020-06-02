@@ -16,6 +16,11 @@ Sign inMarketplaceSubscribe
     *   Top REITs
     *   Top Growth Stocks
 *   My Portfolio
+    *   All Portfolios
+    
+    *   \+ Create Portfolio
+    *   Manage Email Summary
+    *   Manage Real Time Email Alerts
 *   Authors
     *   My Authors
     *   Author Email Alerts
@@ -342,4 +347,4 @@ By using this Site, you consent to the terms of our Privacy Policy and to Seekin
 
 _Updated: December 26, 2019_
 
-Seeking AlphaRSS Feeds|Advertise with Us|Sitemap|About Us|Feedback|Careers|Contact UsTerms of Use|Privacy|Market Data Disclaimer|© 2020 Seeking Alpha <img src="https://sb.scorecardresearch.com/p?c1=2&c2=8500672&cv=2.0&cj=1" width="0" height="0" />. <div style="position:fixed. top:0. left:0. display:none" width="1" height="1">. <img src="/xgCxM9By/xhr/api/v1/collector/noScript.gif?appId=PXxgCxM9By">. </div>. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+Seeking AlphaRSS Feeds|Advertise with Us|Sitemap|About Us|Feedback|Careers|Contact UsTerms of Use|Privacy|Market Data Disclaimer|© 2020 Seeking Alpha <img src="https://sb.scorecardresearch.com/p?c1=2&c2=8500672&cv=2.0&cj=1" width="0" height="0" />. <div style="position:fixed. top:0. left:0. display:none" width="1" height="1">. <img src="/xgCxM9By/xhr/api/v1/collector/noScript.gif?appId=PXxgCxM9By">. </div>.
