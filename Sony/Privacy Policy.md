@@ -102,11 +102,13 @@ The Xperia 1 II Combines a 4K HDR OLED Display with the Best of Alpha Camera Tec
 
 Learn More
 
+Play video: The Xperia 1 II Combines a 4K HDR OLED Display with the Best of Alpha Camera Tech Close video: The Xperia 1 II Combines a 4K HDR OLED Display with the Best of Alpha Camera Tech
+
 *   Share on Facebook: The Xperia 1 II Combines a 4K HDR OLED Display with the Best of Alpha Camera Tech
 *   Share on Twitter: The Xperia 1 II Combines a 4K HDR OLED Display with the Best of Alpha Camera Tech
 *   Copy URL to Share: The Xperia 1 II Combines a 4K HDR OLED Display with the Best of Alpha Camera Tech
 
-<img class="bg-img" data-linkname="en:set\_a:\_3x2-1:image:mobile:XperiaPresale-June-01-2020:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="The Xperia 1 II Combines a 4K HDR OLED Display with the Best of Alpha Camera Tech Xperia-Presale" data-img1x="/content/dam/sony/homepage/2020-june/6-1/203\_KV\_600\_600\_without\_copy.jpg" data-img2x="/content/dam/sony/homepage/2020-june/6-1/203\_KV\_745\_500\_without\_copy.jpg" src="/content/dam/sony/homepage/2020-june/6-1/203\_KV\_745\_500\_without\_copy.jpg" alt="The Xperia 1 II Combines a 4K HDR OLED Display with the Best of Alpha Camera Tech"/>. <img class="bg-img" data-linkname="en:set\_a:\_3x2-1:image:mobile:XperiaPresale-June-01-2020:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="The Xperia 1 II Combines a 4K HDR OLED Display with the Best of Alpha Camera Tech Xperia-Presale" data-img1x="/content/dam/sony/homepage/2020-june/6-1/203\_KV\_600\_600\_without\_copy.jpg" data-img2x="/content/dam/sony/homepage/2020-june/6-1/203\_KV\_745\_500\_without\_copy.jpg" src="/content/dam/sony/homepage/2020-june/6-1/203\_KV\_600\_600\_without\_copy.jpg" alt="The Xperia 1 II Combines a 4K HDR OLED Display with the Best of Alpha Camera Tech Mobile"/>.
+<img class="bg-img video-EMqgyJjrY8k" data-linkname="en:set\_a:\_3x2-1:video:mobile:XperiaPresale-June-01-2020:gwt:image:EMqgyJjrY8k" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="The Xperia 1 II Combines a 4K HDR OLED Display with the Best of Alpha Camera Tech EMqgyJjrY8k Xperia-Presale" data-img1x="/content/dam/sony/homepage/2020-june/6-1/203\_KV\_600\_600\_without\_copy.jpg" data-img2x="/content/dam/sony/homepage/2020-june/6-1/203\_KV\_745\_500\_without\_copy.jpg" src="/content/dam/sony/homepage/2020-june/6-1/203\_KV\_745\_500\_without\_copy.jpg" alt="The Xperia 1 II Combines a 4K HDR OLED Display with the Best of Alpha Camera Tech"/>. <img class="bg-img video-EMqgyJjrY8k" alt="The Xperia 1 II Combines a 4K HDR OLED Display with the Best of Alpha Camera Tech Mobile" data-linkname="en:set\_a:\_3x2-1:video:mobile:XperiaPresale-June-01-2020:gwt:image-mobile:EMqgyJjrY8k" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="The Xperia 1 II Combines a 4K HDR OLED Display with the Best of Alpha Camera Tech EMqgyJjrY8k Xperia-Presale" data-img1x="/content/dam/sony/homepage/2020-june/6-1/203\_KV\_600\_600\_without\_copy.jpg" data-img2x="/content/dam/sony/homepage/2020-june/6-1/203\_KV\_745\_500\_without\_copy.jpg" src="/content/dam/sony/homepage/2020-june/6-1/203\_KV\_600\_600\_without\_copy.jpg"/>.
 
 Truly Wireless Headphones as Tough as Your Workout
 
@@ -124,7 +126,7 @@ Right now, we want to use our platform to spread information &. support. Please 
   
 When we all know more, we can do more. (3/3)
 
-1 day ago View Tweet Instagram Post CA0MiJppWKV
+2 days ago View Tweet Instagram Post CA0MiJppWKV
 
 Work From Home
 
