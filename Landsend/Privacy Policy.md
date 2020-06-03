@@ -28,9 +28,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive 50% off all swimwear, water shoes and more. 40% off everything else!
+Receive an additional 50% off sale &. clearance styles. 30% off full-price styles!
 
-code: WARM pin: PROMOTION DETAILS
+code: WAVES pin: PROMOTION DETAILS
 
 Customer Service Menu
 
