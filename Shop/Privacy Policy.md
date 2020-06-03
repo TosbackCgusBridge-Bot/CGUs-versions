@@ -229,7 +229,6 @@ Lenovo Explore Close
         *   Hyper X
         *   Headsets &. Headphones
         *   Lenovo Legion 5i
-        *   Mad Catz
     *   Business
         
         *   Always Free Shipping
