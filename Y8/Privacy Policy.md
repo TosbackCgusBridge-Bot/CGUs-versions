@@ -3,40 +3,40 @@
 *   games
 *   videos
 
-New Games Next in  00:00
+games videos New Games Next in  06:54
 
-*   By Date Next addition in 00:00
+*   By Date Next addition in 06:54
 
 *   Most Liked Best games from last 2 months
 
 Categories &. more LIBRARY
 
-*   New Games Next in 00:00
-*   Best of new games 1397 games
-*   Most Popular Games 21031 games
+*   New Games Next in 06:54
+*   Best of new games 1395 games
+*   Most Popular Games 21043 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,160 games
-*   Driving &. Racing 6,373 games
+*   For Girls 24,159 games
+*   Driving &. Racing 6,376 games
 *   Strategy &. RPG 3,621 games
-*   Management &. Sim 4,272 games
+*   Management &. Sim 4,274 games
 *   Thinking 12,656 games
-*   Action &. Adventure 14,632 games
+*   Action &. Adventure 14,636 games
 *   Sports 3,318 games
 *   Shooting 9,078 games
-*   Fighting 2,074 games
-*   Skill 11,190 games
-*   Arcade &. Classic 9,344 games
-*   Fun &. Crazy 4,963 games
+*   Fighting 2,075 games
+*   Skill 11,196 games
+*   Arcade &. Classic 9,347 games
+*   Fun &. Crazy 4,965 games
 
 Play with friends  
 Powered by Y8 Account 143 Y8 Multiplayer Games 2,223 Y8 High Score Games 1,263 Y8 Achievements Games 896 Y8 Screenshots Games 1,705 Y8 Online Save Games 3,398 All Y8 Games Games Last Highscore:
 
-**17,828** points on Moto X3M by NicknameIsUsed
+**123** points on Military Wars 3D Multiplayer by LianOrlando
 
 Help us improve Bad translation? Social
 
@@ -87,7 +87,7 @@ Register Log in My Profile 0 points
 *   games
 *   videos
 
-New Games Most Popular Games × ×
+games videos New Games Most Popular Games × ×
 
 Privacy Policy Effective on 25th May 2018
 
