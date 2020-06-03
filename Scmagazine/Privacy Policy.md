@@ -250,23 +250,23 @@ Q&A: Developing an asset management strategy
     *   Emailed
     *   Recent
     
-    *   Hacker group announces jailbreak for iOS 11 - 13.5
-    *   'Sandworm Team' hackers from Russia are exploiting Exim, warns NSA
-    *   WolfRAT malware targets WhatsApp, Messenger
-    *   5 Steps organizations should take to ensure CCPA compliance
-    *   Execs, dignitaries call on nations to help end cyberattacks on health care orgs
-    
-    *   British airline easyJet breached, data of 9 million customers compromised
+    *   Covid-related malspam campaign impersonates U.S. Treasury to steal taxpayer credentials
+    *   VMware discloses important local privilege escalation bug found in 3 products
+    *   Turla's ComRAT v4 uses Gmail web UI to receive commands, steal data
     *   ZeuS byproduct ‘Silent Night’ Zbot ‘not a game-changer’
-    *   PonyFinal deployed in human-operated ransomware attacks
-    *   Home Chef confirms data breach after eight million records sold on dark web
+    *   SC Product Reviews: Identity &. Access Management
+    
+    *   Zero-day credential phishing attack aimed at C-suite execs impersonates U.S. Supreme Court
+    *   Form-based phishing attacks impersonate branded file-sharing, productivity sites
+    *   Arbonne breach of 3,500+ Calif. residents’ PII could test privacy law
+    *   Fixed Apple sign-in bug could have enabled hijacking of 3rd-party accounts
     *   StrandHogg 2.0 bug enables Android app hijacking, poses patching challenge
     
-    *   Anonymous capitalizes on Minneapolis unrest with police, municipal cyberattacks
-    *   VMware discloses important local privilege escalation bug found in 3 products
-    *   'Sandworm Team' hackers from Russia are exploiting Exim, warns NSA
-    *   5 Steps organizations should take to ensure CCPA compliance
-    *   Six Cisco servers compromised when hackers exploited SaltStack Salt flaws
+    *   Amtrak breach impacts unknown number of Guest Rewards accounts
+    *   First Look: ReversingLabs Titanium Platform
+    *   SC Product Reviews: Identity &. Access Management
+    *   Multilingual malware attacks on industrial sector suppliers designed to thwart detection
+    *   Malware in GitHub-hosted projects designed to spread among open-source developers
 
 Back to Top
 
