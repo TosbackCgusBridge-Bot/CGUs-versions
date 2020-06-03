@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   MicroK8s now native on Windows and macOS
 *   What’s the deal with edge computing?
 *   Open source software for open infrastructure
-*   Multus: how to escape the Kubernetes eth0 prison
