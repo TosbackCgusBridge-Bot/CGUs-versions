@@ -28,6 +28,7 @@ Buckle has begun to open our stores. Find Your Store for up-to-date information.
         *   Gift Cards
         *   Shop by Outfits
         *   Special Offers
+        *   The Comfy Shop
         *   Women's Brands
         
         *   Clothing
