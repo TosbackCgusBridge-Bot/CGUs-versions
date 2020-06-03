@@ -1,4 +1,4 @@
-HR Tech Privacy
+HR Tech Privacy Back to Indeed
 
 *   Home
 *   Our Sites
@@ -50,7 +50,7 @@ Visit Indeed
 
 **Privacy Policy**
 
-Last updated May 26, 2020
+Last updated June 2, 2020
 
 **Summary of Indeed’s Privacy Policy** **1\. Introduction**
 
@@ -157,7 +157,7 @@ Please review the “Last Updated” legend at the top of this page to determine
 
 **1.5 Indeed’s approach to privacy and the General Data Protection Regulation (GDPR)**
 
-Please note this Privacy Policy describes, in a comprehensive manner, how Indeed processes your data. For more information on Indeed’s approach to privacy and GDPR, click here.
+Please note this Privacy Policy describes, in a comprehensive manner, how Indeed processes your data. For more information on Indeed’s approach to the GDPR, CCPA, and privacy generally, please visit Indeed’s Privacy FAQ
 
 **2\. Information Collected**
 
@@ -638,7 +638,7 @@ If your browser is not listed here, consult the documentation that your particul
 
 To opt out of the collection and use of information for ad targeting please feel free to exercise your rights as detailed in section 10 of our Privacy Policy, or alternatively contact Indeed as detailed in section 15 of our Privacy Policy.
 
-In addition, Indeed may also provide an employer with code for a Conversion Tracker to place on its Site that pings the job seeker web beacon and tracks whenever a job seeker has applied to a job on that employer’s website. This Conversion Tracker will attribute an application to Indeed any time the job seeker started their search on Indeed, despite any intervening activity. Indeed does not have access to the cookies in the employer’s domain. The Conversion Tracker is simply a counter that notifies Indeed that a job seeker has applied. If a job seeker has disabled the web beacon, the Conversion Tracker will have no functionality. If you would like to remove yourself from Indeed’s job seeker web beacon, you must click here.
+In addition, Indeed may also provide an employer with code for a Conversion Tracker to place on its Site that pings the job seeker web beacon and tracks whenever a job seeker has applied to a job on that employer’s website. This Conversion Tracker will attribute an application to Indeed any time the job seeker started their search on Indeed, despite any intervening activity. Indeed does not have access to the cookies in the employer’s domain. The Conversion Tracker is simply a counter that notifies Indeed that a job seeker has applied. If you would like to remove yourself from Indeed’s job seeker web beacon, you must use our web beacon opt-out.
 
 Indeed uses the AdWords and Remarketing Lists features of Google Analytics for Display Advertisers. Indeed and Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our Site. This means that vendors including Google will display Indeed promotional material on other sites you visit across the Internet.
 
