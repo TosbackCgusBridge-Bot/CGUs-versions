@@ -1,14 +1,14 @@
-Our COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: WINDOW18 Details  
+Our COVID-19 response  DetailsEXTRA 30% OFF $75+ with code: WINDOW18 Details  
 EXTRA 25% OFF under $75 with code: WINDOW18 Details  
-Window Flash Sale! EXTRA 35% OFF w/ code: WINDOW18 Details  
-Free Shipping Over $49  DetailsOur COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: WINDOW18 Details  
+Last chance! Window Flash Sale EXTRA 35% OFF w/ code: WINDOW18 Details  
+Free Shipping Over $49  DetailsOur COVID-19 response  DetailsEXTRA 30% OFF $75+ with code: WINDOW18 Details  
 
 Enable Accessibility
 
 *   StoresAurora MallMore Stores14200 E Alameda Ave, Aurora, CO, 80012303-344-9901Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed. Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   Father's Day &. Trending
 *   Home &. Lifestyle
@@ -42,107 +42,105 @@ Kitchen Appliances CookwareFurnitureMattresses **Clean slate**UP TO 40% OFF ne
 Shop Casual ApparelHeat Advisory!Summer's no bummer with these products built to take the heat.Shop Heat-Protecting HaircareShop Summer-Ready Sephora BeautyExcluded from coupon.Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Learn MoreShop Gift Cards Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Sealy Essentials™ Ivory Treasure - Mattress Only $149 - $298.99with code~$430 - $920~29
+*   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $14.99with code~$6 - $48~534
 *   Sealy® Davlin LTD Plush Pillowtop - Mattress Only $353.99 - $599with code~$1,030 - $1,820~11
-*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
+*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $6.74with code~$13~27
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
     $124.98
     
-    185
-*   Liz Claiborne Womens V Neck Short Sleeve Blouse $16.65with code~$37~10
-*   St. John's Bay Mid Rise Cropped Pants - Plus $17.24with code~$49~
-*   a.n.a Womens 3.5'' Chino Short $11.24with code~$30~6
+    131
+*   Liz Claiborne Luxury Egyptian Hygrocotton Loops Bath Towel $5.99 - $41.24with code~$16 - $124~133
+*   Nike Revolution 5 Womens Running Shoes
+    
+    $48.75sale
+    
+    ~$65~14
 
 Sponsored Items
 
-*   Google Nest Hello Video Doorbell $206.10with code362
-*   Bissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum
+*   Brim 19-Bar Espresso Maker
     
-    $360
+    $430
     
-    2360
-*   Brim 0.8L Electric Kettle
+    26
+*   Fisher-Price Rock-A-Stack Clacker
     
-    $149.99sale
+    $4.49
     
-    ~$150~22
 *   Fisher-Price Laugh &. Learn Smart Stages Sis
     
     $19.99
     
     48
-*   Waterpik WF-06W010 Whitening Water Flosser
+*   Bissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum
     
-    $89.99sale
+    $360
     
-    ~$94~116
-*   Samsung Galaxy Fit Mens Multi-Function Black Smart Watch-Sm-R370nzkaxar
+    2360
+*   Google Nest Cam IQ Indoor Security Camera 2-Pack $448.20with code26
+*   Brim 0.8L Electric Kettle
     
-    $99.99
+    $149.99sale
     
-    38
+    ~$150~22
+*   Brim 8 Cup French Press Coffee Maker
+    
+    $59.99sale
+    
+    ~$75~6
 *   Dyson® V8 Animal Cord-Free Vacuum
     
     $569.99sale
     
     ~$669~184
-*   Fisher-Price Laugh &. Learn Smart Stages Puppy
-    
-    $19.99
-    
-    60
 *   Fisher-Price Laugh &. Learn Click &. Learn Laptop
     
     $14.99
     
     10
-*   Fisher-Price Linkimals Smooth Moves Sloth
+*   Samsung Galaxy Fit Mens Multi-Function Black Smart Watch-Sm-R370nzkaxar
     
-    $29.99
-    
-    34
-*   Fisher-Price Linkimals A To Z Otter
-    
-    $19.99
-    
-    23
-*   Samsung Galaxy Mens Multi-Function Black Smart Watch-Sm-R800nzsaxar
-    
-    $279.99
-    
-    341
-*   Fisher-Price Learn with Me Zebra Walker
-    
-    $24.99
+    $99.99
     
     39
-*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
 *   Fisher-Price Classic Xylophone
     
     $15.99
     
     7
+*   Fisher-Price Laugh &. Learn Smart Stages Puppy
+    
+    $19.99
+    
+    62
+*   Fisher-Price Learn with Me Zebra Walker
+    
+    $24.99
+    
+    39
+*   Fisher-Price Linkimals Smooth Moves Sloth
+    
+    $29.99
+    
+    34
+*   Google Nest Cam IQ Outdoor Security Camera 2-Pack $629.10with code49
 *   Tommee Tippee Advanced Anti Colic Baby Bottles – Clear 9 oz
     
     $8.99
     
     44
-*   Samsung Galaxy Active 2 44mm Mens Multi-Function Black Smart Watch-Sm-R820nzkaxar
+*   Samsung Galaxy Mens Multi-Function Black Smart Watch-Sm-R800nzsaxar
     
-    $299.99
+    $279.99
     
-    47
+    341
+*   Google Nest Hello Video Doorbell $206.10with code362
 *   Samsung Galaxy Active 2 40mm Mens Multi-Function Black Smart Watch-Sm-R830nzkaxar
     
     $279.99
     
     30
-*   Samsung Galaxy Active Mens Black Smart Watch-Sm-R500nzkaxar
-    
-    $199.99
-    
-    180
-*   Google Nest Cam IQ Indoor Security Camera 2-Pack $448.20with code26
 
 Shop and Save at JCPenney
 
