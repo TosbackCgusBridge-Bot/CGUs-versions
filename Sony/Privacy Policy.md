@@ -64,7 +64,7 @@ Main menuSONY
     View AllStorage &. Cables
     
     *   All Energy, Storage &. Cables products
-    *   Memory cards
+    *   Memory Cards &. SSD
     *   Cables
     
     View AllNew Categories
@@ -126,7 +126,7 @@ Right now, we want to use our platform to spread information &. support. Please 
   
 When we all know more, we can do more. (3/3)
 
-2 days ago View Tweet Instagram Post CA0MiJppWKV
+3 days ago View Tweet Instagram Post CA0MiJppWKV
 
 Work From Home
 
