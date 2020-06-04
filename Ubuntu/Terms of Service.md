@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Getting started with cross-platform development using .NET on Ubuntu on WSL
 *   MicroK8s now native on Windows and macOS
 *   What’s the deal with edge computing?
-*   Open source software for open infrastructure
