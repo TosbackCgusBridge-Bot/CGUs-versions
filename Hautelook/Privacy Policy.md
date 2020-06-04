@@ -9,11 +9,35 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
+    *   Limited-Time Price Drops Up to 75% Off
+    *   Sneaker Shop: Men's Active &. Running Up to 40% Off
+    *   Sneaker Shop: Active &. Running Up to 40% Off
+    *   Sneaker Shop: Lifestyle Up to 40% Off
+    *   Sneaker Shop: Men's Lifestyle Up to 55% Off
+    *   Sneaker Shop: Comfort Styles Up to 55% Off
+    *   Sneaker Shop: On-Trend Styles Under $40
+    *   Sneaker Shop: Designer &. More Up to 60% Off
+    *   Sanctuary Incl. Plus &. Petites
+    *   Totes Up to 60% Off
+    *   Sneaker Shop: Kids' Styles Starting at $20
+    *   WILDFOX &. More Up to 65% Off
+    *   Virtual Gym Class Ready: Active Up to 70% Off
+    *   Shorts &. More from $20 Incl. Plus and Petites
+    *   Tank Tops Starting at $15
+    *   Lighter Layers: Raincoats &. Trenches Up to 65% Off
+    *   Pair Up: Men's Socks Under $15
+    *   Turquoise Jewelry
+    *   Pair Up: Men's Activewear Under $50
+    *   Pair Up: Men's Denim Up to 60% Off
+    *   Belts ft. Moschino &. More
+    
+    *   Kids' Swim Up to 70% Off
+    *   Summer Linen Styles Up to 70% Off Incl. Plus
+    *   Flowy Tops Under $25 Incl. Plus &. Petites
+    *   Spring Style: Activewear Essentials
     *   New on HauteLook: Zojirushi Rice Cookers &. More
     *   Viking Cookware Up to 60% Off
     *   Gourmet Cookware &. Bakeware Up to 60% Off
-    *   Blenders ft. Ninja
-    *   Longchamp
     *   NYDJ Up to 70% Off Incl. Plus &. Petites
     *   Franco Sarto Up to 65% Off
     *   Shorts Under $35 Incl. Plus &. Petites
@@ -28,53 +52,48 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Antonio Maurizi Up to 60% Off
     *   Puddle Jumpers: Kids' Rain Boots
     *   IPPOLITA Fine Jewelry Up to 70% Off
-    *   SPANX Starting at $15
-    *   Flared Dresses Up to 65% Off Incl. Plus &. Petites
     
-    *   Summer Linen Styles Up to 70% Off Incl. Plus
-    *   Flowy Tops Under $25 Incl. Plus &. Petites
-    *   Spring Style: Activewear Essentials
-    *   Sandals Under $40
-    *   Chaco
-    *   Kenneth Cole Up to 65% Off
+    *   SPANX Starting at $15
     *   For Dad: Men's Slippers
     *   Girls' Dresses Up to 60% Off
     *   Blankets, Comforters &. More Up to 60% Off
     *   Merrell Kids
     *   Chaco Men
     *   Free Shipping: Wall Decor &. Accents
-    *   Backyard BBQ: Summer Shorts Up to 70% Off
-    *   Must-Have Spring Jackets Up to 65% Off
-    *   Pumps &. More Up to 70% Off
     *   Men's Shoe Steals Up to 65% Off
-    *   Hudson Jeans Up to 70% Off
-    *   Hudson Jeans Men Up to 60% Off
-    *   Hudson Jeans Kids Up to 55% Off
-    *   Dive into Summer: Men's Swim Starting at $15
-    *   Sleep Well: Kids' Pajamas ft. Leveret
-    
-    *   Free Shipping: Decor for Every Style
-    *   Summer Refresh: Men's Loafers &. Slip-Ons
-    *   UGG Men
-    *   Summer Must-Haves: Plus Styles from $20
-    *   Summer Must-Haves: Petite Styles from $20
-    *   NEST Fragrances
-    *   Pet Accessories Starting at $20
-    *   Free Shipping: Faux Plants &. Planters
-    *   Framed Art Up to 70% Off
     *   Vince Camuto Up to 70% Off Incl. Plus &. Petites
-    *   Vince Camuto Shoes Up to 65% Off
-    *   Vince Camuto Handbags &. More
-    *   Vince Camuto Men Up to 70% Off
-    *   Vince Camuto Luggage Up to 75% Off
-    *   Great Gifts for Dad: Polos Under $35
-    *   Sunday Style Steals Up to 80% Off
-    *   Refresh Your Space: Indoor &. Outdoor Decor
+    *   Free Shipping: Decor for Every Style
     *   Best of Skin Care Under $20
     *   Refresh Your Walls: Framed Art Up to 63% Off
+    *   Pet Accessories Starting at $20
+    *   Blenders ft. Ninja
+    *   Vince Camuto Men Up to 70% Off
+    *   Great Gifts for Dad: Polos Under $35
+    *   Refresh Your Space: Indoor &. Outdoor Decor
+    *   Summer Must-Haves: Plus Styles from $20
+    *   Framed Art Up to 70% Off
 *   WomenShop Sale Events
     
-    *   Longchamp
+    *   Limited-Time Price Drops Up to 75% Off
+    *   Limited-Time Price Drops Up to 75% Off
+    *   Sneaker Shop: Active &. Running Up to 40% Off
+    *   Sneaker Shop: Lifestyle Up to 40% Off
+    *   Sneaker Shop: Comfort Styles Up to 55% Off
+    *   Sneaker Shop: On-Trend Styles Under $40
+    *   Sneaker Shop: Designer &. More Up to 60% Off
+    *   Sanctuary Incl. Plus &. Petites
+    *   Totes Up to 60% Off
+    *   WILDFOX &. More Up to 65% Off
+    *   Virtual Gym Class Ready: Active Up to 70% Off
+    *   Shorts &. More from $20 Incl. Plus and Petites
+    *   Tank Tops Starting at $15
+    *   Lighter Layers: Raincoats &. Trenches Up to 65% Off
+    *   Turquoise Jewelry
+    *   Belts ft. Moschino &. More
+    
+    *   Summer Linen Styles Up to 70% Off Incl. Plus
+    *   Flowy Tops Under $25 Incl. Plus &. Petites
+    *   Spring Style: Activewear Essentials
     *   NYDJ Up to 70% Off Incl. Plus &. Petites
     *   Franco Sarto Up to 65% Off
     *   Shorts Under $35 Incl. Plus &. Petites
@@ -85,27 +104,9 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Flats Up to 65% Off
     *   IPPOLITA Fine Jewelry Up to 70% Off
     *   SPANX Starting at $15
-    *   Flared Dresses Up to 65% Off Incl. Plus &. Petites
-    *   Summer Linen Styles Up to 70% Off Incl. Plus
-    *   Flowy Tops Under $25 Incl. Plus &. Petites
-    *   Spring Style: Activewear Essentials
-    *   Sandals Under $40
-    
-    *   Chaco
-    *   Kenneth Cole Up to 65% Off
-    *   Backyard BBQ: Summer Shorts Up to 70% Off
-    *   Must-Have Spring Jackets Up to 65% Off
-    *   Pumps &. More Up to 70% Off
-    *   Hudson Jeans Up to 70% Off
-    *   Summer Must-Haves: Plus Styles from $20
-    *   Summer Must-Haves: Petite Styles from $20
-    *   NEST Fragrances
     *   Vince Camuto Up to 70% Off Incl. Plus &. Petites
-    *   Vince Camuto Shoes Up to 65% Off
-    *   Vince Camuto Handbags &. More
-    *   Vince Camuto Luggage Up to 75% Off
-    *   Sunday Style Steals Up to 80% Off
     *   Best of Skin Care Under $20
+    *   Summer Must-Haves: Plus Styles from $20
     
     Shop By Category
     *   Clothing
@@ -114,62 +115,66 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Handbags
     *   Jewelry
     *   Lingerie &. Shapewear
+    *   Watches
 *   MenShop Sale Events
     
+    *   Limited-Time Price Drops Up to 75% Off
+    *   Sneaker Shop: Men's Active &. Running Up to 40% Off
+    *   Sneaker Shop: Men's Lifestyle Up to 55% Off
+    *   Pair Up: Men's Socks Under $15
+    *   Pair Up: Men's Activewear Under $50
+    *   Pair Up: Men's Denim Up to 60% Off
     *   David Donahue Up to 70% Off
+    
     *   Father's Day Gifts ft. Brouk &. Co
     *   Antonio Maurizi Up to 60% Off
     *   For Dad: Men's Slippers
     *   Chaco Men
     *   Men's Shoe Steals Up to 65% Off
-    
-    *   Hudson Jeans Men Up to 60% Off
-    *   Dive into Summer: Men's Swim Starting at $15
-    *   Summer Refresh: Men's Loafers &. Slip-Ons
-    *   UGG Men
     *   Vince Camuto Men Up to 70% Off
     *   Great Gifts for Dad: Polos Under $35
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Limited-Time Price Drops Up to 75% Off
+    *   Sneaker Shop: Kids' Styles Starting at $20
+    *   Kids' Swim Up to 70% Off
     *   Joe Fresh Kids Starting at $10
     *   Puddle Jumpers: Kids' Rain Boots
     *   Girls' Dresses Up to 60% Off
     *   Merrell Kids
-    *   Hudson Jeans Kids Up to 55% Off
-    *   Sleep Well: Kids' Pajamas ft. Leveret
     
     Shop By Category
     *   Girls
-    *   Boys
-    *   Baby
     *   Girls' Shoes
     *   Boys' Shoes
+    *   Baby
+    *   Boys
 *   HomeShop Sale Events
     
+    *   Limited-Time Price Drops Up to 75% Off
     *   New on HauteLook: Zojirushi Rice Cookers &. More
     *   Viking Cookware Up to 60% Off
     *   Gourmet Cookware &. Bakeware Up to 60% Off
-    *   Blenders ft. Ninja
     *   Blankets, Comforters &. More Up to 60% Off
     *   Free Shipping: Wall Decor &. Accents
-    *   Free Shipping: Decor for Every Style
     
-    *   Pet Accessories Starting at $20
-    *   Free Shipping: Faux Plants &. Planters
-    *   Framed Art Up to 70% Off
-    *   Vince Camuto Luggage Up to 75% Off
-    *   Refresh Your Space: Indoor &. Outdoor Decor
+    *   Free Shipping: Decor for Every Style
     *   Refresh Your Walls: Framed Art Up to 63% Off
+    *   Pet Accessories Starting at $20
+    *   Blenders ft. Ninja
+    *   Refresh Your Space: Indoor &. Outdoor Decor
+    *   Framed Art Up to 70% Off
     
     Shop By Category
     *   Home Decor
-    *   Kitchen &. Tabletop
     *   Pet Accessories
+    *   Kitchen &. Tabletop
     *   Bedding
     *   Outdoor Living
     *   Luggage &. Travel
@@ -178,14 +183,14 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
-    *   NEST Fragrances
+    *   Limited-Time Price Drops Up to 75% Off
     *   Best of Skin Care Under $20
     
     Shop By Category
     *   Skin Care
-    *   Fragrance
     *   Men’s Grooming
-    *   Bath &. Body
+    *   Makeup
+    *   Fragrance
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
