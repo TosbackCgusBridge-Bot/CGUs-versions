@@ -550,6 +550,7 @@ Top Destinations
 For Guests
 
 *   Best Rate Guarantee
+*   Room Key
 *   Marriott Bonvoy Moments
 *   Activities
 *   Marriott Insiders
@@ -577,6 +578,6 @@ Loading...
 
 © 1996 – 2020 Marriott International, Inc. All rights reserved. Marriott Proprietary Information
 
-Tracking Preferences Terms of Use Program Terms &. Conditions Privacy Center Do Not Sell My Personal Information Digital Accessibility Site Map Help*   Loading...
+Terms of Use Program Terms &. Conditions Privacy Center Do Not Sell My Personal Information Digital Accessibility Site Map Help*   Loading...
     
-prod9,ADD37119-D974-5175-BE38-74B2E379343B
+prod10,A74703A5-8070-5207-A161-E87F1396360C
