@@ -18,13 +18,11 @@ Main menu
     *   All Shows
         *   Accident, Suicide, or Murder
         *   Chicago P.D.
-        *   Cold Justice
         *   Dark Web Exposed
         *   Dateline: Secrets Uncovered
         *   Deadly Cults
         *   Famous Cases Explained
         *   How To Stay Safe
-        *   Kim Kardashian West: The Justice Project
         *   Mark of a Killer
         *   Martinis &. Murder
         *   Searching For
@@ -33,10 +31,10 @@ Main menu
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 1:29 Accident, Suicide, or Murder The Scene Of Debra Holden's Death Appeared Consistent With Suicide 7:52 Dark Web Exposed LIVESTREAM CRIMES: Murder, Mayhem and Social Media
+    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 2:49 Accident, Suicide, or Murder Who Was Holly Durben? 1:58 Crime News The Angel of Death Killer, Charles Cullen, Explained
 *   News
     *   Crime News
-    *   True Crime BuzzEfthimios Michael Zachary Mikedis Photo: Marion County Sheriff's Office Crime News Florida Man Allegedly Drugged, Sexually Assaulted Woman Photo: Bay County Sheriffs Office Crime News Elderly Man Shot Intruder During Dramatic Home Invasion Breonna Taylor Photo: Facebook Crime News Cop Involved In Breonna Taylor Shooting Was Sued Before
+    *   True Crime BuzzValerie Mack Photo: Suffolk County Police Department Crime News 'Lost Girls' Victim Known As Jane Doe #6 Identified Derek Chauvin Photo: AP Crime News Charged Ex-Cop Worked Same Nightclub As George Floyd Heather Grogg and Danielle Tyler Photo: National Center For Missing and Endangered Crime News Women Were Allegedly Killed In Connection To Murder
 *   Podcasts
 *   Detective's Den
 *   Schedule
