@@ -122,6 +122,7 @@ Learn about VPN
 *   Streaming with HMA VPN
 *   Watch Amazon Prime with HMA VPN
 *   Watch Bundesliga with HMA VPN
+*   Watch Cricket with HMA VPN
 
 Help
 
