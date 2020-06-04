@@ -377,9 +377,9 @@ click here Important Info Important Info
 
 \[6\] UX AWD system operates at speeds up to 43 mph.
 
-\[7\] 2020 Lexus UX 250h (AWD) EPA 41/city, 38/hwy, 39/comb mpg estimates. Actual mileage will vary.
+\[7\] EPA-estimated 41city/38hwy/39comb MPG for 2020 Lexus UX 250h AWD. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 
-\[8\] 2020 Lexus NX 300h (AWD) EPA 33/city, 30/hwy, 31/comb MPG estimates. Actual mileage will vary.
+\[8\] EPA-estimated 33city/30hwy/31comb MPG for 2020 Lexus NX 300h (AWD). Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 
 \[9\] Seven-passenger second-row bench seating standard in the RX 350L, and six-passenger seating with second-row captain’s chairs available in the RX 350L and standard in the RX 450hL.
 
