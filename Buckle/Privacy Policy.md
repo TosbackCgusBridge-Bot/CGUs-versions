@@ -4,7 +4,7 @@
 *   FIND A STORE
 *   800.607.9788
 
-Buckle has begun to open our stores. Find Your Store for up-to-date information.
+\* Due to circumstances outside of our control you could potentially see impacts to deliveries. \*
 
 *   Women
 *   Men
