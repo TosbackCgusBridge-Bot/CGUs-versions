@@ -136,22 +136,22 @@ Ready to make anything
 
 We've combined our most powerful software and services to create one simple package, for one great price—Autodesk industry collections.
 
-learn more   _Claudius Peters fabricates an industrial-equipment part based on generative design._  
+learn more   _BLOX is tackling the hospital shortage with modular construction._  
 _Read story_ We’re in this together. We’re here to help.
 
 As COVID-19 impacts the world, Autodesk is committed to giving our customers and our communities the support and resources they need—for staying connected, collaborating effectively, and maintaining business continuity—during this challenging time.
 
 VISIT THE COVID-19 RESOURCE CENTER
 
-ARCHITECTURE, ENGINEERING &.  
-CONSTRUCTION COLLECTION
-
-Integrated BIM tools, including Revit, AutoCAD, and Civil 3D Learn more Free trial Subscribe
-
 PRODUCT DESIGN &  
 MANUFACTURING COLLECTION
 
 Professional CAD/CAM tools built on Inventor and AutoCAD Learn more Free trial Subscribe
+
+ARCHITECTURE, ENGINEERING &.  
+CONSTRUCTION COLLECTION
+
+Integrated BIM tools, including Revit, AutoCAD, and Civil 3D Learn more Free trial Subscribe
 
 MEDIA &.  
 ENTERTAINMENT COLLECTION
