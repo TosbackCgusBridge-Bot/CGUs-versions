@@ -250,23 +250,23 @@ Q&A: Developing an asset management strategy
     *   Emailed
     *   Recent
     
-    *   Covid-related malspam campaign impersonates U.S. Treasury to steal taxpayer credentials
+    *   Patch round-up: Cisco repairs RCE bug. notable fixes from VMware, Google, Adobe
+    *   Facial recognition fails accuracy test raises privacy concerns. ACLU sues Clearview AI
     *   VMware discloses important local privilege escalation bug found in 3 products
-    *   Turla's ComRAT v4 uses Gmail web UI to receive commands, steal data
-    *   ZeuS byproduct ‘Silent Night’ Zbot ‘not a game-changer’
-    *   SC Product Reviews: Identity &. Access Management
+    *   Ratcliffe confirmed as DNI on second nomination
+    *   The price of bad compromises: Enterprises face critical trust gaps
     
+    *   Mathway breach latest caper for Shiny Hunters
     *   Zero-day credential phishing attack aimed at C-suite execs impersonates U.S. Supreme Court
-    *   Form-based phishing attacks impersonate branded file-sharing, productivity sites
-    *   Arbonne breach of 3,500+ Calif. residents’ PII could test privacy law
-    *   Fixed Apple sign-in bug could have enabled hijacking of 3rd-party accounts
-    *   StrandHogg 2.0 bug enables Android app hijacking, poses patching challenge
+    *   How security can enable business continuity by protecting newly remote employees
+    *   Facial recognition fails accuracy test raises privacy concerns. ACLU sues Clearview AI
+    *   ZeuS byproduct ‘Silent Night’ Zbot ‘not a game-changer’
     
+    *   OMB: Federal agencies reported 8 percent fewer cybersecurity incidents in FY 2019
+    *   The price of bad compromises: Enterprises face critical trust gaps
+    *   Fixed Apple sign-in bug could have enabled hijacking of 3rd-party accounts
     *   Amtrak breach impacts unknown number of Guest Rewards accounts
     *   First Look: ReversingLabs Titanium Platform
-    *   SC Product Reviews: Identity &. Access Management
-    *   Multilingual malware attacks on industrial sector suppliers designed to thwart detection
-    *   Malware in GitHub-hosted projects designed to spread among open-source developers
 
 Back to Top
 
@@ -299,7 +299,7 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
 
 You can skip this ad in 1 seconds.
 
