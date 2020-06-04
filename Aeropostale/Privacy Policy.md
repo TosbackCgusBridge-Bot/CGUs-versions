@@ -186,7 +186,6 @@ Close submenu ( Girls ) Girls
 *   Dresses + Skirts
 *   Accessories
 *   Bras + Undies
-*   Swimwear
 
 Close submenu ( Guys ) Guys
 
@@ -352,7 +351,6 @@ Menu Find a Store Aeropostale
         *   Dresses + Skirts
         *   Accessories
         *   Bras + Undies
-        *   Swimwear
     
     *   Guys
         *   View All
