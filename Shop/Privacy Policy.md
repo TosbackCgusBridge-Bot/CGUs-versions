@@ -207,28 +207,28 @@ Lenovo Explore Close
         *   Laptops
         *   Desktops
         *   Accessories
-        *   Gaming Monitors
-        *   View All Gaming
+        *   Monitors
+        *   Headsets &. Headphones
+        
+        *   By Brand
+        *   Legion
+        *   IdeaPad
+        *   Roccat Gaming Accessories
+        *   Xbox
+        *   Turtle Beach
         
         *   Featured
         *   Gaming PC Deals
-        *   IdeaPad &. IdeaCentre Gaming
-        *   Gaming Storefront
         *   Gaming Community
         *   Shop PC Games
-        
-        *   Legion
-        *   Legion Laptops
-        *   Legion Desktops
-        *   Legion Headsets
         *   Legion Mice
-        *   Legion Keyboards
-        *   Legion Monitors
         
-        *   Quick Links
-        *   Hyper X
-        *   Headsets &. Headphones
-        *   Lenovo Legion 5i
+        *   New Products
+        *   Legion 5 Series
+        *   Legion 7 Series
+        *   IdeaPad Gaming 3i
+        *   IdeaPad Gaming Backpack
+        *   HTC Vive VR Gaming
     *   Business
         
         *   Always Free Shipping
