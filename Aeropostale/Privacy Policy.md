@@ -36,11 +36,10 @@ Close submenu ( Girls ) Girls
 Close submenu ( Collections ) Collections
 
 *   View All
-*   Summer Essentials
+*   New Arrivals
 *   Pride
 *   Twisted for Tie Dye
 *   Get Cozy
-*   New Arrivals
 *   Best Sellers
 *   Jeans Guide
 *   Online Only
@@ -66,11 +65,10 @@ Close submenu ( Guys ) Guys
 Close submenu ( Collections ) Collections
 
 *   View All
-*   Summer Essentials
+*   New Arrivals
 *   Pride
 *   Twisted for Tie Dye
 *   Get Cozy
-*   New Arrivals
 *   Best Sellers
 *   Jeans Guide
 *   Online Only
@@ -221,11 +219,10 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
-        *   Summer Essentials
+        *   New Arrivals
         *   Pride
         *   Twisted for Tie Dye
         *   Get Cozy
-        *   New Arrivals
         *   Best Sellers
         *   Jeans Guide
         *   Online Only
@@ -248,11 +245,10 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
-        *   Summer Essentials
+        *   New Arrivals
         *   Pride
         *   Twisted for Tie Dye
         *   Get Cozy
-        *   New Arrivals
         *   Best Sellers
         *   Jeans Guide
         *   Online Only
@@ -378,67 +374,40 @@ precautionary measures in our warehouse to ensure the health and safety of
 our customers and associates. Because of this your shipment may experience  
 delays. Thank you for your patience and understanding. Learn More &. Stay Safe
 
-Hotter Temps. Cooler Savings.
+STAND TALL. STAND PROUD. STAND OUT.
 
-50-70% Off Everything!
+Take pride in who you are  
+Celebrate individuality together.
 
-Feat. Aero Shorts, Tees, Tanks &. **NEW Summer Essentials**
+50-70%  
+Off Everything!
 
-\*Exclusions Apply
-
-Hotter Temps. Cooler Savings.
+&. Our Biggest  
+Shorts Event  
+of The Season!
 
 50-70% Off  
 Everything!
 
-Feat. Aero Shorts, Tees, Tanks  
-&. **NEW Summer Essentials**
+&. Our Biggest Shorts  
+Event of The Season!
 
-Shop Girls Shop Guys Girls Summer Essentials Guys Summer Essentials
+Shop Girls Shop Guys Girls Shorts **$11.87 &. Up** Guys Shorts **$12 &. Up**
 
-Bring The Heat  
-From Home
+**Girls  
+Shorts**
 
-Summer Looks  
-That Deserve A  
-Feature #AeroWorld
+**Girls Shorts**
 
-**Bring The Heat From Home**  
-Summer Looks That Deserve  
-A Feature #AeroWorld
+$11.87 &. Up
 
-Nice to See You Again!
+Vibrant prints. Must-feel fabrics.  
+One-of-a-kind Aero style.
 
-Certain Aero Locations Are Carefully Reopening
-
-&. offering FREE storefront pick up. We're taking extra  
-precautions to keep our customers and associates safe.
-
-Nice to See  
-You Again!
-
-&. offering FREE storefront pick up. We're taking extra  
-precautions to keep our customers and associates safe.
-
-Find A Store Free Store Pick Up Learn More &. Stay Safe Find A Store Free Store Pick Up Learn More &. Stay Safe
-
-**Girls Shorts Deals**
-
-**Girls Shorts Deals**
-
-Cute &.  
-Cozy
-
-Cute &. Cozy
-
-Starting at
-
-$11.87
-
-Lounge-worthy softness.  
+Lounge-worthy softness  
 New curve loving fits.
 
-Girls Shorts Girls Summer Essential Shorts
+Girls Shorts
 
 Super High Rise
 
@@ -517,6 +486,26 @@ Mom
 *   7
 *   8
 *   9
+
+Nice to See You Again!
+
+Certain Aero Locations Are Carefully Reopening
+
+&. offering FREE storefront pick up. We're taking extra  
+precautions to keep our customers and associates safe.
+
+Nice to See  
+You Again!
+
+**Certain Aero Locations Are  
+Carefully Reopening**
+
+&. offering FREE pick up in stores.  
+We're taking extra precautions to  
+keep our customers and  
+associates safe.
+
+Find A Store Free Store Pick Up Learn More &. Stay Safe Find A Store Free Store Pick Up Learn More &. Stay Safe
 
 Classic Jogger
 
@@ -560,34 +549,37 @@ Beach Chino
 *   8
 *   9
 
-**Guys Shorts Deals**
+**Guys Shorts**
 
-**Guys Shorts Deals**
+**Guys  
+Shorts**
 
-Cool &.  
-Comfortable
+$12 &. Up
 
-Starting at
+New Premium fabric elevated  
+with extra stretch for comfort  
+and 360° of freedom
 
-$15.87
-
-Next-level of comfort.  
+Next-level comfort.  
 New Elevated fabric.
 
-Guys Shorts Guys Summer Essential Shorts
+Guys Shorts
 
-**Tees &. Tanks Deals**
+**Tees &. Tanks**
 
-**Tees &. Tanks Deals**
+**Tees &  
+Tanks**
 
-Starting at
+$6.87 &. Up
 
-$6.87
+Wear what you feel with  
+statement-making graphics  
+and fun splashes of color.
 
 Color your #AeroWorld with  
 graphics that say it all.
 
-Shop Girls Tees Shop Guys Tees Girls Summer Essential Tees Guys Summer Essential Tees Previous
+Shop Girls Tees Shop Guys Tees Previous
 
 Athletic Skinny  
 **NEW!**
@@ -705,25 +697,20 @@ Straight
 
 Next
 
-**Aero Jeans Deals**
+**Aero Jeans**
 
-**Aero Jeans Deals**
+**Aero  
+Jeans**
 
-So soft and stretchy.  
-they're just as comfy as  
-your favorite sweats.
+The easiest fits, the most  
+comfortable stretch. Complete  
+with special washes that make  
+them all your own.
 
-Starting at
+So soft and stretchy, they're just as  
+comfy as your favorite sweats.
 
-Girls $14.87
-
-Girls Summer Essential Jeans Shop Girls Jeans
-
-Starting at
-
-Guys $17.87
-
-Guys Summer Essential Jeans Shop Guys Jeans
+Girls Jeans **$17.87 &. Up** Guys Jeans **$17.87 &. Up**
 
 At Aero, we're committed to a better, brighter future.  
 do better, look better, feel better... it's in our jeans.
