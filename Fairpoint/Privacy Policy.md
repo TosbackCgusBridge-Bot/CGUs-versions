@@ -182,7 +182,6 @@
             *   Company Preparedness &. Response
             *   Help at Home
             *   Help at Work
-            *   CA Customer Information
 *   About Us
     *   Locations
     *   News
@@ -415,7 +414,6 @@ Support
         *   Help at Work
             *   Health Care Funding
             *   Small Business Funding
-        *   CA Customer Information
 
   
 Terms &. Policies
