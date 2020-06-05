@@ -26,18 +26,18 @@ View more results
     All Girls Best Games
     *   Dove Prom Dolly Dress Up
     *   Beach Kiss
-    *   Baby Hazel: Hair Care
     *   Lady Bug and Friends Maker
-    *   Bad Teeth Makeover
+    *   Baby Hazel: Hair Care
     *   Goldie Princess: Skin Doctor
-    *   Will You Be My Girlfriend?
     *   Tattoo Salon
+    *   Will You Be My Girlfriend?
     *   Dark Chocolate Blackberry Cheesecake: Sara's Cooking Class
-    *   Mermaid Sauna Flirting
+    *   Bad Teeth Makeover
     *   Car Salon
-    *   Goldie: Lip Injections
+    *   Mermaid Sauna Flirting
+    *   Ellie Love Trouble
     *   Eliza's Heavenly Wedding
-    *   Floral Real Life Manicure
+    *   Dotted Girl: Ruined Wedding
 *   Racing
     
     Top Categories
@@ -52,7 +52,7 @@ View more results
     *   Horse Racing
     
     All Racing Best Games
-    *   Maximum Acceleration: 3D Drift Game
+    *   Maximum Acceleration
     *   Madalin Stunt Cars 2
     *   Hill Racing Challenge
     *   City Car Stunts 2
@@ -61,11 +61,11 @@ View more results
     *   Off-Roader V6
     *   Horse Racing
     *   Cars 3D
+    *   Madalin Cars Multiplayer
     *   City Stunts
     *   Drift Cars
-    *   Madalin Cars Multiplayer
     *   Xcross Madness
-    *   Burnout Drift: Car Driving Game 3D
+    *   Russian Car Driver
 *   Shooting
     
     Top Categories
@@ -85,12 +85,12 @@ View more results
     *   Animal Hunt 3D
     *   Archery World Tour
     *   Miami Crime Simulator 3D
-    *   Pixel Gun Apocalypse 3
     *   Deer Hunter
+    *   Pixel Gun Apocalypse 3
     *   Sniper Reloaded
     *   King Soldier
-    *   Apple Shooter
     *   Winter Clash 3D
+    *   Apple Shooter
     *   Mr. Bullet
     *   Tank Trouble 2
     *   Combat Reloaded
@@ -114,14 +114,14 @@ View more results
     *   Bubble Shooter
     *   Mahjong Connect Classic
     *   TenTrix
-    *   1001 Arabian Nights
     *   Gold Train FRVR
+    *   1001 Arabian Nights
     *   Garden Tales
-    *   Mahjong Link
-    *   Farm Connect 2
     *   Word Wipe
+    *   Farm Connect 2
     *   Mahjong Dimensions: 900 Seconds
-    *   Mystic Sea Treasures
+    *   Mahjong Link
+    *   Jewelry Match
 *   Multiplayer
     
     Top Categories
@@ -141,15 +141,15 @@ View more results
     *   Fireboy and Watergirl 5: Elements
     *   Fireboy &. Watergirl 2: The Light Temple
     *   Gartic.io
+    *   Slither.io
     *   Crowd City
     *   Kogama: PvP
-    *   Slither.io
     *   Draw and Guess
+    *   Madalin Cars Multiplayer
     *   Hole.io
     *   Fireboy &. Watergirl 3: The Ice Temple
-    *   Madalin Cars Multiplayer
+    *   Master Chess Multiplayer
     *   Ludo 4 Players
-    *   Skydom
 *   Action
     
     Top Categories
@@ -170,14 +170,14 @@ View more results
     *   Short Life
     *   Miami Crime Simulator 3D
     *   Gun Builder 2
-    *   Pixel Gun Apocalypse 3
+    *   Super Buddy Kick
     *   Deer Hunter
     *   Stickman Warriors
-    *   Super Buddy Kick
     *   Bomb It 6
+    *   Pixel Gun Apocalypse 3
     *   Sniper Reloaded
-    *   Wormate.io
     *   Naruto Online
+    *   Zombie Horse Riding Simulator
 *   Adventure
     
     Top Categories
