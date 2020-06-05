@@ -489,6 +489,6 @@ We strongly encourage you to read our updated PRIVACY POLICY and COOKIE POLICY.
 
 Use of the site is governed by our Terms of Use and Privacy Policy. Copyright 1996-2019 Ziff Davis. All Rights Reserved. Reproduction in whole or in part in any form or medium without express written permission of Ziff Davis, LLC. is prohibited.
 
-AdChoices
+Cookie Consent
 
 Back to Top 100%
