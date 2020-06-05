@@ -250,23 +250,23 @@ Q&A: Developing an asset management strategy
     *   Emailed
     *   Recent
     
-    *   Patch round-up: Cisco repairs RCE bug. notable fixes from VMware, Google, Adobe
-    *   Facial recognition fails accuracy test raises privacy concerns. ACLU sues Clearview AI
+    *   Twitter getting better at detecting fraudulent accounts
+    *   Malware in GitHub-hosted projects designed to spread among open-source developers
     *   VMware discloses important local privilege escalation bug found in 3 products
-    *   Ratcliffe confirmed as DNI on second nomination
-    *   The price of bad compromises: Enterprises face critical trust gaps
+    *   San Francisco benefits program breach exposes PII on 74,000
+    *   5 Steps organizations should take to ensure CCPA compliance
     
-    *   Mathway breach latest caper for Shiny Hunters
+    *   Chinese, Iranian phishing campaigns target Biden, Trump campaigns
     *   Zero-day credential phishing attack aimed at C-suite execs impersonates U.S. Supreme Court
-    *   How security can enable business continuity by protecting newly remote employees
-    *   Facial recognition fails accuracy test raises privacy concerns. ACLU sues Clearview AI
-    *   ZeuS byproduct ‘Silent Night’ Zbot ‘not a game-changer’
+    *   Minneapolis reportedly hit with DoS attack amid protests over Floyd killing
+    *   Twitter getting better at detecting fraudulent accounts
+    *   How insurance CISOs can address cloud migration security concerns
     
-    *   OMB: Federal agencies reported 8 percent fewer cybersecurity incidents in FY 2019
-    *   The price of bad compromises: Enterprises face critical trust gaps
-    *   Fixed Apple sign-in bug could have enabled hijacking of 3rd-party accounts
-    *   Amtrak breach impacts unknown number of Guest Rewards accounts
-    *   First Look: ReversingLabs Titanium Platform
+    *   New Tycoon ransomware leverages JIMAGE files, steals PII, encrypts Linux and Windows systems
+    *   San Francisco benefits program breach exposes PII on 74,000
+    *   Twitter getting better at detecting fraudulent accounts
+    *   Work from home survey finds major security lapses as workers share devices, reuse passwords
+    *   New ransomware trends spotted: Auctioning stolen files, cybergangs joining forces
 
 Back to Top
 
@@ -299,7 +299,7 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
 You can skip this ad in 1 seconds.
 
