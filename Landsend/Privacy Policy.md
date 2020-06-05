@@ -28,9 +28,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive an additional 50% off sale &. clearance styles. 30% off full-price styles!
+Receive up to 60% off your order!
 
-code: WAVES pin: PROMOTION DETAILS
+code: EXPLORE pin: PROMOTION DETAILS
 
 Customer Service Menu
 
