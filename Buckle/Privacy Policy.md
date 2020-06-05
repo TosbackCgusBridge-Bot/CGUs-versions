@@ -4,8 +4,6 @@
 *   FIND A STORE
 *   800.607.9788
 
-\* Due to circumstances outside of our control you could potentially see impacts to deliveries. \*
-
 *   Women
 *   Men
 *   Kids
