@@ -22,36 +22,37 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-$15.99Men's St. John's Bay Flat-Front Shorts select styles$11.99 Men's St. John's Bay Polo select styles 50% OFFMen's Van Heusen Apparelselect styles $49.99Cooks Copper Smokeless Grill45% OFFDiamond Jewelryselect styles$11.99The Foundry Big &. Tall Supply Co. Teeselect styles $6.99 JCPenney Home 30"x54" Bath Towel60% OFFLiz Claiborne Topsselect styles30-50% OFF Brands Dad lovesselect styles40-50% OFF IZOD select styles40-50% OFFVan Heusenselect styles40-50% OFF U.S. Polo Assn.select styles30% OFFLevi's®select stylesOffers &. coupons do not apply.Ends 6/10UP TO 40% OFF Gifts for the head chefselect styles
+$15.99Men's St. John's Bay Flat-Front Shorts select styles$11.99 Men's St. John's Bay Polo select styles 50% OFFMen's Van Heusen Apparelselect styles $49.99Cooks Copper Smokeless Grill45% OFFDiamond Jewelryselect styles$11.99The Foundry Big &. Tall Supply Co. Teeselect styles $6.99 JCPenney Home 30"x54" Bath Towel60% OFFLiz Claiborne Topsselect styles30-50% OFF Brands Dad lovesselect styles40-50% OFF IZOD select styles40-50% OFFSt. John’s Bayselect styles40-50% OFF U.S. Polo Assn.select styles30% OFFLevi's®select stylesOffers &. coupons do not apply.Ends 6/10Our Biggest Jewelry Sale of the Season\*Ends 6/21UP TO 70% OFFFine &. Fashion Jewelry select styles | with coupon 55-60% OFFGold and Sterling Silver Jewelryselect styles $29.99 Smartwatch-yes, please!Limited time special, while supplies last. Excluded from coupons and Rewards.\*Our Biggest Jewelry Sale of the Season refers to the most items on sale for the longest duration 6/4/20-6/21/20 during the period from 2/20/20-6/28/20. a future sale of a shorter duration may have more items on sale.UP TO 50% OFF Step up your summer style—for future vacays and getting out and about!select styles$19.99Worthington Top select styles$21.99a.n.a. Dressselect styles$19.99Men's St. John's Bay Cargo Shortsselect styles $17.99Men's St. John's Bay Button-Front Shirtselect stylesSHOES UNDER $30Stroll feet first into summer.$24.99Men's St. John's Bay Casual Shoes and Sandalsselect stylesStarting at $19.99Women's Sandals select stylesUP TO 40% OFF KitchenGifts for the head chefselect styles
 
 *   Shop Kitchen
 
-Gear up &. golf50% OFFMen's PGA TOUR apparel select styles
-
-*   Shop All
-
-Our Biggest Jewelry Sale of the Season\*Ends 6/21UP TO 70% OFFFine &. Fashion Jewelry select styles | with coupon 55-60% OFFGold and Sterling Silver Jewelryselect styles $29.99 Smartwatch-yes, please!Limited time special, while supplies last. Excluded from coupons and Rewards.\*Our Biggest Jewelry Sale of the Season refers to the most items on sale for the longest duration 6/4/20-6/21/20 during the period from 2/20/20-6/28/20. a future sale of a shorter duration may have more items on sale.UP TO 50% OFF Step up your summer style—for future vacays and getting out and about!select styles$19.99Worthington Top select styles$21.99a.n.a. Dressselect styles$19.99Men's St. John's Bay Cargo Shortsselect styles $17.99Men's St. John's Bay Button-Front Shirtselect stylesSHOES UNDER $30Stroll feet first into summer.$24.99Men's St. John's Bay Casual Shoes and Sandalsselect stylesStarting at $19.99Women's Sandals select stylesBeauty therapyReset your self-care routine with something new this summer.UP TO 15% OFF Salon Haircare Productsselect stylesNew BeautyShop Sephora Inside JCPenneyExcluded from coupons.Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+Beauty therapyReset your self-care routine with something new this summer.UP TO 15% OFF Salon Haircare Productsselect stylesNew BeautyShop Sephora Inside JCPenneyExcluded from coupons. Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   JCPenney Home Performance Bath Towel Collection $3.74 - $22.49with code~$10 - $76~345
-*   JCPenney Home Emma Quilt $70 - $98with code418
-*   St. John's Bay Mid Rise Capris $11.24with code~$32~35
-*   a.n.a Womens Knit Waist Short $14.99with code~$30~6
-*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $4.49 - $28.49with code~$10 - $72~1687
-*   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $14.99with code~$6 - $48~535
+*   Sealy Essentials™ Ivory Treasure - Mattress Only $149 - $298.99with code~$430 - $920~30
+*   Sealy® Davlin LTD Plush Pillowtop - Mattress Only $353.99 - $599with code~$1,030 - $1,820~11
+*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
+    
+    $20sale
+    
+    ~$124.98~186
+*   St. John's Bay Womens Mid Rise 11 1/2" Bermuda Short-Plus $12.74with code~$44~
+*   JCPenney Home Ultra Performance 575 Sateen Deep Pocket Sheet Set $14.99 - $62.99with code~$50 - $150~165
+*   Arizona Flex Mens Cargo Short $14.99with code~$40~75
 
 Sponsored Items
 
-*   Fisher-Price Laugh &. Learn Smart Stages Sis
-    
-    $19.99
-    
-    48
+*   Google Nest Hello Video Doorbell $206.10with code
 *   Brim 19-Bar Espresso Maker
     
     $430
     
     26
+*   Fisher-Price Laugh &. Learn Smart Stages Sis
+    
+    $19.99
+    
+    48
 *   Fisher-Price Rock-A-Stack Clacker
     
     $4.49
@@ -61,68 +62,66 @@ Sponsored Items
     $89.99sale
     
     ~$94~117
-*   Google Nest Hello Video Doorbell $206.10with code362
+*   Dyson® V8 Animal Cord-Free Vacuum
+    
+    $569.99sale
+    
+    ~$669~
 *   Brim 0.8L Electric Kettle
     
     $149.99sale
     
     ~$150~22
+*   Bissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum
+    
+    $360
+    
+*   Samsung Galaxy Active 2 40mm Womens Multi-Function Rose Goldtone Smart Watch-Sm-R830nzdaxar
+    
+    $279.99
+    
 *   Brim 8 Cup French Press Coffee Maker
     
     $59.99sale
     
     ~$75~6
-*   Samsung Galaxy Active 2 40mm Womens Multi-Function Rose Goldtone Smart Watch-Sm-R830nzdaxar
-    
-    $279.99
-    
-*   Dyson® V8 Animal Cord-Free Vacuum
-    
-    $569.99sale
-    
-    ~$669~184
-*   Bissell® SpinWave® Hard Floor Spin Mop
-    
-    $129
-    
-*   Fisher-Price Classic Xylophone
-    
-    $15.99
-    
-    7
-*   Fisher-Price Laugh &. Learn Smart Stages Puppy
-    
-    $19.99
-    
-    62
-*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
-    
-    $14.99
-    
-    10
 *   Fisher-Price Linkimals A To Z Otter
     
     $19.99
     
     23
-*   Fisher-Price Linkimals Smooth Moves Sloth
-    
-    $29.99
-    
-    34
-*   Google Nest Cam IQ Outdoor Security Camera 2-Pack $629.10with code49
-*   Google Nest Protect Smoke and Carbon Monoxide Alarm - Battery - 2nd Generation $107.10with code432
 *   Fisher-Price Learn with Me Zebra Walker
     
     $24.99
     
     39
+*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
+    
+    $14.99
+    
+    10
+*   Fisher-Price Linkimals Smooth Moves Sloth
+    
+    $29.99
+    
+    34
+*   Fisher-Price Classic Xylophone
+    
+    $15.99
+    
+    7
 *   Samsung Galaxy Mens Multi-Function Black Smart Watch-Sm-R800nzsaxar
     
     $279.99
     
-    342
 *   Google Nest Cam IQ Indoor Security Camera 2-Pack $448.20with code26
+*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
+*   Google Nest Cam IQ Outdoor Security Camera 2-Pack $629.10with code49
+*   Tommee Tippee Advanced Anti Colic Baby Bottles – Clear 9 oz
+    
+    $8.99
+    
+    44
 
 Shop and Save at JCPenney
 
