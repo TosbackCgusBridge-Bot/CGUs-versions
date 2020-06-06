@@ -230,7 +230,6 @@ Menu Find a Store Aeropostale
         *   Basic Essentials
         *   Seriously Soft
         *   Active
-    
 *   Guys
     
     *   View Home
@@ -254,7 +253,6 @@ Menu Find a Store Aeropostale
         *   Online Only
         *   Back to Basics
         *   Active
-    
 *   Jeans
     
     *   View Home
@@ -289,7 +287,6 @@ Menu Find a Store Aeropostale
         *   Flex Effects
         *   Max Stretch
         *   Eco-Friendly
-    
 *   Aero World
     
     *   View Home
@@ -305,7 +302,6 @@ Menu Find a Store Aeropostale
     *   Pipe
     
     *   Eco-Friendly
-    
 *   New Arrivals
     
     *   View Home
@@ -332,7 +328,6 @@ Menu Find a Store Aeropostale
         *   Destroyed Denim
         *   Flip Flops + Slides
         *   Vacay Vibes
-    
 *   Clearance
     
     *   View Home
@@ -355,7 +350,6 @@ Menu Find a Store Aeropostale
         *   Clearance Tees
         *   Tops
         *   Bottoms
-    
 
 *   Select Country
 
