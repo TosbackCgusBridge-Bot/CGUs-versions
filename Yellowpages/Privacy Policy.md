@@ -125,6 +125,29 @@ Your information helps us not only power your products and services, it helps us
 
 You can access our old PDF download here .
 
+× We've Updated Our Privacy Policy
+
+We are updating our Privacy Policy. Our new policy is clearer about how we collect, use, and protect your information, and it is consistent with evolving state privacy and disclosure laws. Learn more below.
+
+**FAQ** **What’s changed?**
+
+We haven’t changed our commitment to protecting your data. But individual states are now enacting laws that define “personal information” and the sale of information in new ways. So, we’ve updated some of our language, and we have made our new policy clearer about how we collect, use, and protect your information. You have the same range of choices to manage the use of your data.
+
+**Are you selling my personal information?**
+
+The Privacy Policy describes how we share your information. California may consider the following two ways that we share data to be a sale of personal information.
+
+1.  We provide limited data to companies that help create, deliver and measure advertisements. This can include information like your age range, gender and ZIP code, along with basic device information – but not your name or email. The data is attached to a numeric ID assigned to your device or household.
+2.  We sell limited data to help create aggregated reports such as television ratings – what people watch on TV in a city. Data is attached to a numeric ID assigned to your mobile device or set-top box – not your name or email.
+
+**Can I manage what gets shared or sold?**
+
+You can see options to manage your data here. We’ll keep your choices until you change them.
+
+**When is the new policy effective?**
+
+The section explaining your rights under the California Consumer Privacy Act is effective January 1, 2020. The full policy will be effective on March 16, 2020, however you can review the old policy that will be in effect until then.
+
 Looking for the full Privacy Policy?
 
 We’ve done our best to give you the high-level points in an easy-to-understand format on this site, but we understand that sometimes you want the full policy.
