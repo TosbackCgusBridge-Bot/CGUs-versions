@@ -4,6 +4,8 @@
 *   FIND A STORE
 *   800.607.9788
 
+Thrive in the sun with styles made for summer. shop new arrivals
+
 *   Women
 *   Men
 *   Kids
