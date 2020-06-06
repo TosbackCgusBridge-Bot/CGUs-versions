@@ -176,7 +176,7 @@ Menu
         *   Commercial Banking
         *   Global Banking and Markets
         *   Wealth and Personal Banking
-        *   Technology, Operations and Services
+        *   Operations, Services and Technology
         *   Global Functions
     *   Find a job
     *   Where we hire
