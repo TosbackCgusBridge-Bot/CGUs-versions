@@ -250,23 +250,23 @@ Q&A: Developing an asset management strategy
     *   Emailed
     *   Recent
     
-    *   Twitter getting better at detecting fraudulent accounts
+    *   Amtrak breach impacts unknown number of Guest Rewards accounts
+    *   Cybersecurity among six sectors booming during Covid-19, with Q1 funding exceeding $1.5B
     *   Malware in GitHub-hosted projects designed to spread among open-source developers
-    *   VMware discloses important local privilege escalation bug found in 3 products
-    *   San Francisco benefits program breach exposes PII on 74,000
-    *   5 Steps organizations should take to ensure CCPA compliance
+    *   First Look: ReversingLabs Titanium Platform
+    *   26M LiveJournal bloggers’ credentials a hit on dark web six years later
     
-    *   Chinese, Iranian phishing campaigns target Biden, Trump campaigns
-    *   Zero-day credential phishing attack aimed at C-suite execs impersonates U.S. Supreme Court
-    *   Minneapolis reportedly hit with DoS attack amid protests over Floyd killing
-    *   Twitter getting better at detecting fraudulent accounts
-    *   How insurance CISOs can address cloud migration security concerns
-    
-    *   New Tycoon ransomware leverages JIMAGE files, steals PII, encrypts Linux and Windows systems
-    *   San Francisco benefits program breach exposes PII on 74,000
-    *   Twitter getting better at detecting fraudulent accounts
-    *   Work from home survey finds major security lapses as workers share devices, reuse passwords
     *   New ransomware trends spotted: Auctioning stolen files, cybergangs joining forces
+    *   San Francisco benefits program breach exposes PII on 74,000
+    *   'Sandworm Team' hackers from Russia are exploiting Exim, warns NSA
+    *   Arbonne breach of 3,500+ Calif. residents’ PII could test privacy law
+    *   Minneapolis reportedly hit with DoS attack amid protests over Floyd killing
+    
+    *   Achieving an audacious goal by treating cybersecurity like a science
+    *   UCSF, Conduent are latest to suffer the slings and arrows of ransomware
+    *   Attack targeted database credentials on 1.3 million WordPress sites
+    *   Chinese, Iranian phishing campaigns target Biden, Trump campaigns
+    *   'Enterprise-grade' BazarBackdoor malware delivered via spear phishing emails
 
 Back to Top
 
@@ -299,8 +299,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
