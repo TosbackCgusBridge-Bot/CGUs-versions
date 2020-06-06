@@ -50,7 +50,7 @@ Visit Indeed
 
 **Privacy Policy**
 
-Last updated June 4, 2020
+Last updated June 5, 2020
 
 **Summary of Indeed’s Privacy Policy** **1\. Introduction**
 
@@ -66,11 +66,11 @@ The Indeed entity responsible for your information will depend on your location 
 
 _**Location of Job Seeker**_ _**Data Controller **_ United States Indeed Inc.  
   
-Indeed Staffing LLC, for U.S. Job Seekers using Indeed Staffing Outside the United States Indeed Operations Ireland Limited 
+Indeed Staff LLC, for U.S. Job Seekers using Indeed Staff Outside the United States Indeed Operations Ireland Limited 
 
 **Employers**
 
-_**Location of Employer**_ _**Data Controller **_ United StatesIndeed Inc. Brazil Indeed Brasil Pesquisa de Empregos ltda.IndiaIndeed India Operations (Pte.) Ltd.Asia-Pacific RegionIndeed Singapore Operations (Pte.) Ltd.Rest of world Indeed Ireland Operations LimitedEmployers using Indeed HireIndeed Hire Inc.Employers using Indeed StaffingIndeed Staffing LLC**3\. What information do we collect about you?**
+_**Location of Employer**_ _**Data Controller **_ United StatesIndeed Inc. Brazil Indeed Brasil Pesquisa de Empregos ltda.IndiaIndeed India Operations (Pte.) Ltd.Asia-Pacific RegionIndeed Singapore Operations (Pte.) Ltd.Rest of world Indeed Ireland Operations LimitedEmployers using Indeed HireIndeed Hire Inc.Employers using Indeed StaffIndeed Staff LLC**3\. What information do we collect about you?**
 
 We collect information:
 
@@ -139,9 +139,9 @@ All references to Job Seeker and Employer are defined as provided for in the In
 
 This section determines which Indeed entity acts as the controller of your Personal Data (as defined in section 1.2) provided to, or collected by or for, or processed in connection with our Site.
 
-With respect to Job Seekers, for the purposes of this Privacy Policy, “Indeed” or “we” means Indeed, Inc. if you are a Job Seeker located in the United States, Indeed Ireland Operations Limited if you are a Job Seeker located outside of the United States, and Indeed Staffing LLC if you are a Job Seeker receiving Indeed Staffing services.
+With respect to Job Seekers, for the purposes of this Privacy Policy, “Indeed” or “we” means Indeed, Inc. if you are a Job Seeker located in the United States, Indeed Ireland Operations Limited if you are a Job Seeker located outside of the United States, and Indeed Staff LLC if you are a Job Seeker receiving Indeed Staff services.
 
-With respect to Employers, “Indeed” or “we” means Indeed, Inc. if you are an Employer located in the United States, Indeed Brasil Pesquisa de Empregos ltda. if you are an Employer located in Brazil, Indeed India Operations (Pte.) Ltd. if you are an Employer located in India, Indeed Singapore Operations (Pte.) Ltd. if you are an Employer in the Asia-Pacific Region, Indeed Ireland Operations Limited if you are a Employer located elsewhere, Indeed Hire, Inc. if you are receiving Indeed Hire services, and Indeed Staffing LLC if you are receiving Indeed Staffing services. Indeed is the controller for the Personal Data we process, unless otherwise stated in these terms or provided for in a separate agreement.
+With respect to Employers, “Indeed” or “we” means Indeed, Inc. if you are an Employer located in the United States, Indeed Brasil Pesquisa de Empregos ltda. if you are an Employer located in Brazil, Indeed India Operations (Pte.) Ltd. if you are an Employer located in India, Indeed Singapore Operations (Pte.) Ltd. if you are an Employer in the Asia-Pacific Region, Indeed Ireland Operations Limited if you are a Employer located elsewhere, Indeed Hire, Inc. if you are receiving Indeed Hire services, and Indeed Staff LLC if you are receiving Indeed Staff services. Indeed is the controller for the Personal Data we process, unless otherwise stated in these terms or provided for in a separate agreement.
 
 **1.2 Personal Data and Non-Personal Data**
 
