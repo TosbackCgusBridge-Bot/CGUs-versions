@@ -1,4 +1,4 @@
-Sales: **855.247.0067**   Support: **855.205.7356**
+Sales: **855.712.8539**   Support: **855.905.0951**
 
 Sign Up Login
 
@@ -185,9 +185,9 @@ Bloomington, MN 55437
 
 **CALL US**
 
-**Sales:** 855.247.0067
+**Sales:** 855.712.8539
 
-**Support:** 855.205.7356
+**Support:** 855.905.0951
 
 **Login**
 
@@ -227,9 +227,9 @@ Bloomington, MN 55431
 
 CALL US
 
-**Support:** (855) 205-7356
+**Support:** (855) 905-0951
 
-**Sales:** (855) 247-0067
+**Sales:** (855) 712-8539
 
 **Login**
 
