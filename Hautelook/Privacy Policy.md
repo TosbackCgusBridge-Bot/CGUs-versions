@@ -9,6 +9,30 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
+    *   One-Stop Shop: Women's Styles Under $25
+    *   One-Stop Shop: Women's Styles Under $35
+    *   One-Stop Shop: Women's Styles Under $45
+    *   One-Stop Shop: Men's Styles Under $25
+    *   One-Stop Shop: Men's Styles Under $35
+    *   One-Stop Shop: Men's Styles Under $45
+    *   rag &. bone Up to 70% Off
+    *   rag &. bone Men Up to 60% Off
+    *   Chic &. Comfortable: Skirts Incl. Plus and Petites
+    *   One-Stop Shop: Kids' Styles Under $15
+    *   One-Stop Shop: Kids' Styles Under $25
+    *   One-Stop Shop: Kids' Styles at $35
+    *   On-Trend Sunnies Under $60
+    *   Earth Origins Up to 55% Off
+    *   Sun &. Fun: Swim Favorites Up to 65% Off
+    *   DKNY Intimates &. Sleep Under $25
+    *   MIA &. MIA AMORE Up to 60% Off
+    *   Fresh Finds: Sandals &. Sneakers from $25
+    *   Men's Comfort Shoes Up to 60% Off
+    *   Easy WFH Hair: Dry Shampoo &. More
+    *   Diamonds &. Gold Up to 70% Off ft. EF Collection
+    *   Beauty Sets We Love
+    *   Levi's
+    
     *   Gifts for Dad: Watches ft. Citizen Up to 60% Off
     *   Joie &. Equipment Up to 75% Off
     *   Habitual &. More Up to 70% Off
@@ -19,150 +43,138 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Fun in the Sun: Men's Printed Swim Under $40
     *   Statement Hoops
     *   it Luggage Up to 60% Off
-    *   Elevate Your Everyday Routine: Lipstick, Blush &. More
-    *   Summer-Ready Beauty Essentials
     *   Kids' Active Styles Up to 60% Off
     *   Born Men Up to 60% Off
-    *   Giftable Fragrances for Father's Day
     *   ECCO Men
     *   Great Gifts: Men's Loungewear Up to 60% Off
     *   Steve Madden Kids
-    *   Fragrances for Her Starting at $15
-    *   Levi's
     *   Levi's Men
-    *   Exclusive Styles from $15 Incl. Plus &. Petites
-    
-    *   BCBGeneration &. More Up to 70% Off
-    *   Now Trending: Active Styles Under $35
-    *   KORKS &. Kork-Ease Up to 60% Off
-    *   Amanda &. Chelsea Incl. Plus and Petites
-    *   ZAC Zac Posen
-    *   Summer Roundup: Swim Under $30
-    *   Shoes ft. Donald Pliner Up to 70% Off
-    *   Comfort at Home: PJs, Lounge &. More Up to 65% Off
-    *   Summer Sunglasses Under $100 ft. Emilio Pucci
     *   Summer Suiting: Pastels &. Linens
     *   Men's Shoes from John Varvatos Star USA &. More
-    *   Treat Your Feet: Luxe Slides Up to 65% Off
     *   Play All Day: Little Tikes, Fisher-Price &. More
     *   Summer Style: Men's Tees &. Shorts Up to 65% Off
     *   Levi's Kids &. More
     *   Skechers Kids
-    *   Row A Under $25
     *   Steamers ft. SALAV
+    
     *   Sneaker Shop: Men's Active &. Running Up to 40% Off
     *   Sneaker Shop: Active &. Running Up to 40% Off
     *   Sneaker Shop: Lifestyle Up to 40% Off
     *   Sneaker Shop: Men's Lifestyle Up to 55% Off
-    
     *   Sneaker Shop: Comfort Styles Up to 55% Off
     *   Sneaker Shop: On-Trend Styles Under $40
     *   Sneaker Shop: Designer &. More Up to 60% Off
     *   Sneaker Shop: Kids' Styles Starting at $20
-    *   Pair Up: Men's Socks Under $15
-    *   Turquoise Jewelry
-    *   Pair Up: Men's Activewear Under $50
-    *   Pair Up: Men's Denim Up to 60% Off
-    *   Kids' Swim Up to 70% Off
     *   New on HauteLook: Zojirushi Rice Cookers &. More
     *   Viking Cookware Up to 60% Off
     *   Gourmet Cookware &. Bakeware Up to 60% Off
-    *   Antonio Maurizi Up to 60% Off
     *   Blankets, Comforters &. More Up to 60% Off
-    *   Shorts &. More from $20 Incl. Plus and Petites
-    *   Tank Tops Starting at $15
-    *   Refresh Your Space: Indoor &. Outdoor Decor
-    *   Blenders ft. Ninja
     *   Free Shipping: Wall Decor &. Accents
-    *   Free Shipping: Decor for Every Style
-*   WomenShop Sale Events
-    
-    *   Joie &. Equipment Up to 75% Off
-    *   Habitual &. More Up to 70% Off
-    *   Best of Tops Under $20 Incl. Plus &. Petites
-    *   Luxe Brands Up to 75% Off
-    *   Sandals &. More ft. FitFlop Up to 60% Off
-    *   Marc Fisher LTD Up to 70% Off
-    *   Statement Hoops
-    *   it Luggage Up to 60% Off
     *   Elevate Your Everyday Routine: Lipstick, Blush &. More
     *   Summer-Ready Beauty Essentials
     *   Giftable Fragrances for Father's Day
     *   Fragrances for Her Starting at $15
-    *   Levi's
+    *   Blenders ft. Ninja
     *   Exclusive Styles from $15 Incl. Plus &. Petites
     *   BCBGeneration &. More Up to 70% Off
-    *   Now Trending: Active Styles Under $35
-    *   KORKS &. Kork-Ease Up to 60% Off
-    
-    *   Amanda &. Chelsea Incl. Plus and Petites
-    *   ZAC Zac Posen
     *   Summer Roundup: Swim Under $30
-    *   Shoes ft. Donald Pliner Up to 70% Off
-    *   Comfort at Home: PJs, Lounge &. More Up to 65% Off
-    *   Summer Sunglasses Under $100 ft. Emilio Pucci
-    *   Treat Your Feet: Luxe Slides Up to 65% Off
-    *   Row A Under $25
+    *   Shorts &. More from $20 Incl. Plus and Petites
+    *   Tank Tops Starting at $15
+*   WomenShop Sale Events
+    
+    *   One-Stop Shop: Women's Styles Under $25
+    *   One-Stop Shop: Women's Styles Under $35
+    *   One-Stop Shop: Women's Styles Under $45
+    *   rag &. bone Up to 70% Off
+    *   Chic &. Comfortable: Skirts Incl. Plus and Petites
+    *   On-Trend Sunnies Under $60
+    *   Earth Origins Up to 55% Off
+    *   Sun &. Fun: Swim Favorites Up to 65% Off
+    *   DKNY Intimates &. Sleep Under $25
+    *   MIA &. MIA AMORE Up to 60% Off
+    *   Fresh Finds: Sandals &. Sneakers from $25
+    *   Easy WFH Hair: Dry Shampoo &. More
+    *   Diamonds &. Gold Up to 70% Off ft. EF Collection
+    *   Beauty Sets We Love
+    *   Levi's
+    *   Joie &. Equipment Up to 75% Off
+    *   Habitual &. More Up to 70% Off
+    *   Best of Tops Under $20 Incl. Plus &. Petites
+    *   Luxe Brands Up to 75% Off
+    
+    *   Sandals &. More ft. FitFlop Up to 60% Off
+    *   Marc Fisher LTD Up to 70% Off
+    *   Statement Hoops
+    *   it Luggage Up to 60% Off
     *   Sneaker Shop: Active &. Running Up to 40% Off
     *   Sneaker Shop: Lifestyle Up to 40% Off
     *   Sneaker Shop: Comfort Styles Up to 55% Off
     *   Sneaker Shop: On-Trend Styles Under $40
     *   Sneaker Shop: Designer &. More Up to 60% Off
-    *   Turquoise Jewelry
+    *   Elevate Your Everyday Routine: Lipstick, Blush &. More
+    *   Summer-Ready Beauty Essentials
+    *   Giftable Fragrances for Father's Day
+    *   Fragrances for Her Starting at $15
+    *   Exclusive Styles from $15 Incl. Plus &. Petites
+    *   BCBGeneration &. More Up to 70% Off
+    *   Summer Roundup: Swim Under $30
     *   Shorts &. More from $20 Incl. Plus and Petites
     *   Tank Tops Starting at $15
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Accessories
     *   Jewelry
     *   Lingerie &. Shapewear
     *   Handbags
+    *   Accessories
     *   Watches
 *   MenShop Sale Events
     
+    *   One-Stop Shop: Men's Styles Under $25
+    *   One-Stop Shop: Men's Styles Under $35
+    *   One-Stop Shop: Men's Styles Under $45
+    *   rag &. bone Men Up to 60% Off
+    *   On-Trend Sunnies Under $60
+    *   Men's Comfort Shoes Up to 60% Off
     *   Gifts for Dad: Watches ft. Citizen Up to 60% Off
     *   Fun in the Sun: Men's Printed Swim Under $40
     *   it Luggage Up to 60% Off
+    
     *   Born Men Up to 60% Off
     *   ECCO Men
     *   Great Gifts: Men's Loungewear Up to 60% Off
     *   Levi's Men
-    *   Summer Sunglasses Under $100 ft. Emilio Pucci
     *   Summer Suiting: Pastels &. Linens
-    
     *   Men's Shoes from John Varvatos Star USA &. More
     *   Summer Style: Men's Tees &. Shorts Up to 65% Off
     *   Sneaker Shop: Men's Active &. Running Up to 40% Off
     *   Sneaker Shop: Men's Lifestyle Up to 55% Off
-    *   Pair Up: Men's Socks Under $15
-    *   Pair Up: Men's Activewear Under $50
-    *   Pair Up: Men's Denim Up to 60% Off
-    *   Antonio Maurizi Up to 60% Off
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Watches
     *   Accessories
 *   KidsShop Sale Events
     
+    *   One-Stop Shop: Kids' Styles Under $15
+    *   One-Stop Shop: Kids' Styles Under $25
+    *   One-Stop Shop: Kids' Styles at $35
     *   Kids' Active Styles Up to 60% Off
     *   Steve Madden Kids
     *   Play All Day: Little Tikes, Fisher-Price &. More
     *   Levi's Kids &. More
     *   Skechers Kids
     *   Sneaker Shop: Kids' Styles Starting at $20
-    *   Kids' Swim Up to 70% Off
     
     Shop By Category
     *   Girls' Shoes
     *   Girls
-    *   Boys' Shoes
     *   Boys
-    *   Baby
+    *   Boys' Shoes
     *   Toys
+    *   Baby
 *   HomeShop Sale Events
     
     *   Steamers ft. SALAV
@@ -170,22 +182,20 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Viking Cookware Up to 60% Off
     *   Gourmet Cookware &. Bakeware Up to 60% Off
     *   Blankets, Comforters &. More Up to 60% Off
-    *   Refresh Your Space: Indoor &. Outdoor Decor
-    *   Blenders ft. Ninja
     *   Free Shipping: Wall Decor &. Accents
-    *   Free Shipping: Decor for Every Style
+    *   Blenders ft. Ninja
     
     Shop By Category
-    *   Home Decor
     *   Kitchen &. Tabletop
+    *   Home Decor
+    *   Luggage &. Travel
     *   Bedding
     *   Outdoor Living
-    *   Luggage &. Travel
-    *   Cleaning &. Organization
     *   Electronic &. Tech Accessories
-    *   Pet Accessories
 *   BeautyShop Sale Events
     
+    *   Easy WFH Hair: Dry Shampoo &. More
+    *   Beauty Sets We Love
     *   Elevate Your Everyday Routine: Lipstick, Blush &. More
     *   Summer-Ready Beauty Essentials
     *   Giftable Fragrances for Father's Day
@@ -194,9 +204,9 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     Shop By Category
     *   Makeup
     *   Skin Care
+    *   Fragrance
     *   Tools &. Accessories
     *   Men’s Grooming
-    *   Fragrance
     *   Hair Care
     *   Bath &. Body
     *   Makeup Bags
