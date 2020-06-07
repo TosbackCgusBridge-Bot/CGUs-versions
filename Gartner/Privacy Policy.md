@@ -81,7 +81,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 476 0138 1 855 476 0138
+    1 855 611 0858 1 855 611 0858
     
 
 *   Solutions By Function
@@ -149,7 +149,7 @@ Search
 
 *   Become a Client
     
-    1 855 476 0138 1 855 476 0138
+    1 855 611 0858 1 855 611 0858
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
