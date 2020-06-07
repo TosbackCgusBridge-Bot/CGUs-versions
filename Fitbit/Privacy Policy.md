@@ -18,13 +18,17 @@
     *   NOT SURE WHICH PRODUCT IS RIGHT FOR YOU?
     *   Take the Quiz
     
-    NEW
+    $70 OFF
     
-    Fitbit Charge 4™
+    Father's Day Sale
     
-    Fitbit Versa 2™
+    $20 OFF
     
-    Accessories
+    Men's Health Best Overall Fitness Tracker
+    
+    Celebrate all love
+    
+    Pride woven band
     
 *   TECHNOLOGY
     
