@@ -29,34 +29,44 @@ $15.99Men's St. John's Bay Flat-Front Shorts select styles$11.99 Men's St. Joh
 Beauty therapyReset your self-care routine with something new this summer.UP TO 15% OFF Salon Haircare Productsselect stylesNew BeautyShop Sephora Inside JCPenneyExcluded from coupons. Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
+*   Sealy Essentials™ Ivory Treasure - Mattress Only $149 - $298.99with code~$430 - $920~30
 *   Sealy® Davlin LTD Plush Pillowtop - Mattress Only $353.99 - $599with code~$1,030 - $1,820~11
 *   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
     $20sale
     
     ~$124.98~186
-*   Liz Claiborne Womens Split Crew Neck Short Sleeve Henley Shirt $10.12with code~$27~10
-*   The Foundry Big &. Tall Supply Co.-Big and Tall Mens Crew Neck Short Sleeve T-Shirt $8.99with code~$20~234
-*   Liz Claiborne Luxury Egyptian Hygrocotton Loops Bath Towel $5.99 - $41.24with code~$16 - $124~133
-*   a.n.a Womens Knit Waist Short $14.99with code~$30~6
+*   Arizona Flex Mens Cargo Short $14.99with code~$40~75
+*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $26.24 - $47.24with code~$50 - $90~217
+*   St. John's Bay Mid Rise Cropped Pants - Plus $17.24with code~$49~
 
 Sponsored Items
 
 *   Google Nest Hello Video Doorbell $206.10with code
-*   Waterpik WF-06W010 Whitening Water Flosser
+*   Waterpik WF-06W010 Whitening Water Flosser $80.99with code~$94~117
+*   Fisher-Price Learn with Me Zebra Walker
     
-    $89.99sale
+    $24.99
     
-    ~$94~117
-*   Brim 19-Bar Espresso Maker
+    39
+*   Bissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum
     
-    $430
+    $360
     
-    26
 *   Fisher-Price Rock-A-Stack Clacker
     
     $4.49
     
+*   Fisher-Price Linkimals A To Z Otter
+    
+    $19.99
+    
+    23
+*   Fisher-Price Linkimals Smooth Moves Sloth
+    
+    $29.99
+    
+    34
 *   Fisher-Price Laugh &. Learn Smart Stages Sis
     
     $19.99
@@ -67,64 +77,37 @@ Sponsored Items
     $569.99sale
     
     ~$669~
-*   Samsung Galaxy Active 2 40mm Womens Multi-Function Rose Goldtone Smart Watch-Sm-R830nzdaxar
-    
-    $279.99
-    
-*   Bissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum
-    
-    $360
-    
-*   Brim 0.8L Electric Kettle
-    
-    $149.99sale
-    
-    ~$150~22
-*   Brim 8 Cup French Press Coffee Maker
-    
-    $59.99sale
-    
-    ~$75~6
-*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
-    
-    $14.99
-    
-    10
-*   Fisher-Price Linkimals Smooth Moves Sloth
-    
-    $29.99
-    
-    34
-*   Fisher-Price Laugh &. Learn Smart Stages Puppy
-    
-    $19.99
-    
+*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
 *   Fisher-Price Classic Xylophone
     
     $15.99
     
     7
-*   Fisher-Price Learn with Me Zebra Walker
-    
-    $24.99
-    
-    39
-*   Fisher-Price Linkimals A To Z Otter
+*   Fisher-Price Laugh &. Learn Smart Stages Puppy
     
     $19.99
-    
-    23
-*   Google Nest Cam IQ Indoor Security Camera 2-Pack $448.20with code26
-*   Samsung Galaxy Mens Multi-Function Black Smart Watch-Sm-R800nzsaxar
-    
-    $279.99
     
 *   Tommee Tippee Advanced Anti Colic Baby Bottles – Clear 9 oz
     
     $8.99
     
     44
-*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
+*   Google Nest Cam IQ Outdoor Security Camera 2-Pack $629.10with code49
+*   Samsung Galaxy Active 2 40mm Mens Multi-Function Black Smart Watch-Sm-R830nzkaxar
+    
+    $229.99sale
+    
+    ~$279.99~
+*   Google Nest Cam IQ Indoor Security Camera 2-Pack $448.20with code26
+*   Bissell® SpinWave® Hard Floor Spin Mop
+    
+    $129
+    
+*   Samsung Galaxy Active 2 44mm Mens Multi-Function Black Smart Watch-Sm-R820nzkaxar
+    
+    $249.99sale
+    
+    ~$299.99~
 
 Shop and Save at JCPenney
 
