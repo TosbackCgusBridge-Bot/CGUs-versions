@@ -72,7 +72,7 @@ New Kings Beam House
 SE1 9PD, London, UK  
 +44 20 7351 4646
 
-Tweets by Visokio Resources
+Resources
 
 Try now Download
 
