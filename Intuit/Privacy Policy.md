@@ -1,16 +1,16 @@
-Our COVID-19 response  DetailsUp to 60% Off Dad’s Day Deals &. More Shop Now  
-EXTRA 30% OFF $75 or more with code: 4SUMMER Details  
-EXTRA 25% OFF under $75 with code: 4SUMMER Details  
-Free Shipping Over $49  DetailsOur COVID-19 response  DetailsUp to 60% Off Dad’s Day Deals &. More Shop Now  
+Our COVID-19 response  DetailsEXTRA 30% OFF w/ JCP Credit Card &. SUNFUN20 Details  
+EXTRA 25% OFF $75 or more with code: SUNFUN20 Details  
+Free Shipping Over $49  DetailsArizona Flash Sale EXTRA 40% OFF w/ code: 4ARIZONA Details  
+Our COVID-19 response  DetailsEXTRA 30% OFF w/ JCP Credit Card &. SUNFUN20 Details  
 
 Enable Accessibility
 
-*   StoresAurora MallMore Stores14200 E Alameda Ave, Aurora, CO, 80012303-344-9901Due to the continuing threat of the Coronavirus (COVID-19), JCPenney stores are temporarily closed. Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
+*   StoresAurora MallMore Stores14200 E Alameda Ave, Aurora, CO, 80012303-344-9901 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
-*   Father's Day &. Trending
+*   Deals &. Trending
 *   Home &. Lifestyle
 *   Women
 *   Men
@@ -22,92 +22,116 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-$15.99Men's St. John's Bay Flat-Front Shorts select styles$11.99 Men's St. John's Bay Polo select styles 50% OFFMen's Van Heusen Apparelselect styles 45% OFFDiamond Jewelryselect styles$11.99The Foundry Big &. Tall Supply Co. Teeselect styles $6.99 JCPenney Home 30"x54" Bath Towel60% OFFLiz Claiborne Topsselect styles30-50% OFF Brands Dad lovesselect styles40-50% OFF IZOD select styles40-50% OFFSt. John’s Bayselect styles40-50% OFF U.S. Polo Assn.select styles30% OFFLevi's®select stylesOffers &. coupons do not apply.Ends 6/10Our Biggest Jewelry Sale of the Season\*Ends 6/21UP TO 70% OFFFine &. Fashion Jewelry select styles | with coupon 55-60% OFFGold and Sterling Silver Jewelryselect styles $29.99 Smartwatch-yes, please!Limited time special, while supplies last. Excluded from coupons and Rewards.\*Our Biggest Jewelry Sale of the Season refers to the most items on sale for the longest duration 6/4/20-6/21/20 during the period from 2/20/20-6/28/20. a future sale of a shorter duration may have more items on sale.UP TO 50% OFF Step up your summer style—for future vacays and getting out and about!select styles$19.99Worthington Top select styles$21.99a.n.a. Dressselect styles$19.99Men's St. John's Bay Cargo Shortsselect styles $17.99Men's St. John's Bay Button-Front Shirtselect stylesSHOES UNDER $30Stroll feet first into summer.$24.99Men's St. John's Bay Casual Shoes and Sandalsselect stylesStarting at $19.99Women's Sandals select stylesUP TO 40% OFF KitchenGifts for the head chefselect styles
+UP TO 50% OFFWomen's dressesCute, chic options for any event!select styles
 
-*   Shop Kitchen
+*   Shop All
 
-Beauty therapyReset your self-care routine with something new this summer.UP TO 15% OFF Salon Haircare Productsselect stylesNew BeautyShop Sephora Inside JCPenneyExcluded from coupons. Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
-Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 35 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+20-50% OFF SwimwearSoak up the sun and the savings!Women'sMen'sGirlsBoys4th of July Furniture &. Mattress SALEUP TO 60% OFF+Extra 10% OFF with couponEnds 7/15 | select stylesMattressesFurnitureUP TO 40% OFF Windowselect stylesSheersGreat for east-facing windowsto welcome the morning lightMidweight CurtainsWill let in the most light withoutsacrificing privacyBlackout CurtainsPerfect in nurseries &. bedroomsfor afternoon snoozesBlinds &. ShadesOffer a balance between full natural lightto blackout &. easy to cleanFor family time on the go or layin' low.    20% OFF adidas &. Championselect stylesExcluded from coupons.Shop adidasShop Champion  Learn More  Shop Now Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 43 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Sealy Essentials™ Ivory Treasure - Mattress Only $149 - $298.99with code~$430 - $920~30
-*   Sealy® Davlin LTD Plush Pillowtop - Mattress Only $353.99 - $599with code~$1,030 - $1,820~11
 *   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
     $20sale
     
-    ~$124.98~186
-*   Arizona Flex Mens Cargo Short $14.99with code~$40~75
-*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $26.24 - $47.24with code~$50 - $90~217
-*   St. John's Bay Mid Rise Cropped Pants - Plus $17.24with code~$49~
+    ~$124.98~187
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+    
+    $20sale
+    
+    ~$124.98~132
+*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
+    
+    $29.99sale
+    
+    ~$85~
+*   Sealy Essentials™ Ivory Treasure - Mattress Only $149 - $298.99with code~$430 - $920~34
+*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $26.24 - $47.24with code~$50 - $90~218
+*   Samsonite Medium Printed Luggage Cover $20.24with code~$50~1
 
 Sponsored Items
 
-*   Google Nest Hello Video Doorbell $206.10with code
-*   Waterpik WF-06W010 Whitening Water Flosser $80.99with code~$94~117
-*   Fisher-Price Learn with Me Zebra Walker
+*   Bella Spiralizer
     
-    $24.99
+    $23.99clearance
     
-    39
+    ~$80~66
+*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
+*   Brim 8-Cup Electric Pour Over Coffee Maker
+    
+    $249.99sale
+    
+    ~$275~38
+*   Circulon® Momentum 11-pc. Nonstick Cookware Set $179.99with code~$400~135
+*   Samsung Galaxy Mens Multi-Function Black Smart Watch-Sm-R800nzsaxar
+    
+    $279.99
+    
+    349
+*   Brim Pour Over Coffee Kit
+    
+    $49.99sale
+    
+    ~$60~25
+*   Brim 8 Cup French Press Coffee Maker
+    
+    $59.99sale
+    
+    ~$75~7
 *   Bissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum
     
-    $360
+    $334.99sale
     
-*   Fisher-Price Rock-A-Stack Clacker
-    
-    $4.49
-    
-*   Fisher-Price Linkimals A To Z Otter
-    
-    $19.99
-    
-    23
-*   Fisher-Price Linkimals Smooth Moves Sloth
-    
-    $29.99
-    
-    34
-*   Fisher-Price Laugh &. Learn Smart Stages Sis
-    
-    $19.99
-    
-    48
+    ~$360~2363
 *   Dyson® V8 Animal Cord-Free Vacuum
     
     $569.99sale
     
-    ~$669~
-*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
-*   Fisher-Price Classic Xylophone
+    ~$669~186
+*   Brim 0.8L Electric Kettle
     
-    $15.99
+    $149.99sale
     
-    7
-*   Fisher-Price Laugh &. Learn Smart Stages Puppy
+    ~$150~22
+*   Brim Conical Burr Coffee Grinder
     
-    $19.99
+    $149.99sale
     
-*   Tommee Tippee Advanced Anti Colic Baby Bottles – Clear 9 oz
+    ~$150~25
+*   Circulon® Symmetry 10" &. 12" Hard-Anodized French Skillet Set
     
-    $8.99
+    $69.99sale
     
-    44
-*   Google Nest Cam IQ Outdoor Security Camera 2-Pack $629.10with code49
-*   Samsung Galaxy Active 2 40mm Mens Multi-Function Black Smart Watch-Sm-R830nzkaxar
+    ~$100~159
+*   Circulon Elementum Hard Anodized 10-pc. Cookware Set
     
-    $229.99sale
+    $209.99sale
     
-    ~$279.99~
-*   Google Nest Cam IQ Indoor Security Camera 2-Pack $448.20with code26
-*   Bissell® SpinWave® Hard Floor Spin Mop
+    ~$325~76
+*   Shea Moisture Jamaican Black Castor Oil Conditioner - 11 oz. $9.89with code85
+*   Circulon® Symmetry 11-pc. Hard-Anodized Cookware Set
     
-    $129
+    $379.99sale
     
-*   Samsung Galaxy Active 2 44mm Mens Multi-Function Black Smart Watch-Sm-R820nzkaxar
+    ~$600~117
+*   Samsung Galaxy Active 2 40mm Womens Multi-Function Rose Goldtone Smart Watch-Sm-R830nzdaxar
     
-    $249.99sale
+    $279.99
     
-    ~$299.99~
+    35
+*   Samsung Galaxy Active Mens Black Smart Watch-Sm-R500nzkaxar
+    
+    $199.99
+    
+    183
+*   Samsung Galaxy Active Womens Rose Goldtone Smart Watch-Sm-R500nzdaxar
+    
+    $199.99
+    
+*   Bissell® ProHeat 2X® Revolution™ Pet Carpet Cleaner
+    
+    $259.99sale
+    
+    ~$309~1264
 
 Shop and Save at JCPenney
 
@@ -176,4 +200,4 @@ Download Our App
 *   Legal
 *   AdChoices
 
-© JCP Media, Inc. 2020.  All Rights ReservedCoupons undefined
+© JCP Media, Inc. 2020.  All Rights ReservedCoupons
