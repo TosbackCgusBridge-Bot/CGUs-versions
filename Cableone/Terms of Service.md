@@ -1,33 +1,31 @@
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1676078032639904&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=429775174175430&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=655713804869086&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1479184562239549&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N979W7" height="0" width="0" style="display:none. visibility:hidden;">. </iframe>. Turn on more accessible mode Turn off more accessible mode Sparklight Responds to Coronavirus (COVID-19) to Help Keep Communities Connected. Feedback Skip to main content
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N979W7" height="0" width="0" style="display:none;visibility:hidden"></iframe>. To view offer pricing Choose your location Set your location to see special sales and local information Set Location We're sorry, Sparklight is not available in {zipcode}.
 
-*   *   Residential Business Support
-    *   Internet
-    *   Phone
-    *   TV
-    *   Packages
-    *   Business
-    *   Customer Login
-    *   Support
+But we're still here to help, contact our friends at SmartMove.us to find service in your area.
 
-*   To view offer pricing
-*   Choose your location Set your location to see special sales and local information Change Location: Set Location Choose another location to see local deals and information Change Location: Set Location Your Local office View Local Details Not your location? Set your local information to see special sales and local information Change
+See Offers Call 1-866-270-9684 Choose another location to see local deals and information Set Location Set Location Customer LoginSupportOrder Online
 
-*   Customer Login
-*   |
-*   Support
-
-Skip to main content
-
+*   Please enter something to search for.
+    
+    Residential Business Support
 *   Internet
 *   Phone
 *   TV
 *   Packages
 *   Business
-*   Select the service for which you would like to learn more Residential Business Support Search Please enter something to search for. Search Type Search
+*   Select the service for which you would like to learn more Residential Business Support
+    
+    Please enter something to search for.
+    
+    Search
+*   SupportOrder Online
 
-Terms and Conditions Terms and Conditions
+To view offer pricing Choose your location Set your location to see special sales and local information Set Location We're sorry, Sparklight is not available in {zipcode}.
 
-Sparklight™ is a dba of Cable One, Inc. (NYSE:CAB0). In this document, "Cable One" means Cable One, Inc. and "Sparklight" means Sparklight™ and includes any Cable One or Sparklight affiliate or subsidiary authorized to provide you with services. Specifically, Cable One affiliates or subsidiaries include Cable One VoIP LLC. Please read and review this document carefully before accessing further information on this website. By proceeding to access this website, you agree to be bound by the terms and conditions set forth below. If you do not wish to be bound by these terms and conditions, please do not access or use this website. Sparklight may modify this agreement and its terms and conditions, and such modified agreement shall be effective immediately upon posting. Your continued access to or use of this website shall be deemed your conclusive acceptance of the agreement and its terms and conditions and any modifications thereto.
+But we're still here to help, contact our friends at SmartMove.us to find service in your area.
+
+See Offers Call 1-866-270-9684 Choose another location to see local deals and information Set Location Set Location Terms and Conditions TERMS AND CONDITIONS
+
+Sparklight® is a dba of Cable One, Inc. (NYSE:CAB0). In this document, "Cable One" means Cable One, Inc. and "Sparklight" means Sparklight® and includes any Cable One or Sparklight affiliate or subsidiary authorized to provide you with services. Specifically, Cable One affiliates or subsidiaries include Cable One VoIP LLC. Please read and review this document carefully before accessing further information on this website. By proceeding to access this website, you agree to be bound by the terms and conditions set forth below. If you do not wish to be bound by these terms and conditions, please do not access or use this website. Sparklight may modify this agreement and its terms and conditions, and such modified agreement shall be effective immediately upon posting. Your continued access to or use of this website shall be deemed your conclusive acceptance of the agreement and its terms and conditions and any modifications thereto.
 
 In this site, Sparklight, Inc. has attempted to provide information that is accurate, complete, and reliable as of the time it was published or posted. However, Sparklight makes no representation about the suitability or accuracy of the content provided by third parties or other information published on this site. All documents and related graphics are provided "As Is" without warranty of any kind, either express or implied.
 
@@ -45,39 +43,31 @@ You hereby represent, warrant and covenant to Sparklight that you shall use the 
 
 Sparklight may make changes to the information provided in this site, or to the products or services provided herein, at any time without notice. However, Sparklight has no obligation to provide such modifications or updates, or to continue to provide access to this site and may discontinue this site at any time in its sole discretion.
 
-Sparklight Footer Business
+Business
 
-*   Sparklight Small Business Solutions
-*   Sparklight Large Business Solutions
-*   Sparklight Business Carrier &. Wholesale Solutions
+*   Small Business Solutions
+*   Large Business Solutions
+*   Carrier &. Wholesale Solutions
 
 Advertising
 
-*   Sparklight Digital Marketing
-*   Sparklight Creative Services
-*   Sparklight Business TV Advertising
+*   Digital Marketing
+*   Creative Services
+*   TV Advertising
 
 Legal
 
-*   Sparklight Open Internet &. Network Management
-*   Sparklight Terms &. Conditions
-*   Sparklight Privacy Policy
-*   Sparklight Acceptable Use Policy
-*   Sparklight Closed Captioning
-*   Sparklight Accessibility
-*   Sparklight Cable Service Guard
-*   Sparklight Copyright Notice
-*   Sparklight Annual Notice
+*   Open Internet &. Network Management
+*   Term &. Conditions
+*   Privacy Policy
+*   Acceptable Use Policy
+*   Closed Captioning
+*   Accessibility
+*   Cable Service Guard
+*   Copyright Notice
+*   Annual Notice
 
-I want to
-
-*   Order New Service
-*   View or Pay Bill
-*   Check Email
-*   View TV Everywhere
-*   Get Support
-
-I want to
+I Want To
 
 *   Order New Service
 *   View or Pay Bill
@@ -87,40 +77,19 @@ I want to
 
 Company
 
-*   Sparklight About Sparklight
-*   Sparklight About Cable One
-*   Sparklight Social Responsibility
-*   Sparklight Net Neutrality
-*   Sparklight Press Releases
-*   Sparklight Investor Relations
-*   Sparklight One-to-One
-
-Company
-
-*   Sparklight About Sparklight
-*   Sparklight About Cable One
-*   Sparklight Social Responsibility
-*   Sparklight Net Neutrality
-*   Sparklight Press Releases
-*   Sparklight Investor Relations
-*   Sparklight One-to-One
+*   About Sparklight
+*   About Cable One
+*   Social Responsibility
+*   Press Releases
+*   Investor Relations
+*   One-to-One
 
 More
 
-*   Sparklight Locations
-*   Sparklight Contact Us
-*   Sparklight Careers
-*   Sparklight Site Map
-*   Sparklight Remote Connect
+*   Locations
+*   Contact Us
+*   Careers
+*   Site Map
+*   Remote Connect
 
-More
-
-*   Sparklight Locations
-*   Sparklight Contact Us
-*   Sparklight Careers
-*   Sparklight Site Map
-*   Sparklight Remote Connect
-
-Copyright 2020, Sparklight . All Rights Reserved.
-
-BESbswy
+Copyright 2020, Sparklight ®. All rights reserved. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1676078032639904&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=429775174175430&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=655713804869086&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1479184562239549&amp;ev=PageView&amp;noscript=1">.
