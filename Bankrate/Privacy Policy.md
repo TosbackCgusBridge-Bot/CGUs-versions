@@ -79,7 +79,11 @@ Main Menu BR Mortgages Mortgages overview
 *   How to refinance your mortgage
 *   Mortgage lender reviews
 
-Main Menu BR Banking Banking overview
+Elevate your Bankrate experience
+
+Get insider access to our best financial tools and content
+
+Get started Main Menu BR Banking Banking overview
 
 *   Compare accounts
 *   CD rates
@@ -115,7 +119,11 @@ Main Menu BR Banking Banking overview
 *   Barclays Bank
 *   All bank reviews
 
-Main Menu BR Credit cards Credit cards overview
+Elevate your Bankrate experience
+
+Get insider access to our best financial tools and content
+
+Get started Main Menu BR Credit cards Credit cards overview
 
 *   Compare by category
 *   Best credit cards of 2020
@@ -152,49 +160,60 @@ Main Menu BR Credit cards Credit cards overview
 *   All credit card calculators
 *   Improving your credit
 
-Main Menu BR Loans Loans overview
+Elevate your Bankrate experience
 
-*   Compare lenders
+Get insider access to our best financial tools and content
+
+Get started Main Menu BR Loans Loans overview
+
+*   Get the best rates
 *   Best personal loan rates
 *   Low-interest personal loans
 *   Personal loans for bad credit
-*   Personal loans for fair credit
 *   Personal loans for good credit
 *   Personal loans for excellent credit
 *   Best home improvement loan rates
 *   Best debt consolidation loan rates
-*   Auto loan rates
 *   Student loan rates
+*   Student loan refinance rates
+*   Student loan interest rates
+*   Auto loan rates
 
-*   Loan types
-*   Personal loans
-*   Auto loans
-*   Debt consolidation loans
-*   Home improvement
-*   Student loans
-*   Medical loans
+*   Lender reviews
+*   Personal loan reviews
+*   Best Egg review
+*   LightStream review
+*   PNC review
+*   LendingClub review
+*   Marcus review
+*   Student loan reviews
+*   Sallie Mae review
+*   Sofi review
+*   Discover review
 
 *   Use calculators
 *   Loan calculator
-*   Auto loan calculator
 *   Personal loan calculator
-*   Auto refinance calculator
 *   Loan payment calculator
 *   Student loan calculator
+*   Auto loan calculator
+*   Auto refinance calculator
 *   All calculators
 
-*   Get advice
-*   Student loan reviews
-*   Personal loan reviews
-*   Student loans guide
-*   How to get a personal loan
-*   Refinancing student loans
-*   Refinancing personal loans
-*   Refinancing auto loans
-*   Personal loan origination fees
+*   Knowledge base
+*   Personal loans
+*   Student loans
+*   Debt consolidation loans
+*   Home improvement loans
+*   Medical loans
 *   Debt management
+*   Auto loans
 
-Main Menu Investing Investing overview
+Elevate your Bankrate experience
+
+Get insider access to our best financial tools and content
+
+Get started Main Menu Investing Investing overview
 
 *   Best of
 *   Best investments
@@ -226,7 +245,11 @@ Main Menu Investing Investing overview
 *   Passive income: What it is and 5 ideas for 2019
 *   How to buy stocks
 
-Main Menu BR Home equity Home equity overview
+Elevate your Bankrate experience
+
+Get insider access to our best financial tools and content
+
+Get started Main Menu BR Home equity Home equity overview
 
 *   Compare lenders
 *   Home equity loan rates
@@ -246,7 +269,11 @@ Main Menu BR Home equity Home equity overview
 *   Consolidate your debt using home equity
 *   Home equity loans with bad credit
 
-Main Menu BR Insurance Insurance overview
+Elevate your Bankrate experience
+
+Get insider access to our best financial tools and content
+
+Get started Main Menu BR Insurance Insurance overview
 
 *   Insurance types
 *   Car insurance
@@ -257,6 +284,7 @@ Main Menu BR Insurance Insurance overview
 *   Best of
 *   Best car insurance companies
 *   Best home insurance companies
+*   Best life insurance companies
 *   Best cheap car insurance
 *   Top car insurance comparison
 
@@ -287,7 +315,11 @@ Main Menu BR Insurance Insurance overview
 *   Home Insurance Florida
 *   Home Insurance Texas
 
-Main Menu Retirement Retirement overview
+Elevate your Bankrate experience
+
+Get insider access to our best financial tools and content
+
+Get started Main Menu Retirement Retirement overview
 
 *   Get advice
 *   Best Roth IRA accounts
@@ -312,7 +344,11 @@ Main Menu Retirement Retirement overview
 *   Best age for Social Security retirement benefits
 *   Roth IRA 5 year rule
 
-B
+Elevate your Bankrate experience
+
+Get insider access to our best financial tools and content
+
+Get started B
 
 *   BR My Dashboard
 *   BR Profile
@@ -606,11 +642,7 @@ California Civil Code 1798.115(c), 1798.130(a)(5)(c), 1798.130(c), and 1798.140 
 
   
 
-Category of Personal Information Is information collected by us? Is information transferred for valuable consideration? Is information transferred for business purposes? Audio, electronic, visual, thermal, olfactory, or similar information X X Commercial information (e.g., products or services purchased, or other purchasing or consuming histories or tendencies) X X Credit card number X X Debit card number X X Electronic network activity (e.g., browsing history) X X Email address X X Geolocation data X X Identifiers (e.g., name or alias) X X Insurance Policy Number X X Medical information X X Online identifier (e.g. IP address) X X Other financial information X X Passport Number X X Physical Characteristics X X Postal address X X Signature X X Social Security Number X X Telephone Number X X Transaction information X X February 5, 2020 1:57:36 PM EST Follow Us Maximize Your Money. Get Expert Advice &. Tools. Master Life's Financial Journey.
-
-You have money questions. Bankrate has answers. Our experts have been helping you master your money for four decades.
-
-Our tools, rates and advice help no matter where you are on life’s financial journey.
+Category of Personal Information Is information collected by us? Is information transferred for valuable consideration? Is information transferred for business purposes? Audio, electronic, visual, thermal, olfactory, or similar information X X Commercial information (e.g., products or services purchased, or other purchasing or consuming histories or tendencies) X X Credit card number X X Debit card number X X Electronic network activity (e.g., browsing history) X X Email address X X Geolocation data X X Identifiers (e.g., name or alias) X X Insurance Policy Number X X Medical information X X Online identifier (e.g. IP address) X X Other financial information X X Passport Number X X Physical Characteristics X X Postal address X X Signature X X Social Security Number X X Telephone Number X X Transaction information X X February 5, 2020 1:57:36 PM EST
 
 *   About Us
 *   Press Room
@@ -625,16 +657,24 @@ Our tools, rates and advice help no matter where you are on life’s financial j
 *   Understand  
     Bankrate's Averages
 
-How we make money
-
-Bankrate.com is an independent, advertising-supported publisher and comparison service. Bankrate is compensated in exchange for featured placement of sponsored products and services, or your clicking on links posted on this website. This compensation may impact how, where and in what order products appear. Bankrate.com does not include all companies or all available products.
-
 *   Privacy Policy / Your California Privacy Rights
 *   Do Not Sell My Info
 *   Terms of Use
 *   GLBA Annual Notice
 *   Licenses
 *   Sitemap
+
+How we make money
+
+Bankrate.com is an independent, advertising-supported publisher and comparison service. Bankrate is compensated in exchange for featured placement of sponsored products and services, or your clicking on links posted on this website. This compensation may impact how, where and in what order products appear. Bankrate.com does not include all companies or all available products.
+
+Maximize Your Money. Get Expert Advice &. Tools. Master Life's Financial Journey.
+
+You have money questions. Bankrate has answers. Our experts have been helping you master your money for four decades.
+
+Our tools, rates and advice help no matter where you are on life’s financial journey.
+
+Facebook logo Twitter logo Follow Us
 
 Bankrate, LLC NMLS ID# 1427381 | NMLS Consumer Access  
 BR Tech Services, Inc NMLS ID# 1743443 | NMLS Consumer Access  
