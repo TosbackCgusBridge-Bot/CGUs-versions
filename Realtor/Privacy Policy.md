@@ -133,9 +133,6 @@ Toggle navigation
         *   Android
 *   Advertise
 
-*   Veterans &. US Miltary $75k  
-    Home Giveaway. Restrictions Apply Enter to Win
-
 About About*   About
 *   Leadership
 *   Awards
