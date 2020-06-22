@@ -1,4 +1,4 @@
-Skip Main Navigation Menu Marriott Bonvoy
+COVID-19 Updates: Learn about our commitment to cleanliness and our extended cancellation policies . Skip Main Navigation Menu Marriott Bonvoy
 
 *   *   English
 *   Help
@@ -13,7 +13,7 @@ Back
     
     Loading...
     
-    CLOSE
+            CLOSE
 *   Deals &. Packages
     
     Loading...
@@ -550,6 +550,7 @@ Top Destinations
 For Guests
 
 *   Best Rate Guarantee
+*   Room Key
 *   Marriott Bonvoy Moments
 *   Activities
 *   Marriott Insiders
@@ -579,4 +580,4 @@ Loading...
 
 Terms of Use Program Terms &. Conditions Privacy Center Do Not Sell My Personal Information Digital Accessibility Site Map Help*   Loading...
     
-prod8,C7D0B50F-7826-52DB-B7DC-DD69B5C55A95
+prod8,2C894B68-7F47-58A7-B8A4-0EBFB65AF3F5
