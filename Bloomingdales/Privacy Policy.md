@@ -445,4 +445,4 @@ Does this answer your question? Yes No s
 *   What is the return and exchange policy?
 *   Bloomingdale's Terms of Use
 *   Product Recalls
-*   What is the shipping policy?
+*   CA Privacy Rights
