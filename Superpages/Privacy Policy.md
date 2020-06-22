@@ -407,7 +407,7 @@ Resources
 
 *   Events
 *   Free Tools
-*   MyDex App
+*   MyPerformanceDashboard
 *   Thryv Rewards Program
 *   Help &. FAQs
 
@@ -436,7 +436,7 @@ Resources+
 
 *   Events
 *   Free Tools
-*   MyDex App
+*   MyPerformanceDashboard
 *   Thryv Rewards Program
 *   Help &. FAQs
 
