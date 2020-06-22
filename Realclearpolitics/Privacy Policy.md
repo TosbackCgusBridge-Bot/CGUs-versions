@@ -50,6 +50,27 @@
     *   Frank Miele
     *   Steve Cortes
     *   Contributors
+    *   Jared D. Carl
+    *   Sandy Maisel
+    *   L. Sandy Maisel
+    *   Wendell L. Willkie II
+    *   Josef Joffe
+    *   Lance Trover
+    *   Richard Porter
+    *   Haley Barbour
+    *   William A. Pierce
+    *   Luis Farias
+    *   Mary Vought
+    *   Sen. Rob Portman
+    *   Jessica Curtis
+    *   Steve McIntosh
+    *   Ted Dabrowski
+    *   Mark Glennon
+    *   Russell Muirhead
+    *   Adam Brandon
+    *   Ann Ravel
+    *   Marco Rubio
+    *   John Hart
     *   Lou Cannon
     *   Charles Lipson
     *   Anneke E. Green
