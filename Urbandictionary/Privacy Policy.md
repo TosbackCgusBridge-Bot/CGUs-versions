@@ -1,39 +1,38 @@
-Top definition PrivacyunknownSomething parents try to invadeMy parents tried to go through my phone, that is an invasion of privacyby SynonymR0lls May 21, 2019 16 1 Get a Privacy mug for your cat Sarah.Jun 7 Word of the Day authoritarianunknownIn a political context - In favor of large, intrusive government that violates or suppresses individual rights. characterized by a "law and order" approach. failing to support civil liberties and/or economic freedom in society. undemocratic  
+Top definition privacyprivacy is slang for poontang aka vagina.i like it when you touch my privacy. (from a da brat song)by blissee December 31, 2005 405 157 FlagGet the privacy neck gaiter and mug.Jun 21 Word of the Day Hindsight is 2020Refers to a realization and clarity on how we humans live on our planet that occurred internationally during the covid-19 pandemic  
   
-In a non-political context - Bossy, controlling, domineeringPeople with authoritarian views, agendas, or personalities rarely describe themselves as authoritarian, but can often be spotted when they try to rationalize some government control as being necessary "for national security", "for public safety", "for the children", or "for your own good".  
-  
-The longer Senator Bullwrap stayed in office, the more authoritarian he became.#libertarian#statist#tyrannical#controlling#governmentby Lin Zhao February 10, 2013 1935 1414 Get the authoritarian neck gaiter and mug.2 privacysexprivacy is slang for poontang aka vagina.i like it when you touch my privacy. (from a da brat song)#coochie#coo#snatch#pussy#poonanny#va61na#crotchby blissee December 31, 2005 404 157 Get a privacy mug for your coworker Callisto.3 privacyunknownA thing that doesn't exist anymore.The government is always trying to find new ways to invade our privacy to the point where it is impossible to not be watched.by Dubiks October 29, 2018 41 14 Get a privacy mug for your cat Nathalie.4 privacyunknownspace to your self with out your annoying siblings.I wanted to have privacy so I went to go into my room with noone and be alone without my annoying siblings because I had enough of them#i will become calmby jimiu December 07, 2017 18 5 Get the privacy neck gaiter and mug.5 privacynameSomething George W. Bush brutally raped.Wow, George W. Bush really fucked everyones privacy with the Patriot Act.#private#douche bag#bush#republican#fuckedby Fuck W February 04, 2006 175 84 Get a privacy mug for your friend James.6 PrivacyunknownCode word for "masturbation space"Mom! leave me alone I need some privacy!#room#private#mom#masturbation#secretive#teenager#space#distance#separationby toadweilder January 12, 2019 13 4 Get a Privacy mug for your daughter-in-law Zora.Jun 7 trending
+A play on or modification of the previous phrase 'hindsight is 20/20,' referring to clear vision.Guy in 2030: It's crazy how once we used to sit in traffic, burning fossil fuels for hours per day.. and how when you'd buy something, it would be wrapped in layers and layers of plastic.  
+Girl in 2030: Well things all changed during the global covid-19 pandemic. People re-assessed how our whole world was operating. They say hindsight is 2020.by pink3lephant June 16, 2020 373 150 FlagGet a Hindsight is 2020 mug for your father-in-law Manafort.2 PrivacySomething parents try to invadeMy parents tried to go through my phone, that is an invasion of privacyby SynonymR0lls May 21, 2019 19 4 FlagGet the Privacy neck gaiter and mug.3 privacyA thing that doesn't exist anymore.The government is always trying to find new ways to invade our privacy to the point where it is impossible to not be watched.by Dubiks October 29, 2018 43 14 FlagGet a privacy mug for your mom Jovana.4 privacyspace to your self with out your annoying siblings.I wanted to have privacy so I went to go into my room with noone and be alone without my annoying siblings because I had enough of themby jimiu December 07, 2017 19 5 FlagGet a privacy mug for your cousin Nathalie.5 privacySomething George W. Bush brutally raped.Wow, George W. Bush really fucked everyones privacy with the Patriot Act.by Fuck W February 04, 2006 176 84 FlagGet the privacy neck gaiter and mug.6 PrivacyCode word for "masturbation space"Mom! leave me alone I need some privacy!by toadweilder January 12, 2019 14 4 FlagGet the Privacy neck gaiter and mug.Jun 21 trending
 
-*     1.  fhritp
-*     2.  I can't breathe
-*     3.  Ride or Die
-*     4.  uli
-*     5.  Mil
-*     6.  snowblow
-*     7.  Eating a Sandwich
-*     8.  benchod
-*     9.  Ruizing
-*   10.  biscuit head
-*   11.  Heelys
-*   12.  Tennessee Hot Pocket
-*   13.  mississippi hot pocket
-*   14.  Knuckle dunking
-*   15.  Castle Rock
-*   16.  mad doggin
-*   17.  coke bloat
-*   18.  carmen winsted
-*   19.  Mazeltov Cocktail
-*   20.  coalfax
-*   21.  determinism
-*   22.  snow blowing
-*   23.  ABN
-*   24.  ladybug
-*   25.  butt clinching
-*   26.  Budoo
-*   27.  baizuo
-*   28.  Mods
-*   29.  squat plug
-*   30.  Hobbling
+*     1.  DYWMTCEYOTYCAOMF
+*     2.  Drop gun
+*     3.  alaskan eskimo pie
+*     4.  megadeth
+*     5.  sundae
+*     6.  Kpop stan
+*     7.  tax fugitive
+*     8.  toothpaste
+*     9.  hospital
+*   10.  Eskimo Pie
+*   11.  The Abe Lincoln
+*   12.  Second Aid
+*   13.  Kung Flu
+*   14.  narcan
+*   15.  LFGM
+*   16.  Brady Szuhaj
+*   17.  dragging it
+*   18.  maggit
+*   19.  hung like a baboon
+*   20.  soss
+*   21.  Ring Rat
+*   22.  Caveman A Beer
+*   23.  Chivette
+*   24.  middle finger and thumb
+*   25.  Carpedonktum
+*   26.  Pizza Gate
+*   27.  Break you in
+*   28.  The Covid 19
+*   29.  Voodoo spaghetti
+*   30.  Fathers Day
 
 *   1
 *   2
