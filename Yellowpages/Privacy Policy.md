@@ -121,32 +121,16 @@ By using our resources, we make the world a better place. For example, data has 
 
 Your information helps us not only power your products and services, it helps us communicate service updates and offers. Data allows us to offer you our best products and services.
 
-×Looking for the old Privacy Policy?
+We've recently updated our privacy policy. Learn more here. _Button Icon_ See the old policy here. _Button Icon_ ×Looking for the old Privacy Policy?
 
 You can access our old PDF download here .
 
-× We've Updated Our Privacy Policy
+×We've Updated Our Privacy Policy On June 19th, we updated the section of our privacy policy on the California Consumer Privacy Act.  
+ 
 
-We are updating our Privacy Policy. Our new policy is clearer about how we collect, use, and protect your information, and it is consistent with evolving state privacy and disclosure laws. Learn more below.
-
-**FAQ** **What’s changed?**
-
-We haven’t changed our commitment to protecting your data. But individual states are now enacting laws that define “personal information” and the sale of information in new ways. So, we’ve updated some of our language, and we have made our new policy clearer about how we collect, use, and protect your information. You have the same range of choices to manage the use of your data.
-
-**Are you selling my personal information?**
-
-The Privacy Policy describes how we share your information. California may consider the following two ways that we share data to be a sale of personal information.
-
-1.  We provide limited data to companies that help create, deliver and measure advertisements. This can include information like your age range, gender and ZIP code, along with basic device information – but not your name or email. The data is attached to a numeric ID assigned to your device or household.
-2.  We sell limited data to help create aggregated reports such as television ratings – what people watch on TV in a city. Data is attached to a numeric ID assigned to your mobile device or set-top box – not your name or email.
-
-**Can I manage what gets shared or sold?**
-
-You can see options to manage your data here. We’ll keep your choices until you change them.
-
-**When is the new policy effective?**
-
-The section explaining your rights under the California Consumer Privacy Act is effective January 1, 2020. The full policy will be effective on March 16, 2020, however you can review the old policy that will be in effect until then.
+*   We added a description of how we verify your identity before processing your request to access or delete your data.
+*   We added information about sources of data we collect and with whom we may share it.
+*   We describe how you can designate an authorized agent to make your requests.
 
 Looking for the full Privacy Policy?
 
