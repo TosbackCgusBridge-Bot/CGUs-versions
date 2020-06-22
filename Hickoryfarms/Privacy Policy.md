@@ -7,16 +7,18 @@ close
     *   Sweet &. Savory Gifts
     *   Gift Boxes
     *   Gift Towers &. Crates
+    *   Candy Gift Baskets
     *   California Gift Baskets
     
-    Occasions*   Father's Day Gifts
+    Occasions*   Fourth of July
+    *   Summer Entertaining
     *   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
     *   Graduation Gifts
     *   Thinking of You
     *   Sympathy Gifts
-    *   Care PackagesMost Popular Father's Day Gifts Wine Gift Baskets
+    *   Care PackagesMost Popular Summer Entertaining Wine Gift Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Cheese Gifts
@@ -77,15 +79,16 @@ close
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Father's Day Gifts
+    View All Categories Shop by Category*   Fourth of July
     
-    Occasions*   Birthday Gifts
+    Occasions*   Summer Entertaining
+    *   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
     *   Graduation Gifts
     *   Thinking of You
     *   Sympathy Gifts
-    *   Care PackagesMost Popular Father's Day Gifts Gifts for All Occasions
+    *   Care PackagesMost Popular Fourth of July Gifts for All Occasions
 *   Business Gifts
     View All Categories Shop by Category*   Thank You Gifts
     *   Birthday Gifts
@@ -95,7 +98,7 @@ close
     *   Sympathy GiftsMost Popular Premium Wine Gifts
 *   Sale
 
-1.800.753.8558 Business Gifts Free Shipping on Select Gifts!\* Father’s Day is June 21st! Skip to content Menu 0 Sign In Search Catalog Catalog Navigation close
+1.800.753.8558 Business Gifts Skip to content Menu 0 Sign In Search Catalog Catalog Navigation close
 
 *   Gift Baskets
     
@@ -104,16 +107,18 @@ close
     *   Sweet &. Savory Gifts
     *   Gift Boxes
     *   Gift Towers &. Crates
+    *   Candy Gift Baskets
     *   California Gift Baskets
     
-    Occasions*   Father's Day Gifts
+    Occasions*   Fourth of July
+    *   Summer Entertaining
     *   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
     *   Graduation Gifts
     *   Thinking of You
     *   Sympathy Gifts
-    *   Care PackagesMost Popular Father's Day Gifts Wine Gift Baskets
+    *   Care PackagesMost Popular Summer Entertaining Wine Gift Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Cheese Gifts
@@ -174,15 +179,16 @@ close
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Father's Day Gifts
+    View All Categories Shop by Category*   Fourth of July
     
-    Occasions*   Birthday Gifts
+    Occasions*   Summer Entertaining
+    *   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
     *   Graduation Gifts
     *   Thinking of You
     *   Sympathy Gifts
-    *   Care PackagesMost Popular Father's Day Gifts Gifts for All Occasions
+    *   Care PackagesMost Popular Fourth of July Gifts for All Occasions
 *   Business Gifts
     View All Categories Shop by Category*   Thank You Gifts
     *   Birthday Gifts
