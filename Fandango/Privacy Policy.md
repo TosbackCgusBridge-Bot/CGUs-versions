@@ -14,14 +14,16 @@ A Message to Our Movie Fans Read More Gift Cards | Offers | Sign In Sign Out
     Coming Soon
     
     *   Unhinged (2020)
-    *   Tenet
     *   Mulan (2020)
+    *   Tenet
     *   The SpongeBob Movie: Sponge on the Run
-    *   Wonder Woman 1984
-    *   Antebellum
     *   Bill &. Ted Face the Music
+    *   Antebellum
     *   A Quiet Place Part II (2020)
+    *   Monster Hunter (2020)
+    *   The King's Man
     *   Candyman (2020)
+    *   Wonder Woman 1984
     *   See All Coming Soon
     
     Explore More
@@ -50,8 +52,8 @@ A Message to Our Movie Fans Read More Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   Check Out This Behind the Scenes Look at 'Bad Boys For Life' Read More
-    *   What to Watch on FandangoNOW: ‘The High Note,’ ‘Jaws’ in 4K Ultra HD and LGBTQ Movies for Pride Month Read More
-    *   Know Before You Watch: ‘Trolls World Tour’ Read More
+    *   What to Watch on FandangoNOW: ‘You Should Have Left,’ ‘Miss Juneteenth,’ the Best Movie Dads and More Read More
+    *   Your Most Anticipated DC Movies To Make a Big Splash at First-Ever DC FanDome Event Read More
     
     Explore Content
     *   Movie Reviews
@@ -561,4 +563,14 @@ Fandango Affiliated Companies:
 *   Fandango Latin America
 *   Ingresso
 
-© 2020 Fandango
+© 2020 Fandango Close Welcome Back to Movie Theaters
+
+Fandango helps you go back to the movies with confidence and peace of mind.
+
+*   **Find Open Theaters Near You**
+*   **Check Theater Safety Policies**
+*   **Contactless Ticket Purchase**
+*   **Contactless Ticket Entry**
+*   **Worry-free Refunds &. Exchanges**
+
+see theaters near you GOT IT
