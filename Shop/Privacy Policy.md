@@ -6,7 +6,7 @@ Lenovo Explore Close
         
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
-        *   Low monthly payments
+        *   Financing as low as 0%
         *   Price Match Guaranteed
         
         *   Explore Laptops
@@ -30,7 +30,7 @@ Lenovo Explore Close
         *   X1 Extreme Gen 2
         *   Yoga C940
         *   Legion 5
-        *   IdeaPad 3
+        *   IdeaPad S940
         *   Lenovo New Products
         
         Sale
@@ -41,14 +41,13 @@ Lenovo Explore Close
         
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
-        *   Low monthly payments
+        *   Financing as low as 0%
         *   Price Match Guaranteed
         
         *   Explore Desktops
         *   Small Business Desktops
         *   Gaming Desktops
         *   Tiny Desktops
-        *   Workstations
         *   View All Desktops
         *   Filter Desktops by Specs
         
@@ -56,12 +55,12 @@ Lenovo Explore Close
         *   ThinkCentre
         *   IdeaCentre
         *   Legion
-        *   ThinkStation
+        *   ThinkStation Workstations
         
         *   Best Selling Desktops
         *   M720 Tiny
         *   A340 24 inch AIO
-        *   M630e Tiny
+        *   A540 27 inch AIO
         *   M720e SFF
         *   M920 SFF
         *   Desktop Deals
@@ -74,7 +73,7 @@ Lenovo Explore Close
         
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
-        *   Low monthly payments
+        *   Financing as low as 0%
         *   Price Match Guaranteed
         
         *   Explore Workstations
@@ -103,7 +102,7 @@ Lenovo Explore Close
         
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
-        *   Low monthly payments
+        *   Financing as low as 0%
         *   Price Match Guaranteed
         
         *   Explore Tablets
@@ -119,19 +118,19 @@ Lenovo Explore Close
         *   For a Gift
         *   Best Bargain
         
-        Tab M10 (FHD) Plus
-        
-        The best selling family entertainment tablet
-        
         Sale
         
         Find the perfect tablet or smart device for you and the whole family. Enjoy weekly discounts today!
+        
+        Yoga Smart Tab
+        
+        Premium 2-in-1 Tablet Exclusive to Lenovo.com
         
     *   Accessories &. Software
         
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
-        *   Low monthly payments
+        *   Financing as low as 0%
         *   Price Match Guaranteed
         
         *   Explore Accessories
@@ -169,7 +168,7 @@ Lenovo Explore Close
         
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
-        *   Low monthly payments
+        *   Financing as low as 0%
         *   Price Match Guaranteed
         
         *   Explore Monitors
@@ -192,15 +191,13 @@ Lenovo Explore Close
         *   Monitor Accessories
         *   Monitor FAQ
         
-        Sale
-        
-        Shop weekly deals &. complete your work from home, gaming, or school setup today!
-        
+        *   New Monitors
+        *   Shop all new monitors
     *   Gaming
         
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
-        *   Low monthly payments
+        *   Financing as low as 0%
         *   Price Match Guaranteed
         
         *   Explore Gaming
@@ -233,7 +230,7 @@ Lenovo Explore Close
         
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
-        *   Low monthly payments
+        *   Financing as low as 0%
         *   Price Match Guaranteed
         
         *   Business Solutions
@@ -257,8 +254,8 @@ Lenovo Explore Close
         *   Small Business Accessories
         *   Business Bundles
         *   Logitech Accessories
-        *   Server Deals
         *   ThinkBook
+        *   Server Deals
         
         JOIN FOR FREE
         
@@ -268,7 +265,7 @@ Lenovo Explore Close
         
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
-        *   Low monthly payments
+        *   Financing as low as 0%
         *   Price Match Guaranteed
         
         *   Customer Support
@@ -299,10 +296,10 @@ Lenovo Explore Close
         
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
-        *   Low monthly payments
+        *   Financing as low as 0%
         *   Price Match Guaranteed
         
-        *   Weekly PC &. Workstation Deals
+        *   Weekly PC Deals
         *   ThinkPad Deals
         *   Home Laptop Deals
         *   2 in 1 Laptop Deals
@@ -461,6 +458,11 @@ Lenovo Explore Close
     *   Smart Devices
     *   Smart Home
         
+        *   Always Free Shipping
+        *   Earn 3% rewards on all purchases
+        *   Price Match Guaranteed
+        *   Easy Returns
+        
         *   Explore Smart Home
         *   Lenovo Smart Clock
         *   Lenovo Smart Display
@@ -478,20 +480,18 @@ Lenovo Explore Close
         
         Explore Smart Home Deals and More!
         
-        *   Always Free Shipping
-        *   Easy Returns
-        *   Low monthly payments
     *   Smart Office
+        
+        *   Always Free Shipping
+        *   Earn 3% rewards on all purchases
+        *   Price Match Guaranteed
+        *   Easy Returns
         
         *   Corporate Office
         *   ThinkSmart Series
         *   ThinkSmart Hub 500
         *   ThinkSmart Manager
         *   ThinkSmart View
-        
-        *   Always Free Shipping
-        *   Easy Returns
-        *   Low monthly payments
         
         ThinkSmart Hub
         
@@ -507,15 +507,16 @@ Lenovo Explore Close
         
     *   AR/VR
         
+        *   Always Free Shipping
+        *   Earn 3% rewards on all purchases
+        *   Price Match Guaranteed
+        *   Easy Returns
+        
         *   Explore AR/VR
         *   Marvel: Dimension of Heroes
         *   Star Wars: Jedi Challenges
         *   Oculus Rift S
         *   Mirage Headset &. Mirage Camera
-        
-        *   Always Free Shipping
-        *   Easy Returns
-        *   Low monthly payments
         
         Marvel: Dimension of Heroes
         
@@ -530,6 +531,11 @@ Lenovo Explore Close
         Blast, slash and soar your way through our incredible VR gaming library.
         
     *   Support
+        
+        *   Always Free Shipping
+        *   Earn 3% rewards on all purchases
+        *   Price Match Guaranteed
+        *   Easy Returns
         
         *   Customer Support
         *   Help Placing Order
@@ -549,10 +555,6 @@ Lenovo Explore Close
         *   PC Technical Support
         *   Premier Support
         *   Warranty Lookup
-        
-        *   Always Free Shipping
-        *   Easy Returns
-        *   Low monthly payments
         
         Smart Device Support
         
@@ -634,7 +636,7 @@ Lenovo Explore Close
 *   Contact
     *   HELP PLACING AN ORDER ${contactNumber}
     *   BUSINESS ORDER HELP 866-426-0911
-    *   EXISTING ORDER HELP 855-253-6686 option #1
+    *   EXISTING ORDER HELP 855-253-6686 option #3
     *   FAQs &. HOURS >.
     *   CHAT NOW >.
 *   Account
@@ -658,26 +660,12 @@ Lenovo Explore Close
     *   Product registration
 *   Cart
 *   LenovoPro
-    *   Sign In To LenovoPro
-    *   Learn more
-*   Contact Us
-    *   HELP PLACING AN ORDER ${contactNumber}
-    *   BUSINESS ORDER HELP 866-426-0911
-    *   EXISTING ORDER HELP 855-253-6686 option #1
-    *   FAQs &. HOURS >.
-    *   24/7 CHAT NOW >.
-*   Account
-    *   My Account
-    *   Orders
-    *   Product registration
-*   Cart
-*   LenovoPro
-    *   Sign In To LenovoPro
+    *   Sign In To LenovoPRO
     *   Learn more
 *   Contact
-    *   HELP PLACING AN ORDER 855-253-6686
+    *   HELP PLACING AN ORDER ${contactNumber}
     *   BUSINESS ORDER HELP 866-426-0911
-    *   EXISTING ORDER HELP 855-253-6686 option #1
+    *   EXISTING ORDER HELP 855-253-6686 option #3
     *   FAQs &. HOURS >.
     *   CHAT NOW >.
 *   Account
@@ -688,21 +676,35 @@ Lenovo Explore Close
     *   Logout
 *   Cart
 *   LenovoPro
-    *   Sign In To LenovoPro
+    *   Sign In To LenovoPRO
     *   Learn more
 *   Contact
-    *   HELP PLACING AN ORDER 866-426-0911
-    *   EXISTING ORDER HELP 855-253-6686 option #1
+    *   HELP PLACING AN ORDER ${contactNumber}
     *   BUSINESS ORDER HELP 866-426-0911
+    *   EXISTING ORDER HELP 855-253-6686 option #3
     *   FAQs &. HOURS >.
-    *   24/7 CHAT NOW >.
+    *   CHAT NOW >.
 *   Account
     *   Sign In
-    *   My Account
     *   My Account
     *   Orders
     *   Product registration
     *   Logout
+*   Cart
+*   LenovoPro
+    *   Sign In To LenovoPRO
+    *   Learn more
+*   Contact
+    *   HELP PLACING AN ORDER ${contactNumber}
+    *   BUSINESS ORDER HELP 866-426-0911
+    *   EXISTING ORDER HELP 855-253-6686 option #3
+    *   FAQs &. HOURS >.
+    *   CHAT NOW >.
+*   Account
+    *   Sign In
+    *   My Account
+    *   Orders
+    *   Product registration
     *   Logout
 *   Cart
 
@@ -1150,7 +1152,7 @@ STAY CONNECTED Wrong Input × FacebookInstragramYouTubeTwitterFlickrForums Selec
 *   Lenovo Cares
 *   Careers
 
-PRODUCTS &. SERVICE
+PRODUCTS &. SERVICES
 
 *   Laptops &. Ultrabooks
 *   Desktop Computers
@@ -1163,6 +1165,7 @@ PRODUCTS &. SERVICE
 *   Outlet
 *   Deals
 *   Cloud Security Software
+*   Windows 10 Computers
 
 SHOP BY INDUSTRY
 
@@ -1191,7 +1194,7 @@ RESOURCES
 *   Affinity Program
 *   Laptop Buying Guide
 *   Where to Buy
-*   Memorial Day Catalog
+*   Black Friday Catalog
 
 CUSTOMER SUPPORT
 
