@@ -1,10 +1,14 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content \* Due to circumstances outside of our control you could potentially see impacts to deliveries. \* Thrive in the sun with styles made for summer. shop new arrivals Buckle has begun to open our stores. Find Your Store for up-to-date information. EXCLUSIVE styles that will keep you living your best styled life. Save on our Gimmicks Collection
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content \* Due to circumstances outside of our control you could potentially see impacts to deliveries. \* Ready to wear in-season markdowns at up to 75% off. shop now Buckle has begun to open our stores. Find Your Store for up-to-date information.
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-\* Due to circumstances outside of our control you could potentially see impacts to deliveries. \*
+*   Buckle has begun to open our stores. Find Your Store for up-to-date information.
+*   \* Due to circumstances outside of our control you could potentially see impacts to deliveries. \*
+*   Ready to wear in-season markdowns at up to 75% off. shop now
+*   Buckle has begun to open our stores. Find Your Store for up-to-date information.
+*   \* Due to circumstances outside of our control you could potentially see impacts to deliveries. \*
 
 *   Women
 *   Men
@@ -581,6 +585,4 @@ Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.  
-I am over the age of 13  
-View Privacy Policy
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.
