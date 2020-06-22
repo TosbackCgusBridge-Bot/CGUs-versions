@@ -2,6 +2,7 @@ Skip to navigation Skip to main content Subscribe Menu Close
 
 *   News
     *   COVID-19 Coverage
+    *   InfoSec World 2020
 *   Reviews
     *   Licensing &. Product Reviews
     *   About Product Reviews
@@ -21,6 +22,7 @@ Skip to navigation Skip to main content Subscribe Menu Close
     *   Webcasts
     *   Virtual Conferences
     *   Security Leadership Exchange
+    *   RiskSec
 *   Resource Library
 *   SC Security Ops Center
     *   SC Podcasts
@@ -250,23 +252,23 @@ Q&A: Developing an asset management strategy
     *   Emailed
     *   Recent
     
-    *   Trump EO takes aim at social media firms. seeks to remove Section 230 protections
-    *   Turla's ComRAT v4 uses Gmail web UI to receive commands, steal data
-    *   Multilingual malware attacks on industrial sector suppliers designed to thwart detection
-    *   Arbonne breach of 3,500+ Calif. residents’ PII could test privacy law
-    *   States' lack of DMARC adoption ups risk of Covid-19 email spoofing scams
+    *   Amazon puts one-year moratorium on selling face recognition tech to law enforcement
+    *   Ransomware attack compromises Australian beer supply
+    *   'Anonymous' claims credit for taking down Atlanta PD website
+    *   Derailing Ransomware 2.0 Requires EPPs, EDRs and Advanced Deception Tools
+    *   NetWalker claims credit for attack on Crozer-Keystone Health System
     
-    *   'Sandworm Team' hackers from Russia are exploiting Exim, warns NSA
-    *   Malware in GitHub-hosted projects designed to spread among open-source developers
-    *   House pulls vote on FISA bill
-    *   Attack targeted database credentials on 1.3 million WordPress sites
-    *   Six Cisco servers compromised when hackers exploited SaltStack Salt flaws
+    *   Digital disruption grows attack surface, Edelman Financial Engines' Conlon says
+    *   Amazon puts one-year moratorium on selling face recognition tech to law enforcement
+    *   Aflac's Tim Callahan presses hard line on managing third-party risk
+    *   Russian hacker releases at least 14,000 Mexican taxpayer IDs
+    *   Ransomware attack compromises Australian beer supply
     
-    *   High-severity bugs patched in Chrome, Firefox browsers
-    *   Phishing campaign targets remote workers with fake voicemail notifications
-    *   Cisco security advisories address 47 flaws, three critical
-    *   Achieving an audacious goal by treating cybersecurity like a science
-    *   UCSF, Conduent are latest to suffer the slings and arrows of ransomware
+    *   NetWalker claims credit for attack on Crozer-Keystone Health System
+    *   Report: Lazarus Group has large-scale Covid-19 phishing campaign in the works
+    *   Amnesty Int'l: Norway, Bahrain &. Kuwait Covid-19 apps threaten privacy
+    *   Digital disruption grows attack surface, Edelman Financial Engines' Conlon says
+    *   Malicious Google extensions research points out ‘unintended consequence’ of cloud computing
 
 Back to Top
 
@@ -299,8 +301,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
 
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+You can skip this ad in 2 seconds.
