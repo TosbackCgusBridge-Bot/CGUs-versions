@@ -88,7 +88,7 @@ Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-10%  2% 
+12%  2% 
 
 Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -118,7 +118,7 @@ Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-10%  Arrest Records &. Driving Infractions
+12%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -161,45 +161,55 @@ Contact Information &. Address History
 
 Facebook 2% 
 
+*   Prıvacy PoIicy (emha wollen paradies) - Pr&.
+    
+    Sabbang, Sulawesi Selatan, Indonesia  
+    
 *   Prıvacy PoIicy - indah.ndotii
     
     Works at "gprs(gas poll rem sikit)"  
     
+*   Prıvacy PoIicy - sara.parada.56
+    
+    Belas-Artes ULisboa  
+    
+*   Prıvacy PoIicy - anjelika.stphnia26
+    
+    smkn 1 batam at ⎝⏠⏝⏠ ⎠ Tukang like dan coment di status orang ⎝⏠⏝⏠ ⎠  
+    
+*   Show More ...
+
 *   Prıvacy PoIicy - jhoko.ankerssemangga
     
     Coach at PERGURUAN KUNGFU IKS.PI "KERA SAKTI"  
-    
-*   Prıvacy Polıcy - vinh.nguyenthe.547
-    
-    Hanoi University  
     
 *   Prıvacy PoIicy - yusuf.ryl
     
     Batam, Riau, Indonesia  
     
-*   Show More ...
-
+*   Prıvacy Polıcy - vinh.nguyenthe.547
+    
+    Hanoi University  
+    
 *   Prıvacy PoIicy - neng.siti.549
     
     SMAN 1 Cikalong Wetan  
     
-*   Polıcy Prıvacy - chen.peter.98
+*   Polıcy Prıvacy - Pol&.
     
 *   Prıvacy PoIicy - Pr&.
     
-*   Polıcy Prıvacy - Pol&.
-    
-*   Pricy Pricy - pricy.pricy.1426
+*   Prıvacy PoIicy - nonikcahyant354
     
 *   Prıvacy Polıcy - wailun.chan.31392
     
-*   Prıvacy PoIicy - nonikcahyant354
-    
-*   Polıcy Prıvacy - Pol&.
+*   Pricy Pricy - pricy.pricy.1426
     
 *   Prıvacy PoIicy - laula.aprilia.9
     
 *   Prıvacy PoIicy - hazri.hazri.5011
+    
+*   Polıcy Prıvacy - Pol&.
     
 *   Show Less ...
 
@@ -319,7 +329,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Social Profiles 10%  Pinterest 2% 
+Social Profiles 12%  Pinterest 2% 
 
 *   Privacy policy - maaenterprise033
     
@@ -360,7 +370,7 @@ Wikipedia 2% 
     
 *   Show Less ...
 
-Music 10%  Photo Albums 2% 
+Music 12%  Photo Albums 2% 
 
 *   Help
     
@@ -408,15 +418,15 @@ Music 10%  Photo Albums 2% 
     
 *   Show Less ...
 
-Web Search 10%  Images 2% 
+Web Search 12%  Images 2% 
 
-14
+16
 
 20
 
 19
 
-5
+4
 
 facebookx
 
