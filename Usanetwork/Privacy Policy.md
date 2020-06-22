@@ -3,7 +3,7 @@ Please Rotate Your Device 90 For the best experience, turn your mobile device po
 *   Privacy Policy
 *   Cookie Notice
 
-Last Updated: December 16, 2019
+Last Updated: June 15, 2020
 
 *   English
 *   Ceština
@@ -337,9 +337,9 @@ Some NBCUniversal Services can only be provided if we have your information, the
 
 We will take reasonable steps to verify your identity, including authenticating you through the email address. We may require further documentation such as a password and user ID before granting access to your information.
 
-California residents with rights under the CCPA, or their authorized agents, may click here for access or deletion requests or may call 1-800-447-0663.  
+California residents with rights under the CCPA,  may click here and their authorized agents may click here for access or deletion requests or may call 1-800-447-0663.
 
-U.S. residents who wish to learn more about access or deletion requests may click here
+U.S. residents who wish to learn more about access or deletion requests may click here.
 
 If you are based outside the U.S. and would like to exercise any individual right you may have please contact us at privacy@nbcuni.com.  Please include “My Rights” in the subject line and provide a clear explanation of which right you are exercising and your country of residence in the body of the email.
 
