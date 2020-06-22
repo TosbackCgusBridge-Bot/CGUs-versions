@@ -21,7 +21,6 @@ Thomson Reuters LEGAL
     
     *   Westlaw
     *   Practical Law
-    *   Panoramic
     *   CLEAR
     *   Law books
     *   All products
@@ -67,7 +66,7 @@ Thomson Reuters LEGAL
 
 Legal research
 
-**Practitioner** Insights  
+**Practitioner Insights**  
 Start your day with up-to-the-minute legal developments in your practice area  
 Free trial Overview
 
@@ -153,7 +152,6 @@ Free trial Search
 *   Legal products
     *   Westlaw
     *   Practical Law
-    *   Panoramic
     *   CLEAR
     *   Law Books
     *   See all products
