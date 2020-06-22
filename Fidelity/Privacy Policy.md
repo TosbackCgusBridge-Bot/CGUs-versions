@@ -22,8 +22,8 @@ Search fidelity.com or get a quote
     *   Trade Log In Required
     *   Trade
     *   Active Trader Pro
-    *   Transfer Log In Required
-    *   Transfer
+    *   Money Movement Log In Required
+    *   Money Movement
     *   Cash Management Log In Required
     *   Cash Management
     *   BillPay Log In Required
@@ -37,7 +37,7 @@ Search fidelity.com or get a quote
     *   Statements Log In Required
     *   Statements
     *   Tax Forms &. Information
-    *   Retirement Distributions Log In Required
+    *   Retirement DistributionsLog In Required
     *   Fidelity Rewards+Log In Required
 *   Planning &. Advice
     *   What We Offer
@@ -86,6 +86,8 @@ Search fidelity.com or get a quote
     *   Straightforward Pricing
     *   Insights &. Tools
     *   Security &. Protection
+    *   About Fidelity
+    *   Careers
 
 *   Customer Service
 *   Profile
@@ -348,5 +350,6 @@ Copyright 1998-2020 FMR LLC. All Rights Reserved.
 *   Accessibility
 *   Contact Us
 *   Share Your Screen
+*   Disclosures
 
 This is for persons in the U.S. only.
