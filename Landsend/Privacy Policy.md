@@ -30,7 +30,7 @@ Lands' End Sign In menu
 
 Receive up to 60% off your order!
 
-code: EXPLORE pin: PROMOTION DETAILS
+code: BLUE pin: PROMOTION DETAILS
 
 Customer Service Menu
 
