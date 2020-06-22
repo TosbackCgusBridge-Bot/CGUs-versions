@@ -1,5 +1,1 @@
-Loading...
-
-**Page is taking longer to load than expected.**
-
-Online Privacy Policy Print Privacy Policy
+301 Moved Permanently nginx
