@@ -93,9 +93,9 @@ Please take some time to familiarize yourself with the different ways we use the
         
     2.  To generate statistical studies;
         
-    3.  To build browsing and usage profiles of our users so that we may tailor our offers, and share such profiles with our advertisers and data customers, so that they may tailor their offers to our users’ interests (and we obtain consent when required to create and use these profiles – please click here for more information);
+    3.  \*To build browsing and usage profiles of our users so that we may tailor our offers, and share such profiles with our advertisers and data customers, so that they may tailor their offers to our users’ interests (and we obtain consent when required to create and use these profiles – please click here for more information);
         
-    4.  To conduct market research and planning by sending user surveys (with your consent where required – please click here for more information);
+    4.  \*To conduct market research and planning by sending user surveys (with your consent where required – please click here for more information);
         
     5.  To improve services, information, and products;
         
@@ -103,7 +103,7 @@ Please take some time to familiarize yourself with the different ways we use the
         
     7.  To communicate with users and with recipients of our products and Services to provide users with information (by electronic means or otherwise) about other services we offer that are similar to those that a user has already received or enquired about;
         
-    8.  Where we have a user’s consent to email users about services, information, products and offers from our business partners (and as set forth in the Section  How we share information we gather);
+    8.  \*Where we have a user’s consent to email users about services, information, products and offers from our business partners (and as set forth in the Section  How we share information we gather);
         
     9.  To personalize a Site for the user;
         
@@ -136,7 +136,7 @@ We may share your Personal Information in the following ways:
 
 1.  We may share your Personal Information with third party service providers to help us with our business activities such as email marketing, telemarketing, offering customer service, or operating a community forum. We include provisions within our contract with these companies to ensure that they: (i) use your Personal Information only as necessary to provide these services to us. and (ii) establish safeguards to protect the confidentiality of the information that we provide them.
     
-2.  We may also share your Personal Information with our advertisers, vendors, and customers, including data profiling companies, business-to-business lead buyers, and data aggregation companies that track user behavior. We include provisions within our contract with these companies to ensure that they: (i) use your Personal Information only as permitted by applicable law. and (ii) establish safeguards to protect the confidentiality of the information that we provide them. Please see Additional EEA Rights, which describes the right of users in the European Economic Area to object to the use of your Personal Information for profiling.
+2.  \*We may also share your Personal Information with our advertisers, vendors, and customers, including data profiling companies, business-to-business lead buyers, and data aggregation companies that track user behavior. We include provisions within our contract with these companies to ensure that they: (i) use your Personal Information only as permitted by applicable law. and (ii) establish safeguards to protect the confidentiality of the information that we provide them. Please see Additional EEA Rights, which describes the right of users in the European Economic Area to object to the use of your Personal Information for profiling.
     
 3.  We may share with unrelated third parties Aggregate Information compiled from information collected from users of the Sites, without prior notice to you, for any reason in our sole discretion. Aggregate Information is used in a collective manner and no single person can be identified by such compiled information.
     
