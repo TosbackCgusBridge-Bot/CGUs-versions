@@ -210,7 +210,7 @@ Pursuant to 17 U.S.C. § 512 as amended by Title II of the Digital Millennium Co
 If you believe that your copyright has been infringed through the use of a NetZero account or the NetZero Services, please contact NetZero's Copyright Agent in writing at:  
   
 Copyright Agent:  
-Jeanne Berges, Esq. - NetZero, Inc.  
+Compliance Dept., NetZero Inc.  
 21255 Burbank Boulevard, Suite 400  
 Woodland Hills, CA 91367  
 Fax: (818) 287-3010  
