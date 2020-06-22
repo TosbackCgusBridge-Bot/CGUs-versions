@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
-*   Fabrica – Your self-hosted snap factory
-*   OSM#9 Hackfest: the highlights
-*   The State of Robotics – May 2020
+*   Making the MAAS machine list fast with React
+*   Getting started with CUDA on Ubuntu on WSL 2
+*   ROS 2 Foxy Fitzroy and its Enhanced Security Monitoring
