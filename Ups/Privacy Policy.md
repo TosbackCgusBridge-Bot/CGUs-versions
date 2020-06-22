@@ -1,117 +1,96 @@
-Previous1/2Next
+Previous1 of 3Next
 
 *   UPS is open for business: Service impacts related to Coronavirus...More
-*   Protests across the U.S....More
+*   Commit times for Air and international Air services have been extended in areas of the Northeastern U.S....More
+*   Demonstrations across the U.S....More
 *   UPS is open for business: Service impacts related to Coronavirus...More
-*   Protests across the U.S....More
+*   Commit times for Air and international Air services have been extended in areas of the Northeastern U.S....More
+*   Demonstrations across the U.S....More
 *   UPS is open for business: Service impacts related to Coronavirus...More
 
 Close Skip To Main Content
 
-*   Log In
-*   Sign Up
-*   Locations
-*   United States - English
-    *   Estados Unidos - Español
-    *   United States - EnglishSelect Another Country or Territory
-*   My Profile
-    
-    *   Sign Up
-    *   Log In
-    
-    *   Profile Overview
-    *   My Information
-    *   Addresses
-    *   Payment Options
-    *   Preferences
-    *   View &. Pay Bill
+*   Sign up / Log in
+*   Search or Track
+*   MenuClose
 
-Search GoQuick Start Hello. Get Started with UPS.
+Search or TrackGoClosex
 
-*   Track Tracking Numbers Go
-*   Ship Close
-*   Find a Service Close
-*   Quote Close
-*   Locations Close
-*   View &. Pay Bill Close
+*   *   Locations
+    *   United States - English
+        *   Estados Unidos - Español
+        *   United States - EnglishSelect Another Country or Territory
+    *   Sign up / Log in
+    *   Search or TrackSearch or TrackSearch or TrackSearch or Track Go Close
+*   Quick Start Hello. Get Started with UPS.
+    
+    *   Track Tracking Numbers Go
+    *   Ship Close
+    *   Find a Service Close
+    *   Quote Close
+    *   Locations Close
+    *   View &. Pay Bill Close
+    
+    *   Tracking Track Shipments
+        
+        *   Track &. Track History
+        *   Change Delivery
+        *   Manage Inbound/Outbound Shipments:  
+            _Quantum View_
+        *   Explore All Tracking
+        
+        UPS My Choice
+        *   Manage Home Deliveries:  
+            _UPS My Choice for home_
+        *   Manage Business Shipments:  
+            _UPS My Choice for business_
+    *   Shipping New Shipments
+        
+        *   Create a Shipment:  
+            _Package &. Freight_
+        *   Find a Shipping Service
+        *   Calculate Time &. Cost
+        *   Schedule a Pickup
+        *   Manage Online Orders:  
+            _Marketplace Shipping_
+        *   Create a Return
+        *   Explore All Shipping
+        
+        Existing Shipments
+        
+        *   View Shipping History
+        *   Void Shipment
+        
+        More Shipping Options
+        *   Batch File Shipping
+        *   Create Import:  
+            _UPS Import Control_
+        *   International Toolset:  
+            _UPS TradeAbility_
+        *   Order Supplies
+    *   Services By Type
+        
+        *   Shipping Services
+        *   Shipping Tools
+        *   Tracking Services
+        *   Billing
+        *   International Shipping
+        *   Contract Logistics
+        *   Integrating UPS Technology
+        *   Explore All Services
+        
+        By Size
+        
+        *   Individual Shipper
+        *   Small Business
+        
+        Knowledge Center
+        *   Optimizing Operations
+        *   Most Recent Articles
+        *   Expanding Globally
+*   Customer Support
 
-SearchMenu Close
-
-*   Tracking Tracking Track Shipments
-    
-    *   Track &. Track History
-    *   Change Delivery
-    *   Manage Inbound/Outbound Shipments:  
-        _Quantum View_
-    
-    UPS My Choice
-    *   Manage Home Deliveries:  
-        _UPS My Choice for home_
-    *   Manage Business Shipments:  
-        _UPS My Choice for business_Explore All Tracking
-*   Shipping Shipping New Shipments
-    
-    *   Create a Shipment:  
-        _Package &. Freight_
-    *   Find a Shipping Service
-    *   Calculate Time &. Cost
-    *   Schedule a Pickup
-    *   Manage Online Orders:  
-        _Marketplace Shipping_
-    *   Create a Return
-    
-    Existing Shipments
-    
-    *   View Shipping History
-    *   Void Shipment
-    
-    More Shipping Options
-    
-    *   Batch File Shipping
-    *   Create Import:  
-        _UPS Import Control_
-    *   International Toolset:  
-        _UPS TradeAbility_
-    *   Order Supplies
-    
-    Explore All Shipping Shipping tools for every business.
-    
-    Choose from a variety of flexible and efficient shipping tools to best fit your business.
-    
-    Shipping Made Simple
-    
-*   Services Services By Type
-    
-    *   Shipping Services
-    *   Shipping Tools
-    *   Tracking
-    *   Billing
-    *   International Shipping
-    *   Contract Logistics
-    *   Integrating UPS Technology
-    
-    By Size
-    
-    *   Individual Shipper
-    *   Small Business
-    
-    By Industry
-    
-    *   **See All**
-    
-    Explore All Services Knowledge Center Knowledge Center
-    *   Optimizing Operations
-    *   Expanding GloballyExplore All Articles
-
-Customer Service Customer Service Need help now?
-
-Ask Our Virtual Assistant
-
-*   Help and Support Center
-*   Get Started with UPS
-*   Change Delivery
-
-SearchGo Page Not Found
+Page Not Found
 
 The ups.com page you requested cannot be found. It may have been moved or deleted.
 
