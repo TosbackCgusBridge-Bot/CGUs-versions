@@ -36,7 +36,7 @@ Instant Notifications
 
 You'll receive push notifications when your resume is viewed, or when new jobs appear in your most recent search. Making it easy for you to jump right back into your job search.
 
-see how you can up your career status Career Development &. Learning Companies that are hiring and in these locations (June 3) Read Article The job search tools you need to land your next role Read Article Companies hiring now - plus available jobs in high-demand industries Read Article Read More Articles Employers Looking to Post a Job?
+see how you can up your career status Career Development &. Learning Companies hiring this week: June 15 Read Article Jobs came back in May – and this is where they are Read Article CareerBuilder CEO shares how companies can improve diversity Read Article Read More Articles Employers Looking to Post a Job?
 
 We have end-to-end solutions that can keep up with you and your standards.
 
