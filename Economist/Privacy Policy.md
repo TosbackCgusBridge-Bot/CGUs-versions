@@ -15,14 +15,13 @@
         
         *   Ideas People Media
         
-        *   TVC
-        
         *   Signal Noise
         
     *   Our history
     *   Executive team
 
-*   *   Annual and interim reports
+*   *   AGM 2020
+    *   Annual and interim reports
     *   Results at a glance
     *   Financial calendar
     *   Corporate structure
@@ -47,7 +46,8 @@
 
 The Economist Newspaper privacy statement
 
-*   *   Annual and interim reports
+*   *   AGM 2020
+    *   Annual and interim reports
     *   Results at a glance
     *   Financial calendar
     *   Corporate structure
