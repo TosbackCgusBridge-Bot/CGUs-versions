@@ -12,31 +12,31 @@ games videos New Games Next in  00:00
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1411 games
-*   Most Popular Games 21156 games
+*   Best of new games 1409 games
+*   Most Popular Games 21162 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,145 games
-*   Driving &. Racing 6,398 games
+*   For Girls 24,144 games
+*   Driving &. Racing 6,400 games
 *   Strategy &. RPG 3,626 games
 *   Management &. Sim 4,280 games
-*   Thinking 12,726 games
-*   Action &. Adventure 14,680 games
-*   Sports 3,330 games
+*   Thinking 12,729 games
+*   Action &. Adventure 14,684 games
+*   Sports 3,331 games
 *   Shooting 9,109 games
 *   Fighting 2,078 games
-*   Skill 11,318 games
-*   Arcade &. Classic 9,438 games
-*   Fun &. Crazy 4,979 games
+*   Skill 11,322 games
+*   Arcade &. Classic 9,443 games
+*   Fun &. Crazy 4,980 games
 
 Play with friends  
-Powered by Y8 Account 143 Y8 Multiplayer Games 2,225 Y8 High Score Games 1,265 Y8 Achievements Games 897 Y8 Screenshots Games 1,711 Y8 Online Save Games 3,401 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 143 Y8 Multiplayer Games 2,226 Y8 High Score Games 1,265 Y8 Achievements Games 897 Y8 Screenshots Games 1,712 Y8 Online Save Games 3,401 All Y8 Games Games Last Highscore:
 
-**7,950** points on Y8 Football League by abdelillah
+**769** points on Epic Clicker Saga Of Middle Earth by Sawasdee
 
 Help us improve Bad translation? Social
 
