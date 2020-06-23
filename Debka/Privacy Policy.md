@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Monday, June 22, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Tuesday, June 23, 2020  
 
 DEBKAfile
 
@@ -44,6 +44,14 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   UK faces growing threat of lone actor terror
+    
+    Jun 22, 2020 @ 19:28
+    
+*   Fines doubled for not wearing face masks
+    
+    Jun 22, 2020 @ 18:56
+    
 *   Trump fails to prevent publication of Bolton book
     
     Jun 21, 2020 @ 19:28
@@ -59,16 +67,16 @@ Breaking news
 *   Rampaging knifeman kills three in Reading park near London|
     
     Jun 21, 2020 @ 09:11
-    
-*   Missing soldier’s body found near his base
-    
-    Jun 20, 2020 @ 21:40
-    
-*   Australia under massive cyber attack
-    
-    Jun 19, 2020 @ 09:49
     
 
+*   Trump fails to prevent publication of Bolton book
+    
+    Jun 21, 2020 @ 19:28
+    
+*   Hospital coronavirus wards reopen
+    
+    Jun 21, 2020 @ 12:51
+    
 *   Netanyahu: Lockdowns to return unless public starts behaving
     
     Jun 21, 2020 @ 12:48
@@ -77,13 +85,13 @@ Breaking news
     
     Jun 21, 2020 @ 09:11
     
-*   Missing soldier’s body found near his base
+*   UK faces growing threat of lone actor terror
     
-    Jun 20, 2020 @ 21:40
+    Jun 22, 2020 @ 19:28
     
-*   Australia under massive cyber attack
+*   Fines doubled for not wearing face masks
     
-    Jun 19, 2020 @ 09:49
+    Jun 22, 2020 @ 18:56
     
 *   Trump fails to prevent publication of Bolton book
     
@@ -101,13 +109,13 @@ Breaking news
     
     Jun 21, 2020 @ 09:11
     
-*   Missing soldier’s body found near his base
+*   UK faces growing threat of lone actor terror
     
-    Jun 20, 2020 @ 21:40
+    Jun 22, 2020 @ 19:28
     
-*   Australia under massive cyber attack
+*   Fines doubled for not wearing face masks
     
-    Jun 19, 2020 @ 09:49
+    Jun 22, 2020 @ 18:56
     
 *   Trump fails to prevent publication of Bolton book
     
@@ -116,14 +124,6 @@ Breaking news
 *   Hospital coronavirus wards reopen
     
     Jun 21, 2020 @ 12:51
-    
-*   Netanyahu: Lockdowns to return unless public starts behaving
-    
-    Jun 21, 2020 @ 12:48
-    
-*   Rampaging knifeman kills three in Reading park near London|
-    
-    Jun 21, 2020 @ 09:11
     
 
 12PrevNext
