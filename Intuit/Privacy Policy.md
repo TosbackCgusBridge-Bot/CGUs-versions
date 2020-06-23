@@ -8,7 +8,7 @@ Enable Accessibility
 *   StoresAurora MallMore Stores14200 E Alameda Ave, Aurora, CO, 80012303-344-9901 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   Deals &. Trending
 *   Home &. Lifestyle
@@ -26,27 +26,27 @@ UP TO 50% OFFWomen's dressesCute, chic options for any event!select styles
 
 *   Shop All
 
-20-50% OFF SwimwearSoak up the sun and the savings!Women'sMen'sGirlsBoys4th of July Furniture &. Mattress SALEUP TO 60% OFF+Extra 10% OFF with couponEnds 7/15 | select stylesMattressesFurnitureUP TO 40% OFF Windowselect stylesSheersGreat for east-facing windowsto welcome the morning lightMidweight CurtainsWill let in the most light withoutsacrificing privacyBlackout CurtainsPerfect in nurseries &. bedroomsfor afternoon snoozesBlinds &. ShadesOffer a balance between full natural lightto blackout &. easy to cleanFor family time on the go or layin' low.    20% OFF adidas &. Championselect stylesExcluded from coupons.Shop adidasShop Champion  Learn More  Shop Now Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+20-50% OFF SwimwearSoak up the sun and the savings!Women'sMen'sGirls'Boys'4th of July Furniture &. Mattress SALEUP TO 60% OFF+Extra 10% OFF with couponEnds 7/15 | select stylesMattressesFurnitureUP TO 40% OFF Windowselect stylesSheersGreat for east-facing windowsto welcome the morning lightMidweight CurtainsWill let in the most light withoutsacrificing privacyBlackout CurtainsPerfect in nurseries &. bedroomsfor afternoon snoozesBlinds &. ShadesOffer a balance between full natural lightto blackout &. easy to cleanFor family time on the go or layin' low.    20% OFF adidas &. Championselect stylesExcluded from coupons.Shop adidasShop Champion  Learn More  Shop Now Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 43 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
 *   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
-    $20sale
+    $124.98
     
-    ~$124.98~187
+    187
 *   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
-    $20sale
+    $124.98
     
-    ~$124.98~132
+    132
 *   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
     
     $29.99sale
     
     ~$85~
 *   Sealy Essentials™ Ivory Treasure - Mattress Only $149 - $298.99with code~$430 - $920~34
-*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $26.24 - $47.24with code~$50 - $90~218
-*   Samsonite Medium Printed Luggage Cover $20.24with code~$50~1
+*   Samsonite Medium Printed Luggage Cover $23.99with code~$50~1
+*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $23.99 - $43.19with code~$50 - $90~218
 
 Sponsored Items
 
@@ -55,83 +55,80 @@ Sponsored Items
     $23.99clearance
     
     ~$80~66
-*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
 *   Brim 8-Cup Electric Pour Over Coffee Maker
     
     $249.99sale
     
     ~$275~38
-*   Circulon® Momentum 11-pc. Nonstick Cookware Set $179.99with code~$400~135
-*   Samsung Galaxy Mens Multi-Function Black Smart Watch-Sm-R800nzsaxar
+*   Fisher-Price Laugh &. Learn Smart Stages Sis
     
-    $279.99
+    $19.99
     
-    349
-*   Brim Pour Over Coffee Kit
-    
-    $49.99sale
-    
-    ~$60~25
-*   Brim 8 Cup French Press Coffee Maker
-    
-    $59.99sale
-    
-    ~$75~7
-*   Bissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum
-    
-    $334.99sale
-    
-    ~$360~2363
+    49
+*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $89.99with code~$180~55
+*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $15.99with code~$30~
 *   Dyson® V8 Animal Cord-Free Vacuum
     
     $569.99sale
     
     ~$669~186
-*   Brim 0.8L Electric Kettle
+*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
+*   Circulon® Momentum 11-pc. Nonstick Cookware Set $179.99with code~$400~135
+*   Rachael Ray Create Delicious 12.5" Deep Skillet Aluminum Non-Stick Skillet
     
-    $149.99sale
+    $39.99sale
     
-    ~$150~22
+    ~$60~21
+*   Bissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum
+    
+    $334.99sale
+    
+    ~$360~2363
+*   Fisher-Price Classic Xylophone
+    
+    $15.99
+    
+    7
+*   Brim Pour Over Coffee Kit
+    
+    $49.99sale
+    
+    ~$60~25
+*   Fisher-Price Linkimals Smooth Moves Sloth
+    
+    $29.99
+    
+    36
+*   Brim 8 Cup French Press Coffee Maker
+    
+    $59.99sale
+    
+    ~$75~7
+*   Fisher-Price Learn with Me Zebra Walker
+    
+    $24.99
+    
+    40
+*   Fisher-Price Laugh &. Learn Smart Stages Puppy
+    
+    $19.99
+    
+    62
 *   Brim Conical Burr Coffee Grinder
     
     $149.99sale
     
     ~$150~25
-*   Circulon® Symmetry 10" &. 12" Hard-Anodized French Skillet Set
+*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
     
-    $69.99sale
+    $14.99
     
-    ~$100~159
-*   Circulon Elementum Hard Anodized 10-pc. Cookware Set
+    10
+*   Brim 0.8L Electric Kettle
     
-    $209.99sale
+    $149.99sale
     
-    ~$325~76
-*   Shea Moisture Jamaican Black Castor Oil Conditioner - 11 oz. $9.89with code85
-*   Circulon® Symmetry 11-pc. Hard-Anodized Cookware Set
-    
-    $379.99sale
-    
-    ~$600~117
-*   Samsung Galaxy Active 2 40mm Womens Multi-Function Rose Goldtone Smart Watch-Sm-R830nzdaxar
-    
-    $279.99
-    
-    35
-*   Samsung Galaxy Active Mens Black Smart Watch-Sm-R500nzkaxar
-    
-    $199.99
-    
-    183
-*   Samsung Galaxy Active Womens Rose Goldtone Smart Watch-Sm-R500nzdaxar
-    
-    $199.99
-    
-*   Bissell® ProHeat 2X® Revolution™ Pet Carpet Cleaner
-    
-    $259.99sale
-    
-    ~$309~1264
+    ~$150~22
 
 Shop and Save at JCPenney
 
