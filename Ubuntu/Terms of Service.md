@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Design and Web team summary – 22nd June 2020
 *   Making the MAAS machine list fast with React
 *   Getting started with CUDA on Ubuntu on WSL 2
-*   ROS 2 Foxy Fitzroy and its Enhanced Security Monitoring
