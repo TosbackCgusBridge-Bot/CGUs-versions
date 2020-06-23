@@ -9,8 +9,26 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
 
 *   All EventsShop Sale Events
     
+    *   TUMI
+    *   Best of Ray-Ban Sunglasses
+    *   Lacoste Men Starting at $20
+    *   Born Shoes
+    *   Kut from the Kloth &. Democracy Incl. Plus
+    *   DR2 Daniel Rainn &. Pleione Incl. Plus &. Petites
+    *   Lace Styles Under $50
+    *   Jackets Under $50
+    *   One-Piece Swim Up to 70% Off
+    *   Panty Packs &. More
+    *   TUMI Handbags
+    *   Kenneth Cole Reaction Men's Shoes
+    *   Walk It Out: Women's Sneakers
+    *   Suiting Under $250
+    *   Steve Madden Men
+    *   Hiking &. Outdoor Shoes for Women
+    *   Best for Baby: Footies, Sets &. More
     *   Women's Styles Up to 75% Off
     *   Swim Under $20
+    
     *   Women's Shoe Blowout
     *   Men's Styles Up to 75% Off
     *   Men's Shoe Styles Up to 65% Off
@@ -28,9 +46,9 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Active Under $20
     *   7 For All Mankind Up to 70% Off
     *   7 For All Mankind Men
-    
     *   Hello Sunshine: Casual Tops Under $30 Incl. Plus
     *   Summer Shorts from $20 Incl. Plus &. Petites
+    
     *   Love, Fire
     *   Comfort Shoes ft. Vionic
     *   Men's Comfort Shoes ft. Skechers
@@ -40,41 +58,35 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Fashion Socks &. More Up to 60% Off
     *   Backpacks for the Family Starting at $13
     *   Men's Gift Sets
+    *   Summer Jumpsuits from $20
     *   7 For All Mankind Kids
     *   WFH Essentials: Hair Tools Up to 55% Off
-    *   90 Degree by Reflex Under $35
     *   Dyson
-    *   Designers We Love Up to 75% Off
-    *   Socialite Under $40
-    *   Flower Delivery: Floral Styles Incl. Plus &. Petites
-    *   Active Swim &. More Up to 60% Off
-    
-    *   Utilize These: Trench Coats, Rain Jackets &. More
     *   Aldo Men Up to 60% Off
-    *   Men's Swim Styles Up to 70% Off
     *   IT Cosmetics Up to 50% Off
-    *   Keep It Classic: Men's Denim &. White Tees
-    *   Booties Up to 60% Off
-    *   Slippers for Her
-    *   Trending Now: Camera-Ready Styles for Kids
-    *   Sparkle &. Shine: Fun Girls' Shoes
-    *   HOKA ONE ONE Men
-    *   Dr. Scholl's Kids
-    *   Dr. Scholl's Men
     *   Kiehl's Since 1851
-    *   Fun in the Sun: Kids' Toys Starting at $10
-    *   Refresh Your Routine: Skin Care from $10
     *   Bands for Apple Watch &. More from $20
-    *   Summer Jumpsuits from $20
-    *   Dress Up or Down: Camis from $15
 *   WomenShop Sale Events
     
+    *   TUMI
+    *   Best of Ray-Ban Sunglasses
+    *   Born Shoes
+    *   Kut from the Kloth &. Democracy Incl. Plus
+    *   DR2 Daniel Rainn &. Pleione Incl. Plus &. Petites
+    *   Lace Styles Under $50
+    *   Jackets Under $50
+    *   One-Piece Swim Up to 70% Off
+    *   Panty Packs &. More
+    *   TUMI Handbags
+    *   Walk It Out: Women's Sneakers
+    *   Hiking &. Outdoor Shoes for Women
     *   Women's Styles Up to 75% Off
     *   Swim Under $20
     *   Women's Shoe Blowout
     *   Sam Edelman Up to 65% Off
     *   Summer Dresses ft. West Kei
     *   Sam Edelman Clothing Up to 70% Off
+    
     *   Scalloped Styles Up to 70% Off
     *   Trend-Setting Bags Up to 65% Off
     *   Luxe Bath &. Body Up to 50% Off
@@ -86,23 +98,13 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Comfort Shoes ft. Vionic
     *   Fresh Finds: Shoes Up to 60% Off
     *   Summer Staples: Wedges &. Sandals Up to 65% Off
-    
     *   Fashion Socks &. More Up to 60% Off
     *   Backpacks for the Family Starting at $13
-    *   WFH Essentials: Hair Tools Up to 55% Off
-    *   90 Degree by Reflex Under $35
-    *   Designers We Love Up to 75% Off
-    *   Socialite Under $40
-    *   Flower Delivery: Floral Styles Incl. Plus &. Petites
-    *   Active Swim &. More Up to 60% Off
-    *   Utilize These: Trench Coats, Rain Jackets &. More
-    *   IT Cosmetics Up to 50% Off
-    *   Booties Up to 60% Off
-    *   Slippers for Her
-    *   Kiehl's Since 1851
-    *   Refresh Your Routine: Skin Care from $10
     *   Summer Jumpsuits from $20
-    *   Dress Up or Down: Camis from $15
+    *   WFH Essentials: Hair Tools Up to 55% Off
+    *   Dyson
+    *   IT Cosmetics Up to 50% Off
+    *   Kiehl's Since 1851
     
     Shop By Category
     *   Clothing
@@ -112,61 +114,56 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Accessories
 *   MenShop Sale Events
     
+    *   TUMI
+    *   Best of Ray-Ban Sunglasses
+    *   Lacoste Men Starting at $20
+    *   Kenneth Cole Reaction Men's Shoes
+    *   Suiting Under $250
+    *   Steve Madden Men
     *   Men's Styles Up to 75% Off
     *   Men's Shoe Styles Up to 65% Off
+    
     *   Robert Graham
     *   Shorts for Him Starting at $20
     *   Ben Sherman Shoes
     *   7 For All Mankind Men
     *   Backpacks for the Family Starting at $13
-    
     *   Men's Gift Sets
     *   Aldo Men Up to 60% Off
-    *   Men's Swim Styles Up to 70% Off
-    *   Keep It Classic: Men's Denim &. White Tees
-    *   HOKA ONE ONE Men
-    *   Dr. Scholl's Men
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Best for Baby: Footies, Sets &. More
     *   Snuggle Up: Kids' Favorite Pajamas
     *   Backpacks for the Family Starting at $13
     *   7 For All Mankind Kids
-    *   Trending Now: Camera-Ready Styles for Kids
-    *   Sparkle &. Shine: Fun Girls' Shoes
-    *   Dr. Scholl's Kids
-    *   Fun in the Sun: Kids' Toys Starting at $10
     
     Shop By Category
     *   Girls
     *   Boys
-    *   Toys
-    *   Girls' Shoes
     *   Baby
-    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   TUMI
     *   New on HauteLook: Shark Up to 20% Off
-    *   Dyson
     *   Bands for Apple Watch &. More from $20
     
     Shop By Category
     *   Electronic &. Tech Accessories
     *   Cleaning &. Organization
     *   Luggage &. Travel
-    *   Outdoor Living
 *   BeautyShop Sale Events
     
     *   Luxe Bath &. Body Up to 50% Off
     *   Men's Gift Sets
     *   WFH Essentials: Hair Tools Up to 55% Off
+    *   Dyson
     *   IT Cosmetics Up to 50% Off
     *   Kiehl's Since 1851
-    *   Refresh Your Routine: Skin Care from $10
     
     Shop By Category
     *   Skin Care
