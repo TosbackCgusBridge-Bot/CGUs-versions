@@ -14,7 +14,7 @@
         *   Pricing
     *   What’s New
 
-Privacy Policy
+Privacy policy
 
 This version (Version 4.6) is effective as of January 1, 2020.
 
