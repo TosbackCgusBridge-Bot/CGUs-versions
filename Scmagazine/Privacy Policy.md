@@ -240,11 +240,11 @@ For users in the United States, any changes or modifications will be effective i
 
 For users in the EEA, any changes or modifications will be effective upon your express consent as you will be notified of any changes by virtue of a pop-up, banner, or other notification mechanism when you seek to access our services after we issue a change or modification. Upon consent, the revisions on the services shall apply to all use of our services and all acts or omissions occurring after the effective date of the revised Privacy Policy.
 
-Keeping your eyes on the asset management prize
+Security asset management in the remote work era
 
-Why unmanaged device discovery is critical for asset management programs
+Customer case study: Fast-growing AppsFlyer automates security policy validation with Axonius
 
-Q&A: Developing an asset management strategy
+Managing data compliance and workflows
 
 *   MOST POPULAR
     
@@ -252,11 +252,11 @@ Q&A: Developing an asset management strategy
     *   Emailed
     *   Recent
     
-    *   Amazon puts one-year moratorium on selling face recognition tech to law enforcement
-    *   Ransomware attack compromises Australian beer supply
-    *   'Anonymous' claims credit for taking down Atlanta PD website
-    *   Derailing Ransomware 2.0 Requires EPPs, EDRs and Advanced Deception Tools
-    *   NetWalker claims credit for attack on Crozer-Keystone Health System
+    *   Vulnerability in Trump campaign app revealed keys and secrets
+    *   Don’t be the weakest link in a widespread attack
+    *   Ragnar Locker teams up with Maze. Zorab ransomware imitates decryptor
+    *   Aflac's Tim Callahan presses hard line on managing third-party risk
+    *   Apps Aren’t the Answer: Managing COVID-19 Will Require Human-Based Contact Tracing
     
     *   Digital disruption grows attack surface, Edelman Financial Engines' Conlon says
     *   Amazon puts one-year moratorium on selling face recognition tech to law enforcement
@@ -264,11 +264,11 @@ Q&A: Developing an asset management strategy
     *   Russian hacker releases at least 14,000 Mexican taxpayer IDs
     *   Ransomware attack compromises Australian beer supply
     
-    *   NetWalker claims credit for attack on Crozer-Keystone Health System
-    *   Report: Lazarus Group has large-scale Covid-19 phishing campaign in the works
-    *   Amnesty Int'l: Norway, Bahrain &. Kuwait Covid-19 apps threaten privacy
-    *   Digital disruption grows attack surface, Edelman Financial Engines' Conlon says
-    *   Malicious Google extensions research points out ‘unintended consequence’ of cloud computing
+    *   Australia says state-based actor is behind surge of sophisticated cyberattacks
+    *   Variant of Mac malware 'Shlayer' spreads via poisoned web searches
+    *   Web-skimming scam infected e-commerce sites on three continents
+    *   Don’t be the weakest link in a widespread attack
+    *   Risk assessments reveal businesses remain deficient in security compliance, training
 
 Back to Top
 
@@ -303,4 +303,4 @@ Back to Top
 
 Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
 
-You can skip this ad in 2 seconds.
+You can skip this ad in 1 seconds.
