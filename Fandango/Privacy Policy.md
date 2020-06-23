@@ -1,4 +1,4 @@
-A Message to Our Movie Fans Read More Gift Cards | Offers | Sign In Sign Out
+GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
 
 *   Fandango Screen Reader Users: To optimize your experience with your screen reading software, please use our Flixster.com website, which has the same tickets as our Fandango.com and MovieTickets.com websites.
 *   Skip to Main Content Go
@@ -485,21 +485,21 @@ Offers
 
 New + Coming soon
 
-*   Onward
+*   Unhinged (2020)
     
-*   The Way Back (2020)
+*   Mulan (2020)
     
-*   Bloodshot (2020)
+*   Tenet
     
-*   I Still Believe
+*   Antebellum
+    
+*   The New Mutants
     
 *   The Invisible Man (2020)
     
-*   The Hunt (2020)
+*   Trolls World Tour (2020)
     
-*   Emma (2020)
-    
-*   The Call of the Wild (2020)
+*   Bill &. Ted Face the Music
     
 
 Experience + Explore
