@@ -192,6 +192,7 @@ Mozilla Privacy
 *   Firefox OS
 *   Firefox Focus
 *   Firefox Private Network
+*   Firefox Relay
 *   Thunderbird
 
 Websites, Communications &. Cookies Privacy Notice March 15, 2019
