@@ -5,10 +5,10 @@ Our COVID-19 response  DetailsEXTRA 30% OFF w/ JCP Credit Card &. SUNFUN20 Deta
 
 Enable Accessibility
 
-*   StoresAurora MallMore Stores14200 E Alameda Ave, Aurora, CO, 80012303-344-9901 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   Deals &. Trending
 *   Home &. Lifestyle
@@ -22,31 +22,27 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-UP TO 50% OFFWomen's dressesCute, chic options for any event!select styles
+20-50% OFF SwimwearSoak up the sun and the savings!Women'sMen'sGirls'Boys'UP TO 50% OFFWomen's dressesCute, chic options for any event!select styles
 
 *   Shop All
 
-20-50% OFF SwimwearSoak up the sun and the savings!Women'sMen'sGirls'Boys'4th of July Furniture &. Mattress SALEUP TO 60% OFF+Extra 10% OFF with couponEnds 7/15 | select stylesMattressesFurnitureUP TO 40% OFF Windowselect stylesSheersGreat for east-facing windowsto welcome the morning lightMidweight CurtainsWill let in the most light withoutsacrificing privacyBlackout CurtainsPerfect in nurseries &. bedroomsfor afternoon snoozesBlinds &. ShadesOffer a balance between full natural lightto blackout &. easy to cleanFor family time on the go or layin' low.    20% OFF adidas &. Championselect stylesExcluded from coupons.Shop adidasShop Champion  Learn More  Shop Now Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+4th of July Furniture &. Mattress SALEUP TO 60% OFF+Extra 10% OFF with couponEnds 7/15 | select stylesMattressesFurnitureUP TO 40% OFF Windowselect stylesBlackout CurtainsPerfect in nurseries &. bedroomsfor afternoon snoozesLight Filtering CurtainsWill let in the most light withoutsacrificing privacySheersGreat for east-facing windowsto welcome the morning lightBlinds &. ShadesOffer a balance between full natural lightto blackout &. easy to cleanFor family time on the go or layin' low.    20% OFF adidas &. Championselect stylesExcluded from coupons.Shop adidasShop Champion  Learn More  Shop Now Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 43 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
+*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $4.79 - $30.39with code~$10 - $72~1688
+*   Liz Claiborne Luxury Egyptian Hygrocotton Loops Bath Towel $12.80 - $93with code135
 *   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
     $124.98
     
     187
-*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+*   Home Expressions Solid or Stripe Bath Towel Collection $2.39 - $15.99with code~$6 - $48~537
+*   Nike Tanjun Womens Running Shoes
     
-    $124.98
+    $48.75sale
     
-    132
-*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
-    
-    $29.99sale
-    
-    ~$85~
-*   Sealy Essentials™ Ivory Treasure - Mattress Only $149 - $298.99with code~$430 - $920~34
-*   Samsonite Medium Printed Luggage Cover $23.99with code~$50~1
-*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $23.99 - $43.19with code~$50 - $90~218
+    ~$65~152
+*   St. John's Bay Mid Rise Capris $11.99with code~$32~39
 
 Sponsored Items
 
@@ -55,80 +51,85 @@ Sponsored Items
     $23.99clearance
     
     ~$80~66
-*   Brim 8-Cup Electric Pour Over Coffee Maker
-    
-    $249.99sale
-    
-    ~$275~38
 *   Fisher-Price Laugh &. Learn Smart Stages Sis
     
     $19.99
     
     49
-*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $89.99with code~$180~55
+*   Farberware 12-Pc. Cookware Set $142.50with code52
 *   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $15.99with code~$30~
-*   Dyson® V8 Animal Cord-Free Vacuum
+*   Brim 8-Cup Electric Pour Over Coffee Maker
     
-    $569.99sale
+    $249.99sale
     
-    ~$669~186
+    ~$275~38
 *   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
-*   Circulon® Momentum 11-pc. Nonstick Cookware Set $179.99with code~$400~135
-*   Rachael Ray Create Delicious 12.5" Deep Skillet Aluminum Non-Stick Skillet
+*   Samsung Galaxy Active 2 40mm Womens Multi-Function Rose Goldtone Smart Watch-Sm-R830nzdaxar
+    
+    $279.99
+    
+    36
+*   Rachael Ray Create Delicious 10.25-Inch Deep Skillet
     
     $39.99sale
     
-    ~$60~21
-*   Bissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum
+    ~$70~22
+*   Circulon® Momentum 11-pc. Nonstick Cookware Set $179.99with code~$400~135
+*   Ayesha Curry™ Home Collection 2-pc. 9.25" &. 11.5" Skillet Set
     
-    $334.99sale
+    $80
     
-    ~$360~2363
+    10
 *   Fisher-Price Classic Xylophone
     
     $15.99
     
     7
-*   Brim Pour Over Coffee Kit
+*   Dyson® V8 Animal Cord-Free Vacuum
     
-    $49.99sale
+    $569.99sale
     
-    ~$60~25
-*   Fisher-Price Linkimals Smooth Moves Sloth
-    
-    $29.99
-    
-    36
-*   Brim 8 Cup French Press Coffee Maker
-    
-    $59.99sale
-    
-    ~$75~7
-*   Fisher-Price Learn with Me Zebra Walker
-    
-    $24.99
-    
-    40
+    ~$669~186
 *   Fisher-Price Laugh &. Learn Smart Stages Puppy
     
     $19.99
     
     62
-*   Brim Conical Burr Coffee Grinder
+*   Fisher-Price Linkimals Smooth Moves Sloth
     
-    $149.99sale
+    $29.99
     
-    ~$150~25
+    36
+*   Bissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum
+    
+    $334.99sale
+    
+    ~$360~2363
+*   Brim 8 Cup French Press Coffee Maker
+    
+    $59.99sale
+    
+    ~$75~7
 *   Fisher-Price Laugh &. Learn Click &. Learn Laptop
     
     $14.99
     
     10
+*   Brim Pour Over Coffee Kit
+    
+    $49.99sale
+    
+    ~$60~25
 *   Brim 0.8L Electric Kettle
     
     $149.99sale
     
     ~$150~22
+*   Fisher-Price Learn with Me Zebra Walker
+    
+    $24.99
+    
+    40
 
 Shop and Save at JCPenney
 
