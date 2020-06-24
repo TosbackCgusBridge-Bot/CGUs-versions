@@ -5,11 +5,30 @@ Nordstrom RackHauteLook
 *   Invite a Friend, Get $20
 *   Log In / Sign Up
 
-HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
+HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Nest
+    *   Stationery &. More ft. Kate Spade New York at $10
+    *   Light Rings by Tzumi
+    *   Wall Art Up to 60% Off
+    *   Lush Under $35
+    *   Cali Girl Vibes: Tops &. More from $25
+    *   Embroidered &. Ruffled Styles
+    *   Summer Chic: Cover-Ups &. More
+    *   Ben Sherman Up to 70% Off
+    *   Chic Pumps for Summer
+    *   Bugatchi Men's Clothing 70% Off
+    *   Citizen Watches ft. Eco Drive
+    *   Makeup We Love ft. Urban Decay, Nars &. IT Cosmetics
+    *   Exclusively Ours: Nordstrom-Made Styles
+    *   Bugatchi Men's Shoes
+    *   Sovereign Code Kids Up to 60% Off
+    *   Easy-On Pairs: Kids' Hook &. Loop Shoes
+    *   Women's Styles Up to 75% Off
     *   TUMI
+    
     *   Best of Ray-Ban Sunglasses
     *   Lacoste Men Starting at $20
     *   Born Shoes
@@ -26,48 +45,40 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   Steve Madden Men
     *   Hiking &. Outdoor Shoes for Women
     *   Best for Baby: Footies, Sets &. More
-    *   Women's Styles Up to 75% Off
     *   Swim Under $20
-    
     *   Women's Shoe Blowout
     *   Men's Styles Up to 75% Off
+    
     *   Men's Shoe Styles Up to 65% Off
     *   Sam Edelman Up to 65% Off
     *   New on HauteLook: Shark Up to 20% Off
-    *   Summer Dresses ft. West Kei
-    *   Sam Edelman Clothing Up to 70% Off
-    *   Scalloped Styles Up to 70% Off
-    *   Trend-Setting Bags Up to 65% Off
     *   Robert Graham
     *   Shorts for Him Starting at $20
     *   Snuggle Up: Kids' Favorite Pajamas
     *   Ben Sherman Shoes
     *   Luxe Bath &. Body Up to 50% Off
-    *   Active Under $20
-    *   7 For All Mankind Up to 70% Off
-    *   7 For All Mankind Men
-    *   Hello Sunshine: Casual Tops Under $30 Incl. Plus
-    *   Summer Shorts from $20 Incl. Plus &. Petites
-    
-    *   Love, Fire
-    *   Comfort Shoes ft. Vionic
     *   Men's Comfort Shoes ft. Skechers
-    *   Fresh Finds: Shoes Up to 60% Off
-    *   Summer Staples: Wedges &. Sandals Up to 65% Off
     *   Men's Active Shoes from Mizuno &. More
-    *   Fashion Socks &. More Up to 60% Off
-    *   Backpacks for the Family Starting at $13
     *   Men's Gift Sets
-    *   Summer Jumpsuits from $20
-    *   7 For All Mankind Kids
     *   WFH Essentials: Hair Tools Up to 55% Off
-    *   Dyson
-    *   Aldo Men Up to 60% Off
+    *   Last Chance: Dyson Airwrap &. More
     *   IT Cosmetics Up to 50% Off
-    *   Kiehl's Since 1851
-    *   Bands for Apple Watch &. More from $20
+    *   Natori
+    *   Eileen Fisher Incl. Plus &. Petites
+    *   Eileen Fisher Shoes
+    *   Active Under $20
 *   WomenShop Sale Events
     
+    *   Nest
+    *   Lush Under $35
+    *   Cali Girl Vibes: Tops &. More from $25
+    *   Embroidered &. Ruffled Styles
+    *   Summer Chic: Cover-Ups &. More
+    *   Chic Pumps for Summer
+    *   Citizen Watches ft. Eco Drive
+    *   Makeup We Love ft. Urban Decay, Nars &. IT Cosmetics
+    *   Exclusively Ours: Nordstrom-Made Styles
+    *   Women's Styles Up to 75% Off
     *   TUMI
     *   Best of Ray-Ban Sunglasses
     *   Born Shoes
@@ -75,102 +86,99 @@ HauteLookFree Shipping on Orders Over $100\* New! Temporary Extended Returns
     *   DR2 Daniel Rainn &. Pleione Incl. Plus &. Petites
     *   Lace Styles Under $50
     *   Jackets Under $50
+    
     *   One-Piece Swim Up to 70% Off
     *   Panty Packs &. More
     *   TUMI Handbags
     *   Walk It Out: Women's Sneakers
     *   Hiking &. Outdoor Shoes for Women
-    *   Women's Styles Up to 75% Off
     *   Swim Under $20
     *   Women's Shoe Blowout
     *   Sam Edelman Up to 65% Off
-    *   Summer Dresses ft. West Kei
-    *   Sam Edelman Clothing Up to 70% Off
-    
-    *   Scalloped Styles Up to 70% Off
-    *   Trend-Setting Bags Up to 65% Off
     *   Luxe Bath &. Body Up to 50% Off
-    *   Active Under $20
-    *   7 For All Mankind Up to 70% Off
-    *   Hello Sunshine: Casual Tops Under $30 Incl. Plus
-    *   Summer Shorts from $20 Incl. Plus &. Petites
-    *   Love, Fire
-    *   Comfort Shoes ft. Vionic
-    *   Fresh Finds: Shoes Up to 60% Off
-    *   Summer Staples: Wedges &. Sandals Up to 65% Off
-    *   Fashion Socks &. More Up to 60% Off
-    *   Backpacks for the Family Starting at $13
-    *   Summer Jumpsuits from $20
     *   WFH Essentials: Hair Tools Up to 55% Off
-    *   Dyson
+    *   Last Chance: Dyson Airwrap &. More
     *   IT Cosmetics Up to 50% Off
-    *   Kiehl's Since 1851
+    *   Natori
+    *   Eileen Fisher Incl. Plus &. Petites
+    *   Eileen Fisher Shoes
+    *   Active Under $20
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Handbags
-    *   Lingerie &. Shapewear
     *   Accessories
+    *   Lingerie &. Shapewear
+    *   Handbags
+    *   Watches
 *   MenShop Sale Events
     
+    *   Ben Sherman Up to 70% Off
+    *   Bugatchi Men's Clothing 70% Off
+    *   Citizen Watches ft. Eco Drive
+    *   Bugatchi Men's Shoes
     *   TUMI
     *   Best of Ray-Ban Sunglasses
     *   Lacoste Men Starting at $20
     *   Kenneth Cole Reaction Men's Shoes
+    
     *   Suiting Under $250
     *   Steve Madden Men
     *   Men's Styles Up to 75% Off
     *   Men's Shoe Styles Up to 65% Off
-    
     *   Robert Graham
     *   Shorts for Him Starting at $20
     *   Ben Sherman Shoes
-    *   7 For All Mankind Men
-    *   Backpacks for the Family Starting at $13
     *   Men's Gift Sets
-    *   Aldo Men Up to 60% Off
     
     Shop By Category
     *   Shoes
     *   Clothing
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Sovereign Code Kids Up to 60% Off
+    *   Easy-On Pairs: Kids' Hook &. Loop Shoes
     *   Best for Baby: Footies, Sets &. More
     *   Snuggle Up: Kids' Favorite Pajamas
-    *   Backpacks for the Family Starting at $13
-    *   7 For All Mankind Kids
     
     Shop By Category
     *   Girls
     *   Boys
     *   Baby
+    *   Girls' Shoes
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Stationery &. More ft. Kate Spade New York at $10
+    *   Light Rings by Tzumi
+    *   Wall Art Up to 60% Off
     *   TUMI
     *   New on HauteLook: Shark Up to 20% Off
-    *   Bands for Apple Watch &. More from $20
     
     Shop By Category
-    *   Electronic &. Tech Accessories
+    *   Home Decor
     *   Cleaning &. Organization
     *   Luggage &. Travel
+    *   Electronic &. Tech Accessories
+    *   Bedding
 *   BeautyShop Sale Events
     
+    *   Nest
+    *   Makeup We Love ft. Urban Decay, Nars &. IT Cosmetics
     *   Luxe Bath &. Body Up to 50% Off
     *   Men's Gift Sets
     *   WFH Essentials: Hair Tools Up to 55% Off
-    *   Dyson
+    *   Last Chance: Dyson Airwrap &. More
     *   IT Cosmetics Up to 50% Off
-    *   Kiehl's Since 1851
     
     Shop By Category
-    *   Skin Care
+    *   Makeup
     *   Men’s Grooming
+    *   Skin Care
     *   Hair Care
     *   Tools &. Accessories
-    *   Makeup
     *   Bath &. Body
     *   Fragrance
 
@@ -366,4 +374,4 @@ Get a $20 credit each time a friend you invite makes their first purchase. Limit
 
 Or you can use your personal referral link to invite
 
-Shipping &. ReturnsFree shipping is applied to orders over $100 before tax. International orders and all items over 5lbs. excluded.Temporary Extended Returns in Response to COVID-19For all items purchased online on or after February 1, 2020, we will accept in-store returns up to 45 days after stores reopen. We are continuing to accept returns by mail. the extended return period above applies. Purchases made after stores reopen will be subject to our standard 45-day return policy.Return to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack up to 45 days after stores reopen.Find Your RackReturn by MailUse our self-service Returns page to get started and return your item.Start Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US and $10.95 for Canada. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.Unlock Your Exclusive RewardsTake a minute to complete your profile to view your Nordy Club status and available points.Complete My ProfileSkip for now
+Shipping &. ReturnsFree shipping is applied to orders over $100 before tax. International orders and all items over 5lbs. excluded.Temporary Extended Returns in Response to COVID-19For all items purchased between 2/1/20 and 6/17/20, we will accept returns through 8/1/20. Purchases made after 6/17/20 will be subject to our standard 45-day return policy.Return to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailUse our self-service Returns page to get started and return your item.Start Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US and $10.95 for Canada. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.Unlock Your Exclusive RewardsTake a minute to complete your profile to view your Nordy Club status and available points.Complete My ProfileSkip for now
