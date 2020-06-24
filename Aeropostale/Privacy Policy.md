@@ -192,7 +192,6 @@ Close submenu ( Guys ) Guys
 *   Clearance Tees
 *   Tops
 *   Bottoms
-*   Accessories
 
 **50-70% Off Everything**  **+ Free Shipping Over $50** Details
 
@@ -349,7 +348,6 @@ Menu Find a Store Aeropostale
         *   Clearance Tees
         *   Tops
         *   Bottoms
-        *   Accessories
 
 *   Select Country
 
