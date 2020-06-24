@@ -252,23 +252,23 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
-    *   Vulnerability in Trump campaign app revealed keys and secrets
-    *   Don’t be the weakest link in a widespread attack
-    *   Ragnar Locker teams up with Maze. Zorab ransomware imitates decryptor
-    *   Aflac's Tim Callahan presses hard line on managing third-party risk
-    *   Apps Aren’t the Answer: Managing COVID-19 Will Require Human-Based Contact Tracing
+    *   Magecart skimmed from Claires.com for nearly two months
+    *   BlueLeaks files expose data from law enforcement, fusion centers
+    *   Nintendo Switch hack nearly twice as bad as first reported
+    *   FBI warns hackers targeting mobile banking app users during pandemic
+    *   Amnesty Int'l: Norway, Bahrain &. Kuwait Covid-19 apps threaten privacy
     
-    *   Digital disruption grows attack surface, Edelman Financial Engines' Conlon says
+    *   'Woefully lax' security led to WikiLeaks Vault 7 dump
     *   Amazon puts one-year moratorium on selling face recognition tech to law enforcement
-    *   Aflac's Tim Callahan presses hard line on managing third-party risk
-    *   Russian hacker releases at least 14,000 Mexican taxpayer IDs
-    *   Ransomware attack compromises Australian beer supply
+    *   India surpasses U.S., others in number of ethical hackers
+    *   Report: Lazarus Group has large-scale Covid-19 phishing campaign in the works
+    *   Equifax CISO Farshchi: Transparency, focus on behavior transformed security, culture
     
-    *   Australia says state-based actor is behind surge of sophisticated cyberattacks
-    *   Variant of Mac malware 'Shlayer' spreads via poisoned web searches
-    *   Web-skimming scam infected e-commerce sites on three continents
-    *   Don’t be the weakest link in a widespread attack
-    *   Risk assessments reveal businesses remain deficient in security compliance, training
+    *   India surpasses U.S., others in number of ethical hackers
+    *   Cracking the cyber liability code leads to better insurance coverage
+    *   Evil Corp debuts WastedLocker ransomware and new TTPs, researchers say
+    *   CyberSC's Vogel offers insider’s guide to becoming a vCISO
+    *   Alsid’s Melber urges active directory protection to fend off new attack patterns
 
 Back to Top
 
@@ -301,6 +301,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
 You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
