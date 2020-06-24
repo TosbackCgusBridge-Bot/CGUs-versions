@@ -52,7 +52,7 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   Check Out This Behind the Scenes Look at 'Bad Boys For Life' Read More
-    *   What to Watch on FandangoNOW: ‘You Should Have Left,’ ‘Miss Juneteenth,’ the Best Movie Dads and More Read More
+    *   What to Watch on FandangoNOW: ‘Trolls World Tour’ Dance Party Edition, Movies Celebrating Summer and More Read More
     *   Your Most Anticipated DC Movies To Make a Big Splash at First-Ever DC FanDome Event Read More
     
     Explore Content
