@@ -125,7 +125,7 @@ Play video: Wireless Headphones Designed for an Active Lifestyle Close video: Wi
 
 Announcing Crash Bandicoot 4: It’s About Time. A sequel to the original trilogy, coming to PS4 October 2:  http://play.st/2V6DhG0  pic.twitter.com/muLFHBtOtk
 
-14 hours ago View Tweet Instagram Post CAObehgB3Us
+1 day ago View Tweet Instagram Post CAObehgB3Us
 
 Listen Now
 
