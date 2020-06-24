@@ -216,4 +216,4 @@ LIMITED OFFER 
 Become untraceable online  
 with HMA VPN.
 
-Buy now LIMITED OFFER - SAVE UP TO 67%!
+Buy now HMA!’s Snowballin’ Sale: -67% OFF
