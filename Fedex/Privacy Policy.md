@@ -1,7 +1,3 @@
-We are continuing to respond to the impact of COVID-19 around the world. See our latest updates.
-
-Before finalizing your shipment, please confirm your recipient is "OPEN" for business.
-
 *   Shipping Create a Shipment Shipping Rates &. Delivery Times Shipping Rates &. Delivery Times Schedule &. Manage Pickups Packing &. Shipping Supplies International Shipping Guide In-Store Shipping Services ALL SHIPPING SERVICES
 *   Tracking Tracking ID Tracking ID TRACK Advanced Shipment Tracking Manage Your Delivery ALL TRACKING SERVICES
 *   Design &. Print Upload a Print-Ready File Custom Design Templates Explore Print Products Browse Services Get Coupons &. Deals ALL PRODUCTS &. SERVICES
@@ -238,7 +234,7 @@ When you are using our services in Europe, your Personal Data is controlled by F
 
 _What if I have other questions or complaints?_  
 
-Questions or complaints regarding the processing of your Personal Data can be directed to FedEx by using the contact information as provided at the top of this Privacy Notice. 
+For additional information, please refer to our Global Privacy Policy. If you have questions or complaints regarding the processing of your Personal Data, please use the contact information provided at the top of this Privacy Notice.
 
 You also have the right to lodge a complaint with the competent (local) data protection or government authority in the jurisdiction where you work, where you live or where an alleged infringement takes place. For individuals in the European Economic Area or Switzerland, the lead supervisory authority for FedEx is the Dutch Data Protection Authority (Dutch DPA), unless the alleged infringement is purely a local matter. Access the listing of the European Data Protection Authorities.
 
