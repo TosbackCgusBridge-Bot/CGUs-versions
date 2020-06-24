@@ -1,11 +1,9 @@
-Previous1 of 3Next
+Previous1 of 2Next
 
 *   UPS is open for business: Service impacts related to Coronavirus...More
 *   Commit times for Air and international Air services have been extended in areas of the Northeastern U.S....More
-*   Demonstrations across the U.S....More
 *   UPS is open for business: Service impacts related to Coronavirus...More
 *   Commit times for Air and international Air services have been extended in areas of the Northeastern U.S....More
-*   Demonstrations across the U.S....More
 *   UPS is open for business: Service impacts related to Coronavirus...More
 
 Close Skip To Main Content
