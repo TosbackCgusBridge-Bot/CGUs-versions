@@ -207,4 +207,5 @@ If you have any further question about this Privacy Policy, please contact us at
 *   RSS
 *   View Mobile Site
 
-Copyright © 2020 RealClearHoldings, LLC. ©2019 RealClearPolitics | Go to full site
+Copyright © 2020 RealClearHoldings, LLC.  
+Do Not Sell My Personal Information ©2019 RealClearPolitics | Go to full site
