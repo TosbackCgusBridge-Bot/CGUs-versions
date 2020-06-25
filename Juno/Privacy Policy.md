@@ -4,7 +4,7 @@ Sign in to your Email
 
 Main Menu
 
-Access Numbers Getting Started Requirements Get Software Anti Fraud Anti Spam Parental Consent Privacy Acceptable Use Cookie Policy Terms of Service
+Access Numbers Getting Started Requirements Get Software Anti Fraud Anti Spam Parental Consent Privacy Acceptable Use Cookie Policy Your Privacy Rights Terms of Service
 
 PRIVACY POLICY
 
@@ -194,7 +194,7 @@ Network Advertising Initiative: http://www.networkadvertising.org/managing/opt\_
   
   
   
-Juno Home | My Juno | Help | My Account | Corporate | Join Now About Juno | About United Online | Our Services | Advertisers | Investors | Press | Privacy Policy | Your Privacy Rights | About Ads | Terms of Service  
+Juno Home | My Juno | Help | My Account | Corporate | Join Now About Juno | About United Online | Our Services | Investors | Press | Privacy Policy | Your Privacy Rights | About Ads | Terms of Service  
 United Online NetZero | Juno | MySite
 
 © 1995-2020Juno Online Services, Inc. Juno is a registered trademark, and the Juno logo is a trademark of Juno Online Services, Inc.
