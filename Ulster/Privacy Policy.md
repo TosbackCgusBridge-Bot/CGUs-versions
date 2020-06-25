@@ -1,4 +1,4 @@
-Coronavirus (COVID-19) :  
+Return to Campus :  
 Key Information
 
 We urge all our staff and students to  
