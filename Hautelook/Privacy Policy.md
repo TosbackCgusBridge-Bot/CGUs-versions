@@ -9,14 +9,31 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Limited-Time Price Drops Up to 70% Off
+    *   UGG Kids
+    *   Diesel Men Up to 65% Off
+    *   Victoria Beckham &. More: Sunglasses Under $100
+    *   Summer Essentials: Tops Under $20
+    *   Summer Essentials: Skirts Up to 70% Off
+    *   Calvin Klein
+    *   Dolce Vita Up to 70% Off
+    *   Calvin Klein Intimates, Active &. More
+    *   Men's Polos Up to 70% Off
+    *   Screen Time: Virtual Call-Ready Beauty Finds
+    *   Sandals &. More ft. Charles David
+    *   Gordon Rush
+    *   Happy at Home: Men's Slides, Slippers &. More
+    *   Make a Splash: Kids' Swim &. More Up to 65% Off
+    *   Summer Essentials: Sport Bras, Tanks &. Crops Up to 70% Off
+    *   Women's Styles Up to 75% Off
+    *   Summer Chic: Cover-Ups &. More
+    *   Eileen Fisher Shoes
+    
     *   Nest
     *   Stationery &. More ft. Kate Spade New York at $10
     *   Light Rings by Tzumi
     *   Wall Art Up to 60% Off
-    *   Lush Under $35
-    *   Cali Girl Vibes: Tops &. More from $25
-    *   Embroidered &. Ruffled Styles
-    *   Summer Chic: Cover-Ups &. More
+    *   Lace Styles Under $50
     *   Ben Sherman Up to 70% Off
     *   Chic Pumps for Summer
     *   Bugatchi Men's Clothing 70% Off
@@ -26,110 +43,94 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Bugatchi Men's Shoes
     *   Sovereign Code Kids Up to 60% Off
     *   Easy-On Pairs: Kids' Hook &. Loop Shoes
-    *   Women's Styles Up to 75% Off
     *   TUMI
-    
-    *   Best of Ray-Ban Sunglasses
     *   Lacoste Men Starting at $20
-    *   Born Shoes
-    *   Kut from the Kloth &. Democracy Incl. Plus
-    *   DR2 Daniel Rainn &. Pleione Incl. Plus &. Petites
-    *   Lace Styles Under $50
-    *   Jackets Under $50
-    *   One-Piece Swim Up to 70% Off
-    *   Panty Packs &. More
-    *   TUMI Handbags
     *   Kenneth Cole Reaction Men's Shoes
-    *   Walk It Out: Women's Sneakers
     *   Suiting Under $250
     *   Steve Madden Men
-    *   Hiking &. Outdoor Shoes for Women
-    *   Best for Baby: Footies, Sets &. More
-    *   Swim Under $20
-    *   Women's Shoe Blowout
-    *   Men's Styles Up to 75% Off
     
-    *   Men's Shoe Styles Up to 65% Off
-    *   Sam Edelman Up to 65% Off
+    *   Best for Baby: Footies, Sets &. More
+    *   Eileen Fisher Incl. Plus &. Petites
+    *   Lush Under $35
     *   New on HauteLook: Shark Up to 20% Off
-    *   Robert Graham
-    *   Shorts for Him Starting at $20
-    *   Snuggle Up: Kids' Favorite Pajamas
     *   Ben Sherman Shoes
     *   Luxe Bath &. Body Up to 50% Off
-    *   Men's Comfort Shoes ft. Skechers
-    *   Men's Active Shoes from Mizuno &. More
     *   Men's Gift Sets
     *   WFH Essentials: Hair Tools Up to 55% Off
     *   Last Chance: Dyson Airwrap &. More
-    *   IT Cosmetics Up to 50% Off
+    *   Summer Essentials: Dresses Up to 65% Off
+    *   Summer Essentials: Shorts Up to 70% Off
+    *   Summer Essentials: Swim Up to 70% Off
+    *   Sterling Silver ft. Samuel B Jewelry
     *   Natori
-    *   Eileen Fisher Incl. Plus &. Petites
-    *   Eileen Fisher Shoes
-    *   Active Under $20
-*   WomenShop Sale Events
-    
-    *   Nest
-    *   Lush Under $35
     *   Cali Girl Vibes: Tops &. More from $25
     *   Embroidered &. Ruffled Styles
+    *   Men's Shoe Styles Up to 65% Off
+*   WomenShop Sale Events
+    
+    *   Limited-Time Price Drops Up to 70% Off
+    *   Victoria Beckham &. More: Sunglasses Under $100
+    *   Summer Essentials: Tops Under $20
+    *   Summer Essentials: Skirts Up to 70% Off
+    *   Calvin Klein
+    *   Dolce Vita Up to 70% Off
+    *   Calvin Klein Intimates, Active &. More
+    *   Screen Time: Virtual Call-Ready Beauty Finds
+    *   Sandals &. More ft. Charles David
+    *   Summer Essentials: Sport Bras, Tanks &. Crops Up to 70% Off
+    *   Women's Styles Up to 75% Off
     *   Summer Chic: Cover-Ups &. More
+    *   Eileen Fisher Shoes
+    *   Nest
+    *   Lace Styles Under $50
     *   Chic Pumps for Summer
+    
     *   Citizen Watches ft. Eco Drive
     *   Makeup We Love ft. Urban Decay, Nars &. IT Cosmetics
     *   Exclusively Ours: Nordstrom-Made Styles
-    *   Women's Styles Up to 75% Off
     *   TUMI
-    *   Best of Ray-Ban Sunglasses
-    *   Born Shoes
-    *   Kut from the Kloth &. Democracy Incl. Plus
-    *   DR2 Daniel Rainn &. Pleione Incl. Plus &. Petites
-    *   Lace Styles Under $50
-    *   Jackets Under $50
-    
-    *   One-Piece Swim Up to 70% Off
-    *   Panty Packs &. More
-    *   TUMI Handbags
-    *   Walk It Out: Women's Sneakers
-    *   Hiking &. Outdoor Shoes for Women
-    *   Swim Under $20
-    *   Women's Shoe Blowout
-    *   Sam Edelman Up to 65% Off
+    *   Eileen Fisher Incl. Plus &. Petites
+    *   Lush Under $35
     *   Luxe Bath &. Body Up to 50% Off
     *   WFH Essentials: Hair Tools Up to 55% Off
     *   Last Chance: Dyson Airwrap &. More
-    *   IT Cosmetics Up to 50% Off
+    *   Summer Essentials: Dresses Up to 65% Off
+    *   Summer Essentials: Shorts Up to 70% Off
+    *   Summer Essentials: Swim Up to 70% Off
+    *   Sterling Silver ft. Samuel B Jewelry
     *   Natori
-    *   Eileen Fisher Incl. Plus &. Petites
-    *   Eileen Fisher Shoes
-    *   Active Under $20
+    *   Cali Girl Vibes: Tops &. More from $25
+    *   Embroidered &. Ruffled Styles
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
+    *   Jewelry
     *   Lingerie &. Shapewear
-    *   Handbags
     *   Watches
+    *   Handbags
 *   MenShop Sale Events
     
+    *   Limited-Time Price Drops Up to 70% Off
+    *   Diesel Men Up to 65% Off
+    *   Victoria Beckham &. More: Sunglasses Under $100
+    *   Men's Polos Up to 70% Off
+    *   Gordon Rush
+    *   Happy at Home: Men's Slides, Slippers &. More
     *   Ben Sherman Up to 70% Off
     *   Bugatchi Men's Clothing 70% Off
     *   Citizen Watches ft. Eco Drive
+    
     *   Bugatchi Men's Shoes
     *   TUMI
-    *   Best of Ray-Ban Sunglasses
     *   Lacoste Men Starting at $20
     *   Kenneth Cole Reaction Men's Shoes
-    
     *   Suiting Under $250
     *   Steve Madden Men
-    *   Men's Styles Up to 75% Off
-    *   Men's Shoe Styles Up to 65% Off
-    *   Robert Graham
-    *   Shorts for Him Starting at $20
     *   Ben Sherman Shoes
     *   Men's Gift Sets
+    *   Men's Shoe Styles Up to 65% Off
     
     Shop By Category
     *   Shoes
@@ -138,19 +139,22 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Watches
 *   KidsShop Sale Events
     
+    *   Limited-Time Price Drops Up to 70% Off
+    *   UGG Kids
+    *   Make a Splash: Kids' Swim &. More Up to 65% Off
     *   Sovereign Code Kids Up to 60% Off
     *   Easy-On Pairs: Kids' Hook &. Loop Shoes
     *   Best for Baby: Footies, Sets &. More
-    *   Snuggle Up: Kids' Favorite Pajamas
     
     Shop By Category
     *   Girls
-    *   Boys
     *   Baby
+    *   Boys
     *   Girls' Shoes
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Limited-Time Price Drops Up to 70% Off
     *   Stationery &. More ft. Kate Spade New York at $10
     *   Light Rings by Tzumi
     *   Wall Art Up to 60% Off
@@ -159,24 +163,25 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     
     Shop By Category
     *   Home Decor
-    *   Cleaning &. Organization
     *   Luggage &. Travel
+    *   Cleaning &. Organization
     *   Electronic &. Tech Accessories
     *   Bedding
 *   BeautyShop Sale Events
     
+    *   Limited-Time Price Drops Up to 70% Off
+    *   Screen Time: Virtual Call-Ready Beauty Finds
     *   Nest
     *   Makeup We Love ft. Urban Decay, Nars &. IT Cosmetics
     *   Luxe Bath &. Body Up to 50% Off
     *   Men's Gift Sets
     *   WFH Essentials: Hair Tools Up to 55% Off
     *   Last Chance: Dyson Airwrap &. More
-    *   IT Cosmetics Up to 50% Off
     
     Shop By Category
     *   Makeup
-    *   Men’s Grooming
     *   Skin Care
+    *   Men’s Grooming
     *   Hair Care
     *   Tools &. Accessories
     *   Bath &. Body
