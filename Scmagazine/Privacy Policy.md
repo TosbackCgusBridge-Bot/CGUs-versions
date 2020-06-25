@@ -252,23 +252,23 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
-    *   Magecart skimmed from Claires.com for nearly two months
-    *   BlueLeaks files expose data from law enforcement, fusion centers
-    *   Nintendo Switch hack nearly twice as bad as first reported
-    *   FBI warns hackers targeting mobile banking app users during pandemic
-    *   Amnesty Int'l: Norway, Bahrain &. Kuwait Covid-19 apps threaten privacy
-    
-    *   'Woefully lax' security led to WikiLeaks Vault 7 dump
-    *   Amazon puts one-year moratorium on selling face recognition tech to law enforcement
-    *   India surpasses U.S., others in number of ethical hackers
-    *   Report: Lazarus Group has large-scale Covid-19 phishing campaign in the works
-    *   Equifax CISO Farshchi: Transparency, focus on behavior transformed security, culture
-    
-    *   India surpasses U.S., others in number of ethical hackers
     *   Cracking the cyber liability code leads to better insurance coverage
-    *   Evil Corp debuts WastedLocker ransomware and new TTPs, researchers say
+    *   Twitter 'incident' leaves billing info stored in browser cache
     *   CyberSC's Vogel offers insider’s guide to becoming a vCISO
-    *   Alsid’s Melber urges active directory protection to fend off new attack patterns
+    *   Malicious doc campaign unleashes Cobalt Strike on gov't, military orgs in South Asia
+    *   Party City celebrates IT risk assessment program. reveals keys to success
+    
+    *   Cyberattackers raising stakes in financial sector, security experts tell House subcommittee
+    *   Report: Lazarus Group has large-scale Covid-19 phishing campaign in the works
+    *   Magecart skimmed from Claires.com for nearly two months
+    *   Risk assessments reveal businesses remain deficient in security compliance, training
+    *   India surpasses U.S., others in number of ethical hackers: report
+    
+    *   Ex-CIA exec: Covid-19 has created ideal 'crisis' conditions for malicious hackers
+    *   Triage plan can fend off insider threats, Latson says
+    *   Party City celebrates IT risk assessment program. reveals keys to success
+    *   Triangle of network security management requires formalized process, Rodrigue says
+    *   Twitter 'incident' leaves billing info stored in browser cache
 
 Back to Top
 
