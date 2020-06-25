@@ -355,7 +355,7 @@ Depending on what Services you use, we may share the following categories of inf
 
 *   identification and demographics. device information and identifiers, such as IP address, and unique advertising identifiers and cookies. connection and usage information, such as browsing history or app usage. geolocation information, such as city. and inference data.
 
-If you would like to opt out of NBCUniversal’s use of your information for such purposes (to the extent this is considered a sale), you may do so as outlined on the following page: Do Not Sell My Personal Information.
+If you or your authorized agent would like to opt out of NBCUniversal’s use of your information for such purposes (to the extent this is considered a sale), you may do so as outlined on the following page: Do Not Sell My Personal Information.
 
 **Third Parties’ List – Shine the Light (California Residents only)**
 
