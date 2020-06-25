@@ -9,6 +9,10 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     
     Opening This Week = Limited Release
     
+    *   All I Can Say
+    *   Beats (2020)
+    *   Irresistible (2020)
+    *   The Transcendents (2020)
     *   See All Opening This Week
     
     Coming Soon
