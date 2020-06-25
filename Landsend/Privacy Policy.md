@@ -28,9 +28,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Receive up to 60% off your order!
+Up to 60% off your order!
 
-code: BLUE pin: PROMOTION DETAILS
+code: GRASS pin: PROMOTION DETAILS
 
 Customer Service Menu
 
@@ -330,4 +330,4 @@ Sustainability
 
 We're a proud partner of the National Forest Foundation. Learn More.
 
-protected by **reCAPTCHA**Privacy - TermsPrivacy - TermsIndex
+protected by **reCAPTCHA**Privacy - TermsPrivacy - TermsIndex <iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
