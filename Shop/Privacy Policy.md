@@ -316,7 +316,7 @@ Lenovo Explore Close
         *   Coupons
         
         *   Additional Offers
-        *   PCs ready to ship now
+        *   PC's ready to ship now
         *   Clearance
         *   Financing Options
         *   Discount Programs
