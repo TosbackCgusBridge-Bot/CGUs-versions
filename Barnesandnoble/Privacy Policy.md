@@ -1,4 +1,4 @@
-Effective Date: December 31, 2019
+Effective Date: June 25, 2020
 
 This Privacy Policy applies to personal and other information that may be collected when you interact with the Barnes &. Noble enterprise, which consists of (a) Barnes &. Noble, Inc. and its subsidiaries, including their respective businesses and operations (collectively, "Barnes &. Noble"). (b) businesses and operations managed or operated by Barnes &. Noble. (c) websites owned, operated and managed by Barnes &. Noble, including each website that links to this Privacy Policy, and (collectively, "Barnes &. Noble Websites"). and (d) Barnes &. Noble and NOOK devices ("Devices"), content, software and mobile applications ("Apps").
 
@@ -55,7 +55,7 @@ When you make a purchase or place an order in our stores, place an order online 
 
 Creating an account or joining a Barnes &. Noble Member Program
 
-In order to use Devices, certain Apps and features of Barnes &. Noble Websites, or to purchase or access Digital Content, you may be required to create a password-protected user account and provide us with personal information when you do so. Similarly, when you enroll in our Barnes &. Noble Member Program, Barnes &. Noble Educator Program, or B&N Kids’ Club we will ask you to submit personal information as part of your member profile. We will store and use this information to administer the programs and services in which you choose to participate, and as permitted by this Privacy Policy.
+In order to use Devices, certain Apps and features of Barnes &. Noble Websites, or to purchase or access Digital Content, you may be required to create a password-protected user account and provide us with personal information when you do so. Similarly, when you enroll in our Barnes &. Noble Member Program, Barnes &. Noble Educator Program, or B&N Kidsâ€™ Club we will ask you to submit personal information as part of your member profile. We will store and use this information to administer the programs and services in which you choose to participate, and as permitted by this Privacy Policy.
 
 Applying for a Barnes &. Noble MasterCard
 
@@ -232,7 +232,7 @@ If we direct certain Devices features or Apps to Minors who may be under the age
 
 If you are a parent or guardian who believes that your Minor under the age of 13 has submitted personal information or other information to us without your consent, please contact privacy@barnesandnoble.com. Once we verify that you are the parent or legal guardian, at your request, we will promptly provide to you information regarding what, if any, personal information we have collected about your child and how it has been used or shared. We will, at your request, remove personal information about your child from its database and instruct our affiliates and third party partners to do the same.
 
-If you are a Minor under the age of 18, you may request and obtain removal of certain content or information posted on Barnes &. Noble Websites and Apps by sending an email to privacy@barnesandnoble.com with “Privacy Rights for Minors” in the subject line. Please be advised that our removal of your post(s) does not ensure complete or comprehensive removal of the content or information you have posted on Barnes &. Noble Websites or Apps.
+If you are a Minor under the age of 18, you may request and obtain removal of certain content or information posted on Barnes &. Noble Websites and Apps by sending an email to privacy@barnesandnoble.com with â€œPrivacy Rights for Minorsâ€� in the subject line. Please be advised that our removal of your post(s) does not ensure complete or comprehensive removal of the content or information you have posted on Barnes &. Noble Websites or Apps.
 
 Data retention policy
 
@@ -247,7 +247,7 @@ You may use an authorized agent to submit a request to access your information, 
 
 Your California Privacy Rights
 
-California Civil Code 1798.115(c), 1798.130(a)(5)(c), 1798.130(c), and 1798.140 indicate that organizations should disclose whether certain categories of information are “sold” or transferred for an organization’s “business purpose” as those terms are defined under California law. You can find a list of the categories of information that we share here. Please note that because this list is comprehensive it may refer to types of information that we share about people other than yourself. If you would like more information concerning the categories of personal information (if any) we share with third parties or affiliates for those parties to use for direct marketing please submit a written request to us using the information in the "Contact Information" section below. We do not discriminate against California consumers who exercise any of their rights described in this policy.
+California Civil Code 1798.115(c), 1798.130(a)(5)(c), 1798.130(c), and 1798.140 indicate that organizations should disclose whether certain categories of information are â€œsoldâ€� or transferred for an organizationâ€™s â€œbusiness purposeâ€� as those terms are defined under California law. You can find a list of the categories of information that we share here. Please note that because this list is comprehensive it may refer to types of information that we share about people other than yourself. If you would like more information concerning the categories of personal information (if any) we share with third parties or affiliates for those parties to use for direct marketing please submit a written request to us using the information in the "Contact Information" section below. We do not discriminate against California consumers who exercise any of their rights described in this policy.
 
 Do Not Track Disclosure
 
@@ -258,6 +258,12 @@ Important information about third party devices, ISPs, websites and applications
 This Privacy Policy applies solely to information collected by the Barnes &. Noble enterprise. Whenever you click on links and banners on any Barnes &. Noble Website that take you to a third party website or you use, download or install third party software applications onto your Device, your use of those third party websites and/or software will be subject to the third party's privacy policies, not Barnes &. Noble's. Additionally, please note that when using Barnes &. Noble Websites or Apps, third party mobile device manufacturers and internet service providers (ISPs) may collect personal information about you and your use of such third party products and services will be subject to the third party's privacy policies.
 
 In addition, our website includes links to other websites whose privacy practices may differ from those of Barnes &. Noble. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
+
+Notice of Financial Incentive
+
+We provide price discounts, coupons, services and other benefits for (1) members of our Membership Program, Kidâ€™s Club, Educator Program, Cafe and other customer programs. (2) large volume customers. (3) members of our mailing list. and (4) Barnes &. Noble Account Holders (collectively â€œProgramsâ€�). Through these offerings, customers provide us with the necessary personal information (e.g., names, emails, phone numbers, educator credentials) when they opt-in to our programs. There is no obligation to opt-in and customers may opt-out at any time. The details of each Program are contained in the terms and conditions for each Program. We offer these Programs, among other things, to enhance our relationship with you so you can enjoy more of our products/services at a lower price. We invest heavily in our marketing and brands, in part, so we can provide Programs to our customers. The value to our business of customersâ€™ personal information is dependent on specific facts such as whether and to what extent they, in the aggregate, take advantage of any offerings and whether and to what extent they opt-out of any offerings. Our ability to create any value from the Programs is heavily based on our ability to leverage said intellectual properties. We do not calculate the value of customer data in our accounting statements. To the extent we create overall value from our Programs to our business that could be directly or reasonably related to the value of customer data in the aggregate, the method for calculating same would include: the costs associated with (1) our intellectual property. (2) enhancing customer data by our marketing teamâ€™s efforts. (3) leveraging our significant investments in understanding you as our existing and future customers. (4) all other costs reasonably related to the programs and (5) for each program, and in the aggregate, whether the sales generated by the program(s) exceed the cost to us of offering them.
+
+You can opt-in to, or opt-out of, our Programs at any time through the same means they are offered, or by emailing our Customer Service Department by calling Customer Service at 1-800-THE-BOOK \[1-800-843-2665\].
 
 Information collected from visitors from outside the United States
 
@@ -273,4 +279,4 @@ Contact Information
 
 If you have questions or concerns about this Privacy Policy or our privacy practices, you may contact us by emailing privacy@barnesandnoble.com. You may also mail inquiries and concerns to: Barnes &. Noble 122 Fifth Avenue, New York, NY 10011.
 
-Effective Date: December 31, 2019
+Effective Date: June 25, 2020
