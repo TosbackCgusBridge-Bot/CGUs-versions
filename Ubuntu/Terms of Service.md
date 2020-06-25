@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
-*   Design and Web team summary – 22nd June 2020
-*   Making the MAAS machine list fast with React
-*   Getting started with CUDA on Ubuntu on WSL 2
+*   Data science workflows on Kubernetes with Kubeflow pipelines: Part 1
+*   MAAS 2.8 – new features
+*   Ubuntu Masters 3: the community expands
