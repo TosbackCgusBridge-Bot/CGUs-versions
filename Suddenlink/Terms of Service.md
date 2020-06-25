@@ -11,7 +11,7 @@ Main navigation
 *   Mobile
 *   Audio
 *   Moving?
-*   Shop Now
+*   Shop now
 
 4 0 4 We can’t find that page.
 
