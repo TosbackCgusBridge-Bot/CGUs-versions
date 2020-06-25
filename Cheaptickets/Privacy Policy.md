@@ -4,7 +4,7 @@ Show Menu Hide Menu
 
 *   Shop Travel
     *   Flights
-    *   Stays
+    *   Hotels
     *   Vacation packages
     *   Cars
     *   Event Tickets
@@ -41,7 +41,7 @@ Show Menu Hide Menu
 For customer service, call us toll-free at 1-800-397-3342. For customers outside the US, please call 1-404-728-8787. International calling rates will apply.
 
 *   Flights
-*   Stays
+*   Hotels
 *   Vacation packages
 *   Cars
 *   Event Tickets
