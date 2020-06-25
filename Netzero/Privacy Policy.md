@@ -4,7 +4,7 @@ Sign in to your Email
 
 Main Menu
 
-Access Numbers Getting Started Requirements Get Software Anti Fraud Anti Spam Parental Consent Privacy Acceptable Use Cookie Policy Terms of Service
+Access Numbers Getting Started Requirements Get Software Anti Fraud Anti Spam Parental Consent Privacy Acceptable Use Cookie Policy Your Privacy Rights Terms of Service
 
 PRIVACY POLICY
 
@@ -207,7 +207,7 @@ Network Advertising Initiative: http://www.networkadvertising.org/managing/opt\_
   
   
   
-NetZero Home | My NetZero | Help | My Account | Corporate | Join Now | Site Map About NetZero | About United Online | Our Services | Advertisers | Investors | Press | Privacy Policy | Your Privacy Rights | About Ads | Terms of Service  
+NetZero Home | My NetZero | Help | My Account | Corporate | Join Now | Site Map About NetZero | About United Online | Our Services | Investors | Press | Privacy Policy | Your Privacy Rights | About Ads | Terms of Service  
 United Online NetZero | Juno | MySite
 
 © 1998-2020NetZero, Inc. NetZero is a registered trademark, and the NetZero logo is a trademark of NetZero, Inc.
