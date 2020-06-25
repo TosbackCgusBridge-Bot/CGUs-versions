@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Wednesday, June 24, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Thursday, June 25, 2020  
 
 DEBKAfile
 
@@ -44,6 +44,22 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   No countrywide lockdown planned despite 530 new covid-19 hits
+    
+    Jun 25, 2020 @ 08:18
+    
+*   Palestinian rams Kiosk Checkpoint, injures female officer
+    
+    Jun 24, 2020 @ 16:56
+    
+*   Shin Bet digital device approved for tracking covid-19 cases
+    
+    Jun 24, 2020 @ 16:46
+    
+*   Palestinian terrorist gets four life sentences for multiple murder
+    
+    Jun 24, 2020 @ 16:23
+    
 *   North Korea’s Kim Jong-un suspends military action against the South
     
     Jun 24, 2020 @ 08:43
@@ -52,38 +68,38 @@ Breaking news
     
     Jun 24, 2020 @ 07:45
     
-*   Air strikes kill 5 pro-Iranian militiamen in S. Syria - report
+*   No countrywide lockdown planned despite 530 new covid-19 hits
     
-    Jun 24, 2020 @ 07:34
+    Jun 25, 2020 @ 08:18
     
-*   Covid-10 infection hitting 459 a day, three towns under partial lockdown
+*   Palestinian rams Kiosk Checkpoint, injures female officer
     
-    Jun 23, 2020 @ 21:06
+    Jun 24, 2020 @ 16:56
     
-*   Gantz urges “responsible annexation” close to the Trump peace plan
+*   Shin Bet digital device approved for tracking covid-19 cases
     
-    Jun 23, 2020 @ 19:28
+    Jun 24, 2020 @ 16:46
     
-*   Unsuccessful drone attack on Syrian Mediterranean coastal town
+*   Palestinian terrorist gets four life sentences for multiple murder
     
-    Jun 23, 2020 @ 11:41
+    Jun 24, 2020 @ 16:23
+    
+*   North Korea’s Kim Jong-un suspends military action against the South
+    
+    Jun 24, 2020 @ 08:43
+    
+*   Joe Biden wins New York primary
+    
+    Jun 24, 2020 @ 07:45
     
 
-*   Air strikes kill 5 pro-Iranian militiamen in S. Syria - report
+*   Shin Bet digital device approved for tracking covid-19 cases
     
-    Jun 24, 2020 @ 07:34
+    Jun 24, 2020 @ 16:46
     
-*   Covid-10 infection hitting 459 a day, three towns under partial lockdown
+*   Palestinian terrorist gets four life sentences for multiple murder
     
-    Jun 23, 2020 @ 21:06
-    
-*   Gantz urges “responsible annexation” close to the Trump peace plan
-    
-    Jun 23, 2020 @ 19:28
-    
-*   Unsuccessful drone attack on Syrian Mediterranean coastal town
-    
-    Jun 23, 2020 @ 11:41
+    Jun 24, 2020 @ 16:23
     
 *   North Korea’s Kim Jong-un suspends military action against the South
     
@@ -93,21 +109,21 @@ Breaking news
     
     Jun 24, 2020 @ 07:45
     
-*   Air strikes kill 5 pro-Iranian militiamen in S. Syria - report
+*   No countrywide lockdown planned despite 530 new covid-19 hits
     
-    Jun 24, 2020 @ 07:34
+    Jun 25, 2020 @ 08:18
     
-*   Covid-10 infection hitting 459 a day, three towns under partial lockdown
+*   Palestinian rams Kiosk Checkpoint, injures female officer
     
-    Jun 23, 2020 @ 21:06
+    Jun 24, 2020 @ 16:56
     
-*   Gantz urges “responsible annexation” close to the Trump peace plan
+*   Shin Bet digital device approved for tracking covid-19 cases
     
-    Jun 23, 2020 @ 19:28
+    Jun 24, 2020 @ 16:46
     
-*   Unsuccessful drone attack on Syrian Mediterranean coastal town
+*   Palestinian terrorist gets four life sentences for multiple murder
     
-    Jun 23, 2020 @ 11:41
+    Jun 24, 2020 @ 16:23
     
 *   North Korea’s Kim Jong-un suspends military action against the South
     
@@ -117,13 +133,21 @@ Breaking news
     
     Jun 24, 2020 @ 07:45
     
-*   Air strikes kill 5 pro-Iranian militiamen in S. Syria - report
+*   No countrywide lockdown planned despite 530 new covid-19 hits
     
-    Jun 24, 2020 @ 07:34
+    Jun 25, 2020 @ 08:18
     
-*   Covid-10 infection hitting 459 a day, three towns under partial lockdown
+*   Palestinian rams Kiosk Checkpoint, injures female officer
     
-    Jun 23, 2020 @ 21:06
+    Jun 24, 2020 @ 16:56
+    
+*   Shin Bet digital device approved for tracking covid-19 cases
+    
+    Jun 24, 2020 @ 16:46
+    
+*   Palestinian terrorist gets four life sentences for multiple murder
+    
+    Jun 24, 2020 @ 16:23
     
 
 12PrevNext
