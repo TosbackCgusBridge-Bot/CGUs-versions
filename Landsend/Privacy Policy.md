@@ -28,9 +28,9 @@ Lands' End Sign In menu
 
 0 Free Shipping on $75+
 
-Up to 60% off your order!
+Receive up to 60% off your order!
 
-code: GRASS pin: PROMOTION DETAILS
+code: FLASH pin: PROMOTION DETAILS
 
 Customer Service Menu
 
