@@ -252,23 +252,23 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
+    *   Apps Aren’t the Answer: Managing COVID-19 Will Require Human-Based Contact Tracing
     *   Cracking the cyber liability code leads to better insurance coverage
-    *   Twitter 'incident' leaves billing info stored in browser cache
-    *   CyberSC's Vogel offers insider’s guide to becoming a vCISO
-    *   Malicious doc campaign unleashes Cobalt Strike on gov't, military orgs in South Asia
-    *   Party City celebrates IT risk assessment program. reveals keys to success
+    *   Evil Corp debuts WastedLocker ransomware and new TTPs, researchers say
+    *   Vulnerability in Trump campaign app revealed keys and secrets
+    *   Zoom taps Salesforce's Jason Lee as CISO
     
-    *   Cyberattackers raising stakes in financial sector, security experts tell House subcommittee
+    *   Zoom will extend optional end-to-end encryption to free users
+    *   Apps Aren’t the Answer: Managing COVID-19 Will Require Human-Based Contact Tracing
     *   Report: Lazarus Group has large-scale Covid-19 phishing campaign in the works
-    *   Magecart skimmed from Claires.com for nearly two months
-    *   Risk assessments reveal businesses remain deficient in security compliance, training
-    *   India surpasses U.S., others in number of ethical hackers: report
-    
-    *   Ex-CIA exec: Covid-19 has created ideal 'crisis' conditions for malicious hackers
-    *   Triage plan can fend off insider threats, Latson says
-    *   Party City celebrates IT risk assessment program. reveals keys to success
-    *   Triangle of network security management requires formalized process, Rodrigue says
     *   Twitter 'incident' leaves billing info stored in browser cache
+    *   Equifax CISO Farshchi: Transparency, focus on behavior transformed security, culture
+    
+    *   Dem bill would ban federal law enforcement from using facial recognition technology
+    *   Mobile ransomware disguised as upcoming Canadian Covid-19 contact tracing app
+    *   Zoom taps Salesforce's Jason Lee as CISO
+    *   OneClass unsecured S3 bucket exposes PII on more than one million students, instructors
+    *   Frost &. Sullivan employee, customer data for sale on dark web
 
 Back to Top
 
@@ -301,8 +301,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
 
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+You can skip this ad in 2 seconds.
