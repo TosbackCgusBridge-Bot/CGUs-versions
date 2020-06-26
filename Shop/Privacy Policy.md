@@ -630,7 +630,7 @@ Lenovo Explore Close
 *   Search
 
 *   LenovoPro
-    *   Sign In To LenovoPRO
+    *   Sign In To LenovoPRO <br><i>For Small Business</i>
     *   Learn more
 *   Rewards My Lenovo RewardsCreated with Sketch.
 *   Contact
