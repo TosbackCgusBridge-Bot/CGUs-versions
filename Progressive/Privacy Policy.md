@@ -172,7 +172,11 @@ Or, quote another product
 
 Loading
 
-Or, see all products Back to quote Close Site Navigation
+Select type of insurance
+
+Loading
+
+Or, see all products Disclosures Back to quote Close Site Navigation
 
 *   Explore Products
 *   Claims
@@ -316,7 +320,7 @@ Insurance doesn’t have to be complicated. Here you’ll find easy explanations
 *   Covering your jewelry &. engagement rings
 *   The average auto insurance price
 
-See all topics Close
+See all topics Close Menu
 
 *   Insurance Insurance
     *   Explore Products
