@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
-*   Data science workflows on Kubernetes with Kubeflow pipelines: Part 1
-*   MAAS 2.8 – new features
-*   Ubuntu Masters 3: the community expands
+*   Split Personality Snaps
+*   Open source holds the key to autonomous vehicles
+*   Ceph storage on VMware
