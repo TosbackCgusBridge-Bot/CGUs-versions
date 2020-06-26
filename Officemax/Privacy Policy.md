@@ -39,20 +39,20 @@ Stock Quote and Chart
 
 Price
 
-$2.30
+$2.38
 
 Change
 
-\-0.145
++0.075
 
 Percent Change
 
-(-5.93%)
+(+3.26%)
 
 Data Provided by Refinitiv. Minimum 15 minutes delayed.
 
 view details  
-Recent News Jun 18, 2020 Office Depot, Inc. Announces Appointment of D. Anthony Scaglione as Chief Financial Officer view more Recent News Jun 18, 2020 Office Depot, Inc. Announces Appointment of D. Anthony Scaglione as Chief Financial Officer view more Events Jun 4, 2020 at 10:50 AM EDT Office Depot Presents at Baird's 2020 Global Consumer, Technology &. Services Conference view more Events Jun 4, 2020 at 10:50 AM EDT Office Depot Presents at Baird's 2020 Global Consumer, Technology &. Services Conference view more Presentations Jun 04, 2020 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 04, 2020 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more
+Recent News Jun 25, 2020 Office Depot, Inc. Donates $200,000 to Youth-Focused Non-Profit Organizations to Help Students Beat the ‘Summer Slide’ view more Recent News Jun 25, 2020 Office Depot, Inc. Donates $200,000 to Youth-Focused Non-Profit Organizations to Help Students Beat the ‘Summer Slide’ view more Events Jun 4, 2020 at 10:50 AM EDT Office Depot Presents at Baird's 2020 Global Consumer, Technology &. Services Conference view more Events Jun 4, 2020 at 10:50 AM EDT Office Depot Presents at Baird's 2020 Global Consumer, Technology &. Services Conference view more Presentations Jun 04, 2020 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 04, 2020 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more
 
 *   Home
 *   News &. Events
