@@ -503,7 +503,7 @@ New + Coming soon
     
 *   Trolls World Tour (2020)
     
-*   Bill &. Ted Face the Music
+*   The Broken Hearts Gallery
     
 
 Experience + Explore
