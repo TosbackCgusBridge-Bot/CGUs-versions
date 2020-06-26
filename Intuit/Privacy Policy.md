@@ -1,7 +1,6 @@
 Our COVID-19 response  DetailsEXTRA 30% OFF w/ JCP Credit Card &. SUNFUN20 Details  
 EXTRA 25% OFF $75 or more with code: SUNFUN20 Details  
-Free Shipping Over $49  DetailsArizona Flash Sale EXTRA 40% OFF w/ code: 4ARIZONA Details  
-Our COVID-19 response  DetailsEXTRA 30% OFF w/ JCP Credit Card &. SUNFUN20 Details  
+Free Shipping Over $49  DetailsOur COVID-19 response  DetailsEXTRA 30% OFF w/ JCP Credit Card &. SUNFUN20 Details  
 
 Enable Accessibility
 
@@ -22,83 +21,67 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-20-50% OFF SwimwearSoak up the sun and the savings!Women'sMen'sGirls'Boys'UP TO 50% OFF Women's dressesCute, chic options for any event!Shop AllCasual Dressesselect stylesFloral Dressesselect styles4th of July Furniture &. Mattress SALEUP TO 60% OFF+Extra 10% OFF with couponEnds 7/15 | select stylesMattressesFurnitureUP TO 40% OFF Windowselect stylesBlackout CurtainsPerfect in nurseries &. bedroomsfor afternoon snoozesLight Filtering CurtainsWill let in the most light withoutsacrificing privacySheersGreat for east-facing windowsto welcome the morning lightBlinds &. ShadesOffer a balance between full natural lightto blackout &. easy to cleanFor family time on the go or layin' low.    UP TO 25% OFF adidas &. Championselect stylesExcluded from coupons.Shop adidasShop Champion  Learn More  Shop Now Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+ 
+
+*   Shop All
+
+*   Women
+    
+*   Men
+    
+*   Girls
+    
+*   Boys
+    
+
+Shop All4th of July Furniture &. Mattress SALEUP TO 60% OFF+Extra 10% OFF with couponEnds 7/15 | select stylesMattressesFurniture20-50% OFF SwimwearSoak up the sun and the savings!select stylesWomenMenGirlsBoysWindowSheetsBath TowelsBeddingUP TO 50% OFF Women's dressesCute, chic options for any event!Shop AllCasual Dressesselect stylesFloral Dressesselect stylesFor family time on the go or layin' low.    UP TO 25% OFF adidas &. Championselect stylesExcluded from coupons.Shop adidasShop Champion  Learn More  Shop Now Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 43 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   St. John's Bay Mid Rise Capris $11.99with code~$32~39
-*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
-    
-    $29.99sale
-    
-    ~$85~
-*   St. John's Bay-Womens Crew Neck Short Sleeve T-Shirt $5.59with code~$14~35
-*   Liz Claiborne Signature Plush Bath Towel Collection $5.59 - $38.39with code~$12 - $96~539
-*   The Foundry Big &. Tall Supply Co.-Big and Tall Mens Crew Neck Short Sleeve T-Shirt $11.99with code~$20~237
-*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+*   Sealy Essentials™ Ivory Treasure - Mattress Only $149 - $298.99with code~$430 - $920~34
+*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
     $124.98
     
-    132
+    188
+*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $4.79 - $30.39with code~$10 - $72~1688
+*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $6.39with code~$13~33
+*   Arizona Flex Mens Cargo Short $17.59with code~$40~76
+*   St. John's Bay Mid Rise Capris $11.99with code~$32~39
 
 Sponsored Items
 
+*   Circulon® Momentum 11-pc. Nonstick Cookware Set $179.99with code~$400~136
 *   Dyson® V8 Animal Cord-Free Vacuum
     
     $569.99sale
     
     ~$669~186
-*   Fisher-Price Laugh &. Learn Smart Stages Sis
+*   Fisher-Price Classic Xylophone
     
-    $19.99
+    $15.99
     
-    49
-*   Farberware 12-Pc. Cookware Set $142.50with code52
-*   Circulon® Momentum 11-pc. Nonstick Cookware Set $179.99with code~$400~136
+    7
+*   Farberware Cookstart 15-pc. Cookware Set $67.49with code~$120~61
 *   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $15.99with code~$30~
-*   Samsung Galaxy Active Mens Green Smart Watch-Sm-R500nzgaxar
-    
-    $199.99
-    
-    185
-*   Bella Spiralizer
-    
-    $23.99clearance
-    
-    ~$80~66
+*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
 *   Brim 8-Cup Electric Pour Over Coffee Maker
     
     $249.99sale
     
     ~$275~38
-*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
-*   Rachael Ray Create Delicious 11-Pc. Cookware Set
+*   Rachael Ray Create Delicious 10.25-Inch Deep Skillet
     
-    $179.99sale
+    $39.99sale
     
-    ~$300~17
-*   Fisher-Price Laugh &. Learn Smart Stages Puppy
+    ~$70~22
+*   Bella Spiralizer
     
-    $19.99
+    $23.99clearance
     
-    62
-*   Bissell® SpinWave® Hard Floor Spin Mop
+    ~$80~66
+*   Ayesha Curry™ Home Collection 2-pc. 9.25" &. 11.5" Skillet Set
     
-    $129
-    
-    1010
-*   Ayesha Curry™ Home Collection 12-pc. Cookware Set
-    
-    $159.99sale
-    
-    ~$240~23
-*   Fisher-Price Linkimals Smooth Moves Sloth
-    
-    $29.99
-    
-    36
-*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
-    
-    $14.99
+    $80
     
     10
 *   Fisher-Price Learn with Me Zebra Walker
@@ -106,17 +89,37 @@ Sponsored Items
     $24.99
     
     40
-*   Farberware Cookstart 15-pc. Cookware Set $67.49with code~$120~61
+*   Bissell® SpinWave® Hard Floor Spin Mop
+    
+    $129
+    
+    1010
+*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
+    
+    $14.99
+    
+    10
+*   Fisher-Price Laugh &. Learn Smart Stages Sis
+    
+    $19.99
+    
+    49
 *   Fisher-Price Soothe and Go Giraffe
     
     $9.99
     
-*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $89.99with code~$180~55
 *   Fisher-Price Linkimals A To Z Otter
     
     $19.99
     
     23
+*   Fisher-Price Linkimals Smooth Moves Sloth
+    
+    $29.99
+    
+    36
+*   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $89.99with code~$180~36
+*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $89.99with code~$180~55
 
 Shop and Save at JCPenney
 
