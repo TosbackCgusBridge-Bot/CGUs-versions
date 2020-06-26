@@ -37,6 +37,7 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
+*   Face Coverings
 *   Pride
 *   Twisted for Tie Dye
 *   Get Cozy
@@ -66,6 +67,7 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
+*   Face Coverings
 *   Pride
 *   Twisted for Tie Dye
 *   Get Cozy
@@ -143,6 +145,7 @@ Close submenu ( Girls ) Girls
 
 *   View All
 *   Just In
+*   Face Coverings
 *   Best Sellers
 *   Online Only
 *   Destroyed Denim
@@ -158,6 +161,7 @@ Close submenu ( Guys ) Guys
 
 *   View All
 *   Just In
+*   Face Coverings
 *   Best Sellers
 *   Online Only
 *   Real Denim
@@ -219,6 +223,7 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
+        *   Face Coverings
         *   Pride
         *   Twisted for Tie Dye
         *   Get Cozy
@@ -244,6 +249,7 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
+        *   Face Coverings
         *   Pride
         *   Twisted for Tie Dye
         *   Get Cozy
@@ -307,6 +313,7 @@ Menu Find a Store Aeropostale
     *   Girls
         *   View All
         *   Just In
+        *   Face Coverings
         *   Best Sellers
         *   Online Only
         *   Destroyed Denim
@@ -321,6 +328,7 @@ Menu Find a Store Aeropostale
     *   Guys
         *   View All
         *   Just In
+        *   Face Coverings
         *   Best Sellers
         *   Online Only
         *   Real Denim
@@ -366,14 +374,28 @@ precautionary measures in our warehouse to ensure the health and safety of
 our customers and associates. Because of this your shipment may experience  
 delays. Thank you for your patience and understanding. Learn More &. Stay Safe
 
-STAND TALL. STAND PROUD. STAND OUT.
+In Stores &. Online.
 
-Take pride in who you are  
-Celebrate individuality together.
+New! Aero Bandanas
+
+Soft fabrics. Fun colors. Classic bandana prints. Consider yourself covered.
+
+In Stores &. Online.
+
+New! Aero  
+Bandanas
+
+Soft fabrics. Fun colors. Classic  
+bandana prints. Consider  
+yourself covered.
+
+Shop Girls Shop Guys
 
 In Stores &. Online
 
 50-70% Off Everything!
+
+&. Our Biggest Shorts Event of The Season!
 
 \*Exclusions Apply
 
@@ -387,22 +409,12 @@ Event of The Season!
 
 \*Exclusions Apply
 
-Shop Girls Shop Guys Shop Girls Shop Guys Girls Shorts **$11.87 &. Up** Guys Shorts **$12 &. Up**
+Shop Girls Shop Guys Girls Shorts **$11.87 &. Up** Guys Shorts **$12 &. Up**
 
-Now Back in Stock:  
-Your Sold out Aero Faves!
+STAND TALL. STAND PROUD. STAND OUT.
 
-&. Our  
-Biggest Shorts  
-Event of  
-The Season!
-
-Girls Shorts **$11.87 &. Up** Guys Shorts **$12 &. Up**
-
-Now Back  
-in Stock:  
-Your Sold out  
-Aero Faves!
+Take pride in who you are  
+Celebrate individuality together.
 
 **Girls  
 Shorts**
