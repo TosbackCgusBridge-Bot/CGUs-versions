@@ -26,7 +26,8 @@
     *   Financial calendar
     *   Corporate structure
     *   Governance
-    *   *   Guiding principles
+    *   *   Modern Slavery Act Statement
+        *   Guiding principles
         *   Privacy
         *   Cookies information
     
@@ -52,7 +53,8 @@ The Economist Newspaper privacy statement
     *   Financial calendar
     *   Corporate structure
     *   Governance
-    *   *   Guiding principles
+    *   *   Modern Slavery Act Statement
+        *   Guiding principles
         *   Privacy
         *   Cookies information
     *   Ownership
