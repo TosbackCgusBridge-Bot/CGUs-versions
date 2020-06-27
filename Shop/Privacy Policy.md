@@ -630,7 +630,7 @@ Lenovo Explore Close
 *   Search
 
 *   LenovoPro
-    *   Sign In To LenovoPRO <br><i>For Small Business</i>
+    *   Sign In To LenovoPRO For Small Business
     *   Learn more
 *   Rewards My Lenovo RewardsCreated with Sketch.
 *   Contact
@@ -660,7 +660,7 @@ Lenovo Explore Close
     *   Product registration
 *   Cart
 *   LenovoPro
-    *   Sign In To LenovoPRO
+    *   Sign In To LenovoPRO For Small Business
     *   Learn more
 *   Contact
     *   HELP PLACING AN ORDER ${contactNumber}
@@ -676,7 +676,7 @@ Lenovo Explore Close
     *   Logout
 *   Cart
 *   LenovoPro
-    *   Sign In To LenovoPRO
+    *   Sign In To LenovoPRO For Small Business
     *   Learn more
 *   Contact
     *   HELP PLACING AN ORDER ${contactNumber}
@@ -692,7 +692,7 @@ Lenovo Explore Close
     *   Logout
 *   Cart
 *   LenovoPro
-    *   Sign In To LenovoPRO
+    *   Sign In To LenovoPRO For Small Business
     *   Learn more
 *   Contact
     *   HELP PLACING AN ORDER ${contactNumber}
@@ -1209,7 +1209,7 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Created with sketchtool.CHAT NOW
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement **Need help with an order? Talk to a representative at 1-855-253-6686 #2** **or chatChat Now** **Need help with an order? Talk to a representative at 1-855-253-6686 #2** **or chatChat Now**×Created with sketchtool.CHAT NOW
 
 How can we help
 
