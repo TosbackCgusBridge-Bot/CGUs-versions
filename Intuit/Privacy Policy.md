@@ -7,7 +7,7 @@ Enable Accessibility
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   Deals &. Trending
 *   Home &. Lifestyle
@@ -34,92 +34,27 @@ Enable Accessibility
 *   Boys
     
 
-Shop All4th of July Furniture &. Mattress SALEUP TO 60% OFF+Extra 10% OFF with couponEnds 7/15 | select stylesMattressesFurniture20-50% OFF SwimwearSoak up the sun and the savings!select stylesWomenMenGirlsBoysWindowSheetsBath TowelsBeddingUP TO 50% OFF Women's dressesCute, chic options for any event!Shop AllCasual Dressesselect stylesFloral Dressesselect stylesFor family time on the go or layin' low.    UP TO 25% OFF adidas &. Championselect stylesExcluded from coupons.Shop adidasShop Champion  Learn More  Shop Now Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+Shop AllWindowBedding &. Bath4th of July Furniture &. Mattress SALEUP TO 60% OFF+EXTRA 10% OFF with couponends 7/15 | select stylesMattressesFurniture20-50% OFF SwimwearSoak up the sun and the savings!select stylesWomenMenGirlsBoysUP TO 50% OFF Women's dressesCute, chic options for any event!Shop AllCasual Dressesselect stylesFloral Dressesselect stylesFor family time on the go or layin' low.    UP TO 25% OFF adidas &. Championselect stylesExcluded from coupons.Shop adidasShop Champion  Learn More  Shop Now Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 43 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Sealy Essentials™ Ivory Treasure - Mattress Only $149 - $298.99with code~$430 - $920~34
 *   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
     $124.98
     
     188
-*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $4.79 - $30.39with code~$10 - $72~1688
-*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $6.39with code~$13~33
-*   Arizona Flex Mens Cargo Short $17.59with code~$40~76
-*   St. John's Bay Mid Rise Capris $11.99with code~$32~39
-
-Sponsored Items
-
-*   Circulon® Momentum 11-pc. Nonstick Cookware Set $179.99with code~$400~136
-*   Dyson® V8 Animal Cord-Free Vacuum
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
-    $569.99sale
+    $124.98
     
-    ~$669~186
-*   Fisher-Price Classic Xylophone
+    132
+*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
     
-    $15.99
+    $29.99sale
     
-    7
-*   Farberware Cookstart 15-pc. Cookware Set $67.49with code~$120~61
-*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $15.99with code~$30~
-*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
-*   Brim 8-Cup Electric Pour Over Coffee Maker
-    
-    $249.99sale
-    
-    ~$275~38
-*   Rachael Ray Create Delicious 10.25-Inch Deep Skillet
-    
-    $39.99sale
-    
-    ~$70~22
-*   Bella Spiralizer
-    
-    $23.99clearance
-    
-    ~$80~66
-*   Ayesha Curry™ Home Collection 2-pc. 9.25" &. 11.5" Skillet Set
-    
-    $80
-    
-    10
-*   Fisher-Price Learn with Me Zebra Walker
-    
-    $24.99
-    
-    40
-*   Bissell® SpinWave® Hard Floor Spin Mop
-    
-    $129
-    
-    1010
-*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
-    
-    $14.99
-    
-    10
-*   Fisher-Price Laugh &. Learn Smart Stages Sis
-    
-    $19.99
-    
-    49
-*   Fisher-Price Soothe and Go Giraffe
-    
-    $9.99
-    
-*   Fisher-Price Linkimals A To Z Otter
-    
-    $19.99
-    
-    23
-*   Fisher-Price Linkimals Smooth Moves Sloth
-    
-    $29.99
-    
-    36
-*   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $89.99with code~$180~36
-*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $89.99with code~$180~55
+    ~$85~
+*   Sealy Essentials™ Ivory Treasure - Mattress Only $149 - $298.99with code~$430 - $920~34
+*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $23.99 - $43.19with code~$50 - $90~219
+*   Samsonite Medium Printed Luggage Cover $23.99with code~$50~9
 
 Shop and Save at JCPenney
 
