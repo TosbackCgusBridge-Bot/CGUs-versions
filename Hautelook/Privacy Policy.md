@@ -9,11 +9,28 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   adidas
+    *   TOMS Starting at $30
+    *   TOMS Men Starting at $30
+    *   TOMS Kids
+    *   Lucky Brand Up to 70% Off Incl. Plus
+    *   Summer Basics: Tees, Dresses &. More
+    *   Dr. Scholl's Up to 60% Off
+    *   BergHOFF: Kitchen Blowouts
+    *   Best of Summer: Tops Under $40
+    *   Summer Active Essentials: Bottoms
+    *   Summer Active Essentials: Tops
+    *   Swim Up to 70% Off
+    *   Elodie Under $30
+    *   Day to Night: Block Heels for Summer
+    *   Slate amp Stone Up to 80 Off
+    *   Summer's Best: Intimates &. Sleep
+    *   Starting at $15: Kids' Sandals
+    *   Lucky Brand Men Up to 70% Off
     *   adidas Active Starting at $20
+    *   adidas
+    
     *   adidas Men
     *   Givenchy Sunglasses &. More Up to 70% Off
-    *   Lafayette 148 New York Up to 75% Off
     *   adidas Kids
     *   Eliza J Up to 70% Off
     *   Fresh Finds: Wide-Leg Pants &. Jumpsuits
@@ -24,108 +41,89 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Robert Graham Up to 70% Off
     *   Sets We Love
     *   Men's Outdoor Shoes ft. SOREL
-    *   Summer's Best: Intimates &. Sleep
     *   UGG Kids
     *   Diesel Men Up to 65% Off
-    *   Victoria Beckham &. More: Sunglasses Under $100
-    
     *   Sterling Silver ft. Samuel B Jewelry
-    *   Men's Polos Up to 70% Off
-    *   Screen Time: Virtual Call-Ready Beauty Finds
-    *   Sandals &. More ft. Charles David
-    *   Gordon Rush
-    *   Happy at Home: Men's Slides, Slippers &. More
-    *   Make a Splash: Kids' Swim &. More Up to 65% Off
-    *   Nest
-    *   Stationery &. More ft. Kate Spade New York at $10
-    *   Light Rings by Tzumi
-    *   Wall Art Up to 60% Off
-    *   Ben Sherman Up to 70% Off
-    *   Bugatchi Men's Clothing 70% Off
-    *   Makeup We Love ft. Urban Decay, Nars &. IT Cosmetics
-    *   Bugatchi Men's Shoes
-    *   Sovereign Code Kids Up to 60% Off
-    *   Easy-On Pairs: Kids' Hook &. Loop Shoes
-    *   Kenneth Cole Reaction Men's Shoes
-    *   Steve Madden Men
-    
     *   Summer Essentials: Dresses Up to 65% Off
     *   Summer Essentials: Shorts Up to 70% Off
     *   Summer Essentials: Swim Up to 70% Off
     *   Summer Essentials: Tops Under $20
-    *   Summer Essentials: Skirts Up to 70% Off
-    *   Calvin Klein
-    *   Dolce Vita Up to 70% Off
-    *   Calvin Klein Intimates, Active &. More
+    
+    *   Make a Splash: Kids' Swim &. More Up to 65% Off
+    *   Lafayette 148 New York Up to 75% Off
     *   Summer Essentials: Sport Bras, Tanks &. Crops Up to 70% Off
-    *   Eileen Fisher Incl. Plus &. Petites
-    *   Eileen Fisher Shoes
-    *   Natori
+    *   Stationery &. More ft. Kate Spade New York at $10
+    *   Light Rings by Tzumi
+    *   Wall Art Up to 60% Off
+    *   Makeup We Love ft. Urban Decay, Nars &. IT Cosmetics
+    *   Bugatchi Men's Shoes
     *   New on HauteLook: Shark Up to 20% Off
-    *   Luxe Bath &. Body Up to 50% Off
-    *   Last Chance: Dyson Airwrap &. More
-    *   Lace Styles Under $50
-    *   Women's Styles Up to 75% Off
+    *   Road Trip Essentials for Kids
+    *   Shun Cutlery ft. Kanso Collection
+    *   Road Trip Essentials: Luggage &. More
+    *   Men's Polos Up to 70% Off
+    *   Screen Time: Virtual Call-Ready Beauty Finds
+    *   Gordon Rush
+    *   Happy at Home: Men's Slides, Slippers &. More
+    *   Nest
 *   WomenShop Sale Events
     
-    *   adidas
+    *   TOMS Starting at $30
+    *   Lucky Brand Up to 70% Off Incl. Plus
+    *   Summer Basics: Tees, Dresses &. More
+    *   Dr. Scholl's Up to 60% Off
+    *   Best of Summer: Tops Under $40
+    *   Summer Active Essentials: Bottoms
+    *   Summer Active Essentials: Tops
+    *   Swim Up to 70% Off
+    *   Elodie Under $30
+    *   Day to Night: Block Heels for Summer
+    *   Summer's Best: Intimates &. Sleep
     *   adidas Active Starting at $20
+    *   adidas
     *   Givenchy Sunglasses &. More Up to 70% Off
-    *   Lafayette 148 New York Up to 75% Off
     *   Eliza J Up to 70% Off
+    
     *   Fresh Finds: Wide-Leg Pants &. Jumpsuits
     *   Cropped Styles from $25
     *   Summer Style: Sandals Up to 60% Off
     *   Sets We Love
-    *   Summer's Best: Intimates &. Sleep
-    *   Victoria Beckham &. More: Sunglasses Under $100
     *   Sterling Silver ft. Samuel B Jewelry
-    *   Screen Time: Virtual Call-Ready Beauty Finds
-    *   Sandals &. More ft. Charles David
-    *   Nest
-    *   Makeup We Love ft. Urban Decay, Nars &. IT Cosmetics
-    
     *   Summer Essentials: Dresses Up to 65% Off
     *   Summer Essentials: Shorts Up to 70% Off
     *   Summer Essentials: Swim Up to 70% Off
     *   Summer Essentials: Tops Under $20
-    *   Summer Essentials: Skirts Up to 70% Off
-    *   Calvin Klein
-    *   Dolce Vita Up to 70% Off
-    *   Calvin Klein Intimates, Active &. More
+    *   Lafayette 148 New York Up to 75% Off
     *   Summer Essentials: Sport Bras, Tanks &. Crops Up to 70% Off
-    *   Eileen Fisher Incl. Plus &. Petites
-    *   Eileen Fisher Shoes
-    *   Natori
-    *   Luxe Bath &. Body Up to 50% Off
-    *   Last Chance: Dyson Airwrap &. More
-    *   Lace Styles Under $50
-    *   Women's Styles Up to 75% Off
+    *   Makeup We Love ft. Urban Decay, Nars &. IT Cosmetics
+    *   Road Trip Essentials: Luggage &. More
+    *   Screen Time: Virtual Call-Ready Beauty Finds
+    *   Nest
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Lingerie &. Shapewear
     *   Accessories
+    *   Lingerie &. Shapewear
+    *   Handbags
 *   MenShop Sale Events
     
+    *   TOMS Men Starting at $30
+    *   Slate amp Stone Up to 80 Off
+    *   Lucky Brand Men Up to 70% Off
     *   adidas Men
     *   Givenchy Sunglasses &. More Up to 70% Off
     *   WFH Style: Men's Clothing Up to 70% Off
     *   Robert Graham Up to 70% Off
+    
     *   Men's Outdoor Shoes ft. SOREL
     *   Diesel Men Up to 65% Off
-    *   Victoria Beckham &. More: Sunglasses Under $100
+    *   Bugatchi Men's Shoes
+    *   Road Trip Essentials: Luggage &. More
     *   Men's Polos Up to 70% Off
-    
     *   Gordon Rush
     *   Happy at Home: Men's Slides, Slippers &. More
-    *   Ben Sherman Up to 70% Off
-    *   Bugatchi Men's Clothing 70% Off
-    *   Bugatchi Men's Shoes
-    *   Kenneth Cole Reaction Men's Shoes
-    *   Steve Madden Men
     
     Shop By Category
     *   Clothing
@@ -133,48 +131,49 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   TOMS Kids
+    *   Starting at $15: Kids' Sandals
     *   adidas Kids
     *   UGG Kids
     *   Make a Splash: Kids' Swim &. More Up to 65% Off
-    *   Sovereign Code Kids Up to 60% Off
-    *   Easy-On Pairs: Kids' Hook &. Loop Shoes
+    *   Road Trip Essentials for Kids
     
     Shop By Category
     *   Girls
-    *   Boys
-    *   Baby
     *   Girls' Shoes
+    *   Baby
+    *   Boys
     *   Boys' Shoes
+    *   Toys
 *   HomeShop Sale Events
     
+    *   BergHOFF: Kitchen Blowouts
     *   Luxe Faux Fur Throws &. Rugs
     *   Stationery &. More ft. Kate Spade New York at $10
     *   Light Rings by Tzumi
     *   Wall Art Up to 60% Off
     *   New on HauteLook: Shark Up to 20% Off
+    *   Shun Cutlery ft. Kanso Collection
     
     Shop By Category
-    *   Home Decor
     *   Luggage &. Travel
+    *   Home Decor
+    *   Kitchen &. Tabletop
     *   Cleaning &. Organization
     *   Rugs &. Doormats
     *   Electronic &. Tech Accessories
-    *   Bedding
 *   BeautyShop Sale Events
     
     *   Sets We Love
+    *   Makeup We Love ft. Urban Decay, Nars &. IT Cosmetics
     *   Screen Time: Virtual Call-Ready Beauty Finds
     *   Nest
-    *   Makeup We Love ft. Urban Decay, Nars &. IT Cosmetics
-    *   Luxe Bath &. Body Up to 50% Off
-    *   Last Chance: Dyson Airwrap &. More
     
     Shop By Category
     *   Makeup
-    *   Skin Care
     *   Hair Care
+    *   Skin Care
     *   Tools &. Accessories
-    *   Bath &. Body
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
