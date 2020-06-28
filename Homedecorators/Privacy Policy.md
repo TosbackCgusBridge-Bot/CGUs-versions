@@ -1,13 +1,13 @@
 Compare <img src="https://images.homedepot-static.com/productImages/b6deeb2a-7ca6-4350-af66-835956a7e26c/svn/coastal-oak-home-decorators-collection-vinyl-plank-flooring-03918-64\_400\_compressed.jpg" alt="Coastal Oak 7.5 in. L x 47.6 in. W Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/f7/f7612926-dcf2-4a7b-b0be-a484c91251a9\_400\_compressed.jpg" alt="Coastal Oak 7.5 in. L x 47.6 in. W Luxury Vinyl Plank Flooring (24.74 sq. ft. / case)" class="secondary-image has-secondary-image"/>.
 
-More Options Available Exclusive Home Decorators Collection Coastal Oak 7.5 in. L x 47.6 in. W Luxury Vinyl Plank Flooring (24.74 sq. ft. / case) Model#  03918 (1299) $239 /sq. ft. ( $59.12  /case) $239 /sq. ft. ( $59.12  /case) Standard delivery
+More Options Available Exclusive Home Decorators Collection Coastal Oak 7.5 in. L x 47.6 in. W Luxury Vinyl Plank Flooring (24.74 sq. ft. / case) Model#  03918 (1302) $239 /sq. ft. ( $59.12  /case) $239 /sq. ft. ( $59.12  /case) Standard delivery
 
 Set your store to see local  
 availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/c31f3112-3a04-45e6-80b2-2849f1428fd0/svn/home-decorators-collection-bathroom-vanities-with-tops-15101-vs61c-wt-64\_400\_compressed.jpg" alt="Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/0a/0ac508cc-6bdf-4b81-932d-1338ae45e9a2\_400\_compressed.jpg" alt="Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink" class="secondary-image has-secondary-image"/>.
 
-More Options Available Best Seller Home Decorators Collection Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink Model#  15101-VS61C-WT View the Windlowe Collection (246) $1,43910 $1,599.00 Save $159.90 (10%) $1,43910 $1,599.00 Save $159.90 (10%) Free delivery
+More Options Available Best Seller Home Decorators Collection Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink Model#  15101-VS61C-WT View the Windlowe Collection (247) $1,43910 $1,599.00 Save $159.90 (10%) $1,43910 $1,599.00 Save $159.90 (10%) Free delivery
 
 Set your store to see local  
 availability
@@ -19,28 +19,28 @@ availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/dcf03579-7101-442d-b8cd-2210a69cb0a7/svn/silverton-oak-home-decorators-collection-laminate-wood-flooring-hdcwr18-64\_400\_compressed.jpg" alt="Water Resistant EIR Silverton Oak 8 mm Thick x 7-1/2 in. Wide x 50-2/3 in Length Laminate Flooring (23.69 sq. ft./ case)" />.
 
-More Options Available Home Decorators Collection Water Resistant EIR Silverton Oak 8 mm Thick x 7-1/2 in. Wide x 50-2/3 in Length Laminate Flooring (23.69 sq. ft./ case) Model#  HDCWR18 (136) $158 /sq. ft. ( $37.43  /case) $158 /sq. ft. ( $37.43  /case) Standard delivery
+More Options Available Home Decorators Collection Water Resistant EIR Silverton Oak 8 mm Thick x 7-1/2 in. Wide x 50-2/3 in Length Laminate Flooring (23.69 sq. ft./ case) Model#  HDCWR18 (137) $158 /sq. ft. ( $37.43  /case) $158 /sq. ft. ( $37.43  /case) Standard delivery
 
 Set your store to see local  
 availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/60d89270-797a-4f5a-b78e-b27afdcfd402/svn/matte-black-home-decorators-collection-ceiling-fans-with-lights-sw1422mbk-64\_400\_compressed.jpg" alt="Merwry 52 in. Integrated LED Indoor Matte Black Ceiling Fan with Light Kit and Remote Control" />.
 
-More Options Available Exclusive Home Decorators Collection Merwry 52 in. Integrated LED Indoor Matte Black Ceiling Fan with Light Kit and Remote Control Model#  SW1422MBK View the Merwry Collection (2048) $11900 $11900 Free delivery
+More Options Available Exclusive Home Decorators Collection Merwry 52 in. Integrated LED Indoor Matte Black Ceiling Fan with Light Kit and Remote Control Model#  SW1422MBK View the Merwry Collection (2053) $11900 $11900 Free delivery
 
 Set your store to see local  
 availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/929d3e28-242b-456f-8c79-cd79185c5c0d/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-yg493b-bn-64\_400\_compressed.jpg" alt="Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control" />.
 
-More Options Available Exclusive Home Decorators Collection Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control Model#  YG493B-BN (441) $20900 $249.00 Save $40.00 (16%) $20900 $249.00 Save $40.00 (16%) Limit 10 per order Free delivery
+More Options Available Exclusive Home Decorators Collection Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control Model#  YG493B-BN (444) $20900 $249.00 Save $40.00 (16%) $20900 $249.00 Save $40.00 (16%) Limit 10 per order Free delivery
 
 Set your store to see local  
 availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/f9f965b6-badc-456c-89b3-3b4973d7c6ea/svn/matte-black-home-decorators-collection-ceiling-fans-with-lights-yg493odc-mbk-64\_400\_compressed.jpg" alt="Kensgrove 72 in. LED Indoor/Outdoor Matte Black Ceiling Fan with Light and Remote Control" />.
 
-More Options Available Exclusive Home Decorators Collection Kensgrove 72 in. LED Indoor/Outdoor Matte Black Ceiling Fan with Light and Remote Control Model#  YG493ODC-MBK (1752) $23900 $299.00 Save $60.00 (20%) $23900 $299.00 Save $60.00 (20%) Limit 10 per order Free delivery
+More Options Available Exclusive Home Decorators Collection Kensgrove 72 in. LED Indoor/Outdoor Matte Black Ceiling Fan with Light and Remote Control Model#  YG493ODC-MBK (1761) $23900 $299.00 Save $60.00 (20%) $23900 $299.00 Save $60.00 (20%) Limit 10 per order Free delivery
 
 Set your store to see local  
 availability
@@ -54,14 +54,14 @@ availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/88585032-78c9-4dba-982a-623dfc73116d/svn/polar-white-home-decorators-collection-hall-trees-7474200410-64\_400\_compressed.jpg" alt="Royce Polar White 79.25&quot. Hall Tree" />.
 
-More Options Available Best Seller Home Decorators Collection Royce Polar White 79.25" Hall Tree Model#  7474200410 View the Royce Collection in Polar White (351) $82425 $1,373.75 Save $549.50 (40%) $82425 $1,373.75 Save $549.50 (40%) Standard delivery
+More Options Available Best Seller Home Decorators Collection Royce Polar White 79.25" Hall Tree Model#  7474200410 View the Royce Collection in Polar White (352) $82425 $1,373.75 Save $549.50 (40%) $82425 $1,373.75 Save $549.50 (40%) Standard delivery
 
 Set your store to see local  
 availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/b8379420-5835-4b1e-94e2-52c0fa804fcd/svn/montrose-oak-home-decorators-collection-laminate-wood-flooring-hdcwr24-64\_400\_compressed.jpg" alt="Water Resistant 12mm Montrose Oak 12 mm T x 7-1/2 in. Wide x 50-2/3 in. Length Laminate Flooring (18.42 sq. ft./ case)" />.
 
-More Options Available Home Decorators Collection Water Resistant 12mm Montrose Oak 12 mm T x 7-1/2 in. Wide x 50-2/3 in. Length Laminate Flooring (18.42 sq. ft./ case) Model#  HDCWR24 (331) $229 /sq. ft. ( $42.18  /case) $229 /sq. ft. ( $42.18  /case) Standard delivery
+More Options Available Home Decorators Collection Water Resistant 12mm Montrose Oak 12 mm T x 7-1/2 in. Wide x 50-2/3 in. Length Laminate Flooring (18.42 sq. ft./ case) Model#  HDCWR24 (332) $229 /sq. ft. ( $42.18  /case) $229 /sq. ft. ( $42.18  /case) Standard delivery
 
 Set your store to see local  
 availability
@@ -73,7 +73,7 @@ Home Decorators Collection Distressed Brown Hickory 12 mm Thick x 6-1/4 in. Wide
 Set your store to see local  
 availability
 
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/36a1ddf2-89c0-442e-b851-f1eaa7b279ee/svn/distressed-grey-oak-home-decorators-collection-vinyl-plank-flooring-60198-64\_400\_compressed.jpg" alt="Stony Oak Grey 6 in. x 36 in. Luxury Vinyl Plank Flooring (20.34 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/3c/3c9a9e59-a9d8-4d60-9549-c725cf472aba\_400\_compressed.jpg" alt="Stony Oak Grey 6 in. x 36 in. Luxury Vinyl Plank Flooring (20.34 sq. ft. / case)" class="secondary-image has-secondary-image"/>. Home Decorators Collection Stony Oak Grey 6 in. x 36 in. Luxury Vinyl Plank Flooring (20.34 sq. ft. / case) Model#  60198 (734) $215 /sq. ft. ( $43.73  /case) $2.39 Save 10% $215 /sq. ft. ( $43.73  /case) $2.39 Save 10% Schedule delivery
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/36a1ddf2-89c0-442e-b851-f1eaa7b279ee/svn/distressed-grey-oak-home-decorators-collection-vinyl-plank-flooring-60198-64\_400\_compressed.jpg" alt="Stony Oak Grey 6 in. x 36 in. Luxury Vinyl Plank Flooring (20.34 sq. ft. / case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/3c/3c9a9e59-a9d8-4d60-9549-c725cf472aba\_400\_compressed.jpg" alt="Stony Oak Grey 6 in. x 36 in. Luxury Vinyl Plank Flooring (20.34 sq. ft. / case)" class="secondary-image has-secondary-image"/>. Home Decorators Collection Stony Oak Grey 6 in. x 36 in. Luxury Vinyl Plank Flooring (20.34 sq. ft. / case) Model#  60198 (737) $215 /sq. ft. ( $43.73  /case) $2.39 Save 10% $215 /sq. ft. ( $43.73  /case) $2.39 Save 10% Schedule delivery
 
 Set your store to see local  
 availability
@@ -82,7 +82,7 @@ Compare <img src="https://images.homedepot-static.com/catalog/productImages/400\
 
 More Options Available
 
-Exclusive Home Decorators Collection 2 in. Cordless Faux Wood (10984) $2297 - $7997 Free delivery
+Exclusive Home Decorators Collection 2 in. Cordless Faux Wood (11032) $2297 - $7997 Free delivery
 
 Set your store to see local  
 availability
@@ -100,12 +100,19 @@ Build and Buy Compare <img src="https://images.homedepot-static.com/productImage
 
 Custom Options Available Guaranteed to Fit
 
-Home Decorators Collection 2" Cordless Faux Wood Model#  534104 (486) Starting at $5670 Free delivery
+Home Decorators Collection 2" Cordless Faux Wood Model#  534104 (489) Starting at $5670 Free delivery
 
 Set your store to see local  
 availability
 
-Build and Buy Compare <img src="https://images.homedepot-static.com/productImages/659d8941-3849-43f4-8ee2-e2bab16b699a/svn/home-decorators-collection-bathroom-vanities-with-tops-md-v1836-64\_400\_compressed.jpg" alt="Sadie 67 in. W x 21.5 in. D Vanity in Antique Light Cyan with Marble Vanity Top in Natural White with White Sinks" />.
+Build and Buy Compare <img src="https://images.homedepot-static.com/productImages/97cfab57-6876-43f7-baf1-7e2ab00f3014/svn/bronze-home-decorators-collection-ceiling-fans-with-lights-59201-64\_400\_compressed.jpg" alt="Shanahan 52 in. LED Indoor/Outdoor Bronze Ceiling Fan with Light Kit" />.
+
+More Options Available Exclusive Home Decorators Collection Shanahan 52 in. LED Indoor/Outdoor Bronze Ceiling Fan with Light Kit Model#  59201 (226) $14900 $14900 Free delivery
+
+Set your store to see local  
+availability
+
+Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/659d8941-3849-43f4-8ee2-e2bab16b699a/svn/home-decorators-collection-bathroom-vanities-with-tops-md-v1836-64\_400\_compressed.jpg" alt="Sadie 67 in. W x 21.5 in. D Vanity in Antique Light Cyan with Marble Vanity Top in Natural White with White Sinks" />.
 
 More Options Available Home Decorators Collection Sadie 67 in. W x 21.5 in. D Vanity in Antique Light Cyan with Marble Vanity Top in Natural White with White Sinks Model#  MD-V1836 View the Sadie Collection (264) $77940 $1,299.00 Save $519.60 (40%) $77940 $1,299.00 Save $519.60 (40%) Limit 5 per order Free delivery
 
@@ -114,7 +121,7 @@ availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/58afdb17-2193-44c3-8ce6-a4e9a287c057/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-26663-64\_400\_compressed.jpg" alt="Windward IV 52 in. LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control" />.
 
-More Options Available Exclusive Home Decorators Collection Windward IV 52 in. LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control Model#  26663 (1280) $15900 $15900 Free delivery
+More Options Available Exclusive Home Decorators Collection Windward IV 52 in. LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control Model#  26663 (1284) $15900 $15900 Free delivery
 
 Set your store to see local  
 availability
@@ -123,21 +130,21 @@ Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/
 
 Custom Options Available
 
-Home Decorators Collection Lanceton Vanity Cabinet and Top with Basin Model#  558390 (3727) Starting at $54620 Free delivery
+Home Decorators Collection Lanceton Vanity Cabinet and Top with Basin Model#  558390 (3729) Starting at $54620 Free delivery
 
 Set your store to see local  
 availability
 
 Build and Buy Compare <img src="https://images.homedepot-static.com/productImages/e8fc4634-4528-4c96-bd2a-85bee1ad3cca/svn/home-decorators-collection-bathroom-vanities-with-tops-aberdeen-60w-64\_400\_compressed.jpg" alt="Aberdeen 60 in. W Double Vanity in White with Carrara Marble Top with White Sinks" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/37/373c7fb4-3809-479c-928c-73619951354f\_400\_compressed.jpg" alt="Aberdeen 60 in. W Double Vanity in White with Carrara Marble Top with White Sinks" class="secondary-image has-secondary-image"/>.
 
-More Options Available Home Decorators Collection Aberdeen 60 in. W Double Vanity in White with Carrara Marble Top with White Sinks Model#  Aberdeen 60W View the Aberdeen Collection (786) $1,19925 $1,599.00 Save $399.75 (25%) $1,19925 $1,599.00 Save $399.75 (25%) Free delivery
+More Options Available Home Decorators Collection Aberdeen 60 in. W Double Vanity in White with Carrara Marble Top with White Sinks Model#  Aberdeen 60W View the Aberdeen Collection (789) $1,19925 $1,599.00 Save $399.75 (25%) $1,19925 $1,599.00 Save $399.75 (25%) Free delivery
 
 Set your store to see local  
 availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/0993561b-5920-48a0-b281-2090d2cc62c5/svn/carrara-polished-home-decorators-collection-porcelain-tile-nhdcarr1224p-64\_400\_compressed.jpg" alt="12 in. x 24 in. Carrara Polished Porcelain Floor and Wall Tile (16 sq. ft./case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/96/96e3ff30-a648-43fd-b3fd-8b7790600afc\_400\_compressed.jpg" alt="12 in. x 24 in. Carrara Polished Porcelain Floor and Wall Tile (16 sq. ft./case)" class="secondary-image has-secondary-image"/>.
 
-More Options Available Exclusive Home Decorators Collection 12 in. x 24 in. Carrara Polished Porcelain Floor and Wall Tile (16 sq. ft./case) Model#  NHDCARR1224P (468) $199 /sq. ft. ( $31.84  /case) $199 /sq. ft. ( $31.84  /case) Standard delivery
+More Options Available Exclusive Home Decorators Collection 12 in. x 24 in. Carrara Polished Porcelain Floor and Wall Tile (16 sq. ft./case) Model#  NHDCARR1224P (471) $199 /sq. ft. ( $31.84  /case) $199 /sq. ft. ( $31.84  /case) Standard delivery
 
 Set your store to see local  
 availability
@@ -151,21 +158,14 @@ availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/415c3345-83e6-443d-81b8-3c6b0f177d5f/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-yg493a-bn-64\_400\_compressed.jpg" alt="Kensgrove 54 in. Integrated LED Brushed Nickel Ceiling Fan with Light and Remote Control" />.
 
-More Options Available Exclusive Home Decorators Collection Kensgrove 54 in. Integrated LED Brushed Nickel Ceiling Fan with Light and Remote Control Model#  YG493A-BN (720) $17900 $17900 Free delivery
+More Options Available Exclusive Home Decorators Collection Kensgrove 54 in. Integrated LED Brushed Nickel Ceiling Fan with Light and Remote Control Model#  YG493A-BN (723) $17900 $17900 Free delivery
 
 Set your store to see local  
 availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/c91a9c4a-4542-4417-ac81-efb203644ae7/svn/centennial-oak-home-decorators-collection-laminate-wood-flooring-hdcwr19-64\_400\_compressed.jpg" alt="Water Resistant EIR Centennial Oak 8 mm Thick x 7-1/2 in. Wide x 50-2/3 in Length Laminate Flooring (23.69 sq.ft./ case)" />.
 
-More Options Available Home Decorators Collection Water Resistant EIR Centennial Oak 8 mm Thick x 7-1/2 in. Wide x 50-2/3 in Length Laminate Flooring (23.69 sq.ft./ case) Model#  HDCWR19 (136) $158 /sq. ft. ( $37.43  /case) $158 /sq. ft. ( $37.43  /case) Standard delivery
-
-Set your store to see local  
-availability
-
-Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/b38a90e4-638c-4829-9472-899d3c85a4fc/svn/kolasus-white-polished-home-decorators-collection-porcelain-tile-nhdkolwhi1224p-64\_400\_compressed.jpg" alt="Kolasus White 12 in. x 24 in. Polished Porcelain Floor and Wall Tile (16 sq. ft./case)" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/4b/4b4831b7-d395-4780-9ed9-a3eb566db292\_400\_compressed.jpg" alt="Kolasus White 12 in. x 24 in. Polished Porcelain Floor and Wall Tile (16 sq. ft./case)" class="secondary-image has-secondary-image"/>.
-
-More Options Available Exclusive Home Decorators Collection Kolasus White 12 in. x 24 in. Polished Porcelain Floor and Wall Tile (16 sq. ft./case) Model#  NHDKOLWHI1224P (278) $199 /sq. ft. ( $31.84  /case) $199 /sq. ft. ( $31.84  /case) Standard delivery
+More Options Available Home Decorators Collection Water Resistant EIR Centennial Oak 8 mm Thick x 7-1/2 in. Wide x 50-2/3 in Length Laminate Flooring (23.69 sq.ft./ case) Model#  HDCWR19 (137) $158 /sq. ft. ( $37.43  /case) $158 /sq. ft. ( $37.43  /case) Standard delivery
 
 Set your store to see local  
 availability
