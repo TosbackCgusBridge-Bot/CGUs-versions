@@ -208,12 +208,3 @@ ASIA &. PACIFIC
 *   Worldwide (English)
 
 <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=497969107041437&amp;ev=PageView&amp;noscript=1">. <img src="https://trc.taboola.com/1262079/log/3/unip?en=page\_view" width="0" height="0" style="display:none">. HMA logoIcon HamburgerIcon HamburgerIcon closeIcon close accordeonSearchExpand / collapseIcon FacebookIcon TwiterIcon Google PlusIcon YoutubeWindows iconWindows icon fillAndroid iconAndroid icon fillMac iconMac icon fillIos iconiOS icon fillLinux iconLinux icon fillMultiDeviceMultiPlatformUnlimitedSuperspeedyBiggestNetworkEasy2useGuaranteedCareHideShieldReferringWebsite ownersMarketersDownload helpInstall helpBeginner’s guideWin guideLinux guideRouter setupApple tv iconAndroid tv iconCrossTechnologyBandwidth &. speedLimitsOnline privacyStreamingStreamingAccessAdvertsPublic WiFiResearchLocationsCheck MarkCheck MarkIcon checkmark tableEmail iconGmail iconShield iconDNS LeakIcon dashIcon infoDouble quotesCheckmark
-
-LIMITED OFFER 
-
-**SAVE UP TO 67%!**
-
-Become untraceable online  
-with HMA VPN.
-
-Buy now HMA!’s Snowballin’ Sale: -67% OFF
