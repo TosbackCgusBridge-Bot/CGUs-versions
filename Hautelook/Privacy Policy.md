@@ -9,8 +9,29 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Sunglasses Shop: Designer Styles Up to 70% Off
+    *   Sunglasses Shop: Casual Styles ft. Ray-Ban
+    *   JOE'S Jeans Up to 65% Off
+    *   Designer Shoes &. More Up to 65% Off
+    *   Summer Bottoms Under $40 Incl. Plus &. Petites
+    *   Everyday Casual: Petite Styles Up to 70% Off
+    *   Everyday Casual: Plus Styles Up to 70% Off
+    *   Saturday Morning Workout: Cycle House &. More
+    *   Men's Designer Shoes Up to 70% Off
+    *   Mad for Motos: Leather Jackets Up to 70% Off
+    *   JOE'S Jeans Men Up to 65% Off
+    *   English Laundry Men
+    *   Adornia Jewelry
+    *   Free Shipping: Down &. Memory Foam Essentials
+    *   Loungewear ft. Theo &. Spence Under $30
+    *   Fresh Finds: Shoes Up to 60% Off
+    *   Free Shipping: Chic Home Decor Up to 45% Off
+    *   Bring the Salon Home: Hair Essentials
+    *   Free Shipping: Hand-Painted Replicas
+    *   Trending Now: Shorts, Tanks &. More
     *   TOMS Starting at $30
     *   TOMS Men Starting at $30
+    
     *   TOMS Kids
     *   Lucky Brand Up to 70% Off Incl. Plus
     *   Summer Basics: Tees, Dresses &. More
@@ -20,133 +41,131 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Summer Active Essentials: Bottoms
     *   Summer Active Essentials: Tops
     *   Swim Up to 70% Off
-    *   Elodie Under $30
     *   Day to Night: Block Heels for Summer
     *   Slate amp Stone Up to 80 Off
-    *   Summer's Best: Intimates &. Sleep
     *   Starting at $15: Kids' Sandals
     *   Lucky Brand Men Up to 70% Off
     *   adidas Active Starting at $20
     *   adidas
-    
     *   adidas Men
-    *   Givenchy Sunglasses &. More Up to 70% Off
     *   adidas Kids
-    *   Eliza J Up to 70% Off
-    *   Fresh Finds: Wide-Leg Pants &. Jumpsuits
-    *   Cropped Styles from $25
-    *   Summer Style: Sandals Up to 60% Off
+    *   Summer Essentials: Tops Under $20
     *   WFH Style: Men's Clothing Up to 70% Off
     *   Luxe Faux Fur Throws &. Rugs
-    *   Robert Graham Up to 70% Off
-    *   Sets We Love
-    *   Men's Outdoor Shoes ft. SOREL
-    *   UGG Kids
-    *   Diesel Men Up to 65% Off
-    *   Sterling Silver ft. Samuel B Jewelry
-    *   Summer Essentials: Dresses Up to 65% Off
-    *   Summer Essentials: Shorts Up to 70% Off
-    *   Summer Essentials: Swim Up to 70% Off
-    *   Summer Essentials: Tops Under $20
-    
-    *   Make a Splash: Kids' Swim &. More Up to 65% Off
     *   Lafayette 148 New York Up to 75% Off
-    *   Summer Essentials: Sport Bras, Tanks &. Crops Up to 70% Off
-    *   Stationery &. More ft. Kate Spade New York at $10
-    *   Light Rings by Tzumi
-    *   Wall Art Up to 60% Off
-    *   Makeup We Love ft. Urban Decay, Nars &. IT Cosmetics
-    *   Bugatchi Men's Shoes
-    *   New on HauteLook: Shark Up to 20% Off
-    *   Road Trip Essentials for Kids
-    *   Shun Cutlery ft. Kanso Collection
-    *   Road Trip Essentials: Luggage &. More
-    *   Men's Polos Up to 70% Off
+    *   Sets We Love
+    
+    *   Men's Outdoor Shoes ft. SOREL
     *   Screen Time: Virtual Call-Ready Beauty Finds
     *   Gordon Rush
     *   Happy at Home: Men's Slides, Slippers &. More
     *   Nest
+    *   Stationery &. More ft. Kate Spade New York at $10
+    *   Light Rings by Tzumi
+    *   Wall Art Up to 60% Off
+    *   Makeup We Love ft. Urban Decay, Nars &. IT Cosmetics
+    *   New on HauteLook: Shark Up to 20% Off
+    *   Elodie Under $30
+    *   Road Trip Essentials for Kids
+    *   Shun Cutlery ft. Kanso Collection
+    *   Road Trip Essentials: Luggage &. More
+    *   Cropped Styles from $25
+    *   Robert Graham Up to 70% Off
+    *   Summer Essentials: Dresses Up to 65% Off
+    *   Summer Essentials: Shorts Up to 70% Off
+    *   Summer Essentials: Swim Up to 70% Off
+    *   Summer Essentials: Sport Bras, Tanks &. Crops Up to 70% Off
 *   WomenShop Sale Events
     
+    *   Sunglasses Shop: Designer Styles Up to 70% Off
+    *   Sunglasses Shop: Casual Styles ft. Ray-Ban
+    *   JOE'S Jeans Up to 65% Off
+    *   Designer Shoes &. More Up to 65% Off
+    *   Summer Bottoms Under $40 Incl. Plus &. Petites
+    *   Everyday Casual: Petite Styles Up to 70% Off
+    *   Everyday Casual: Plus Styles Up to 70% Off
+    *   Saturday Morning Workout: Cycle House &. More
+    *   Mad for Motos: Leather Jackets Up to 70% Off
+    *   Adornia Jewelry
+    *   Loungewear ft. Theo &. Spence Under $30
+    *   Fresh Finds: Shoes Up to 60% Off
+    *   Bring the Salon Home: Hair Essentials
     *   TOMS Starting at $30
     *   Lucky Brand Up to 70% Off Incl. Plus
     *   Summer Basics: Tees, Dresses &. More
     *   Dr. Scholl's Up to 60% Off
     *   Best of Summer: Tops Under $40
     *   Summer Active Essentials: Bottoms
+    
     *   Summer Active Essentials: Tops
     *   Swim Up to 70% Off
-    *   Elodie Under $30
     *   Day to Night: Block Heels for Summer
-    *   Summer's Best: Intimates &. Sleep
     *   adidas Active Starting at $20
     *   adidas
-    *   Givenchy Sunglasses &. More Up to 70% Off
-    *   Eliza J Up to 70% Off
-    
-    *   Fresh Finds: Wide-Leg Pants &. Jumpsuits
-    *   Cropped Styles from $25
-    *   Summer Style: Sandals Up to 60% Off
+    *   Summer Essentials: Tops Under $20
+    *   Lafayette 148 New York Up to 75% Off
     *   Sets We Love
-    *   Sterling Silver ft. Samuel B Jewelry
+    *   Screen Time: Virtual Call-Ready Beauty Finds
+    *   Nest
+    *   Makeup We Love ft. Urban Decay, Nars &. IT Cosmetics
+    *   Elodie Under $30
+    *   Road Trip Essentials: Luggage &. More
+    *   Cropped Styles from $25
     *   Summer Essentials: Dresses Up to 65% Off
     *   Summer Essentials: Shorts Up to 70% Off
     *   Summer Essentials: Swim Up to 70% Off
-    *   Summer Essentials: Tops Under $20
-    *   Lafayette 148 New York Up to 75% Off
     *   Summer Essentials: Sport Bras, Tanks &. Crops Up to 70% Off
-    *   Makeup We Love ft. Urban Decay, Nars &. IT Cosmetics
-    *   Road Trip Essentials: Luggage &. More
-    *   Screen Time: Virtual Call-Ready Beauty Finds
-    *   Nest
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
     *   Accessories
+    *   Jewelry
     *   Lingerie &. Shapewear
     *   Handbags
 *   MenShop Sale Events
     
+    *   Sunglasses Shop: Designer Styles Up to 70% Off
+    *   Sunglasses Shop: Casual Styles ft. Ray-Ban
+    *   Men's Designer Shoes Up to 70% Off
+    *   JOE'S Jeans Men Up to 65% Off
+    *   English Laundry Men
     *   TOMS Men Starting at $30
     *   Slate amp Stone Up to 80 Off
     *   Lucky Brand Men Up to 70% Off
-    *   adidas Men
-    *   Givenchy Sunglasses &. More Up to 70% Off
-    *   WFH Style: Men's Clothing Up to 70% Off
-    *   Robert Graham Up to 70% Off
     
+    *   adidas Men
+    *   WFH Style: Men's Clothing Up to 70% Off
     *   Men's Outdoor Shoes ft. SOREL
-    *   Diesel Men Up to 65% Off
-    *   Bugatchi Men's Shoes
-    *   Road Trip Essentials: Luggage &. More
-    *   Men's Polos Up to 70% Off
     *   Gordon Rush
     *   Happy at Home: Men's Slides, Slippers &. More
+    *   Road Trip Essentials: Luggage &. More
+    *   Robert Graham Up to 70% Off
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Trending Now: Shorts, Tanks &. More
     *   TOMS Kids
     *   Starting at $15: Kids' Sandals
     *   adidas Kids
-    *   UGG Kids
-    *   Make a Splash: Kids' Swim &. More Up to 65% Off
     *   Road Trip Essentials for Kids
     
     Shop By Category
     *   Girls
+    *   Boys
     *   Girls' Shoes
     *   Baby
-    *   Boys
     *   Boys' Shoes
     *   Toys
 *   HomeShop Sale Events
     
+    *   Free Shipping: Down &. Memory Foam Essentials
+    *   Free Shipping: Chic Home Decor Up to 45% Off
+    *   Free Shipping: Hand-Painted Replicas
     *   BergHOFF: Kitchen Blowouts
     *   Luxe Faux Fur Throws &. Rugs
     *   Stationery &. More ft. Kate Spade New York at $10
@@ -156,18 +175,21 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Shun Cutlery ft. Kanso Collection
     
     Shop By Category
-    *   Luggage &. Travel
     *   Home Decor
+    *   Luggage &. Travel
     *   Kitchen &. Tabletop
     *   Cleaning &. Organization
     *   Rugs &. Doormats
+    *   Bedding
     *   Electronic &. Tech Accessories
+    *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Bring the Salon Home: Hair Essentials
     *   Sets We Love
-    *   Makeup We Love ft. Urban Decay, Nars &. IT Cosmetics
     *   Screen Time: Virtual Call-Ready Beauty Finds
     *   Nest
+    *   Makeup We Love ft. Urban Decay, Nars &. IT Cosmetics
     
     Shop By Category
     *   Makeup
