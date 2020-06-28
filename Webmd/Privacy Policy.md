@@ -397,11 +397,7 @@ Last updated on May 01, 2020 © 2020 WebMD, LLC. All rights reserved. Today on W
 
 Some of these might surprise you.
 
-Sponsor Content Save on our best phones.
-
-Switch and save. Plus, get Echo Dot and Amazon Smart Plug on us. With Unlimited. Restrictions apply.
-
-By Verizon Depressed, Guilty Feelings After Eating?
+Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
