@@ -252,23 +252,23 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
-    *   5 Ways Security Can Ensure Business Continuity in the COVID-19 Era
-    *   Amnesty Int'l: Norway, Bahrain &. Kuwait Covid-19 apps threaten privacy
-    *   Cracking the cyber liability code leads to better insurance coverage
+    *   OneClass unsecured S3 bucket exposes PII on more than one million students, instructors
+    *   Digital disruption grows attack surface, Edelman Financial Engines' Conlon says
     *   Microsoft's Kelley: Six principles that influence people to say yes can be leveraged to thwart social engineering
-    *   'Woefully lax' security led to WikiLeaks Vault 7 dump
+    *   XDR: The New Cybersecurity X Factor
+    *   Adobe fixes 18 critical vulnerabilities on heels of largest-ever Microsoft Patch Tuesday
     
-    *   Don’t be the weakest link in a widespread attack
-    *   Cyber snoops targeted aerospace, defense employees with fake job offers on LinkedIn
-    *   Lululemon’s Rex Sarabia works up a sweat building a security awareness program from scratch
-    *   Twitter 'incident' leaves billing info stored in browser cache
-    *   India surpasses U.S., others in number of ethical hackers: report
+    *   Australia says state-based actor is behind surge of sophisticated cyberattacks
+    *   Ex-CIA exec: Covid-19 has created ideal 'crisis' conditions for malicious hackers
+    *   Netflix DVD's Sanders: Revamp strategies to stay ahead of attackers
+    *   Report: Lazarus Group has large-scale Covid-19 phishing campaign in the works
+    *   Malicious doc campaign unleashes Cobalt Strike on gov't, military orgs in South Asia
     
+    *   Union Pacific tracks cyber risk via its own probability modeling methodology
+    *   First Look: Secure Data's SecureDrive BT
+    *   Glupteba malware leverages blockchain as a communications channel
     *   Ransomware gang claims attack on LG Electronics
     *   Dem bill would ban federal law enforcement from using facial recognition technology
-    *   Mobile ransomware disguised as upcoming Canadian Covid-19 contact tracing app
-    *   Zoom taps Salesforce's Jason Lee as CISO
-    *   OneClass unsecured S3 bucket exposes PII on more than one million students, instructors
 
 Back to Top
 
@@ -301,4 +301,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
