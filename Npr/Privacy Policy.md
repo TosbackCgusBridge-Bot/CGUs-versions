@@ -55,7 +55,7 @@ Close Navigation Menu
     *   It's Been a Minute with Sam Sanders
     *   Code Switch
     *   Throughline
-    *   Coronavirus Daily
+    *   Consider This from NPR
     
     *   More Shows &. Podcasts
 *   Search
