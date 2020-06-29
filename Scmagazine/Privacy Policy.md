@@ -252,17 +252,17 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
-    *   OneClass unsecured S3 bucket exposes PII on more than one million students, instructors
-    *   Digital disruption grows attack surface, Edelman Financial Engines' Conlon says
-    *   Microsoft's Kelley: Six principles that influence people to say yes can be leveraged to thwart social engineering
-    *   XDR: The New Cybersecurity X Factor
-    *   Adobe fixes 18 critical vulnerabilities on heels of largest-ever Microsoft Patch Tuesday
-    
+    *   CyberSC's Vogel offers insider’s guide to becoming a vCISO
+    *   BlueLeaks files expose data from law enforcement, fusion centers
     *   Australia says state-based actor is behind surge of sophisticated cyberattacks
+    *   Triangle of network security management requires formalized process, Rodrigue says
+    *   Triage plan can fend off insider threats, Latson says
+    
+    *   IT Security Questions to Ask for the Great Return to the Workplace
+    *   First Look: Secure Data's SecureDrive BT
     *   Ex-CIA exec: Covid-19 has created ideal 'crisis' conditions for malicious hackers
-    *   Netflix DVD's Sanders: Revamp strategies to stay ahead of attackers
-    *   Report: Lazarus Group has large-scale Covid-19 phishing campaign in the works
-    *   Malicious doc campaign unleashes Cobalt Strike on gov't, military orgs in South Asia
+    *   Ransomware gang claims attack on LG Electronics
+    *   Deliver More Effective Threat Intelligence with Federated Machine Learning
     
     *   Union Pacific tracks cyber risk via its own probability modeling methodology
     *   First Look: Secure Data's SecureDrive BT
@@ -301,4 +301,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+
+You can skip this ad in 1 seconds.
