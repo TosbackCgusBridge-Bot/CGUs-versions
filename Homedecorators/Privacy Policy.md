@@ -7,7 +7,7 @@ availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/c31f3112-3a04-45e6-80b2-2849f1428fd0/svn/home-decorators-collection-bathroom-vanities-with-tops-15101-vs61c-wt-64\_400\_compressed.jpg" alt="Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink" />. <img src="https://images.homedepot-static.com/catalog/productImages/400\_compressed/0a/0ac508cc-6bdf-4b81-932d-1338ae45e9a2\_400\_compressed.jpg" alt="Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink" class="secondary-image has-secondary-image"/>.
 
-More Options Available Best Seller Home Decorators Collection Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink Model#  15101-VS61C-WT View the Windlowe Collection (247) $1,43910 $1,599.00 Save $159.90 (10%) $1,43910 $1,599.00 Save $159.90 (10%) Free delivery
+More Options Available Best Seller Home Decorators Collection Windlowe 61 in. W x 22 in. D x 35 in. H Bath Vanity in White with Carrera Marble Vanity Top in White with White Sink Model#  15101-VS61C-WT View the Windlowe Collection (249) $1,43910 $1,599.00 Save $159.90 (10%) $1,43910 $1,599.00 Save $159.90 (10%) Free delivery
 
 Set your store to see local  
 availability
@@ -26,14 +26,14 @@ availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/60d89270-797a-4f5a-b78e-b27afdcfd402/svn/matte-black-home-decorators-collection-ceiling-fans-with-lights-sw1422mbk-64\_400\_compressed.jpg" alt="Merwry 52 in. Integrated LED Indoor Matte Black Ceiling Fan with Light Kit and Remote Control" />.
 
-More Options Available Exclusive Home Decorators Collection Merwry 52 in. Integrated LED Indoor Matte Black Ceiling Fan with Light Kit and Remote Control Model#  SW1422MBK View the Merwry Collection (2053) $11900 $11900 Free delivery
+More Options Available Exclusive Home Decorators Collection Merwry 52 in. Integrated LED Indoor Matte Black Ceiling Fan with Light Kit and Remote Control Model#  SW1422MBK View the Merwry Collection (2055) $11900 $11900 Free delivery
 
 Set your store to see local  
 availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/929d3e28-242b-456f-8c79-cd79185c5c0d/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-yg493b-bn-64\_400\_compressed.jpg" alt="Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control" />.
 
-More Options Available Exclusive Home Decorators Collection Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control Model#  YG493B-BN (444) $20900 $249.00 Save $40.00 (16%) $20900 $249.00 Save $40.00 (16%) Limit 10 per order Free delivery
+More Options Available Exclusive Home Decorators Collection Kensgrove 64 in. LED Brushed Nickel Ceiling Fan with Remote Control Model#  YG493B-BN (445) $20900 $249.00 Save $40.00 (16%) $20900 $249.00 Save $40.00 (16%) Limit 10 per order Free delivery
 
 Set your store to see local  
 availability
@@ -61,7 +61,7 @@ availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/b8379420-5835-4b1e-94e2-52c0fa804fcd/svn/montrose-oak-home-decorators-collection-laminate-wood-flooring-hdcwr24-64\_400\_compressed.jpg" alt="Water Resistant 12mm Montrose Oak 12 mm T x 7-1/2 in. Wide x 50-2/3 in. Length Laminate Flooring (18.42 sq. ft./ case)" />.
 
-More Options Available Home Decorators Collection Water Resistant 12mm Montrose Oak 12 mm T x 7-1/2 in. Wide x 50-2/3 in. Length Laminate Flooring (18.42 sq. ft./ case) Model#  HDCWR24 (332) $229 /sq. ft. ( $42.18  /case) $229 /sq. ft. ( $42.18  /case) Standard delivery
+More Options Available Home Decorators Collection Water Resistant 12mm Montrose Oak 12 mm T x 7-1/2 in. Wide x 50-2/3 in. Length Laminate Flooring (18.42 sq. ft./ case) Model#  HDCWR24 (333) $229 /sq. ft. ( $42.18  /case) $229 /sq. ft. ( $42.18  /case) Standard delivery
 
 Set your store to see local  
 availability
@@ -82,7 +82,7 @@ Compare <img src="https://images.homedepot-static.com/catalog/productImages/400\
 
 More Options Available
 
-Exclusive Home Decorators Collection 2 in. Cordless Faux Wood (11032) $2297 - $7997 Free delivery
+Exclusive Home Decorators Collection 2 in. Cordless Faux Wood (11041) $2297 - $7997 Free delivery
 
 Set your store to see local  
 availability
@@ -121,7 +121,7 @@ availability
 
 Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/58afdb17-2193-44c3-8ce6-a4e9a287c057/svn/brushed-nickel-home-decorators-collection-ceiling-fans-with-lights-26663-64\_400\_compressed.jpg" alt="Windward IV 52 in. LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control" />.
 
-More Options Available Exclusive Home Decorators Collection Windward IV 52 in. LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control Model#  26663 (1284) $15900 $15900 Free delivery
+More Options Available Exclusive Home Decorators Collection Windward IV 52 in. LED Indoor Brushed Nickel Ceiling Fan with Light Kit and Remote Control Model#  26663 (1285) $15900 $15900 Free delivery
 
 Set your store to see local  
 availability
@@ -130,7 +130,7 @@ Add to Cart Compare <img src="https://images.homedepot-static.com/productImages/
 
 Custom Options Available
 
-Home Decorators Collection Lanceton Vanity Cabinet and Top with Basin Model#  558390 (3729) Starting at $54620 Free delivery
+Home Decorators Collection Lanceton Vanity Cabinet and Top with Basin Model#  558390 (3735) Starting at $54620 Free delivery
 
 Set your store to see local  
 availability
