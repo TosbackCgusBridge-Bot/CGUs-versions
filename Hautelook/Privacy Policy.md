@@ -9,80 +9,96 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Styles Under $20
+    *   Fresh for Summer: Activewear Up to 70% Off
+    *   Women's Sandals &. Flats Under $50
+    *   Men's Shoes Up to 70% Off
+    *   Vince Camuto Shoes Up to 60% Off
+    *   Vince Camuto Up to 75% Off Incl. Plus &. Petites
+    *   Dr. Martens Kids
+    *   Clarks
+    *   Vince Camuto Handbags
+    *   Cropped Pants &. Shorts Up to 70% Off
+    *   Tees Starting at $15
+    *   On-Trend Bags Up to 70% Off
+    *   Fresh for Summer: Swim Up to 70% Off
+    *   On the Go: Slides &. Slip-Ons
+    *   Makeup We Love
+    *   Sweet Dreams: Kids' Sleep Essentials
+    *   Decor Update: Pillows, Accents &. More from $20
+    *   Vince Camuto Men Up to 80% Off
+    *   Vince Camuto Luggage Up to 80% Off
     *   Sunglasses Shop: Designer Styles Up to 70% Off
     *   Sunglasses Shop: Casual Styles ft. Ray-Ban
     *   JOE'S Jeans Up to 65% Off
+    
     *   Designer Shoes &. More Up to 65% Off
     *   Summer Bottoms Under $40 Incl. Plus &. Petites
     *   Everyday Casual: Petite Styles Up to 70% Off
     *   Everyday Casual: Plus Styles Up to 70% Off
     *   Saturday Morning Workout: Cycle House &. More
+    *   English Laundry Men
     *   Men's Designer Shoes Up to 70% Off
     *   Mad for Motos: Leather Jackets Up to 70% Off
     *   JOE'S Jeans Men Up to 65% Off
-    *   English Laundry Men
     *   Adornia Jewelry
-    *   Free Shipping: Down &. Memory Foam Essentials
     *   Loungewear ft. Theo &. Spence Under $30
     *   Fresh Finds: Shoes Up to 60% Off
     *   Free Shipping: Chic Home Decor Up to 45% Off
     *   Bring the Salon Home: Hair Essentials
-    *   Free Shipping: Hand-Painted Replicas
     *   Trending Now: Shorts, Tanks &. More
     *   TOMS Starting at $30
     *   TOMS Men Starting at $30
-    
     *   TOMS Kids
     *   Lucky Brand Up to 70% Off Incl. Plus
     *   Summer Basics: Tees, Dresses &. More
     *   Dr. Scholl's Up to 60% Off
     *   BergHOFF: Kitchen Blowouts
+    
     *   Best of Summer: Tops Under $40
     *   Summer Active Essentials: Bottoms
     *   Summer Active Essentials: Tops
     *   Swim Up to 70% Off
     *   Day to Night: Block Heels for Summer
     *   Slate amp Stone Up to 80 Off
+    *   Road Trip Essentials: Luggage &. More
     *   Starting at $15: Kids' Sandals
     *   Lucky Brand Men Up to 70% Off
-    *   adidas Active Starting at $20
-    *   adidas
-    *   adidas Men
-    *   adidas Kids
-    *   Summer Essentials: Tops Under $20
-    *   WFH Style: Men's Clothing Up to 70% Off
     *   Luxe Faux Fur Throws &. Rugs
-    *   Lafayette 148 New York Up to 75% Off
+    *   Robert Graham Up to 70% Off
     *   Sets We Love
-    
-    *   Men's Outdoor Shoes ft. SOREL
-    *   Screen Time: Virtual Call-Ready Beauty Finds
-    *   Gordon Rush
-    *   Happy at Home: Men's Slides, Slippers &. More
-    *   Nest
-    *   Stationery &. More ft. Kate Spade New York at $10
-    *   Light Rings by Tzumi
-    *   Wall Art Up to 60% Off
-    *   Makeup We Love ft. Urban Decay, Nars &. IT Cosmetics
-    *   New on HauteLook: Shark Up to 20% Off
+    *   Free Shipping: Down &. Memory Foam Essentials
+    *   Free Shipping: Hand-Painted Replicas
     *   Elodie Under $30
     *   Road Trip Essentials for Kids
     *   Shun Cutlery ft. Kanso Collection
-    *   Road Trip Essentials: Luggage &. More
-    *   Cropped Styles from $25
-    *   Robert Graham Up to 70% Off
-    *   Summer Essentials: Dresses Up to 65% Off
-    *   Summer Essentials: Shorts Up to 70% Off
-    *   Summer Essentials: Swim Up to 70% Off
-    *   Summer Essentials: Sport Bras, Tanks &. Crops Up to 70% Off
+    *   Men's Outdoor Shoes ft. SOREL
+    *   Screen Time: Virtual Call-Ready Beauty Finds
+    *   Stationery &. More ft. Kate Spade New York at $10
+    *   Wall Art Up to 60% Off
 *   WomenShop Sale Events
     
+    *   Styles Under $20
+    *   Fresh for Summer: Activewear Up to 70% Off
+    *   Women's Sandals &. Flats Under $50
+    *   Vince Camuto Shoes Up to 60% Off
+    *   Vince Camuto Up to 75% Off Incl. Plus &. Petites
+    *   Clarks
+    *   Vince Camuto Handbags
+    *   Cropped Pants &. Shorts Up to 70% Off
+    *   Tees Starting at $15
+    *   On-Trend Bags Up to 70% Off
+    *   Fresh for Summer: Swim Up to 70% Off
+    *   On the Go: Slides &. Slip-Ons
+    *   Makeup We Love
+    *   Vince Camuto Luggage Up to 80% Off
     *   Sunglasses Shop: Designer Styles Up to 70% Off
     *   Sunglasses Shop: Casual Styles ft. Ray-Ban
     *   JOE'S Jeans Up to 65% Off
     *   Designer Shoes &. More Up to 65% Off
     *   Summer Bottoms Under $40 Incl. Plus &. Petites
     *   Everyday Casual: Petite Styles Up to 70% Off
+    
     *   Everyday Casual: Plus Styles Up to 70% Off
     *   Saturday Morning Workout: Cycle House &. More
     *   Mad for Motos: Leather Jackets Up to 70% Off
@@ -96,25 +112,13 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Dr. Scholl's Up to 60% Off
     *   Best of Summer: Tops Under $40
     *   Summer Active Essentials: Bottoms
-    
     *   Summer Active Essentials: Tops
     *   Swim Up to 70% Off
     *   Day to Night: Block Heels for Summer
-    *   adidas Active Starting at $20
-    *   adidas
-    *   Summer Essentials: Tops Under $20
-    *   Lafayette 148 New York Up to 75% Off
-    *   Sets We Love
-    *   Screen Time: Virtual Call-Ready Beauty Finds
-    *   Nest
-    *   Makeup We Love ft. Urban Decay, Nars &. IT Cosmetics
-    *   Elodie Under $30
     *   Road Trip Essentials: Luggage &. More
-    *   Cropped Styles from $25
-    *   Summer Essentials: Dresses Up to 65% Off
-    *   Summer Essentials: Shorts Up to 70% Off
-    *   Summer Essentials: Swim Up to 70% Off
-    *   Summer Essentials: Sport Bras, Tanks &. Crops Up to 70% Off
+    *   Sets We Love
+    *   Elodie Under $30
+    *   Screen Time: Virtual Call-Ready Beauty Finds
     
     Shop By Category
     *   Clothing
@@ -125,22 +129,21 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Handbags
 *   MenShop Sale Events
     
+    *   Men's Shoes Up to 70% Off
+    *   Vince Camuto Men Up to 80% Off
+    *   Vince Camuto Luggage Up to 80% Off
     *   Sunglasses Shop: Designer Styles Up to 70% Off
     *   Sunglasses Shop: Casual Styles ft. Ray-Ban
-    *   Men's Designer Shoes Up to 70% Off
-    *   JOE'S Jeans Men Up to 65% Off
     *   English Laundry Men
+    *   Men's Designer Shoes Up to 70% Off
+    
+    *   JOE'S Jeans Men Up to 65% Off
     *   TOMS Men Starting at $30
     *   Slate amp Stone Up to 80 Off
-    *   Lucky Brand Men Up to 70% Off
-    
-    *   adidas Men
-    *   WFH Style: Men's Clothing Up to 70% Off
-    *   Men's Outdoor Shoes ft. SOREL
-    *   Gordon Rush
-    *   Happy at Home: Men's Slides, Slippers &. More
     *   Road Trip Essentials: Luggage &. More
+    *   Lucky Brand Men Up to 70% Off
     *   Robert Graham Up to 70% Off
+    *   Men's Outdoor Shoes ft. SOREL
     
     Shop By Category
     *   Shoes
@@ -148,10 +151,11 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Dr. Martens Kids
+    *   Sweet Dreams: Kids' Sleep Essentials
     *   Trending Now: Shorts, Tanks &. More
     *   TOMS Kids
     *   Starting at $15: Kids' Sandals
-    *   adidas Kids
     *   Road Trip Essentials for Kids
     
     Shop By Category
@@ -159,37 +163,36 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Boys
     *   Girls' Shoes
     *   Baby
-    *   Boys' Shoes
     *   Toys
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
-    *   Free Shipping: Down &. Memory Foam Essentials
+    *   Decor Update: Pillows, Accents &. More from $20
+    *   Vince Camuto Luggage Up to 80% Off
     *   Free Shipping: Chic Home Decor Up to 45% Off
-    *   Free Shipping: Hand-Painted Replicas
     *   BergHOFF: Kitchen Blowouts
     *   Luxe Faux Fur Throws &. Rugs
-    *   Stationery &. More ft. Kate Spade New York at $10
-    *   Light Rings by Tzumi
-    *   Wall Art Up to 60% Off
-    *   New on HauteLook: Shark Up to 20% Off
+    *   Free Shipping: Down &. Memory Foam Essentials
+    *   Free Shipping: Hand-Painted Replicas
     *   Shun Cutlery ft. Kanso Collection
+    *   Stationery &. More ft. Kate Spade New York at $10
+    *   Wall Art Up to 60% Off
     
     Shop By Category
     *   Home Decor
     *   Luggage &. Travel
     *   Kitchen &. Tabletop
-    *   Cleaning &. Organization
-    *   Rugs &. Doormats
     *   Bedding
-    *   Electronic &. Tech Accessories
+    *   Rugs &. Doormats
+    *   Cleaning &. Organization
     *   Outdoor Living
+    *   Accent Furniture
 *   BeautyShop Sale Events
     
+    *   Makeup We Love
     *   Bring the Salon Home: Hair Essentials
     *   Sets We Love
     *   Screen Time: Virtual Call-Ready Beauty Finds
-    *   Nest
-    *   Makeup We Love ft. Urban Decay, Nars &. IT Cosmetics
     
     Shop By Category
     *   Makeup
