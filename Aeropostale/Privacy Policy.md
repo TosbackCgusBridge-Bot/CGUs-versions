@@ -364,14 +364,6 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
 
-Good Things Take Time. Over the last few weeks, we've implemented extra precautionary measures in our warehouse to ensure the health and  
-safety of our customers and associates. Because of this your shipment may experience delays. Thank you for your patience and understanding. Learn More &. Stay Safe
-
-Good Things Take Time. Over the last few weeks, we've implemented extra  
-precautionary measures in our warehouse to ensure the health and safety of  
-our customers and associates. Because of this your shipment may experience  
-delays. Thank you for your patience and understanding. Learn More &. Stay Safe
-
 In Stores &. Online.
 
 New! Aero Bandanas
