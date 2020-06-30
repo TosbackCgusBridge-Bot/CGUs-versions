@@ -126,7 +126,7 @@ If you decide to create an account or enquire about one of our products or servi
 *   Basic personal details – such as name, title and date of birth;
 *   Personal contact details – such as home address, delivery address, home phone number, mobile phone number, and email address;
 *   Work details – such as job title, department, company name, company address, work email address and office phone number;
-*   Log in details – such as username and password;
+*   Login details – such as username and password;
 *   Payment details – such as your bank account and payment card information.
 
 Additional information
@@ -158,7 +158,7 @@ Lawful basis for processing
 
 We only process personal information where we have a lawful basis for doing so, such as the following:
 
-*   **User consent** – This is where you have given us explicit permission to process personal information  for a given purpose. For example, if you complete one of our general enquiry forms, we would ask for your consent if we wanted to use your personal information for any other purpose. You have the right to withdraw this consent at any time. You can manage your preferences within your account or by contacting customer services.
+*   **User consent** – This is where you have given us explicit permission to process personal information for a given purpose. For example, if you complete one of our general enquiry forms, we would ask for your consent if we wanted to use your personal information for any other purpose. You have the right to withdraw this consent at any time. You can manage your preferences within your account or by contacting Customer Care.
 *   **Legitimate business purposes** – This is where we have a legitimate interest, as a business, to process personal information. For example, where we are aware of copyright infringements on our Site, it is in our legitimate interests as a business to identify those responsible. We take due care to balance our interests against your right to privacy.
 *   **Contractual necessity** – This is where we have to process personal information to meet our contractual obligations. For example, if you are a print subscriber, we would need to process your delivery address to fulfil your subscription.
 *   **Legal obligation** – This is where we have to process personal information in order to comply with the law. For example, we process and retain customer invoice information to comply with financial regulations.
@@ -167,12 +167,12 @@ How we use your personal information
 
 We collect personal information for the following main reasons:
 
-1.  **To provide our service** – We require some of your basic personal information so our services work as you would expect, for example, delivering the newspaper to your correct address, providing access to our digital content, notifying you of changes to our services and dealing with customer services queries. We record customer calls for monitoring and training purposes.
+1.  **To provide our service** – We require some of your basic personal information so our services work as you would expect, for example, delivering the newspaper to your correct address, providing access to our digital content, notifying you of changes to our services and dealing with customer care queries. We record customer calls for monitoring and training purposes.
 2.  **To improve and maintain performance** – In order to provide you with the best possible user experience and value, we need to make sure that our products and services work as they should. Using personal information helps us understand how our readers experience  our Sites and services, so we can make improvements. This includes contacting customers with market research surveys or for telephone interviews, hosting subscriber focus groups and analysing onsite data to test new and existing events, products and developments for the FT group.
-3.  **To bill our customers** – We, along with our authorised payments processors, securely process your payment information to take payments, give refunds and to detect and prevent fraudulent activity. We will also update your payment information in the event that a payment is unsuccessful. You can manage your payment information at any time by contacting customer services. If your subscription is provided under a group subscription or trial, we will report information about your activity on our Site(s) for the purposes of billing.
+3.  **To bill our customers** – We, along with our authorised payments processors, securely process your payment information to take payments, give refunds and to detect and prevent fraudulent activity. We will also update your payment information in the event that a payment is unsuccessful. You can manage your payment information at any time by contacting Customer Care. If your subscription is provided under a group subscription or trial, we will report information about your activity on our Site(s) for the purposes of billing.
 4.  **To monitor compliance with our policies and terms**  – We monitor for breaches of our terms and conditions and copyright policies. For example, we reserve the right to inform the subscription holder if, through use of a group subscription, you are using our content in breach of the terms and conditions or copyright policies of our Sites. We also monitor activity on our Sites to detect and prevent invalid or fraudulent traffic.
 5.  **To personalise our products and services** – We improve your experience of our products and services by personalising parts of our Sites and apps with the information you give us and what we learn about you. This includes showing you articles you may be interested in and recommending emails you may wish to sign up to. Where our Sites have such functionality, you can manage elements of personalisation in your account.
-6.  **To communicate product changes and offers** – We want you to get the most out of our products and services, including showcasing our latest content and newsletters. We will contact you with carefully-curated FT offers and promotions, exclusive event invitations and feature announcements. For example, if there are no updates on topics you follow in MyFT, we will send you articles on other topics that we think you might be interested in. You are able to change your preferences at any time through your account or by contacting customer services. We also personalise our communications for strategic purposes. For example, we might offer group subscriptions to portfolio managers.
+6.  **To communicate product changes and offers** – We want you to get the most out of our products and services, including showcasing our latest content and newsletters. We will contact you with carefully-curated FT offers and promotions, exclusive event invitations and feature announcements. For example, if there are no updates on topics you follow in MyFT, we will send you articles on other topics that we think you might be interested in. You are able to change your preferences at any time through your account or by contacting Customer Care. We also personalise our communications for strategic purposes. For example, we might offer group subscriptions to portfolio managers.
 7.  **For the purpose of advertising** – We rely on advertising revenue in part to support our award-winning journalism. We need to process your information to understand the effectiveness of the advertising we serve to you and others, and to deliver relevant personalised advertising. We use the information you give us and the information we collect about you to serve you with the most appropriate advertisements. You can manage your advertising settings for the Sites that carry out this activity in your account. If you do decide to turn off personalised advertisements or advertisements tailored to you, you will still see the same number of advertisements but they may be less relevant to you. You may continue to see advertisements that are targeted to you based on other non-personal information, for example, the article that you are reading.
 8.  **Recruitment** – If you apply for a role via one of our Sites, we will process your information in order to facilitate the application process.
 9.  **To build directories** – A number of our sites (including The Banker and fDi Intelligence) process personal information to create databases and directories. These directories provide key business insights and profiles to those that have licensed access. Where we make an individual’s contact details accessible on our Sites, we inform the individual and provide instructions on how to have their contact details removed.
@@ -208,7 +208,7 @@ Where we don’t need to keep all of your information in full, we will obfuscate
 
 A summary of how long your personal information is retained can be found below:
 
-Category of Data Example Retention Period Justification for Retention Billing information Masked details of most recently used payment method 7 years For regulatory reasons we are required to retain accounting records for 7 years. Business intelligence Web activity on FT.com 36 months (then aggregated + non-personally identifiable) To improve and maintain performance, personalise our services and to provide our product. Comments Comment on an FT article Life of the article To enable our readers to see other readers’ comments about our content. Customer service queries Complaint about non-delivery of newspaper 7 years To provide a case history to assist us to answer your queries. Communication history Email stating that your subscription is up for renewal 7 years So that we have a record of what communications we have sent to you, to better assist your queries Event registration Sign up information for Innovative Lawyer Awards 13 – 36 months For event administration and, with your permission, to invite you to future events. Market research Responses to a survey about FT journalism 13 months (then aggregated + non-personally identifiable) To administer market research incentives, avoid duplicating research requests and to understand research responses against usage of our Sites. Site features Portfolio tool information Lifetime of the account To improve your experience of our products and services and to enable you to continue accessing site features. Subscription information Account information relating to a Financial Times newspaper subscription 7 years post-subscription To enable us to fulfil your contract with us.
+Category of Data Example Retention Period Justification for Retention Billing information Masked details of most recently used payment method 7 years For regulatory reasons we are required to retain accounting records for 7 years. Business intelligence Web activity on FT.com 36 months (then aggregated + non-personally identifiable) To improve and maintain performance, personalise our services and to provide our product. Comments Comment on an FT article Life of the article To enable our readers to see other readers’ comments about our content. Customer care queries Complaint about non-delivery of newspaper 7 years To provide a case history to assist us to answer your queries. Communication history Email stating that your subscription is up for renewal 7 years So that we have a record of what communications we have sent to you, to better assist your queries Event registration Sign up information for Innovative Lawyer Awards 13 – 36 months For event administration and, with your permission, to invite you to future events. Market research Responses to a survey about FT journalism 13 months (then aggregated + non-personally identifiable) To administer market research incentives, avoid duplicating research requests and to understand research responses against usage of our Sites. Site features Portfolio tool information Lifetime of the account To improve your experience of our products and services and to enable you to continue accessing site features. Subscription information Account information relating to a Financial Times newspaper subscription 7 years post-subscription To enable us to fulfil your contract with us.
 
 It is sometimes necessary for us to keep your personal information for longer periods of time, for example:
 
@@ -220,7 +220,7 @@ How we keep your personal information secure
 
 We have appropriate technical and administrative security measures in place to help ensure that our users’ information is protected against unauthorised or accidental access, use,  alteration, or loss. To demonstrate our commitment to security, we have achieved the UK Cyber Essentials Plus accreditation. We use encryption technology, such as Transport Layer Security (TLS), to protect your personal information when you order products or services from us. More information about our approach to cyber security can be found in our Cyber Security Statement.
 
-We operate a global business, so your personal information may be processed and stored outside the European Economic Area (EEA). For example, our global customer services team need to access information about you in order to respond to your queries. We put in place safeguards, such as EU standard contractual clauses, to protect information that is transferred in this way.
+We operate a global business, so your personal information may be processed and stored outside the European Economic Area (EEA). For example, our global Customer Care team need to access information about you in order to respond to your queries. We put in place safeguards, such as EU standard contractual clauses, to protect information that is transferred in this way.
 
 Your rights
 
@@ -231,7 +231,7 @@ Under data protection laws, you have rights as an individual in relation to the 
 *   The right to request the deletion of your personal data;
 *   The right to request the rectification of your personal data - you can manage some of this information in your account.
 
-You can exercise these rights through your account or by contacting customer services.
+You can exercise these rights through your account or by contacting Customer Care.
 
 You also have the right to lodge a complaint with a supervisory authority. In the UK, this is the Information Commissioner’s Office (ICO).  
  
@@ -247,7 +247,7 @@ Our Sites contain links to third party websites which are not subject to this pr
 If you have a query in regards to the processing of your personal information, please contact our Data Protection Officer directly at Privacy.Officer@ft.com.
 
 The Financial Times Ltd  
-Registered Office: Number One Southwark Bridge, London SE1 9HL, UK  
+Registered Office: Bracken House, 1 Friday Street, London, EC4M 9BT  
 Registered Number: 227590
 
 Changes to this Privacy Policy
@@ -258,7 +258,7 @@ Any changes we may make to this privacy policy will be posted on this page. If c
 
 Privacy notice for California Consumer Privacy Act
 
-This section is effective from 1 January 2020 and supplements the information in our Privacy Policy above. 
+This section was updated on 26 June 2020 and supplements the information in our Privacy Policy above. 
 
 Rights for California residents
 
@@ -270,7 +270,91 @@ If you are a California resident, the California Consumer Privacy Act (CCPA) may
 *   The right to opt-out from the sale of your personal information, if applicable;
 *   The right to not be discriminated against for exercising any of the rights above. 
 
-You can exercise any applicable rights by emailing ccpa.privacy@ft.com or contacting our Customer Care. You may be required to submit proof of your identity and/or address, if we are unable to confirm your identity or cannot verify that you are a California resident. We endeavor to respond to a verifiable consumer  request within 45 days. You may also designate an authorised agent to make a request on your behalf, subject to proof of identity and authorisation. 
+You can exercise any applicable rights by emailing ccpa.privacy@ft.com or contacting our Customer Care team. You may be required to submit proof of your identity and/or address, if we are unable to confirm your identity or cannot verify that you are a California resident. We endeavor to respond to a verifiable consumer request within 45 days. You may also designate an authorised agent to make a request on your behalf, subject to proof of identity and authorisation. 
+
+Summary of consumers’ personal information we have collected in the preceding 12 months **Categories of Personal Information** (as defined by California law) **Sources of Information** **Business Purpose** **Commercial Purpose** **Identifiers**: real name, alias or account name. contact information including email or postal address and telephone number. unique personal identifiers including online identifier and IP address.
+
+**Directly from you**: as part of the account information you provide when you sign up to our services, or when you enquire about our products or services.  
+**Information we obtain**: including information from partners, service providers or public sources.
+
+**Providing Services**: including fulfilment of orders. running our events. providing customer services. verifying customer information. maintaining accounts and auditing interactions with customers.  
+**Advertising**: short term use of personal information for the customisation of ads to make the advertising on our sites more relevant.  
+**Security**: including detecting security incidents and debugging.  
+**Quality Assurance**: including internal research for technological development and maintaining the quality of our products and services.  
+**Legal**: including monitoring compliance with our policies and terms and communicating product changes.  
+**Operational Purposes**: other operational purposes, such as recruitment.
+
+**Marketing**: including sales and promoting products and services.  
+**Advertising**: allowing third parties who advertise with us to measure the effectiveness of their ads.  
+**Directories**: including the building and ongoing upkeep of directories.  
+**Competitions**: including administering prize draws and competitions.
+
+**Characteristics**: protected classifications under California or federal law, including gender and age.
+
+**Directly from you**: as part of the account information you provide when you sign up to our services.  
+**Inferred by us**: from data we hold about you.
+
+**Advertising**: short term use of personal information for the customisation of ads to make the advertising on our sites more relevant.  
+**Quality Assurance**: including maintaining the quality of our products and services.
+
+**Competitions**: including administering prize draws and competitions. **Commercial information**: including purchase history and transactions. financial details and payment information. **Directly from you**: as part of the account information you provide when you sign up to our services.
+
+**Providing Services**: including fulfilment of orders. providing customer services. verifying customer information. accounting purposes and conducting audits.  
+**Security**: including detecting security incidents and debugging.  
+**Quality Assurance**: including internal research for technological development and maintaining the quality of our products and services.  
+**Legal**: including monitoring compliance with our policies and terms.
+
+Not applicable. **Professional or employment related information**: including job title. industry. company.
+
+**Directly from you**: as part of the account information you provide when you sign up to our services.  
+**Information we obtain**: including information from partners, service providers or public sources.
+
+**Advertising**: short term use of personal information for the customisation of ads to make the advertising on our sites more relevant.  
+**Quality Assurance**: including maintaining the quality of our products and services.  
+**Operational Purposes**: other operational purposes, such as recruitment.
+
+**Directories**: including the building and ongoing upkeep of directories.
+
+**Internet/other electronic network activity**: online identifiers including device and IP address. geolocation and online behaviour including interest data, interactions with advertisements and recordings of the actions you take on some of our sites. **Indirectly from you**: for example through cookies or similar technology when you are using our websites.
+
+**Advertising**: short term use of personal information for the customisation of ads to make the advertising on our sites more relevant.  
+**Quality Assurance**: including maintaining the quality of our products and services.
+
+**Advertising**: allowing third parties who advertise with us to measure the effectiveness of their ads. **Audiovisual**: audio, electronic, visual and similar information (such as images, videos or call recordings). **Directly from you**: when you enquire about our products or services, or contact us about your account.
+
+**Providing Services**: including providing customer services. verifying customer information. maintaining accounts and auditing interactions with consumers.  
+**Quality Assurance**: including internal research for technological development and maintaining the quality of our products and services.
+
+Not applicable. **Inferences**: drawn from any of the personal information listed above to create a profile or summary about you (for example, an individual’s preferences or characteristics). **Inferred by us**: from data we hold about you.
+
+**Advertising**: short term use of personal information for the customisation of ads to make the advertising on our sites more relevant.  
+**Quality Assurance**: including maintaining the quality of our products and services.
+
+**Marketing**: including sales and promoting products and services.
+
+Service Providers
+
+As described in our Privacy Policy above, we share your personal information with third parties for business purposes. Commonly, these include service providers who help to support our business operations and improve our products. 
+
+We also use service providers to serve you with advertisements that we believe are relevant to you. These third parties are permitted to process your personal information only for the purposes of providing services to the FT. this may include the use of their own cookies or similar technologies to collect your personal information (IP address or other unique identifier) as part of providing their services to FT. 
+
+Do Not Sell My Personal Information: Our Advertising
+
+If you are a California resident, the CCPA also provides you with a right to opt-out of the sale of your personal information. The definition of sale is extremely broad under the CCPA, and may include sharing certain pieces of information with our advertising partners, such as cookie identifiers, geolocation and interactions with advertisements, for the purposes of showing you advertising that is relevant to your interests. 
+
+You can choose to block sharing of this data with advertisers. This means that we turn off  some types of advertising based on information you have given us and your use of our Sites, ensuring that our advertising partners do not receive this data. By opting out, you will stop receiving adverts that are targeted specifically to you. however, you will still see the same number of adverts on our Sites. 
+
+You can opt out using the ‘Do Not Sell My Info’ link located in the footer of the website you are using, if that website shows the types of advertising described above. Alternatively, you can request this by emailing ccpa.privacy@ft.com.
+
+fDi Markets
+
+fDi Markets is an online database that tracks and profiles companies investing overseas and uses this information to understand the trends in FDI on a global basis.  As part of the research process, we identify publicly available details of key individuals who are linked to either project activities or listed as a company contact.
+
+If your contact details have been included in the database, you will have received an email from us containing instructions on how to opt-out, which you can do by calling us on +44 (0)20 7775 6667, or by emailing fDiIntelligence+ccpa@ft.com.
+
+More Information
+
+For more information on how we use your personal information and who we share your personal information with, please see our Privacy Policy above or contact ccpa.privacy@ft.com.
 
 Back to top Need Help? Chat with Customer Care now. Start chat Useful links Support Help About Us Legal &. Privacy Terms &. Conditions Privacy Cookies Copyright Services Individual Subscriptions Group Subscriptions Republishing Contracts &. Tenders Analysts Research Executive Job Search Advertise with the FT Follow the FT on Twitter Tools Portfolio Today's paper Alerts Hub Lexicon MBA Rankings Economic Calendar Newsletters Currency Converter Ebooks More from the FT Group Markets data delayed by at least 15 minutes. © THE FINANCIAL TIMES LTD 2020. FT and ‘Financial Times’ are trademarks of The Financial Times Ltd.  
 The Financial Times and its journalism are subject to a self-regulation regime under the FT Editorial Code of Practice.
