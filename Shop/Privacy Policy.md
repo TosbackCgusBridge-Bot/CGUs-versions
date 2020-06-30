@@ -33,9 +33,9 @@ Lenovo Explore Close
         *   IdeaPad S940
         *   Lenovo New Products
         
-        Sale
+        Black Friday in July
         
-        Shop our weekly sale on laptops for work, home or school &. save today!
+        Get special savings this summer on our best selling brands
         
     *   Desktops
         
@@ -65,9 +65,9 @@ Lenovo Explore Close
         *   M920 SFF
         *   Desktop Deals
         
-        Sale
+        Black Friday
         
-        Click to visit desktop deals &. enjoy weekly savings on traditional towers, all in ones &. more!
+        Shop everything from all in ones to tiny PCs for the whole family &. save today
         
     *   Workstations
         
@@ -94,9 +94,9 @@ Lenovo Explore Close
         *   ThinkStation P330 Tiny
         *   ThinkStation P330 Tower
         
-        Sale
+        Black Friday
         
-        Get the power you need with our wide selection of highly rated workstations. Enjoy savings now!
+        Enjoy special pricing on workstations and get all the power you need
         
     *   Tablets
         
@@ -118,9 +118,9 @@ Lenovo Explore Close
         *   For a Gift
         *   Best Bargain
         
-        Sale
+        Black Friday
         
-        Find the perfect tablet or smart device for you and the whole family. Enjoy weekly discounts today!
+        These deals won't last forever. Shop holiday savings this summer now
         
         Yoga Smart Tab
         
@@ -292,7 +292,7 @@ Lenovo Explore Close
         
         Things to consider when choosing a laptop
         
-    *   Sale
+    *   Black Friday
         
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
@@ -316,16 +316,16 @@ Lenovo Explore Close
         *   Coupons
         
         *   Additional Offers
-        *   PC's ready to ship now
+        *   Work From Home
         *   Clearance
         *   Financing Options
         *   Discount Programs
         *   Trade In Program
         *   Outlet
         
-        Work From Home
+        Christmas came early
         
-        Shop our wide range of essentials to keep you productive at home!
+        Shop our wide range of PCs &. accessories while they last!
         
 *   Phones
 *   Data Center
@@ -712,11 +712,11 @@ Top Suggestions
 
 View all >.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement. Top
 
-protects better"/>.
+protects better."/>.
 
-Different protects better
+Different protects better.
 
 Lenovo Privacy Statement Lenovo Product Privacy Statement
 
@@ -1209,7 +1209,7 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement **Need help with an order? Talk to a representative at 1-855-253-6686 #2** **or chatChat Now** **Need help with an order? Talk to a representative at 1-855-253-6686 #2** **or chatChat Now**×Created with sketchtool.CHAT NOW
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Created with sketchtool.CHAT NOW
 
 How can we help
 
