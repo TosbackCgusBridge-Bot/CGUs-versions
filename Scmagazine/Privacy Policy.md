@@ -253,22 +253,22 @@ Managing data compliance and workflows
     *   Recent
     
     *   CyberSC's Vogel offers insider’s guide to becoming a vCISO
-    *   BlueLeaks files expose data from law enforcement, fusion centers
     *   Australia says state-based actor is behind surge of sophisticated cyberattacks
-    *   Triangle of network security management requires formalized process, Rodrigue says
+    *   First Look: Secure Data's SecureDrive BT
+    *   Don’t be the weakest link in a widespread attack
+    *   Mobile ransomware disguised as upcoming Canadian Covid-19 contact tracing app
+    
+    *   Apps Aren’t the Answer: Managing COVID-19 Will Require Human-Based Contact Tracing
+    *   Only a Public-Private Partnership Can Secure the Electric Grid
+    *   Lululemon’s Rex Sarabia works up a sweat building a security awareness program from scratch
     *   Triage plan can fend off insider threats, Latson says
+    *   Equifax CISO Farshchi: Transparency, focus on behavior transformed security, culture
     
-    *   IT Security Questions to Ask for the Great Return to the Workplace
-    *   First Look: Secure Data's SecureDrive BT
-    *   Ex-CIA exec: Covid-19 has created ideal 'crisis' conditions for malicious hackers
-    *   Ransomware gang claims attack on LG Electronics
-    *   Deliver More Effective Threat Intelligence with Federated Machine Learning
-    
-    *   Union Pacific tracks cyber risk via its own probability modeling methodology
-    *   First Look: Secure Data's SecureDrive BT
-    *   Glupteba malware leverages blockchain as a communications channel
-    *   Ransomware gang claims attack on LG Electronics
-    *   Dem bill would ban federal law enforcement from using facial recognition technology
+    *   Eight cities using Click2Gov targeted in Magecart skimming attacks
+    *   Tax software used by Chinese bank clients installs GoldenSpy backdoor
+    *   Event invitation phishing scheme usurps efficacy of Microsoft, Google and Wells Fargo
+    *   IoT adds value, risk but management within reach
+    *   UCSF paid $1.4 million ransom in NetWalker attack
 
 Back to Top
 
@@ -301,6 +301,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
 You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
