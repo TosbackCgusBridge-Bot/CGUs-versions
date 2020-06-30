@@ -9,20 +9,19 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     
     Opening This Week = Limited Release
     
-    *   All I Can Say
-    *   Beats (2020)
-    *   Irresistible (2020)
-    *   The Transcendents (2020)
+    *   The Outpost (2020)
+    *   Relic (2020)
+    *   The Truth (2020)
     *   See All Opening This Week
     
     Coming Soon
     
     *   Unhinged (2020)
-    *   Mulan (2020)
-    *   Tenet
     *   The SpongeBob Movie: Sponge on the Run
-    *   Bill &. Ted Face the Music
+    *   Tenet
+    *   Mulan (2020)
     *   Antebellum
+    *   Bill &. Ted Face the Music
     *   A Quiet Place Part II (2020)
     *   Monster Hunter (2020)
     *   The King's Man
@@ -577,4 +576,4 @@ Fandango helps you go back to the movies with confidence and peace of mind.
 *   **Contactless Ticket Entry**
 *   **Worry-free Refunds &. Exchanges**
 
-see theaters near you GOT IT
+See Open Theaters Near You GOT IT
