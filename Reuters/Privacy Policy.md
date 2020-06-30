@@ -1,14 +1,3 @@
-Close
-
-Our Privacy Statement &. Cookie Policy
-
-Our Thomson Reuters Privacy Statement has changed to make our Privacy Statement clearer and more concise. In addition, it has been updated to address new laws in California. Please review our updated Privacy Statement.
-
-*   Privacy Statement
-*   Cookie Policy
-
-Ok to continue
-
 *   Global directoryGlobal directory
 
 *   Product loginsProduct logins
@@ -184,13 +173,14 @@ Free trial Search
 Thomson Reuters
 
 *   Cookie policy
+*   Cookies Settings
 *   Terms of use
 *   Privacy statement
 *   Copyright
 *   For CA: Do not sell my info
 *   Accessibility
 
-<img src="//pixel.quantserve.com/pixel/p-V0LtmEYPCpqUN.gif?labels=\_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>. <img height="1" width="1" src="https://www.facebook.com/tr?id=215515565692587&ev=PageView &noscript=1"/>. Feedback Help us improve by sharing your feedback. Thank you for sharing your feedback with us!
+Feedback Help us improve by sharing your feedback. Thank you for sharing your feedback with us!
 
 How would you rate your experience?
 
