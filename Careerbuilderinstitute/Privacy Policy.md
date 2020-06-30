@@ -6,7 +6,7 @@ Download the free app now!
 
 View Jobs Upload/Build Resume
 
-*   Salaries &. advice
+*   Salaries &. Advice
     *   Salary Search
     *   Career Advice
 
