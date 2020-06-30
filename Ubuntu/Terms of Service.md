@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
-*   Split Personality Snaps
-*   Open source holds the key to autonomous vehicles
-*   Ceph storage on VMware
+*   Data centre automation for HPC
+*   Installing ROS in LXD Containers
+*   What is Apache Kafka and will it transform your cloud?
