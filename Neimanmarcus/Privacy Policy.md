@@ -16,9 +16,12 @@ Privacy Policy &. Terms of Use
     
     > IV.    The Information We Collect
     
-    We may ask you to provide personal information at various times and places on this website. In some cases, if you choose not to provide us with the requested information, you may not be able to access the entire website or participate in all of its features. We process certain personal information when you:
+    We may ask you to provide personal information at various times and places on this website. In some cases, if you choose not to provide us with the requested information, you may not be able to access the entire website or participate in all of its features.
+    
+    We process certain personal information when you:
     
     *   Visit our website
+    *   Log on to your Neiman Marcus account
     *   Enter information on our website
     *   Shop with Neiman Marcus online
     *   Provide information in other ways such as by subscribing to our emails or consenting to mobile messaging, where you are given the option to unsubscribe or opt out of receiving such communications, at the time of sign-up and in every subsequent email or mobile message.
@@ -31,6 +34,7 @@ Privacy Policy &. Terms of Use
     *   Birth date
     *   Email address
     *   Your account number if you pay by credit or debit card
+    *   Your browsing history on our websites and mobile app, while you are logged on to your Neiman Marcus account
     *   We may also collect your driver's license number in connection with certain gift card purchases, or when you apply for our private label credit card
     *   If you use one of our services, or participate in one of our surveys, promotions, or sweepstakes, we may ask for additional information, such as your interests, or product preferences
     *   From your purchases and other interactions with us, we obtain information concerning the specific products or services you purchase or use, such as your preferences, interests, sizing, and favorite brands.
@@ -179,7 +183,7 @@ Privacy Policy &. Terms of Use
     
     We'll be happy to provide additional information or answer any questions. Please call us at toll-free 1.866.908.1192 or write to our Customer Care department at P.O. Box 650589, Dallas, TX 75265-0589.
     
-    Last Updated February 27, 2020
+    Last Updated June 30, 2020
     
     Close
     
@@ -242,13 +246,14 @@ Privacy Policy &. Terms of Use
     
     Internet or other electronic network activity information, including browsing and search history
     
-    Consumers, when visiting our website or app
+    Consumers, when visiting our website or app or while logged into their online account
     
-    Marketing 
+    Marketing
     
     Service providers that assist us in providing a range of services including email services, marketing and data collection, data storage, data analytics, fraud prevention, and other business services that assist us in maximizing our business potential
     
     Select vendors  
+    Advertising companies  
       
     Advertising companies
     
@@ -288,7 +293,7 @@ Privacy Policy &. Terms of Use
     
     We are committed to ensuring that you know what Personal Information we collect. To that end, you can ask us for the categories and specific pieces of your Personal Information that we've collected about you, shared for a business purpose, or sold in the 12 months prior to our receipt of your request.
     
-    Your Right to Request Deletion of Personal Information We Have Collected From You 
+    Your Right to Request Deletion of Personal Information We Have Collected From You
     
     You have a right to request deletion of the Personal Information we collect from you. If you request that we delete your Personal Information, you will no longer receive marketing or other communications from us, except when necessary to provide you with a good or service that you requested. perform a contract we entered into with you. maintain the functionality or security of our systems. or comply with or exercise rights provided by the law.
     
@@ -378,7 +383,7 @@ Privacy Policy &. Terms of Use
     
     If there are any questions regarding this Privacy Policy or to request a copy of this Privacy Policy in another format you may contact us at 1.866.908.1192, email us at Privacy@NeimanMarcus.com, or write to us at Customer Care department at P.O. Box 650589, Dallas, TX 75265-0589.
     
-    Last Updated December 30, 2019
+    Last Updated June 30, 2020
     
     Close
     
