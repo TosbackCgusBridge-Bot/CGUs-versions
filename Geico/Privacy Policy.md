@@ -17,7 +17,10 @@ The Information We Disclose
 Confidentiality and Security  
 Additional Information for Our Internet Users  
 Additional Information for Usage-based Insurance Program Users  
-California Residents  
+California Residents
+
+*   Notice of Collection for California Residents
+
 Changes to This Privacy Policy  
 What to Do If You Have Privacy or Security Concerns
 
