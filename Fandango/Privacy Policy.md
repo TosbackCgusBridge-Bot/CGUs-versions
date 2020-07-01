@@ -55,7 +55,7 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   Check Out This Behind the Scenes Look at 'Bad Boys For Life' Read More
-    *   What to Watch on FandangoNOW: ‘Trolls World Tour’ Dance Party Edition, Movies Celebrating Summer and More Read More
+    *   What to Watch on FandangoNOW: ‘Irresistible,’ ‘Viena and the Fantomes,’ Fourth of July Favorites and More Read More
     *   Your Most Anticipated DC Movies To Make a Big Splash at First-Ever DC FanDome Event Read More
     
     Explore Content
@@ -480,10 +480,6 @@ Offers
 *   Receive $15 to Stream Movies
     
     When you buy $30 of Monster between March-June. SEE DETAILS
-    
-*   Receive A Promo Code For A Future Rental, Up To $6
-    
-    When FNOW users make a purchase with their MasterCards. While supplies last. SEE DETAILS
     
 
 New + Coming soon
