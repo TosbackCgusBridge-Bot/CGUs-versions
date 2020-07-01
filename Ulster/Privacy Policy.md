@@ -48,7 +48,15 @@ We use live chat software on our website, this is provided by Click4Assistance, 
 
 Information regarding how the data is processed and stored can be viewed here.
 
-Cookies Accessibility Copyright Freedom of Information Modern Slavery Statement
+Cookies
+
+Accessibility
+
+Copyright
+
+Freedom of Information
+
+Modern Slavery Statement
 
 © Copyright 2020 Ulster University - Ulster University is a registered charity (registered with the Charity Commission for Northern Ireland NIC100166).
 
