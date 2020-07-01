@@ -14,6 +14,8 @@
 *   Life
 *   Investigations
 
+Subscribe Sign In
+
 *   Polls
     *   Latest Polls
     *   Trump Job Approval
@@ -140,13 +142,13 @@ Privacy Policy
 
 Thank you for visiting this website, a digital service presented to you by RealClearPolitics, LLC. ("RCP", "we" or "us"). Your privacy is important to us. As such, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used by this digital service and among RealClearPolitics network of affiliated and operated digital services ("RealClear Media Group"), which includes any online or mobile websites, applications or digital services owned, operated or offered by, on behalf of, or in conjunction with RCP or its Affiliates, including any online or mobile website, application or digital service installation through which this Privacy Policy appears (each a "Service," collectively the "Services"). "Users" are persons that use the Services.
 
-**What Does This Privacy Policy Cover?**
+**A. What Does This Privacy Policy Cover?**
 
 This Privacy Policy covers RCP’s treatment of personal identifiable information (PII) that we gather when you are on the RCP website and when you use RCP Services.
 
 This policy does not apply to the practices of third parties that RCP does not own or control, or to individuals that RCP does not employ or manage.
 
-**Data Collection and How We Use**
+**B. Data Collection and How We Use**
 
 Our primary goal in collecting PII is to provide you with a friendly, customized, and enhanced experience. We only collect PII that is relevant to the purpose of our Services. We may collect PII about our Users in various ways such as: directly from Users, via usage of our Services automatically, from publicly available sources or affiliated 3rd party services. We do not process this information in a way that is incompatible with the purpose for which it has been collected or subsequently authorized by Users, publicly available sources or third parties.
 
@@ -166,18 +168,46 @@ Our primary goal in collecting PII is to provide you with a friendly, customized
         3.  _Legal Uses of Information -_ We may use any PII collected to protect and enforce the legal rights, privacy, safety, or property of the Services, our employees or agents or Users or to comply with applicable law or legal process, including responding to requests from public and government authorities.
         4.  _Mergers and/or Sale of Assets –_ If RCP sells/merges all or part of its business or makes a sale or transfer of its assets or a material part of its business (including in connection with a bankruptcy or similar proceedings), RCP may transfer User PII to the party or parties involved in the transaction as part of that transaction.
 
-**User Access and Control**
+**C. User Access and Control**
 
 You can access your PII on our website when you register as a member (free). As a member you can review, update, change or delete the personal Information RCP Services has collected about you in your account settings.
 
 1.  Receiving Electronic Communications – if Users no longer want to receive newsletter/marketing relating emails or notifications from us going-forward, Users may opt-out of receiving these communications by following the unsubscribe instructions in the email or notification settings.
 2.  Cancelling your account – If Users delete their account, we may also retain backup Information related to the account on our servers for some time after cancelation or fraud detection or to comply with applicable law or our internal security policies. It is not always possible to completely remove or delete all User PII due to technical constraints, contractual, financial, or legal requirements.
 
-**Children’s Privacy**
+**D. Notice to California Customers - Your Privacy Rights**
+
+(a) The California Consumer Privacy Act, Cal. Civ. Code §1798.100 et. seq. (“CCPA”), grants residents of California certain rights with respect to their Personal Information and requires us to provide such individuals with certain information, described in this Section D(1).
+
+1.  California residents may exercise the following rights by contacting our Privacy Policy Coordinator by email (support@realclearpolitics.com) or phone at 1-800-845-9814, or as described at the end of this document:
+
+*   Know the ways in which we acquire, use, share, disclose and otherwise process your Personal Information;
+*   Know the specific pieces of your Personal Information that we hold;
+*   Request the deletion of your Personal Information, subject to several exceptions. and
+*   Not to be denied goods or services for exercising these rights
+
+*   California residents also have the right to opt-out of the “sale” of their Personal Information. We put “sale” in quotation marks because the CCPA considers some transfers of Personal Information to third parties in exchange for value as “sales,” even if no money changes hands, such as when online identifiers, Device IDs, and other information is shared with Third Party Businesses to further their own commercial purposes such as generating profiles about individuals. California residents can exercise this right here: Do Not Sell My Personal Information. If we have actual knowledge that a California resident is younger than 16, we will request opt-in consent before selling their Personal Information. Note that we can still share Personal Information with third parties if those transfers aren’t “sales,” such as with our Service Providers.
+*   Depending on the circumstances and which Service you use, we have disclosed the following categories of your Personal Information for a “business purpose” (as defined in the CCPA) in the preceding twelve (12) months:
+
+*   Identifiers
+*   Geolocation data
+*   Internet or other electronic network activity information
+*   Inferences drawn from any of the above information categories.
+
+*   Depending on the circumstances and which Service you use, we have “sold” (as defined in the CCPA) the following categories of your Personal Information in the preceding twelve (12) months:
+
+*   Identifiers
+*   Geolocation data
+*   Internet or other electronic network activity information
+*   Inferences drawn from any of the above information categories
+
+(b). Shine the Light - California’s "Shine the Light" law, Civil Code Section 1798.83, gives California customers the right to prevent our disclosure of their Personal Information to third parties for those third parties’ direct marketing purposes, and requires certain businesses to respond to requests from California customers asking about the business' practices related to disclosing Personal Information to third parties for the third parties’ direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose Personal Information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. As discussed above in X(A)(2), California residents can exercise their right to opt-out here: Do Not Sell My Personal Information
+
+**E. Children’s Privacy**
 
 You must be 13 years and older to register as a member to the RCP website. As a result, RCP does not specifically collect information about children.
 
-**Contact Us**
+**F. Contact Us**
 
 If you have any further question about this Privacy Policy, please contact us at info@realclearpolitics.com
 
@@ -208,4 +238,4 @@ If you have any further question about this Privacy Policy, please contact us at
 *   View Mobile Site
 
 Copyright © 2020 RealClearHoldings, LLC.  
-Do Not Sell My Personal Information ©2019 RealClearPolitics | Go to full site
+Do Not Sell My Personal Information ©2020 RealClearPolitics | Go to full site <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22522699&cs\_ucfr=null&cv=2.0&cj=1" /><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" border="0" height="1" width="1" alt="Quantcast"/></div>.
