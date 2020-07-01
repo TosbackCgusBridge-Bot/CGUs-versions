@@ -338,7 +338,9 @@ As described in our Privacy Policy above, we share your personal information wit
 
 We also use service providers to serve you with advertisements that we believe are relevant to you. These third parties are permitted to process your personal information only for the purposes of providing services to the FT. this may include the use of their own cookies or similar technologies to collect your personal information (IP address or other unique identifier) as part of providing their services to FT. 
 
-Do Not Sell My Personal Information: Our Advertising
+Do Not Sell My Personal Information 
+
+**Our Advertising**
 
 If you are a California resident, the CCPA also provides you with a right to opt-out of the sale of your personal information. The definition of sale is extremely broad under the CCPA, and may include sharing certain pieces of information with our advertising partners, such as cookie identifiers, geolocation and interactions with advertisements, for the purposes of showing you advertising that is relevant to your interests. 
 
@@ -346,7 +348,7 @@ You can choose to block sharing of this data with advertisers. This means that w
 
 You can opt out using the ‘Do Not Sell My Info’ link located in the footer of the website you are using, if that website shows the types of advertising described above. Alternatively, you can request this by emailing ccpa.privacy@ft.com.
 
-fDi Markets
+**fDi Markets**
 
 fDi Markets is an online database that tracks and profiles companies investing overseas and uses this information to understand the trends in FDI on a global basis.  As part of the research process, we identify publicly available details of key individuals who are linked to either project activities or listed as a company contact.
 
