@@ -123,7 +123,7 @@ Read Our How-to Guide
 
 A storm is coming on July 17. Watch the stunning new #GhostofTsushima trailer below, and ❤️ this tweet to receive updates leading up to launch. pic.twitter.com/Dwnbx2qLWs
 
-15 hours ago View Tweet
+1 day ago View Tweet
 
 *   Share on Facebook: https://www.instagram.com/p/CBqUDsKFKxy/
 *   Share on Twitter: https://www.instagram.com/p/CBqUDsKFKxy/
@@ -141,7 +141,7 @@ Listen Now
 
 Don’t Miss a Preview of the First Rom-Com of the Summer
 
-See “The Broken Hearts Gallery” In Theaters July 17
+See “The Broken Hearts Gallery” In Theaters August 7
 
 Play video: Don’t Miss a Preview of the First Rom-Com of the Summer Close video: Don’t Miss a Preview of the First Rom-Com of the Summer
 
