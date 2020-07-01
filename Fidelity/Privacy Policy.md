@@ -52,6 +52,7 @@ Search fidelity.com or get a quote
     *   News
     *   Watch List Log In Required
     *   Quotes
+    *   Quotes
     *   Alerts Log In Required
     *   Mutual Funds
     *   Stocks
