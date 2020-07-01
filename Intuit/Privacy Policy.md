@@ -7,7 +7,7 @@ Enable Accessibility
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   Deals &. Trending
 *   Home &. Lifestyle
@@ -34,11 +34,7 @@ WindowBedding &. Bath4th of July Furniture &. Mattress SALEUP TO 60% OFF+EXTRA 1
 *   Girls
     
 
-Shop AllUP TO 50% OFFFamily swimwearSummertime essentials:sun, swim &. savingsselect styles
-
-*   Shop Swimwear
-
-UP TO 50% OFF Women's dressesCute, chic options for any event!Shop AllCasual Dressesselect stylesFloral Dressesselect stylesSTARTING AT $7.99Casual a.n.a looks for every summer occasionselect styles
+Shop AllSave on Ambrielle—the comfort your crave, under $25$24.99 Brasselect styles$6.99 Pantiesselect stylesSTARTING AT $7.99Casual a.n.a looks for every summer occasionselect styles
 
 *   Shop All
 
@@ -51,7 +47,11 @@ UP TO 50% OFF Women's dressesCute, chic options for any event!Shop AllCasual Dre
 *   Dresses
     
 
-Shop AllUP TO 40% OFF ArizonaMust-have styles for you &. the crewselect stylesGuys' ShirtsGuys' ShortsJuniors' ShirtsJuniors' ShortsSave on Ambrielle—the comfort your crave, under $25$24.99 Brasselect styles$6.99 Pantiesselect stylesUP TO 40% OFF XersionShape up the family tree. select styles WomenMenBoysGirls 
+Shop AllUP TO 50% OFFFamily swimwearSummertime essentials:sun, swim &. savingsselect styles
+
+*   Shop Swimwear
+
+ 
 
 *   Shop All
 
@@ -64,91 +64,56 @@ Shop AllUP TO 40% OFF ArizonaMust-have styles for you &. the crewselect stylesGu
 *   Fashion Jewelry
     
 
-Shop All  Learn More  Shop Now Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+Shop AllUP TO 50% OFF Women's dressesCute, chic options for any event!Shop AllCasual Dressesselect stylesFloral Dressesselect stylesUP TO 40% OFF ArizonaMust-have styles for you &. the crewselect stylesGuys' ShirtsGuys' ShortsJuniors' ShirtsJuniors' ShortsUP TO 40% OFF XersionShape up the family tree. select styles WomenMenBoysGirls  Learn More  Shop Now Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 43 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Liz Claiborne Womens Split Crew Neck Short Sleeve Henley Shirt
+*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
-    $13.50sale
+    $25sale
     
-    ~$27~9
-*   The Foundry Big &. Tall Supply Co.-Big and Tall Mens Crew Neck Short Sleeve T-Shirt
+    ~$124.98~189
+*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
     
-    $14.99sale
+    $29.99sale
     
-    ~$20~237
-*   JCPenney Home Performance Bath Towel Collection
+    ~$85~
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
-    $5.99 - $37.99sale
+    $25sale
     
-    ~$10 - $76~350
-*   St. John's Bay Womens Mid Rise 11" Bermuda Short
-    
-    $14.99sale
-    
-    ~$32~9
-*   Sealy Essentials™ Ivory Treasure - Mattress Only
-    
-    $165.56 - $332.22sale
-    
-    ~$430 - $920~34
-*   St. John's Bay Womens Soft Short $7.49with code~$22~10
+    ~$124.98~132
+*   Home Expressions Microfiber Plus Ultra Soft Easy Care Wrinkle Resistant Sheet Set $9.74 - $22.49with code~$26 - $60~1696
+*   Sealy Essentials™ Ivory Treasure - Mattress Only $149 - $298.99with code~$430 - $920~34
+*   Sealy® Davlin LTD Plush Pillowtop - Mattress Only $353.99 - $599with code~$1,030 - $1,820~13
 
 Sponsored Items
 
-*   Brim 19-Bar Espresso Maker
-    
-    $430
-    
-    29
-*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $83.99with code~$180~55
-*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
-    
-    $14.99
-    
-    10
-*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $14.99with code~$30~
+*   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~136
 *   Anastasia Beverly Hills Brow Powder Duo
     
     $23
     
     4902
-*   Dyson® V8 Animal Cord-Free Vacuum
+*   Philips HD9630/96 Viva Collection XXL Airfryer with Twin TurboStar Technology
     
-    $569.99sale
+    $389.99sale
     
-    ~$669~186
-*   Rachael Ray Create Delicious 10.25-Inch Deep Skillet
-    
-    $39.99sale
-    
-    ~$70~22
-*   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~136
-*   Shea Moisture Jamaican Black Castor Oil Hair Lotion-8 oz. $9.89with code19
+    ~$400~33
+*   Farberware Cookstart 15-pc. Cookware Set $62.99with code~$120~61
 *   Fisher-Price Rock-A-Stack Clacker
     
     $4.49
     
-*   Fisher-Price Classic Xylophone
+*   Fisher-Price Linkimals Smooth Moves Sloth
     
-    $15.99
+    $29.99
     
-    7
-*   Bissell® SpinWave® Hard Floor Spin Mop
+    36
+*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
     
-    $129
-    
-    1019
-*   Ayesha Curry™ Home Collection 2-pc. 9.25" &. 11.5" Skillet Set
-    
-    $80
+    $14.99
     
     10
-*   Fisher-Price Laugh &. Learn Smart Stages Puppy
-    
-    $19.99
-    
-    62
 *   Fisher-Price Learn with Me Zebra Walker
     
     $24.99
@@ -159,12 +124,36 @@ Sponsored Items
     $15.99sale
     
     ~$19.99~49
+*   Fisher-Price Classic Xylophone
+    
+    $15.99
+    
+    7
+*   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $83.99with code~$180~36
+*   Fisher-Price Linkimals A To Z Otter
+    
+    $19.99
+    
+    23
+*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $83.99with code~$180~55
 *   Farberware 12-Pc. Cookware Set $62.99with code~$190~52
-*   Fisher-Price Linkimals Smooth Moves Sloth
+*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $83.99with code~$180~55
+*   Fisher-Price Soothe and Go Giraffe
     
-    $29.99
+    $9.99
     
-    36
+*   Farberware® Classic Series 15-pc. Stainless Steel Cookware Set $175with code71
+*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $83.99with code~$140 - $160~94
+*   Circulon® Symmetry 10" &. 12" Hard-Anodized French Skillet Set
+    
+    $69.99sale
+    
+    ~$100~159
+*   Circulon® Symmetry 11-pc. Hard-Anodized Cookware Set
+    
+    $379.99sale
+    
+    ~$600~117
 
 Shop and Save at JCPenney
 
