@@ -1,33 +1,33 @@
 We use our own and third-party cookies to improve your experience and our services. By continuing and using the site, including by remaining on the landing page, you consent to the use of cookies. Click here for more information on our **Cookie Policy**.Got it! Skip to main content Open menu button Primary nav
 
-*   NEWS
-*   SCORES
-*   SCHEDULE
-*   VIDEO
-*   TEAMS
-*   PLAYERS
-*   STATS
-*   STANDINGS
-*   DRAFT
-*   FANTASY
-*   TICKETS
-*   SHOP
-*   SIGN IN
-*   *   PHOTOS
-    *   SUPER BOWL
-    *   GAME PASS
-    *   FREE AGENCY
-    *   WAYS TO WATCH
-    *   NFL NETWORK
-    *   NFL FILMS
-    *   COMBINE
+*   News
+*   Scores
+*   Schedule
+*   Videos
+*   Teams
+*   Players
+*   Stats
+*   Standings
+*   Draft
+*   Fantasy
+*   Tickets
+*   Shop
+*   Sign In
+*   *   Photos
+    *   Super Bowl
+    *   Game Pass
+    *   Free Agency
+    *   Ways to Watch
+    *   NFL Network
+    *   NFL Films
+    *   Combine
 
 NFL SHOP Action related nav
 
-*   FANTASY
-*   TICKETS
-*   SHOP
-*   SIGN IN
+*   Fantasy
+*   Tickets
+*   Shop
+*   Sign In
 
 *   Accessibility
 *   Privacy Policy
