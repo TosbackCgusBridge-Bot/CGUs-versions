@@ -227,3 +227,5 @@ PR8 1LJ
 
 **By Email**  
 Reader Services: readerservices@situationpublishing.com
+
+<strong>Get our</strong>. <a href="https://whitepapers.theregister.com/" class="reg\_sticker secondary" style="color:#fff">Tech Resources</a>.
