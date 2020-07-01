@@ -252,23 +252,23 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
-    *   CyberSC's Vogel offers insider’s guide to becoming a vCISO
-    *   Australia says state-based actor is behind surge of sophisticated cyberattacks
+    *   Resilience improved, but response dragged down by too many tools, too few playbooks, report says
+    *   NetWalker claims credit for attack on Crozer-Keystone Health System
+    *   Evil Corp debuts WastedLocker ransomware and new TTPs, researchers say
     *   First Look: Secure Data's SecureDrive BT
-    *   Don’t be the weakest link in a widespread attack
-    *   Mobile ransomware disguised as upcoming Canadian Covid-19 contact tracing app
-    
-    *   Apps Aren’t the Answer: Managing COVID-19 Will Require Human-Based Contact Tracing
-    *   Only a Public-Private Partnership Can Secure the Electric Grid
-    *   Lululemon’s Rex Sarabia works up a sweat building a security awareness program from scratch
-    *   Triage plan can fend off insider threats, Latson says
-    *   Equifax CISO Farshchi: Transparency, focus on behavior transformed security, culture
+    *   Report: Lazarus Group has large-scale Covid-19 phishing campaign in the works
     
     *   Eight cities using Click2Gov targeted in Magecart skimming attacks
-    *   Tax software used by Chinese bank clients installs GoldenSpy backdoor
-    *   Event invitation phishing scheme usurps efficacy of Microsoft, Google and Wells Fargo
-    *   IoT adds value, risk but management within reach
-    *   UCSF paid $1.4 million ransom in NetWalker attack
+    *   Only a Public-Private Partnership Can Secure the Electric Grid
+    *   Alsid’s Melber urges active directory protection to fend off new attack patterns
+    *   Netflix DVD's Sanders: Revamp strategies to stay ahead of attackers
+    *   Equifax CISO Farshchi: Transparency, focus on behavior transformed security, culture
+    
+    *   Resilience improved, but response dragged down by too many tools, too few playbooks, report says
+    *   OSX.EvilQuest ransomware targets Macs. Ransom X blamed for TxDOT attack
+    *   Cybercriminals likely poised to attack as Adobe ends support for Magento 1
+    *   Geopolitical targets figuring in latest StrongPity attacks
+    *   ‘Mirai’ botnet successors’ co-developer sentenced to 13 months
 
 Back to Top
 
@@ -301,8 +301,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
