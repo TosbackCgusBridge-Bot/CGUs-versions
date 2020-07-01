@@ -298,21 +298,13 @@ Discontinued Vehicles
 
 Compare Toyota vs. the Competition
 
-*   2019 Toyota Tacoma vs. Ford Ranger  
-    
-*   2019 Toyota Tacoma vs. GMC Canyon  
-    
-*   2019 Toyota Tacoma vs. Chevy Colorado  
-    
-*   2019 Toyota Tacoma vs. Honda Ridgeline  
+*   2020 Toyota Tacoma vs. Ford Ranger  
     
 *   2020 Toyota Corolla vs. Nissan Sentra  
     
 *   2020 Toyota Corolla vs. Mazda 3 Sedan  
     
 *   2020 Toyota Corolla vs. Honda Civic  
-    
-*   2019 Toyota Corolla vs. 2019 Honda Civic  
     
 *   2020 Toyota Corolla Hatchback vs. Subaru Impreza 5-Door  
     
@@ -324,29 +316,23 @@ Compare Toyota vs. the Competition
     
 *   2020 Toyota Camry vs. Honda Accord  
     
-*   2019 Toyota Camry vs. Honda Accord  
-    
 *   2020 Toyota Camry vs. Nissan Altima  
     
-*   2019 Toyota Camry vs. Nissan Altima  
+*   2020 Toyota C-HR vs. Honda HR-V  
     
-*   2019 Toyota Highlander vs. Honda Pilot  
+*   2020 Toyota Highlander vs. Subaru Ascent  
     
-*   2019 Toyota Sienna vs. Honda Odyssey  
+*   2020 Toyota Highlander vs. Ford Explorer  
     
 *   2020 Toyota Sienna vs. Honda Odyssey  
     
 *   2020 Toyota Sienna vs. Chrysler Pacifica  
     
-*   2019 Toyota Sienna vs. Chrysler Pacifica  
-    
-*   2019 Toyota 4Runner vs. Jeep Grand Cherokee  
-    
 *   2020 Toyota Tundra vs. Chevrolet Silverado  
     
-*   2019 Toyota Tundra vs. Chevrolet Silverado  
+*   2020 Toyota 4Runner vs. Nissan Pathfinder  
     
-*   2019 Toyota Tundra vs. Nissan Titan  
+*   2020 Toyota Avalon vs. Nissan Maxima  
     
 *   Compare Vehicles  
     
@@ -1496,7 +1482,7 @@ The use of Olympic Marks, Terminology and Imagery is authorized by the U.S. Olym
 
 \[#\] View All Disclosures
 
-*   1\. MSRP excludes the Delivery, Processing, and Handling Fee of $955 for Cars (86, Avalon, Avalon HV, Camry, Camry HV, Corolla, Corolla HV, Corolla HB, Mirai, Prius, Prius Prime, Supra, Yaris HB, Yaris Sedan), $1,120 for Small/Medium Trucks, SUVs and Van (4Runner, C-HR, Highlander, Highlander HV, RAV4, RAV4 HV, Sienna, Tacoma), $1,325 for Large SUVs (Land Cruiser, Sequoia), and $1,595 for Large Truck (Tundra). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. The published prices do not apply to Puerto Rico and the U.S. Virgin Islands. Actual dealer price will vary.
+*   1\. MSRP excludes the Delivery, Processing, and Handling Fee of $955 for Cars (86, Avalon, Avalon HV, Camry, Camry HV, Corolla, Corolla HV, Corolla HB, Mirai, Prius, Prius Prime, Supra, Yaris HB, Yaris Sedan), $1,120 for Small/Medium Trucks, SUVs and Van (4Runner, C-HR, Highlander, Highlander HV, RAV4, RAV4 HV, RAV4 Prime, Sienna, Tacoma), $1,325 for Large SUVs (Land Cruiser, Sequoia), and $1,595 for Large Truck (Tundra). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. The published prices do not apply to Puerto Rico and the U.S. Virgin Islands. Actual dealer price will vary.
 *   2\. 2017 EPA-estimated city/highway mileage. Actual mileage will vary.  
     2018 EPA-estimated city/highway mileage. Actual mileage will vary.  
     2019 EPA-estimated 26 city/35 hwy/30 combined mpg for RAV4 LE FWD, XLE FWD, XLE Premium FWD and Limited FWD. 27 city/34 hwy/30 combined mpg for LE AWD. 25 city/33 hwy/28 combined mpg for XLE AWD, XLE Premium AWD, Adventure and Limited AWD. Actual mileage will vary. 2019 RAV4 Hybrid LE, Hybrid XLE, Hybrid XSE and Hybrid Limited preliminary 41 city/38 hwy/40 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
