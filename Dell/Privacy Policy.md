@@ -81,8 +81,8 @@ The personal information we collect can include the following:
 
 *   _Contact details_ such as your name, email address, mailing address, contact telephone numbers.
 *   _Employment information_ such as your job title and other business or company information.
-*   _Credentials_ such as your passwords, password hints, and similar security information used for authentication and My Account access.
-*   _Demographic information_ such as your age, gender, country, interests, and preferences; 
+*   _Credentials_ such as your passwords, password hints, and similar security information used for authentication and MyAccount access.
+*   _Demographic information_ such as your age, gender, country, interests, and preferences. 
 *   _Web form information_ you provide in our web forms (forms that you choose to complete will indicate whether the information requested is mandatory or voluntary).
 *   _Payment information_ to process payments, such as your payment instrument number (such as a credit card number) and the security code associated with your payment instrument.
 *   _Account history information_ related to the products or services you purchase, and the activities associated with your account.
@@ -93,32 +93,34 @@ The personal information we collect can include the following:
 *   _Content consumption information_ about media content (e.g. T.V., apps, and games) you access through our products.
 *   _Feedback and rating information_ you provide to us such as customer survey feedback and product reviews you write.
 *   _COVID-19 status_.
+*   _Workspace location information_.
 
 How We Use And Share Your InformationWe use and share your information to:  
 
 *   Deliver and maintain our products and services.
 *   Establish and maintain your account.
 *   Measure credit and payment risk.
-*   Provide account-related services and information.
+*   Provide account related services and information.
 *   Help you with customer service and technical support issues or questions.
 *   Help us improve and personalize our products and services. 
-*   Provide you with marketing and promotional communications, and deliver targeted and relevant advertising and relevant offers to you, which includes better-predicting content and marketing offers that may interest you.
+*   Provide you with marketing and promotional communications, and deliver targeted and relevant advertising and relevant offers to you, which includes better predicting content and marketing offers that may interest you.
 *   Authenticate you.
 *   Detect and prevent fraud.
 *   Manage and protect our networks, services, and customers.
 *   Meet our legal obligations and doing research.
 *   Help reduce the risk of COVID-19 infections at Dell premises.
+*   Book desk reservations at Dell's premises. 
 
 **COVID-19 Screening Tool And Thermal Vision Camera  
 **In order to help reduce the risk of COVID-19 infections and keep our communities safe, all Dell employees, contingent workers, and visitors must complete a daily health survey and pass a thermal body temperature screening in order to gain access to Dell premises. The thermal vision camera measures your body temperature on an anonymous basis and Dell does not retain your body temperature. If your body temperature is equal to or above 100 degrees Fahrenheit, you will be denied entry and/or asked to leave Dell premises.  
   
-The health survey screening tool, available via an app or web portal, collects your name, email address, and certain health data you voluntarily provide. This information will be retained on your device and not shared with Dell unless you self-report that you are COVID-19 positive. In that case, the tool will notify Dell Environment, Health, and Safety (“EHS”) team and your email address will be retained for up to 30 days (subject to local laws) so EHS may contact you as it takes appropriate action to protect the health and safety of individuals at Dell physical locations. Your COVID-19 positive status will be shared with the Dell EHS team and applicable public health authorities (as required by law). Your status will also be shared on an anonymous basis with potentially infected individuals for contact tracing purposes.  
+The health survey screening tool, available via an app or web portal, collects your name, email address, and certain health data you voluntarily provide. This information will be retained on your device and not shared with Dell unless you self-report that you are COVID-19 positive. In that case, the tool will notify Dell Environment, Health, and Safety (“EHS”) team, and your email address will be retained for up to 30 days (subject to local laws) so EHS may contact you as it takes appropriate action to protect the health and safety of individuals at Dell physical locations. Your COVID-19 positive status will be shared with the Dell EHS team and applicable public health authorities (as required by law). Your status will also be shared on an anonymous basis with potentially infected individuals for contact tracing purposes.  
 Your Consumer Privacy RightsYou may have the following consumer privacy rights under applicable state laws, including California privacy laws:  
 
 *   _Right to Know_: you may have the right to request information about the personal information we have collected about you and for what purpose.
 *   _Right to Access_: you may have the right to request information about how we process your personal information and to obtain a copy of that personal information.
-*   _Right to Portability_:  you may have the right to receive your personal information, in a structured, commonly used, and machine-readable format and to have that information transmitted to another organization in certain circumstances.
-*   _Right to Deletion_:  you may have the right to request the deletion of your personal information that we have collected from you.
+*   _Right to Portability_: you may have the right to receive your personal information, in a structured, commonly used, and machine-readable format and to have that information transmitted to another organization in certain circumstances.
+*   _Right to Deletion_: you may have the right to request the deletion of your personal information that we have collected from you.
 *   _Right to Be Free from Discrimination:_ Dell will not discriminate against you for exercising your consumer privacy rights. 
 
 Submitting An Access Or Deletion RequestIf you have any questions about the type of personal information we may hold about you or if you wish to request deletion of personal information we may hold about you, or exercise any other consumer privacy right as set out above, contact us by:  
@@ -130,7 +132,7 @@ Submitting An Access Or Deletion RequestIf you have any questions about the type
 Please be aware that your request does not guarantee complete access or comprehensive removal as the law may not permit or require removal in certain circumstances. Your Marketing Choices You have choices about how we reach you with marketing offers and about other uses of your information. To update your preferences, you can:  
 
 *   Click “unsubscribe” in any email marketing communications we send you.
-*   Go to your My Account or visit our Preference Management Center to select your marketing communication choices.
+*   Go to your MyAccount or visit our Preference Management Center to select your marketing communication choices.
 *   Go to our List Removal Page to be removed from receiving marketing-related communications.
 
 Please be aware that it may take up to 10 business days for your email preferences to take effect.  
@@ -149,4 +151,4 @@ Links To Third-Party Websites And ServicesWe may sometimes provide links to othe
 Contact UsIf you would like to exercise Your Consumer Privacy Rights as described in this Privacy Statement,  have a privacy question, concern or complaint, please contact us at privacy@dell.com or write to us at:  
   
 Dell Technologies Inc.Attention: Dell’s Privacy OfficeOne Dell Way, RR1-61Round Rock, Texas 78682, USA  
- **Effective Date: June 15, 2020.**
+ **Effective Date: July 1, 2020.**
