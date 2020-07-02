@@ -253,22 +253,22 @@ Managing data compliance and workflows
     *   Recent
     
     *   Resilience improved, but response dragged down by too many tools, too few playbooks, report says
-    *   NetWalker claims credit for attack on Crozer-Keystone Health System
-    *   Evil Corp debuts WastedLocker ransomware and new TTPs, researchers say
-    *   First Look: Secure Data's SecureDrive BT
-    *   Report: Lazarus Group has large-scale Covid-19 phishing campaign in the works
+    *   Digital disruption grows attack surface, Edelman Financial Engines' Conlon says
+    *   Event invitation phishing scheme usurps efficacy of Microsoft, Google and Wells Fargo
+    *   Australia says state-based actor is behind surge of sophisticated cyberattacks
+    *   UCSF paid $1.4 million ransom in NetWalker attack
     
-    *   Eight cities using Click2Gov targeted in Magecart skimming attacks
-    *   Only a Public-Private Partnership Can Secure the Electric Grid
+    *   Event invitation phishing scheme usurps efficacy of Microsoft, Google and Wells Fargo
     *   Alsid’s Melber urges active directory protection to fend off new attack patterns
-    *   Netflix DVD's Sanders: Revamp strategies to stay ahead of attackers
-    *   Equifax CISO Farshchi: Transparency, focus on behavior transformed security, culture
+    *   NetWalker claims credit for attack on Crozer-Keystone Health System
+    *   Variant of Mac malware 'Shlayer' spreads via poisoned web searches
+    *   XDR: The New Cybersecurity X Factor
     
+    *   Microsoft issues two out-of-band patches for RCE flaws, one critical
+    *   'GoldenSpy' tax software campaign tries to erase evidence of malware
+    *   Even during pandemic, healthcare orgs successfully fending off attacks
+    *   Xerox apparent victim of Maze attack
     *   Resilience improved, but response dragged down by too many tools, too few playbooks, report says
-    *   OSX.EvilQuest ransomware targets Macs. Ransom X blamed for TxDOT attack
-    *   Cybercriminals likely poised to attack as Adobe ends support for Magento 1
-    *   Geopolitical targets figuring in latest StrongPity attacks
-    *   ‘Mirai’ botnet successors’ co-developer sentenced to 13 months
 
 Back to Top
 
@@ -301,4 +301,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
