@@ -295,6 +295,7 @@ Print | Citation &. Date | Reprint
 *   Privacy Policy
 *   Ad Choices
 *   Terms
+*   Sitemap
 
 *   Careers
 *   Contact Us
