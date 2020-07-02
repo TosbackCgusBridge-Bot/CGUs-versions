@@ -1,426 +1,435 @@
-<. Back to list Enforcement Actions for Displaying Prohibited and Controlled Items Version No.: 20191224                                                                    Date of Issuance: 20200101
+<. Back to list Enforcement Actions for Displaying Prohibited and Controlled Items   Version No.: 20200624                                                                    Date of Issuance: 20200701
 
-In order to maintain and protect Alibaba.com as a trustworthy platform in the e-commerce industry, enforcement actions such as issuing serious warning, limiting access right, delisting all online items, terminating Membership, etc. will be taken against parties who display items which are in violation of our policies, including product posting related policies.
+**I. Index of Prohibited Items and Penalty Standard**
 
-Pursuant to external trade environment fluctuations and the product compliance requirements of different importing countries, Alibaba.com will, from time to time, make temporary announcements on the implementation of certain product compliance measures, such as country-specific product sale prohibition or restriction. Users who are found to have maliciously circumvented Alibaba.com’s product compliance measures, including but not limited to keywords distortion and misplaced categories, will be subject to a one (1) penalty point per infringement and Alibaba.com has the right to remove any non-compliant product and/or information from listing.
+(1)  Illicit drugs, drug precursors and paraphernalia \[interpretation\]
 
-For Members who display prohibited or controlled items, enforcement actions will be taken against them as follow:
+ 1.   Narcotics, tranquilizers, psychotropic drugs, natural drugs, synthetic drugs, and Category I precursor chemicals
 
-**(1) ILLICIT DRUGS, PRECURSORS AND DRUG PARAPHERNALIA**
+  Level A+ violation. issue of 48 penalty points per violation
 
- 1.  Narcotics, tranquilizers, psychotropic drugs, natural drugs, synthetic drugs, and List 1 precursor chemicals
+ 2.  Category II precursor chemicals, steroids
 
-A+ grade infringement  
-Issue of 48 penalty points and immediate account closure 
+  Level A violation. issue of 6 penalty points per violation
 
- 2. List 2 precursor chemicals and steroids
+ 3. Category III precursor chemicals
 
-A grade infringement  
-Issue of 6 penalty points per infringement
+  Level B violation. issue of 2 penalty points per violation
 
- 3. List 3 precursor chemicals
+ 4. Tools and accessories for taking and injecting drugs
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+  Level B violation. issue of 2 penalty points per violation
 
- 4. Drug paraphernalia (eg. bongs, ice pipes)
+  5. Tools that can be used for smuggling, storing, trafficking, transporting or producing illicit drugs
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+  Level C violation. issue of 1 penalty point per violation
 
-5\. Packaging materials which may be utilized to contain controlled substances.
+ 6. Methods or publications providing information on illicit drugs production
 
-Materials conducive to smuggling, storing, trafficking, transporting or producing illicit drugs (eg. marijuana grow lights)
+  Level C violation. issue of 1 penalty point per violation
 
-C grade infringement  
-Issue of 1 penalty point per infringement
+(2) Hazardous chemicals \[interpretation\]
 
- 6. Publications and other media providing information related to the production of illicit drugs
+1\. Explosives and detonators
 
-C grade infringement  
-Issue of 1 penalty point per infringement
+ Level A+ violation. issue of 48 penalty points per violation
 
-**(2)** **HAZARDOUS SUBSTANCES**
+2\. Inflammable and explosive chemicals
 
-1.  Explosives
-
-A+ grade infringement  
-Issue of 48 penalty points and immediate account closure
-
-2. Explosive and flammable chemicals
-
-A grade infringement  
-Issue of 6 penalty points per infringement
+ Level A violation. issue of 6 penalty points per violation
 
 3\. Radioactive substances
 
-A grade infringement  
-Issue of 6 penalty points per infringement
+ Level A violation. issue of 6 penalty points per violation
 
-4\. Toxic chemicals
+4\. Highly toxic chemicals
 
-A grade infringement  
-Issue of 6 penalty points per infringement
+ Level A violation. issue of 6 penalty points per violation
 
-5\. Poisonous chemicals
+5\. Toxic chemicals
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+ Level B violation. issue of 2 penalty points per violation
 
-6\. Ozone depleting substances
+6\. Ozone-depleting substances
 
-C grade infringement  
-Issue of 1 penalty point per infringement
+ Level C violation. issue of 1 penalty point per violation
 
 7\. Asbestos and products containing asbestos
 
-C grade infringement  
-Issue of 1 penalty point per infringement
+ Level C violation. issue of 1 penalty point per violation
 
-8\. Toxic pesticides
+8\. Highly toxic pesticides
 
-C grade infringement  
-Issue of 1 penalty point per infringement
+ Level C violation. issue of 1 penalty point per violation
 
-9\. Restricted fireworks and firecrackers (applicable to PRC-based members only)
+(3) Firearms and ammunition \[interpretation\]
 
-E grade infringement  
-Issue of 0.5 penalty point per infringement
+1\. Weapons of mass destruction, real guns, ammunition, military equipment, and related equipment
 
-**(3) FIREARMS** **AND AMMUNITION**
+ Level A+ violation. issue of 48 penalty points per violation
 
-1.  Firearms, munitions, military ordnance and heavy weapons
+2\. Replica firearms and accessories
 
-A+ grade infringement  
-Issue of 48 penalty points and immediate account closure
+ Level A violation. issue of 6 penalty points per violation
 
-2\. Replica firearms (eg. air guns, starting pistols, BB guns, paintball guns), firearm accessories, harpoons and spear guns
+3\. Items resembling or imitating weapons with a potential threat
 
-A grade infringement  
-Issue of 6 penalty points per infringement
+ Level B violation. issue of 2 penalty points per violation
 
-3\. Items which otherwise resemble or may be mistaken for weapons (eg. alarm clocks resembling bombs)
+(4) Restricted weapons \[interpretation\]
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+1\. Instruments used for torturing and incapacitating others
 
-**(4) RESTRICTED WEAPONS**
+ Level A violation. issue of 6 penalty points per violation
 
-1.   Products used for incapacitating others (eg. stun guns)
+2\. Restricted knives
 
-A grade infringement  
-Issue of 6 penalty points per infringement
+ Level A violation. issue of 6 penalty points per violation
 
-2.  Prohibited knives (eg. flick knives, bayonets)
+3\. Restricted instruments that seriously endanger the personal safety of others
 
-A grade infringement  
-Issue of 6 penalty points per infringement
+ Level A violation. issue of 6 penalty points per violation
 
-3\. Crossbows
+4\. Crossbows
 
-A grade infringement  
-Issue of 6 penalty points per infringement
+ Level A violation. issue of 6 penalty points per violation
 
-4\. Other weapons
+5\. Restricted instruments that generally endanger the personal safety of others
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+ Level B violation. issue of 2 penalty points per violation
 
-**(5)** **GOVERNMENT, LAW ENFORCEMENT AND MILITARY ISSUED ITEMS**
+(5) Military or police supplies \[interpretation\]
 
-1\. Police uniforms, police insignia and police vehicles
+Uniforms, signs, equipment, and products
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+  Level B violation. issue of 2 penalty points per violation
 
-2\. Restricted police equipment (applicable to PRC-based members only)
+(6) Medical drugs \[interpretation\]
 
-E grade infringement  
-Issue of 0.5 penalty point per infringement
+1\. Prescription drugs, hormones, radiopharmaceuticals
 
-**(6)** **MEDICAL DRUGS**
+ Level A violation. issue of 6 penalty points per violation
 
-1\. Prescription drugs
+2\. Special medicines
 
-A grade infringement  
-Issue of 6 penalty points per infringement
+ Level A violation. issue of 6 penalty points per violation
 
-2\. Regulated poisonous herbal medicines
+3\. Toxic herbal medicines
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+ Level B violation. issue of 2 penalty points per violation
 
-3. Orally administered sexual enhancement supplements
+4\. Oral drugs and weight-loss/health care products containing prohibited ingredients
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+ Level B violation. issue of 2 penalty points per violation
 
-4.  Restricted over-the-counter (OTC) drugs
+(7) Pornographic, violent, vulgar and aphrodisiac items \[interpretation\]
 
-E grade infringement  
-Issue of 0.5 penalty point per infringement
+1\. Containing information related to bestiality, sexual abuse, incest, rape, and child pornography
 
-**(7)** **MEDICAL DEVICES**
+ Level A+ violation. issue of 48 penalty points per violation
 
-1.  Restricted medical devices
+2\. Audio-visual products containing pornographic and obscene content, account number and invitation code of pornographic websites
 
-E grade infringement  
-Issue of 0.5 penalty point per infringement
+ Level A+ violation. issue of 48 penalty points per violation
 
-**(8)** **ADULT AND OBSCENE MATERIALS**
+3\. Images of nudity involving a real person, a dummy, simulated genitals, etc., and violent images
 
-1\.  Items depicting or suggestive of bestiality, rape sex, incest or sex with graphic violence or degradation;
-
-      Any items depicting or suggestive of sex involving minors
-
-A+ grade infringement  
-Issue of 48 penalty points and immediate account closure
-
-2.  Obscene publications and media, adult services, and accounts and invitation codes for adult websites
-
-A+ grade infringement  
-Issue of 48 penalty points and immediate account closure
-
-3\. Images depicting explicit nudity and explicit obscene materials
-
-B grade infringement  
-Issue of 2 penalty points per infringement
+ Level B violation. issue of 2 penalty points per violation
 
 4\. Used underwear
 
-E grade infringement  
-Issue of 0.5 penalty point per infringement
+ Level E violation. issue of 0.5 penalty points per violation
 
-5\. Information containing profane or vulgar language
+5\. Language promoting bloody, violent and vulgar ideas
 
-E grade infringement  
-Issue of 0.5 penalty point per infringement
+ Level E violation. issue of 0.5 penalty points per violation
 
-**(9) CIRCUMVENTION DEVICES AND EQUIPMENT USED FOR ILLICT PURPOSES**
+(8) Products for illegal use \[interpretation\]
 
-1.   Software and devices for bugging or theft of private or confidential information
+1\. Documents, certificates, official seals, medals, identity cards, and other identity documents issued by government authorities. and equipment, materials, and methods used for forging and altering relevant documents
 
-A grade infringement  
-Issue of 6 penalty points per infringement
+ Level A+ violation. issue of 48 penalty points per violation
 
-2.  Devices designed to intentionally block, jam or interfere with authorized radio communications (eg. signal jammers)
+2\. Receipts, tickets, seals, and badges of government and specialized authorities
 
-A grade infringement  
-Issue of 6 penalty points per infringement
+ Level A+ violation. issue of 48 penalty points per violation
 
-3.  Software designed for fraudulent use or other illegal practices
+ Level A violation. issue of 6 penalty points per violation
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+3\. Financial certificates and bank cards, equipment, materials, and methods used for forging and altering relevant documents. sensitive information related to forging documents and financial certificates
 
-4.  Devices used for purposes such as illegal image recording, sound recording and evidence collection
+Level A+ violation. issue of 48 penalty points per violation
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+Level A violation. issue of 6 penalty points per violation
 
-5\. Equipment used for illegal purposes (eg. bank card replicators)
+ Level B violation. issue of 2 penalty points per violation
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+4\. Signal jammers
 
-6\. Descramblers and other items that can be used to gain unauthorized access to television programming, internet access, telephone data or other protected, restricted, or premium services
+ Level A violation. issue of 6 penalty points per violation
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+5\. Software and equipment used for monitoring and stealing private or confidential information
 
-**(10) ILLEGAL SERVICES**
+ Level A violation. issue of 6 penalty points per violation
 
-1.  Provision of official government-issued identification documents (eg. birth certificates, driving licenses, passports, visas);
+6\. Illegal software and hacker products
 
-Equipment used for the production of identification documents
+ Level B violation. issue of 2 penalty points per violation
 
-A+ grade infringement  
-Issue of 48 penalty points and immediate account closure
+7\. Equipment used for illegal photographing, recording, or evidence collecting
 
-2\. Financial services (eg. money transfers, issuing bank guarantees and letters of credit, loans, fundraising)
+ Level B violation. issue of 2 penalty points per violation
 
-A+ grade infringement  
-Issue of 48 penalty points and immediate account closure
+8\. Instruments for unlawful purposes (such as theft tools, unlocking tools, and bank card replicators)
 
-3\. Receipts, military medals and other non-transferable documents
+ Level B violation. issue of 2 penalty points per violation
 
-A grade infringement  
-Issue of 6 penalty points per infringement
+9\. Decoders or other equipment used for accessing TV programs, networks, telephones, data, or other protected or restricted services which require access authorization (such as satellite signal transceivers, software, and streaming TV stick)
 
-4\. Provision of equipment or services for the production of bank cards and financial documents
+ Level B violation. issue of 2 penalty points per violation
 
-A grade infringement  
-Issue of 6 penalty points per infringement
+(9) Illegal services \[interpretation\]
 
-5\. Personal information, proprietary business data, and services that infringe on personal privacy (eg. personal phone locating, phone list checking and bank account checking services)
+1\. Providing services such as money laundering, illegal transfer, and illegal fund-raising
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+ Level A+ violation. issue of 48 penalty points per violation
 
-6\. Healthcare and medical services (ie. services for medical treatment, rehabilitation, vaccination, health checks, psychological counseling, dietetics, plastic surgery and massage)
+ Level B violation. issue of 2 penalty points per violation
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+2\. Providing pornographic videos and chatting services
 
-7\. Legal consulting services and services facilitating gaming and acquisition of fraudulent educational certification
+Level A+ violation. issue of 48 penalty points per violation
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+3\. Providing medical consultation and medical services
 
-8\. Debt collection services and travel facilitation services
+Level A violation. issue of 6 penalty points per violation
 
-E grade infringement  
-Issue of 0.5 penalty point per infringement
+4\. Providing personal privacy information and internal data of corporates. providing services such as personal mobile phone positioning, phone number list inquiry, and bank account inquiry
 
-**(11) **COLLECTIONS, ARTIFACTS AND PRECIOUS METALS****
+ Level B violation. issue of 2 penalty points per violation
 
-1\.  Currency, stocks, bonds and other financial instruments;
+5\. Providing legal advice, lottery services, medical services, educational certificate application services, and other related services
 
-Materials and equipment used for the manufacture of the abovementioned financial products (eg. bank card holograms, currency printing presses)
+ Level B violation. issue of 2 penalty points per violation
 
-A+ grade infringement  
-Issue of 48 penalty points and immediate account closure
+6\. Providing recovery services and fans or audience adding services
 
-2\. Virtual currencies
+ Level E violation. issue of 0.5 penalty points per violation
 
-A grade infringement  
-Issue of 6 penalty points per infringement
+7\. Illegal tariff evasion or avoidance
 
-3\. Gold, silver and other precious metals
+Level D violation. issue of 0 penalty point per violation
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+(10) Items for collection \[interpretation\]
 
-4\. Nationally protected artifacts
+1\. Currency and financial instruments. materials, tools, and methods that are explicitly or implicitly used for forging or altering currency or financial instruments
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+ Level A+ violation. issue of 48 penalty points per violation
 
-**(12) **HUMAN PARTS, HUMAN REMAINS AND PROTECTED FLORA AND FAUNA****
+ Level A or Level E violation. issue of 6 or 0.5 penalty points per violation
 
-1.  Human bodies, body parts and remains
+2\. Virtual currency (such as Bitcoin)
 
-A+ grade infringement  
-Issue of 48 penalty points and immediate account closure
+ Level A violation. issue of 6 penalty points per violation
 
-2.  Protected fauna and parts (eg. species protected by the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES))
+3\. Gold, silver, and other precious metals
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+ Level B violation. issue of 2 penalty points per violation
 
-3\. Products made from cats, dogs, bears, sharks and marine mammals
+4\. Nationally protected artifacts, fossils, and other collections
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+ Level B violation. issue of 2 penalty points per violation
 
-4\. Equipment used for processing protected animals and parts
+(11) Human organs, animals, plants, and tools used for animal culling \[interpretation\]
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+1\. Human organs and remains
 
-5\. Protected flora and parts (eg. species protected by the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES))
+Level A+ violation. issue of 48 penalty points per violation
 
-C grade infringement  
-Issue of 1 penalty point per infringement
+2\. Living bodies, organs, specimen, and related products of animals listed as endangered and protected species in China. tools used for culling or processing such products
 
-**(13) MATERIALS DETRIMENTAL TO NATIONAL SECURITY**
+ Level B violation. issue of 2 penalty points per violation
 
-1.    Materials or information detrimental to national security or public order
+3\. Living bodies, organs, specimen, and related products of animals such as cats and dogs, and tools used for processing such products
 
-A+ grade infringement  
-Issue of 48 penalty points and immediate account closure
+Level B violation. issue of 2 penalty points per violation
 
-2.  Materials or information supporting or advocating infringement of national sovereignty or terrorist organizations
+4\. Plants listed as endangered and protected species in China and related products
 
-A+ grade infringement  
-Issue of 48 penalty points and immediate account closure
+Level C violation. issue of 1 penalty point per violation
 
-3\. Materials or information supporting or advocating discrimination on grounds of ethnicity, sex or religion;
+5\. Other animals and plants under restriction and related products
 
-Materials or information advocating, promoting or otherwise supporting fascism, Nazism and other extreme ideologies
+Level D violation. issue of 0 penalty point per violation
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+(12) National security endangering and insulting information \[interpretation\]
 
-4\. Other materials or information containing offensive content
+1\. Promoting terrorism and violent extremism
 
-E grade infringement  
-Issue of 0.5 penalty point per infringement
+ Level A+ violation. issue of 48 penalty points per violation
 
-**(14) TOBACCO AND RELATED PRODUCTS**
+2\. Promoting secession and sensitive information prohibited by other countries
 
-1.   Cigarettes and other tobacco products
+ Level A+ violation. issue of 48 penalty points per violation
 
-A grade infringement  
-Issue of 6 penalty points per infringement
+3\. Discriminatory or insulting information regarding ethnicity, gender, religion, region, etc.
 
-2.  Liquids for use in electronic cigarettes
+ Level B violation. issue of 2 penalty points per violation
 
-A grade infringement  
-Issue of 6 penalty points per infringement
+4\. Other information regarding politics
 
-3\. Materials for the production of cigarettes (applicable to PRC-based members only)
+ Level E violation. issue of 0.5 penalty points per violation
 
-E grade infringement  
-Issue of 0.5 penalty point per infringement
+(13) Tobacco \[interpretation\]
 
-**(15) GAMBLING EQUIPMENT**
+1\. Finished cigarette products and tobacco products
 
-1.   Information pertaining to, or facilitating, online gambling
+ Level A violation. issue of 6 penalty points per violation
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+2\. E-liquids for e-cigarettes
 
-2.  Gambling and gaming equipment (eg. slot machines)
+ Level A violation. issue of 6 penalty points per violation
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+   
 
-**(16) **SANCTIONED AND OTHERWISE PROHIBITED ITEMS****
+(14) Gambling \[interpretation\]
 
-1.   Products prohibited by laws, regulations, sanctions and trade restrictions
+1\. Information related to online gambling
 
-C grade infringement  
-Issue of 1 penalty points per infringement
+ Level B violation. issue of 2 penalty points per violation
 
-2.  Other sanction-related products
+2\. Gambling tools
 
-C grade infringement  
-Issue of 1 penalty points per infringement
+ Level B violation. issue of 2 penalty points per violation
 
-**(17) SUBSTANDARD AND DANGEROUS GOODS**
+(15) Sanctioned and restricted products \[interpretation\]
 
-1.  Products recalled by the manufacturer or regulatory authorities due to quality issues
+1\. Products that are embargoed or restricted for import or export
 
-B grade infringement  
-Issue of 2 penalty points per infringement
+ Level C violation. issue of 1 penalty point per violation
 
-2\. High risk and potentially dangerous products
+2\. Other sanctioned products
 
-C grade infringement  
-Issue of 1 penalty point per infringement
+ Level C violation. issue of 1 penalty point per violation
 
-**Table 2: Enforcement actions**
+(16) Products violating regulations/laws/standards of the destination country on product quality technology, or inferior products which involve potential risks \[interpretation\]
 
-Please refer to Rules for Enforcement Actions against Non-compliance on Alibaba.com for the standards of corresponding points-based enforcement action (unless otherwise specified, the penalty points are cumulative on Alibaba.com).
+1\. Products that are identified, announced or recalled by authoritative quality inspection departments or manufacturers. products that are eliminated or discontinued for sale by countries. expired, invalid, deteriorated products. products without production date, shelf life, or the manufacturer name
 
-  
-**Remark:**
+ Level B violation. issue of 2 penalty points per violation
 
-1) A maximum of 12 penalty points will be issued on a single day, apart from when 48 points are issued.  
-2) In serious cases, 48 penalty points will be issued, with subsequent account termination.  
-3) These guidelines do not list all prohibited products and are open to updating at Alibaba’s discipline.  
-4)All penalty points shall be on record for a 365-day period.
+2\. Products entailing high risk or potential safety hazard
 
-Upon the date of this announcement sent, please delist all (alleged and / or suspicious) Prohibited and / or Controlled items from our website under your profile. Starting February 2011, any and all Prohibited and Controlled items found will lead us to take appropriate enforcement actions, including but not limited to access restriction and Membership termination.
+ Level C violation. issue of 1 penalty point per violation
 
-We thank you for your kind attention.
+**II. Prohibited Items in Specific Countries and Penalty Standard**
 
-**Note:**
+With reference to the changes in the external trading environment and laws and regulations of specific importing countries, the platform will regulate the exhibition or sale of certain products in specific countries from time to time through announcements.
 
-1\. Prohibited items: any and all items banned by the laws of Hong Kong S.A.R. and the People’s Republic of China, and under international laws, together with any and all items banned in accordance with Alibaba.com’s policies.  
-（http://www.alibaba.com/help/safety\_security/policies\_rules/product\_listing/003.html）
+*   Announcement on Suspension of Sales of E-Cigarettes and Accessories to the United States
+*   Announcement on Suspension of Sales of Tablet Presses and Capsule Filling Machines to the United States
+*   Announcement on Suspension of Sale of COVID-19 related Personal Protective Equipment, Test Instruments and Disinfectant products to Canada
+*   Advice on Distributing/Selling Pesticide Products to the United States
 
-2\. Brand Authorization – any and all branded products can be manufactured or offered for sale only if authorizations are given by the relevant brand owners.
+If a member is found to maliciously evade the control measures of specific countries on prohibited products by means such as twisting keywords of product titles or miscategorizing products, the platform has the right to directly delist the incompliant items and give 1 penalty point to the incompliant account each time.
 
-**Against members who continue to post product listings in violation of any of our policies (such as Product Listing Policy concerning prohibited and controlled items, etc.) or those who when repeatedly alleged with intellectual property infringement claims are unable to refute those claims, Alibaba.com reserves the right, at its own discretion, to exclude or disallow any of them to participate in Customized Sourcing on www.alibaba.com.**
+**III. Index of Controlled Items and Penalty Standard**
+
+Controlled items refer to products that require sale permission such as prior approval or operating licenses before launching. Members are required to submit the obtained legal certificate or license through "My Alibaba - Certification Center - Upload Certificate - Regulatory Certificate" for verification. The product can only be launched upon successful verification.
+
+Products restricted by the platform
+
+1\. Fireworks, firecrackers, igniters and accessories
+
+ No points will be deducted for the first violation. The second violation is defined as Level E violation, and 0.5 points will be deducted each time
+
+2\. Restricted police supplies 
+
+ No points will be deducted for the first violation. The second violation is defined as Level E violation, and 0.5 points will be deducted each time
+
+3\. Over-the-counter drugs
+
+No points will be deducted for the first violation. The second violation is defined as Level E violation, and 0.5 points will be deducted each time
+
+4\. Class III medical devices
+
+No points will be deducted for the first violation. The second violation is defined as Level E violation, and 0.5 points will be deducted each time
+
+5\. Visa application services
+
+No points will be deducted for the first violation. The second violation is defined as Level E violation, and 0.5 points will be deducted each time
+
+6\. Materials for producing cigarettes and specialized machinery for tobaccos
+
+No points will be deducted for the first violation. The second violation is defined as Level E violation, and 0.5 points will be deducted each time
+
+IV. Controlled Items in Specific Countries and Penalty Standard
+
+With reference to the changes in the external trading environment and laws and regulations of specific importing countries, the platform will require the provision of relevant product qualification documents before the display or sale of certain products to buyers in specific countries from time to time through announcements.
+
+*   Self-Balancing Electric Scooters Regulation Announcement(New) 
+
+If a member is found to maliciously evade the control measures of the above regulations in specific countries by means such as twisting keywords of the product title or miscategorizing the products, the platform has the right to directly delist the incompliant items and give 1 penalty point to the incompliant account each time.
+
+**V. Reporting and Feedback**
+
+1\. Reporting method and link: My Alibaba - Service Center - Violation Complaint Center - Other Complaints - Displaying Prohibited and Controlled Items, and report relevant products. 
+
+2\. Please provide comments or suggestions by giving feedback.
+
+**VI. Supplemental Provisions**
+
+1.  Unless otherwise noted, the Enforcement Actions for Displaying Prohibited and Controlled Items on Alibaba.com are also applicable to information publishing and online transactions ("Online Transactions") provided in the Alibaba.com Transaction Service Agreement.
+2.  The Chinese version of this regulation shall always prevail in case of any difference or inconsistency between the Chinese version and other language versions.
+3.  The list of prohibited and controlled items on the platform is for users' reference only. The platform reserves the right to add, delete, or revise product information in accordance with legal provisions, regulatory requirements, and the platform's regulations.
+4.  The platform has the right to aggravate or mitigate the penalty according to different violation circumstances of members.
+
+Examples of malicious violations: utilizing hidden means such as hiding, covering or blurring product information to evade system monitoring. utilizing implicit description, or evade monitoring regulations willfully through vague descriptions or misplaced categories. listing a large number of prohibited items at the same time. repeatedly publishing incompliant information. maliciously testing the regulations, etc. Depending on circumstances, any malicious violation is subject to penalty including delisting and deleting products, as well as blockage, points deduction, and even account closure.
+
+**Appendix:** Account Penalty Standard (Unless otherwise noted, the penalty points of Alibaba.com are calculated site-wide on a cumulative basis)
+
+Cumulatively incurred penalty points
+
+Penalty actions
+
+Remarks
+
+6 points
+
+Dire warning
+
+Email notification
+
+12 points
+
+Restriction on search engines and stores for 7 days
+
+Email notification and system penalties
+
+24 points
+
+Restriction on search engines and stores for 14 days
+
+36 points
+
+Restriction on search engines and stores for 21 days
+
+Removal of all products in the store, and restriction on launching or editing products, etc.
+
+48 points
+
+Account closure
+
+1\. All listed and removed products, including product descriptions and pictures, are subject to the platform's inspection. Any violations will be penalized in accordance with the relevant regulations.
+
+2\. The cumulative penalty points shall not exceed 12 points within a day (i.e. within 24 hours from the first violation's penalty).
+
+(Except for members who carry out malicious behaviors or adversely affect the platform according to the reasonable judgment of the platform).
+
+3\. The cumulative points are calculated on a behavioral-year basis. A behavioral year means that the penalty points for each violation level will be recorded for 365 days. Accounts that have been closed for penalty are excluded.
+
+4\. During the execution of account penalty, the accumulation of penalty points will be stopped. Members are reminded to perform self-inspection.
+
+5\. Where the cumulative penalty points of a member reach 24 points or above, Alibaba.com has the right to restrict or refuse the member from participating in various promotions or marketing events, or from the use of products/ services on the platform.
+
+6\. In case of extremely serious non-compliance (such as malicious non-compliance behaviors. the account user or other accounts controlled by the user are penalized due to serious non-compliance cases according to the platform's reasonable judgment. the account user or other accounts controlled by the user are under investigation by domestic or foreign regulatory authorities. or although the non-compliance case has not been filed for investigation, it is reasonable for the platform to believe that the case is highly suspected to adversely affect the management of order on the platform or cause certain negative impacts), Alibaba.com has the right to unilaterally terminate the contract immediately and close the account without refunding service fees for the remaining period, and also has the right to announce the same on Alibaba.com and/or other media, impose associated penalties, and/or permanently refuse partnership with the concerned party, and carry out other enforcement actions.
