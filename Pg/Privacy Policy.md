@@ -653,3 +653,53 @@ Please contact us directly with any questions or concerns you may have about you
 *   Adchoices 
 
 © 2020 Procter &. Gamble. All claims valid only in the U.S.
+
+California Do Not “Sell” Request CenterAs a California resident, you have the right to opt out of the “sale” of your personal information. P&G does not transfer your personal information to third parties in exchange for money but may share information with certain third parties for targeted advertising and joint marketing efforts. P&G shares your personal information through cookies and data extracts. To exercise your “Do Not Sell” right related to website cookies and tracking technologies, set your preferences below. Because some of these third parties operate differently by website and device, you may need to take this step on additional websites and devices you use. Manage Cookie PreferencesCookies/Tracking Technologies Cookies/Tracking Technologies
+
+Click this button to exercise your right to opt-out of the transfer of your personal information by cookies or tracking technologies to third parties for advertising and joint marketing purposes.  
+  
+
+Data Extracts  
+As a consumer you may have engaged with us in other ways than visiting our websites. For example, you may have registered for one of our brand programs. If you want us to update our internal records so we do not share your personal information from our brand programs with a third party in a way that may be defined as a “sale,” please submit your request using **this webform.**  
+  
+For further details on how P&G processes your personal information, please see our **privacy policy.** Confirm My ChoicesBack Button
+
+Back
+
+Performance CookiesVendor Search Search IconFilter Icon
+
+Clear Fliters
+
+Information storage and accessApply
+
+All Consent Allowed
+
+Select All VendorsAll Consent Allowed
+
+*   33Acrosshost descriptionView CookiesREPLACE-WITH-DYANMIC-HOST-ID
+    *   Namecookie nameHostcookie hostDurationcookie durationTypecookie typeCategorycookie categoryDescriptioncookie category
+
+*   33AcrossView Privacy Notice
+    
+    3 Purposes
+    
+    REPLACE-WITH-DYANMIC-VENDOR-IDArrow
+    
+    Consent Purposes
+    
+    Location Based Ads
+    
+    Consent Allowed
+    
+    Legitimate Interest Purposes
+    
+    Personalize
+    
+    Require Opt-Out
+    
+    Features
+    
+    Location Based Ads
+    
+
+Confirm My Choices
