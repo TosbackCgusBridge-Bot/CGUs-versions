@@ -24,6 +24,8 @@
     
     Fitbit Versa 2
     
+    SALE
+    
     Accessories
     
 *   TECHNOLOGY
