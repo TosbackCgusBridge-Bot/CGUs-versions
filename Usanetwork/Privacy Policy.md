@@ -2,6 +2,8 @@ Please Rotate Your Device 90 For the best experience, turn your mobile device po
 
 *   Privacy Policy
 *   Cookie Notice
+*   California Notice
+*   Privacy FAQs
 
 Last Updated: June 15, 2020
 
