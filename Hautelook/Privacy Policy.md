@@ -9,11 +9,29 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Limited-Time Price Drops Up to 70% Off
+    *   MCM Handbags &. Sunglasses Up to 50% Off
+    *   Luxe Brands Up to 70% Off
+    *   MCM Men's Shoes Up to 60% Off
+    *   Champion Starting at $20
+    *   Summer Finds Under $35
+    *   Woven Tops Under $30
+    *   Bodysuits from $20
+    *   Sneakers ft. Skechers Up to 65% Off
+    *   Men's Denim Under $50
+    *   Champion Men
+    *   2020 Trends: Art Finds
+    *   Hair Care We Love
+    *   Harper Canyon Shoes from $15
+    *   Mules We Love Up to 65% Off
+    *   Free Shipping: Faux Plants &. Planters
+    *   Baby Essentials Starting at $10
     *   Face Mask Sets
     *   UV Sanitizers Under $40
     *   Hands-Free Bags
     *   bObsweep Robotic Vacuums Up to 75% Off
     *   Declutter Your Space: Home Organization Essentials
+    
     *   Shiseido Ginza Tokyo Skin Care &. Makeup
     *   Alexis Bittar Up to 75% Off
     *   Sunnies Under $25 ft. QUAY
@@ -21,6 +39,7 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Naturalizer &. SOUL Naturalizer from $40
     *   Mix &. Match Swim Up to 70% Off
     *   Active Up to 70% Off ft. Jessica Simpson
+    *   Sunglasses Shop: Casual Styles ft. Ray-Ban
     *   All in the Details: Crochet Styles
     *   Hit Snooze: Sleep &. Lounge Faves Up to 70% Off
     *   Exclusive Styles Under $45 Incl. Plus &. Petites
@@ -31,52 +50,44 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Kids' Styles: O'Neill, Roxy &. More
     *   Melissa Up to 70% Off
     *   Juicy Couture Girls' Shoes Up to 50% Off
-    
     *   Ted Baker London Up to 65% Off
     *   Ted Baker London Men Up to 65% Off
     *   Ted Baker London Shoes Up to 60% Off
-    *   Ted Baker London Sun, Watches &. Accessories
-    *   Ted Baker London Handbags
     *   Kids' Styles &. Shoes Up to 65% Off
+    
     *   Ted Baker London Men's Shoes Up to 65% Off
-    *   Casual Pants Under $35
-    *   DKNY Sport &. More
-    *   Spring Outerwear Trends ft. Bagatelle
-    *   Sofft Up to 70% Off
     *   Skin Care We Love
     *   Original Penguin Men's Shoes Up to 70% Off
     *   Dress Shirts Under $30 ft. Calvin Klein
-    *   Fresh for Summer: Activewear Up to 70% Off
     *   Men's Shoes Up to 70% Off
     *   Makeup We Love
-    *   Sweet Dreams: Kids' Sleep Essentials
     *   Decor Update: Pillows, Accents &. More from $20
-    *   Vince Camuto Luggage Up to 80% Off
-    *   Vince Camuto Men Up to 80% Off
-    *   Men's Designer Shoes Up to 70% Off
-    
+    *   JOE'S Jeans Up to 65% Off
     *   Free Shipping: Chic Home Decor Up to 45% Off
-    *   Bring the Salon Home: Hair Essentials
+    *   Saturday Morning Workout: Cycle House &. More
     *   BergHOFF: Kitchen Blowouts
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Free Shipping: Hand-Painted Replicas
-    *   Abound Under $30
-    *   WFH Essentials ft. Adrianna Papell Up to 75% Off
-    *   Women's Sandals &. Flats Under $50
-    *   Vince Camuto Shoes Up to 60% Off
-    *   Dr. Martens Kids
-    *   Shun Cutlery ft. Kanso Collection
     *   Luxe Faux Fur Throws &. Rugs
     *   Hand Sanitizer Under $10
     *   Boho Babe: Aratta &. More Up to 70% Off
-    *   Tees Starting at $15
+    *   DKNY Sport &. More
+    *   Spring Outerwear Trends ft. Bagatelle
+    *   Fresh for Summer: Activewear Up to 70% Off
     *   Sunglasses Shop: Designer Styles Up to 70% Off
-    *   Sunglasses Shop: Casual Styles ft. Ray-Ban
-    *   JOE'S Jeans Up to 65% Off
-    *   Everyday Casual: Plus Styles Up to 70% Off
-    *   Saturday Morning Workout: Cycle House &. More
+    *   Bring the Salon Home: Hair Essentials
 *   WomenShop Sale Events
     
+    *   Limited-Time Price Drops Up to 70% Off
+    *   MCM Handbags &. Sunglasses Up to 50% Off
+    *   Luxe Brands Up to 70% Off
+    *   Champion Starting at $20
+    *   Summer Finds Under $35
+    *   Woven Tops Under $30
+    *   Bodysuits from $20
+    *   Sneakers ft. Skechers Up to 65% Off
+    *   Hair Care We Love
+    *   Mules We Love Up to 65% Off
     *   Face Mask Sets
     *   Hands-Free Bags
     *   Shiseido Ginza Tokyo Skin Care &. Makeup
@@ -86,6 +97,8 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Naturalizer &. SOUL Naturalizer from $40
     *   Mix &. Match Swim Up to 70% Off
     *   Active Up to 70% Off ft. Jessica Simpson
+    
+    *   Sunglasses Shop: Casual Styles ft. Ray-Ban
     *   All in the Details: Crochet Styles
     *   Hit Snooze: Sleep &. Lounge Faves Up to 70% Off
     *   Exclusive Styles Under $45 Incl. Plus &. Petites
@@ -93,109 +106,97 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Melissa Up to 70% Off
     *   Ted Baker London Up to 65% Off
     *   Ted Baker London Shoes Up to 60% Off
-    *   Ted Baker London Sun, Watches &. Accessories
-    *   Ted Baker London Handbags
-    *   Casual Pants Under $35
-    *   DKNY Sport &. More
-    
-    *   Spring Outerwear Trends ft. Bagatelle
-    *   Sofft Up to 70% Off
     *   Skin Care We Love
-    *   Fresh for Summer: Activewear Up to 70% Off
     *   Makeup We Love
-    *   Vince Camuto Luggage Up to 80% Off
-    *   Bring the Salon Home: Hair Essentials
-    *   Abound Under $30
-    *   WFH Essentials ft. Adrianna Papell Up to 75% Off
-    *   Women's Sandals &. Flats Under $50
-    *   Vince Camuto Shoes Up to 60% Off
+    *   JOE'S Jeans Up to 65% Off
+    *   Saturday Morning Workout: Cycle House &. More
     *   Hand Sanitizer Under $10
     *   Boho Babe: Aratta &. More Up to 70% Off
-    *   Tees Starting at $15
+    *   DKNY Sport &. More
+    *   Spring Outerwear Trends ft. Bagatelle
+    *   Fresh for Summer: Activewear Up to 70% Off
     *   Sunglasses Shop: Designer Styles Up to 70% Off
-    *   Sunglasses Shop: Casual Styles ft. Ray-Ban
-    *   JOE'S Jeans Up to 65% Off
-    *   Everyday Casual: Plus Styles Up to 70% Off
-    *   Saturday Morning Workout: Cycle House &. More
+    *   Bring the Salon Home: Hair Essentials
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Accessories
     *   Jewelry
+    *   Accessories
     *   Handbags
     *   Lingerie &. Shapewear
-    *   Watches
 *   MenShop Sale Events
     
+    *   Limited-Time Price Drops Up to 70% Off
+    *   MCM Men's Shoes Up to 60% Off
+    *   Men's Denim Under $50
+    *   Champion Men
     *   Face Mask Sets
     *   Sunnies Under $25 ft. QUAY
+    *   Sunglasses Shop: Casual Styles ft. Ray-Ban
     *   Hart Schaffner Marx Up to 60% Off
+    
     *   Surf &. Skate ft. Rip Curl
     *   Ted Baker London Men Up to 65% Off
-    *   Ted Baker London Sun, Watches &. Accessories
     *   Ted Baker London Men's Shoes Up to 65% Off
     *   Original Penguin Men's Shoes Up to 70% Off
-    
     *   Dress Shirts Under $30 ft. Calvin Klein
     *   Men's Shoes Up to 70% Off
-    *   Vince Camuto Luggage Up to 80% Off
-    *   Vince Camuto Men Up to 80% Off
-    *   Men's Designer Shoes Up to 70% Off
     *   Sunglasses Shop: Designer Styles Up to 70% Off
-    *   Sunglasses Shop: Casual Styles ft. Ray-Ban
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
+    *   Limited-Time Price Drops Up to 70% Off
+    *   Harper Canyon Shoes from $15
+    *   Baby Essentials Starting at $10
     *   Kids' Styles: O'Neill, Roxy &. More
     *   Juicy Couture Girls' Shoes Up to 50% Off
     *   Kids' Styles &. Shoes Up to 65% Off
-    *   Sweet Dreams: Kids' Sleep Essentials
-    *   Dr. Martens Kids
     
     Shop By Category
     *   Girls
-    *   Girls' Shoes
-    *   Boys
     *   Baby
+    *   Boys
+    *   Girls' Shoes
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Limited-Time Price Drops Up to 70% Off
+    *   2020 Trends: Art Finds
+    *   Free Shipping: Faux Plants &. Planters
     *   UV Sanitizers Under $40
     *   bObsweep Robotic Vacuums Up to 75% Off
     *   Declutter Your Space: Home Organization Essentials
-    *   Decor Update: Pillows, Accents &. More from $20
-    *   Vince Camuto Luggage Up to 80% Off
-    *   Free Shipping: Chic Home Decor Up to 45% Off
     
+    *   Decor Update: Pillows, Accents &. More from $20
+    *   Free Shipping: Chic Home Decor Up to 45% Off
     *   BergHOFF: Kitchen Blowouts
     *   Free Shipping: Down &. Memory Foam Essentials
     *   Free Shipping: Hand-Painted Replicas
-    *   Shun Cutlery ft. Kanso Collection
     *   Luxe Faux Fur Throws &. Rugs
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Bedding
-    *   Luggage &. Travel
     *   Cleaning &. Organization
+    *   Bedding
     *   Rugs &. Doormats
     *   Outdoor Living
-    *   Electronic &. Tech Accessories
     *   Accent Furniture
+    *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
+    *   Limited-Time Price Drops Up to 70% Off
+    *   Hair Care We Love
     *   Shiseido Ginza Tokyo Skin Care &. Makeup
     *   Skin Care We Love
     *   Makeup We Love
-    *   Bring the Salon Home: Hair Essentials
     *   Hand Sanitizer Under $10
+    *   Bring the Salon Home: Hair Essentials
     
     Shop By Category
     *   Makeup
@@ -385,6 +386,7 @@ FacebookTwitterPinterestInstagramSnapchatiPhoneiPadAndroid
 
 *   Member Care
 *   Shipping &. Return Policy
+*   Order Status
 *   Guest Returns
 *   FAQ
 *   Contact Us
