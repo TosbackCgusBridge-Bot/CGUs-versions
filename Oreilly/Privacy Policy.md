@@ -1,18 +1,16 @@
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5P4V6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Skip to main content
 
-*   *   For Business
-    *   Sign In
+*   *   Sign In
     *   Try Now
-*   *   Online Learning
-        *   Individuals
-        *   Teams
-        *   Enterprise
-        *   Government
-        *   Academic
-        *   Features
-        *   Custom Services
-        *   Pricing
+*   *   Teams
+    *   Individuals
+    *   Features
+        *   Certifications
+        *   Interactive learning
+        *   Live online sessions
     *   What’s New
+    *   O’Reilly for marketers
+    
 
 Privacy policy
 
@@ -397,35 +395,27 @@ Click here for version 3.4
 
 Click here for version 3.3
 
-The O'Reilly Approach
+About O’Reilly
 
-*   Our Company
-*   Teach/Write/Train
+*   Teach/write/train
 *   Careers
-*   Community Partners
+*   Community partners
+*   Affiliate program
 *   Diversity
-
-Solutions
-
-*   For Teams
-*   For Enterprise
-*   For Individuals
-*   For Government
-*   For Education
-*   Marketing Solutions
 
 Support
 
-*   Contact Us
-*   Privacy Policy
+*   Contact us
+*   Newsletters
+*   Privacy policy
 
-facebook-logo linkedin-logo youtube-logo email-logo Download the O’Reilly App
+facebook-logo linkedin-logo youtube-logo Download the O’Reilly App
 
-Take O’Reilly online learning with you and learn anywhere, anytime on your phone or tablet. Download the app today and:
+Take O’Reilly online learning with you and learn anywhere, anytime on your phone and tablet.
 
-*   Get unlimited access to books, videos, and live training
-*   Never lose your place—all your devices are synced
-*   Learn during your commute with online and offline access
+*   Get unlimited access to books, videos, and live training.
+*   Sync all your devices and never lose your place.
+*   Learn even when there’s no signal with offline access.
 
 Do not sell my personal information
 
@@ -433,6 +423,6 @@ Exercise your consumer rights by contacting us at donotsell@oreilly.com
 
 © 2020, O’Reilly Media, Inc. All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
 
-Terms of Service • Privacy Policy • Editorial Independence
+Terms of service • Privacy policy • Editorial independence
 
 <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1732687426968531&amp;ev=PageView&amp;noscript=1"><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=443792972845831&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=443792972845831&amp;ev=PageView&amp;noscript=1">.
