@@ -123,7 +123,7 @@ Read Our How-to Guide
 
 A storm is coming on July 17. Watch the stunning new #GhostofTsushima trailer below, and ❤️ this tweet to receive updates leading up to launch. pic.twitter.com/Dwnbx2qLWs
 
-2 days ago View Tweet
+3 days ago View Tweet
 
 *   Share on Facebook: https://www.instagram.com/p/CBqUDsKFKxy/
 *   Share on Twitter: https://www.instagram.com/p/CBqUDsKFKxy/
