@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
-*   Data centre automation for HPC
-*   Installing ROS in LXD Containers
-*   What is Apache Kafka and will it transform your cloud?
+*   A blast from the past – Shutter
+*   Data science workflows on Kubernetes with Kubeflow pipelines: Part 2
+*   Encryption at rest with Ceph
