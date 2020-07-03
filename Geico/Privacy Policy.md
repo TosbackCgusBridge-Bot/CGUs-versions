@@ -1,6 +1,6 @@
 Print this page GEICO RESPECTS YOUR PRIVACY
 
-Protecting your privacy is very important to us. Customers like you have trusted us with their insurance needs since 1936, and we take our obligation to safeguard and secure your personal information very seriously. We want you to understand how we protect your privacy and when we collect and use your information.
+Protecting your privacy is very important to us. Customers have trusted us with their insurance needs since 1936, and we take our obligation to safeguard and secure personal information very seriously. We want you to understand how we protect your privacy and when we collect, use, and share information.
 
 TABLE OF CONTENTS
 
@@ -15,7 +15,7 @@ The Information We Collect
 
 The Information We Disclose  
 Confidentiality and Security  
-Additional Information for Our Internet Users  
+Additional Information for Our Website Users  
 Additional Information for Usage-based Insurance Program Users  
 California Residents
 
@@ -28,13 +28,10 @@ SUMMARY
 
 This summary tells you the basics of our privacy commitment to you-how we collect and use your information, how we protect it, and who can see it. You should read the entire privacy policy below for full details.
 
-*   We obtain personal information from you directly, from your transactions with us, and from third parties such as state motor vehicle departments.
-*   We do not collect personally-identifying information from you when you visit our Web site or online services unless you affirmatively provide it to us.
-*   We do not allow third parties to collect personally-identifying information from your computer or mobile device when you visit our Web site or use our online services.
+*   We obtain information from you directly, from your transactions with us, and from third parties such as state motor vehicle departments.
 *   We do not and will not sell your personal information.
-*   Any third parties who perform services for us are required to safeguard any customer information and may only use it regarding performing those services.
-*   We extensively secure and limit access to your information.
-*   We protect information about potential, current, and former policyholders.
+*   Any third parties who perform services for us are required to safeguard any personal information that they process on our behalf and may only use it to perform those services.
+*   We use technical and organizational measures to secure and limit access to your information.
 
 THE INFORMATION WE COLLECT
 
@@ -42,7 +39,7 @@ Non-public personally identifiable information ("Information") is information th
 
 For California Residents, please click here to see the categories of personal information that we may collect.
 
-INFORMATION WE OBTAIN FROM YOU
+INFORMATION WE COLLECT FROM YOU
 
 During the quoting, application, or claims handling processes you may give us Information such as your:
 
@@ -54,9 +51,9 @@ During the quoting, application, or claims handling processes you may give us In
 *   Driver's license number
 *   Date of birth
 
-If you gave us your email address, GEICO may use it from time to time to notify you of such things as new services, special offers, or to confirm transactions. If you do not wish to be contacted by email for non-policy related communications, you may unsubscribe by following the instructions at the bottom of any GEICO email you receive.
+If you give us your email address, GEICO may use it from time to time to notify you of such things as new services, special offers, or to confirm transactions. If you do not wish to be contacted by email for non-policy related communications, you may unsubscribe by following the instructions at the bottom of any GEICO email you receive.
 
-If you are a policyholder, you can log in to your account at geico.com, click on "Update Email Preferences" on the right side of the screen and choose the level of communication you'd like to receive from us. If you have not yet enrolled online, you will need to enroll with geico.com to update your email preferences.
+If you are a policyholder, you can also log in to your account at geico.com, click on "Update Email Preferences" on the right side of the screen and choose the level of communication you'd like to receive from us. If you have not yet enrolled online, you will need to enroll with geico.com to update your email preferences.
 
 INFORMATION ABOUT YOUR TRANSACTIONS
 
@@ -70,7 +67,7 @@ Our sales and service representatives do not have access to the details of your 
 
 LOCATION SERVICES
 
-Your current location is only used if you permit our services to do so. If you allow your location to be obtained using a GEICO app, or with a browser, we will use this information to return your estimated location. We use this information solely to distinguish your current location and not to identify you. GEICO does not automatically track your location.
+Your current location is only collected and used by us if you permit our services to do so. If you allow your location to be collected using a GEICO app, or with a browser, we will use this information to determine your estimated location. We use this information to distinguish your current location and not to identify you.
 
 ACCESS TO AND CORRECTION OF PERSONAL INFORMATION
 
@@ -80,48 +77,49 @@ If you are a California resident, please go to the section of this policy titled
 
 THE INFORMATION WE DISCLOSE
 
-Information about our customers or former customers will only be disclosed as permitted or required by law. Information about you that has been collected is maintained in your policy and/or claims records.
+The Information collected about our customers, former customers, applicants, and employees, will only be disclosed as permitted or required by law.
 
-We use this Information to process and service your policy. to settle claims. with your consent. or as directed by you. We may also disclose it to persons or organizations as necessary to perform transactions you request or authorize. Information about our former customers and about individuals who have obtained quotes from us is safeguarded to the same extent as Information about our current policyholders.
+For our customers and former customers, the majority of this collected Information is maintained in your policy and/or claims records. We use this Information to process and service your policy. to settle claims. with your consent. or as directed by you.
 
 Following are some examples of how we may disclose Information:
 
-We must exchange Information about you with our agents, investigators, appraisers, attorneys, and other persons who are or will become involved in processing your application and servicing your policy or any claims you may make.
-
-When you are involved in a claim, policy information is provided to adjusters and the businesses that will repair your vehicle.
-
-We may share Information with persons or organizations that we have determined need the Information to perform a business, professional, or insurance function for us. These include businesses that help us with administrative functions. If the law in your state permits, we may share Information with financial institutions with which we have a joint-marketing agreement. All of these entities are obligated to keep the Information that we provide to them confidential and to use the Information only for the purpose for which the Information was provided.
-
-Information may be provided to organizations conducting actuarial research or audits. In this case, you will not be individually identified in any research report. The organization must agree not to redisclose the Information and the Information will be returned to us or destroyed when it is no longer needed.
-
-We may also share your Information for other permitted purposes, including:
+*   We must exchange Information about you with our agents, investigators, appraisers, attorneys, and other persons who are or will become involved in processing your application and servicing your policy or any claims you may make.
+*   We disclose your Information to persons or organizations as necessary to perform transactions you request or authorize.
+*   When you are involved in a claim, policy information is provided to adjusters and the businesses that will repair your vehicle.
+*   We may share Information with persons or organizations that we have determined need the Information to perform a business, professional, or insurance function for us. These include businesses that help us with administrative functions. If the law in your state permits, we may share Information with financial institutions with which we have a joint-marketing agreement. All of these entities are obligated to keep the Information that we provide to them confidential and to use the Information only for the purpose for which the Information was provided.
+*   Information may be provided to organizations conducting actuarial research or audits. In this case, you will not be individually identified in any research report. The organization must agree not to redisclose the Information and the Information will be returned to us or destroyed when it is no longer needed.
+*   We may also share your Information for other permitted purposes, including:
 
 *   with another insurance company if you are involved in an accident with their insured
 *   with our reinsurers
 *   with insurance-support organizations that detect and prevent fraud
 *   among the GEICO companies listed below and other subsidiaries of GEICO Corporation to offer you additional products and services
 *   with consumer reporting agencies as permitted by law
-*   with medical professionals or institutions in order to verify coverage or conduct operations or services audits
+*   with medical professionals or institutions to verify coverage or conduct operations or services audits
 *   with state insurance departments or other governmental or law enforcement authorities if required by law or to protect our legal interests or in cases of suspected fraud or illegal activities
-*   if ordered by a subpoena, search warrant or other court order
+*   if ordered by a subpoena, search warrant or other court order or mandatory government or law enforcement process
+*   if necessary to defend our legal rights, or protect our employees or customers
+*   in the event of a business transaction involving the sale of all of or a portion of our business or assets in which case we will comply with applicable laws regarding notice and consent in such transfers
 
 CONFIDENTIALITY AND SECURITY
 
-We restrict access to your Information to employees who we have determined need it in order to provide products or services to you. We train our employees to safeguard customer information, and we require them to sign confidentiality and non-disclosure agreements. We maintain strict physical, electronic, and procedural safeguards to protect your Information from unauthorized access by third parties.
+We restrict access to your Information to employees who we have determined need it to provide products or services to you. We train our employees to safeguard customer information, and we require them to sign confidentiality and non-disclosure agreements. We maintain a variety of physical, electronic, and procedural safeguards to protect your Information from unauthorized access by third parties.
+
+Information about our former customers and about individuals who have obtained quotes from us is safeguarded to the same extent as Information about our current policyholders.
 
 **Your Security is Important**
 
 Please see our Internet Security Policy for further information on how we protect your information on the Internet.
 
-ADDITIONAL INFORMATION FOR OUR INTERNET USERS
+ADDITIONAL INFORMATION FOR OUR WEBSITE USERS
 
-We continuously improve geico.com. We are interested in how visitors use our website, what they like and dislike, and where they have problems. We may gather data on how users navigate our site so we can make geico.com an easy place to do business. Our tools may gather data such as what browser a person uses or even what pages are most popular. We may also use this data, in aggregated or anonymized form, to offer you content, products, or services we hope will interest you.
+We continuously improve geico.com. We are interested in how visitors use our website, what they like and dislike, and where they encounter problems. We may gather data on how users navigate our site so we can make geico.com an easier place to do business. We use various tools to gather data such as what browser a person uses or even what pages are most popular. We may also use this data, in aggregated or anonymized form, to offer you content, products, or services we hope will interest you.
 
-We use cookies to improve your experience while using geico.com and our internet apps. Cookies are small files that are stored on your computer. They help us personalize your experience when you return to our website, and they are required for certain portions of our website. Most browsers let you determine whether or not you accept our cookies. If you don't use cookies, you won't be able to use certain geico.com features, such as the "remember me" function for policyholders that lets you store your User ID so you don't have to input it every time you log in from the same computer.
+We use cookies to improve your experience while using geico.com and our mobile apps. Cookies are small files that are stored on your device used to access our services. They help us personalize your experience when you return to our website, and they are required for certain portions or functionality of our website. Most browsers let you determine whether or not to accept our cookies. If you don't use cookies, you won't be able to use certain geico.com features, such as the "remember me" function for policyholders that lets you store your User ID so you don't have to input it every time you log in from the same computer. Please see your browser settings for more information about managing cookies.
 
-Geico.com may place small pieces of computer code (embedded objects) on our pages to help our advertising partners count how many customers they referred to our site. We may use these objects to track how many referred customers actually get a rate quotation. We may also use objects placed on other sites to monitor your exposure to our advertising or other offers online. These objects don't collect any personally identifiable information about you. You can opt out of our advertising service provider(s) and other companies' tracking cookies used for interest-based ads by visiting the Digital Advertising Alliance's aboutads.info choices page.
+Geico.com may also place small pieces of computer code (embedded objects) on our pages to help our advertising partners count how many customers they referred to our site. We may use these objects to track how many referred customers actually get a rate quotation. We may also use objects placed on other sites to monitor your exposure to our advertising or other offers online. These objects generally collect device identifiers, IP addresses, and similar identifiers, but do not collect things like your name or contact information. You can opt out of our advertising service provider(s) and other companies' tracking cookies used for interest-based ads by visiting the Digital Advertising Alliance's aboutads.info choices page.
 
-We also provide some links to third-party websites that are not owned by GEICO. GEICO has no control over their privacy practices and assumes no responsibility in connection with your use of their websites. We recommend that you check the privacy policy of any website before you provide any personally identifiable information.
+We also provide some links to third-party websites that are not owned by GEICO. GEICO has no control over their privacy practices and assumes no responsibility in connection with your use of these third-party websites. We recommend that you check the privacy policy of any website before you use it or provide any information.
 
 ADDITIONAL INFORMATION FOR USAGE-BASED INSURANCE PROGRAM USERS
 
@@ -129,26 +127,29 @@ Additional information for policyholders enrolled in our usage-based insurance p
 
 CALIFORNIA RESIDENTS
 
-Under the California Consumer Privacy Act ("CCPA"), California residents have the following rights: (1) the right to know, which is the right to request that GEICO disclose what personal information we collect, use, and may disclose about them. (2) the right to delete, which is the right to request that we delete personal information that is collected or maintained by GEICO. and (3) the right to non-discrimination, which is the right to be free from discrimination for exercising any consumer rights under the CCPA. We may limit our responses to any requests under the CCPA as permitted by law.
+Under the California Consumer Privacy Act ("CCPA"), California residents have the following rights: (1) the right to know, which is the right to request that GEICO disclose information about, or a copy of, the types of personal information we collect, use, and disclose about them. (2) the right to delete, which is the right to request that we delete personal information that is collected or maintained by GEICO. and (3) the right to non-discrimination, which is the right to be free from discrimination for exercising any consumer rights under the CCPA. We may limit our responses to any requests under the CCPA as permitted by law. For example, we need to maintain certain information to provide our services to you or for legal and compliance purposes.
 
-To exercise your rights to know or delete under the CCPA, please click here or call us toll-free at 877-832-0937. For verification purposes only, we will collect a limited number of personal identifiers, send those securely through a verification system, ask you follow-up questions through our online portal or representative, and then confirm whether your identity has been verified.
+To exercise your rights to know or delete under the CCPA, please click here or call us toll-free at 877-832-0937. For verification purposes only, we will collect a limited number of personal identifiers, send those through a secure verification system, ask you follow-up questions through our online portal or representative, and then confirm whether your identity has been verified.
 
 You may also designate an authorized agent to make a request to know or delete on your behalf. To designate an authorized agent, you must provide the natural person, or entity registered with the California Secretary of State, with written permission to submit such a request. You (or your agent) will still be required to verify your identity. However, if an authorized agent has been provided with power of attorney in accordance with the California Probate Code, then no additional written authorization is required. All agents must submit proof to GEICO that they have been authorized by any consumer(s) to act on their behalf.
 
-**NOTICE OF COLLECTION FOR CALIFORNIA RESIDENTS:** In the 12-month period prior to the effective date of this Privacy Policy, we have collected the following categories of personal information:
+**NOTICE OF COLLECTION FOR CALIFORNIA RESIDENTS.** We collect the following categories of personal information:
 
-*   Personal identifiers such as a real name, alias, postal address, unique personal identifier, email address, telephone number, insurance policy number, account name, social security number, signature, gender, driver's license number, physical characteristics, consumer status, and other similar identifiers. We collect this category of information directly from consumers—either online, by phone, or in person. An antifraud service provider may confirm the information a consumer has provided to us and give us additional personal identifiers in response. We may also receive personal identifiers from marketing service providers.
-*   Driving and claims history, including information about any prior accidents or insurance claims. We request this information directly from consumers, but also sometimes receive it from antifraud and risk-assessment service providers.
-*   Vehicle information, such as a vehicle identification number (VIN), vehicle details, including any customizations, and vehicle photos. We collect this information directly from consumers, claimants, auto dealerships, body shops, and other service providers.
-*   Financial identifiers, such as a bank account number, credit card number, debit card number, or other financial information. We generally collect this information directly from consumers. On occasion, we may receive this information indirectly while handling claims.
-*   Medical information, such as details involving the injuries sustained in a car accident, the treatment for such injuries, as well as health insurance information. We receive this information either directly from consumers or their attorneys, or from medical-field third-parties, in accordance with state and federal law.
-*   Commercial information about consumer transactions and experiences with us and others, such as payment history, claims, coverage and vehicle changes. We may receive this information directly from consumers or through their online activities, and sometimes from third-party vendors.
-*   Internet or other electronic network-activity information, which may include commercial information, such as browsing history, online identifier(s), Internet Protocol address, search history, and information regarding a consumer's interaction with an Internet Web site, application, or advertisement. We collect this information through a consumer's use of our website or mobile application(s) and third-party partners such as analytics and marketing providers.
-*   Geolocation data. When a consumer asks us to, we may collect geolocation data. For example, you may use our mobile application to find a nearby body shop. We collect this data through our application(s).
-*   Audio, electronic, visual, or similar information, such as recorded statements, photos of damaged vehicles, videos of accident locations, and calls made to our customer service centers, which may be recorded. We receive this information directly from consumers or a claimant's insurer, through police investigations (i.e. accident reports), and through fraud investigations.
-*   Professional or employment-related information in the form of business contact information and education or employment history, which we only use as permitted by law. We generally collect this information directly from consumers. On occasion, this information is provided to us by third-parties.
-*   Applicant and Employee information, in addition to information in the above categories, this information includes birth certificates (to validate dependents), passport numbers, access badge photos, background and screening data, and protected class characteristics. This information is used in accordance with state and federal laws and is shared with our human-resources service providers.
-*   Inferences drawn from the information we collect when consumers visit our websites, use our mobile apps, or interact with us on our social media platforms, as well as information about consumer preferences and behavior that we collect on our websites and mobile apps.
+*   Contact and identification information, such as a real name, alias, postal address, unique personal identifiers, email address, account username and password, telephone number, insurance policy number, account name, social security number, signature, gender, driver's license number, physical characteristics, consumer status, and other similar identifiers.
+*   Driving and claims history, including information about any prior accidents or insurance claims.
+*   Vehicle information, such as a vehicle identification number (VIN), vehicle details, including any customizations, and vehicle photos.
+*   Financial identifiers, such as a bank account number, credit card number, debit card number, or other financial information.
+*   Medical information, such as details involving the injuries sustained in a car accident, the treatment for such injuries, as well as health insurance information.
+*   Commercial information about consumer transactions and experiences with us and others, such as payment history, claims, coverage and vehicle changes.
+*   Website and app usage and device information, such as search and browsing history, online identifier(s), Internet Protocol address, search history, and information regarding how users interact with our websites, apps, and online advertisements.
+*   Location data. When a consumer agrees, we may collect information from their device about their physical location so they can use features like finding a nearby body shop.
+*   Audio, electronic, visual, or similar information, such as recorded statements, photos of damaged vehicles, videos of accident locations, and calls made to our customer service centers, which may be recorded.
+*   Professional or employment-related information in the form of business contact information and education or employment history, which we only use as permitted by law.
+*   Job Applicant, Employee and Contractor information, in addition to information in the above categories, this information may include birth certificates (to validate dependents), passport numbers, access badge photos, background and screening data, health information (such as body temperature), protected class characteristics, and inferences drawn from the information we collect. This information is used in accordance with state and federal laws and is shared with our human-resources service providers.
+
+We collect each of the above categories of information for a variety of purposes, including:
+
+*   Directly from consumers–either online, by phone, or in person. antifraud, marketing, analytics, risk-assessment and other service providers. claimants. attorneys. auto dealerships. body shops. medical-field third-parties. our apps and websites. consumer or claimant insurers. police investigations (i.e. accident reports). fraud investigations. and other third-parties.
 
 We collect each of the above categories of information for a variety of purposes, including:
 
@@ -156,16 +157,16 @@ We collect each of the above categories of information for a variety of purposes
 *   To assess and improve our product and service offerings, including the development of new products and services.
 *   To perform data analysis (including market and consumer search and analytics and trend analysis).
 *   To conduct marketing activities and communicate with you regarding products and services offered by GEICO and its partners.
-*   To deliver website and mobile app content (including advertising) based on your interests and browsing history.
+*   To have website and mobile app content (including advertising) delivered based on your GEICO browsing history.
 *   To enable you to interact with us through social media platforms.
 *   To detect and prevent fraud and other prohibited or illegal activity.
-*   To maintain and enhance the security of our systems, data, and workplace.
+*   To maintain and enhance the security and safety of our systems, data, and workplace.
 *   To hire qualified employees and maintain our workforce.
 *   To comply with legal obligations and policies.
 *   To bring and defend claims.
 *   For other purposes as permitted by law or to which you consent.
 
-In the 12-month period prior to the effective date of this Privacy Policy, we have disclosed all of the above categories of personal information to service providers that assist us in providing insurance-related services, which include offering quotes, processing applications (both employment and insurance), and claims handling. If you are involved in an accident with another insured individual, we may have to share your information for the permitted purpose of handling that incident. We may also have to share your information with our reinsurers, excess insurers, insurance-support organizations that help us detect and prevent fraud, state insurance departments and other governmental and law enforcement authorities (where required by law or to protect our legal interests or in cases of suspected fraud or illegal activities), with consumer reporting agencies as permitted by law, and if ordered by subpoena, search warrant or other court order. We may disclose personal information to service providers involved in our marketing, verification, data-processing, risk-assessment, security and antifraud efforts, and as required or permitted by federal or state law. For additional information regarding the categories of personal information we have disclosed and the categories of entities with which we have disclosed such information, please see "The Information We Disclose," above.
+We disclose all of the above categories of personal information to service providers that assist us in providing insurance-related services, which include offering quotes, processing applications (both employment and insurance), and claims handling. If you are involved in an accident with another insured individual, we may have to share your information for the permitted purpose of handling that incident. We may also have to share your information with our reinsurers, excess insurers, insurance-support organizations that help us detect and prevent fraud, state insurance departments and other governmental and law enforcement authorities (where required by law or to protect our legal interests or in cases of suspected fraud or illegal activities), with consumer reporting agencies as permitted by law, and if ordered by subpoena, search warrant or other court order. We may disclose personal information to service providers involved in our marketing, verification, data-processing, risk-assessment, security and antifraud efforts, and as required or permitted by federal or state law. For additional information regarding the categories of personal information we have disclosed and the categories of entities with which we have disclosed such information, please see "The Information We Disclose," above.
 
 We have not sold consumers' personal information in the 12-month period preceding the Effective Date of this Privacy Policy.
 
@@ -204,4 +205,4 @@ This Privacy Policy applies to all of the following GEICO companies:
 *   GEICO County Mutual Insurance Company
 *   GEICO Insurance Agency, Inc.
 
-The Effective Date of the revised Privacy Policy is January 1, 2020.
+The Effective Date of the revised Privacy Policy is July 1, 2020.
