@@ -1,55 +1,78 @@
-Skip to main content LP - Corporate Profile Text Company Profile
+Skip to main navigation
+
+*   Home
+*   News &. Events
+    *   Press Releases
+    *   Calendar
+    *   Presentations
+*   Financial Information
+    *   Quarterly Earnings
+    *   SEC Filings
+    *   Supplemental Data
+*   Stock Information
+    *   Stock Quote &. Chart
+    *   Historic Price Lookup
+    *   Investment Calculator
+    *   Dividends
+    *   Analyst Coverage
+*   Corporate Governance
+    *   Governance Overview
+    *   Executive Leadership
+    *   Board of Directors
+    *   Board Committees
+    *   Governance Documents
+    *   Committee Charters
+*   Investor Resources
+    *   Shareholder Services
+    *   Investor Alerts
+*   Contact Us
+
+Latest Quarterly Earnings Q1 May 6, 2020 at 9:00 AM EST Q1 2020 Office Depot Inc Earnings  
+Click here for webcast view more Latest Quarterly Earnings Q1 May 6, 2020 at 9:00 AM EST Q1 2020 Office Depot Inc Earnings  
+Click here for webcast view more Investor Relations Company Profile
 
 The ODP Corporation (NASDAQ:ODP) is a leading provider of business services, products and digital workplace technology solutions to small, medium and enterprise businesses. ODP, operating through its direct and indirect subsidiaries, maintains a fully integrated B2B distribution platform of approximately 1,300 stores, online presence, and thousands of dedicated sales and technology service professionals, all supported by its world-class supply chain facilities and delivery operations. Through its banner brands Office Depot®, OfficeMax®, CompuCom® and Grand&Toy®, as well as others, the company offers its customers the tools and resources they need to focus on their passion of starting, growing and running their business. For more information, visit news.officedepot.com and follow @officedepot on Facebook, Twitter and Instagram.
 
 _The ODP Corporation and Office Depot are trademarks of The Office Club, Inc. OfficeMax is a trademark of OMX,Inc. CompuCom is a trademark of CompuCom Systems, Inc. Grand&Toy is a trademark of Grand &. Toy, LLC in Canada. ©2020 Office Depot, LLC. All rights reserved. Any other product or company names mentioned herein are the trademarks of their respective owners._
 
-LP - Stock Quote and Chart Heading Overview page Stock Quote and Chart
+Stock Quote and Chart
+
+Price
+
+$21.89
+
+Change
+
+\-0.77
+
+Percent Change
+
+(-3.40%)
 
 Data Provided by Refinitiv. Minimum 15 minutes delayed.
 
-LP - Stock More Link view details Recent News The ODP Corporation Announces Completion of Office Depot Holding Company Reorganization and Reverse Stock Split The ODP Corporation Announces Completion of Office Depot Holding Company Reorganization and Reverse Stock Split Wed, 07/01/2020 - 06:30 EDT This release is a backfill from a News Wire General
+view details  
+Recent News Jul 02, 2020 The ODP Corporation Releases 2020 Corporate Sustainability Report view more Recent News Jul 02, 2020 The ODP Corporation Releases 2020 Corporate Sustainability Report view more Events Jun 4, 2020 at 10:50 AM EDT Office Depot Presents at Baird's 2020 Global Consumer, Technology &. Services Conference view more Events Jun 4, 2020 at 10:50 AM EDT Office Depot Presents at Baird's 2020 Global Consumer, Technology &. Services Conference view more Presentations Jun 04, 2020 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 04, 2020 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more
 
-_Office Depot is Now a Subsidiary of the New Public Company, The ODP Corporation_ 
+*   Home
+*   News &. Events
+*   Financial Information
+*   OfficeDepot.com
+*   CompuCom
 
-_Reverse Stock Split Implemented at a 1-for-10 Ratio Effective at 4:01 p.m. EDT on June 30, 2020_
+*   Stock Information
+*   Corporate Governance
+*   Investor Resources
+*   Newsroom
+*   Corporate Sustainability
 
-BOCA RATON, Fla.--(BUSINESS WIRE)--Jul. 1, 2020-- The ODP Corporation (“ODP” or the “Company”) (NASDAQ: ODP), a leading provider of business services, products and digital workplace technology solutions through an integrated B2B distribution platform, announced that it has completed its previously announced holding company reorganization creating a newly-formed public company named “The ODP Corporation” and implemented a 1-for-10 reverse stock split effective June 30, 2020.
+*   Twitter
+*   Facebook
+*   Instagram
+*   Linkedin
+*   Pinterest
 
-The ODP Corporation replaces Office Depot, Inc. (“Office Depot”) as the public company trading on Nasdaq under the ticker symbol “ODP”. All outstanding shares of Office Depot have been automatically converted into shares of common stock in The ODP Corporation, and Office Depot now operates as a wholly-owned subsidiary of The ODP Corporation. This holding company reorganization is intended to be a tax-free transaction for federal income tax purposes for the Company’s shareholders. The holding company reorganization is expected to simplify the Company’s legal entity and tax structure, more closely align the Company’s operating assets to their respective operating channels within the legal entity structure, and increase its operational flexibility. Neither the holding company reorganization nor the reverse stock split resulted in a change in the directors, executive officers, management or business of the Company.
+*   Terms of Use
+|*   Privacy Policy
 
-In connection with the implementation of the holding company reorganization, the Company announced that it also completed a 1-for-10 reverse stock split for all issued and outstanding common stock effective at 4:01 p.m. EDT on June 30, 2020. As previously disclosed, the Company’s shareholders previously approved a reverse stock split at a ratio in the range of not less than 1-for-5 and not more than 1-for-10 at its annual shareholder meeting held on May 11, 2020, with the exact ratio and effective time to be determined by the Office Depot Board of Directors. ODP’s common stock will begin trading at the opening of trading on July 1, 2020 under the new CUSIP number 88337F105. The reverse stock split applies to all of the Company’s outstanding common stock, reducing the number of shares of common stock issued and outstanding from approximately 526 million shares to approximately 52.6 million shares (without giving effect to the treatment of fractional shares) and proportionately decreasing the number of authorized shares of common stock from 800,000,000 to 80,000,000.
-
-The reverse stock split will affect all holders of common stock uniformly and will not alter any shareholder’s percentage ownership interest in the Company, except to the extent that the reverse stock split would result in a shareholder owning a fractional share. No fractional shares of common stock will be issued in connection with the reverse stock split. Shareholders who would have otherwise been entitled to a fractional share of common stock as a result of the reverse stock split will instead be entitled to receive a cash payment in lieu of such fractional shares.
-
-The rights, privileges and interests of the Company's shareholders will remain the same with respect to the new holding company. The limited duration shareholder rights plan, previously announced on May 6, 2020, will continue to apply to the shares of the Company. The shareholder rights plan expires, without any further action required to be taken by the ODP Board of Directors, on May 4, 2021.
-
-Holders of the Company’s common stock held in book-entry form or through a bank, broker or other nominee do not need to take any action in connection with the reverse stock split. Shareholders of record will be receiving information from Computershare Trust Company, N.A., the Company’s transfer agent, regarding their reverse stock split-adjusted stock ownership. All other questions regarding the mechanics of the reverse stock split can be directed to the Company’s transfer agent, Computershare, at 800-681-8059.
-
-**About The ODP Corporation**
-
-The ODP Corporation (NASDAQ:ODP) is a leading provider of business services, products and digital workplace technology solutions to small, medium and enterprise businesses. ODP, operating through its direct and indirect subsidiaries, maintains a fully integrated B2B distribution platform of approximately 1,300 stores, online presence, and thousands of dedicated sales and technology service professionals, all supported by its world-class supply chain facilities and delivery operations. Through its banner brands Office Depot®, OfficeMax®, CompuCom® and Grand&Toy®, as well as others, the Company offers its customers the tools and resources they need to focus on their passion of starting, growing and running their business. For more information, visit news.officedepot.com and follow @officedepot on Facebook, Twitter and Instagram.
-
-_The ODP Corporation and Office Depot are trademarks of The Office Club, Inc. OfficeMax is a trademark of OMX, Inc. CompuCom is a trademark of CompuCom Systems, Inc. Grand&Toy is a trademark of Grand &. Toy, LLC in Canada. ©2020 Office Depot, Inc. All rights reserved. Any other product or company names mentioned herein are the trademarks of their respective owners._
-
-**FORWARD LOOKING STATEMENTS**
-
-This communication may contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements or disclosures may discuss goals, intentions and expectations as to future trends, plans, events, results of operations, cash flow or financial condition, the potential impacts on our business due to the unknown severity and duration of the COVID-19 outbreak, or state other information relating to, among other things, the Company, based on current beliefs and assumptions made by, and information currently available to, management. Forward-looking statements generally will be accompanied by words such as “anticipate,” “believe,” “plan,” “could,” “estimate,” “expect,” “forecast,” “guidance,” “outlook,” “intend,” “may,” “possible,” “potential,” “predict,” “project,” “propose” or other similar words, phrases or expressions, or other variations of such words. These forward-looking statements are subject to various risks and uncertainties, many of which are outside of the Company’s control. There can be no assurances that the Company will realize these expectations or that these beliefs will prove correct, and therefore investors and stakeholders should not place undue reliance on such statements.
-
-Factors that could cause actual results to differ materially from those in the forward-looking statements include, among other things, highly competitive office products market and failure to differentiate the Company from other office supply resellers or respond to decline in general office supplies sales or to shifting consumer demands. competitive pressures on the Company’s sales and pricing. the risk that the Company is unable to transform the business into a service-driven company or that such a strategy will not result in the benefits anticipated. the risk that the Company may not be able to realize the anticipated benefits of acquisitions due to unforeseen liabilities, future capital expenditures, expenses, indebtedness and the unanticipated loss of key customers or the inability to achieve expected revenues, synergies, cost savings or financial performance. the risk that the Company is unable to successfully maintain a relevant omni-channel experience for its customers. the risk that the Company is unable to execute the Business Acceleration Program successfully or that such program will not result in the benefits anticipated. failure to effectively manage the Company’s real estate portfolio. loss of business with government entities, purchasing consortiums, and sole- or limited- source distribution arrangements. failure to attract and retain qualified personnel, including employees in stores, service centers, distribution centers, field and corporate offices and executive management, and the inability to keep supply of skills and resources in balance with customer demand. failure to execute effective advertising efforts and maintain the Company’s reputation and brand at a high level. disruptions in computer systems, including delivery of technology services. breach of information technology systems affecting reputation, business partner and customer relationships and operations and resulting in high costs. unanticipated downturns in business relationships with customers or terms with the suppliers, third-party vendors and business partners. disruption of global sourcing activities, evolving foreign trade policy (including tariffs imposed on certain foreign made goods). exclusive Office Depot branded products are subject to additional product, supply chain and legal risks. product safety and quality concerns of manufacturers’ branded products and services and Office Depot private branded products. covenants in the credit facility. a downgrade in the Company’s credit ratings or a general disruption in the credit markets. incurrence of significant impairment charges. retained responsibility for liabilities of acquired companies. fluctuation in quarterly operating results due to seasonality of the Company’s business. changes in tax laws in jurisdictions where the Company operates. increases in wage and benefit costs and changes in labor regulations. changes in the regulatory environment, legal compliance risks and violations of the U.S. Foreign Corrupt Practices Act and other worldwide anti-bribery laws. volatility in the Company’s common stock price. changes in or the elimination of the payment of cash dividends on Company common stock. macroeconomic conditions such as future declines in business or consumer spending. increases in fuel and other commodity prices and the cost of material, energy and other production costs, or unexpected costs that cannot be recouped in product pricing. unexpected claims, charges, litigation, dispute resolutions or settlement expenses. catastrophic events, including the impact of weather events on the Company’s business. the discouragement of lawsuits by shareholders against the Company and its directors and officers as a result of the exclusive forum selection of the Court of Chancery, the federal district court for the District of Delaware or other Delaware state courts by the Company as the sole and exclusive forum for such lawsuits. and the impact of the COVID-19 pandemic on the Company’s business, including on the demand for its and our customers’ products and services, on trade and transport restrictions and generally on our ability to effectively manage the impacts of the COVID-19 pandemic on our business operations. The foregoing list of factors is not exhaustive. Investors and shareholders should carefully consider the foregoing factors and the other risks and uncertainties described in the Company’s Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K filed with the U.S. Securities and Exchange Commission. The Company does not assume any obligation to update or revise any forward-looking statements.
-
-View source version on businesswire.com: https://www.businesswire.com/news/home/20200701005216/en/
-
-Tim Perrott  
-Investor Relations  
-561-438-4629  
-Tim.Perrott@officedepot.com
-
-Danny Jovic  
-Media Relations  
-561-438-1594  
-Danny.Jovic@officedepot.com
-
-Source: The ODP Corporation
-
-Office Depot is Now a Subsidiary of the New Public Company , The ODP Corporation   Reverse Stock Split Implemented at a 1-for-10 Ratio Effective at 4:01 p.m. EDT on June 30, 2020 BOCA RATON, Fla. --(BUSINESS WIRE)--Jul. 1, 2020-- The ODP Corporation (“ODP” or the “Company”) (NASDAQ: ODP), a leading LP - News More Link view more Events Office Depot Presents at Baird's 2020 Global Consumer, Technology &. Services Conference Display Title Office Depot Presents at Baird's 2020 Global Consumer, Technology &. Services Conference Display "add to calendar" true Event Type Conference Presentation Webcast URL Click here for webcast Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference (320.27 KB) Start Date Thu, 06/04/2020 - 10:50 EDT Estimated false Show start date without start time Hide Show end date without end time Hide Show replay date without replay time Hide LP - Events More Link view more Presentations Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference Add Files Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference (320.27 KB) Date Thu, 06/04/2020 - 12:00 Display Title Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference Asset Type Presentations LP - Presentations More Link view more
+*   ©2020 by The ODP Corporation, Inc. All rights reserved.
