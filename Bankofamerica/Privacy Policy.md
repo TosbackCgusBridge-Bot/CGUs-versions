@@ -43,7 +43,7 @@ can identify
 and resolve  
 fraud events  
 fasterTogether, we can  
-identifyand resolve  
+identify and resolve  
 fraud events fasterTogether, we can  
 identify and resolve  
 fraud events fasterTrending topic
