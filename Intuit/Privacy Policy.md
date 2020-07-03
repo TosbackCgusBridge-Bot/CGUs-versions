@@ -21,37 +21,21 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-WindowBedding &. Bath4th of July Furniture &. Mattress SALEUP TO 60% OFF+EXTRA 10% OFF with couponends 7/15 | select stylesMattressesFurnitureUP TO 50% OFFPops of patriotic flair for the familyselect styles
+$14.99  
+**Men's Stafford ** **Dress Shirt** $14.99**Men's IZOD** **Salt Water Tee** $6.99**Kids' Arizona** **Tank Top** $14.99**Liz Claiborne** **Linen Pants** $17.99**Women's Sandals** $15.99**Men's Burnside** **Swimwear** $9.99**Liz Claiborne** **Bath Towel** $6.99**Kids' Xersion** **Graphic Tee** $1.99**Flip Flops** $6.99**Women's** **St. John's Bay Tee** $14.99**a.n.a. Shorts** $9.99 ANY SIZE**JCPenney Home** **Bayview Sheers** $89.99**Cook's 10-pc. Cookware Set** $8.99**Carter's Romper** **or Creeper**  
 
 *   Shop All
 
-*   Men
+*   Bedding
     
-*   Women
+*   Sheets
     
-*   Boys
+*   Window
     
-*   Girls
-    
-
-Shop AllSave on Ambrielle—the comfort your crave, under $25$24.99 Brasselect styles$6.99 Pantiesselect stylesSTARTING AT $7.99Casual a.n.a looks for every summer occasionselect styles
-
-*   Shop All
-
-*   Tees
-    
-*   Shorts
-    
-*   Jeans
-    
-*   Dresses
+*   Bath Towels
     
 
-Shop AllUP TO 50% OFFFamily swimwearSummertime essentials:sun, swim &. savingsselect styles
-
-*   Shop Swimwear
-
- 
+Shop All4th of July Furniture &. Mattress SALEUP TO 60% OFF+Extra 10% OFF with couponEnds 7/15 | select stylesMattressesFurnitureUP TO 50% OFFFun, fresh swimwear for longer days &. sunny rays.select stylesWomenMenGirlsBoysUP TO 50% OFF Women's dressesCute, chic options for any event!Shop AllCasual Dressesselect stylesFloral Dressesselect styles 
 
 *   Shop All
 
@@ -64,27 +48,22 @@ Shop AllUP TO 50% OFFFamily swimwearSummertime essentials:sun, swim &. savingsse
 *   Fashion Jewelry
     
 
-Shop AllUP TO 50% OFF Women's dressesCute, chic options for any event!Shop AllCasual Dressesselect stylesFloral Dressesselect stylesUP TO 40% OFF ArizonaMust-have styles for you &. the crewselect stylesGuys' ShirtsGuys' ShortsJuniors' ShirtsJuniors' ShortsUP TO 40% OFF XersionShape up the family tree. select styles WomenMenBoysGirls  Learn More  Shop Now Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
-Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 43 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+Shop All Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 43 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
+*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $4.50 - $5.99with code~$13~35
+*   St. John's Bay-Womens V Neck Short Sleeve T-Shirt $5.24with code~$14~22
 *   Nike Tanjun Womens Running Shoes
     
     $48.75sale
     
     ~$65~152
-*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
-    
-    $25sale
-    
-    ~$124.98~190
-*   Liz Claiborne Signature Plush Bath Towel Collection $5.24 - $38.95with code~$12 - $96~539
-*   St. John's Bay-Womens V Neck Short Sleeve T-Shirt $5.24with code~$14~22
 *   Liz Claiborne Womens Split Crew Neck Short Sleeve Henley Shirt $10.12with code~$27~9
+*   Liz Claiborne Signature Plush Bath Towel Collection $5.24 - $38.95with code~$12 - $96~539
 *   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
     $25sale
     
-    ~$124.98~132
+    ~$124.98~133
 
 Sponsored Items
 
@@ -94,33 +73,33 @@ Sponsored Items
     $23
     
     4903
-*   Yves Saint Laurent Mon Paris Eau de Parfum
-    
-    $74 - $124
-    
-    653
 *   Fisher-Price Learn with Me Zebra Walker
     
     $24.99
     
     40
 *   Farberware Cookstart 15-pc. Cookware Set $62.99with code~$120~61
+*   Yves Saint Laurent Mon Paris Eau de Parfum
+    
+    $74 - $124
+    
+    653
 *   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~136
-*   Bissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum
-    
-    $334.99sale
-    
-    ~$360~2509
-*   Dyson® V8 Animal Cord-Free Vacuum
-    
-    $569.99sale
-    
-    ~$669~186
 *   Rachael Ray Create Delicious 11-Pc. Cookware Set
     
     $179.99sale
     
     ~$300~17
+*   Bissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum
+    
+    $334.99sale
+    
+    ~$360~2526
+*   Dyson® V8 Animal Cord-Free Vacuum
+    
+    $569.99sale
+    
+    ~$669~186
 *   Shea Moisture Jamaican Black Castor Oil Conditioner - 11 oz. $9.89with code86
 *   Fisher-Price Linkimals Smooth Moves Sloth
     
@@ -132,26 +111,26 @@ Sponsored Items
     $19.99
     
     62
+*   YVES SAINT LAURENT Libre Eau De Parfum
+    
+    $78 - $130
+    
+    393
 *   Anastasia Beverly Hills Brow Wiz
     
     $23
     
-    15084
+    15086
 *   Yves Saint Laurent Black Opium
     
     $74 - $124
     
     5503
-*   YVES SAINT LAURENT Libre Eau De Parfum
+*   Fisher-Price Linkimals A To Z Otter
     
-    $78 - $130
+    $19.99
     
-    391
-*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
-    
-    $14.99
-    
-    10
+    23
 *   Fisher-Price Soothe and Go Giraffe
     
     $9.99
@@ -161,16 +140,16 @@ Sponsored Items
     $15.99sale
     
     ~$19.99~49
-*   Fisher-Price Linkimals A To Z Otter
-    
-    $19.99
-    
-    23
 *   Fisher-Price Classic Xylophone
     
     $15.99
     
     7
+*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
+    
+    $14.99
+    
+    10
 
 Shop and Save at JCPenney
 
