@@ -602,6 +602,4 @@ soit, s’il ne peut proposer aucune prestation de remplacement ou si celles-ci 
 
 Les dispositions du présent article sont applicables en cas de non-respect de l’obligation prévue au 13° de l’article R. 211-4
 
-PagesJaunes est une marque de SoLocal Group ©2020
-
-Recrutement Charte du groupe
+Sont des marques du groupe Charte du groupe - Recrutement
