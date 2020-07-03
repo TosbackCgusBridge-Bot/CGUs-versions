@@ -252,17 +252,17 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
-    *   Resilience improved, but response dragged down by too many tools, too few playbooks, report says
-    *   Digital disruption grows attack surface, Edelman Financial Engines' Conlon says
-    *   Event invitation phishing scheme usurps efficacy of Microsoft, Google and Wells Fargo
-    *   Australia says state-based actor is behind surge of sophisticated cyberattacks
-    *   UCSF paid $1.4 million ransom in NetWalker attack
-    
-    *   Event invitation phishing scheme usurps efficacy of Microsoft, Google and Wells Fargo
+    *   Evil Corp debuts WastedLocker ransomware and new TTPs, researchers say
+    *   Tax software used by Chinese bank clients installs GoldenSpy backdoor
+    *   LeBron James among the 1st stars to have their stolen law firm files put up for auction
+    *   Even during pandemic, healthcare orgs successfully fending off attacks
     *   Alsid’s Melber urges active directory protection to fend off new attack patterns
-    *   NetWalker claims credit for attack on Crozer-Keystone Health System
-    *   Variant of Mac malware 'Shlayer' spreads via poisoned web searches
-    *   XDR: The New Cybersecurity X Factor
+    
+    *   Eight cities using Click2Gov targeted in Magecart skimming attacks
+    *   Resilience improved, but response dragged down by too many tools, too few playbooks, report says
+    *   Netflix DVD's Sanders: Revamp strategies to stay ahead of attackers
+    *   Xerox apparent victim of Maze attack
+    *   'GoldenSpy' tax software campaign tries to erase evidence of malware
     
     *   Microsoft issues two out-of-band patches for RCE flaws, one critical
     *   'GoldenSpy' tax software campaign tries to erase evidence of malware
