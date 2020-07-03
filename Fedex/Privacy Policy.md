@@ -14,6 +14,8 @@ Get exclusive benefits when you open a FedEx account.
 
 CREATE ACCOUNT Menu Top Searched Door Tag Insight Supplies Claims Billing Home FedEx Trust Center FedEx Privacy Notice FedEx Privacy Notice FedEx Privacy Notice Global Privacy Policy Created with Sketch. Global privacy policy Privacy notice Cookie notice Binding corporate rules
 
+Last update: July 1, 2020
+
 Your trust matters to us. That is why we protect your information and use it responsibly, while continuing to deliver the excellent service you expect from FedEx. We are committed to protecting your privacy and the security of your personal data. We have created this Privacy Notice to explain how FedEx collects and uses personal data.
 
 WHAT
@@ -78,7 +80,9 @@ You can manage your accounts with FedEx through the following:
 *   Emails: For your email preferences, visit the Email Preference Center.  
     
 *   Mobile: To opt out for mobile, text STOP to 37473. You can always opt back in by texting YES to the same number.
-*   Cookies and other technologies: To opt out of advertising, visit NAI Consumer Opt Out.
+*   Cookies and other technologies: To exercise choices you have for certain cookies, you can generally review your Internet browser settings, typically under the sections "Help" or "Internet Options". If you disable or delete certain cookies in your Internet browser settings, you might not be able to access or use important functions or features of the Websites, and you may be required to re-enter your log-in details. 
+
+To learn more about certain cookies used for interest based advertising by third parties, including through cross-device tracking, and to exercise certain choices regarding such cookies, please visit the Digital Advertising Alliance, Network Advertising Initiative, Digital Advertising Alliance-Canada, European Interactive Digital Advertising Alliance or your device settings.  
 
 4\. _Business process execution, internal management and management reporting_. This includes addressing activities such as managing company assets, conducting internal audits and investigations, finance and accounting, implementing business controls, provision of central processing facilities for efficiency purposes, managing mergers, acquisitions and divestitures and Processing Personal Data for management reporting and analysis (e.g., conduct investigations into shipping accounts to detect fraud).
 
@@ -132,10 +136,10 @@ Back to top
 
 SHARE
 
-FedEx does not sell your personal information. As a rule, however, FedEx shares your Personal Data with third parties in the following circumstances:
+FedEx shares your Personal Data with third parties in the following circumstances:
 
 *   With its affiliates, operating groups, subsidiaries and divisions, or with third parties if such is necessary for the purposes as listed above. If appropriate, FedEx will require third parties to conduct activities in a manner consistent with FedEx policies and guidelines in relation to data protection.  
-*   With data processors, i.e., parties processing Personal Data on our behalf. In such cases, these third parties only use your Personal Data for the purposes described above and only in accordance with our instructions. FedEx will only use processors which provide sufficient guarantees to implement appropriate technical and organizational measures and ensure the protection of the rights of data subjects. 
+*   With data processors, i.e., parties such as vendors or service providers processing Personal Data on our behalf. In such cases, these third parties only use your Personal Data for the purposes described above and only in accordance with our instructions. FedEx will only use processors which provide sufficient guarantees to implement appropriate technical and organizational measures and ensure the protection of the rights of data subjects. 
 *   With its employees if and to the extent necessary for the performance of their tasks. In such a case, access will be granted only if and to the extent necessary for the purposes described above and only if the employee is bound by confidentiality. 
 *   If and when required to do so by law, court order, or other legal process, for example, with law enforcement agencies or other governmental agencies, to establish or exercise our legal rights or in connection with a corporate transaction, such as a divesture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
 
@@ -145,13 +149,9 @@ PROTECT
 
 What measures does FedEx take to protect your Personal Data? Created with Sketch.
 
-FedEx has taken appropriate technical and organizational measures to protect your Personal Data against accidental or unlawful processing, including by ensuring that: 
+FedEx maintains appropriate technical and organizational measures to protect your Personal Data against accidental or unlawful processing, including protecting your Personal Data against unauthorized access, maintaining the confidentiality, integrity and availability of your Personal data, and training personnel on information security requirements. 
 
-*   Your Personal Data is protected against unauthorized access;
-*   The confidentiality of your Personal Data is assured;
-*   The integrity and availability of your Personal Data will be maintained;
-*   Personnel is trained in information security requirements. and
-*   Actual or suspected data breaches are reported in accordance with applicable law.
+However, no security measure can guarantee against compromise. You also have an important role in protecting your Personal Data. You should not share your username and password with anyone, and you should not re-use passwords across more than one website. If you have a reason to believe that your Personal Data has been compromised, please contact us as detailed below.
 
 What rights can you exercise in relation to your Personal Data? Created with Sketch.
 
@@ -199,6 +199,22 @@ You can manage your accounts with FedEx through the following.
 Where does FedEx store or transfer your Personal Data? Created with Sketch.
 
 Due to the nature of our business and the services we provide to our clients, FedEx may need to transfer your Personal Data to locations outside the country where you reside. In any case where we transfer Personal Data, FedEx shall ensure that such a transfer is subject to appropriate safeguards. For the European Economic Area, such transfers to third parties (outside the European Economic Area) will be governed by a contract based on the model contractual clauses for data transfers approved by the European Commission or other appropriate safeguards. For more detailed information about these safeguards, please contact dataprivacy@fedex.com.
+
+California consumers
+
+If you reside in California, we are required to provide additional information to you about how we use and disclose your information, and you may have additional rights with regard to how we use your information. We have included this California-specific information below.
+
+Consistent with the "What Personal Data does FedEx collect?" section above, we collect certain categories and specific pieces of information about individuals that are considered "Personal Information" in California. As detailed above, we may collect this Personal Information from you and other third parties. We collect, share and disclose Personal Information for the business and commercial purposes described in the "Why does FedEx process Personal Data?" and "Who has access to your Personal Data?" sections above.   
+
+We do not "sell" your Personal Information, as this term is defined under California law. Given the divergent practices of organizations that offer browsers and the lack of a standard in the marketplace, we do not respond to Do Not Track signals at this time.  
+
+Subject to certain exceptions, as a California consumer, you have the right to: (i) access your Personal Information and (ii) obtain deletion of your Personal Information. To the extent permitted by applicable law, we may be required to retain some of your Personal Information, and certain Personal Information is strictly necessary in order for us to fulfill the purposes described in this Privacy Policy.  
+
+Should you wish to request the exercise of your other rights as detailed above with regard to your Personal Information, we will not discriminate against you by offering you different pricing, products or services, or by providing you with a different level or quality of products or services, based solely upon this request. Please contact us as described above to exercise such rights.  
+
+If you are a California consumer and you wish to exercise your rights as outlined in this section, you may need to provide information such as name and e-mail so that we can verify your identity. We will use the information you provide when exercising your rights for no other purpose other than to verify your identity.    
+
+You also have the option of designating an authorized agent to exercise your rights on your behalf.  For authorized agents submitting requests on behalf of California residents, please contact us as described above, with any evidence you have that you have been authorized by a California consumer to submit a request on their behalf.  
 
 Update to this Privacy Notice
 
