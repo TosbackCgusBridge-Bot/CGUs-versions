@@ -9,7 +9,7 @@
 *   What we’re doing
     *   Growing the Internet
         *   Community Networks
-        *   Internet Exchange Points (IXPs)
+        *   Infrastructure and Community Development
         *   Measuring the Internet
     *   Strengthening the Internet
         *   Encryption
