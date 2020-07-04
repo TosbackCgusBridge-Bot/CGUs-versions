@@ -251,5 +251,3 @@ closeAll ResultsShowsEpisodesVideosNewsEventsTrending
 *   Newsletter
 
 © 2020 Viacom International Inc. All Rights Reserved. VH1 and all related titles and logos are trademarks of Viacom International Inc.
-
-By using this site, you agree to its updated Privacy Policy and Terms of Use.
