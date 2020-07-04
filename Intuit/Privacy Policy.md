@@ -1,6 +1,5 @@
-Our COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: 4THSALE Details  
-EXTRA 25% OFF under $75 with code: 4THSALE Details  
-Free Shipping Over $49  DetailsOur COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: 4THSALE Details  
+Our COVID-19 response  DetailsLimited time offer—online only EXTRA 30% OFF w/ code: HURRY30 Details  
+Free Shipping Over $49  DetailsOur stores are now open  +Try curbside pickup today! DetailsOur COVID-19 response  DetailsLimited time offer—online only EXTRA 30% OFF w/ code: HURRY30 Details  
 
 Enable Accessibility
 
@@ -35,7 +34,7 @@ $14.99
 *   Bath Towels
     
 
-Shop All4th of July Furniture &. Mattress SALEUP TO 60% OFF+Extra 10% OFF with couponEnds 7/15 | select stylesMattressesFurnitureUP TO 50% OFFFun, fresh swimwear for longer days &. sunny rays.select stylesWomenMenGirlsBoysUP TO 50% OFF Women's dressesCute, chic options for any event!Shop AllCasual Dressesselect stylesFloral Dressesselect styles 
+Shop All4th of July Furniture &. Mattress SALEUP TO 60% OFF+Extra 10% OFF with couponEnds 7/15 | select stylesMattressesFurnitureUP TO 50% OFFFun, fresh swimwear for longer days &. sunny rays.select stylesWomenMenGirlsBoysUP TO 50% OFF Women's dressesCute, chic options for any event!Shop AllCasual Dressesselect stylesFloral Dressesselect stylesSummer Beauty SavingsFind the perfect pick-me up that's red, white &. YOU.$6.50 China Glaze Nail Polishselect stylesUP TO 50% OFF Sephoraselect stylesExcluded from coupons. 
 
 *   Shop All
 
@@ -50,101 +49,105 @@ Shop All4th of July Furniture &. Mattress SALEUP TO 60% OFF+Extra 10% OFF with c
 
 Shop All Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 43 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $4.50 - $5.99with code~$13~35
-*   St. John's Bay-Womens V Neck Short Sleeve T-Shirt $5.24with code~$14~22
-*   Nike Tanjun Womens Running Shoes
+*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
     
-    $48.75sale
+    $29.99sale
     
-    ~$65~152
-*   Liz Claiborne Womens Split Crew Neck Short Sleeve Henley Shirt $10.12with code~$27~9
-*   Liz Claiborne Signature Plush Bath Towel Collection $5.24 - $38.95with code~$12 - $96~539
+    ~$85~
+*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
+    
+    $25sale
+    
+    ~$124.98~190
 *   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
     $25sale
     
-    ~$124.98~133
+    ~$124.98~134
+*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $20.99 - $37.79with code~$50 - $90~220
+*   Sealy Essentials™ Ivory Treasure - Mattress Only $149 - $298.99with code~$430 - $920~34
+*   St. John's Bay Mid Rise Capris $15.39with code~$44~8
 
 Sponsored Items
 
-*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $14.99with code~$30~
+*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $13.99with code~$30~
+*   Farberware 12-Pc. Cookware Set $62.99with code~$190~52
 *   Anastasia Beverly Hills Brow Powder Duo
     
     $23
     
     4903
-*   Fisher-Price Learn with Me Zebra Walker
-    
-    $24.99
-    
-    40
-*   Farberware Cookstart 15-pc. Cookware Set $62.99with code~$120~61
 *   Yves Saint Laurent Mon Paris Eau de Parfum
     
     $74 - $124
     
     653
-*   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~136
-*   Rachael Ray Create Delicious 11-Pc. Cookware Set
-    
-    $179.99sale
-    
-    ~$300~17
-*   Bissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum
-    
-    $334.99sale
-    
-    ~$360~2526
-*   Dyson® V8 Animal Cord-Free Vacuum
-    
-    $569.99sale
-    
-    ~$669~186
-*   Shea Moisture Jamaican Black Castor Oil Conditioner - 11 oz. $9.89with code86
-*   Fisher-Price Linkimals Smooth Moves Sloth
-    
-    $29.99
-    
-    36
-*   Fisher-Price Laugh &. Learn Smart Stages Puppy
-    
-    $19.99
-    
-    62
-*   YVES SAINT LAURENT Libre Eau De Parfum
-    
-    $78 - $130
-    
-    393
-*   Anastasia Beverly Hills Brow Wiz
-    
-    $23
-    
-    15086
-*   Yves Saint Laurent Black Opium
-    
-    $74 - $124
-    
-    5503
-*   Fisher-Price Linkimals A To Z Otter
-    
-    $19.99
-    
-    23
-*   Fisher-Price Soothe and Go Giraffe
-    
-    $9.99
-    
 *   Fisher-Price Laugh &. Learn Smart Stages Sis
     
     $15.99sale
     
     ~$19.99~49
+*   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~136
+*   Shea Moisture Jamaican Black Castor Oil Conditioner - 11 oz. $9.89with code86
+*   Ayesha Curry™ Home Collection 12-pc. Cookware Set
+    
+    $159.99sale
+    
+    ~$240~23
+*   Rachael Ray Create Delicious 11-Pc. Cookware Set
+    
+    $179.99sale
+    
+    ~$300~17
+*   Dyson® V8 Animal Cord-Free Vacuum
+    
+    $569.99sale
+    
+    ~$669~186
+*   Anastasia Beverly Hills Brow Wiz
+    
+    $23
+    
+    15087
+*   Bissell® SpinWave® Hard Floor Spin Mop
+    
+    $129
+    
+    1022
+*   YVES SAINT LAURENT Libre Eau De Parfum
+    
+    $78 - $130
+    
+    394
+*   Yves Saint Laurent Black Opium
+    
+    $74 - $124
+    
+    5504
+*   Yves Saint Laurent Y Eau Fraiche
+    
+    $77 - $95
+    
+    138
+*   Fisher-Price Rock-A-Stack Clacker
+    
+    $4.49
+    
 *   Fisher-Price Classic Xylophone
     
     $15.99
     
     7
+*   Fisher-Price Learn with Me Zebra Walker
+    
+    $24.99
+    
+    40
+*   Fisher-Price Laugh &. Learn Smart Stages Puppy
+    
+    $19.99
+    
+    62
 *   Fisher-Price Laugh &. Learn Click &. Learn Laptop
     
     $14.99
