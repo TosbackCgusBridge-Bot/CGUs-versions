@@ -230,7 +230,6 @@ Lenovo Explore Close
     *   Business
         
         *   Always Free Shipping
-        *   Earn 3% rewards on all purchases
         *   Financing as low as 0%
         *   Price Match Guaranteed
         
@@ -252,11 +251,11 @@ Lenovo Explore Close
         
         *   Best Sellers for Business
         *   Business Laptops
-        *   Small Business Accessories
-        *   Business Bundles
-        *   Logitech Accessories
-        *   ThinkBook
-        *   Server Deals
+        *   Business Desktops
+        *   Business Monitors
+        *   Business Docs
+        *   Business Tablets
+        *   Home Office Solutions
         
         JOIN FOR FREE
         
@@ -629,7 +628,7 @@ Lenovo Explore Close
 1-855-253-6686 option #2
 
 *   Search
-*   icon-compare0 Compare Compare (0)
+
 *   LenovoPro
     *   Sign In To LenovoPRO For Small Business
     *   Learn more
@@ -713,13 +712,7 @@ Top Suggestions
 
 View all >.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
-
-Please add at least 2 products for compare
-
-Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
-
-Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
 
 protects better"/>.
 
@@ -1216,7 +1209,7 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Created with sketchtool.CHAT NOW0
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement **Need help with an order? Talk to a representative at 1-855-253-6686 #2** **or chatChat Now** **Need help with an order? Talk to a representative at 1-855-253-6686 #2** **or chatChat Now**×Created with sketchtool.CHAT NOW0
 
 How can we help
 
