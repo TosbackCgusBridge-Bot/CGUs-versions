@@ -370,11 +370,11 @@ Did you find this page useful?
 
 Why didn't you find this page useful?
 
+*   Boring
+*   Poorly written
+*   Off-topic
 *   Lacks detail
 *   Too complex
-*   Poorly written
-*   Boring
-*   Off-topic
 *   Other
 
 Close this feedback
@@ -513,3 +513,5 @@ If you’d like to accept all optional cookies, select ‘Accept all cookies’.
 To learn more about how we use cookies, visit our Cookie notice.
 
 Accept all cookiesManage cookie settings
+
+Notification appeared: Cookies on this website
