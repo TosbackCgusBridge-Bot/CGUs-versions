@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Feeling at home in a LXD container
+*   A snap confined shell based on Mir: Mircade
 *   A blast from the past – Shutter
-*   Data science workflows on Kubernetes with Kubeflow pipelines: Part 2
-*   Encryption at rest with Ceph
