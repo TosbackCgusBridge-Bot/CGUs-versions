@@ -19,7 +19,9 @@ Close submenu ( Girls ) Girls
 
 *   View Home
 *   Tops
+*   Tees
 *   Bottoms
+*   Shorts
 *   Dresses + Jumpsuits
 *   Matching Sets
 *   Jackets
@@ -38,7 +40,6 @@ Close submenu ( Collections ) Collections
 *   View All
 *   New Arrivals
 *   Face Coverings
-*   Pride
 *   Twisted for Tie Dye
 *   Get Cozy
 *   Best Sellers
@@ -53,7 +54,9 @@ Close submenu ( Guys ) Guys
 
 *   View Home
 *   Tops
+*   Tees
 *   Bottoms
+*   Shorts
 *   Jackets + Coats
 *   Accessories
 *   Underwear
@@ -207,7 +210,9 @@ Menu Find a Store Aeropostale
     
     *   View Home
     *   Tops
+    *   Tees
     *   Bottoms
+    *   Shorts
     *   Dresses + Jumpsuits
     *   Matching Sets
     *   Jackets
@@ -223,7 +228,6 @@ Menu Find a Store Aeropostale
         *   View All
         *   New Arrivals
         *   Face Coverings
-        *   Pride
         *   Twisted for Tie Dye
         *   Get Cozy
         *   Best Sellers
@@ -237,7 +241,9 @@ Menu Find a Store Aeropostale
     
     *   View Home
     *   Tops
+    *   Tees
     *   Bottoms
+    *   Shorts
     *   Jackets + Coats
     *   Accessories
     *   Underwear
@@ -366,45 +372,68 @@ ORDERS OVER $50 Search Catalog Search
 
 In Stores &. Online.
 
-New! Aero Bandanas
+New! Aero Face Masks
 
-Soft fabrics. Fun colors. Classic bandana prints. Consider yourself covered.
-
-In Stores &. Online.
-
-New! Aero  
-Bandanas
-
-Soft fabrics. Fun colors. Classic  
-bandana prints. Consider  
-yourself covered.
+Reusable two-pack masks. Made from 100% washable,  
+breathable cotton for everyday comfort and ease. Complete  
+with an interior filter pocket. **We've got you covered.**
 
 Shop Girls Shop Guys
 
 In Stores &. Online
 
-50-70% Off Everything!
+New! Aero  
+Face Masks  
 
-&. Our Biggest Shorts Event of The Season!
+Reusable two-pack masks.  
+Made from 100% washable,  
+breathable cotton for everyday  
+comfort and ease. Complete  
+with an interior filter pocket.  
+**We've got you covered.**
 
-\*Exclusions Apply
+Shop Girls Shop Guys
+
+In Stores &. Online
+
+50-70  
+% Off  
+Everything
+
+Including our have-to-have Aero shorts!
 
 In Stores &. Online
 
 50-70% Off  
 Everything!
 
-&. Our Biggest Shorts  
-Event of The Season!
+Including our have-to-have Aero shorts!
 
 \*Exclusions Apply
 
-Shop Girls Shop Guys Girls Shorts **$11.87 &. Up** Guys Shorts **$12 &. Up**
+Shop Girls Shop Guys Girls Shorts **$11.87 &. Up** Guys Shorts **$11.87 &. Up**
 
-STAND TALL. STAND PROUD. STAND OUT.
+**Summertime  
+Vibes**
 
-Take pride in who you are  
-Celebrate individuality together.
+Style inspiration  
+from your Aero fam.
+
+Show us how you Summer  
+with **@aeropostale** and  
+**#AeroWorld** for a  
+chance to be featured!
+
+Summertime  
+Vibes
+
+Style inspiration from  
+your Aero fam.
+
+Show us how you Summer  
+with **@Aeropostale and**  
+**#AeroWorld** for a chance  
+to be featured!
 
 **Girls  
 Shorts**
@@ -566,7 +595,7 @@ Beach Chino
 **Guys  
 Shorts**
 
-$12 &. Up
+$11.87 &. Up
 
 New Premium fabric elevated  
 with extra stretch for comfort  
