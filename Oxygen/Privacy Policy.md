@@ -23,6 +23,8 @@ Main menu
         *   Deadly Cults
         *   Famous Cases Explained
         *   How To Stay Safe
+        *   Killer Couples
+        *   License to Kill
         *   Mark of a Killer
         *   Martinis &. Murder
         *   Searching For
@@ -31,10 +33,10 @@ Main menu
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
-    *   Watch Live TV1:39 Crime News 3 Teacher/Student Sex Scandals 2:49 Accident, Suicide, or Murder Who Was Holly Durben? 1:58 Crime News The Angel of Death Killer, Charles Cullen, Explained
+    *   Watch Live TV
 *   News
     *   Crime News
-    *   True Crime BuzzValerie Mack Photo: Suffolk County Police Department Crime News 'Lost Girls' Victim Known As Jane Doe #6 Identified Derek Chauvin Photo: AP Crime News Charged Ex-Cop Worked Same Nightclub As George Floyd Heather Grogg and Danielle Tyler Photo: National Center For Missing and Endangered Crime News Women Were Allegedly Killed In Connection To Murder
+    *   True Crime Buzz
 *   Podcasts
 *   Detective's Den
 *   Schedule
