@@ -252,23 +252,23 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
-    *   Evil Corp debuts WastedLocker ransomware and new TTPs, researchers say
-    *   Tax software used by Chinese bank clients installs GoldenSpy backdoor
+    *   Inside the Dark Web: 4 Misconceptions and How Security Teams Can Change Minds and Benefit
+    *   OSX.EvilQuest ransomware targets Macs. Ransom X blamed for TxDOT attack
+    *   Deliver More Effective Threat Intelligence with Federated Machine Learning
+    *   SC Product Reviews: Endpoint Security
+    *   Cracking the cyber liability code leads to better insurance coverage
+    
+    *   Australia says state-based actor is behind surge of sophisticated cyberattacks
+    *   Twitter 'incident' leaves billing info stored in browser cache
+    *   OSX.EvilQuest ransomware targets Macs. Ransom X blamed for TxDOT attack
+    *   IoT adds value, risk but management within reach
+    *   Mobile ransomware disguised as upcoming Canadian Covid-19 contact tracing app
+    
+    *   MongoDB hacker threatens to report breach to GDPR
     *   LeBron James among the 1st stars to have their stolen law firm files put up for auction
-    *   Even during pandemic, healthcare orgs successfully fending off attacks
-    *   Alsid’s Melber urges active directory protection to fend off new attack patterns
-    
-    *   Eight cities using Click2Gov targeted in Magecart skimming attacks
-    *   Resilience improved, but response dragged down by too many tools, too few playbooks, report says
-    *   Netflix DVD's Sanders: Revamp strategies to stay ahead of attackers
-    *   Xerox apparent victim of Maze attack
-    *   'GoldenSpy' tax software campaign tries to erase evidence of malware
-    
-    *   Microsoft issues two out-of-band patches for RCE flaws, one critical
-    *   'GoldenSpy' tax software campaign tries to erase evidence of malware
-    *   Even during pandemic, healthcare orgs successfully fending off attacks
-    *   Xerox apparent victim of Maze attack
-    *   Resilience improved, but response dragged down by too many tools, too few playbooks, report says
+    *   NetWalker ransomware group claims attack on Fort Worth transportation agency
+    *   BMW customer database for sale on dark web
+    *   Report accuses China of extensive mobile spyware use to track ethnic minority group
 
 Back to Top
 
