@@ -28,38 +28,24 @@ We think carefully about our use of personal data, and below you can find the de
 
 We will continue to examine how we can provide more clarity to our users about our use of data.
 
+IntroductionContents
+
 1.  About this privacy policy
-    
 2.  Who we are and how to contact us
-    
-3.  What personal data we collect and how we use it
-    
+3.  The categories of personal data that we collect, where we collect it from, and how we use it
 4.  How we collect personal data
-    
 5.  Personal data that we receive about you from other organisations
-    
 6.  Using children’s personal data
-    
 7.  Security of your personal data
-    
 8.  International data transfers
-    
 9.  How long we keep your personal data
-    
 10.  How we may contact you
-    
 11.  Cookies and similar technology
-    
 12.  Online advertising
-    
 13.  Advertising that we place on our site or on other sites
-    
-14.  Your rights with regard to the personal data that we hold about you
-    
+14.  Your rights under the General Data Protection Regulation with regard to the personal data that we hold about you
 15.  Your California privacy rights
-    
 16.  Contact us for information about how we use your personal data
-    
 
 **About this privacy policy**
 
