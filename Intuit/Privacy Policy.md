@@ -20,8 +20,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-$14.99  
-**Men's Stafford ** **Dress Shirt** $14.99**Men's IZOD** **Salt Water Tee** $6.99**Kids' Arizona** **Tank Top** $14.99**Liz Claiborne** **Linen Pants** $17.99**Women's Sandals** $15.99**Men's Burnside** **Swimwear** $9.99**Liz Claiborne** **Bath Towel** $6.99**Kids' Xersion** **Graphic Tee** $1.99**Flip Flops** $6.99**Women's** **St. John's Bay Tee** $14.99**a.n.a. Shorts** $9.99 ANY SIZE**JCPenney Home** **Bayview Sheers** $89.99**Cook's 10-pc. Cookware Set** $8.99**Carter's Romper** **or Creeper**  
+ 
 
 *   Shop All
 
@@ -34,7 +33,8 @@ $14.99
 *   Bath Towels
     
 
-Shop All4th of July Furniture &. Mattress SALEUP TO 60% OFF+Extra 10% OFF with couponEnds 7/15 | select stylesMattressesFurnitureUP TO 50% OFFFun, fresh swimwear for longer days &. sunny rays.select stylesWomenMenGirlsBoysUP TO 50% OFF Women's dressesCute, chic options for any event!Shop AllCasual Dressesselect stylesFloral Dressesselect stylesSummer Beauty SavingsFind the perfect pick-me up that's red, white &. YOU.$6.50 China Glaze Nail Polishselect stylesUP TO 50% OFF Sephoraselect stylesExcluded from coupons. 
+Shop All4th of July Furniture &. Mattress SALEUP TO 60% OFF+Extra 10% OFF with couponEnds 7/15 | select stylesMattressesFurniture$14.99  
+**Men's Stafford ** **Dress Shirt** $14.99**Men's IZOD** **Salt Water Tee** $6.99**Kids' Arizona** **Tank Top** $14.99**Liz Claiborne** **Linen Pants** $17.99**Women's Sandals** $15.99**Men's Burnside** **Swimwear** $9.99**Liz Claiborne** **Bath Towel** $6.99**Kids' Xersion** **Graphic Tee** $1.99**Flip Flops** $6.99**Women's** **St. John's Bay Tee** $14.99**a.n.a. Shorts** $9.99 ANY SIZE**JCPenney Home** **Bayview Sheers** $89.99**Cook's 10-pc. Cookware Set** $8.99**Carter's Romper** **or Creeper** UP TO 50% OFFFun, fresh swimwear for longer days &. sunny rays.select stylesWomenMenGirlsBoysUP TO 50% OFF Women's dressesCute, chic options for any event!Shop AllCasual Dressesselect stylesFloral Dressesselect stylesSummer Beauty SavingsFind the perfect pick-me up that's red, white &. YOU.$6.50 China Glaze Nail Polishselect stylesUP TO 50% OFF Sephoraselect stylesExcluded from coupons. 
 
 *   Shop All
 
@@ -65,89 +65,78 @@ Shop All Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 43 total ite
     
     ~$124.98~134
 *   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $20.99 - $37.79with code~$50 - $90~220
+*   Sealy® Davlin LTD Plush Pillowtop - Mattress Only $353.99 - $599with code~$1,030 - $1,820~13
 *   Sealy Essentials™ Ivory Treasure - Mattress Only $149 - $298.99with code~$430 - $920~34
-*   St. John's Bay Mid Rise Capris $15.39with code~$44~8
 
 Sponsored Items
 
-*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $13.99with code~$30~
-*   Farberware 12-Pc. Cookware Set $62.99with code~$190~52
-*   Anastasia Beverly Hills Brow Powder Duo
-    
-    $23
-    
-    4903
 *   Yves Saint Laurent Mon Paris Eau de Parfum
     
     $74 - $124
     
     653
-*   Fisher-Price Laugh &. Learn Smart Stages Sis
-    
-    $15.99sale
-    
-    ~$19.99~49
-*   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~136
-*   Shea Moisture Jamaican Black Castor Oil Conditioner - 11 oz. $9.89with code86
-*   Ayesha Curry™ Home Collection 12-pc. Cookware Set
-    
-    $159.99sale
-    
-    ~$240~23
-*   Rachael Ray Create Delicious 11-Pc. Cookware Set
-    
-    $179.99sale
-    
-    ~$300~17
-*   Dyson® V8 Animal Cord-Free Vacuum
-    
-    $569.99sale
-    
-    ~$669~186
-*   Anastasia Beverly Hills Brow Wiz
-    
-    $23
-    
-    15087
-*   Bissell® SpinWave® Hard Floor Spin Mop
-    
-    $129
-    
-    1022
-*   YVES SAINT LAURENT Libre Eau De Parfum
-    
-    $78 - $130
-    
-    394
-*   Yves Saint Laurent Black Opium
-    
-    $74 - $124
-    
-    5504
-*   Yves Saint Laurent Y Eau Fraiche
-    
-    $77 - $95
-    
-    138
-*   Fisher-Price Rock-A-Stack Clacker
-    
-    $4.49
-    
-*   Fisher-Price Classic Xylophone
-    
-    $15.99
-    
-    7
 *   Fisher-Price Learn with Me Zebra Walker
     
     $24.99
     
     40
-*   Fisher-Price Laugh &. Learn Smart Stages Puppy
+*   Farberware Cookstart 15-pc. Cookware Set $62.99with code~$120~61
+*   Anastasia Beverly Hills Brow Powder Duo
+    
+    $23
+    
+    4903
+*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $13.99with code~$30~
+*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
+*   Dyson® V8 Animal Cord-Free Vacuum
+    
+    $569.99sale
+    
+    ~$669~186
+*   Bissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum
+    
+    $334.99sale
+    
+    ~$360~2548
+*   Rachael Ray Create Delicious 11-Pc. Cookware Set
+    
+    $179.99sale
+    
+    ~$300~17
+*   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~136
+*   Yves Saint Laurent Y Eau Fraiche
+    
+    $77 - $95
+    
+    138
+*   YVES SAINT LAURENT Libre Eau De Parfum
+    
+    $78 - $130
+    
+    395
+*   Anastasia Beverly Hills Brow Wiz
+    
+    $23
+    
+    15090
+*   Fisher-Price Laugh &. Learn Smart Stages Sis
+    
+    $15.99sale
+    
+    ~$19.99~49
+*   Fisher-Price Linkimals Smooth Moves Sloth
+    
+    $29.99
+    
+    36
+*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $83.99with code~$180~55
+*   Lock &. Lock 10-pc. Food Container $20.99with code~$40~
+*   Farberware 12-Pc. Cookware Set $62.99with code~$190~52
+*   Fisher-Price Linkimals A To Z Otter
     
     $19.99
     
-    62
+    23
 *   Fisher-Price Laugh &. Learn Click &. Learn Laptop
     
     $14.99
