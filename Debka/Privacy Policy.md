@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Saturday, July 4, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Sunday, July 5, 2020  
 
 DEBKAfile
 
@@ -44,86 +44,86 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   Iran will retaliate for any cyberattacks on its nuclear sites
+    
+    Jul 04, 2020 @ 16:56
+    
+*   First report: Explosion in Iran at Ahwaz power station
+    
+    Jul 04, 2020 @ 16:25
+    
+*   Border Police chief tests covid-19 positive after ceremony with Rivlin, Gantz
+    
+    Jul 04, 2020 @ 16:17
+    
+*   Active coronavirus cases climbing in Israel
+    
+    Jul 04, 2020 @ 10:27
+    
+*   WHO issues wake up call on covid-19: “The data is not lying”
+    
+    Jul 04, 2020 @ 10:19
+    
 *   Iran officials blame Israel for Natanz and Parchin explosions - report
     
     Jul 03, 2020 @ 22:08
-    
-*   Israel’s daily coronavirus count tops 1,000 for the first time
-    
-    Jul 03, 2020 @ 09:48
-    
-*   Iran plays down “Incident” at Natanz nuclear enrichment site
-    
-    Jul 02, 2020 @ 15:21
-    
-*   Two warring Palestinian groups unite against Israel’s annexation plan
-    
-    Jul 02, 2020 @ 14:19
-    
-*   China threatens the UK with countermeasures over Hong Kong "interference"
-    
-    Jul 02, 2020 @ 14:00
-    
-*   Netanyahu trades views with world leaders on coronavirus fallout
-    
-    Jul 02, 2020 @ 13:41
     
 
-*   Iran plays down “Incident” at Natanz nuclear enrichment site
+*   Border Police chief tests covid-19 positive after ceremony with Rivlin, Gantz
     
-    Jul 02, 2020 @ 15:21
+    Jul 04, 2020 @ 16:17
     
-*   Two warring Palestinian groups unite against Israel’s annexation plan
+*   Active coronavirus cases climbing in Israel
     
-    Jul 02, 2020 @ 14:19
+    Jul 04, 2020 @ 10:27
     
-*   China threatens the UK with countermeasures over Hong Kong "interference"
+*   WHO issues wake up call on covid-19: “The data is not lying”
     
-    Jul 02, 2020 @ 14:00
-    
-*   Netanyahu trades views with world leaders on coronavirus fallout
-    
-    Jul 02, 2020 @ 13:41
+    Jul 04, 2020 @ 10:19
     
 *   Iran officials blame Israel for Natanz and Parchin explosions - report
     
     Jul 03, 2020 @ 22:08
     
-*   Israel’s daily coronavirus count tops 1,000 for the first time
+*   Iran will retaliate for any cyberattacks on its nuclear sites
     
-    Jul 03, 2020 @ 09:48
+    Jul 04, 2020 @ 16:56
     
-*   Iran plays down “Incident” at Natanz nuclear enrichment site
+*   First report: Explosion in Iran at Ahwaz power station
     
-    Jul 02, 2020 @ 15:21
+    Jul 04, 2020 @ 16:25
     
-*   Two warring Palestinian groups unite against Israel’s annexation plan
+*   Border Police chief tests covid-19 positive after ceremony with Rivlin, Gantz
     
-    Jul 02, 2020 @ 14:19
+    Jul 04, 2020 @ 16:17
     
-*   China threatens the UK with countermeasures over Hong Kong "interference"
+*   Active coronavirus cases climbing in Israel
     
-    Jul 02, 2020 @ 14:00
+    Jul 04, 2020 @ 10:27
     
-*   Netanyahu trades views with world leaders on coronavirus fallout
+*   WHO issues wake up call on covid-19: “The data is not lying”
     
-    Jul 02, 2020 @ 13:41
+    Jul 04, 2020 @ 10:19
     
 *   Iran officials blame Israel for Natanz and Parchin explosions - report
     
     Jul 03, 2020 @ 22:08
     
-*   Israel’s daily coronavirus count tops 1,000 for the first time
+*   Iran will retaliate for any cyberattacks on its nuclear sites
     
-    Jul 03, 2020 @ 09:48
+    Jul 04, 2020 @ 16:56
     
-*   Iran plays down “Incident” at Natanz nuclear enrichment site
+*   First report: Explosion in Iran at Ahwaz power station
     
-    Jul 02, 2020 @ 15:21
+    Jul 04, 2020 @ 16:25
     
-*   Two warring Palestinian groups unite against Israel’s annexation plan
+*   Border Police chief tests covid-19 positive after ceremony with Rivlin, Gantz
     
-    Jul 02, 2020 @ 14:19
+    Jul 04, 2020 @ 16:17
+    
+*   Active coronavirus cases climbing in Israel
+    
+    Jul 04, 2020 @ 10:27
     
 
 12PrevNext
