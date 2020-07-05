@@ -17,11 +17,11 @@ View more results
     *   Dress Up
     *   Kissing
     *   Make Up
+    *   Princess
     *   Love Games
     *   Kids
     *   Beauty Games
-    *   Princess
-    *   Dating
+    *   Fashion Games
     
     All Girls Best Games
     *   Princess Graduation Party Night
@@ -30,14 +30,42 @@ View more results
     *   Goldie Princess: Skin Doctor
     *   Mommy Home Decoration
     *   Ice Slushy Maker
-    *   Papa's Cupcakeria
-    *   Mommy BFFs: Pregnant Check-Up
-    *   High School Divas
     *   E Girls Transformation
-    *   Dark Chocolate Blackberry Cheesecake: Sara's Cooking Class
-    *   Girls Photo Shopping Dress Up: Fashion Game
-    *   Love Tester 3
+    *   High School Divas
+    *   Mommy BFFs: Pregnant Check-Up
+    *   Papa's Cupcakeria
     *   Cute Room Decoration
+    *   Beach Kiss
+    *   Love Tester 3
+    *   Girls Photo Shopping Dress Up: Fashion Game
+*   Puzzle
+    
+    Top Categories
+    
+    *   Match 3
+    *   Mahjong
+    *   Bubble Shooter
+    *   Mobile
+    *   Hidden Objects
+    *   Jewel Games
+    *   Maze
+    *   Brain Games
+    
+    All Puzzle Best Games
+    *   MahJongCon
+    *   Bubble Shooter Classic
+    *   Butterfly Kyodai HD
+    *   Bubble Shooter
+    *   Block Wood Puzzle
+    *   Jewelry Match
+    *   Mahjong Connect Classic
+    *   Daily Sudoku
+    *   Candy Riddles: Free Match 3 Puzzle
+    *   Bubble Hit
+    *   1001 Arabian Nights
+    *   Farm Connect 2
+    *   Mahjong Link
+    *   3D Mahjong
 *   Racing
     
     Top Categories
@@ -48,7 +76,7 @@ View more results
     *   Offroad Games
     *   Stunt Driving
     *   Motocross
-    *   Horse Racing
+    *   Uphill Racing
     *   Boat Racing
     
     All Racing Best Games
@@ -60,12 +88,12 @@ View more results
     *   Real Dog Racing Simulator
     *   Off-Roader V6
     *   Two Punk Racing
-    *   Xcross Madness
     *   Horse Racing
+    *   Xcross Madness
     *   Moto X3m 2
     *   Off-Road Cycle 3D
-    *   Russian Car Driver
     *   Madalin Cars Multiplayer
+    *   Russian Car Driver
 *   Shooting
     
     Top Categories
@@ -84,44 +112,16 @@ View more results
     *   Miami Crime Simulator 3D
     *   Shot Trigger
     *   Archery World Tour
+    *   Pixel Gun Apocalypse 3
     *   Sniper Reloaded
     *   Combat Reloaded
     *   Apple Shooter
-    *   Pixel Gun Apocalypse 3
     *   Deer Hunter
     *   CS Portable
     *   Tank Trouble 2
     *   Army Force Strike: 3D Shooting Game Online Multiplayer
     *   Sniper Code
     *   Mr. Bullet
-*   Puzzle
-    
-    Top Categories
-    
-    *   Match 3
-    *   Mobile
-    *   Hidden Objects
-    *   Mahjong
-    *   Bubble Shooter
-    *   Brain Games
-    *   Jewel Games
-    *   Candy Games
-    
-    All Puzzle Best Games
-    *   MahJongCon
-    *   Bubble Shooter Classic
-    *   Butterfly Kyodai HD
-    *   Bubble Shooter
-    *   Block Wood Puzzle
-    *   Mahjong Connect Classic
-    *   Jewelry Match
-    *   Daily Sudoku
-    *   Candy Riddles: Free Match 3 Puzzle
-    *   1001 Arabian Nights
-    *   Bubble Hit
-    *   Mahjong Link
-    *   Farm Connect 2
-    *   Aztec Adventure
 *   Multiplayer
     
     Top Categories
@@ -129,9 +129,9 @@ View more results
     *   2 player
     *   .io Games
     *   Social Games
-    *   Multiplayer Action 3D
     *   Multiplayer War
     *   Qplay Games
+    *   Multiplayer Action 3D
     *   Bomb It Games
     *   MMO
     
@@ -147,18 +147,18 @@ View more results
     *   Pool Clash: 8 Ball Billiards Snooker
     *   Fireboy &. Watergirl 3: The Ice Temple
     *   Ludo 4 Players
-    *   Naruto Online
     *   Madalin Cars Multiplayer
-    *   Master Chess Multiplayer
+    *   Naruto Online
+    *   Empire: World War 3
 *   Action
     
     Top Categories
     
     *   Boy Games
-    *   One player
     *   Flash Games
-    *   Friv
+    *   One player
     *   Fun
+    *   Friv
     *   Y8 Games
     *   Fighting
     *   Stickman
@@ -169,15 +169,15 @@ View more results
     *   Slither.io
     *   Short Life
     *   Shot Trigger
+    *   Pixel Gun Apocalypse 3
     *   Sniper Reloaded
     *   Combat Reloaded
-    *   Naruto Online
     *   Apple Shooter
-    *   Pixel Gun Apocalypse 3
+    *   Naruto Online
     *   Bomb It 6
     *   Super Buddy Kick
-    *   Gun Builder 2
     *   Deer Hunter
+    *   Gun Builder 2
 *   Adventure
     
     Top Categories
@@ -186,35 +186,35 @@ View more results
     *   Horror Games
     *   Anime and Manga
     *   Detective Games
-    *   Point &. Click
     *   Escaping
-    *   Kogama Games
-    *   Trollface Quest Games
+    *   Point &. Click
+    *   Platform Games
+    *   Subway Surfers
     
     All Adventure Best Games
-    *   Fireboy and Watergirl 5: Elements
     *   World Craft 2
+    *   Fireboy and Watergirl 5: Elements
     *   Troll Face Quest: Horror 2
-    *   Bob the Robber 4: Season 2 Russia
     *   The Last Survivors: 2 Player Zombie Game
+    *   Bob the Robber 4: Season 2 Russia
     *   Square Bird
     *   Fox Simulator
-    *   Miami Crime Simulator 3D
     *   Dog Simulator: Puppy Craft
-    *   RoBBie
+    *   Miami Crime Simulator 3D
     *   Adam and Eve 3
+    *   RoBBie
     *   Adam and Eve 2
     *   World Crafts
-    *   Wolf Simulator: Wild Animals 3D
+    *   Adam and Eve 4
 *   More
     
     *   Girls
         
+    *   Puzzle
+        
     *   Racing
         
     *   Shooting
-        
-    *   Puzzle
         
     *   Multiplayer
         
