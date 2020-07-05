@@ -252,17 +252,17 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
-    *   Inside the Dark Web: 4 Misconceptions and How Security Teams Can Change Minds and Benefit
-    *   OSX.EvilQuest ransomware targets Macs. Ransom X blamed for TxDOT attack
+    *   Event invitation phishing scheme usurps efficacy of Microsoft, Google and Wells Fargo
+    *   Resilience improved, but response dragged down by too many tools, too few playbooks, report says
+    *   Netflix DVD's Sanders: Revamp strategies to stay ahead of attackers
     *   Deliver More Effective Threat Intelligence with Federated Machine Learning
-    *   SC Product Reviews: Endpoint Security
-    *   Cracking the cyber liability code leads to better insurance coverage
+    *   Glupteba malware leverages blockchain as a communications channel
     
-    *   Australia says state-based actor is behind surge of sophisticated cyberattacks
-    *   Twitter 'incident' leaves billing info stored in browser cache
-    *   OSX.EvilQuest ransomware targets Macs. Ransom X blamed for TxDOT attack
-    *   IoT adds value, risk but management within reach
-    *   Mobile ransomware disguised as upcoming Canadian Covid-19 contact tracing app
+    *   Xerox apparent victim of Maze attack
+    *   Ransomware gang claims attack on LG Electronics
+    *   'GoldenSpy' tax software campaign tries to erase evidence of malware
+    *   CyberSC's Vogel offers insider’s guide to becoming a vCISO
+    *   Inside the Dark Web: 4 Misconceptions and How Security Teams Can Change Minds and Benefit
     
     *   MongoDB hacker threatens to report breach to GDPR
     *   LeBron James among the 1st stars to have their stolen law firm files put up for auction
