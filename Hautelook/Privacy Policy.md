@@ -9,134 +9,114 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Women's Styles Under $20
+    *   Women's Styles Under $30
+    *   Women's Styles Under $40
+    *   Men's Styles Under $20
+    *   Men's Styles Under $30
+    *   Men's Styles Under $40
+    *   Summer Round-Up: Swim Under $30
+    *   Kids' Styles Under $30
+    *   Kids' Styles Under $20
+    *   Fresh Shoe Finds
+    *   Flat Slides Up to 65% Off
     *   Made in America: Women's Styles Up to 75% Off
     *   Made in America: Men's Styles Up to 55% Off
     *   Tank Tops Starting at $15
+    
     *   Brands We Love Up to 75% Off
     *   Rain or Shine: Trenches &. More Up to 70% Off
-    *   WFH Essentials Up to 75% Off Incl. Plus &. Petites
     *   Men's Sneakers from FILA, PUMA &. More
-    *   Namaste: Yoga Essentials Up to 70% Off
     *   Booties Up to 60% Off
     *   BBQ Ready: Men's Summer Styles Up to 70% Off
     *   Walk It Out: Women's Sneakers
     *   Kids' Sneakers from K-Swiss &. More
     *   Free Shipping: Framed Art Up to 60% Off
     *   Kids' Swim Styles Up to 70% Off
-    *   Step into Comfort: Women's Shoes
-    *   J.Crew
-    *   On-Trend Backpacks: Brights, Metallics &. More
-    *   Summer Tops Under $20 Incl. Plus &. Petites
-    *   Summer Bottoms Under $40 Incl. Plus &. Petites
-    
     *   Scotch &. Soda Up to 60% Off
-    *   Threads 4 Thought &. More
-    *   Summer Swim Finds Up to 65% Off
     *   Kitschy Beach Towels Under $30
     *   Mini Melissa Up to 60% Off
     *   Men's Swim Up to 70% Off
-    *   Easy Upgrade: Stylish Backpacks
     *   Top Toys Starting at $10
+    
     *   Karl Lagerfeld Paris Men's Shoes Up to 70% Off
-    *   Catherine Catherine Malandrino
     *   Spread Love: Heart Jewelry &. More
-    *   MCM Men's Shoes Up to 60% Off
-    *   Men's Denim Under $50
-    *   Champion Men
     *   2020 Trends: Art Finds
     *   Hair Care We Love
-    *   Harper Canyon Shoes from $15
     *   Free Shipping: Faux Plants &. Planters
-    *   Baby Essentials Starting at $10
-    
     *   UV Sanitizers Under $40
     *   bObsweep Robotic Vacuums Up to 75% Off
     *   Declutter Your Space: Home Organization Essentials
     *   Shiseido Ginza Tokyo Skin Care &. Makeup
-    *   Men's Comfort Shoes Up to 55% Off
-    *   Hand Sanitizer Under $10
-    *   Skin Care We Love
-    *   Boho Babe: Aratta &. More Up to 70% Off
-    *   Free Shipping: Chic Home Decor Up to 45% Off
-    *   DKNY Sport &. More
-    *   Fresh for Summer: Activewear Up to 70% Off
-    *   Luxe Brands Up to 70% Off
-    *   Summer Finds Under $35
-    *   Woven Tops Under $30
     *   Decor Update: Pillows, Accents &. More from $20
-    *   Free Shipping: Down &. Memory Foam Essentials
-    *   Free Shipping: Hand-Painted Replicas
+    *   WFH Essentials Up to 75% Off Incl. Plus &. Petites
+    *   Namaste: Yoga Essentials Up to 70% Off
+    *   Easy Upgrade: Stylish Backpacks
+    *   Hand Sanitizer Under $10
 *   WomenShop Sale Events
     
+    *   Women's Styles Under $20
+    *   Women's Styles Under $30
+    *   Women's Styles Under $40
+    *   Summer Round-Up: Swim Under $30
+    *   Fresh Shoe Finds
+    *   Flat Slides Up to 65% Off
     *   Made in America: Women's Styles Up to 75% Off
     *   Tank Tops Starting at $15
     *   Brands We Love Up to 75% Off
+    
     *   Rain or Shine: Trenches &. More Up to 70% Off
-    *   WFH Essentials Up to 75% Off Incl. Plus &. Petites
-    *   Namaste: Yoga Essentials Up to 70% Off
     *   Booties Up to 60% Off
     *   Walk It Out: Women's Sneakers
-    *   Step into Comfort: Women's Shoes
-    *   J.Crew
-    *   On-Trend Backpacks: Brights, Metallics &. More
-    *   Summer Tops Under $20 Incl. Plus &. Petites
-    *   Summer Bottoms Under $40 Incl. Plus &. Petites
-    *   Threads 4 Thought &. More
-    
-    *   Summer Swim Finds Up to 65% Off
-    *   Catherine Catherine Malandrino
     *   Spread Love: Heart Jewelry &. More
     *   Hair Care We Love
     *   Shiseido Ginza Tokyo Skin Care &. Makeup
+    *   WFH Essentials Up to 75% Off Incl. Plus &. Petites
+    *   Namaste: Yoga Essentials Up to 70% Off
     *   Hand Sanitizer Under $10
-    *   Skin Care We Love
-    *   Boho Babe: Aratta &. More Up to 70% Off
-    *   DKNY Sport &. More
-    *   Fresh for Summer: Activewear Up to 70% Off
-    *   Luxe Brands Up to 70% Off
-    *   Summer Finds Under $35
-    *   Woven Tops Under $30
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Accessories
-    *   Handbags
     *   Lingerie &. Shapewear
+    *   Accessories
     *   Jewelry
+    *   Handbags
+    *   Watches
 *   MenShop Sale Events
     
+    *   Men's Styles Under $20
+    *   Men's Styles Under $30
+    *   Men's Styles Under $40
     *   Made in America: Men's Styles Up to 55% Off
     *   Men's Sneakers from FILA, PUMA &. More
     *   BBQ Ready: Men's Summer Styles Up to 70% Off
     *   Scotch &. Soda Up to 60% Off
     *   Men's Swim Up to 70% Off
-    *   Easy Upgrade: Stylish Backpacks
     *   Karl Lagerfeld Paris Men's Shoes Up to 70% Off
-    *   MCM Men's Shoes Up to 60% Off
-    *   Men's Denim Under $50
-    *   Champion Men
+    *   Easy Upgrade: Stylish Backpacks
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Kids' Styles Under $30
+    *   Kids' Styles Under $20
     *   Kids' Sneakers from K-Swiss &. More
     *   Kids' Swim Styles Up to 70% Off
     *   Mini Melissa Up to 60% Off
-    *   Easy Upgrade: Stylish Backpacks
     *   Top Toys Starting at $10
-    *   Harper Canyon Shoes from $15
-    *   Baby Essentials Starting at $10
+    *   Easy Upgrade: Stylish Backpacks
     
     Shop By Category
-    *   Baby
     *   Girls
     *   Girls' Shoes
-    *   Toys
+    *   Baby
     *   Boys
+    *   Toys
     *   Boys' Shoes
 *   HomeShop Sale Events
     
@@ -146,36 +126,28 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Free Shipping: Faux Plants &. Planters
     *   UV Sanitizers Under $40
     *   bObsweep Robotic Vacuums Up to 75% Off
-    
     *   Declutter Your Space: Home Organization Essentials
-    *   Free Shipping: Chic Home Decor Up to 45% Off
     *   Decor Update: Pillows, Accents &. More from $20
-    *   Free Shipping: Down &. Memory Foam Essentials
-    *   Free Shipping: Hand-Painted Replicas
     
     Shop By Category
     *   Home Decor
     *   Outdoor Living
     *   Bath
     *   Cleaning &. Organization
-    *   Bedding
     *   Kitchen &. Tabletop
-    *   Accent Furniture
     *   Electronic &. Tech Accessories
-    *   Pet Accessories
+    *   Accent Furniture
 *   BeautyShop Sale Events
     
     *   Hair Care We Love
     *   Shiseido Ginza Tokyo Skin Care &. Makeup
     *   Hand Sanitizer Under $10
-    *   Skin Care We Love
     
     Shop By Category
     *   Makeup
-    *   Skin Care
     *   Hair Care
+    *   Skin Care
     *   Tools &. Accessories
-    *   Men’s Grooming
     *   Bath &. Body
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
