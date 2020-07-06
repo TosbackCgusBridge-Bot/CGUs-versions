@@ -10,8 +10,7 @@ close
     *   Candy Gift Baskets
     *   California Gift Baskets
     
-    Occasions*   Fourth of July
-    *   Summer Entertaining
+    Occasions*   Summer Entertaining
     *   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
@@ -79,16 +78,15 @@ close
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Fourth of July
+    View All Categories Shop by Category*   Summer Entertaining
     
-    Occasions*   Summer Entertaining
-    *   Birthday Gifts
+    Occasions*   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
     *   Retirement Gifts
     *   Thinking of You
     *   Sympathy Gifts
-    *   Care PackagesMost Popular Fourth of July Gifts for All Occasions
+    *   Care PackagesMost Popular Summer Entertaining Gifts for All Occasions
 *   Business Gifts
     View All Categories Shop by Category*   Thank You Gifts
     *   Birthday Gifts
@@ -110,8 +108,7 @@ close
     *   Candy Gift Baskets
     *   California Gift Baskets
     
-    Occasions*   Fourth of July
-    *   Summer Entertaining
+    Occasions*   Summer Entertaining
     *   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
@@ -179,16 +176,15 @@ close
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Fourth of July
+    View All Categories Shop by Category*   Summer Entertaining
     
-    Occasions*   Summer Entertaining
-    *   Birthday Gifts
+    Occasions*   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
     *   Retirement Gifts
     *   Thinking of You
     *   Sympathy Gifts
-    *   Care PackagesMost Popular Fourth of July Gifts for All Occasions
+    *   Care PackagesMost Popular Summer Entertaining Gifts for All Occasions
 *   Business Gifts
     View All Categories Shop by Category*   Thank You Gifts
     *   Birthday Gifts
