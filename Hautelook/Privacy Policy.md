@@ -9,6 +9,29 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Styles Under $25
+    *   Swim Under $30
+    *   Men's Shoe Savings Up to 80% Off
+    *   Women's Sandals &. More Up to 70% Off
+    *   Kids' Styles Up to 75% Off
+    *   Men's Must-Haves Up to 80% Off
+    *   Keep It Short: Mini Dresses
+    *   Summer Styles Up to 80% Off
+    *   Summer Active Under $25
+    *   Summer Intimates &. Sleep Up to 65% Off
+    *   Denim Under $30
+    *   Shorts Up to 75% Off
+    *   Knit Tops Under $20
+    *   Persaman Starting at 60% Off
+    *   Sandals ft. MIA from $25
+    *   Luxe Men's Dress Shoes Up to 70% Off
+    *   Men's Premium Denim Under $100
+    *   Summer Sneakers from $30
+    *   Beach Essentials Starting at $15
+    
+    *   Mix &. Match: Suiting Up to 70% Off
+    *   Bring on Bedtime: Kids' Pajamas Up to 50% Off
+    *   Stride Rite
     *   Women's Styles Under $20
     *   Women's Styles Under $30
     *   Women's Styles Under $40
@@ -23,39 +46,43 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Made in America: Women's Styles Up to 75% Off
     *   Made in America: Men's Styles Up to 55% Off
     *   Tank Tops Starting at $15
-    
     *   Brands We Love Up to 75% Off
     *   Rain or Shine: Trenches &. More Up to 70% Off
+    
     *   Men's Sneakers from FILA, PUMA &. More
     *   Booties Up to 60% Off
     *   BBQ Ready: Men's Summer Styles Up to 70% Off
     *   Walk It Out: Women's Sneakers
     *   Kids' Sneakers from K-Swiss &. More
-    *   Free Shipping: Framed Art Up to 60% Off
+    *   WFH Essentials Up to 75% Off Incl. Plus &. Petites
+    *   Namaste: Yoga Essentials Up to 70% Off
     *   Kids' Swim Styles Up to 70% Off
-    *   Scotch &. Soda Up to 60% Off
     *   Kitschy Beach Towels Under $30
     *   Mini Melissa Up to 60% Off
-    *   Men's Swim Up to 70% Off
-    *   Top Toys Starting at $10
-    
+    *   Free Shipping: Framed Art Up to 60% Off
     *   Karl Lagerfeld Paris Men's Shoes Up to 70% Off
-    *   Spread Love: Heart Jewelry &. More
     *   2020 Trends: Art Finds
     *   Hair Care We Love
     *   Free Shipping: Faux Plants &. Planters
-    *   UV Sanitizers Under $40
     *   bObsweep Robotic Vacuums Up to 75% Off
     *   Declutter Your Space: Home Organization Essentials
-    *   Shiseido Ginza Tokyo Skin Care &. Makeup
-    *   Decor Update: Pillows, Accents &. More from $20
-    *   WFH Essentials Up to 75% Off Incl. Plus &. Petites
-    *   Namaste: Yoga Essentials Up to 70% Off
-    *   Easy Upgrade: Stylish Backpacks
-    *   Hand Sanitizer Under $10
 *   WomenShop Sale Events
     
+    *   Styles Under $25
+    *   Swim Under $30
+    *   Women's Sandals &. More Up to 70% Off
+    *   Keep It Short: Mini Dresses
+    *   Summer Styles Up to 80% Off
+    *   Summer Active Under $25
+    *   Summer Intimates &. Sleep Up to 65% Off
+    *   Denim Under $30
+    *   Shorts Up to 75% Off
+    *   Knit Tops Under $20
+    *   Persaman Starting at 60% Off
+    *   Sandals ft. MIA from $25
+    *   Summer Sneakers from $30
     *   Women's Styles Under $20
+    
     *   Women's Styles Under $30
     *   Women's Styles Under $40
     *   Summer Round-Up: Swim Under $30
@@ -64,37 +91,36 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Made in America: Women's Styles Up to 75% Off
     *   Tank Tops Starting at $15
     *   Brands We Love Up to 75% Off
-    
     *   Rain or Shine: Trenches &. More Up to 70% Off
     *   Booties Up to 60% Off
     *   Walk It Out: Women's Sneakers
-    *   Spread Love: Heart Jewelry &. More
-    *   Hair Care We Love
-    *   Shiseido Ginza Tokyo Skin Care &. Makeup
     *   WFH Essentials Up to 75% Off Incl. Plus &. Petites
     *   Namaste: Yoga Essentials Up to 70% Off
-    *   Hand Sanitizer Under $10
+    *   Hair Care We Love
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie &. Shapewear
-    *   Accessories
     *   Jewelry
+    *   Accessories
     *   Handbags
+    *   Lingerie &. Shapewear
     *   Watches
 *   MenShop Sale Events
     
+    *   Men's Shoe Savings Up to 80% Off
+    *   Men's Must-Haves Up to 80% Off
+    *   Luxe Men's Dress Shoes Up to 70% Off
+    *   Men's Premium Denim Under $100
+    *   Mix &. Match: Suiting Up to 70% Off
     *   Men's Styles Under $20
+    
     *   Men's Styles Under $30
     *   Men's Styles Under $40
     *   Made in America: Men's Styles Up to 55% Off
     *   Men's Sneakers from FILA, PUMA &. More
     *   BBQ Ready: Men's Summer Styles Up to 70% Off
-    *   Scotch &. Soda Up to 60% Off
-    *   Men's Swim Up to 70% Off
     *   Karl Lagerfeld Paris Men's Shoes Up to 70% Off
-    *   Easy Upgrade: Stylish Backpacks
     
     Shop By Category
     *   Clothing
@@ -103,31 +129,30 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Watches
 *   KidsShop Sale Events
     
+    *   Kids' Styles Up to 75% Off
+    *   Bring on Bedtime: Kids' Pajamas Up to 50% Off
+    *   Stride Rite
     *   Kids' Styles Under $30
     *   Kids' Styles Under $20
     *   Kids' Sneakers from K-Swiss &. More
     *   Kids' Swim Styles Up to 70% Off
     *   Mini Melissa Up to 60% Off
-    *   Top Toys Starting at $10
-    *   Easy Upgrade: Stylish Backpacks
     
     Shop By Category
     *   Girls
+    *   Boys
     *   Girls' Shoes
     *   Baby
-    *   Boys
-    *   Toys
     *   Boys' Shoes
 *   HomeShop Sale Events
     
-    *   Free Shipping: Framed Art Up to 60% Off
+    *   Beach Essentials Starting at $15
     *   Kitschy Beach Towels Under $30
+    *   Free Shipping: Framed Art Up to 60% Off
     *   2020 Trends: Art Finds
     *   Free Shipping: Faux Plants &. Planters
-    *   UV Sanitizers Under $40
     *   bObsweep Robotic Vacuums Up to 75% Off
     *   Declutter Your Space: Home Organization Essentials
-    *   Decor Update: Pillows, Accents &. More from $20
     
     Shop By Category
     *   Home Decor
@@ -135,20 +160,16 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Bath
     *   Cleaning &. Organization
     *   Kitchen &. Tabletop
-    *   Electronic &. Tech Accessories
+    *   Luggage &. Travel
+    *   Rugs &. Doormats
     *   Accent Furniture
 *   BeautyShop Sale Events
     
     *   Hair Care We Love
-    *   Shiseido Ginza Tokyo Skin Care &. Makeup
-    *   Hand Sanitizer Under $10
     
     Shop By Category
-    *   Makeup
     *   Hair Care
-    *   Skin Care
     *   Tools &. Accessories
-    *   Bath &. Body
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
