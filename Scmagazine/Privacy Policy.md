@@ -252,17 +252,17 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
-    *   Event invitation phishing scheme usurps efficacy of Microsoft, Google and Wells Fargo
+    *   SC Product Reviews: Endpoint Security
     *   Resilience improved, but response dragged down by too many tools, too few playbooks, report says
-    *   Netflix DVD's Sanders: Revamp strategies to stay ahead of attackers
-    *   Deliver More Effective Threat Intelligence with Federated Machine Learning
-    *   Glupteba malware leverages blockchain as a communications channel
+    *   LeBron James among the 1st stars to have their stolen law firm files put up for auction
+    *   UCSF paid $1.4 million ransom in NetWalker attack
+    *   Variant of Mac malware 'Shlayer' spreads via poisoned web searches
     
-    *   Xerox apparent victim of Maze attack
+    *   Geopolitical targets figuring in latest StrongPity attacks
+    *   BMW customer database for sale on dark web
+    *   IoT adds value, risk but management within reach
     *   Ransomware gang claims attack on LG Electronics
-    *   'GoldenSpy' tax software campaign tries to erase evidence of malware
-    *   CyberSC's Vogel offers insider’s guide to becoming a vCISO
-    *   Inside the Dark Web: 4 Misconceptions and How Security Teams Can Change Minds and Benefit
+    *   SC Product Reviews: Endpoint Security
     
     *   MongoDB hacker threatens to report breach to GDPR
     *   LeBron James among the 1st stars to have their stolen law firm files put up for auction
