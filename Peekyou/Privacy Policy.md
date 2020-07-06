@@ -213,99 +213,7 @@ Facebook 2% 
     
 *   Show Less ...
 
-Twitter 2% 
-
-*   FOIAPost - FOIAPost
-    
-*   Free Privacy Policy - FreePrivacy1
-    
-*   Lufthansa Systems - LH\_Systems
-    
-*   U.S. FDA Recalls - FDArecalls
-    
-*   Show More ...
-
-*   Mental Health NIMH - NIMHgov
-    
-*   HealthCare.gov - HealthCareGov
-    
-*   U.S. Census Bureau - uscensusbureau
-    
-*   Dr. Robert R. Redfield - CDCDirector
-    
-*   Justice Department - TheJusticeDept
-    
-*   HHS.gov - HHSGov
-    
-*   KerriKupecDOJ - KerriKupecDOJ
-    
-*   Seattle Privacy - SeattlePrivacy
-    
-*   U.S. FDA - US\_FDA
-    
-*   Federal Reserve - federalreserve
-    
-*   USAID Policy - USAIDPolicy
-    
-*   CDC - CDCgov
-    
-*   Cristiano Ronaldo - Cristiano
-    
-*   NIH - NIH
-    
-*   Jolynn Dellinger - MindingPrivacy
-    
-*   ARL Public Policy - ARLpolicy
-    
-*   Show Less ...
-
-Instagram 2% 
-
-*   Privacy Policy - privacy.policy.insta
-    
-*   privacy policy - privacy.p
-    
-*   Privacy Policy - sata\_\_\_
-    
-*   Privacy Policy - mrprivacypolicy
-    
-*   Show More ...
-
-*   Djavid - \_privacy\_policy
-    
-*   NO CONSENT To Privacy Policy - outdapotrecords
-    
-*   Starz Birdman Jr. - privacy\_policy
-    
-*   عبدالله علوي - privacy\_policyinformation\_we\_c
-    
-*   google\_privacy\_policy\_ar - google\_privacy\_policy\_ar1
-    
-*   privacy\_policy\_4 - privacy\_policy\_4
-    
-*   privacy\_policy\_privacy\_terms - privacy\_policy\_privacy\_terms
-    
-*   NO CONSENT To Privacy Policy - therealitzdope
-    
-*   InstagramRep. - privacy\_policy\_direct\_
-    
-*   noor alslnani - privacypolicygameloft
-    
-*   سید علی موسوی - privacy\_policy\_terms\_
-    
-*   陳珮綺 - privacy\_policy\_of\_faschenpeiqi
-    
-*   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ - \_\_privacy.policy\_\_\_
-    
-*   privacy.isthe.policy - privacy.isthe.policy
-    
-*   privacy.isthe.policy - privacy.isthe.policy
-    
-*   Konstantin - \_privacy.\_.policy\_
-    
-*   Show Less ...
-
-Myspace 2% 
+Twitter 6%  Instagram 6%  Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -329,16 +237,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Social Profiles 6%  Pinterest 2% 
-
-*   Privacy policy - maaenterprise033
-    
-*   Sarvara Sign up with Email Female Male Let Pinterest personalize your experience based on o - sarvara
-    
-*   Learn about instant apps Google Play Instant Apps are Play Store apps you can open before requiring - girlfriendnomore1
-    
-
-Wikipedia 2% 
+Social Profiles 6%  Pinterest 6%  Wikipedia 2% 
 
 *   Privacy policy
     
@@ -422,31 +321,11 @@ Web Search 6%  Images 2% 
 
 16
 
-20
-
-19
-
-7
+9
 
 facebookx
 
-twitterx
-
-instagramx
-
 myspacex
-
-3
-
-facebookx
-
-twitterx
-
-instagramx
-
-myspacex
-
-pinterestx
 
 *   About PeekYou
 *   Privacy Policy
