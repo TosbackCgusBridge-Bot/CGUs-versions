@@ -1,20 +1,6 @@
-Sales: **855.712.8764**   Support: **855.205.7356**
+Sales: **855.712.8729**   Support: **855.976.5477**
 
-Login
-
-*   Who We Serve
-    *   Faith-Based  
-        An easy way for your congregation to give.
-    *   Education  
-        Simplifying payments, teacher and admin tasks.
-    *   Community  
-        Tools to help you serve our communities.
-    *   Partners  
-        Integrate and partner with us.
-*   About
-*   Contact Us
-
-Login
+Sign Up Login
 
 *   Who We Serve
     *   Faith-Based  
@@ -28,7 +14,21 @@ Login
 *   About
 *   Contact Us
 
-Login
+Sign Up Login
+
+*   Who We Serve
+    *   Faith-Based  
+        An easy way for your congregation to give.
+    *   Education  
+        Simplifying payments, teacher and admin tasks.
+    *   Community  
+        Tools to help you serve our communities.
+    *   Partners  
+        Integrate and partner with us.
+*   About
+*   Contact Us
+
+Sign Up Login
 
 *   Login
 *   Sign Up
@@ -185,9 +185,11 @@ Bloomington, MN 55437
 
 **CALL US**
 
-**Sales:** 855.712.8764
+**Sales:** 855.712.8729
 
-**Support:** 855.205.7356
+**Support:** 855.976.5477
+
+**Login**
 
 INFORMATION ON VANCO
 
@@ -225,9 +227,11 @@ Bloomington, MN 55431
 
 CALL US
 
-**Support:** (855) 205-7356
+**Support:** (855) 976-5477
 
-**Sales:** (855) 712-8764
+**Sales:** (855) 712-8729
+
+**Login**
 
 Copyright © 2020 Vanco. All rights reserved.  
 Vanco is a registered ISO of Wells Fargo Bank, N.A., Concord, CA Privacy Policy | Terms and Conditions PCI Certified <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCFS6FD" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1833255713665121&amp;ev=PageView&amp;noscript=1">.
