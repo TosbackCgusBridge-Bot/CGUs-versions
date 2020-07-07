@@ -1,6 +1,6 @@
-Our COVID-19 response  DetailsLast day! EXTRA 30% OFF $75+ with code: 4THSALE Details  
-EXTRA 25% OFF under $75 with code: 4THSALE Details  
-Free Shipping Over $49  DetailsOur stores are now open  +Try curbside pickup today! DetailsOur COVID-19 response  DetailsLast day! EXTRA 30% OFF $75+ with code: 4THSALE Details  
+Our COVID-19 response  DetailsEXTRA 30% OFF w/ JCP Credit Card &. EXTRA3 Details  
+EXTRA 25% OFF $75 or more with code: EXTRA3 Details  
+Free Shipping Over $49  DetailsOur stores are now open  +Try curbside pickup today! DetailsOur COVID-19 response  DetailsEXTRA 30% OFF w/ JCP Credit Card &. EXTRA3 Details  
 
 Enable Accessibility
 
@@ -21,7 +21,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
- 
+Men's ShirtsMen's ShortsWomen's TopsWomen's ShortsApparelHomeHandbagsSandalsUP TO 50% OFF Home SaleDestination? Relaxation. select styles
 
 *   Shop All
 
@@ -34,41 +34,44 @@ Enable Accessibility
 *   Bath Towels
     
 
-Shop All4th of July Furniture &. Mattress SALEUP TO 60% OFF+Extra 10% OFF with couponEnds 7/15 | select stylesMattressesFurniture$14.99  
-**Men's Stafford ** **Dress Shirt** $14.99**Men's IZOD** **Salt Water Tee** $6.99**Kids' Arizona** **Tank Top** $14.99**Liz Claiborne** **Linen Pants** $17.99**Women's Sandals** $15.99**Men's Burnside** **Swimwear** $9.99**Liz Claiborne** **Bath Towel** $6.99**Kids' Xersion** **Graphic Tee** $1.99**Flip Flops** $6.99**Women's** **St. John's Bay Tee** $14.99**a.n.a. Shorts** $9.99 ANY SIZE**JCPenney Home** **Bayview Sheers** $89.99**Cook's 10-pc. Cookware Set** $8.99**Carter's Romper** **or Creeper** UP TO 50% OFFFun, fresh swimwear for longer days &. sunny rays.select stylesWomenMenGirlsBoysUP TO 50% OFF Women's dressesCute, chic options for any event!Shop AllCasual Dressesselect stylesFloral Dressesselect stylesSummer Beauty SavingsFind the perfect pick-me up that's red, white &. YOU.$6.50 China Glaze Nail Polishselect stylesUP TO 50% OFF Sephoraselect stylesExcluded from coupons. 
+Furniture &. Mattress SALEUP TO 60% OFF+EXTRA 10% OFF WITH couponEnds 7/15 | select stylesMattressesFurniture**EXTRA 30% OFF** Fine jewelry at the VIP Jewelry SaleGet Details
 
-*   Shop All
+*   Shop Jewelry
 
 *   Modern Bride
     
-*   Gemstone Jewelry
-    
 *   Gold &. Fine Silver
     
-*   Fashion Jewelry
+*   Gemstone Jewelry
+    
+*   Fashion Silver
     
 
-Shop All Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 43 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+Shop Jewelry WomenMenKids NikeadidasChampion  Learn More  Shop Now Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 43 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   The Foundry Big &. Tall Supply Co.-Big and Tall Mens Crew Neck Short Sleeve T-Shirt $11.24with code~$20~237
-*   Liz Claiborne Signature Plush Bath Towel Collection $5.24 - $38.95with code~$12 - $96~539
+*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
+    
+    $29.99sale
+    
+    ~$85~
+*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
+    
+    $25sale
+    
+    ~$124.98~191
 *   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
     $25sale
     
     ~$124.98~134
-*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
-    
-    $25sale
-    
-    ~$124.98~190
-*   Liz Claiborne Womens Split Crew Neck Short Sleeve Henley Shirt $10.12with code~$27~15
-*   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $17.95with code~$6 - $48~538
+*   Sealy® Davlin LTD Plush Pillowtop - Mattress Only $353.99 - $599with code~$1,030 - $1,820~13
+*   Sealy Essentials™ Ivory Treasure - Mattress Only $149 - $298.99with code~$430 - $920~35
+*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $33.59 - $50.39with code~$60 - $90~108
 
 Sponsored Items
 
-*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $14.99with code~$30~
-*   Farberware Cookstart 15-pc. Cookware Set $62.99with code~$120~61
+*   Farberware Cookstart 15-pc. Cookware Set $67.49with code~$120~61
 *   Yves Saint Laurent Mon Paris Eau de Parfum
     
     $74 - $124
@@ -84,7 +87,7 @@ Sponsored Items
     $23
     
     4903
-*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
+*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $15.99with code~$30~
 *   Rachael Ray Create Delicious 10.25-Inch Deep Skillet
     
     $39.99sale
@@ -95,56 +98,56 @@ Sponsored Items
     $569.99sale
     
     ~$669~186
-*   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~136
+*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
 *   Ayesha Curry™ Home Collection 2-pc. 9.25" &. 11.5" Skillet Set
     
     $80
     
     10
-*   Yves Saint Laurent Y Eau Fraiche
-    
-    $77 - $95
-    
-    138
-*   Fisher-Price Rock-A-Stack Clacker
-    
-    $4.49
-    
+*   Circulon® Momentum 11-pc. Nonstick Cookware Set $179.99with code~$400~136
 *   YVES SAINT LAURENT Libre Eau De Parfum
     
     $78 - $130
     
     397
-*   Bissell® SpinWave® Hard Floor Spin Mop
+*   Fisher-Price Rock-A-Stack Clacker
     
-    $129
+    $4.49
     
-    1025
+*   Yves Saint Laurent Y Eau Fraiche
+    
+    $77 - $95
+    
+    138
 *   Anastasia Beverly Hills Brow Wiz
     
     $23
     
     15091
-*   Fisher-Price Learn with Me Zebra Walker
+*   Bissell® SpinWave® Hard Floor Spin Mop
     
-    $24.99
+    $129
     
-    40
+    1027
 *   Fisher-Price Classic Xylophone
     
     $15.99
     
     7
+*   Fisher-Price Learn with Me Zebra Walker
+    
+    $24.99
+    
+    40
+*   Fisher-Price Laugh &. Learn Smart Stages Puppy
+    
+    $19.99
+    
 *   Fisher-Price Laugh &. Learn Click &. Learn Laptop
     
     $14.99
     
     10
-*   Fisher-Price Laugh &. Learn Smart Stages Puppy
-    
-    $19.99
-    
-    62
 *   Fisher-Price Linkimals Smooth Moves Sloth
     
     $29.99
