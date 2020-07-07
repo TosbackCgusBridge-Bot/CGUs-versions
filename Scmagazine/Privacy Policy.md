@@ -252,23 +252,23 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
-    *   SC Product Reviews: Endpoint Security
-    *   Resilience improved, but response dragged down by too many tools, too few playbooks, report says
+    *   IT Security Questions to Ask for the Great Return to the Workplace
+    *   Even during pandemic, healthcare orgs successfully fending off attacks
+    *   Inside the Dark Web: 4 Misconceptions and How Security Teams Can Change Minds and Benefit
+    *   Alsid’s Melber urges active directory protection to fend off new attack patterns
+    *   Malicious doc campaign unleashes Cobalt Strike on gov't, military orgs in South Asia
+    
+    *   'GoldenSpy' tax software campaign tries to erase evidence of malware
     *   LeBron James among the 1st stars to have their stolen law firm files put up for auction
     *   UCSF paid $1.4 million ransom in NetWalker attack
-    *   Variant of Mac malware 'Shlayer' spreads via poisoned web searches
+    *   Triangle of network security management requires formalized process, Rodrigue says
+    *   Cybercriminals likely poised to attack as Adobe ends support for Magento 1
     
-    *   Geopolitical targets figuring in latest StrongPity attacks
-    *   BMW customer database for sale on dark web
-    *   IoT adds value, risk but management within reach
-    *   Ransomware gang claims attack on LG Electronics
-    *   SC Product Reviews: Endpoint Security
-    
-    *   MongoDB hacker threatens to report breach to GDPR
-    *   LeBron James among the 1st stars to have their stolen law firm files put up for auction
-    *   NetWalker ransomware group claims attack on Fort Worth transportation agency
-    *   BMW customer database for sale on dark web
-    *   Report accuses China of extensive mobile spyware use to track ethnic minority group
+    *   Frequency, size of fines for failing to secure data will grow by 2025, report
+    *   Home routers largely unpatched, raising risk during Covid-19 WFH
+    *   EARN IT passes Senate Judiciary, stokes concerns over erosion of end-to-end encryption
+    *   Open S3 bucket exposes one million files of fitness brand V Shred
+    *   Zero-day XSS vulnerability found in Cisco small business routers
 
 Back to Top
 
@@ -301,4 +301,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+
+You can skip this ad in 2 seconds.
