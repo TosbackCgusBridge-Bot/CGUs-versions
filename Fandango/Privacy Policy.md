@@ -9,15 +9,14 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     
     Opening This Week = Limited Release
     
-    *   The Outpost (2020)
-    *   Relic (2020)
-    *   The Truth (2020)
+    *   Archive (2020)
+    *   The Tobacconist
+    *   We Are Little Zombies
     *   See All Opening This Week
     
     Coming Soon
     
     *   Unhinged (2020)
-    *   The SpongeBob Movie: Sponge on the Run
     *   Tenet
     *   Mulan (2020)
     *   Antebellum
