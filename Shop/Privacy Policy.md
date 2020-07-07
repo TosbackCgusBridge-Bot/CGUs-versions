@@ -1209,7 +1209,7 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement **Need help with an order? Talk to a representative at 1-855-253-6686 #2** **or chatChat Now** **Need help with an order? Talk to a representative at 1-855-253-6686 #2** **or chatChat Now**×Created with sketchtool.CHAT NOW0
+© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Created with sketchtool.CHAT NOW0
 
 How can we help
 
