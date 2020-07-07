@@ -88,7 +88,7 @@ Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-6%  2% 
+8%  2% 
 
 Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -118,7 +118,7 @@ Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-6%  Arrest Records &. Driving Infractions
+8%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -213,7 +213,53 @@ Facebook 2% 
     
 *   Show Less ...
 
-Twitter 6%  Instagram 6%  Myspace 2% 
+Twitter 2% 
+
+*   CDC - CDCgov
+    
+*   CDC\_eHealth - CDC\_eHealth
+    
+*   Free Privacy Policy - FreePrivacy1
+    
+*   Dr. Robert R. Redfield - CDCDirector
+    
+*   Show More ...
+
+*   CDC Division For Heart Disease &. Stroke Prevention - CDCHeart\_Stroke
+    
+*   FOIAPost - FOIAPost
+    
+*   U.S. FDA Recalls - FDArecalls
+    
+*   Jolynn Dellinger - MindingPrivacy
+    
+*   NIH - NIH
+    
+*   Mental Health NIMH - NIMHgov
+    
+*   USAID Policy - USAIDPolicy
+    
+*   HealthCare.gov - HealthCareGov
+    
+*   U.S. FDA - US\_FDA
+    
+*   ARL Public Policy - ARLpolicy
+    
+*   Seattle Privacy - SeattlePrivacy
+    
+*   Federal Reserve - federalreserve
+    
+*   HHS.gov - HHSGov
+    
+*   Mabuhay Miles - PALMabuhayMiles
+    
+*   Justice Department - TheJusticeDept
+    
+*   Cristiano Ronaldo - Cristiano
+    
+*   Show Less ...
+
+Instagram 8%  Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -237,7 +283,16 @@ Twitter 6%  Instagram 6%  Myspace 2% 
     
 *   Show Less ...
 
-Social Profiles 6%  Pinterest 6%  Wikipedia 2% 
+Social Profiles 8%  Pinterest 2% 
+
+*   Privacy Policy - privacypolicyvino
+    
+*   Privacy Policy - privacypoli0213
+    
+*   Learn about instant apps Google Play Instant Apps are Play Store apps you can open before requiring - girlfriendnomore1
+    
+
+Wikipedia 2% 
 
 *   Privacy policy
     
@@ -269,7 +324,7 @@ Social Profiles 6%  Pinterest 6%  Wikipedia 2% 
     
 *   Show Less ...
 
-Music 6%  Photo Albums 2% 
+Music 8%  Photo Albums 2% 
 
 *   Help
     
@@ -317,15 +372,31 @@ Music 6%  Photo Albums 2% 
     
 *   Show Less ...
 
-Web Search 6%  Images 2% 
+Web Search 8%  Images 2% 
 
 16
 
-9
+20
+
+7
+
+3
 
 facebookx
 
+twitterx
+
 myspacex
+
+pinterestx
+
+facebookx
+
+twitterx
+
+myspacex
+
+pinterestx
 
 *   About PeekYou
 *   Privacy Policy
