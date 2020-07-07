@@ -60,6 +60,7 @@ Search
     *   Benchmarking
     *   Coronavirus (COVID-19)
     *   Cost Optimization
+    *   Diversity, Equity and Inclusion Resource Center
     *   Executive Guidance
     *   Strategic Planning
     *   Top Insights
@@ -81,7 +82,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 841 7357 1 855 841 7357
+    1 855 903 6883 1 855 903 6883
     
 
 *   Solutions By Function
@@ -128,6 +129,7 @@ Search
     *   Benchmarking
     *   Coronavirus (COVID-19)
     *   Cost Optimization
+    *   Diversity, Equity and Inclusion Resource Center
     *   Executive Guidance
     *   Strategic Planning
     *   Top Insights
@@ -149,7 +151,7 @@ Search
 
 *   Become a Client
     
-    1 855 841 7357 1 855 841 7357
+    1 855 903 6883 1 855 903 6883
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
