@@ -1,12 +1,13 @@
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T44RDC6" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Skip to content Privacy Notice
 
-Notice: We have updated our Privacy Notice as of February 21, 2020 to provide you with more information about the features we offer that allow our customers to better control who they contact through our products and services. Please read more here.
+Notice: We have updated our Privacy Notice as of July 6, 2020 to provide you with more information about the features we offer that allow our customers to better control who they contact through our products and services. Please read more here.
 
 Table of Contents
 
 *   About Us
 *   Information Covered by this Privacy Notice
     *   Addendum for Users who purchased services from Constant Contact
+    *   Addendum for Users who purchased services from Ecomdash
     *   Addendum for Users who purchased Domain Registration services, including from Domain.com
     *   Addendum for California Users
 *   Information We Collect From You
@@ -296,7 +297,7 @@ For transfers of personal information within the Endurance corporate family, suc
 
 For transfers of data to third parties, such transfers will either (i) be under the Commission’s model contracts for the transfer of personal data to third countries (i.e., the standard contractual clauses), pursuant to Decision 2004/915/EC and 2010/87/EU. or (ii) rely on the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework.
 
-Endurance’s Constant Contact, Bluehost, Fast Domain, Host Monster and Just Host brands (together known as “Covered Entities”) participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (together, the “Frameworks”). The Covered Entities are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, and to view our certifications, visit the U.S. Department of Commerce at https://www.privacyshield.gov/list
+Endurance’s Constant Contact, Ecomdash, Bluehost, Fast Domain, Host Monster and Just Host brands (together known as “Covered Entities”) participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (together, the “Frameworks”). The Covered Entities are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, and to view our certifications, visit the U.S. Department of Commerce at https://www.privacyshield.gov/list
 
 The Covered Entities are responsible for the processing of personal data they receive, under each Privacy Shield Framework, and subsequently transfer to a third party acting as an agent on its behalf. The Covered Entities comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
@@ -333,7 +334,7 @@ THE NETHERLANDS
 Telephone: (+31) – (0)70 – 888 85 00  
 Fax: (+31) – (0)70 – 888 85 01
 
-**Last modified February 21, 2020**
+**Last modified July 6, 2020**
 
 Back To Top ©2020 Endurance International Group.
 
