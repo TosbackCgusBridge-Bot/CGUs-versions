@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Canonical Developer Advocate Named Microsoft MVP
 *   Feeling at home in a LXD container
 *   A snap confined shell based on Mir: Mircade
-*   A blast from the past – Shutter
