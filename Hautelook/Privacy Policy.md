@@ -9,11 +9,26 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Virtual Date Night Ready: Lipsticks, Blushes &. More
+    *   Sugarfina
+    *   Decor We Love
+    *   Madewell Starting at $20 Incl. Plus
+    *   Slim Fit Jeans Up to 65% Off
+    *   Ready for Summer: White Denim Up to 70% Off
+    *   Midi Dresses Under $50
+    *   Born
+    *   Trench Coats, Rain Jackets &. More Up to 70% Off
+    *   Boots &. Booties Up to 65% Off
+    *   b.tempt'd by Wacoal &. More Starting at $15
+    *   The Pro Shop ft. Callaway Golf
+    *   Cool Kicks: Kids' Sneakers from $20
+    *   Madewell Handbags &. Jewelry
+    *   Baby Styles Up to 65% Off
+    *   Men's Sneakers Up to 70% Off
     *   Z By Zella Starting at $20
     *   Designers We Love ft. Helmut Lang
     *   Summer Tops &. Bottoms Under $20
     *   Stripes Under $25
+    
     *   Tie-Dye Styles Up to 70% Off
     *   J/Slides
     *   Snuggle Up: Sleep &. Robes Under $30
@@ -25,50 +40,41 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Summer Comfort Shoes ft. KORKS Up to 65% Off
     *   Gym Essentials For Him Up to 60% Off
     *   WFH in Style: Men's Loafers &. Slip-Ons
-    *   Styles Under $25
     *   Swim Under $30
     *   Men's Shoe Savings Up to 80% Off
-    
     *   Women's Sandals &. More Up to 70% Off
     *   Kids' Styles Up to 75% Off
+    *   Luxe Men's Dress Shoes Up to 70% Off
+    *   Men's Premium Denim Under $100
+    *   Shorts Up to 75% Off
+    *   Knit Tops Under $20
+    
+    *   Bring on Bedtime: Kids' Pajamas Up to 50% Off
+    *   Stride Rite
+    *   Men's Must-Haves Up to 80% Off
+    *   Kitschy Beach Towels Under $30
+    *   Free Shipping: Faux Plants &. Planters
+    *   Beauty Best Sellers
+    *   Virtual Date Night Ready: Lipsticks, Blushes &. More
+    *   Styles Under $25
     *   Keep It Short: Mini Dresses
     *   Summer Styles Up to 80% Off
     *   Summer Active Under $25
-    *   Summer Intimates &. Sleep Up to 65% Off
-    *   Persaman Starting at 60% Off
-    *   Sandals ft. MIA from $25
-    *   Luxe Men's Dress Shoes Up to 70% Off
-    *   Men's Premium Denim Under $100
-    *   Summer Sneakers from $30
     *   Beach Essentials Starting at $15
     *   Mix &. Match: Suiting Up to 70% Off
-    *   Bring on Bedtime: Kids' Pajamas Up to 50% Off
-    *   Stride Rite
-    *   Denim Under $30
-    *   Shorts Up to 75% Off
-    *   Knit Tops Under $20
     *   Women's Styles Under $20
-    
     *   Women's Styles Under $30
     *   Women's Styles Under $40
-    *   Men's Styles Under $20
-    *   Men's Styles Under $30
-    *   Men's Styles Under $40
-    *   Summer Round-Up: Swim Under $30
-    *   Kids' Styles Under $30
-    *   Kids' Styles Under $20
-    *   Fresh Shoe Finds
-    *   Flat Slides Up to 65% Off
-    *   Men's Must-Haves Up to 80% Off
-    *   Men's Sneakers from FILA, PUMA &. More
-    *   Free Shipping: Framed Art Up to 60% Off
-    *   Kitschy Beach Towels Under $30
-    *   Free Shipping: Faux Plants &. Planters
     *   bObsweep Robotic Vacuums Up to 75% Off
-    *   Declutter Your Space: Home Organization Essentials
 *   WomenShop Sale Events
     
-    *   Virtual Date Night Ready: Lipsticks, Blushes &. More
+    *   Madewell Starting at $20 Incl. Plus
+    *   Ready for Summer: White Denim Up to 70% Off
+    *   Midi Dresses Under $50
+    *   Trench Coats, Rain Jackets &. More Up to 70% Off
+    *   Boots &. Booties Up to 65% Off
+    *   b.tempt'd by Wacoal &. More Starting at $15
+    *   Madewell Handbags &. Jewelry
     *   Z By Zella Starting at $20
     *   Designers We Love ft. Helmut Lang
     *   Summer Tops &. Bottoms Under $20
@@ -77,28 +83,22 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   J/Slides
     *   Snuggle Up: Sleep &. Robes Under $30
     *   Vince Camuto Jewelry &. Accessories
+    
     *   Loafers to Love Up to 55% Off
     *   Summer Comfort Shoes ft. KORKS Up to 65% Off
-    *   Styles Under $25
     *   Swim Under $30
     *   Women's Sandals &. More Up to 70% Off
-    *   Keep It Short: Mini Dresses
-    
-    *   Summer Styles Up to 80% Off
-    *   Summer Active Under $25
-    *   Summer Intimates &. Sleep Up to 65% Off
-    *   Persaman Starting at 60% Off
-    *   Sandals ft. MIA from $25
-    *   Summer Sneakers from $30
-    *   Denim Under $30
     *   Shorts Up to 75% Off
     *   Knit Tops Under $20
+    *   Beauty Best Sellers
+    *   Virtual Date Night Ready: Lipsticks, Blushes &. More
+    *   Styles Under $25
+    *   Keep It Short: Mini Dresses
+    *   Summer Styles Up to 80% Off
+    *   Summer Active Under $25
     *   Women's Styles Under $20
     *   Women's Styles Under $30
     *   Women's Styles Under $40
-    *   Summer Round-Up: Swim Under $30
-    *   Fresh Shoe Finds
-    *   Flat Slides Up to 65% Off
     
     Shop By Category
     *   Clothing
@@ -109,19 +109,18 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Lingerie &. Shapewear
 *   MenShop Sale Events
     
+    *   Slim Fit Jeans Up to 65% Off
+    *   The Pro Shop ft. Callaway Golf
+    *   Men's Sneakers Up to 70% Off
     *   Helmut Lang Men Up to 65% Off
     *   Gym Essentials For Him Up to 60% Off
     *   WFH in Style: Men's Loafers &. Slip-Ons
+    
     *   Men's Shoe Savings Up to 80% Off
     *   Luxe Men's Dress Shoes Up to 70% Off
     *   Men's Premium Denim Under $100
-    
-    *   Mix &. Match: Suiting Up to 70% Off
-    *   Men's Styles Under $20
-    *   Men's Styles Under $30
-    *   Men's Styles Under $40
     *   Men's Must-Haves Up to 80% Off
-    *   Men's Sneakers from FILA, PUMA &. More
+    *   Mix &. Match: Suiting Up to 70% Off
     
     Shop By Category
     *   Clothing
@@ -129,44 +128,51 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Cool Kicks: Kids' Sneakers from $20
+    *   Baby Styles Up to 65% Off
     *   Z By Zella Kids &. More
     *   Kids' Styles Up to 75% Off
     *   Bring on Bedtime: Kids' Pajamas Up to 50% Off
     *   Stride Rite
-    *   Kids' Styles Under $30
-    *   Kids' Styles Under $20
     
     Shop By Category
+    *   Baby
     *   Girls
     *   Boys
-    *   Baby
     *   Girls' Shoes
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Sugarfina
+    *   Decor We Love
     *   Lamps Starting at $50
-    *   Beach Essentials Starting at $15
-    *   Free Shipping: Framed Art Up to 60% Off
     *   Kitschy Beach Towels Under $30
     *   Free Shipping: Faux Plants &. Planters
+    *   Beach Essentials Starting at $15
     *   bObsweep Robotic Vacuums Up to 75% Off
-    *   Declutter Your Space: Home Organization Essentials
     
     Shop By Category
     *   Home Decor
     *   Outdoor Living
     *   Bath
     *   Luggage &. Travel
+    *   Pet Accessories
     *   Cleaning &. Organization
-    *   Kitchen &. Tabletop
-    *   Rugs &. Doormats
     *   Accent Furniture
+    *   Kitchen &. Tabletop
 *   BeautyShop Sale Events
     
+    *   Beauty Best Sellers
     *   Virtual Date Night Ready: Lipsticks, Blushes &. More
     
     Shop By Category
     *   Makeup
+    *   Skin Care
+    *   Fragrance
+    *   Men’s Grooming
+    *   Hair Care
+    *   Tools &. Accessories
+    *   Bath &. Body
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
