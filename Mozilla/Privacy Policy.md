@@ -4,6 +4,7 @@ Download Firefox — English (US)
 
 *   Windows 64-bit
 *   Windows 64-bit MSI
+*   Windows ARM64/AArch64
 *   Windows 32-bit
 *   Windows 32-bit MSI
 *   macOS
@@ -18,6 +19,7 @@ Download Firefox — English (US)
 
 *   Windows 64-bit
 *   Windows 64-bit MSI
+*   Windows ARM64/AArch64
 *   Windows 32-bit
 *   Windows 32-bit MSI
 *   macOS
@@ -32,6 +34,7 @@ Your system doesn't meet the requirements to run Firefox.
 
 Please follow these instructions to install Firefox.
 
+*   **Download Firefox**
 *   **Download Firefox**
 *   **Download Firefox**
 *   **Download Firefox**
