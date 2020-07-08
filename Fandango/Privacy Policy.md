@@ -54,7 +54,7 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   Check Out This Behind the Scenes Look at 'Bad Boys For Life' Read More
-    *   What to Watch on FandangoNOW: ‘Irresistible,’ ‘Viena and the Fantomes,’ Fourth of July Favorites and More Read More
+    *   What to Watch on FandangoNOW: ‘Mighty Oak,’ ‘First Cow,’ Camping Movies and More Read More
     *   Your Most Anticipated DC Movies To Make a Big Splash at First-Ever DC FanDome Event Read More
     
     Explore Content
