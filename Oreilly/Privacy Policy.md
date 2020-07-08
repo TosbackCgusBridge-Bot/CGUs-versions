@@ -419,7 +419,7 @@ Take O’Reilly online learning with you and learn anywhere, anytime on your pho
 
 Do not sell my personal information
 
-Exercise your consumer rights by contacting us at donotsell@oreilly.com
+Exercise your consumer rights by contacting us at donotsell@oreilly.com.
 
 © 2020, O’Reilly Media, Inc. All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
 
