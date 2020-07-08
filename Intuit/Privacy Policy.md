@@ -1,6 +1,7 @@
-Our COVID-19 response  DetailsEXTRA 30% OFF w/ JCP Credit Card &. EXTRA3 Details  
+Our stores are now open  +Try curbside pickup today! DetailsEXTRA 30% OFF w/ JCP Credit Card &. EXTRA3 Details  
 EXTRA 25% OFF $75 or more with code: EXTRA3 Details  
-Free Shipping Over $49  DetailsOur stores are now open  +Try curbside pickup today! DetailsOur COVID-19 response  DetailsEXTRA 30% OFF w/ JCP Credit Card &. EXTRA3 Details  
+EXTRA 20% OFF under $75 with code: EXTRA3 Details  
+Free Shipping Over $49  DetailsOur stores are now open  +Try curbside pickup today! DetailsEXTRA 30% OFF w/ JCP Credit Card &. EXTRA3 Details  
 
 Enable Accessibility
 
@@ -50,61 +51,61 @@ Furniture &. Mattress SALEUP TO 60% OFF+EXTRA 10% OFF WITH couponEnds 7/15 | sel
 Shop Jewelry WomenMenKids NikeadidasChampion  Learn More  Shop Now Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 43 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
-    
-    $29.99sale
-    
-    ~$85~
 *   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
     $25sale
     
     ~$124.98~191
+*   DOLCE &. GABBANA Light Blue Mini Duo Set
+    
+    $20
+    
+    38
 *   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
     $25sale
     
     ~$124.98~134
-*   Sealy® Davlin LTD Plush Pillowtop - Mattress Only $353.99 - $599with code~$1,030 - $1,820~13
+*   Linden Street Vintage Wash Cotton Sheet Set $15.99 - $55.99with code~$40 - $120~34
 *   Sealy Essentials™ Ivory Treasure - Mattress Only $149 - $298.99with code~$430 - $920~35
-*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $33.59 - $50.39with code~$60 - $90~108
+*   Liz Claiborne Womens Hapur Wedge Sandals $23.99with code~$65~2
 
 Sponsored Items
 
-*   Farberware Cookstart 15-pc. Cookware Set $67.49with code~$120~61
 *   Yves Saint Laurent Mon Paris Eau de Parfum
     
     $74 - $124
     
     653
-*   Fisher-Price Laugh &. Learn Smart Stages Sis
-    
-    $15.99sale
-    
-    ~$19.99~49
 *   Anastasia Beverly Hills Brow Powder Duo
     
     $23
     
     4903
+*   Fisher-Price Laugh &. Learn Smart Stages Sis
+    
+    $15.99sale
+    
+    ~$19.99~49
+*   Dyson® V8 Animal Cord-Free Vacuum
+    
+    $569.99sale
+    
+    ~$669~186
 *   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $15.99with code~$30~
 *   Rachael Ray Create Delicious 10.25-Inch Deep Skillet
     
     $39.99sale
     
     ~$70~22
-*   Dyson® V8 Animal Cord-Free Vacuum
-    
-    $569.99sale
-    
-    ~$669~186
-*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
-*   Ayesha Curry™ Home Collection 2-pc. 9.25" &. 11.5" Skillet Set
-    
-    $80
-    
-    10
 *   Circulon® Momentum 11-pc. Nonstick Cookware Set $179.99with code~$400~136
+*   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $89.99with code~$180~36
+*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
+*   Ayesha Curry™ Home Collection 12-pc. Cookware Set
+    
+    $159.99sale
+    
+    ~$240~23
 *   YVES SAINT LAURENT Libre Eau De Parfum
     
     $78 - $130
@@ -114,26 +115,21 @@ Sponsored Items
     
     $4.49
     
-*   Yves Saint Laurent Y Eau Fraiche
-    
-    $77 - $95
-    
-    138
-*   Anastasia Beverly Hills Brow Wiz
-    
-    $23
-    
-    15091
 *   Bissell® SpinWave® Hard Floor Spin Mop
     
     $129
     
     1027
-*   Fisher-Price Classic Xylophone
+*   Yves Saint Laurent Y Eau Fraiche
     
-    $15.99
+    $77 - $95
     
-    7
+    138
+*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
+    
+    $14.99
+    
+    10
 *   Fisher-Price Learn with Me Zebra Walker
     
     $24.99
@@ -143,11 +139,11 @@ Sponsored Items
     
     $19.99
     
-*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
+*   Fisher-Price Classic Xylophone
     
-    $14.99
+    $15.99
     
-    10
+    7
 *   Fisher-Price Linkimals Smooth Moves Sloth
     
     $29.99
