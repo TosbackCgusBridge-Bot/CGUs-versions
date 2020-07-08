@@ -368,7 +368,7 @@ To advance quality and equity in education by providing fair and valid assessmen
 *   Privacy and Security
 *   ETS Trademarks
 
-Copyright © 2020 by Educational Testing Service. All rights reserved.  
+Copyright © 2020 by ETS. All rights reserved.  
 All trademarks are the property of their respective owners.
 
 Provide Feedback about this pageFeedback Opens in a new window
