@@ -123,7 +123,7 @@ Read Our How-to Guide
 
 Now that you’ve had a couple days with Marvel’s Iron Man VR, what’s your go-to loadout? pic.twitter.com/6PhlvcXxA0
 
-1 day ago View Tweet
+2 days ago View Tweet
 
 *   Share on Facebook: https://www.instagram.com/p/CBqUDsKFKxy/
 *   Share on Twitter: https://www.instagram.com/p/CBqUDsKFKxy/
@@ -131,13 +131,15 @@ Now that you’ve had a couple days with Marvel’s Iron Man VR, what’s your g
 
 <img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-4:image:playstation:PSPride-July-06-2020:ps:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="https://www.instagram.com/p/CBqUDsKFKxy/ PS-Pride" data-img1x="/content/dam/sony/homepage/2020-june/6-29/Pride Logo.png" data-img2x="/content/dam/sony/homepage/2020-june/6-29/Pride Logo.png" src="/content/dam/sony/homepage/2020-june/6-29/Pride%20Logo.png" alt="https://www.instagram.com/p/CBqUDsKFKxy/"/>. <img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-4:image:playstation:PSPride-July-06-2020:ps:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="https://www.instagram.com/p/CBqUDsKFKxy/ PS-Pride" data-img1x="/content/dam/sony/homepage/2020-june/6-29/Pride Logo.png" data-img2x="/content/dam/sony/homepage/2020-june/6-29/Pride Logo.png" src="/content/dam/sony/homepage/2020-june/6-29/Pride%20Logo.png" alt="https://www.instagram.com/p/CBqUDsKFKxy/ Mobile"/>.
 
-Listen Now
+Introducing Our New
 
-*   Share on Facebook: Listen Now
-*   Share on Twitter: Listen Now
-*   Copy URL to Share: Listen Now
+Ultra Wide Lens
 
-<img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-5:image:music:BlackMusicMonthPlaylist-July-06-2020:sme:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Listen Now Black-Music-Month-Playlist" data-img1x="/content/dam/sony/homepage/2020-june/6-22/BMM2020-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-june/6-22/BMM2020-600x600.jpg" src="/content/dam/sony/homepage/2020-june/6-22/BMM2020-600x600.jpg" alt="Listen Now "/>. <img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-5:image:music:BlackMusicMonthPlaylist-July-06-2020:sme:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Listen Now Black-Music-Month-Playlist" data-img1x="/content/dam/sony/homepage/2020-june/6-22/BMM2020-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-june/6-22/BMM2020-600x600.jpg" src="/content/dam/sony/homepage/2020-june/6-22/BMM2020-600x600.jpg" alt="Listen Now Mobile"/>.
+*   Share on Facebook: Introducing Our New
+*   Share on Twitter: Introducing Our New
+*   Copy URL to Share: Introducing Our New
+
+<img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-5:image:electronics:UltraWideLens-July-06-2020:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Introducing Our New Ultra-Wide-Lens" data-img1x="/content/dam/sony/homepage/2020-july/7-6/sel1224gm-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-july/7-6/sel1224gm-600x600.jpg" src="/content/dam/sony/homepage/2020-july/7-6/sel1224gm-600x600.jpg" alt="Introducing Our New"/>. <img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-5:image:electronics:UltraWideLens-July-06-2020:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Introducing Our New Ultra-Wide-Lens" data-img1x="/content/dam/sony/homepage/2020-july/7-6/sel1224gm-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-july/7-6/sel1224gm-600x600.jpg" src="/content/dam/sony/homepage/2020-july/7-6/sel1224gm-600x600.jpg" alt="Introducing Our New Mobile"/>.
 
 Don’t Miss a Preview of the First Rom-Com of the Summer
 
