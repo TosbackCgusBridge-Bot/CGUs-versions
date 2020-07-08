@@ -40,6 +40,7 @@ Close submenu ( Collections ) Collections
 *   View All
 *   New Arrivals
 *   Face Coverings
+*   Uniform
 *   Twisted for Tie Dye
 *   Get Cozy
 *   Best Sellers
@@ -71,6 +72,7 @@ Close submenu ( Collections ) Collections
 *   View All
 *   New Arrivals
 *   Face Coverings
+*   Uniform
 *   Twisted for Tie Dye
 *   Get Cozy
 *   Best Sellers
@@ -228,6 +230,7 @@ Menu Find a Store Aeropostale
         *   View All
         *   New Arrivals
         *   Face Coverings
+        *   Uniform
         *   Twisted for Tie Dye
         *   Get Cozy
         *   Best Sellers
@@ -255,6 +258,7 @@ Menu Find a Store Aeropostale
         *   View All
         *   New Arrivals
         *   Face Coverings
+        *   Uniform
         *   Twisted for Tie Dye
         *   Get Cozy
         *   Best Sellers
