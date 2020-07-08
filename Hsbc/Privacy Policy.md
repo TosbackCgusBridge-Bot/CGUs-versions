@@ -195,7 +195,24 @@ Menu
     *   Careers FAQs
     *   Careers events
     *   Careers contactsLIFE AT HSBC Find out what makes us different Close Navigation
-*   Insight
+*   Insight Skip to Online banking Insight
+    
+    Read the latest views from HSBC experts and analysis from our economists.
+    
+    Go to this section
+    *   Main menu
+    *   Insight
+    *   All topics
+    *   Asia (opens in new window)
+    *   Digital and innovation (opens in new window)
+    *   Economic insight (opens in new window)
+    *   Enterprise (opens in new window)
+    *   Future of work (opens in new window)
+    *   Green finance (opens in new window)
+    *   Making banking safer (opens in new window)
+    *   Personal finance (opens in new window)
+    *   Sustainability (opens in new window)
+    *   Trade and investment (opens in new window)Digital and innovation Perspectives on the future of banking Close Navigation
 *   Online banking
 *   Contact
 
@@ -513,3 +530,5 @@ If you’d like to accept all optional cookies, select ‘Accept all cookies’.
 To learn more about how we use cookies, visit our Cookie notice.
 
 Accept all cookiesManage cookie settings
+
+Notification appeared: Cookies on this website
