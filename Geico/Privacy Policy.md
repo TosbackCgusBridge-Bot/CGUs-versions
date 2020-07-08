@@ -7,7 +7,7 @@ TABLE OF CONTENTS
 Summary  
 The Information We Collect
 
-*   Information We Obtain From You
+*   Information We Collect From You
 *   Information About Your Transactions
 *   Information From Third Parties
 *   Location Services
