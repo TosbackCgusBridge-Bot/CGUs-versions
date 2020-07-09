@@ -335,7 +335,6 @@ Support
 *   Community Guidelines
 *   Posting Instructions
 
-*   Patch Network
 *   Terms of Use
 *   Privacy Policy
 
