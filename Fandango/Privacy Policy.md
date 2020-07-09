@@ -24,8 +24,8 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     *   A Quiet Place Part II (2020)
     *   Monster Hunter (2020)
     *   The King's Man
-    *   Candyman (2020)
     *   Wonder Woman 1984
+    *   Candyman (2020)
     *   See All Coming Soon
     
     Explore More
@@ -89,7 +89,7 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
 
 Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Promo Code Policy Gift Card Terms Cookies and Tracking FandangoNOW and Vudu Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseTicket PolicyPromo Code PolicyGift Card TermsCookies and TrackingFandangoNOW and Vudu PolicyVIP+ Program Terms en Español | en Français | auf Deutsch
 
-**Last updated: July 1, 2020**
+**Last updated: July 8, 2020**
 
 This Privacy Policy explains how Fandango Media, LLC and its subsidiary companies, including the businesses operating under the Fandango, FandangoNOW, Vudu, Rotten Tomatoes, Flixster, Movieclips, Movies.com, Activaterewards.com, MovieTickets.com, or M-GO brands ("Fandango", "we", "our" or "us"), collect, use, and share information from or about you when you use our websites, downloadable applications, interactive TV applications, voice-activated skills, other digital services, connected devices, and off-line services that link to this policy, or if you generate ratings/reviews/public comments/content on our properties or engage in business with us (the “Services”). Note that this Privacy Policy does not apply to our movie ticketing business that operates in Latin America, as that business has a separate privacy policy.
 
@@ -97,7 +97,7 @@ This Privacy Policy explains how Fandango Media, LLC and its subsidiary companie
 
 When the Services receive or collect information, that information is being received and collected, and will be owned, by Fandango and each of "Fandango's Owners" (i.e., each company that has an ownership interest in Fandango). While Fandango's use, handling, disclosure and practices with respect to that information will be governed by this Privacy Policy, each Fandango’s Owners’ use, handling, disclosure and practices with respect to that information will be governed by that Fandango’s Owners’ privacy policy. Fandango's Owners are currently NBCUniversal and Warner Bros. If you want to learn more about the privacy practices of NBCUniversal and Warner Bros., we encourage you to review their policies (linked below):
 
-*   NBC/Universal Privacy Policy
+*   NBCUniversal Privacy Policy
 *   Warner Bros. Privacy Policy
 
 **Your Rights to Dispute**
@@ -121,7 +121,7 @@ PLEASE READ THIS PRIVACY POLICY CAREFULLY TO UNDERSTAND HOW WE HANDLE YOUR INFOR
 
 The tables below explain the categories of information we collect and the purposes for which we use them. Please note that we may use any or all of this information to comply with the law, detect or prevent fraud, and to defend our legal rights. Further detail about each of the purposes is set out in the “Additional information on purposes of use” table below.
 
-Categories of personal information we collect Purpose of use Information you provide to us:
+Categories of personal information we collect Purposes of use Information you provide to us:
 
 **Contact information and account registration**
 
@@ -207,7 +207,7 @@ For example: audio recordings of a customer service call or security video foota
 *   Personalize your experience
 *   Protect our users, Services and properties
 
-Categories of personal information we collect Purpose of use Information we collect automatically from you and/or your device:
+Categories of personal information we collect Purposes of use Information we collect automatically from you and/or your device:
 
 **Device information and identifiers**
 
@@ -244,7 +244,7 @@ We will ask for your permission before using your precise location from GPS-base
 *   Protect our users, Services and properties
 *   Market and advertise for third parties
 
-Categories of personal information we collect Purpose of use Sources of information Information we collect from third parties:
+Categories of personal information we collect Purposes of use Sources of information Information we collect from third parties:
 
 **Information from public and commercial sources**
 
@@ -282,7 +282,7 @@ For example: if you interact with us through a social media service or log in us
 *   Partners (such as for sweepstakes partners)
 *   Consumer data resellers
 
-Categories of personal information we collect Purpose of use Sources of information Additional information that we collect for business relationships only
+Categories of personal information we collect Purposes of use Sources of information Additional information that we collect for business relationships only
 
 **Business contact information**
 
@@ -419,14 +419,14 @@ We will respond within the time period prescribed by applicable law. Please note
 
 Some Services can be provided only if we have your information, therefore deletion of your information will result in termination of such Services.
 
-We will take reasonable steps to verify your identity, including authenticating you through the email address we have on file. We may require further documentation such as a password and user ID before granting access to your information. As you may be aware, we recently acquired Vudu from Walmart, and Walmart is still providing certain privacy related services for Vudu, including fulfilling California Consumer Privacy Act (“CCPA”) requests to the extent required by law. If you are a California resident, click here for the Walmart Privacy Policy and refer to the “What Are Your California Privacy Rights?” section for additional information on your rights under the CCPA.
+We will take reasonable steps to verify your identity, including authenticating you through the email address we have on file. We may require further documentation such as a password and user ID before granting access to your information. As you may be aware, we recently acquired Vudu from Walmart, and Walmart is still providing certain privacy related services for Vudu, including fulfilling California Consumer Privacy Act (“CCPA”) requests to the extent required by law.
 
 You may submit the following types of requests as follows:
 
 *   Request Categories of Information: If you, or someone acting on your behalf, would like to request that we tell you the categories of personal information we collect, the categories of sources from which personal information is collected, the business or commercial purpose for collecting or selling the personal information, the categories of third parties with which the business shares personal information, the categories of information about you that we sell, the categories of third parties to whom the personal information was sold, or the categories of personal information that were disclosed for a business purpose, you or someone acting on your behalf can either click here for such request, or send an email to accessdata@fandango.com.
-    *   As you may be aware, we recently acquired Vudu from Walmart, and Walmart is still providing certain privacy related services for Vudu, including fulfilling CCPA requests to the extent required by law. If you are a California resident and you, or someone acting on your behalf, would like to request that Walmart tell you the categories of personal information Vudu collects, the categories of sources from which personal information is collected, the business or commercial purpose for collecting or selling the personal information, the categories of third parties with which Vudu shares personal information, the categories of information about you that Vudu sells, the categories of third parties to whom the personal information was sold, or the categories of personal information that were disclosed for a business purpose, you or someone acting on your behalf can either click here to send such request to Walmart or call Walmart at 888-555-8838.
+    *   As you may be aware, we recently acquired Vudu from Walmart, and Walmart is still providing certain privacy related services for Vudu, including fulfilling CCPA requests to the extent required by law. If you are a California resident and you, or someone acting on your behalf, would like to request that Vudu tell you the categories of personal information Vudu collects, the categories of sources from which personal information is collected, the business or commercial purpose for collecting or selling the personal information, the categories of third parties with which Vudu shares personal information, the categories of information about you that Vudu sells, the categories of third parties to whom the personal information was sold, or the categories of personal information that were disclosed for a business purpose, you or someone acting on your behalf can either click here or call 888-555-8838 and Walmart will process your request on Vudu’s behalf.
 *   Request Specific Information: If you, or someone acting on your behalf, would like to request that we tell you about some of the specific personal information that we hold about you, you or someone acting on your behalf can either click here for such request, or send an email to accessdata@fandango.com.
-    *   As you may be aware, we recently acquired Vudu from Walmart, and Walmart is still providing certain privacy related services for Vudu, including fulfilling CCPA requests to the extent required by law. If you are a California resident and you, or someone acting on your behalf, would like to request that Vudu tell you about some of the specific personal information that Vudu holds about you, you or someone acting on your behalf can either click here to send such request to Walmart or call Walmart at 888-555-8838.
+    *   As you may be aware, we recently acquired Vudu from Walmart, and Walmart is still providing certain privacy related services for Vudu, including fulfilling CCPA requests to the extent required by law. If you are a California resident and you, or someone acting on your behalf, would like to request that Vudu tell you about some of the specific personal information that Vudu holds about you, you or someone acting on your behalf can either click here or call 888-555-8838 and Walmart will process your request on Vudu’s behalf.
 *   Request Deletion: If you, or someone acting on your behalf, would like to request that we delete information that we hold about you, you or someone acting on your behalf can either click here for such request, or send an email to deletedata@fandango.com. Note that certain information about you will not be deleted if you request such a deletion, as may be permitted by law. Also note that we will not be able to provide you with certain Services upon a deletion. You will also need to clear your cookies and re-set your MAIDs, as referenced in the link.
     *   As you may be aware, we recently acquired Vudu from Walmart, and Walmart is still providing certain privacy related services for Vudu, including fulfilling CCPA requests to the extent required by law. If you are a California resident and you, or someone acting on your behalf, would like to request that Vudu deletes information that Vudu holds about you, you or someone acting on your behalf can either click here to send such request to Walmart or call Walmart at 888-555-8838.
 *   Do Not Sell My Personal Information: If you, or someone acting on your behalf, would like to request that we do not sell your personal information, you or someone acting on your behalf can either click here for such request, or send an email to donotsell@fandango.com. You will also need to clear your cookies and re-set your MAIDs, as referenced in the link. For more information about how to opt-out of receiving targeted advertising from certain third party advertisers, please see our Cookies Notice.
@@ -458,7 +458,7 @@ Google Maps
 
 If you use Google Maps / Google Earth as part of the Services, you agree to comply with the Google Maps / Google Earth Additional Terms of Service (including the Google Privacy Policy). Further, you agree that Google, and not Fandango, shall be responsible for any of your information Google receives as a result of your use of Google Maps / Google Earth.
 
-7\. HOW WE PROTECT INFORMATION
+7\. HOW WE PROTECT YOUR INFORMATION
 
 We maintain organizational, technical, and physical safeguards to help protect the information we collect and use. These safeguards vary depending upon a variety of factors including the sensitivity of the information we collect and use. Despite all reasonable practices, no security method is infallible.
 
