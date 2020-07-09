@@ -252,23 +252,23 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
-    *   Cybercriminals likely poised to attack as Adobe ends support for Magento 1
-    *   Home routers largely unpatched, raising risk during Covid-19 WFH
-    *   Report accuses China of extensive mobile spyware use to track ethnic minority group
-    *   Ex-CIA exec: Covid-19 has created ideal 'crisis' conditions for malicious hackers
-    *   Tax software used by Chinese bank clients installs GoldenSpy backdoor
+    *   USB a prevalent industrial vector vulnerability for OT systems
+    *   Triage plan can fend off insider threats, Latson says
+    *   IT Security Questions to Ask for the Great Return to the Workplace
+    *   UCSF paid $1.4 million ransom in NetWalker attack
+    *   Xerox apparent victim of Maze attack
     
-    *   Malicious doc campaign unleashes Cobalt Strike on gov't, military orgs in South Asia
-    *   OSX.EvilQuest ransomware targets Macs. Ransom X blamed for TxDOT attack
-    *   Ransomware gang claims attack on LG Electronics
     *   'GoldenSpy' tax software campaign tries to erase evidence of malware
-    *   MongoDB hacker threatens to report breach to GDPR
-    
-    *   Mounting IIoT cyber risks must be addressed now to prevent catastrophe: report
-    *   Hidden Cobra built global exfiltration network for Magecart skimming scheme
+    *   First Look: Secure Data's SecureDrive BT
+    *   Today’s Interdependent Workplace Requires the Zero Trust Model
+    *   IT Security Questions to Ask for the Great Return to the Workplace
     *   Frequency, size of fines for failing to secure data will grow by 2025, report
-    *   Home routers largely unpatched, raising risk during Covid-19 WFH
-    *   EARN IT passes Senate Judiciary, stokes concerns over erosion of end-to-end encryption
+    
+    *   USB a prevalent industrial vector vulnerability for OT systems
+    *   BEC scams grow in complexity as Russian actors launch Cosmic Lynx operation
+    *   Cyber Command urges orgs to implement F5 patch for BIG-IP configuration interface flaw
+    *   Exposed dating service databases leak sensitive info on romance-seekers
+    *   EDP Renewables says PII compromised in Ragnar Locker attack
 
 Back to Top
 
@@ -301,4 +301,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+
+You can skip this ad in 1 seconds.
