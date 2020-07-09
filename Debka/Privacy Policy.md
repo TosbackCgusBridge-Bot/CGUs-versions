@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Tuesday, July 7, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Thursday, July 9, 2020  
 
 DEBKAfile
 
@@ -44,86 +44,86 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   Evidence that tiny covid-19 droplets stay suspended in the air
+    
+    Jul 08, 2020 @ 09:37
+    
+*   FBI Director: China is greatest threat to the US
+    
+    Jul 08, 2020 @ 09:31
+    
+*   Another 1,052 active coronavirus cases raise total to 16,653
+    
+    Jul 08, 2020 @ 08:34
+    
+*   Key health official Prof. Sadetzky quits in protest of covid-19 policy
+    
+    Jul 07, 2020 @ 13:54
+    
+*   Another explosion in Iran at a factory in Tehran kills two - report
+    
+    Jul 07, 2020 @ 09:45
+    
 *   Israel behind blast at Iran’s Natanz enrichment center – report
     
     Jul 06, 2020 @ 10:13
-    
-*   Hamas’ underground facilities bombed in reprisal for rocket fire
-    
-    Jul 06, 2020 @ 07:45
-    
-*   Iran admits that the fire at Natanz caused significant damage
-    
-    Jul 05, 2020 @ 21:34
-    
-*   Mossad chief’s tenure extended to June 2021
-    
-    Jul 05, 2020 @ 21:21
-    
-*   Three Palestinian rockets fired from Gaza. No damage
-    
-    Jul 05, 2020 @ 19:32
-    
-*   Cabinet meets again Monday to tighten covid-19 restrictions
-    
-    Jul 05, 2020 @ 16:24
     
 
-*   Iran admits that the fire at Natanz caused significant damage
+*   Another 1,052 active coronavirus cases raise total to 16,653
     
-    Jul 05, 2020 @ 21:34
+    Jul 08, 2020 @ 08:34
     
-*   Mossad chief’s tenure extended to June 2021
+*   Key health official Prof. Sadetzky quits in protest of covid-19 policy
     
-    Jul 05, 2020 @ 21:21
+    Jul 07, 2020 @ 13:54
     
-*   Three Palestinian rockets fired from Gaza. No damage
+*   Another explosion in Iran at a factory in Tehran kills two - report
     
-    Jul 05, 2020 @ 19:32
-    
-*   Cabinet meets again Monday to tighten covid-19 restrictions
-    
-    Jul 05, 2020 @ 16:24
+    Jul 07, 2020 @ 09:45
     
 *   Israel behind blast at Iran’s Natanz enrichment center – report
     
     Jul 06, 2020 @ 10:13
     
-*   Hamas’ underground facilities bombed in reprisal for rocket fire
+*   Evidence that tiny covid-19 droplets stay suspended in the air
     
-    Jul 06, 2020 @ 07:45
+    Jul 08, 2020 @ 09:37
     
-*   Iran admits that the fire at Natanz caused significant damage
+*   FBI Director: China is greatest threat to the US
     
-    Jul 05, 2020 @ 21:34
+    Jul 08, 2020 @ 09:31
     
-*   Mossad chief’s tenure extended to June 2021
+*   Another 1,052 active coronavirus cases raise total to 16,653
     
-    Jul 05, 2020 @ 21:21
+    Jul 08, 2020 @ 08:34
     
-*   Three Palestinian rockets fired from Gaza. No damage
+*   Key health official Prof. Sadetzky quits in protest of covid-19 policy
     
-    Jul 05, 2020 @ 19:32
+    Jul 07, 2020 @ 13:54
     
-*   Cabinet meets again Monday to tighten covid-19 restrictions
+*   Another explosion in Iran at a factory in Tehran kills two - report
     
-    Jul 05, 2020 @ 16:24
+    Jul 07, 2020 @ 09:45
     
 *   Israel behind blast at Iran’s Natanz enrichment center – report
     
     Jul 06, 2020 @ 10:13
     
-*   Hamas’ underground facilities bombed in reprisal for rocket fire
+*   Evidence that tiny covid-19 droplets stay suspended in the air
     
-    Jul 06, 2020 @ 07:45
+    Jul 08, 2020 @ 09:37
     
-*   Iran admits that the fire at Natanz caused significant damage
+*   FBI Director: China is greatest threat to the US
     
-    Jul 05, 2020 @ 21:34
+    Jul 08, 2020 @ 09:31
     
-*   Mossad chief’s tenure extended to June 2021
+*   Another 1,052 active coronavirus cases raise total to 16,653
     
-    Jul 05, 2020 @ 21:21
+    Jul 08, 2020 @ 08:34
+    
+*   Key health official Prof. Sadetzky quits in protest of covid-19 policy
+    
+    Jul 07, 2020 @ 13:54
     
 
 12PrevNext
