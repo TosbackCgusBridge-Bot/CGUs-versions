@@ -1,14 +1,14 @@
-Our stores are now open  +Try curbside pickup today! DetailsEXTRA 30% OFF w/ JCP Credit Card &. EXTRA3 Details  
+Our stores are now open  +Try curbside pickup today! DetailsLast day! EXTRA 30% OFF w/ JCP Credit Card &. EXTRA3 Details  
 EXTRA 25% OFF $75 or more with code: EXTRA3 Details  
 EXTRA 20% OFF under $75 with code: EXTRA3 Details  
-Free Shipping Over $49  DetailsOur stores are now open  +Try curbside pickup today! DetailsEXTRA 30% OFF w/ JCP Credit Card &. EXTRA3 Details  
+Free Shipping Over $49  DetailsOur stores are now open  +Try curbside pickup today! DetailsLast day! EXTRA 30% OFF w/ JCP Credit Card &. EXTRA3 Details  
 
 Enable Accessibility
 
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   Deals &. Trending
 *   Home &. Lifestyle
@@ -51,104 +51,87 @@ Furniture &. Mattress SALEUP TO 60% OFF+EXTRA 10% OFF WITH couponEnds 7/15 | sel
 Shop Jewelry WomenMenKids NikeadidasChampion  Learn More  Shop Now Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 43 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
-    
-    $25sale
-    
-    ~$124.98~191
-*   DOLCE &. GABBANA Light Blue Mini Duo Set
-    
-    $20
-    
-    38
-*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
-    
-    $25sale
-    
-    ~$124.98~134
-*   Linden Street Vintage Wash Cotton Sheet Set $15.99 - $55.99with code~$40 - $120~34
-*   Sealy Essentials™ Ivory Treasure - Mattress Only $149 - $298.99with code~$430 - $920~35
-*   Liz Claiborne Womens Hapur Wedge Sandals $23.99with code~$65~2
+*   Home Expressions Microfiber Plus Ultra Soft Easy Care Wrinkle Resistant Sheet Set $10.39 - $23.99with code~$26 - $60~1696
+*   St. John's Bay-Womens V Neck Short Sleeve T-Shirt $5.59with code~$14~24
+*   Liz Claiborne Womens Soft Short $11.84 - $14.80with code~$37~
+*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $23.99 - $43.19with code~$50 - $90~220
+*   The Foundry Big &. Tall Supply Co. Big and Tall Mens Crew Neck Short Sleeve T-Shirt $9.59with code~$20~237
+*   Home Expressions Solid or Stripe Bath Towel Collection $4.80 - $19.15with code538
 
 Sponsored Items
 
-*   Yves Saint Laurent Mon Paris Eau de Parfum
-    
-    $74 - $124
-    
-    653
-*   Anastasia Beverly Hills Brow Powder Duo
-    
-    $23
-    
-    4903
-*   Fisher-Price Laugh &. Learn Smart Stages Sis
-    
-    $15.99sale
-    
-    ~$19.99~49
-*   Dyson® V8 Animal Cord-Free Vacuum
-    
-    $569.99sale
-    
-    ~$669~186
-*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $15.99with code~$30~
-*   Rachael Ray Create Delicious 10.25-Inch Deep Skillet
-    
-    $39.99sale
-    
-    ~$70~22
-*   Circulon® Momentum 11-pc. Nonstick Cookware Set $179.99with code~$400~136
-*   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $89.99with code~$180~36
-*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
-*   Ayesha Curry™ Home Collection 12-pc. Cookware Set
-    
-    $159.99sale
-    
-    ~$240~23
-*   YVES SAINT LAURENT Libre Eau De Parfum
-    
-    $78 - $130
-    
-    397
-*   Fisher-Price Rock-A-Stack Clacker
-    
-    $4.49
-    
-*   Bissell® SpinWave® Hard Floor Spin Mop
-    
-    $129
-    
-    1027
-*   Yves Saint Laurent Y Eau Fraiche
-    
-    $77 - $95
-    
-    138
-*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
-    
-    $14.99
-    
-    10
 *   Fisher-Price Learn with Me Zebra Walker
     
     $24.99
     
     40
+*   Yves Saint Laurent Mon Paris Eau de Parfum
+    
+    $74 - $124
+    
+    653
+*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $15.99with code~$30~
+*   Circulon® Momentum 11-pc. Nonstick Cookware Set $179.99with code~$400~136
+*   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $89.99with code~$180~36
+*   Dyson® V8 Animal Cord-Free Vacuum
+    
+    $569.99sale
+    
+    ~$669~186
+*   Rachael Ray Create Delicious 10.25-Inch Deep Skillet
+    
+    $39.99sale
+    
+    ~$70~22
+*   Bissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum
+    
+    $334.99sale
+    
+    ~$360~2559
+*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
+*   Ayesha Curry™ Home Collection 2-pc. 9.25" &. 11.5" Skillet Set
+    
+    $44.99 - $80
+    
+    10
+*   YVES SAINT LAURENT Libre Eau De Parfum
+    
+    $78 - $130
+    
+    398
+*   Yves Saint Laurent Black Opium
+    
+    $74 - $124
+    
+    5506
 *   Fisher-Price Laugh &. Learn Smart Stages Puppy
     
     $19.99
     
-*   Fisher-Price Classic Xylophone
-    
-    $15.99
-    
-    7
+    62
 *   Fisher-Price Linkimals Smooth Moves Sloth
     
     $29.99
     
     36
+*   Fisher-Price Laugh &. Learn Smart Stages Sis
+    
+    $15.99sale
+    
+    ~$19.99~50
+*   Fisher-Price Linkimals A To Z Otter
+    
+    $19.99
+    
+    23
+*   Farberware® Classic Series 15-pc. Stainless Steel Cookware Set $187.50with code71
+*   Farberware Cookstart 15-pc. Cookware Set $67.49with code~$120~62
+*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
+    
+    $14.99
+    
+    10
+*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $89.99with code~$180~55
 
 Shop and Save at JCPenney
 
