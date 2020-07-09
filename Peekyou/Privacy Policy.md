@@ -58,7 +58,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT.
 
-What is PeekScore? Public Records &. Background Checks 2% 
+What is PeekScore? Public Records &. Background Checks 5% 
 
 Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -88,7 +88,7 @@ Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-6%  2% 
+10%  5% 
 
 Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -118,7 +118,7 @@ Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-6%  Arrest Records &. Driving Infractions
+10%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -159,7 +159,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 1% 
+Facebook 4% 
 
 *   Prıvacy PoIicy (emha wollen paradies) - Pr&.
     
@@ -213,7 +213,7 @@ Facebook 1% 
     
 *   Show Less ...
 
-Twitter 1% 
+Twitter 4% 
 
 *   CDC - CDCgov
     
@@ -259,7 +259,7 @@ Twitter 1% 
     
 *   Show Less ...
 
-Instagram 5%  Myspace 1% 
+Instagram 10%  Myspace 4% 
 
 *   Privacy Policy - 49086242
     
@@ -283,7 +283,7 @@ Instagram 5%  Myspace 1% 
     
 *   Show Less ...
 
-Social Profiles 5%  Pinterest 1% 
+Social Profiles 10%  Pinterest 4% 
 
 *   Privacy Policy - privacypolicyvino
     
@@ -292,7 +292,7 @@ Social Profiles 5%  Pinterest 1% 
 *   Learn about instant apps Google Play Instant Apps are Play Store apps you can open before requiring - girlfriendnomore1
     
 
-Wikipedia 1% 
+Wikipedia 4% 
 
 *   Privacy policy
     
@@ -324,7 +324,7 @@ Wikipedia 1% 
     
 *   Show Less ...
 
-Music 5%  Photo Albums 1% 
+Music 10%  Photo Albums 4% 
 
 *   Help
     
@@ -372,13 +372,13 @@ Music 5%  Photo Albums 1% 
     
 *   Show Less ...
 
-Web Search 5%  Images 1% 
+Web Search 10%  Images 4% 
 
 16
 
 20
 
-8
+6
 
 3
 
