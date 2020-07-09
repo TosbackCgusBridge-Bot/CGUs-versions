@@ -610,6 +610,17 @@ New Elevated fabric.
 
 Guys Shorts
 
+AERO UNIFORM  
+15% Off  
+\+ Free Shipping
+
+When you buy 5 or more  
+Uniform approved styles
+
+**No Code Needed!**
+
+Shop Girls Uniform Shop Guys Uniform
+
 **Tees &. Tanks**
 
 **Tees &  
