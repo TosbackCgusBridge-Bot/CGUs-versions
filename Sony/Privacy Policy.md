@@ -2,7 +2,7 @@ Skip to Main Content Close<img src="//www.sony.com/assets/images/close-btn-x.png
 
 Sony Sites
 
-<img src="//www.sony.com/image/9a512bd93333b3c884bdbe2ba1581755?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Group Site<img src="//www.sony.com/image/9762859c83b5616a7c75b2714c2e7d76?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">SONY DESIGN<img src="//www.sony.com/image/5b83005cbb02abbc2878e29b23a3c362?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">PlayStation™<img src="//www.sony.com/image/65c210a5a7b4a59a9963df8a4e0835da?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Professional<img src="//www.sony.com/image/bf805a8b340105d03fcff55e3d22fb18?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Mobile
+<img src="//www.sony.com/image/9a512bd93333b3c884bdbe2ba1581755?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Group Site<img src="//www.sony.com/image/9762859c83b5616a7c75b2714c2e7d76?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">SONY DESIGN<img src="//www.sony.com/image/5b83005cbb02abbc2878e29b23a3c362?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">PlayStation™<img src="//www.sony.com/image/65c210a5a7b4a59a9963df8a4e0835da?fmt=jpeg&amp;wid=370" alt="" class="u-nav-primary-img">Sony Professional
 
 *   Sony and the EnvironmentHow we’re reducing our eco-footprint through energy efficiency and recycling initiatives.
 *   Sony PicturesThe hub for your favourite movies and TV shows.
@@ -73,7 +73,7 @@ Main menuSONY
     *   Digital Paper
     *   Wearable Speaker
     *   Engagement App Development
-    *   Robotics KitsView AllAll ElectronicsSee Professional Products<img src="//www.sony.com/image/73af50e8d496b98be27c316fba0cb511?fmt=jpeg&amp;wid=218" alt="" class="iq-img">Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up<img src="//www.sony.com/image/7c02f7a959732e31b9d2127dadf58ee2?fmt=jpeg&amp;wid=218" alt="" class="iq-img">A smarter home for a smarter lifeSony’s suite of voice assistant enabled and compatible products works together seamlessly to make life easier 
+    *   Robotics KitsView AllAll ElectronicsSee Professional Products<img src="//www.sony.com/image/73af50e8d496b98be27c316fba0cb511?fmt=jpeg&amp;wid=218" alt="" class="iq-img">Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up<img src="//www.sony.com/image/f240cc29ed9c788d9bf45ace019b9739?fmt=png-alpha&amp;wid=218" alt="" class="iq-img">Bring instant shopping into the pictureIf approved, a temporary shopping pass that could be up to $1500 in available credit may be issued and sent to your smartphone, allowing you to shop online right away. Learn more
 *   PlayStation
 *   EntertainmentEntertainment
     *   <img src="//www.sony.com/image/c8d568c456f06d3fa734b3331f100352?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Video Games
@@ -123,7 +123,7 @@ Read Our How-to Guide
 
 Now that you’ve had a couple days with Marvel’s Iron Man VR, what’s your go-to loadout? pic.twitter.com/6PhlvcXxA0
 
-2 days ago View Tweet
+3 days ago View Tweet
 
 *   Share on Facebook: https://www.instagram.com/p/CBqUDsKFKxy/
 *   Share on Twitter: https://www.instagram.com/p/CBqUDsKFKxy/
