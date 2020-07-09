@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Design and Web team summary – 8th July 2020
+*   The State of Robotics – June 2020
 *   Canonical Developer Advocate Named Microsoft MVP
-*   Feeling at home in a LXD container
-*   A snap confined shell based on Mir: Mircade
