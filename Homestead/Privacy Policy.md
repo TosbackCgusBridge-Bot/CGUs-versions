@@ -312,6 +312,8 @@ You may click on the seal to check Constant Contact’s privacy verification sta
 
 You may click on the seal to check Bluehost, Fast Domain, Host Monster and Just Host’s privacy verification status.
 
+You may click on the seal to check Ecomdash’s privacy verification status.
+
 Notification of Changes
 
 We reserve the right to modify this privacy notice at any time, so please review it frequently. If we decide to change this privacy notice in any material way, we will notify you here, by email, or by means of a notice on www.endurance.com or the website of the Endurance product or service you use prior to the change becoming effective. In all cases, your continued use of any Services constitutes acceptance to any such changes.
