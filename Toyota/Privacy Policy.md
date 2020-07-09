@@ -296,7 +296,15 @@ Discontinued Vehicles
 
 Compare Toyota vs. the Competition
 
+*   2020 Toyota RAV4 vs. Honda CR-V  
+    
+*   2020 Toyota RAV4 vs. Nissan Rogue  
+    
+*   2020 Toyota RAV4 vs. Subaru Forester  
+    
 *   2020 Toyota Tacoma vs. Ford Ranger  
+    
+*   2020 Toyota Tacoma vs. GMC Canyon  
     
 *   2020 Toyota Corolla vs. Nissan Sentra  
     
@@ -317,6 +325,8 @@ Compare Toyota vs. the Competition
 *   2020 Toyota Camry vs. Nissan Altima  
     
 *   2020 Toyota C-HR vs. Honda HR-V  
+    
+*   2020 Toyota Highlander vs. Honda Pilot  
     
 *   2020 Toyota Highlander vs. Subaru Ascent  
     
