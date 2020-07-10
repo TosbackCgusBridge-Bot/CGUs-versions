@@ -1,4 +1,4 @@
-Skip to main content
+Sign up for our free WebMD Daily Newsletter Get doctor-approved health tips, news, and more. Subscribe By clicking "Subscribe," I agree to the WebMD Terms and Conditions and Privacy Policy. I also agree to receive emails from WebMD and I understand that I may opt out of WebMD subscriptions at any time. close Skip to main content
 
 *   Check Your Symptoms
 *   Find A Doctor
@@ -246,6 +246,8 @@ We and our partners use cookies to collect information about your use of the Ser
 
 Our advertising service partners may use cookies and other tracking technologies to collect information about your use of the WebMD Sites, including content you have viewed. These third parties may use this information to help WebMD deliver advertising on the WebMD Sites and on other third party websites based on your browsing activity on the WebMD Sites. WebMD may further tailor the advertising on the WebMD Sites and these other third party websites based on additional information to the extent known by WebMD or these third parties. Two of the third parties that WebMD works with are Google and Facebook. In addition to using the information it collects performing services for WebMD, Google may also use such information as described in its privacy policy. To see how Google may use information collected through our use of the Google services on the WebMD Sites visit https://www.google.com/policies/privacy/partners.  While Facebook does not provide any personal information to WebMD, Facebook may use information that it has about you and that it collects performing services for WebMD (which may be associated with personal information that Facebook has about you) as described in its privacy policy available at https://www.facebook.com/about/privacy.
 
+To provide you with certain personalization and advertising services described herein, when you use our WebMD Sites, we may share information that we may collect from you, such as your email address (in hashed form), IP address or information about your browser or operating system, with our service provider, LiveRamp Inc. and its affiliates, which may in turn link demographic or interest-based information to your browser. To opt out of this use, visit https://liveramp.com/opt\_out/.
+
 We also work with third party ad networks to display advertising on our WebMD Sites and on third party websites. Our ad network vendors use technologies to collect information about your activities on the WebMD Sites and in our flagship WebMD App to provide you cookie-based targeted advertising on our WebMD Sites and on third party websites based upon your browsing activity and your interests.
 
 For more information about our how cookies and other tracking technologies are used in connection with the Services, please read our Cookie Policy.
@@ -393,7 +395,7 @@ To view our certification status click here.
 
 WebMD.com, MedicineNet.com, eMedicineHealth.com, and RxList.com comply with the HONcode standard for trustworthy health information, which can be verified here.
 
-Last updated on May 01, 2020 © 2020 WebMD, LLC. All rights reserved. Today on WebMD Risky Mistakes Pet Owners Make
+Last updated on July 09, 2020 © 2020 WebMD, LLC. All rights reserved. Today on WebMD Risky Mistakes Pet Owners Make
 
 Some of these might surprise you.
 
