@@ -125,7 +125,7 @@ PeopleSmart is very sensitive to the issue of children's privacy. The Site, as w
 
 Contacting the Site
 
-If you have any questions about this Privacy Policy, the data practices of the Site, or your dealings with the Site, please feel free to contact us at 1-877-339-7750, at privacy@peoplesmart.com, or at:
+If you have any questions about this Privacy Policy, the data practices of the Site, or your dealings with the Site, please feel free to contact us at 267-846-5087, at privacy@peoplesmart.com, or at:
 
 PeopleSmart  
 MSC -- 211005  
@@ -168,7 +168,7 @@ Right to Know. You may have the right to know and see the categories of data we 
 *   the categories of third parties with whom we have shared your personal information. and
 *   the specific items of Personal information we have collected or Public information we have obtained about you.
 
-To begin your Right-to-Know request, please email us at ccpa@beenverified.com or contact us via the phone number or postal address listed above. We will respond within 10 days of receipt with instructions for continuing your Right-to-know request, including any additional information needed concerning yourself so that we may search for applicable Personal information collected or Public information obtained that pertains to You. The information you provide must sufficiently match the information in our database to permit us to verify your request. An authorized agent may also make a request on your behalf.
+To begin your Right-to-Know request, please email us at ccpa@peoplesmart.com or contact us via the phone number or postal address listed above. We will respond within 10 days of receipt with instructions for continuing your Right-to-know request, including any additional information needed concerning yourself so that we may search for applicable Personal information collected or Public information obtained that pertains to You. The information you provide must sufficiently match the information in our database to permit us to verify your request. An authorized agent may also make a request on your behalf.
 
 We will endeavor to respond to a verifiable consumer request within forty-five days of receipt. If we require more time (up to 90 days), we will inform you of the reason and extension period in writing.
 
@@ -185,11 +185,11 @@ Right to Delete. You may have the right to request that we delete information we
 *   comply with a legal obligation. or
 *   make other internal and lawful uses of information compatible with the context in which you provided it.
 
-To begin your Right-to-Delete request, please email us at ccpa@beenverified.com or contact us via the phone number or postal address listed above.
+To begin your Right-to-Delete request, please email us at ccpa@peoplesmart.com or contact us via the phone number or postal address listed above.
 
 Right to ask us not to sell (also known as the right to opt-out).
 
-As explained above, we do not sell Personal information obtained from our site's visitors or subscribers, such as a name or email address provided when subscribing to our Site (unless such information happens to also be publicly available "Public" information that was NOT obtained from such visitors or subscribers but was instead obtained from publicly available data sources independent of anything visitors or subscribers may have provided us). As for the Public information obtained from publicly available data sources, for many years now, we have accommodated requests to opt-out/not to sell/share such information, which can be done in various locations on the Site. For your convenience, you may also email us at ccpa@beenverified.com or contact us via the phone number or postal address listed above to request that we not sell and opt-out your Public information. While we will not sell such Public information that has been opted-out, we reserve the right to disclose Public information to third parties, without notice to you, if required to do so by law, or if we have a good faith belief that disclosure is necessary to (i) act in an emergency to protect someone’s safety. (ii) comply with legal process served on us. or (iii) protect and defend our rights or property. We also reserve the right to transfer Public information to any successor-in-interest to our business.
+As explained above, we do not sell Personal information obtained from our site's visitors or subscribers, such as a name or email address provided when subscribing to our Site (unless such information happens to also be publicly available "Public" information that was NOT obtained from such visitors or subscribers but was instead obtained from publicly available data sources independent of anything visitors or subscribers may have provided us). As for the Public information obtained from publicly available data sources, for many years now, we have accommodated requests to opt-out/not to sell/share such information, which can be done in various locations on the Site. For your convenience, you may also email us at ccpa@peoplesmart.com or contact us via the phone number or postal address listed above to request that we not sell and opt-out your Public information. While we will not sell such Public information that has been opted-out, we reserve the right to disclose Public information to third parties, without notice to you, if required to do so by law, or if we have a good faith belief that disclosure is necessary to (i) act in an emergency to protect someone’s safety. (ii) comply with legal process served on us. or (iii) protect and defend our rights or property. We also reserve the right to transfer Public information to any successor-in-interest to our business.
 
 In summary:
 
