@@ -201,7 +201,7 @@ Close submenu ( Guys ) Guys
 *   Tops
 *   Bottoms
 
-**50-70% Off Everything**  **+ Free Shipping Over $50** Details
+**Buy 5+ Uniform Styles, Get 15% Off**  **+ Free Shipping Over $50** Details
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
