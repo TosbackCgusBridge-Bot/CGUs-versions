@@ -82,7 +82,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 547 9734 1 855 547 9734
+    1 855 927 8341 1 855 927 8341
     
 
 *   Solutions By Function
@@ -151,7 +151,7 @@ Search
 
 *   Become a Client
     
-    1 855 547 9734 1 855 547 9734
+    1 855 927 8341 1 855 927 8341
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
