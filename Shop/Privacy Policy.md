@@ -338,7 +338,7 @@ Lenovo Explore Close
         *   Business Applications
         *   Client Virtualization &. Infrastructure
         *   Cloud
-        *   Database
+        *   CoSPs
         
         *   ‏‏‎
         *   DevOps
@@ -348,7 +348,7 @@ Lenovo Explore Close
         *   Internet of Things (IoT)
         
         *   ‏‏‎
-        *   CoSPs
+        *   Lenovo Value Recovery
         *   OEM
         *   SAP
         *   View All Solutions
@@ -426,6 +426,7 @@ Lenovo Explore Close
         *   Implementation Services
         *   Support Services
         *   TruScale Infrastructure Services
+        *   View All Services
     *   Software
         
         *   Explore Software
