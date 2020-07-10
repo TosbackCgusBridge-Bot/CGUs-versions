@@ -1,4 +1,4 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MBKX72F" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Home Parents Membership Help Blog Island Tours Log in PRIVACY STATEMENT (12/31/2019)
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MBKX72F" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Home Parents Membership Help Blog Island Tours LOG IN PRIVACY STATEMENT (12/31/2019)
 
 StoryArc Media, Inc. ("SAM", "we", "us", "our") operates this website ("Website") and is committed to protecting the privacy and security of its online visitors. We are also extremely sensitive to family and educator concerns about children's safety and information related to them. This privacy statement tells you about the types of information that we collect from you, how we collect that information from you and how we use that information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
 
