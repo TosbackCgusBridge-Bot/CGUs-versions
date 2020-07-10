@@ -1,14 +1,15 @@
-Our stores are now open  +Try curbside pickup today! DetailsLast day! EXTRA 30% OFF w/ JCP Credit Card &. EXTRA3 Details  
-EXTRA 25% OFF $75 or more with code: EXTRA3 Details  
-EXTRA 20% OFF under $75 with code: EXTRA3 Details  
-Free Shipping Over $49  DetailsOur stores are now open  +Try curbside pickup today! DetailsLast day! EXTRA 30% OFF w/ JCP Credit Card &. EXTRA3 Details  
+Power Penney Days 100s of deals this weekend! Details  
+$20 OFF $75+ OR $10 OFF $50+ with code: 4MORE Details  
+EXTRA 25% OFF home &. jewelry with code: SHOP76 Details  
+Free Shipping Over $49  DetailsOur stores are now open  +Try curbside pickup today! DetailsPower Penney Days 100s of deals this weekend! Details  
+$20 OFF $75+ OR $10 OFF $50+ with code: 4MORE Details  
 
 Enable Accessibility
 
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   Deals &. Trending
 *   Home &. Lifestyle
@@ -22,20 +23,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-Men's ShirtsMen's ShortsWomen's TopsWomen's ShortsApparelHomeHandbagsSandalsUP TO 50% OFF Home SaleDestination? Relaxation. select styles
-
-*   Shop All
-
-*   Bedding
-    
-*   Sheets
-    
-*   Window
-    
-*   Bath Towels
-    
-
-Furniture &. Mattress SALEUP TO 60% OFF+EXTRA 10% OFF WITH couponEnds 7/15 | select stylesMattressesFurniture**EXTRA 30% OFF** Fine jewelry at the VIP Jewelry SaleGet Details
+Power Penney Deals For HerShop AllSt. John's Bay Teealso in petites' sizesselect stylesa.n.a. Teealso in petites' sizes select styles Juniors' Arizona Pocket Tank TopAmbriellePajama Separatesselect stylesLiz ClaiborneLinen-Cotton Tank Topa.n.a or St. John's BayShortsselect stylesWorthingtonShortsArizona orMixit Sandalsselect stylesPower Penney Deals For HimShop AllGuys' Arizona Teeselect stylesMen'sSt. John's Bay Poloselect stylesThe Foundry Big &. TallSupply Co. Teeselect stylesMen's Graphic Teeselect stylesMen's Xersion Shortsselect stylesMen's St. John's BayFlat-Front Shortsselect stylesMen's StaffordEasy Care Dress Shirtselect stylesMen's St. John's BaySwimwearselect stylesPower Penney Deals For KidsShop AllGirls' Arizona Teeselect stylesGirls' Arizona Leggingsselect stylesBoys' Graphic Teeselect stylesKids' XersionGraphic Teeselect stylesBoys' NoveltyGraphic Teeselect stylesKids' Xersion Shortsselect stylesCarter's Romperor Creeperselect stylesPower Penney Deals For HomeShop AllJCPenney Home30x54" Bath Towelselect stylesCooks 1.5-Qt.Slow CookerANY SIZEJCPenney HomeBayview Curtainselect stylesANY SIZERegal Home SterlingBlackout or Sheer Curtainselect stylesHome Expressions290TC Percaleor 144TC 100% CottonTwin Sheet Setselect stylesJCPenney Home FocusGrommet-Top Curtain**EXTRA 25% OFF** Fine jewelry at the VIP Jewelry SaleGet Details
 
 *   Shop Jewelry
 
@@ -48,90 +36,120 @@ Furniture &. Mattress SALEUP TO 60% OFF+EXTRA 10% OFF WITH couponEnds 7/15 | sel
 *   Fashion Silver
     
 
-Shop Jewelry WomenMenKids NikeadidasChampion  Learn More  Shop Now Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
-Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 43 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+Shop Jewelry WomenMenKids NikeadidasChampionUP TO 50% OFF Home SaleDestination? Relaxation. select styles
 
-*   Home Expressions Microfiber Plus Ultra Soft Easy Care Wrinkle Resistant Sheet Set $10.39 - $23.99with code~$26 - $60~1696
-*   St. John's Bay-Womens V Neck Short Sleeve T-Shirt $5.59with code~$14~24
-*   Liz Claiborne Womens Soft Short $11.84 - $14.80with code~$37~
-*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $23.99 - $43.19with code~$50 - $90~220
-*   The Foundry Big &. Tall Supply Co. Big and Tall Mens Crew Neck Short Sleeve T-Shirt $9.59with code~$20~237
-*   Home Expressions Solid or Stripe Bath Towel Collection $4.80 - $19.15with code538
+*   Shop All
+
+*   Bedding
+    
+*   Sheets
+    
+*   Window
+    
+*   Bath Towels
+    
+
+Furniture &. Mattress SALEUP TO 60% OFF+EXTRA 10% OFF WITH couponEnds 7/15 | select stylesMattressesFurniture  Learn More  Shop Now Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+
+*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
+    
+    $29.99sale
+    
+    ~$85~
+*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
+    
+    $20sale
+    
+    ~$124.98~191
+*   Liz Claiborne Womens Round Neck Short Sleeve Blouse
+    
+    $15sale
+    
+    ~$30~
+*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $22.49 - $40.49with code~$50 - $90~220
+*   DOLCE &. GABBANA Light Blue Mini Duo Set
+    
+    $20
+    
+    37
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+    
+    $20sale
+    
+    ~$124.98~134
 
 Sponsored Items
 
-*   Fisher-Price Learn with Me Zebra Walker
-    
-    $24.99
-    
-    40
-*   Yves Saint Laurent Mon Paris Eau de Parfum
-    
-    $74 - $124
-    
-    653
-*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $15.99with code~$30~
-*   Circulon® Momentum 11-pc. Nonstick Cookware Set $179.99with code~$400~136
-*   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $89.99with code~$180~36
+*   Farberware Cookstart 15-pc. Cookware Set $67.49with code~$120~62
+*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $14.99with code~$30~
 *   Dyson® V8 Animal Cord-Free Vacuum
     
     $569.99sale
     
     ~$669~186
-*   Rachael Ray Create Delicious 10.25-Inch Deep Skillet
-    
-    $39.99sale
-    
-    ~$70~22
-*   Bissell® CrossWave® All-in-One Multi-Surface Wet Dry Vacuum
-    
-    $334.99sale
-    
-    ~$360~2559
-*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
-*   Ayesha Curry™ Home Collection 2-pc. 9.25" &. 11.5" Skillet Set
-    
-    $44.99 - $80
-    
-    10
-*   YVES SAINT LAURENT Libre Eau De Parfum
-    
-    $78 - $130
-    
-    398
-*   Yves Saint Laurent Black Opium
+*   Yves Saint Laurent Mon Paris Eau de Parfum
     
     $74 - $124
     
-    5506
-*   Fisher-Price Laugh &. Learn Smart Stages Puppy
-    
-    $19.99
-    
-    62
-*   Fisher-Price Linkimals Smooth Moves Sloth
-    
-    $29.99
-    
-    36
+    655
 *   Fisher-Price Laugh &. Learn Smart Stages Sis
     
     $15.99sale
     
     ~$19.99~50
-*   Fisher-Price Linkimals A To Z Otter
+*   Rachael Ray Create Delicious 11-Pc. Cookware Set
     
-    $19.99
+    $179.99sale
     
-    23
-*   Farberware® Classic Series 15-pc. Stainless Steel Cookware Set $187.50with code71
-*   Farberware Cookstart 15-pc. Cookware Set $67.49with code~$120~62
+    ~$300~17
+*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
+*   Yves Saint Laurent Black Opium
+    
+    $74 - $124
+    
+    5506
+*   Circulon® Momentum 11-pc. Nonstick Cookware Set $179.99with code~$400~136
+*   Bissell® SpinWave® Hard Floor Spin Mop
+    
+    $129
+    
+    1030
+*   Fisher-Price Rock-A-Stack Clacker
+    
+    $4.49
+    
+*   YVES SAINT LAURENT Libre Eau De Parfum
+    
+    $78 - $130
+    
+    398
+*   Fisher-Price Learn with Me Zebra Walker
+    
+    $24.99
+    
+    40
 *   Fisher-Price Laugh &. Learn Click &. Learn Laptop
     
     $14.99
     
     10
 *   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $89.99with code~$180~55
+*   Fisher-Price Soothe and Go Giraffe
+    
+    $9.99
+    
+*   Fisher-Price Linkimals A To Z Otter
+    
+    $19.99
+    
+    23
+*   Fisher-Price Linkimals Smooth Moves Sloth
+    
+    $29.99
+    
+    36
+*   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $89.99with code~$180~36
 
 Shop and Save at JCPenney
 
