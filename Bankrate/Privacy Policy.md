@@ -251,10 +251,17 @@ Get insider access to our best financial tools and content
 
 Get started Main Menu BR Home equity Home equity overview
 
-*   Compare lenders
+*   Get the best rates
 *   Home equity loan rates
 *   Home equity line of credit rates
+*   Current interest rates
+
+*   Lender reviews
 *   Home equity lender reviews
+*   Figure review
+*   Third Federal Savings &. Loan review
+*   Discover review
+*   Spring EQ review
 
 *   Use calculators
 *   Home equity calculator
@@ -263,8 +270,9 @@ Get started Main Menu BR Home equity Home equity overview
 *   HELOC payoff calculator
 *   All home equity calculators
 
-*   Get advice
+*   Knowledge base
 *   What is a home equity loan?
+*   How to borrow from home equity
 *   HELOC vs. Home equity loan
 *   Consolidate your debt using home equity
 *   Home equity loans with bad credit
@@ -665,4 +673,4 @@ Bankrate US | UK
 
 © 2020 Bankrate, LLC. A Red Ventures company. All Rights Reserved.
 
-<iframe location="coinfo master" src="//www.googletagmanager.com/ns.html?id=GTM-N74D8C" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="//bat.bing.com/action/0?ti=4064189&amp;Ver=2" height="0" width="0" style="display:none. visibility: hidden;">. <img height="1" width="1" src="https://www.facebook.com/tr?id=2085058148404940&amp;ev=PageView &amp;noscript=1">. <img src="//trc.taboola.com/1014189/log/3/unip?en=page\_view" width="0" height="0" style="display:none">. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+<iframe location="coinfo master" src="//www.googletagmanager.com/ns.html?id=GTM-N74D8C" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img src="//bat.bing.com/action/0?ti=4064189&amp;Ver=2" height="0" width="0" style="display:none. visibility: hidden;">. <img height="1" width="1" src="https://www.facebook.com/tr?id=2085058148404940&amp;ev=PageView &amp;noscript=1">. <img src="//trc.taboola.com/1014189/log/3/unip?en=page\_view" width="0" height="0" style="display:none">.
