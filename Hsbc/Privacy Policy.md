@@ -19,7 +19,7 @@ Menu
         *   Overview
         *   Wealth and Personal Banking
         *   Commercial Banking
-        *   Global Banking and Markets
+        *   Global Banking &. Markets
     *   Leadership
     *   HSBC news
     *   Coronavirus
