@@ -9,10 +9,23 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Limited-Time Price Drops Up to 70% Off
+    *   Good American Up to 70% Off
+    *   Designer Sunglasses Under $90
+    *   Franco Sarto Up to 60% Off
+    *   Gold Jewelry ft. Ron Hami
+    *   Woven Tops Under $20 Incl. Plus &. Petites
+    *   Bottoms Under $35 Incl. Plus &. Petites
+    *   One-Piece Swimwear Up to 70% Off
+    *   ECCO Up to 65% Off
+    *   Dress Up: Men's Suiting
+    *   Play All Day: Toys Starting at $10
+    *   Dress Up: Kids' Styles Up to 60% Off
+    *   Men's Chinos &. More Up to 75% Off
+    *   Men's Slip-Ons Up to 70% Off
     *   Kate Spade New York Up to 75% Off
     *   Kate Spade New York Shoes Up to 60% Off
     *   Kate Spade New York Clothing Up to 70% Off
+    
     *   Kate Spade New York Home &. Bath
     *   Floral Dresses Under $35
     *   Summer Essentials: Tees &. Tanks Under $15
@@ -26,29 +39,15 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Men's Boots Up to 70% Off
     *   Madewell Starting at $20 Incl. Plus
     *   Slim Fit Jeans Up to 65% Off
-    
-    *   Ready for Summer: White Denim Up to 70% Off
-    *   Midi Dresses Under $50
-    *   Born
-    *   Trench Coats, Rain Jackets &. More Up to 70% Off
-    *   Boots &. Booties Up to 65% Off
-    *   b.tempt'd by Wacoal &. More Starting at $15
     *   The Pro Shop ft. Callaway Golf
     *   Cool Kicks: Kids' Sneakers from $20
     *   Madewell Handbags &. Jewelry
+    
     *   Baby Styles Up to 65% Off
     *   Men's Sneakers Up to 70% Off
-    *   Z By Zella Starting at $20
-    *   Helmut Lang Men Up to 65% Off
     *   Lamps Starting at $50
-    *   Z By Zella Kids &. More
-    *   Gym Essentials For Him Up to 60% Off
     *   WFH in Style: Men's Loafers &. Slip-Ons
-    
-    *   Men's Shoe Savings Up to 80% Off
-    *   Knit Tops Under $20
     *   Beach Essentials Starting at $15
-    *   Women's Styles Under $40
     *   Decor We Love
     *   Sugarfina
     *   Beauty Best Sellers
@@ -56,65 +55,59 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Designers We Love ft. Helmut Lang
     *   Summer Tops &. Bottoms Under $20
     *   Keep It Short: Mini Dresses
-    *   Women's Styles Under $30
-    *   Shorts Up to 75% Off
-    *   Luxe Men's Dress Shoes Up to 70% Off
-    *   Women's Styles Under $20
-    *   Kitschy Beach Towels Under $30
-    *   bObsweep Robotic Vacuums Up to 75% Off
+    *   Midi Dresses Under $50
+    *   Trench Coats, Rain Jackets &. More Up to 70% Off
+    *   Z By Zella Starting at $20
 *   WomenShop Sale Events
     
-    *   Limited-Time Price Drops Up to 70% Off
+    *   Good American Up to 70% Off
+    *   Designer Sunglasses Under $90
+    *   Franco Sarto Up to 60% Off
+    *   Gold Jewelry ft. Ron Hami
+    *   Woven Tops Under $20 Incl. Plus &. Petites
+    *   Bottoms Under $35 Incl. Plus &. Petites
+    *   One-Piece Swimwear Up to 70% Off
+    *   ECCO Up to 65% Off
     *   Kate Spade New York Up to 75% Off
     *   Kate Spade New York Shoes Up to 60% Off
     *   Kate Spade New York Clothing Up to 70% Off
     *   Floral Dresses Under $35
     *   Summer Essentials: Tees &. Tanks Under $15
+    
     *   Summer Essentials: Sport Bras, Tanks &. Crops
     *   Sporty Sandals Up to 60% Off
     *   Mid-Heel Sandals Up to 65% Off
     *   Madewell Starting at $20 Incl. Plus
-    *   Ready for Summer: White Denim Up to 70% Off
-    *   Midi Dresses Under $50
-    *   Trench Coats, Rain Jackets &. More Up to 70% Off
-    *   Boots &. Booties Up to 65% Off
-    
-    *   b.tempt'd by Wacoal &. More Starting at $15
     *   Madewell Handbags &. Jewelry
-    *   Z By Zella Starting at $20
-    *   Knit Tops Under $20
-    *   Women's Styles Under $40
     *   Beauty Best Sellers
     *   Virtual Date Night Ready: Lipsticks, Blushes &. More
     *   Designers We Love ft. Helmut Lang
     *   Summer Tops &. Bottoms Under $20
     *   Keep It Short: Mini Dresses
-    *   Women's Styles Under $30
-    *   Shorts Up to 75% Off
-    *   Women's Styles Under $20
+    *   Midi Dresses Under $50
+    *   Trench Coats, Rain Jackets &. More Up to 70% Off
+    *   Z By Zella Starting at $20
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Accessories
     *   Handbags
+    *   Accessories
     *   Lingerie &. Shapewear
     *   Watches
 *   MenShop Sale Events
     
+    *   Dress Up: Men's Suiting
+    *   Men's Chinos &. More Up to 75% Off
+    *   Men's Slip-Ons Up to 70% Off
     *   Perfect Pairing: Denim &. Sport Coats Under $150
     *   Summer Essentials: Men's Tees &. Tanks Under $20
     *   Men's Boots Up to 70% Off
     *   Slim Fit Jeans Up to 65% Off
     *   The Pro Shop ft. Callaway Golf
     *   Men's Sneakers Up to 70% Off
-    
-    *   Helmut Lang Men Up to 65% Off
-    *   Gym Essentials For Him Up to 60% Off
     *   WFH in Style: Men's Loafers &. Slip-Ons
-    *   Men's Shoe Savings Up to 80% Off
-    *   Luxe Men's Dress Shoes Up to 70% Off
     
     Shop By Category
     *   Clothing
@@ -122,16 +115,18 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Play All Day: Toys Starting at $10
+    *   Dress Up: Kids' Styles Up to 60% Off
     *   Boys' Summer Styles Up to 65% Off
     *   Girls' Summer Styles Up to 65% Off
     *   Cool Kicks: Kids' Sneakers from $20
     *   Baby Styles Up to 65% Off
-    *   Z By Zella Kids &. More
     
     Shop By Category
     *   Girls
-    *   Baby
     *   Boys
+    *   Baby
+    *   Toys
     *   Girls' Shoes
     *   Boys' Shoes
 *   HomeShop Sale Events
@@ -141,18 +136,16 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Beach Essentials Starting at $15
     *   Decor We Love
     *   Sugarfina
-    *   Kitschy Beach Towels Under $30
-    *   bObsweep Robotic Vacuums Up to 75% Off
     
     Shop By Category
     *   Home Decor
-    *   Outdoor Living
-    *   Bath
     *   Kitchen &. Tabletop
+    *   Outdoor Living
     *   Bedding
-    *   Cleaning &. Organization
     *   Pet Accessories
     *   Accent Furniture
+    *   Bath
+    *   Cleaning &. Organization
     *   Luggage &. Travel
     *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
