@@ -95,11 +95,14 @@ Try our free proxy Learn more about VPNs with Jack’s Guides
 
 Need to talk to someone? Contact us United States (English) Sign in to my account Services
 
-*   HMA VPN Features
+*   Features
 *   Price Plans
 *   Business Plans
 *   Friends and Family Plans
 *   Free Web Proxy
+*   IP Checker
+*   DNS Leak Test
+*   WebRTC Test
 
 Download
 
@@ -109,20 +112,26 @@ Download
 *   VPN for Android
 *   VPN for Linux
 *   VPN for Router
+*   VPN for Apple TV
+*   VPN for Android TV
+*   VPN for Chrome
+*   VPN for Firefox
 
 Learn about VPN
 
 *   What is a VPN?
+*   No Log Policy
+*   Blog
 *   Privacy
+*   Servers
 *   Online Freedom
 *   Access
-*   Blog
-*   Watch BBC iPlayer with HMA
-*   No Log Policy
-*   Streaming with HMA VPN
-*   Watch Amazon Prime with HMA VPN
-*   Watch Bundesliga with HMA VPN
-*   Watch Cricket with HMA VPN
+*   Watch Netflix
+*   Watch BBC iPlayer
+*   Watch Amazon Prime
+*   Watch Bundesliga
+*   Watch English Premier League
+*   Watch Cricket
 
 Help
 
@@ -136,7 +145,8 @@ About us
 *   About us
 *   Careers
 *   Press
-*   Privacy &. Legal
+*   Privacy Policy
+*   Legal
 *   Supplier Guidelines
 *   Security
 *   Affiliate Program
@@ -144,7 +154,7 @@ About us
 
 Download our mobile apps
 
-Copyright © 2005—2020 HMA. All Rights Reserved
+Modern Slavery Statement     |     Copyright © 2005—2020 HMA. All Rights Reserved
 
 This might suit you better
 
