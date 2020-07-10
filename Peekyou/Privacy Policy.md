@@ -58,7 +58,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT.
 
-What is PeekScore? Public Records &. Background Checks 5% 
+What is PeekScore? Public Records &. Background Checks 2% 
 
 Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -88,7 +88,7 @@ Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-10%  5% 
+8%  2% 
 
 Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -118,7 +118,7 @@ Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-10%  Arrest Records &. Driving Infractions
+8%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -159,7 +159,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 4% 
+Facebook 2% 
 
 *   Prıvacy PoIicy (emha wollen paradies) - Pr&.
     
@@ -213,7 +213,7 @@ Facebook 4% 
     
 *   Show Less ...
 
-Twitter 4% 
+Twitter 2% 
 
 *   CDC - CDCgov
     
@@ -259,7 +259,53 @@ Twitter 4% 
     
 *   Show Less ...
 
-Instagram 10%  Myspace 4% 
+Instagram 2% 
+
+*   Privacy Policy - insta\_privacy\_policy
+    
+*   Privacy policy - nice\_thighs\_bro
+    
+*   Privacy Policy - mrprivacypolicy
+    
+*   privacy policy - privacy.p
+    
+*   Show More ...
+
+*   privacy.isthe.policy - privacy.isthe.policy
+    
+*   tems\_privacy\_policy - tems\_privacy\_policy
+    
+*   PPc Montreal - privacypolicyclothes
+    
+*   Ahtasham Alam - terms\_privacy\_policy.\_
+    
+*   Konstantin - \_privacy.\_.policy\_
+    
+*   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ - \_\_privacy.policy\_\_\_
+    
+*   Djavid - \_privacy\_policy
+    
+*   Memes? - privacy\_policy101
+    
+*   Privacy is the best policy - justinjego\_floyd
+    
+*   sama.......miYzayi - terms\_\_\_\_privacy\_\_\_\_\_policy
+    
+*   privacy\_policy\_privacy\_terms - privacy\_policy\_privacy\_terms
+    
+*   Z-yroC - terms\_\_privacy\_policy
+    
+*   InstagramRep. - privacy\_policy\_direct\_
+    
+*   NO CONSENT To Privacy Policy - therealitzdope
+    
+*   Loading... - privacy.policy\_\_
+    
+*   Mark Smith - privacy\_policy\_insta
+    
+*   Show Less ...
+
+Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -283,7 +329,7 @@ Instagram 10%  Myspace 4% 
     
 *   Show Less ...
 
-Social Profiles 10%  Pinterest 4% 
+Social Profiles 8%  Pinterest 2% 
 
 *   Privacy Policy - privacypolicyvino
     
@@ -292,7 +338,7 @@ Social Profiles 10%  Pinterest 4% 
 *   Learn about instant apps Google Play Instant Apps are Play Store apps you can open before requiring - girlfriendnomore1
     
 
-Wikipedia 4% 
+Wikipedia 2% 
 
 *   Privacy policy
     
@@ -324,7 +370,7 @@ Wikipedia 4% 
     
 *   Show Less ...
 
-Music 10%  Photo Albums 4% 
+Music 8%  Photo Albums 2% 
 
 *   Help
     
@@ -372,13 +418,23 @@ Music 10%  Photo Albums 4% 
     
 *   Show Less ...
 
-Web Search 10%  Images 4% 
+Web Search 8%  Images 1% 
 
 16
 
 20
 
-6
+20
+
+7
+
+facebookx
+
+twitterx
+
+instagramx
+
+myspacex
 
 3
 
@@ -386,13 +442,7 @@ facebookx
 
 twitterx
 
-myspacex
-
-pinterestx
-
-facebookx
-
-twitterx
+instagramx
 
 myspacex
 
