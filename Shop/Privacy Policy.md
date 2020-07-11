@@ -33,7 +33,7 @@ Lenovo Explore Close
         *   IdeaPad S940
         *   Lenovo New Products
         
-        Black Friday in July
+        Sale
         
         Get special savings this summer on our best selling brands
         
@@ -66,7 +66,7 @@ Lenovo Explore Close
         *   M920 SFF
         *   Desktop Deals
         
-        Black Friday
+        Sale
         
         Enjoy deals on desktops including a special Nano offer with savings over $850!
         
@@ -91,11 +91,11 @@ Lenovo Explore Close
         *   ThinkPad P53
         *   ThinkPad P1 Gen 2
         *   ThinkPad P73
-        *   ThinkPad P53s
-        *   ThinkStation P330 Tiny
+        *   ThinkPad P15s
+        *   ThinkStation P340 Tiny
         *   ThinkStation P330 Tower
         
-        Black Friday
+        Sale
         
         Enjoy special pricing on workstations and get all the power you need
         
@@ -119,7 +119,7 @@ Lenovo Explore Close
         *   For a Gift
         *   Best Bargain
         
-        Black Friday
+        Sale
         
         These deals won't last forever. Shop holiday savings this summer now
         
@@ -253,7 +253,7 @@ Lenovo Explore Close
         *   Business Laptops
         *   Business Desktops
         *   Business Monitors
-        *   Business Docs
+        *   Business Docks
         *   Business Tablets
         *   Home Office Solutions
         
@@ -292,7 +292,7 @@ Lenovo Explore Close
         
         Things to consider when choosing a laptop
         
-    *   Black Friday
+    *   Sale
         
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
@@ -323,7 +323,7 @@ Lenovo Explore Close
         *   Trade In Program
         *   Outlet
         
-        Christmas came early
+        Sale
         
         Shop our wide range of PCs &. accessories while they last!
         
