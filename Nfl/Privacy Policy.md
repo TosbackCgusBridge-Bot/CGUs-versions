@@ -20,7 +20,7 @@ We use our own and third-party cookies to improve your experience and our servic
     *   Ways to Watch
     *   NFL Network
     *   NFL Films
-    *   Combine
+    *   Inspire Change
 
 NFL SHOP Action related nav
 
@@ -323,6 +323,7 @@ If you are aware of changes or inaccuracies in your information, you should info
     
     *   \*\*\*\*\*
     *   In the Community
+    *   Inspire Change
 *   Player Services Player Services nav
     
     *   \*\*\*\*\*
