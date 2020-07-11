@@ -550,6 +550,7 @@ Top Destinations
 For Guests
 
 *   Best Rate Guarantee
+*   Room Key
 *   Marriott Bonvoy Moments
 *   Activities
 *   Marriott Insiders
@@ -579,4 +580,4 @@ Loading...
 
 Terms of Use Program Terms &. Conditions Privacy Center Do Not Sell My Personal Information Digital Accessibility Site Map Help*   Loading...
     
-prod9,7D880EB7-9635-5908-B967-B99DAF2644A1
+prod10,A85ABCE9-24D3-5FBC-96D9-3C9156021311
