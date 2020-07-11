@@ -36,7 +36,7 @@ Instant Notifications
 
 You'll receive push notifications when your resume is viewed, or when new jobs appear in your most recent search. Making it easy for you to jump right back into your job search.
 
-see how you can up your career status Career Development &. Learning Companies hiring this week (June 29) Read Article Companies hiring this week (June 22) Read Article Yes, you can go back to a previous employer Read Article Read More Articles Employers Looking to Post a Job?
+see how you can up your career status Career Development &. Learning Companies hiring this week (July 6) and unemployment across demographic groups Read Article Job Trends 12 e-commerce jobs to consider Read Article Companies hiring this week (June 29) Read Article Read More Articles Employers Looking to Post a Job?
 
 We have end-to-end solutions that can keep up with you and your standards.
 
