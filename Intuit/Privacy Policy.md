@@ -9,7 +9,7 @@ Enable Accessibility
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   Deals &. Trending
 *   Home &. Lifestyle
@@ -23,20 +23,8 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-Power Penney Deals For HerShop AllSt. John's Bay Teealso in petites' sizesselect stylesa.n.a. Teealso in petites' sizes select styles Juniors' Arizona Pocket Tank TopAmbriellePajama Separatesselect stylesLiz ClaiborneLinen-Cotton Tank Topa.n.a or St. John's BayShortsselect stylesWorthingtonShortsArizona orMixit Sandalsselect stylesPower Penney Deals For HimShop AllGuys' Arizona Teeselect stylesMen'sSt. John's Bay Poloselect stylesThe Foundry Big &. TallSupply Co. Teeselect stylesMen's Graphic Teeselect stylesMen's Xersion Shortsselect stylesMen's St. John's BayFlat-Front Shortsselect stylesMen's StaffordEasy Care Dress Shirtselect stylesMen's St. John's BaySwimwearselect stylesPower Penney Deals For KidsShop AllGirls' Arizona Teeselect stylesGirls' Arizona Leggingsselect stylesBoys' Graphic Teeselect stylesKids' XersionGraphic Teeselect stylesBoys' NoveltyGraphic Teeselect stylesKids' Xersion Shortsselect stylesCarter's Romperor Creeperselect stylesPower Penney Deals For HomeShop AllJCPenney Home30x54" Bath Towelselect stylesCooks 1.5-Qt.Slow CookerANY SIZEJCPenney HomeBayview Curtainselect stylesANY SIZERegal Home SterlingBlackout or Sheer Curtainselect stylesHome Expressions290TC Percaleor 144TC 100% CottonTwin Sheet Setselect stylesJCPenney Home FocusGrommet-Top Curtain**EXTRA 25% OFF** Fine jewelry at the VIP Jewelry SaleGet Details
-
-*   Shop Jewelry
-
-*   Modern Bride
-    
-*   Gold &. Fine Silver
-    
-*   Gemstone Jewelry
-    
-*   Fashion Silver
-    
-
-Shop Jewelry WomenMenKids NikeadidasChampionUP TO 50% OFF Home SaleDestination? Relaxation. select styles
+Power Penney Deals  
+**Girls' Arizona Tee**select stylesGirls' Arizona Leggingsselect stylesKids' Xersion Graphic Teeselect stylesGuys' Arizona Teeselect stylesa.n.a V-Neck Teeselect stylesJCPenney Home30x54" Bath Towelselect stylesANY SIZEJCPenney HomeBayview Curtainselect stylesMen's Xersion Shortsselect stylesMen'sSt. John's Bay Poloselect stylesa.n.a or St. John's BayShortsselect stylesLiz ClaiborneLinen-Cotton Tank Topselect stylesMen's StaffordEasy Care Dress Shirtselect stylesUP TO 50% OFF Home SaleDestination? Relaxation. select styles
 
 *   Shop All
 
@@ -49,7 +37,20 @@ Shop Jewelry WomenMenKids NikeadidasChampionUP TO 50% OFF Home SaleDestination
 *   Bath Towels
     
 
-Furniture &. Mattress SALEUP TO 60% OFF+EXTRA 10% OFF WITH couponEnds 7/15 | select stylesMattressesFurniture  Learn More  Shop Now Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+Men's ShirtsMen's ShortsWomen's TopsWomen's Shorts WomenMenKids NikeadidasChampion**EXTRA 25% OFF** Select Fine jewelry at the VIP Jewelry SaleGet Details
+
+*   Shop Jewelry
+
+*   Modern Bride
+    
+*   Gold &. Fine Silver
+    
+*   Gemstone Jewelry
+    
+*   Fashion Silver
+    
+
+Shop JewelryFurniture &. Mattress SALEUP TO 60% OFF+EXTRA 10% OFF WITH couponEnds 7/15 | select stylesMattressesFurniture  Learn More  Shop Now Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
 *   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
@@ -62,32 +63,31 @@ Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded
     $20sale
     
     ~$124.98~191
-*   Liz Claiborne Womens Round Neck Short Sleeve Blouse
-    
-    $15sale
-    
-    ~$30~
-*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $22.49 - $40.49with code~$50 - $90~220
-*   DOLCE &. GABBANA Light Blue Mini Duo Set
-    
-    $20
-    
-    37
 *   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
     $20sale
     
     ~$124.98~134
+*   Cooks 1.5 Quart Slow Cooker
+    
+    $11sale
+    
+    ~$22~334
+*   DOLCE &. GABBANA Light Blue Mini Duo Set
+    
+    $20
+    
+    37
+*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $22.49 - $40.49with code~$50 - $90~220
 
 Sponsored Items
 
-*   Farberware Cookstart 15-pc. Cookware Set $67.49with code~$120~62
-*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $14.99with code~$30~
 *   Dyson® V8 Animal Cord-Free Vacuum
     
     $569.99sale
     
     ~$669~186
+*   Farberware Cookstart 15-pc. Cookware Set $67.49with code~$120~62
 *   Yves Saint Laurent Mon Paris Eau de Parfum
     
     $74 - $124
@@ -98,52 +98,58 @@ Sponsored Items
     $15.99sale
     
     ~$19.99~50
+*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $14.99with code~$30~
+*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
+*   Bissell® SpinWave® Hard Floor Spin Mop
+    
+    $129
+    
+    1030
 *   Rachael Ray Create Delicious 11-Pc. Cookware Set
     
     $179.99sale
     
-    ~$300~17
-*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
+    ~$300~43
 *   Yves Saint Laurent Black Opium
     
     $74 - $124
     
     5506
 *   Circulon® Momentum 11-pc. Nonstick Cookware Set $179.99with code~$400~136
-*   Bissell® SpinWave® Hard Floor Spin Mop
+*   Fisher-Price Classic Xylophone
     
-    $129
+    $15.99
     
-    1030
-*   Fisher-Price Rock-A-Stack Clacker
-    
-    $4.49
-    
-*   YVES SAINT LAURENT Libre Eau De Parfum
-    
-    $78 - $130
-    
-    398
+    7
 *   Fisher-Price Learn with Me Zebra Walker
     
     $24.99
     
     40
+*   YVES SAINT LAURENT Libre Eau De Parfum
+    
+    $78 - $130
+    
+    398
+*   Fisher-Price Rock-A-Stack Clacker
+    
+    $4.49
+    
 *   Fisher-Price Laugh &. Learn Click &. Learn Laptop
     
     $14.99
     
     10
 *   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $89.99with code~$180~55
-*   Fisher-Price Soothe and Go Giraffe
-    
-    $9.99
-    
 *   Fisher-Price Linkimals A To Z Otter
     
     $19.99
     
     23
+*   Fisher-Price Soothe and Go Giraffe
+    
+    $9.99
+    
 *   Fisher-Price Linkimals Smooth Moves Sloth
     
     $29.99
