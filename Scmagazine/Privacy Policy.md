@@ -252,23 +252,23 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
-    *   Geopolitical targets figuring in latest StrongPity attacks
-    *   Glupteba malware leverages blockchain as a communications channel
-    *   Microsoft issues two out-of-band patches for RCE flaws, one critical
-    *   UCSF paid $1.4 million ransom in NetWalker attack
-    *   Mobile ransomware disguised as upcoming Canadian Covid-19 contact tracing app
-    
+    *   Hidden Cobra built global exfiltration network for Magecart skimming scheme
     *   BMW customer database for sale on dark web
-    *   Event invitation phishing scheme usurps efficacy of Microsoft, Google and Wells Fargo
-    *   ‘Mirai’ botnet successors’ co-developer sentenced to 13 months
-    *   Credit card skimmer preyed on old ASP.NET-powered websites with shopping carts
-    *   Even during pandemic, healthcare orgs successfully fending off attacks
+    *   Frequency, size of fines for failing to secure data will grow by 2025, report
+    *   UCSF paid $1.4 million ransom in NetWalker attack
+    *   5 Elements of Next-Gen Deception Technology
     
-    *   Are your fleet's vehicles leaking your data secrets?
-    *   Hidden purpose of Mac 'ransomware' EvilQuest is data exfiltration, say researchers
-    *   15B credentials available on dark web. average selling price below $16
-    *   USB a prevalent industrial vector vulnerability for OT systems
+    *   MongoDB hacker threatens to report breach to GDPR
+    *   BMW customer database for sale on dark web
+    *   Cyber Command urges orgs to implement F5 patch for BIG-IP configuration interface flaw
     *   BEC scams grow in complexity as Russian actors launch Cosmic Lynx operation
+    *   First Look: Secure Data's SecureDrive BT
+    
+    *   Zoom fixing zero-day vulnerability in Windows client
+    *   Unsealed indictment alleges Kazakh man is behind Fxmsp hacking group
+    *   Are your fleet's vehicles leaking your data secrets?
+    *   Microsoft phishing domains take down aimed at familiar criminals refocused on Covid-19
+    *   Hidden purpose of Mac 'ransomware' EvilQuest is data exfiltration, say researchers
 
 Back to Top
 
@@ -301,6 +301,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
 
 Attend this virtual event! July 15-16, 2020
