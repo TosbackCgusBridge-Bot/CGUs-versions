@@ -9,6 +9,24 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Designer Shoes Up to 60% Off
+    *   Designer Styles Up to 70% Off
+    *   Men's Designer Shoes Up to 70% Off
+    *   Men's Designer Styles Up to 80% Off
+    *   Keep It Short: Mini Dresses
+    *   Smocked Styles Under $30 Incl. Plus &. Petites
+    *   Summer Ruffles: Styles Under $30 Incl. Plus &. Petites
+    *   Skirts Under $35
+    *   Season's Best Jackets Up to 70% Off
+    *   Bags That Pop
+    *   Work From Home: Blue-Light Glasses ft. Quay
+    *   On-Trend Summer Shirts for Him
+    *   Dive In: Men's Swimwear Starting at $20
+    *   Nine West Up to 60% Off
+    *   Kids' Basics Starting at $10
+    *   Louise Et Cie Up to 60% Off
+    *   Kids' Modern Styles ft. Sovereign Code
+    
     *   Good American Up to 70% Off
     *   Designer Sunglasses Under $90
     *   Franco Sarto Up to 60% Off
@@ -25,44 +43,40 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Kate Spade New York Up to 75% Off
     *   Kate Spade New York Shoes Up to 60% Off
     *   Kate Spade New York Clothing Up to 70% Off
-    
     *   Kate Spade New York Home &. Bath
-    *   Floral Dresses Under $35
-    *   Summer Essentials: Tees &. Tanks Under $15
-    *   Summer Essentials: Sport Bras, Tanks &. Crops
+    
     *   Perfect Pairing: Denim &. Sport Coats Under $150
-    *   Sporty Sandals Up to 60% Off
-    *   Mid-Heel Sandals Up to 65% Off
     *   Summer Essentials: Men's Tees &. Tanks Under $20
     *   Boys' Summer Styles Up to 65% Off
     *   Girls' Summer Styles Up to 65% Off
     *   Men's Boots Up to 70% Off
-    *   Madewell Starting at $20 Incl. Plus
-    *   Slim Fit Jeans Up to 65% Off
-    *   The Pro Shop ft. Callaway Golf
-    *   Cool Kicks: Kids' Sneakers from $20
-    *   Madewell Handbags &. Jewelry
-    
-    *   Baby Styles Up to 65% Off
     *   Men's Sneakers Up to 70% Off
-    *   Lamps Starting at $50
-    *   WFH in Style: Men's Loafers &. Slip-Ons
-    *   Beach Essentials Starting at $15
-    *   Decor We Love
     *   Sugarfina
     *   Beauty Best Sellers
+    *   Decor We Love
     *   Virtual Date Night Ready: Lipsticks, Blushes &. More
-    *   Designers We Love ft. Helmut Lang
-    *   Summer Tops &. Bottoms Under $20
-    *   Keep It Short: Mini Dresses
+    *   Lamps Starting at $50
+    *   Beach Essentials Starting at $15
+    *   Summer Essentials: Tees &. Tanks Under $15
+    *   Summer Essentials: Sport Bras, Tanks &. Crops
     *   Midi Dresses Under $50
-    *   Trench Coats, Rain Jackets &. More Up to 70% Off
-    *   Z By Zella Starting at $20
 *   WomenShop Sale Events
     
+    *   Designer Shoes Up to 60% Off
+    *   Designer Styles Up to 70% Off
+    *   Keep It Short: Mini Dresses
+    *   Smocked Styles Under $30 Incl. Plus &. Petites
+    *   Summer Ruffles: Styles Under $30 Incl. Plus &. Petites
+    *   Skirts Under $35
+    *   Season's Best Jackets Up to 70% Off
+    *   Bags That Pop
+    *   Work From Home: Blue-Light Glasses ft. Quay
+    *   Nine West Up to 60% Off
+    *   Louise Et Cie Up to 60% Off
     *   Good American Up to 70% Off
     *   Designer Sunglasses Under $90
     *   Franco Sarto Up to 60% Off
+    
     *   Gold Jewelry ft. Ron Hami
     *   Woven Tops Under $20 Incl. Plus &. Petites
     *   Bottoms Under $35 Incl. Plus &. Petites
@@ -71,43 +85,35 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Kate Spade New York Up to 75% Off
     *   Kate Spade New York Shoes Up to 60% Off
     *   Kate Spade New York Clothing Up to 70% Off
-    *   Floral Dresses Under $35
-    *   Summer Essentials: Tees &. Tanks Under $15
-    
-    *   Summer Essentials: Sport Bras, Tanks &. Crops
-    *   Sporty Sandals Up to 60% Off
-    *   Mid-Heel Sandals Up to 65% Off
-    *   Madewell Starting at $20 Incl. Plus
-    *   Madewell Handbags &. Jewelry
     *   Beauty Best Sellers
     *   Virtual Date Night Ready: Lipsticks, Blushes &. More
-    *   Designers We Love ft. Helmut Lang
-    *   Summer Tops &. Bottoms Under $20
-    *   Keep It Short: Mini Dresses
+    *   Summer Essentials: Tees &. Tanks Under $15
+    *   Summer Essentials: Sport Bras, Tanks &. Crops
     *   Midi Dresses Under $50
-    *   Trench Coats, Rain Jackets &. More Up to 70% Off
-    *   Z By Zella Starting at $20
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
     *   Handbags
+    *   Jewelry
     *   Accessories
     *   Lingerie &. Shapewear
     *   Watches
 *   MenShop Sale Events
     
+    *   Men's Designer Shoes Up to 70% Off
+    *   Men's Designer Styles Up to 80% Off
+    *   Work From Home: Blue-Light Glasses ft. Quay
+    *   On-Trend Summer Shirts for Him
+    *   Dive In: Men's Swimwear Starting at $20
     *   Dress Up: Men's Suiting
+    
     *   Men's Chinos &. More Up to 75% Off
     *   Men's Slip-Ons Up to 70% Off
     *   Perfect Pairing: Denim &. Sport Coats Under $150
     *   Summer Essentials: Men's Tees &. Tanks Under $20
     *   Men's Boots Up to 70% Off
-    *   Slim Fit Jeans Up to 65% Off
-    *   The Pro Shop ft. Callaway Golf
     *   Men's Sneakers Up to 70% Off
-    *   WFH in Style: Men's Loafers &. Slip-Ons
     
     Shop By Category
     *   Clothing
@@ -115,27 +121,25 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Kids' Basics Starting at $10
+    *   Kids' Modern Styles ft. Sovereign Code
     *   Play All Day: Toys Starting at $10
     *   Dress Up: Kids' Styles Up to 60% Off
     *   Boys' Summer Styles Up to 65% Off
     *   Girls' Summer Styles Up to 65% Off
-    *   Cool Kicks: Kids' Sneakers from $20
-    *   Baby Styles Up to 65% Off
     
     Shop By Category
-    *   Girls
     *   Boys
+    *   Girls
     *   Baby
     *   Toys
-    *   Girls' Shoes
-    *   Boys' Shoes
 *   HomeShop Sale Events
     
     *   Kate Spade New York Home &. Bath
+    *   Sugarfina
+    *   Decor We Love
     *   Lamps Starting at $50
     *   Beach Essentials Starting at $15
-    *   Decor We Love
-    *   Sugarfina
     
     Shop By Category
     *   Home Decor
@@ -144,9 +148,9 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Bedding
     *   Pet Accessories
     *   Accent Furniture
+    *   Luggage &. Travel
     *   Bath
     *   Cleaning &. Organization
-    *   Luggage &. Travel
     *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
