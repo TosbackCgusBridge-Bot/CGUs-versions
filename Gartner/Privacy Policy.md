@@ -82,7 +82,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 927 8341 1 855 927 8341
+    1 800 213 4848 1 800 213 4848
     
 
 *   Solutions By Function
@@ -151,7 +151,7 @@ Search
 
 *   Become a Client
     
-    1 855 927 8341 1 855 927 8341
+    1 800 213 4848 1 800 213 4848
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
@@ -574,29 +574,123 @@ Stamford, CT 06902
 USA  
 Email Address: privacy@gartner.com
 
-*   About Gartner
-*   Careers
-*   Newsroom
-*   Ombudsman
+About Careers Contact Gartner Glossary Newsroom Smarter With Gartner About Careers Contact Gartner Glossary Newsroom Smarter With Gartner
 
-*   Investor Relations
-*   Policies
-*   Gartner Glossary
-*   Contact Gartner
+*   Solutions By Function
+    
+    *   Audit &. Risk
+    *   Communications
+    *   Customer Service &. Support
+    *   Finance
+    *   Human Resources
+    *   Information Technology
+    *   Innovation &. Strategy
+    *   Legal &. Compliance
+    *   Marketing
+    *   Product
+    *   Sales
+    *   Supply Chain
+    
+    By Industry
+    *   Education
+    *   Energy &. Utilities
+    *   Financial Services
+    *   Government &. Public Sector
+    *   Healthcare
+    *   Manufacturing
+    *   Retail
+    *   High Tech &. Telecom
+*   Insights By Function
+    
+    *   Audit &. Risk
+    *   Communications
+    *   Customer Service &. Support
+    *   Finance
+    *   Human Resources
+    *   Information Technology
+    *   Innovation &. Strategy
+    *   Legal &. Compliance
+    *   Marketing
+    *   Product
+    *   Sales
+    *   Supply Chain
+    
+    Featured Insights
+    *   Benchmarking
+    *   Coronavirus (COVID-19)
+    *   Cost Optimization
+    *   Diversity, Equity and Inclusion Resource Center
+    *   Executive Guidance
+    *   Strategic Planning
+    *   Top Insights
+*   What We Do
+    *   Research &. Advisory
+    *   Conferences
+    *   Consulting
+    *   Digital Markets
+    *   Peer Insights
 
-*   Privacy Policy
-*   Terms of Use
+Solutions By Function
 
-*   About Gartner
-*   Careers
-*   Newsroom
-*   Ombudsman
-*   Investor Relations
+*   Audit &. Risk
+*   Communications
+*   Customer Service &. Support
+*   Finance
+*   Human Resources
+*   Information Technology
+*   Innovation &. Strategy
+*   Legal &. Compliance
+*   Marketing
+*   Product
+*   Sales
+*   Supply Chain
 
-*   Policies
-*   Gartner Glossary
-*   Contact Gartner
-*   Privacy Policy
-*   Terms of Use
+By Industry
+
+*   Education
+*   Energy &. Utilities
+*   Financial Services
+*   Government &. Public Sector
+*   Healthcare
+*   Manufacturing
+*   Retail
+*   High Tech &. Telecom
+
+Insights By Function
+
+*   Audit &. Risk
+*   Communications
+*   Customer Service &. Support
+*   Finance
+*   Human Resources
+*   Information Technology
+*   Innovation &. Strategy
+*   Legal &. Compliance
+*   Marketing
+*   Product
+*   Sales
+*   Supply Chain
+
+Featured Insights
+
+*   Benchmarking
+*   Coronavirus (COVID-19)
+*   Cost Optimization
+*   Diversity, Equity and Inclusion Resource Center
+*   Executive Guidance
+*   Strategic Planning
+*   Top Insights
+
+What We Do
+
+*   Research &. Advisory
+*   Conferences
+*   Consulting
+*   Digital Markets
+*   Peer Insights
+
+Policies Privacy Policy Terms of Use Investor Relations Ombudsman
+
+©2020 Gartner, Inc. and/or its affiliates. All rights reserved.
 
 ©2020 Gartner, Inc. and/or its affiliates. All rights reserved.
