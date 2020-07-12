@@ -58,7 +58,7 @@ Close submenu ( Guys ) Guys
 *   Tees
 *   Bottoms
 *   Shorts
-*   Jackets + Coats
+*   Jackets
 *   Accessories
 *   Underwear
 *   Cologne
@@ -247,7 +247,7 @@ Menu Find a Store Aeropostale
     *   Tees
     *   Bottoms
     *   Shorts
-    *   Jackets + Coats
+    *   Jackets
     *   Accessories
     *   Underwear
     *   Cologne
