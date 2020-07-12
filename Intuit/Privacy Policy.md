@@ -9,7 +9,7 @@ Enable Accessibility
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   Deals &. Trending
 *   Home &. Lifestyle
@@ -23,8 +23,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-Power Penney Deals  
-**Girls' Arizona Tee**select stylesGirls' Arizona Leggingsselect stylesKids' Xersion Graphic Teeselect stylesGuys' Arizona Teeselect stylesa.n.a V-Neck Teeselect stylesJCPenney Home30x54" Bath Towelselect stylesANY SIZEJCPenney HomeBayview Curtainselect stylesMen's Xersion Shortsselect stylesMen'sSt. John's Bay Poloselect stylesa.n.a or St. John's BayShortsselect stylesLiz ClaiborneLinen-Cotton Tank Topselect stylesMen's StaffordEasy Care Dress Shirtselect stylesUP TO 50% OFF Home SaleDestination? Relaxation. select styles
+**Girls' Arizona Tee**select stylesGirls' Arizona Leggingsselect stylesKids' Xersion Graphic Teeselect stylesGuys' Arizona Teeselect stylesa.n.a V-Neck TeeJCPenney Home30x54" Bath TowelANY SIZEJCPenney HomeBayview Curtainselect stylesMen's Xersion Shortsselect stylesMen'sSt. John's Bay Poloselect stylesa.n.a or St. John's BayShortsselect stylesLiz ClaiborneLinen-Cotton Tank TopMen's StaffordEasy Care Dress Shirtselect stylesUP TO 50% OFF Home SaleDestination? Relaxation. select styles
 
 *   Shop All
 
@@ -63,69 +62,55 @@ Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded
     $20sale
     
     ~$124.98~191
-*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
-    
-    $20sale
-    
-    ~$124.98~134
 *   Cooks 1.5 Quart Slow Cooker
     
     $11sale
     
     ~$22~334
-*   DOLCE &. GABBANA Light Blue Mini Duo Set
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
-    $20
+    $20sale
     
-    37
+    ~$124.98~134
 *   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $22.49 - $40.49with code~$50 - $90~220
+*   Regal Home Collections, Inc. Sterling Embroidery Energy Saving Blackout Grommet-Top Single Curtain Panel $11.25with code~$40 - $60~23
 
 Sponsored Items
 
-*   Dyson® V8 Animal Cord-Free Vacuum
-    
-    $569.99sale
-    
-    ~$669~186
 *   Farberware Cookstart 15-pc. Cookware Set $67.49with code~$120~62
-*   Yves Saint Laurent Mon Paris Eau de Parfum
-    
-    $74 - $124
-    
-    655
 *   Fisher-Price Laugh &. Learn Smart Stages Sis
     
     $15.99sale
     
     ~$19.99~50
+*   Yves Saint Laurent Mon Paris Eau de Parfum
+    
+    $74 - $124
+    
+    655
+*   Dyson® V8 Animal Cord-Free Vacuum
+    
+    $569.99sale
+    
+    ~$669~186
 *   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $14.99with code~$30~
-*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
 *   Bissell® SpinWave® Hard Floor Spin Mop
     
     $129
     
     1030
-*   Rachael Ray Create Delicious 11-Pc. Cookware Set
+*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
+*   Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set
     
-    $179.99sale
+    $189.99sale
     
-    ~$300~43
-*   Yves Saint Laurent Black Opium
+    ~$240~192
+*   Ayesha Curry™ Home Collection 12-pc. Cookware Set
     
-    $74 - $124
+    $159.99sale
     
-    5506
+    ~$240~23
 *   Circulon® Momentum 11-pc. Nonstick Cookware Set $179.99with code~$400~136
-*   Fisher-Price Classic Xylophone
-    
-    $15.99
-    
-    7
-*   Fisher-Price Learn with Me Zebra Walker
-    
-    $24.99
-    
-    40
 *   YVES SAINT LAURENT Libre Eau De Parfum
     
     $78 - $130
@@ -135,26 +120,28 @@ Sponsored Items
     
     $4.49
     
+*   Fisher-Price Learn with Me Zebra Walker
+    
+    $24.99
+    
+    40
+*   Yves Saint Laurent Y Eau Fraiche
+    
+    $77 - $95
+    
+    138
 *   Fisher-Price Laugh &. Learn Click &. Learn Laptop
     
     $14.99
     
     10
-*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $89.99with code~$180~55
-*   Fisher-Price Linkimals A To Z Otter
-    
-    $19.99
-    
-    23
 *   Fisher-Price Soothe and Go Giraffe
     
     $9.99
     
-*   Fisher-Price Linkimals Smooth Moves Sloth
-    
-    $29.99
-    
-    36
+*   Lock &. Lock 14-pc. Food Container $26.24with code~$50~
+*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $89.99with code~$180~55
+*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $89.99with code~$140 - $160~94
 *   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $89.99with code~$180~36
 
 Shop and Save at JCPenney
