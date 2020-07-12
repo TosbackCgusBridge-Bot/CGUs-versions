@@ -253,22 +253,22 @@ Managing data compliance and workflows
     *   Recent
     
     *   Hidden Cobra built global exfiltration network for Magecart skimming scheme
-    *   BMW customer database for sale on dark web
-    *   Frequency, size of fines for failing to secure data will grow by 2025, report
-    *   UCSF paid $1.4 million ransom in NetWalker attack
-    *   5 Elements of Next-Gen Deception Technology
+    *   OSX.EvilQuest ransomware targets Macs. Ransom X blamed for TxDOT attack
+    *   Conti ransomware encrypts files quicker, targets SMB network shares
+    *   Resilience improved, but response dragged down by too many tools, too few playbooks, report says
+    *   Cybercriminals likely poised to attack as Adobe ends support for Magento 1
     
-    *   MongoDB hacker threatens to report breach to GDPR
-    *   BMW customer database for sale on dark web
-    *   Cyber Command urges orgs to implement F5 patch for BIG-IP configuration interface flaw
-    *   BEC scams grow in complexity as Russian actors launch Cosmic Lynx operation
-    *   First Look: Secure Data's SecureDrive BT
-    
-    *   Zoom fixing zero-day vulnerability in Windows client
-    *   Unsealed indictment alleges Kazakh man is behind Fxmsp hacking group
-    *   Are your fleet's vehicles leaking your data secrets?
-    *   Microsoft phishing domains take down aimed at familiar criminals refocused on Covid-19
+    *   Only a Public-Private Partnership Can Secure the Electric Grid
+    *   Cybercriminals likely poised to attack as Adobe ends support for Magento 1
+    *   Eight cities using Click2Gov targeted in Magecart skimming attacks
+    *   EARN IT passes Senate Judiciary, stokes concerns over erosion of end-to-end encryption
     *   Hidden purpose of Mac 'ransomware' EvilQuest is data exfiltration, say researchers
+    
+    *   Trump commutes Roger Stone's sentence stemming from Mueller probe
+    *   Biden's new CISO must keep campaign leaders engaged while navigating strange Covid-19 world
+    *   Flaws in SETracker watch app posed danger to dementia patients
+    *   Citrix, Juniper and VMware patch array of vulnerabilities
+    *   U.S. universities at risk of back-to-school and Covid-19 email fraud
 
 Back to Top
 
@@ -301,6 +301,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
 
 Attend this virtual event! July 15-16, 2020
