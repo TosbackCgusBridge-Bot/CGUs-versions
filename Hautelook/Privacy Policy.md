@@ -9,10 +9,27 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   FRAME Up to 75% Off
+    *   FRAME Men Up to 60% Off
+    *   Protective Mask Sets
+    *   Plus Summer Styles Up to 70% Off
+    *   Clarks Comfort Shoes Under $60
+    *   Petite Summer Styles Up to 70% Off
+    *   Sun-sational Styles Incl. Plus Up to 70% Off
+    *   Summer Splash: Cover-Ups We Love
+    *   Dress Shirts Up to 70% Off
+    *   Standout Shoes Up to 65% Off
+    *   Belts for Every Occasion ft. Michael Kors
+    *   Fresh Shoe Finds
+    *   Our Exclusive Shoes ft. BP. &. Abound
+    *   Road-Trip Essentials: Luggage, Duffels &. More
+    *   Summer Style: Kids' Sandals from $15
+    *   Exclusively Ours: Men's Shoes
+    *   Trending Now: Baby Gear ft. DockATot
     *   Designer Shoes Up to 60% Off
+    
     *   Designer Styles Up to 70% Off
     *   Men's Designer Shoes Up to 70% Off
-    *   Men's Designer Styles Up to 80% Off
     *   Keep It Short: Mini Dresses
     *   Smocked Styles Under $30 Incl. Plus &. Petites
     *   Summer Ruffles: Styles Under $30 Incl. Plus &. Petites
@@ -26,46 +43,45 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Kids' Basics Starting at $10
     *   Louise Et Cie Up to 60% Off
     *   Kids' Modern Styles ft. Sovereign Code
-    
     *   Good American Up to 70% Off
-    *   Designer Sunglasses Under $90
-    *   Franco Sarto Up to 60% Off
     *   Gold Jewelry ft. Ron Hami
-    *   Woven Tops Under $20 Incl. Plus &. Petites
-    *   Bottoms Under $35 Incl. Plus &. Petites
-    *   One-Piece Swimwear Up to 70% Off
-    *   ECCO Up to 65% Off
     *   Dress Up: Men's Suiting
+    
     *   Play All Day: Toys Starting at $10
     *   Dress Up: Kids' Styles Up to 60% Off
     *   Men's Chinos &. More Up to 75% Off
     *   Men's Slip-Ons Up to 70% Off
-    *   Kate Spade New York Up to 75% Off
-    *   Kate Spade New York Shoes Up to 60% Off
-    *   Kate Spade New York Clothing Up to 70% Off
     *   Kate Spade New York Home &. Bath
-    
-    *   Perfect Pairing: Denim &. Sport Coats Under $150
-    *   Summer Essentials: Men's Tees &. Tanks Under $20
-    *   Boys' Summer Styles Up to 65% Off
-    *   Girls' Summer Styles Up to 65% Off
     *   Men's Boots Up to 70% Off
-    *   Men's Sneakers Up to 70% Off
-    *   Sugarfina
-    *   Beauty Best Sellers
-    *   Decor We Love
-    *   Virtual Date Night Ready: Lipsticks, Blushes &. More
-    *   Lamps Starting at $50
     *   Beach Essentials Starting at $15
+    *   Decor We Love
+    *   Sugarfina
+    *   Men's Designer Styles Up to 80% Off
+    *   Beauty Best Sellers
+    *   Virtual Date Night Ready: Lipsticks, Blushes &. More
+    *   Bottoms Under $35 Incl. Plus &. Petites
     *   Summer Essentials: Tees &. Tanks Under $15
     *   Summer Essentials: Sport Bras, Tanks &. Crops
     *   Midi Dresses Under $50
 *   WomenShop Sale Events
     
+    *   FRAME Up to 75% Off
+    *   Protective Mask Sets
+    *   Plus Summer Styles Up to 70% Off
+    *   Clarks Comfort Shoes Under $60
+    *   Petite Summer Styles Up to 70% Off
+    *   Sun-sational Styles Incl. Plus Up to 70% Off
+    *   Summer Splash: Cover-Ups We Love
+    *   Standout Shoes Up to 65% Off
+    *   Belts for Every Occasion ft. Michael Kors
+    *   Fresh Shoe Finds
+    *   Our Exclusive Shoes ft. BP. &. Abound
+    *   Road-Trip Essentials: Luggage, Duffels &. More
     *   Designer Shoes Up to 60% Off
     *   Designer Styles Up to 70% Off
     *   Keep It Short: Mini Dresses
     *   Smocked Styles Under $30 Incl. Plus &. Petites
+    
     *   Summer Ruffles: Styles Under $30 Incl. Plus &. Petites
     *   Skirts Under $35
     *   Season's Best Jackets Up to 70% Off
@@ -74,19 +90,10 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Nine West Up to 60% Off
     *   Louise Et Cie Up to 60% Off
     *   Good American Up to 70% Off
-    *   Designer Sunglasses Under $90
-    *   Franco Sarto Up to 60% Off
-    
     *   Gold Jewelry ft. Ron Hami
-    *   Woven Tops Under $20 Incl. Plus &. Petites
-    *   Bottoms Under $35 Incl. Plus &. Petites
-    *   One-Piece Swimwear Up to 70% Off
-    *   ECCO Up to 65% Off
-    *   Kate Spade New York Up to 75% Off
-    *   Kate Spade New York Shoes Up to 60% Off
-    *   Kate Spade New York Clothing Up to 70% Off
     *   Beauty Best Sellers
     *   Virtual Date Night Ready: Lipsticks, Blushes &. More
+    *   Bottoms Under $35 Incl. Plus &. Petites
     *   Summer Essentials: Tees &. Tanks Under $15
     *   Summer Essentials: Sport Bras, Tanks &. Crops
     *   Midi Dresses Under $50
@@ -98,22 +105,23 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Jewelry
     *   Accessories
     *   Lingerie &. Shapewear
-    *   Watches
 *   MenShop Sale Events
     
+    *   FRAME Men Up to 60% Off
+    *   Protective Mask Sets
+    *   Dress Shirts Up to 70% Off
+    *   Road-Trip Essentials: Luggage, Duffels &. More
+    *   Exclusively Ours: Men's Shoes
     *   Men's Designer Shoes Up to 70% Off
-    *   Men's Designer Styles Up to 80% Off
     *   Work From Home: Blue-Light Glasses ft. Quay
+    
     *   On-Trend Summer Shirts for Him
     *   Dive In: Men's Swimwear Starting at $20
     *   Dress Up: Men's Suiting
-    
     *   Men's Chinos &. More Up to 75% Off
     *   Men's Slip-Ons Up to 70% Off
-    *   Perfect Pairing: Denim &. Sport Coats Under $150
-    *   Summer Essentials: Men's Tees &. Tanks Under $20
     *   Men's Boots Up to 70% Off
-    *   Men's Sneakers Up to 70% Off
+    *   Men's Designer Styles Up to 80% Off
     
     Shop By Category
     *   Clothing
@@ -121,36 +129,37 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Summer Style: Kids' Sandals from $15
+    *   Trending Now: Baby Gear ft. DockATot
     *   Kids' Basics Starting at $10
     *   Kids' Modern Styles ft. Sovereign Code
     *   Play All Day: Toys Starting at $10
     *   Dress Up: Kids' Styles Up to 60% Off
-    *   Boys' Summer Styles Up to 65% Off
-    *   Girls' Summer Styles Up to 65% Off
     
     Shop By Category
     *   Boys
     *   Girls
     *   Baby
     *   Toys
+    *   Girls' Shoes
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
     *   Kate Spade New York Home &. Bath
-    *   Sugarfina
-    *   Decor We Love
-    *   Lamps Starting at $50
     *   Beach Essentials Starting at $15
+    *   Decor We Love
+    *   Sugarfina
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Outdoor Living
     *   Bedding
+    *   Luggage &. Travel
     *   Pet Accessories
     *   Accent Furniture
-    *   Luggage &. Travel
-    *   Bath
     *   Cleaning &. Organization
+    *   Bath
     *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
