@@ -174,7 +174,7 @@ Menu
         *   Our business areas and teams
         *   Overview
         *   Commercial Banking
-        *   Global Banking and Markets
+        *   Global Banking &. Markets
         *   Wealth and Personal Banking
         *   Operations, Services and Technology
         *   Global Functions
@@ -530,5 +530,3 @@ If you’d like to accept all optional cookies, select ‘Accept all cookies’.
 To learn more about how we use cookies, visit our Cookie notice.
 
 Accept all cookiesManage cookie settings
-
-Notification appeared: Cookies on this website
