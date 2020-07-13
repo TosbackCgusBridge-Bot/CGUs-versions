@@ -9,9 +9,29 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   High-Summer Sale: Styles Incl. Plus Up to 80% Off
+    *   Summer Active Styles Up to 65% Off
+    *   Women's Shoes Under $30
+    *   Men's Shoe Blowout
+    *   Men's Style Blowout
+    *   Sorel
+    *   Go Long: Maxi Dresses
+    *   Summer Tops Under $25 Incl. Plus &. Petites
+    *   Angie Incl. Plus
+    *   Summer Shorts &. Skirts Incl. Plus Up to 75% Off
+    *   Swim Essentials: Chic One-Pieces Under $40
+    *   Sorel Men
+    *   Made in Italy: Gold Jewelry &. More
+    *   Men's Summer Polos Under $30
+    *   Cozy at Home: PJs, Lounge &. More ft. Free Press
+    *   Diamond Watches ft. Bulova
+    *   Sorel Kids
+    *   Top Drawer: Underwear, Socks &. More for Him
+    *   Nest Fragrance
+    *   Sweet Dreams: Kids' Sleep Essentials
+    
     *   FRAME Up to 75% Off
     *   FRAME Men Up to 60% Off
-    *   Protective Mask Sets
     *   Plus Summer Styles Up to 70% Off
     *   Clarks Comfort Shoes Under $60
     *   Petite Summer Styles Up to 70% Off
@@ -26,10 +46,11 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Summer Style: Kids' Sandals from $15
     *   Exclusively Ours: Men's Shoes
     *   Trending Now: Baby Gear ft. DockATot
+    *   Protective Mask Sets
     *   Designer Shoes Up to 60% Off
-    
     *   Designer Styles Up to 70% Off
     *   Men's Designer Shoes Up to 70% Off
+    
     *   Keep It Short: Mini Dresses
     *   Smocked Styles Under $30 Incl. Plus &. Petites
     *   Summer Ruffles: Styles Under $30 Incl. Plus &. Petites
@@ -40,48 +61,48 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   On-Trend Summer Shirts for Him
     *   Dive In: Men's Swimwear Starting at $20
     *   Nine West Up to 60% Off
-    *   Kids' Basics Starting at $10
+    *   Men's Designer Styles Up to 80% Off
     *   Louise Et Cie Up to 60% Off
     *   Kids' Modern Styles ft. Sovereign Code
-    *   Good American Up to 70% Off
-    *   Gold Jewelry ft. Ron Hami
-    *   Dress Up: Men's Suiting
-    
     *   Play All Day: Toys Starting at $10
     *   Dress Up: Kids' Styles Up to 60% Off
-    *   Men's Chinos &. More Up to 75% Off
+    *   Sugarfina
     *   Men's Slip-Ons Up to 70% Off
     *   Kate Spade New York Home &. Bath
-    *   Men's Boots Up to 70% Off
-    *   Beach Essentials Starting at $15
     *   Decor We Love
-    *   Sugarfina
-    *   Men's Designer Styles Up to 80% Off
-    *   Beauty Best Sellers
-    *   Virtual Date Night Ready: Lipsticks, Blushes &. More
-    *   Bottoms Under $35 Incl. Plus &. Petites
-    *   Summer Essentials: Tees &. Tanks Under $15
-    *   Summer Essentials: Sport Bras, Tanks &. Crops
-    *   Midi Dresses Under $50
+    *   Kids' Basics Starting at $10
 *   WomenShop Sale Events
     
+    *   High-Summer Sale: Styles Incl. Plus Up to 80% Off
+    *   Summer Active Styles Up to 65% Off
+    *   Women's Shoes Under $30
+    *   Sorel
+    *   Go Long: Maxi Dresses
+    *   Summer Tops Under $25 Incl. Plus &. Petites
+    *   Angie Incl. Plus
+    *   Summer Shorts &. Skirts Incl. Plus Up to 75% Off
+    *   Swim Essentials: Chic One-Pieces Under $40
+    *   Made in Italy: Gold Jewelry &. More
+    *   Cozy at Home: PJs, Lounge &. More ft. Free Press
+    *   Diamond Watches ft. Bulova
+    *   Nest Fragrance
     *   FRAME Up to 75% Off
-    *   Protective Mask Sets
     *   Plus Summer Styles Up to 70% Off
     *   Clarks Comfort Shoes Under $60
     *   Petite Summer Styles Up to 70% Off
     *   Sun-sational Styles Incl. Plus Up to 70% Off
+    
     *   Summer Splash: Cover-Ups We Love
     *   Standout Shoes Up to 65% Off
     *   Belts for Every Occasion ft. Michael Kors
     *   Fresh Shoe Finds
     *   Our Exclusive Shoes ft. BP. &. Abound
     *   Road-Trip Essentials: Luggage, Duffels &. More
+    *   Protective Mask Sets
     *   Designer Shoes Up to 60% Off
     *   Designer Styles Up to 70% Off
     *   Keep It Short: Mini Dresses
     *   Smocked Styles Under $30 Incl. Plus &. Petites
-    
     *   Summer Ruffles: Styles Under $30 Incl. Plus &. Petites
     *   Skirts Under $35
     *   Season's Best Jackets Up to 70% Off
@@ -89,39 +110,35 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Work From Home: Blue-Light Glasses ft. Quay
     *   Nine West Up to 60% Off
     *   Louise Et Cie Up to 60% Off
-    *   Good American Up to 70% Off
-    *   Gold Jewelry ft. Ron Hami
-    *   Beauty Best Sellers
-    *   Virtual Date Night Ready: Lipsticks, Blushes &. More
-    *   Bottoms Under $35 Incl. Plus &. Petites
-    *   Summer Essentials: Tees &. Tanks Under $15
-    *   Summer Essentials: Sport Bras, Tanks &. Crops
-    *   Midi Dresses Under $50
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Handbags
-    *   Jewelry
     *   Accessories
     *   Lingerie &. Shapewear
+    *   Jewelry
+    *   Watches
 *   MenShop Sale Events
     
+    *   Men's Shoe Blowout
+    *   Men's Style Blowout
+    *   Sorel Men
+    *   Men's Summer Polos Under $30
+    *   Diamond Watches ft. Bulova
+    *   Top Drawer: Underwear, Socks &. More for Him
     *   FRAME Men Up to 60% Off
-    *   Protective Mask Sets
     *   Dress Shirts Up to 70% Off
     *   Road-Trip Essentials: Luggage, Duffels &. More
+    
     *   Exclusively Ours: Men's Shoes
+    *   Protective Mask Sets
     *   Men's Designer Shoes Up to 70% Off
     *   Work From Home: Blue-Light Glasses ft. Quay
-    
     *   On-Trend Summer Shirts for Him
     *   Dive In: Men's Swimwear Starting at $20
-    *   Dress Up: Men's Suiting
-    *   Men's Chinos &. More Up to 75% Off
-    *   Men's Slip-Ons Up to 70% Off
-    *   Men's Boots Up to 70% Off
     *   Men's Designer Styles Up to 80% Off
+    *   Men's Slip-Ons Up to 70% Off
     
     Shop By Category
     *   Clothing
@@ -129,12 +146,14 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Sorel Kids
+    *   Sweet Dreams: Kids' Sleep Essentials
     *   Summer Style: Kids' Sandals from $15
     *   Trending Now: Baby Gear ft. DockATot
-    *   Kids' Basics Starting at $10
     *   Kids' Modern Styles ft. Sovereign Code
     *   Play All Day: Toys Starting at $10
     *   Dress Up: Kids' Styles Up to 60% Off
+    *   Kids' Basics Starting at $10
     
     Shop By Category
     *   Boys
@@ -145,35 +164,23 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Boys' Shoes
 *   HomeShop Sale Events
     
-    *   Kate Spade New York Home &. Bath
-    *   Beach Essentials Starting at $15
-    *   Decor We Love
     *   Sugarfina
+    *   Kate Spade New York Home &. Bath
+    *   Decor We Love
     
     Shop By Category
     *   Home Decor
-    *   Kitchen &. Tabletop
-    *   Outdoor Living
-    *   Bedding
     *   Luggage &. Travel
+    *   Kitchen &. Tabletop
+    *   Bedding
     *   Pet Accessories
     *   Accent Furniture
     *   Cleaning &. Organization
-    *   Bath
+    *   Outdoor Living
     *   Electronic &. Tech Accessories
+    *   Bath
 *   BeautyShop Sale Events
-    
-    *   Beauty Best Sellers
-    *   Virtual Date Night Ready: Lipsticks, Blushes &. More
-    
-    Shop By Category
-    *   Makeup
-    *   Skin Care
-    *   Fragrance
-    *   Men’s Grooming
-    *   Hair Care
-    *   Tools &. Accessories
-    *   Bath &. Body
+    *   Nest Fragrance
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
