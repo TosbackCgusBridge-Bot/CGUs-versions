@@ -4,8 +4,8 @@
 *   Español
 
 *   Donate
-*   About Us
-    *   About Us
+*   ABOUT US
+    *   ABOUT US
     *   Who We Are
         *   Our People
         *   Our Science
