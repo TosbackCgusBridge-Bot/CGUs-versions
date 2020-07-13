@@ -23,7 +23,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-**Girls' Arizona Tee**select stylesGirls' Arizona Leggingsselect stylesKids' Xersion Graphic Teeselect stylesGuys' Arizona Teeselect stylesa.n.a V-Neck TeeJCPenney Home30x54" Bath TowelANY SIZEJCPenney HomeBayview Curtainselect stylesMen's Xersion Shortsselect stylesMen'sSt. John's Bay Poloselect stylesa.n.a or St. John's BayShortsselect stylesLiz ClaiborneLinen-Cotton Tank TopMen's StaffordEasy Care Dress Shirtselect stylesUP TO 50% OFF Home SaleDestination? Relaxation. select styles
+**Girls' Arizona Tee**select stylesGirls' Arizona Leggingsselect stylesKids' Xersion Graphic Teeselect stylesa.n.a V-Neck TeeGuys' Arizona Teeselect stylesJCPenney Home30x54" Bath TowelANY SIZEJCPenney HomeBayview Curtainselect stylesMen's Xersion Shortsselect stylesMen'sSt. John's Bay Poloselect stylesa.n.a or St. John's BayShortsselect stylesLiz ClaiborneLinen-Cotton Tank TopMen's StaffordEasy Care Dress Shirtselect stylesUP TO 50% OFF Home SaleDestination? Relaxation. select styles
 
 *   Shop All
 
@@ -36,7 +36,7 @@ Enable Accessibility
 *   Bath Towels
     
 
-Men's ShirtsMen's ShortsWomen's TopsWomen's Shorts WomenMenKids NikeadidasChampion**EXTRA 25% OFF** Select Fine jewelry at the VIP Jewelry SaleGet Details
+Men's ShirtsMen's ShortsWomen's TopsWomen's Shorts**EXTRA 25% OFF** Select Fine jewelry at the VIP Jewelry SaleGet Details
 
 *   Shop Jewelry
 
@@ -49,100 +49,35 @@ Men's ShirtsMen's ShortsWomen's TopsWomen's Shorts WomenMenKids NikeadidasCham
 *   Fashion Silver
     
 
-Shop JewelryFurniture &. Mattress SALEUP TO 60% OFF+EXTRA 10% OFF WITH couponEnds 7/15 | select stylesMattressesFurniture  Learn More  Shop Now Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
+Shop Jewelry WomenMenKidsApparelShoes BackpacksFurniture &. Mattress SALEUP TO 60% OFF+EXTRA 10% OFF WITH couponEnds 7/15 | select stylesMattressesFurniture  Learn More  Shop Now Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
+*   St. John's Bay-Womens V Neck Short Sleeve T-Shirt
     
-    $29.99sale
+    $7sale
     
-    ~$85~
-*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
+    ~$14~24
+*   Nike Benassi JDI Mens Slide Sandals
     
-    $20sale
+    $18.75sale
     
-    ~$124.98~191
+    ~$25~102
+*   St. John's Bay Mid Rise Capris
+    
+    $14.99sale
+    
+    ~$32~40
+*   a.n.a-Womens Round Neck Short Sleeve T-Shirt
+    
+    $7sale
+    
+    ~$13~37
+*   JCPenney Home Performance Bath Towel Collection $3.75 - $29.25with code~$10 - $76~352
 *   Cooks 1.5 Quart Slow Cooker
     
     $11sale
     
     ~$22~334
-*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
-    
-    $20sale
-    
-    ~$124.98~134
-*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $22.49 - $40.49with code~$50 - $90~220
-*   Regal Home Collections, Inc. Sterling Embroidery Energy Saving Blackout Grommet-Top Single Curtain Panel $11.25with code~$40 - $60~23
-
-Sponsored Items
-
-*   Farberware Cookstart 15-pc. Cookware Set $67.49with code~$120~62
-*   Fisher-Price Laugh &. Learn Smart Stages Sis
-    
-    $15.99sale
-    
-    ~$19.99~50
-*   Yves Saint Laurent Mon Paris Eau de Parfum
-    
-    $74 - $124
-    
-    655
-*   Dyson® V8 Animal Cord-Free Vacuum
-    
-    $569.99sale
-    
-    ~$669~186
-*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $14.99with code~$30~
-*   Bissell® SpinWave® Hard Floor Spin Mop
-    
-    $129
-    
-    1030
-*   Shea Moisture Coconut &. Hibiscus Shampoo - 13 oz. $9.89with code86
-*   Rachael Ray Create Delicious 13-pc. Aluminum Non-Stick Cookware Set
-    
-    $189.99sale
-    
-    ~$240~192
-*   Ayesha Curry™ Home Collection 12-pc. Cookware Set
-    
-    $159.99sale
-    
-    ~$240~23
-*   Circulon® Momentum 11-pc. Nonstick Cookware Set $179.99with code~$400~136
-*   YVES SAINT LAURENT Libre Eau De Parfum
-    
-    $78 - $130
-    
-    398
-*   Fisher-Price Rock-A-Stack Clacker
-    
-    $4.49
-    
-*   Fisher-Price Learn with Me Zebra Walker
-    
-    $24.99
-    
-    40
-*   Yves Saint Laurent Y Eau Fraiche
-    
-    $77 - $95
-    
-    138
-*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
-    
-    $14.99
-    
-    10
-*   Fisher-Price Soothe and Go Giraffe
-    
-    $9.99
-    
-*   Lock &. Lock 14-pc. Food Container $26.24with code~$50~
-*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $89.99with code~$180~55
-*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $89.99with code~$140 - $160~94
-*   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $89.99with code~$180~36
 
 Shop and Save at JCPenney
 
