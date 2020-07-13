@@ -252,17 +252,17 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
-    *   Hidden Cobra built global exfiltration network for Magecart skimming scheme
-    *   OSX.EvilQuest ransomware targets Macs. Ransom X blamed for TxDOT attack
-    *   Conti ransomware encrypts files quicker, targets SMB network shares
-    *   Resilience improved, but response dragged down by too many tools, too few playbooks, report says
-    *   Cybercriminals likely poised to attack as Adobe ends support for Magento 1
+    *   Flaws in SETracker watch app posed danger to dementia patients
+    *   U.S. universities at risk of back-to-school and Covid-19 email fraud
+    *   Inside the Dark Web: 4 Misconceptions and How Security Teams Can Change Minds and Benefit
+    *   Credit card skimmer preyed on old ASP.NET-powered websites with shopping carts
+    *   Exposed dating service databases leak sensitive info on romance-seekers
     
-    *   Only a Public-Private Partnership Can Secure the Electric Grid
-    *   Cybercriminals likely poised to attack as Adobe ends support for Magento 1
-    *   Eight cities using Click2Gov targeted in Magecart skimming attacks
-    *   EARN IT passes Senate Judiciary, stokes concerns over erosion of end-to-end encryption
-    *   Hidden purpose of Mac 'ransomware' EvilQuest is data exfiltration, say researchers
+    *   EDP Renewables says PII compromised in Ragnar Locker attack
+    *   'GoldenSpy' tax software campaign tries to erase evidence of malware
+    *   Inside the Dark Web: 4 Misconceptions and How Security Teams Can Change Minds and Benefit
+    *   Cyber Command urges orgs to implement F5 patch for BIG-IP configuration interface flaw
+    *   Even during pandemic, healthcare orgs successfully fending off attacks
     
     *   Trump commutes Roger Stone's sentence stemming from Mueller probe
     *   Biden's new CISO must keep campaign leaders engaged while navigating strange Covid-19 world
