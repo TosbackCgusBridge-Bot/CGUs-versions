@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Sunday, July 12, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Tuesday, July 14, 2020  
 
 DEBKAfile
 
@@ -44,6 +44,22 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   The persistent Covid-19 upsurge is of great concern – Prof. Hezi Levi
+    
+    Jul 13, 2020 @ 19:43
+    
+*   Israel’s coronavirus death toll rises by eight in 24 hours
+    
+    Jul 12, 2020 @ 21:11
+    
+*   Khamenei urges everyone to help stem the region’s worst covid-19 outbreak
+    
+    Jul 12, 2020 @ 16:48
+    
+*   Donald Trump wears a mask – his first
+    
+    Jul 12, 2020 @ 08:52
+    
 *   Erdogan rebuffs condemnation of Hagia Sophia’s change to a mosque
     
     Jul 12, 2020 @ 08:32
@@ -51,39 +67,15 @@ Breaking news
 *   The Tel Aviv protest rally ends in rampage. 19 arrested
     
     Jul 12, 2020 @ 08:22
-    
-*   Some 10,000 rally in Rabin Sq. to protest covid-19-induced penury
-    
-    Jul 11, 2020 @ 21:46
-    
-*   Tel Aviv main streets shut off for anti-government protest rally Saturday night
-    
-    Jul 11, 2020 @ 16:54
-    
-*   Active coronavirus cases in Israel jump again by 1,353
-    
-    Jul 11, 2020 @ 16:43
-    
-*   Government relief for covid-19-hit businesses ramped up after stormy meeting
-    
-    Jul 10, 2020 @ 17:35
     
 
-*   Some 10,000 rally in Rabin Sq. to protest covid-19-induced penury
+*   Khamenei urges everyone to help stem the region’s worst covid-19 outbreak
     
-    Jul 11, 2020 @ 21:46
+    Jul 12, 2020 @ 16:48
     
-*   Tel Aviv main streets shut off for anti-government protest rally Saturday night
+*   Donald Trump wears a mask – his first
     
-    Jul 11, 2020 @ 16:54
-    
-*   Active coronavirus cases in Israel jump again by 1,353
-    
-    Jul 11, 2020 @ 16:43
-    
-*   Government relief for covid-19-hit businesses ramped up after stormy meeting
-    
-    Jul 10, 2020 @ 17:35
+    Jul 12, 2020 @ 08:52
     
 *   Erdogan rebuffs condemnation of Hagia Sophia’s change to a mosque
     
@@ -93,21 +85,21 @@ Breaking news
     
     Jul 12, 2020 @ 08:22
     
-*   Some 10,000 rally in Rabin Sq. to protest covid-19-induced penury
+*   The persistent Covid-19 upsurge is of great concern – Prof. Hezi Levi
     
-    Jul 11, 2020 @ 21:46
+    Jul 13, 2020 @ 19:43
     
-*   Tel Aviv main streets shut off for anti-government protest rally Saturday night
+*   Israel’s coronavirus death toll rises by eight in 24 hours
     
-    Jul 11, 2020 @ 16:54
+    Jul 12, 2020 @ 21:11
     
-*   Active coronavirus cases in Israel jump again by 1,353
+*   Khamenei urges everyone to help stem the region’s worst covid-19 outbreak
     
-    Jul 11, 2020 @ 16:43
+    Jul 12, 2020 @ 16:48
     
-*   Government relief for covid-19-hit businesses ramped up after stormy meeting
+*   Donald Trump wears a mask – his first
     
-    Jul 10, 2020 @ 17:35
+    Jul 12, 2020 @ 08:52
     
 *   Erdogan rebuffs condemnation of Hagia Sophia’s change to a mosque
     
@@ -117,13 +109,21 @@ Breaking news
     
     Jul 12, 2020 @ 08:22
     
-*   Some 10,000 rally in Rabin Sq. to protest covid-19-induced penury
+*   The persistent Covid-19 upsurge is of great concern – Prof. Hezi Levi
     
-    Jul 11, 2020 @ 21:46
+    Jul 13, 2020 @ 19:43
     
-*   Tel Aviv main streets shut off for anti-government protest rally Saturday night
+*   Israel’s coronavirus death toll rises by eight in 24 hours
     
-    Jul 11, 2020 @ 16:54
+    Jul 12, 2020 @ 21:11
+    
+*   Khamenei urges everyone to help stem the region’s worst covid-19 outbreak
+    
+    Jul 12, 2020 @ 16:48
+    
+*   Donald Trump wears a mask – his first
+    
+    Jul 12, 2020 @ 08:52
     
 
 12PrevNext
