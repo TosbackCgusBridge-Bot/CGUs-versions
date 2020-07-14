@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Kubernetes from cloud to edge: A US virtual event
+*   Robotics Recap: Learning, Programming &. Snapping ROS 2
 *   Ubuntu Support of AWS Graviton2 Instances
-*   How to manage snap updates
-*   MicroK8s HA tech preview is now available
