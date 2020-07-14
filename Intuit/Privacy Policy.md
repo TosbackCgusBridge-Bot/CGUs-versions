@@ -1,8 +1,5 @@
-Power Penney Days 100s of deals this weekend! Details  
-$20 OFF $75+ OR $10 OFF $50+ with code: 4MORE Details  
-EXTRA 25% OFF home &. jewelry with code: SHOP76 Details  
-Free Shipping Over $49  DetailsOur stores are now open  +Try curbside pickup today! DetailsPower Penney Days 100s of deals this weekend! Details  
-$20 OFF $75+ OR $10 OFF $50+ with code: 4MORE Details  
+Our COVID-19 response  DetailsOnline only—ends Wednesday! EXTRA 30% OFF w/ code: NEWLOOK8 Details  
+Free Shipping Over $49  DetailsOur stores are now open  +Try curbside pickup today! DetailsOur COVID-19 response  DetailsOnline only—ends Wednesday! EXTRA 30% OFF w/ code: NEWLOOK8 Details  
 
 Enable Accessibility
 
@@ -23,61 +20,127 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-**Girls' Arizona Tee**select stylesGirls' Arizona Leggingsselect stylesKids' Xersion Graphic Teeselect stylesa.n.a V-Neck TeeGuys' Arizona Teeselect stylesJCPenney Home30x54" Bath TowelANY SIZEJCPenney HomeBayview Curtainselect stylesMen's Xersion Shortsselect stylesMen'sSt. John's Bay Poloselect stylesa.n.a or St. John's BayShortsselect stylesLiz ClaiborneLinen-Cotton Tank TopMen's StaffordEasy Care Dress Shirtselect stylesUP TO 50% OFF Home SaleDestination? Relaxation. select styles
+BUY 1 GET 1 50% OFF\*all your basic needs | select styles**Boys** **Girls** **Men** **Women**\*Buy one item at regular price, get a second item of equal or lesser value for 50% off, while supplies last.   ApparelShoesBackpacksFor HerFor HimBoysGirlsUP TO 40% OFF Kitchen essentials Cooking must-haves for quick &. easy meals.select styles
 
 *   Shop All
 
-*   Bedding
+*   Cookware
     
-*   Sheets
+*   Air Fryers
     
-*   Window
+*   Coffee Makers
     
-*   Bath Towels
-    
-
-Men's ShirtsMen's ShortsWomen's TopsWomen's Shorts**EXTRA 25% OFF** Select Fine jewelry at the VIP Jewelry SaleGet Details
-
-*   Shop Jewelry
-
-*   Modern Bride
-    
-*   Gold &. Fine Silver
-    
-*   Gemstone Jewelry
-    
-*   Fashion Silver
+*   Cutlery
     
 
-Shop Jewelry WomenMenKidsApparelShoes BackpacksFurniture &. Mattress SALEUP TO 60% OFF+EXTRA 10% OFF WITH couponEnds 7/15 | select stylesMattressesFurniture  Learn More  Shop Now Selections may vary, while supplies last. Clearance percentages are based on regular and original prices. Intermediate markdowns may have been taken.  
-Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+Shop AllCasual Looks for HerCasual Looks for HimBeauty (retail) therapy Freshen up your routine with faves from Salon &. Sephora inside JCPenney.Haircare—go big or go homeStock up on all your value-sized faves.SEPHORA COLLECTION Makeup, Starting at $10select styles | Excluded from coupons.UP TO 50% OFF School Uniforms Comfy styles that are first in class &. made to last.select styles
 
-*   St. John's Bay-Womens V Neck Short Sleeve T-Shirt
+*   Shop All
+
+Furniture &. Mattress SALEUP TO 60% OFF+EXTRA 10% OFF WITH couponEnds 7/15 | select stylesMattressesFurniture  Learn More  Shop Now Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+
+*   Xersion Womens Performance Tank Top
     
-    $7sale
+    $2.19 - $6.99
     
-    ~$14~24
-*   Nike Benassi JDI Mens Slide Sandals
+    315
+*   Liz Claiborne Womens Crew Neck Sleeveless Tank Top $25.90with code5
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
-    $18.75sale
+    $25sale
     
-    ~$25~102
-*   St. John's Bay Mid Rise Capris
+    ~$124.98~134
+*   St. John's Bay-Womens Crew Neck Short Sleeve T-Shirt $4.89with code~$14~39
+*   Nike Tanjun Womens Running Shoes
     
-    $14.99sale
+    $54.99sale
     
-    ~$32~40
-*   a.n.a-Womens Round Neck Short Sleeve T-Shirt
-    
-    $7sale
-    
-    ~$13~37
-*   JCPenney Home Performance Bath Towel Collection $3.75 - $29.25with code~$10 - $76~352
+    ~$65~
 *   Cooks 1.5 Quart Slow Cooker
     
-    $11sale
+    $22
     
-    ~$22~334
+    334
+
+Sponsored Items
+
+*   Dyson® V8 Animal Cord-Free Vacuum
+    
+    $569.99sale
+    
+    ~$669~186
+*   Yves Saint Laurent Mon Paris Eau de Parfum
+    
+    $74 - $124
+    
+    655
+*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $83.99with code~$180~55
+*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
+    
+    $14.99
+    
+    10
+*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $13.99with code~$30~
+*   Shea Moisture Jamaican Black Castor Oil Hair Lotion-8 oz. $9.89with code33
+*   Rachael Ray Create Delicious 12.5" Deep Skillet Aluminum Non-Stick Skillet
+    
+    $39.99sale
+    
+    ~$60~57
+*   Yves Saint Laurent Black Opium
+    
+    $74 - $124
+    
+    5506
+*   Bissell® SpinWave® Hard Floor Spin Mop
+    
+    $129
+    
+    1033
+*   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~136
+*   Fisher-Price Rock-A-Stack Clacker
+    
+    $4.49
+    
+*   YVES SAINT LAURENT Libre Eau De Parfum
+    
+    $78 - $130
+    
+    399
+*   Fisher-Price Laugh &. Learn Smart Stages Sis
+    
+    $19.99
+    
+    50
+*   Fisher-Price Soothe and Go Giraffe
+    
+    $9.99
+    
+*   Fisher-Price Linkimals Smooth Moves Sloth
+    
+    $29.99
+    
+    36
+*   Fisher-Price Laugh &. Learn Smart Stages Puppy
+    
+    $19.99
+    
+*   Fisher-Price Learn with Me Zebra Walker
+    
+    $24.99
+    
+    40
+*   Fisher-Price Classic Xylophone
+    
+    $15.99
+    
+    7
+*   Fisher-Price Linkimals A To Z Otter
+    
+    $19.99
+    
+    23
+*   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $83.99with code~$180~36
 
 Shop and Save at JCPenney
 
