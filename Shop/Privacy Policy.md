@@ -35,7 +35,7 @@ Lenovo Explore Close
         
         Sale
         
-        Get special savings this summer on our best selling brands
+        Enjoy special savings on laptops for work, home or school while they last!
         
     *   Desktops
         
@@ -292,7 +292,7 @@ Lenovo Explore Close
         
         Things to consider when choosing a laptop
         
-    *   Sale
+    *   Cyber Monday
         
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
@@ -341,6 +341,7 @@ Lenovo Explore Close
         *   CoSPs
         
         *   ‏‏‎
+        *   Database
         *   DevOps
         *   High-Performance Computing
         *   Hyperscale Computing
@@ -647,6 +648,7 @@ Lenovo Explore Close
     *   Product registration
     *   Logout
 *   Cart
+*   Accessibility
 *   LenovoPro
     *   Sign In To LenovoPro
     *   Learn more
@@ -676,6 +678,7 @@ Lenovo Explore Close
     *   Product registration
     *   Logout
 *   Cart
+*   Accessibility
 *   LenovoPro
     *   Sign In To LenovoPRO For Small Business
     *   Learn more
@@ -692,6 +695,7 @@ Lenovo Explore Close
     *   Product registration
     *   Logout
 *   Cart
+*   Accessibility
 *   LenovoPro
     *   Sign In To LenovoPRO For Small Business
     *   Learn more
@@ -708,6 +712,7 @@ Lenovo Explore Close
     *   Product registration
     *   Logout
 *   Cart
+*   Accessibility
 
 Top Suggestions
 
