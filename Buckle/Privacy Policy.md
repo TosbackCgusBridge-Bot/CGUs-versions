@@ -1,4 +1,4 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content \* Due to circumstances outside of our control you could potentially see impacts to deliveries. \* Ready to wear in-season markdowns at up to 75% off. shop now Buckle has begun to open our stores. Find Your Store for up-to-date information.
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content \* Due to circumstances outside of our control you could potentially see impacts to deliveries. \* You are invited to our once-a-year Guest Giveback Event, starting July 16th! Buckle has begun to open our stores. Find Your Store for up-to-date information.
 
 *   United States
 *   FIND A STORE
@@ -6,7 +6,7 @@
 
 *   Buckle has begun to open our stores. Find Your Store for up-to-date information.
 *   \* Due to circumstances outside of our control you could potentially see impacts to deliveries. \*
-*   Ready to wear in-season markdowns at up to 75% off. shop now
+*   You are invited to our once-a-year Guest Giveback Event, starting July 16th!
 *   Buckle has begun to open our stores. Find Your Store for up-to-date information.
 *   \* Due to circumstances outside of our control you could potentially see impacts to deliveries. \*
 
