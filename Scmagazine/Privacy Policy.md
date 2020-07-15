@@ -252,23 +252,23 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
-    *   Trump approved 2018 retaliatory cyberattack on Russia's IRA
-    *   Open S3 bucket exposes one million files of fitness brand V Shred
+    *   LeBron James among the 1st stars to have their stolen law firm files put up for auction
     *   Credit card skimmer preyed on old ASP.NET-powered websites with shopping carts
+    *   Are your fleet's vehicles leaking your data secrets?
+    *   SC Product Reviews: Endpoint Security
+    *   5 Ways vCISOs Move the Security Needle
+    
+    *   Are your fleet's vehicles leaking your data secrets?
+    *   EARN IT passes Senate Judiciary, stokes concerns over erosion of end-to-end encryption
+    *   USB a prevalent industrial vector vulnerability for OT systems
     *   5 Elements of Next-Gen Deception Technology
-    *   Microsoft issues two out-of-band patches for RCE flaws, one critical
-    
-    *   Tax software used by Chinese bank clients installs GoldenSpy backdoor
-    *   Trump commutes Roger Stone's sentence stemming from Mueller probe
-    *   Exposed dating service databases leak sensitive info on romance-seekers
-    *   Frequency, size of fines for failing to secure data will grow by 2025, report
-    *   ‘Mirai’ botnet successors’ co-developer sentenced to 13 months
-    
-    *   Trump commutes Roger Stone's sentence stemming from Mueller probe
-    *   Here are the hurdles that will face Biden’s new CISO
     *   Flaws in SETracker watch app posed danger to dementia patients
-    *   Citrix, Juniper and VMware patch array of vulnerabilities
-    *   U.S. universities at risk of back-to-school and Covid-19 email fraud
+    
+    *   More Chinese tax software found to dish out backdoor malware
+    *   Trump approved 2018 retaliatory cyberattack on Russia's IRA
+    *   CFAA will harm security researchers, EFF tells SCOTUS
+    *   Revengeful hacker leaks database info after researcher threatens to reveal identities
+    *   Trump commutes Roger Stone's sentence stemming from Mueller probe
 
 Back to Top
 
@@ -301,8 +301,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
-
-You can skip this ad in 1 seconds.
-
-Attend this virtual event! July 15-16, 2020
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
