@@ -37,13 +37,14 @@ Skip Navigation
         *   Society
         *   Governance
         *   Workforce
+        *   AT&T Believes℠
         *   WarnerMedia CSR
         *   AT&T Mexico CSR
         *   Vrio CSR
+        *   Xandr CSR
         *   Reporting
     *   Diversity &. Inclusion
     *   Ethics &. Compliance
-    *   AT&T Believes℠
 *   Careers
 *   News
     *   All News
