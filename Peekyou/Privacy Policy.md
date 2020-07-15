@@ -418,7 +418,7 @@ Music 6%  Photo Albums 2% 
     
 *   Show Less ...
 
-Web Search 6%  Images 2% 
+Web Search 5%  Images 1% 
 
 16
 
