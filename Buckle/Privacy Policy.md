@@ -179,6 +179,7 @@
         *   Bralettes
         *   Coats &. Jackets
         *   Jeans
+        *   Shoes
         *   Pants
         *   Shirts &. Blouses
         *   Shorts
