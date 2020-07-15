@@ -25,7 +25,7 @@ But we're still here to help, contact our friends at SmartMove.us to find servic
 
 See Offers Call 1-866-270-9684 Choose another location to see local deals and information Set Location Set Location Terms and Conditions TERMS AND CONDITIONS
 
-Sparklight® is a dba of Cable One, Inc. (NYSE:CAB0). In this document, "Cable One" means Cable One, Inc. and "Sparklight" means Sparklight® and includes any Cable One or Sparklight affiliate or subsidiary authorized to provide you with services. Specifically, Cable One affiliates or subsidiaries include Cable One VoIP LLC. Please read and review this document carefully before accessing further information on this website. By proceeding to access this website, you agree to be bound by the terms and conditions set forth below. If you do not wish to be bound by these terms and conditions, please do not access or use this website. Sparklight may modify this agreement and its terms and conditions, and such modified agreement shall be effective immediately upon posting. Your continued access to or use of this website shall be deemed your conclusive acceptance of the agreement and its terms and conditions and any modifications thereto.
+Sparklight® is a dba of Cable One, Inc. (NYSE:CABO). In this document, "Cable One" means Cable One, Inc. and "Sparklight" means Sparklight® and includes any Cable One or Sparklight affiliate or subsidiary authorized to provide you with services. Specifically, Cable One affiliates or subsidiaries include Cable One VoIP LLC. Please read and review this document carefully before accessing further information on this website. By proceeding to access this website, you agree to be bound by the terms and conditions set forth below. If you do not wish to be bound by these terms and conditions, please do not access or use this website. Sparklight may modify this agreement and its terms and conditions, and such modified agreement shall be effective immediately upon posting. Your continued access to or use of this website shall be deemed your conclusive acceptance of the agreement and its terms and conditions and any modifications thereto.
 
 In this site, Sparklight, Inc. has attempted to provide information that is accurate, complete, and reliable as of the time it was published or posted. However, Sparklight makes no representation about the suitability or accuracy of the content provided by third parties or other information published on this site. All documents and related graphics are provided "As Is" without warranty of any kind, either express or implied.
 
@@ -66,6 +66,7 @@ Legal
 *   Cable Service Guard
 *   Copyright Notice
 *   Annual Notice
+*   Subpoena Requests
 
 I Want To
 
