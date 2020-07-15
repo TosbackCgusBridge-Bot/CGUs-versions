@@ -31,7 +31,7 @@ Important Note: Sparklight®, may revise this Acceptable Use Policy from time to
 
 INTRODUCTION
 
-Sparklight is a dba of Cable One, Inc. (NYSE:CAB0). Sparklight provides a variety of Internet services to residences and businesses (the "Services"). The Sparklight residential service allows subscribers to connect to the Internet through a high-speed Internet access connection. The Services use resources that are shared with many other customers and each user benefits by being able to share these resources. However, as with any resource, the benefits provided must be balanced with duties and responsibilities so that all users can rely on them for a productive experience. Use of the Services, therefore, is subject to the rules and guidelines set forth below. Each customer of Sparklight is responsible for ensuring that the use of all Services provided to such customer complies with this Acceptable Use Policy (the "Policy"). ANY USER WHO DOES NOT AGREE TO BE BOUND BY THESE TERMS SHOULD IMMEDIATELY STOP USE OF THE SERVICES AND NOTIFY THE SPARKLIGHT CUSTOMER SERVICE DEPARTMENT SO THAT THE USER'S ACCOUNT MAY BE CLOSED.
+Sparklight is a dba of Cable One, Inc. (NYSE:CABO). Sparklight provides a variety of Internet services to residences and businesses (the "Services"). The Sparklight residential service allows subscribers to connect to the Internet through a high-speed Internet access connection. The Services use resources that are shared with many other customers and each user benefits by being able to share these resources. However, as with any resource, the benefits provided must be balanced with duties and responsibilities so that all users can rely on them for a productive experience. Use of the Services, therefore, is subject to the rules and guidelines set forth below. Each customer of Sparklight is responsible for ensuring that the use of all Services provided to such customer complies with this Acceptable Use Policy (the "Policy"). ANY USER WHO DOES NOT AGREE TO BE BOUND BY THESE TERMS SHOULD IMMEDIATELY STOP USE OF THE SERVICES AND NOTIFY THE SPARKLIGHT CUSTOMER SERVICE DEPARTMENT SO THAT THE USER'S ACCOUNT MAY BE CLOSED.
 
 I. PROHIBITED USES AND ACTIVITIES
 
@@ -221,6 +221,7 @@ Legal
 *   Cable Service Guard
 *   Copyright Notice
 *   Annual Notice
+*   Subpoena Requests
 
 I Want To
 
