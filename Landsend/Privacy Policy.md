@@ -24,7 +24,7 @@ Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Orde
 *   Sale
 *   Live chat
 
-Lands' End Sign In menu
+Lands' End let's get comfy™ Sign In menu
 
 0 Free Shipping on $75+
 
