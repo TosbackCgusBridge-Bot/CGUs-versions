@@ -82,7 +82,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 403 7016 1 855 403 7016
+    1 855 648 7021 1 855 648 7021
     
 
 *   Solutions By Function
@@ -151,7 +151,7 @@ Search
 
 *   Become a Client
     
-    1 855 403 7016 1 855 403 7016
+    1 855 648 7021 1 855 648 7021
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
