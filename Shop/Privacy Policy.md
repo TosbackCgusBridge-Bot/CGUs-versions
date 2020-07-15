@@ -734,7 +734,7 @@ Product Privacy
 
 Lenovo recognizes that privacy is of great importance to individuals everywhere – our customers, website visitors, product users… _everyone._ This is why the responsible use and protection of personal and other information under our care is a core Lenovo value. To learn more about our privacy practices, please click any of the links below. If you have any further questions or concerns, please feel free to reach us at privacy@lenovo.com.
 
-The privacy statement was last updated on 02/07/2018.
+These are the previous Lenovo website and product privacy statements that were in effect until July 14, 2020. To view the current Lenovo website and product privacy statements that went into effect on July 15, 2020, please click here.
 
 About This Statement
 
