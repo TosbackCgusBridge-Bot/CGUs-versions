@@ -6,9 +6,9 @@ Enable Accessibility
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
-*   Deals &. Trending
+*   Back to School
 *   Home &. Lifestyle
 *   Women
 *   Men
@@ -20,7 +20,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-BUY 1 GET 1 50% OFF\*all your basic needs | select styles**Boys** **Girls** **Men** **Women**\*Buy one item at regular price, get a second item of equal or lesser value for 50% off, while supplies last.   ApparelShoesBackpacksFor HerFor HimBoysGirlsUP TO 40% OFF Kitchen essentials Cooking must-haves for quick &. easy meals.select styles
+BUY 1 GET 1 50% OFF\*all your basic needs | select styles**Boys** **Girls** **Men** **Women**\*Buy one item at regular price, get a second item of equal or lesser value for 50% off, while supplies last.   For HerFor HimBoysGirlsApparelShoesBackpacksUP TO 40% OFF Kitchen essentials Cooking must-haves for quick &. easy meals.select styles
 
 *   Shop All
 
@@ -37,110 +37,30 @@ Shop AllCasual Looks for HerCasual Looks for HimBeauty (retail) therapy Freshen
 
 *   Shop All
 
-Furniture &. Mattress SALEUP TO 60% OFF+EXTRA 10% OFF WITH couponEnds 7/15 | select stylesMattressesFurniture  Learn More  Shop Now Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+Furniture &. Mattress SALEUP TO 60% OFF+EXTRA 10% OFF WITH couponEnds 7/15 | select stylesMattressesFurniture Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded in Media GalleryFollow @jcpenney   Learn More  Shop NowRecommended for You
 
-*   Xersion Womens Performance Tank Top
+*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
     
-    $2.19 - $6.99
+    $29.99sale
     
-    315
-*   Liz Claiborne Womens Crew Neck Sleeveless Tank Top $25.90with code5
+    ~$85~
+*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
+    
+    $25sale
+    
+    ~$124.98~192
 *   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
     $25sale
     
     ~$124.98~134
-*   St. John's Bay-Womens Crew Neck Short Sleeve T-Shirt $4.89with code~$14~39
-*   Nike Tanjun Womens Running Shoes
-    
-    $54.99sale
-    
-    ~$65~
+*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $24.49 - $44.09with code~$50 - $90~220
 *   Cooks 1.5 Quart Slow Cooker
     
     $22
     
     334
-
-Sponsored Items
-
-*   Dyson® V8 Animal Cord-Free Vacuum
-    
-    $569.99sale
-    
-    ~$669~186
-*   Yves Saint Laurent Mon Paris Eau de Parfum
-    
-    $74 - $124
-    
-    655
-*   Farberware® High Performance 17-pc. Nonstick Aluminum Cookware Set $83.99with code~$180~55
-*   Fisher-Price Laugh &. Learn Click &. Learn Laptop
-    
-    $14.99
-    
-    10
-*   Lock &. Lock 36-Pc. Assorted Food Storge 14-pc. Food Container $13.99with code~$30~
-*   Shea Moisture Jamaican Black Castor Oil Hair Lotion-8 oz. $9.89with code33
-*   Rachael Ray Create Delicious 12.5" Deep Skillet Aluminum Non-Stick Skillet
-    
-    $39.99sale
-    
-    ~$60~57
-*   Yves Saint Laurent Black Opium
-    
-    $74 - $124
-    
-    5506
-*   Bissell® SpinWave® Hard Floor Spin Mop
-    
-    $129
-    
-    1033
-*   Circulon® Momentum 11-pc. Nonstick Cookware Set $167.99with code~$400~136
-*   Fisher-Price Rock-A-Stack Clacker
-    
-    $4.49
-    
-*   YVES SAINT LAURENT Libre Eau De Parfum
-    
-    $78 - $130
-    
-    399
-*   Fisher-Price Laugh &. Learn Smart Stages Sis
-    
-    $19.99
-    
-    50
-*   Fisher-Price Soothe and Go Giraffe
-    
-    $9.99
-    
-*   Fisher-Price Linkimals Smooth Moves Sloth
-    
-    $29.99
-    
-    36
-*   Fisher-Price Laugh &. Learn Smart Stages Puppy
-    
-    $19.99
-    
-*   Fisher-Price Learn with Me Zebra Walker
-    
-    $24.99
-    
-    40
-*   Fisher-Price Classic Xylophone
-    
-    $15.99
-    
-    7
-*   Fisher-Price Linkimals A To Z Otter
-    
-    $19.99
-    
-    23
-*   Farberware® Pure Cook 12-pc. Nonstick Ceramic Cookware Set - Includes Prestige Tools $83.99with code~$180~36
+*   Regal Home Collections, Inc. Sterling Embroidery Energy Saving Blackout Grommet-Top Single Curtain Panel $28 - $42with code23
 
 Shop and Save at JCPenney
 
