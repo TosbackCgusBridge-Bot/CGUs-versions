@@ -20,7 +20,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-BUY 1 GET 1 50% OFF\*all your basic needs | select styles**Boys** **Girls** **Men** **Women**\*Buy one item at regular price, get a second item of equal or lesser value for 50% off, while supplies last.   For HerFor HimBoysGirlsApparelShoesBackpacksUP TO 40% OFF Kitchen essentials Cooking must-haves for quick &. easy meals.select styles
+UP TO 40% OFF Kitchen essentials Cooking must-haves for quick &. easy meals.select styles
 
 *   Shop All
 
@@ -33,11 +33,11 @@ BUY 1 GET 1 50% OFF\*all your basic needs | select styles**Boys** **Girls** **Me
 *   Cutlery
     
 
-Shop AllCasual Looks for HerCasual Looks for HimBeauty (retail) therapy Freshen up your routine with faves from Salon &. Sephora inside JCPenney.Haircare—go big or go homeStock up on all your value-sized faves.SEPHORA COLLECTION Makeup, Starting at $10select styles | Excluded from coupons.UP TO 50% OFF School Uniforms Comfy styles that are first in class &. made to last.select styles
+Shop AllBUY 1 GET 1 50% OFF\*all your basic needs | select styles**Boys** **Girls** **Men** **Women**\*Buy one item at regular price, get a second item of equal or lesser value for 50% off, while supplies last.   ApparelShoesBackpacksFor HerFor HimBoysGirlsCasual Looks for HerCasual Looks for HimUP TO 50% OFF School Uniforms Comfy styles that are first in class &. made to last.select styles
 
 *   Shop All
 
-Furniture &. Mattress SALEUP TO 60% OFF+EXTRA 10% OFF WITH couponEnds 7/15 | select stylesMattressesFurniture Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded in Media GalleryFollow @jcpenney   Learn More  Shop NowRecommended for You
+Beauty (retail) therapy Freshen up your routine with faves from Salon &. Sephora inside JCPenney.Haircare—go big or go homeStock up on all your value-sized faves.SEPHORA COLLECTION Makeup, Starting at $10select styles | Excluded from coupons.Furniture &. Mattress SALEUP TO 60% OFF+EXTRA 10% OFF WITH couponEnds 7/15 | select stylesMattressesFurniture  Learn More  Shop Now Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
 *   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
     
@@ -55,12 +55,16 @@ Furniture &. Mattress SALEUP TO 60% OFF+EXTRA 10% OFF WITH couponEnds 7/15 | sel
     
     ~$124.98~134
 *   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $24.49 - $44.09with code~$50 - $90~220
+*   Clarks Womens Brinkley Jazz Flip-Flops
+    
+    $29.99sale
+    
+    ~$55~294
 *   Cooks 1.5 Quart Slow Cooker
     
     $22
     
     334
-*   Regal Home Collections, Inc. Sterling Embroidery Energy Saving Blackout Grommet-Top Single Curtain Panel $28 - $42with code23
 
 Shop and Save at JCPenney
 
