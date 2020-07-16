@@ -9,70 +9,77 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   bObsweep Up to 75% Off
+    *   Limited-Time Deals Up to 65% Off
+    *   Steve Madden Up to 60% Off
+    *   Sunnies Under $25 ft. Diane Von Furstenberg
+    *   Steve Madden Men Up to 60% Off
+    *   Fresh Prints: Summer Dresses
+    *   Blouses &. More Under $25 Incl. Plus &. Petites
+    *   Casual Bottoms Under $35 Incl. Plus &. Petites
+    *   Swim Under $35
+    *   Chic &. Cozy Lounge Under $35
+    *   Levi's Men Starting at $15
+    *   Slip-On Sneakers Up to 65% Off
+    *   Men's Lounge Under $30
+    *   Steve Madden Kids
+    *   Adventure Ready: Backpacks ft. Steve Madden
+    *   Statement Looks ft. Faux Lashes from $10
+    *   Max Studio Up to 75% Off Incl. Plus &. Petites
+    *   adidas
+    
+    *   adidas Men
+    *   adidas Active Under $45
+    *   Crop Tops Starting at $15
+    *   Men's Outdoor Shoes
+    *   Summer Essentials: Denim Shorts
+    *   Outdoor Women's Shoes
+    *   Savvy Cie
+    *   Smoothers &. Shapers ft. Skinnygirl
+    *   Calvin Klein &. More Up to 60% Off
+    *   Contemporary Handbags
+    *   adidas Kids
+    *   Top It Off: Summer's Hottest Hats
+    *   Eileen Fisher Up to 60% Off
+    *   Sporty Life: Kids' Active Starting at $12
+    *   On Trend: Men's Printed Short Sleeve Shirts
+    *   Men's Denim We Love ft. JOE'S Jeans
+    *   7 For All Mankind Kids &. More
+    
+    *   Steve Madden Jewelry &. Watches
+    *   Men's Shoe Blowout
+    *   Nest Fragrance
+    *   Sorel Men
     *   Shark Vacuums
     *   Kitchen Gadgets
     *   Kitchen Upgrade: Air Fryers
-    *   Max Studio Up to 75% Off Incl. Plus &. Petites
-    *   adidas
-    *   adidas Men
-    *   adidas Active Under $45
-    *   Crop Tops Starting at $15
-    *   Men's Outdoor Shoes
-    *   Summer Essentials: Denim Shorts
-    *   Outdoor Women's Shoes
-    *   Savvy Cie
-    *   Smoothers &. Shapers ft. Skinnygirl
-    *   Calvin Klein &. More Up to 60% Off
-    *   Contemporary Handbags
-    *   adidas Kids
-    *   Top It Off: Summer's Hottest Hats
-    *   On Trend: Men's Printed Short Sleeve Shirts
-    
-    *   Eileen Fisher Up to 60% Off
-    *   Sporty Life: Kids' Active Starting at $12
-    *   High-Summer Sale: Styles Incl. Plus Up to 80% Off
+    *   bObsweep Up to 75% Off
     *   Premium Denim We Love ft. JOE'S Jeans
     *   Lace &. Linen Styles Incl. Plus Up to 70% Off
-    *   Men's Denim We Love ft. JOE'S Jeans
-    *   Bobeau &. More Incl. Plus Up to 70% Off
-    *   Mad for Motos: Leather Jackets &. More
-    *   Intimates &. Sleep ft. Jessica Simpson
-    *   Great Heights: Low &. Mid Heel Sandals
-    *   Mules for Every Look
-    *   Our Best-Selling Sandals &. More
-    *   7 For All Mankind Kids &. More
-    *   Steve Madden Handbags
-    *   Steve Madden Jewelry &. Watches
     *   Summer Active Styles Up to 65% Off
-    *   Women's Shoes Under $30
-    *   Men's Shoe Blowout
-    *   Men's Style Blowout
-    
-    *   Sorel
-    *   Made in Italy: Gold Jewelry &. More
-    *   Diamond Watches ft. Bulova
-    *   Top Drawer: Underwear, Socks &. More for Him
-    *   Sweet Dreams: Kids' Sleep Essentials
-    *   Men's Summer Polos Under $30
-    *   FRAME Up to 75% Off
-    *   Exclusively Ours: Men's Shoes
-    *   Kate Spade New York Home &. Bath
-    *   Sorel Kids
-    *   Nest Fragrance
-    *   Leather Goods for Him Up to 60% Off
-    *   Sorel Men
     *   Go Long: Maxi Dresses
-    *   Summer Tops Under $25 Incl. Plus &. Petites
-    *   Plus Summer Styles Up to 70% Off
     *   Sun-sational Styles Incl. Plus Up to 70% Off
+    *   Kids' Swim Styles Up to 65% Off
+    *   Leather Goods for Him Up to 60% Off
+    *   High-Summer Sale: Styles Incl. Plus Up to 80% Off
 *   WomenShop Sale Events
     
+    *   Limited-Time Deals Up to 65% Off
+    *   Steve Madden Up to 60% Off
+    *   Sunnies Under $25 ft. Diane Von Furstenberg
+    *   Fresh Prints: Summer Dresses
+    *   Blouses &. More Under $25 Incl. Plus &. Petites
+    *   Casual Bottoms Under $35 Incl. Plus &. Petites
+    *   Swim Under $35
+    *   Chic &. Cozy Lounge Under $35
+    *   Slip-On Sneakers Up to 65% Off
+    *   Adventure Ready: Backpacks ft. Steve Madden
+    *   Statement Looks ft. Faux Lashes from $10
     *   Max Studio Up to 75% Off Incl. Plus &. Petites
     *   adidas
     *   adidas Active Under $45
     *   Crop Tops Starting at $15
     *   Summer Essentials: Denim Shorts
+    
     *   Outdoor Women's Shoes
     *   Savvy Cie
     *   Smoothers &. Shapers ft. Skinnygirl
@@ -80,66 +87,52 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Contemporary Handbags
     *   Top It Off: Summer's Hottest Hats
     *   Eileen Fisher Up to 60% Off
-    *   High-Summer Sale: Styles Incl. Plus Up to 80% Off
+    *   Steve Madden Jewelry &. Watches
+    *   Nest Fragrance
     *   Premium Denim We Love ft. JOE'S Jeans
     *   Lace &. Linen Styles Incl. Plus Up to 70% Off
-    *   Bobeau &. More Incl. Plus Up to 70% Off
-    *   Mad for Motos: Leather Jackets &. More
-    
-    *   Intimates &. Sleep ft. Jessica Simpson
-    *   Great Heights: Low &. Mid Heel Sandals
-    *   Mules for Every Look
-    *   Our Best-Selling Sandals &. More
-    *   Steve Madden Handbags
-    *   Steve Madden Jewelry &. Watches
     *   Summer Active Styles Up to 65% Off
-    *   Women's Shoes Under $30
-    *   Sorel
-    *   Made in Italy: Gold Jewelry &. More
-    *   Diamond Watches ft. Bulova
-    *   FRAME Up to 75% Off
-    *   Nest Fragrance
     *   Go Long: Maxi Dresses
-    *   Summer Tops Under $25 Incl. Plus &. Petites
-    *   Plus Summer Styles Up to 70% Off
     *   Sun-sational Styles Incl. Plus Up to 70% Off
+    *   High-Summer Sale: Styles Incl. Plus Up to 80% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
-    *   Watches
     *   Accessories
+    *   Jewelry
     *   Lingerie &. Shapewear
     *   Handbags
+    *   Watches
 *   MenShop Sale Events
     
+    *   Limited-Time Deals Up to 65% Off
+    *   Sunnies Under $25 ft. Diane Von Furstenberg
+    *   Steve Madden Men Up to 60% Off
+    *   Levi's Men Starting at $15
+    *   Men's Lounge Under $30
+    *   Adventure Ready: Backpacks ft. Steve Madden
     *   adidas Men
+    
     *   Men's Outdoor Shoes
     *   On Trend: Men's Printed Short Sleeve Shirts
     *   Men's Denim We Love ft. JOE'S Jeans
     *   Men's Shoe Blowout
-    *   Men's Style Blowout
-    
-    *   Diamond Watches ft. Bulova
-    *   Top Drawer: Underwear, Socks &. More for Him
-    *   Men's Summer Polos Under $30
-    *   Exclusively Ours: Men's Shoes
-    *   Leather Goods for Him Up to 60% Off
     *   Sorel Men
+    *   Leather Goods for Him Up to 60% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
+    *   Limited-Time Deals Up to 65% Off
+    *   Steve Madden Kids
     *   adidas Kids
     *   Sporty Life: Kids' Active Starting at $12
     *   7 For All Mankind Kids &. More
-    *   Sweet Dreams: Kids' Sleep Essentials
-    *   Sorel Kids
+    *   Kids' Swim Styles Up to 65% Off
     
     Shop By Category
     *   Girls
@@ -149,24 +142,28 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Boys' Shoes
 *   HomeShop Sale Events
     
-    *   bObsweep Up to 75% Off
+    *   Limited-Time Deals Up to 65% Off
     *   Shark Vacuums
     *   Kitchen Gadgets
     *   Kitchen Upgrade: Air Fryers
-    *   Kate Spade New York Home &. Bath
+    *   bObsweep Up to 75% Off
     
     Shop By Category
-    *   Home Decor
     *   Kitchen &. Tabletop
-    *   Bedding
     *   Cleaning &. Organization
-    *   Bath
+    *   Bedding
+    *   Luggage &. Travel
+    *   Home Decor
 *   BeautyShop Sale Events
     
+    *   Limited-Time Deals Up to 65% Off
+    *   Statement Looks ft. Faux Lashes from $10
     *   Nest Fragrance
     
     Shop By Category
+    *   Makeup
     *   Fragrance
+    *   Tools &. Accessories
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
@@ -343,7 +340,7 @@ FacebookTwitterPinterestInstagramSnapchatiPhoneiPadAndroid
 *   The Nordy Club
 *   Big Brothers Big Sisters
 *   Donate Clothes
-*   See You Tomorrow: A Resale Shop
+*   Pride Shop
 *   Gift Cards
 
 *   Member Care
