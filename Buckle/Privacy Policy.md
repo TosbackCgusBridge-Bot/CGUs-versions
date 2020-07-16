@@ -372,6 +372,7 @@ SearchSubmitTerms &. Conditions
 *   Accessibility Policy
 *   Buckle Select Terms &. Conditions
 *   Buckle Gift Card Terms
+*   3x Points - One Day Only
 
 Services
 
