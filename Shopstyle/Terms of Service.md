@@ -129,7 +129,7 @@ POPSUGAR Inc., its subsidiaries and affiliates ("POPSUGAR," "we," "us," "our") o
     
 *   PRIVACY
     
-    For information regarding POPSUGAR's treatment of personal information, please review our current Privacy Policy at http://www.popsugar.com/privacy, which is hereby incorporated into this Agreement by reference. any use of our Services constitutes your acceptance and agreement to be bound by our Privacy Policy.
+    For information regarding POPSUGAR's treatment of personal information, please review our current Privacy Policy at here, which is hereby incorporated into this Agreement by reference. any use of our Services constitutes your acceptance and agreement to be bound by our Privacy Policy.
     
 *   ELECTRONIC COMMUNICATIONS
     
