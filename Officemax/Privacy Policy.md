@@ -25,6 +25,7 @@ Skip to main navigation
 *   Investor Resources
     *   Shareholder Services
     *   Investor Alerts
+    *   Tax Information
 *   Contact Us
 
 Latest Quarterly Earnings Q1 May 6, 2020 at 9:00 AM EST Q1 2020 Office Depot Inc Earnings  
@@ -39,15 +40,15 @@ Stock Quote and Chart
 
 Price
 
-$20.69
+$22.26
 
 Change
 
-+0.64
++1.57
 
 Percent Change
 
-(+3.19%)
+(+7.59%)
 
 Data Provided by Refinitiv. Minimum 15 minutes delayed.
 
