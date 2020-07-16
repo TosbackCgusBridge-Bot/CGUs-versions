@@ -25,7 +25,15 @@ We understand that for our clients, having access to the latest research on cons
 You can expect the same high-quality service and support you normally receive from us.  
 As always, contact us with any questions.
 
-Our solutions Advertising &. brand Product innovation Point-of-purchase influencers Pre-testing Customer value Packaging design Social insights Case stories Co-creating with Philips Edgewell measurement program Facebook video ads Amstel Bock pack design Philips concept test Yahoo ad testing Our latest research and insights Make room, grocers: More brands are taking control of their category
+Our solutions Advertising &. brand Product innovation Point-of-purchase influencers Pre-testing Customer value Packaging design Social insights Case stories Co-creating with Philips Edgewell measurement program Facebook video ads Amstel Bock pack design Philips concept test Yahoo ad testing Our latest research and insights How beauty giants can become more sustainable
+
+How to adapt to changing consumer needs
+
+What questions should we be asking consumers during a global pandemic?
+
+Whitepaper: Should brands be going dark? Advertising during the COVID-19 crisis
+
+Make room, grocers: More brands are taking control of their category
 
 Video: The evolution of bartender recommendations: 2007-2019
 
@@ -40,14 +48,6 @@ What can you do within 24 hours?
 Power up your e-commerce success through personalization
 
 Question time: It’s all about innovation
-
-Video: How Nestlé applied best practice pack design principles for an on-shelf win
-
-Webinar: Accelerating insights with artificial intelligence and new technologies
-
-Quiz: How much do you know about the influence of the bartender?
-
-How does a digital qualitative solution compare to focus groups?
 
 Our story
 
