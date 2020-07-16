@@ -38,6 +38,7 @@ Complete your Profile
     *   Top Airport Car Rental Locations
     *   All US Locations
     *   All Global Locations
+    *   Travel Guides
 *   Cars &. Services
     *   Cars &. Services
     *   Avis App
@@ -221,6 +222,7 @@ The provisions and conditions of these Terms, and each obligation referenced her
 
 Top US Destinations
 
+*   Travel Guides
 *   Car Rental Las Vegas
 *   Car Rental Los Angeles
 *   Car Rental Chicago
@@ -231,8 +233,10 @@ Rental Car Types
 
 *   One-Way Airport Car Rental
 *   Luxury Car Rental
-*   Premium SUV Rental
-*   Economy Car Rental
+*   Pickup Truck Rental
+*   Van Rental
+*   SUV Rental
+*   Rental Car Sizes—Sedans
 
 Avis Extras
 
@@ -266,7 +270,7 @@ Security &. Privacy
 *   California – Do Not Sell My Personal Information
 *   Copyright Notices
 
-United StatesCanadaAustraliaNew Zealand------------------------ArgentinaArmeniaAustriaBahamasBelgiumBosniaBrazilChinaBulgariaChileColombiaCroatiaDenmarkDominican RepublicEcuadorEl SalvadorFaroe IslandsFijiFinlandFranceGermanyGuadeloupeGuatemalaGuamHondurasHongkongHungaryIndiaIndonesiaIrelandIsraelItalyJamaicaJapanKoreaKuwaitLebanonMacedoniaMalaysiaMartiniqueMexicoMongoliaMoroccoNetherlandNicaraguaNorwayPakistanPanamaPeruPhilippinesPolandPortugalPuerto RicoRomaniaRussiaSaudi ArabiaSingaporeSouth AfricaSpainSt Maarten/St MartinSurinameSwedenSwitzerlandTahitiTaiwanThailandTurkeyTurks and CaicosUkraineUnited Arab EmiratesUnited KingdomVanuatuVirgin IslandsYugoslavia English Français Español Português Get the #1 Ranked Rental Car Travel App in Customer Satisfaction >.
+United StatesCanadaAustraliaNew Zealand------------------------ArgentinaArmeniaAustriaBahamasBelgiumBosniaBrazilChinaBulgariaChileColombiaCroatiaDenmarkDominican RepublicEcuadorEl SalvadorFaroe IslandsFijiFinlandFranceGermanyGuadeloupeGuatemalaGuamHondurasHong KongHungaryIndiaIndonesiaIrelandIsraelItalyJamaicaJapanKoreaKuwaitLebanonMacedoniaMalaysiaMartiniqueMexicoMongoliaMoroccoNetherlandNicaraguaNorwayPakistanPanamaPeruPhilippinesPolandPortugalPuerto RicoRomaniaRussiaSaudi ArabiaSingaporeSouth AfricaSpainSt Maarten/St MartinSurinameSwedenSwitzerlandTahitiTaiwanThailandTurkeyTurks and CaicosUkraineUnited Arab EmiratesUnited KingdomVanuatuVirgin IslandsYugoslavia English Français Español Português Get the #1 Ranked Rental Car Travel App in Customer Satisfaction >.
 
 GET THE AVIS APP
 
