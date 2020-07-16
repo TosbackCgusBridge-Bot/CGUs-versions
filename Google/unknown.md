@@ -132,4 +132,4 @@ If changes are made to this article (which should be rare), a revision history w
 
 See archive
 
-Choose a section to give feedback on
+Give feedback about this articleChoose a section to give feedback on
