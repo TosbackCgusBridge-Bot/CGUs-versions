@@ -9,6 +9,7 @@ We use our own and third-party cookies to improve your experience and our servic
 *   Stats
 *   Standings
 *   Draft
+*   NFL Network
 *   Fantasy
 *   Tickets
 *   Shop
@@ -18,12 +19,12 @@ We use our own and third-party cookies to improve your experience and our servic
     *   Game Pass
     *   Free Agency
     *   Ways to Watch
-    *   NFL Network
     *   NFL Films
     *   Inspire Change
 
 NFL SHOP Action related nav
 
+*   NFL Network
 *   Fantasy
 *   Tickets
 *   Shop
