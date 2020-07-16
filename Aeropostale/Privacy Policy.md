@@ -378,9 +378,12 @@ In Stores &. Online.
 
 New! Aero Face Masks
 
-Reusable two-pack masks. Made from 100% washable,  
-breathable cotton for everyday comfort and ease. Complete  
-with an interior filter pocket. **We've got you covered.**
+Reusable two-pack masks. Made from 100% washable, breathable cotton for  
+everyday comfort and ease.
+
+To help communities impacted by COVID-19, Aero is donating to Direct Relief, a  
+non-profit organization that provides essential medical resources to people  
+affected by poverty or emergency situations.
 
 Shop Girls Shop Guys
 
@@ -389,12 +392,12 @@ In Stores &. Online
 New! Aero  
 Face Masks  
 
-Reusable two-pack masks.  
-Made from 100% washable,  
-breathable cotton for everyday  
-comfort and ease. Complete  
-with an interior filter pocket.  
-**We've got you covered.**
+Reusable two-pack masks. Made from 100% washable, breathable  
+cotton for everyday comfort and ease.
+
+To help communities impacted by COVID-19, Aero is donating to Direct  
+Relief, a non-profit organization that provides essential medical  
+resources to people affected by poverty or emergency situations.
 
 Shop Girls Shop Guys
 
