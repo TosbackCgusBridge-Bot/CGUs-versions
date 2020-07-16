@@ -6,6 +6,8 @@ Change country/language X
 
 Autodesk logo
 
+*   0
+
 *   Sign In
     
     Autodesk Account
@@ -29,6 +31,9 @@ Autodesk logo
     Stay on our U.S. site
     
 *   *   Menu
+
+*   Free Trials
+*   Products
 
 *   Products
     *   All products
