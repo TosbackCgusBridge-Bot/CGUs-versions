@@ -9,9 +9,9 @@
     *   Love &. Listings
     *   RuPaul's Drag Race
     *   RuPaul’s Drag Race All Stars
+    *   Spotlight on Black Voices &. Black Stories
     *   T.I. &. Tiny: Friends &. Family Hustle
-    *   To Catch A Beautician
-    *   Wild 'N OutSee all Shows
+    *   To Catch A BeauticianSee all Shows
 *   App
 *   VH100 PODCAST
 *   Watch Live TV
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleBlack Ink Crew ChicagoBlack Ink Crew New YorkLove &. Hip Hop AtlantaLove &. ListingsRuPaul's Drag RaceRuPaul’s Drag Race All StarsT.I. &. Tiny: Friends &. Family HustleTo Catch A BeauticianWild 'N Outsee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleBlack Ink Crew ChicagoBlack Ink Crew New YorkLove &. Hip Hop AtlantaLove &. ListingsRuPaul's Drag RaceRuPaul’s Drag Race All StarsSpotlight on Black Voices &. Black StoriesT.I. &. Tiny: Friends &. Family HustleTo Catch A Beauticiansee all Shows
 *   App
 *   VH100 PODCAST
 *   Watch Live TV
