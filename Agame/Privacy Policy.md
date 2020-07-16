@@ -29,15 +29,15 @@ View more results
     *   Eli Beauty
     *   Goldie: Lip Injections
     *   Lady Bug and Friends Maker
-    *   Ice Slushy Maker
     *   Princessgram Model
     *   Perfect Girl Creator
     *   Cute Room Decoration
-    *   Baby Hazel: Hair Care
-    *   Goldie Princess: Skin Doctor
-    *   Car Salon
     *   Dark Chocolate Blackberry Cheesecake: Sara's Cooking Class
+    *   Ice Slushy Maker
+    *   Car Salon
+    *   Goldie Princess: Skin Doctor
     *   Ice Queen Fashion Day
+    *   Princess Hard Times
 *   Puzzle
     
     Top Categories
@@ -64,8 +64,8 @@ View more results
     *   Bubble Hit
     *   Farm Connect 2
     *   1001 Arabian Nights
-    *   Mahjong Chain
     *   Jewel Shuffle
+    *   Snow Queen 3
 *   Racing
     
     Top Categories
@@ -83,17 +83,17 @@ View more results
     *   Maximum Acceleration
     *   Madalin Stunt Cars 2
     *   Hill Racing Challenge
-    *   City Car Stunts 2
     *   Real Dog Racing Simulator
+    *   City Car Stunts 2
     *   Off-Roader V6
     *   Cars 3D
     *   Two Punk Racing
     *   Russian Car Driver
     *   Xcross Madness
     *   Horse Racing
-    *   Off-Road Cycle 3D
     *   Moto X3M 6: Spooky Land
     *   Moto X3m 2
+    *   Off-Road Cycle 3D
 *   Shooting
     
     Top Categories
@@ -114,13 +114,13 @@ View more results
     *   Archery World Tour
     *   Deer Hunter
     *   Apple Shooter
+    *   Animal Hunt 3D
     *   Sniper Reloaded
     *   Combat Reloaded
-    *   Animal Hunt 3D
     *   Tank Trouble 2
     *   Pixel Gun Apocalypse 3
-    *   CS Portable
     *   Mr. Bullet
+    *   CS Portable
     *   Winter Clash 3D
 *   Multiplayer
     
@@ -146,10 +146,10 @@ View more results
     *   Worms.Zone
     *   Pool Clash: 8 Ball Billiards Snooker
     *   Master Chess Multiplayer
+    *   Hole.io
     *   Fireboy &. Watergirl 3: The Ice Temple
     *   Madalin Cars Multiplayer
     *   Draw and Guess
-    *   Hole.io
 *   Action
     
     Top Categories
@@ -175,8 +175,8 @@ View more results
     *   Sniper Reloaded
     *   Super Buddy Kick
     *   Combat Reloaded
-    *   Stickman Warriors
     *   Naruto Online
+    *   Stickman Warriors
     *   Oil Wrestling: 2 Player
 *   Adventure
     
@@ -418,3 +418,5 @@ Languages
 *   Nederlands
 
 Copyright © 2020 SPIL GAMES All rights reserved.
+
+Your privacy settingsWe use cookies to bring you personalized content, relevant ads, social media features, and to better understand how you use our website. (e.g IP Address) To do this, we sometimes share this data with social media, advertising, and analytics partners, who may in turn combine it with other data you've given them. Your data may be stored by us and our service providers. In case the applicable data protection laws provide so, you may access, rectify, and erase the data or you may restrict or object to our processing of your data. Please contact us in such event. Click the "SETTINGS" button to change your privacy settings and learn more about our use of cookies, or click "ACCEPT" to agree with the above mentioned. You can change your mind and change your consent choices at any time by returning to this site.AcceptSettingsVendor List | Privacy policy | FeaturesA reminder you can control your user privacy preferenceshere
