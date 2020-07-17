@@ -40,20 +40,20 @@ Stock Quote and Chart
 
 Price
 
-$22.26
+$22.98
 
 Change
 
-+1.57
++0.72
 
 Percent Change
 
-(+7.59%)
+(+3.23%)
 
 Data Provided by Refinitiv. Minimum 15 minutes delayed.
 
 view details  
-Recent News Jul 14, 2020 Office Depot Donates $1.5 Million to Feeding America’s COVID-19 Response Fund view more Recent News Jul 14, 2020 Office Depot Donates $1.5 Million to Feeding America’s COVID-19 Response Fund view more Events Jun 4, 2020 at 10:50 AM EDT Office Depot Presents at Baird's 2020 Global Consumer, Technology &. Services Conference view more Events Jun 4, 2020 at 10:50 AM EDT Office Depot Presents at Baird's 2020 Global Consumer, Technology &. Services Conference view more Presentations Jun 04, 2020 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 04, 2020 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more
+Recent News Jul 16, 2020 Office Depot Enhances Print Services Portfolio with New Graphic Design Solutions Powered by Canva view more Recent News Jul 16, 2020 Office Depot Enhances Print Services Portfolio with New Graphic Design Solutions Powered by Canva view more Events Jun 4, 2020 at 10:50 AM EDT Office Depot Presents at Baird's 2020 Global Consumer, Technology &. Services Conference view more Events Jun 4, 2020 at 10:50 AM EDT Office Depot Presents at Baird's 2020 Global Consumer, Technology &. Services Conference view more Presentations Jun 04, 2020 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 04, 2020 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more
 
 *   Home
 *   News &. Events
