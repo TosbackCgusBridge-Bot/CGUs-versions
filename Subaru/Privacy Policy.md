@@ -33,56 +33,22 @@ Subaru Confidence In Motion
 *   Build &. Price
 *   Find Retailer
 
-Impreza $18,695\* starting price 2020 Impreza
+Outback $26,645\* starting price 2020 Outback
 
 Starting at
 
-$18,695 MSRP
+$26,645 MSRP
 
 Up to
 
-36/28 MPG Hwy/City
+33/26 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
 *   Compare
 *   Build &. Price
 
-Impreza Sport 5-door shown
-
-Legacy $22,745\* starting price 2020 Legacy
-
-Starting at
-
-$22,745 MSRP
-
-Up to
-
-35/27 MPG Hwy/City
-
-*   Overview
-*   Photos &. Videos
-*   Compare
-*   Build &. Price
-
-Legacy Limited shown
-
-Crosstrek $22,145\* starting price 2020 Crosstrek
-
-Starting at
-
-$22,145 MSRP
-
-Up to
-
-33/27 MPG Hwy/City
-
-*   Overview
-*   Photos &. Videos
-*   Compare
-*   Build &. Price
-
-Crosstrek Limited shown
+Outback Onyx Edition XT shown
 
 Forester $24,495\* starting price 2020 Forester
 
@@ -101,28 +67,62 @@ Up to
 
 Forester Sport shown
 
-Outback $26,645\* starting price 2020 Outback
+Impreza $18,695\* starting price 2020 Impreza
 
 Starting at
 
-$26,645 MSRP
+$18,695 MSRP
 
 Up to
 
-33/26 MPG Hwy/City
+36/28 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
 *   Compare
 *   Build &. Price
 
-Outback Onyx Edition XT shown
+Impreza Sport 5-door shown
 
-Ascent $31,995\* starting price 2020 Ascent
+Crosstrek $22,145\* starting price 2020 Crosstrek
 
 Starting at
 
-$31,995 MSRP
+$22,145 MSRP
+
+Up to
+
+33/27 MPG Hwy/City
+
+*   Overview
+*   Photos &. Videos
+*   Compare
+*   Build &. Price
+
+Crosstrek Limited shown
+
+Legacy $22,745\* starting price 2020 Legacy
+
+Starting at
+
+$22,745 MSRP
+
+Up to
+
+35/27 MPG Hwy/City
+
+*   Overview
+*   Photos &. Videos
+*   Compare
+*   Build &. Price
+
+Legacy Limited shown
+
+Ascent $32,295\* starting price 2021 Ascent
+
+Starting at
+
+$32,295 MSRP
 
 Up to
 
@@ -133,7 +133,7 @@ Up to
 *   Compare
 *   Build &. Price
 
-Ascent Limited shown
+Ascent Touring shown
 
 Crosstrek Hybrid $35,145\* starting price 2020  
 Crosstrek Hybrid
@@ -151,23 +151,6 @@ Up to
 
 Crosstrek Hybrid Shown
 
-BRZ $28,845\* starting price 2020 BRZ
-
-Starting at
-
-$28,845 MSRP
-
-Up to
-
-33/24 MPG Hwy/City
-
-*   Overview
-*   Photos &. Videos
-*   Compare
-*   Build &. Price
-
-BRZ tS Shown
-
 WRX $27,495\* starting price 2020 WRX
 
 Starting at
@@ -184,6 +167,23 @@ Up to
 *   Build &. Price
 
 WRX Limited Shown
+
+BRZ $28,845\* starting price 2020 BRZ
+
+Starting at
+
+$28,845 MSRP
+
+Up to
+
+33/24 MPG Hwy/City
+
+*   Overview
+*   Photos &. Videos
+*   Compare
+*   Build &. Price
+
+BRZ tS Shown
 
 STI Vehicle Lineup Subaru Tecnica International
 
