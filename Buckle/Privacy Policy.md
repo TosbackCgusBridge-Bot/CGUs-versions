@@ -1,14 +1,14 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content \* Due to circumstances outside of our control you could potentially see impacts to deliveries. \* You are invited to our once-a-year Guest Giveback Event, starting July 16th! Buckle has begun to open our stores. Find Your Store for up-to-date information.
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Shop Limited Time Pricing at our Guest Giveback Event! start saving For the most up-to-date store information check here. Wear now denim styles, at special prices, almost too good to be true. shop now
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-*   Buckle has begun to open our stores. Find Your Store for up-to-date information.
-*   \* Due to circumstances outside of our control you could potentially see impacts to deliveries. \*
-*   You are invited to our once-a-year Guest Giveback Event, starting July 16th!
-*   Buckle has begun to open our stores. Find Your Store for up-to-date information.
-*   \* Due to circumstances outside of our control you could potentially see impacts to deliveries. \*
+*   Wear now denim styles, at special prices, almost too good to be true. shop now
+*   Shop Limited Time Pricing at our Guest Giveback Event! start saving
+*   For the most up-to-date store information check here.
+*   Wear now denim styles, at special prices, almost too good to be true. shop now
+*   Shop Limited Time Pricing at our Guest Giveback Event! start saving
 
 *   Women
 *   Men
@@ -372,7 +372,7 @@ SearchSubmitTerms &. Conditions
 *   Accessibility Policy
 *   Buckle Select Terms &. Conditions
 *   Buckle Gift Card Terms
-*   3x Points - One Day Only
+*   2x Points
 
 Services
 
