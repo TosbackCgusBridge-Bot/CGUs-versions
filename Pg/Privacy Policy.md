@@ -17,7 +17,7 @@ Primary navigation
 Select LanguageShqipالعربيةAzərbaycan diliBosanskiБългарски简体中文繁體中文HrvatskiČeskyDanskNederlandsEnglishEestiSuomiFrançais (Canada)Français (Européen)ქართულიDeutschΕλληνικάעבריתMagyarItaliano日本語한국어КыргызчаLatviešuLietuviųмакедонскиBahasa MelayuМонголNorskPolskiPortuguês (Brasil)Português (Portugal)RomânăРусскийSrpskiSlovenčinaSlovenščinaEspañolEspañol (España)SvenskaТоҷикӣภาษาไทยTürkçeTurkmenУкраїнськаاردوЎзбекчаTiếng Việt
 
 P&G Global Consumer Privacy Policy  
-_Date last updated: 04/20/2020_  
+_Date last updated: 07/14/2020_  
 
 We work hard to build and maintain a relationship of trust with you. So, when it comes to handling your information, we do so carefully and sensibly, and in ways that live up to that trust. This policy lets you know how we do that, including what information we collect, how we use and protect it, and how you can decide what we do with it. Our goal is to help you understand how we use your information to improve our content, products, advertisements, and services.
 
@@ -82,7 +82,8 @@ Data elements in this category include social security number, driver’s licens
 Data elements in this category include bank account number and details and payment card information.
 
 **Biometric information**  
-Data elements in this category include facial recognition data, voiceprint, fingerprint and a mathematical representation of your biometric identifier, such as the template maintained for comparison.  
+Data elements in this category include facial recognition data, voiceprint, fingerprint and a mathematical representation of your biometric identifier, such as the template maintained for comparison.
+
 **Demographic Information and Preferences**  
 Data elements in this category include personal characteristics and preferences, such as age range, marital and family status, shopping preferences, languages spoken, loyalty and rewards program data, household demographic data, data from social media platforms, education and professional information, hobbies and interests and propensity scores from third parties (likelihood of purchase, experiencing a life event, etc.).
 
@@ -201,7 +202,7 @@ Your Rights and Choices
 
 **general requests** . To make a request with respect to personal data used for marketing, which would include for example information you provided us as you registered through one of our websites or apps, please contact us here .
 
-**media advertising** . To make a request with respect to personal data used for advertising, which would include for example information we may have about you at a cookie or device ID level and which we use to provide you with relevant ads, please contact us here . There may also be data associated with your cookie or device ID in our demand-side (or ad-serving) and ad verification partner platforms. For that data, please see here and here.
+**media advertising** . To make a request with respect to personal data used for advertising, which would include for example information we may have about you at a cookie or device ID level and which we use to provide you with relevant ads, please contact us here. You may use this link for all access requests, as well as for erasure and opt out. If your request is for erasure, however, you will additionally need to contact Tapad at privacy@tapad.com and ask for “erasure of your P&G data,” since that vendor holds for us an unsynched copy of the same information. Alternatively, you may email your cookieID or MAID to us \[email: corporateprivacy.im@pg.com\] directly and we can make those inquiries on your behalf. There may also be data associated with your cookie or device ID in our demand-side (or ad-serving) and ad verification partner platforms. For that data, please see here and here.
 
 **consumer research** . To make a request with respect to personal data we may have as part of your participation in one of our research studies, please see the contact information provided on your consent form or call or visit your research center.
 
@@ -607,11 +608,20 @@ For more information about how we have shared your information with third partie
 
 **“Sales” of Personal Information**
 
+**Categories of Third Parties to whom this type of Personal Information is Sold**
+
 **How to Opt Out**
 
 **Unique Identifiers, Inferred and Derived Information, Online &. Technical Information,**
 
 **Geolocation Data**
+
+We sell this personal information to the following categories of third parties:
+
+*   Online platforms such as Google, Amazon, Facebook
+*   Adtech companies such as our DSPs
+
+This data is shared for purposes of targeted advertising. These companies use that data to improve their products and services in accordance with their platform terms.
 
 To opt out of sales of your data, **click here** or call us at **(877) 701-0404**.
 
@@ -620,6 +630,12 @@ If you want us to update our internal records so we do not share your personal i
 Please note that P&G may also transfer your personal information to third parties through cookies or tracking technologies for advertising and joint marketing purposes. To exercise your “Do Not Sell” right related to website cookies and tracking technologies, please go to the applicable brand website, access our California Do Not “Sell” Request Center available at the bottom of the page and set your preferences. Because some of these third parties operate differently by website and device, you may need to take this step for each P&G website you use.
 
 **Demographic Information and Preferences**
+
+We sell this personal information to the following categories of third parties:
+
+*   Retail partners
+
+This data is shared pursuant to your consent for joint marketing (e.g. linking for rewards programs)
 
 **Any other information with your consent**
 
