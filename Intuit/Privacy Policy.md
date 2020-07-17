@@ -1,12 +1,13 @@
-Our COVID-19 response  DetailsOnline only—ends Wednesday! EXTRA 30% OFF w/ code: NEWLOOK8 Details  
-Free Shipping Over $49  DetailsOur stores are now open  +Try curbside pickup today! DetailsOur COVID-19 response  DetailsOnline only—ends Wednesday! EXTRA 30% OFF w/ code: NEWLOOK8 Details  
+Our COVID-19 response  DetailsEXTRA 30% OFF $75+ with code: FRESH8  Details  
+EXTRA 25% OFF under $75 with code: FRESH8  Details  
+Free Shipping Over $49  DetailsOur stores are now open  +Try curbside pickup today! DetailsOur COVID-19 response  DetailsEXTRA 30% OFF $75+ with code: FRESH8  Details  
 
 Enable Accessibility
 
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   Back to School
 *   Home &. Lifestyle
@@ -20,46 +21,46 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-UP TO 40% OFF Kitchen essentials Cooking must-haves for quick &. easy meals.select styles
+UP TO 50% OFFStart fresh with new bedroom essentials.select styles
+
+*   Bedding
+
+*   Quilts &. bedspreads
+    
+*   Comforters &. bedding sets
+    
+*   Sheets
+    
+*   Mattress Pads &. Pillows
+    
+
+BeddingBUY 1 GET 1 50% OFF\*all your basic needs | select styles**Boys** **Girls** **Men** **Women**\*Buy one item at regular price, get a second item of equal or lesser value for 50% off, while supplies last.   ApparelShoesBackpacksFor HerFor HimBoysGirlsCasual Looks for HerCasual Looks for HimUP TO 50% OFF School Uniforms Comfy styles that are first in class &. made to last.select styles
 
 *   Shop All
 
-*   Cookware
-    
-*   Air Fryers
-    
-*   Coffee Makers
-    
-*   Cutlery
-    
+Beauty (retail) therapy Freshen up your routine with faves from Salon &. Sephora inside JCPenney.Haircare—go big or go homeStock up on all your value-sized faves.SEPHORA COLLECTION Makeup, Starting at $10select styles | Excluded from coupons.  Learn More  Shop Now Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-Shop AllBUY 1 GET 1 50% OFF\*all your basic needs | select styles**Boys** **Girls** **Men** **Women**\*Buy one item at regular price, get a second item of equal or lesser value for 50% off, while supplies last.   ApparelShoesBackpacksFor HerFor HimBoysGirlsCasual Looks for HerCasual Looks for HimUP TO 50% OFF School Uniforms Comfy styles that are first in class &. made to last.select styles
-
-*   Shop All
-
-Beauty (retail) therapy Freshen up your routine with faves from Salon &. Sephora inside JCPenney.Haircare—go big or go homeStock up on all your value-sized faves.SEPHORA COLLECTION Makeup, Starting at $10select styles | Excluded from coupons.Furniture &. Mattress SALEUP TO 60% OFF+EXTRA 10% OFF WITH couponEnds 7/15 | select stylesMattressesFurniture  Learn More  Shop Now Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded in Media GalleryFollow @jcpenney Recommended for You
-
-*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
-    
-    $29.99sale
-    
-    ~$85~
 *   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
-    $25sale
+    $124.98
     
-    ~$124.98~192
+    192
 *   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
-    $25sale
+    $124.98
     
-    ~$124.98~134
-*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $24.49 - $44.09with code~$50 - $90~220
+    134
 *   Clarks Womens Brinkley Jazz Flip-Flops
     
     $29.99sale
     
-    ~$55~294
+    ~$55~299
+*   Home Expressions Lisette Rod-Pocket Sheer Panel
+    
+    $4.99 - $27.99sale
+    
+    ~$16 - $40~1241
+*   Regal Home Collections, Inc. Sterling Embroidery Energy Saving Blackout Grommet-Top Single Curtain Panel $30 - $45with code23
 *   Cooks 1.5 Quart Slow Cooker
     
     $22
