@@ -9,9 +9,22 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Limited-Time Deals Up to 65% Off
+    *   BCBGMAXAZRIA &. BCBGeneration Up to 80% Off
+    *   Face Mask Sets
+    *   John Varvatos Star USA Up to 70% Off
+    *   Breezy Boho Looks Up to 75% Off Incl. Plus
+    *   X by Gottex Under $30
+    *   WFH Finds Up to 75% Off Incl. Plus &. Petites
+    *   Men's WFH Essentials Up to 75% Off
+    *   Sleep &. Lingerie ft. French Connection
+    *   Pumps Up to 70% Off
+    *   Contemporary Sandals Up to 60% Off
+    *   Girls' Dresses ft. BCBGirls
+    *   Toys Starting at $10
+    *   Kids' Sneakers ft. New Balance &. More
     *   Steve Madden Up to 60% Off
     *   Sunnies Under $25 ft. Diane Von Furstenberg
+    
     *   Steve Madden Men Up to 60% Off
     *   Fresh Prints: Summer Dresses
     *   Blouses &. More Under $25 Incl. Plus &. Petites
@@ -20,106 +33,79 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Chic &. Cozy Lounge Under $35
     *   Levi's Men Starting at $15
     *   Slip-On Sneakers Up to 65% Off
-    *   Men's Lounge Under $30
     *   Steve Madden Kids
-    *   Adventure Ready: Backpacks ft. Steve Madden
+    *   Kids' Swim Styles Up to 65% Off
     *   Statement Looks ft. Faux Lashes from $10
-    *   Max Studio Up to 75% Off Incl. Plus &. Petites
-    *   adidas
-    
     *   adidas Men
-    *   adidas Active Under $45
-    *   Crop Tops Starting at $15
     *   Men's Outdoor Shoes
-    *   Summer Essentials: Denim Shorts
-    *   Outdoor Women's Shoes
-    *   Savvy Cie
-    *   Smoothers &. Shapers ft. Skinnygirl
-    *   Calvin Klein &. More Up to 60% Off
     *   Contemporary Handbags
     *   adidas Kids
-    *   Top It Off: Summer's Hottest Hats
-    *   Eileen Fisher Up to 60% Off
+    
     *   Sporty Life: Kids' Active Starting at $12
     *   On Trend: Men's Printed Short Sleeve Shirts
-    *   Men's Denim We Love ft. JOE'S Jeans
-    *   7 For All Mankind Kids &. More
-    
-    *   Steve Madden Jewelry &. Watches
-    *   Men's Shoe Blowout
     *   Nest Fragrance
-    *   Sorel Men
     *   Shark Vacuums
+    *   Men's Lounge Under $30
+    *   Adventure Ready: Backpacks ft. Steve Madden
     *   Kitchen Gadgets
     *   Kitchen Upgrade: Air Fryers
     *   bObsweep Up to 75% Off
     *   Premium Denim We Love ft. JOE'S Jeans
-    *   Lace &. Linen Styles Incl. Plus Up to 70% Off
     *   Summer Active Styles Up to 65% Off
-    *   Go Long: Maxi Dresses
-    *   Sun-sational Styles Incl. Plus Up to 70% Off
-    *   Kids' Swim Styles Up to 65% Off
-    *   Leather Goods for Him Up to 60% Off
+    *   Max Studio Up to 75% Off Incl. Plus &. Petites
+    *   Summer Essentials: Denim Shorts
     *   High-Summer Sale: Styles Incl. Plus Up to 80% Off
+    *   Eye Candy LA Jewelry
 *   WomenShop Sale Events
     
-    *   Limited-Time Deals Up to 65% Off
+    *   BCBGMAXAZRIA &. BCBGeneration Up to 80% Off
+    *   Face Mask Sets
+    *   Breezy Boho Looks Up to 75% Off Incl. Plus
+    *   X by Gottex Under $30
+    *   WFH Finds Up to 75% Off Incl. Plus &. Petites
+    *   Sleep &. Lingerie ft. French Connection
+    *   Pumps Up to 70% Off
+    *   Contemporary Sandals Up to 60% Off
     *   Steve Madden Up to 60% Off
     *   Sunnies Under $25 ft. Diane Von Furstenberg
     *   Fresh Prints: Summer Dresses
     *   Blouses &. More Under $25 Incl. Plus &. Petites
     *   Casual Bottoms Under $35 Incl. Plus &. Petites
+    
     *   Swim Under $35
     *   Chic &. Cozy Lounge Under $35
     *   Slip-On Sneakers Up to 65% Off
-    *   Adventure Ready: Backpacks ft. Steve Madden
     *   Statement Looks ft. Faux Lashes from $10
-    *   Max Studio Up to 75% Off Incl. Plus &. Petites
-    *   adidas
-    *   adidas Active Under $45
-    *   Crop Tops Starting at $15
-    *   Summer Essentials: Denim Shorts
-    
-    *   Outdoor Women's Shoes
-    *   Savvy Cie
-    *   Smoothers &. Shapers ft. Skinnygirl
-    *   Calvin Klein &. More Up to 60% Off
     *   Contemporary Handbags
-    *   Top It Off: Summer's Hottest Hats
-    *   Eileen Fisher Up to 60% Off
-    *   Steve Madden Jewelry &. Watches
     *   Nest Fragrance
+    *   Adventure Ready: Backpacks ft. Steve Madden
     *   Premium Denim We Love ft. JOE'S Jeans
-    *   Lace &. Linen Styles Incl. Plus Up to 70% Off
     *   Summer Active Styles Up to 65% Off
-    *   Go Long: Maxi Dresses
-    *   Sun-sational Styles Incl. Plus Up to 70% Off
+    *   Max Studio Up to 75% Off Incl. Plus &. Petites
+    *   Summer Essentials: Denim Shorts
     *   High-Summer Sale: Styles Incl. Plus Up to 80% Off
+    *   Eye Candy LA Jewelry
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Jewelry
     *   Lingerie &. Shapewear
     *   Handbags
-    *   Watches
 *   MenShop Sale Events
     
-    *   Limited-Time Deals Up to 65% Off
+    *   Face Mask Sets
+    *   John Varvatos Star USA Up to 70% Off
+    *   Men's WFH Essentials Up to 75% Off
     *   Sunnies Under $25 ft. Diane Von Furstenberg
     *   Steve Madden Men Up to 60% Off
     *   Levi's Men Starting at $15
-    *   Men's Lounge Under $30
-    *   Adventure Ready: Backpacks ft. Steve Madden
-    *   adidas Men
     
+    *   adidas Men
     *   Men's Outdoor Shoes
     *   On Trend: Men's Printed Short Sleeve Shirts
-    *   Men's Denim We Love ft. JOE'S Jeans
-    *   Men's Shoe Blowout
-    *   Sorel Men
-    *   Leather Goods for Him Up to 60% Off
+    *   Men's Lounge Under $30
+    *   Adventure Ready: Backpacks ft. Steve Madden
     
     Shop By Category
     *   Clothing
@@ -127,22 +113,23 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
-    *   Limited-Time Deals Up to 65% Off
+    *   Girls' Dresses ft. BCBGirls
+    *   Toys Starting at $10
+    *   Kids' Sneakers ft. New Balance &. More
     *   Steve Madden Kids
+    *   Kids' Swim Styles Up to 65% Off
     *   adidas Kids
     *   Sporty Life: Kids' Active Starting at $12
-    *   7 For All Mankind Kids &. More
-    *   Kids' Swim Styles Up to 65% Off
     
     Shop By Category
     *   Girls
-    *   Boys
     *   Baby
+    *   Boys
+    *   Toys
     *   Girls' Shoes
     *   Boys' Shoes
 *   HomeShop Sale Events
     
-    *   Limited-Time Deals Up to 65% Off
     *   Shark Vacuums
     *   Kitchen Gadgets
     *   Kitchen Upgrade: Air Fryers
@@ -151,12 +138,11 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     Shop By Category
     *   Kitchen &. Tabletop
     *   Cleaning &. Organization
-    *   Bedding
-    *   Luggage &. Travel
     *   Home Decor
+    *   Outdoor Living
+    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
-    *   Limited-Time Deals Up to 65% Off
     *   Statement Looks ft. Faux Lashes from $10
     *   Nest Fragrance
     
