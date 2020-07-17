@@ -1,4 +1,4 @@
-Sales: **855.905.0971**   Support: **855.205.7356**
+Sales: **855.255.8834**   Support: **855.253.5065**
 
 Sign Up Login
 
@@ -33,7 +33,7 @@ Sign Up Login
 *   Login
 *   Sign Up
 
-VANCO PAYMENT SOLUTIONS – PRIVACY POLICY
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1833255713665121&amp;ev=PageView&amp;noscript=1">. VANCO PAYMENT SOLUTIONS – PRIVACY POLICY
 
 Last updated: April 6, 2020
 
@@ -185,9 +185,9 @@ Bloomington, MN 55437
 
 **CALL US**
 
-**Sales:** 855.905.0971
+**Sales:** 855.255.8834
 
-**Support:** 855.205.7356
+**Support:** 855.253.5065
 
 **Login**
 
@@ -227,11 +227,11 @@ Bloomington, MN 55431
 
 CALL US
 
-**Support:** (855) 205-7356
+**Support:** (855) 253-5065
 
-**Sales:** (855) 905-0971
+**Sales:** (855) 255-8834
 
 **Login**
 
 Copyright © 2020 Vanco. All rights reserved.  
-Vanco is a registered ISO of Wells Fargo Bank, N.A., Concord, CA Privacy Policy | Terms and Conditions PCI Certified <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCFS6FD" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1833255713665121&amp;ev=PageView&amp;noscript=1">.
+Vanco is a registered ISO of Wells Fargo Bank, N.A., Concord, CA Privacy Policy | Terms and Conditions PCI Certified <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCFS6FD" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
