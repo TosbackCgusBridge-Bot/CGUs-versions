@@ -27,10 +27,9 @@ Close submenu ( Girls ) Girls
 *   Jackets
 *   Swimwear
 *   Accessories
-*   Flip Flops + Slides
+*   Shoes
 *   Bras + Undies
 *   Fragrance
-*   Extended Sizes
 *   Clearance
 
 *   Open submenu ( Collections ) Collections
@@ -40,16 +39,13 @@ Close submenu ( Collections ) Collections
 *   View All
 *   New Arrivals
 *   Face Coverings
+*   Tiny Tops
 *   Uniform
 *   Twisted for Tie Dye
-*   Get Cozy
-*   Best Sellers
 *   Jeans Guide
 *   Online Only
 *   Tribe Of Tees
-*   Basic Essentials
-*   Seriously Soft
-*   Active
+*   Extended Sizes
 
 Close submenu ( Guys ) Guys
 
@@ -62,7 +58,6 @@ Close submenu ( Guys ) Guys
 *   Accessories
 *   Underwear
 *   Cologne
-*   Extended Sizes
 *   Clearance
 
 *   Open submenu ( Collections ) Collections
@@ -72,14 +67,12 @@ Close submenu ( Collections ) Collections
 *   View All
 *   New Arrivals
 *   Face Coverings
+*   New Aero Logo
 *   Uniform
 *   Twisted for Tie Dye
-*   Get Cozy
-*   Best Sellers
 *   Jeans Guide
 *   Online Only
-*   Back to Basics
-*   Active
+*   Extended Sizes
 
 Close submenu ( Jeans ) Jeans
 
@@ -125,17 +118,12 @@ Close submenu ( Guys Jeans ) Guys Jeans
 Close submenu ( Aero World ) Aero World
 
 *   View Home
-*   Noor
-*   Alexio
-*   Conrad
-*   Gabriella
-*   Luis
-*   Teydie
-*   Kristya
-*   Miranda
-*   Claudio
-*   Pipe
-
+*   Violet
+*   Sydney
+*   Sheikh
+*   Mari
+*   Haley
+*   Gage
 *   Eco-Friendly
 
 Close submenu ( New Arrivals ) New Arrivals
@@ -150,28 +138,25 @@ Close submenu ( Girls ) Girls
 *   View All
 *   Just In
 *   Face Coverings
+*   Tiny Tops
 *   Best Sellers
 *   Online Only
 *   Destroyed Denim
 *   Music + Pop Culture
 *   Matching Sets
-*   Mexico City
-*   Swim
-*   Vacay Vibes
 *   Jewelry
-*   Tiny Tops
 
 Close submenu ( Guys ) Guys
 
 *   View All
 *   Just In
 *   Face Coverings
+*   New Aero Logo
 *   Best Sellers
 *   Online Only
 *   Real Denim
 *   Destroyed Denim
 *   Flip Flops + Slides
-*   Vacay Vibes
 
 Close submenu ( Clearance ) Clearance
 
@@ -201,7 +186,7 @@ Close submenu ( Guys ) Guys
 *   Tops
 *   Bottoms
 
-**Buy 5+ Uniform Styles, Get 15% Off**  **+ Free Shipping Over $50** Details
+Buy 5+ Uniform Styles, Get 15% Off + Free Ship Over $50 Details
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -220,26 +205,22 @@ Menu Find a Store Aeropostale
     *   Jackets
     *   Swimwear
     *   Accessories
-    *   Flip Flops + Slides
+    *   Shoes
     *   Bras + Undies
     *   Fragrance
-    *   Extended Sizes
     *   Clearance
     
     *   Collections
         *   View All
         *   New Arrivals
         *   Face Coverings
+        *   Tiny Tops
         *   Uniform
         *   Twisted for Tie Dye
-        *   Get Cozy
-        *   Best Sellers
         *   Jeans Guide
         *   Online Only
         *   Tribe Of Tees
-        *   Basic Essentials
-        *   Seriously Soft
-        *   Active
+        *   Extended Sizes
 *   Guys
     
     *   View Home
@@ -251,21 +232,18 @@ Menu Find a Store Aeropostale
     *   Accessories
     *   Underwear
     *   Cologne
-    *   Extended Sizes
     *   Clearance
     
     *   Collections
         *   View All
         *   New Arrivals
         *   Face Coverings
+        *   New Aero Logo
         *   Uniform
         *   Twisted for Tie Dye
-        *   Get Cozy
-        *   Best Sellers
         *   Jeans Guide
         *   Online Only
-        *   Back to Basics
-        *   Active
+        *   Extended Sizes
 *   Jeans
     
     *   View Home
@@ -301,19 +279,13 @@ Menu Find a Store Aeropostale
         *   Max Stretch
         *   Eco-Friendly
 *   Aero World
-    
     *   View Home
-    *   Noor
-    *   Alexio
-    *   Conrad
-    *   Gabriella
-    *   Luis
-    *   Teydie
-    *   Kristya
-    *   Miranda
-    *   Claudio
-    *   Pipe
-    
+    *   Violet
+    *   Sydney
+    *   Sheikh
+    *   Mari
+    *   Haley
+    *   Gage
     *   Eco-Friendly
 *   New Arrivals
     
@@ -322,27 +294,24 @@ Menu Find a Store Aeropostale
         *   View All
         *   Just In
         *   Face Coverings
+        *   Tiny Tops
         *   Best Sellers
         *   Online Only
         *   Destroyed Denim
         *   Music + Pop Culture
         *   Matching Sets
-        *   Mexico City
-        *   Swim
-        *   Vacay Vibes
         *   Jewelry
-        *   Tiny Tops
     
     *   Guys
         *   View All
         *   Just In
         *   Face Coverings
+        *   New Aero Logo
         *   Best Sellers
         *   Online Only
         *   Real Denim
         *   Destroyed Denim
         *   Flip Flops + Slides
-        *   Vacay Vibes
 *   Clearance
     
     *   View Home
@@ -374,199 +343,133 @@ Menu Find a Store Aeropostale
 0 Your Shopping Cart is Empty FREE SHIPPING  
 ORDERS OVER $50 Search Catalog Search
 
-In Stores &. Online.
+Oneness Is A New Generation Coming Together To Build A Brighter, More Inclusive Future. Learn More
 
-New! Aero Face Masks
-
-Reusable two-pack masks. Made from 100% washable, breathable cotton for  
-everyday comfort and ease.
-
-To help communities impacted by COVID-19, Aero is donating to Direct Relief, a  
-non-profit organization that provides essential medical resources to people  
-affected by poverty or emergency situations.
-
-Shop Girls Shop Guys
+Oneness Is A New Generation  
+Coming Together To Build A Brighter,  
+More Inclusive Future. Learn More
 
 In Stores &. Online
 
-New! Aero  
-Face Masks  
+50-70% Off Everything
 
-Reusable two-pack masks. Made from 100% washable, breathable  
-cotton for everyday comfort and ease.
-
-To help communities impacted by COVID-19, Aero is donating to Direct  
-Relief, a non-profit organization that provides essential medical  
-resources to people affected by poverty or emergency situations.
+Including 100s of new arrivals &. our need-now Aero shorts
 
 Shop Girls Shop Guys
-
-In Stores &. Online
-
-50-70  
-% Off  
-Everything
-
-Including our have-to-have Aero shorts!
 
 In Stores &. Online
 
 50-70% Off  
-Everything!
+Everything
 
-Including our have-to-have Aero shorts!
+Including 100s of new arrivals &.  
+our need-now Aero shorts
 
-\*Exclusions Apply
+Shop Girls Shop Guys
 
-Shop Girls Shop Guys Girls Shorts **$11.87 &. Up** Guys Shorts **$11.87 &. Up**
+New! Aero  
+Face Masks
 
-**Summertime  
-Vibes**
+Shop Girls Shop Guys
 
-Style inspiration  
-from your Aero fam.
+To help communities impacted  
+by COVID-19, Aero is donating  
+to Direct Relief. Learn More
 
-Show us how you Summer  
-with **@aeropostale** and  
-**#AeroWorld** for a  
-chance to be featured!
+Previous
 
-Summertime  
-Vibes
+Super High Rise
 
-Style inspiration from  
-your Aero fam.
+Super High Rise
 
-Show us how you Summer  
-with **@Aeropostale and**  
-**#AeroWorld** for a chance  
-to be featured!
+High Rise
 
-**Girls  
-Shorts**
+High Rise
+
+Curvy  
+**NEW!**
+
+Curvy  
+**NEW!**
+
+Low Rise
+
+Low Rise
+
+Vintage High Rise
+
+Vintage High Rise
+
+Mom  
+
+Mom  
+
+Bermuda
+
+Bermuda
+
+Midi
+
+Midi
+
+Twill Midi
+
+Twill Midi
+
+Super High Rise
+
+Super High Rise
+
+High Rise
+
+High Rise
+
+Curvy  
+**NEW!**
+
+Curvy  
+**NEW!**
+
+Low Rise
+
+Low Rise
+
+Vintage High Rise
+
+Vintage High Rise
+
+Mom  
+
+Mom  
+
+Next
+
+**Girls Shorts $11.87 &. Up**
 
 **Girls Shorts**
 
 $11.87 &. Up
 
-Vibrant prints. Must-feel fabrics.  
-One-of-a-kind Aero style.
+Flawless fits. Curve-accentuating stretch.  
+Crave-worthy comfort denim.
 
-Lounge-worthy softness  
-New curve loving fits.
+Flawless fits. Curve-accentuating stretch.  
+Crave-worthy comfort denim.
 
-Girls Shorts
-
-Super High Rise
-
-Super High Rise
-
-High Rise
-
-High Rise
-
-Low Rise
-
-Low Rise
-
-Curvy  
-**NEW!**
-
-Curvy  
-**NEW!**
-
-Vintage High Rise
-
-Vintage High Rise
-
-Mom  
-**NEW!**
-
-Mom  
-**NEW!**
-
-Bermuda
-
-Bermuda
-
-Midi
-
-Midi
-
-Twill Midi
-
-Twill Midi
-
-Super High Rise
-
-Super High Rise
-
-High Rise
-
-High Rise
-
-Low Rise
-
-Low Rise
-
-Curvy  
-**NEW!**
-
-Curvy  
-**NEW!**
-
-Vintage High Rise
-
-Vintage High Rise
-
-Mom  
-**NEW!**
-
-Mom  
-**NEW!**
-
-*   1
-*   2
-*   3
-*   4
-*   5
-*   6
-*   7
-*   8
-*   9
-
-Nice to See You Again!
-
-Certain Aero Locations Are Carefully Reopening
-
-&. offering FREE storefront pick up. We're taking extra  
-precautions to keep our customers and associates safe.
-
-Nice to See  
-You Again!
-
-**Certain Aero Locations Are  
-Carefully Reopening**
-
-&. offering FREE pick up in stores.  
-We're taking extra precautions to  
-keep our customers and  
-associates safe.
-
-Find A Store Free Store Pick Up Learn More &. Stay Safe Find A Store Free Store Pick Up Learn More &. Stay Safe
+Girls Shorts Previous
 
 Classic Jogger
 
 Cargo
 
-Active Jogger
+Active Short
 
 Long Cargo  
 **Online Only**
 
-Slim Cut-Off
+Longboard Short
 
-Beach Chino
+Beach Short
 
 Slim Cuffed
 
@@ -578,194 +481,90 @@ Classic Jogger
 
 Cargo
 
-Active Jogger
+Active Short
 
 Long Cargo  
 **Online Only**
 
-Slim Cut-Off
+Longboard Short
 
-Beach Chino
+Beach Short
 
-*   1
-*   2
-*   3
-*   4
-*   5
-*   6
-*   7
-*   8
-*   9
+Next
 
-**Guys Shorts**
+**Guys Shorts $11.87 &. Up**
 
-**Guys  
-Shorts**
+**GUYS Shorts  
+$11.87 &. Up**
 
-$11.87 &. Up
-
-New Premium fabric elevated  
-with extra stretch for comfort  
-and 360° of freedom
-
-Next-level comfort.  
-New Elevated fabric.
+Everyday comfort. Cool distressed details.  
+Updated with stretch—for freedom that moves you.
 
 Guys Shorts
+
+Denim For  
+Days.
+
+Styles With Stretch Denim  
+With Personality.
+
+**Aero Jeans  
+$17.87 &. Up**
+
+Shop Girls Jeans Shop Guys Jeans
+
+Denim For Days.
+
+Styles With Stretch Denim With Personality.
+
+**Aero Jeans  
+$17.87 &. Up**
+
+Shop Girls Jeans Shop Guys Jeans
+
+**Order from our site and  
+pick up your purchase  
+in-store FREE!**
+
+The quickest, easiest and  
+safest way to shop.
+
+Learn More Find A Store
+
+Order  
+Online
+
+Check Your  
+Notifications
+
+FREE Pick Up  
+At Aero
+
+In Stores &. Online
+
+Aero  
+Tees
+
+Aero Tees
+
+New Aero graphic logos.  
+same Easy Aero Style. Effortlessly  
+soft and comfortable - in basics  
+and beyond
+
+**$6.87 &. Up**
+
+Shop Girls Tees Shop Guys Tees
 
 AERO UNIFORM  
 15% Off  
 \+ Free Shipping
 
 When you buy 5 or more  
-Uniform approved styles
-
+Uniform approved styles  
 **No Code Needed!**
 
 Shop Girls Uniform Shop Guys Uniform
-
-**Tees &. Tanks**
-
-**Tees &  
-Tanks**
-
-$6.87 &. Up
-
-Wear what you feel with  
-statement-making graphics  
-and fun splashes of color.
-
-Color your #AeroWorld with  
-graphics that say it all.
-
-Shop Girls Tees Shop Guys Tees Previous
-
-Athletic Skinny  
-**NEW!**
-
-Athletic Skinny  
-**NEW!**
-
-Skinny
-
-Curvy
-
-Straight
-
-Skinny
-
-Slim Straight
-
-Jeggings
-
-Slim
-
-Cheeky  
-**Online Only**
-
-Cheeky  
-**Online Only**
-
-Super Skinny
-
-Athletic Skinny  
-**NEW!**
-
-Athletic Skinny  
-**NEW!**
-
-90's Jeans  
-**NEW!**
-
-90's Jeans  
-**NEW!**
-
-Skinny
-
-Curvy
-
-Straight
-
-Skinny
-
-Slim Straight
-
-Jeggings
-
-Slim
-
-Cheeky  
-**Online Only**
-
-Cheeky  
-**Online Only**
-
-Super Skinny
-
-Athletic Skinny  
-**NEW!**
-
-Athletic Skinny  
-**NEW!**
-
-Skinny
-
-Curvy
-
-Straight
-
-Skinny
-
-Slim Straight
-
-Jeggings
-
-Slim
-
-Cheeky  
-**Online Only**
-
-Cheeky  
-**Online Only**
-
-Super Skinny
-
-Athletic Skinny  
-**NEW!**
-
-Athletic Skinny  
-**NEW!**
-
-90's Jeans  
-**NEW!**
-
-90's Jeans  
-**NEW!**
-
-Skinny
-
-Curvy
-
-Straight
-
-Skinny
-
-Next
-
-**Aero Jeans**
-
-**Aero  
-Jeans**
-
-The easiest fits, the most  
-comfortable stretch. Complete  
-with special washes that make  
-them all your own.
-
-So soft and stretchy, they're just as  
-comfy as your favorite sweats.
-
-Girls Jeans **$17.87 &. Up** Guys Jeans **$17.87 &. Up**
 
 At Aero, we're committed to a better, brighter future.  
 do better, look better, feel better... it's in our jeans.
