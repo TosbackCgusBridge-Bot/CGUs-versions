@@ -30,7 +30,7 @@ Lands' End let's get comfy™ Sign In menu
 
 Receive up to 60% off your order!
 
-code: BRIGHT pin: PROMOTION DETAILS
+code: SUNNY pin: PROMOTION DETAILS
 
 Customer Service Menu
 
