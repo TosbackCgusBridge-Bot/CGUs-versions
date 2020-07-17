@@ -252,17 +252,17 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
-    *   Home routers largely unpatched, raising risk during Covid-19 WFH
-    *   5 Elements of Next-Gen Deception Technology
-    *   BEC scams grow in complexity as Russian actors launch Cosmic Lynx operation
-    *   Are your fleet's vehicles leaking your data secrets?
-    *   USB a prevalent industrial vector vulnerability for OT systems
+    *   Hidden purpose of Mac 'ransomware' EvilQuest is data exfiltration, say researchers
+    *   Inside the Dark Web: 4 Misconceptions and How Security Teams Can Change Minds and Benefit
+    *   Is TikTok out of time? Experts mull implications of ban
+    *   Microsoft phishing domains takedown aimed at familiar criminals refocused on Covid-19
+    *   DMARC embraced by government, private industry lags
     
-    *   Citrix, Juniper and VMware patch array of vulnerabilities
-    *   Zoom fixing zero-day vulnerability in Windows client
+    *   Here are the hurdles that will face Biden’s new CISO
     *   5 Ways vCISOs Move the Security Needle
-    *   Flaws in SETracker watch app posed danger to dementia patients
-    *   BEC scams grow in complexity as Russian actors launch Cosmic Lynx operation
+    *   Huawei ban driven by security, trade considerations
+    *   More Chinese tax software found to dish out backdoor malware
+    *   U.S. top in significant cyberattacks on CSIS list
     
     *   Docker attackers devise clever technique to avoid detection
     *   Huawei ban driven by security, trade considerations
@@ -301,8 +301,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
