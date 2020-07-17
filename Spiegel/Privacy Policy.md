@@ -38,3 +38,5 @@ PUR subscriptions are processed via your iTunes account and are paid for via pur
 *   Impressum
 *   Datenschutz
 *   Nutzungsbedingungen
+
+x Accept all cookies Reject all cookies
