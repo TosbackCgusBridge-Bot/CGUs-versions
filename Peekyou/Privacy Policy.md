@@ -88,7 +88,7 @@ Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-16%  2% 
+5%  2% 
 
 Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -118,7 +118,7 @@ Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-16%  Arrest Records &. Driving Infractions
+5%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -329,7 +329,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Social Profiles 16%  Pinterest 2% 
+Social Profiles 4%  Pinterest 1% 
 
 *   Privacy Policy - privacypolicyvino
     
@@ -338,7 +338,7 @@ Social Profiles 16%  Pinterest 2% 
 *   Learn about instant apps Google Play Instant Apps are Play Store apps you can open before requiring - girlfriendnomore1
     
 
-Wikipedia 2% 
+Wikipedia 1% 
 
 *   Privacy policy
     
@@ -370,7 +370,7 @@ Wikipedia 2% 
     
 *   Show Less ...
 
-Music 16%  Photo Albums 2% 
+Music 4%  Photo Albums 1% 
 
 *   Help
     
@@ -418,7 +418,7 @@ Music 16%  Photo Albums 2% 
     
 *   Show Less ...
 
-Web Search 16%  Images 1% 
+Web Search 4%  Images 1% 
 
 16
 
@@ -426,7 +426,7 @@ Web Search 16%  Images 1% 
 
 20
 
-2
+8
 
 facebookx
 
