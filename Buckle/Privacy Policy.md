@@ -1,13 +1,14 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Shop Limited Time Pricing at our Guest Giveback Event! start saving For the most up-to-date store information check here. Wear now denim styles, at special prices, almost too good to be true. shop now
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Shop Limited Time Pricing at our Guest Giveback Event! start saving For the most up-to-date store information check here. Wear now denim styles, at special prices, almost too good to be true. shop now We are currently experiencing issues with online Guest Loyalty Reward Redemption. see details
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-*   Wear now denim styles, at special prices, almost too good to be true. shop now
+*   We are currently experiencing issues with online Guest Loyalty Reward Redemption. see details
 *   Shop Limited Time Pricing at our Guest Giveback Event! start saving
 *   For the most up-to-date store information check here.
 *   Wear now denim styles, at special prices, almost too good to be true. shop now
+*   We are currently experiencing issues with online Guest Loyalty Reward Redemption. see details
 *   Shop Limited Time Pricing at our Guest Giveback Event! start saving
 
 *   Women
@@ -179,10 +180,11 @@
         *   Bralettes
         *   Coats &. Jackets
         *   Jeans
-        *   Shoes
         *   Pants
         *   Shirts &. Blouses
+        *   Shoes
         *   Shorts
+        *   Sweaters
         *   Sweatshirts
         *   Tees
         *   Tops
@@ -587,4 +589,4 @@ Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">.
