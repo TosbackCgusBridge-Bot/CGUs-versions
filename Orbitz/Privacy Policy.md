@@ -14,7 +14,6 @@ Show Menu Hide Menu
     *   Things to do
     *   Deals
     *   Mobile
-    *   Travel Blog
 
 *   List your property
 *   Account
@@ -53,7 +52,6 @@ For customer service, call us toll-free at 1-800-397-3342. For customers outside
 *   Things to do
 *   Deals
 *   Mobile
-*   Travel Blog
 *   More
     *   Mobile
 
